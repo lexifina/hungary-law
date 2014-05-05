@@ -1,0 +1,52 @@
+# A Kormány 1297/2014. (V. 5.) Korm. határozata
+
+Magyar Közlöny 2014. évi 63. szám, 2014. május 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/68b4651368702e20b3cf9be82cc560d00002fc7a/dokumentumok/e6bc3d53146bf689a7ac880c84bf535fc4a6a23b/letoltes)
+
+---
+
+A Kormány 1297/2014. (V. 5.) Korm. határozata
+a SURJÁNY-HÚS Ipari és Kereskedelmi Korlátolt Felelősségű Társaság és az„ALFÖLDI-HÚS”Élelmiszeripari
+és Kereskedelmi Zártkörűen Működő Részvénytársaság hitel-, illetve kölcsönfelvételéhez kapcsolódó
+egyedi állami kezességről
+A Kormány
+1. az állattenyésztés – azon belül is a sertéságazat – fejlesztési célkitűzéseivel összhangban, a SURJÁNY-HÚS Ipari és
+Kereskedelmi Korlátolt Felelősségű Társaságnak (székhelye: 1097 Budapest, Gubacsi út 22., cégjegyzékszáma:
+01-09-880560, adószáma: 11268639-2-44) és az„ALFÖLDI-HÚS” Élelmiszeripari és Kereskedelmi Zártkörűen Működő
+Részvénytársaságnak (székhelye: 1097 Budapest, Gubacsi út 22., cégjegyzékszáma: 01-10-046614, adószáma:
+11057831-2-43) a húsfeldolgozás, -tartósítás és -készítmény gyártás területén elfoglalt piaci pozícióját, továbbá
+a társadalmi, gazdasági és infrastrukturális szempontból elmaradott, országos átlagot jelentősen meghaladó
+munkanélküliséggel sújtott törökszentmiklósi és szarvasi térségek foglalkoztatásában betöltött szerepét mérlegelve
+az államháztartásról szóló 2011. évi CXCV. törvény 92. § (1) bekezdése alapján felhatalmazza a nemzetgazdasági
+minisztert, hogy a SURJÁNY-HÚS Ipari és Kereskedelmi Korlátolt Felelősségű Társaság és az „ALFÖLDI-HÚS”
+Élelmiszeripari és Kereskedelmi Zártkörűen Működő Részvénytársaság (a továbbiakban együtt: Társaságok) hitel-,
+illetve kölcsönfelvételéhez az állam nevében egyedi állami kezességet vállaljon a következő feltételekkel:
+a) az egyedi állami kezességvállalás a Társaságok fennálló hiteleinek kiváltását célzó, együttesen legfeljebb
+2 480 millió forint tőkeösszegű, legfeljebb 5 éves futamidejű, azon belül legfeljebb 3 éves, tőketörlesztésre
+vonatkozó türelmi idejű hitel-, illetve kölcsön felvételéhez (ideértve a Társaságok fennálló hiteleinek, illetve
+kölcsöneinek átvállalását és átütemezését) és a Társaságok tevékenységének bővítését célzó, együttesen
+legfeljebb 500 millió forint tőkeösszegű, legfeljebb 10 éves futamidejű, azon belül legfeljebb 3 éves,
+tőketörlesztésre vonatkozó türelmi idejű hitel-, illetve kölcsön felvételéhez kapcsolódhat,
+b) egyedi állami kezesség legfeljebb az a) pont szerinti hitel, illetve kölcsön esetében a hitel, illetve a kölcsön
+tőke és ügyleti kamatai összegének 80%-áig vállalható az a) pont szerinti olyan hitelhez, illetve kölcsönhöz
+kapcsolódóan, amelynek kamata éves szinten nem magasabb változó kamatláb esetén a kamat-megállapítás
+időpontjában érvényes, a kamatidőszak hosszával megegyező 1 vagy 3 hónapos BUBOR+3 százalékpont,
+fix kamatozás esetén a szerződéskötés vagy a kamat-megállapítás napját megelőző második munkanapon,
+az Államadósság Kezelő Központ Zrt. által jegyzett, a hitel futamidejét leginkább megközelítő hátralévő
+futamidejű magyar államkötvény referencia hozama+3 százalékpont;
+c) a kezességvállalási díjat úgy kell megállapítani, hogy annak esetleges támogatástartalma az Európai Unió
+működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról
+szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet figyelembevételével de minimis támogatásként
+kerüljön nyújtásra, legfeljebb a Társaságok rendelkezésre álló szabad de minimis keretéig,
+Felelős: nemzetgazdasági miniszter
+Határidő: azonnal
+2. felhívja a vidékfejlesztési minisztert, hogy a kezességvállalási díj mértékére és a kezességvállalási díjban foglalt
+támogatástartalom módszertanára tegyen javaslatot a nemzetgazdasági miniszter részére;
+Felelős: vidékfejlesztési miniszter
+Határidő: azonnal
+3. felhívja a nemzetgazdasági minisztert, hogy az 1. pont szerinti egyedi állami kezességvállalásnál az Államadósság
+Kezelő Központ Zrt.-nek az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről
+szóló 110/2006. (V. 5.) Korm. rendelet 7. § (1) bekezdés b) pont 1. alpontja szerinti közreműködéséről gondoskodjon.
+Felelős: nemzetgazdasági miniszter
+Határidő: azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök

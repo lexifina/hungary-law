@@ -1,0 +1,1016 @@
+# A Kormány 1289/2014. (V. 5.) Korm. határozata
+
+Magyar Közlöny 2014. évi 63. szám, 2014. május 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/68b4651368702e20b3cf9be82cc560d00002fc7a/dokumentumok/e6bc3d53146bf689a7ac880c84bf535fc4a6a23b/letoltes)
+
+---
+
+A Kormány 1289/2014. (V. 5.) Korm. határozata
+egyes állami vagyontárgyak ingyenes tulajdonba adásáról
+1. A Kormány
+a) az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (2) bekezdés c) pontja, valamint
+36. § (3) bekezdése alapján úgy dönt, hogy az 1. mellékletben felsorolt, állami vagyonba tartozó ingatlanok
+ingyenesen a megjelölt helyi önkormányzatok (a továbbiakban: önkormányzat) tulajdonába kerüljenek,
+b) felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő
+Részvénytársaság (a továbbiakban: MNV Zrt.) útján tegye meg a szükséges intézkedéseket annak érdekében,
+hogy az 1. mellékletben felsorolt önkormányzatokkal a tulajdonosváltozás ingatlan-nyilvántartásba történő
+bejegyzésére alkalmas szerződés (a továbbiakban: szerződés) – e határozat közzétételét követő hat hónapon
+belül – megkötésre kerüljön.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: közzétételt követő hat hónapon belül
+2. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket annak
+érdekében, hogy a szerződések megkötése előtt az MNV Zrt. a Polgári Törvénykönyv szerinti jóhiszemű eljárásnak,
+együttműködési és tájékoztatási kötelezettségnek eleget téve tájékoztassa az önkormányzatokat az ingatlanra
+vonatkozó terhekről, korlátozásokról, a folyamatban lévő eljárásokról és az egyéb jogi természetű ügyekről, valamint
+adja át az ezekkel kapcsolatban rendelkezésre álló dokumentumokat.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: közzétételt követő hat hónapon belül
+3. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében,
+hogy a szerződések – a tulajdonátruházási szerződésekre vonatkozó általános jogszabályi követelményeken
+túlmenően – tartalmazzák azt is, hogy:
+a) az önkormányzat – szükség esetén – saját költségvetése terhére vállalja az ingatlan környezeti állapotának
+felmérését, kármentesítését, illetve, ha az ingatlanon tervezett tevékenység engedélyköteles, akkor
+a szükséges engedélyek megszerzését, az ingatlan ingyenes tulajdonba adásával összefüggésben
+esetlegesen felmerülő általános forgalmi adó megtérítését;
+b) az önkormányzat az ingatlan tulajdonjogát a fennálló terhekkel együtt szerzi meg;
+c) az önkormányzat vállalja, hogy az ingatlan vonatkozásában az állammal szemben semmilyen követelést nem
+támaszt;
+d) a bérbeadással vagy más jogcímen hasznosított ingatlan esetében az önkormányzat vállalja a fennálló
+jogviszonyokból eredő kötelezettségeket és a tulajdonossal szemben támasztott esetleges jövőbeni
+követelésekért való helytállást;
+e) az önkormányzat vállalja, hogy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.)
+13. § (4) bekezdés b) pontjában meghatározott, az átruházott vagyon hasznosításáról szóló beszámolási
+kötelezettségének – a szerződés hatályba lépését követő évtől kezdődően – minden év december 31. napjáig
+írásban tesz eleget;
+f) amennyiben az önkormányzat az e) pontban foglalt kötelezettségének nem tesz eleget, az ingatlanok
+szerződésben rögzített bruttó forgalmi értékének 5 százalékát, mint késedelmi kötbért köteles az MNV Zrt.
+erre vonatkozó felhívásának kézhezvételétől számított 30 napon belül megfizetni;
+g) az ingatlant az Nvtv. 13. § (4) bekezdés a) pontja szerint az önkormányzat az 1. mellékletben és
+a szerződésben az adott ingatlanra megjelölt hasznosítási célnak megfelelően köteles hasznosítani;
+h) ha az önkormányzat a g) pontban foglalt kötelezettségeinek részben vagy egészben nem tesz eleget, az MNV
+Zrt. az Nvtv. 13. § (7) és (8) bekezdésének megfelelően jár el, azzal, hogy az önkormányzat a nemteljesítési
+kötbért köteles a felszólítás kézhezvételétől számított 60 napon belül az MNV Zrt.-nek megfizetni;
+i) az önkormányzat vállalja azon külön feltételek teljesítését, amelyekhez a vagyonkezelő, annak felügyeleti
+szerve, a védettség jellege szerinti miniszter vagy a sportigazgatási szerv az ingyenes tulajdonba adáshoz
+szükséges hozzájáruló nyilatkozat kiadását kötötte.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: közzétételt követő hat hónapon belül
+4. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében,
+hogy a Dunakeszi 036/2, 5056/1, 5056/5, 5068/8 és 5072 helyrajzi számú, az Eger 9837/23, 9837/24, 9837/25, 6761/4,
+
+6761/5, 6775 helyrajzi számú, a Hatvan 514/1 helyrajzi számú és a Kaposvár 923 helyrajzi számú ingatlanok esetében
+a szerződések – a 3. pontban meghatározottakon felül – tartalmazzák azt is, hogy:
+a) az önkormányzat vállalja a MÁV Magyar Államvasutak Zrt. (a továbbiakban: MÁV Zrt.) és az állam között
+megkötött, az ingatlanok állami tulajdonba kerüléséről szóló megállapodásokban meghatározott kikötéseket
+és az abban külön nem ismertetett terheket;
+b) az önkormányzat kötelezettséget vállal arra vonatkozóan, hogy a MÁV Zrt. által harmadik személyek részére
+érvényes polgári jogi szerződések útján biztosított használati jogosultságokat a tulajdonos személyének
+változása nem érinti.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: közzétételt követő hat hónapon belül
+5. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében,
+hogy a Berettyóújfalu 4188 helyrajzi számú, a Kaposmérő 544 helyrajzi számú, a Mátramindszent 696 helyrajzi
+számú, a Mezőkeresztes 1537 helyrajzi számú, a Somogyvámos 91 helyrajzi számú ingatlanok esetében
+a szerződés – a 3. pontban meghatározottakon felül – tartalmazza azt is, hogy annak hatályba lépését követően
+az érintett önkormányzatok helyt állnak az ingatlannal kapcsolatos, öröklésből származó vagyoni jellegű követelés
+vonatkozásában, és az örökössel való elszámolás tekintetében semmilyen igényt nem támasztanak az MNV Zrt.-vel
+vagy az állam bármely más képviselőjével szemben.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: közzétételt követő hat hónapon belül
+6. A Kormány
+a) a Vtv. 36. § (2) bekezdés e) pontja, valamint 36. § (3) bekezdése alapján úgy dönt, hogy a 2. mellékletben
+felsorolt vagyonelemek ingyenesen a Biharnagybajomi Önkéntes Tűzoltó Egyesület (a továbbiakban:
+Egyesület) tulajdonába kerüljenek a tűzoltási és műszaki mentési feladatok elősegítése érdekében;
+b) a Vtv. 36. § (2) bekezdés e) pontja, valamint 36. § (3) bekezdése alapján úgy dönt, hogy a 3. mellékletben
+felsorolt vagyonelemek ingyenesen az Országos Polgárőr Szövetség, a Balassagyarmat Járási Polgárőr
+Egyesület Bűnmegelőzési és Oktatási Központ, a Bács-Kiskun Megyei Polgárőr Szervezetek Szövetsége,
+a Borsod-Abaúj-Zemplén Megyei Polgárőr Szövetség, a Dombegyház Polgárőrség Közhasznú Szervezet, a Fóti
+Közhasznú Polgárőr Egyesület, a Hajdú-Bihar Megyei Polgárőr Szövetség, a Hegyvidéki Polgárőr Egyesület,
+a Heves Megyei Polgárőr Szervezetek Szövetsége, a Jász-Nagykun-Szolnok Megyei Polgárőr Szövetség,
+a Pápa Városi Polgárőrség, a Széchenyi Ödön Önkéntes Tűzoltó Polgárőr Mentési és Természetvédelmi
+Egyesület, a Vas Megyei Polgárőr Szervezetek Szövetsége, a Zala Megyei Polgárőr Szövetség (a továbbiakban
+együtt: Polgárőr Szövetségek) tulajdonába kerüljenek a közbiztonság és a közrend megteremtésének és
+fenntartásának elősegítése érdekében;
+c) felhívja a nemzeti fejlesztési minisztert, hogy az MNV Zrt. útján intézkedjen, hogy a 2. és 3. mellékletben
+felsorolt ingóságok tulajdonba adásáról szóló szerződés – e határozat közzétételét követő hat hónapon belül
+– az Egyesülettel és a Polgárőr Szövetségekkel megkötésre kerüljön.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: közzétételt követő hat hónapon belül
+7. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében,
+hogy a 6. pont c) alpont szerinti szerződés – a tulajdonátruházási szerződésekre vonatkozó általános jogszabályi
+követelményeken túlmenően – tartalmazza azt is, hogy:
+a) az átadandó ingóságok per-, teher- és igénymentesek;
+b) az Egyesület és a Polgárőr Szövetségek vállalják, hogy az ingyenesen tulajdonukba kerülő ingóságok
+vonatkozásában a tulajdonba adással és az ingóságok műszaki és egyéb állapotával kapcsolatban
+az állammal szemben semmilyen követelést nem támasztanak, és az átadott ingóságok rendeltetésszerű
+használatra való alkalmasságáról a későbbi felhasználás során gondoskodnak;
+c) az Egyesület és a Polgárőr Szövetségek vállalják, hogy az átruházott vagyon hasznosításáról a megállapodás
+hatálybalépését követően – a 2. és 3. mellékletben felsorolt ingóságok elhasználódási ideje alatt vagy azok
+selejtezésének időpontjáig, illetve amíg az ingóságok az Egyesület és a Polgárőr Szövetségek tulajdonában
+állnak, de legfeljebb tizenöt évig – minden év december 31. napjáig írásban tájékozatják az MNV Zrt.-t.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: közzétételt követő hat hónapon belül
+
+8. A Kormány
+a) a Vtv. 36. § (2) bekezdés c) pontja, valamint 36. § (3) bekezdése alapján úgy dönt, hogy az államnak
+a Csongrád Megyei Kegyeleti Korlátolt Felelősségű Társaságban (székhely: 8600 Hódmezővásárhely,
+Dr. Imre József utca 1., cégjegyzékszám: 06-09-002643) fennálló társasági részesedése ingyenesen,
+köztemetők kialakítása és fenntartása érdekében Hódmezővásárhely Megyei Jogú Város Önkormányzatának
+tulajdonába kerüljön,
+b) felhívja a nemzeti fejlesztési minisztert, hogy az MNV Zrt. útján intézkedjen, hogy a társasági részesedés
+tulajdonba adásáról szóló szerződés – jelen határozat közzétételét követő hat hónapon belül – megkötésre
+kerüljön.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: közzétételt követő hat hónapon belül
+9. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy az 1. pont b) alpontjában, a 6. pont c) alpontjában és
+a 8. pont b) alpontjában meghatározott szerződések csak abban az esetben köthetők meg, ha a jogosult a szerződés
+általa történő aláírásának időpontjában az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerinti
+köztartozásmentes adózói adatbázisban nyilvántartott köztartozásmentes adózónak minősül és az MNV Zrt.-vel
+szemben lejárt tartozással nem rendelkezik. A köztartozásmentes adózói minőségét a jogosult az állami adó- és
+vámhatóság által 30 napnál nem régebben kiállított közokirattal igazolja, vagy szerepel a köztartozásmentes adózói
+adatbázisban és erről a szerződés megkötését megelőzően nyilatkozik.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: közzétételt követő hat hónapon belül
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1289/2014. (V. 5.) Korm. határozathoz
+Önkormányzati tulajdonba adásra kerülő ingatlanok jegyzéke
+Sor-
+szám
+Önkormányzat Ingatlan/tulajdoni hányad Segítendő feladat/cél
+Ingatlan-
+nyilvántartási
+megnevezés
+Terület
+(m2)
+1.
+Abasár Község
+Önkormányzata
+Abasár 1703/3 hrsz.
+1/1
+vízkárelhárítás, vízgazdálkodás,
+víziközmű-szolgáltatás/ivóvíz-
+vezeték kiépítése
+kivett beépítetlen
+terület
+
+2.
+Bácsbokod Nagyközség
+Önkormányzata
+Bácsbokod 107/1 hrsz.
+1/1
+helyiséggazdálkodás/gép- és
+eszközállományának
+elhelyezése, raktározás
+kivett telephely 3112
+3.
+Bátaszék Város
+Önkormányzata
+Bátaszék 716/106/A hrsz.
+1/1
+településüzemeltetés;
+egészséges életmód segítését
+célzó szolgáltatások; sport és
+ifjúsági ügyek/(tan)uszoda
+földhasználati jog
+alapján létesült
+épület Tanuszoda
+
+4.
+Berettyóújfalu Város
+Önkormányzata
+Berettyóújfalu 4188 hrsz.
+1/1
+lakásgazdálkodás, szociális
+ellátás/szociális bérlakás
+kivett lakóház,
+udvar, gazdasági
+épület
+
+5.
+Bozsok Község
+Önkormányzata
+Bozsok 265/3 hrsz.
+1/1
+településfejlesztés,
+településrendezés/parkolás
+kivett közforgalom
+elől el nem zárt
+magánút
+
+6.
+Bozsok Község
+Önkormányzata
+Bozsok 265/4 hrsz.
+1/1
+településfejlesztés,
+településrendezés/parkolás
+kivett közforgalom
+elől el nem zárt
+magánút
+
+7.
+Budapest Főváros II.
+Kerület Önkormányzata
+Budapest II. ker. 12870/10
+hrsz.
+2895/10000
+óvodai ellátás/ óvoda kivett óvoda 940
+8.
+Budapest Főváros III.
+Kerület Óbuda-
+Békásmegyer
+Önkormányzata
+Budapest III. ker. 63660
+hrsz.
+1/1
+sport és ifjúsági ügyek/vízi- és
+kerékpáros sporttelep kialakítása
+kivett üdülőépület,
+udvar
+
+9.
+Budapest Főváros IX.
+Kerület Önkormányzata
+Budapest IX. ker. 38229/9
+hrsz.
+1/1
+településüzemeltetés/közút kivett közút 1873
+10.
+Budapest Főváros XI.
+Kerület Újbuda
+Önkormányzata
+Budapest XI. ker. 4497/20
+hrsz.
+1101/3203
+településrendezés,
+településüzemeltetés,
+egészségügyi alapellátás, lakás-
+és helyiséggazdálkodás/
+lakásgazdálkodás és intézményi
+elhelyezés
+kivett intézményi
+épület, udvar
+
+11.
+Dunakeszi Város
+Önkormányzata
+Dunakeszi 5056/1 hrsz.
+1/1
+az egészségügyi alapellátás, az
+egészséges életmód segítése /
+háziorvosi ellátás biztosítása
+kivett orvosi
+rendelő
+
+12.
+Dunakeszi Város
+Önkormányzata
+Dunakeszi 5056/5 hrsz.
+1/1
+kulturális szolgáltatások,
+nyilvános könyvtári ellátás
+biztosítása, helyi közművelődési
+tevékenység támogatása /
+művelődési központ
+üzemeltetése
+kivett kultúrház 3310
+13.
+Dunakeszi Város
+Önkormányzata
+Dunakeszi 5068/8 hrsz.
+1/1
+településüzemeltetés / út,
+parkolóhely biztosítása
+kivett udvar 3032
+14.
+Dunakeszi Város
+Önkormányzata
+Dunakeszi 5072 hrsz.
+1/1
+sport és ifjúsági ügyek /
+sportpálya kiszolgálása
+kivett beépítetlen
+terület
+
+15.
+Dunakeszi Város
+Önkormányzata
+Dunakeszi 036/2 hrsz.
+1/1
+településüzemeltetés, helyi
+környezet és természetvédelem /
+zöldterületként történő
+üzemeltetés
+kivett és védősáv 16093
+
+Sor-
+szám
+Önkormányzat Ingatlan/tulajdoni hányad Segítendő feladat/cél
+Ingatlan-
+nyilvántartási
+megnevezés
+Terület
+(m2)
+16.
+Eger Megyei Jogú
+Város Önkormányzata
+Eger 9837/23 hrsz.
+1/1
+településfejlesztés/iparfejlesztési
+terület kialakítása
+kivett beépítetlen
+terület
+
+17.
+Eger Megyei Jogú
+Város Önkormányzata
+Eger 9837/24 hrsz.
+1/1
+településfejlesztés/iparfejlesztési
+terület kialakítása
+kivett beépítetlen
+terület
+
+18.
+Eger Megyei Jogú
+Város Önkormányzata
+Eger 9837/25 hrsz.
+1/1
+településfejlesztés/iparfejlesztési
+terület kialakítása
+kivett beépítetlen
+terület
+
+19.
+Eger Megyei Jogú
+Város Önkormányzata
+Eger 6761/4 hrsz.
+1/1
+településfejlesztés/intermodális
+csomópont kialakítása
+kivett üzemi terület 1518
+20.
+Eger Megyei Jogú
+Város Önkormányzata
+Eger 6761/5 hrsz.
+1/1
+településfejlesztés/intermodális
+csomópont kialakítása
+kivett üzemi terület 624
+21.
+Eger Megyei Jogú
+Város Önkormányzata
+Eger 6775 hrsz.
+1/1
+településfejlesztés/intermodális
+csomópont kialakítása
+kivett gazdasági
+épület, udvar
+
+22.
+Eger Megyei Jogú
+Város Önkormányzata
+Eger 9870 hrsz.
+1/2
+településfejlesztés/iparfejlesztési
+terület kialakítása
+kivett beépítetlen
+terület
+
+23.
+Eger Megyei Jogú
+Város Önkormányzata
+Eger 9874 hrsz.
+1/2
+településfejlesztés/iparfejlesztési
+terület kialakítása
+kivett beépítetlen
+terület
+
+24.
+Eger Megyei Jogú
+Város Önkormányzata
+Eger 4988 hrsz.
+1/1
+óvodai ellátás / óvoda
+működtetése
+kivett bölcsőde 1326
+25.
+Felsőpetény Község
+Önkormányzata
+Felsőpetény 183/1 hrsz.
+1/4
+sport és ifjúsági ügyek
+/játszópark
+kivett beépítetlen
+terület
+
+(165)
+26.
+Hajdúnánás Városi
+Önkormányzat
+Hajdúnánás 3700/2 hrsz.
+105/10000
+településüzemeltetés, helyi
+közfoglalkoztatás és
+gazdaságszervezés / közpark
+kialakítása, gazdaságszervezési
+feladatok elősegítése
+kivett ipartelep
+
+(2482)
+27.
+Hatvan Város
+Önkormányzata
+Hatvan 514/1 hrsz.
+1/1
+közösségi tér biztosítása
+/művelődési ház kialakítása
+kivett kultúrház 1108
+28.
+Kaposmérő Község
+Önkormányzata
+Kaposmérő 544 hrsz.
+1/2
+helyi környezet- és
+természetvédelem,
+vízgazdálkodás, vízkárelhárítás /
+helyi környezeti- és természeti
+érték megőrző hely kialakítása
+céljára
+kivett beépítetlen
+terület
+353,5
+29.
+Kaposvár Megyei Jogú
+Város Önkormányzata
+Kaposvár 923 hrsz.
+1/1
+településfejlesztés,
+helyiséggazdálkodás/ állami
+vagy egyházi fenntartású
+közintézmény elhelyezése
+kivett általános
+iskola
+
+30.
+Marcali Város
+Önkormányzata
+Marcali 556 hrsz.
+1/1
+településüzemeltetés/telephely kivett tűzoltóság 3027
+31.
+Marcali Város
+Önkormányzata
+Marcali 1096 hrsz.
+1/1
+településüzemeltetés / út
+kiszélesítése, parkoló kialakítása
+kivett beépítetlen
+terület
+
+32.
+Marcali Város
+Önkormányzata
+Marcali 3244/7 hrsz.
+1/1
+egészséges életmód segítését
+célzó szolgáltatások;
+turizmussal kapcsolatos
+feladatok; sport és ifjúsági
+ügyek / játszótér üzemeltetése
+kivett beépítetlen
+terület
+
+Sor-
+szám
+Önkormányzat Ingatlan/tulajdoni hányad Segítendő feladat/cél
+Ingatlan-
+nyilvántartási
+megnevezés
+Terület
+(m2)
+33.
+Marcali Város
+Önkormányzata
+Marcali 3244/13 hrsz.
+1/1
+egészséges életmód segítését
+célzó szolgáltatások;
+turizmussal kapcsolatos
+feladatok; sport és ifjúsági
+ügyek / szabadtéri programok
+szervezése
+kivett beépítetlen
+terület
+
+34.
+Mátramindszent Község
+Önkormányzata
+Mátramindszent 696 hrsz.
+1/1
+szociális, gyermekjóléti
+szolgáltatások; lakás- és
+helyiséggazdálkodás; a
+településen hajléktalanná vált
+személyek ellátásának,
+rehabilitációjának, valamint a
+hajléktalanná válás
+megelőzésének biztosítása/
+munkahelyteremtést elősegítő és
+biztosító intézmény kialakítása
+szociális bérlakás, szolgálati
+lakás
+kivett lakóház és
+udvar és gazdasági
+épület
+
+35.
+Mátraverebély Község
+Önkormányzata
+Mátraverebély 687 hrsz.
+1/1
+lakás- és
+helyiséggazdálkodás/önkormány
+zati bérlakás
+kivett lakóház,
+udvar
+
+36.
+Mezőkeresztes Város
+Önkormányzata
+Mezőkeresztes 1537 hrsz.
+1/1
+településüzemeltetés/park
+kialakítása
+kivett lakóház,
+udvar, gazdasági
+épület
+
+37.
+Mezőlak Község
+Önkormányzata
+Mezőlak 359 hrsz.
+1/1
+óvodai ellátás/óvoda és általános
+iskola működtetése
+kivett általános
+iskola
+
+38.
+Mezőtúr Város
+Önkormányzata
+Mezőtúr 4399 hrsz.
+1/1
+településfejlesztés,
+településrendezés, valamint
+településüzemeltetés / szabadidő
+park kialakítása
+kivett pártház 1187
+39.
+Mosonudvar Város
+Önkormányzata
+Mosonudvar 8099 hrsz.
+1/1
+kulturális szolgáltatás; szociális,
+gyermekjóléti szolgáltatások és
+ellátások;
+helyi adóval,
+gazdaságszervezéssel és a
+turizmussal kapcsolatos
+feladatok;
+a kistermelők, őstermelők
+számára értékesítési lehetőségek
+biztosítása; sport, ifjúsági
+ügyek; közreműködés a
+település közbiztonságának
+biztosításában / községháza,
+faluház kialakítása
+kivett udvar,
+gazdasági épület
+
+40.
+Nagyecsed Város
+Önkormányzata
+Nagyecsed 0204/10 hrsz.
+1/1
+településfejlesztés,
+településrendezés
+/szabadidőpark
+kivett szeméttelep 39904
+41.
+Somogyvámos Község
+Önkormányzata
+Somogyvámos 91 hrsz.
+1/1
+szociális szolgáltatások,
+ellátások, lakás- és
+helyiséggazdálkodás,
+hajléktalanná vált személyek
+ellátása, valamint a
+hajléktalanná válás
+megelőzésének biztosítása; helyi
+környezet- és természetvédelem
+/szolgálati vagy szociális
+bérlakás
+kivett lakóház,
+udvar, gazdasági
+épület
+
+Sor-
+szám
+Önkormányzat Ingatlan/tulajdoni hányad Segítendő feladat/cél
+Ingatlan-
+nyilvántartási
+megnevezés
+Terület
+(m2)
+42.
+Szakáld Község
+Önkormányzata
+Szakáld 024/12 hrsz.
+1/1
+településüzemeltetés,
+hajléktalanná vált személyek
+ellátása, megelőzése,
+kistermelők, őstermelők
+számára értékesítési lehetőség
+biztosítása, közbiztonság
+biztosítása/szociálisan rászoruló
+családok életkörülményeinek
+biztosítása,
+közfoglalkoztatásban
+részvételével konyhakerti
+növények termesztése,
+gombatermesztés, összeszerelő
+üzem, tésztaüzem,
+vidékfejlesztési programban
+történő részvétel
+kivett gazdasági
+épület, udvar
+
+43.
+Szarvas Város
+Önkormányzata
+Szarvas 013 hrsz.
+1/1
+a helyi vízrendezés és
+vízkárelhárítás, az árvíz- és
+belvízelvezetés / árvíz, belvíz
+elleni védekezés, helyi
+vízrendezési és vízkárelhárítási
+feladatok elősegítése
+kivett töltés 46695
+44.
+Szarvas Város
+Önkormányzata
+Szarvas 014 hrsz.
+1/1
+a helyi vízrendezés és
+vízkárelhárítás, az árvíz- és
+belvízelvezetés / árvíz, belvíz
+elleni védekezés, helyi
+vízrendezési és vízkárelhárítási
+feladatok elősegítése
+kivett töltés 20874
+45.
+Szarvas Város
+Önkormányzata
+Szarvas 01248 hrsz.
+1/1
+a helyi vízrendezés és
+vízkárelhárítás, az árvíz- és
+belvízelvezetés / árvíz, belvíz
+elleni védekezés, helyi
+vízrendezési és vízkárelhárítási
+feladatok elősegítése
+kivett töltés 49563
+46.
+Szarvas Város
+Önkormányzata
+Szarvas 207 hrsz.
+1/1
+a helyi vízrendezés és
+vízkárelhárítás, az árvíz- és
+belvízelvezetés / árvíz, belvíz
+elleni védekezés, helyi
+vízrendezési és vízkárelhárítási
+feladatok elősegítése
+kivett töltés 24416
+47.
+Szarvas Város
+Önkormányzata
+Szarvas 870 hrsz.
+1/1
+a helyi vízrendezés és
+vízkárelhárítás, az árvíz- és
+belvízelvezetés / árvíz, belvíz
+elleni védekezés, helyi
+vízrendezési és vízkárelhárítási
+feladatok elősegítése
+kivett töltés 15959
+48.
+Szarvas Város
+Önkormányzata
+Szarvas 871/1 hrsz.
+1/1
+a helyi vízrendezés és
+vízkárelhárítás, az árvíz- és
+belvízelvezetés / árvíz, belvíz
+elleni védekezés, helyi
+vízrendezési és vízkárelhárítási
+feladatok elősegítése
+kivett út 500
+49.
+Szarvas Város
+Önkormányzata
+Szarvas 871/2 hrsz.
+1/1
+a helyi vízrendezés és
+vízkárelhárítás, az árvíz- és
+belvízelvezetés / árvíz, belvíz
+elleni védekezés, helyi
+vízrendezési és vízkárelhárítási
+feladatok elősegítése
+kivett töltés 6658
+
+Sor-
+szám
+Önkormányzat Ingatlan/tulajdoni hányad Segítendő feladat/cél
+Ingatlan-
+nyilvántartási
+megnevezés
+Terület
+(m2)
+50.
+Szarvas Város
+Önkormányzata
+Szarvas 5317 hrsz.
+1/1
+a helyi vízrendezés és
+vízkárelhárítás, az árvíz- és
+belvízelvezetés / árvíz, belvíz
+elleni védekezés, helyi
+vízrendezési és vízkárelhárítási
+feladatok elősegítése
+kivett töltés 8290
+51.
+Szarvas Város
+Önkormányzata
+Szarvas 9243 hrsz.
+1/1
+(zártkert)
+a helyi vízrendezés és
+vízkárelhárítás, az árvíz- és
+belvízelvezetés / árvíz, belvíz
+elleni védekezés, helyi
+vízrendezési és vízkárelhárítási
+feladatok elősegítése
+kivett töltés 17716
+52.
+Szentendre Város
+Önkormányzata
+Szentendre 1147/1 hrsz.
+1/1
+településüzemeltetés/helyi
+közlekedés biztosítása
+kivett közterület 4289
+53.
+Szentgotthárd Város
+Önkormányzata
+Szentgotthárd 191/1 hrsz.
+1/1
+lakás- és helyiséggazdálkodás, a
+területén hajléktalanná vált
+személyek ellátásának és
+rehabilitációjának, valamint a
+hajléktalanná válás
+megelőzésének biztosítása
+/szociális lakások kialakítása
+kivett garázs,
+gazdasági épület,
+udvar és épület és
+benzinkút
+
+54.
+Sződliget Község
+Önkormányzata
+Sződliget 178 hrsz.
+1/1
+településüzemeltetés/közpark,
+pihenőpark
+kivett beépítetlen
+terület
+
+55.
+Tótvázsony Község
+Önkormányzata
+Tótvázsony 34 hrsz.
+1/1
+településfejlesztés,
+településrendezés/út, temető,
+közterület kialakítása
+kivett közterület 1185
+56.
+Tótvázsony Község
+Önkormányzata
+Tótvázsony 144/2 hrsz.
+1/1
+településfejlesztés,
+településrendezés/út, temető,
+közterület kialakítása
+kivett saját
+használatú út
+
+57.
+Tótvázsony Község
+Önkormányzata
+Tótvázsony 146 hrsz.
+1/1
+településfejlesztés,
+településrendezés/út, temető,
+közterület kialakítása
+kivett temető 780
+58.
+Tótvázsony Község
+Önkormányzata
+Tótvázsony 154/2 hrsz.
+1/1
+településfejlesztés,
+településrendezés/út, temető,
+közterület kialakítása
+kivett beépítetlen
+terület
+
+59.
+Tótvázsony Község
+Önkormányzata
+Tótvázsony 156/2 hrsz.
+1/1
+településfejlesztés,
+településrendezés/út, temető,
+közterület kialakítása
+kivett beépítetlen
+terület
+
+60.
+Tótvázsony Község
+Önkormányzata
+Tótvázsony 474 hrsz.
+1/1
+településfejlesztés,
+településrendezés/út, temető,
+közterület kialakítása
+kivett beépítetlen
+terület
+
+61.
+Tótvázsony Község
+Önkormányzata
+Tótvázsony 573 hrsz.
+1/1
+településfejlesztés,
+településrendezés/út, temető,
+közterület kialakítása
+kivett beépítetlen
+terület
+
+62.
+Tótvázsony Község
+Önkormányzata
+Tótvázsony 716 hrsz.
+1/1
+településfejlesztés,
+településrendezés/út, temető,
+közterület kialakítása
+kivett gazdasági
+épület, udvar
+
+63.
+Törökszentmiklós Város
+Önkormányzata
+Törökszentmiklós 4029 hrsz.
+1/1
+településfejlesztés,
+településrendezés;
+településüzemeltetés;
+egészségügyi alapellátás
+/egészségügyi ellátáshoz való
+hozzáférés, közlekedésbiztonság
+javítása
+kivett
+mentőállomás
+
+Sor-
+szám
+Önkormányzat Ingatlan/tulajdoni hányad Segítendő feladat/cél
+Ingatlan-
+nyilvántartási
+megnevezés
+Terület
+(m2)
+64.
+Váchartyán Város
+Önkormányzata
+Váchartyán 3 hrsz.
+1/1
+sport és ifjúsági ügyek/
+sporttelep
+kivett sporttelep 18530
+65.
+Zselicszentpál Község
+Önkormányzata
+Zselicszentpál 2/4 hrsz.
+1/1
+vízközmű szolgáltatás/vízmű
+melletti terület bővítése
+kivett beépítetlen
+terület
+
+66.
+Zselicszentpál Község
+Önkormányzata
+Zselicszentpál 108/1 hrsz.
+1/1
+helyi közfoglalkozatás/kert
+kivett beépítetlen
+terület
+
+2. melléklet az 1289/2014. (V. 5.) Korm. határozathoz
+Tűzoltási és műszaki mentési feladatok elősegítése érdekében az Egyesület tulajdonába
+kerülő ingóságok jegyzéke
+Az ingóságok készletazonosítója (darabszám)
+Páncélos- és gépjármű-technikai szakanyag:
+00453134114007 (1)
+00337436535102 (1)
+
+3. melléklet az 1289/2014. (V. 5.) Korm. határozathoz
+A közbiztonság és a közrend megteremtésével és fenntartásával kapcsolatos feladatok
+ellátásának elősegítése érdekében a Polgárőr Szövetségek tulajdonába kerülő ingóságok
+jegyzéke
+Az ingóságok készletazonosítója (típus/forgalmi rendszám)
+1. ORSZÁGOS POLGÁRŐR SZÖVETSÉG
+Mitsubishi (L 300 K TD 4WD Long) / KUA-141; Lada Niva (21214) / KUA-130; Lada Niva
+(21214) / KWW-006; Lada Niva (21214) / HKF-877; Lada Niva (21214) / KJP-724; Lada
+Niva (21214) / KJP-727; Lada Niva (21214) / KJP-723; Lada Niva (21214) / KJP-725; Opel
+Astra F 1.6 16 V GL / FGK-755; VW Golf 1.9 TD CL / BIT-675; Skoda Octavia 1.8 Turbo
+Elegance / ICB-720; VW Golf 1.3 CL / BIT-190; Mitsubishi (L 300 K TD 4WD Long) /
+KUA-389; Lada Niva (21214) / HHV-608; Lada Niva (21214) / HFX-169; Lada Niva (21214)
+/ KUA-073; Lada Niva (21214) / KUA-076; Lada Niva (21214) / KHP-107; Lada Niva
+(21214) / KSF-141; Lada Niva (21214) / JEP-709; Lada Niva (21214) / KRR-860; Lada Niva
+(21214) / KRR-866; Lada Niva (21214) / KRR-868; Lada Niva (21214) / KUC-067; Lada
+Niva (21214) / KVB-821; Lada Niva (21214) / KYB-578; Lada Niva (21214) / KRR-862;
+Lada Niva (21214) / KRR-865; Suzuki Swift Sedan 1.6 GX / HGP-143; Lada Niva (21214) /
+HIK-355; Lada Niva (21214) / HIK-356; Lada Niva (21213) / IVJ-965; Lada Niva (21214) /
+KSP-073; Lada Niva (21214). / KSP-074; Lada Niva (21214) / KSP-075; Lada Niva (21214) /
+HIK-388; Lada Niva (21214) / KSP-077; Lada Niva (21214) / KRR-863; Lada Niva (21214) /
+KRR-867; Lada Niva (21214) / KTN-647; VW Golf 1.4 CL / FFV-656; Opel Astra 1.4
+Classic / HEW-071; Lada Niva (21214) / HFX-167; Opel Astra G 1.8 16V CDX / HHE-856;
+Suzuki Swift Sedan 1.3 GL / HOB-345; Opel Astra G 1.6 Club / IAM-026; VW Bora 1.6 /
+IAN-540; Opel Astra G 1.6 16 V Club / ICC-567; Ford Focus Kombi 1.6 Comfort / KRC-237
+2. BALASSAGYARMAT JÁRÁSI POLGÁRŐR EGYESÜLET BŰNMEGELŐZÉSI ÉS OKTATÁSI
+KÖZPONT
+VW Transporter 1.9 Turbo D Kat / BCW-051; Suzuki Swift Sedan 1.6 GX / GMC-420; Lada
+Niva (21214) / HIK-385; Lada Niva (21214) / KVB-822; Lada Niva (21214) / KVB-825
+3. BÁCS-KISKUN MEGYEI POLGÁRŐR SZERVEZETEK SZÖVETSÉGE
+Opel Astra F (1.6 16V GL) / GPZ-678; Lada Niva (21214) / HFX-800; Lada Niva (21214) /
+HHV-241; Lada Niva (21214) / HHV-626; Lada Niva (21213) / IVJ-963; Lada Niva (21214) /
+KUA-074; Lada Niva (21214) / KUA-075; Lada Niva (21214) / HIK-346; Lada Niva (21214)
+/ HMP-110; Hajószállító utánfutó / XPN-639; Motoros Kishajó / 4681030115
+4. BORSOD-ABAÚJ-ZEMPLÉN MEGYEI POLGÁRŐR SZÖVETSÉG
+Opel Astra F (1.6 16V GL) / GPW-983; Mitsubishi (L 300 K TD 4WD Long) / KJP-722;
+Lada Niva (21214) / HHV-639; Lada Niva (21214) / HHV-614; Lada Niva (21214) / HIK-
+357; Lada Niva (21214) / HKF-880; Lada Niva (21213) / IVJ-966; Lada Niva (21213) / IVJ-
+967; Lada Niva (21214) / KVP-150; Lada Niva (21214) / KVP-316; Lada Niva (21214) /
+KVP-127
+
+5. DOMBEGYHÁZ POLGÁRŐRSÉG KÖZHASZNÚ SZERVEZET
+Lada Niva (21214) / HKF-878
+6. FÓTI KÖZHASZNÚ POLGÁRŐR EGYESÜLET
+Lada Niva (21214) / KUC-071
+7. HAJDÚ-BIHAR-MEGYEI POLGÁRŐR SZÖVETSÉG
+VW Transporter 1.9 Turbo D Kat / EHU-581; Lada Niva (21213) / IVJ-962; Lada Niva
+(21214) / KJP-726; Lada Niva (21214) / KUA-133; Lada Niva (21214) / KVP-126; Lada
+Niva (21214) / KVP-327
+8. HEGYVIDÉKI POLGÁRŐR EGYESÜLET – ÜRÖM
+Lada Niva (21214) / HHV-634
+9. HEVES MEGYEI POLGÁRŐR SZERVEZETEK SZÖVETSÉGE
+Lada Niva (21214) / HHV-616; Lada Niva (21214) / HHV-997; Lada Niva (21214) / HIK-
+354; Lada Niva (21214) / KVB-823; Lada Niva (21214) / KVB-824
+10. JÁSZ-NAGYKUN-SZOLNOK MEGYEI POLGÁRŐR SZÖVETSÉG
+Lada Niva (21214) / JRL-865; Lada Niva (21214) / KUC-068; Lada Niva (21214) / KUC-070
+11. PÁPA VÁROSI POLGÁRŐRSÉG
+Lada Niva (21214) / KTN-649
+12. SZÉCHENYI ÖDÖN ÖNKÉNTES TŰZOLTÓ POLGÁRŐR MENTÉSI ÉS
+TERMÉSZETVÉDELMI EGYESÜLET
+Lada Niva (21214) / KUC-069
+13. VAS MEGYEI POLGÁRŐR SZERVEZETEK SZÖVETSÉGE
+Ford Transit (2.5 D CL 9) / CVL-035; Lada Niva (21214) / KEZ-012; Lada Niva (21214) /
+KSF-142; Lada Niva (21214) / KSF-143; Lada Niva (21214) / KTN-646; Lada Niva (21214) /
+KXS-266
+
+14. ZALA MEGYEI POLGÁRŐR SZÖVETSÉG
+Opel Astra F 1.6 GL / GIK-231; Opel Astra F 1.6 16 V GL / GPY-872; Opel Astra F 1.6 16 V
+GL / GPZ-842; Lada Niva (21214) / HIK-389; Lada Niva (21213) / IVJ-964; Lada Niva
+(21214) / KRR-864; Lada Niva (21214) / KRR-869
