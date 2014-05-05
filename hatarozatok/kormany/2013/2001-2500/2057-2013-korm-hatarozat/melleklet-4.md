@@ -46,53 +46,7 @@
 
 | 3. Prioritás összesen | 27,85 | 3,29 | 0,53 |  |  |  |
 
-| 4. | I. Prioritás bemutatása: 4. prioritás: Humán infrastruktúra fejlesztések |  | Észak-Alföldi Operatív Program |
-
-|  |  |  |  |  |  |  | Akcióterv 2011-2013 |
-
-| 1. Prioritás tartalma |  |  |  |  |  |  |
-
-| Prioritás rövid tartalma (max. 500 karakter) |  |
-
-| A prioritás támogatást nyújt az óvodai, alap- és középfokú oktatási intézmények épületeinek, a helyi szinten biztosítandó egészségügyi alapellátás szakellátás, valamint az egészségügyi rehabilitáció infrastrukturális fejlesztésére. A prioritás keretében támogatható továbbá elektronikus közigazgatás, az alap és nappali szociális és gyermekjóléti ellátás infrastrukturális fejlesztése. |  |
-
-| 2. A prioritás ütemezése – kiírások kerete |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |  |  |
-
-| 2011 | 2012 | 2013 | Összesen |  |  |  |
-
-| 9,38 | 9,31 | 1,18 | 19,87 |  |  |  |
-
-| Tartalék: 0 Mrd Ft |  |  |  |  |  |
-
-| ESZA tervezett arány a prioritás keretéből max.10 % |  |  |
-
-| 3. A prioritás ütemezése – kötelezettségvállalás (IH döntés) |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |
-
-| 2007-2010 | 2011 | 2012 | 2013 | 2014-2015 | Összesen |  |
-
-| 47,80 | 0,00 | 11,63 | 7,97 | 0,27 | 67,67 |  |
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete (Mrd Ft) | Konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
-
-| 2011 | 2012 | 2013 |
-
-| 4.1.1. | Oktatási-nevelési intézmények fejlesztése | 2,00 | 4,58 | 0,00 | Energiatakarékos és korszerű közoktatási intézmények kialakítása, meglévő intézmények akadálymentes felújítása, bővítése, modernizációja, többfunkcióssá és energiatakarékossá tétele. Épület/rész akadálymentes építése, felújítása, átépítése, bővítése. | emberi erőforrások minisztere | közigazgatási és igazságügyi miniszter |
-
-| 4.1.2. | Egészségügyi intézmények fejlesztése | 4,06 | 4,58 | 1,18 | Kistérségi járóbeteg szakellátó központok fejlesztése. Egészségügyi alapellátás fejlesztése, infrastrukturális beruházás és eszközbeszerzés támogatásán keresztül. Egészségügyi rehabilitációhoz kapcsolódó fejlesztések a lakossági hozzáférés növelése és a földrajzi-regionális és szakmai-tartalmi egyenlőtlenségeinek csökkentése érdekében. | emberi erőforrások minisztere |  |
-
-| 4.1.3. | Szociális ellátás fejlesztése | 3,32 | 0,16 | 0,00 | Szociális alapszolgáltatások és gyermekjóléti alapellátások infrastrukturális fejlesztése. Bölcsődei ellátást nyújtó intézmények fejlesztése és kapacitásának növelése. | emberi erőforrások minisztere |  |
-
-| 4.1.4. | Közösségi intézmények fejlesztése | A konstrukció 2011-13-ban nem indul. | emberi erőforrások minisztere |  |
-
-| 4.1.5. | Akadálymentesítés | A konstrukció 2011-13-ban nem indul. | emberi erőforrások minisztere |  |
-
-| 4.1.6. | Térségi közigazgatási és közszolgáltatási rendszerek informatikai fejlesztése | A konstrukció 2011-13-ban nem indul. | nemzeti fejlesztési miniszter | közigazgatási és igazságügyi miniszter |
-
-|  | 4. Prioritás összesen | 9,38 | 9,31 | 1,18 |  |  |  |
+| 4. |
 
 | 5. | I. Prioritás bemutatása: 5. prioritás: Város- és térségfejlesztés |  | Észak-Alföldi Operatív Program |
 
