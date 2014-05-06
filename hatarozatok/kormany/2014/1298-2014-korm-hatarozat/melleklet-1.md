@@ -36,6 +36,8 @@
 
 ## Határidő: folyamatos
 
-## 14. visszavonja a 2014–2020 közötti időszakban a Terület- és Településfejlesztési Operatív Program tervezésének egyes szempontjairól, az operatív programhoz tartozó megyék megyei önkormányzatai és a megyei jogú városok önkormányzatai tervezési jogkörébe utalt források megoszlásáról, valamint a 2014–2020 közötti források területi koordinációjának kereteiről szóló 1115/2013. (III. 8.) Korm. határozat módosításáról szóló 1831/2013. (XI. 14.) Korm. határozatot.
+## 14.[^2]
 
 1. melléklet az 1298/2014. (V. 5.) Korm. határozathoz
+
+[^2]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
