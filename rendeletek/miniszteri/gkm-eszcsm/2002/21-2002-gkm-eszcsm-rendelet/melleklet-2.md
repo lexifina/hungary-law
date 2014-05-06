@@ -2,7 +2,7 @@
 
 ## vizsgálata és igazolása
 
-## A vizsgált személy belvízi hajózási szolgálatra akkor minősíthető egészségi szempontból alkalmasnak, ha megfelel a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló jogszabályban[^14] foglaltaknak és az alább felsorolt követelményeknek. Amennyiben a vizsgáló orvos olyan megbetegedést vagy rendellenességet észlel, amely veszélyeztetheti a vizsgált személyt, a hajón tartózkodó más személyeket, illetve a hajó és a hajózás biztonságát, a szolgálatra alkalmasságot az Országos Közegészségügyi Központ (a továbbiakban: OKK) keretében működő Repülési, Hajózási és Tengerészeti Egészségügyi Központ orvosa minősíti, és ad beosztást, hajótípust érintő vagy időbeli korlátozást.
+## A vizsgált személy belvízi hajózási szolgálatra akkor minősíthető egészségi szempontból alkalmasnak, ha megfelel a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló jogszabályban[^16] foglaltaknak és az alább felsorolt követelményeknek. Amennyiben a vizsgáló orvos olyan megbetegedést vagy rendellenességet észlel, amely veszélyeztetheti a vizsgált személyt, a hajón tartózkodó más személyeket, illetve a hajó és a hajózás biztonságát, a szolgálatra alkalmasságot az Országos Közegészségügyi Központ (a továbbiakban: OKK) keretében működő Repülési, Hajózási és Tengerészeti Egészségügyi Központ orvosa minősíti, és ad beosztást, hajótípust érintő vagy időbeli korlátozást.
 
 ## I. Látási követelmények:
 
@@ -136,4 +136,4 @@
 
 együttes rendelethez
 
-[^14]: A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet 12. §-a alapján.
+[^16]: A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet 12. §-a alapján.

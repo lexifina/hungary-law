@@ -2,11 +2,11 @@
 
 ## – a Tanácsnak a Közösség belvízi útjain való áru- és utasszállításhoz szükséges nemzeti hajóvezetői bizonyítványok megszerzési feltételeinek harmonizálásáról szóló 96/50/EK irányelvének 6. cikke;
 
-## – a Tanácsnak a tengerészek minimális képzettségi szintjéről szóló 2001/25/EK irányelvének 10. cikke.[^12]
+## – a Tanácsnak a tengerészek minimális képzettségi szintjéről szóló 2001/25/EK irányelvének 10. cikke.[^14]
 
 1. számú melléklet a 21/2002. (XI. 8.) GKM–ESZCSM
 
-együttes rendelethez[^13]
+együttes rendelethez[^15]
 
-[^12]: A Magyar Közlöny 2002. évi 156. számában megjelent helyesbítésnek megfelelő szöveg.
-[^13]: Az 1. számú melléklet a 94/2011. (XII. 30.) NFM rendelet 15. § (1) bekezdése szerint módosított szöveg.
+[^14]: A Magyar Közlöny 2002. évi 156. számában megjelent helyesbítésnek megfelelő szöveg.
+[^15]: Az 1. számú melléklet a 94/2011. (XII. 30.) NFM rendelet 15. § (1) bekezdése szerint módosított szöveg.

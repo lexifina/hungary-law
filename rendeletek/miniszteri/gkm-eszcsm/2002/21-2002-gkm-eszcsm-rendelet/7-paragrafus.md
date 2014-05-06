@@ -24,13 +24,13 @@ g) tengeri kedvtelési célú kishajó vezetésére
 
 a) orvosi igazolást (1. számú melléklet),
 
-b) belvízi nagyhajó vezetésére jogosító képesítéssel rendelkező személy részére magyar és német nyelven „Belvízi nagyhajó vezetésére való alkalmasságról szóló orvosi bizonyítvány”-t (3. számú melléklet), vagy
+b)[^7] belvízi nagyhajó vezetésére jogosító képesítéssel rendelkező személy részére magyar és német nyelven „Belvízi nagyhajó vezetésére való alkalmasságról szóló orvosi bizonyítvány”-t (4. számú melléklet), vagy
 
-c) tengeri hajózási szolgálatot ellátó személy részére magyar és angol nyelven „Tengerész szolgálati egészségügyi bizonyítvány”-t (4. számú melléklet)
+c)[^8] tengeri hajózási szolgálatot ellátó személy részére magyar és angol nyelven „Tengerész szolgálati egészségügyi bizonyítvány”-t (5. számú melléklet)
 
 ## állít ki.
 
-(4)[^7] A vizsgálat eredményét – az 5. § (3) bekezdésében említett vizsgálat esetét kivéve –
+(4)[^9] A vizsgálat eredményét – az 5. § (3) bekezdésében említett vizsgálat esetét kivéve –
 
 a) a hajós szolgálati könyvbe az orvosi igazolás vagy a „Belvízi nagyhajó vezetésére való alkalmasságról szóló orvosi bizonyítvány” alapján a hajózási hatóság,
 
@@ -40,11 +40,13 @@ c) kedvtelési célú vízijármű vezetőjének nem kártyaformátumú képesí
 
 ## jegyzi be.
 
-(5)[^8] Azon személy esetében, aki még nem rendelkezik szolgálati könyvvel vagy képesítő okmánnyal, az orvosi igazolások alapján a szolgálati könyvet kiállító hajózási hatóság végzi el a bejegyzést.
+(5)[^10] Azon személy esetében, aki még nem rendelkezik szolgálati könyvvel vagy képesítő okmánnyal, az orvosi igazolások alapján a szolgálati könyvet kiállító hajózási hatóság végzi el a bejegyzést.
 
-(6)[^9] A kedvtelési célú vízijármű vezetésére jogosító kártyaformátumú képesítő okmány érvényessége az egészségi alkalmassági időtartamtól függ.
+(6)[^11] A kedvtelési célú vízijármű vezetésére jogosító kártyaformátumú képesítő okmány érvényessége az egészségi alkalmassági időtartamtól függ.
 
 [^6]: A 7. § (3) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^7]: A 7. § (4) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^8]: A 7. § (5) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^9]: A 7. § (6) bekezdését a 94/2011. (XII. 30.) NFM rendelet 13. § (2) bekezdése iktatta be.
+[^7]: A 7. § (3) bekezdés b) pontja a 29/2014. (V. 5.) NFM rendelet 21. § a) pontja szerint módosított szöveg.
+[^8]: A 7. § (3) bekezdés c) pontja a 29/2014. (V. 5.) NFM rendelet 21. § b) pontja szerint módosított szöveg.
+[^9]: A 7. § (4) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^10]: A 7. § (5) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^11]: A 7. § (6) bekezdését a 94/2011. (XII. 30.) NFM rendelet 13. § (2) bekezdése iktatta be.
