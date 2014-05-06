@@ -1,29 +1,39 @@
-41. § (1) Kiemelt sportösztöndíjban részesíthető az előző négy évben olimpiai játékokon, paralimpián és világbajnokságokon, sakkolimpián és speciális világjátékokon kizárólag olimpiai, paralimpiai, sakkolimpiai és speciális világjáték versenyszámban olimpiai, paralimpiai érmes vagy világbajnoki eredményt elért
+## részére is.
 
-a) versenyző,
+## 41. § A miniszter a paralimpiai mozgalom és a fogyatékos személyek sportjának fejlesztése érdekében a Fogyatékosok sportjának támogatása előirányzat terhére támogatja:
 
-b) versenyzőt felkészítő edző.
+a) a paralimpiai felkészülést és a fogyatékosok versenysportját nem paralimpiai versenyszámokban,
 
-(2) A kiemelt sportösztöndíj mértéke
+b) a paralimpiai és nem paralimpiai sportágak területén működő sportszövetségek, ezek jogi személyiséggel rendelkező szervezeti egységei, valamint a sportszervezet, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány szakmai programjai és feladatai megvalósítását, valamint az ezzel összefüggő működési költségeit,
 
-a) versenyző esetén
+c) a fogyatékosok sportjában országos vagy megyei szinten valamennyi fogyatékossági ágban és több sportágban – a fogyatékosok sportja területén – működő sportszövetség, sportszervezet, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány szakmai programjait és feladatait, valamint az ezek megvalósításával összefüggő működési költségeit,
 
-aa) egyéni sportágban elért, sportösztöndíjra jogosító eredmény után havonta négyszázezer forint,
+d) az olimpiai központban való edzőtáborozást,
 
-ab) egyéni sportág csapat versenyszámaiban vagy csapatsportágban elért, sportösztöndíjra jogosító eredmény után versenyzőnként havonta legalább kétszázezer, legfeljebb háromszázezer forint;
+e) hazai és nemzetközi versenyeken való részvételt,
 
-b) edző esetén – a (3) bekezdésben foglaltakra is figyelemmel –
+f) sportolók felkészülését és részvételét a speciális világjátékokon,
 
-ba) az a) pont aa) alpontjában meghatározott versenyző által elért, kiemelt sportösztöndíjra jogosító eredmény után havonta négyszázezer forint,
+g) sportszakemberek foglalkoztatásának költségeit,
 
-bb) az a) pont ab) alpontjában meghatározott versenyzők, csapat által elért, kiemelt sportösztöndíjra jogosító eredmény után havonta háromszázezer forint.
+h) sportfelszerelés, sporteszközök, sportágspecifikus technikai eszközök, a sporttevékenységhez közvetlenül kapcsolódó sportruházat beszerzését,
 
-(3) A kiemelt sportösztöndíjban részesülő személyekről a MOB elnöksége
+i) sportegészségügyi feladatok ellátását (különösen a paralimpiai és speciális világjátékok kerettagjainak sporttevékenységével összefüggő sport- és egyéb egészségügyi szolgáltatások, táplálkozási tanácsadás igénybevételét, sportegészségügyi eszközök, műszerek, gyógyszerek, étrend-kiegészítők, vitaminok beszerzését),
 
-a) versenyző esetén az elért eredményekre,
+j) a fogyatékosok sportjának fejlesztését szolgáló sportszakmai és sporttudományos programokat,
 
-b) edző esetén a legjobb eredményt elért versenyzőjének eredményessége és az edző szakmai pályafutásának értékelésére
+k) a sportszakember-képzési feladatokat,
 
-figyelemmel dönt.
+l) a sport által megvalósuló integrációt elősegítő programokat,
 
-(4) A versenyző a (2) bekezdés a) pont aa) és ab) alpontjában meghatározott jogcímek közül csak egy alapján jogosult költségvetési támogatásra. Az edző a (2) bekezdés b) pont ba) és bb) alpontjában meghatározott jogcímek közül csak egy alapján jogosult költségvetési támogatásra.
+m) a sportrehabilitációs programokat,
+
+n) egyéb, a paralimpiai sportágak fejlesztésével összefüggő feladatok ellátását,
+
+o) a fogyatékosok nem paralimpiai sportágak területén működő civil szervezetei, ezek jogi személyiséggel rendelkező szervezeti egységei, valamint sportszervezetei, sportiskolái, utánpótlás-nevelés fejlesztését végző alapítványai szakmai programjait és feladatait, továbbá az ezek megvalósításával összefüggő működési költségeit,
+
+p) a fogyatékos gyerekek tanórán kívüli, rendszeres, terápiás jellegű sportoktatását és programjait,
+
+q) a fogyatékos személyek szabadidősportjának, valamint diáksportjának országos, megyei és helyi rendezvényeit,
+
+r) egyéb, a fogyatékosok sportjának fejlesztésével összefüggő feladatok ellátását.

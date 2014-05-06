@@ -1,3 +1,0 @@
-44. § (1) A miniszter az „Utánpótlás-nevelési feladatok” előirányzat terhére támogatja a Sport XXI. Utánpótlás-nevelési programot (a továbbiakban: Sport XXI. program), a Héraklész Program megvalósítását, a sportiskolákat, az egyéb utánpótlás-nevelési feladatok ellátását.
-
-(2) A miniszter az (1) bekezdés szerinti előirányzat terhére közvetlenül költségvetési támogatást nyújt a fenntartó részére a Csanádi Árpád Általános Iskola, Középiskola és Pedagógiai Intézet működtetésével kapcsolatos költségekhez, a Központi Sport és Ifjúsági Sportegyesület szakmai feladatai ellátásához, valamint a Duna Kupa versenysorozaton való részvétel és a Duna Kupa versenysorozat magyarországi megrendezése költségeihez.

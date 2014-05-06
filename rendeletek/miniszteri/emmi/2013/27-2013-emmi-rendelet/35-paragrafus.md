@@ -2,9 +2,9 @@
 
 ## továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása
 
-35. § (1) A miniszter az „Országos sportági szakszövetségek akadémiai rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása” előirányzat terhére a sportolói életpálya bevezetése és fenntartása, a magyar sporttehetségek kiválasztásának és folyamatos nyomon követési rendszerének kiépítése érdekében – a MOB szakmai felügyelete mellett – támogatja a kiemelt utánpótlás-nevelési központok akadémiai rendszerű fejlesztését, ennek keretében biztosítja az emelt szintű szakmai képzést és a felkészüléshez szükséges sportegészségügyi, sporttudományi hátteret, továbbá intézményesített kapcsolatot, átjárhatóságot a köznevelés intézményrendszerével a fokozott sporttevékenységgel együtt járó terhelés, időbeosztás rugalmas kialakítása céljából (a továbbiakban: akadémiai program).
+35. § (1)[^33] A miniszter az Országos sportági szakszövetségek akadémiai rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása előirányzat terhére a sportolói életpálya bevezetése és fenntartása, a magyar sporttehetségek kiválasztásának és folyamatos nyomon követési rendszerének kiépítése érdekében támogatja a kiemelt utánpótlás-nevelési központok akadémiai rendszerű fejlesztését, ennek keretében biztosítja az emelt szintű szakmai képzést és a felkészüléshez szükséges sportegészségügyi, sporttudományi hátteret, továbbá intézményesített kapcsolatot, átjárhatóságot a köznevelés intézményrendszerével a fokozott sporttevékenységgel együtt járó terhelés, időbeosztás rugalmas kialakítása céljából (a továbbiakban: akadémiai program).
 
-(2) Az (1) bekezdés szerinti költségvetési támogatás kedvezményezettjei országos sportági szakszövetségek és sportszervezetek.
+(2)[^34] Az (1) bekezdés szerinti költségvetési támogatás kedvezményezettjei országos sportági szakszövetségek és sportszervezet, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány.
 
 (3) Az (1) bekezdés szerinti költségvetési támogatás a 45. § (1) bekezdésében meghatározott feladatok mellett
 
@@ -24,6 +24,11 @@ g) felkészítéssel, edzőtáboroztatással és versenyeztetéssel közvetlenü
 
 használható fel.
 
-(4) A miniszter az „Országos sportági szakszövetségek akadémiai rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása” előirányzat terhére támogatja – a MOB szakmai felügyelete mellett – a Magyar Labdarúgó Szövetség (a továbbiakban: MLSZ) utánpótlás-nevelési programját és az abban részt vevő sportszervezeteket, ezek jogi személyiséggel rendelkező szakosztályait, szervezeti egységeit, köznevelési intézményeket, sportiskolákat és diáksport egyesületeket, valamint a sport fejlesztését szolgáló, utánpótlás-neveléssel foglalkozó közhasznú alapítványokat. A költségvetési támogatás a 45. § (1) bekezdésében foglalt feladatokra használható fel.
+(4)[^35] A miniszter az Országos sportági szakszövetségek akadémiai rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása előirányzat terhére támogatja a Magyar Labdarúgó Szövetség (a továbbiakban: MLSZ) utánpótlás-nevelési programját és az abban részt vevő sportszervezeteket, ezek jogi személyiséggel rendelkező szakosztályait, szervezeti egységeit, köznevelési intézményeket, sportiskolákat és diáksport egyesületeket, valamint a sport fejlesztését szolgáló, utánpótlás-neveléssel foglalkozó közhasznú alapítványokat. A költségvetési támogatás a 45. § (1) bekezdésében foglalt feladatokra használható fel.
 
-(5) A „Országos sportági szakszövetségek akadémiai rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása” előirányzat terhére elő- és utófinanszírozással is nyújtható támogatás, egyedi döntés alapján, a költségvetési támogatás részletekben vagy egy összegben történő kifizetésével, továbbá támogatási előleg biztosításával.
+(5)[^36] Az országos sportági szakszövetségek akadémiai rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása előirányzat terhére egyedi döntés alapján nyújtható költségvetési támogatás. A költségvetési támogatás teljes összege támogatási előlegként is nyújtható.
+
+[^33]: A 35. § (1) bekezdése a 39/2014. (V. 5.) EMMI rendelet 28. § g) pontja, a 30. § h) pontja szerint módosított szöveg.
+[^34]: A 35. § (2) bekezdése a 39/2014. (V. 5.) EMMI rendelet 28. § h) pontja szerint módosított szöveg.
+[^35]: A 35. § (4) bekezdése a 39/2014. (V. 5.) EMMI rendelet 28. § g) pontja, a 30. § h) pontja szerint módosított szöveg.
+[^36]: A 35. § (5) bekezdése a 39/2014. (V. 5.) EMMI rendelet 11. §-ával megállapított szöveg.

@@ -1,77 +1,107 @@
-38. § (1) A 37. § a), c) és g) pontja szerinti költségvetési támogatás felhasználása során a következő tételek számolhatók el:
+38. § (1) A Sporteredmények, sportszakmai tevékenység anyagi elismerése előirányzat terhére támogatható:
 
-a) a hazai és külföldi versenyeken, edzőtáborokban, más szakmai programokon való részvétel költségei,
+a) a Nemzet Sportolója Címmel járó életjáradék folyósítása,
 
-b) a versenyrendezés (beleértve a jogdíjakat is) és más szakmai programok rendezésének költségei,
+b) az olimpiai járadék folyósítása,
 
-c) a sportdiplomáciai feladatokkal összefüggő költségek,
+c) nyugdíjas olimpiai és világbajnoki érmes sportolók, azok özvegyei, valamint a kiemelkedő sporteredmények elérésében közreműködő nyugdíjas sportszakemberek rászorultsági alapon történő költségvetési támogatása,
 
-d) a sportegészségügyi ellátással (különösen válogatott vagy olimpiai, paralimpiai kerettagok sporttevékenységével összefüggő sport- és egyéb egészségügyi szolgáltatások, táplálkozási tanácsadás, sportegészségügyi eszközök, műszerek, gyógyszerek, étrend-kiegészítők, vitaminok vásárlása) összefüggő költségek,
+d) a Gerevich Aladár-sportösztöndíj rendszer működtetése,
 
-e) a válogatott kerettag versenyzők doppingvizsgálatával, doppingellenes felvilágosításával összefüggő költségek,
+e) az Ezüstgerely művészeti pályázat támogatása.
 
-f) sportfelszerelés, sporteszközök, sportág-specifikus technikai eszközök, a sporttevékenységhez közvetlenül kapcsolódó sportruházat biztosításával, valamint a sporttevékenységbe bevont állatok vásárlásával és tartásával kapcsolatos költségek,
+(2) A MOB Gerevich Aladár-sportösztöndíjként kiemelt sportösztöndíjat és szövetségi sportösztöndíjat adományozhat az olimpiai, paralimpiai, sakkolimpiai, speciális világjáték-válogatott kerettag versenyző, valamint a felkészítésében közreműködő edző, szövetségi kapitány, válogatott vezetőedző és a versenyző felkészítésében közvetlenül részt vevő egyéb sportszakember [a (10)–(19) bekezdés alkalmazásában a továbbiakban együtt: edző] részére.
 
-g) a sportszövetség vagy sportszervezet tulajdonában, vagyonkezelésében lévő, vagy az általa bérelt, a felkészülésre vagy edzőtáborozásra szolgáló sportlétesítmény fenntartásával, működtetésével összefüggő költségek,
+(3) A sportösztöndíj tárgyévi keretösszegét, valamint a (10)–(19) bekezdés alapján sportösztöndíjban részesíthető természetes személyek legnagyobb számát a MOB elnöksége állapítja meg. A szövetségi sportösztöndíj keretét a MOB elnöksége az 5. melléklet szerinti pontérték-táblázat alapján az országos sportági szakszövetségek és országos sportági szövetségek javaslatára figyelemmel határozza meg azzal, hogy az egyes sportágak keretösszegeit a sportági összpontszám arányában veszi figyelembe.
 
-h) a költségvetési támogatás legfeljebb harminc százalékáig a munkaviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott, a sportolók felkészítésében közvetlenül közreműködő sportszakemberek juttatásai és a munkaadókat terhelő járulékok,
+(4) A (10)–(19) bekezdésben meghatározott jogosultsági feltételek mellett sportösztöndíjra
 
-i) sportszakmai kiadványok elkészítésének, megjelentetésének, beszerzésének költségei.
+a) csak válogatott kerettag versenyző jogosult, amely feltétel meglétét a szövetség igazolja,
 
-(2) A 37. § b) pontja szerinti költségvetési támogatás felhasználása során – az (1) bekezdésben meghatározottak mellett – a következő tételek számolhatók el:
+b) csak olyan, az a) pontban meghatározott versenyzőt felkészítő edző jogosult, aki
 
-a) a nemzeti és a nemzetközi szervezetek tagdíjai, a regisztrációs és licencdíjak,
+ba) a sport területén képesítéshez kötött tevékenység szabályairól szóló kormányrendeletben meghatározott legalább középfokú edzői képesítéssel, vagy más, a közvetlen sportszakmai felkészítéssel összefüggő képesítéssel, továbbá
 
-b) a sportszövetségi, sportszervezeti iroda működésével kapcsolatos költségek,
+bb) a versenyző sporttevékenységének feltételeit, felkészítését biztosító sportszervezettel, sportiskolával, utánpótlás-nevelés fejlesztését végző alapítvánnyal vagy a versenyző részére versenyengedélyt kiadó sportszövetséggel fennálló, foglalkoztatásra irányuló jogviszonnyal
 
-c) a sporttevékenységgel közvetlenül összefüggő szakmai, kommunikációs és marketing kiadványok megjelentetésének, beszerzésének költségei,
+rendelkezik, és e feltételek fennállását igazolja.
 
-d) a költségvetési támogatás legfeljebb harminc százalékáig a munkaviszonyban, valamint a munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott sportszakemberek juttatásai, a munkaadót terhelő járulékok,
+(5) Külföldi állampolgárságú edző sportösztöndíjra jogosultságának – kivéve a (6) bekezdésben foglaltakat – a (4) bekezdés b) pontjában foglaltakon kívül további feltétele, hogy az edző
 
-e) a pénzügyi tevékenységgel és könyveléssel kapcsolatos költségek,
+a) az edzői tevékenység végzésére jogosító okirat honosított példányának másolatát,
 
-f) a költségvetési támogatás legfeljebb tíz százalékáig a sportszövetség, sportszervezet sporttevékenységével kapcsolatos belföldi utazási költségek.
+b) a társadalombiztosítási jogviszony fennállásának igazolására alkalmas okirat másolatát,
 
-(3) A 37. § b) pontja szerinti költségvetési támogatásban részesülő országos sportági szakszövetség, országos sportági szövetség a költségvetési támogatást az Stv.-ben, valamint az alapszabályában meghatározott feladatokra köteles fordítani. A szövetségi költségvetési támogatások összegének meghatározásakor az országos sportági szakszövetségek, országos sportági szövetségek következő szövetségi adatait kell figyelembe venni:
+c) annak igazolását, hogy bankszámlával rendelkezik, továbbá
 
-a) a sportágban kiadott belföldi versenyengedélyek száma több mint ötszáz;
+d) a tartózkodási engedélye másolatát – amelyből megállapítható, hogy legalább a munkaszerződés, munkavégzésre irányuló egyéb szerződés időtartamával megegyező időtartamban Magyarország területén jogszerűen tartózkodik –
 
-b) a szövetségi tagszervezetek száma több mint húsz;
+## csatolja.
 
-c) az 5. melléklet szerinti pontérték-táblázat alapján számított sportági eredményességi pontszám nem nulla.
+(6) Az EGT-állampolgárságú edzők esetében a sportösztöndíjra jogosultság feltételei azonosak a magyar állampolgárságú edzőkre a (4) bekezdés b) pontjában meghatározott feltételekkel.
 
-(4) Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül kettőnek nem felel meg, a 37. § b) pontja szerinti költségvetési támogatása az adott évben nem lehet több másfélmillió forintnál.
+(7) A sportösztöndíjban részesülőkről a MOB elnöksége a (10)–(19) bekezdésben meghatározottak szerint dönt és gondoskodik a havi sportösztöndíjak tárgyhónapot követő hónap 15. napjáig történő folyósításáról.
 
-(5) Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül legalább kettőnek megfelel, a támogatási döntéskor az országos sportági szakszövetségek, országos sportági szövetségek következő adatait kell figyelembe venni:
+(8) Ha a versenyzővel, edzővel szemben doppingvétség elkövetésének megalapozott gyanúja miatt doppingeljárás indul, a sportösztöndíj folyósítását fel kell függeszteni.
 
-a) a 37. § b) pontjában foglaltak költségvetési támogatására rendelkezésre álló összeg huszonöt százalékának felosztása az 5. mellékletben meghatározott pontérték-táblázat alapján kiszámított sportági eredményességi pontszám alapján történik;
+(9) Vissza kell vonni a sportösztöndíjat, ha
 
-b) a 37. § b) pontjában foglaltak költségvetési támogatására rendelkezésre álló összeg hetvenöt százalékának felosztása a következő adatok alapján történik, a megjelölt arányban
+a) a versenyző válogatott kerettagsága megszűnik,
 
-ba) a sportszövetség által fizetendő nemzetközi tagdíjak egyszeres szorzóval,
+b) az edző (4) bekezdés a) pontjában meghatározott versenyzőt felkészítő jogosultsága megszűnik,
 
-bb) a sportágban kiadott belföldi versenyengedélyek száma négyszeres szorzóval,
+c) a versenyzővel vagy az edzővel szemben jogerős doppingbüntetésként eltiltás kerül kiszabásra.
 
-bc) a sportszövetségi tagszervezetek száma négyszeres szorzóval,
+(10) Kiemelt sportösztöndíjban részesíthető
 
-bd) a sportszövetség közgyűlése által elfogadott mérleg szerinti éves költségvetés egyszeres szorzóval,
+a) az előző négy évben olimpiai játékokon érmes vagy világbajnokságon kizárólag olimpiai versenyszámban világbajnok versenyző;
 
-be) a sportági tradíciók (a magyar sportszövetség megalakulásának éve) háromszoros szorzóval,
+b) az a) pont szerinti versenyzőt felkészítő edző;
 
-bf) egyéb, előre nem számszerűsíthető szempontok, azaz a sportág szállítási igénye kétszeres szorzóval, pályaigénye kétszeres szorzóval, technikai igényei és állatok bevonásának igénye négyszeres szorzóval, edzőpartner bevonásának igénye négyszeres szorzóval, női és férfi szakágai hatszoros szorzóval, olimpiai szakágak száma hatszoros szorzóval.
+c) az előző négy évben paralimpián érmes versenyző;
 
-(6) A 37. § d) pontjában meghatározott költségvetési támogatás felhasználása során a sportszövetség által igénybe vett, a versenysport fejlesztésével, különösen a sportági stratégiai fejlesztési koncepció megvalósításával összefüggő szakértői tevékenység díjazása számolható el.
+d) a c) pont szerinti versenyzőt felkészítő edző.
 
-(7) A 37. § e) pontjában meghatározott költségvetési támogatás felhasználása során a következő költségek számolhatók el:
+(11) A kiemelt sportösztöndíj mértéke
 
-a) az edzőtáboroztatással közvetlenül összefüggő szállás és étkezés költsége;
+a) a (10) bekezdés a) pontja szerinti versenyző esetén
 
-b) a létesítménybérlet (az igazolt használat alapján);
+aa) egyéni sportágban elért, sportösztöndíjra jogosító eredmény után havonta négyszázezer forint,
 
-c) az edzőmérkőzés rendezésével (ideértve az edzőmérkőzés biztonságos megrendezésével összefüggő, a mentéssel, a biztonság biztosításával) kapcsolatos költség;
+ab) egyéni sportág csapat versenyszámaiban vagy csapatsportágban elért, sportösztöndíjra jogosító eredmény után versenyzőnként havonta legalább kétszázezer, legfeljebb háromszázezer forint;
 
-d) az olimpiai központ sportorvosi szakrendelőjében rendelkezésre álló gyógyszerek költsége;
+b) a (10) bekezdés b) pontja szerinti edző esetén – a (13) bekezdésben foglaltakra is figyelemmel –
 
-e) versenyrendezéssel összefüggő költségek.
+ba) az a) pont aa) alpontjában meghatározott versenyző által elért, kiemelt sportösztöndíjra jogosító eredmény után havonta négyszázezer forint,
 
-(8) A 37. § c), valamint h)–i) pontjában meghatározott költségvetési támogatás felhasználása során a Nemzetközi Világjátékok Szövetségének (Sportaccord) IWGA Világjátékain, a Küzdősportok Világjátékain, a téli és nyári Európai Ifjúsági Olimpiai Fesztiválon (EYOF), valamint az Ausztrál Ifjúsági Olimpiai Fesztiválon (AYOF) történő részvétellel összefüggő kiadások számolhatók el.
+bb) az a) pont ab) alpontjában meghatározott versenyzők, csapat által elért, kiemelt sportösztöndíjra jogosító eredmény után havonta háromszázezer forint;
+
+c) a (10) bekezdés c) pontja szerinti versenyző és a (10) bekezdés d) pontja szerinti edző esetén egyéni sportágban elért, sportösztöndíjra jogosító eredmény után havonta legfeljebb kétszázezer forint;
+
+d) a (10) bekezdés c) pontja szerinti versenyző és a (10) bekezdés d) pontja szerinti edző esetén egyéni sportág csapat versenyszámaiban vagy csapatsportágban elért, sportösztöndíjra jogosító eredmény után versenyzőnként és edzőnként havonta legfeljebb egyszázezer forint.
+
+(12) A kiemelt sportösztöndíjban részesülő személyekről a MOB elnöksége
+
+a) versenyző esetén az elért eredményekre,
+
+b) edző esetén a legjobb eredményt elért versenyzőjének eredményessége és az edző szakmai pályafutásának értékelésére
+
+figyelemmel dönt.
+
+(13) A versenyző a (11) bekezdés a) pont aa) és ab) alpontjában, c) és d) pontjában meghatározott jogcímek közül csak egy alapján jogosult költségvetési támogatásra. Az edző a (11) bekezdés b) pont ba) és bb) alpontjában, c) és d) pontjában meghatározott jogcímek közül csak egy alapján jogosult költségvetési támogatásra.
+
+(14) Szövetségi sportösztöndíjban részesíthető a (10) bekezdés hatálya alá nem tartozó felnőtt, valamint utánpótlás korosztályban induló versenyző, és a felkészítését végző edző.
+
+(15) A szövetségi sportösztöndíj mértéke a (16) és (17) bekezdésben foglaltakra is figyelemmel
+
+a) sportoló esetén havonta legalább harmincezer, legfeljebb háromszázezer forint,
+
+b) edző esetén havonta legalább ötvenezer, legfeljebb háromszázezer forint.
+
+(16) A fogyatékosok sportjában működő sportszövetségek vagy ezek tagszervezetei által foglalkoztatott edző, továbbá a fogyatékosok sportjának versenyrendszerében induló versenyző sportösztöndíjának mértéke – a (17) bekezdésre is figyelemmel – versenyző és edző esetén egyaránt havonta legalább húszezer, legfeljebb százötvenezer forint.
+
+(17) A Magyar Speciális Olimpiai Szövetség részére biztosítandó sportösztöndíj-keret kizárólag edzők támogatására fordítható.
+
+(18) A szövetségi sportösztöndíj pályázati rendszerben kerül felhasználásra, a pályázatot a MOB elnöksége írja ki és dönt a beérkezett pályázatokról.
+
+(19) A sportszövetségek negyedévente egy alkalommal a MOB elnöksége részére javasolhatják az éves keretösszegen belül a költségvetési támogatás mértékének, valamint a támogatott személyek körének a módosítását.

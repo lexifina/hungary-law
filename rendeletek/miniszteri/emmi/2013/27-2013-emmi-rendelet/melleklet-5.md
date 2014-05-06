@@ -30,17 +30,15 @@
 
 | 1.10. Tagszervezeteinek száma: |  | Igazolt versenyzőinek száma: |  |
 
-| 1.11. Nemzetközi eredményesség (az elmúlt öt évben világbajnokságon, Európa-bajnokságon, világkupán elért pontszerző helyezések): |  |  |
+| 1.11. Nemzetközi eredményesség (az elmúlt öt évben világbajnokságon, Európa-bajnokságon, világkupán elért pontszerző helyezések): | tárgyévet megelőző 5. évben |  |
 
-| 2008 |  |
+| tárgyévet megelőző 4. évben |  |
 
-| 2009 |  |
+| tárgyévet megelőző 3. évben |  |
 
-| 2010 |  |
+| tárgyévet megelőző 2. évben |  |
 
-| 2011 |  |
-
-| 2012 |  |
+| tárgyévet megelőző évben |  |
 
 | 2. A sporteseményre vonatkozó adatok |
 

@@ -4,11 +4,11 @@
 
 a) gazdasági társaság esetén teljes – cégnyilvántartás szerinti – cégnevét, székhelyét, cégjegyzékszámát, képviselője nevét, adószámát, bankszámlaszámát, harminc napnál nem régebbi cégkivonatát, hiteles cégaláírási nyilatkozatát,
 
-b) gazdasági társaságnak nem minősülő gazdálkodó szervezet esetén hatályos létesítő okiratának egyszerű másolatát; képviselőjének banki aláírási címpéldány-másolatát vagy – cég esetén – ügyvéd által ellenjegyzett aláírás-mintáját, helyi önkormányzatok társulása esetén a társulási megállapodás másolatát,
+b)[^8] gazdasági társaságnak nem minősülő gazdálkodó szervezet esetén hatályos létesítő okiratának egyszerű másolatát, képviselőjének közjegyző által hitelesített aláírási címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját vagy a számlavezető pénzforgalmi intézmény által vezetett aláírási kartonja másolatának a számlavezető pénzforgalmi intézmény által hitelesített eredeti példányát, helyi önkormányzatok társulása esetén a társulási megállapodás másolatát,
 
 c) egyéni vállalkozó esetén nevét, székhelyét, nyilvántartási számát vagy vállalkozói igazolvány számát, adószámát, bankszámlaszámát, az egyéni vállalkozó hatályos adatait tartalmazó hatósági igazolás másolatát vagy az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, harminc napnál nem régebbi hatósági bizonyítványt,
 
-d) az a)–c) pontban meghatározottaktól eltérő egyéb jogi személy esetén harminc napnál nem régebbi igazolást az egyéb jogi személyt nyilvántartó szervezettől az egyéb jogi személy nyilvántartásban szereplő adatairól, képviselőjének banki aláírási címpéldány-másolatát, adószámát, bankszámlaszámát,
+d)[^9] az a)–c) pontban meghatározottaktól eltérő egyéb jogi személy esetén harminc napnál nem régebbi igazolást az egyéb jogi személyt nyilvántartó szervezettől az egyéb jogi személy nyilvántartásban szereplő adatairól, képviselőjének közjegyző által hitelesített aláírási címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját vagy a számlavezető pénzforgalmi intézmény által vezetett aláírási kartonja másolatának a számlavezető pénzforgalmi intézmény által hitelesített eredeti példányát, adószámát, bankszámlaszámát,
 
 e) az a)–d) pont szerinti szervezet működési engedélyét, ha a szervezet tevékenysége működési engedély-köteles,
 
@@ -20,7 +20,7 @@ h) a 60. § alapján nyújtott működési célú költségvetési támogatás k
 
 i) a támogatott tevékenységhez szükséges jogerős hatósági engedélyeket,
 
-j) felhalmozási célú költségvetési támogatás esetén elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolatot, építési engedély-köteles beruházás támogatására benyújtott pályázat, kérelem esetén a jogerős elvi építési engedélyt az ingatlan tulajdoni lapon bejegyzett tulajdonosától származó hozzájáruló nyilatkozattal vagy a jogerős építési engedélyt,
+j)[^10]
 
 k) beruházási célú költségvetési támogatás esetén – a támogatási szerződésben foglaltaknak megfelelően – a kedvezményezett nyilatkozatát arról, hogy tizenöt évig biztosítja a létesítmény támogatási szerződésben foglalt célú fenntartását, üzemeltetését,
 
@@ -37,3 +37,7 @@ n) a kedvezményezett nyilatkozatát arról, hogy a nemzeti sportinformációs r
 (4) A 25. § (2) bekezdése szerinti esetben a kezesi felelősséggel helytálló sportszövetségnek az (1) bekezdés b) pontja szerinti dokumentumot, valamint a tartozás visszafizetése esetére az azonnali beszedési megbízás alkalmazására vonatkozó meghatalmazást kell csatolnia.
 
 (5) A támogatási szerződés megkötésének feltétele, hogy a kedvezményezettnek esedékessé vált és meg nem fizetett köztartozása nem áll fenn, és erről a kedvezményezett nyilatkozatot vagy a Nemzeti Adó- és Vámhivatal által kiállított, harminc napnál nem régebbi igazolást nyújt be a támogató részére, továbbá hozzájárul ahhoz, hogy a támogató a nyilatkozat valóságtartalmának igazolását kérje.
+
+[^8]: A 11. § (1) bekezdés b) pontja a 39/2014. (V. 5.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^9]: A 11. § (1) bekezdés d) pontja a 4. § (2) bekezdésével megállapított szöveg.
+[^10]: A 11. § (1) bekezdés j) pontját a 39/2014. (V. 5.) EMMI rendelet 30. § b) pontja hatályon kívül helyezte.

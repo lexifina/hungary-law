@@ -1,11 +1,15 @@
 ## 20. Debreceni Nagyerdei Labdarúgó Stadion rekonstrukció támogatása
 
-59. § (1) A miniszter a „Debreceni Nagyerdei Labdarúgó Stadion rekonstrukció támogatása” előirányzat terhére költségvetési támogatást nyújt
+59. § (1)[^76] A miniszter a Debreceni Nagyerdei Labdarúgó Stadion rekonstrukció támogatása előirányzat terhére költségvetési támogatást nyújt
 
 a) a Debreceni Nagyerdei Labdarúgó Stadion rekonstrukcióért felelős Nagyerdei Stadion Rekonstrukciós Kft. működésének támogatásához,
 
 b) a Debreceni Nagyerdei Labdarúgó Stadion UEFA 4. kategóriájú stadionná történő fejlesztéséhez.
 
-(2) Az (1) bekezdésben meghatározott előirányzat terhére nyújtott költségvetési támogatás elszámolási határideje 2014. november 30.
+(2)[^77] A Debreceni Nagyerdei Labdarúgó Stadion rekonstrukció támogatása előirányzat terhére egyedi döntés alapján nyújtható költségvetési támogatás. A költségvetési támogatás teljes összege támogatási előlegként is nyújtható. A költségvetési támogatás kedvezményezettje a debreceni Nagyerdei Labdarúgó Stadion felújításáért, fejlesztésért felelős gazdasági társaság lehet.
 
-(3) A „Debreceni Nagyerdei Labdarúgó Stadion rekonstrukció támogatása” előirányzat terhére elő- és utófinanszírozással is nyújtható költségvetési támogatás, egyedi döntés alapján, a költségvetési támogatás részletekben vagy egy összegben történő kifizetésével, továbbá támogatási előleg biztosításával. A költségvetési támogatás kedvezményezettje a debreceni Nagyerdei Labdarúgó Stadion felújításáért, fejlesztésért felelős gazdasági társaság lehet.
+(3)[^78]
+
+[^76]: Az 59. § (1) bekezdés nyitó szövegrésze a 39/2014. (V. 5.) EMMI rendelet 28. § q) pontja szerint módosított szöveg.
+[^77]: Az 59. § (2) bekezdése a 39/2014. (V. 5.) EMMI rendelet 23. §-ával megállapított szöveg.
+[^78]: Az 59. § (3) bekezdését a 39/2014. (V. 5.) EMMI rendelet 30. § k) pontja hatályon kívül helyezte.
