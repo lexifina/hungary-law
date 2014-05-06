@@ -18,6 +18,8 @@ Az Országgyűlés felkéri a Kormányt, hogy a tárgyalásokon törekedjék arr
 
 3. Az Országgyűlés felkéri a Kormányt a Gabcikovo(Bős)—Nagymarosi Vízlépcsőrendszer állami nagyberuházás azonnal lezárására és az Állami Számvevőszéket az elvégzett munkák átfogó pénzügyi felülvizsgálatára.
 
-4. A Kormány a jelen határozatban foglaltak végrehajtásáról havonta beszámol az Országgyűlés Környezetvédelmi bizottságának.
+4.[^2] A Kormány a jelen határozatban foglaltak végrehajtásáról havonta tájékoztatja az Országgyűlés környezetvédelemért felelős bizottságát.
 
 E határozat az elfogadása napján lép hatályba.
+
+[^2]: A 4. pont a 10/2014. (II. 24.) OGY határozat 161. § (1) bekezdésével megállapított szöveg.
