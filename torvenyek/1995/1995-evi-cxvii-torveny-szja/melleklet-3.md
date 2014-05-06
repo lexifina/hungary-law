@@ -74,7 +74,7 @@ c) az internet-használat díja (ideértve különösen az egyszeri, a havi, a f
 
 d) a munkáltató székhelyétől, telephelyétől elkülönült munkavégzési hely bérleti díja, a fűtés, a világítás és a technológiai energia díja azzal, hogy ha a lakás és a munkavégzési hely műszakilag nem elkülönített, akkor e kiadás(oka)t a távmunkavégzéssel arányosan, az adott költségre jellemző mértékegységek (munkaidő, m2, m3 stb.) alapulvételével lehet figyelembe venni.
 
-25. az európai parlamenti, az országgyűlési, a helyi önkormányzati képviselői tevékenységgel összefüggésben megszerzett bevétel esetén, valamint a polgármester költségátalánya esetén az adott tisztséggel összefüggő feladat ellátása érdekében felmerült, a magánszemély nevére kiállított bizonylattal igazolt kiadás – ideértve különösen a lakhatási támogatásra jogosult országgyűlési képviselő szállásra fordított kiadását –, valamint az adott tisztséggel összefüggő feladat ellátása érdekében használt tárgyi eszközök átalány-értékcsökkenése.
+25. az európai parlamenti, az országgyűlési, a helyi önkormányzati képviselői és a nemzetiségi szószólói tevékenységgel összefüggésben megszerzett bevétel esetén, valamint a polgármester költségátalánya esetén az adott tisztséggel összefüggő feladat ellátása érdekében felmerült, a magánszemély nevére kiállított bizonylattal igazolt kiadás – ideértve különösen a lakhatási támogatásra jogosult országgyűlési képviselő vagy nemzetiségi szószóló szállásra fordított kiadását –, valamint az adott tisztséggel összefüggő feladat ellátása érdekében használt tárgyi eszközök átalány-értékcsökkenése.
 
 II. Igazolás nélkül elszámolható költségek
 

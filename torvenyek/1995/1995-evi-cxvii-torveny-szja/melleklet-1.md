@@ -402,7 +402,7 @@ g)
 
 8.9. a gátkaszálásból származó terményjuttatás, valamint a fürdőben (strandon) foglalkoztatott magánszemély által igénybe vett fürdőszolgáltatás;
 
-8.10. az Országgyűlés hivatali szervezete által az országgyűlési képviselők javadalmazásáról szóló törvény alapján az országgyűlési képviselői tisztség ellátására tekintettel természetben biztosított eszköz, szolgáltatás;
+8.10. az Országgyűlés hivatali szervezete által az országgyűlési képviselői és a nemzetiségi szószólói tisztség ellátására tekintettel természetben biztosított eszköz, szolgáltatás;
 
 8.11. a csoportos személyszállítás;
 

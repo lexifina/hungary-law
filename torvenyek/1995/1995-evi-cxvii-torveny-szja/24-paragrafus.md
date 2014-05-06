@@ -16,6 +16,8 @@ f) a segítő családtag tevékenysége,
 
 g) nemzetközi szerződés hatályában a nem önálló munka, ennek hiányában az adott állam joga szerinti munkaviszony,
 
-h) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység.
+h) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység,
+
+h) az országgyűlési képviselői tevékenység.
 
 (2) A nem önálló tevékenységből származó jövedelmet az e tevékenységből származó bevételből a 25–27. § rendelkezései szerint kell kiszámítani.
