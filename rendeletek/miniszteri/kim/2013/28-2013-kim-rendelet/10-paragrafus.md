@@ -6,7 +6,7 @@ a) közreműködik a szavazóhelyiség szabályszerű berendezésében,
 
 b) az SZSZB döntése alapján gondoskodik a névjegyzék kezeléséről, a visszautasítottak jegyzéke és a mozgóurnát kérők jegyzéke vezetéséről,
 
-c) 7.00, 9.00, 11.00, 13.00, 15.00 és 17.30 órakor adatot szolgáltat a HVI részére a szavazókörben megjelent választópolgárok számáról,
+c)[^5] 7.00, 9.00, 11.00, 13.00, 15.00, 17.00 és 18.30 órakor adatot szolgáltat a HVI részére a szavazókörben megjelent választópolgárok számáról,
 
 d) a szavazás közben történt rendkívüli eseményről kiállított jegyzőkönyv másolatát haladéktalanul továbbítja a HVI vezetőjéhez,
 
@@ -31,3 +31,5 @@ d) fogadja és – ellenőrzést követően – az informatikai rendszerben hala
 e) átvételi elismervénnyel átveszi az SZSZB-től a szavazóurnákat, a szavazóköri jegyzőkönyveket, valamint az egyéb választási iratokat,
 
 f) a beérkező szavazóköri jegyzőkönyveket jogi és számszaki szempontból ellenőrzi, és haladéktalanul elvégzi az adatbeviteli teendőket (számítógépes adatfeldolgozásra a jegyzőkönyvek első példánya szolgál); a HVI a hibásan vagy hiányosan kitöltött jegyzőkönyvre felhívja az SZSZB figyelmét, és a jegyzőkönyv javítását követően intézkedik az adatok informatikai rendszerbeli javításáról.
+
+[^5]: A 10. § (1) bekezdés c) pontja a 31/2014. (V. 5.) KIM rendelet 1. §-ával megállapított szöveg.
