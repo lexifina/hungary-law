@@ -1,11 +1,1 @@
-26. § (1) A központi költségvetésről szóló törvény módosítását tartalmazó olyan törvényjavaslat, amely – a megszavazott módosító javaslatokra tekintettel – a központi költségvetés bevételi vagy kiadási főösszegét megváltoztatná, vagy a költségvetési hiány mértékét növelné, a Tanács előzetes hozzájárulása alapján bocsátható zárószavazásra.
-
-(2) Az Országgyűlés elnöke az (1) bekezdés szerinti törvényjavaslatot annak benyújtását követően és az ahhoz kapcsolódóan megszavazott módosító javaslatokat azok elfogadását követően – az előzetes hozzájárulás megadása céljából – haladéktalanul megküldi a Tanács részére.
-
-(3) A Tanács az előzetes hozzájárulásra vonatkozó döntését a zárószavazás előtti módosító javaslatokról való szavazást – ha az (1) bekezdés szerinti törvényjavaslathoz az általános vita lezárásáig módosító javaslatot nem terjesztettek elő, az általános vita lezárását, ha az (1) bekezdés szerinti törvényjavaslathoz benyújtott módosító javaslatok közül az Országgyűlés egyet sem fogadott el, a módosító javaslatokról való szavazást, ha zárószavazás előtti módosító javaslat benyújtására nem került sor, az erre vonatkozó határidő lejártát – követően, a (2) bekezdés szerinti tájékoztatás kézhezvételétől számított egy napon belül közli az Országgyűlés elnökével. A Tanács az előzetes hozzájárulás megtagadásáról hozott döntését részletesen indokolja.
-
-(3a) Ha a Tanács elnöke az előzetes hozzájárulására vonatkozó álláspontját az (1) bekezdés szerinti törvényjavaslat zárószavazását megelőzően nem közli az Országgyűlés elnökével, a Tanácsnak az (1) bekezdés szerinti törvényjavaslat elfogadásához szükséges előzetes hozzájárulását megadottnak kell tekinteni.
-
-(4) Ha a Tanács az előzetes hozzájárulás megadását megtagadja, a Kormány a Tanács döntését megalapozó indokolásban foglaltak alapján zárószavazás előtti módosító javaslatot készít, amely – a Tanács döntésében meghatározott követelményeknek történő megfelelés céljából – az (1) bekezdés szerinti törvényjavaslat bármely rendelkezését módosíthatja. Ezen eljárásban más módosító javaslat nem nyújtható be. A zárószavazás előtti módosító javaslat Tanács részére történő megküldésére, benyújtására, az arról történő szavazásra, valamint a Tanács egyetértésének megadására a 25/A. §-t kell alkalmazni.
-
-(5)
+26. § Ha a Tanács elnöke a Tanács előzetes hozzájárulására vonatkozó, 25. § és 25/A. § szerinti álláspontját határidőn belül írásban nem közli az Országgyűlés elnökével, a Tanács előzetes hozzájárulását megadottnak kell tekinteni.
