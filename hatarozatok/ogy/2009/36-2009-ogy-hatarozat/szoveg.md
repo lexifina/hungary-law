@@ -118,6 +118,8 @@ d) szervezze a szakmai vállalkozók számára szükséges „menedzsment ismere
 
 e) a szakmai és társadalmi szervezetekkel együttműködve, készítse el az építés egységes ágazati stratégiáját.
 
-9. Az Országgyűlés felkéri a Kormányt, hogy évente számoljon be az Országgyűlésnek az (építőipart és) építési ágazatot és a közvetlenül kapcsolódó (ágazatokat) nemzetgazdasági területeket sújtó recesszió kezelése érdekében megtett és szükséges intézkedésekről és az 5–8. pontokban meghatározott feladatok teljesítéséről.
+9.[^2] Az Országgyűlés felkéri a Kormányt, hogy évente tájékoztassa az Országgyűlést az építési ágazatot és a közvetlenül kapcsolódó nemzetgazdasági területeket sújtó recesszió kezelése érdekében megtett és szükséges intézkedésekről és az 5–8. pontokban meghatározott feladatok teljesítéséről.
 
 10. E határozat a közzétételének napján lép hatályba.
+
+[^2]: A 9. pont a 10/2014. (II. 24.) OGY határozat 161. § (4) bekezdésével megállapított szöveg.
