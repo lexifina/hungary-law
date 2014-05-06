@@ -16,8 +16,10 @@ A Magyar Köztársaság Országgyűlése Magyarország környezeti és természe
 
 8. Az Országgyűlés felkéri a Kormányt, hogy 2000. december 31-ig dolgozza ki Szolnok város – mint a tiszai szennyezésben leginkább érintett és veszélyeztetett település – biztonságos ivóvízellátását, megfelelő, tartalék ivóvízbázis kialakításával.
 
-9. Az Országgyűlés felkéri a Kormányt, hogy az 1–8. pontokban meghatározottak végrehajtása érdekében tett intézkedéseiről évente számoljon be az Országgyűlésnek.
+9.[^2] Az Országgyűlés felkéri a Kormányt, hogy az 1–8. pontokban meghatározottak végrehajtása érdekében tett intézkedéseiről évente tájékoztassa az Országgyűlést.
 
 10. Az Országgyűlés – a Vizes Élőhelyek Világnapjához is kapcsolódva – február 1-jét, a szennyezett víztömeg Magyarországra történő bejutásának napját, a Tisza Élővilágának Emléknapjává nyilvánítja.
 
 11. Ez a határozat a közzététele napján lép hatályba.
+
+[^2]: A 9. pont a 10/2014. (II. 24.) OGY határozat 161. § (2) bekezdésével megállapított szöveg.
