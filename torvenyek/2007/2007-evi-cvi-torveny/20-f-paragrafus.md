@@ -1,6 +1,6 @@
 20/F. § (1) Az Igazgatóság, illetőleg a Felügyelő Bizottság tagja nem lehet
 
-a) országgyűlési, illetőleg önkormányzati képviselő, miniszter, polgármester, főpolgármester;
+a) országgyűlési, illetőleg önkormányzati képviselő, nemzetiségi szószóló, miniszter, polgármester, főpolgármester;
 
 b) aki büntetett előéletű;
 
