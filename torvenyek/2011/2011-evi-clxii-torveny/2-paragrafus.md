@@ -1,6 +1,6 @@
 2. § (1) A bírót az országgyűlési képviselővel azonos mentelmi jog illeti meg.
 
-(2) A Kúria elnöke és az Országos Bírósági Hivatal (a továbbiakban: OBH) elnöke mentelmi jogának felfüggesztése tárgyában az Országgyűlés a jelenlévő képviselők kétharmadának szavazatával dönt, a mentelmi jog megsértése esetén szükséges intézkedést az Országgyűlés elnöke teszi meg.
+(2) A Kúria elnöke és az Országos Bírósági Hivatal (a továbbiakban: OBH) elnöke mentelmi jogának felfüggesztése tárgyában az Országgyűlés dönt, a mentelmi jog megsértése esetén szükséges intézkedést az Országgyűlés elnöke teszi meg.
 
 (3) A bíró mentelmi jogának felfüggesztése tárgyában az OBH elnökének javaslatára a köztársasági elnök dönt. A mentelmi jog megsértése esetén szükséges intézkedést az OBH elnökének javaslatára a köztársasági elnök teszi meg.
 
