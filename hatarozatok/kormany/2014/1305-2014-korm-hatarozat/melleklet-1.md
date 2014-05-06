@@ -1,6 +1,6 @@
 ## 1. megállapítja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének 7. prioritását az 1. melléklet szerint,
 
-## 2. visszavonja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 7. prioritásának módosításáról szóló 1938/2013. (XII. 13.) Korm. határozatot.
+## 2.[^2]
 
 1. melléklet az 1305/2014. (V. 5.) Korm. határozathoz
 
@@ -53,3 +53,5 @@
 | Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra. |  |  |
 
 | A 7.9.0 konstrukció 1,97 Mrd Ft túlvállalást tartalmaz. |  |  |  |  |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
