@@ -8,7 +8,7 @@ b) működésének és eljárásainak tapasztalatairól háromévente beszámol 
 
 c) az alapvető jogok tiszteletben tartása és hatékonyabb védelme érdekében javaslatot tehet az országos rendőrfőkapitánynak és a főigazgatóknak utasítás kiadására, módosítására vagy hatályon kívül helyezésére.
 
-(2) A Testület öt tagját az Országgyűlés rendészeti, valamint emberi jogi ügyekben feladatkörrel rendelkező bizottságainak együttes javaslatára az Országgyűlés a jelenlévő képviselők kétharmadának szavazatával, egyidejű, listás módon választja. A Testület tagjaira az alapvető jogok védelme érdekében tevékenységet folytató szervek és szervezetek a bizottságoknak javaslatot tehetnek.
+(2) A Testület öt tagját az Országgyűlés rendészeti, valamint emberi jogi ügyekben feladatkörrel rendelkező bizottságainak együttes javaslatára az Országgyűlés egyidejű, listás módon választja. A Testület tagjaira az alapvető jogok védelme érdekében tevékenységet folytató szervek és szervezetek a bizottságoknak javaslatot tehetnek.
 
 (3) A Testület tagjának olyan, büntetlen előéletű, az országgyűlési képviselők választásán választható személy választható meg, aki jogi végzettséggel és az alapvető jogok védelme területén kiemelkedő tapasztalatokkal rendelkezik, és külön törvény szerinti nemzetbiztonsági ellenőrzése megtörtént.
 
