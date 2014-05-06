@@ -16,7 +16,7 @@ cb) feladat- és hatásköre alapján támogatási döntésre érdemi befolyáss
 
 d) kizárt közjogi tisztségviselő: a Kormány tagja, a kormánybiztos, a miniszterelnöki biztos, a miniszteri biztos, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár, a megyei közgyűlés elnöke, a fővárosi közgyűlés esetében a főpolgármester, a területfejlesztésről és a területrendezésről szóló törvény által meghatározott regionális fejlesztési ügynökség vezető tisztségviselői, felügyelő bizottsága tagjai, illetve az Ágazati Operatív Programok Közreműködő szervezetei vezető tisztségviselői és ellenőrző szervének tagjai;
 
-e) nem kizárt közjogi tisztségviselő: a köztársasági elnök, az Országgyűlés által választott vagy a köztársasági elnök által kinevezett tisztségviselő, az országgyűlési és az európai parlamenti képviselő, a polgármester, az alpolgármester, a főpolgármester, a főpolgármester-helyettes, a helyi önkormányzati képviselő, a helyi önkormányzat képviselő-testülete bizottságának tagja, a központi államigazgatási szerv – a d) pont alá nem tartozó – vezetője és helyettesei;
+e) nem kizárt közjogi tisztségviselő: a köztársasági elnök, az Országgyűlés által választott vagy a köztársasági elnök által kinevezett tisztségviselő, az országgyűlési és az európai parlamenti képviselő, a nemzetiségi szószóló, a polgármester, az alpolgármester, a főpolgármester, a főpolgármester-helyettes, a helyi önkormányzati képviselő, a helyi önkormányzat képviselő-testülete bizottságának tagja, a központi államigazgatási szerv – a d) pont alá nem tartozó – vezetője és helyettesei;
 
 f) közeli hozzátartozó: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) által meghatározott közeli hozzátartozó;
 
