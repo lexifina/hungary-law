@@ -8,6 +8,6 @@
 
 (2) A Közalapítvány induló vagyonát az Országgyűlés országgyűlési határozatban állapítja meg.
 
-(3) A Közalapítvány alapító okiratát az Országgyűlés a jelenlévő képviselők kétharmados szavazatával fogadja el, illetve módosíthatja. A Közalapítvány működésének és szervezetének e törvényben és az alapító okiratban nem szabályozott kérdéseit a Közalapítvány Szervezeti és Működési Szabályzatában kell meghatározni.
+(3) A Közalapítvány alapító okiratát az Országgyűlés fogadja el, illetve módosíthatja. A Közalapítvány működésének és szervezetének e törvényben és az alapító okiratban nem szabályozott kérdéseit a Közalapítvány Szervezeti és Működési Szabályzatában kell meghatározni.
 
 (4) A Közalapítványra e törvény eltérő rendelkezése hiányában az alapítványokra vonatkozó általános szabályokat kell alkalmazni.

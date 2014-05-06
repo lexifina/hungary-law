@@ -1,6 +1,6 @@
 89. § (1) A Kuratórium elnöke vagy tagja megbízatásának összeférhetetlenség, felmentés vagy kizárás miatti megszűnését a Kuratórium teljes ülése állapítja meg, és hirdeti ki.
 
-(2) Ha a Kuratórium teljes ülése összeférhetetlenségről, felmentésről vagy kizárásról dönt, az érintett elnök vagy tag a szavazásban nem vehet részt, ilyen ügyekben a szavazásra jogosultak egyhangú határozata szükséges. Ha az említett kérdésekről megismételt szavazás esetén egyhangú döntés nem születik, a Kuratórium elnöke kezdeményezi e tárgyban az Országgyűlésnek döntését. Ebben az esetben az összeférhetetlenségről, a felmentésről vagy a kizárásról az Országgyűlés a jelenlévő képviselők kétharmadának szavazatával dönt.
+(2) Ha a Kuratórium teljes ülése összeférhetetlenségről, felmentésről vagy kizárásról dönt, az érintett elnök vagy tag a szavazásban nem vehet részt, ilyen ügyekben a szavazásra jogosultak egyhangú határozata szükséges. Ha az említett kérdésekről megismételt szavazás esetén egyhangú döntés nem születik, a Kuratórium elnöke kezdeményezi e tárgyban az Országgyűlés döntését. Ebben az esetben az összeférhetetlenségről, a felmentésről vagy a kizárásról az Országgyűlés dönt.
 
 (3) Amennyiben az összeférhetetlenség gyanúja a Kuratórium elnökével szemben merült fel, az (5)–(6) bekezdés szerinti eljárásokban az elnök jogkörében a Kuratórium ügyrendje szerint meghatározott tag jár el.
 

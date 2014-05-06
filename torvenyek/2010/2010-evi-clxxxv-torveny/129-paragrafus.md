@@ -28,7 +28,7 @@ a) ha a Médiatanács elnöke vagy tagja neki felróható okból több mint hat 
 
 b) ha a Médiatanács elnökével vagy tagjával szemben lefolytatott büntetőeljárás eredményeként az elnök vagy a tag bűnösségét a bíróság – szabadságvesztés vagy a Médiatanács elnöke vagy tagja tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg.
 
-(7) Ha a Médiatanács ülése összeférhetetlenségről, felmentésről vagy kizárásról dönt, az érintett elnök vagy tag a szavazásban nem vehet részt, ilyen ügyekben a szavazásra jogosultak egyhangú határozata szükséges. Ha az említett kérdésekről megismételt szavazás esetén egyhangú döntés nem születik, a Médiatanács elnöke az Országgyűlésnek javasolja a döntés meghozatalát. Ebben az esetben az összeférhetetlenségről, a felmentésről vagy a kizárásról a jelenlévő képviselők kétharmadának szavazatával az Országgyűlés dönt.
+(7) Ha a Médiatanács ülése összeférhetetlenségről, felmentésről vagy kizárásról dönt, az érintett elnök vagy tag a szavazásban nem vehet részt, ilyen ügyekben a szavazásra jogosultak egyhangú határozata szükséges. Ha az említett kérdésekről megismételt szavazás esetén egyhangú döntés nem születik, a Médiatanács elnöke az Országgyűlésnek javasolja a döntés meghozatalát. Ebben az esetben az összeférhetetlenségről, a felmentésről vagy a kizárásról az Országgyűlés dönt.
 
 (8) A Médiatanács elnöke esetében a (3), (6) és (7) bekezdés szerinti eljárásokban az elnök jogkörében az ügyrend szerint meghatározott tag jár el.
 

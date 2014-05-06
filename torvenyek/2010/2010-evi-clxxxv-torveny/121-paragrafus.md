@@ -38,4 +38,4 @@ amelyre vonatkozó előterjesztést kizárólag az NHIT észrevételezését kö
 
 (9) Az NHIT működéséhez szükséges forrásokat a Hatóság költségvetésén belül kell biztosítani. A források más célra nem csoportosíthatók át.
 
-(10) Az NHIT gazdálkodását az Állami Számvevőszék ellenőrzi. Az NHIT feladatai teljesítéséről évente jelentést készít az Országgyűlés illetékes bizottságának.
+(10) Az NHIT gazdálkodását az Állami Számvevőszék ellenőrzi. Az NHIT feladatai teljesítéséről évente tájékoztatót készít az Országgyűlés feladatkörrel rendelkező bizottságának.

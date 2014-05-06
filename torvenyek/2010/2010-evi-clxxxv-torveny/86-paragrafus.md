@@ -1,6 +1,6 @@
 ## A Kuratórium összetétele
 
-86. § (1) Az Országgyűlés a Kuratóriumba egyenkénti szavazással a jelenlevő képviselők kétharmadának szavazatával hat tagot választ.
+86. § (1) Az Országgyűlés a Kuratóriumba egyenkénti szavazással hat tagot választ.
 
 (2) Az Országgyűlés által a Kuratóriumba választható tagok felét a kormánypárti, másik felét az ellenzéki képviselőcsoportok jelölik. A kormány-, illetve az ellenzéki oldalhoz tartozó képviselőcsoportok egymás között állapodnak meg az adott oldal által jelölhető személyekről.
 

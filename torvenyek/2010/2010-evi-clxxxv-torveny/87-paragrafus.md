@@ -10,6 +10,6 @@
 
 (6) Ha a jelölőbizottság a (4) bekezdés szerinti esetben sem tud kellő számú jelöltet állítani, új jelölőbizottságot kell felállítani.
 
-(7) Az eredményes jelölést követően az új tagot az Országgyűlés a jelenlevő képviselők kétharmadának szavazatával választja meg a már működő megválasztott Kuratórium tagjai mandátumának lejártáig terjedő időszakra. A Kuratórium új tagja az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerint esküt tesz.
+(7) Az eredményes jelölést követően az új tagot az Országgyűlés választja meg a már működő megválasztott Kuratórium tagjai mandátumának lejártáig terjedő időszakra. A Kuratórium új tagja az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerint esküt tesz.
 
 (8) Amennyiben a Kuratórium elnökének vagy a Médiatanács által delegált tagjának szűnik meg a mandátuma annak lejárta előtt, a Médiatanács tizenöt napon belül új elnököt, illetve tagot delegál a Kuratórium tagjai mandátumának lejártáig terjedő időszakra.
