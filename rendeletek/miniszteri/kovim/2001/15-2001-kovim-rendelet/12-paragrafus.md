@@ -2,9 +2,9 @@
 
 ## rendelkezések
 
-12. § (1)[^69] E rendelet hatálybalépése előtt kiállított belvízi fedélzeti hivatásos hajózási képesítő okmányok helyett a hajózási hatóság kérelemre, különbözeti vizsga nélkül az e rendeletben foglaltaknak megfelelő képesítő okmányt állít ki.
+12. § (1)[^75] E rendelet hatálybalépése előtt kiállított belvízi fedélzeti hivatásos hajózási képesítő okmányok helyett a hajózási hatóság kérelemre, különbözeti vizsga nélkül az e rendeletben foglaltaknak megfelelő képesítő okmányt állít ki.
 
-(2)[^70] Az 1995. március 1. után kiadott belvízi gépüzemi hivatásos hajózási képesítő okmányok helyett a hajózási hatóság kérelemre különbözeti vizsga nélkül
+(2)[^76] Az 1995. március 1. után kiadott belvízi gépüzemi hivatásos hajózási képesítő okmányok helyett a hajózási hatóság kérelemre különbözeti vizsga nélkül
 
 a) a belvízi II. osztályú (950 kW) géptiszti képesítést szerzett személy részére belvízi géptiszti képesítő okmányt,
 
@@ -16,7 +16,7 @@ d) a belvízi gőz- vagy villamos géptiszt, gépmester, illetve gépkezelő vag
 
 ## ad ki.
 
-(3)[^71] Az 1995. március 1. napja előtt kiadott hivatásos hajózási képesítő okmányok helyett a hajózási hatóság kérelemre különbözeti vizsga nélkül
+(3)[^77] Az 1995. március 1. napja előtt kiadott hivatásos hajózási képesítő okmányok helyett a hajózási hatóság kérelemre különbözeti vizsga nélkül
 
 a) belvízi III. osztályú (750 kW) géptiszti képesítést szerzett személy részére belvízi géptiszti képesítő okmányt,
 
@@ -40,31 +40,32 @@ a) a folyókra szóló vízterületi korlátozással kiadott belvízi hivatásos
 
 b) a tavakra szóló vízterületi korlátozással kiadott belvízi hivatásos kishajó-vezetői képesítés kizárólag a hazai tavakra érvényes.
 
-(5)[^72] A rendelet hatálybalépése előtt kiadott ,,szolgálati célú kisgéphajó-vezetői'' képesítés szolgálati kisgéphajó, valamint belvízi kedvtelési célú kisgéphajó vezetésére jogosít. A hajózási hatóság a képesített személy kérelmére – a hivatásos képesítéshez a 2. számú mellékletben előírt gyakorlat igazolása, valamint vonalismeret, jogi ismeretek, egészségügyi, környezet- és tűzvédelmi ismeretek tantárgyakból tett sikeres különbözeti vizsga esetén – ,,hivatásos kisgéphajó-vezető'' képesítő okmányt ad ki.
+(5)[^78] A rendelet hatálybalépése előtt kiadott ,,szolgálati célú kisgéphajó-vezetői'' képesítés szolgálati kisgéphajó, valamint belvízi kedvtelési célú kisgéphajó vezetésére jogosít. A hajózási hatóság a képesített személy kérelmére – a hivatásos képesítéshez a 2. számú mellékletben előírt gyakorlat igazolása, valamint vonalismeret, jogi ismeretek, egészségügyi, környezet- és tűzvédelmi ismeretek tantárgyakból tett sikeres különbözeti vizsga esetén – ,,hivatásos kisgéphajó-vezető'' képesítő okmányt ad ki.
 
-(6)[^73] A 2008. július 1. előtt kiadott „szolgálati célú hajóvezető” A, B, illetve C képesítést szolgálati kisgéphajóvezetői képesítő okmányra kell vizsgakötelezettség nélkül kicserélni.
+(6)[^79] A 2008. július 1. előtt kiadott „szolgálati célú hajóvezető” A, B, illetve C képesítést szolgálati kisgéphajóvezetői képesítő okmányra kell vizsgakötelezettség nélkül kicserélni.
 
-(7)[^74] A vízirendészet Vízijárművezetői Vizsgabizottsága által 1979. augusztus 31. előtt kisgéphajó és vitorlás kishajó vezetésére kiadott vízijártassági igazolvány alapján a hajózási hatóság – Hajózási Szabályzatból, valamint hajózási földrajz, vízrajz és meteorológia tantárgyakból tett elméleti vizsga, továbbá
+(7)[^80] A vízirendészet Vízijárművezetői Vizsgabizottsága által 1979. augusztus 31. előtt kisgéphajó és vitorlás kishajó vezetésére kiadott vízijártassági igazolvány alapján a hajózási hatóság – Hajózási Szabályzatból tett elméleti vizsga, továbbá
 
 a) kisgéphajó esetében annak vezetéséből tett gyakorlati, illetve
 
-b) vitorlás kishajó esetében vitorlázás elmélete tantárgyból tett elméleti, valamint vitorlás kishajó vezetéséből tett gyakorlati,
+b)[^81] vitorlás kishajó esetében vitorlás kishajó vezetéséből tett gyakorlati,
 
 vizsga alapján – belvízi kedvtelési célú kisgéphajó-vezetői, illetve belvízi kedvtelési célú vitorláskishajó-vezetői képesítő okmányt állít ki.
 
-(8)[^75] A hajózási hatóság kérelemre révész ,,A'' képesítést állít ki arra a vízterületre, amelyre vonalvizsgával rendelkezik:
+(8)[^82] A hajózási hatóság kérelemre révész ,,A'' képesítést állít ki arra a vízterületre, amelyre vonalvizsgával rendelkezik:
 
 a) vizsga nélkül a hivatásos, illetve szolgálati kisgéphajó-vezetői és révész képesítéssel, valamint legalább 6 havi átkelésnél szerzett hajózási gyakorlattal együttesen rendelkezőknek,
 
 b) az e rendelet 2. számú melléklete IV. Fejezetének 2/IV/1. sz. táblázata alapján tett különbözeti vizsga alapján a hivatásos vagy szolgálati célú kisgéphajó-vezető vagy révész képesítéssel rendelkezőknek.
 
-(9)[^76] Az e rendelet hatálybalépése előtt 12 főnél nagyobb utas-befogadóképességű kisgéphajón vagy vitorlás kishajón kishajóvezetőként szerzett legalább 6 havi hajós szolgálati könyvben igazolt gyakorlat alapján a hajózási hatóság kérelemre vizsga nélkül a kishajóvezető képesítés fajtájának és a megszerzett gyakorlatnak megfelelően kisgéphajó-vezető „A” vagy vitorlás kishajóvezető „A” képesítést állít ki.
+(9)[^83] Az e rendelet hatálybalépése előtt 12 főnél nagyobb utas-befogadóképességű kisgéphajón vagy vitorlás kishajón kishajóvezetőként szerzett legalább 6 havi hajós szolgálati könyvben igazolt gyakorlat alapján a hajózási hatóság kérelemre vizsga nélkül a kishajóvezető képesítés fajtájának és a megszerzett gyakorlatnak megfelelően kisgéphajó-vezető „A” vagy vitorlás kishajóvezető „A” képesítést állít ki.
 
-[^69]: A 12. § (1) bekezdése a 16/2006. (IV. 6.) GKM rendelet 1. § (7) bekezdésével megállapított, valamint a 3/2008. (VI. 3.) KHEM rendelet 13. § (6) bekezdésének a) pontja szerint módosított szöveg.
-[^70]: A 12. § (2) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^71]: A 12. § (3) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^72]: A 12. § (5) bekezdésének második mondata a 3/2008. (VI. 3.) KHEM rendelet 13. § (6) bekezdésének c) pontja szerint módosított szöveg.
-[^73]: A 12. § (6) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^74]: A 12. § (7) bekezdésének bevezető szövegrésze a 3/2008. (VI. 3.) KHEM rendelet 13. § (6) bekezdésének d) pontja szerint módosított szöveg.
-[^75]: A 12. § (8) bekezdését a 76/2003. (XI. 24.) GKM rendelet 5. §-a iktatta a szövegbe.
-[^76]: A 12. § (9) bekezdését a 16/2006. (IV. 6.) GKM rendelet 1. § (8) bekezdése iktatta be.
+[^75]: A 12. § (1) bekezdése a 16/2006. (IV. 6.) GKM rendelet 1. § (7) bekezdésével megállapított, valamint a 3/2008. (VI. 3.) KHEM rendelet 13. § (6) bekezdésének a) pontja szerint módosított szöveg.
+[^76]: A 12. § (2) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^77]: A 12. § (3) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^78]: A 12. § (5) bekezdésének második mondata a 3/2008. (VI. 3.) KHEM rendelet 13. § (6) bekezdésének c) pontja szerint módosított szöveg.
+[^79]: A 12. § (6) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^80]: A 12. § (7) bekezdés nyitó szövegrésze a 3/2008. (VI. 3.) KHEM rendelet 13. § (6) bekezdésének d) pontja, a 29/2014. (V. 5.) NFM rendelet 20. § a) pontja szerint módosított szöveg.
+[^81]: A 12. § (7) bekezdés b) pontja a 29/2014. (V. 5.) NFM rendelet 20. § b) pontja szerint módosított szöveg.
+[^82]: A 12. § (8) bekezdését a 76/2003. (XI. 24.) GKM rendelet 5. §-a iktatta a szövegbe.
+[^83]: A 12. § (9) bekezdését a 16/2006. (IV. 6.) GKM rendelet 1. § (8) bekezdése iktatta be.

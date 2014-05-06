@@ -1,58 +1,61 @@
-## [^42] Harmadik államban szerzett képesítés elismerése
+## A képesítő okmányok elismerése[^47]
 
-9. §[^43] (1)[^44] EGT államban szerzett hajózási képesítés a magyar víziúton és magyar lobogó alatt közlekedő hajón külön eljárás nélkül a képesítésben foglalt szolgálat ellátására jogosít, ha – vonalvizsgához kötött képesítés esetén – annak tulajdonosa az adott víziútszakaszra érvényes vonalvizsgával rendelkezik.
+9. §[^48] (1)[^49] EGT államban szerzett hajózási képesítés a magyar víziúton és magyar lobogó alatt közlekedő hajón külön eljárás nélkül a képesítésben foglalt szolgálat ellátására jogosít, ha – vonalvizsgához kötött képesítés esetén – annak tulajdonosa az adott víziútszakaszra érvényes vonalvizsgával rendelkezik.
 
-(2)[^45] Harmadik államban szerzett képesítés elismerése nemzetközi szerződés, külön jogszabály vagy viszonosság, illetve az e rendeletben foglalt rendelkezések alapján történik.
+(2)[^50] Harmadik államban szerzett képesítés elismerése nemzetközi szerződés, külön jogszabály vagy viszonosság, illetve az e rendeletben foglalt rendelkezések alapján történik.
 
-(3)[^46] Az elismerési eljárás során a külföldi képesítés jogi hatályát Magyarországon megszerzett képesítés jogi hatályával azonosnak a hazai képesítő okmány kiállítására illetékes hajózási hatóság nyilvánítja (ismeri el).
+(2a)[^51] Kedvtelési céllal a magyar víziúton vagy magyar lobogó alatt közlekedő kishajó vezetéséhez az ENSZ Európai Gazdasági Bizottsága Belvízi Közlekedési Munkacsoportja 40. számú határozatában foglaltaknak megfelelően kibocsátott nemzetközi kedvtelési célú hajóvezetői bizonyítvány az abban foglalt korlátozások figyelembevételével fogadható el.
 
-(4)[^47] A honosítási eljárás során a külföldi képesítés hatályát az általa kiállított képesítő okmány jogi hatályával azonosnak a hazai képesítő okmány kiállítására illetékes hajózási hatóság nyilvánítja, és a kérelmező részére magyar képesítő okmányt állít ki (honosítja).
+(3)[^52] Az elismerési eljárás során a külföldi képesítés jogi hatályát Magyarországon megszerzett képesítés jogi hatályával azonosnak a hazai képesítő okmány kiállítására illetékes hajózási hatóság nyilvánítja (ismeri el).
 
-(5)[^48] Harmadik államban szerzett tengerész képesítés akkor honosítható, ha azt olyan államban állították ki, amelynek az STCW Egyezmény szerinti képzési és képesítési rendszerét a Nemzetközi Tengerészeti Szervezet (a továbbiakban: IMO) akkreditálta, és harmadik állam hatósága által kiállított képesítő okmány érvényesítésére irányuló hatósági szándék esetén a hajózási hatóság kezdeményezésére a minisztérium megfelelő indoklással ellátott kérelmet nyújt be az Európai Bizottsághoz.
+(4)[^53] A honosítási eljárás során a külföldi képesítés hatályát az általa kiállított képesítő okmány jogi hatályával azonosnak a hazai képesítő okmány kiállítására illetékes hajózási hatóság nyilvánítja, és a kérelmező részére magyar képesítő okmányt állít ki (honosítja).
 
-(6)[^49] Az elismerés visszavonását kezdeményező hajózási hatóság a képesítő okmányok érvényesítését mindaddig szünetelteti, amíg az Európai Bizottság döntéséről hivatalos tájékoztatás útján nem értesül. Abban az esetben, ha harmadik állam által kiállított képesítő okmányok elismerését illetően beadott kérelemre, a kérelem benyújtásától számított három hónapon belül az Európai Bizottság nem hoz határozatot, akkor a hajózási hatóság a harmadik állam által kiállított képesítő okmányok érvényesítését mindaddig szüneteltetheti, amíg az Európai Bizottság határozatot nem hoz.
+(5)[^54] Harmadik államban szerzett tengerész képesítés akkor honosítható, ha azt olyan államban állították ki, amelynek az STCW Egyezmény szerinti képzési és képesítési rendszerét a Nemzetközi Tengerészeti Szervezet (a továbbiakban: IMO) akkreditálta, és harmadik állam hatósága által kiállított képesítő okmány érvényesítésére irányuló hatósági szándék esetén a hajózási hatóság kezdeményezésére a minisztérium megfelelő indoklással ellátott kérelmet nyújt be az Európai Bizottsághoz.
 
-(7)[^50] A hajózási hatóság az 1. számú melléklet II. fejezetének 4. és 5. pontjában foglaltak megtartása mellett érvényesítheti az Európai Bizottság által elismert harmadik állam hatósága által kiállított képesítő okmányokat.
+(6)[^55] Az elismerés visszavonását kezdeményező hajózási hatóság a képesítő okmányok érvényesítését mindaddig szünetelteti, amíg az Európai Bizottság döntéséről hivatalos tájékoztatás útján nem értesül. Abban az esetben, ha harmadik állam által kiállított képesítő okmányok elismerését illetően beadott kérelemre, a kérelem benyújtásától számított három hónapon belül az Európai Bizottság nem hoz határozatot, akkor a hajózási hatóság a harmadik állam által kiállított képesítő okmányok érvényesítését mindaddig szüneteltetheti, amíg az Európai Bizottság határozatot nem hoz.
 
-(8)[^51] A hajózási hatóság érvényesítheti azon harmadik állam hatósága által kiállított képesítő okmányt, amelyre vonatkozóan a közösségi elismerés közzétételére az Európai Unió Hivatalos Lapjának C sorozatában 2005. június 13-át megelőzően sor került, kivéve, ha az Európai Bizottság az elismerést időközben visszavonta.
+(7)[^56] A hajózási hatóság az 1. számú melléklet II. fejezetének 4. és 5. pontjában foglaltak megtartása mellett érvényesítheti az Európai Bizottság által elismert harmadik állam hatósága által kiállított képesítő okmányokat.
 
-(9)[^52] A hajózási hatóság az érvényesítési tevékenységét az Európai Bizottság által készített és naprakészen tartott, az Európai Unió Hivatalos Lapjának C sorozatában közzétett jegyzékre figyelemmel végzi.
+(8)[^57] A hajózási hatóság érvényesítheti azon harmadik állam hatósága által kiállított képesítő okmányt, amelyre vonatkozóan a közösségi elismerés közzétételére az Európai Unió Hivatalos Lapjának C sorozatában 2005. június 13-át megelőzően sor került, kivéve, ha az Európai Bizottság az elismerést időközben visszavonta.
 
-(10)[^53] Harmadik állam hatósága által kiállított képesítő okmány érvényesítését az STCW Egyezmény VI. cikkének (2) bekezdésében foglalt rendelkezés szerint kell végezni.
+(9)[^58] A hajózási hatóság az érvényesítési tevékenységét az Európai Bizottság által készített és naprakészen tartott, az Európai Unió Hivatalos Lapjának C sorozatában közzétett jegyzékre figyelemmel végzi.
 
-(11)[^54] Az Európai Gazdasági Térség tagállamaiban kiállított ADN, illetve ADNR Szabályzat szerint kiállított veszélyes áru szállítási szakértő képesítéseket a bizonyítványban meghatározott érvényességi idő lejártáig az abban megjelölt hajótípusokra, szállítási módra és áruosztályokra a hajózási hatóság külön eljárás nélkül ismeri el.
+(10)[^59] Harmadik állam hatósága által kiállított képesítő okmány érvényesítését az STCW Egyezmény VI. cikkének (2) bekezdésében foglalt rendelkezés szerint kell végezni.
 
-(11)[^55] A parancsnoki hídon, a hajón belül, a hajók között folytatott, valamint a hajó és part viszonylatú kommunikáció angol nyelven történő végrehajtása feltételeinek megteremtése érdekében, a harmadik országban szerzett tengerész képesítő okmány érvényesítéséhez a képesítő okmány tulajdonosának az e rendeletben a tengeri hajó parancsnoka, fedélzeti tisztje, gépüzemvezetője és géptisztje számára meghatározott feltételek szerint igazolnia, illetve tanúsítania kell angolnyelv-tudását.
+(11)[^60] Az Európai Gazdasági Térség tagállamaiban kiállított ADN, illetve ADNR Szabályzat szerint kiállított veszélyes áru szállítási szakértő képesítéseket a bizonyítványban meghatározott érvényességi idő lejártáig az abban megjelölt hajótípusokra, szállítási módra és áruosztályokra a hajózási hatóság külön eljárás nélkül ismeri el.
 
-(12)[^56] A honosítás iránti kérelemhez csatolni kell a képesítést igazoló okmányt, továbbá a tanulmányok tartalmáról tájékoztató okirat (pl. leckekönyv, tantárgyjegyzék, vizsgakivonat) hiteles fordítását.
+(11)[^61] A parancsnoki hídon, a hajón belül, a hajók között folytatott, valamint a hajó és part viszonylatú kommunikáció angol nyelven történő végrehajtása feltételeinek megteremtése érdekében, a harmadik országban szerzett tengerész képesítő okmány érvényesítéséhez a képesítő okmány tulajdonosának az e rendeletben a tengeri hajó parancsnoka, fedélzeti tisztje, gépüzemvezetője és géptisztje számára meghatározott feltételek szerint igazolnia, illetve tanúsítania kell angolnyelv-tudását.
 
-(13)[^57] A hajózási hatóság a képesítés elismerését, illetve honosítását különbözeti vizsga letételéhez kötheti.
+(12)[^62] A honosítás iránti kérelemhez csatolni kell a képesítést igazoló okmányt, továbbá a tanulmányok tartalmáról tájékoztató okirat (pl. leckekönyv, tantárgyjegyzék, vizsgakivonat) hiteles fordítását.
 
-(14)[^58] Szakmai vizsga annak ellenőrzése érdekében írható elő, hogy a kérelmező rendelkezik-e a képesítés megszerzéséhez szükséges ismeretekkel és hajózási gyakorlati idővel. Vonalvizsgához kötött képesítés esetén az adott víziútszakaszra vonatkozó vonalvizsga kötelező.
+(13)[^63] A hajózási hatóság a képesítés elismerését, illetve honosítását különbözeti vizsga letételéhez kötheti.
 
-(15)[^59] A hajózási hatóság a honosított képesítő okmányokról nyilvántartást vezet.
+(14)[^64] Szakmai vizsga annak ellenőrzése érdekében írható elő, hogy a kérelmező rendelkezik-e a képesítés megszerzéséhez szükséges ismeretekkel és hajózási gyakorlati idővel. Vonalvizsgához kötött képesítés esetén az adott víziútszakaszra vonatkozó vonalvizsga kötelező.
 
-(16)[^60] Harmadik államban szerzett tengerész képesítések elismeréséről és honosításáról a harmadik állam hatóságát, az IMO-t, illetve az Európai Bizottságot a hajózási hatóság közreműködésével a minisztérium tájékoztatja.
+(15)[^65] A hajózási hatóság a honosított képesítő okmányokról nyilvántartást vezet.
 
-(17)[^61] Az Ügynökség által, a képzési és képesítési rendelkezések megfelelő érvényesítésének ellenőrzése céljából legalább ötévi rendszerességgel végrehajtott ellenőrzés elősegítése érdekében a minisztérium és a hajózási hatóság működnek közre.
+(16)[^66] Harmadik államban szerzett tengerész képesítések elismeréséről és honosításáról a harmadik állam hatóságát, az IMO-t, illetve az Európai Bizottságot a hajózási hatóság közreműködésével a minisztérium tájékoztatja.
 
-[^42]: A 9. §-t megelőző alcím a 3/2008. (VI. 3.) KHEM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^43]: A 9. § a 76/2003. (XI. 24.) GKM rendelet 4. §-ával megállapított szöveg.
-[^44]: A 9. § (1) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^45]: A 9. § (2) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^46]: A 9. § (3) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^47]: A 9. § (4) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^48]: A 9. § (5) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^49]: A 9. § új (6) bekezdését a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (12) bekezdésre változtatva.
-[^50]: A 9. § új (7) bekezdését a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (13) bekezdésre változtatva.
-[^51]: A 9. § új (8) bekezdését a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (14) bekezdésre változtatva.
-[^52]: A 9. § új (9) bekezdését a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (9) bekezdés számozását (15) bekezdésre változtatva.
-[^53]: A 9. § új (10) bekezdését a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (10) bekezdés számozását (16) bekezdésre változtatva.
-[^54]: A 9. § (11) bekezdését a 32/2005. (VI. 2.) GKM rendelet 4. § (3) bekezdésének a) pontja iktatta be.
-[^55]: A 9. § újabb (11) bekezdését a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése iktatta be, szövege a 3/2008. (VI. 3.) KHEM rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^56]: A 9. § eredeti (6) bekezdésének számozását (12) bekezdésre változtatta a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése.
-[^57]: A 9. § eredeti (7) bekezdésének számozását (13) bekezdésre változtatta a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése.
-[^58]: A 9. § eredeti (8) bekezdésének számozását (14) bekezdésre változtatta a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése, szövege a 3/2008. (VI. 3.) KHEM rendelet 7. § (4) bekezdésével megállapított szöveg.
-[^59]: A 9. § eredeti (9) bekezdésének számozását (15) bekezdésre változtatta a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése.
-[^60]: A 9. § eredeti (10) bekezdésének számozását (16) bekezdésre változtatta a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése, szövege a 3/2008. (VI. 3.) KHEM rendelet 7. § (5) bekezdésével megállapított szöveg.
-[^61]: A 9. § (17) bekezdését a 93/2006. (XII. 27.) GKM rendelet 3. § (2) bekezdése iktatta be.
+(17)[^67] Az Ügynökség által, a képzési és képesítési rendelkezések megfelelő érvényesítésének ellenőrzése céljából legalább ötévi rendszerességgel végrehajtott ellenőrzés elősegítése érdekében a minisztérium és a hajózási hatóság működnek közre.
+
+[^47]: A 9. §-t megelőző alcím a 29/2014. (V. 5.) NFM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^48]: A 9. § a 76/2003. (XI. 24.) GKM rendelet 4. §-ával megállapított szöveg.
+[^49]: A 9. § (1) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^50]: A 9. § (2) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^51]: A 9. § (2a) bekezdését a 29/2014. (V. 5.) NFM rendelet 17. § (2) bekezdése iktatta be.
+[^52]: A 9. § (3) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^53]: A 9. § (4) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^54]: A 9. § (5) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^55]: A 9. § új (6) bekezdését a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (12) bekezdésre változtatva.
+[^56]: A 9. § új (7) bekezdését a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (13) bekezdésre változtatva.
+[^57]: A 9. § új (8) bekezdését a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (14) bekezdésre változtatva.
+[^58]: A 9. § új (9) bekezdését a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (9) bekezdés számozását (15) bekezdésre változtatva.
+[^59]: A 9. § új (10) bekezdését a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (10) bekezdés számozását (16) bekezdésre változtatva.
+[^60]: A 9. § (11) bekezdését a 32/2005. (VI. 2.) GKM rendelet 4. § (3) bekezdésének a) pontja iktatta be.
+[^61]: A 9. § újabb (11) bekezdését a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése iktatta be, szövege a 3/2008. (VI. 3.) KHEM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^62]: A 9. § eredeti (6) bekezdésének számozását (12) bekezdésre változtatta a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése.
+[^63]: A 9. § eredeti (7) bekezdésének számozását (13) bekezdésre változtatta a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése.
+[^64]: A 9. § eredeti (8) bekezdésének számozását (14) bekezdésre változtatta a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése, szövege a 3/2008. (VI. 3.) KHEM rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^65]: A 9. § eredeti (9) bekezdésének számozását (15) bekezdésre változtatta a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése.
+[^66]: A 9. § eredeti (10) bekezdésének számozását (16) bekezdésre változtatta a 74/2005. (IX. 28.) GKM rendelet 3. § (2) bekezdése, szövege a 3/2008. (VI. 3.) KHEM rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^67]: A 9. § (17) bekezdését a 93/2006. (XII. 27.) GKM rendelet 3. § (2) bekezdése iktatta be.

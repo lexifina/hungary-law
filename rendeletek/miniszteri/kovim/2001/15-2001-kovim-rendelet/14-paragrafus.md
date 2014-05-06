@@ -1,6 +1,6 @@
-## Az Európai Unió jogának való megfelelés[^82]
+## Az Európai Unió jogának való megfelelés[^89]
 
-## 14. §[^83] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 14. §[^90] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 96/50/EK irányelve (1996. július 23.) a Közösségen belüli belvízi árufuvarozásra és személyszállításra vonatkozó nemzeti hajóvezetői bizonyítvány megszerzési feltételeinek összehangolásáról [a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló 21/2002. (XI. 8.) GKM–ESZCSM együttes rendelettel együtt],
 
@@ -10,8 +10,8 @@ c) az Európai Parlament és a Tanács 2001/25/EK irányelve (2001. április 4.)
 
 d) az Európai Parlament és a Tanács 2003/103/EK irányelve (2003. november 17.) a tengerészek képzésének minimumszintjéről szóló 2001/25/EK irányelv módosításáról,
 
-e)[^84] a tengerészek képzésének minimumszintjéről szóló 2001/25/EK irányelv módosításáról szóló, 2005. szeptember 7-i 2005/45/EK európai parlamenti és a tanácsi irányelv, 2. cikk i) pont; 3. cikk (1) bekezdés; 4. cikk 2. pont és az 5. cikk (1) bekezdés.
+e)[^91] a tengerészek képzésének minimumszintjéről szóló 2001/25/EK irányelv módosításáról szóló, 2005. szeptember 7-i 2005/45/EK európai parlamenti és a tanácsi irányelv, 2. cikk i) pont; 3. cikk (1) bekezdés; 4. cikk 2. pont és az 5. cikk (1) bekezdés.
 
-[^82]: A 14. §-t megelőző alcím a 9/2009. (III. 6.) KHEM rendelet 10. § (17) bekezdésének b) pontjával megállapított szöveg.
-[^83]: A 14. § a 74/2005. (IX. 28.) GKM rendelet 5. §-ával megállapított szöveg.
-[^84]: A 14. § e) pontját a 93/2006. (XII. 27.) GKM rendelet 4. §-a iktatta be.
+[^89]: A 14. §-t megelőző alcím a 9/2009. (III. 6.) KHEM rendelet 10. § (17) bekezdésének b) pontjával megállapított szöveg.
+[^90]: A 14. § a 74/2005. (IX. 28.) GKM rendelet 5. §-ával megállapított szöveg.
+[^91]: A 14. § e) pontját a 93/2006. (XII. 27.) GKM rendelet 4. §-a iktatta be.

@@ -248,189 +248,11 @@
 
 ## (3. oldal és 2. oldal)
 
-## 2. Hivatásos tengerész képesítő okmányok:
+## 2.
 
-## 2.1 Tengerésztiszti bizonyítvány
+## 3. Kedvtelési célú képesítések
 
-|  | MAGYAR KÖZTÁRSASÁG BIZONYÍTVÁNY KIÁLLÍTVA A TENGERÉSZEK KÉPZÉSÉRŐL, KÉPESÍTÉSÉRŐL ÉS AZ ŐRSZOLGÁLAT ELLÁTÁSÁRÓL SZÓLÓ 1995-BEN MÓDOSÍTOTT 1978. ÉVI NEMZETKÖZI EGYEZMÉNY ALAPJÁN A Magyar Köztársaság Kormánya igazolja, hogy ………………………..…………. (név), amint ezt megállapították, a fenti módosított Egyezmény …….. Szabályának megfelelő képesítéssel rendelkezik és alkalmas …………..………….-ig, illetve e bizonyítvány érvényessége meghosszabbításának a hátoldalon feltüntetett lejártáig az alábbi tevékenységeknek a feltüntetett szinten – a feltüntetett bármely korlátozások figyelembevételével – való ellátására: |  |
-
-|  |  | TEVÉKENYSÉG | SZINT | KORLÁTOZÁS (HA VAN) |  |  |
-
-|  | E bizonyítványnak jogos tulajdonosa az Igazgatásnak a hajók személyzettel való biztonságos ellátására vonatkozó követelményeiben foglalt következő beosztást, illetve beosztásokat töltheti be: |  |
-
-|  |  | BEOSZTÁS | KORLÁTOZÁS (HA VAN) |  |  |
-
-|  | A bizonyítvány száma ………………………. Kiállításának kelte …………………………………. |  |
-
-|  |  | P. H. | …………………………………………… a kiállításra jogosult hivatalos személy aláírása …………………………………………… a kiállításra jogosult hivatalos személy neve |  |  |
-
-|  | E bizonyítvány eredeti példányát az Egyezmény I/2 szabálya 9. pontjának megfelelően a hajón kell tartani. |  |
-
-## Tengerésztiszti bizonyítvány (1. oldal)
-
-|  | REPUBLIC OF HUNGARY CERTIFICATE ISSUED UNDER THE PROVISIONS OF THE INTERNATIONAL CONVENTION ON STANDARDS OF TRAINING, CERTIFICATION AND WATCHKEEPING FOR SEAF ARERS. 1978, AS AMENDED IN 1995 The Government of Republic of Hungary certifies that ……………..…………. has been found duly qualified in accordance with the provisions of regulation ………………. of the above Convention, as amended, and has been found competent to perform the following functions, at the levels specified, subject to any limitations indicated until ………………… or until the date of expiry of any extension of the validity of this certificate as maybe shown overleaf: |  |
-
-|  |  | FUNCTION | LEVEL | LIMITATIONS APPLYING (IF ANY) |  |  |
-
-|  | The lawful holder of this certificate may serve in the following capacity or capacities specified in the applicable safe manning requirements of the Administration: |  |
-
-|  |  | CAPACITY | LIMITATIONS APPLYING (IF ANY) |  |  |
-
-|  | Certificate No………………………. Issued on…………………………………. |  |
-
-|  |  | Seal | …………………………………………… Signature of duly authorized official …………………………………………… Name of duly authorized official |  |  |
-
-|  | The original of this certificate must be kept available in accordance with regulation I/2. paragraph 9 of the Convention while serving on a ship. |  |
-
-## Tengerésztiszti bizonyítvány (2. oldal)
-
-|  | A bizonyítvány tulajdonosának születési ideje: ………………………………… A bizonyítvány tulajdonosának aláírása: ………..……………………………… A bizonyítvány tulajdonosának fényképe |  |
-
-|  | A bizonyítvány érvényessége meghosszabbítva: ..………………………………-ig |  |
-
-|  | P. H. | ………………………………………………… a kiállításra jogosult hivatalos személy aláírása |  |
-
-|  | Az újraérvényesítés kelte ………………… |  |
-
-|  |  | ……………………………………………… a kiállításra jogosult hivatalos személy neve |  |
-
-|  | –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– |  |
-
-|  | A bizonyítvány érvényességemeghosszabbítva: ..………………………………-ig |  |
-
-|  | P. H. | …………………………………………………. a kiállításra jogosult hivatalos személy aláírása |  |
-
-|  | Az újraérvényesítés kelte ………………… |  |
-
-|  |  | ……………………………………………….. a kiállításra jogosult hivatalos személy neve |  |
-
-|  | –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– |  |
-
-|  | Ez a bizonyítvány kiegészítő képesítés nélkül tartály-, gázszállító- és vegyiárut szállító hajón, továbbá RO-RO – és személyhajón parancsnoki/tiszti beosztásra nem jogosít. |  |
-
-## Tengerésztiszti bizonyítvány (3. oldal)
-
-|  | Date of birth of the holder of the certificate: ………………………………… Signature of the holder of the certificate: ………..……………………………… Photograph of the holder of the certificate: |  |
-
-|  | The validity of this certificate is hereby extende until ..……………………………… |  |
-
-|  | Seal | …………………………………………… Signature of duly authorized official |  |
-
-|  | Date of revalidation: …………………… |  |
-
-|  |  | …………………………………………… Name of duly authorized official |  |
-
-|  | –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– |  |
-
-|  | The validity of this certificate is hereby extende until ..……………………………… |  |
-
-|  | Seal | …………………………………………… Signature of duly authorized official |  |
-
-|  | Date of revalidation: …………………… |  |
-
-|  |  | …………………………………………… Name of duly authorized official |  |
-
-|  | –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– |  |
-
-|  | This certificate without additional qualification does not give the right to occupy master/officer ranks on tankers, gas carriers, chemical tankers, Ro-Ro and passengers ships. |  |
-
-## Tengerésztiszti bizonyítvány (4. oldal)
-
-## Tengerész képesítő bizonyítvány
-
-|  | MAGYAR KÖZTÁRSASÁG BIZONYÍTVÁNY KIÁLLÍTVA A TENGERÉSZEK KÉPZÉSÉRŐL, KÉPESÍTÉSÉRŐL ÉS AZ ŐRSZOLGÁLAT ELLÁTÁSÁRÓL SZÓLÓ 1995-BEN MÓDOSÍTOTT 1978. ÉVI NEMZETKÖZI EGYEZMÉNY ALAPJÁN A Magyar Köztársaság Kormánya igazolja, hogy ………………………..…………. (név), amint ezt megállapították, a fenti módosított Egyezmény …….. Szabályának megfelelő képesítéssel rendelkezik és alkalmas …………..………….-ig, illetve e bizonyítvány érvényessége meghosszabbításának a hátoldalon feltüntetett lejártáig az alábbi tevékenységeknek a feltüntetett szinten – a feltüntetett bármely korlátozások figyelembevételével – való ellátására: |  |
-
-|  |  | TEVÉKENYSÉG | SZINT | KORLÁTOZÁS (HA VAN) |  |  |
-
-|  | E bizonyítványnak jogos tulajdonosa az Igazgatásnak a hajók személyzettel való biztonságos ellátására vonatkozó követelményeiben foglalt következő beosztást, illetve beosztásokat töltheti be: |  |
-
-|  |  | BEOSZTÁS | KORLÁTOZÁS (HA VAN) |  |  |
-
-|  | A bizonyítvány száma ………………………. Kiállításának kelte …………………………………. |  |
-
-|  |  | P. H. | …………………………………………… a kiállításra jogosult hivatalos személy aláírása …………………………………………… a kiállításra jogosult hivatalos személy neve |  |  |
-
-|  | E bizonyítvány eredeti példányát az Egyezmény I/2 szabálya 9. pontjának megfelelően a hajón kell tartani. |  |
-
-## Tengerész képesítő bizonyítvány (1. oldal)
-
-|  | REPUBLIC OF HUNGARY CERTIFICATE ISSUED UNDER THE PROVISIONS OF THE INTERNATIONAL CONVENTION ON STANDARDS OF TRAINING, CERTIFICATION AND WATCHKEEPING FOR SEAF ARERS. 1978, AS AMENDED IN 1995 The Government of Republic Hungary certifies that ……………..…………. has been found duly qualified in accordance with the provisions of regulation ………………. of the above Convention, as amended, and has been found competent to perform the following functions, at the levels specified, subject to any limitations indicated until ………………… or until the date of expiry of any extension of the validity of this certificate as maybe shown overleaf: |  |
-
-|  |  | FUNCTION | LEVEL | LIMITATIONS APPLYING (IF ANY) |  |  |
-
-|  | The lawful holder of this certificate may serve in the following capacity or capacities specified in the applicable safe manning requirements of the Administration: |  |
-
-|  |  | CAPACITY | LIMITATIONS APPLYING (IF ANY) |  |  |
-
-|  | Certificate No………………………. Issued on…………………………………. |  |
-
-|  |  | Seal | …………………………………………… Signature of duly authorized official …………………………………………… Name of duly authorized official |  |  |
-
-|  | The original of this certificate must be kept available in accordance with regulation I/2. paragraph 9 of the Convention while serving on a ship. |  |
-
-## Tengerész képesítő bizonyítvány (2. oldal)
-
-|  | A bizonyítvány tulajdonosának születési ideje: ………………………………… A bizonyítvány tulajdonosának aláírása ………..……………………………… A bizonyítvány tulajdonosának fényképe |  |
-
-|  | A bizonyítvány érvényessége meghosszabbítva ..………………………………-ig |  |
-
-|  | P. H. | ………………………………………………… a kiállításra jogosult hivatalos személy aláírása |  |
-
-|  | Az újraérvényesítés kelte ……………… |  |
-
-|  |  | ……………………………………………… a kiállításra jogosult hivatalos személy neve |  |
-
-|  | –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– |  |
-
-|  | A bizonyítvány érvényessége meghosszabbítva ..………………………………-ig |  |
-
-|  | P. H. | ………………………………………………… a kiállításra jogosult hivatalos személy aláírása |  |
-
-|  | Az újraérvényesítés kelte ……………… |  |
-
-|  |  | ……………………………………………… a kiállításra jogosult hivatalos személy neve |  |
-
-## Tengerész képesítő bizonyítvány (3. oldal)
-
-|  | Date of birth of the holder of the certificate: ………………………………… Signature of the holder of the certificate: ………..……………………………… Photograph of the holder of the certificate: |  |
-
-|  | The validity of this certificate is hereby extende until ..……………………………… |  |
-
-|  | Seal | …………………………………………… Signature of duly authorized official |  |
-
-|  | Date of revalidation: …………………… |  |
-
-|  |  | …………………………………………… Name of duly authorized official |  |
-
-|  | –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– |  |
-
-|  | The validity of this certificate is hereby extende until ..……………………………… |  |
-
-|  | Seal | …………………………………………… Signature of duly authorized official |  |
-
-|  | Date of revalidation: …………………… |  |
-
-|  |  | …………………………………………… Name of duly authorized official |  |
-
-|  | –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– –– |  |
-
-|  | This certificate without additional qualification does not give the right to occupy master/officer ranks on tankers, gas carriers, chemical tankers, Ro-Ro and passengers ships. |  |
-
-## Tengerész képesítő bizonyítvány (4. oldal)
-
-## 2.3 Tengeri rádiókezelő bizonyítványok
-
-|  | MAGYAR KÖZTÁRSASÁG REPUBLIC OF HUNGARY ÁLTALÁNOS RÁDIÓKEZELŐ BIZONYÍTVÁNY GENERAL OPERATOR’S CERTIFICATE (GOC) NEMZETI KÖZLEKEDÉSI HATÓSÁG mint tengerészeti hatóság NATIONAL TRANSPORT AUTHORITY as Maritime Authority |  |
-
-## Tengeri általános rádiókezelő bizonyítvány (előoldal)
-
-|  | MAGYAR KÖZTÁRSASÁG REPUBLIC OF HUNGARY KORLÁTOZOTT RÁDIÓKEZELŐ BIZONYÍTVÁNY RESTRICTED OPERATOR’S CERTIFICATE (ROC) NEMZETI KÖZLEKEDÉSI HATÓSÁG mint tengerészeti hatóság NATIONAL TRANSPORT AUTHORITY as Maritime Authority |  |
-
-## Tengeri korlátozott rádiókezelő bizonyítvány (előoldal)
-
-## Tengeri általános és korlátozott rádiókezelő bizonyítvány (hátoldal)
-
-## 3. Nemzetközi kedvtelési célú hajóvezetői bizonyítvány (ID-1, kártya)
+## 3.1. Nemzetközi kedvtelési célú hajóvezetői bizonyítvány (ID-1, kártya)
 
 ## A bizonyítvány adattartalma a kártya előoldalán:
 
@@ -440,9 +262,9 @@
 
 ## INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT
 
-## MAGYARORSZÁG – HU
+## MAGYARORSZÁG-HU/
 
-## / HUNGARY
+## HUNGARY
 
 ## 1. (Családi név helye)
 
@@ -512,7 +334,193 @@
 
 ## 14. Feltételek – Conditions
 
-7. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^237]
+## 3.2. Kedvtelési célú GMDSS kezelői bizonyítvány (ID-1, kártya)
+
+## A bizonyítvány adattartalma a kártya előoldalán:
+
+## Az egyes adatokhoz tartozó megjelölések magyar és angol nyelven, a következők:
+
+## Magyarország / Hungary
+
+## GMDSS OPERATOR
+
+## for pleasure craft
+
+## KEDVTELÉSI CÉLÚ
+
+## GMDSS KEZELŐI BIZONYÍTVÁNY
+
+## LONG RANGE CERTIFICATE
+
+## Szám / No of certificate:
+
+## (A bizonyítvány számának a helye)
+
+## Családi név és utónév / Surname and other name(s):
+
+## (Családi név és utónév helye)
+
+## Tulajdonos aláírása / Signature of holder:
+
+## (Tulajdonos aláírásának helye)
+
+## Születési hely és idő / Place and date of birth:
+
+## (Születési hely és idő helye)
+
+## Állampolgárság / Nationality:
+
+## (Állampolgárság helye)
+
+## A kiállítás helye és ideje / Place and date of issue:
+
+## (A kiállítás keltezésének a helye)
+
+## (A tulajdonos fényképének a helye)
+
+## A bizonyítvány adattartalma a kártya hátoldalán:
+
+## A kiállító hatóság tanúsítja, hogy nevezett az ITU 343 számú határozatával és CEPT szabályaival összhangban rendelkezik a kedvtelési nem SOLAS hajókon levő GMDSS berendezések működtetéséhez szükséges ismeretekkel.
+
+## The issuing authority hereby certifies that the certificate's holder possesses the necessary knowledge to operate GMDSS radio communication equipment in accordance with Resolution 343 of ITU and CEPT Regulations on non SOLAS vessels.
+
+## Kiállította / Issued by:
+
+## (A kiállító hatóság magyar és angol nyelvű megnevezésének helye)
+
+## Korlátozás / Limitation:
+
+## Nincs / None
+
+## Képesítés / Qualification:
+
+## Kedvtelési célú GMDSS kezelő (LRC) / GMDSS operator for pleasure craft (LRC)
+
+## 3.3. Kedvtelési célú korlátozott GMDSS kezelői bizonyítvány (ID-1, kártya)
+
+## A bizonyítvány adattartalma a kártya előoldalán:
+
+## Az egyes adatokhoz tartozó megjelölések magyar és angol nyelven, a következők:
+
+## Magyarország / Hungary
+
+## GMDSS OPERATOR
+
+## for pleasure craft
+
+## KEDVTELÉSI CÉLÚ
+
+## GMDSS KEZELŐI BIZONYÍTVÁNY
+
+## KORLÁTOZOTT
+
+## LONG RANGE CERTIFICATE
+
+## Szám / No of certificate:
+
+## (A bizonyítvány számának a helye)
+
+## Családi név és utónév / Surname and other name(s):
+
+## (Családi név és utónév helye)
+
+## Tulajdonos aláírása / Signature of holder:
+
+## (Tulajdonos aláírásának helye)
+
+## Születési hely és idő / Place and date of birth:
+
+## (Születési hely és idő helye)
+
+## Állampolgárság / Nationality:
+
+## (Állampolgárság helye)
+
+## A kiállítás helye és ideje / Place and date of issue:
+
+## (A kiállítás keltezésének a helye)
+
+## (A tulajdonos fényképének a helye)
+
+## A bizonyítvány adattartalma a kártya hátoldalán:
+
+## A kiállító hatóság tanúsítja, hogy nevezett az ITU 343 számú határozatával és CEPT szabályaival összhangban rendelkezik a kedvtelési nem SOLAS hajókon levő GMDSS berendezések működtetéséhez szükséges ismeretekkel.
+
+## The issuing authority hereby certifies that the certificate's holder possesses the necessary knowledge to operate GMDSS radio communication equipment in accordance with Resolution 343 of ITU and CEPT Regulations on non SOLAS vessels.
+
+## Kiállította / Issued by:
+
+## (A kiállító hatóság magyar és angol nyelvű megnevezésének helye)
+
+## Korlátozás / Limitation:
+
+## A1-es tengeri körzetben / In sea area A1
+
+## Képesítés / Qualification:
+
+## Kedvtelési célú korlátozott GMDSS kezelő (SRC) / GMDSS operator for pleasure craft (SRC)
+
+## 3.4. Kedvtelési célú radar kezelői bizonyítvány (ID-1, kártya)
+
+## A bizonyítvány adattartalma a kártya előoldalán:
+
+## Az egyes adatokhoz tartozó megjelölések magyar és angol nyelven, a következők:
+
+## Magyarország / Hungary
+
+## RADAR OBSERVER
+
+## for pleasure craft
+
+## KEDVTELÉSI CÉLÚ
+
+## RADARKEZELŐI BIZONYÍTVÁNY
+
+## Szám / No of certificate:
+
+## (A bizonyítvány számának a helye)
+
+## Családi név és utónév / Surname and other name(s):
+
+## (Családi név és utónév helye)
+
+## Tulajdonos aláírása / Signature of holder:
+
+## (Tulajdonos aláírásának helye)
+
+## Születési hely és idő / Place and date of birth:
+
+## (Születési hely és idő helye)
+
+## Állampolgárság / Nationality:
+
+## (Állampolgárság helye)
+
+## A kiállítás helye és ideje / Place and date of issue:
+
+## (A kiállítás keltezésének a helye)
+
+## (A tulajdonos fényképének a helye)
+
+## A bizonyítvány adattartalma a kártya hátoldalán:
+
+## Kiállítva a 15/2001. (IV. 27.) KöViM rendelet alapján.
+
+## Issued according to 15/2001. (IV. 27.) KöViM ministerial decree.
+
+## Kiállította / Issued by:
+
+## (A kiállító hatóság magyar és angol nyelvű megnevezésének helye)
+
+## Érvényes / Valid for:
+
+## Tengeri vízterületekre / Sea waters
+
+## A tengeri kedvtelési célú hajókra felszerelt radarberendezés kezelésére jogosít.
+
+## Holder entitled to operate radar on pleasure craft.
+
+7. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^268]
 
 ## VIZSGASZABÁLYZAT
 
@@ -522,7 +530,7 @@ A jelentkezés formai és tárgyi követelményei
 
 1.1. A vizsgára jelentkezni legalább 10 munkanappal a kijelölt vizsgaidőpont előtt a szükséges dokumentumoknak a hajózási hatóságnál történő leadásával lehet. Ha a hajózási hatóság hiányosságot állapít meg, erről a vizsgázót értesíti. Ha a hiánypótlás a vizsga időpontja előtt 3 munkanappal nem történik meg, a vizsgázó nem vizsgázhat, nem vehető fel a vizsgajegyzőkönyvre, illetve csak a hiánypótlást követően határozható meg az új vizsgaidőpont. Ha a rendelet büntetlen előélet igazolását írja elő, akkor csak 3 hónapnál nem régebbi hatósági erkölcsi bizonyítvány fogadható el.
 
-1.2.[^238] Jóváhagyott képzés esetén, a képző szerv kérésére, a vizsga kihelyezve és tárgyanként vagy tárgycsoportonként, a képzés ütemezése szerinti bontásban is megtartható. Ilyen esetben a javító vizsgákra vonatkozó szabályokat tárgyanként vagy tárgycsoportonként kell alkalmazni. Olyan vizsga esetében, amelynél az elméleti vizsgatárgyak vizsgái elektronikus formában történnek, a vizsga kihelyezésére csak a hajózási hatósággal kötött megállapodás alapján van lehetőség.
+1.2.[^269] Jóváhagyott képzés esetén, a képző szerv kérésére, a vizsga kihelyezve és tárgyanként vagy tárgycsoportonként, a képzés ütemezése szerinti bontásban is megtartható. Ilyen esetben a javító vizsgákra vonatkozó szabályokat tárgyanként vagy tárgycsoportonként kell alkalmazni. Olyan vizsga esetében, amelynél az elméleti vizsgatárgyak vizsgái elektronikus formában történnek, a vizsga kihelyezésére csak a hajózási hatósággal kötött megállapodás alapján van lehetőség.
 
 1.3. A vizsgákhoz az előírt gyakorlati időket a következők szerint kell figyelembe venni:
 
@@ -536,9 +544,9 @@ c) A hajónapló vezetésére 2001. január 1-je előtt nem kötelezett úszól�
 
 d) A nem magyar lobogójú úszólétesítményen megszerzett, az illetékes külföldi hajózási hatóság által a külföldi hajós szolgálati könyvben igazolt gyakorlatot a hajózási hatóság elfogadja.
 
-e)[^239] Szolgálat csak munkaviszony, megbízási szerződés alapján vagy vállalkozóként, üzemelő úszólétesítményen ellátott tényleges szolgálat alapján igazolható. Minden szolgálati bejegyzésnek tartalmaznia kell azt, hogy az úszólétesítményre előírt mely szolgálatot látta el a jelentkező.
+e)[^270] Szolgálat csak munkaviszony, megbízási szerződés alapján vagy vállalkozóként, üzemelő úszólétesítményen ellátott tényleges szolgálat alapján igazolható. Minden szolgálati bejegyzésnek tartalmaznia kell azt, hogy az úszólétesítményre előírt mely szolgálatot látta el a jelentkező.
 
-1.3.2.[^240] Tengeri hajózásban:
+1.3.2.[^271] Tengeri hajózásban:
 
 A tengerész szolgálati könyvben a hajózási hatóság hitelesítéssel igazolja a gyakorlati időt. A gyakorlati idő naptári hónapban (az összegezett töredékidő 30 napos hónapban) számolható. Nem magyar nyelven kiállított szolgálati igazolás csak hivatalos magyar nyelvű fordítással fogadható el, kivéve ha erre nyilvánvalóan nincs szükség.
 
@@ -546,7 +554,7 @@ Szolgálat csak munkaviszony, megbízási szerződés alapján vagy vállalkozó
 
 1.4. A „gyakorlatok vizsgakönyve”-ként csak a hajózási hatóság által hitelesített vizsgakönyv fogadható el.
 
-1.5.[^241] Belvízi kedvtelési célú vizsga esetén a vizsgázó a vizsgakövetelményeket elméleti és gyakorlati részre bontva teljesítheti. Erre a lehetőségre a hajózási hatóság adatlapján a vizsgázó figyelmét fel kell hívni valamennyi hatáskörrel rendelkező hajózási hatóság megjelölésével. Ezek közül egynek a megjelölése nélkül a jelentkezési lapot elfogadni nem szabad, továbbá fel kell szólítani a vizsgázót ennek pótlására.
+1.5.[^272] Belvízi kedvtelési célú vizsga esetén a vizsgázó a vizsgakövetelményeket elméleti és gyakorlati részre bontva teljesítheti. Erre a lehetőségre a hajózási hatóság adatlapján a vizsgázó figyelmét fel kell hívni valamennyi hatáskörrel rendelkező hajózási hatóság megjelölésével. Ezek közül egynek a megjelölése nélkül a jelentkezési lapot elfogadni nem szabad, továbbá fel kell szólítani a vizsgázót ennek pótlására.
 
 2. A vizsga megtartásának feltételei, körülményei
 
@@ -646,9 +654,9 @@ a) A vizsgahely feleljen meg az e Szabályzat függelékében foglalt követelm�
 
 b) A vizsgahelyet a hajózási hatóság hagyja jóvá, illetve jelöli ki.
 
-3. A vizsgabiztosok
+3.[^273] A vizsgabiztosok
 
-A Vizsgabiztosok Névjegyzékében szereplő vizsgabiztos bármely hajózási hatóság vizsgájára kijelölhető a kinevezésben szereplő jogosultságnak megfelelően. A vizsgabiztosok felkérését a hajózási hatóság erre – a munkaköri leírásában – kijelölt vizsgaszervező köztisztviselője végzi.
+A Vizsgabiztosok Névjegyzékében szereplő vizsgabiztos – külön erre vonatkozó megállapodás nélkül – bármely hajózási hatóság vizsgájára kijelölhető a kinevezésben szereplő jogosultságnak megfelelően. A vizsgabiztosok felkérését a hajózási hatóság erre – a munkaköri leírásában – kijelölt vizsgaszervező köztisztviselője végzi.
 
 4. A vizsgabizottság
 
@@ -718,7 +726,7 @@ A vizsgabizottsági tag:
 
 – végzi az elnök által rábízott feladatokat.
 
-4.7.[^242] A vizsgabiztosok díjazása
+4.7.[^274] A vizsgabiztosok díjazása
 
 A vizsgabiztost díjazás illeti meg. A díjazás magában foglalja a vizsgáztatási díjat és a vizsgáztatók utazási és szállásköltségét is. A vizsgáztatási díjnak a képesítés vizsgakövetelményében meghatározott vizsgatárgyak számától vagy az egy vizsgázó teljes vizsgájának összidejétől függő kategóriába sorolása a következő:
 
@@ -744,9 +752,9 @@ Az utazási eszközt a vizsgáztató választja meg oly módon, hogy a jelenlét
 
 A vizsgaszervező – a vizsgáztatóval egyeztetetten – gondoskodhat az utaztatásról, illetve a szállásról. Ez esetben a vizsgáztatót külön utazási, illetve szállásköltség nem illeti meg.
 
-A vizsgadíj kifizetésére, illetve átutalására vonatkozóan a hajózási hatóság havi, illetve kéthavonta történő (göngyölített) kifizetést köthet ki (ezt a megbízási szerződésben rögzíteni kell). A vizsgabiztos kérelmére a vizsgadíj összevontan is kifizethető. Ha a vizsgabiztos lemond a vizsgadíjról, akkor erről nyilatkoznia kell.
+A vizsgadíj kifizetésére, illetve átutalására vonatkozóan a hajózási hatóság havi, illetve kéthavonta történő (göngyölített) kifizetést köthet ki (ezt a kijelölési okiratban rögzíteni kell). A vizsgabiztos kérelmére a vizsgadíj összevontan is kifizethető. Ha a vizsgabiztos lemond a vizsgadíjról, akkor erről nyilatkoznia kell.
 
-4.8.[^243] A tolmács tevékenysége
+4.8.[^275] A tolmács tevékenysége
 
 A tolmács:
 
@@ -902,41 +910,48 @@ A képesítő vizsgára jelentkezőkről és a vizsgát tett személyekről a ha
 
 Sikeres a képesítő vizsgája annak, aki minden tárgyból „Megfelelt” minősítéssel tett vizsgát, illetve az e Szabályzatban előírt pontszámot elérte (illetve felmentése volt). A vizsga eredményét a vizsgázóval a vizsga befejezése után közvetlenül, vizsgatárgyanként ismertetni kell.
 
-Függelék a Vizsgaszabályzathoz[^244]
+Függelék a Vizsgaszabályzathoz[^276]
+
+A gyakorlati vizsgához szükséges úszólétesítmények és a vizsgahelyek kijelölése
 
 A gyakorlati vizsgához szükséges úszólétesítmények és a vizsgahelyek kijelölése
 
 | Vizsga | A szükséges úszólétesítmény (minimális követelmény) | Vizsgahely minimális követelményei |
 
-| a) Kedvtelési célú képesítések |
+| a) Kedvtelési célú képesítések |
 
-| – Kisgéphajó-vezető vizsga | legalább 20 kW teljesítményű és legalább 3 fő befogadó képességű kisgéphajó | a kisgéphajó műveletezéséhez (elindulás, mentési művelet, fordulás, vontatmány kötélbe vétele, kikötés) elegendő felületű és vízmélységű vízterület, amely legalább 300 m hosszú és legalább 30 m széles |
+| – Kisgéphajó- vezető vizsga | legalább 20 kW teljesítményű és legalább 3 fő befogadó képességű kisgéphajó | a kisgéphajó műveletezéséhez (elindulás, mentési művelet, fordulás, vontatmány kötélbe vétele, kikötés) elegendő felületű és vízmélységű vízterület, amely legalább 300 m hosszú és legalább 30 m széles |
 
-| – Vitorlás kishajóvezető vizsga | a 2. zónára alkalmas, legalább 15 m2 vitorlafelületű és legalább 3 fő befogadóképességű vitorlás kishajó | – a vitorlás kishajó műveletezéséhez (elindulás, mentési művelet, különböző típusú fordulások, kikötés) elegendő felületű és vízmélységű vízterület, amelyen – rendelkezésre áll a három legfontosabb kikötési lehetőség (rézsűs és függőleges partfal, cölöp); – vegetációtól vagy építményektől le nem árnyékolt, és a hajóutat, illetve nagyhajók által rendszeresen használ vízterületet nem érinti; – kikötőtől (kivéve kedvtelési célú) és kijelölt veszteglőhelytől legalább 300 m távolságot kell tartani; – a biztosított szabad vízfelület legalább 300 m hosszú és legalább 60 m széles; folyóvízen a szélesség legalább 80 m; |
+| – Vitorlás kishajóvezető vizsga | a 2. zónára alkalmas, legalább 15 m2 vitorlafelületű és legalább 3 fő befogadóképességű vitorlás kishajó | – a vitorlás kishajó műveletezéséhez (elindulás, mentési művelet, különböző típusú fordulások, kikötés) elegendő felületű és vízmélységű vízterület, amely – vegetációtól vagy építményektől le nem árnyékolt; – a biztosított szabad vízfelület legalább 300 m hosszú és legalább 60 m széles; folyóvízen a szélesség legalább 80 m; |
 
-| b) Hivatásos és szolgálati képesítések |
+| b) Hivatásos és szolgálati képesítések |
 
-| – Fedélzeti tiszti vizsga | legalább 100 m hosszú tolt, illetve 60 m hosszú vontatott kötelék, amely legalább két vontatott, illetve tolt hajót tartalmazzon, amelyből legalább egy hajó legalább 50%-ig terhelt legyen | nyílt folyami vagy tavi vízterület, amely a szokásos forgalmi helyzetet tükrözi |
+| – Fedélzeti tiszti vizsga | nagyhajó kategóriába tartozó géphajó és legalább még egy nagyhajóból álló kötelék | nyílt folyami vagy tavi vízterület, amely a szokásos forgalmi helyzetet tükrözi |
 
-| – Vitorlás hajóvezető vizsga | nagyhajó kategóriába tartozó vitorlás hajó | – nyílt folyami vagy tavi vízterület, amely a szokásos forgalmi helyzetet tükrözi; – rendelkezésre áll a három legfontosabb kikötési lehetőség (rézsűs és függőleges partfal, cölöp); |
+| – Vitorlás hajóvezető vizsga | nagyhajó kategóriába tartozó vitorlás hajó | – nyílt folyami vagy tavi vízterület, amely a szokásos forgalmi helyzetet tükrözi; – rendelkezésre áll a három legfontosabb kikötési lehetőség (rézsűs és függőleges partfal, cölöp); |
 
-| – „A” és „B” kategóriájú hajóvezető vizsga | legalább 100 m hosszú tolt, illetve 60 m hosszú vontatott karaván, amely legalább két vontatott, illetve tolt hajót tartalmazzon, amelyből legalább egy hajó legalább 50%-ig terhelt legyen | nyílt folyami vagy tavi vízterület, amely a szokásos forgalmi helyzetet tükrözi |
+| – „A” és „B” kategóriájú hajóvezető vizsga | nagyhajó kategóriába tartozó géphajó és legalább még egy nagyhajóból álló kötelék | nyílt folyami vagy tavi vízterület, amely a szokásos forgalmi helyzetet tükrözi |
 
-| – „C” kategóriájú hajóvezető vizsga | nagyhajó kategóriába tartozó géphajó és legalább még egy nagyhajóból álló kötelék | nyílt folyami vagy tavi vízterület, amely a szokásos forgalmi helyzetet tükrözi |
+| – „C” kategóriájú hajóvezető vizsga | nagyhajó kategóriába tartozó géphajó és legalább még egy nagyhajóból álló kötelék | nyílt folyami vagy tavi vízterület, amely a szokásos forgalmi helyzetet tükrözi |
 
-| – Kisgéphajó-vezető vizsga | legalább 10 m hosszúságú, vagy 50 kW-ot meghaladó teljesítményű és legalább 3 fő befogadóképességű kisgéphajó | a kisgéphajó műveletezéséhez (elindulás, mentési művelet, fordulás, vontatmány kötélbe vétele, kikötés) elegendő felületű és vízmélységű vízterület, amely legalább 300 m hosszú és legalább 30 m széles |
+| – Kisgéphajó- vezető „A” vizsga | legalább 12 főt meghaladó utas befogadóképességű kisgéphajó | a kisgéphajó műveletezéséhez (elindulás, mentési művelet, fordulás, vontatmány kötélbe vétele, kikötés) elegendő felületű és vízmélységű vízterület, amely legalább 300 m hosszú és legalább 30 m széles |
 
-| – Vitorlás kishajóvezető vizsga | legalább 15 m2 vitorlafelületű és legalább 3 fő befogadóképességű, a 2. zónára alkalmas vitorlás kishajó | – a vitorlás kishajó műveletezéséhez (elindulás, mentési művelet, különböző típusú fordulások, kikötés) elegendő felületű és vízmélységű vízterület, amelyen – rendelkezésre áll a három legfontosabb kikötési lehetőség (rézsűs és függőleges partfal, cölöp); – vegetációtól vagy építményektől le nem árnyékolt, és a hajóutat, illetve nagyhajók által rendszeresen használt vízterületet nem érinti; – kikötőtől (kivéve kedvtelési célú) és kijelölt veszteglőhelytől legalább 300 m távolságot kell tartani; – a biztosított szabad vízfelület legalább 300 m hosszú és legalább 60 m széles; folyóvízen a szélesség legalább 80 m; |
+| – Vitorlás kishajó- vezető „A” vizsga | legalább 12 főt meghaladó utas befogadóképességű vitorlás kishajó | – a vitorlás kishajó műveletezéséhez (elindulás, mentési művelet, különböző típusú fordulások, kikötés) elegendő felületű és vízmélységű vízterület, amely – vegetációtól vagy építményektől le nem árnyékolt; – a biztosított szabad vízfelület legalább 300 m hosszú és legalább 60 m széles; folyóvízen a szélesség legalább 80 m; |
 
-| – Révész vizsga | köteles komp (csak révcsónak vezetésére szóló vizsga esetén révcsónak) | valamely köteles komp/révcsónak engedélyezett átkelőhelye |
+| – Kisgéphajó- vezető vizsga | legalább 10 m hosszúságú, vagy 50 kW-ot meghaladó teljesítményű és legalább 3 fő befogadóképességű kisgéphajó | a kisgéphajó műveletezéséhez (elindulás, mentési művelet, fordulás, vontatmány kötélbe vétele, kikötés) elegendő felületű és vízmélységű vízterület, amely legalább 300 m hosszú és legalább 30 m széles |
 
-| – Radarhajós vizsga | – radarhajózásra alkalmas nagyhajó, kishajó vagy komp a képesítés korlátozásának megfelelően (rendelkeznie kell a radarhajózáshoz előírt üzemképes berendezésekkel (URH rádió-készülékkel, fordulásjelzővel, hangjelző berendezés stb.), valamint a hajó vezetésére jogosult radarhajós képesítésű vezetővel; – a hajó kormányállását a vizsga tartamára le kell függönyözni; | – a gyakorlati vizsga elemeiként előírt olyan nyílt folyami vagy tavi vízterület, ahol szűkület és legalább 8 db kitűző jel található, valamint veszteglő úszólétesítmények, továbbá közlekedő hajók várhatók; – legalább egy medencés kikötő, ahová a be- és kihajózás szabad; |
+| – Vitorlás kishajóvezető vizsga | legalább 15 m2 vitorlafelületű és legalább 3 fő befogadóképességű, a 2. zónára alkalmas vitorlás kishajó | – a vitorlás kishajó műveletezéséhez (elindulás, mentési művelet, különböző típusú fordulások, kikötés) elegendő felületű és vízmélységű vízterület, amely – vegetációtól vagy építményektől le nem árnyékolt, – a biztosított szabad vízfelület legalább 300 m hosszú és legalább 60 m széles; folyóvízen a szélesség legalább 80 m; |
 
-[^237]: A 7. számú mellékletet a 3/2008. (VI. 3.) KHEM rendelet 10. § (6) bekezdése iktatta be.
-[^238]: A 7. számú melléklet 1.2. pontja a 42/2013. (VII. 19.) NFM rendelet 4. § c) pontja szerint módosított szöveg.
-[^239]: A 7. számú melléklet 1.3.1. pontjának e) alpontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
-[^240]: A 7. számú melléklet 1.3.2. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-a szerint módosított szöveg.
-[^241]: A 7. számú melléklet 1.5. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
-[^242]: A 7. számú melléklet 4.7. pontja a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontjával megállapított szöveg.
-[^243]: A 7. számú melléklet 4.8. pontja a 42/2013. (VII. 19.) NFM rendelet 3. § d) pontja szerint módosított szöveg.
-[^244]: A 7. számú melléklet Függeléke a 9/2009. (III. 6.) KHEM rendelet 8. §-a szerint módosított szöveg.
+| – Révész vizsga | köteles komp (csak révcsónak vezetésére szóló vizsga esetén révcsónak) | valamely köteles komp/révcsónak engedélyezett átkelőhelye |
+
+| – Radarhajós vizsga | – radarhajózásra alkalmas nagyhajó, kishajó vagy komp a képesítés korlátozásának megfelelően (rendelkeznie kell a radarhajózáshoz előírt üzemképes berendezésekkel (URH rádió-készülékkel, fordulásjelzővel, hangjelző berendezés stb.), valamint a hajó vezetésére jogosult radarhajós képesítésű vezetővel; – a hajó kormányállását a vizsga tartamára le kell függönyözni; | – a gyakorlati vizsga elemeiként előírt olyan nyílt folyami vagy tavi vízterület, ahol szűkület és legalább 8 db kitűző jel található, valamint veszteglő úszólétesítmények, továbbá közlekedő hajók várhatók; – legalább egy medencés kikötő, ahová a be- és kihajózás szabad. |
+
+[^268]: A 7. számú mellékletet a 3/2008. (VI. 3.) KHEM rendelet 10. § (6) bekezdése iktatta be.
+[^269]: A 7. számú melléklet 1.2. pontja a 42/2013. (VII. 19.) NFM rendelet 4. § c) pontja szerint módosított szöveg.
+[^270]: A 7. számú melléklet 1.3.1. pontjának e) alpontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
+[^271]: A 7. számú melléklet 1.3.2. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-a szerint módosított szöveg.
+[^272]: A 7. számú melléklet 1.5. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
+[^273]: A 7. számú melléklet 3. pontja a 29/2014. (V. 5.) NFM rendelet 19. § i) pontja szerint módosított szöveg.
+[^274]: A 7. számú melléklet 4. pont 4.7. alpontja a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontjával megállapított, a 29/2014. (V. 5.) NFM rendelet 19. § j) pontja szerint módosított szöveg.
+[^275]: A 7. számú melléklet 4.8. pontja a 42/2013. (VII. 19.) NFM rendelet 3. § d) pontja szerint módosított szöveg.
+[^276]: A 7. számú melléklet függeléke a 29/2014. (V. 5.) NFM rendelet 18. § (6) bekezdésével megállapított szöveg.
