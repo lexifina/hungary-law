@@ -14,7 +14,7 @@ ba) a kishajó árufuvarozást vagy közforgalmú személyszállítást végez,
 
 bb) szolgálati célú kishajó épül,
 
-bc)[^11] a hajó a 2. melléklet 1.02 cikk 2. bekezdés a) pontja hatálya alá tartozik.
+bc)[^11] a nagyhajók vagy úszómunkagépek vontatására, tolására vagy mellévett alakzatban való továbbítására szolgáló hajókra terjed ki
 
 (4) A jóváhagyásra benyújtott tervnek – ha jogszabály eltérően nem rendelkezik – tartalmaznia kell:
 
@@ -64,7 +64,7 @@ v) személyhajóknál az utaselhelyezési rajzot.
 
 (5) Azoknál a gépeknél, berendezéseknél és felszereléseknél, amelyek megfelelőséget vizsgáló és tanúsító szervezet megfelelőséget tanúsító bizonylatával rendelkeznek, elegendő az általános elrendezési rajz benyújtása.
 
-(6)[^12]
+(6)[^12] A főösszefüggési- és rendszertervek áttekintésének elősegítése céljából az összetett szerkezetű tervrajzokat a megismerést elősegítő részlettervekkel kell alátámasztani. A részlettervek elektronikus adathordozón is benyújthatóak.
 
 (7) Átépítés esetében a hajótestnek, a felépítménynek, illetőleg a gépi vagy egyéb berendezéseknek azokról a részeiről kell a (4) bekezdés szerinti rajzokat és számításokat benyújtani, amelyeket átépítenek. Amennyiben az átépítés a stabilitásra vagy a hajótest szilárdságára kihat, az erre vonatkozó számításokat is be kell nyújtani.
 
@@ -92,6 +92,6 @@ f) az építtető és a műszaki vezető aláírása az építés, illetve áté
 [^8]: A 4. § a 16/2006. (IV. 6.) GKM rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^9]: A 4. § (1) bekezdése az 1/2010. (I. 8.) KHEM rendelet 2. § (1) bekezdésével megállapított, a 28/2010. (XII. 22.) NFM rendelet 2. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^10]: A 4. § (2) bekezdése a 34/2010. (IV. 22.) KHEM rendelet 2. §-ával megállapított szöveg. A 13/A. § alapján a rendelkezést a 2010. június 1-jét követően indult és a megismételt eljárásokban kell alkalmazni.
-[^11]: A 4. § (3) bekezdése b) pontjának bc) alpontja a 9/2008. (III. 21.) GKM rendelet 3. §-ával megállapított szöveg.
-[^12]: A 4. § (6) bekezdését az 1/2010. (I. 8.) KHEM rendelet 15. § (2) bekezdése hatályon kívül helyezte.
+[^11]: A 4. § (3) bekezdés b) pont bc) alpontja a 29/2014. (V. 5.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^12]: A 4. § (6) bekezdését az 1/2010. (I. 8.) KHEM rendelet 15. § (2) bekezdése hatályon kívül helyezte, újonnan a 29/2014. (V. 5.) NFM rendelet 5. § (2) bekezdése iktatta be.
 [^13]: A 4. § (11) bekezdése az 1/2010. (I. 8.) KHEM rendelet 2. § (2) bekezdésével megállapított szöveg.

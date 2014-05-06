@@ -1,32 +1,24 @@
-6. § (1) Az úszólétesítmény üzemeltetése során a hajózási hatóság az üzemképességet
+6. § (1)[^17] Az úszólétesítmény üzemeltetése során a hajózási hatóság az üzemképességet
 
-a) kompnál kétévenként,
+a) kompnál és díj ellenében történő személyszállításra szolgáló – de személyhajónak nem minősülő – belvízi kishajónál háromévenként,
 
-b) díj ellenében történő személyszállításra szolgáló – de személyhajónak nem minősülő – belvízi kishajónál háromévenként,
+b) személyhajónál, veszélyes árut szállító hajónál, valamint kereskedelmi szolgáltató úszóműnél ötévenként,
 
-c) személyhajónál, valamint a kereskedelmi szolgáltató úszóműnél ötévenként,
+c) minden egyéb úszólétesítménynél tízévenként
 
-d) minden egyéb úszólétesítménynél tízévenként
+vizsgálja meg (időszakos vizsgálat).
 
-## vizsgálja meg (időszakos vizsgálat).
+(2)[^18] Az időszakos vizsgálatot az úszólétesítmény vízből kiemelt, vagy partra húzott állapotában tízévenként kell elvégezni. A kiemelésről, valamint a partra húzásról az úszólétesítmény üzemben tartója köteles gondoskodni.
 
-(2) Az időszakos vizsgálatot az úszólétesítmény vízből kiemelt, illetőleg partra húzott állapotában
+(3)[^19] A hajózási hatóság az úszólétesítmény üzemképességét az (1) és a (2) bekezdéstől eltérően – az úszólétesítmény műszaki állapotától, korától és üzemeltetési körülményeitől függően, az úszólétesítmény bizonyítványába tett bejegyzésnek megfelelően – gyakrabban is ellenőrizheti.
 
-a) kompnál és közforgalmú személyszállításra szolgáló belvízi kishajónál hatévenként,
+(4)[^20] A hajózási hatóság kizárólag Magyarország belvizein üzemelő, az (1) bekezdés c) pontja szerinti úszólétesítmények parti szemléje közötti időszakot – az úszólétesítmények építési anyagától, szerkezeti kialakításától és az üzemeltetés körülményeitől függően, az úszólétesítmény bizonyítványába tett bejegyzésének megfelelően – legfeljebb 20%-kal növelheti meg.
 
-b) egyéb úszólétesítménynél tízévenként
+(5)[^21] Kizárólag Magyarország víziútjain vagy víziútnak nem minősülő vízterületein üzemelő úszólétesítmények esetében a parti szemlét a parti ellenőrzéssel egyenértékű, tervjóváhagyásban elfogadott vizsgálati módszer helyettesítheti.
 
-## kell elvégezni. A kiemelésről, illetőleg a partra húzásról az úszólétesítmény üzembentartója köteles gondoskodni.
+(6)[^22] Az időszakos vizsgálat során az üzembentartó köteles a hajózási hatóságnak az úszólétesítmény összes okmányát bemutatni.
 
-(3)[^17] A hajózási hatóság – az úszólétesítmény műszaki állapotától, korától és üzemeltetési körülményeitől függően az időszakos vizsgálatra az (1), illetőleg (2) bekezdésben meghatározottnál – az úszólétesítmény bizonyítványába tett bejegyzésnek megfelelően – gyakoribb ellenőrzést is végezhet.
-
-(4)[^18] A kizárólag Magyarország belvizein üzemelő, a (2) bekezdés b) pontja szerinti úszólétesítményekre – azok építési anyagától, szerkezeti kialakításától és az üzemeltetés körülményeitől függően – a hajózási hatóság a (2) bekezdés b) pontjában meghatározottnál – az úszólétesítmény bizonyítványába tett bejegyzésnek megfelelően – ritkábban is végezhet parti ellenőrzést, amely a (2) bekezdés b) pontjában meghatározott gyakoriságú egymást követő ellenőrzések közötti időszakot legfeljebb 20%-kal növelheti meg.
-
-(5)[^19]
-
-(6)[^20] Az időszakos vizsgálat során az üzembentartó köteles a hajózási hatóságnak az úszólétesítmény összes okmányát bemutatni.
-
-(7)[^21] Az időszakos vizsgálat kiterjed:
+(7)[^23] Az időszakos vizsgálat kiterjed:
 
 a) az úszólétesítmény testszerkezetére,
 
@@ -46,11 +38,13 @@ h) a hajózási jelző eszközökre és navigációs berendezésekre (jelzőlám
 
 i) arra, hogy az úszólétesítmény megfelel-e a munka-, a tűz-, az egészségvédelmi, a környezetvédelmi, valamint egyéb előírásoknak.
 
-(8)[^22] A hajózási hatóság az időszakos vizsgálat alkalmával – az üzembe helyezés előtti vizsgálat során meghatározott legkisebb létszám figyelembevételével – ellenőrzi az úszólétesítmény személyzetének létszámát.
+(8)[^24] A hajózási hatóság az időszakos vizsgálat alkalmával – az üzembe helyezés előtti vizsgálat során meghatározott legkisebb létszám figyelembevételével – ellenőrzi az úszólétesítmény személyzetének létszámát.
 
-[^17]: A 6. § (3) bekezdése az 1/2010. (I. 8.) KHEM rendelet 4. §-ával megállapított szöveg.
-[^18]: A 6. § új (4) bekezdését a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése iktatta be, egyidejűleg az eredeti (4)–(6) bekezdés számozását (6)–(8) bekezdésre változtatta. A 6. § (4) bekezdése az 1/2010. (I. 8.) KHEM rendelet 4. §-ával megállapított, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja szerint módosított szöveg.
-[^19]: A 6. § új (5) bekezdését a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése iktatta be, egyidejűleg az eredeti (4)–(6) bekezdés számozását (6)–(8) bekezdésre változtatta. A 6. § (5) bekezdését a 9/2008. (III. 21.) GKM rendelet 13. § (3) bekezdése hatályon kívül helyezte.
-[^20]: A 6. § eredeti (4) bekezdésének számozását (6) bekezdésre változtatta a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése.
-[^21]: A 6. § eredeti (5) bekezdésének számozását (7) bekezdésre változtatta a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése.
-[^22]: A 6. § eredeti (6) bekezdésének számozását (8) bekezdésre változtatta a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése.
+[^17]: A 6. § (1) bekezdése a 29/2014. (V. 5.) NFM rendelet 7. §-ával megállapított szöveg.
+[^18]: A 6. § (2) bekezdése a 29/2014. (V. 5.) NFM rendelet 7. §-ával megállapított szöveg.
+[^19]: A 6. § (3) bekezdése a 29/2014. (V. 5.) NFM rendelet 7. §-ával megállapított szöveg.
+[^20]: A 6. § (4) bekezdése a 29/2014. (V. 5.) NFM rendelet 7. §-ával megállapított szöveg.
+[^21]: A 6. § új (5) bekezdését a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése iktatta be, hatályon kívül helyezte a 9/2008. (III. 21.) GKM rendelet 13. § (3) bekezdése, újonnan a 29/2014. (V. 5.) NFM rendelet 7. §-a iktatta be.
+[^22]: A 6. § eredeti (4) bekezdésének számozását (6) bekezdésre változtatta a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése.
+[^23]: A 6. § eredeti (5) bekezdésének számozását (7) bekezdésre változtatta a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése.
+[^24]: A 6. § eredeti (6) bekezdésének számozását (8) bekezdésre változtatta a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése.

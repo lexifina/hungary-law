@@ -1,4 +1,4 @@
-1. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^42]
+1. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^47]
 
 A FÖLDRAJZILAG AZ 1., 2., 3. ÉS 4. HAJÓZÁSI ZÓNÁBA TARTOZÓ KÖZÖSSÉGI BELVÍZI UTAK JEGYZÉKE
 
@@ -582,75 +582,87 @@ II. FEJEZET
 
 3. zóna
 
-BELGA KIRÁLYSÁG
+Belga Királyság
 
-Maritime Scheldt (az antwerpeni nyílt horgonyzóhelytől lefelé)
+Maritime Scheldt (az antwerpeni nyílt horgonyzóhelytől lefele)
 
-BOLGÁR KÖZTÁRSASÁG
+Bolgár Köztársaság
 
-Duna: 845,650 fkm–374,100 fkm
+Duna: 845,650 fkm - 374,100 fkm
 
-CSEH KÖZTÁRSASÁG
+Cseh Köztársaság
 
-Labe: az Ústí nad Labem-Střekov zsiliptől a Lovosice zsilipig
+Labe: az Ústí nad Labem-Stfekov zsiliptől a Lovosice zsilipig
 
-Duzzasztógáttavak: Baška, Brněnská (Kníničky), Horka (Stráž pod Ralskem), Hracholusky, Jesenice, Nechranice, Olešná, Orlík, Pastviny, Plumov, Rozkoš, Seč, Skalka, Slapy, Těrlicko, Žermanice
+Duzzasztógáttavak: Baška, Brnénská (Kníničky), Horka (Stráž pod Ralskem), Hracholusky Jesenice, Nechranice, Olešná, Orlík, Pastviny Plumov, Rozkoš, Seč, Skalka, Slapy Térlicko, Žermanice
 
 Máchovo tó
 
-Velké Žernoseky vízterület
+Veiké Žernoseky vízterület
 
-Mesterséges tavak: Oleksovice, Svět, Velké Dářko
+Mesterséges tavak: Oleksovice, Svét, Veiké Dáfko
 
 Kavicsbányatavak: Dolní Benešov, Ostrožná Nová Ves a Tovačov
 
-NÉMETORSZÁGI SZÖVETSÉGI KÖZTÁRSASÁG
+Németországi Szövetségi Köztársaság
 
-Duna | Kelheimtől (2414,72 fkm) a német–osztrák határig |
+Duna Kelheimtől (km2 414,72)a német-osztrák határig
 
-Rajna | A német–svájci határtól a német–holland határig |
+Rajna A német-svájci határtól a német-holland határig
 
-Elba | Az Elba-Seiten csatorna torkolatától a hamburgi kikötő alsó határáig |
+Elba Az Elba-Seiten csatorna torkolatától a hamburgi kikötő alsó határáig
 
 Müritz
 
-FRANCIA KÖZTÁRSASÁG
+Francia Köztársaság
 
 Rajna
 
-MAGYARORSZÁG
+Horvát Köztársaság
 
-Duna: 1812 fkm – 1433 fkm
+Duna: 1 295 + 500 fkm-től 1 433 fkm-ig
 
-Mosoni-Duna: 14 fkm – 0 fkm
+Dráva: 0 fkm-től 198 + 600 fkm-ig
 
-Szentendrei-Duna: 32 fkm – 0 fkm
+Száva: 211 fkm-től 594 fkm-ig
 
-Ráckevei-Duna: 58 fkm – 0 fkm
+Kupa: 0 fkm-től 5 + 900 fkm-ig
 
-Tisza: 685 fkm – 160 fkm
+Una: 0 fkm-től 15 fkm-ig
 
-Dráva: 198 fkm – 70 fkm
+Magyarország
 
-Bodrog: 51 fkm – 0 fkm
+Duna: 1 812 fkm - 1 433 fkm
 
-Kettős-Körös: 23 fkm – 0 fkm
+Mosoni-Duna: 14 fkm - 0 fkm
 
-Hármas-Körös: 91 fkm – 0 fkm
+Szentendrei-Duna: 32 fkm - 0 fkm
 
-Sió-csatorna: 23 fkm – 0 fkm
+Ráckevei-Duna: 58 fkm - 0 fkm
+
+Tisza: 685 fkm - 160 fkm
+
+Dráva: 198 fkm - 70 fkm
+
+Bodrog: 51 fkm - 0 fkm
+
+Kettős-Körös: 23 fkm - 0 fkm
+
+Hármas-Körös: 91 fkm - 0 fkm
+
+Sió-csatorna: 23 fkm - 0 fkm
 
 Velencei-tó
 
-Fertő-tó
+Fertő tó
 
-HOLLAND KIRÁLYSÁG
+Holland Királyság
 
 Rajna
 
-Sneekermeer, Koevordermeer, Heegermeer, Fluessen, Slotermeer, Tjeukemeer, Beulakkerwijde, Belterwijde, Ramsdiep, Ketelmeer, Zwartemeer, Veluwemeer, Eemmeer, Alkmaardermeer, Gouwzee, Buiten Ij, afgesloten Ij, Noordzeekanaal, Ijmuiden kikötő, Rotterdam kikötői terület, Nieuwe Maas, Noord, Oude Maas, Beneden Merwede, Nieuwe Merwede, Dordische Kil, Boven Merwede, Waal, Bijlandsch Canal, Boven Rijn, Pannersdensch-csatorna, Geldersche Ijssel, Neder Rijn, Lek, Amsterdam-Rajna-csatorna, Veerse Meer, Schelde-Rajna-csatorna egészen a Volkeraknál levő torkolatig, Amer, Bergsche Maas, a Meuse Venlo alatt, Gooimeer, Europort, Calandkanaal (a Benelux kikötőtől keletre), Hartelkanaal
+Sneekermeer, Koevordermeer, Heegermeer, Fluessen, Slotermeer, Tjeukemeer, Beulakkerwijde, Belterwijde, Ramsdiep, Ketel-meer, Zwartemeer, Veluwemeer, Eemmeer, Alkmaardermeer, Gouwzee, Buiten Ij, afgesloten Ij, Noordzeekanaal, Ijmuiden kikötő, Rotterdam kikötői terület, Nieuwe Maas, Noord, Oude Maas, Beneden Merwede, Nieuwe Merwede, Dordische Kil, Boven Merwede, Waal, Bijlandsch Canal, Boven Rijn, Pannersdensch-csatorna, Geldersche Ijssel, Neder Rijn, Lek, Amsterdam-Rajna-csatorna, Veerse Meer, Schelde-Rajna-csatorna egészen a Volkeraknál levő torkolatig, Amer, Bergsche Maas, a Meuse Venlo alatt, Gooimeer, Europort, Calandkanaal (a Benelux kikötőtől keletre), Hartelkanaal
 
-OSZTRÁK KÖZTÁRSASÁG
+Osztrák Köztársaság
 
 Duna: a német határtól a szlovák határig
 
@@ -662,400 +674,208 @@ Enns: a torkolattól a 2,70 km-ig
 
 March: a 6,00 km-ig
 
-LENGYEL KÖZTÁRSASÁG
+Lengyel Köztársaság
 
-– A Biebrza folyó az Augustowski-csatorna torkolatától a Narwia folyó torkolatáig
+- A Biebrza folyó az Augustowski-csatorna torkolatától a Narwia folyó torkolatáig
 
-– A Brda folyó a bydgoszczi Bydgoski-csatorna összefolyásától a Visztula folyó torkolatig
+- A Brda folyó a bydgoszczi Bydgoski-csatorna összefolyásától a Wisła folyó torkolatig
 
-– A Bug folyó a Muchawiec folyó torkolatától a Narwia folyó torkolatáig
+- A Bug folyó a Muchawiec folyó torkolatától a Narwia folyó torkolatáig
 
-– A Dąbie tó a belső tengervizekkel való határig
+- A Dąbie tó a belső tengervizekkel való határig
 
-– Az Augustowski-csatorna a Biebrza folyóval való összefolyástól az államhatárig, a csatorna mentén elhelyezkedő tavakkal együtt
+- Az Augustowski-csatorna a Biebrza folyóval való összefolyásától az államhatárig, a csatorna mentén elhelyezkedő tavakkal együtt
 
-– A Bartnicki-csatorna a Ruda Woda tótól a Bartężek tóig, a Bartężek tóval együtt
+- A Bartnicki-csatorna a Ruda Woda tótól a Bartężek tóig, a Bartężek tóval együtt
 
-– A Bydgoski-csatorna
+- A Bydgoski-csatorna
 
-– Az Elbląski-csatorna a Druzno tótól a Jeziorak tóig és a Szeląg Wielki tó, ezekkel a tavakkal és a csatorna mentén levő tavakkal együtt, valamint egy mellékút Zalewo irányába a Jeziorak tótól az Ewingi tóig, mindkét tavat beleértve
+- Az Elbląski-csatorna a Druzno tótól a Jeziorak tóig és a Szeląg Wielki tó, ezekkel a tavakkal és a csatorna mentén levő tavakkal együtt, valamint egy mellékút Zalewo irányába a Jeziorak tótól az Ewingi tóig, mindkét tavat beleértve
 
-– A Gliwicki-csatorna a Kędzierzyński-csatornával
+- A Gliwicki-csatorna a Kędzierzyński-csatornával
 
-– A Jagielloński-csatorna az Elbląg folyóval való összefolyástól a Nogat folyóig
+- A Jagielloński-csatorna az Elbląg folyóval való összefolyástól a Nogat folyóig
 
-– A Łączański-csatorna
+- A Łączański-csatorna
 
-– A Ślesiński-csatorna a csatorna mentén elhelyezkedő tavakkal és a Gopło tóval
+- A Ślesiński-csatorna a csatorna mentén elhelyezkedő tavakkal és a Gopło tóval
 
-– A Żerański-csatorna
+- A Żerański-csatorna
 
-– A Martwa Visztula folyó a przegalinai Visztula folyótól a belső tengervizekkel való határig
+- A Martwa Wisła folyó a przegalinai Wisła folyótól a belső tengervizekkel való határig
 
-– A Narew folyó a Biebrza folyó torkolatától a Visztula folyó torkolatáig, a Zegrzyński tóval együtt
+- A Narew folyó a Biebrza folyó torkolatától a Wisła folyó torkolatáig, a Zegrzyński tóval együtt
 
-– A Nogat folyó a Visztula folyótól a Visztula-lagúnabeli torkolatig
+- A Nogat folyó a Wisła folyótól a Wisła-lagúnabeli torkolatig
 
-– A (felső) Noteć folyó a Gopło tótól a Górnonotecki-csatornával, a Górnonotecki-csatornával és az (alsó) Noteć folyóval való összefolyásig, a Bydgoski-csatornától a Warta folyó torkolatig
+- A (felső) Noteć folyó a Gopło tótól a Górnonotecki-csatornával, a Górnonotecki-csatornával és az (alsó) Noteć folyóval való összefolyásig, a Bydgoski-csatornától a Warta folyó torkolatig
 
-– A Nysa Łużycka folyó Gubintól az Odera folyó torkolatáig
+- A Nysa Łużycka folyó Gubintól az Odera folyó torkolatáig
 
-– Az Odera folyó Racibórz városától a keleti-Odera folyóval való összefolyásig, amely a Regalica folyóba fordul a klucz-ustowói áttöréstől, azzal a folyóval és mellékágaival együtt a Dąbie tóig, valamint az Odera folyó egy mellékútja az Opatowice zsiliptől Wrocław városában
+- Az Odera folyó Racibórz városától a keleti-Odera folyóval való összefolyásig, amely a Regalica folyóba fordul a klucz-ustowói áttöréstől, azzal a folyóval és mellékágaival együtt a Dąbie tóig, valamint az Odera folyó egy mellékútja az Opatowice zsiliptől Wrocław városában
 
-– A nyugati Odera folyó egy widuchowai duzzasztógáttól (az Odera folyó 704,1 km-je) a belső tengervizekkel való határig, mellékágakkal együtt, valamint a klucz-ustowói áttörés, ami a keleti Odera folyót köti össze a nyugati Odera folyóval
+- A nyugati Odera folyó egy widuchowai duzzasztógáttól (az Odera folyó 704,1 km-je) a belső tengervizekkel való határig, mellékágakkal együtt, valamint a klucz-ustowói áttörés, ami a keleti Odera folyót köti össze a nyugati Odera folyóval
 
-– A Parnica folyó és a Parnicki áttörés a nyugati Odera folyótól a belső tengervizekkel való határig
+- A Parnica folyó és a Parnicki áttörés a nyugati Odera folyótól a belső tengervizekkel való határig
 
-– A Pisa folyó a Roś tótól a Narew folyó torkolatáig
+- A Pisa folyó a Roś tótól a Narew folyó torkolatáig
 
-– A Szkarpawa folyó a Visztula folyótól a Visztula-lagúnabeli torkolatig
+- A Szkarpawa folyó a Wisła folyótól a Wisła-lagúnabeli torkolatig
 
-– A Warta folyó a Ślesiński-lagúnától az Odera folyó torkolatáig
+- A Warta folyó a Ślesiński-lagúnától az Odera folyó torkolatáig
 
-– A Wielkie Jeziora Mazurskie rendszere, amely körbeöleli a piszi Roś tótól (azt is beleértve) a węgorzewói Węgorzewski-csatornáig (azt is beleértve) vezető fő útvonalat alkotó folyókkal és csatornákkal összekötött tavakat, a következő tavakkal együtt: Seksty, Mikołajskie, Tałty, Tałtowisko, Kotek, Szymon, Szymoneckie, Jagodne, Boczne, Tajty, Kisajno, Dargin, Łabap, Kirsajty és Święcajty, a Giżycki-csatornával és a Niegociński-csatornával, valamint a Piękna Góra-csatornával együtt, továbbá a ryni Ryńskie tó egy mellékútja (beleértendő) Nidzkie tóig (3 km-ig, amely egy határt alkot a „Nidzkie rezervátummal”), a következő tavakkal együtt: Bełdany, Guzianka Mała és Guzianka Wielka
+- A Wielkie Jeziora Mazurskie rendszere, amely körbeöleli a piszi Roś tótól (azt is beleértve) a węgorzewói Węgor-zewski-csatornáig (azt is beleértve) vezető fő útvonalat alkotó folyókkal és csatornákkal összekötött tavakat, a következő tavakkal együtt: Seksty Mikołajskie, Tałty, Tałtowisko, Kotek, Szymon, Szymoneckie, Jagodne, Boczne, Tajty Kisajno, Dargin, Łabap, Kirsajty és Święcajty a Giżycki-csatornával és a Niegociński-csatornával, valamint a Piękna Góra-csatornával együtt, továbbá a ryni Ryńskie tó egy mellékútja (beleértendő) Nidzkie tóig (3 km-ig, amely egy határt alkot a „Nidzkie rezervátummal”), a következő tavakkal együtt: Bełdany Guzianka Mała és Guzianka Wielka
 
-– A Visztula folyó a Przemsza folyó torkolatától a Łączański-csatornával való összefolyásig, valamint e csatorna skawinai torkolatától a Visztula folyó Gdański-öbölbeli torkolatáig, nem tartozik bele a Włocławski víztározó
+- A Wisła folyó a Przemsza folyó torkolatától a Łączański-csatornával való összefolyásig, valamint e csatorna skawinai torkolatától a Wisła folyó Gdański-öbölbeli torkolatáig, nem tartozik bele a Włocławski víztározó
 
-ROMÁNIA
+Románia
 
-Duna: a szerb–román határtól (1075 km) a Sulinai-ágon át a Fekete-tengerig
+Duna: a szerb-román határtól (1 075 km) a Sulinai-ágon át a Fekete-tengerig
 
-Duna–Fekete-tenger-csatorna (64,410 km hosszú): a Duna 299,300 km-énél Cernavodă-nál található csatornatorkolattól (a csatorna 64,410 km-e) a Constanta Dél-Agigea-i kikötőig (a csatorna „0” km-e)
+Duna-Fekete-tenger-csatorna (64,410 km hosszú): a Duna 299,300 km-énél Cernavodă-nál található csatornatorkolattól (a csatorna 64,410 km-e) a Constanta Dél-Agigea-i kikötőig (a csatorna »0« km-e)
 
-Poarta Albă-Midia Năvodari csatorna (34,600 km hosszú): a Duna–Fekete-tenger-csatorna 29,410 km-énél Poarta Albă-nál található csatornatorkolattól (a csatorna 27,500 km-e) a midiai kikötőig (a csatorna „0” km-e)
+Poarta Albă-Midia Năvodari csatorna (34,600 km hosszú): a Duna-Fekete-tenger-csatorna 29,410 km-énél Poarta Albă-nál található csatornatorkolattól (a csatorna 27,500 km-e) a midiai kikötőig (a csatorna »0« km-e)
 
-SZLOVÁK KÖZTÁRSASÁG
+Szlovák Köztársaság
 
-Duna: Dévénytől (1880,26 fkm) a szlovák–magyar határig
+Duna: Devíntől (1 880,26 fkm) a szlovák-magyar határig
 
-EGYESÜLT KIRÁLYSÁG
+Egyesült Királyság
 
 SKÓCIA
 
-Leith (Edinburgh) | A kikötőgátakon belül |
+Leith (Edinburgh) A kikötőgátakon belül
 
-Glasgow | Strathclyde Loch |
+Glasgow Strathclyde Loch
 
-Crinan-csatorna | Crinan Ardrishaigig |
+Crinan-csatorna Crinan Ardrishaigig
 
-Kaledóniai-csatorna | A csatorna szakaszai |
+Kaledóniai-csatorna A csatorna szakaszai
 
 ÉSZAK-ÍRORSZÁG
 
-Lagan folyó | A Lagan Weir duzzasztógát Stranmillisig |
+Lagan folyó A Lagan Weir duzzasztógát Stranmillisig
 
 ANGLIA KELETI PARTJA
 
-Wear folyó (nem árapályos) | Régi vasúti híd, Durham a Prebends hídig, Durham |
+Wear folyó (nem árapályos) Régi vasúti híd, Durham a Prebends hídig, Durham
 
-Tees folyó | A Tees duzzasztógáttól felfelé a folyón |
+Tees folyó A Tees duzzasztógáttól felfelé a folyón
 
-Grimsby dokk | A zsilipeken belül |
+Grimsby dokk A zsilipeken belül
 
-Immingham dokk | A zsilipeken belül |
+Immingham dokk A zsilipeken belül
 
-Hull dokkok | A zsilipeken belül |
+Hull dokkok A zsilipeken belül
 
-Boston dokk | A zsilipkapukon belül |
+Boston dokk A zsilipkapukon belül
 
-Aire és Calder Navigation | A Goole dokkok Leedsig, összefolyás a leedsi és liverpooli csatornával; a Bank Dole összefolyása a Selbyvel (az Ouse folyó zsilipje); a Castleford összefolyása a Wakefielddel (Falling zsilip) |
+Aire és Calder Navigation A Goole dokkok Leedsig, összefolyás a leedsi és liverpooli csatornával; a Bank Dole összefolyása a Selbyvel (az Ouse folyó zsilipje); a Castleford összefolyása a Wake-fielddel (Falling zsilip)
 
-Ancholme folyó | A Ferriby zsilip Briggig |
+Ancholme folyó A Ferriby zsilip Briggig
 
-Calder és Hebble-csatorna | Wakefield (Falling zsilip) a Broadcut felső zsilipig |
+Calder és Hebble-csatorna Wakefield (Falling zsilip) a Broadcut felső zsilipig
 
-Foss folyó | Az Ouse folyóval való (kék híd) összefolyástól a Monk hídig |
+Foss folyó Az Ouse folyóval való (kék híd) összefolyástól a Monk hídig
 
-Fossdyke-csatorna | A Trent folyóval való összefolyás a Brayford tóba |
+Fossdyke-csatorna A Trent folyóval való összefolyás a Brayford tóba
 
-Goole dokk | A zsilipkapukon belül |
+Goole dokk A zsilipkapukon belül
 
-Hornsea Mere | Az egész csatorna |
+Hornsea Mere Az egész csatorna
 
-Hull folyó | A Struncheon Hill zsiliptől a Beverley patakig |
+Hull folyó A Struncheon Hill zsiliptől a Beverley patakig
 
-Market Weighton-csatorna | A Humber folyó zsilipjétől a Sod Houses zsilipig |
+Market Weighton-csatorna A Humber folyó zsilipjétől a Sod Houses zsilipig
 
-New Junction-csatorna | Az egész csatorna |
+New Junction-csatorna Az egész csatorna
 
-Ouse folyó | A Naburn zsiliptől Nun Monktonig |
+Ouse folyó ANaburn zsiliptől Nun Monktonig
 
-Sheffield és a Dél-Yorkshire-csatorna | A Keadby zsilip a Tinsley zsilipig |
+Sheffield és a Dél-Yorkshire-csatorna A Keadby zsilip a Tinsley zsilipig
 
-Trent folyó | A Cromwell zsilip Shardlow-ig |
+Trent folyó A Cromwell zsilip Shardlow-ig
 
-Witham folyó | A Boston zsilip a Brayford tóig (Lincoln) |
+Witham folyó A Boston zsilip a Brayford tóig (Lincoln)
 
 WALES ÉS ANGLIA NYUGATI RÉSZE
 
-Severn folyó | A Llanthony és Maisemore duzzasztógát felett |
+Severn folyó A Llanthony és Maisemore duzzasztógát felett
 
-Wye folyó | Monmouth felett |
+Wye folyó Monmouth felett
 
-Cardiff | Roath Park tó |
+Cardiff Roath Park tó
 
-Port Talbot | A körbezárt dokkokon belül |
+Port Talbot A körbezárt dokkokon belül
 
-Swansea | A körbezárt dokkokon belül |
+Swansea A körbezárt dokkokon belül
 
-Dee folyó | A Barrelwell Hill vízkiemelő pont felett |
+Dee folyó A Barrelwell Hill vízkiemelő pont felett
 
-Mersey folyó | A dokkok (a Seaforth dokk nem tartozik bele) |
+Mersey folyó A dokkok (a Seaforth dokk nem tartozik bele)
 
-Lune folyó | A Glasson dokk felett |
+Lune folyó A Glasson dokk felett
 
-Avon folyó (Midland) | A Tewkesbury zsilip Eveshamig |
+Avon folyó (Midland) A Tewkesbury zsilip Eveshamig
 
-Gloucester | A Gloucester városi dokkok Gloucester/Sharpness-csatorna |
+Gloucester A Gloucester városi dokkok Gloucester/Sharpness-csatorna
 
-Hollingworth tó | Az egész tó |
+Hollingworth tó Az egész tó
 
-Manchester hajócsatorna | Az egész csatorna és a Salford dokkok beleértve az Irwell folyót is Pickmere tó | Az egész tó |
+Manchester hajócsatorna Az egész csatorna és a Salford dokkok beleértve az Irwell folyót is
 
-Tawe folyó | A tengeri duzzasztógát/jachtkikötő és a Morfa atlétikai stadion között |
+Pickmere tó Az egész tó
 
-Rudyard tó | Az egész tó |
+Tawe folyó A tengeri duzzasztógát/jachtkikötő és a Morfa atlétikai stadion között
 
-Weaver folyó | Northwich alatt |
+Rudyardtó Az egész tó
+
+Weaver folyó Northwich alatt
 
 ANGLIA DÉLI RÉSZE
 
-Nene folyó | Wisbech Cut és a Nene folyó Dog-ig-páros zsilipben |
+Nene folyó Wisbech Cut és a Nene folyó Dog-ig-páros zsilipben
 
-Great Ouse folyó | Kings Lynn Cut és a Great Ouse folyó a nyugat-Lynn Road híd alatt |
+Great Ouse folyó Kings Lynn Cut és a Great Ouse folyó a nyugat-Lynn Road híd alatt
 
-Yarmouth | A Yare folyó torkolata az északi és déli bejárati kikötőgátak végpontjain keresztül húzott vonaltól beleértve Breydon Watert |
+Yarmouth A Yare folyó torkolata az északi és déli bejárati kikötőgátak végpontjain keresztül húzott vonaltól beleértve Breydon Watert
 
-Lowestoft | A Lowestoft kikötő a Mutford zsilip alatt a külső kikötő bejárati kikötőgátjain keresztül húzott vonalig |
+Lowestoft A Lowestoft kikötő a Mutford zsilip alatt a külső kikötő bejárati kikötőgátjain keresztül húzott vonalig
 
-Alde és Ore folyó | Az Ore folyó Westrow-foki bejárata felett |
+Alde és Ore folyó Az Ore folyó Westrow-foki bejárata felett
 
-Deben folyó | A Deben folyó Felixstowe komphoz való bejárata felett |
+Deben folyó A Deben folyó Felixstowe komphoz való bejárata felett
 
-Orwell folyó és Stour folyó | A Fagbury-foktól a Shotley-fokig húzott vonaltól az Orwell folyón az Ipswich dokkig, valamint az Erwarton Nessen keresztül húzott észak–dél irányú vonaltól a Stour folyón Manningtree-ig |
+Orwell folyó és Stour folyó A Fagbury-foktól a Shotley-fokig húzott vonaltól az Orwell folyón az Ipswich dokkig; valamint az Erwarton Nessen keresztülhúzott észak-dél irányú vonaltól a Stour folyón Manningtree-ig
 
-Chelmer és Blackwater-csatorna | A Beeleigh zsiliptől keletre |
+Chelmer és Blackwater-csatorna A Beeleigh zsiliptől keletre
 
-Temze és mellékfolyói | A Temze az oxfordi Teddington zsilip felett |
+Temze és mellékfolyói A Temze az oxfordi Teddington zsilip felett
 
-Adur folyó és Southwick-csatorna | Az Adur folyó a Tarmac Wharf nyugati vége felett és a Southwick csatornán belül |
+Adur folyó és Southwick-csatorna Az Adur folyó a Tarmac Wharf nyugati vége felett és a Southwick csatornán belül
 
-Arun folyó | Az Arun folyó a Littlehampton jachtkikötő felett |
+Arun folyó Az Arun folyó a Littlehampton jachtkikötő felett
 
-Ouse folyó (Sussex) Newhaven | Az Ouse folyó az északi rakpart északi vége felett |
+Ouse folyó (Sussex) Newhaven Az Ouse folyó az északi rakpart északi vége felett
 
-Bewl Water | Az egész tó |
+Bewl Water Az egész tó
 
-Grafham Water | Az egész tó |
+Grafham Water Az egész tó
 
-Rutland Water | Az egész tó |
+Rutland Water Az egész tó
 
-Thorpe Park tó | Az egész tó |
+Thorpe Parktó Az egész tó
 
-Chichester | A Cobnor-fokot és a Chalkdock-fokot összekötő vonaltól keletre |
+Chichester A Cobnor-fokot és a Chalkdock-fokot összekötő vonaltól keletre
 
-Christchurch | A Christchurch kikötőn belül, a Run nem tartozik bele |
+Christchurch A Christchurch kikötőn belül, a Run nem tartozik bele
 
-Exeter-csatorna | Az egész csatorna |
+Exeter-csatorna Azegész csatorna
 
-Avon folyó (Avon) | Bristol városi dokkok, a Netham gát a Pulteney duzzasztógátig |
+Avon folyó (Avon) Bristol városi dokkok A Netham gát a Pulteney duzzasztógátig
 
 III. FEJEZET
 
 4. zóna
 
-BELGA KIRÁLYSÁG
-
-Az egész belga hálózat, kivéve a 3. zónában levő vízi utakat
-
-CSEH KÖZTÁRSASÁG
-
-Minden, az 1., 2. és 3. zónában fel nem sorolt egyéb vízi út
-
-NÉMETORSZÁGI SZÖVETSÉGI KÖZTÁRSASÁG
-
-Valamennyi, az 1., 2. és 3. zónán kívüli belvízi út
-
-FRANCIA KÖZTÁRSASÁG
-
-Az összes francia belvízi út, az 1., 2. és a 3. zónában levőkön kívül
-
-OLASZ KÖZTÁRSASÁG
-
-A hajózható olasz víziutak
-
-LITVÁN KÖZTÁRSASÁG
-
-Az egész litván hálózat
-
-LUXEMBURGI NAGYHERCEGSÉG
-
-Moselle
-
-MAGYARORSZÁG
-
-Valamennyi, a 2. és 3. zónában fel nem sorolt egyéb vízi út
-
-HOLLAND KIRÁLYSÁG
-
-Valamennyi, az 1., 2. és 3. zónában fel nem sorolt egyéb folyó, csatorna és beltenger
-
-OSZTRÁK KÖZTÁRSASÁG
-
-Thaya: Bernhardsthalig
-
-March: a 6,00 km felett
-
-LENGYEL KÖZTÁRSASÁG
-
-Valamennyi, az 1., 2. és 3. zónában fel nem sorolt egyéb vízi út
-
-ROMÁNIA
-
-A 3. zónára vonatkozó szakaszban fel nem sorolt valamennyi egyéb víziút
-
-SZLOVÁK KÖZTÁRSASÁG
-
-Valamennyi, a 3. zónában fel nem sorolt egyéb vízi út
-
-EGYESÜLT KIRÁLYSÁG
-
-SKÓCIA
-
-Ratho és Linlithgow Union csatorna | Az egész csatorna |
-
-Glasgow | Forth és Clyde csatorna, Monkland-csatorna – Faskine és Drumpellier pontok, Hogganfield Loch |
-
-ANGLIA KELETI RÉSZE
-
-Ancholme folyó | Brigg a Harram Hill zsilipig |
-
-Calder és Hebble csatorna | A Broadcut Top zsilip a Sowerby hídig |
-
-Chesterfield csatorna | Nyugat-Stockwith Worksopig |
-
-Cromford csatorna | Az egész csatorna |
-
-Derwent folyó | Az Ouse folyóval való összefolyástól a Stamford hídig |
-
-Driffield Navigation | A Struncheon Hill zsiliptől Great Driffieldig |
-
-Erewash csatorna | A Trent zsilip a Langley Mill zsilipig |
-
-Huddersfield csatorna | A Calderrel és a Hebble-lel való összefolyás a Coopers hídnál a huddersfieldi Huddersfield Narrow csatornáig Ashton-Under-Lyne és Huddersfield között |
-
-Leeds és Liverpool csatorna | A Leeds folyó zsilipjétől Skipton Wharf-ig |
-
-Light Water Valley tó | Az egész tó |
-
-A Mere, Scarborough | Az egész tó |
-
-Ouse folyó | A Nun Monkton tó felett |
-
-Pocklington csatorna | A Derwent folyóval való összefolyástól a Melbourne medencéig |
-
-Sheffield és a dél-yorkshire-i csatorna | A Tinsley zsilip Sheffieldig |
-
-Soar folyó | A Trent összefolyása Loughborough-ig |
-
-Trent és Mersey csatorna | Shardlow a Dellow Lane zsilipig |
-
-Ure folyó és Ripon-csatorna | Az Ouse folyóval való összefolyástól a Ripon-csatornáig (Ripon medence) |
-
-Ashton csatorna | Az egész csatorna |
-
-WALES ÉS ANGLIA NYUGATI RÉSZE
-
-Avon folyó (Midland) | Evesham felett |
-
-Birmingham-csatorna | Az egész csatorna |
-
-Birmingham és Fazeley csatorna | Az egész csatorna |
-
-Coventry-csatorna | Az egész csatorna |
-
-Grand Union-csatorna (a Napton összefolyástól Birmingham és Fazeleyig | A csatorna egész pontpontja |
-
-Kennet és Avon-csatorna (Bath Newburyig) | A csatorna egész pontpontja |
-
-Lancaster-csatorna | Az egész csatorna |
-
-Leeds és Liverpool-csatorna | Az egész csatorna |
-
-Llangollen-csatorna | Az egész csatorna |
-
-Caldon-csatorna | Az egész csatorna |
-
-Peak Forest-csatorna | Az egész csatorna |
-
-Macclesfield-csatorna | Az egész csatorna |
-
-Monmouthshire és Brecon-csatorna | Az egész csatorna |
-
-Montgomery-csatorna | Az egész csatorna |
-
-Rochdale-csatorna | Az egész csatorna |
-
-Swansea-csatorna | Az egész csatorna |
-
-Neath és Tennant-csatorna | Az egész csatorna |
-
-Shropshire Union-csatorna | Az egész csatorna |
-
-Staffordshire és Worcester-csatorna | Az egész csatorna |
-
-Stratford-upon-Avon-csatorna | Az egész csatorna |
-
-Trent folyó | Az egész folyó |
-
-Trent és Mersey-csatorna | Az egész csatorna |
-
-Weaver folyó | Northwich felett |
-
-Worcester és Birmingham-csatorna | Az egész csatorna |
-
-ANGLIA DÉLI RÉSZE
-
-Nene folyó | Dog felett – kettős zsilipben |
-
-Great Ouse folyó | Kings Lynn a nyugat-lynni közúti híd felett. A Great Ouse folyó és minden kapcsolódó fenlandi vízi út, beleértve a Cam folyót és a közepes szintű utat |
-
-Norfolki és suffolki tavak | Minden hajózható árapály és nem árapály folyó, tó, csatorna és vízi út a norfolki és suffolki tavakon belül, beleértve az Oulton tót, a Waveney folyókat,
-
-Yare-t, Bure-t, Ant-et és Thurne-t, kivéve a Yarmouth és Lowestoft esetében meghatározottakat |
-
-Blyth folyó | A Blyth folyó bejárata Blythburgh-ig |
-
-Alde és Ore folyó | Az Alde folyó a Westrow-fok felett |
-
-Deben folyó | A Deben folyó a Felixstowe komp felett |
-
-Orwell folyó Stour folyó | Minden vízi út a Stour folyón Manningtree felett |
-
-Chelmer és Blackwater-csatorna | A Beeleigh zsiliptől nyugatra |
-
-Temze és mellékfolyói | A Stort és a Lee folyó a Bow patak felett. A Grand Union-csatorna a Brentford zsilip felett és a Regents-csatorna a Limehouse medence felett, továbbá valamennyi kapcsolódó csatorna. A Wey folyó a Temze zsilip felett. A Kennet és Avon-csatorna. A Temze Oxford felett. Az Oxford-csatorna |
-
-Medway folyó és a Swale | A Medway folyó az Allington zsilip felett |
-
-Stour folyó (Kent) | A Stour folyó a Flagstaff Reach-nél levő kikötőhely felett |
-
-Doveri kikötő | Az egész kikötő |
-
-Rother folyó | A Rother folyó és a Royal Military-csatorna a Scots Float zsilip felett és a Brede folyó a bejárati zsilip felett |
-
-Brighton | A Brighton belső jachtkikötő a zsilip felett |
-
-Wickstead Park tó | Az egész tó |
-
-Kennet és Avon-csatorna | Az egész csatorna |
-
-Grand Union-csatorna | Az egész csatorna |
-
-Avon folyó (Avon) | A Pulteney duzzasztógát felett |
-
-Bridgewater-csatorna | Az egész csatorna |
-
-[1] Azon hajók esetében, amelyek honi kikötője máshol van, az 1960. április 8-i Emst–Dollart-szerződés 32. cikkét kell figyelembe venni (BGBl. 1963 II, 602. o.).
-
-[^42]: Az eredeti melléklet számozását 1. mellékletre változtatta és szövegét megállapította a 9/2008. (III. 21.) GKM rendelet 12. §-a. Az 1. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (1) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 12. §-a, 91/2011. (XII. 30.) NFM rendelet 16. § b) pontja szerint módosított szöveg.
+[^47]: Az eredeti melléklet számozását 1. mellékletre változtatta és szövegét megállapította a 9/2008. (III. 21.) GKM rendelet 12. §-a. Az 1. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (1) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 12. §-a, 91/2011. (XII. 30.) NFM rendelet 16. § b) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (1) bekezdése szerint módosított szöveg.

@@ -1,4 +1,198 @@
-2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^43]
+## Belga Királyság
+
+## Az egész belga hálózat, kivéve a 3. zónában levő víziutakat
+
+## Cseh Köztársaság
+
+## Minden, az 1., 2. és 3. zónában fel nem sorolt egyéb víziút
+
+## Németországi Szövetségi Köztársaság
+
+## Valamennyi, az 1., 2. és 3. zónán kívüli belvízi víziút
+
+## Francia Köztársaság
+
+## Az összes francia belvízi víziút, az 1., 2. és a 3. zónában levőkön kívül
+
+## Horvát Köztársaság
+
+## Valamennyi, a 3. zónában fel nem sorolt egyéb víziút;
+
+## Olasz Köztársaság
+
+## Az összes hajózható nemzeti víziút.
+
+## Litván Köztársaság
+
+## Az egész litván hálózat
+
+## Luxemburgi Nagyhercegség
+
+## Moselle
+
+## Magyarország
+
+## Valamennyi, a 2. és 3. zónában fel nem sorolt egyéb víziút
+
+## Holland Királyság
+
+## Valamennyi, az 1., 2. és 3. zónában fel nem sorolt egyéb folyó, csatorna és beltenger
+
+## Osztrák Köztársaság
+
+## Thaya: Bernhardsthalig
+
+## March: a 6,00 km felett
+
+## Lengyel Köztársaság
+
+## Valamennyi, az 1., 2. és 3. zónában fel nem sorolt egyéb víziút
+
+## Románia
+
+## A 3. zónára vonatkozó szakaszban fel nem sorolt valamennyi egyéb víziút
+
+## Szlovák Köztársaság
+
+## Valamennyi, a 3. zónában fel nem sorolt egyéb víziút
+
+## Egyesült Királyság
+
+## SKÓCIA
+
+## Ratho és Linlithgow Union csatorna Az egész csatorna
+
+## Glasgow ForthésClyde csatorna Monkland-csatorna - Faskine és Drumpellier szakaszok Hogganfield Loch
+
+## ANGLIA KELETI RÉSZE
+
+## Ancholme folyó Brigg a Harram Hill zsilipig
+
+## Calder és Hebble csatorna A Broadcut Top zsilip a Sowerby hídig
+
+## Chesterfield csatorna Nyugat-Stockwith Worksopig
+
+## Cromford csatorna Az egész csatorna
+
+## Derwent folyó Az Ouse folyóval való összefolyástól a Stamford hídig
+
+## Driffield Navigation A Struncheon Hill zsiliptől Great Driffieldig
+
+## Erewash csatorna A Trent zsilip a Langley Mill zsilipig
+
+## Huddersfield csatorna A Calderrel és a Hebble-lel való összefolyás a Coopers hídnál a huddersfieldi Hudders-field Narrow csatornáig Ashton-Under-Lyne és Huddersfield között
+
+## Leeds és Liverpool csatorna A Leeds folyó zsilipjétől Skipton Wharf-ig
+
+## Light Water Valley tó Az egész tó
+
+## A Mere, Scarborough Az egész tó
+
+## Ouse folyó A Nun Monkton tó felett
+
+## Pocklington csatorna A Derwent folyóval való összefolyástól a Melbourne medencéig
+
+## Sheffield és a dél-yorkshire-i csatorna A Tinsley zsilip Sheffieldig
+
+## Soar folyó A Trent összefolyása Loughborough-ig
+
+## Trent és Mersey csatorna Shardlow a Dellow Lane zsilipig
+
+## Ure folyó és Ripon-csatorna Az Ouse folyóval való összefolyástól a Ripon-csatornáig (Ripon medence)
+
+## Ashton csatorna Az egész csatorna
+
+## WALES ÉS ANGLIA NYUGATI RÉSZE
+
+## Avon folyó (Midland) Evesham felett
+
+## Birmingham-csatorna Az egész csatorna
+
+## Birmingham és Fazeley csatorna Az egész csatorna
+
+## Coventry-csatorna Az egész csatorna
+
+## Grand Union-csatorna (a Napton összefolyástól Birmingham és Fazeleyig A csatorna egész szakasza
+
+## Kennet és Avon-csatorna (Bath Newburyig) A csatorna egész szakasza
+
+## Lancaster-csatorna Az egész csatorna
+
+## Leeds és Liverpool-csatorna Az egész csatorna
+
+## Llangollen-csatorna Az egész csatorna
+
+## Caldon-csatorna Az egész csatorna
+
+## Peak Forest-csatorna Az egész csatorna
+
+## Macclesfield-csatorna Az egész csatorna
+
+## Monmouthshire és Brecon-csatorna Az egész csatorna
+
+## Montgomery-csatorna Az egész csatorna
+
+## Rochdale-csatorna Az egész csatorna
+
+## Swansea-csatorna Az egész csatorna
+
+## Neath és Tennant-csatorna Az egész csatorna
+
+## Shropshire Union-csatorna Az egész csatorna
+
+## Staffordshire és Worcester-csatorna Az egész csatorna
+
+## Stratford-upon-Avon-csatorna Az egész csatorna
+
+## Trent folyó Az egész folyó
+
+## Trent és Mersey-csatorna Az egész csatorna
+
+## Weaver folyó Northwich felett
+
+## Worcester és Birmingham-csatorna Az egész csatorna
+
+## ANGLIA DÉLI RÉSZE
+
+## Nene folyó Dog felett-kettős zsilipben
+
+## Great Ouse folyó Kings Lynn a nyugat-lynni közúti híd felett. A Great Ouse folyó és minden kapcsolódó fenlandi vízi út, beleértve a Cam folyót és a közepes szintű utat
+
+## Norfolki és suffolki tavak Minden hajózható árapály és nem árapály folyó, tó, csatorna és vízi út a norfolki és suffolki tavakon belül, beleértve az Oulton tavat, a Waveney folyókat, Yare-t, Bure-t, Ant-et és Thurne-t, kivéve a Yarmouth és Lowestoft esetében meghatározottakat
+
+## Blyth folyó A Blyth folyó bejárata Blythburgh-ig
+
+## Alde és Ore folyó Az Alde folyó a Westrow-fok felett
+
+## Deben folyó A Deben folyó a Felixstowe komp felett
+
+## Orwell folyó Stour folyó Minden vízi út a Stour folyón Manningtree felett
+
+## Chelmer és Blackwater-csatorna A Beeleigh zsiliptől nyugatra
+
+## Temze és mellékfolyói A Stort és a Lee folyó a Bow patak felett. A Grand Union-csatorna a Brentford zsilip felett és a Regents-csatorna a Limehouse medence felett, továbbá valamennyi kapcsolódó csatorna. A Wey folyó a Temze zsilip felett. A Kennet és Avon-csatorna. A Temze Oxford felett. Az Oxford-csatorna
+
+## Medway folyó és a Swale A Medway folyó az Allington zsilip felett
+
+## Stour folyó (Kent) A Stour folyó a Flagstaff Reach-nél levő kikötőhely felett
+
+## Doveri kikötő Az egész kikötő
+
+## Rother folyó A Rother folyó és a Royal Military-csatorna a Scots Float zsilip felett és a Brede folyó a bejárati zsilip felett
+
+## Brighton A Brighton belső jachtkikötő a zsilip felett
+
+## Wickstead Parktó Az egész tó
+
+## Kennet és Avon-csatorna Az egész csatorna
+
+## Grand Union-csatorna Az egész csatorna
+
+## Avon folyó (Avon) A Pulteney duzzasztógát felett
+
+## Bridgewater-csatorna Az egész csatorna
+
+2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^48]
 
 Az 1., 2., 3. és 4. zónába sorolt belvízi utakon
 
@@ -60,13 +254,13 @@ Az úszólétesítmények típusai
 
 21. Kabinos hajó – hálóhelyes utaskabinokkal rendelkező személyhajó;
 
-22. Gyorsjáratú hajó – 40 km/h-t meghaladó holtvízi sebességgel közlekedni képes géphajó;
+22. Gyorsjáratú hajó – 40 km/h-t meghaladó holtvízi sebességgel közlekedni képes géphajó a kishajók kivételével;
 
-23. Úszómunkagép – munkagépekkel felszerelt úszólétesítmény, mint például daru, kotró berendezés, cölöpverő, elevátor;
+23. Úszómunkagép – munkagépekkel felszerelt, műveletezésre képes úszólétesítmény, mint például úszódaru, úszókotró berendezés, cölöpverő, elevátor;
 
 24. Munkaterületi úszólétesítmény – munkaterületeken történő felhasználásra épített és felszerelt úszólétesítmény, mint például fenékürítős, billenő vagy fedélzetes dereglye, úszómű vagy kőszóró hajó;
 
-25. Kedvtelési célú kishajó – olyan sport- és kedvtelési célra szolgáló kishajó, amely nem személyhajó;
+25. Kedvtelési célú hajó – olyan sport- és kedvtelési célra szolgáló kishajó, amely nem személyhajó;
 
 26. Szolgálati csónak – a hajó közlekedésre, felkutatásra, mentésre és munkavégzésre használt csónakja;
 
@@ -224,11 +418,11 @@ A szerkezeti elemek és anyagok jellemzői
 
 Egyéb fogalmak
 
-97. Elismert hajóosztályozó társaság – az Európai Bizottság által elismert hajóosztályozó társaság;
+97. Hajóosztályozó társaság – olyan hajóosztályozó társaság, amelyet a 7. mellékletben foglaltak szerint jóváhagytak;
 
-97a. Navigációs fények: a navigációs lámpák fénye, amely a úszólétesítmény azonosítására szolgál;
+97a. Navigációs fények – a jelzőlámpák által kibocsátott, hajók jelzésére szolgáló fények;
 
-97b. Jelzőfények: a vizuális vagy hangjelzések kíséretében megjelenő fények;
+97b. Fényjelzések – a vizuális vagy hangjelzéseket kiegészítő fények;
 
 98. Radarberendezés – a környezetet és a forgalmat érzékelő és megjelenítő elektronikus navigációs segédeszköz;
 
@@ -245,6 +439,10 @@ Egyéb fogalmak
 104. Mozgáskorlátozott személyek – a közforgalmú közlekedés használatában különleges problémákkal szembesülő személyek, úgymint az idősek és a mozgássérültek, valamint az érzékszervi hiányosságokkal rendelkezők, a tolószékben ülők, a terhes nők és a kisgyermekeket kísérők;
 
 105. Közösségi bizonyítvány – belvízi nagyhajóra az illetékes hatóság által kiadott bizonyítvány, amely igazolja a Szemleszabályzatban foglalt műszaki követelményeinek való megfelelést.
+
+106. szakértő – illetékes hatóság, valamint jogszabályban vagy hatóság által felhatalmazott szervezet képviseletében eljáró személy, aki a vonatkozó jogszabályokat és szabványokat ismeri és jogosult rendszereket, berendezéseket megvizsgálni és azokról szakvéleményt, szakértői jelentést készíteni;
+
+107. hozzáértő személy – olyan személy, aki szakképesítése és szakmai gyakorlata alapján ismeri a vonatkozó jogszabályokat és szabványokat, és fel tudja mérni a rendszerek és berendezések üzembiztonságát.
 
 1.02 cikk
 
@@ -324,11 +522,11 @@ Szemlebizottság
 
 1. A hajózási hatóság szemlebizottságo(ka)t működtet. A szemlebizottság a hajózási hatóság nevében jár el.
 
-2. A szemlebizottság a hajózási hatóság köztisztviselői közül kijelölt elnökből és két felkért tagból áll. A szemlebizottság felkért tagjai:
+2. A szemlebizottság elnöke egy a hajózási hatóság kormánytisztviselői közül kijelölt szakember, tagjai a hajózási hatóság által felkért
 
-(a) egy belvízi hajózásban jártas hajótest- és hajógépgyártási vagy üzemeltetői gyakorlattal rendelkező személy,
+(a) a belvízi hajók és gépészeti berendezéseik tervezésében jártas szakértő és
 
-(b) egy hajóvezető „A” vagy hajóskapitányi képesítéssel és gyakorlattal rendelkező személy.
+(b) az ellenőrizendő hajó vezetésére feljogosító képesítő okmánnyal rendelkező személy.
 
 3. A szemlebizottság elnökét és tagjait a hajózási hatóság jelöli ki. Az elnöknek és a tagoknak – a hajózási hatóság köztisztviselőit kivéve – feladataik átvételekor írásos nyilatkozatot kell tenniük arról, hogy azokat teljesen függetlenül fogják végrehajtani.
 
@@ -378,7 +576,7 @@ Ideiglenes közösségi hajóbizonyítvány
 
 (e) azoknak az úszólétesítményeknek, amelyeknek állapota baleset vagy káresemény következtében már nem egyezik meg a közösségi hajóbizonyítvány szerinti állapottal,
 
-(f) olyan úszóművek és úszóanyagok részére, amennyiben a Hajózási Szabályzat 1.21 cikk 1. pontja alkalmazásáért felelős hajózási hatóság a különleges szállítmány részére az engedély megadását ilyen bizonyítványtól teszi függővé,
+(f) azoknak az úszólétesítményeknek, amelyekre vonatkozóan a víziközlekedés rendjéről szóló 57/2011. (XI. 22.) NFM rendelet 1. mellékleteként kiadott Hajózási Szabályzat (a továbbiakban: Hajózási Szabályzat) I. Rész 1.21 cikk 1. pontja alapján a hajózási hatóság a különleges szállítási engedélyt az ideiglenes közösségi hajóbizonyítvány meglététől teszi függővé,
 
 (g) úszólétesítményeknek, amelyek részére a szemlebizottság a 2.19 cikk 2. pontja szerinti egyenértékűséget azokra az esetekre hagyja jóvá, amelyekre az NKH Központi Hivatala még nem adott ki ajánlást.
 
@@ -396,11 +594,9 @@ A közösségi hajóbizonyítvány időbeli hatálya
 
 1. Új úszólétesítményre kiállított bizonyítvány
 
-(a) kompnál két évig,
+(a) személyhajónál öt évig,
 
-(b) személyhajónál, valamint a kereskedelmi szolgáltató úszóműnél öt évig,
-
-(c) minden egyéb úszólétesítménynél tíz évig
+(b) minden egyéb úszólétesítménynél tíz évig
 
 hatályos.
 
@@ -554,9 +750,7 @@ Szilárdság és stabilitás
 
 (a) Új hajó építésekor, illetve minden olyan átépítésnél, amely a hajó szilárdságát befolyásolhatja, a hajótest megfelelő szilárdságát számítással kell igazolni. Elismert hajóosztályozó társaság osztályozási bizonyítványának vagy nyilatkozatának bemutatása esetén a számításokkal történő igazolás nem szükséges.
 
-(b) A 2.09 cikk szerinti hajóvizsgálat során mért lemezvastagság – a fenék-, medersori és oldallemezelés – legkisebb vastagsági értékeinek megfelelőségét az alábbi számítási eljárással kell ellenőrizni:
-
-Az acélból épített hajóknál a tmin legkisebb vastagság a következő összefüggésekkel meghatározott értékeknél nagyobb legyen:
+(b) Ha a 2.09 cikkben említett szemlét végeznek, az acélból készült hajók fenéklemezelésének, medersori lemezelésének („fenékvíz-elvezető rendszer lemezei”) és oldallemezelésének minimális vastagsága a következő képletek eredményeként létrejövő magasabb értékeknél nem lehet kevesebb:
 
 1. 40 m-nél hosszabb hajóknál: tmin = f·b·c (2,3 + 0,04 L) [mm];
 
@@ -570,7 +764,7 @@ a – bordaköz mm-ben;
 
 f – a bordaköz együtthatója, amely
 
-f = 1, ha a ≤ 500 mm,
+f = 1, ha a £ 500 mm,
 
 f = 1 + 0,0013 (a – 500), ha a > 500 mm
 
@@ -1008,7 +1202,7 @@ Fordulási szögsebesség szabályzó
 
 6.09 cikk
 
-Átvétel és időszakos szemlék
+Szemle
 
 1. A kormányberendezés megfelelő beépítését a szemlebizottság vizsgálja. Ehhez a szemlebizottság következő dokumentációt követelheti meg:
 
@@ -1144,11 +1338,7 @@ Ha a kormánypropeller vagy a cikloid propeller rendszert nem fogantyúkkal műk
 
 A jelzőfények, fényjelzések és hangjelek kezelése és ellenőrzése
 
-1. Az ebben a cikkben szereplő fogalmak:
-
-(a) jelzőfények: árbocfények, oldalfények, farfények, minden oldalról látható fények, nagyon gyakori sárga villanófények a gyorsjáratú hajókon és kék fények a veszélyes áruk szállításához,
-
-(b) fényjelzések: a hangjelzésekhez és a kék táblához tartozó fények.
+1. A jelzőfényeket, azok burkolatát és tartozékait a tengeri hajók felszereléseiről és ezek megfelelőség feltételeiről és tanúsításáról szóló rendeletben előírt jóváhagyási jelöléssel kell ellátni.
 
 2. A jelzőfények és fényjelzések ellenőrzését a kormányállásban megfelelő berendezés elhelyezésével biztosítani kell, amennyiben a közvetlen ellenőrzés a kormányállásból nem lehetséges.
 
@@ -1162,9 +1352,7 @@ A jelzőfények, fényjelzések és hangjelek kezelése és ellenőrzése
 
 Radarkészülék és fordulásjelző
 
-1. A radarkészülék és a fordulásjelző az illetékes hajózási hatóság által jóváhagyott típusú legyen. A 9. melléklet beépítésre és működési próbára vonatkozó előírásait be kell tartani. A navigációs üzemmódban működtethető belvízi elektronikus térképmegjelenítő és információs rendszer (ECDIS) készüléke radarberendezésnek tekintendő. Ezen túlmenően a belvízi ECDIS-készülékekre vonatkozó követelményeket is be kell tartani.
-
-A fordulásjelzőt a kormányos előtt, annak látómezőjében kell elhelyezni.
+1. A hajózási radarberendezéseknek és a fordulási szögsebességjelző készülékeknek meg kell felelniük a rendelet 9. mellékletében meghatározott követelményeknek. E követelmények teljesítését az illetékes hatóság által kiadott típusjóváhagyás állapítja meg. A navigációs üzemmódban működtethető belvízi elektronikus térkép-megjelenítő és információs rendszer (a továbbiakban: ECDIS) hajózási radarberendezésnek tekintendő.
 
 2. Egyszemélyes radarhajózásra kialakított kormányállásoknál:
 
@@ -1252,7 +1440,19 @@ GÉPI BERENDEZÉSEKRE VONATKOZÓ KÖVETELMÉNYEK
 
 1. Minden gépet, az azokhoz tartozó berendezéseket az idevonatkozó előírások és szabványok szerint kell megtervezni, kivitelezni és beépíteni.
 
-2. A felügyeletet igénylő berendezések – különösen a gőzkazánok és egyéb nyomástartó edények, valamint azok tartozékai és a felvonók – feleljenek meg az idevonatkozó hatósági és műszaki-biztonsági előírásoknak.
+2. A hajó üzemeltetését szolgáló nyomástartó edényeket szakértőnek kell megvizsgálnia annak igazolására, hogy azok üzemeltetése biztonságos:
+
+(a) az első használatbavétel előtt;
+
+(b) a módosítást vagy javítást követően, újbóli üzembe helyezés előtt; valamint
+
+(c) rendszeresen legalább ötévente.
+
+A vizsgálat belső és külső ellenőrzést foglal magában. Azokat a sűrített levegőt használó edényeket, amelyek belsejét nem lehet megfelelően megvizsgálni, vagy amelyek állapotát nem lehet egyértelműen megállapítani a belső ellenőrzés során, további roncsolásmentes vizsgálatnak vagy hidraulikus nyomáspróbának kell alávetni.
+
+Ellenőrzési igazolást kell kiadni, amely tartalmazza a szakértő aláírását és az ellenőrzés dátumát.
+
+A rendszeres felülvizsgálatot igénylő egyéb berendezéseknek, különösen a gőzkazánoknak, egyéb nyomástartó edényeknek és tartozékaiknak, valamint az emelőknek meg kell felelniük a rájuk vonatkozó követelményeknek.
 
 3. Csak olyan belső égésű motorokat szabad beépíteni, amelyek 55 °C feletti lobbanáspontú tüzelőanyaggal üzemelnek.
 
@@ -2236,19 +2436,29 @@ Amennyiben az 1–6. pont szerint számítottnál nehezebb horgonyok kerülnek a
 
 Egyéb felszerelés
 
-1. A Hajózási Szabályzatnak[^*] megfelelően a hajóknak legalább az alábbi felszerelésekkel kell rendelkezni:
+1. A fedélzeten legalább a következő felszereléseket és tartályokat kell tartani:
 
-(a) rádióberendezés,
+(a) rádiótelefon-berendezés;
 
-(b) az előírt fény- és hangjelek adásához, továbbá a hajók megjelöléséhez szükséges eszközök és berendezések,
+(b) a vizuális és hangjelzések kibocsátására és a hajó helyzetjelölésére szolgáló berendezések és készülékek;
 
-(c) a hajó saját villamosenergia-hálózatától független fényforrások a veszteglésre előírt jelzések részére,
+(c) különálló vészvilágítás az előírt veszteglési fények pótlására;
 
-(d) egy megjelölt tűzálló tartály, fedéllel az olajos tisztítórongyok tárolására,
+(d) háztartási hulladék tárolására szolgáló, megjelölt tartály;
 
-(e) egy-egy megjelölt tűzálló tartály az egyéb szilárd hulladékok gyűjtésére és egy megjelölt tűzálló tartály fedéllel az egyéb folyékony veszélyes hulladékok gyűjtésére,
+(e) acélból vagy egyéb ellenálló, nem gyúlékony anyagból készült, megfelelő méretű, de legalább 10 liter űrtartalmú, zárófedéllel ellátott, különálló, megjelölt tartályok
 
-(f) egy megjelölt tűzálló tartály fedéllel az olajtartalmú szilárd hulladékok részére.
+ea) olajos tisztítórongyok;
+
+eb) veszélyes vagy szennyező szilárd hulladékok;
+
+ec) veszélyes vagy szennyező folyékony hulladékok;
+
+ed) szennyvíz;
+
+ee) egyéb olajos vagy zsíros hulladék
+
+gyűjtésére.
 
 2. Ezen felül a hajókon legalább az alábbi felszerelési tárgyakat kell tartani:
 
@@ -2284,7 +2494,7 @@ A vontatásra alkalmas géphajókat és tolóhajókat fel kell szerelni legaláb
 
 (e) Egy csáklya.
 
-(f) Külön jogszabályban[^44] megállapított elsősegélynyújtó felszerelés. Az elsősegélynyújtó felszerelést a lakótérben vagy a kormányállásban kell tartani úgy, hogy szükség esetén könnyen és biztonságosan elérhető legyen. Ha az elsősegélynyújtó felszerelést lefedve tárolják, a fedelet a 10. melléklet 8. ábráján látható, legalább 10 cm oldalhosszúságú jellel meg kell jelölni.
+(f) Külön jogszabályban[^49] megállapított elsősegélynyújtó felszerelés. Az elsősegélynyújtó felszerelést a lakótérben vagy a kormányállásban kell tartani úgy, hogy szükség esetén könnyen és biztonságosan elérhető legyen. Ha az elsősegélynyújtó felszerelést lefedve tárolják, a fedelet a 10. melléklet 8. ábráján látható, legalább 10 cm oldalhosszúságú jellel meg kell jelölni.
 
 (g) Egy távcső, amely legalább 7x50 lencseátmérőjű.
 
@@ -2298,7 +2508,7 @@ A vontatásra alkalmas géphajókat és tolóhajókat fel kell szerelni legaláb
 
 Hordozható tűzoltókészülékek
 
-1. A következő helyeken legalább egy, az MSZ EN 3:1996 sz. szabványsorozatnak megfelelő hordozható tűzoltókészüléknek kell lennie:
+1. A következő helyeken legalább egy, az MSZ EN 3-7:2004-A1:2008 és az MSZ EN 3-8:2007 nemzeti szabványoknak megfelelő hordozható tűzoltó készüléknek kell lennie:
 
 (a) a kormányállásban,
 
@@ -2310,13 +2520,13 @@ Hordozható tűzoltókészülékek
 
 (e) a gép- és a kazántérben a fedélzet alatti megfelelő pontokon úgy, hogy két tűzoltókészülék között ne legyen 10 méternél nagyobb távolság.
 
-2. Az 1. pontban előírt hordozható tűzoltókészülékekhez csak legalább 6 kg töltőtömegű porral oltókat vagy ugyanilyen tűzoltó kapacitású hordozható tűzoltókészülékeket lehet használni. Ezeknek alkalmasnak kell lennie A, B és C osztályú tüzek, valamint legfeljebb 1000 V feszültségű villamos rendszerek tüzeinek oltására.
+2. Az 1. pontban előírt hordozható tűzoltó készülékekhez csak legalább 6 kg töltőtömegű poroltót, vagy ugyanilyen tűzoltó kapacitású hordozható tűzoltó készüléket lehet használni. Ezeknek alkalmasnak kell lennie A, B és C osztályú tüzek oltására. Ettől eltérően a cseppfolyósított gázzal üzemelő berendezésekkel nem rendelkező hajókon a mínusz (–) 20 °C hőmérsékletig fagyálló, vízbázisú filmképző habot használó, habbal oltó tűzoltó készülékek abban az esetben is elfogadhatók, ha nem alkalmasak C osztályú tüzek oltására. E tűzoltó készülékek űrtartalmának legalább 9 liternek kell lennie. Minden tűzoltó készüléknek alkalmasnak kell lennie 1000 V-ig terjedő elektromos rendszerek tüzeinek oltására.
 
 3. Használható továbbá porral, vízzel vagy habbal oltó készülék, amely legalább annak a tűznek az oltására alkalmas, amely a legvalószínűbben előfordulhat az elhelyezés helyén.
 
 4. A CO2-vel oltó hordozható tűzoltókészülékek a hajókonyhában és a villamos berendezéseknél keletkező tüzek oltására használhatók. Ezeknek a tűzoltókészülékeknek a töltőtömege nem lehet több mint 1 kg annak a helyiségnek minden 15 m3-ére számítva, ahol a készülékek hozzáférhetők.
 
-5. Minden hordozható tűzoltókészülék ellenőrzését legalább évenként az Országos Katasztrófavédelmi Főigazgatóság által regisztrált tűzoltókészülék-karbantartóval el kell végeztetni. A vizsgálatot végző személy által aláírt és a vizsgálat időpontját feltüntető bizonylatot a hajón kell tartani.
+5. A hordozható készülékek karbantartását legalább az Országos Tűzvédelmi Szabályzatról szóló BM rendeletben meghatározott módon és időközönként a tűzvédelmi hatósághoz bejelentett tűzoltókészülék-karbantartónak kell elvégeznie. A vizsgálatot végző személy által aláírt és a vizsgálat időpontját feltüntető bizonylatot a hajón kell tartani.
 
 6. Amennyiben a tűzoltókészülékek burkolat alatt vannak elhelyezve, a burkolatot egy legalább 10 cm magas F betűvel meg kell jelölni.
 
@@ -2634,7 +2844,27 @@ Esés és zuhanás elleni védelem
 
 3. A fedélzeti oldaljárón elhelyezett bakok fedeleit és a közlekedési utakban lévő akadályokat, mint például a lépcsők éleit, a környező fedélzettől elütő színűre kell festeni.
 
-4. A fedélzetek vízfelőli széleit, valamint az olyan munkaterületeket, ahol fennáll az 1 m-t meghaladó magasságból való leesés veszélye, legalább 0,70 m magas habvéddel, nyíláskerettel vagy a harmonizált európai szabványnak (EN 711) megfelelő korláttal kell ellátni, amely kapaszkodóból, térdmagasságban elhelyezett közbenső rúdból és láblécből áll. A fedélzeti oldaljáróknál láblécet és a raktérkereten végigfutó kapaszkodót kell felszerelni. Ha nem dönthető a fedélzeti oldaljárón lévő korlátszerkezet, akkor a raktérkeretre szerelt kapaszkodó elhagyható.
+4. A fedélzetek és oldalfedélzetek külső szélét legalább 0,90 m magas mellvédekkel vagy az EN 711:1995 európai szabványnak megfelelő folyamatos védőkorláttal kell felszerelni. Az olyan munkaállomásokat, ahol fennáll az 1 m-t meghaladó magasságból való leesés veszélye, legalább 0,90 m magas mellvédekkel vagy nyíláskeretekkel vagy az EN 711:1995 európai szabványnak megfelelő folyamatos védőkorláttal kell felszerelni. Ha az oldalfedélzetek védőkorlátai leengedhetők:
+
+(a) a nyíláskerethez 0,7–1,1 m magasságban további, 0,02–0,04 m átmérőjű, folyamatos fogódzót kell rögzíteni; valamint
+
+(b) ott, ahol az oldalfedélzet kezdődik, jól látható helyre az 1. függelék 10. ábrájának megfelelő, legalább 15 cm átmérőjű jelzéseket kell felhelyezni.
+
+Nyíláskeret hiányában rögzített védőkorlátot kell elhelyezni.
+
+4a. A 4. ponttól eltérően a lakótérrel nem rendelkező bárkákat és uszályokat nem kötelező mellvéddel vagy védőkorláttal ellátni, amennyiben:
+
+(a) a fedélzetek és az oldalfedélzetek külső széleit lábvédő korláttal látták el;
+
+(b) a nyíláskereteket a 4. pont (a) alpontjának megfelelően fogódzókkal látták el; valamint
+
+(c) a fedélzeten jól látható helyre az 1. függelék 10. ábrájának megfelelő, legalább 15 cm átmérőjű jelzéseket helyeztek el.
+
+4b. A 4. ponttól eltérően a süllyesztett vagy emelt rakományfedélzettel rendelkező hajók esetében nem kötelező védőkorláttal ellátni a fedélzetek külső széleit vagy az oldalfedélzeteket, amennyiben:
+
+(a) a folyosó a süllyesztett fedélzetek felett halad át és az EN 711:1995 szabványnak megfelelően rögzített védőkorlátok szegélyezik; valamint
+
+(b) a védőkorlát nélküli helyekre vezető utaknál jól látható helyre az 1. függelék 10. ábrájának megfelelő, legalább 15 cm átmérőjű jelzéseket helyeztek el.
 
 5. Az olyan munkaterületen, ahol több mint 1 méter magasról le lehet esni, a hajózási hatóság előírhatja a megfelelő felszerelés és berendezés használatát a biztonságos munkavégzés biztosítása érdekében.
 
@@ -2650,7 +2880,7 @@ Fedélzeti oldaljáró
 
 1. A fedélzeti oldaljáró legalább 0,60 m szabad szélességgel rendelkezzen. Ez a méret bizonyos, a hajó üzemeltetésével kapcsolatos szerelvényeknél, például a fedélzetmosó csővezeték szelepeinél 0,50 m-ig, a bakoknál és kötélbikáknál 0,40 m-ig csökkenthető.
 
-2. A fedélzeti oldaljáró felett mért 0,90 m magasságig 0,54 m-re csökkenthető az oldalsó fedélzet szabad szélessége, ha e fölött a fedélzet külső éle és raktér belső éle között legalább 0,65 m szabad távolság marad. A fedélzeti oldaljáró szabad szélessége ebben az esetben tovább csökkenthető 0,50 m-ig, ha a fedélzeti oldaljárók külső szélén felszerelik a harmonizált európai szabványnak (EN 711) megfelelő, leesés ellen védő korlátot. A lakótérrel rendelkező, 55 m-nél rövidebb hajókon a korlát csak a hajó farán hagyható el.
+2. Az oldalfedélzet felett mért 0,9 m magasságig az oldalfedélzet tiszta szélessége 0,50 m-re csökkenthető, ha a fenti tiszta szélesség a hajótest külső széle és a raktér belső széle között nem kisebb 0,65 m-nél.
 
 3. Az 1. és a 2. pont követelményei a fedélzet felett 2 m magasságig érvényesek.
 
@@ -2770,27 +3000,21 @@ Az átvételt a szemlebizottság által elismert szakértőnek kell elvégeznie.
 
 7. A darukat rendszeresen, de legalább 12 havonta szakértőnek ellenőriznie kell. A szemle során a daru biztonságos üzemi feltételeit szemrevételezéssel és üzemi próbával kell ellenőrizni.
 
-8. Legalább tízévente, az elfogadhatósági próbát követően, a darut ismét be kell vizsgáltatni a hajózási hatóság által elismert szakértővel.
+8.
 
 9. Azoknak a daruknak, amelyek biztonságos üzemi teherbírása meghaladja a 2000 kg-ot vagy amelyeket rakomány átrakására használnak vagy amelyeket orsos emelőbakon, pontonok vagy egyéb úszóművek fedélzetén, illetve munkaterületen levő vízijárművön használnak, a tagállamok egyike követelményeinek is meg kell felelniük.
 
-10. Minden darura vonatkozóan legalább az alábbi dokumentumokat kell a fedélzeten tartani:
+10. A daru gyártójának kezelési utasításait a fedélzeten kell tartani. E kezelési utasításoknak legalább a következő adatokat kell tartalmazniuk:
 
-(a) a daru gyártójának kezelési utasításait, amelyek legalább az alábbi információkat tartalmazzák:
+(a) működési tartomány és a vezérlés funkciói;
 
-− működési kör és a vezérlés funkciói,
+(b) a legnagyobb megengedhető biztonságos üzemi terhelés a kinyúlás függvényében;
 
-− legnagyobb megengedhető biztonságos üzemi terhelés a kiterjedés funkciójaként,
+(c) a daru legnagyobb megengedhető dőlése;
 
-− a daru legnagyobb megengedhető dőlése,
+(d) szerelési és karbantartási utasítások;
 
-− szerelési és karbantartási utasítások,
-
-− a rendszeres ellenőrzésekre vonatkozó utasítások,
-
-− általános műszaki adatok,
-
-(b) a 6–8. vagy a 9. pont szerint elvégzett felülvizsgálatokra vonatkozó bizonyítványok.
+(e) általános műszaki adatok.
 
 11.13 cikk
 
@@ -3218,15 +3442,23 @@ A hajó megfelelő helyén kezelési utasítást kell elhelyezni, amely legaláb
 
 14.13 cikk
 
-Átvétel
+Szemle
 
-A cseppfolyósított gázzal működő berendezés üzembe állítása előtt, minden változtatás vagy karbantartás után, továbbá a 14.15 cikk szerinti bizonyítvány minden egyes megújításánál a teljes berendezést a szemlebizottság által elismert szakértőnek kell átvennie. Az átvételnél a szakértőnek ellenőriznie kell, hogy a berendezés megfelel-e az ebben a fejezetben foglalt követelményeknek. Ezen felül személyhajók esetén a szakértő ellenőrzi a gázérzékelő jelzőberendezések előírás szerinti beépítését tanúsító érvényes szemlebizonylat meglétét.
+A cseppfolyósított gázzal üzemelő berendezések vizsgálata során szakértőnek kell ellenőriznie, hogy a berendezés megfelel-e e fejezet követelményeinek:
+
+(a) az első használatbavétel előtt;
+
+(b) jelentős módosítást vagy javítást követően az újbóli üzembe helyezés előtt;
+
+(c) a 14.15 cikk szerinti igazolás megújításakor minden alkalommal.
+
+A szakértőknek ellenőrzési igazolást kell kiadni, amely tartalmazza a szakértő aláírását és az ellenőrzés dátumát. Az ellenőrzési igazolás másolatát be kell nyújtani a felügyeleti szervhez.
 
 14.14 cikk
 
-Próbák
+Tesztelési feltételek
 
-A gázberendezést az alábbi feltételeknek megfelelően kell próbálni:
+A gázberendezést a következő feltételek szerint kell tesztelni:
 
 1. Közepes nyomású vezetékek esetén az első nyomáscsökkentő 14.09 cikk 4. pont szerinti elzáró szerelvény és az utolsó nyomáscsökkentő előtti elzáró szerelvény között lévő szakaszon:
 
@@ -3264,9 +3496,267 @@ Tanúsítás
 
 2. A megfelelőséget a 14.13 cikk szerinti átvétel eredménye alapján a szemlebizottság tanúsítja.
 
-3. A tanúsítás érvényességének időtartama legfeljebb három év. Megújítására a 14.13 cikk szerinti újabb átvétel esetén van mód.
+3. A tanúsítás érvényességének időtartama gyúlékony, mérgező gázok esetében 1 év, egyéb gázok esetében legfeljebb 3 év. Megújítására a 14.13 cikk szerint van mód. Kivételesen, a tulajdonosnak vagy meghatalmazottjának megalapozott kérelmére, a felügyeleti szerv a tanúsítás érvényességét a 14.13 cikk szerinti szemle nélkül legfeljebb 3 hónappal meghosszabbíthatja. Ezt a meghosszabbítást be kell jegyezni a közösségi hajóbizonyítványba.
 
-Kivételesen, a tulajdonosnak vagy meghatalmazottjának megalapozott kérelmére, a szemlebizottság a tanúsítás érvényességét a 14.13 cikk szerinti átvétel nélkül legfeljebb három hónappal meghosszabbíthatja. Ezt a meghosszabbítást be kell jegyezni a közösségi hajóbizonyítványba.
+14a. Fejezet
+
+SZEMÉLYHAJÓK FEDÉLZETI SZENNYVÍZKEZELŐ MŰVEI
+
+14a.01 cikk
+
+Fogalommeghatározások
+
+E fejezet alkalmazásában:
+
+1. adatközlő lap: a 6. függelék II. részében meghatározott, a típusjóváhagyás iránti kérelem benyújtásakor a kérelmezőtől megkövetelt adatokat tartalmazó dokumentum;
+
+2. adatközlő mappa: azon adatok, rajzok és fényképek vagy egyéb dokumentumok összessége, amelyeket a kérelmező az adatközlő lapnak megfelelően a típusjóváhagyás iránti kérelme mellékleteként benyújt;
+
+3. fedélzeti szennyvízkezelő mű: olyan egységes kialakítású szennyvízkezelő mű, amely alkalmas a hajókon keletkező mennyiségben lakossági szennyvíz kezelésére;
+
+4. fedélzeti szennyvízkezelő mű paraméterjegyzéke: a 6. függelék VIII. részének megfelelően kiállított okmány és annak módosításai, amely tartalmazza mindazokat a paramétereket, beleértve a fedélzeti szennyvízkezelő mű komponenseire és a rajta elvégzett átalakításokra vonatkozókat is, amelyek befolyásolják a szennyvízkezelés szintjét;
+
+5. gyártó: az a személy vagy szervezet, aki, illetve amely a hajózási hatósággal szemben felel a típusjóváhagyási eljárás valamennyi szempontjának teljesüléséért és a gyártás megfelelő voltának biztosításáért; ennek a személynek vagy szervezetnek nem kell szükségképpen részt vennie a fedélzeti szennyvízkezelő mű gyártásának valamennyi szakaszában; ha a fedélzeti szennyvízkezelő művet az eredeti gyártást követően módosítás vagy felújítás útján átalakítják annak érdekében, hogy e fejezet alkalmazásában egy hajón kerüljön felhasználásra, akkor a módosítást vagy felújítást végző személyt vagy szervezetet kell gyártónak tekinteni;
+
+6. gyártói útmutató a szennyvízkezelés szempontjából lényeges komponensek és paraméterek ellenőrzéséhez: a 14a.11 cikk 4. pontjával összhangban a rendkívüli szemléhez összeállított dokumentum;
+
+7. információs mappa: az adatközlő mappa és minden olyan vizsgálati jegyzőkönyv vagy más dokumentum együttese, amelyet a típusjóváhagyási eljárás során az engedélyező feladatellátása keretében az adatközlő mappához csatolt;
+
+8. lakossági szennyvíz: a hajókonyhán, az étkezőkben, a mosdó- és a mosóhelyiségekben keletkező, valamint a fekáliát tartalmazó szennyvíz;
+
+9. rendkívüli szemle: a hajózási hatóság 14a.11 cikknek megfelelően lefolytatott vizsgálata, arra vonatkozóan, hogy az adott hajón üzemeltetett fedélzeti szennyvízkezelő mű kielégíti-e e fejezet követelményeit;
+
+10. szennyvíziszap: a szennyvízkezelő mű hajófedélzeti üzeme során visszamaradó anyag;
+
+11. típusjóváhagyás: a hajózási hatóság tanúsítványa, amely igazolja, hogy a fedélzeti szennyvízkezelő mű kielégíti az e fejezetben foglalt műszaki követelményeket;
+
+12. típusjóváhagyási tanúsítvány: a 6. függelék III. részének megfelelően kiállított okmány, amelyben a hajózási hatóság a típusjóváhagyást tanúsítja.
+
+14a.02 cikk
+
+Általános rendelkezések
+
+1. Ezt a fejezetet a személyhajókon rendszerbe állított valamennyi fedélzeti szennyvízkezelő műre alkalmazni kell.
+
+2. (a) A fedélzeti szennyvízkezelő műnek a típusvizsgálat során teljesítenie kell az ezen alpont szerinti táblázatban található határértékeket.
+
+A típusvizsgálat során az üzemelő fedélzeti szennyvízkezelő mű kifolyási oldalán teljesítendő határértékek
+
+| Paraméter | Koncentráció | Minta |
+
+| Biokémiai oxigénigény (BOI5) ISO 5815-1 és 5815-2 (2003) (1) | 20 mg/l | 24 órás egyesített minta, homogenizált |
+
+| 25 mg/l | Szúrópróbaszerű mintavétel, homogenizált |
+
+| Kémiai oxigénigény (KOI) (2) ISO 6060 (1989) (1) | 100 mg/l | 24 órás egyesített minta, homogenizált |
+
+| 125 mg/l | Szúrópróbaszerű mintavétel, homogenizált |
+
+| Összes szerves széntartalom (TOC) EN 1484 (1997) (1) | 35 mg/l | 24 órás egyesített minta, homogenizált |
+
+| 45 mg/l | Szúrópróbaszerű mintavétel, homogenizált |
+
+(1) Más, ezzel egyenértékű eljárás is megállapítható.
+
+(2) Az ellenőrzés keretében a kémiai oxigénigény (KOI) helyett vizsgálható az összes szerves széntartalom (TOC).
+
+(b) Üzem közben teljesülniük kell az ezen alpont szerinti táblázatban meghatározott ellenőrzési értékeknek.
+
+A fedélzeti szennyvízkezelő mű által a kifolyási oldalon a személyhajón való üzem közben teljesítendő ellenőrzési értékek
+
+| Paraméter | Koncentráció | Minta |
+
+| Biokémiai oxigénigény (BOI5) ISO 5815-1 és 5815-2 (2003) (1) | 25 mg/l | Szúrópróbaszerű mintavétel, homogenizált |
+
+| Kémiai oxigénigény (KOI) (2) ISO 6060 (1989) (1) | 125 mg/l | Szúrópróbaszerű mintavétel, homogenizált |
+
+| 150 mg/l | Szúrópróbaszerű mintavétel |
+
+| Összes szerves széntartalom (TOC) EN 1484 (1997) (1) | 45 mg/l | Szúrópróbaszerű mintavétel, homogenizált |
+
+(1) Az ellenőrzés keretében a kémiai oxigénigény (KOI) helyett vizsgálható az összes szerves széntartalom (TOC).
+
+(c) A szúrópróbaszerű mintavétel során az egyedi minta nem mutathat az (a) és a (b) alpont táblázatában megadott értékeknél nagyobb értékeket.
+
+3. Tilos klórtartalmú termékeket igénybe vevő eljárásokat alkalmazni.
+
+Hasonlóképpen tilos a lakossági szennyvizet oly módon hígítani, hogy csökkenjen a fajlagos terhelés, és ezáltal a szennyvíz alkalmassá váljék az elvezetésre.
+
+4. Megfelelő intézkedéseket kell tenni a szennyvíziszap tárolásával, állagának megóvásával (ha szükséges), valamint a környezetbe való kibocsátásával összefüggésben. Ennek keretében szennyvíziszap-kezelési tervet kell készíteni.
+
+5. A 2. pont (a) alpontjának táblázatában előírt határértékek teljesüléséről típusvizsgálat keretében kell meggyőződni, és a megállapításokat típusjóváhagyásba kell foglalni. A típusjóváhagyásról típusjóváhagyási tanúsítványt kell kiállítani. A tulajdonos vagy meghatalmazottja köteles a típusjóváhagyási tanúsítvány egy példányát csatolni akkor, amikor a 2.02 cikk alkalmazásában kérelmezi szemle lefolytatását. A típusjóváhagyási tanúsítvány és a fedélzeti szennyvízkezelő mű paraméterjegyzéke egy-egy példányát mindenkor a fedélzeten kell tartani.
+
+6. A fedélzeti szennyvízkezelő mű fedélzeti rendszerbe állítását követően, még a rendeltetésszerű üzem megkezdése előtt a gyártó köteles üzemképességi vizsgálatot végrehajtani. A fedélzeti szennyvízkezelő művet a hajóbizonyítvány 52. pontjában a következő adatok megadásával kell feltüntetni:
+
+(a) név;
+
+(b) a típusjóváhagyás száma;
+
+(c) gyártási szám;
+
+(d) a gyártás éve.
+
+7. A fedélzeti szennyvízkezelő mű minden olyan jelentős módosítását követően, amely befolyásolja a szennyvízkezelést, el kell végezni a 14a.11 cikk 3. pontja szerinti rendkívüli szemlét.
+
+8. A hajózási hatóság az e fejezetben előírt feladatait vizsgáló és tanúsító szervezet bevonásával is elláthatja.
+
+9. A fedélzeti szennyvízkezelő művet a tökéletes üzemi állapot fenntartásának biztosítása érdekében a gyártó utasításainak megfelelően rendszeresen karban kell tartani. A karbantartás elvégzését igazoló karbantartási naplót mindenkor a fedélzeten kell tartani.
+
+14a.03 cikk
+
+A típusjóváhagyás kérelmezése
+
+1. A fedélzeti szennyvízkezelő művek egy meghatározott típusának típusjóváhagyását a gyártó kérelmezi a hajózási hatóságtól. A kérelemnek tartalmaznia kell a 14a.01 cikk 2. pontja szerinti adatközlő mappát, a 14a.01 cikk 4. pontja szerinti »fedélzeti szennyvízkezelő mű paraméterjegyzéke« elnevezésű okmány tervezetét, valamint a 14a.01 cikk 6. pontja szerinti, a fedélzeti szennyvízkezelő művek adott típusára vonatkozó »gyártói útmutató a szennyvízkezelés szempontjából lényeges komponensek és paraméterek ellenőrzéséhez« elnevezésű dokumentumot. A típusvizsgálat elvégzéséhez a gyártó köteles bemutatni a fedélzeti szennyvízkezelő mű prototípusát.
+
+2. Ha a hajózási hatóság megállapítja, hogy a fedélzeti szennyvízkezelő művek egy adott típusának típusjóváhagyására vonatkozó kérelem kapcsán bemutatott prototípus a fedélzeti szennyvízkezelő műveknek a 6. függelék II. része kiegészítésének megfelelően leírt adott típusának jellemzői szempontjából nem reprezentatív, akkor az 1. pontnak megfelelően másik, szükség esetén további, a hajózási hatóság által kijelölt prototípust kell jóváhagyásra átadni.
+
+3. A fedélzeti szennyvízkezelő művek egy adott típusának típusjóváhagyása csak egy EGT- tagállambeli illetékes hatóságnál kérelmezhető. A típusjóváhagyást a fedélzeti szennyvízkezelő művek minden egyes típusa esetében külön kell kérelmezni.
+
+14a.04 cikk
+
+A típusjóváhagyás eljárása
+
+1. A hajózási hatóság a fedélzeti szennyvízkezelő művek egy meghatározott típusára vonatkozóan akkor bocsát ki típusjóváhagyást, ha a típus megfelel az adatközlő mappában található leírásoknak, és teljesíti e fejezet követelményeit. A követelmények teljesülését a 7. függeléknek megfelelően kell megvizsgálni.
+
+2. A fedélzeti szennyvízkezelő művek minden olyan típusára vonatkozóan, amelyre típusjóváhagyást bocsát ki, a hajózási hatóság a 6. függelék III. részében található mintának megfelelően kitölti a típusjóváhagyási tanúsítvány valamennyi vonatkozó részét, és összeállítja az információs mappa tartalomjegyzékét vagy megvizsgálja annak tartalmát. A típusjóváhagyási tanúsítvány azonosító számát a 6. függelék IV. részében előírt módszerrel kell meghatározni. Az elkészült típusjóváhagyási tanúsítványt és függelékeit át kell adni a kérelmezőnek.
+
+3. Ha a jóváhagyandó fedélzeti szennyvízkezelő mű csak azon hajó más komponenseivel együtt képes betölteni rendeltetését, vagy rendelkezik meghatározott jellemzőkkel, amely rendszerbe fogják állítani, és ezért egy vagy több követelmény teljesülése csak akkor ellenőrizhető, ha a jóváhagyandó fedélzeti szennyvízkezelő mű a hajó más valóságos vagy modellezett komponenseivel együtt üzemel, akkor az adott fedélzeti szennyvízkezelő mű típusjóváhagyásának hatályát megfelelő módon korlátozni kell. Ilyenkor a használatra vonatkozó korlátozásokat és a rendszerbe állításra vonatkozó követelményeket teljes körűen és részletesen fel kell tüntetni az adott típus típusjóváhagyási tanúsítványán.
+
+4. A hajózási hatóság megküldi:
+
+(a) a tagállamok illetékes hatóságának – a 6. függelék V. részében meghatározott adatok megadásával, minden alkalommal, amikor ez a jegyzék változik – a fedélzeti szennyvízkezelő művek azon típusainak jegyzékét, amelyekre az adott időszakban típusjóváhagyást bocsátott ki, tagadott meg vagy vont vissza;
+
+(b) ha azt a tagállamok illetékes hatósága kéri:
+
+(ba) a fedélzeti szennyvízkezelő művek adott típusára vonatkozó típusjóváhagyási tanúsítvány másolatát az információs csomaggal együtt vagy anélkül, a fedélzeti szennyvízkezelő művek minden olyan típusára vonatkozóan, amelyre típusjóváhagyást bocsátott ki, tagadott meg vagy vont vissza;
+
+(bb) a kibocsátott típusjóváhagyásoknak megfelelően legyártott fedélzeti szennyvízkezelő művek jegyzékét a 14a.06 cikk 3. pontja szerint a 6. függelék VI. részében meghatározott adatok megadásával.
+
+5. A hajózási hatóság – évente egyszer, továbbá minden olyan alkalommal, amikor erre felkérést kap – megküldi a Bizottságnak a 6. függelék VII. része szerinti adatlap egy példányát a fedélzeti szennyvízkezelő művek azon típusairól, amelyekre a legutóbbi adatszolgáltatás óta típusjóváhagyást bocsátott ki.
+
+14a.05 cikk
+
+A típusjóváhagyás módosítása
+
+1. A típusjóváhagyást kibocsátó hajózási hatóságot az információs mappa adatainak változásáról tájékoztatni kell.
+
+2. A típusjóváhagyás módosítására vagy meghosszabbítására vonatkozó kérelem kizárólag ahhoz a hatósághoz nyújtható be, amely az eredeti típusjóváhagyást kibocsátotta.
+
+3. Ha a fedélzeti szennyvízkezelő műnek az információs mappában megadott jellemzői módosultak, a hajózási hatóság:
+
+(a) szükség szerint módosított formában ismételten kibocsátja az információs mappa érintett részeit, a módosított lapokon egyértelműen megjelölve a módosítás jellegét és az ismételt kibocsátás időpontját. A lapok módosított formában történő ismételt kibocsátásával egyidejűleg a típusjóváhagyási tanúsítványhoz csatolt információs mappa tartalomjegyzékét is megfelelő módon módosítani kell;
+
+(b) kiegészítő számmal azonosított módosított típusjóváhagyási tanúsítványt bocsát ki, ha az eredeti tanúsítványon szereplő információk bármelyike (a mellékleteket nem ideértve) megváltozott, vagy ha az e fejezetben előírt minimumkövetelmények a jóváhagyás időpontja óta megváltoztak. A módosított típusjóváhagyási tanúsítványban egyértelműen meg kell jelölni a módosítás okát és az ismételt kibocsátás időpontját.
+
+Ha a hatóság, amely a típusjóváhagyást kibocsátotta, megállapítja, hogy az információs mappa módosulása nyomán új próbákat vagy vizsgálatokat indokolt elvégezni, akkor erről értesíti a gyártót, és a fentiekben meghatározott okmányokat csak akkor bocsátja ki, ha az új próbák vagy vizsgálatok kielégítő eredménnyel lezárultak.
+
+14a.06 cikk
+
+Megfelelés
+
+1. A gyártó minden, a típusjóváhagyásnak megfelelően legyártott fedélzeti szennyvízkezelő művön köteles elhelyezni a 6. függelék I. részében meghatározott jelöléseket, köztük a típusjóváhagyás számát.
+
+2. Ha a típusjóváhagyás a 14a.04 cikk 3. pontja értelmében korlátozásokat tartalmaz, akkor a gyártó minden egyes legyártott szennyvízkezelő műhöz köteles részletes tájékoztatást mellékelni ezekről a korlátozásokról és a rendszerbe állításra vonatkozó követelményekről.
+
+3. Ha a típusjóváhagyást kibocsátó hatóság kéri, a gyártó – minden naptári év vége után 45 napon belül, továbbá a hatóság által meghatározott további időpontokban – köteles átadni egy jegyzéket azon fedélzeti szennyvízkezelő művek gyártási számáról, amelyeket a legutóbbi adatszolgáltatása vagy e rendelkezések első hatálybalépése óta e fejezet követelményeinek megfelelően legyártott. A jegyzéken meg kell jelölni, hogy az egyes gyártási számokhoz a fedélzeti szennyvízkezelő művek melyik típusa és melyik típusjóváhagyási szám tartozik. A jegyzékben tájékoztatást kell adni arról is, ha a gyártó felhagyott egy típusjóváhagyás keretében jóváhagyott típusú fedélzeti szennyvízkezelő mű gyártásával. Ha a hatóság ilyen jegyzék rendszeres átadását nem kéri, a gyártó köteles a feljegyzett adatokat legalább 40 évig megőrizni.
+
+14a.07 cikk
+
+Egyenértékű jóváhagyások elfogadása
+
+A hajózási hatóság a fedélzeti szennyvízkezelő művek körében kizárólag a nemzeti víziutakon közlekedő úszólétesítmények vonatkozásában más előírások alapján kibocsátott típusjóváhagyásokat is elismerhet. Ezekről a típusjóváhagyásokról a hajózási hatóság értesíti a Bizottságot.
+
+14a.08 cikk
+
+A gyártási szám ellenőrzése
+
+1. A típusjóváhagyást kibocsátó hajózási hatóság, – szükség esetén a többi illetékes hatósággal együttműködve – az e fejezet követelményeinek megfelelően legyártott fedélzeti szennyvízkezelő művek gyártási számait nyilvántartja és ellenőrzi.
+
+2. A gyártási számok a gyártás megfelelőségének a 14a.09 cikk szerinti ellenőrzése kapcsán is ellenőrizhetők.
+
+3. A gyártási számok ellenőrzése céljából a gyártó vagy a tagállamokban működő meghatalmazottja köteles kérésre haladéktalanul átadni a hajózási hatóságnak a 14a.06 cikk 3. pontja alapján legyártottként bejelentett fedélzeti szennyvízkezelő művek közvetlen vásárlóira és gyártási számaira vonatkozó valamennyi szükséges információt.
+
+4. Ha a gyártó nem képes eleget tenni a 14a.06 cikkben foglalt követelményeknek, akkor a fedélzeti szennyvízkezelő művek adott típusának jóváhagyása visszavonható. Ilyen esetekben a 14a.10 cikk 4. pontjában előírt értesítési eljárást is alkalmazni kell.
+
+14a.09 cikk
+
+A gyártás megfelelősége
+
+1. A hajózási hatóság ellenőrzi – szükség esetén a többi illetékes hatósággal együttműködve –, hogy megtörténtek azok az intézkedések, amelyek a 6. függelék I. részében foglalt követelmények teljesülésével összefüggésben biztosítják a gyártás megfelelő voltának ellenőrizhetőségét.
+
+2. A hajózási hatóság ellenőrzi – szükség esetén a többi illetékes hatósággal együttműködve –, hogy az 1. pont szerinti intézkedések a 6. függelék I. részének rendelkezései vonatkozásában folyamatosan elegendőek, és az e fejezet követelményeinek megfelelően típusjóváhagyási számmal ellátott fedélzeti szennyvízkezelő művek mindegyike folyamatosan megfelel a fedélzeti szennyvízkezelő műveknek a típusjóváhagyás keretében jóváhagyott típusához tartozó típus-jóváhagyási tanúsítványban és mellékleteiben található leírásnak.
+
+A hajózási hatóság más illetékes hatóság ellenőrzéseit az 1. és a 2. pontban foglalt ellenőrzésekkel egyenértékűnek ismerheti el.
+
+14a.10 cikk
+
+A típusjóváhagyás keretében jóváhagyott típusú fedélzeti szennyvízkezelő mű eltérései
+
+1. A típusjóváhagyás keretében jóváhagyott típusú fedélzeti szennyvízkezelő művet nem megfelelőnek kell tekinteni akkor, ha eltéréseket mutat a típusjóváhagyási tanúsítványban meghatározott jellemzőktől vagy attól az információs mappától, amely a 14a.05 cikk 3. pontja szerint a típusjóváhagyás módosítása alatt áll.
+
+2. Ha a hajózási hatóság megállapítja, hogy a fedélzeti szennyvízkezelő mű nem felel meg a fedélzeti szennyvízkezelő művek azon típusának, amelyre a jóváhagyást kibocsátotta, akkor megteszi az annak biztosításához szükséges intézkedéseket, hogy a gyártás alatt álló fedélzeti szennyvízkezelő művek újból megfeleljenek a fedélzeti szennyvízkezelő műveknek a típusjóváhagyás keretében jóváhagyott típusának. Az eltérést megállapító hajózási hatóság értesíti a tagállamok illetékes hatóságait és a Bizottságot a megtett intézkedésekről, amelyek akár a típusjóváhagyás visszavonását is magukban foglalhatják.
+
+3. Ha egy EGT-tagállam illetékes hatósága megállapítja, hogy a típusjóváhagyási számmal ellátott fedélzeti szennyvízkezelő mű nem felel meg a fedélzeti szennyvízkezelő műveknek a típusjóváhagyás keretében jóváhagyott típusának, és felkéri a hajózási hatóságot, hogy a fedélzeti szennyvízkezelő műveknek a típusjóváhagyás keretében jóváhagyott típusának való megfelelés szempontjából ellenőriztesse a fedélzeti szennyvízkezelő művek gyártás alatt álló típusát, akkor a hajózási hatóságnak az ellenőrzést a felkérés időpontja után hat hónapon belül le kell folytatnia.
+
+4. A hajózási hatóság a típusjóváhagyások visszavonásáról és a visszavonás indokairól egy hónapon belül értesíti az EGT-tagállamok illetékes hatóságait és a Bizottságot.
+
+14a.11 cikk
+
+Szúrópróbaszerű vizsgálatok, rendkívüli szemle
+
+1. A személyhajó üzembe helyezése után legkésőbb 3 hónappal, felújított fedélzeti szennyvízkezelő mű esetében a rendszerbe állítás és a megfelelő üzemképességi vizsgálat elvégzése után legkésőbb 3 hónappal a hajózási hatóság a 14a.02 cikk 2. pont (b) alpontjában található táblázatban meghatározott értékek ellenőrzése céljából a személyhajó üzeme közben szúrópróbaszerűen mintát vesz.
+
+A hajózási hatóság a 14a.02 cikk 2. pont (b) alpontjában található táblázatban meghatározott értékek ellenőrzése céljából szúrópróbaszerűen vett mintákon végrehajtott mérések útján rendszeres időközönként üzemképességi ellenőrzésnek veti alá a fedélzeti szennyvízkezelő művet.
+
+Ha a hajózási hatóság a szúrópróbaszerű mintavétel keretében végrehajtott mérések során azt állapítja meg, hogy a mért értékek nem teljesítik a 14a.02 cikk 2. pont (b) alpontjában található táblázat követelményeit, akkor elrendelheti:
+
+(a) a fedélzeti szennyvízkezelő mű hibáinak kijavítását, és a fedélzeti szennyvízkezelő mű megfelelő üzemének ezáltal történő biztosítását;
+
+(b) a fedélzeti szennyvízkezelő mű típusjóváhagyásnak való megfelelésének újbóli biztosítását; vagy
+
+(c) a 3. pontban előírt rendkívüli szemle lefolytatását.
+
+A típusjóváhagyásnak való megfeleltetését követően a fedélzeti szennyvízkezelő művet a hajózási hatóság szúrópróbaszerűen ellenőrizheti.
+
+Ha a hibák javítása vagy a fedélzeti szennyvízkezelő mű típusjóváhagyásnak való megfeleltetése nem történt meg, a hajózási hatóság lezárja és lepecsételi a fedélzeti szennyvízkezelő művet, és a 14a.02 cikk 6. pontjában szereplő adattartalommal tett vonatkozó bejegyzést törli a közösségi hajóbizonyítványban.
+
+2. A szúrópróbaszerű mintavétel során végrehajtott méréseket a 14a.02 cikk 2. pont (b) alpontjában található táblázatnak megfelelően kell elvégezni.
+
+3. Ha a hajózási hatóság a fedélzeti szennyvízkezelő művön olyan rendellenességet észlel, amely a típusjóváhagyástól való eltérésre utal, akkor rendkívüli szemlét rendel el, amelynek során – a fedélzeti szennyvízkezelő mű paraméterjegyzékében foglalt komponensekre, valamint a fedélzeti szennyvízkezelő mű paramétereinek kalibrálására és beállítására való tekintettel – felméri a fedélzeti szennyvízkezelő mű állapotát.
+
+Ha a hajózási hatóság megállapítja, hogy a fedélzeti szennyvízkezelő mű nem felel meg a fedélzeti szennyvízkezelő műveknek a típusjóváhagyás keretében jóváhagyott típusának, akkor a következők szerint járhat el:
+
+(a) felszólíthat:
+
+aa) a fedélzeti szennyvízkezelő mű megfelelő voltának helyreállítására; vagy
+
+ab) a típusjóváhagyás megfelelő, a 14a.05 cikk szerint történő módosítására; vagy
+
+(b) elrendelheti a 7. függelék szerinti vizsgálat elvégzését.
+
+Ha nem történik meg a megfelelőség helyreállítása vagy a típusjóváhagyás megfelelő módosítása, valamint, ha a b) pont szerinti vizsgálat alapján egyértelművé válik, hogy a 14a.02 cikk 2. pont (a) alpontjában található táblázatban foglalt határértékek nem teljesülnek, akkor a hajózási hatóság lezárja és lepecsételi a fedélzeti szennyvízkezelő művet, és a 14a.02 cikk 6. pontjában szereplő adattartalommal tett vonatkozó bejegyzést törli a közösségi hajóbizonyítványban.
+
+4. A 3. pontban előírt vizsgálatokat az adott fedélzeti szennyvízkezelő műre vonatkozó »gyártói útmutató a szennyvízkezelés szempontjából lényeges komponensek és paraméterek ellenőrzéséhez« elnevezésű dokumentumban foglaltak szerint kell végrehajtani. Ebben az útmutatóban, melyet a gyártó készít el és a hajózási hatóság hagy jóvá, meg kell határozni a szennyvízkezelés szempontjából lényeges komponenseket, valamint azokat a beállításokat, méretezési kritériumokat és paramétereket, amelyeket alkalmazni kell annak biztosításához, hogy a 14a.02 cikk 2. pont (a) és (b) alpontjában található táblázatban foglalt értékek folyamatosan teljesüljenek. Az útmutatónak tartalmaznia kell legalább:
+
+(a) a fedélzeti szennyvízkezelő mű műszaki leírását, amelynek ki kell terjednie a műszaki folyamat leírására, valamint annak jelzésére, hogy a fedélzeti szennyvízkezelő mű befolyó oldalán kell-e felszerelni szennyvízgyűjtő tartályokat;
+
+(b) a szennyvízkezelés szempontjából lényeges komponensek jegyzékét;
+
+(c) az alkalmazott tervezési és méretezési kritériumokat, méretezési eljárásokat és szabályzatokat;
+
+(d) egy, a fedélzeti szennyvízkezelő műről készült, a szennyvízkezelés szempontjából lényeges jóváhagyott komponensek azonosítását szolgáló jelzéseket (például a komponensek alkatrészszámait) is tartalmazó, vázlatos rajzot.
+
+5. A korábban üzemen kívül helyezett fedélzeti szennyvízkezelő mű ismételten csak a 3. pont első mondatában előírt rendkívüli szemle elvégzése után helyezhető üzembe.
+
+14a.12 cikk
+
+A közlekedésért felelős miniszter feladata
+
+A közlekedésért felelős miniszter a Bizottságnak megküldi az e fejezetben előírt feladatok ellátásáért felelős hatóság nevét és címét. A hajózási hatóság által igénybe vett vizsgáló és tanúsító szervezeteknek teljesíteniük kell a vizsgáló- és kalibrálólaboratóriumok felkészültségének általános követelményeire vonatkozó európai szabvány (EN ISO/IEC 17025:2005-8) követelményeit, továbbá:
+
+(a) a fedélzeti szennyvízkezelő művek gyártói vizsgáló és tanúsító szervezeteknek nem ismerhetőek el,
+
+(b) e fejezet alkalmazásában a vizsgáló és tanúsító szervezet a hajózási hatóság beleegyezésével saját laboratóriumán kívüli berendezéseket is igénybe vehet.
 
 15. Fejezet
 
@@ -3332,7 +3822,7 @@ a – hossz- vagy harántbordák osztása [mm], 400 mm-nél kisebb bordaköz ese
 
 7. A kollíziós válaszfalakon nyílások és ajtók nem lehetnek.
 
-8. A géptereket az utastértől vagy legénységi, illetve személyzeti terektől elválasztó 5. pont szerinti vízmentes válaszfalakon ajtó nem lehet.
+8. A géptereket az utastértől vagy legénységi, valamint személyzeti hálóhelyiségektől elválasztó vízhatlan válaszfalakon nem lehet ajtó.
 
 9. Az 5. pont szerinti vízmentes válaszfalakon levő kézzel működtetett, távvezérlés nélküli vízmentes válaszfali ajtók alkalmazása csak olyan területeken engedhető meg, amelyek az utasok számára nem hozzáférhetőek. Azoknak
 
@@ -3492,17 +3982,19 @@ ahol:
 
 Fmax - a legnagyobb engedélyezett utaslétszám.
 
-5. A szélnyomása okozta billenőnyomatékot (Mw) az alábbiak szerint kell kiszámítani:
+5. A szélnyomás okozta billenőnyomatékot (Mw) az alábbiak szerint kell kiszámítani:
 
 Mw = pw.Aw.(lw+T/2) [kNm],
 
 ahol:
 
-pw - fajlagos szélnyomás, amelynek értéke 0,25 kN/m2,
+pw = a fajlagos szélnyomás, amelynek értéke 0,25 kN/m²;
 
-Aw - szélnek kitett oldalfelület a figyelembe vett terhelési esetnek megfelelő merülési sík felett [m2],
+Aw = a szélnek kitett oldalfelület a vizsgált terhelési esetnek megfelelő merülési sík felett [m2]-ben;
 
-lw - a szélnek kitett oldalfelület középpontjának távolsága a figyelembe vett terhelési esetnek megfelelő merülési sík felett [m].
+lw = az Aw szélnek kitett oldalfelület súlypontjának távolsága a vizsgált terhelési esetnek megfelelő merülési síktól [m]-ben.
+
+A szélnek kitett oldalfelület kiszámításakor figyelembe kell venni a fedélzet ponyvával és hasonló mobil felszerelésekkel történő tervezett zárását.
 
 6. A fordulóban fellépő centrifugális erő okozta billenőnyomatékot (Mdr) az alábbiak szerint kell kiszámítani:
 
@@ -3546,7 +4038,7 @@ Lékesedés esetére a következő normákat kell figyelembe venni:
 
 | függőlegesen, h (m) | 0,59; a 15.02. cikk 13. pontjának (c) alpontja szerint felszerelt csővezetékeket épnek kell tekinteni |
 
-(a) Egyteres elárasztás esetén a válaszfalakat épnek lehet tekinteni, ha két egymás melletti válaszfal közötti távolság nagyobb, mint a sérülés hossza. Azokat a hosszválaszfalakat, amelyek a legnagyobb merülés síkjában a külhéjlemezeléstől a hajóközépig merőlegesen mérve a B/3-nál kisebb távolságra vannak, számítási célokra nem lehet figyelembe venni.
+(a) Az 1-rekeszállapot (egyteres elárasztás) esetén a vízhatlan válaszfalakat épnek lehet tekinteni, ha két egymás melletti válaszfal közötti távolság nagyobb, mint a sérülés hossza. Azokat a hosszanti vízhatlan válaszfalakat, amelyek a legnagyobb merülés vonalában a hajó középvonalára merőlegesen mérve B/3-nál kisebb távolságra vannak a külhéj lemezelésétől, számítási célokra nem lehet figyelembe venni. A keresztirányú válaszfalban elhelyezett, 2,50 m-nél hosszabb válaszfalrekesz hosszanti vízhatlan válaszfalnak tekintendő.
 
 (b) Kétteres elárasztás esetén a sérülésen belüli valamennyi válaszfalat sérültnek kell tekinteni. Ez azt jelenti, hogy a válaszfalak helyét úgy kell megválasztani, hogy a személyhajó úszóképes maradjon a hosszirányban egymáshoz kapcsolódó két vagy több tér elárasztása esetén.
 
@@ -3656,13 +4148,15 @@ Legnagyobb megengedett utaslétszám
 
 Utasterek és utasok által használt területek
 
-1. Az utastereknek
+1. Az utastereknek:
 
-(a) minden fedélzeten a kollíziós válaszfal mögött kell elhelyezkedniük és amennyiben a válaszfalfedélzet alatt vannak, a leghátsó vízmentes válaszfal előtt,
+(a) minden fedélzeten az ütközési válaszfal mögött kell elhelyezkedniük, és amennyiben a válaszfalfedélzet alatt vannak, a leghátsó vízhatlan válaszfal (farválaszfal) előtt kell lenniük;
 
-(b) a gép- és a kazántértől gáztömör módon kell elválasztva lenniük,
+(b) a gép- és a kazántértől gázzáró módon kell elválasztva lenniük;
 
-(c) olyan elrendezésűnek kell lenniük, hogy azokon a 7.02 cikk szerinti látóvonalak ne haladjanak keresztül.
+(c) olyan elrendezésűnek kell lenniük, hogy a 7.02 cikk szerinti látómezők ne haladjanak rajtuk keresztül.
+
+A ponyvákkal vagy hasonló mobil felszerelésekkel nemcsak felülről, hanem teljesen vagy részben oldalról is zárt fedélzeti területeknek ugyanazon követelményeknek kell megfelelniük, mint a zárt utastereknek.
 
 2. A 11.13 cikk szerinti gyúlékony folyadékok tárolására szolgáló szekrények és helyiségek az utasok által használt területen nem lehetnek.
 
@@ -3806,7 +4300,7 @@ A mozgásukban korlátozott személyek számára szolgáló lifteket és emelős
 
 A közlekedési területeken a padlószintig nyúló átlátszó ajtókat és átlátszó falakat jól láthatóan meg kell jelölni.
 
-15. A teljes egészében panorámaüvegből álló felépítményeket vagy azok tetejét csak olyan anyagból lehet készíteni, amelyek baleset esetén a fedélzeten tartózkodók sérülésének veszélyét a lehető legkisebbre csökkentik.
+15. A teljes egészében panorámaüvegből álló felépítményeket vagy felépítménytetőket és a ponyvákkal vagy hasonló mobil felszerelésekkel létrehozott zárt tereket, valamint azok alapozását olyan módon kell megtervezni, és csak olyan anyagból lehet készíteni, amely baleset esetén a fedélzeten tartózkodók sérülésének veszélyét a lehető legkisebbre csökkenti.
 
 16. Az ivóvízrendszereknek legalább a 12.05 cikkben foglalt követelményeknek kell eleget tenniük.
 
@@ -4046,101 +4540,81 @@ Tűz elleni védelem
 
 (e) A vizsgáló szerv a Tűzállósági vizsgálati módszerek szabályzata értelmében előírhat próbát egy válaszfalmintán, annak érdekében, hogy igazolják a 2. pont ellenálló képességre és a hőmérséklet-emelkedésre vonatkozó előírásainak való megfelelést.
 
-2. . Válaszfalak
+2.  Válaszfalak
 
-(a) a helyiségek között a válaszfalakat az alábbi táblázatok szerint kell kialakítani:
+a) A helyiségek közötti válaszfalakat az alábbi táblázatok szerint kell megtervezni:
 
-(aa) Azon helyiségek közötti válaszfalak táblázata, amelyekben nincsenek felszerelve a 10.03a. cikk szerinti túlnyomásos sprinklerberendezések.
+aa) Azon helyiségek közötti válaszfalak táblázata, amelyekben nincsenek felszerelve a 10.03a cikk szerinti túlnyomásos sprinkler berendezések
 
-| Helyiségek | Vezérlő központok | Lépcsőházak | Gyülekező- helyek | Társalgók | Gépterek | Konyhák | Tároló- helyiségek |
+| Helyiségek | Vezérlő központok | Lépcsőházak | Gyülekező- helyek | Társalgók | Gépterek | Hajókonyha | Tároló- helyiségek |
 
-| Vezérlőközpontok | – | A0 | A0B15(1) | A30 | A60 | A60 | A60 |
+| Vezérlőközpontok | − | A0 | A0/B15(¹) | A30 | A60 | A60 | A30/A60 (5) |
 
-| Lépcsőházak |  | – | A0 | A30 | A60 | A60 | A60 |
+| Lépcsőházak |  | − | A0 | A30 | A60 | A60 | A30 |
 
-| Gyülekezőhelyek |  |  | – | A30/B15(2) | A60 | A60 | A60 |
+| Gyülekezőhelyek |  |  | − | A30/B15 (²) | A60 | A60 | A30/A60 (5) |
 
-| Társalgók |  |  | – | –/B15(3) | A60 | A60 | A60 |
+| Társalgók |  |  |  | –/A0/B15 (³) | A60 | A60 | A30 |
 
-| Gépterek |  |  |  |  | A60/A0(4) | A60 | A60 |
+| Gépterek |  |  |  |  | A60/A0 (4) | A60 | A60 |
 
-| Konyhák |  |  |  |  |  | A0 | A60/B15(5) |
+| Hajókonyha |  |  |  |  |  | A0 | A30/B15 (6) |
 
-| Tárolóhelyiségek |  |  |  |  |  |  | – |
+| Tárolóhelyiségek |  |  |  |  |  |  | − |
 
-(1) A vezérlőközpontok és a belső gyülekezőhelyek közötti válaszfalaknak az A0 típusnak kell megfelelniük,míg a külső gyülekezőhelyeknél csak B15 típusnak.
+(¹) A vezérlőközpontok és a belső gyülekezőhelyek közötti válaszfalaknak az A0 típusnak kell megfelelniük, míg a külső gyülekezőhelyeknél csak a B15 típusnak.
 
-(2) A társalgók és a belső gyülekezőhelyek közötti válaszfalaknak az A30 típusnak kell megfelelniük, míg a külső gyülekezőhelyeknél csak B15 típusnak.
+(²) A társalgók és a belső gyülekezőhelyek közötti válaszfalaknak az A30 típusnak kell megfelelniük, míg a külső gyülekezőhelyeknél csak a B15 típusnak.
 
-(3) A kabinok közötti válaszfalaknak, a kabinok és a folyosók válaszfalaknak, valamint a társalgókat elválasztó 10. pont szerinti függőleges válaszfalaknak a B15 típusnak kell megfelelniük, a túlnyomásos sprinklerberendezésekkel felszerelt helyiségeknél pedig a B0 típusnak.
+(³) A kabinok közötti válaszfalaknak, a kabinok és a folyosók közötti válaszfalaknak, valamint a társalgókat elválasztó, 10. pont szerinti függőleges válaszfalaknak a B15 típusnak kell megfelelniük, a túlnyomásos sprinkler berendezésekkel felszerelt helyiségeknél pedig a B0 típusnak. A kabinok és a szaunák közötti válaszfalaknak az A0 típusnak kell megfelelniük, a túlnyomásos sprinkler berendezésekkel felszerelt helyiségeknél pedig a B15 típusnak.
 
-(4) A 15.07 cikk és a 15.10 cikk 6. pontja szerinti gépterek közötti válaszfalaknak az A60 típusnak kell megfelelniük; egyéb esetekben az A0 típusnak.
+(4) A 15.07 cikk és a 15.10 cikk 6. pontja szerinti gépterek közötti válaszfalaknak az A60 típusnak kell megfelelniük; egyéb esetekben az A0 típusnak.
 
-(5) A B15 típus megfelelő egyrészről a konyhák, másrészről pedig a hűtőraktárak és élelmiszertároló helyiségek közötti válaszfalakhoz.
+(5) A gyúlékony folyadékok tárolására szolgáló tárolóhelyiségek, a vezérlőközpontok és a gyülekezőhelyek közötti válaszfalaknak az A60 típusnak kell megfelelniük, a túlnyomásos sprinkler berendezésekkel felszerelt helyiségeknél pedig az A30 típusnak.
 
-(ab) Azon helyiségek közötti válaszfalak táblázata, amelyekben fel vannak szerelve a 10.03a. cikk szerinti túlnyomásos sprinklerberendezések
+(6) A B15 típus megfelelő egyrészről a hajókonyhák, másrészről pedig a hűtőraktárak és élelmiszer-tároló helyiségek közötti válaszfalakhoz.
 
-| Helyiségek | Vezérlő központok | Lépcsőházak | Gyülekező- helyek | Társalgók | Gépterek | Konyhák | Tároló- helyiségek |
+ab) Azon helyiségek közötti válaszfalak táblázata, amelyekben fel vannak szerelve a 10.03a cikk szerinti túlnyomásos sprinkler berendezések
 
-| Vezérlőközpontok | – | A0 | A0B15(1) | A0 | A60 | A30 | A30 |
+| Helyiségek | Vezérlő központok | Lépcsőházak | Gyülekező- helyek | Társalgók | Gépterek | Hajókonyha | Tároló- helyiségek |
 
-| Lépcsőházak |  | – | A0 | A0 | A60 | A30 | A0 |
+| Vezérlőközpontok | − | A0 | A0/B15 (1) | A0 | A60 | A30 | A0/A30 (5) |
 
-| Gyülekezőhelyek |  |  | – | A30/B15(2) | A60 | A30 | A30 |
+| Lépcsőházak |  | − | A0 | A0 | A60 | A30 | A0 |
 
-| Társalgók |  |  |  | –/B0(3) | A60 | A30 | A0 |
+| Gyülekezőhelyek |  |  | − | A30/B15 (2) | A60 | A30 | A0/A30 (5) |
 
-| Gépterek |  |  |  |  | A60/A0(4) | A60 | A60 |
+| Társalgók |  |  |  | –/B15/B0 (3) | A60 | A30 | A0 |
 
-| Konyhák |  |  |  |  |  | – | B15 |
+| Gépterek |  |  |  |  | A60/A0 (4) | A60 | A60 |
 
-| Tárolóhelyiségek |  |  |  |  |  |  | – |
+| Hajókonyha |  |  |  |  |  | − | A0/B15 (6) |
 
-(1) A vezérlőközpontok és a belső gyülekezőhelyek közötti válaszfalaknak az A0 típusnak kell megfelelniük,míg a külső gyülekezőhelyeknél csak B15 típusnak.
+| Tárolóhelyiségek |  |  |  |  |  |  | − |
 
-(2) A társalgók és a belső gyülekezőhelyek közötti válaszfalaknak az A30 típusnak kell megfelelniük, míg a külső gyülekezőhelyeknél csak B15 típusnak.
+(1) A vezérlőközpontok és a belső gyülekezőhelyek közötti válaszfalaknak az A0 típusnak kell megfelelniük, míg a külső gyülekezőhelyeknél csak a B15 típusnak.
 
-(3) A kabinok közötti válaszfalaknak, a kabinok és a folyosók válaszfalaknak, valamint a társalgókat elválasztó 10. pont szerinti függőleges válaszfalaknak a B15 típusnak kell megfelelniük, a túlnyomásos sprinklerberendezésekkel felszerelt helyiségeknél pedig a B0 típusnak.
+(2) A társalgók és a belső gyülekezőhelyek közötti válaszfalaknak az A30 típusnak kell megfelelniük, míg a külső gyülekezőhelyeknél csak a B15 típusnak.
 
-(4) A 15.07 cikk és a 15.10 cikk 6. pontja szerinti gépterek közötti válaszfalaknak az A60 típusnak kell megfelelniük; egyéb esetekben az A0 típusnak.
+(3) A kabinok közötti válaszfalaknak, a kabinok és a folyosók közötti válaszfalaknak, valamint a társalgókat elválasztó, 10. pont szerinti függőleges válaszfalaknak a B15 típusnak kell megfelelniük, a túlnyomásos sprinkler berendezésekkel felszerelt helyiségeknél pedig a B0 típusnak. A kabinok és a szaunák közötti válaszfalaknak az A0 típusnak kell megfelelniük, a túlnyomásos sprinkler berendezésekkel felszerelt helyiségeknél pedig a B15 típusnak.
 
-(b) Az A típusú válaszfalak, vízmentes válaszfalak, falak és fedélzetek, amelyeknek meg kell felelniük az alábbi követelményeknek:
+(4) A 15.07 cikk és a 15.10 cikk 6. pontja szerinti gépterek közötti válaszfalaknak az A60 típusnak kell megfelelniük; egyéb esetekben az A0 típusnak.
 
-(aa) acélból vagy más, azzal egyenértékű anyagból készülnek.
+(5) A gyúlékony folyadékok tárolására szolgáló tárolóhelyiségek, a vezérlőközpontok és a gyülekezőhelyek közötti válaszfalaknak az A60 típusnak kell megfelelniük, a túlnyomásos sprinkler berendezésekkel felszerelt helyiségeknél pedig az A30 típusnak.
 
-(bb) megfelelően merevítettek.
-
-(cc) jóváhagyott nem éghető anyaggal szigeteltek, olyan módon, hogy a tűzzel átellenes oldalon az átlagos hőmérséklet legfeljebb 140 °C-kal emelkedik az eredeti hőmérséklet fölé és egyetlen ponton, beleértve a csatlakozásoknál levő réseket, sem emelkedik a hőmérséklet 180 °C-nál többel az eredeti hőmérséklet fölé a következő, meghatározott időtartamokon belül:
-
-A60 típus – 60 perc
-
-A30 típus – 30 perc
-
-A0 típus – 0 perc.
-
-(dd) szerkezetük olyan, hogy megakadályozza a füst és a lángok átterjedését az egyórás normál tűzpróba végéig.
-
-(c) A B típusú válaszfalak, vízmentes válaszfalak, falak, fedélzetek, mennyezetek vagy burkolatok, amelyek megfelelnek az alábbi követelményeknek:
-
-(aa) elfogadott, nem éghető anyagból készülnek. Továbbá, a válaszfalak gyártásánál és összeszerelésénél használt valamennyi anyag nem éghető, kivéve a burkolatot, amelynek legalább lángkésleltetőnek kell lennie.
-
-(bb) szigetelési értékük olyan, hogy a tűzzel átellenes oldalon az átlagos hőmérséklet legfeljebb 140 °C-kal emelkedik az eredeti hőmérséklet fölé és egyetlen ponton, beleértve a csatlakozásoknál levő réseket, sem emelkedik a hőmérséklet 225 °C-nál többel az eredeti hőmérséklet fölé a következő, meghatározott időtartamokon belül:
-
-B15 típus – 15 perc
-
-B0 típus – 0 perc.
-
-(cc) szerkezetük olyan, hogy megakadályozza a füst és a lángok átterjedését az félórás normál tűzpróba végéig.
+(6) A B15 típus megfelelő egyrészről a hajókonyhák, másrészről pedig a hűtőraktárak és élelmiszer-tároló helyiségek közötti válaszfalakhoz.
 
 3. A festékeknek, lakkoknak és egyéb felületkezelő termékeknek, valamint a helyiségekben a fedélzetek borításának, kivéve a géptereket és a raktárhelyiségeket, lángkésleltetőnek kell lenniük. A szőnyegeknek, textileknek, függönyöknek és egyéb függesztett anyagoknak, valamint a kárpitozott bútoroknak és az ágyneműk összetevőinek lángkésleltetőnek kell lenniük, ha azok a helyiségek, ahol ezek találhatók, nincsenek felszerelve a 10.03a cikk szerinti túlnyomásos sprinklerberendezéssel.
 
-4. A társalgók mennyezeteinek és falburkolatuknak, beleértve alapozásukat is, nem éghető anyagokból kell készülniük, kivéve a felületüket, amelynek legalább lángkésleltetőnek kell lennie azokban a helyiségekben, amelyek nincsenek felszerelve a 10.03a cikk szerinti túlnyomásos sprinklerberendezéssel.
+4. A társalgók mennyezeteinek és falburkolatuknak, beleértve alapozásukat is, éghetetlen anyagokból kell készülniük, kivéve a felületüket, amelynek legalább lángkésleltetőnek kell lennie, azokban a helyiségekben, amelyek nincsenek felszerelve a 10.03a cikk szerinti, túlnyomásos sprinkler berendezéssel. Az első mondatot nem kell alkalmazni a szaunákra.
 
 5. A gyülekezőhelyként szolgáló társalgókban a bútoroknak és szerelékeknek nem éghető anyagból kell készülniük azokban a helyiségekben, amelyek nincsenek felszerelve a 10.03a cikk szerinti túlnyomásos sprinklerberendezéssel.
 
 6. Az exponált belső területeken használt festékek, lakkok és egyéb anyagok nem bocsáthatnak ki túlzott mennyiségű füstöt vagy mérgező anyagot. Ezt a Tűzállósági vizsgálati módszerek szabályzata szerint igazolni kell.
 
 7. A társalgókban használt szigetelőanyagoknak nem éghetőknek kell lenniük. Ez nem vonatkozik a hűtőanyagot szállító csövek szigeteléseire. Az ilyen csöveken használt szigetelőanyagok felületének legalább lángkésleltetőnek kell lennie.
+
+7a. A fedélzeti területek teljes vagy részleges zárására szolgáló ponyváknak és hasonló mobil felszereléseknek, valamint azok alapozásának legalább lángkésleltetőnek kell lennie.
 
 8. A 2. pont szerinti válaszfal-ajtóknak az alábbi követelményeknek kell megfelelniük:
 
@@ -4374,7 +4848,7 @@ Ezeket a részleteket angol és német nyelven is ki kell függeszteni.
 
 Szennyvízgyűjtő és ártalmatlanító berendezések
 
-1. A személyhajókat fel kell szerelni szennyvízgyűjtő tartályokkal vagy megfelelő fedélzeti szennyvízkezelő berendezéssel.
+1. A személyhajókat fel kell szerelni a 2. pontnak megfelelően szennyvízgyűjtő tartályokkal vagy a 14a. Fejezetnek megfelelően fedélzeti szennyvízkezelő művekkel.
 
 2. A szennyvízgyűjtő tartályoknak elegendő befogadóképességgel kell rendelkezniük. A tartályokat fel kell szerelni egy olyan eszközzel, amely jelzi a telítettségi szintet. A hajón szivattyúknak és csöveknek kell lenniük a tartályok kiürítéséhez, amelyekkel a szennyvizet a hajó mindkét oldaláról el lehet vezetni. Lehetővé kell tenni a szennyvíz más hajókról való átvezetését is.
 
@@ -4454,390 +4928,9 @@ A II. rész előírásain túlmenően az e fejezetben szereplő követelmények 
 
 Eltérések bizonyos vitorlás személyhajók esetében
 
-1. A legfeljebb 45 m LWL hosszú és legfeljebb a méterben mért teljes LWL hossznak megfelelő számú utas szállítására engedélyezett vitorlás személyhajókra nem vonatkoznak az alábbi előírások:
-
-(a) a 3.03 cikk 7. pont, feltéve hogy a horgonyokat nem horgonyláncvezető csőben szállítják,
-
-(b) a 10.02 cikk 2. pont (d) alpont a hosszra vonatkozóan,
-
-(c) a 15.08 cikk 3. pont (a) alpont,
-
-(d) a 15.15 cikk 7. pont (a) alpont.
-
-2. Az 1. ponttól való eltérésként, ha a vitorlázat, a futókötélzet és a fedélzeti szerelvények ezt megengedik, az utasok számát a méterben mért teljes LWL hossznak megfelelő létszám 1,5-szeresére lehet növelni.
-
-15a.03 cikk
-
-Vitorláshajókra vonatkozó stabilitási követelmények
-
-1. A 15.03 cikk 3. pont szerinti billentő nyomaték kiszámításánál a hajó rendszersúlypontjának meghatározásához a behúzott vitorlákat figyelembe kell venni.
-
-2. A 15.03 cikk 2. pontja szerinti valamennyi terhelési eset figyelembevételével, továbbá a vitorlák standard elrendezésének alkalmazásával, a szélnyomás által okozott billentő nyomaték nem lehet olyan magas, hogy túllépje a 20°-os dőlésszöget. Ugyanakkor
-
-(a) a számításnál 0,07 kN/m2 értékű állandó szélnyomást kell alkalmazni,
-
-(b) a maradó biztonsági távolságnak legalább 100 mm-nek kell lennie, és
-
-(c) a maradó szabadoldal nem lehet negatív.
-
-3. A statikus stabilitás stabilizáló karjának
-
-(a) maximális értéke 25°-nál vagy azt meghaladó dőlésszögnél legyen,
-
-(b) értéke 30°-nál vagy azt meghaladó dőlésszögnél legalább 200 mm legyen,
-
-(c) 60° dőlésszögig pozitív legyen.
-
-4. A stabilizáló kar görbéje alatti terület legalább
-
-(a) 0,055 mrad legyen 30°-ig,
-
-(b) 0,09 mrad legyen 40°-ig vagy addig a dőlésszögig, amelynél egy nem védett nyílás vízbe ér és amely legalább 40°.
-
-30° és 40° között vagy 30° és az a dőlésszög között, amelynél egy nem védett nyílás vízbe ér és amely legalább 40° ez a terület nem lehet 0,03 mrad-nál kisebb.
-
-15a.04 cikk
-
-Hajóépítési és gépészeti követelmények
-
-1. A 6.01 cikk 3. ponttól és a 9.01 cikk 3. ponttól való eltérésként a berendezéseket 20°-ig terjedő tartós oldalirányú dőlésre kell tervezni.
-
-2. A 15.06 cikk 5. pont (a) alponttól és a 15.06 cikk 9. pont (b) alponttól való eltérésként a legfeljebb 25 m hosszú vitorlás személyhajók esetében a hajózási hatóság engedélyezhet 800 mm-nél kisebb teljes szélességű összekötő folyosókat és lépcsőket. A teljes szélesség azonban 600 mm-nél kisebb nem lehet.
-
-3. A 15.06 cikk 10. ponttól való eltérésként, különleges esetekben a hajózási hatóság engedélyezheti a leszerelhető védőkorlátok használatát olyan helyeken, ahol erre szükség van a vitorlázat kezeléséhez.
-
-4. A 15.07 cikk értelmében a fő propulziós rendszernek a vitorlázat minősül.
-
-5. A 15.15 cikk 7 pont (c) alponttól való eltérésként az ajtónyílás alsó szélének magassága lecsökkenthető az utastér padlószintjétől számított 200 mm magasságig. Nyitás után az ajtónak önműködően csukódnia és záródnia kell.
-
-6. Ha a vitorlával haladó hajó propulziós műve üresjáratban lehet, a propulziós rendszer veszélyeztetett részeit a lehetséges sérülések ellen védeni kell.
-
-15a.05 cikk
-
-Árboczat általában
-
-1. Az árboczat alkatrészeit úgy kell elrendezni, hogy az elfogadhatatlan mértékű kopás megakadályozható legyen.
-
-2. Amennyiben nem faanyagot, illetve különleges típusú árbocrendszert használnak, az ilyen szerkezetnek az e fejezetben megállapított méretezési és szilárdsági értékekkel egyenértékű biztonsági szintet kell biztosítania. A szilárdság igazolása lehet:
-
-(a) egy elvégzett szilárdságszámítás
-
-(b) a megfelelő szilárdság igazolását egy elismert hajóosztályozó társaságtól kell beszerezni vagy
-
-(c) a méretezésnek egy elismert rácsszerkezet-számítási eljáráson (például Middendorf, Kusk-Jensen) kell alapulnia.
-
-Az igazolást be kell nyújtani a hajózási hatóságnak.
-
-15a.06 cikk
-
-Árbocok és vitorlarudak általában
-
-1. Minden vitorlarudat jó minőségű anyagból kell készíteni.
-
-2. Az árbocfára vonatkozó követelmények:
-
-(a) csomómentesnek kell lennie,
-
-(b) az előírt méreteken belül szijácsmentesnek kell lennie,
-
-(c) amennyire lehet, egyenes rostúnak kell lennie,
-
-(d) a lehető legkevésbé csavarodott növésű legyen.
-
-3. Ha a kiválasztott fa „tiszta és jobb” minőségű szurokfenyő vagy oregoni fenyő, a 15a.07–15a.12 cikkben foglalt táblázatokban foglalt méretek 5%-kal csökkenthetők.
-
-4. Ha az árbocokhoz, az árbocsudárokhoz, a keresztárbocokhoz, a keresztrudakhoz és orrárbocokhoz használt szálfa keresztmetszete nem kerek, az ilyen faanyagoknak egyenértékű szilárdságúaknak kell lenniük.
-
-5. Az árbocok talapzatait, aknáit és a fedélzethez, a bordatalpakhoz, az orrtőkéhez és a farrészhez való rögzítésüket úgy kell kialakítani, hogy a rájuk ható erőket elnyeljék vagy átadják a szerkezet egyéb kapcsolódó részeinek.
-
-6. A hajó stabilitásától, a rá ható külső erőktől, valamint a rendelkezésre álló vitorlafelület elosztásától függően a hajózási hatóság az e fejezetben megállapított méretek alapján engedélyezheti a vitorlarudak keresztmetszetének csökkentését, indokolt esetben a vitorlázatra vonatkozóan is. Az igazolást a 15a.05 cikk 2. ponttal összhangban kell benyújtani.
-
-7. Ha a hajó oldalirányú lengési periódusa másodpercben mérve kevesebb, mint méterben mért szélességének negyede, a következő cikkekben megállapított méreteket növelni kell. Az igazolást a 15a.05 cikk 2. ponttal összhangban kell benyújtani.
-
-8. A 15a.07–15a.12. és a 15a.14 cikkben foglalt táblázatokban a közbenső értékeket interpolálással kell meghatározni.
-
-15a.07 cikk
-
-Az árbocokra vonatkozó külön rendelkezések
-
-1. A fából készült árbocoknak az alábbi minimumkövetelményeknek kell megfelelniük:
-
-| Hossz (*) [m] | Átmérő a fedélzetnél [cm] | Átmérő a keresztrúdnál [cm] | Átmérő az árboccsapkánál [cm] |
-
-| 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 | 20 22 24 26 28 30 32 34 36 39 41 43 44 46 49 51 | 17 17 19 21 23 25 26 28 29 31 33 34 35 37 39 41 | 15 15 17 18 19 21 22 23 24 25 26 28 29 30 32 33 |
-
-(*)Távolság a vitorlarúdtól a fedélzetig
-
-Ha az árbocnak két vitorlarúdja van, az átmérőket legalább 10%-kal növelni kell.
-
-Ha az árbocnak kettőnél több vitorlarúdja van, az átmérőket legalább 15%-kal növelni kell.
-
-A fedélzeten keresztül beépített árbocok esetén az árboc keresztmetszetének a talpazatnál az árboc fedélzeti szintnél levő keresztmetszetének legalább 75%-ának kell lennie.
-
-2. Az árbocok szerelvényeit, abroncsait, keresztfáit és árbocsapkáit megfelelően kell méretezni és összekapcsolni.
-
-15a.08 cikk
-
-Az árbocsudárra vonatkozó külön rendelkezések
-
-1. A fából készült árbocsudároknak az alábbi minimumkövetelményeknek kell megfelelniük:
-
-| Hossz (*) [m] | Átmérő a lábazatnál [cm] | Átmérő a hossz felénél [cm] | Átmérő a szerelvénynél (**) [cm] |
-
-| 4 5 6 7 8 9 10 11 12 13 14 15 | 8 10 13 14 16 18 20 23 25 26 28 31 | 7 9 11 13 15 16 18 20 22 24 25 27 | 6 7 8 10 11 13 15 16 17 18 20 21 |
-
-(*) Az árbocsudár teljes hossza az árbocfej nélkül
-
-(**)Az árbocsudár átmérője az árbocfej szerelvénye szintjén
-
-Ha az árbocsudárhoz négyzet alakú vitorlákat szerelnek fel, a táblázatban megadott méreteket 10%-kal növelni kell.
-
-2. Az árbocsudár és az árboc közötti átfedésnek az árbocsudár előírt lábazati átmérőjének legalább tízszeresének kell lennie.
-
-15a.09 cikk
-
-Az orrárbocokra vonatkozó külön rendelkezések
-
-1. A fából készült orrárbocoknak az alábbi minimumkövetelményeknek kell megfelelniük:
-
-| Hossz (*) [m] | Átmérő az orrtőkénél [cm] | Átmérő a hossz felénél [cm] |
-
-| 4 5 6 7 8 9 10 11 12 | 14,5 18 22 25 29 32 36 39 43 | 12,5 16 19 23 25 29 32 35 39 |
-
-(*) Az orrárboc teljes hossza
-
-2. Az orrárboc hajótestben levő része hosszának az orrárboc orrtőkénél mért átmérője legalább négyszeresének kell lennie.
-
-3. Az orrárboc átmérőjének a csúcsánál az orrárboc orrtőkénél mért átmérője legalább 60%-ának kell lennie.
-
-15a.10 cikk
-
-Az orrsudarakra vonatkozó külön rendelkezések
-
-1. A fából készült orrsudaraknak az alábbi minimumkövetelményeknek kell megfelelniük:
-
-| Hossz (*) | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-
-| Átmérő az orrtőkénél [cm] | 7 | 10 | 14 | 17 | 21 | 24 | 28 | 31 | 35 |
-
-(*) Az orrsudár teljes hossza
-
-2. Az orrsudár fejnél mért átmérőjének az orrtőkénél mért átmérő legalább 60%-ának kell lennie.
-
-15a.11 cikk
-
-A fővitorla keresztrúdjaira vonatkozó külön rendelkezések
-
-1. A fővitorla fából készült keresztrúdjainak az alábbi minimumkövetelményeknek kell megfelelniük:
-
-| Hossz (*) [m] | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-
-| Átmérő [cm] | 14 | 15 | 16 | 17 | 18 | 20 | 21 | 23 | 24 | 25 | 26 | 27 |
-
-(*) A fővitorla keresztrúdjának teljes hossza
-
-2. A forgócsap átmérőjének a táblázatban meghatározott átmérő legalább 72%-ának kell lennie.
-
-3. Az átmérőnek a kötélvezetéknél a táblázatban meghatározott átmérő legalább 85%-ának kell lennie.
-
-4. Az árboctól mérve a legnagyobb átmérőnek a hossz kétharmadánál kell lennie.
-
-5. Ahol
-
-(a) a fővitorla-keresztrúd és a vitorla hátsó szegélye közötti szög 65°-nál kisebb és a fővitorla a keresztrúd végéhez van erősítve vagy
-
-(b) a vitorla rögzítési pontja nem a kötélvezeték előtt van,
-
-a hajózási hatóság a 15a.05 cikk 2. pont szerint nagyobb méreteket követelhet meg.
-
-6. Az 50 m2-nél kisebb vitorlafelületek esetében a hajózási hatóság engedélyezheti a táblázatban meghatározott méretek csökkentését.
-
-15a.12 cikk
-
-A gaffokra vonatkozó külön rendelkezések
-
-1. A fából készült gaffoknak az alábbi minimumkövetelményeknek kell megfelelniük:
-
-| Hossz (*) [m] | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-
-| Átmérő [cm] | 10 | 12 | 14 | 16 | 17 | 18 | 20 |
-
-(*) A gaff teljes hossza
-
-2. A gaff alátámasztás nélküli hossza nem lehet több 75%-nál.
-
-3. A gaffcsukló törőszilárdságának a csúcskötél szakítószilárdságának legalább 1,2-szeresével kell egyenlőnek lennie.
-
-4. A gaffcsukló felső szöge legfeljebb 60° lehet.
-
-5. Ha a 4. pontttól eltérve a gaffcsukló felső szöge 60°-nál nagyobb, a szakítószilárdságot úgy kell beállítani, hogy felvegye az ilyenkor keletkező erőket.
-
-6. Az 50 m2-nél kisebb vitorlafelületek esetében a hajózási hatóság engedélyezheti a táblázatban meghatározott méretek csökkentését.
-
-15a.13 cikk
-
-Az álló- és futókötélzetre vonatkozó általános rendelkezések
-
-1. Az álló- és futókötélzetnek meg kell felelnie a 15a.14 és 15a.15 cikkben meghatározott szilárdsági követelményeknek.
-
-2. A kötél-kapcsolások a következő formákat ölthetik:
-
-(a) összefonás,
-
-(b) sajtolt hüvelyek vagy
-
-(c) záróhüvelyek.
-
-Az összefonásokat pólyázózsineggel körbe kell hurkolni, a végeket pedig körül kell fonni.
-
-3. A csatfonásokat el kell látni kötélszívekkel.
-
-4. A köteleket úgy kell vezetni, hogy ne képezzenek akadályt a bejáratoknál és lépcsőknél.
-
-15a.14 cikk
-
-Az állókötélzetre vonatkozó külön rendelkezések
-
-1. A mellső pakrácköteleknek és a csarnakköteleknek az alábbi minimumkövetelményeknek kell megfelelniük:
-
-| Árbochossz (*) [m] | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-
-| A mellső pakráckötél szakítószilárdsága [kN] | 160 | 172 | 185 | 200 | 220 | 244 | 269 | 294 |
-
-| A csarnakkötelek szakítószilárdsága [kN] | 355 | 415 | 450 | 485 | 525 | 540 | 630 | 720 |
-
-| A csarnakkötelek és kötelek száma oldalanként | 3 | 3 | 3 | 3 | 3 | 3 | 4 | 4 |
-
-(*) Az árboccsúcs vagy a keresztrúd távolsága a fedélzettől
-
-2. A hátsó pakrácköteleknek, az árbocsudaraknak, a külső orrsudárvitorla merevítőköteleinek és az orrárbocoknak és az orrárbocok csarnakköteleinek az alábbi minimum követelményeknek kell megfelelniük:
-
-| Árbochossz (*) [m] | < 13 | 13-18 | > 18 |
-
-| A hátsó pakráckötél szakítószilárdsága [kN] | 89 | 119 | 159 |
-
-| Az árbocsudár szakítószilárdsága [kN] | 89 | 119 | 159 |
-
-| Az árbocsudár hossza [m] | < 6 | 6-8 | > 8 |
-
-| A külső orrsudárvitorla merevítő-köteleinek szakítószilárdsága [kN] | 58 | 89 | 119 |
-
-| Az orrárboc hossza [m] | < 5 | 5-7 | > 7 |
-
-| Az orrárbocok csarnakköteleinek szakítószilárdsága [kN] | 58 | 89 | 119 |
-
-(*) Az árboccsúcs vagy a keresztrúd távolsága a fedélzettől
-
-3. Az előnyben részesített kötélfajtának az 1550 N/mm2 szilárdsági osztályú 6 × 7 FE kötélszerkezeti eljáráson kell alapulnia. E helyett alkalmazható az ugyanolyan osztályú 6 × 36 SE vagy 6 × 19 FE szerkezeti eljárás. A 6 × 19 szerkezeti eljárás nagyobb elasztikussága miatt a táblázatban megadott szakítószilárdságokat 10%-kal növelni kell. Más fajtájú kötél használata megengedett, feltéve, hogy tulajdonságai hasonlóak.
-
-4. Ha merev kötélzetet használnak, a táblázatban megadott nyúlási szilárdságot 30%-kal növelni kell.
-
-5. A kötélzethez csak jóváhagyott villákat, szemescsavarokat és csavarokat lehet használni.
-
-6. A csavaroknak, villáknak, szemescsavaroknak és kötélcsatoknak megfelelően rögzíthetőnek kell lenniük.
-
-7. Az orrárboc alsó merevítőkötelének szakítószilárdsága a külső orrsudárvitorla merevítőkötele és az orrárbockötél szakítószilárdságának legalább 1,2-szerese legyen.
-
-8. 30 m3-nél kisebb vízkiszorítású hajók esetében a hajózási hatóság engedélyezheti a szakítószilárdságnak az alábbi táblázatban meghatározott csökkentését:
-
-| Vízkiszorítás osztva az árbocok számával [m3] | Csökkentés [%] |
-
-| > 20-tól 30-ig | 20 |
-
-| 10-től 20-ig | 35 |
-
-| < 10 | 60 |
-
-15a.15 cikk
-
-A futókötélzetre vonatkozó külön rendelkezések
-
-1. A futókötélzethez rostköteleket vagy acélsodrony köteleket kell használni. A futókötélzet minimális szakítószilárdságának és átmérőjének a vitorlafelülethez viszonyítva az alábbi minimumkövetelményeknek kell megfelelnie:
-
-| A futókötélzet típusa | Kötél anyaga | Vitorlafelület [m2] | Legkisebb szakítószilárdság [kN] | Kötélátmérő [mm] |
-
-| Mellső vitorlafelhúzó kötél | acélsodrony | legfeljebb 35 | 20 | 6 |
-
-| > 35 | 38 | 8 |
-
-| rost (polipropilén-PP) | Legalább 14 mm átmérőjű kötél és egy kötélkorong minden 25 m2-re |
-
-| Gaffvitorla felhúzókötél Felső derékvitorla felhúzó-kötél | acélsodrony | legfeljebb 50 | 20 | 6 |
-
-| > 50-től 80-ig | 30 | 8 |
-
-| > 80-től 120-ig | 60 | 10 |
-
-| > 120-től 160-ig | 80 | 12 |
-
-| rost (PP) | Legalább 18 mm átmérőjű kötél és egy kötélkorong minden 30 m2-re |
-
-| Derékvitorla szárak | rost (PP) | legfeljebb 40 | 14 |  |
-
-| > 40 | 18 |  |
-
-| A 40 m2 -nél nagyobb vitorláknál a szárakat kötélzet formájában kell kialakítani vagy azoknak csörlővel kezelhetőknek kell lenniük |
-
-| Gaff-/derékvitorla szárak | acélsodrony | < 100 | 60 | 10 |
-
-| 100-tól 150-ig | 85 | 12 |
-
-| > 150 | 116 | 14 |
-
-| A derékvitorlánál rugalmas csatlakozások (előmegvezetők) kellenek. |
-
-| rost (PP) | Legalább 18 mm átmérőjű kötél és legalább három kötélkorong. Ha a vitorlafelület 60 m2-nél nagyobb, minden 20 m2-re egy kötélkorong. |
-
-2. A merevítés részét képező futókötélzet szakítószilárdságának meg kell felelnie a hozzá tartozó merevítő vagy csarnakkötél szakítószilárdságának.
-
-3. Ha az 1. pontban meghatározott anyagoktól eltérőket használnak, az 1. pontban szereplő táblázatban megadott szilárdsági értékeket be kell tartani.
-
-Polietilén kötelek nem használhatók.
-
-15a.16 cikk
-
-A kötélzet szerelvényei és alkatrészei
-
-1. Acélsodrony kötelek vagy rostkötelek használata esetén a kötélkorongok átmérőinek (kötélközéptől kötélközépig mérve) az alábbi minimumkövetelményeknek kell megfelelniük:
-
-| Acélsodrony kötél [mm] | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-
-| Rostkötél [mm] | 16 | 18 | 20 | 22 | 24 | 26 | 28 |
-
-| Kötélkorong [mm] | 100 | 110 | 120 | 130 | 145 | 155 | 165 |
-
-2. Az 1. ponttól való eltérésként, a kötélkorongok átmérője az acélsodrony átmérőjének hatszorosa lehet, feltéve hogy az acélsodrony nem fut állandóan a tárcsákon.
-
-3. A szerelékek (például villák, szemescsavarok, feszítőcsavarok, gyűrűslemezek, csavarok, gyűrűk és bilincsek) szakítószilárdságának meg kell felelni a hozzájuk kapcsolt álló- vagy futókötélzet szakítószilárdságának.
-
-4. A merevítő- és a csarnakkötelet a hajótest párkányához úgy kell rögzíteni, hogy az a rá ható erőket felvegye.
-
-5. Minden szemhez csak egy bilincs erősíthető a hozzá tartozó merevítő- vagy csarnakkötél mentén.
-
-6. A felhúzókötelek és vitorlarúdtartó kötelek csigasorait szilárdan rögzíteni kell az árbochoz és az erre a célra szolgáló forgószemeknek jó állapotban kell lenniük.
-
-7. A szemescsavarok, kötélbikák, kötélszorítók és kötélzetrögzítő sínveretek rögzítését úgy kell megtervezni, hogy azok ellenálljanak a rájuk ható erőknek.
-
-15a.17 cikk
-
-Vitorlák
-
-1. A vitorlák egyszerű, gyors és biztonságos bevonását biztosítani kell.
-
-2. A vitorlafelületnek meg kell felelnie a hajó típusának és vízkiszorításának.
-
-15a.18 cikk
-
-Felszerelés
-
-1. Az orrvitorlarúddal vagy orrárboccal felszerelt hajóknak rendelkezniük kell orrvitorlahálóval és kellő számú, megfelelő tartó és merevítő eszközzel.
-
-2. Az 1. pont szerinti felszereléstől el lehet tekinteni, ha az orrsudár vagy az orrárboc fel van szerelve megfelelő méretű kézi hámmal és talpallókötéllel, amelyek lehetővé teszik a fedélzeten tartandó biztonsági heveder rögzítését.
-
-[^43]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 10. § (16) bekezdését. A 2. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja szerint módosított szöveg.
+[^48]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. § c) pontja szerint módosított szöveg.
 [^*]: * Kihirdette a 2001. évi XI. törvény
 [^**]: ** Kihirdette a 2003. évi LXV. törvény
 [^***]: *** Kihirdette a 2001. évi X. törvény
 [^*]: * 39/2003. (VI. 13.) GKM rendelet a víziközlekedés rendjéről.
-[^*]: * 39/2003. (VI. 13.) GKM rendelet a víziközlekedés rendjéről
-[^44]: 6/2000. (III. 17.) KHVM rendelet az úszólétesítmények gyógyszerszekrénnyel való felszereléséről és egyes úszólétesítményeken az orvosi szolgálat rendszeresítéséről, 1. számú melléklet II. rész
+[^49]: 6/2000. (III. 17.) KHVM rendelet az úszólétesítmények gyógyszerszekrénnyel való felszereléséről és egyes úszólétesítményeken az orvosi szolgálat rendszeresítéséről, 1. számú melléklet II. rész
