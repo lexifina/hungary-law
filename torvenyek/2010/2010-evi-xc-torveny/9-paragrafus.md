@@ -2,7 +2,7 @@
 
 (1a) Különadó fizetésére köteles
 
-a) az országgyűlési képviselő, ha megbízatása megszűnésével összefüggésben az országgyűlési képviselők javadalmazásáról szóló törvény alapján vagy más jogcímen,
+a) az országgyűlési képviselő és a nemzetiségi szószóló, ha megbízatása megszűnésével összefüggésben az országgyűlési képviselők javadalmazásáról szóló törvény alapján vagy más jogcímen,
 
 b) a polgármester, a főpolgármester, a megyei közgyűlés elnöke (a továbbiakban együtt: polgármester), az alpolgármester, a főpolgármester-helyettes, a megyei közgyűlés alelnöke (a továbbiakban együtt: alpolgármester), ha e jogviszonyának megszűnésével összefüggésben a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény alapján vagy más jogcímen,
 
@@ -14,7 +14,7 @@ a (2) bekezdésben foglalt különadó alapnak minősülő bevételt szerez, kiv
 
 (3) A (2) bekezdésben foglaltaktól eltérően nem minősül a különadó alapjának:
 
-a) az állami vezetők, országgyűlési képviselők, polgármesterek, alpolgármesterek, európai parlamenti képviselők, (fő)jegyzők, a köztulajdonban álló gazdasági társaságok vezető tisztségviselői és felügyelőbizottságának tagjai esetében a (2) bekezdés szerinti bevétel kétmillió forintot meg nem haladó része;
+a) az állami vezetők, országgyűlési képviselők, nemzetiségi szószólók, polgármesterek, alpolgármesterek, európai parlamenti képviselők, (fő)jegyzők, a köztulajdonban álló gazdasági társaságok vezető tisztségviselői és felügyelőbizottságának tagjai esetében a (2) bekezdés szerinti bevétel kétmillió forintot meg nem haladó része;
 
 b) más foglalkoztatott esetében a (2) bekezdés szerinti különadó alapba tartozó bevételnek a hárommillió-ötszázezer forintot meg nem haladó része, valamint a jogviszony megszűnésének évében esedékes szabadság megváltása címén kifizetett bevétel, illetve a jogviszony megszűnésekor a magánszemélyt megillető jubileumi jutalom;
 
