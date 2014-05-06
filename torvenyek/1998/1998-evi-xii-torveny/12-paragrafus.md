@@ -2,7 +2,7 @@
 
 a) a köztársasági elnök, az Alkotmánybíróság elnöke, valamint a Kúria elnöke;
 
-b) az országgyűlési képviselő és az Európai Parlament magyarországi képviselője;
+b) az országgyűlési képviselő, a nemzetiségi szószóló és az Európai Parlament magyarországi képviselője;
 
 c) az alapvető jogok biztosa és helyettese, a Kúria elnökhelyettese, a legfőbb ügyész és helyettesei, az Alkotmánybíróság tagja, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese, az Állami Számvevőszék elnöke és alelnökei, a Magyar Nemzeti Bank elnöke és alelnökei;
 
