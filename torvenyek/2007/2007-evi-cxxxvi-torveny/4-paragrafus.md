@@ -4,7 +4,7 @@
 
 a) az államfő, a kormányfő, a miniszter, az államtitkár,
 
-b) az országgyűlési képviselő,
+b) az országgyűlési képviselő és a nemzetiségi szószóló,
 
 c) az alkotmánybíróság és olyan bírói testület tagja, amelynek ítélete ellen fellebbezésnek helye nincs,
 
