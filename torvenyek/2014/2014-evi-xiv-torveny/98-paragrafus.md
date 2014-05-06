@@ -4,10 +4,10 @@
 
 (2) Az Áht.
 
-a)
+a) 22. § (5) bekezdésében a „ , valamint” szövegrész helyébe az „a központi költségvetésről szóló törvényjavaslat benyújtását követő tíz napon belül,” szöveg,
 
 b)–d)
 
 lép.
 
-(3)
+(3) Hatályát veszti az Áht. 22. § (6)–(8) bekezdése.

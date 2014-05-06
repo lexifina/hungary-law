@@ -1,1 +1,5 @@
-23–25. §
+23. § Az Ogytv. 34. §-a helyébe a következő rendelkezés lép:
+
+„34. § (1) Az Országgyűlés ülésszakait és üléseit a házelnök hívja össze. A házelnök – a 11. § (1) bekezdés a) pontjára is figyelemmel – úgy köteles összehívni az üléseket, hogy az Országgyűlés rendszeres ülésezése során az ülésszakok alatt az ülések ésszerű időtartamban kövessék egymást, biztosítva ezáltal az Országgyűlés Alaptörvényben meghatározott feladatainak maradéktalan ellátását.
+
+(2) Az Országgyűlés ülésének napirendjére vonatkozó javaslatot legkésőbb az ülést megelőző 72 órával, ha egy naptári héten belülre több ülés összehívása szükséges, legkésőbb az ülést megelőző 48 órával korábban közzé kell tenni.”
