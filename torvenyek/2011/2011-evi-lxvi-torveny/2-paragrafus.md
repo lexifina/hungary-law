@@ -1,4 +1,4 @@
-2. § (1) Az Állami Számvevőszék a központi költségvetés szerkezetében önálló fejezet, a fejezet felügyeletét ellátó szerv vezetőjének jogosítványait az elnök gyakorolja.
+2. § (1) Az Állami Számvevőszék a központi költségvetésről szóló törvényben önálló költségvetési fejezetet alkot, a fejezetet irányító szerv jogait az elnök gyakorolja.
 
 (2) Az Állami Számvevőszék a költségvetésére vonatkozó javaslatát és a költségvetésének végrehajtásáról szóló beszámolóját maga állítja össze, és azt a Kormány változtatás nélkül terjeszti be a központi költségvetésről, illetve az annak végrehajtásáról szóló törvényjavaslat részeként az Országgyűlésnek. Az Állami Számvevőszék költségvetését úgy kell megállapítani, hogy ne legyen kevesebb az előző évi központi költségvetésben megállapított összegnél.
 
