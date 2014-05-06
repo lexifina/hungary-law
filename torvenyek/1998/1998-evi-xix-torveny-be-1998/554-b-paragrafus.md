@@ -6,7 +6,7 @@ a) a hivatali visszaélés (Btk. 305. §),
 
 b) a korrupciós bűncselekmények [Btk. 294. § (2) és (3) bekezdés, 297. § és 299–300. §], ha annak elkövetésével
 
-ba) a helyi önkormányzat képviselő-testületének tagja, polgármestere, alpolgármestere, képviselő-testülete hivatalának vezető beosztású dolgozója, országgyűlési képviselő, nemzetiségi szószóló, állami vezető,
+ba) a helyi önkormányzat képviselő-testületének tagja, polgármestere, alpolgármestere, képviselő-testülete hivatalának vezető beosztású dolgozója, országgyűlési képviselő, nemzetiségi szószóló, nemzetiségi szószóló, állami vezető,
 
 bb) a központi költségvetési szerv, a központi államigazgatási szerv, illetve ezek területi szerveinek (a továbbiakban együtt e fejezet alkalmazásában: közigazgatási szerv) vezető beosztású dolgozója gyanúsítható megalapozottan, illetve elkövetőként kizárólag az ebben a pontban felsorolt személyek valamelyike jöhet szóba, vagy a bűncselekményt e személyek vonatkozásában követik el,
 
