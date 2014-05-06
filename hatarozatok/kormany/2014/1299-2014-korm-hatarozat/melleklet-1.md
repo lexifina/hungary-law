@@ -6,7 +6,7 @@
 
 ## 4. egyetért azzal, hogy az Észak-Alföldi Operatív Program 4. prioritása esetében – a prioritás eddigi többlet-kötelezettségvállalásaira tekintettel – a későbbiekben felszabaduló források terhére új projektek támogatása céljából újabb kötelezettséget ne lehessen vállalni,
 
-## 5. visszavonja a regionális operatív programok 2011–2013. évekre szóló akcióterveinek módosításáról és a Nyugat-Dunántúli Operatív Program 5. prioritás keretének növeléséről szóló 2057/2013. (XII. 31.) Korm. határozat 3. mellékletének a 4. prioritásra vonatkozó részét.
+## 5.[^1]
 
 1. melléklet az 1299/2014. (V. 5.) Korm. határozathoz
 
@@ -59,3 +59,5 @@
 | 4.1.6. | Térségi közigazgatási és közszolgáltatási rendszerek informatikai fejlesztése | A konstrukció 2011–2013-ban nem indul. | nemzeti fejlesztési miniszter | közigazgatási és igazságügyi miniszter |
 
 | 4. Prioritás összesen | 9,38 | 9,31 | 1,19 |  |  |  |
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
