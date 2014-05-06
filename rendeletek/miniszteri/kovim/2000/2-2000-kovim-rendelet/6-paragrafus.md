@@ -1,4 +1,4 @@
-6. §[^45] (1) A következő termékek forgalomba hozatalakor azokon fel kell tüntetni a CE megfelelőségi jelölést:
+6. §[^46] (1) A következő termékek forgalomba hozatalakor azokon fel kell tüntetni a CE megfelelőségi jelölést:
 
 a) kedvtelési célú vízijármű, motoros vízi sporteszköz, valamint a 2. számú mellékletben felsorolt részegységek, amennyiben eleget tesznek az 1. számú mellékletben foglalt általános követelményeknek;
 
@@ -12,8 +12,13 @@ c) a motorral egybeépített kipufogórendszerrel rendelkező külmotorok, amenn
 
 (4) Amennyiben a hajózási hatóság vagy a rendőrség vízirendészeti feladatokat ellátó szerve megállapítja, hogy az e rendelet hatálya alá tartozó termék nem felel meg a rendeletben foglalt követelményeknek, az adott termék üzemeltetését megtiltja vagy korlátozza.
 
-(5) Amennyiben a rendelet hatálya alá tartozó és CE jelöléssel ellátott termékről bebizonyosodik, hogy az nem felel meg a rendeletben foglalt követelményeknek, a hajózási hatóság vagy a rendőrség vízirendészeti feladatokat ellátó szerve erről a Fogyasztóvédelmi Főfelügyelőséget tájékoztatja.
+(5)[^47] Amennyiben a rendelet hatálya alá tartozó és CE jelöléssel ellátott termékről bebizonyosodik, hogy az nem felel meg a rendeletben foglalt követelményeknek, a hajózási hatóság vagy a rendőrség vízirendészeti feladatokat ellátó szerve erről a fogyasztóvédelmi hatóságot tájékoztatja.
 
-(6) E rendelet hatálya alá tartozó vízijárművek, illetve részegységeik forgalomba hozatalát megtiltó vagy korlátozó intézkedést indokolni kell. Az intézkedésről az Európai Bizottságot és a többi tagállamot a Fogyasztóvédelmi Főfelügyelőség tájékoztatja.
+(6)[^48] E rendelet hatálya alá tartozó vízijárművek, illetve részegységeik forgalomba hozatalát megtiltó vagy korlátozó intézkedést indokolni kell. Az intézkedésről az Európai Bizottságot és a többi tagállamot a fogyasztóvédelmi hatóság tájékoztatja.
 
-[^45]: A 6. § a 96/2004. (VII. 19.) GKM rendelet 6. §-ával megállapított szöveg.
+(7)[^49] A piacfelügyeleti hatóság a harmonizált szabványokkal szembeni kifogásokról az 1025/2012/EU európai parlamenti és tanácsi rendelet 11. cikke alapján köteles értesíteni az Európai Bizottságot.
+
+[^46]: A 6. § a 96/2004. (VII. 19.) GKM rendelet 6. §-ával megállapított szöveg.
+[^47]: A 6. § (5) bekezdése a 29/2014. (V. 5.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^48]: A 6. § (6) bekezdése a 29/2014. (V. 5.) NFM rendelet 3. § b) pontja szerint módosított szöveg.
+[^49]: A 6. § (7) bekezdését a 29/2014. (V. 5.) NFM rendelet 1. §-a iktatta be.

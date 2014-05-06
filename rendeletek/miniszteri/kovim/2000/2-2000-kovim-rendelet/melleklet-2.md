@@ -1,4 +1,4 @@
-## A rész – A kedvtelési célú vízijárművek és motoros vízi sporteszközök tervezési, építési és felszerelési előírásai[^52]
+## A rész – A kedvtelési célú vízijárművek és motoros vízi sporteszközök tervezési, építési és felszerelési előírásai[^56]
 
 ## 1. Fejezet
 
@@ -8,11 +8,7 @@
 
 ## 1.1. Fogalommeghatározások
 
-## 1.1.1. Csónak – emberi erővel hajtott olyan kedvtelési célú vízijármű, amelynek a hajótesten mért hossza a 20 métert nem éri el, továbbá a szélerővel vagy gépi berendezéssel hajtott olyan kedvtelési célú vízijármű, amelynek hajótesten mért ho1.ssza a 6,2 métert, névleges vitorlafelülete a 10 m2-t, illetve motorteljesítménye 4 kW-t nem éri el;
-
-## 1.1.2. Kishajó – olyan kedvtelési célú vízijármű, amelynek hajótesten mért hossza a 6,2 métert meghaladja, de a 20 métert nem éri el;
-
-## 1.1.3. Nagyhajó – olyan kedvtelési célú vízijármű, amelynek hajótesten mért hossza a 20 métert eléri;
+## 1.1.1.–1.1.3.[^57]
 
 ## 1.1.4. Hajótesten mért hossz (L) – a hajótest legkülső pontjai között a hajóközép (HK) síkjában, a hajótesten túlnyúló tartozékok nélkül mért távolság (1.1.1. ábra);
 
@@ -38,7 +34,7 @@
 
 ## 1.2. A kedvtelési célú vízijárművek kategóriái
 
-## 1.2.1.[^53]
+## 1.2.1.[^58]
 
 ## 1.2.1. Hajózási körzetük és a mértékadó szélerősség, továbbá a mértékadó hullámmagasság függvényében a kedvtelési célú vízijárműveket az alábbi kategóriákba kell sorolni:
 
@@ -64,9 +60,9 @@
 
 ## 1.2.3. A tengeri kedvtelési célú vízijárművek közül a korlátlan hajózási körzetű vízijárműveket az A kategóriába, a parttól 200 tengeri mérföldre eltávolodó vízijárműveket a B kategóriába, a parttól 12 tengeri mérföldre eltávolodó vízijárműveket pedig a C kategóriába kell sorolni.
 
-## 1.2.4.[^54] A kedvtelési célú vízijárművek és vízi sporteszközök szerkezetének, felszerelésének, stabilitásának és úszóképességének, valamint az e mellékletben meghatározott más jellemzőinek biztosítaniuk kell e termékek kategóriabesorolása szerinti igénybevételnek való ellenállást, továbbá jól irányíthatónak kell lenniük.
+## 1.2.4.[^59] A kedvtelési célú vízijárművek és vízi sporteszközök szerkezetének, felszerelésének, stabilitásának és úszóképességének, valamint az e mellékletben meghatározott más jellemzőinek biztosítaniuk kell e termékek kategóriabesorolása szerinti igénybevételnek való ellenállást, továbbá jól irányíthatónak kell lenniük.
 
-## 2. Fejezet[^55]
+## 2. Fejezet[^60]
 
 ## Általános követelmények
 
@@ -74,7 +70,7 @@
 
 ## A kedvtelési célú nagyhajók szerkezetének, felszerelésének, stabilitásának és úszóképességének a belvízi, illetve tengeri nagyhajókra vonatkozó jogszabályoknak vagy kijelölt (elismert) hajóosztályozó társaság előírásainak kell megfelelniük.
 
-## 2.1.[^56] A kedvtelési vízijármű, illetve motoros vízi sporteszköz azonosítása
+## 2.1.[^61] A kedvtelési vízijármű, illetve motoros vízi sporteszköz azonosítása
 
 ## Minden kedvtelési célú vízijárművet, illetve motoros vízi sporteszközt el kell látni azonosítási számmal, amely a következő információkat foglalja magában:
 
@@ -90,7 +86,7 @@
 
 ## 2.2. A hajóépítő táblája
 
-## 2.2.1. Minden vízijárműnek rendelkeznie kell egy állandó jelleggel jól látható helyen felszerelt, a hajótest azonosítási számától különálló táblával,[^57] amely a következő információkat tartalmazza:
+## 2.2.1. Minden vízijárműnek rendelkeznie kell egy állandó jelleggel jól látható helyen felszerelt, a hajótest azonosítási számától különálló táblával,[^62] amely a következő információkat tartalmazza:
 
 ## a) a gyártó neve,
 
@@ -98,7 +94,7 @@
 
 ## c) kategória az 1. fejezet szerint,
 
-## d)[^58] a gyártó által ajánlott legnagyobb terhelés a 3.6. pont szerint, amelybe a feltöltött, rögzített tartályok tömege nem számít bele,
+## d)[^63] a gyártó által ajánlott legnagyobb terhelés a 3.6. pont szerint, amelybe a feltöltött, rögzített tartályok tömege nem számít bele,
 
 ## e) a vízijármű által az út során szállítható személyeknek a gyártó által megállapított száma.
 
@@ -106,7 +102,7 @@
 
 ## 2.2.3. A jelölést nyomtatással, véséssel, vagy beütőbélyeggel, vagy más jól látható módon kell a táblára felvinni.
 
-## 2.3. Védelem a vízbeesés ellen és a visszajutás lehetőségének biztosítása[^59]
+## 2.3. Védelem a vízbeesés ellen és a visszajutás lehetőségének biztosítása[^64]
 
 ## 2.3.1. A vízijárműveket úgy kell megtervezni, hogy a vízbeesés veszélye a minimálisra csökkenjen és a fedélzetre való visszajutás lehetségessé váljon.
 
@@ -178,13 +174,13 @@
 
 ## 2.3.10. Az A és a B kategóriába sorolt vitorlás kishajót, valamint a C kategóriákba sorolt tengeri vitorlás kishajót legalább 2 darab, kötéllel és karabinerrel felszerelt biztonsági hevederrel, továbbá az A és a B kategóriába sorolt vitorlás kishajót Bootsman-székkel kell ellátni.
 
-## 2.4. Látási viszonyok a kormányzás fő helyéről[^60]
+## 2.4. Látási viszonyok a kormányzás fő helyéről[^65]
 
 ## Motoros vízijárművek esetében a szokásos üzemeltetési viszonyok között (sebesség és terhelés) a kezelőnek a kormányzás fő helyéről minden irányban megfelelő kilátással kell rendelkeznie.
 
 ## A megfelelő kilátás ellenőrzését gyakorlati próbával kell ellenőrizni. Az ellenőrzés során a hajón a maximális megengedett utaslétszám tartózkodjon és a kormányzás fő helyéről minden sebességi tartományban megfelelő kilátást kell tapasztalni.
 
-## 2.5. Kezelési kézikönyv[^61]
+## 2.5. Kezelési kézikönyv[^66]
 
 ## A rendelet hatálya alá tartozó vízijárműhöz magyar nyelvű kezelési kézikönyvet kell mellékelni. A kezelési kézikönyv hívja fel a figyelmet a tűz és az elárasztás veszélyére, és tartalmaznia kell a 2.2., 3.6. és 4. bekezdésben felsorolt adatokat, valamint a vízijármű terhelés nélküli tömegét kilogrammban megadva.
 
@@ -198,9 +194,9 @@
 
 ## Szerkezeti épség és szerkezeti követelmények
 
-## 3.1. Szerkezet[^62]
+## 3.1. Szerkezet[^67]
 
-## 3.1.1. A felhasznált anyagok típusának és kombinációjának, valamint az építés módjának biztosítania kell, hogy a vízijármű minden szempontból megfelelő szerkezeti szilárdsággal rendelkezzék. Különös figyelmet kell szentelni az 1. fejezet szerinti tervezési kategóriának, valamint a 3.6. ponttal összhangban a gyártó által előírt maximális terhelésnek. A belvízi nagyhajók szerkezete a Belvízi hajók műszaki felügyeleti előírásainak,[^63] a tengeri nagyhajók szerkezete pedig kijelölt (elismert) hajóosztályozó társaság előírásainak feleljen meg.
+## 3.1.1. A felhasznált anyagok típusának és kombinációjának, valamint az építés módjának biztosítania kell, hogy a vízijármű minden szempontból megfelelő szerkezeti szilárdsággal rendelkezzék. Különös figyelmet kell szentelni az 1. fejezet szerinti tervezési kategóriának, valamint a 3.6. ponttal összhangban a gyártó által előírt maximális terhelésnek. A belvízi nagyhajók szerkezete a Belvízi hajók műszaki felügyeleti előírásainak,[^68] a tengeri nagyhajók szerkezete pedig kijelölt (elismert) hajóosztályozó társaság előírásainak feleljen meg.
 
 ## 3.1.2. Az acélból és alumíniumötvözetből készített hajótest anyagának jól hegeszthetőnek kell lennie. Az építéshez legalább 200 MPa folyáshatárú acél, illetve legalább 70 MPa folyáshatárú alumíniumötvözet használható.
 
@@ -244,7 +240,7 @@
 
 ## 3.1.7. A műanyagból készített hajótestek szerkezete a vonatkozó szabványoknak feleljen meg.
 
-## 3.2. Stabilitás és szabad oldalmagasság[^64]
+## 3.2. Stabilitás és szabad oldalmagasság[^69]
 
 ## 3.2.1. A tengeri vízijárműnek az 1. fejezet szerinti kategóriának és a gyártó által előírt maximális terhelésnek (3.6. pont) megfelelő stabilitással és szabad oldalmagassággal/biztonsági távolsággal kell rendelkeznie.
 
@@ -254,7 +250,7 @@
 
 ## b) a D kategóriánál 0,25 m.
 
-## 3.3. Felhajtóerő és úszóképesség[^65]
+## 3.3. Felhajtóerő és úszóképesség[^70]
 
 ## 3.3.1. A vízijármű megépítésekor biztosítani kell, hogy annak vízkiszorítási jellemzői feleljenek meg az 1.1. pont szerinti kategóriának és a gyártó által a 3.6. pont szerint előírt maximális terhelésnek. Minden lakható, többtörzsű vízijárművet úgy kell megtervezni, hogy az megfelelő felhajtóerővel rendelkezzen ahhoz, hogy felborult állapotban is a felszínen maradjon.
 
@@ -270,7 +266,7 @@
 
 ## n – a csónakba felvehető személyek száma.
 
-## 3.4. Nyílászárók a hajótesten, a fedélzeten és a felépítményen[^66]
+## 3.4. Nyílászárók a hajótesten, a fedélzeten és a felépítményen[^71]
 
 ## A hajótesten, a fedélzet(ek)en és a felépítményen található nyílászáróknak olyanoknak kell lenniük, hogy zárt állapotban ne veszélyeztessék sem a vízijármű szerkezeti szilárdságát, sem pedig annak vízmentességét.
 
@@ -278,7 +274,7 @@
 
 ## A hajótesten átmenő, a víznek a hajótestbe való beáramlására vagy a hajótestből való kiáramlására szolgáló és a gyártó által előírt maximális terhelésnek (3.6. pont) megfelelő merülésvonal alatt elhelyezett szerelvényeket könnyen hozzáférhető elzáró szerkezetekkel kell ellátni.
 
-## 3.5. Elárasztás[^67]
+## 3.5. Elárasztás[^72]
 
 ## 3.5.1. Minden vízijárművet úgy kell megtervezni, hogy az elsüllyedés veszélye minimálisra csökkenthető legyen.
 
@@ -296,7 +292,7 @@
 
 ## – vészhelyzeti eljárások: többlet felhajtóerőt biztosító légszekrények, fenékvízszivattyú.
 
-## 3.6.[^68] A gyártó által előírt maximális terhelés
+## 3.6.[^73] A gyártó által előírt maximális terhelés
 
 ## A gyártó által előírt azon maximális terhelést (üzemanyag-, víz-, élelmiszerkészlet, felszerelések és személyek tömege kilogrammban), amelyre a hajót tervezték, a kategória (1.2. pont), a stabilitás és a szabad oldalmagasság (3.2. pont), továbbá a szükséges felhajtóerő és úszóképesség (3.3. pont) alapján kell meghatározni.
 
@@ -314,7 +310,7 @@
 
 ## 3.7.6. A csónakot 1 darab szapollyal kell ellátni.
 
-## 3.7.7. A kedvtelési célú vízijárművet 12 m testhosszúságig 1. számú, a felett 2. számú egészségügyi mentődobozzal[^69] kell ellátni.
+## 3.7.7. A kedvtelési célú vízijárművet 12 m testhosszúságig 1. számú, a felett 2. számú egészségügyi mentődobozzal[^74] kell ellátni.
 
 ## 3.7.8. Az A és a B kategóriába sorolt kishajót, valamint a C kategóriákba sorolt tengeri kedvtelési célú kishajót 4 darab vörös ejtőernyős rakétával, 4 darab vörös csillagrakétával, 4 darab vörös kézifáklyával, 4 darab narancsszínű füstbójával, továbbá megfelelő kilövő készülékkel kell ellátni.
 
@@ -322,13 +318,13 @@
 
 ## 3.7.10. Az A és a B kategóriába sorolt kishajót, valamint a C kategóriákba sorolt tengeri kedvtelési célú kishajót a 16-os csatorna vételére alkalmas VHF rádiótelefonnal, legalább 2,5 W teljesítményű morzézásra is alkalmas vízmentes jelzőlámpával, legalább 150 X 305 mm csiszolt fém jelzőtükörrel (heliográffal), ködkürttel és radarreflektorral, továbbá az A és a B kategóriába sorolt kishajót Marine SSB rádió adó-vevővel kell ellátni.
 
-## 3.8. Menekülési utak[^70]
+## 3.8. Menekülési utak[^75]
 
 ## 3.8.1. Felborulás esetére minden lakható, többtörzsű, 12 méternél hosszabb vízijárművön megfelelő menekülési utakat kell biztosítani.
 
 ## 3.8.2. Tűz esetére minden lakható vízijárművet megfelelő menekülési lehetőséggel kell ellátni.
 
-## 3.9. Horgonyzás, kikötés és vontatás[^71]
+## 3.9. Horgonyzás, kikötés és vontatás[^76]
 
 ## 3.9.1. Minden vízijárművet – figyelembe véve azok kategóriáját és jellemzőit – el kell látni egy vagy több olyan erős rögzítési ponttal vagy egyéb olyan lehetőséggel, amely alkalmas a horgonyzási, kikötési és vontatási terhelés biztonságos fogadására.
 
@@ -404,7 +400,7 @@
 
 ## 4. Fejezet
 
-## Manőverképesség[^72] és navigációs felszerelések
+## Manőverképesség[^77] és navigációs felszerelések
 
 ## 4.1. A gyártónak biztosítania kell, hogy a vízijármű a tervezésének és építésének megfelelő legkisebb és legnagyobb teljesítményű motor alkalmazása esetén kellő manőverképességgel rendelkezzen. Minden kedvtelési célú tengeri vízijármű esetében a motor maximális névleges teljesítményét a nemzeti szabványként közzétett európai szabványnak megfelelően fel kell tüntetni a kezelési utasításban.
 
@@ -414,7 +410,7 @@
 
 ## Beépítési követelmények
 
-## 5.1. Motorok és motorterek[^73]
+## 5.1. Motorok és motorterek[^78]
 
 ## Beépített motor
 
@@ -432,7 +428,7 @@
 
 ## A motor szabadon álló (fedetlen) mozgó vagy forró részeit, amelyek személyi sérülést okozhatnak, megfelelő módon be kell fedni, kivéve, ha az egész motor le van fedve vagy saját zárt terében található.
 
-## 5.1.4. Külmotorok indítása[^74]
+## 5.1.4. Külmotorok indítása[^79]
 
 ## A külmotorral felszerelt vízijárművet olyan eszközzel kell ellátni, amely megakadályozza a hajócsavarral összekapcsolt állapotban lévő motor indítását, kivéve,
 
@@ -440,17 +436,17 @@
 
 ## b) ha a motor olyan fojtásszabályozó eszközzel rendelkezik, amely a motor beindításakor a tolóerőt 500 N-re korlátozza.
 
-## 5.1.5.[^75] Vezető nélkül haladó motoros vízi sporteszköz
+## 5.1.5.[^80] Vezető nélkül haladó motoros vízi sporteszköz
 
 ## Motoros vízi sporteszközt a vezetőnek a sporteszközről történő leszállása vagy leesése esetén működésbe lépő olyan vezérlő készülékkel kell felszerelni, amely vezető nélkül alkalmas a motoros vízi sporteszköz motorjának leállítására vagy a vízi sporteszköz csökkentett haladási sebességgel történő köröző mozgásban tartására.
 
 ## 5.2. Üzemanyag rendszer
 
-## 5.2.1. Általános követelmények[^76]
+## 5.2.1. Általános követelmények[^81]
 
 ## Az üzemanyagok vételezésére, tárolására, a szellőzésre és az üzemanyag-ellátásra szolgáló eszközöket és berendezéseket úgy kell kialakítani és beépíteni, hogy a tűz- és a robbanásveszély minimálisra mérsékelhető legyen.
 
-## 5.2.2.[^77] Üzemanyagtartályok
+## 5.2.2.[^82] Üzemanyagtartályok
 
 ## Az üzemanyagtartályokat, vezetékeket és csöveket rögzíteni kell, valamint el kell különíteni és meg kell védeni minden jelentős hőforrástól. A tartályok anyaga és kialakítási módja feleljen meg azok térfogatának és a bennük tárolni kívánt üzemanyag típusának. Minden tartálytér szellőzését biztosítani kell.
 
@@ -462,7 +458,7 @@
 
 ## Dízelüzemű motor üzemanyaga olyan tartályban is tárolható, amely a hajótest szerves részét képezi.
 
-## 5.3. Villamos rendszer[^78]
+## 5.3. Villamos rendszer[^83]
 
 ## 5.3.1. A villamos rendszereket úgy kell megtervezni és üzembe állítani, hogy azok a szokásos használati körülmények között biztosítsák a vízijármű megfelelő működését, és csökkentsék a minimumra a tűz és az áramütés veszélyét.
 
@@ -470,7 +466,7 @@
 
 ## 5.3.3. Szellőzést kell biztosítani az akkumulátorokból esetlegesen felszabaduló gázok felhalmozódásának megakadályozására. Az akkumulátorokat szilárdan kell rögzíteni, és meg kell védeni a víz beáramlása ellen.
 
-## 5.4. Kormányrendszer[^79]
+## 5.4. Kormányrendszer[^84]
 
 ## 5.4.1. Általános követelmények
 
@@ -480,7 +476,7 @@
 
 ## A vitorlás és a beépített motorral hajtott egymotoros, távirányítású kormánylapátos kormányrendszerrel rendelkező motoros vízijárművet olyan vészhelyzeti berendezéssel kell ellátni, amelynek segítségével a hajó csökkentett sebességnél kormányozható.
 
-## 5.5. Gázellátó rendszer[^80]
+## 5.5. Gázellátó rendszer[^85]
 
 ## A háztartási gázrendszereknek páraelszívó típusúaknak kell lenniük, és azokat úgy kell kialakítani és beszerelni, hogy a szivárgás és a robbanásveszély elkerülhető legyen, és hogy a rendszerben a szivárgás ellenőrizhető legyen. A felhasznált anyagoknak és alkatrészeknek meg kell felelniük az alkalmazott konkrét gázféleségnek, és alkalmasaknak kell lenniük arra, hogy ellenálljanak a tengeri környezetben előforduló behatásoknak és körülményeknek.
 
@@ -490,33 +486,33 @@
 
 ## Az A és a B kategóriába sorolt vízijárművön, valamint a C kategóriákba sorolt tengeri vízijárművön a tűzhelyet kardán felfüggesztéssel kell felszerelni.
 
-## 5.6. Tűzvédelem[^81]
+## 5.6. Tűzvédelem[^86]
 
 ## Általános követelmények
 
 ## A beszerelt berendezések típusát és a vízijármű térbeosztását a tűz kialakulási és terjedési veszélyének figyelembe vételével kell megválasztani. Különös figyelmet kell fordítani a nyílt lánggal működő eszközök, a forró területek vagy a motorok és azok kisegítő berendezései, az olaj- és üzemanyag-túlfolyók, a fedetlen olaj- és üzemanyagcsövek környezetére, valamint arra, hogy a gépek forró részei fölé ne kerüljenek elektromos vezetékek.
 
-## 5.6.2.[^82] Tűzoltó berendezések
+## 5.6.2.[^87] Tűzoltó berendezések
 
 ## A vízijárművet a tűzveszély mértékének megfelelő tűzoltó berendezéssel kell ellátni, és a tűzveszély mértékének megfelelő tűzoltó berendezés elhelyezését, valamint kapacitását jelezni kell. Vízijármű nem helyezhető üzembe a tűzveszély mértékének megfelelő tűzoltó berendezéssel történő felszerelése hiányában. A benzinmotorok elhelyezésére szolgáló tereket olyan tűzoltó berendezéssel kell ellátni, amely tűz esetén nem teszi szükségessé a motortér kinyitását. A hordozható tűzoltó készülékeknek – ahol ilyeneket felszerelnek – könnyen hozzáférhetőknek kell lenniük, és azokat úgy kell elhelyezni, hogy a vízijármű kormányzásának fő helyéről könnyen elérhetők legyenek.
 
 ## 5.7. Jelzőfények, nappali jelzések és jelző- (kód-) lobogók
 
-## 5.7.1. A belvízi utakon közlekedő vízijármű jelzőfényeinek és nappali jelzéseinek a Hajózási Szabályzat,[^83] a tengeren közlekedő vízijármű jelzőfényeinek és nappali jelzéseinek pedig a tengeren való összeütközések megelőzésére vonatkozó nemzetközi szabályoknak (COLREG)[^84] kell megfelelniük.
+## 5.7.1. A belvízi utakon közlekedő vízijármű jelzőfényeinek és nappali jelzéseinek a Hajózási Szabályzat,[^88] a tengeren közlekedő vízijármű jelzőfényeinek és nappali jelzéseinek pedig a tengeren való összeütközések megelőzésére vonatkozó nemzetközi szabályoknak (COLREG)[^89] kell megfelelniük.
 
 ## 5.7.2. A jelzőfények fröccsenő víz ellen védett kivitelűek legyenek. A színes üvegek anyagukban egyenletesen színezettek legyenek.
 
 ## 5.7.3. A jelzőlámpák villamos üzeműek legyenek. A vízijárművön jelzőlámpánként legalább 1-1 darab tartalék- izzót és elemről táplált fényforrás esetén legalább 2-2 darab tartalékelemet kell tartani.
 
-## 5.7.4. A motorral is felszerelt belvízi vitorlás kishajót 1 darab legalább 0,4 m átmérőjű és legalább 0,4 m kúpmagasságú fekete kúppal[^85] kell felszerelni.
+## 5.7.4. A motorral is felszerelt belvízi vitorlás kishajót 1 darab legalább 0,4 m átmérőjű és legalább 0,4 m kúpmagasságú fekete kúppal[^90] kell felszerelni.
 
-## 5.7.5. A 12 főnél nagyobb befogadóképességű belvízi kishajót 1 darab legalább 0,5 m átmérőjű és legalább 0,8 m kettős kúpmagasságú kettős sárga kúppal[^86] kell felszerelni.
+## 5.7.5. A 12 főnél nagyobb befogadóképességű belvízi kishajót 1 darab legalább 0,5 m átmérőjű és legalább 0,8 m kettős kúpmagasságú kettős sárga kúppal[^91] kell felszerelni.
 
-## 5.7.6. A belvízi vitorlás kishajót el kell látni 1 darab legalább 0,4 X 0,4 m méretű A jelentésű kódlobogóval.[^87]
+## 5.7.6. A belvízi vitorlás kishajót el kell látni 1 darab legalább 0,4 X 0,4 m méretű A jelentésű kódlobogóval.[^92]
 
 ## 5.7.7. Az A kategóriába sorolt kishajót el kell látni teljes kódlobogó készlettel és nemzetközi kódkönyvvel, a B kategóriába sorolt kishajót, valamint a C kategóriába sorolt tengeri kedvtelési célú kishajót pedig az A, D, F, J, K, L, O, U, V, W és X jelentésű kódlobogóval. A kódlobogók mérete legalább 0,38 X 0,305 m legyen.
 
-## 5.8.[^88] Szennyező anyagok kiömlésének megakadályozása
+## 5.8.[^93] Szennyező anyagok kiömlésének megakadályozása
 
 ## A vízijárműveket úgy kell kialakítani, hogy a szennyező anyagoknak (olaj, üzemanyag stb.) a vízbe történő véletlen kiömlése megakadályozható legyen.
 
@@ -530,7 +526,7 @@
 
 ## Ezen kívül minden emberi eredetű hulladékot szállító és a hajótesten áthatoló csövet mechanikusan lezárható vagy lepecsételhető szelepekkel kell ellátni.
 
-## B rész[^89] – Kedvtelési célú vízijármű, illetve motoros vízi sporteszköz belső égésű hajtó motorja kipufogógáz-kibocsátására vonatkozó alapvető követelmények
+## B rész[^94] – Kedvtelési célú vízijármű, illetve motoros vízi sporteszköz belső égésű hajtó motorja kipufogógáz-kibocsátására vonatkozó alapvető követelmények
 
 ## A hajtó motornak meg kell felelnie a kipufogógáz összetételére vonatkozó alábbi követelményeknek.
 
@@ -612,7 +608,7 @@
 
 ## b) tartalmazza a motor nemzeti szabványként közzétett európai szabvány szerint mért teljesítményére vonatkozó tájékoztatást.
 
-## C rész[^90] – A zajkibocsátásra vonatkozó alapvető követelmények
+## C rész[^95] – A zajkibocsátásra vonatkozó alapvető követelmények
 
 ## A beépített motorral vagy a motorral egybeépített kipufogórendszerrel gyártott, illetve anélküli külmotorral felszerelt kedvtelési célú vízijárműnek, illetve motoros vízi sporteszköznek meg kell felelnie a zajkibocsátásra vonatkozó alábbi követelményeknek:
 
@@ -668,42 +664,43 @@
 
 2. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez
 
-[^52]: Az 1. számú melléklet címe a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (1) bekezdésével megállapított szöveg.
-[^53]: Az 1. számú melléklet A rész 1. fejezet 1.2.1. pontja a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (2) bekezdésével megállapított szöveg.
-[^54]: Az 1. számú melléklet A rész 1. fejezet 1.2.4. pontját a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (3) bekezdése iktatta a szövegbe.
-[^55]: Az 1. számú melléklet A rész 2. fejezet bevezető részének első bekezdése a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (4) bekezdésével megállapított szöveg.
-[^56]: Az 1. számú melléklet A rész 2. fejezet 2.1. pontjának címe és első mondata a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (5)–(6) bekezdésével megállapított szöveg.
-[^57]: Vonatkozó szabvány: ISO WD 14945 Kishajók. Hajóépítő táblája.
-[^58]: Az 1. számú melléklet A része 2. Fejezete 2.2.1. pontjának d) alpontja a 102/2005. (XI. 30.) GKM rendelet 6. §-ával megállapított szöveg.
-[^59]: Vonatkozó szabvány: ISO 15085 Kishajók. Vízbeesés elleni védelem és visszajutás.
-[^60]: Vonatkozó szabvány: ISO 11591 Kisgéphajók. Látomező a kormányállásból.
-[^61]: Vonatkozó szabvány: MSZ EN ISO 10240 Kishajók. Kezelési kézikönyv.
-[^62]: Vonatkozó szabvány: ISO 12215–1 Kishajók. A hajótest szerkezete – méretek. 1. rész: Anyagok – hőre keményedő műgyanták, üvegszálerősítés, laminálás. ISO 6185 Hajóépítési és más tengeri szerkezetek. Felfújható csónakok. Újrafelhasznált műanyagokból készült csónakok.
-[^63]: 5/1977. (XII. 3.) KPM rendelet a hajózási műszaki felügyeleti tevékenységre vonatkozó rendelkezéseknek, valamint a tengeri és a belvízi hajók műszaki felügyeleti előírásainak kiadásáról.
-[^64]: Vonatkozó szabvány: ISO 12217 Kishajók. Stabilitás és úszóképesség.
-[^65]: Vonatkozó szabvány: ISO 12217 Kishajók. Stabilitás és úszóképesség. Értékelés és osztályozás. 1. rész: 6 m-nél hosszabb nem vitorlás vízijárművek, 2. rész: 6 m-nél hosszabb vitorlások, 3. rész: 6 m-nél nem hosszabb csónakok.
-[^66]: Vonatkozó szabvány: ISO 9093 Kishajók. Tengervízszelepek és hajótesten átmenő szerelvények. ISO 12216 Kishajók. Ablakok, testablakok, búvónyílások, felülvilágítók és ajtók. Szilárdsági és vízmentességi követelmények.
-[^67]: Vonatkozó szabvány: ISO 11812 Kishajók. Önürítő és vízmentes munkatér. MSZ EN ISO 28849 Kis vízijárművek. Villamos hajtású fenékvízszivattyúk. ISO 15082 Kishajó. Fenékvíz rendszer.
-[^68]: Az 1. számú melléklet A rész 3. fejezet 3.6. pontja a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (8) bekezdésével megállapított szöveg.
-[^69]: Vonatkozó szabvány: MSZ 13553
-[^70]: Vonatkozó szabvány: ISO 9094–1, ISO 9094–2 Tűzvédelem ISO 12216 Kishajók. Ablakok, testablakok, búvónyílások, felülvilágítók és ajtók. Szilárdság és vízmentességi követelmények.
-[^71]: Vonatkozó szabvány: ISO 15084 Kishajók. Horgonyzás, kikötés, vontatás. Rögzítési pontok. MSZ EN 24565 Kishajók horgonyláncai.
-[^72]: Vonatkozó szabvány: MSZ ISO EN 8665 Kishajók. Főüzemi gépek és rendszerek. A teljesítmény mérése és bizonylatolása. ISO 11592 A maximális főgépteljesítmény meghatározása. 8 m-nél rövidebb kisgéphajók.
-[^73]: Vonatkozó szabvány: ISO 11105 Kishajók. Benzinmotorokkat és/vagy benzintartályokat tartalmazó terek szellőzése.
-[^74]: Vonatkozó szabvány: MSZ EN ISO 11547 Kishajók. Sebességfokozatban lévő motor indításgátlása.
-[^75]: Az 1. számú melléklet A rész 5. fejezet 5.1.5. pontját a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (9) bekezdése iktatta a szövegbe.
-[^76]: Vonatkozó szabványok: MSZ EN ISO 7840 Kisméretű vízijárművek. Tűzálló üzemanyagtömlők. MSZ EN ISO 8469 Kisméretű vízijárművek. Nem tűzálló üzemanyagtömlők. ISO 10088 Kishajók. Állandó üzemanyagrendszer és tartályok. ISO 13592 Kishajók. Benzinmotorok visszagyújtás-gátlása. ISO 9094 Kishajók. Tűzvédelem. MSZ EN ISO 28846 Kis vízijárművek. Villamos készülékek. A környező éghető gázok meggyújtása elleni védelem.
-[^77]: Az 1. számú melléklet A rész 5. fejezet 5.2.2. pontja a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (10) bekezdésével megállapított szöveg.
-[^78]: Vonatkozó szabvány: ISO 10133 Kishajók. Villamos berendezések. Törpefeszültségű rendszerek. ISO 13297 Kishajó. Villamos berendezések. Váltakozó áramú rendszerek. ISO NP 15584 Kishajók. Beépített benzinmotorok üzemanyag- és villamos rendszere.
-[^79]: Vonatkozó szabvány: MSZ EN 28847 Kisméretű vízijárművek. Kormányszerkezet. Sodronyköteles és kötéltárcsás rendszerek. MSZ EN 28848 Kis vízijárművek. Távvezérlésű kormányrendszerek. MSZ EN ISO 10592 Kishajók. Hidraulikus kormányberendezések. MSZ EN 29775 Kis vízijárművek Távvezérlésű kormányrendszerek a hajótesten kívüli 15–40 kW teljesítményú egyedi motorokhoz. ISO 13929 Kishajók. Állványos és fogaskerekes kormányhajtás.
-[^80]: Vonatkozó szabvány: ISO 10239 Kishajók. Cseppfolyósított gáz (LPG) rendszerek.
-[^81]: Vonatkozó szabvány: ISO DIS 9094 Kishajók. Tűzvédelem. ISO DIS 9094 1.2. Tűzvédelem. 1. rész: Maximum 15 m hosszú vízijárművek.
-[^82]: Az 1. számú melléklet A rész 5. fejezet 5.6.2. pontja a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (11) bekezdésével megállapított szöveg.
-[^83]: 27/1993. (IX. 23.) KÖVIM rendelet a víziközlekedés rendjéről.
-[^84]: 1977. évi 17. törvényerejű rendelet a tengeren való összeütközések megelőzésére vonatkozó nemzetközi szabályokról szóló egyezmény kihirdetéséről.
-[^85]: Hajózási Szabályzat, 3.30 cikk.
-[^86]: Hajózási Szabályzat, 3.31 cikk.
-[^87]: Hajózási Szabályzat, 19. Melléklet.
-[^88]: Az 1. számú melléklet A rész 5. fejezet 5.8. pontja a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (12) bekezdésével megállapított szöveg.
-[^89]: Az 1. számú melléklet B részét a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (13) bekezdése iktatta a szövegbe.
-[^90]: Az 1. számú melléklet C részét a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (14) bekezdése iktatta a szövegbe.
+[^56]: Az 1. számú melléklet címe a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (1) bekezdésével megállapított szöveg.
+[^57]: Az 1. melléklet A rész 1. Fejezet 1.1. pont 1.1.1.–1.1.3. alpontját a 29/2014. (V. 5.) NFM rendelet 4. §-a hatályon kívül helyezte.
+[^58]: Az 1. számú melléklet A rész 1. fejezet 1.2.1. pontja a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (2) bekezdésével megállapított szöveg.
+[^59]: Az 1. számú melléklet A rész 1. fejezet 1.2.4. pontját a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (3) bekezdése iktatta a szövegbe.
+[^60]: Az 1. számú melléklet A rész 2. fejezet bevezető részének első bekezdése a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (4) bekezdésével megállapított szöveg.
+[^61]: Az 1. számú melléklet A rész 2. fejezet 2.1. pontjának címe és első mondata a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (5)–(6) bekezdésével megállapított szöveg.
+[^62]: Vonatkozó szabvány: ISO WD 14945 Kishajók. Hajóépítő táblája.
+[^63]: Az 1. számú melléklet A része 2. Fejezete 2.2.1. pontjának d) alpontja a 102/2005. (XI. 30.) GKM rendelet 6. §-ával megállapított szöveg.
+[^64]: Vonatkozó szabvány: ISO 15085 Kishajók. Vízbeesés elleni védelem és visszajutás.
+[^65]: Vonatkozó szabvány: ISO 11591 Kisgéphajók. Látomező a kormányállásból.
+[^66]: Vonatkozó szabvány: MSZ EN ISO 10240 Kishajók. Kezelési kézikönyv.
+[^67]: Vonatkozó szabvány: ISO 12215–1 Kishajók. A hajótest szerkezete – méretek. 1. rész: Anyagok – hőre keményedő műgyanták, üvegszálerősítés, laminálás. ISO 6185 Hajóépítési és más tengeri szerkezetek. Felfújható csónakok. Újrafelhasznált műanyagokból készült csónakok.
+[^68]: 5/1977. (XII. 3.) KPM rendelet a hajózási műszaki felügyeleti tevékenységre vonatkozó rendelkezéseknek, valamint a tengeri és a belvízi hajók műszaki felügyeleti előírásainak kiadásáról.
+[^69]: Vonatkozó szabvány: ISO 12217 Kishajók. Stabilitás és úszóképesség.
+[^70]: Vonatkozó szabvány: ISO 12217 Kishajók. Stabilitás és úszóképesség. Értékelés és osztályozás. 1. rész: 6 m-nél hosszabb nem vitorlás vízijárművek, 2. rész: 6 m-nél hosszabb vitorlások, 3. rész: 6 m-nél nem hosszabb csónakok.
+[^71]: Vonatkozó szabvány: ISO 9093 Kishajók. Tengervízszelepek és hajótesten átmenő szerelvények. ISO 12216 Kishajók. Ablakok, testablakok, búvónyílások, felülvilágítók és ajtók. Szilárdsági és vízmentességi követelmények.
+[^72]: Vonatkozó szabvány: ISO 11812 Kishajók. Önürítő és vízmentes munkatér. MSZ EN ISO 28849 Kis vízijárművek. Villamos hajtású fenékvízszivattyúk. ISO 15082 Kishajó. Fenékvíz rendszer.
+[^73]: Az 1. számú melléklet A rész 3. fejezet 3.6. pontja a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (8) bekezdésével megállapított szöveg.
+[^74]: Vonatkozó szabvány: MSZ 13553
+[^75]: Vonatkozó szabvány: ISO 9094–1, ISO 9094–2 Tűzvédelem ISO 12216 Kishajók. Ablakok, testablakok, búvónyílások, felülvilágítók és ajtók. Szilárdság és vízmentességi követelmények.
+[^76]: Vonatkozó szabvány: ISO 15084 Kishajók. Horgonyzás, kikötés, vontatás. Rögzítési pontok. MSZ EN 24565 Kishajók horgonyláncai.
+[^77]: Vonatkozó szabvány: MSZ ISO EN 8665 Kishajók. Főüzemi gépek és rendszerek. A teljesítmény mérése és bizonylatolása. ISO 11592 A maximális főgépteljesítmény meghatározása. 8 m-nél rövidebb kisgéphajók.
+[^78]: Vonatkozó szabvány: ISO 11105 Kishajók. Benzinmotorokkat és/vagy benzintartályokat tartalmazó terek szellőzése.
+[^79]: Vonatkozó szabvány: MSZ EN ISO 11547 Kishajók. Sebességfokozatban lévő motor indításgátlása.
+[^80]: Az 1. számú melléklet A rész 5. fejezet 5.1.5. pontját a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (9) bekezdése iktatta a szövegbe.
+[^81]: Vonatkozó szabványok: MSZ EN ISO 7840 Kisméretű vízijárművek. Tűzálló üzemanyagtömlők. MSZ EN ISO 8469 Kisméretű vízijárművek. Nem tűzálló üzemanyagtömlők. ISO 10088 Kishajók. Állandó üzemanyagrendszer és tartályok. ISO 13592 Kishajók. Benzinmotorok visszagyújtás-gátlása. ISO 9094 Kishajók. Tűzvédelem. MSZ EN ISO 28846 Kis vízijárművek. Villamos készülékek. A környező éghető gázok meggyújtása elleni védelem.
+[^82]: Az 1. számú melléklet A rész 5. fejezet 5.2.2. pontja a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (10) bekezdésével megállapított szöveg.
+[^83]: Vonatkozó szabvány: ISO 10133 Kishajók. Villamos berendezések. Törpefeszültségű rendszerek. ISO 13297 Kishajó. Villamos berendezések. Váltakozó áramú rendszerek. ISO NP 15584 Kishajók. Beépített benzinmotorok üzemanyag- és villamos rendszere.
+[^84]: Vonatkozó szabvány: MSZ EN 28847 Kisméretű vízijárművek. Kormányszerkezet. Sodronyköteles és kötéltárcsás rendszerek. MSZ EN 28848 Kis vízijárművek. Távvezérlésű kormányrendszerek. MSZ EN ISO 10592 Kishajók. Hidraulikus kormányberendezések. MSZ EN 29775 Kis vízijárművek Távvezérlésű kormányrendszerek a hajótesten kívüli 15–40 kW teljesítményú egyedi motorokhoz. ISO 13929 Kishajók. Állványos és fogaskerekes kormányhajtás.
+[^85]: Vonatkozó szabvány: ISO 10239 Kishajók. Cseppfolyósított gáz (LPG) rendszerek.
+[^86]: Vonatkozó szabvány: ISO DIS 9094 Kishajók. Tűzvédelem. ISO DIS 9094 1.2. Tűzvédelem. 1. rész: Maximum 15 m hosszú vízijárművek.
+[^87]: Az 1. számú melléklet A rész 5. fejezet 5.6.2. pontja a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (11) bekezdésével megállapított szöveg.
+[^88]: 27/1993. (IX. 23.) KÖVIM rendelet a víziközlekedés rendjéről.
+[^89]: 1977. évi 17. törvényerejű rendelet a tengeren való összeütközések megelőzésére vonatkozó nemzetközi szabályokról szóló egyezmény kihirdetéséről.
+[^90]: Hajózási Szabályzat, 3.30 cikk.
+[^91]: Hajózási Szabályzat, 3.31 cikk.
+[^92]: Hajózási Szabályzat, 19. Melléklet.
+[^93]: Az 1. számú melléklet A rész 5. fejezet 5.8. pontja a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (12) bekezdésével megállapított szöveg.
+[^94]: Az 1. számú melléklet B részét a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (13) bekezdése iktatta a szövegbe.
+[^95]: Az 1. számú melléklet C részét a 96/2004. (VII. 19.) GKM rendelet 9. §-ának (14) bekezdése iktatta a szövegbe.

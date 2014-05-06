@@ -16,6 +16,6 @@
 
 ## 3. A CE jelölés betűinek azonos magasságúaknak kell lenniük. A jelölés magassága nem lehet kevesebb, mint 5 mm.
 
-5. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^97]
+5. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^102]
 
-[^97]: Az 5. számú melléklet a 37/2000. (XII. 27.) KöViM rendelet 1. §-ának d) pontjával megállapított szöveg.
+[^102]: Az 5. számú melléklet a 37/2000. (XII. 27.) KöViM rendelet 1. §-ának d) pontjával megállapított szöveg.

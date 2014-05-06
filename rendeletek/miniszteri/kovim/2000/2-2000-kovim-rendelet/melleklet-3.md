@@ -8,11 +8,11 @@
 
 ## 3. Kormánykerekek, kormányszerkezetek és horgonylánc-szerelvények.
 
-## 4.[^91] Rögzített beszerelésre szánt üzemanyagtartályok és üzemanyag-vezetékek
+## 4.[^96] Rögzített beszerelésre szánt üzemanyagtartályok és üzemanyag-vezetékek
 
 ## 5. Előre gyártott nyílások és hajóablakok.
 
-3. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^92]
+3. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^97]
 
-[^91]: A 2. számú melléklet 4. pontja a 96/2004. (VII. 19.) GKM rendelet 10. §-ával megállapított szöveg.
-[^92]: A 3. számú melléklet a 37/2000. (XII. 27.) KöViM rendelet 1. §-ának b) pontjával megállapított szöveg.
+[^96]: A 2. számú melléklet 4. pontja a 96/2004. (VII. 19.) GKM rendelet 10. §-ával megállapított szöveg.
+[^97]: A 3. számú melléklet a 37/2000. (XII. 27.) KöViM rendelet 1. §-ának b) pontjával megállapított szöveg.
