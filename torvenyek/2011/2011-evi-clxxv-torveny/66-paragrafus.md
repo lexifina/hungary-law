@@ -2,7 +2,7 @@
 
 a) politikai párt vezető testületének tagja, tisztségviselője,
 
-b) állami vezető, országgyűlési képviselő, az Európai Parlament tagja, megyei (fővárosi), települési önkormányzat képviselő-testületének tagja, polgármester, alpolgármester, Nemzeti Gazdasági és Társadalmi Tanácsban civil szervezetek képviseletét ellátó tag vagy hozzátartozója,
+b) állami vezető, országgyűlési képviselő, nemzetiségi szószóló, az Európai Parlament tagja, megyei (fővárosi), települési önkormányzat képviselő-testületének tagja, polgármester, alpolgármester, Nemzeti Gazdasági és Társadalmi Tanácsban civil szervezetek képviseletét ellátó tag vagy hozzátartozója,
 
 c) a Tanács tagjának vagy a kollégium tagjának hozzátartozója,
 
