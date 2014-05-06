@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-49-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2002-49-20-0L.8 | 49/2002. (XII. 28.) GKM rendelet |
+| 2014-05-06 | 2002-49-20-0L.9 | 48/2009. (IX. 30.) KHEM rendelet |
