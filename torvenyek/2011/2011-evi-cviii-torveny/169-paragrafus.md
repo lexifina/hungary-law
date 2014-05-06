@@ -1,6 +1,6 @@
 169. § (1) Nem lehet a Tanács tagja, aki
 
-a) országgyűlési képviselő;
+a) országgyűlési képviselő vagy nemzetiségi szószóló;
 
 b) büntetett előéletű.
 

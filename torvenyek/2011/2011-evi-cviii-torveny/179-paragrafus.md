@@ -10,7 +10,7 @@
 
 (5) Nem lehet közbeszerzési biztos, aki
 
-a) országgyűlési, helyi önkormányzati képviselő, polgármester, illetőleg kamarai tisztségviselő;
+a) országgyűlési, helyi önkormányzati képviselő, nemzetiségi szószóló, polgármester, illetőleg kamarai tisztségviselő;
 
 b) gazdasági társaságban huszonöt százaléknál, illetőleg huszonöt millió forintnál nagyobb tulajdoni részesedéssel rendelkezik.
 
