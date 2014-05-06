@@ -1,4 +1,4 @@
-96. § (1) A képviselő megbízatásának időtartama alatt – az összeférhetetlenségi eseteket kivéve – munkaviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban állhat, illetve keresőfoglalkozást folytathat.
+96. § (1)
 
 (2) A képviselőt mandátuma igazolásától a munkáltató – a munkavállaló kérésének megfelelően – a képviselői megbízatásának időtartamára vagy annak egy részére köteles fizetés nélküli szabadságban részesíteni.
 

@@ -2,30 +2,12 @@
 
 ## ÖSSZEFÉRHETETLENSÉG ÉS VAGYONNYILATKOZAT-TÉTELI KÖTELEZETTSÉG
 
-## 30. Hivatali összeférhetetlenség
+## 30. Összeférhetetlenség
 
-80. § A képviselő nem lehet
+80. § (1) A képviselői megbízatás – a (2) és (4) bekezdésben meghatározott kivételekkel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő más kereső foglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve – díjazást nem fogadhat el.
 
-a) köztársasági elnök,
+(2) A képviselő miniszterelnöki, miniszteri, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi tisztséget láthat el, illetve az Országgyűlés tisztségviselője lehet.
 
-b) az Alkotmánybíróság tagja,
+(3) A miniszterelnök, miniszter, államtitkár képviselő nem lehet az Országgyűlés tisztségviselője és országgyűlési bizottság tagja.
 
-c) az alapvető jogok biztosa és helyettese,
-
-d) az Állami Számvevőszék elnöke, alelnöke és számvevője,
-
-e) a Magyar Nemzeti Bank elnöke, alelnöke, ügyvezető igazgatója, igazgatóságának tagja,
-
-f) bíró,
-
-g) ügyész,
-
-h) állami vezető – a Kormány tagja és az államtitkár kivételével –,
-
-i) kormányzati szolgálati jogviszonyban vagy közszolgálati jogviszonyban álló személy, közigazgatási szerv munkavállalója,
-
-j) az önkéntes tartalékos szolgálati jogviszony kivételével a honvédek jogállásáról szóló törvény és a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti jogviszonyban álló személy,
-
-k) a Magyar Nemzeti Vagyonkezelő Zrt. alkalmazottja, illetve igazgatóságának vagy felügyelő bizottságának tagja,
-
-l) a Közbeszerzési Hatóság keretében működő Tanács tagja.
+(4) A képviselő főpolgármesteri, főpolgármester-helyettesi, megyei közgyűlési elnöki, megyei közgyűlési alelnöki, polgármesteri, alpolgármesteri, helyi önkormányzati képviselői és nemzetiségi önkormányzati képviselői megbízatást (a továbbiakban együtt: polgármesteri megbízatás) láthat el. A képviselő polgármesteri megbízatásának fennállása alatt a 104. § (1) bekezdésében meghatározott képviselői tiszteletdíjra és – amennyiben nyilatkozata szerint polgármesteri megbízatásával összefüggésben költségtérítésben vagy költségátalányban részesül – üzemanyagkártya használatára nem jogosult.

@@ -1,6 +1,6 @@
 ## 23. Az ülések közvetítése
 
-59. § (1) Az Országgyűlés ülésének, a kinevezésekkel és jelölésekkel kapcsolatos nyilvános országgyűlési bizottsági meghallgatásoknak, valamint a házelnök által – a Házbizottság véleményének kikérését követően – kijelölt egyéb országgyűlési bizottsági üléseknek a közvetítése céljából zártláncú audiovizuális rendszer működik.
+59. § (1) Az Országgyűlés ülésének, a törvényalkotási bizottság ülésének, a kinevezésekkel és jelölésekkel kapcsolatos nyilvános országgyűlési bizottsági meghallgatásoknak, valamint a házelnök által – a Házbizottság véleményének kikérését követően – kijelölt egyéb országgyűlési bizottsági üléseknek a közvetítése céljából zártláncú audiovizuális rendszer működik.
 
 (2) A zártláncú audiovizuális rendszerből kimenő jelet valamennyi médiaszolgáltató számára hozzáférhetővé kell tenni. A rendszerhez való csatlakozás költségei a médiaszolgáltatót terhelik. A zártláncú audiovizuális rendszer kimenő jeléből nyilvánosan elérhető valósidejű, internetes közvetítésre alkalmas jelfolyamot kell képezni, és azt az Országgyűlés honlapján elérhetővé kell tenni.
 

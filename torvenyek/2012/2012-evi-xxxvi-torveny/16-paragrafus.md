@@ -1,4 +1,4 @@
-16. § (1) Az Országgyűlés a megalakulását követően létrehozza állandó bizottságait, amelyek feladatköre alapvetően a kormányzat felépítéséhez igazodik.
+16. § (1) Az Országgyűlés a megalakulását követően létrehozza állandó bizottságait. Az állandó bizottságok feladatköre a kormányzati feladatokhoz igazodik.
 
 (2) Kötelező létrehozni a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottságot, valamint alkotmányügyi kérdésekkel, költségvetéssel, külügyekkel, európai uniós ügyekkel, honvédelemmel, nemzetbiztonsággal, nemzetpolitikával foglalkozó állandó bizottságot.
 

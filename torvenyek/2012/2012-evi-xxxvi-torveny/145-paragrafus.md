@@ -4,7 +4,7 @@
 
 (2) A háznagyot az Országgyűlés első alkalommal 2012. december 31-ig választja meg. A főigazgatót a házelnök első alkalommal 2012. december 31-ig nevezi ki.
 
-(2a) A háznagy javadalmazása megegyezik a miniszternek a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott – alapilletményből, illetménykiegészítésből, vezetői illetménypótlékból álló – illetményével, illetve egyéb, a miniszter részére jogszabályban biztosított juttatással. A háznagyi megbízatás időtartama a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek minősül, illetve nyugdíjra jogosító szolgálati időnek számít.
+(2a)
 
 (3) E törvény hatálybalépését követően az Országgyűlés, az Országház és a Parlament nevét, jelképeit az e törvény hatálybalépése előtti időponttól felhasználó 2012. december 31-ig kérvényezheti a házelnöknél a név-, illetve jelképhasználat engedélyeztetését.
 

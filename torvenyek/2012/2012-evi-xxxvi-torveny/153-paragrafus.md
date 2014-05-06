@@ -1,1 +1,1 @@
-### 153. §
+153. § A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 11. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:

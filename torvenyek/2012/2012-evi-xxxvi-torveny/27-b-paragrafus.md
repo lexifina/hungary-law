@@ -1,0 +1,3 @@
+## 10/B. Beszámoló vagy jelentés bizottsági tárgyalása
+
+27/B. § Ha az Alaptörvény, törvény vagy országgyűlési határozat az Országgyűlésnek történő beszámolási vagy jelentéstételi kötelezettséget ír elő, az Országgyűlés a Házbizottság javaslatára – az alapvető jogok biztosa, a legfőbb ügyész, az Állami Számvevőszék elnöke, a Magyar Nemzeti Bank elnöke beszámolója, a Kormánynak a nemzetiségek helyzetéről és az Alaptörvény 47. cikk (4) bekezdése szerinti esetben készített beszámolója, valamint országgyűlési bizottság jelentése kivételével – a beszámolóról vagy a jelentésről történő határozathozatalra állandó bizottságát felkérheti.

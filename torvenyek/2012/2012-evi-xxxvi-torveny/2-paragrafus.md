@@ -4,7 +4,7 @@
 
 (2) A házelnök
 
-a) képviseli az Országgyűlést a más állami szervekkel, civil és egyéb szervezetekkel való kapcsolatban,
+a) képviseli az Országgyűlést más állami szervekkel, civil és egyéb szervezetekkel való kapcsolatban,
 
 b) képviseli az Országgyűlést a nemzetközi kapcsolatokban, közvetlenül felügyeli az Országgyűlés nemzetközi tevékenységét és meghatározza annak szabályait,
 
@@ -18,7 +18,7 @@ f) megnyitja és részrehajlás nélkül vezeti, majd berekeszti az üléseket; 
 
 g) elnököl a Házbizottság ülésein,
 
-h) összehangolja az országgyűlési bizottságok működését, az e törvényben meghatározottak szerint javaslatot tesz az országgyűlési bizottságok számára, elnevezésére, feladatkörére, tagjainak számára, az elnök, alelnök és a tagok megválasztására és a személyükre vonatkozó változásra,
+h) összehangolja az országgyűlési bizottságok működését, az e törvényben meghatározottak szerint javaslatot tesz az országgyűlési bizottságok számára, elnevezésére, feladatkörére, tagjainak számára, az elnök, alelnök és a tagok megválasztására, valamint a személyükre vonatkozó változásra,
 
 i) előkészítés, illetve intézkedés céljából kiadja a feladatkörrel rendelkező országgyűlési bizottságnak az Országgyűléshez érkezett indítványokat és beadványokat,
 

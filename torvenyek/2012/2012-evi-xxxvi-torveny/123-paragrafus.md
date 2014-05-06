@@ -14,4 +14,6 @@
 
 (4) A főigazgató e törvényben és határozati házszabályi rendelkezésekben meghatározottak szerint közreműködik az Országgyűlés döntéseinek előkészítésében, az e törvényben foglalt kivételekkel gyakorolja a fejezetet irányító szerv hatásköreit az Országgyűlés költségvetési fejezetébe sorolt fejezeti kezelésű előirányzatok és olyan költségvetési szervek tekintetében, amelyek esetében a költségvetési szerv vezetője nem bír fejezetet irányító szervi jogállással.
 
-(5) A főigazgató a háznaggyal azonos javadalmazásban részesül, jogállására egyebekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
+(4a) Az Országgyűlés ülésén a főigazgató által – a házelnök egyetértésével – kijelölt, az Országgyűlés Hivatalával szerződéses jogviszonyban álló személy részt vehet, de nem szólalhat fel.
+
+(5) A főigazgató a képviselői megbízatással nem rendelkező háznaggyal azonos javadalmazásban részesül, jogállására egyebekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.

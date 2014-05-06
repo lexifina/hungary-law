@@ -2,8 +2,12 @@
 
 ## AZ ORSZÁGGYŰLÉSI BIZOTTSÁGOK
 
-14. § Az Országgyűlés országgyűlési bizottságként
+14. § (1) Az Országgyűlés országgyűlési bizottságként
 
-a) állandó bizottságokat és a nemzetiségeket képviselő bizottságot hoz létre, valamint
+a) állandó bizottságokat, törvényalkotási bizottságot és a nemzetiségeket képviselő bizottságot hoz,
 
-b) eseti bizottságot és vizsgálóbizottságot hozhat létre.
+b) eseti bizottságot és vizsgálóbizottságot hozhat
+
+létre.
+
+(2) A bizottság létrehozásáról szóló országgyűlési határozatnak rendelkeznie kell a bizottság megbízatása kezdetének időpontjáról.

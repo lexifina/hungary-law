@@ -10,6 +10,8 @@
 
 (5) A háznagy – a képviselői megbízatás kivételével – más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve – díjazást nem fogadhat el.
 
-(6)
+(6) A képviselői megbízatással rendelkező háznagy javadalmazása megegyezik az alelnök javadalmazásával.
+
+(6a) A képviselői megbízatással nem rendelkező háznagy javadalmazása megegyezik a miniszternek a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, vezetői pótlékából álló illetményének összegével, továbbá a miniszter részére jogszabályban biztosított egyéb juttatással. A képviselői megbízatással nem rendelkező háznagy jogállására – a megbízatás keletkezése és megszűnése, a vagyon-nyilatkozattételi kötelezettség teljesítése, valamint az összeférhetetlenség kivételével – a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
 
 (7) A háznagy a megbízatása keletkezését követő harminc napon belül, azt követően minden évben január 31-ig, valamint a megbízatásának megszűnését követő harminc napon belül a képviselők vagyon-, jövedelem- és gazdasági érdekeltségi nyilatkozatával (a továbbiakban: vagyonnyilatkozat) azonos tartalmú vagyonnyilatkozatot tesz. A vagyonnyilatkozattal kapcsolatos eljárásra a képviselők vagyonnyilatkozatával kapcsolatos eljárásra vonatkozó szabályokat kell alkalmazni.

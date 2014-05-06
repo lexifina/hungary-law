@@ -12,6 +12,8 @@ d) felmentésével,
 
 e) a tisztségről való lemondásával.
 
+(1a) A törvényalkotásért felelős alelnök megbízatása megszűnik akkor is, ha az Országgyűlés nem választja meg a törvényalkotási bizottság elnökévé, illetve ha a törvényalkotási bizottság elnökségére vonatkozó megbízatása a 19. § (1) bekezdés b), e) vagy h) pontja alapján megszűnik.
+
 (2) A háznagy megbízatása megszűnik:
 
 a) az új Országgyűlés megalakulásával,
@@ -24,7 +26,9 @@ d) a tisztségről való lemondásával,
 
 e) összeférhetetlenségének kimondásával.
 
-(3) A házelnök, alelnök, jegyző felmentéséről a Házbizottság javaslata, a háznagy felmentéséről a házelnök javaslata alapján az Országgyűlés vita nélkül határoz. A háznagy felmentésére irányuló javaslatot nem kell indokolni.
+(3) Az alelnök, jegyző felmentéséről a Házbizottság javaslata, a háznagy felmentéséről a házelnök javaslata alapján az Országgyűlés vita nélkül határoz. Az alelnök, a jegyző és a háznagy felmentésére egyebekben a megválasztásra vonatkozó szabályokat kell alkalmazni.
+
+(3a) A házelnök felmentésére a megválasztásra vonatkozó szabályokat kell alkalmazni. A házelnök felmentése napján az Országgyűlés megválasztja az új házelnököt.
 
 (4) Az Országgyűlés tisztségviselője az Országgyűléshez benyújtott írásbeli nyilatkozatával lemondhat megbízatásáról. A lemondást nem kell indokolni, érvényességéhez elfogadó nyilatkozat nem szükséges, a tisztségviselői megbízatás a lemondás benyújtása napján szűnik meg.
 

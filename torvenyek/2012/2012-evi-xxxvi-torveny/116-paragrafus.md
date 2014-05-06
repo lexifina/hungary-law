@@ -1,1 +1,1 @@
-### 116. §
+116. § A képviselőcsoport és a független képviselő által a 113. §-ban és a 114. § (3) bekezdésében meghatározott keret terhére vásárolt tárgyi eszközök az Országgyűlés Hivatala tulajdonát képezik. A képviselőcsoport a képviselőcsoport működésének, a független képviselő a megbízatásának időtartama alatt e tárgyi eszközöket birtokolhatja.
