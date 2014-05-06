@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-161-00-00
 | 2013-08-01 | 2013. évi CXXXI. törvény | 2011-161-00-00.15 |
 | 2013-12-11 | 2013. évi CCVII. törvény | 2011-161-00-00.16 |
 | 2014-01-01 | 2013. évi CCXLIII. törvény | 2011-161-00-00.17 |
+| 2014-05-06 | 2014. évi XIV. törvény | 2011-161-00-00.18 |
