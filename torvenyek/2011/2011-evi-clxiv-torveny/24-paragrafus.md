@@ -6,7 +6,7 @@ b) lemondásával;
 
 c) az Alaptörvény 29. cikk (3) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltésével;
 
-d) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
+d) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
 
 e) összeférhetetlenségének megállapításával (47. §);
 

@@ -8,6 +8,6 @@ b) kinevezését közvetlenül megelőzően alkotmánybíróként, bíróként, 
 
 c) kiemelkedő elméleti jogi jártasságot szerzett a tudomány vagy az oktatás területén, vagy
 
-d) a volt országgyűlési képviselő az országgyűlési képviselői megbízatásának megszűnésekor úgy nyilatkozott, hogy ügyésszé történő ismételt kinevezését kéri, és a kinevezéshez szükséges feltételekkel rendelkezik, ide nem értve a pályaalkalmassági vizsgálaton való részvételt, vagy
+d) a volt országgyűlési képviselő az országgyűlési képviselői megbízatásának, illetve a volt nemzetiségi szószóló a nemzetiségi szószólói megbízatásának megszűnésekor úgy nyilatkozott, hogy ügyésszé történő ismételt kinevezését kéri, és a kinevezéshez szükséges feltételekkel rendelkezik, ide nem értve a pályaalkalmassági vizsgálaton való részvételt, vagy
 
 e) a volt európai parlamenti képviselő az európai parlamenti képviselői megbízatásának megszűnésekor úgy nyilatkozott, hogy ügyésszé történő ismételt kinevezését kéri, és a kinevezéshez szükséges feltételekkel rendelkezik, ide nem értve a pályaalkalmassági vizsgálaton való részvételt.

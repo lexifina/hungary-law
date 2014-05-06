@@ -10,7 +10,7 @@ c) lemondásával;
 
 d) hetvenedik életévének a betöltésével;
 
-e) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetővé (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
+e) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetővé (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
 
 f) összeférhetetlenségének megállapításával (47. §);
 

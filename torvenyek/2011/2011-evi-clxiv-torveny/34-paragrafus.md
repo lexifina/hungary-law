@@ -12,7 +12,7 @@ d) az Alaptörvény 29. cikk (3) bekezdése szerinti általános öregségi nyug
 
 e) rendkívüli lemondásával;
 
-f) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, illetve polgármesterré történő megválasztásával (48. §), továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
+f) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával (48. §), továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
 
 g) összeférhetetlenségének megállapításával;
 
