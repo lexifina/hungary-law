@@ -8,4 +8,6 @@ A Kormány
 
 4. felhívja az oktatásért felelős minisztert, hogy a Megállapodás kihirdetéséről szóló Korm. rendelet tervezetét a Megállapodás szövegének végleges megállapítását követően terjessze a Kormány elé;
 
-5. visszavonja a Magyar Köztársaság Kormánya és Katar Állam Kormánya közötti Kulturális, Oktatási, Tudományos, Ifjúsági és Sport Együttműködési Egyezmény aláírásáról szóló 1087/2003. (VIII. 22.) Korm. határozatot.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
