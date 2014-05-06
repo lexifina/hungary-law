@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-165-00-00
 | 2013-06-21 | 2013. évi XCIV. törvény | 2011-165-00-00.5 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 2011-165-00-00.6 |
 | 2013-07-20 | 2013. évi CXXVIII. törvény | 2011-165-00-00.7 |
+| 2014-05-06 | 2014. évi XIV. törvény | 2011-165-00-00.8 |

@@ -16,7 +16,7 @@ b) a polgárőr szolgálat ellátását meghatározó szolgálati és etikai sza
 
 c) meghatározza a polgárőrség bűnmegelőzési, közlekedésbiztonsági tevékenységének irányait, folyamatos szakmai koordinációval segíti a területi polgárőr szövetségek és polgárőr egyesületek tevékenységét,
 
-d) az Országgyűlés rendészeti ügyekkel foglalkozó bizottsága részére minden év március 31-ig írásos beszámolót készít és a bizottság munkaterve szerint tájékoztatót tart,
+d) az Országgyűlés rendészeti ügyekkel foglalkozó bizottsága részére minden év március 31-ig írásos tájékoztatót készít és a bizottság munkaterve szerint szóbeli tájékoztatót tart,
 
 e) képviseli és védi a polgárőrség, valamint a polgárőrök érdekeit,
 
