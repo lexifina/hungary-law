@@ -48,7 +48,7 @@ e) a háborús és a katonai bűncselekmények esetében a Magyar Honvédség k�
 
 a) a köztársasági elnök,
 
-b) az országgyűlési képviselő és a Magyarországon megválasztott európai parlamenti képviselő,
+b) az országgyűlési képviselő, a nemzetiségi szószóló és a Magyarországon megválasztott európai parlamenti képviselő,
 
 c) az alkotmánybíró,
 
