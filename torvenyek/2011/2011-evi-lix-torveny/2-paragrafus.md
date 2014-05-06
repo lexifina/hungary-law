@@ -1,3 +1,0 @@
-2. § Az Okjtv. a következő 12. §-sal egészül ki:
-
-„12. § E törvénynek az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény módosításáról szóló 2011. évi LIX. törvénnyel (a továbbiakban: Módtv.) megállapított 8. §-át a Módtv. hatálybalépésekor miniszterelnöki biztos képviselőkre is alkalmazni kell.”
