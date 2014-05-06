@@ -64,7 +64,7 @@
 
 ## u) dolgozzon ki a fogyasztók energia- és környezettudatos szemléletének formálására és fejlesztésére irányuló cselekvési tervet; gondoskodjon a fenntartható fejlődéssel és az energiatudatossággal kapcsolatos ismeretek oktatásáról, illetve a médián keresztüli terjesztéséről; hozzon létre a lakosság széles körét elérő energetikai tanácsadó rendszert;
 
-## v) legalább kétévenként készítsen jelentést az energiapolitika megvalósulásáról és annak a 2. pont b) alpontjában meghatározott szakterületekkel történő összhangjáról az Országgyűlés illetékes bizottsága részére, és amennyiben az energiapolitika feltételrendszerében bekövetkezett változások indokolják, egyidejűleg tegyen javaslatokat az Energiastratégia kiigazítására.
+## v)[^2] legalább kétévenként készítsen tájékoztatót az energiapolitika megvalósulásáról és annak a 2. pont b) alpontjában meghatározott szakterületekkel történő összhangjáról az Országgyűlés feladatkörrel rendelkező bizottsága részére, és amennyiben az energiapolitika feltételrendszerében bekövetkezett változások indokolják, egyidejűleg tegyen javaslatokat az Energiastratégia kiigazítására.
 
 ## 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -73,3 +73,5 @@
 1. melléklet a 77/2011. (X. 14.) OGY határozathoz
 
 20114130000077_1
+
+[^2]: A 4. pont v) alpontja a 10/2014. (II. 24.) OGY határozat 161. § (7) bekezdésével megállapított szöveg.
