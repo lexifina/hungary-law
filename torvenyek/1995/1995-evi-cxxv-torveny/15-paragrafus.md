@@ -2,4 +2,4 @@
 
 (2) A Bizottság jogosult a nemzetbiztonsági szolgálatok nem egyedi ügyekkel kapcsolatos tájékoztató jelentéseibe betekinteni.
 
-(3) Ha a nemzetbiztonsági szolgálatok országgyűlési képviselőre vagy vele közös háztartásban élő hozzátartozójára vonatkozóan információgyűjtő tevékenységet kezdenek (folytatnak), e tényről a miniszter haladéktalanul tájékoztatja a Bizottságot. Az ügyben érintett képviselő e tevékenységről nem kaphat tájékoztatást.
+(3) Ha a nemzetbiztonsági szolgálatok országgyűlési képviselőre, nemzetiségi szószólóra vagy vele közös háztartásban élő hozzátartozójára vonatkozóan információgyűjtő tevékenységet kezdenek (folytatnak), e tényről a miniszter haladéktalanul tájékoztatja a Bizottságot. Az ügyben érintett képviselő e tevékenységről nem kaphat tájékoztatást.
