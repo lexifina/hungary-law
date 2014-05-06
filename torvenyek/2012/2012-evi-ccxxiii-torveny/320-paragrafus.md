@@ -1,3 +1,5 @@
+## „b) az országgyűlési képviselő, a nemzetiségi szószóló és a Magyarországon megválasztott európai parlamenti képviselő,”
+
 ## 14. Záró rendelkezések
 
 320. § (1) Ez a törvény – a (2)–(7) bekezdésben foglalt kivételekkel – 2013. január 1-jén lép hatályba.
