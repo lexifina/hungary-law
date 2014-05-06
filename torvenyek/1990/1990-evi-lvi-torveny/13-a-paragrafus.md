@@ -1,1 +1,0 @@
-13/A. § E törvény rendelkezéseit – ha törvény eltérően nem rendelkezik – az Országgyűlésről szóló 2012. évi XXXVI. törvény módosításáról szóló 2013. évi XC. törvény hatálybalépését követően megtartott országgyűlési képviselők általános választása során megválasztott képviselő tekintetében nem kell alkalmazni.
