@@ -14,7 +14,7 @@ b) amelynek alapító okirat szerinti célja kizárólag az (1) bekezdés szerin
 
 (4) A támogatásra jogosult alapítványok támogatásának naptári évre számított összege nem lehet alacsonyabb, mint a központi költségvetésről szóló törvényben a tárgyévet megelőző évben a pártok működését segítő, tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványok támogatására tervezett előirányzatok összege.
 
-(5) A támogatás az alapítványt az azt alapító pártra, valamint e párt jelöltjeire az országgyűlési képviselők utolsó általános választásán leadott szavazatok arányában illeti meg.
+(5) A támogatás az alapítványt az azt alapító pártra, valamint e párt jelöltjeire az országgyűlési képviselők legutóbbi általános választásán leadott szavazatok arányában illeti meg.
 
 (6) A támogatás felosztása szempontjából az országgyűlési képviselők általános választásának eredményét első ízben az Országgyűlés megalakulását követő naptári negyedév első napjától kell figyelembe venni.
 

@@ -8,4 +8,4 @@
 
 (3) Az Állami Számvevőszék kétévenként ellenőrzi azoknak a pártoknak a gazdálkodását, amelyek a központi költségvetésből rendszeres támogatásban részesültek.
 
-(4) Ha az Állami Számvevőszék azt észleli, hogy a párt gazdálkodása körében jogellenesen járt el, felhívja a törvényes állapot helyreállítására. Súlyosabb törvénysértés esetén, vagy ha a párt nem tesz eleget a felhívásnak, az Állami Számvevőszék elnöke indítványozza a bíróság eljárását.
+(4) Ha az Állami Számvevőszék azt észleli, hogy a párt gazdálkodása körében jogellenesen járt el, felhívja a törvényes állapot helyreállítására. Súlyosabb törvénysértés esetén, vagy ha a párt nem tesz eleget a felhívásnak, az Állami Számvevőszék elnöke az ügyész Ectv. 11. § (3) bekezdésének megfelelő eljárását indítványozza.

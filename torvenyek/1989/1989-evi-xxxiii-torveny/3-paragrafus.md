@@ -2,17 +2,27 @@
 
 ## A párt megszűnése
 
-3. § (1) A párt megszűnhet:
+3. § (1) A párt jogutóddal szűnik meg, ha
 
-a) más párttal való egyesüléssel,
+a) más párttal összeolvad,
 
-b) két vagy több pártra való szétválással,
+b) más pártba beolvad, vagy
 
-c) feloszlással,
+c) több pártra válik külön.
 
-d) a bíróság által való feloszlatással vagy
+(1a) A párt jogutód nélkül szűnik meg, ha
 
-e) megszűnésének megállapításával.
+a) feloszlik,
+
+b) a bíróság feloszlatja,
+
+c) a bíróság megszünteti, vagy
+
+d) a bíróság megállapítja megszűnését,
+
+és a párt vagyoni viszonyainak lezárására irányuló megfelelő eljárás lefolytatását követően a bíróság a pártot a nyilvántartásból törli.
+
+(1b) Pártból való kiválás esetén jogutód csak párt lehet.
 
 (2) A bíróság az ügyészség indítványára megállapítja a párt megszűnését, ha az tevékenységével felhagy és vagyonáról nem rendelkezik.
 
@@ -35,3 +45,5 @@ a) az alapítvány nyilvántartásba vételét, vagy
 b) azt a tényt, hogy a hitelezők kielégítése után vagyona nem maradt, vagy
 
 c) hogy fennmaradó vagyonát a 8. § (1) bekezdése szerinti alapítvány tulajdonába adta.
+
+(8) A bíróság a párt bírósági nyilvántartásból való törléséről rendelkező jogerős határozatáról értesíti az Országgyűlés elnökét.

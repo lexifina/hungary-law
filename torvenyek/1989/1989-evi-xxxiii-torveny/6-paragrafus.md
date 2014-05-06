@@ -1,10 +1,10 @@
-6. § (1) A párt a költségeinek fedezése és vagyonának gyarapítása érdekében a következő gazdálkodó tevékenységeket folytathatja:
+6. § (1) A párt a költségeinek fedezése és vagyonának gyarapítása érdekében a következő gazdasági-vállalkozási tevékenységeket folytathatja:
 
 a) politikai céljainak és tevékenységének megismertetése érdekében kiadványokat jelentethet meg és terjeszthet, a pártot szimbolizáló jelvényeket és más ilyen célú tárgyakat árusíthat, és pártrendezvényeket szervezhet;
 
 b) a tulajdonában álló ingatlanokat és ingókat díj ellenében hasznosíthatja és elidegenítheti.
 
-(2) A pártnak az (1) bekezdésben említett gazdálkodó tevékenysége után társasági adót nem kell fizetnie.
+(2) A pártnak az (1) bekezdésben említett gazdasági-vállalkozási tevékenysége után társasági adót nem kell fizetnie.
 
 (3) A párt egyszemélyes korlátolt felelősségű társaságot alapíthat, azonban más gazdasági társaságban részesedést nem szerezhet.
 

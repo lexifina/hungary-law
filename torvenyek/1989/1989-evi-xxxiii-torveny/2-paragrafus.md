@@ -8,8 +8,8 @@
 
 (3) Párt alapítója és tisztségviselője csak olyan személy lehet, aki az országgyűlési képviselők választásán vagy a helyi önkormányzati képviselők és polgármesterek választásán választható.
 
-(4) A párt tagja a párt szervei által hozott határozat ellen csak az egyesülési jogról szóló törvény és a Polgári törvénykönyv egyesületekre vonatkozó rendelkezései, vagy e törvény megsértése esetén indíthat pert.
+(4) A párt tagja a párt szervei által hozott határozat ellen csak az Ectv. és a Polgári törvénykönyv egyesületekre vonatkozó rendelkezései, vagy e törvény megsértése esetén indíthat pert.
 
-(5) A párt törvénysértése esetén az ügyész keresetet indít a párt ellen.
+(5) Az ügyész törvényességi ellenőrzési jogkörét a pártok működése felett az e törvényben meghatározottak szerint gyakorolja. A párt törvénysértése esetén az ügyész keresetet indít a párt ellen.
 
 (6)

@@ -2,7 +2,7 @@
 
 törvényhez
 
-A pártok beszámolója
+Pénzügyi kimutatás
 
 Bevételek:
 
