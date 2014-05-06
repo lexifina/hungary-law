@@ -15,3 +15,7 @@ b) a RIS-üzemeltető által az adat megismerésére és kezelésére jogosult h
 (5) A RIS-adatokhoz történő hozzáférés rendjét a RIS-üzemeltető a folyami információs szolgáltatásokról szóló honlapon teszi közzé.
 
 (6) Víziközlekedési balesettel vagy rendkívüli hajózási eseménnyel összefüggő adat megőrzéséről a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvény rendelkezései szerint kell gondoskodni.
+
+(7)[^3] A RIS üzemeltető a RIS-adatokat – a (6) bekezdésben foglaltak kivételével – a keletkezésüktől számított öt évig köteles tárolni.
+
+[^3]: A 6. § (7) bekezdését a) pontja a 29/2014. (V. 5.) NFM rendelet 24. §-a iktatta be.
