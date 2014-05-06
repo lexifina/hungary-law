@@ -26,8 +26,9 @@ A fentiekre tekintettel az Országgyűlés felkéri a Kormányt, hogy
 
 3. a Nemzeti Tehetség Alap forrásrendszerére és működésére vonatkozó javaslatát a szakmai szervezetekkel történt egyeztetést követően 2008. szeptember 30-ig terjessze az Országgyűlés elé,[^4]
 
-4. kétévente készítsen jelentést a Nemzeti Tehetség Program helyzetéről, a fejlesztés feladatairól.
+4.[^5] kétévente tájékoztassa az Országgyűlést a Nemzeti Tehetség Program helyzetéről, a fejlesztés feladatairól.
 
 [^2]: Lásd a 126/2008. (XII. 4.) OGY határozatot.
 [^3]: Lásd a 126/2008. (XII. 4.) OGY határozatot.
 [^4]: Lásd a 126/2008. (XII. 4.) OGY határozatot.
+[^5]: A 4. pont a 10/2014. (II. 24.) OGY határozat 161. § (39 bekezdésével megállapított szöveg.
