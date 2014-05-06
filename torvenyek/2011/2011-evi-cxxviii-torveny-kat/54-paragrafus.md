@@ -16,7 +16,7 @@ g) aki munkaképességét legalább 67%-ban elvesztette vagy aki egészségi ál
 
 (2) A polgári védelmi kötelezettségét munkaköre ellátásával, közmegbízatása gyakorlásával teljesíti:
 
-a) az országgyűlési képviselő,
+a) az országgyűlési képviselő és a nemzetiségi szószóló,
 
 b) az európai parlamenti képviselő,
 
