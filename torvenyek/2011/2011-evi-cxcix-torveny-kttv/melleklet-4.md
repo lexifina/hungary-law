@@ -69,9 +69,3 @@
 4. melléklet a 2011. évi CXCIX. törvényhez
 
 A toborzási adatbázis adatköre
-
-## I.
-
-## 1. családi és utónév
-
-## 2. születési hely, idő

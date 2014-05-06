@@ -18,7 +18,7 @@ d) a feladat teljesítésének helye nem szükséges, hogy a közigazgatási sze
 
 (6) Az (5) bekezdés alkalmazása szempontjából az 1992. július 1-jét megelőzően munkaviszonyban töltött időként jogszabály alapján elismert időtartamból – tekintet nélkül arra, hogy annak ideje alatt munkavégzésre irányuló jogviszony fennállt-e, vagy ilyen jogviszony fennállása esetén érvényesült-e munkavégzési kötelezettség – hat hónapot be kell számítani.
 
-(7) Az országgyűlési, az európai parlamenti, az önkormányzati képviselői és a polgármesteri megbízatás időtartamát – ha e megbízatás megszűnését követően a köztisztviselő ismételten közszolgálati jogviszonyt, illetve a kormánytisztviselő kormányzati szolgálati jogviszonyt létesít – a közszolgálati, illetve kormányzati szolgálati jogviszonyban töltött időnek kell tekinteni.
+(7) Az országgyűlési, az európai parlamenti, az önkormányzati képviselői, a nemzetiségi szószólói és a polgármesteri megbízatás időtartamát – ha e megbízatás megszűnését követően a köztisztviselő ismételten közszolgálati jogviszonyt, illetve a kormánytisztviselő kormányzati szolgálati jogviszonyt létesít – a közszolgálati, illetve kormányzati szolgálati jogviszonyban töltött időnek kell tekinteni.
 
 (8) A közszolgálati tisztviselő besorolásánál (116. §) az önkéntes tartalékos tényleges katonai szolgálatteljesítés idejét kétszeres időtartammal kell figyelembe venni.
 

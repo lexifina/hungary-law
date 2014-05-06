@@ -6,7 +6,7 @@ b) ha az országgyűlési képviselők választásán már nem választható,
 
 c) összeférhetetlenségének megállapításával, vagy
 
-d) országgyűlési, helyi önkormányzati képviselővé, polgármesterré, politikai vezetővé vagy érdek-képviseleti szervezet tisztségviselőjévé történő megválasztásával, illetve kinevezésével,
+d) országgyűlési, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, polgármesterré, politikai vezetővé vagy érdek-képviseleti szervezet tisztségviselőjévé történő megválasztásával, illetve kinevezésével,
 
 e) hivatalvesztés fegyelmi büntetéssel.
 
