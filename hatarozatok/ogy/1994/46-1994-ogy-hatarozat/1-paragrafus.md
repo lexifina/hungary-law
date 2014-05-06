@@ -1,3 +1,0 @@
-## I. RÉSZ
-
-## AZ ORSZÁGGYŰLÉS MEGALAKULÁSA

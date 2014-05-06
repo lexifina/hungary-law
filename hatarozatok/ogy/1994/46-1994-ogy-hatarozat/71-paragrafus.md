@@ -1,1 +1,0 @@
-## A bizottsági ülésre meghívottak

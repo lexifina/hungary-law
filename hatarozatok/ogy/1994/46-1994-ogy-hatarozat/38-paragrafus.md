@@ -1,7 +1,0 @@
-## IV. RÉSZ
-
-## AZ ORSZÁGGYŰLÉS TÁRGYALÁSI RENDJE
-
-## 1. Fejezet
-
-## ÁLTALÁNOS SZABÁLYOK
