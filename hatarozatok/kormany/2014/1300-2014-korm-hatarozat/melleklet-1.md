@@ -28,6 +28,8 @@
 
 ## Határidő: azonnal
 
-## 6. visszavonja az Észak-Magyarországi Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról szóló 1183/2014. (III. 27.) Korm. határozat 1. pontját és 1. mellékletét.
+## 6.[^1]
 
 1. melléklet az 1300/2014. (V. 5.) Korm. határozathoz
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
