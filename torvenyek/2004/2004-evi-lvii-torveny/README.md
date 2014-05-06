@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-57-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 2004-57-00-00.14 |
 | 2013-10-22 | 2013. évi CLXIV. törvény | 2004-57-00-00.15 |
 | 2013-12-11 | 2013. évi CCVII. törvény | 2004-57-00-00.16 |
+| 2014-05-06 | 2012. évi XXXVI. törvény | 2004-57-00-00.17 |

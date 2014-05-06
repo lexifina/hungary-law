@@ -32,7 +32,7 @@ a) az Európai Unió más tagállama kormányának, parlamentjének tagja,
 
 b) köztársasági elnök,
 
-c) országgyűlési képviselő,
+c) országgyűlési képviselő, nemzetiségi szószóló,
 
 d) a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár,
 
