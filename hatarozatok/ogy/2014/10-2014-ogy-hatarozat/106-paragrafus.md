@@ -1,0 +1,1 @@
+106. § A bevett egyház törvényben meghatározott okok szerinti megszűnése és – a bevett egyházak törvényben meghatározott jegyzékét érintő – átalakulása esetén a Kormány által ezzel összefüggésben benyújtott törvényjavaslat tárgyalására a 105. § (2)–(12) bekezdését kell alkalmazni azzal, hogy ebben az eljárásban országgyűlési határozati javaslat benyújtására nem kerül sor.

@@ -1,0 +1,19 @@
+## 27. Vita lezárása
+
+39. § (1) Ha az indítványhoz valamennyi képviselőcsoportnak, az elsőként szólásra jelentkezett független képviselőnek, valamint – a nemzetiségek érdekeit, jogait érintő napirendi pont esetében – a nemzetiségeket képviselő bizottság által felkért nemzetiségi képviselőnek vagy szószólónak lehetősége volt álláspontja kifejtésére, az indítvány előterjesztője vagy legalább öt képviselő írásban javasolhatja a vita lezárását. Az Országgyűlés e kérdésben vita nélkül határoz.
+
+(2) Ha az Országgyűlés a vitát lezárta,
+
+a) képviselőcsoportonként egy képviselő,
+
+b) a nemzetiségek érdekeit, jogait érintő napirendi pont esetében az elsőként szólásra jelentkező nemzetiségi képviselő,
+
+c) az elsőként szólásra jelentkező független képviselő, majd
+
+d) a nemzetiségek érdekeit, jogait érintő napirendi pont esetében – ha nemzetiségi képviselő nem szólalt fel – az elsőként szólásra jelentkező szószóló
+
+legfeljebb öt-ötperces időtartamban még felszólalhat.
+
+(3) A (2) bekezdés szerinti felszólalásokat követően az előterjesztő tizenöt perces időtartamban zárszót mondhat, amelynek során válaszolhat a vitában elhangzottakra.
+
+(4) Időkeretes tárgyalási rendben az (1)–(3) bekezdés nem alkalmazható.

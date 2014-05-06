@@ -1,0 +1,1 @@
+77. § Az 56. § (1) bekezdésének alkalmazásával megszavazott törvény normakontrolljának kezdeményezése esetén az előterjesztő az elfogadott törvény szövegét – kézjegyével ellátva – a kezdeményezés benyújtását követő napon megküldi a házelnöknek.

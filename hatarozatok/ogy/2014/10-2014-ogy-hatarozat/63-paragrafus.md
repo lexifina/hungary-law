@@ -1,0 +1,7 @@
+63. § (1) Az összevont vitára legkorábban a kivételes eljárás elrendelését követő ülésnapon kerülhet sor.
+
+(2) Az összevont vitában elsőként a törvényjavaslat előterjesztője, majd – ha nem a Kormány az előterjesztő – a Kormány képviselője szólal fel tizenöt-tizenöt perces időtartamban. Ezt követően a törvényalkotási bizottság által kijelölt előadó, majd – ha a törvényalkotási bizottságban van kisebbségi vélemény – a kisebbségi vélemény előadója szólal fel. A bizottsági felszólalásokra összesen tizenöt perc áll rendelkezésre oly módon, hogy amennyiben van kisebbségi vélemény, hét percet annak kifejtésére kell biztosítani.
+
+(3) A képviselőcsoportok álláspontjukat harminc-harmincperces időtartamban fejthetik ki. A független képviselők összesen nyolcperces időtartamban szólalhatnak fel. A nemzetiségek érdekeit, jogait érintő napirendi pont esetében a nemzetiségeket képviselő bizottság által felkért nemzetiségi képviselő vagy szószóló felszólalására nyolcperces időtartam áll rendelkezésre. Vita közben a kétperces hozzászólalásokat bele kell számítani az időtartamba. Az előterjesztőnek a határozathozatal előtt tízperces viszonválaszra van joga.
+
+(4) Ha a törvényalkotási bizottság a 62. § (10) bekezdése szerinti módosító javaslatot is benyújtott, a vita arra is kiterjed, hogy ez a módosító javaslat valamely szabályszerű módosító javaslat tartalmával való összefüggése vagy a 44. § (1) bekezdésében meghatározott szempontok érvényesítése miatt nyilvánvalóan szükséges-e.

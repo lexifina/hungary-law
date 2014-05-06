@@ -1,0 +1,3 @@
+64. § (1) Az összevont vita lezárását követően az Országgyűlés dönt az összegző módosító javaslatról, majd zárószavazást tart a törvényjavaslatnak az összegző módosító javaslattal módosított szövegéről. A zárószavazás elhalasztására az általános szabályok szerint kerülhet sor.
+
+(2) Ha a törvényalkotási bizottság a 62. § (10) bekezdése szerinti módosító javaslatot is benyújtott, az Országgyűlés az összegző módosító javaslatról történő határozathozatalt követően dönt a túlterjeszkedő módosító javaslat szabályszerűségéről és elfogadásáról. Több, egymástól eltérő szavazati arányt igénylő túlterjeszkedő módosító javaslat esetén a törvényalkotási bizottság ezeket külön-külön nyújtja be.
