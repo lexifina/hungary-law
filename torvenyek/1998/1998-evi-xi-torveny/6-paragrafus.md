@@ -16,7 +16,7 @@ c) a nem igazságügyi szakértői tevékenység,
 
 d) a választottbírói tevékenység,
 
-e) az országgyűlési, európai parlamenti, helyi önkormányzati képviselői jogviszony,
+e) az országgyűlési, európai parlamenti, helyi önkormányzati képviselői és a nemzetiségi szószólói jogviszony,
 
 f) a munkaviszony nélküli igazgatósági és felügyelőbizottsági tagság,
 
