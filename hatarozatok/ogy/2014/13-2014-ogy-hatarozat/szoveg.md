@@ -476,54 +476,6 @@ dr. Schiffer András (LMP)
 
 4. Ez a határozat az elfogadásakor lép hatályba.
 
-5. Hatályát veszti
+5.[^2]
 
-a) az Országgyűlés bizottságainak létrehozásáról, tisztségviselőinek és tagjainak megválasztásáról szóló 23/2010. (V. 14.) OGY határozat;
-
-b) a műsorterjesztés és a digitális átállás szabályairól szóló törvényben meghatározott pályázati eljárás országgyűlési ellenőrzését szolgáló eseti bizottság felállításáról szóló 29/2010. (VI. 3.) OGY határozat;
-
-c) a műsorterjesztés és a digitális átállás szabályairól szóló törvényben meghatározott pályázati eljárás országgyűlési ellenőrzését szolgáló eseti bizottság tisztségviselőinek és tagjainak megválasztásáról szóló 31/2010. (VI. 11.) OGY határozat;
-
-d) az Állami Számvevőszék elnökét és alelnökeit jelölő eseti bizottság létrehozásáról szóló 34/2010. (VI. 16.) OGY határozat;
-
-e) az Állami Számvevőszék elnökét és alelnökeit jelölő eseti bizottság tisztségviselőinek és tagjainak megválasztásáról szóló 35/2010. (VI. 16.) OGY határozat;
-
-f) az Alkotmányelőkészítő eseti bizottság létrehozásáról szóló 47/2010. (VI. 29.) OGY határozat;
-
-g) az Alkotmányelőkészítő eseti bizottság tisztségviselőinek és tagjainak megválasztásáról szóló 50/2010. (VII. 6.) OGY határozat;
-
-h) az Alkotmánybíróság tagjait jelölő eseti bizottság létrehozásáról szóló 52/2010. (VII. 14.) OGY határozat;
-
-i) az Alkotmánybíróság tagjait jelölő eseti bizottság tisztségviselőinek és tagjainak megválasztásáról szóló 53/2010. (VII. 14.) OGY határozat;
-
-j) a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa tagjait jelölő eseti bizottság felállításáról szóló 81/2010. (IX. 15.) OGY határozat;
-
-k) a Nemzeti Média- és Hírközlési Hatóság Médiatanácsának tagjait jelölő eseti bizottság tisztségviselőinek és tagjainak megválasztásáról szóló 92/2010. (X. 8.) OGY határozat;
-
-l) „a Magyar Államvasutak Zrt. jelenlegi gazdasági helyzetéhez vezető, 2002–2010 közötti – kiemelten a MÁV Zrt. szerkezetátalakítására és a leánytársaságok privatizációjára vonatkozó – döntések vizsgálatára” országgyűlési vizsgálóbizottság létrehozásáról szóló 115/2010. (XI. 25.) OGY határozat;
-
-m) a Magyar Államvasutak Zrt. jelenlegi gazdasági helyzetéhez vezető, 2002–2010 közötti – kiemelten a MÁV Zrt. szerkezetátalakítására és a leánytársaságok privatizációjára vonatkozó – döntések vizsgálatára létrehozott országgyűlési vizsgálóbizottság tisztségviselőinek és tagjainak megválasztásáról szóló 116/2010. (XI. 25.) OGY határozat;
-
-n) a Kolontár melletti vörösiszap-tározó átszakadása miatt bekövetkezett környezeti katasztrófával kapcsolatos felelősség feltárását és a hasonló katasztrófák jövőbeni megakadályozását célzó országgyűlési vizsgálóbizottság felállításáról szóló 117/2010. (XI. 30.) OGY határozat;
-
-o) a Kolontár melletti vörösiszap-tározó átszakadása miatt bekövetkezett környezeti katasztrófával kapcsolatos felelősség feltárását és a hasonló katasztrófák jövőbeni megakadályozását célzó országgyűlési vizsgálóbizottság tisztségviselőinek és tagjainak megválasztásáról szóló 120/2010. (XII. 7.) OGY határozat;
-
-p) az egyenruhás bűnözés folyamatát, hátterét és a gyöngyöspatai eseményeket feltáró, valamint az egyenruhás bűnözés felszámolását elősegítő eseti bizottság felállításáról szóló 34/2011. (VI. 7.) OGY határozat;
-
-q) az egyenruhás bűnözés folyamatát, hátterét és a gyöngyöspatai eseményeket feltáró, valamint az egyenruhás bűnözés felszámolását elősegítő eseti bizottság tisztségviselőinek és tagjainak megválasztásáról szóló 39/2011. (VI. 24.) OGY határozat;
-
-r) a cukorgyárak privatizációját, valamint Magyarország Európai Unióhoz történő csatlakozása óta a közösségi cukorreformok során képviselt magyar álláspontot értékelő, és annak itthoni következményeit feltáró vizsgálóbizottság felállításáról szóló 54/2011. (VI. 29.) OGY határozat;
-
-s) a cukorgyárak privatizációját, valamint Magyarország Európai Unióhoz történő csatlakozása óta a közösségi cukorreformok során képviselt magyar álláspontot értékelő, és annak itthoni következményeit feltáró vizsgálóbizottság tisztségviselőinek és tagjainak megválasztásáról szóló 59/2011. (VII. 7.) OGY határozat;
-
-t) az „Innovációs és fejlesztési eseti bizottság” létrehozásáról szóló 76/2011. (X. 14.) OGY határozat;
-
-u) az Innovációs és fejlesztési eseti bizottság tisztségviselőinek és tagjainak megválasztásáról szóló 81/2011. (X. 28.) OGY határozat;
-
-v) a MALÉV Zrt. és a Budapest Airport Zrt. szocialisták és szabad demokraták általi privatizációjának körülményeit, továbbá a MALÉV Zrt. visszaállamosításának folyamatát, valamint jelenlegi fizetésképtelenségét és felszámolását előidéző, 2002–2010 között meghozott intézkedéseket, illetve az ebben az időszakban felmerülő döntéshozói felelősség kérdéskörét vizsgáló bizottság felállításáról szóló 19/2012. (III. 14.) OGY határozat;
-
-w) a VOLÁNBUSZ Zrt. 2003-ban megalkotott reorganizációs programja végrehajtásának körülményeit vizsgáló bizottság felállításáról szóló 22/2012. (III. 20.) OGY határozat;
-
-x) a MALÉV Zrt. és a Budapest Airport Zrt. szocialisták és szabad demokraták általi privatizációjának körülményeit, továbbá a MALÉV Zrt. visszaállamosításának folyamatát, valamint jelenlegi fizetésképtelenségét és felszámolását előidéző, 2002–2010 között meghozott intézkedéseket, illetve az ebben az időszakban felmerülő döntéshozói felelősség kérdéskörét vizsgáló bizottság tisztségviselőinek és tagjainak megválasztásáról szóló 24/2012. (III. 28.) OGY határozat;
-
-y) a VOLÁNBUSZ Zrt. 2003-ban megalkotott reorganizációs programja végrehajtásának körülményeit vizsgáló bizottság tisztségviselőinek és tagjainak megválasztásáról szóló 29/2012. (IV. 3.) OGY határozat.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
