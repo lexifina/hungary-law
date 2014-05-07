@@ -4,20 +4,22 @@
 
 1–35.[^3]
 
-36. 119. § (1) bekezdésében az „időpontban hetente” szövegrész helyébe az „időpontban” szöveg,
+36.[^4]
 
-37–45.[^4]
+37–45.[^5]
 
-46.[^5]
+46.[^6]
 
-47–48.[^6]
+47–48.[^7]
 
-49. 14. § (1) bekezdésében és 17. § (1) bekezdés a) pontjában a „tizenkét” szövegrész helyébe az „öt” szöveg
+49.[^8]
 
 lép.
 
 [^2]: Az 1–72. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 73. § 1–35. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 73. § 37–45. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 73. § 46. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 73. § 47–48. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 73. § 36. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 73. § 37–45. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 73. § 46. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 73. § 47–48. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 73. § 49. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
