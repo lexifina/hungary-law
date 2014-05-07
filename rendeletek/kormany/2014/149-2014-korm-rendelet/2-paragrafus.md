@@ -1,0 +1,3 @@
+## 1. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 176. §-a a következő (1b) bekezdéssel egészül ki:
+
+## „(1b) Az állami felsőoktatási intézménynél a 12. § (1) bekezdés a) és b) pontjában meghatározott feltétel alól – legfeljebb a gazdasági vezetői megbízás időtartamára – a gazdasági vezető megbízásakor a vezetői megbízásban mentesség adható. A már megadott mentesség időtartama utólag nem rövidíthető vagy hosszabbítható meg. A megbízásban meghatározott mentesség időtartamának lejártát követően az állami felsőoktatási intézmény gazdasági vezetője csak a 12. §-ban meghatározott feltételek szerint foglalkoztatható tovább gazdasági vezetőként.”
