@@ -1,0 +1,1 @@
+## 3. § A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyek koordinációjára – a fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 8/A. §-ában foglaltak szerint – feladat- és hatáskörrel rendelkező kormánymegbízottként a Budapest Főváros Kormányhivatalát vezető kormánymegbízottat jelöli ki.
