@@ -1,4 +1,4 @@
-73. §[^159] (1) A támogatói okiratban, támogatási szerződésben rögzíteni kell az e rendeletben foglalt kötelezettségek megtartását biztosító feltételeket, ha azokról jogszabály nem rendelkezik, így különösen
+73. §[^160] (1) A támogatói okiratban, támogatási szerződésben rögzíteni kell az e rendeletben foglalt kötelezettségek megtartását biztosító feltételeket, ha azokról jogszabály nem rendelkezik, így különösen
 
 a) a támogatott tevékenység konkrét meghatározását, kormányzati funkció szerinti besorolását,
 
@@ -26,4 +26,4 @@ k) a 82. § szerinti elállási, felmondási, visszavonási okokat.
 
 (3) A támogatói okiratban, támogatási szerződésben – az európai uniós forrásból finanszírozott eszközbeszerzések kivételével – szerepeltetni kell, hogy a kedvezményezett a támogatott tevékenység megvalósítása során a költségvetési támogatás és – saját forrás jogszabály, pályázati kiírás vagy a támogató által történő előírása esetén – a saját forrás terhére a százezer forint értékhatárt meghaladó értékű, áru beszerzésére vagy szolgáltatás megrendelésére irányuló szerződést kizárólag írásban köthet. E bekezdés alkalmazásában írásban kötött szerződésnek minősül az elküldött és visszaigazolt megrendelés is. Az írásbeli alak megsértésével kötött szerződés teljesítése érdekében történt kifizetés összege a támogatott tevékenység költségei között nem vehető figyelembe.
 
-[^159]: Az Ávr. 73. §-a a 497/2013. (XII. 29.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^160]: Az Ávr. 73. §-a a 497/2013. (XII. 29.) Korm. rendelet 32. §-ával megállapított szöveg.

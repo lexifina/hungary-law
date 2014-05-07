@@ -1,3 +1,3 @@
-25. §[^60]
+25. §[^61]
 
-[^60]: Az Ávr. 25. §-t a 413/2012. (XII. 29.) Korm. rendelet 40. § (1) bekezdés 6. pontja hatályon kívül helyezte.
+[^61]: Az Ávr. 25. §-t a 413/2012. (XII. 29.) Korm. rendelet 40. § (1) bekezdés 6. pontja hatályon kívül helyezte.

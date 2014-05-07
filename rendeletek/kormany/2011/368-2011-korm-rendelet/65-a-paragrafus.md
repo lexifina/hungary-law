@@ -4,7 +4,7 @@
 
 ## [Az Áht. 48. § (1) bekezdéséhez]
 
-65/A. §[^135] (1) Az előirányzat kezelő szerve a pályázati kiírás közzétételét megelőzően a Kincstár részére megküldi
+65/A. §[^136] (1) Az előirányzat kezelő szerve a pályázati kiírás közzétételét megelőzően a Kincstár részére megküldi
 
 a) a pályázati kiírás tervezetét, és
 
@@ -12,4 +12,4 @@ b) az európai uniós versenyjogi értelemben vett állami támogatásokkal kapc
 
 (2) A pályázati kiírás tervezetét a Kincstár az általa működtetett monitoring rendszerben tíz munkanapon belül rögzíti, és erről tájékoztatja a pályázati kiírás bejelentőjét, vagy ha a bejelentés hibás vagy hiányos, a bejelentőt hiánypótlásra szólítja fel.
 
-[^135]: Az Ávr. 65/A. §-át a 497/2013. (XII. 29.) Korm. rendelet 25. §-a iktatta be.
+[^136]: Az Ávr. 65/A. §-át a 497/2013. (XII. 29.) Korm. rendelet 25. §-a iktatta be.
