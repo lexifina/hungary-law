@@ -56,11 +56,11 @@ b) olyan repülőgépekre, melyek használata kivételes jellegű és ésszerűt
 
 c) módosítás, javítás vagy karbantartás miatt, nem üzleti célú repülést végző repülőgépekre.
 
-(11) A közlekedési, hírközlési és vízügyi miniszter (a továbbiakban: miniszter) által a Közlekedési, Hírközlési és Vízügyi Értesítőben közzétett listában szereplő, országonként csoportosított repülőgépek mentesülnek az (1) bekezdés ba) és bb) pontja szerinti követelmények teljesítése alól, ha
+(11)[^20] A közlekedésért felelős miniszter (a továbbiakban: miniszter) által a kormányzati portálon közzétett listában szereplő, országonként csoportosított repülőgépek mentesülnek az (1) bekezdés szerinti követelmények teljesítése alól, ha
 
-a) rendelkeznek a 16. annex 2. kiadás (1988), I. kötet, II. rész, 2. fejezet szabványainak való megfelelést igazoló zajbizonyítvánnyal és 1995. január 1. óta legalább egy évig használtak magyar repülőteret;
+a) rendelkeznek a 16. annex 2. kiadás (1988), I. kötet II. rész 2. fejezet szabványainak való megfelelést igazoló zajbizonyítvánnyal és 1995. január 1. óta legalább egy évig használtak magyar repülőteret;
 
-b) olyan ország lajstromában szerepelnek, amelyet tartalmaz a miniszter által közzétett lista és a listán szereplő országok valamelyikében székhellyel rendelkező természetes vagy jogi személy által közvetlenül, vagy lízing, illetve bérleti szerződés alapján az a) pontban említett egy év óta is folyamatosan üzemeltették azokat.
+b) olyan ország lajstromában szerepelnek, amelyet tartalmaz a miniszter által közzétett lista, és a listán szereplő országok valamelyikében székhellyel rendelkező természetes vagy jogi személy által közvetlenül, vagy lízing, illetve bérleti szerződés alapján az a) pontban meghatározott egy év óta is folyamatosan üzemeltették azokat.
 
 (12) Nem mentesül a (11) bekezdés szerinti repülőgép az ott megjelölt követelmények teljesítése alól, ha olyan országbeli természetes vagy jogi személynek kölcsönözték, illetve lízingelték, amely a (11) bekezdésben említett listán nem szerepel.
 
@@ -76,3 +76,4 @@ b) olyan ország lajstromában szerepelnek, amelyet tartalmaz a miniszter által
 [^17]: A 11. § (1) bekezdése a 36/2004. (III. 31.) GKM–KvVM e. r. 7. § (1) bekezdésével megállapított szöveg.
 [^18]: A 11. § (2) bekezdése a 36/2004. (III. 31.) GKM–KvVM e. r. 7. § (2) bekezdése szerint módosított szöveg.
 [^19]: A 11. § (6) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^20]: A 11. § (11) bekezdése a 24/2014. (IV. 29.) NFM rendelet 1. §-ával megállapított szöveg.
