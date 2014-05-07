@@ -1,1 +1,0 @@
-## „(2) A Versenysport támogatása előirányzat terhére egyedi döntés alapján nyújtható költségvetési támogatás. A költségvetési támogatás teljes összege támogatási előlegként is nyújtható.”

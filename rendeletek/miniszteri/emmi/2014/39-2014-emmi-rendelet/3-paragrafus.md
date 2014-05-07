@@ -1,3 +1,0 @@
-## 2. § Az R. 8. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Ha a támogatási kérelem nem tartalmazza a (2) bekezdésben foglaltakat, a miniszter a támogatási kérelem kézhezvételétől számított nyolc napon belül a költségvetési támogatás igénylőjét legfeljebb tizenöt napos határidő kitűzésével írásban hiánypótlásra hívja fel. Ha a költségvetési támogatás igénylője a hiánypótlási felhívásnak határidőben nem vagy nem megfelelően tesz eleget, a miniszter a támogatási kérelmet elutasítja, és erről a költségvetési támogatás igénylőjét – az elutasítás indokának megjelölésével – írásban értesíti.”
