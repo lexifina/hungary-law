@@ -1,0 +1,5 @@
+10/A. §[^4] (1) A szabálysértési hatóság – a (2) bekezdésben foglaltak kivételével – az eljárás alá vont személyt a meghallgatásra történő idézésével egyidejűleg tájékoztatja a képviselethez, az anyanyelv használatához, valamint a fordító, tolmács igénybevételéhez való jogáról, továbbá arról, hogy az eljárás során a vallomástételt megtagadhatja és jogosult megismerni a szabálysértési eljárás alapját képező cselekményt. A tájékoztatást egyszerűen, közérthető módon kell megfogalmazni. A meghallgatás kezdetén közölni kell az eljárás alá vont személlyel, hogy mely cselekmény miatt indult vele szemben szabálysértési eljárás.
+
+(2) A Szabs. tv. 101. §-a szerinti helyszíni idézés esetén a szabálysértési hatóság az eljárás alá vont személy meghallgatása kezdetén, a Szabs. tv. 126/A. §-a szerinti bíróság elé állítás esetén az előállítást végrehajtó helyszíni bírság kiszabására jogosult személy a tárgyalás előtt az (1) bekezdés szerint tájékoztatja az eljárás alá vont személyt.
+
+[^4]: A 10/A. §-t a 35/2014. (IV. 29.) BM rendelet 3. §-a iktatta be.
