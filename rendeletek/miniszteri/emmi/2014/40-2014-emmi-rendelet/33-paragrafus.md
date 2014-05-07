@@ -1,1 +1,3 @@
-## 32. § A fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 84/2013. (XII. 30.) EMMI rendelet 1. melléklete a 18. melléklet szerint módosul.
+## 32. §[^2]
+
+[^2]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
