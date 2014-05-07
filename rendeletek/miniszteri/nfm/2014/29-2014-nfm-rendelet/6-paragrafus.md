@@ -1,1 +1,0 @@
-## „(6) A főösszefüggési- és rendszertervek áttekintésének elősegítése céljából az összetett szerkezetű tervrajzokat a megismerést elősegítő részlettervekkel kell alátámasztani. A részlettervek elektronikus adathordozón is benyújthatóak.”

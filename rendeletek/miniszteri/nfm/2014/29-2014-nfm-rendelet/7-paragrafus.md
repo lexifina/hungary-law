@@ -1,3 +1,0 @@
-## 6. § Az R2. 5. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) Külföldről beszerzett úszólétesítmény bizonyítványát a hajózási hatóság a tulajdonos kérelmére adja ki. A bizonyítvány kiállításához szükséges szemle iránti kérelmet az ellenőrzés kért időpontja előtt legalább 30 nappal kell benyújtani. A kérelemhez csatolni kell a (3) bekezdésben foglaltakat igazoló rajzokat és számításokat. Ha hajózásbiztonsági okok nem indokolják, a hajózási hatóság a rajzok és számítások benyújtásától részben vagy egészben eltekinthet. Az úszólétesítmény bizonyítványának kiadásával összefüggő ellenőrzésre vonatkozóan egyebekben a 6. §-ban foglaltakat kell alkalmazni.”
