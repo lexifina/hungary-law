@@ -1,0 +1,1 @@
+## 7. § Pontpótláskor és pontáthelyezéskor az újonnan létesített alapponthálózati pontnak vízszintes és magassági meghatározottság tekintetében ki kell elégítenie az eredeti ponttal szemben támasztott pontossági követelményeket, valamint figyelembe kell venni a pont hosszú távú fennmaradását.

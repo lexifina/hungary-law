@@ -1,0 +1,1 @@
+## 31. § Azokon a területeken, ahol az EOMA-nak nincsenek pontjai, ott az Fttv. 10. § (3) bekezdés c) pontjában meghatározott alapponthálózati pontokat felsőrendű alapponthálózati pontként kell nyilvántartásba venni.
