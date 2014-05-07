@@ -1,7 +1,5 @@
+## 11–12. §[^10]
+
 ## Az Ingatlanrendező Földmérői Minősítő Bizottság
 
-13. § (1) A Minősítő Bizottság öttagú, elnökét és tagjait a földművelésügyi és vidékfejlesztési miniszter jelöli ki.
-
-(2) A Minősítő Bizottságot a földművelésügyi és vidékfejlesztési miniszter működteti és felügyeli.
-
-(3) A Minősítő Bizottság üléseit legalább negyedévenként tartja, működésének rendjét e rendelet 1. számú melléklet tartalmazza.
+[^10]: A 11–12. §-t az 52/2014. (IV. 29.) VM rendelet 23. § b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 21. §-át.
