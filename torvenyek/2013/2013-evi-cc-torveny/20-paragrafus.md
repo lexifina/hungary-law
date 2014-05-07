@@ -2,7 +2,7 @@
 
 1.
 
-2. 16. § (1) bekezdésében „az országgyűlési képviselői,” szövegrész;
+2.
 
 3–5.
 
@@ -16,6 +16,6 @@
 
 10.
 
-11. az 1. számú melléklet 8. pont 8.10. alpontjában az „az országgyűlési képviselők javadalmazásáról szóló törvény alapján” szövegrész;
+11.
 
 12.
