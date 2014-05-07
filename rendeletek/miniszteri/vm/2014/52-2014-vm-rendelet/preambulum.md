@@ -1,0 +1,1 @@
+A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 38. § (2) bekezdés b), e), f) és g) pontjaiban kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § g) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
