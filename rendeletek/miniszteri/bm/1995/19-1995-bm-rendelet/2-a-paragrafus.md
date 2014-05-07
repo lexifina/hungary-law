@@ -1,4 +1,4 @@
-2/A. §[^14] (1) A 2. § (5) bekezdésének b) pontjában meghatározott közreműködés
+2/A. §[^23] (1) A 2. § (5) bekezdésének b) pontjában meghatározott közreműködés
 
 a) nem történhet a takarodótól az ébresztőig terjedő időben, valamint ideje nem haladhatja meg a napi 4, havonta összesen a 24 órát,
 
@@ -8,4 +8,4 @@ c) keretében az élelmiszer előkészítésével és kiosztásával kapcsolatos
 
 (2) A 2. § (5) bekezdésének b) pontjában meghatározott közreműködésről, valamint a szakmai és a munkavédelmi oktatásról a fogvatartott által is aláírt nyilvántartást kell vezetni.
 
-[^14]: A 2/A. §-t a 23/2001. (X. 11.) BM rendelet 3. §-a iktatta a szövegbe, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^23]: A 2/A. §-t a 23/2001. (X. 11.) BM rendelet 3. §-a iktatta a szövegbe, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.

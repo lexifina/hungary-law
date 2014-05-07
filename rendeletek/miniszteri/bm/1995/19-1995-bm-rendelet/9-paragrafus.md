@@ -1,4 +1,4 @@
-9. §[^41] (1) A fogvatartott részére – a letéti pénzéből a személyi szükségleteinek kielégítését szolgáló – vásárlásra naptári hónaponként legalább két alkalommal kell lehetőséget biztosítani.
+9. §[^50] (1) A fogvatartott részére – a letéti pénzéből a személyi szükségleteinek kielégítését szolgáló – vásárlásra naptári hónaponként legalább két alkalommal kell lehetőséget biztosítani.
 
 (2) Az egy naptári hónapban a személyi szükségleteinek kielégítését szolgáló vásárlásra fordítható összeg nem haladhatja meg a tárgyévet megelőző év első napján érvényes minimálbér egyharmadának megfelelő összeget.
 
@@ -8,4 +8,4 @@
 
 (5) A (4) bekezdésben szereplő lehetőségek hiányában a vásárlást a fogvatartott írásos kérelme alapján a fogvatartásért felelős megbízottja végzi a befogadást követő, továbbá hetente egy, a fogvatartásért felelős által meghatározott napon. A vásárlást igazoló, a fogvatartott által aláírt számlát letétként kell kezelni.
 
-[^41]: A 9. § a 23/2001. (X. 11.) BM rendelet 11. §-ával megállapított szöveg, e módosító rendelet 27. § (1) bekezdése alapján a folymatban lévő ügyekben is alkalmazni kell.
+[^50]: A 9. § a 23/2001. (X. 11.) BM rendelet 11. §-ával megállapított szöveg, e módosító rendelet 27. § (1) bekezdése alapján a folymatban lévő ügyekben is alkalmazni kell.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-19-20-0
 | 2013-07-01 | 1995-19-20-0A.17 | 34/2013. (VI. 30.) BM rendelet |
 | 2013-12-11 | 1995-19-20-0A.18 | 68/2013. (XII. 10.) BM rendelet |
 | 2014-03-15 | 1995-19-20-0A.19 | 22/2014. (III. 12.) BM rendelet |
+| 2014-05-07 | 1995-19-20-0A.20 | 35/2014. (IV. 29.) BM rendelet |
