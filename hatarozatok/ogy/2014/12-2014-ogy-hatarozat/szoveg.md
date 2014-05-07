@@ -6,4 +6,6 @@ az Országgyűlés háznagyává megválasztja.
 
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3. Hatályát veszti az Országgyűlés háznagyának megválasztásáról szóló 94/2012. (XII. 18.) OGY határozat.
+3.[^2]
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
