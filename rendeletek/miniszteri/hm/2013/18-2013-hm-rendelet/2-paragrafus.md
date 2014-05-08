@@ -6,7 +6,7 @@
 
 2. családi ellátmánypótlék: a 3. pont szerinti hozzátartozók külföldi tartózkodásával összefüggésben felmerülő többletkiadásokhoz való hozzájárulás céljából külföldi pénznemben folyósított juttatás,
 
-3. családi ellátmánypótlékra jogosító hozzátartozó: a HM rendelet1 1. § 10. pont b), c), g), h), j) és m) alpontja szerint tartós külföldi szolgálatot teljesítő, valamint a 18 hónapot meghaladó időtartamban a HM rendelet1 1. § 10. pont i) alpontja szerint külföldi szolgálatot teljesítő kiküldöttel a külföldi szolgálat ideje alatt közös háztartásban élő, vele életvitelszerűen együtt lakó házastársa, élettársa (a továbbiakban együtt: házastárs) és a 8. § (1) bekezdése szerinti gyermeke,
+3.[^2] családi ellátmánypótlékra jogosító hozzátartozó: a HM rendelet1 1. § 10. pont b), c), g), h), j) és m) alpontja szerint tartós külföldi szolgálatot teljesítő, valamint a 18 hónapot meghaladó időtartamban a HM rendelet1 1. § 10. pont i) alpontja szerint külföldi szolgálatot teljesítő kiküldöttel a külföldi szolgálat ideje alatt közös háztartásban élő, vele életvitelszerűen együtt lakó házastársa, élettársa (a továbbiakban együtt: házastárs) és gyermeke addig, amíg a nemzeti köznevelésről szóló törvény szerinti tankötelezettsége fennáll, továbbá annak a tanévnek a végéig, amelynek időtartama alatt a gyermek a 20. életévét, a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékos tanuló esetén a 23. életévét betölti, feltéve, hogy a tankötelezettség megszűnését követően köznevelési intézményben tanul,
 
 4. engedélyező elöljáró: a juttatások kifizetésének és elszámolásának engedélyezésére jogosult, a (2) bekezdésben meghatározott vezető,
 
@@ -30,7 +30,7 @@
 
 14. kiküldetés: a HM rendelet1 1. § 10. pont b), c), g), h), j) és m) alpontja szerint tartós külföldi szolgálatot teljesítő kiküldött, vagy a HM rendelet1 1. § 10. pont d) alpontja szerint külföldi szolgálatot teljesítő kiküldött által, az állomáshely szerinti vagy harmadik országban, valamint Magyarország területén menetparancs vagy azt helyettesítő hivatalos dokumentum alapján teljesített ideiglenes külföldi szolgálat, továbbá a HM rendelet1 1. § 10. pont b), c), g), h), j) és m) alpontja szerint tartós külföldi szolgálatot teljesítő kiküldött által az állomáshely szerinti vagy harmadik országban menetparancs vagy azt helyettesítő hivatalos dokumentum alapján teljesített, legfeljebb 6 hónap időtartamú külföldi szolgálat,
 
-15. kiküldő: a külföldi szolgálatra történő vezénylést, kihelyezést elrendelő személy,
+15.[^3] kiküldő: a külföldi szolgálatra történő vezénylést, kihelyezést (a továbbiakban együtt: vezénylés) elrendelő személy,
 
 16. közüzemi szolgáltatások díja: az elektromos energia-, a gáz-, a víz- és a csatornadíj, a fűtés, a hűtés, a szemétszállítás díja, valamint a társasház közös költsége,
 
@@ -89,3 +89,6 @@ c) a Honvédség pénzügyi feladatokat ellátó központi szervezetének vezet�
 d) a Honvédség pénzügyi feladatokat ellátó központi szervezetének vezetője által külön intézkedésben meghatározott pénzügyi és számviteli szervezet vagy szervezeti elem a (2) bekezdés h) pontja szerinti kiküldöttek esetén, és
 
 e) a Honvédség pénzügyi feladatokat ellátó központi szervezete a (2) bekezdés i) pontja szerinti kiküldöttek esetén.
+
+[^2]: A 2. § (1) bekezdés 3. pontja a 9/2014. (IV. 30.) HM rendelet 8. § c) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés 15. pontja a 9/2014. (IV. 30.) HM rendelet 8. § d) pontja szerint módosított szöveg.

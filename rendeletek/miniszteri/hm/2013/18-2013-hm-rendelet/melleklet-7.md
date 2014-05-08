@@ -1,18 +1,18 @@
 ## A külföldi napidíj-kiegészítés nettó összege
 
-|  | A | B | C | D |
+|  |  | A | B | C |
 
-| 1. | Besorolási osztály/ beosztási kategória | UNFICYP (Ciprus) | UNIFIL (Libanon) | MINURSO (Nyugat-Szahara) |
+|  | 1. | Besorolási osztály/beosztási kategória | UNIFIL (Libanon) | MINURSO (Nyugat-Szahara) |
 
-| 2. | I/V. fölötti | 17,5 EUR | 41,5 USD | 72,0 USD |
+|  | 2. | I/V. fölötti | 41,5 USD | 72,0 USD |
 
-| 3. | I/IV–V. | 13,5 EUR | 29,5 USD | 60,0 USD |
+|  | 3. | I/IV–V. | 29,5 USD | 60,0 USD |
 
-| 4. | I/I–III. | 8,0 EUR | 19,0 USD | 49,5 USD |
+|  | 4. | I/I–III. | 19,0 USD | 49,5 USD |
 
-| 5. | II/I–X. | 5,0 EUR | 10,0 USD | 39,0 USD |
+|  | 5. | II/I–X. | 10,0 USD | 39,0 USD |
 
-7. melléklet a 18/2013. (IX. 5.) HM rendelethez
+7. melléklet a 18/2013. (IX. 5.) HM rendelethez[^30]
 
 A tartós külföldi képzésben részt vevők ellátmánya szorzószámainak mértéke
 
@@ -52,10 +52,12 @@ A tartós külföldi képzésben részt vevők ellátmánya szorzószámainak m�
 
 | 17. | II/V | – | – | II/1–II/2 | 1,20 |
 
-| 18. | II/I–IV | „A”–„B” fizetési osztály | – | – | 1,15 |
+| 18. | II/I–IV | „A”–„B” fizetési osztály | – | kormányzati ügykezelő | 1,15 |
 
 | 19. | – | – | IV. évfolyamos tisztjelölt | – | 1,10 |
 
 | 20. | – | – | II–III. évfolyamos tisztjelölt | – | 1,05 |
 
 | 21. | – | – | – I. évfolyamos tisztjelölt – altiszt-jelölt | – | 1,00 |
+
+[^30]: A 7. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (6) bekezdése szerint módosított szöveg.

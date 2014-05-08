@@ -62,7 +62,7 @@
 
 | 30. | Indonézia | EUR | 725 |
 
-| 31. | Irak | EUR | 747 |
+| 31. | Irak | EUR | 876 |
 
 | 32. | Irán | EUR | 715 |
 
@@ -186,4 +186,6 @@
 
 | 92. | Vatikán | EUR | 836 |
 
-3. melléklet a 18/2013. (IX. 5.) HM rendelethez
+3. melléklet a 18/2013. (IX. 5.) HM rendelethez[^27]
+
+[^27]: A 3. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (3) bekezdésével megállapított szöveg.

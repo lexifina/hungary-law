@@ -36,6 +36,8 @@
 
 | 17. | II/V | – | II/1–II/2 | 1,6 |
 
-| 18. | II/I–IV | „A”–„B” fizetési osztály | – | 1,1 |
+| 18. | II/I–IV | „A”–„B” fizetési osztály | kormányzati ügykezelő | 1,3 |
 
-2. melléklet a 18/2013. (IX. 5.) HM rendelethez
+2. melléklet a 18/2013. (IX. 5.) HM rendelethez[^26]
+
+[^26]: A 2. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (2) bekezdése szerint módosított szöveg.

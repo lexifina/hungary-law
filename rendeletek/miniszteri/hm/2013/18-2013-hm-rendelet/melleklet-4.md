@@ -26,50 +26,54 @@
 
 | 12. | Indonézia | EUR | 73 |
 
-| 13. | Irán | EUR | 107 |
+| 13. | Irak | EUR | 175 |
 
-| 14. | Izrael | EUR | 111 |
+| 14. | Irán | EUR | 107 |
 
-| 15. | Katar | EUR | 67 |
+| 15. | Izrael | EUR | 111 |
 
-| 16. | Kazahsztán | EUR | 74 |
+| 16. | Katar | EUR | 67 |
 
-| 17. | Kenya | EUR | 70 |
+| 17. | Kazahsztán | EUR | 74 |
 
-| 18. | Kína | EUR | 77 |
+| 18. | Kenya | EUR | 70 |
 
-| 19. | Koszovó | EUR | 105 |
+| 19. | Kína | EUR | 77 |
 
-| 20. | Kuba | EUR | 112 |
+| 20. | Koszovó | EUR | 105 |
 
-| 21. | Kuvait | EUR | 72 |
+| 21. | Kuba | EUR | 112 |
 
-| 22. | Libanon | EUR | 119 |
+| 22. | Kuvait | EUR | 72 |
 
-| 23. | Líbia | EUR | 75 |
+| 23. | Libanon | EUR | 119 |
 
-| 24. | Macedónia | EUR | 69 |
+| 24. | Líbia | EUR | 75 |
 
-| 25. | Mexikó | EUR | 70 |
+| 25. | Macedónia | EUR | 69 |
 
-| 26. | Moldova | EUR | 72 |
+| 26. | Mexikó | EUR | 70 |
 
-| 27. | Nigéria | EUR | 112 |
+| 27. | Moldova | EUR | 72 |
 
-| 28. | Oroszország | EUR | 80 |
+| 28. | Nigéria | EUR | 112 |
 
-| 29. | Pakisztán | EUR | 140 |
+| 29. | Oroszország | EUR | 80 |
 
-| 30. | Palesztina | EUR | 111 |
+| 30. | Pakisztán | EUR | 140 |
 
-| 31. | Szaúd-Arábia | EUR | 69 |
+| 31. | Palesztina | EUR | 111 |
 
-| 32. | Szerbia | EUR | 70 |
+| 32. | Szaúd-Arábia | EUR | 69 |
 
-| 33. | Szíria | EUR | 72 |
+| 33. | Szerbia | EUR | 70 |
 
-| 34. | Ukrajna | EUR | 73 |
+| 34. | Szíria | EUR | 72 |
 
-| 35. | Vietnam | EUR | 68 |
+| 35. | Ukrajna | EUR | 73 |
 
-4. melléklet a 18/2013. (IX. 5.) HM rendelethez
+| 36. | Vietnam | EUR | 68 |
+
+4. melléklet a 18/2013. (IX. 5.) HM rendelethez[^28]
+
+[^28]: A 4. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (4) bekezdésével megállapított szöveg.
