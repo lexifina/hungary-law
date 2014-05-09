@@ -1,5 +1,3 @@
-## 15. § Az egyes iparjogvédelmi beadványok elektronikus úton való benyújtására vonatkozó részletes szabályokról szóló 147/2007. (VI. 26.) Korm. rendelet 1. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+## 14–15. §[^5]
 
-## [A következő beadványok (a továbbiakban együtt: iparjogvédelmi beadvány) elektronikus úton kizárólag a Szellemi Tulajdon Nemzeti Hivatala által e célra rendszeresített elektronikus űrlap (a továbbiakban: elektronikus űrlap) használatával nyújthatók be:]
-
-## „f) védjegyügyekben védjegybejelentés, védjegymegújítási kérelem, a védjegy jogosultjának vagy képviselőjének nevében (elnevezésében) vagy lakcímében (székhelyében) bekövetkezett változásoknak a védjegylajstromban való feltüntetésére irányuló kérelem, gyorsított eljárás vagy különleges gyorsított eljárás kezdeményezésére irányuló kérelem, lajstromkivonat igénylésére vonatkozó kérelem, iratbetekintésre vonatkozó kérelem, továbbá a nemzetközi védjegybejelentés, és az annak továbbítására vonatkozó kérelem, valamint a nemzetközi lajstromozásból eredő oltalommal kapcsolatos kérelmek továbbítására irányuló kérelem;”
+[^5]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
