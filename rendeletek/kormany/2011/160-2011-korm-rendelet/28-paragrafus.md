@@ -36,6 +36,8 @@ g) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK 
 
 h)[^48] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2012. december 14-i 2012/47/EU bizottsági irányelvnek
 
+i)[^49] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2014. január 29-ei, 2014/18/EU bizottsági irányelvnek
+
 való megfelelést szolgálja.
 
 [^43]: A 28. § (1) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
@@ -44,3 +46,4 @@ való megfelelést szolgálja.
 [^46]: A 28. § (1) bekezdés h) pontját a 441/2013. (XI. 20.) Korm. rendelet 12. §-a iktatta be.
 [^47]: A 28. § (2) bekezdés b) pontja a 209/2012. (VII. 27.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
 [^48]: A 28. § (2) bekezdés h) pontját a 78/2013. (III. 13.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^49]: A 28. § (2) bekezdés i) pontját a 148/2014. (V. 5.) Korm. rendelet 1. §-a iktatta be.

@@ -4,61 +4,79 @@
 
 ## 1. A jelen jegyzékben szereplő „kifejezetten katonai” kifejezés a katonai, nemzetbiztonsági, rendvédelmi és rendészeti fogalomkört is tartalmazza.
 
-## 2. Az „idézőjelben” lévő kifejezések definíciók. Fogalom-meghatározásuk a listának „A listában szereplő kifejezések fogalom meghatározása” című mellékletében található.
+## 2. Az „idézőjelben” lévő kifejezések definíciók. Fogalom-meghatározásuk a lista „A listában szereplő kifejezések fogalom meghatározása” című mellékletében található.
 
 ## 3. A vegyi anyagok névvel és CAS-számmal vannak felsorolva. Az azonos szerkezeti képletű vegyi anyagok (beleértve a hidrátokat is) engedélykötelesek, függetlenül elnevezésüktől és CAS-számuktól. A CAS-számok segítenek annak megállapításában, hogy az adott vegyi anyag vagy keverék engedélyköteles-e, tekintet nélkül a nómenklatúrára. A CAS-szám nem használható egyedi azonosítóként, mivel a felsorolt vegyi anyagok egyes formáinak különböző CAS-számuk van, és a felsorolt vegyi anyagot tartalmazó keverékeknek is különböző CAS-számuk lehet.
 
-## 4. Lásd még a kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló, 2009. május 5-i 428/2009/EK tanácsi rendeletet.
-
-## 5. Lásd még az egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2005. június 27-i 1236/2005/EK tanácsi rendeletet is.
-
-## 6. Ahol jelen jegyzékben az angol vagy más idegen nyelven megfogalmazott termék megnevezés (vagy márkanév) szerepel, ott értelemszerűen a magyar nyelvű termék-meghatározás alá eső termék is engedélyköteles.
+## 4. Ahol jelen jegyzékben az angol vagy más idegen nyelven megfogalmazott termék megnevezés (vagy márkanév) szerepel, ott értelemszerűen a magyar nyelvű termék-meghatározás alá eső termék is engedélyköteles.
 
 ## I. fejezet
 
-## (ML 1.)
+## (ML 1)
 
-## Sima csövű fegyverek 20 mm-nél kisebb kaliberrel, más kézifegyverek és automata fegyverek 12,7 mm
+## Sima csövű fegyverek 20 mm-nél kisebb kaliberrel, más kézifegyverek és automata fegyverek 12,7 mm (0,50 hüvelyk/inch) vagy kisebb kaliberrel és tartozékok a következők szerint, és a kifejezetten azokhoz tervezett részegységek:
 
-## (0,50 hüvelyk/inch) vagy kisebb kaliberrel és tartozékok a következők szerint, és a kifejezetten azokhoz tervezett részegységek:
+## Megjegyzés: Az ML1. fejezet nem vonatkozik:
 
-## a) puskák, karabélyok, revolverek, pisztolyok, géppisztolyok és géppuskák:
+## a) a kifejezetten vaktöltényhez tervezett tűzfegyverekre és azokra, amelyek alkalmatlanok lövedék kilövésére;
+
+## b) azokra a tűzfegyverekre, amelyeket kifejezetten a legfeljebb 500 m hatótávolságú, kikötött végű, robbanótöltetet vagy kommunikációs csatornát nem tartalmazó, irányított lövedékek indítására terveztek;
+
+## c) azokra a fegyverekre, amelyek nem központi gyújtású lőszert használnak és nem teljesen automatikus tüzelési rendszerűek.
+
+## a) puskák és vegyescsövű fegyverek, kézifegyverek, géppuskák, géppisztolyok és sorozatvetők;
 
 ## Megjegyzés: Az ML1. fejezet a) pontja nem vonatkozik a következőkre:
 
-## a) az 1938 előtt gyártott puskák (muskéták), karabélyok;
+## a) az 1938 előtt gyártott puskák és kombinált fegyverek;
 
-## b) az eredetileg 1890 előtt gyártott puskák (muskéták), karabélyok másolatai;
+## b) az eredetileg 1890 előtt gyártott puskák és kombinált fegyverek másolatai;
 
-## c) az 1890 előtt gyártott revolverek, pisztolyok és géppisztolyok és azok másolatai;
+## c) az 1890 előtt gyártott kézifegyverek, sorozatvetők és géppuskák és azok másolatai;
 
-## b) sima csövű fegyverek a következők szerint:
+## b) sima csövű fegyverek, a következők szerint:
 
-## 1. kizárólag katonai használatra tervezett sima csövű fegyverek;
+## 1. kifejezetten katonai használatra tervezett sima csövű fegyverek;
 
-## 2. más sima csövű fegyverek a következők szerint:
+## 2. más sima csövű fegyverek, a következők szerint:
 
 ## a) teljesen automata típushoz tartozó fegyverek;
 
-## b) félautomata vagy pumpás működtetésű típushoz tartozó fegyverek;
+## b) félautomata és pumpás működtetésű típushoz tartozó fegyverek;
+
+## Megjegyzés: Az ML1. fejezet b) pontja nem vonatkozik a következőkre:
+
+## a) az 1938 előtt gyártott sima csövű fegyverek;
+
+## b) az eredetileg 1890 előtt gyártott sima csövű fegyverek másolatai;
+
+## c) a vadászati és sport célra használt sima csövű fegyverek. Ezek a fegyverek nem lehetnek kifejezetten katonai célra tervezve vagy automata tüzelési rendszerűek;
+
+## d) a kifejezetten az alábbi célok bármelyikére tervezett sima csövű fegyverek:
+
+## 1. háziállatok levágása;
+
+## 2. állatok elkábítása;
+
+## 3. szeizmikus vizsgálatok;
+
+## 4. ipari lövedékek kilövése; vagy
+
+## 5. rögtönzött robbanószerkezetek (IED-k) hatástalanítása.
+
+## NB.: A hatástalanító eszközök tekintetében lásd a kettős felhasználású termékek és technológiák uniós jegyzékének ML4. fejezetét és 1A006. pontját.
 
 ## c) hüvely nélküli lőszerrel működő fegyverek;
 
-## d) a fenti a), b) és c) pontban meghatározott fegyverek hangtompítói, különleges fegyverállványok, csatlakozó (kapcsolódó) elemek, fegyver célzókészülékek és lángrejtők.
+## d) az ML1. fejezet a), b) és c) pontjában meghatározott fegyverek leszerelhető tölténytárai, hangtompítói, az ilyen fegyverekhez tartozó különleges fegyverállványok, optikai fegyver-célzókészülékek és lángrejtők.
 
-## 1. megjegyzés: Az ML1. fejezet nem vonatkozik a sport és vadászati célra használt sima csövű fegyverekre, amennyiben azokat nem katonai célra tervezték vagy nem automatikus tüzelési módúak.
-
-## 2. megjegyzés: Az ML1. fejezet nem vonatkozik a kizárólag vaktöltényhez tervezett tűzfegyverekre és azokra, amelyek nem képesek kilőni semmilyen, az ML3. pontban meghatározott lőszert.
-
-## 3. megjegyzés: Az ML1. fejezet nem vonatkozik azokra a fegyverekre, amelyek nem központi gyújtású lőszert használnak és nem teljesen automatikus tüzelési rendszerűek.
-
-## 4. megjegyzés: Az ML1. fejezet nem vonatkozik az elektronikus képfeldolgozás nélküli legfeljebb négyszeres nagyítású, optikai fegyver célzókészülékekre, amennyiben azokat nem kimondottan katonai felhasználás céljából tervezték vagy alakítottak át.
+## Megjegyzés: Az ML1. fejezet d) pontja nem vonatkozik az elektronikus képfeldolgozás nélküli legfeljebb kilencszeres nagyítású, optikai fegyver-célzókészülékekre, amennyiben azokat nem kimondottan katonai felhasználás céljából tervezték vagy alakítottak át, vagy amennyiben azok nem tartalmaznak kifejezetten katonai felhasználásra tervezett hajszálvonal-hálózatos lemezeket.
 
 ## II. fejezet
 
-## (ML 2.)
+## (ML 2)
 
-## 20 mm és ennél nagyobb kaliberű sima csövű fegyverek, más fegyverek és fegyverzetek 12,7 mm-nél (0,5 hüvelyk/inch) nagyobb kaliberrel, vetőcsövek és tartozékok, és az azokhoz tervezett különleges részegységek a következők szerint:
+## 20 mm és ennél nagyobb kaliberű sima csövű fegyverek, más fegyverek és fegyverzetek 12,7 mm-nél (0,5 hüvelyk/inch) nagyobb kaliberrel, tűzvetők és tartozékok, és az azokhoz tervezett különleges részegységek, a következők szerint:
 
 ## a) Ágyúk, tarackok, gépágyúk, aknavetők, páncéltörő (tankelhárító) fegyverek, sorozatvetők, katonai lángszórók, puskák, hátrasiklás nélküli lőfegyverek, sima csövű fegyverek és az ezekhez tartozó lángrejtő eszközök.
 
@@ -66,13 +84,29 @@
 
 ## 2. megjegyzés: Az ML2. fejezet a) pontja nem vonatkozik a következőkre:
 
-## a) az 1938 előtt gyártott puskák (muskéták), karabélyok;
+## a) az 1938 előtt gyártott puskák, sima csövű fegyverek és kombinált fegyverek;
 
-## b) az eredetileg 1890 előtt gyártott puskák (muskéták), karabélyok másolatai;
+## b) az eredetileg 1890 előtt gyártott puskák, sima csövű fegyverek és kombinált fegyverek másolatai;
 
-## c) az 1890 előtt gyártott ágyúk, tarackok, gépágyúk és aknavetők.
+## c) az 1890 előtt gyártott ágyúk, tarackok, gépágyúk és aknavetők;
 
-## 3. megjegyzés: Az ML2. fejezet a) pontja nem vonatkozik a legfeljebb 500 m hatótávolságú, kikötött végű, robbanótöltetet vagy kommunikációs csatornát nem tartalmazó kézi indítású, irányított lövedékekre.
+## d) a vadászati és sport célra használt sima csövű fegyverek. Ezek a fegyverek nem lehetnek kifejezetten katonai célra tervezve vagy automata tüzelési rendszerűek;
+
+## e) a kifejezetten az alábbi célok bármelyikére tervezett sima csövű fegyverek:
+
+## 1. háziállatok levágása;
+
+## 2. állatok elkábítása;
+
+## 3. szeizmikus vizsgálatok;
+
+## 4. ipari lövedékek kilövése; vagy
+
+## 5. rögtönzött robbanószerkezetek (IED-k) hatástalanítása.
+
+## NB.: A hatástalanító eszközök tekintetében lásd a kettős felhasználású termékek és technológiák uniós jegyzékének ML4. fejezetét és 1.A.006. pontját;
+
+## f) a legfeljebb 500 m hatótávolságú, kikötött végű, robbanó töltetet vagy kommunikációs csatornát nem tartalmazó, irányított lövedékek kézi indítói.
 
 ## b) Füst, gáz és pirotechnikai vetők vagy generátorok, amelyeket kifejezetten katonai felhasználásra terveztek vagy alakítottak át.
 
@@ -80,37 +114,37 @@
 
 ## c) Az alábbi tulajdonságok mindegyikével rendelkező fegyverirányzékok és fegyverirányzék-rögzítő szerelékek:
 
-## 1. kifejezetten katonai használatra tervezték;és
+## 1. kifejezetten katonai használatra tervezték; és
 
 ## 2. kifejezetten az ML2. fejezet a) pontjában meghatározott fegyverekhez tervezték.
 
-## d) A kifejezetten az ML2. fejezet a) pontjában felsorolt fegyverekhez tervezett fegyverállványok.
+## d) A kifejezetten az ML2. fejezet a) pontjában felsorolt fegyverekhez tervezett fegyverállványok és leszerelhető tölténytárak.
 
 ## III. fejezet
 
-## (ML 3.)
+## (ML 3)
 
-## Lőszerek és gyújtószerkezetek, és az azokhoz tervezett különleges részegységek a következők szerint:
+## Lőszerek és mechanikus gyújtószerkezetek, és az azokhoz tervezett különleges részegységek a következők szerint:
 
 ## a) az ML1., ML2. vagy ML12. pontban meghatározott fegyverek és fegyverzetek lőszerei;
 
 ## b) az ML3. fejezet a) pontjában meghatározott, kifejezetten lőszerekhez tervezett gyújtószerkezetek.
 
-## 1. megjegyzés: A kifejezetten e célra tervezett, az ML3. fejezetben meghatározottak magukban foglalják többek között az alábbiakat:
+## 1. megjegyzés: A kifejezetten e célra tervezett, az ML3. fejezetben meghatározott alkatrészek felölelik az alábbiakat:
 
-## a) fém- vagy műanyagtermékek, mint például gyújtószerkezetek, lövedékcsészék, lőszerhevederek, forgó hevederek és lőszerek fém alkatrészei;
+## a) fém- vagy műanyag termékek, mint például gyújtószerkezetek, lövedékcsészék, hüvelycsatlakozók, forgó hevederek és lőszerek fém alkatrészei;
 
 ## b) biztosító és élesítő eszközök, gyújtószerkezetek, szenzorok és robbantást kiváltó eszközök;
 
-## c) egyszeri, nagy végteljesítményt leadó tápegységek;
+## c) egyszeri működésű, nagy teljesítményű tápegységek;
 
 ## d) éghető töltényhüvelyek;
 
-## e) kazettás aknák, bombák és végfázis-vezérlésű lövedékek.
+## e) többek között kazettás aknák, bombák és végfázis-vezérlésű lövedékek.
 
-## 2. megjegyzés: A z ML3. fejezet a) pontja nem vonatkozik azon lőszerre, amely lövedék nélkül kerül leperemezésre (vaktöltény), valamint az átlyuggatott lőporkamrás vaklőszerre.
+## 2. megjegyzés: Az ML3. fejezet a) pontja nem vonatkozik azon lőszerre, amely lövedék nélkül kerül leperemezésre (vaktöltény), valamint az átlyuggatott lőporkamrás vaklőszerre.
 
-## 3. megjegyzés: A z ML3. fejezet nem vonatkozik azon lőszerre, amelyet kifejezetten az alábbi célra terveztek:
+## 3. megjegyzés: Az ML3. fejezet nem vonatkozik azon lőszerre, amelyet kifejezetten az alábbi célra terveztek:
 
 ## a) jelzés;
 
@@ -120,79 +154,77 @@
 
 ## IV. fejezet
 
-## (ML 4.)
+## (ML 4)
 
-## Bombák, torpedók, nem irányított és irányított rakéták, más robbanó eszközök és töltetek, valamint a hozzájuk tartozó eszközök és tartozékok a következő felsorolás szerint, továbbá a kifejezetten azokhoz tervezett részegységek:
+## Bombák, torpedók, nem irányított és irányított rakéták, más robbanó eszközök és töltetek, valamint a hozzájuk tartozó eszközök és részegységek a következő felsorolás szerint, továbbá a kifejezetten azokhoz tervezett alkatrészek:
 
 ## NB 1: Az irányítás és navigáció eszközei vonatkozásában lásd az ML11. fejezetet.
 
-## NB 2: A légijárművek rakétavédelmi rendszerei (AMPS) vonatkozásában lásd az ML4. fejezet c) pontját.
+## NB 2: A légi járművek rakétavédelmi rendszerei (AMPS) vonatkozásában lásd az ML4. fejezet c) pontját.
 
-## a) Kifejezetten katonai célra kifejlesztett bombák, torpedók, gránátok, füst- és ködgránátok, nem irányított rakéták (reaktív töltetek), aknák, irányított rakéták, mélységi robbanó töltetek, romboló eszközök, romboló készletek, „pirotechnikai eszközök”, töltetek és szimulátorok (berendezések, amelyek a felsorolt eszközök jellemzőit szimulálják).
+## a) Kifejezetten katonai célra kifejlesztett bombák, torpedók, gránátok, füst- és ködgránátok, nem irányított rakéták (reaktív töltetek), aknák, irányított rakéták, mélységi robbanó töltetek, romboló eszközök, romboló készletek, "pirotechnikai eszközök", töltetek és szimulátorok (berendezések, amelyek a felsorolt eszközök jellemzőit szimulálják).
 
-## Megjegyzés: Az ML4. fejezet a) pontja magában foglalja többek között:
+## Megjegyzés: Az ML4. fejezet a) pontja magában foglal:
 
-## a) füst- és ködgránátokat, tűzbombákat, gyújtóbombákat és robbanó eszközöket;
+## a) füst- és ködgránátokat, gyújtóbombákat, és robbanó eszközöket;
 
 ## b) rakétahajtómű fúvókákat és visszatérő szerkezetek orrkúpjait.
 
 ## b) Az alábbi tulajdonságok mindegyikével rendelkező berendezések:
 
-## 1. kifejezetten katonai felhasználásra tervezték;és
+## 1. kifejezetten katonai felhasználásra tervezték; és
 
-## 2. kifejezetten az alábbiak bármelyikével összefüggő „tevékenység” céljára tervezték:
+## 2. kifejezetten az alábbiak bármelyikével összefüggő "tevékenység" céljára tervezték:
 
-## a) az ML4. fejezet a) pontjában meghatározott eszközök valamelyike;vagy
+## a) az ML4. fejezet a) pontjában meghatározott eszközök valamelyike; vagy
 
 ## b) rögtönzött robbanószerkezetek (IED-k).
 
 ## Műszaki megjegyzés:
 
-## Az ML4. fejezet 2. b) pontjának alkalmazásában a ’tevékenység’ a következőkre vonatkozik:kezelés, indítás, telepítés, irányítás, leszerelés, robbantás, működtetés, egyszeri üzemeltetésre való energiaellátás, csapdává alakítás, zavarás, keresés, felfedés, leállítás vagy megsemmisítés.
+## Az ML4. fejezet b) pont 2. alpontjának alkalmazásában a "tevékenység" a következőkre vonatkozik: kezelés, indítás, telepítés, irányítás, leszerelés, robbantás, működtetés, egyszeri üzemeltetésre való energiaellátás, csapdává alakítás, zavarás, keresés, felfedés, leállítás vagy megsemmisítés.
 
 ## 1. megjegyzés: Az ML4. fejezet b) pontja magában foglal:
 
-## a) mobil gázcseppfolyósító berendezést, amely naponta min. 1.000 kg gáznak a folyékony alakban történő előállítására alkalmas;
+## a) mobil gázcseppfolyósító berendezést, amely naponta min. 1000 kg gáznak a folyékony alakban történő előállítására alkalmas;
 
 ## b) úszóképes villamos vezetéket, amely mágneses aknák felszedésére alkalmas.
 
-## 2. megjegyzés: Az ML4. fejezet b) pontja nem vonatkozik azokra a kézi készülékekre, amelyeket kizárólag fémtárgyak kimutatására terveztek és nem képesek megkülönböztetni az aknákat más fémtárgyaktól.
-
-## c) Légijárművek rakétavédelmi rendszerei (AMPS).
+## c) Légi járművek rakétavédelmi rendszerei (AMPS).
 
 ## Megjegyzés: Az ML4. fejezet c) pontja nem vonatkozik az alábbiak mindegyikével rendelkező AMPS-ekre:
 
-## a) az alábbi rakétajelző érzékelők bármelyike:
+## a) Az alábbi rakétajelző érzékelők bármelyike:
 
-## 1. 100 és 400 nm közötti érzékelési csúcsteljesítménnyel rendelkező passzív érzékelők;vagy
+## 1. 100 és 400 nm közötti érzékelési csúcsteljesítménnyel rendelkező passzív érzékelők; vagy
 
-## 2. aktív pulzált doppler rakétajelző érzékelők;
+## 2. aktív pulzált doppler rakétajelző érzékelők.
 
-## b) ellentevékenységet generáló kiszóró rendszerek;
+## b) Ellentevékenységet generáló kiszóró rendszerek.
 
-## c) láthatóés infravörös jelet egyaránt kibocsátó világítótöltetek a föld-levegő rakéták eltérítésére;és
+## c) Látható és infravörös jelet egyaránt kibocsátó világítótöltetek a föld-levegő rakéták eltérítésére; és
 
-## d) „Polgári légijárműre” felszerelt AMPS, amely az alábbi jellemzők mindegyikével rendelkezik:
+## d) "Polgári légi járműre" felszerelt AMPS, amely az alábbi jellemzők mindegyikével rendelkezik:
 
-## 1. az AMPS csak olyan konkrét „polgári légijárművön” működtethető, amelybe az adott konkrét AMPS-t beszerelték, és amely rendelkezik az alábbiak valamelyikével:
+## 1. az AMPS csak olyan konkrét "polgári légi járművön" működtethető, amelybe az adott konkrét AMPS-t beszerelték, és amely rendelkezik az alábbiak valamelyikével:
 
-## a) polgári típusalkalmassági engedéllyel;vagy
+## a) polgári típusú minősítéssel; vagy
 
 ## b) azzal egyenrangú, a Nemzetközi Polgári Repülési Szervezet (ICAO) által elismert okmánnyal;
 
-## 2. az AMPS a „szoftverhez” való jogosultatlan hozzáférés megakadályozására szolgáló védelmet alkalmaz;és
+## 2. az AMPS a "szoftverhez" való jogosultatlan hozzáférés megakadályozására szolgáló védelmet alkalmaz; és
 
-## 3. az AMPS rendelkezik olyan aktív mechanizmussal, amely megakadályozza a rendszer működését, ha azt eltávolították abból a „polgári légijárműből”, amelyikbe eredetileg beszerelték.
+## 3. az AMPS rendelkezik olyan aktív mechanizmussal, amely megakadályozza a rendszer működését, ha azt eltávolították abból a "polgári légi járműből", amelyikbe eredetileg beszerelték.
 
 ## V. fejezet
 
-## (ML 5.)
+## (ML 5)
 
-## Kifejezetten katonai célra tervezett tűzvezető, és kapcsolódó készültségi és riasztó eszközök, továbbá a kapcsolódó rendszerek, teszt és illesztő és ellentevékenység berendezései és a kifejezetten azokhoz tervezett részegységek és tartozékok a következők szerint:
+## Kifejezetten katonai célra tervezett tűzvezető, és kapcsolódó készültségi és riasztó eszközök, továbbá a kapcsolódó rendszerek, teszt és illesztő és ellentevékenység berendezései és a kifejezetten azokhoz tervezett részegységek és szerelvények a következők szerint:
 
-## a) fegyverirányzékok, bombavető számítógépek, lövegbemérő irányzó berendezések és fegyverzetirányító rendszerek;
+## a) fegyverirányzékok, bombavető számítógépek, lövegbeállító irányzó berendezések és fegyverzetirányító rendszerek;
 
-## b) cél-felderítő, -megjelölő, távolságmérő, megfigyelő vagy rávezető rendszerek;felderítés, adatfúzió, felismerés vagy azonosítás berendezései és szenzor integrációs berendezések;
+## b) célfelderítő, -megjelölő, távolságmérő, megfigyelő vagy rávezető rendszerek; felderítés, adatfúzió, felismerés vagy azonosítás berendezései és szenzor integrációs berendezések;
 
 ## c) az ML5. fejezet a) és b) pontjában meghatározott eszközök elleni ellentevékenység eszközei;
 
@@ -202,67 +234,73 @@
 
 ## VI. fejezet
 
-## (ML 6.)
+## (ML 6)
 
-## Szárazföldi járművek és részegységeik a következők szerint:
+## Szárazföldi járművek és részegységeik, a következők szerint:
 
-## NB: Az irányítás és navigáció eszközei vonatkozásában lásd az ML11. fejezetet.
+## NB.: Az irányítás és navigáció eszközei vonatkozásában lásd az ML11. fejezetet.
 
 ## a) Kifejezetten katonai felhasználásra tervezett vagy arra átalakított szárazföldi járművek és részegységeik.
 
-## Műszaki megjegyzés:
-
 ## Az ML6. fejezet a) pontja alkalmazásában a szárazföldi járművek kifejezés magában foglalja a pótkocsikat is.
 
-## b) Egyéb szárazföldi járművek és részegységeik a következők szerint:
+## b) Egyéb szárazföldi járművek és részegységeik, a következők szerint:
 
-## 1. Összkerék-meghajtású, terepjáró képességgel rendelkező járművek, amelyeket a III. szint (lásd NIJ 0108.01, 1985. szeptember, vagy a megfelelő nemzeti szabványt) szerinti vagy annál jobb ballisztikai védelmi képességet biztosító anyagokkal vagy részegységekkel gyártottak vagy láttak el.
+## 1. Az alábbi jellemzők mindegyikével rendelkező járművek:
+
+## a) járművek, amelyeket a III. szint (lásd: NIJ 0108.01, 1985. szeptember, vagy a megfelelő nemzeti szabvány) szerinti vagy annál jobb ballisztikai védelmi képességet biztosító anyagokkal vagy részegységekkel gyártottak vagy láttak el;
+
+## b) olyan hajtómű, amely egyszerre hajtja meg mindkét elülső és hátulsó kereket, az olyan járműveket is beleértve, amelyek teherszállítás céljára további kerekekkel rendelkeznek, függetlenül attól, hogy azokat meghajtják-e vagy sem;
+
+## c) a jármű teljes (bruttó) súlya meghaladja a 4500 kg-ot; és
+
+## d) terepjáró használatra tervezték vagy alakították át.
 
 ## 2. Az alábbi tulajdonságok mindegyikével rendelkező részegységek:
 
-## a) kifejezetten az ML6. fejezet b)1. pontjában meghatározott járművekhez tervezték;és
+## a) kifejezetten az ML6. fejezet b)1. pontjában meghatározott járművekhez tervezték; és
 
-## b) a III. szint (lásd NIJ 0108.01, 1985. szeptember, vagy a megfelelő nemzeti szabványt) szerinti vagy annál jobb ballisztikai védelmi képességet biztosít.
+## b) a III. szint (lásd: NIJ 0108.01, 1985. szeptember, vagy a megfelelő nemzeti szabvány) szerinti vagy annál jobb ballisztikai védelmi képességet biztosít.
 
 ## NB: Lásd még az ML13. fejezet a) pontját.
 
 ## 1. megjegyzés: Az ML6. fejezet a) pontja magában foglalja az alábbiakat:
 
-## a) harckocsik és más hadi fegyverzettel ellátott járművek, továbbá fegyverek, valamint aknatelepítésre vagy az ML4. fejezetben meghatározott lőszerek indítóeszközeinek rögzítésére szolgáló előkészítéssel ellátott katonai járművek;
+## a) harckocsik és más katonai fegyverzettel ellátott járművek, valamint fegyverek rögzítésre szolgáló előkészítéssel, vagy aknatelepítő, vagy az ML4. fejezetben meghatározott lőszerek indítására szolgáló eszközökkel ellátott katonai járművek;
 
 ## b) páncélozott járművek;
 
 ## c) kétéltű és mély gázló képességgel rendelkező járművek;
 
-## d) műszaki mentő járművek, lőszer vagy fegyverrendszerek, valamint a rakomány kezelésére szolgáló berendezések vontatására vagy szállítására használt járművek.
+## d) mentő járművek, lőszer vagy fegyverrendszerek, valamint a rakomány kezelésére szolgáló berendezések vontatására vagy szállítására használt járművek.
 
-## 2. megjegyzés: Az ML6. fejezet a) pontjában meghatározott szárazföldi jármű kifejezetten katonai használatra történő átalakítása együtt jár olyan szerkezeti, elektromos vagy mechanikai változtatással, amely magában foglal egy vagy több kifejezetten katonai felhasználásra tervezett részegységet.Ilyen részegységek az alábbiak:
+## 2. megjegyzés: Az ML6. fejezet a) pontjában meghatározott szárazföldi jármű kifejezetten katonai használatra történő átalakítása együtt jár olyan szerkezeti, elektromos vagy mechanikai változtatással, amely magában foglal egy vagy több kifejezetten katonai felhasználásra tervezett részegységet. Ilyen részegységek az alábbiak:
 
 ## a) pneumatikus kerékköpeny, amelyet kifejezetten golyóálló tulajdonsággal terveztek;
 
-## b) az alapvető fontosságú részek páncélozott védelme (például üzemanyagtartály vagy járműkabin);
+## b) az alapvető fontosságú részek páncélozott védelme (pl. üzemanyagtartály vagy járműkabin);
 
 ## c) különleges megerősítések fegyverzet felszereléséhez vagy rögzítéséhez;
 
 ## d) világítás elsötétítésére való alkalmasság.
 
-## 3. megjegyzés: Az ML6. fejezet nem vonatkozik az olyan polgári gépkocsikra vagy teherautókra, amelyeket pénz- vagy értékszállításra terveztek vagy alakítottak át, és páncélzattal vagy ballisztikai védelemmel láttak el.
+## 3. megjegyzés: Az ML6. fejezet nem vonatkozik az olyan polgári járművekre, amelyeket pénz- vagy értékszállításra terveztek vagy alakítottak át.
 
 ## 4. megjegyzés: Az ML6. fejezet nem vonatkozik az olyan járművekre, amelyek megfelelnek az alábbi kritériumok mindegyikének:
 
 ## a) 1946 előtt gyártották;
 
-## b) nem rendelkeznek az Európai Unió közös katonai listáján meghatározott és 1945 után gyártott eszközökkel, kivéve a jármű eredeti részegységeinek vagy tartozékainak másolatait; és
+## b) nem rendelkeznek az EU közös katonai listáján meghatározott és 1945 után gyártott eszközökkel, kivéve a jármű eredeti alkatrészeinek vagy tartozékainak másolatait; és
 
 ## c) nincsenek felszerelve az ML1., ML2. vagy ML3. fejezetben meghatározott fegyverrel, kivéve, ha az működésképtelen és alkalmatlan lövedék kilövésére.
 
 ## VII. fejezet
 
-## (ML 7.)
+## (ML 7)
 
-## Vegyi vagy biológiai mérgező harcanyagok, „tömegoszlató harcanyagok”, radioaktív anyagok, kapcsolódó berendezések, összetevők és anyagok a következők szerint:
+## Vegyi vagy biológiai mérgező harcanyagok, "tömegoszlató harcanyagok", radioaktív anyagok, kapcsolódó berendezések, összetevők és anyagok a következők szerint:
 
-## a) „Háborús felhasználáshoz igazított” biológiai vagy radioaktív harcanyagok, amelyek képesek emberekben vagy állatokban sérülést okozni, berendezésekben, növényi kultúrákban vagy a környezetben kárt tenni.
+## a) "Háborús felhasználáshoz igazított" biológiai vagy radioaktív harcanyagok, amelyek képesek emberekben vagy állatokban sérülést okozni, berendezésekben, növényi kultúrákban vagy a környezetben kárt tenni.
 
 ## b) Vegyi harcanyagok (CW), beleértve:
 
@@ -270,13 +308,13 @@
 
 ## a) O-alkil (legfeljebb 10 szénatomot tartalmazó lánc, beleértve a cikloalkilt) alkil (metil, etil, n-propil vagy izopropil) - fluorfoszfonátok, úgymint:
 
-## Szarin (GB):O-izopropil-metil-fluorfoszfonát (CAS 107-44-8);és
+## Szarin (GB): O-izopropil-metil-fluorfoszfonát (CAS 107-44-8); és
 
-## Szomán (GD):O-pinakolil-metil-fluorfoszfonát (CAS 96-64-0);
+## Szomán (GD): O-pinakolil-metil-fluorfoszfonát (CAS 96-64-0);
 
 ## b) O-alkil (legfeljebb 10 szénatomot tartalmazó lánc, beleértve a cikloalkilt) N,N-dialkil (metil, etil, n-propil vagy izopropil) amino-ciánfoszfátok, úgymint:
 
-## Tabun (GA):O-etil N,N-dimetilamino-cianfoszfát (CAS 77-81-6);
+## Tabun (GA): O-etil N,N-dimetilamino-cianfoszfát (CAS 77-81-6);
 
 ## c) O-alkil (H vagy legfeljebb 10 szénatomot tartalmazó lánc, beleértve a cikloalkilt), S-2-dialkil (metil, etil, n-propil vagy izopropil)-aminoetil alkil (metil, etil, n-propil vagy izopropil) foszfonotiolátok és megfelelő alkilált és protonált sók, úgymint:
 
@@ -314,37 +352,37 @@
 
 ## c) nitrogénmustárok, úgymint:
 
-## 1. HN1:bisz(2-klóretil)etilamin (CAS 538-07-8);
+## 1. HN1: bisz(2-klóretil)etilamin (CAS 538-07-8);
 
-## 2. HN2:bisz(2-klóretil)metilamin (CAS 51-75-2);
+## 2. HN2: bisz(2-klóretil)metilamin (CAS 51-75-2);
 
-## 3. HN3:trisz(2-klóretil)amin (CAS 555-77-1);
+## 3. HN3: trisz(2-klóretil)amin (CAS 555-77-1);
 
 ## 3. cselekvőképességet akadályozó vegyi harcanyagok, úgymint:
 
-## 3-kvinuklidinil-benzilát (BZ) (CAS 6581-06-2);
+## a) 3-kvinuklidinil-benzilát (BZ) (CAS 6581-06-2);
 
 ## 4. lombtalanító (defoliáns) vegyi harcanyagok, úgymint:
 
 ## a) butil 2-klóro-4-fluorofenoxiacetát (LNF);
 
-## b) 2,4,5-triklórfenoxi ecetsav (CAS 93-76-5) keverve 2,4-diklórfenoxi ecetsavval (CAS 94-75-7) (Agent Orange (CAS 39277-47-9)).
+## b) 2,4,5-triklórfenoxi ecetsav (CAS 93-76-5) keverve 2,4-diklórfenoxi ecetsavval (CAS 94-75-7) (Agent Orange (CAS 39277-47-9));
 
 ## c) CW bináris prekurzorok és kulcs prekurzorok a következők szerint:
 
 ## 1. alkil (metil, etil, n-propil vagy izopropil foszfonil-difluorid, mint
 
-## DF:metil-foszfonil-difluorid (CAS 676-99-3);
+## DF: metil-foszfonil-difluorid (CAS 676-99-3);
 
-## 2. o-alkil (amelyben a H egyenlő vagy kevesebb mint C10, beleértve a cikloalkilt) O-2-dialkil (metil, etil, n-propil vagy izopropil) aminoetil alkil (metil, etil, n-propil vagy izopropil) foszfonitok és megfelelő alkilált és protonált sók, úgymint:
+## 2. o.-alkil (amelyben a H egyenlő vagy kevesebb, mint C10, beleértve a cikloalkilt) O-2-dialkil (metil, etil, n-propil vagy izopropil) aminoetil alkil (metil, etil, n-propil vagy izopropil) foszfonitok és megfelelő alkilált és protonált sók, úgymint:
 
-## QL:O-etil O-2-diizopropilamino-etil-metilfoszfonit (CAS 57856-11-8);
+## QL: O-etil O-2-diizopropilamino-etil-metilfoszfonit (CAS 57856-11-8);
 
-## 3. klórszarin:O-izopropil-metilklórfoszfonát (CAS 1445-76-7);
+## 3. klórszarin: O-izopropil-metilklórfoszfonát (CAS 1445-76-7);
 
-## 4. klórszomán:O-pinakolil-etilklórfoszfonát (CAS 7040-57-5).
+## 4. klórszomán: O-pinakolil-etilklórfoszfonát (CAS 7040-57-5).
 
-## d) „Tömegoszlató anyagok”, aktív összetevőkből álló vegyi anyagok és azok kombinációi, beleértve:
+## d) "Tömegoszlató anyagok", aktív összetevőkből álló vegyi anyagok és azok kombinációi, beleértve:
 
 ## 1. α-bromofenilacetonitril, (α-bromobenzil-cianid) (CA) (CAS 5798-79-8);
 
@@ -356,15 +394,15 @@
 
 ## 5. 10-klór-5,10-dihidrofenarzin, (fenarzin klorid), (Adamzit), (DM) (CAS 578-94-9);
 
-## 6. N-Nonanoylmorfolin, (MPA) (CAS 5299-64-9).
+## 6. N-Nonanoylmorfolin, (MPA) (CAS 5299-64-9)
 
-## 1. megjegyzés: Az ML7. fejezet d) pontja nem vonatkozik azokra a „tömegoszlató harcanyagokra”, amelyek kiszerelése egyedi és személyes önvédelemre szolgál.
+## 1. megjegyzés: Az ML7. fejezet d) pontja nem vonatkozik azokra a "tömegoszlató harcanyagokra", amelyek kiszerelése egyedi és személyes önvédelemre szolgál.
 
 ## 2. megjegyzés: Az ML7. fejezet d) pontja nem vonatkozik az élelmiszertermelési és gyógyászati célokra azonosított és csomagolt aktív összetevőkből álló vegyi anyagokra és azok kombinációira.
 
 ## e) A következőkben felsoroltak bármelyikének és a kimondottan azokhoz tervezett részegységek szétterítésére tervezett vagy átalakított, kifejezetten katonai felhasználásra tervezett vagy átalakított berendezések:
 
-## 1. az ML7. fejezet a), b) vagy d) pontjában meghatározott anyagok;vagy
+## 1. az ML7. fejezet a), b) vagy d) pontjaiban meghatározott anyagok; vagy
 
 ## 2. az ML7. fejezet c) pontja alatt felsorolt prekurzorokból készült vegyi harcanyagok.
 
@@ -376,13 +414,13 @@
 
 ## 3. kifejezetten az ML7. fejezet a) vagy b) pontja alatt felsorolt anyagokkal szennyezett létesítmények mentesítésére kifejlesztett vagy előállított vegyi keverékek.
 
-## Megjegyzés: Az ML7. fejezet f) pont 1. alpontja magában foglalja a következőket:
+## Megjegyzés: Az ML7. fejezet f) 1. alpontja magában foglalja a következőket:
 
 ## a) a kifejezetten nukleáris, biológiai és vegyi szűrésre tervezett, vagy átalakított légkondicionáló berendezések;
 
 ## b) védőruházat.
 
-## NB: A polgári gázálarcok, valamint a védő- és mentesítő felszerelések, illetve berendezések tekintetében lásd még a kettős felhasználású termékek és technológiák uniós jegyzékének 1A004. pontját.
+## NB: A polgári gázálarcok, védő- és fertőtlenítő felszerelésekről további részletek a kettős felhasználású termékek és technológiák uniós jegyzékének 1A004. pontjában is találhatók.
 
 ## g) Az ML7. fejezet a), b) vagy d) pontjában meghatározott harcanyagok felderítésére vagy azonosítására tervezett vagy átalakított, kifejezetten katonai felhasználásra tervezett vagy átalakított berendezések továbbá kifejezetten az azokhoz tervezett részegységek.
 
@@ -390,73 +428,71 @@
 
 ## NB: Lásd még a kettős felhasználású termékek és technológiák uniós jegyzékének 1A004. pontját.
 
-## h) A kifejezetten az ML7. fejezet b) pontjában meghatározott vegyi harcanyagok érzékelésére vagy azonosítására tervezett vagy feldolgozott „biopolimerek” és az ezek előállításához használt specifikus sejtkultúrák.
+## h) A kifejezetten az ML7. fejezet b) pontjában meghatározott vegyi harcanyagok érzékelésére vagy azonosítására tervezett vagy feldolgozott "biopolimerek" és az ezek előállításához használt specifikus sejtkultúrák.
 
-## i) Vegyi harcanyagok semlegesítésére vagy lebontására szolgáló „biokatalizátorok” és azok biológiai rendszerei a következők szerint:
+## i) Vegyi harcanyagok semlegesítésére vagy lebontására szolgáló "biokatalizátorok" és azok biológiai rendszerei a következők szerint:
 
-## 1. a kifejezetten az ML7. fejezet b) pontjában meghatározott vegyi harcanyagok semlegesítésére és lebontására tervezett „biokatalizátorok”, amelyek a biológiai rendszerek irányított laboratóriumi szelekciója vagy genetikai manipulációja eredményeként jönnek létre;
+## 1. a kifejezetten az ML7. fejezet b) pontjában meghatározott vegyi harcanyagok semlegesítésére és lebontására tervezett "biokatalizátorok", amelyek a biológiai rendszerek irányított laboratóriumi szelekciója, vagy genetikai manipulációja eredményeként jönnek létre;
 
-## 2. biológiai rendszerek, amelyek tartalmazzák az ML7. fejezet i) pont 1. alpontjában meghatározott „biokatalizátorok” előállításához szükséges specifikus genetikai információt az alábbiak szerint:
+## 2. biológiai rendszerek, amelyek tartalmazzák az ML7. fejezet i) pontjának 1. alpontjában meghatározott "biokatalizátorok" előállításához szükséges specifikus genetikai információt az alábbiak szerint:
 
-## a) „expressziós vektorok”;
+## a) "expressziós vektorok";
 
 ## b) vírusok;
 
 ## c) sejtkultúrák.
 
-## 1. megjegyzés: Az ML7. fejezet b) és d) pontja nem vonatkozik a következőkre:
+## 1. megjegyzés: Az ML7. fejezet b) és d) pontjai nem vonatkoznak a következőkre:
 
-## a) cianogén-klorid (CAS 506-77-4);lásd a kettős felhasználású termékek és technológiák uniós jegyzékének 1C450.a.5. pontját;
+## a) cianogén-klorid (CAS 506-77-4); Lásd a kettős felhasználású termékek és technológiák uniós jegyzékének 1C450.a.5. pontját.
 
 ## b) hidrogén-cianid (CAS 74-90-8);
 
 ## c) klór (CAS 7782-50-5);
 
-## d) karbonil klorid (foszgén) (CAS 75-44-5);Lásd a kettős felhasználású termékek és technológiák uniós jegyzékének 1C450.a.4. pontját.
+## d) karbonil klorid (foszgén) (CAS 75-44-5); Lásd a kettős felhasználású termékek és technológiák uniós jegyzékének 1C450.a.4. pontját.
 
 ## e) difoszgén (triklórmetil-klórformiát) (CAS 503-38-8);
 
-## f) 2004 óta nem használatos;
+## f) xylyl bromide, ortho: (CAS 89-92-9), meta: (CAS 620-13-3), para: (CAS 104-81-4);
 
-## g) xylyl bromide, ortho:(CAS 89-92-9), meta:(CAS 620-13-3), para:(CAS 104-81-4);
+## g) benzil-bromid (CAS 100-39-0);
 
-## h) benzil-bromid (CAS 100-39-0);
+## h) benzil-jodid (CAS 620-05-3);
 
-## i) benzil-jodid (CAS 620-05-3);
+## i) brómaceton (CAS 598-31-2);
 
-## j) brómaceton (CAS 598-31-2);
+## j) cianogén-bromid (CAS 506-68-3);
 
-## k) cianogén-bromid (CAS 506-68-3);
+## k) bróm metil-etil-keton (CAS 816-40-0);
 
-## l) bróm metil-etil-keton (CAS 816-40-0);
+## l) klóraceton (CAS 78-95-5);
 
-## m) klóraceton (CAS 78-95-5);
+## m) etil-jódacetát (CAS 623-48-3);
 
-## n) etil-jódacetát (CAS 623-48-3);
+## n) jódaceton (CAS 3019-04-3);
 
-## o) jódaceton (CAS 3019-04-3);
+## o) klórpikrin (CAS 76-06-2). Lásd a kettős felhasználású termékek és technológiák uniós jegyzékének 1C450.a.7. pontját.
 
-## p) klórpikrin (CAS 76-06-2);lásd a kettős felhasználású termékek és technológiák uniós jegyzékének 1C450.a.7. pontját.
-
-## 2. megjegyzés: Az ML7. fejezet h) pontjában és i) pont 2. alpontjában meghatározott sejtkultúrák és biológiai rendszerek kizárólagosak és ezek az alpontok nem vonatkoznak a polgári célt szolgáló sejtekre vagy biológiai rendszerekre, amelyeket például a mezőgazdaságban, gyógyszeriparban, egészségügyben, állatgyógyászatban, környezetvédelemben, hulladékfeldolgozásban vagy élelmiszeriparban alkalmaznak.
+## 2. megjegyzés: Az ML7. fejezet h) pontjában és i) pontjának 2. alpontjában meghatározott sejtkultúrák és biológiai rendszerek kizárólagosak és ezek az alpontok nem vonatkoznak a polgári célt szolgáló sejtekre vagy biológiai rendszerekre, amelyeket például a mezőgazdaságban, gyógyszeriparban, egészségügyben, állatgyógyászatban, környezetvédelemben, hulladék feldolgozásban vagy élelmiszeriparban alkalmaznak.
 
 ## VIII. fejezet
 
-## (ML 8.)
+## (ML 8)
 
-## „Energiahordozó anyagok” és kapcsolódó összetevők a következők szerint:
+## "Energiahordozó anyagok" és kapcsolódó összetevők, a következők szerint:
 
 ## 1. NB: Lásd még a kettős felhasználású termékek és technológiák uniós jegyzékének 1C011. pontját.
 
-## 2. NB: Töltetekért és eszközökért lásd az ML4. pontot, valamint a kettős felhasználású termékek és technológiák uniós jegyzékének 1A008. pontját.
+## 2. NB: Töltetekért és eszközökért lásd az ML4. pontot, valamint a kettős felhasználású termékek és technológiák uniós jegyzékének 1A008. pontját
 
 ## Technikai megjegyzés
 
 ## 1. Az ML8. fejezet alkalmazásában a keverék két vagy több anyag összetételét jelenti, amelyek közül legalább az egyik az ML8. pontban szerepel.
 
-## 2. Ez a lista az ML8. pontban szereplő minden anyagra vonatkozik, még akkor is, ha nem a feltüntetett alkalmazásra szolgál (például a TAGN főképpen robbanóanyagként használatos, de üzemanyagként vagy oxidálószerként is ismert).
+## 2. Ez a lista az ML8. pontban szereplő minden anyagra vonatkozik, még akkor is, ha nem a feltüntetett alkalmazásra szolgál (pl. a TAGN főképpen robbanóanyagként használatos, de üzemanyagként vagy oxidálószerként is ismert).
 
-## a) „Robbanóanyagok” és azok keverékei:
+## a) "Robbanóanyagok" és azok keverékei:
 
 ## 1. ADNBF (aminodinitrobenzofuroxan vagy 7-amino-4,6-dinitrobenzofurazán-1-oxide) (CAS 97096-78-1);
 
@@ -464,7 +500,7 @@
 
 ## 3. CL-14 (diamino dinitrobenzofuroxan vagy 5,7-diamino-4,6-initrobenzofurazán-1-oxid) (CAS 117907-74-1);
 
-## 4. CL-20 (HNIW vagy hexanitrohexaazaisowurtzitane) (CAS 135285-90-4);CL-20 klatrátjai (lásd még VIII. fejezet g) „Perkurzorok” 3. és 4. alpontjait);
+## 4. CL-20 (HNIW vagy hexanitrohexaazaisowurtzitane) (CAS 135285-90-4); CL-20 klatrátjai (lásd még VIII. fejezet g) "Perkurzorok" 3. és 4. alpontjait);
 
 ## 5. CP [2-(5-cianotetrazoláto) penta amin-kobalt (III) perklorát] (CAS 70247-32-4);
 
@@ -476,7 +512,7 @@
 
 ## 9. DDPO (2,6-diamino-3,5-dinitropirazin-1-oxid, PZO) (CAS 194486-77-6);
 
-## 10. DIPAM (3,3'-diamino-2,2',4,4',6,6'-hexanitrobiphenyl vagy dipicramide)(CAS 17215-44-0);
+## 10. DIPAM (3,3′-diamino-2,2′,4,4′,6,6′-hexanitrobiphenyl vagy dipicramide)(CAS 17215-44-0);
 
 ## 11. DNGU (DINGU vagy dinitroglikoluril) (CAS 55510-04-8);
 
@@ -498,7 +534,7 @@
 
 ## 15. HNS (hexanitrosztilbén) (CAS 20062-22-0);
 
-## 16. Imidazolok, a következők szerint:
+## 16. imidazolok, a következők szerint:
 
 ## a) BNNII [oktahidro-2,5-bisz(nitroimino)imidazo (4,5-d)imidazol];
 
@@ -514,7 +550,7 @@
 
 ## 18. NTO (ONTA vagy 3-nitro-1,2,4-triazol-5-on) (CAS 932-64-9);
 
-## 19. Polinitrokubánok több mint négy nitro csoporttal;
+## 19. polinitrokubánok több mint négy nitro csoporttal;
 
 ## 20. PYX [2,6-Bisz(pikrilamino)-3,5-dinitropiridin] (CAS 38082-89-2);
 
@@ -526,33 +562,33 @@
 
 ## 22. TAGN (triamino-guanidin-nitráte) (CAS 4000-16-2);
 
-## 23. TATB (triamino-trinitrobenzol) (CAS 3058-38-6) (lásd még a VIII. fejezet g) „Prekurzorok” 7. alpontját);
+## 23. TATB (triamino-trinitrobenzol) (CAS 3058-38-6) (lásd még a VIII. fejezet g) "Prekurzorok" 7. alpontját);
 
 ## 24. TEDDZ [3,3,7,7-tetrabisz(difluoroamine) oktahidro-1,5-dinitro-1,5-diazocin];
 
-## 25. Tetrazolok a következők szerint:
+## 25. tetrazolok a következők szerint:
 
 ## a) NTAT (nitrotriazol aminotetrazol);
 
 ## b) TNT [1-N-(2-nitrotriazolo)-4-nitrotetrazol];
 
-## 26. Tetril (trinitrofenil-metilnitramin) (CAS 479-45-8);
+## 26. tetril (trinitrofenil-metilnitramin) (CAS 479-45-8);
 
-## 27. TNAD (1,4,5,8-tetranitro-1,4,5,8-tetraazadekalin) (CAS 135877-16-6) (lásd még a VIII. fejezet g) „Prekurzorok” 6. alpontját);
+## 27. TNAD (1,4,5,8-tetranitro-1,4,5,8-tetraazadekalin) (CAS 135877-16-6) (lásd még a VIII. fejezet g) "Prekurzorok" 6. alpontját);
 
-## 28. TNAZ (1,3,3-trinitroazetidin) (CAS 97645-24-4) (lásd még a VIII. fejezet g) „Prekurzorok” 2. alpontját);
+## 28. TNAZ (1,3,3-trinitroazetidin) (CAS 97645-24-4) (lásd még a VIII. fejezet g) "Prekurzorok" 2. alpontját);
 
 ## 29. TNGU (SORGUYL vagy tetranitroglikoluril) (CAS 55510-03-7);
 
 ## 30. TNP (1,4,5,8-tetranitro-piridazino[4,5-d] piridazin) (CAS 229176-04-9);
 
-## 31. Triazinok a következők szerint:
+## 31. triazinok a következők szerint:
 
 ## a) DNAM (2-oxi-4,6-dinitroamino-s-triazin) (CAS 19899-80-0);
 
 ## b) NNHT (2-nitroimino-5-nitro-hexahidro-1,3,5-triazin) (CAS 130400-13-4);
 
-## 32. Triazolok a következők szerint:
+## 32. triazolok a következők szerint:
 
 ## a) 5-azido-2-nitrotriazol;
 
@@ -566,51 +602,51 @@
 
 ## f) DNBT (dinitrobisztriazol) (CAS 70890-46-9);
 
-## g) 2010 óta nem használatos;
+## g) NTDNT [1-N-(2-nitrotriazolo) 3,5-dinitrotriazol];
 
-## h) NTDNT [1-N-(2-nitrotriazolo) 3,5-dinitrotriazol];
+## h) PDNT (1-pikril-3,5-dinitrotriazol);
 
-## i) PDNT (1-pikril-3,5-dinitrotriazol);
-
-## j) TACOT (tetranitrobenzotriazolobenzotriazol) (CAS 25243-36-1);
+## i) TACOT (tetranitrobenzotriazolobenzotriazol) (CAS 25243-36-1);
 
 ## 33. az ML8. fejezet a) pontja alatt fel nem sorolt robbanóanyagok, amelyek a következő jellemzők bármelyikével rendelkeznek:
 
-## a) maximális sűrűségnél a 8.700 m/s értéket meghaladó detonációs sebesség, vagy
+## a) maximális sűrűségnél a 8700 m/s értéket meghaladó detonációs sebesség; vagy
 
 ## b) a 34 Gpa (340 kbar) értéket meghaladó detonációs nyomás;
 
 ## 34. az ML8. fejezet a) pontja alatt fel nem sorolt szerves robbanóanyagok, amelyek a következő jellemzők mindegyikével rendelkeznek:
 
-## a) a detonációs nyomás eléri vagy meghaladja a 25 Gpa (250 kbar) értéket, valamint
+## a) a detonációs nyomás eléri vagy meghaladja a 25 Gpa (250 kbar) értéket; valamint
 
-## b) 523°K (250°C) vagy magasabb hőmérsékletnél 5 percnyi vagy hosszabb időtartamig stabilak maradnak.
+## b) 523°K (250 °C) vagy magasabb hőmérsékletnél 5 percnyi vagy hosszabb időtartamig stabilak maradnak.
 
-## b) „Hajtóanyagok”:
+## b) "Hajtóanyagok":
 
-## 1. az ENSZ „UN 1.1” osztályába tartozó bármely szilárd „hajtóanyag”, amelynek elméleti specifikus impulzusa (szabványos feltételek között) több, mint 250 másodperc a nem fémezett, vagy több, mint 270 másodperc az alumíniumozott kompozíciók esetében;
+## 1. az ENSZ "UN 1.1" osztályába tartozó bármely szilárd "hajtóanyag", amelynek elméleti specifikus impulzusa (szabványos feltételek között) több mint 250 másodperc a nem fémezett, vagy több mint 270 másodperc az alumíniumozott kompozíciók esetében;
 
-## 2. az ENSZ „UN 1.3.” osztályába tartozó bármely szilárd „hajtóanyag”, amelynek elméleti specifikus impulzusa (szabványos feltételek között) több, mint 230 másodperc a nem halogénezett, 250 másodperc a nem fémes kompozíciók, és 266 másodperc a fémes kompozíciók esetében;
+## 2. az ENSZ "UN 1.3." osztályába tartozó bármely szilárd "hajtóanyag", amelynek elméleti specifikus impulzusa (szabványos feltételek között) több mint 230 másodperc a nem halogénezett, 250 másodperc a nem fémes kompozíciók, és 266 másodperc a fémes kompozíciók esetében;
 
-## 3. „hajtóanyagok”, amelyek erőállandója nagyobb, mint 1.200 kJ/kg;
+## 3. "hajtóanyagok", amelyek erőállandója nagyobb, mint 1200 kJ/kg;
 
-## 4. „hajtóanyagok”, amelyek 38 mm/s stabil egyenes vonalú égési sebességet képesek fenntartani szabványos feltételek között (késleltetett egyes szál formájában mérve) 68,9 bar (6,89 MPa) nyomáson és 294 K (21 °C) hőmérsékleten;
+## 4. "hajtóanyagok", amelyek 38 mm/s stabil egyenes vonalú égési sebességet képesek fenntartani szabványos feltételek között (késleltetett egyes szál formájában mérve) 68,9 bar (6,89 MPa) nyomáson és 294 K (21 °C) hőmérsékleten;
 
-## 5. elasztomerrel módosított, öntött, kétbázisú „hajtóanyag” (EMCDB), amelynek nyújthatósága maximális nyomáson, 233 K (– 40 °C) hőmérsékleten az 5 %-ot meghaladja;
+## 5. elasztomerrel módosított, öntött, kétbázisú "hajtóanyag" (EMCDB), amelynek nyújthatósága maximális nyomáson, 233 K (– 40 °C) hőmérsékleten az 5 %-ot meghaladja;
 
-## 6. bármely egyéb „hajtóanyag”, amely az ML8. fejezet a) pontja alatt meghatározott összetevőt tartalmaz;
+## 6. bármely egyéb "hajtóanyag", amely az ML8. fejezet a) pontja alatt meghatározott összetevőt tartalmaz;
 
-## 7. az Európai Unió közös katonai listájában máshol nem említett, kifejezetten katonai felhasználásra tervezett „hajtóanyagok”.
+## 7. Az EU közös katonai listájában máshol nem említett, kifejezetten katonai felhasználásra tervezett "hajtóanyagok".
 
-## c) „Pirotechnikai eszközök”, üzemanyagok és kapcsolódó összetevőik a következők szerint és azok keverékei:
+## c) "Pirotechnikai eszközök", üzemanyagok és kapcsolódó összetevőik a következők szerint és azok keverékei:
 
-## 1. kifejezetten katonai célra kifejlesztett légijármű- üzemanyagok;
+## 1. kifejezetten katonai célra kifejlesztett repülőgép-üzemanyagok;
+
+## Megjegyzés: Az ML8. fejezet c) pontjának 1. alpontjában felsorolt repülőgép-üzemanyagok végtermékek, nem összetevők.
 
 ## 2. Alane (alumínium hidrid) (CAS 7784-21-6);
 
-## 3. karboránok;dekaboránok (CAS 17702-41-9);pentaboránok (CAS 19624-22-7 és 18433-84-6) és azok származékai;
+## 3. karboránok; dekaboránok (CAS 17702-41-9); pentaboránok (CAS 19624-22-7 és 18433-84-6) és azok származékai;
 
-## 4. hidrazin és származékai [lásd még az ML8. fejezet d) pontjának (oxidáló hidrazin származékok) 8. és 9. alpontját]:
+## 4. hidrazin és származékai, (lásd még az ML8. fejezet d) pontjának (oxidáló hidrazin származékok) 8. és 9. alpontját):
 
 ## a) hidrazin (CAS 302-01-2) 70 % és magasabb koncentrációban;
 
@@ -619,6 +655,8 @@
 ## c) szimmetrikus dimetil hidrazin (CAS 540-73-8);
 
 ## d) nem-szimmetrikus dimetil hidrazin (CAS 57-14-7);
+
+## Megjegyzés: Az ML8. fejezet c) pontjának 4. a) alpontja a kifejezetten korrózió csökkentésére szolgáló hidrazin "keverékekre" nem vonatkozik.
 
 ## 5. fémes üzemanyagok részecske formában, amelyek lehetnek gömbszerűek, atomizáltak, szferoidok, pikkelyesek vagy őröltek, melyek legalább 99 %-ot tartalmaznak az alábbi anyagok bármelyikéből:
 
@@ -630,27 +668,23 @@
 
 ## b) az alábbi összetevőket tartalmazó keverékek:
 
-## 1. cirkónium (CAS 7440-67-7), magnézium (CAS 7439-95-4) vagy ezek ötvözetei 60 μm-nél kisebb részecskemérettel;vagy
+## 1. cirkónium (CAS 7440-67-7), magnézium (CAS 7439-95-4) vagy ezek ötvözetei 60 μm-nél kisebb részecskemérettel; vagy
 
-## 2. bór (CAS 7440-42-8) vagy bór-karbid (CAS 12069-32-8) üzemanyagok 85 %-os vagy magasabb tisztasággal és 60 μm-nél kisebb részecske mérettel;
+## 2. bór (CAS 7440-42-8) vagy bór-karbid (CAS 12069-32-8) üzemanyagok 85 %-os vagy magasabb tisztasággal és 60 μm-nél kisebb részecskemérettel;
 
-## 6. kifejezetten lángszórókban vagy gyújtóbombákban történő felhasználáshoz összeállított, szénhidrogén üzemanyagoknál alkalmazott „sűrítőket”, például fém sztearátokat vagy palmátokat [például octal (CAS 637-12-7)], valamint M1, M2, és M3 sűrítőket tartalmazó katonai anyagok;
+## 1. megjegyzés: Az ML8. fejezet c) pontjának 5. alpontját a robbanóanyagokra és üzemanyagokra alkalmazni kell, függetlenül attól, hogy a fémeket vagy ötvözeteket alumíniumba, magnéziumba, cirkóniumba vagy berilliumba kapszulázták-e.
+
+## 2. megjegyzés: Az ML8. fejezet c) pontjának 5. b) alpontja csak a részecske formában lévő fémes üzemanyagokra vonatkozik abban az esetben, ha azokat más anyagokkal összekeverik olyan katonai célú keverékek előállítása érdekében, mint például a folyékony, sűrű szuszpenziójú hajtóanyagok, a szilárd hajtóanyagok és a pirotechnikai keverékek.
+
+## 3. megjegyzés: Az ML8. fejezet c) pontjának 5. b) 2. alpontja a bór-10-zel dúsított bórra és bórkarbidra (20 %-nál magasabb bór-10 tartalommal) nem vonatkozik.
+
+## 6. kifejezetten lángszórókban vagy gyújtóbombákban történő felhasználáshoz összeállított, szénhidrogén üzemanyagoknál alkalmazott "sűrítőket", pl. fém sztearátokat vagy palmátokat (pl. octal (CAS 637-12-7)), valamint M1, M2, és M3 sűrítőket tartalmazó katonai anyagok;
 
 ## 7. perklorátok, klorátok és kromátok, fémporral, vagy más nagy hatóerejű üzemanyag adalékokkal;
 
 ## 8. gömbösített alumíniumpor (CAS 7429-90-5) 60 μm vagy kisebb részecskemérettel, legalább 99 %-os alumínium tartalmú anyagból;
 
 ## 9. titánium szubhidrid (TiHn), amelynek sztöchiometriai egyenértéke n = 0,65–1,68.
-
-## 1. megjegyzés: Az ML8. fejezet c) pont 1. alpontjában felsorolt légijármű-üzemanyagok végtermékek, nem összetevők.
-
-## 2. megjegyzés: Az ML8. fejezet c) pont 4. a) alpontja a kifejezetten korrózió csökkentésére szolgáló hidrazin keverékekre nem vonatkozik.
-
-## 3. megjegyzés: Az ML8. fejezet c) pont 5. alpontját a robbanóanyagokra és üzemanyagokra alkalmazni kell, függetlenül attól, hogy a fémeket vagy ötvözeteket alumíniumba, magnéziumba, cirkóniumba vagy berilliumba kapszulázták-e.
-
-## 4. megjegyzés: Az ML8. fejezet c) pont 5. b) 2. alpontja a bór-10-zel dúsított bórra és bórkarbidra (20 %-nál magasabb bór-10 tartalommal) nem vonatkozik.
-
-## 5. megjegyzés: Az ML8. fejezet c) pont 5. b) alpontja csak a részecske formában lévő fémes üzemanyagokra vonatkozik abban az esetben, ha azokat más anyagokkal összekeverik olyan katonai célú keverékek előállítása érdekében, mint például a folyékony, sűrű szuszpenziójú hajtóanyagok, a szilárd hajtóanyagok és a pirotechnikai keverékek.
 
 ## d) A következő oxidánsok és azok keverékei:
 
@@ -662,13 +696,13 @@
 
 ## a) egyéb halogének;
 
-## b) oxigén;vagy
+## b) oxigén; vagy
 
 ## c) nitrogén;
 
-## 1. megjegyzés: Az ML8. fejezet d) pont 3. alpontja nem vonatkozik a klór-trifluoridra (CAS 7790-91-2).
+## 1. megjegyzés: Az ML8. fejezet d) pontjának 3. alpontja nem vonatkozik a klór-trifluoridra (CAS 7790-91-2).
 
-## 2. megjegyzés: Az ML8. fejezet d) pont 3. alpontja nem vonatkozik a gázállapotú nitrogén-trifluoridra (CAS 7783-54-2).
+## 2. megjegyzés: Az ML8. fejezet d) pontjának 3. alpontja nem vonatkozik a gázállapotú nitrogén-trifluoridra (CAS 7783-54-2).
 
 ## 4. DNAD (1,3-dinitro-1,3-diazetidin) (CAS 78246-06-7);
 
@@ -682,21 +716,21 @@
 
 ## 9. hidrazin perklorát (CAS 27978-54-7);
 
-## 10. folyékony oxidáló szerek, gátolt vörösfüstös salétromsavból (IRFNA) (CAS 8007-58-7) összeállítva vagy azt tartalmazva.
+## 10. folyékony oxidáló szerek, gátolt vörösfüstös salétromsavból (IRFNA) (CAS 8007-58-7) összeállítva, vagy azt tartalmazva. Megjegyzés:
 
-## Megjegyzés:Az ML8. fejezet d) pont 10. alpontja a nem gátolt vörösfüstös salétromsavra nem vonatkozik.
+## Megjegyzés: Az ML8. fejezet d) pontjának 10. alpontja a nem gátolt vörösfüstös salétromsavra nem vonatkozik.
 
 ## e) Kötőanyagok, lágyítók, monomerek és polimerek a következők szerint:
 
-## 1. AMMO (azidometilmetiloxetán és annak polimerjei) (CAS 90683-29-7) [lásd még az ML8. fejezet g) pont („Prekurzorok”) 1. alpontját];
+## 1. AMMO (azidometilmetiloxetán és annak polimerjei) (CAS 90683-29-7) (lásd még az ML8. fejezet g) pontjának ("Prekurzorok") 1. alpontját);
 
-## 2. BAMO (bisazidometiloxetán és annak polimerjei) (CAS 17607-20-4) [lásd még az ML8. fejezet g) pont („Prekurzorok”) 1. alpontját];
+## 2. BAMO (bisazidometiloxetán és annak polimerjei) (CAS 17607-20-4) (lásd még az ML8. fejezet g) pontjának ("Prekurzorok") 1. alpontját);
 
 ## 3. BDNPA [bis (2,2-dinitropropil)acetal] (CAS 5108-69-0);
 
 ## 4. BDNPF [bis (2,2-dinitropropil)formal] (CAS 5917-61-3);
 
-## 5. BTTN (butanetrioltrinitrate) (CAS 6659-60-5) [lásd még az ML8. fejezet g) pont („Prekurzorok”) 8. alpontját];
+## 5. BTTN (butanetrioltrinitrate) (CAS 6659-60-5) (lásd még az ML8. fejezet g) pontjának ("Prekurzorok") 8. alpontját);
 
 ## 6. kifejezetten katonai felhasználásra kifejlesztett és a következők közül bármelyiket tartalmazó energetikai monomerek, lágyítók vagy polimerek:
 
@@ -722,23 +756,23 @@
 
 ## 12. HTPB (hidroxil végződésű polibutadién) egy hidroxil viszonyszámmal, amely egyenlő vagy nagyobb, mint 2,2 és egyenlő vagy kisebb, mint 2,4, 0,77 meq/g-nál kisebb hidroxil értékkel, amelynek viszkozitása kevesebb, mint 47 poise 30 °C hőmérsékleten (CAS 69102-90-5);
 
-## 13. kevesebb, mint 10.000 molekula súlyú, alkohol-funkciós csoportot tartalmazó poli(epiklórhidrin) a következők szerint:
+## 13. kevesebb mint 10000 molekula súlyú, alkohol-funkciós csoportot tartalmazó poli(epiklórhidrin) a következők szerint:
 
 ## a) poli(epiklórhidrindiol);
 
-## b) poli(epiklórhidrintriol)
+## b) poli(epiklórhidrintriol);
 
 ## 14. NENA-k (nitratoetilnitramin elegyek) (CAS 17096-47-8, 85068-73-1, 82486-83-7, 82486-82-6 és 85954-06-9);
 
 ## 15. PGN [poli-GLYN, poliglicidilnitrát vagy poli(nitratometil oxirane)] (CAS 27814-48-8);
 
-## 16. Poli-NIMMO (poli nitratometilmetiloxetán) vagy poli-NMMO [poli(3-Nitratometil-3-metiloxetane)] (CAS 84051-81-0);
+## 16. poli-NIMMO (poli nitratometilmetiloxetán) vagy poli-NMMO [poli(3-Nitratometil-3-metiloxetane)] (CAS 84051-81-0);
 
-## 17. Polinitro-orto-karbonátok;
+## 17. polinitro-orto-karbonátok;
 
 ## 18. TVOPA [1,2,3-trisz(1,2-bis((difluoroamino))etoxi) propán vagy trisz vinoxi propán melléktermék] (CAS 53159-39-0).
 
-## f) „Adalékanyagok” a következők szerint:
+## f) "Adalékanyagok" a következők szerint:
 
 ## 1. lúgos réz-szalicilát (CAS 62320-94-9);
 
@@ -756,7 +790,7 @@
 
 ## ferrocén-karboxilsav (CAS 1271-42-7)
 
-## 1,1’-ferrocén-dikarboxilsav (CAS 1293-87-4);
+## 1,1′-ferrocén-dikarboxilsav (CAS 1293-87-4);
 
 ## d) n-butil-ferrocén (CAS 31904-29-7);
 
@@ -774,7 +808,7 @@
 
 ## 10. ólom-sztanát (CAS 12036-31-6);
 
-## 11. MAPO [tris-1-(2-methyl)aziridinyl phosphine oxide] (CAS 57-39-6) BOBBA8 [bis(2-methyl aziridinyl) 2-(2-hydroxypropanoxy) propylamino phosphine oxide];és más MAPO származékok;
+## 11. MAPO [tris-1-(2-methyl)aziridinil foszfin-oxid] (CAS 57-39-6) BOBBA8 [bis(2-methyl aziridinil) 2-(2-hydroxypropanoxy) propylamino foszfin-oxid]; és más MAPO származékok;
 
 ## 12. metil BAPO [bisz(2-metil aziridinil) metilamino foszfin-oxid] (CAS 85068-72-0);
 
@@ -784,47 +818,47 @@
 
 ## 15. fémorganikus csatlakozó anyagok a következők szerint:
 
-## a) neopentil[diallil]oxi, tri[dioktil]foszfát-titanát (CAS 103850-22-2) szintén ismert mint titá-nium IV, 2,2 [bisz 2-propenolát-metil, butanolát, trisz (dioktil) foszfát] (CAS 110438-25-0);vagy LICA 12 (CAS 103850-22-2);
+## a) neopentil[diallil]oxi, tri[dioktil]foszfát-titanát (CAS 103850-22-2) szintén ismert mint titánium IV, 2,2 [bisz 2-propenolát-metil, butanolát, trisz (dioktil) foszfát] (CAS 110438-25-0); vagy LICA 12 (CAS 103850-22-2);
 
-## b) Titánium IV, [(2-propenolát-1) metil, n-propanolátmetil] butanolát-1, trisz[dioktil] pirofoszfát vagy KR3538;
+## b) titánium IV, [(2-propenolát-1) metil, n-propanolátmetil] butanolát-1, trisz[dioktil] pirofoszfát vagy KR3538;
 
-## c) Titánium IV, [(2-propenolát-1)metil, n-propanolátmetil] butanolát-1, trisz (dioktil)foszfát;
+## c) titánium IV, [(2-propenolát-1)metil, n-propanolátmetil] butanolát-1, trisz (dioktil)foszfát;
 
 ## 16. policián-difluor-aminoetilénoxid;
 
-## 17. polifunkcionális aziridin-amidok:izoftalikus, trimezikus (BITA vagy butilén imin-trimezamid), izocianursavas vagy trimetiládos gerincstruktúrával és 2-metil vagy 2-etil helyettesítőkkel az aziridin gyűrűben;
+## 17. polifunkcionális aziridin-amidok: izoftalikus, trimezikus (BITA vagy butilén imin-trimezamid), izocianursavas vagy trimetiládos gerincstruktúrával és 2-metil vagy 2-etil helyettesítőkkel az aziridin gyűrűben;
 
 ## 18. propilén-imin (2-metilaziridin) (CAS 75-55-8);
 
 ## 19. nagyfinomságú vasoxid (Fe2O3) (CAS 1317-60-8) 250 m2/g-ot meghaladó fajlagos felülettel és 3,0 nm vagy annál kisebb átlagos részecskemérettel;
 
-## 20. TEPAN (tetraetilén-pentaaminakrilonitril) (CAS 68412-45-3);cianoetilénezett poliaminok és azok sói;
+## 20. TEPAN (tetraetilén-pentaaminakrilonitril) (CAS 68412-45-3); cianoetilénezett poliaminok és azok sói;
 
-## 21. TEPANOL (tetraetilén-pentaaminakrilonitril-glicidol) (CAS 68412-46-4);glicidollal cianoetilénezett poliaminok és azok sói;
+## 21. TEPANOL (tetraetilén-pentaaminakrilonitril-glicidol) (CAS 68412-46-4); glicidollal cianoetilénezett poliaminok és azok sói;
 
 ## 22. TPB (trifenil bizmut) (CAS 603-33-8).
 
-## g) „Prekurzorok” a következők szerint:
+## g) "Prekurzorok" a következők szerint:
 
-## NB: Az ML8. fejezet g) pontjában a hivatkozások az ezen anyagokból készült, meghatározott „Energiahordozó anyagok”-ra vonatkoznak:
+## NB: Az ML8. fejezet g) pontjában a hivatkozások az ezen anyagokból készült, meghatározott "Energiahordozó anyagok"-ra vonatkoznak:
 
-## 1. BCMO (diklórmetiloxetanon) (CAS 142173-26-0) [lásd még az ML8. fejezet e) pont 1. és 2. alpontját];
+## 1. BCMO (diklórmetiloxetanon) (CAS 142173-26-0) (lásd még az ML8. fejezet e) pontjának 1. és 2. alpontját);
 
-## 2. dinitroazetidin-t-butil só (CAS 125735-38-8) [lásd még az ML8. fejezet a) pont 28. alpontját];
+## 2. dinitroazetidin-t-butil só (CAS 125735-38-8) (lásd még az ML8. fejezet a) pontjának 28. alpontját);
 
-## 3. HBIW (hexabenzil-hexa-aza-izowurtzitán) (CAS 124782-15-6) [lásd még az ML8. fejezet a) fejezet 4. alpontját];
+## 3. HBIW (hexabenzil-hexa-aza-izowurtzitán) (CAS 124782-15-6) (lásd még az ML8. fejezet a) pontjának 4. alpontját);
 
-## 4. TAIW (tetraacetil-dibenzil-hexa-aza-izowurtzitane) [lásd még az ML8. fejezet a) pont 4. alpontját] (CAS 182763-60-6);
+## 4. TAIW (tetraacetil-dibenzil-hexa-aza-izowurtzitane) (lásd még az ML8. fejezet a) pontjának 4. alpontját) (CAS 182763-60-6);
 
-## 5. TAT (1,3,5,7 tetraacetil-1,3,5,7,-tetraaza ciklo-oktán) (CAS 41378-98-7) [lásd még az ML8. fejezet a) pont 13. alpontját];
+## 5. TAT (1,3,5,7 tetraacetil-1,3,5,7,-tetraaza ciklo-oktán) (CAS 41378-98-7) (lásd még az ML8. fejezet a) pontjának 13. alpontját);
 
-## 6. 1,4,5,8-tetraazadekalin (CAS 5409-42-7) [lásd még az ML8. fejezet a) pont 27. alpontját];
+## 6. 1,4,5,8-tetraazadekalin (CAS 5409-42-7) (lásd még az ML8. fejezet a) pontjának 27. alpontját);
 
-## 7. 1,3,5-triklórbenzol (CAS 108-70-3) [lásd még az ML8. fejezet a) pont 23. alpontját];
+## 7. 1,3,5-triklórbenzol (CAS 108-70-3) (lásd még az ML8. fejezet a) pontjának 23. alpontját);
 
-## 8. 1,2,4-trihidroxibután (1,2,4-butanetriol) (CAS 3068-00-6) [lásd még az ML8. fejezet e) pont 5. alpontját].
+## 8. 1,2,4-trihidroxibután (1,2,4-butanetriol) (CAS 3068-00-6) (lásd még az ML8. fejezet e) pontjának 5. alpontját).
 
-## 6. megjegyzés: Az ML8. fejezet nem vonatkozik az alábbi anyagokra, kivéve ha elegyet alkotnak, vagy keverve vannak az ML8. fejezet a) pontjában meghatározott „energiahordozó anyagokkal”, vagy az ML8. fejezet c) pontjában meghatározott fémporokkal:
+## 1. megjegyzés: Az ML8. fejezet nem vonatkozik az alábbi anyagokra, kivéve, ha elegyet alkotnak, vagy keverve vannak az ML8. fejezet a) pontjában meghatározott "energiahordozó anyagokkal", vagy az ML8. fejezet c) pontjában meghatározott fémporokkal:
 
 ## a) ammónium-pikrát (CAS 131-74-8);
 
@@ -846,7 +880,7 @@
 
 ## j) trinitroxilén;
 
-## k) N-pirrolidinon;1-metil-2-pirrolidinon (CAS 872-50-4);
+## k) N-pirrolidinon; 1-metil-2-pirrolidinon (CAS 872-50-4);
 
 ## l) dioktil-malát (CAS 142-16-5);
 
@@ -870,7 +904,7 @@
 
 ## v) 2,4,6-trinitro-reszorcinol (stifnát sav) (CAS 82-71-3);
 
-## w) dietil-difenil karbamid (CAS 85-98-3);dimetil-difenil karbamid (CAS 611-92-7);metil-etil-difenil karbamid (centralitok);
+## w) dietil-difenil karbamid (CAS 85-98-3); dimetil-difenil karbamid (CAS 611-92-7); metil-etil-difenil karbamid (centralitok);
 
 ## x) N,N-difenil karbamid (nem szimmetrikus difenil karbamid) (CAS 603-54-3);
 
@@ -884,191 +918,199 @@
 
 ## cc) 2,2-dinitro-propanol (CAS 918-52-5);
 
-## dd) nitroguanidin (CAS 556-88-7) [lásd a kettős felhasználású termékek és technológiák uniós jegyzékének C011. d) alpontját].
+## dd) nitroguanidin (CAS 556-88-7) (lásd a kettős felhasználású termékek és technológiák uniós jegyzékének C011. d) alpontját).
 
-## 7. megjegyzés: Az ML8. fejezet nem vonatkozik az ammónium-perklorátra [az ML8. fejezet d) pont 2. alpontja] és az NTO-ra [az ML8. fejezet a) pont 18. alpontja], amennyiben az kifejezetten polgári felhasználású gázfejlesztő készülékekhez van kialakítva vagy előállítva és teljesíti az alábbi kritériumok mindegyikét:
+## 2. megjegyzés: Az ML8. fejezet nem vonatkozik az ammónium-perklorátra (az ML8. fejezet d) pontjának 2. alpontja) és az NTO-ra (az ML8. fejezet a) pontjának 18. alpontja), amennyiben az kifejezetten polgári felhasználású gázfejlesztő készülékekhez van kialakítva vagy előállítva és teljesíti az alábbi kritériumok mindegyikét:
 
 ## a) elegyet alkot vagy keverve van nem aktív, hőre keményedő kötőanyaggal vagy lágyítószerrel;
 
-## b) az ammónium-perklorát [az ML8. fejezet d) pont 2. alpontja] aránya legfeljebb 80% az aktív anyag tömegéhez képest;
+## b) az ammónium-perklorát (az ML8. fejezet d) pontjának 2. pontja) aránya legfeljebb 80 % az aktív anyag tömegéhez képest;
 
-## c) az NTO [az ML8. fejezet a) pont 18. alpontja] tömege 4 g vagy annál kisebb; és
+## c) az NTO (az ML8. fejezet a) pontjának 18. alpontja) tömege 4 g vagy annál kisebb; és
 
-## d) saját tömege kevesebb, mint 250 g.
+## d) saját tömege kevesebb mint 250 g.
 
 ## IX. fejezet
 
-## (ML 9.)
+## (ML 9)
 
-## Hadihajók (felszíni vagy víz alatti), különleges tengerészeti berendezések, tartozékok, részegységek és egyéb vízfelszíni járművek a következők szerint:
+## Hadihajók (felszíni vagy víz alatti), különleges tengerészeti berendezések, tartozékok, alkatrészek és egyéb vízfelszíni járművek a következők szerint:
 
-## NB:Irányítási és navigációs berendezések tekintetében lásd az ML11. pontot.
+## NB: Irányítási és navigációs berendezések tekintetében lásd az ML11. pontot.
 
-## a) vízi járművek és részegységek a következők szerint:
+## a) vízi járművek és alkatrészek a következők szerint:
 
-## 1. kifejezetten katonai felhasználásra tervezett vagy átalakított (felszíni vagy víz alatti) vízi járművek, függetlenül a jelenlegi műszaki állapottól vagy működési feltételektől, és attól, hogy rendelkeznek-e fegyverzethordozó rendszerekkel vagy páncélzattal, valamint az ilyen vízi járművek úszótestei vagy azok részei, és kifejezetten katonai felhasználásra tervezett részegységei;
+## 1. kifejezetten katonai felhasználásra tervezett vagy átalakított (felszíni vagy víz alatti) vízi járművek, függetlenül a jelenlegi műszaki állapottól vagy működési feltételektől, és attól, hogy rendelkeznek-e fegyverzethordozó rendszerekkel vagy páncélzattal, valamint az ilyen vízi járművek úszótestei vagy azok részei, és kifejezetten katonai felhasználásra tervezett alkatrészei;
 
-## 2. az ML9. fejezet a) pont 1. alpontjában meghatározottaktól eltérő felszíni vízi járművek, amelyek a következők bármelyikével rendelkeznek, a járműre rögzítve vagy abba beépítve:
+## 2. az ML9. fejezet a) pontjának 1. alpontjában meghatározottaktól eltérő felszíni vízi járművek, amelyek a következők bármelyikével rendelkeznek, a járműre rögzítve vagy abba beépítve:
 
-## a) az ML1. pontban meghatározott, 12,7 mm vagy annál nagyobb kaliberű automata fegyverek, vagy az ML2., az ML4., az ML12. vagy az ML19. pontban meghatározott fegyverek, vagy ezeknek a fegyvereknek a ’rögzítési’ vagy felfüggesztési pontjai;
+## a) az ML1. pontban meghatározott, 12,7 mm vagy annál nagyobb kaliberű automata fegyverek, vagy az ML2., az ML4., az ML12. vagy az ML19. pontban meghatározott fegyverek, vagy ezeknek a fegyvereknek a "rögzítési" vagy felfüggesztési pontjai;
 
 ## Műszaki megjegyzés:
 
-## A ’rögzítés(rözgítési pontok)’ a fegyverek rögzítésére szolgáló eszközökre vagy a tartók rögzítéséhez szükséges szerkezeti megerősítésekre vonatkozik (vonatkoznak).
+## A "rögzítés(i pontok)" a fegyverek rögzítésére szolgáló eszközökre vagy a tartók rögzítéséhez szükséges szerkezeti megerősítésekre vonatkoznak.
 
 ## b) az ML5. pontban meghatározott tűzvezető rendszerek;
 
-## c) Rendelkeznek a következők mindegyikével:
+## c) rendelkeznek a következők mindegyikével:
 
-## 1. ’vegyi, biológiai, radiológiai és nukleáris (CBRN) védelem’;és
+## 1. "vegyi, biológiai, radiológiai és nukleáris (CBRN) védelem"; és
 
-## 2. mentesítési célokra tervezett ’előmosó vagy leöblítő rendszer’;vagy
+## 2. semlegesítési célokra tervezett "előmosó vagy leöblítő rendszer"; vagy
 
 ## Technikai megjegyzés
 
-## 1. A ’vegyi, biológiai, radiológiai és nukleáris (CBRN) védelem’ egy zárt rendszerű helyiség, amelyet túlnyomás, szigetelt szellőztetőrendszer, korlátozott számú, CBRN-szűrőkkel ellátott szellőzőnyílás és légzárókkal felszerelt, korlátozott személyzeti hozzáférési pont jellemez.
+## 1. A "vegyi, biológiai, radiológiai és nukleáris (CBRN) védelem" egy zárt rendszerű helyiség, amelyet túlnyomás, szigetelt szellőztetőrendszer, korlátozott számú, CBRN-szűrőkkel ellátott szellőzőnyílás és légzárókkal felszerelt, korlátozott személyzeti hozzáférési pont jellemez.
 
-## 2. Az ’előmosó vagy leöblítő rendszer’ tengervizet permetező rendszer, amely képes a hajó külső felületének és fedélzetének egyidejű lemosására.
+## 2. Az "előmosó vagy leöblítő rendszer" tengervizet permetező rendszer, amely képes a hajó külső felületének és fedélzetének egyidejű lemosására.
 
 ## d) az ML4. fejezet b) pontjában, az ML5. fejezet c) pontjában vagy az ML11. fejezet a) pontjában meghatározott, aktív, fegyver elleni eszközök, amelyek a következők bármelyikével rendelkeznek:
 
-## 1. ’CRBN-védelem’;
+## 1. "CBRN-védelem";
 
-## 2. kifejezetten radar keresztmetszet csökkentésére tervezett hajótest és felépítmény;
+## 2. kifejezetten radar keresztmetszet csökkentésére tervezett hajótest és parancshídház;
 
-## 3. hőkibocsátást csökkentő eszközök (például a kipufogó/füstgázok hűtőrendszere), kivéve a kifejezetten a hajtómű hatékonyságának általános növelésére vagy a környezeti hatások csökkentésére tervezett eszközöket;vagy
+## 3. hőkibocsátást csökkentő eszközök (pl. a kipufogó/füstgázok hűtőrendszere), kivéve a kifejezetten a hajtómű hatékonyságának általános növelésére vagy a környezeti hatások csökkentésére tervezett eszközöket; vagy
 
 ## 4. a vízi jármű egésze mágnesességének csökkentésére tervezett demagnetizáló rendszer;
 
-## b) kifejezetten katonai felhasználásra tervezett motorok és hajtóműrendszerek, és azok kifejezetten katonai felhasználásra tervezett részegységei a következők szerint:
+## b) kifejezetten katonai felhasználásra tervezett motorok és hajtóműrendszerek, és azok kifejezetten katonai felhasználásra tervezett alkatrészei, a következők szerint:
 
 ## 1. kifejezetten tengeralattjárók meghajtására tervezett és az alábbi jellemzők mindegyikével rendelkező dízelmotorok:
 
-## a) legalább 1,12 MW (1.500 LE) teljesítmény; és
+## a) legalább 1,12 MW (1500 LE) teljesítmény; és
 
 ## b) legalább 700/perc fordulatszám;
 
 ## 2. kifejezetten tengeralattjárók meghajtására tervezett és az alábbi jellemzők mindegyikével rendelkező elektromos motorok:
 
-## a) több, mint 0,75 MW (1.000 LE) teljesítmény;
+## a) több mint 0,75 MW (1000 LE) teljesítmény;
 
 ## b) gyors tolatási képesség;
 
-## c) folyadékhűtés;és
+## c) folyadékhűtés; és
 
 ## d) teljesen zárt kivitel;
 
 ## 3. a következő jellemzők mindegyikével rendelkező antimágneses dízelmotorok:
 
-## a) 37,3 kW (50 LE) vagy nagyobb teljesítmény;és
+## a) 37,3 kW (50 LE) vagy nagyobb teljesítmény; és
 
-## b) a teljes tömeg 75%-át meghaladó nem mágneses összetevők;
+## b) a teljes tömeg 75 %-át meghaladó nem mágneses összetevők;
 
-## 4. ’levegőfüggetlen’ (AIP), kifejezetten tengeralattjárókra kifejlesztett hajtóműrendszerek;
+## 4. "levegőfüggetlen" (AIP), kifejezetten tengeralattjárókra kifejlesztett hajtóműrendszerek;
 
 ## Műszaki megjegyzés:
 
-## ’Levegőfüggetlen hajtóműrendszer’ (Air Independent Propulsion, AIP) révén a lemerült tengeralattjáró atmoszferikus oxigén nélkül hosszabb ideig képes hajtóműrendszerének működtetésére, mint amire akkumulátorral lenne képes.Az ML9. fejezet b) pont 4. alpontja alkalmazásában az AIP nem foglalja magában a nukleáris energiát.
+## "Levegőfüggetlen hajtóműrendszer" (Air Independent Propulsion, AIP) révén a lemerült tengeralattjáró atmoszferikus oxigén nélkül hosszabb ideig képes hajtóműrendszerének működtetésére, mint amire akkumulátorral lenne képes. Az ML9. fejezet b) pontjának 4. alpontja alkalmazásában az AIP nem foglalja magában a nukleáris energiát.
 
-## c) kifejezetten katonai felhasználásra tervezett víz alatti érzékelő eszközök, azok vezérlőberendezései és kifejezetten katonai felhasználásra tervezett részegységei;
+## c) kifejezetten katonai felhasználásra tervezett víz alatti érzékelő eszközök, azok vezérlőberendezései és kifejezetten katonai felhasználásra tervezett alkatrészei;
 
 ## d) kifejezetten katonai felhasználásra tervezett tengeralattjáró elleni és torpedó elfogó hálók;
 
-## e) 2003 óta nem használatos;
+## e) kifejezetten katonai felhasználásra tervezett hajótest áthatolók és csatlakozók, amelyek képesek a hajótesten kívüli berendezésekkel a kölcsönös együttműködésre, és azok kifejezetten katonai felhasználásra tervezett alkatrészei;
 
-## f) kifejezetten katonai felhasználásra tervezett hajótest tömszelence (átvezető elem)és csatlakozók, amelyek képesek a hajótesten kívüli berendezésekkel a kölcsönös együttműködésre, és azok kifejezetten katonai felhasználásra tervezett részegységei;
+## Megjegyzés: Az ML9.fejezet f) pontja a hajók azon egy eres, több eres, koaxiális, vagy rádiófrekvenciás típusú csatlakozóit és hajótest áthatolóit foglalja magában, amelyek képesek megakadályozni a vízszivárgást és fenntartani 100 méternél nagyobb merülési mélységben a szükséges jellemzőket; továbbá a mélységtől függetlenül kifejezetten "lézernyaláb" átvitelére tervezett száloptikai csatlakozókat és optikai áthatolókat. Az ML9. fejezet f) pontja nem vonatkozik a normál hajtótengely és a hidrodinamikai irányító rudazat hajótest áthatolóira.
 
-## Megjegyzés: Az ML9.fejezet f) pontja magában foglalja többek között a hajók azon egy eres, több eres, koaxiális, vagy rádiófrekvenciás típusú csatlakozóit és hajótest áthatolóit, amelyek képesek megakadályozni a vízszivárgást és fenntartani 100 méternél nagyobb merülési mélységben a szükséges jellemzőket;továbbá a mélységtől függetlenül kifejezetten „lézernyaláb” átvitelére tervezett száloptikai csatlakozókat és optikai áthatolókat.Az ML9. fejezet f) pontja nem vonatkozik a normál hajtótengely és a hidrodinamikai irányító rudazat hajótest áthatolóira.
-
-## g) alacsony zajszintű csapágyak a következő részegységek bármelyikével felszerelve, és azok a kifejezetten katonai felhasználásra tervezett berendezések, amelyek ilyen csapágyakat foglalnak magukba:
+## f) alacsony zajszintű csapágyak a következő alkatrészek bármelyikével felszerelve, és azok a kifejezetten katonai felhasználásra tervezett berendezések, amelyek ilyen csapágyakat foglalnak magukban:
 
 ## 1. gáz-, vagy mágneses felfüggesztés;
 
-## 2. aktív jelelnyomás-vezérlés;vagy
+## 2. aktív jelelnyomás-vezérlés; vagy
 
 ## 3. vibráció elnyomás-vezérlés.
 
 ## X. fejezet
 
-## (ML 10.)
+## (ML 10)
 
-## „Légijárművek”, „levegőnél könnyebb légijárművek”, „személyzet nélküli légijárművek” („UAV”), légijármű-hajtóművek (motor) és „légijármű”-részegységek, illetve az azokhoz tartozó berendezések és részegységek, amelyeket kifejezetten katonai felhasználásra terveztek vagy alakítottak át a következők szerint:
+## "Repülőgépek", "levegőnél könnyebb légi járművek", "személyzet nélküli légi járművek (UAV)", repülőgép-hajtóművek (motor) és "repülőgép"-részegységek, illetve az azokhoz tartozó berendezések és alkatrészek, amelyeket kifejezetten katonai felhasználásra terveztek vagy alakítottak át, a következők szerint):
 
 ## NB: Az irányítás és navigáció eszközei vonatkozásában lásd az ML11. pontot.
 
-## a) fedélzeti személyzet által vezetett „légijárművek” és „levegőnél könnyebb légijárművek” és a kifejezetten azokhoz tervezett részegységek;
+## a) "személyzettel ellátott repülőgépek" és "levegőnél könnyebb légi járművek" és a kifejezetten azokhoz tervezett részegységek;
 
-## b) 2011 óta nem használatos;
+## b) személyzet nélküli repülőgépek és kapcsolódó berendezések, és a kifejezetten azokhoz tervezett részegységek, a következők szerint:
 
-## c) személyzet nélküli légijárművek és kapcsolódó berendezések, és a kifejezetten azokhoz tervezett részegységek a következők szerint:
+## 1. "személyzet nélküli légi járművek" ("UAV"), távirányítással vezetett légi járművek (RPV), autonóm programozható légi járművek és személyzet nélküli, "levegőnél könnyebb légi járművek";
 
-## 1. „személyzet nélküli légijárművek” („UAV”), távirányítással vezetett légijárművek (RPV), autonóm programozható légijárművek és személyzet nélküli, „levegőnél könnyebb légijárművek”;
-
-## 2. indító szerkezetek, épségben történő visszanyerést lehetővé tevő eszközök és földi kiszolgáló eszközök;
+## 2. indító szerkezetek, mentő eszközök és földi kiszolgáló eszközök;
 
 ## 3. vezérlésre vagy irányításra tervezett berendezések;
 
-## d) légijármű-hajtóművek és a kifejezetten azokhoz tervezett részegységek;
+## c) repülőgép-hajtóművek és a kifejezetten azokhoz tervezett részegységek;
 
-## e) fedélzeti berendezések, beleértve a légi üzemanyag-utántöltés eszközeit, amelyeket kifejezetten az ML10. fejezet a) pontjában meghatározott „ légijárműhöz” való használatra, vagy az ML10. fejezet d) pontjában meghatározott légi-hajtóművekhez terveztek, és a kifejezetten azokhoz tervezett részegységek;
+## d) a kifejezetten a következők bármelyikéhez való használatra tervezett vagy módosított légi üzemanyag-utántöltési eszközök és a kifejezetten azokhoz tervezett részegységek:
 
-## f) nyomás alatt működő üzemanyag-feltöltők, nyomás alatti üzemanyag-utántöltő berendezések, kifejezetten szűk területeken végrehajtandó műveletekhez tervezett berendezések és földi kiszolgáló eszközök, amelyeket kifejezetten az ML10. fejezet a) pontjában meghatározott „légijárműhöz” való használatra, vagy az ML10. fejezet d) pontjában meghatározott légijármű-hajtóművekhez terveztek;
+## 1. az ML10. fejezet a) pontjában meghatározott "repülőgép"; vagy
 
-## g) túlnyomásos légzőkészülék és részlegesen túlnyomás alatt álló ruhák „légijárművön” való használatra, antigravitációs ruhák, katonai védő sisakok és védő álarcok, „légijárművön”, vagy rakétáknál használatos folyékony oxigén átalakítók, katapultok és töltet által működésbe hozható eszközök vészhelyzetben a személyzet „légijárműből” történő kimentésére;
+## 2. az ML10. fejezet c) pontjában meghatározott, személyzet nélküli repülőgép;
 
-## h) ejtőernyők, siklóernyők és kapcsolódó berendezések, valamint a kifejezetten azokhoz tervezett részegységeka következők szerint:
+## e) "földi kiszolgáló eszközök", amelyeket kifejezetten az ML10. fejezet a) pontjában meghatározott "repülőgéphez" való használatra, vagy az ML10. fejezet d) pontjában meghatározott repülőgép-hajtóművekhez terveztek;
 
-## 1. az Európai Unió közös katonai listájában máshol nem említett ejtőernyők;
+## Technikai megjegyzés:
+
+## A "földi kiszolgáló eszközök" magukban foglalják a nyomás alatti üzemanyag-utántöltő berendezéseket és a szűk területeken végrehajtandó műveletekhez tervezett berendezéseket.
+
+## f) az ML10. fejezet a) pontjában meghatározott "repülőgéphez" való használatra tervezett, a személyzet rendelkezésére álló védőfelszerelések, a személyzet biztonságát szolgáló berendezések, valamint más olyan, a személyzet vészhelyzetben való kimenekítését szolgáló eszközök, amelyek nem szerepelnek az ML10. fejezet a) pontjában;
+
+## Megjegyzés: Az ML10. fejezet g) pontja nem vonatkozik a személyzet általi használatra szolgáló olyan sisakokra, amelyek nem tartalmaznak az EU közös katonai listájában meghatározott berendezéseket, és amelyek nem is alkalmasak ilyenek felszerelésére vagy elhelyezésére.
+
+## NB.: A sisakokhoz kapcsolódóan lásd még az ML13. fejezet c) pontját.
+
+## g) ejtőernyők, siklóernyők és kapcsolódó berendezések, valamint a kifejezetten azokhoz tervezett részegységek, a következők szerint:
+
+## 1. az EU közös katonai listájában máshol nem említett ejtőernyők;
 
 ## 2. siklóernyők;
 
-## 3. kifejezetten nagy magasságból történő ejtőernyős ugrásokhoz tervezett felszerelés (például ruhák, különleges sisakok, légzőkészülékek, navigációs berendezések);
+## 3. kifejezetten nagy magasságból történő ejtőernyős ugrásokhoz tervezett felszerelés (pl. ruhák, különleges sisakok, légzőkészülékek, navigációs berendezések);
 
-## i) ejtőernyővel ledobott terhekre tervezett késleltetett nyitású berendezések vagy automatikus irányítórendszerek.
+## h) ejtőernyővel ledobott terhekre tervezett késleltetett nyitású berendezések vagy automatikus irányítórendszerek.
 
-## 1. megjegyzés: Az ML10. fejezet a) pontja nem vonatkozik a kimondottan katonai célra tervezett „légijárművekre” és „levegőnél könnyebb légijárművekre” vagy az említett „légijárművek” változataira, amennyiben megfelelnek az alábbi kritériumok mindegyikének:
+## 1. megjegyzés: Az ML10. fejezet a) pontja nem vonatkozik a kimondottan katonai célra tervezett "repülőgépekre" és "levegőnél könnyebb légi járművekre" vagy az említett "repülőgépek" változataira, amennyiben megfelelnek az alábbi kritériumok mindegyikének:
 
-## a) nem harci légijárművek;
+## a) nem harci repülőgépek;
 
-## b) nem katonai kialakításúak és nincsenek felszerelve kifejezetten katonai felhasználásra tervezett vagy átalakított berendezéssel vagy tartozékkal;és
+## b) nem katonai kialakításúak és nincsenek felszerelve kifejezetten katonai felhasználásra tervezett vagy átalakított berendezéssel vagy tartozékkal; és
 
-## c) valamely tagállam vagy a wassenaari megállapodásban részt vevő állam polgári légügyi hatósága által polgári használatra lajstromozásra kerültek.
+## c) valamely uniós tagállam vagy a Wassenaari Megállapodásban részt vevő állam polgári légügyi hatósága által polgári használatra lajstromozásra kerültek.
 
 ## 2. megjegyzés: Az ML10. fejezet d) pontja nem vonatkozik az alábbiakra:
 
-## a) kifejezetten katonai felhasználásra tervezett vagy átalakított légijármű-hajtóművek, amelyek valamely tagállam vagy a wassenaari megállapodásban részt vevő állam polgári légügyi hatósága „polgári légijárművön való használatra” lajstromozott, vagy a kifejezetten azokhoz tervezett részegységek;
+## a) kifejezetten katonai felhasználásra tervezett vagy átalakított repülőgép-hajtóművek, amelyeket valamely uniós tagállam vagy a Wassenaari Megállapodásban részt vevő állam polgári légügyi hatósága "polgári repülőgépen való használatra" lajstromozott, vagy a kifejezetten azokhoz tervezett részegységek;
 
-## b) dugattyús légijárműmotorok vagy a kifejezetten azokhoz tervezett részegységek, kivéve azokat, amelyeket „személyzet nélküli légi járművekhez” („UAV”) terveztek.
+## b) dugattyús repülőgépmotorok vagy a kifejezetten azokhoz tervezett részegységek, kivéve azokat, amelyeket "személyzet nélküli légi járművekhez" terveztek.
 
-## 3. megjegyzés: Az ML10. fejezet a) és d) pontja értelmében a kifejezetten nem katonai „légijárművekhez” vagy légijármű-hajtóművekhez tervezett katonai jellegű részegységek és katonai jellegű kapcsolódó berendezések csak azokat a katonai jellegű részegységeket és katonai jellegű kapcsolódó berendezéseket jelentik, amelyek a katonai felhasználásra történő átalakításhoz szükségesek.
+## 3. megjegyzés: Az ML10. fejezet a) és d) pontja értelmében a kifejezetten nem katonai "repülőgépekhez" vagy repülőgép-hajtóművekhez tervezett katonai jellegű részegységek és katonai jellegű kapcsolódó berendezések csak azokat a katonai jellegű részegységeket és katonai jellegű kapcsolódó berendezéseket jelentik, amelyek a katonai felhasználásra történő átalakításhoz szükségesek.
 
-## 4. megjegyzés: Az ML10. fejezet a) pontja értelmében a katonai felhasználás a következőket jelenti: harc, katonai felderítés, légi roham, katonai kiképzés, logisztikai támogatás, valamint személyi állomány vagy katonai berendezés szállítása és légi úton történő kijuttatása.
+## 4. megjegyzés: Az ML10. fejezet a) pontja értelmében a katonai felhasználás a következőket jelenti: ütközet, katonai felderítés, roham, katonai kiképzés, logisztikai támogatás, valamint személyi állomány vagy katonai berendezés szállítása és légi deszantolása.
 
-## 5. megjegyzés: Az ML10. fejezet a) pontja nem vonatkozik azokra a „légijárművekre”, amelyek megfelelnek az alábbi kritériumok mindegyikének:
+## 5. megjegyzés: Az ML10. fejezet a) pontja nem vonatkozik azokra a "repülőgépekre", amelyek megfelelnek az alábbi kritériumok mindegyikének:
 
 ## a) először 1946 előtt gyártották;
 
-## b) nem rendelkeznek az Európai Unió közös katonai listáján meghatározott eszközökkel, kivéve, ha ezek ahhoz szükségesek, hogy a „légijárművek” megfeleljenek valamely tagállam vagy a wassenaari megállapodásban részt vevő valamely állam biztonsági vagy légialkalmassági előírásainak; és
+## b) nem rendelkeznek az EU közös katonai listáján meghatározott eszközökkel, kivéve, ha ezek ahhoz szükségesek, hogy a "repülőgépek" megfeleljenek valamely uniós tagállam vagy a Wassenaari Megállapodásban részt vevő állam biztonsági vagy légialkalmassági előírásainak; és
 
-## c) nincsenek felszerelve az Európai Unió közös katonai listáján meghatározott fegyverrel, kivéve, ha az működésképtelen és alkalmatlan arra, hogy újra üzembe helyezzék.
+## c) nincsenek felszerelve az EU közös katonai listáján meghatározott fegyverrel, kivéve, ha az működésképtelen és alkalmatlan arra, hogy újra üzembe helyezzék.
 
 ## XI. fejezet
 
-## (ML 11.)
+## (ML 11)
 
-## Az Európai Unió közös katonai listáján másutt meg nem határozott elektronikai berendezések, valamint kifejezetten ezekhez tervezett részegységek a következők szerint:
+## Az EU közös katonai listáján másutt meg nem határozott elektronikai berendezések, "űrhajók" és részegységeik, a következők szerint:
 
-## a) kifejezetten katonai felhasználásra tervezett elektronikai berendezések;
+## a) Kifejezetten katonai célra tervezett elektronikai berendezések, valamint a kifejezetten ezekhez tervezett részegységek;
 
-## Megjegyzés: Az ML11. fejezet a) pontja magában foglalja többek között a következőket:
+## Megjegyzés: Az ML11. fejezet a) pontja magában foglalja a következőket:
 
-## a ) elektronikai ellentevékenység és elektronikai ellentevékenység elleni berendezések (úgymint oda nem tartozó, vagy hibás jeleknek a radar, vagy rádió kommunikációs vevőkbe történő bejuttatására tervezett berendezéseket, vagy amelyek képesek másképpen megakadályozni az ellenséges elektronikus vevőket a hatásos vételben, működésben, beleértve azok ellentevékenységi berendezéseit is), beleértve a zavarás és zavarás elleni berendezéseket is;
+## a) elektronikai ellentevékenység és elektronikai ellentevékenység elleni berendezéseket (úgymint oda nem tartozó, vagy hibás jeleknek a radar, vagy rádió kommunikációs vevőkbe történő bejuttatására tervezett berendezéseket, vagy amelyek képesek másképpen megakadályozni az ellenséges elektronikus vevőket a hatásos vételben, működésben, beleértve azok ellentevékenységi berendezéseit is), beleértve a zavarás és zavarás elleni berendezéseket is;
 
 ## b) széles frekvenciasávban hangolható elektroncsövek;
 
 ## c) elektronikai rendszerek vagy berendezések, amelyeket elektromágneses spektrum ellenőrzésére és megfigyelésére, katonai hírszerzési vagy biztonsági célokra, vagy az ilyen hírszerzési és megfigyelési ellentevékenység elhárítására terveztek;
 
-## d) víz alatti ellentevékenység eszközei, magában foglalva többek között: akusztikai és mágneses zavaróeszközök és csapdák, a szonár vevőkbe zavaró vagy hamis jeleket továbbító berendezések;
+## d) víz alatti ellentevékenység eszközei, többek között akusztikai és mágneses zavaróeszközök és csapdák, a szonár vevőkbe zavaró, vagy hamis jeleket továbbító berendezések;
 
 ## e) adatfeldolgozó berendezés biztonsági eszköze, adattitkosító berendezés, rejtjelezési eljárásokkal ellátott biztonsági távközlési és jelátviteli berendezések;
 
@@ -1080,15 +1122,17 @@
 
 ## i) kifejezetten az elektronikus jel-hírszerzés céljára kifejlesztett digitális demodulátorok;
 
-## j) „automatizált parancsnoki és vezetési rendszerek”.
+## j) "automata parancsnoki és vezetési rendszerek".
 
-## NB: a katonai alkalmazású „szoftverrádióval” (SDR) kapcsolatos „szoftver”tekintetében lásd az ML21. pontot.
+## NB: A katonai alkalmazású "szoftverrádióval" (SDR) kapcsolatos "szoftver" tekintetében lásd az ML21. pontot.
 
-## b) a globális navigációs műholdrendszerek (GNSS) zavaró berendezései.
+## b) A globális navigációs műholdrendszerek (GNSS) zavaró berendezései és a kifejezetten ezekhez tervezett részegységek.
+
+## c) Kifejezetten katonai használatra tervezett vagy átalakított "űrhajók" és az "űrhajók" kifejezetten katonai használatra tervezett részegységei.
 
 ## XII. fejezet
 
-## (ML 12.)
+## (ML 12)
 
 ## Nagy sebességű, kinetikai energiájú fegyverrendszerek és kapcsolódó eszközök, és az azokhoz tervezett különleges részegységek a következők szerint:
 
@@ -1102,11 +1146,11 @@
 
 ## a) indító-meghajtó rendszerek, amelyek alkalmasak egyszeri, vagy gyorstüzelésű üzemmódban 0,1 grammot meghaladó tömeg 1,6 km/s-ot meghaladó sebességre történő felgyorsítására;
 
-## b) primer áramforrások, villamos páncélzat, energiatároló, hő-gazdálkodási, kondicionáló, kapcsoló vagy üzemanyag-kezelő berendezések;valamint elektromos csatlakozók az energiaellátás és a löveg, valamint a lövegtorony és egyéb meghajtások számára;
+## b) primer áramforrások, villamos páncélzat, energiatároló, hőgazdálkodási, kondicionáló, kapcsoló vagy üzemanyag-kezelő berendezések; valamint elektromos csatlakozók az energiaellátás és a löveg, valamint a lövegtorony és egyéb meghajtások számára;
 
 ## c) a cél felderítését, nyomon követését, a tűzvezetést és az eredmény felmérését szolgáló rendszerek;
 
-## d) irányított lövedék önvezérlési, irányítási vagy eltérítő hajtási (oldalirányú gyorsulást biztosító) rendszerei.
+## d) irányított lövedék önvezérlési, irányítási, vagy eltérítő hajtási (oldalirányú gyorsulást biztosító) rendszerei.
 
 ## 2. megjegyzés: Az ML12. fejezet vonatkozik mindazon fegyverrendszerekre, amelyek az alábbi hajtásmódok bármelyikével működnek:
 
@@ -1116,35 +1160,35 @@
 
 ## c) plazma;
 
-## d) könnyűgáz (könnyű gáz löveghez);vagy
+## d) könnyűgáz (könnyűgáz löveghez); vagy
 
 ## e) vegyi hajtóanyag (ha azt a fentiek bármelyikével kombinálják).
 
 ## XIII. fejezet
 
-## (ML 13.)
+## (ML 13)
 
 ## Páncélozott vagy védőberendezések, szerkezetek és részegységek az alábbiak szerint:
 
 ## a) az alábbi jellemzők bármelyikével rendelkező páncéllemezek:
 
-## 1. katonai szabvány vagy előírás szerint gyártva;vagy
+## 1. katonai szabvány vagy előírás szerint gyártva; vagy
 
 ## 2. katonai felhasználásra alkalmas;
 
-## NB: A testvédő páncéllemez vonatkozásában lásd az ML13. fejezet d) pont 2. alpontját.
+## NB: A testvédő páncéllemez vonatkozásában lásd az ML13. fejezet d) pontjának 2. alpontját.
 
 ## b) kifejezetten katonai rendszerek ballisztikai védelmére tervezett fémes vagy nemfémes szerkezetek, vagy azok kombinációi, és kifejezetten azokhoz tervezett részegységek;
 
-## c) katonai követelmények és szabványok, vagy hasonló nemzeti szabványok alapján gyártott sisakok és különleges kialakítású alkatrészeik (azaz sisakborítás, bélés és komfort-töltés);
+## c) katonai követelmények és szabványok, vagy hasonló nemzeti szabványok alapján gyártott sisakok és különleges kialakítású alkatrészeik, (azaz sisakborítás, bélés és komfort-töltés);
 
 ## d) testvédő páncélzat vagy védőruházat és annak részegységei az alábbiak szerint:
 
 ## 1. lágy testvédő páncélzat vagy védőruházat katonai szabvány, előírás vagy annak megfelelő követelmény szerint gyártva, és a kifejezetten azokhoz tervezett részegységek;
 
-## Megjegyzés: Az ML13. fejezet d) pont 1. alpontja értelmében a katonai követelmények vagy szabványok tartalmaznak legalább a repeszek elleni védelemre vonatkozó előírásokat.
+## Megjegyzés: Az ML13. fejezet d) pontjának 1. alpontja értelmében a katonai követelmények vagy szabványok tartalmaznak legalább a repeszek elleni védelemre vonatkozó előírásokat.
 
-## 2. kemény testvédő páncéllemezek, melyek a III. szint (lásd NIJ 0101.06, 2008. július, vagy a megfelelő nemzeti szabvány) szerinti vagy annál jobb ballisztikai védelmi képességet biztosítanak.
+## 2. kemény testvédő páncéllemezek, melyek a III. szint (lásd NIJ 0101.06, 2008. július, vagy a megfelelő nemzeti szabványt) szerinti vagy annál jobb ballisztikai védelmi képességet biztosítanak.
 
 ## 1. megjegyzés: Az ML13. fejezet b) pontja magában foglalja a kifejezetten reaktív páncélzathoz vagy katonai óvóhelyek létrehozására tervezett anyagokat.
 
@@ -1152,21 +1196,21 @@
 
 ## 3. megjegyzés: Az ML13. fejezet c) és d) pontja nem vonatkozik azon sisakokra, testvédő páncélzatokra és az azokhoz tartozó szerelvényekre, amelyeket azok viselője személyes védelmére tart magánál.
 
-## 4. megjegyzés: Az ML13. pontban meghatározott tűzszerész védősisakok körébe kizárólag a kifejezetten bombák hatástalanítását végzők számára tervezett, kifejezetten katonai használatú védősisakok tartoznak.
+## 4. megjegyzés: Az ML13. fejezetben meghatározott tűzszerész sisakok körébe kizárólag a kifejezetten bombák hatástalanítását végzők számára tervezett, kifejezetten katonai használatú védősisakok tartoznak.
 
 ## 1. NB: Lásd még a kettős felhasználású termékek és technológiák uniós jegyzékének 1A005. pontját.
 
-## 2. NB: A testvédő páncélzatok és sisakok gyártásához használt „szálas és rostos anyagok” tekintetében lásd a kettős felhasználású termékek és technológiák uniós jegyzékének 1C010. pontját.
+## 2. NB: A testvédő páncélzatok és sisakok gyártásához használt "szálas és rostos anyagok" tekintetében lásd a kettős felhasználású termékek és technológiák uniós jegyzékének 1C010. pontját.
 
 ## XIV. fejezet
 
-## (ML 14.)
+## (ML 14)
 
-## ’Kifejezetten katonai gyakorló eszközök’ vagy hadgyakorlat forgatókönyvének szimulációjára szolgáló berendezések, szimulátor berendezések az ML1. pontban vagy az ML2. pontban meghatározott bármilyen tűzfegyver és fegyverzet használatának begyakorlására, és a kifejezetten azokhoz tervezett részegységek és tartozékok.
+## "Kifejezetten katonai gyakorló eszközök" vagy hadgyakorlat forgatókönyvének szimulációjára szolgáló berendezések, szimulátor berendezések az ML1. pontban vagy az ML2. pontban meghatározott bármilyen tűzfegyver és fegyverzet használatának begyakorlására, és a kifejezetten azokhoz tervezett részegységek és kiegészítő eszközök.
 
 ## Műszaki megjegyzés:
 
-## ’Kifejezetten katonai gyakorló eszközök’ többek között az alábbiakat foglalja magában: a katonai célú támadásgyakorló eszközök, a repülésoktató eszközök, a lokátor cél gyakorlóeszközök, a lokátor célpont generátorok, a fegyver irányzó oktató berendezések, a tengeralattjáró elhárító harci eszközök gyakorló eszközei, a repülés szimulátorok (beleértve a pilóták/űrhajósok kiképzésére szolgáló emberméretű centrifugákat), a lokátor oktató berendezések, a műszeres repülés gyakorlását szolgáló oktató berendezés, a navigációs oktató berendezések, a rakétaindítást gyakoroltató berendezések, a célberendezések,a pilóta nélküli (cél) „légijárművek”, a fegyverzetgyakorló berendezések, a pilóta nélküli „légijármű” gyakorló berendezés, a mobil gyakorló egységek és a szárazföldi katonai hadműveletek gyakorlására szolgáló berendezések.
+## "Kifejezetten katonai gyakorló eszközök": a katonai célú támadásgyakorló eszközök, a repülésoktató eszközök, a lokátor cél gyakorlóeszközök, a lokátor célpont generátorok, a fegyver irányzó oktató berendezések, a tengeralattjáró elhárító harci eszközök gyakorló eszközei, a repülés szimulátorok (beleértve a pilóták/űrhajósok kiképzésére szolgáló emberméretű centrifugákat), a lokátor oktató berendezések, a műszeres repülés gyakorlását szolgáló oktató berendezés, a navigációs oktató berendezések, a rakétaindítást gyakoroltató berendezések, a célberendezések, a pilóta nélküli (cél) "repülőgépek", a fegyverzetgyakorló berendezések, a pilóta nélküli "repülőgép" gyakorló berendezés, a mobil gyakorló egységek és a szárazföldi katonai hadműveletek gyakorlására szolgáló berendezések.
 
 ## 1. megjegyzés: Az ML14. fejezet magában foglalja a gyakorló eszközök képalkotó és interaktív környezeti rendszereit, amelyeket kifejezetten katonai felhasználásra tervezték vagy alakították át.
 
@@ -1174,9 +1218,9 @@
 
 ## XV. fejezet
 
-## (ML 15.)
+## (ML 15)
 
-## Kifejezetten katonai felhasználásra tervezett képalkotó vagy ezeket zavaró berendezések, valamint a kifejezetten ezekhez tervezett részegységek és tartozékok az alábbiak szerint:
+## Kifejezetten katonai felhasználásra tervezett képalkotó vagy ezeket zavaró berendezések, valamint a kifejezetten ezekhez tervezett részegységek és kiegészítő eszközök az alábbiak szerint:
 
 ## a) rögzítő és képfeldolgozó berendezések;
 
@@ -1188,15 +1232,15 @@
 
 ## e) képalkotó lokátorszenzor berendezések;
 
-## f) az ML15. fejezet a)–e) pontjában meghatározott berendezésekhez tartozó zavaró és zavarás-elhárító berendezések.
+## f) az ML15. fejezet a)–e) pontokban meghatározott berendezésekhez tartozó zavaró és zavarás-elhárító berendezések.
 
 ## Megjegyzés: Az ML15. fejezet f) pontja magában foglalja azon berendezéseket, amelyeket a katonai képalkotó rendszerek működésének vagy hatékonyságának a csökkentésére, vagy az ilyen csökkentő hatásoknak a minimalizálására terveztek.
 
-## 1. megjegyzés: Az ML15. pontban a „kifejezetten ezekhez tervezett részegységek” kifejezés kifejezetten katonai felhasználásra való tervezés esetén az alábbiakat foglalja magában:
+## 1. megjegyzés: Az ML15. pontban a "kifejezetten ezekhez tervezett részegységek" kifejezés kifejezetten katonai felhasználásra való tervezés esetén az alábbiakat foglalja magában:
 
 ## a) infravörös képátalakító csövek (távcsövekhez, célzókészülékekhez);
 
-## b) képerősítő csövek (távcsövekhez, célzókészülékekhez)(nem elsőgenerációs);
+## b) képerősítő csövek (távcsövekhez, célzókészülékekhez) (nem elsőgenerációs);
 
 ## c) mikrocsatorna panelek;
 
@@ -1214,25 +1258,25 @@
 
 ## j) kompound félvezető fotókatódok.
 
-## 2. megjegyzés: Az ML15. fejezet nem vonatkozik az „első generációs képerősítő csövekre”, vagy a kifejezetten az „első generációs képerősítő csövek” alkalmazásához tervezett berendezésekre.
+## 2. megjegyzés: Az ML15. fejezet nem vonatkozik az "első generációs képerősítő csövekre", vagy a kifejezetten az "első generációs képerősítő csövek" alkalmazásával tervezett berendezésekre.
 
-## NB: Az „első generációs képerősítő csöveket” alkalmazó fegyver célzókészülékek besorolása tekintetében lásd az ML1. és ML2. pontot, valamint az ML5. fejezet a) pontját.
+## NB: Az "első generációs képerősítő csöveket" alkalmazó fegyver célzókészülékek besorolása tekintetében lásd az ML1. és ML2. pontot, valamint az ML5. fejezet a) pontját.
 
-## NB:Lásd még a kettős felhasználású termékek és technológiák uniós jegyzékének 6A002.a.2. és 6A002.b. pontját.
+## NB: Lásd még a kettős felhasználású termékek és technológiák uniós jegyzékének 6A002.a.2. és 6A002.b. pontját.
 
 ## XVI. fejezet
 
-## (ML 16.)
+## (ML 16)
 
-## Kovácsolt, sajtolt és más félkész gyártmányok, amelyeket kifejezetten az ML1–ML4., ML6., ML9., ML10., ML12. vagy ML19. pontban meghatározott eszközökhöz terveztek
+## Kovácsolt, sajtolt és más félkész gyártmányok, amelyeket kifejezetten az ML1–ML4., ML6., ML9., ML10., ML12. vagy ML19. pontban meghatározott eszközökhöz terveztek.
 
 ## Megjegyzés: az ML16. fejezet az anyagösszetétel, geometriai méret vagy alkalmazás alapján azonosítható félkész gyártmányokra vonatkozik.
 
 ## XVII. fejezet
 
-## (ML 17.)
+## (ML 17)
 
-## Különféle egyéb berendezések, anyagok és ’könyvtárak’, és a kifejezetten azokhoz tervezett részegységek a következők szerint:
+## Különféle berendezések, anyagok és "könyvtárak", és a kifejezetten azokhoz tervezett részegységek a következők szerint:
 
 ## a) önálló alámerülő és víz alatti úszó készülék a következők szerint:
 
@@ -1248,59 +1292,59 @@
 
 ## d) kifejezetten a harci zónában történő használatra tervezett tábori műszaki eszközök;
 
-## e) „robotok”, „robot”-vezérlések és „végeffektorok”, amelyek a következő jellemzők valamelyikével bírnak:
+## e) "robotok", "robot"-vezérlések és "végeffektorok", amelyek a következő jellemzők valamelyikével bírnak:
 
 ## 1. kifejezetten katonai felhasználásra tervezték;
 
-## 2. magában foglal hidraulikavezetékek védelmére szolgáló eszközöket a ballisztikai repeszek által kívülről okozott szakadás ellen (például öntömítő vezetékek beépítése révén), és 839 K (566 °C) hőmérsékletnél magasabb lobbanáspontú hidraulikafolyadék használatára tervezték;vagy
+## 2. magában foglal hidraulikavezetékek védelmére szolgáló eszközöket a ballisztikai repeszek által kívülről okozott szakadás ellen (pl. öntömítő vezetékek beépítése révén), és 839 K (566 °C) hőmérsékletnél magasabb lobbanáspontú hidraulikafolyadék használatára tervezték; vagy
 
 ## 3. kifejezetten elektromágneses impulzus (EMP) környezetben való működésre tervezték vagy minősítették;
 
 ## Műszaki megjegyzés:
 
-## Az elektromágneses impulzus nem vonatkozik a közelben található berendezés (például gépek, készülékek vagy elektronikai berendezés) elektromágneses sugárzása vagy villámlás okozta szándékolatlan interferenciára.
+## Az elektromágneses impulzus nem vonatkozik a közelben található berendezés (pl. gépek, készülékek vagy elektronikai berendezés) elektromágneses sugárzása vagy villámlás okozta szándékolatlan interferenciára.
 
-## f) az Európai Unió közös katonai listájában meghatározott berendezésekkel, kifejezetten katonai felhasználásra tervezett ’könyvtárak’ (parametrikus műszaki adatbázisok);
+## f) az EU közös katonai listájában meghatározott berendezésekkel, kifejezetten katonai felhasználásra tervezett "könyvtárak" (parametrikus műszaki adatbázisok);
 
-## g) nukleáris energia előállítására szolgáló berendezések vagy meghajtó berendezések, amelyek magukban foglalják a kifejezetten katonai felhasználásra tervezett „atomreaktorokat”, valamint az azokhoz kifejezetten katonai felhasználásra tervezett vagy ’átalakított’ részegységeket;
+## g) nukleáris energia előállítására szolgáló berendezések vagy meghajtó berendezések, amelyek magukban foglalják a kifejezetten katonai felhasználásra tervezett "atomreaktorokat", valamint az azokhoz kifejezetten katonai felhasználásra tervezett vagy "átalakított" részegységeket;
 
-## h) jel elfojtása érdekében, kifejezetten katonai felhasználásra tervezett, bevonattal ellátott vagy kezelt berendezés és anyag, amelyet az Európai Unió közös katonai listája máshol nem sorol fel;
+## h) jel elfojtása érdekében, kifejezetten katonai felhasználásra tervezett, bevonattal ellátott vagy kezelt berendezés és anyag, amelyet az EU közös katonai listája máshol nem sorol fel;
 
-## i) kifejezetten katonai „atomreaktorok” részére tervezett szimulátorok;
+## i) kifejezetten katonai "atomreaktorok" részére tervezett szimulátorok;
 
-## j) kifejezetten katonai berendezések kiszolgálására tervezett vagy ’átalakított’ mobil javító műhelyek;
+## j) kifejezetten katonai berendezések kiszolgálására tervezett vagy "átalakított" mobil javító műhelyek;
 
-## k) kifejezetten katonai felhasználásra tervezett vagy ’átalakított’ harctéri generátorok;
+## k) kifejezetten katonai felhasználásra tervezett vagy "átalakított" harctéri generátorok;
 
-## l) kifejezetten katonai felhasználásra tervezett vagy ’átalakított’ konténerek;
+## l) kifejezetten katonai felhasználásra tervezett vagy "átalakított" konténerek;
 
-## m) komphajók, amelyeket az Európai Unió közös katonai listája máshol nem sorol fel, valamint kifejezetten katonai felhasználásra tervezett hidak és pontonok;
+## m) komphajók, amelyeket az EU közös katonai listája máshol nem sorol fel, valamint kifejezetten katonai felhasználásra tervezett hidak és pontonok;
 
-## n) kifejezetten az ML4., ML6., ML9. vagy ML10. pontokban meghatározott termékek „fejlesztéséhez” tervezett kísérleti modellek;
+## n) kifejezetten az ML4., ML6., ML9. vagy ML10. pontokban meghatározott termékek "fejlesztéséhez" tervezett kísérleti modellek;
 
 ## o) kimondottan katonai felhasználásra tervezett lézer védelmi berendezés (például szem- és érzékelővédelem);
 
-## p) kifejezetten katonai felhasználásra tervezett vagy ’átalakított’, az Európai Unió közös katonai listájában máshol említettektől eltérő „üzemanyagcellák”.
+## p) kifejezetten katonai felhasználásra tervezett vagy "átalakított", az EU közös katonai listájában máshol említettektől eltérő "üzemanyagcellák".
 
 ## Technikai megjegyzés
 
-## 1. Az ML17. fejezet alkalmazásában műszaki ’könyvtár’ (parametrikus adatbázis):a katonai természetű műszaki információk gyűjteménye, amely növelheti a katonai berendezések vagy rendszerek teljesítményét.
+## 1. Az ML17. fejezet alkalmazásában műszaki "könyvtár" (parametrikus adatbázis): a katonai természetű műszaki információk gyűjteménye, amely növelheti a katonai berendezések vagy rendszerek teljesítményét.
 
-## 2. Az ML17. fejezet alkalmazásában ’átalakított’:bármely strukturális, elektromos, mechanikai vagy egyéb változás, amely valamely nem katonai eszközt kifejezetten katonai felhasználásra tervezett eszköz képességeivel lát el.
+## 2. Az ML17. fejezet alkalmazásában "átalakított": bármely strukturális, elektromos, mechanikai vagy egyéb változás, amely valamely nem katonai eszközt kifejezetten katonai felhasználásra tervezett eszköz képességeivel lát el.
 
 ## XVIII. fejezet
 
-## (ML 18.)
+## (ML 18)
 
 ## Az alábbi gyártóberendezések és azok tartozékai:
 
-## a) kifejezetten az Európai Unió közös katonai listájában meghatározott termékek ’gyártásához’ tervezett vagy átalakított gyártóberendezések, és a kifejezetten azokhoz tervezett részegységek;
+## a) kifejezetten az EU közös katonai listájában meghatározott termékek "gyártásához" tervezett vagy átalakított gyártóberendezések, és a kifejezetten azokhoz tervezett részegységek;
 
-## b) kifejezetten az Európai Unió közös katonai listájában meghatározott termékek tanúsításához, minősítéséhez és vizsgálatához tervezett környezetállósági vizsgáló létesítmények és az azokhoz tervezett berendezések.
+## b) kifejezetten az EU közös katonai listájában meghatározott termékek tanúsításához, minősítéséhez és vizsgálatához tervezett környezetállósági vizsgáló létesítmények és az azokhoz tervezett berendezések.
 
 ## Műszaki megjegyzés:
 
-## Az ML18. fejezet alkalmazásában ’gyártás’:tervezés, vizsgálat, előállítás, tesztelés és ellenőrzés.
+## Az ML18. fejezet alkalmazásában "gyártás": a tervezés, vizsgálat, előállítás, tesztelés és ellenőrzés.
 
 ## Megjegyzés: Az ML18. fejezet a) és b) pontja a következő berendezéseket foglalja magában:
 
@@ -1310,7 +1354,7 @@
 
 ## 1. egy vagy több hajtómotorjának együttes névleges teljesítménye legalább 298 kW (400 LE);
 
-## 2. hasznos terhelhetősége legalább 113 kg;vagy
+## 2. hasznos terhelhetősége legalább 113 kg; vagy
 
 ## 3. legalább 91 kg hasznos terhelésre ható 8 g vagy nagyobb centrifugális gyorsulást állít elő;
 
@@ -1326,37 +1370,37 @@
 
 ## h) fluidhajtóanyag-őrlők katonai robbanóanyagok összetevőinek zúzására vagy őrlésére;
 
-## i) az ML8. fejezet c) pont 8. alpontja alapján engedélyezés alá vont fémpor gömbösítésének és egységes szemcseméretének egyidejű elérését biztosító berendezések;
+## i) az ML8. fejezet c) pontjának 8. alpontja alapján engedélyezés alá vont fémpor gömbösítésének és egységes szemcseméretének egyidejű elérését biztosító berendezések;
 
-## j) az ML8. fejezet c) pont 3. alpontjában felsorolt anyagok átalakítására szolgáló konvekciós áramú konverterek.
+## j) az ML8. fejezet c) pontjának 3. alpontjában felsorolt anyagok átalakítására szolgáló konvekciós áramú konverterek.
 
 ## XIX. fejezet
 
-## (ML19.)
+## (ML 19)
 
-## Irányított energiát kibocsátó fegyverrendszerek (DEW), kapcsolódó berendezések, vagy ellentevékenység eszközei, és kísérleti modellek a következők szerint, és a kifejezetten azokhoz tervezett részegységek:
+## Irányított energiát kibocsátó fegyverrendszerek (DEW), kapcsolódó berendezések, vagy ellentevékenység eszközei, és kísérleti modellek a következők szerint, és a kifejezetten azokhoz tervezett elemek, részegységek:
 
-## a) a célpont megsemmisítésére vagy a célpont támadási célja elérésének megakadályozására tervezett „lézer”-rendszerek;
+## a) a célpont megsemmisítésére vagy a célpont támadási célja elérésének megakadályozására tervezett "lézer"-rendszerek;
 
 ## b) a célpont megsemmisítésére vagy a célpont támadási célja elérésének megakadályozására alkalmas részecskesugárzó rendszerek;
 
 ## c) a célpont megsemmisítésére vagy célpont támadási célja elérésének megakadályozására alkalmas nagy teljesítményű rádiófrekvenciás (RF) rendszerek;
 
-## d) kifejezetten az ML19. fejezet a)–c) pontjában meghatározott rendszerek felderítésére vagy azonosítására, vagy az ellenük való védelemre tervezett berendezések;
+## d) kifejezetten az ML19. fejezet a)–c) pontjaiban meghatározott rendszerek felderítésére vagy azonosítására, vagy az ellenük való védelemre tervezett berendezések;
 
 ## e) az ML19. pontban meghatározott rendszerek, berendezések és részegységek fizikai kísérleti modelljei;
 
-## f) „lézer”-rendszerek, amelyeket kifejezetten a védőeszközök nélküli látószerv – azaz a szabad szem vagy a látást javító eszközzel ellátott szem – maradandó vakságának előidézésére terveztek.
+## f) "lézer"-rendszerek, amelyeket kifejezetten a védőeszközök nélküli látószerv – azaz a szabad szem vagy a látást javító eszközzel ellátott szem – maradandó vakságának előidézésére terveztek.
 
 ## 1. megjegyzés: Az ML19. pontban meghatározott, irányított energiát kibocsátó fegyverrendszerek közé tartoznak azok a rendszerek, amelyek képessége az alábbi engedélyköteles eszközök alkalmazásától függ:
 
-## a) elégséges teljesítményű „lézerek” olyan megsemmisítő hatás létrehozására, amely hasonló a hagyományos lőszer pusztítási hatásához;
+## a) elégséges teljesítményű "lézerek" olyan megsemmisítő hatás létrehozására, amely hasonló a hagyományos lőszer pusztítási hatásához;
 
 ## b) részecskegyorsítók, amelyek pusztító hatású energiával feltöltött vagy semleges részecskesugarat lőnek ki;
 
 ## c) nagy lüktető teljesítményű vagy nagy átlagos teljesítményű rádiófrekvenciás sugáradók, amelyek kellően intenzív mezőt hoznak létre ahhoz, hogy a távoli célpontban lévő elektronikus áramkört üzemképtelenné tegyék.
 
-## 2. megjegyzés: Az ML19. fejezet magában foglalja többek között az alábbi, kifejezetten irányított energiát kibocsátó rendszereket:
+## 2. megjegyzés: Az ML19. fejezet szerint engedélykötelesek az alábbi, kifejezetten irányított energiát kibocsátó rendszerek:
 
 ## a) primer energiaforrások, energiatároló, kapcsoló, teljesítmény szabályozó vagy üzemanyag-kezelő berendezések;
 
@@ -1372,77 +1416,77 @@
 
 ## g) áram injektorok negatív hidrogén-ion sugár előállítására;
 
-## h) „űrminősítésű” gyorsító részegységek;
+## h) "űrminősítésű" gyorsító alkatrészek;
 
 ## i) negatívionsugár-összpontosító berendezés;
 
 ## j) nagy energiájú ionsugár ellenőrzésére és mozgatására szolgáló berendezés;
 
-## k) „űrminősítésű” fémfóliák a negatív hidrogén izotóp sugarak semlegesítésére.
+## k) "űrminősítésű" fémfóliák a negatív hidrogén izotóp sugarak semlegesítésére.
 
 ## XX. fejezet
 
-## (ML 20.)
+## (ML 20)
 
-## Kriogén és „szupravezető” berendezések az alábbiak szerint, valamint kifejezetten azokhoz tervezett részegységek és tartozékok:
+## Kriogén és "szupravezető" berendezések az alábbiak szerint, valamint kifejezetten azokhoz tervezett részegységek és kiegészítő eszközök:
 
-## a) kifejezetten katonai földi, vízi, repülőgép fedélzeti vagy űrjárművekbe való beépítésre tervezett berendezések, amelyek képesek a jármű mozgása közben 103 K (- 170 °C) alatti hőmérsékletet előállítani vagy fenntartani;
+## a) kifejezetten katonai földi, vízi, repülőgép fedélzeti vagy űrjárművekbe való beépítésre tervezett berendezések, amelyek képesek a jármű mozgása közben 103 K (–170 °C) alatti hőmérsékletet előállítani vagy fenntartani;
 
-## Megjegyzés: Az ML20. fejezet a) pontja magában foglalja többek között azon mobil rendszereket, amelyek nemfémes vagy nem villamos vezető anyagokból – például a műanyagok vagy az epoxigyantával impregnált anyagok – előállított kiegészítő eszközökből vagy részegységekből épülnek fel.
+## Megjegyzés: Az ML20. fejezet a) pontja magában foglalja azon mobil rendszereket, amelyek nemfémes vagy nem villamos vezető anyagokból – például a műanyagok, vagy az epoxigyantával impregnált anyagok – előállított kiegészítő eszközökből vagy részegységekből épülnek fel.
 
-## b) olyan „szupravezető” villamos berendezés (forgógépek és átalakítók), amelyeket kifejezetten katonai földi, vízi, légijármű fedélzetivagy űrjárművekbe való beépítésre terveztek, és amelyek a jármű mozgása közben is működtethetők.
+## b) olyan "szupravezető" villamos berendezés (forgógépek és átalakítók), amelyeket kifejezetten katonai földi, vízi, repülőgép fedélzeti, vagy űrjárművekbe való beépítésre terveztek, és amelyek a jármű mozgása közben is működtethetők.
 
 ## Megjegyzés: Az ML20. fejezet b) pontja nem vonatkozik az olyan egyenáramú hibrid homopoláris generátorokra, amelyek egypólusú normál fémarmatúrával rendelkeznek, és olyan mágneses mezőben forognak, amelyet szupravezető tekercsek hoznak létre, amennyiben a generátorban ezen tekercsek az egyedüli szupravezető elemek.
 
 ## XXI. fejezet
 
-## (ML 21.)
+## (ML 21)
 
-## „Szoftver”, a következők szerint:
+## "Szoftver", a következők szerint:
 
-## a) kifejezetten az Európai Unió közös katonai listáján meghatározott berendezések, anyagok vagy „szoftver” „kifejlesztésére”, „gyártására” vagy „felhasználására” tervezett vagy átalakított „szoftver”;
+## a) kifejezetten az EU közös katonai listáján meghatározott berendezések, anyagok vagy "szoftver""kifejlesztésére", "gyártására" vagy "felhasználására" tervezett vagy átalakított "szoftver";
 
-## b) az ML21. fejezet a) pontjában meghatározottaktól eltérő egyéb speciális „szoftver” az alábbiak szerint:
+## b) az ML21. fejezet a) pontjában meghatározottaktól eltérő egyéb speciális "szoftver" az alábbiak szerint:
 
-## 1. kifejezetten katonai felhasználásra, katonai fegyverrendszerek modellezése, szimulálása vagy értékelése céljára tervezett „szoftver”;
+## 1. kifejezetten katonai felhasználásra, katonai fegyverrendszerek modellezése, szimulálása vagy értékelése céljára tervezett "szoftver";
 
-## 2. kifejezetten katonai felhasználásra, katonai műveletek modellezése vagy szimulálása céljára tervezett „szoftver”;
+## 2. kifejezetten katonai felhasználásra, katonai műveletek modellezése vagy szimulálása céljára tervezett "szoftver";
 
-## 3. hagyományos, nukleáris, vegyi vagy biológiai fegyverek hatásának meghatározására szolgáló „szoftver”;
+## 3. hagyományos, nukleáris, vegyi vagy biológiai fegyverek hatásának meghatározására szolgáló "szoftver";
 
-## 4. kifejezetten katonai felhasználásra tervezett és kifejezetten vezetési, hírközlési, irányítási és hírszerzési (Command, Communications, Control and Intelligence - C3I) vagy vezetési, hírközlési, irányítási, számítástechnikai és hírszerzési (Command, Communications, Control, Computer and Intelligence - C4I) rendszer alkalmazások céljára kifejlesztett „szoftver”;
+## 4. kifejezetten katonai felhasználásra tervezett és kifejezetten vezetési, hírközlési, irányítási és hírszerzési (Command, Communications, Control and Intelligence – C3I) vagy vezetési, hírközlési, irányítási, számítástechnikai és hírszerzési (Command, Communications, Control, Computer and Intelligence – C4I) rendszer alkalmazások céljára kifejlesztett "szoftver";
 
-## c) az ML21. fejezet a) vagy b) pontjában nem meghatározott „szoftver”, amelyet kifejezetten arra terveztek vagy alakítottak át, hogy az Európai Unió közös katonai listájában nem szereplő berendezések számára lehetővé tegye az Európai Unió közös katonai listájában meghatározott berendezések katonai rendeltetésének betöltését.
+## c) az ML21. fejezet a) vagy b) pontjában nem meghatározott "szoftver", amelyet kifejezetten arra terveztek vagy alakítottak át, hogy az EU közös katonai listájában nem szereplő berendezések számára lehetővé tegye az EU közös katonai listájában meghatározott berendezések katonai rendeltetésének betöltését.
 
 ## XXII. fejezet
 
-## (ML 22.)
+## (ML 22)
 
-## „Technológia” a következők szerint:
+## "Technológia" a következők szerint:
 
-## a) „technológia”, amely az ML22. fejezet b) pontjában meghatározottaktól eltér és az Európai Unió közös katonai listáján szereplő termékek „fejlesztéséhez”, „gyártásához” vagy „használatához” „szükséges” ;
+## a) "technológia", amely az ML22. fejezet b) pontjában meghatározottaktól eltér és az EU közös katonai listáján szereplő termékek "fejlesztéséhez", "gyártásához" vagy "használatához""szükséges";
 
-## b) „Technológia” a következők szerint:
+## b) "technológia" a következők szerint:
 
-## 1. „technológia”, amely az Európai Unió közös katonai listájában meghatározott termékek teljes gyártási eljárásának tervezéséhez, a részegységek összeszereléséhez és azok működtetéséhez, üzemeltetéséhez és javításához „szükséges”, még akkor is, ha a gyártási eljárás részegységei nincsenek meghatározva;
+## 1. "technológia", amely az Európai Unió közös katonai listájában meghatározott termékek teljes gyártási eljárásának tervezéséhez, a részegységek összeszereléséhez és azok működtetéséhez, üzemeltetéséhez és javításához "szükséges" még akkor is, ha a gyártási eljárás részegységei nincsenek meghatározva;
 
-## 2. „technológia”, amely kézifegyverek „fejlesztéséhez” és „gyártásához” „szükséges” még akkor is, ha azt antik kézifegyverek másolatainak gyártására használják;
+## 2. "technológia", amely kézifegyverek "fejlesztéséhez" és "gyártásához""szükséges" még akkor is, ha azt antik kézifegyverek másolatainak gyártására használják;
 
-## 3. „technológia”, amely az ML7. fejezet a)–g) pontjában meghatározott mérgező anyagok, kapcsolódó berendezések vagy elemek „fejlesztéséhez”, „gyártásához” vagy „használatához” „szükséges”;
+## 3. "technológia", amely az ML7. fejezet a)–g) pontjaiban meghatározott mérgező anyagok, kapcsolódó berendezések vagy elemek "fejlesztéséhez", "gyártásához" vagy "használatához""szükséges";
 
-## 4. „technológia”, amely az ML7. fejezet h) pontjában meghatározott biopolimerek vagy specifikus sejtkultúrák „fejlesztéséhez”, „előállításához” vagy „használatához” szükséges;
+## 4. "technológia", amely az ML7. fejezet h) pontjában meghatározott biopolimerek vagy specifikus sejtkultúrák "fejlesztéséhez", "előállításához" vagy "használatához" szükséges;
 
-## 5. „technológia”, amely kizárólag az ML7. fejezet i) pont 1. alpontjában meghatározott „biokatalizátoroknak” a katonai hordozóanyagokkal vagy katonai anyagokkal történő elegyítéséhez „szükséges”.
+## 5. "technológia", amely kizárólag az ML7. fejezet i) pontjának 1. alpontjában meghatározott "biokatalizátoroknak" a katonai hordozóanyagokkal vagy katonai anyagokkal történő elegyítéséhez "szükséges".
 
-## 1. megjegyzés: Az Európai Unió közös katonai listáján szereplő termékek „fejlesztéséhez”, „gyártásához” vagy „használatához” „szükséges” „technológia” akkor is engedélyköteles marad, ha azt az Európai Unió közös katonai listáján nem szereplő termékekre kell alkalmazni.
+## 1. megjegyzés: Az EU közös katonai listáján szereplő termékek "fejlesztéséhez", "gyártásához" vagy "használatához""szükséges""technológia" akkor is engedélyköteles marad, ha azt az EU közös katonai listáján nem szereplő termékekre kell alkalmazni.
 
 ## 2. megjegyzés: Az ML22. fejezet nem vonatkozik a következőkre:
 
-## a) azon „technológiák”, amelyek a szükséges minimumot képezik a nem engedélyköteles tételek, illetve az engedélyezett kivitelű tételek üzembe helyezéséhez, működtetéséhez, működtetés folyamatos fenntartásához (ellenőrzéséhez) és javításához;
+## a) azon "technológiák", amelyek a szükséges minimumot képezik a nem engedélyköteles tételek, illetőleg az engedélyezett kivitelű tételek üzembe helyezéséhez, működtetéséhez, működtetés folyamatos fenntartásához (ellenőrzéséhez) és javításához;
 
-## b) azon „technológiák”, amelyek „közhasznú”, „tudományos alapkutatás” vagy a szabadalmi engedélyekhez szükséges minimum információk;
+## b) azon "technológiák", amelyek "közhasznú", "tudományos alapkutatás" vagy a szabadalmi engedélyekhez szükséges minimum információk;
 
-## c) a polgári közlekedési eszközök folyamatos meghajtásához szükséges mágneses indukcióhoz kapcsolódó „technológiák”.
+## c) a polgári közlekedési eszközök folyamatos meghajtásához szükséges mágneses indukcióhoz kapcsolódó "technológiák".
 
 ## XXIII. fejezet
 
@@ -1452,7 +1496,7 @@
 
 ## Kizárólag katonai előírások szerint kialakított alapanyagból, katonai szabvány, felsorolás vagy annak megfelelő követelmény szerint gyártott termékek:
 
-## a) jelen Jegyzékben másutt engedélyezés alá nem vont, katonai alkalmazásra kifejlesztett hadiruházati felszerelések, lábbelik, málhazsákok és hord eszközök;
+## a) jelen Jegyzékben másutt engedélyezés alá nem vont, katonai alkalmazásra kifejlesztett hadiruházati felszerelések, lábbelik, málhazsákok és hordeszközök;
 
 ## b) katonai és a személyi álcázó felszerelések, takaróeszközök;
 
@@ -1690,72 +1734,214 @@
 
 ## 1. megjegyzés: A fogalommeghatározások a lista egészére vonatkoznak. A hivatkozások kizárólag tájékoztató jellegűek, és nem érintik a definícióknak a lista egészében való általános alkalmazását.
 
-## 2. megjegyzés: Az ebben „A listában használt kifejezések fogalommeghatározásai” című részben szereplő szavak és kifejezések kizárólag akkor értelmezendőek a definíciónak megfelelően, ha idézőjelben („”) állnak. A félidézőjellel jelölt (’ ’) fogalmak definícióját a megfelelő részhez fűzött műszaki megjegyzés tartalmazza. Egyéb esetekben a szavak és kifejezések általánosan elfogadott (szótári) jelentésükben értelmezendők.
+## 2. megjegyzés: Az ebben "A listában használt kifejezések fogalommeghatározásai" című részben szereplő szavak és kifejezések kizárólag akkor értelmezendőek a definíciónak megfelelően, ha idézőjelben ("") állnak. A félidézőjellel jelölt ("") fogalmak definícióját a megfelelő részhez fűzött műszaki megjegyzés tartalmazza. Egyéb esetekben a szavak és kifejezések általánosan elfogadott (szótári) jelentésükben értelmezendők.
 
-| ML10. | „A levegőnél könnyebb légijárművek”: hőlégballonok és léghajók, amelyek emelkedésükhöz forró levegőt vagy a levegőnél könnyebb gázokat – például héliumot vagy hidrogént – használnak. |
+## ML10. "A levegőnél könnyebb légi járművek":
 
-| ML8. | „Adalékanyagok”: robbanóanyagokban, azok tulajdonságainak javítása céljából használt anyagok. |
+## hőlégballonok és léghajók, amelyek emelkedésükhöz forró levegőt vagy a levegőnél könnyebb gázokat – például héliumot vagy hidrogént – használnak.
 
-| ML17. | „Atomreaktor”: a reaktortartályon belül lévő vagy ahhoz közvetlenül kapcsolódó egységek, az a berendezés, amely a magban a teljesítményszintet szabályozza és azok a komponensek, amelyek általában a reaktormag primer hűtőközegét foglalják magukban, azzal közvetlenül érintkeznek vagy azt szabályozzák. |
+## ML8. "Adalékanyagok":
 
-| ML11. | „Automata parancsnoki és vezetési rendszerek”: Olyan elektronikus rendszerek, amelyeken keresztül a vezetés alatt álló hadműveleti, harcászati kötelék, egység, hajó, alegység vagy fegyverek hatékony működéséhez nélkülözhetetlen információt betáplálják, feldolgozzák és továbbítják. Ezt a katonai vezető szerv feladatainak támogatására tervezett számítógépes és egyéb speciális hardver felhasználásával végzik. Az automatikus parancsnoki és vezetési rendszerek fő funkciói a következők:az információk hatékony automatikus gyűjtése, tárolása és feldolgozása;mindazon körülmények és helyzet bemutatása, amelyek hatással lehetnek a harc előkészítésére és megvívására;a művelet céljának és pillanatnyi állásának megfelelően a harcászati és hadműveleti számvetések elvégzése az erőforrásoknak a harccsoportok vagy hadrendi elemek vagy a harctéren telepített erők közötti megosztása céljából;a művelet vagy harc időtartama alatt bármikor helyzetértékeléshez és döntéshozatalhoz szükséges adatok előkészítése;a műveletek számítógépes szimulációja. |
+## robbanóanyagokban, azok tulajdonságainak javítása céljából használt anyagok.
 
-| ML7., 22. | „Biokatalizátorok”: egyes vegyi vagy biokémiai reakciókhoz, vagy egyéb biológiai vegyületekben használt enzimek, amelyek a vegyi harcanyagokhoz (CW) kötődnek és lebontásukat gyorsítják. Műszaki megjegyzés: „Enzim”:egyes vegyi vagy biokémiai reakciókhoz használt „biokatalizátor”. |
+## ML17. "Atomreaktor":
 
-| ML7., 22. | „Biopolimerek”: az alábbiak szerinti biológiai makromolekulák: a) egyes vegyi vagy biokémiai reakciókhoz használt enzimek; b) monoklonális, poliklonális vagy nem idiotipikus ellenanyagok; c) különleges módon tervezett vagy feldolgozott receptorok; Technikai megjegyzés 1. „Nem idiotipikus ellenanyagok”: olyan ellenanyagok, amelyek más ellenanyagok konkrét ellenanyag-megkötő helyeihez kötődnek. 2. „Monoklonális ellenanyagok”: olyan proteinek, amelyek egy ellenanyag-megkötő helyhez kötődnek, és amelyeket egy sejtklón állít elő. 3. „Poliklonális ellenanyagok”: olyan proteinek keveréke, amelyek egy ellenanyag megkötő helyhez kötődnek, és amelyeket egynél több sejtklón állít elő. 4. „Receptorok”: olyan biológiai makromolekuláris szerkezetek, amelyek képesek ligandok megkötésére, amelyek megkötése hatással van fiziológiai funkcióikra. |
+## a reaktortartályon belül lévő vagy ahhoz közvetlenül kapcsolódó egységek, az a berendezés, amely a magban a teljesítményszintet szabályozza és azok a komponensek, amelyek általában a reaktormag primer hűtőközegét foglalják magukban, azzal közvetlenül érintkeznek vagy azt szabályozzák.
 
-| ML15. | „Első generációs képerősítő csövek”: elektrosztatikus fókuszú csövek, amelyekben a ki- és bemenetnél multialkáli fotókatódból (S-20 vagy S-25) készült optikai vagy üveglemez került felhasználásra, azonban mikrocsatornás lemezeket nem tartalmaznak. |
+## ML11. "Automata parancsnoki és vezetési rendszerek":
 
-| ML8. | „Energiahordozó anyagok”: olyan anyagok vagy keverékek, amelyek a tervezett felhasználásukhoz szükséges energia kibocsátása céljából kémiai reakcióba lépnek. A „robbanóanyagok”, „pirotechnikai eszközök” és „hajtóanyagok” az energiahordozó anyagok alosztályait képezik. |
+## Olyan elektronikus rendszerek, amelyeken keresztül a vezetés alatt álló hadműveleti, harcászati kötelék, egység, hajó, alegység vagy fegyverek hatékony működéséhez nélkülözhetetlen információt betáplálják, feldolgozzák és továbbítják. Ezt a katonai vezető szerv feladatainak támogatására tervezett számítógépes és egyéb speciális hardver felhasználásával végzik. Az automatikus parancsnoki és vezetési rendszerek fő funkciói a következők: az információk hatékony automatikus gyűjtése, tárolása és feldolgozása; mindazon körülmények és helyzet bemutatása, amelyek hatással lehetnek a harc előkészítésére és megvívására; a művelet céljának és pillanatnyi állásának megfelelően a harcászati és hadműveleti számvetések elvégzése az erőforrásoknak a harccsoportok vagy hadrendi elemek vagy a harctéren telepített erők közötti megosztása céljából; a művelet vagy harc időtartama alatt bármikor helyzetértékeléshez és döntéshozatalhoz szükséges adatok előkészítése; a műveletek számítógépes szimulációja.
 
-| ML7. | „Expressziós vektorok” genetikai anyagnak a fogadósejtbe történő bejuttatására használt hordozók (például plazmid vagy vírus). |
+## ML7., 22. "Biokatalizátorok":
 
-| ML21., 22. | „Fejlesztés”: kapcsolódik a sorozatgyártást megelőző valamennyi szakaszhoz, mint például:tervezés, tervezéskutatás, tervezéselemzések, tervezési koncepciók, a prototípusok összeszerelése és vizsgálata, kísérleti gyártási tervek, tervezési adatok, a tervezési adatok termékké történő átalakításának folyamata, konfigurációs tervezés, integrációtervezés, tervrajzok. |
+## egyes vegyi vagy biokémiai reakciókhoz, vagy egyéb biológiai vegyületekben használt enzimek, amelyek a vegyi harcanyagokhoz (CW) kötődnek és lebontásukat gyorsítják.
 
-| ML21., 22. | „Felhasználás” Üzemeltetés, üzembe helyezés (a helyszíni üzembe helyezést is beleértve), folyamatos üzemben tartás (ellenőrzés), javítás, nagyjavítás és felújítás. |
+## Műszaki megjegyzés:
 
-| ML18., 21., 22. | „Gyártás”: valamennyi gyártási fázis vagyis:tervezés, gyártás, integrálás, összeszerelés, ellenőrzés, tesztelés, minőségbiztosítás. |
+## "Enzim": egyes vegyi vagy biokémiai reakciókhoz használt "biokatalizátor".
 
-| ML8. | „Hajtóanyag”: olyan anyagok vagy keverékek, amelyek kémiai reakcióba lépve – ellenőrzött ütemben – nagy mennyiségű forró gázt állítanak elő mechanikai munka végzése céljából. |
+## ML7., 22. "Biopolimerek":
 
-| ML7. | „Háborús felhasználáshoz igazított”: olyan átalakítás vagy szelektálás (mint a tisztaság, eltarthatósági idő, fertőzőképesség, terjedési jellemzők vagy az UV-sugárzással szembeni ellenállóképesség megváltoztatása), amelynek célja, hogy növelje az ember- vagy állatveszteséget, rombolja a berendezéseket, vagy kárt tegyen a termésben vagy a környezetben. |
+## az alábbiak szerinti biológiai makromolekulák:
 
-| ML22. | „Közhasznú”: olyan „technológia” vagy „szoftver”, amelyet a továbbterjesztésére vonatkozó korlátozás nélkül tettek közzé. Megjegyzés:szerzői jogi korlátozások nem gátolják, hogy a „technológia” vagy „szoftver” a „közhasznú” tárgykörébe tartozzon. |
+## a) egyes vegyi vagy biokémiai reakciókhoz használt enzimek;
 
-| ML9., 19. | „Lézer”: komponensek olyan részegysége, amely mind térben, mind időben olyan koherens fényt biztosít, amelyet stimulált sugárzáskibocsátással erősítenek fel. |
+## b) monoklonális, poliklonális vagy nem idiotipikus ellenanyagok;
 
-| ML4., 8. | „Pirotechnikai eszközök”: szilárd vagy folyékony üzemanyagok és oxidáló szerek keveréke, amely amikor begyújtják egy energiát termelő kémiai folyamaton megy keresztül szabályozott arányok mellett azért, hogy megfelelő időkésedelmet hozzon létre, vagy hőmennyiséget, zajt, füstöt, látható fényt vagy infravörös kisugárzást gerjesszen. A piroforok a pirotechnikai eszközök egyik olyan alosztályát képezik, amelyek nem tartalmaznak oxidálószert, levegővel érintkezve azonban spontán gyulladnak. |
+## c) különleges módon tervezett vagy feldolgozott receptorok.
 
-| ML4., 10. | „Polgárilégijármű”: a polgári légiközlekedési hatóság által közzétett, a légiközlekedésre alkalmasságot minősítő listákban felsorolt, a polgári típusalkalmassági engedéllyel, vagy azzal egyenértékű engedéllyel rendelkező polgári légiközlekedési tevékenységet végző légijármű. |
+## Technikai megjegyzés
 
-| ML8. | „Prekurzorok”: robbanóanyagok gyártásához használt különleges vegyi anyagok. |
+## 1. "Nem idiotipikus ellenanyagok": olyan ellenanyagok, amelyek más ellenanyagok konkrét ellenanyag-megkötő helyeihez kötődnek.
 
-| ML8., 10. és 14. | „Légijármű”: merevszárnyas, csuklósszárnyas, forgószárnyas (helikopter), döntött rotoros vagy döntött szárnyas légijármű. |
+## 2. "Monoklonális ellenanyagok": olyan proteinek, amelyek egy ellenanyag-megkötő helyhez kötődnek, és amelyeket egy sejtklón állít elő.
 
-| ML8., 18. | „Robbanóanyagok”: olyan szilárd, folyékony vagy gáz-halmazállapotú anyagok vagy anyagok keverékei, amelyek robbanófejekben elsődleges, indító- vagy főtöltetként, valamint rombolások és egyéb alkalmazások során történő felhasználásukkor robbanást okoznak. |
+## 3. "Poliklonális ellenanyagok": olyan proteinek keveréke, amelyek egy ellenanyag megkötő helyhez kötődnek, és amelyeket egynél több sejtklón állít elő.
 
-| ML17. | „Robot”: esetleg folyamatos működésű vagy pontról pontra mozgatható manipulációs mechanizmus, amely szenzorokat is alkalmazhat, és rendelkezik az alábbi jellemzők mindegyikével: a) többfunkciós; b) képes anyagok, részegységek, szerszámok vagy különleges eszközök beállítására vagy orientálására, háromdimenziós térben történő változtatható mozgások révén; c) három vagy több zárt vagy nyitott hurkos szervoeszközt foglal magában, amelyek léptető motorokat is tartalmazhatnak;és d) rendelkezik a „felhasználó által programozható” tanít/visszajátszik módszerrel vagy elektronikus számítógéppel, amely lehet programozható logikai kontroller, azaz mechanikai beavatkozás nélküli. Megjegyzés: A fenti meghatározás nem foglalja magában az alábbi eszközöket: 1. olyan manipulációs mechanizmusok, amelyeket csak kézzel vagy távoperátorral lehet irányítani; 2. állandó sorozatú manipulációs mechanizmusok, amelyek mechanikusan rögzített programozott mozgások szerint működő automatizált mozgó eszközök. A programot mechanikusan korlátozzák a rögzített, de állítható ütközők, például csapok vagy bütykök. A mozgások sorrendje és a pályák vagy szögek megválasztása mechanikai, elektronikus vagy elektromos úton nem változtatható, illetve nem is cserélhető; 3. mechanikai vezérlésű, változtatható sorrendű manipulációs mechanizmusok, amelyek a mechanikusan rögzített programozott mozgások szerint működő automatikus mozgó eszközök. A programot mechanikusan korlátozzák a rögzített, de állítható ütközők, például csapok vagy bütykök. A mozgások sorrendje és a pályák vagy szögek megválasztása a rögzített programsémán belül változtatható.A programséma változtatása vagy módosítása (például a csapok átállítása vagy a bütykök cseréje) egy vagy több mozgási tengelyen csak mechanikai műveletek révén történik; 4. nem szervovezérlésű, sorrendmanipulációs mechanizmusok, amelyek mechanikusan rögzített, programozott mozgások szerint működő automatizált mozgó eszközök; a program változtatható, de a folyamat csak a mechanikusan rögzített elektromos bináris eszközről vagy állítható ütközőkről kapott bináris jel hatására halad tovább; 5. Descartes-féle koordináta manipulátor rendszerként definiált rakodódaruk, amelyeket függőleges elhelyezett tárolórekeszek integrált részeként alakítottak ki, és e rekeszek tartalmának tárolás és kirakodás céljából történő elérésére szolgálnak. |
+## 4. "Receptorok": olyan biológiai makromolekuláris szerkezetek, amelyek képesek ligandok megkötésére, amelyek megkötése hatással van fiziológiai funkcióikra.
 
-| ML13. | „Szálas vagy rostos anyagok”: magában foglalja többek között az alábbiakat: a) folytonos monofil szálak; b) folytonos cérnák és előfonatok; c) szalagok, szövetek, kusza fonatok és paszományok; d) vágott szálak, szálkötegek és koherens szálú végek; e) bármilyen hosszú, egykristályos vagy polikristályos tűkristályok; f) aromás poliamid pép. |
+## ML15. "Első generációs képerősítő csövek":
 
-| ML10. | „Személyzet nélküli légijármű” („UAV”) Minden olyan „légijármű”, amely a fedélzeten mindennemű emberi jelenlét nélkül képes a repülés megkezdésére, valamint az irányított repülés és navigálás fenntartására. |
+## elektrosztatikus fókuszú csövek, amelyekben a ki- és bemenetnél multialkáli fotókatódból (S-20 vagy S-25) készült optikai vagy üveglemez került felhasználásra, azonban mikrocsatornás lemezeket nem tartalmaznak.
 
-| ML21. | „Szoftver”: bármilyen tényleges hordozóra rögzített, egy vagy több „program” vagy „mikroprogram” gyűjteménye. |
+## ML8. "Energiahordozó anyagok":
 
-| ML20. | „Szupravezető”: olyan anyagok (fémek, ötvözetek vagy vegyületek), amelyek elveszíthetik minden elektromos ellenállásukat, azaz végtelen elektromos vezetőképességgel rendelkezhetnek, és igen nagy elektromos áram átvitelére alkalmasak Joule-hő keletkezése nélkül. Egy „szupravezető” anyag „kritikus hőmérséklete” (más kifejezéssel átmeneti hőmérséklete) az a hőmérséklet, amelyen az anyag az elektromos egyenárammal szemben minden ellenállását elveszíti. Műszaki megjegyzés: Az anyag kritikus „szupravezető” állapotát a „kritikus hőmérséklet”, a kritikus mágneses mező – amely a hőmérséklet függvénye – és a kritikus áramsűrűség jellemzi, amely azonban a mágneses mezőtől és a hőmérséklettől egyaránt függ. |
+## olyan anyagok vagy keverékek, amelyek a tervezett felhasználásukhoz szükséges energia kibocsátása céljából kémiai reakcióba lépnek. A "robbanóanyagok", "pirotechnikai eszközök" és "hajtóanyagok" az energiahordozó anyagok alosztályait képezik.
 
-| ML22. | „Szükséges”: a „technológia” tekintetében a „technológiának” az ellenőrzés alá eső működési szint, jellemzők vagy funkciók eléréséért vagy meghaladásáért felelős része. Az ilyen „szükséges technológia” több termék részét is képezheti. |
+## ML7. "Expressziós vektorok"
 
-| ML22. | „Technológia”: A termékek „fejlesztéséhez”, „gyártásához” vagy „felhasználásához” szükséges egyedi információ. Ez az információ lehet ’műszaki adat’ vagy ’műszaki támogatás’. Technikai megjegyzés 1. A ’műszaki adat’ lehet tervrajz, terv, ábra, modell, formula, táblázat, gépészeti terv és specifikáció, kézikönyv és útmutatás, akár írásban, akár más adathordozón, például mágneslemezen, mágnesszalagon vagy csak olvasható tárban rögzítve. 2. A ’műszaki támogatás’ lehet útmutatások, készségek, képzés, a munkával kapcsolatos ismeretek átadása vagy konzultációs szolgáltatás. A ’műszaki támogatás’ magában foglalhatja a ’műszaki adatok’ átadását is. |
+## genetikai anyagnak a fogadósejtbe történő bejuttatására használt hordozók (például plazmid vagy vírus).
 
-| ML7. | „Tömegoszlató harcanyagok”: olyan anyagok, amelyek – a tömegoszlatási célra történő tervezett felhasználásuk során – rövid idő alatt az emberi érzékszervek irritációját vagy a fizikai funkciók zavarát okozzák, amely hatások az anyagoknak való expozíció befejeződését követően rövid időn belül megszűnnek. A könnygáz a „tömegoszlató harcanyagok” egyik fajtája. |
+## ML21., 22. "Fejlesztés":
 
-| ML22. | „Tudományos alapkutatás”: kísérleti vagy elméleti munka, melynek alapvető célja új ismeretek megszerzése jelenségek vagy megfigyelhető tények alapelveiről, és elsődlegesen nem meghatározott gyakorlati cél vagy szándék elérésére irányul. |
+## kapcsolódik a sorozatgyártást megelőző valamennyi szakaszhoz, mint például: tervezés, tervezéskutatás, tervezéselemzések, tervezési koncepciók, a prototípusok összeszerelése és vizsgálata, kísérleti gyártási tervek, tervezési adatok, a tervezési adatok termékké történő átalakításának folyamata, konfigurációs tervezés, integrációtervezés, tervrajzok.
 
-| ML17. | „Üzemanyagcellák” olyan elektrokémiai eszköz, amely képes egy külső forrásból kapott üzemanyag kémiai energiáját közvetlenül egyenárammá átalakítani. |
+## ML21., 22. "Felhasználás"
 
-| ML19. | „Űrminősítésű”: olyan termék, amelyet úgy terveztek, gyártottak és próbáltak ki, hogy megfeleljen a műholdak, valamint a nagy magasságú, 100 kilométeren vagy nagyobb magasságon működő repülő rendszerek felbocsátásánál és telepítésénél megkövetelt különleges elektromos, mechanikai vagy környezeti követelményeknek. |
+## Üzemeltetés, üzembe helyezés (a helyszíni üzembe helyezést is beleértve), folyamatos üzemben tartás (ellenőrzés), javítás, nagyjavítás és felújítás.
 
-| ML17. | „Végeffektorok”: fogószerszámok, aktív szerszámegységek és minden egyéb olyan szerszám, amelyet a „robot” manipulátorkar végén lévő alaplapra erősítenek. Műszaki megjegyzés: „aktív szerszámegységek”:valamely munkadarab hajtóerejét vagy munkaenergiáját biztosító, vagy azt érzékelő eszközök. |
+## ML18., 21., 22. "Gyártás":
+
+## valamennyi gyártási fázis vagyis: tervezés, gyártás, integrálás, összeszerelés, ellenőrzés, tesztelés, minőségbiztosítás.
+
+## ML8. "Hajtóanyag":
+
+## olyan anyagok vagy keverékek, amelyek kémiai reakcióba lépve – ellenőrzött ütemben – nagy mennyiségű forró gázt állítanak elő mechanikai munka végzése céljából.
+
+## ML7. "Háborús felhasználáshoz igazított":
+
+## olyan átalakítás vagy szelektálás (mint a tisztaság, eltarthatósági idő, fertőzőképesség, terjedési jellemzők vagy az UV-sugárzással szembeni ellenálló-képesség megváltoztatása), amelynek célja, hogy növelje az ember- vagy állatveszteséget, rombolja a berendezéseket, vagy kárt tegyen a termésben vagy a környezetben.
+
+## ML22. "Közhasznú":
+
+## olyan "technológia" vagy "szoftver", amelyet a továbbterjesztésére vonatkozó korlátozás nélkül tettek közzé.
+
+## Megjegyzés: szerzői jogi korlátozások nem gátolják, hogy a "technológia" vagy "szoftver" a "közhasznú" tárgykörébe tartozzon.
+
+## ML9., 19. "Lézer":
+
+## komponensek olyan részegysége, amely mind térben, mind időben olyan koherens fényt biztosít, amelyet stimulált sugárzáskibocsátással erősítenek fel.
+
+## ML4., 8. "Pirotechnikai eszközök":
+
+## szilárd vagy folyékony üzemanyagok és oxidáló szerek keveréke, amely amikor begyújtják, egy energiát termelő kémiai folyamaton megy keresztül szabályozott arányok mellett azért, hogy megfelelő időkésedelmet hozzon létre, vagy hőmennyiséget, zajt, füstöt, látható fényt vagy infravörös kisugárzást gerjesszen. A piroforok a pirotechnikai eszközök egyik olyan alosztályát képezik, amelyek nem tartalmaznak oxidálószert, levegővel érintkezve azonban spontán gyulladnak.
+
+## ML4., 10. "Polgári repülőeszköz":
+
+## a polgári repülésügyi hatóságok által közzétett, a repülésre való alkalmasságot minősítő listákban felsorolt "repülőeszközök", amelyek kereskedelmi, polgári, belső és külső útvonalakon repülhetnek, vagy polgári, magán- vagy üzleti célokra használhatók.
+
+## ML8. "Prekurzorok":
+
+## robbanóanyagok gyártásához használt különleges vegyi anyagok.
+
+## ML8., 10., 14. "Repülőgép":
+
+## merevszárnyas, csuklósszárnyas, forgószárnyas (helikopter), döntött rotoros vagy döntött szárnyas légi jármű.
+
+## ML8., 18. "Robbanóanyagok":
+
+## olyan szilárd, folyékony vagy gáz-halmazállapotú anyagok vagy anyagok keverékei, amelyek robbanófejekben elsődleges, indító- vagy főtöltetként, valamint rombolások és egyéb alkalmazások során történő felhasználásukkor robbanást okoznak.
+
+## ML17. "Robot":
+
+## esetleg folyamatos működésű vagy pontról pontra mozgatható manipulációs mechanizmus, amely szenzorokat is alkalmazhat, és rendelkezik az alábbi jellemzők mindegyikével:
+
+## a) többfunkciós;
+
+## b) képes anyagok, részegységek, szerszámok vagy különleges eszközök beállítására vagy orientálására, háromdimenziós térben történő változtatható mozgások révén;
+
+## c) három vagy több zárt vagy nyitott hurkos szervoeszközt foglal magában, amelyek léptető motorokat is tartalmazhatnak; és
+
+## d) rendelkezik a "felhasználó által programozható" tanít/visszajátszik módszerrel vagy elektronikus számítógéppel, amely lehet programozható logikai kontroller, azaz mechanikai beavatkozás nélküli.
+
+## Megjegyzés: A fenti meghatározás nem foglalja magában az alábbi eszközöket:
+
+## 1. olyan manipulációs mechanizmusok, amelyeket csak kézzel vagy távoperátorral lehet irányítani;
+
+## 2. állandó sorozatú manipulációs mechanizmusok, amelyek mechanikusan rögzített programozott mozgások szerint működő automatizált mozgó eszközök. A programot mechanikusan korlátozzák a rögzített, de állítható ütközők, pl. csapok vagy bütykök. A mozgások sorrendje és a pályák vagy szögek megválasztása mechanikai, elektronikus vagy elektromos úton nem változtatható, illetve nem is cserélhető;
+
+## 3. mechanikai vezérlésű, változtatható sorrendű manipulációs mechanizmusok, amelyek a mechanikusan rögzített programozott mozgások szerint működő automatikus mozgó eszközök. A programot mechanikusan korlátozzák a rögzített, de állítható ütközők, pl. csapok vagy bütykök. A mozgások sorrendje és a pályák vagy szögek megválasztása a rögzített programsémán belül változtatható. A programséma változtatása vagy módosítása (pl. a csapok átállítása vagy a bütykök cseréje) egy vagy több mozgási tengelyen csak mechanikai műveletek révén történik;
+
+## 4. nem szervovezérlésű, sorrendmanipulációs mechanizmusok, amelyek mechanikusan rögzített, programozott mozgások szerint működő automatizált mozgó eszközök. A program változtatható, de a folyamat csak a mechanikusan rögzített elektromos bináris eszközről vagy állítható ütközőkről kapott bináris jel hatására halad tovább;
+
+## 5. Descartes-féle koordináta manipulátor rendszerként definiált rakodódaruk, amelyeket függőleges elhelyezett tárolórekeszek integrált részeként alakítottak ki, és e rekeszek tartalmának tárolás és kirakodás céljából történő elérésére szolgálnak.
+
+## ML13. "Szálas vagy rostos anyagok":
+
+## többek között:
+
+## a) folytonos monofil szálak;
+
+## b) folytonos cérnák és előfonatok;
+
+## c) szalagok, szövetek, kusza fonatok és paszományok;
+
+## d) vágott szálak, szálkötegek és koherens szálú végek;
+
+## e) bármilyen hosszú, egykristályos vagy polikristályos tűkristályok;
+
+## f) aromás poliamid pép.
+
+## ML10. "Személyzet nélküli légi jármű" ("UAV")
+
+## minden olyan "repülőgép", amely a fedélzeten mindennemű emberi jelenlét nélkül képes a repülés megkezdésére, valamint az irányított repülés és navigálás fenntartására.
+
+## ML21. "Szoftver":
+
+## bármilyen tényleges hordozóra rögzített, egy vagy több "program" vagy "mikroprogram" gyűjteménye.
+
+## ML20. "Szupravezető":
+
+## olyan anyagok (fémek, ötvözetek vagy vegyületek), amelyek elveszíthetik minden elektromos ellenállásukat, azaz végtelen elektromos vezetőképességgel rendelkezhetnek, és igen nagy elektromos áram átvitelére alkalmasak Joule-hő keletkezése nélkül.
+
+## Egy "szupravezető" anyag "kritikus hőmérséklete" (más kifejezéssel átmeneti hőmérséklete) az a hőmérséklet, amelyen az anyag az elektromos egyenárammal szemben minden ellenállását elveszíti.
+
+## Műszaki megjegyzés:
+
+## Az anyag kritikus "szupravezető" állapotát a "kritikus hőmérséklet", a kritikus mágneses mező – amely a hőmérséklet függvénye – és a kritikus áramsűrűség jellemzi, amely azonban a mágneses mezőtől és a hőmérséklettől egyaránt függ.
+
+## ML22. "Szükséges":
+
+## a "technológia" tekintetében a "technológiának" az ellenőrzés alá eső működési szint, jellemzők vagy funkciók eléréséért vagy meghaladásáért felelős része. Az ilyen "szükséges technológia" több termék részét is képezheti.
+
+## ML22. "Technológia":
+
+## A termékek "fejlesztéséhez", "gyártásához" vagy "felhasználásához" szükséges egyedi információ. Ez az információ lehet "műszaki adat" vagy "műszaki támogatás".
+
+## Technikai megjegyzés
+
+## 1. A "műszaki adat" lehet tervrajz, terv, ábra, modell, formula, táblázat, gépészeti terv és specifikáció, kézikönyv és útmutatás, akár írásban, akár más adathordozón, például mágneslemezen, mágnesszalagon vagy csak olvasható tárban rögzítve.
+
+## 2. A "műszaki támogatás" lehet útmutatások, készségek, képzés, a munkával kapcsolatos ismeretek átadása vagy konzultációs szolgáltatás. A "műszaki támogatás" magában foglalhatja a "műszaki adatok" átadását is.
+
+## ML7. "Tömegoszlató harcanyagok":
+
+## olyan anyagok, amelyek – a tömegoszlatási célra történő tervezett felhasználásuk során – rövid idő alatt az emberi érzékszervek irritációját vagy a fizikai funkciók zavarát okozzák, amely hatások az anyagoknak való expozíció befejeződését követően rövid időn belül megszűnnek. A könnygáz a "tömegoszlató harcanyagok" egyik fajtája.
+
+## ML22. "Tudományos alapkutatás":
+
+## kísérleti vagy elméleti munka, melynek alapvető célja új ismeretek megszerzése jelenségek vagy megfigyelhető tények alapelveiről, és elsődlegesen nem meghatározott gyakorlati cél vagy szándék elérésére irányul.
+
+## ML17. "Üzemanyagcellák"
+
+## olyan elektrokémiai eszköz, amely képes egy külső forrásból kapott üzemanyag kémiai energiáját közvetlenül egyenárammá átalakítani.
+
+## ML11. "Űrhajó":
+
+## aktív és passzív műholdak és űrszondák.
+
+## ML19. "Űrminősítésű":
+
+## olyan termék, amelyet úgy terveztek és gyártottak, hogy alkalmas legyen – illetve amelyet sikeres tesztelést követően olyannak minősítettek, mint amely alkalmas – a Föld felszíne felett 100 kilométernél nagyobb magasságon való működésre.
+
+## Megjegyzés: Az, hogy egy konkrét eszköz tesztelés révén űrminősítést kap, még nem jelenti azt, hogy az ugyanazon gyártási sorozatból vagy modellszériából származó más eszközök is "űrminősítésűek", hacsak nem tesztelték külön azokat is.
+
+## ML17. "Végeffektorok":
+
+## fogószerszámok, aktív szerszámegységek és minden egyéb olyan szerszám, amelyet a "robot" manipulátorkar végén lévő alaplapra erősítenek.
+
+## Műszaki megjegyzés:
+
+## "aktív szerszámegységek": valamely munkadarab hajtóerejét vagy munkaenergiáját biztosító, vagy azt érzékelő eszközök."
 
 2. melléklet a 160/2011. (VIII. 18.) Korm. rendelethez
