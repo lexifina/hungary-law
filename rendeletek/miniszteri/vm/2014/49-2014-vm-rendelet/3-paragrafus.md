@@ -1,0 +1,3 @@
+3. § (1) Az élelmiszerek szennyezőanyag és természetes eredetű ártalmas anyag tartalmát az előállítás teljes folyamatában alkalmazott helyes műveleti gyakorlattal elérhető lehető legalacsonyabb szinten kell tartani.
+
+(2) Az élelmiszerek szennyezőanyag és természetes eredetű ártalmas anyag tartalmát, valamint az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagok és tárgyak jogszabályoknak való megfelelőségét az előállítás és forgalomba hozatal teljes folyamatában egybehangolt hatósági ellenőrzéssel és az ellenőrző hatóság éves programja szerint végzett monitoring vizsgálatokkal ellenőrizni kell.
