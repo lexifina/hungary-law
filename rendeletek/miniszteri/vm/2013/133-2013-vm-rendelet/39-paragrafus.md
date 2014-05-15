@@ -1,6 +1,6 @@
 ## 11. A halászati őrzés alcímhez
 
-39. § (1)[^21] Halászati őrként a halgazdálkodásra jogosult képviselője kivételével nem alkalmazható olyan személy, aki az adott halgazdálkodási vízterületre érvényes halászati engedéllyel, illetve érvényes halászati területi jeggyel rendelkezik.
+39. § (1)[^22] Halászati őrként a halgazdálkodásra jogosult képviselője kivételével nem alkalmazható olyan személy, aki az adott halgazdálkodási vízterületre érvényes halászati engedéllyel, illetve érvényes halászati területi jeggyel rendelkezik.
 
 (2) Ha a Hhvtv. 56. § (1) bekezdése szerinti halgazdálkodásra jogosult képviselője rendelkezik a kormányhivatal földművelésügyi igazgatósága előtt tett halászati őri vizsgával, úgy elláthatja a jogosult halászati őr feladatát a saját kezelésében lévő halgazdálkodási vízterületen.
 
@@ -10,4 +10,4 @@
 
 (5) A (3)–(4) bekezdésben foglalt vizsgák részletes szakmai anyagának meghatározásáról a minisztérium a NÉBIH bevonásával gondoskodik.
 
-[^21]: A 39. § (1) bekezdése a 44/2014. (IV. 14.) VM rendelet 25. § e) pontja szerint módosított szöveg.
+[^22]: A 39. § (1) bekezdése a 44/2014. (IV. 14.) VM rendelet 25. § e) pontja szerint módosított szöveg.
