@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-49-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-05-14 | 2014-49-20-2Y.1 | 49/2014. (IV. 29.) VM rendelet |
+| 2014-05-15 | 2014-49-20-2Y.2 | 2010: CXXX. törvény |

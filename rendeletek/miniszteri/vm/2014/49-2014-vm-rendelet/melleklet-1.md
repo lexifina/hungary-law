@@ -1,4 +1,4 @@
-## 8. § Hatályát veszti az élelmiszerek vegyi szennyezettségének megengedhető mértékéről szóló 17/1999. (VI. 16.) EüM rendelet.
+## 8. §[^1]
 
 1. melléklet a 49/2014. (IV. 29.) VM rendelethez
 
@@ -57,3 +57,5 @@ A mosogató-, tisztító-, tisztító-fertőtlenítő-, valamint fertőtlenítő
 | A. Élelmiszer | B. Teljes tömegre számított határérték (mg/kg) Réz (Cu) |
 
 | 6.1. Gyümölcspárlat, szőlőtörköly-párlat | 10,0 |
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
