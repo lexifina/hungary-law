@@ -1,7 +1,7 @@
-## 14–15. §[^3]
+## 14–15. §[^4]
 
 ## 4. A halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló
 
 ## 133/2013. (XII. 29.) VM rendelet módosítása
 
-[^3]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
