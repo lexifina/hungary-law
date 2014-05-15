@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-44-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2002-44-20-0L.6 | 44/2002. (XII. 28.) GKM rendelet |
+| 2014-05-15 | 2002-44-20-0L.7 | 28/2014. (IV. 30.) NFM rendelet |

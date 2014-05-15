@@ -12,18 +12,22 @@
 
 |  |  |  | Gázolaj | Normatív Biztonsági |  |  |  |
 
-2. számú melléklet a 44/2002. (XII. 28.) GKM rendelethez
+2. számú melléklet a 44/2002. (XII. 28.) GKM rendelethez[^11]
 
-Az atomerőmű energiahordozó készletének mértéke a 44/2002. (XII. 28.) GKM rendelet szerint
+Az atomerőmű reaktoron kívül tárolt energiahordozó készletének mértéke a 44/2002. (XII. 28.) GKM rendelet szerint
 
-| Dátum | Blokk száma | Éves felhasználási terv db | Készlet fajta | Készlet db |
+1. A tárolt energiahordozó készlet mértéke
 
-| Előírt | Tényleges | Eltérés |
+|  |  | A | B | C | D | E | F |
 
-|  |  |  | Normatív Biztonsági |  |  |  |
+|  | 1. 2. | Erőmű neve | Készletfajta | Éves felhasználási terv db | Készlet db |
 
-|  |  |  | Normatív Biztonsági |  |  |  |
+|  | Előírt | Tényleges | Eltérés |
 
-|  |  |  | Normatív Biztonsági |  |  |  |
+|  | 3. |  | Normatív |  |  |  |  |
 
-|  |  |  | Normatív Biztonsági |  |  |  |
+|  | 4. | Biztonsági |  |  |  |  |
+
+2. Az egyes atomerőművi blokkok üzemanyagcseréjének tervezett időpontja.
+
+[^11]: A 2. számú melléklet a 28/2014. (IV. 30.) NFM rendelet 2. §-ával megállapított szöveg.

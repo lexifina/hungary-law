@@ -8,9 +8,9 @@ a) a hagyományos szilárd energiahordozóval (szén, lignit) működő erőműv
 
 b) a szénhidrogén energiahordozóval működő erőműveknél legalább nyolcnapi átlagos villamosenergia- és kapcsolt hőtermeléshez, a gyorsindítású szekunder tartalék gázturbinákhoz legalább egynapi maximális teljesítménnyel üzemeléshez szükséges folyékony szénhidrogén energiahordozó,
 
-c) az atomerőműnél – valamennyi blokk esetében külön – az adott naptári év kezdete és a soron következő átrakás közötti időszakban a blokk egyévi átlagos villamosenergia- és kapcsolt hőtermeléshez szükséges berakást biztosító üzemanyag mennyiségnek kell rendelkezésre állnia.
+c)[^1] az atomerőműnél a naptári év február 1-jén legalább az atomerőmű egyévi átlagos villamosenergia- és kapcsolt hőtermeléséhez szükséges üzemanyag-mennyiség.
 
-d)[^1]
+d)[^2]
 
 (3) A biztonsági energiahordozó-készlet mennyisége
 
@@ -18,11 +18,13 @@ a) a hagyományos szilárd energiahordozóval (szén, lignit) működő erőműv
 
 b) a szénhidrogén energiahordozóval működő erőműveknél legalább nyolcnapi átlagos villamosenergia- és kapcsolt hőtermeléshez, a gyorsindítású szekunder tartalék gázturbinákhoz legalább egynapi maximális teljesítménnyel üzemeléshez szükséges folyékony szénhidrogén energiahordozó,
 
-c) az atomerőműnél legalább egyévi átlagos villamosenergia- és kapcsolt hőtermeléshez szükséges üzemanyagkészlet a reaktorba berakott üzemanyagon kívül.
+c)[^3] az atomerőműnél annak az üzemanyagnak a mennyisége, amely a naptári év február 1-jén – a normatív készletben lévő üzemanyaggal együtt – legalább kétévi átlagos villamosenergia- és kapcsolt hőtermelést biztosít.
 
-d)[^2]
+d)[^4]
 
-(4) A normatív energiahordozó-készleteket azon a telephelyen kell tárolni, ahol a tüzelőberendezés (reaktor) üzemel.
+(4)[^5] A normatív energiahordozó-készleteket azon a telephelyen, atomerőmű esetében a telephelyen és a reaktorban kell tárolni, ahol a tüzelőberendezés (reaktor) üzemel.
+
+(4a)[^6] A naptári év február 1-jén az adott évben esedékes üzemanyagcserékhez szükséges üzemanyag-mennyiségnek az atomerőmű telephelyén kell rendelkezésre állnia.
 
 (5) A biztonsági energiahordozó-készletek a telephelyen kívül is tárolhatóak azzal a feltétellel, hogy az energiahordozónak az erőműbe jutása nem igényli közforgalmi vasút, vízi út vagy 5 km-nél hosszabb közforgalmi út igénybevételét, beszállításáról a termelő saját maga tud gondoskodni, és a beszállítási kapacitása nagyobb, mint a napi átlagos energiahordozó-felhasználás.
 
@@ -34,5 +36,9 @@ b) hulladékhőt, inert tartalmú földgázt, vagy megújuló energiát hasznos�
 
 (7) E rendeletben előírt biztonsági készletet 2004. október 15-ig kell elérni annak a szénhidrogén tüzelésű erőművet üzemeltető termelőnek, amely e rendelet hatálybalépésének időpontjában érvényes létesítési vagy működési engedéllyel rendelkezik.
 
-[^1]: Az 1. § (2) bekezdésének d) pontját a 104/2004. (IX. 3.) GKM rendelet 1. § (1) bekezdése iktatta be, e módosító rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^2]: Az 1. § (3) bekezdésének d) pontját a 104/2004. (IX. 3.) GKM rendelet 1. § (2) bekezdése iktatta be, e módosító rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^1]: Az 1. § (2) bekezdés c) pontja a 28/2014. (IV. 30.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdésének d) pontját a 104/2004. (IX. 3.) GKM rendelet 1. § (1) bekezdése iktatta be, e módosító rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^3]: Az 1. § (3) bekezdés c) pontja a 28/2014. (IV. 30.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (3) bekezdésének d) pontját a 104/2004. (IX. 3.) GKM rendelet 1. § (2) bekezdése iktatta be, e módosító rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^5]: Az 1. § (4) bekezdése a 28/2014. (IV. 30.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § (4a) bekezdését a 28/2014. (IV. 30.) NFM rendelet 1. § (3) bekezdése iktatta be.
