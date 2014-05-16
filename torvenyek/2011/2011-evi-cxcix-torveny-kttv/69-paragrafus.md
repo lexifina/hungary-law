@@ -30,7 +30,7 @@ a) a jogelőd munkáltatónál – ideértve jogviszonyváltás esetén az átad
 
 b) áthelyezés esetén a költségvetési szervnél kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyban, hivatásos szolgálati jogviszonyban, illetve 1992. július 1-jéig bármely munkáltatónál munkaviszonyban,
 
-c) a 204. § (5) bekezdése szerint folyamatosnak tekintendő kormányzati szolgálati jogviszony esetében a politikai főtanácsadói, politikai tanácsadói jogviszonyban,
+c)
 
 d) átminősítés esetén a hivatásos szolgálati viszonyban eltöltött idő is.
 

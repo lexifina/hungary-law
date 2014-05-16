@@ -1,6 +1,6 @@
 ## Kabinetfőnök
 
-205. § (1) A politikai tanácsadói, politikai főtanácsadói munkakörbe kinevezett kabinetfőnökre a miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnökre vonatkozó e § szerinti rendelkezéseket kell alkalmazni. A miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnök kinevezése a 203. § (6) bekezdésben meghatározott időre szól. A miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnök végkielégítésre a 204. § (3)–(6) bekezdés alapján jogosult.
+205. § (1) A politikai tanácsadói, politikai főtanácsadói munkakörbe kinevezett kabinetfőnökre a miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnökre vonatkozó e § szerinti rendelkezéseket kell alkalmazni. A miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnök kinevezése a 203. § (6) bekezdésében meghatározott időre szól.
 
 (2) A miniszteri kabinetet főosztályvezetőként vezető kabinetfőnök felett a munkáltatói jogokat a miniszter, az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnök felett az alapvető munkáltatói jogokat a miniszter, míg az egyéb munkáltató jogokat az államtitkár gyakorolja.
 
