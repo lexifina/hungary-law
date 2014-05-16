@@ -1,0 +1,3 @@
+12. § Az Ogytv. 96. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha a képviselő a megválasztása napján ügyész, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban vagy közalkalmazotti jogviszonyban álló személy, közigazgatási szerv munkavállalója, a honvédek jogállásáról szóló törvény és a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti jogviszonyban álló személy volt, a képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.”
