@@ -1,4 +1,4 @@
-## 33. Bejelentési kötelezettség alá eső tevékenységek és jövedelmek
+## 33. Bejelentési kötelezettség alá eső tevékenységek
 
 89. § A képviselő a házelnöknek köteles bejelenteni minden, összeférhetetlenség alá nem eső
 
