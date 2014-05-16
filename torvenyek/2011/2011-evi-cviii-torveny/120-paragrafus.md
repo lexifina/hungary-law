@@ -26,4 +26,8 @@ k) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény 
 
 l) a 114. § (2) bekezdés d) pontjában meghatározott szolgáltatást nyújtó szervezet beszerzései vonatkozásában;
 
-m) kulturális javak körébe tartozó tárgyak vételére és a rájuk vonatkozó egyéb jogok megszerzésére.
+m) kulturális javak körébe tartozó tárgyak vételére és a rájuk vonatkozó egyéb jogok megszerzésére;
+
+n) az Országgyűlésről szóló 2012. évi XXXVI. törvény 113. §-ában és 114. § (3) bekezdésében meghatározott keret terhére történő beszerzések vonatkozásában;
+
+o) olyan szolgáltatás megrendelése esetében, amely a pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványokról szóló 2003. évi XLVII. törvény 1. §-a alapján létrehozott alapítvány alapító okiratában meghatározott tudományos, ismeretterjesztő, kutatási vagy oktatási tevékenység végzésére irányul, vagy azt közvetlenül segíti.
