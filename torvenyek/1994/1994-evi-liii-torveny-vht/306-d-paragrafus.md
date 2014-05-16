@@ -1,0 +1,1 @@
+306/D. § E törvénynek a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvénnyel megállapított 137. § (3) bekezdését és 137/A. §-át az e rendelkezések hatálybalépését követően kitűzött árverések esetén kell alkalmazni.
