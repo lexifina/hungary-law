@@ -8,7 +8,7 @@
 
 ## Az önálló tevékenységből származó jövedelem
 
-16. § (1) Önálló tevékenység minden olyan tevékenység, amelynek eredményeként a magánszemély bevételhez jut, és amely e törvény szerint nem tartozik a nem önálló tevékenység körébe. Ide tartozik különösen az egyéni vállalkozó, a mezőgazdasági őstermelő, a bérbeadó, a választott könyvvizsgáló tevékenysége, az európai parlamenti, a nemzetiségi szószólói, valamint a helyi önkormányzati képviselői tevékenység.
+16. § (1) Önálló tevékenység minden olyan tevékenység, amelynek eredményeként a magánszemély bevételhez jut, és amely e törvény szerint nem tartozik a nem önálló tevékenység körébe. Ide tartozik különösen az egyéni vállalkozó, a mezőgazdasági őstermelő, a bérbeadó, a választott könyvvizsgáló tevékenysége, az európai parlamenti, valamint a helyi önkormányzati képviselői tevékenység.
 
 (2) Az önálló tevékenységből származó bevételből – kivéve, ha törvény másként rendelkezik – a 17–23. § rendelkezéseinek figyelembevételével számított rész a jövedelem.
 
