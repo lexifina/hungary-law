@@ -1,3 +1,5 @@
-## 12. § Hatályát veszti a közigazgatási felsőoktatás alap- és mesterképzési szakjainak képzési és kimeneti követelményeiről szóló 24/2013. (X. 2.) KIM rendelet.
+## 12. §[^6]
 
 1. melléklet a 30/2014. (IV. 30.) KIM rendelethez
+
+[^6]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
