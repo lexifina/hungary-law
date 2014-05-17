@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-19-00-00
 | --- | --- | --- |
 | 2014-05-16 | 2014. évi XIX. törvény | 2014-19-00-00.0 (közlönyállapot) |
 | 2014-05-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-19-00-00.1 |
+| 2014-05-17 | 2010. évi CXXX. törvény | 2014-19-00-00.2 |
