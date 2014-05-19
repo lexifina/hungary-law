@@ -1,0 +1,15 @@
+# A köztársasági elnök 185/2014. (V. 19.) KE határozata
+
+Magyar Közlöny 2014. évi 72. szám, 2014. május 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/231c1fd7dfc8589c420603f5752e915604bed891/dokumentumok/bba738abdc0355c2875197e45f2e1bff49815797/letoltes)
+
+---
+
+A köztársasági elnök 185/2014. (V. 19.) KE határozata
+bírói felmentésről
+Az Alaptörvény 9. cikk (3) bekezdés k) pontja, valamint a bírák jogállásáról és javadalmazásáról szóló 2011. évi
+CLXII. törvény 90. §-a alapján – az Országos Bírósági Hivatal elnökének javaslatára – nyugállományba helyezés iránti
+kérelmére tekintettel dr. Kocsis Juditot 2014. december 22-ei hatállyal bírói tisztségéből felmentem.
+Budapest, 2014. május 9.
+ Áder János s. k.,
+ köztársasági elnök
+KEH ügyszám: IV-4/02400-2/2014.
