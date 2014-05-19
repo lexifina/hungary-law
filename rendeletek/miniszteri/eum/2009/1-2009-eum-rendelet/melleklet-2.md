@@ -36,11 +36,15 @@
 
 | I.3.2. | Személyes gyógyszertár működtetési jog (személyi jog) engedély módosítása | 5 000 Ft |
 
-| I.3.3. | Gyógyszertár létesítési és működési engedélyezési eljárás | 64 500 Ft |
+| I.3.3. | Gyógyszertár működési engedélyezési eljárás | 66 000 Ft |
 
-| I.3.4. | Gyógyszertár működési engedélyének módosítása | 25 900 Ft |
+| I.3.4. | Gyógyszertár működési engedélyének módosítása | 30 000 Ft |
 
 | I.3.5. | Gyógyszer kiskereskedelmi forgalmazásának engedélyezése | 30 000 Ft |
+
+| I.3.6. | Személyes gyógyszertár működtetési jog (személyi jog) átruházásának engedélyezése | 5 000 Ft |
+
+| I.3.7. | Gyógyszertár áthelyezésének engedélyezése | 5 000 Ft |
 
 | II. | Egyes élelmiszerekkel kapcsolatos igazgatási szolgáltatások |  |
 
@@ -148,89 +152,91 @@
 
 | VI. | Biocid anyagokkal kapcsolatos igazgatási szolgáltatások |  |
 
-| VI.1. | Rovar-, rágcsálóirtó szer és rovarriasztó szer forgalomba hozatalának engedélyezése | 96 000 Ft/termék |
+| VI.1. | Biocid termék forgalomba hozatalának engedélyezése | 2 500 000 Ft |
 
-| VI.2. | Rovar-, rágcsálóirtó szer, valamint rovarriasztó szer szakvéleményezése forgalomba hozatalhoz: |  |
+| VI.2. | Biocid termék forgalomba hozatalának engedélyezése, ha az azonos a hatóanyag jóváhagyási eljárásában referenciatermékként értékelt termékkel | 500 000 Ft |
 
-| VI.2.1. | Rovarirtó szerek szakvéleményezése | 333 500 Ft |
+| VI.3. | Biocid termékcsalád forgalomba hozatalának engedélyezése | 5 000 000 Ft |
 
-| VI.2.2. | Rovarriasztó szerek szakvéleményezése | 177 400 Ft |
+| VI.4. | Biocid termék vagy termékcsalád forgalomba hozatali engedélyének módosítása adminisztratív változtatás esetén | 25 000 Ft |
 
-| VI.2.3. | Rágcsálóirtó szer szakvéleményezése | 243 200 Ft |
+| VI.5. | Biocid termék forgalomba hozatali engedélyének módosítása kisebb mértékű változtatás esetén Biocid termékcsalád esetén | 150 000 Ft 300 000 Ft |
 
-| VI.3. | Irtószer felhasználás engedélyezése | 11 000 Ft |
+| VI.6. | Biocid termék forgalomba hozatali engedélyének módosítása jelentős változtatás esetén Biocid termékcsalád esetén | 1 000 000 Ft 2 000 000 Ft |
 
-| VI.4. | Fertőtlenítőszer forgalomba hozatalának és fertőtlenítési technológia engedélyezése | 96 000 Ft/termék |
+| VI.7. | Biocid termék vagy termékcsalád forgalomba hozatali engedélyének megújítása, ha a dokumentáció teljes körű újraértékelése szükséges | 1 875 000 Ft |
 
-| VI.5. | Ivóvízellátásban, uszoda- és fürdővízben felhasználható biocid anyag engedélyezése | 96 000 Ft/termék |
+| VI.8. | Biocid termék vagy termékcsalád forgalomba hozatali engedélyének megújítása, ha a dokumentáció korlátozott mértékű újraértékelése szükséges | 625 000 Ft |
 
-| VI.6. | Biocid termék forgalomba hozatalának engedélyezése | 2 500 000 Ft |
+| VI.9. | Azonos biocid termék forgalomba hozatalának engedélyezése | 75 000 Ft |
 
-| VI.7. | Mikrobiológiai hatóanyagot tartalmazó biocid termék forgalomba hozatalának engedélyezése | 1 250 000 Ft |
+| VI.10. | Biocid termékcsalád újabb tagja forgalomba hozatalának bejelentése | 75 000 Ft |
 
-| VI.8. | Biocid termék forgalomba hozatali engedélyének megújítása | 2 500 000 Ft |
+| VI.11. | Biocid termék forgalomba hozatalának egyszerűsített eljárással történő engedélyezése során a dokumentáció értékelése Biocid termékcsalád esetén | 500 000 Ft 1 000 000 Ft |
 
-| VI.9. | Mikrobiológiai hatóanyagot tartalmazó biocid termék forgalomba hozatali engedélyének megújítása | 1 250 000 Ft |
+| VI.12. | Az egyszerűsített engedélyezési eljárás keretében engedélyezett biocid termék forgalmazásának bejelentése | 50 000 Ft |
 
-| VI.10. | Biocid termék forgalomba hozatali engedélyének megújítása amennyiben az nem jár a dokumentáció újraértékelésével | 250 000 Ft |
+| VI.13. | Egyszerűsített eljárással kiadott biocid termék forgalomba hozatali engedélyének megújítása során a dokumentáció értékelése | 50 000 Ft |
 
-| VI.11. | Biocid termék regisztrációja | 1 250 000 Ft |
+| VI.14. | Biocid termék más tagállamban kiadott engedélyének elismerési eljárása | 500 000 Ft |
 
-| VI.12. | Mikrobiológiai hatóanyagot tartalmazó biocid termék regisztrációja | 625 000 Ft |
+| VI.15. | Biocid termékcsalád kölcsönös elismerési eljárással történő engedélyezése | 1 000 000 Ft |
 
-| VI.13. | Biocid termék regisztrációjának megújítása | 1 250 000 Ft |
+| VI.16. | Biocid termék vagy termékcsalád kölcsönös elismerési eljárás során megadott forgalomba hozatali engedély adminisztratív módosítása | 25 000 Ft |
 
-| VI.14. | Mikrobiológiai hatóanyagot tartalmazó biocid termék regisztrációjának megújítása | 625 000 Ft |
+| VI.17. | Biocid termék kölcsönös elismerési eljárás során megadott forgalomba hozatali engedély kisebb mértékű változtatás esetén történő módosítása Biocid termékcsalád esetén | 50 000 Ft |
 
-| VI.15. | Biocid termék regisztrációjának megújítása, amennyiben az nem jár a dokumentáció újraértékelésével | 250 000 Ft |
+| VI.18. | Biocid termék kölcsönös elismerési eljárás során megadott forgalomba hozatali engedély jelentős változtatás esetén történő módosítása Biocid termékcsalád esetén | 200 000 Ft 400 000 Ft |
 
-| VI.16. | Biocid termék más tagállamban kiadott engedélyének elismerési eljárása | 500 000 Ft |
+| VI.19. | Biocid termék forgalomba hozatalának engedélyezése, ha a termék egy hatóanyagnál többet tartalmaz | Alapdíj + 200 000 Ft minden további hatóanyagra |
 
-| VI.17. | Biocid termék más tagállamban kiadott regisztrációjának elismerési eljárása | 250 000 Ft |
+| VI.20. | Biocid termék forgalomba hozatalának engedélyezése további terméktípusokra | Alapdíj + 200 000 Ft minden további terméktípusra |
 
-| VI.18. | Engedélyezett biocid termék forgalmazási, felhasználási feltételeinek módosítása | 1 250 000 Ft |
+| VI.21. | Biocid termékek összehasonlító értékelése | 1 250 000 Ft hatóanyagonként |
 
-| VI.19. | Mikrobiológiai hatóanyagot tartalmazó engedélyezett biocid termék forgalmazási, felhasználási feltételeinek módosítása | 625 000 Ft |
+| VI.22. | Párhuzamos kereskedelemi engedély | 100 000 Ft |
 
-| VI.20. | Regisztrált biocid termék forgalmazási, felhasználási feltételeinek módosítása | 625 000 Ft |
+| VI.23. | Biocid hatóanyag jóváhagyására irányuló eljárásban a dokumentáció értékelése | 45 000 000 Ft |
 
-| VI.21. | A mikrobiológiai hatóanyagot tartalmazó regisztrált biocid termék forgalmazási, felhasználási feltételeinek módosítása | 312 500 Ft |
+| VI.24. | A hatóság által korábban értékelt azonos kérelmezőtől származó, vagy egyidejűleg benyújtott biocid hatóanyagnak a korábbitól eltérő további terméktípus jóváhagyására irányuló eljárásban a dokumentáció értékelése | 22 500 000 Ft |
 
-| VI.22. | Követelményektől eltérő biocid termék ideiglenes forgalomba hozatalának engedélyezése | 1 250 000 Ft |
+| VI.25. | Biocid hatóanyag jóváhagyásának megújítására irányuló eljárásban a dokumentáció teljes újraértékelése | 45 000 000 Ft |
 
-| VI.23. | Követelményektől eltérő mikrobiológiai hatóanyagot tartalmazó biocid termék ideiglenes forgalomba hozatalának engedélyezése | 625 000 Ft |
+| VI.26. | Biocid hatóanyag jóváhagyásának megújítására irányuló eljárásban a dokumentáció részleges újraértékelése | 22 500 000 Ft |
 
-| VI.24. | Engedéllyel, regisztrációval nem rendelkező biocid termék vagy hatóanyag kísérleti, vizsgálati célú forgalomba hozatalának, illetve felhasználásának engedélyezése | 1 250 000 Ft |
+| VI.27. | A hatóság által korábban értékelt azonos kérelmezőtől származó, vagy egyidejűleg benyújtott biocid hatóanyag a korábbitól eltérő további terméktípusban történő jóváhagyásának megújítására irányuló eljárásban a dokumentáció teljes újraértékelése | 22 500 000 Ft |
 
-| VI.25. | Engedéllyel, regisztrációval nem rendelkező mikrobiológiai hatóanyagot tartalmazó biocid termék vagy hatóanyag kísérleti, vizsgálati célú forgalomba hozatalának, illetve felhasználásának engedélyezése | 625 000 Ft |
+| VI.28. | A hatóság által korábban értékelt azonos kérelmezőtől származó, vagy egyidejűleg benyújtott biocid hatóanyag a korábbitól eltérő további terméktípusban történő jóváhagyásának megújítására irányuló eljárásban a dokumentáció részleges újraértékelése | 11 250 000 Ft |
 
-| VI.26. | Közösségi jegyzék módosítása iránti kérelem elbírálása (biocid hatóanyaghoz kapcsolódóan) | 1 250 000 Ft |
+|  | A biocid termékek engedélyezésének és forgalomba hozatalának egyes szabályairól szóló 316/ 2013. (VIII. 28.) Korm. rendelet 24. §-a szerinti átmeneti rendszer díjtételei |  |
 
-| VI.27. | Közösségi Jegyzék módosítása iránti kérelem elbírálása (mikrobiológiai biocid hatóanyaghoz kapcsolódóan) | 625 000 Ft |
+| VI.29. | Rovar-, rágcsálóirtó szer és rovarriasztó szer forgalomba hozatalának engedélyezése | 96 000 Ft/termék |
 
-| VI.28. | Biocid hatóanyag közösségi jegyzékbe történő felvételének kezdeményezése esetén a dokumentáció teljességének elismerése | 13 500 000 Ft |
+| VI.30. | Rovar-, rágcsálóirtó szer, valamint rovarriasztó szer szakvéleményezése forgalomba hozatalhoz: |  |
 
-| VI.29. | Biocid hatóanyag közösségi jegyzékbe történő felvételének kezdeményezése esetén részletes értékelés | 31 500 000 Ft |
+| VI.30.1. | Rovarirtó szerek szakvéleményezése | 333 500 Ft |
 
-| VI.30. | Mikrobiológiai biocid hatóanyag közösségi jegyzékbe történő felvételének kezdeményezése esetén teljesség elismerése | 6 750 000 Ft |
+| VI.30.2. | Rovarriasztó szerek szakvéleményezése | 177 400 Ft |
 
-| VI.31. | Mikrobiológiai biocid hatóanyag közösségi jegyzékbe történő felvételének kezdeményezése esetén részletes értékelés | 15 750 000 Ft |
+| VI.30.3. | Rágcsálóirtó szer szakvéleményezése | 243 200 Ft |
 
-| VI.32. | A hatóság által korábban értékelt azonos kérelmezőtől származó biocid hatóanyagnak a korábbitól eltérő második terméktípusban történő felvételének kezdeményezése vagy egyidejűleg több terméktípusban történő felvételének kezdeményezése estén a második terméktípus dokumentációja teljességének elismerése | 8 100 000 Ft |
+| VI.31. | Irtószer felhasználás engedélyezése | 11 000 Ft |
 
-| VI.33. | A hatóság által korábban értékelt azonos kérelmezőtől származó hatóanyagnak harmadik vagy további terméktípusokban történő felvételének kezdeményezése, illetve egyidejűleg három vagy ennél több terméktípusban történő felvételének kezdeményezése esetén a harmadik terméktípustól a dokumentáció teljességének elismerése | 5 400 000 Ft |
+| VI.32. | Fertőtlenítőszer forgalomba hozatalának és fertőtlenítési technológia engedélyezése | 96 000 Ft/termék |
 
-| VI.34. | A hatóság által korábban értékelt azonos kérelmezőtől származó biocid hatóanyagnak a korábbitól eltérő második terméktípusban történő felvételének kezdeményezése vagy egyidejűleg több terméktípusban történő felvételének kezdeményezése estén a második terméktípus dokumentációjának részletes értékelése | 18 900 000 Ft |
+| VI.33. | Ivóvízellátásban, uszoda- és fürdővízben felhasználható biocid anyag engedélyezése | 96 000 Ft/termék |
 
-| VI.35. | A hatóság által korábban értékelt azonos kérelmezőtől származó hatóanyagnak harmadik vagy további terméktípusokban történő felvételének kezdeményezése, illetve egyidejűleg három vagy ennél több terméktípusban történő felvételének kezdeményezése esetén a harmadik terméktípustól a részletes értékelés | 12 600 000 Ft |
+| VI.34. | A biocid termék forgalomba hozatali engedélyének módosítása értékelést nem igénylő változtatás esetén | 25 000 Ft |
 
-| VI.36. | A hatóság által korábban értékelt azonos kérelmezőtől származó mikrobiológiai biocid hatóanyagnak a korábbitól eltérő második terméktípusban történő felvételének kezdeményezése vagy egyidejűleg több terméktípusban történő felvételének kezdeményezése esetén a második terméktípus dokumentációja teljességének elismerése | 4 050 000 Ft |
+| VI.35. | A biocid termék forgalomba hozatali engedélyének módosítása értékelést igénylő változtatás esetén | 48 000 Ft |
 
-| VI.37. | A hatóság által korábban értékelt azonos kérelmezőtől származó mikrobiológiai hatóanyagnak harmadik vagy további terméktípusokban történő felvételének kezdeményezése, illetve egyidejűleg három vagy ennél több terméktípusban történő felvételének kezdeményezése esetén a harmadik terméktípustól a dokumentáció teljességének elismerése | 2 700 000 Ft |
+| VI.36. |  |  |
 
-| VI.38. | A hatóság által korábban értékelt azonos kérelmezőtől származó mikrobiológiai biocid hatóanyagnak a korábbitól eltérő második terméktípusban történő felvételének kezdeményezése vagy egyidejűleg több terméktípusban történő felvételének kezdeményezése esetén a második terméktípus dokumentációjának részletes értékelése | 9 450 000 Ft |
+| VI.37. |  |  |
 
-| VI.39. | A hatóság által korábban értékelt azonos kérelmezőtől származó mikrobiológiai hatóanyagnak harmadik vagy további terméktípusokban történő felvételének kezdeményezése, illetve egyidejűleg három vagy ennél több terméktípusban történő felvételének kezdeményezése esetén a harmadik terméktípustól a részletes értékelés | 6 300 000 Ft |
+| VI.38. |  |  |
+
+| VI.39. |  |  |
 
 | VII. | Immunológiai készítményekkel kapcsolatos igazgatási szolgáltatások |  |
 
@@ -244,13 +250,13 @@
 
 | VIII. | Atomenergia alkalmazásával kapcsolatos igazgatási szolgáltatások |  |
 
-| VIII.1. | A 14/1997. (IX. 3.) KHVM r. 3. §-a szerint radioaktív anyagok közúti szállításának engedélyezése: |  |
+| VIII.1. | A radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendelet 3. §-a szerint radioaktív anyagok közúti szállításának engedélyezése: |  |
 
-| VIII.1.1. | megye területén belül | 18 000 Ft |
+| VIII.1.1. | megye területén belül | 22 200 Ft |
 
-| VIII.1.2. | megyék közötti viszonylatban | 18 000 Ft |
+| VIII.1.2. | megyék közötti viszonylatban | 22 200 Ft |
 
-| VIII.1.3. | nemzetközi viszonylatban | 18 600 Ft |
+| VIII.1.3. | nemzetközi viszonylatban | 22 200 Ft |
 
 | VIII.2. | Gépjármű használatának engedélyezése az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 16/2000. (VI. 8.) EüM r. 12. § (2) bekezdése alapján | 34 200 Ft |
 
