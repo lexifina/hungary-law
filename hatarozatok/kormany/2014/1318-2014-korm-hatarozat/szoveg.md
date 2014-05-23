@@ -6,8 +6,10 @@ nemzetgazdasági miniszter
 
 Határidő: folyamatos
 
-2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1622/2012. (XII. 18.) Korm. határozatban a „2013. december 20.” szövegrész helyébe a „2014. december 31.” szöveg lép.
+2.[^1]
 
 3. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1025/2014. (I. 30.) Korm. határozat (a továbbiakban: H1.) végrehajtása során a H1. 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 2. Célelőirányzatok alcím, 1. KIM felügyelete alá tartozó szervezetek és szakmai programok támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 69,0 millió forint a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 1. Közigazgatási és Igazságügyi Minisztérium igazgatása cím, K6. Beruházások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
 4. A Kormány egyetért azzal, hogy az A38 hajó felújítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1224/2014. (IV. 8.) Korm. határozat (a továbbiakban: H2.) végrehajtása során a H2. 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 13. Művészeti tevékenységek alcím, 4. Művészeti tevékenységek és egyéb fejezeti feladatok támogatása jogcímcsoport, K7. Felújítás kiemelt előirányzat javára átcsoportosított 90,0 millió forint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 13. Művészeti tevékenységek alcím, 4. Művészeti tevékenységek és egyéb fejezeti feladatok támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
