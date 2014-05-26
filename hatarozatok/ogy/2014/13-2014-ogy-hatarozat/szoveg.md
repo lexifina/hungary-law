@@ -106,6 +106,8 @@ dr. Vas Imre (Fidesz)
 
 Mirkóczki Ádám (Jobbik)
 
+dr. Vadai Ágnes (független)[^2]
+
 e) Igazságügyi bizottság (13 fő)
 
 Elnök: dr. Rubovszky György (KDNP)
@@ -472,10 +474,23 @@ Szilágyi György (Jobbik)
 
 dr. Schiffer András (LMP)
 
+Fodor Gábor (független)[^3]
+
+2a.[^4] Az Országgyűlés az Ogytv. 14. § (1) bekezdés a) pontja alapján nemzetiségeket képviselő bizottságot alakít, annak elnevezését az alábbiak szerint határozza meg, valamint tisztségviselőivé a következő képviselőket választja:
+
+Magyarországi nemzetiségek bizottsága (13 fő)
+
+Elnök: Fuzik János (nemzetiségi szószóló)
+
+Alelnök: Farkas Félix (nemzetiségi szószóló)
+
 3. A bizottságok megbízatása e határozat hatálybalépésekor kezdődik.
 
 4. Ez a határozat az elfogadásakor lép hatályba.
 
-5.[^2]
+5.[^5]
 
-[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 15/2014. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 15/2014. (V. 27.) OGY határozat 2. pontjával megállapított szöveg.
+[^4]: A 2a. pontot a 15/2014. (V. 27.) OGY határozat 3. pontja iktatta be. E módosító határozat 4. pontja alapján a Magyarországi nemzetiségek bizottságának megbízatása 2014. május 26. napjával kezdődik.
+[^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
