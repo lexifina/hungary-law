@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-101-20-
 | 2012-01-01 | 2007-101-20-0N.6 | 147/2011. (XII. 23.) VM rendelet |
 | 2013-04-10 | 2007-101-20-0N.7 | 21/2013. (III. 26.) VM rendelet |
 | 2014-01-01 | 2007-101-20-0N.8 | 132/2013. (XII. 23.) VM rendelet |
+| 2014-05-29 | 2007-101-20-0N.9 | 36/2014. (IV. 29.) BM rendelet |

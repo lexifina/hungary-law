@@ -294,7 +294,7 @@
 
 ## A magmintavételt és a mintával elvégzett vizsgálatokat a vízföldtani napló tartalomjegyzékében kell megadni az „egyéb mérési adatok” pont alatt van lehetőség a részletezésre (M1.6.).
 
-3. melléklet a 101/2007. (XII. 23.) KvVM rendelethez[^15]
+3. melléklet a 101/2007. (XII. 23.) KvVM rendelethez[^17]
 
 ## Adatlap
 
@@ -368,4 +368,4 @@ Kelt:
 
 kivitelező tulajdonos
 
-[^15]: A 3. melléklet címe a 132/2013. (XII. 23.) VM rendelet 26. § b) pontja szerint módosított szöveg.
+[^17]: A 3. melléklet címe a 132/2013. (XII. 23.) VM rendelet 26. § b) pontja szerint módosított szöveg.
