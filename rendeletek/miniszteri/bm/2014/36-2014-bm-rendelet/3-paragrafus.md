@@ -1,0 +1,1 @@
+## „(1a) A mérőeszközök meghibásodását vagy cseréjét a vízhasználó a területileg illetékes vízügyi hatóságnak nyolc napon belül köteles bejelenteni. A bejelentésben hitelt érdemlő módon igazolni kell, hogy a beépített mérőeszköz az (1) bekezdés a) pontjában foglaltaknak eleget tesz. Ha az engedélyes ezt elmulasztja, az a vízjogi engedélytől eltérő üzemeltetésnek minősül.”
