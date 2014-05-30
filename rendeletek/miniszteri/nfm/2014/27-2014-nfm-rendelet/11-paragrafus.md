@@ -1,0 +1,1 @@
+## 10. § Az AME-t kérelemre a légiközlekedési hatóság jelöli ki. A kérelmezőnek igazolnia kell, hogy megfelel a MED rész D. alrészében, az ARA rész MED alfejezet II. szakaszában és a hozzájuk tartozó AMC-ben foglalt követelményeknek.
