@@ -1,1 +1,0 @@
-## 1. § Ez a rendelet szabályozza a borkészítésre alkalmas szőlő, amely a Vitis vinifera fajhoz tartozik, vagy a Vitis vinifera faj és a Vitis nemzetséghez tartozó egyéb fajok keresztezéséből jött létre, osztályba sorolását és az osztályba sorolás érdekében végzett vizsgálatokat.
