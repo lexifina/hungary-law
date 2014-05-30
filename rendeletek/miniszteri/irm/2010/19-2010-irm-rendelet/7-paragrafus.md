@@ -1,4 +1,4 @@
-## 6. §[^1] Az eseti DNS-profil meghatározását végző Intézet évente dokumentáltan és sikeresen részt vesz eseti és személyi DNS-profilok meghatározására vonatkozó, szaktudást és felkészültséget bizonyító, a Forenzikus Tudományos Intézetek Európai Hálózata (ENFSI) által meghatározott nemzetközi szervezet által szervezett külső jártassági kontrollteszten.
+## 6. §[^2] Az eseti DNS-profil meghatározását végző Intézet évente dokumentáltan és sikeresen részt vesz eseti és személyi DNS-profilok meghatározására vonatkozó, szaktudást és felkészültséget bizonyító, a Forenzikus Tudományos Intézetek Európai Hálózata (ENFSI) által meghatározott nemzetközi szervezet által szervezett külső jártassági kontrollteszten.
 
 ## 3. Módszertani feltételek
 
@@ -26,4 +26,4 @@ g) a bűnjelekből DNS-elemzésre biztosított minták jelölését, leírását
 
 h) a bűnjelen vagy a bűnjelmintán elvégzendő laboratóriumi tevékenységek rövid jelölését.
 
-[^1]: A 6. § a 15. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.
+[^2]: A 6. § a 15. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.

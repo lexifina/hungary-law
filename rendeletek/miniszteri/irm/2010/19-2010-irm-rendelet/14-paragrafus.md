@@ -1,4 +1,4 @@
-## 13. §[^2]
+## 13. § Az Intézet laboratóriumi tevékenységet akkor végezhet, ha e tevékenységét nemzeti akkreditáló testület az MSZ ISO/IEC 17025:2005 szabványnak megfelelően akkreditálta.
 
 ## 4. Együttműködés
 
@@ -11,5 +11,3 @@ b) a kapcsolattartás, kommunikáció, és
 c) a vitatott kérdések – ide nem értve az igazságügyi szakértői véleményt – rendezésének módja
 
 vonatkozásában, e rendeletben nem szabályozott kérdéskörökben együttműködési megállapodást köt.
-
-[^2]: A 13. § a 15. § (3) bekezdése alapján 2014. május 30-án lép hatályba.
