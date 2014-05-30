@@ -38,9 +38,9 @@ c) fajtaváltás műveletnél, gyökérnemes (saját gyökerű) szaporítóanyag
 
 d) törzsültetvény telepítés, illetve fajtaváltás esetén a NÉBIH által kiadott előzetes engedély másolatát;
 
-e) kísérleti ültetvény telepítés, illetve fajtaváltás esetén a telepítésre, illetve a fajtaváltásra irányuló szándék elfogadásáról a NÉBIH által kiállított hatósági bizonyítványt;
+e)[^1] kísérleti ültetvény telepítés, illetve fajtaváltás esetén a telepítésre, illetve a fajtaváltásra irányuló szándék elfogadásáról a NÉBIH által kiadott engedélyt;
 
-f)[^1] telepítés esetén az illetékes fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatóságának a talajvédelmi terv jóváhagyásáról szóló jogerős határozat másolatát, amely – saját gyökerű szaporítóanyag felhasználása esetén – tartalmazza az érintett terület talaj immunitására vonatkozó rendelkezést.
+f)[^2] telepítés esetén az illetékes fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatóságának a talajvédelmi terv jóváhagyásáról szóló jogerős határozat másolatát, amely – saját gyökerű szaporítóanyag felhasználása esetén – tartalmazza az érintett terület talaj immunitására vonatkozó rendelkezést.
 
 (5) A (4) bekezdés a) pontja szerinti nyilatkozatnak tartalmaznia kell valamennyi tulajdonos, haszonélvező, illetve az özvegyi joggal rendelkező természetes személy születési nevét, születési helyét, születési idejét, anyja nevét, lakcímét, jogi személy vagy jogi személyiséggel nem rendelkező személy esetén nevét (cégnevét), székhelyét, adószámát, a kérelmező nevét, címét, az érintett földterület vonatkozásában a helység nevét, valamint a helyrajzi számát.
 
@@ -48,4 +48,5 @@ f)[^1] telepítés esetén az illetékes fővárosi és megyei kormányhivatal n
 
 (7) A művelet engedélyezése iránti kérelemre indult eljárás az ügyfél kérelmére nem függeszthető fel.
 
-[^1]: A 4. § (4) bekezdés f) pontja a 12/2014. (II. 21.) VM rendelet 8. §-ával megállapított szöveg.
+[^1]: A 4. § (4) bekezdés e) pontja az 56/2014. (IV. 30.) VM rendelet 11. §-ával megállapított szöveg.
+[^2]: A 4. § (4) bekezdés f) pontja a 12/2014. (II. 21.) VM rendelet 8. §-ával megállapított szöveg.

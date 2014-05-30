@@ -6,6 +6,6 @@
 
 (3) A 2004. május 1. és 2008. július 31. között engedéllyel végzett ültetvénykivágás alapján keletkezett jogot a kivágást követő nyolcadik borpiaci év végéig használhatja fel a jogosult. A fel nem használt újratelepítési jogok – időbeli hatályuk lejártával – határozathozatal nélkül, a HNT által vezetett telepítési jogtartalékba kerülnek.
 
-(4)[^3] 2008. augusztus 1. után engedéllyel végzett ültetvénykivágás alapján keletkezett jog 2018. december 31-ig használható fel.
+(4)[^4] 2008. augusztus 1. után engedéllyel végzett ültetvénykivágás alapján keletkezett jog 2018. december 31-ig használható fel.
 
-[^3]: A 9. § (4) bekezdése a 61/2013. (VII. 19.) VM rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 9. § (4) bekezdése a 61/2013. (VII. 19.) VM rendelet 14. § (2) bekezdése szerint módosított szöveg.
