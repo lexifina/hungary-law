@@ -4,16 +4,12 @@ A Kormány
 
 2. tudomásul veszi, hogy a nagyprojekt műszaki tartalma 1. pontban meghatározott bővítésének becsült költsége bruttó 889 000 000 Ft, és egyetért azzal, hogy a műszaki tartalom bővítésének forrása a nagyprojekt támogatásában keletkezett megtakarítás legyen,
 
-3. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon az Európai Bizottság nagyprojektet jóváhagyó határozatának módosítására irányuló kérelem összeállításáról a Nemzeti Infrastruktúra Fejlesztő Zártkörűen Működő Részvénytársaság útján,
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2013. augusztus 1.
-
-4. hozzájárul, hogy a Nemzeti Fejlesztési Ügynökség az Európai Bizottsággal a 3. pontban meghatározott határozat módosításról tárgyalásokat kezdeményezzen,
+3–4.[^2]
 
 5. hozzájárul, hogy a Nemzeti Fejlesztési Ügynökség Közlekedési Operatív Programok Irányító Hatósága a támogatási szerződés 1. pont szerinti módosításáról intézkedjen.
 
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
+
+[^2]: A 3–4. pontot az 1326/2014. (V. 30.) Korm. határozat 5. pontja visszavonta.
