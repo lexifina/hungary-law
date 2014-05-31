@@ -18,7 +18,7 @@
 
 ## Határidő: a 3. pontban előírtak teljesítését követően azonnal
 
-## 5. visszavonja az „M0 útgyűrű építése 0+000–29+500 km szelvények között” című nagyprojekt műszaki tartalom bővüléséről, és a nagyprojektet jóváhagyó határozat módosítására vonatkozó kérelem Európai Bizottsághoz történő benyújtásáról szóló 1403/2013. (VII. 2.) Korm. határozat 3. és 4. pontját.
+## 5.[^2]
 
 1. melléklet az 1326/2014. (V. 30.) Korm. határozathoz
 
@@ -27,3 +27,5 @@
 | 1. | Projekt azonosító száma | Projekt címe | Támogatást igénylő megnevezése | Az eredeti támogatási szerződés kelte | Támogatás jelenlegi összege (bruttó forint) | Költségnövekmény (bruttó forint) | Projekt megnövelt támogatási összege (bruttó forint) | Projekt rövid bemutatása |
 
 | 2. | KÖZOP-1.1.1-07- 2008-0002 | M0 útgyűrű építése 0+000–29+500 km szelvények között | Nemzeti Infrastruktúra Fejlesztő Zártkörűen Működő Részvénytársaság | 2009. | 97 524 271 702 | 8 074 103 813 | 105 598 375 515 | A projekt keretében az M0 útgyűrűnek az M1 és az M5 autópályákkal alkotott csomópontok közötti szakasza kétszer háromsávos és leállósávos autópályává bővül. A projekt tartalmazza továbbá a Növény utcai átkötés kialakítását, a Váza utcai csapadékvíz-átemelő bővítését és a XXIII. kerületi Gyáli patak mederrendezési munkáit. |
+
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
