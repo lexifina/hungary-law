@@ -16,4 +16,6 @@ Felelős: Miniszterelnökséget vezető államtitkár
 
 Határidő: folyamatos
 
-3. visszavonja az Észak-Magyarországi Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról szóló 1183/2014. (III. 27.) Korm. határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
