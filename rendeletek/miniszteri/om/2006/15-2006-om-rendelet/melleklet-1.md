@@ -1,1 +1,5 @@
+## 8. §[^16] E rendeletnek a 2. számú melléklet IX. fejezet 1. alcíme, valamint a 3. számú melléklet III. fejezet 13. alcíme, IV. fejezet 10. alcíme, VI. fejezet 4., 5., 6. alcíme és VIII. fejezet 25. alcíme a szakmai képesítések elismeréséről szóló, az Európai Parlament és a Tanács 2005/36/EK irányelv 24., 31., 34., 38., 40., 44. és 46. cikkének való megfelelést szolgálja.
+
 1. számú melléklet a 15/2006. (IV. 3.) OM rendelethez
+
+[^16]: A 8. §-t a 38/2014. (IV. 30.) EMMI rendelet 1. § (2) bekezdése iktatta be.
