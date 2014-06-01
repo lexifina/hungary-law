@@ -1,4 +1,4 @@
-## 17–18. §[^10]
+## 17–18. §[^9]
 
 ## 5. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 15. § (3) bekezdése 2015. március 31-én lép hatályba.
 
-[^10]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
