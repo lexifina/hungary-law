@@ -698,6 +698,8 @@ II. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 465211N | 0164912E |
 
+| Tököl TIZ 472257N 0185724E 472140N 0190505E 471556N 0185907E 472014N 0185339E 472257N 0185724E | 3500’ (1050 m) AMSL / GND | (ICAO „F”) Közzétett üzemidő szerint. |
+
 | Nyíregyháza TIZ | 4000’ (1200 m) AMSL / GND | (ICAO „F”) Közzétett üzemidő szerint. |
 
 | 10 km sugarú kör a 475856N 0214100E középpont körül |
@@ -950,8 +952,10 @@ II. NEM ELLENŐRZÖTT LÉGTEREK
 
 | Kiliti „Skydive Balaton” Drop Zone 11,11 km (6 NM) sugarú kör a 465119N 0180551E középpont körül | FL155 (4750 m STD) / GND | (ICAO „G”) Közzétett üzemidő szerint. |
 
+| Tököl Drop Zone 3,15 km (1,7 NM) sugarú kör a 472037N 0185909E középpont körül | FL145 (4450 m STD) / 3500’ | (ICAO „G”) Közzétett üzemidő szerint. |
+
 | További szabályok: 1. Koordinált légtér igénylésére az LHSG1, LHSG2/V, LHSG3 légterek esetében Budaörs repülőtér, Farkashegy repülőtér, Hármashatár-hegy repülőtér üzemben tartója, az LHSG10 légtér esetében az Esztergomi repülőtér üzemben tartója, az LHSG2/S légtér esetében a Szabad Repülők Szövetsége és az LHSG20, LHSG20/A, LHSG21, LHSG22, LHSG23, LHSG24, LHSG25 légterek esetében a Dunakeszi repülőtér üzemben tartója jogosult. 2. A koordinációs feladatok az LHSG1, LHSG2/V, LHSG3 légterek esetében Budaörs repülőtér, Farkashegy repülőtér, Hármashatár-hegy repülőterek üzembentartójának valamelyike, vagy a körzeti repüléstájékoztató szolgálatot ellátó szervezet – a három repülőtérrel kötött megállapodás alapján –, az LHSG10 légtér esetében az Esztergom repülőtér üzemben tartója, az LHSG2/S légtér esetében a Szabad Repülők Szövetsége és az LHSG20, LHSG20/A, LHSG21, LHSG22, LHSG23, LHSG24, LHSG25 légterek esetében a Dunakeszi repülőtér üzemben tartója jogosult ellátni. |
 
 III. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
-[^48]: A 2. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 10. § (1) bekezdés c)–e) pontja, a 15/2014. (IV. 3.) NFM rendelet 16. § (1)–(2) bekezdése szerint módosított szöveg.
+[^48]: A 2. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 10. § (1) bekezdés c)–e) pontja, a 15/2014. (IV. 3.) NFM rendelet 16. § (1)–(3) bekezdése szerint módosított szöveg.
