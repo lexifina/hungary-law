@@ -1,6 +1,6 @@
-1. számú melléklet a 10/2006. (IX. 25.) OKM rendelethez[^21]
+1. számú melléklet a 10/2006. (IX. 25.) OKM rendelethez[^22]
 
-2. számú melléklet a 10/2006. (IX. 25.) OKM rendelethez[^22]
+2. számú melléklet a 10/2006. (IX. 25.) OKM rendelethez[^23]
 
 A pedagógus-szakvizsgára felkészítő szakirányú továbbképzésekkel kapcsolatos vélemény kialakításának szempontrendszere
 
@@ -38,11 +38,11 @@ c) pedagógiai és pszichológiai általános és elméleti ismeretek, képessé
 
 d) az iskolai oktatás 5–6. évfolyamán a nem szakrendszerű oktatás feladatainak ellátására felkészítő ismeretek;
 
-e)[^23] nevelési-oktatási intézményvezetői ismeretek;
+e)[^24] nevelési-oktatási intézményvezetői ismeretek;
 
-f)[^24] a tanári mesterszak szakmai gyakorlatának vezetéséhez szükséges gyakorlatvezető mentori ismeretek.
+f)[^25] a tanári mesterszak szakmai gyakorlatának vezetéséhez szükséges gyakorlatvezető mentori ismeretek.
 
-[^21]: Az eredeti melléklet számozását 1. számú mellékletre változtatta az 1/2008. (I. 31.) OKM rendelet 6. §-a. Az 1. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 40. §-ának 23. pontja hatályon kívül helyezte.
-[^22]: A 2. számú mellékletet az 1/2008. (I. 31.) OKM rendelet 6. §-a iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatta. E módosító rendelet 7. § (1) bekezdése alapján rendelkezéseit a 2008. február 8. napját követően indult eljárásokban kell alkalmazni.
-[^23]: A 2. számú melléklet 2. pont e) alpontját a 26/2008. (VIII. 15.) OKM rendelet 28. § (2) bekezdése iktatta be.
-[^24]: A 2. számú melléklet 2. pontjának f) alpontját a 32/2009. (X. 2.) OKM rendelet 32. §-a iktatta be.
+[^22]: Az eredeti melléklet számozását 1. számú mellékletre változtatta az 1/2008. (I. 31.) OKM rendelet 6. §-a. Az 1. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 40. §-ának 23. pontja hatályon kívül helyezte.
+[^23]: A 2. számú mellékletet az 1/2008. (I. 31.) OKM rendelet 6. §-a iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatta. E módosító rendelet 7. § (1) bekezdése alapján rendelkezéseit a 2008. február 8. napját követően indult eljárásokban kell alkalmazni.
+[^24]: A 2. számú melléklet 2. pont e) alpontját a 26/2008. (VIII. 15.) OKM rendelet 28. § (2) bekezdése iktatta be.
+[^25]: A 2. számú melléklet 2. pontjának f) alpontját a 32/2009. (X. 2.) OKM rendelet 32. §-a iktatta be.
