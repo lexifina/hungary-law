@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-7-00-00
 | --- | --- | --- |
 | 2011-03-03 | 2011. évi VII. törvény | 2011-7-00-00.0 (közlönyállapot) |
 | 2011-03-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-7-00-00.1 |
+| 2014-06-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-7-00-00.2 |
