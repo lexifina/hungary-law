@@ -20,7 +20,7 @@ dr. Gulyás Gergely (Fidesz)
 
 Jegyző:
 
-Pócs János (Fidesz)
+dr. Tiba István (Fidesz)[^2]
 
 Pogácsás Tibor (Fidesz)
 
@@ -42,6 +42,7 @@ Schmuck Erzsébet (LMP)
 
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3.[^2]
+3.[^3]
 
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 22/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
