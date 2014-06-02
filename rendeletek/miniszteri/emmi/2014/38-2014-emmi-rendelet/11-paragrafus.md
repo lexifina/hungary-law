@@ -1,1 +1,0 @@
-## 10. § A Rendelet 2. számú melléklete a 4. melléklet szerint módosul.
