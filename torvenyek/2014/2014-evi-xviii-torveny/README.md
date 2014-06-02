@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-18-00-00
 | 2014-05-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-18-00-00.1 |
 | 2014-05-17 | 2010. évi CXXX. törvény | 2014-18-00-00.2 |
 | 2014-06-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-18-00-00.3 |
+| 2014-06-02 | 2010. évi CXXX. törvény | 2014-18-00-00.4 |
