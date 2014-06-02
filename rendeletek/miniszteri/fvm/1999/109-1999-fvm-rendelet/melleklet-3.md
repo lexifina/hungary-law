@@ -1,4 +1,4 @@
-3. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^302]
+3. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^303]
 
 A tulajdonilap-másolat szolgáltatása iránti kérelem az alábbi adatokat tartalmazza:
 
@@ -20,4 +20,4 @@ A tulajdonilap-másolat szolgáltatása iránti kérelem az alábbi adatokat tar
 
 9. a kérelmező tulajdonilap-másolat átvételét igazoló aláírása.
 
-[^302]: A 3. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 3. számú melléklete iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 91. §-ával megállapított szöveg.
+[^303]: A 3. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 3. számú melléklete iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 91. §-ával megállapított szöveg.

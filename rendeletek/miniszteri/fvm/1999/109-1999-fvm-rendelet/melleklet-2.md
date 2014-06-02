@@ -1,4 +1,4 @@
-## 1.[^300] Az ingatlan-nyilvántartási kérelem első része az alábbi adatokat tartalmazza:
+## 1.[^301] Az ingatlan-nyilvántartási kérelem első része az alábbi adatokat tartalmazza:
 
 ## 1.1. a kérelmező értesítési címe, ügyintézőjének neve;
 
@@ -50,7 +50,7 @@
 
 ## 2.7. a kérelmező, vagy képviselő aláírása.
 
-2. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^301]
+2. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^302]
 
-[^300]: Az 1. számú melléklet 1. pontja a 21/2014. (III. 14.) VM rendelet 27. §-ával megállapított szöveg.
-[^301]: A 2. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 2. számú melléklete iktatta be, a 48/2010. (IV. 27.) FVM rendelet 98. §-a hatályon kívül helyezte.
+[^301]: Az 1. számú melléklet 1. pontja a 21/2014. (III. 14.) VM rendelet 27. §-ával megállapított szöveg.
+[^302]: A 2. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 2. számú melléklete iktatta be, a 48/2010. (IV. 27.) FVM rendelet 98. §-a hatályon kívül helyezte.

@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-109-20-
 | 2013-07-01 | 1999-109-20-82.17 | 57/2013. (VI. 29.) VM rendelet |
 | 2014-02-26 | 1999-109-20-82.18 | 15/2014. (II. 25.) VM rendelet |
 | 2014-03-15 | 1999-109-20-82.19 | 21/2014. (III. 14.) VM rendelet |
+| 2014-06-02 | 1999-109-20-82.20 | 21/2014. (III. 14.) VM rendelet |

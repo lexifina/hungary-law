@@ -1,6 +1,6 @@
-## 126/C. §[^293] A 4/A. § (6) bekezdése szerinti rövidített megnevezést kell használni a tv. 49. § (3) bekezdésében meghatározott egyszerűsített határozatra is.
+## 126/C. §[^294] A 4/A. § (6) bekezdése szerinti rövidített megnevezést kell használni a tv. 49. § (3) bekezdésében meghatározott egyszerűsített határozatra is.
 
-## 127. §[^294] E rendeletnek az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet módosításáról szóló 48/2010. (IV. 27.) FVM rendelet (a továbbiakban: Mr.)
+## 127. §[^295] E rendeletnek az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet módosításáról szóló 48/2010. (IV. 27.) FVM rendelet (a továbbiakban: Mr.)
 
 1. 3. §-ával módosított 2. §-t,
 
@@ -136,8 +136,8 @@
 
 44. w) 120. § (1) bekezdését,
 
-44. x) 121. §-át az Mr. hatálybalépését[^295] követően indult ügyekben kell alkalmazni.
+44. x) 121. §-át az Mr. hatálybalépését[^296] követően indult ügyekben kell alkalmazni.
 
-[^293]: A 126/C. §-t a 148/2012. (XII. 28.) VM rendelet 18. §-a iktatta be.
-[^294]: A 127. §-t a 48/2010. (IV. 27.) FVM rendelet 93. §-a iktatta be.
-[^295]: A hatálybalépés időpontja: 2010. május 12.
+[^294]: A 126/C. §-t a 148/2012. (XII. 28.) VM rendelet 18. §-a iktatta be.
+[^295]: A 127. §-t a 48/2010. (IV. 27.) FVM rendelet 93. §-a iktatta be.
+[^296]: A hatálybalépés időpontja: 2010. május 12.

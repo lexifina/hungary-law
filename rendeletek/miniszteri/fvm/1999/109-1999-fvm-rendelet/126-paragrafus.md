@@ -1,3 +1,3 @@
-## 125. §[^289] Ahol e rendelet csak bejegyzést említ, azalatt a tények feljegyzését is érteni kell.
+## 125. §[^290] Ahol e rendelet csak bejegyzést említ, azalatt a tények feljegyzését is érteni kell.
 
-[^289]: A 125. §-t a 117/2005. (XII. 19.) FVM rendelet 48. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^290]: A 125. §-t a 117/2005. (XII. 19.) FVM rendelet 48. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
