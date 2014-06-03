@@ -1,3 +1,0 @@
-## 25. § Az Inyvhr. 64. alcíme a következő 118/A. §-sal egészül ki:
-
-## „118/A. § Az ingatlan-nyilvántartási célú földmérési munkákhoz a tulajdonosi adatokkal kiegészített földkönyv szerinti személyes adatok kezelésére törvényi felhatalmazással rendelkező földmérő vagy földmérési vállalkozás, kisajátítás esetén a kisajátítást kérő vagy a megbízásából eljáró személy részére a földhivatal földmérési földkönyvet szolgáltat. A földmérési földkönyv az ingatlan adatain felül tartalmazza az ingatlan tulajdonosának nevét, lakcímét (székhelyét), tulajdoni hányadát, a tulajdonszerzés jogcímét, a tulajdoni lapon széljegyzett jogosultak adatait, az ingatlanon fennálló egyéb jog jogosultjának nevét, lakcímét (székhelyét), valamint a jog megszerzésének jogcímét.”
