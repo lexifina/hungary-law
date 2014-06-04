@@ -1,6 +1,6 @@
 84. § (1) Az Országgyűlés
 
-a) az alapvető jogok biztosa, a legfőbb ügyész, az Állami Számvevőszék elnöke, a Magyar Nemzeti Bank elnöke, országgyűlési bizottság, a nemzetiségek helyzetéről a Kormány, továbbá
+a)[^17] az alapvető jogok biztosa, a legfőbb ügyész, az Állami Számvevőszék elnöke, a Magyar Nemzeti Bank elnöke, országgyűlési bizottság, a nemzetiségek helyzetéről és az Alaptörvény 47. cikk (4) bekezdése szerinti esetben a Kormány, továbbá
 
 b) – a 85. §-ban meghatározottakra is figyelemmel – az egyéb beszámolásra kötelezett
 
@@ -19,3 +19,5 @@ b) – a 85. §-ban meghatározottakra is figyelemmel – az egyéb beszámolás
 (7) Ha a (2) bekezdésben meghatározott határozati javaslatot érintően nincs vitához kapcsolódó bizottság és nem került sor módosító javaslat benyújtásra sem, az Országgyűlés az együttes általános vita lezárását követően a határozati javaslat elfogadásáról határoz, kivéve, ha a beszámolót tárgyaló bizottság – legkésőbb azon ülésnap megnyitása előtt egy órával, amely ülésnap napirendjén vagy tervezett napirendjén a határozati javaslat zárószavazása szerepel – úgy nyilatkozik, hogy kijelölt bizottságként részletes vitát kíván lefolytatni.
 
 (8) Az Országgyűlés a beszámolóról a beszámolót tárgyaló bizottság által előterjesztett határozati javaslat elfogadásával dönt.
+
+[^17]: A 84. § (1) bekezdés a) pontja a 21/2014. (VI. 3.) OGY határozat 11. §-ával megállapított szöveg.
