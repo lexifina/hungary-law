@@ -1,5 +1,0 @@
-3. § (1) Azon közigazgatási ügyekben, ahol a törvény az MNB és az ügyfél között kizárólagos elektronikus kapcsolattartást ír elő, a kapcsolattartás az MNB és az ügyfél között az ERA rendszeren keresztül történik.
-
-(2) Amennyiben az ERA rendszer üzemzavara miatt az ügyfélnek nincs lehetősége a kérelmét, egyéb beadványát, bejelentését elektronikus úton benyújtani az MNB-hez, az üzemzavar elhárításáig a kérelmet, az egyéb beadványt, a bejelentést és azok mellékleteit elektronikus adathordozón, az 5. § (4) bekezdésében meghatározott dokumentum formátumban, az MNB 1013 Budapest, Krisztina krt. 39. szám alatt működő ügyfélszolgálatán (Telefonszám: 06-40-203-776) vagy postai úton, az MNB 1534 Budapest BKKP Pf. 777 levelezési címére nyújthatja be, illetve teljesítheti.
-
-(3) Az üzemzavar ideje alatt a bejelentés papír alapon, az MNB 1013 Budapest, Krisztina krt. 39. szám alatt működő ügyfélszolgálatán (Telefonszám: 06-40-203-776) vagy postai úton, az MNB 1534 Budapest BKKP Pf. 777 levelezési címére is benyújtható, illetve teljesíthető.
