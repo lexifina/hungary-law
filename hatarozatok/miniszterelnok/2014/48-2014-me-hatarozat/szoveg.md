@@ -4,4 +4,6 @@ Huba Bence Pétert a Végrehajtás Operatív Program Monitoring Bizottsága eln�
 
 Héber Verát, a Végrehajtás Operatív Program Irányító Hatóságának vezetőjét a Végrehajtás Operatív Program Monitoring Bizottsága elnökévé – 2014. január 1-jei hatállyal – kinevezem.
 
-2. Hatályát veszti a Végrehajtás Operatív Program Monitoring Bizottsága elnökének felmentéséről és új elnök kinevezéséről szóló 82/2012. (VII. 10.) ME határozat.
+2.[^2]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
