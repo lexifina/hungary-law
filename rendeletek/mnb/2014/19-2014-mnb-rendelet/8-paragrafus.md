@@ -1,0 +1,3 @@
+8. § (1) Az 1. § (1) bekezdés a) pontjában meghatározott esetekben az MNB hatósági döntéseit és egyéb írásbeli közléseit az ügyféllel az elektronikus aláírás-politikának megfelelő elektronikus aláírással ellátott hiteles elektronikus irat formájában közli.
+
+(2) Az MNB az ügyfél részére küldendő dokumentumokat az ERA postaládában helyezi el, amelyet sikeres regisztráció esetén az ERA rendszer az ügyfél részére automatikusan biztosít. Az ERA postaládához az ERA rendszerben regisztrált valamennyi felhasználó hozzáférhet. A dokumentum megtekintéséhez a felhasználónak be kell lépnie az ERA rendszerbe és onnan le kell töltenie a dokumentumot.
