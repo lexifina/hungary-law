@@ -218,7 +218,7 @@
 
 | 107 | 55 | 723 | 05 | Felnőtt intenzív szakápoló | 1 | I | - | 1100-1440 óra | TK | egészségügyért felelős miniszter |
 
-| 108 | 62 | 521 | 01 | Felvonóellenőr | 5 | IX | - | 250-350 óra | TK | építésügyért felelős miniszter |
+| 108 | 62 | 521 | 01 | Felvonóellenőr | 5 | IX | - | 250-350 óra | TK | iparügyekért felelős miniszter |
 
 | 109 | 32 | 521 | 01 | Felvonószerelő | 5 | IX | - | 400-600 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -626,7 +626,7 @@
 
 | 311 | 52 | 341 | 04 | Mozgóképterjesztő és -üzemeltető | 4 | VI | - | 640-960 óra | TK | kultúráért felelős miniszter |
 
-| 312 | 62 | 521 | 02 | Mozgólépcső ellenőr | 5 | IX | - | 250-350 óra | TK | építésügyért felelős miniszter |
+| 312 | 62 | 521 | 02 | Mozgólépcső ellenőr | 5 | IX | - | 250-350 óra | TK | iparügyekért felelős miniszter |
 
 | 313 | 33 | 521 | 01 | Mozgólépcső karbantartó-szerelő | 5 | IX | - | 120-180 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
