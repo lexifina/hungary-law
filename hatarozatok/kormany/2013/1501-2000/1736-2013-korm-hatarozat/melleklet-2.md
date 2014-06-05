@@ -70,8 +70,8 @@ A Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akc
 
 | TIOP 3 | ÁFA kompenzáció |  |  | 0,50 |  |  |  |
 
-| TIOP-3.2.3A | Lakhatási beruházások támogatása |  | 1,50 | 1,08 | A szegregátumokban és a hátrányos helyzetű kistérségekben élők lakhatási körülményeinek javítása – új szociális bérlakások építésével, illetve a nem szegregált lakókörnyezetben lévő lakások felújításával. | emberi erőforrások minisztere |  |
+| TIOP-3.2.3A |  |  |  |  |  |  |  |
 
 | TIOP-3.4.2 |  |  |  |  |  |  |  |
 
-[^3]: A 2. melléklet az 1060/2014. (II. 11.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^3]: A 2. melléklet az 1060/2014. (II. 11.) Korm. határozat 2. pont b) alpontja, az 1333/2014. (VI. 5.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
