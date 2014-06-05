@@ -32,5 +32,8 @@ i) a kötelező hitelesítés körébe tartozó egyes mérőeszközök méréste
 
 (4) A piacfelügyeleti eljárás a kötelező hitelesítés körébe tartozó egyes mérőeszközök forgalmazási követelményeknek való megfelelősége ellenőrzésére terjed ki.
 
+(5)[^16] A piacfelügyeleti eljárás a felvonók, mozgólépcsők és mozgójárdák biztonsági követelményeinek és megfelelőség tanúsításának ellenőrzésére terjed ki.
+
 [^14]: A 8. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (13) bekezdése szerint módosított szöveg.
 [^15]: A 8. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^16]: A 8. § (5) bekezdését a 146/2014. (V. 5.) Korm. rendelet 32. § (1) bekezdése iktatta be.
