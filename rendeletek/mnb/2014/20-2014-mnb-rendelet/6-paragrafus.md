@@ -1,3 +1,5 @@
 6. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) Hatályát veszti az ISIN azonosítóról szóló 35/2013. (XII. 16.) MNB rendelet.
+(2)[^1]
+
+[^1]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
