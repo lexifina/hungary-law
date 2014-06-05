@@ -1,3 +1,0 @@
-## 1. § Az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat (a továbbiakban: HHSZ) 25. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-## „(6) Amennyiben a szavazatszámláló gép alkalmazásával történő nyílt szavazást követően, a szavazási eredmény kihirdetése előtt a képviselő arról tájékoztatja az ülést vezető elnököt, hogy szavazatát a szavazatszámláló gép nem rögzítette, az ülést vezető elnök ezt a körülményt a szavazás eredményének kihirdetése során figyelembe veszi. Amennyiben az ülést vezető elnök észleli, hogy szavazatát a szavazatszámláló gép nem rögzítette, erről a tényről a szavazási eredmény kihirdetése előtt tájékoztatja az ülés résztvevőit és ezt a körülményt a szavazás eredményének kihirdetése során figyelembe veszi.”
