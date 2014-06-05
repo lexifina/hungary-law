@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-19-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-06-04 | 2014-19-20-2C.1 | 19/2014. (VI. 3.) MNB rendelet |
+| 2014-06-05 | 2014-19-20-2C.2 | 36/2017. (XII. 27.) MNB rendelet |
