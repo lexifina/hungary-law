@@ -46,17 +46,20 @@ j) az ipari, mezőgazdasági vagy szolgáltatási célú hőfejlesztő-hőhaszno
 
 k) a távhőszolgáltatásról szóló törvény szerinti műszaki biztonsági hatósági eljárások hatálya alá tartozó berendezések, létesítmények,
 
-l) a villamos energiáról szóló törvény szerinti csatlakozó-, összekötő és felhasználói berendezések, villamosművek, valamint a potenciálisan robbanásveszélyes közegben működő villamos berendezések és védelmi rendszerek.
+l) a villamos energiáról szóló törvény szerinti csatlakozó-, összekötő és felhasználói berendezések, villamosművek, valamint a potenciálisan robbanásveszélyes közegben működő villamos berendezések és védelmi rendszerek,
 
-(3)[^3] A műszaki biztonsági hatóság a (2) bekezdés szerinti létesítmények, berendezések, valamint az (1) bekezdés szerinti szervezetek vonatkozásában:
+m)[^3] a felvonókról, mozgólépcsőkről és mozgójárdákról szóló kormányrendeletben meghatározott felvonók, mozgólépcsők és mozgójárdák.
+
+(3)[^4] A műszaki biztonsági hatóság a (2) bekezdés szerinti létesítmények, berendezések, valamint az (1) bekezdés szerinti szervezetek vonatkozásában:
 
 a) engedélyezési és hatósági ellenőrzési jogkört gyakorol, a villamos berendezésekre vonatkozó szakhatósági állásfoglalását és az építésügyi hatósági hatáskörébe tartozó sajátos építményfajták használatbavételi engedélyét megalapozó villamos biztonságtechnikai ellenőrzést folytat le a külön jogszabályban meghatározott igazgatási szolgáltatási díj ellenében,
 
 b) bejelentés alapján kivizsgálja a hatáskörébe tartozó rendkívüli események okait és következményeit.
 
-(4)[^4] A műszaki biztonsági hatóság a műszaki biztonsági felügyeleti feladat- és hatáskörében a műszaki biztonsági követelmények megtartása érdekében ellátja mindazokat a feladatokat, amelyeket a jogszabályok a hatáskörébe utalnak.
+(4)[^5] A műszaki biztonsági hatóság a műszaki biztonsági felügyeleti feladat- és hatáskörében a műszaki biztonsági követelmények megtartása érdekében ellátja mindazokat a feladatokat, amelyeket a jogszabályok a hatáskörébe utalnak.
 
 [^1]: Az 1. § (1) bekezdése a 7/2013. (I. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
 [^2]: Az 1. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
-[^3]: Az 1. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
-[^4]: Az 1. § (4) bekezdését a 7/2013. (I. 18.) Korm. rendelet 6. § (4) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át.
+[^3]: Az 1. § (2) bekezdés m) pontját a 146/2014. (V. 5.) Korm. rendelet 33. §-a iktatta be.
+[^4]: Az 1. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
+[^5]: Az 1. § (4) bekezdését a 7/2013. (I. 18.) Korm. rendelet 6. § (4) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át.

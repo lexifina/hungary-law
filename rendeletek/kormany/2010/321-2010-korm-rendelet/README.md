@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-321-20-
 | 2013-07-01 | 2010-321-20-22.4 | 203/2013. (VI. 14.) Korm. rendelet |
 | 2014-01-01 | 2010-321-20-22.5 | 7/2013. (I. 18.) Korm. rendelet |
 | 2014-02-25 | 2010-321-20-22.6 | 7/2013. (I. 18.) Korm. rendelet |
+| 2014-06-05 | 2010-321-20-22.7 | 146/2014. (V. 5.) Korm. rendelet |
