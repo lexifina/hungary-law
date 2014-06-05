@@ -104,6 +104,8 @@ IV. A műszaki biztonsági szakhatóság állásfoglalásának megkéréséhez s
 
 2.6. Nyilatkozat az építtetőtől a nem megvalósított berendezésekről (más berendezések beépítéséről).
 
+3. A felvonókról, mozgólépcsőkről és mozgójárdákról szóló kormányrendelet (a továbbiakban: Rendelet) hatálya alá tartozó berendezések esetében, az 1. és 2. pontban meghatározottaktól eltérően a Rendeletben, a kérelemhez előírt tartalmú dokumentáció és nyilatkozat.
+
 V. A bányafelügyelet szakhatósági állásfoglalásának megkéréséhez szükséges dokumentáció
 
 1. Építési, összevont építési és fennmaradási engedélyezési eljárás esetén, ha az építési terület felszínmozgás-veszélyes, illetve bányászati tevékenységgel (alábányászott) érintett, a talajvizsgálati jelentés és geotechnikai vizsgálat összefoglalása.
@@ -164,4 +166,4 @@ A tűzvédelmi dokumentáció tartalma
 
 2.2. Helyszínrajz, melyen feltüntetik az engedélyezéssel érintett építményt és a szomszédos építményeket, valamint a közöttük lévő távolságot.
 
-[^115]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a szerint módosított szöveg.
+[^115]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a, a 146/2014. (V. 5.) Korm. rendelet 35. § (2) bekezdése szerint módosított szöveg.
