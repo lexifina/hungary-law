@@ -1,0 +1,9 @@
+# 1332/2014. (VI. 5.) Korm. határozat
+
+a világörökségi gondnoksági feladatok ellátása érdekében az Emberi Erőforrások Minisztériuma és a Vidékfejlesztési Minisztérium fejezetek közötti előirányzat-átcsoportosításról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1332-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-06-05 | 2014-1332-30-22.1 | 1332/2014. (VI. 5.) Korm. határozat |
