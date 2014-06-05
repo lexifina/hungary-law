@@ -8,6 +8,6 @@
 
 ## 3. éves jelentés által átfogott időszak
 
-54. melléklet a 18/2014. (VI. 3.) MNB rendelethez[^4]
+54. melléklet a 18/2014. (VI. 3.) MNB rendelethez[^5]
 
-[^4]: Az 54. melléklet a 14. § (2) bekezdése alapján a 2014: XVI. törvény 157. § (13) bekezdésének hatálybalépésével egyidejűleg lép hatályba.
+[^5]: Az 54. melléklet a 14. § (2) bekezdése alapján a 2014: XVI. törvény 157. § (13) bekezdésének hatálybalépésével egyidejűleg lép hatályba.

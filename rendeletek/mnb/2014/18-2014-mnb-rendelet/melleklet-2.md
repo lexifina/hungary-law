@@ -4,7 +4,7 @@
 
 ## 1. Meghatalmazom (meghatalmazzuk) a ………………………………………………-t (cégjegyzékszám: …………, székhely:……………………………………..) (a továbbiakban: Meghatalmazott), hogy az MNB előtti – elektronikus kapcsolattartással érintett – hatósági ügyben a 2. és 3. pontban meghatározott feltételekkel a Meghatalmazó nevében és helyette eljárjon.
 
-## 2. A meghatalmazás az MNB előtti, alábbiakban felsorolt hatósági ügyekre (eljárásokra, bejelentésekre) vonatkozik:[^2]
+## 2. A meghatalmazás az MNB előtti, alábbiakban felsorolt hatósági ügyekre (eljárásokra, bejelentésekre) vonatkozik:[^3]
 
 | 2.1. | Konkrét ügy esetén: |  |
 
@@ -22,7 +22,7 @@
 
 ## 3.2. kiterjed az elektronikus űrlap és mellékleteinek MNB-hez történő elektronikus (üzemzavar esetében az arra vonatkozó szabályok szerinti) benyújtására;
 
-## 3.3. az MNB által elektronikusan aláírt és a Meghatalmazónak címzett iratoknak az MNB által a Meghatalmazott részére biztosított kézbesítési tárhelyen (továbbiakban: ERA postaláda) történő fogadására[^3]
+## 3.3. az MNB által elektronikusan aláírt és a Meghatalmazónak címzett iratoknak az MNB által a Meghatalmazott részére biztosított kézbesítési tárhelyen (továbbiakban: ERA postaláda) történő fogadására[^4]
 
 ## 3.3.1. □ kiterjed;
 
@@ -44,5 +44,5 @@
 
 2. melléklet a 18/2014. (VI. 3.) MNB rendelethez
 
-[^2]: Ha a meghatalmazás konkrét ügyre vonatkozik és ismeri az ügy számát, kérjük ezt tüntesse fel a 2.1. pontban; egyéb esetben kérjük hivatkozzon az ügy típusának megfelelo, az MNB honlapján megtalálható listából kiválasztható elektronikus űrlap azonosítójára a 2.2 pontban.
-[^3]: Attól függoen, hogy a nyilatkozatban a Meghatalmazó a 3.3.1. vagy a 3.3.2. pontot jelöli meg, az adott eljárásban az iratokat az MNB – a Ket. 40. § (7) bekezdésében foglaltakra figyelemmel – a jelen meghatalmazás alapján a Meghatalmazottnak (3.3.1) vagy a Meghatalmazónak (3.3.2) kézbesíti.
+[^3]: Ha a meghatalmazás konkrét ügyre vonatkozik és ismeri az ügy számát, kérjük ezt tüntesse fel a 2.1. pontban; egyéb esetben kérjük hivatkozzon az ügy típusának megfelelo, az MNB honlapján megtalálható listából kiválasztható elektronikus űrlap azonosítójára a 2.2 pontban.
+[^4]: Attól függoen, hogy a nyilatkozatban a Meghatalmazó a 3.3.1. vagy a 3.3.2. pontot jelöli meg, az adott eljárásban az iratokat az MNB – a Ket. 40. § (7) bekezdésében foglaltakra figyelemmel – a jelen meghatalmazás alapján a Meghatalmazottnak (3.3.1) vagy a Meghatalmazónak (3.3.2) kézbesíti.
