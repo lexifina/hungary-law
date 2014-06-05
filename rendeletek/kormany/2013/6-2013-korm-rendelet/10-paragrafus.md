@@ -10,13 +10,13 @@ a) biocid hatóanyagok és termékek, biociddal kezelt termékek, kozmetikai ter
 
 b) orvostechnikai eszközök esetében az EEKH-t,
 
-c) mozgólépcsők, mozgójárdák és felvonók esetében az FMF-t,
+c)[^3]
 
 d) gyógyszer és gyógyszernek nem minősülő gyógyhatású készítmény esetében a GYEMSZI-t,
 
 e) bányászati alkalmazásra szánt gépek, berendezések, külfejtésben alkalmazott rakodógépek bányamentő és egyéni önmentő készülékek, oxigénpalackok és a bányákba szánt robbanásbiztos berendezések esetében az MBFH-t,
 
-f) gazdasági célfelhasználású gépek és villamossági termékek, egyes nyomástartó edények és rendszerek, egyes szállítható nyomástartó edények, bányáktól eltérő környezetbe szánt robbanásbiztos berendezések, gázfogyasztó készülékek, egyes kötelező hitelesítésű mérőeszközök, egyes környezetbarát tervezéssel és energiafogyasztási címkézéssel kapcsolatos termékek esetén az MKEH-t,
+f)[^4] gazdasági célfelhasználású gépek és villamossági termékek, egyes nyomástartó edények és rendszerek, egyes szállítható nyomástartó edények, bányáktól eltérő környezetbe szánt robbanásbiztos berendezések, gázfogyasztó készülékek, egyes kötelező hitelesítésű mérőeszközök, egyes környezetbarát tervezéssel és energiafogyasztási címkézéssel kapcsolatos termékek, továbbá a mozgólépcsők, mozgójárdák és felvonók esetében az MKEH-t,
 
 g) fogyasztói forgalomba szánt villamossági termékek, gépek és egyéni védőeszközök, ruházati termékek, lábbelik, játszótéri eszközök, öngyújtók, gyermekjátékok, bútorok, mosó- és tisztítószerek, építési termékek, festékek és lakkok, valamint minden egyéb a fogyasztói forgalomba szánt termék esetében az NFH-t,
 
@@ -33,3 +33,6 @@ l) pirotechnikai termékek esetében a Rendőrséget.
 (2) A piacfelügyeleti hatóság az importtermék jogszabályi előírásoknak való megfelelősége tárgyában hozott határozata fellebbezésre tekintet nélkül és azonnal végrehajtható.
 
 (3) Az importtermékek piacfelügyeleti ellenőrzésével kapcsolatos vizsgálatok költségei, valamint a felmerülő tárolási és megsemmisítési költségek a vámkezelést kérőt terhelik.
+
+[^3]: A 10. § (1) bekezdés c) pontját a 146/2014. (V. 5.) Korm. rendelet 37. § b) pontja hatályon kívül helyezte.
+[^4]: A 10. § (1) bekezdés f) pontja a 146/2014. (V. 5.) Korm. rendelet 36. §-ával megállapított szöveg.

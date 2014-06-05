@@ -8,11 +8,11 @@ a) az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztif�
 
 b) az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: EEKH),
 
-c) az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság keretein belül működő Felvonó és Mozgólépcső Felügyelet (a továbbiakban: FMF),
+c)[^1]
 
 d) a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI),
 
-e)[^1] a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH) és a bányakapitányságok,
+e)[^2] a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH) és a bányakapitányságok,
 
 f) a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: MKEH),
 
@@ -32,4 +32,5 @@ l) a Rendőrség szervei (a továbbiakban: Rendőrség).
 
 (3) Az NFH feladatai ellátásához vizsgáló laboratóriummal rendelkezik, amely elvégzi vagy megbízás alapján más laboratóriummal elvégezteti a piacfelügyeleti tevékenységével kapcsolatos vizsgálatokat.
 
-[^1]: A 2. § (1) bekezdés e) pontja az 559/2013. (XII. 31.) Korm. rendelet 73. §-ával megállapított szöveg.
+[^1]: A 2. § (1) bekezdés c) pontját a 146/2014. (V. 5.) Korm. rendelet 37. § b) pontja hatályon kívül helyezte.
+[^2]: A 2. § (1) bekezdés e) pontja az 559/2013. (XII. 31.) Korm. rendelet 73. §-ával megállapított szöveg.
