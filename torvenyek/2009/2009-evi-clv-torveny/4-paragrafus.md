@@ -28,7 +28,7 @@ j) az alapvető jogok biztosa,
 
 k) a Magyar Nemzeti Bank elnöke,
 
-l) a Kormány tagja, a Miniszterelnökséget vezető államtitkár,
+l) a Kormány tagja,
 
 m) a kormánybiztos, a miniszterelnöki biztos,
 
@@ -58,7 +58,7 @@ v) törvény által minősítésre feljogosított személy.
 
 (2) Az (1) bekezdés szerinti minősítők minősítői jogkörüket írásban
 
-a) „Szigorúan titkos!” minősítési szintű adat esetén a helyettesükre, valamint a Kormány tagja a közigazgatási államtitkárra, az államtitkárra és a helyettes államtitkárra, a Miniszterelnökséget vezető államtitkár a helyettes államtitkárra,
+a) „Szigorúan titkos!” minősítési szintű adat esetén a helyettesükre, valamint a Kormány tagja a közigazgatási államtitkárra, az államtitkárra és a helyettes államtitkárra,
 
 b) „Titkos!”, „Bizalmas!” és „Korlátozott terjesztésű!” minősítési szintű adat vonatkozásában az irányításuk alatt álló, közhatalmi jogosítványokkal felruházott szervben vezetői megbízással rendelkezőkre, illetve vezetői beosztásba kinevezettekre
 
