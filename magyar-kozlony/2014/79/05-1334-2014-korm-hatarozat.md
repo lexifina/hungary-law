@@ -1,0 +1,53 @@
+# A Kormány 1334/2014. (VI. 6.) Korm. határozata
+
+Magyar Közlöny 2014. évi 79. szám, 2014. június 6. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/9fae4164ae8b7fa237512ab1579fdd1501a75e35/dokumentumok/00c4b67eae59409b51afcd1b42d94c1277ce65eb/letoltes)
+
+---
+
+A Kormány 1334/2014. (VI. 6.) Korm. határozata
+a Strukturális Alapok és a Kohéziós Alap forrásaira épülő, 2014 és 2020 közötti egyes ágazati és területi
+operatív programok elfogadásáról és az Európai Bizottság számára történő benyújtásáról
+A Kormány megtárgyalta a Strukturális Alapok és a Kohéziós Alap forrásaira épülő, 2014 és 2020 közötti egyes ágazati és
+területi operatív programok tervezetét, tudomásul vette az annak tartalmáról az Európai Bizottsággal folytatott egyeztetések
+eredményeit, és a 2014 és 2020 közötti, európai uniós társfinanszírozási fejlesztési programok végrehajtásának minél gyorsabb
+megkezdését szem előtt tartva
+1. jóváhagyja az Emberi Erőforrás Fejlesztési Operatív Program (EFOP), a Gazdaságfejlesztési és Innovációs Operatív
+Program (GINOP), a Környezeti és Energiahatékonysági Operatív Program (KEHOP), a Terület- és Településfejlesztési
+Operatív Program (TOP), a Versenyképes Közép-Magyarország Operatív Program (VEKOP) és a Vidékfejlesztési
+Program (VP) tervezetét és felhatalmazza a programok tervezéséért felelős minisztereket, hogy a szükséges
+módosítások átvezetését követően a nemzetgazdasági miniszter iránymutatásai alapján nyújtsák be azokat
+az Európai Bizottság számára;
+Felelős: az operatív programok tervezéséért felelős miniszterek
+nemzetgazdasági miniszter
+Határidő: azonnal
+2. felhívja a Miniszterelnökséget vezető minisztert, hogy az operatív programok hivatalos benyújtásához szükséges
+ex-ante értékelések, stratégiai környezeti hatásvizsgálatok és teljesítménykeret-módszertan végleges változatait
+bocsássa az 1. pontban megjelölt felelősök rendelkezésére;
+Felelős: Miniszterelnökséget vezető miniszter
+Határidő: azonnal
+3. úgy dönt, hogy a Balaton Kiemelt Üdülőkörzetben nem valósít meg európai uniós jogszabály által meghatározott
+integrált területi beruházást, és ennek megfelelően a Balaton Kiemelt Üdülőkörzet területére vonatkozóan több
+operatív program keretében nyílik támogatási lehetőség, azzal, hogy a Kormány egyedi határozattal dönt a kiemelt
+térségi beruházásokról;
+Felelős: nemzetgazdasági miniszter
+Határidő: azonnal
+4. felhívja az operatív programok tervezéséért felelős minisztereket, hogy a nemzetgazdasági miniszter bevonásával
+kezdjék meg a formális tárgyalásokat a programok tervezetéről az Európai Bizottsággal;
+Felelős: az operatív programok tervezéséért felelős miniszterek
+nemzetgazdasági miniszter
+Határidő: az operatív programok 1. pont szerinti benyújtását követően azonnal
+5. felhívja a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program (KÖFOP) és a Rászoruló Személyeket
+Támogató Operatív Program (RSZTOP) tervezéséért felelős minisztereket, hogy a társadalmasítás lezárását és
+a programok végleges változatának elkészítését követően a dokumentumokat a nemzetgazdasági miniszter útján
+nyújtsák be a Kormány elé;
+Felelős: nemzetgazdasági miniszter
+a KÖFOP és az RSZTOP tervezéséért felelős miniszterek
+Határidő: azonnal
+6. felhívja a Magyar Halgazdálkodási Operatív Program (MAHOP) tervezéséért felelős minisztert, hogy a program
+végleges változatának elkészítését követően a dokumentumot a nemzetgazdasági miniszter útján nyújtsa be
+a Kormány elé.
+Felelős: nemzetgazdasági miniszter
+a MAHOP tervezéséért felelős miniszter
+Határidő: azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök
