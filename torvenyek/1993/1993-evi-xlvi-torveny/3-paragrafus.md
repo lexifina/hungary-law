@@ -6,7 +6,7 @@ Stt.3. § (1) E törvényben meghatározott statisztikai tevékenység ellát�
 
 a) a Központi Statisztikai Hivatal;
 
-b) a minisztériumok és a Miniszterelnökség;
+b) a minisztériumok;
 
 c) Az Országos Bírósági Hivatal elnöke,
 

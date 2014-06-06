@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-46-00-00
 | 2013-11-26 | 432/2013. (XI. 18.) Korm. rendelet | 1993-46-00-00.41 |
 | 2013-12-20 | 2013. évi CCXIII. törvény | 1993-46-00-00.42 |
 | 2013-12-31 | 2013. évi CCL. törvény | 1993-46-00-00.43 |
+| 2014-06-06 | 2014. évi XXI. törvény | 1993-46-00-00.44 |
