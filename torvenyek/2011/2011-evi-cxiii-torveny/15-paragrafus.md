@@ -1,6 +1,6 @@
 15. § (1) Mentes a szolgáltatás alól:
 
-a) az Országgyűlés, az Alkotmánybíróság, a Köztársasági Elnöki Hivatal, az Állami Számvevőszék, az Alapvető Jogok Biztosának munkaszervezete, a Miniszterelnökség, a minisztériumok, a Kúria, a Legfőbb Ügyészség és a Magyar Nemzeti Bank,
+a) az Országgyűlés, az Alkotmánybíróság, a Köztársasági Elnöki Hivatal, az Állami Számvevőszék, az Alapvető Jogok Biztosának munkaszervezete, a minisztériumok, a Kúria, a Legfőbb Ügyészség és a Magyar Nemzeti Bank,
 
 b) a Honvédség és a rendvédelmi szervek,
 
