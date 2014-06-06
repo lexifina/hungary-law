@@ -250,6 +250,6 @@
 
 7. melléklet a 290/2011. (XII. 22.) Korm. rendelethez
 
-## A honvédelmi célra átadásra kerülő technikai eszközökre vonatkozó követelmények
+A honvédelmi célra átadásra kerülő technikai eszközökre vonatkozó követelmények
 
 A) A gépjárművekre vonatkozóan:

@@ -1,5 +1,3 @@
-## A meghatalmazási formanyomtatvány
-
 ## A meghatalmazásban szereplő adatok:
 
 ## Egyéni vállalkozó esetén
@@ -36,7 +34,7 @@
 
 5. melléklet a 290/2011. (XII. 22.) Korm. rendelethez
 
-## Jegyzék a bejelentésre kötelezett ingatlanok és szolgáltatások köréről
+Jegyzék a bejelentésre kötelezett ingatlanok és szolgáltatások köréről
 
 I. Ingatlanok
 

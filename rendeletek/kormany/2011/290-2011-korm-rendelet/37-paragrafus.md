@@ -1,4 +1,4 @@
-## VIII. Fejezet[^26]
+## VIII. Fejezet[^28]
 
 ## A MINISZTER IRÁNYÍTÁSA ALATT ÁLLÓ KÖZPONTI HIVATALOK
 
@@ -20,4 +20,4 @@ d) kormánytisztviselő esetén vezetői főosztályvezetői alapilletményre, v
 
 e) igazgatóságokra tagozódnak.
 
-[^26]: A VIII. Fejezet (37–38. §) a 267/2013. (VII. 11.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^28]: A VIII. Fejezet (37–38. §) a 267/2013. (VII. 11.) Korm. rendelet 8. §-ával megállapított szöveg.

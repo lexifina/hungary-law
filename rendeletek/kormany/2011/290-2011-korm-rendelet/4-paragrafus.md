@@ -1,5 +1,3 @@
-## 3. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 37. § (2) bekezdése szerinti esetekben a minisztert a külügyminiszter helyettesíti.
-
 ## 2. A parlamenti államtitkár feladat- és hatásköre
 
 ## 4. § A parlamenti államtitkár

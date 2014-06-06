@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-290-20-
 | 2013-05-30 | 2011-290-20-22.6 | 169/2013. (V. 29.) Korm. rendelet |
 | 2013-06-04 | 2011-290-20-22.7 | 176/2013. (VI. 3.) Korm. rendelet |
 | 2013-08-01 | 2011-290-20-22.8 | 267/2013. (VII. 11.) Korm. rendelet |
+| 2014-06-06 | 2011-290-20-22.9 | 152/2014. (VI. 6.) Korm. rendelet |
