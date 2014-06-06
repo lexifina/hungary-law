@@ -22,7 +22,7 @@ e) köztestületi költségvetési szerv esetén a köztestület
 
 (5) Az alapító okiratot a (6) bekezdésben meghatározott kivétellel az alapító szerv adja ki.
 
-(6) Az Országgyűlés vagy a Kormány által alapított költségvetési szerv alapító okiratát az irányító szerv, a minisztériumét, a Miniszterelnökségét, a kormányhivatalét, valamint a fővárosi, megyei kormányhivatalét a miniszterelnök adja ki.
+(6) Az Országgyűlés vagy a Kormány által alapított költségvetési szerv alapító okiratát az irányító szerv, a minisztériumét, a kormányhivatalét, valamint a fővárosi, megyei kormányhivatalét a miniszterelnök adja ki.
 
 (7) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv alapító okiratának kiadásához és módosításához – a miniszterelnök által kiadott alapító okirattal rendelkező költségvetési szerv és a honvédelemért felelős miniszter által alapított költségvetési szerv alapító okirata kivételével – az államháztartásért felelős miniszter előzetes egyetértése szükséges.
 
