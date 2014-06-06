@@ -2,4 +2,4 @@
 
 (2) A Corvin-lánc kitüntetéssel adományozottak alkotják a Magyar Corvin-lánc Testületet (a továbbiakban: Corvin-lánc Testület).
 
-(3) A Corvin-lánccal kapcsolatos feladatokat a Miniszterelnökség keretében működő Magyar Corvin-lánc Iroda (a továbbiakban: Corvin-lánc Iroda) látja el.
+(3) A Corvin-lánccal kapcsolatos feladatokat a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban működő Magyar Corvin-lánc Iroda (a továbbiakban: Corvin-lánc Iroda) látja el.

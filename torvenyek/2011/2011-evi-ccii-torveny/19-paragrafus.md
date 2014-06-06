@@ -4,4 +4,4 @@
 
 (3) Az állami kitüntetések adományozásáról szóló határozatot a Magyar Közlönyben közzé kell tenni.
 
-(4) A miniszterelnöki előterjesztéssel kapcsolatos teendőket a Miniszterelnökség látja el. Az állami kitüntetések adományozásával összefüggő további teendőket a Köztársasági Elnöki Hivatal látja el, az ezekkel összefüggő kiadások fedezetét a Köztársasági Elnöki Hivatal költségvetésében kell biztosítani.
+(4) A miniszterelnöki előterjesztéssel kapcsolatos teendőket a kormányzati tevékenység összehangolásáért felelős miniszter látja el. Az állami kitüntetések adományozásával összefüggő további teendőket a Köztársasági Elnöki Hivatal látja el, az ezekkel összefüggő kiadások fedezetét a Köztársasági Elnöki Hivatal költségvetésében kell biztosítani.
