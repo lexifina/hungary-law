@@ -1,1 +1,0 @@
-A Kormány az európai területi együttműködési csoportosulásról szóló 2007. évi XCIX. törvény 19/A. § (1) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
