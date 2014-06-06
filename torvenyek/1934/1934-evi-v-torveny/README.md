@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1934-5-00-00
 | --- | --- | --- |
 | 2007-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1934-5-00-00.2 |
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 1934-5-00-00.3 |
+| 2014-06-06 | 2014. évi XXI. törvény | 1934-5-00-00.4 |
