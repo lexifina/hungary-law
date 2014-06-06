@@ -44,7 +44,7 @@ c) a b) pontjában rögzített feladatot a miniszter az államháztartásért fe
 
 d) a c) pontjában megállapított feladatot – feladatkörében – a miniszter, a külpolitikáért felelős miniszter és az egészségügyért felelős miniszter,
 
-e) a d) pontjában rögzített feladatot a miniszter a külpolitikáért felelős miniszterrel, valamint a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszterrel egyetértésben,
+e) a d) pontjában rögzített feladatot a miniszter a külpolitikáért felelős miniszterrel, valamint a külgazdasági ügyekért felelős miniszterrel egyetértésben,
 
 f)
 
