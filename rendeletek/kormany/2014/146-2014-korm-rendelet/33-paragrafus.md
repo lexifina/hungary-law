@@ -1,1 +1,3 @@
-## „(4) A Kormány a (3) bekezdés a)–c) és i) pontjában megjelölt tevékenység vonatkozásában a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a Hivatal piacfelügyeleti és műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki.”
+33. §[^2]
+
+[^2]: A 32–37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
