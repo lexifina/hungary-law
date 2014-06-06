@@ -64,4 +64,4 @@ c) előzetesen véleményezi az országos, valamint a kiemelt térséget érint�
 
 d) figyelemmel kíséri az operatív programok kiemelt térségben jelentkező feladatainak végrehajtását, külön döntés alapján közreműködik azok végrehajtásában.
 
-(16) A Tokaji Borvidék Fejlesztési Tanács tagjai a tanács illetékességi területén működő megyei közgyűlés elnöke, az érintett megyei közgyűlés egy képviselője, Tokaji Borvidék Hegyközségi Tanácsa elnöke, Tokaj Kereskedőház Felügyelő Bizottságának elnöke továbbá a területfejlesztés stratégiai tervezéséért felelős miniszter, valamint a miniszterelnökséget vezető államtitkár egy-egy képviselője.
+(16) A Tokaji Borvidék Fejlesztési Tanács tagjai a tanács illetékességi területén működő megyei közgyűlés elnöke, az érintett megyei közgyűlés egy képviselője, Tokaji Borvidék Hegyközségi Tanácsa elnöke, Tokaj Kereskedőház Felügyelő Bizottságának elnöke továbbá a területfejlesztés stratégiai tervezéséért felelős miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter egy-egy képviselője.
