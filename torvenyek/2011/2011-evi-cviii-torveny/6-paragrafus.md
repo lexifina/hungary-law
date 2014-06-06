@@ -2,7 +2,7 @@
 
 6. § (1) E törvény alkalmazásában ajánlatkérők:
 
-a) a minisztérium, a Miniszterelnökség, a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet;
+a) a minisztérium, a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet;
 
 b) az állam, a helyi önkormányzat és minden költségvetési szerv, a közalapítvány, a helyi és országos nemzetiségi önkormányzat, a helyi önkormányzatok társulása, a helyi önkormányzat által a helyben központosított közbeszerzés keretében, valamint több helyi önkormányzat, illetve a közös hivatalhoz tartozó települések központosított közbeszerzési rendszere keretében ajánlatkérésre kizárólagosan feljogosított szervezet, a területfejlesztési önkormányzati társulás, a térségi fejlesztési tanács;
 

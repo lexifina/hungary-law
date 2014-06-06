@@ -12,7 +12,7 @@ c) az agrár-vidékfejlesztésért felelős miniszter és a Magyar Agrár-, Éle
 
 d) az építésügyért felelős miniszter által kijelölt személy;
 
-e) a Miniszterelnökséget vezető államtitkár által kijelölt személy;
+e) a kormányzati tevékenység összehangolásáért felelős miniszter által kijelölt személy;
 
 f) az Állami Számvevőszék elnöke vagy az általa kijelölt személy;
 

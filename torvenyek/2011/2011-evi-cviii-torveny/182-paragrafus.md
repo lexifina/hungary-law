@@ -56,4 +56,4 @@ e) a közbeszerzések központi ellenőrzésével és engedélyezésével össze
 
 (3) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy rendeletben szabályozza a helyben központosított közbeszerzési eljárások részletes szabályait, a helyben központosított közbeszerzés szabályai szerint eljárni köteles szervek körét, a helyben központosított közbeszerzés során ajánlatkérésre feljogosított szervezet részére fizetendő, kizárólag a végrehajtással felmerülő költségeket fedező díj mértékét.
 
-(4) Felhatalmazást kap a belügyminiszter, hogy az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben szabályozza a közfoglalkoztatók részéről a közfoglalkoztatás ellátásához szükséges, az uniós értékhatárt el nem érő áru vagy szolgáltatás beszerzések e törvénytől eltérő sajátos szabályait.
+(4) Felhatalmazást kap a közfoglalkoztatásért felelős miniszter, hogy az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben szabályozza a közfoglalkoztatók részéről a közfoglalkoztatás ellátásához szükséges, az uniós értékhatárt el nem érő áru vagy szolgáltatás beszerzések e törvénytől eltérő sajátos szabályait.
