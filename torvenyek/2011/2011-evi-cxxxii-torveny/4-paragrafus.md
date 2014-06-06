@@ -4,10 +4,12 @@
 
 4. § Az Egyetem fenntartói jogait Fenntartói Testület (a továbbiakban: FT) útján
 
-a) a közigazgatás-fejlesztésért,
+a) a közigazgatás-fejlesztésért felelős miniszter,
 
-b) a honvédelemért és
+b) az igazságügyért felelős miniszter,
 
-c) a rendészetért
+c) a honvédelemért felelős miniszter és
 
-felelős miniszterek (a továbbiakban együtt: fenntartó miniszterek) közösen gyakorolják.
+d) a rendészetért felelős miniszter
+
+[az a)–d) pont a továbbiakban együtt: fenntartó miniszterek] közösen gyakorolják.

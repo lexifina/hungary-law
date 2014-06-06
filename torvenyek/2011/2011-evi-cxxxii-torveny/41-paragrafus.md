@@ -1,4 +1,4 @@
-41. § (1) Közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatási képzés az illetékes felügyeletet gyakorló miniszter előzetes engedélye alapján indulhat.
+41. § (1) Közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatási képzés a felügyeletet gyakorló miniszter előzetes engedélye alapján indulhat.
 
 (2) Kormányhatározat állapítja meg a felügyeletet gyakorló miniszterek közös javaslatára a közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatás tekintetében az adott évben felvehető hallgatói létszámkeretet.
 

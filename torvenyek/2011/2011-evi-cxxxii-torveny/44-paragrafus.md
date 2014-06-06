@@ -14,7 +14,7 @@ c) az Egyetem hallgatóinak juttatásaival és az általuk fizetendő egyes tér
 
 d) a közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában a szaklétesítés és a szakindítás sajátos szabályait.
 
-(2) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter, hogy – a honvédelemért és a rendészetért felelős miniszter egyetértésével – rendeletben határozza meg
+(2) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter, hogy – az igazságügyért felelős miniszter, a honvédelemért felelős miniszter és a rendészetért felelős miniszter egyetértésével – rendeletben határozza meg
 
 a) a közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatás vonatkozásában az évenként felvehető hallgatói létszám megállapításával és elosztásával kapcsolatos eljárás részletes szabályait,
 
