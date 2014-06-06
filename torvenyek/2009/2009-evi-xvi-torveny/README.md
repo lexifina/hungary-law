@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-16-00-00
 | --- | --- | --- |
 | 2009-04-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-16-00-00.1 |
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 2009-16-00-00.2 |
+| 2014-06-06 | 2014. évi XXI. törvény | 2009-16-00-00.3 |
