@@ -4,6 +4,6 @@
 
 (1a) A köztársasági elnöknek az (1) bekezdéssel a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.
 
-(2) A helyesbítésre a jogszabály hatálybalépését megelőzően, de legkésőbb a kihirdetést követő tizedik munkanapon kerülhet sor, ha az (1) bekezdés szerinti eltérést a kormányzati tevékenység összehangolásáért felelős miniszter megállapítja.
+(2) A helyesbítésre a jogszabály hatálybalépését megelőzően, de legkésőbb a kihirdetést követő tizedik munkanapon kerülhet sor, ha az (1) bekezdés szerinti eltérést az igazságügyért felelős miniszter megállapítja.
 
-(3) A helyesbítést a Magyar Közlönyben kell közzétenni. A közzétételről a kormányzati tevékenység összehangolásáért felelős miniszter a kezdeményezést követően haladéktalanul gondoskodik.
+(3) A helyesbítést a Magyar Közlönyben kell közzétenni. A közzétételről az igazságügyért felelős miniszter a kezdeményezést követően haladéktalanul gondoskodik.

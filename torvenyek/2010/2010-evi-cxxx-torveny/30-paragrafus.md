@@ -18,7 +18,7 @@ d) a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű más
 
 (3) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy rendeletben határozza meg az előzetes és az utólagos hatásvizsgálat részletes szabályait.
 
-(4) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével kiadott rendeletben határozza meg
+(4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 
 a) a jogszabály kihirdetés során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelölésének, valamint
 
@@ -26,7 +26,7 @@ b) a Magyar Közlöny kiadásának
 
 részletes szabályait.
 
-(5) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével kiadott rendeletben határozza meg
+(5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 
 a) az előfizetők 28/C. § (4) bekezdése szerinti számát,
 

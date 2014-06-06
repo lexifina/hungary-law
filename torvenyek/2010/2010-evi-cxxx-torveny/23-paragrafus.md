@@ -54,6 +54,6 @@ d) az alapvető jogok biztosa,
 
 e) az önálló szabályozó szerv, valamint
 
-f) a Miniszterelnökség és a minisztérium
+f) a minisztérium
 
 hivatali szervezetének vezetője, amely a szerv állományába tartozó személyekre kötelező.
