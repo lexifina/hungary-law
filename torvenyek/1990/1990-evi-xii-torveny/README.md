@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-12-00-00
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 1990-12-00-00.5 |
 | 2012-01-01 | 2011. évi CCII. törvény | 1990-12-00-00.6 |
 | 2013-03-12 | 2013. évi X. törvény | 1990-12-00-00.7 |
+| 2014-06-06 | 2014. évi XXI. törvény | 1990-12-00-00.8 |
