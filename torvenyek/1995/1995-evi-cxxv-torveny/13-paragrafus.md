@@ -1,4 +1,4 @@
-13. § (1) A főigazgatók e törvény, a jogszabályok és a közjogi szervezetszabályozó eszközök által meghatározott keretek között önálló felelősséggel vezetik a nemzetbiztonsági szolgálatokat.
+13. § (1) A főigazgatók e törvény, a jogszabályok és a közjogi szervezetszabályozó eszközök által meghatározott keretek között önálló felelősséggel vezetik a nemzetbiztonsági szolglatokat.
 
 (2) A Magyar Honvédség vezérkari főnöke a honvédelmi törvényben meghatározott feladatai ellátásához szükséges információ átadását – alá- és fölérendeltség hiányában is – közvetlenül igényelheti a Katonai Nemzetbiztonsági Szolgálat főigazgatójától, aki azt haladéktalanul köteles teljesíteni. A szakmai kapcsolattartás és az információszolgáltatás rendjét a honvédelemért felelős miniszter állapítja meg.
 

@@ -1,4 +1,4 @@
-78. § (1) Felhatalmazást kap a miniszter, hogy az (1a) bekezdésben meghatározott kivétellel rendeletben megállapítsa:
+78. § (1) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa:
 
 a) a nemzetbiztonsági szolgálatok lakásgazdálkodása, valamint a lakáscélú munkáltatói támogatás rendjét;
 
@@ -8,7 +8,7 @@ c) a nemzetbiztonsági szolgálatok létesítményeibe való belépés rendjét;
 
 d) a miniszteri elismerések adományozásának rendjét;
 
-(1a) Felhatalmazást kap a Kormány, hogy rendeletben az (1) bekezdés szerinti tárgykörökben az Információs Hivatal vonatkozásában szabályokat állapítson meg.
+(1a)
 
 (2) Felhatalmazást kap a miniszter, hogy utasításban megállapítsa:
 
@@ -20,4 +20,4 @@ c) mindazokat az eljárásokat, amelyeket a költségvetés alapján gazdálkod�
 
 d) a nemzetbiztonsági szolgálatok védelemre jogosult vezetőinek körét, a védelmi intézkedések részletes szabályait.
 
-(3) Felhatalmazást kap a Kormány, hogy határozatban a (2) bekezdés szerinti tárgykörökben az Információs Hivatal vonatkozásában szabályokat állapítson meg.
+(3)

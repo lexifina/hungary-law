@@ -1,1 +1,1 @@
-12/A. § Ha a Kormány az Információs Hivatalt a miniszterelnök útján irányítja, a 11. § (2) bekezdés j) pontját és a 12. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az Információs Hivatal főigazgatóját a miniszterelnök nevezi ki és menti fel.
+12/A. §
