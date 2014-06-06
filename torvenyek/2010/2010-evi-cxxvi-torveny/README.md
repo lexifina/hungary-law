@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-126-00-00
 | 2013-05-01 | 2013. évi XIV. törvény | 2010-126-00-00.10 |
 | 2014-01-01 | 2013. évi CCXVIII. törvény | 2010-126-00-00.11 |
 | 2014-05-06 | 2012. évi XXXVI. törvény | 2010-126-00-00.12 |
+| 2014-06-06 | 2014. évi XXI. törvény | 2010-126-00-00.13 |

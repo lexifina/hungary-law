@@ -2,7 +2,7 @@
 
 10. § (1) A fővárosi és megyei kormányhivatalt kormánymegbízott vezeti.
 
-(2) A kormánymegbízottat a közigazgatás-szervezésért felelős miniszter javaslatára a miniszterelnök nevezi ki és menti fel. A kormánymegbízott felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat a közigazgatás-szervezésért felelős miniszter gyakorolja.
+(2) A kormánymegbízottat a miniszter javaslatára a miniszterelnök nevezi ki és menti fel. A kormánymegbízott felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat a miniszter gyakorolja.
 
 (3) Kormánymegbízottá olyan büntetlen előéletű személy nevezhető ki, aki az országgyűlési képviselők választásán választható.
 
