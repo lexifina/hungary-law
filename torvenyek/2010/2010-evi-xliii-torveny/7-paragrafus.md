@@ -1,6 +1,6 @@
 7. § (1) A politikai vezető e tevékenységét állami vezetői szolgálati jogviszony keretében látja el.
 
-(2) Az állami vezetői szolgálati jogviszonyra – ha törvény eltérően nem rendelkezik – a kormányzati szolgálati jogviszonyban állókra vonatkozó szabályokat kell alkalmazni.
+(2) Az állami vezetői szolgálati jogviszonyra – ha az Alaptörvény vagy törvény eltérően nem rendelkezik – a kormányzati szolgálati jogviszonyban állókra vonatkozó szabályokat kell alkalmazni.
 
 (3) A szakmai vezető kormányzati szolgálati jogviszonyban áll.
 

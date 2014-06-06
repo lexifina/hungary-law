@@ -20,7 +20,7 @@ a Kormány feladatkörébe tartozó feladat ellátására nevezhető ki.
 
 (7) A (2) bekezdés b) pontjában meghatározott kormánybiztos államtitkári illetménynek megfelelő összegű díjazásra és juttatásokra jogosult. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
 
-(8) A kormánybiztost tevékenységének ellátásában a Miniszterelnökség szervezetében működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
+(8) A kormánybiztost tevékenységének ellátásában a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 
 (8a) A (8) bekezdéstől eltérően a kormánybiztost tevékenységének ellátásában a (2) bekezdés a) pontjában meghatározott esetben a kinevezése szerinti minisztériumban működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 

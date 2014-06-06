@@ -10,7 +10,7 @@ b) az a) pont hatálya alá nem tartozó személy
 
 a miniszter feladatkörébe tartozó feladat ellátására nevezhető ki.
 
-(3) A miniszteri biztos kinevezését megelőzően a javasolt személyről a miniszter tájékoztatja a kormányzati tevékenység összehangolásáért felelős minisztérium közigazgatási államtitkárát, aki a javaslattal szemben, a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki miniszteri biztossá.
+(3) A miniszteri biztos kinevezését megelőzően a javasolt személyről a miniszter tájékoztatja a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárát, aki a javaslattal szemben, a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki miniszteri biztossá.
 
 (4) A miniszteri biztos tevékenységét az őt kinevező miniszter irányítja.
 

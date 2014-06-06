@@ -10,4 +10,4 @@
 
 (5) A miniszterelnöki biztos tevékenységét a miniszterelnök irányítja.
 
-(6) A miniszterelnöki biztost tevékenységének ellátásában a Miniszterelnökség szervezetében működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
+(6) A miniszterelnöki biztost tevékenységének ellátásában a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.

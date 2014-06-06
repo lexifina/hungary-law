@@ -12,7 +12,7 @@ a) a Kormány,
 
 b) a kormánybizottság,
 
-c) a Miniszterelnökség,
+c)
 
 d) a minisztérium,
 
