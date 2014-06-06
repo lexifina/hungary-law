@@ -14,11 +14,7 @@
 
 ## Határidő: 2014. július 31.
 
-## 5. visszavonja
-
-## a) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterve 3–6. prioritásának és Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akcióterve 1. és 3. prioritásának módosításáról szóló 1736/2013. (X. 11.) Korm. határozat 2. mellékletének a TIOP-3.2.3A kódszámú, „Lakhatási beruházások támogatása” című konstrukcióra vonatkozó részét, és
-
-## b) a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akcióterve 3. prioritásának módosításáról szóló 1060/2014. (II. 11.) Korm. határozatot.
+## 5.[^2]
 
 1. melléklet az 1333/2014. (VI. 5.) Korm. határozathoz
 
@@ -33,3 +29,5 @@ A Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akc
 | 3. | TIOP-3.4.2-11/1 | Önkormányzati, állami, egyházi, nonprofit fenntartású bentlakásos intézmények korszerűsítése |  | 6,80 | 3,65 | 2,21 | A bentlakásos intézmények korszerűsítésének célja a lakók életminőségének javítása, az intézményekben uralkodó rossz infrastrukturális adottságok és a hiányos felszereltség leküzdése, illetve az életviszonyok humanizálása és modernizálása révén. | emberi erőforrások minisztere |  |
 
 | 4. | TIOP-3.2.3A | Lakhatási beruházások támogatása |  | 1,5 | 0,44 |  | A szegregátumokban és a hátrányos helyzetű kistérségekben élők lakhatási körülményeinek javítása – új szociális bérlakások építésével, illetve a nem szegregált lakókörnyezetben lévő lakások felújításával. | emberi erőforrások minisztere |  |
+
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
