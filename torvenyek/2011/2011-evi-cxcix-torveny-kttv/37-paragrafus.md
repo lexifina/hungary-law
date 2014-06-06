@@ -10,6 +10,6 @@
 
 (5) A munkáltató akkor hivatkozhat arra, hogy képviselője jogkörét túllépve járt el, ha a kormánytisztviselő a körülményekből nem következtethetett alappal az eljáró jogosultságára.
 
-(6) A Miniszterelnökséget vezető államtitkár gyakorolja a munkáltatói jogokat a Miniszterelnökség állományába tartozó kormánytisztviselők felett.
+(6)
 
 (7) Ahol e törvény „munkáltatót” említ, azon „államigazgatási szervet” kell érteni.

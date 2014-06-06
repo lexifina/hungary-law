@@ -26,4 +26,4 @@ d) a feladat teljesítésének helye nem szükséges, hogy a közigazgatási sze
 
 (10) Az (1) bekezdésben foglaltaktól eltérően, Magyarország diplomáciai és konzuli képviseletein, a nemzetközi szervezetek mellett működő állandó képviseleteken, valamint más állami képviseleteken ügyviteli feladat ellátására nem kizárólag kormányzati szolgálati, illetve közszolgálati jogviszony létesíthető.
 
-(11) A (3) bekezdésben foglaltakon túlmenően abban az esetben is köthető megbízási, illetve vállalkozási szerződés, ha a Külügyminisztérium folyamatos működéséhez szükséges feladatellátás indokolja.
+(11) A (3) bekezdésben foglaltakon túlmenően abban az esetben is köthető megbízási, illetve vállalkozási szerződés, ha a külpolitikáért felelős miniszter által vezetett minisztérium folyamatos működéséhez szükséges feladatellátás indokolja.

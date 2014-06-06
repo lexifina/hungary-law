@@ -1,6 +1,6 @@
 134. § (1) Az illetménykiegészítés mértéke
 
-1. a Miniszterelnökségen,
+1.
 
 2. a minisztériumban és – a Központi Statisztikai Hivatal területi szervezeti egységei és a Nemzeti Adó- és Vámhivatal kivételével – a költségvetési fejezetet irányító más szervnél,
 

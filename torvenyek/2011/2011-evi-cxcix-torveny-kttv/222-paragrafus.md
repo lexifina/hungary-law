@@ -1,4 +1,4 @@
-222. § (1) A helyettes államtitkár e tisztségéről a miniszter útján a miniszterelnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat. A Miniszterelnökségen működő helyettes államtitkár a Miniszterelnökséget vezető államtitkár útján juttatja el lemondását a miniszterelnökhöz.
+222. § (1) A helyettes államtitkár e tisztségéről a miniszter útján a miniszterelnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat.
 
 (2) A helyettes államtitkár lemondása esetén a megbízatás megszűnésének időpontját a miniszter javaslatára a miniszterelnök határozza meg azzal, hogy az nem lehet későbbi a lemondásnak a miniszterelnökkel való közlését követő harmincadik napnál. A lemondási idő a megbízatás megszűnését követő napon kezdődik.
 

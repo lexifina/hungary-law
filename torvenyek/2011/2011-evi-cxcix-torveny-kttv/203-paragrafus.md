@@ -1,6 +1,6 @@
 ## Politikai tanácsadó, politikai főtanácsadó
 
-203. § (1) A Miniszterelnökséget vezető államtitkár miniszterelnökségi főtanácsadói és miniszterelnökségi tanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet a miniszterelnök tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
+203. § (1) A kormányzati tevékenység összehangolásáért felelős miniszter kormány-főtanácsadói és kormánytanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet a miniszterelnök tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
 
 (2) A kormányzati tevékenység összehangolásáért felelős miniszter kormány-főtanácsadói és kormánytanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet az általa vezetett minisztériumban a Kormány döntéseinek előkészítéséhez közvetlenül kapcsolódó feladatok ellátására.
 
@@ -18,7 +18,7 @@
 
 (9) A politikai főtanácsadó, politikai tanácsadó felett a munkáltatói jogokat
 
-a) az (1) bekezdés esetében a Miniszterelnökséget vezető államtitkár,
+a) az (1) bekezdés esetében a kormányzati tevékenység összehangolásáért felelős miniszter,
 
 b) a (2) bekezdés esetében a kormányzati tevékenység összehangolásáért felelős miniszter,
 

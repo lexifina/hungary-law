@@ -6,7 +6,7 @@
 
 (2) Kormányzati szolgálati jogviszony – ha törvény eltérően nem rendelkezik – tartósan távollevő kormánytisztviselő helyettesítése céljából vagy esetenként szükségessé váló feladat elvégzésére, illetve tartós külszolgálat ellátására létesíthető határozott időre.
 
-(3) A határozott idejű kormányzati szolgálati jogviszony időtartamát naptárilag vagy más alkalmas módon – így különösen meghatározott munka elvégzéséhez, feladat ellátásához vagy esemény bekövetkeztéhez kötődően – kell meghatározni. A kormányzati szolgálati jogviszony megszűnésének időpontja nem függhet kizárólag az államigazgatási szerv, illetve a kormánytisztviselő akaratától, ha a felek a kormányzati szolgálati jogviszony időtartamát nem naptárilag határozták meg. Ez utóbbi esetben a munkáltatói jogkör gyakorlója tájékoztatja a kormánytisztviselőt a kormányzati szolgálati jogviszony várható időtartamáról.
+(3) A határozott idejű kormányzati szolgálati jogviszony időtartamát naptárilag vagy más alkalmas módon – így különösen meghatározott munka elvégzéséhez, feladat ellátásához vagy esemény bekövetkeztéhez kötődően – kell meghatározni. A kormányzati szolgálati jogviszony megszűnésének időpontja – tartós külszolgálat megszüntetése kivételével – nem függhet kizárólag az államigazgatási szerv, illetve a kormánytisztviselő akaratától, ha a felek a kormányzati szolgálati jogviszony időtartamát nem naptárilag határozták meg. Ez utóbbi esetben a munkáltatói jogkör gyakorlója tájékoztatja a kormánytisztviselőt a kormányzati szolgálati jogviszony várható időtartamáról.
 
 (4) A kormányzati szolgálati jogviszonyt határozatlan idejűnek kell tekinteni, ha a határozott időre történő kinevezés nem felel meg a (2) bekezdésben foglaltaknak.
 
