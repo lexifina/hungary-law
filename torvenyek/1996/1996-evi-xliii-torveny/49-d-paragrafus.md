@@ -2,7 +2,7 @@
 
 a) a 42. § (2) bekezdés a) és b) pontjában meghatározott szerveknél, továbbá
 
-b) az Információs Hivatal állománya tekintetében a Miniszterelnökségen.
+b)
 
 (2) A hivatásos állománynak az (1) bekezdésben meghatározott szervekhez hivatásos szolgálati beosztás betöltésére vezényelt tagja
 
