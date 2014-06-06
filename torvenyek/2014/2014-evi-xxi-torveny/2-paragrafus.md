@@ -1,0 +1,3 @@
+## 2. A Magyar Köztársaság és a Szocialista Szovjet Köztársaságok Szövetsége között Moszkvában, az 1947. évi július hó 15-én aláírt kereskedelmi és tengerhajózási szerződés becikkelyezéséről szóló 1947. évi XXVIII. törvény módosítása
+
+2. § A Magyar Köztársaság és a Szocialista Szovjet Köztársaságok Szövetsége között Moszkvában, az 1947. évi július hó 15-én aláírt kereskedelmi és tengerhajózási szerződés becikkelyezéséről szóló 1947. évi XXVIII. törvény 3. §-ában a „külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért” szövegrész helyébe a „külgazdasági ügyekért” szöveg lép.

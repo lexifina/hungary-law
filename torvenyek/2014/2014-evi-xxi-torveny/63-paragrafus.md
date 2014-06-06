@@ -1,0 +1,7 @@
+## 39. A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény módosítása
+
+63. § A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény 1. alcíme a következő 19/H. §-sal egészül ki:
+
+„19/H. § (1) A Miniszterelnökségen az egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szóló törvénnyel összefüggő módosításáról szóló 2014. évi XXI. törvény (a továbbiakban: Mftvá.) hatálybalépését megelőző napon miniszterelnökségi tanácsadói munkakört betöltő kormánytisztviselő kormánytanácsadói, miniszterelnökségi főtanácsadói munkakört betöltő kormánytisztviselő kormány-főtanácsadói munkakörben tölti be kormányzati szolgálati jogviszonyát az Mftvá. hatálybalépése napjától.
+
+(2) Ha a kormánytisztviselő az Mftvá. hatálybalépésekor kormány-főtanácsadó vagy kormánytanácsadó munkakört tölt be és az általa ellátott feladat olyan minisztériumhoz kerül, amelyben a Kttv. alapján kormány-főtanácsadói vagy kormánytanácsadói munkakör létesítésére nincs lehetőség, az Mftvá. hatálybalépése hónapjának utolsó napjáig ilyen munkakörben alkalmazható. Az új munkáltatói jogkör gyakorlója az ilyen kormánytisztviselőt az ezt követő nappal a Kttv. 125. § (7) bekezdése alapján egyoldalú, írásba foglalt döntésével az államigazgatási szervre vonatkozó szabályok szerint felajánlható másik munkakörbe helyezi át.”
