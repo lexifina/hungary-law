@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-66-00-00
 | 2014-02-25 | 2014. évi XV. törvény | 1992-66-00-00.64 |
 | 2014-03-01 | 2013. évi CCXVIII. törvény | 1992-66-00-00.65 |
 | 2014-03-15 | 2014. évi XV. törvény | 1992-66-00-00.66 |
+| 2014-06-06 | 2014. évi XXI. törvény | 1992-66-00-00.67 |
