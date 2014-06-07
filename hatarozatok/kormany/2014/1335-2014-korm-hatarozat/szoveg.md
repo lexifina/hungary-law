@@ -24,4 +24,6 @@ irányuló javaslatok előkészítésében, koncepciók kidolgozásában.
 
 5. Ez a határozat a közzététele napján 22 órakor lép hatályba.
 
-6. Hatályát veszti a magyar–orosz gazdasági kapcsolatokért és a magyar–kínai kétoldalú kapcsolatok összehangolásért felelős kormánybiztos kinevezéséről és feladatairól szóló 1101/2013. (III. 4.) Korm. határozat.
+6.[^2]
+
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
