@@ -1,3 +1,3 @@
 ## 29. Az egyrészről az Európai Közösség és tagállamai, másrészről a Dél-afrikai Fejlesztési Közösség Gazdasági Partnerségi Megállapodásában részt vevő államok közötti gazdasági partnerségi megállapodásra irányuló átmeneti megállapodás kihirdetéséről szóló 2010. évi XLI. törvény módosítása
 
-31. § Az egyrészről az Európai Közösség és tagállamai, másrészről a Dél-afrikai Fejlesztési Közösség Gazdasági Partnerségi Megállapodásában részt vevő államok közötti gazdasági partnerségi megállapodásra irányuló átmeneti megállapodás kihirdetéséről szóló 2010. évi XLI. törvény 5. § (4) bekezdésében a „külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért” szövegrész helyébe a „külgazdasági ügyekért” szöveg lép.
+31. §

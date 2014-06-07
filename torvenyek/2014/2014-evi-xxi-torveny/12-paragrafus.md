@@ -1,3 +1,3 @@
 ## 12. A Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Kormánya között a határmenti árucsere- és szolgáltatás-forgalomról, valamint gazdasági együttműködésről szóló, Budapesten 1976. március 20-án aláírt Egyezmény kihirdetéséről szóló 1976. évi 32. törvényerejű rendelet módosítása
 
-12. § A Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Kormánya között a határmenti árucsere- és szolgáltatás-forgalomról, valamint gazdasági együttműködésről szóló, Budapesten 1976. március 20-án aláírt Egyezmény kihirdetéséről szóló 1976. évi 32. törvényerejű rendelet 3. §-ában a „külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért” szövegrész helyébe a „külgazdasági ügyekért” szöveg lép.
+12. §
