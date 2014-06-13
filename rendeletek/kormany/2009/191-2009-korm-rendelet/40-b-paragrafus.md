@@ -1,8 +1,8 @@
-## A bírósági értesítéssel és a nemfizetési jelzéssel kapcsolatos eljárás[^276]
+## A bírósági értesítéssel és a nemfizetési jelzéssel kapcsolatos eljárás[^279]
 
-40/B. §[^277] (1)[^278] Az Étv. 58. § (11) bekezdése szerinti bírósági értesítéseknek az e-szankció elektronikus alkalmazásban történő rögzítését az OÉNY üzemeltetője köteles a beérkezést követően haladéktalanul, de legkésőbb a beérkezést követő munkanapon elvégezni. Az üzemeltető a rögzítéssel egyidejűleg az MKIK-t elektronikus úton értesíti. Az Étv. 58. § (11) bekezdése szerinti bírósági értesítéssel egyenértékűnek tekintendő, ha az MKIK tudomására jut olyan egyéb jogerős érdemi bírósági határozat, vagy jogerős fizetési meghagyás, amely ugyanazon adatokat tartalmazza.
+40/B. §[^280] (1)[^281] Az Étv. 58. § (11) bekezdése szerinti bírósági értesítéseknek az e-szankció elektronikus alkalmazásban történő rögzítését az OÉNY üzemeltetője köteles a beérkezést követően haladéktalanul, de legkésőbb a beérkezést követő munkanapon elvégezni. Az üzemeltető a rögzítéssel egyidejűleg az MKIK-t elektronikus úton értesíti. Az Étv. 58. § (11) bekezdése szerinti bírósági értesítéssel egyenértékűnek tekintendő, ha az MKIK tudomására jut olyan egyéb jogerős érdemi bírósági határozat, vagy jogerős fizetési meghagyás, amely ugyanazon adatokat tartalmazza.
 
-(2)[^279] A vállalkozó kivitelező
+(2)[^282] A vállalkozó kivitelező
 
 a) teljes bizonyító erejű magánokiratba foglalt, vagy közvetítői eljárás eredményeként létrejött egyezséggel,
 
@@ -42,7 +42,7 @@ c) tájékoztatja a feleket arról, hogy a határidő eredménytelen lejártát 
 
 (6) A (3) és az (5) bekezdésben meghatározott igazolás határidőben történő megérkezése esetén az MKIK az eljárást 8 napon belül megszünteti és a bejelentőt erről, valamint arról értesíti, hogy az eljárás megszüntetése a díjigény egyéb úton történő érvényesítését nem érinti.
 
-[^276]: A 40/B. §-t megelőző alcímet a 109/2013. (IV. 9.) Korm. rendelet 2. § (17) bekezdése iktatta be.
-[^277]: A 40/B. §-t a 109/2013. (IV. 9.) Korm. rendelet 2. § (17) bekezdése iktatta be.
-[^278]: A 40/B. § (1) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^279]: A 40/B. § (2) bekezdés záró szövegrésze a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
+[^279]: A 40/B. §-t megelőző alcímet a 109/2013. (IV. 9.) Korm. rendelet 2. § (17) bekezdése iktatta be.
+[^280]: A 40/B. §-t a 109/2013. (IV. 9.) Korm. rendelet 2. § (17) bekezdése iktatta be.
+[^281]: A 40/B. § (1) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^282]: A 40/B. § (2) bekezdés záró szövegrésze a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.

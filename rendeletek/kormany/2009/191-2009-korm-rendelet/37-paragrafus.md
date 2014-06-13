@@ -1,6 +1,6 @@
 37. § (1) Az MKIK
 
-a)[^270] megtiltja a vállalkozó kivitelezőnek a kivitelezői tevékenység folytatását és ezzel egyidejűleg – a nyilvántartási szám hatálytalanítása mellett – törli a vállalkozó kivitelezőt a nyilvántartásból, ha
+a)[^273] megtiltja a vállalkozó kivitelezőnek a kivitelezői tevékenység folytatását és ezzel egyidejűleg – a nyilvántartási szám hatálytalanítása mellett – törli a vállalkozó kivitelezőt a nyilvántartásból, ha
 
 aa) a vállalkozó kivitelezői tevékenység bejelentésére előírt feltételeket nem teljesíti, vagy
 
@@ -14,7 +14,7 @@ bb) határozott időre szóló bejelentés esetén a bejelentés hatálya megsz�
 
 bc) a vállalkozó kivitelező megszűnik, a megszűnés időpontjával.
 
-(1a)[^271] Az MKIK a nyilvántartási szám hatálytalanítása mellett törli a vállalkozó kivitelezőt a nyilvántartásból, ha
+(1a)[^274] Az MKIK a nyilvántartási szám hatálytalanítása mellett törli a vállalkozó kivitelezőt a nyilvántartásból, ha
 
 a) az Étv. 58. § (11) bekezdése szerinti bírósági értesítés, vagy
 
@@ -22,10 +22,10 @@ b) nemfizetési jelzés
 
 alapján megállapított fizetési kötelezettségének teljesítését a 40/B. § (3) vagy (5) bekezdése szerint nem igazolta.
 
-(1b)[^272] Az (1) bekezdés a) pont ab) alpontja és az (1a) bekezdés szerinti törlés jogkövetkezményei nem érintik a törlési határozat jogerőssé válása előtt megkötött szerződésekből eredő jogokat és kötelezettségeket.
+(1b)[^275] Az (1) bekezdés a) pont ab) alpontja és az (1a) bekezdés szerinti törlés jogkövetkezményei nem érintik a törlési határozat jogerőssé válása előtt megkötött szerződésekből eredő jogokat és kötelezettségeket.
 
 (2) A Szolgtv. III. Fejezetében foglalt követelmények betartásának ellenőrzése tekintetében szolgáltatás felügyeletét ellátó hatóságként az MKIK jár el.
 
-[^270]: A 37. § (1) bekezdés a) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (15) bekezdésével megállapított szöveg.
-[^271]: A 37. § (1a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (16) bekezdése iktatta be.
-[^272]: A 37. § (1b) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (16) bekezdése iktatta be.
+[^273]: A 37. § (1) bekezdés a) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (15) bekezdésével megállapított szöveg.
+[^274]: A 37. § (1a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (16) bekezdése iktatta be.
+[^275]: A 37. § (1b) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (16) bekezdése iktatta be.
