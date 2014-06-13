@@ -1,1 +1,0 @@
-## 6. § Ez a rendelet a 2008. szeptember 1-jén lép hatályba, rendelkezéseit a hatálybalépését követően kötött szerződésekre, illetve a hatálybalépését követően tett, az 1. § (3) bekezdése szerinti ajánlatokra kell alkalmazni.
