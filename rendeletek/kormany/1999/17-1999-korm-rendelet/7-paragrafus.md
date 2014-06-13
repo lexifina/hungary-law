@@ -1,9 +1,0 @@
-7. § (1)[^24] Ha a felek a teljesítés időpontjában nem állapodtak meg, a vállalkozás a szolgáltatás rendeltetéséből kétségtelenül megállapítható időpontban, ennek hiányában a fogyasztó felszólításában meghatározott időpontban vagy időn belül, felszólítás hiányában legkésőbb a megrendelésnek a vállalkozáshoz való megérkezésétől számított harminc napon belül köteles a szerződés szerinti teljesítésre.
-
-(2)[^25] Ha a vállalkozás a szerződésben vállalt kötelezettségét azért nem teljesíti, mert a szerződésben meghatározott termék nem áll rendelkezésére, illetve a megrendelt szolgáltatást nem áll módjában nyújtani, köteles erről a fogyasztót haladéktalanul tájékoztatni, valamint a fogyasztó által fizetett összeget haladéktalanul, de legkésőbb harminc napon belül visszatéríteni. E kötelezettség teljesítése a vállalkozást nem mentesíti szerződésszegése egyéb következményei alól.
-
-(3)[^26] Ha a vállalkozás a szerződésben meghatározott módon helyettesítő termékkel, illetve szolgáltatással teljesít, a 4. § szerinti elállási jog gyakorlása folytán a termék visszaszolgáltatásával kapcsolatban felmerült költségek a vállalkozást terhelik. A költségek viseléséről, valamint a megfelelően helyettesítő termékkel, illetve szolgáltatással történő teljesítésről a vállalkozás egyértelműen és pontosan köteles a fogyasztót tájékoztatni.
-
-[^24]: A 7. § (1) bekezdése a 71/2009. (IV. 2.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^25]: A 7. § (2) bekezdése a 2/2006. (I. 4.) Korm. rendelet 4. § (2) bekezdése a) pontjának aa) és ae) alpontja, a 217/2008. (VIII. 29.) Korm. rendelet 3. § (9) bekezdés b), g) és j) pontja szerint módosított szöveg.
-[^26]: A 7. § (3) bekezdése a 2/2006. (I. 4.) Korm. rendelet 4. § (2) bekezdése a) pontjának aa) és ae) alpontja, a 217/2008. (VIII. 29.) Korm. rendelet 3. § (9) bekezdés b), e), j) és k) pontja szerint módosított szöveg.
