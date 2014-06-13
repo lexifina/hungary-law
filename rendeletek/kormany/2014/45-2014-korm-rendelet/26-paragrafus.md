@@ -1,0 +1,5 @@
+## 25. § A fogyasztó csak a termék jellegének, tulajdonságainak és működésének megállapításához szükséges használatot meghaladó használatból eredő értékcsökkenésért felel. Nem felel a fogyasztó az értékcsökkenésért, ha a vállalkozás a 11. § (1) bekezdésének i) pontjában előírt tájékoztatási kötelezettségének nem tett eleget.
+
+26. § (1) Ha a 13. § vagy a 19. § szerinti esetben a fogyasztó a teljesítés megkezdését követően felmondja az üzlethelyiségen kívül vagy távollévők között kötött szerződést, az elszámolás során a fogyasztó által arányosan fizetendő összeget a szerződésben megállapított ellenszolgáltatás adóval növelt teljes összege alapján kell kiszámítani. Ha azonban a fogyasztó bizonyítja, hogy a teljes összeg túlzottan magas, az arányos összeget a szerződés megszűnésének időpontjáig teljesített szolgáltatások piaci értéke alapján kell kiszámítani.
+
+(2) E § alkalmazásában a piaci érték megállapításánál az azonos tevékenységet végző vállalkozások azonos szolgáltatásának a szerződés megkötésének időpontja szerinti ellenértékét kell figyelembe venni.

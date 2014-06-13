@@ -1,0 +1,29 @@
+## 2. § Nem terjed ki a rendelet hatálya:
+
+a) a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti szociális szolgáltatásokra;
+
+b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti gyermekjóléti alapellátásokra és gyermekvédelmi szakellátásokra;
+
+c) az egészségügyről szóló törvény szerinti egészségügyi ellátásra irányuló szerződésre;
+
+d) a szerencsejáték szervezéséről szóló törvény szerinti szerencsejátékkal kapcsolatos szerződésre;
+
+e) a pénzügyi szolgáltatással kapcsolatos szerződésre;
+
+f) az ingatlan tulajdonjogának megszerzésére, vagy átruházására irányuló szerződésre, kivéve a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló törvény szerinti ingatlanközvetítői tevékenységre, valamint ingatlanvagyon-értékelő és közvetítői tevékenységre irányuló szerződést;
+
+g) olyan kivitelezési szerződésre, amelynek tárgya új építmény építése, vagy meglévő építmény, építményrész, önálló rendeltetési egység vagy helyiség jelentős átalakítása;
+
+h) a lakóépület lakáscélú bérbeadására irányuló szerződésre, kivéve a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló törvény szerinti ingatlanközvetítői tevékenységre, valamint ingatlanvagyon-értékelő és közvetítői tevékenységre irányuló szerződést;
+
+i) az utazási szerződésre;
+
+j) a szállás időben megosztott használati jogára, a hosszú távra szóló üdülési termékekre vonatkozó szerződésekről, valamint a tartós szálláshasználati szolgáltatási tevékenységről szóló kormányrendelet hatálya alá tartozó szerződésre;
+
+k) a közjegyző által okiratba foglalt szerződésre;
+
+l) élelmiszer és egyéb mindennapi fogyasztásra szánt terméknek a fogyasztó lakóhelyére, tartózkodási helyére vagy munkahelyére történő gyakori és rendszeres szállítására vonatkozó szerződésre;
+
+m) az automata vagy automatizált üzlethelyiség útján kötött szerződésre;
+
+n) az elektronikus hírközlési szolgáltatóval nyilvános telefonállomás igénybevétele útján annak igénybevétele céljából, vagy telefon-, internet- vagy telefax-összeköttetés egyszeri igénybevétele céljából kötött szerződésre.
