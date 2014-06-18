@@ -6,4 +6,4 @@
 
 (4) A szavazatszámláló bizottság és a választópolgárok részére a szavazóhelyiségben és a szavazófülkékben – megfelelő módon rögzítve – tollat kell elhelyezni.
 
-(5) Abban a szavazóhelyiségben, amelynek szavazóköri névjegyzékében olyan választópolgár szerepel, aki a 88. § c) pontja szerinti segítséget igényelte, Braille-írással ellátott szavazósablont kell biztosítani.
+(5) Abban a szavazóhelyiségben, amelynek szavazóköri névjegyzékében olyan választópolgár szerepel, aki legkésőbb a szavazást megelőző kilencedik napon a 88. § c) pontja szerinti segítséget igényelte, Braille-írással ellátott szavazósablont kell biztosítani.
