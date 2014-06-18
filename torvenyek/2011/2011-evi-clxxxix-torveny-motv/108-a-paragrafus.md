@@ -1,4 +1,4 @@
-108/A. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (1) bekezdése szerinti versenyeztetés mellőzhető:
+108/A. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 13. § (1) bekezdése szerinti versenyeztetés mellőzhető:
 
 a) a helyi önkormányzat tulajdonában álló nemzeti vagyon gazdasági társaság részére, nem pénzbeli vagyoni hozzájárulásként történő rendelkezésre bocsátásakor,
 
