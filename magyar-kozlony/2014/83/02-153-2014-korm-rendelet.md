@@ -1,0 +1,159 @@
+# A Kormány 153/2014. (VI. 18.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 83. szám, 2014. június 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/3273bb53c9d76c02d03837032b39657e0b9720ef/dokumentumok/cc3a2c0f331665984edb0eb1289b6f56f37f9a88/letoltes)
+
+---
+
+A Kormány 153/2014. (VI. 18.) Korm. rendelete
+az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 4., 15., 16., 19. és 26. pontjában kapott
+felhatalmazás alapján,
+a 2. alcím tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+a 3. alcím tekintetében a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény 76. § (1) bekezdés
+d) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
+módosítása
+1. §
+Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 72. § (2) bekezdés
+d) pontja helyébe a következő rendelkezés lép:
+(A kedvezményezettől írásbeli nyilatkozatot kell kérni)
+„d) arról, hogy
+da) megfelel az Áht. 50. § (1) bekezdésében meghatározott követelményeknek vagy a 76. § (1a) bekezdése szerinti
+esetben vállalja annak határidőre történő teljesítését és
+db) az Áht. 109. § (4) bekezdése alapján kiadott miniszteri rendelet szerint vizsgálandó jogi személy, jogi
+személyiséggel nem rendelkező szervezet adatait rendelkezésre bocsátja,”
+2. §
+Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 76. §-a a következő
+(1a) bekezdéssel egészül ki:
+„(1a) Egyedi döntéssel költségvetési támogatás kivételesen átlátható szervezetnek nem minősülő jogi személy vagy
+jogi személyiséggel nem rendelkező más szervezet számára az Áht. 50. § (1) bekezdés c) pontjában meghatározott
+feltétel fennállása hiányában akkor is biztosítható, ha az átlátható szervezetként való elismerhetőségéhez szükséges
+– tulajdonosi, igazgatási vagy egyéb – intézkedések megtételét vállalja. Ebben az esetben támogatói okirat addig
+nem adható ki, illetve a támogatási szerződés addig nem lép hatályba, amíg a kedvezményezett nem felel meg
+az Áht. 50. § (1) bekezdés c) pontjában meghatározott feltételnek.”
+3. §
+Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 82. §-a a következő
+j) ponttal egészül ki:
+(A támogató jogszabályban vagy a támogatói okiratban, támogatási szerződésben meghatározott egyéb esetek
+mellett jogosult a támogatási szerződéstől elállni, azt felmondani, támogatói okirat alkalmazása esetén a támogatás
+visszavonásáról rendelkezni, ha az alábbiakban foglalt feltételek közül legalább egy bekövetkezik:)
+„j) a kedvezményezett a 76. § (1a) bekezdése szerinti kötelezettségét a 72. § (2) bekezdés d) pont da) alpontja
+szerinti nyilatkozatában meghatározott határidőre nem teljesíti.”
+4. §
+Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklete helyébe
+az 1. melléklet lép.
+5. §
+Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
+a) 66. § (5) bekezdésében, 71. § (3) bekezdésében, 77. § (3) bekezdésében, 78. § (3) bekezdés c) pontjában
+és (8) bekezdésében, 78/A. § (3) bekezdésében, 80. § (2) bekezdésében, 84. § (10) bekezdésében,
+102. § (1) bekezdésében, 103. § (1) és (2) bekezdésében, 104. § (1) bekezdés a) pontjában,
+106. § (1) bekezdésében, 140. § (9) bekezdésében és 142. § (1) bekezdésében a „költségvetésről szóló
+törvény”szövegrész helyébe a„költségvetés”szöveg,
+
+b) 82. § h) pontjában az„intézkedik, vagy”szövegrész helyébe az„intézkedik,”szöveg,
+c) 82. § i) pontjában a„rendelkezik.”szövegrész helyébe a„rendelkezik, vagy”szöveg,
+d) 104. § (7) bekezdés b) pontjában az„az Áht.”szövegrész helyébe az„a központi költségvetés Áht.”szöveg,
+e) 164. § (1) bekezdésében a „külpolitikáért felelős miniszter és a külgazdaságért és a Kárpát-medencei
+Gazdasági Övezet gazdaságfejlesztéséért”szövegrész helyébe a„külgazdasági ügyekért”szöveg,
+f) 179. § (1) bekezdésében az„az Áht. 14. § (3) bekezdése szerinti fejezetből” szövegrész helyébe az„a központi
+költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből”szöveg
+lép.
+2. A Nemzeti Fejlesztési Kormánybizottságról szóló 140/2012. (VII. 2.) Korm. rendelet módosítása
+6. §
+A Nemzeti Fejlesztési Kormánybizottságról szóló 140/2012. (VII. 2.) Korm. rendelet 5. § d) pontja helyébe a következő
+rendelkezés lép:
+(Az NFK)
+„d) megtárgyalja és Kormány általi megtárgyalásra javasolja a külgazdasági ügyekért felelős miniszter és a fejlesztési
+célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért felelős miniszter által parafált támogatási
+szerződéstervezetek alapján, a külgazdasági ügyekért felelős miniszter által előterjesztett, egyedi kormánydöntéssel
+nyújtott támogatásról szóló kormány-előterjesztést.”
+7. §
+A Nemzeti Fejlesztési Kormánybizottságról szóló 140/2012. (VII. 2.) Korm. rendelet
+a) 4. §-ában a „Miniszterelnökség” szövegrész helyébe a „kutatás-fejlesztésért és technológiai innovációért
+felelős miniszter”szöveg,
+b) 5. § a) pontjában az „a nemzeti fejlesztési” szövegrész helyébe az „az állami infrastruktúra-beruházásokért
+felelős”szöveg
+lép.
+3. A Kormány egyedi döntéseivel megítélhető regionális beruházási támogatás szabályairól
+és a Beruházás ösztönzési célelőirányzat felhasználásának szabályairól szóló
+270/2012. (IX. 25.) Korm. rendelet módosítása
+8. §
+A Kormány egyedi döntéseivel megítélhető regionális beruházási támogatás szabályairól és a Beruházás ösztönzési
+célelőirányzat felhasználásának szabályairól szóló 270/2012. (IX. 25.) Korm. rendelet 5. § (1) és (2) bekezdése helyébe
+a következő rendelkezések lépnek:
+„(1) A szakmai ellenjegyző felelős a támogatási eljárások során felmerülő szakmai és szakma-stratégiai kérdés
+megvizsgálásáért, az ehhez kapcsolódó és ebből adódó eljárási, igazgatási feladatok ellátásáért és előkészítéséért.
+(2) Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 48. § (2) bekezdése szerinti személy
+(a továbbiakban: támogató) a BC-vel összefüggésben ellátja az Áht.-ban és az államháztartásról szóló törvény
+végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben (a továbbiakban: Ávr.) a támogató feladat- és
+hatáskörébe utalt feladatokat.”
+9. §
+A Kormány egyedi döntéseivel megítélhető regionális beruházási támogatás szabályairól és a Beruházás ösztönzési
+célelőirányzat felhasználásának szabályairól szóló 270/2012. (IX. 25.) Korm. rendelet
+a) 3. alcímének címében a„szervezetek”szövegrész helyébe a„szervek”szöveg,
+b) 4. § 22. pontjában a „külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért”
+szövegrész helyébe a„külgazdasági ügyekért”szöveg,
+c) 6. § (1) bekezdésében, 29. § (4) bekezdésében a„szervezet”szövegrész helyébe a„szerv”szöveg
+lép.
+10. §
+Hatályát veszti a Kormány egyedi döntéseivel megítélhető regionális beruházási támogatás szabályairól és
+a Beruházás ösztönzési célelőirányzat felhasználásának szabályairól szóló 270/2012. (IX. 25.) Korm. rendelet
+4. § 10. pontja.
+
+4. Záró rendelkezések
+11. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Dr. Semjén Zsolt s. k.,
+ miniszterelnök-helyettes
+1. melléklet a 153/2014. (VI. 18.) Korm. rendelethez
+„1. melléklet a 368/2011. (XII. 31.) Korm. rendelethez
+A fejezetet irányító szerv és annak vezetője
+1. a központi költségvetés I. fejezeténél az Országgyűlés Hivatala és annak főigazgatója, a Közbeszerzési Hatóság
+tekintetében a Közbeszerzési Hatóság és annak elnöke, a Nemzeti Adatvédelmi és Információszabadság Hatóság
+tekintetében a Nemzeti Adatvédelmi és Információszabadság Hatóság és annak elnöke, az Egyenlő Bánásmód
+Hatóság tekintetében az Egyenlő Bánásmód Hatóság és annak elnöke, a 8–10. cím tekintetében a Kormánynak
+a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet (a továbbiakban: Ktfr.)
+90. §-a szerinti tagja, a Magyar Energetikai és Közmű-szabályozási Hivatal tekintetében a Magyar Energetikai és
+Közmű-szabályozási Hivatal és annak elnöke, a Nemzeti Választási Iroda tekintetében a Nemzeti Választási Iroda és
+annak elnöke,
+2. a központi költségvetés II. fejezeténél a Köztársasági Elnöki Hivatal és annak főigazgatója,
+3. a központi költségvetés III. fejezeténél az Alkotmánybíróság és annak elnöke,
+4. a központi költségvetés IV. fejezeténél az Alapvető Jogok Biztosának Hivatala és annak főtitkára,
+5. a központi költségvetés V. fejezeténél az Állami Számvevőszék és annak elnöke,
+6. a központi költségvetés VI. fejezeténél az Országos Bírósági Hivatal és annak elnöke,
+7. a központi költségvetés VIII. fejezeténél a Legfőbb Ügyészség és a legfőbb ügyész,
+8. a központi költségvetés IX. fejezeténél a Kormánynak a Ktfr. 21. §-a szerinti tagja,
+9. a központi költségvetés X. fejezeténél a Kormánynak a Ktfr. 79. §-a szerinti tagja, a Szellemi Tulajdon Nemzeti
+Hivatala tekintetében a Szellemi Tulajdon Nemzeti Hivatala és annak elnöke, a 24. cím tekintetében a Ktfr. 90. §-a
+szerinti tagja,
+10. a központi költségvetés XI. fejezeténél a Kormánynak a Ktfr. 4. §-a szerinti tagja, a Kormányzati Ellenőrzési Hivatal
+tekintetében a Kormányzati Ellenőrzési Hivatal és annak elnöke, a 17. és 18. cím tekintetében a Kormánynak a Ktfr.
+90. §-a szerinti tagja,
+11. a központi költségvetés XII. fejezeténél a Kormánynak a Ktfr. 65. §-a szerinti tagja,
+12. a központi költségvetés XIII. fejezeténél a Kormánynak a Ktfr. 77. §-a szerinti tagja,
+13. a központi költségvetés XIV. fejezeténél a Kormánynak a Ktfr. 21. §-a szerinti tagja,
+14. a központi költségvetés XV. fejezeténél a Kormánynak a Ktfr. 90. §-a szerinti tagja,
+15. a központi költségvetés XVI. fejezeténél a Nemzeti Adó- és Vámhivatal és annak elnöke,
+16. a központi költségvetés XVII. fejezeténél a Kormánynak a Ktfr. 109. §-a szerinti tagja, az Országos Atomenergia
+Hivatal tekintetében az Országos Atomenergia Hivatal és annak főigazgatója,
+17. a központi költségvetés XVIII. fejezeténél a Kormánynak a Ktfr. 85. §-a szerinti tagja,
+18. a központi költségvetés XIX. fejezeténél a Kormánynak a Ktfr. 4. §-a szerinti tagja,
+19. a központi költségvetés XX. fejezeténél a Kormánynak a Ktfr. 48. §-a szerinti tagja, a 21. cím tekintetében
+a Kormánynak a Ktfr. 90. §-a szerinti tagja,
+20. a központi költségvetés XXX. fejezeténél a Gazdasági Versenyhivatal és annak elnöke,
+21. a központi költségvetés XXXI. fejezeténél a Központi Statisztikai Hivatal és annak elnöke,
+22. a központi költségvetés XXXIII. fejezeténél a Magyar Tudományos Akadémia és annak elnöke,
+23. a központi költségvetés XXXIV. fejezeténél a Magyar Művészeti Akadémia és annak elnöke,
+24. a központi költségvetés XLI–XLII. fejezeténél a Kormánynak a Ktfr. 90. §-a szerinti tagja,
+
+25. a központi költségvetés XLIII. fejezeténél a Kormánynak a Ktfr. 109. §-a szerinti tagja,
+26. a központi költségvetés XLIV. fejezeténél a Kormánynak a Ktfr. 65. §-a szerinti tagja,
+27. a központi költségvetés LXXI. fejezeténél a Nyugdíjbiztosítási Alap tekintetében a Kormánynak a Ktfr. 48. §-a
+szerinti tagja, az Országos Nyugdíjbiztosítási Főigazgatóság és az igazgatási szervek tekintetében az Országos
+Nyugdíjbiztosítási Főigazgatóság vezetője,
+28. a központi költségvetés LXXII. fejezeténél az Egészségbiztosítási Alap tekintetében a Kormánynak a Ktfr. 48. §-a
+szerinti tagja, az Országos Egészségbiztosítási Pénztár tekintetében az Országos Egészségbiztosítási Pénztár
+vezetője,
+29. az elkülönített állami pénzalapok tekintetében az alappal való rendelkezésre jogosult, a felhasználásért felelős
+miniszter.”
