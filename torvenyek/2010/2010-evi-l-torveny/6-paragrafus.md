@@ -1,3 +1,9 @@
-6. § (1) A választópolgárok Budapest főváros közgyűlésének tagjait fővárosi listán választják meg. Ez esetben Budapest főváros egy választókerületet alkot.
+6. § A fővárosi közgyűlés
 
-(2) A fővárosi közgyűlés tagjainak számát a főváros lakosságszáma alapján kell meghatározni oly módon, hogy minden 50 000 lakos után egy képviselő választható.
+a) 1 tagja a főpolgármester-választás eredményeképpen,
+
+b) 23 tagja a fővárosi kerületi polgármester-választás eredményeképpen,
+
+c) 9 tagja a fővárosi kompenzációs listáról
+
+jut mandátumhoz.

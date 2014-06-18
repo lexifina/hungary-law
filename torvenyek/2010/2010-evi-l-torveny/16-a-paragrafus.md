@@ -1,3 +1,3 @@
-## 4. A fővárosi közgyűlés tagjainak választása
+## 4. A fővárosi közgyűlés nem fővárosi kerületi polgármester és nem főpolgármester tagjainak választása
 
-16/A. § A fővárosi közgyűlés tagjai választásának szavazólapján a választópolgár egy listára szavazhat.
+### 16/A. §
