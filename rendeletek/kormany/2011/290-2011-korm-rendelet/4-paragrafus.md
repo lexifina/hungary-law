@@ -1,15 +1,6 @@
-## 2. A parlamenti államtitkár feladat- és hatásköre
+## 3. §[^5]
 
-## 4. § A parlamenti államtitkár
+## 2.[^6]
 
-a) felügyeli a HM Tábori Lelkészi Szolgálat tevékenységét, egyetértési jogot gyakorol a HM Tábori Lelkészi Szolgálat szolgálati ágainak szervezeti és működési szabályzataival kapcsolatban,
-
-b) kapcsolatot tart a magyarországi vallási felekezetek képviselőivel a katonák vallásgyakorlását és lelki gondozását, valamint a HM Tábori Lelkészi Szolgálat működését érintő kérdésekben,
-
-c) összehangolja a Honvédség érdekképviseleti szervekkel történő együttműködését, képviseli a minisztert a Honvédelmi Érdekegyeztető Fórum ülésein,
-
-d) irányítja a katonai hagyományőrzéssel, a hadisírok, a hősi emlékművek és a hősi emlékhelyek gondozásával, fenntartásával és megőrzésével összefüggő tevékenységet,
-
-e) ellátja a Honvédelmi Idősügyi Tanács elnöki feladatait, és
-
-f) gyakorolja a jogszabályban és a közjogi szervezetszabályozó eszközben hatáskörébe utalt jogköröket, valamint ellátja mindazokat a feladatokat, amelyekkel a miniszter eseti jelleggel megbízza.
+[^5]: A 3. §-t a 152/2014. (VI. 6.) Korm. rendelet 136. § (2) bekezdése hatályon kívül helyezte.
+[^6]: A 2. alcímet címét a 154/2014. (VI. 18.) Korm. rendelet 2. § (2) bekezdés a) pontja hatályon kívül helyezte.

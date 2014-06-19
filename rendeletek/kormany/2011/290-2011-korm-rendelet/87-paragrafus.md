@@ -1,5 +1,5 @@
+## 86. §[^42]
+
 ## 41. Módosító rendelkezések
 
-87. §[^40]
-
-[^40]: A 87–94. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 86. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
