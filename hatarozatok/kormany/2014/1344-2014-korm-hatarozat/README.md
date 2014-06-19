@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1344-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-06-18 | 2014-1344-30-22.1 | 1344/2014. (VI. 18.) Korm. határozat |
+| 2014-06-19 | 2014-1344-30-22.2 | 2010: CXXX. törvény |
