@@ -36,7 +36,7 @@ d) olyan kutatás-fejlesztési projekt létrehozására vonatkozó beruházás, 
 
 9. kapcsolt vállalkozás: a csoportmentességi rendelet I. mellékletében meghatározott feltételeknek megfelelő vállalkozás,
 
-10. kezelő szervezet: a BC terhére nyújtott támogatásokkal összefüggő lebonyolítási és előirányzat kezelői feladatok ellátására az e rendeletben kijelölt szervezet,
+10.[^2]
 
 11. kötelező üzemeltetési időszak: a beruházás befejezését követő öt év, KKV esetében három év, amely egybe esik a fenntartási időszakkal,
 
@@ -60,7 +60,7 @@ d) olyan kutatás-fejlesztési projekt létrehozására vonatkozó beruházás, 
 
 21. saját forrás: a beruházó által a beruházáshoz igénybe vett állami támogatásnak nem minősülő forrás,
 
-22. szakmai ellenjegyző: a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszter,
+22.[^3] szakmai ellenjegyző: a külgazdasági ügyekért felelős miniszter,
 
 23. szén: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított nemzetközi kodifikációs rendszer értelmében kiváló minőségű, közepes minőségű és gyenge minőségű A és B csoportba sorolt szén,
 
@@ -70,10 +70,12 @@ d) olyan kutatás-fejlesztési projekt létrehozására vonatkozó beruházás, 
 
 26. támogatástartalom: a beruházó számára, akár több forrásból nyújtott állami támogatásnak a Kormányrendelet 2. mellékletében meghatározott módszer alapján számított összege,
 
-27.[^1]
+27.[^4]
 
 28. turizmust fejlesztő tevékenység: olyan tevékenység, amely turisztikai szolgáltatásokat, termékeket hoz létre, bővíti azok kínálatát, javítja minőségét, a fogadóképességet, növeli a meglévő turisztikai, vagy az azokhoz kapcsolódó létesítmények működési színvonalát, kivéve a kizárólag szálláshely fejlesztésére irányuló tevékenységet,
 
 29. újonnan létesített munkahelyek száma: a beruházás eredményeként közvetlenül létrejött új munkahelyek, amelyek a beruházáshoz köthető tevékenységhez kapcsolódnak, ideértve az olyan munkahelyeket is, amelyek a beruházás által létrehozott kapacitás kihasználtsági arányának növelése következtében jöttek létre, a beruházás megkezdését megelőző 12 hónap átlagos statisztikai állományi létszámmal összehasonlítva, azzal, hogy az újonnan létrehozott munkahelyek számának megállapításakor a részmunkaidős és az idénymunkás alkalmazottak a teljes munkaidőben alkalmazottak arányos törtrészének felelnek meg.
 
-[^1]: A 4. § 27. pontját az 550/2013. (XII. 30.) Korm. rendelet 80. §-a hatályon kívül helyezte.
+[^2]: A 4. § 10. pontját a 153/2014. (VI. 18.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^3]: A 4. § 22. pontja a 153/2014. (VI. 18.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^4]: A 4. § 27. pontját az 550/2013. (XII. 30.) Korm. rendelet 80. §-a hatályon kívül helyezte.

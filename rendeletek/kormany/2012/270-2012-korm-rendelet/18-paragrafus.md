@@ -20,8 +20,8 @@ d) a beruházást megelőző 3 év beruházásaira vonatkozó adatokat és
 
 e) a támogatás ösztönző hatására vonatkozó nyilatkozatot.
 
-f)[^7] a kedvezményezett nyilatkozatát arra vonatkozóan, hogy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja alapján átlátható szervezetnek minősül.
+f)[^12] a kedvezményezett nyilatkozatát arra vonatkozóan, hogy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja alapján átlátható szervezetnek minősül.
 
 (3) A kérelem befogadását a szakmai ellenjegyző a 17. §-ban foglaltaknak megfelelően visszaigazolja.
 
-[^7]: A 18. § (2) bekezdés f) pontját az 53/2014. (III. 3.) Korm. rendelet 37. § (1) bekezdése iktatta be.
+[^12]: A 18. § (2) bekezdés f) pontját az 53/2014. (III. 3.) Korm. rendelet 37. § (1) bekezdése iktatta be.

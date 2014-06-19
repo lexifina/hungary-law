@@ -2,10 +2,12 @@
 
 ## AZ EGYEDI TÁMOGATÁSI RENDSZER SZEREPLŐI
 
-## 3. Az egyedi támogatási rendszer szereplői, a kijelölt kezelő szervezetek és feladataik
+## 3. [^5] Az egyedi támogatási rendszer szereplői, a kijelölt kezelő szervek és feladataik
 
-5. § (1)[^2] A szakmai ellenjegyző felelős az eljárások során felmerülő, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet (a továbbiakban: R.) 73. § a), h), j), m), n), p)–v), x) és y) pontjában meghatározott feladatokkal összefüggő szakmai és szakma-stratégiai kérdés eldöntéséért, az ehhez kapcsolódó és ebből adódó eljárási, igazgatási feladatok ellátásáért és előkészítéséért.
+5. § (1)[^6] A szakmai ellenjegyző felelős a támogatási eljárások során felmerülő szakmai és szakma-stratégiai kérdés megvizsgálásáért, az ehhez kapcsolódó és ebből adódó eljárási, igazgatási feladatok ellátásáért és előkészítéséért.
 
-(2) A támogató az R. 84. § n) és 85. § c), h) és l) pontjában a fejlesztéspolitikáért való felelőssége körébe utalt feladat ellátásán túlmenően felelős valamennyi, az eljárások során felmerülő, BC-t érintő pénzügyi kérdésben, továbbá az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) szerinti támogatói feladatokat látja el.
+(2)[^7] Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 48. § (2) bekezdése szerinti személy (a továbbiakban: támogató) a BC-vel összefüggésben ellátja az Áht.-ban és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben (a továbbiakban: Ávr.) a támogató feladat- és hatáskörébe utalt feladatokat.
 
-[^2]: Az 5. § (1) bekezdése a 96/2014. (III. 25.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^5]: A 3. alcím címe a 153/2014. (VI. 18.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdése a 153/2014. (VI. 18.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^7]: Az 5. § (2) bekezdése a 153/2014. (VI. 18.) Korm. rendelet 8. §-ával megállapított szöveg.
