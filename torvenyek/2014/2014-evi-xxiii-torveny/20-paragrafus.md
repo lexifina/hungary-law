@@ -1,1 +1,0 @@
-20. § Az Mötv. 108/A. § (1) bekezdésében az „A nemzeti vagyonról szóló 2011. évi CXCVI. törvény” szövegrész helyébe az „A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.)” szöveg lép.
