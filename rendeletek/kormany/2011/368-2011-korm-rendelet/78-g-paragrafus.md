@@ -1,3 +1,3 @@
-78/G. §[^181]
+78/G. §[^187]
 
-[^181]: Az Ávr. 78/G. §-át a 497/2013. (XII. 29.) Korm. rendelet 36. §-a iktatta be, hatályon kívül helyezte a 23/2014. (II. 6.) Korm. rendelet 6. § (1) bekezdése.
+[^187]: Az Ávr. 78/G. §-át a 497/2013. (XII. 29.) Korm. rendelet 36. §-a iktatta be, hatályon kívül helyezte a 23/2014. (II. 6.) Korm. rendelet 6. § (1) bekezdése.

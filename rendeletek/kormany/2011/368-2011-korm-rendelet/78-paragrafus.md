@@ -1,6 +1,6 @@
-## [Az Áht. 52. § (2) bekezdéséhez][^172]
+## [Az Áht. 52. § (2) bekezdéséhez][^175]
 
-78. §[^173] (1) A költségvetési támogatás folyósítására a beszámoló, vagy – ha e rendelet szerint előírásra került – a részbeszámoló elfogadását követően kerülhet sor. A költségvetési támogatás a beszámoló vagy a részbeszámoló elfogadását megelőzően is folyósítható (a továbbiakban: támogatási előleg).
+78. §[^176] (1) A költségvetési támogatás folyósítására a beszámoló, vagy – ha e rendelet szerint előírásra került – a részbeszámoló elfogadását követően kerülhet sor. A költségvetési támogatás a beszámoló vagy a részbeszámoló elfogadását megelőzően is folyósítható (a továbbiakban: támogatási előleg).
 
 (2) A költségvetési támogatás Áht. 52. § (2) bekezdése szerinti módjára vonatkozó döntés meghozatala során figyelemmel kell lenni a költségvetési támogatás céljára, a támogatott tevékenység megvalósítási időszakának hosszára, a kedvezményezett saját forrásának mértékére.
 
@@ -10,7 +10,7 @@ a) az olyan költségvetési támogatásokra, melyek esetén a támogatott tevé
 
 b) a kincstári körbe tartozó kedvezményezettek részére nyújtott költségvetési támogatásokra, valamint a Kincstárnál vezetett fizetési számlára folyósított költségvetési támogatásokra,
 
-c) a központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásokra.
+c)[^177] a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásokra.
 
 (4) A költségvetési támogatás folyósítása
 
@@ -26,12 +26,14 @@ történő kifizetéssel lehetséges.
 
 (5) A (4) bekezdés b) pont bb) alpontja szerinti esetben a kifizetés feltétele, hogy a kedvezményezett a számla költségvetési támogatáson felüli összege kifizetését igazolja.
 
-(6)[^174] A költségvetési támogatásnak az államháztartás központi alrendszerébe tartozó költségvetési szerv kedvezményezett részére történő rendelkezésre bocsátása előirányzat-átcsoportosítással vagy a 34. § (2) és (2b) bekezdése szerint átutalással történik.
+(6)[^178] A költségvetési támogatásnak az államháztartás központi alrendszerébe tartozó költségvetési szerv kedvezményezett részére történő rendelkezésre bocsátása előirányzat-átcsoportosítással vagy a 34. § (2) és (2b) bekezdése szerint átutalással történik.
 
 (7) Fel kell függeszteni a költségvetési támogatás folyósítását, ha azt jogszabály előírja, vagy a támogatói okirat kiadását, támogatási szerződés megkötését követően a kedvezményezett olyan nyilatkozatot tesz, vagy a támogatás folyósítója olyan körülményről szerez tudomást, amely a költségvetési támogatás visszavonását, a támogatási szerződés felmondását vagy az attól történő elállást teheti szükségessé. A felfüggesztésről és annak okáról a kedvezményezettet haladéktalanul tájékoztatni kell.
 
-(8) A központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatások tekintetében az (1) bekezdést nem kell alkalmazni, a (2) és (4)–(7) bekezdést akkor kell alkalmazni, ha a 140–142. § és a 144. § eltérően nem rendelkezik.
+(8)[^179] A központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatások tekintetében az (1) bekezdést nem kell alkalmazni, a (2) és (4)–(7) bekezdést akkor kell alkalmazni, ha a 140–142. § és a 144. § eltérően nem rendelkezik.
 
-[^172]: Az Ávr. 78. §-át megelőző jogszabályi hivatkozás a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 9. pontja szerint módosított szöveg.
-[^173]: Az Ávr. 78. §-a a 497/2013. (XII. 29.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^174]: Az Ávr. 78. § (6) bekezdése a 64/2014. (III. 13.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^175]: Az Ávr. 78. §-át megelőző jogszabályi hivatkozás a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 9. pontja szerint módosított szöveg.
+[^176]: Az Ávr. 78. §-a a 497/2013. (XII. 29.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^177]: Az Ávr. 78. § (3) bekezdés c) pontja a 153/2014. (VI. 18.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^178]: Az Ávr. 78. § (6) bekezdése a 64/2014. (III. 13.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^179]: Az Ávr. 78. § (8) bekezdése a 153/2014. (VI. 18.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## [Az Áht. 53. § (2) és (3) bekezdéséhez][^188]
+## [Az Áht. 53. § (2) és (3) bekezdéséhez][^194]
 
 82. § A támogató jogszabályban vagy a támogatói okiratban, támogatási szerződésben meghatározott egyéb esetek mellett jogosult a támogatási szerződéstől elállni, azt felmondani, támogatói okirat alkalmazása esetén a támogatás visszavonásáról rendelkezni, ha az alábbiakban foglalt feltételek közül legalább egy bekövetkezik:
 
@@ -14,13 +14,16 @@ e) a kedvezményezett neki felróható okból megszegi a jogszabályban vagy a t
 
 f) a kedvezményezett a 72. § alapján adott nyilatkozatok bármelyikét visszavonja,
 
-g)[^189] a kedvezményezett a 80. § (6) bekezdése szerinti határidőig sem teljesítette vagy nem megfelelően teljesítette a részbeszámolási, beszámolási kötelezettségét,
+g)[^195] a kedvezményezett a 80. § (6) bekezdése szerinti határidőig sem teljesítette vagy nem megfelelően teljesítette a részbeszámolási, beszámolási kötelezettségét,
 
-h)[^190] a biztosíték megszűnik, megsemmisül vagy értéke egyébként számottevően csökken, és a kedvezményezett megfelelő új biztosíték, vagy a biztosíték értéke csökkenésének megfelelő további biztosíték nyújtásáról a támogató által megszabott ésszerű határidőn belül nem intézkedik, vagy
+h)[^196] a biztosíték megszűnik, megsemmisül vagy értéke egyébként számottevően csökken, és a kedvezményezett megfelelő új biztosíték, vagy a biztosíték értéke csökkenésének megfelelő további biztosíték nyújtásáról a támogató által megszabott ésszerű határidőn belül nem intézkedik,
 
-i)[^191] a kedvezményezett a támogatott tevékenységhez szükséges hatósági engedéllyel nem rendelkezik.
+i)[^197] a kedvezményezett a támogatott tevékenységhez szükséges hatósági engedéllyel nem rendelkezik, vagy
 
-[^188]: Az Ávr. 82. §-át megelőző jogszabályi hivatkozás a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 30. pontja szerint módosított szöveg.
-[^189]: Az Ávr. 82. § g) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 31. pontja szerint módosított szöveg.
-[^190]: Az Ávr. 82. § h) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 32. pontja szerint módosított szöveg.
-[^191]: Az Ávr. 82. § i) pontját a 497/2013. (XII. 29.) Korm. rendelet 38. § (1) bekezdése iktatta be.
+j)[^198] a kedvezményezett a 76. § (1a) bekezdése szerinti kötelezettségét a 72. § (2) bekezdés d) pont da) alpontja szerinti nyilatkozatában meghatározott határidőre nem teljesíti.
+
+[^194]: Az Ávr. 82. §-át megelőző jogszabályi hivatkozás a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 30. pontja szerint módosított szöveg.
+[^195]: Az Ávr. 82. § g) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 31. pontja szerint módosított szöveg.
+[^196]: Az Ávr. 82. § h) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 32. pontja, a 153/2014. (VI. 18.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^197]: Az Ávr. 82. § i) pontját a 497/2013. (XII. 29.) Korm. rendelet 38. § (1) bekezdése iktatta be, szövege a 153/2014. (VI. 18.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^198]: Az Ávr. 82. § j) pontját a 153/2014. (VI. 18.) Korm. rendelet 3. §-a iktatta be.

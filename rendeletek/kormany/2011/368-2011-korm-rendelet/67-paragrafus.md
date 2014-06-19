@@ -1,4 +1,4 @@
-67. § (1)[^141] A benyújtott pályázatnak – szükség szerint a pályázati kiírásban közölt formában elkészítve – tartalmaznia kell
+67. § (1)[^142] A benyújtott pályázatnak – szükség szerint a pályázati kiírásban közölt formában elkészítve – tartalmaznia kell
 
 a) a pályázó azonosító adatait, így különösen cégnevét (nevét), székhelyét (címét),
 
@@ -14,7 +14,7 @@ f) az igényelt költségvetési támogatás általános forgalmi adót is tarta
 
 g) a megvalósítás és a finanszírozás tervezett időbeni ütemezését,
 
-h)[^142] a rendelkezésre álló saját és egyéb forrás összegét, ezen belül
+h)[^143] a rendelkezésre álló saját és egyéb forrás összegét, ezen belül
 
 ha) az államháztartás központi alrendszeréből igényelt, kapott egyéb költségvetési támogatásból, valamint külföldi forrásokból származó összeget, és
 
@@ -22,12 +22,12 @@ hb) az államháztartáson belüli szervezettől, a kormányzati szektorba sorol
 
 i) a pályázati kiírásban előírt egyéb adatokat.
 
-(1a)[^143] A pályázat befogadását jogszabály vagy a pályázati kiírás a 72. § (2) és (3) bekezdése szerinti nyilatkozatok, dokumentumok benyújtásától teheti függővé.
+(1a)[^144] A pályázat befogadását jogszabály vagy a pályázati kiírás a 72. § (2) és (3) bekezdése szerinti nyilatkozatok, dokumentumok benyújtásától teheti függővé.
 
 (2) Ha a benyújtott pályázat nem felel meg a pályázati kiírásban meghatározott formai követelményeknek, és a pályázati kiírás lehetőséget nyújt a hiánypótlásra, megfelelő határidő kitűzésével – a hibák, hiányosságok egyidejű megjelölése mellett – fel kell szólítani a pályázót pályázatának kijavítására.
 
 (3) Ha a pályázó a hiánypótlást hibásan, hiányosan nyújtja be, a hiányosságokat nem pótolja a megadott határidőn belül, vagy a pályázati kiírás nem ad lehetőséget hiánypótlásra, a hibás, hiányos pályázat további vizsgálat nélkül elutasítható.
 
-[^141]: Az Ávr. 67. § (1) bekezdés nyitó szövegrésze a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 5. pontja szerint módosított szöveg.
-[^142]: Az Ávr. 67. § (1) bekezdés h) pontja a 497/2013. (XII. 29.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^143]: Az Ávr. 67. § (1a) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^142]: Az Ávr. 67. § (1) bekezdés nyitó szövegrésze a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 5. pontja szerint módosított szöveg.
+[^143]: Az Ávr. 67. § (1) bekezdés h) pontja a 497/2013. (XII. 29.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^144]: Az Ávr. 67. § (1a) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 27. § (2) bekezdése iktatta be.

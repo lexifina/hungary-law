@@ -44,9 +44,10 @@ s) a jogszabály vagy támogató által a pályázat részeként előírt egyéb
 
 (4)[^140] A pályázati kiírásban jogszabály által nem rendezett kérdésekről is lehet rendelkezni. A pályázati kiírás és a megkötött támogatási szerződés ellentmondása esetén a támogatási szerződés rendelkezései irányadóak.
 
-(5) Jogszabály eltérő rendelkezése hiányában a központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetének előirányzatai terhére biztosított költségvetési támogatás az Áht. 48. § (1) bekezdése szerinti egyedi elbírálás útján nyújtott költségvetési támogatásnak minősül, amelyek esetén támogató a költségvetési támogatás felhasználására vonatkozó részletszabályok megalkotásáért felelős miniszter.
+(5)[^141] Jogszabály eltérő rendelkezése hiányában a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetének előirányzatai terhére biztosított költségvetési támogatás az Áht. 48. § (1) bekezdése szerinti egyedi elbírálás útján nyújtott költségvetési támogatásnak minősül, amelyek esetén támogató a költségvetési támogatás felhasználására vonatkozó részletszabályok megalkotásáért felelős miniszter.
 
 [^137]: Az Ávr. 66. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
 [^138]: Az Ávr. 66. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
 [^139]: Az Ávr. 66. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
 [^140]: Az Ávr. 66. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^141]: Az Ávr. 66. § (5) bekezdése a 153/2014. (VI. 18.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-78/B. §[^176] (1) Európai uniós forrásból finanszírozott költségvetési támogatások esetén a támogatási előleg a költségvetési támogatás
+78/B. §[^182] (1) Európai uniós forrásból finanszírozott költségvetési támogatások esetén a támogatási előleg a költségvetési támogatás
 
 a) 25%-át, de legfeljebb háromszázmillió forintot,
 
@@ -18,4 +18,4 @@ nem haladhatja meg.
 
 (5) A Szolidaritási programok és a Belügyi Alapok keretében megítélhető költségvetési támogatások esetén támogatási előleg részletekben – de legfeljebb három részletben – nyújtható. A támogatási előleg első részletének legmagasabb mértéke a költségvetési támogatás összegének 37,5%-a, az ezt követő két további részlet legmagasabb mértéke 25%-a, illetve 22,5%-a azzal, hogy a költségvetési támogatás fennmaradó része csak az előlegrészletekkel való teljes elszámolás után biztosítható. Költségvetési szerv részére a tizenöt millió forint alatti költségvetési támogatás teljes összege előlegként folyósítható azzal a feltétellel, hogy nem megfelelő teljesítés esetén a fejezetet irányító szervnek intézkednie kell a jogosulatlanul igénybe vett támogatásnak az átadó fejezet részére történő visszafizetéséről.
 
-[^176]: Az Ávr. 78/B. §-át a 497/2013. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
+[^182]: Az Ávr. 78/B. §-át a 497/2013. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
