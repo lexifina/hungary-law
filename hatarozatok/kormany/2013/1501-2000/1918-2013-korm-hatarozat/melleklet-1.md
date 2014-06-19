@@ -256,6 +256,8 @@ A 2014. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 49. | C153/14 | Pásztázott Légtér 2014 légierő gyakorlat | MH ÖHP | Magyarország | II–IV. n.é. | 150 |
 
+| 50. | A160/14 | KHAAN QUEST 2014 gyakorlat | MH KDK | Mongólia | II–III. n.é. | 50 |
+
 3. A magyar fegyveres erők részvétele nélkül tervezett, külföldi fegyveres erők esetleges átvonulásával járó NATO gyakorlatok és kiképzések
 
 | A gyakorlat megnevezése | A gyakorlat tervezett helye | A gyakorlat tervezett időpontja | Engedélyezett létszám |
@@ -301,4 +303,4 @@ A 2014. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 9. | A Pápán települő NATO Stratégiai Légiszállítási tevékenységgel kapcsolatos csapatmozgások | 2014. I–IV. n. é. | egyidejűleg legfeljebb 1000 fő |
 
 [^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1169/2014. (III. 26.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1169/2014. (III. 26.) Korm. határozat 1. pontja, az 1343/2014. (VI. 18.) Korm. határozat 1. pontja szerint módosított szöveg.
