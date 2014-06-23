@@ -22,7 +22,7 @@ Jegyző:
 
 dr. Tiba István (Fidesz)[^2]
 
-Pogácsás Tibor (Fidesz)
+Gelencsér Attila (Fidesz)[^3]
 
 dr. Szűcs Lajos (Fidesz)
 
@@ -42,7 +42,8 @@ Schmuck Erzsébet (LMP)
 
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3.[^3]
+3.[^4]
 
 [^2]: A 22/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 28/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
