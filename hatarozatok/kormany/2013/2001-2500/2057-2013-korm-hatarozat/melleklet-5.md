@@ -150,4 +150,4 @@
 
 5. melléklet a 2057/2013. (XII. 31.) Korm. határozathoz[^6]
 
-[^6]: Az 5. melléklet az 1133/2014. (III. 13.) Korm. határozat 4. pontja, az 1185/2014. (III. 27.) Korm. határozat 2. pont e) alpontja, az 1209/2014. (IV. 1.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^6]: Az 5. mellékletet az 1352/2014. (VI. 26.) Korm. határozat 6. pont b) pontja visszavonta.

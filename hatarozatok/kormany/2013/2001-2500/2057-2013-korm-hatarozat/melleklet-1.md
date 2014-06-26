@@ -9,4 +9,4 @@
 1. melléklet a 2057/2013. (XII. 31.) Korm. határozathoz[^2]
 
 [^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) pontja alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1006/2014. (I. 17.) Korm. határozat 3. pontja, az 1185/2014. (III. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1006/2014. (I. 17.) Korm. határozat 3. pontja, az 1185/2014. (III. 27.) Korm. határozat 2. pont a) alpontja, az 1352/2014. (VI. 26.) Korm. határozat 6. pont a) pontja szerint módosított szöveg.

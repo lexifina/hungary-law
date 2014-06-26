@@ -48,51 +48,7 @@
 
 | 4. |
 
-| 5. | I. Prioritás bemutatása: 5. prioritás: Város- és térségfejlesztés |  | Észak-Alföldi Operatív Program |
-
-|  |  |  |  |  |  |  | Akcióterv 2011-2013 |
-
-| 1. Prioritás tartalma |  |  |  |  |  |  |
-
-| Prioritás rövid tartalma (max. 500 karakter) |  |
-
-| A prioritás támogatja leszakadó településrészek, városközpontok integrált fejlesztését, megvalósítását. A prioritáson belül támogatható 2000 LE alatti települések szennyvízkezelése, hulladéklerakók rekultivációja, bel- és külterületi belvíz és csapadékvíz elleni védelem. Támogatható civil szervezetek működését szolgáló infrastrukturális fejlesztések. |  |
-
-| 2. A prioritás ütemezése – kiírások kerete |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |  |  |
-
-| 2011 | 2012 | 2013 | Összesen |  |  |  |
-
-| 7,83 | 26,52 | 0,00 | 34,35 |  |  |  |
-
-| Tartalék: 0 Mrd Ft |  |  |  |  |  |
-
-| ESZA tervezett arány a prioritás keretéből max.10 % |  |  |
-
-| 3. A prioritás ütemezése – kötelezettségvállalás (IH döntés) |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |
-
-| 2007-2010 | 2011 | 2012 | 2013 | 2014-2015 | Összesen |  |
-
-| 54,55 | 0,00 | 12,52 | 21,83 | 0,58 | 89,48 |  |
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete (Mrd Ft) | Konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
-
-| 2011 | 2012 | 2013 |
-
-| 5.1.1. | Város- és településfejlesztési akciók | 0,00 | 13,94 | 0,00 | A lakóterületek által érintett akcióterületek fizikai megújítása és a társadalmi kohézió együttes erősítése. A leértékelődő városi területek fenntartható társadalmi, környezeti megújulásának elősegítése, közösségi és szociális funkciók megjelenésének támogatásával. | belügyminiszter | emberi erőforrások minisztere |
-
-| 5.1.2. | Környezeti értékek védelme, környezetbiztonság | 7,00 | 12,58 | 0,00 | 2000 LE alatti települések szennyvízkezelése. Települések korszerűtlen hulladéklerakóinak rekultivációja. Belvízvédelemhez kapcsolódó térségi vízrendezés. Belterületi bel- és csapadékvíz-védelmi fejlesztések. Belterületi bel- és csapadékvíz-védelmi fejlesztések a VTT által érintett településeken. | 5.1.2/B, C, D2, D3 vidékfejlesztési miniszter, 5.1.2/D1 belügyminiszter | 5.1.2/D2, D3 belügyminiszter |
-
-| 5.1.3. | A régiós civil szervezetek infrastrukturális feltételeinek fejlesztése | 0,83 | 0,00 | 0,00 | A konstrukció célja, hogy a régió fejlődése szempontjából kiemelkedő fontosságú tevékenységet ellátó non-profit szervezetek tevékenységük megfelelő színvonalú ellátásához szükséges infrastrukturális fejlesztéseit támogassa. | közigazgatási és igazságügyi miniszter |  |
-
-| 5. Prioritás összesen | 7,83 | 26,52 | 0,00 |  |  |  |
-
-|  | Észak-Alföldi Operatív Program |  |  |  |
-
-|  | Akcióterv 2011-2013 ÖSSZESEN (Mrd Ft) | 155,93 |  |  |  |
+| 5. |
 
 4. melléklet a 2057/2013. (XII. 31.) Korm. határozathoz[^5]
 
