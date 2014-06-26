@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1018-30
 | --- | --- | --- |
 | 2014-01-20 | 2014-1018-30-22.1 | 1018/2014. (I. 20.) Korm. határozat |
 | 2014-01-21 | 2014-1018-30-22.2 | 2010: CXXX. törvény |
+| 2014-06-26 | 2014-1018-30-22.3 | 1829/2018. (XII. 27.) Korm. határozat |

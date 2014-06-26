@@ -1,6 +1,6 @@
 ## 1. jóváhagyja a Dél-Alföldi Operatív Program (a továbbiakban: DAOP) 2011–2013. évekre szóló akciótervében szereplő DAOP-5.2.1. azonosító számú, „Környezeti értékeink védelme környezetbiztonsága” című konstrukció keretének 331 359 175 forinttal történő csökkentését, és az összegnek a DAOP 5. prioritás 2007–2010. évekre, ugyanezen konstrukcióra való átcsoportosítását,
 
-## 2. jóváhagyja az 1. pont szerint felszabaduló 331 359 175 forint forrásnak a DAOP-5.2.1/D-2008-0002 azonosító számú, „Komplex belvízrendezési program megvalósítása a belterületen és a csatlakozó társulati csatornán I. ütem” című projekt (a továbbiakban: kiemelt projekt) támogatásának növelésére történő fordítását, megállapítja a DAOP 2011–2013. évekre szóló akciótervének 5. prioritását az 1. melléklet szerint,
+## 2.[^2] jóváhagyja az 1. pont szerint felszabaduló 331 359 175 forint forrásnak a DAOP-5.2.1/D-2008-0002 azonosító számú, „Komplex belvízrendezési program megvalósítása a belterületen és a csatlakozó társulati csatornán I. ütem” című projekt (a továbbiakban: kiemelt projekt) támogatásának növelésére történő fordítását,
 
 ## 3. jóváhagyja a 2. melléklet szerint a kiemelt projekt elszámolható közkiadásának legfeljebb 331 359 175 forinttal történő növelését,
 
@@ -10,59 +10,9 @@
 
 ## Határidő: a támogatási feltételek teljesítését követően azonnal
 
-## 5.[^1]
+## 5.[^3]
 
-1. melléklet az 1018/2014. (I. 20.) Korm. határozathoz
-
-| 5. | I. Prioritás bemutatása: 5. prioritás: Térségfejlesztési akciók | Dél-alföldi Operatív Program |
-
-|  | Akcióterv 2011-2013 |
-
-| 1. Prioritás tartalma |  |
-
-| Prioritás rövid tartalma |  |
-
-| Az első intézkedés a régió városainak, valamint népesebb községeinek infrastrukturális fejlesztése. A tervezett támogatások feladata a települések fizikai megújítása mellett a soft elemeket is alkalmazó, a lehetőségek szerint minél integráltabb fejlesztések megvalósítása és indukálása. A második intézkedés a környezeti szempontú településfejlesztés, ezen belül a települések csapadék és belvízelvezetésének hatékony megoldása, illetve a korszerűtlen települési hulladéklerakók rekultivációja. |  |
-
-| 2. A prioritás ütemezése – kiírások kerete |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |  |  |
-
-| 2011 | 2012 | 2013 | Összesen |  |  |  |
-
-| 4,41 | 3,45 | 3,72 | 11,58 |  |  |  |
-
-| Tartalék (Mrd Ft): | 0,00 |  |  |  |  |
-
-| ESZA tervezett aránya a prioritás keretéből: max. 10% |  |  |  |
-
-| 3. A prioritás ütemezése – kötelezettségvállalás (IH döntés) |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |
-
-| 2007-2010 | 2011 | 2012 | 2013 | 2014-2015 | Összesen |  |
-
-| 44,34 | 0,00 | 6,09 | 2,61 | 2,49 | 55,53 |  |
-
-| II. A támogatási konstrukciók összefoglaló adatai (2011-2013) |  |  |
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete (MrdFt) | Konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
-
-| 2011 | 2012 | 2013 |
-
-| 5.1.1. | Integrált szociális városrehabilitáció | 0,00 | 0,95 | 0,62 | A lakóterületek által érintett akcióterületek fizikai megújítása és a társadalmi kohézió együttes erősítése. | belügyminiszter | emberi erőforrások minisztere |
-
-| 5.1.2. | Város- és városrész megújítási akciók | 0,00 | 0,00 | 2,22 | Város-, és városrészmegújítási akciók | belügyminiszter | emberi erőforrások minisztere |
-
-| 5.1.3. | A régiós civil szervezetek infratsrukturális feltételeinek fejlesztése | 0,53 | 0,09 | 0,00 | A konstrukció alapvető célja, hogy a valós, közcélú, illetve a régió fejlődése szempontjából kiemelkedő fontosságú, eddigi tevékenységükkel már alapvető közcélú feladataikat bizonyítottan és tartósan ellátó non-profit szervezetek, a tevékenységük megfelelő szintű ellátásához elengedhetetlenül szükséges infrastruktúrával rendelkezzenek. | közigazgatási és igazságügyi miniszter | emberi erőforrások minisztere |
-
-| 5.2.1. | Környezeti értékeink védelme környezetbiztonság | 3,87 | 2,42 | 0,88 | A konstrukció célja a csapadék- , valamint belvíz okozta károk mérséklése, a helyi és térségi jelentőségű vízvédelmi rendszerek fejlesztésével, valamint a 2000 LE alatti kistelepülések szennyvízkezelésének megoldása, és a partfalvédelem. | 5.2.1/A,B belügyminiszter, 5.2.1/ C,E vidékfejlesztési miniszter | 5.2.1/A vidékfejlesztési miniszter |
-
-| 5. prioritás összesen | 4,41 | 3,45 | 3,72 |  |  |  |
-
-|  | Dél-alföldi Operatív Program |  |  |  |
-
-|  | Akcióterv 2011-2013 ÖSSZESEN (Mrd Ft) | 82,72 |  |  |  |
+1. melléklet az 1018/2014. (I. 20.) Korm. határozathoz[^4]
 
 2. melléket az 1018/2014. (I. 20.) Korm. határozathoz
 
@@ -76,4 +26,6 @@
 
 | 4. | Összesen: | 2 197 768 198 | 2 529 127 373 | 331 359 175 |
 
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pontja az 1352/2014. (VI. 26.) Korm. rendelet 6. pont b) pontja szerint módosított szöveg.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. mellékletet az 1352/2014. (VI. 26.) Korm. határozat 6. pont b) pontja visszavonta.
