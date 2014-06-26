@@ -1,3 +1,0 @@
-1. A Végrehajtás Operatív Program 2011–2013. évekre szóló akciótervének jóváhagyásáról szóló 1015/2011. (I. 19.) Korm. határozat 1. mellékletének a „2. Prioritás: A támogatások minőségi felhasználásához szükséges eszközrendszer” részében a „II. A támogatási konstrukciók összefoglaló adatai (2011–2013)” táblázat „2.1.4 A (lehetséges) kedvezményezetteket támogató, helyi elérhetőségű tanácsadói hálózat működtetése a minőségi projektek előkészítése és megvalósítása érdekében” konstrukció „Kedvezményezettek köre” oszlop alatti szövege a „Széchenyi Programiroda Nonprofit Kft.” szövegrésszel egészül ki.
-
-2. E határozat a közzétételét követő napon lép hatályba.
