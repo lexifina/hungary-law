@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1736-30
 | 2014-02-11 | 2013-1736-30-22.3 | 1060/2014. (II. 11.) Korm. határozat |
 | 2014-03-06 | 2013-1736-30-22.4 | 1111/2014. (III. 6.) Korm. határozat |
 | 2014-06-05 | 2013-1736-30-22.5 | 1060/2014. (II. 11.) Korm. határozat |
+| 2014-06-26 | 2013-1736-30-22.6 | 1060/2014. (II. 11.) Korm. határozat |

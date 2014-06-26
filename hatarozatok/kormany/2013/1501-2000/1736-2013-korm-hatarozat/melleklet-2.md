@@ -68,10 +68,10 @@ A Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akc
 
 | TIOP-1.1.1 | Neumann Program – Intézményi informatikai infrastruktúra fejlesztés a közoktatásban |  | 9,4 | 3,30 | Közoktatási intézményekben az IKT kompetenciák, készségek és képességek fejlesztését, továbbá az ezen intézmények kommunikációját, adminisztrációját segítő eszközök beszerzése. | emberi erőforrások minisztere |  |
 
-| TIOP 3 | ÁFA kompenzáció |  |  | 0,50 |  |  |  |
+| TIOP 3 |  |  |  |  |  |  |  |
 
 | TIOP-3.2.3A |  |  |  |  |  |  |  |
 
 | TIOP-3.4.2 |  |  |  |  |  |  |  |
 
-[^3]: A 2. melléklet az 1060/2014. (II. 11.) Korm. határozat 2. pont b) alpontja, az 1333/2014. (VI. 5.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^3]: A 2. melléklet az 1060/2014. (II. 11.) Korm. határozat 2. pont b) alpontja, az 1333/2014. (VI. 5.) Korm. határozat 5. pont a) alpontja, az 1357/2014. (VI. 26.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
