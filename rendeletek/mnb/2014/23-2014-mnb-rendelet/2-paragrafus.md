@@ -2,4 +2,6 @@
 
 2. § (1) Ez a rendelet 2014. június 25-én lép hatályba.
 
-(2) Hatályát veszti a jegybanki alapkamat mértékéről szóló 17/2014. (V. 27.) MNB rendelet.
+(2)[^2]
+
+[^2]: A 2. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
