@@ -176,7 +176,7 @@
 
 | 3.2.4. | Autisták és megváltozott munkaképességű személyek foglalkoztatásának elősegítése | 0,00 | 1,20 | 0,00 | Társadalmi és munkaerő-piaci integrációt elősegítő foglalkoztatások és képzések infrastrukturális feltételeinek fejlesztése. | Emberi Erőforrások Miniszter |  |
 
-| 3.3.1.A | A közszolgáltatásokhoz való egyenlő esélyű hozzáférés megteremtése: akadálymentesítés | 0,00 | 5,24 | 0,00 | A fogyatékos emberek, továbbá az időskorú, járókerettel, babakocsival közlekedő, nagycsaládos, mozgásukban vagy kommunikációjukban egyéb okból átmenetileg akadályozott személyek életminőségének javítása a közszolgáltatásokhoz való egyenlő esélyű hozzáférés megvalósítása útján. A kormányzati felelősségi körbe tartozó épületek komplex akadálymentesítése, és az abban nyújtott közszolgáltatások egyenlő esélyű hozzáférhetővé tétele. | Emberi Erőforrások Miniszter |  |
+| 3.3.1.A |  |  |  |  |  |  |  |
 
 | 3.3.1.B | A közszolgáltatásokhoz való egyenlő esélyű hozzáférés megteremtése: jelnyelvi tolmácsszolgálatok fejlesztése | 0,00 | 0,54 | 0,00 | A jelnyelvi tolmácsszolgálatok kommunikációs centrummá történő fejlesztése, ahol a hallássérült embereken túl a kommunikációjukban egyéb okból akadályozott – pl. beszédfogyatékos –, esetleg halmozottan sérült – pl. siketvak – emberek számára is nyújthatók alapvető kommunikációs szolgáltatások. | Emberi Erőforrások Miniszter |  |
 
@@ -203,4 +203,4 @@
 | A közszolgáltatásokhoz való egyenlő esélyű hozzáférés megteremtése: akadálymentesítés | 0,00 | 4,00 | A fogyatékos emberek, továbbá az időskorú, járókerettel, babakocsival közlekedő, nagycsaládos, mozgásukban vagy kommunikációjukban egyéb okból átmenetileg akadályozott személyek életminőségének javítása a közszolgáltatásokhoz való egyenlő esélyű hozzáférés megvalósítása útján. A kormányzati felelősségi körbe tartozó épületek komplex akadálymentesítése, és az abban nyújtott közszolgáltatások egyenlő esélyű hozzáférhetővé tétele. | Emberi Erőforrások Miniszter |  |  |
 
 [^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1736/2013. (X. 11.) Korm. határozat 5. pont d) alpontja, az 1060/2014. (II. 11.) Korm. határozat 2. pont a) alpontja, az 1112/2014. (III. 6.) Korm. határozat 1. és 2. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1736/2013. (X. 11.) Korm. határozat 5. pont d) alpontja, az 1060/2014. (II. 11.) Korm. határozat 2. pont a) alpontja, az 1112/2014. (III. 6.) Korm. határozat 1. és 2. pontja, az 1357/2014. (VI. 26.) Korm. határozat 2. pont a) pontja szerint módosított szöveg.
