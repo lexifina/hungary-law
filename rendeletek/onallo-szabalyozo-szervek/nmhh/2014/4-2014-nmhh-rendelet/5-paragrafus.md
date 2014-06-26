@@ -1,0 +1,3 @@
+5. § (1) A Hatóság a kiírási dokumentáció tervezetét a hirdetmény közzétételét megelőzően legalább harminc nappal hirdetőtábláján való kifüggesztéssel és internetes honlapján közzéteszi.
+
+(2) A kiírási dokumentáció tervezetének (1) bekezdés szerinti közzétételétől számított húsz napon belül bárki írásban megküldheti a Hatóság részére a kiírási dokumentáció tervezetére vonatkozó álláspontját, javaslatát, észrevételét. A beérkezett javaslatok, észrevételek a Hatóságot nem kötik, a Hatóság számára tájékoztató jelleggel bírnak és a javaslatok, észrevételek figyelembevételét vagy figyelmen kívül hagyását a Hatóság nem köteles indokolni.
