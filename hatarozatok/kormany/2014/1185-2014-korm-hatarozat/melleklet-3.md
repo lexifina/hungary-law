@@ -40,4 +40,6 @@
 
 | 2. Prioritás összesen | 1,36 | 21,78 | 7,96 |  |  |  |
 
-3. melléklet az 1185/2014. (III. 27.) Korm. határozathoz
+3. melléklet az 1185/2014. (III. 27.) Korm. határozathoz[^8]
+
+[^8]: A 3. mellékletet az 1352/2014. (VI. 26.) Korm. határozat 6. pont c) pontja visszavonta.
