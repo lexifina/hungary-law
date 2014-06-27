@@ -26,12 +26,8 @@
 
 ## 5. egyetért azzal, hogy a 3. pontban megjelölt prioritás esetében – a prioritás eddigi többletkötelezettség-vállalásaira tekintettel – a későbbiekben felszabaduló források terhére új projektek támogatása céljából újabb kötelezettséget ne lehessen vállalni;
 
-## 6. visszavonja
-
-## a) a regionális operatív programok 2011–2013. évekre szóló akcióterveinek módosításáról és a Nyugat-Dunántúli Operatív Program 5. prioritás keretének növeléséről szóló 2057/2013. (XII. 31.) Korm. határozat 1. mellékletének az 1. és a 4. prioritásra, 3. mellékletének az 5. prioritásra vonatkozó részét, valamint 5. mellékletét,
-
-## b) a DAOP-5.2.1/D-2008-0002 azonosító számú („Komplex belvízrendezési program megvalósítása a belterületen és a csatlakozó társulati csatornán I. ütem” című) kiemelt projekt támogatásának növeléséről és a Dél-Alföldi Operatív Program 2011–2013. évekre szóló akcióterve 5. prioritásának módosításáról szóló 1018/2014. (I. 20.) Korm. határozat 2. pontjának „megállapítja a DAOP 2011–2013. évekre szóló akciótervének 5. prioritását az 1. melléklet szerint,” szövegrészét és 1. mellékletét, valamint
-
-## c) a regionális operatív programok 2011–2013. évekre szóló akciótervei egyes prioritásainak módosításáról szóló 1185/2014. (III. 27.) Korm. határozat 1. pontjának a), c) és f)–h) alpontját, valamint 1., 3. és 6–8. mellékletét.
+## 6.[^1]
 
 1. melléklet az 1352/2014. (VI. 26.) Korm. határozathoz
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
