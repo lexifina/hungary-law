@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-6-20-5Z
 | --- | --- | --- |
 | 2014-01-01 | 2013-6-20-5Z.1 | 6/2013. (XII. 16.) MEKH rendelet |
 | 2014-01-02 | 2013-6-20-5Z.2 | 2010: CXXX. törvény |
+| 2014-06-27 | 2013-6-20-5Z.3 | 4/2014. (VI. 26.) MEKH rendelet |
