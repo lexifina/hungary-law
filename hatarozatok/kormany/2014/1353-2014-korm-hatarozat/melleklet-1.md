@@ -1,10 +1,6 @@
 ## 1. megállapítja a Végrehajtás Operatív Program (a továbbiakban: VOP) 2011–2013. évekre szóló akciótervét az 1. melléklet szerint,
 
-## 2. visszavonja
-
-## a) a Végrehajtás Operatív Program 2011–2013. évekre szóló akciótervének jóváhagyásáról szóló 1015/2011. (I. 19.) Korm. határozatot, és
-
-## b) a Végrehajtás Operatív Program 2011–2013. évekre szóló akciótervének jóváhagyásáról szóló 1015/2011. (I. 19.) Korm. határozat módosításáról szóló 1115/2011. (IV. 28.) Korm. határozatot.
+## 2.[^2]
 
 1. melléklet az 1353/2014. (VI. 26.) Korm. határozathoz
 
@@ -121,3 +117,5 @@ II. A támogatási konstrukciók összefoglaló adatai (2007–2015)
 | 2.1.4. | A (lehetséges) kedvezményezetteket támogató, helyi elérhetőségű tanácsadói hálózat működtetése a minőségi projektek előkészítése és megvalósítása érdekében | 10,18 | - támogatási lehetőségek megismertetése; - projektjavaslatok kidolgozásának segítése; - projektek megvalósításának segítése |
 
 | 2. | Prioritás | 56,91 |  |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
