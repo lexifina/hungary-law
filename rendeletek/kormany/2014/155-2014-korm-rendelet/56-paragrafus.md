@@ -1,0 +1,1 @@
+## 55. § Jogerős üzemeltetési engedéllyel rendelkező tároló létesítmény bővítésekor a tárolási technológiája módosítása esetén a létesítési engedélyezési eljárásra vonatkozó szabályokat kell alkalmazni.

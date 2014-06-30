@@ -1,0 +1,3 @@
+## VIII. Fejezet
+
+## ÁTALAKÍTÁSOK ENGEDÉLYEZÉSE
