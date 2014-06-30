@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-323-20-
 | 2013-07-27 | 2010-323-20-22.24 | 292/2013. (VII. 26.) Korm. rendelet |
 | 2014-01-01 | 2010-323-20-22.25 | 520/2013. (XII. 30.) Korm. rendelet |
 | 2014-02-25 | 2010-323-20-22.26 | 282/2011. (XII. 21.) Korm. rendelet |
+| 2014-06-30 | 2010-323-20-22.27 | 282/2011. (XII. 21.) Korm. rendelet |

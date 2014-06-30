@@ -18,5 +18,7 @@ g) az Eüak. 16/A. §-a,
 
 h) az Eüak. 19. § (1) és (2) bekezdése
 
+szerinti feladatok ellátására.
+
 [^67]: A 13. § (6) bekezdés b)–c) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § f) pontja hatályon kívül helyezte.
 [^68]: A 13. § e) pontja a 137/2012. (VI. 29.) Korm. rendelet 65. §-ával megállapított szöveg.

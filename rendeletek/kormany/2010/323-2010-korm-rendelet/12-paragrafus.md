@@ -24,7 +24,7 @@ cb) 15. § (3a) és (3b) bekezdése,
 
 cc) 20. § (3a) bekezdése
 
-## szerinti feladatok ellátására.
+szerinti feladatok ellátására.
 
 (4) A Kormány egészségügyi államigazgatási szervként az OTH-t jelöli ki
 
@@ -122,7 +122,7 @@ i)[^51] a gyógyszertárak vonatkozásában az emberi alkalmazásra kerülő gy�
 
 j)[^52] a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény 5. § (1a) bekezdése
 
-## szerinti feladatok ellátására.
+szerinti feladatok ellátására.
 
 (5) A Kormány egészségügyi államigazgatási szervként a megyei népegészségügyi szakigazgatási szervet jelöli ki
 
@@ -178,7 +178,7 @@ k)[^62] a megyei önkormányzatok konszolidációjáról, a megyei önkormányza
 
 l)[^63] az egészségügyi államigazgatási feladatok tekintetében az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény 2. §-a
 
-## szerinti feladatok ellátására.
+szerinti feladatok ellátására.
 
 (6) A Kormány egészségügyi államigazgatási szervként az OTH-t és a megyei népegészségügyi szakigazgatási szervet jelöli ki
 
@@ -192,7 +192,7 @@ d) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXII
 
 e)[^64] az Eütv. 123. § (1) bekezdés a) pontja és (2) bekezdése
 
-## szerinti feladatok ellátására.
+szerinti feladatok ellátására.
 
 (7)[^65] A Kormány egészségügyi államigazgatási szervként az OTH-t, a megyei népegészségügyi szakigazgatási szervet és a járási népegészségügyi intézetet jelöli ki
 
@@ -206,7 +206,7 @@ ca) 23. § d) pontja,
 
 cb) 24. § e) és f) pontja
 
-## szerinti feladatok ellátására.
+szerinti feladatok ellátására.
 
 (8)[^66] A Kormány egészségügyi államigazgatási szervként az OTH-t és a járási népegészségügyi intézetet jelöli ki az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 6. § (1) bekezdés p) pontja szerinti feladatok ellátására.
 
