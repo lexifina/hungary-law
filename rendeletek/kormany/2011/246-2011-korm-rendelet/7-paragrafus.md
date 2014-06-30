@@ -8,7 +8,7 @@ c) a korlátozások meghatározásánál figyelembe vett környezeti körülmén
 
 (2) Létesítmények és tevékenységek engedélyezésekor az arra hatáskörrel rendelkező hatóság az (1) bekezdés, valamint az Atv. 34. § (2) bekezdése szerinti tilalmakat és korlátozásokat érvényesíti.
 
-(3) A (2) bekezdés szerinti tilalmak és korlátozások a biztonsági övezetet érintő további nukleáris létesítmény létesítése esetére nem vonatkoznak.
+(3)[^3] A (2) bekezdés szerinti tilalmak és korlátozások a biztonsági övezetet érintő további nukleáris létesítmény telephelyének vizsgálata és értékelése, jellemzőinek és alkalmasságának megállapítása, létesítése, előkészítése, valamint az ezekkel összefüggő tevékenységek megvalósításának esetére nem vonatkoznak.
 
 (4) A nukleáris létesítmény és radioaktívhulladék-tároló üzemszerű működéséhez és védelméhez szükséges beruházások esetében a (2) bekezdés szerinti tilalmak és korlátozások alól az engedélyező hatóság – a biztonsági övezetet kijelölő szerv, valamint (amennyiben az eltér az engedélyező hatóságtól) a tilalmat, korlátozást elrendelő hatóság álláspontjának kikérése mellett – eltérést engedélyezhet és ennek feltételeit megállapíthatja.
 
@@ -17,3 +17,5 @@ c) a korlátozások meghatározásánál figyelembe vett környezeti körülmén
 (6) A nukleáris létesítmény és a radioaktívhulladék-tároló 30 km-es körzetében mindazon veszélyes létesítmények és tevékenységek engedélyezése esetén, amelyek tekintetében jogszabály védőtávolság kijelölését írja elő, az engedélyezésre hatáskörrel rendelkező hatóság az eljárás megindításáról tájékoztatja a biztonsági övezetet kijelölő szervet, valamint a nukleáris létesítmény és a radioaktívhulladék-tároló engedélyesét.
 
 (7) Az (5)–(6) bekezdés szerinti eljárásban a biztonsági övezetet kijelölő szerv, valamint a nukleáris létesítmény és a radioaktívhulladék-tároló engedélyese ügyfélnek minősül.
+
+[^3]: A 7. § (3) bekezdése a 156/2014. (VI. 30.) Korm. rendelet 3. § (3) bekezdés b) pontja szerint módosított szöveg.
