@@ -1,0 +1,1 @@
+## „(2) A telephelyen (fióktelepen) a vendégek számára jól látható helyen ki kell függeszteni a Hivatal által történt nyilvántartásba vételt igazoló hivatalos iratot vagy annak másolatát, valamint a szolgáltatásban részt vevő lovak azonosító számának vagy életszámának és nevének felsorolását.”
