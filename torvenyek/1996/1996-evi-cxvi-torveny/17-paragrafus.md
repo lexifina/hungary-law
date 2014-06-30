@@ -32,13 +32,13 @@ szükséges nukleáris biztonsági engedélyezés;
 
 11. a 11. § (2) bekezdésében előírt irányítási rendszer ellenőrzése;
 
-12. nukleáris létesítmény biztonsági övezetének kijelölése és felülvizsgálata;
+12. nukleáris létesítmény, valamint radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója biztonsági övezetének kijelölése és felülvizsgálata;
 
 13. a radioaktív anyagok szállításának engedélyezése a veszélyes áruk szállításáról szóló jogszabályok rendelkezései szerint;
 
 14. a radioaktív anyagok csomagolásának – a veszélyes áruk szállításáról szóló jogszabályok és nemzetközi egyezmények rendelkezései szerint – jóváhagyása és ellenőrzése;
 
-15. a nukleáris és a nukleáris kettős felhasználású termékek exportjának és importjának engedélyezése;
+15. radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója telephelye kiválasztásának, létesítésének, üzemeltetésének, átalakításának és lezárásának engedélyezése, ellenőrzése;
 
 16. radioaktív hulladékok és kiégett fűtőelemek az országhatáron át történő szállításának engedélyezése, és a szállítás engedélyezéséhez való hozzájárulás;
 

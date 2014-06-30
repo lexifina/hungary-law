@@ -62,4 +62,6 @@ v) az atomenergia-felügyeleti szerv e törvény szerinti
 
 va) eljárásaira vonatkozó eljárási határidőket, valamint
 
-vb) eljárásaiban közreműködő szakhatóság eljárására irányadó ügyintézési határidőt.
+vb) eljárásaiban közreműködő szakhatóság eljárására irányadó ügyintézési határidőt;
+
+v) a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója engedélyezési, ellenőrzési, jelentési követelményeit.

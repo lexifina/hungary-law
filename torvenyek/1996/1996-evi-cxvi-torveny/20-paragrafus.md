@@ -8,7 +8,7 @@ b) az a) pont alatt felsorolt tevékenységeket szolgáló, nem nukleáris léte
 
 c) az ionizáló sugárzást létrehozó létesítmény, berendezés tulajdonjoga megszerzésének, átadásának, a használat bármilyen jogcímen való átengedésének, létesítésének, előállításának, üzemeltetésének, átalakításának és megszüntetésének engedélyezését és ellenőrzését;
 
-d) a radioaktívhulladék-tároló telepítésének, létesítésének, üzembe helyezésének, üzemeltetésének, átalakításának, lezárásának engedélyezését és ellenőrzését;
+d)
 
 e) az atomenergia alkalmazását szolgáló létesítményben működő sugárvédelmi szolgálat szervezetének és működésének felügyeletét;
 

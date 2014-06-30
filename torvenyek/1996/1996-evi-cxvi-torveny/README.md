@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-116-00-00
 | 2014-01-01 | 2013. évi CI. törvény | 1996-116-00-00.38 |
 | 2014-02-01 | 2013. évi CCXXVII. törvény | 1996-116-00-00.39 |
 | 2014-03-15 | 2013. évi CCXXVII. törvény | 1996-116-00-00.40 |
+| 2014-06-30 | 2013. évi CI. törvény | 1996-116-00-00.41 |
