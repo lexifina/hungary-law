@@ -26,7 +26,7 @@
 
 (13)[^57] Közösségi járműre az egyedi forgalomba helyezési engedélyt a (8) bekezdésben meghatározott feltételek ellenőrzése nélkül, a jármű forgalomban tartására vonatkozóan a származási országban megszerzett jogosultság igazolása mellett, a 4/C. §-ban meghatározott jármű-honosítási eljárásban kell kiadni.
 
-(14)[^58] A (13) bekezdés és a 4/C. § rendelkezéseit megfelelően alkalmazni kell az Európai Gazdasági Térségben nem részes államban nyilvántartásba vett azon gépjárműre, amely a vámkönnyítések közösségi rendszerének felállításáról szóló 1983. március 28-i 918/83/EGK tanácsi rendelet 2–10. cikke szerint természetes személyhez tartozó személyes vagyontárgynak minősül.
+(14)[^58] A (13) bekezdés és a 4/C. § rendelkezéseit megfelelően alkalmazni kell az Európai Gazdasági Térségben nem részes államban nyilvántartásba vett azon gépjárműre, amely a vámmentességek közösségi rendszerének létrehozásáról szóló 2009. november 16-i 1186/2009/EK tanácsi rendelet 3–11. cikke szerint természetes személyhez tartozó személyes vagyontárgynak minősül.
 
 [^43]: A 4. § a 12/1998. (V. 22.) KHVM rendelet 3. §-ával megállapított szöveg.
 [^44]: A 4. § (1) bekezdése a 43/2001. (XII. 18.) KöViM rendelet 3. § (1) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
@@ -43,4 +43,4 @@
 [^55]: A 4. § (12) bekezdését a 34/2004. (III. 30.) GKM rendelet 2. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
 [^56]: A gépjármű fenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet.
 [^57]: A 4. § (13) bekezdését a 34/2004. (III. 30.) GKM rendelet 2. §-a iktatta be, szövege a 105/2007. (XII. 23.) GKM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^58]: A 4. § (14) bekezdését újonnan a 66/2009. (XI. 27.) KHEM rendelet 2. § (3) bekezdése iktatta be.
+[^58]: A 4. § (14) bekezdését újonnan a 66/2009. (XI. 27.) KHEM rendelet 2. § (3) bekezdése iktatta be, szövege a 30/2014. (VI. 27.) NFM rendelet 4. § a) pontja szerint módosított szöveg.
