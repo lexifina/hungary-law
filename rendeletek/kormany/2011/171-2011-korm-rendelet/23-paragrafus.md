@@ -1,3 +1,3 @@
-## 22. §[^8]
+23. §[^24]
 
-[^8]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 23–24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
