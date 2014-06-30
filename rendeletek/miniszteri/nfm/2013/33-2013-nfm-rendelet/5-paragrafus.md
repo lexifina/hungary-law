@@ -1,1 +1,0 @@
-## 4. § Az egyes kutatási fázisokat megalapozó földtani kutatási terveket és a kutatási fázisokat lezáró földtani kutatási zárójelentéseket a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH) hagyja jóvá.
