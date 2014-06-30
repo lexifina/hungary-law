@@ -4,7 +4,7 @@ a) a szolgáltató lovas szolgáltató tevékenység folytatásának helyszíné
 
 b) az a) pont szerinti telephelyen (fióktelepen) működő lovarda elnevezését,
 
-c) az a) pont szerinti telephelyen (fióktelepen) tartott lovak számát,
+c)[^9] az a) pont szerinti telephelyen (fióktelepen) tartott lovak számát, valamint amennyiben a szolgáltató a szolgáltatásba bevont lovat nem az a) pont szerinti telephelyen (fióktelepen) tartja, annak a telephelynek (fióktelepnek) a címét, ahol a szolgáltatásba bevont lovat tartják,
 
 d) a lovas szolgáltató tevékenység típusát vagy típusait az 1. § (2) bekezdés a) pontja szerint, továbbá, hogy a lovas szolgáltatás együtt jár-e a szolgáltatást igénybe vevő személy lovagoltatásával,
 
@@ -12,11 +12,11 @@ e) a szolgáltatás igénybe vevőjének lovagoltatásával járó lovas szolgá
 
 f) az a) pontban megjelölt telephely (fióktelep) helyszínrajzát a 13. §-ban meghatározott körülményekre figyelemmel,
 
-g) a szolgáltatásba bevont, a lófélék egyedeinek azonosításáról szóló jogszabály szerinti azonosító számmal (a továbbiakban: azonosító szám) és ló-útlevéllel ellátott lovak felsorolását, valamint
+g)[^10] a szolgáltatásba bevont, a lófélék egyedeinek azonosításáról szóló jogszabály szerint azonosított és lóútlevéllel ellátott lovak azonosító számának vagy életszámának és nevének felsorolását, valamint
 
 h) szolgáltatásba történő bevonásra alkalmas lovak esetén az alkalmasságról szóló hatósági bizonyítvány számát.
 
-(2) A Hivatal a bejelentett lovas szolgáltatókról az (1) bekezdésben meghatározott tartalommal – az e) pont szerinti adatokat kivéve – nyilvántartást vezet, és a nyilvántartást honlapján közzéteszi. A nyilvántartás 2014. január 1-jétől tartalmazza a szolgáltató szolgáltatásba történő bevonásra alkalmas lovainak azonosító számát.
+(2)[^11] A Hivatal a bejelentett lovas szolgáltatókról az (1) bekezdésben meghatározott tartalommal – az e) pont szerinti adatokat kivéve – nyilvántartást vezet, és a nyilvántartást honlapján közzéteszi.
 
 (3) Lovas szolgáltató tevékenység – a Kertv. 6/C. § (2) bekezdésében előírt feltételeken túl – akkor folytatható, ha a szolgáltató
 
@@ -43,3 +43,6 @@ c) lovasterápia vagy fogyatékos személynek nyújtott lovas szolgáltatás ese
 (4) Ha a szolgáltató a tevékenységét több telephelyen (fióktelepen) folytatja, minden egyes telephely (fióktelep) esetében eleget kell tenni a 11. §-ban, a 11/A. §-ban és a 13. §-ban meghatározott követelményeknek.
 
 [^8]: A 2. § a 31/2013. (VIII. 9.) NGM rendelet 2. §-ával megállapított szöveg.
+[^9]: A 2. § (1) bekezdés c) pontja a 22/2014. (VI. 27.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^10]: A 2. § (1) bekezdés g) pontja a 22/2014. (VI. 27.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^11]: A 2. § (2) bekezdése a 22/2014. (VI. 27.) NGM rendelet 7. §-a szerint módosított szöveg.

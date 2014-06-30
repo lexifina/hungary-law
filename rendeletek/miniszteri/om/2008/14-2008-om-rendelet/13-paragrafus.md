@@ -1,6 +1,14 @@
-13. §[^24] (1) A lovas szolgáltató tevékenységet végző szolgáltató telephelyének (fióktelepének) meg kell felelnie az alábbi követelményeknek:
+13. §[^27] (1) A lovas szolgáltató tevékenységet végző szolgáltató telephelyének (fióktelepének) meg kell felelnie az alábbi követelményeknek:
 
-a) legalább öt, egyenként legalább négyéves, lovasterápia és a fogyatékos személynek nyújtott lovas szolgáltatás esetében egy legalább ötéves lóútlevéllel és azonosító számmal rendelkező lóval rendelkezik, és a lovak megfelelnek a vonatkozó állategészségügyi szabályoknak, továbbá a szolgáltatás igénybe vevőjének lovagoltatásával járó tevékenység esetén az adott szolgáltatásnak megfelelő alkalmasságot igazoló hatályos hatósági bizonyítvánnyal rendelkeznek,
+a)[^28] a szolgáltatásba bevont ló:
+
+aa) a lófélék egyedeinek azonosításáról szóló jogszabály szerint azonosított és lóútlevéllel rendelkezik,
+
+ab) megfelel a vonatkozó állategészségügyi szabályoknak,
+
+ac) legalább négyéves, lovasterápia és a fogyatékos személynek nyújtott lovas szolgáltatás esetében legalább ötéves, és
+
+ad) a szolgáltatás igénybe vevőjének lovagoltatásával járó tevékenység esetén az adott szolgáltatásnak megfelelő alkalmasságot igazoló hatályos hatósági bizonyítvánnyal is rendelkezik,
 
 b) az istállóban a lovakat boxokban tartják; az istálló belmagassága legalább 2,5 m; az egyes bokszok alapterülete legalább 9 m2, amelyek rövidebb fala nem kevesebb 2,5 méternél,
 
@@ -14,8 +22,10 @@ f) a telephely (fióktelep) rendelkezik a lólétszámnak megfelelő számú, al
 
 g) szabad lótartás esetén a lovak számára lovanként legalább 1000 m2 területű bekerített terület (karám), valamint legalább három oldalról borítással határolt, legalább 2,5 méter belmagasságú, lovanként legalább 8 m2 alapterületű fedeles építmény kialakítása szükséges, úgy, hogy az építmény oldalfalainak egyike az uralkodó szél iránya felé nézzen.
 
-(2) A telephelyen (fióktelepen) a vendégek számára jól látható helyen ki kell függeszteni a Hivatal által történt nyilvántartásba vételt igazoló hivatalos iratot, vagy annak másolatát, valamint a szolgáltatásban részt vevő lovak azonosító számát, nevét tartalmazó felsorolást.
+(2)[^29] A telephelyen (fióktelepen) a vendégek számára jól látható helyen ki kell függeszteni a Hivatal által történt nyilvántartásba vételt igazoló hivatalos iratot vagy annak másolatát, valamint a szolgáltatásban részt vevő lovak azonosító számának vagy életszámának és nevének felsorolását.
 
 (3) A fejvédőt (kobak) a szolgáltatás igénybe vevőjének kérésére kell rendelkezésre bocsátani. Kötelező fejvédőt (kobakot) használnia a szolgáltatás igénybevételének teljes időtartama alatt annak, aki a 14. életévét még nem töltötte be, valamint a lovasterápia vagy a fogyatékos személynek nyújtott lovas szolgáltatás igénybevevőjének. Lovasterápia és a fogyatékos személynek nyújtott lovas szolgáltatás esetén – a lovasterapeuta, vagy a lovasoktató, vagy lovasedző, aki rendelkezik a 11 A. § (3) bekezdése szerinti képzettséggel döntése alapján – életkortól függetlenül a fejvédő (kobak) viselése mellőzhető.
 
-[^24]: A 13. § a 31/2013. (VIII. 9.) NGM rendelet 8. §-ával megállapított szöveg.
+[^27]: A 13. § a 31/2013. (VIII. 9.) NGM rendelet 8. §-ával megállapított szöveg.
+[^28]: A 13. § (1) bekezdés a) pontja a 22/2014. (VI. 27.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^29]: A 13. § (2) bekezdése a 22/2014. (VI. 27.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
