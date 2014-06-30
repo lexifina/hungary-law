@@ -1,6 +1,6 @@
 7. melléklet az 53/2012. (III. 28.) Korm. rendelethez
 
-## Építési tevékenység megkezdésére, illetve az adatok változására vonatkozó bejelentés adattartalma
+Építési tevékenység megkezdésére, illetve az adatok változására vonatkozó bejelentés adattartalma
 
 1. A bejelentés jogcíme (bejelentés vagy adatváltozás).
 

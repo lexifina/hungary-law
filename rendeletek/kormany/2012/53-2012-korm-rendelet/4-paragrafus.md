@@ -1,5 +1,3 @@
-## szükséges.
-
 4. § (1) Építésügyi hatósági engedélyek:
 
 a) az elvi építési engedély,

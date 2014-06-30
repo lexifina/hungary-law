@@ -1,8 +1,6 @@
-## 49. §[^29]
-
 1. melléklet az 53/2012. (III. 28.) Korm. rendelethez
 
-## A bányafelügyelet építésügyi hatósági engedélyéhez kötött sajátos építmények
+A bányafelügyelet építésügyi hatósági engedélyéhez kötött sajátos építmények
 
 1. A szilárdásvány-bányászat területén a terület-igénybevétellel járó bányászati sajátos építmények:
 
@@ -70,7 +68,13 @@
 
 4.1. a geotermikus energia felszín alatti víz kitermelését nem igénylő, 20 métert meghaladó mélységből történő kinyerésének és energetikai célú hasznosításának építményei az épületgépészeti berendezések kivételével,
 
-4.2.[^30] földtani kutatást szolgáló 1.1. pont szerinti kutatóépítmény, vagy nukleáris létesítmény telephely vizsgálati és értékelési programjának végrehajtásához szükséges olyan 1.1. pont szerinti kutatóépítmény, amelynek telephely vizsgálati és értékelési programját jóváhagyták, vagy ahhoz a feladat- és hatáskörrel rendelkező hatóság a földtani, műszaki biztonsági és bányászati szakkérdések tekintetében előzetes szakhatósági állásfoglalást adott,
+4.2.[^30] az 1.1. pont szerinti kutatóépítmény, amely
+
+4.2.1. földtani kutatást szolgálja,
+
+4.2.2. a radioaktívhulladék-tároló telephely földtani alkalmasságának igazolását szolgálja, vagy
+
+4.2.3. nukleáris létesítmény telephely vizsgálati és értékelési programjának végrehajtásához szükséges, és amelynek telephely vizsgálati és értékelési programját jóváhagyták, vagy ahhoz a feladat- és hatáskörrel rendelkező hatóság a földtani, műszaki biztonsági és bányászati szakkérdések tekintetében előzetes szakhatósági állásfoglalást adott,
 
 4.3. polgári felhasználású robbanóanyag raktára,
 
@@ -82,6 +86,5 @@
 
 4.7.[^31] a föld alatti szénelgázosításhoz szükséges létesítmények.
 
-[^29]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: Az 1. melléklet 4. pont 4.2. alpontja az 559/2013. (XII. 31.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^30]: Az 1. melléklet 4.2. pontja a 156/2014. (VI. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^31]: Az 1. melléklet 4. pont 4.7. pontját az 559/2013. (XII. 31.) Korm. rendelet 68. § (1) bekezdése iktatta be.

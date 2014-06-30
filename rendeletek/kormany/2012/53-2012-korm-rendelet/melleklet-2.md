@@ -1,6 +1,6 @@
 2. melléklet az 53/2012. (III. 28.) Korm. rendelethez
 
-## A bányászatról szóló törvény szerinti műszaki üzemi terv jóváhagyási eljárás keretében engedélyezhető sajátos építmények
+A bányászatról szóló törvény szerinti műszaki üzemi terv jóváhagyási eljárás keretében engedélyezhető sajátos építmények
 
 1. A szilárdásvány-bányászat területén a terület-igénybevétellel járó bányászati sajátos építmények:
 

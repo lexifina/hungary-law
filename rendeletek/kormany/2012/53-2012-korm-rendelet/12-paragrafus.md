@@ -8,7 +8,7 @@ a) az építési tevékenység megkezdését annak megtörténte előtt 8 nappal
 
 b) a 7. mellékletben meghatározott adat változását 8 napon belül
 
-## be kell jelenteni a bányafelügyeletnek.
+be kell jelenteni a bányafelügyeletnek.
 
 (3)[^8] Az e rendelet hatálya alá tartozó építmények tekintetében az építőipari kivitelezési tevékenységről szóló kormányrendeletben előírt elektronikus építési naplót 2016. október 1-jét követően megkezdett kivitelezések esetében kell alkalmazni.
 
