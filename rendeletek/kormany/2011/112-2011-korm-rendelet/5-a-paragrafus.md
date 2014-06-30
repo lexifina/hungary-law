@@ -1,6 +1,6 @@
-## 5. § A Kormány az OAH 1. melléklet szerinti hatósági eljárásaiban – az 1. mellékletben meghatározott feltételek esetében és szakkérdésben – az 1. melléklet szerinti hatóságokat szakhatóságként jelöli ki. Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság előzetes szakhatósági állásfoglalást ad ki, amely egy évig hatályos.
+## 5. §[^12] A Kormány az OAH 1. és 2. melléklet szerinti hatósági eljárásaiban – az 1. és 2. mellékletben meghatározott feltételek esetében és szakkérdésben – az 1. és 2. melléklet szerinti hatóságokat szakhatóságként jelöli ki. Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság előzetes szakhatósági állásfoglalást ad ki, amely egy évig hatályos.
 
-5/A. §[^12] (1) A szakhatóság eljárására irányadó ügyintézési határidő
+5/A. §[^13] (1) A szakhatóság eljárására irányadó ügyintézési határidő
 
 a) negyvenöt nap
 
@@ -16,4 +16,5 @@ b) harminc nap – az a) pont ab) alpontjában meghatározott kivétellel – az
 
 (2) A szakhatóság vezetője indokolt esetben a szakhatósági eljárásra irányadó (1) bekezdés szerinti ügyintézési határidőt egy alkalommal, tíz nappal meghosszabbíthatja. Az ügyintézési határidő meghosszabbításáról a szakhatóság értesíti az ügyfelet és az OAH-t.
 
-[^12]: Az 5/A. §-t a 139/2014. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^12]: Az 5. § a 156/2014. (VI. 30.) Korm. rendelet 2. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^13]: Az 5/A. §-t a 139/2014. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
