@@ -472,7 +472,7 @@ dr. Tóth Bertalan (MSZP)
 
 Tukacs István (MSZP)
 
-Balczó Zoltán (Jobbik)
+dr. Lukács László György (Jobbik)[^52]
 
 dr. Staudt Gábor (Jobbik)
 
@@ -480,9 +480,9 @@ Szilágyi György (Jobbik)
 
 dr. Schiffer András (LMP)
 
-Fodor Gábor (független)[^52]
+Fodor Gábor (független)[^53]
 
-2a.[^53] Az Országgyűlés az Ogytv. 14. § (1) bekezdés a) pontja alapján nemzetiségeket képviselő bizottságot alakít, annak elnevezését az alábbiak szerint határozza meg, valamint tisztségviselőivé a következő képviselőket választja:
+2a.[^54] Az Országgyűlés az Ogytv. 14. § (1) bekezdés a) pontja alapján nemzetiségeket képviselő bizottságot alakít, annak elnevezését az alábbiak szerint határozza meg, valamint tisztségviselőivé a következő képviselőket választja:
 
 Magyarországi nemzetiségek bizottsága (13 fő)
 
@@ -494,7 +494,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 
 4. Ez a határozat az elfogadásakor lép hatályba.
 
-5.[^54]
+5.[^55]
 
 [^2]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
@@ -546,6 +546,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 [^49]: A 29/2014. (VI. 26.) OGY határozat 4. pontjával megállapított szöveg.
 [^50]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
 [^51]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
-[^52]: A 15/2014. (V. 27.) OGY határozat 2. pontjával megállapított szöveg.
-[^53]: A 2a. pontot a 15/2014. (V. 27.) OGY határozat 3. pontja iktatta be. E módosító határozat 4. pontja alapján a Magyarországi nemzetiségek bizottságának megbízatása 2014. május 26. napjával kezdődik.
-[^54]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 30/2014. (VII. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^53]: A 15/2014. (V. 27.) OGY határozat 2. pontjával megállapított szöveg.
+[^54]: A 2a. pontot a 15/2014. (V. 27.) OGY határozat 3. pontja iktatta be. E módosító határozat 4. pontja alapján a Magyarországi nemzetiségek bizottságának megbízatása 2014. május 26. napjával kezdődik.
+[^55]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
