@@ -10,7 +10,7 @@ b) felső széle a tompított fényszóró átvilágított felületének felső 
 
 c) első széle a jármű elejétől 1,00 méternél távolabb
 
-## nem lehet.
+nem lehet.
 
 (3) A bekanyarodási lámpa elektromos kapcsolásának olyannak kell lennie, hogy csak akkor lépjen működésbe, ha a tompított vagy a távolsági fényszórókat bekapcsolták.
 

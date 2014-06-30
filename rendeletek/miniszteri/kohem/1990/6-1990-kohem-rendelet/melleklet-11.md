@@ -1,5 +1,7 @@
 ## A pótkocsik fékrendszereinek hatásosságára vonatkozó előírások
 
+## D489A_0
+
 | Járműkategória megnevezése és jele |  | Üzemi fék | Rögzítő fék | Terhelési állapot |
 
 | V | P | H | Rövid távon történő tartós fékezés utáni fékhatásosság | Hosszú lejtőn tört. tartós fékezés utáni fékhatásosság az előírt %-a | K vagy L | B a legkap- csolt pót- kocsira |
@@ -56,9 +58,9 @@
 
 ## H : A ráfutó fék megengedett legnagyobb működtető ereje N
 
-11. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^230]
+11. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^238]
 
-## Gépjármű, mezőgazdasági vontató, lassú jármű, pótkocsi, valamint a segédmotoros kerékpár világító és fényjelző berendezéseinek megkövetelt legkisebb láthatósági szögei
+Gépjármű, mezőgazdasági vontató, lassú jármű, pótkocsi, valamint a segédmotoros kerékpár világító és fényjelző berendezéseinek megkövetelt legkisebb láthatósági szögei
 
 (1) A megkövetelt legkisebb láthatósági szögek csúcsai a lámpa külső átvilágított felületének középpontjában — nem szabályos körvonalú ilyen felület esetén annak súlypontjában — helyezkednek el. A talajjal párhuzamos síkban megadott szögek a β vízszintes szögek; a jármű hosszirányú szimmetria síkjával párhuzamos síkban megadott szögek az α függőleges szögek. A vízszintes szögek szárain átmenő függőleges, valamint a függőleges szögek szárain átmenő és az előbbi függőleges síkokra merőleges síkok határolják a láthatósági teret.
 
@@ -88,6 +90,8 @@ egkövetelt legkisebb láthatósági szögeit a 3. táblázat tartalmazza.
 
 Járművön elhelyezett páratlan számú világító és fényjelző berendezések megkövetelt legkisebb láthatósági szögei
 
+## D491A_0
+
 | Lámpa megnevezése | Láthatósági szög; fok |
 
 | +α felfelé | -α lefelé | +β kifelé | -β befelé |
@@ -114,17 +118,19 @@ Járművön elhelyezett páratlan számú világító és fényjelző berendezé
 
 | hátul | 15 | 152/ | 30 | 30 |
 
-Megjegyzések:
+## Megjegyzések:
 
-1/ Ha nem a hosszirányú szimmetria síkban van elhelyezve, akkor -b = 10o.
+## 1/ Ha nem a hosszirányú szimmetria síkban van elhelyezve, akkor -b = 10o.
 
-2/ Ha az átvilágított felület alsó éle 0,75 m-nél közelebb van a talajhoz, akkor -a = 5o.
+## 2/ Ha az átvilágított felület alsó éle 0,75 m-nél közelebb van a talajhoz, akkor -a = 5o.
 
-3/ +-b a fényvisszaverő felület középpontján (súlypontján) átmenő és a hosszirányú szimmetria síkra, valamint a talajra merőleges síkra vonatkoztatva.
+## 3/ +-b a fényvisszaverő felület középpontján (súlypontján) átmenő és a hosszirányú szimmetria síkra, valamint a talajra merőleges síkra vonatkoztatva.
 
 2. táblázat
 
 Gépjárművön és pótkocsiján elhelyezett páros számú világító és fényjelző berendezések megkövetelt legkisebb láthatósági szögei
+
+## D491B_0
 
 | Lámpa megnevezése | Láthatósági szög; fok |
 
@@ -170,109 +176,16 @@ Gépjárművön és pótkocsiján elhelyezett páros számú világító és fé
 
 | hátul | 15 | 151/ | 80 | 20 |
 
-Megjegyzések:
+## Megjegyzések:
 
-1/ Ha az átvilágított felület alsó éle 0,75 m-nél közelebb van a talajhoz, akkor -a = 5o.
+## 1/ Ha az átvilágított felület alsó éle 0,75 m-nél közelebb van a talajhoz, akkor -a = 5o.
 
-2/ +-b a lámpa ill. fényvisszaverő felület középpontján (súlypontján) átmenő és a hosszirányú szimmetria síkra, valamint a talajra merőleges síkra vonatkoztatva.
+## 2/ +-b a lámpa ill. fényvisszaverő felület középpontján (súlypontján) átmenő és a hosszirányú szimmetria síkra, valamint a talajra merőleges síkra vonatkoztatva.
 
-3/ Előre és hátrafelé is.
+## 3/ Előre és hátrafelé is.
 
 3. táblázat
 
 Mezőgazdasági vontató, lassú jármű, és pótkocsijai páros számú világító és fényjelző berendezéseinek megkövetelt legkisebb láthatósági szögei
 
-| Lámpa megnevezése | Láthatósági szög; fok |
-
-| +α felfelé | -α lefelé | +β kifelé | -β befelé |
-
-| Tompított fényszóró | 15 | 10 | 45 | 5 |
-
-| Ködlámpa | 5 | 5 | 45 | 5 |
-
-| Hátrameneti lámpa | 15 | 5 | 45 | 30 |
-
-| Helyzetjelző lámpa | elől | 15 | 151/ | 80 | 105/ |
-
-| hátul | 15 | 154/ | 80 | vagy | 45 |
-
-| 45 | 80 |
-
-| Várakozást jelző lámpa | 15 | 151/ | 456/ | 456/ |
-
-| Hátsó helyzetjelző ködlámpa | 5 | 5 | 25 | 25 |
-
-| Méretjelző lámpa | elől | 5 | 20 | 80 | - |
-
-| hátul | 5 | 20 | 80 | - |
-
-| Irányjelző lámpa gépkocsin és pótkocsin | elől | 15 | 15 | A,B,C és D elrendezés szerint; lásd a 3. táblázathoz tartozó ábrát |
-
-| oldalt | 15 | 152/ |
-
-| hátul | 15 | 15 |
-
-| Féklámpa | 15 | 151/ | 45 | 45 |
-
-| Fényvisszaverő | elől | 15 | 151/ | 30 | 30 |
-
-| oldalt7/ | 10 | 103/ | 20 | 20 |
-
-| hátul | 15 | 151/ | 30 | 30 |
-
-Megjegyzések:
-
-1/ Ha az átvilágított felület alsó éle 0,75 m-nél közelebb van a talajhoz, akkor -a = 5o és, ha 1,9 m-nél közelebb, akkor -a = 10o.
-
-2/ B és C elrendezésnél, ha az átvilágított felület alsó éle 1,9 m-nél közelebb van a talajhoz, akkor -a = 10o. Ugyanez vonatkozik B és D elrendezés első irányjelző lámpáira is.
-
-3/Ha a fényvisszaverő felület alsó éle 0,75 m-nél közelebb van a talajhoz, akkor -a = 5o
-
-4/ Ha az átvilágított felület alsó éle 1,50 m-nél közelebb van a talajhoz, akkor -a = 10o és, ha 0,75 m-nél közelebb, akkor -a = 5o.
-
-5/ Ha a felépítmény nem teszi lehetővé a -b = 10o betartását, akkor -b = 5o; 1,40 m-nél nem szélesebb járműnél -b = 3o-ra csökkenthető.
-
-6/ Előre és hátrafelé is.
-
-7/ +-b a lámpa ill. fényvisszaverő felület középpontján (súlypontján) átmenő és a hosszirányú szimmetria síkra, valamint a talajra merőleges síkra vonatkoztatva.
-
-[^231]
-
-4. táblázat
-
-A bekanyarodási lámpa láthatósági szögei
-
-|  | A | B |
-
-| 1 |  | B1 | B2 | B3 | B4 |
-
-| 2 |  | Láthatósági szög; fok |
-
-| 3 | Lámpa megnevezése | +α felfelé | -α lefelé | +β kifelé | -β befelé |
-
-| 4 | Tompított fényszóró | 15 | 10 | 45 | 45 |
-
-| 5 | Ködfényszóró | 5 | 5 | 45 | 451 |
-
-| 6 | Hátrameneti lámpa | 15 | 5 | 45 | 45 |
-
-| 7 | Bekanyarodási lámpa | 10 | 10 | 30-60 |  |
-
-| 8 | Helyzetjelző lámpa | első | 15 | 152 | 80 | 80 |
-
-| 9 |  | hátsó | 15 | 152 | 80 | 80 |
-
-| 10 | Hátsó helyzetjelző ködlámpa | 5 | 5 | 25 | 25 |
-
-| 11 | Féklámpa | 15 | 152 | 45 | 45 |
-
-| 12 | Megkülönböztető vagy figyelmeztető lámpa | 5 | 20 | 180 | 180 |
-
-| 13 | Fényvisszaverő | elöl | 15 | 152 | 30 | 30 |
-
-| 14 |  | oldalt | 15 | 152 | 30 | 30 |
-
-| 15 |  | hátul | 15 | 152 | 30 | 30 |
-
-[^230]: A 11. számú melléklet a 66/2012. (XII. 10.) NFM rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^231]: Lásd 1990. évi 33. szám 720. oldal
+[^238]: A 11. számú melléklet a 66/2012. (XII. 10.) NFM rendelet 6. § (3) bekezdése szerint módosított szöveg.

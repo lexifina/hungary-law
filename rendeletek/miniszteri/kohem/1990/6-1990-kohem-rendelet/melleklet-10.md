@@ -1,4 +1,4 @@
-## A motorkerékpárok fékrendszereinek hatásosságára vonatkozó előírások
+## D488A_0
 
 | A járműkategória megnevezése és jele | V km/h | K N | L N | Kétkerekű járműnél csak a hátsó kerékkel fékezve; háromkerekű járműnél az egyik tengelyen lévő kerékkel (kerekekkel) fékezve | Kétkerekű járműnél csak a első kerékkel fékezve; háromkerekű járműnél másik tengelyen lévő kerékkel (kerekekkel) fékezve | Az összes fékezhető kerékkel fékezve | Ismételt féke- zések utáni fékahatásosság az eredeti % - a | B |  |
 

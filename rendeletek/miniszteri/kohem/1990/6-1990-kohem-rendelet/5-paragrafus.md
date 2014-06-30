@@ -32,15 +32,15 @@ Az a) és b) pontban meghatározott megengedett hosszúságot az autóbusz háts
 
 | d) tehergépkocsiból és két pótkocsiból álló járműszerelvénynél, továbbá csuklós lassújárműnél: | 24,00 méter. |
 
-(5)[^32] A járműszerelvény hossztengelyével párhuzamosan mért legnagyobb távolság:
+(5) [^32] A járműszerelvény hossztengelyével párhuzamosan mért legnagyobb távolság:
 
 a) a rakfelület legelső, a vezető fülke mögötti külső pontja és a járműszerelvény pótkocsijának leghátsó külső pontja között 16,40 méter
 
 b) az a) pontban meghatározott távolságból levonva a gépjármű hátsó vége és a pótkocsi első vége közötti távolságot: 15,65 méter.
 
-(6)[^33] A gépkocsi hátsó tengelye és az általa vontatott pótkocsi első tengelye közötti távolság nem lehet kisebb 3,00 méternél.
+(6) [^33] A gépkocsi hátsó tengelye és az általa vontatott pótkocsi első tengelye közötti távolság nem lehet kisebb 3,00 méternél.
 
-(7)[^34] A jármű szélességi méreteibe — a megengedett legnagyobb szélesség szempontjából — nem számítanak bele:
+(7) [^34] A jármű szélességi méreteibe — a megengedett legnagyobb szélesség szempontjából — nem számítanak bele:
 
 a) a gumiabroncsok, a talajjal való érintkezési pontjuk közelében, valamint a gumiabroncsok nyomásszabályozó és nyomásjelző berendezéseinek a csatlakozó szerelvényei;
 
@@ -52,9 +52,9 @@ d) az oldalt elhelyezett, 50 milliméternél nem nagyobb kinyúlású irányjelz
 
 e) a rakományon alkalmazott vámzárak, valamint az ezek rögzítésére és védelmére szolgáló berendezések;
 
-f)[^35] a mezőgazdasági vontatóra, lassú járműre és az általuk vontatott mezőgazdasági pótkocsira felszerelt ikerabroncsok, illetve alacsony nyomású mezőgazdasági gumiabroncsok, valamint az azokat takaró sárvédők. Az ilyen járművek esetében a járműre felszerelt gumiabroncsok vagy sárvédők külső szélei közötti távolság a 3,00 métert nem haladhatja meg.
+f) [^35] a mezőgazdasági vontatóra, lassú járműre és az általuk vontatott mezőgazdasági pótkocsira felszerelt ikerabroncsok, illetve alacsony nyomású mezőgazdasági gumiabroncsok, valamint az azokat takaró sárvédők. Az ilyen járművek esetében a járműre felszerelt gumiabroncsok vagy sárvédők külső szélei közötti távolság a 3,00 métert nem haladhatja meg.
 
-(8)[^36] A jármű magassági méretébe a trolibusz áramszedője nem számít bele.
+(8) [^36] A jármű magassági méretébe a trolibusz áramszedője nem számít bele.
 
 [^29]: Az 5. § (1) bekezdése a 21/1998. ( IX.11.) KHVM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
 [^30]: Az 5. § (3) bekezdése a 19/2009. (IV. 16.) KHEM rendelet 2. § (1) bekezdésével megállapított szöveg.

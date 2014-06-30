@@ -22,7 +22,7 @@ bb) vegyes üzemű jármű az, amely egyidejűleg autógázzal és egyéb üzema
 
 bc) kettős üzemű jármű az, amely vagy autógázzal, vagy egyéb üzemanyaggal
 
-## üzemeltethető.
+üzemeltethető.
 
 (5)[^7] A rendelet alkalmazásában
 

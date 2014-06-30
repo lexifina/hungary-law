@@ -1,4 +1,4 @@
-## A gépkocsi, a mezőgazdasági vontató és a lassú jármű fékrendszereinek hatásosságára vonatkozó előírások
+## D487A_0
 
 | A járműkategória megnevezése és jele | Üzemi fék |  | Biztonsági fék | Rögzítő fék | Terhelési állapot |
 
@@ -45,3 +45,5 @@
 | * 1991. január 1. után engedélyezett típusokra ** 1990. december 31. előtt engedélyezett típusokra |  | Jelmagyarázat a 10. számú mellékletben. |
 
 9. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez
+
+A motorkerékpárok fékrendszereinek hatásosságára vonatkozó előírások

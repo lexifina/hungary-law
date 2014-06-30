@@ -1,3 +1,5 @@
+## 3K83921_0
+
 |  | A |
 
 |  | A1 | A2 | A3 |
@@ -105,5 +107,7 @@
 ## — A 2003. július 1-je előtt forgalomba hozott járművekben való felhasználásra szánt, 2003. július 1-je után forgalomba hozott pótalkatrészek mentesülnek a 2000/53/EK irányelv 4. cikk (2) bekezdés a) pontjában foglalt rendelkezések alól[^*.]
 
 8. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez
+
+A gépkocsi, a mezőgazdasági vontató és a lassú jármű fékrendszereinek hatásosságára vonatkozó előírások
 
 [^*.]: Ez a kikötés nem vonatkozik a kerékkiegyensúlyozó súlyokra, az elektromotorok szénkeféire és a fékbetétekre.

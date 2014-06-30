@@ -302,6 +302,8 @@
 
 ## jóváhagyási kötelezettségek
 
+## 4K10659M_1
+
 | MR | EK (EGK) | ENSZ-EGB | Műszaki terület | A | B |
 
 | Alkalmazási kötelezettség(1) |
@@ -322,9 +324,9 @@
 
 | B/7. | 2009/139 | – | – | – | Motorkerékpárok és segédmotoros kerékpárok előírt adatai | + | – |
 
-| B/8. | 93/92 | 2009/67 | 53 | 01 | Motorkerékpárok és segédmotoros kerékpárok világító és fényjelző berendezései | + | – |
+| B/8. | 93/92 | 2009/67 2013/60 | 53 | 01 | Motorkerékpárok és segédmotoros kerékpárok világító és fényjelző berendezései | + | – |
 
-| 74 | 01 |  |  |  |
+| 74 | 01 |
 
 | B/9. | 93/93 |  | – | – | Motorkerékpárok és segédmotoros kerékpárok tömege és méretei | + | – |
 
@@ -332,7 +334,35 @@
 
 | B/11. | 95/1 | 2006/27 | – | – | Motorkerékpárok és segédmotoros kerékpárok maximális sebessége, motorteljesítménye és nyomatéka | + | – |
 
-| B/12. | 97/24 2005/30 | 2006/120 |  |  | Motorkerékpárok és segédmotoros kerékpárok tulajdonságai |  |  |
+| B/12 | 97/24 2005/30 | 2013/60 |  |  | Motorkerékpárok és segédmotoros kerékpárok tulajdonságai |  |  |
+
+| 1 |  | 2013/60 | 30 | 02 | Gumiabroncsok | + | + |
+
+| 54 | 00 | Haszongépjárművek gumiabroncsai |  |  |
+
+| 64 | 02 | Ideiglenes pótkerék |  |  |
+
+| 75 | 00 | Motorkerékpár gumiabroncsok |  |  |
+
+| 2 |  | 2013/60 | 3 | 02 | Fényvisszaverők | + | K |
+
+| 19 | 04 | Mellső ködlámpa |  |  |
+
+| 20 | 03 | Fényszóró H4 halogén izzóval |  |  |
+
+| 37 | 03 | Izzólámpák |  |  |
+
+| 38 | 00 | Hátsó ködlámpa |  |  |
+
+| 50 | 00 | Motorkerékpár lámpák |  |  |
+
+| 56 | 01 | Segédmotorkerékpár fényszóró |  |  |
+
+| 57 | 02 | Motorkerékpár fényszóró |  |  |
+
+| 72 | 01 | Motorkerékpár fényszóró halogén izzóval |  |  |
+
+| 82 | 01 | Segédmotorkerékpár fényszóró halogén izzóval |  |  |
 
 | 1 |  | 2006/27 | 30 | 02 | Gumiabroncsok | + | + |
 
@@ -364,7 +394,7 @@
 
 | 3 |  | 2006/27 | – |  | Kiálló élek | + | – |
 
-| 4 |  | 2006/27 | 81 | 00 | Visszapillantó tükör | + | - |
+| 4 |  | 2013/60 | 81 | 00 | Visszapillantó tükör | + | – |
 
 | 5 |  | 2009/108 | – |  | Levegőszennyezés | + | – |
 
@@ -374,7 +404,7 @@
 
 | 8 |  |  | – |  | Elektromágneses összeférhetőség | + | – |
 
-| 9 |  | 2009/108 | – |  | Külső zaj | + | – |
+| 9 |  | 2013/60 | 41 | 04 | Külső zaj | + | – |
 
 | 10 |  |  | – |  | Vonóberendezés | + | – |
 
@@ -468,8 +498,12 @@
 
 | 115 | 00 | A gépjárművekbe utólagosan beépíthető gáz-üzemanyagellátó (LPG és CNG) rendszerek (ún.: retrofit előírás) | + | + |
 
+| 129 | 00** | Fejlett gyermek visszatartó rendszerek | + | + |
+
 ## * Az ENSZ-EGB 44.00–44.02 előírás változatok alapján kiadott biztonsági gyermekülés jóváhagyások érvényessége 2008. május 9-én szűnt meg.
 
-2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^220]
+## ** A gyermekülésnek/gyermek visszatartó rendszernek a 44. számú, vagy a 129 számú ENSZ-EGB előírás szerint kell jóváhagyottnak lennie.
 
-[^220]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.
+2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^228]
+
+[^228]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.
