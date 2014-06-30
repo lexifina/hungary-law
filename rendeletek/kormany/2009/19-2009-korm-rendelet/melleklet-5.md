@@ -938,14 +938,6 @@ b) a telephelyi vezeték tulajdonrendszerének bemutatásával, külön feltünt
 
 c) azon telephelyi felhasználók felsorolásával, nyilvántartás bemutatásával, külön feltüntetve, hogy melyik egyetemes szolgáltatóhoz, vagy földgázkereskedőhöz tartozik,
 
-d) a mérő és adatátviteli eszközök leírásával és tulajdoni viszonyainak bemutatásával,
-
-11. a csatlakozó rendszerek üzemeltetőivel kötött együttműködési megállapodásokat
-
-a) mérésre és elszámolásra,
-
-b) egyensúlyozásra vonatkozó kötelező adatszolgáltatásra,
-
 [^544]: A Vhr. 4. számú melléklet „A benyújtandó üzletszabályzatok formátumára vonatkozó előírások” címet követő szövegrész a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
 [^545]: A Vhr. 4. számú melléklet 1.1. pont címe a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése szerint módosított szöveg.
 [^546]: A Vhr. 4. számú melléklet 1.1. pont 6. pont a) alpontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése szerint módosított szöveg.
