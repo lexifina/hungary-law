@@ -32,5 +32,14 @@ e)[^11] a Nyilvántartás működését elősegítő elektronikus alkalmazások 
 
 (6) A közérdekű adatok szolgáltatását és az azt meghaladó, egyéb feladatok közti költségek elszámolásának, az e tevékenységek során felmerülő közös költségek megosztásának feltételeit a miniszter és az Üzemeltető között kötött közhasznú szerződés rendezi.
 
+(7)[^12] Az 1. mellékletben meghatározott rendszerhasználati díj az Üzemeltető bevétele, melyet az Üzemeltetési és Adatkezelési Szabályzatban meghatározott módon és számlaszámra, készpénz átutalási megbízással, átutalással vagy – ha erre lehetőség van – elektronikus fizetési és elszámolási rendszeren keresztül vagy az Üzemeltető házipénztárában készpénzzel lehet kiegyenlíteni.
+
+(8)[^13] A rendszerhasználati díjat az e-építési napló készenlétbe helyezését megelőzően kell megfizetni. Megfizetés hiányában az Üzemeltető nem helyezi készenlétbe az e-építési naplót.
+
+(9)[^14] Túlfizetés esetén az igazoltan befizetett rendszerhasználati díjtöbbletet az Üzemeltető 15 napon belül átutalással visszatéríti.
+
 [^10]: A 3. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^11]: A 3. § (3) bekezdés e) pontját a 62/2014. (III. 6.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^12]: A 3. § (7) bekezdését a 62/2014. (III. 6.) Korm. rendelet 19. § (3) bekezdése iktatta be.
+[^13]: A 3. § (8) bekezdését a 62/2014. (III. 6.) Korm. rendelet 19. § (3) bekezdése iktatta be.
+[^14]: A 3. § (9) bekezdését a 62/2014. (III. 6.) Korm. rendelet 19. § (3) bekezdése iktatta be.

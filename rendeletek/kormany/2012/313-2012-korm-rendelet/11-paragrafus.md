@@ -1,5 +1,1 @@
 ## 10. § A 3. § (2) bekezdése, a 3. § (3) bekezdés b) pontja, a 4. § (1) bekezdés c) pontja, a 6. § (1) bekezdés e) pontja az épületek energiahatékonyságáról szóló, 2010. május 19-i 2010/31/EU európai parlamenti és tanácsi irányelv 18. cikk (2)–(3) bekezdésének és II. mellékletének való megfelelést szolgálja.
-
-11. §[^17] A Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság jogutódja a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Korlátolt Felelősségű Társaságnak a Budapesti 1. számú Földhivatalnál 4197/2 helyrajzi számon nyilvántartott 1111 Budapest, Budafoki út 59. szám alatti ingatlan 7322/28490 tulajdoni illetőségének vonatkozásában a Kincstári Vagyoni Igazgatóság és a jogelőd között 2007. március 2. napján létrejött vagyonkezelői szerződés tekintetében, mint vagyonkezelő.
-
-[^17]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 107/2013. (IV. 5.) Korm. rendelet 15. § (3) bekezdése iktatta be.
