@@ -1,4 +1,4 @@
-## IX/B. Fejezet[^131]
+## IX/B. Fejezet[^133]
 
 ## A BÍRÓSÁGGAL VALÓ ELEKTRONIKUS KAPCSOLATTARTÁS ÉS AZ ELEKTRONIKUS BÍRÓSÁGI IRATKEZELÉS RÉSZLETES SZABÁLYAI
 
@@ -34,4 +34,4 @@ c) az elektronikus kapcsolattartáshoz szükséges adatokat.
 
 (6) Az eljárás befejezését követően az OBH elnöke által jóváhagyott programmal vezetett lajstromban (a továbbiakban: lajstromprogram) tárolt iratokat, adatokat biztonságos – az iratok, adatok sértetlenségét, hozzáférhetőségét biztosító – módon kell megőrizni (elmenteni, illetve tárolni). Az OBH feladata annak biztosítása, hogy az őrzött iratok, adatok folyamatosan hozzáférhetőek legyenek, az olvashatóságukhoz szükséges technológia hozzáférhető legyen. Az OBH feladata olyan informatikai környezet kialakítása, amely az őrzött iratok, adatok hozzáférhetővé válását legfeljebb öt munkanapon belül biztosítja. Ha az eljárás lefolytatásához őrzött iratokhoz, adatokhoz való hozzáférés szükséges, az ügyintézési határidőt az iratok, adatok hozzáférhetővé válását követően kell számítani.
 
-[^131]: A IX/B. Fejezetet (75/C–75/H. §-t) az 58/2012. (XII. 28.) KIM rendelet 43. §-a iktatta be.
+[^133]: A IX/B. Fejezetet (75/C–75/H. §-t) az 58/2012. (XII. 28.) KIM rendelet 43. §-a iktatta be.

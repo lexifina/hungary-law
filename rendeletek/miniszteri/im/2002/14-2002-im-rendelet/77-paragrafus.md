@@ -1,8 +1,8 @@
 ## A körbélyegző
 
-77. § (1)[^133] A BGH körbélyegzője: középen Magyarország címere, körben felül a BGH megnevezése és alul a székhely megjelölése (pl. Bírósági Gazdasági Hivatal – Kaposvár).
+77. § (1)[^135] A BGH körbélyegzője: középen Magyarország címere, körben felül a BGH megnevezése és alul a székhely megjelölése (pl. Bírósági Gazdasági Hivatal – Kaposvár).
 
-(2)[^134] A Budapesten működő BGH-k körbélyegzője: középen Magyarország címere, körben felül a hivatal elnevezése, alul a székhely megnevezés (pl. Fővárosi Törvényszék Gazdasági Hivatala – Budapest, illetőleg Budapest Környéki Törvényszék Gazdasági Hivatala – Budapest).
+(2)[^136] A Budapesten működő BGH-k körbélyegzője: középen Magyarország címere, körben felül a hivatal elnevezése, alul a székhely megnevezés (pl. Fővárosi Törvényszék Gazdasági Hivatala – Budapest, illetőleg Budapest Környéki Törvényszék Gazdasági Hivatala – Budapest).
 
-[^133]: A 77. § (1) bekezdése a 21/2014. (III. 13.) KIM rendelet 12. § (22) bekezdés a) pontja szerint módosított szöveg.
-[^134]: A 77. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 22. § (1) bekezdés t) pontja, a 21/2014. (III. 13.) KIM rendelet 12. § (22) bekezdés a) pontja szerint módosított szöveg.
+[^135]: A 77. § (1) bekezdése a 21/2014. (III. 13.) KIM rendelet 12. § (22) bekezdés a) pontja szerint módosított szöveg.
+[^136]: A 77. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 22. § (1) bekezdés t) pontja, a 21/2014. (III. 13.) KIM rendelet 12. § (22) bekezdés a) pontja szerint módosított szöveg.
