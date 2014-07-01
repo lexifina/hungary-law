@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-83-00-00
 | 2014-01-01 | 2013. évi CCXLIV. törvény | 1997-83-00-00.64 |
 | 2014-01-02 | 2013. évi CCXLIV. törvény | 1997-83-00-00.65 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1997-83-00-00.66 |
+| 2014-07-01 | 2013. évi CCXLIV. törvény | 1997-83-00-00.67 |
