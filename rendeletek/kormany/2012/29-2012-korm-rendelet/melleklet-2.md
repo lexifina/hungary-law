@@ -14,11 +14,11 @@
 
 ## Az I. besorolási osztályban:
 
-## főiskolai szintű igazgatásszervező szakképzettség; egyetemi vagy főiskolai szintű végzettség és anyakönyvvezetői vizsga.
+## főiskolai szintű igazgatásszervező szakképzettség; egyetemi vagy főiskolai szintű végzettség és anyakönyvi szakvizsga.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és anyakönyvvezetői vizsga.
+## középiskolai végzettség és anyakönyvi szakvizsga.
 
 ## 2. Egészségügyi igazgatási feladatok
 
@@ -364,7 +364,7 @@
 
 2. melléklet a 29/2012. (III. 7.) Korm. rendelethez
 
-[^10]: Az 1. melléklet I. pont 1. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 1. melléklet I. pont 1. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 76/2014. (III. 14.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^11]: Az 1. melléklet I. pont 4. alpontja a 105/2012. (V. 30.) Korm. rendelet 27. §-a, a 322/2012. (XI. 16.) Korm. rendelet 108. § a) pontja szerint módosított szöveg.
 [^12]: Az 1. melléklet I. pont 7. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^13]: Az 1. melléklet I. pont 18. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.

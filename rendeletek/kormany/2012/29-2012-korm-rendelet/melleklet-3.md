@@ -20,6 +20,14 @@
 
 ## közgazdasági szakközépiskolai végzettség; középiskolai végzettség és középfokú számítástechnikai szakképesítés; középiskolai végzettség és az OKJ szerint: nyilvántartási és okmányügyintéző, számítástechnikai programozó, számítógép rendszerprogramozó, információrendszer-szervező, számítástechnikai szoftverüzemeltető szakképesítés; középiskolai végzettség és kormányablak ügyintéző vizsga.
 
+## Kiemelt munkakör
+
+## Anyakönyvi igazgatási feladatok
+
+## Az I. besorolási osztályban:
+
+## főiskolai szintű igazgatásszervező szakképzettség; egyetemi vagy főiskolai szintű végzettség és anyakönyvi szakvizsga.
+
 ## 2. Európai uniós feladatkör
 
 ## Az I. besorolási osztályban:
@@ -1368,11 +1376,17 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és közgazdasági szakképesítés vagy középiskolai végzettség és középfokú társadalombiztosítási, pénzügyi, munkaügyi, személyügyi, informatikai, számítástechnikai szakképesítés.
 
-103. Okmányügyi és anyakönyvi szakfelügyeleti és koordinációs feladatkör
+103.[^39] Okmányügyi szakfelügyeleti és koordinációs feladatkör
 
 Az I. besorolási osztályban:
 
-jogász szakképzettség; államigazgatási és szociális igazgatási vagy rendészeti felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és ügyvitelszervező, rendszerszervező, nyilvántartási és okmányügyintéző vagy számítástechnikai szakképesítés vagy anyakönyvi szakvizsga.
+jogász szakképzettség; államigazgatási és szociális igazgatási vagy rendészeti felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és ügyvitelszervező, rendszerszervező, nyilvántartási és okmányügyintéző vagy számítástechnikai szakképesítés.
+
+103a.[^40] Anyakönyvi szakfelügyeleti és koordinációs feladatkör
+
+Az I. besorolási osztályban:
+
+főiskolai szintű igazgatásszervező szakképzettség; jogász szakképzettség vagy közigazgatási, rendészeti, illetve katonai felsőoktatásban szerzett szakképzettség és anyakönyvi szakvizsga.
 
 104. Oktatással és továbbképzéssel kapcsolatos feladatkör
 
@@ -1582,7 +1596,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és mezőgazdasági, kertészeti, erdészeti, építőipari, közgazdasági, vízügyi szakképesítés; mezőgazdasági, kertészeti, erdészeti, építőipari, vízügyi, települési vízgazdálkodási technikusi képesítések; középiskolai végzettség és az OKJ szerint: településfejlesztési szakelőadó szakképesítés.
 
-126.[^39] Titkársági és igazgatási feladatkör
+126.[^41] Titkársági és igazgatási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1714,7 +1728,7 @@ Az I. besorolási osztályban:
 
 jogász szakképzettség; okleveles közigazgatási szakértő szakképzettség, egyetemi vagy főiskolai szintű műszaki, természettudományi, bölcsészettudományi és egyes társadalomtudományi, közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű igazgatásszervező szakképzettség.
 
-142.[^40] Állami támogatásokkal és építtetői fedezetkezelésekkel kapcsolatos feladatkör
+142.[^42] Állami támogatásokkal és építtetői fedezetkezelésekkel kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1724,19 +1738,19 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és banki szakügyintéző vagy banki tanácsadó, szakképesített bankreferens, banki ügyintéző, banki, befektetési termékértékesítő, mérlegképes könyvelő, pénzügyi szakügyintéző, pénzügyi tanácsadó, pénzügyi-számviteli ügyintéző, számviteli szakügyintéző szakképesítés.
 
-142.[^41] Integritás tanácsadói feladatkörben:
+142.[^43] Integritás tanácsadói feladatkörben:
 
 Az I. besorolási osztályban:
 
 felsőfokú végzettség és integritás tanácsadó szakképzettség
 
-143.[^42] Bérszámfejtési rendszerek működésével összefüggő feladatkör
+143.[^44] Bérszámfejtési rendszerek működésével összefüggő feladatkör
 
 Az I. besorolási osztályban:
 
 jogász szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) gazdálkodási (gazdasági) szakon szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és felsőfokú pénzügyi, számviteli, munkaügyi, vagy társadalombiztosítási szakképesítés.
 
-144.[^43] Családtámogatási ellátásokkal összefüggő feladatkör
+144.[^45] Családtámogatási ellátásokkal összefüggő feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1746,7 +1760,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és egészségügyi, közgazdasági szakképesítés vagy középiskolai végzettség és az OKJ szerint: társadalombiztosítási, pénzügyi, végrehajtó-behajtói, munkaügyi, személyügyi, informatikai, számítástechnikai szakképesítés.
 
-145.[^44] Értékpapír-forgalmazási feladatkör
+145.[^46] Értékpapír-forgalmazási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1756,19 +1770,19 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és banki szakügyintéző, banki tanácsadó, szakképesített bankreferens, banki ügyintéző, banki, befektetési termékértékesítő, mérlegképes könyvelő, pénzügyi szakügyintéző, pénzügyi tanácsadó, pénzügyi-számviteli ügyintéző, számviteli szakügyintéző szakképesítés.
 
-146.[^45] Önkormányzatok költségvetésével összefüggő ellenőrzési feladatkör
+146.[^47] Önkormányzatok költségvetésével összefüggő ellenőrzési feladatkör
 
 Az I. besorolási osztályban:
 
 jogász szakképzettség; egyetemi vagy főiskolai szintű pedagógus vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai végzettség és pénzügyi, mérlegképes könyvelői, költségvetési ellenőri, közigazgatási gazdálkodási és ellenőrzési szakértői, okleveles könyvvizsgálói, okleveles pénzügyi revizori, közoktatási szakértői szakképesítés.
 
-147.[^46] Nem állami intézmények finanszírozásával és ellenőrzésével kapcsolatos feladatkör
+147.[^48] Nem állami intézmények finanszírozásával és ellenőrzésével kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
 jogász szakképzettség; egyetemi vagy főiskolai szintű pedagógus vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai végzettség és mérlegképes könyvelői, felsőfokú pénzügyi, költségvetési ellenőri, közigazgatási gazdálkodási és ellenőrzési szakértői, okleveles könyvvizsgálói, okleveles pénzügyi revizori, közoktatási szakértői szakképesítés.
 
-148.[^47] Számlavezetéssel kapcsolatos feladatkör
+148.[^49] Számlavezetéssel kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1778,13 +1792,13 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és banki szakügyintéző, banki tanácsadó, szakképesített bankreferens, banki ügyintéző, banki, befektetési termékértékesítő, mérlegképes könyvelő, pénzügyi szakügyintéző, pénzügyi tanácsadó, pénzügyi-számviteli ügyintéző, számviteli szakügyintéző szakképesítés.
 
-149.[^48] Előirányzat-nyilvántartással és finanszírozással kapcsolatos feladatkör
+149.[^50] Előirányzat-nyilvántartással és finanszírozással kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
 egyetemi vagy főiskolai szintű közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai végzettség és mérlegképes könyvelői, felsőfokú pénzügyi, költségvetési ellenőri, közigazgatási gazdálkodási és ellenőrzési szakértői, okleveles könyvvizsgálói, okleveles pénzügyi revizori, közoktatási szakértői szakképesítés.
 
-150.[^49] Költségvetés végrehajtásával kapcsolatos feladatkör
+150.[^51] Költségvetés végrehajtásával kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1795,7 +1809,7 @@ A II. besorolási osztályban:
 középiskolai végzettség és közgazdasági, pénzügyi-számviteli szakképesítés; közgazdasági szakközépiskolai általános ügyintéző titkár (menedzserasszisztens) szakképesítés; középiskolai végzettség és az OKJ szerint: mérlegképes könyvelői, pénzügyi ügyintéző, számviteli ügyintéző, középfokú anyaggazdálkodói, általános gazdasági és statisztikai ügyintéző, gazdasági elemző és szakstatisztikai ügyintéző, költségvetési gazdálkodási szakügyintéző szakképesítés.
 
 [^17]: A 2. melléklet címe a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^18]: A 2. melléklet I. pont 1. alpontja a 333/2013. (IX. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^18]: A 2. melléklet I. pont 1. alpontja a 333/2013. (IX. 17.) Korm. rendelet 1. §-ával megállapított, a 76/2014. (III. 14.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
 [^19]: A 2. melléklet I. pont 3. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^20]: A 2. melléklet I. pont 5. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^21]: A 2. melléklet I. pont 6. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
@@ -1816,14 +1830,16 @@ középiskolai végzettség és közgazdasági, pénzügyi-számviteli szakképe
 [^36]: A 3. melléklet 54. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^37]: A 3. melléklet 70. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 94/2013. (III. 29.) Korm. rendelet 5. § (1) bekezdés a)–b) pontja szerint módosított szöveg.
 [^38]: A 3. melléklet 102. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^39]: A 3. melléklet 126. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^40]: A 3. melléklet 142. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^41]: A 3. melléklet újabb 142. pontját az 50/2013. (II. 25.) Korm. rendelet 12. §-a iktatta be.
-[^42]: A 3. melléklet 143. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^43]: A 3. melléklet 144. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^44]: A 3. melléklet 145. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^45]: A 3. melléklet 146. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^46]: A 3. melléklet 147. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^47]: A 3. melléklet 148. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^48]: A 3. melléklet 149. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^49]: A 3. melléklet 150. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^39]: A 3. melléklet 103. pontja a 76/2014. (III. 14.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^40]: A 3. melléklet 103a. pontját a 76/2014. (III. 14.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^41]: A 3. melléklet 126. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^42]: A 3. melléklet 142. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^43]: A 3. melléklet újabb 142. pontját az 50/2013. (II. 25.) Korm. rendelet 12. §-a iktatta be.
+[^44]: A 3. melléklet 143. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^45]: A 3. melléklet 144. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^46]: A 3. melléklet 145. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^47]: A 3. melléklet 146. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^48]: A 3. melléklet 147. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^49]: A 3. melléklet 148. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^50]: A 3. melléklet 149. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^51]: A 3. melléklet 150. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
