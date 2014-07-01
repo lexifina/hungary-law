@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-232-20-
 | --- | --- | --- |
 | 2013-07-01 | 2013-232-20-22.1 | 232/2013. (VI. 30.) Korm. rendelet |
 | 2014-04-09 | 2013-232-20-22.2 | 122/2014. (IV. 8.) Korm. rendelet |
+| 2014-07-01 | 2013-232-20-22.3 | 122/2014. (IV. 8.) Korm. rendelet |

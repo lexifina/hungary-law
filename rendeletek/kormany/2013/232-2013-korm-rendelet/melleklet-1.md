@@ -1,6 +1,6 @@
-## 16. § Ez a rendelet a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379, 2006.12. 28. 5. o.) hatálya alá tartozó támogatást tartalmaz.
+## 16. §[^22] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
-1. melléklet a 232/2013. (VI. 30.) Korm. rendelethez[^22]
+1. melléklet a 232/2013. (VI. 30.) Korm. rendelethez[^23]
 
 Igénylőlap az állami kezesség beváltásához
 
@@ -78,4 +78,5 @@ P. H.
 
 igénylő
 
-[^22]: Az 1. melléklet a 122/2014. (IV. 8.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^22]: A 16. § a 122/2014. (IV. 8.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^23]: Az 1. melléklet a 122/2014. (IV. 8.) Korm. rendelet 9. §-a szerint módosított szöveg.
