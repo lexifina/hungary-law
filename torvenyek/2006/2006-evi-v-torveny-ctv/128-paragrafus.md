@@ -8,7 +8,7 @@ c) a céginformációs szolgálat működésére, a fizetendő költségtérít�
 
 d) a felügyelőbiztos díjára,
 
-e) az e-közigazgatásért felelős miniszterrel és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel egyetértésben az elektronikus cégbejegyzési eljárásra és cégnyilvántartásra,
+e) az e-közigazgatásért felelős miniszterrel és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel egyetértésben az elektronikus cégbejegyzési eljárásra, a törvényességi felügyeleti eljárás elektronikus kommunikációjára, a szükséges űrlap formai és tartalmi elemeire, a kényszertörlési eljárásban az elektronikus vagyonfelmérés tartalmi és informatikai követelményeire, valamint a cégnyilvántartásra,
 
 f) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a cégeljárás és más cégügy illetéke és a közzétételi költségtérítés elektronikus úton történő megfizetésével kapcsolatos eljárásra,
 
@@ -30,4 +30,4 @@ n) a szerződésminták alkalmazásának feltételeire, a szerződésminták tar
 
 vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
-(2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a Fővárosi Törvényszék Gazdasági Hivatalának a központi költségvetéssel történő, a 131/A. § (7) bekezdése szerinti elszámolásának, valamint a központi költségvetésből a pénzösszeg folyósításának részletes szabályait rendeletben állapítsa meg.
+(2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a Fővárosi Törvényszék Gazdasági Hivatalának a központi költségvetéssel történő, a 117/A. § (5) bekezdése és a 131/A. § (7) bekezdése szerinti elszámolásának, valamint a központi költségvetésből a pénzösszeg folyósításának részletes szabályait rendeletben állapítsa meg.

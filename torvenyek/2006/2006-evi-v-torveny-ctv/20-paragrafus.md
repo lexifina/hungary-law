@@ -4,6 +4,8 @@
 
 (3) A cégbíróság a részvénytársaság és a korlátolt felelősségű társaság cégjegyzék adatainak közzétételével egyidejűleg gondoskodik a részvénytársaság és a korlátolt felelősségű társaság létesítő okiratának, illetve a létesítő okirat módosításának Cégközlönyben történő közzétételéről is.
 
+(3a) A (2) és (3) bekezdés szerinti közzétételre a Cégközlöny honlapján napi feltöltéssel kerül sor.
+
 (4) Törvényben meghatározott esetben a Cégközlönyben közleményként kell továbbá közzétenni:
 
 a) a cégbíróság cégre vonatkozó egyéb végzéseinek a rendelkező részét;

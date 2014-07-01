@@ -1,19 +1,25 @@
-117. § (1) A kényszertörlési eljárás megindításáról szóló végzést a cégbíróság a Cégközlönyben közzéteszi. A közzétételre a Cégközlöny honlapján, napi feltöltéssel kerül sor. A végzés ellen fellebbezésnek és felülvizsgálatnak helye nincs.
+117. § (1) A kényszertörlési eljárás megindításáról szóló jogerős végzést a cégbíróság a Cégközlönyben közzéteszi. A közzétételre a Cégközlöny honlapján napi feltöltéssel kerül sor. A kényszertörlés kezdő időpontja a közzététel napja.
 
 (2) Az (1) bekezdés szerinti végzésben a cégbíróság felhívást tesz közzé arra vonatkozóan, hogy akinek
 
 a) a céggel szemben követelése van – ideértve a számviteli törvény szerinti függő követelést is –,
 
-b) tudomása van arról, hogy a cég ellen bírósági, közjegyzői vagy más hatósági eljárás van folyamatban, vagy
+b) tudomása van arról, hogy a cég ellen bírósági, közjegyzői vagy más hatósági eljárás van folyamatban,
 
-c) a cég tulajdonában lévő eszköz van a birtokában, vagy a cég vagyontárgyára vonatkozó jog jogosultjaként van bejegyezve, valamely vagyontárgyat illetően a javára, illetve érdekében tény van feljegyezve, vagy a cég vagyontárgyára tarthatna igényt,
+c) a cég tulajdonában lévő eszköz van a birtokában, a cég vagyontárgyára vonatkozó jog jogosultjaként van bejegyezve, valamely vagyontárgyat illetően a javára, illetve érdekében tény van feljegyezve, vagy a cég vagyontárgyára tarthatna igényt,
 
-azt harminc napon belül jelentse be a cégbíróságnak.
+d) tudomása van a kényszertörlés közzétételének a napját megelőző évben a cég vagyonában bekövetkezett változásról, vagy
 
-(3) Amennyiben a cég vezető tisztségviselője és tagjai elérhetőek, a cégbíróság felhívja a vezető tisztségviselőt és a tagokat a cég vagyonára és kötelezettségeire vonatkozó információk közlésére. Az együttműködési kötelezettség megszegése esetén a cégbíróság a 98. § (5) bekezdés szerinti jogkövetkezményeket alkalmazza.
+e) a céggel fennálló munkaviszonyon alapuló bérkövetelése vagy munkaviszonyból származó egyéb követelése van,
 
-(4) A cégbíróság határidő tűzésével felhívja a vezető tisztségviselőt, hogy gondoskodjon az iratok elhelyezéséről és az adózás rendjéről szóló törvény szerinti kötelezettségek teljesítéséről, és ezek megtörténtét a cégbíróságnál igazolja. Amennyiben a vezető tisztségviselő határidőben nem tett eleget ezen kötelezettségének, a cégbíróság erről haladéktalanul, elektronikus úton értesíti az állami adóhatóságot.
+azt a közzétételt követő hatvan napon belül jelentse be a cégbíróságnak.
 
-(5) Az (1) bekezdés szerinti végzés meghozatalára fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
+(3) Az (1) bekezdés szerinti közzététellel egyidejűleg a cégbíróság megkeresi a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartást vezető szervezeteket annak megállapítására, hogy a nyilvántartásukban a kényszertörlés közzétételének napján vagy az azt megelőző évben a cég jog jogosultjaként van-e bejegyezve, a javára, illetve érdekében tény van-e feljegyezve, vagy egyébként a nyilvántartás a cég vagyonára vonatkozó adatot tartalmaz-e. A cégbíróság így megkeresi különösen a gépjárműveket nyilvántartó hatóságot, a légi járművek és az úszólétesítmények lajstromát, illetve nyilvántartását vezető szerveket, az ingatlanügyi hatóságot, az ingó jelzálogjogi nyilvántartást vezető szervezetet, a bírósági végrehajtási ügyek központi nyilvántartását vezető végrehajtói kamarát.
 
-(6) A cégbíróság a kényszertörlési eljárás kezdő és befejező időpontjáról a kényszertörlési eljárás elrendelését, illetve befejezését követően haladéktalanul, elektronikus úton értesíti az állami adóhatóságot. Az adóhatóság az értesítést követően haladéktalanul, elektronikus úton tájékoztatja a cégbíróságot, ha a cég az adóhatóság nyilvántartása szerint munkavállalót foglalkoztat.
+(4) A cégbíróság megkeresi a pénzforgalmi szolgáltatókat, befektetési vállalkozókat és az árutőzsdei szolgáltatókat a cég vagyonára vonatkozó adatszolgáltatás teljesítése érdekében.
+
+(5) A (3) és (4) bekezdésben meghatározott adatszolgáltatatást az érintett szervezetek harminc napon belül és ellenszolgáltatás nélkül kötelesek teljesíteni. A cégbíróság a (3) és (4) bekezdés szerinti megkereséseket, valamint az érintett szervezetek az adatszolgáltatást elektronikus úton, jogszabályban meghatározott formában és tartalommal küldik meg. Az elektronikus vagyonfelmérés részletes szabályait külön jogszabály határozza meg.
+
+(6) A cégbíróság a (3) bekezdés szerinti jogok, tények és adatok megismerése érdekében betekint a hitelbiztosítéki nyilvántartásba.
+
+(7) Ha a (2) bekezdés szerinti bejelentés vagy a cégbíróság által a (3)–(6) bekezdés szerint lefolytatott vagyonfelmérés (a továbbiakban: vagyonfelmérés) alapján megállapítható, hogy a cég vagyonnal rendelkezik, a közhiteles nyilvántartásokból beszerezhető, a vagyonelemekre vonatkozó okiratok beszerzése, valamint az egyes vagyonelemek értékének megállapítására adó- és értékbizonyítvány kiállítása iránt a cégbíróság szükség szerint intézkedik.

@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-5-00-00
 | 2013-10-01 | 2013. évi CXLIII. törvény | 2006-5-00-00.43 |
 | 2014-01-01 | 2013. évi CLXXXVI. törvény | 2006-5-00-00.44 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2006-5-00-00.45 |
+| 2014-07-01 | 2013. évi CCLII. törvény | 2006-5-00-00.46 |

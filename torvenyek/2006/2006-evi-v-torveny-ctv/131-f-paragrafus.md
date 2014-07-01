@@ -1,0 +1,3 @@
+131/F. § (1) Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénynek a 72/A. és 72/B. §-t megállapító rendelkezései a 2014. július 1. napján folyamatban lévő törvényességi felügyeleti eljárásokban is megfelelően alkalmazandóak azzal, hogy ha a kérelmező cég – és nem jogi képviselővel jár el –, elektronikus kommunikációra nem köteles.
+
+(2) A 2014. július 1-jén folyamatban lévő kényszertörlési eljárásokban a cégbíróság a kényszertörlési eljárás lezárásáról szóló végzésében a céggel szemben bejelentett követelések jogosultjait, valamint a követelések és a fellelhető vagyon összesített – valószínűsíthető – mértékét is feltünteti.
