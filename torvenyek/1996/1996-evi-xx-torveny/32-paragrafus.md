@@ -2,11 +2,11 @@
 
 32. § A személyi azonosító kezelésére – az adattovábbítás kivételével – jogosult
 
-a) a személyiadat- és lakcímnyilvántartás szerve, a személyiadat- és lakcímnyilvántartás vezetéséhez;
+a) a személyiadat- és lakcímnyilvántartás szerve, a személyiadat- és lakcímnyilvántartás vezetéséhez, a címnyilvántartás szerve a címnyilvántartás vezetéséhez;
 
 b) az Nytv. alapján a személyiadat- és lakcímnyilvántartás vezetéséhez adatszolgáltatásra kötelezett szerv vagy polgár, adatszolgáltatási feladatai teljesítéséhez;
 
-c) az anyakönyvvezető, az Nytv.-ben meghatározott adatszolgáltatási kötelezettsége teljesítéséhez, valamint a személyi azonosító anyakönyvbe történő bejegyzéséhez;
+c) elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvezési feladatainak ellátása céljából;
 
 d) a külképviseleti hatóság, olyan ügy intézéséhez, amelyben a személyi azonosító kezelésére az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult;
 
