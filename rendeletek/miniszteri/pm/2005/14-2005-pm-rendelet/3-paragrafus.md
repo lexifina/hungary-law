@@ -1,1 +1,0 @@
-## 2. § A Bit. előírásainak megfelelően terjesztett, de e rendelet előírásainak meg nem felelő biztosítási termék 2006. március 31-ig terjeszthető. Ilyen termék tartalékolásánál az eredetileg rögzített technikai kamatlábat kell alkalmazni.
