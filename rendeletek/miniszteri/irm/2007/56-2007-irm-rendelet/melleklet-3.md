@@ -32,50 +32,6 @@
 
 | ............................................................................ jogi segítő aláírása, bélyegzőjének lenyomata |
 
-3. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^120]
+3. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^126]
 
-| ................. számú példány | Két példány átadandó a meghatalmazott jogi segítőnek! |
-
-| Pártfogó ügyvédi meghatalmazás |
-
-| I. A fél részére engedélyezett pártfogó ügyvédi képviselet adatai (a fővárosi, megyei igazságügyi szolgálat tölti ki) |
-
-| 1. A fél neve és lakcíme: |
-
-| 2. A támogatás engedélyezése ügyében eljárt fővárosi, megyei igazságügyi szolgálat megnevezése: |
-
-| 3. A támogatást jogerősen engedélyező határozat száma: |
-
-| 4. A határozattal engedélyezett támogatás formája: □ előlegező/költségfeljegyzéses (Jst. 11/B. §) □ állam által átvállalt/költségmentes (Jst. 11/A. §) |
-
-| 5. Az eljáró bíróság megnevezése, a bírósági eljárás száma: |
-
-| ................................................., ......... év .................................. hó ......... nap |
-
-| aláírás, a fővárosi, megyei igazságügyi szolgálat bélyegzőjének lenyomata |
-
-| II. A meghatalmazott jogi segítő adatai (a jogi segítő tölti ki) |
-
-| 1. Név: |
-
-| 2. Iroda címe: |
-
-| 3. A jogi segítő szervezet megbízásából a pártfogó | 3.1. Név: |
-
-| ügyvédi képviseletet ellátó ügyvéd adatai: | 3.2. Iroda címe: |
-
-| 4. A sértett pártfogó ügyvédi képviseletét ellátó, a | 4.1. Név: |
-
-| büntetőeljárásról szóló 1998. évi XIX. törvény | 4.2. Szervezet vezetőjének neve: |
-
-| 58. §-ának (3) bekezdése szerinti szervezet adatai: | 4.3. Címe: |
-
-| III. Meghatalmazás |
-
-| Alulírott meghatalmazom a II. pont alatti jogi segítőt a ............................................. bíróság előtti ................................... számú, ...................................... elleni ................................... tárgyú ügyben a pártfogó ügyvédi képviseletem ellátására. |
-
-| ................................................., ......... év .................................. hó ......... nap |
-
-| .............................................................. meghatalmazó fél aláírása | ............................................................................ meghatalmazott jogi segítő (jogi segítő szervezet nevében eljáró ügyvéd) aláírása, bélyegzőlenyomata |
-
-[^120]: A 3. melléklet a 30/2010. (XII. 31.) KIM rendelet 26. §-ával megállapított szöveg.
+[^126]: A 3. melléklet a 30/2010. (XII. 31.) KIM rendelet 26. §-ával megállapított szöveg.

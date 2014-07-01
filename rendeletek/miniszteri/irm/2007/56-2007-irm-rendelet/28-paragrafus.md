@@ -2,6 +2,6 @@
 
 (2) A határozat egyik kiadmányához a területi hivatal – jogorvoslat előterjesztése esetén a támogatást engedélyező központi hivatal, a határozat bírósági felülvizsgálata esetén a bíróság – a rendelet 2. melléklete szerinti, a jogi szolgáltatás nyújtásának igazolására (a továbbiakban: teljesítés igazolása) szolgáló nyomtatványt csatol.
 
-(3)[^17] Ha a fél részére a Jst. 9/A. §-a alapján engedélyeztek támogatást, a területi hivatal a támogatást engedélyező határozat másolatát a jogerőre emelkedésétől számított 8 munkanapon belül megküldi annak az áldozatsegítő szolgálatnak, amely megállapította azt, hogy a fél bűncselekmény áldozataként jogosult az áldozatsegítési szolgáltatások igénybevételére.
+(3)[^20] Ha a fél részére a Jst. 9/A. §-a alapján engedélyeztek támogatást, a területi hivatal a támogatást engedélyező határozat másolatát a jogerőre emelkedésétől számított 8 munkanapon belül megküldi annak az áldozatsegítő szolgálatnak, amely megállapította azt, hogy a fél bűncselekmény áldozataként jogosult az áldozatsegítési szolgáltatások igénybevételére.
 
-[^17]: A 28. § (3) bekezdése a 48/2009. (IX. 28.) IRM rendelet 30. § (5) bekezdés 6. pontja szerint módosított szöveg. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^20]: A 28. § (3) bekezdése a 48/2009. (IX. 28.) IRM rendelet 30. § (5) bekezdés 6. pontja szerint módosított szöveg. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

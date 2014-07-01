@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-56-20-1
 | 2011-09-15 | 2007-56-20-1U.8 | 26/2011. (VIII. 31.) KIM rendelet |
 | 2012-09-19 | 2007-56-20-1U.9 | 30/2010. (XII. 31.) KIM rendelet |
 | 2014-03-15 | 2007-56-20-1U.10 | 21/2014. (III. 13.) KIM rendelet |
+| 2014-07-01 | 2007-56-20-1U.11 | 29/2014. (IV. 30.) KIM rendelet |

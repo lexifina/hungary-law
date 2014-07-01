@@ -242,6 +242,6 @@
 
 | Büntetőjogi felelősségem tudatában kijelentem, hogy az általam tett nyilatkozatok megfelelnek a valóságnak. A jogi segítségnyújtó szolgálat által lefolytatott, a támogatás engedélyezése és a jogi segítői, pártfogó ügyvédi díj megállapítása iránti eljárásában felmentem a jogi segítőt, pártfogó ügyvédet a jogi szolgáltatás nyújtásával kapcsolatban fennálló titoktartási kötelezettsége alól. .........................................., ........... év ............................................ hó .......... nap. ...................................................... kérelmező aláírása |
 
-2. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^119]
+2. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^125]
 
-[^119]: A 2. melléklet a 30/2010. (XII. 31.) KIM rendelet 26. §-ával megállapított szöveg.
+[^125]: A 2. melléklet a 30/2010. (XII. 31.) KIM rendelet 26. §-ával megállapított szöveg.
