@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-60-00-00
 | 2013-12-20 | 2013. évi CCXIII. törvény | 2003-60-00-00.44 |
 | 2014-01-01 | 2013. évi LXXXVI. törvény | 2003-60-00-00.45 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2003-60-00-00.46 |
+| 2014-07-01 | 2013. évi CCI. törvény | 2003-60-00-00.47 |

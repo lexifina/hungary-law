@@ -115,5 +115,3 @@ A 226/A. § (2) bekezdésében meghatározott tájékoztató esetén alkalmazand
 (ro) «Invitaţie de a prezenta o creanţă; termene ce trebuie respectate»
 
 (sk) «Výzva na prihlásenie pohľadávky. Je potrebné dodržať stanovené termíny»
-
-(sl) «Poziv k prijavi terjatve. Roki, ki jih je treba upoštevati!»

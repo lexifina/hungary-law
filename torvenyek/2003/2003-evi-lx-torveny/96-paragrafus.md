@@ -32,7 +32,9 @@ l) a biztosító, illetve fióktelep címét,
 
 m) a biztosítottnak járó többlethozam jóváírásának rendjét,
 
-n) befektetési egységhez kötött életbiztosítás esetén a 132/A. §-ban foglaltakkal összhangban meghatározott, az eszközalap felfüggesztéssel és szétválasztással kapcsolatos részletes szabályokat.
+n) befektetési egységhez kötött életbiztosítás esetén a 132/A. §-ban foglaltakkal összhangban meghatározott, az eszközalap felfüggesztéssel és szétválasztással kapcsolatos részletes szabályokat,
+
+o) az élet-, továbbá a baleset- és betegségbiztosítások (egészségbiztosítások) esetében a technikai kamatláb biztosítási szerződés tartama alatti megváltoztathatósága lehetőségét azzal a feltétellel, hogy a változtatásra csak akkor kerülhet sor, ha a technikai kamatlábak legnagyobb mértékéről szóló jogszabályban rögzített technikai kamatláb legnagyobb mértéke módosul.
 
 (2) Az életbiztosítási szerződést önálló foglalkozása vagy üzleti tevékenysége körén kívül megkötő természetes személy szerződő a 167. §-ban meghatározott tájékoztatás kézhezvételétől számított 30 napon belül az életbiztosítási szerződést írásbeli nyilatkozattal – indoklás nélkül – felmondhatja.
 

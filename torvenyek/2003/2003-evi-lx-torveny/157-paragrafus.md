@@ -12,7 +12,7 @@ e) a (2) bekezdésben foglalt esetekben az adóhatósággal,
 
 f) a feladatkörében eljáró nemzetbiztonsági szolgálattal,
 
-g) a biztosítóval, a biztosításközvetítővel, a szaktanácsadóval, a harmadik országbeli biztosító, független biztosításközvetítő vagy szaktanácsadó magyarországi képviseletével, ezek érdek-képviseleti szervezeteivel, illetve a biztosítási, biztosításközvetítői, szaktanácsadói tevékenységgel kapcsolatos versenyfelügyeleti feladatkörében eljáró Gazdasági Versenyhivatallal,
+g) a feladatkörében eljáró Gazdasági Versenyhivatallal,
 
 h) a feladatkörében eljáró gyámhatósággal,
 
