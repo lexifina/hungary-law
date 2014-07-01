@@ -4,6 +4,6 @@
 
 (2) Kiskorú részére bejegyzett élettársi kapcsolat létesítése nem engedélyezhető.
 
-(3) Az anyakönyvvezető a kijelentés megtörténte után a bejegyzett élettársi kapcsolatot a bejegyzett élettársi kapcsolatok anyakönyvébe bejegyzi.
+(3) Az anyakönyvvezető a kijelentés megtörténte után a bejegyzett élettársi kapcsolatot az anyakönyvbe bejegyzi.
 
 (4) A bejegyzett élettársi kapcsolat létesítése nyilvánosan, két tanú jelenlétében történik.
