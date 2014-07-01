@@ -1,0 +1,1 @@
+A magzati élet védelméről szóló 1992. évi LXXIX. törvény 16/A. § (4) bekezdésében kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
