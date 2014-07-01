@@ -6,6 +6,6 @@
 
 (2) A műszak ideje megegyezik az egészségügyi szolgáltatónál alkalmazott napi teljes munkaidő mértékével – figyelemmel az Eütev. 5. § (5) bekezdésében foglalt korlátozásra – ennél rövidebb, de legalább 6 órás rövidített műszak, illetve hosszabb, de maximum 12 órás nyújtott műszak is szervezhető.
 
-(3)[^5] Azokat az egészségügyi szolgáltatásokat, amelyek folyamatos hozzáférését műszakok szervezésével kell biztosítani, a melléklet tartalmazza.
+(3)[^11] Azokat az egészségügyi szolgáltatásokat, amelyek folyamatos hozzáférését műszakok szervezésével kell biztosítani, a melléklet tartalmazza.
 
-[^5]: A 8. § (3) bekezdése a 12/2005. (IV. 19.) EüM rendelet 1. §-ával megállapított, a 34/2007. (VI. 29.) EüM rendelet 3. § (1) bekezdésének a) pontja szerint módosított szöveg.
+[^11]: A 8. § (3) bekezdése a 12/2005. (IV. 19.) EüM rendelet 1. §-ával megállapított, a 34/2007. (VI. 29.) EüM rendelet 3. § (1) bekezdésének a) pontja szerint módosított szöveg.

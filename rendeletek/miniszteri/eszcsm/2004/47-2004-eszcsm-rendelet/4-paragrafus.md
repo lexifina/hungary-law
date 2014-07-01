@@ -4,11 +4,11 @@
 
 a) fekvőbeteg-ellátáson kívül szervezett (alapellátási) ügyeletet,
 
-b) fekvőbeteg-ellátás keretében
+b)[^1] fekvőbeteg-ellátás keretében
 
-ba) sürgősségi fogadóhelyet (részleget),
+ba) beteg-fogadóhelyet,
 
-bb) sürgősségi betegellátó osztályt,
+bb) sürgősségi betegellátó osztályt (I., II., III. progresszivitási szinten),
 
 bc) ügyeleti szolgálatot,
 
@@ -16,21 +16,19 @@ c) a munkavégzés helyszínén kívül szervezett készenléti szolgálatot
 
 ## alakít ki.
 
-(3) A (2) bekezdésben foglalt feladatok elláthatók sürgősségi centrum vagy egy-egy szakterület regionális vagy országos feladatait ellátó speciális sürgősségi centrum szervezésével is.
+(3)[^2] A (2) bekezdésben foglalt feladatok elláthatók egy-egy szakterület térségi vagy országos feladatait ellátó speciális sürgősségi centrum szervezésével is.
 
-(4) A sürgősségi fekvőbeteg-ellátás progresszivitási szintjei
+(4)[^3] A sürgősségi fekvőbeteg-ellátás szintjei:
 
-a) a (2) bekezdés ba) pontja szerinti fogadóhely,
+a) a (2) bekezdés b) pont ba) alpontja szerinti beteg-fogadóhely,
 
-b) a (2) bekezdés bb) pontja szerinti osztály, amennyiben a külön jogszabályban meghatározott SO2 besorolású működési engedéllyel rendelkezik,
+b) a (2) bekezdés b) pont bb) alpontja szerinti osztály,
 
-c) a speciális sürgősségi centrumok kivételével a (3) bekezdés szerinti centrum, amennyiben a külön jogszabályban meghatározott SO1 besorolású működési engedéllyel rendelkezik,
-
-d) speciális sürgősségi centrum a sürgősségi tevékenységét meghatározó engedélyezett szakma tekintetében, amennyiben a 19. § (9) bekezdése szerinti szintnek megfelelő működési engedéllyel rendelkezik.
+c) a speciális sürgősségi centrum a sürgősségi tevékenységét meghatározó engedélyezett szakma tekintetében, ha a 19. § (2) bekezdése szerinti szintnek megfelelő működési engedéllyel rendelkezik.
 
 (5) Az invazív beavatkozást, illetve aktív ellátást végző osztály sürgősségi ellátását úgy kell biztosítani, hogy – szükség esetén – az azonos telephelyen, illetve szolgáltatónál működő más osztályon fekvő betegnél is elvégezhető legyen a szükséges sürgősségi beavatkozás.
 
-(6) A sürgősségi fogadóhelyre, sürgősségi betegellátó osztályra, felvételt teljesítő osztályra történő betegfelvételről, a sürgősségi egységből történő betegátadásról vagy más intézményből történő átvételről a kezelésért felelős orvos, vitás esetben az ügyeletvezető orvos dönt.
+(6)[^4] A sürgősségi betegellátó osztályra, felvételt teljesítő osztályra történő betegfelvételről, a sürgősségi egységből történő betegátadásról vagy más intézményből történő átvételről a kezelésért felelős orvos, vitás esetben az ügyeletvezető orvos dönt.
 
 (7) A (2) bekezdés b) pontja szerinti sürgősségi egység számára biztosítani kell
 
@@ -39,3 +37,8 @@ a) a progresszivitási szintnek megfelelő diagnosztikai és konziliumi háttere
 b) az újraélesztési feladatok ellátására szervezett szakmai egység (a feladatra kiképzett személyzet és megfelelő felszerelés) működését.
 
 (8) A (6) bekezdés szerinti vezető döntése alapján az intézmény, illetve a (2) bekezdés b) pontja szerinti sürgősségi egység progresszivitását meghaladó esetben, továbbá a sürgősségi feladatok ellátásának akadályoztatása esetén a beteg továbbszállítása, illetve – a fogadó intézménnyel történt előzetes egyeztetést követően – más intézménybe történő áthelyezése indokolt.
+
+[^1]: A 4. § (2) bekezdés b) pontja a 41/2014. (VI. 30.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^2]: A 4. § (3) bekezdése a 41/2014. (VI. 30.) EMMI rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^3]: A 4. § (4) bekezdése a 41/2014. (VI. 30.) EMMI rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^4]: A 4. § (6) bekezdése a 41/2014. (VI. 30.) EMMI rendelet 6. § (3) bekezdésével megállapított szöveg.

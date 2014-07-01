@@ -1,16 +1,8 @@
-19. § (1)[^18] Sürgősségi fogadóhelyet minden a sürgősségi ellátásban részt vevő aktív betegellátást végző egészségügyi szolgáltató működtet, amennyiben nem rendelkezik sürgősségi osztállyal.
-
-(2) A sürgős ellátást igénylő beteg részére az egészségügyi szolgáltató a sürgősségi esetek fogadására szolgáló – a szolgáltató akkreditációs szintjének megfelelő – elkülönített fogadóhelyet alakít ki.
-
-(3) A sürgősségi fogadóhelyet az egészségügyi szolgáltató központi helyén, lehetőleg a diagnosztikai egységek közelében, járművel is jól megközelíthető helyen kell működtetni, továbbá a fogadóhely mellett a beteg fektetésére alkalmas megfigyelőt is kell létesíteni.
-
-(4) A fogadóhelyen folyamatosan biztosítani kell a betegeket fogadó szakasszisztens jelenlétét, aki a panaszok alapján riasztja az illetékes ügyeletben lévő orvost.
-
-(5) A sürgősségi fogadóhelyen történik
+19. §[^24] (1) A sürgősségi osztályon történik
 
 a) a sürgősségi ellátásra jelentkező betegek fogadása, vizsgálata;
 
-b) állapotuk stabilizálása;
+b) a sürgősségi ellátásra jelentkező betegek állapotának stabilizálása;
 
 c) az elsődleges diagnózis felállítása;
 
@@ -22,27 +14,24 @@ ea) ellátást követő hazabocsátásáról,
 
 eb) intenzív osztályon történő elhelyezéséről, illetve a szolgáltató más osztályára történő felvételéről,
 
-ec) más, a beteg állapota által indokolt ellátási szinten működő egészségügyi szolgáltatóhoz történő továbbküldéséről.
+ec) más, a beteg állapota által indokolt ellátási szinten működő egészségügyi szolgáltatóhoz történő továbbküldéséről;
 
-(6)[^19] Sürgősségi osztályt akkor kell létesíteni, ha az egészségügyi szolgáltatónál a várható sürgősségi betegforgalom a napi 40 főt átlagosan meghaladja.
+f) a legfeljebb 24 óra alatti végleges ellátás, illetve a megfigyelést igénylő esetek ellátása és a betegnek közvetlenül az osztályról történő elbocsátása.
 
-(7)[^20] Sürgősségi centrumot a legmagasabb ellátási szinten működő olyan egészségügyi szolgáltatónál kell létesíteni, amely a sürgősségi feladatok széles skáláját képes ellátni.
+(2) Speciális sürgősségi centrumot egy-egy térség ellátására az egyetemek, egyes országos intézetek, illetve speciális kórházi osztállyal rendelkező egészségügyi szolgáltatók a következő szakterületeken működtetnek:
 
-(8) A sürgősségi osztályon, illetve centrumban történik az (5) bekezdésben írtakon túlmenően a legfeljebb 24 óra alatti végleges ellátás, illetve a megfigyelést igénylő esetek ellátása és a betegnek a közvetlenül az osztályról, illetve centrumból történő elbocsátása.
+a) szívsebészet a progresszivitás harmadik szintjén,
 
-(9) Speciális sürgősségi centrumot egy-egy régió ellátására az egyetemek, egyes országos intézetek, illetve speciális kórházi osztállyal rendelkező egészségügyi szolgáltatók az alábbi szakterületeken működtetnek:
+b) haemodinamikával rendelkező (invazív) kardiológia a progresszivitás második és harmadik szintjén,
 
-a) szívsebészet, haemodinamikával rendelkező (invazív) kardiológia a progresszivitás második, harmadik szintjén,
+c) toxikológia a progresszivitás harmadik szintjén,
 
-b) toxikológia a progresszivitás harmadik szintjén,
+d) gyermek és felnőtt égéssebészet a progresszivitás második és harmadik szintjén,
 
-c) gyermek és felnőtt égéssebészet a progresszivitás második, harmadik szintjén,
+e) idegsebészet a progresszivitás harmadik szintjén,
 
-d)[^21] idegsebészet a progresszivitás második és harmadik, neurológia és stroke a progresszivitás első, második és harmadik szintjén,
+f) neurológia stroke ellátással együtt a progresszivitás második és harmadik szintjén, illetve
 
-e) infektológia a progresszivitás harmadik szintjén.
+g) infektológia a progresszivitás harmadik szintjén.
 
-[^18]: A 19. § (1) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
-[^19]: A 19. § (6) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
-[^20]: A 19. § (7) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
-[^21]: A 19. § (9) bekezdés d) pontja a 73/2013. (XII. 2.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^24]: A 19. § a 41/2014. (VI. 30.) EMMI rendelet 10. §-ával megállapított szöveg.
