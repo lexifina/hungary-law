@@ -11,3 +11,5 @@ b) amely érzékelhetően rontja azon fogyasztó lehetőségét az áruval kapcs
 (3) A (2) bekezdés értelmében tisztességtelen különösen az a kereskedelmi gyakorlat, amely megtévesztő (6. § és 7. §) vagy agresszív (8. §).
 
 (4) A mellékletben meghatározott kereskedelmi gyakorlatok tisztességtelenek.
+
+(5) A fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozóan az 1. § (4) vagy (5) bekezdése szerint külön jogszabályban előírt, az e törvényben foglaltaknál szigorúbb követelményeket megsértő kereskedelmi gyakorlat tisztességtelen.

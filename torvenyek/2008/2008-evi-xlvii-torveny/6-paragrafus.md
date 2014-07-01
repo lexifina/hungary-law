@@ -1,4 +1,4 @@
-6. § (1) Megtévesztő az a kereskedelmi gyakorlat, amely valótlan információt tartalmaz, vagy valós tényt – figyelemmel megjelenésének valamennyi körülményére – olyan módon jelenít meg, hogy megtéveszti vagy alkalmas arra, hogy megtévessze a fogyasztót az alábbiak közül egy vagy több tényező tekintetében és ezáltal a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg, vagy erre alkalmas:
+6. § (1) Megtévesztő az a kereskedelmi gyakorlat, amely valótlan információt tartalmaz, vagy valós tényt – figyelemmel megjelenésének valamennyi körülményére – olyan módon jelenít meg, hogy megtéveszti vagy alkalmas arra, hogy megtévessze a fogyasztót az alábbiak közül egy vagy több tényező tekintetében, és ezáltal a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg, vagy erre alkalmas:
 
 a) az áru létezése, természete, figyelembe véve a termék megnevezésére vonatkozó jogszabályi előírásokat is,
 

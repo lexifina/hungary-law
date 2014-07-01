@@ -20,7 +20,7 @@ Tisztességtelen kereskedelmi gyakorlatok
 
 3. Minőségi jelzés, bizalmi jegy vagy hasonló megkülönböztető jelölés jogosulatlan feltüntetése.
 
-4. Annak valótlan állítása – akár önmagában az árunak a kereskedelmi kommunikációban való megjelenítése által –, hogy a vállalkozást, annak kereskedelmi gyakorlatát vagy áruját valamely közigazgatási hatóság, közigazgatási jogkör gyakorlására feljogosított szerv vagy erre feljogosított magánjogi jogi személy engedélyezte, jóváhagyta vagy elismerte, vagy ilyen állítás az engedélyezési, jóváhagyási, illetve elismerési feltételeknek való megfelelés nélkül.
+4. Annak valótlan állítása, hogy a vállalkozást, annak kereskedelmi gyakorlatát vagy áruját valamely közigazgatási hatóság, közigazgatási jogkör gyakorlására feljogosított szerv vagy erre feljogosított magánjogi jogi személy engedélyezte, jóváhagyta vagy elismerte, vagy ilyen állítás az engedélyezési, jóváhagyási, illetve elismerési feltételeknek való megfelelés nélkül.
 
 5. Áru meghatározott áron való vásárlására felhívás annak elhallgatásával, hogy a vállalkozásnak alapos oka van azt feltételezni, hogy az adott vagy azt helyettesítő árut a kínált áron nem fogja tudni – az árura, a vonatkozó kereskedelmi kommunikáció hatókörére és az ajánlati árra figyelemmel – megfelelő időtartamig és mennyiségben szolgáltatni vagy más vállalkozástól beszerezni (csalogató reklám).
 
@@ -82,4 +82,4 @@ egy másik áru eladásösztönzésének a szándékával (bait-and-switch rekl�
 
 30. A fogyasztó kifejezetten arról való tájékoztatása, hogy ha nem vásárolja meg az adott árut, veszélybe kerül a vállalkozás vagy alkalmazottja munkája vagy megélhetése.
 
-31. Olyan hamis benyomás keltése, hogy a fogyasztó már megnyert, meg fog nyerni, vagy meghatározott cselekmény megtétele révén fog megnyerni egy nyereményt vagy egyéb előnyhöz jutni, miközben valójában nincs ilyen nyeremény, illetve előny, vagy a nyeremény, illetve egyéb előny érvényesítése, illetve igénybevétele a fogyasztó számára meghatározott pénzösszeg megfizetéséhez vagy költségek viseléséhez kötött.
+31. Olyan hamis benyomás keltése, hogy a fogyasztó már megnyert, meg fog nyerni, vagy meghatározott cselekmény megtétele révén fog megnyerni egy nyereményt (díjat, jutalmat vagy azzal egyenértékű egyéb előnyt), miközben valójában nincs ilyen nyeremény, vagy a nyeremény érvényesítése, illetve igénybevétele a fogyasztó számára meghatározott pénzösszeg megfizetéséhez vagy költségek viseléséhez kötött.
