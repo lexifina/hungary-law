@@ -1,4 +1,4 @@
-7. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^94]
+7. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^104]
 
 1. A termékdíj raktár nyilvántartásának adattartalma
 
@@ -152,4 +152,4 @@ Az alább felsorolt szokásos kezelési módok az engedélybe foglalás nélkül
 
 4.4.4. mennyisége.
 
-[^94]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 529/2013. (XII. 30.) Korm. rendelet 12. § (8) bekezdése iktatta be.
+[^104]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 529/2013. (XII. 30.) Korm. rendelet 12. § (8) bekezdése iktatta be.

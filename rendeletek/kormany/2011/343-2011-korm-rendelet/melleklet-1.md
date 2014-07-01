@@ -1,6 +1,6 @@
-## 36–42. §[^85]
+## 36–42. §[^92]
 
-1. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^86]
+1. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^93]
 
-[^85]: A 36–42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^86]: Az 1. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (1) bekezdése, a 41/2014. (II. 24.) Korm. rendelet 3. § (1) bekezdése, 5. § 15. pontja szerint módosított szöveg.
+[^92]: A 36–42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^93]: Az 1. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (1) bekezdése, a 41/2014. (II. 24.) Korm. rendelet 3. § (1) bekezdése, az 5. § 15. pontja, a 3. § (2) bekezdése szerint módosított szöveg.

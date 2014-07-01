@@ -42,7 +42,7 @@
 
 ## k) az egyéni hulladékkezelő által lekötött kapacitás mértéke HKT kód és EWC szerint.
 
-## IV. Átvállalási szerződés bejelentésének adattartalma
+## IV.[^95] Átvállalási szerződés nyilvántartásba vételi kérelem adattartalma
 
 ## 1. Átvállalásban érintett felek adatai
 
@@ -50,15 +50,19 @@
 
 ## b) adószám
 
-## 2. Az átvállalással érintett termék megnevezése, vámtarifaszáma, CsK vagy KT-kódja
+## 2. Az átvállalással érintett termék megnevezése, vámtarifaszáma, CsK vagy KT-kódjának első három jegye
 
-## 3. Az átvállalás időszakának meghatározása
+## 3. Az átvállalási szerződés száma
 
-## 4. Az átvállalás kezdő időpontjának meghatározása
+## 4. Az átvállalási szerződés kelte
 
-## 5. Az átvállalás jogcíme
+## 5. Az átvállalás kezdő időpontjának meghatározása, ha a nyilvántartásba vétel napjától későbbi időpontban állapodtak meg a felek
 
-3. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^88]
+## 6. Az átvállalási szerződés hatályosságának utolsó napja
+
+## 7. Az átvállalás jogcíme és pontos jogszabályi helye
+
+3. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^96]
 
 ## A Ktdt. 3. § (6) bekezdésében meghatározott nyilatkozat mintája
 
@@ -90,4 +94,5 @@ P. H.
 
 cégszerű aláírás
 
-[^88]: A 3. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^95]: A 2. melléklet IV. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^96]: A 3. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.

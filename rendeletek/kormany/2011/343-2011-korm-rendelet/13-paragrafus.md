@@ -8,6 +8,6 @@ b) a kötelezett ellenőrzése az OHÜ által nyilvántartott adat, információ
 
 c) a kötelezett ellenőrzése az OHÜ speciális szakismeretének hiányában eredményesen nem hajtható végre, vagy
 
-d)[^34] ha az állami adó- és vámhatóság, illetve a környezetvédelmi hatóság és az OHÜ erről külön megállapodik.
+d)[^38] ha az állami adó- és vámhatóság, illetve a környezetvédelmi hatóság és az OHÜ erről külön megállapodik.
 
-[^34]: A 13. § d) pontja a 366/2012. (XII. 17.) Korm. rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^38]: A 13. § d) pontja a 366/2012. (XII. 17.) Korm. rendelet 42. § (1) bekezdése szerint módosított szöveg.

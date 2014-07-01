@@ -42,7 +42,7 @@
 
 ## d) környezetvédelmi termékdíj-fizetési kötelezettség összege soronként és összesen.
 
-## V.[^90] Visszaigényelhető termékdíj
+## V.[^98] Visszaigényelhető termékdíj
 
 ## 1. Visszaigényelhető termékdíj összegének megállapítása:
 
@@ -84,7 +84,7 @@
 
 ## f) egyéni hulladékkezelés keretében kezelt mennyiség.
 
-## VII.[^91] A termékdíj-fizetési kötelezettség átvállalására vonatkozó adatok
+## VII.[^99] A termékdíj-fizetési kötelezettség átvállalására vonatkozó adatok
 
 ## 1. Átvállalással érintett termék adatai:
 
@@ -110,7 +110,7 @@
 
 ## h) csomagolóanyag kiskereskedelmi értékesítője által átvett mennyiség.
 
-## VIII.[^92] A nyilatkozattal átadott termékdíj-kötelezettség átadása
+## VIII.[^100] A nyilatkozattal átadott termékdíj-kötelezettség átadása
 
 ## 1. Kötelezett neve, adószáma
 
@@ -134,7 +134,9 @@
 
 ## e) a Ktdt. 3. § (6) bekezdés cb) pontja alapján átadott mennyiség.
 
-5. melléklet a 343/2011. (XII. 29.) Korm. rendelethez
+## f)[^101] a Ktdt. 3. § (6) bekezdés d) pontja alapján átadott mennyiség.
+
+5. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^102]
 
 ## A nyilvántartás minimális adattartalma
 
@@ -144,11 +146,11 @@ A termékdíjköteles termék:
 
 1. megnevezése,
 
-2. CsK, KT kódja,
+2. CsK vagy KT kódja,
 
-3. a termék vámtarifaszáma,
+3. vámtarifaszáma,
 
-4. egységnyi mennyisége (kg),
+4. egységnyi mennyisége (kg/db),
 
 5. termékdíj-tétele,
 
@@ -156,10 +158,10 @@ A termékdíjköteles termék:
 
 7. a termékdíj-kötelezettség keletkezésének napja,
 
-8. a termékdíj bevallásának adó-megállapítási időszaka,
+8. a termékdíj megfizetésének napja.
 
-9. a termékdíj megfizetésének napja.
-
-[^90]: A 4. melléklet V. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
-[^91]: A 4. melléklet VII. pontja a 139/2013. (V. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^92]: A 4. melléklet VIII. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^98]: A 4. melléklet V. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^99]: A 4. melléklet VII. pontja a 139/2013. (V. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^100]: A 4. melléklet VIII. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^101]: A 4. melléklet VIII. pont 3. alpont f) pontját az 529/2013. (XII. 30.) Korm. rendelet 12. § (6) bekezdése iktatta be.
+[^102]: Az 5. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (7) bekezdésével megállapított szöveg.
