@@ -2,13 +2,13 @@
 
 ## nyújtott támogatás
 
-92/U. §[^161] (1) A fiatal innovatív vállalkozások részére támogatás akkor nyújtható, ha a projektgazda, illetőleg a végső kedvezményezett olyan kisvállalkozás, amely a támogatás odaítélésének időpontjában hat évnél rövidebb ideje létezik.
+92/U. §[^162] (1) A fiatal innovatív vállalkozások részére támogatás akkor nyújtható, ha a projektgazda, illetőleg a végső kedvezményezett olyan kisvállalkozás, amely a támogatás odaítélésének időpontjában hat évnél rövidebb ideje létezik.
 
 (2) A projektgazda, illetőleg a végső kedvezményezett kutatási és fejlesztési költségeinek az összes működési költség legalább 15%-át kell kitennie a támogatás odaítélését megelőző három év legalább egyikében, pénzügyi előzményekkel nem rendelkező induló vállalkozás esetében ugyanezen arányt a folyó pénzügyi időszak független könyvvizsgáló által hitelesített pénzügyi kimutatásában kell kimutatni.
 
-(3)[^162] A támogatási összeg nem haladhatja meg az 1,5 millió eurónak megfelelő forintösszeget a Szerződés 87. cikke (3) bekezdésének a) pontja szerinti, eltérésre jogosult régiókban, illetve az 1,25 millió eurónak megfelelő forintösszeget a Szerződés 87. cikke (3) bekezdésének c) pontja szerinti, eltérésre jogosult régiókban.
+(3)[^163] A támogatási összeg nem haladhatja meg az 1,5 millió eurónak megfelelő forintösszeget a Szerződés 87. cikke (3) bekezdésének a) pontja szerinti, eltérésre jogosult régiókban, illetve az 1,25 millió eurónak megfelelő forintösszeget a Szerződés 87. cikke (3) bekezdésének c) pontja szerinti, eltérésre jogosult régiókban.
 
 (4) A projektgazda, illetőleg a végső kedvezményezett csak egyszer részesülhet a támogatásban azon időszak alatt, amikor fiatal innovatív vállalkozásnak minősül.
 
-[^161]: A 92/U. § a 155/2010. (V. 4.) Korm. rendelet 50. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
-[^162]: A 37/2011. (III. 22.) Korm. rendelet 40. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint az „EK Szerződés 87.” szövegrészek helyébe az „EUMSz 107.” szövegek lépnek, nem vezethető át.
+[^162]: A 92/U. § a 155/2010. (V. 4.) Korm. rendelet 50. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^163]: A 37/2011. (III. 22.) Korm. rendelet 40. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint az „EK Szerződés 87.” szövegrészek helyébe az „EUMSz 107.” szövegek lépnek, nem vezethető át.

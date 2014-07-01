@@ -4,9 +4,9 @@
 
 (2) Az (1) bekezdés hatálya alá tartoznak, így kulturális célú támogatásra pályázhatnak, különösen:
 
-a)[^148] a kulturális örökség védelméről szóló törvényben meghatározott nyilvántartásban szereplő műemlék ingatlanok tulajdonosai, vagyonkezelői;
+a)[^149] a kulturális örökség védelméről szóló törvényben meghatározott nyilvántartásban szereplő műemlék ingatlanok tulajdonosai, vagyonkezelői;
 
-b)[^149] a kulturális örökségvédelmi törvényben meghatározott nyilvántartásában szereplő régészeti lelőhelyek feltárására, régészeti bemutatóhelyek állagmegóvására, helyreállítására, kialakítására a kormányrendelet szerint régészeti feltárásra jogosult intézmények tulajdonosai, vagyonkezelői;
+b)[^150] a kulturális örökségvédelmi törvényben meghatározott nyilvántartásában szereplő régészeti lelőhelyek feltárására, régészeti bemutatóhelyek állagmegóvására, helyreállítására, kialakítására a kormányrendelet szerint régészeti feltárásra jogosult intézmények tulajdonosai, vagyonkezelői;
 
 c) azok a tevékenységek, melyek célja a műemléki tér örökségvédelmi szempontú restaurálása, eredeti állapotának helyreállítása, eredeti állapot kutatása (föld-, fal-, padló-, mennyezet-kutatás);
 
@@ -18,5 +18,5 @@ f) műtárgyak védelmét célzó tevékenységek;
 
 g) az örökségvédelem területén működő szervezetek.
 
-[^148]: A 92/G. § (2) bekezdés a) pontja a 394/2012. (XII. 20.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
-[^149]: A 92/G. § (2) bekezdés b) pontja a 394/2012. (XII. 20.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^149]: A 92/G. § (2) bekezdés a) pontja a 394/2012. (XII. 20.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^150]: A 92/G. § (2) bekezdés b) pontja a 394/2012. (XII. 20.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.

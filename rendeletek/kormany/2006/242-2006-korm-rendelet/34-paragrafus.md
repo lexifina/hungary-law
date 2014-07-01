@@ -6,7 +6,7 @@
 
 34. § (1) A finanszírozási mechanizmusok végrehajtásában részt vevő intézmények az együttműködési megállapodásokban foglalt feladataikat a következő tevékenységeken keresztül látják el.
 
-(2)[^50] A Nemzeti Kapcsolattartó
+(2)[^51] A Nemzeti Kapcsolattartó
 
 a) megköti a támogatási megállapodásokat,
 
@@ -32,9 +32,9 @@ k) biztosítja a kifizetendő támogatás összegének rendelkezésre állását
 
 l) TA projekt esetében ellátja a szakmai teljesítésigazolást.
 
-(3)[^51] A Végrehajtó Ügynökség
+(3)[^52] A Végrehajtó Ügynökség
 
-a)[^52] előkészíti a végrehajtási szerződéseket,
+a)[^53] előkészíti a végrehajtási szerződéseket,
 
 b) a projektgazdával megköti a végrehajtási szerződést,
 
@@ -58,29 +58,29 @@ k) adatot szolgáltat az éves monitoring jelentéshez,
 
 l) kifizeti a projektgazdáknak a végrehajtási megállapodásban meghatározott mértékű előlegeket, valamint a támogatások összegét a projektekre benyújtott elszámolások alapján,
 
-m)[^53] eljárásrendjének megfelelő mértékben ellenőrzi a kifizetési kérelmeket, majd összeállítja a szükséges dokumentumokat,
+m)[^54] eljárásrendjének megfelelő mértékben ellenőrzi a kifizetési kérelmeket, majd összeállítja a szükséges dokumentumokat,
 
-n)[^54] részt vesz az EMIR vonatkozó moduljának fejlesztésében és adatokkal való folyamatos feltöltésében,
+n)[^55] részt vesz az EMIR vonatkozó moduljának fejlesztésében és adatokkal való folyamatos feltöltésében,
 
 o) vezeti a finanszírozási mechanizmusokra vonatkozó, a 83–86. §-ok szerinti számviteli nyilvántartásait.
 
-(4)[^55] A Kifizető Hatóság
+(4)[^56] A Kifizető Hatóság
 
 a) számlát nyit a Magyar Államkincstárban az FMI által átutalt támogatások fogadására és visszafizetésére finanszírozási mechanizmusonkénti bontásban,
 
-b)[^56] intézkedik az FMI által átutalt támogatások fejezeti kezelésű előirányzat-felhasználási keretszámlára történő továbbutalásáról,
+b)[^57] intézkedik az FMI által átutalt támogatások fejezeti kezelésű előirányzat-felhasználási keretszámlára történő továbbutalásáról,
 
-c)[^57] igazolja a Nemzeti Kapcsolattartó által benyújtott elszámolásokat és továbbítja azokat az FMI részére,
+c)[^58] igazolja a Nemzeti Kapcsolattartó által benyújtott elszámolásokat és továbbítja azokat az FMI részére,
 
 d) vezeti a finanszírozási mechanizmusokra vonatkozó, 83–86. §-ok szerinti számviteli nyilvántartásait,
 
 e) ellenőrzi a pénzügyi lebonyolítás menetét.
 
-[^50]: A 34. § (2) bekezdése a 155/2010. (V. 4.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
-[^51]: A 34. § (3) bekezdés nyitó szövegrésze a 155/2010. (V. 4.) Korm. rendelet 57. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a rendelkezést a folyamatban levő ügyekre is alkalmazni kell.
-[^52]: A 34. § (3) bekezdésének a) pontja a 265/2007. (X. 10.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^53]: A 34. § (3) bekezdés m) pontja a 155/2010. (V. 4.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
-[^54]: A 34. § (3) bekezdésének n) pontja a 265/2007. (X. 10.) Korm. rendelet 28. § (3) bekezdése, a 155/2010. (V. 4.) Korm. rendelet 57. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
-[^55]: A 34. § (4) bekezdés nyitó szövegrésze a 155/2010. (V. 4.) Korm. rendelet 57. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
-[^56]: A 34. § (4) bekezdésének b) pontja a 265/2007. (X. 10.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
-[^57]: A 34. § (4) bekezdés c) pontja a 155/2010. (V. 4.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^51]: A 34. § (2) bekezdése a 155/2010. (V. 4.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^52]: A 34. § (3) bekezdés nyitó szövegrésze a 155/2010. (V. 4.) Korm. rendelet 57. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a rendelkezést a folyamatban levő ügyekre is alkalmazni kell.
+[^53]: A 34. § (3) bekezdésének a) pontja a 265/2007. (X. 10.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^54]: A 34. § (3) bekezdés m) pontja a 155/2010. (V. 4.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^55]: A 34. § (3) bekezdésének n) pontja a 265/2007. (X. 10.) Korm. rendelet 28. § (3) bekezdése, a 155/2010. (V. 4.) Korm. rendelet 57. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^56]: A 34. § (4) bekezdés nyitó szövegrésze a 155/2010. (V. 4.) Korm. rendelet 57. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^57]: A 34. § (4) bekezdésének b) pontja a 265/2007. (X. 10.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^58]: A 34. § (4) bekezdés c) pontja a 155/2010. (V. 4.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

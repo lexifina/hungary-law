@@ -10,6 +10,6 @@ b) a Monitoring Bizottság elnöki feladatainak ellátásával,
 
 c) a finanszírozási mechanizmusokból finanszírozott projektek végrehajtásáról szóló, az együttműködési megállapodások 5. cikkében említett éves jelentések készítésével és azok FMI és Monitoring Bizottság részére jóváhagyás céljából történő továbbításával,
 
-d)[^22] az éves monitoring megbeszélés megszervezésével és Magyarország éves monitoring megbeszélésen történő képviseletével.
+d)[^23] az éves monitoring megbeszélés megszervezésével és Magyarország éves monitoring megbeszélésen történő képviseletével.
 
-[^22]: A 11. § (3) bekezdés d) pontja a 304/2011. (XII. 23.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^23]: A 11. § (3) bekezdés d) pontja a 304/2011. (XII. 23.) Korm. rendelet 23. §-a szerint módosított szöveg.

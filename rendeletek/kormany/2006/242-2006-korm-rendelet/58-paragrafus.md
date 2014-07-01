@@ -1,4 +1,4 @@
-58. §[^82] (1) A TA keretre történő pályázást a lebonyolításban részt vevő intézmények összehangolják. A TA forrásra elszámolható kiadások az 59. § (1) bekezdése szerinti költségvetési előirányzat terhére teljesíthetők. Az előirányzatról csak olyan kiadások finanszírozhatók, amelyek az érintett költségvetési fejezetek intézményi előirányzataiból nem részesülnek, illetve nem részesülhetnek támogatásban.
+58. §[^83] (1) A TA keretre történő pályázást a lebonyolításban részt vevő intézmények összehangolják. A TA forrásra elszámolható kiadások az 59. § (1) bekezdése szerinti költségvetési előirányzat terhére teljesíthetők. Az előirányzatról csak olyan kiadások finanszírozhatók, amelyek az érintett költségvetési fejezetek intézményi előirányzataiból nem részesülnek, illetve nem részesülhetnek támogatásban.
 
 (2) A Nemzeti Kapcsolattartó gondoskodik a támogatási összegek kifizetéséről a TA projekt projektgazda számlája javára a 67. és a 68. §-ában foglaltak szerint. A Nemzeti Kapcsolattartó által megvalósított TA projektekre vonatkozóan a 65. §-t nem kell alkalmazni, valamint a Nemzeti Kapcsolattartó fizetési kötelezettséget szállító részére is teljesíthet központi költségvetési forrásból.
 
@@ -12,4 +12,4 @@ b) a 41. § szerinti jelentéseknek TA esetén legalább negyedéves időszakot 
 
 c) kifizetési kérelem alatt a Kifizető Hatóság által a Nemzeti Kapcsolattartónak benyújtott lehívási kérelmet kell érteni.
 
-[^82]: Az 58. § a 155/2010. (V. 4.) Korm. rendelet 23. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^83]: Az 58. § a 155/2010. (V. 4.) Korm. rendelet 23. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

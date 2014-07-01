@@ -12,7 +12,7 @@ b) egy létesítményhez közvetlenül kapcsolódó befektetett eszközök besze
 
 (2) A támogatási intenzitás a tárgyi eszközökbe és immateriális javakba történő beruházás elszámolható költségeinek hányadaként, illetve – közvetlenül a beruházási projekttel létrehozott munkahelyek esetén – az új munkavállaló két éves becsült bérköltségének hányadaként, vagy e fenti két módszer együttes alkalmazásával kell kiszámítani, feltéve, hogy a támogatás nem lépi túl a a kétfajta számítás alkalmazásából eredő kedvezőbb értéket.
 
-(3)[^139] Az egyes (azonos elszámolható költségekkel rendelkező) projektekhez nyújtható, támogatás intenzitása nem haladhatja meg az Atr. 25. § (1) bekezdésében meghatározott mértékeket.
+(3)[^140] Az egyes (azonos elszámolható költségekkel rendelkező) projektekhez nyújtható, támogatás intenzitása nem haladhatja meg az Atr. 25. § (1) bekezdésében meghatározott mértékeket.
 
 (4) Nagyberuházás esetén a támogatási intenzitás az (1) bekezdés alapján meghatározott támogatási intenzitás:
 
@@ -30,10 +30,10 @@ b) középvállalkozásnak minősül, akkor – szállítási ágazat és nagybe
 
 c) A mezőgazdasági termékek feldolgozásához, illetve forgalmazásához kapcsolódó beruházások esetén a maximális támogatási intenzitások az alábbiak:
 
-ca)[^140] amennyiben a projektgazda, illetőleg a végső kedvezményezett KKV, az EUMSz 107. cikk (3) bekezdés a) pontja alapján támogatott területek esetében a támogatási intenzitás 50%, az EUMSz 107. cikk (3) bekezdés c) pontja alapján támogatott területek esetében pedig 40%;
+ca)[^141] amennyiben a projektgazda, illetőleg a végső kedvezményezett KKV, az EUMSz 107. cikk (3) bekezdés a) pontja alapján támogatott területek esetében a támogatási intenzitás 50%, az EUMSz 107. cikk (3) bekezdés c) pontja alapján támogatott területek esetében pedig 40%;
 
-cb)[^141] amennyiben a projektgazda, illetőleg a végső kedvezményezett által a 800/2008/EK bizottsági rendelet I. mellékletének megfelelően számított foglalkoztatottainak száma kevesebb mint 750 fő és árbevétele kevesebb, mint 200 millió eurónak megfelelő forintösszeg, az EUMSz 107. cikk (3) bekezdés a) pontja alapján támogatott területek esetében a támogatási intenzitás 25%, az EUMSz 107. cikk (3) bekezdés c) pontja alapján támogatott területek esetében pedig 20%.
+cb)[^142] amennyiben a projektgazda, illetőleg a végső kedvezményezett által a 800/2008/EK bizottsági rendelet I. mellékletének megfelelően számított foglalkoztatottainak száma kevesebb mint 750 fő és árbevétele kevesebb, mint 200 millió eurónak megfelelő forintösszeg, az EUMSz 107. cikk (3) bekezdés a) pontja alapján támogatott területek esetében a támogatási intenzitás 25%, az EUMSz 107. cikk (3) bekezdés c) pontja alapján támogatott területek esetében pedig 20%.
 
-[^139]: A 92/B. § (3) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (12) bekezdés k) pontja szerint módosított szöveg.
-[^140]: A 92/B. § (5) bekezdés c) pont ca) alpontja a 155/2010. (V. 4.) Korm. rendelet 43. §-ával megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (13) bekezdés a) pontja szerint módosított szöveg.
-[^141]: A 92/B. § (5) bekezdés c) pont cb) alpontja a 155/2010. (V. 4.) Korm. rendelet 43. §-ával megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (13) bekezdés a) pontja szerint módosított szöveg.
+[^140]: A 92/B. § (3) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (12) bekezdés k) pontja szerint módosított szöveg.
+[^141]: A 92/B. § (5) bekezdés c) pont ca) alpontja a 155/2010. (V. 4.) Korm. rendelet 43. §-ával megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (13) bekezdés a) pontja szerint módosított szöveg.
+[^142]: A 92/B. § (5) bekezdés c) pont cb) alpontja a 155/2010. (V. 4.) Korm. rendelet 43. §-ával megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (13) bekezdés a) pontja szerint módosított szöveg.
