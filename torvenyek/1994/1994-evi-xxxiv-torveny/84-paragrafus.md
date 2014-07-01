@@ -6,7 +6,7 @@ a) a polgárok személyi adatainak és lakcímének nyilvántartásából,
 
 b) a személyi igazolvány nyilvántartásból,
 
-c) az anyakönyvi nyilvántartásból,
+c) az anyakönyvi nyilvántartások rendszeréből,
 
 d) az útiokmány-nyilvántartásból (külföldre utazásban korlátozott személyekre vonatkozó nyilvántartás, útlevélre vonatkozó nyilvántartás),
 
