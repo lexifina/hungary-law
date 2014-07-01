@@ -1,4 +1,4 @@
-## 107. §[^29]
+## 107. §[^27]
 
 ## 21. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 48. § (1) bekezdése, az 56. § (2) bekezdése, a 76. § (1) bekezdése és a 6. melléklet 1. pontja 2014. július 1-jén lép hatályba.
 
-[^29]: A 107. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 107. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
