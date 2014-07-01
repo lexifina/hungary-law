@@ -22,7 +22,7 @@ d)[^8] a határon átnyúló tartási ügyben a központi hatóság megkeresése
 
 (6) Ha az eljárás (1)–(2) bekezdésben megjelölt szakaszain belül több pártfogó ügyvéd járt el, a munkadíjat, költségtérítést közöttük arányosan – a képviselet időtartama vagy erre irányuló kérelem esetén az elvégzett munka arányában – kell megosztani. Mindegyik pártfogó ügyvéd jogosult legalább a kirendelt ügyvédi óradíj összegének megfelelő összegű munkadíjra; az (1) és (2) bekezdés szerinti összeghatár ilyen esetben túlléphető a munkadíj megállapítása során.
 
-(7)[^11] A pártfogó ügyvédi díjat a pártfogó ügyvéd kérelmére a jogi segítségnyújtó szolgálat a külön jogszabályban foglaltak szerint állapítja meg. A pártfogó ügyvédnek a díjigényét az eljárást befejező jogerős határozat kézhezvételét követően kell írásban bejelentenie a fővárosi megyei igazságügyi szolgálatnak, amelyben meg kell jelölni azt, hogy mely időszakban képviselte a felet, indítványt tehet a készkiadásai megállapítására és igazolnia kell az időarányostól eltérő munkadíjmegosztás iránti igényének alaposságát.
+(7)[^11] A pártfogó ügyvédi díjat a pártfogó ügyvéd kérelmére a jogi segítségnyújtó szolgálat a külön jogszabályban foglaltak szerint állapítja meg. A pártfogó ügyvédnek a díjigényét – a támogatás megvonásának esetét kivéve – az eljárást befejező jogerős határozat kézhezvételét követően kell írásban bejelentenie a fővárosi megyei igazságügyi szolgálatnak, amelyben meg kell jelölni azt, hogy mely időszakban képviselte a felet, indítványt tehet a készkiadásai megállapítására és igazolnia kell az időarányostól eltérő munkadíjmegosztás iránti igényének alaposságát.
 
 (8)[^12] A pernyertes felet képviselő pártfogó ügyvéd részére, kérelmére a jogi segítségnyújtó szolgálat az államot terhelő pártfogó ügyvédi díjnak megfelelő összegű díjelőleget fizet, ebben az esetben a pártfogó ügyvéd a jogi segítségnyújtó szolgálat által megállapított díjnak az előlegen felüli részét követelheti az ellenérdekű féltől. Az előleg megállapítására megfelelően alkalmazni kell a (7) bekezdésben foglalt rendelkezéseket.
 
@@ -31,5 +31,5 @@ d)[^8] a határon átnyúló tartási ügyben a központi hatóság megkeresése
 [^8]: Az 5. § (1) bekezdés d) pontját a 26/2011. (VIII. 31.) KIM rendelet 11. §-a iktatta be.
 [^9]: Az 5. § (2) bekezdése a 26/2011. (VIII. 31.) KIM rendelet 12. §-a szerint módosított szöveg.
 [^10]: Az 5. § (4) bekezdése a 30/2010. (XII. 31.) KIM rendelet 7. § a) pontja szerint módosított szöveg.
-[^11]: Az 5. § (7) bekezdése a 30/2010. (XII. 31.) KIM rendelet 7. § b)–c) pontja szerint módosított szöveg.
+[^11]: Az 5. § (7) bekezdése a 30/2010. (XII. 31.) KIM rendelet 7. § b)–c) pontja, a 29/2014. (IV. 30.) KIM rendelet 2. §-a szerint módosított szöveg.
 [^12]: Az 5. § (8) bekezdése a 30/2010. (XII. 31.) KIM rendelet 7. § c) pontja szerint módosított szöveg.
