@@ -10,4 +10,4 @@
 
 (4) A személyi azonosítót igazoló hatósági igazolványt úgy kell kiállítani, hogy abból az érintett polgár személyi azonosítója és lakcím adata egyidejűleg ne váljon megismerhetővé.
 
-(5) A polgár személyi azonosítójának megváltozásáról a központi szerv az anyakönyvbe történő bejegyzés céljából értesíti a polgár születési helye szerinti anyakönyvvezetőt, külföldön történt születése esetén az anyakönyvi ügyekért felelős miniszter által rendeletben kijelölt szervet.
+(5) A polgár személyi azonosítójának megváltozásáról a központi szerv az anyakönyvbe történő bejegyzés céljából értesíti az elektronikus anyakönyvi nyilvántartási rendszer adatkezelőjét.

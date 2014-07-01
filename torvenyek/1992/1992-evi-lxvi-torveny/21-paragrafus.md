@@ -12,7 +12,7 @@ e) a díjköteles országos közutak díjfizetés ellenében történő használ
 
 f) a gépjárműveket, a forgalmi és vezetői engedélyeket nyilvántartó hatóság a nyilvántartásban szereplő polgárok adatai változásának követéséhez;
 
-g) az anyakönyvi és névváltoztatási ügyekben eljáró szerv törvényben meghatározott feladatai ellátásához;
+g)
 
 h) a Központi Statisztikai Hivatal a statisztikáról szóló 1993. évi XLVI. törvényben meghatározott feladatai ellátásához;
 
