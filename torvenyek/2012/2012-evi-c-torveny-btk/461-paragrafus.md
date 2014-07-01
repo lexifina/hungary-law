@@ -29,5 +29,3 @@ b) GHB esetén annak sav formában megadott tiszta hatóanyag-tartalma a 7,5 gra
 c) tetrahidro-kannabinol (THC) esetén a tiszta és savformában együttesen jelen levő THC-tartalom (totál-THC) a 6 gramm
 
 mennyiséget nem haladja meg.
-
-(2) A 176–180. § alkalmazásában a kábítószer csekély mennyiségű, ha kannabisz növény esetén a növényegyedek száma legfeljebb öt.
