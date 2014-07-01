@@ -21,15 +21,3 @@ L(H): a levonási hányados, amelynek
 2. Abban az esetben, ha az adóalany közvetlenül olyan pénzbeni támogatásban részesül, amely a 65. § szerint a termék értékesítésének, szolgáltatás nyújtásának árát (díját) közvetlenül nem befolyásolja, a támogatás forintban megállapított és éves szinten összesített összege az 1. pont szerinti levonási hányados nevezőjének értékét növeli.
 
 3. Az 1. pont szerinti levonási hányadosnak sem a számlálójában, sem a nevezőjében nem szerepelhet:
-
-a) a tárgyi eszköz értékesítésének ellenértéke, amelyet az adóalany az értékesítést megelőzően saját vállalkozásában használt;
-
-b) az ingatlan értékesítésének, illetőleg az ingatlanhoz kapcsolódó szolgáltatás nyújtásának ellenértéke, ha a tevékenységet az adóalany eseti jelleggel végzi;
-
-c) a 86. § (1) bekezdésének a)–g) pontjaiban felsorolt szolgáltatások nyújtásának ellenértéke, ha a tevékenységet az adóalany eseti jelleggel végzi.
-
-3/A. Az 1. pont szerinti levonási hányados számításakor az ellenérték helyett a szokásos piaci árat kell figyelembe venni, ha az adó alapjának megállapítására egyébként a 67. § (1) bekezdés a) vagy c) pontját kell alkalmazni.
-
-4. A 3. b) és 3. c) alpont alkalmazásában nem tekinthető eseti jellegűnek, ha az adóalany a tevékenységet – az arra irányadó külön jogszabályi rendelkezések alapján – engedéllyel végzi, vagy kizárólag engedéllyel végezhetné, illetőleg ha a 3. b) és 3. c) alpontban említett tevékenységekből származó ellenérték adó nélkül számított, forintban megállapított és éves szinten összesített összegének részaránya meghaladja az 1. pont szerinti levonási hányados nevezője értékének a 10 százalékát.
-
-5. Az 1. pont szerinti levonási hányadost felfelé kerekítve, 2 tizedesjegy pontossággal kell megállapítani.

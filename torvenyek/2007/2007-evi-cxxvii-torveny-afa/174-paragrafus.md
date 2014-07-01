@@ -1,5 +1,3 @@
 ## Megjelenési forma
 
-174. § (1) A számla lehet elektronikus vagy papíralapú számla.
-
-(2) Nyugta kizárólag papíron bocsátható ki.
+174. § A számla és a nyugta lehet elektronikus vagy papíralapú.
