@@ -18,7 +18,13 @@ e)
 
 (4) A nevelőszülő az alapfeladatok ellátásán túl a működtető hozzájárulásával
 
-a) elláthatja a tartósan beteg vagy fogyatékos gyermekek, a három év alatti gyermekek különleges gondozását, nevelését, illetve a súlyos pszichés vagy disszociális tüneteket mutató, illetve pszichoaktív szerekkel küzdő gyermekek speciális gondozását, nevelését,
+a) elláthatja
+
+aa) a tartósan beteg, a fogyatékos vagy a három év alatti gyermekek különleges gondozását, nevelését,
+
+ab) a súlyos pszichés vagy súlyos disszociális tüneteket mutató, vagy a pszichoaktív szert használó gyermekek speciális gondozását, nevelését, továbbá
+
+ac) a kettős szükségletű gyermekek különleges és speciális gondozását, nevelését együttesen,
 
 b) részt vállalhat az egyéni elhelyezési tervben foglaltak szerint a vér szerinti család komplex gondozásában,
 

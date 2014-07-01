@@ -8,7 +8,7 @@
 
 (4) A nevelőszülőt az alapdíjon felül minden egyes nála elhelyezett gyermek, fiatal felnőtt után kiegészítő díjként havonta legalább a minimálbér 20%-a illeti meg.
 
-(5) A nevelőszülőt az alap- és kiegészítő díjon felül minden egyes nála elhelyezett speciális vagy különleges ellátási szükségletű gyermek után többletdíjként havonta legalább a minimálbér 5%-a illeti meg.
+(5) A nevelőszülőt az alap- és kiegészítő díjon felül minden egyes nála elhelyezett speciális, különleges vagy kettős szükségletű gyermek után többletdíjként havonta legalább a minimálbér 5%-a illeti meg.
 
 (6) A nevelőszülőt kizárólag az alapdíj illeti meg a gyermek, fiatal felnőtt kollégiumi, diákotthoni elhelyezésének időtartamára. Ha a gyermek, fiatal felnőtt a tanítás nélküli pihenőnapok kivételével tanítási szünet, betegség vagy egyéb ok miatt nem a kollégiumban, diákotthonban, hanem a nevelőszülő háztartásában tartózkodik, a nevelőszülő az alapdíjon felül a kiegészítő díjra, valamint az (5) bekezdésben meghatározott szükségletű gyermek után a többletdíjra is jogosult.
 

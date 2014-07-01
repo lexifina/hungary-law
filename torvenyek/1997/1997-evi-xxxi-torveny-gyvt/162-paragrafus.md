@@ -12,7 +12,7 @@ d) a gyámhatóságok kijelölését, szervezetét, a gyámhatóság részletes 
 
 e) a gyermekvédelmi szakfelügyeleti feladatot ellátó személyek képesítési előírásait,
 
-f) a központi hatóság vagy hatóságok, az országos örökbefogadást elősegítő szerv,, továbbá a 96. § (8a) bekezdésében, a 102. §-ban, a 103/A. §-ban és a 137. § (2) bekezdésében meghatározott szerv kijelölését,
+f) a központi hatóság vagy hatóságok, az országos örökbefogadást elősegítő szerv,, továbbá a 82. § (1) bekezdésében, a 96. § (8a) bekezdésében, a 102. §-ban, a 103/A. §-ban és a 137. § (2) bekezdésében meghatározott szerv kijelölését,
 
 g) a személyes adatok kezelésére és az egységes örökbefogadási nyilvántartás vezetésére vonatkozó eljárási szabályokat, valamint az egységes örökbefogadási nyilvántartás adatfeldolgozójának feladataira vonatkozó szabályokat,
 

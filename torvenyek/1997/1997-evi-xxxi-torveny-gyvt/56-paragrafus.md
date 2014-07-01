@@ -4,7 +4,7 @@
 
 (2) A nevelési díj az öregségi nyugdíj legkisebb összegének
 
-a) százötven százaléka, ha a nevelt gyermek a 82. § (1) bekezdésében meghatározott megyei, fővárosi gyermekvédelmi szakértői bizottság által készített szakvélemény szerint súlyos pszichés vagy disszociális tüneteket mutat, illetve pszichoaktív szerekkel küzd,
+a) százötven százaléka, ha a nevelt gyermek a megyei, fővárosi gyermekvédelmi szakértői bizottság által készített szakmai vélemény szerint súlyos pszichés vagy súlyos disszociális tüneteket mutat, vagy pszichoaktív szert használó vagy kettős szükségletű,
 
 b) száznegyven százaléka, ha a nevelt gyermek tartósan beteg, fogyatékos vagy három éven aluli.
 

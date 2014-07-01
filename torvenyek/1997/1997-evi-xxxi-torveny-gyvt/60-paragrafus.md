@@ -6,6 +6,6 @@
 
 (3) A gondozási hely meghatározása érdekében a gyermekvédelmi szakszolgáltatás a gyámhatóság megkeresésére
 
-a) elvégzi a gyermek személyiségvizsgálatát, elkészíti a gyermekre vonatkozó szakvéleményt,
+a) elvégzi a gyermek személyiségvizsgálatát, elkészíti a gyermekre vonatkozó szakmai véleményt,
 
 b) előkészíti az elhelyezési javaslatot és a gyermek egyéni elhelyezési tervét.

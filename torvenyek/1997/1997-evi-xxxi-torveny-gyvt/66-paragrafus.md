@@ -6,21 +6,15 @@ b) a) pontban nem említett feladatait, gyermekvédő intézet vagy más szakszo
 
 biztosítja.
 
-(2) Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a 63. §-ban meghatározott feladatokat
+(2) Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a területi gyermekvédelmi szakszolgáltatás biztosítása érdekében együttműködik a gyermek gondozási helyét fenntartó egyházi, nem állami fenntartóval és az ellátást nyújtó intézménnyel.
 
-a) az Szt. hatálya alá tartozó fogyatékosok és pszichiátriai betegek otthonában elhelyezett gyermek, továbbá
-
-b) az általa működtetett nevelőszülői hálózatban, illetve fenntartott gyermekotthonban elhelyezett gyermek gyámja, gondozója, illetve az általa foglalkoztatott hivatásos gyám
-
-tekintetében látja el.
-
-(3) A területi gyermekvédelmi szakszolgálat szolgáltatási, szervezési, tanácsadói és gondozási feladatokat végez. Tevékenysége körében a 60–65. §-okban foglaltakon túl
+(3) A területi gyermekvédelmi szakszolgálat szolgáltatási, szervezési, tanácsadói és szakértői feladatokat végez. Tevékenysége körében a 60–65. §-okban foglaltakon túl
 
 a) gyermekvédelmi gyámi, eseti gyámi hálózatot működtet,
 
-b) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv döntése alapján a gyermekek ideiglenes hatályú elhelyezését biztosító otthont működtet,
+b) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv döntése alapján a gyermekek ideiglenes hatályú elhelyezését biztosító nevelőszülői hálózatot és gyermekotthont működtet,
 
-c) működteti az utógondozói ellátást igénylő fiatal felnőttek lakhatását biztosító külső férőhelyeket,
+c)
 
 d) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv vagy más fenntartó felkérésére javaslatot tesz az ideiglenes hatállyal elhelyezett gyermekek ellátását biztosító nevelőszülőre, gyermekotthonra,
 

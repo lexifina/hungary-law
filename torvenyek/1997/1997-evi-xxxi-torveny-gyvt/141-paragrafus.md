@@ -4,18 +4,18 @@ a) a befogadó szülőnél, gyermekotthonban vagy fogyatékosok és pszichiátri
 
 b) az ideiglenes hatállyal elhelyezett gyermek ellátását biztosító nevelőszülőkről, gyermekotthonokról,
 
-c) az örökbefogadhatónak nyilvánított, illetve örökbefogadható gyermekekről, valamint az örökbefogadásra váró szülőkről a 135. § (5) bekezdés b) és e) pontjában meghatározott adattartalommal,
+c)
 
 d) az általa kijelölt, eseti gyámi és gyermekvédelmi gyámi feladatokra kirendelhető személyekről,
 
-e) az állami és nem állami fenntartó által működtetett intézményben, illetve nevelőszülőnél ideiglenes hatállyal elhelyezett, nevelésbe vett gyermek, továbbá az utógondozói ellátásban, illetve utógondozásban részesülő fiatal felnőtt gondozási napjairól,
+e) az állami és nem állami fenntartó által működtetett intézményben, illetve nevelőszülőnél ideiglenes hatállyal elhelyezett, nevelésbe vett gyermek, továbbá az utógondozói ellátásban, illetve utógondozásban részesülő fiatal felnőtt gondozási napjairól.
 
-f) az örökbefogadás utánkövetéséről a 135. § (5) bekezdés c) pontjában meghatározott adattartalommal.
+f)
 
-(2) Az (1) bekezdés c) pontjában meghatározott nyilvántartásokról – a titkos örökbefogadás kivételével – a területi gyermekvédelmi szakszolgálat kérelemre tájékoztatja a szülőket, valamint az örökbefogadásra váró szülőket.
+(2)
 
 (3) A területi gyermekvédelmi szakszolgálat negyedévente tájékoztatja a gyámhatóságot az (1) bekezdés a)–b) és d) pontjaiban meghatározott nyilvántartásokról és az abban bekövetkező változásokról.
 
-(4) A területi gyermekvédelmi szakszolgálat folyamatosan továbbítja az (1) bekezdés c) pontjában meghatározott nyilvántartásokban szereplő adatokat és az azokban bekövetkező változásokat az egységes örökbefogadási nyilvántartás számára.
+(4)
 
-(5) A területi gyermekvédelmi szakszolgálat – a gyermek örökbe fogadhatónak nyilvánítása érdekében – az (1) bekezdés c) pontja szerint, naprakész adatok alapján vezetett nyilvántartásából tájékoztatást nyújt a gyámhatóság vagy a gyermekvédelmi gyám megkeresésére a nevelésbe vett gyermek örökbefogadásának várható esélyéről.
+(5)

@@ -4,7 +4,7 @@
 
 (2) A gyámhatóság – a gyermekjóléti szolgálat javaslatának figyelembevételével – védelembe veheti továbbá
 
-a) a szabálysértési hatóság értesítése alapján a szabálysértést elkövetett fiatalkorút,
+a) a szabálysértési hatóság értesítése alapján a szabálysértési tényállást megvalósító gyermeket és a szabálysértést elkövetett fiatalkorút,
 
 b) a nyomozó hatóság nyomozást megtagadó határozata alapján a tizennegyedik életévét be nem töltött gyermeket,
 

@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-31-00-00
 | 2014-01-01 | 2013. évi CCV. törvény | 1997-31-00-00.72 |
 | 2014-01-15 | 2013. évi CCV. törvény | 1997-31-00-00.73 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1997-31-00-00.74 |
+| 2014-07-01 | 2013. évi CCV. törvény | 1997-31-00-00.75 |

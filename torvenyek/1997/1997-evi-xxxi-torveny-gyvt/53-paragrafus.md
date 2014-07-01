@@ -12,7 +12,7 @@ c) a családjába történő visszailleszkedéshez, önálló életének megkezd
 
 a) különleges ellátást kell biztosítani
 
-aa) a tartósan beteg, illetve fogyatékos,
+aa) a tartósan beteg, a fogyatékos,
 
 ab) a három év alatti
 
@@ -20,17 +20,21 @@ gyermek számára;
 
 b) speciális ellátást kell biztosítani
 
-ba) a súlyos személyiségfejlődési zavarokkal küzdő, illetve súlyos pszichotikus vagy neurotikus tüneteket mutató (a továbbiakban együtt: súlyos pszichés tüneteket mutató) gyermek,
+ba) a súlyos személyiségfejlődési, érzelmi élet- és impulzuskontroll-zavarokkal küzdő, illetve súlyos pszichotikus vagy neurotikus tüneteket mutató gyermek (a továbbiakban együtt: súlyos pszichés tüneteket mutató gyermek),
 
-bb) a súlyos beilleszkedési zavarokat vagy súlyos antiszociális magatartást tanúsító gyermekkorú elkövető (a továbbiakban: súlyos disszociális tüneteket mutató) [a ba) és a bb) pont a továbbiakban együtt: súlyos pszichés vagy disszociális tüneteket mutató gyermek],
+bb) a súlyos magatartási és beilleszkedési zavarokat vagy súlyos antiszociális viselkedésformákat tanúsító gyermek (a továbbiakban együtt: súlyos disszociális tüneteket mutató gyermek),
 
-bc) az alkohol, drog és egyéb pszichoaktív szerekkel küzdő (a továbbiakban: pszichoaktív szerekkel küzdő) gyermek
+bc) az alkohol, drog és egyéb pszichoaktív szert használó gyermek (a továbbiakban: pszichoaktív szert használó gyermek)
+
+számára;
+
+c) különleges és speciális ellátást együttesen kell biztosítani a különleges és speciális szükségletet egyidejűleg mutató gyermek (a továbbiakban: kettős szükségletű gyermek)
 
 számára.
 
-Az otthont nyújtó ellátás során a gyermekek helyzetét folyamatosan figyelemmel kell kísérni, illetve az e törvényben meghatározott megyei, fővárosi gyermekvédelmi szakértői bizottság véleménye alapján évente, a három éven aluli gyermek esetében félévente, illetve a gyermekvédelmi gyám kérelmére felül kell vizsgálni.
+(2a) Az otthont nyújtó ellátás során a gyermekek helyzetét folyamatosan figyelemmel kell kísérni, és a gyermekvédelmi szakértői bizottság szakmai véleménye alapján vagy a gyermekvédelmi gyám kérelmére felül kell vizsgálni.
 
-(3) A speciális ellátás kiterjed a gyermek korához, állapotához és szükségleteihez igazodó oktatásra, szakképzésre, foglalkoztatásra, valamint ápolására, szocializációjára és reszocializációjára, továbbá habilitációs és rehabilitációs kezelésére is.
+(3) A speciális és különleges ellátás kiterjed a gyermek korához, állapotához és szükségleteihez igazodó oktatásra, szakképzésre, foglalkoztatásra, valamint ápolására, szocializációjára és reszocializációjára, továbbá habilitációs és rehabilitációs kezelésére is.
 
 (4) Az utógondozói ellátás keretében kell lakhatást és szükség szerint további ellátást biztosítani azon nevelésbe vételből kikerült fiatal felnőttnek, akinek utógondozói ellátását a gyámhatóság elrendelte.
 

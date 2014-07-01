@@ -1,6 +1,10 @@
-132. § (1) Ha az ügyben a gyermek személyiségével kapcsolatos jelentős tény vagy körülmény megítéléséhez különleges szakértelem szükséges, szakértőként elsősorban nevelési tanácsadót, szakértő- és rehabilitációs bizottságot, pszichiátriai szakellátó intézményt vagy családvédelemmel foglalkozó szervet, illetve szakértői névjegyzékbe felvett személyt kell megkeresni.
+132. § (1) Ha az ügyben a gyermek személyiségével kapcsolatos jelentős tény vagy körülmény megítéléséhez különleges szakértelem szükséges, a gyámhatóság
 
-(2) Az (1) bekezdésben meghatározott esetben gyámhatóság arra kötelezi a szülőt, a törvényes képviselőt vagy az egyéb ügyfelet, hogy a gyermekkel keresse fel a szakértőként kirendelt szervet vagy személyt, és közreműködésével, szakértői vizsgálaton való részvételével járuljon hozzá a szakértői vizsgálat eredményességéhez.
+a) megkeresi a nevelési tanácsadót, szakértő és rehabilitációs bizottságot, pszichiátriai szakellátó intézményt vagy családvédelemmel foglalkozó szervet, vagy
+
+b) szakértőt rendel ki.
+
+(2) Az (1) bekezdésben meghatározott esetben a gyámhatóság arra kötelezi a szülőt, a törvényes képviselőt vagy az egyéb ügyfelet, hogy a gyermekkel keresse fel az (1) bekezdés szerinti szervet vagy személyt és közreműködésével, a vizsgálaton való részvételével járuljon hozzá a vizsgálat eredményességéhez.
 
 (3) Abban a kérdésben, hogy a gyermek testi, érzékszervi, értelmi, beszéd vagy más fogyatékosságban szenved, továbbá, hogy a gyermek beilleszkedési, tanulási, magatartási rendellenességgel küzd, az Nktv. szerinti szakértői bizottság, illetve nevelési tanácsadó ad véleményt.
 

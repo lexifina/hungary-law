@@ -2,8 +2,10 @@
 
 (2) A lakásotthon olyan gyermekotthon, amely legfeljebb 12 gyermek otthont nyújtó ellátását biztosítja önálló lakásban vagy családi házban, családias körülmények között.
 
-(3) A tartósan beteg, illetőleg fogyatékos, valamint kora miatt különleges ellátást igénylő gyermek, illetve a súlyos pszichés vagy disszociális tüneteket mutató, illetve pszichoaktív szerekkel küzdő gyermek speciális ellátását, gondozását, habilitációját és rehabilitációját biztosító gyermekotthonok eltérő csoportlétszámát külön jogszabály határozza meg.
+(2a) A speciális, különleges vagy kettős szükségletű gyermeket fogadó lakásotthon speciális vagy különleges lakásotthonként működik.
+
+(3) A különleges, speciális vagy kettős szükségletű gyermek különleges és speciális ellátását, gondozását, habilitációját és rehabilitációját biztosító gyermekotthon eltérő csoportlétszámát a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendelet határozza meg.
 
 (4) Ha a gyermekotthon kizárólag a fiatal felnőttek teljes körű utógondozói ellátását biztosítja, a gyermekotthon utógondozó otthonként működik.
 
-(5) Ha a speciális gyermekotthon kizárólag speciális szükségletű gyermek vizsgálatát végzi bentlakásos ellátás formájában, a gyermekotthon vizsgálóotthonként is működhet.
+(5)
