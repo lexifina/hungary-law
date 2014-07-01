@@ -1,8 +1,7 @@
 ## 13. § A Vhr.
 
-1.[^16]
+1. 2/A. § (2) bekezdésében a „külföldre történő” szövegrészek helyébe a „külföldre vagy ipari termékdíj raktárba történő”,
 
-2–6.[^17]
+2–6.[^14]
 
-[^16]: A 13. § 1. pontja a 15. § (3) bekezdése alapján 2014. július 1-jén lép hatályba.
-[^17]: A 13. § 2–6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 13. § 2–6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

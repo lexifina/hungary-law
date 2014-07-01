@@ -1,3 +1,7 @@
-7. melléklet az 529/2013. (XII. 30.) Korm. rendelethez[^26]
+## A Vhr. 4. melléklet VIII. pont 3. alpontja a következő f) ponttal egészül ki:
 
-[^26]: A 7. melléklet a 15. § (3) bekezdése alapján 2014. július 1-jén lép hatályba.
+## (Az átadott mennyiség jogcímek szerint:)
+
+## „f) a Ktdt. 3. § (6) bekezdés d) pontja alapján átadott mennyiség.”
+
+7. melléklet az 529/2013. (XII. 30.) Korm. rendelethez
