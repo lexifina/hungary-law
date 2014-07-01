@@ -10,4 +10,4 @@ d) megküldi a miniszternek a közgyűlés határozatát, valamint a miniszterne
 
 e) ha e törvény másképpen nem rendelkezik, képviseli a Szövetséget,
 
-f) a 12.§ (2) és (3) bekezdésében meghatározott feladat ellátására olyan, Magyarországon bejegyzett gazdasági társasággal köthet szerződést, amellyel a miniszter, az államháztartásért felelős miniszter és a MEH igazgatótanácsi tagjai közül legalább három egyetért.
+f) a 12.§ (2) és (3) bekezdésében meghatározott feladat ellátására olyan, Magyarországon bejegyzett gazdasági társasággal köthet szerződést, amellyel a miniszter, az államháztartásért felelős miniszter és a MEKH igazgatótanácsi tagjai közül legalább három egyetért.

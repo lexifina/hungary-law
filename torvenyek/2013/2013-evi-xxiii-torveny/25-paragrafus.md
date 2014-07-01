@@ -1,1 +1,1 @@
-25. § Az igazgatótanács tizennégy tagból áll. Hat tagot a kőolaj szekcióból, négy tagot a földgáz szekcióból a közgyűlés választ három évre. A további négy tagja közül kettő a miniszter, egy az államháztartásért felelős miniszter és egy a MEH képviselője.
+25. § Az igazgatótanács tizennégy tagból áll. Hat tagot a kőolaj szekcióból, négy tagot a földgáz szekcióból a közgyűlés választ három évre. A további négy tagja közül kettő a miniszter, egy az államháztartásért felelős miniszter és egy a MEKH képviselője.

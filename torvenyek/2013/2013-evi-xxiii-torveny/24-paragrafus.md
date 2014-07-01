@@ -24,4 +24,4 @@ j) javaslatot tesz az igazgató és az igazgató-helyettes személyére.
 
 (2) Az igazgatótanács az igazgatóság tagjaitól jelentést kérhet és számukra utasítást adhat.
 
-(3) Az igazgatótanács csak olyan személyt javasolhat igazgatónak vagy igazgató-helyettesnek, akit a miniszter, az államháztartásért felelős miniszter és a Magyar Energia Hivatal (a továbbiakban: MEH) képviselői közül legalább három támogat.
+(3) Az igazgatótanács csak olyan személyt javasolhat igazgatónak vagy igazgató-helyettesnek, akit a miniszter, az államháztartásért felelős miniszter és a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: MEKH) képviselői közül legalább három támogat.

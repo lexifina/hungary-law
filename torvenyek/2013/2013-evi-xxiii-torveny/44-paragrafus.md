@@ -1,6 +1,6 @@
-## 11. Együttműködés a NAV-val, a MEH-hel és a Központi Statisztikai Hivatallal
+## 11. Együttműködés a NAV-val, a MEKH-hel és a Központi Statisztikai Hivatallal
 
-44. § (1) A Szövetség megkeresésére a NAV, a MEH és a Központi Statisztikai Hivatal a rendelkezésére álló adatok alapján tájékoztatást ad
+44. § (1) A Szövetség megkeresésére a NAV, a MEKH és a Központi Statisztikai Hivatal a rendelkezésére álló adatok alapján tájékoztatást ad
 
 a) a biztonsági készlet mértékének meghatározásához,
 
