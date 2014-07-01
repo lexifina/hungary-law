@@ -8,7 +8,13 @@ b) a pénzbírság legmagasabb összege ötvenezer forint, szabálysértési elz
 
 c) a helyszíni bírság legmagasabb összege huszonötezer forint.
 
-A b) és c) pont esetén a pénzbírság és a helyszíni bírság legmagasabb összege nem haladhatja meg a kormányrendeletben meghatározott kötelező mértéket.
+(2a) Kormányrendeletben meghatározott kötelező mértékű pénzbírsággal vagy helyszíni bírsággal sújtandó szabálysértés elkövetése esetén, ha
+
+a) a kormányrendeletben meghatározott kötelező mérték nem haladja meg a (2) bekezdés b), illetve c) pontjában meghatározott legmagasabb összeget, akkor a kormányrendeletben meghatározott mértékű;
+
+b) a kormányrendeletben meghatározott kötelező mérték meghaladja a (2) bekezdés b), illetve c) pontjában meghatározott legmagasabb összeget, akkor a (2) bekezdés b), illetve c) pontjában meghatározott összeghatáron belüli
+
+pénzbírságot vagy helyszíni bírságot kell kiszabni.
 
 (3) Fiatalkorúval szemben pénzbírságot vagy helyszíni bírságot csak akkor lehet kiszabni, ha a fiatalkorú annak megfizetését vállalja. Helyszíni bírság törvényes képviselő jelenléte nélkül nem szabható ki.
 
