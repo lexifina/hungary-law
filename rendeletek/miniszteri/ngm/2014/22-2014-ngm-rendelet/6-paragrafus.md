@@ -1,7 +1,6 @@
-6. § (1) Az R. 1. Melléklet B) rész 1.1. pontja helyébe a következő rendelkezés lép:
+6. § (1)[^7]
 
-## „1.1. A lófélék egyedeinek azonosításáról szóló jogszabály szerint azonosított, lóútlevéllel van ellátva”
+(2)[^8]
 
-(2)[^4]
-
-[^4]: A 6. § (2) bekezdése a 8. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^7]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. § (2) bekezdése a 8. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
