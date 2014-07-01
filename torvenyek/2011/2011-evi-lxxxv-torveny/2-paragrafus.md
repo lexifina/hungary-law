@@ -108,7 +108,7 @@ b) belföldön gazdasági céllal letelepedett vagy belföldön nyilvántartásb
 
 17. hasznosíttatás: a kötelezett 1. § (3) bekezdés a), b), d), e) pontja szerinti termékdíjköteles terméknek a termék- és anyagáramából keletkezett – 12. pont szerint gyűjtött – hulladéka vállalkozási szerződés keretében más, erre feljogosított gazdálkodó szervezetnél történő hasznosítása;
 
-18. jármű: a légi közlekedésről szóló külön törvény szerinti légi jármű, valamint a motorral meghajtott közúti szállító- vagy vontatóeszköz, ideértve az önjáró vagy vontatott munkagépet is, kivéve a kerekes szék;
+18. ipari termékdíj raktár: az e törvény alapján, az állami adóhatóság engedélyével üzemeltett belföldi ingatlan, ahol az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint a termékdíjköteles termék előállítható, feldolgozható, újbóli felhasználásra előkészíthető és készletezhető;
 
 19. kereskedelmi csomagolás: a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, a Tanács 1987. július 23-i 2658/87/EGK tanácsi rendelete 2010. január 1-jén hatályos I. melléklete szerinti
 
@@ -129,6 +129,8 @@ g) 2205 vámtarifaszámú vermut és friss szőlőből készült más bor növé
 termékek fogyasztói (elsődleges) közvetlen csomagolása, a címke (ide nem értve a polivinilklorid műanyagból készült címkét) és a záróelem, továbbá az egyszerhasználatos ivópohár kivételével, továbbá a műanyag bevásárló reklám táska;
 
 20. kereskedelmi csomagolószer: olyan csomagolószer, amely rendeltetésszerű felhasználása esetén és további feldolgozás nélkül alkalmas kereskedelmi csomagolás létrehozására, a csomagolni kívánt termék befogadására, továbbá a csomagolószer ilyen jellege a csomagolószer fogalomba hozatala vagy saját célú felhasználása során megállapítható;
+
+20a. kereskedelmi termékdíj raktár: az e törvény alapján, az állami adóhatóság engedélyével üzemeltett belföldi ingatlan, ahol az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint a termékdíjköteles termék tárolható;
 
 21. kiskereskedelmi értékesítés: a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenység;
 

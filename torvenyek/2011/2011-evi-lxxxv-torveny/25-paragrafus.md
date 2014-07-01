@@ -30,6 +30,8 @@ esetén visszaigényelhető.
 
 (4) A befizetett termékdíjat e § alapján visszaigénylőre, a kötelezettre vonatkozó bejelentéssel, változás-bejelentéssel, termékdíj megállapítással termékdíj bevallással és nyilvántartás-vezetéssel, továbbá az ellenőrzéssel kapcsolatos szabályokat kell alkalmazni.
 
+(5) A termékdíj visszaigénylése szempontjából külföldre történő kiszállítással, külföldre történő ingyenes vagy visszterhes tulajdonjog-átruházással esik egy tekintet alá a termékdíjköteles termék ipari termékdíj raktárba történő betárolása.
+
 (6) A termékdíjköteles termék alapanyagként történő felhasználása során keletkező gyártási selejt és hulladék mennyiségére is visszaigényelhető a termékdíj, de ebben az esetben a gyártási selejt és hulladék mennyisége a hulladékhasznosítási teljesítmény számításánál nem vehető figyelembe.
 
 (7) A 25. § (2) bekezdésében meghatározott visszaigénylés mellett a 3. § (9) bekezdés b) pontjában meghatározott eljárás nem alkalmazható.

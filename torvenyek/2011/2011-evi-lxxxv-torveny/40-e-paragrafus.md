@@ -1,0 +1,1 @@
+40/E. § A 2014. július 1-jét megelőzően az állami adó- és vámhatóságnak jogszerűen bejelentett szerződéses átvállalások hatályosak a bejelentett átvállalási időszak végéig, és nem kell az átvállalási szerződés nyilvántartásba vételét kérni, ha az adatokban változás nem következik be.

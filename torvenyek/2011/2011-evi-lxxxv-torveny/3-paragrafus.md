@@ -14,6 +14,8 @@ terheli.
 
 Reklámhordozó papír esetében az a) pont szerinti első belföldi forgalomba hozatalnak – belföldi előállítás esetén – a nyomdai szolgáltatás teljesítése (nyomtatás és átadás) minősül.
 
+(2a) A (2) bekezdésben foglaltaktól eltérően a termékdíj megfizetése nélkül vagy a termékdíj visszatérítését követően a termékdíj raktárban tárolt, feldolgozott, előállított, újbóli felhasználásra előkészített termékdíjköteles termék, termékdíj raktárból belföldre történő kiszállítása, első belföldi forgalomba hozatalnak minősül.
+
 (3) Saját célú felhasználásnak minősül a termékdíjköteles termék, ideértve más termék tartozékaként vagy alkotórészeként, továbbá a csomagolószer esetében a csomagolás részeként:
 
 a) a kötelezett saját vagy alkalmazottja magánszükséglete kielégítésére való felhasználása;
@@ -74,7 +76,9 @@ ca) mint annak végfelhasználója nem csomagolás előállítására, vagy
 
 cb) más termék előállításához közvetlen anyagként (alapanyagként)
 
-használja fel.
+használja fel,
+
+d) a termékdíjköteles terméket termékdíj raktárba szállítja be.
 
 (7) A (6) bekezdés szerinti nyilatkozó kötelezettnek minősül, ha a nyilatkozatával ellentétesen jár el, egyébként a kötelezett ellenőrzésére vonatkozó szabályokat kell rá alkalmazni.
 

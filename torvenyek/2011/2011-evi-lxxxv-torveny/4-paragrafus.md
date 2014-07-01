@@ -4,7 +4,9 @@ a) természetes személy által, nem gazdasági tevékenység keretében végzet
 
 b) az általános forgalmi adóról szóló törvény szerinti adóraktárba való beraktározás keretében és az adóraktáron belüli átruházása,
 
-c) vámjogi szabadforgalomba kerülését megelőző átruházása
+c) vámjogi szabadforgalomba kerülését megelőző átruházása,
+
+d) termékdíj raktáron belüli átruházása
 
 nem minősül forgalomba hozatalnak.
 
@@ -16,7 +18,7 @@ b) természetes személy esetén a termékdíjköteles termék személyes szüks
 
 c) a technológiai folyamatba visszavezetett maradék anyag vagy a selejt felhasználása esetén;
 
-d) a külföldről behozott csomagolás részét képező újrahasználható csomagolószer saját célú felhasználása során, ha a kötelezett nyilvántartásával, bizonylatokkal alá tudja támasztani, hogy az újrahasználható csomagolószert a kötelezettség keletkezésének időpontja szerinti termékdíj-megállapítási időszakban közvetlenül külföldre visszaszállították;
+d) a külföldről behozott csomagolás részét képező újrahasználható csomagolószer saját célú felhasználása során, ha a kötelezett nyilvántartásával, bizonylatokkal alá tudja támasztani, hogy az újrahasználható csomagolószert a kötelezettség keletkezésének időpontja szerinti termékdíj-megállapítási időszakban közvetlenül külföldre vagy ipari termékdíj raktárba visszaszállították;
 
 e) az újrahasználható csomagolószer csomagolás részeként történő első belföldi forgalomba hozatala vagy első saját célú felhasználása esetén, ha az újrahasználható csomagolószer az e törvény végrehajtási rendeletében meghatározott újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvételre került, és a betétdíj alkalmazásának szabályairól szóló kormányrendelet szerinti betétdíjas rendszerben használják fel;
 

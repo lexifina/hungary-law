@@ -6,7 +6,9 @@ a) a számlán vagy szerződéssel történő átvállalás esetén,
 
 b) a kötelezett és vevőinek visszaigénylésre jogosult vevő partnerei által igényelt esetben,
 
-c) csomagolószer, illetve reklámhordozó papír első belföldi forgalomba hozatalakor
+c) csomagolószer, illetve reklámhordozó papír első belföldi forgalomba hozatalakor,
+
+d) a termékdíj raktár engedélyese részére, a termékdíjköteles termék termékdíjának felszámítása nélkül vagy a termékdíj visszaigénylésével történő értékesítése esetén
 
 – a (2) bekezdésben foglaltak kivételével – az e törvény végrehajtására kiadott rendeletekben meghatározott számla záradékkal megegyező szöveget kell feltüntetni.
 
