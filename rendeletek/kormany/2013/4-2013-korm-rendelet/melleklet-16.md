@@ -1072,7 +1072,7 @@
 
 ## B35. Termékek és szolgáltatások adói
 
-## B351. Értékesítési és forgalmi adók
+## B351.[^210] Értékesítési és forgalmi adók
 
 ## Ezen a rovaton kell elszámolni
 
@@ -1096,25 +1096,25 @@
 
 ## j) az egyszerűsített vállalkozói adót,
 
-## k) a gyógyszer forgalmazási jogosultak befizetéseit [2006. évi XCVIII. tv 36. § (1.) bek.],
+## k) a gyógyszer forgalmazási jogosultak befizetéseit [2006. évi XCVIII. tv 36. § (1) bek.],
 
 ## l) a gyógyszer nagykereskedést végzők befizetéseit [2006. évi XCVIII. tv 36. § (2) bek.],
 
-## m)[^210] a gyógyszergyártók 10%-os befizetési kötelezettségét,
+## m) a gyógyszergyártók 10%-os befizetési kötelezettségét,
 
-## n) Gyógyszer és gyógyászati segédeszköz ismertetés utáni befizetéseket [2006. évi XCVIII. tv 36. § (4) bek.],
+## n) gyógyszer és gyógyászati segédeszköz ismertetés utáni befizetéseket [2006. évi XCVIII. tv 36. § (4) bek.],
 
-## o) a Gyógyszertámogatás többletének sávos kockázatviseléséből származó bevételeket [2006. évi XCVIII. tv 42. §],
+## o) a gyógyszertámogatás többletének sávos kockázatviseléséből származó bevételeket [2006. évi XCVIII. tv 42. §],
 
 ## p) a népegészségügyi termékadót,
 
 ## q) a távközlési adót,
 
-## r) a pénzügyi tranzakciós illetéket, és
+## r) a pénzügyi tranzakciós illetéket,
 
-## s) a biztosítási adót.
+## s) a biztosítási adót, és
 
-## A rovaton elszámolt bevételeket a beszámolóban a fenti bontásban kell szerepeltetni.
+## t) a reklámadót.
 
 ## B352. Fogyasztási adók
 
@@ -3358,7 +3358,7 @@ Egységes számlatükör
 [^207]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B32. Szociális hozzájárulási adó és járulékok rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
 [^208]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B33. Bérhez és foglalkoztatáshoz kapcsolódó adók rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
 [^209]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B34. Vagyoni típusú adók rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^210]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B35. Termékek és szolgáltatások adói, B351. Értékesítési és forgalmi adók rész m) pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^210]: A 15. melléklet B351. pontja a 159/2014. (VI. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^211]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B35. Termékek és szolgáltatások adói, B355. Egyéb áruhasználati és szolgáltatási adók rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
 [^212]: A. 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B36. Egyéb közhatalmi bevételek rész l) pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
 [^213]: A. 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B36. Egyéb közhatalmi bevételek rész m) pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
