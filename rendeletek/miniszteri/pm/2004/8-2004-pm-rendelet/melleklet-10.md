@@ -44,13 +44,13 @@
 
 |  |  |  | 4.1. | Megnevezése: |
 
-|  |  |  | 4.2. | Vámtarifaszáma (adómértékhez rendelt számjegyű bontásban): |
+|  |  |  | 4.2. | KN-kódja (adómértékhez rendelt számjegyű bontásban): |
 
 |  |  |  | 4.3. | Fajtakódja: |
 
 |  |  |  | 4.4. | Nyilvántartás (elszámolás) mennyiségi egysége: |
 
-|  |  | 5. | Termékmérleg-nyilvántartás vezetésének módja (jövedéki termék megnevezése, vámtarifaszáma): |
+|  |  | 5. | Termékmérleg-nyilvántartás vezetésének módja (jövedéki termék megnevezése, KN-kódja): |
 
 |  |  | 6. | Az adóraktár biztosítása érdekében tett intézkedések: |
 
@@ -70,6 +70,6 @@
 
 |  | (bélyegzője) |
 
-10. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^689]
+10. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^696]
 
-[^689]: A 10. számú melléklet a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
+[^696]: A 10. számú melléklet a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, a 76/2013. (XII. 31.) NGM rendelet 22. § (13) bekezdése szerint módosított szöveg.

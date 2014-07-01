@@ -1,31 +1,39 @@
 ## Az ásványolajok Jöt. 53. § (1) bekezdés b)–d) pontja szerinti adómentes beszerzésének és ipari célú felhasználásának folyamatos nyilvántartása (termékenként)
 
-## Ásványolajtermék megnevezése, vámtarifaszáma, mennyiségi egysége az adó alapjául szolgáló mértékegységben:
+## 1. Ásványolajtermék
 
-## 1. Nyitókészlet (a tárgyhó első napján):
+## 1.1. megnevezése:
 
-## 2. A beszerzés részletezése (időpont, szállító megnevezése és telephelye szerinti részletezésben):
+## 1.2. KN-kódja:
 
-## 3. A felhasználás részletezése (jogcím, időpont)
+## 1.3. mennyiségi egysége az adó alapjául szolgáló mértékegységben:
 
-## villamos energia előállításához:
+## 2. Nyitókészlet (a tárgyhó első napján):
 
-## kapcsolt hő- és villamos energia előállításához:
+## 3. A beszerzés részletezése (időpont, szállító megnevezése és telephelye szerinti részletezésben):
 
-## nagyolvasztóban kémiai redukciós eljárásban, koksz adalékanyagaként:
+## 4. A felhasználás részletezése (jogcím, időpont)
 
-## egyéb csökkenés:
+## 4.1. villamos energia előállításához:
 
-## 4. Visszaszállítás adóraktárba:
+## 4.2. kapcsolt hő- és villamos energia előállításához:
 
-## 5. Zárókészlet (a tárgyhó utolsó napján):
+## 4.3. nagyolvasztóban kémiai redukciós eljárásban, koksz adalékanyagaként:
 
-12. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^691]
+## 4.4. egyéb csökkenés:
+
+## 5. Visszaszállítás adóraktárba:
+
+## 6. Zárókészlet (a tárgyhó utolsó napján):
+
+12. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^698]
 
 Felhasználói engedélyes által vezetett nyilvántartás adattartalma
 
-Termék megnevezése, vámtarifaszáma, mennyiségi egysége:
+1. Termék
 
-Nyitókészlet (tárgyhó első napján):
+1.1. megnevezése:
 
-[^691]: A 12. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2) bekezdése, a 45/2005. (XII. 26.) PM rendelet 24. §-a, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 37. pontja, a 18/2010. (XII. 30.) NGM rendelet 16. § (2) bekezdése, az 54/2011. (XII. 29.) NGM rendelet 30. § (2) bekezdés 1. pontja, a 22/2013. (VI. 27.) NGM rendelet 14. § (2) bekezdése szerint módosított szöveg.
+1.2. KN-kódja:
+
+[^698]: A 12. számú melléklet a 76/2013. (XII. 31.) NGM rendelet 22. § (15) bekezdésével megállapított szöveg.

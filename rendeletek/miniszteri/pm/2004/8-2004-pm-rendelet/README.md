@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-8-20-53
 | 2014-01-01 | 2004-8-20-53.34 | 76/2013. (XII. 31.) NGM rendelet |
 | 2014-02-15 | 2004-8-20-53.35 | 6/2014. (II. 12.) NGM rendelet |
 | 2014-03-15 | 2004-8-20-53.36 | 12/2014. (III. 12.) NGM rendelet |
+| 2014-07-01 | 2004-8-20-53.37 | 76/2013. (XII. 31.) NGM rendelet |

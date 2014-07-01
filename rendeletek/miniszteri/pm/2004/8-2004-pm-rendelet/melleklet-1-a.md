@@ -122,7 +122,7 @@
 
 |  |  | 5.1. | Tárolt jövedéki termék megnevezése: |
 
-|  |  | 5.2. | Tárolt jövedéki termék vámtarifaszáma: |
+|  |  | 5.2. | Tárolt jövedéki termék KN-kódja: |
 
 |  |  | 5.3. | Tárolt jövedéki termék fajtakódja: |
 
@@ -130,7 +130,7 @@
 
 |  |  | 6.1. | Előállításra kerülő jövedéki termék, megfigyelt termék megnevezése: |
 
-|  |  | 6.2. | Előállításra kerülő jövedéki termék, megfigyelt termék vámtarifaszáma: |
+|  |  | 6.2. | Előállításra kerülő jövedéki termék, megfigyelt termék KN-kódja: |
 
 |  |  | 6.3. | Előállításra kerülő jövedéki termék fajtakódja: |
 
@@ -138,7 +138,7 @@
 
 |  |  | 6.5. | Sör gyártmánylap szerinti alkoholfoka: |
 
-|  |  | 6.6. | Megfigyelt termék előállításhoz felhasznált jövedéki termék megnevezése, vámtarifaszáma, fajtakódja, felhasználási arányszáma vagy a felhasználás mennyiségi levezetése: |
+|  |  | 6.6. | Megfigyelt termék előállításhoz felhasznált jövedéki termék megnevezése, KN-kódja, fajtakódja, felhasználási arányszáma vagy a felhasználás mennyiségi levezetése: |
 
 |  | 7. | Az adóraktár tároló/keverő tartályainak adatai (azonosítószám, űrtartalom, hitelesítési bizonyítvány száma, érvényességi ideje): |
 
@@ -182,6 +182,6 @@
 
 |  |  | a kérelmező aláírása (bélyegzője) |
 
-1/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^677]
+1/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^684]
 
-[^677]: Az 1/A. számú mellékletet a 40/2007. (XII. 29.) PM rendelet 38. § (1) bekezdése iktatta be, szövege a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, az 54/2011. (XII. 29.) NGM rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^684]: Az 1/A. számú mellékletet a 40/2007. (XII. 29.) PM rendelet 38. § (1) bekezdése iktatta be, szövege a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, az 54/2011. (XII. 29.) NGM rendelet 28. § (2) bekezdése, a 76/2013. (XII. 31.) NGM rendelet 22. § (3) bekezdése szerint módosított szöveg.

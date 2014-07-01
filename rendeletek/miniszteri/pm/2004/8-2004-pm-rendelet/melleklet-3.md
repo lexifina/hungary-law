@@ -98,7 +98,7 @@
 
 |  |  |  | 5.1.1. | Ásványolaj megnevezése: |
 
-|  |  |  | 5.1.2. | Vámtarifaszáma: |
+|  |  |  | 5.1.2. | KN-kódja: |
 
 |  |  |  | 5.1.3. | Fajtakódja: |
 
@@ -106,7 +106,7 @@
 
 |  |  |  | 5.1.5. | Ásványolaj felhasználási arányszáma (termékelőállítás esetén): |
 
-|  |  |  | 5.1.6. | Előállításra kerülő termék megnevezése, vámtarifaszáma, nyilvántartás szerinti mennyiségi egysége: |
+|  |  |  | 5.1.6. | Előállításra kerülő termék megnevezése, KN-kódja, nyilvántartás szerinti mennyiségi egysége: |
 
 |  |  |  | 5.1.7. | Előállításra kerülő termék várható mennyisége: |
 
@@ -126,7 +126,7 @@
 
 |  |  |  | 5.2.1. | Alkoholtermék megnevezése: |
 
-|  |  |  | 5.2.2. | Vámtarifaszáma: |
+|  |  |  | 5.2.2. | KN-kódja: |
 
 |  |  |  | 5.2.3. | Fajtakódja: |
 
@@ -140,7 +140,7 @@
 
 |  |  |  | 5.2.6. | Alkoholtermék felhasználási arányszáma (termékelőállítás esetén): |
 
-|  |  |  | 5.2.7. | Előállításra kerülő termék, megfigyelt termék megnevezése, vámtarifaszáma: |
+|  |  |  | 5.2.7. | Előállításra kerülő termék, megfigyelt termék megnevezése, KN-kódja: |
 
 |  |  |  | 5.2.8. | Várhatóan előállításra kerülő mennyiség: |
 
@@ -190,6 +190,6 @@
 
 |  |  | a kérelmező aláírása (bélyegzője) |
 
-3. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^682]
+3. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^689]
 
-[^682]: A 3. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (5) és (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) és (4) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a, az 54/2011. (XII. 29.) 28. § (4) bekezdése szerint módosított szöveg.
+[^689]: A 3. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (5) és (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) és (4) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a, az 54/2011. (XII. 29.) 28. § (4) bekezdése, a 76/2013. (XII. 31.) NGM rendelet 22. § (5) bekezdése szerint módosított szöveg.

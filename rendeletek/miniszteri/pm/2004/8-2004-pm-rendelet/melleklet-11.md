@@ -26,7 +26,7 @@
 
 |  | 3.1. | Megnevezése: |
 
-|  | 3.2. | Vámtarifaszáma: |
+|  | 3.2. | KN-kódja: |
 
 |  | 3.3. | Fajtakódja: |
 
@@ -44,7 +44,7 @@
 
 |  | 7.1. | Megnevezése: |
 
-|  | 7.2. | Vámtarifaszáma: |
+|  | 7.2. | KN-kódja: |
 
 |  | 7.3. | Nyilvántartás (elszámolás) mennyiségi egysége: |
 
@@ -68,6 +68,6 @@
 
 |  | az engedélyező vámszerv aláírása (bélyegzője) |
 
-11. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^690]
+11. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^697]
 
-[^690]: A 11. számú melléklet a 40/2007. (XII. 29.) PM rendelet 38. § (3) bekezdésével megállapított szöveg.
+[^697]: A 11. számú melléklet a 76/2013. (XII. 31.) NGM rendelet 22. § (14) bekezdésével megállapított szöveg.

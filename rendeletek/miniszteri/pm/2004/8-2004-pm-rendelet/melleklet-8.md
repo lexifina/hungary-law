@@ -98,7 +98,7 @@
 
 |  |  | 3.1. | Megnevezése: |
 
-|  |  | 3.2. | Vámtarifaszáma: |
+|  |  | 3.2. | KN-kódja: |
 
 |  |  | 3.3. | Fajtakódja: |
 
@@ -110,6 +110,6 @@
 
 |  |  | a kérelmező aláírása (bélyegzője) |
 
-8. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^687]
+8. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^694]
 
-[^687]: A 8. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a, az 54/2011. (XII. 29.) NGM rendelet 28. § (5) bekezdése szerint módosított szöveg.
+[^694]: A 8. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a, az 54/2011. (XII. 29.) NGM rendelet 28. § (5) bekezdése, a 76/2013. (XII. 31.) NGM rendelet 22. § (10) bekezdése szerint módosított szöveg.
