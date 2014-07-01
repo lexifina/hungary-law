@@ -32,6 +32,8 @@ m) a kisajátítási eljárásban,
 
 n) a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott, a föld tulajdonjogának vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során
 
+n) a névváltoztatási eljárásban, a házasságkötési szándék bejelentésére irányuló eljárásban, valamint a bejegyzett élettársi kapcsolat létesítése iránti szándék bejelentésére irányuló eljárásban
+
 csak akkor kell alkalmazni, ha az ügyfajtára vonatkozó törvény eltérő szabályokat nem állapít meg.
 
 (3) Az (1) és (2) bekezdésben fel nem sorolt közigazgatási hatósági eljárásokra vonatkozó jogszabályok e törvény rendelkezéseitől kizárólag akkor térhetnek el, ha azt e törvény kifejezetten megengedi.
