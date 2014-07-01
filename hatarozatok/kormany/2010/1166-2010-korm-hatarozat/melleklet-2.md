@@ -20,7 +20,7 @@
 
 | 10. | Összesen | 5 621 |
 
-2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^2]
+2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^3]
 
 | Sorszám | közigazgatási szerv | létszám (fő) |
 
@@ -202,7 +202,7 @@
 
 | Külügyminisztérium |
 
-| 83. | Külképviseletek igazgatása | 1200 |
+| 83. | Külképviseletek igazgatása | 1150 |
 
 | Emberi Erőforrások Minisztériuma |
 
@@ -232,6 +232,6 @@
 
 | 92. | Országos Egészségbiztosítási Pénztár | 1594 |
 
-| 93. | Összesen | 70 650 |
+| 93. | Összesen | 70 959 |
 
-[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított, az 1258/2012. (VII. 26.) Korm. határozat 1. pontja, az 1399/2012. (IX. 25.) Korm. határozat 2. pontja, az 1420/2012. (X. 4.) Korm. határozat 1–3. pontja, az 1054/2013. (II. 13.) Korm. határozat 2. pontja, az 1170/2013. (IV. 5.) Korm.határozat 2. pontja, az 1352/2013. (VI. 21.) Korm. határozat 3–4. pontja szerint módosított szöveg.
+[^3]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított, az 1258/2012. (VII. 26.) Korm. határozat 1. pontja, az 1399/2012. (IX. 25.) Korm. határozat 2. pontja, az 1420/2012. (X. 4.) Korm. határozat 1–3. pontja, az 1054/2013. (II. 13.) Korm. határozat 2–3. pontja, az 1352/2013. (VI. 21.) Korm. határozat 3–4. pontja szerint módosított szöveg.
