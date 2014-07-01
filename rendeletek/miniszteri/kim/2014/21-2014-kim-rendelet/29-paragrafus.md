@@ -1,4 +1,4 @@
-## 28. §[^36]
+## 28. §[^32]
 
 ## 29. Hatálybalépés
 
@@ -12,4 +12,4 @@
 
 (5) A 19. § (4) bekezdése 2015. január 1-jén lép hatályba.
 
-[^36]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
