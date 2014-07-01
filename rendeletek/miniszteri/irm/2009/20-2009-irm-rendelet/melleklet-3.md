@@ -1,4 +1,4 @@
-3. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^42]
+3. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^43]
 
 3. számú adatlap
 
@@ -56,4 +56,4 @@ ADATKÖZLÉS ÜGYÉSZI MEGROVÁS ALKALMAZÁSÁRÓL
 
 | Nyilvántartási ideje: |
 
-[^42]: A 3. melléklet a 9/2013. (VI. 29.) KIM rendelet 75. § (3) bekezdésével megállapított szöveg.
+[^43]: A 3. melléklet a 9/2013. (VI. 29.) KIM rendelet 75. § (3) bekezdésével megállapított szöveg.

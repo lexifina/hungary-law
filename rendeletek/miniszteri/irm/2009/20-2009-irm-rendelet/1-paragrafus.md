@@ -20,9 +20,12 @@ c) a Bnytv. 4. § (2) bekezdés a) pont af)–ah) alpontjában meghatározott sz
 
 meg kell küldeni a bűnügyi nyilvántartó szerv részére.
 
-(5)[^4] Az eljáró nyomozó hatóság, ügyész, nyomozó ügyész vagy ügyészségi nyomozó az 1–10. és 12. mellékletben meghatározott adatlapokon szereplő eljáró szerv kódját és bűncselekménykódokat az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikáról szóló BM rendelet rendelkezéseinek megfelelően kiadott iránymutatás alapján tölti ki.
+(4a)[^4] Az anyakönyvi ügyekért felelős miniszter értesítést küld a bűnügyi nyilvántartó szerv részére a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartásában nem szereplő személyek adatairól, hogy a bűnügyi nyilvántartási rendszerben adatokkal rendelkező személyek tekintetében a névváltozással kapcsolatos adatok a személyazonosító adatok és fényképek nyilvántartásába átvezetésre kerüljenek.
+
+(5)[^5] Az eljáró nyomozó hatóság, ügyész, nyomozó ügyész vagy ügyészségi nyomozó az 1–10. és 12. mellékletben meghatározott adatlapokon szereplő eljáró szerv kódját és bűncselekménykódokat az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikáról szóló BM rendelet rendelkezéseinek megfelelően kiadott iránymutatás alapján tölti ki.
 
 [^1]: Az 1. § (1) bekezdése a 9/2013. (VI. 29.) KIM rendelet 74. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdése a 60/2012. (XII. 28.) KIM rendelet 3. §-ával megállapított, a 9/2013. (VI. 29.) KIM rendelet 74. § b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (4) bekezdése a 9/2013. (VI. 29.) KIM rendelet 73. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (5) bekezdése a 60/2012. (XII. 28.) KIM rendelet 9. § b) pontja, a 9/2013. (VI. 29.) KIM rendelet 74. § c) pontja szerint módosított szöveg.
+[^4]: Az 1. § (4a) bekezdését a 9/2013. (VI. 29.) KIM rendelet 73. § (2) bekezdése iktatta be.
+[^5]: Az 1. § (5) bekezdése a 60/2012. (XII. 28.) KIM rendelet 9. § b) pontja, a 9/2013. (VI. 29.) KIM rendelet 74. § c) pontja szerint módosított szöveg.

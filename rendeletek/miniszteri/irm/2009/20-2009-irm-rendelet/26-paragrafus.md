@@ -14,11 +14,11 @@ b) a terheltet befogadó büntetés-végrehajtási intézet erre kijelölt és a
 
 (2) Az e rendeletben előírt arcképmásrögzítés során egy szemből, egy jobb oldalnézetből és egy baloldalról, negyed profilban készített arcképmást, valamint két egész alakos állóképet (a továbbiakban együtt: arcképmás) kell rögzíteni. Az így rögzített arcképmást, a megfelelően kitöltött és arcképmás egyedi azonosítóval ellátott 1. számú vagy a 8. számú adatlap egy példányával együtt kell megküldeni a bűnügyi nyilvántartó szerv részére.
 
-(3)[^36] Ha az arcképmás bűnügyi nyilvántartó szerv részére történő megküldése az 1. számú vagy 8. számú adatlappal együtt nem lehetséges, az arcképmást a 12. mellékletben meghatározott arcképmáskísérő adatlappal együtt kell megküldeni a bűnügyi nyilvántartó szerv részére.
+(3)[^37] Ha az arcképmás bűnügyi nyilvántartó szerv részére történő megküldése az 1. számú vagy 8. számú adatlappal együtt nem lehetséges, az arcképmást a 12. mellékletben meghatározott arcképmáskísérő adatlappal együtt kell megküldeni a bűnügyi nyilvántartó szerv részére.
 
-(4)[^37] Az arcképmásrögzítést a 13. mellékletben meghatározott módszerrel kell elvégezni. Az arcképmások rögzítése során legalább 16,7 millió színfelbontású, legalább 800Ű600 pixel képfelbontású, a szemek között 120 pixel távolságú normál minőségű tömörítéssel készített digitális adatot kell létrehozni.
+(4)[^38] Az arcképmásrögzítést a 13. mellékletben meghatározott módszerrel kell elvégezni. Az arcképmások rögzítése során legalább 16,7 millió színfelbontású, legalább 800Ű600 pixel képfelbontású, a szemek között 120 pixel távolságú normál minőségű tömörítéssel készített digitális adatot kell létrehozni.
 
 (5) Ha az adatvédelem és az adatbiztonság feltételei adottak, a rögzített arcképmást a bűnügyi nyilvántartó szerv részére számítástechnikai rendszerek közvetlen (online) összekapcsolásával, egyedi informatikai alkalmazás igénybevételével kell megküldeni. Ha a közvetlen (online) kapcsolat útján, egyedi informatikai alkalmazás igénybevételével történő adatközlésre nincs lehetőség, az arcképmást a (4) bekezdésben meghatározott formátumban, adathordozón kell megküldeni a bűnügyi nyilvántartó szerv részére.
 
-[^36]: A 26. § (3) bekezdése a 9/2013. (VI. 29.) KIM rendelet 74. § e) pontja szerint módosított szöveg.
-[^37]: A 26. § (4) bekezdése a 9/2013. (VI. 29.) KIM rendelet 74. § f) pontja szerint módosított szöveg.
+[^37]: A 26. § (3) bekezdése a 9/2013. (VI. 29.) KIM rendelet 74. § e) pontja szerint módosított szöveg.
+[^38]: A 26. § (4) bekezdése a 9/2013. (VI. 29.) KIM rendelet 74. § f) pontja szerint módosított szöveg.

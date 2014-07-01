@@ -1,4 +1,4 @@
-6. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^45]
+6. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^46]
 
 6. számú adatlap
 
@@ -114,4 +114,4 @@ A TERHELT ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK □ IGEN □ NEM (kitöltése k
 
 | Intézkedés nyilvántartási ideje: |  |
 
-[^45]: A 6. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 35/2013. (XII. 23.) KIM rendelet 14. § (5) bekezdésével megállapított szöveg.
+[^46]: A 6. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 35/2013. (XII. 23.) KIM rendelet 14. § (5) bekezdésével megállapított szöveg.

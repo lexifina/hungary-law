@@ -1,4 +1,4 @@
-2. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^41]
+2. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^42]
 
 2. számú adatlap
 
@@ -74,4 +74,4 @@ Az 1., 2. és 3. pont kitöltése minden esetben kötelező!
 
 |  | ........................................................ Az eljáró szerv képviselője |
 
-[^41]: A 2. melléklet a 35/2013. (XII. 23.) KIM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^42]: A 2. melléklet a 35/2013. (XII. 23.) KIM rendelet 14. § (2) bekezdésével megállapított szöveg.

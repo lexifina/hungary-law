@@ -1,6 +1,6 @@
-## 29–33. §[^39]
+## 29–33. §[^40]
 
-1. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^40]
+1. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^41]
 
 1. számú adatlap
 
@@ -88,5 +88,5 @@ Az 1., 2. és 4. pont kitöltése minden esetben kötelező!
 
 | Nyilvántartási ideje: |
 
-[^39]: A 29–33. § a 33. § (2) bekezdése alapján hatályát vesztette.
-[^40]: Az 1. melléklet a 35/2013. (XII. 23.) KIM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^40]: A 29–33. § a 33. § (2) bekezdése alapján hatályát vesztette.
+[^41]: Az 1. melléklet a 35/2013. (XII. 23.) KIM rendelet 14. § (1) bekezdésével megállapított szöveg.

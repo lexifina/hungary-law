@@ -1,4 +1,4 @@
-4. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^43]
+4. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^44]
 
 4. számú adatlap
 
@@ -124,4 +124,4 @@ A TERHELT ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK □ IGEN □ NEM (kitöltése k
 
 | Nyilvántartási ideje a Bnytv. 25. § c) pontja esetén: |  |
 
-[^43]: A 4. melléklet a 35/2013. (XII. 23.) KIM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^44]: A 4. melléklet a 35/2013. (XII. 23.) KIM rendelet 14. § (3) bekezdésével megállapított szöveg.

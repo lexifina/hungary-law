@@ -1,4 +1,4 @@
-8. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^47]
+8. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^48]
 
 8. számú adatlap
 
@@ -152,4 +152,4 @@ ADATKÖZLÉS VÉGREHAJTÁSI ADATOKRÓL
 
 | ........................................................ Az eljáró szerv képviselője |
 
-[^47]: A 8. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 35/2013. (XII. 23.) KIM rendelet 14. § (7) bekezdésével megállapított szöveg.
+[^48]: A 8. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 35/2013. (XII. 23.) KIM rendelet 14. § (7) bekezdésével megállapított szöveg.
