@@ -12,16 +12,18 @@ c)[^10]
 
 d) jogszabályban meghatározott, cégnek nem minősülő más szervezet esetében 20 000 Ft.
 
-(2)[^11] Az (1) bekezdésben felsoroltak a közlemény szövegét közvetlenül a céginformációs szolgálat részére küldik meg postán, faxon vagy elektronikus úton, a közzétételi költségtérítés (többszöri közzétételi kötelezettség esetén valamennyi megjelenési alkalom költségtérítése) befizetésének igazolásával együtt. A közzétételi költségtérítést a befizetésre kötelezett nevében más is teljesítheti. Az átutalási megbízás vagy a fizetési számlára történő készpénz befizetési nyomtatvány „közlemény” rovatában a közzétételre köteles cég vagy egyéb szervezet nevét és cégjegyzékszámát is szerepeltetni kell.
+(2)[^11] Az (1) bekezdésben felsoroltak a közlemény szövegét a Cégközlöny honlapján erre a célra létrehozott elektronikus kommunikációs felületen keresztül küldhetik meg. A Cégközlöny elektronikus kommunikációs felületének használatához regisztráció, és azt követően felhasználónév és jelszó használata szükséges. Az elektronikus kommunikációs felület biztosítja a Cégközlöny és a megrendelő közötti kapcsolattartást is. A regisztráció, a kommunikációs felület használatának és a közlemény elektronikus megküldésének részletes feltételei a Cégközlöny és a céginformációs szolgálat honlapján közzétételre kerülnek.
 
-(3) A közleményben szereplő cég esetében mindig a cégnyilvántartásba bejegyzett cégnevet és székhelyet kell feltüntetni. Új cégnévre és székhelyre a közlemény a bejegyzett cégnév és székhely mellett csak akkor utalhat, ha az már bejegyzés alatt („b.a.”) áll.
+(3)[^12] A Ctv. 114. § (1) és (2a) bekezdése szerinti közlemények kivételével a cég a változásbejegyzési eljárásában felhasználandó közleményét jogi képviselő útján küldheti meg. A felszámolási eljárásban, a vagyonrendezési eljárásban közzéteendő közleményt a bíróság által kirendelt felszámoló szervezet küldheti meg. Egyéb esetben a közleményt a cég, illetve az küldheti meg, akit erre a jogszabály kötelez. Jogi képviselő minden esetben eljárhat.
 
-(4)[^12] Ha az (1) bekezdésben felsoroltak a közzétételre megküldött közlemény módosítását (kijavítását, kiegészítését) a közlemény igazságügyért felelős miniszter által vezetett minisztériumba történt érkezését követő 3 nap elteltével kérik, a korábban megküldött közlemény tartalmát módosítani már nem lehet, az az eredeti tartalommal jelenik meg. Ha a közleményt csak egy alkalommal kellett közzétenni, az (5) bekezdésben foglaltak megfelelő alkalmazásával módosító közlemény közzétételére kerül sor. Több megjelenési alkalom esetében ugyanakkor az első megjelenést követő közzététel során a közlemény a módosított tartalommal kerül közzétételre, utalva arra, hogy az előző közzététel hibás (hiányos) volt.
+(4)[^13] A felszámoló szervezet és a jogi képviselő a (2) bekezdés szerinti regisztrációt az erre kijelölt személy útján folytatja le. Az így regisztrált szervezet a Cégközlöny elektronikus kommunikációs rendszerében közzétételi kérelem benyújtására feljogosított személyt vagy személyeket jelöl meg.
 
-(5) Ha a közleménynek a Cégközlönyben való megjelenését követően a közlemény tartalmának módosítását a megrendelő érdekkörében felmerült okból kérik, a módosító közleményt – a közzétételi költségtérítés egyszeri megfizetése mellett – csak egyszer kell közzétenni, akkor is, ha az eredeti közlemény többször jelent meg. A módosító közleményben utalni kell a korábbi közzétételre, valamint a hibás (hiányos) adatra. Ezen túlmenően csak a módosított adatot kell feltüntetni.
+(5)[^14] A közleményt megküldő személy a 7. §, a 8. § és a 8/A. § alkalmazásában a megrendelő.
 
 [^8]: A 7. § (1) bekezdés a) pontja a 21/2014. (III. 13.) KIM rendelet 18. § (2) bekezdésével megállapított szöveg.
 [^9]: A 7. § (1) bekezdés b) pontját a 29/2011. (IX. 29.) KIM rendelet 2. §-a hatályon kívül helyezte.
 [^10]: A 7. § (1) bekezdés c) pontját a 16/2012. (III. 6.) KIM rendelet 3. § b) pontja hatályon kívül helyezte.
-[^11]: A 7. § (2) bekezdése a 29/2011. (IX. 29.) KIM rendelet 1. §-ával megállapított szöveg.
-[^12]: A 7. § (4) bekezdése a 20/2010. (XII. 22.) KIM rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^11]: A 7. § (2) bekezdése a 21/2014. (III. 13.) KIM rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^12]: A 7. § (3) bekezdése a 21/2014. (III. 13.) KIM rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^13]: A 7. § (4) bekezdése a 21/2014. (III. 13.) KIM rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^14]: A 7. § (5) bekezdése a 21/2014. (III. 13.) KIM rendelet 18. § (3) bekezdésével megállapított szöveg.
