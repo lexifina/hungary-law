@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-70-20-2
 | --- | --- | --- |
 | 2014-03-15 | 2014-70-20-22.1 | 70/2014. (III. 13.) Korm. rendelet |
 | 2014-03-16 | 2014-70-20-22.2 | 2010: CXXX. törvény |
+| 2014-07-01 | 2014-70-20-22.3 | 2010: CXXX. törvény |

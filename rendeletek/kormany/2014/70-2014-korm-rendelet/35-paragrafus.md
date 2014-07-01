@@ -1,3 +1,5 @@
-## 34. §[^9]
+## 34. § A Gyer. 46. § (1) bekezdése a következő m) ponttal egészül ki:
 
-[^9]: A 34. § a 103. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+## (Az örökbefogadást engedélyező határozat rendelkező része tartalmazza)
+
+## „m) szükség esetén a tény szerinti örökbefogadásra vonatkozó rendelkezést.”
