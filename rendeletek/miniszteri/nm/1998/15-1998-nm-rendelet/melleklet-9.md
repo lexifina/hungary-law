@@ -12,7 +12,7 @@
 
 ## * Ha a kapcsolattartás a gyermek elvitelével valósul meg, az aláírás igazolja a gyermek elvitelét, illetve visszahozatalát.
 
-9. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^539]
+9. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^563]
 
 Adatlap a szakszolgálat Gyvt. 69/A. § (2) bekezdés a) és b) pontja szerinti tevékenységéről
 
@@ -88,4 +88,4 @@ Adatlap a szakszolgálat Gyvt. 69/A. § (2) bekezdés a) és b) pontja szerinti 
 
 | Mi segített a gyermek nevelésének vállalásában: |
 
-[^539]: A 9. számú mellékletet a 19/2014. (III. 13.) EMMI rendelet 36. § (3) bekezdése iktatta be.
+[^563]: A 9. számú mellékletet a 19/2014. (III. 13.) EMMI rendelet 36. § (3) bekezdése iktatta be.

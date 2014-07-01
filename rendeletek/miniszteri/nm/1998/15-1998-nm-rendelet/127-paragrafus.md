@@ -1,15 +1,16 @@
-## Különleges gyermekotthon[^381]
+## Különleges gyermekotthon, különleges lakásotthon és a gyermekotthon különleges csoportja[^390]
 
-127. §[^382] (1) A különleges gyermekotthon, a gyermekotthon különleges csoportja a szakellátás keretében
+127. §[^391] (1) A különleges gyermekotthon, a különleges lakásotthon és a gyermekotthon különleges csoportja a szakellátás keretében
 
-a) a kora miatt sajátos szükségletekkel bíró 3 év alatti
+a) a kora miatt sajátos szükségletekkel bíró 3 év alatti,
 
-b) a tartósan beteg, illetve fogyatékos
+b) a tartósan beteg vagy fogyatékos és
 
-gondozott gyermek számára kötelezően ellátandó alapfeladatként a gyermek állapotához, illetve korához igazodó különleges ellátást biztosít.
+c) a kettős szükségletű
 
-(2)[^383] A különleges gyermekotthon vállalhatja a 6 éven aluli, fogyatékos és részterületen fejlődési elmaradást mutató gyermekek ellátását is. Ebben az esetben a különleges gyermekotthon együttműködik a gyermek korai fejlesztését és gondozását, vagy fejlesztő nevelését ellátó területileg illetékes pedagógiai szakszolgálati intézménnyel. A korai fejlesztéshez, gondozáshoz és fejlesztő neveléshez igénybe vehetőek a különleges gyermekotthon meglévő tárgyi eszközei.
+gondozott gyermek számára kötelezően ellátandó alapfeladatként a gyermek állapotához, illetve korához igazodóan az a) és a b) pont szerinti esetben különleges ellátást, a c) pont szerinti esetben különleges és speciális ellátást együttesen biztosít.
 
-[^381]: A 127. § előtti alcímet a 46/2003. (VIII. 8.) ESZCSM rendelet 74. § (1) bekezdése iktatta be.
-[^382]: A 127. § a 46/2003. (VIII. 8.) ESZCSM rendelet 74. § (2) bekezdésével megállapított szöveg.
-[^383]: A 127. § (2) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 16. §-ával megállapított szöveg.
+(2) A különleges gyermekotthon, a különleges lakásotthon és a gyermekotthon különleges csoportja vállalhatja a 6 éven aluli, fogyatékos és részterületen fejlődési elmaradást mutató gyermekek ellátását is. Ebben az esetben a különleges gyermekotthon, a különleges lakásotthon és a gyermekotthon különleges csoportja együttműködik a gyermek korai fejlesztését és gondozását, vagy fejlesztő nevelését ellátó területileg illetékes pedagógiai szakszolgálati intézménnyel. A korai fejlesztéshez, gondozáshoz és fejlesztő neveléshez igénybe vehetőek a különleges gyermekotthon, a különleges lakásotthon és a gyermekotthon különleges csoportja meglévő tárgyi eszközei.
+
+[^390]: A 127. § előtti alcímet a 46/2003. (VIII. 8.) ESZCSM rendelet 74. § (1) bekezdése iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 16. §-ával megállapított szöveg.
+[^391]: A 127. § a 19/2014. (III. 13.) EMMI rendelet 16. §-ával megállapított szöveg.

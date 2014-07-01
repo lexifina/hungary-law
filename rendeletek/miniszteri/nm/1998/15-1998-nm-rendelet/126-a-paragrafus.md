@@ -1,20 +1,14 @@
-## Nevelési felügyelet
+## A gyermek személyes szabadságának korlátozása a speciális gyermekotthonban, a speciális lakásotthonban és a gyermekotthon speciális csoportjában[^386]
 
-126/A. §[^375] (1)[^376] A Gyvt. 81/A. §-ának (1) bekezdésében körülírt magatartást tanúsító gondozott gyermek személyes szabadságának korlátozását a felügyeletét ellátó munkatárs vagy az intézmény pszichológusa vagy orvosa kezdeményezésére a speciális gyermekotthon vezetője, illetve annak távollétében az ügyeletes vezető írásban rendelheti el, kijelölve a helyiséget, ahol a gondozott gyermeknek tartózkodnia kell.
+126/A. §[^387] (1) A Gyvt. 81/A. § (1) bekezdésében meghatározott célból a gyermek személyes szabadságának korlátozását a felügyeletét ellátó munkatárs vagy az intézmény pszichológusa vagy az intézmény orvosa kezdeményezésére a speciális gyermekotthon vezetője, a speciális lakásotthon vezetője, gyermekotthon speciális csoportjában elhelyezett gyermek esetén a speciális csoport vezetője (a továbbiakban együtt: speciális gyermekotthon vezetője) írásban rendelheti el, kijelölve a helyiséget, ahol a gondozott gyermeknek tartózkodnia kell. Ebben a jogkörében a speciális gyermekotthon vezetőjét annak távollétében az ügyeletes vezető helyettesítheti.
 
-(2)[^377] A személyes szabadság korlátozásának elrendeléséről, valamint annak okáról a speciális gyermekotthon vezetője a Gyvt. 81/A. § (2) bekezdésben megjelölteken kívül tájékoztatja a gondozott gyermeket is. A speciális gyermekotthon vezetője biztosítja, hogy a gyermekjogi képviselő a személyes szabadságában korlátozott gyermekkel találkozhasson, ügyében tájékozódjon.
+(2) A speciális gyermekotthon vezetője a személyes szabadság korlátozásának elrendeléséről, annak okáról, módjáról és időtartamáról – a Gyvt. 81/A. § (7) bekezdésében megjelölteken kívül – tájékoztatja a gondozott gyermeket is. A speciális gyermekotthon vezetője biztosítja, hogy a gyermekjogi képviselő és a gyermekvédelmi gyám a személyes szabadságában korlátozott gyermekkel találkozhasson, ügyében tájékozódjon.
 
-(3)[^378] Amennyiben a személyes szabadság korlátozása során a speciális gyermekotthon vezetője a gondozott gyermek tartózkodási helyeként a biztonsági elkülönítőt jelöli ki, a személyes szabadság korlátozásának elrendelésével egyidejűleg intézkedni kell a gondozott gyermek haladéktalan orvosi vizsgálatáról.
+(3) A gyermekvédelmi gyám a Gyvt. 81/A. § (7) bekezdésében meghatározott értesítés kézhezvételétől számított 15 napon belül felkeresi a gyermeket, és személyes beszélgetést kezdeményez vele.
 
-(4)[^379] A gondozott gyermek a biztonsági elkülönítőben az orvos által szükségesnek tartott ideig, de legfeljebb 24 óráig tartózkodhat. Amennyiben a gondozott gyermek magatartása ezt követően sem rendeződik, kezelését fekvőbeteg-ellátó intézményben kell folytatni.
+(4) A speciális gyermekotthonban történő személyes szabadság korlátozása során, ha a speciális gyermekotthon vezetője a gondozott gyermek tartózkodási helyeként a biztonsági elkülönítőt jelöli ki, a személyes szabadság korlátozásának elrendelésével egyidejűleg a speciális gyermekotthon vezetője, vagy távollétében az ügyeletes vezető haladéktalanul intézkedik a gondozott gyermek orvosi vizsgálatáról.
 
-(5)[^380] Személyes szabadsága korlátozásának időtartama alatt a gondozott gyermek nem hagyhatja el a speciális gyermekotthon területét, illetve köteles a speciális gyermekotthon vezetője által kijelölt helyiségben – szükség szerint a biztonsági elkülönítőben – tartózkodni.
+(5) Ha a gondozott gyermek magatartása a biztonsági elkülönítőben a Gyvt. 81/A. § (5) bekezdés b) pontjában meghatározott időtartamon belül nem rendeződik, kezelését fekvőbeteg-ellátó intézményben kell folytatni.
 
-(6) A nevelési felügyelet alatt a speciális gyermekotthon vezetője gondoskodik a Gyvt. 81/B. § (3) bekezdésén alapuló gyámhivatali határozatban foglaltak végrehajtásáról.
-
-[^375]: A 126/A. §-t és alcímét a 46/2003. (VIII. 8.) ESZCSM rendelet 73. §-a iktatta be.
-[^376]: A 126/A. § (1) bekezdése a 31/2009. (XII. 22.) SZMM rendelet 21. § f) pontja szerint módosított szöveg.
-[^377]: A 126/A. § (2) bekezdése a 31/2009. (XII. 22.) SZMM rendelet 21. § g) pontja szerint módosított szöveg.
-[^378]: A 126/A. § (3) bekezdése a 31/2009. (XII. 22.) SZMM rendelet 21. § h) pontja szerint módosított szöveg.
-[^379]: A 126/A. § (4) bekezdése a 31/2009. (XII. 22.) SZMM rendelet 21. § h) pontja szerint módosított szöveg.
-[^380]: A 126/A. § (5) bekezdése a 31/2009. (XII. 22.) SZMM rendelet 21. § h) pontja szerint módosított szöveg.
+[^386]: A 126/A. §-t megelőző alcímet a 46/2003. (VIII. 8.) ESZCSM rendelet 73. §-a iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 14. §-ával megállapított szöveg.
+[^387]: A 126/A. §-t a 46/2003. (VIII. 8.) ESZCSM rendelet 73. §-a iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 14. §-ával megállapított szöveg.

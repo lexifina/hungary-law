@@ -1,8 +1,8 @@
-## A családi pótlék felhasználása[^370]
+## A családi pótlék felhasználása[^373]
 
-125/B. §[^371] (1) A gyermekotthon vezetője gondoskodik a gyermekotthonban elhelyezett gyermek családi pótlékának a Gyvt. 53. § (7) bekezdése szerinti felhasználásáról.
+125/B. §[^374] (1) A gyermekotthon vezetője gondoskodik a gyermekotthonban elhelyezett gyermek családi pótlékának a Gyvt. 53. § (7) bekezdése szerinti felhasználásáról.
 
 (2) A gyermekotthon vezetője, a közös igazgatású intézmény vezetője vagy a gyermekotthon gazdálkodásáért felelős szerv vezetője közli a családi pótlékot folyósító szervvel annak a fizetési számlának a számát, amelyre a családi pótlékot folyósító szerv a családi pótlék összegét a gyermek ellátására folyósítja. A fizetési számla számának megváltozását haladéktalanul közölni kell a családi pótlékot folyósító szervvel.
 
-[^370]: A 125/B. §-t megelőző alcmíet a 31/2009. (XII. 22.) SZMM rendelet 16. §-a iktatta be.
-[^371]: A 125/B. §-t a 31/2009. (XII. 22.) SZMM rendelet 16. §-a iktatta be, szövege a 49/2013. (VII. 10.) EMMI rendelet 14. §-ával megállapított szöveg.
+[^373]: A 125/B. §-t megelőző alcmíet a 31/2009. (XII. 22.) SZMM rendelet 16. §-a iktatta be.
+[^374]: A 125/B. §-t a 31/2009. (XII. 22.) SZMM rendelet 16. §-a iktatta be, szövege a 49/2013. (VII. 10.) EMMI rendelet 14. §-ával megállapított szöveg.

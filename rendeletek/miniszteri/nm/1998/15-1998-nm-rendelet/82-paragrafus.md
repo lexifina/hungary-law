@@ -1,4 +1,4 @@
-## 81. §[^260] A különleges vagy speciális ellátásra szoruló gondozott gyermek számára a fejlődéséhez, illetve fejlesztéséhez, a gyógyulásához, rehabilitációjához, terápiájához szükséges és indokolt eszközök beszerzéséről a fenntartó gondoskodik.
+## 81. §[^260] A különleges vagy speciális ellátást igénylő, valamint a kettős szükségletű gondozott gyermek számára a fejlődéséhez, fejlesztéséhez, gyógyulásához, rehabilitációjához és terápiájához szükséges és indokolt eszközök beszerzéséről a fenntartó gondoskodik.
 
 82. § (1)[^261] A 3 éven felüli gondozott gyermeket személyes szükségleteinek kielégítésére – a (3) bekezdésben meghatározott kivétellel – havonta zsebpénzzel kell ellátni. A zsebpénz havi összege nem lehet kevesebb az öregségi nyugdíj mindenkori legkisebb összegének
 
@@ -26,7 +26,7 @@ havonta állapítja meg, és folyósítja.
 
 (6)[^267] A fejlesztő felkészítésben való részvételre kötelezett, valamint a 3–6 éves korú gondozott gyermek részére a zsebpénz nem kerül kifizetésre, de biztosítani kell a személyre szóló felhasználását.
 
-[^260]: A 81. § a 46/2003. (VIII. 8.) ESZCSM rendelet 47. §-ával megállapított szöveg.
+[^260]: A 81. § a 19/2014. (III. 13.) EMMI rendelet 10. §-ával megállapított szöveg.
 [^261]: A 82. § (1) bekezdése felvezető szövegének első mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (1) bekezdésével megállapított szöveg.
 [^262]: A 82. § (1) bekezdésének a) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (1) bekezdésével megállapított szöveg, e módosító rendelet 98. § (8) bekezdése alapján az a) pontban meghatározott mértékű zsebpénzt a 3–6 éves, gondozott gyermekek számára 2004. január 1-jétől kell biztosítani.
 [^263]: A 82. § (2) bekezdésének felvezető mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (2) bekezdésével megállapított szöveg.

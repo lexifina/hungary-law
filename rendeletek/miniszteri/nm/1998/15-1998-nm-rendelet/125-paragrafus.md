@@ -4,6 +4,17 @@
 
 (2) A lakásotthonban legfeljebb 12 gondozott gyermek, fiatal felnőtt helyezhető el.
 
-(3)[^368] A lakásotthonban a gyermekek elhelyezésére szolgáló lakótérre a 124. § (4) bekezdésében foglaltak, a munkatársak számára rendelkezésre álló önálló helyiségre a 124. § (7) bekezdésében foglaltak az irányadók.
+(2a)[^370] 12 fős lakásotthonban egyidejűleg legfeljebb
 
-[^368]: A 125. § (3) bekezdésében foglaltaknak – a 46/2003. (VIII. 8.) ESZCSM rendelet 98. § (7) bekezdésének i) pontja alapján – a 2003. augusztus 16-án már működő intézményeknek 2004. december 31-ig kell megfelelniük, azonban a szolgáltatások színvonala nem romolhat.
+a) 1 fő kettős szükségletű,
+
+b) 1 fő speciális szükségletű vagy
+
+c) 4 fő különleges szükségletű
+
+gyermek helyezhető el. Ettől kizárólag az érintett gyermekek érdekében lehet eltérni. Kettős szükségletű, speciális szükségletű, különleges szükségletű gyermek elhelyezése esetén a csoport létszáma csökkenthető.
+
+(3)[^371] A lakásotthonban a gyermekek elhelyezésére szolgáló lakótérre a 124. § (4) bekezdésében foglaltak, a munkatársak számára rendelkezésre álló önálló helyiségre a 124. § (7) bekezdésében foglaltak az irányadók.
+
+[^370]: A 125. § (2a) bekezdését a 19/2014. (III. 13.) EMMI rendelet 12. §-a iktatta be.
+[^371]: A 125. § (3) bekezdésében foglaltaknak – a 46/2003. (VIII. 8.) ESZCSM rendelet 98. § (7) bekezdésének i) pontja alapján – a 2003. augusztus 16-án már működő intézményeknek 2004. december 31-ig kell megfelelniük, azonban a szolgáltatások színvonala nem romolhat.
