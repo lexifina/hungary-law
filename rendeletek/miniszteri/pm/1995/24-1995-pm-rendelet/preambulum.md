@@ -1,1 +1,0 @@
-Az adózás rendjéről szóló 1990. évi XCI. törvény (a˙továbbiakban: Art.) 96. §-ának (3) bekezdésében, valamint az általános forgalmi adóról szóló 1992. évi LXXIV. törvény (a továbbiakban: Áfa-tv.) 71. §-ának (3) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
