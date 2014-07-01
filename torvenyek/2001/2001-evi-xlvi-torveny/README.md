@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-46-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 2001-46-00-00.10 |
 | 2013-01-01 | 2012. évi CLXIX. törvény | 2001-46-00-00.11 |
 | 2013-03-01 | 2012. évi CCVII. törvény | 2001-46-00-00.12 |
+| 2014-07-01 | 2013. évi LXXVI. törvény | 2001-46-00-00.13 |
