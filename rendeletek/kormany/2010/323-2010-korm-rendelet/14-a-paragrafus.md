@@ -1,4 +1,4 @@
-## 14/A. §[^72] A Kormány egészségügyi államigazgatási szervként az Országos Epidemiológiai Központot jelöli ki az Eüak.
+## 14/A. §[^73] A Kormány egészségügyi államigazgatási szervként az Országos Epidemiológiai Központot jelöli ki az Eüak.
 
 a) 5. § (3) bekezdése,
 
@@ -8,4 +8,4 @@ c) 20. § (3a) bekezdése
 
 szerinti feladatok ellátására.
 
-[^72]: A 14/A. §-t az 520/2013. (XII. 30.) Korm. rendelet 77. §-a iktatta be.
+[^73]: A 14/A. §-t az 520/2013. (XII. 30.) Korm. rendelet 77. §-a iktatta be.

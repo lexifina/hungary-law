@@ -38,7 +38,7 @@
 
 ## V.
 
-5. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^119]
+5. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^120]
 
 ADATLAP
 
@@ -164,4 +164,4 @@ Name (in capital letters)
 
 of the person acting on behalf of the Hungarian National Blood Transfusion Service
 
-[^119]: Az 5. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 85. § (3) bekezdése iktatta be.
+[^120]: Az 5. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 85. § (3) bekezdése iktatta be.
