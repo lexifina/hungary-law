@@ -12,7 +12,7 @@ e) a hatósági erkölcsi bizonyítvány kiállításának helyét és időpontj
 
 f) a hatósági erkölcsi bizonyítvány kiadmányozására jogosult aláírását.
 
-(2) A bűnügyi nyilvántartó szerv az (1) bekezdés a) pontjában meghatározott adattartalmat – az 5. § (1) bekezdésében meghatározott összehasonlítást követően – a kérelmező személyiadat- és lakcímnyilvántartásban vagy a központi idegenrendészeti nyilvántartásban kezelt adataival egyező módon határozza meg.
+(2) A bűnügyi nyilvántartó szerv az (1) bekezdés a) pontjában meghatározott adattartalmat – az 5. § (1) és (1a) bekezdésében meghatározott összehasonlítást követően – a kérelmező személyiadat- és lakcímnyilvántartásban vagy a központi idegenrendészeti nyilvántartásban kezelt adataival, vagy az anyakönyvi ügyekért felelős miniszter értesítésében megküldött adatokkal egyező módon határozza meg.
 
 (3) A hatósági erkölcsi bizonyítvány érvényességi ideje a kiállításától számított kilencven nap.
 

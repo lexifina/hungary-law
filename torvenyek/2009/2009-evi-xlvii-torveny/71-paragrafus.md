@@ -18,6 +18,8 @@ e) mely foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll.
 
 (4) A (3) bekezdés a) pontjában meghatározott tény kizárólag önállóan igazolható, a (3) bekezdés b), c), d) és e) pontjában meghatározott tények önállóan vagy – a d) és az e) pont együttes igazolása kivételével – együttesen is igazolhatóak.
 
+(4a) Ha a kérelmező foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll, akkor a (3) bekezdés b) pontjában meghatározott tény igazolására irányuló kérelem esetén a hatósági erkölcsi bizonyítványban kötelező feltüntetni– erre irányuló kérelem hiányában is – a (3) bekezdés e) pontjában meghatározott tényt.
+
 (5) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt a kérelmező erre irányuló kérelme esetén a kérelmező által megjelölt belföldi címzett részére kézbesíti.
 
 (6) A hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért igazgatási szolgáltatási díjat kell fizetni.
