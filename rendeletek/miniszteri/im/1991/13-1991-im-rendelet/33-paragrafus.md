@@ -4,4 +4,6 @@
 
 (3) A még elintézetlen ügyeket havonta csak akkor kell lezárni, ha az adott hónapban az adataikban változás történt.
 
-(4) Ha a közjegyző az ügyet elintézte, a pénztárkönyvben az utolsó bejegyzés után kettős vonalat húz, és a befejezést a fél neve mellett piros vonallal jelzi. A naptári év végén a pénztárkönyvet le kell zárni, és a még elintézetlen ügyeket, továbbá az egyenleget át kell vinni a következő évre az új pénztárkönyvbe.
+(4)[^94] Ha a közjegyző az ügyet elintézte, ezt a pénztárkönyvben jelzi. A naptári év végén a pénztárkönyvet le kell zárni, és a még elintézetlen ügyeket, továbbá az egyenleget a számítógépes nyilvántartásban át kell vinni a következő évre.
+
+[^94]: A Vhr. 33. § (4) bekezdése a 29/2014. (IV. 30.) KIM rendelet 1. § (6) bekezdésével megállapított szöveg.

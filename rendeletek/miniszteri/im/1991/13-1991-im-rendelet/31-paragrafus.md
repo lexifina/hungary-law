@@ -1,5 +1,7 @@
 ## Pénztárkönyv és pénztárnapló
 
-31. § (1) A pénztárkönyvet és a pénztárnaplót folyamatos oldalszámozással ellátott könyv formájában kell vezetni. A pénztárkönyv és a pénztárnapló kivételesen kartoték formájában is vezethető, ilyenkor a kartonokat a folyamatban lévő és a már befejezett bizalmi őrzési ügyek szerint elkülönítve kell őrizni. A megnyitott kartotékot sorszámmal kell ellátni. A felhasznált sorszámokról sorszámkönyvet kell vezetni.
+31. §[^93] (1) A pénztárkönyvet és a pénztárnaplót a területi elnökség által jóváhagyott és az országos kamara által a közjegyzők rendelkezésére bocsátott számítógépes nyilvántartás útján kell vezetni. Az országos kamara olyan számítógépes nyilvántartást bocsát a közjegyzők rendelkezésére, amely a titoktartási szabályok megtartását biztosítja.
 
-(2) A pénztárkönyv és a pénztárnapló helyett a területi elnökség a számítógépes nyilvántartás használatát is engedélyezheti, ha a titoktartási szabályok megtarthatók. A számítógépes nyilvántartás esetén a havi és éves zárás kinyomtatott lapjait elkülönítve kell őrizni.
+(2) A havi és éves zárás esetén a záróadatokat a számítógépes nyilvántartásból való nyomtatással, papír alapon is meg kell őrizni.
+
+[^93]: A Vhr. 31. §-a a 29/2014. (IV. 30.) KIM rendelet 1. § (5) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-5. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^106]
+5. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^110]
 
 STATISZTIKAI JELENTÉS
 
@@ -36,63 +36,93 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 | Meghiúsult záradéki tanúsítványok száma: |  |
 
-3. Közjegyzői nemperes ügyek – kivéve a végrehajtás elrendelése iránti ügyek
+3. Közjegyzői nemperes ügyek - kivéve a végrehajtás elrendelése iránti ügyek
 
-1. Hagyatéki ügy 2. Értékpapír- és okirat semmissé nyilvánítási ügy 3. Zálogjogi nyilvántartással összefüggő ügy 4. Szakértői kirendelés 5. Előzetes bizonyítás 6. Bejegyzett élettársi kapcsolat megszüntetése 7. Záradéki tanúsítványok készítése során közreműködés megtagadása 8. Gépjármű zálognyilvántartás 9/a. Élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzése 9/b. Élettársi kapcsolat fenn nem állásáról szóló nyilatkozat bejegyzése 10. Európai fizetési meghagyásos ügy 11. Hitelbiztosítéki nyilvántartásba bejegyzett jogosult vagy kötelezett jogutódjának megállapítására irányuló nemperes eljárás 12. A házassági és az élettársi vagyonjogi szerződések elektronikus nyilvántartásába történő bejegyzésére és a bejegyzett vagyonjogi szerződés módosítása, törlése, megszüntetése vagy megszűnése tényének bejegyzésére irányuló nemperes eljárás 13/a. közjegyzői letétbevételi kérelem záradékolása 13/b. közjegyzői letét kiutalásáról szóló határozat 14. Összesen
+1. Hagyatéki ügy
 
-4K03821M_2
+2. Értékpapír- és okirat semmissé nyilvánítási ügy
 
-| Az ügyek száma, megoszlása az eljárás időtartama szerint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+3. Zálogjogi nyilvántartással összefüggő ügy
 
-| a | b |
+4. Szakértői kirendelés
 
-| Előző hónapról folyamatban maradt |  |  |  |  |  |  |  |  |  |  |  |  |
+5. Előzetes bizonyítás
 
-| Érkezett |  |  |  |  |  |  |  |  |  |  |  |  |
+6. Bejegyzett élettársi kapcsolat megszüntetése
 
-| Befejezett |  |  |  |  |  |  |  |  |  |  |  |  |
+7. Záradéki tanúsítványok készítése során közreműködés megtagadása
 
-| Folyamatban maradt | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |
+8. Gépjármű zálognyilvántartás
 
-| 1 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |
+9/a. Élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzése
 
-| 2 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |
+9/b. Élettársi kapcsolat fenn nem állásáról szóló nyilatkozat bejegyzése
 
-| 5 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |
+10. Európai fizetési meghagyásos ügy
 
-| Jogerőre emelkedett nemperes ügyek/végrehajthatóvá nyilvánított európai fizetési meghagyásos ügyek száma |  |  |  |  |  |  |  |  |  |  |  |  |
+11. Hitelbiztosítéki nyilvántartásba bejegyzett jogosult vagy kötelezett jogutódjának megállapítására irányuló nemperes eljárás
 
-| Az adott hónapban érkezett fellebbezések száma |  |  |  |  |  |  |  |  |  |  |  |  |
+12. A házassági és az élettársi vagyonjogi szerződések elektronikus nyilvántartásába történő bejegyzésére és a bejegyzett vagyonjogi szerződés módosítása, törlése, megszüntetése vagy megszűnése tényének bejegyzésére irányuló nemperes eljárás
 
-| Felterjesztett |  |  |  |  |  |  |  |  |  |  |  |  |
+13/a. közjegyzői letétbevételi kérelem záradékolása
 
-| Fel nem terjesztett fellebbezések | Intézkedést igénylő |  |  |  |  |  |  |  |  |  |  |  |  |
+13/b. közjegyzői letét kiutalásáról szóló határozat
 
-| Visszavonás |  |  |  |  |  |  |  |  |  |  |  |  |
+14. Összesen
 
-| Elutasítás |  |  |  |  |  |  |  |  |  |  |  |  |
+4K09115M_2
 
-| A másodfokú bíróságról visszaérkezett ügyekben hozott határozatok: | Helybenhagyás |  |  |  |  |  |  |  |  |  |  |  |  |
+| Az ügyek száma, megoszlása | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 
-| Hat. kívül helyezés, új eljárás |  |  |  |  |  |  |  |  |  |  |  |  |
+| az eljárás időtartama szerint |  |  |  |  |  |  |  |  | a | b |  |  |  | a | b |  |
 
-| Megváltoztatás |  |  |  |  |  |  |  |  |  |  |  |  |
+| Előző hónapról folyamatban maradt |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Meghiúsult ügyek száma |  |  |  |  |  |  |  |  |  |  |  |  |
+| Érkezett |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Az európai fizetési meghagyásos ügyekben érkezett ellentmondások száma |  |  |  |  |  |  |  |  |  |  |  |  |
+| Befejezett |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A befejezett ügyekben az eljárás időtartama: | 0–3 hónap |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3–6 hónap |  |  |  |  |  |  |  |  |  |  |  |  |
+| Folyamatban maradt | 1 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 6–12 hónap |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 2 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 év felett |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 5 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2 év felett |  |  |  |  |  |  |  |  |  |  |  |  |
+| Jogerőre emelkedett nemperes ügyek/végrehajthatóvá nyilvánított európai fizetési meghagyásos ügyek száma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-* A kezdőirat érkezésétől a befejezésig eltelt idő. A határértékek az alacsonyabb kategóriában vannak feltüntetve.
+| Az adott hónapban érkezett fellebbezések száma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Felterjesztett |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Fel nem terjesztett | Intézkedést igénylő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| fellebbezések | Visszavonás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Elutasítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| A másodfokú | Helybenhagyás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| bíróságról visszaérkezett | Hat. kívül helyezés, új eljárás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| ügyekben hozott határozatok: | Megváltoztatás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Meghiúsult ügyek száma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az európai fizetési meghagyásos ügyekben érkezett ellentmondások száma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| A befejezett | 0-3 hónap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| ügyekben | 3-6 hónap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| az eljárás | 6-12 hónap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | 1 év felett |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | 2 év felett |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | * A kezdőirat érkezésétől a befejezésig eltelt idő. A határértékek az alacsonyabb kategóriában vannak feltüntetve. |
 
 4. Végrehajtás elrendelése iránti ügyek – kivéve fizetési meghagyásos ügyek és fizetési meghagyás alapján végrehajtás elrendelése és biztosítási intézkedés elrendelése iránti ügyek
 
@@ -138,4 +168,4 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 * Azokban az esetekben, amelyeknél egyidejűleg vannak folyamatban az egyetemleges felelős adóstársak elleni végrehajtások, a pénzkövetelést csak egy alkalommal kell feltüntetni.
 
-[^106]: Az 5. számú melléklet a 28/2010. KIM rendelet 1. §-ával megállapított, a 40/2011. (XII. 30.) KIM rendelet 7. § e) pontja, a 17/2014. (III. 13.) KIM rendelet 19. §-a, a 18/2014. (III. 13.) KIM rendelet 54. §-a, 21/2014. (III. 13.) KIM rendelet 7. § (2)–(3) bekezdése szerint módosított szöveg.
+[^110]: Az 5. számú melléklet a 28/2010. KIM rendelet 1. §-ával megállapított, a 40/2011. (XII. 30.) KIM rendelet 7. § e) pontja, a 17/2014. (III. 13.) KIM rendelet 19. §-a, a 18/2014. (III. 13.) KIM rendelet 54. §-a, 21/2014. (III. 13.) KIM rendelet 7. § (2)–(3) bekezdése, a 29/2014. (IV. 30.) KIM rendelet 1. § (8) bekezdése szerint módosított szöveg.

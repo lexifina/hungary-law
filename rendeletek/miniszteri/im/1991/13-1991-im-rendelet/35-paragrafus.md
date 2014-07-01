@@ -1,9 +1,7 @@
 ## Névmutató
 
-35. § (1)[^92] A közjegyző a nyilvántartásba, valamint a pénztárkönyvbe bevezetett ügyekről külön-külön betűrendes névmutatót vezet. A névmutató a fél (felek) nevét és az ügy számát tartalmazza.
+35. §[^96] (1) A közjegyző a nyilvántartásba, valamint a pénztárkönyvbe bevezetett ügyekről elektronikus úton külön-külön betűrendes névmutatót vezet. A névmutató a fél (felek) nevét és az ügy számát tartalmazza.
 
-(2) A bizalmi őrzési ügyekről vezetett névmutatóban a pénztárkönyv oldalszámát is fel kell tüntetni.
+(2) A közjegyző köteles az elintézetlen bizalmi őrzési ügyeket minden hónap utolsó napjával ellenőrizni és rögzíteni, hogy a pénztárkönyv és a pénztárnapló havi egyenlegének összege megegyezik-e. Az ellenőrzés során készült számítást meg kell őrizni.
 
-(3) A közjegyző köteles az elintézetlen bizalmi őrzési ügyeket minden hónap utolsó napjával ellenőrizni és írásban rögzíteni, hogy a pénztárkönyv és a pénztárnapló havi egyenlegének összege megegyezik-e. Az ellenőrzés során készült számítást meg kell őrizni.
-
-[^92]: A Vhr. 35. § (1) bekezdése a 33/2008. (XII. 31.) IRM rendelet 7. §-ával megállapított szöveg.
+[^96]: A Vhr. 35. §-a a 29/2014. (IV. 30.) KIM rendelet 1. § (7) bekezdésével megállapított szöveg.
