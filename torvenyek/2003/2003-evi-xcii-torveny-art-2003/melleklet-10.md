@@ -25,7 +25,3 @@ g) az elektronikus úton nyújtott szolgáltatásának megnevezését.
 4. Az adózó köteles a bejelentett adatokban bekövetkező változást – annak bekövetkeztétől számított 15 napon belül – az állami adóhatósághoz elektronikus úton bejelenteni.
 
 5. Az adóhatóság a bejelentés alapján az adózót nyilvántartásba veszi, és azonosító számmal látja el, amelyről elektronikus úton értesíti.
-
-6. Az állami adóhatóság törli a bejelentkezett és azonosító szám alapján nyilvántartásba vett, az Európai Közösség tagállamában illetőséggel nem bíró adózók közül:
-
-a) a bejelentés napjával azt, aki (amely) bejelentést tesz arról, hogy a továbbiakban már nem nyújt elektronikus szolgáltatást,
