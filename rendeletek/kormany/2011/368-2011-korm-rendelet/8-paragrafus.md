@@ -1,4 +1,4 @@
-8. §[^14] (1) A 7. § (1) bekezdés b) pontja szerinti előirányzatokkal rendelkező, és gazdálkodási tevékenységei ellátását – a 9. §-ban meghatározottak szerint – saját gazdasági szervezettel biztosító költségvetési szerv
+8. §[^15] (1) A 7. § (1) bekezdés b) pontja szerinti előirányzatokkal rendelkező, és gazdálkodási tevékenységei ellátását – a 9. §-ban meghatározottak szerint – saját gazdasági szervezettel biztosító költségvetési szerv
 
 a) a fejezetet irányító szerv, a fejezetet irányító szervi jogállással bíró költségvetési szerv és a középirányító szerv,
 
@@ -16,4 +16,4 @@ e) az a költségvetési szerv, amely éves kiadási főösszege a kétmilliárd
 
 (4) Az (1) bekezdésben foglaltak alkalmazandók azon költségvetési szervre is, amelynél jogszabály vagy az irányító szerv döntése alapján a közfeladat terjedelme, országos, megyei vagy egyéb, a településinél nagyobb területi jellegű illetékessége, az ellátottak száma, az ügyfélforgalom volumene, az alaptevékenység ellátását támogató szellemi és fizikai tevékenységet végző szervezeti egységek működtetése a gazdasági szervezet meglétét szükségessé teszi.
 
-[^14]: Az Ávr. 8. §-a a 497/2013. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^15]: Az Ávr. 8. §-a a 497/2013. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

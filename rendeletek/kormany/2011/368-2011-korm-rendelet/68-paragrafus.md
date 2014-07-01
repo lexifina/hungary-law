@@ -8,6 +8,6 @@
 
 (4) A pályázat nyerteseiről a támogató által aláírt döntési listát kell készíteni. Támogató által aláírtnak minősül az elektronikus aláírással ellátott döntési lista is. A döntési lista tartalmazza a nyertes pályázók adatait, az elnyert költségvetési támogatás összegét és az ebből a költségvetési évben kifizetni tervezett összeget.
 
-(5)[^145] A döntési lista e rendelet alkalmazásában kötelezettségvállalásnak minősül. A döntési lista alapján kiadott támogatói okiratok vagy megkötött támogatási szerződések a támogatási döntés végrehajtásának tekintendők, önmagukban nem jelentenek új kötelezettségvállalást.
+(5)[^149] A döntési lista e rendelet alkalmazásában kötelezettségvállalásnak minősül. A döntési lista alapján kiadott támogatói okiratok vagy megkötött támogatási szerződések a támogatási döntés végrehajtásának tekintendők, önmagukban nem jelentenek új kötelezettségvállalást.
 
-[^145]: Az Ávr. 68. § (5) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^149]: Az Ávr. 68. § (5) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 13. §-a iktatta be.

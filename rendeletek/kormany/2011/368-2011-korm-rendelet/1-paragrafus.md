@@ -8,7 +8,7 @@ a) fejezetet irányító szerv és annak vezetője: az 1. mellékletben megjelö
 
 b) fejlesztés: olyan – alapvetően felhalmozási kiadásokban megtestesülő – tevékenység, amely új, vagy a korábbinál műszaki, technikai szempontból korszerűbb tárgyi eszköz létrehozására irányul, illetve meglevő tárgyi eszköz műszaki, technikai paramétereinek korszerűsítését valósítja meg,
 
-c) felsőoktatásban szerzett pénzügyi-számviteli végzettség: a felsőoktatásban gazdaságtudományok képzési területen vagy a többciklusú képzés bevezetése előtt annak megfelelő egyetemi, főiskolai szakon szerzett végzettség, szakképzettség,
+c)[^1] felsőoktatásban szerzett gazdasági szakképzettség: a felsőoktatásban gazdaságtudományok képzési területen vagy a többciklusú képzés bevezetése előtt annak megfelelő egyetemi, főiskolai szakon szerzett szakképzettség,
 
 d) forgótőke: a központosított illetményszámfejtés esetén a megbízó és a Magyar Államkincstár (a továbbiakban: Kincstár) között létrejött megállapodás alapján olyan engedményezés, amely jogszabályon és a munkavállaló egyéni megbízásán alapuló munkáltatói fizetési kötelezettség – ideértve a társadalombiztosítási szolgáltatások kifizetőhelyi kötelezettségét is – teljesítésének fedezetét képezi,
 
@@ -22,13 +22,13 @@ h) projekt: tartalmilag és formailag részletesen kidolgozott, megfelelő pénz
 
 i) támogatási intenzitás: a támogatástartalom és az elszámolható költségek jelenértékének hányadosa, százalékos formában kifejezve,
 
-j)[^1]
+j)[^2]
 
 k) támogatott tevékenység: az európai uniós forrásból finanszírozott költségvetési támogatás esetén a projekt, egyéb költségvetési támogatás esetén az a jogszabályban, támogatói okiratban, támogatási szerződésben megjelölt tevékenység – ideértve a kedvezményezett működését is –, feladat, amely során felmerült költségek megtérítését a költségvetési támogatás részben vagy egészében biztosítja.
 
-l)[^2] törzskönyvi okirat: a törzskönyvi jogi személy törzskönyvi nyilvántartásba vétele, törzskönyvi nyilvántartásba vett adatai változásának bejelentése és a törzskönyvi jogi személy törzskönyvi nyilvántartásból való törlése során a kérelemhez csatolandó valamennyi okirat – a vezetői kinevezésről, megbízásról szóló okirat kivételével –, valamint a Kincstárnak a törzskönyvi nyilvántartás vezetése során keletkezett döntése és más okirata,
+l)[^3] törzskönyvi okirat: a törzskönyvi jogi személy törzskönyvi nyilvántartásba vétele, törzskönyvi nyilvántartásba vett adatai változásának bejelentése és a törzskönyvi jogi személy törzskönyvi nyilvántartásból való törlése során a kérelemhez csatolandó valamennyi okirat – a vezetői kinevezésről, megbízásról szóló okirat kivételével –, valamint a Kincstárnak a törzskönyvi nyilvántartás vezetése során keletkezett döntése és más okirata,
 
-m)[^3] támogatott tevékenység időtartama: jogszabályban, támogatói okiratban, támogatási szerződésben meghatározott időtartam, amely során felmerülő, a támogatott tevékenység megvalósításához kapcsolódó költségek elszámolhatóak.
+m)[^4] támogatott tevékenység időtartama: jogszabályban, támogatói okiratban, támogatási szerződésben meghatározott időtartam, amely során felmerülő, a támogatott tevékenység megvalósításához kapcsolódó költségek elszámolhatóak.
 
 (2) Az (1) bekezdésben nem szereplő fogalmakat az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerint kell értelmezni.
 
@@ -36,11 +36,12 @@ m)[^3] támogatott tevékenység időtartama: jogszabályban, támogatói okirat
 
 a) alapító, irányító szervről rendelkezik, azon az Áht. 9. § (7) bekezdése szerint a költségvetési szerv felett felügyeleti hatáskörrel rendelkező szervet,
 
-b)[^4] jegyzőről rendelkezik, azon a főjegyzőt
+b)[^5] jegyzőről rendelkezik, azon a főjegyzőt
 
 is érteni kell, ha törvény, vagy e rendelet egyéb rendelkezéséből kifejezetten más nem következik.
 
-[^1]: Az Ávr. 1. § (1) bekezdés j) pontját a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 1. pontja hatályon kívül helyezte.
-[^2]: Az Ávr. 1. § (1) bekezdés l) pontját újonnan a 307/2013. (VIII. 14.) Korm. rendelet 7. §-a iktatta be.
-[^3]: Az Ávr. 1. § (1) bekezdés m) pontját a 497/2013. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
-[^4]: Az Ávr. 1. § (3) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 1. pontja szerint módosított szöveg.
+[^1]: Az Ávr. 1. § (1) bekezdés c) pontja a 159/2014. (VI. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az Ávr. 1. § (1) bekezdés j) pontját a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^3]: Az Ávr. 1. § (1) bekezdés l) pontját újonnan a 307/2013. (VIII. 14.) Korm. rendelet 7. §-a iktatta be.
+[^4]: Az Ávr. 1. § (1) bekezdés m) pontját a 497/2013. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
+[^5]: Az Ávr. 1. § (3) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 1. pontja szerint módosított szöveg.

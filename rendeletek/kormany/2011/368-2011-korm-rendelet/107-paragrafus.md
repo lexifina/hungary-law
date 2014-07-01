@@ -1,4 +1,4 @@
-107. § (1)[^258] A 105. és 106. § alkalmazásában jegybanki alapkamaton, ha a helyi önkormányzat visszafizetési kötelezettségének
+107. § (1)[^262] A 105. és 106. § alkalmazásában jegybanki alapkamaton, ha a helyi önkormányzat visszafizetési kötelezettségének
 
 a) az igénybevétel évében tesz eleget, a megelőző év átlagos jegybanki alapkamatát,
 
@@ -6,9 +6,9 @@ b) az igénybevétel évét követően tesz eleget, az igénybevétel éve átla
 
 kell érteni.
 
-(2)[^259] A 105. § (1) bekezdése szerinti igénybevételi kamat összegét a Kincstár állapítja meg. Az igénybevételi kamat összegéről és annak kiszámítása módjáról, ha az igénybevételi kamat
+(2)[^263] A 105. § (1) bekezdése szerinti igénybevételi kamat összegét a Kincstár állapítja meg. Az igénybevételi kamat összegéről és annak kiszámítása módjáról, ha az igénybevételi kamat
 
-a)[^260] a helyi önkormányzat éves költségvetési beszámolójában szereplő adatok alapján keletkezik, az éves költségvetési beszámoló elkészítését követő tizenöt napon belül,
+a)[^264] a helyi önkormányzat éves költségvetési beszámolójában szereplő adatok alapján keletkezik, az éves költségvetési beszámoló elkészítését követő tizenöt napon belül,
 
 b) az Áht. 60. §-a alapján folytatott felülvizsgálat során keletkezik vagy a felülvizsgálat következtében módosul az a) pont szerint keletkezett kamatösszeg, az Áht. 60. § (10) bekezdésében meghatározott határozatban vagy az Áht. 60. § (6) bekezdésében meghatározott felhívás elfogadását követő tizenöt napon belül
 
@@ -16,6 +16,6 @@ b) az Áht. 60. §-a alapján folytatott felülvizsgálat során keletkezik vagy
 
 (3) A kamatfizetésre kötelezett állapítja meg a 105. § (4) bekezdése és a 106. § (1) bekezdése szerinti kamat összegét, amelyet a Kincstár felülvizsgál. Ha a Kincstár a megállapított összeget vitatja, a kamatfizetésre kötelezettet felhívja a megállapított kamat módosítására.
 
-[^258]: Az Ávr. 107. § (1) bekezdés nyitó szövegrésze a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 12. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
-[^259]: Az Ávr. 107. § (2) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^260]: Az Ávr. 107. § (2) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
+[^262]: Az Ávr. 107. § (1) bekezdés nyitó szövegrésze a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 12. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
+[^263]: Az Ávr. 107. § (2) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^264]: Az Ávr. 107. § (2) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.

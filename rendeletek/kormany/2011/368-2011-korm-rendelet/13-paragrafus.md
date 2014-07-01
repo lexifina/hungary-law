@@ -6,7 +6,7 @@ a) a költségvetési szerv alapításáról szóló jogszabály teljes megjelö
 
 b) a költségvetési szerv alapító okiratának – ha azt az alapítás óta módosították, a hatályos, egységes szerkezetbe foglalt alapító okiratának – keltét, számát, az alapítás időpontját,
 
-c)[^41] az ellátandó, és a kormányzati funkció szerint besorolt alaptevékenységek, rendszeresen ellátott vállalkozási tevékenységek, valamint az alaptevékenységet szabályozó jogszabályok megjelölését,
+c)[^43] az ellátandó, és a kormányzati funkció szerint besorolt alaptevékenységek, rendszeresen ellátott vállalkozási tevékenységek, valamint az alaptevékenységet szabályozó jogszabályok megjelölését,
 
 d) azon gazdálkodó szervezetek részletes felsorolását, amelyek tekintetében a költségvetési szerv alapítói, tulajdonosi (tagsági, részvényesi) jogokat gyakorol,
 
@@ -40,7 +40,7 @@ h) a közérdekű adatok megismerésére irányuló kérelmek intézésének, to
 
 (3) A központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szerve a kezelt központi kezelésű előirányzatokkal, fejezeti kezelésű előirányzatokkal, elkülönített állami pénzalapokkal, társadalombiztosítás pénzügyi alapjaival kapcsolatos tervezési, gazdálkodási, finanszírozási, adatszolgáltatási és beszámolási feladataira nézve külön szabályzatot készít a (2) bekezdés a) pontjában foglalt szempontok figyelembevételével.
 
-(3a)[^42] A (2) bekezdésben meghatározott szempontok figyelembevételével belső szabályzataiban rendelkezik
+(3a)[^44] A (2) bekezdésben meghatározott szempontok figyelembevételével belső szabályzataiban rendelkezik
 
 a) az önkormányzati hivatal a helyi önkormányzat és a helyi nemzetiségi önkormányzat,
 
@@ -54,5 +54,5 @@ sajátos tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolg�
 
 (5) A költségvetési szerv szervezeti egységei által ellátott feladatok munkafolyamatainak leírását, a szervezeti egység vezetőinek és alkalmazottainak feladat- és hatáskörét, a helyettesítés rendjét, továbbá a szervezeti egység költségvetési szerven belüli belső és azon kívüli külső kapcsolattartásának módját, szabályait – ha azokról a szervezeti és működési szabályzat vagy a költségvetési szerv más szabályzata nem rendelkezik – a szervezeti egységek ügyrendje tartalmazza.
 
-[^41]: Az Ávr. 13. § (1) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^42]: Az Ávr. 13. § (3a) bekezdését az 56/2012. (III. 30.) Korm. rendelet 6. §-a iktatta be, szövege a 413/2012. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^43]: Az Ávr. 13. § (1) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^44]: Az Ávr. 13. § (3a) bekezdését az 56/2012. (III. 30.) Korm. rendelet 6. §-a iktatta be, szövege a 413/2012. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-66. § (1)[^137] A pályázati kiírást a támogató internetes honlapján, a jogszabály által előírt, továbbá a szükségesnek tartott egyéb helyen – jogszabály eltérő rendelkezése hiányában – január 31-éig, illetve – a forrás év közben történő biztosítása esetén – a forrás biztosításától számított harminc napon belül közzéteszi.
+66. § (1)[^141] A pályázati kiírást a támogató internetes honlapján, a jogszabály által előírt, továbbá a szükségesnek tartott egyéb helyen – jogszabály eltérő rendelkezése hiányában – január 31-éig, illetve – a forrás év közben történő biztosítása esetén – a forrás biztosításától számított harminc napon belül közzéteszi.
 
-(2)[^138] A pályázati kiírás tartalmazza
+(2)[^142] A pályázati kiírás tartalmazza
 
 a) a pályázat címét és célját,
 
@@ -40,14 +40,14 @@ r) arra történő utalást, hogy a költségvetési támogatás visszatéríten
 
 s) a jogszabály vagy támogató által a pályázat részeként előírt egyéb információkat.
 
-(3)[^139] A pályázati kiírásban a pályázat benyújtásának határidejét úgy kell meghatározni, hogy arra a pályázati kiírás közzétételétől számítva legalább harminc nap álljon rendelkezésre.
+(3)[^143] A pályázati kiírásban a pályázat benyújtásának határidejét úgy kell meghatározni, hogy arra a pályázati kiírás közzétételétől számítva legalább harminc nap álljon rendelkezésre.
 
-(4)[^140] A pályázati kiírásban jogszabály által nem rendezett kérdésekről is lehet rendelkezni. A pályázati kiírás és a megkötött támogatási szerződés ellentmondása esetén a támogatási szerződés rendelkezései irányadóak.
+(4)[^144] A pályázati kiírásban jogszabály által nem rendezett kérdésekről is lehet rendelkezni. A pályázati kiírás és a megkötött támogatási szerződés ellentmondása esetén a támogatási szerződés rendelkezései irányadóak.
 
-(5)[^141] Jogszabály eltérő rendelkezése hiányában a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetének előirányzatai terhére biztosított költségvetési támogatás az Áht. 48. § (1) bekezdése szerinti egyedi elbírálás útján nyújtott költségvetési támogatásnak minősül, amelyek esetén támogató a költségvetési támogatás felhasználására vonatkozó részletszabályok megalkotásáért felelős miniszter.
+(5)[^145] Jogszabály eltérő rendelkezése hiányában a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetének előirányzatai terhére biztosított költségvetési támogatás az Áht. 48. § (1) bekezdése szerinti egyedi elbírálás útján nyújtott költségvetési támogatásnak minősül, amelyek esetén támogató a költségvetési támogatás felhasználására vonatkozó részletszabályok megalkotásáért felelős miniszter.
 
-[^137]: Az Ávr. 66. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^138]: Az Ávr. 66. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^139]: Az Ávr. 66. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^140]: Az Ávr. 66. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^141]: Az Ávr. 66. § (5) bekezdése a 153/2014. (VI. 18.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^141]: Az Ávr. 66. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^142]: Az Ávr. 66. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^143]: Az Ávr. 66. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^144]: Az Ávr. 66. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^145]: Az Ávr. 66. § (5) bekezdése a 153/2014. (VI. 18.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

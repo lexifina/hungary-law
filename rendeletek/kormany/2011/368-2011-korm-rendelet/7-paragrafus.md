@@ -1,6 +1,6 @@
-## [Az Áht. 10. § (1)–(4) bekezdéséhez][^12]
+## [Az Áht. 10. § (1)–(4) bekezdéséhez][^13]
 
-7. §[^13] (1) A költségvetési szerv
+7. §[^14] (1) A költségvetési szerv
 
 a) a személyi juttatásokkal és az azokhoz kapcsolódó járulékok és egyéb közterhek előirányzataival minden esetben,
 
@@ -14,5 +14,5 @@ a) a költségvetési tervezés, az előirányzatok módosításának, átcsopor
 
 b) a költségvetési szerv működtetése, a használatában lévő vagyon használata, védelme.
 
-[^12]: Az Ávr. 7. §-át megelőző alcím címe a 307/2013. (VIII. 14.) Korm. rendelet 30. § (2) bekezdés 2. pontja, a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^13]: Az Ávr. 7. §-a a 497/2013. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^13]: Az Ávr. 7. §-át megelőző alcím címe a 307/2013. (VIII. 14.) Korm. rendelet 30. § (2) bekezdés 2. pontja, a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^14]: Az Ávr. 7. §-a a 497/2013. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

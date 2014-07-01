@@ -1,3 +1,3 @@
-91–100. §[^217]
+91–100. §[^221]
 
-[^217]: Az Ávr. 91–100. §-át a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 17. pontja hatályon kívül helyezte.
+[^221]: Az Ávr. 91–100. §-át a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 17. pontja hatályon kívül helyezte.

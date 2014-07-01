@@ -10,7 +10,7 @@ b) az időarányos finanszírozás alá tartozó előirányzatok esetén az adot
 
 összeget veszi alapul, amelyet a (3)–(6) bekezdés rendelkezései szerint korrigál.
 
-(3)[^316] A Kincstár a január havi keret megállapításakor a (2) bekezdés b) pontja szerinti összeget az előzetes kincstári költségvetés alapján állapítja meg, amelyet – a honvédelemért felelős miniszter által vezetett minisztérium és az általa irányított költségvetési szervek, valamint a polgári nemzetbiztonsági szolgálatok kivételével – a személyi juttatások 1/12-ének 40%-ával és a munkaadókat terhelő járulékok és szociális hozzájárulási adó 1/12-ével csökkent. A Kincstár ettől a fejezetet irányító szerv kérelmére eltérést engedélyezhet.
+(3)[^321] A Kincstár a január havi keret megállapításakor a (2) bekezdés b) pontja szerinti összeget az előzetes kincstári költségvetés alapján állapítja meg, amelyet – a honvédelemért felelős miniszter által vezetett minisztérium és az általa irányított költségvetési szervek, valamint a polgári nemzetbiztonsági szolgálatok kivételével – a személyi juttatások 1/12-ének 40%-ával és a munkaadókat terhelő járulékok és szociális hozzájárulási adó 1/12-ével csökkent. A Kincstár ettől a fejezetet irányító szerv kérelmére eltérést engedélyezhet.
 
 (4) Az előzetes és a végleges kincstári költségvetés alapján megállapított január havi keret összegének eltérése esetén a szükséges korrekciót a Kincstár a március havi keret megállapításakor végzi el.
 
@@ -22,11 +22,11 @@ b) az időarányos finanszírozás alá tartozó előirányzatok esetén az adot
 
 a) a költségvetési szerv a tartozásállományt csökkentő átutalási megbízást nyújt be a Kincstárhoz,
 
-b)[^317] a költségvetési szerv a Kincstár részére igazolja, hogy a tartozás már nem áll fenn, vagy annak átütemezésére a bevétel beszedésére jogosult szervezettel megállapodást kötött,
+b)[^322] a költségvetési szerv a Kincstár részére igazolja, hogy a tartozás már nem áll fenn, vagy annak átütemezésére a bevétel beszedésére jogosult szervezettel megállapodást kötött,
 
-c)[^318] az állami adóhatóság átutalási megbízást nyújt be a költségvetési szervvel szemben, vagy
+c)[^323] az állami adóhatóság átutalási megbízást nyújt be a költségvetési szervvel szemben, vagy
 
-d)[^319] az államháztartásért felelős miniszter döntése a közfeladat-ellátás zavartalanságának biztosítása érdekében azt lehetővé teszi.
+d)[^324] az államháztartásért felelős miniszter döntése a közfeladat-ellátás zavartalanságának biztosítása érdekében azt lehetővé teszi.
 
 (8) A (7) bekezdés c) pontja szerinti esetben is a költségvetési szervnek kell kezdeményeznie a keret megnyitását.
 
@@ -34,7 +34,7 @@ d)[^319] az államháztartásért felelős miniszter döntése a közfeladat-ell
 
 (10) Likvid fedezet hiányában a befizetési kötelezettséget a Kincstár mindaddig nem teljesíti, amíg a költségvetési szerv fizetési számlája a befizetési kötelezettség összegével nem terhelhető. A befizetési kötelezettség teljesítéséig a költségvetési szerv fizetési számlája terhére benyújtott egyéb fizetési megbízásokat a Kincstár nem teljesíti.
 
-[^316]: Az Ávr. 128. § (3) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 17. pontja, a 307/2013. (VIII. 14.) Korm. rendelet 29. § 18. pontja szerint módosított szöveg.
-[^317]: Az Ávr. 128. § (7) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 38. pontja szerint módosított szöveg.
-[^318]: Az Ávr. 128. § (7) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 39. pontja szerint módosított szöveg.
-[^319]: Az Ávr. 128. § (7) bekezdés d) pontját a 497/2013. (XII. 29.) Korm. rendelet 46. § (2) bekezdése iktatta be.
+[^321]: Az Ávr. 128. § (3) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 17. pontja, a 307/2013. (VIII. 14.) Korm. rendelet 29. § 18. pontja szerint módosított szöveg.
+[^322]: Az Ávr. 128. § (7) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 38. pontja szerint módosított szöveg.
+[^323]: Az Ávr. 128. § (7) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 39. pontja szerint módosított szöveg.
+[^324]: Az Ávr. 128. § (7) bekezdés d) pontját a 497/2013. (XII. 29.) Korm. rendelet 46. § (2) bekezdése iktatta be.

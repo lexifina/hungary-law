@@ -1,4 +1,4 @@
-150. §[^368] (1) Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással terhelt költségvetési maradványának kell tekinteni
+150. §[^374] (1) Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással terhelt költségvetési maradványának kell tekinteni
 
 a) a költségvetési évben befolyt, az egységes rovatrend B3. Közhatalmi bevételek, B4. Működési bevételek és B5. Felhalmozási bevételek rovatain elszámolt olyan bevételt, amely bizonyítottan a bevétel ellenszolgáltatásaként teljesítendő kiadásokra a következő évben kerül felhasználásra, vagy a bevétel kizárólagos felhasználási célját jogszabály meghatározza,
 
@@ -26,4 +26,4 @@ l) a Kormány egyedi határozata szerinti, a mikro-, kis- vagy középvállalkoz
 
 (2) Nem tekintendő kötelezettségvállalással terhelt költségvetési maradványnak az (1) bekezdés c), h), i), j) pontjában szereplő költségvetési maradványok azon része, amelyet a fejezetet irányító szerv elvonásra felajánlott, vagy amely eltérő célú felhasználásának engedélyezését kérte.
 
-[^368]: Az Ávr. 150. §-a a 497/2013. (XII. 29.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^374]: Az Ávr. 150. §-a a 497/2013. (XII. 29.) Korm. rendelet 50. §-ával megállapított szöveg.

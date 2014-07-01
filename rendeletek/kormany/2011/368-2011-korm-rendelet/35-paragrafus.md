@@ -1,4 +1,4 @@
-35. § (1)[^81] A (2) bekezdésben foglaltak kivételével a költségvetési szerv és a fejezeti kezelésű előirányzat egységes rovatrend B3. Közhatalmi bevételek, B4. Működési bevételek és B5. Felhalmozási bevételek rovatain megtervezett eredeti vagy – ha a bevételek tervezettől történő elmaradása miatt csökkentették – módosított bevételi előirányzatán felüli többletbevétel az irányító szerv előzetes engedélyével, a felhasználásra engedélyezett többletnek megfelelő összegű, az irányító szerv hatáskörében végrehajtott előirányzat-módosítás után használható fel.
+35. § (1)[^83] A (2) bekezdésben foglaltak kivételével a költségvetési szerv és a fejezeti kezelésű előirányzat egységes rovatrend B3. Közhatalmi bevételek, B4. Működési bevételek és B5. Felhalmozási bevételek rovatain megtervezett eredeti vagy – ha a bevételek tervezettől történő elmaradása miatt csökkentették – módosított bevételi előirányzatán felüli többletbevétel az irányító szerv előzetes engedélyével, a felhasználásra engedélyezett többletnek megfelelő összegű, az irányító szerv hatáskörében végrehajtott előirányzat-módosítás után használható fel.
 
 (2) Ha az (1) bekezdés szerinti többletbevétel a Kormány irányítása alá tartozó fejezetbe sorolt költségvetési szerv, fejezeti kezelésű előirányzat esetén eléri az (1) bekezdés szerinti bevételi előirányzat 30%-át, de legalább az ötven millió forintot, az ezt meghaladó többletbevétel az államháztartásért felelős miniszter előzetes engedélyével, a felhasználásra engedélyezett többletnek megfelelő összegű, a fejezetet irányító szerv hatáskörében végrehajtott előirányzat-módosítás után használható fel.
 
@@ -18,4 +18,4 @@
 
 (10) Az (1), és az (5)–(9) bekezdésben foglaltaktól eltérően a helyi önkormányzati, helyi nemzetiségi önkormányzati és országos nemzetiségi önkormányzati költségvetési szerv esetén az irányító szerv értékhatárhoz kötött előzetes engedélyt adhat a többletbevétel felhasználásához. Ez esetben az irányító szerv hatáskörében az előirányzat módosításra utólag, a költségvetési szerv adatszolgáltatása alapján kerül sor.
 
-[^81]: Az Ávr. 35. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^83]: Az Ávr. 35. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 16. pontja szerint módosított szöveg.
