@@ -808,7 +808,7 @@
 
 ## V/A. számú adatlap
 
-## A gyámhatóság által kirendelt támogatókról és támogatott személyeikről [a támogatott döntéshozatalról szóló 2013. évi CLV. törvény 11. §][^20]
+## A gyámhatóság által kirendelt támogatókról és támogatott személyeikről [a támogatott döntéshozatalról szóló 2013. évi CLV. törvény 11. §][^23]
 
 ## (Gyámhivatal tölti ki)
 
@@ -1870,7 +1870,7 @@
 
 ## A „B” adatlapból mindig újat kell kitölteni, ha újabb nevelési felügyeletet rendeltek el.
 
-2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^21]
+2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^24]
 
 A „Gyermekeink védelmében” elnevezésű adatlaprendszer
 
@@ -1916,7 +1916,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely22 | Változás1: |
+| Bejelentett tartózkodási hely25 | Változás1: |
 
 |  | Változás2: |
 
@@ -1928,7 +1928,7 @@ I. számú adatlap
 
 | Beszélt nyelve: | Van-e szüksége tolmácsra? igen – milyenre: nem |
 
-22 Korábban „ideiglenes”.
+25 Korábban „ideiglenes”.
 
 | A szülők/törvényes képviselő személyi adatai |
 
@@ -1944,7 +1944,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely23: | Változás1: |
+| Bejelentett tartózkodási hely26: | Változás1: |
 
 |  | Változás2: |
 
@@ -1972,7 +1972,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely24: | Változás1: |
+| Bejelentett tartózkodási hely27: | Változás1: |
 
 |  | Változás2: |
 
@@ -1998,7 +1998,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely25: | Változás1: |
+| Bejelentett tartózkodási hely28: | Változás1: |
 
 |  | Változás2: |
 
@@ -2012,11 +2012,11 @@ I. számú adatlap
 
 | Jogcím/rokonsági fok: |
 
-23 Korábban „ideiglenes”.
+26 Korábban „ideiglenes”.
 
-24 Korábban „ideiglenes”.
+27 Korábban „ideiglenes”.
 
-25 Korábban „ideiglenes”.
+28 Korábban „ideiglenes”.
 
 | Nevelésbe vett gyermek esetében |
 
@@ -2894,11 +2894,11 @@ XI. számú adatlap
 
 | Feladatmegosztás a szülők és szakemberek között: |
 
-| f) Etnikai, nyelvi szempontok:26 |
+| f) Etnikai, nyelvi szempontok:29 |
 
 | Amennyiben az etnikai hovatartozásból feladatok adódnak, azok megnevezése: | Igény: |
 
-26A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+29A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | Feladatmegosztás a szülők és szakemberek között: |
 
@@ -2906,7 +2906,7 @@ XI. számú adatlap
 
 |  | szülő, más törvényes képviselő aláírása |
 
-| g) Vallás – pl.: vallási ünnepek, szokások:27 |
+| g) Vallás – pl.: vallási ünnepek, szokások:30 |
 
 | Igény: | Feladatmegosztás a szülők és szakemberek között: |
 
@@ -2928,7 +2928,7 @@ XI. számú adatlap
 
 | Célok, megállapodások: |
 
-27 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+30 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | j) A szülő/törvényes képviselő és a gyermek kapcsolatának jellemzése: |
 
@@ -3058,7 +3058,7 @@ XII. számú adatlap
 
 | Milyen feladatokat ad a gyermek esetleges munkába állásának elősegítése? | Milyen segítséget nyújt az intézmény a szülőnek a feladatok ellátásához? |
 
-| Etnikai, nyelvi, kulturális szempontok28 |
+| Etnikai, nyelvi, kulturális szempontok31 |
 
 | Amennyiben etnikai hovatartozásából a gyermeknek és/vagy szüleinek igényei adódnak, azok megnevezése: | Milyen segítséget nyújt az intézmény a felmerült igények teljesítéséhez? |
 
@@ -3068,9 +3068,9 @@ XII. számú adatlap
 
 |  | szülő, más törvényes képviselő aláírása |
 
-28 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+31 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
-| Vallás – pl.: rendszeres vallásgyakorlás, ünnepek, szokások29 |
+| Vallás – pl.: rendszeres vallásgyakorlás, ünnepek, szokások32 |
 
 | Amennyiben vallási hovatartozásából a gyermeknek és/vagy szüleinek igényei adódnak, azok részletezése: | Milyen segítséget nyújt az intézmény a felmerült igények teljesítéséhez? |
 
@@ -3096,7 +3096,7 @@ XII. számú adatlap
 
 | Igényel-e az intézménytől segítséget a kapcsolattartás biztosítása? |
 
-29 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+32 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | 3. Van-e hatályban a gyermekre vonatkozó/gyermekkel kapcsolatos gyermekvédelmi hatósági intézkedés, illetve büntetőeljárás? Ha igen, ismertesse! |
 
@@ -3272,39 +3272,39 @@ XV. számú adatlap
 
 | a) Egészségi állapot |
 
-| Szakértői vélemények alapján: | Szülő(k) véleménye: | Gyermek igénye: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| Szakmai vélemények, szakértői vélemények alapján: | Szülő(k) véleménye: | Gyermek igénye: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
 | b) Mentális, pszichés állapot |
 
-| Szakértői vélemények alapján: | Szülő(k) véleménye: | Gyermek igénye, véleménye: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| Szakmai vélemények, szakértői vélemények alapján: | Szülő(k) véleménye: | Gyermek igénye, véleménye: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
 | c) Oktatás/továbbtanulási tervek, lehetőségek |
 
-| Szakértői vélemények alapján: | Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| Szakmai vélemények, szakértői vélemények alapján: | Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
 | d) Családi, rokoni, baráti kapcsolatok ápolása/korlátozása |
 
-| Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye: | Szakmai vélemények, szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
 | e) Nemzetiségi, etnikai hovatartozás, anyanyelv ápolása |
 
-| Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye: | Szakmai vélemények, szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
 | A fenti különleges adat kezeléséhez hozzájárulok: | .............................................................................. szülő, más törvényes képviselő aláírása |
 
 | f) Vallás: a szülő(k) és a gyermek igénylik-e a gyermek vallásos nevelését? |
 
-| Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye (amennyiben rendelkezésre áll): | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye (amennyiben rendelkezésre áll): | Szakmai vélemények, szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
 | A fenti különleges adat kezeléséhez hozzájárulok: | .............................................................................. szülő, más törvényes képviselő aláírása |
 
 | g) Kultúra, sport |
 
-| Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye: | Szakmai vélemények, szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
 | h) Egyéb igény vagy szükséglet |
 
-| Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye: | Szakmai vélemények, szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
 | 12. A területi gyermekvédelmi szakszolgálat javaslata: nevelésbe vétel | gondozás gyermekjóléti alapellátásban egyéb: .............................................................................. |
 
@@ -3393,6 +3393,8 @@ XV. számú adatlap
 | speciális ellátásra való igény |  |  |  |
 
 | különleges ellátásra való igény |  |  |  |
+
+| kettős ellátási szükséglet |  |  |  |
 
 | oktatás |  |  |  |
 
@@ -3948,6 +3950,16 @@ XIX. számú adatlap
 
 | Igényel-e a fenti feladatok ellátása külön anyagi ráfordítást a gondozóhelytől? |
 
+| 3/A. Kettős gondozási szükséglettel kapcsolatos további feladatok: |
+
+| Fennáll-e kettős gondozási szükséglet? |
+
+| Kettős gondozási szükséglet esetén az ebből fakadó további feladatok: |
+
+| Hogyan biztosítható e feladatok ellátása? |
+
+| Feladat: | Határidő: | Felelős: |
+
 | 4. Eddig nem rögzített, előrelátható gyermekvédelmi gyámi feladatok tervezése: |
 
 Alulírottak a terv készítésében részt vettek:
@@ -4156,5 +4168,5 @@ Az adatlap továbbítása: felülvizsgálat esetén a gyámhivatal és a gyermek
 
 XXII. számú adatlap
 
-[^20]: Ha a támogatott személynek több támogatója van, az adatlapot minden támogató tekintetében külön-külön ki kell tölteni.
-[^21]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 14. § f)–k) pontjai, a 93. § (1) bekezdés f) pont fb) és fc) alpontja, a 71/2014. (III. 13.) Korm. rendelet 8. § (2) bekezdése, 10. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^23]: Ha a támogatott személynek több támogatója van, az adatlapot minden támogató tekintetében külön-külön ki kell tölteni.
+[^24]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 14. § f)–k) pontjai, a 93. § (1) bekezdés f) pont fb) és fc) alpontja, a 71/2014. (III. 13.) Korm. rendelet 8. § (2) és (4) bekezdése, a 10. § (1) bekezdés d) pontja szerint módosított szöveg.
