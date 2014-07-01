@@ -348,6 +348,8 @@
 
 | F4AE | Fióktelep – Lejárati összhang elemzés - Egyéb devizák | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
+| FDMM | Fióktelep – Devizafinanszírozás megfelelési mutató | H |  | N |  |  |  |  | H: tágyidőszakot követő hónap 15. munkanapjáig N: ha a tárgyidőszak a tárgynegyedév utolsó hónapja, akkor a tárgyidőszakot követő hónap 20. munkanapjáig |
+
 | F4B | Fióktelep – Tájékoztató adatok a befektetési szolgáltatási tevékenységről és a kiegészítő szolgáltatásról | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
 | F5B | Fióktelep – Bankközi állományok adatai | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
@@ -518,9 +520,9 @@
 
 |  | Konszolidált éves auditált beszámoló – könyvvizsgálói záradék vagy jelentés | konszkonyvzar |
 
-## 20132C20000043_2
+## 20132C20000043_13
 
-3. melléklet a 43/2013. (XII. 29.) MNB rendelethez
+3. melléklet a 43/2013. (XII. 29.) MNB rendelethez[^5]
 
 A hitelintézetek és az ezen típusú fióktelepek felügyeleti jelentéseire vonatkozó részletes kitöltési előírások
 
@@ -2504,24 +2506,7 @@ A k) oszlopban mindig a hó végén fennálló nem névre szóló állományt ke
 
 A nem névre szóló betételhelyezéseket külön megnevezett sorokban, csoportosítva kell feltüntetni.
 
-Az összesen sorok az adott betétfajták teljes állományára vonatkoznak (összeghatár nélkül), amelyből a 2 millió Ft felett az ügyfelenkénti azonosítást külön ki kell emelni.
-
-Egy-egy betételhelyezési módozatot az ügyfelek (személyek) által birtokolt két értékhatárra vonatkozóan, a külön sorokban meghatározott nagyság szerint kell kimutatni
-
-A tábla sorai
-
-Az 4E1 Betétek összesen sorban az összes – könyvesbetétként, illetve betéti okiratként elhelyezett és – nem névre szóló betétek, illetve azok névre szólóvá átalakított állományát kell jelenteni.
-
-A 4E11 Takarékbetétkönyvek összesen sorban minden könyvesbetétként elhelyezett betétet kell szerepeltetni.
-
-A 4E12 Betéti okiratok összesen sorban minden betéti okiratként kimutatott betétet fel kell tüntetni.
-
-A felügyeleti mérlegben a betéti okiratok között szerepeltetett takarékleveleket a táblában külön sorban kell kimutatni.
-
-A 4E2 Saját kibocsátású értékpapírok összesen sorban a hitelintézet által nem névre szólóan kibocsátott értékpapírjainak változását kell összesítve kimutatni. Itt csak a forrás oldalon a 4 eszköz sorban feltüntetett – nem vagyoni részesedést jelentő – értékpapírokat szabad figyelembe venni.
-
-A névre szólóvá átalakított 2 millió forint feletti értékpapír állományokat meg kell bontani a letéti jegyekre, illetve a többi, a hitelintézet által kibocsátott értékpapír (kötvény, jelzáloglevél) állományra.
-
+[^5]: A 3. melléklet a 14/2014. (V. 19.) MNB rendelet 8. §-a, a 24/2014. (VI. 27.) MNB rendelet 7. §-a szerint módosított szöveg.
 [^1).]: Ha a hitelintézet a saját teljesítményű eszközeit aktiválja, az aktivált előállítási költségek (közvetlen önköltség) az eredménykimutatásban, az általános igazgatási költségek között már nem szerepelnek az alábbi könyvelési lépések eredőjeként: 1. Növeli az általános igazgatási költségeket a Saját előállítású eszközök előállítási költségeinek elszámolása a felmerüléskor (Tartozik: 5… számlák, Követel: 4… számlák). 2.A saját előállítású eszközök aktiválásakor csökken az általános igazgatási költségek az elszámolt előállítási költségekkel azonos értékben, mivel a Saját előállítású eszközök állományba vételét (Tartozik: 13… számlák) az 5-ös számlaosztályon belüli Aktivált saját teljesítmények értéke számlával szemben (Követel: 58 … számlák) kell végrehajtani a számviteli szabályoknak megfelelően. kimutatni. A Hitkr. 23. § (2), (4) és (5) bekezdése és 24. § (5) bekezdése alapján a határidős és opciós ügyletekre történő céltartalék képzést, felhasználást és felszabadítást itt kell szerepeltetni.
 [^2.]: A lejárt oszlopban csak a már esedékessé vált, de az esedékesség időpontjáig meg nem fizetett tőke, kamat és egyéb követeléseket kell szerepeltetni. A vonatkozási dátumot követően esedékes követelések pénzáramlásai a Lejárt tételek miatti korrekciók blokkban kerülnek kivezetésre.
 [^3.]: Ezek a tételek gyakorlatilag az úton lévő tételeket tartalmazzák.

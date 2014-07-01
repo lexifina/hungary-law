@@ -94,7 +94,7 @@
 
 ## 1.46. a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló 83/2010. (III. 25.) Korm. rendelet (a továbbiakban: Thmr.);
 
-## 1.47. a hitelintézetek likviditási szintjének meghatározásáról, valamint devizapozícióbeli lejárati összhangjának szabályozásáról szóló 366/2011. (XII. 30.) Korm. rendelet [a továbbiakban: 366/2011. (XII. 30.) Korm. rendelet];
+## 1.47. a hitelintézetek devizapozícióbeli lejárati összhangjának szabályozásáról, valamint a pénz- és hitelpiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 43/2013. (XII. 29.) MNB rendelet módosításáról szóló 14/2014. (V. 19.) MNB rendelet (a továbbiakban: Dmmr.)
 
 ## 1.48. a devizakölcsönök törlesztési árfolyamának rögzítését érintő megtérítésről és a közszférában dolgozók támogatásáról szóló 57/2012. (III. 30.) Korm. rendelet;
 
@@ -724,4 +724,6 @@
 
 ## A forgalmi típusú jelentéseknél az adott tábla kitöltési előírásainak eltérő rendelkezése hiányában a forintra átszámítás az ügylet napján érvényes árfolyammal történik az intézmény számviteli politikájában lefektetetteknek megfelelően.
 
-2. melléklet a 43/2013. (XII. 29.) MNB rendelethez
+2. melléklet a 43/2013. (XII. 29.) MNB rendelethez[^4]
+
+[^4]: A 2. melléklet a 14/2014. (V. 19.) MNB rendelet 7. §-a szerint módosított szöveg.
