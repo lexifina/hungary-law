@@ -24,11 +24,13 @@ kell alkalmazni.
 
 a) az általános építmények körében az Európai Unió támogatásából megvalósuló beruházások esetén 2014. január 1-jét,
 
-b)[^297] a közlekedési, a víziközmű és vízgazdálkodási építmények, valamint a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdésében megjelölt sajátos építményfajták vonatkozásában 2014. július 1-jét,
+b)[^297] a víziközmű és vízgazdálkodási építmények, valamint a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdésében megjelölt sajátos építményfajták vonatkozásában 2014. július 1-jét,
 
 c)[^298] a honvédelmi és katonai, továbbá a nemzetbiztonsági célú, valamint az elektronikus hírközlési építmények tekintetében a 2014. október 1-jét,
 
-d) az atomenergia alkalmazására szolgáló építmények tekintetében a 2016. október 1-jét
+d) az atomenergia alkalmazására szolgáló építmények tekintetében a 2016. október 1-jét,
+
+e)[^299] a közlekedési sajátos építményfajták vonatkozásában 2015. január 1-jét
 
 követően megkezdett kivitelezések esetén kell alkalmazni.
 
@@ -40,5 +42,6 @@ követően megkezdett kivitelezések esetén kell alkalmazni.
 [^294]: A 42. § (5) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 90. §-a iktatta be, szövege a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 18. pontja szerint módosított szöveg.
 [^295]: A 42. § (6) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 15. §-a iktatta be.
 [^296]: A 42. § (7) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 15. §-a iktatta be.
-[^297]: [A 62/2014. (III. 6.) Korm. rendelet 12. § 26. pontjával elrendelt módosítás, amely szerint a „célú építmények” szövegrész helyébe a „célú, valamint az elektronikus hírközlési építmények” szöveg lép, nem vezethető át.]
+[^297]: A 42. § (7) bekezdés b) pontja a 160/2014. (VI. 30.) Korm. rendelet 2. §-a szerint módosított szöveg. [A 42. § (7) bekezdés b) pontjában a 62/2014. (III. 6.) Korm. rendelet 12. § 26. pontjával elrendelt módosítás, amely szerint a „célú építmények” szövegrész helyébe a „célú, valamint az elektronikus hírközlési építmények” szöveg lép, nem vezethető át.]
 [^298]: A 42. § (7) bekezdés c) pontja a 100/2014. (III. 25.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^299]: A 42. § (7) bekezdés e) pontját a 160/2014. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
