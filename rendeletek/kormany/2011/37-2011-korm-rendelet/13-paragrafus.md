@@ -1,7 +1,16 @@
 ## jár el.
 
-13. § (1) A támogatást nyújtó a csoportmentességi rendelet hatálya alá tartozó állami támogatás esetében a támogatási tervezet bejelentésével egyidejűleg kitölti a SANI rendszerben a csoportmentességi rendelethez tartozó formanyomtatványokat.
+13. § (1)[^65] A támogatást nyújtó a csoportmentességi rendeletek hatálya alá tartozó állami támogatás esetében a támogatási tervezet bejelentésével egyidejűleg kitölti a SANI rendszerben a csoportmentességi rendeletekhez tartozó formanyomtatványokat.
 
-(2)[^47] A Kormány európai uniós források felhasználásáért felelős tagja az általános, illetve a halászati csoportmentességi rendelet hatálya alá tartozó állami támogatásról rendelkező támogatási tervezet, különösen jogszabály, illetve támogatási szerződés hatálybalépéséről az általános csoportmentességi rendelet 9. cikk (1) bekezdésének illetve a halászati csoportmentességi rendelet 25. cikk (1) bekezdésének megfelelően a támogatást nyújtó által kitöltött elektronikus, webalapú formanyomtatvány SANI rendszeren keresztül történő továbbításával értesíti az Európai Bizottságot.
+(2)[^66] A miniszter a csoportmentességi rendeletek hatálya alá tartozó állami támogatásról rendelkező támogatási tervezet, különösen jogszabály, illetve támogatási szerződés hatálybalépéséről
 
-[^47]: A 13. § (2) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (8) bekezdésével megállapított szöveg.
+a) a 651/2014/EU bizottsági rendelet 9. cikk (1) bekezdésének,
+
+b) a 800/2008/EK bizottsági rendelet 9. cikk (1) bekezdésének,
+
+c) a 736/2008/EK bizottsági rendelet 25. cikk (1) bekezdésének, illetve
+
+d) az 1857/2006/EK bizottsági rendelet 20. cikk (1) bekezdésének
+
+[^65]: A 13. § (1) bekezdése a 158/2014. (VI. 30.) Korm. rendelet 13. § 11. és 17. pontja szerint módosított szöveg.
+[^66]: A 13. § (2) bekezdése a 158/2014. (VI. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
