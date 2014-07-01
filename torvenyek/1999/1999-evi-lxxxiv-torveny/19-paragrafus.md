@@ -42,7 +42,7 @@ r) az országos közutak kezelői a megengedett legnagyobb össztömeget, tengel
 
 s) a Kkt. 9/D. § (2) bekezdésében meghatározott közfeladat ellátására jogosult, valamint a közfeladat ellátására jogosulttal a Kkt. 9/D. § (4) bekezdése alapján szerződött szervezet feladatai ellátásához a 9. § (1)–(1a) és (3) bekezdésben foglalt adatokat,
 
-t) az anyakönyvvezető az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
+t) az anyakönyvvezető a személyazonosság ellenőrzése és az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
 
 u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a) és b) pontjában, valamint (2) bekezdés a)–c) pontjaiban megjelölt adatokat;
 
