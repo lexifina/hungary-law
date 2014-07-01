@@ -10,10 +10,10 @@
 
 8. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^34]
 
-A GET 141/C. §-a szerinti felajánlás alapján értékesített földgáz árában, az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő és a GET 141/C. § (2) bekezdése szerinti földgázkereskedő között érvényesíthető legmagasabb szállítási és tárolási fajlagos értékek összege 2014. második negyedévben:
+A GET 141/C. § szerinti felajánlás alapján értékesített földgáz árában, az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő és a GET 141/C. § (2) bekezdés szerinti földgázkereskedő között érvényesíthető legmagasabb szállítási és tárolási fajlagos értékek összege 2014. harmadik negyedévben:
 
-|  |  | A | B |
+|  | A | B |
 
-|  | 1. | az árban érvényesíthető legmagasabb szállítási és tárolási fajlagos értékek összege: | 0,288 Ft/MJ |
+| 1. | az árban érvényesíthető legmagasabb szállítási és tárolási fajlagos értékek összege: | 0,307 Ft/MJ |
 
-[^34]: A 8. mellékletet a 14/2014. (III. 31.) NFM rendelet 9. § (6) bekezdése iktatta be.
+[^34]: A 8. mellékletet a 14/2014. (III. 31.) NFM rendelet 9. § (6) bekezdése iktatta be, szövege a 32/2014. (VI. 27.) NFM rendelet 4. § (6) bekezdésével megállapított szöveg.

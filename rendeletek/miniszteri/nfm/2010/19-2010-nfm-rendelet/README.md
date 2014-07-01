@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-19-20-2
 | 2014-01-01 | 2010-19-20-2W.14 | 75/2013. (XII. 16.) NFM rendelet |
 | 2014-02-01 | 2010-19-20-2W.15 | 34/2013. (VI. 27.) NFM rendelet |
 | 2014-04-01 | 2010-19-20-2W.16 | 14/2014. (III. 31.) NFM rendelet |
+| 2014-07-01 | 2010-19-20-2W.17 | 32/2014. (VI. 27.) NFM rendelet |

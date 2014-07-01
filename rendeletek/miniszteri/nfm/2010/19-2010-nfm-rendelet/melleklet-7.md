@@ -1,6 +1,6 @@
 ## A termelő által a 3. és 4. melléklet alapján átadott földgázmennyiség után fizetendő hozzájárulások mértéke
 
-## 2014. második negyedévére
+## 2014. harmadik negyedévére
 
 |  | A | B |
 
