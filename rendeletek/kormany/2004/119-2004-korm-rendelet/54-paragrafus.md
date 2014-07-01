@@ -4,9 +4,9 @@
 
 (2) A belső ellenőrzési tevékenységre a költségvetési szervek belső ellenőrzéséről szóló 193/2003. (XI. 26.) Korm. rendelet az irányadó.
 
-(3)[^56] A Kincstár, az MVH, valamint a végrehajtó szervezetek belső ellenőrzési egységei az Éves Ellenőrzési Tervüket megküldik az ÁBK Tárcaközi Bizottság részére a tárgyévet megelőző év december 31-ig.
+(3)[^57] A Kincstár, az MVH, valamint a végrehajtó szervezetek belső ellenőrzési egységei az Éves Ellenőrzési Tervüket megküldik az ÁBK Tárcaközi Bizottság részére a tárgyévet megelőző év december 31-ig.
 
-(4)[^57] Amennyiben a Kincstár, az MVH, valamint a végrehajtó szervezetek belső ellenőrzési egységei az Éves Ellenőrzési Tervüket a (3) bekezdésben megnevezett szervezeteknek a meghatározott időpontig nem küldik meg, akkor a Nemzeti Programengedélyező a soron következő átutalás igénylés EU Bizottsághoz történő továbbítását felfüggesztheti.
+(4)[^58] Amennyiben a Kincstár, az MVH, valamint a végrehajtó szervezetek belső ellenőrzési egységei az Éves Ellenőrzési Tervüket a (3) bekezdésben megnevezett szervezeteknek a meghatározott időpontig nem küldik meg, akkor a Nemzeti Programengedélyező a soron következő átutalás igénylés EU Bizottsághoz történő továbbítását felfüggesztheti.
 
-[^56]: Az 54. § (3) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 18–19. §-a szerint módosított szöveg.
-[^57]: Az 54. § (4) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^57]: Az 54. § (3) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 18–19. §-a szerint módosított szöveg.
+[^58]: Az 54. § (4) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
