@@ -14,19 +14,22 @@ d) a származás-ellenőrzéssel, az előzetes eredetiségvizsgálattal, valamin
 
 e)[^4] szabálysértési nyilvántartás vezetésével összefüggő ügycsoportja tekintetében a szabálysértési szabályozásért felelős miniszter,
 
-f)[^5] a kormányablakok feladatai ellátásához nyújtott informatikai szolgáltatások tekintetében az e-közigazgatásért felelős miniszter és a közigazgatás szervezéséért felelős miniszter együttesen
+f)[^5] a kormányablakok feladatai ellátásához nyújtott informatikai szolgáltatások tekintetében az e-közigazgatásért felelős miniszter és a közigazgatás szervezéséért felelős miniszter együttesen,
+
+g)[^6] anyakönyvi ügycsoportja tekintetében az anyakönyvi ügyekért felelős miniszter
 
 gyakorolja.
 
-(3)[^6]
+(3)[^7]
 
-(3a)[^7]
+(3a)[^8]
 
-(4)[^8] A KEKKH hatósági eljárásaiban az útiokmány-nyilvántartás vezetése, a származás-ellenőrzés, az előzetes eredetiségvizsgálat, a bűnügyi nyilvántartási rendszerrel és a közlekedési pontrendszerrel összefüggő eljárások kivételével a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(4)[^9] A KEKKH hatósági eljárásaiban az útiokmány-nyilvántartás vezetése, a származás-ellenőrzés, az előzetes eredetiségvizsgálat, a bűnügyi nyilvántartási rendszerrel és a közlekedési pontrendszerrel összefüggő eljárások kivételével a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
 
 [^3]: A 4. § (2) bekezdése a 220/2010. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: A 4. § (2) bekezdés e) pontja az 515/2013. (XII. 30.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
 [^5]: A 4. § (2) bekezdés f) pontját az 515/2013. (XII. 30.) Korm. rendelet 21. § (2) bekezdése iktatta be.
-[^6]: A 4. § (3) bekezdését a 310/2007. (XI. 16.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 220/2010. (VII. 30.) Korm. rendelet 2. § (2) bekezdése.
-[^7]: A 4. § (3a) bekezdését a 105/2010. (IV. 9.) Korm. rendelet 5. § (1) bekezdése iktatta be, hatályon kívül helyezte az 56/2014. (III. 4.) Korm. rendelet 5. § a) pontja.
-[^8]: A 4. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 10. § (15) bekezdése iktatta be, szövege a 282/2011. (XII. 21.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (2) bekezdés g) pontját a 76/2014. (III. 14.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A 4. § (3) bekezdését a 310/2007. (XI. 16.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 220/2010. (VII. 30.) Korm. rendelet 2. § (2) bekezdése.
+[^8]: A 4. § (3a) bekezdését a 105/2010. (IV. 9.) Korm. rendelet 5. § (1) bekezdése iktatta be, hatályon kívül helyezte az 56/2014. (III. 4.) Korm. rendelet 5. § a) pontja.
+[^9]: A 4. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 10. § (15) bekezdése iktatta be, szövege a 282/2011. (XII. 21.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.

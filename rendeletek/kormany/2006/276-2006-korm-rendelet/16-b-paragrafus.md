@@ -1,11 +1,11 @@
-## 16/A. §[^38]
+## 16/A. §[^41]
 
-## A közigazgatási informatikával összefüggő egyéb feladatok[^39]
+## A közigazgatási informatikával összefüggő egyéb feladatok[^42]
 
-16/B. §[^40] (1) A KEKKH gondoskodik a kezelésében lévő nyilvántartások biztonságos és védett elektronikus tárolásáról.
+16/B. §[^43] (1) A KEKKH gondoskodik a kezelésében lévő nyilvántartások biztonságos és védett elektronikus tárolásáról.
 
 (2) A KEKKH részt vesz a hatáskörébe utalt hatósági eljárások szabályozásának előkészítésében.
 
-[^38]: A 16/A. §-t a 242/2007. (IX. 21.) Korm. rendelet 29. § (2) bekezdése iktatta be, hatályon kívül helyezte a 15/2013. (I. 28.) Korm. rendelet 33. § (2) bekezdése.
-[^39]: A 16/B. §-t megelőző alcímet a 81/2008. (IV. 4.) Korm. rendelet 1. §-a iktatta be.
-[^40]: A 16/B. §-t a 81/2008. (IV. 4.) Korm. rendelet 1. §-a iktatta be.
+[^41]: A 16/A. §-t a 242/2007. (IX. 21.) Korm. rendelet 29. § (2) bekezdése iktatta be, hatályon kívül helyezte a 15/2013. (I. 28.) Korm. rendelet 33. § (2) bekezdése.
+[^42]: A 16/B. §-t megelőző alcímet a 81/2008. (IV. 4.) Korm. rendelet 1. §-a iktatta be.
+[^43]: A 16/B. §-t a 81/2008. (IV. 4.) Korm. rendelet 1. §-a iktatta be.

@@ -4,7 +4,7 @@ a) biztosítja a kezelt és nyilvántartott adatok biztonságát, az adat- és t
 
 b) működteti a Központi Okmányirodát,
 
-c)[^20] biztosítja a járási hivatal szervezeti egységeként működő okmányirodák feladatainak ellátásához a külön rendeletben meghatározott technikai eszközöket, valamint részt vesz az okmányirodai feladatokat ellátó kormánytisztviselők és a fővárosi és megyei kormányhivatal ügyfélkapcsolattal foglalkozó munkatársainak képzésében, továbbképzésében, vizsgáztatásában,
+c)[^23] biztosítja a járási hivatal szervezeti egységeként működő okmányirodák feladatainak ellátásához a külön rendeletben meghatározott technikai eszközöket, valamint részt vesz az okmányirodai feladatokat ellátó kormánytisztviselők és a fővárosi és megyei kormányhivatal ügyfélkapcsolattal foglalkozó munkatársainak képzésében, továbbképzésében, vizsgáztatásában,
 
 d) vezeti a feladat- és hatáskörébe tartozó országos informatikai rendszerekhez és adatbázisokhoz történő hozzáférést biztosító – azonosító és jelszó adatokat tartalmazó – jogosultsági nyilvántartásokat.
 
@@ -12,4 +12,4 @@ d) vezeti a feladat- és hatáskörébe tartozó országos informatikai rendszer
 
 (3) Az elnök felelős a hatáskörébe tartozó okmányokkal kapcsolatos okmánybiztonsági feladatok ellátásáért.
 
-[^20]: A 12. § (1) bekezdés c) pontja a 174/2012. (VII. 26.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg.
+[^23]: A 12. § (1) bekezdés c) pontja a 174/2012. (VII. 26.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg.
