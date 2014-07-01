@@ -1,1 +1,0 @@
-A Kormány a veszélyes áruk vasúton, közúton vagy belvízen történő szállítása biztonságának növelése céljából és az ilyen szállításokra vonatkozó hazai és nemzetközi előírások végrehajtása elősegítése érdekében a következőket rendeli el:
