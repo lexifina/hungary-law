@@ -36,6 +36,8 @@
 
 | 16. |  | szülészet-nőgyógyászat |
 
+| 16/a. |  | szülésznői ellátás (intézeti) |
+
 | 17. |  | csecsemő- és gyermekgyógyászat |
 
 | 18. |  | csecsemő- és gyermekkardiológia |

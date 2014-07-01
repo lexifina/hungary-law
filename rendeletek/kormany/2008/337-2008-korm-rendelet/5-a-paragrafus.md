@@ -46,7 +46,15 @@ d) a stroke ellátások esetében,
 
 e) a PIC ellátások esetében.
 
-(5e)[^77] Nem kell ellátási területet megállapítani a 2. számú melléklet A) rész 53. és 57. pontja szerinti ellátások esetében, valamint az egynapos ellátások esetében.
+(5e)[^77] Nem kell ellátási területet megállapítani
+
+a) a 2. számú melléklet A) rész 53. és 57. pontja szerinti ellátások,
+
+b) a 3. számú melléklet 16/a. pontja szerinti ellátások, valamint
+
+c) az egynapos ellátások
+
+## esetében.
 
 (5f)[^78] A HIV fertőzött betegek gondozását a jogszabályban nevesített egészségügyi szolgáltatók ellátási terület nélkül végzik.
 
@@ -62,5 +70,5 @@ e) a PIC ellátások esetében.
 [^74]: Az 5/A. § (5b) bekezdését a 13/2012. (II. 14.) Korm. rendelet 5. §-a iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 24. § (3) bekezdésével megállapított szöveg.
 [^75]: Az 5/A. § (5c) bekezdését a 13/2012. (II. 14.) Korm. rendelet 5. §-a iktatta be.
 [^76]: Az 5/A. § (5d) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be.
-[^77]: Az 5/A. § (5e) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be.
+[^77]: Az 5/A. § (5e) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 48. § (1) bekezdésével megállapított szöveg.
 [^78]: Az 5/A. § (5f) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 48. § (2) bekezdése iktatta be.
