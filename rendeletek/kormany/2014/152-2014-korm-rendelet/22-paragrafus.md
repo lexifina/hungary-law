@@ -1,3 +1,5 @@
 22. § (1) A Kormány – az 1. § (4) bekezdésében meghatározott kivétellel – állampolgársági ügyekért felelős miniszterként a minisztert jelöli ki.
 
-(2) A Kormány központi anyakönyvi szervként a minisztert jelöli ki. A miniszter ellátja a központi anyakönyvi szerv vezetőjének jogszabályban meghatározott feladatait.
+(2)[^1]
+
+[^1]: A 22. § (2) bekezdését a 136. § (1) bekezdése hatályon kívül helyezte.
