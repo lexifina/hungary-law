@@ -2,31 +2,31 @@
 
 ## a) Rendszerirányítási díj: 1 000 000 Ft/év
 
-## b) Szagosítási alapdíj: 4 193 Ft/l
+## b) Szagosítási alapdíj: 4364 Ft/l
 
 ## II.
 
 ## Szállítási díjak
 
-| 2. § (1) bekezdés | Szállítási kapacitásdíj [Ft/(MJ/h)/év] | Szállítási kapacitásdíj [Ft/(MJ/nap)/év] | Szállítási forgalmi díj (Ft/GJ) |
+|  | 2. § (1) bekezdés | Szállítási kapacitásdíj [Ft/(MJ/h)/év] | Szállítási kapacitásdíj [Ft/(MJ/nap)/év] | Szállítási forgalmi díj (Ft/GJ) |
 
-| a) pont aa) alpont aaa), aaj) és aam) alpontja (kiadási pontok) | 92,56 |  | 33,99 |
+|  | a) pont aa) alpont aaa), aaj) és aam) alpontja (kiadási pontok) | 199,60 |  | 33,99 |
 
-| a) pont aa) alpont aaf) alpontja (Kiskundorozsma határkeresztező kiadási pont) | 511,36 | – |
+|  | a) pont aa) alpont aaf) alpontja (Kiskundorozsma határkeresztező kiadási pont) | 511,36 | – |
 
-| a) pont aa) alpont aag) alpontja (Csanádpalota határkeresztező kiadási pont) | 226,52 |  |
+|  | a) pont aa) alpont aag) alpontja (Csanádpalota határkeresztező kiadási pont) | 229,50 |  |
 
-| a) pont aa) alpont aac) alpontja (osztrák/magyar határ Baumgarten felőli betáplálási pont) | – | 33,81 |
+|  | a) pont aa) alpont aac) alpontja (osztrák/magyar határ Baumgarten felőli betáplálási pont) | – | 24,37 |
 
-| a) pont aa) alpont aai) alpontja (horvát/magyar határ Donji Miholjac felőli betáplálási pont) | – | 33,81 |
+|  | a) pont aa) alpont aai) alpontja (horvát/magyar határ Donji Miholjac felőli betáplálási pont) | – | 24,37 |
 
-| a) pont aa) alpont aad) alpontja (ukrán/magyar határ Beregovo felőli betáplálási pont) | – | 33,81 |
+|  | a) pont aa) alpont aad) alpontja (ukrán/magyar határ Beregovo felőli betáplálási pont) | – | 24,37 |
 
-| a) pont aa) alpont aan) alpontja (román/magyar határ Horia felőli betáplálási pont) | – | 33,81 |
+|  | a) pont aa) alpont aan) alpontja (román/magyar határ Horia felőli betáplálási pont) | – | 24,37 |
 
-| a) pont aa) alpont aae) alpontja (hazai termelés betáplálási pont) | – | 30,43 |
+|  | a) pont aa) alpont aae) alpontja (hazai termelés betáplálási pont) | – | 21,93 |
 
-| a) pont ac) alpont acb) alpontja (tárolói betáplálási pont) | – | 20,28 |
+|  | a) pont ac) alpont acb) alpontja (tárolói betáplálási pont) | – | 8,95 |
 
 ## III.
 
@@ -110,9 +110,9 @@
 
 ## 2. Tárolási díjak
 
-## Kitárolási díj: 6,17 Ft/GJ
+## Kitárolási díj: 5,92 Ft/GJ
 
-## Betárolási díj: 38,26 Ft/GJ
+## Betárolási díj: 38,02 Ft/GJ
 
 ## A tárolói kapacitásdíj kiszámítása a következő képlet alapján történik:
 
@@ -208,9 +208,9 @@
 
 ## 2. Tárolási díjak
 
-## Kitárolási díj: 6,17 Ft/GJ
+## Kitárolási díj: 5,92 Ft/GJ
 
-## Betárolási díj: 38,26 Ft/GJ
+## Betárolási díj: 38,02 Ft/GJ
 
 ## A tárolói kapacitásdíj kiszámítása a következő képlet alapján történik:
 
@@ -224,6 +224,6 @@
 
 ## K: a rendszerhasználó kitárolási kapacitás lekötése (MJ/nap)
 
-3. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^142]
+3. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^151]
 
-[^142]: A 3. melléklet az 5/2013. (X. 16.) MEKH rendelet 4. §-a szerint módosított szöveg.
+[^151]: A 3. melléklet az 5/2013. (X. 16.) MEKH rendelet 4. §-a, a 3/2014. (VI. 13.) MEKH rendelet 4. §-a szerint módosított szöveg.

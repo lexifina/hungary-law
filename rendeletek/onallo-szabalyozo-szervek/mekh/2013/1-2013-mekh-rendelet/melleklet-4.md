@@ -4,43 +4,43 @@
 
 | Elosztói terület | Ft/MJ |
 
-| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,390 |
+| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,365 |
 
-| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,378 |
+| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,345 |
 
-| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,360 |
+| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,330 |
 
-| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,349 |
+| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,315 |
 
-| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,321 |
+| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,301 |
 
 ## A szállítás díja 0%-os reál hozamtényezővel kiszámítva:
 
 | Elosztói terület | Ft/MJ |
 
-| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,191 |
+| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,196 |
 
 | E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,187 |
 
-| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,178 |
+| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,180 |
 
-| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,174 |
+| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,173 |
 
-| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,163 |
+| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,167 |
 
 ## 2. Az R. 3/A. §-a szerinti visszatérítés mértéke
 
 | Elosztói terület | Ft/MJ |
 
-| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,199 |
+| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,169 |
 
-| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,191 |
+| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,158 |
 
-| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,182 |
+| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,150 |
 
-| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,175 |
+| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,142 |
 
-| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,158 |
+| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,134 |
 
 ## 3. Az R. 3/A. §-a szerinti visszatérítéshez kapcsolódó adatszolgáltatás
 
