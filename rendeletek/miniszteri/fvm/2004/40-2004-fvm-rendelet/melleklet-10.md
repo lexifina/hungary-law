@@ -28,7 +28,7 @@ I. RÉSZ
 
 | 9. | Brassica napus L. | Káposztarepce | TP 36/2 2011. 11. 16. |
 
-| 10. |  |  |  |
+| 10. | Cannabis sativa L. | Kender | TP 276/1 2012. 11. 28. |
 
 | 11. | Helianthus annuus L. | Napraforgó | TP 81/1 2002. 10. 31. |
 
@@ -90,7 +90,7 @@ II. RÉSZ
 
 | 14. | Poa pratensis L. | Réti perje | TG/33/6 1990. 10. 12. |
 
-| 15. |  |  |  |
+| 15. | Lotus corniculatus L. | Szarvaskerep | TG/193/1 2008. 4. 9. |
 
 | 16. | Lupinus albus L. | Fehér csillagfürt | TG/66/4 2004. 3. 31. |
 
@@ -108,7 +108,7 @@ II. RÉSZ
 
 | 23. | Vicia faba L. | Lóbab | TG/8/6 2002. 4. 17. |
 
-| 24. | Vicia sativa L. | Tavaszi bükköny | a) TG/32/6 1988. 10. 21 |
+| 24. | Vicia sativa L. | Tavaszi bükköny | b) TG/32/7 2013. 3. 20. |
 
 | 25. | Brassica napus L. var. napobrassica (L.) Rchb. | Karórépa | TG/89/6rev. 2001. 4. 4. + 2009. 4. 1. |
 
@@ -132,4 +132,4 @@ II. RÉSZ
 
 III. RÉSZ
 
-[^95]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított szöveg.
+[^95]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja szerint módosított szöveg.

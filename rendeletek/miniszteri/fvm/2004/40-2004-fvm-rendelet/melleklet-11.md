@@ -62,7 +62,7 @@ I. RÉSZ
 
 | 25. | Cucurbita pepo L. | Cukkini | TP 119/1 2004. 3. 25. |
 
-| 26. | Cynara cardunculus L. | Articsóka és kardi | a) TP 184/1 2004. 3. 25. |
+| 26. | Cynara cardunculus L. | Articsóka és kardi | b) TP 184/2 2013. 2. 27. |
 
 | 27. | Daucus carota L. | Sárgarépa és takarmány sárgarépa | TP 49/3 2008. 3. 13. |
 
@@ -70,7 +70,7 @@ I. RÉSZ
 
 | 29. | Lactuca sativa L. | Saláta | TP 13/5 2011. 2. 16. |
 
-| 30. | Solanum Lycopersicum L. | Paradicsom | a) TP 44/4. 2012. 3. 21. |
+| 30. | Solanum Lycopersicum L. | Paradicsom | b) TP 44/4. rev. 2013. 2. 27. |
 
 | 31. | Petroselinum crispum (Mill.) Nyman ex A.W. Hill | Petrezselyem | TP 136/1 2007. 3. 21. |
 
@@ -80,11 +80,11 @@ I. RÉSZ
 
 | 34. | Pisum sativum L. (partim) | Kifejtőborsó, velőborsó és cukorborsó | TP 7/2 2010. 3. 11. |
 
-| 35. | Raphanus sativus L. | Retek, fekete retek | a) TP 64/1 2002. 3. 27. |
+| 35. | Raphanus sativus L. | Retek, fekete retek | b) TP 64/2 2013. 2. 27. |
 
 | 36. | Solanum melongena L. | Padlizsán vagy tojásgyümölcs | TP 117/1 2008. 3. 13. |
 
-| 37. | Spinacia oleracea L. | Spenót/paraj | a) TP 55/4 2012. 3. 21. |
+| 37. | Spinacia oleracea L. | Spenót/paraj | b) TP 55/5 2013. 2. 27. |
 
 | 38. | Valerianella locusta (L.) Laterr. | Galambbegysaláta | TP 75/2 2007. 3. 21. |
 
@@ -112,8 +112,10 @@ II. RÉSZ
 
 | 6. | Scorzonera hispanica L. | Feketegyökér | TG/116/4 2010. 3. 24. |
 
+| 7. | Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg | Paradicsom-alanyvesszők | TG/294/1 2013. 3. 20. |
+
 III. RÉSZ
 
 Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-[^96]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított szöveg.
+[^96]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja szerint módosított szöveg.
