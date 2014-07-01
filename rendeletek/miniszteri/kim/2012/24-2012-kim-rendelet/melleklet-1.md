@@ -1,6 +1,6 @@
-## 20. §[^13]
+## 20. §[^15]
 
-1. melléklet a 24/2012. (IV. 25.) KIM rendelethez[^14]
+1. melléklet a 24/2012. (IV. 25.) KIM rendelethez[^16]
 
 Az adatfelelősök a közzétételt elrendelő jogszabályi hely megnevezésével
 
@@ -16,9 +16,9 @@ Az adatfelelősök a közzétételt elrendelő jogszabályi hely megnevezéséve
 
 | 4. | Közérdekű önkéntes tevékenység hatósági nyilvántartás adatai | A közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény 12. § (3) bekezdése | Folyamatosan | a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-| 5. | A civil szervezetek országos névjegyzékben szereplő adatai | Civil tv. 14. § (1) bekezdése | Folyamatosan | Országos Bírósági Hivatal |
+| 5. | A civil szervezetek országos névjegyzékben szereplő adatai | Civil tv. 14. § (3) bekezdés a) pontja | Folyamatosan | Országos Bírósági Hivatal |
 
-| 6. | A letétbe helyezett beszámoló és közhasznúsági melléklet | Civil tv. 14. § (1); 30.§ (3) bekezdése | Folyamatosan | Országos Bírósági Hivatal |
+| 6. | A letétbe helyezett beszámoló és közhasznúsági melléklet | Civil tv. 14. § (3) bekezdés a) pontja; 30. § (3) bekezdése | Folyamatosan | Országos Bírósági Hivatal |
 
 | 7. | A civil információs centrumok által közölt információk | Civil tv. 52. § (1) bekezdés a)–e) pontja | Folyamatosan | civil információs centrumok |
 
@@ -44,5 +44,9 @@ Az adatfelelősök a közzétételt elrendelő jogszabályi hely megnevezéséve
 
 | 18. | A NEA elektori gyűlésének helye, időpontja és a mandátumvizsgálat módja, az ügyrend | Civil tv. 71. § (4) bekezdése | Folyamatosan | a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-[^13]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: Az 1. melléklet az 56/2012. (XII. 29.) EMMI rendelet 27. §-a, a 31/2014. (IV. 14.) EMMI rendelet 9. § e), f) pontja szerint módosított szöveg.
+| 19. | az adózót terhelő adókötelezettség teljesítéséhez, költségvetési támogatás jogszerű igénybevételéhez közzétett adat | Civil tv. 14. § (3) bekezdés b) pont | Folyamatosan | állami adóhatóság |
+
+| 20. | statisztikai regiszterben tárolt nyilvános adat | Civil tv. 14. § (3) bekezdés c) pont | Folyamatosan | Központi Statisztikai Hivatal |
+
+[^15]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: Az 1. melléklet az 56/2012. (XII. 29.) EMMI rendelet 27. §-a, a 31/2014. (IV. 14.) EMMI rendelet 8. §, 9. § c)–f) pontja szerint módosított szöveg.

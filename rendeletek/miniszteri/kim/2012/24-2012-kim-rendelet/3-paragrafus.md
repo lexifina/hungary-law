@@ -24,6 +24,10 @@ j) a rendezett munkaügyi kapcsolatok feltételeiről és az igazolás módjár�
 
 k) a civil szervezet döntése alapján közzétett további – így különösen létesítő okirat –
 
+l)[^7] a civil szervezetekről – az adószám, a név, a székhely, az alkalmazottak száma és a telephely(ek) vonatkozásában – az adóhatóság által az adózás rendjéről szóló törvény alapján az adózót terhelő adókötelezettség jogszerű teljesítéséhez, a költségvetési támogatás jogszerű igénybevételéhez a honlapján közzétett,
+
+m)[^8] a civil szervezetekről a statisztikáról szóló 1993. évi XLVI. törvény 6. § (2) bekezdése szerinti statisztikai regiszterben tárolt nyilvános
+
 ## adat.
 
 (2) A Civil Információs Portálon megjelenített adatokhoz való akadálymentes hozzáférést a vakok és gyengénlátók számára is biztosítani kell.
@@ -36,3 +40,5 @@ k) a civil szervezet döntése alapján közzétett további – így különös
 [^4]: A 3. § (1) bekezdés c) pontja a 31/2014. (IV. 14.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^5]: A 3. § (1) bekezdés f) pontja a 31/2014. (IV. 14.) EMMI rendelet 9. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés i) pontja az 56/2012. (XII. 29.) EMMI rendelet 22. §-ával megállapított szöveg.
+[^7]: A 3. § (1) bekezdés l) pontját a 31/2014. (IV. 14.) EMMI rnedelet 7. § (2) bekezdése iktatta be.
+[^8]: A 3. § (1) bekezdés m) pontját a 31/2014. (IV. 14.) EMMI rnedelet 7. § (2) bekezdése iktatta be.
