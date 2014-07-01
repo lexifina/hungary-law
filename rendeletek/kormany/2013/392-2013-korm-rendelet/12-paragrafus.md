@@ -1,3 +1,3 @@
-## 11. §[^2]
+## 11. § A Pr. 17. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^2]: A 11. § a 7. § (3) bekezdése alapján 2014. július 1-jén lép hatályba.
+## „(3) Az Szt. 18/B. §-a szerinti országos nyilvántartást vezető hatóság az Szt. 19. § (3) bekezdésében meghatározott feladatának teljesítése érdekében az adatokat az Flt. 57/B. §-a szerinti Foglalkoztatási és Közfoglalkoztatási Adatbázisban rögzíti.”
