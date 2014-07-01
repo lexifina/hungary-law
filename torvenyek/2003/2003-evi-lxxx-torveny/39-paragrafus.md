@@ -24,7 +24,9 @@ b) ha a 28. § (2) bekezdésében foglaltak szerint kap tájékoztatást,
 
 c) ha támogatásban részesül, vagy ha a támogatás iránti kérelmét nem a rászorultság hiánya miatt utasították el,
 
-d) ha e törvény kifejezetten így rendelkezik.
+d) a menekültügyi eljárásban részt vevő, továbbá a 4. § (1) bekezdés f) és g) pontjában meghatározott személyt,
+
+e) ha e törvény kifejezetten így rendelkezik.
 
 (10) A tolmácsolási és fordítási díj megfizetésére a támogatás visszatérítésére vonatkozó szabályokat kell megfelelően alkalmazni.
 

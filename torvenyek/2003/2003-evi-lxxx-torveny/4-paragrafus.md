@@ -10,7 +10,9 @@ d) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazás�
 
 e) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és lakóhellyel vagy szokásos és jogszerű tartózkodási hellyel rendelkezik Magyarország területén, az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve olyan államban, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 
-f) humanitárius célú tartózkodási engedéllyel rendelkezik.
+f) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény hatálya alá tartozik, azonban lakóhellyel vagy szokásos és jogszerű tartózkodási hellyel nem rendelkezik Magyarország területén, és akivel szemben az idegenrendészeti hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése vagy 43. § (2) bekezdése alapján kiutasító határozatot hozott;
+
+g) humanitárius célú tartózkodási engedéllyel rendelkezik.
 
 (2) A viszonosság fennállása tekintetében az igazságügyért felelős miniszter (a továbbiakban: miniszter) nyilatkozata irányadó.
 

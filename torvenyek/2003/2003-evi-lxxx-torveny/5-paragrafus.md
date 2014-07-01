@@ -14,6 +14,8 @@ e) vízumkiadása, tartózkodási engedély vagy letelepedett jogállás megszer
 
 f) a családjában olyan gyermeket gondoz, akinek a rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították,
 
-g) a 4/2009/EK tanácsi rendelet 46. cikkében meghatározott jogosultként kér az 56. cikk szerinti eljárás lefolytatásához jogi segítséget.
+g) a 4/2009/EK tanácsi rendelet 46. cikkében meghatározott jogosultként kér az 56. cikk szerinti eljárás lefolytatásához jogi segítséget,
+
+h) a 4. § (1) bekezdés f) pontjának hatálya alá tartozik.
 
 (3) A jogi szolgáltatás díját az állam viseli akkor is, ha az egyedülálló és a 9. §-ban foglaltak figyelembevételével vagyontalan fél rendelkezésre álló havi nettó jövedelme nem haladja meg a nyugdíjminimum 150%-át.
