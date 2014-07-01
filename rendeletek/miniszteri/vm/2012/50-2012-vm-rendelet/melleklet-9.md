@@ -24,11 +24,11 @@
 
 ## 5.1. A teljesítési időszakban kiszállított összes támogatott termékről kiállított, havi vagy teljesítési időszakonkénti elszámoló vagy gyűjtőszámlák másolata.
 
-## 5.2[^54]
+## 5.2[^55]
 
 ## 6. Keltezés, a kérelmező cégszerű aláírása.
 
-9. melléklet az 50/2012. (V. 25.) VM rendelethez[^55]
+9. melléklet az 50/2012. (V. 25.) VM rendelethez[^56]
 
 MEGÁLLAPODÁS-MÓDOSÍTÁS
 
@@ -146,5 +146,5 @@ Jelen megállapodás-módosítás 3 eredeti példányban készült, amelyből 1 
 
 | ............................................. szállító | ............................................. fenntartó |
 
-[^54]: A 8. melléklet 5. pont 5.2 alpontját az 55/2014. (IV. 29.) VM rendelet 14. §-a hatályon kívül helyezte.
-[^55]: A 9. mellékletet az 55/2014. (IV. 29.) VM rendelet 12. § (3) bekezdése iktatta be.
+[^55]: A 8. melléklet 5. pont 5.2 alpontját az 55/2014. (IV. 29.) VM rendelet 14. §-a hatályon kívül helyezte.
+[^56]: A 9. mellékletet az 55/2014. (IV. 29.) VM rendelet 12. § (3) bekezdése iktatta be.

@@ -40,10 +40,11 @@
 
 (3) A megállapodás kötelező tartalmi elemeit magában foglaló és az (1) bekezdésnek megfelelő nyomtatványt az MVH a hivatalos honlapján teszi közzé. A nyomtatvány mintáját a 4. melléklet tartalmazza.
 
-(4) A termékkel való ellátás első időszaka szeptember második hétfőjétől október második hétfőjét megelőző vasárnapig (a továbbiakban: első teljesítési időszak), a termékkel való ellátás második időszaka október második hétfőjétől december harmadik vasárnapjáig (a továbbiakban: második teljesítési időszak), a termékkel való ellátás harmadik időszaka február harmadik hétfőjétől május első hétfőjét megelőző vasárnapig (a továbbiakban: harmadik teljesítési időszak), a termékkel való ellátás negyedik időszaka május első hétfőjétől május utolsó napját követő vasárnapig (a továbbiakban: negyedik teljesítési időszak) tart.
+(4)[^16] A termékkel való ellátás első időszaka szeptember első tanítási napjától szeptember utolsó vasárnapjáig (a továbbiakban: első teljesítési időszak), a termékkel való ellátás második időszaka szeptember utolsó vasárnapját követő hétfőtől december harmadik vasárnapjáig (a továbbiakban: második teljesítési időszak), a termékkel való ellátás harmadik időszaka január második hétfőjétől március utolsó vasárnapjáig (a továbbiakban: harmadik teljesítési időszak), a termékkel való ellátás negyedik időszaka március utolsó vasárnapját követő hétfőtől április utolsó napját követő vasárnapig (a továbbiakban: negyedik teljesítési időszak) tart.
 
 (5) Tanévenként legalább három teljesítési időszakban kell szállítani. Teljesítési időszakon belül egész heteket kell szállítani úgy, hogy az első és a negyedik teljesítési időszakban legalább három, a második és a harmadik teljesítési időszakban legalább nyolc hétig kell szállítani.
 
 [^13]: A 6. § (1) bekezdése a 31/2013. (V. 2.) VM rendelet 11. §-ával megállapított szöveg.
 [^14]: A 6. § (1) bekezdés 11. pontját az 55/2014. (IV. 29.) VM rendelet 14. §-a hatályon kívül helyezte.
 [^15]: A 6. § (2) bekezdését az 55/2014. (IV. 29.) VM rendelet 14. §-a hatályon kívül helyezte.
+[^16]: A 6. § (4) bekezdése az 55/2014. (IV. 29.) VM rendelet 3. §-ával megállapított szöveg.

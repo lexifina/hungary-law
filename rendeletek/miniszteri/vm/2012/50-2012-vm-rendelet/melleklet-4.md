@@ -32,6 +32,6 @@
 
 | 14 | A kérelmező rendelkezik együttes, köztartozás mentességi igazolással | Együttes köztartozás mentességi igazolás | 4 pont |
 
-4. melléklet az 50/2012. (V. 25.) VM rendelethez[^52]
+4. melléklet az 50/2012. (V. 25.) VM rendelethez[^53]
 
-[^52]: A 4. melléklet az 55/2014. (IV. 29.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^53]: A 4. melléklet az 55/2014. (IV. 29.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.

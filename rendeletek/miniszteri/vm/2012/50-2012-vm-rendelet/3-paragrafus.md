@@ -14,7 +14,7 @@ c) hatályos cégkivonata alapján tulajdonosai kizárólag az a) és b) pontban
 
 (4) A kérelmező iskolagyümölcs-programban történő részvételének a 2009/2010. tanévi vagy azt követő iskolagyümölcs-programok valamelyike szerinti előzetes jóváhagyása – külön kérelem benyújtása nélkül – az (1) bekezdés szerinti előzetes jóváhagyásnak tekintendő feltéve, hogy a kérelmező az (5) bekezdésben meghatározott kérelembenyújtási határidő első napján megfelel a (2) és (3) bekezdésben meghatározott feltételeknek.
 
-(5)[^10] A kérelmező a 2. melléklet szerinti adattartalmú előzetes jóváhagyás iránti kérelmét az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon minden év január 1-jétől május 31. napjáig nyújthatja be az MVH Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatóságához a kérelemnyomtatványon meghatározott címen. Az előzetes jóváhagyási kérelem benyújtására nyitva álló határidő jogvesztő.
+(5)[^10] A kérelmező a 2. melléklet szerinti adattartalmú előzetes jóváhagyás iránti kérelmét az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon minden év április 1-jétől április 30. napjáig nyújthatja be az MVH Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatóságához a kérelemnyomtatványon meghatározott címen. Az előzetes jóváhagyási kérelem benyújtására nyitva álló határidő jogvesztő.
 
 (6) Az MVH a jóváhagyási kérelmekről azok hiánytalan beérkezésétől számított nyolc napon belül dönt.
 
@@ -22,4 +22,4 @@ c) hatályos cégkivonata alapján tulajdonosai kizárólag az a) és b) pontban
 
 [^8]: A 3. § (1) bekezdése a 31/2013. (V. 2.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^9]: A 3. § (2) bekezdése a 31/2013. (V. 2.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^10]: A 3. § (5) bekezdése a 31/2013. (V. 2.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^10]: A 3. § (5) bekezdése a 31/2013. (V. 2.) VM rendelet 8. § (2) bekezdésével megállapított, az 55/2014. (IV. 29.) VM rendelet 13. § a) pontja szerint módosított szöveg.

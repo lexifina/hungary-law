@@ -230,6 +230,6 @@
 
 | ............................................. szállító | ............................................. fenntartó |
 
-5. melléklet az 50/2012. (V. 25.) VM rendelethez[^53]
+5. melléklet az 50/2012. (V. 25.) VM rendelethez[^54]
 
-[^53]: Az 5. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (4) bekezdésével megállapított szöveg.
+[^54]: Az 5. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (4) bekezdésével megállapított szöveg.

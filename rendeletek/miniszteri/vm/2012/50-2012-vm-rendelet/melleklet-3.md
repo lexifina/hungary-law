@@ -24,6 +24,6 @@
 
 ## 5. Keltezés, a kérelmező cégszerű aláírása.
 
-3. melléklet az 50/2012. (V. 25.) VM rendelethez[^51]
+3. melléklet az 50/2012. (V. 25.) VM rendelethez[^52]
 
-[^51]: A 3. melléklet az 55/2014. (IV. 29.) VM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^52]: A 3. melléklet az 55/2014. (IV. 29.) VM rendelet 12. § (1) bekezdésével megállapított szöveg.
