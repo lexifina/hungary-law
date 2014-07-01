@@ -1,0 +1,1 @@
+12/A. § Az e törvényben meghatározott jogok és kötelezettségek tekintetében a Bérgarancia biztost, valamint a kényszertörlési eljárás alatt álló gazdálkodó szervezet munkavállalóját ugyanazok a jogok illetik meg, illetve kötelezettségek terhelik, mint a felszámolót, illetőleg felszámolás alatt álló gazdálkodó szervezet munkavállalóját.
