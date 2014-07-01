@@ -1,6 +1,6 @@
-## Eseti gyám és magzat gyámjának kirendelése[^736]
+## Eseti gyám és magzat gyámjának kirendelése[^752]
 
-130/A. §[^737] (1) A gyámhivatal kérelemre vagy hivatalból eseti gyámot rendel a kiskorú gyermek részére,
+130/A. §[^753] (1) A gyámhivatal kérelemre vagy hivatalból eseti gyámot rendel a kiskorú gyermek részére,
 
 a) ha képviseletéről a Ptk. 6:20. §-ában meghatározott esetekben gondoskodni kell,
 
@@ -32,5 +32,5 @@ b) a születendő gyermek családi jogállásának teljes hatályú apai elismer
 
 (8) A szülő törvényes képviseleti jogát korlátozó rendelkezéseket a magzat tekintetében is alkalmazni kell.
 
-[^736]: A 130/A. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 65. §-a iktatta be.
-[^737]: A 130/A. §-t a 70/2014. (III. 13.) Korm. rendelet 65. §-a iktatta be.
+[^752]: A 130/A. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 65. §-a iktatta be.
+[^753]: A 130/A. §-t a 70/2014. (III. 13.) Korm. rendelet 65. §-a iktatta be.

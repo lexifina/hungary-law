@@ -30,7 +30,7 @@ cd) az örökbefogadás előtti felkészítő tanfolyam eredményes elvégzésé
 
 a)[^218] az örökbe fogadni szándékozó személynél környezettanulmányt végez, vagy a környezettanulmány elkészítése érdekében megkeresi a gyermekvédelmi szakszolgálatot, feltéve, hogy nem áll rendelkezésére a gyermekvédelmi szakszolgálat által egy hónapnál nem régebben készített környezettanulmány,
 
-b)[^219] beszerzi a háziorvosi, szakorvosi igazolást a gyermek egészségi állapotáról, fejlődését befolyásoló betegségekről, valamint a gyermek családi hátterére vonatkozó dokumentumokat és a 3 évesnél idősebb gyermek esetén a személyiségére vonatkozó szakvéleményt,
+b)[^219] beszerzi a háziorvosi, szakorvosi igazolást a gyermek egészségi állapotáról, fejlődését befolyásoló betegségekről, valamint a gyermek családi hátterére vonatkozó dokumentumokat és a 3 évesnél idősebb gyermek esetén a személyiségére vonatkozó szakmai véleményt,
 
 c)[^220] meggyőződik arról, hogy az örökbefogadásban közreműködő nyílt örökbefogadást elősegítő közhasznú szervezet működési engedéllyel rendelkezik a szolgáltatótevékenység folytatására.
 
@@ -56,19 +56,19 @@ d) – ha a nevelőszülő a nála nevelkedő gyermeket kívánja örökbe fogad
 
 (5)[^224] A gyermek örökbefogadásának engedélyezése előtt a kijelölt gyámhivatal beszerzi:
 
-a) a gyermek 3 hónapnál nem régebben kiállított születési anyakönyvi másolatát,
+a)[^225] az anyakönyvvezetőtől a gyermeknek az anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek a gyermek születésével kapcsolatban nyilvántartott adatait,
 
-b) a szülők halotti anyakönyvi másolatát, ha a gyermek szülei nem élnek, és ezen irat a gyermekvédelmi gondoskodás alatt álló gyermek ügyiratában nem található meg,
+b)[^226] az anyakönyvvezetőtől a szülőknek az anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek a szülők halálával kapcsolatban nyilvántartott adatait,
 
-c)[^225] a szülői felügyeletet megszüntető, illetve a szülő cselekvőképességét érintő gondnokság alá helyezéséről szóló jogerős bírói ítéletet,
+c)[^227] a szülői felügyeletet megszüntető, illetve a szülő cselekvőképességét érintő gondnokság alá helyezéséről szóló jogerős bírói ítéletet,
 
 d) a gyámot kirendelő jogerős gyámhivatali határozatot, ha nem a vér szerinti szülő az örökbefogadandó gyermek törvényes képviselője,
 
-e)[^226] a gondnokot kirendelő jogerős határozatot, ha a vér szerinti szülő cselekvőképességet érintő gondnokság alatt áll,
+e)[^228] a gondnokot kirendelő jogerős határozatot, ha a vér szerinti szülő cselekvőképességet érintő gondnokság alatt áll,
 
 f) a háziorvosi vagy szakorvosi igazolást az örökbefogadni szándékozó személy egészségi állapotáról, amennyiben ezt az örökbefogadási eljárás során indokoltnak tartja,
 
-g)[^227] belföldön történt születés vagy házasságkötés esetén az örökbe fogadni szándékozó személy születési és házassági anyakönyvi kivonatát.
+g)[^229] az anyakönyvvezetőtől az örökbe fogadni szándékozó személy anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek az örökbe fogadni szándékozó személy születésével és házasságával kapcsolatban nyilvántartott adatait.
 
 [^210]: A 41. § a 14/2003. (II. 12.) Korm. rendelet 21. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
 [^211]: A 41. § (1) bekezdés nyitó szövegrésze a 173/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
@@ -79,12 +79,14 @@ g)[^227] belföldön történt születés vagy házasságkötés esetén az ör�
 [^216]: A 41. § (1b) bekezdését a 70/2014. (III. 13.) Korm. rendelet 25. § (2) bekezdése iktatta be.
 [^217]: A 41. § (2) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
 [^218]: A 41. § (2) bekezdés a) pontja a 97/2013. (III. 29.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^219]: A 41. § (2) bekezdés b) pontja a 360/2010. (XII. 30.) Korm. rendelet 25. § 12. pontja szerint módosított szöveg.
+[^219]: A 41. § (2) bekezdés b) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^220]: A 41. § (2) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
 [^221]: A 41. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
 [^222]: A 41. § (3a) bekezdését a 70/2014. (III. 13.) Korm. rendelet 25. § (5) bekezdése iktatta be.
 [^223]: A 41. § (4) bekezdése a 70/2014. (III. 13.) Korm. rendelet 25. § (6) bekezdésével megállapított szöveg.
 [^224]: A 41. § (5) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
-[^225]: A 41. § (5) bekezdés c) pontja a 97/2013. (III. 29.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
-[^226]: A 41. § (5) bekezdés e) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (8) bekezdésével megállapított szöveg.
-[^227]: A 41. § (5) bekezdés g) pontját a 97/2013. (III. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be.
+[^225]: A 41. § (5) bekezdés a) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (7) bekezdésével megállapított szöveg.
+[^226]: A 41. § (5) bekezdés b) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (7) bekezdésével megállapított szöveg.
+[^227]: A 41. § (5) bekezdés c) pontja a 97/2013. (III. 29.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^228]: A 41. § (5) bekezdés e) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (8) bekezdésével megállapított szöveg.
+[^229]: A 41. § (5) bekezdés g) pontját a 97/2013. (III. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 25. § (9) bekezdésével megállapított szöveg.

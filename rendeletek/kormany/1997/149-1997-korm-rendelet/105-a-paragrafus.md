@@ -1,6 +1,6 @@
-## A gondozási hely megváltoztatása, a tartózkodási hely megállapítása[^663]
+## A gondozási hely megváltoztatása, a tartózkodási hely megállapítása[^680]
 
-105/A. §[^664] (1) A gyámhivatal a gyermek gondozási helyének kérelemre történő felülvizsgálatát a nevelésbe vétel felülvizsgálatának minősítheti.
+105/A. §[^681] (1) A gyámhivatal a gyermek gondozási helyének kérelemre történő felülvizsgálatát a nevelésbe vétel felülvizsgálatának minősítheti.
 
 (2) A gondozási hely megváltoztatását kérheti a gyermek, a szülő, a gyermekvédelmi gyám, a nevelőszülői hálózat vezetője, a gyermekotthon vezetője, valamint kezdeményezheti a gyermekjogi képviselő és a gyermekvédelmi szakszolgálat.
 
@@ -52,5 +52,5 @@ cb) az új gondozási hely vagy javítóintézeti tartózkodás alapján jogosul
 
 (11) A gondozási hely megváltoztatásáról szóló határozat meghozatalával egyidejűleg a gyámhivatal közli a gyermek új gondozási helyét a családtámogatási ellátást és az árvaellátást folyósító szervvel, továbbá a gyermeket ellátó védőnővel.
 
-[^663]: A 105/A. §-t megelőző alcím a 334/2011. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^664]: A 105/A. §-t a 14/2003. (II. 12.) Korm. rendelet 65. §-a iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^680]: A 105/A. §-t megelőző alcím a 334/2011. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^681]: A 105/A. §-t a 14/2003. (II. 12.) Korm. rendelet 65. §-a iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 37. §-ával megállapított szöveg.

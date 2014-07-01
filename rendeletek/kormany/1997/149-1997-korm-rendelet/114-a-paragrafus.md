@@ -1,15 +1,26 @@
-## 112–114. §[^676]
+## 112–114. §[^694]
 
 ## Nevelési felügyelet
 
-114/A. §[^677] (1)[^678] A nevelési felügyelet elrendelésével kapcsolatos gyámhivatali eljárás hivatalból vagy a speciális gyermekotthon vezetőjének kérelmére indul.
+114/A. §[^695] (1) A gyámhivatal a Gyvt. 81/A. § (10) bekezdése szerinti esetben a speciális gyermekotthon vezetője, a speciális lakásotthon vezetője, a gyermekotthon speciális csoportjának vezetője (a továbbiakban együtt: speciális gyermekotthon vezetője) Gyvt. 81/A. § (7) bekezdés szerinti értesítése alapján mérlegeli, hogy indokolt-e a nevelési felügyelet elrendelésére irányuló eljárásnak a hivatalból történő megindítása.
 
-(2)[^679] Az eljárás során a gyámhivatal figyelembe veszi a gyermek gondozási helye szerint illetékes megyei, fővárosi gyermekvédelmi szakértői bizottság és a gyermekvédelmi gyám véleményét. A megyei, fővárosi gyermekvédelmi szakértői bizottság a gyermekotthon vezetőjének a Gyvt. 81/A. § (2) bekezdése szerinti értesítése kézhezvételétől számított öt napon belül küldi meg véleményét a gyámhivatalnak.
+(2) A gyámhivatal a nevelési felügyelet szükségessége kérdésében az eljárás Gyvt. 81/B. § (2) bekezdése szerint hivatalból történő megindítását vagy a gyermekvédelmi gyám kérelmének beérkezését követően haladéktalanul, de legkésőbb a következő munkanapon – a 8/D. §-ban foglalt módon – kikéri
 
-(3)[^680] A gyámhivatal az eljárás megindítását követően haladéktalanul kijelöli a gyermekjogi képviselőt – akadályoztatása esetén a gyermekvédelmi gyámot – a gyermeknek a nevelési felügyelettel kapcsolatos ügyében való képviselet ellátására, ideértve a bírósági eljárásban való képviseletet is.
+a) a speciális gyermekotthon vezetőjének véleményét,
 
-[^676]: A 112–114. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés g) pontja hatályon kívül helyezte.
-[^677]: A 114/A. §-t és a 114/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 73. §-a iktatta a szövegbe. E módosító rendelet – 203/2003. (XII. 10.) Korm. rendelet 16. § (3) bekezdésével megállapított – 97. § (2) bekezdése alapján 2005. július 1-jén lépett hatályba.
-[^678]: A 114/A. § (1) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 47. pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^679]: A 114/A. § (2) bekezdése a 97/2013. (III. 29.) Korm. rendelet 42. §-ával megállapított szöveg.
-[^680]: A 114/A. § (3) bekezdése a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 14. pontja szerint módosított szöveg.
+b) a speciális gyermekotthon, speciális lakásotthon vagy gyermekotthon speciális csoportjának telephelye szerint illetékes megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményét, és
+
+c) a gyermekvédelmi gyám véleményét és nyilatkozatát a gyermek gyógykezelése vagy gyógyító eljárása tárgyában,
+
+## ha azokat a gyermekvédelmi gyám kérelméhez, a speciális gyermekotthon vezetőjének Gyvt. 81/A. § (7) bekezdése szerinti értesítéséhez vagy Gyvt. 81/B. § (1) bekezdése szerinti kezdeményezéséhez nem csatolták.
+
+(3) A gyámhivatal a nevelési felügyelet kérdésében a döntését a (2) bekezdés szerinti vélemények, szakmai vélemény és nyilatkozat alapján hozza meg.
+
+(4) A gyermeknek a nevelési felügyelettel kapcsolatos ügyében való képviselete – ideértve a bírósági eljárásban való képviseletet is – ellátására a gyámhivatal az eljárás megindítását követően haladéktalanul kijelöli
+
+a) a gyermekjogi képviselőt, vagy
+
+b) ha a gyermekjogi képviselő jelzi, hogy akadályoztatása miatt nem tud eljárni, a gyermekvédelmi gyámot.
+
+[^694]: A 112–114. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés g) pontja hatályon kívül helyezte.
+[^695]: A 114/A. §-t és a 114/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 73. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 54. §-ával megállapított szöveg.
