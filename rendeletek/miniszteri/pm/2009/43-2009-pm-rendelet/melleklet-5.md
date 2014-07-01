@@ -20,7 +20,7 @@
 
 | 4. | címkén feltüntetett alkoholtartalma (térfogatszázalékban) |
 
-| 5. | vámtarifaszáma |
+| 5. | KN-kódja |
 
 | 6. | fajtakódja |
 
@@ -48,7 +48,7 @@
 
 | 4. | címkéjén feltüntetett alkoholtartalma (térfogatszázalékban) |
 
-| 5. | vámtarifaszáma |
+| 5. | KN-kódja |
 
 | 6. | fajtakódja |
 
@@ -64,6 +64,6 @@
 
 | (U és M karbantartási jel esetében az érvényesség kezdete, T esetében az érvényesség vége) |
 
-5. melléklet a 43/2009. (XII. 29.) PM rendelethez[^74]
+5. melléklet a 43/2009. (XII. 29.) PM rendelethez[^75]
 
-[^74]: Az 5. mellékletet a 19. § (3) bekezdése hatályon kívül helyezte.
+[^75]: Az 5. mellékletet a 19. § (3) bekezdése hatályon kívül helyezte.

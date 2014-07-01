@@ -12,7 +12,7 @@
 
 (4) A harmadik országból vagy más tagállamból behozott alkoholtermékre a zárjegy belföldön is felragasztható.
 
-(5)[^27] A más tagállamból behozott zárjegy nélküli alkoholterméket a jövedéki adóügynek nem minősülő jövedéki üggyel, továbbá a jövedéki adóügyek közül a hatósági felügyelet keretében végzendő adóztatási feladat ellátására külön jogszabályban hatáskörrel és illetékességgel felruházott vámszervnek (a továbbiakban: hatósági felügyeletet ellátó vámszerv) a termék átvételével egyidejűleg be kell jelenteni. A bejelentésben meg kell adni a termék megnevezését, vámtarifaszámát, mennyiségét (kiszerelési egység szerinti darabszám) és alkoholtartalmát. A más tagállamból behozott zárjegy nélküli alkoholterméket a zárjeggyel ellátott alkoholtermékektől elkülönítve, külön helyen kell tárolni.
+(5)[^27] A más tagállamból behozott zárjegy nélküli alkoholterméket a jövedéki adóügynek nem minősülő jövedéki üggyel, továbbá a jövedéki adóügyek közül a hatósági felügyelet keretében végzendő adóztatási feladat ellátására külön jogszabályban hatáskörrel és illetékességgel felruházott vámszervnek (a továbbiakban: hatósági felügyeletet ellátó vámszerv) a termék átvételével egyidejűleg be kell jelenteni. A bejelentésben meg kell adni a termék megnevezését, KN-kódját, mennyiségét (kiszerelési egység szerinti darabszám) és alkoholtartalmát. A más tagállamból behozott zárjegy nélküli alkoholterméket a zárjeggyel ellátott alkoholtermékektől elkülönítve, külön helyen kell tárolni.
 
 (6) A harmadik országba exportált alkoholtermék utáni adó-visszaigényléshez a zárjegy felülragasztással történő érvénytelenítésével egy tekintet alá esik a zárjegyen a „zárjegy” szövegrészt részben vagy egészben eltakaró fekete színű, nyomtatott „E” betű feltüntetése.
 
@@ -21,5 +21,5 @@
 [^24]: A 7. § (3) bekezdése az 52/2012. (XII. 29.) NGM rendelet 57. § (1) bekezdésével megállapított szöveg.
 [^25]: A 7. § (3a) bekezdését az 52/2012. (XII. 29.) NGM rendelet 57. § (1) bekezdése iktatta be.
 [^26]: A 7. § (3b) bekezdését az 52/2012. (XII. 29.) NGM rendelet 57. § (1) bekezdése iktatta be.
-[^27]: A 7. § (5) bekezdése az 52/2012. (XII. 29.) NGM rendelet 57. § (2) bekezdésével megállapított szöveg.
+[^27]: A 7. § (5) bekezdése az 52/2012. (XII. 29.) NGM rendelet 57. § (2) bekezdésével megállapított, a 76/2013. (XII. 31.) NGM rendelet 25. §-a szerint módosított szöveg.
 [^28]: A 7. § (7) bekezdése a 17/2011. (IV. 19.) NGM rendelet 96. § (5) bekezdése szerint módosított szöveg.
