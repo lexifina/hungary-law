@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-189-20-
 | --- | --- | --- |
 | 2013-06-12 | 2013-189-20-22.1 | 189/2013. (VI. 7.) Korm. rendelet |
 | 2013-06-13 | 2013-189-20-22.2 | 2010: CXXX. törvény |
+| 2014-07-01 | 2013-189-20-22.3 | 2010: CXXX. törvény |
