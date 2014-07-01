@@ -8,6 +8,8 @@ c) legalább középszintű szakképesítéssel rendelkező
 
 magyar állampolgárral létesíthető és tartható fenn.
 
+(1a) Közszolgálati jogviszony közszolgálati ügykezelői munkakörre tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végző közigazgatási szervnél az (1) bekezdésben és a 39. § (1b) és (1c) bekezdésében meghatározott feltételek teljesítése esetén létesíthető és tartható fenn.
+
 (2) Az (1) bekezdéstől eltérően közszolgálati ügykezelői munkakörre közszolgálati jogviszony – a jogszabály által meghatározott fontos és bizalmas ügykezelői munkaköröket, valamint az ügykezelői osztályvezető esetét kivéve –
 
 a) a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személlyel, valamint
