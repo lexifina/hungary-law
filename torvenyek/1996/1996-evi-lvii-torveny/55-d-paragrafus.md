@@ -1,0 +1,1 @@
+55/D. § Az iratbetekintés során az arra jogosult – az 55/B. § (3) bekezdése szerinti betekintést engedélyező végzésben meghatározott korlátozó rendelkezés hiányában – az iratról vagy annak egy részéről másolatot vagy feljegyzést készíthet, illetve másolatot kérhet. A másolatot a hatóság kérelemre hitelesíti.

@@ -6,7 +6,7 @@
 
 a) az üzleti kapcsolatokban – ideértve az általános szerződési feltételek alkalmazásának esetét is – tisztességtelenül vételi vagy eladási árakat megállapítani, vagy más módon indokolatlan előnyt kikötni, vagy hátrányos feltételek elfogadását kikényszeríteni;
 
-b) a termelést, a forgalmazást vagy a műszaki fejlődést a fogyasztók, üzletfelek kárára korlátozni;
+b) a termelést, a forgalmazást vagy a műszaki fejlődést a végső üzletfelek kárára korlátozni;
 
 c) indokolatlanul elzárkózni az ügylet jellegének megfelelő üzleti kapcsolat létrehozásától, illetve fenntartásától;
 

@@ -1,8 +1,8 @@
-88. § (1) A 2–7. §-okba ütköző magatartásra hivatkozással a magatartás tanúsításától számított hat hónapos elévülési határidőn belül indítható per.
+88. § (1) A 2–7. §-okba ütköző magatartásra hivatkozással a magatartás tanúsításától számított hat hónapos elévülési határidőn belül indítható per; a magatartás tanúsításától számított három év eltelte után perindításnak nincs helye.
 
-(2) Ha a kifogásolt magatartás folyamatos, az elévülés a magatartás abbahagyásakor kezdődik. Ha a kifogásolt magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, az elévülés mindaddig nem kezdődik meg, amíg a helyzet (állapot) fennáll.
+(2) Ha a kifogásolt magatartás folyamatos, az (1) bekezdés szerinti határidők számítása a magatartás abbahagyásakor kezdődik. Ha a kifogásolt magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidők számítása mindaddig nem kezdődik meg, amíg a helyzet (állapot) fennáll.
 
-(3) A magatartás tanúsításától számított öt év eltelte után perindításnak helye nincs.
+(3)
 
 (4) Az e fejezet alapján indított perekre a törvényszéknek van hatásköre.
 
@@ -16,7 +16,7 @@ b) banki, pénzügyi és kereskedelmi adatok közlésére, illetve a birtokában
 
 (7) Előzetes bizonyításnak a per megindítása előtt helye van, amennyiben az érdekelt fél a 4. vagy a 6. §-ba ütköző magatartás tényét vagy annak veszélyét elvárható mértékben valószínűsítette. Az előzetes bizonyítás elrendelésének kérdésében hozott határozat ellen fellebbezésnek van helye.
 
-(8) A 4., illetve a 6. §-okban foglalt rendelkezések megsértése esetén ideiglenes intézkedés iránti kérelem a keresetlevél benyújtását megelőzően is előterjeszthető. Ez az eljárás a törvényszék hatáskörébe tartozik, amely a kérelmet nemperes eljárásban bírálja el. Az ideiglenes intézkedés iránti nemperes eljárásra e törvény, valamint a Polgári perrendtartásról szóló 1952. évi III. törvény általános szabályai – a nemperes eljárás sajátosságaiból fakadó eltérésekkel – megfelelően irányadók. Ha a kérelmező a 4. vagy a 6. §-okban foglalt rendelkezések megsértése miatt a pert a (9) bekezdésben foglaltak szerint megindította, a peres eljárás illetékeként a nemperes eljárásban lerótt illetéken felüli összeget kell megfizetni.
+(8) A 4., illetve a 6. §-okban foglalt rendelkezések megsértése esetén ideiglenes intézkedés iránti kérelem a keresetlevél benyújtását megelőzően is előterjeszthető. Ez az eljárás a törvényszék hatáskörébe tartozik, amely a kérelmet nemperes eljárásban bírálja el. Az ideiglenes intézkedés iránti nemperes eljárásra e törvény, valamint a polgári perrendtartásról szóló törvény általános szabályai – a nemperes eljárás sajátosságaiból fakadó eltérésekkel – megfelelően irányadók. Ha a kérelmező a 4. vagy a 6. §-okban foglalt rendelkezések megsértése miatt a pert a (9) bekezdésben foglaltak szerint megindította, a peres eljárás illetékeként a nemperes eljárásban lerótt illetéken felüli összeget kell megfizetni.
 
 (9) A bíróság az ideiglenes intézkedés tárgyában soron kívül, legkésőbb az ilyen intézkedés iránti kérelem előterjesztésétől számított tizenöt napon belül határoz. Az ideiglenes intézkedés tárgyában hozott határozat elleni fellebbezést a másodfokú bíróság soron kívül, legkésőbb a fellebbezés benyújtásától számított tizenöt napon belül bírálja el.
 
@@ -25,3 +25,5 @@ b) banki, pénzügyi és kereskedelmi adatok közlésére, illetve a birtokában
 (11) Ha a késedelem helyrehozhatatlan károkat okozna, az a rendkívül sürgős szükség esetének minősül, és erre figyelemmel az ideiglenes intézkedés – ideértve az (5) bekezdést is – elrendelésének kérdésében az ellenfél meghallgatása mellőzhető. Ha a késedelem helyrehozhatatlan károkat okozna, vagy ha valószínűsíthető a bizonyítékok megsemmisítésének kockázata, az sürgős esetnek minősül, és erre figyelemmel az előzetes bizonyítás elrendelésének kérdésében az ellenfél meghallgatása mellőzhető. Az ellenfél meghallgatásának mellőzésével hozott határozatot az ellenféllel a foganatosításkor kell közölni. A határozat közlését követően az ellenfél kérheti a meghallgatását és az ideiglenes intézkedést, illetve az előzetes bizonyítást elrendelő határozat megváltoztatását vagy hatályon kívül helyezését.
 
 (12) A bíróság – az (5) bekezdés második és harmadik mondatában foglalt esetet kivéve – az ideiglenes intézkedés, valamint az előzetes bizonyítás elrendelését biztosítékadáshoz kötheti. Ha az e bekezdés, illetve az (5) bekezdés szerinti biztosíték összegéből való kielégítésre jogosult fél igényét az előzetes bizonyítás tárgyában hozott végzést hatályon kívül helyező határozat, az ítélet vagy a pert befejező egyéb határozat jogerőre emelkedésétől vagy a per megszűnésétől számított három hónapon belül nem érvényesíti, a letevő a biztosíték visszaadását kérheti a bíróságtól.
+
+(13) A bíróságnak a 6/A. § (1) bekezdésében foglalt rendelkezések megsértése miatt folytatott eljárásában az összehasonlító reklám részét képező tényállítás valóságának bizonyítása az üzleti gyakorlat alkalmazóját terheli.

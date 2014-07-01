@@ -1,1 +1,1 @@
-79. § A bírság összege a 24. § szerinti engedély iránti kérelem előterjesztésének elmulasztása esetén legfeljebb napi kettőszázezer forint.
+79. § Az eljáró versenytanács határozatában tíz százalékkal csökkenti az e törvény egyéb rendelkezései alapján kiszabandó bírság mértékét azzal a vállalkozással szemben, amelyik a 73/A. § szerinti egyezségi nyilatkozatot tett.

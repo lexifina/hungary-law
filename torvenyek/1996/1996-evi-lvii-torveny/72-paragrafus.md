@@ -1,17 +1,7 @@
 ## A versenytanács eljárása
 
-72. § (1) Az eljáró versenytanács a vizsgáló jelentésének kézhezvételét követően
+72. § (1) Az eljáró versenytanács a vizsgáló jelentésének kézhezvételét követően az iratokat a vizsgálónak visszaadhatja, ha megállapítja, hogy a tényállás tisztázásához a vizsgálat folytatására van szükség, illetve az eljárás kiterjesztése vagy új ügyfél eljárásba vonása indokolt.
 
-a)
+(2) Az eljáró versenytanács a vizsgáló jelentése alapján dönt az irányítási jogoknak az érdemi döntés meghozataláig terjedő gyakorlására vonatkozó, 29/A. § szerinti kérelemről, szükség esetén irányításkorlátozó előírás alkalmazásáról.
 
-b) az iratokat a vizsgálónak visszaadhatja, ha megállapítja, hogy a tényállás tisztázásához további vizsgálatra van szükség, illetve az eljárás kiterjesztése, vagy új ügyfél eljárásba vonása indokolt;
-
-c) végzésében ideiglenes intézkedéssel megtilthatja a valószínűsíthetően a törvény rendelkezéseibe ütköző magatartás további folytatását, illetve elrendelheti a valószínűsíthetően a törvénybe ütköző állapot megszüntetését, ha erre – az érdekeltek jogi vagy gazdasági érdekeinek védelméhez, valamint a gazdasági verseny kialakulásának, fenntartásának vagy fejlesztésének veszélyeztetése miatt – halaszthatatlanul szükség van.
-
-(2) Ha az ideiglenes intézkedés elrendelését az ügyfél kérte, az eljáró versenytanács annak feltételéül biztosítékadást írhat elő. Az ideiglenes intézkedés elrendeléséről az eljáró versenytanács soron kívül határoz.
-
-(3) Az ideiglenes intézkedést elrendelő, illetve a biztosítékadást előíró végzés ellen külön jogorvoslatnak van helye (82. §).
-
-(4) Az eljáró versenytanács a vizsgálónak a vizsgálat lefolytatásának módja, iránya tekintetében javaslatot tehet a vizsgálat lezárását megelőzően is.
-
-(5)
+(3) Ha a 24. § szerinti engedély iránti kérelem alapján a 30. §-ra figyelemmel nem nyilvánvaló, hogy az összefonódás nem eredményezi az érintett piacon a verseny jelentős mértékű csökkenését, az eljáró versenytanács a vizsgáló jelentése alapján – az iratok vizsgálónak való visszaadása mellett – dönt az összefonódás piaci hatásai teljes körű vizsgálatának szükségességéről.

@@ -1,5 +1,3 @@
-## VIII. Fejezet
+43/B. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, valamint a Gazdasági Versenyhivatallal közszolgálati jogviszonyban, illetve munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott személy – a jogszabályban előírt adatszolgáltatást, illetve megismerhetővé tételt kivéve – e jogviszony fennállása alatt és annak megszűnését követően is köteles a Gazdasági Versenyhivatal tevékenységével, feladatának ellátásával kapcsolatban tudomására jutott korlátozottan megismerhető adatot, továbbá minden egyéb nem nyilvános adatot megőrizni, az ilyen adatot jogosulatlanul nem teheti közzé, nem hasznosíthatja, és nem hozhatja harmadik fél tudomására.
 
-## Ágazati vizsgálat
-
-43/B. § A Gazdasági Versenyhivatal ágazati vizsgálatára a 49–51. § rendelkezéseit megfelelően alkalmazni kell. Egyebekben az ágazati vizsgálatra – ha e Fejezet eltérően nem rendelkezik – megfelelően alkalmazandók a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezései.
+(2) Korlátozottan megismerhető adat – a közérdekből nyilvános adat kivételével – a hivatás gyakorlásához kötött titoknak vagy külön törvény által védett egyéb titoknak minősülő adat (a továbbiakban együtt: védett adat), a személyes adat és az olyan egyéb adat, amelynek megismerése az iratbetekintés során e törvény szerint korlátozott.

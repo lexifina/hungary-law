@@ -1,0 +1,1 @@
+87/A. § A bíróság a még közzé nem tett összehasonlító reklám közzétételét megtiltja, ha megállapítja, hogy az – közzététele esetén – a 6/A. § (1) bekezdésébe ütközne. A közzététel megtiltása ideiglenes intézkedésként is elrendelhető. A közzététel megtiltása mellett bírság kiszabásának nincs helye.

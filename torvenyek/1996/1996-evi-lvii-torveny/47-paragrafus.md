@@ -1,13 +1,5 @@
 ## A versenyfelügyeleti eljárás szakaszai, az eljáró szerv összetétele, kizárás
 
-47. § (1) A versenyfelügyeleti eljárás szakaszai:
+47. § (1) A versenyfelügyeleti eljárás szakaszai a vizsgálat és a versenytanácsi eljárás.
 
-a) a vizsgáló eljárása,
-
-b) a versenytanács eljárása,
-
-c) az utóvizsgálat,
-
-d) a végrehajtás.
-
-(2) Az eljárás folyamán a vizsgáló, illetve az eljáró versenytanács végzést hozhat, az ügy érdemében azonban csak az eljáró versenytanács hozhat határozatot.
+(2) A vizsgálati szakasz a vizsgáló 71. § (1) bekezdése szerinti jelentésének a Versenytanács elé terjesztéséig tart. Az eljáró versenytanács 72. § (1) vagy (3) bekezdése szerinti döntése esetén a vizsgálati szakasz folytatódik; az eljáró versenytanács a vizsgálónak a vizsgálat lefolytatásának módja, iránya tekintetében javaslatot tehet a vizsgálat lezárását megelőzően is.

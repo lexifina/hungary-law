@@ -4,6 +4,6 @@
 
 (3) Földrajzi terület az, amelyen kívül
 
-a) a fogyasztó, illetve az üzletfél nem, vagy csak számottevően kedvezőtlenebb feltételek mellett tudja az árut beszerezni, vagy
+a) az üzletfél nem, vagy csak számottevően kedvezőtlenebb feltételek mellett tudja az árut beszerezni, vagy
 
 b) az áru értékesítője nem, vagy csak számottevően kedvezőtlenebb feltételek mellett tudja az árut értékesíteni.

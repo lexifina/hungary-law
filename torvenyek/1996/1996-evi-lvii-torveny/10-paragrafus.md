@@ -1,1 +1,7 @@
-10. § Tilos az üzletfél választási szabadságát indokolatlanul korlátozó üzleti módszerek alkalmazása. Ilyen módszernek minősül különösen, ha olyan körülményeket teremtenek, amelyek jelentősen megnehezítik az áru, illetve az ajánlat valós megítélését, más áruval vagy más ajánlattal történő tárgyszerű összehasonlítását.
+10. § Az összehasonlító reklámban
+
+a) kizárólag azonos rendeltetésű vagy azonos szükségleteket kielégítő áruk hasonlíthatók össze,
+
+b) az összehasonlításnak az áruk lényeges, meghatározó, jellemző és ellenőrizhető tulajdonságára kell vonatkoznia, és – ha az ár is az összehasonlítás tárgyát képezi, akkor e vonatkozásban is – tárgyilagosnak kell lennie,
+
+c) eredetmegjelöléssel rendelkező termékek összehasonlítása kizárólag azonos eredetmegjelölésű termékekre vonatkozhat.

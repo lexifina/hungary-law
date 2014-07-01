@@ -8,13 +8,13 @@ c) a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII.
 
 hatálybalépése után indult és megismételt eljárásokban kell alkalmazni.
 
-(2) E törvénynek a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosításáról szóló 2005. évi. LXVIII. törvénnyel megállapított 67. § (4) bekezdését azon magatartások vonatkozásában kell alkalmazni, amelyek elkövetése – valamely helyzet vagy állapot fenntartásával megvalósuló magatartás esetén a helyzet vagy állapot megszűnése – óta 2005. november 1-jén még nem telt el három év.
+(2)
 
 (3) E törvénynek a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosításáról szóló 2009. évi. XIV. törvénnyel megállapított
 
-a) 30. § (2) bekezdését és 79. §-át az e rendelkezések hatálybalépését követően megvalósított összefonódások esetében,
+a) 30. § (2) bekezdését és 79. §-át az e rendelkezések hatálybalépését követően létrehozott összefonódások esetében,
 
-b) 79/A. és 79/B. §-át az e rendelkezések hatálybalépését követően előterjesztett kérelmek esetében,
+b) 78/A. §-át és 78/B. §-át az e rendelkezések hatálybalépését követően előterjesztett kérelmek esetében,
 
 c) 86. § (3) bekezdését, valamint 88. § (5)–(12) bekezdését az e rendelkezések hatálybalépését követően elkövetett jogszabálysértések esetében,
 
@@ -24,4 +24,4 @@ e) 88/D. §-át az e rendelkezés hatálybalépését követően tanúsított k�
 
 kell alkalmazni.
 
-(4) E törvénynek a stratégiailag kiemelt jelentőségű gazdálkodó szervezetek csődeljárásának és felszámolásának különleges szabályairól és az azzal összefüggő törvénymódosításokról szóló 2011. évi CXV. törvénnyel megállapított rendelkezéseit a hatálybalépésüket követően kezdeményezett eljárásokban kell alkalmazni.
+(4) E törvénynek a nemzetgazdasági szempontból kiemelt jelentőségű gazdálkodó szervezetek csődeljárásának és felszámolásának különleges szabályairól és az azzal összefüggő törvénymódosításokról szóló 2011. évi CXV. törvénnyel megállapított rendelkezéseit a hatálybalépésüket követően kezdeményezett eljárásokban kell alkalmazni.

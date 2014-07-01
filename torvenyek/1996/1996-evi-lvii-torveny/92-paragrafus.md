@@ -4,7 +4,7 @@
 
 ## Záró rendelkezések
 
-92. § (1) A Gazdasági Versenyhivatal pert indíthat a fogyasztók polgári jogi igényeinek érvényesítése iránt, ha a vállalkozás e törvénybe ütköző tevékenysége vagy az Fttv. alapján a Gazdasági Versenyhivatal hatáskörébe tartozó jogsértő magatartása a fogyasztók széles, a jogsértés körülményei alapján meghatározható körét érinti.
+92. § (1) A Gazdasági Versenyhivatal pert indíthat a fogyasztók polgári jogi igényeinek érvényesítése iránt, ha a vállalkozásnak a Gazdasági Versenyhivatal hatáskörébe tartozó jogsértő magatartása a fogyasztók széles, a jogsértés körülményei alapján meghatározható körét érinti.
 
 (2) A perindításra a Gazdasági Versenyhivatal csak akkor jogosult, ha az adott jogsértés miatt a versenyfelügyeleti eljárást már megindította. Ha a versenyfelügyeleti eljárás folyamatban van, a Gazdasági Versenyhivatal kérelmére a bíróság a per tárgyalását a versenyfelügyeleti eljárás befejezéséig felfüggeszti.
 
@@ -19,3 +19,5 @@
 (7) Ha a bíróság ítéletében a jogsértés tényének megállapításán túl a vállalkozást meghatározott követelés teljesítésére is kötelezte, a jogsértő köteles az (5) bekezdés szerint meghatározott jogosult fogyasztó igényét az ítéletnek megfelelően kielégíteni. Önkéntes teljesítés hiányában a jogosult fogyasztó kérheti az ítélet bírósági végrehajtását. A fogyasztó jogosultságát a bíróság az ítéletben meghatározott feltételek alapján a végrehajtási lap kiállítására irányuló eljárásában vizsgálja.
 
 (8) Az e § szerinti, a Gazdasági Versenyhivatal általi igényérvényesítés nem érinti a fogyasztónak azt a jogát, hogy a jogsértővel szemben a polgári jog szabályai szerint igényét önállóan érvényesítse.
+
+(9) E § alkalmazásában fogyasztó az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.

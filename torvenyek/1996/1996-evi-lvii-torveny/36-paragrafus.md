@@ -26,8 +26,8 @@ d) a Kormány ülésén a Gazdasági Versenyhivatal feladatkörét érintő kér
 
 (4)
 
-(5) A Kormány, a miniszterek vagy a nemzetközi szervezetek felkérésére a Gazdasági Versenyhivatal elnöke tájékoztatást ad a gazdasági versenyt érintően a működése során szerzett tapasztalatairól és a gazdasági versennyel kapcsolatos kérdésekről. Ennek érdekében a Gazdasági Versenyhivatal önkéntes válaszadáson alapuló adatgyűjtést végezhet és információt kérhet.
+(5) A Kormány, a miniszterek vagy a nemzetközi szervezetek felkérésére a Gazdasági Versenyhivatal elnöke tájékoztatást ad a gazdasági versenyt érintően a működése során szerzett tapasztalatairól és a gazdasági versennyel kapcsolatos kérdésekről.
 
 (6) A Gazdasági Versenyhivatal elnöke a Versenytanács elnökével együttesen a Gazdasági Versenyhivatal jogalkalmazási gyakorlatának alapjait ismertető közleményt adhat ki. A közleménynek kötelező ereje nincs, rendeltetése a jogalkalmazás kiszámíthatóságának növelése.
 
-(7) A Gazdasági Versenyhivatal elnöke a Gazdasági Versenyhivatalnak a magyarországi és európai közösségi versenykultúra fejlesztése, valamint a regionális versenyjogi intézményrendszer fejlesztésének előmozdítása érdekében létrehozott szervezeti egységét az alapító határozatban önálló jogi személyiséggel ruházhatja fel.
+(7) A Gazdasági Versenyhivatal elnöke a Gazdasági Versenyhivatalnak a magyarországi és európai uniós versenykultúra fejlesztése, valamint a regionális versenyjogi intézményrendszer fejlesztésének előmozdítása érdekében létrehozott szervezeti egységét az alapító határozatban önálló jogi személyiséggel ruházhatja fel.

@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-57-00-00
 | 2013-11-22 | 2013. évi CXCI. törvény | 1996-57-00-00.39 |
 | 2014-01-01 | 2013. évi CCI. törvény | 1996-57-00-00.40 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1996-57-00-00.41 |
+| 2014-07-01 | 2013. évi CCI. törvény | 1996-57-00-00.42 |

@@ -1,1 +1,7 @@
-43/F. § Az, akire nézve a végzés rendelkezést tartalmaz, a végzés közlésétől számított tizenöt napon belül a 43/C. § (2) bekezdése szerinti eljárási bírságot kiszabó végzés, valamint a 43/D. § (3) bekezdése szerinti, az iratok üzleti titokként kezelését elutasító végzés bírósági felülvizsgálatát kérheti. A kérelmet a bíróság soron kívül bírálja el.
+43/F. § Ha a piacelemzés, illetve az ágazati vizsgálat eredménye alapján olyan piaci zavar áll fenn, amely versenyfelügyeleti eljárás révén nem vagy nem teljes körűen orvosolható, a Gazdasági Versenyhivatal
+
+a) erről tájékoztatja az Országgyűlés feladatkörrel rendelkező bizottságát, illetve a feladat- és hatáskörrel rendelkező minisztert vagy hatóságot,
+
+b) kötelező erővel nem rendelkező nyilvános ajánlást adhat ki a piaci szereplők számára a tisztességes és hatékony verseny fenntartását és előmozdítását, az üzletfelek megfelelő tájékoztatását elősegítő legjobb gyakorlatokra, követendőként ajánlott piaci magatartásra vonatkozóan, vagy
+
+c) szükség esetén jogszabály megalkotását vagy módosítását kezdeményezheti az arra jogosult szervnél.

@@ -2,66 +2,64 @@
 
 63. § (1) Az ügyek alapos vizsgálatáról és ésszerű időn belül történő befejezéséről hivatalból kell gondoskodni.
 
-(2) Ha törvény más határidőt nem állapít meg, az eljárást befejező döntést
+(2) Az eljárást befejező döntést
 
-a) a 8–10. § alapján indult ügyekben a vizsgálat elrendelésétől számított három hónapon belül,
+a) a III. Fejezet alapján indult eljárásban a vizsgálat elrendelésétől számított három hónapon belül,
 
-b) a 11. és 21. § alapján indult ügyekben a vizsgálat elrendelésétől számított hat hónapon belül,
+b) a 11. § és a 21. §, illetve az EUMSz. 101. vagy 102. cikke alapján indult eljárásban a vizsgálat elrendelésétől számított hat hónapon belül,
 
-c) a 24. § szerinti engedély iránti kérelem benyújtásának elmulasztása miatt a 67. § (3) bekezdése alapján indított eljárás esetében a vizsgálat elrendelésétől számított hat hónapon belül
+c) a 29. § szerinti tilalom ellenére végrehajtott összefonódás miatt a 67. § (2) bekezdése alapján indított eljárásban a vizsgálat elrendelésétől számított hat hónapon belül,
 
-kell meghozni.
+d) a 24. § szerinti engedély iránti kérelem alapján indult eljárásban – a (3) bekezdés szerinti eltéréssel – harminc napon belül,
 
-(3) Vállalkozások összefonódásának ellenőrzése során az eljárást befejező döntést a hiánytalan kérelem, illetve a hiánypótlás beérkezését követő naptól számított
+e) a 25. § szerinti engedély iránti kérelem alapján indult eljárásban negyvenöt napon belül
 
-a) negyvenöt napon belül kell meghozni a 25. § alapján benyújtott kérelem esetében, továbbá amennyiben
+kell meghozni és gondoskodni a közléséről.
 
-aa) a 23. § és 25. § értelmében nem jön létre összefonódás, vagy
+(3) Ha az eljáró versenytanács a 72. § (3) bekezdése alapján az összefonódás teljes körű vizsgálatának szükségességéről dönt, az eljárást befejező döntést négy hónapon belül kell meghozni, és gondoskodni a közléséről.
 
-ab) az összefonódás a 24. § szerinti értéket nem éri el, vagy
+(4) Az ügyintézési határidő számításánál – a Ket.-ben foglaltakon túl – nem kell figyelembe venni
 
-ac) az engedély a 30. § (2) bekezdése alapján nyilvánvalóan nem tagadható meg;
+a) az ügyfél megszűnésétől
 
-b) az a) pontban nem említett esetekben
+aa) a jogutódnak a hivatalból indult eljárásba való bevonásáig,
 
-ba) a 28. § (4) bekezdése szerinti esetben három hónapon belül,
+ab) a jogutódlás megállapítására irányuló kérelem benyújtására előírt határidő leteltéig, határidőben benyújtott kérelem esetén annak elbírálásáig,
 
-bb) minden egyéb esetben négy hónapon belül
+b) a kérelemre indult eljárásban ügyfélként részt nem vevő vállalkozásnak az eljárásba ügyfélként való belépésére vonatkozó felhívástól a vállalkozás ügyfélként való belépéséig, de legfeljebb a belépésre való felhívásban meghatározott határidő leteltéig,
 
-kell meghozni.
+c) az ügyfél törvényes képviselőjének halála esetén – ha az ügyfélnek nem volt meghatalmazott képviselője – az új törvényes képviselő bejelentéséig,
 
-(4) A (3) bekezdés b) pontjának alkalmazásáról az eljáró versenytanács a hiánytalan kérelem, illetve a hiánypótlás beérkezését követő naptól számított negyvenöt napon belül dönt.
+d) a vizsgáló és a versenytanácstag kizárására vonatkozó kizáró oknak a vizsgáló, illetve a versenytanácstag által való bejelentésétől annak elintézéséig,
 
-(5) Az ügyintézési határidő számításánál – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túl – nem kell figyelembe venni
+e) a védett adat jogosultjának 55/B. § (2) vagy (3) bekezdése szerinti, illetve az ügyfélnek a 65/C. § (6) bekezdése szerinti nyilatkozattételre való felhívásától a nyilatkozat megtételéig, de legfeljebb az arra előírt határidő lejártáig,
 
-a) a jogutód eljárásba vonásáig, illetve az eljárásba való önkéntes belépéséig, valamint a megfelelő ügyfél eljárásba vonásáig, illetve a kérelemnek a megfelelő ügyfélre való kiterjesztéséig,
+f) a 64/B. § (4) bekezdése szerinti felvilágosítás adására, illetve adatok, iratok szolgáltatására való felszólítástól az annak teljesítéséig, de legfeljebb a teljesítésre előírt határidő lejártáig,
 
-b) az ügyfél törvényes képviselőjének halála esetén – ha a törvényes képviselőnek nem volt meghatalmazottja – az ügyfél új törvényes képviselőjének bejelentéséig,
+g) az eljáró versenytanács előzetes álláspontjának, illetve a vizsgálatot lezáró jelentésnek a 73. § szerint az ügyfél részére való megküldésétől az ügyfél nyilatkozatának megtételéig, de legfeljebb a nyilatkozattételre biztosított határidő lejártáig,
 
-c)–f)
+h) a 75/A. § szerinti felhívás közzétételétől az észrevételek benyújtására előírt határidő lejártáig,
 
-g) a versenytanács tag kizárásának elintézéséig,
+i) a 65/A. §-ban és a 65/C. §-ban meghatározott nemperes eljárások megindításától a bíróság végzésének meghozataláig,
 
-h) a 65/A. §-ban és a 65/B. §-ban meghatározott nemperes eljárások megindításától a bíróság határozatának meghozataláig,
-
-i) ha az eljáró versenytanács végzésének bírósági felülvizsgálata iránti kérelemről való döntés hiánya a döntés meghozatalának akadályát képezi, a bírósági felülvizsgálati eljárásban a jogerős döntés meghozataláig
+j) a vizsgálónak, illetve az eljáró versenytanácsnak az iratbetekintés tárgyában hozott végzése közlésétől a végzéssel szembeni jogorvoslati határidő lejártáig vagy – ha a jogorvoslati jogról korábban lemondtak – az utolsóként kézhez kapott lemondás beérkezéséig, valamint a vizsgáló végzésével szembeni fellebbezés esetén a versenytanács jogerős döntésének, illetve az eljáró versenytanács végzésének bírósági felülvizsgálatára irányuló eljárásban a bíróság jogerős végzésének meghozataláig
 
 eltelt időt.
 
-(6) Az ügyintézési határidő indokolt esetben
+(5) Az ügyintézési határidőt a Gazdasági Versenyhivatal elnöke, illetve – a versenytanácsi eljárás szakaszában – a Versenytanács elnöke indokolt esetben annak letelte előtt
 
-a) a (2) bekezdés a) pontja szerinti esetekben két alkalommal, egyenként legfeljebb két hónappal,
+a) a (2) bekezdés a) pontja szerinti eljárásban két alkalommal, egyenként legfeljebb két hónappal,
 
-b) a (2) bekezdés b) pontja szerinti esetekben két alkalommal, egyenként legfeljebb hat hónappal,
+b) a (2) bekezdés b) pontja szerinti eljárásban két alkalommal, egyenként legfeljebb hat hónappal,
 
-c) a (2) bekezdés c) pontja szerinti esetekben legfeljebb két hónappal,
+c) a (2) bekezdés c) pontja szerinti eljárásban egy alkalommal legfeljebb két hónappal,
 
-d) a (3) bekezdés a) pontja esetében húsz nappal,
+d) a (2) bekezdés d) pontja szerinti eljárásban egy alkalommal legfeljebb húsz nappal,
 
-e) a (3) bekezdés b) pont ba) alpontja szerinti esetben legfeljebb húsz nappal,
+e) a (3) bekezdés szerinti esetben további egy alkalommal, legfeljebb két hónappal
 
-f) a (3) bekezdés b) pont bb) alpontja szerinti esetben legfeljebb két hónappal
+meghosszabbíthatja.
 
-meghosszabbítható.
+(6) A szakértői vélemény elkészítésének határideje harminc nap, amely a szakértő indokolt kérelmére egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
-(7) A vizsgáló kizárása esetben a vizsgálati határidők az új vizsgáló kijelölésével újra kezdődnek.
+(7) A napokban megállapított határidőbe nem számít bele a 33/B. § szerinti igazgatási szünet időtartama. Ha a hónapokban megállapított határidő az igazgatási szünet ideje alatt járna le, a határidő az igazgatási szünetet követő első napon jár le.

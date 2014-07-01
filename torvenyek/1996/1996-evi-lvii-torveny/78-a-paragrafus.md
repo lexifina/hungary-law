@@ -1,14 +1,18 @@
-78/A. § (1) Az eljáró versenytanács a bírság kiszabását mellőzi vagy a bírságot csökkenti azzal a vállalkozással szemben, amely e törvényben meghatározott módon felfedi a Gazdasági Versenyhivatalnak a 11. §-ba vagy az EK-Szerződés 81. cikkébe ütköző olyan versenytársak közötti megállapodást vagy összehangolt magatartást, amely közvetlenül vagy közvetve vételi vagy az eladási árak rögzítésére, a piac felosztására – beleértve a versenytárgyalási összejátszást is –, vagy termelési, eladási kvóták meghatározására irányul (a továbbiakban a 78/A. és 78/B. § alkalmazásában: jogsértés). A 78/A. és 78/B. § alkalmazásában vállalkozásnak minősülnek mindazon szervezetek is, amelyek döntése a 11. § alkalmazásában megállapodásnak minősül.
+## Engedékenység alkalmazása
 
-(2) A bírság kiszabása azzal a vállalkozással szemben mellőzendő, amely elsőként nyújt be erre irányuló kérelmet és szolgáltat olyan bizonyítékot,
+78/A. § (1) Az eljáró versenytanács a bírság kiszabását mellőzi vagy a bírságot csökkenti annak a vállalkozásnak a tekintetében, amely az e törvényben meghatározott módon feltárja a Gazdasági Versenyhivatalnak a 11. §-ba, illetve az EUMSz. 101. cikkébe ütköző, közvetlenül vagy közvetve a vételi vagy az eladási árak rögzítésére, a piac felosztására – beleértve a versenytárgyalási összejátszást is –, vagy a termelési, eladási kvóták meghatározására irányuló versenytársak közötti megállapodást vagy összehangolt magatartást (a továbbiakban a 78/A–78/C. § alkalmazásában: jogsértés) és az abban való részvételét.
 
-a) amely a Gazdasági Versenyhivatalnak alapot szolgáltat arra, hogy a jogsértéssel kapcsolatban a 65/A. § szerinti vizsgálati cselekmény végzésére kapjon előzetes bírói engedélyt, feltéve, hogy a Gazdasági Versenyhivatal a kérelem benyújtásának időpontjában nem rendelkezett elegendő információval a 65/A. § szerinti vizsgálati cselekmény bíróság általi engedélyezésének megalapozásához, illetve nem került még sor ilyen vizsgálati cselekményre;
+(2) A bírság kiszabását az eljáró versenytanács annak a vállalkozásnak a tekintetében mellőzi, amely elsőként nyújt be erre irányuló kérelmet és szolgáltat olyan bizonyítékot,
 
-b) amellyel a jogsértés elkövetése bizonyítható, feltéve, hogy a kérelem benyújtásának időpontjában a Gazdasági Versenyhivatal még nem rendelkezett elegendő bizonyítékkal ahhoz, hogy a jogsértést bizonyítsa, és egyetlen vállalkozás sem felel meg az a) pontnak.
+a) amely a Gazdasági Versenyhivatalnak alapot szolgáltat arra, hogy a jogsértéssel kapcsolatban helyszíni kutatás végzésére kapjon előzetes bírói engedélyt, feltéve, hogy a Gazdasági Versenyhivatal a kérelem benyújtásának időpontjában nem rendelkezett elegendő információval a helyszíni kutatás bíróság általi engedélyezésének megalapozásához,
 
-(3) Kérelem alapján a bírság csökkentésének van helye, ha a vállalkozással szemben a bírság kiszabása nem mellőzhető és a vállalkozás olyan, a jogsértésre vonatkozó bizonyítékot ad át a Gazdasági Versenyhivatalnak, amely jelentős többletértéket képvisel a kérelem benyújtásának időpontjában a Gazdasági Versenyhivatal rendelkezésére álló bizonyítékokhoz képest. A kérelem előterjesztésére legkésőbb az előzetes álláspont közlését, illetve az iratbetekintés bármelyik ügyfélre nézve irányadó kezdő napját megelőző nap közül a korábban bekövetkező napon kerülhet sor.
+b) amellyel a jogsértés elkövetése bizonyítható, feltéve, hogy a bizonyíték szolgáltatásának időpontjában a Gazdasági Versenyhivatal még nem rendelkezett elegendő bizonyítékkal ahhoz, hogy a jogsértést bizonyítsa, és egyetlen vállalkozás sem felel meg az a) pontnak.
 
-(4) A bírság csökkentésének mértéke a (3) bekezdés szerinti feltételnek
+(3) Kérelem alapján az eljáró versenytanács a kiszabandó bírság összegét csökkenti, ha a (2) bekezdés szerint a bírság mellőzésének nincs helye, és a vállalkozás a jogsértésre vonatkozó olyan bizonyítékot szolgáltat a Gazdasági Versenyhivatalnak, amely jelentős többletértéket képvisel a bizonyíték szolgáltatásának időpontjában a Gazdasági Versenyhivatal rendelkezésére álló bizonyítékokhoz képest.
+
+(4) Az előzetes álláspontnak vagy a vizsgáló jelentésének a 73. § szerinti megküldését, illetve az iratbetekintés bármelyik ügyfélre nézve irányadó kezdő napját megelőző nap közül a korábban bekövetkező napot követően benyújtott kérelem alapján csak akkor van helye a kiszabandó bírság összege csökkentésének, ha abban a jogsértés elbírálását érdemben befolyásoló olyan tényre vagy körülményre nézve szolgáltat a vállalkozás egyértelmű bizonyítékot, amely korábban a Gazdasági Versenyhivatal előtt nem volt ismert.
+
+(5) A bírság csökkentésének mértéke a (3) bekezdés szerinti feltételnek
 
 a) elsőként megfelelő vállalkozás esetén 30–50%-ig;
 
@@ -18,14 +22,16 @@ c) harmadikként vagy többedikként megfelelő további vállalkozás esetén 2
 
 terjedhet.
 
-(5) Ha a vállalkozás olyan, a Gazdasági Versenyhivatal előtt nem ismert tényre vonatkozóan szolgáltat bizonyítékot a jogsértéssel kapcsolatban, amely közvetlen jelentősséggel bír a 78. § (3) bekezdése alapján a bírság összegének megállapításakor figyelembe veendő körülményekre vonatkozóan, az eljáró versenytanács a súlyosbító bizonyítékot nem veszi figyelembe a bizonyítékot szolgáltató vállalkozással szemben a bírság összegének meghatározásakor.
+(6) Ha a (3) bekezdés szerinti esetben a vállalkozás a jogsértés miatt kiszabandó bírság összegének megállapításakor figyelembe veendő, a Gazdasági Versenyhivatal előtt korábban nem ismert olyan tényre vagy körülményre vonatkozóan szolgáltat egyértelmű bizonyítékot, amely tény vagy körülmény a kiszabandó bírság mértékét érdemben növeli, a vállalkozással szemben kiszabandó bírság összegének meghatározásakor az ilyen tényt vagy körülményt figyelmen kívül kell hagyni.
 
-(6) A bírság mellőzésének, csökkentésének, illetve az (5) bekezdés alapján való meghatározásának további feltétele, hogy a vállalkozás
+(7) A bírság mellőzésének, csökkentésének, illetve a (6) bekezdés alkalmazásának további feltétele, hogy a vállalkozás, amelyre a kérelem vonatkozik
 
-a) a jogsértésben való részvételét azonnal megszüntesse a kérelme benyújtását, illetve az (5) bekezdés szerinti esetben a bizonyíték szolgáltatását követően, kivéve az olyan jellegű és mértékű részvételét a jogsértésben, amely a Gazdasági Versenyhivatalnak a vállalkozással végzésben közölt álláspontja szerint szükséges lehet a 65/A. §-a szerinti vizsgálati cselekmény eredményes lefolytatásához; és
+a) a kérelem benyújtását követően azonnal megszüntesse részvételét a jogsértésben, kivéve az ahhoz elengedhetetlenül szükséges mértékű és jellegű részvételt, amelyre a helyszíni kutatás eredményességének biztosítása érdekében a Gazdasági Versenyhivatal végzésben kötelezte,
 
-b) jóhiszeműen, teljes mértékben és folyamatosan együttműködik a Gazdasági Versenyhivatallal a versenyfelügyeleti eljárás befejezéséig.
+b) a versenyfelügyeleti eljárás befejezéséig jóhiszeműen, teljes mértékben és folyamatosan együttműködik a Gazdasági Versenyhivatallal, és
 
-(7) Azzal a vállalkozással szemben, amely eljárt annak érdekében, hogy másik vállalkozást a jogsértésben való részvételre kényszerítsen, nem mellőzhető a bírság kiszabása.
+c) a Gazdasági Versenyhivatal kifejezett hozzájárulása nélkül a bírság mellőzése, illetve csökkentése iránti kérelem benyújtásának tényét és az ezzel összefüggésben szolgáltatott bizonyítékok tartalmát – a más versenyhatósághoz benyújtott hasonló kérelmet ide nem értve – másnak semmilyen módon nem teszi hozzáférhetővé; a Gazdasági Versenyhivatal nem tagadhatja meg a hozzájárulást a kérdéses információk olyan hozzáférhetővé tételéhez, amely jogszabályi rendelkezés vagy hatósági kötelezés miatt elkerülhetetlenül szükséges.
 
-(8) Több vállalkozás közösen vagy egy vállalkozás több vállalkozás nevében nem nyújthat be bírság mellőzése, illetve csökkentése iránti kérelmet, illetve nem szolgáltathat bizonyítékot az (5) bekezdés alapján.
+(8) Azzal a vállalkozással szemben, amely eljárt annak érdekében, hogy másik vállalkozást a jogsértésben való részvételre kényszerítsen, nem mellőzhető a bírság kiszabása.
+
+(9) Egymástól független vállalkozások közösen nem nyújthatnak be bírság mellőzése vagy csökkentése iránti kérelmet, és az ilyen kérelem benyújtása kapcsán egymást nem képviselhetik. A vállalkozás bírság mellőzése vagy csökkentése iránti kérelmet az általa irányított vállalkozásokra kiterjedően külön meghatalmazás nélkül is benyújthat.

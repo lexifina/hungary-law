@@ -1,1 +1,1 @@
-9. § A használt kifejezéseknek az üzleti életben elfogadott általános jelentése az irányadó annak megállapításánál, hogy a tájékoztatás megtévesztésre alkalmas-e.
+9. § Tilos az üzletfél választási szabadságát indokolatlanul korlátozó üzleti gyakorlat alkalmazása, így különösen olyan körülmények teremtése, amelyek jelentősen megnehezítik az áru, illetve az ajánlat valós megítélését, más áruval vagy más ajánlattal történő tárgyszerű összehasonlítását, ha ez befolyásolja az üzletfelek vagy lehetséges üzletfelek gazdasági magatartását, vagy erre alkalmas.

@@ -2,7 +2,7 @@
 
 a) az hozzájárul a termelés vagy a forgalmazás ésszerűbb megszervezéséhez, vagy a műszaki vagy a gazdasági fejlődés előmozdításához, vagy a környezetvédelmi helyzet vagy a versenyképesség javulásához;
 
-b) a megállapodásból származó előnyök méltányos része a fogyasztóhoz, illetve az üzletfélhez jut;
+b) a megállapodásból származó előnyök méltányos része a végső üzletfelekhez jut;
 
 c) a gazdasági verseny velejáró korlátozása vagy kizárása a gazdaságilag indokolt közös célok eléréséhez szükséges mértéket nem haladja meg; és
 

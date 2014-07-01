@@ -1,27 +1,27 @@
-## Utóvizsgálat
+## Határozat
 
-76. § (1) A vizsgáló utóvizsgálatot tart
+76. § (1) Az eljáró versenytanács határozatában
 
-a) a 75. § szerinti végzésben meghatározott kötelezettség teljesítésének,
+a) a 67. § (1) bekezdése szerinti kérelem alapján a 24. § szerinti összefonódást – szükség esetén előzetes vagy utólagos feltétel, illetve kötelezettség előírásával – engedélyezi vagy megtiltja, illetve a 25. § alapján engedélyezi az egyéves átmeneti időszak meghosszabbítását, vagy az erre irányuló kérelmet elutasítja,
 
-b) a határozatban foglalt, a 30. § (3) bekezdése szerinti előzetes vagy utólagos feltétel teljesülésének,
+b) a 67. § (2) bekezdése alapján indított eljárásban a vállalkozások összefonódását – szükség esetén előzetes vagy utólagos feltétel, illetve kötelezettség előírásával – utólagosan engedélyezi vagy megtiltja,
 
-c) a határozatban foglalt, a 30. § (3) bekezdése szerinti kötelezettség teljesítésének
+c) a 75. § alapján a vállalkozást a kötelezettségvállalás teljesítésére kötelezi,
 
-ellenőrzése érdekében.
+d) a 16/A. § alapján megállapíthatja, hogy a csoportos mentesülés kedvezménye nem vonatkozik a megállapodásra,
 
-(2) A vizsgáló az eljáró versenytanács határozatával befejezett ügyben utóvizsgálatot tarthat.
+e) megállapíthatja a jogsértés tényét,
 
-(3) Az utóvizsgálatra a versenyfelügyeleti eljárásra vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+f) elrendelheti a jogsértő állapot megszüntetését,
 
-(4) Az eljáró versenytanács a vizsgáló jelentése alapján
+g) megtilthatja a jogsértő magatartás további folytatását,
 
-a) az (1) bekezdés a) pontja szerinti esetben, ha az ügyfél a vállalt kötelezettséget nem teljesítette, végzéssel bírságot (78. §) szab ki, kivéve, ha a körülmények változására tekintettel a kötelezettség teljesítésének kikényszerítése nem indokolt; ilyen esetben, továbbá akkor, ha az ügyfél a vállalt kötelezettséget teljesítette, az utóvizsgálatot végzéssel megszünteti;
+h) jogsértés megállapítása esetén kötelezettséget írhat elő, így különösen az ügylet jellegének megfelelő üzleti kapcsolat létrehozásától vagy további fenntartásától való indokolatlan elzárkózás esetén szerződéskötésre kötelezhet,
 
-b) az (1) bekezdés b) pontja szerinti esetben végzéssel megállapítja, hogy az előzetes vagy utólagos feltétel teljesült-e;
+i) elrendelheti a jogsértő tájékoztatással kapcsolatban helyreigazító nyilatkozat közzétételét,
 
-c) az (1) bekezdés c) pontja szerinti esetben a kötelezettség teljesítése esetén az utóvizsgálatot végzéssel megszünteti, nemteljesítés esetén pedig korábbi határozatát a 32. § szerint visszavonja, vagy – ha a kötelezettség teljesítése nem indokolt – módosítja;
+j) megállapíthatja, hogy a magatartás nem jogsértő, illetve
 
-d) a (2) bekezdés szerinti esetben a határozat önkéntes teljesítésének megállapítása esetén az utóvizsgálatot végzéssel megszünteti, teljesítés hiányában végzéssel megindítja a végrehajtást.
+k) bírságot szabhat ki.
 
-(5) A (4) bekezdés a) pontja szerinti, bírságot kiszabó végzéssel szemben külön jogorvoslatnak van helye (82. §).
+(2) Az összefonódást megtiltó határozatban az eljáró versenytanács – ha alkalmazandó – egyidejűleg dönt a 31. § szerinti intézkedés alkalmazásáról is.

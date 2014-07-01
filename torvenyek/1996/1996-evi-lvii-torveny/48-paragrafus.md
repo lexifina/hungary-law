@@ -1,3 +1,3 @@
-48. § (1) Az eljáró versenytanács döntéseit háromtagú vagy öttagú tanácsban hozza meg.
+48. § (1) Ha e törvény eltérően nem rendelkezik, a vizsgálati szakaszban a vizsgáló, a versenytanácsi eljárásban az eljáró versenytanács hozza meg a döntéseket és teszi meg a szükséges egyéb intézkedéseket.
 
-(2) Ha e törvény eljáró versenytanácsot említ, azon az (1) bekezdésben meghatározott tanácsot kell érteni. Egyéb esetekben a vizsgáló vagy az eljáró versenytanács tagja egyedül is eljárhat.
+(2) A Versenytanács döntéseit a Versenytanács elnöke által a Versenytanács szervezeti és működési szabályzatában meghatározottak szerint a Versenytanács tagjai közül kijelölt háromtagú vagy öttagú tanácsban eljárva hozza meg azzal, hogy az eljáró versenytanács előadó versenytanácstagként kijelölt tagja egyedül eljárva is meghozhatja az olyan végzést, amely ellen önálló jogorvoslatnak nincs helye, és megteheti a szükséges egyéb intézkedéseket.

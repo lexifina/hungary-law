@@ -10,7 +10,7 @@ a) a vételi vagy az eladási árak, valamint az egyéb üzleti feltételek köz
 
 b) az előállítás, a forgalmazás, a műszaki fejlesztés vagy a befektetés korlátozására vagy ellenőrzés alatt tartására;
 
-c) a beszerzési források felosztására, illetve a közülük való választás lehetőségének korlátozására, valamint a fogyasztók, üzletfelek meghatározott körének valamely áru beszerzéséből történő kizárására;
+c) a beszerzési források felosztására, illetve a közülük való választás lehetőségének korlátozására, valamint az üzletfelek meghatározott körének valamely áru beszerzéséből történő kizárására;
 
 d) a piac felosztására, az értékesítésből történő kizárásra, az értékesítési lehetőségek közötti választás korlátozására;
 

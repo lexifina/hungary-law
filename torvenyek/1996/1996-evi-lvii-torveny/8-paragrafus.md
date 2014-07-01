@@ -4,12 +4,44 @@
 
 8. § (1) Tilos a gazdasági versenyben az üzletfeleket megtéveszteni.
 
-(2) Az üzletfelek megtévesztésének minősül különösen, ha
+(2) Az üzletfelek megtévesztésének minősül a vállalkozásnak, illetve a vállalkozás érdekében vagy javára eljáró személynek az áru értékesítésével, szolgáltatásával vagy eladásösztönzésével közvetlen kapcsolatban álló olyan üzleti kommunikációja – ideértve bármely információközlést, annak megjelenési módjától, eszközétől függetlenül –, egyéb magatartása, tevékenysége vagy mulasztása (a továbbiakban együtt: üzleti gyakorlat), amely
 
-a) az áru ára, lényeges tulajdonsága – így különösen összetétele, használata, az egészségre és a környezetre gyakorolt hatása, valamint kezelése, továbbá az áru eredete, származási helye, beszerzési forrása vagy módja – tekintetében valótlan tényt vagy valós tényt megtévesztésre alkalmas módon állítanak, az árut megtévesztésre alkalmas árujelzővel látják el, vagy az áru lényeges tulajdonságairól bármilyen más, megtévesztésre alkalmas tájékoztatást adnak;
+a) jelentős információ tekintetében valótlan tényt tartalmaz, vagy valós tényt – figyelemmel megjelenésének valamennyi körülményére – olyan módon jelenít meg, hogy megtéveszti vagy alkalmas arra, hogy megtévessze azokat az üzletfeleket, akik felé irányul, vagy akik tudomására juthat, vagy
 
-b) elhallgatják azt, hogy az áru nem felel meg a jogszabályi előírásoknak vagy az áruval szemben támasztott szokásos követelményeknek, továbbá, hogy annak felhasználása a szokásostól lényegesen eltérő feltételek megvalósítását igényli;
+b) – figyelembe véve valamennyi tényszerű körülményt, továbbá a kommunikáció eszközének korlátait – az adott helyzetben az üzletfél üzleti döntéséhez szükséges és ezért jelentős információt elhallgat, elrejt, vagy azt homályos, érthetetlen, félreérthető vagy időszerűtlen módon bocsátja rendelkezésre,
 
-c) az áru értékesítésével, forgalmazásával összefüggő, az üzletfél döntését befolyásoló körülményekről – így különösen a forgalmazási módról, a fizetési feltételekről, a kapcsolódó ajándékokról, az engedményekről, a nyerési esélyről – megtévesztésre alkalmas tájékoztatást adnak;
+és ezáltal befolyásolja az üzletfelek vagy lehetséges üzletfelek gazdasági magatartását, vagy erre alkalmas.
 
-d) különösen előnyös vásárlás hamis látszatát keltik.
+(3) A (2) bekezdés alkalmazásában jelentősnek minősül különösen az olyan információ, amely az alábbiak közül egy vagy több tényezőre vonatkozik:
+
+a) az áru lényeges jellemzői, így különösen
+
+aa) kivitelezése, összetétele, műszaki jellemzői,
+
+ab) mennyisége,
+
+ac) származási helye, eredete,
+
+ad) előállításának vagy szolgáltatásának módja és időpontja,
+
+ae) beszerezhetősége, szállítása,
+
+af) alkalmazása, a használatához, fenntartásához szükséges ismeretek,
+
+ag) az adott célra való alkalmassága, a használatától várható eredmények,
+
+ah) az a tény, hogy az áru megfelel-e a rá vonatkozó jogszabályban vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában előírt követelménynek vagy – ilyen előírás hiányában – az áruval szemben támasztott szokásos követelményeknek,
+
+ai) veszélyessége, kockázatai,
+
+aj) egészségre gyakorolt hatásai,
+
+ak) környezeti hatásai, energiafelhasználási ismérvei, továbbá
+
+al) tesztelése, ellenőrzöttsége vagy annak eredménye,
+
+b) az áru ára, illetve díja, az ár, illetve díj megállapításának módja,
+
+c) az áru megvételének, illetve igénybevételének a b) pontban meghatározotton túli egyéb szerződéses feltétele, továbbá
+
+d) a vállalkozás vagy képviselőjének személye, a vállalkozás jellemzői és jogai, így különösen a jogállása, vagyona, szellemi alkotásokon fennálló jogai és kereskedelmi tulajdonjoga, képesítései, díjai és kitüntetései.

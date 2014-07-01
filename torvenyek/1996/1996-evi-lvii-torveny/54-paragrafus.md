@@ -1,23 +1,3 @@
-## A képviselet
+## Jogi személy adatainak zárt kezelése
 
-54. § (1)
-
-(2) Meghatalmazottként eljárhat
-
-a) az ügyféltárs, továbbá annak törvényes képviselője vagy meghatalmazottja,
-
-b) az ügyfél hozzátartozója,
-
-c) ügyvéd, ügyvédi iroda,
-
-d) állami szerv ügyintézője, az állami szerv tevékenységével kapcsolatos ügyekben,
-
-e) a vállalkozás ügyintézésre jogosult tagja vagy alkalmazottja a vállalkozás ügyeiben,
-
-f) az adott gazdasági tevékenységben érintettek érdekképviseleti szervezete,
-
-g) akit erre jogszabály feljogosít.
-
-(3) A (2) bekezdés f) pontja szerinti meghatalmazott esetében a vizsgáló vagy az eljáró versenytanács kötelezheti az ügyfelet más meghatalmazott megbízására, ha az ügyben előreláthatólag az érdekképviseleti szervezet meghallgatását el fogja rendelni.
-
-(4)
+54. § Erre irányuló indokolt kérelem esetén az eljáró versenytanács elrendeli az eljárás egyéb résztvevőjeként, illetve adatszolgáltatásra kötelezettként közreműködő jogi személy nevének, székhelyének, valamint törvényes képviselője nevének zárt kezelését, ha a kérelmet előterjesztő valószínűsíti, hogy az eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti. A jogi személyt érintő zárt adatkezelésre megfelelően alkalmazandók a természetes személy zárt adatkezelésével kapcsolatos szabályok.
