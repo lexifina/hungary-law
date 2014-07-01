@@ -34,6 +34,6 @@
 
 | 40 | 15 | 70 | 55 | 180 |
 
-5. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^53]
+5. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^52]
 
-[^53]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

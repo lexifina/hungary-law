@@ -52,7 +52,7 @@ c) a településrendezési tervezési szakterületen a b) pont bc) és bf) alpon
 
 ## ismerete.
 
-(6)[^25] A jogosultsági vizsga szakterületi része az energetikai tanúsítói jogosultság esetén az alábbi ismeretkörökből áll:
+(6)[^24] A jogosultsági vizsga szakterületi része az energetikai tanúsítói jogosultság esetén az alábbi ismeretkörökből áll:
 
 a) az energetikai követelményekre és a tanúsításra vonatkozó szabályozás hatálya,
 
@@ -74,7 +74,7 @@ i) a tanúsítás dokumentálása.
 
 (7) A jogosultsági vizsga és a beszámoló időtartama 120 perc.
 
-(8)[^26] A vizsga és a beszámoló kérdéseit a vizsgaszervező kamara – a miniszter egyetértésével – állítja össze és a honlapján, valamint az e-epites.hu portálon közzéteszi. A vizsgán és a beszámolón ezek közül azok a kérdések szerepelnek, amelyeket a vizsga szakértői testülete állít össze.
+(8)[^25] A vizsga és a beszámoló kérdéseit a vizsgaszervező kamara – a miniszter egyetértésével – állítja össze és a honlapján, valamint az e-epites.hu portálon közzéteszi. A vizsgán és a beszámolón ezek közül azok a kérdések szerepelnek, amelyeket a vizsga szakértői testülete állít össze.
 
 (9) Kamarai szolgáltatás keretében előkészítő tanfolyam és konzultáció szervezhető, azonban a vizsgának és a beszámolónak nem kötelező előfeltétele.
 
@@ -82,16 +82,16 @@ i) a tanúsítás dokumentálása.
 
 (11) Az 50–70% közötti eredmény esetében a vizsgázó vagy beszámoló szóbeli vizsgát vagy beszámolót tesz.
 
-(12)[^27] A vizsga szakértői testülete értékeli az írásbeli dolgozatokat. Az írásbeli értékelés befejezését követően a szakértői testület kihirdeti a szóbeli vizsgára vagy beszámolóra kötelezettek névsorát és a szóbeli vizsga vagy beszámoló időpontját, amely lehet ugyanaz a nap is.
+(12)[^26] A vizsga szakértői testülete értékeli az írásbeli dolgozatokat. Az írásbeli értékelés befejezését követően a szakértői testület kihirdeti a szóbeli vizsgára vagy beszámolóra kötelezettek névsorát és a szóbeli vizsga vagy beszámoló időpontját, amely lehet ugyanaz a nap is.
 
-(13)[^28] A szóbeli vizsgán vagy beszámolón a vizsgázó vagy beszámoló további kérdést kap, melyre külön felkészülési idő nélkül válaszolnia kell. A vizsga szakértői testülete bármelyik tagja kiegészítő kérdéseket tehet fel a vizsgázónak.
+(13)[^27] A szóbeli vizsgán vagy beszámolón a vizsgázó vagy beszámoló további kérdést kap, melyre külön felkészülési idő nélkül válaszolnia kell. A vizsga szakértői testülete bármelyik tagja kiegészítő kérdéseket tehet fel a vizsgázónak.
 
-(14)[^29] Az összesítő értékelő lapot és a jegyzőkönyvet a vizsga szakértői testülete minden tagja a helyszínen köteles aláírni. Az értékelést követően hozott szakértői testületi döntés alapján történik a nyilvános eredményhirdetés.
+(14)[^28] Az összesítő értékelő lapot és a jegyzőkönyvet a vizsga szakértői testülete minden tagja a helyszínen köteles aláírni. Az értékelést követően hozott szakértői testületi döntés alapján történik a nyilvános eredményhirdetés.
 
 (15) A jogosultsági vizsga és a beszámoló letételét a vizsgaszervező igazolja, külön kérelem nélkül gondoskodik az elektronikus nyilvántartásba történő bejegyzéséről.
 
-[^25]: A 39. § (6) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 47. § 15. pontja szerint módosított szöveg.
-[^26]: A 39. § (8) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 16. pontja szerint módosított szöveg.
-[^27]: A 39. § (12) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 17. pontja szerint módosított szöveg.
-[^28]: A 39. § (13) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 18. pontja szerint módosított szöveg.
-[^29]: A 39. § (14) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 19. pontja szerint módosított szöveg.
+[^24]: A 39. § (6) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 47. § 15. pontja szerint módosított szöveg.
+[^25]: A 39. § (8) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 16. pontja szerint módosított szöveg.
+[^26]: A 39. § (12) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 17. pontja szerint módosított szöveg.
+[^27]: A 39. § (13) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 18. pontja szerint módosított szöveg.
+[^28]: A 39. § (14) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 19. pontja szerint módosított szöveg.
