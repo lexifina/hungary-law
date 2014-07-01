@@ -2,13 +2,11 @@
 
 ## 13. § A Rendelet
 
-a)[^4]
+a) 3. § (5) bekezdésében a „minden év január 1-jétől május 31. napjáig” szövegrész helyébe a „minden év április 1-jétől április 30. napjáig”,
 
-b)–c)[^5]
+b)–c)[^4]
 
-d)[^6]
+d) 7. § (7) bekezdésében a „10%-áig” szövegrész helyébe a „20%-áig”
 
 [^3]: A 4–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 13. § a) pontja a 15. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
-[^5]: A 13. § b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 13. § d) pontja a 15. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^4]: A 13. § b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
