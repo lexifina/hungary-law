@@ -1,12 +1,10 @@
-## 7. §[^3]
+## 7. §[^2]
 
-8. § (1)–(2)[^4]
+8. § (1)–(2)[^3]
 
-(3)[^5]
+(3) Az Ar. 1. számú melléklete a 3. melléklet szerint módosul.
 
-(4)[^6]
+(4) Az Ar. 2. számú melléklete a 4. melléklet szerint módosul.
 
-[^3]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 8. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 8. § (3) bekezdése a 11. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
-[^6]: A 8. § (4) bekezdése a 11. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
