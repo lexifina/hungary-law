@@ -1,4 +1,4 @@
-2. számú melléklet az 53/2007. (XII. 7.) EüM rendelethez[^45]
+2. számú melléklet az 53/2007. (XII. 7.) EüM rendelethez[^47]
 
 A gyógyszertörzs adatállományának leírása
 
@@ -26,7 +26,7 @@ A gyógyszertörzs adatállományának leírása
 
 | ID | Elsődleges azonosító. |  |
 
-| KOZHID | OGYI által kezelt, időben változatlan, egyedi termékazonosító. |  |
+| KOZHID | A GYEMSZI által kezelt, időben változatlan, egyedi termékazonosító. |  |
 
 | OEP_DAT | Az érvényesség kezdetének (a hatálybalépésének) dátuma ééééhhnn formában. |  |
 
@@ -38,7 +38,7 @@ A gyógyszertörzs adatállományának leírása
 
 | OEP_EAN | A termék EAN kódja. |  |
 
-| OEP_TK | A készítmény OGYI által kiadott nyilvántartási száma. | 2. § i); 4. § (5) ab) |
+| OEP_TK | A készítmény GYEMSZI által kiadott nyilvántartási száma. | 2. § i); 4. § (5) ab) |
 
 | TKTORLES | A nyilvántartásból törölt készítmények megjelölésére használt oszlop: TT vagy null. |  |
 
@@ -60,7 +60,7 @@ A gyógyszertörzs adatállományának leírása
 
 | RENDELHET | A készítmény rendelhetőségének azonosítója: V: vényköteles gyógyszerek VN: vény nélküli gyógyszerek I: rendelőintézeti járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó szolgáltatók által biztosított körülmények között alkalmazható gyógyszerek J: a szakorvosi/kórházi diagnózist követő járóbeteg-ellátásban alkalmazható gyógyszerek SZ: szakorvos által rendelhető gyógyszerek | 4. § (5) ah) |
 
-| EGYENID | Az OGYI által megállapított egyenértékűség esetén az OEP által adott csoport azonosító száma, ha nincs ilyen, akkor –1. | 4. § (5) ai) |
+| EGYENID | A GYEMSZI által megállapított egyenértékűség esetén az OEP által adott csoport azonosító száma, ha nincs ilyen, akkor –1. | 4. § (5) ai) |
 
 | OHATO_MENNY | Összes hatóanyag tartalom. |  |
 
@@ -192,29 +192,29 @@ A gyógyszertörzs adatállományának leírása
 
 | BRAND_ID | A gyógyszercsalád (brand) azonosítója |  |
 
-| KERESZTJELZES | OGYI hatáserősség (méregosztály) jelzése pl. +, ++, ... stb. |  |
+| KERESZTJELZES | A GYEMSZI hatáserősség (méregosztály) jelzése pl. +, ++, ... stb. |  |
 
 | VEGE | Az érvényesség vége, ha még nincs lezárva az érvényessége, akkor 2099.12.31 (Access, DBF fájlokban nem jelenik meg, mert felesleges). |  |
 
 | REGI_NEV | Az átnevezett készítmény korábbi neve. |  |
 
-1.2.1 GYOGYSZ táblához tartozó megjegyzések
+1.2.1 GYOGYSZ táblához tartozó megjegyzések
 
-A gyógyszer-hatékonysági színezés alapjául szolgáló
+A gyógyszer-hatékonysági színezés alapjául szolgáló BESOROLAS mező kitöltésének kódjai:
 
-BESOROLAS mező kitöltésének kódjai:
+1: referencia termék
 
-1: referencia termék,
+2: PRAS csoport (fix csoport, ahol preferált referenciaársáv képződött) esetében: PRAS termék, egyébként NTK <= REFNTK
 
-2: NTK <= REFNTK
+3: PRAS csoport esetében NTK > 1,15 *REFNTK ÉS NTK < 1,2 *REFNTK, egyébként NTK < 1,2 *REFNTK
 
-3: NTK < 1,1 * REFNTK
-
-4: NTK >= 1,1 * REFNTK
+4: NTK >= 1,2 *REFNTK
 
 5: nem képezhető
 
-6: TT
+6: TT (törzskönyvből törölt)
+
+7: PRAS körbe tartozó, PRAS-on kívüli termékek, amelyek utólag a preferált referencia ársáv szintjére csökkentették árukat
 
 A normatív jogcímhez képzett kód: njk.
 
@@ -282,4 +282,4 @@ BESOROLAS = 10000 * njk + 100 * eejk + ekjk
 
 | EUPONTOK EUPONTOK BNOKODOK GYOGYSZ EUPONTOK SZAKVKODOK EUPONTOK KIINTOR | ID ID ID ID ID ID ID ID | EUHOZZAR BNOHOZZAR BNOHOZZAR EUHOZZAR SZAKVHOZZAR SZAKVHOZZAR KIINTHOZZAR KIINTHOZZAR | EUPONT_ID EUPONT_ID BNO_ID GYOGYSZ_ID EUPONT_ID SZAKV_ID EUPONT_ID KIINT_ID |
 
-[^45]: A 2. számú mellékletet a 46/2008. (XII. 3.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^47]: A 2. számú mellékletet a 46/2008. (XII. 3.) EüM rendelet 5. § (2) bekezdése iktatta be, szövege a 41/2014. (VI. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
