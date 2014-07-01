@@ -22,7 +22,9 @@ j) adatkezelés, adatbiztonság,
 
 k) az előfizető jogszabályban meghatározott nyilatkozatai megadásának, a nyilatkozatok módosításának, visszavonásának módjai, esetei és határideje, különösen előfizetői névjegyzékhez, a forgalmi adatokon kívüli helymeghatározó adatok nyújtásához, értéknövelt szolgáltatások nyújtásához, hírközlési szolgáltatások értékesítése, és üzletszerzés céljából történő személyes adatok kezeléséhez, tételes számla igényléséhez, az előválasztással választott közvetítő szolgáltatóra vonatkozó nyilatkozatok, egyéni előfizetői minőségre vonatkozó nyilatkozat,
 
-l) az Elnök által rendeletben meghatározott további fejezetek.
+l) a kiskorúak védelmét lehetővé tevő, könnyen telepíthető és használható szoftverek és azokkal egyező célra szolgáló más szolgáltatások elérhetőségére és használatára vonatkozó tájékoztatás;
+
+m) az Elnök által rendeletben meghatározott további fejezetek.
 
 (2) A Hatóság az általános szerződési feltételeknek az elektronikus hírközlésre vonatkozó szabályoknak való megfelelőségét rendszeresen vizsgálja.
 

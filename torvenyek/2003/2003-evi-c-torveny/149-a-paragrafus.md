@@ -1,4 +1,6 @@
-149/A. § (1)
+## A kiskorúak védelme
+
+149/A. § (1) Az internet-hozzáférés szolgáltatást nyújtó szolgáltató köteles valamely, a kiskorúak védelmét lehetővé tevő, magyar nyelvű, könnyen telepíthető és használható szoftver (a továbbiakban: szűrőszoftver) internetes honlapjáról való ingyenes letölthetőségét és ezt követően annak ingyenes használhatóságát biztosítani.
 
 (2) A Gyermekvédelmi Internet-kerekasztal (a továbbiakban: Kerekasztal) az internethozzáférés-szolgáltatást nyújtó szolgáltatók számára kidolgozott és közzétett ajánlásokkal segíti elő az (1) bekezdés szerinti követelményeknek megfelelő szűrőszoftverek fejlesztését vagy kiválasztását. A Kerekasztal ösztönzi a szolgáltatókat az összehangolt szűrőszoftver-politika kialakítására és elősegíti e tevékenységük körében az önszabályozó jellegű együttműködésüket.
 

@@ -14,6 +14,8 @@ b) a gyermekek és sérülékeny személyek védelmét lehetővé tevő könnyen
 
 c) az elektronikus hírközlési szolgáltatások használata során a személyes biztonságot, a magánéletet és a személyes adatokat fenyegető kockázatokkal szembeni védelem céljából rendelkezésére álló eszközökre.
 
+(2a) Az internethozzáférés-szolgáltatást nyújtó szolgáltató köteles a kiskorúak védelmét lehetővé tevő, könnyen telepíthető és használható szoftverek vagy azokkal egyező célra szolgáló más szolgáltatások elérhetőségére és használatára vonatkozó közérdekű tájékoztatót összeállítani, a tájékoztatót internetes honlapján közzétenni, a közzétételről és annak elérhetőségéről negyedévente – figyelemmel a (3)–(5) bekezdésre és a 149/A. §-ra is – az előfizetőt értesíteni.
+
 (3) Ha jogszabály az előfizető értesítését írja elő és amennyiben a szolgáltató számlalevelet is küld, a szolgáltató köteles a számlalevél mellékletében értesíteni az előfizetőt.
 
 (4) Ha jogszabály az előfizető értesítését írja elő és a szolgáltató a szolgáltatás jellegéből adódóan nem köteles számlalevelet küldeni, illetve ha az értesítés számlalevélben történő teljesítésére azért nincs mód, mert az értesítés jogszabály által előírt időpontja a számlalevél előfizetőnek történő, szolgáltató általános szerződési feltételei által meghatározott megküldési időpontját megelőzi, a szolgáltató választása szerint – a 144. § (5) és (6) bekezdésében foglaltakra figyelemmel – az értesítési kötelezettségének a következő módon tehet eleget:
