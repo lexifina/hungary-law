@@ -2,4 +2,4 @@
 
 (3)
 
-(4) Az adóraktár engedélyese a jövedéki termék értékesítéséről kiállított számlán köteles a jövedéki termék vámtarifaszámát is feltüntetni.
+(4) Az adóraktár engedélyese a jövedéki termék értékesítéséről kiállított számlán köteles a jövedéki termék KN-kódját is feltüntetni.

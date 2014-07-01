@@ -86,6 +86,8 @@ a) az ásványolaj, az ETBE, valamint az 50. § (4) bekezdés d)–e) pontjában
 
 b) egyébként a Bizottság 2587/91/EGK rendeletével módosított, 1992. október 19-én hatályos 1. számú mellékletében meghatározott Kombinált Nomenklatúrával megegyező tartalmú, külön PM rendeletben kihirdetett áruazonosító számok. A nyolc számjegynél kevesebb számjeggyel megadott vámtarifaszám esetén annak valamennyi alszámos bontása is ideértendő;
 
+9/A. KN-kód: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet 1. mellékletében meghatározott Kombinált Nómenklatúrával megegyező árut megjelölő áruazonosító szám;
+
 10. adóhatóság: a Nemzeti Adó- és Vámhivatal adóztatási szerve;
 
 11. vámhatóság: a Nemzeti Adó- és Vámhivatal vámszerve vagy annak kirendeltsége;

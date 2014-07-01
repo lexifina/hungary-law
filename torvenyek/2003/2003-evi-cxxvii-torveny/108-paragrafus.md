@@ -2,4 +2,4 @@
 
 (2) Az importáló az importtevékenységéről külön nyilvántartást köteles folyamatosan vezetni, amely tartalmazza az importált termék megnevezését és mennyiségét, az importszámla számát, a vámokmány megnevezését és azonosító számát, a vámhatáron történt belépés és a vámjogi szabadforgalomba bocsátás időpontját, az importált termék készletre vételének időpontját, valamint a beszerzés céljának (feldolgozás, továbbértékesítés) megjelölését. Az importáló az importált és belföldön értékesített jövedéki termékről a 106. § (7) bekezdésében előírtak szerint vevőnyilvántartást köteles vezetni.
 
-(3) Az importáló a jövedéki termék értékesítéséről kiállított számlán köteles a jövedéki termék vámtarifaszámát is feltüntetni.
+(3) Az importáló a jövedéki termék értékesítéséről kiállított számlán köteles a jövedéki termék KN-kódját is feltüntetni.

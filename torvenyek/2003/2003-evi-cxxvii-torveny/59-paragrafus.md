@@ -42,9 +42,9 @@ bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem beny�
 
 (5) A felhasználói engedély iránti kérelemhez meg kell adni
 
-a) a felhasználni, kiszerelni kívánt egyéb ellenőrzött ásványolaj és az előállítani, kiszerelni, felhasználni kívánt megfigyelt termék megnevezését és vámtarifaszámát, továbbá a felhasználás célját,
+a) a felhasználni, kiszerelni kívánt egyéb ellenőrzött ásványolaj és az előállítani, kiszerelni, felhasználni kívánt megfigyelt termék megnevezését és KN-kódját, továbbá a felhasználás célját,
 
-b) – ha a felhasználás célja termék-előállítás – a felhasználási arányszámot, az előállításra kerülő termék (kivéve gyógyszer) összetételét és vámtarifaszámát, illetve – ha a felhasználás egyéb célra történik – a felhasználás mennyiségének levezetését a technológiai folyamat leírásával, műszaki vagy egyéb adatokkal alátámasztva.
+b) – ha a felhasználás célja termék-előállítás – a felhasználási arányszámot, az előállításra kerülő termék (kivéve gyógyszer) összetételét és KN-kódját, illetve – ha a felhasználás egyéb célra történik – a felhasználás mennyiségének levezetését a technológiai folyamat leírásával, műszaki vagy egyéb adatokkal alátámasztva.
 
 Amennyiben a felhasználás célja a 3814 00 90 vámtarifaszámú, legalább 95 térfogatszázalékban kőolajból és bitumenes ásványolajból nyert olajat vagy legalább 85 térfogatszázalékban etilalkoholt tartalmazó oldószerkeverék, hígító előállítása, a kérelmezőnek rendelkeznie kell az előállítani kívánt termék 48. § (20) bekezdése szerinti kötelező érvényű vámtarifa-besorolásával.
 

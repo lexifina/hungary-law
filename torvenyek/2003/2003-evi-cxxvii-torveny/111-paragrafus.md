@@ -44,7 +44,7 @@ c) vizsgálhatja az e törvényben előírt nyilvántartást,
 
 d) vizsgálhatja a beszerzett, felhasznált, készleten lévő egyéb ellenőrzött ásványolaj, megfigyelt termék és teljesen denaturált alkohol származásának, eredetének igazolására szolgáló bizonylatokat,
 
-e) vizsgálhatja a készleten lévő termék vámtarifaszámát,
+e) vizsgálhatja a készleten lévő termék KN-kódját,
 
 f) az ellenőrzés céljából a készleten lévő termékből ellenszolgáltatás nélkül mintát vehet.
 
