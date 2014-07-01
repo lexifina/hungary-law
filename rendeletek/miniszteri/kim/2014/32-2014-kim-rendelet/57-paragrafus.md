@@ -1,0 +1,1 @@
+## 56. § Az anyakönyvi esemény bejelentéséről szóló jegyzőkönyvet az EAK rendszerben kell elkészíteni vagy a papír alapon elkészített jegyzőkönyv adatait az EAK rendszer erre a célra szolgáló felületén rögzíteni kell. Ha a jegyzőkönyvet az EAK rendszerben készítik el, annak egy példányát kinyomtatás után az At.-ben meghatározott személyek aláírják.
