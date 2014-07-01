@@ -1,4 +1,4 @@
-## 58. §[^26]
+## 58. §[^24]
 
 ## 18. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 19. § (3) bekezdése, a 20. §, a 23. § és a 2. melléklet 2014. július 1-jén lép hatályba.
 
-[^26]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -36,6 +36,4 @@
 
 |  |  |  |  |  | ” |
 
-2. melléklet a 62/2014. (III. 6.) Korm. rendelethez[^28]
-
-[^28]: A 2. melléklet az 59. § (3) bekezdése alapján 2014. július 1-jén lép hatályba.
+2. melléklet a 62/2014. (III. 6.) Korm. rendelethez
