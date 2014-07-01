@@ -1,0 +1,5 @@
+45. § (1) Az anyakönyvi kivonaton két utónevet lehet feltüntetni. Annak a személynek, akinek a születési anyakönyvi bejegyzése kettőnél több utónevet tartalmaz, a születési anyakönyvi kivonat kiállítása iránti kérelemben írásban nyilatkoznia kell, hogy melyik két utónevét kívánja viselni. A nyilatkozat alapján a születési anyakönyvben az utónevét ki kell javítani. Ha az érintett személy a nyilatkozatot nem teszi meg, az anyakönyvi kivonatra az anyakönyvben szereplő utónevei közül az első kettőt kell feltüntetni.
+
+(2) Elhalt személy esetén, ha a születési anyakönyvi bejegyzése kettőnél több utónevet tartalmaz, az elhalt személy 1953. január 1-je után kötött házassága anyakönyvi bejegyzését, ennek hiányában a személyazonosításra alkalmas okmányában szereplő utóneveket kell a viselt utónevek tekintetében alapul venni.
+
+(3) Az (1) bekezdésben meghatározott esetekben a születési – és 1953. január 1-je előtti házassági bejegyzés esetében a házassági – anyakönyvben az elhalt utónevének kijavítását a halálesetet nyilvántartó anyakönyvvezető értesítése alapján kell elvégezni.

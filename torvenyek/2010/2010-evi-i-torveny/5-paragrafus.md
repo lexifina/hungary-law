@@ -1,0 +1,1 @@
+5. § A Kormány általános hatáskörű területi államigazgatási szerve – a hazai anyakönyvezés kivételével – dönt az anyakönyvi bejegyzés teljesítéséről, ha annak alapja az e törvény végrehajtására kiadott jogszabályban meghatározott okirat.

@@ -1,0 +1,1 @@
+80. § Az anyakönyvvezető a statisztikáról szóló törvényben meghatározott adatgyűjtéssel kapcsolatos feladatai teljesítése céljából az anyakönyvi eljárás során kezeli a népmozgalmi adatszolgáltatás körébe tartozó adatokat.

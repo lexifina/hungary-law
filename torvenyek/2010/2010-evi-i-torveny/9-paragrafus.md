@@ -1,0 +1,1 @@
+9. § A házasság megkötésére, a bejegyzett élettársi kapcsolat létesítésére irányuló eljárásra, valamint a házasság és a bejegyzett élettársi kapcsolat anyakönyvezésére az az anyakönyvvezető illetékes, aki előtt a felek a szándékukat bejelentik.
