@@ -54,6 +54,4 @@
 
 ## 5. Hatályát veszti a Gyr. 2. számú melléklet EÜ100 8/d3. pontjában a „vagy állkapocs osteonecrosis” szövegrész.
 
-3. melléklet a 33/2014. (IV. 18.) EMMI rendelethez[^7]
-
-[^7]: A 3. melléklet a 6. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+3. melléklet a 33/2014. (IV. 18.) EMMI rendelethez
