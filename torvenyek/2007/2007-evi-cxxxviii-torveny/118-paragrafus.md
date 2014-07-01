@@ -54,6 +54,8 @@ a) azt az ügyfelet, ügyfélkört vagy számlát, akiről vagy amelyről a (4) 
 
 b) a kért adatok fajtáját és az adatkérés célját, kivéve, ha az MNB helyszíni ellenőrzést folytat.
 
+(5a) Nem kell az (5) bekezdés szerinti adatokat az írásbeli megkeresésben megjelölni, ha a Gazdasági Versenyhivatal előzetes értesítés nélküli helyszíni szemlét vagy helyszíni kutatást tart. Ezekben az esetekben a Gazdasági Versenyhivatal megkeresését a helyszínen közli.
+
 (6) A (3) és (4) bekezdés szerint adatkérésre jogosult szerv vagy hatóság a rendelkezésére bocsátott adatokat kizárólag arra a célra használhatja fel, amelyet az adatkérésében megjelölt.
 
 (7) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn abban az esetben sem, ha a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget.
