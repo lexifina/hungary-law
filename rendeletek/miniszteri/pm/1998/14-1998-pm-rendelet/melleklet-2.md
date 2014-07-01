@@ -22,7 +22,7 @@
 
 ## 2.1.5. besorolása a Jöt. 96. § (1) vagy 96.§ (3) bekezdése alá (a pont megadásával)
 
-## 2.1.6. vámtarifaszáma
+## 2.1.6. KN-kódja
 
 ## 2.1.7. fajtakódja
 
@@ -50,7 +50,7 @@
 
 ## 3.1.5. besorolása a Jöt. 96. § (1) vagy 96.§ (3) bekezdése alá (a pont megadásával)
 
-## 3.1.6. vámtarifaszáma
+## 3.1.6. KN-kódja
 
 ## 3.1.7. fajtakódja
 
