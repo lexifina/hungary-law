@@ -16,4 +16,6 @@
 
 | G-160 | 160 |
 
-6. melléklet a 28/2009. (VI. 25.) KHEM rendelethez
+6. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^88]
+
+[^88]: A 6. melléklet a 32/2014. (VI. 27.) NFM rendelet 2. §-ával megállapított szöveg.

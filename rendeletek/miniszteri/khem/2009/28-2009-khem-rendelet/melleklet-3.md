@@ -8,6 +8,6 @@
 
 ## Az árak szabályozása során alkalmazott referencia időszak: az egyes földgáz árszabályozással és bányászattal összefüggő miniszteri rendeletek módosításáról szóló 38/2012. (VII. 3.) NFM rendelet hatálybalépésének napjától számított 30 napos időszak.
 
-3. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^86]
+3. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^87]
 
-[^86]: A 3. melléklet a 14/2014. (III. 31.) NFM rendelet 1. §-ával megállapított szöveg.
+[^87]: A 3. melléklet a 14/2014. (III. 31.) NFM rendelet 1. §-ával megállapított szöveg.

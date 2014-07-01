@@ -28,6 +28,6 @@
 
 | A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság: | 830 | 1245 |
 
-11. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^91]
+11. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^93]
 
-[^91]: A 11. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege az 51/2012. (VIII. 31.) NFM rendelet 10. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 12. §-a szerint módosított szöveg.
+[^93]: A 11. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege az 51/2012. (VIII. 31.) NFM rendelet 10. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 12. §-a szerint módosított szöveg.

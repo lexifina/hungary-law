@@ -1,8 +1,8 @@
-## 13–16. §[^42]
+## 13–16. §[^43]
 
-## A nagycsaládos kedvezményre vonatkozó rendelkezések[^43]
+## A nagycsaládos kedvezményre vonatkozó rendelkezések[^44]
 
-16/A. §[^44] (1) A jogosult
+16/A. §[^45] (1) A jogosult
 
 a) önálló felhasználási hely esetében a (4) bekezdés,
 
@@ -14,16 +14,16 @@ szerint részesülhet nagycsaládos kedvezményben.
 
 (3) Ha a jogosultnak a vele egy háztartásban élő, családi pótlékra jogosító személyre hivatkozással nagycsaládos kedvezményt állapítottak meg, a jogosulttal egy háztartásban élő más személy erre a személyre tekintettel további kedvezményre nem jogosult.
 
-(4)[^45] A nagycsaládos kedvezményre vonatkozó jogosultság megállapítása esetén a 12/A. § (3) bekezdése alapján az I. árkategória, lakossági felhasználókra érvényes díjszabása szerint maximálisan vételezhető földgázmennyiség három gyermekre tekintettel felhasználási helyenként és naptári évenként 61560 MJ, valamint a negyedik gyermektől számítva gyermekenként további 10250 MJ.
+(4)[^46] A nagycsaládos kedvezményre vonatkozó jogosultság megállapítása esetén a 12/A. § (3) bekezdése alapján az I. árkategória, lakossági felhasználókra érvényes díjszabása szerint maximálisan vételezhető földgázmennyiség három gyermekre tekintettel felhasználási helyenként és naptári évenként 61560 MJ, valamint a negyedik gyermektől számítva gyermekenként további 10250 MJ.
 
-(5)[^46] A kedvezmény – a kérelem naptári év közben történő benyújtása esetén – a kérelem benyújtásának évében,
+(5)[^47] A kedvezmény – a kérelem naptári év közben történő benyújtása esetén – a kérelem benyújtásának évében,
 
 a) az (1) bekezdés a) pontja szerinti esetben a naptári évből hátralévő időtartam fogyasztási jelleggörbe szerinti fogyasztásával,
 
 b) az (1) bekezdés b) pontja szerinti esetben a naptári évből hátralévő időtartammal
 
-[^42]: A 13. §-t megelőző alcímet a 32/2011. (VI. 30.) NFM rendelet 3. §-a, a 13–16. §-t a 46/2011. (IX. 14.) NFM rendelet 3. §-a hatályon kívül helyezte.
-[^43]: A 16/A. §-t megelőző alcímet a 39/2010. (XII. 31.) NFM rendelet 5. §-a iktatta be.
-[^44]: A 16/A. §-t a 39/2010. (XII. 31.) NFM rendelet 5. §-a iktatta be, az 51/2012. (VIII. 31.) NFM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^45]: A 16/A. § (4) bekezdése a 78/2012. (XII. 22.) NFM rendelet 14. §-a szerint módosított szöveg.
-[^46]: A 16/A. § (5) bekezdését az 51/2012. (VIII. 31.) NFM rendelet 2. § (2) bekezdése iktatta be.
+[^43]: A 13. §-t megelőző alcímet a 32/2011. (VI. 30.) NFM rendelet 3. §-a, a 13–16. §-t a 46/2011. (IX. 14.) NFM rendelet 3. §-a hatályon kívül helyezte.
+[^44]: A 16/A. §-t megelőző alcímet a 39/2010. (XII. 31.) NFM rendelet 5. §-a iktatta be.
+[^45]: A 16/A. §-t a 39/2010. (XII. 31.) NFM rendelet 5. §-a iktatta be, az 51/2012. (VIII. 31.) NFM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^46]: A 16/A. § (4) bekezdése a 78/2012. (XII. 22.) NFM rendelet 14. §-a szerint módosított szöveg.
+[^47]: A 16/A. § (5) bekezdését az 51/2012. (VIII. 31.) NFM rendelet 2. § (2) bekezdése iktatta be.
