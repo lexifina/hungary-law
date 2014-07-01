@@ -1,96 +1,26 @@
-## Megerősítetten HIV pozitív személy gondozását végző bőr- és nemibeteg-gondozók (bng.)
+## Megerősítetten HIV pozitív személy gondozását végző egészségügyi szolgáltatók
 
 | Intézet megnevezése |
 
-| Bács-Kiskun megyei bng. |
-
-| Békés megyei bng. |
-
-| Csongrád megyei bng. |
-
-| Baranya megyei bng. |
-
-| Somogy megyei bng. |
-
-| Tolna megyei bng. |
-
-| Hajdú-Bihar megyei bng. |
-
-| Szabolcs-Szatmár-Bereg megyei bng. |
-
-| Jász-Nagykun-Szolnok megyei bng. |
-
-| Borsod-Abaúj-Zemplén megyei bng. |
-
-| Heves megyei bng. |
-
-| Nógrád megyei bng. |
-
-| Fejér megyei bng. |
-
-| Komárom-Esztergom megyei bng. |
-
-| Veszprém megyei bng. |
-
-| Pest megyei bng. (Rókus kh.) |
-
 | Budapest |
 
-|  | Fővárosi Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+|  | Egyesített Szent István és Szent László Kórház-Rendelőintézet |
 
 |  | Semmelweis Egyetem Bőr- Nemikórtani és Bőronkológiai Klinika |
 
-|  | I-II. kerületi bng. |
+| Debrecen |
 
-|  | III. kerületi bng. |
+|  | Kenézy Gyula Kórház és Rendelőintézet |
 
-|  | IV. kerületi bng. |
+| Miskolc |
 
-|  | V. kerületi bng. |
+|  | Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
 
-|  | VI. kerületi bng. |
+| Pécs |
 
-|  | VII. kerületi bng. |
+|  | Pécsi Tudományegyetem I. sz. Belgyógyászati Klinika |
 
-|  | VIII. kerületi bng. |
-
-|  | IX. kerületi bng. |
-
-|  | X. kerületi bng. |
-
-|  | XI. kerületi bng. |
-
-|  | XII. kerületi bng. |
-
-|  | XIII. kerületi bng. |
-
-|  | XIV. kerületi bng. |
-
-|  | XV. kerületi bng. |
-
-|  | XVI. kerületi bng. |
-
-|  | XVII. kerületi bng. |
-
-|  | XVIII. kerületi bng. |
-
-|  | XIX. kerületi bng. |
-
-|  | XX. kerületi bng. |
-
-|  | XXI. kerületi bng. |
-
-|  | HM Állami Egészségügyi Központ |
-
-|  | Semmelweis Egyetem |
-
-| Győr-Moson-Sopron megyei bng. |
-
-| Vas megyei bng. |
-
-| Zala megyei bng. |
-
-2. melléklet a 18/2002. (XII. 28.) ESZCSM rendelethez[^21]
+2. melléklet a 18/2002. (XII. 28.) ESZCSM rendelethez[^22]
 
 A HIV-vel való fertőzöttség megállapítása céljából térítésmentes szűrővizsgálat végzésére jogosult laboratóriumok
 
@@ -136,7 +66,7 @@ a) az OEK Virológiai Főosztály laboratóriuma,
 
 b) az OEK HIV nemzeti referencia-laboratóriuma,
 
-c)[^22] a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve laboratóriumai,
+c)[^23] a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve laboratóriumai,
 
 d) a HM Állami Egészségügyi Központ Transzfuziológiai Diagnosztikai Osztálya,
 
@@ -178,5 +108,5 @@ a) az OEK HIV nemzeti referencia-laboratóriuma,
 
 b) az Országos Vérellátó Szolgálat Központi Laboratóriuma kizárólag a I. pontban felsorolt laboratóriumok által végzett szűrővizsgálatok tekintetében.
 
-[^21]: Az eredeti melléklet számozását 2. mellékletre változtatta és szövegét megállapította a 46/2009. (XII. 22.) EüM rendelet 6. §-a.
-[^22]: A 2. melléklet II. pont c) alpontja a 11/2013. (II. 7.) EMMI rendelet 19. § d) pontja szerint módosított szöveg.
+[^22]: Az eredeti melléklet számozását 2. mellékletre változtatta és szövegét megállapította a 46/2009. (XII. 22.) EüM rendelet 6. §-a.
+[^23]: A 2. melléklet II. pont c) alpontja a 11/2013. (II. 7.) EMMI rendelet 19. § d) pontja szerint módosított szöveg.
