@@ -12,9 +12,9 @@ ab)[^2] kifizető hatóság: kincstár;
 
 ac)[^3] nemzeti hatóság: a 2. §-a (1) bekezdésének aa) alpontjában foglalt szervezeti egység;
 
-ad)[^4] al-kifizető hatóság: a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: VÁTI);
+ad)[^4] alkifizető hatóság: a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Széchenyi Programiroda);
 
-ae)[^5] közreműködő szervezet: VÁTI;
+ae)[^5] közreműködő szervezet: Széchenyi Programiroda;
 
 af)[^6] zárónyilatkozat kiadásáért és az 5%-os és rendszerellenőrzésért felelős szervezet: az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF);
 
@@ -22,7 +22,7 @@ ag)[^7] központi harmonizációs egység: a Nemzetgazdasági Minisztériumnak a
 
 b) Közösségi Kezdeményezés: európai szintű közösségi érdekű együttműködés, amelyet a tagállamok az Európai Bizottság kezdeményezésére hajtanak végre, mint az egész európai térség fejlesztése és kohéziója szempontjából alapvetően fontos kooperációt.
 
-c)[^8] Működési Kézikönyv: az irányító hatóság/nemzeti hatóság, valamint a VÁTI által végzett tevékenységek részletes leírását és szabályozását tartalmazó dokumentum.
+c)[^8] Működési Kézikönyv: az irányító hatóság, illetve a nemzeti hatóság, valamint a Széchenyi Programiroda által végzett tevékenységek részletes leírását és szabályozását tartalmazó dokumentum.
 
 d) Határon átnyúló együttműködés: az INTERREG Közösségi Kezdeményezés „A” pillére, amelynek célja legalább két szomszédos ország határ menti megyéi (NUTS III szint) együttműködése a határon átnyúló gazdasági és társadalmi kapcsolatok fejlesztése érdekében.
 
@@ -75,11 +75,11 @@ y)[^12] Likviditás-kezelési útmutató: az adatszolgáltatási és bizonylati 
 [^1]: A 2. § (1) bekezdés a) pont aa) alpontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 27/2014. (II. 7.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés a) pontjának ab) alpontja az 550/2013. (XII. 30.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdése a) pontjának ac) alpontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § (1) bekezdés a) pont ad) alpontja az 550/2013. (XII. 30.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
-[^5]: A 2. § (1) bekezdés a) pont ae) alpontja az 550/2013. (XII. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés a) pont ad) alpontja a 161/2014. (VI. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés a) pont ae) alpontja a 161/2014. (VI. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (1) bekezdés af) pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (5) és (7) bekezdése szerint módosított szöveg.
 [^7]: A 2. § (1) bekezdése a) pontjának ag) alpontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 113/2011. (VII. 7.) Korm. rendelet 25. §-a szerint módosított szöveg.
-[^8]: A 2. § (1) bekezdés c) pontja az 550/2013. (XII. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^8]: A 2. § (1) bekezdés c) pontja a 161/2014. (VI. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^9]: A 2. § (1) bekezdésének v) pontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^10]: A 2. § (1) bekezdésének w) pontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^11]: A 2. § (1) bekezdésének x) pontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
