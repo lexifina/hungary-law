@@ -32,7 +32,7 @@ kb)[^33] 39. cikke és V. melléklet 2. pontja, valamint az építési termék �
 
 (2)[^34] Az (1) bekezdés a), g) és i) pontjaiban meghatározott eljárásokban első fokon a Hivatal kereskedelmi hatósága, másodfokon a Hivatal központi szerve jár el.
 
-(3) A külön jogszabály alapján a 13. § (1) bekezdése szerinti építésügyi hatáskörbe tartozó 13. § (2) bekezdés a) pontja szerinti sajátos építményfajtákkal kapcsolatos hatósági eljárásokban a 4. mellékletben felsorolt, az adott eljárásban érintett közmű, közút és vasút üzemeltetői működnek közre. Az üzemeltetők nyilatkozatát a tervező köteles beszerezni.
+(3)[^35]
 
 [^26]: A 14. § a 322/2012. (XI. 16.) Korm. rendelet 105. §-ával megállapított szöveg.
 [^27]: A 15. § (1) bekezdés b) pontját a 7/2013. (I. 18.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
@@ -43,3 +43,4 @@ kb)[^33] 39. cikke és V. melléklet 2. pontja, valamint az építési termék �
 [^32]: A 15. § (1) bekezdés k) pontját a 322/2012. (XI. 16.) Korm. rendelet 106. §-a iktatta be.
 [^33]: A 15. § (1) bekezdés k) pont kb) alpontja a 275/2013. (VII. 16.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^34]: A 15. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (11) bekezdése szerint módosított szöveg.
+[^35]: A 15. § (3) bekezdését a 31/2014. (II. 12.) Korm. rendelet 42. § (1) bekezdése hatályon kívül helyezte.
