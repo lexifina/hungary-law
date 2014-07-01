@@ -1,3 +1,3 @@
-24. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^48]
+## A PM rendelet 20. számú melléklet „I. Szállítások tárgyhóban” pont 1. alpontjában és „II. Tárgyhavi szállítások összesen” pont 1. alpontjában a „vámtarifaszáma” szövegrész helyébe a „KN-kódja” szöveg lép.
 
-[^48]: A 24. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+24. melléklet a 76/2013. (XII. 31.) NGM rendelethez

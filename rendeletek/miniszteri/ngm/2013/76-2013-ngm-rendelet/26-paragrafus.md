@@ -1,0 +1,1 @@
+## 25. § A zárjegy alkalmazásának, a zárjeggyel való elszámolásnak a részletes szabályairól szóló 43/2009. (XII. 29.) PM rendelet (a továbbiakban: PM2 rendelet) 7. § (5) bekezdésében a „vámtarifaszámát” szövegrész helyébe a „KN-kódját” szöveg lép.

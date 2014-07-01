@@ -1,3 +1,3 @@
-10. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^34]
+## A PM rendelet 6. számú melléklet „2. Kiszállításra kerülő jövedéki termék” pont 2.2. alpontjában a „Vámtarifaszáma” szövegrész helyébe a „KN-kódja” szöveg lép.
 
-[^34]: A 9. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+10. melléklet a 76/2013. (XII. 31.) NGM rendelethez

@@ -1,3 +1,3 @@
-15. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^39]
+## A PM rendelet 10. számú melléklet „II. Adómentes felhasználás engedélyezése” pont 3.2. és 7.2. alpontjában a „Vámtarifaszáma” szövegrész helyébe a „KN-kódja” szöveg lép.
 
-[^39]: A 15. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+15. melléklet a 76/2013. (XII. 31.) NGM rendelethez

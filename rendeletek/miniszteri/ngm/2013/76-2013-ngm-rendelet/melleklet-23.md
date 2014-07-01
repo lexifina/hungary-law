@@ -1,3 +1,3 @@
-23. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^47]
+## A PM rendelet 19. számú melléklet „II. Csomagküldő kereskedő tevékenysége” pont 1.2. alpontjában a „Vámtarifaszáma” szövegrész helyébe a „KN-kódja” szöveg lép.
 
-[^47]: A 23. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+23. melléklet a 76/2013. (XII. 31.) NGM rendelethez

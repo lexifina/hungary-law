@@ -1,3 +1,3 @@
-42. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^66]
+## A PM rendelet 45. számú melléklet 5. pontjában a „vámtarifaszáma, mennyiség” szövegrész helyébe a „KN-kódja, mennyisége” szöveg lép.
 
-[^66]: A 42. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+42. melléklet a 76/2013. (XII. 31.) NGM rendelethez

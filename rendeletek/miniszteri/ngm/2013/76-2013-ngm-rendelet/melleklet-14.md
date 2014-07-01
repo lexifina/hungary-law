@@ -1,3 +1,5 @@
-14. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^38]
+## 1. A PM rendelet 9. számú melléklet „II. Betétlap” pont 4.2. pontjában a „Vámtarifaszáma” szövegrész helyébe a „KN-kódja” szöveg lép.
 
-[^38]: A 14. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+## 2. A PM rendelet 9. számú melléklet „II. Betétlap” pont 5. alpontjában a „vámtarifaszáma” szövegrész helyébe a „KN-kódja” szöveg lép.
+
+14. melléklet a 76/2013. (XII. 31.) NGM rendelethez

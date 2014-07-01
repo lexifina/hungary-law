@@ -1,3 +1,3 @@
-41. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^65]
+## A PM rendelet 44. számú melléklet „3. Termék adatok” pont 3.2. alpontjában a „Vámtarifaszám” szövegrész helyébe a „KN-kód” szöveg lép.
 
-[^65]: A 41. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+41. melléklet a 76/2013. (XII. 31.) NGM rendelethez

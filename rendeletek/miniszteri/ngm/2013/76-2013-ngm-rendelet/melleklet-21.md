@@ -1,3 +1,3 @@
-21. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^45]
+## A PM rendelet 15. számú melléklet „I. Jövedéki termék fogadása (naponta, fogadóhelyenként)” pont 1.1. alpontjában a „vámtarifaszáma” szövegrész helyébe a „KN-kódja” szöveg lép.
 
-[^45]: A 21. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+21. melléklet a 76/2013. (XII. 31.) NGM rendelethez

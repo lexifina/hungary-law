@@ -1,3 +1,3 @@
-29. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^53]
+## A PM rendelet 25. számú mellékletében a „vámtarifaszáma” szövegrészek helyébe a „KN-kódja” szöveg lép.
 
-[^53]: A 29. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+29. melléklet a 76/2013. (XII. 31.) NGM rendelethez
