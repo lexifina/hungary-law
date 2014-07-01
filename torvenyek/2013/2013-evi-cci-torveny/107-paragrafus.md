@@ -1,0 +1,1 @@
+107. § Hatályát veszti a Grt. 2. §-a, 3. § h) és i) pontja, 12. §-át megelőző alcímcíme, 12. §-a, 13. §-a, 23. § (6) bekezdése, 24. § (2) és (3) bekezdése, 28–31. §-a, 45. § (1) bekezdés a) pontja, 45. § (2) bekezdése.
