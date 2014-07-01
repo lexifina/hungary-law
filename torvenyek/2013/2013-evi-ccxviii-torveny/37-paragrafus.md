@@ -1,1 +1,1 @@
-37. §
+37. § Az anyakönyvi eljárásról szóló 2010. évi I. törvénynek az egyes törvényeknek az elektronikus anyakönyv kialakításával összefüggésben szükséges módosításáról szóló 2013. évi LXXVI. törvénnyel megállapított 1. melléklete a 3. melléklet szerint módosul.
