@@ -1,1 +1,0 @@
-## Adatszolgáltatás a külföldi állampolgárról

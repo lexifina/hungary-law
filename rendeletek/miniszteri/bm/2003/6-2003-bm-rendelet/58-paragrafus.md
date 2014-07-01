@@ -1,1 +1,0 @@
-## Igazolás temetkezés céljára

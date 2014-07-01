@@ -1,1 +1,0 @@
-Az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 1982. évi 17. törvényerejű rendelet (a továbbiakban: At.) módosításáról szóló 2002. évi XLV. törvény 37. §-ában foglalt felhatalmazás alapján a következőket rendelem el:

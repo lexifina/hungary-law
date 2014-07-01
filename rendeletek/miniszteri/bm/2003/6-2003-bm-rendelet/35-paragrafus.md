@@ -1,1 +1,0 @@
-## Közreműködés a házasságkötésnél
