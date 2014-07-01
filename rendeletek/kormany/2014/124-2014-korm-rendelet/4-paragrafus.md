@@ -1,9 +1,13 @@
-## 3. §[^2]
+## 3. §[^3]
 
-4. § (1)[^3]
+4. § (1)[^4]
 
-(2)[^4]
+(2) Az R.
 
-[^2]: A 3. § a 6. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
-[^3]: A 4. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 4. § (2) bekezdése a 6. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+a) 2. § 1. pontjának záró szövegrészében a „ba)–bd)” szövegrész helyébe a „bb)–bd)” szöveg,
+
+b)–f)[^5]
+
+[^3]: A 3. § a 158/2014. (VI. 30.) Korm. rendelet 15. §-a alapján nem lép hatályba.
+[^4]: A 4. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § (2) bekezdés b)–f) pontja a 158/2014. (VI. 30.) Korm. rendelet 15. §-a alapján nem lép hatályba.
