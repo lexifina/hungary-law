@@ -12,7 +12,7 @@ e) az együttműködés hiányának az Szt. szerinti jogkövetkezményeiről.
 
 (2) Az aktív korúak ellátása iránti kérelmében a kérelmezőnek – ha az ellátást nem egészségkárosodására tekintettel kéri – nyilatkoznia kell arról, hogy az Szt. szabályai szerint rá irányadó együttműködést vállalja.
 
-(3)[^80] A jegyző az Szt. 19. § (3) bekezdésében meghatározott feladatának teljesítése érdekében az adatokat az Flt. 57/B. §-a szerinti Foglalkoztatási és Közfoglalkoztatási Adatbázisban rögzíti.
+(3)[^80] Az Szt. 18/B. §-a szerinti országos nyilvántartást vezető hatóság az Szt. 19. § (3) bekezdésében meghatározott feladatának teljesítése érdekében az adatokat az Flt. 57/B. §-a szerinti Foglalkoztatási és Közfoglalkoztatási Adatbázisban rögzíti.
 
 (4)–(6)[^81]
 
@@ -65,7 +65,7 @@ b) a rendszeres szociális segély jogosultsági feltételeinek megszűnésérő
 [^77]: A 17. § (1) bekezdés a) pontja a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés d) pontja szerint módosított szöveg.
 [^78]: A 17. § (1) bekezdés c) pontja a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés d) pontja, a 331/2011. (XII. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
 [^79]: A 17. § (1) bekezdés d) pontja a 331/2011. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^80]: A 17. § (3) bekezdése a 331/2011. (XII. 29.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^80]: A 17. § (3) bekezdése a 392/2013. (XI. 12.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^81]: A 17. § (4)–(6) bekezdését a 358/2010. (XII. 30.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte.
 [^82]: A 17. § új (7) bekezdését a 323/2009. (XII. 29.) Korm. rendelet 2. §-a iktatta be, egyidejűleg az eredeti (7)–(14) bekezdés számozását (9)–(16) bekezdésre változtatta. A 17. § (7) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 331/2011. (XII. 29.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
 [^83]: A 17. § új (8) bekezdését a 323/2009. (XII. 29.) Korm. rendelet 2. §-a iktatta be, egyidejűleg az eredeti (7)–(14) bekezdés számozását (9)–(16) bekezdésre változtatta. A 17. § (8) bekezdését a 358/2010. (XII. 30.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte.

@@ -8,7 +8,7 @@ b)[^206] a személyes adatait
 
 (2)[^207] Ha a jogosultnak az igazolványon szereplő személyes adataiban változás következik be, akkor a hatóság kezdeményezésére a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve az igazolvány bevonásával egyidejűleg új igazolványt állít ki a jogosult részére. Az új igazolvány hatályának időtartama megegyezik a közgyógyellátásra való jogosultság időtartamával.
 
-(3)[^208] A méltányossági közgyógyellátásra jogosult lakcímének az eljáró hatóság illetékességét érintő megváltozása esetén a közgyógyellátás – ha a jogosultságot megalapozó körülményekben változás nem történik – az Szt. 50. §-ának (4) bekezdésében meghatározott időtartam végéig igénybe vehető.
+(3)[^208] A méltányossági közgyógyellátásra jogosult lakcímének a az eljáró hatóság illetékességét érintő megváltozása esetén a közgyógyellátás – ha a jogosultságot megalapozó körülményekben változás nem történik – az Szt. 50. §-ának (4) bekezdésében meghatározott időtartam végéig igénybe vehető.
 
 (4)[^209] Amennyiben a (3) bekezdésben meghatározott jogosult a lakcímváltozást követően az egyéni gyógyszerkeret felülvizsgálatát kéri, az új lakcím szerint illetékes képviselő-testület a gyógyszerkeret-felülvizsgálatot a közgyógyellátásra való jogosultság – új lakcím szerinti jogosultsági feltételek alapján történő – vizsgálatával együtt folytatja le.
 
