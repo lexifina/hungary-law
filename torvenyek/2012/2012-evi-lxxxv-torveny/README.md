@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-85-00-00
 | 2013-02-02 | 2010. évi CXXX. törvény | 2012-85-00-00.11 |
 | 2013-08-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-85-00-00.12 |
 | 2013-08-02 | 2010. évi CXXX. törvény | 2012-85-00-00.13 |
+| 2014-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-85-00-00.14 |
