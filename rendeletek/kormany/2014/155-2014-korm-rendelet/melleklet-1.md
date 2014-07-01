@@ -1,5 +1,3 @@
-## 121. § Hatályát veszti a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója telepítéséhez és tervezéséhez szükséges földtani és bányászati követelményekről szóló 33/2013. (VI. 21.) NFM rendelet.
-
 1. melléklet a 155/2014. (VI. 30.) Korm. rendelethez
 
 Biztonsági Szabályzat
