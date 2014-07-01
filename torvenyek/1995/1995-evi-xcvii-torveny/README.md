@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-97-00-00
 | 2013-01-01 | 2012. évi LXXXVI. törvény | 1995-97-00-00.43 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 1995-97-00-00.44 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1995-97-00-00.45 |
+| 2014-07-01 | 2013. évi CCI. törvény | 1995-97-00-00.46 |
