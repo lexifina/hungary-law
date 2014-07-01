@@ -20,7 +20,7 @@ g) a természetes személy, jogi személy és egyéb szervezet által saját mag
 
 2. a személyi igazolvány nyilvántartásból,
 
-3. az anyakönyvi nyilvántartásból,
+3. az anyakönyvi nyilvántartások rendszeréből,
 
 4. az útiokmány-nyilvántartásból (külföldre utazásban korlátozott személyekre vonatkozó nyilvántartás, útlevélre vonatkozó nyilvántartás),
 
