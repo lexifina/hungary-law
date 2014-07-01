@@ -46,7 +46,7 @@
 
 | Veleszületett és szerzett végtaghiányos állapotok | 7. |
 
-## 1. Szív- és keringési eredetű megbetegedések
+## 1.[^50] Szív- és keringési eredetű megbetegedések
 
 ## Javallat:
 
@@ -74,9 +74,9 @@
 
 ## c) a systoles nyugalmi vérnyomás tartósan 180 Hgmm feletti.
 
-## Rendelésre jogosult: gyermekkardiológus szakorvos, illetve javaslata alapján házi gyermekorvos.
+## Rendelésre jogosult: gyermekkardiológus szakorvos, illetve javaslata alapján házi gyermekorvos és vegyes háziorvosi körzetet ellátó orvos.
 
-## 2. Chronicus obstruktiv légzészavarok
+## 2.[^51] Chronicus obstruktiv légzészavarok
 
 ## Javallat:
 
@@ -94,9 +94,9 @@
 
 ## c) nyugalmi dyspnoe, kifejezett bronchiectasiara utaló produktív köpetürítés.
 
-## Rendelésre jogosult: gyermekpulmonológus szakorvos, klinikai immunológus és allergológus szakorvos, illetve javaslataik alapján házi gyermekorvos, iskolaorvos.
+## Rendelésre jogosult: gyermekpulmonológus szakorvos, klinikai immunológus és allergológus szakorvos, illetve javaslataik alapján házi gyermekorvos, vegyes háziorvosi körzetet ellátó orvos és iskolaorvos.
 
-## 3. Gerinc- és mellkasdeformitások
+## 3.[^52] Gerinc- és mellkasdeformitások
 
 ## Javallat:
 
@@ -124,9 +124,9 @@
 
 ## c) súlyos vitálkapacitás-csökkenés (50–70% alatti).
 
-## Rendelésre jogosult: gyermeksebész, ortopéd szakorvos vagy rehabilitációs szakorvos, illetve javaslataik alapján házi gyermekorvos, iskolaorvos.
+## Rendelésre jogosult: gyermeksebész, ortopéd szakorvos vagy rehabilitációs szakorvos, illetve javaslataik alapján házi gyermekorvos, vegyes háziorvosi körzetet ellátó orvos és iskolaorvos.
 
-## 4. Ízületi megbetegedések
+## 4.[^53] Ízületi megbetegedések
 
 ## Javallat:
 
@@ -146,9 +146,9 @@
 
 ## c) friss ízületi bevérzések.
 
-## Rendelésre jogosult: reumatológus, ortopéd, hematológus szakorvos, rehabilitációs szakorvos, illetve javaslataik alapján házi gyermekorvos.
+## Rendelésre jogosult: reumatológus, ortopéd, hematológus szakorvos, rehabilitációs szakorvos, illetve javaslataik alapján házi gyermekorvos és vegyes háziorvosi körzetet ellátó orvos.
 
-## 5. Obesitas és szövődményei
+## 5.[^54] Obesitas és szövődményei
 
 ## Javallat:
 
@@ -164,23 +164,23 @@
 
 ## b) hypertonia, ha a systoles nyugalmi vérnyomás tartósan 180 Hgmm felett van.
 
-## Rendelésre jogosult: gyermekendokrinológus vagy ortopéd szakorvos, illetve javaslataik alapján gyermekgyógyász szakorvos, házi gyermekorvos, iskolaorvos.
+## Rendelésre jogosult: gyermekendokrinológus vagy ortopéd szakorvos, illetve javaslataik alapján gyermekgyógyász szakorvos, házi gyermekorvos, vegyes háziorvosi körzetet ellátó orvos és iskolaorvos.
 
-## 6. Központi és perifériás idegrendszeri károsodás
+## 6.[^55] Központi és perifériás idegrendszeri károsodás
 
 ## Javallat: szakmailag illetékes szakintézeti kivizsgálás és javaslat alapján, egyéb párhuzamosan végzendő kondíciót javító rendszeres fizikai tevékenység mellett. Ideértendő az infantilis cerebralparesis, plexus brachialis születéskori sérülés, minimális cerebrális dysfunkcio, morbus Down, neuromusculáris kórképek, szellemi fogyatékosok.
 
 ## Ellenjavallat: általános ellenjavallatok.
 
-## Rendelésre jogosult: gyermekneurológus szakorvos, rehabilitációs szakorvos, illetve javaslata alapján házi gyermekorvos, iskolaorvos.
+## Rendelésre jogosult: gyermekneurológus szakorvos, rehabilitációs szakorvos, illetve javaslataik alapján házi gyermekorvos, vegyes háziorvosi körzetet ellátó orvos és iskolaorvos.
 
-## 7. Veleszületett és szerzett végtaghiányos állapotok
+## 7.[^56] Veleszületett és szerzett végtaghiányos állapotok
 
 ## Javallat: önálló életvitelt korlátozó esetekben, ortopéd vagy rehabilitációs szakorvos indikációja alapján, egyéb, párhuzamosan végzendő kondíciót javító rendszeres fizikai tevékenység mellett.
 
 ## Ellenjavallat: általános ellenjavallatok.
 
-## Rendelésre jogosult: gyermeksebész, ortopéd vagy rehabilitációs szakorvos, illetve javaslataik alapján gyermek háziorvos.
+## Rendelésre jogosult: gyermeksebész, ortopéd vagy rehabilitációs szakorvos, illetve javaslataik alapján gyermek háziorvos és vegyes háziorvosi körzetet ellátó orvos.
 
 ## A gyógyúszás előtti és alatti kontrollvizsgálatok
 
@@ -214,6 +214,13 @@
 
 | Az alapbetegség diagnózisa önmagában elegendő | 4. c) | a rendelő szakorvos által előírt időszakonként |
 
-7. számú melléklet az 5/2004. (XI. 19.) EüM rendelethez[^44]
+7. számú melléklet az 5/2004. (XI. 19.) EüM rendelethez[^57]
 
-[^44]: A 7. számú mellékletet a 27/2011. (V. 31.) NEFMI rendelet 10. § (4) bekezdése iktatta be.
+[^50]: A 6. számú melléklet 1. Szív- és keringési eredetű megbetegedések pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^51]: A 6. számú melléklet 2. Chronicus obstruktiv légzészavarok pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^52]: A 6. számú melléklet 3. Gerinc- és mellkasdeformitások pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^53]: A 6. számú melléklet 4. Ízületi megbetegedések pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^54]: A 6. számú melléklet 5. Obesitas és szövődményei pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^55]: A 6. számú melléklet 6. Központi és perifériás idegrendszeri károsodás pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^56]: A 6. számú melléklet 7. Veleszületett és szerzett végtaghiányos állapotok pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^57]: A 7. számú mellékletet a 27/2011. (V. 31.) NEFMI rendelet 10. § (4) bekezdése iktatta be.

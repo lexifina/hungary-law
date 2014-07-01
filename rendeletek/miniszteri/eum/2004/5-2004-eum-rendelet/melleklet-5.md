@@ -26,6 +26,6 @@
 
 ## Ultrahang
 
-5. számú melléklet az 5/2004. (XI. 19.) EüM rendelethez[^42]
+5. számú melléklet az 5/2004. (XI. 19.) EüM rendelethez[^48]
 
-[^42]: Az 5. számú melléklet a 27/2005. (VII. 18.) EüM rendelet 5. §-ánal (2) bekezdésével megállapított szöveg.
+[^48]: Az 5. számú melléklet a 27/2005. (VII. 18.) EüM rendelet 5. §-ánal (2) bekezdésével megállapított szöveg.
