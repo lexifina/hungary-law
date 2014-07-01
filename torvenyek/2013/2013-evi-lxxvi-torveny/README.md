@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-76-00-00
 | 2014-01-01 | 2013. évi CCXVIII. törvény | 2013-76-00-00.3 |
 | 2014-03-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-76-00-00.4 |
 | 2014-03-16 | 2010. évi CXXX. törvény | 2013-76-00-00.5 |
+| 2014-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-76-00-00.6 |
