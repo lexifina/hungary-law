@@ -984,7 +984,7 @@
 
 ## – az Eütv. 94. § (5) bekezdés a) és b) pontja szerinti mentéshez a tevékenységet végző orvos, illetve munkacsoport szállítására, valamint az életmentő orvosi eszköz és gyógyszer, valamint átültetésre kerülő szerv sürgős szállítására alkalmas gépjármű.
 
-2. melléklet az 5/2006. (II. 7.) EüM rendelethez[^33]
+2. melléklet az 5/2006. (II. 7.) EüM rendelethez[^37]
 
 ## Rendezvények egészségügyi biztosításának formái, szintjei és módja
 
@@ -1050,7 +1050,11 @@ Megegyezik a legalább 5 fő ellátásához szükséges mértékben kibővített
 
 2.1. Az egészségügyi ellátás gyalogőrséggel csak épületben vagy kis területre korlátozott szabadtéren szervezett rendezvényen biztosítható, amennyiben a rendezvényen résztvevők száma 1001 főnél kevesebb. Ezen létszám felett az 1. pontban foglaltak szerinti rendezvénybiztosítás szükséges.
 
+2.1.1. Zárt térben tartott, 300–1000 fő közötti létszámú zenés táncos rendezvény esetében gyalogőrség biztosítása szükséges.
+
 2.2. Az ellátást szakképzett mentőápoló, mentőtiszt, orvos, mentőorvos, vagy ezek közül több személy együttesen végzi.
+
+2.2.1. Az ellátást nem nyújthatja az a sportorvos, aki a sportorvoslás szabályairól és a sportegészségügyi hálózatról szóló 215/2004. (VII. 13.) Korm. rendelet 5. § e) pontja szerint egyidejűleg ellátja az adott sportrendezvényen és szabadidősport eseményen az előforduló sérüléseket és egyéb orvosi beavatkozást igénylő panaszokat.”
 
 2.3. A rendezvény helyszínén biztosítani kell betegvizsgálatra alkalmas állandó vagy ideiglenes helyiséget fektetési lehetőséggel.
 
@@ -1192,4 +1196,4 @@ A felszereléseket a gyalogőrséget ellátó személy a beavatkozási jogköré
 
 – esetlap.
 
-[^33]: A 2. melléklet a 37/2011. (VI. 28.) NEFMI rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^37]: A 2. melléklet a 37/2011. (VI. 28.) NEFMI rendelet 11. § (2) bekezdésével megállapított, a 41/2014. (VI. 30.) EMMI rendelet 16. §-a szerint módosított szöveg.
