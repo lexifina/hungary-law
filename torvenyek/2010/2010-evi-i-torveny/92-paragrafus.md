@@ -2,20 +2,10 @@
 
 92. § (1) Az e törvény hatálya alá tartozó nyilvántartásokból teljesített adattovábbításokról az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából a központi nyilvántartó szerv adattovábbítási nyilvántartást vezet.
 
-(2) Az adattovábbítási nyilvántartás tartalmazza
+(2) Az adattovábbítási nyilvántartás az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatokon kívül tartalmazza
 
-a) az érintett természetes személyazonosító adatait,
+a) az adattovábbítás alanyának természetes személyazonosító adatait,
 
-b) azt az ügyszámot vagy anyakönyvi folyószámot és az ügy tárgyát, amelyhez az adatigénylést kérik,
+b) az ügyszámot, anyakönyvi folyószámot vagy egyedi elektronikus anyakönyvi azonosítót.
 
-c) az adatkezelő azonosítóját,
-
-d) az adattovábbítás időpontját,
-
-e) azt a törvényi rendelkezést vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusának rendelkezését, amely az adatigénylőt az adatkezelésre feljogosítja,
-
-f) az adatigénylő megnevezését, az adathozzáférésre a 83. § (2) bekezdése szerint felhatalmazott személynek a közvetlen hozzáférésre való jogosultságot igazoló azonosító kódját, valamint
-
-g) a továbbított adatok megnevezését.
-
-(3) Az elektronikus anyakönyvből és az okmánynyilvántartásból történő adattovábbítás adatait az adattovábbítástól számított öt évig meg kell őrizni.
+(3) Az e törvény hatálya alá tartozó nyilvántartásokból teljesített adattovábbítások (2) bekezdésben foglalt adatait az adattovábbítástól számított öt évig meg kell őrizni. Ha az e törvény hatálya alá tartozó nyilvántartásokból teljesített adattovábbítás különleges adatokat is tartalmaz, az adattovábbítás (2) bekezdésben foglalt adatait az adattovábbítástól számított húsz évig meg kell őrizni.

@@ -1,33 +1,133 @@
-## A házassági anyakönyv
+## Az apai elismerő nyilatkozatok nyilvántartása
 
-70. § (1) A házassági anyakönyv nyilvántartja
+70. § (1) Az apai elismerő nyilatkozatok nyilvántartása a gyermek családi jogállásának igazolása érdekében az apai elismerő nyilatkozat tekintetében határidő nélkül a (2) bekezdésben meghatározott adatokat tartalmazza.
 
-a) a házasságkötés helyét és idejét (év, hó, nap),
+(2) Az apai elismerő nyilatkozatok nyilvántartása tartalmazza
 
-b) a férj, valamint a feleség születési családi és utónevét, házasságkötés előtt viselt – előző házassági – nevét, születési helyét, személyi azonosítóját, annak hiányában születési idejét, a házasságkötést megelőző családi állapotát, a házasulók szüleinek születési családi és utónevét,
+a) az apa
 
-c) a házastársak nevét a házasságkötés után,
+aa) születési családi és utónevét,
 
-d) a házastársak aláírását,
+ab) házassági nevét,
 
-e) a házasságkötésnél közreműködött anyakönyvvezető nevét, aláírását,
+ac) születési helyét,
 
-f) a házassági tanúk és a tolmács nevét, aláírását,
+ad) születési idejét,
 
-g) a megállapodást a születendő gyermek születési családi nevére,
+ae) személyi azonosítóját,
 
-h) a férj, illetve a feleség nem magyar állampolgárságát vagy hontalanságát, a hazai anyakönyvezésnél ismeretlen állampolgárságát.
+af) lakcímét,
 
-(2) Az adatok változása esetén anyakönyvezni kell
+ag) személyazonosító okmányának típusát, okmányazonosítóját és érvényességi idejét,
 
-a) a férj, illetve a feleség születési és házassági nevének, személyi azonosítójának megváltozását,
+ah) állampolgárságát,
 
-b) a férj, illetve a feleség állampolgársági eljárásban történt névmódosítását,
+ai) állampolgárságát igazoló okmányának típusát, okmányazonosítóját és érvényességi idejét,
 
-c) a házasság megszűnését, illetve érvénytelenné nyilvánítását,
+aj) nyilatkozatát arról, hogy a gyermeket magáénak elismeri,
 
-d) a magyar állampolgárság megszűnését, a magyar állampolgárság megszerzését,
+b) az anya
 
-e) a születendő gyermek születési családi nevéről történő megállapodást vagy annak megváltoztatását.
+ba) születési családi és utónevét,
 
-(3) Nem jegyezhető be a házassági anyakönyvbe a házastárs utónevének megváltozása, ha az a nemének megváltozásával összefüggésben történt.
+bb) házassági nevét,
+
+bc) születési helyét,
+
+bd) születési idejét,
+
+be) személyi azonosítóját,
+
+bf) lakcímét,
+
+bg) családi állapotát,
+
+bh) elvált családi állapota esetén a házasságot felbontó határozatot meghozó bíróság vagy más hatóság megnevezését, az ítélet jogerőre emelkedésének időpontját és a határozat számát,
+
+bi) az anya özvegy családi állapota esetén a haláleset időpontját, a haláleset anyakönyvezésének helyét és anyakönyvi folyószámát vagy egyedi elektronikus anyakönyvi azonosítóját,
+
+bj) nyilatkozatát arról, hogy a nyilatkozatnak az apaként megjelölt személy általi megtételéhez hozzájárul,
+
+c) – ha a gyermek még nem született meg –,
+
+ca) a magzat fogantatásának vélelmezett idejét,
+
+cb) a szülés várható időpontját,
+
+cc) a terhességet igazoló egészségügyi intézmény megnevezését,
+
+cd) a terhességet igazoló szakorvos nevét,
+
+ce) a terhességet igazoló igazolás kiállításának időpontját,
+
+d) – ha a gyermek már megszületett – a gyermek
+
+da) utónevét,
+
+db) születési idejét,
+
+dc) születési helyét,
+
+dd) személyi azonosítóját,
+
+de) hozzájáruló nyilatkozatát, ha a gyermek a 14. életévét betöltötte,
+
+e) a szülői felügyeletet gyakorló szülők vagy a nagykorú gyermek nyilatkozatát a gyermek születési családi nevének viseléséről,
+
+f) ha az apa vagy anya jognyilatkozatának érvényességéhez törvényes képviselőjének hozzájárulása szükséges, a törvényes képviselő
+
+fa) születési családi és utónevét,
+
+fb) házassági nevét,
+
+fc) születési helyét,
+
+fd) születési idejét,
+
+fe) anyja születési családi és utónevét és
+
+ff) hozzájárulását az apai elismerő nyilatkozat megtételéhez,
+
+g) ha az apai elismerő nyilatkozat tételében gondnok vagy gyám közreműködik,
+
+ga) a gondnokot vagy gyámot kirendelő szerv megnevezését,
+
+gb) a kirendelő határozat számát,
+
+gc) a kirendelt gondnok vagy gyám nevét,
+
+gd) a kirendelt gondnok vagy gyám nyilatkozatát,
+
+h) az anya nyilatkozatát arról, hogy tudomása szerint apaság megállapítása iránti per van-e folyamatban, ha igen
+
+ha) az eljáró bíróság megnevezését,
+
+hb) a per ügyszámát,
+
+i) a nyilatkozattal érintett nem magyar állampolgár nyilatkozatát arról, hogy a magyar nyelvet érti és beszéli,
+
+j) ha a nyilatkozat megtételében közreműködött, a tolmács
+
+ja) nevét,
+
+jb) lakóhelyét,
+
+jc) személyazonosító okmányának típusát, okmányazonosítóját és érvényességi idejét,
+
+k) az apai elismerő nyilatkozat és a hozzájáruló nyilatkozatok megtételének és rögzítésének helyét és idejét,
+
+l) az apai elismerő nyilatkozat azonosító számát,
+
+m) – ha az apai elismerő nyilatkozatot vagy a hozzájáruló nyilatkozatot nem az anyakönyvvezető előtt tették – a nyilatkozatot felvevő szerv megnevezését és személy nevét,
+
+n) az apai elismerő nyilatkozatot vagy a hozzájáruló nyilatkozatot rögzítő személy nevét és felhasználói azonosítóját, valamint
+
+o) az elektronikus anyakönyv adatai alapján az a) pont aa)–ae) alpontjában és ah) alpontjában, a b) pont ba)–be) alpontjában és bg) alpontjában, továbbá a d) pont da)–dd) alpontjában foglalt adatok, valamint a szülői felügyeletet gyakorló szülők e) pont szerinti nyilatkozatának változását.
+
+(3) Az apai elismerő nyilatkozattal összefüggésben nyilvántartott adatokat törölni kell, ha az apai jogállást nem az apai elismerő nyilatkozat alapján töltötték be. Az apai elismerő nyilatkozattal összefüggésben nyilvántartott adatokat az apa adatait az anyakönyvbe bejegyző személy a nevének és felhasználói azonosítójának, valamint a törlés idejének feltüntetésével a bejegyzéssel egyidejűleg törli az apai elismerő nyilatkozatok nyilvántartásából.
+
+(4) Az anyakönyvvezető az előtte tett apai elismerő nyilatkozatot az apai elismerő nyilatkozatok nyilvántartásában rögzíti. Az apai elismerő nyilatkozatnak az apai elismerő nyilatkozatok nyilvántartásából kinyomtatott példányát az apa, a kiskorú apa vagy anya törvényes képviselője, az anya, a tizennegyedik életévét betöltött gyermek, a kirendelt gondnok vagy gyám, a tolmács és az anyakönyvvezető aláírják. Az apai elismerő nyilatkozatot rögzítő anyakönyvvezető az apai elismerő nyilatkozat aláírt példányát megküldi a születést nyilvántartó anyakönyvvezetőnek vagy a hazai anyakönyvezést végző hatóságnak.
+
+(5) A nem az anyakönyvvezető előtt tett apai elismerő nyilatkozat a (2) bekezdésben meghatározott adatokat, valamint az apa, a kiskorú apa vagy anya törvényes képviselője, az anya, a tizennegyedik életévét betöltött gyermek, a kirendelt gondnok vagy gyám, a tolmács és a nyilatkozatot felvevő személy aláírását tartalmazza. Az apai elismerő nyilatkozatot felvevő szerv a nyilatkozat aláírt példányát megküldi az adatok rögzítésére illetékes anyakönyvvezetőnek, illetve hazai anyakönyvezést végző hatóságnak vagy az anyakönyvi ügyekért felelős miniszternek. Ha az apai elismerő nyilatkozatot születendő gyermekre tették, a gyermek születésének az arra illetékes anyakönyvvezető általi anyakönyvezését követően az adatokat az apai elismerő nyilatkozatok nyilvántartásában rögzítő anyakönyvvezető vagy az anyakönyvi ügyekért felelős miniszter az apai elismerő nyilatkozat aláírt példányát megküldi a születést nyilvántartó anyakönyvvezetőnek vagy a hazai anyakönyvezést végző hatóságnak.
+
+(6) Ha a megszületett gyermekre tett apai elismerő nyilatkozat teljes hatálya megállapítható, az anyakönyvvezető, illetve a hazai anyakönyvezést végző hatóság az adatok apai elismerő nyilatkozatok nyilvántartásában történő rögzítésével egyidejűleg az adatokat az elektronikus anyakönyvbe is bejegyzi.

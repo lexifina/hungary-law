@@ -6,22 +6,30 @@
 
 1. § (1) Anyakönyvi eljárás
 
-a) a házasságkötés és a házasságkötési szándék bejelentésére irányuló eljárás,
+a) a házasságkötési szándék bejelentésére irányuló eljárás,
 
-b) a bejegyzett élettársi kapcsolat létesítése és a bejegyzett élettársi kapcsolat létesítése iránti szándék bejelentésére irányuló eljárás,
+b) a házasságkötés,
 
-c) a névváltoztatási és a házassági névviselési forma módosítására irányuló eljárás,
+c) a bejegyzett élettársi kapcsolat létesítése iránti szándék bejelentésére irányuló eljárás,
 
-d) az anyakönyv vezetése.
+d) a bejegyzett élettársi kapcsolat létesítése,
 
-(2) Az anyakönyv hatósági nyilvántartás, amely – az ellenkező bizonyításáig – az e törvényben meghatározottak szerint közhitelesen tanúsítja a benne feljegyzett adatokat, illetve azok változását.
+e) a névváltoztatási eljárás,
 
-(3) Anyakönyvet kell vezetni
+f) a házassági névviselési forma módosítására irányuló eljárás és
 
-a) a születésről,
+g) az anyakönyvi nyilvántartások rendszerének vezetése.
 
-b) a házasságról,
+(2) Az anyakönyv és az apai elismerő nyilatkozatok nyilvántartása az ellenkező bizonyításáig közhitelesen tanúsítja a bejegyzett adatokat, illetve azok változását.
 
-c) a bejegyzett élettársi kapcsolatról, valamint
+(3) Az anyakönyv
 
-d) a halálesetről.
+a) a születéssel,
+
+b) a házassággal,
+
+c) a bejegyzett élettársi kapcsolattal és
+
+d) a halálesettel
+
+kapcsolatos, e törvényben felsorolt adatokat, valamint az azokban bekövetkezett változásokat tartalmazza.

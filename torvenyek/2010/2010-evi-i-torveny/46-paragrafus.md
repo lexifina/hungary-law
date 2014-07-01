@@ -1,15 +1,15 @@
-46. § (1) A nemzeti és etnikai kisebbséghez tartozó személy
+46. § (1) A nemzetiséghez tartozó személy
 
-a) a gyermekének az adott nemzeti és etnikai kisebbségnek megfelelő utónevet adhat,
+a) kérheti a gyermek családi nevének a nemzetiségi nyelv szabályainak megfelelő anyakönyvezését, és gyermekének az adott nemzetiségnek megfelelő utónevet adhat,
 
-b) kérheti az anyakönyvezett utóneve helyett az annak megfelelő nemzeti és etnikai kisebbségi utónév bejegyzését, továbbá
+b) kérheti az anyakönyvezett utóneve helyett az annak megfelelő nemzetiségi utónév bejegyzését,
 
-c) kérheti az anyakönyvezett családi neve helyett az adott nemzeti és etnikai kisebbségi nyelv szabályai szerint képzett családi név bejegyzését,
+c) kérheti az anyakönyvezett családi neve helyett az adott nemzetiségi nyelv szabályai szerint képzett családi név bejegyzését, és
 
-d) kérheti a családi és utóneve adott nemzeti és etnikai kisebbségi nyelven történő feltüntetését.
+d) kérheti, hogy a családi és utónevét, illetve a gyermek családi és utónevét az adott nemzetiségi nyelven, vagy az adott nemzetiségi nyelven is bejegyezzék.
 
-(2) A választható nemzeti és etnikai kisebbségi utóneveket az érintett országos kisebbségi önkormányzatok által összeállított nemzeti és etnikai kisebbségi utónévjegyzék tartalmazza.
+(2) A nemzetiségi utónév bejegyzésére irányuló kérelemben nyilatkozni kell arról, hogy a választott nevet mely nemzetiség használja.
 
-(3) Az utónévjegyzékben nem szereplő nemzeti és etnikai kisebbségi utónév anyakönyvezhetőségéről az érintett országos kisebbségi önkormányzatnak – a megkereséstől számított huszonkét munkanapon belül kiadott – állásfoglalása az irányadó.
+(3) A választható nemzetiségi utóneveket az érintett országos nemzetiségi önkormányzatok által összeállított nemzetiségi utónévjegyzék tartalmazza.
 
-(4) Olyan utónév bejegyzésére irányuló kérelem esetén, amely a (2) bekezdésben meghatározott nemzeti és etnikai kisebbségi utónévjegyzékben nem szerepel, nyilatkozni kell arról, hogy a választott nevet mely nemzeti és etnikai kisebbség használja.
+(4) Az utónévjegyzékben nem szereplő nemzetiségi utónév anyakönyvezhetőségéről az érintett országos nemzetiségi önkormányzat állásfoglalása az irányadó. Az érintett országos nemzetiségi önkormányzat állásfoglalását a megkereséstől számított harminc napon belül adja meg. Azt az utónevet, amelynek bejegyzését az érintett országos nemzetiségi önkormányzat jóváhagyta, a nemzetiségi utónévjegyzékbe fel kell venni.

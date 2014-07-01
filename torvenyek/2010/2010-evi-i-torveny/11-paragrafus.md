@@ -1,3 +1,5 @@
-11. § (1) Az utólagos anyakönyvezés annak az anyakönyvvezetőnek a feladata, aki a születés, a házasságkötés, a bejegyzett élettársi kapcsolat vagy a haláleset anyakönyvezésére az anyakönyvi esemény bekövetkezésekor illetékes lett volna. Ha ez nem állapítható meg, vagy az eredetileg vezetett anyakönyvek külföldön vannak, a hazai anyakönyvezést végző hatóság az illetékes.
+11. § (1) Ha nem állapítható meg, hogy az anyakönyvi esemény bekövetkezésének időpontjában melyik anyakönyvvezető lett volna illetékes, vagy az eredetileg vezetett anyakönyvek külföldön vannak, az anyakönyvi bejegyzés teljesítésére a hazai anyakönyvezést végző hatóság az illetékes.
 
-(2) A házassági név módosítására irányuló eljárás lefolytatására a házasságkötést nyilvántartó anyakönyvvezető illetékes.
+(2) A házassági névviselési forma módosítására irányuló eljárás lefolytatására a házasságkötést nyilvántartó anyakönyvvezető illetékes.
+
+(3)

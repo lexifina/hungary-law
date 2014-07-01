@@ -1,1 +1,3 @@
-5. § A Kormány általános hatáskörű területi államigazgatási szerve – a hazai anyakönyvezés kivételével – dönt az anyakönyvi bejegyzés teljesítéséről, ha annak alapja az e törvény végrehajtására kiadott jogszabályban meghatározott okirat.
+5. § (1) Az anyakönyvi ügyekért felelős miniszter dönt a névváltoztatási kérelemről.
+
+(2) A külföldi felhasználás céljából kiadott anyakönyvi okirat diplomáciai felülhitelesítéséhez szükséges közbenső felülhitelesítését az anyakönyvi ügyekért felelős miniszter végzi.

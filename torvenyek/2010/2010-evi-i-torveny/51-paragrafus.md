@@ -1,9 +1,11 @@
 51. § (1) A névváltoztatásról az anyakönyvi ügyekért felelős miniszter okiratot állít ki. A névváltoztatási iratok nem selejtezhetők, őrzésükről és nyilvántartásukról az anyakönyvi ügyekért felelős miniszter gondoskodik.
 
-(2) Akinek a névváltoztatását az anyakönyvi ügyekért felelős miniszter engedélyezte, az új nevet az okirat közlésétől jogosult és köteles viselni.
+(2) A névváltoztatást engedélyező határozat a meghozatalát követő tizenhatodik napon válik jogerőssé.
 
-(3) A névváltoztatás anyakönyvi bejegyzését az anyakönyvi ügyekért felelős miniszter rendeli el.
+(3) A névváltoztatást – a (2) bekezdés szerinti időponttal – az anyakönyvi ügyekért felelős miniszter jegyzi be az anyakönyvbe.
 
-(4) A születési név megváltoztatására irányuló eljárás ügyintézési határideje negyvenöt munkanap.
+(4) A születési név megváltoztatására irányuló eljárás ügyintézési határideje negyvenöt nap.
 
-(5) Ha a kérelem hiányosan érkezik, a hiánypótlási felhívást a kérelem beérkezésétől számított tíz munkanapon belül kell kibocsátani.
+(5) Ha a kérelem hiányosan érkezik, a hiánypótlási felhívást a kérelem beérkezésétől számított tizenöt napon belül kell kibocsátani.
+
+(6) A névváltoztatási okiratmásolatot az anyakönyvi ügyekért felelős miniszter állítja ki.

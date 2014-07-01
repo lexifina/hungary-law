@@ -1,0 +1,1 @@
+69/I. § Az anyakönyvi alapiratok nem selejtezhetők, őrzésükről és nyilvántartásukról az anyakönyvvezető és a hazai anyakönyvezést végző hatóság, valamint az elektronikus anyakönyvi alapiratok tekintetében a központi nyilvántartó szerv gondoskodik.

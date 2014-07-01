@@ -1,3 +1,1 @@
-6. § (1) Az anyakönyvi ügyekért felelős miniszter dönt a névváltoztatási kérelemről.
-
-(2) A külföldön felhasználásra kerülő hatósági bizonyítvány diplomáciai felülhitelesítéséhez szükséges közbenső felülhitelesítését az anyakönyvi ügyekért felelős miniszter végzi.
+6. § A központi nyilvántartó szerv működteti az elektronikus anyakönyvi nyilvántartást és ellátja az e törvényben meghatározott adatkezelési műveleteket.

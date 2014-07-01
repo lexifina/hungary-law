@@ -1,3 +1,1 @@
-2. § (1) A névváltoztatási eljárás, a házassági névviselési forma módosítására irányuló eljárás, valamint az anyakönyv vezetése közigazgatási hatósági eljárás.
-
-(2) A házasságkötési szándék bejelentésére irányuló eljárásra, valamint a bejegyzett élettársi kapcsolat létesítése iránti szándék bejelentésére irányuló eljárásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit az e törvényben meghatározott eltérésekkel alkalmazni kell.
+2. § Az 1. § (1) bekezdése szerinti eljárások közül az a), c), e) és f) pontban meghatározott eljárások, valamint az anyakönyv vezetése és az apai elismerő nyilatkozatok nyilvántartásának vezetése közigazgatási hatósági eljárás.

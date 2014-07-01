@@ -1,25 +1,69 @@
-## A halotti anyakönyv
+## A jogosultsági nyilvántartás
 
-72. § (1) A halotti anyakönyv nyilvántartja
+72. § (1) A jogosultsági nyilvántartás
 
-a) a haláleset helyét és idejét,
+a) az elektronikus anyakönyvi rendszerben adatok rögzítésére jogosult személynek az e törvényben meghatározott feladatai ellátása, valamint e feladatok ellátásának ellenőrzése céljából a (2) bekezdésben,
 
-b) a meghalt személy születési és házassági nevét, nemét, személyi azonosítóját, annak hiányában a születési idejét, családi állapotát, születési helyét,
+b) az elektronikus anyakönyvi rendszerhez közvetlen hozzáférésre jogosult személynek a személyazonosság megállapítása, a hozzáférés biztosítása és a hozzáférés ellenőrzése céljából a (3) bekezdésben
 
-c) a meghalt személy szüleinek születési családi és utónevét,
+foglalt adatait tartja nyilván.
 
-d) a meghalt személy házastársának vagy bejegyzett élettársának születési családi és utónevét, személyi azonosítóját, annak hiányában születési idejét, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyét, idejét, ha a haláleset idején a házasság vagy a bejegyzett élettársi kapcsolat fennállott,
+(2) A jogosultsági nyilvántartás nyilvántartja az elektronikus anyakönyvi rendszerben adatok rögzítésére jogosult személy
 
-e) a meghalt személy nem magyar állampolgárságát, hontalanságát, illetve ismeretlen állampolgárságát,
+a) születési családi és utónevét,
 
-f) a bejegyzés idejét (év, hó, nap).
+b) házassági nevét,
 
-(2) Az adatok változása esetén anyakönyvezni kell
+c) személyi azonosítóját, ennek hiányában természetes személyazonosító adatait,
 
-a) a holtnak nyilvánítást hatálytalanító bírósági végzést,
+d) kormányrendeletben meghatározott képesítési feltételeknek való megfelelését igazoló okiratának számát és a kiállító hatóság megnevezését,
 
-b) az ismeretlen holttest később megállapított adatait,
+e) kinevezése szerinti települési önkormányzat vagy konzuli kerület megnevezését,
 
-c) az ismeretlen állampolgárságú személy ismertté vált állampolgárságát,
+f) kinevezésének kezdő és befejező időpontját,
 
-d) a magyar állampolgárság megszerzését.
+g) tevékenysége szünetelésének
+
+ga) tényét és
+
+gb) időtartamát,
+
+h) helyettesítésére kirendelt anyakönyvvezető a)–c) és e) pontban meghatározott adatait, ha az adatok rögzítésére jogosult személy az anyakönyvvezető,
+
+i) telefon- és telefaxszámát, elektronikus levélcímét,
+
+j) hozzáférési jogosultságot biztosító felhasználói azonosítóját,
+
+k) hozzáférési jogosultságának időtartamát, ha az határozott idejű és
+
+l) hozzáférési jogosultsága keletkezésének és megszűnésének időpontját.
+
+(3) A jogosultsági nyilvántartás nyilvántartja a közvetlen hozzáférésre jogosult személy
+
+a) születési családi és utónevét,
+
+b) házassági nevét,
+
+c) személyi azonosítóját, ennek hiányában természetes személyazonosító adatait,
+
+d) beosztását,
+
+e) szervezeti egységét,
+
+f) hozzáférési jogosultságot biztosító felhasználói azonosítóját,
+
+g) hozzáférési jogosultsága terjedelmét, keletkezésének és megszűnésének időpontját és
+
+h) számára közvetlen hozzáférési jogosultságot kérő szerv
+
+ha) megnevezését,
+
+hb) címét,
+
+hc) telefon- és telefaxszámát, elektronikus levélcímét és
+
+hd) hozzáférési jogosultsága terjedelmét, keletkezésének és megszűnésének időpontját.
+
+(4) Az anyakönyvvezető (2) bekezdésben meghatározott adatait, valamint azok változását a fővárosi és megyei kormányhivatal, az elektronikus anyakönyvi rendszerben adatok rögzítésére jogosult egyéb személyek (2) bekezdésben meghatározott adatait, valamint azok változását, továbbá a közvetlen hozzáférésre jogosult személy (3) bekezdésben meghatározott adatait a központi nyilvántartó szerv jegyzi be a jogosultsági nyilvántartásba.
+
+(5) Az (1) bekezdésben foglalt személyek (2) és (3) bekezdésben meghatározott adatait a jogosultsági nyilvántartás a jogosultság megszűnésétől számított öt évig tartja nyilván.

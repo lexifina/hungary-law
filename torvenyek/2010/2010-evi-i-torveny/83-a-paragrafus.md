@@ -1,0 +1,1 @@
+83/A. § Közvetlen hozzáféréssel – a 81. §-ban meghatározott kivételekkel – nem vehető át az adatátvétellel érintett személy anyakönyvi eseményével kapcsolatba hozható más személy személyi azonosítója.

@@ -1,29 +1,77 @@
-## A bejegyzett élettársi kapcsolatok anyakönyve
+## Az okirat-nyilvántartás
 
-71. § (1) A bejegyzett élettársi kapcsolatok anyakönyve nyilvántartja
+71. § (1) Az anyakönyvi eljárásban fel nem használt anyakönyvi kivonatokról, az anyakönyvből kiállított anyakönyvi okiratokról, a névváltoztatási eljárásban fel nem használt és a kiállított névváltoztatási okiratokról a közhitelességet szolgáló ellenőrzés, valamint a visszaélések megakadályozása céljából nyilvántartást kell vezetni.
 
-a) a létrehozás helyét és idejét (év, hó, nap),
+(2) Az okirat-nyilvántartás tartalmazza
 
-b) a bejegyzett élettársak születési családi és utónevét, az anyakönyvezés előtt viselt nevét, születési helyét, személyi azonosítóját, annak hiányában születési idejét, a bejegyzést megelőző családi állapotát, a bejegyzett élettársak szüleinek születési családi és utónevét,
+a) a fel nem használt anyakönyvi kivonat
 
-c) a bejegyzett élettársak nemét,
+aa) felhasználására jogosult szerv megnevezését és azonosítóját,
 
-d) a bejegyzett élettársak aláírását,
+ab) egyedi azonosítóját,
 
-e) a tanúk és a tolmács nevét, aláírását,
+ac) típusát,
 
-f) a bejegyzett élettársi kapcsolat létrehozásánál közreműködött anyakönyvvezető nevét, aláírását,
+ad) bevételezésének helyét és idejét,
 
-g) a bejegyzett élettársak nem magyar állampolgárságát vagy hontalanságát, a hazai anyakönyvezésnél ismeretlen állampolgárságát.
+ae) tényleges tárolási helyét és
 
-(2) Az adatok változása esetén anyakönyvezni kell
+af) a selejtezésére vonatkozó adatokat,
 
-a) a bejegyzett élettársak születési nevének, személyi azonosítójának megváltozását,
+b) az a) pont aa)–ad) alpontjában foglalt adatok mellett a kiállított anyakönyvi kivonat
 
-b) a bejegyzett élettársak állampolgársági eljárásban történt névmódosítását,
+ba) kiállításának idejét,
 
-c) gyzett élettársi kapcsolat megszűnését, illetve érvénytelenné nyilvánítását,
+bb) tartalmát képező anyakönyvi bejegyzés egyedi elektronikus anyakönyvi azonosítóját,
 
-d) a magyar állampolgárság megszűnését, a magyar állampolgárság megszerzését.
+bc) kiállítását kérő természetes személy ügyfél természetes személyazonosító adatait és lakcímét, illetve a nem természetes személy ügyfél nevét, székhelyét vagy telephelyét, képviselőjének nevét,
 
-(3) Nem jegyezhető be a bejegyzett élettársi kapcsolatok anyakönyvébe a bejegyzett élettárs utónevének megváltozása, ha az a nemének megváltozásával összefüggésben történt.
+bd) kiállítását elvégző személy nevét és felhasználói azonosítóját,
+
+c) a kiállított anyakönyvi hatósági bizonyítvány
+
+ca) kiállításának idejét,
+
+cb) tartalmát képező anyakönyvi bejegyzés folyószámát vagy egyedi elektronikus anyakönyvi azonosítóját, valamint az igazolt adatok körét,
+
+cc) kiállítását kérő természetes személy ügyfél természetes személyazonosító adatait és lakcímét, illetve a nem természetes személy ügyfél nevét, székhelyét vagy telephelyét, képviselőjének nevét,
+
+cd) kiállítását elvégző személy nevét és felhasználói azonosítóját,
+
+d) a fel nem használt névváltoztatási okirat
+
+da) felhasználására jogosult szerv megnevezését és azonosítóját,
+
+db) egyedi azonosítóját,
+
+dc) bevételezésének helyét és idejét,
+
+dd) tényleges tárolási helyét és
+
+de) a selejtezésére vonatkozó adatokat,
+
+e) a d) pont da)–dc) alpontjában foglalt adatok mellett a kiállított névváltoztatási okirat esetén
+
+ea) az okirat kiállításának idejét,
+
+eb) a névváltoztatást kérelmező személy egyedi elektronikus anyakönyvi azonosítóját,
+
+ec) a névváltoztatást kérelmező személy természetes személyazonosító adatait és lakcímét,
+
+ed) az okirat kiállítását elvégző személy nevét és felhasználói azonosítóját,
+
+f) a kiállított névváltoztatási okiratmásolat esetén
+
+fa) a d) pont da)–dc) alpontjában foglalt adatokat,
+
+fb) az okirat kiállításának idejét,
+
+fc) a névváltoztatást kérelmező személy egyedi elektronikus anyakönyvi azonosítóját,
+
+fd) a névváltoztatást kérelmező személy természetes személyazonosító adatait és lakcímét,
+
+fe) az okirat kiállítását elvégző személy nevét és felhasználói azonosítóját,
+
+ff) az okiratmásolat jellegére utaló megjegyzést.
+
+(3) A (2) bekezdés b) pont ba) és bb) alpontjában, c) pont ca) és cb) alpontjában, e) pont ea) és eb) alpontjában, valamint f) pont fb) és fc) alpontjában meghatározott adatokat az okirat-nyilvántartás határidő nélkül tartalmazza, a (2) bekezdés b) pont bc) és bd) alpontjában, c) pont cc) és cd) alpontjában, e) pont ec) és ed) alpontjában, valamint f) pont fd) és fe) alpontjában meghatározott adatokat az anyakönyvi kivonat kiállítását követő öt év elteltével törölni kell.

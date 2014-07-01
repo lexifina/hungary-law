@@ -1,39 +1,29 @@
 ## VI. Fejezet
 
-## AZ ANYAKÖNYV TÍPUSAI ÉS ADATTARTALMA
+## AZ ANYAKÖNYVI NYILVÁNTARTÁSOK RENDSZERE
 
-## A születési anyakönyv
+69. § (1) Az anyakönyvi nyilvántartások rendszerének része
 
-69. § (1) A születési anyakönyv nyilvántartja
+a) az elektronikus anyakönyvi nyilvántartás és
 
-a) a születés helyét és idejét (év, hó, nap),
+b) a papír alapú anyakönyvi nyilvántartás.
 
-b) a gyermek születési családi és utónevét, nemét, személyi azonosítóját,
+(2) Az elektronikus anyakönyvi nyilvántartás része
 
-c) a szülők születési családi és utónevét, születési helyét, személyi azonosítóját, annak hiányában a születési idejét,
+a) az elektronikus anyakönyv,
 
-d) a többes születést,
+b) az apai elismerő nyilatkozatok nyilvántartása,
 
-e) a szülők és a gyermek igazolt nem magyar állampolgárságát, hontalanságát, ismeretlen állampolgárságát,
+c) az anyakönyvi és névváltoztatási okiratok nyilvántartása (a továbbiakban: okirat-nyilvántartás),
 
-f) a bejegyzés idejét (év, hó, nap).
+d) a jogosultsági nyilvántartás és
 
-(2) Az adatok változása esetén anyakönyvezni kell
+e) a papír alapú anyakönyvek nyilvántartása.
 
-a) a gyermek, illetve a szülő születési családi és utónevének megváltozását, az állampolgársági eljárásban történt névmódosítását,
+(3) A papír alapú anyakönyvi nyilvántartás részei:
 
-b) a gyermek, illetve a szülő kettőnél több utónevének a 45. § (1) és (3) bekezdésében szabályozott kijavítását,
+a) a papír alapú anyakönyv és
 
-c) a gyermek, illetve a szülő személyi azonosítójának megváltozását,
+b) a papír alapú anyakönyvbe tett bejegyzések betűrendes névmutatója.
 
-d) a gyermek nemének megváltozását, valamint az azzal összefüggő utónévváltozást,
-
-e) a gyermek családi jogállásának megváltozását,
-
-f) a szülők, illetve a gyermek magyar állampolgárságának megszűnését, a magyar állampolgárság megszerzését, az ismertté vált állampolgárságát, a tévesen bejegyzett nem magyar állampolgárság törlését, valamint
-
-g) a bejegyzett személy halálát.
-
-(3) A szülő születési családi és utónevének megváltozását nagykorú személy esetében kizárólag a kérelmére kell a születési anyakönyvi bejegyzésében feljegyezni.
-
-(4) Nem jegyezhető be a születési anyakönyvbe a szülő utónevének megváltozása, ha az a nemének megváltozásával összefüggésben történt.
+(4) A központi nyilvántartó szerv az anyakönyvi ügyekért felelős miniszter és az e-közigazgatásért felelős miniszter jóváhagyásával államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet adatfeldolgozót bízhat meg egyes adatfeldolgozási műveletek, technikai feladatok elvégzésével, kivéve, ha az anyakönyvi ügyekért felelős miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározottak alapján más adatfeldolgozó megbízását engedélyezi.

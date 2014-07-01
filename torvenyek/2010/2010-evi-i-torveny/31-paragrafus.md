@@ -4,14 +4,10 @@
 
 ## A bejegyzett élettársi kapcsolat létesítése iránti szándék bejelentése
 
-31. § (1) A bejegyzett élettársi kapcsolat létesítése iránti szándékot a fővárosi kerületben, a megyei jogú városban, valamint az anyakönyvi ügyekért felelős miniszter által rendeletben meghatározott további településen működő anyakönyvvezetőnél lehet bejelenteni.
+31. § (1) A bejegyzett élettársi kapcsolat létesítése iránti szándékot a fővárosi kerületi, a megyei jogú városi, valamint a járási hivatal székhelye szerinti képviselő-testület hivatalának anyakönyvvezetőjénél lehet bejelenteni.
 
-(2) A bejegyzett élettársi kapcsolat létesítése iránti szándékot együttesen, személyesen kell bejelenteni, amelyről az anyakönyvvezető jegyzőkönyvet vesz fel.
+(2) A bejegyzett élettársi kapcsolat létesítése iránti szándékot együttesen, személyesen kell bejelenteni, amelyről az anyakönyvvezető az 1. melléklet szerinti adattartalmú jegyzőkönyvet vesz fel, amelyet a felek, az anyakönyvvezető, és – ha közreműködött – a tolmács aláírnak. A tolmácsról az anyakönyvvezető gondoskodik. Kérelmükre tolmácsról a felek is gondoskodhatnak.
 
-(3) A felek egyike – ha magyarországi lakcímmel nem rendelkezik – a bejegyzett élettársi kapcsolat létesítésére irányuló szándékát
-
-a) a külföldi közjegyző vagy anyakönyvvezető előtt tett hitelesített és – ha a nyilatkozatot nem magyar nyelven tette – hiteles magyar nyelvű fordítással ellátott nyilatkozatával írásban is bejelentheti,
-
-b) személyesen a lakóhelye szerint illetékes hivatásos magyar konzuli tisztviselőnél is bejelentheti, amelyről a konzuli tisztviselő jegyzőkönyvet vesz fel.
+(3) A magyarországi lakcímmel nem rendelkező fél vagy – ha a felek egyike sem rendelkezik magyarországi lakcímmel – az egyikük a bejegyzett élettársi kapcsolat létesítésére irányuló szándékát személyesen hivatásos konzuli tisztviselőnél is bejelentheti, amelyről a konzuli tisztviselő jegyzőkönyvet vesz fel, és azt a bejegyzett élettársi kapcsolat létesítésének tervezett helye szerinti anyakönyvvezetőnek továbbítja.
 
 (4) Ha az anyakönyvvezető a bejegyzett élettársi kapcsolat létesítése iránti szándék bejelentésére irányuló eljárásban megállapítja, hogy a bejegyzett élettársi kapcsolat létesítésének törvényes feltételei fennállnak, a határozat meghozatalát mellőzi.

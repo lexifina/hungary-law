@@ -1,5 +1,5 @@
-12. § (1) Az elektronikus anyakönyvbe bejegyzett vagy bejegyezhető adatról kért anyakönyvi közokirat kiállítására az az anyakönyvvezető illetékes, akinél az anyakönyvi közokirat kiállítását kérték.
+12. § (1) Az anyakönyvbe bejegyzett vagy bejegyezhető adatról kért anyakönyvi okirat kiállítására az az anyakönyvvezető vagy hivatásos konzuli tisztviselő illetékes, akinél az anyakönyvi okirat kiállítását kérték.
 
-(2) Ha az anyakönyvi közokirat kiállítását a konzuli tisztviselőnél kérték, annak kiállítására az anyakönyvi eseményt nyilvántartó anyakönyvvezető illetékes.
+(2) A papír alapú anyakönyvbe bejegyzett, de az elektronikus anyakönyvbe be nem jegyezhető adatról kért hatósági bizonyítvány kiállítására a nyilvántartó anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság illetékes.
 
-(3) A papíralapú anyakönyvbe bejegyzett, de az elektronikus anyakönyvbe be nem jegyezhető adatról kért hatósági bizonyítvány kiállítására a papíralapú anyakönyvet kezelő anyakönyvvezető illetékes.
+(3) Az elektronikus anyakönyvbe még be nem jegyzett anyakönyvi bejegyzésről elektronikus úton igényelt anyakönyvi okirat kiállítására a nyilvántartó anyakönyvvezető vagy hazai anyakönyvezést végző hatóság illetékes. Az elektronikus anyakönyvben szereplő bejegyzésről elektronikus úton igényelt anyakönyvi okirat kiállítására az anyakönyvi okirat iránti kérelemben megjelölt kézbesítési cím szerinti anyakönyvvezető illetékes. Ha a kérelmező az elektronikus anyakönyvben szereplő bejegyzésről elektronikus úton igényelt anyakönyvi kivonatot személyesen kívánja átvenni, az anyakönyvi okirat kiállítására az anyakönyvi okirat kiállítása iránti kérelemben az átvétel helyeként megjelölt települési önkormányzat anyakönyvvezetője illetékes.

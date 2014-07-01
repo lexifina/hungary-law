@@ -2,4 +2,4 @@
 
 (2) Az anyakönyvvezető előbb az egyik, majd a másik házasulónak külön-külön név szerint felteszi a kérdést: kijelenti-e, hogy a jelen lévő másik féllel házasságot köt?
 
-(3) Ha a feltett kérdésre mindkét házasuló egybehangzó igennel válaszolt, az anyakönyvvezető kijelenti, hogy a házasságkötés utáni nevén megnevezett felek a Magyar Köztársaság Polgári Törvénykönyve értelmében házastársak.
+(3) Ha a feltett kérdésre mindkét házasuló igennel válaszolt, az anyakönyvvezető kijelenti, hogy a házasságkötés utáni nevükön megnevezett felek a Polgári Törvénykönyvről szóló törvény értelmében házastársak.

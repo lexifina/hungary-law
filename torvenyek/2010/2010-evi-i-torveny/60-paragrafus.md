@@ -1,7 +1,7 @@
-60. § (1) Az elektronikus anyakönyvbe az e törvény hatálybalépése előtt megnyitott papíralapú anyakönyv adatai közül azokat az adatokat lehet bejegyezni, amelyek e törvény szerint az anyakönyv adattartalmát képezik.
+60. § (1) Az elektronikus anyakönyvbe az e törvény hatálybalépése előtt megnyitott papír alapú anyakönyv adatai közül azokat az adatokat lehet bejegyezni, amelyek e törvény szerint az elektronikus anyakönyv adattartalmát képezik.
 
-(2) Az e törvény hatálybalépése előtt tett születési és házassági anyakönyvi bejegyzés adatait nem kell bejegyezni az elektronikus anyakönyvbe, ha arra kizárólag a halálesetről szóló utólagos bejegyzés miatt kerülne sor.
+(2)
 
-(3) Az e törvény hatálybalépése előtt tett anyakönyvi bejegyzés adatait nem kell bejegyezni az elektronikus anyakönyvbe, ha arra kizárólag a törlő utólagos bejegyzés miatt kerülne sor.
+(3) Az e törvény hatálybalépése előtt tett anyakönyvi bejegyzés adatait nem kell bejegyezni az elektronikus anyakönyvbe, ha arra kizárólag a tévesen megkezdett vagy azon bejegyzés bejegyzés törlése miatt kerülne sor, amelyet nem az eljárásra jogosult személy teljesített.
 
-(4) Ha az elektronikus anyakönyvbe történő bejegyzéskor a papíralapú anyakönyv nem tartalmazza a személyi azonosítót, azt a személyiadat- és lakcímnyilvántartás adatai alapján be kell jegyezni az anyakönyvbe.
+(4) Ha az elektronikus anyakönyvbe történő bejegyzéskor a papír alapú anyakönyv nem tartalmazza a személyi azonosítót, azt a személyiadat- és lakcímnyilvántartás adatai alapján kell bejegyezni az anyakönyvbe.

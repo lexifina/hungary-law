@@ -1,3 +1,0 @@
-37. § (1) A 36. § (1) és (3) bekezdése szerinti kérelemhez csatolni kell a nem magyar állampolgár félnek a külföldi hatóság vagy az eljáró magyar anyakönyvvezető előtt tett nyilatkozatát, amelyben kijelenti, hogy a tervezett bejegyzett élettársi kapcsolat létesítésének tudomása szerint nincs jogi akadálya. A nyilatkozat csak akkor fogadható el, ha tartalmazza a születési családi és utónevet, a házassági nevet, a születési helyet és időt, a nemet, a családi állapotot, a szülők születési családi és utónevét, a lakcímet és az állampolgárságot.
-
-(2) Ha mindkét fél a 36. § (1) bekezdésében meghatározott személyi körbe tartozik, részükre a tanúsítványokat egy okiraton kell kiállítani.

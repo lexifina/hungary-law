@@ -1,13 +1,33 @@
 ## VII. Fejezet
 
-## AZ ELEKTRONIKUS ANYAKÖNYVI RENDSZER
+## AZ ANYAKÖNYVI OKIRATOK
 
-## Az elektronikus anyakönyvi rendszer felépítése
+73. § (1) Az anyakönyvből a következő anyakönyvi okiratok állíthatók ki:
 
-73. § (1) Az elektronikus anyakönyvi rendszer része
+a) anyakönyvi kivonat,
 
-a) az elektronikus anyakönyv,
+b) anyakönyvi hatósági bizonyítvány.
 
-b) az anyakönyvi okmánynyilvántartás.
+(2) Anyakönyvi hatósági bizonyítványt a papír alapú anyakönyvből kizárólag akkor lehet kiállítani, ha az igazolni kért adatot az elektronikus anyakönyv nem tartalmazza.
 
-(2) A elektronikus anyakönyvi rendszerben az adatokat a Kormány által rendeletben kijelölt szerv (a továbbiakban: központi nyilvántartó szerv) kezeli.
+(3) Az anyakönyvi okirat hatósági bizonyítvány.
+
+(4) A 73/A. §-ban és a 74. §-ban meghatározott adatokon kívül az anyakönyvi okirat tartalmazza
+
+a) az anyakönyvi okirat okmányazonosítóját vagy számát,
+
+b) a kiállító szerv nevét,
+
+c) az anyakönyvi okirat kiállításának helyét, idejét,
+
+d) a kiállító szerv bélyegzőjének lenyomatát,
+
+e) a kiállító nevét és aláírását,
+
+f) az anyakönyvi bejegyzés egyedi elektronikus anyakönyvi azonosítóját, az elektronikus anyakönyvbe be nem jegyezhető adatról kiállított anyakönyvi okirat esetén az anyakönyvi bejegyzés folyószámát, évszámát, az anyakönyv megkülönböztető betűjelét.
+
+(5) Az anyakönyvi okirat kiállítása iránti kérelmet bármelyik anyakönyvvezetőnél vagy hivatásos konzuli tisztviselőnél elő lehet terjeszteni. A hazai anyakönyvezést végző hatóságnál anyakönyvi okirat kiállítása iránti kérelmet a hazai anyakönyvezés során lehet előterjeszteni.
+
+(6) Az anyakönyvi okirat adatainak kijavítása kicseréléssel történik. A hibás adattartalmú, hamis vagy meghamisított anyakönyvi okiratot be kell vonni.
+
+(7) Az okirat kiegészítésének nincs helye.

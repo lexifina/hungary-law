@@ -17,3 +17,5 @@ e) a felek a létesítéshez a jogszabályban előírt felmentést, illetve enge
 f) a bíróság valamelyik fél cselekvőképességét a bejegyzett élettársi kapcsolat létesítésére vonatkozó jognyilatkozat tételében korlátozta, és a bejegyzett élettársi kapcsolat létesítésére a gyámhatóság nem adott engedélyt, vagy a fél a létrehozás időpontjában olyan állapotban van, hogy az ügyei viteléhez szükséges belátási képessége átmenetileg hiányzik.
 
 (3) Az anyakönyvvezető a felek valamelyikének közeli halállal fenyegető egészségi állapota esetén sem adhat felmentést a bejegyzett élettársi kapcsolat létesítésének jogi akadálya alól.
+
+(4) A bejegyzett élettársi kapcsolat létesítésének helye szerint illetékes jegyző a kérelem benyújtásától számított harminc napon belül dönt a bejegyzett élettársi kapcsolat akadályai alóli a Polgári Törvénykönyv családjogi rendelkezései szerint adható felmentésről.

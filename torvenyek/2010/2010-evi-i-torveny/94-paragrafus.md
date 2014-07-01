@@ -4,8 +4,8 @@
 
 ## Felhatalmazások
 
-94. § Felhatalmazást kap a Kormány, hogy
+94. § Felhatalmazást kap a Kormány, hogy rendeletben
 
-a) rendeletben jelölje ki a központi nyilvántartó szervet,
+a) jelölje ki a központi nyilvántartó szervet,
 
-b) rendeletben határozza meg a Kormány általános hatáskörű területi államigazgatási szerve által lefolytatott anyakönyvi eljárás szabályait.
+b) határozza meg az anyakönyvezéshez szükséges képesítési feltételeket.

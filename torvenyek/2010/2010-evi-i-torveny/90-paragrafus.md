@@ -1,13 +1,1 @@
-## Adattovábbítás az okmánynyilvántartásból
-
-90. § (1) Az okmánynyilvántartásban kezelt adatok teljes körét jogosult közvetlen hozzáféréssel átvenni
-
-a) az anyakönyvvezető az e törvényben meghatározott feladatai ellátása céljából,
-
-b) a személyazonosság igazolására alkalmas hatósági igazolványt kiállító hatóság a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti eljárás lefolytatása céljából,
-
-c) törvényben meghatározott felügyeleti feladatai ellátásához a Kormány általános hatáskörű területi államigazgatási szerve, valamint
-
-d) az anyakönyvi ügyekért felelős miniszter.
-
-(2) A nyilvántartásból adatszolgáltatás a bíróság és a nemzetbiztonsági szolgálatok részére feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén –, a nyomozó hatóságok bűnüldözési tevékenységének ellátásához, valamint az ügyész nyomozási, nyomozásfelügyeleti és vádemelési feladatainak ellátásához teljesíthető.
+90. § Az anyakönyvi ügyekért felelős miniszter a névváltoztatás bejegyzését követően haladéktalanul értesíti a bűnügyi nyilvántartó szervet a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartásában nem szereplő személynek a névváltoztatást megelőző és megváltozott születési családi és utónevéről, a 69/B. § (1) bekezdés b) pont bb), bc) és bf) alpontjában, valamint g) pontjában foglalt adatairól.

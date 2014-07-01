@@ -17,3 +17,5 @@ e) a házasulók a házasságkötésükhöz a jogszabályban előírt felmentés
 f) a bíróság valamelyik házasuló cselekvőképességét a házasságkötésre vonatkozó jognyilatkozat tételében korlátozta, és a gyámhatóság a házasságkötésre engedélyt nem adott, vagy a házasuló a házasságkötés időpontjában olyan állapotban van, hogy az ügyei viteléhez szükséges belátási képessége átmenetileg hiányzik.
 
 (3) Az anyakönyvvezető a házasulók valamelyikének közeli halállal fenyegető egészségi állapota esetén sem adhat felmentést házassági akadály alól.
+
+(4) A házasságkötés helye szerint illetékes jegyző a kérelem benyújtásától számított harminc napon belül dönt a házassági akadály alól a Polgári Törvénykönyv családjogi rendelkezései szerint adható felmentésről.
