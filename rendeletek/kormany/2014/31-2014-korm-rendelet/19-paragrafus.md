@@ -1,0 +1,13 @@
+## 19. § A használatbavételi engedélynek tartalmaznia kell:
+
+a) az építési engedély számát és keltét,
+
+b) a sajátos építmény helyének, helyrajzi számának és rendeltetésének megjelölését, megállapítva a használat főbb műszaki, biztonsági jellemzőit,
+
+c) esetlegesen az érintett idegen ingatlanokra vonatkozó korlátozásokat, tilalmakat,
+
+d) a használatbavétel hatósági feltételeit,
+
+e) a biztonságos használatot nem veszélyeztető kisebb hibák és hiányosságok megszüntetése érdekében szükséges további munkálatok elvégzésére vonatkozó kötelezést határidő tűzésével,
+
+f) ha a sajátos építmény megépítése révén az ingatlan-nyilvántartási térképi adatbázis tartalmában változást eredményez, figyelmeztetést arra, hogy a használatbavételi engedély közlését követően az építtető köteles – az ingatlan-nyilvántartási átvezetés céljából – a megvalósult állapotról változási vázrajzot és mellékleteit az ingatlanügyi hatósághoz benyújtani.
