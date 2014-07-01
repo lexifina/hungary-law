@@ -1,9 +1,8 @@
-## 23–34. §[^5]
+## 23–34. §[^4]
 
-35. § (1)[^6]
+35. § (1)[^5]
 
-(2)[^7]
+(2) Az R. 172. §-a a következő (4) bekezdéssel egészül ki:
 
-[^5]: A 23–34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 35. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 35. § (2) bekezdése az 56. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^4]: A 23–34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 35. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

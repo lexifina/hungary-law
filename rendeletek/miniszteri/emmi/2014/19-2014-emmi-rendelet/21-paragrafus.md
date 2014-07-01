@@ -1,3 +1,3 @@
-## 10–20. §[^2]
+## 20. § Az R. 133. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^2]: A 10–20. § az 56. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+## „(2) A központi speciális gyermekotthonban elrendelt személyes szabadság korlátozására és nevelési felügyelet végrehajtására a 126/A. § és a 126/B. § rendelkezéseit kell alkalmazni.”
