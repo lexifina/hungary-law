@@ -28,11 +28,11 @@ b) az intézeti vagy állami nevelt gyermek anyakönyvezéséhez;
 
 c) az 1953. január 1-je előtti bejegyzésről a névmutató szerint illetékmentes kivonatot még nem adtak ki, és
 
-ca) a születési anyakönyvből a bejegyzett személy, örökbefogadás esetén az örökbefogadó részére,
+ca) az anyakönyvből a bejegyzett személy, örökbefogadás esetén az örökbefogadó részére,
 
-cb) a házassági anyakönyvből a házastárs részére,
+cb) az anyakönyvből a házastárs részére,
 
-cc) a halotti anyakönyvből a házastárs vagy a meghalt személy egyenesági rokona részére,
+cc) az anyakönyvből a házastárs vagy a meghalt személy egyenesági rokona részére,
 
 d) tartásdíj európai uniós jogi norma, nemzetközi szerződés vagy viszonossági nyilatkozat alapján külföldön való behajtása tárgyában folyó eljárás céljára,
 
