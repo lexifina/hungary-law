@@ -1,11 +1,3 @@
-22. § (1) Veszélyes állat elidegenítése, felügyeletének átengedése hatósági engedélyhez kötött. Az engedélyezésre a veszélyes állat tartásának engedélyezésére vonatkozó szabályokat kell megfelelően alkalmazni.
+22. § (1) A veszélyes állat eltűnését a veszélyes állat tartója haladéktalanul köteles bejelenteni a természetvédelmi hatóságnak. Különösen és közepesen veszélyes állatfaj egyedének eltűnésekor a rendőrséget is értesíteni kell.
 
-(2) A veszélyes állat tartója a veszélyes állat
-
-a) eltűnését az állatvédelmi hatóságnak és a rendőrhatóságnak, a természetvédelmi oltalom alatt álló, illetőleg nemzetközi természetvédelmi egyezmény hatálya alá tartozó veszélyes állat esetében a természetvédelmi hatóságnak is,
-
-b) elhullását az állatvédelmi hatóságnak és az állatorvosnak
-
-haladéktalanul köteles bejelenteni.
-
-(3) Nemzetközi természetvédelmi egyezmény hatálya alá tartozó veszélyes állat eltűnését, elhullását a veszélyes állat tartója 15 napon belül a természetvédelmi hatóságnak köteles bejelenteni.
+(2) Veszélyes állat elhullását a veszélyes állat tartója 30 napon belül köteles bejelenteni a természetvédelmi hatóságnak.
