@@ -1,0 +1,15 @@
+## 1. Az R2. 6. számú melléklet „1. Szív- és keringési eredetű megbetegedések” részében a „Rendelésre jogosult: gyermekkardiológus szakorvos, illetve javaslata alapján házi gyermekorvos.” szövegrész helyébe a „Rendelésre jogosult: gyermekkardiológus szakorvos, illetve javaslata alapján házi gyermekorvos és vegyes háziorvosi körzetet ellátó orvos.” szöveg lép.
+
+## 2. Az R2. 6. számú melléklet „2. Chronicus obstruktiv légzészavarok” részében a „Rendelésre jogosult: gyermekpulmonológus szakorvos, klinikai immunológus és allergológus szakorvos, illetve javaslataik alapján házi gyermekorvos, iskolaorvos.” szövegrész helyébe a „Rendelésre jogosult: gyermekpulmonológus szakorvos, klinikai immunológus és allergológus szakorvos, illetve javaslataik alapján házi gyermekorvos, vegyes háziorvosi körzetet ellátó orvos és iskolaorvos.” szöveg lép.
+
+## 3. Az R2. 6. számú melléklet „3. Gerinc- és mellkasdeformitások” részében a „Rendelésre jogosult: gyermeksebész, ortopéd szakorvos vagy rehabilitációs szakorvos, illetve javaslataik alapján házi gyermekorvos, iskolaorvos.” szövegrész helyébe a „Rendelésre jogosult: gyermeksebész, ortopéd szakorvos vagy rehabilitációs szakorvos, illetve javaslataik alapján házi gyermekorvos, vegyes háziorvosi körzetet ellátó orvos és iskolaorvos.” szöveg lép.
+
+## 4. Az R2. 6. számú melléklet „4. Ízületi megbetegedések” részében a „Rendelésre jogosult: reumatológus, ortopéd, hematológus szakorvos, rehabilitációs szakorvos, illetve javaslataik alapján házi gyermekorvos.” szövegrész helyébe a „Rendelésre jogosult: reumatológus, ortopéd, hematológus szakorvos, rehabilitációs szakorvos, illetve javaslataik alapján házi gyermekorvos és vegyes háziorvosi körzetet ellátó orvos.” szöveg lép.
+
+## 5. Az R2. 6. számú melléklet „5. Obesitas és szövődményei” részében a „Rendelésre jogosult: gyermekendokrinológus vagy ortopéd szakorvos, illetve javaslataik alapján gyermekgyógyász szakorvos, házi gyermekorvos, iskolaorvos.” szövegrész helyébe a „Rendelésre jogosult: gyermekendokrinológus vagy ortopéd szakorvos, illetve javaslataik alapján gyermekgyógyász szakorvos, házi gyermekorvos, vegyes háziorvosi körzetet ellátó orvos és iskolaorvos.” szöveg lép.
+
+## 6. Az R2. 6. számú melléklet „6. Központi és perifériás idegrendszeri károsodás” részében a „Rendelésre jogosult: gyermekneurológus szakorvos, rehabilitációs szakorvos, illetve javaslata alapján házi gyermekorvos, iskolaorvos.” szövegrész helyébe a „Rendelésre jogosult: gyermekneurológus szakorvos, rehabilitációs szakorvos, illetve javaslataik alapján házi gyermekorvos, vegyes háziorvosi körzetet ellátó orvos és iskolaorvos.” szöveg lép.
+
+## 7. Az R2. 6. számú melléklet „7. Veleszületett és szerzett végtaghiányos állapotok” részében a „Rendelésre jogosult: gyermeksebész, ortopéd vagy rehabilitációs szakorvos, illetve javaslataik alapján gyermek háziorvos.” szövegrész helyébe a „Rendelésre jogosult: gyermeksebész, ortopéd vagy rehabilitációs szakorvos, illetve javaslataik alapján gyermek háziorvos és vegyes háziorvosi körzetet ellátó orvos.” szöveg lép.
+
+2. melléklet a 41/2014. (VI. 30.) EMMI rendelethez

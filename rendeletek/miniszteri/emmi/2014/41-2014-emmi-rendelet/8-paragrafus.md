@@ -1,0 +1,1 @@
+## „(6) A központi ügyeleten, a háziorvosi, házi gyermekorvosi ügyeleten és a fogorvosi ügyeleten fel kell tüntetni a legközelebbi folyamatosan nyitva tartó, vagy készenléti, ügyeleti szolgálatot teljesítő gyógyszertár nevét, címét, telefonszámát, valamint az ügyelet, készenlét kezdő és befejező időpontját.”
