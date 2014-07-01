@@ -18,7 +18,7 @@ g) műszaki mentés: természeti csapás, baleset, káreset, rendellenes technol
 
 h) tűzoltó-technikai termék: a tűz észlelésére, jelzésére, oltására, a beavatkozás megkönnyítésére, a tűzkár csökkentésére vagy a tűz terjedésének megakadályozására alkalmazott berendezés, eszköz, a tűzoltó készülék, oltóanyag, a tűzoltóság által a tűzoltás műszaki mentés során használt jármű, felszerelés, hírközlő eszköz, védőeszköz, amely nem tartozik az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 305/2011/EU rendelet) hatálya alá;
 
-i) tűz- vagy robbanásveszélyes készülék, gép, berendezés: olyan szerkezeti egység, illetve ezekből álló technológiai rendszer, amelyben vagy amellyel fokozottan tűz- és robbanásveszélyes, vagy tűz- és robbanásveszélyes tűzveszélyességi osztályba tartozó – a robbanó- és a robbantóanyagok kivételével – anyagok előállítása, feldolgozása, használata, tárolása, kimérése történik;
+i) tűz- vagy robbanásveszélyes készülék, gép, berendezés: olyan szerkezeti egység, illetve ezekből álló technológiai rendszer, amelyben vagy amellyel robbanásveszélyes – a robbanó- és a robbantóanyagok kivételével – anyagok előállítása, feldolgozása, használata, tárolása, kimérése történik;
 
 j) építési termék: minden olyan termék vagy készlet, amelyet azért állítottak elő és hoztak forgalomba, hogy építményekbe vagy építmények részeibe állandó jelleggel beépítsék és amelynek teljesítménye befolyásolja az építménynek az építményekkel kapcsolatos alapvető követelmények tekintetében nyújtott teljesítményét;
 
