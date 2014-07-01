@@ -14,9 +14,7 @@ f) közzététel: a reklám megismerhetővé tétele, akár nagyobb nyilvánoss�
 
 g) magatartási kódex: olyan – piaci önszabályozás keretében létrehozott – megállapodás vagy szabályegyüttes, amely valamely kereskedelmi gyakorlat vagy tevékenységi ágazat vonatkozásában követendő magatartási szabályokat határoz meg azon vállalkozások számára, amelyek a kódexet magukra nézve kötelezőnek ismerik el,
 
-h) megtévesztő reklám: minden olyan reklám, amely bármilyen módon – beleértve a megjelenítését is – megtéveszti vagy megtévesztheti azokat a személyeket, akik felé irányul, vagy akiknek a tudomására juthat, és megtévesztő jellege miatt befolyásolhatja e személyek gazdasági magatartását, vagy ebből eredően a reklámozóéval azonos vagy ahhoz hasonló tevékenységet folytató más vállalkozás jogait sérti vagy sértheti,
-
-i) összehasonlító reklám: olyan reklám, amely közvetve vagy közvetlenül felismerhetővé tesz más, a reklámozóéval azonos vagy ahhoz hasonló tevékenységet folytató vállalkozást vagy ilyen vállalkozás által előállított, forgalmazott vagy bemutatott, a reklámban szereplő áruval azonos vagy ahhoz hasonló rendeltetésű árut,
+h)–i)
 
 j) reklám címzettje: aki felé a reklám irányul, illetve akihez a reklám eljut,
 

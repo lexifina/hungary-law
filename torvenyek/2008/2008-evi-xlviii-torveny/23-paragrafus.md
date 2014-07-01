@@ -16,7 +16,7 @@ c) a címzettlen reklámküldemények tartalmáért felelősséggel nem tartozik
 
 (5) Az 5. § (4) bekezdésében meghatározott kötelezettség megsértéséért a reklám közzétevője felel.
 
-(6) A 12. §-ban és a 13. §-ban foglalt rendelkezések megsértéséért a reklámszolgáltató, illetve a reklám közzétevője csak annyiban felel, amennyiben a jogsértés a reklám megjelenítési módjával összefüggő olyan okból ered, amely nem a reklámozó kifejezett utasítása végrehajtásának a következménye.
+(6)
 
 (7) A 20. §-ban foglalt rendelkezések megsértéséért a szponzorálást nyújtó és a szponzorálást elfogadó vállalkozás egyaránt felelős.
 

@@ -1,1 +1,1 @@
-2. § E törvénynek a megtévesztő reklámra vonatkozó rendelkezéseit csak annyiban kell alkalmazni, amennyiben a reklám címzettje kizárólag vállalkozás vagy önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró nem természetes személy.
+2. §
