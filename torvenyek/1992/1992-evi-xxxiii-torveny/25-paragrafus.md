@@ -60,6 +60,6 @@ h)
 
 a) a közalkalmazott a 20. § (6) bekezdésében foglalt kötelezettségének a felhívástól számított tizenöt munkanapon belül nem tesz eleget és nem igazolja, hogy a kötelezettség elmulasztása menthető ok következménye,
 
-b) a 20. § (2) bekezdés a) pontjában vagy a (6) bekezdésben meghatározott kizáró ok fennállását a munkáltató a bűnügyi nyilvántartó szerv által az igazolás céljából kiállított hatósági bizonyítvány tartalma alapján megállapítja, vagy az egyéb módon a tudomására jut.
+b) a 20. § (2) bekezdés a) pontjában, (2d) és (2e) bekezdésében vagy (6) bekezdésében meghatározott feltételnek való megfelelést a munkavállaló a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal nem tudja igazolni, vagy a foglalkoztatást kizáró ok egyéb módon a munkáltató tudomására jut.
 
 (4) A közalkalmazotti jogviszony (3) bekezdésben meghatározott azonnali hatályú megszüntetését írásban indokolni kell.
