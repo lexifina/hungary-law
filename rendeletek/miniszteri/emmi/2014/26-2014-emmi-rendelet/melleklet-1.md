@@ -1,4 +1,4 @@
-## 14. § Hatályát veszti a terhesgondozásról szóló 33/1992. (XII. 23.) NM rendelet.
+## 14. §[^1]
 
 1. melléklet a 26/2014. (IV. 8.) EMMI rendelethez
 
@@ -93,3 +93,5 @@ P. H.
 | 20. | vizelet (fehérje, genny, cukor, aceton, urobilinogen, üledék) | 36–37. héten |  |  |
 
 | 21. | kardiotokográfos szűrővizsgálat | 38. héten 39. héten 40. héten |  |  |
+
+[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
