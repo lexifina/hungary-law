@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-60-20-2
 | 2014-03-07 | 2014-60-20-22.1 | 60/2014. (III. 6.) Korm. rendelet |
 | 2014-03-08 | 2014-60-20-22.2 | 2010: CXXX. törvény |
 | 2014-07-01 | 2014-60-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2014-07-02 | 2014-60-20-22.4 | 2010: CXXX. törvény |

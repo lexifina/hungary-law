@@ -1,5 +1,3 @@
-## 28. § A 13. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+## 28. §[^2]
 
-## (A FAIR KR révén a monitoring egység)
-
-## „c) a támogatáskezeléshez szükséges adatokat az ingatlan-nyilvántartási informatikai rendszerből, a cégnyilvántartási és céginformációs rendszerből, valamint a civil szervezetek nyilvántartására szolgáló informatikai rendszerből átveszi és biztosítja az érintett szervezetek számára,”
+[^2]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
