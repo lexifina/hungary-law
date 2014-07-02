@@ -1,3 +1,3 @@
-## 9. § Az R. 19. §-a helyébe a következő rendelkezés lép:
+10. §[^12]
 
-## „19. § Az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012.1.11., 3. o.) (a továbbiakban: 2012/21/EU bizottsági határozat), továbbá a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. október 23-i 1370/2007/EK európai parlamenti és tanácsi rendelet (HL L 315., 2007.12.3., 1. o.) (a továbbiakban: 1370/2007/EK európai parlamenti és tanácsi rendelet) hatálya alá tartozó állami támogatások esetében a támogatási tervezetek bejelentésére és a miniszter ezzel kapcsolatos eljárására a 7–13. § rendelkezéseit az ezen alcímben meghatározott kiegészítésekkel kell alkalmazni.”
+[^12]: A 8–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

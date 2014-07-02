@@ -1,5 +1,6 @@
-14. § (1) Hatályát veszti az R. 5. § (2) bekezdése, valamint 18. § (3) bekezdés b) és c) pontja.
+14. § (1)[^16]
 
-(2)[^2]
+(2)[^17]
 
-[^2]: A 14. § (2) bekezdése a 16. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^16]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 14. § (2) bekezdése a 16. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
