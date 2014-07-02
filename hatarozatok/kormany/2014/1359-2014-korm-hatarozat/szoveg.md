@@ -48,4 +48,6 @@ i) a vonatkozó kormányhatározatok, jogszabályok végrehajtását, illetve az
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8. Hatályát veszti az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1743/2013. (X. 16.) Korm. határozat.
+8.[^1]
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
