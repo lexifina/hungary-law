@@ -1,3 +1,6 @@
-## 7. § Hatályát veszti az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 16. § (1) bekezdés c) pontja és 16/A. §-a.
+## 3–7. §[^1]
 
-1. melléklet a 76/2014. (III. 14.) Korm. rendelethez
+1–2. melléklet a 76/2014. (III. 14.) Korm. rendelethez[^2]
+
+[^1]: A 3–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1–2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
