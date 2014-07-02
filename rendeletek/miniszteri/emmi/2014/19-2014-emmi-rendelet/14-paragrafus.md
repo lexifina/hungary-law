@@ -1,1 +1,0 @@
-## „(5a) Egy csoportban legfeljebb 2 fő kettős szükségletű gyermek helyezhető el. Ettől kizárólag az érintett gyermekek érdekében lehet eltérni. Kettős szükségletű gyermek elhelyezése esetén a csoport létszáma csökkenthető.”
