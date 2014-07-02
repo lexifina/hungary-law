@@ -1,1 +1,3 @@
-83. § Hatályát veszti az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 6/2003. (III. 7.) BM rendelet.
+83. §[^1]
+
+[^1]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
