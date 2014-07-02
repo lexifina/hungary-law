@@ -1,7 +1,3 @@
-## A Vhr. 4. melléklet VIII. pont 3. alpontja a következő f) ponttal egészül ki:
+7. melléklet az 529/2013. (XII. 30.) Korm. rendelethez[^26]
 
-## (Az átadott mennyiség jogcímek szerint:)
-
-## „f) a Ktdt. 3. § (6) bekezdés d) pontja alapján átadott mennyiség.”
-
-7. melléklet az 529/2013. (XII. 30.) Korm. rendelethez
+[^26]: A 7. melléklet a 2010. CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
