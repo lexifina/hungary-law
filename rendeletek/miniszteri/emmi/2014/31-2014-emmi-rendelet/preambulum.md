@@ -1,5 +1,0 @@
-Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 73. § (2) bekezdés a) pontjában, valamint az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet 15. pontjában meghatározott feladatkörömben eljárva, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben,
-
-a 2. alcím tekintetében az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 73. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § p) pontjában meghatározott feladatkörömben eljárva
-
-a következőket rendelem el:
