@@ -1,17 +1,19 @@
 ## 16. Hatályon kívül helyező rendelkezések
 
-136. § (1) Hatályát veszti a 22. § (2) bekezdése.
+136. § (1)[^2]
 
-(2)[^2]
+(2)[^3]
 
 (3) Hatályát veszti
 
-a)–f)[^3]
+a)–f)[^4]
 
-g) a Közpolitikai Kutatások Intézete központi hivatali jogállásáról szóló 374/2010. (XII. 31.) Korm. rendelet,
+g)[^5]
 
-h)[^4]
+h)[^6]
 
-[^2]: A 136. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 136. § (3) bekezdés a)–f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 136. § (3) bekezdés h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 136. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 136. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 136. § (3) bekezdés a)–f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 136. § (3) bekezdés g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 136. § (3) bekezdés h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
