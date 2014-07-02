@@ -1,1 +1,0 @@
-## „g) az anyakönyvvezetőtől az örökbe fogadni szándékozó személy anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek az örökbe fogadni szándékozó személy születésével és házasságával kapcsolatban nyilvántartott adatait.”
