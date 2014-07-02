@@ -1,3 +1,1 @@
-60. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 79. §-a a következő szöveggel lép hatályba:
-
-„79. § Az 1980. december 31-ig vezetett anyakönyv levéltár által őrzött másodpéldányából a 78. § (2) bekezdése szerinti tájékoztatás és a 93/A. § szerinti kutatás kivételével adattovábbítás nem teljesíthető és adat nem tehető megismerhetővé.”
+### 60. §
