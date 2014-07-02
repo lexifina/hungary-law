@@ -1,1 +1,0 @@
-## „(4) Ha a beteg az (1) bekezdés szerinti időtartam alatt a rendelt kúra igénybevételét nem kezdte meg és a vényt átadja az újabb kúrát elrendelő orvosnak, a kúrát – a 7. § (1) bekezdésének alkalmazása során – el nem rendeltnek kell tekinteni.”
