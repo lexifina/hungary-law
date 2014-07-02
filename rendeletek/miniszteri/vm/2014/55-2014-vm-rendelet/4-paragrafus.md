@@ -1,3 +1,0 @@
-## 3. § A Rendelet 6. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A termékkel való ellátás első időszaka szeptember első tanítási napjától szeptember utolsó vasárnapjáig (a továbbiakban: első teljesítési időszak), a termékkel való ellátás második időszaka szeptember utolsó vasárnapját követő hétfőtől december harmadik vasárnapjáig (a továbbiakban: második teljesítési időszak), a termékkel való ellátás harmadik időszaka január második hétfőjétől március utolsó vasárnapjáig (a továbbiakban: harmadik teljesítési időszak), a termékkel való ellátás negyedik időszaka március utolsó vasárnapját követő hétfőtől április utolsó napját követő vasárnapig (a továbbiakban: negyedik teljesítési időszak) tart.”
