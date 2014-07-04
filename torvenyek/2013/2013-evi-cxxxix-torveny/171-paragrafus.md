@@ -44,11 +44,11 @@ b) a készpénzforgalmazás feltételeit,
 
 c) a pénzfeldolgozási tevékenység szabályait és
 
-d) az Fszt. szerinti fizetési rendszer működtetése tevékenységre vonatkozó részletes szabályokat.
+d) a fizetési rendszer működtetése tevékenységre vonatkozó részletes szabályokat.
 
 (3) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy az MNB 4. § (5) bekezdésében és a 28. § (1) és (2) bekezdésében foglalt feladatai körében rendeletben szabályozza
 
-a) az Fszt. szerinti fizetési rendszer működtetése tevékenységet végző szervezetek üzletszabályzatának tartalmi és formai követelményeit és a tevékenység végzéséhez szükséges szabályzatokra vonatkozó követelményeket;
+a) a fizetési rendszer működtetése tevékenységet végző szervezetek üzletszabályzatának tartalmi és formai követelményeit és a tevékenység végzéséhez szükséges szabályzatokra vonatkozó követelményeket;
 
 b) a Tpt. szerinti elszámolóházi tevékenységet végző szervezet üzletszabályzatának tartalmi és formai követelményeit, továbbá
 
