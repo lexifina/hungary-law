@@ -1,4 +1,4 @@
-95. § (1) A választási iroda a 84. §, a 85. §, a 97. § (1) bekezdés a) pontja és a 334. § szerinti kérelem elutasításáról, valamint a 97. § (1) bekezdés b) pontja és (2) bekezdés b) pontja szerinti törlésről határozattal dönt. A határozatra a 46. § rendelkezéseit alkalmazni kell.
+95. § (1) A választási iroda a 84. §, a 85. §, a 97. § (1) bekezdés a) pontja és a 334. § szerinti kérelem elutasításáról, valamint a 97. § (1) bekezdés b) pontja és (2) bekezdés b) pontja szerinti törlésről határozattal dönt. A határozatra a 46. § rendelkezéseit kell alkalmazni. A határozatban pontosan meg kell jelölni az elutasítás, illetve a törlés okát.
 
 (2) Ha a választási iroda a 84. §, a 85. §, a 97. § (1) bekezdés a) pontja vagy a 334. § szerinti kérelemnek helyt ad, döntéséről értesíti a kérelmezőt.
 

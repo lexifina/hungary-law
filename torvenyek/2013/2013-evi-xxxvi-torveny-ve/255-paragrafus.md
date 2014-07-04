@@ -2,6 +2,12 @@
 
 (2) A névjegyzékben a nemzetiség választópolgáraként szereplő választópolgárok számának megállapításakor a nemzetiségi választópolgárként a szavazást megelőző negyvennyolcadik napon a központi névjegyzékben az országgyűlési képviselők választására is kiterjedő hatállyal nemzetiségi választópolgárként szereplő választópolgárokat kell figyelembe venni.
 
-(3) A Nemzeti Választási Iroda – az ajánlóív átadásával egyidejűleg – ingyenesen átadja a jelölő szervezetként jogerősen nyilvántartásba vett országos nemzetiségi önkormányzat számára a központi névjegyzékben az országgyűlési képviselők választására is kiterjedő hatállyal a nemzetiség választópolgáraként szereplő választópolgárok nevét és lakcímét. A nemzetiség választópolgáraként az adatátadást követően névjegyzékbe vett választópolgárok adatait tartalmazó kiegészítő adatszolgáltatást az országos nemzetiségi önkormányzat a szavazást megelőző harmincötödik napig igényelheti.
+(3) A Nemzeti Választási Iroda
 
-(4) A (3) bekezdés szerinti adatszolgáltatás adatait kizárólag az ajánlások gyűjtése, valamint közvetlen politikai kampány céljára lehet felhasználni. Az adatszolgáltatás adatainak kezelésére a 155. §-ban és a 218. § (2) bekezdés d) pontjában foglalt rendelkezéseket is alkalmazni kell.
+a) az ajánlóív átadásával egyidejűleg,
+
+b) a jelölő szervezet kérésére a szavazást megelőző harmincötödik és tizenharmadik napon, a 89. § (1) bekezdése szerint az adatai kiadását megtiltó választópolgárok adatainak kivételével
+
+ingyenesen átadja a jelölő szervezetként jogerősen nyilvántartásba vett országos nemzetiségi önkormányzat számára a központi névjegyzékben az országgyűlési képviselők választására is kiterjedő hatállyal a nemzetiség választópolgáraként szereplő választópolgárok nevét és lakcímét.
+
+(4) A (3) bekezdés a) pontja szerinti adatszolgáltatás adatait kizárólag az ajánlások gyűjtése, a (3) bekezdés b) pontja szerinti adatszolgáltatás adatait kizárólag közvetlen politikai kampány céljára lehet felhasználni. Az adatszolgáltatás adatainak kezelésére a 155. §-ban és a 218. § (2) bekezdés d) pontjában foglalt rendelkezéseket is alkalmazni kell.

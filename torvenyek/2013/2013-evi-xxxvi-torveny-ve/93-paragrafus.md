@@ -2,7 +2,7 @@
 
 93. § (1) A választási iroda a névjegyzékkel kapcsolatos kérelemnek csak abban az esetben adhat helyt, ha a választópolgárnak a kérelemben szereplő adatai megegyeznek a polgárok személyi és lakcím adatait tartalmazó nyilvántartás, illetve a magyar állampolgárságát igazoló okirata nyilvántartásának adataival.
 
-(1a) A 84. § szerinti kérelem elbírálása során a választási iroda abban az esetben is helyt ad a kérelemnek, ha a kérelemben foglaltak
+(1a) A 84. § és a 85. § szerinti kérelem elbírálása során a választási iroda abban az esetben is helyt ad a kérelemnek, ha a kérelemben foglaltak
 
 a) ékezethiba,
 

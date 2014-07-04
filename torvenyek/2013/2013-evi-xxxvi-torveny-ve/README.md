@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-36-00-00
 | 2013-12-11 | 2013. évi CCVII. törvény | 2013-36-00-00.4 |
 | 2014-01-18 | 2013. évi CCXXXVIII. törvény | 2013-36-00-00.5 |
 | 2014-06-18 | 2014. évi XXIII. törvény | 2013-36-00-00.6 |
+| 2014-07-04 | 2014. évi XXVI. törvény | 2013-36-00-00.7 |
