@@ -6,7 +6,7 @@
 
 (3) A Takarékbank Zrt. részvényei nem terhelhetőek meg, hitel fedezetét nem képezhetik, óvadékba nem helyezhetőek, kölcsönbe nem adhatóak, nem állhatnak közös tulajdonban, azokat a Takarékbank Zrt. igazgatósága által kijelölt letétkezelőnél kell folyamatosan tartani.
 
-(4) A Takarékbank Zrt. részvényese – az MFB-n és a Magyar Postán illetve esetleges jogutódjaikon kívül – nem gyakorolhatja a részvényesi jogait és esetleges elővásárlási vagy más részvényhez fűződő előjogait, amennyiben
+(4) A Takarékbank Zrt. részvényese – az MFB-n és a Magyar Postán kívül – nem gyakorolhatja a részvényesi jogait és esetleges elővásárlási vagy más részvényhez fűződő előjogait, amennyiben
 
 a) tőkemegfelelése nem éri el a Takarékbank Zrt. által előírt szintet, vagy
 
