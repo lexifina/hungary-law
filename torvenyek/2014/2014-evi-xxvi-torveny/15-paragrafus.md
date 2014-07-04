@@ -7,11 +7,3 @@ b) 12. § a) pontja, 13. § c) pontja és 14. §-a az Alaptörvény XXIX. cikk (
 c) 4. §-a és 12. § b) pontja az Alaptörvény 2. cikk (1) bekezdése
 
 alapján sarkalatosnak minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
