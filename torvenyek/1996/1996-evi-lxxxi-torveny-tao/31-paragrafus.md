@@ -22,8 +22,8 @@ b) a nemzetközi vállalkozások és az adóhatóságok részére készült, a k
 
 c)
 
-(3) E törvény a következő uniós jogi aktus végrehajtásához szükséges rendelkezéseket állapítja meg: Iránymutatás a 2007–2013 közötti időszakra vonatkozó nemzeti regionális támogatásokról (2006/C 54/08), valamint az N 651/2006 számú Állami Támogatás – Magyarország.
+(3) E törvény a következő uniós jogi aktus végrehajtásához szükséges rendelkezéseket állapítja meg: Iránymutatás a regionális állami támogatásokról (2014–2020).
 
 (4) Ez a törvény az Európai Közösséget Létrehozó Szerződés 107. és 108. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásra történő alkalmazásáról szóló rendelet hatálya alá tartozó támogatási programot tartalmaz.
 
-(5) E törvény 22/B. § (1) bekezdésének j), k), l) pontja, valamint (9) és (14) bekezdése a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-ai 800/2008/EK bizottsági rendelet (HL L 214., 2008. 08. 09., 3-47. o.) hatálya alá tartozó regionális beruházási támogatási programnak minősül.
+(5)

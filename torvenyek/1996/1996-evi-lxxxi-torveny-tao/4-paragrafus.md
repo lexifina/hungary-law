@@ -2,7 +2,7 @@
 
 4. § E törvény alkalmazásában
 
-1.
+1. azonos vagy hasonló tevékenység: a fejlesztési adókedvezmény iránti kérelem, illetve bejelentés benyújtásának időpontjában hatályos TEÁOR szerint ugyanazon szakágazatba sorolt tevékenység;
 
 1/a. adomány: a közhasznú szervezet részére törvényben meghatározott közhasznú tevékenysége támogatására, valamint az egyházi jogi személy részére törvényben meghatározott tevékenysége támogatására, továbbá a közérdekű kötelezettségvállalás céljára az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve hogy az nem jelent az e törvényben meghatározottakon túl vagyoni előnyt az adományozónak, az adományozó tagjának vagy részvényesének, vezető tisztségviselőjének, felügyelőbizottsága vagy igazgatósága tagjának, könyvvizsgálójának, illetve ezen személyek vagy a természetes személy tag vagy részvényes közeli hozzátartozójának azzal, hogy nem minősül vagyoni előnynek az adományozó nevére, tevékenységére történő utalás;
 
@@ -77,6 +77,8 @@ h) e rendelkezésben foglaltakat – az f) pont szerinti tényleges tulajdonosi 
 16/b. foglalkoztatói nyugdíjszolgáltató intézmény: a foglalkoztatói nyugdíjról és intézményeiről szóló törvény szerinti foglalkoztatói nyugdíjszolgáltató intézmény;
 
 17. független képviselő: az adózótól gazdaságilag és jogilag független személy, amely/aki a szokásos üzletmenete szerint jár el, amikor az adózót képviseli; nem számít szokásos üzletmenetnek, ha a képviselő olyan tevékenységet is végez, amely az adózó tevékenységi körébe tartozik; nem független a képviselő, ha üzleti tevékenységét az adózó részletes utasítása vagy átfogó ellenőrzése mellett végzi, vagy ha a kockázatot az adózó és nem a képviselő viseli;
+
+17/a. induló beruházás: az a beruházás, amely új létesítmény létrehozatalát, meglévő létesítmény bővítését, létesítmény termékkínálatának a létesítményben addig nem gyártott termékekkel történő bővítését vagy egy meglévő létesítmény teljes termelési folyamatának lényegi átalakítását eredményezi, valamint az olyan létesítmény eszközeinek eladótól független, harmadik fél beruházó általi felvásárlása, amely létesítmény bezárásra került vagy bezárásra került volna;
 
 18. ingatlan: a föld és a földdel alkotórészi kapcsolatban álló minden dolog;
 
@@ -158,7 +160,7 @@ c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be;
 
 27. külföldi személy: a külföldi jogszabályok alapján létrejött jogi személy, jogi személyiséggel nem rendelkező társas cég, személyi egyesülés, egyéb szervezet;
 
-28.
+28. önálló környezetvédelmi beruházás: az a beruházás, amely kizárólag a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 1. § (2) bekezdés a)–c) pontja szerinti célt szolgál;
 
 28/a. országos érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett egyesületek szövetsége, amelynek tagjai alapszabályuk szerint a munkavállalók vagy a munkáltatók érdekeit képviselik, feltéve, hogy a szövetségnek vagy a tagjának legalább tíz, különböző megyében működő, jogi személyiséggel rendelkező szervezeti egysége van;
 
@@ -174,7 +176,7 @@ c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be;
 
 30/c. szabályozott ingatlanbefektetési társaság: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott feltételekkel az állami adóhatóság által szabályozott ingatlanbefektetési társaságként nyilvántartásba vett gazdasági társaság;
 
-31. szabad vállalkozási zóna: a térség fejlődése érdekében, a Kormány által kijelölt, térségi gazdaságfejlesztő szervezet által koordinált, közigazgatási határokkal, illetve helyrajzi számokkal lehatárolt, a fejlesztés szempontjából együtt kezelt térség;
+31. szabad vállalkozási zóna: a fejlesztési adókedvezmény iránti kérelem, illetve bejelentés benyújtásának időpontjában a térség fejlődése érdekében, a Kormány által kijelölt, térségi gazdaságfejlesztő szervezet által koordinált, közigazgatási határokkal, illetve helyrajzi számokkal lehatárolt, a fejlesztés szempontjából együtt kezelt térség;
 
 31/a. számított nyilvántartási érték: az immateriális jószág, a tárgyi eszköz bekerülési értéke, csökkentve az adóalapnál érvényesített értékcsökkenési leírással, növelve az adóalapnál érvényesített terven felüli értékcsökkenés visszaírt összegével;
 
@@ -224,7 +226,7 @@ h) a külföldi személyt telephellyel rendelkezőnek kell tekinteni, ha fiókte
 
 35. üzletvezetés helye: az a hely, ahol az ügyvezetés az irányításra berendezkedett;
 
-36.
+36. új gazdasági tevékenység végzésére irányuló induló beruházás: az az induló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének új tevékenységgel történő kibővítését eredményezi, valamint az olyan létesítmény eszközeinek eladótól független, harmadik fél beruházó általi felvásárlása, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek;
 
 37. előadó-művészeti szervezet: az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény szerint nyilvántartásba vett szervezet.
 
