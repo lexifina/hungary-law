@@ -21,3 +21,7 @@ L(H): a levonási hányados, amelynek
 2. Abban az esetben, ha az adóalany közvetlenül olyan pénzbeni támogatásban részesül, amely a 65. § szerint a termék értékesítésének, szolgáltatás nyújtásának árát (díját) közvetlenül nem befolyásolja, a támogatás forintban megállapított és éves szinten összesített összege az 1. pont szerinti levonási hányados nevezőjének értékét növeli.
 
 3. Az 1. pont szerinti levonási hányadosnak sem a számlálójában, sem a nevezőjében nem szerepelhet:
+
+a) a tárgyi eszköz értékesítésének ellenértéke, amelyet az adóalany az értékesítést megelőzően saját vállalkozásában használt;
+
+b) az ingatlan értékesítésének, illetőleg az ingatlanhoz kapcsolódó szolgáltatás nyújtásának ellenértéke, ha a tevékenységet az adóalany eseti jelleggel végzi;
