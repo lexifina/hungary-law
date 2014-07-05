@@ -1,3 +1,0 @@
-13. § A Kt. 29. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A felügyelő bizottság hét tagból áll. A felügyelő bizottság két tagját a miniszter, egy tagját az államháztartásért felelős miniszter, egy tagját a MEKH elnöke delegálja, két tagját a kőolaj szekció, egy tagját a földgáz szekció jelölésére a közgyűlés választja három évre. A tagok maguk közül elnököt választanak. A felügyelő bizottság határozatképes, ha legalább négy tagja jelen van. A felügyelő bizottság határozatát egyszerű többséggel hozza és szavazategyenlőség esetén az elnök szavazata dönt. A felügyelő bizottság ügyrendjét maga állapítja meg és a közgyűlés hagyja jóvá.”
