@@ -22,4 +22,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2014. július 31.
 
-5. visszavonja a társasági részesedés megszerzése érdekében szükséges intézkedésekről szóló 1163/2014. (III. 25.) Korm. határozatot.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
