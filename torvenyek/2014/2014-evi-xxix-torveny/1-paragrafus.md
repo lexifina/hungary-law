@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Németországi Szövetségi Köztársaság Kormánya között Magyarország fegyveres erői és a Német Szövetségi Köztársaság fegyveres erői tagjainak a másik állam területén történő ideiglenes tartózkodásáról szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
