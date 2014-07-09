@@ -272,7 +272,7 @@ Határidő: 2011.június 15.[^40]
 
 9.3.3. a Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Közalapítvány,
 
-9.3.4.[^44] a Magyar Nemzeti Üdülési Alapítvány,
+9.3.4.[^44]
 
 9.4. a külügyminisztert
 
@@ -445,7 +445,7 @@ Határidő: 2011. február 28.
 [^41]: A 9. pont 9.1.2. alpontját az 1152/2013. (III. 26.) Korm. határozat 1. pontja iktatta be.
 [^42]: A 9. pont 9.3. alpont 9.3.1. pontját az 1603/2013. (IX. 3.) Korm. határozat 2. pontja hatályon kívül helyezte.
 [^43]: A 9. pont 9.3. alpont 9.3.2. pontját az 1603/2013. (IX. 3.) Korm. határozat 2. pontja hatályon kívül helyezte.
-[^44]: A 9. pont 9.3.4. alpontját az 1692/2012. (XII. 29.) Korm. határozat 3. pontja iktatta be.
+[^44]: A 9. pont 9.3.4. alpontját az 1692/2012. (XII. 29.) Korm. határozat 3. pontja iktatta be, hatályon kívül helyezte az 1371/2014. (VII. 8.) Korm. határozat 4. pontja.
 [^45]: A 9. pont 9.5. alpontja az 1459/2012. (X. 19.) Korm. határozat 3. pontjával megállapított szöveg.
 [^46]: A 9. pont 9.5.8. alpontját az 1035/2011. (III. 3.) Korm. határozat 9. pontja iktatta be.
 [^47]: A 9.6. pont 9.6.1. alpontját az 1538/2012. (XII. 4.) Korm. határozat 2. pontja hatályon kívül helyezte.
