@@ -12,4 +12,6 @@ Határidő: 2014. július 15.
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-4. Hatályát veszti a Kormány által alapított közalapítványokkal és alapítványokkal kapcsolatos időszerű intézkedésekről szóló 1159/2010. (VII. 30.) Korm. határozat által előírt felülvizsgálati eljárás megállapításai alapján szükséges intézkedésekről szóló 1316/2010. (XII. 27.) Korm. határozat 9.3.4. pontja.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
