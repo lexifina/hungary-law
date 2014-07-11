@@ -10,6 +10,8 @@ d) a központi szerv kijelölését.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben a nyilvántartás vezetésével összefüggésben feladat- és hatáskört telepítsen a települési önkormányzat jegyzőjére, valamint meghatározza a feladat- és hatáskör ellátásához szükséges, azzal összefüggő szabályokat.
 
+(1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a települési címek 39. §-ban meghatározott jegyzői ellenőrzési eljárásának részletes szabályait.
+
 (2) A miniszter felhatalmazást kap arra, hogy rendeletben szabályozza
 
 a) a nyilvántartás üzemeltetésével és működésével, továbbá a személyazonosító igazolvány kiadásával és nyilvántartásával, valamint a lakcímnyilvántartással kapcsolatos technikai szabályokat;
