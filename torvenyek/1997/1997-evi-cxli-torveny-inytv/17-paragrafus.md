@@ -36,7 +36,7 @@ benyújtása,
 
 8.4. felügyeleti eljárás megindítása,
 
-9. a bejegyzés, a feljegyzés és az adatváltozás átvezetése alapjául szolgáló vagy azzal kapcsolatos bírósági határozat elleni felülvizsgálati kérelem benyújtása,
+9. a bejegyzés, a feljegyzés és az adatváltozás átvezetése alapjául szolgáló vagy azzal kapcsolatos bírósági határozat elleni felülvizsgálati, illetve perújítási kérelem benyújtása,
 
 10. az ingatlan jogi jellege,
 
@@ -54,13 +54,15 @@ benyújtása,
 
 15. bírósági ítéleten alapuló tulajdoni korlátozás,
 
-16. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás,
+16. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés, valamit önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség,
 
 17. szerződésen, végintézkedésen, bírósági vagy hatósági határozaton alapuló
 
 17.1. elidegenítési és terhelési tilalom,
 
 17.2. elidegenítési tilalom,
+
+17.3. a rendelkezési jogot korlátozó egyéb tilalom,
 
 18. az e törvényben meghatározott
 
@@ -78,26 +80,26 @@ megindítása,
 
 22. a jelzálogjog ranghelyének előzetes biztosítása,
 
-23. a ranghely megváltoztatása,
+23. lemondás jelzálogjog előzetesen biztosított ranghelyével való rendelkezés jogáról,
 
-24. a társasházakról szóló törvény szerinti,
+24. a ranghely megváltoztatása,
 
-24.1. a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább kétharmadát feljogosító alapító okirat elfogadása, módosítása,
+25. a társasházakról szóló törvény szerinti, a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább kétharmadát feljogosító alapító okirat elfogadása, módosítása, továbbá az elfogadás, illetve a módosítás időpontja,
 
-24.2. a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább négyötödét feljogosító alapító okirat elfogadása, módosítása,
+26. az e törvényben meghatározott megismételt hagyatéki eljárás megindítása,
 
-továbbá az elfogadás, illetve a módosítás időpontja,
+27. a földhasználati jog gyakorlása szerződéses szabályozásának ténye,
 
-25. az e törvényben meghatározott megismételt hagyatéki eljárás megindítása,
+28. bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog,
 
-26. a földhasználati jog gyakorlása szerződéses szabályozásának ténye,
+29. a föld tulajdonjogának átruházására irányuló szerződés benyújtása,
 
-27. bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog,
+30. pénzügyi lízingbeadás ténye,
 
-27. nemzeti emlékhely,
+31. nemzeti emlékhely,
 
-28. történelmi emlékhely.
+32. történelmi emlékhely.
 
-(2) Az (1) bekezdés 1–14. és 27–28. pontjaiban meghatározott tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti, a Ptk.-nak a feljegyzés visszamenőleges hatályára vonatkozó rendelkezését ennek megfelelően kell alkalmazni. A 15–26. pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű és ellenérték fejében szerző harmadik jogszerzővel szemben.
+(2) Az (1) bekezdés 1–14. és 31–32. pontjaiban meghatározott tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti, a Ptk.-nak a feljegyzés visszamenőleges hatályára vonatkozó rendelkezését ennek megfelelően kell alkalmazni. A 15–30. pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű és ellenérték fejében szerző harmadik jogszerzővel szemben.
 
-(3) Tulajdonjog fenntartással történt eladás ténye jegyezhető fel az ingatlan tulajdonjogának a futamidő végén – minden további jognyilatkozat nélkül (ide nem értve a tulajdonjog bejegyzési engedélyt) – történő átszállását eredményező pénzügyi lízingbe adás esetében is.
+(3)

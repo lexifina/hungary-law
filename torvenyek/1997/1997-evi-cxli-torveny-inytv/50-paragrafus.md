@@ -1,6 +1,6 @@
 50. § (1) Hivatalból be kell jegyezni a tulajdonjog átruházására irányuló okiratban kikötött haszonélvezeti jogot, használat jogát, tartási vagy életjáradéki jogot, elő- vagy visszavásárlási jogot, telki szolgalmi jogot, vételárhátralék biztosítására alapított jelzálogjogot, elidegenítési és terhelési tilalmat, vagy elidegenítési tilalmat akkor is, ha az akire a tulajdonjogot átruházták csak a tulajdonjog bejegyzését kéri. A bejegyzést a tulajdonjog bejegyzésével egyidejűleg kell teljesíteni. Nem vonatkozik ez a rendelkezés arra az esetre, ha a tulajdonjog bejegyzése iránti kérelem benyújtásáig a jogosult ezeknek a jogoknak, illetve tényeknek a bejegyzéséről lemondott, vagy azok megszűntek.
 
-(1a) A bizalmi vagyonkezelési jogviszony alapján fennálló, vagy létrejövő, kezelt vagyonba kerülő ingatlanra vonatkozó tulajdonjog bejegyzéssel egyidejűleg a vagyonrendelő és a szerződésben név szerint feltüntetett kedvezményezett megjelölésével a 17. § (1) bekezdés 27. pontja szerinti tényt, – külön erre irányuló kérelem nélkül is – fel kell jegyezni.
+(1a) A bizalmi vagyonkezelési jogviszony alapján fennálló, vagy létrejövő, kezelt vagyonba kerülő ingatlanra vonatkozó tulajdonjog bejegyzéssel egyidejűleg a vagyonrendelő és a szerződésben név szerint feltüntetett kedvezményezett megjelölésével a 17. § (1) bekezdés 28. pontja szerinti tényt, – külön erre irányuló kérelem nélkül is – fel kell jegyezni.
 
 (2) Hivatalból törölni kell az ingatlan-nyilvántartásból
 
