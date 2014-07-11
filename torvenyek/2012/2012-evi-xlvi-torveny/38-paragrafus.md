@@ -8,9 +8,9 @@
 
 a) jelölje ki a földmérési és térinformatikai államigazgatási szervet és határozza meg a földmérési és térinformatikai államigazgatási szerv, valamint az ingatlanügyi hatóság e törvény hatálya alá tartozó feladatait, hatáskörét és illetékességi területét,
 
-b) határozza meg a nemzeti téradat-infrastruktúra működését irányító állandó bizottság szervezetét, feladatát, működésének szabályait és feltételeit,
+b)
 
-c) határozza meg a nemzeti téradat-infrastruktúra működésének szabályait, valamint jelölje ki a központi irányításért felelős szervezetet,
+c) határozza meg a nemzeti téradat-infrastruktúra működésének részletes szabályait, különös tekintettel az abban kezelt adatok körére, az adatszolgáltatás és adatkezelés rendjére, az adatok felhasználásának részletes szabályaira, valamint jelölje ki ezen feladatok központi irányításáért felelős szervezetet,
 
 d) állapítsa meg az államhatár vonalát rögzítő okmányok nyilvántartási példányai kezelésének, tárolásának rendjét és a változások átvezetésének szabályait,
 

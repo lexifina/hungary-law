@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-46-00-00
 | 2014-03-01 | 2013. évi CCL. törvény | 2012-46-00-00.14 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2012-46-00-00.15 |
 | 2014-03-16 | 2013. évi CCL. törvény | 2012-46-00-00.16 |
+| 2014-07-11 | 2014. évi XXXI. törvény | 2012-46-00-00.17 |
