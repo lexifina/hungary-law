@@ -10,6 +10,6 @@ d) előterjeszti a Kormány részére elfogadás céljából a 8. § (1) bekezd�
 
 e) dönt az NFA költségvetési előirányzatával kapcsolatos előterjesztésekről;
 
-f) kinevezi a Tanács elnökét és a Tanács 10. § (1) bekezdésének b)–d) pontjában meghatározott tagjait;
+f) kinevezi a Tanács elnökét és tagjait;
 
 g) jóváhagyja a Tanács ügyrendjét.

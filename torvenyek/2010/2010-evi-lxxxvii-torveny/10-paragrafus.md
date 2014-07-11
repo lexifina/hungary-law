@@ -1,12 +1,4 @@
-10. § (1) A Tanács elnökét a miniszter nevezi ki, további tagjai:
-
-a) az NFA elnöke;
-
-b) a miniszter által kinevezett személyek;
-
-c) az állami vagyon felügyeletéért felelős miniszter által jelölt és a miniszter által kinevezett egy személy;
-
-d) a kormányzati tevékenység összehangolásáért felelős miniszter által jelölt és a miniszter által kinevezett egy személy.
+10. § (1) A Tanács elnökét és további négy tagját a miniszter nevezi ki.
 
 (2) A Tanács elnöke és tagja (a továbbiakban együtt: tag) magyar állampolgár lehet. A Tanács tagja nem lehet:
 
