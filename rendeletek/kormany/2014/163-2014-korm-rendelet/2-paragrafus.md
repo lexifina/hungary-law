@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Nemzetközi Migrációs Politikát Fejlesztő Központ (ICMPD) alapításáról és működéséről szóló, Bécsben 1993. június 1. napján aláírt Megállapodásnak az ICMPD belső adórendszere bevezetésével kapcsolatos negyedik módosításáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
