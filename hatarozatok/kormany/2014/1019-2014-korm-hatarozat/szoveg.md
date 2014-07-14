@@ -1,4 +1,4 @@
-A Kormány felhatalmazza a nemzetgazdasági minisztert, hogy
+A Kormány felhatalmazza a külgazdasági és külügyminisztert, hogy
 
 a) a Magyarország Kormánya és a ZF Hungária Ipari és Kereskedelmi Korlátolt Felelősségű Társaság (székhelye: 3300 Eger, Kistályai utca 2., cégjegyzékszám: 10-09-021910),
 
@@ -6,6 +6,8 @@ b) a Magyarország Kormánya és a Schwarzmüller Járműgyártó és Kereskedel
 
 között kötendő stratégiai együttműködési megállapodást a Kormány nevében aláírja.
 
-Felelős: nemzetgazdasági miniszter
+Felelős: külgazdasági és külügyminiszter
 
-Határidő: azonnal
+Határidő: azonnal[^1]
+
+[^1]: A határozat szövege az 1380/2014. (VII. 14.) Korm. határozat szerint módosított szöveg.
