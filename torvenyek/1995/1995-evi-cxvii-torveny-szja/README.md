@@ -55,3 +55,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 1995-117-00-00.124 |
 | 2014-05-06 | 2013. évi CC. törvény | 1995-117-00-00.125 |
 | 2014-05-16 | 2014. évi XVIII. törvény | 1995-117-00-00.126 |
+| 2014-07-15 | 2014. évi XXXIII. törvény | 1995-117-00-00.127 |
