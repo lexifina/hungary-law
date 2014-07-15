@@ -34,6 +34,6 @@ d) ahol jogszabály a társasági adóról szóló 1991. évi LXXXVI. törvényt
 
 a) a támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat;
 
-b) a 22. § (4) bekezdése szerinti támogatási igazolás iránti kérelem tartalmát, a támogatási igazolás kiállítására irányuló eljárás szabályait és a támogatási igazolás tartalmát, valamint a támogatási igazolással kapcsolatos adatszolgáltatás és ellenőrzés részletes szabályait
+b) a 22. § (4) bekezdése szerinti támogatási igazolás iránti kérelem tartalmát, a támogatási igazolás kiállítására irányuló eljárás szabályait, a támogatási igazolás tartalmát, valamint a támogatási igazolással kapcsolatos adatszolgáltatás és ellenőrzés, továbbá a 22. § (1) bekezdése szerinti kiegészítő támogatás megfizetésének részletes szabályait
 
 meghatározza.

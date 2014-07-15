@@ -36,7 +36,7 @@ gy) a tagnál (részvényesnél, üzletrész-tulajdonosnál)
 
 2. az ellenőrzött külföldi társaságban lévő részesedés 1. pont szerinti kivonásakor a kivezetett részesedés (10) bekezdés szerinti értékét meghaladóan a kivezetés következtében az adóévben elszámolt bevétel, legfeljebb a 8. § (1) bekezdésének f) pontja alapján az adózás előtti eredmény növeléseként elszámolt – az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazolt – és az adózás előtti eredmény csökkentéseként még figyelembe nem vett összeg;
 
-h) a megszerzett társaság tagjánál (részvényesénél) a kedvezményezett részesedéscsere alapján kivezetett részesedésre az adóévben elszámolt árfolyamnyereség, ha az adózó igénybe kívánja venni e kedvezményt; e kedvezmény alkalmazása esetén az adózó a kedvezményezett részesedéscsere alapján megszerzett valamennyi részesedést elkülönítetten tartja nyilván,
+h) a megszerzett társaság tagjánál (részvényesénél) a kedvezményezett részesedéscsere alapján kivezetett részesedésre az adóévben elszámolt árfolyamnyereség [ideértve a kivezetett részesedés kapcsán – a kedvezményezett részesedéscsere során – a 8. § (1) bekezdés dzs) pont b) alpontja alapján elszámolt összeget is], ha az adózó igénybe kívánja venni e kedvezményt; e kedvezmény alkalmazása esetén az adózó a kedvezményezett részesedéscsere alapján megszerzett valamennyi részesedést elkülönítetten tartja nyilván,
 
 i) az iskolai rendszerű szakképzésben közreműködő adózónál tanulónként minden megkezdett hónap után havonta az adóév első napján érvényes minimálbér 24 százaléka, ha az adózó a szakképző iskolai tanuló gyakorlati képzését jogszabályban meghatározott tanulószerződés alapján végzi, illetve 12 százaléka, ha az iskolával kötött együttműködési megállapodás alapján végzi,
 

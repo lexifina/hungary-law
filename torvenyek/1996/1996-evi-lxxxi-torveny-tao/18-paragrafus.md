@@ -26,7 +26,11 @@ e) nyereségmegosztásos módszerrel, amelynek során az ügyletből származó 
 
 f) egyéb módszer alapján, ha a szokásos piaci ár az a)–e) pontokban foglaltak alapján nem határozható meg.
 
-(3) Az (1)–(2) és (4) bekezdésben foglaltakat nem kell alkalmaznia az adóév utolsó napján kis- és középvállalkozásnak minősülő adózónak a közös beszerzés és értékesítés érdekében létrehozott olyan kapcsolt vállalkozással – a versenyhátrány megszüntetése céljából – kötött tartós szerződésre, amely kapcsolt vállalkozásban a kis- és középvállalkozások szavazati joga együttesen meghaladja az 50 százalékot.
+(3) Az (1)–(2) és (4) bekezdésben foglaltakat nem kell alkalmaznia
+
+a) az adóév utolsó napján kis- és középvállalkozásnak minősülő adózónak a közös beszerzés és értékesítés érdekében létrehozott olyan kapcsolt vállalkozással – a versenyhátrány megszüntetése céljából – kötött tartós szerződésre, amely kapcsolt vállalkozásban a kis- és középvállalkozások szavazati joga együttesen meghaladja az 50 százalékot,
+
+b) az adózónak az állam vagy helyi önkormányzat részére történő, jogszabályban meghatározott kötelezettségen alapuló, visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz (ideértve a beruházás átadását is) esetében.
 
 (4) A szokásos haszon az a haszon, amelyet összehasonlítható tevékenységet végző független felek összehasonlítható körülmények között elérnek.
 
