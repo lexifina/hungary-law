@@ -1,15 +1,9 @@
 19. § Hatályát veszti az Áfa tv.
 
-a) 46. § (2) bekezdés i)–k) pontja,
+a)–c)
 
-b) 46. § (5) bekezdése,
+d)–e)
 
-c) 47–48. §-a,
+f)
 
-d) 142. § (1) bekezdés h) pontja,
-
-e) 142. § (1) bekezdés j) pontja,
-
-f) 259. § 17. pontja,
-
-g) 6/B. számú melléklete.
+g)

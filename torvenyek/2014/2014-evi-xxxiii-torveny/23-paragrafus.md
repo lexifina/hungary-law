@@ -1,5 +1,1 @@
-23. § Az Art. 31/A. §-a a következő (3)–(4) bekezdéssel egészül ki:
-
-„(3) Az általános forgalmi adó alanya az adómegállapítási időszakról benyújtott általános forgalmiadó-bevallásában nyilatkozik az adómegállapítási időszakban teljesített, az Áfa tv. 142. § (1) bekezdés j) pontja alá tartozó termékértékesítése tekintetében a vevő adószámáról, a termékértékesítés teljesítésének napjáról, valamint – az Áfa tv. 6/B. számú mellékletében meghatározott vámtarifaszám szerinti bontásban – az értékesített termék ezer forintra kerekített összegben meghatározott adóalapjáról és kilogrammban meghatározott mennyiségéről.
-
-(4) Az általános forgalmi adó alanya az adómegállapítási időszakról benyújtott általános forgalmiadó-bevallásában azon, az Áfa tv. 142. § (1) bekezdés j) pontja alá tartozó termékbeszerzése tekintetében, amelyek után termékbeszerzőként az adott adómegállapítási időszakban adófizetési kötelezettsége keletkezett, nyilatkozik a termékértékesítő adószámáról, a termékértékesítés teljesítésének napjáról, valamint – az Áfa tv. 6/B. számú mellékletében meghatározott vámtarifaszám szerinti bontásban – a beszerzett termék ezer forintra kerekített összegben meghatározott adóalapjáról és kilogrammban meghatározott mennyiségéről.”
+23. §
