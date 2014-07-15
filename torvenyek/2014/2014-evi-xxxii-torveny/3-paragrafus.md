@@ -20,21 +20,7 @@
 
 „(4) Az állami adóhatóság az engedélyt – ha a kérelem az e törvényben, külön jogszabályban meghatározott feltételeknek megfelel és sportfogadás játéktípusra szóló engedély esetén a távszerencsejáték szervező az állami adóhatóság részére igazolta, hogy a távszerencsejáték szervező az általa szervezett játékokban érintett vagyoni értékű jogokra vonatkozóan a jogosultakkal felhasználási szerződést kötött – legfeljebb 5 éves határozott időtartamra adja ki.”
 
-(5) Az Szjtv. 32. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A távszerencsejáték havi gyakorisággal teljesítendő játékadója a 37. § 2.1. pontja szerint meghatározott tiszta játékbevétel 15%-a.”
-
-(6) Az Szjtv. 36/C. § (2) bekezdés h) pontja helyébe a következő rendelkezés lép:
-
-(A kötelezett)
-
-„h) távszerencsejáték-szervezés esetén a negyedévi tiszta játékbevétel 2,5 százaléka, de legalább 100 ezer forint és legfeljebb 10 millió forint”
-
-(felügyeleti díjat fizet.)
-
-(7) Az Szjtv. 37. § 2.1. pontja helyébe a következő rendelkezés lép:
-
-„2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyidőszakban befizetett téteknek a kifizetett nyereményekkel és sportfogadás esetén a jogszabályban előírt vagyoni értékű jogra vonatkozó felhasználási szerződés időarányos ellenértékével csökkentett összege, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező által felszámított díjak vagy azokkal egy tekintet alá eső jutalékok képezik.”
+(5)–(7)
 
 (8) Az Szjtv. 37. § 30. pont nyitó szövegrésze helyébe a következő rendelkezés lép:
 
@@ -57,5 +43,3 @@ e) a játékosok személyazonosságának megállapítására, valamint az ahhoz 
 Ha a szerencsejáték-szervező több államban is rendelkezett vagy rendelkezik szerencsejáték szervezési tevékenységi engedéllyel, akkor az a)–e) pontok szerinti feltételeknek megfelelést ezek közül egy és ugyanazon államra vonatkozóan kell bizonyítania.”
 
 (10) Az Szjtv. 35. § (3) bekezdésében a „tárgyévre megfizetett koncessziós díj egytizenketted részének” szövegrész helyébe a „tárgyév vonatkozásában fizetendő bruttó koncessziós díjnak a tárgyhónapra arányosan jutó” szöveg lép.
-
-3. A sportról szóló 2004. évi I. törvény módosítása
