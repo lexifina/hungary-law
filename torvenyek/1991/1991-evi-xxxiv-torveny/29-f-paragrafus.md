@@ -4,4 +4,4 @@
 
 (3) Az állami adóhatóság az engedélyezési eljárás során és az engedély érvényességi időtartama alatt a távszerencsejáték műszaki-informatikai rendszer megfelelőségének ellenőrzése céljából a szervezőtől és a szervező hozzájárulása esetén a szervező részére műszaki vagy informatikai szolgáltatást nyújtó személytől vagy szervezettől kiegészítő információkat kérhet és ezeket az információkat a hatósági eljárásban bizonyítékként felhasználhatja.
 
-(4) Az állami adóhatóság az engedélyt – ha a kérelem az e törvényben, külön jogszabályban meghatározott feltételeknek megfelel – legfeljebb 5 éves határozott időtartamra adja ki.
+(4) Az állami adóhatóság az engedélyt – ha a kérelem az e törvényben, külön jogszabályban meghatározott feltételeknek megfelel és sportfogadás játéktípusra szóló engedély esetén a távszerencsejáték szervező az állami adóhatóság részére igazolta, hogy a távszerencsejáték szervező az általa szervezett játékokban érintett vagyoni értékű jogokra vonatkozóan a jogosultakkal felhasználási szerződést kötött – legfeljebb 5 éves határozott időtartamra adja ki.

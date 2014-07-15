@@ -14,8 +14,14 @@
 
 (7) Az állami adóhatóság díjbevételéből kell fedezni a koncessziós pályázatok kiírásának és elbírálásának költségeit is.
 
-(8) A játékost megillető, de át nem vett nyeremények összegét a szervező köteles a nyeremény átvételére nyitva álló határidő lejártát követő hónap 20. napjáig játékadó címén bevallani és a központi költségvetésbe befizetni. Tárgynyeremény-sorsolás esetén a szervező a nyereménytárgy forgalmi értékét fizeti be.
+(7a) A nyertes játékos részére a nyeremény igénylésére a jóváhagyott játéktervben meghatározottak szerint, a sorsolás, illetve a fogadási esemény napját követő 90 napos jogvesztő határidőn belül van lehetőség. A szervező a nyeremény igénylését követően a nyeremény átadása érdekében haladéktalanul köteles a szükséges intézkedéseket megtenni és a nyeremény átadását a nyertes játékos részére a nyeremény igénylésétől számított 30 napos jogvesztő határidőn belül biztosítani.
+
+(7b) Ha a szervező az át nem vett nyeremények újbóli felhasználását sorsolás formájában biztosítja a nyeremények céljára, a (7a) bekezdés szerinti, a nyeremény igénylésére vonatkozó jogvesztő határidő időtartama 40 nap.
+
+(8) A játékost megillető, de át nem vett nyeremények összegét a szervező köteles a nyeremény igénylésére nyitva álló határidő lejárta utáni 30 nap elteltét követő hónap 20. napjáig játékadó címén bevallani és a központi költségvetésbe befizetni. Tárgynyeremény-sorsolás esetén a szervező a nyereménytárgy forgalmi értékét fizeti be.
 
 (9) A (8) bekezdés rendelkezéseit megfelelően alkalmazni kell abban az esetben is, ha a kisorsolt, de át nem vett nyeremények újbóli felhasználását jogszabály meghatározott határidőn belül lehetővé teszi. Ebben az esetben a (8) bekezdés szerinti adókötelezettségeket a felhasználásra nyitva álló határidőt követő, de legkésőbb a játék megszűnését követő hónap 20. napjáig kell teljesíteni.
 
-(10) A játékosok részére meghirdetett, de a (8)–(9) bekezdésekben foglaltaktól eltérő, bármely okból részükre át nem adott, vagy nyeremények céljára fel nem használt nyeremények értékét vagy összegét a nyereményalap felhasználására vonatkozó határidő lejártát, illetve a játék megszűnését követő hónap 20. napjáig a szervezőnek játékadó címén be kell vallania és be kell fizetnie.
+(10) A játékosok részére meghirdetett, de a (7a)–(9) bekezdésekben foglaltaktól eltérő, bármely okból részükre át nem adott, vagy nyeremények céljára fel nem használt nyeremények értékét vagy összegét a nyereményalap felhasználására vonatkozó határidő lejártát, illetve a játék megszűnését követő hónap 20. napjáig a szervezőnek játékadó címén be kell vallania és be kell fizetnie.
+
+(11) Az állami adóhatóság a nemzetközi együttműködésben szervezett szerencsejáték esetén az át nem vett nyeremények felhasználását a valamennyi részt vevő szerencsejáték-szervező által közösen kialakított és elfogadott játékszabályok szerint engedélyezi, ennek során a (7b)–(10) bekezdésben foglaltaktól eltérő játékszabályok is engedélyezhetők. Ha az át nem vett nyeremények felhasználását minden részt vevő szerencsejáték-szervező szabadon alakíthatja ki, az állami adóhatóság az engedélyt a (7b)–(10) bekezdés alkalmazásával adja ki.

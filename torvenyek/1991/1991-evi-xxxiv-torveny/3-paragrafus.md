@@ -6,4 +6,4 @@ b) e tevékenység gyakorlásának jogát az állam koncessziós szerződésben 
 
 (2) Az államháztartásért felelős miniszter (a továbbiakban: miniszter) ellátja a szerencsejátékok szervezésének szakmai irányítását, valamint képviseli az államot az (1) bekezdés b) pontja tekintetében.
 
-(3) A számsorsjáték és – a lóversenyfogadás, valamint a bukmékeri rendszerű fogadás kivételével – a fogadás szervezésére kizárólag az állami játékszervező jogosult.
+(3) A számsorsjáték és – a lóversenyfogadás, a távszerencsejáték és a bukmékeri rendszerű fogadás kivételével – a fogadás szervezésére kizárólag az állami játékszervező jogosult.
