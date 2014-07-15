@@ -10,11 +10,7 @@ A/I.
 
 A/II. A kifizető a föld bérbeadásából (földjáradékból) származó jövedelemről és a levont adóról, az adómentesség feltételéül szabott időtartamra kötött, de ezen időtartam lejárta előtt megszűnt haszonbérleti szerződésről és az adókötelessé vált időszakról, valamint a bérbeadott földterület ingatlan-nyilvántartási azonosító adatairól az adatszolgáltatást a földterület fekvése szerint illetékes önkormányzati adóhatósághoz teljesíti. Az adatszolgáltatásban fel kell tüntetni az adólevonás elmaradásának okát (természetben történő bérfizetés). Az adatszolgáltatást a kifizető papíralapú adathordozón az adóévet követő év március 31-éig teljesíti.
 
-B) A biztosítóintézet adatszolgáltatása
-
-A biztosítóintézet adatot szolgáltat a nyugdíjbiztosítás alapján folyósított nyugdíjszolgáltatás kifizetéséről, illetőleg arról, hogy a magánszemély az élet- vagy – az 1995. január 1-jét követően kötött – nyugdíjbiztosításának rendelkezési jogával a szerződéskötéstől számított 10 éven belül élt.
-
-Az adatszolgáltatást, a kifizetést, illetőleg a rendelkezési jog gyakorlását követő év január 31-éig elektronikus úton kell teljesítenie az állami adóhatóság részére a magánszemély azonosításához szükséges adatok feltüntetésével.
+B)
 
 C) Az ingatlanügyi hatóság adatszolgáltatása
 

@@ -58,7 +58,9 @@ i) végrehajtási eljárás során az elektronikus ügyintézés,
 
 j) az Európai Közösség más tagállamában és az általános forgalmi adóról szóló törvény szerint elismert harmadik államban letelepedett adóalanynak belföldön, illetve a belföldön letelepedett adóalanynak az Európai Közösség más tagállamában érvényesített visszatéríttetési kérelmével (kiigazítási nyilatkozatával) kapcsolatos eljárás rendjének, ideértve az elektronikus levélben (e-mailen) történő ügyintézés
 
-módját és technikai feltételeit.
+módját és technikai feltételeit,
+
+k) az adózó által nem adóalanyok számára nyújtott távolról is nyújtható szolgáltatásokkal kapcsolatos különös szabályozás elektronikus ügyintézésére vonatkozó részletes szabályait.
 
 (14) Az adóhatóság az internetes honlapján folyamatosan közzéteszi azt az adatformátumot, amelyben az adóalany az ellenőrzés során az elektronikus adathordozón tárolt adatokat rendelkezésre bocsátja. Amennyiben az adatformátum megváltozik, az adóhatóság köteles a változást megelőzően legalább 30 nappal az új adatformátumot közzétenni. Az önkormányzati adóhatóság az adatformátum megváltozását az önkormányzat hivatalos lapjában is közzéteszi.
 

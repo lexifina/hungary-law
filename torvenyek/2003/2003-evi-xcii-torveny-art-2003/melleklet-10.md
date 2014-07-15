@@ -17,11 +17,3 @@ c) illetősége szerinti adóazonosító számát, amennyiben ilyennel rendelkez
 d) vezető tisztségviselőjének és az adóhatósággal történő kapcsolattartásra feljogosított személynek nevét, címét, telefonszámát,
 
 e) nyilatkozatát arról, hogy az Európai Közösség más tagállamának adóhatósági nyilvántartásába nem jelentkezett be,
-
-f) az e törvény 3. § (3) bekezdése szerinti tevékenységének kezdő időpontját,
-
-g) az elektronikus úton nyújtott szolgáltatásának megnevezését.
-
-4. Az adózó köteles a bejelentett adatokban bekövetkező változást – annak bekövetkeztétől számított 15 napon belül – az állami adóhatósághoz elektronikus úton bejelenteni.
-
-5. Az adóhatóság a bejelentés alapján az adózót nyilvántartásba veszi, és azonosító számmal látja el, amelyről elektronikus úton értesíti.
