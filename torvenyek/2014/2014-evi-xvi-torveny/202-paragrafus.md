@@ -10,9 +10,9 @@
 
 (5) A 285. § (7), (15) és (24) bekezdése 2014. július 1-jén lép hatályba.
 
-(6) A 281. § (1), (3)–(4) és (6)–(8) bekezdése és a 286. § (2) bekezdése 2014. október 1-jén lép hatályba.
+(6) A 281. § (1), (4) és (6)–(8) bekezdése és a 286. § (2) bekezdése 2014. október 1-jén lép hatályba.
 
-(7) A 281. § (2) bekezdése 2014. december 1-jén lép hatályba.
+(7) A 281. § (2) és (3) bekezdése 2014. december 1-jén lép hatályba.
 
 (8) E törvény 155–161. §-a az Európai Bizottság – az ABAK-irányelv 67. cikk (6) bekezdése alapján elfogadandó – felhatalmazáson alapuló jogi aktusának meghozatalát követő 15. napon lép hatályba.
 

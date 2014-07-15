@@ -34,6 +34,8 @@
 
 ## e) hitelviszonyt megtestesítő értékpapírok;
 
+## f) kockázati tőkealap és magántőkealap esetén üzletrészek és más társasági részesedések.
+
 ## A fentiek elemzése a befektetési alap befektetési politikájának tükrében a legmegfelelőbb szempontok alapján a nettó eszközök százalékos arányában; a fenti befektetések mindegyikénél jelezni kell, hogy milyen részarányt képvisel a befektetési alap összes eszközei viszonylatában. A portfolió összetételében a tárgyidőszakban bekövetkezett változások leírása.
 
 ## V. A befektetési alap eszközeinek alakulása a tárgyidőszakban, ideértve az alábbiakat:

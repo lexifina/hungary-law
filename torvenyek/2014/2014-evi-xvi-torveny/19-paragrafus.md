@@ -26,9 +26,11 @@ a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektet�
 
 b) az MNB-nél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, az elszámolóháznál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
 
-c) ingatlanalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében ingatlanforgalmazónál, ingatlanalapot kezelő alapkezelőnél, valamint
+c) ingatlanalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében ingatlanforgalmazónál, ingatlanalapot kezelő alapkezelőnél,
 
-d) az a)–c) pontban felsoroltak külföldi megfelelőinél
+d) kockázatitőkealap-kezelő, magántőkealap-kezelő vezető állású személye esetén üzletviteli tanácsadással foglalkozó gazdasági társaságnál, valamint
+
+e) az a)–d) pontban felsoroltak külföldi megfelelőinél
 
 szakirányú területen munkavégzésre irányuló jogviszonyban eltöltött idő számít szakmai gyakorlatnak.
 
@@ -49,3 +51,5 @@ c) lakóhelye (tartózkodási helye) vagy székhelye szerinti ország hatósága
 (11) A (10) bekezdés szerinti kizáró okokat a kérelmező külföldi tevékenysége tekintetében is vizsgálni kell.
 
 (12) A befektetési alapkezelő az (1) és (5)–(7) bekezdésben meghatározott személyek kinevezését, a személyükben bekövetkezett változást a kinevezést vagy a változást követően haladéktalanul, de legkésőbb a kinevezést vagy a változást követő 5 napon belül a Felügyeletnek köteles bejelenteni.
+
+(13) A 2. § (2) bekezdés szerinti kockázati tőkealap-kezelő, illetve magántőkealap-kezelő felügyelő-bizottságának elnökére és tagjára a (2) bekezdés c) pontja nem alkalmazandó.

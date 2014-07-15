@@ -29,3 +29,5 @@ b) az ABAK nem döntött úgy, hogy e törvény egészének aláveti magát.
 (4) A (2) bekezdés szerinti ABAK-ra előírt rendelkezéseket az Európai Parlament és Tanács 2013. április 17-i az európai szociális vállalkozási alapokról szóló 346/2013/EU rendeletének figyelembe vételével kell alkalmazni abban az esetben, ha az ABAK e rendelet értelmében ESZVA megnevezést használó alapokat kezel és forgalmaz.
 
 (5) A (2) bekezdés szerinti, e törvény rendelkezései alól részleges felmentést élvező ABAK a (2) bekezdés a) pont aa) és ab) alpontjában említett küszöbérték kiszámítása során és a küszöbértéknek való megfeleléssel kapcsolatban az ABAK-rendelet 2–5. cikkének megfelelően jár el.
+
+(6) A (2) bekezdés szerinti kockázati tőkealap-kezelőre vagy magántőkealap-kezelőre e törvény 16. §-a, 18. § (3) bekezdése, valamint 38. §-a nem alkalmazandóak.
