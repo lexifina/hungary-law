@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-138-00-00
 | 2014-01-01 | 2013. évi CCXXXVI. törvény | 2007-138-00-00.31 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2007-138-00-00.32 |
 | 2014-07-01 | 2013. évi CCI. törvény | 2007-138-00-00.33 |
+| 2014-07-16 | 2014. évi XIX. törvény | 2007-138-00-00.34 |

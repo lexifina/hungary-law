@@ -46,7 +46,9 @@ d) a Befektető-védelmi Alap által külföldi befektetővédelmi rendszer, val
 
 e) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató az Art. 52. §-ának (8) bekezdése alapján szolgáltat adatot,
 
-f) a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér adatot a befektetési vállalkozástól vagy az árutőzsdei szolgáltatótól.
+f) a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér adatot a befektetési vállalkozástól vagy az árutőzsdei szolgáltatótól,
+
+g) a befektetési szolgáltatási tevékenységet végző, kiegészítő befektetési szolgáltatást vagy árutőzsdei szolgáltatást nyújtó a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvény (a továbbiakban: FATCA-törvény) alapján az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-ában foglalt kötelezettség teljesítése céljából az állami adóhatóság felé szolgáltat adatot.
 
 (5) A (4) bekezdés szerinti írásbeli megkeresésben meg kell jelölni
 
