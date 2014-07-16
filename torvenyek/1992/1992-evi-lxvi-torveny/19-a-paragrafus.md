@@ -10,4 +10,4 @@ céljából a 17. § (2) bekezdés a) pontja szerinti adatok szolgáltatását j
 
 (3) A kormányzati tevékenység összehangolásáért felelős miniszter az (1) bekezdésben meghatározott célból átvett adatokat – törvény eltérő rendelkezése hiányában – az átvételtől számított kilencven napig kezelheti.
 
-(4) A Miniszterelnökségben az (1) bekezdésen alapuló adatkezelésére a kutatás és a közvetlen üzletszerzés célját szolgáló név- és lakcímadatok kezeléséről szóló 1995. évi CXIX. törvény 5. és 6. §-ában, valamint 13–15. §-ában foglaltakat megfelelően alkalmaznia kell.
+(4) A kormányzati tevékenység összehangolásáért felelős miniszternek az (1) bekezdésen alapuló adatkezelésére a kutatás és a közvetlen üzletszerzés célját szolgáló név- és lakcímadatok kezeléséről szóló 1995. évi CXIX. törvény 5. és 6. §-ában, valamint 13–15. §-ában foglaltakat megfelelően alkalmaznia kell.
