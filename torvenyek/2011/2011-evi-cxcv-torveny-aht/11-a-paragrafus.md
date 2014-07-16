@@ -1,6 +1,6 @@
 ## 9/A. Az állami tulajdonú gazdasági társaságok állami feladatellátásának központi költségvetési szerv által történő átvétele
 
-11/A. § (1) A Kormány tagja, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, vagy az állami vagyon felügyeletéért felelős miniszter által kijelölt személy vagy szervezet tulajdonosi joggyakorlása alatt álló,
+11/A. § (1) A Kormány tagja, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, vagy más személy vagy szervezet tulajdonosi joggyakorlása alatt álló,
 
 a) az állam 100%-os tulajdonában lévő gazdasági társaság, vagy
 

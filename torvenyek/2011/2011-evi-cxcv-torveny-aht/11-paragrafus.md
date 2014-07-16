@@ -10,7 +10,7 @@
 
 (4) A költségvetési szerv általános jogutóddal történő megszüntetése a vele szemben fennálló követeléseket nem teszi lejárttá.
 
-(5) A költségvetési szerv jogutód nélküli megszüntetése esetén az állami vagyonról szóló törvény (a továbbiakban: Vtv.) vagy a megszüntetésről rendelkező jogszabály, megszüntető okirat eltérő rendelkezése hiányában a költségvetési szerv megszüntetés időpontjában fennálló magánjogi jogait és kötelezettségeit – ideértve a vagyonkezelői jogot is – az alapító szerv, az Országgyűlés vagy a Kormány által alapított költségvetési szerv esetén az alapító szerv által kijelölt szerv gyakorolja és teljesíti.
+(5) A költségvetési szerv jogutód nélküli megszüntetése esetén az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) vagy a megszüntetésről rendelkező jogszabály, megszüntető okirat eltérő rendelkezése hiányában a költségvetési szerv megszüntetés időpontjában fennálló magánjogi jogait és kötelezettségeit – ideértve a vagyonkezelői jogot is – az alapító szerv, az Országgyűlés vagy a Kormány által alapított költségvetési szerv esetén az alapító szerv által kijelölt szerv gyakorolja és teljesíti.
 
 (6) A jogutód nélkül megszüntetett költségvetési szerv nem magánjogi jogai és kötelezettségei a jövőre nézve megszűnnek azzal, hogy a megszűnés napján fennálló kötelezettségek teljesítéséért és követelések beszedéséért az (5) bekezdés szerinti szerv felel.
 

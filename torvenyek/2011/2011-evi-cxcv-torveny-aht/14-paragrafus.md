@@ -10,7 +10,7 @@
 
 a) a Nemzeti Földalapba sorolt vagyon,
 
-b) a Vtv., továbbá a Magyar Fejlesztési Bank Részvénytársaságról szóló törvény hatálya alá tartozó, a Magyar Fejlesztési Bank Zrt. rábízott vagyoni körébe tartozó vagyon,
+b) a Vtv., továbbá a Magyar Fejlesztési Bank Részvénytársaságról szóló törvény hatálya alá tartozó, a Magyar Fejlesztési Bank Zrt. (a továbbiakban: MFB Zrt.) rábízott vagyoni körébe tartozó vagyon,
 
 c) az államháztartás központi alrendszere adóssága kezelésének, és
 

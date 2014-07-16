@@ -1,9 +1,17 @@
 ## 31. Az állami vagyonnal való gazdálkodás sajátos államháztartási szabályai
 
-45. § (1) A Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.), a Nemzeti Földalapkezelő Szervezet, a Magyar Fejlesztési Bank Zrt., és törvényben vagy az állami vagyon felügyeletéért felelős miniszter rendeletében kijelölt, valamint az Nvt. 8. § (7) bekezdése szerinti meghatalmazott tulajdonosi joggyakorló szervezet (a továbbiakban együtt: tulajdonosi joggyakorló szervezet) az állam nevében hitelt, kölcsönt csak a tulajdonosi joggyakorlása alatt álló gazdasági társaság részére nyújthat. A hitel, kölcsön nyújtásához, átütemezéséhez az állami vagyon felügyeletéért felelős miniszter és az államháztartásért felelős miniszter előzetes jóváhagyása szükséges.
+45. § (1) Az állam nevében
 
-(2) A tulajdonosi joggyakorló szervezet az állam tulajdonában álló gazdasági társaságnak az állam nevében tőkeemelést és támogatást – kivéve a szakmai feladatok ellátásához nyújtott támogatást – csak az állami vagyon felügyeletéért felelős miniszter jóváhagyásával nyújthat. Az állami vagyon felügyeletéért felelős miniszter a jóváhagyásról az állami támogatások versenyszempontú ellenőrzéséért felelős szervezet és az államháztartásért felelős miniszter írásos véleményének ismeretében dönt.
+a) a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.), az MFB Zrt., törvényben vagy miniszteri rendeletben kijelölt tulajdonosi joggyakorló,
 
-(3) Az állami vagyonnal való gazdálkodás során az államháztartáson kívüli tulajdonosi joggyakorló szervezet saját számláján nem számolhatja el az állam nevében végzett műveletek hatását.
+b) az Nvt. 8. § (7) bekezdése szerinti meghatalmazott tulajdonosi joggyakorló esetén – annak kezdeményezésére – az MNV Zrt.
+
+hitelt, kölcsönt kizárólag a tulajdonosi joggyakorlása alatt álló gazdasági társaság részére nyújthat.
+
+(1a) Az (1) bekezdés szerinti hitel, kölcsön nyújtásához, átütemezéséhez a Vtv. 3. § (2) bekezdés a) pontja szerinti és az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaság esetén az államháztartásért felelős miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter, egyéb gazdasági társaság esetén az államháztartásért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyása szükséges.
+
+(2) Az (1) bekezdés a) és b) pontja szerinti tulajdonosi joggyakorló az állam tulajdonában és tulajdonosi joggyakorlása alatt álló gazdasági társaságnak az állam nevében tőkeemelést és támogatást – kivéve a szakmai feladatok ellátásához nyújtott támogatást – az állami vagyon felügyeletéért felelős miniszter, a Vtv. 3. § (2) bekezdés a) pontja szerinti és az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaság esetén a kormányzati tevékenység összehangolásáért felelős miniszter előzetes jóváhagyásával nyújthat. A jóváhagyásról az államháztartásért felelős miniszter és az állami támogatások versenyszempontú ellenőrzéséért felelős írásos véleményének ismeretében kell dönteni.
+
+(3) Az állami vagyonnal való gazdálkodás során az államháztartáson kívüli, (1) bekezdés szerinti tulajdonosi joggyakorló saját számláján nem számolhatja el az állam nevében végzett műveletek hatását.
 
 (4) Ha az államháztartás központi alrendszerébe tartozó költségvetési szerv jogszabály, vagy az MNV Zrt.-vel kötött szerződés alapján használt állami vagyon használatát, vagy az őt megillető más jog gyakorlását visszterhes szerződés alapján harmadik személynek átengedi, az ebből származó költségvetési bevétel – törvény eltérő rendelkezése hiányában – a költségvetési szervet illeti meg.

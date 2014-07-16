@@ -20,7 +20,7 @@ ba) az ÁKK Zrt. által állampapírokkal végzett repóügyletek,
 
 bb) a Magyar Nemzeti Bankról szóló törvény alapján a Magyar Nemzeti Bank és a központi költségvetés közötti elszámolásokból a Magyar Nemzeti Bank deviza-árfolyamváltozásból származó eredményének (ideértve az eredménytartalékot is) és az értékpapírok értékesítéséből származó realizált eredményének tulajdonítható rész, előjelre való tekintet nélkül,
 
-bc) a Magyar Fejlesztési Bankról szóló 2001. évi XX. törvény 5. § (2) bekezdése alapján vállalt árfolyam-garanciából eredő, a Magyar Fejlesztési Bank és az állam közötti elszámolások előjelre való tekintet nélkül,
+bc) a Magyar Fejlesztési Bankról szóló 2001. évi XX. törvény 5. § (2) bekezdése alapján vállalt árfolyam-garanciából eredő, az MFB Zrt. és az állam közötti elszámolások előjelre való tekintet nélkül,
 
 bd) az állam nevében a többségi állami tulajdonú gazdasági társaságnak nyújtott tulajdonosi kölcsön és annak visszatérülése, ha a kölcsön visszafizetése a kötelezett pénzügyi helyzetére vonatkozó információk – különösen a pénzügyi, számviteli kimutatások és előrejelzések – alapján a közfeladatok ellátásáért fizetendő összegen felüli központi költségvetési többlettámogatás biztosítása nélkül kellően megalapozott,
 

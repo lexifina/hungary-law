@@ -6,7 +6,7 @@ b) a köztulajdonban álló gazdasági társaságok takarékosabb működésér�
 
 c) jogi személy vagy jogi személyiséggel nem rendelkező más szervezet esetén átlátható szervezetnek minősül.
 
-(2)
+(2) Egyedi döntéssel költségvetési támogatás kivételesen átlátható szervezetnek nem minősülő jogi személy vagy jogi személyiséggel nem rendelkező más szervezet számára az (1) bekezdés c) pontjában meghatározott feltétel fennállása hiányában akkor is biztosítható, ha az átlátható szervezetként való elismerhetőségéhez szükséges – tulajdonosi, igazgatási vagy egyéb – intézkedések megtételét vállalja. Ebben az esetben támogatói okirat addig nem adható ki, illetve a támogatási szerződés addig nem lép hatályba, amíg a kedvezményezett nem felel meg az (1) bekezdés c) pontjában meghatározott feltételnek.
 
 (3) Az agrártámogatások kivételével a költségvetési támogatási igény benyújtásának feltételéül előírható, hogy a benyújtónak ne legyen esedékessé vált és még meg nem fizetett adótartozása – ide nem értve a helyi adókat –, valamint járulék-, illeték- vagy vámtartozása (a továbbiakban együtt: köztartozás).
 
