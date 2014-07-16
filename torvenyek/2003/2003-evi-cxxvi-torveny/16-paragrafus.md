@@ -50,9 +50,9 @@ q) a Magyar Energetikai és Közmű-szabályozási Hivatalt a nála engedélyesk
 
 r) megkeresésre a hagyatéki eljárásban eljáró közjegyzőt a közjegyzői hatáskörbe tartozó eljárás során és annak céljára,
 
-s) vámpolitikai, kereskedelempolitikai elemzési célokból összesített adatokról a kereskedelemért felelős minisztert, és az európai integrációs ügyekért felelős minisztert,
+s) vámpolitikai, kereskedelempolitikai elemzési célokból összesített adatokról a kereskedelemért felelős minisztert, és az igazságügyért felelős minisztert,
 
-t) dömping- és szubvencióellenes, piacvédelmi elemzési célokból a kereskedelemért felelős minisztert, valamint ezen intézkedésekkel kapcsolatos adatokról, az Európai Unió felé fennálló kötelezettség teljesítése céljából az európai integrációs ügyekért felelős minisztert,
+t) dömping- és szubvencióellenes, piacvédelmi elemzési célokból a kereskedelemért felelős minisztert, valamint ezen intézkedésekkel kapcsolatos adatokról, az Európai Unió felé fennálló kötelezettség teljesítése céljából az igazságügyért felelős minisztert,
 
 u) megkeresésre az élelmiszerlánc-felügyeleti szervet, valamint a borászati hatóságot a külön jogszabályban meghatározott feladataik ellátása céljából,
 
