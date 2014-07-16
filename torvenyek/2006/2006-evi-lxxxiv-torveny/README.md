@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-84-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2006-11-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2006-84-00-00.1 |
+| 2014-07-16 | 2014. évi XXXV. törvény | 2006-84-00-00.2 |
