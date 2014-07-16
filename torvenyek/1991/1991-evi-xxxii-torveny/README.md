@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-32-00-00
 | 2011-01-01 | 2010. évi CXXVI. törvény | 1991-32-00-00.13 |
 | 2012-01-01 | 2011. évi CXCV. törvény | 1991-32-00-00.14 |
 | 2013-01-01 | 2012. évi CCXI. törvény | 1991-32-00-00.15 |
+| 2014-07-16 | 2014. évi XXXV. törvény | 1991-32-00-00.16 |
