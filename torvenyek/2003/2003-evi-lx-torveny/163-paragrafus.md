@@ -20,6 +20,8 @@ i) , – a mezőgazdasági biztosítási szerződés díjához nyújtott támoga
 
 szemben.
 
+(1a) Nem jelenti az üzleti titok sérelmét a biztosító által az adóhatóság felé történő adatszolgáltatás a FATCA-törvény alapján az Aktv. 43/B–43/C. §-ában foglalt kötelezettség teljesítéséhez.
+
 (2) A 162. §-ban előírt titoktartási kötelezettség az eljárás alapját képező ügyre vonatkozóan nem áll fenn a feladatkörében eljáró
 
 a) nyomozó hatósággal, ügyészséggel szemben a folyamatban lévő büntetőeljárás, valamint a feljelentés kiegészítése keretében,

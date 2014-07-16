@@ -42,6 +42,8 @@ szemben, ha az a)–j), n), s) és t) pontban megjelölt szerv vagy személy ír
 
 (2) Az (1) bekezdés e) pontja alapján a biztosítási titok megtartásának kötelezettsége abban az esetben nem áll fenn, ha adóügyben, az adóhatóság felhívására a biztosítót törvényben meghatározott körben nyilatkozattételi kötelezettség, illetve, ha biztosítási szerződésből eredő adókötelezettség alá eső kifizetésről törvényben meghatározott adatszolgáltatási kötelezettség terheli.
 
+(2a) Nem jelenti a biztosítási titok sérelmét a biztosító által az adóhatóság felé történő adatszolgáltatás a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvény (a továbbiakban: FATCA-törvény) alapján az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-ában foglalt kötelezettség teljesítéséhez.
+
 (3) A biztosító, a biztosításközvetítő és a biztosítási szaktanácsadó az (1) és (5) bekezdésekben, a 156. §-ban, a 158. §-ban és a 159. §-ban meghatározott esetekben és szervezetek felé az ügyfelek személyes adatait továbbíthatja.
 
 (4) A biztosítási titoktartási kötelezettség az eljárás keretén kívül a (1) bekezdésben meghatározott szervek alkalmazottaira is kiterjed.
