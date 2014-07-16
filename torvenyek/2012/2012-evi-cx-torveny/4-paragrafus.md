@@ -4,4 +4,4 @@
 
 (3) Az Egyezmény, illetve a 2. és 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
-(4) E törvény végrehajtásához szükséges intézkedésekről a kultúráért felelős miniszter gondoskodik.
+(4) E törvény végrehajtásához szükséges intézkedésekről a kulturális örökség védelméért felelős miniszter gondoskodik.
