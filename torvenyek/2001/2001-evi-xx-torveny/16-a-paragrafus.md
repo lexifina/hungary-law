@@ -1,1 +1,1 @@
-16/A. § Az MFB Zrt. könyvvizsgálóját a tulajdonosi jogok gyakorlója választja meg, határozott időtartamra.
+16/A. § Az MFB Zrt. könyvvizsgálóját a kormányzati tevékenység összehangolásáért felelős miniszter választja meg, határozott időtartamra.

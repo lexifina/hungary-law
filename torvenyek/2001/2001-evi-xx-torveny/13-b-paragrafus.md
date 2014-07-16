@@ -1,4 +1,4 @@
-13/B. § Kizárólag a tulajdonosi jogok gyakorlójának engedélye szükséges az MFB Zrt. alapító okiratának módosításához a következő esetekben:
+13/B. § Kizárólag a kormányzati tevékenység összehangolásáért felelős miniszternek engedélye szükséges az MFB Zrt. alapító okiratának módosításához a következő esetekben:
 
 a) a cég nevének és székhelyének megváltoztatása,
 

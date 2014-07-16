@@ -1,6 +1,6 @@
 4. § (1) Az MFB Zrt. a 2. §-ban meghatározott feladatai ellátása érdekében pénzügyi szolgáltatási tevékenységet közvetlenül vagy más pénzügyi intézményen keresztül végezhet.
 
-(2) Az MFB Zrt. beruházáshoz kapcsolódó fejlesztési célú hitelen, illetőleg kölcsönön kívül kizárólag
+(2) Az MFB Zrt. beruházáshoz kapcsolódó fejlesztési célú hitelen, illetve kölcsönön kívül kizárólag
 
 a) immateriális javak,
 
@@ -16,9 +16,7 @@ f) pénzügyi intézmény pénzügyi szolgáltatási tevékenységének és
 
 g) a tulajdonában álló, illetőleg a rábízott vagyon körébe tartozó gazdasági társaságok
 
-finanszírozására
-
-nyújthat hitelt, illetőleg kölcsönt.
+finanszírozására nyújthat hitelt, illetve kölcsönt.
 
 (3) Az MFB Zrt. csak
 

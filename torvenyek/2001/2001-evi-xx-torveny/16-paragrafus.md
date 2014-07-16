@@ -4,6 +4,6 @@
 
 (2)
 
-(3) A felügyelőbizottság elnökét és tagjait a tulajdonosi jogok gyakorlója választja meg és hívja vissza.
+(3) A felügyelőbizottság elnökét és tagjait a kormányzati tevékenység összehangolásáért felelős miniszter választja meg és hívja vissza.
 
 (4)

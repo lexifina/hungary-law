@@ -14,7 +14,7 @@ c) forrásszerzés céljából a befektetési vállalkozásokról és az árutő
 
 d) végrehajtott deviza- és kamatcsere ügyletek pótlási költségéből eredő, az MFB Zrt.-t terhelő fizetési kötelezettségek teljesítéséért.
 
-(2) Az állam nevében, a Kormány határozata alapján, az államháztartásért felelős miniszter az MFB Zrt. által forrásszerzés céljából az (1) bekezdés a) és c) pontja alapján elfogadott betétekhez, igénybe vett hitelekhez, felvett kölcsönökhöz és kibocsátott kötvényekhez kapcsolódóan, azok euróban kifejezett összege, továbbá az (1) bekezdés d) pontja alapján a forrásbevonással összefüggő deviza csereügyletek miatt az MFB Zrt.-t euróban terhelő fizetési kötelezettségek tekintetében az MFB Zrt.-vel árfolyam-fedezeti megállapodást köthet.
+(2) Az államháztartásért felelős miniszter a Kormány határozata alapján az állam nevében árfolyam-fedezeti megállapodást köthet az MFB Zrt.-vel az MFB Zrt. által forrásszerzés céljából az (1) bekezdés a) és c) pontja alapján elfogadott betéthez, igénybe vett hitelhez, felvett kölcsönhöz és kibocsátott kötvényhez kapcsolódóan, azok euróban kifejezett összege, továbbá az (1) bekezdés d) pontja alapján a forrásbevonással összefüggő deviza csereügylet miatt az MFB Zrt.-t euróban terhelő fizetési kötelezettségek tekintetében.
 
 (3) A költségvetési törvényben meg kell határozni:
 
@@ -38,7 +38,7 @@ a) hosszú pozíció esetén: az az összeg, amennyivel a származtatott ügylet
 
 b) rövid pozíció esetén: az az összeg, amennyivel a határidős szerződés tárgyának névértéke meghaladja a származtatott ügylet alapjául szolgáló eszköz piaci értékét (vagy deviza esetén az elszámoló árát).
 
-(4) Az MFB Zrt. idegen devizában meghatározott, éven túli lejáratú forrásbevonását az államháztartásért felelős miniszterrel és a tulajdonosi jogokat gyakorló miniszterrel egyeztetve végzi.
+(4) Az MFB Zrt. idegen devizában meghatározott, éven túli lejáratú forrásbevonását az államháztartásért felelős miniszterrel és a kormányzati tevékenység összehangolásáért felelős miniszterrel egyeztetve végzi.
 
 (5) Az (1) bekezdésben szereplő kezességek vállalására, beváltására, nyilvántartására és a hozzájuk kapcsolódó adatszolgáltatási kötelezettségre az államháztartásról szóló 2011. évi CXCV. törvényt, illetve annak felhatalmazása alapján kiadott jogszabályokat – a (6) és (7) bekezdésben foglalt kivételekkel – kell alkalmazni.
 

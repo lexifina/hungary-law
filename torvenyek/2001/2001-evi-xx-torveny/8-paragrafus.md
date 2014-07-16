@@ -12,7 +12,7 @@ b) hitelintézetnek nem minősülő egy ügyféllel vagy egy ügyfélcsoport nem
 
 a) pénzügyi intézményben, befektetési vállalkozásban, árutőzsdei szolgáltatóban, a tőkepiacról szóló 2001. évi CXX. törvény szerinti elszámolóházi tevékenységet végző szervezetben, befektetési alapkezelőben, tőzsdében, biztosítóban, viszontbiztosítóban, járulékos vállalkozásban, illetve nemzetközi pénzügyi szervezetben,
 
-b) a 2. számú mellékletben meghatározott gazdálkodó szervezetben és azok jogutódjaiban,
+b) a 2. mellékletben meghatározott gazdálkodó szervezetben és azok jogutódjaiban,
 
 c) a 2. §-ban meghatározott feladatainak ellátása érdekében, kormányrendeletben meghatározott, 1990. január 1. napját követően részben vagy egészben közvetlenül vagy közvetve állami, önkormányzati tulajdonban állt gazdálkodó szervezetben és ezek jogutódjaiban,
 

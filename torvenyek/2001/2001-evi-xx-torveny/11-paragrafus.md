@@ -4,4 +4,4 @@
 
 11. § (1) Az MFB Zrt. felügyeletét – e törvény 13. §-ának (3) bekezdésében meghatározott kivétellel – az MNB látja el.
 
-(2) Az MNB az általa végzett vizsgálat eredményéről készült jelentést a tulajdonosi jogok gyakorlójának küldi meg, aki a jelentés kézhezvételétől számított 30 napon belül azt a Kormány elé terjeszti.
+(2) Az MNB az általa végzett vizsgálat eredményéről készült jelentést a kormányzati tevékenység összehangolásáért felelős miniszternek küldi meg, aki a jelentés kézhezvételétől számított 30 napon belül azt a Kormány elé terjeszti.
