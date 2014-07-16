@@ -1,3 +1,3 @@
-5. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^21]
+5. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^22]
 
-[^21]: Az 5. számú mellékletet a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének e) pontja hatályon kívül helyezte.
+[^22]: Az 5. számú mellékletet a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének e) pontja hatályon kívül helyezte.

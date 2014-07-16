@@ -6,4 +6,6 @@ b) az úszólétesítmények lajstromozásával kapcsolatos eljárások esetébe
 
 c) az úszólétesítmények személyzetének képesítésével kapcsolatos eljárások esetében e rendelet 3. számú mellékletében,
 
-d) a szállítótartályok műszaki felülvizsgálatával kapcsolatos eljárások esetében e rendelet 4. számú mellékletében
+d)[^1]
+
+[^1]: Az 1. § d) pontját a 33/2014. (VII. 15.) NFM rendelet 3. § a) pontja hatályon kívül helyezte.

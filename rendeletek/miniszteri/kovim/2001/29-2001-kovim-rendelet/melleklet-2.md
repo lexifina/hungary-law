@@ -18,11 +18,11 @@
 
 | 3. | úszólétesítmények üzembe helyezési, időszakos, önkéntes üzemképességi vizsgálata, vagy a hajónak vízből kiemelt, illetve partra vont állapotú vizsgálata |  |
 
-|  | a) nagyhajónál, önjáró úszómunkagépnél, gépi üzemű kompnál, továbbá személyszállításra vagy nagyhajók továbbítására szolgáló kishajónál, illetve kereskedelmi célú úszóműveknél | 151 000 |
+|  | a) nagyhajónál, önjáró úszómunkagépnél, személyszállításra vagy nagyhajók továbbítására szolgáló kishajónál, valamint gazdasági célú úszóműveknél | 151 000 |
 
-|  | b) gépnélküli nagyhajónál, nem önjáró kompnál, nem önjáró úszómunkagépnél, felépítménnyel rendelkező úszóműnél | 96 000 |
+|  | b) gépnélküli nagyhajónál, nem önjáró úszómunkagépnél, felépítménnyel rendelkező úszóműnél | 96 000 |
 
-|  | c) az a) pontba nem tartozó kishajónál, felépítmény nélküli úszóműnél | 65 000 |
+|  | c) az a) pontba nem tartozó kishajónál, felépítmény nélküli úszóműnél, kompnál | 65 000 |
 
 |  | d) kedvtelési célból üzemeltetett gépi vagy vitorlás meghajtású kishajónál, továbbá motoros vízi sporteszköznél, ha annak hajótesten mért hossza a 9 métert nem éri el | 46 000 |
 
@@ -118,23 +118,17 @@
 
 | 18. | hajózási engedély esetében |  |
 
-|  | a) hajózási engedély kiadásának alapdíja |  |
+|  | a) hajózási engedély kiadásának alapdíja | 86 000 |
 
-|  | aa) Magyarország államhatárain belüli vizekre | 141 000 |
+|  | továbbá vízkiszorítási tonnánként | 20 |
 
-|  | továbbá vízkiszorítás tonnánként | 200 |
+|  | b) hajózási engedély meghosszabbításának alapdíja | 3 000 |
 
-|  | ab) Magyarország államhatárain belüli és kívüli vizekre | 141 000 |
+|  | továbbá vízkiszorítási tonnánként | 20 |
 
-|  | továbbá vízkiszorítás tonnánként | 200 |
+|  | c) a hajózási engedély módosításának alapdíja | 83 000 |
 
-|  | b) hajózási engedély meghosszabbítása esetén | 3 000 |
-
-|  | vízkiszorítás tonnánként | 200 |
-
-|  | c) a hajózási engedély módosítása | 83 000 |
-
-|  | vízkiszorítási tonnánként | 200 |
+|  | továbbá vízkiszorítási tonnánként | 20 |
 
 |  | d) harmadik országos/lobogós és kabotázs engedélyezéssel kapcsolatos eljárás megkezdett eljárásonként | 152 000 |
 
@@ -156,7 +150,7 @@
 
 |  | b) jelenként/jelzésenként további (db) | 2 000 |
 
-| 20. | hajóúton vagy annak közelében munkavégzés |  |
+| 20. | víziúton vagy annak közelében munkavégzés |  |
 
 |  | a) engedélyezése | 50 000 |
 
@@ -178,7 +172,7 @@
 
 | 24. | a vízi sportpályák és vízi repülőterek létesítésének használatba vételének és üzemben tartásának engedélyezése eljárásonként | 54 000 |
 
-| 25. | hajóokmányok és egyéb engedélyek pótlása, cseréje | 14 000 |
+| 25. | hajóokmányok és egyéb engedélyek pótlása, cseréje | 10 000 |
 
 | 26. | nemzetközi, hajó és hajós, illetve tengerész okmányok (okmány-nyomtatványok árának térítése nélkül) díjai |  |
 
@@ -210,7 +204,7 @@
 
 | 27. | átmeneti hatósági rendelkezés közzététele kérelemre | 17 000 |
 
-| 28. | a hatósági nyilvántartásban szereplő adatokban (kivéve lajstrom) bekövetkezett változások átvezetése (például tulajdonjog-változás, üzemeltetői jog, átalakulás, névváltozás) | 19 000 |
+| 28. | a hatósági nyilvántartásban szereplő adatokban (kivéve lajstrom) bekövetkezett változások átvezetése (például tulajdonjog-változás, üzemeltetői jog, átalakulás, névváltozás) | 10 000 |
 
 | 29. | az úszólétesítmény építés közben kérelemre lefolytatott szemléje | 33 000 |
 
@@ -218,7 +212,7 @@
 
 | 31. | a típus-jóváhagyási bizonyítvány érvényessége meghosszabbításának díja | 21 000 |
 
-| 32. | úszólétesítmények előírttól eltérő feltételekkel közlekedésének, illetve igénybevételének ideiglenes engedélyezése | 72 000 |
+| 32. | úszólétesítmények előírttól eltérő feltételekkel közlekedésének, illetve igénybevételének ideiglenes engedélyezése | 60 000 |
 
 | 33. | úszóműállás létesítési engedélyezése vagy időszakos szemléjének |  |
 
@@ -240,15 +234,19 @@
 
 | 40. | szakhatósági díj | 40 000 |
 
+|  | a) 10 m²-nél kisebb alapterületű víziállás engedélyezésével, víziközlekedési korlátozással nem járó rendezvények engedélyezésével, fürdőhely kijelöléssel, továbbá telekalakítással kapcsolatos eljárás esetén | 10 000 |
+
+|  | b) az a) pontban nem tartozó eljárás esetén | 40 000 |
+
 | 41. | nemzetközi azonosítók (nominatív) kijelölése | 19 000 |
 
 | 42. | szemlebizottság felkért tagjainak díjazása, óránként | 10 000 |
 
 | 43. | üzemeltetési szabályzat jóváhagyása | 45 000 |
 
-| 44. | az engedélyezés során szükségessé váló szemle, továbbá a helyszíni felülvizsgálat díja alkalmanként | 54 000 |
+| 44. | az engedélyezés során szükségessé váló szemle, továbbá a helyszíni felülvizsgálat díja alkalmanként | 27 000 |
 
-| 45. | úszólétesítmények üzemképesség vizsgálatához és tanúsításához, úszólétesítményeken alkalmazott felszerelések, berendezések alkalmasságának megállapításához szükséges külön vizsgálatok hatósági szemléje | 93 000 |
+| 45. | úszólétesítmények üzemképességi vizsgálatához és tanúsításához, úszólétesítményeken alkalmazott felszerelések, berendezések alkalmasságának megállapításához szükséges külön vizsgálatok hatósági szemléje | 46 500 |
 
 | 46. | szállítótartályokat gyártó és javító üzemek, próbaállomások jóváhagyása elismerése | 125 000 |
 
@@ -260,6 +258,6 @@
 
 | 50. | gyártó és javító üzemek jóváhagyása elismerése, időszakonkénti vizsgálata | 79 000 |
 
-2. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^18]
+2. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^19]
 
-[^18]: A 2. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^19]: A 2. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (2) bekezdésével megállapított, a 33/2014. (VII. 15.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.

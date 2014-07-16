@@ -1,4 +1,4 @@
-## 5. §[^13] A rendeletben meghatározott díjak tekintetében
+## 5. §[^14] A rendeletben meghatározott díjak tekintetében
 
 a) a díjfizetési kötelezettségre az Itv. 28. § (2)–(3) bekezdésében foglaltakat,
 
@@ -8,4 +8,4 @@ c) a mulasztási bírságra az Itv. 82. §-ában foglaltakat
 
 kell alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon e jogszabály tekintetében díjat kell érteni.
 
-[^13]: Az 5. § a 27/2012. (V. 25.) NFM rendelet 3. §-ával megállapított szöveg.
+[^14]: Az 5. § a 27/2012. (V. 25.) NFM rendelet 3. §-ával megállapított szöveg.

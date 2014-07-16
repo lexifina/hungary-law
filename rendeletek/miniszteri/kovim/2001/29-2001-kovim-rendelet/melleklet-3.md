@@ -6,9 +6,9 @@
 
 | 1. | új úszólétesítmény lajstromozásakor vagy a tulajdonjogban bekövetkezett változás bejegyzésekor |  |
 
-|  | a) tengeri hajó esetében a hajó minden bruttó tonnája után | 1 000 |
+|  | a) tengeri hajó esetében a hajó minden bruttó tonnája után | 300 |
 
-|  | b) belvízi nagyhajók és úszómunkagépeknél | 88 000 |
+|  | b) belvízi nagyhajók és úszómunkagépeknél | 50 000 |
 
 |  | c) belvízi kompok, gazdasági célból üzemeltetett úszóművek és kishajónál | 5 000 |
 
@@ -18,9 +18,9 @@
 
 |  | a) tengeri hajó esetében | 128 000 |
 
-|  | b) belvízi nagyhajók és úszómunkagépeknél | 68 000 |
+|  | b) belvízi nagyhajók és úszómunkagépeknél | 31 000 |
 
-|  | c) belvízi kompok, gazdasági célból üzemeltetett úszóművek és kishajónál | 25 000 |
+|  | c) belvízi kompok, gazdasági célból üzemeltetett úszóművek és kishajónál | 15 000 |
 
 |  | d) kedvtelési célból üzemeltetett kishajó, úszómű és motoros vízi sporteszközöknél | 31 000 |
 
@@ -32,6 +32,6 @@
 
 | 6. | a lajstrom adataiban igazolt változás miatti módosítás, lajstromból és ideiglenes lajstromból történő törlés és a változás bejegyzésének tanúsítása | 17 000 |
 
-3. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^19]
+3. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^20]
 
-[^19]: A 3. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^20]: A 3. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (3) bekezdésével megállapított, a 33/2014. (VII. 15.) NFM rendelet 1. § (3) bekezdése szerint módosított szöveg.
