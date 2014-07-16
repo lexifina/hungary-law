@@ -22,11 +22,13 @@ j) a kormány által az európai uniós és egyéb nemzetközi támogatások ell
 
 k) az állami vagyon felügyeletéért felelős miniszter;
 
-l) az ügyész.
+l) az ügyész;
+
+m) a közbeszerzésekért felelős miniszter.
 
 (2) A Közbeszerzési Döntőbizottság hivatalból való eljárását
 
-a) az (1) bekezdés a), d)–i) és k) pontja szerinti szervezet a jogsértés tudomásra jutásától, közbeszerzési eljárás mellőzése esetén a szerződés megkötéséről, vagy – ha ez nem állapítható meg – teljesítésének bármelyik fél általi megkezdéséről történt tudomásszerzéstől számított harminc napon belül, de legkésőbb a jogsértés megtörténtétől számított egy éven belül, illetve – a közbeszerzési eljárás mellőzése estén – három éven belül,
+a) az (1) bekezdés a), d)–i), k) és m) pontja szerinti szervezet a jogsértés tudomásra jutásától, közbeszerzési eljárás mellőzése esetén a szerződés megkötéséről, vagy – ha ez nem állapítható meg – teljesítésének bármelyik fél általi megkezdéséről történt tudomásszerzéstől számított harminc napon belül, de legkésőbb a jogsértés megtörténtétől számított egy éven belül, illetve – a közbeszerzési eljárás mellőzése estén – három éven belül,
 
 b) az (1) bekezdés b), c), j) és l) pontja szerinti szervezet a jogsértés tudomásra jutásától számított harminc napon belül, de legfeljebb a jogsértés megtörténtétől számított három éven belül, közbeszerzési eljárás mellőzésével történő beszerzés esetén a szerződés megkötésének időpontjától, vagy ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történő megkezdésétől számított három éven belül kezdeményezheti.
 

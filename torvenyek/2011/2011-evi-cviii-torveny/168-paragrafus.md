@@ -8,7 +8,7 @@ a) az állami vagyon felügyeletéért felelős miniszter által kijelölt szem�
 
 b) a gazdaságpolitikáért felelős miniszter által kijelölt személy;
 
-c) az agrár-vidékfejlesztésért felelős miniszter és a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara elnöke által közösen kijelölt személy;
+c) az agrárpolitikáért felelős miniszter és a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara elnöke által közösen kijelölt személy;
 
 d) az építésügyért felelős miniszter által kijelölt személy;
 

@@ -42,7 +42,7 @@
 
 20. a közbeszerzési eljárás valamennyi szakaszára kiterjedő környezetvédelmi, fenntarthatósági és energiahatékonysági követelmények tekintetében előírható részletes szabályokat, valamint az általa irányított vagy felügyelt költségvetési szervek, alapított közalapítványok, valamint az állami tulajdonú gazdálkodó szervezetek vonatkozásában a környezetvédelmi, fenntarthatósági és energiahatékonysági szempontoknak a közbeszerzésben történő érvényesítése kötelező eseteit és módját.
 
-(2) Felhatalmazást kap az állami vagyon felügyeletéért felelős miniszter, hogy rendeletben szabályozza
+(2) Felhatalmazást kap a közbeszerzésekért felelős miniszter, hogy rendeletben szabályozza
 
 a) a hirdetmények és a közbeszerzési terv megküldésének, feladásának és közzétételének szabályait, a hirdetmények ellenőrzésének rendjét, díjának mértékét, befizetését, a közbeszerzések éves statisztikai összegezésére vonatkozó szabályokat, továbbá a Közbeszerzési Értesítőben, illetve a Közbeszerzési Hatóság honlapján történő közzététel rendjét;
 
@@ -56,4 +56,4 @@ e) a közbeszerzések központi ellenőrzésével és engedélyezésével össze
 
 (3) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy rendeletben szabályozza a helyben központosított közbeszerzési eljárások részletes szabályait, a helyben központosított közbeszerzés szabályai szerint eljárni köteles szervek körét, a helyben központosított közbeszerzés során ajánlatkérésre feljogosított szervezet részére fizetendő, kizárólag a végrehajtással felmerülő költségeket fedező díj mértékét.
 
-(4) Felhatalmazást kap a közfoglalkoztatásért felelős miniszter, hogy az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben szabályozza a közfoglalkoztatók részéről a közfoglalkoztatás ellátásához szükséges, az uniós értékhatárt el nem érő áru vagy szolgáltatás beszerzések e törvénytől eltérő sajátos szabályait.
+(4) Felhatalmazást kap a közfoglalkoztatásért felelős miniszter, hogy a közbeszerzésekért felelős miniszterrel egyetértésben rendeletben szabályozza a közfoglalkoztatók részéről a közfoglalkoztatás ellátásához szükséges, az uniós értékhatárt el nem érő áru vagy szolgáltatás beszerzések e törvénytől eltérő sajátos szabályait.

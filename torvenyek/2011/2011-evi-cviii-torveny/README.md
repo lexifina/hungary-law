@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-108-00-00
 | 2014-05-06 | 2012. évi XXXVI. törvény | 2011-108-00-00.15 |
 | 2014-05-16 | 2014. évi XVIII. törvény | 2011-108-00-00.16 |
 | 2014-06-06 | 2014. évi XXI. törvény | 2011-108-00-00.17 |
+| 2014-07-16 | 2014. évi XXXV. törvény | 2011-108-00-00.18 |
