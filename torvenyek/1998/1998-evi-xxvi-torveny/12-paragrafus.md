@@ -10,4 +10,4 @@
 
 (3) A fogyatékos személy egészségügyi ellátása során törekedni kell arra, hogy az ellátás segítse elő a rehabilitációját, társadalmi beilleszkedését, továbbá, hogy ne erősítse a betegségtudatát.
 
-(4) Az orvos – vagy az általa megbízott egyéb egészségügyi dolgozó – a kiskorú személy fogyatékosságának megállapításakor a szülőt (gyámot) haladéktalanul tájékoztatja az igénybe vehető ellátásokról és fejlesztési lehetőségekről. Az ezzel kapcsolatos tájékoztató kiadásáról a társadalmi esélyegyenlőség előmozdításáért felelős miniszter gondoskodik.
+(4) Az orvos – vagy az általa megbízott egyéb egészségügyi dolgozó – a kiskorú személy fogyatékosságának megállapításakor a szülőt (gyámot) haladéktalanul tájékoztatja az igénybe vehető ellátásokról és fejlesztési lehetőségekről. Az ezzel kapcsolatos tájékoztató kiadásáról a társadalmi felzárkózásért felelős miniszter gondoskodik.

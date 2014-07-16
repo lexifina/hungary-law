@@ -4,7 +4,7 @@
 
 26. § (1) Az Országgyűlés által a fogyatékos személyek esélyegyenlőségének megteremtéséhez szükséges intézkedések megalapozása érdekében elfogadott Országos Fogyatékosságügyi Programban (a továbbiakban: Program) foglaltakat az egészségügyi, foglalkoztatási, szociálpolitikai, oktatási, közlekedési tervezésben, továbbá a településfejlesztésben, valamint az egyéb állami tervezés körébe tartozó döntés meghozatala során érvényre kell juttatni.
 
-(2) A Program előkészítéséről és annak Országgyűlési határozat tervezet formájában az Országgyűlés elé történő terjesztéséről – a társadalmi esélyegyenlőség előmozdításáért felelős miniszter útján – a Kormány gondoskodik.
+(2) A Program előkészítéséről és annak Országgyűlési határozat tervezet formájában az Országgyűlés elé történő terjesztéséről – a társadalmi felzárkózásért felelős miniszter útján – a Kormány gondoskodik.
 
 (2a) Az Országos Fogyatékosságügyi Tanács részt vesz a Program előkészítésében, és figyelemmel kíséri annak végrehajtását.
 
