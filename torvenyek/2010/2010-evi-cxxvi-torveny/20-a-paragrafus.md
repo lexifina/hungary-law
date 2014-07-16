@@ -4,4 +4,4 @@
 
 (2) A fővárosi kormányhivatal kirendeltségeiként kerületi hivatalok működnek. A kerületi hivatal illetékességi területe megegyezik a fővárosi kerület közigazgatási területével. A kerületi hivatalra egyebekben a járási hivatalra vonatkozó jogszabályokat kell alkalmazni.
 
-(3) A járási hivatal a járási hivatalvezető (a továbbiakban: hivatalvezető) által közvetlenül vezetett járási törzshivatalból és járási szakigazgatási szervekből áll.
+(3) A járási hivatal a járási hivatalvezető (a továbbiakban: hivatalvezető) által közvetlenül vezetett járási törzshivatalból és járási szakigazgatási szervekből áll. A járási törzshivatal szervezeti egységeként jogszabályban meghatározottak szerint kormányablak és okmányiroda működik.
