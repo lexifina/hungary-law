@@ -10,7 +10,7 @@ c) az ÜHG-egységek kiosztásához szükséges részletszabályokat,
 
 d) az állam tulajdonában lévő ÜHG-egységekkel való rendelkezésre vonatkozó részletes szabályokat,
 
-e) a magyar állam tulajdonában lévő ÜHG-egységek értékesítésére vonatkozó részletes szabályokat,
+e) az állam tulajdonában lévő ÜHG-egységek értékesítésére vonatkozó részletes szabályokat,
 
 f)
 
@@ -44,6 +44,6 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-a) a fizetendő igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletben állapítsa meg,
+a) a fizetendő igazgatási szolgáltatási díj mértékét rendeletben állapítsa meg,
 
 b) az igazgatási szolgáltatási díj és a felügyeleti díj megfizetésének részletes szabályait rendeletben állapítsa meg.

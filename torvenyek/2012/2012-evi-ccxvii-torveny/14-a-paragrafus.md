@@ -1,0 +1,1 @@
+14/A. § A miniszter a 12. § (2) bekezdésében, a 15. § (4) bekezdésében, a 15. § (5) bekezdés első mondatában, a 16. § (5) bekezdésében, a 18/A. § (3) bekezdésében, a 18/B. § (4) bekezdésében, a 18/F. § (1) bekezdésében, a 30. § (2) bekezdésében és a 38. § (1) bekezdésében meghatározott feladatait az energiapolitikáért felelős miniszterrel együttműködésben látja el.

@@ -24,4 +24,4 @@ d) a hatóság által jóváhagyott nyomonkövetési terv,
 
 e) a jelentési követelmények és
 
-f) az üzemeltető azon kötelezettségének megállapítása, amely szerint minden év április 30-ig köteles a nyomon követett, hitelesített előző évi kibocsátásával egyenlő számú kibocsátási egységet a magyar államnak e törvény szerint visszaadni.
+f) az üzemeltető azon kötelezettségének megállapítása, amely szerint minden év április 30-ig köteles a nyomon követett, hitelesített előző évi kibocsátásával egyenlő számú kibocsátási egységet az államnak e törvény szerint visszaadni.
