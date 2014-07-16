@@ -12,7 +12,7 @@ b) az épített környezet alakításában, védelmében és fejlesztésében, a
 
 c) a településrendezési és az építésügyi igazgatási tevékenység kimagasló színvonalának elismerése.
 
-(4) A kultúráért felelős miniszter, valamint a sajátos építményfajták szerinti miniszterek külön jogszabályban meghatározott szakmai díjakat adományoznak.
+(4) A kulturális örökség védelméért felelős miniszter, valamint a sajátos építményfajták szerinti miniszterek külön jogszabályban meghatározott szakmai díjakat adományoznak.
 
 (5) Az e törvényben megállapított szakmagyakorlási tevékenységeket érintő feladatok ellátása során a miniszter együttműködik a felsőoktatásban folyó képzési és fejlesztési kérdésekben az állami hatáskörök ellátásában közreműködő testületekkel – különösen a Magyar Felsőoktatási Akkreditációs Bizottsággal, a Felsőoktatási Tervezési Testülettel, a Magyar Rektori Konferenciával –, az egyéb civil vagy érdekképviseleti szervezetekkel és a műszaki tudományos egyesületekkel.
 

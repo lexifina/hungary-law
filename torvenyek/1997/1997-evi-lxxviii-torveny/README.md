@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-78-00-00
 | 2014-03-01 | 2013. évi CCL. törvény | 1997-78-00-00.59 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1997-78-00-00.60 |
 | 2014-07-11 | 2014. évi XXXI. törvény | 1997-78-00-00.61 |
+| 2014-07-16 | 2014. évi XXXV. törvény | 1997-78-00-00.62 |

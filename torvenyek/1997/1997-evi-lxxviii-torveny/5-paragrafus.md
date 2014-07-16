@@ -10,7 +10,7 @@ bb) ellátja az építésügyi és az építésfelügyeleti hatóságok, valamin
 
 c) ellátja az Országos Építésügyi Nyilvántartás (a továbbiakban: Nyilvántartás), valamint az Építésügyi Dokumentációs és Információs Központ (a továbbiakban: Dokumentációs Központ) szakmai irányítását és felügyeletét,
 
-d) elősegíti – a régészeti örökség és a műemléki értékek védelméért felelős miniszter, valamint a természetvédelemért felelős miniszter bevonásával – az építészeti kultúra megőrzését, fejlesztését és védelmét, ennek keretében országos kutatási, műszaki fejlesztési, valamint oktatási-nevelési programokat dolgoztat ki és működtet,
+d) elősegíti – a kulturális örökség védelméért felelős miniszter, valamint a természetvédelemért felelős miniszter bevonásával – az építészeti kultúra megőrzését, fejlesztését és védelmét, ennek keretében országos kutatási, műszaki fejlesztési, valamint oktatási-nevelési programokat dolgoztat ki és működtet,
 
 e) részt vesz az építésügyet érintő felsőoktatási, szakirányú továbbképzési, oktatási képzési és szakképzési célok meghatározásában, azok tartalmának és képesítési követelményeinek kidolgozásában, továbbá kezdeményezési, véleményezési és egyetértési jogot gyakorol az erre vonatkozó jogszabályok előkészítésében,
 
