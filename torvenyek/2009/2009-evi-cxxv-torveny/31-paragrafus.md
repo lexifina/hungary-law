@@ -52,7 +52,7 @@ b) a jelnyelv oktatásának megszervezésére és finanszírozására vonatkozó
 
 részletes szabályokat.
 
-(7) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy a társadalmi felzárkózásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg
+(7) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy rendeletben állapítsa meg
 
 a) a jelnyelvi tolmácsszolgálatok pályáztatásával összefüggő szabályokat és a térítésmentes jelnyelvi tolmácsszolgáltatás finanszírozására vonatkozó részletes szabályokat,
 
@@ -62,7 +62,7 @@ c) az e törvény szerinti jelnyelvi tolmácsolási tevékenység folytatásána
 
 d) a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékén szereplő jelnyelvi tolmácsok kötelező továbbképzésére, szakmai gyakorlatára, valamint az azok bejelentésére, igazolására és ellenőrzésére vonatkozó szabályokat.
 
-(8) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy a társadalmi felzárkózásért felelős miniszter, valamint az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a Névjegyzékbe történő felvételért fizetendő igazgatási szolgáltatási díjra vonatkozó részletes rendelkezéseket.
+(8) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a Névjegyzékbe történő felvételért fizetendő igazgatási szolgáltatási díjra vonatkozó részletes rendelkezéseket.
 
 ## Melléklet a 2009. évi CXXV. törvényhez
 
