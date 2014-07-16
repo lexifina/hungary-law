@@ -67,3 +67,5 @@ g) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghat
 (7) A pénzügyi intézmény az (1)–(3) bekezdésben, valamint az 162. §-ban foglalt esetekben az adatok kiszolgáltatását – titoktartási kötelezettségére hivatkozva – nem tagadhatja meg.
 
 (8) Az MNB jogszabályban, a pénzügyi intézmény számára előírt adatszolgáltatás során is jogosult banktitokhoz jutni.
+
+(9) Az adóhatóság a FATCA-törvényből fakadó kötelezettségek teljesítése céljából az Aktv. 43/B–43/C. §-a szerinti adatszolgáltatás során is jogosult banktitokhoz jutni.
