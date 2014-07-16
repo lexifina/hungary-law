@@ -46,6 +46,6 @@ f) az elektronikus ügyintézési szolgáltató regisztrációjának részletes 
 
 g) az elektronikus fizetésekre és elszámolásokra vonatkozó részletes szabályokat.
 
-(4) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben a technikai előírásokat igénylő szabályozott elektronikus ügyintézési szolgáltatások követelményeit rendeletben állapíthassa meg.
+(4) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel és az igazságügyért felelős miniszterrel egyetértésben a technikai előírásokat igénylő szabályozott elektronikus ügyintézési szolgáltatások követelményeit rendeletben állapíthassa meg.
 
-(5) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy az elektronikus ügyintézési szolgáltatás bejelentéséért, engedélyezéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával kapcsolatos szabályokat az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+(5) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy az elektronikus ügyintézési szolgáltatás bejelentéséért, engedélyezéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával kapcsolatos szabályokat az adópolitikáért felelős miniszterrel és az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
