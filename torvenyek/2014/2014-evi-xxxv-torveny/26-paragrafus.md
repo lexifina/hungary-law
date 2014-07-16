@@ -1,0 +1,3 @@
+26. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az államháztartásért felelős miniszter a Kormány határozata alapján az állam nevében árfolyam-fedezeti megállapodást köthet az MFB Zrt.-vel az MFB Zrt. által forrásszerzés céljából az (1) bekezdés a) és c) pontja alapján elfogadott betéthez, igénybe vett hitelhez, felvett kölcsönhöz és kibocsátott kötvényhez kapcsolódóan, azok euróban kifejezett összege, továbbá az (1) bekezdés d) pontja alapján a forrásbevonással összefüggő deviza csereügylet miatt az MFB Zrt.-t euróban terhelő fizetési kötelezettségek tekintetében.”

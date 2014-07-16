@@ -1,0 +1,3 @@
+89. § Az államháztartásról szóló 2011. évi CXCV. törvény 50. §-a a következő (2) bekezdéssel egészül ki:
+
+„(2) Egyedi döntéssel költségvetési támogatás kivételesen átlátható szervezetnek nem minősülő jogi személy vagy jogi személyiséggel nem rendelkező más szervezet számára az (1) bekezdés c) pontjában meghatározott feltétel fennállása hiányában akkor is biztosítható, ha az átlátható szervezetként való elismerhetőségéhez szükséges – tulajdonosi, igazgatási vagy egyéb – intézkedések megtételét vállalja. Ebben az esetben támogatói okirat addig nem adható ki, illetve a támogatási szerződés addig nem lép hatályba, amíg a kedvezményezett nem felel meg az (1) bekezdés c) pontjában meghatározott feltételnek.”

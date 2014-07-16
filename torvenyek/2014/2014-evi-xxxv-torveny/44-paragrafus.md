@@ -1,0 +1,1 @@
+44. § Hatályát veszti a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174. § (2) bekezdésében az „a társadalmi esélyegyenlőség előmozdításért felelős miniszterrel,” szövegrész.

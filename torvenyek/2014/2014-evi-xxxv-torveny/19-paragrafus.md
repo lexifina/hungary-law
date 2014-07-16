@@ -1,0 +1,1 @@
+19. § Hatályát veszti az atomenergiáról szóló 1996. évi CXVI. törvény 5/C. § (3) bekezdésében, 8. § (1) és (5) bekezdésében, 62. § (2) bekezdésében, (4) bekezdés d) és e) pontjában, (5) és (6) bekezdésében a „kijelölt” szövegrész.

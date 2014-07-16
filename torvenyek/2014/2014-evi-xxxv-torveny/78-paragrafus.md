@@ -1,0 +1,3 @@
+78. § A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény a következő 24. §-sal egészül ki:
+
+„24. § E törvénynek az egyes törvényeknek a kormányzati szerkezetalakítással összefüggő módosításáról szóló 2014. évi XXXV. törvénnyel megállapított 10/A. §-át az országgyűlési képviselők 2014. évi általános választásának időpontjában hivatalban lévő kormánymegbízottra is alkalmazni kell azzal, hogy a 10/A. § (4) bekezdésében meghatározott határidő kezdő napjának az egyes törvényeknek a kormányzati szerkezetalakítással összefüggő módosításáról szóló 2014. évi XXXV. törvény hatálybalépését követő napot kell tekinteni.”

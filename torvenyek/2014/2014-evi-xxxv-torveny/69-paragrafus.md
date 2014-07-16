@@ -1,0 +1,1 @@
+69. § Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 27. § (2) bekezdés k) pontjában a „kultúráért” szövegrész helyébe a „kulturális örökség védelméért” szöveg lép.
