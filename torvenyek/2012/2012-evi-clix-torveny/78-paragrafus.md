@@ -28,7 +28,11 @@ d) az engedélyköteles szolgáltatások nyújtására vonatkozó szolgáltatás
 
 e) az egyetemes postai szolgáltatás nyújtására vonatkozó nyilvános pályázat szabályait.
 
-(3) Felhatalmazást kap a miniszter arra, hogy – az államháztartásért felelős miniszterrel egyetértésben – rendeletben határozza meg az egyetemes postai szolgáltatás keretében küldeményenkénti díjszabás szerint feladott, 50 grammot meg nem haladó tömegű, belföldi levélküldemények, valamint a hivatalos iratokra vonatkozó belföldi postai szolgáltatás díjának meghatározási módszerét.
+(3) Felhatalmazást kap a miniszter, hogy – az államháztartásért felelős miniszterrel egyetértésben – rendeletben határozza meg
+
+a) az egyetemes postai szolgáltatás keretében küldeményenkénti díjszabás szerint feladott, 50 grammot meg nem haladó tömegű, belföldi levélküldemények, valamint a hivatalos iratokra vonatkozó belföldi postai szolgáltatás díjának meghatározási módszerét,
+
+b) a 26. § (5) bekezdésében meghatározott követelményeket.
 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben rendeletben állapítsa meg:
 
