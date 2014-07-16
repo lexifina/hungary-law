@@ -2,7 +2,7 @@
 
 (2) A Kormány ötévente felülvizsgálja a hatályos nemzeti programot.
 
-(3) A nemzeti program és annak felülvizsgálata előkészítéséről a kijelölt miniszter gondoskodik. A nemzeti program elkészítése, felülvizsgálata során figyelembe kell venni a műszaki és a tudományos fejlődés eredményeit, a szakértői értékelések során megfogalmazott ajánlásokat, az üzemi és az üzemzavari eseményekből levont tanulságokat, valamint a bevált gyakorlatot is.
+(3) A nemzeti program és annak felülvizsgálata előkészítéséről a miniszter gondoskodik. A nemzeti program elkészítése, felülvizsgálata során figyelembe kell venni a műszaki és a tudományos fejlődés eredményeit, a szakértői értékelések során megfogalmazott ajánlásokat, az üzemi és az üzemzavari eseményekből levont tanulságokat, valamint a bevált gyakorlatot is.
 
 (4) A nemzeti programnak ki kell terjednie
 

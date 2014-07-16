@@ -1,4 +1,4 @@
-68. § (1) Felhatalmazást kap az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter, hogy rendeletben szabályozza
+68. § (1) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
 a) a nukleáris anyagok nyilvántartásának és ellenőrzésének szabályait, a kapcsolódó adatszolgáltatás szabályait, a nyilvántartás adatait érintő változásokkal kapcsolatos bejelentési és értesítési kötelezettségeket, az előírt adatszolgáltatás elmaradásának következményeit, a nukleáris anyagokkal kapcsolatos telephely kijelölés és az ezzel kapcsolatos hatósági feladatok szabályait az egészségügyért felelős miniszterrel, a rendészetért felelős miniszterrel, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben;
 
@@ -26,7 +26,7 @@ c) az atomenergia alkalmazása körében munkavállalókra érvényes sugáregé
 
 d) a közúti szállító eszközök sugárvédelmi követelményeit;
 
-e) az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben az atomenergia alkalmazásával összefüggő sugárvédelmi szabályokat és a sugárvédelmi szolgálatok feladatára és működésére vonatkozó részletes előírásokat;
+e) a miniszterrel egyetértésben az atomenergia alkalmazásával összefüggő sugárvédelmi szabályokat és a sugárvédelmi szolgálatok feladatára és működésére vonatkozó részletes előírásokat;
 
 f) az egészségügyi ágazat radiológiai mérő és adatszolgáltató hálózata felépítésének és működésének szabályait;
 
@@ -52,15 +52,15 @@ p) a radioaktív hulladékok átmeneti tárolásának és végleges elhelyezés�
 
 q) bányászati ügyekért felelős miniszterrel egyetértésben a bányászati és földtani környezettel kapcsolatos sugáregészségügyi előírásokat.
 
-(3) Felhatalmazást kap a környezetvédelmért felelős miniszter, hogy rendeletben állapítsa meg az atomenergia-felügyeleti szervet felügyelő miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel egyetértésben
+(3) Felhatalmazást kap a környezetvédelmért felelős miniszter, hogy rendeletben állapítsa meg a miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel egyetértésben
 
 a) az atomenergia alkalmazása során a levegőbe és vízbe kibocsátható radioaktív anyagok – fizikai és kémiai jellemzőktől függő – maximális mennyiségét és a kibocsátás más feltételeit, továbbá a levegő és a vízi környezet radioaktív szennyezése ellenőrzésére irányadó szabályokat;
 
 b) a vizek és a víztartó képződmények radioaktív és hőszennyezés elleni védelmével kapcsolatos, a környezetvédelemre vonatkozó – általános jogszabályokon túlmenő – speciális szabályokat.
 
-(4) Felhatalmazást kap a közlekedésért felelős miniszter, hogy rendeletben állapítsa meg a nukleáris és radioaktív anyagok szállítása és csomagolása követelményeit a környezetvédelemért felelős miniszterrel, az egészségügyért felelős miniszterrel, továbbá az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben.
+(4) Felhatalmazást kap a közlekedésért felelős miniszter, hogy rendeletben állapítsa meg a nukleáris és radioaktív anyagok szállítása és csomagolása követelményeit a környezetvédelemért felelős miniszterrel, az egészségügyért felelős miniszterrel, továbbá a miniszterrel egyetértésben.
 
-(5) Felhatalmazást kap a tevékenység jellege szerint érintett miniszter, hogy az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben szabályozza az atomenergia alkalmazása körében munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét.
+(5) Felhatalmazást kap a tevékenység jellege szerint érintett miniszter, hogy a miniszterrel egyetértésben szabályozza az atomenergia alkalmazása körében munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét.
 
 (6)
 
@@ -72,9 +72,9 @@ b)
 
 c) a katasztrófák elleni védekezésért felelős miniszter, hogy tűzbiztonság fokozása érdekében a tűzvédelem atomenergia alkalmazásával kapcsolatos sajátos követelményeit és azok érvényesítésének módját a hatóságok tevékenysége során
 
-az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben, rendeletben állapítsa meg.
+a miniszterrel egyetértésben, rendeletben állapítsa meg.
 
-(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy a közlekedésért felelős miniszterrel, valamint az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben rendeletben állapítsa meg a radioaktív, illetve nukleáris anyagok szállításának rendőri ellenőrzési és biztosítási feladatait.
+(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy a közlekedésért felelős miniszterrel, valamint a miniszterrel egyetértésben rendeletben állapítsa meg a radioaktív, illetve nukleáris anyagok szállításának rendőri ellenőrzési és biztosítási feladatait.
 
 (9)
 
@@ -84,6 +84,6 @@ a) a radioaktív anyagok kezelése és ellenőrzése ágazati szabályait, tová
 
 b) az ágazat speciális (kiképzési, nukleárisbaleset-elhárítási, háborús) sugáregészségügyi szabályait.
 
-(11) Felhatalmazást kapnak a miniszterek, hogy rendeletben állapítsák meg a feladatkörükbe tartozó tevékenységek az országos környezeti sugárvédelmi ellenőrző rendszer részére történő adatszolgáltatáshoz szükséges környezeti sugárvédelmi ellenőrző rendszerének, továbbá adatgyűjtő és szolgáltató központjának felépítését és működési szabályait.
+(11) Felhatalmazást kap a Kormány tagja, hogy rendeletben állapítsa meg a feladatkörükbe tartozó tevékenységek az országos környezeti sugárvédelmi ellenőrző rendszer részére történő adatszolgáltatáshoz szükséges környezeti sugárvédelmi ellenőrző rendszerének, továbbá adatgyűjtő és szolgáltató központjának felépítését és működési szabályait.
 
 (12) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 21/B. § szerinti, az atomenergia alkalmazásával kapcsolatos igazgatási szolgáltatási díjak körét és mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket rendeletben határozza meg.

@@ -1,4 +1,4 @@
-8. § (1) Az atomenergia-felügyeleti szerv kormányhivatal, felügyeletét a kijelölt miniszter látja el. Az atomenergia-felügyeleti szerv döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+8. § (1) Az atomenergia-felügyeleti szerv kormányhivatal, felügyeletét a miniszter látja el. Az atomenergia-felügyeleti szerv döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
 
 (2)
 
@@ -26,7 +26,7 @@ f) feladatkörében együttműködik más országok hasonló hatósági feladato
 
 g) ellátja az 5/A. § (4) bekezdése alapján Magyarországot terhelő kötelezettségeket.
 
-(5) A kijelölt miniszter
+(5) A miniszter
 
 a)
 
