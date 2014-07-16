@@ -8,7 +8,11 @@
 
 3. kettős adóztatás elkerüléséről szóló egyezmény: Magyarország és más állam között a kettős adóztatás elkerülése tárgyában létrejött, jogszabályban kihirdetett nemzetközi szerződés;
 
-4. Választottbírósági Egyezmény: a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló, 1990. július 23-án Brüsszelben aláírt Egyezmény, az Osztrák Köztársaságnak, a Finn Köztársaságnak és a Svéd Királyságnak a társult vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv, a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló 1990. július 23-i egyezmény módosításáról szóló Jegyzőkönyv, valamint a Cseh Köztársaságnak, az Észt Köztársaságnak, a Ciprusi Köztársaságnak, a Lett Köztársaságnak, a Litván Köztársaságnak, a Magyar Köztársaságnak, a Máltai Köztársaságnak, a Lengyel Köztársaságnak, a Szlovén Köztársaságnak és a Szlovák Köztársaságnak a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló Egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv kihirdetéséről szóló 2006. évi XXXVI. törvény (a továbbiakban: Vtv.) 3–6. §-a szerinti egyezmény.
+4. Választottbírósági Egyezmény: a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló, 1990. július 23-án Brüsszelben aláírt Egyezmény, az Osztrák Köztársaságnak, a Finn Köztársaságnak és a Svéd Királyságnak a társult vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv, a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló 1990. július 23-i egyezmény módosításáról szóló Jegyzőkönyv, valamint a Cseh Köztársaságnak, az Észt Köztársaságnak, a Ciprusi Köztársaságnak, a Lett Köztársaságnak, a Litván Köztársaságnak, a Magyar Köztársaságnak, a Máltai Köztársaságnak, a Lengyel Köztársaságnak, a Szlovén Köztársaságnak és a Szlovák Köztársaságnak a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló Egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv kihirdetéséről szóló 2006. évi XXXVI. törvény (a továbbiakban: Vtv.) 3–6. §-a szerinti egyezmény;
+
+5. FATCA Megállapodás: a 2014. évi XIX. törvénnyel kihirdetett, a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás;
+
+6. Hatóságközi Megállapodás: a FATCA Megállapodás 3. cikk 6. pontja szerinti megállapodás.
 
 (2) E törvény II. és III. Fejezete alkalmazásában:
 
@@ -117,3 +121,19 @@ ca) amely a végrehajtást engedélyező egységes okirathoz mellékelt okirat v
 cb) amelytől a követeléssel vagy a fizetési kötelezettséggel kapcsolatos jogorvoslatokra vonatkozóan további tájékoztatás kérhető;
 
 11. végrehajtást engedélyező eredeti okirat: olyan okirat, amely a végrehajtást a megkereső tagállamban teszi lehetővé.
+
+(5) Az V/A. fejezet alkalmazásában:
+
+1. Jelentő Magyar Pénzügyi Intézmény
+
+a) a tőkepiacról szóló 2001. évi CXX. törvény 146/A. §-a szerinti Jelentő Magyar Pénzügyi Intézmény,
+
+b) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 167/C. §-a szerinti Jelentő Magyar Pénzügyi Intézmény,
+
+c) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 123/B. §-a szerinti Jelentő Magyar Pénzügyi Intézmény,
+
+d) az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 86/A. §-a szerinti Jelentő Magyar Pénzügyi Intézmény, és
+
+e) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 288/A. §-a szerinti Jelentő Magyar Pénzügyi Intézmény.
+
+2. Nem Jelentő Magyar Pénzügyi Intézmény: a FATCA Megállapodás 1. cikk 1. pont q) alpontja szerinti Nem Jelentő Magyar Pénzügyi Intézmény.

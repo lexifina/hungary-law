@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-37-00-00
 | 2013-05-20 | 2010. évi CXXX. törvény | 2013-37-00-00.4 |
 | 2013-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-37-00-00.5 |
 | 2013-07-02 | 2010. évi CXXX. törvény | 2013-37-00-00.6 |
+| 2014-07-16 | 2014. évi XIX. törvény | 2013-37-00-00.7 |

@@ -1,0 +1,1 @@
+43/C. § A Jelentő Magyar Pénzügyi Intézmény a 2015. és 2016. adóévre vonatkozóan a FATCA Megállapodás 4. cikk 1. pont b) alpontja szerinti adatszolgáltatási kötelezettségét az adóévet követő június 30. napjáig teljesíti az állami adóhatósághoz.

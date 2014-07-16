@@ -1,0 +1,9 @@
+43/D. § (1) Az állami adóhatóság a FATCA Megállapodás 2. cikke szerinti automatikus információcserét a Jelentő Magyar Pénzügyi Intézmények adatszolgáltatása alapján a Hatóságközi Megállapodásban foglaltak szerint legkésőbb az adóévet követő év szeptember 30. napjáig teljesíti.
+
+(2) Az állami adóhatóság az Amerikai Egyesült Államok Illetékes Hatósága által a FATCA Megállapodás 2. cikke szerinti automatikus információcserét a Hatóságközi Megállapodásban foglaltak szerint fogadja.
+
+(3) A FATCA Megállapodás szerinti, adatszolgáltatásra és automatikus információcserére irányuló együttműködés során az állami adóhatóság vagy az adópolitikáért felelős miniszter által közölt, szerzett vagy továbbított információ adótitoknak minősül.
+
+(4) Nem jelenti az adótitok, illetve a tőkepiacról szóló törvény szerinti értékpapírtitok és üzleti titok, a biztosítókról és a biztosítási tevékenységről szóló törvény szerinti biztosítási titok és üzleti titok, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti értékpapírtitok, az egyes fizetési szolgáltatókról szóló törvény szerinti fizetési titok és üzleti titok, továbbá a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti banktitok és üzleti titok sérelmét, ha az információk átadására, átvételére és felhasználására az Amerikai Egyesült Államok Illetékes Hatósága és az állami adóhatóság közötti, e törvényben, a FATCA Megállapodásban és a Hatóságközi Megállapodásban foglaltaknak megfelelő automatikus információcsere és együttműködés keretében kerül sor.
+
+(5) A FATCA Megállapodás szerinti automatikus információcsere keretében az Amerikai Egyesült Államok Illetékes Hatósága által közölt információt az állami adóhatóság adóügyben bizonyítékként felhasználhatja.
