@@ -6,4 +6,4 @@
 
 (4)
 
-(5) E törvény végrehajtásához szükséges intézkedésekről a bűncselekmények megelőzéséért felelős miniszter és a rendészetért felelős miniszter gondoskodik.
+(5) E törvény végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter gondoskodik.
