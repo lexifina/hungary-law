@@ -36,4 +36,4 @@ e) a szakképesítés szakmai és vizsgakövetelményei meghatározására a Kor
 
 (5) A Központi Statisztikai Hivatal elnöke hatáskörébe tartozó szakképesítésekre vonatkozó, e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Központi Statisztikai Hivatal elnöke véleményének kikérésével a Központi Statisztikai Hivatal felügyeletét ellátó miniszter gyakorolja.
 
-(6) A Közbeszerzési Hatóság elnöke hatáskörébe tartozó szakképesítésekre vonatkozó, e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Közbeszerzési Hatóság elnöke véleményének kikérésével az állami vagyon felügyeletéért felelős miniszter gyakorolja.
+(6) A Közbeszerzési Hatóság elnöke hatáskörébe tartozó szakképesítésekre vonatkozó, e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Közbeszerzési Hatóság elnöke véleményének kikérésével a közbeszerzésekért felelős miniszter gyakorolja.
