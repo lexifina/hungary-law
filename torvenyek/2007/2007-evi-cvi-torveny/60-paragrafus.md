@@ -4,4 +4,4 @@
 
 (3) Az ÁPV Zrt. munkavállalóinak az MNV Zrt.-nél történő továbbfoglalkoztatása munkáltatói jogutódlásnak minősül.
 
-(4) Az ÁPV Zrt. saját vagyona – az MNV Zrt. működéséhez szükséges tárgyi eszközök (műszaki berendezés, gép, felszerelés stb.) kivételével – a társaság megszűnésével a Magyar Államra száll. Az MNV Zrt. működéséhez szükséges tárgyi eszközök az MNV Zrt. saját vagyonába kerülnek.
+(4) Az ÁPV Zrt. saját vagyona – az MNV Zrt. működéséhez szükséges tárgyi eszközök (műszaki berendezés, gép, felszerelés stb.) kivételével – a társaság megszűnésével az államra száll. Az MNV Zrt. működéséhez szükséges tárgyi eszközök az MNV Zrt. saját vagyonába kerülnek.

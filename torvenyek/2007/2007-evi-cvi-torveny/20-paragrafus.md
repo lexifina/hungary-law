@@ -58,7 +58,7 @@ q) döntés állami tulajdonú társasági részesedések esetén az Nvtv. 8. §
 
 (8) A részvényesi jogokat gyakorló miniszter az Igazgatóság részére írásban utasítást adhat, amelyet az végrehajtani köteles, de ez esetben a tagok mentesülnek a (9)–(10) bekezdésben foglalt felelősség alól.
 
-(9) Az Igazgatóság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. Az Igazgatóság tagjai – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek a Magyar Állammal és az MNV Zrt.-vel szemben a jogszabályok, az alapító okirat, illetve a részvényesi jogokat gyakorló miniszter által hozott határozatok, illetve kötelezettségeik felróható megszegésével okozott károkért.
+(9) Az Igazgatóság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. Az Igazgatóság tagjai – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal és az MNV Zrt.-vel szemben a jogszabályok, az alapító okirat, illetve a részvényesi jogokat gyakorló miniszter által hozott határozatok, illetve kötelezettségeik felróható megszegésével okozott károkért.
 
 (10) Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
 

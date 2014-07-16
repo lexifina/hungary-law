@@ -8,13 +8,13 @@
 
 a) előkészíti, illetve végrehajtja az Országgyűlés, a Kormány és a miniszter állami vagyonnal kapcsolatos döntéseit,
 
-b) nyilvántartást vezet a tulajdonosi joggyakorlása – ideértve a 3. § (1) bekezdése alapján a miniszter által vagy külön törvény alapján gyakorolt, valamint a 3. § (2) bekezdése alapján jogszabály útján átadott tulajdonosi joggyakorlást is – alá tartozó az állami vagyonról, annak alapján adatszolgáltatást nyújt,
+b) nyilvántartást vezet a tulajdonosi joggyakorlása – ideértve a törvény vagy miniszteri rendelet alapján átadott tulajdonosi joggyakorlást is – alá tartozó az állami vagyonról, annak alapján adatszolgáltatást nyújt,
 
 c) a tulajdonosi joggyakorlása alá tartozó állami vagyont közvetlenül vagy polgári jogi szerződések útján hasznosítja,
 
 d) rendszeresen ellenőrzi a vele szerződéses jogviszonyban lévő személyek, szervezetek vagy más használók állami vagyonnal való gazdálkodását, megállapításairól az MNV Zrt. Felügyelő Bizottságát, az ellenőrzött szervet, szükség esetén a minisztert és az Állami Számvevőszéket tájékoztatja,
 
-e) az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban – jogszabály eltérő rendelkezése hiányában – képviseli a Magyar Államot,
+e) az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban – jogszabály eltérő rendelkezése hiányában – képviseli az államot,
 
 f) ellenőrzi az értékesítési szerződésekben foglalt kötelezettségek teljesítését.
 

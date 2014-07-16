@@ -2,7 +2,7 @@
 
 (2) Mellőzni lehet a versenyeztetést:
 
-a) a magyar állam tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén,
+a) az állam tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén,
 
 b) állami vagyon gazdasági társaság részére, nem pénzbeli vagyoni hozzájárulásként történő rendelkezésre bocsátásakor,
 

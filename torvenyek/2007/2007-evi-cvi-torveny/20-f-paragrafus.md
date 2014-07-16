@@ -14,4 +14,4 @@ d) gazdasági társaság megszüntetési eljárás során való törlését köv
 
 (4) Nem vonatkozik a (3) bekezdés arra az esetre, ha az adásvételi szerződés megkötésére jogszabályon alapuló elővásárlási jog alapján kerül sor.
 
-(5) Az Igazgatóság és a Felügyelő Bizottság tagja, valamint ezek közeli hozzátartozója és élettársa a tagsági jogviszony fennállása alatt nem szerezhet társasági részesedést, továbbá nem lehet vezető tisztségviselő, felügyelő bizottsági tag és könyvvizsgáló olyan gazdálkodó szervezetben, amely tagsági jogviszonyának fennállása alatt a Magyar Államtól társasági részesedést szerzett.
+(5) Az Igazgatóság és a Felügyelő Bizottság tagja, valamint ezek közeli hozzátartozója és élettársa a tagsági jogviszony fennállása alatt nem szerezhet társasági részesedést, továbbá nem lehet vezető tisztségviselő, felügyelő bizottsági tag és könyvvizsgáló olyan gazdálkodó szervezetben, amely tagsági jogviszonyának fennállása alatt az államtól társasági részesedést szerzett.

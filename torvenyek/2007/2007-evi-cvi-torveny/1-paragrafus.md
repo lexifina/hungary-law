@@ -2,7 +2,7 @@
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
 
-1. § (1) E törvény szabályozza a Magyar Állam tulajdonában álló vagyon (a továbbiakban: állami vagyon) feletti tulajdonosi joggyakorlás módját és szervezetét, valamint e vagyonnal való gazdálkodást.
+1. § (1) E törvény szabályozza az állam tulajdonában álló vagyon (a továbbiakban: állami vagyon) feletti tulajdonosi joggyakorlás módját és szervezetét, valamint e vagyonnal való gazdálkodást.
 
 (2) E törvény alkalmazásában állami vagyonnak minősül:
 
@@ -34,4 +34,4 @@ c) a Nemzeti Földalapról.
 
 (6a) E törvény hatálya alá tartozik a köztartozások fejében állami tulajdonba kerülő vagyon (adó-, vám-, illeték, egyéb állami támogatás, ideértve az elkülönített állami pénzalapból finanszírozott állami feladatokkal kapcsolatos állami követeléseket és az állami tulajdonban lévő pénzügyi eszközöket is). E vagyon felett – ideértve a 2010. június 17. napján és ezt követően a Nemzeti Adó- és Vámhivatal követelése fejében átadott vagyont is – az államot megillető tulajdonosi jogokat a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja.
 
-(7) E törvénynek az állami vagyon megszerzésére, elidegenítésére vagy az állami vagyonnal való más rendelkező cselekményre vonatkozó szabályait nem kell alkalmazni, ha a felsoroltakra törvény vagy a Magyar Állam által kötött nemzetközi szerződés eltérően rendelkezik.
+(7) E törvénynek az állami vagyon megszerzésére, elidegenítésére vagy az állami vagyonnal való más rendelkező cselekményre vonatkozó szabályait nem kell alkalmazni, ha a felsoroltakra törvény vagy az állam által kötött nemzetközi szerződés eltérően rendelkezik.
