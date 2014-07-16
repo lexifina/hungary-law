@@ -1,4 +1,4 @@
-29. § (1) A területfejlesztés stratégiai tervezéséért felelős miniszter 2014. február 28-ig összehívja az Országos Területfejlesztési Érdekegyeztető Fórum alakuló ülését. Az Országos Területfejlesztési Érdekegyeztető Fórum megalakulása időpontjától jogutódja a megszűnő Országos Területfejlesztési Tanácsnak.
+29. § (1) Az Országos Területfejlesztési Érdekegyeztető Fórum megalakulása időpontjától jogutódja a megszűnő Országos Területfejlesztési Tanácsnak.
 
 (2) A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény módosításáról szóló 2013. évi CCXVI. törvény hatálybalépésekor nonprofit gazdasági társasági formában működő regionális fejlesztési ügynökségek a magyar állam könyveiben 2013. december 31-én szereplő értéken, térítésmentesen a területileg érintett megyei önkormányzatok, illetve Budapest Főváros Önkormányzata tulajdonába kerülnek.
 

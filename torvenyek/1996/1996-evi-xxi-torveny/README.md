@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-21-00-00
 | 2014-02-25 | 2014. évi XVI. törvény | 1996-21-00-00.38 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1996-21-00-00.39 |
 | 2014-06-06 | 2014. évi XXI. törvény | 1996-21-00-00.40 |
+| 2014-07-16 | 2014. évi XXXV. törvény | 1996-21-00-00.41 |

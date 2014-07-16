@@ -28,7 +28,7 @@ bd) figyelemmel kíséri az operatív programok megyében vagy a fővárosban je
 
 be) más megyei önkormányzatokkal és az államigazgatási szervekkel közösen, monitoring bizottság vagy más döntéshozó szerv útján közreműködik a határon átnyúló nemzetközi fejlesztési programok irányításában, részt vesz azok lebonyolításában, végrehajtásában,
 
-bf) dönt a Kutatási és Innovációs Alapnak a miniszter által a megyei önkormányzat hatáskörébe utalt pénzeszközeinek pályázati kiírásairól, illetve felhasználásáról,
+bf) dönt a Kutatási és Innovációs Alap felett rendelkezési jogot gyakorló miniszternek a Kutatási és Innovációs Alap megyei önkormányzat hatáskörébe utalt pénzeszközeinek felhasználásáról,
 
 bg) a megye gazdaságának és foglalkoztatásának fellendítése érdekében gazdaságfejlesztési, befektetés ösztönző tevékenységet lát el, aminek elősegítése érdekében külön szervezetet hozhat létre vagy megállapodás alapján más szervezettel működhet együtt;
 

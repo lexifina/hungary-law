@@ -52,6 +52,8 @@ d) az ágazati operatív programok végrehajtásáért felelős miniszterek egy-
 
 (13) A térségi fejlesztési tanács a tagjai sorából elnököt és alelnököt (alelnököket) választ. Munkaszervezetét, működési rendjét – a 16. §-ban foglaltak figyelembevételével – maga alakítja ki.
 
+(13a) A térségi fejlesztési tanács (8) bekezdés a) és b) pontjában meghatározott tagja a térségi fejlesztési tanácsban végzett tevékenysége után díjazásra nem jogosult.
+
 (14) A Balaton Fejlesztési Tanács dönt a hatáskörébe utalt pénzeszközök felhasználásáról, és megállapodást köthet az érintett tárcákkal az egyes fejlesztési programok finanszírozásáról.
 
 (15) A területfejlesztési koncepció és program kidolgozását, és más közös területfejlesztési feladatokat a Tokaji Borvidék térségében a Tokaji Borvidék Fejlesztési Tanács látja el. A Tokaji Borvidék Fejlesztési Tanács ennek keretében:
