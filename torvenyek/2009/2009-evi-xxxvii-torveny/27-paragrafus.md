@@ -24,6 +24,6 @@ i) a közlekedésért felelős miniszter,
 
 j) az érintett települési önkormányzat jegyzője,
 
-k) a kultúráért felelős miniszter,
+k) a kulturális örökség védelméért felelős miniszter,
 
 l) a bányászati ügyekért felelős miniszter.
