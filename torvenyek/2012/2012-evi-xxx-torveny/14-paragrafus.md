@@ -14,7 +14,7 @@ d) a helyi önkormányzatokért felelős miniszter által delegált 1,
 
 e) a kultúráért és az oktatásért felelős miniszter által együttesen delegált 1,
 
-f) az agrár-vidékfejlesztésért felelős miniszter és a természetvédelemért felelős miniszter által együttesen delegált 1,
+f) az agrárpolitikáért felelős miniszter és a természetvédelemért felelős miniszter által együttesen delegált 1,
 
 g) a turizmusért felelős miniszter által delegált 1,
 
@@ -34,4 +34,4 @@ tagból áll.
 
 (4) Nem lehet a HB tagja az, akinek szellemi vagy termelőtevékenységével létrehozott produktuma nemzeti értéknek minősül, valamint, aki nemzeti érték kereskedelmi célú forgalmazásával kapcsolatos tevékenységet végez.
 
-(5) A HB elnöke az agrár-vidékfejlesztésért felelős miniszter.
+(5) A HB elnöke az agrárpolitikáért felelős miniszter.
