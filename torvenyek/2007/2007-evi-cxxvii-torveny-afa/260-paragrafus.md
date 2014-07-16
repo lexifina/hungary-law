@@ -26,4 +26,4 @@ i) a számlázási funkcióval rendelkező programokkal szembeni követelmények
 
 (2) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy – a külpolitikáért és a honvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a 107. § szerinti adómentességhez, illetőleg adó-visszatéríttetési jog gyakorlásához fűződő igazolási kötelezettséget, az adó-visszatéríttetési kérelem kötelező adattartalmát, valamint az utólagos adó-visszatéríttetés eljárási szabályait.
 
-(3) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy – az informatikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg az elektronikus úton kibocsátott számla és az abban foglalt adattartalom sértetlensége és eredetiségének hitelessége biztosítására vonatkozó szabályokat.
+(3) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy – az e-közigazgatásért felelős miniszterrel és az informatikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg az elektronikus úton kibocsátott számla és az abban foglalt adattartalom sértetlensége és eredetiségének hitelessége biztosítására vonatkozó szabályokat.
