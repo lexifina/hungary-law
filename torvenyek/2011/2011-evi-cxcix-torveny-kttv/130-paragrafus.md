@@ -12,6 +12,6 @@
 
 (6) A teljesítményértékelés, minősítés tartalma hibás vagy valótlan ténymegállapításának, személyiségi jogát sértő megállapításának megsemmisítése iránt a kormánytisztviselő közszolgálati jogvitát kezdeményezhet.
 
-(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a teljesítményértékelés lefolytatásának elősegítése érdekében módszertani ajánlást ad ki.
+(7) A közszolgálati életpálya kidolgozásáért felelős miniszter a teljesítményértékelés lefolytatásának elősegítése érdekében módszertani ajánlást ad ki.
 
-(8) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter – a helyi önkormányzatok tekintetében a megyei, fővárosi kormányhivatalok útján – ellenőrzi a teljesítményértékelésre, minősítésre vonatkozó szabályok és módszertan betartását.
+(8) A közszolgálati életpálya kidolgozásáért felelős miniszter – a helyi önkormányzatok tekintetében a megyei, fővárosi kormányhivatalok útján – ellenőrzi a teljesítményértékelésre, minősítésre vonatkozó szabályok és módszertan betartását.

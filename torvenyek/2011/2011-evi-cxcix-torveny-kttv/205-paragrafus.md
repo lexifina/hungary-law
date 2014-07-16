@@ -8,4 +8,4 @@
 
 (4) Az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnök gyakorolja a munkáltatói jogokat az államtitkári kabinet állományába tartozó kormánytisztviselők, valamint az államtitkár titkárságát vezető osztályvezető felett. A vezetői kinevezés adása és visszavonása az államtitkár hatáskörébe tartozik.
 
-(5) A miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnökre e törvény rendelkezéseit megfelelően kell alkalmazni a 45. § (1)–(3) és (6) bekezdése, 58. §, 62. §, 69. §, 72–73. §, 116–128. §, 130. §, 181. §, 203. § (7)–(9) bekezdése, 204. § (1)–(2) és (7) bekezdése kivételével.
+(5) A miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnökre e törvény rendelkezéseit kell alkalmazni a 45. § (1)–(3) és (6) bekezdése, 58. §, 62. §, 69. §, 72–73. §, 116–128. §, 130. §, 181. §, 203. § (7)–(9) bekezdése, 204. § (7) bekezdése kivételével.

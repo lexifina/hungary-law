@@ -30,7 +30,7 @@ f) kezdeményezheti a Kormánynál a kormánytisztviselők élet-és munkakörü
 
 g) a feladat- és hatáskörét érintő bármely kérdésben felterjesztési jogot gyakorol;
 
-h) kezdeményezheti a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszternél a kormányzati szolgálati jogviszonnyal kapcsolatos jogszabálysértő gyakorlat megváltoztatását;
+h) kezdeményezheti az igazságügyért felelős miniszternél a kormányzati szolgálati jogviszonnyal kapcsolatos jogszabálysértő gyakorlat megváltoztatását;
 
 i) megalkotja működési szabályait;
 

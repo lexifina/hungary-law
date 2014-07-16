@@ -8,4 +8,4 @@
 
 (4) A KÉF tájékoztatáskérésre, illetve javaslattételre jogosult a (2) bekezdés szerinti hatáskörébe tartozó egyéb ügyekkel kapcsolatban.
 
-(5) A KÉF szervezetének és működésének szabályait a Kormány nevében eljáró közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és az érdekegyeztetésben résztvevő felek közötti megállapodás tartalmazza. Titkársági feladatait a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter látja el.
+(5) A KÉF szervezetének és működésének szabályait a Kormány nevében eljáró közszolgálati életpálya kidolgozásáért felelős miniszter és az érdekegyeztetésben résztvevő felek közötti megállapodás tartalmazza. Titkársági feladatait a közszolgálati életpálya kidolgozásáért felelős miniszter látja el.

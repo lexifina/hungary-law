@@ -28,7 +28,7 @@
 
 14.
 
-15. a kormányzati tevékenység összehangolásáért felelős miniszter irányítása alatt álló, a kormányzással és közigazgatással kapcsolatos kutatásokat folytatató központi hivatalnál,
+15.
 
 16. honvédelemért felelős miniszter irányítása alatt álló, a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-koordináló szakmai szervénél, valamint a honvédelmi ágazat országos illetékességű integrált katonai hatóságánál
 

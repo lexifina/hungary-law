@@ -1,6 +1,6 @@
 ## A munkáltatói jogkör gyakorlása
 
-37. § (1) A kormánytisztviselők felett a munkáltatói jogokat – törvény vagy a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter rendeletének eltérő rendelkezése hiányában – az államigazgatási szerv hivatali szervezetének vezetője, vagy testület gyakorolja. Törvény eltérő rendelkezése hiányában a munkáltatói jogkör gyakorlása állami vezetőre vagy vezetői munkakört betöltő kormánytisztviselőre írásban átruházható. Az átruházott munkáltatói jogkör nem ruházható tovább.
+37. § (1) A kormánytisztviselők felett a munkáltatói jogokat – törvény vagy az igazságügyért felelős miniszter rendeletének eltérő rendelkezése hiányában – az államigazgatási szerv hivatali szervezetének vezetője, vagy testület gyakorolja. Törvény eltérő rendelkezése hiányában a munkáltatói jogkör gyakorlása állami vezetőre vagy vezetői munkakört betöltő kormánytisztviselőre írásban átruházható. Az átruházott munkáltatói jogkör nem ruházható tovább.
 
 (2) Az államigazgatási szerv hivatali szervezetének vezetőjén a minisztériumok esetében a közigazgatási államtitkárt kell érteni.
 

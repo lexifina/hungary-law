@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-199-00-00
 | 2014-05-16 | 2014. évi XVIII. törvény | 2011-199-00-00.21 |
 | 2014-06-06 | 2014. évi XXI. törvény | 2011-199-00-00.22 |
 | 2014-07-01 | 2013. évi CCXLV. törvény | 2011-199-00-00.23 |
+| 2014-07-16 | 2014. évi XXXV. törvény | 2011-199-00-00.24 |
