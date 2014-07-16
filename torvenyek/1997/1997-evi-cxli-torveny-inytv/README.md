@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-141-00-00
 | 2014-03-16 | 2014. évi XIV. törvény | 1997-141-00-00.52 |
 | 2014-05-01 | 2013. évi CCXII. törvény | 1997-141-00-00.53 |
 | 2014-07-11 | 2014. évi XXXI. törvény | 1997-141-00-00.54 |
+| 2014-07-16 | 2014. évi XXXV. törvény | 1997-141-00-00.55 |
