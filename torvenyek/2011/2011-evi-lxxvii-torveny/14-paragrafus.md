@@ -14,10 +14,10 @@ e)
 
 f)
 
-(2) Felhatalmazást kap a kultúráért felelős miniszter, hogy – az 1. mellékletben meghatározott miniszterekkel egyetértésben – rendeletben állapítsa meg:
+(2) Felhatalmazást kap a kulturális örökség védelméért felelős miniszter, hogy – az 1. mellékletben meghatározott miniszterekkel egyetértésben – rendeletben állapítsa meg:
 
 a) a világörökségi gondnokság kiválasztásának részletes szabályait, a világörökségi gondnokság feladatait és működését; valamint
 
 b) a Világörökségi Várományos Helyszínek Jegyzékét.
 
-(3) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben állapítsa meg az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket.
+(3) Felhatalmazást kap a kulturális örökség védelméért felelős miniszter, hogy rendeletben állapítsa meg az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket.

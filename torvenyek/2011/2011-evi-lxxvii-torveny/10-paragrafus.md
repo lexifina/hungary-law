@@ -2,7 +2,7 @@
 
 (2) A világörökségi gondnokság olyan, az adott világörökségi helyszín kiemelkedő egyetemes értékének jellegéhez kötődő tevékenységű, jogi személyiséggel rendelkező szervezet – így különösen költségvetési szerv, helyi önkormányzat, egyházi jogi személy, egyesület, alapítvány, nonprofit gazdasági társaság –, amelynek tevékenysége kiterjed a világörökségi érdekek képviseletére, a kiemelkedő egyetemes érték védelmére, valamint működési területe magában foglalja a világörökségi területet vagy annak jelentős részét.
 
-(3) A kultúráért felelős miniszter a világörökségi gondnokságot világörökségi helyszínenként – a (4) bekezdésben meghatározott kivétellel – a (2) bekezdésben foglaltak figyelembevételével választja ki. A világörökségi gondnokság megbízása visszavonásig, de legfeljebb hét évre szól, amely meghosszabbítható.
+(3) A kulturális örökség védelméért felelős miniszter a világörökségi gondnokságot világörökségi helyszínenként – a (4) bekezdésben meghatározott kivétellel – a (2) bekezdésben foglaltak figyelembevételével választja ki. A világörökségi gondnokság megbízása visszavonásig, de legfeljebb hét évre szól, amely meghosszabbítható.
 
 (4) Amennyiben a világörökségi helyszín kiemelkedő egyetemes értéke kizárólag természeti érték, és a világörökségi helyszínt teljes egészében lefedő védett természeti területre vonatkozóan külön jogszabály természetvédelmi kezelésért felelős szervet jelöl ki, úgy ez a szerv látja el a kezelés 7. §-ban megjelölt feladatait.
 

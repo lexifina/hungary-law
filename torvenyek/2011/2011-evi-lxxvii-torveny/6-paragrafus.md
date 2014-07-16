@@ -1,4 +1,4 @@
-6. § A kultúráért felelős miniszter a 4. § (2) bekezdésében és az 5. §-ban meghatározott feladatokat a Kormány által az e feladatok ellátása céljából létrehozott javaslattevő, véleményező és döntés-előkészítő testület közreműködésével látja el, amely
+6. § A kulturális örökség védelméért felelős miniszter a 4. § (2) bekezdésében és az 5. §-ban meghatározott feladatokat a Kormány által az e feladatok ellátása céljából létrehozott javaslattevő, véleményező és döntés-előkészítő testület közreműködésével látja el, amely
 
 a) a hatáskörében érintett miniszterek által delegált, kiemelkedő elméleti és gyakorlati ismeretekkel rendelkező tagokból,
 

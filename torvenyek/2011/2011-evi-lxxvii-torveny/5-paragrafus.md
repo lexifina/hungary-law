@@ -1,4 +1,4 @@
-5. § A kultúráért felelős miniszter más érdekelt miniszterekkel együttműködve ellátja a várományos területtel kapcsolatos állami feladatokat, így különösen:
+5. § A kulturális örökség védelméért felelős miniszter más érdekelt miniszterekkel együttműködve ellátja a várományos területtel kapcsolatos állami feladatokat, így különösen:
 
 a) kiválasztja a várományos helyszíneket;
 

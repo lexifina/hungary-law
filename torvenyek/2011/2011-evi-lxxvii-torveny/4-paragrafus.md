@@ -1,6 +1,6 @@
-4. § (1) A világörökségi területekkel összefüggő állami feladatokat a kultúráért felelős miniszter – a külön jogszabályok alapján fennálló feladat- és hatáskörüket nem érintve – az 1. mellékletben meghatározott miniszterekkel egyetértésben, más érdekelt miniszterekkel együttműködve látja el.
+4. § (1) A világörökségi területekkel összefüggő állami feladatokat a kulturális örökség védelméért felelős miniszter – a külön jogszabályok alapján fennálló feladat- és hatáskörüket nem érintve – az 1. mellékletben meghatározott miniszterekkel egyetértésben, más érdekelt miniszterekkel együttműködve látja el.
 
-(2) A kultúráért felelős miniszter az (1) bekezdés szerinti feladatai körében különösen az alábbi tevékenységet végzi:
+(2) A kulturális örökség védelméért felelős miniszter az (1) bekezdés szerinti feladatai körében különösen az alábbi tevékenységet végzi:
 
 a) meghatározza az Egyezményből eredő feladatok végrehajtásának koncepcióját, stratégiáját;
 

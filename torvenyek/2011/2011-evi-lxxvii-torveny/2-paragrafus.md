@@ -12,7 +12,7 @@
 
 6. világörökségi várományos helyszín (a továbbiakban: várományos helyszín): a kiemelkedő kulturális örökségi, illetve természeti értékei (a továbbiakban: kiemelkedő érték) révén, az Egyezmény 1. és 2. cikkében meghatározott kritériumok szerint az UNESCO Világörökség Központhoz (a továbbiakban: Központ) bejelentett, a Világörökségi Várományos Helyszínek Jegyzékében szereplő helyszín, amelyet a kulturális örökség, illetve a természet védelméről szóló jogszabályok alapján nyilvánítottak védetté, és ekként kulturális örökségi védelmet élvező terület, illetve védett természeti terület;
 
-7. Világörökségi Várományos Helyszínek Jegyzéke: a kiemelkedő kulturális örökségi, illetve természeti értékei alapján a Világörökség Jegyzékbe való felterjesztésre kiválasztott helyszíneknek a kultúráért felelős miniszter rendeletében kihirdetett, a helyszínek és azok védőövezetei EOV és WGS 84 koordináták szerinti lehatárolását is tartalmazó jegyzéke;
+7. Világörökségi Várományos Helyszínek Jegyzéke: a kiemelkedő kulturális örökségi, illetve természeti értékei alapján a Világörökség Jegyzékbe való felterjesztésre kiválasztott helyszíneknek a kulturális örökség védelméért felelős miniszter rendeletében kihirdetett, a helyszínek és azok védőövezetei EOV és WGS 84 koordináták szerinti lehatárolását is tartalmazó jegyzéke;
 
 8. világörökségi várományos helyszín védőövezete (a továbbiakban: várományos helyszín védőövezete): a világörökségi várományos helyszín környezete, amely kiemelkedő értékeinek sértetlenségét, illetve hitelességének védelmét biztosítja, továbbá amelyet a kulturális örökség, illetve a természet védelméről szóló jogszabályok alapján nyilvánítottak védetté, és ekként kulturális örökségi védelmet élvező terület, illetve védett természeti terület;
 

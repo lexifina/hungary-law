@@ -1,6 +1,6 @@
 ## 5. Átmeneti rendelkezések
 
-13. § (1) A kultúráért felelős miniszter e törvény hatálybalépését követő 3 éven belül felülvizsgálja az e törvény hatálybalépésekor az Egyezmény 1. és 2. cikkében meghatározott kritériumok szerint a Központhoz bejelentett helyszínek Világörökségi Várományos Helyszínek Jegyzékébe történő felvételének indokoltságát. Amennyiben a kultúráért felelős miniszter a felülvizsgálatot követően nem tartja indokoltnak a helyszín Világörökségi Várományos Helyszínek Jegyzékébe történő felvételét, erről soron kívül értesíti a Központot.
+13. § (1) A kulturális örökség védelméért felelős miniszter e törvény hatálybalépését követő 3 éven belül felülvizsgálja az e törvény hatálybalépésekor az Egyezmény 1. és 2. cikkében meghatározott kritériumok szerint a Központhoz bejelentett helyszínek Világörökségi Várományos Helyszínek Jegyzékébe történő felvételének indokoltságát. Amennyiben a kulturális örökség védelméért felelős miniszter a felülvizsgálatot követően nem tartja indokoltnak a helyszín Világörökségi Várományos Helyszínek Jegyzékébe történő felvételét, erről soron kívül értesíti a Központot.
 
 (2) Az illetékes országos szervezetek, valamint a megyei önkormányzatok a területrendezési terveik 8. § (6) bekezdés a) pontja szerinti összhangja megteremtéséről a világörökségi kezelési tervek kihirdetését követően legkésőbb 5 éven belül, illetve más jogszabályból fakadó kötelező felülvizsgálat vagy más okból elvégzett módosítás alkalmával kötelesek gondoskodni.
 

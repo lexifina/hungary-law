@@ -16,4 +16,4 @@ e) a világörökségi terület állapotának folyamatos követő-figyelése, az
 
 f) az érintett partnerekkel – köztük a létesítő okiratuk szerint kulturális örökség védelmével, illetve természeti értékek esetén a természetvédelemmel foglalkozó civil szervezetekkel – folyamatosan együttműködve a világörökségi terület értékmegőrzésével és fejlesztésével kapcsolatos feladatok megvalósításának kezdeményezése, szervezése, előmozdítása, valamint
 
-g) a kultúráért felelős miniszter részére jelentés készítése a világörökségi terület állapotáról, különös tekintettel a világörökségi területet érintő minden olyan tevékenységre, amely kihat a világörökségi helyszín kiemelkedő egyetemes értékére.
+g) a kulturális örökség védelméért felelős miniszter részére jelentés készítése a világörökségi terület állapotáról, különös tekintettel a világörökségi területet érintő minden olyan tevékenységre, amely kihat a világörökségi helyszín kiemelkedő egyetemes értékére.

@@ -1,8 +1,6 @@
 1. melléklet a 2011. évi LXXVII. törvényhez
 
-A világörökségi helyszínekkel összefüggő állami feladatokat
-
-a kultúráért felelős miniszterrel egyetértésben ellátó miniszterek
+A világörökségi helyszínekkel összefüggő állami feladatokat a kulturális örökség védelméért felelős miniszterrel egyetértésben ellátó miniszterek
 
 |
 
@@ -16,7 +14,7 @@ B
 
 |
 
-1.
+1
 
 |
 
@@ -28,79 +26,75 @@ Egyetértő miniszter
 
 |
 
-2.
+2
 
 |
 
-Budapest – a Duna-partok,
-
-a Budai Várnegyed és az Andrássy út
+Budapest – a Duna-partok, a Budai Várnegyed és az Andrássy út
 
 |
 
-Állami vagyon felügyeletéért felelős miniszter
-
-Építésügyért felelős miniszter
+állami vagyon felügyeletéért felelős miniszter
 
 |
 
-|
+3
 
 |
 
-Kormány európai uniós források felhasználásáért felelős tagja
+építésügyért felelős miniszter
 
 |
 
-|
+4
 
 |
 
-Közigazgatás-szervezésért felelős miniszter
+európai uniós források felhasználásáért felelős miniszter
 
 |
 
-|
+5
 
 |
 
-A régészeti örökség és a műemléki érték védelméért felelős miniszter
+közigazgatás-szervezésért felelős miniszter
 
 |
 
-|
+6
 
 |
 
-Természetvédelemért felelős miniszter
+természetvédelemért felelős miniszter
 
 |
 
-|
+7
 
 |
 
-Területrendezésért felelős miniszter
+területrendezésért felelős miniszter
 
 |
 
-|
+8
 
 |
 
-Településfejlesztésért és településrendezésért felelős miniszter
+településfejlesztésért és településrendezésért felelős miniszter
 
 |
 
-|
+9
 
 |
 
-Turizmusért felelős miniszter
+turizmusért felelős miniszter
 
 |
 
-3.
+10
 
 |
 
@@ -108,75 +102,67 @@ Hollókő ófalu és környezete
 
 |
 
-Agrárpolitikáért felelős miniszter
+agrárpolitikáért felelős miniszter
 
 |
 
-|
+11
 
 |
 
-Építésügyért felelős miniszter
+építésügyért felelős miniszter
 
 |
 
-|
+12
 
 |
 
-Kormány európai uniós források felhasználásáért felelős tagja
+európai uniós források felhasználásáért felelős miniszter
 
 |
 
-|
+13
 
 |
 
-Közigazgatás-szervezésért felelős miniszter
+közigazgatás-szervezésért felelős miniszter
 
 |
 
-|
+14
 
 |
 
-A régészeti örökség és a műemléki érték védelméért felelős miniszter
+természetvédelemért felelős miniszter
 
 |
 
-|
+15
 
 |
 
-Természetvédelemért felelős miniszter
+területrendezésért felelős miniszter
 
 |
 
-|
+16
 
 |
 
-Területrendezésért felelős miniszter
+településfejlesztésért és településrendezésért felelős miniszter
 
 |
 
-|
+17
 
 |
 
-Településfejlesztésért és településrendezésért felelős miniszter
+turizmusért felelős miniszter
 
 |
 
-|
-
-|
-
-Turizmusért felelős miniszter
-
-|
-
-4.
+18
 
 |
 
@@ -184,101 +170,111 @@ Az Aggteleki-karszt és a Szlovák-karszt barlangjai
 
 |
 
-Kormány európai uniós források felhasználásáért felelős tagja
-
-Közigazgatás-szervezésért felelős miniszter
+európai uniós források felhasználásáért felelős miniszter
 
 |
 
-|
+19
 
 |
 
-Természetvédelemért felelős miniszter
+közigazgatás-szervezésért felelős miniszter
 
 |
 
-|
+20
 
 |
 
-Területrendezésért felelős miniszter
+természetvédelemért felelős miniszter
 
 |
 
-|
+21
 
 |
 
-Településfejlesztésért és településrendezésért felelős miniszter
+területrendezésért felelős miniszter
 
 |
 
-|
+22
 
 |
 
-Turizmusért felelős miniszter
+településfejlesztésért és településrendezésért felelős miniszter
 
 |
 
-5.
+23
 
 |
 
-Az ezeréves Pannonhalmi Bencés Főapátságés természeti környezete
+turizmusért felelős miniszter
 
 |
 
-Építésügyért felelős miniszter
-
-Kormány európai uniós források felhasználásáért felelős tagja
-
-Közigazgatás-szervezésért felelős miniszter
+24
 
 |
 
-|
+Az ezeréves Pannonhalmi Bencés Főapátság és természeti környezete
 
 |
 
-A régészeti örökség és a műemléki érték védelméért felelős miniszter
+építésügyért felelős miniszter
 
 |
 
-|
+25
 
 |
 
-Természetvédelemért felelős miniszter
+európai uniós források felhasználásáért felelős miniszter
 
 |
 
-|
+26
 
 |
 
-Területrendezésért felelős miniszter
+közigazgatás-szervezésért felelős miniszter
 
 |
 
-|
+27
 
 |
 
-Településfejlesztésért és településrendezésért felelős miniszter
+természetvédelemért felelős miniszter
 
 |
 
-|
+28
 
 |
 
-Turizmusért felelős miniszter
+területrendezésért felelős miniszter
 
 |
 
-6.
+29
+
+|
+
+településfejlesztésért és településrendezésért felelős miniszter
+
+|
+
+30
+
+|
+
+turizmusért felelős miniszter
+
+|
+
+31
 
 |
 
@@ -286,75 +282,67 @@ Hortobágyi Nemzeti Park – a Puszta
 
 |
 
-Agrárpolitikáért felelős miniszter
+agrárpolitikáért felelős miniszter
 
 |
 
-|
+32
 
 |
 
-Építésügyért felelős miniszter
+építésügyért felelős miniszter
 
 |
 
-|
+33
 
 |
 
-Kormány európai uniós források felhasználásáért felelős tagja
+európai uniós források felhasználásáért felelős miniszter
 
 |
 
-|
+34
 
 |
 
-Közigazgatás-szervezésért felelős miniszter
+közigazgatás-szervezésért felelős miniszter
 
 |
 
-|
+35
 
 |
 
-A régészeti örökség és a műemléki érték védelméért felelős miniszter
+természetvédelemért felelős miniszter
 
 |
 
-|
+36
 
 |
 
-Természetvédelemért felelős miniszter
+területrendezésért felelős miniszter
 
 |
 
-|
+37
 
 |
 
-Területrendezésért felelős miniszter
+településfejlesztésért és településrendezésért felelős miniszter
 
 |
 
-|
+38
 
 |
 
-Településfejlesztésért és településrendezésért felelős miniszter
+turizmusért felelős miniszter
 
 |
 
-|
-
-|
-
-Turizmusért felelős miniszter
-
-|
-
-7.
+39
 
 |
 
@@ -362,59 +350,51 @@ Pécs (Sopianae) ókeresztény temetője
 
 |
 
-Építésügyért felelős miniszter
+építésügyért felelős miniszter
 
 |
 
-|
+40
 
 |
 
-Kormány európai uniós források felhasználásáért felelős tagja
+európai uniós források felhasználásáért felelős miniszter
 
 |
 
-|
+41
 
 |
 
-Közigazgatás-szervezésért felelős miniszter
+közigazgatás-szervezésért felelős miniszter
 
 |
 
-|
+42
 
 |
 
-A régészeti örökség és a műemléki érték védelméért felelős miniszter
+területrendezésért felelős miniszter
 
 |
 
-|
+43
 
 |
 
-Területrendezésért felelős miniszter
+településfejlesztésért és településrendezésért felelős miniszter
 
 |
 
-|
+44
 
 |
 
-Településfejlesztésért és településrendezésért felelős miniszter
+turizmusért felelős miniszter
 
 |
 
-|
-
-|
-
-Turizmusért felelős miniszter
-
-|
-
-8.
+45
 
 |
 
@@ -424,69 +404,67 @@ Fertő/Neusiedlersee kultúrtáj
 
 |
 
-Agrárpolitikáért felelős miniszter
-
-Építésügyért felelős miniszter
+agrárpolitikáért felelős miniszter
 
 |
 
-|
+46
 
 |
 
-Kormány európai uniós források felhasználásáért felelős tagja
+építésügyért felelős miniszter
 
 |
 
-|
+47
 
 |
 
-Közigazgatás-szervezésért felelős miniszter
+európai uniós források felhasználásáért felelős miniszter
 
 |
 
-|
+48
 
 |
 
-A régészeti örökség és a műemléki érték védelméért felelős miniszter
+közigazgatás-szervezésért felelős miniszter
 
 |
 
-|
+49
 
 |
 
-Természetvédelemért felelős miniszter
+természetvédelemért felelős miniszter
 
 |
 
-|
+50
 
 |
 
-Területrendezésért felelős miniszter
+területrendezésért felelős miniszter
 
 |
 
-|
+51
 
 |
 
-Településfejlesztésért és településrendezésért felelős miniszter
+településfejlesztésért és településrendezésért felelős miniszter
 
 |
 
-|
+52
 
 |
 
-Turizmusért felelős miniszter
+turizmusért felelős miniszter
 
 |
 
-9.
+53
 
 |
 
@@ -494,62 +472,60 @@ Tokaj-hegyaljai történelmi borvidék kultúrtáj
 
 |
 
-Agrárpolitikáért felelős miniszter
-
-Építésügyért felelős miniszter
+agrárpolitikáért felelős miniszter
 
 |
 
-|
+54
 
 |
 
-Kormány európai uniós források felhasználásáért felelős tagja
+építésügyért felelős miniszter
 
 |
 
-|
+55
 
 |
 
-Közigazgatás-szervezésért felelős miniszter
+európai uniós források felhasználásáért felelős miniszter
 
 |
 
-|
+56
 
 |
 
-A régészeti örökség és a műemléki érték védelméért felelős miniszter
+közigazgatás-szervezésért felelős miniszter
 
 |
 
-|
+57
 
 |
 
-Természetvédelemért felelős miniszter
+természetvédelemért felelős miniszter
 
 |
 
-|
+58
 
 |
 
-Területrendezésért felelős miniszter
+területrendezésért felelős miniszter
 
 |
 
-|
+59
 
 |
 
-Településfejlesztésért és településrendezésért felelős miniszter
+településfejlesztésért és településrendezésért felelős miniszter
 
 |
 
-|
+60
 
 |
 
-Turizmusért felelős miniszter
+turizmusért felelős miniszter
