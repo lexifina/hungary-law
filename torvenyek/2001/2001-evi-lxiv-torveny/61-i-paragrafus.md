@@ -8,7 +8,7 @@
 
 a) a Bizottság által delegált személy,
 
-b) a kultúráért felelős miniszter által delegált személy,
+b) a miniszter által delegált személy,
 
 c) az Országgyűlés kulturális ügyekkel foglalkozó bizottsága által delegált személy, valamint
 

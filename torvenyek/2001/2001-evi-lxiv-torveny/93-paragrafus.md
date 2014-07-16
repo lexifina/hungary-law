@@ -74,11 +74,15 @@ m)
 
 n) a műemléki értékek védetté nyilvánítását és a védettség megszüntetését;
 
-o)
+o) kulturális javak védetté nyilvánítására és a védettség megszüntetésére vonatkozó szabályokat,
 
-p)
+p) a kulturális javakkal kapcsolatos hatósági eljárás részletes szabályait,
 
-q)
+q) a kulturális javak nyilvántartásának szabályait és – az adópolitikáért felelős miniszterrel egyetértésben – az ezzel összefüggő igazgatási szolgáltatási díj mértékét és a fizetésre vonatkozó egyéb szabályokat,
+
+r) az adópolitikáért felelős miniszterrel egyetértésben a kulturális javak kivitelének engedélyezésére irányuló eljárásért fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint megfizetésének részletes szabályait,
+
+s) az Európai Örökség cím elnyerésére pályázó helyszínek közül az arra érdemesnek tartott helyszínek nemzeti szintű előzetes kiválasztására vonatkozó eljárási szabályokat.
 
 (3) A miniszter a (2) bekezdés j) pontjában kapott, az igazgatási szolgáltatási díjra vonatkozó szabályozási jogkörét az adópolitikáért felelős miniszter egyetértésével gyakorolja.
 
@@ -86,18 +90,12 @@ q)
 
 (4) A miniszter a (2) bekezdés i) pontjában kapott szabályozási jogkörét természeti vagy védett természeti területen, továbbá védett természeti értékek esetében a természetvédelemért felelős miniszterrel egyetértésben gyakorolja.
 
-(5) A miniszter a (2) bekezdés i) és n) pontjában kapott szabályozási jogkörét az állam elővásárlási jogára és az örökségvédelmi bírságra vonatkozó rendelkezések vonatkozásában a kultúráért felelős miniszterrel egyetértésben gyakorolja.
+(5)
 
 (6) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza:
 
-a) kulturális javak védetté nyilvánítására és a védettség megszüntetésére vonatkozó szabályokat,
-
-b) a kulturális javakkal kapcsolatos hatósági eljárás részletes szabályait,
-
-c) a kulturális javak nyilvántartásának szabályait és – az adópolitikáért felelős miniszterrel egyetértésben – az ezzel összefüggő igazgatási szolgáltatási díj mértékét és a fizetésre vonatkozó egyéb szabályokat,
+a)–c)
 
 d) a könyvtárakban levő muzeális dokumentumok kezelésével és nyilvántartásával kapcsolatos külön szabályokat,
 
-e) az adópolitikáért felelős miniszterrel egyetértésben a kulturális javak kivitelének engedélyezésére irányuló eljárásért fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint megfizetésének részletes szabályait,
-
-f) az Európai Örökség cím elnyerésére pályázó helyszínek közül az arra érdemesnek tartott helyszínek nemzeti szintű előzetes kiválasztására vonatkozó eljárási szabályokat.
+e)–f)

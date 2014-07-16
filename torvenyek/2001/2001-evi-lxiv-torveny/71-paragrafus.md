@@ -12,7 +12,7 @@ d) a műemlékek, műemléki jelentőségű területek, műemléki környezetek 
 
 központi, közhiteles nyilvántartását, amely tartalmazza az a)–d) pontokban meghatározottakkal összefüggő, az örökségvédelem szempontjából fontos adatokat.
 
-(2) A kultúráért felelős miniszter szakmai irányítása alatt álló hatóság központi nyilvántartást vezet
+(2) A miniszter szakmai irányítása alatt álló hatóság központi nyilvántartást vezet
 
 a) a védetté nyilvánított kulturális javakról,
 

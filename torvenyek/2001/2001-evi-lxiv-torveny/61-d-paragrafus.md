@@ -1,4 +1,4 @@
-61/D. § (1) A kultúráért felelős miniszter az emlékhelyekkel összefüggésben különösen az alábbi feladatokat látja el:
+61/D. § (1) A miniszter az emlékhelyekkel összefüggésben különösen az alábbi feladatokat látja el:
 
 a) érvényesíti az emlékhelyekkel kapcsolatos érdekeket az emlékhelyeket érintő jogszabályok előkészítése során, illetve átfogó tervezési programokban;
 
