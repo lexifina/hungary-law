@@ -6,7 +6,7 @@ b) a közalkalmazotti pályázatnak, illetve álláshirdetésnek a személyügyi
 
 c) az Európai Unió magyar soros elnökségében közvetlenül részt vevő közalkalmazottak kiválasztására, valamint többletmunkájukhoz és képzési többletterhükhöz kapcsolódó anyagi elismerésük feltételeire, módjára és mértékére vonatkozó szabályokat, továbbá a képzésükre és a képzéssel kapcsolatos kötelezettségükre vonatkozó eltérő szabályokat.
 
-(2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a c) pont kivételével az Információs Hivatal és a polgári hírszerzési tevékenység irányításáért felelős miniszter által irányított költségvetési intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, a művészeti, a közművelődési és a közgyűjteményi, az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
+(2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, a művészeti, a közművelődési és a közgyűjteményi, az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
 
 a) az ágazatban betölthető közalkalmazotti munkaköröket, a munkakörhöz kapcsolódó fizetési osztályokat, a munkakör betöltéséhez a 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési és más többletkövetelményeket, továbbá a 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek elismert vizsgát igazoló oklevelek körét,
 
@@ -144,19 +144,9 @@ fk) azt a magasabb vezető és vezető beosztást, amelynek a betöltéséhez a 
 
 g) a testnevelési és sportintézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében munkakörönként a napi munkaidőből a kötelezően a munkahelyen töltendő időt.
 
-(3a) Felhatalmazást kap a Kormány, hogy az Információs Hivatal és a polgári hírszerzési tevékenység irányításáért felelős miniszter által irányított költségvetési intézmények vonatkozásában
+(3a)
 
-a) a közalkalmazotti jogviszony létesítésének feltételeként magyar állampolgárság feltételét,
-
-b) a közalkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
-
-c) a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
-
-d) a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat
-
-rendeletben határozza meg.
-
-(4) Felhatalmazást kap az elektronikus hírközlésért, a honvédelemért, a Katonai Nemzetbiztonsági Szolgálat irányításáért, a környezetvédelemért, a vízügyért, a természetvédelemért, az oktatásért, a kultúráért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért, az államháztartásért, a nemzetpolitikáért, a nemzetiségpolitikáért, a c) pont kivételével az agrár-vidékfejlesztésért, az e) pont kivételével a katasztrófák elleni védekezésért, az a) pont utolsó fordulata és a c) pont kivételével a polgári nemzetbiztonsági szolgálatok irányításáérta b) és g) pont kivételével a közlekedésért, az energiapolitikáért, a bányászati ügyekért és a postaügyért (a továbbiakban: a közlekedésért), az a) pont utolsó fordulata és az e) pont kivételével a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért felelős miniszter, továbbá valamennyi pont tekintetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az általa irányított, a (2)–(3) bekezdés alá nem tartozó költségvetési intézmények (munkáltatók), illetve közalkalmazottak tekintetében rendeletben állapítsa meg
+(4) Felhatalmazást kap az elektronikus hírközlésért, a honvédelemért, a Katonai Nemzetbiztonsági Szolgálat irányításáért, a környezetvédelemért, a vízügyért, a természetvédelemért, az oktatásért, a kultúráért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért, az államháztartásért, a nemzetpolitikáért, a nemzetiségpolitikáért, a c) pont kivételével az agrár-vidékfejlesztésért, az agrárpolitikáért, az e) pont kivételével a katasztrófák elleni védekezésért, az a) pont utolsó fordulata és a c) pont kivételével a polgári nemzetbiztonsági szolgálatok irányításáért, a polgári hírszerzési tevékenység irányításáért a b) és g) pont kivételével a közlekedésért, az energiapolitikáért, a bányászati ügyekért és a postaügyért (a továbbiakban: a közlekedésért), az a) pont utolsó fordulata és az e) pont kivételével a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért felelős miniszter, továbbá valamennyi pont tekintetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az általa irányított, a (2)–(3) bekezdés alá nem tartozó költségvetési intézmények (munkáltatók), illetve közalkalmazottak tekintetében rendeletben állapítsa meg
 
 a) az ágazatban betölthető közalkalmazotti munkaköröket, a munkakörhöz kapcsolódó fizetési osztályokat, a munkakör betöltéséhez a 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési és más többletkövetelményeket, továbbá a 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek elismert vizsgát igazoló oklevelek körét,
 
@@ -176,7 +166,7 @@ g) az ágazati, szakmai sajátosságokra tekintettel fizetendő illetménypótl�
 
 a) a honvédelemért, valamint a közlekedésért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésénél a tizennyolcadik életév betöltésének feltétele alóli mentesítést,
 
-b) a honvédelemért, a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésének feltételeként magyar állampolgárság feltételét,
+b) a honvédelemért, a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésének feltételeként magyar állampolgárság feltételét,
 
 c) a honvédelemért, a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért, valamint a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésének feltételeként a munkakör ellátásához szükséges magyar nyelvtudás feltételét,
 
@@ -202,13 +192,13 @@ m) a foglalkoztatáspolitikáért, a felnőttképzésért és szakképzésért, 
 
 n) a honvédelemért, a rendészetért, a büntetés-végrehajtásért, a katasztrófák elleni védekezésért, a foglalkoztatáspolitikáért, a felnőttképzésért és szakképzésért, a szociál- és családpolitikáért, valamint az államháztartásért felelős miniszter, hogy az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
 
-o) a honvédelemért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a közalkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
+o) a honvédelemért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy a közalkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
 
 p) az elektronikus hírközlésért, valamint a környezetvédelemért, a vízügyért, a természetvédelemért felelős miniszter, hogy a formaruha-juttatást,
 
-q) a honvédelemért, a büntetés-végrehajtásért, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
+q) a honvédelemért, a büntetés-végrehajtásért, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
 
-r) honvédelemért, a rendészetért, a büntetés-végrehajtásért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat,
+r) honvédelemért, a rendészetért, a büntetés-végrehajtásért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat,
 
 s) a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak lakhatási támogatásának részletes szabályait,
 
