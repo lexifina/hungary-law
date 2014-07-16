@@ -1,6 +1,6 @@
 ## A Nemzeti Adó- és Vámhivatal miniszteri felügyelete
 
-5. § (1) A kijelölt miniszter
+5. § (1) A NAV felügyeletét ellátó miniszter (a továbbiakban: kijelölt miniszter)
 
 a) felügyeli az adóztatás, a vámok és a NAV hatáskörébe tartozó nem közösségi adók és díjak kiszabásának, beszedésének törvényességét,
 
