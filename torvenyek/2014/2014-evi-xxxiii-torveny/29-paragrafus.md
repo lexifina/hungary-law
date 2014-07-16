@@ -2,4 +2,4 @@
 
 1.
 
-2. 3. számú melléklet B) pontja.
+2.
