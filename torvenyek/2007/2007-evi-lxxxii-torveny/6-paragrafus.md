@@ -2,7 +2,7 @@
 
 (2)
 
-(3) A kormányzati tevékenység összehangolásáért felelős miniszter az igazságügyért felelős miniszterrel gondoskodik arról, hogy
+(3) Az igazságügyért felelős miniszter gondoskodik arról, hogy
 
 a) az 1. § (1) bekezdése szerint hatályban maradó jogszabályok módosításokkal egységes szerkezetbe foglalt, hatályos szövege
 
