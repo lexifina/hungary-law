@@ -58,7 +58,7 @@
 
 29. pénzforgalmi közvetítői tevékenység:
 
-a) pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel kötött megbízási szerződés alapján, a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény nevében, javára és kockázatára, pénzforgalmi szolgáltatás nyújtásának, szolgáltatásra irányuló szerződés megkötésének elősegítésére irányuló tevékenység, ideértve a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény nevében, javára és kockázatára történő pénzforgalmi szolgáltatási szerződés megkötését is,
+a) pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel kötött megbízási szerződés alapján, a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény nevében, javára és kockázatára történő pénzforgalmi szolgáltatási szerződés megkötése,
 
 b) elektronikuspénz-kibocsátójával kötött megbízási szerződés alapján, az elektronikuspénz-kibocsátója nevében, javára és kockázatára, elektronikuspénz értékesítésére és visszaváltására irányuló szerződés megkötésének elősegítésére irányuló tevékenység,
 

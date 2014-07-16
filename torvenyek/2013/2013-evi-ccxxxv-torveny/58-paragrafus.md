@@ -2,7 +2,7 @@
 
 58. § (1) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény tagja, a pénzforgalmi intézményben, elektronikuspénz-kibocsátó intézményben befolyásoló részesedést szerezni kívánó személy, a vezető állású személy, valamint a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény alkalmazottja a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény működésével kapcsolatban tudomására jutott üzleti titkot – időbeli korlátozás nélkül – megtartja.
 
-(2) A (1) bekezdésben előírt titoktartási kötelezettség nem áll fenn a feladatkörében eljáró
+(2) Az (1) bekezdésben előírt titoktartási kötelezettség nem áll fenn a feladatkörében eljáró
 
 a) Magyar Nemzeti Bankkal,
 
@@ -18,9 +18,11 @@ f) a rendőrségről szóló törvényben meghatározott terrorizmust elhárít�
 
 g) nyomozó hatósággal, ügyészséggel szemben a folyamatban lévő büntetőeljárás, valamint a feljelentés kiegészítése keretében,
 
-h) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd-, vagy felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal és
+h) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd- vagy felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 
-i) a törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel
+i) a törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel és
+
+j) a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvénnyel (a továbbiakban: FATCA-törvény) összefüggésben az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-a szerinti adatszolgáltatás teljesítése során az adóhatósággal
 
 szemben.
 
