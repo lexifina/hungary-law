@@ -1,1 +1,0 @@
-16. § Hatályát veszti a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 29. § (1) bekezdésében az „A területfejlesztés stratégiai tervezéséért felelős miniszter 2014. február 28-ig összehívja az Országos Területfejlesztési Érdekegyeztető Fórum alakuló ülését.” szövegrész.

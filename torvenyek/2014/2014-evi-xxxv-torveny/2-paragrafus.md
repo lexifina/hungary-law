@@ -1,3 +1,3 @@
 ## 2. A kulturális javak jogtalan behozatalának, kivitelének és tulajdona jogtalan átruházásának megakadályozását és megelőzését szolgáló eszközökről szóló, az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezetének Közgyűlése által Párizsban az 1970. évi november hó 14. napján elfogadott Egyezmény kihirdetéséről szóló 1979. évi 2. törvényerejű rendelet módosítása
 
-2. § A kulturális javak jogtalan behozatalának, kivitelének és tulajdona jogtalan átruházásának megakadályozását és megelőzését szolgáló eszközökről szóló, az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezetének Közgyűlése által Párizsban az 1970. évi november hó 14. napján elfogadott Egyezmény kihirdetéséről szóló 1979. évi 2. törvényerejű rendelet 4. § (2) bekezdésében a „kultúráért” szövegrész helyébe a „kulturális örökség védelméért” szöveg lép.
+2. §

@@ -1,1 +1,0 @@
-82. § Hatályát veszti a világörökségről szóló 2011. évi LXXVII. törvény 9. § (2) bekezdésében az „a kulturális szakértői tevékenység folytatásának feltételeiről és a kulturális szakértői nyilvántartás vezetéséről szóló” szövegrész.

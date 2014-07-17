@@ -1,1 +1,0 @@
-74. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 5. § (1) bekezdésében a „kijelölt miniszter” szövegrész helyébe a „NAV felügyeletét ellátó miniszter (a továbbiakban: kijelölt miniszter)” szöveg lép.
