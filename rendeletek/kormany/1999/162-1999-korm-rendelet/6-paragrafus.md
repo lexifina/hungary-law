@@ -4,11 +4,11 @@
 
 (2)[^20]
 
-(3) Ahol kormányrendelet vagy miniszteri rendelet, továbbá az állami irányítás egyéb jogi eszköze a Menekültügyi és Migrációs Hivatalt említi, azon a Belügyminisztérium Bevándorlási és Állampolgársági Hivatalt kell érteni.
+(3)[^21]
 
-Melléklet a 162/1999. (XI. 19.) Korm. rendelethez[^21]
+Melléklet a 162/1999. (XI. 19.) Korm. rendelethez[^22]
 
-A Bevándorlási és Állampolgársági Hivatal területi szervei[^22]
+A Bevándorlási és Állampolgársági Hivatal területi szervei[^23]
 
 A Belügyminisztérium Bevándorlási és Állampolgársági Hivatal területi szervei
 
@@ -30,5 +30,6 @@ A Belügyminisztérium Bevándorlási és Állampolgársági Hivatal területi s
 
 [^19]: Az 5/A. §-t a 212/2009. (IX. 29.) Korm. rendelet 10. § (4) bekezdése iktatta be, hatályon kívül helyezte a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés d) pontja.
 [^20]: A 6. § (2) bekezdését a 303/2006. (XII. 23.) Korm. rendelet 25. § (3) bekezdésének b) pontja hatályon kívül helyezte.
-[^21]: A mellékletet a 173/2001. (IX. 26.) Korm. rendelet melléklete iktatta a szövegbe.
-[^22]: A melléklet címe a 303/2006. (XII. 23.) Korm. rendelet 25. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^21]: A 6. § (3) bekezdését a 167/2014. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^22]: A mellékletet a 173/2001. (IX. 26.) Korm. rendelet melléklete iktatta a szövegbe.
+[^23]: A melléklet címe a 303/2006. (XII. 23.) Korm. rendelet 25. § (3) bekezdésének b) pontja szerint módosított szöveg.
