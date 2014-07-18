@@ -12,7 +12,7 @@
 
 ## Felelős: Miniszterelnökséget vezető államtitkár
 
-## Határidő: 2014. június 30.
+## Határidő: 2014. december 31.
 
 ## 3. felhívja a nemzetgazdasági minisztert, hogy a Miniszterelnökséget vezető államtitkárral együttműködve a 2014. évi központi költségvetés tervezése során gondoskodjon a Rendszerváltás Történetét Kutató Intézet és Archívum működéséhez szükséges forrás rendelkezésre állásáról.
 
@@ -110,4 +110,4 @@ Költségvetési év: 2013.
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
-[^1]: A 2. pont az 1025/2014. (I. 30.) Korm. határozat 13. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1025/2014. (I. 30.) Korm. határozat 13. pontja, az 1406/2014. (VII. 18.) Korm. határozat 5. pontja szerint módosított szöveg.
