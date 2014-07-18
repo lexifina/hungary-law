@@ -58,3 +58,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 1990-93-00-00.139 |
 | 2014-05-01 | 2013. évi CCXII. törvény | 1990-93-00-00.140 |
 | 2014-07-01 | 2013. évi LXXVI. törvény | 1990-93-00-00.141 |
+| 2014-07-18 | 2014. évi XXX. törvény | 1990-93-00-00.142 |
