@@ -22,6 +22,12 @@
 
 |  | 8 | Nemzeti Innovációs Hivatal | irányítás |
 
+|  | 9 | Nemzetstratégiai Kutatóintézet | irányítás |
+
+|  | 10 | Nemzeti Örökség Intézete | irányítás |
+
+|  | 11 | Magyar Nyelvstratégiai Intézet | irányítás |
+
 ## B) Belügyminiszter
 
 |  |  | A | B |
@@ -42,7 +48,7 @@
 
 |  | 8 | Nemzeti Védelmi Szolgálat | irányítás |
 
-|  | 9 | Országos Vízügyi Főigazgatóság | irányítás |
+|  | 9 |  |  |
 
 |  | 10 | Országos Rendőr-főkapitányság és az irányítása alá tartozó szervek | irányítás |
 

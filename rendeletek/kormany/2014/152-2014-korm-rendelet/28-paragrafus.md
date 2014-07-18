@@ -14,4 +14,8 @@ d) közreműködik a helyi önkormányzatok és a helyi önkormányzati költsé
 
 e) közreműködik az ágazati és térségi fejlesztési programok helyi önkormányzatokat érintő részének kidolgozásában,
 
-f) kialakítja az önkormányzati érdekszövetségekkel való kapcsolattartás és egyeztetés rendjét.
+f) kialakítja az önkormányzati érdekszövetségekkel való kapcsolattartás és egyeztetés rendjét,
+
+g)[^6] az önkormányzati érdekszövetségek javaslatának kikérését követően a 9. § (2) bekezdés c) pontjának figyelembevételével kijelöli az Európa Tanács Helyi és Regionális Önkormányzatok Kongresszusa magyar delegációjának tagjait.
+
+[^6]: A 28. § (2) bekezdés g) pontját a 167/2014. (VII. 17.) Korm. rendelet 13. §-a iktatta be.

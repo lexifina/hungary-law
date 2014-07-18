@@ -1,5 +1,3 @@
-## 121. § A miniszter a postaügyért való felelőssége keretében előkészíti a postai tevékenységre és a postai szolgáltatások ellátására vonatkozó jogszabályokat.
-
 122. § (1) A miniszter a területfejlesztésért való felelőssége keretében – a területfejlesztés stratégiai tervezéséért felelős miniszterrel együttműködve – előkészíti a területfejlesztésre, a központi államigazgatási szervek területfejlesztéssel kapcsolatos feladataira, a területfejlesztéssel kapcsolatos információs rendszerre vonatkozó jogszabályokat.
 
 (2) A miniszter a területfejlesztésért való felelőssége keretében

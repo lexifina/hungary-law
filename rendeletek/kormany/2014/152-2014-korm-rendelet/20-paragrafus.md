@@ -1,4 +1,4 @@
-## 19. § A miniszter a polgári hírszerzési tevékenység irányításáért való felelőssége keretében előkészíti a polgári hírszerzési tevékenység irányítására vonatkozó jogszabályokat.
+## 19/A. §[^4] A miniszter a postaügyért való felelőssége keretében előkészíti a postai tevékenységre és a postai szolgáltatások ellátására vonatkozó jogszabályokat.
 
 ## III. Fejezet
 
@@ -31,3 +31,5 @@ j) gondoskodik – a statisztikáról szóló törvényben meghatározottak szer
 (2) A szakpolitikai feladatot ellátó miniszter – ha jogszabály eltérően nem rendelkezik – irányítja, illetve felügyeli az 1. mellékletben meghatározott központi államigazgatási szerveket.
 
 (3) A szakpolitikai feladatot ellátó miniszter a feladat- és hatásköre gyakorlása során együttműködik a kormányzati tevékenység összehangolásáért felelős miniszterrel.
+
+[^4]: A 19/A. §-t a 167/2014. (VII. 17.) Korm. rendelet 12. §-a iktatta be.

@@ -24,13 +24,13 @@
 
 11. informatikáért,
 
-12. közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért,
+12.[^14]
 
 13. közlekedésért,
 
 14. nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért,
 
-15. postaügyért,
+15.[^15]
 
 16. területfejlesztésért,
 
@@ -39,3 +39,6 @@
 18. víziközmű-szolgáltatásért
 
 felelős tagja.
+
+[^14]: A 109. § 12. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^15]: A 109. § 15. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.

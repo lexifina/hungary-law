@@ -1,5 +1,3 @@
-## 47. § A miniszter a vízvédelemért való felelőssége keretében előkészíti a felszíni és felszín alatti vizek vízminőségi védelmére vonatkozó jogszabályokat.
-
 ## 6. Az emberi erőforrások miniszterének feladat- és hatásköre
 
 ## 48. § Az emberi erőforrások minisztere (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány

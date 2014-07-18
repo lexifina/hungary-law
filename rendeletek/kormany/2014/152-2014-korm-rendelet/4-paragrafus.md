@@ -34,6 +34,8 @@
 
 13. polgári hírszerzési tevékenység irányításáért,
 
+13a.[^1] postaügyért,
+
 14. társadalompolitika összehangolásáért,
 
 15. tudománypolitika koordinációjáért,
@@ -41,3 +43,5 @@
 16. kormányzati társadalmi kapcsolatok összehangolásáért
 
 felelős tagja.
+
+[^1]: A 4. § 13a. pontját a 167/2014. (VII. 17.) Korm. rendelet 9. §-a iktatta be.

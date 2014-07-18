@@ -6,7 +6,9 @@ b) szervezi, összehangolja és ellenőrzi a Kormány döntéseinek végrehajtá
 
 c) közreműködik a döntések megvalósulásának értékelésében, a végrehajtás alakulásáról a Kormány feladatkörében érintett tagjától információt kérhet,
 
-d) összehangolja és biztosítja a Kormány informatikával és e-közigazgatással kapcsolatos politikájának egységes megvalósítását.
+d) összehangolja és biztosítja a Kormány informatikával és e-közigazgatással kapcsolatos politikájának egységes megvalósítását,
+
+e)[^2] felel a fejlesztési banki eszközökkel megvalósuló fejlesztéspolitikáért és előkészíti a Magyar Fejlesztési Bankra vonatkozó jogszabályokat.
 
 (2) A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében a kormányzati munka tervezése tekintetében
 
@@ -59,3 +61,5 @@ a) ellátja a miniszterelnök és a Kormány körüli állami protokoll teendők
 b) a miniszterelnök részére soron kívül tájékoztatást, felvilágosítást, továbbá kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, illetve szakértői közreműködést kér, közvetíti a miniszterelnök eseti döntéseit a miniszterek és a kormányzati szervek felé,
 
 c) gondoskodik a köztársasági elnök, a Kormány és a miniszterelnök által adományozható kitüntetésekkel és egyéb elismerésekkel kapcsolatos feladatok ellátásáról.
+
+[^2]: A 6. § (1) bekezdése e) pontját a 167/2014. (VII. 17.) Korm. rendelet 10. §-a iktatta be.

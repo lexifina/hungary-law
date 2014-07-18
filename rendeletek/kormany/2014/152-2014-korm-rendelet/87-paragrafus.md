@@ -14,4 +14,8 @@ bb) összehangolja az európai uniós tagságból fakadó kötelezettségek telj
 
 bc) képviseli a Kormányt az Európai Unió Általános Ügyek Tanácsának és Külügyek Tanácsának ülésein, részt vesz az Európai Unió európaügyi minisztereinek találkozóin, valamint közreműködik az Európai Tanács munkájában és ellátja üléseinek előkészítését,
 
-c) kialakítja az Állandó Képviselet működésére vonatkozó szabályokat.
+c) kialakítja az Állandó Képviselet működésére vonatkozó szabályokat,
+
+d)[^13] ellátja a belső piaci koordinációval kapcsolatos feladatokat.
+
+[^13]: A 87. § (2) bekezdés d) pontját a 167/2014. (VII. 17.) Korm. rendelet 17. §-a iktatta be.
