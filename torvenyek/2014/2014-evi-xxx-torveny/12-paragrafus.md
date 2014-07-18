@@ -5,11 +5,3 @@
 (2) Az 1. §, az 5. §, a 11. § e törvény kihirdetését követő harmincadik napon lép hatályba.
 
 (3) A 4. § és a 10. § 2014. augusztus 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
