@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2014. május 31.[^1]
+## Határidő:2015. szeptember 30.[^2]
 
 1. melléklet az 1437/2013. (VII. 11.) Korm. határozathoz
 
@@ -98,4 +98,4 @@ XI. Miniszterelnökség
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
-[^1]: A határozat az 1968/2013. (XII. 17.) Korm. határozat 14. pontja szerint módosított szöveg.
+[^2]: A határozat az 1968/2013. (XII. 17.) Korm. határozat 14. pontja, az 1406/2014. (VII. 18.) Korm. határozat 6. pontja szerint módosított szöveg.
