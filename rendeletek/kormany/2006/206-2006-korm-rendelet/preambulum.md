@@ -1,1 +1,0 @@
-A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) 30. §-ának (6) bekezdésében kapott felhatalmazás alapján a Kormány a fejlesztési adókedvezmény (a továbbiakban: adókedvezmény) részletes feltételeiről, az adókedvezmény engedélyezési eljárásáról és az adatszolgáltatásról a következőket rendeli el:
