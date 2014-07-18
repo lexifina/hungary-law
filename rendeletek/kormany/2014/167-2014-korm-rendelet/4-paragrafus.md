@@ -1,0 +1,1 @@
+## 3. § A Bevándorlási és Állampolgársági Hivatalról szóló 162/1999. (XI. 19.) Korm. rendelet 5. § (2) bekezdésében az „a belügyminisztert, a közigazgatási és igazságügyi minisztert, valamint a miniszterelnök általános helyettesét” szövegrész helyébe az „a belügyminisztert és a miniszterelnök általános helyettesét” szöveg lép.
