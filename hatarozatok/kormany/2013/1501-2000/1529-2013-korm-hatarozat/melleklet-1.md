@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2014. június 30.
+## Határidő: 2014. december 31.[^2]
 
 1. melléklet az 1529/2013. (VIII. 12.) Korm. határozathoz
 
@@ -97,3 +97,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^2]: A határozat az 1406/2014. (VII. 18.) Korm. határozat 8. pontja szerint módosított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1529-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-08-12 | 2013-1529-30-22.1 | 1529/2013. (VIII. 12.) Korm. határozat |
+| 2014-07-18 | 2013-1529-30-22.2 | 2011: CXCV. törvény |
