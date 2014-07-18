@@ -6,4 +6,6 @@
 
 a) a fővárosi és megyei kormányhivatal anyakönyvi igazgatási feladatokat ellátó, és
 
-b) az anyakönyvi ügyekért felelős miniszter számára biztosított jogokat és kötelezettségeket gyakorolva az anyakönyvi ügyekért felelős miniszter által vezetett minisztérium
+b)[^1] a központi anyakönyvi szerv
+
+[^1]: A 2. § b) pontja a 38/2014. (VII. 16.) BM rendelet 2. §-ával megállapított szöveg.
