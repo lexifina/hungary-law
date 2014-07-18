@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2014. május 30.
+## Határidő: 2014. július 31.[^1]
 
 1. melléklet az 1106/2014. (III. 6.) Korm. határozathoz
 
@@ -75,3 +75,5 @@
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határozat az 1406/2014. (VII. 18.) Korm. határozat 9. pontja szerint módosított szöveg.
