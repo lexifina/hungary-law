@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-107-00-00
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 1995-107-00-00.19 |
 | 2013-07-20 | 2013. évi LXXXVIII. törvény | 1995-107-00-00.20 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1995-107-00-00.21 |
+| 2014-07-18 | 2014. évi XXX. törvény | 1995-107-00-00.22 |
