@@ -8,7 +8,7 @@ c) a hazai anyakönyvezést végző hatóság,
 
 d) a fővárosi és megyei kormányhivatal,
 
-e) az anyakönyvi ügyekért felelős miniszter,
+e) a központi anyakönyvi szerv,
 
 f) a központi nyilvántartó szerv és
 

@@ -8,4 +8,4 @@ b) a hazai anyakönyvezést végző hatóság,
 
 c) a fővárosi és megyei kormányhivatal,
 
-d) az anyakönyvi ügyekért felelős miniszter.
+d) a központi anyakönyvi szerv.

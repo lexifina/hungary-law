@@ -1,6 +1,6 @@
 93. § (1) Az adattovábbítási nyilvántartásból adatokat igényelhet
 
-a) az adatkezelés jogszerűségének ellenőrzése céljából a fővárosi és megyei kormányhivatal és az anyakönyvi ügyekért felelős miniszter,
+a) az adatkezelés jogszerűségének ellenőrzése céljából a fővárosi és megyei kormányhivatal és a központi anyakönyvi szerv,
 
 b) az érintettnek az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti tájékoztatása céljából az anyakönyvvezető és a hazai anyakönyvezést végző hatóság,
 

@@ -50,7 +50,7 @@ d) a kérelem indokolását,
 
 e) a kérelmező nyilatkozatát arról, hogy a választott családi név nem sért személyhez fűződő jogot,
 
-f) a kérelmező nyilatkozatát arról, hogy a – születési vagy házassági – nevét az anyakönyvi ügyekért felelős miniszter korábban megváltoztatta-e,
+f) a kérelmező nyilatkozatát arról, hogy a – születési vagy házassági – nevének megváltoztatását az anyakönyvi eljárásról szóló jogszabályokban meghatározott eljárásban korábban engedélyezték-e,
 
 g) nyilatkozatot arról, hogy a kérelmezett név a Polgári Törvénykönyv névviselésre irányadó rendelkezéseit nem sérti.
 

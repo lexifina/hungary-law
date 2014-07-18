@@ -16,7 +16,7 @@ b) az anyakönyvvezető számára e törvény által biztosított jogokat gyakor
 
 c) az (5) bekezdésben meghatározott esetekben a fővárosi és megyei kormányhivatal,
 
-d) névváltoztatási ügyben az anyakönyvi ügyekért felelős miniszter
+d) névváltoztatási ügyben a központi anyakönyvi szerv
 
 jegyezhet be.
 
@@ -30,4 +30,4 @@ jegyezhet be.
 
 (6) A fővárosi és megyei kormányhivatal dönt a házasságkötéshez, bejegyzett élettársi kapcsolat létesítéséhez szükséges külföldi okirat elfogadhatóságáról.
 
-(7) Anyakönyvi okirat kiállítására az (1) bekezdésben meghatározott szervek, valamint a hivatásos konzuli tisztviselő jogosultak. A hazai anyakönyvezést végző hatóság és a fővárosi és megyei kormányhivatal az adatoknak a bejegyzésre irányuló eljárásban általa teljesített bejegyzésével összefüggésben jogosult anyakönyvi okirat kiállítására. Az anyakönyvi ügyekért felelős miniszter az adatoknak a bejegyzésre irányuló eljárásban általa teljesített bejegyzésével, valamint az 5. § (2) bekezdésében és a 89. § (4) bekezdésében foglalt feladataival összefüggésben jogosult anyakönyvi okirat kiállítására. Ha a névváltoztatás iránti kérelmet hivatásos konzuli tisztviselőnél nyújtották be, a névváltoztatási eljárással összefüggésben az anyakönyvi kivonatot a hivatásos konzuli tisztviselő állítja ki.
+(7) Anyakönyvi okirat kiállítására az (1) bekezdésben meghatározott szervek, valamint a hivatásos konzuli tisztviselő jogosultak. A hazai anyakönyvezést végző hatóság és a fővárosi és megyei kormányhivatal az adatoknak a bejegyzésre irányuló eljárásban általa teljesített bejegyzésével összefüggésben jogosult anyakönyvi okirat kiállítására. A központi anyakönyvi szerv az adatoknak a bejegyzésre irányuló eljárásban általa teljesített bejegyzésével, valamint az 5. § (2) bekezdésében és a 89. § (4) bekezdésében foglalt feladataival összefüggésben jogosult anyakönyvi okirat kiállítására. Ha a névváltoztatás iránti kérelmet hivatásos konzuli tisztviselőnél nyújtották be, a névváltoztatási eljárással összefüggésben az anyakönyvi kivonatot a hivatásos konzuli tisztviselő állítja ki.
