@@ -1,0 +1,7 @@
+# 2014. évi XXX. törvény egyes törvényeknek a belügyminiszter feladat- és hatáskörével összefüggő módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-30-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2014-07-18 | 2014. évi XXX. törvény | 2014-30-00-00.0 (közlönyállapot) |
