@@ -1,0 +1,1 @@
+## 13. § A nemzeti engedély kölcsönös elismerése iránti kérelmeket az OTH-hoz az egymást követő kölcsönös elismerési eljárás szabályai, a még egyetlen tagállamban sem engedélyezett biocid termék egyszerre több tagállamban történő engedélyezése iránti kérelmeket a párhuzamos kölcsönös elismerési eljárások szabályai szerint lehet benyújtani.
