@@ -1,0 +1,5 @@
+## 5. Az általános szerződési feltételek és az egyedileg meg nem tárgyalt szerződési feltételek vizsgálata és adatszolgáltatás e feltételekről
+
+5. § (1) A pénzügyi intézménynek e törvény hatálybalépését követő harminc napon belül meg kell vizsgálnia a fogyasztói kölcsönszerződés részévé váló azon általános szerződési feltételeket és egyedileg meg nem tárgyalt szerződési feltételeket (a továbbiakban együtt: ÁSZF), melyekben szerepel az egyoldalú szerződésmódosítás lehetőségét tartalmazó szerződéses kikötés.
+
+(2) A pénzügyi intézménynek e törvény hatálybalépését követő harminc napon belül be kell jelentenie a Felügyelet részére valamennyi (1) bekezdés szerinti szerződéses kikötést tartalmazó ÁSZF-et, és nyilatkoznia kell arról, hogy az azokban foglalt szerződéses kikötést tisztességesnek vagy tisztességtelennek tekinti-e. A bejelentéshez a Felügyelet részére mellékelni kell a szerződéses kikötéssel érintett szerződések azonosítási számát és az érintett szerződés alapján fennálló követelések összegét.
