@@ -4,9 +4,9 @@
 
 (2) Az 1–31. §, a 32. § (3) és (4) bekezdése, továbbá a 33. § (1) és (2) bekezdése 2012. március 15-én lép hatályba.
 
-(3)[^73]
+(3)[^74]
 
-(4)[^74]
+(4)[^75]
 
-[^73]: A 32. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^74]: A 32. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^74]: A 32. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^75]: A 32. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
