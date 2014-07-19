@@ -1,0 +1,1 @@
+## 7. § Az MVH a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara szakértői közreműködését veheti igénybe a támogatások igénybevételéhez kapcsolódó ügyfélszolgálati és tájékoztatási feladatai ellátása során.
