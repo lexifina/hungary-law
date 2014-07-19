@@ -1,4 +1,4 @@
-2. melléklet a 328/2007. (XII. 11.) Korm. rendelethez[^5]
+2. melléklet a 328/2007. (XII. 11.) Korm. rendelethez[^6]
 
 ## A Magyarország által elismert egyéb okmányok listája
 
@@ -66,14 +66,20 @@ g) hajós útlevél (Seafarer's Passport)
 
 15. Szaúd-Arábia – úti okmány palesztin menekültek részére (Travel document for Palestinian refugees)
 
-16. Trinidad és Tobago – útlevél az országgyűlési képviselők számára (Passport for members of parliament)
+16.[^7] Szíria – úti okmány palesztin menekült részére (Travel document for Palestinian refugees)
 
-17. Türkmenisztán – hajós útlevél (Seaman's passport)
+17.[^8] Trinidad és Tobago – útlevél az országgyűlési képviselők számára (Passport for members of parliament)
 
-18. Új-Zéland
+18.[^9] Türkmenisztán – hajós útlevél (Seaman's passport)
+
+19.[^10] Új-Zéland
 
 a) sürgősségi úti okmány (Emergency travel document)
 
 b) sürgősségi útlevél (Emergency passport)
 
-[^5]: A 2. melléklet a 447/2013. (XI. 28.) Korm. rendelet 6. § (3) bekezdés b) pontjával megállapított szöveg.
+[^6]: A 2. melléklet a 447/2013. (XI. 28.) Korm. rendelet 6. § (3) bekezdés b) pontjával megállapított szöveg.
+[^7]: A 2. melléklet 16. pontja a 170/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 2. melléklet 17. pontja a 170/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 2. melléklet 18. pontja a 170/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: A 2. melléklet 19. pontját a 170/2014. (VII. 18.) Korm. rendelet 1. §-a iktatta be.
