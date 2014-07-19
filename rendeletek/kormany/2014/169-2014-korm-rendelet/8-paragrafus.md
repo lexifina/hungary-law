@@ -1,0 +1,9 @@
+## 7. § Az Állami Népegészségügyi és Tisztiorvosi Szolgálatról, a népegészségügyi szakigazgatási feladatok ellátásáról, valamint a gyógyszerészeti államigazgatási szerv kijelöléséről szóló 323/2010. (XII. 27.) Korm. rendelet (a továbbiakban: 323/2010. Korm. rendelet) 12. §-a a következő (5a) bekezdéssel egészül ki:
+
+## „(5a) A Kormány egészségügyi államigazgatási szervként a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló kormányrendeletben meghatározott elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlóját jelöli ki a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény 2. § (9) bekezdése és 7. §-a szerinti feladatok ellátására.”
+
+## 8. § A 323/2010. Korm. rendelet
+
+a) 12. § (5) bekezdés d) pontjában a „Magyar Honvédségről szóló 2004. évi CV. törvény 55. § (4) bekezdésének g) pontja” szövegrész helyébe a „Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 25. § (4) bekezdés f) pontja” szöveg,
+
+b) 12. § (5) bekezdés g) pontjában az „a nemdohányzók védelméről” szövegrész helyébe az „az (5a) bekezdésben meghatározott kivétellel a nemdohányzók védelméről” szöveg
