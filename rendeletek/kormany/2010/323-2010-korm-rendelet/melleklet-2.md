@@ -14,10 +14,10 @@
 
 ## 7. Országos Környezetegészségügyi Intézet (OKI), Budapest
 
-## 8.[^112]
+## 8.[^114]
 
 ## 9. Országos Gyermekegészségügyi Intézet (OGYEI)
 
 2. melléklet a 323/2010. (XII. 27.) Korm. rendelethez
 
-[^112]: Az 1. melléklet 8. pontját az 59/2011. (IV. 12.) Korm. rendelet 22. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^114]: Az 1. melléklet 8. pontját az 59/2011. (IV. 12.) Korm. rendelet 22. § (2) bekezdés b) pontja hatályon kívül helyezte.
