@@ -1,5 +1,5 @@
 ## 2. § Ez a rendelet 2010. április 1-jén lép hatályba.
 
-1. melléklet a 79/2010. (III. 25.) Korm. rendelethez[^5]
+1. melléklet a 79/2010. (III. 25.) Korm. rendelethez[^6]
 
-[^5]: Az 1. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 277. §-a hatályon kívül helyezte.
+[^6]: Az 1. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 277. §-a hatályon kívül helyezte.
