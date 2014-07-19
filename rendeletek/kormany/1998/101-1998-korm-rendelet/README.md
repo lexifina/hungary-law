@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-101-20-
 | 2013-04-09 | 1998-101-20-22.23 | 15/2013. (I. 28.) Korm. rendelet |
 | 2013-12-13 | 1998-101-20-22.24 | 122/2004. (IV. 29.) Korm. rendelet |
 | 2014-01-01 | 1998-101-20-22.25 | 409/2012. (XII. 28.) Korm. rendelet |
+| 2014-07-19 | 1998-101-20-22.26 | 170/2014. (VII. 18.) Korm. rendelet |
