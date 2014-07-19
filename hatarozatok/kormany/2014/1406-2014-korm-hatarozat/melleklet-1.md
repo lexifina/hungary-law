@@ -18,15 +18,7 @@
 
 ## 4. A Kormány úgy dönt, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1968/2013. (XII. 17.) Korm. határozatban (a továbbiakban: Határozat2.) foglaltaktól eltérően a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 2047/2013. (XII. 30.) Korm. határozat alapján a kunszentmiklósi Baksay Sándor Református Gimnázium és Általános Iskola épületének felújítása, bővítése céljából átcsoportosított 300,0 millió forint elszámolási és visszatérítési határideje a Határozat2.-ben foglaltaktól eltérően 2015. június 30.
 
-## 5. A Rendszerváltás Történetét Kutató Intézet és Archívum 2013. évi működésének biztosításához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1224/2013. (IV. 23.) Korm. határozat 2. pontjában a „2014. június 30.” szövegrész helyébe a „2014. december 31.” szöveg lép.
-
-## 6. A hajdúsámsoni állami köznevelés feltételeinek megteremtése érdekében a rendkívüli kormányzati intézkedésre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1437/2013. (VII. 11.) Korm. határozatban a „2014. május 31.” szövegrész helyébe a „2015. szeptember 30.” szöveg lép.
-
-## 7. A Nemzeti Örökség Intézete 2013. évi működésének biztosításához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1255/2013. (V. 10.) Korm. határozat 2. pontjában a „2014. június 30.” szövegrész helyébe a „2014. december 31.” szöveg lép.
-
-## 8. Az új nemzeti közgyűjteményi épületegyüttes és a Liget Budapest projektekhez kapcsolódó beruházások előkészítéséhez szükséges források biztosítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1529/2013. (VIII. 1.) Korm. határozatban a „2014. június 30.” szövegrész helyébe a „2014. december 31.” szöveg lép.
-
-## 9. Az egyes 2013. évi kimagasló sporteredmények állami jutalmának támogatása céljából a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1106/2014. (III. 6.) Korm. határozatban a „2014. május 30.” szövegrész helyébe a „2014. július 31.” szöveg lép.
+## 5–9.[^1]
 
 1. melléklet az 1406/2014. (VII. 18.) Korm. határozathoz
 
@@ -87,3 +79,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 5–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
