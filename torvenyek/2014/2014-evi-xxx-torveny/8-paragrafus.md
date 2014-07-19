@@ -1,3 +1,3 @@
 ## 8. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
-8. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 5. § (1a) és (3) bekezdésében, valamint 74. § (2) bekezdésében az „az anyakönyvi ügyekért felelős miniszter” szövegrész helyébe az „a központi anyakönyvi szerv” szöveg lép.
+8. §
