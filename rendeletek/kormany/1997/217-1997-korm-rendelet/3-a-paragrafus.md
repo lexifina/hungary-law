@@ -78,9 +78,11 @@ c) a beutaló szerinti ellátás igénybevétele a beutaló szerinti egészség�
 
 (10d)[^82] A beutalóra adott szakvélemény tartalmazza a beutaló orvos kérdéseire adott válaszokat, a betegség okozta elváltozásokat, az esetleges további teendők szükségességét, ismételt szakkonzíliumot vagy szakkonzíliumokra tett javaslatot. A keresőképesség véleményezéséről csak a beutaló orvos ez irányú kérdésére lehet nyilatkozni.
 
-(11)[^83] Az Ebtv. 18. § (1) bekezdésében foglaltak vizsgálatához az OEP rendszeresen tájékoztatja a finanszírozott egészségügyi szolgáltatót a beutalásra jogosult orvosok kódjáról.
+(10e)[^83] A (10) bekezdésben foglaltaktól eltérően a várandósgondozásról szóló miniszteri rendelet szerinti, a várandósgondozási könyvben szereplő, beutalóhoz kötött vizsgálatok tekintetében beutalónak minősül a várandósgondozási könyv, ha tartalmazza a beutaló gondozó háziorvos nevét, pecsétjét és aláírását, a várandósságot igazoló BNO-kódot, valamint a (10) bekezdés a), b), d) és g) pontja szerinti adatokat. A beutaló a (10) bekezdés g) pontja szerinti időponttól számított 300. napig használható fel.
 
-(12)[^84] Az egészségügyi szolgáltató belső szabályzatában nevezi meg azon személyt, aki a (2) bekezdésben meghatározott nyilatkozatot megteheti.
+(11)[^84] Az Ebtv. 18. § (1) bekezdésében foglaltak vizsgálatához az OEP rendszeresen tájékoztatja a finanszírozott egészségügyi szolgáltatót a beutalásra jogosult orvosok kódjáról.
+
+(12)[^85] Az egészségügyi szolgáltató belső szabályzatában nevezi meg azon személyt, aki a (2) bekezdésben meghatározott nyilatkozatot megteheti.
 
 [^62]: A Vhr. 3/A. §-át a 131/2006. (VI. 15.) Korm. rendelet 1. §-a iktatta be.
 [^63]: A Vhr. 3/A. §-ának (1) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
@@ -103,5 +105,6 @@ c) a beutaló szerinti ellátás igénybevétele a beutaló szerinti egészség�
 [^80]: A Vhr. 3/A. § (10b) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 12. § (4) bekezdése iktatta be.
 [^81]: A Vhr. 3/A. § (10c) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 12. § (4) bekezdése iktatta be.
 [^82]: A Vhr. 3/A. § (10d) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^83]: A Vhr. 3/A. §-a eredeti (2) bekezdésének számozását a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése (11) bekezdésre változtatta.
-[^84]: A Vhr. 3/A. §-ának (12) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^83]: A Vhr. 3/A. § (10e) bekezdését a 169/2014. (VII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^84]: A Vhr. 3/A. §-a eredeti (2) bekezdésének számozását a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése (11) bekezdésre változtatta.
+[^85]: A Vhr. 3/A. §-ának (12) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
