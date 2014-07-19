@@ -1,7 +1,7 @@
 ## A közúti jelzésekre vonatkozó átmeneti rendelkezések
 
-66. § (1)[^370]
+66. § (1)[^372]
 
 (2) A villamos-, a trolibusz- és az autóbusz-megállóhelyek jelzésére korábban alkalmazott táblák – kicserélésükig – továbbra is érvényesek.
 
-[^370]: A 66. § (1) bekezdését a 2/1984. (I. 29.) KM-BM együttes rendelet 41. §-a hatályon kívül helyezte.
+[^372]: A 66. § (1) bekezdését a 2/1984. (I. 29.) KM-BM együttes rendelet 41. §-a hatályon kívül helyezte.

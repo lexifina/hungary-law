@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1975-1-20-24
 | 2013-05-01 | 1975-1-20-24.24 | 129/2013. (IV. 30.) Korm. rendelet |
 | 2013-07-01 | 1975-1-20-24.25 | 209/2013. (VI. 18.) Korm. rendelet |
 | 2014-03-15 | 1975-1-20-24.26 | 289/2009. (XII. 18.) Korm. rendelet |
+| 2014-07-19 | 1975-1-20-24.27 | 228/2012. (VIII. 23.) Korm. rendelet |
