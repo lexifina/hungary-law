@@ -1,6 +1,6 @@
 ## 1. megállapítja a Közlekedés Operatív Program 2011–2013. évekre szóló akciótervét az 1. melléklet szerint,
 
-## 2. visszavonja a Közlekedés Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1108/2014. (III. 6.) Korm. határozatot.
+## 2.[^2]
 
 1. melléklet az 1396/2014. (VII. 18.) Korm. határozathoz
 
@@ -253,3 +253,5 @@
 |  | Prioritás | 0,00 | 2,55 | 0,58 |  |  |  |
 
 | *A konstrukcióban kötelezettségvállalással már lekötött keretek |  |  |  |  |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
