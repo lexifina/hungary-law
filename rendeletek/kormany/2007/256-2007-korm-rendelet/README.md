@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-256-20-
 | 2013-03-11 | 2007-256-20-22.18 | 362/2008. (XII. 31.) Korm. rendelet |
 | 2013-07-01 | 2007-256-20-22.19 | 203/2013. (VI. 14.) Korm. rendelet |
 | 2014-07-18 | 2007-256-20-22.20 | 167/2014. (VII. 17.) Korm. rendelet |
+| 2014-07-19 | 2007-256-20-22.21 | 168/2014. (VII. 18.) Korm. rendelet |
