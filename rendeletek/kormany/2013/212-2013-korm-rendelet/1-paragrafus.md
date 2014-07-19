@@ -14,7 +14,7 @@ f)[^1] pénzügyi intézmény: a Vállalkozásfinanszírozási Programban részt
 
 g) köztartozás: az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 20. pontjában foglaltak szerinti tartozás;
 
-h) általános csekély összegű (de minimis) rendelet: a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet;
+h)[^2] általános csekély összegű (de minimis) rendelet: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet;
 
 i) általános csekély összegű (de minimis) támogatás: az általános csekély összegű (de minimis) rendelet hatálya alá tartozó támogatás;
 
@@ -27,3 +27,4 @@ l) támogatástartalom: a kedvezményezett számára nyújtott állami támogat�
 m) támogatástartalomról szóló igazolás: a kamattámogatás támogatástartalmáról szóló, a támogatás nyújtó szerv által kiállított igazolás, amely a támogatás „de minimis” jellegét is megjelöli.
 
 [^1]: Az 1. § f) pontja az 537/2013. (XII. 30.) Korm. rendelet 80. §-a szerint módosított szöveg.
+[^2]: Az 1. § h) pontja a 169/2014. (VII. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
