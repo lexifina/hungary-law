@@ -3,11 +3,3 @@
 a) a módosítás után még nem került sor törlesztésre, úgy a pénzügyi intézmény a módosítást nem érvényesíti a fizetendő törlesztőrészletben és a hirdetményt visszavonja;
 
 b) a módosítás után már sor került törlesztésre, úgy a módosítás miatti törlesztőrészlet növekedést az ügyfél számláján e törvény hatálybalépését követő harmadik munkanapon jóvá kell írni és a hirdetményt vissza kell vonni.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
