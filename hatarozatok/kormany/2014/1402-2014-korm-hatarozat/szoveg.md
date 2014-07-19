@@ -14,4 +14,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: azonnal
 
-2. Hatályát veszti az Alternatív Közgazdasági Gimnázium Közhasznú Nonprofit Kft. üzletrésze kisebbségi hányadának értékesítéséről szóló 1297/2012. (VIII. 13.) Korm. határozat.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
