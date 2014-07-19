@@ -948,6 +948,14 @@
 
 | 64 | A-836,339 | N-[3-(2-methoxyethyl)-4,5-dimethyl-1,3-thiazol-2-ylidene]-2,2,3,3-tetramethylcyclopropane-carboxamide |
 
+| 65. | AB-CHMINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)–1-(cyclohexylmethyl)–1H-indazole-3-carboxamide |
+
+| 66. | α-PEP, alfa-PHPP, PV8 | 1-phenyl-2-(pyrrolidin-1-yl)heptan-1-one |
+
+| 67. |  | N-(2-methoxyethyl)–N-(1-methylethyl)–2-(1-pentyl-1H-indol-3-yl)–4-thiazol-methanamine |
+
+| 68. |  | N,N-diethyl-2-(1-pentyl-1H-indol-3-yl)–4-thiazol-methanamine |
+
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek;
 
 ## – az ebben a jegyzékben felsorolt anyagok sói, beleértve a fent említett sztereoizomerek sóit, amennyiben ilyen sók léteznek.
