@@ -2,7 +2,7 @@
 
 (2) A díj évente legfeljebb 5 fő részére adományozható.
 
-(3) A díj átadására minden évben július 7-én, Fényes Elek születésének évfordulóján kerül sor.
+(3)[^18] A díj átadására július 7-én, Fényes Elek születésének évfordulóján kerül sor.
 
 (4) A díjazott emlékérmet és az adományozást igazoló oklevelet kap.
 
@@ -11,3 +11,5 @@
 (6) A díjhoz 500 000 Ft összegű pénzjutalom jár.
 
 (7) A díjat a miniszter megbízásából a KSH elnöke adja át.
+
+[^18]: A 11/F. § (3) bekezdése az 1/2014. (VII. 18.) IM rendelet 2. §-a szerint módosított szöveg.
