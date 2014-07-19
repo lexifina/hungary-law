@@ -1,3 +1,0 @@
-## 1. § A Bevándorlási és Állampolgársági Hivatalról szóló 162/1999. (XI. 19.) Korm. rendelet 4. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A belügyminiszter a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) és (3a) bekezdése szerinti honosítási eljárással és az 5. §-a szerinti visszahonosítási eljárással, a magyar állampolgárság kérelemre történő igazolásával összefüggésben a Hivatal felett gyakorolt, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés c) és e)–h) pontjában meghatározott hatáskörét a miniszterelnök általános helyettesével együttműködve látja el.”
