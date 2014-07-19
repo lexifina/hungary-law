@@ -6,6 +6,6 @@
 
 | 3. | Korlátozott forgalmú övezetre (zóna) | 14. § (1) bekezdés z/2. pont | 30 000 | járművezető vagy annak távollétében az üzemben tartó |
 
-11/G. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^52]
+11/G. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^54]
 
-[^52]: A 11/G. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be, hatályon kívül helyezte ugyanezen rendelet 10. § (4) bekezdése.
+[^54]: A 11/G. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be, hatályon kívül helyezte ugyanezen rendelet 10. § (4) bekezdése.

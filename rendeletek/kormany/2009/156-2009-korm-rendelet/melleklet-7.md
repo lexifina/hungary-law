@@ -12,6 +12,6 @@
 
 | 6. | Élőállat-szállításhoz előírt menetlevél nem megfelelő kiállítása, vezetése | 100 000 | szállító gépjárművezető |
 
-7. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^45]
+7. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^47]
 
-[^45]: A 7. melléklet a 261/2011. (XII. 7.) Korm. rendelet 41. § (11) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^47]: A 7. melléklet a 261/2011. (XII. 7.) Korm. rendelet 41. § (11) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.

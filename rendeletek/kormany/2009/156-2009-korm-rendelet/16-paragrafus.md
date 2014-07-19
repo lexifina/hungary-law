@@ -4,9 +4,11 @@
 
 (3)[^35] E rendeletnek a közúti közlekedéssel kapcsolatos egyes kormányrendeletek módosításáról szóló 228/2012. (VIII. 23.) Korm. rendelet (a továbbiakban: módosító rendelet) 4. § (2) bekezdésével megállapított 12. §-ának rendelkezését és a 8–11. mellékletével megállapított, illetve módosított 11/A–11/G. mellékletét a módosító rendelet hatálybalépése napját megelőzően indult ügyekben nem lehet alkalmazni.
 
-(4)–(7)[^36]
+(4)[^36] E rendeletnek a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet és a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet módosításáról szóló 172/2014. (VII. 18.) Korm. rendelettel megállapított rendelkezését a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet és a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet módosításáról szóló 172/2014. (VII. 18.) Korm. rendelet hatálybalépésekor[^37] folyamatban lévő ügyben is alkalmazni kell.
 
-(8)[^37] Ez a rendelet
+(5)–(7)[^38]
+
+(8)[^39] Ez a rendelet
 
 a) a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK európai parlamenti és tanácsi rendeletnek,
 
@@ -18,7 +20,7 @@ d) a közúti szállításra vonatkozó egyes szociális jogszabályok összehan
 
 a végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(9)[^38] Ez a rendelet
+(9)[^40] Ez a rendelet
 
 a) a közúti szállításra vonatkozó egyes szociális jogszabályokkal kapcsolatos 3820/85/EGK és a 3821/85/EGK tanácsi rendelet végrehajtásának minimumfeltételeiről szóló 2006/22/EK európai parlamenti és tanácsi irányelv III. mellékletének módosításáról szóló, 2009. január 30-i 2009/5/EK bizottsági irányelvnek és
 
@@ -26,11 +28,13 @@ b) a közúti közlekedésről szóló 1988. évi I. törvénnyel és a közúti
 
 ## való megfelelést szolgálja.
 
-(10)[^39]
+(10)[^41]
 
 [^34]: A 16. § (2) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette, újonnan a 99/2011. (VI. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^35]: A 16. § (3) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette, újonnan a 228/2012. (VIII. 23.) Korm. rendelet 4. § (4) bekezdése iktatta be.
-[^36]: A 16. § (4)–(7) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette.
-[^37]: A 16. § (8) bekezdése a 261/2011. (XII. 7.) Korm. rendelet 41. § (7) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
-[^38]: A 16. § (9) bekezdése a 138/2013. (V. 10.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^39]: A 16. § (10) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^36]: A 16. § (4) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette, újonnan a 172/2014. (VII. 18.) Korm. rendelet 3. §-a iktatta be.
+[^37]: A hatálybalépés napja: 2014. július 19.
+[^38]: A 16. § (5)–(7) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette.
+[^39]: A 16. § (8) bekezdése a 261/2011. (XII. 7.) Korm. rendelet 41. § (7) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^40]: A 16. § (9) bekezdése a 138/2013. (V. 10.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^41]: A 16. § (10) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

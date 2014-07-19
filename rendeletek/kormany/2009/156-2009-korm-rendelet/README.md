@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-156-20-
 | 2013-12-18 | 2009-156-20-22.20 | 488/2013. (XII. 17.) Korm. rendelet |
 | 2014-05-04 | 2009-156-20-22.21 | 116/2014. (IV. 3.) Korm. rendelet |
 | 2014-07-01 | 2009-156-20-22.22 | 116/2014. (IV. 3.) Korm. rendelet |
+| 2014-07-19 | 2009-156-20-22.23 | 172/2014. (VII. 18.) Korm. rendelet |
