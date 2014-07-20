@@ -1,3 +1,0 @@
-## 18. § A 316/2013. Korm. rendelet 24. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az 528/2012/EU európai parlamenti és tanácsi rendelet 89. cikk (2) bekezdése alapján, az 1451/2007/EK bizottsági rendelet alapján már értékelt vagy értékelés alatt álló, azonban a szóban forgó terméktípus vonatkozásában még nem jóváhagyott, létező hatóanyagokat – vagy e hatóanyagok és az 528/2012/EU európai parlamenti és tanácsi rendelettel összhangban jóváhagyott hatóanyagok kombinációját – tartalmazó biocid termékek Magyarország területén történő forgalmazására a biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló miniszteri rendeletben foglaltak alkalmazandóak.”

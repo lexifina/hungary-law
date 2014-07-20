@@ -1,3 +1,0 @@
-## 1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: 217/1997. Korm. rendelet) 3/A. §-a a következő (10e) bekezdéssel egészül ki:
-
-## „(10e) A (10) bekezdésben foglaltaktól eltérően a várandósgondozásról szóló miniszteri rendelet szerinti, a várandósgondozási könyvben szereplő, beutalóhoz kötött vizsgálatok tekintetében beutalónak minősül a várandósgondozási könyv, ha tartalmazza a beutaló gondozó háziorvos nevét, pecsétjét és aláírását, a várandósságot igazoló BNO-kódot, valamint a (10) bekezdés a), b), d) és g) pontja szerinti adatokat. A beutaló a (10) bekezdés g) pontja szerinti időponttól számított 300. napig használható fel.”
