@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-194-00-00
 | 2014-03-01 | 2013. évi CCIII. törvény | 2011-194-00-00.21 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2011-194-00-00.22 |
 | 2014-05-06 | 2014. évi XIV. törvény | 2011-194-00-00.23 |
+| 2014-07-21 | 2014. évi XXXVII. törvény | 2011-194-00-00.24 |

@@ -1,12 +1,14 @@
 ## VII. Fejezet
 
-## A PÉNZÜGYI RENDSZER STABILITÁSÁNAK MEGŐRZÉSE ÉRDEKÉBEN HITELINTÉZETEKNEK NYÚJTHATÓ KÖLCSÖN
+## A PÉNZÜGYI RENDSZER STABILITÁSÁNAK MEGŐRZÉSE ÉRDEKÉBEN HITELINTÉZETEKNEK VAGY A SZANÁLÁSI ALAPNAK NYÚJTHATÓ KÖLCSÖN
 
-44. § „(1) A pénzügyi közvetítőrendszer stabilitását potenciálisan veszélyeztető helyzetben az állam a szabad pénzeszközeinek kezelése keretében
+44. § (1) A pénzügyi közvetítőrendszer stabilitását lehetségesen veszélyeztető helyzetben az állam a szabad pénzeszközeinek kezelése keretében
 
 a) a Magyar Nemzeti Bank által kibocsátott kötvényt szerezhet,
 
-b) Magyarország területén székhellyel rendelkező hitelintézetnek kölcsönt nyújthat.
+b) Magyarország területén székhellyel rendelkező hitelintézetnek kölcsönt nyújthat, valamint
+
+c) a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben meghatározott Szanálási Alapnak kölcsönt nyújthat.
 
 (2) Az e §-ban foglaltak teljesítése során az állam nevében az államháztartásért felelős miniszter az ÁKK Zrt. útján jár el.
 
@@ -14,17 +16,23 @@ b) Magyarország területén székhellyel rendelkező hitelintézetnek kölcsön
 
 (4) Az államháztartásért felelős miniszter az értékpapírkölcsön-ügyletről vagy a kölcsönnyújtásról szóló döntését megelőzően javaslatot kér a Magyar Nemzeti Bank elnökétől, amely tartalmazza
 
-a) a hitelintézet pénzügyi közvetítőrendszer stabilitása szempontjából történő értékelését, a más szabályozott intézményre, pénzügyi piacra, pénzügyi infrastruktúrára és a reálgazdaságra gyakorolt hatásának vizsgálatát,
+a) az (1) bekezdés a) és b) pontja esetben
 
-b) a hitelintézet rövid távú likviditási helyzetének értékelését,
+aa) a hitelintézet pénzügyi közvetítőrendszer stabilitása szempontjából történő értékelését, a más szabályozott intézményre, pénzügyi piacra, pénzügyi infrastruktúrára és a reálgazdaságra gyakorolt hatásának vizsgálatát,
 
-c) a legfontosabb pénzügyi piacok helyzetéről, a rendelkezésre álló likviditásról szóló elemzést,
+ab) a hitelintézet rövid távú likviditási helyzetének értékelését,
 
-d) a hitelintézet szavatolótőke-helyzetéről szóló értékelést,
+ac) a legfontosabb pénzügyi piacok helyzetéről, a rendelkezésre álló likviditásról szóló elemzést,
 
-e) a hitelintézet közép- és hosszú távú likviditási helyzetéről szóló értékelést, és
+ad) a hitelintézet szavatoló tőke-helyzetéről szóló értékelést,
 
-f) összevont alapú felügyelet vagy kiegészítő felügyelet alá tartozó hitelintézet esetén a csoportszintű közép- és hosszú távú likviditási és szavatoló tőke helyzet megítéléséről szóló értékelést.
+ae) a hitelintézet közép- és hosszú távú likviditási helyzetéről szóló értékelést, és
+
+af) összevont alapú felügyelet vagy kiegészítő felügyelet alá tartozó hitelintézet esetén a csoportszintű közép- és hosszú távú likviditási és szavatoló tőke helyzet megítéléséről szóló értékelést;
+
+b) az (1) bekezdés
+
+c) pontja esetben a Szanálási Alap kölcsönfelvételi szándékának MNB által értékelt indokoltságát.
 
 (5) Az (1) bekezdés b) pontja szerinti kölcsönnyújtáshoz kapcsolódóan az államháztartásért felelős miniszter a kölcsönfelvevő kötelezettségeként olyan feltételek teljesülését írja elő, amelyek biztosítják, hogy a kölcsön a Magyarország területén székhellyel rendelkező vállalkozások finanszírozási forrásainak bővítését szolgálja.
 
@@ -35,3 +43,5 @@ a) a kölcsönbe vevő kötelezettségeként olyan feltételek teljesítését �
 b) kölcsönzési díjat köt ki.
 
 (7) Az (1) bekezdés b) pontjában és a (3) bekezdésben meghatározott ügylet az államháztartásról szóló törvény szerinti finanszírozási célú pénzügyi műveletnek minősül, amely költségvetési előirányzatként, illetve annak teljesítéseként nem számolható el.”
+
+(8) Az (1) bekezdés c) pontja szerinti kölcsönnyújtáshoz kapcsolódóan az államháztartásért felelős miniszter a Szanálási Alap kötelezettségeként olyan feltételeket ír elő, amelyek biztosítják a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben meghatározott fiskális semlegesség elvének teljesülését.
