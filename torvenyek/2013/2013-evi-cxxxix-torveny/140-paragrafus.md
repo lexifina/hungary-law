@@ -150,7 +150,9 @@ ec) a 35. § (2) bekezdésében meghatározott információkról,
 
 ed) az egyéb rendszerszinten jelentős intézmény és a globálisan rendszerszinten jelentős intézmény nevéről és az alkategóriáról, amelyikbe a globálisan rendszerszinten jelentős intézmény tartozik,
 
-ee) a 35. § (1) bekezdésben, a Hpt. 89. § (9) bekezdésében, valamint a Bszt. 110/D. § (9) bekezdésében meghatározott felülvizsgálatok eredményéről.
+ee) a 35. § (1) bekezdésben, a Hpt. 89. § (9) bekezdésében, valamint a Bszt. 110/D. § (9) bekezdésében meghatározott felülvizsgálatok eredményéről,
+
+ef) a Szantv. 113. § (2) bekezdésében foglaltakról.
 
 (5) A (3) bekezdés a) pontja szerinti bejelentésben jelezni kell, ha a tevékenységi engedélyt olyan biztosítónak adták ki, amely közvetlenül vagy közvetve egy vagy több, harmadik országban bejegyzett vállalkozás leányvállalata, és részletesen be kell mutatni ebben az esetben a vállalatcsoport szerkezetét.
 
