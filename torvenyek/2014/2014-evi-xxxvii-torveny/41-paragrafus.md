@@ -1,0 +1,1 @@
+41. § A tulajdonosok és hitelezők védelmében az e törvényben meghatározott rendelkezések sérelme nélkül a szanálás alatt álló intézmény tulajdonosai vagy hitelezői és azok az egyéb harmadik felek, amelyeknek eszközeit, jogait és kötelezettségeit nem ruházták át, nem rendelkeznek jogokkal az átruházott eszközök, források, jogok és kötelezettségek felett vagy azokhoz kapcsolódóan.

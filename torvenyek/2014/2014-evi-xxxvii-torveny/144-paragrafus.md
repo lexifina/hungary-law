@@ -1,0 +1,1 @@
+144. § Vagyonértékesítési eszköz vagy áthidaló intézmény alkalmazása esetén, ha a biztosított betétállomány más intézményhez kerül átruházásra, a betétes a betét át nem ruházott része vonatkozásában nem tarthat igényt OBA kártalanításra, ha átruházott betéti rész eléri vagy meghaladja a betétbiztosítás kártalanítási kötelezettség összeghatárát.

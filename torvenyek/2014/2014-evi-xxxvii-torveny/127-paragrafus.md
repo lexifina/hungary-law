@@ -1,0 +1,1 @@
+127. § Az Alap közvetlenül nem használható az intézmény, pénzügyi vállalkozás, pénzügyi holding társaság, vegyes pénzügyi holding társaság és vegyes tevékenységű holding társaság veszteségeinek a fedezésére, illetve feltőkésítésére.

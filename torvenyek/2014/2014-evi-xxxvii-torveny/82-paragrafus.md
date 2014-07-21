@@ -1,0 +1,5 @@
+82. § (1) Az állami pénzügyi stabilizációs eszköz keretében alkalmazott, tőkeemelés történhet elsődleges alapvető tőkével, kiegészítő alapvető tőkével és járulékos tőkével.
+
+(2) A Kormány által jóváhagyott tőkeemelést az állam nevében az állami vagyon felügyeletéért felelős miniszter – a Magyar Nemzeti Vagyonkezelő Zrt. útján – e törvény alapján hajtja végre a központi költségvetés terhére. A tőkeemelés pénzbeni hozzájárulással vagy állampapír rendelkezésre bocsátásával teljesíthető. A tőkeemelést a központi költségvetés állami vagyonnal kapcsolatos kiadásait tartalmazó fejezet terhére kell költségvetési kiadásként elszámolni, amellyel a fejezet tervezett kiadása túlléphető.
+
+(3) Az intézmény, a pénzügyi holding társaság, a vegyes pénzügyi holding társaság, a vegyes tevékenységű holding társaság a nem állami tulajdonban lévő tőkeinstrumentumok tulajdonosainak osztalékot, kamatot vagy kuponfizetést nem teljesít addig, amíg az állam az állami pénzügyi stabilizációs eszköz alapján szerzett tagsági részesedéseit nem értékesíti.
