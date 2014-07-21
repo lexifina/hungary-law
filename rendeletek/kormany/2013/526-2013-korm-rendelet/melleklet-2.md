@@ -34,7 +34,7 @@
 
 | 16. | talajvédelmi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 17. | élelmiszerlánc-felügyeleti eljárás | Fejér Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 17. | élelmiszerlánc-felügyeleti eljárás | Dunaújvárosi Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatal | Fejér Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága |
 
 | 18. | vasúti hatósági engedélyezési eljárás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központ |
 
@@ -42,11 +42,11 @@
 
 | 20. | a jogszabályban, nemzeti szabványban teljes körűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 21. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Fejér Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 21. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Dunaújvárosi Katasztrófavédelmi Kirendeltség | Fejér Megyei Katasztrófavédelmi Igazgatóság |
 
-| 22. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Fejér Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 22. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Dunaújvárosi Katasztrófavédelmi Kirendeltség | Fejér Megyei Katasztrófavédelmi Igazgatóság |
 
-2. melléklet az 526/2013. (XII. 30.) Korm. rendelethez
+2. melléklet az 526/2013. (XII. 30.) Korm. rendelethez[^4]
 
 Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű ügyekben közreműködő szakhatóságok
 
@@ -74,20 +74,22 @@ Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű �
 
 | 11. | rendészet | Fejér Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 12. | tűzvédelem | Fejér Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 12. | tűzvédelem | Dunaújvárosi Katasztrófavédelmi Kirendeltség | Fejér Megyei Katasztrófavédelmi Igazgatóság |
 
 | 13. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 14. | katasztrófavédelem | Fejér Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 14. | katasztrófavédelem | Dunaújvárosi Katasztrófavédelmi Kirendeltség | Fejér Megyei Katasztrófavédelmi Igazgatóság |
 
 | 15. | talajvédelem | Fejér Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 16. | erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 17. | élelmiszerlánc-biztonság | Fejér Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 17. | élelmiszerlánc-biztonság | Dunaújvárosi Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatal | Fejér Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága |
 
-| 18. | egészségügy | Fejér Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
+| 18. | egészségügy | Dunaújvárosi Járási Népegészségügyi Intézet | Fejér Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
 
 | 19. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 20. | műszaki biztonság | Fejér Megyei Kormányhivatal Székesfehérvári Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
+
+[^4]: A 2. melléklet a 176/2014. (VII. 18.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
