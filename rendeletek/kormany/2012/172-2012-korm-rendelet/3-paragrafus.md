@@ -20,15 +20,15 @@ d) nemzetközi szervezet mellett működő állandó képviselet,
 
 e) külföldi magyar intézet;
 
-3. kihelyező szerv: az a központi államigazgatási szerv, amely az általa foglalkoztatott kormánytisztviselőt e rendelet szabályai szerint, tartós külszolgálat ellátására, kihelyező okirattal kihelyezi;
+3.[^3] kihelyező szerv: az a külpolitikáért felelős miniszter által irányított központi államigazgatási szerv, amely az általa foglalkoztatott kormánytisztviselőt e rendelet szabályai szerint, tartós külszolgálat ellátására, kihelyező okirattal kihelyezi;
 
 4. kihelyezett: kihelyező okirattal tartós külszolgálatot ellátó kormánytisztviselő és kormányzati ügykezelő;
 
-5. diplomata: az a diplomáciai ranggal rendelkező kormánytisztviselő, aki a külpolitikáért felelős miniszter hatáskörébe tartozó feladatokat belföldön a Külügyminisztériumban, illetve külföldön Magyarország külképviselete munkatársaként végzi;
+5.[^4] diplomata: az a diplomáciai ranggal rendelkező kormánytisztviselő, aki a külpolitikáért felelős miniszter hatáskörébe tartozó feladatokat belföldön a kihelyező szervnél, illetve külföldön Magyarország külképviselete munkatársaként végzi;
 
-6. szakdiplomata: az a kormánytisztviselő, akit központi államigazgatási szerv egy ágazati szakmai feladatnak Magyarország külképviseletén történő ellátására, meghatározott időre helyez át a Külügyminisztériumba;
+6.[^5] szakdiplomata: az a kormánytisztviselő, akit központi államigazgatási szerv egy ágazati szakmai feladatnak Magyarország külképviseletén történő ellátására, meghatározott időre helyez át a kihelyező szervhez;
 
-7. külszolgálat: Magyarország külképviseletein a kihelyező szerv munkáltatói jogkört gyakorló vezetője – szakdiplomaták esetében a szaktárca – által munkaköri leírásban meghatározott, a közigazgatás általános munkafeltételeitől eltérő, a diplomáciai tevékenység nemzetközi gyakorlatának és normáinak megfelelő körülmények és feltételek között végzett tevékenység;
+7.[^6] külszolgálat: Magyarország külképviseletein a kihelyező szerv munkáltatói jogkört gyakorló vezetője által – szakdiplomaták esetében a szaktárcával egyeztetett – munkaköri leírásban meghatározott, a közigazgatás általános munkafeltételeitől eltérő, a diplomáciai tevékenység nemzetközi gyakorlatának és normáinak megfelelő körülmények és feltételek között végzett tevékenység;
 
 8. kihelyezés: munkáltatói intézkedés, mellyel a kihelyező szerv a kormánytisztviselőt tartós külszolgálat ellátására rendeli;
 
@@ -39,3 +39,8 @@ e) külföldi magyar intézet;
 11. szolgálati érdek: a külpolitikáért felelős miniszter, illetve a szakmai irányítást ellátó központi államigazgatási szerv vezetőjének feladat- és hatásköréről szóló kormányrendeletekben megállapított feladatok végrehajtásával kapcsolatos érdek;
 
 12. ellátmánypótlékra jogosító személy: a kihelyező okiratban szereplő, a kihelyezett írásbeli nyilatkozata alapján a kihelyezettel közös háztartásban, életvitelszerűen a külszolgálat helyén tartózkodó házastársa vagy élettársa (a továbbiakban együtt: házastárs), valamint gyermeke, örökbe fogadott gyermeke, a házastársa gyermeke, illetve annak örökbe fogadott gyermeke (a továbbiakban együtt: gyermeke).
+
+[^3]: A 3. § 3. pontja a 174/2014. (VII. 18.) Korm. rendelet 19. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 3. § 5. pontja a 174/2014. (VII. 18.) Korm. rendelet 19. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 3. § 6. pontja a 174/2014. (VII. 18.) Korm. rendelet 19. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^6]: A 3. § 7. pontja a 174/2014. (VII. 18.) Korm. rendelet 19. § (1) bekezdés d) pontja szerint módosított szöveg.

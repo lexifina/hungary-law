@@ -2,10 +2,13 @@
 
 ## 13. Biztonsági szolgálat
 
-31. § (1) A tartós külszolgálat ellátásának idején a kihelyezett munkaköri kötelezettsége a biztonsági szolgálat ellátása, melyre külön díjazás nem jár.
+31. § (1)[^52] A tartós külszolgálat ellátásának idején a kihelyezett munkaköri kötelezettsége a biztonsági szolgálat ellátása, amelyért külön díjazás nem jár.
 
 (2) A biztonsági szolgálat ellátásának általános rendjét a kihelyező szerv hivatali szervezetének vezetője állapítja meg.
 
-(3) A képviselet vezetője válsághelyzet esetén elrendelheti a kihelyezetteknek és a 3. § 12. pontjában meghatározott személyeknek a külképviselet helyiségeiben történő biztonsági tartózkodását.
+(3)[^53] A képviselet vezetője válsághelyzet esetén biztonsági okból elrendelheti a kihelyezetteknek és a 3. § 12. pontjában meghatározott személyeknek a külképviselet helyiségeiben történő tartózkodását.
 
 (4) A válsághelyzetben a kihelyező szerv dönt a kihelyezettek és a 3. § 12. pontjában meghatározott személyeknek biztonságos helyre történő menekítéséről, illetve hazaszállításukról. Az e feladat végrehajtásából eredő, a felmerülő kockázattal arányos költségeket a kihelyező szerv viseli.
+
+[^52]: A 31. § (1) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 19. § (1) bekezdés u) pontja szerint módosított szöveg.
+[^53]: A 31. § (3) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 17. §-ával megállapított szöveg.

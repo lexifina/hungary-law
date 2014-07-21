@@ -24,19 +24,25 @@ cb) a 12. életév betöltését követően 20%-a, ameddig iskolai rendszerű ok
 
 (3) Ellátmánypótlék nem jár
 
-a) ha az ellátmánypótlékra jogosító személy – a kihelyező szerv által fizetett munkabéren (illetményen) kívüli – belföldi munkajövedelme és a kihelyező szerv által fizetett ellátmánya, illetve a külföldön szerzett munkajövedelme (megbízási díja, munkabére) összességében tárgyhónapban meghaladja az állomáshely szerinti, 1,0 szorzószámmal számított ellátmány összegét. A jövedelem megszerzését a kihelyezett írásban köteles bejelenteni;
+a)[^44] ha az ellátmánypótlékra jogosító személy – a kihelyező szerv által fizetett munkabéren (illetményen) kívüli – belföldi munkajövedelme és a kihelyező szerv által fizetett ellátmánya, illetve a külföldön szerzett munkajövedelme (megbízási díja, munkabére) összességében tárgyhónapban meghaladja az állomáshely szerinti, 1,0 szorzószámmal számított ellátmány összegét;
 
 b) az ellátmánypótlékra jogosító személynek a fogadó államtól való távollétének időtartama alatt, az elutazás és a visszaérkezés napját is beleértve, amennyiben nem a kihelyezettel együtt van távol;
 
-c) ha a kihelyezett házastársa uniós intézménynél vagy nemzetközi szervezetnél dolgozik és a vele közös háztartásban élő, gyermeke, gyermekei után pótlékot, költségtérítést kap. Ennek tényét a kihelyezett írásban köteles bejelenteni munkáltatójának.
+c)[^45] ha a kihelyezett házastársa az Európai Unió intézményénél vagy nemzetközi szervezetnél dolgozik és a vele közös háztartásban élő gyermeke, gyermekei után pótlékot, költségtérítést kap.
 
 (4) A (3) bekezdés b) pontját nem kell alkalmazni, ha a távollétre a kihelyezett évi rendes szabadsága miatt kerül sor, illetve ha az ellátmánypótlékra jogosító személy a kihelyezettel van távol pihenő, vagy munkaszüneti napon.
 
 (5) A kihelyezett köteles 3 munkanapon belül írásban bejelenteni, ha az ellátmánypótlékra jogosító személy a fogadó, vagy más államban foglalkoztatásra irányuló jogviszonyt – ideértve az állomáshelyen végzett távmunkát is – létesít.
 
-(6) A kihelyezett a külképviseleten írásban köteles bejelenteni – a fogadó államból történő el-, illetve visszautazást követő 3 napon belül – a képviselet vezetőjének és a számfejtést végző kiküldöttnek az ellátmánypótlékra jogosító személyek fogadó államból való távollétének kezdő és befejező időpontját.
+(6)[^46] A kihelyezett a külképviseleten írásban köteles bejelenteni – a fogadó államból történő el-, illetve visszautazást követő 3 napon belül – a képviselet vezetőjének és a számfejtést végző kiküldöttnek
 
-(7)[^7] A kihelyezett a jogosulatlanul felvett ellátmánypótlékot a Kttv. szerinti késedelmi kamattal növelt összegével köteles visszafizetni.
+a) az ellátmánypótlékra jogosító személyek fogadó államból való távollétének kezdő és befejező időpontját,
+
+b) a 3. § 12. pontjában nem említett családtagoknak az állomáshelyen való tartózkodásának kezdő és befejező időpontját, valamint
+
+c) írásban a (3) bekezdés a) és c) pontja szerinti jövedelem megszerzésének tényét, az azt igazoló okirat bemutatásával.
+
+(7)[^47] A kihelyezett a jogosulatlanul felvett ellátmánypótlékot a Kttv. szerinti késedelmi kamattal növelt összegével köteles visszafizetni.
 
 (8) Az ellátmánypótlékra jogosító házastárs szülés miatti távolléte esetén a kihelyező közigazgatási szerv e § rendelkezéseitől eltérhet.
 
@@ -44,8 +50,13 @@ c) ha a kihelyezett házastársa uniós intézménynél vagy nemzetközi szervez
 
 (10) Az (1) bekezdésben nem említett családtagoknak az állomáshelyen való tartózkodását a kihelyezett köteles írásban bejelenteni a képviselet-vezetőnek.
 
-(11) A külpolitikáért felelős miniszter a fogadó országban kialakult válsághelyzet esetén a külképviseleten maradó kihelyezettek részére meghatározott időtartamra, egyszeri utasításban külön pótlékot állapíthat meg.
+(11)[^48] A kihelyező szerv hivatali szervezetének vezetője a fogadó országban kialakult válsághelyzet esetén a külképviseleten maradó kihelyezettek részére meghatározott időtartamra, egyszeri utasításban külön pótlékot állapíthat meg.
 
-(12) Az iskolarendszerszerű oktatás keretében végzett középfokú szakképzés befejezésének időpontja alatt az első érettségi, illetve szakmunkás bizonyítvány megszerzési hónapjának végét kell érteni.
+(12)[^49] A (2) bekezdés bb) alpontjának alkalmazásakor az iskolai rendszerű oktatás keretében folytatott középfokú szakképzés befejezésének időpontja alatt az első érettségi, illetve szakmunkás bizonyítvány megszerzési hónapjának végét kell érteni.
 
-[^7]: A 27. § (7) bekezdése a 43/2014. (II. 25.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^44]: A 27. § (3) bekezdés a) pontja a 174/2014. (VII. 18.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^45]: A 27. § (3) bekezdés c) pontja a 174/2014. (VII. 18.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^46]: A 27. § (6) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^47]: A 27. § (7) bekezdése a 43/2014. (II. 25.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^48]: A 27. § (11) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 19. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^49]: A 27. § (12) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
