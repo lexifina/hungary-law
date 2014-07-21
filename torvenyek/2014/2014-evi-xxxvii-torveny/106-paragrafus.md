@@ -1,3 +1,0 @@
-106. § (1) A szanálási feladatkörében eljáró MNB hatósági eljárása során – ellenérdekű ügyfél hiányában – eltekinthet a magyar nyelv kötelező használatától és az iratok magyar nyelven történő benyújtásától. A szanálási feladatkörében eljáró MNB ebben az esetben előírhatja az iratokról magyar nyelvű összefoglaló elkészítésének kötelezettségét.
-
-(2) Az (1) bekezdésben foglaltak alkalmazását követően a szanálási feladatkörében eljáró MNB az eljárás résztvevői – az ügyfél képviselője kivételével – és más hatóság részére a rendelkezésére álló iratokat az eljárás nyelvén és – ellentétes nyilatkozatuk hiányában – magyar nyelvű fordításban adja át. A fordítás költségeit a szanálási feladatkörében eljáró MNB viseli.

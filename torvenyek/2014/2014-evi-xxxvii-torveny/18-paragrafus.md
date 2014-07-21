@@ -1,1 +1,0 @@
-18. § Az 1. § (1) bekezdés szerinti pénzügyi vállalkozással szemben akkor alkalmazható szanálási intézkedés, ha a szanálási feltételek az intézmény és a hozzá kapcsolódó pénzügyi vállalkozás – amelyre az összevont alapú felügyelet kiterjed – vonatkozásában egyaránt teljesülnek.
