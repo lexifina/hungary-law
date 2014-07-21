@@ -1,1 +1,1 @@
-304. § E törvény hatálybalépésekor már működő vagy engedélyezési eljárás alatt lévő hitelintézet a 114. §-ban meghatározott követelményeknek 2015. január 1-től felel meg.
+304. § A Szantv. 161. § (9) bekezdésével megállapított 114. §-ban foglalt helyreállítási tervet valamint csoportszintű helyreállítási tervet a Szantv. hatálybalépésekor már működő vagy engedélyezési eljárás alatt lévő hitelintézet irányítási jogkörrel rendelkező vezető testülete első alkalommal legkésőbb 2014. december 31-ig köteles a Felügyeletnek benyújtani.

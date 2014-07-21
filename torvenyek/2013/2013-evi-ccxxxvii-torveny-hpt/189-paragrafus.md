@@ -24,7 +24,7 @@ e) felügyeleti biztost rendelhet ki a pénzügyi intézményhez, vagy
 
 f) visszavonhatja annak a vezető állású személynek a megválasztására vagy a kinevezésére adott engedélyét, akinek személyes felelősségét az eset kialakulásáért jogerős határozatban megállapította, és kezdeményezheti a pénzügyi intézménynél más vezető állású személy megválasztását vagy kinevezését azzal, hogy ezen kivételes intézkedésnél a vezető állású személlyel szemben együttesen nem szabható ki bírság,
 
-g) kötelezheti a hitelintézetet a 114. § szerinti helyreállítási terve életbe léptetésére, az abban foglalt intézkedések alkalmazására.
+g)
 
 (2) Az (1) bekezdésben meghatározott kivételes intézkedésekkel egyidejűleg a Felügyelet felszólíthatja a szükséges intézkedések megtételére a pénzügyi intézmény
 
