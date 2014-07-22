@@ -1,3 +1,0 @@
-## 2. § Az R. 9. §-a helyébe a következő rendelkezés lép:
-
-## „9. § A szakdiplomata kiválasztásának módját a szakminiszter határozza meg. A szakdiplomata álláshelyeket a szakminiszter – indokolt esetben – a Kttv. szerinti pályázat útján meghirdeti. A szakdiplomata személyére a szakminiszter tesz javaslatot a kihelyező szerv hivatali szervezete vezetőjének. A kihelyező szerv hivatali szervezete vezetője egyetértése esetén a kiválasztott személyt – a külügyi-diplomáciai felkészülés és a külszolgálat idejére – a Kttv. szerinti határozott idejű áthelyezéssel a kihelyező szerv állományába kell helyezni.”

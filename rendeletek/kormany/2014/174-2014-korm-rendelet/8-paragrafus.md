@@ -1,1 +1,0 @@
-## „(7) Az (1) bekezdés g) pontjában foglalt feltétel alól indokolt esetben – a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter véleményének figyelembevételével – a kihelyező szerv hivatali szervezetének vezetője felmentést adhat.”
