@@ -2,7 +2,7 @@
 
 ## Pályázat
 
-28. §[^115] (1) Az állami vagyon értékesítésére irányuló pályázatot a tulajdonosi joggyakorló vagy az általa az értékesítéssel megbízott személy írja ki (a továbbiakban együtt: kiíró).
+28. §[^118] (1) Az állami vagyon értékesítésére irányuló pályázatot a tulajdonosi joggyakorló vagy az általa az értékesítéssel megbízott személy írja ki (a továbbiakban együtt: kiíró).
 
 (2) A pályáztatást – a 29. §-ban meghatározott kivételektől eltekintve – nyilvános eljárással kell lebonyolítani.
 
@@ -18,4 +18,4 @@ b) azt az összeget, amellyel az a) pontban szereplő értéket – az állami v
 
 (6) A közbeszerzési eljárás során benyújtott ajánlatok – a Kbt. 71. § (2) bekezdés a) vagy b) pontja szerinti bírálati szempont alapján történő – elbírálása során az ellenszolgáltatás meghatározása az (5) bekezdés a) és b) pontjában szereplő értékek egyenlegét alapul véve történik. A nyertes ajánlattevővel kötött szerződésnek biztosítania kell, hogy az állami vagyonba tartozó vagyonelem tulajdonjoga a nyertes ajánlattevőre csak akkor száll át, ha a közbeszerzés eredményeként létrejött épület, szállított áru birtokba adása és az épület tulajdonjogának az állam javára való jogerős bejegyzése, valamint a szolgáltatás szerződésszerű teljesítése megtörtént.
 
-[^115]: A 28. § a 77/2014. (III. 14.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^118]: A 28. § a 77/2014. (III. 14.) Korm. rendelet 13. §-ával megállapított szöveg.

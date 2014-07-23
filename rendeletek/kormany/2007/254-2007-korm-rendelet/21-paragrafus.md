@@ -1,4 +1,4 @@
-21. § (1)[^96] A tulajdonosi joggyakorló megbízásából tulajdonosi ellenőrzést végző személy jogosult:
+21. § (1)[^99] A tulajdonosi joggyakorló megbízásából tulajdonosi ellenőrzést végző személy jogosult:
 
 a) az ellenőrzött helyiségeibe, ingatlanaiba belépni,
 
@@ -8,7 +8,7 @@ c) az ellenőrzött vezetőjétől és bármely alkalmazottjától írásban vag
 
 d) szükség esetén az ellenőrzött vizsgálatát előzetes értesítés nélkül is – a megbízólevele bemutatásával – megkezdeni.
 
-(2)[^97] A tulajdonosi joggyakorló megbízásából tulajdonosi ellenőrzést végző személy köteles:
+(2)[^100] A tulajdonosi joggyakorló megbízásából tulajdonosi ellenőrzést végző személy köteles:
 
 a) jogait oly módon gyakorolni, hogy az ellenőrzött szervezet tevékenységét és rendeltetésszerű működését a lehető legkisebb mértékben zavarja,
 
@@ -16,8 +16,8 @@ b) tevékenységének megkezdéséről – az (1) bekezdés d) pontjában foglal
 
 c) megállapításait tárgyszerűen, a valóságnak megfelelően ellenőrzési jelentésbe foglalni és a jelentéstervezetet, valamint a végleges – az el nem fogadott észrevételek indokait is tartalmazó – jelentést az ellenőrzött vezetőjének megküldeni.
 
-(3)[^98] A honvédelmi szervek, rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal és a nemzetbiztonsági szolgálatok ellenőrzését tevékenységük sajátosságainak és a külön törvényekben foglaltaknak megfelelően kell végrehajtani. Az ellenőrzés nem terjedhet ki e szervek titkos információgyűjtéssel, adatnyilvántartással, minősített adatokkal kapcsolatos dokumentumaira, informatikai rendszereire és tevékenységére.
+(3)[^101] A honvédelmi szervek, rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal és a nemzetbiztonsági szolgálatok ellenőrzését tevékenységük sajátosságainak és a külön törvényekben foglaltaknak megfelelően kell végrehajtani. Az ellenőrzés nem terjedhet ki e szervek titkos információgyűjtéssel, adatnyilvántartással, minősített adatokkal kapcsolatos dokumentumaira, informatikai rendszereire és tevékenységére.
 
-[^96]: A 21. § (1) bekezdés nyitó szövegrésze a 77/2014. (III. 14.) Korm. rendelet 26. § h) pontja szerint módosított szöveg.
-[^97]: A 21. § (2) bekezdés nyitó szövegrésze a 77/2014. (III. 14.) Korm. rendelet 26. § h) pontja szerint módosított szöveg.
-[^98]: A 21. § (3) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (23) bekezdése, a 273/2010. (XII. 9.) Korm. rendelet 122. §-a szerint módosított szöveg.
+[^99]: A 21. § (1) bekezdés nyitó szövegrésze a 77/2014. (III. 14.) Korm. rendelet 26. § h) pontja szerint módosított szöveg.
+[^100]: A 21. § (2) bekezdés nyitó szövegrésze a 77/2014. (III. 14.) Korm. rendelet 26. § h) pontja szerint módosított szöveg.
+[^101]: A 21. § (3) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (23) bekezdése, a 273/2010. (XII. 9.) Korm. rendelet 122. §-a szerint módosított szöveg.
