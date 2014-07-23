@@ -10,7 +10,7 @@ Az Eütv. 22. §-ának (1) bekezdésében megjelölt közokirat kötelező tarta
 
 1. Az ellátás visszautasításáról nyilatkozatot tevő személy (a továbbiakban: érintett személy) személyazonosító adatai.
 
-2. A közjegyző nyilatkozata arról, hogy az érintett személy bemutatta egy pszichiáter szakorvos egy hónapnál nem régebbi szakvéleményét arról, hogy az érintett személy cselekvőképes és belátási képessége teljesen ép.*
+2.[^1]
 
 3. Az érintett személy betegsége/balesete esetén nem járul hozzá az alábbi diagnosztikus és/vagy terápiás eljárások alkalmazásához:**
 
@@ -32,8 +32,6 @@ Az Eütv. 22. §-ának (1) bekezdésében megjelölt közokirat kötelező tarta
 
 _______
 
-* Az eredeti közokirat mellékletét képezi a pszichiáter szakorvos szakvéleménye.
-
 ** A visszautasított ellátásokat tételesen kell nevesíteni, illetve oly módon rögzíteni, hogy az egészségügyi intézmény, illetőleg az orvos számára egyértelmű eligazítást adhasson. Így például:
 
 – ki kell tűnni, hogy a visszautasított ellátáshoz az érintett általános jelleggel nem járul hozzá, vagy konkrét esetben utasítja csak vissza (pl. az életfenntartó beavatkozások visszautasíthatók általános jelleggel, de visszautasíthatók úgy is, hogy az érintett meghatározza azt az időtartamot, amelyet követően már nem járul hozzá életének mesterséges meghosszabbításához, illetve meghatározza azt az egészségi állapotot – pl. a kezelés következtében megmaradt szellemi vagy fizikai képességének minimális szintjével –, amelynek bekövetkezését követően az ellátást visszautasítja),
@@ -47,3 +45,5 @@ _______
 = tételesen az Orvosi Eljárások Nemzetközi Osztályozásában szereplő elnevezéssel, de ez esetben az egyes beavatkozásokat az általánosan ismert megnevezéssel is fel kell tüntetni,
 
 = a beavatkozások nevesítése nélkül a konkrét betegség megnevezésével általános jelleggel (pl. amennyiben rosszindulatú daganatos megbetegedésem lesz, nem járulok hozzá annak gyógykezeléséhez, vagy amennyiben olyan betegségem lesz, vagy baleset következtében olyan állapotba kerülök, hogy önmagam ellátására képtelen lennék, nem járulok hozzá a gyógykezelésemhez).
+
+[^1]: A melléklet 2. pontját és az ahhoz kapcsolódó lábjegyzetet az Alkotmánybíróság a 24/2014. (VII. 22.) AB határozat 2. pontjával megsemmisítette 2014. július 23. napjával.
