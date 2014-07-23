@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1125-30
 | --- | --- | --- |
 | 2012-04-25 | 2012-1125-30-22.1 | 1125/2012. (IV. 25.) Korm. határozat |
 | 2013-04-11 | 2012-1125-30-22.2 | 1199/2013. (IV. 11.) Korm. határozat |
+| 2014-07-23 | 2012-1125-30-22.3 | 1412/2014. (VII. 23.) Korm. határozat |
