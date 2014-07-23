@@ -8,8 +8,10 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-3. felhívja a nemzetgazdasági minisztert, hogy tegye meg a 2014–2020 közötti időszakban évi 1,5 millió euró összegű forrásnak a Kutatási és Technológiai Innovációs Alap terhére történő biztosításához szükséges intézkedéseket, az 1. pontban meghatározott programban való hazai részvétel pénzügyi feltételeinek megteremtése érdekében.
+3.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy tegye meg a 2014–2020 közötti időszakban évi 1,0 millió euró összegű forrásnak a Kutatási és Technológiai Innovációs Alap terhére történő biztosításához szükséges intézkedéseket, az 1. pontban meghatározott programban való hazai részvétel pénzügyi feltételeinek megteremtése érdekében.
 
-Felelős: nemzetgazdasági miniszter
+Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
+
+[^1]: A 3. pont az 1412/2014. (VII. 23.) Korm. határozat 3. pontjával megállapított szöveg.
