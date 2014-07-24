@@ -18,6 +18,22 @@ e) javaslatot tesz Magyarország és az Oroszországi Föderáció közötti meg
 
 5. A kormánybiztos munkáját legfeljebb negyven fős titkárság segíti, amelynek elhelyezéséről a Miniszterelnökség gondoskodik. A Miniszterelnökség mindenkori engedélyezett létszáma ezzel a negyven fővel meghaladható.
 
+5/A.[^2] A kormánybiztos közvetlenül irányítja a Miniszterelnökségen
+
+a) a Kommunikációs és Társadalmi Kapcsolatok Főosztálya,
+
+b) a Jogi Főosztály,
+
+c) a Műszaki Főosztály,
+
+d) a Hatósági és Emberi Erőforrások Főosztálya, valamint
+
+e) az Atomenergetikai Elemző Főosztály
+
+vezetője tevékenységét.
+
 6. A Kormány felhívja az irányítása alatt álló szerveket, intézményeket, hogy a kormánybiztos feladatának ellátásához szükséges adatokat, információkat, elemzéseket bocsássák a kormánybiztos rendelkezésére.
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 5/A. pontot az 1409/2014. (VII. 23.) Korm. határozat 1. pontja iktatta be.
