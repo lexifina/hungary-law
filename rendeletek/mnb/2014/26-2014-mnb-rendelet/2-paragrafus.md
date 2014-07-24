@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme réz (75%) és nikkel (25%) ötvözetéből készült, súlya 12,5 gramm, átmérője 30 mm, széle recézett.
+
+(2) Az emlékérme előlapján, a középmezőben a Fáy András által alapított Pesti Hazai Első Takarékpénztár Egyesület emblémájának ábrázolása látható, alatta, két vízszintes sorban a „2000” értékjelzés és a „FORINT” felirat olvasható. Az emlékérme szélén, felső köriratban a „MAGYARORSZÁG” felirat, alatta bal oldalon a „BP.” verdejel, jobb oldalon a „2014” verési évszám olvasható, lent, középen Csikai Márta tervezőművész mesterjegye látható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben Fáy András félalakos portréjának ábrázolása látható. A mellképtől balra fent, félköriratban Fáy András aláírása látható, a mellképtől jobbra fent, két vízszintes sorban az „1786 –” és az „1864” felirat olvasható. A mellképtől balra, az emlékérme szélén Király Vilmos tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
