@@ -1,4 +1,4 @@
-46. § (1) Az Nftv. 1. melléklete az 1. melléklet szerint módosul.
+46. § (1)
 
 (2) Az Nftv. 3. melléklete a 2. melléklet szerint módosul.
 

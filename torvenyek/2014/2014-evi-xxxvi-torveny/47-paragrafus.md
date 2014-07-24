@@ -52,6 +52,6 @@
 
 26. 102. § (3) bekezdésében a „pedagógus ösztöndíjjal” szövegrész helyébe a „Klebelsberg Képzési Ösztöndíjjal”,
 
-27. 104. § (4) bekezdésében a „Mozgássérültek Pető András Nevelőképző és Nevelőintézete” szövegrész helyébe a „Pető András Főiskola”
+27.
 
 szöveg lép.
