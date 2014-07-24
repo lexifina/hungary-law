@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-36-00-00
 | 2014-01-18 | 2013. évi CCXXXVIII. törvény | 2013-36-00-00.5 |
 | 2014-06-18 | 2014. évi XXIII. törvény | 2013-36-00-00.6 |
 | 2014-07-04 | 2014. évi XXVI. törvény | 2013-36-00-00.7 |
+| 2014-07-24 | 26/2014. (VII. 23.) AB határozat | 2013-36-00-00.8 |
