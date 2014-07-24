@@ -4,7 +4,7 @@
 
 (2) A fenntartó
 
-a) e törvényben foglalt keretek között – az állami intézményfenntartó központ által fenntartott köznevelési intézmény kivételével – dönt a köznevelési intézmény létesítéséről, nevének megállapításáról, gazdálkodási jogköréről, átszervezéséről, megszüntetéséről, tevékenységi körének módosításáról, fenntartói jogának átadásáról,
+a) e törvényben foglalt keretek között – az állami intézményfenntartó központ, valamint az állami felsőoktatási intézmény által fenntartott köznevelési intézmény kivételével – dönt a köznevelési intézmény létesítéséről, nevének megállapításáról, gazdálkodási jogköréről, átszervezéséről, megszüntetéséről, tevékenységi körének módosításáról, fenntartói jogának átadásáról,
 
 b) dönt az óvodába történő jelentkezés módjáról, az óvodai általános felvételi időpontról, az óvoda heti és éves nyitvatartási idejének meghatározásáról,
 

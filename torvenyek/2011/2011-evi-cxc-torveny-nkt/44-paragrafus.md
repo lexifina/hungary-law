@@ -14,7 +14,9 @@ d) akit nevelő és oktató munkát közvetlenül segítő munkakörben alkalmaz
 
 e) akit pedagógiai előadó vagy pedagógiai szakértő munkakörben alkalmaznak,
 
-f) akit óraadóként foglalkoztatnak.
+f) akit óraadóként foglalkoztatnak,
+
+g) aki pedagógiai szakszolgálati ellátásban részesül és nem tartozik az a)–f) pontban felsoroltak közé.
 
 (4) Egy személynek csak egy oktatási azonosítója lehet, ennek biztosítása érdekében a KIR személyi nyilvántartása, valamint a felsőoktatási információs rendszer hallgatói és alkalmazotti személyi törzsének adatállománya összekapcsolható.
 

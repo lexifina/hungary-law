@@ -1,6 +1,6 @@
 ## 39. A köznevelési intézmény vezetője
 
-68. § (1) Az állami intézményfenntartó központ által fenntartott köznevelési intézmény, többcélú intézmény vezetőjét – nevelési-oktatási intézmény esetében a nevelőtestület, többcélú intézményben az igazgatótanács, a fenntartó, az intézmény székhelye szerint illetékes vagy az intézményt működtető települési önkormányzat, szakképző iskolában a szakképzésért és felnőttképzésért felelős miniszter véleményének kikérésével – az oktatásért felelős miniszter bízza meg öt évre. Az állami köznevelési intézmény, többcélú intézmény vezetője megbízásának visszavonásáról a megbízási jogkör gyakorlója dönt.
+68. § (1) Az állami intézményfenntartó központ által fenntartott köznevelési intézmény, többcélú intézmény vezetőjét – az e törvényben foglalt szervezetek, közösségek, személyek és a fenntartó véleményének kikérésével – az oktatásért felelős miniszter bízza meg öt évre. Az állami köznevelési intézmény, többcélú intézmény vezetője megbízásának visszavonásáról a megbízási jogkör gyakorlója dönt.
 
 (2) Az állami intézményfenntartó központ által fenntartott köznevelési intézmény kivételével az állami fenntartású köznevelési intézmény, továbbá az egyházi köznevelési intézmény és a magán köznevelési intézmény vezetőjét az oktatásért felelős miniszter egyetértésével a fenntartó bízza meg, a munkáltatói jogokat a fenntartó gyakorolja. A miniszter az egyetértését csak jogszabálysértés esetén tagadhatja meg.
 

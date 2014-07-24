@@ -66,6 +66,14 @@ eh) a tanulói jogviszony megszűnésének időpontja és oka,
 
 f) az országos mérés-értékelés adatai.
 
+(4a) A pedagógiai szakszolgálati intézmény – az integrált nyomon követő rendszer (a továbbiakban: INYR) működtetése érdekében – a (4) bekezdésben meghatározott adatokon kívül
+
+a) a szülő, a törvényes képviselő önkéntes adatszolgáltatása alapján a gyermek, a tanuló nemzetiségi hovatartozására vonatkozó adatot,
+
+b) annak a nevelési-oktatási intézménynek a nevét, címét, OM azonosítóját, amellyel a gyermek, a tanuló óvodai nevelési vagy tanulói jogviszonyban, kollégiumi tagsági viszonyban áll, valamint a gyermek, a tanuló által igénybe vett pedagógiai szakszolgálati ellátás 18. § (2) bekezdés szerinti megnevezését
+
+is nyilvántartja.
+
 (5) A (2)–(3) bekezdésben foglalt adatok – az e törvényben meghatározottak szerint, a személyes adatok védelmére vonatkozó célhoz kötöttség megtartásával – továbbíthatók a fenntartónak, a kifizetőhelynek, a bíróságnak, rendőrségnek, ügyészségnek, a közneveléssel összefüggő igazgatási tevékenységet végző közigazgatási szervnek, a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak, a nemzetbiztonsági szolgálatnak.
 
 (6) A köznevelési intézmények az alkalmazottak személyes adatait csak a foglalkoztatással, a juttatások, kedvezmények, kötelezettségek megállapításával és teljesítésével, az állampolgári jogok és kötelezettségek teljesítésével kapcsolatosan, nemzetbiztonsági okokból, az e törvényben meghatározott nyilvántartások kezelése céljából, a célnak megfelelő mértékben, célhoz kötötten kezelhetik. A 63. § (3) bekezdésében meghatározott pedagógusigazolványra jogosultak esetében a pedagógusigazolvány kiállításához szükséges valamennyi adat a KIR adatkezelője, a pedagógusigazolvány elkészítésében közreműködők részére továbbítható.
