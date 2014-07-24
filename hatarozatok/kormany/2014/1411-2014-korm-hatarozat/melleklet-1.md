@@ -6,7 +6,7 @@
 
 ## Határidő: 2014. szeptember 30.
 
-## 2. visszavonja a Kutatási és Technológiai Innovációs Alap felhasználási tervének jóváhagyásáról szóló 1162/2013. (III. 28.) Korm. határozatot.
+## 2.[^1]
 
 1. melléklet az 1411/2014. (VII. 23.) Korm. határozathoz
 
@@ -43,3 +43,5 @@ a Kutatási és Technológiai Innovációs Alapból 2014. évben újonnan meghir
 | 2014. évi új kötelezettség | 2,6 |  |  |
 
 | 2014. évi pályázatok keretösszege: | 9,475 |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
