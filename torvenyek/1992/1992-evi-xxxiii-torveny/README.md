@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-33-00-00
 | 2014-01-01 | 2013. évi CLXXIX. törvény | 1992-33-00-00.90 |
 | 2014-07-01 | 2013. évi CCXLV. törvény | 1992-33-00-00.91 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 1992-33-00-00.92 |
+| 2014-07-24 | 2014. évi XXXVI. törvény | 1992-33-00-00.93 |

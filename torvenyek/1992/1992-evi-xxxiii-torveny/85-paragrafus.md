@@ -76,7 +76,7 @@ cd) a gyakornoki követelmények elveit, a szakmai segítő részletes köteleze
 
 ce) a külön törvényben szabályozott teljesítményértékelés minősítési eredménnyel való egyenértékűsége feltételeit,
 
-cf) pótszabadságra jogosult oktató, nevelő munkát végzők körét,
+cf) a pótszabadságra jogosult nevelő, nevelő-oktató és pedagógiai szakszolgálati tevékenységet végzők körét,
 
 cg) a további szakképzettség, illetve szakképesítés hasznosításának a kötelező óraszámra eső mértékét,
 
