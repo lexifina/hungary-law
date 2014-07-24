@@ -4,7 +4,7 @@
 
 (1a) A vallási tevékenységet végző szervezet által fenntartott magán felsőoktatási intézmény is folytathat hitéleti képzést, amelyre a 91. § (6) és (7) bekezdését, a 92. § (6) bekezdését és a 93. § (1) és (4) bekezdését alkalmazni kell. Ahol e törvény munkaviszonyt említ, azon a magán felsőoktatási intézmény hitéleti képzésén foglalkoztatottak esetén a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjának ilyen jogviszonyát is érteni kell.
 
-(2) A magán felsőoktatási intézmények a 12. § (7) bekezdésben, a 12. § (8) bekezdésben, a 29. § (1) bekezdésben, a 37. § (3), (5)–(6) bekezdésben, a 83. § (1) és (5) bekezdésben foglalt rendelkezésektől a szervezeti és működési szabályzatukban eltérhetnek.
+(2) A magán felsőoktatási intézmények a 12. § (7) és (8) bekezdésében, a 29. § (1) bekezdésében, a 37. § (1) bekezdés e) pontjában, (3)–(6) bekezdésében, a 83. § (1) és (5) bekezdésében foglalt rendelkezésektől a szervezeti és működési szabályzatukban eltérhetnek, azzal hogy a 37. § (1) bekezdésben meghatározottak mellett magasabb vezetőként gazdasági vezetőt foglalkoztatnak. Magán felsőoktatási intézményekben a 13/A. § és a 37. § (4a) bekezdése nem alkalmazható.
 
 (3) A magán felsőoktatási intézmények – feltéve, hogy a Kormány a támogatásra megállapodásban vállalt kötelezettséget – a megállapodásban foglalt feltételek mellett jogosultak a 84. § (2) bekezdésének a)–c), valamint e) és g) pontjában meghatározott támogatásokra. Az e bekezdésben foglaltakat az országos nemzetiségi önkormányzat által fenntartott felsőoktatási intézmény tekintetében is alkalmazni kell.
 
@@ -12,7 +12,7 @@
 
 (5) A magán felsőoktatási intézmény alapító okiratában fel kell tüntetni, hogy tevékenységét közhasznú szervezetként működő felsőoktatási intézményként vagy vállalkozásként végzi.
 
-(6) Ha a magán felsőoktatási intézményben magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgatók létszáma – öt év átlagában – nem éri el a felsőoktatási intézménybe felvett összes hallgatói létszám ötven százalékát, a 73. §-ának (3) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy a fenntartó hagyja jóvá a felsőoktatási intézmény költségvetését, a számviteli rendelkezések alapján elkészített éves beszámolóját, szervezeti és működési szabályzatát, intézményfejlesztési tervét.
+(6) A magán felsőoktatási intézmény alapító okirata a 12. § (3) bekezdésében és a 73. § (3) bekezdésében foglaltaktól eltérően úgy is rendelkezhet, hogy a fenntartó hagyja jóvá a felsőoktatási intézmény költségvetését, a számviteli rendelkezések alapján elkészített éves beszámolóját, szervezeti és működési szabályzatát, intézményfejlesztési tervét.
 
 (7) A felsőoktatási intézmény a 75. § (1) bekezdés szerint jogosult bírósági eljárást kezdeményezni.
 

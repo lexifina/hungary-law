@@ -2,4 +2,4 @@
 
 (2) A jogutód nélküli megszűnés esetén a vagyon a felsőoktatási intézmény fenntartóját illeti meg.
 
-(3) Az oktatási hivatal a felsőoktatási intézmény, átalakulásával, kapcsolatos jogerős határozatát a Kormány által meghatározottak szerint, továbbá a miniszter által vezetett minisztérium honlapján közzéteszi.
+(3) Az oktatási hivatal a felsőoktatási intézmény átalakulásával kapcsolatos jogerős határozatát a Kormány által meghatározottak szerint, továbbá a miniszter által vezetett minisztérium honlapján közzéteszi.

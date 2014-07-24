@@ -28,7 +28,7 @@ haladéktalanul igazolja.
 
 a) a megbízott a (5) bekezdés b) pontjában foglalt kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt munkanapon belül sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye,
 
-b) ha az (4) bekezdésben meghatározott kizáró ok fennállását a rektor az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalma alapján megállapítja.
+b) a (4) bekezdésben meghatározott kizáró ok fennállását a rektor megállapítja.
 
 (8) A rektor a (5) bekezdésben meghatározottak alapján megismert személyes adatokat – a kizáró ok fennállásának megállapítása céljából –
 

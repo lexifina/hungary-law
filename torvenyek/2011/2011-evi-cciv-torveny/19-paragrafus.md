@@ -14,7 +14,7 @@ d) oklevél-nyilvántartás, ami a felsőoktatási intézmények által a felső
 
 e) a végzett hallgatók pályakövetési rendszere, amely a felsőoktatási információs rendszert alkotó alrendszerekből, valamint az intézményi nyilvántartásokból – személyazonosításra alkalmatlan módon – szolgáltatott adatokból álló, csoportosított adatokat, kimutatásokat szolgáltat,
 
-f) az állami oktatásirányítást, illetve a fenntartói irányítást támogató ágazati vezetői információs rendszer, amely a felsőoktatási információs rendszert alkotó alrendszerekből, valamint az intézményi nyilvántartásokból – személyazonosításra alkalmatlan módon – szolgáltatott adatokból álló, csoportosított adatokat, kimutatásokat szolgáltat.
+f) az állami oktatásirányítást, illetve a fenntartói irányítást támogató ágazati vezetői információs rendszer, amely a felsőoktatási információs rendszert alkotó alrendszerekből, valamint az intézményi nyilvántartásokból – törvény eltérő rendelkezése hiányában személyazonosításra alkalmatlan módon – szolgáltatott adatokból álló, csoportosított adatokat, kimutatásokat szolgáltat.
 
 (3) A felsőoktatási információs rendszerbe – kormányrendeletben meghatározottak szerint – kötelesek adatot szolgáltatni a felsőoktatási intézmények, az intézményfenntartók.
 

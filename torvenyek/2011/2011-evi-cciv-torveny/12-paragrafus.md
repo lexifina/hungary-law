@@ -12,7 +12,7 @@ b) állapítja meg saját működésének rendjét;
 
 c) fogadja el – középtávra, legalább négyéves időszakra, évenkénti bontásban meghatározva a végrehajtás feladatait – az intézményfejlesztési tervet, illetve annak részeként a kutatási-fejlesztési innovációs stratégiát;
 
-d) véleményezi a rektori pályázatokat, továbbá értékeli a rektor vezetői tevékenységét;
+d) javaslatot tesz a rektori pályázati felhívás tartalmára, elbírálja a rektori pályázatokat és megválasztja a rektorjelöltet, továbbá értékeli a rektor vezetői tevékenységét;
 
 e) fogadja el az intézmény
 
@@ -38,11 +38,11 @@ ga) fejlesztés indításáról,
 
 gb) az intézmény vagyongazdálkodási tervéről,
 
-gc) gazdálkodó szervezet alapításáról, gazdálkodó szervezetben részesedés szerzéséről, gazdálkodó szervezettel történő együttműködésről;
+gc) gazdálkodó szervezet alapításáról, gazdálkodó szervezetben részesedés szerzéséről;
 
 h) a szenátus dönt továbbá
 
-ha) együttműködési megállapodás megkötéséről,
+ha)
 
 hb) a tudományos tanács létrehozásáról, tagjainak és elnökének megválasztásáról,
 
@@ -60,7 +60,7 @@ hf) képzés indításának, illetve megszüntetésének kezdeményezéséről.
 
 (6) A szenátus tagja – a hallgatói és a doktorandusz önkormányzat képviselői kivételével – az lehet, aki a felsőoktatási intézményben munkaviszony, illetve közalkalmazotti jogviszony keretében oktatói, kutatói vagy egyéb munkakört tölt be.
 
-(7) Az állami felsőoktatási intézményben a szenátus tagjai – a rektor, gazdasági vezető kivételével – választás útján nyerik el megbízatásukat. A szenátus működésével kapcsolatos minden kérdést a felsőoktatási intézmény szervezeti és működési szabályzatában kell meghatározni, a következők figyelembevételével:
+(7) Az állami felsőoktatási intézményben a szenátus tagjai – a rektor, kancellár kivételével – választás útján nyerik el megbízatásukat. A szenátus működésével kapcsolatos minden kérdést a felsőoktatási intézmény szervezeti és működési szabályzatában kell meghatározni, a következők figyelembevételével:
 
 a) a szenátus létszáma nem lehet kevesebb kilenc főnél, továbbá az oktatók és kutatók által választott tagoknak – az elnökkel együtt – a testület tagjainak többségét kell alkotniuk, a karok, a vezetői megbízással nem rendelkező oktatók képviseletét biztosítani kell,
 
@@ -82,4 +82,4 @@ i) a szenátus üléseiről jegyzőkönyvet kell készíteni, a szenátus dönt�
 
 j) a szenátus üléséről az ülés időpontja, a napirend megküldésével előzetesen a fenntartó képviselőjét tájékoztatni kell, a fenntartó képviselője az ülésen tanácskozási joggal részt vehet.
 
-(8) Nem ruházhatók át a (3) bekezdés a–g) és ha)–hb) valamint hd), hf) pontjában meghatározott jogkörök
+(8) Nem ruházhatók át a (3) bekezdés a–g) és hb) valamint hd), hf) pontjában meghatározott jogkörök

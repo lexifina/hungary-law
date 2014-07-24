@@ -4,4 +4,4 @@
 
 (3) A miniszter beszerzi a MAB újabb szakértői véleményét abban az esetben, ha a felsőoktatási intézmény rektorának javaslata nincs összhangban a MAB szakértői véleményében foglaltakkal. Ha a rektor javaslata és a MAB szakértői véleménye összhangban áll, a miniszter kezdeményezi az egyetemi tanári kinevezést a köztársasági elnöknél. Ha a rektor javaslata és a MAB szakértői véleménye nincs összhangban, a miniszter mérlegelheti, hogy kezdeményezi-e az egyetemi tanári kinevezést.
 
-(4) Az (1) bekezdés szerinti eljárásban a MAB a jogszabályban foglaltakon kívül értékeli a jelölt oktatói, tudományos, illetve művészeti eredményeit.
+(4) Az (1) bekezdés szerinti eljárásban a MAB a jogszabályban foglaltakon kívül értékeli a jelölt oktatói, tudományos, illetve művészeti, sporttudományi eredményeit.

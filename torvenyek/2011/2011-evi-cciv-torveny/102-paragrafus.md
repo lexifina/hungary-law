@@ -22,7 +22,7 @@ d) az általános iskolai tanárképzés osztatlan képzésben szervezhető, a k
 
 e) a középiskolai tanárképzés osztatlan képzésben – a Kormány által meghatározott esetben osztott képzésként – szervezhető, a képzés időtartama tíz félév, amelyet követően – hallgatói jogviszonyban – két félév iskolai gyakorlatot kell teljesíteni, a középiskolai tanárképzés során mesterfokozat szerezhető.
 
-(3) A képzésben részt vevőket a Kormány – az állami ösztöndíj mellett – pályázati eljárásban odaítélt pedagógus ösztöndíjjal támogatja. Az ösztöndíj igénybevételének rendjét, feltételeit a Kormány rendeletben állapítja meg.
+(3) A képzésben részt vevőket a Kormány – az állami ösztöndíj mellett – pályázati eljárásban odaítélt Klebelsberg Képzési Ösztöndíjjal támogatja. Az ösztöndíj igénybevételének rendjét, feltételeit a Kormány rendeletben állapítja meg.
 
 (4) A pedagóguspályára jelentkezőknek a felvételi eljárás keretében alkalmassági vizsgán kell részt venniük.
 

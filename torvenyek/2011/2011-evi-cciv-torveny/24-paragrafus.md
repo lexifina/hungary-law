@@ -24,7 +24,7 @@ a) 40. § (5) bekezdésében foglaltaktól eltérően a rektor számára a jutal
 
 b) 30/A. § (1) bekezdés b–c) pontja, valamint 30/B–30/E. §-a szerinti munkakör-felajánlási, illetve az ahhoz kapcsolódó nyilvántartási kötelezettséget a költségvetési szervként működő felsőoktatási intézmények vonatkozásában nem kell alkalmazni,
 
-c) 67. § (2) bekezdésében foglaltakat a rektor tekintetében azzal az eltéréssel kell alkalmazni, hogy – a fenntartó egyetértésével – a szenátus határozza meg az illetménykiegészítés feltételeit, mértékét,
+c)
 
 d) 69. §-ában foglaltaktól kormányrendelet a magasabb vezető vezetői illetménypótlékának számítási alapja tekintetében eltérhet,
 

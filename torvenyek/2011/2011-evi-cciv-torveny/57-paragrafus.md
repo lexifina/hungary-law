@@ -4,7 +4,7 @@
 
 a) a hallgatói önkormányzathoz fordulhat jogi segítségnyújtásért,
 
-b) igénybe veheti az oktatásügyi közvetítői szolgálatot,
+b)
 
 c) jogorvoslati kérelmet terjeszthet elő, melyet a felsőoktatási intézmény a jelen törvényben írtak szerint köteles elbírálni,
 

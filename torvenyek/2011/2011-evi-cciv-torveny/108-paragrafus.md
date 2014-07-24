@@ -4,6 +4,8 @@
 
 1. doktori értekezés: a doktorjelölt által készített írásmű, alkotás vagy munka, amellyel a doktorjelölt – a doktori fokozatszerzési eljárás során – bizonyítja, hogy a fokozat követelményeihez mért tudományos feladat önálló megoldására képes;
 
+1. a. duális képzés: a műszaki, informatika, agrár, természettudomány vagy gazdaságtudományok képzési területen indított gyakorlatigényes alapképzési szakon, illetve e képzési területhez tartozó mesterképzési szakon folytatott képzés azon formája, amelyben a szak – képzési és kimeneti követelményeknek megfelelően meghatározott, teljes idejű, a képzési időszakra, a képzés módszereire, a tanórára, a megszerzett tudás értékelésére egyedi rendelkezéseket tartalmazó – tanterve szerint a gyakorlati képzés a Duális Képzési Tanács által meghatározott keretek között, minősített szervezetnél folyik;
+
 2. egészségügyi alkalmassági vizsgálat: orvosi vizsgálat, amelynek célja annak megállapítása, hogy az egyén testi adottságai és egészségi állapota alapján képes-e felkészülni a választott tevékenység ellátására, ennek során nem kerül-e veszélybe egészsége;
 
 3. esti képzés munkarendje: olyan oktatásszervezési rend, mely szerint a hallgatók tanóráira a szorgalmi időszakban munkanapokon tizenhat óra után vagy a heti pihenőnapon kerül sor;
@@ -16,11 +18,11 @@
 
 7. habilitáció: a habilitáció az oktatói és az előadói képesség, valamint a tudományos teljesítmény intézményi megítélése;
 
-8. hallgatói ösztöndíjszerződés: a Magyar Állam és a magyar állami (rész)ösztöndíjjal támogatott képzésre besorolást nyert hallgató között a 28/A. alcím szerinti tartalommal létrejövő szerződés;
+8. hallgatói képzési szerződés: a felsőoktatási intézmény és az önköltséges képzésre besorolást nyert hallgató között a 39. § (3) bekezdése szerint létesített szerződés;
 
-9. halmozottan hátrányos helyzetű hallgató: az a hátrányos helyzetű hallgató, akinek a tankötelessé válásának időpontjában törvényes felügyeletét ellátó szülője – a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben szabályozott eljárásban tett önkéntes szülői nyilatkozat szerint – legfeljebb alapfokú iskolai végzettséggel rendelkezett, valamint az, akit tartós nevelésbe vettek, és aki tartós nevelését követően utógondozói ellátásban részesült;
+9. halmozottan hátrányos helyzetű: az a beiratkozás (jelentkezés) időpontjában huszonötödik életévét be nem töltött személy, aki a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározottak szerint halmozottan hátrányos helyzetűnek minősül;
 
-10. hátrányos helyzetű hallgató (jelentkező): az a beiratkozás (jelentkezés) időpontjában huszonötödik életévét be nem töltött személy, akit középfokú, iskolarendszerű szakképzési vagy felsőoktatási tanulmányai alatt családi körülményei, szociális helyzete okán a jegyző illetve a gyámhatóság védelembe vett, illetve aki után rendszeres gyermekvédelmi támogatást folyósítottak, aki rendszeres gyermekvédelmi kedvezményre jogosult vagy akit átmeneti vagy tartós nevelésbe vettek, ideiglenes hatályú intézeti elhelyezésben részesült, feltéve hogy a beiratkozást (felsőoktatási felvételi jelentkezési kérelem benyújtását) közvetlenül megelőző jogosultsági időszakban – az utolsó középfokú vagy szakképzési évfolyamon vagy az utolsó aktív félévben – a jogcím fennállt; a felsőoktatási felvételi eljárásban hátrányos helyzetű jelentkezőnek minősül az a személy is, aki tartós nevelt vagy tartós nevelését követően utógondozói ellátásban részesült;
+10. hátrányos helyzetű: az a beiratkozás (jelentkezés) időpontjában huszonötödik életévét be nem töltött személy, aki a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározottak szerint hátrányos helyzetűnek minősül;
 
 11. intézet: több tanszék tevékenységét összefogó vagy több tanszék feladatait ellátó szervezeti egység;
 

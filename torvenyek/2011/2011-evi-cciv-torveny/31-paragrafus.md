@@ -18,7 +18,7 @@ a) nem teljesítette a foglalkoztatási követelményrendszerben meghatározotta
 
 b) nem teljesítette azokat a munkakör betöltéséhez szükséges feltételeket, amelyeket a munkáltató – megfelelő határidő biztosításával – a munkaszerződésben vagy a kinevezési okmányban előírt,
 
-c) a 26. § (3) bekezdés szerinti nyilatkozata alapján az intézmény működési feltételeinek mérlegelése során, illetve a felsőoktatási intézmény támogatásának megállapítása során az intézményben nem vehető figyelembe. E pont esetében a Munka Törvénykönyve és a közalkalmazottak jogállásáról szóló törvény munkaviszonyra, illetve közalkalmazotti jogviszonyra vonatkozó rendelkezései közül a felmondási, illetve felmentési időre, illetve a végkielégítésre vonatkozó rendelkezéseket nem kell alkalmazni.
+c) a 26. § (3) bekezdés szerinti nyilatkozata alapján az intézmény működési feltételeinek mérlegelése során az intézményben nem vehető figyelembe. E pont esetében a munka törvénykönyve és a közalkalmazottak jogállásáról szóló törvény munkaviszonyra, illetve közalkalmazotti jogviszonyra vonatkozó rendelkezései közül a felmondási, illetve felmentési időre, illetve a végkielégítésre vonatkozó rendelkezéseket nem kell alkalmazni.
 
 (6) A munkáltató megszünteti a főiskolai tanári, illetve az egyetemi tanári munkakörben történő foglalkoztatást, ha a miniszterelnök a főiskolai tanárt, a köztársasági elnök az egyetemi tanárt – a munkaköri címhez fűződő jogát megvonva – felmentette. A főiskolai tanár, illetve az egyetemi tanár munkaköri címének megvonására irányuló eljárást a 29. § (3) bekezdésben meghatározott rend szerint a rektor kezdeményezi.
 

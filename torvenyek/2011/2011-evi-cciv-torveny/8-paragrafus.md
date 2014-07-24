@@ -8,4 +8,8 @@
 
 (5) A felsőoktatási intézmény – az alapító okiratában meghatározottak szerinti feladatainak ellátásához – intézményt, szervezeti egységet hozhat létre és tarthat fenn.
 
-(6) A felsőoktatási képzésben részt vevő hallgatók elhelyezését szolgáló szervezet (kollégium, diákotthon) – felsőoktatási intézménnyel kötött megállapodás alapján – elláthatja a felsőfokú tanulmányok megkezdését elősegítő felkészítés feladatait, részt vehet a felsőfokú képzésben is, és szakkollégiumként is működhet.
+(6) A felsőoktatási képzésben részt vevő hallgatók elhelyezését szolgáló szervezet (kollégium, diákotthon) – felsőoktatási intézményhez szervezetileg nem tartozó intézmény esetén felsőoktatási intézménnyel kötött megállapodás alapján – elláthatja a felsőfokú tanulmányok megkezdését elősegítő felkészítés feladatait, részt vehet a felsőfokú képzésben is, és szakkollégiumként is működhet.
+
+(7) A hallgatók lakhatási feltételeinek biztosításához felsőoktatási intézmény részeként kollégium működtethető, illetve a felsőoktatási intézményhez szervezetileg nem tartozó intézményként diákotthon hozható létre. A diákotthon – az alapítótól függően költségvetési szervként vagy nem költségvetési szervként működő – jogi személy.
+
+(8) Diákotthon alapítója egyházi vagy magán felsőoktatási intézmény lehet, valamint az, aki felsőoktatási intézményt alapíthat.

@@ -10,7 +10,7 @@
 
 (3) A fenntartó
 
-a) saját hatáskörben – állami felsőoktatási intézmény esetén az államháztartásról szóló törvényben írt egyetértéshez nem kötött intézkedésével – kiadja, illetve módosítja a felsőoktatási intézmény alapító okiratát;
+a) saját hatáskörben – állami felsőoktatási intézmény esetén az államháztartásról szóló 2011. évi CXCV. törvényben (a továbbiakban: az államháztartásról szóló törvény) írt egyetértéshez nem kötött intézkedésével – kiadja, illetve módosítja a felsőoktatási intézmény alapító okiratát;
 
 b) közli a felsőoktatási intézmény költségvetésének kereteit (főösszegeit) és értékeli a számviteli rendelkezések alapján elkészített éves beszámolóját;
 
@@ -30,7 +30,7 @@ db) a szakmai munka eredményességét;
 
 e) kezdeményezi a rektor megbízását és felmentését, továbbá gyakorolja felette a munkáltatói jogokat;
 
-f) megbízza a gazdasági vezetőt – költségvetési szervként működő felsőoktatási intézmény esetén a belső ellenőrzési vezetőt – illetve visszavonja a megbízását,
+f) nem állami felsőoktatási intézményben megbízza a gazdasági vezetőt, illetve visszavonja a megbízását;
 
 g) gondoskodik a költségvetési szervként működő felsőoktatási intézmény éves költségvetési beszámolójának ellenőrzéséről,
 
@@ -38,7 +38,11 @@ h) hozzájárulása szükséges a felsőoktatási intézmény
 
 ha) hatáskörében történő rendszeres pénzjuttatással járó cím, elismerés alapításához,
 
-hb) éves képzési tevékenységének – különösen az indított szakok, a képzés megszervezésének módozatai, a tervezett szakos hallgatói kapacitás – kialakításához.
+hb) éves képzési tevékenységének – különösen az indított szakok, a képzés megszervezésének módozatai, a tervezett szakos hallgatói kapacitás – kialakításához;
+
+i) a felsőoktatási intézmény működése, gazdálkodása ellenőrzése céljából jogosult az intézmény tanulmányi, gazdálkodási, illetve egyéb nyilvántartási adataihoz való hozzáférésre a 3. mellékletben foglaltak szerint;
+
+j) jóváhagyásával határozza meg a felsőoktatási intézmény az intézményben folytatott képzés költségét.
 
 (4) A fenntartó a szervezeti és működési szabályzat egységességét, teljességét, törvényességét, hatékonyságnak való megfelelőségét vizsgálja.
 

@@ -2,7 +2,7 @@
 
 78. § (1) Magyar felsőoktatási intézmény Magyarország területén kívül – ha az adott ország jogrendje lehetővé teszi – kormányrendeletben meghatározottak szerint székhelyen kívüli képzést szervezhet. A képzés nyilvántartásba vételére a 67. § (4) bekezdésében foglaltakat kell alkalmazni.
 
-(2) Az (1) bekezdés szerinti felsőoktatási intézmény működéséhez a magyar állam – jogszabályban meghatározott normatív támogatással, nemzetközi szerződés, munkaterv szerint, illetve pályázati úton vagy megállapodás alapján – hozzájárulhat. A pályázatot a miniszter írhatja ki, megállapodást a miniszter köthet.
+(2) Az (1) bekezdés szerinti felsőoktatási intézmény működéséhez a magyar állam – jogszabályban meghatározott támogatással, nemzetközi szerződés, munkaterv szerint, illetve pályázati úton vagy megállapodás alapján – hozzájárulhat. A pályázatot a miniszter írhatja ki, megállapodást a miniszter köthet.
 
 (3) Magyar felsőoktatási intézmény külföldi felsőoktatási intézménnyel a következő feltételek együttes fennállása esetén folytathat magyar és külföldi, vagy közös oklevél kiállításához vezető közös képzést:
 

@@ -18,7 +18,11 @@
 
 ## g) gyermekgondozási díj folyósításának időtartamára vonatkozó adatai,
 
+## g) a személyiadat- és lakcímnyilvántartásból való kikerülésének oka és időpontja,
+
 ## h) megváltozott munkaképességre, valamint ennek időtartamára vonatkozó adatai,
+
+## h) állampolgársága,
 
 ## i) elektronikus levelezési címe,
 
@@ -54,13 +58,13 @@
 
 ## b) a nemzetbiztonsági szolgálat részére valamennyi adat.
 
-## 6. A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a nyilvántartott személyek azonosítása és a változások követése, ellenőrzése céljából térítésmentesen, elektronikus úton az 1. pont szerinti, az adott szerv által nyilvántartott adatot igényelheti a személyiadat- és lakcímnyilvántartás központi szervétől, a munkaügyi központoktól és kirendeltségeitől, a kincstártól, az egészségbiztosítási szervtől, a nyugdíjbiztosítási igazgatási szervtől, a felsőoktatási információs rendszer működéséért felelős szervtől és az adóhatóságtól.
+## 6. A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a nyilvántartott személyek azonosítása és a változások követése, ellenőrzése céljából térítésmentesen, elektronikus úton az 1. pont szerinti, az adott szerv által nyilvántartott adatot igényelheti a személyiadat- és lakcímnyilvántartás központi szervétől, az állami foglalkoztatási szervtől a kincstártól, az egészségbiztosítási szervtől, a nyugdíjbiztosítási igazgatási szervtől, a felsőoktatási információs rendszer működéséért felelős szervtől és az adóhatóságtól.
 
 ## A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a (volt) állami (rész)ösztöndíjas hallgató természetes személyazonosító adatait és lakcímét azonosítás céljából elektronikus úton megküldi a személyiadat- és lakcímnyilvántartás központi szervének. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartás központi szerve kapcsolati kódot képez, amelyet azonosítás céljából megküld a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek. A személyiadat- és lakcímnyilvántartás központi szerve az azonosított természetes személy természetes személyazonosító adatainak és lakcímének a személyiadat- és lakcímnyilvántartásban bekövetkezett változásáról a kapcsolati kódon értesíti a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervet.
 
-## 7. A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv azonosítás és a változások követése, ellenőrzése céljából történő adatigényléshez a személyiadat- és lakcímnyilvántartás központi szervének, a munkaügyi központoknak és kirendeltségeiknek, a kincstárnak, az egészségbiztosítási szervnek, a nyugdíjbiztosítási igazgatási szervnek a felsőoktatási információs rendszer működéséért felelős szervnek és az adóhatóságnak megküldheti a nyilvántartott személyek természetes személyazonosító adatait, továbbá adóazonosító jelét és társadalombiztosítási azonosító jelét. A sikeres azonosítást követően
+## 7. A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv azonosítás és a változások követése, ellenőrzése céljából történő adatigényléshez a személyiadat- és lakcímnyilvántartás központi szervének, az állami foglalkoztatási szervnek, a kincstárnak, az egészségbiztosítási szervnek, a nyugdíjbiztosítási igazgatási szervnek, a felsőoktatási információs rendszer működéséért felelős szervnek és az adóhatóságnak megküldheti a nyilvántartott személyek természetes személyazonosító adatait, továbbá adóazonosító jelét és társadalombiztosítási azonosító jelét. A sikeres azonosítást követően
 
-## a) a személyiadat- és lakcímnyilvántartás központi szerve a (volt) magyar állami ösztöndíjas hallgató nevére, születési nevére, lakcímére (lakóhely és tartózkodási hely),
+## a) a személyiadat- és lakcímnyilvántartás központi szerve a (volt) magyar állami ösztöndíjas hallgató nevére, születési nevére, lakcímére (lakóhely és tartózkodási hely) a személyiadat- és lakcímnyilvántartásból kikerülés okára és időpontjára, állampolgárságára,
 
 ## b) a munkaügyi központok és kirendeltségeik a (volt) magyar állami ösztöndíjas hallgatónak a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra,
 
@@ -68,7 +72,7 @@
 
 ## d) az egészségbiztosítási szerv a terhességi-gyermekágyi segélynek és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
 
-## e) a felsőoktatási információs rendszer működéséért felelős szerv a (volt) magyar állami ösztöndíjas hallgató természetes személyazonosító adataira, adóazonosító jelére, társadalombiztosítási azonosító jelére, elektronikus levelezési címére, felsőoktatási képzésére, a hallgatói jogviszonyára, a jelentkező természetes személyazonosító adataira, felsőoktatási képzésére, elektronikus levelezési címére,
+## e) a felsőoktatási információs rendszer működéséért felelős szerv a (volt) magyar állami ösztöndíjas hallgató természetes személyazonosító adataira, adóazonosító jelére, társadalombiztosítási azonosító jelére, elektronikus levelezési címére, felsőoktatási képzésére, a hallgatói jogviszonyára, a jelentkező természetes személyazonosító adataira, felsőoktatási képzésére, lakcímére,
 
 ## f) az adóhatóság a (volt) magyar állami ösztöndíjas hallgatónak hazai munkaviszony(ok) létesítésére és időtartamára,
 

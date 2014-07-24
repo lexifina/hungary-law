@@ -16,9 +16,9 @@
 
 a) a doktori szabályzat alapján előírt kötelezettségek teljesítése, továbbá a doktori szigorlat – legalább háromtagú – vizsgabizottság előtt történő eredményes letétele;
 
-b) két idegen nyelv – ideértve a nem magyar jelnyelv elfogadásának a lehetőségét siket doktorjelölt esetében, valamint a tudományterület műveléséhez szükséges – ismeretének a doktori szabályzatban meghatározottak szerinti igazolása;
+b) két idegen nyelv a tudományterület műveléséhez szükséges ismeretének a doktori szabályzatban meghatározottak szerinti igazolása, amely siket doktorjelölt esetében a nem magyar jelnyelv ismeretének az igazolásával is történhet;
 
-c) az önálló tudományos munkásság bemutatása cikkekkel, tanulmányokkal vagy más módon, művészeti (DLA-) fokozat megszerzésének feltételeként önálló művészeti alkotótevékenység eredményeinek bemutatása;
+c) az önálló tudományos munkásság, sporttudományi tevékenység bemutatása cikkekkel, tanulmányokkal vagy más módon, művészeti (DLA-) fokozat megszerzésének feltételeként önálló művészeti alkotótevékenység eredményeinek bemutatása;
 
 d) a fokozat követelményeihez mért tudományos, illetve művészeti feladat önálló megoldása; értekezés, alkotás bemutatása; az eredmények megvédése nyilvános vitában.
 

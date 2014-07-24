@@ -32,7 +32,7 @@ b) a felsőoktatásban jelentkező képzési, oktatási problémák vizsgálata,
 
 c) a felsőoktatásban folyó kutatásokhoz szükséges szervezeti és anyagi feltételek biztosítása,
 
-d) új képzési, oktatási módszerek, megoldások, szervezeti formák elterjedésének, az intézményi hálózatfejlesztések támogatása,
+d) új képzési, oktatási módszerek, megoldások, szervezeti formák, az intézményi hálózatfejlesztések támogatása,
 
 e) a felsőoktatási szakképzésben, az alapképzésben és a mesterképzésben a képzési szakok szerkezetének felülvizsgálata,
 
@@ -43,3 +43,5 @@ f) a felsőoktatás és a gazdaság kapcsolatának legalább háromévenkénti �
 (5) A miniszter a szenátus kezdeményezésére köztársasági ösztöndíjat adományoz a kimagasló teljesítményt nyújtó hallgatók részére.
 
 (6) A miniszter, különösen az állami hatáskörök ellátásában közreműködő testületek, az oktatási hivatal indítványára – a 65. §-ban meghatározottak szerint – kezdeményezi a bíróságnál a felsőoktatási intézmény által megszervezett vizsga eredményének, a kiállított bizonyítványnak, oklevélnek érvénytelenné nyilvánítását.
+
+(7) Ha a főiskolai, vagy egyetemi tanár kinevezésére vonatkozó javaslatra a Magyar Tudományos Akadémia – művészeti területen a Magyar Művészeti Akadémia, sporttudományi területen a Magyar Olimpiai Bizottság – kezdeményezésére kerül sor, a miniszter a (2) bekezdés c) pontja szerinti intézkedését a 28. § (3)–(5) bekezdésében meghatározott személyi feltételek teljesítését követően hozza meg.

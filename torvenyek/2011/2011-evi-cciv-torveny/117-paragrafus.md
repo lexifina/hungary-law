@@ -10,6 +10,6 @@
 
 (6) A 2005. évi felsőoktatási törvény 2. számú melléklet II/C. rész 1. ah) és ai) pontjai alapján nyilvántartott személyes adatok a hallgatói jogviszony megszűnését követő öt évig – e törvény hatálybalépését követően – továbbra is nyilvántarthatók.
 
-(7) Az e törvény 84. §-ban meghatározott finanszírozási rend szerint először a 2013. évi költségvetést kell összeállítani.
+(7)
 
-(8) Az állami fenntartású felsőoktatási intézményben 2012. december 31-én működő gazdasági tanács, valamint a gazdasági tanács elnökének és tagjainak megbízása 2013. január 1-jén megszűnik.
+(8)

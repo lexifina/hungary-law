@@ -6,4 +6,4 @@ a) megtartsa a felsőoktatási intézmény szabályzataiban foglaltakat,
 
 b) tiszteletben tartsa a felsőoktatási intézmény hagyományait.
 
-(3) A hallgató a felsőoktatási intézmény irányában teljesítendő fizetési kötelezettségének teljesítéséhez részletfizetési kedvezményre, halasztásra, mentességre a szervezeti és működési szabályzatban foglalt feltételek és eljárás szerint a rektor döntése alapján jogosult.
+(3) A hallgató a felsőoktatási intézmény irányában teljesítendő fizetési kötelezettségének teljesítéséhez részletfizetési kedvezményre, halasztásra, mentességre a szervezeti és működési szabályzatban foglalt feltételek és eljárás szerint a rektornak – a fenntartó tájékoztatása mellett meghozott – döntése alapján jogosult.

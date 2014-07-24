@@ -12,4 +12,4 @@
 
 (7) Ha a hallgató párhuzamos képzésben folytatja tanulmányait, vagy egymást követően több oklevelet szerez, a 48/A. § b) és d) pontja szerinti kötelezettséget az első oklevél megszerzésének időpontjától kell számítani, és képzésenként teljesíteni kell.
 
-(8) A 48/A. § a) pontjában meghatározott kötelezettség a szakváltást nem korlátozza. Szakváltás esetén a feltételek teljesítése szempontjából az újabb szak képzési ideje irányadó.
+(8) A 48/A. § a) pontjában meghatározott kötelezettség a szakváltást nem korlátozza. A szakváltás történhet a képzés munkarendjének, nyelvének, helyének megváltoztatásával, átvétellel, felvételi eljárás útján. A felvételi eljárás útján történő szakváltás az oklevél szerzése nélkül befejezett felsőoktatási képzést követő egy éven belül teljesített beiratkozással lehetséges. Szakváltás esetén a feltételek teljesítése szempontjából az újabb szak képzési ideje, képzési költsége az irányadó.

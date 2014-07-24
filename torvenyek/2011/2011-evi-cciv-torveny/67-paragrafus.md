@@ -20,11 +20,13 @@ c) a képzések indításával,
 
 d) a felvehető maximális hallgatói létszám megállapításával és módosításával,
 
-e) a doktori iskola létesítésével, megszűnésével,
+e) a doktori iskola létesítésével,
 
-f) a diákotthonok nyilvántartásba vételével
+f) a doktori iskola megszűnésével,
 
-g) felsőoktatási szakkollégiumok nyilvántartásba vételével
+g) a diákotthonok nyilvántartásba vételével,
+
+h) felsőoktatási szakkollégiumok nyilvántartásba vételével
 
 kapcsolatos ügyekben.
 

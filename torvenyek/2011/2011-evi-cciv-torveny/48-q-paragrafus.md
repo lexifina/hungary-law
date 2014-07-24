@@ -7,3 +7,5 @@ b) ötmillió forint feletti összegű állami ösztöndíj visszatérítési k�
 részletfizetést engedélyez.
 
 (2) A fizetési kötelezettség az esedékességet megelőzően is teljesíthető.
+
+(3) A részletfizetés ideje alatt megvalósuló – 48/M. § (1) bekezdés, illetve 48/O. § szerinti – körülmény, a mentesség megállapításának időpontjában még fennálló kötelezettség teljesítésére vonatkozik.

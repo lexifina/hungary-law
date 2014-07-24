@@ -40,6 +40,6 @@ b) a közép- és hosszú távú munkaerő-piaci előrejelzéseket,
 
 c) a végzett hallgatók pályakövetési adatait és
 
-d) a képzési területen alap- és osztatlan képzésben indított szakok arányát.
+d)
 
 (7) A miniszter évente, a felvétel időpontját megelőző év december 31. napjáig teljes körű tájékoztatást tesz közzé, amely a felvételi eljárások vonatkozásában tartalmaz minden, a jelentkezések benyújtásához szükséges információt.

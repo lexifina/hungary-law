@@ -1,3 +1,3 @@
 114/B. § (1) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított 73. § (3) bekezdés h) pontját a felsőoktatási intézmény által 2013. január 1-jét megelőzően saját hatáskörben alapított és adományozott címek, elismerések tekintetében is alkalmazni kell. Fenntartói hozzájárulás hiányában 2013. január 1-jét követően – a felsőoktatási intézmény által saját hatáskörben alapított, adományozott címre elismerésre tekintettel – rendszeres pénzjuttatás nem folyósítható.
 
-(2) E törvénynek a Magyarország 2014. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2013. évi CCIII. törvénnyel megállapított 75. § (4) bekezdés b) pontját a 2014. január 1-jén vezetői megbízással rendelkező gazdasági vezetőkre, valamint belső ellenőrzési vezetőkre, illetve gazdasági vezetői, belső ellenőrzési vezetői megbízásokra 2014. január 1-jéig kiírt és el nem bírált pályázatokra is alkalmazni kell.
+(2)

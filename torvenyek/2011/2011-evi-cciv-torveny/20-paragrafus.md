@@ -4,8 +4,6 @@
 
 ## 11. A felsőoktatási intézmények átalakulása
 
-20. § (1) A felsőoktatási intézmények tevékenységének összehangolása céljából az intézményeket egyesíteni lehet (a továbbiakban: egyesülés). Az egyesülésről a szenátusok előzetes véleményének ismeretében a fenntartó hoz döntést.
+20. § (1) A felsőoktatási intézmények tevékenységének összehangolása céljából az intézményeket át lehet alakítani. Az átalakulás egyesülés vagy különválás lehet. Az egyesülés beolvadás vagy összeolvadás, a különválás szétválás vagy kiválás lehet. Az átalakulásról a szenátus vagy a szenátusok előzetes véleményének ismeretében a fenntartó hoz döntést.
 
-(2) Az egyesüléssel érintett felsőoktatási intézmények azonos számú tagot delegálnak az előkészítő bizottságba. A bizottság tagja a miniszter egy képviselője, továbbá állami fenntartású intézmény esetén az állami vagyon felügyeletéért felelős miniszter egy képviselője.
-
-(3) Az egyesülés eredményeképpen új felsőoktatási intézmény jön létre, amely jogutódja az egyesüléssel érintett felsőoktatási intézményeknek. Az új intézmény létesítésével kapcsolatos eljárást le kell folytatni azzal, hogy amennyiben az alaptevékenység keretében ellátott feladatok köre, továbbá az intézményi működés feltétele nem változik, a működés engedélyezésére szakértői vélemény bekérése nélkül kerül sor.
+(2) A Kormány külön engedélye hiányában költségvetési szervként működő felsőoktatási intézmény vagy annak kiváló szervezeti egysége kizárólag költségvetési szervvel egyesülhet.
