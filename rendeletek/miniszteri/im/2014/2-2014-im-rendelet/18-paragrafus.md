@@ -1,0 +1,1 @@
+## 17. § Az egyéni listás és az egyéni választókerületi jelöltet, a polgármesterjelöltet és a főpolgármester-jelöltet legkésőbb 2014. szeptember 8-án 16.00 óráig kell bejelenteni. [Ve. 307/G. § (1) bekezdés]

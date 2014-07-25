@@ -1,0 +1,1 @@
+## 35. § Ha Budapesten a jelölt fővárosi kerületi kompenzációs listáról és fővárosi kompenzációs listáról egyaránt mandátumot szerez, 2014. október 15-én 16.00 óráig nyilatkoznia kell, hogy melyiket fogadja el. [a helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvény 8. § (3) bekezdés c) pont]

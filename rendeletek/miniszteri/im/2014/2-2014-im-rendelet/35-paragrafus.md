@@ -1,0 +1,1 @@
+## 34. § A megyei önkormányzati és a főpolgármester-választás eredményéről kiállított szavazóköri jegyzőkönyv egy példányát a helyi választási iroda legkésőbb 2014. október 13-án 10.00 óráig a területi választási irodához szállítja. [Ve. 307/O. § (1) bekezdés]
