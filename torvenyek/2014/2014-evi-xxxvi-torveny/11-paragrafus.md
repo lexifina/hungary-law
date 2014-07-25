@@ -1,3 +1,0 @@
-11. § Az Nkt. 80. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) Az iskola az oktatásért felelős miniszternek a tanév rendjéről szóló rendeletében meghatározott mérési időszakban, tanévenként megszervezi – a felnőttoktatásban és az 1–4. évfolyamon tanulók kivételével – a tanulók fizikai állapotának és edzettségének mérését, vizsgálatát azokon az évfolyamokon, ahol a testnevelés tantárgy tanítása folyik. Az érintett tanuló fizikai állapotának és edzettségének mérését, vizsgálatát az iskolai testnevelés tantárgyat tanító pedagógus végzi. A mérés megszervezésére a (2)–(8) bekezdésben foglaltak alkalmazandók.”
