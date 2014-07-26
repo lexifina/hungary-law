@@ -1,0 +1,1 @@
+A Kormány a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 72. § d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
