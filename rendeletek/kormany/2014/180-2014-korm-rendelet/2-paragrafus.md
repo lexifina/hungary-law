@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Szerb Köztársaság Kormánya között sugaras veszélyhelyzet esetén adandó gyors értesítésről szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
