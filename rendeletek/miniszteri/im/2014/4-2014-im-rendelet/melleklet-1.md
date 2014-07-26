@@ -1,3 +1,5 @@
-## 23. § Hatályát veszti a választási eljárásról szóló 1997. évi C. törvénynek a helyi önkormányzati képviselők és polgármesterek, valamint a kisebbségi önkormányzati képviselők választásán történő végrehajtásáról szóló 5/2010. (VII. 16.) KIM rendelet.
+## 22–23. §[^1]
 
 1. melléklet a 4/2014. (VII. 24.) IM rendelethez
+
+[^1]: A 22–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
