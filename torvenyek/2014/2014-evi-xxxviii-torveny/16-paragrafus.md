@@ -1,3 +1,3 @@
 ## 7. Folyamatban lévő perek kezelése
 
-### 16. §
+16. § A bíróság a külön törvényben meghatározott intézkedésig, de legkésőbb 2014. december 31. napjáig hivatalból felfüggeszti – a 6. alcímben szabályozott per kivételével – azt a peres eljárást, amelynek a tárgya részben vagy egészben a 3. § (1) bekezdése vagy 4. § (1) bekezdése szerinti szerződéses kikötés, illetve amely pert az ilyen szerződéses kikötésen is alapuló követelés érvényesítése iránt a pénzügyi intézmény indított a fogyasztóval szemben. A bíróság a felfüggesztés tárgyában tárgyaláson kívül is határozhat. Az eljárás felfüggesztésére a Pp. 155. §-ában foglaltakat megfelelően alkalmazni kell azzal, hogy a felfüggesztést elrendelő bírósági határozat ellen fellebbezésnek nincs helye.
