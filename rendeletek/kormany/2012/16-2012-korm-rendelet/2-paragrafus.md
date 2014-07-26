@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya kiterjed a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) szerint lefolytatott közbeszerzési eljárásokra, amelyek tárgya gyógyszer beszerzése vagy orvostechnikai eszköz beszerzése.
+## 1/A. §[^2] A 17/A. §-t a 17/A. § szerinti uniós szintű intézkedés alapján végrehajtott beszerzésekre kell alkalmazni.
 
 ## 2. Értelmező rendelkezések
 
@@ -15,3 +15,5 @@ a) az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet 2. 
 b) az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESZCSM rendelet 2. § (1) bekezdés a) pontjában említett eszköz;
 
 4. sürgős ellátási igény: amennyiben a beteg azonnali, illetve rövid időn belüli gyógyszeres vagy orvostechnikai eszközzel történő ellátás hiányában közvetlen életveszélybe kerülne, súlyos vagy maradandó egészségromlást szenvedne, illetve a gyógyszeres vagy orvostechnikai eszközzel történő ellátás hiánya irreverzíbilis folyamatokat indítana el, és a várható élettartamot és emellett az életminőséget jelentősen kedvezőtlenül befolyásolná.
+
+[^2]: Az 1/A. §-t a 185/2014. (VII. 25.) Korm. rendelet 2. §-a iktatta be.
