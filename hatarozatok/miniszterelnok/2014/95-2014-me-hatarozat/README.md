@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-95-30-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-07-25 | 2014-95-30-63.1 | 95/2014. (VII. 25.) ME határozat |
+| 2014-07-26 | 2014-95-30-63.2 | 2010: CXXX. törvény |

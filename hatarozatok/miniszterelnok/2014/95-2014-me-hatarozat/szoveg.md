@@ -12,4 +12,6 @@ A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. t
 
 6. felhívom az igazságügyi minisztert, a külgazdasági és külügyminisztert, a földművelésügyi minisztert, valamint a nemzeti fejlesztési minisztert, hogy a Megállapodás létrehozását követően a Megállapodás szövegének végleges megállapítására való felhatalmazásról szóló határozat tervezetét haladéktalanul terjesszék a Kormány elé;
 
-7. visszavonom a Magyarország Kormánya és a Szlovák Köztársaság Kormánya között a dunai vízlépcsőre vonatkozó, a hágai Nemzetközi Bíróság ítéletével összhangban álló szerződés létrehozására adott felhatalmazásról szóló 143/2012. (XII. 12.) ME határozatot.
+7.[^1]
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
