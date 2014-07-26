@@ -6,4 +6,6 @@ belügyminiszter
 
 Határidő: azonnal
 
-2. A térítésmentes mezőgazdasági vízszolgáltatás biztosítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1387/2014. (VII. 17.) Korm. határozatban a „biztosításának” szövegrész helyébe a „biztosításának, valamint a vízügyi igazgatóságok vagyonkezelésébe kerülő művek fenntartásának” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
