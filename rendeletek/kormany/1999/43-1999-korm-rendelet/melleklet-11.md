@@ -102,6 +102,6 @@
 
 ## 6 Az elszámolt időszakra elvégzett szakápolás/szakirányú terápiás szolgáltatás fő tevékenységei a 20/1996. NM rendelet 1. számú melléklete szerint. (A betegnél elrendelt és teljesített feladatok a hónap folyamán.)
 
-11. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^550]
+11. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^551]
 
-[^550]: A 11. számú mellékletet a 447/2012. (XII. 29.) Korm. rendelet 29. § h) pontja hatályon kívül helyezte.
+[^551]: A 11. számú mellékletet a 447/2012. (XII. 29.) Korm. rendelet 29. § h) pontja hatályon kívül helyezte.
