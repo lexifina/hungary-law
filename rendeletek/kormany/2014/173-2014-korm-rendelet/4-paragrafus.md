@@ -1,3 +1,0 @@
-## 3. § Az R2. 3. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-## „(7) A vízügyi igazgatóság a kérelmet, annak mellékleteit, valamint – a (6) bekezdés szerinti esetben – a Területi Vízgazdálkodási Tanács állásfoglalását tartalmazó jegyzőkönyvet 30 napon belül, szakmai véleményével ellátva felterjeszti az Országos Vízügyi Főigazgatóságnak (a továbbiakban: OVF). Az OVF a vízügyi igazgatóság szakmai véleményét figyelembe véve a kérelemmel kapcsolatban a javaslatát 15 napon belül megküldi a vízgazdálkodásért felelős miniszternek (a továbbiakban: miniszter). A kérelem elfogadásáról vagy elutasításáról a miniszter dönt.”
