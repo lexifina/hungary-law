@@ -1,1 +1,0 @@
-## 1. § A védett őshonos mezőgazdasági állatfajták és a veszélyeztetett mezőgazdasági állatfajták körének megállapításáról szóló 4/2007. (I. 18.) FVM–KvVM együttes rendelet (a továbbiakban: Rendelet) 2. számú melléklete az 1. melléklet szerint módosul.
