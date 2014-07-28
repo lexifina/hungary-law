@@ -8,7 +8,7 @@ b) az eredeti vagy közjegyző által hitelesített aláírási címpéldányt.
 
 (3) Az (1) bekezdésben foglaltakon túl a szervezetnek mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelméhez csatolnia kell
 
-a)[^2] az adóhatóság által kiállított olyan igazolást, amely szerint a kérelmezőnek a kérelem benyújtását megelőző mindhárom évben az éves értékesítése nettó árbevételének több mint a fele a mezőgazdasági tevékenysége folytatásából származott,
+a)[^4] az adóhatóság által kiállított olyan igazolást, amely szerint a kérelmezőnek a kérelem benyújtását megelőzően három évben értékesítésből nettó árbevétele származott és a szervezet vezető tisztségviselőjének vagy a cégvezetőjének cégszerű írásbeli nyilatkozatát arról, hogy az éves értékesítése – az eladott mező- és erdőgazdasági áruk beszerzési értékével és a közvetített mező- és erdőgazdasági szolgáltatások értékével csökkentett – nettó árbevételének – ide értve a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokat is – több mint a fele a mezőgazdasági tevékenysége folytatásából származott,
 
 b) a szervezet legalább egy vezető tisztségviselőjének vagy a cégvezetőjének cégszerű írásbeli nyilatkozatát arról, hogy a szervezetben a fennálló tagsági viszonyához kapcsolódóan folytatja a szervezet főtevékenysége szerinti mezőgazdasági tevékenységet, és
 
@@ -16,4 +16,4 @@ c) a b) pontban meghatározott személy nevére kiállított, az 5. § (1) bekez
 
 d) a c) pontban meghatározottak hiányában a Kamara igazolását arról, hogy a b) pontban meghatározott személy – a 2. §-ban foglaltak figyelembevételével – 3 éves üzemi gyakorlattal rendelkezik.
 
-[^2]: A 6. § (3) bekezdés a) pontja a 121/2014. (IV. 8.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^4]: A 6. § (3) bekezdés a) pontja a 188/2014. (VII. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
