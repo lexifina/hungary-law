@@ -2,4 +2,6 @@ A Kormány
 
 1. egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból a Veszprémi Járási Hivatal elhelyezésének biztosítása érdekében történő előirányzat-átcsoportosításról szóló 1110/2013. (III. 7.) Korm. határozat (a továbbiakban: H.) végrehajtása során a H. 2. melléklete szerint a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 8. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím, 2. Felhalmozási költségvetés előirányzatcsoport, 2. Felújítások kiemelt előirányzat javára átcsoportosított 1530,0 millió forintból legfeljebb 200,0 millió forint – a kiemelt előirányzatok közötti átcsoportosítást követően – az 1. Beruházások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra;
 
-2. a H.-ban az elszámolásra és a visszatérítési kötelezettség teljesítésére meghatározott határidőtől eltérően – a H. alapján átcsoportosított előirányzattal kapcsolatos elszámolásra és a fel nem használt részre vonatkozó visszatérítési kötelezettség tekintetében 2014. június 30-i határidőt állapít meg.
+2.[^1] a H.-ban az elszámolásra és a visszatérítési kötelezettség teljesítésére meghatározott határidőtől eltérően – a H. alapján átcsoportosított előirányzattal kapcsolatos elszámolásra és a fel nem használt részre vonatkozó visszatérítési kötelezettség tekintetében 2014. október 31-ei határidőt állapít meg.
+
+[^1]: A 2. pont az 1426/2014. (VII. 28.) Korm. határozat 5. pontja szerint módosított szöveg.
