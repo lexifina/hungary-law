@@ -1,6 +1,6 @@
 ## 1. A Kormány egyetért azzal, hogy az Itthon vagy – Magyarország szeretlek kulturális program lebonyolításához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1564/2013. (VIII. 16.) Korm. határozat 2. a) pontjában foglaltaktól eltérően az ott megjelölt előirányzatok tekintetében 752,3 millió forint helyett 361,0 millió forint átcsoportosítására kerüljön sor.
 
-## 2. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (6) bekezdésében biztosított jogkörében eljárva 4 550,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint.
+## 2.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (6) bekezdésében biztosított jogkörében eljárva 4 550,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -12,9 +12,9 @@
 
 ## Felelős: közigazgatási és igazságügyi miniszter, belügyminiszter, emberi erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2014. június 30.
+## Határidő: 2014. június 30., a Balassi Intézet cím jogcímcsoport javára átcsoportosított 50,0 millió forint és a Civil Alap – pályázati program jogcímcsoport javára átcsoportosított 1800,0 millió forint tekintetében 2014. december 31., a Gyógyító-megelőző ellátás intézetei alcím javára átcsoportosított 600,0 millió forint tekintetében 2015. február 28.
 
-## 3–5.[^1]
+## 3–5.[^2]
 
 ## 6. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1968/2013. (XII. 17.) Korm. határozat (a továbbiakban: Korm. határozat) végrehajtása során a Korm. határozat 1. pontja szerint a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 7. Egyházi épített örökség védelme és egyéb beruházások jogcímcsoportra a kunszentmiklósi Baksay Sándor Református Gimnázium és Általános Iskola épületének felújítása, bővítése céljából átcsoportosított 300,0 millió forint a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 4. Egyéb kulturális intézmények címen kerüljön felhasználásra.
 
@@ -172,4 +172,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 3–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont az 1426/2014. (VII. 28.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^2]: A 3–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
