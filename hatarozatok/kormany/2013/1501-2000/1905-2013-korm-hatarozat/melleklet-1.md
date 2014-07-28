@@ -4,7 +4,7 @@
 
 ## Határidő: azonnal
 
-## 2. az 1. pontban foglaltak végrehajtása, és a létszámbővítéshez szükséges beruházások megvalósítása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 56,5 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet, 8. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint;
+## 2.[^1] az 1. pontban foglaltak végrehajtása, és a létszámbővítéshez szükséges beruházások megvalósítása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 56,5 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet, 8. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -16,7 +16,7 @@
 
 ## Felelős: közigazgatási és igazságügyi miniszter
 
-## Határidő: 2014. június 30.
+## Határidő: 2014. december 31.
 
 ## 3. egyetért azzal, hogy a nemzetgazdasági miniszter az 1. pontban foglalt létszámbővítéshez kapcsolódó 2014. évi kiadások finanszírozása érdekében biztosítson 698,9 millió forint költségvetési támogatást a fővárosi és megyei kormányhivatalok részére;
 
@@ -131,3 +131,5 @@
 | Magyar Államkincstár | 1 példány |  | egyéb: azonnal | 56 500 |  |  |  | 56 500 |
 
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1426/2014. (VII. 28.) Korm. határozat 7. pontja szerint módosított szöveg.
