@@ -1,6 +1,6 @@
 ## Az országos nemzetiségi önkormányzat
 
-117. § (1) Az országos nemzetiségi önkormányzat a 113. §-ban foglaltak szerint meghatározza törvényes működése feltételeit, dönt a 114. § szerinti ügyekben azzal, hogy az országos nemzetiségi önkormányzat át nem ruházható hatáskörben, minősített többséggel dönt:
+117. § (1) Az országos nemzetiségi önkormányzat a 113. §-ban foglaltak szerint meghatározza törvényes működése feltételeit, dönt a 114. § szerinti ügyekben azzal, hogy az országos nemzetiségi önkormányzat legfeljebb négy elnökhelyettest választ, továbbá át nem ruházható hatáskörben, minősített többséggel dönt:
 
 a) székhelyéről,
 

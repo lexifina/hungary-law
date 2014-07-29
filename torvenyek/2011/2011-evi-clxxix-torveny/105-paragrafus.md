@@ -1,6 +1,6 @@
 ## A nemzetiségi önkormányzat elnöke, elnökhelyettese és tagja
 
-105. § (1)
+105. § (1) Az alakuló ülésen a helyi nemzetiségi önkormányzat képviselő-testülete, közgyűlése a tagjai közül társadalmi megbízatású elnököt, az elnök helyettesítésére, munkájának segítésére társadalmi megbízatású elnökhelyettest választ. Az országos nemzetiségi önkormányzat főállású elnököt és elnökhelyetteseket is választhat. Az országos nemzetiségi önkormányzat szervezeti és működési szabályzatában rögzíti az elnöki, elnökhelyettesi tisztség betöltésének módját.
 
 (2) A települési nemzetiségi önkormányzat elnöke a települési önkormányzat képviselő-testületi, közgyűlési és bizottsági ülésén tanácskozási joggal vesz részt. A megyei nemzetiségi önkormányzat elnöke a megyei önkormányzat képviselő-testületi, bizottsági ülésén tanácskozási joggal vesz részt. Az országos nemzetiségi önkormányzat elnöke a helyi nemzetiségi önkormányzat képviselő-testületi, közgyűlési ülésén tanácskozási joggal részt vehet.
 

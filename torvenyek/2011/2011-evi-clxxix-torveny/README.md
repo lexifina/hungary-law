@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-179-00-00
 | 2014-01-18 | 2013. évi CCXXXVIII. törvény | 2011-179-00-00.27 |
 | 2014-02-25 | 2014. évi XVI. törvény | 2011-179-00-00.28 |
 | 2014-06-18 | 2014. évi XXIII. törvény | 2011-179-00-00.29 |
+| 2014-07-29 | 2012. évi LXXVI. törvény | 2011-179-00-00.30 |

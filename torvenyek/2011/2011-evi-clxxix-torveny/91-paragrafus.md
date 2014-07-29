@@ -4,7 +4,7 @@
 
 a) összeférhetetlenségi,
 
-b)
+b) méltatlansági,
 
 c) kitüntetési ügy tárgyalásakor,
 
