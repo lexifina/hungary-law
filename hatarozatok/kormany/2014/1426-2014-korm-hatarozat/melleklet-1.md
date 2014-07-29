@@ -26,17 +26,7 @@
 
 ## 2014. június 30. utáni változatlan célú további felhasználását.
 
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1355/2012. (IX. 11.) Korm. határozat módosításáról szóló 1645/2012. (XII. 19.) Korm. határozat 2. pontjában a „2014. június 30-ai” szövegrész helyébe a „2015. június 30-ai” szöveg lép.
-
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból a Veszprémi Járási Hivatal elhelyezésének biztosítása érdekében történő előirányzat-átcsoportosításról szóló 1110/2013. (III. 7.) Korm. határozat végrehajtása során alkalmazandó eltérő rendelkezésekről szóló 1812/2013. (XI. 12.) Korm. határozat 2. pontjában a „2014. június 30-i” szövegrész helyébe a „2014. október 31-ei” szöveg lép.
-
-## 6. A kormányablakok kialakításához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1178/2013. (IV. 5.) Korm. határozat 2. pontjában a „2014. június 30.” szövegrész helyébe a „2014. december 31.” szöveg lép.
-
-## 7. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény végrehajtása érdekében szükséges intézkedésekről szóló 1905/2013. (XII. 5.) Korm. határozat 2. pontjában a „2014. június 30.” szövegrész helyébe a „2014. december 31.” szöveg lép.
-
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 2047/2013. (XII. 30.) Korm. határozat 2. pontjában a „2014. június 30.” szövegrész helyébe a „2014. június 30., a Balassi Intézet cím jogcímcsoport javára átcsoportosított 50,0 millió forint és a Civil Alap – pályázati program jogcímcsoport javára átcsoportosított 1800,0 millió forint tekintetében 2014. december 31., a Gyógyító-megelőző ellátás intézetei alcím javára átcsoportosított 600,0 millió forint tekintetében 2015. február 28.” szöveg lép.
-
-## 9. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1052/2014. (II. 11.) Korm. határozat 1. pont b) alpontjában a „2014. december 15.” szövegrész helyébe a „2014. december 15., az Egyetemek, főiskolák cím javára átcsoportosított 152,8 millió forint tekintetében 2015. június 30.” szöveg lép.
+## 4–9.[^1]
 
 1. melléklet az 1426/2014. (VII. 28.) Korm. határozathoz
 
@@ -189,3 +179,5 @@ Költségvetési év: 2014.
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 4–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
