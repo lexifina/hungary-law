@@ -1,3 +1,3 @@
 ## Hatályon kívül helyező rendelkezések
 
-236–237. §
+### 236. §

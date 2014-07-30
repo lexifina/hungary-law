@@ -1,3 +1,3 @@
 ## Módosító rendelkezések
 
-174–181. §
+### 174. §
