@@ -1,0 +1,9 @@
+# 1434/2014. (VII. 31.) Korm. határozat
+
+a Budai Várban található Karmelita kolostor átépítéséhez időarányosan szükséges források biztosításáról és a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1434-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-07-31 | 2014-1434-30-22.1 | 1434/2014. (VII. 31.) Korm. határozat |
