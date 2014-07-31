@@ -196,6 +196,8 @@
 
 | 95 | P54 | Jelentés a kibocsátott forgatható utalványokról | kiegészítő pénzügyi szolgáltatásként forgatható utalványt kibocsátó szervezetek | havi | elektronikus úton (EBEAD) | a tárgyidőszakot követő hónap 20. munkanapja | MNB Statisztikai igazgatóság |
 
+| 95a | P55 | Pénzforgalmi bevételek | pénzforgalmi szolgáltatók, az ezen típusú EGT fióktelepek | havi | elektronikus úton (EBEAD) | a naptári negyedév első két hónapja tekintetében: tárgyidőszakot követő hónap 11. munkanap; a naptári negyedév utolsó hónapja tekintetében: tárgyidőszakot követő hónap 20. munkanap | MNB Statisztikai igazgatóság |
+
 | 96 | R01 | Tőkebefektetésben érintett adatszolgáltatók végső befektetőjének és nem-rezidens partnereinek törzsadatai | az R02, R03, R12, R13 vagy R29 adatszolgáltatás teljesítésére kötelezett gazdasági szervezetek | az R02, R03, R12, R13 vagy R29 adatszolgáltatás első alkalommal történő teljesítésekor, ezt követően változás esetén | elektronikus úton (EBEAD) | az R02, R03, R12 vagy R13 adatszolgáltatáshoz kapcsolódóan azok tárgyidőszakát követő hónap 9. munkanap; az R29 adatszolgáltatáshoz kapcsolódóan annak tárgyidőszakát követő év június 20. | MNB Statisztikai igazgatóság |
 
 | 97 | R02 | Tőkebefektetések havi adatszolgáltatása – nem pénzügyi vállalatok, biztosítók, nyugdíjpénztárak, központi kormányzat, helyi önkormányzatok, társadalombiztosítási alapok, valamint háztartásokat segítő nonprofit intézmények | kijelölt – a 2. melléklet I. A. pontja szerinti A) Nem pénzügyi vállalatok, F) Biztosítók és nyugdíjpénztárak, G) Központi kormányzat, H) Helyi önkormányzatok, I) Társadalombiztosítási alapok, valamint K) Háztartásokat segítő nonprofit intézmények szektorába sorolt – gazdasági szervezetek | egyedi elrendelés alapján, havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 10. munkanap | MNB Statisztikai igazgatóság |
@@ -278,7 +280,7 @@
 
 | 3 | Z03 | A fogyasztói árindex számításához felhasznált bolti szintű, anonimizált áradatok | KSH | megállapodás szerint | elektronikus úton | megállapodás szerint | MNB Kutatási főosztály |
 
-2. melléklet a 23/2013. (XI. 6.) MNB rendelethez[^2]
+2. melléklet a 23/2013. (XI. 6.) MNB rendelethez[^4]
 
 I. AZ INFORMÁCIÓK SZOLGÁLTATÁSÁRA VONATKOZÓ ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -2744,4 +2746,4 @@ A BÉT-es részvények kapitalizációja és forgalma, részvények tőzsdei be-
 
 02. tábla: Részvények tőzsdei bevezetésére és kivezetésére vonatkozó havi adatok
 
-[^2]: A 2. melléklet a 43/2013. (XII. 29.) MNB rendelet 15. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 43/2013. (XII. 29.) MNB rendelet 15. §-a, a 30/2014. (VII. 30.) MNB rendelet 3. §-a szerint módosított szöveg.
