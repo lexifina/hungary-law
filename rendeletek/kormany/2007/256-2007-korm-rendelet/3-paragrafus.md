@@ -1,5 +1,3 @@
-## 2. §[^4]
-
 ## Az MVH szervezete
 
 3. § (1)[^5] Az MVH központi szervből, igazgatóságokból, valamint kirendeltségekből áll. Az MVH elnöke közvetlenül vezeti a központi szervet. Az igazgatóságok székhelye Budapest. A kirendeltségek az MVH területi szervei.
@@ -8,5 +6,4 @@
 
 (3) Az MVH központi szerve, kirendeltségei és igazgatóságai önálló jogi személyiséggel nem rendelkeznek. Az egyes igazgatóságokat az igazgatók vezetik.
 
-[^4]: A 2. §-t a 167/2014. (VII. 17.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
 [^5]: A 3. § (1) bekezdése a 91/2009. (IV. 22.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

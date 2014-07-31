@@ -1,6 +1,6 @@
 ## A Mezőgazdasági és Vidékfejlesztési Hivatal jogállása
 
-1. § (1)[^1] A Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) központi hivatal. Az MVH-t a vidékfejlesztési miniszter (a továbbiakban: miniszter) irányítja.
+1. § (1)[^1] A Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) központi hivatal. Az MVH-t az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) irányítja.
 
 (2)[^2]
 
@@ -12,6 +12,6 @@
 
 (6) Az MVH székhelye Budapest.
 
-[^1]: Az 1. § (1) bekezdése a 219/2010. (VII. 27.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg. E módosító rendelet 13. § (2) bekezdése alapján a rendelkezést a 2010. július 30-át követően indult ügyekben kell alkalmazni.
+[^1]: Az 1. § (1) bekezdése a 219/2010. (VII. 27.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 192/2014. (VII. 31.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdését a 167/2014. (VII. 17.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
 [^3]: Az 1. § (5) bekezdése a 167/2014. (VII. 17.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
