@@ -68,7 +68,7 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 3.1.8 | Átfogó minőségfejlesztés a közoktatásban – 2. ütem |  | 1,00 |  | 0,50 | A tanulói teljesítménymérés rendszerének továbbfejlesztése, az intézményértékelési eljárások fejlesztése, értékelési folyamatok és gyakorlat kialakítása, pilot programok, rendezvények támogatása, információmenedzsment és visszacsatolás rendszerének fejlesztése, valamint a közoktatási intézmények minőségfejlesztési tevékenységének komplex támogatása. | emberi erőforrások minisztere | – |
 
-| 3.1.9. | Diagnosztikus mérések fejlesztése | 0,00 | 0,74 | 0,00 |  | Az oktatásirányítás, a nevelési- oktatási intézmények, a pedagógusok számára teljes körben hozzáférhető és szabadon használható mérőeszközök, módszertani útmutatók, továbbképzések kialakítása. A fejlesztett mérőeszközök, tesztrendszerek, és hozzájuk tartozó feladatbankok elektronikus úton elérhetővé tétele, illetve az ehhez szükséges feltételek (szoftverek, technikai és egyéb eszközök) megteremtése. | Emberi Erőforrások Miniszter |  |
+| 3.1.9. |  |  |  |  |  |  |  |  |
 
 | 3.1.10. | Helyi oktatásirányítás fejlesztése | 0,00 | 5,00 | 0,00 |  | Helyi oktatásirányítás fejlesztése, az oktatási rendszer hatékonyságának javítását célzó fejlesztések támogatása. | Emberi Erőforrások Miniszter |  |
 
@@ -144,7 +144,7 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 3.4.4. | Országos tehetségsegítő hálózat létrehozása (Magyar Géniusz Integrált Tehetségsegítő Program) „B” komponens | 0,00 | 0,54 | 0,00 |  | A tehetséges gyermekek és fiatalok megtalálása és integrálása, képességeinek kibontakoztatása, társadalmi hasznosulása, egy országos civil bázisú tehetségsegítő hálózat kialakítása, amely összeköti és kibővíti az oktatási folyamatban kidolgozott és az iskolán kívüli tehetségsegítő kezdeményezéseket, a tehetséges fiatalok önszerveződésének támogatásával. | Emberi Erőforrások Miniszter |  |
 
-| 3.4.5. | Tehetséghidak Program | 0,00 | 1,98 | 0,00 |  | A konstrukció célja hídképzés a tehetséggondozás hálózatának eddig elszigetelt elemei között, tehetségsegítő tevékenységek módszertani minősített bővítése, tehetségútlevél életpálya-nyilvántartó rendszer létrehozása, helyi minősített tehetséggondozó programok kialakításának koordinálása, támogatása, Tehetség Piactér adatbázis és moderált fórum létrehozása, tehetséggondozó felnőttek és felnőtt ifjak képzése, tehetségek társadalmi felelősségvállalása, Haza a magyar tehetségekkel! program kidolgozása. | Emberi Erőforrások Miniszter |  |
+| 3.4.5. |  |  |  |  |  |  |  |  |
 
 | 3. | Prioritás | 10,82 | 141,25 | 0,00 |  |  |  |  |
 
@@ -208,7 +208,7 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 4.1.2.E | Sport a felsőoktatásban (hallgatói, oktatói és alumni sporttevékenységek fejlesztése) | 0,00 | 1,80 | 0,00 | A sport tömegesítése a felsőoktatásban, a tehetségek számára a komlpex tanulási és felkészülési lehetőségek biztosítása, tehetségek mentorálása a felsőoktatási intézményekben, felnövekvő értelmiség modern, sportos életmódjának kialakítása, kapcsolódó módszertani fejlesztések. | Emberi Erőforrások Miniszter |  |
 
-| 4.1.3. | A felsőoktatási szolgáltatások rendszer szintű fejlesztése 2. ütem | 1,48 | 0,00 | 0,00 | Ágazati informatikai, képzési és hallgatói szolgáltatásfejlesztés. | Emberi Erőforrások Miniszter |  |
+| 4.1.3. |  |  |  |  |  |  |  |
 
 | 4.2.2.A | Nemzetközi közreműködéssel megvalósuló alap- és célzott alapkutatási projektek támogatása | 27,00 | 0,00 | 0,00 | Innovatív alapkutatások és alapkutatási hálózatokba, projektekbe való bekapcsolódás támogatása. | Emberi Erőforrások Miniszter |  |
 
@@ -290,7 +290,7 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 5.3.1.B-2 | Roma emberek képzésbe ágyazott foglalkoztatása a szociális és gyermekjóléti ellátórendszerben | 0,00 | 1,40 | 0,00 | A társadalmi előítélettel és munkaerő-piaci diszkriminációval küzdő munkanélküli roma emberek, elsősorban roma nők társadalmi befogadásának és foglalkoztatásának javítása, szociális és gyermekjóléti intézményekben történő foglalkoztatásuk támogatása. | Emberi Erőforrások Miniszter |  |
 
-| 5.3.2. | "Az utcán élő hajléktalan személyek társadalmi visszailleszkedésének, sikeres munkaerőpiaci integráció megalapozása" program szakmai és módszertani támogatása | 0,00 | 0,11 | 0,00 | Az 5.3.3 konstrukció szakmai és módszertani támogatása. | Emberi Erőforrások Miniszter |  |
+| 5.3.2. |  |  |  |  |  |  |  |
 
 | 5.3.3. | Az utcán élő hajléktalan személyek társadalmi visszailleszkedésének, sikeres munkaerőpiaci integráció megalapozása | 1,13 | 0,92 | 0.00 | Az utcán élő hajléktalan személyek fejlesztése és lakhatásának biztosítása társadalmi visszailleszkedésük céljából. | Emberi Erőforrások Miniszter |  |
 
@@ -429,4 +429,4 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 | - | - | - | - | - | - |
 
 [^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1585/2013. (VIII. 28.) Korm. határozat 2. pontja, az 1736/2013. (X. 11.) Korm. határozat 5. pont a) alpontja, az 1111/2014. (III. 6.) Korm. határozat 1. és 2. pont a) pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1585/2013. (VIII. 28.) Korm. határozat 2. pontja, az 1736/2013. (X. 11.) Korm. határozat 5. pont a) alpontja, az 1111/2014. (III. 6.) Korm. határozat 1. és 2. pont a) pontja, az 1451/2014. (VII. 31.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
