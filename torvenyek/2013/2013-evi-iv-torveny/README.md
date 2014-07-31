@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-4-00-00
 | --- | --- | --- |
 | 2013-02-26 | 2013. évi IV. törvény | 2013-4-00-00.0 (közlönyállapot) |
 | 2013-02-26 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-4-00-00.1 |
+| 2014-07-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-4-00-00.2 |
