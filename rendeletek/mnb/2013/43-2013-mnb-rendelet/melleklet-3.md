@@ -4,239 +4,239 @@
 
 ## EGYEDI JELENTÉSEK - RÉSZVÉNYTÁRSASÁGOK ÉS SZÖVETKEZETI HITELINTÉZETEK
 
-| Táblakód | Megnevezés | Jelentési gyakoriság | Beküldési határidő |
+|  | Táblakód | Megnevezés | Jelentési gyakoriság | Beküldési határidő |
 
-| 1AB | Felügyeleti mérleg (Eszközök könyv szerinti bruttó adatokkal) |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 1 | 1AB | Felügyeleti mérleg (Eszközök könyv szerinti bruttó adatokkal) |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 1AN | Felügyeleti mérleg (Eszközök könyv szerinti nettó adatokkal) |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 2 | 1AN | Felügyeleti mérleg (Eszközök könyv szerinti nettó adatokkal) |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 1B | Felügyeleti mérleg (Források) |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 3 | 1B | Felügyeleti mérleg (Források) |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 1C | Mérlegtételekhez kapcsolódó tájékoztató adatok |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 4 | 1C | Mérlegtételekhez kapcsolódó tájékoztató adatok |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 1D | Eladott eszközök halasztott fizetéssel, illetve visszavásárlási kötelezettséggel |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 5 | 1D | Eladott eszközök halasztott fizetéssel, illetve visszavásárlási kötelezettséggel |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 1E | Tranzakciók számításához szükséges adatok |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 6 | 1E | Tranzakciók számításához szükséges adatok |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 1F | Értékpapírosítással kapcsolatos adatok |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 7 | 1F | Értékpapírosítással kapcsolatos adatok |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 1G | Eszköz és forrástételek hó végi állományának devizaszerkezete (hitelek bruttó, értékpapírok nettó könyv szerinti értéken) |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 8 | 1G | Eszköz és forrástételek hó végi állományának devizaszerkezete (hitelek bruttó, értékpapírok nettó könyv szerinti értéken) |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 2A | Eredménykimutatás |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 9 | 2A | Eredménykimutatás |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 2C | Eredményadatok részletezése |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 10 | 2C | Eredményadatok részletezése |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 3DBA | Származtatott ügyletek (HUF) (tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 11 | 3DBA | Származtatott ügyletek (HUF) (tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 3DBB | Származtatott ügyletek (EUR) (tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 12 | 3DBB | Származtatott ügyletek (EUR) (tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 3DBC | Származtatott ügyletek (USD) (tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 13 | 3DBC | Származtatott ügyletek (USD) (tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 3DBD | Származtatott ügyletek (CHF) (tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 14 | 3DBD | Származtatott ügyletek (CHF) (tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 3DBE | Származtatott ügyletek (Egyéb devizák) (tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 15 | 3DBE | Származtatott ügyletek (Egyéb devizák) (tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 3I | Tulajdonosi kapcsolatok |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 16 | 3I | Tulajdonosi kapcsolatok |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 3J1 | Valós értékelést nem alkalmazó hitelintézetek- értékpapírok értékelési adatai |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 17 | 3J1 | Valós értékelést nem alkalmazó hitelintézetek- értékpapírok értékelési adatai |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 3J2 | Valós értékelést alkalmazó hitelintézetek - értékpapírok értékelési portfóliók szerinti adatai |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 18 | 3J2 | Valós értékelést alkalmazó hitelintézetek - értékpapírok értékelési portfóliók szerinti adatai |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 3K1 | Lejáratig tartott értékpapírok közül a tárgynegyedévben kereskedési célúvá vagy értékesíthetővé átsorolt tételek |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 19 | 3K1 | Lejáratig tartott értékpapírok közül a tárgynegyedévben kereskedési célúvá vagy értékesíthetővé átsorolt tételek |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 3K2 | Kereskedési célú értékpapírok közül a tárgynegyedévben nem kereskedési célúvá átsorolt értékpapírok |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 20 | 3K2 | Kereskedési célú értékpapírok közül a tárgynegyedévben nem kereskedési célúvá átsorolt értékpapírok |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| C12H | Mérlegen kívüli tételek - Függő és jövőbeni kötelezettségek |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 21 | C12H | Mérlegen kívüli tételek - Függő és jövőbeni kötelezettségek |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| C6B | Banki könyvi kitettségek országok szerint |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 22 | C6B | Banki könyvi kitettségek országok szerint |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| C6K | Kereskedési könyvi kitettségek országok szerint |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 23 | C6K | Kereskedési könyvi kitettségek országok szerint |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 4AT | Lejárati összhang elemzés - összesítő |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 24 | 4AT | Lejárati összhang elemzés - összesítő |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 4AA | Lejárati összhang elemzés - HUF |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 25 | 4AA | Lejárati összhang elemzés - HUF |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 4AB | Lejárati összhang elemzés - EUR |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 26 | 4AB | Lejárati összhang elemzés - EUR |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 4AC | Lejárati összhang elemzés - USD |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 27 | 4AC | Lejárati összhang elemzés - USD |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 4AD | Lejárati összhang elemzés - CHF |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 28 | 4AD | Lejárati összhang elemzés - CHF |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 4AE | Lejárati összhang elemzés - Egyéb devizák |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 29 | 4AE | Lejárati összhang elemzés - Egyéb devizák |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 4B | Tájékoztató adatok a befektetési szolgáltatási tevékenységről és a kiegészítő szolgáltatásról |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 30 | 4B | Tájékoztató adatok a befektetési szolgáltatási tevékenységről és a kiegészítő szolgáltatásról |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 4E | Egyes betétek és letétek azonosítása |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 31 | 4E | Egyes betétek és letétek azonosítása |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 4LAN | Egyes mérlegtételek könyv szerinti bruttó állománya | KNa |  |  |  |  |  |  |  | KNa: tárgynapot követő munkanap 11 óráig |
+| 32 | 4LAN | Egyes mérlegtételek könyv szerinti bruttó állománya | KNa |  |  |  |  |  |  |  | KNa: tárgynapot követő munkanap 11 óráig |
 
-| Cashflow | Cash-Flow jelentés | KNa |  |  |  |  |  |  |  | KNa: tárgynapot követő munkanap 12 óráig |
+| 33 | Cashflow | Cash-Flow jelentés | KNa |  |  |  |  |  |  |  | KNa: tárgynapot követő munkanap 12 óráig |
 
-| ACashflow | Anya Cash-Flow jelentés | KNa |  |  |  |  |  |  |  | KNa: tárgynapot követő munkanap 12 óráig |
+| 34 | ACashflow | Anya Cash-Flow jelentés | KNa |  |  |  |  |  |  |  | KNa: tárgynapot követő munkanap 12 óráig |
 
-| DMM | Havi jelentés a devizafinanszírozás megfelelési mutatóról |  | H |  | N |  |  |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig |
+| 35 | DMM | Havi jelentés a devizafinanszírozás megfelelési mutatóról |  | H |  | N |  |  |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig |
 
-| C2H | BEFEKTETÉSEK |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 36 | C2H | Befektetések |  |  |  | N |  | A |  |  | N: első negyedév tekintetében a tárgyidőszakot követő második hónap 12. napjáig, második - negyedik negyedév tekintetében a tárgyidőszakot követő második hónap 11. napjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| C21H | KÖZVETETT BEFEKTETÉSEK RÉSZLETEZÉSE |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 37 | C21H | Közvetett befektetések részletezése |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| C43H | BELSŐ HITELEK |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 38 | C43H | Belső hitelek |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 5A | Hpt. előírások vizsgálata |  |  |  | N |  |  |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig |
+| 39 | 5A | Hpt. előírások vizsgálata |  |  |  | N |  |  |  |  | N: első negyedév tekintetében a tárgyidőszakot követő második hónap 12. napjáig, második - negyedik negyedév tekintetében a tárgyidőszakot követő második hónap 11. napjáig |
 
-| 5B | Bankközi állományok adatai |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 40 | 5B | Bankközi állományok adatai |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 5H | Határon átnyúló pénzügyi, illetve kiegészítő pénzügyi szolgáltatások |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 41 | 5H | Határon átnyúló pénzügyi, illetve kiegészítő pénzügyi szolgáltatások |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 6B | Lakástakarékpénztár adatai |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 42 | 6B | Lakástakarékpénztár adatai |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 6CA | Lakástakarékpénztár – Termékösszetétel (értéken) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 43 | 6CA | Lakástakarékpénztár – Termékösszetétel (értéken) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 6CB | Lakástakarékpénztár – Termékösszetétel (darabszám) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 44 | 6CB | Lakástakarékpénztár – Termékösszetétel (darabszám) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 6DA | Jelzálog-hitelintézet adatai (forintban) |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 45 | 6DA | Jelzálog-hitelintézet adatai (forintban) |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 6DB | Jelzálog-hitelintézet adatai (EURO, USD, CHF) |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 46 | 6DB | Jelzálog-hitelintézet adatai (EURO, USD, CHF) |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 6E | Lakástakarékpénztár – Érvényben lévő szerződések adatai |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 47 | 6E | Lakástakarékpénztár – Érvényben lévő szerződések adatai |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 6F | Lakástakarékpénztár – Kiutalások (várható) adatai |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 48 | 6F | Lakástakarékpénztár – Kiutalások (várható) adatai |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 6GA | Elszámolóház - Mérlegadatok részletezése |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 49 | 6GA | Elszámolóház - Mérlegadatok részletezése |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 6GB | Elszámolóház – Bevételi adatok részletezése |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 50 | 6GB | Elszámolóház – Bevételi adatok részletezése |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 7A | Eszközök – Átlagállományok |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 51 | 7A | Eszközök – Átlagállományok |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 7B | Források – Átlagállományok |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 52 | 7B | Források – Átlagállományok |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 7C | Tájékoztató adatok |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 53 | 7C | Tájékoztató adatok |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 7F | Projektfinanszírozási hitelek |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 54 | 7F | Projektfinanszírozási hitelek |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 7G | Önálló zálogjog adatai |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 55 | 7G | Önálló zálogjog adatai |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 7H | Hitelintézet által folyósított hitelek és a hitelállomány alakulása |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 56 | 7H | Hitelintézet által folyósított hitelek és a hitelállomány alakulása |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 7I | Hitelintézet konzorciális hitelezési tevékenységének adatai |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 57 | 7I | Hitelintézet konzorciális hitelezési tevékenységének adatai |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 7J | Hitelintézet kiemelt közvetítő útján végzett záloghitelezési tevékenysége |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 58 | 7J | Hitelintézet kiemelt közvetítő útján végzett záloghitelezési tevékenysége |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 7K | Hitelintézet által nyújtott gyűjtőszámlahitelekhez kapcsolódó adatok |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 59 | 7K | Hitelintézet által nyújtott gyűjtőszámlahitelekhez kapcsolódó adatok |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| L5 | A negyedévben értékesített fedezeti lakóingatlanok |  |  | KN |  |  |  |  |  | KN: tárgynegyedévet követő hónap 15. naptári nap végéig |
+| 60 | L5 | A negyedévben értékesített fedezeti lakóingatlanok |  |  | KN |  |  |  |  |  | KN: tárgynegyedévet követő hónap 15. naptári nap végéig |
 
-| 8AB | Portfolió összetétel - Kockázatvállalás ügyfelenként a legrégebben lejárt követelés szerint |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 61 | 8AB | Portfolió összetétel - Kockázatvállalás ügyfelenként a legrégebben lejárt követelés szerint |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8APT | Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja - Összesítő |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 62 | 8APT | Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja - Összesítő |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8APA | Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja - Forint |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 63 | 8APA | Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja - Forint |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8APB | Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja - Euro |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 64 | 8APB | Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja - Euro |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8APC | Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja - Svájci frank |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 65 | 8APC | Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja - Svájci frank |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8APD | Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja - Egyéb deviza |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 66 | 8APD | Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja - Egyéb deviza |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8NACT | Portfolió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Összesítő |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 67 | 8NACT | Portfolió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Összesítő |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8NACA | Portfolió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Forint |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 68 | 8NACA | Portfolió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Forint |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8NACB | Portfolió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Euro |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 69 | 8NACB | Portfolió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Euro |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8NACC | Portfolió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Svájci frank |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 70 | 8NACC | Portfolió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Svájci frank |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8NACD | Portfolió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Egyéb deviza |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 71 | 8NACD | Portfolió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Egyéb deviza |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8C | Értékvesztés és értékvesztés visszaírása |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 72 | 8C | Értékvesztés és értékvesztés visszaírása |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8D | Céltartalék változása |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 73 | 8D | Céltartalék változása |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8E | Értékelési különbözet változása |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 74 | 8E | Értékelési különbözet változása |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8PBB | Portfolió összetétel - Minősítés - Fedezetek figyelembevételével |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 75 | 8PBB | Portfolió összetétel - Minősítés - Fedezetek figyelembevételével |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8PBC | Átstrukturált hitelek állományának alakulása |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 76 | 8PBC | Átstrukturált hitelek állományának alakulása |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 8PBF | Fedezetek, biztosítékok és egyéb mérlegen kívüli tételek |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 77 | 8PBF | Fedezetek, biztosítékok és egyéb mérlegen kívüli tételek |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9AA | Kamatkockázat elemzés (HUF) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 78 | 9AA | Kamatkockázat elemzés (HUF) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9AB | Kamatkockázat elemzés (EUR) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 79 | 9AB | Kamatkockázat elemzés (EUR) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9AC | Kamatkockázat elemzés (USD) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 80 | 9AC | Kamatkockázat elemzés (USD) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9AD | Kamatkockázat elemzés (CHF) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 81 | 9AD | Kamatkockázat elemzés (CHF) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9AE | Kamatkockázat elemzés (GBP) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 82 | 9AE | Kamatkockázat elemzés (GBP) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9AF | Kamatkockázat elemzés (JPY) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 83 | 9AF | Kamatkockázat elemzés (JPY) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9AG1 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 1. deviza) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 84 | 9AG1 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 1. deviza) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9AG2 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 2. deviza) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 85 | 9AG2 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 2. deviza) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9AG3 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 3. deviza) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 86 | 9AG3 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 3. deviza) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9AG4 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 4. deviza) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 87 | 9AG4 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 4. deviza) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9AG5 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 5. deviza) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 88 | 9AG5 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 5. deviza) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9AG6 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 6. deviza) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 89 | 9AG6 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 6. deviza) |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9D | Pénzmosással és terrorizmus finanszírozásával kapcsolatos adatok |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 90 | 9D | Pénzmosással és terrorizmus finanszírozásával kapcsolatos adatok |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9FA | Fogyasztói panaszügyekre vonatkozó adatok I |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 91 | 9FA | Fogyasztói panaszügyekre vonatkozó adatok I |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9FB | Fogyasztói panaszügyekre vonatkozó adatok II |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 92 | 9FB | Fogyasztói panaszügyekre vonatkozó adatok II |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 9I | Informatikai adatok |  |  |  | N |  |  |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig |
+| 93 | 9I | Informatikai adatok |  |  |  | N |  |  |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig |
 
-| 10GA | Legnagyobb betétesek |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 94 | 10GA | Legnagyobb betétesek |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 10GB | Tulajdonosoktól és személyektől származó források |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 95 | 10GB | Tulajdonosoktól és személyektől származó források |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 10GC | Befektetésektől származó források |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 96 | 10GC | Befektetésektől származó források |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 11AA | Tulajdonosi szerkezet 1 |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 97 | 11AA | Tulajdonosi szerkezet 1 |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 11AB | Tulajdonosi szerkezet 2 |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 98 | 11AB | Tulajdonosi szerkezet 2 |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 11AC | Szövetkezeti hitelintézetek tagságával és részjegyállományával kapcsolatos adatok |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 99 | 11AC | Szövetkezeti hitelintézetek tagságával és részjegyállományával kapcsolatos adatok |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 14A | Mérleg – következő év végére várható állományok |  |  |  |  | É |  |  | V | É: negyedik negyedévre vonatkozó negyedéves jelentéssel együtt V: változást követő 15 munkanapon belül |
+| 100 | 14A | Mérleg – következő év végére várható állományok |  |  |  |  | É |  |  | V | É: negyedik negyedévre vonatkozó negyedéves jelentéssel együtt V: változást követő 15 munkanapon belül |
 
-| 14B | Eredmény - következő év végére várható adatok |  |  |  |  | É |  |  | V | É: negyedik negyedévre vonatkozó negyedéves jelentéssel együtt V: változást követő 15 munkanapon belül |
+| 101 | 14B | Eredmény - következő év végére várható adatok |  |  |  |  | É |  |  | V | É: negyedik negyedévre vonatkozó negyedéves jelentéssel együtt V: változást követő 15 munkanapon belül |
 
-| 14HD | Mikro-, kis- és középvállalkozások részesedése a hitelintézetek által a vállalkozásoknak folyósított hitelekből és hitelállománya |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 102 | 14HD | Mikro-, kis- és középvállalkozások részesedése a hitelintézetek által a vállalkozásoknak folyósított hitelekből és hitelállománya |  | H |  | N |  | A |  |  | H: tárgyidőszakot követő hónap 15. munkanapjáig N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 14ND | Mikro-, kis- és középvállalkozások részére a hitelintézetek által nyújtott hitelek - portfólió minősítése |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 103 | 14ND | Mikro-, kis- és középvállalkozások részére a hitelintézetek által nyújtott hitelek - portfólió minősítése |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 15B | Saját számlás kereskedési könyvi pozíciók | KNa |  |  |  |  |  |  |  | KNa: kijelölésben meghatározott határidőre |
+| 104 | 15B | Saját számlás kereskedési könyvi pozíciók | KNa |  |  |  |  |  |  |  | KNa: kijelölésben meghatározott határidőre |
 
-| 15C | Kereskedési könyvbe nem kereskedési könyvből átsorolt tételek |  |  |  |  |  |  |  | V | V: változást követő 15 munkanapon belül |
+| 105 | 15C | Kereskedési könyvbe nem kereskedési könyvből átsorolt tételek |  |  |  |  |  |  |  | V | V: változást követő 15 munkanapon belül |
 
-| 15D | Kereskedési könyvből nem kereskedési könyvbe átsorolt tételek |  |  |  |  |  |  |  | V | V: változást követő 15 munkanapon belül |
+| 106 | 15D | Kereskedési könyvből nem kereskedési könyvbe átsorolt tételek |  |  |  |  |  |  |  | V | V: változást követő 15 munkanapon belül |
 
-| 16BA | Ügyfél törzsadatok analitikája** a 20AB negyedéves beszámolót készítő hitelintézetek |  |  | K |  |  |  |  |  | K: kijelölésben meghatározott határidőre |
+| 107 | 16BA | Ügyfél törzsadatok analitikája* * a 20AB negyedéves beszámolót készítő hitelintézetek |  |  | K |  |  |  |  |  | K: kijelölésben meghatározott határidőre |
 
-| 16BB | Hitelek analitikája** a 20AB negyedéves beszámolót készítő hitelintézetek |  |  | K |  |  |  |  |  | K: kijelölésben meghatározott határidőre |
+| 108 | 16BB | Hitelek analitikája* * a 20AB negyedéves beszámolót készítő hitelintézetek |  |  | K |  |  |  |  |  | K: kijelölésben meghatározott határidőre |
 
-| 16BC | Mérlegen kívüli kötelezettségek analitikája** a 20AB negyedéves beszámolót készítő hitelintézetek |  |  | K |  |  |  |  |  | K: kijelölésben meghatározott határidőre |
+| 109 | 16BC | Mérlegen kívüli kötelezettségek analitikája* * a 20AB negyedéves beszámolót készítő hitelintézetek |  |  | K |  |  |  |  |  | K: kijelölésben meghatározott határidőre |
 
-| 20AA | Összevont felügyelet alá tartozó hitelintézetek rendszeres negyedéves beszámolója |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 110 | 20AA | Összevont felügyelet alá tartozó hitelintézetek rendszeres negyedéves beszámolója |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 20AB | Összevont felügyelet alá nem tartozó hitelintézet rendszeres negyedéves beszámolója |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 111 | 20AB | Összevont felügyelet alá nem tartozó hitelintézet rendszeres negyedéves beszámolója |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| 20ABU | Kérdőív az összevont felügyelet alá nem tartozó hitelintézet rendszeres negyedéves beszámolójához |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
+| 112 | 20ABU | Kérdőív az összevont felügyelet alá nem tartozó hitelintézet rendszeres negyedéves beszámolójához |  |  |  | N |  | A |  |  | N: tárgyidőszakot követő hónap 20. munkanapjáig A: beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31. |
 
-| A1AB | Évközi auditált jelentés - Felügyeleti mérleg (Eszközök könyv szerinti bruttó adatokkal) |  |  |  |  |  |  |  | ÉA | ÉA: könyvvizsgálói jelentés dátumát követő 15 munkanapon belül |
+| 113 | A1AB | Évközi auditált jelentés - Felügyeleti mérleg (Eszközök könyv szerinti bruttó adatokkal) |  |  |  |  |  |  |  | ÉA | ÉA: könyvvizsgálói jelentés dátumát követő 15 munkanapon belül |
 
-| A1AN | Évközi auditált jelentés - Felügyeleti mérleg (Eszközök könyv szerinti nettó adatokkal) |  |  |  |  |  |  |  | ÉA | ÉA: könyvvizsgálói jelentés dátumát követő 15 munkanapon belül |
+| 114 | A1AN | Évközi auditált jelentés - Felügyeleti mérleg (Eszközök könyv szerinti nettó adatokkal) |  |  |  |  |  |  |  | ÉA | ÉA: könyvvizsgálói jelentés dátumát követő 15 munkanapon belül |
 
-| A1B | Évközi auditált jelentés - Felügyeleti mérleg (Források) |  |  |  |  |  |  |  | ÉA | ÉA: könyvvizsgálói jelentés dátumát követő 15 munkanapon belül |
+| 115 | A1B | Évközi auditált jelentés - Felügyeleti mérleg (Források) |  |  |  |  |  |  |  | ÉA | ÉA: könyvvizsgálói jelentés dátumát követő 15 munkanapon belül |
 
-| A2A | Évközi auditált jelentés - Eredménykimutatás |  |  |  |  |  |  |  | ÉA | ÉA: könyvvizsgálói jelentés dátumát követő 15 munkanapon belül |
+| 116 | A2A | Évközi auditált jelentés - Eredménykimutatás |  |  |  |  |  |  |  | ÉA | ÉA: könyvvizsgálói jelentés dátumát követő 15 munkanapon belül |
 
 | Jelentés gyakoriságának kódja | Jelentés neve |
 
@@ -522,7 +522,7 @@
 
 ## 20132C20000043_13
 
-3. melléklet a 43/2013. (XII. 29.) MNB rendelethez[^5]
+3. melléklet a 43/2013. (XII. 29.) MNB rendelethez[^10]
 
 A hitelintézetek és az ezen típusú fióktelepek felügyeleti jelentéseire vonatkozó részletes kitöltési előírások
 
@@ -2430,83 +2430,7 @@ A 4A1011 Hitelállomány soron kell feltüntetni a bank várakozásait a lejára
 
 A 4A1021 Betétállomány sorban kell feltüntetni a bank várakozásait a lejárati sávoknak megfelelően a jövőben várhatóan befolyó új betétállományokra. A befolyás lejárati sávjában negatív előjellel, a kifizetés lejárati sávjában pedig pozitív előjellel.
 
-Az egyéb eszközállomány-változás sorban kell megjeleníteni a le nem hívott hitelkereten kívüli egyéb mérlegen kívüli függő kötelezettségek (nyújtott garanciák, kezességek, opciók, stb.) valószínűsíthető lehívásából keletkező követelések pénzáramlását (kifizetés). Az egyéb forrásállomány-változás sorban kell megjeleníteni a rendelkezésre álló mérlegen kívüli függő követelések (kapott hitelkeretek, garanciák, biztosítékok, opciók, stb.) valószínűsíthető lehívásából, érvényesítéséből származó kötelezettségek miatti pénzáramlást (bevétel).
-
-A 4A111 Lejárati rés (gap) V. (Egyéb állományváltozásokkal korrigált) értékének kiszámításakor a 4A091 Módosított Lejárati rés (gap) sorhoz hozzá kell adni a 4A101 sor értékét, míg a 4A102 sorban szereplő összegeket le kell vonni. Sorszabály: 4A111=4A091+4A101-4A102).
-
-A tábla 4A1221 és 4A1222 soraiban a Lejárati rés (gap) V. soron kimutatott értékekből a tulajdonosoktól és befektetésektől kapott források, illetve az oda kihelyezett eszközök lejárati szerkezetét kell megjeleníteni, mivel ennek döntő szerepe van a hitelintézetek likviditási helyzetének megítélésében.
-
-4B Tájékoztató adatok a befektetési szolgáltatási tevékenységről és a kiegészítő szolgáltatásról
-
-A jelentéseket azoknak a hitelintézeteknek kell elkészíteniük, amelyek a Bszt. 5. § (1) és (2) bekezdése által meghatározott befektetési szolgáltatási tevékenységet végeznek, illetve kiegészítő szolgáltatást nyújtanak, függetlenül attól, hogy ez a tevékenységük a Bszt. hatálya alá tartozik, vagy sem. A tábla lehetővé teszi a tárgyidőszak végére vonatkozóan a befektetési szolgáltatási tevékenység felügyeleti vizsgálatát.
-
-A Hitkr. 12. § (2) bekezdés előírásaiban foglaltak figyelembevételével – a lezárt főkönyv és mérlegen kívüli tételek, valamint a nyilvántartási számlák állományaival megegyezően – történik a tábla kitöltése.
-
-A hitelintézet a kapcsolódó nyilvántartásait a befektetési szolgáltatási tevékenység ellenőrzésére, a felügyeleti jelentés által igényelt részletező adatok megállapíthatóságára alkalmas módon alakítja ki és vezeti.
-
-Év közben mind a saját, mind az idegen értékpapír-állományról folyamatos mennyiségi és értékbeli nyilvántartást kell vezetni.
-
-A devizában végzett műveleteknél, illetve a devizaállományoknál a deviza forintértékét mindig a tárgyidőszak végén a hitelintézetre érvényes számviteli szabályok szerinti devizaárfolyamon kell kimutatni.
-
-A befektetési szolgáltatási tevékenységhez kapcsolódó állományok tagolása és részletezése megegyezik a Hitkr. szerint külön nyilvántartandó és kimutatandó befektetési szolgáltatási tevékenységre vonatkozó előírással, illetve a befektetési szolgáltatással kapcsolatos nyilvántartási adatokkal. A befektetési szolgáltatási tevékenységek elnevezése ugyanakkor a Bszt. 5. §-ának a fogalomrendszerét követi.
-
-A jelentésben közölt adatokat bruttó nyilvántartási értéken kell megadni.
-
-A tábla sorai
-
-Eszközökhöz kapcsolódó adatok
-
-4B11 Tőzsdei vagyonhányad (befektetés): a tőzsdével kapcsolatos vagyoni (tulajdoni) érdekeltség, ideértve a Hitkr. 5. § (13) bekezdés a) pontjában foglaltakat is. A 4B111-es sorban külön ki kell emelni a hazai tőzsdében meglévő vagyonhányadot.
-
-Forgóeszközökhöz kapcsolódó adatok
-
-4B21 Pénzeszköz ügyfelektől a "megbízás felvétele és továbbítása", illetve "megbízás végrehajtása az ügyfél javára" befektetési szolgáltatási tevékenységből eredően: a Bszt. 5. § (1) bekezdés a) és b) pontjában felsorolt tevékenységekhez kapcsolódó, ügyfeleket megillető – a Hitkr. 5. § (1) bekezdésében foglalt előírásoknak megfelelően külön nyilvántartott – pénzösszegek, függetlenül attól, hogy pénztárban, elszámolási vagy letéti számlán szerepelnek a hitelintézet könyveiben.
-
-4B22 Követelések az ügyfeleknek nyújtott befektetési és kiegészítő szolgáltatásokból: a 4B221– 4B225 sorok összege. A 4B22-es sorban a Bszt. 5. § (1) és (2) bekezdésében szereplő szolgáltatásokkal kapcsolatban felmerülő követeléseket kell szerepeltetni.
-
-A 4B221-es sorban a Bszt. 5. § (1) bekezdés a) pontjában, a 4B222-es sorban a Bszt. 5. § (1) bekezdés b) pontjában, a 4B223-as sorban a Bszt. 5. § (1) bekezdés f) pontjában, a 4B224-es sorban a Bszt. 5. § (1) bekezdés g) pontjában, a 4B225-ös sorban a Bszt. 5. § (1) bekezdés d), e), h) pontjában és az 5. § (2) bekezdésben foglalt szolgáltatással kapcsolatban keletkezett követeléseket kell feltüntetni.
-
-Ezen felül, a 4B221–4B225 sorok, valamint a 4B23-4B24 sorok kitöltésénél a Hitkr. 5. § (6) bekezdésében, illetve a Hitkr. 18. § (5) bekezdésében foglaltak szerint kell eljárni, figyelembe véve a Bszt. 66. és 78. §-ában előírtakat.
-
-A 4B25, a 4B26, valamint a 4B27 sorokban a tőzsdei ügyletek, az elszámolóházzal és az elszámolóházi tevékenységet végző szervezettel szembeni, illetve a tőzsdén kívüli ügyletek elszámolásaiból eredő – Hitkr. 5. § (6) bekezdés a) és b), valamint d) pontja szerinti – követeléseket kell kimutatni.
-
-4B28 Befektetési és kiegészítő szolgáltatásokkal összefüggésben per alá vont követelések teljes értéke: a mérlegben szereplő követelésállományból a Bszt. 5. § (1) és (2) bekezdésében meghatározott tevékenységekkel kapcsolatos, bírósági per tárgyát képező, ügyfelekkel szembeni követelések.
-
-Forrásokhoz kapcsolódó adatok
-
-A 4B29-es sorban a Bszt. 5. § (1) és (2) bekezdésében szereplő szolgáltatásokkal kapcsolatban felmerülő kötelezettségeket kell szerepeltetni.
-
-A 4B291-es sorban a Bszt. 5. § (1) bekezdés a) pontjával, a 4B292-es sorban a Bszt. 5. § (1) bekezdés b) pontjával, a 4B273-as sorban a Bszt. 5. § (1) bekezdés d)-h) pontjával és a Bszt. 5. § (2) bekezdésével összefüggésben keletkezett kötelezettségeket kell szerepeltetni.
-
-A részletező sorokban az ügyfelekkel a megbízás felvétele és továbbítása, illetve megbízás végrehajtása, valamint egyéb tevékenységgel kapcsolatban, a tőzsdei ügyletek és tőzsdén kívüli ügyletekből eredő, valamint az Elszámolóházzal, és elszámolóházi tevékenységet végző szervezettel szembeni – Hitkr. 7. § (4) bekezdése, illetve a 16. § (14) bekezdése szerinti – kötelezettségeket kell kimutatni.
-
-4E Egyes betétek és letétek azonosítása
-
-A tábla alapján a Pmt. végrehajtásának érdekében a nem névre szóló betétek és letétek állománya és a célul kitűzött megszűnése követhető nyomon.
-
-Ebben a táblában azokat a hitelintézetek által gyűjtött és nem névre szóló források állományi adatait, illetve azok módosulását kell betéti formánként kimutatni, amelyek a beszámolási időszak hónapjában kerültek nevesítésre (azonosításra).
-
-Azokat a Hpt. 217. § (3) bekezdése alapján azonosított betéteseket, amelyek a névre szóló állományban még nem kerültek figyelembe vételre, a táblában a Névre szólóvá átalakított állomány – nál a számbavétel hónapjában kell kimutatni.
-
-A tábla oszlopai
-
-Az a) oszlopban a nyitó – az előző hónap utolsó napján fennálló – nem névre szóló állományt kell szerepeltetni. Amennyiben a hitelintézet ilyen állománnyal nem rendelkezik, abban az esetben nullát kell az adott mezőbe beírni.
-
-Az adott hónapban az anonim betétek névre szólóvá történő átalakítását a jelentésben meghatározott személyek szerinti bontásban a b)-e) oszlopokban kell szerepeltetni.
-
-A b), d), f), i) oszlopokban az ügyfelenkénti (a meghatározott személyenkénti) azonosítás darabszámánál az összesen (4E11, 4E12, 4E121, 4E122, 4E2) sorokban a ,,db” oszlopokban az azonosításra kerülő ügyletek darabszámát, az értékekkel jelzett sorokban az azonosított ügyfelek számát (fő) kell kimutatni.
-
-A c), e), g), j) oszlopokban a névre szólóvá átalakított állományt attól függetlenül kell összesítve kimutatni, hogy az adott betét részben vagy egészben a hitelintézetnél marad, vagy kifizetésre kerül.
-
-A h) oszlopban a névre szólóvá átalakított állományból történt kifizetést, megszüntetett betétet kell szerepeltetni. Itt azokat az állományokat is ki kell mutatni, amelyeket anonim betétként szüntetnek meg, mert a felvételnél a felvevő személyt azonosítani kell.
-
-Az ORFK részére – a jogszabályi rendelkezéseknek megfelelően – történt bejelentéseket az i) és j) oszlopban kell kimutatni.
-
-A k) oszlopban mindig a hó végén fennálló nem névre szóló állományt kell szerepeltetni, függetlenül attól, hogy a nem névre szóló állomány a tárgyidőszakban nem vagy nemcsak csökkent, hanem növekedett is (pl. kamattőkésítés, vagy további – még az előző – jogszabály szerint engedélyezett értékpapír-kibocsátás, illetve letételhelyezés, letéti őrzés miatt).
-
-A nem névre szóló betételhelyezéseket külön megnevezett sorokban, csoportosítva kell feltüntetni.
-
-[^5]: A 3. melléklet a 14/2014. (V. 19.) MNB rendelet 8. §-a, a 24/2014. (VI. 27.) MNB rendelet 7. §-a szerint módosított szöveg.
+[^10]: A 3. melléklet a 14/2014. (V. 19.) MNB rendelet 8. §-a, a 24/2014. (VI. 27.) MNB rendelet 7. §-a szerint módosított szöveg.
 [^1).]: Ha a hitelintézet a saját teljesítményű eszközeit aktiválja, az aktivált előállítási költségek (közvetlen önköltség) az eredménykimutatásban, az általános igazgatási költségek között már nem szerepelnek az alábbi könyvelési lépések eredőjeként: 1. Növeli az általános igazgatási költségeket a Saját előállítású eszközök előállítási költségeinek elszámolása a felmerüléskor (Tartozik: 5… számlák, Követel: 4… számlák). 2.A saját előállítású eszközök aktiválásakor csökken az általános igazgatási költségek az elszámolt előállítási költségekkel azonos értékben, mivel a Saját előállítású eszközök állományba vételét (Tartozik: 13… számlák) az 5-ös számlaosztályon belüli Aktivált saját teljesítmények értéke számlával szemben (Követel: 58 … számlák) kell végrehajtani a számviteli szabályoknak megfelelően. kimutatni. A Hitkr. 23. § (2), (4) és (5) bekezdése és 24. § (5) bekezdése alapján a határidős és opciós ügyletekre történő céltartalék képzést, felhasználást és felszabadítást itt kell szerepeltetni.
 [^2.]: A lejárt oszlopban csak a már esedékessé vált, de az esedékesség időpontjáig meg nem fizetett tőke, kamat és egyéb követeléseket kell szerepeltetni. A vonatkozási dátumot követően esedékes követelések pénzáramlásai a Lejárt tételek miatti korrekciók blokkban kerülnek kivezetésre.
 [^3.]: Ezek a tételek gyakorlatilag az úton lévő tételeket tartalmazzák.
