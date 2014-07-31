@@ -1,0 +1,3 @@
+## 1. § A jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 23/2013. (XI. 6.) MNB rendelet [a továbbiakban: 23/2013. (XI. 6.) MNB rendelet] a következő 6. §-sal egészül ki:
+
+## „6. § Az 1. melléklet I. pontjában foglalt táblázatnak – az egyes adatszolgáltatási tárgyú MNB rendeletek módosításáról szóló 30/2014. (VII. 30.) MNB rendelet 1. mellékletével megállapított – 95a sorában meghatározott P55 azonosító kódú adatszolgáltatást első alkalommal a 2014. július, augusztus és szeptember hónapra mint tárgyidőszakra vonatkozóan egyidejűleg kell teljesíteni, az adatszolgáltatás teljesítési határideje: 2014. október 29.”
