@@ -1,0 +1,1 @@
+## „(2a) A pénztárgép üzemeltetője köteles az (1) bekezdés szerinti pénztárgép adómemóriáját a 2013. január 1-je és a pénztárgép használatból történő kivonása közötti időszak vonatkozásában – a használatból történő kivonást követő két hónapon belül – kiíratni, és azt az adó megállapításához való jog elévüléséig megőrizni.”
