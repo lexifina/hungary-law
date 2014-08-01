@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-338-20-
 | 2014-02-25 | 2006-338-20-22.30 | 362/2008. (XII. 31.) Korm. rendelet |
 | 2014-04-22 | 2006-338-20-22.31 | 135/2014. (IV. 22.) Korm. rendelet |
 | 2014-05-01 | 2006-338-20-22.32 | 560/2013. (XII. 31.) Korm. rendelet |
+| 2014-08-01 | 2006-338-20-22.33 | 560/2013. (XII. 31.) Korm. rendelet |
