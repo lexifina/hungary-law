@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-68-20-2
 | 2014-01-01 | 2011-68-20-22.5 | 550/2013. (XII. 30.) Korm. rendelet |
 | 2014-02-08 | 2011-68-20-22.6 | 27/2014. (II. 7.) Korm. rendelet |
 | 2014-02-10 | 2011-68-20-22.7 | 27/2014. (II. 7.) Korm. rendelet |
+| 2014-08-01 | 2011-68-20-22.8 | 27/2014. (II. 7.) Korm. rendelet |
