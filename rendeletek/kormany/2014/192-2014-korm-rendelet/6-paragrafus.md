@@ -1,3 +1,3 @@
-6. §[^1]
+6. §[^3]
 
-[^1]: A 6. § a 3. § (2) bekezdése alapján 2014. szeptember 29-én lép hatályba.
+[^3]: A 6. § a 3. § (2) bekezdése alapján 2014. szeptember 29-én lép hatályba.
