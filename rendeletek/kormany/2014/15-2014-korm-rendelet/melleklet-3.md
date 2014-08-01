@@ -1,4 +1,4 @@
-3. melléklet a 15/2014. (I. 30.) Korm. rendelethez
+3. melléklet a 15/2014. (I. 30.) Korm. rendelethez[^4]
 
 A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labdarúgó sportlétesítmény-fejlesztések
 
@@ -24,7 +24,7 @@ A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labd
 
 | 10. | Kecskemét labdarúgó sportlétesítmény-fejlesztése |
 
-| 11. | Budapest Hidegkuti Nándor Stadion labdarúgó sportlétesítmény-fejlesztése |
+| 11. |  |
 
 | 12. | Paks labdarúgó sportlétesítmény-fejlesztése |
 
@@ -57,3 +57,5 @@ A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labd
 | 26. | Szigetszentmiklós labdarúgó sportlétesítmény-fejlesztése |
 
 | 27. | Kisvárda labdarúgó sportlétesítmény-fejlesztése |
+
+[^4]: A 3. melléklet a 195/2014. (VII. 31.) Korm. rendelet 1. §-a szerint módosított szöveg.
