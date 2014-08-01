@@ -76,13 +76,13 @@ ab) e szabálysértés elkövetéséért három hónapon belül jogerősen elmar
 
 b) önkormányzati rendeletben előírt, a lakókörnyezet (kert, udvar, jogszabályban meghatározott, az ingatlanhoz kapcsolódó közterület) rendezettségének biztosítására vonatkozó kötelezettségét nem teljesíti.
 
-(4b) A hivatalból folytatott közigazgatási eljáráshoz megkeresésre a (4a) bekezdés b) pontja szerinti esetben az álláskereső lakóhelye szerint illetékes jegyző 3 napon belül adatot szolgáltat a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási munkaügyi kirendeltsége (a továbbiakban: kirendeltség) részére.
+(4b) A hivatalból folytatott közigazgatási eljáráshoz megkeresésre a (4a) bekezdés b) pontja szerinti esetben az álláskereső lakóhelye szerint illetékes jegyző 3 napon belül adatot szolgáltat az állami foglalkoztatási szerv járási szerve (a továbbiakban: járási foglalkoztatási szerv) részére.
 
-(4c) A (4a) bekezdés ab) pontjában meghatározott kizárási ok fennállásának ellenőrzése érdekében a közfoglalkoztatási jogviszonyba történő kiközvetítés előtt a kirendeltség adatot közvetlenül vehet át a szabálysértési nyilvántartásból.
+(4c) A (4a) bekezdés a) pont ab) alpontjában meghatározott kizárási ok fennállásának ellenőrzése érdekében a közfoglalkoztatási jogviszonyba történő kiközvetítés előtt a járási foglalkoztatási szerv adatot közvetlenül vehet át a szabálysértési nyilvántartásból.
 
-(4d) A kizárás kérdésében első fokon a kirendeltség, másodfokon a munkaügyi központ hatósági határozattal dönt.
+(4d) A kizárás kérdésében első fokon a járási foglalkoztatási szerv, másodfokon az állami foglalkoztatási szerv megyei szerve (a továbbiakban: megyei foglalkoztatási szerv) hatósági határozattal dönt.
 
-(4e) Amennyiben a közfoglalkoztatási jogviszony létrehozását követően értesül a kirendeltség a közfoglalkoztatást kizáró okról, a kizárásról szóló döntését közli a közfoglalkoztatóval. A közfoglalkoztató a közfoglalkoztatási jogviszonyt a jogerős döntés alapján azonnali felmondással megszünteti.
+(4e) Ha a közfoglalkoztatási jogviszony létrehozását követően értesül a járási foglalkoztatási szerv a közfoglalkoztatást kizáró okról, a kizárásról szóló döntését közli a közfoglalkoztatóval. A közfoglalkoztató a közfoglalkoztatási jogviszonyt a jogerős döntés alapján azonnali felmondással megszünteti.
 
 (4f) A (4a) bekezdés b) pontja szerinti esetben a megkeresésre nincsen szükség, amennyiben a közfoglalkoztatást a közfoglalkoztatott lakóhelye szerinti helyi önkormányzat, annak intézménye, vagy a helyi önkormányzat által alapított gazdálkodó szervezet valósítja meg, vagy az önkormányzatnak nincs a (4a) bekezdés b) pont szerinti hatályos rendelete.
 
