@@ -1,0 +1,3 @@
+## 1. § Hatályát veszti a Nemzeti Stadionfejlesztési Program keretében megvalósítandó egyes labdarúgó sportlétesítmény-fejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 15/2014. (I. 30.) Korm. rendelet 3. mellékletében foglalt táblázat 11. sora.
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
