@@ -1,9 +1,15 @@
-6. § (1) HM rendelkezésű lakás juttatható
+## 6. §[^19] HM rendelkezésű lakás juttatható
 
-a) a szerződéses állomány tagja részére, amennyiben a szerződéses szolgálatban 5 évet már eltöltött és összesen legalább 10 év szolgálatot vállalt,
+a) a szerződéses tiszt és altiszt részére, ha
 
-b)[^12] a legalább öt éve folyamatosan a honvédelmi szerv állományába tartozó kormánytisztviselő, közalkalmazott és munkavállaló részére, amennyiben azt beosztásának ellátása feltétlenül indokolja.
+aa) a szerződéses katonai szolgálati viszony 2014. augusztus 1-jét megelőzően keletkezett, továbbá
 
-(2) Az (1) bekezdésben meghatározott ötéves időfeltétel alól két és fél év letöltését követően – különös méltánylást érdemlő esetben – az illetékes helyőrségi, Budapesten a keretgazda lakásbizottság felmentést adhat. Nem kell felmentés a vezetői és a munkakörhöz kötött lakás juttatásához.
+ab) a katona a szerződéses szolgálatban folyamatosan 5 évet már eltöltött és összesen legalább a 10. év eléréséig vállalta a további szolgálatot;
 
-[^12]: A 6. § (1) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés c) pontja szerint módosított szöveg.
+b) a honvédelmi szerv állományába tartozó kormánytisztviselő, közalkalmazott és munkavállaló részére, ha
+
+ba) a honvédelmi szervvel legalább öt éve folyamatosan fennálló alkalmazotti jogviszony 2014. augusztus 1-jét megelőzően keletkezett, és
+
+bb) a munkáltatói jogkört gyakorló munkahelyi vezető igazolja, hogy a lakásjuttatást az igénylő által ellátott beosztás vagy munkakör ellátása feltétlenül indokolja.
+
+[^19]: A 6. § a 10/2014. (VII. 25.) HM rendelet 24. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.

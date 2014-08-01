@@ -1,1 +1,3 @@
-## 46. § A honvédelmi szerv által bérbe adott magánbefektetői HM rendelkezésű lakás esetében az azzal azonos alapterületű és komfortfokozatú állami tulajdonú, HM vagyonkezelésű lakásra az e rendelet szerint megállapítható lakbért a bérlő a honvédelmi szerv részére fizeti meg. Ebben az esetben – függetlenül attól, hogy magánbefektetői HM rendelkezésű lakás bérlő vagy jogcím nélküli lakáshasználó által lakott, vagy üres – a magánbefektetővel kötött elhelyezési célú megállapodásban meghatározott pénzügyi kötelezettséget mint ellenszolgáltatást a magánbefektető vagy annak képviselője részére a honvédelmi szerv teljesíti.
+## 45–46. §[^66]
+
+[^66]: A 45–46. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.

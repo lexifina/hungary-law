@@ -1,4 +1,4 @@
-## 186. § A vissza nem térítendő juttatás vonatkozásában a 179–185. §-ban megállapított feltételeken túl a munkáltatói kölcsön feltételeire, igénylésére, felmondására és visszatérítésére vonatkozó szabályokat kell megfelelően alkalmazni.
+## 186. §[^145] A vissza nem térítendő juttatás vonatkozásában a 179–185. §-okban megállapított feltételeken túl a munkáltatói kölcsön feltételeire, igénylésére, a kölcsönigénylés elbírálásának és a kölcsönfolyósítás felfüggesztésére, a kölcsön 201. § (2) bekezdése szerinti felmondására és visszatérítésére, valamint a támogatás biztosítékainak más ingatlanra történő átjegyzésére vonatkozó rendelkezéseit is megfelelően alkalmazni kell.
 
 ## XIII. Fejezet
 
@@ -19,3 +19,5 @@ e) lakás tulajdoni hányadának az öröklés útján létrejött tulajdonköz�
 f) lakástulajdonnak az a) és b) pontok szerinti megszerzéséhez igénybe vett lakáscélú pénzintézeti kölcsönből fennálló tartozás összegének csökkentéséhez, kiegyenlítéséhez, amennyiben a kölcsönszerződés megkötésétől számított 10 év még nem telt el.
 
 (2) Az (1) bekezdést kell alkalmazni akkor is, ha a kölcsönt igénylő a lakásnak legalább 1/4-ed részben tulajdonosa.
+
+[^145]: A 186. § a 10/2014. (VII. 25.) HM rendelet 38. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.

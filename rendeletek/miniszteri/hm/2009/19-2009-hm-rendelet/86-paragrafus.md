@@ -1,4 +1,4 @@
-## 85. § Az állami tulajdonú HM rendelkezésű lakás bérlője és jogcím nélküli használója a külön szolgáltatások díját a jogszabályokban, valamint az e rendeletben meghatározottak szerint köteles megfizetni a bérbeadó által megjelölt helyi lakóházkezelő szerv részére. A szolgáltatásokat érintő fogyasztói árváltozásokat a bérbeadó – a kezelő szerv útján – egyoldalúan jogosult érvényesíteni.
+## 85/A. §[^98] A helyi lakásgazdálkodási szervnek a HM rendelkezésű lakás juttatásával, bérletével, bérletének megszüntetésével és jogcím nélküli használatával összefüggő érdemi döntése ellen panaszt a HM központi lakásgazdálkodási szervhez lehet benyújtani.
 
 86. § (1) Az állami tulajdonú HM rendelkezésű lakások bérlői (használói) által fizetendő víz- és csatornahasználati díj megállapításához
 
@@ -19,3 +19,5 @@ kell alapul venni, amit a díjközlésnek is tartalmaznia kell.
 (3) Az állami tulajdonú HM rendelkezésű társasházi és szövetkezeti lakás bérlője (használója) által fizetendő víz- és csatornahasználati díj megállapításához a tulajdonközösség által meghatározott, a közös költségviselés körébe nem tartozó, kizárólag a lakásra eső vízmennyiséget kell alapul venni.
 
 (4) Az (1)–(3) bekezdések szerint meghatározott vízmennyiség alapján fizetendő víz- és csatornahasználati díjat a területileg illetékes helyi vagy regionális, ezek hiányában a településhez legközelebb eső polgári víz-, illetve csatorna-szolgáltató víziközmű által mindenkor alkalmazott egységár felszámításával kell megállapítani. A díjat akkor is így kell megállapítani, ha a szolgáltatás a HM vagyonkezelésében lévő közműrendszerről vagy hálózatról történik.
+
+[^98]: A 85/A. §-t a 10/2014. (VII. 25.) HM rendelet 31. §-a iktatta be. Alkalmazására lásd e módosító rendelet 17–18. §-át.

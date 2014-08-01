@@ -1,3 +1,5 @@
-24. § (1) A nyilvántartott lakásigények teljesítésére évente a rendelkezésre álló lakások 80%-át kell a budapesti keretgazda lakásbizottságok között elosztani.
+24. §[^43] (1) A keretgazda lakásbizottságoknál nyilvántartott lakásigénylések teljesítésére szolgáló keretet a lakáselosztási terv elkészítésekor felhasználható lakások legalább 80%-ából kell képezni.
 
-(2) A lakáselosztásra a tárgyévet megelőző évben a hivatásos állományú I. kategóriába, valamint a nyugállományú és özvegy I. kategóriába besorolt lakásigények arányában kerül sor, a meglévő és az új, a különböző nagyságrendű, illetőleg komfortfokozatú lakások arányos megosztásával. A nagyobb szobaszámú és alapterületű lakásokat a három- vagy többgyermekes igénylők arányában kell elosztani.
+(2) A budapesti keretgazda lakásbizottságok közötti lakáselosztásra a hivatásos állományú katonák I. kategóriába, valamint a nyugállományú hivatásos katonák és özvegyek I. kategóriába besorolt lakásigényeinek arányában kerül sor.
+
+[^43]: A 24. § a 10/2014. (VII. 25.) HM rendelet 28. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.

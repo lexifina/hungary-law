@@ -1,3 +1,5 @@
+## 31. §[^55]
+
 32. § (1) A HM rendelkezésű lakást határozatlan időtartamra kell bérbe adni:
 
 a) ha a lakásigény teljesítésére az 5. § (2) bekezdésben meghatározott végleges letelepedés címén kerül sor,
@@ -11,3 +13,5 @@ d) annak, aki a visszaadásra kerülő vagy a korábban térítés nélkül viss
 e) annak, aki a honvédelmi szerv által visszavásárolt lakásának a magántulajdon szerzése előtt a bérlője volt.
 
 (2) Az (1) bekezdés b) pontja a honvédelmi szerv állományába tartozó személy esetében nem alkalmazható. Részére a lakást – amennyiben a 9. § (1) bekezdés szerinti kizáró ok nem áll fent – a 30. § (1) bekezdésben foglaltak szerint kell bérbe adni.
+
+[^55]: A 31. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.

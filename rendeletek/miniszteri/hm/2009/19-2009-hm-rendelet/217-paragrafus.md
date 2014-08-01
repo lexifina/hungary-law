@@ -12,6 +12,18 @@ e) az albérleti díj hozzájárulásban részesülő személyt időközben egy 
 
 f) az albérleti (bérleti) szerződés megszűnik, vagy azt a felek – közös megegyezéssel vagy az arra jogosult felmondásával – megszüntetik,
 
-g) a hozzájárulásban részesülő személy a folyósítás megkezdésétől számított 30 napon belül nem igazolja, hogy a bérbe (lízingbe) vett lakóingatlan vonatkozásában a külön jogszabályban foglalt lakcím-bejelentési kötelezettségét teljesítette, és nem igazolja azt, hogy az attól eltérően bejelentett lakó- vagy tartózkodási helyről történő napi munkába járáshoz a honvédelmi szervtől utazási költségtérítésben nem részesül.
+g)[^203] a hozzájárulásban részesülő személy a 215. § (2) bekezdésében foglalt kivétellel HM rendelkezésű lakás kiürítése ellenében pénzbeli térítésben részesül,
 
-(2) Az albérleti díj hozzájárulásban részesülő személy az (1) bekezdés b)–d) és f) pontjaiban meghatározott megszüntető okok bekövetkezését haladéktalanul köteles a helyi lakásgazdálkodási szervnek és az állományilletékes parancsnokának (munkahelyi vezetőjének) bejelenteni. E kötelezettségének elmulasztása esetén a jogosulatlanul felvett albérleti díj hozzájárulást egyösszegben köteles visszafizetni. Erre az igazolás kiadásakor figyelmeztetni kell.
+h)[^204] a hozzájárulásban részesülő személy vagy annak házastársa, élettársa részére lakáspénz kerül megállapításra,
+
+i)[^205] a hozzájárulásban részesülő személy egy évet meghaladó időtartamban vesz igénybe illetmény nélküli szabadságot, kivéve, ha arra gyermeke nevelése, személyes gondozása vagy közeli hozzátartozója személyes ápolása céljából kerül sor,
+
+j)[^206] a hozzájárulásban részesülő személy a folyósítás megkezdésétől számított 30 napon belül nem igazolja, hogy a bérbe (lízingbe) vett lakóingatlan vonatkozásában a külön jogszabályban foglalt lakcím-bejelentési kötelezettségét teljesítette, és nem igazolja azt, hogy az attól eltérően bejelentett lakó- vagy tartózkodási helyről történő napi munkába járáshoz a honvédelmi szervtől utazási költségtérítésben nem részesül.
+
+(2)[^207] Az albérleti díj hozzájárulásban részesülő személy az (1) bekezdés b)–d) és f)–h) pontjában meghatározott megszüntető ok bekövetkezését haladéktalanul köteles a helyi lakásgazdálkodási szervnek és az állományilletékes parancsnokának (munkahelyi vezetőjének) bejelenteni. E kötelezettségének elmulasztása esetén a jogosulatlanul felvett albérleti díj hozzájárulást egyösszegben köteles visszafizetni. Erre az igazolás kiállításakor figyelmeztetni kell.
+
+[^203]: A 217. § (1) bekezdés g) pontja a 10/2014. (VII. 25.) HM rendelet 50. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^204]: A 217. § (1) bekezdés h) pontját a 10/2014. (VII. 25.) HM rendelet 50. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^205]: A 217. § (1) bekezdés i) pontját a 10/2014. (VII. 25.) HM rendelet 50. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^206]: A 217. § (1) bekezdés j) pontját a 10/2014. (VII. 25.) HM rendelet 50. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^207]: A 217. § (2) bekezdése a 10/2014. (VII. 25.) HM rendelet 50. § (3) bekezdésével megállpaított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.

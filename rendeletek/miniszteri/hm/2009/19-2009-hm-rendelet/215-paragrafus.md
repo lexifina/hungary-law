@@ -1,43 +1,45 @@
-215. § (1) A hozzájárulás szempontjából albérletnek kell tekinteni:
+215. §[^201] (1) Albérleti díj hozzájárulás állapítható meg:
 
-a) a magán-, állami, továbbá önkormányzati tulajdonú lakás egy részének bérletét;
+a) szállodai vagy apartman jellegű kereskedelmi szálláshely bérletéhez,
 
-b) a magántulajdonú lakás bérletét;
+b) lakás bérletéhez, az állami és önkormányzati tulajdonú lakás kivételével.
 
-c) a szállodai vagy szállodai jellegű szobabérletet;
+(2) A hozzájárulás lakásnak lízingbe adásra jogosult a polgári perrendtartásról szóló 1952. évi III. törvény szerintigazdálkodó szervezettől (a továbbiakban: gazdálkodó szervezet) való lízingjéhez is megállapítható, ha
 
-d) lakásnak lízingbe adására jogosult gazdasági társaságtól való lízingjét.
+a) a hivatásos vagy szerződéses állományú kérelmező a 45. életévét betöltötte,
 
-(2) A hozzájárulás mértéke a szerződéssel és számlával, illetőleg az (1) bekezdés c) pontja esetében a számlával igazolt, rezsiköltséget nem tartalmazó albérleti vagy bérleti díj, de legfeljebb a jogosult a 10. § (1) és (4) bekezdései alapján megállapítható jogos lakásigény mértékének alsó határával megegyező szobaszámú lakásra a (3)–(5) bekezdés szerint számított összeg.
+b) esetében a 214. § (1) bekezdés a)–i) és k) pontjában meghatározott kizáró ok nem áll fent, és
 
-(3) Amennyiben a jogosult esetében a 10. § (1) és (4) bekezdés szerinti jogos lakásigény mérték alsó határa
+c) az általa vagy a házastársa, élettársa által bérelt, jogcím nélkül használt lakást a bérlő, jogcím nélküli használó a bérbeadó részére visszaadja.
 
-a) 1 lakószoba, a hozzájárulás mértéke a köztisztviselői illetményalap 1,4-szeresét,
+(3) A hozzájárulás mértéke a szerződéssel és számlával, számlakibocsátási kötelezettség hiányában az ügylet teljesítését igazoló, a számviteli törvény rendelkezései szerinti számviteli bizonylatnak minősülő okirattal, az (1) bekezdés a) pontja esetében a számlával igazolt, rezsiköltséget nem tartalmazó bérleti, albérleti vagy lízing díj, de legfeljebb a jogosult a 10. § (1) és (4) bekezdései alapján megállapítható jogos lakásigény mértékének alsó határával megegyező szobaszámú lakásra a (4)–(6) bekezdés szerint számított összeg.
 
-b) 1,5 lakószoba, a hozzájárulás mértéke a köztisztviselői illetményalap 1,75-szorosát,
+(4) Ha a jogosult esetében a 10. § (1) és (4) bekezdés szerinti jogos lakásigény mérték alsó határa
 
-c) 2 lakószoba, a hozzájárulás mértéke a köztisztviselői illetményalap 2,1-szeresét,
+a) 1 lakószoba, a hozzájárulás mértéke az illetményalap 1,4-szerese,
 
-d) 2,5 lakószoba, a hozzájárulás mértéke a köztisztviselői illetményalap 2,45-szorosát,
+b) 1,5 lakószoba, a hozzájárulás mértéke az illetményalap 1,75-szorosa,
 
-e) 3 lakószoba, a hozzájárulás mértéke a köztisztviselői illetményalap 2,8-szeresét,
+c) 2 lakószoba, a hozzájárulás mértéke az illetményalap 2,1-szerese,
 
-f) 3,5 lakószoba, a hozzájárulás mértéke a köztisztviselői illetményalap 3,15-szorosát,
+d) 2,5 lakószoba, a hozzájárulás mértéke az illetményalap 2,45-szorosa,
 
-g) 4 lakószoba, a hozzájárulás mértéke a köztisztviselői illetményalap 3,5-szeresét,
+e) 3 lakószoba, a hozzájárulás mértéke az illetményalap 2,8-szerese,
 
-h) 4,5 vagy annál több lakószoba, a hozzájárulás mértéke a köztisztviselői illetményalap 3,85-szorosát
+f) 3,5 lakószoba, a hozzájárulás mértéke az illetményalap 3,15-szerese,
 
-nem haladhatja meg.
+g) 4 lakószoba, a hozzájárulás mértéke az illetményalap 3,5-szerese,
 
-(4) Az albérleti díj hozzájárulás (3) bekezdés szerint számított összegét annak további 10–10%-ával meg kell növelni, ha
+h) 4,5 vagy annál több lakószoba, a hozzájárulás mértéke az illetményalap 3,85-szorosa.
 
-a) a 10. § (1) és (4) bekezdés szerinti jogos lakásigény mérték megállapításánál figyelembe vehető családtagjaival együtt költöző jogosult által a szolgálati helye szerinti településen bérelt, lízingelt lakás Budapesten vagy annak e rendelet szerinti vonzáskörzetében lévő helyőrségi településen vagy megyei jogú városban van;
+(5) Az albérleti díj hozzájárulás (4) bekezdés szerint számított összegét annak további 10-10%-ával meg kell növelni, ha
 
-b) az új szolgálati helye szerinti településen bérelt, lízingelt lakásba a 10. § (1) és (4) bekezdés szerinti jogos lakásigény mérték megállapításánál figyelembe vehető családtagjaival együtt költöző jogosult helyőrségváltással együtt járó kinevezése, áthelyezése, rendelkezési állományból más szervhez határozatlan időtartamra szóló vezénylése nem saját kérelemre történt;
+a) a jogosult helyőrségváltással együtt járó kinevezése, áthelyezése, egy évet meghaladó időtartamú vezénylése nem saját kérelemre történt;
 
-c) a jogosult helyőrségváltással együtt járó kinevezése, áthelyezése, rendelkezési állományból más szervhez határozatlan időtartamra szóló vezénylése nem saját kérelemre történt.
+b) az a) pont szerinti feltételekkel rendelkező személy a 10. § (1) és (4) bekezdés szerinti jogos lakásigény mérték megállapításánál figyelembe vehető családtagjaival együtt költözik az új szolgálati hely szerinti településen bérelt, lízingelt lakásba;
 
-(5)[^127] A (2)–(4) bekezdések alapján megállapított, illetve kiszámított albérleti díj hozzájárulás összegét a szociális körülmények figyelembevételével az állományilletékes parancsnok további 10%-kal kiegészítheti, ha a jogosult családi pótlékban részesül.
+c) a 10. § (1) és (4) bekezdés szerinti jogos lakásigény mérték megállapításánál figyelembe vehető családtagjaival együtt költöző személy által a szolgálati hely szerinti településen bérelt lakás egyben Budapesten, Szentendrén vagy megyei jogú városban van.
 
-[^127]: A 215. § (5) bekezdése a 15/2010. (X. 5.) HM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+(6) A (3)–(5) bekezdések alapján megállapított, illetve kiszámított albérleti díj hozzájárulás összegét a szociális körülmények figyelembevételével az állományilletékes parancsnok további 10%-kal kiegészítheti, ha a jogosult családi pótlékban részesül.
+
+[^201]: A 215. § a 10/2014. (VII. 25.) HM rendelet 48. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.

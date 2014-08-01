@@ -2,24 +2,38 @@
 
 ## VISSZA NEM TÉRÍTENDŐ JUTTATÁS
 
-179. § (1)[^86] A végleges letelepedés, illetve a lakhatás végleges megoldásának elősegítésére, a szolgálati viszony fennállásának tartama alatt, a 187. § (1) bekezdés a)–b) pontjában meghatározott célra, vissza nem térítendő juttatásra jogosult
+179. § (1)[^132] A végleges letelepedés, illetve a lakhatás végleges megoldásának elősegítésére, a szolgálati viszony fennállásának tartama alatt, a 187. § (1) bekezdés a)–b) pontjában meghatározott célra, vissza nem térítendő juttatásra jogosult
 
-a) az 52. életévét betöltött hivatásos katona, vagy
+a) a hivatásos katona, ha
 
-b) életkorától függetlenül a felmentés alatt álló hivatásos katona, amennyiben a szolgálati viszony saját kérelemre történő megszüntetésére azért kerül sor, mert a megváltozott munkaképességű személyek ellátására szerzett jogosultságot,
+aa) a szolgálati viszonya 2014. augusztus 1-jét megelőzően keletkezett,
 
-feltéve, hogy az igénylő a lakás tulajdonát legalább 50%-os tulajdoni hányad arányában szerzi meg.
+ab) legalább tíz év szolgálati viszonnyal rendelkezik, és
 
-(2)[^87] A Hjt. 46. § (1) bekezdés r) vagy s) pontja szerinti rendelkezési állományba helyezett és az (1) bekezdés a) pontjában meghatározott feltételekkel rendelkező hivatásos katona vissza nem térítendő juttatás iránti kérelme a rendelkezési állományba helyezést követően benyújtható, a kérelem azonban csak a szolgálati viszony megszűnését követően teljesíthető.
+ac) az 52. életévét betöltötte;
 
-(2a)[^88] Az (1) bekezdés b) pontja szerinti esetben a támogatás a szolgálati viszony megszüntetéséről rendelkező határozat (parancs) kiadmányozását követően, a szolgálati viszony megszűnésének napjáig terjedő időszakban nyújtható, illetve állapítható meg.
+b) életkorától függetlenül a felmentés alatt álló, az a) pont aa) és ab) alpontjában meghatározott feltétellel rendelkező hivatásos katona, ha a szolgálati viszony saját kérelemre történő megszüntetésére azért kerül sor, mert a megváltozott munkaképességű személyek ellátására szerzett jogosultságot és a kérelmét még a szolgálati viszony megszűnése előtt benyújtja
 
-(3) Nem teljesíthető a vissza nem térítendő juttatás iránti igény, ha a kérelmező
+## ha a lakás kizárólagos tulajdonjogát, a közeli hozzátartozójával történő közös tulajdon szerzése esetén a lakás tulajdonjogát legalább 1/2-ed részben megszerzi.
 
-a) vagy házastársa (élettársa), saját háztartásában nevelt kiskorú gyermeke (örökbe fogadott, mostoha, nevelt gyermeke) lakásának tulajdonjogát az igénylés benyújtását megelőző öt éven belül ingyenesen átruházta,
+(2)[^133]
 
-b) korábban vissza nem térítendő juttatásban részesült, vagy a házastársa (élettársa) a családjogi kapcsolat fennállása alatt részesült e támogatásban.
+(2a)[^134] Az (1) bekezdés b) pontja szerinti esetben a támogatás a szolgálati viszony megszüntetéséről rendelkező határozat (parancs) kiadmányozását követően, a szolgálati viszony megszűnésének napjáig terjedő időszakban nyújtható, illetve állapítható meg.
 
-[^86]: A 179. § (1) bekezdése a 22/2013. (X. 7.) HM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^87]: A 179. § (2) bekezdése a 22/2013. (X. 7.) HM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^88]: A 179. § (2a) bekezdését a 22/2013. (X. 7.) HM rendelet 14. § (2) bekezdése iktatta be.
+(3)[^135] Nem teljesíthető a vissza nem térítendő juttatás iránti igény, ha
+
+a) a kérelmező vagy a kérelmező házastársa, élettársa a házasság fennállása vagy az együttélés tartama alatt az általa bérelt vagy jogcím nélkül használt állami vagy önkormányzati lakást önállóan vagy együttesen megvásárolta, vagy a lakás harmadik személy általi megvásárlásához hozzájárult;
+
+b) az igénylő vagy az igénylő házastársa, élettársa, az igénylő háztartásában eltartott gyermeke a kizárólagos vagy a felsorolt személyek közös tulajdonában lévő lakás tulajdonjogát a támogatás benyújtását megelőző öt éven belül ingyenes átruházta;
+
+c) a kérelmező korábban vissza nem térítendő juttatásban részesült;
+
+d) a kérelmező házastársa, élettársa a családjogi kapcsolat vagy az életközösség fennállása alatt vissza nem térítendő juttatásban vagy egyszeri pénzbeli támogatásban részesült.
+
+(4)[^136] A lakáscélú támogatási szerv vissza nem térítendő juttatással kapcsolatos érdemi döntése ellen panaszt a HM központi lakásgazdálkodási szervhez lehet benyújtani.
+
+[^132]: A 179. § (1) bekezdése a 10/2014. (VII. 25.) HM rendelet 36. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^133]: A 179. § (2) bekezdését a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^134]: A 179. § (2a) bekezdését a 22/2013. (X. 7.) HM rendelet 14. § (2) bekezdése iktatta be.
+[^135]: A 179. § (3) bekezdése a 10/2014. (VII. 25.) HM rendelet 36. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^136]: A 179. § (4) bekezdését a 10/2014. (VII. 25.) HM rendelet 36. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 17–18. §-át.

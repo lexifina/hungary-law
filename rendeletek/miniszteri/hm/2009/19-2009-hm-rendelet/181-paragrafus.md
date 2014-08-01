@@ -1,6 +1,8 @@
-181. § (1)[^89] A vissza nem térítendő juttatás összege az igazolt építési költségnek vagy vételárnak a 188. § vagy a 189. § alapján számítható munkáltatói kölcsönnel csökkentett összege, amely azonban a személyi jövedelemadóról szóló törvény szerint adómentesen juttatható lakáscélú munkáltatói támogatás felső határa mellett nem haladhatja meg a köztisztviselői illetményalap
+## 180. §[^137]
 
-a) 70-szeres összegét az 52. életévének betöltése előtt szolgálati (baleseti, rokkantsági) nyugállományba helyezett jogosult esetében, illetve
+181. § (1)[^138] A vissza nem térítendő juttatás összege az igazolt építési költségnek vagy vételárnak a 188. § vagy a 189. § alapján számítható munkáltatói kölcsönnel csökkentett összege, amely azonban a személyi jövedelemadóról szóló törvény szerint adómentesen juttatható lakáscélú munkáltatói támogatás felső határa mellett nem haladhatja meg az illetményalap
+
+a)[^139] 70-szeres összegét az 52. életévének betöltése előtt nyugállományba helyezett jogosult esetében, illetve
 
 b) 140-szeres összegét minden más esetben.
 
@@ -16,6 +18,9 @@ b) házastársa (élettársa) – a házasság vagy az élettársi kapcsolat fen
 
 (5) A honvédelmi szervtől korábban munkáltatói kölcsönben részesült személy részére megállapítható vissza nem térítendő juttatásból le kell vonni a kölcsönből részére jóváírt engedmények összegét.
 
-(6) A juttatás összegének megállapításakor a köztisztviselői illetményalapnak az igénylés elbírálására jogosult szervhez történő beérkezésekor hatályos összegét kell figyelembe venni.
+(6)[^140] A juttatás összegének megállapításakor az illetményalapnak az igénylés elbírálására jogosult szervhez történő beérkezésekor hatályos összegét kell figyelembe venni.
 
-[^89]: A 181. § (1) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (9) bekezdése szerint módosított szöveg.
+[^137]: A 180. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^138]: A 181. § (1) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (9) bekezdése, a 10/2014. (VII. 25.) HM rendelet 58. § (4) bekezdése szerint módosított szöveg.
+[^139]: A 181. § (1) bekezdés a) pontja a 10/2014. (VII. 25.) HM rendelet 58. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^140]: A 181. § (6) bekezdése a 10/2014. (VII. 25.) HM rendelet 58. § (6) bekezdése szerint módosított szöveg.

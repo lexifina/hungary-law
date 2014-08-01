@@ -6,7 +6,7 @@
 
 a) az 1. mellékletben meghatározott területileg illetékes helyi lakásgazdálkodási szerv székhelye szerinti, továbbá az illetékességébe utalt más helyőrségi és egyéb településeket,
 
-b)[^13] Budapest helyőrség viszonylatában a fővárosi helyi lakásgazdálkodási szerv illetékességébe tartozó Budapest fővárost, valamint az illetékességébe utalt településeket.
+b)[^20] Budapest helyőrség viszonylatában a fővárosi helyi lakásgazdálkodási szerv illetékességébe tartozó Budapest fővárost, valamint az illetékességébe utalt településeket.
 
 (4) E rendelet alkalmazásában vonzáskörzetnek kell tekinteni:
 
@@ -16,14 +16,14 @@ b) azokat a településeket, amelyek közelebb eső közigazgatási határa a sz
 
 c) amelyektől a szolgálati hely szerinti helyőrségi település menetrend szerint közlekedő tömegközlekedési eszközzel – a járat üzemeltetője által közzétett menetrend szerint – legfeljebb egy óra alatt megközelíthető.
 
-(5)[^14] Ha a honvédek jogállásáról szóló 2012. évi CCV. törvényben (a továbbiakban: Hjt.) meghatározott szolgálati hely és a szolgálatteljesítés helye szerinti település nem azonos, e rendelet alkalmazásában szolgálati helynek azt a belföldi települést kell tekinteni, ahol az állomány tagja a szolgálatot kinevezéssel, áthelyezéssel, továbbá – az egy évet meg nem haladó vezénylés esetét kivéve – vezényléssel teljesíti. Helyőrségi település az a helység, amelyben katonai szervezet vagy annak szervezeti eleme működik.
+(5)[^21] Ha a Hjt.-ben meghatározott szolgálati hely és a szolgálatteljesítés helye szerinti település nem azonos, e rendelet alkalmazásában szolgálati helynek azt a belföldi települést kell tekinteni, ahol az állomány tagja a szolgálatot kinevezéssel, áthelyezéssel, továbbá – az egy évet meg nem haladó vezénylés esetét kivéve – vezényléssel teljesíti. Helyőrségi település az a helység, amelyben katonai szervezet vagy annak szervezeti eleme működik.
 
-(6)[^15] Az állomány rendelkezési állományban lévő, egy évet meg nem haladó időtartamra vezényelt vagy szolgálatteljesítésre nem vezényelt tagja esetében a rendelet alkalmazásában szolgálati helynek azt az utolsó belföldi települést kell tekinteni, ahol az állomány tagja a szolgálatot kinevezéssel, áthelyezéssel, továbbá egy évet meghaladó határozott időtartamú vagy határozatlan időtartamra szóló vezényléssel teljesítette.
+(6)[^22] Az állomány rendelkezési állományban lévő, egy évet meg nem haladó időtartamra vezényelt vagy szolgálatteljesítésre nem vezényelt tagja esetében a rendelet alkalmazásában szolgálati helynek azt az utolsó belföldi települést kell tekinteni, ahol az állomány tagja a szolgálatot kinevezéssel, áthelyezéssel, továbbá egy évet meghaladó határozott időtartamú vagy határozatlan időtartamra szóló vezényléssel teljesítette.
 
 (7) Vezetői lakás kizárólag az arra jogosult személy szolgálati helye szerinti helyőrségi településen juttatható.
 
 (8) Munkakörhöz kötött lakás a szolgálat teljesítésének, illetve a munkakör ellátásának helyén (helyszínén) adható bérbe.
 
-[^13]: A 7. § (3) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^14]: A 7. § (5) bekezdése a 22/2013. (X. 7.) HM rendelet 2. §-ával megállapított szöveg.
-[^15]: A 7. § (6) bekezdése a 22/2013. (X. 7.) HM rendelet 2. §-ával megállapított szöveg.
+[^20]: A 7. § (3) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^21]: A 7. § (5) bekezdése a 22/2013. (X. 7.) HM rendelet 2. §-ával megállapított, a 10/2014. (VII. 25.) HM rendelet 58. § (3) bekezdése szerint módosított szöveg.
+[^22]: A 7. § (6) bekezdése a 22/2013. (X. 7.) HM rendelet 2. §-ával megállapított szöveg.

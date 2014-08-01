@@ -24,17 +24,9 @@ b) a szövetkezeti vagy társasházban lévő, a Magyar Állam tulajdonában ál
 
 c) az önkormányzati tulajdonban levő lakás és nem lakás céljára szolgáló olyan helyiség, amelyre a honvédelmi szervnek e rendelet hatálybalépésekor bérlőkijelölési vagy bérlőkiválasztási joga áll fenn, vagy azt megállapodással utóbb megszerzi,
 
-d) az olyan lakás és nem lakás céljára szolgáló helyiség, amelyre a honvédelmi szerv magánbefektetővel kötött szerződés alapján – függetlenül attól, hogy az a Magyar Állam tulajdonába és a HM vagyonkezelésébe kerül-e – elhelyezési célú használati, hasznosítási jogot szerzett (a továbbiakban: magánbefektetői HM rendelkezésű lakás, nem lakás céljára szolgáló helyiség),
+d)–e)[^7]
 
-e) a magán- vagy vegyesvállalkozás keretében épített lakás és helyiség, amelyre a honvédelmi szerv szerződés alapján vevőkijelölési jogot szerzett.
-
-(3) E rendelet értelmében
-
-a) magánberuházásból létesített HM rendelkezésű az olyan magánbefektetői HM rendelkezésű lakás, nem lakás céljára szolgáló helyiség, ami az elhelyezési célú megállapodás alapján a Magyar Állam tulajdonába és a HM vagyonkezelésébe kerül;
-
-b) vállalkozói HM rendelkezésű az olyan magánbefektetői HM rendelkezésű lakás, nem lakás céljára szolgáló helyiség, ami az elhelyezési célú megállapodás alapján nem kerül a Magyar Állam tulajdonába és a HM vagyonkezelésébe.
-
-(4) Elhelyezési célúnak minősül minden olyan magánbefektetővel kötött megállapodás, amellyel a honvédelmi szerv jogosulttá válik az e rendelet alapján arra jogosult személynek mint a lakás vagy nem lakás céljára szolgáló helyiség bérlőjének kijelölésére vagy kiválasztására. A magánbefektetői HM rendelkezésű lakás, nem lakás céljára szolgáló helyiség bérbeadói jogát az elhelyezési célú megállapodás alapján gyakorolhatja a honvédelmi szerv vagy a magánbefektető, illetve annak arra feljogosított képviselője.
+(3)–(4)[^8]
 
 (5) Munkakörhöz kötött lakás a házfelügyelői, szálló- és lőtérgondnoki, a műterem-, valamint más, a honvédelmi szerv területén lévő lakás.
 
@@ -50,17 +42,17 @@ c) az országos parancsnoki beosztás.
 
 a) a helyőrségi szálló, továbbá
 
-b)[^6] a laktanyai tiszti és altiszti szállás.
+b)[^9] a laktanyai tiszti és altiszti szállás.
 
 (8) A rendelet alkalmazásában
 
-a)[^7] bérbeadó: az állami tulajdonú HM rendelkezésű lakások és személygépkocsi-tároló helyiségek, illetve állóhelyek tekintetében a helyi lakásgazdálkodási szerv, az állami tulajdonú HM rendelkezésű lakóépülethez tartozó nem lakáscélú helyiségek tekintetében a HM vagyonkezelői feladatokat ellátó szerv;
+a)[^10] bérbeadó: az állami tulajdonú HM rendelkezésű lakások és személygépkocsi-tároló helyiségek, illetve állóhelyek tekintetében a helyi lakásgazdálkodási szerv, az állami tulajdonú HM rendelkezésű lakóépülethez tartozó nem lakáscélú helyiségek tekintetében a HM vagyonkezelői feladatokat ellátó szerv;
 
 b) kezelő: az állami tulajdonú HM rendelkezésű lakóépületek (lakások) és nem lakáscélú helyiségek tekintetében a helyi lakóházkezelő szerv;
 
-c) magánbefektető: az olyan természetes vagy jogi személy, továbbá jogi személyiséggel nem rendelkező szervezet, amellyel a honvédelmi szerv elhelyezési célú megállapodást köt.
+c)[^11]
 
-(9)[^8] Az e rendeletben meghatározott
+(9)[^12] Az e rendeletben meghatározott
 
 a) HM központi lakásgazdálkodási szerv;
 
@@ -98,11 +90,17 @@ b) más helyőrségben lévő katonai szervezet állományába nevezték ki, hel
 
 a) beosztásának (11) bekezdés a) pontja szerinti megszűnését követően rendelkezési állományba helyezték, majd a rendelkezési állományból a (11) bekezdés b) pontja szerint nevezték ki, helyezték át, vezényelték, vagy
 
-b) beosztásának (11) bekezdés a) pontja szerinti megszűnése nélkül, új katonai képesség létrehozásával összefüggésben nevezték ki, helyezték át a korábbi beosztásáétól eltérő településen lévő katonai szervezet állományába.
+b) beosztásának (11) bekezdés a) pontja szerinti megszűnése nélkül, új katonai képesség létrehozásával összefüggésben nevezték ki, helyezték át a korábbi beosztásáétól eltérő településen lévő katonai szervezet állományába,
 
-(13)[^9] A szolgálati járandóságban részesülő személyekre a szolgálati nyugállományú katonákra vonatkozó szabályokat kell alkalmazni.
+c)[^13] más helyőrségben lévő katonai szervezet vagy ugyanazon katonai szervezet más helyőrségben lévő szervezeti egysége részére történő feladatátadással összefüggésben helyezték át az új helyőrségben rendszeresített szolgálati beosztásba.
 
-[^6]: A 3. § (7) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^7]: A 3. § (8) bekezdés a) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (2) bekezdése szerint módosított szöveg.
-[^8]: A 3. § (9) bekezdése a 4/2012. (IV. 5.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^9]: A 3. § (13) bekezdését a 4/2012. (IV. 5.) HM rendelet 2. § (2) bekezdése iktatta be.
+(13)[^14]
+
+[^7]: A 3. § (2) bekezdés d)–e) pontját a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^8]: A 3. § (3)–(4) bekezdését a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^9]: A 3. § (7) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 3. § (8) bekezdés a) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^11]: A 3. § (8) bekezdés c) pontját a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^12]: A 3. § (9) bekezdése a 4/2012. (IV. 5.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^13]: A 3. § (12) bekezdés c) pontját a 10/2014. (VII. 25.) HM rendelet 22. §-a iktatta be. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^14]: A 3. § (13) bekezdését a 4/2012. (IV. 5.) HM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése. Alkalmazására lásd ez utóbbi módosító rendelet 17–18. §-át.

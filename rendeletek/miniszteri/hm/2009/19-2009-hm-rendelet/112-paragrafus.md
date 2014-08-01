@@ -1,1 +1,3 @@
-## 111. § A HM vagyonkezelői jogú személygépkocsi-tárolót a kezelő a bérleti szerződésben meghatározott időpontban és rendeltetésszerű használatra alkalmas állapotban köteles átadni a bérlő részére. A bérlő a szerződés megszűnése után a helyiséget kiürítve, az átadáskori állapotban köteles visszaadni.
+## 111/A. §[^113] A HM vagyonkezelői feladatokat ellátó szervnek és a helyi lakásgazdálkodási szervnek a HM rendelkezésű helyiség és személygépkocsi tároló juttatásával, bérletével, bérletének megszüntetésével és jogcím nélküli használatával összefüggő érdemi döntése ellen panaszt a HM központi lakásgazdálkodási szervhez lehet benyújtani.
+
+[^113]: A 111/A. §-t a 10/2014. (VII. 25.) HM rendelet 33. §-a iktatta be. Alkalmazására lásd e módosító rendelet 17–18. §-át.

@@ -6,15 +6,25 @@ b) a 187. § (1) bekezdés c) pontja szerinti igénylés esetében ő maga, ház
 
 c) megfelel a személyi jövedelemadóról, valamint a lakáscélú állami támogatásokról szóló jogszabályban a méltányolható lakásigényre és építési költségre (vételárra) megállapított feltételeknek,
 
-d) a kérelmező a kölcsönnel a szolgálati, illetőleg munkahelye szerinti településen vagy annak vonzáskörzetében oldja meg a lakhatását,
+d)[^156] a kérelmező, az 52. életévét betöltött hivatásos állományú igénylő kivételével, a kölcsönnel a szolgálati, illetőleg munkahelye szerinti településen vagy annak vonzáskörzetében oldja meg a lakhatását,
 
 e) az állományilletékes parancsnok (munkahelyi vezető), valamint az illetékes helyőrségi (budapesti keretgazda) lakásbizottság a kérelem teljesítését javasolja,
 
 f) a 187. § (1) bekezdés f) pont szerinti igénylés esetében ő maga, házastársa (élettársa), saját háztartásában nevelt kiskorú gyermeke (örökbe fogadott, mostoha és nevelt gyermeke), valamint együtt költöző családtagja a lakáscélú pénzintézeti kölcsönnel megszerzett lakás kivételével más lakás tulajdonjogával, állandó használati jogával, haszonélvezeti jogával vagy bérleti jogával nem rendelkezik, illetőleg a munkáltatói kölcsönre való igényjogosultság megszerzése érdekében a lakást elidegeníti, állandó használati jogát, haszonélvezeti jogát, bérleti jogviszonyát megszünteti,
 
-g)[^100] a szerződéses tiszt, altiszt a szerződéses szolgálatban 5 évet már eltöltött, és összesen legalább 10 év szolgálatot vállalt,
+g)[^157] a szerződéses tiszt, altiszt szolgálati viszonya 2014. augusztus 1-jét megelőzően keletkezett, továbbá a kérelmező a szerződéses szolgálatban folyamatosan 5 évet már eltöltött és összesen legalább a 10. év eléréséig vállalta a további szolgálatot,
 
-h) a honvédelmi szerv igénye szerint adóstársat vagy meghatározott számú kezest állít.
+h)[^158] kormánytisztviselői, kormányzati ügykezelői, közalkalmazotti vagy munkavállalói jogviszonya határozatlan időtartamra jött létre, és a honvédelmi szervnél az alkalmazotti viszonyban legalább tíz évet eltöltött,
+
+i)[^159] a 187. § (1) bekezdésének f) pontja szerinti igénylés esetét kivéve a hivatásos szolgálati viszonyban álló kérelmező az 52. életévét betöltötte,
+
+j)[^160] a lakáscélú támogatási szerv igénye szerint
+
+ja) adóstársat,
+
+jb) adóstársat és készfizető kezest vagy
+
+jc) adóstárs hiányában legfeljebb két fő készfizető kezest állít.
 
 (2) Munkáltatói kölcsön nyújtható akkor is, ha az igénylőnek, házastársának (élettársának), saját háztartásában nevelt kiskorú gyermekének (örökbe fogadott, mostoha és nevelt gyermekének), valamint a vele együtt költöző családtagjának
 
@@ -24,9 +34,13 @@ b) a tulajdonában lévő lakás lebontását a települési önkormányzat jegy
 
 c) lakása az igénylés benyújtásától számított két évnél korábban öröklés vagy ajándékozás jogcímén haszonélvezettel terhelten került a tulajdonába, és a haszonélvező a lakásban lakik.
 
-(3)[^101] Az (1) bekezdés d) pontját nem kell alkalmazni, ha az igénylő a szolgálat felső korhatárát 5 éven belül eléri, illetve szolgálati (baleseti, rokkantsági) nyugállományba helyezése folyamatban van feltéve, hogy a munkáltatói kölcsön felhasználásával a végleges letelepedéséhez szükséges lakásigényét kívánja megoldani.
+(3)[^161] Az (1) bekezdés d) pontját nem kell alkalmazni, ha az igénylő a szolgálat felső korhatárát 5 éven belül eléri, illetve szolgálati (baleseti, rokkantsági) nyugállományba helyezése folyamatban van feltéve, hogy a munkáltatói kölcsön felhasználásával a végleges letelepedéséhez szükséges lakásigényét kívánja megoldani.
 
 (4) Ha a jogosult munkáltatói kölcsönre vonatkozó igénylésének elbírálására vagy a kölcsön összegének folyósítására a nyugállományba helyezés megtörténte után kerül sor, az egyéb feltételek megléte esetén az igényt érdemben el kell bírálni, és intézkedni kell a kölcsönnek a jogosult részére történő folyósítására.
 
-[^100]: A 194. § (1) bekezdés g) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
-[^101]: A 194. § (3) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 15. pontja szerint módosított szöveg.
+[^156]: A 194. § (1) bekezdés d) pontja a 10/2014. (VII. 25.) HM rendelet 39. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^157]: A 194. § (1) bekezdés g) pontja a 10/2014. (VII. 25.) HM rendelet 39. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^158]: A 194. § (1) bekezdés h) pontja a 10/2014. (VII. 25.) HM rendelet 39. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^159]: A 194. § (1) bekezdés i) pontját a 10/2014. (VII. 25.) HM rendelet 39. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^160]: A 194. § (1) bekezdés j) pontját a 10/2014. (VII. 25.) HM rendelet 39. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^161]: A 194. § (3) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 15. pontja szerint módosított szöveg.

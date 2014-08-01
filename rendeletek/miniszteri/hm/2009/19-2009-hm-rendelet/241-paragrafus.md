@@ -2,7 +2,7 @@
 
 (2) A 9. § (1) bekezdés b) és h) pontját, (2) bekezdés d) pontját, továbbá (7) bekezdését a hatálybalépést követően benyújtott HM rendelkezésű lakás iránti kérelmek vonatkozásában kell alkalmazni.
 
-(3)[^155] A 38. § (1) bekezdés alapján a szerződéses tiszt és altiszt részére a részleges lakásfelújítási átalány csak akkor állapítható meg, ha a lakás bérlőjéül történt kijelölésére a rendelet hatálybalépését követően került sor.
+(3)[^237] A 38. § (1) bekezdés alapján a szerződéses tiszt és altiszt részére a részleges lakásfelújítási átalány csak akkor állapítható meg, ha a lakás bérlőjéül történt kijelölésére a rendelet hatálybalépését követően került sor.
 
 (4) A megfelelő elhelyezésre nem jogosult jogcím nélküli lakáshasználó esetében az 59. § (1) és (7) bekezdését a lakáshasználati díj következő emelésének esedékességekor kell első alkalommal alkalmazni. Amennyiben a jogcím nélküli lakáshasználat kezdetétől számított egy év elteltével fizetendő használati díj megállapítása megtörtént, a használati díjat 2010. április 1-jétől kezdődően kell az új mérték szerint megállapítani.
 
@@ -16,13 +16,13 @@
 
 (9) Az állami tulajdonú HM vagyonkezelői jogú lakásra a rendelet hatálybalépését megelőzően létrejött adásvételi szerződés vonatkozásában továbbra is a szerződés megkötésekor hatályos rendelkezéseket kell alkalmazni.
 
-(10)[^156] A 159. §-t és a 206. § (2) bekezdését a hatálybalépést követően benyújtott terhelési és átjegyzési kérelem elbírálása során kell alkalmazni.
+(10)[^238] A 159. §-t és a 206. § (2) bekezdését a hatálybalépést követően benyújtott terhelési és átjegyzési kérelem elbírálása során kell alkalmazni.
 
 (11) A 179. § (3) bekezdés b) pontját, a 180. § b) és c) pontját, valamint a 181. §-t a 2009. december 31-ét követően benyújtott vissza nem térítendő juttatás iránti kérelmek vonatkozásában kell alkalmazni. A 2010. január 1-jét megelőzően benyújtott, de még nem teljesített kérelmeket a benyújtáskor hatályos rendelkezések alapján kell elbírálni.
 
-(12)[^157] A 187. § (1) bekezdés b)–c) és e)–f) pontját, a 189. § b) és c) pontját, a 192. § (2) bekezdését, valamint a 195. § c) és f)–g) pontját a 2009. december 31-ét követően benyújtott munkáltatói kölcsön iránti kérelmek vonatkozásában kell alkalmazni. A 2010. január 1-jét megelőzően benyújtott, de még nem teljesített kérelmeket a benyújtáskor hatályos rendelkezések alapján kell elbírálni.
+(12)[^239] A 187. § (1) bekezdés b)–c) és e)–f) pontját, a 189. § b) és c) pontját, a 192. § (2) bekezdését, valamint a 195. § c) és f)–g) pontját a 2009. december 31-ét követően benyújtott munkáltatói kölcsön iránti kérelmek vonatkozásában kell alkalmazni. A 2010. január 1-jét megelőzően benyújtott, de még nem teljesített kérelmeket a benyújtáskor hatályos rendelkezések alapján kell elbírálni.
 
-(13)[^158]
+(13)[^240]
 
 (14) A 201. § (1) bekezdés a) pontját és (2) bekezdés e)–g) pontját a rendelet hatálybalépését követően megkötésre kerülő támogatási megállapodásokban kell alkalmazni.
 
@@ -34,7 +34,7 @@
 
 (18) A 218. § (3) bekezdését a rendelet hatálybalépését követően nyújtott vissza nem térítendő juttatás és munkáltatói kölcsön esetében kell alkalmazni.
 
-[^155]: A 241. § (3) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
-[^156]: A 241. § (10) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 18. pontja szerint módosított szöveg.
-[^157]: A 241. § (12) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 19. pontja szerint módosított szöveg.
-[^158]: A 241. § (13) bekezdését a 4/2012. (IV. 5.) HM rendelet 23. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^237]: A 241. § (3) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^238]: A 241. § (10) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 18. pontja szerint módosított szöveg.
+[^239]: A 241. § (12) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 19. pontja szerint módosított szöveg.
+[^240]: A 241. § (13) bekezdését a 4/2012. (IV. 5.) HM rendelet 23. § (1) bekezdés c) pontja hatályon kívül helyezte.

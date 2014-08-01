@@ -1,5 +1,6 @@
-## 112. § Amennyiben a magánbefektetői HM rendelkezésű személygépkocsi-tároló helyiség bérbeadója a honvédelmi szerv, annak átadására, átvételére a 111. §-ban meghatározottak az irányadók azzal, hogy az átadásról és az átvételről a helyi lakóházkezelő szerv a honvédelmi szerv útján tájékoztatja a magánbefektetőt.
+## 112. §[^114]
 
-## VIII. Fejezet[^73]
+## VIII. Fejezet[^115]
 
-[^73]: A VIII. fejezetet (113–159. §) a 8/2013. (VIII. 9.) HM rendelet 30. §-a hatályon kívül helyezte.
+[^114]: A 112. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^115]: A VIII. fejezetet (113–159. §) a 8/2013. (VIII. 9.) HM rendelet 30. §-a hatályon kívül helyezte.

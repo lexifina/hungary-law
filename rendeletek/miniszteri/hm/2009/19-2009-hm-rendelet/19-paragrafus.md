@@ -10,6 +10,6 @@
 
 (6) A HM Központi Lakásbizottság elnökének előzetes hozzájárulásával, a sorrendiség betartása nélkül juttatható HM rendelkezésű lakás az állomány hősi halottá nyilvánított tagjának özvegye és az 5. § (1) bekezdés c) pontjában foglalt feltételeknek megfelelő túlélő élettársa részére.
 
-(7)[^27] A 13. § (3)–(4) bekezdéseiben meghatározott vezetők részére történő lakásjuttatásról az illetékes keretgazda lakásbizottság vagy annak javaslatára a HM Központi Lakásbizottság elnöke dönt. A HM Központi Lakásbizottság elnökének lakásjuttatásáról a HM Központi Lakásbizottság dönt. A bizottsági döntések meghozatalában a kérelmezők a bizottság tagjaként nem működhetnek közre.
+(7)[^38] A 13. § (3)–(4) bekezdéseiben meghatározott vezetők részére történő lakásjuttatásról az illetékes keretgazda lakásbizottság vagy annak javaslatára a HM Központi Lakásbizottság elnöke dönt. A HM Központi Lakásbizottság elnökének lakásjuttatásáról a HM Központi Lakásbizottság dönt. A bizottsági döntések meghozatalában a kérelmezők a bizottság tagjaként nem működhetnek közre.
 
-[^27]: A 19. § (7) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 3. pontja szerint módosított szöveg.
+[^38]: A 19. § (7) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 3. pontja szerint módosított szöveg.

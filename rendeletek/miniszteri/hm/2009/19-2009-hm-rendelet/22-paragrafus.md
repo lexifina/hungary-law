@@ -1,9 +1,15 @@
-## 22. § A HM Központi Lakásbizottság évente március 31-ig elkészíti Budapest helyőrség éves lakáselosztási tervét, amely tartalmazza a tárgyévben felhasználható lakásokból
+22. §[^41] (1) A fővárosi helyi lakásgazdálkodási szerv évente két alkalommal fővárosi lakáselosztási tervet készít.
 
-a) a központi tartalék,
+(2) A fővárosi lakáselosztási terv a felhasználható lakásokból tartalmazza:
 
-b) a keretgazda lakásbizottságoknál nyilvántartott lakásigények teljesítése,
+a) a keretgazda lakásbizottságoknál nyilvántartott lakásigénylések teljesítésére szolgáló keretbe,
 
-c) az intézményes gazdálkodási feladatok ellátása
+b) a központi keretbe, valamint
 
-céljára szolgáló kereteket.
+c) a fővárosi tartalékkeretbe
+
+## javasolt lakásokat.
+
+(3) A fővárosi helyi lakásgazdálkodási szerv a lakáselosztási tervet első alkalommal január 31-éig, második alkalommal július 31-éig készíti el és terjeszti elő jóváhagyásra a HM Központi Lakásbizottságnak.
+
+[^41]: A 22. § a 10/2014. (VII. 25.) HM rendelet 26. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
