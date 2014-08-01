@@ -1,66 +1,62 @@
-## 55. §[^29]
+## 55. §[^35]
 
-1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^30]
+1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^36]
+
+Kezelő szervi kijelölés
 
 |  | A | B |
 
-| 1. | Operatív program | Irányító hatóság működtetéséért felelős szerv |
+| 1 | Operatív program | Kezelő szerv |
 
-| 2. | Gazdaságfejlesztési Operatív Program | Nemzetgazdasági Minisztérium |
+| 2 | Gazdaságfejlesztési Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 3. | Környezet és Energia Operatív Program | Nemzeti Fejlesztési Minisztérium |
+| 3 | Környezet és Energia Operatív Program | energiapolitikáért felelős miniszter |
 
-| 4. | Közlekedés Operatív Program | Nemzeti Fejlesztési Minisztérium |
+| 4 | Közlekedés Operatív Program | közlekedésért felelős miniszter |
 
-| 5. | Dél-alföldi Operatív Program | Nemzetgazdasági Minisztérium |
+| 5 | Dél-alföldi Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 6. | Dél-dunántúli Operatív Program | Nemzetgazdasági Minisztérium |
+| 6 | Dél-dunántúli Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 7. | Észak-alföldi Operatív Program | Nemzetgazdasági Minisztérium |
+| 7 | Észak-alföldi Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 8. | Észak-magyarországi Operatív Program | Nemzetgazdasági Minisztérium |
+| 8 | Észak-magyarországi Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 9. | Közép-dunántúli Operatív Program | Nemzetgazdasági Minisztérium |
+| 9 | Közép-dunántúli Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 10. | Nyugat-dunántúli Operatív Program | Nemzetgazdasági Minisztérium |
+| 10 | Nyugat-dunántúli Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 11. | Közép-magyarországi Operatív Program | Nemzetgazdasági Minisztérium |
+| 11 | Közép-magyarországi Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 12. | Társadalmi Megújulás Operatív Program | Emberi Erőforrások Minisztériuma |
+| 12 | Társadalmi Megújulás Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-| 13. | Társadalmi Infrastruktúra Operatív Program | Emberi Erőforrások Minisztériuma |
+| 13 | Társadalmi Infrastruktúra Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-| 14. |  |  |
+| 14 | Norvég Alap | Széchenyi Programiroda Nonprofit Kft. |
 
-| 15. |  |  |
+| 15 | Svájci Alap | Széchenyi Programiroda Nonprofit Kft. |
 
-| 16. | Norvég Alap | Széchenyi Programiroda Nonprofit Kft. |
+| 16 | Regionális Fejlesztés Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 17. | Svájci Alap | Széchenyi Programiroda Nonprofit Kft. |
+| 17 | Gazdasági és Vállalkozásfejlesztési Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 18. | Regionális Fejlesztés Operatív Program | Nemzetgazdasági Minisztérium |
+| 18 | Környezetvédelem és Infrastruktúra Operatív Program | fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért felelős miniszter |
 
-| 19. | Gazdasági és Vállalkozásfejlesztési Operatív Program | Nemzetgazdasági Minisztérium |
+| 19 | Humánerőforrás-fejlesztési Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-| 20. | Környezetvédelem és Infrastruktúra Operatív Program | Nemzeti Fejlesztési Minisztérium |
+| 20 | Agrár- és Vidékfejlesztési Operatív Program | agrárpolitikáért felelős miniszter |
 
-| 21. | Humánerőforrás-fejlesztési Operatív Program | Emberi Erőforrások Minisztériuma |
+| 21 | Gazdaságfejlesztési és Innovációs Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 22. | Agrár- és Vidékfejlesztési Operatív Program | Vidékfejlesztési Minisztérium |
+| 22 | Versenyképes Közép-Magyarország Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 23. | Gazdaságfejlesztési és Innovációs Operatív Program | Nemzetgazdasági Minisztérium |
+| 23 | Terület- és Településfejlesztési Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 24. | Versenyképes Közép-Magyarország Operatív Program | Nemzetgazdasági Minisztérium |
+| 24 | Intelligens Közlekedésfejlesztési Operatív Program | közlekedésért felelős miniszter |
 
-| 25. | Terület- és Településfejlesztési Operatív Program | Nemzetgazdasági Minisztérium |
+| 25 | Környezet és Energetikai Hatékonysági Operatív Program | energiapolitikáért felelős miniszter |
 
-| 26. | Intelligens Közlekedésfejlesztési Operatív Program | Nemzeti Fejlesztési Minisztérium |
+| 26 | Emberi Erőforrás Fejlesztési Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-| 27. | Környezet és Energetikai Hatékonysági Operatív Program | Nemzeti Fejlesztési Minisztérium |
-
-| 28. | Emberi Erőforrás Fejlesztési Operatív Program | Emberi Erőforrások Minisztériuma |
-
-| 29. |  |  |
-
-[^29]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: Az 1. melléklet a 27/2014. (II. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^35]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: Az 1. melléklet a 194/2014. (VII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
