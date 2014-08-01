@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-328-20-
 | 2014-01-01 | 2010-328-20-22.18 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2014-02-25 | 2010-328-20-22.19 | 42/2014. (II. 24.) Korm. rendelet |
 | 2014-03-26 | 2010-328-20-22.20 | 98/2014. (III. 25.) Korm. rendelet |
+| 2014-08-01 | 2010-328-20-22.21 | 191/2014. (VII. 31.) Korm. rendelet |

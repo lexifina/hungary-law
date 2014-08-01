@@ -1,6 +1,6 @@
 ## 9. Az erdészeti hatósági eljárásokban közreműködő szakhatóságok
 
-32. § (1)[^91] A Kormány az ingatlan-nyilvántartásból megismerhető, valamint a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és a műemlékeket tartalmazó, a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság adatbázisában szereplő – a NÉBIH részére átadott – EOV vetületű vektoros térképfedvényen lehatárolt régészeti lelőhelyen, műemlék területén és műemléki területen
+32. § (1)[^92] A Kormány az ingatlan-nyilvántartásból megismerhető, valamint a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és a műemlékeket tartalmazó, a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság adatbázisában szereplő – a NÉBIH részére átadott – EOV vetületű vektoros térképfedvényen lehatárolt régészeti lelőhelyen, műemlék területén és műemléki területen
 
 a) az erdészeti magánút, műtárgy, csatorna, tározó létesítésére, bővítésére, helyreállítására, korszerűsítésére, megszüntetésére, illetve használatbavételére, fennmaradására irányuló első fokú eljárásban,
 
@@ -14,7 +14,7 @@ e) az erdőtelepítési-kivitelezési terv jóváhagyása iránti első fokú el
 
 – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, a kulturális örökségvédelmi szakigazgatási szervet szakhatóságként jelöli ki.
 
-(2)[^92] A Kormány védett természeti területen található erdő esetén
+(2)[^93] A Kormány védett természeti területen található erdő esetén
 
 a) erdei épület, erdei vasút kivételével minden erdészeti létesítmény létesítésére, bővítésére, felújítására, helyreállítására, korszerűsítésére, lebontására, elmozdítására, illetve használatbavételére, fennmaradására vagy a rendeltetésének megváltoztatására irányuló eljárásban,
 
@@ -60,13 +60,13 @@ r) lovas sportverseny rendezésének engedélyezésére irányuló eljárásban,
 
 ## ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, valamint a f), g) és i) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e –, első fokú eljárásban a környezetvédelmi és természetvédelmi felügyelőséget szakhatóságként jelöli ki.
 
-(3)[^93] A (2) bekezdés n) pontja szerinti eljárásban a szakhatóság öt napon, a (2) bekezdés o) pontja szerinti eljárásban nyolc napon belül köteles állásfoglalását megadni.
+(3)[^94] A (2) bekezdés n) pontja szerinti eljárásban a szakhatóság öt napon, a (2) bekezdés o) pontja szerinti eljárásban nyolc napon belül köteles állásfoglalását megadni.
 
-(3a)[^94] Amennyiben az erdőterv megállapítása védett természeti területen az Evt. alapján készített körzeti erdőtervben foglaltak szerint, az adott erdőre vonatkozóan abban rögzített erdőgazdálkodási jogok és kötelezettségek módosítása nélkül, hivatalból történik, és az adott erdőgazdálkodási jogok és kötelezettségekhez kapcsolódóan a védett természeti területek természetvédelmi kezeléséért felelős szerv az Evt. 41. § (9) bekezdése szerinti bejelentéssel nem élt, akkor az eljárást lefolytató hatóság mellőzheti a kijelölt szakhatóság megkeresését.
+(3a)[^95] Amennyiben az erdőterv megállapítása védett természeti területen az Evt. alapján készített körzeti erdőtervben foglaltak szerint, az adott erdőre vonatkozóan abban rögzített erdőgazdálkodási jogok és kötelezettségek módosítása nélkül, hivatalból történik, és az adott erdőgazdálkodási jogok és kötelezettségekhez kapcsolódóan a védett természeti területek természetvédelmi kezeléséért felelős szerv az Evt. 41. § (9) bekezdése szerinti bejelentéssel nem élt, akkor az eljárást lefolytató hatóság mellőzheti a kijelölt szakhatóság megkeresését.
 
-(4)[^95] A Kormány védett természeti területen lévő természetes és természetszerű erdő, valamint a természetes és természetszerű erdő, valamint a nem erdő művelési ágú védett területek kétszáz méteres körzetében a fásítás és a szabad rendelkezésű erdő telepítése feltételeinek meghatározására, tiltására irányuló első fokú eljárásban, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, a környezetvédelmi és természetvédelmi felügyelőséget szakhatóságként jelöli ki.
+(4)[^96] A Kormány védett természeti területen lévő természetes és természetszerű erdő, valamint a természetes és természetszerű erdő, valamint a nem erdő művelési ágú védett területek kétszáz méteres körzetében a fásítás és a szabad rendelkezésű erdő telepítése feltételeinek meghatározására, tiltására irányuló első fokú eljárásban, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, a környezetvédelmi és természetvédelmi felügyelőséget szakhatóságként jelöli ki.
 
-(5)[^96] A Kormány védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén
+(5)[^97] A Kormány védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén
 
 a) az erdőterület igénybevételére vonatkozó elvi engedély megadására irányuló eljárásban,
 
@@ -78,19 +78,19 @@ d) az erdőtelepítési-kivitelezési terv jóváhagyása iránti eljárásban,
 
 ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, valamint az a), b) és d) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e –, első fokú eljárásban a környezetvédelmi és természetvédelmi felügyelőséget szakhatóságként jelöli ki.
 
-(6)[^97] A Kormány tájképvédelmi rendeltetésű erdő esetén
+(6)[^98] A Kormány tájképvédelmi rendeltetésű erdő esetén
 
 a) az erdőterület igénybevételére vonatkozó elvi engedély megadására irányuló eljárásban,
 
 b) az erdőterület igénybevételének engedélyezésére irányuló eljárásban,
 
-c)[^98] új erdő telepítésekor az erdő elsődleges és további rendeltetésének megállapítására vonatkozó eljárásban, kivéve, ha a rendeltetés megállapítását a környezetvédelmi és természetvédelmi felügyelőség kezdeményezte, valamint
+c)[^99] új erdő telepítésekor az erdő elsődleges és további rendeltetésének megállapítására vonatkozó eljárásban, kivéve, ha a rendeltetés megállapítását a környezetvédelmi és természetvédelmi felügyelőség kezdeményezte, valamint
 
 d) az erdő elsődleges és további rendeltetése megváltoztatására vonatkozó eljárásban,
 
 ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a tájvédelem nemzeti és közösségi jogi követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, első fokú eljárásban a környezetvédelmi és természetvédelmi felügyelőséget szakhatóságként jelöli ki.
 
-(7)[^99] A Kormány partvédelmi és vízvédelmi rendeltetésű erdő esetén
+(7)[^100] A Kormány partvédelmi és vízvédelmi rendeltetésű erdő esetén
 
 a) erdei épület, erdei vasút kivételével minden erdészeti létesítmény létesítésére, bővítésére, felújítására, helyreállítására, korszerűsítésére, lebontására, elmozdítására, illetve használatbavételére, fennmaradására vagy a rendeltetésének megváltoztatására irányuló eljárásban,
 
@@ -100,7 +100,7 @@ c) az erdőterület igénybevételére vonatkozó elvi engedély megadására ir
 
 d) az erdőterület igénybevételének engedélyezésére irányuló eljárásban,
 
-e)[^100] új erdő telepítésekor az erdő elsődleges rendeltetésének megállapítására vonatkozó eljárásban, kivéve, ha a rendeltetés megállapítását a környezetvédelmi és természetvédelmi felügyelőség kezdeményezte,
+e)[^101] új erdő telepítésekor az erdő elsődleges rendeltetésének megállapítására vonatkozó eljárásban, kivéve, ha a rendeltetés megállapítását a környezetvédelmi és természetvédelmi felügyelőség kezdeményezte,
 
 f) az erdő elsődleges rendeltetése megváltoztatására vonatkozó eljárásban, valamint
 
@@ -108,13 +108,13 @@ g) cserjék kivágásának engedélyezése iránti eljárásban,
 
 ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a partvédelem és a vízvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, első fokú eljárásban partvédelmi rendeltetésű erdő esetében a területi vízügyi hatóságot, vízvédelmi rendeltetésű erdő esetében a környezetvédelmi és természetvédelmi felügyelőséget szakhatóságként jelöli ki.
 
-[^91]: A 32. § (1) bekezdés nyitó szövegrésze a 24/2012. (II. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 394/2012. (XII. 20.) Korm. rendelet 43. §-a, a 107/2013. (IV. 5.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^92]: A 32. § (2) bekezdése a 24/2012. (II. 29.) Korm. rendelet 20. § (2) bekezdésével megállapított, záró szövegrésze a 176/2013. (VI. 3.) Korm. rendelet 10. § (2) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 97. § a) pontja szerint módosított szöveg.
-[^93]: A 32. § (3) bekezdése a 176/2013. (VI. 3.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^94]: A 32. § (3a) bekezdését a 402/2012. (XII. 28.) Korm. rendelet 17. §-a iktatta be.
-[^95]: A 32. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 97. § a) pontja szerint módosított szöveg.
-[^96]: A 32. § (5) bekezdés záró szövegrésze a 82/2011. (V. 18.) Korm. rendelet 67. § (2) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 97. § a) pontja szerint módosított szöveg.
-[^97]: A 32. § (6) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 97. § a) pontja szerint módosított szöveg.
-[^98]: A 32. § (6) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 97. § d) pontja szerint módosított szöveg.
-[^99]: A 32. § (7) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 97. § c) pontja, a 42/2014. (II. 24.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.
-[^100]: A 32. § (7) bekezdés e) pontja az 527/2013. (XII. 30.) Korm. rendelet 97. § d) pontja szerint módosított szöveg.
+[^92]: A 32. § (1) bekezdés nyitó szövegrésze a 24/2012. (II. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 394/2012. (XII. 20.) Korm. rendelet 43. §-a, a 107/2013. (IV. 5.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^93]: A 32. § (2) bekezdése a 24/2012. (II. 29.) Korm. rendelet 20. § (2) bekezdésével megállapított, záró szövegrésze a 176/2013. (VI. 3.) Korm. rendelet 10. § (2) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 97. § a) pontja szerint módosított szöveg.
+[^94]: A 32. § (3) bekezdése a 176/2013. (VI. 3.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^95]: A 32. § (3a) bekezdését a 402/2012. (XII. 28.) Korm. rendelet 17. §-a iktatta be.
+[^96]: A 32. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 97. § a) pontja szerint módosított szöveg.
+[^97]: A 32. § (5) bekezdés záró szövegrésze a 82/2011. (V. 18.) Korm. rendelet 67. § (2) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 97. § a) pontja szerint módosított szöveg.
+[^98]: A 32. § (6) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 97. § a) pontja szerint módosított szöveg.
+[^99]: A 32. § (6) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 97. § d) pontja szerint módosított szöveg.
+[^100]: A 32. § (7) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 97. § c) pontja, a 42/2014. (II. 24.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.
+[^101]: A 32. § (7) bekezdés e) pontja az 527/2013. (XII. 30.) Korm. rendelet 97. § d) pontja szerint módosított szöveg.
