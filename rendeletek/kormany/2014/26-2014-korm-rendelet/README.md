@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-26-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-02-08 | 2014-26-20-22.1 | 26/2014. (II. 7.) Korm. rendelet |
+| 2014-08-01 | 2014-26-20-22.2 | 196/2014. (VII. 31.) Korm. rendelet |
