@@ -18,7 +18,9 @@ g) a Miniszterelnökség budavári elhelyezéséhez szükséges felújítási é
 
 h) a Moholy-Nagy Művészeti Egyetem „MOME Laboratory” kreatív oktatási és kutatási központ intézményfejlesztési programjának építési beruházása;
 
-i) további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
+i)[^1] a Miniszterelnökség agrár-vidékfejlesztésért felelős államtitkára által irányított szervezeti egységek Kecskeméten történő elhelyezéséhez szükséges felújítási és építési feladatok;
+
+j)[^2] további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
 
 3. A kormánybiztos a 2. pont szerinti beruházásokhoz kapcsolódó feladatkörében ellátja:
 
@@ -48,6 +50,8 @@ i) a vonatkozó kormányhatározatok, jogszabályok végrehajtását, illetve az
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8.[^1]
+8.[^3]
 
-[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont i) alpontja az 1436/2014. (VII. 31.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: A 2. pont j) alpontját az 1436/2014. (VII. 31.) Korm. határozat 3. pontja iktatta be.
+[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
