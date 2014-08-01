@@ -6,6 +6,6 @@
 
 (3) A (2) bekezdés szerinti esetben a pénztárgép program cseréje esetén a pénztárgépnek első műveletként el kell végeznie az adóügyi ellenőrző egység szoftver és a pénztárgép program aktualizálását a NAV szerverén keresztül.
 
-(4)[^1] A (3) bekezdést nem kell alkalmazni azon pénztárgép tekintetében, amely vonatkozásában az adóalany a Rendelet 3. §-a szerinti egyedi mentesítésben részesült, illetve amely vonatkozásában az adóalany a Rendelet 2. § (2) bekezdésében foglaltak szerint teljesíti az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 178. § (1a) bekezdése szerinti adatszolgáltatási kötelezettségét.
+(4)[^3] A (3) bekezdést nem kell alkalmazni azon pénztárgép tekintetében, amely vonatkozásában az adóalany a Rendelet 3. §-a szerinti egyedi mentesítésben részesült, illetve amely vonatkozásában az adóalany a Rendelet 2. § (2) bekezdésében foglaltak szerint teljesíti az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 178. § (1a) bekezdése szerinti adatszolgáltatási kötelezettségét.
 
-[^1]: A 7. § (4) bekezdése a 2/2014. (I. 22.) NGM rendelet 3. §-ával megállapított szöveg.
+[^3]: A 7. § (4) bekezdése a 2/2014. (I. 22.) NGM rendelet 3. §-ával megállapított szöveg.
