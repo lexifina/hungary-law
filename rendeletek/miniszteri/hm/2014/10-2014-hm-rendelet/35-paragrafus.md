@@ -1,0 +1,3 @@
+## 34. § Az R. 163. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A HM szolgálati lakásra 1994. január 1-je előtt határozatlan időtartamra kötött bérleti szerződés nem szűnik meg, ha a bérlő honvédelmi szervvel fennálló szolgálati, kormánytisztviselői, kormányzati ügykezelői, közalkalmazotti vagy munkavállalói jogviszonya azért szűnik meg, mert öregségi nyugdíjra, megváltozott munkaképességűek ellátására vagy más olyan pénzbeli ellátásra szerzett jogosultságot, amelyet a nyugdíjkorhatár betöltésekor öregségi nyugdíjként kell továbbfolyósítani. E rendelkezés nem alkalmazható akkor, ha az alkalmazotti jogviszony megszűnésére vagy megszüntetésére fegyelmi, méltatlansági vagy büntetőeljárással összefüggésben került sor, vagy a lakás munkakörhöz kötött.”

@@ -1,0 +1,1 @@
+## 18. § A lakáscélú támogatási szervhez az e rendelet hatálybalépését megelőzően benyújtott vissza nem térítendő juttatás és munkáltatói kölcsön iránti kérelem esetében az igényjogosultság és a támogatás mértéke vonatkozásában az R.-nek a kérelem benyújtásakor hatályos rendelkezéseit kell alkalmazni.

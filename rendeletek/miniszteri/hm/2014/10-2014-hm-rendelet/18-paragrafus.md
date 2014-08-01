@@ -1,0 +1,1 @@
+## 17. § A helyi lakásgazdálkodási szervhez az e rendelet hatálybalépését megelőzően benyújtott és a hatálybalépésig érdemben el nem bírált albérleti díj hozzájárulás iránti kérelem esetében az igényjogosultság vonatkozásában az R.-nek a kérelem benyújtásakor hatályos rendelkezéseit kell alkalmazni.
