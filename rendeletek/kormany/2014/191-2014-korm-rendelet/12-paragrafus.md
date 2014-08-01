@@ -1,0 +1,3 @@
+12. § (1) A 11. § (2) bekezdése szerinti jegyzőkönyvbe foglalt határozat ellen előterjesztett fellebbezéssel támadható a határozatba nem foglalt, de a jegyzőkönyv hatálya alá tartozó egyéb eljárási cselekmény is.
+
+(2) Az igazgatóság – a Földforgalmi törvény 36. § (1) bekezdés h) pontja szerinti eset kivételével – az árverési jegyzőkönyvet – az abban foglalt valamennyi döntés jogerőre emelkedésétől számított 15 napon belül –, valamint az 5. § (1) bekezdés c) pontja szerinti nyilatkozatokat és a 8. § (3) bekezdése szerinti okiratokat megküldi a megyei földhivatalnak, amely a Földforgalmi törvény 35. § (5) bekezdése szerinti döntéséről, annak másolatával a döntés meghozatalától számított 8 napon belül tájékoztatja az igazgatóságot is.

@@ -1,0 +1,57 @@
+11. § (1) A kikiáltó az árverésről jegyzőkönyvet (a továbbiakban: árverési jegyzőkönyv) vesz fel, amely magában foglaltan tartalmazza az árverésen hozott döntéseket, továbbá tartalmazza:
+
+a) az igazgatóság megnevezését, címét, telefonszámát, számlájának számát,
+
+b) az árverés helyét, kezdetének és befejezésének időpontját,
+
+c) a végrehajtást kérő és az adós nevét, a főkövetelések jogcímét és összegét,
+
+d) felszámolási eljárásban az adós nevét, cégjegyzék számát (bírósági nyilvántartási számát), székhelyét, önkormányzati adósságrendezési eljárásban az adós nevét, székhelyét,
+
+e) a föld ingatlan-nyilvántartási és földhasználati adatait:
+
+ea) a település nevét, a föld fekvését, a helyrajzi számot, területnagyságot, aranykorona értéket,
+
+eb) a művelési ágat,
+
+ec) a tulajdonos nevét,
+
+ed) a földön fennálló telki szolgalmat, közérdekű használati jogot, az ingatlan-nyilvántartásba bejegyzett haszonélvezeti jogot, törvényen alapuló haszonélvezeti jogot, zálogjogot,
+
+ee) a földhasználati nyilvántartásba, illetve erdőgazdálkodói nyilvántartásba bejegyzett földhasználatot és annak időtartamát,
+
+f) a föld becsértékét és a minimálárat,
+
+g) a felajánlott legmagasabb vételár összegét,
+
+h) az árverési vevő nevét, állampolgárságát, természetes személyazonosító adatait, lakcímét, ha a vétel elővásárlási jogon alapul az elővásárlási jogosultság mely törvényen és az ott meghatározott sorrend mely ranghelyén áll fenn,
+
+i) ha több elővásárlásra jogosult tett vételi ajánlatot elfogadó nyilatkozatot, ezen elővásárlásra jogosultaknak a h) pont szerinti adatait,
+
+j) a kikiáltó nevét,
+
+k) a jelen levők kérelmét és észrevételét, az észrevételekre adott válaszok tartalmát, a kérelmek és az észrevételek alapján foganatosított intézkedéseket,
+
+l) a jogszabályban meghatározott egyéb adatokat és körülményeket.
+
+(2) Az (1) bekezdés g) és h) pontjában megjelölt adatokat, valamint az árverésen hozott döntéseket az igazgatóság a jegyzőkönyvbe foglalt határozattal állapítja meg.
+
+(3) Az árverési jegyzőkönyvet az árverési vevő is aláírásával látja el.
+
+(4) Az árverési jegyzőkönyvet kézbesítés útján kell közölni:
+
+a) a megkeresővel,
+
+b) az árverési vevővel,
+
+c) azzal az árverezővel, aki az árverésen ezt kifejezetten kéri,
+
+d) a végrehajtást kérővel és az adóssal,
+
+e) azokkal, akiknek a földre vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van.
+
+(5) Az igazgatóságnak az árverési jegyzőkönyv – (4) bekezdés szerinti személyeknek történő – kézbesítését, annak lezárásától számított három napon belül meg kell kezdenie.
+
+(6) A (4) bekezdés c) pontja szerinti személyek számára olyan jegyzőkönyv másolatot kell kézbesíteni, amely az árverezők nevén kívül az árverezők további személyes adatait nem tartalmazza.
+
+(7) Ahol jogszabály a megkereső további eljárásával kapcsolatban árverési jegyzőkönyvet vagy árverési hirdetményt említ, azon az e rendelet szerinti árverési jegyzőkönyvet kell érteni.
