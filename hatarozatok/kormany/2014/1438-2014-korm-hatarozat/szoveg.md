@@ -68,4 +68,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: folyamatos
 
-9. visszavonja a Moholy-Nagy Művészeti Egyetem MOME Campus Kreatív Innovációs és Tudáspark fejlesztéséről szóló 1769/2013. (XI. 25.) Korm. határozatot.
+9.[^1]
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
