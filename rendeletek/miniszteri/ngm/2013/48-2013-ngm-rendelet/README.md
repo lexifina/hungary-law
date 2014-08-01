@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-48-20-2
 | --- | --- | --- |
 | 2013-11-16 | 2013-48-20-2X.1 | 48/2013. (XI. 15.) NGM rendelet |
 | 2013-11-17 | 2013-48-20-2X.2 | 2010: CXXX. törvény |
+| 2014-08-01 | 2013-48-20-2X.3 | 24/2014. (VII. 31.) NGM rendelet |
