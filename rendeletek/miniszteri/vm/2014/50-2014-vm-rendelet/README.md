@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-50-20-2
 | --- | --- | --- |
 | 2014-05-02 | 2014-50-20-2Y.1 | 50/2014. (IV. 29.) VM rendelet |
 | 2014-05-03 | 2014-50-20-2Y.2 | 2010: CXXX. törvény |
+| 2014-08-01 | 2014-50-20-2Y.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
