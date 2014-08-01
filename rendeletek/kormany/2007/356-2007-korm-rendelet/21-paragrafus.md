@@ -1,4 +1,4 @@
-21. §[^66] (1) E rendeletnek a földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet módosításáról szóló 429/2012. (XII. 29.) Korm. rendelet (a továbbiakban: Mr.)
+21. §[^65] (1) E rendeletnek a földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet módosításáról szóló 429/2012. (XII. 29.) Korm. rendelet (a továbbiakban: Mr.)
 
 a) 1. § (2) bekezdésével megállapított 2. § (1a) bekezdését,
 
@@ -6,10 +6,10 @@ b) 3. §-ával megállapított 6. § (1) bekezdését,
 
 c) 5. §-ával megállapított 11. §-át,
 
-## az Mr. hatálybalépésekor[^67] folyamatban lévő ügyekben, és a megismételt eljárásokban is alkalmazni kell.
+## az Mr. hatálybalépésekor[^66] folyamatban lévő ügyekben, és a megismételt eljárásokban is alkalmazni kell.
 
-(2) E rendeletnek az Mr. 6. §-ával megállapított 13. §-át az Mr. hatályba lépését[^68] követően indult eljárásokban kell alkalmazni.
+(2) E rendeletnek az Mr. 6. §-ával megállapított 13. §-át az Mr. hatályba lépését[^67] követően indult eljárásokban kell alkalmazni.
 
-[^66]: A 21. §-t a 429/2012. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
+[^65]: A 21. §-t a 429/2012. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
+[^66]: A hatálybalépés időpontja 2013. január 1.
 [^67]: A hatálybalépés időpontja 2013. január 1.
-[^68]: A hatálybalépés időpontja 2013. január 1.
