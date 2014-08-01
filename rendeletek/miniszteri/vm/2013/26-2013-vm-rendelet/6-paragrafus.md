@@ -1,5 +1,0 @@
-6. § (1) A kérelem jóváhagyását követően, a szükséges forrás rendelkezésre állása esetén a jóváhagyott összeg a kérelmezőnek 30 napon belül az ügyfél-nyilvántartási rendszerbe bejelentett fizetési számlájára kerül átutalásra.
-
-(2) Az euróban meghatározott pénzügyi hozzájárulást az MVH forintban fizeti ki. Az euró-forint átváltás az Európai Központi Bank által közzétett, e rendelet hatálybalépésének napján érvényes középárfolyamon történik.
-
-(3) Ha a költségtérítés igénylésére vonatkozó feltételek teljesítésének helyszíni ellenőrzése során az állattartónál a NÉBIH vagy a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága a költségtérítés kifizetését követően megállapítja, hogy az állattartó a feltételeket nem teljesíti, akkor az állattartó részére a végrehajtási időszakban az adott célterületre kifizetett teljes összeg jogosulatlanul igénybe vett támogatásnak minősül.
