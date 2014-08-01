@@ -1,1 +1,0 @@
-## 7. § A 43/2013. (XII. 29.) MNB rendelet 9. § (1) bekezdésében a „felügyeleti jelentést” szövegrész helyébe a „felügyeleti jelentést, valamint a 680/2014/EU bizottsági végrehajtási rendelet szerinti adatszolgáltatásokat” szöveg lép.
