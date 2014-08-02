@@ -40,10 +40,8 @@
 
 ## Határidő: az érintett miniszterek által benyújtott dokumentáció kézhezvételét követően azonnal
 
-## 8. visszavonja
-
-## a) az Államreform Operatív Program 2011–2013. időszakra szóló akciótervének módosításáról és az Államreform Operatív Program tartaléklistájáról szóló 1195/2014. (III. 31.) Korm. határozatot,
-
-## b) az Elektronikus Közigazgatás Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló 1177/2014. (III. 26.) Korm. határozat 1–3. pontját, valamint 1. és 2. mellékletét.
+## 8.[^1]
 
 1. melléklet az 1452/2014. (VIII. 1.) Korm. határozathoz
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
