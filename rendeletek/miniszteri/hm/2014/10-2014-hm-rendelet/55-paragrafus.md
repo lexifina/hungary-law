@@ -1,5 +1,3 @@
-## 54. § Az R. 226. § j) pontja helyébe a következő rendelkezés lép:
+## 45–54. §[^6]
 
-## (A HM központi lakásgazdálkodási szerv lakásgazdálkodási feladatai:)
-
-## „j) döntésre előkészíti a helyi lakásgazdálkodási szervek és a HM vagyonkezelői feladatokat ellátó szerv lakások bérletére, vásárlására, építésére, valamint a lakáselidegenítési és más lakhatási támogatási célra fordítható bevételek (többletbevételek) felhasználására tett javaslatait,”
+[^6]: A 45–54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
