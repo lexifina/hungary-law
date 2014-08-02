@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 3. visszavonja a KEOP-1.1.1/2F-2008-0002 azonosító számú („Mecsek-Dráva Hulladékgazdálkodási Program – Települési szilárdhulladék-gazdálkodási rendszer fejlesztése” című) nagyprojekt többlettámogatási igényének jóváhagyásáról szóló 1802/2013. (XI. 8.) Korm. határozatot.
+## 3.[^2]
 
 1. melléklet az 1453/2014. (VIII. 1.) Korm. határozathoz
 
@@ -17,3 +17,5 @@
 | 2. | KEOP EU (nettó Ft) | KEOP hazai (nettó Ft) |
 
 | 3. | KEOP-1.1.1/2F- 2008-0002 | Mecsek-Dráva Hulladékgazdálkodási Program – Települési szilárdhulladék-gazdálkodási rendszer fejlesztése | Mecsek-Dráva Regionális Szilárdhulladék Kezelő Rendszer Létrehozását Célzó Önkormányzati Társulás | 17 275 756 870 | 10 279 075 338 | 1 813 954 471 | 70 | A hulladékgazdálkodási rendszer összesen 313 településen élő 426 022 lakost érint. A projekt célja a társult települések területén megteremteni a modern és költséghatékony hulladékgazdálkodás feltételeit. A projekt keretében három regionális hulladékkezelő központ létesül, valamint a hulladékgazdálkodási rendszer üzemeltetéséhez szükséges eszközök kerülnek beszerzésre. |
+
+[^2]: A 3. ponta 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
