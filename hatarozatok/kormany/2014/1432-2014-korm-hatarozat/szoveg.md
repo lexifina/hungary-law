@@ -108,4 +108,6 @@ c) az 5. pontban megjelölt minisztereket, hogy az 5. pontban meghatározott fel
 
 14. Ez a határozat a közzétételét követő napon lép hatályba.
 
-15. Hatályát veszti a nemzeti ünnepek, valamint a kiemelkedő fontosságú rendezvények előkészítésének és lebonyolításának rendjéről szóló 1137/2010. (VII. 1.) Korm. határozat.
+15.[^1]
+
+[^1]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
