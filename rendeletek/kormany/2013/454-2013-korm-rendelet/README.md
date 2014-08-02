@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-454-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-11-30 | 2013-454-20-22.1 | 454/2013. (XI. 29.) Korm. rendelet |
+| 2014-08-02 | 2013-454-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
