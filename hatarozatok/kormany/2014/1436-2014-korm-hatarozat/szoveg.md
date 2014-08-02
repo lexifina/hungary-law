@@ -20,10 +20,6 @@ Határidő: folyamatos, illetve 2015. január 1.
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1359/2014. (VI. 30.) Korm. határozat 2. pont i) pontja helyébe a következő rendelkezés lép, és a 2. pont a következő j) ponttal egészül ki:
+3.[^1]
 
-(A Kormány a kormánybiztos feladatkörébe utalja az alábbi beruházások előkészítését és megvalósításuk irányítását:)
-
-„i) a Miniszterelnökség agrár-vidékfejlesztésért felelős államtitkára által irányított szervezeti egységek Kecskeméten történő elhelyezéséhez szükséges felújítási és építési feladatok;
-
-j) további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.”
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
