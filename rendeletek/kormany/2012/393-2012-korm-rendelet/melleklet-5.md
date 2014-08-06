@@ -8,7 +8,7 @@
 
 ## 2.2. A feltárás vezetőjének neve, beosztása, szakterülete
 
-## 3.1.[^89] Azonosításra alkalmas megjelölés (pl. közigazgatási, földrajzi egység; helység, Budapesten a kerület megnevezése is; külterületen földrajzi név, helyrajzi szám; belterületen településrész neve, utca, házszám)
+## 3.1.[^84] Azonosításra alkalmas megjelölés (pl. közigazgatási, földrajzi egység; helység, Budapesten a kerület megnevezése is; külterületen földrajzi név, helyrajzi szám; belterületen településrész neve, utca, házszám)
 
 ## 3.2. Csatolt térkép azonosítási adatai: térképlap száma, térkép vetülete, térkép méretaránya
 
@@ -40,4 +40,4 @@
 
 5. melléklet a 393/2012. (XII. 20.) Korm. rendelethez
 
-[^89]: A 4. melléklet 3.1. pontja a 439/2013. (XI. 20.) Korm. rendelet 18. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^84]: A 4. melléklet 3.1. pontja a 439/2013. (XI. 20.) Korm. rendelet 18. § (5) bekezdés d) pontja szerint módosított szöveg.

@@ -14,7 +14,7 @@
 
 ## 2.5. A feltárás vezetőjének nyilatkozata arról, hogy a korábbi tevékenysége során a Rendeletben meghatározott dokumentációs kötelezettségét teljesítette
 
-## 2.6.[^90] A feltárás vezetőjének munkatársai, beosztásuk, szakterületük
+## 2.6.[^85] A feltárás vezetőjének munkatársai, beosztásuk, szakterületük
 
 ## 3. A feltárás helye (a feltárással érintett terület azonosítására egyértelműen alkalmas megjelölés értelemszerinti megadásával)
 
@@ -78,4 +78,4 @@
 
 6. melléklet a 393/2012. (XII. 20.) Korm. rendelethez
 
-[^90]: Az 5. melléklet 2.6. pontját a 439/2013. (XI. 20.) Korm. rendelet 16. § (3) bekezdése iktatta be.
+[^85]: Az 5. melléklet 2.6. pontját a 439/2013. (XI. 20.) Korm. rendelet 16. § (3) bekezdése iktatta be.
