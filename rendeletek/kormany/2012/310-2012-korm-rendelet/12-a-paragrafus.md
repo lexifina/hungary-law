@@ -1,1 +1,0 @@
-## 12. § A Központ – mint a beolvadással megszűnő Műemlékek Nemzeti Gondnokságának (a továbbiakban: MNG) általános jogutódja – állományába kerülnek az MNG alkalmazottai a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/F. § szabályai szerint.
