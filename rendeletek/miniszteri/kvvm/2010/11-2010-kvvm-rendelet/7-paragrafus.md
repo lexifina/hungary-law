@@ -1,3 +1,3 @@
-## 6. §[^1]
+## 6. §[^3]
 
-[^1]: A 6. §-t a 7. § (1) bekezdése hatályon kívül helyezte.
+[^3]: A 6. §-t a 7. § (1) bekezdése hatályon kívül helyezte.
