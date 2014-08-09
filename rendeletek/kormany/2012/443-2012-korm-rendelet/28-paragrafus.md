@@ -1,5 +1,0 @@
-28. § (1) A gyártók a történelmi hulladékká vált – a ”Háztartási nagygépek” elektromos berendezés-kategóriába tartozó – termék átvételével, gyűjtésével, továbbá hasznosításával és ártalmatlanításával kapcsolatos költségüket 2013. február 13-ig tüntethetik fel elkülönítetten az új háztartási elektromos berendezés árában (elkülönített díj). Az elkülönített díj nem haladhatja meg az átvétellel, gyűjtéssel, hasznosítással és ártalmatlanítással kapcsolatban ténylegesen felmerülő költségeket.
-
-(2) Ha a gyártó az elkülönített díj alkalmazása mellett dönt, az értékesítési szerződésben rögzíteni kell az elkülönített díj mértékét, elszámolásának módját, továbbá a forgalmazónak gondoskodnia kell arról, hogy a díj a fogyasztók, valamint a hulladék birtokosai felé feltüntetésre kerüljön.
-
-(3) Az e rendelet hatálybalépésekor működő közvetítő szervezet, amely a hulladékká vált elektromos, elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységek közvetítését nyilvántartásba vételi határozat birtokában jogszerűen végzi, tevékenységét a határozat időbeli hatályának lejártáig végezheti.
