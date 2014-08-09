@@ -1,0 +1,1 @@
+## 28. § A gyártó az e rendeletben meghatározott kötelezettségeinek teljesítését, valamint az átvállalónak és a közvetítő szervezetnek az e kötelezettségek átvállalása alapján végzett tevékenységét az OKTF ellenőrzi.
