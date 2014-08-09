@@ -83,21 +83,3 @@ A toborzási adatbázis adatköre
 ## 1. szakmai tapasztalat
 
 ## 2. munkáltató megnevezése, tevékenységi területe
-
-## 3. betöltött feladatkör/munkakör
-
-## 4. időtartam
-
-## III.
-
-## 1. iskolai végzettség
-
-## 2. képző intézmény megnevezése (kar, szak megjelölésével)
-
-## 3. képzés időtartama, végzés időpontja
-
-## 4. idegennyelv-ismerete (szintje, típusa)
-
-## 5. közigazgatási versenyvizsga megszerzésének időpontja, oklevél száma, eredménye
-
-## 6. informatikai ismeretek
