@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2014-01-01 | 2013. évi LXXV. törvény | 1993-3-00-00.89 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1993-3-00-00.90 |
 | 2014-07-01 | 2013. évi CLVIII. törvény | 1993-3-00-00.91 |
+| 2014-08-09 | 2014. évi XXX. törvény | 1993-3-00-00.92 |
