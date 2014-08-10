@@ -8,7 +8,7 @@
 
 2. Tiszta játékbevétel: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete.
 
-2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyidőszakban befizetett tétek és kifizetett nyeremények különbözete, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező által felszámított díjak vagy azokkal egy tekintet alá eső jutalékok képezik.
+2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyidőszakban befizetett téteknek a kifizetett nyereményekkel és sportfogadás esetén a jogszabályban előírt vagyoni értékű jogra vonatkozó felhasználási szerződés időarányos ellenértékével csökkentett összege, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező által felszámított díjak vagy azokkal egy tekintet alá eső jutalékok képezik.
 
 2.2.
 
