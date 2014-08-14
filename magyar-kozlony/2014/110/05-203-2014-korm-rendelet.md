@@ -1,0 +1,239 @@
+# A Kormány 203/2014. (VIII. 14.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 110. szám, 2014. augusztus 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8df7a16fa192ab56a7e77628e500a1c68f441e54/dokumentumok/d2c66743f7319df83ef22a20dabef963391981f4/letoltes)
+
+---
+
+A Kormány 203/2014. (VIII. 14.) Korm. rendelete
+a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális
+Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló
+4/2011. (I. 28.) Korm. rendelet és az egységes működési kézikönyvről szóló
+547/2013. (XII. 30.) Korm. rendelet módosításáról
+A Kormány
+az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotási hatáskörben,
+a 3. §, 4. §, 6. § és 7. § tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15. pontjában kapott
+felhatalmazás alapján,
+az 5. § tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 17. pontjában kapott felhatalmazás
+alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai
+Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló
+4/2011. (I. 28.) Korm. rendelet módosítása
+1. §
+A 2007-2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból
+és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet
+[a továbbiakban: 4/2011. (I. 28.) Korm. rendelet] 1. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) A 23. és 34. alcím hatálya kiterjed az (1) bekezdésben megjelölt alapokból, valamint az Európai Vidékfejlesztési
+Mezőgazdasági Alapból, az Európai Tengerügyi és Halászati Alapból és az Európai Hálózatfinanszírozási Eszközből
+a 2014-2020 programozási időszak operatív programjainak keretében finanszírozott közbeszerzésekre is.”
+2. §
+A 4/2011. (I. 28.) Korm. rendelet 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Ha valamely támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet
+közreműködő szervezetet említ, azon a Kormány európai uniós források felhasználásával kapcsolatos irányító
+hatósági feladatok ellátására kijelölt tagja által vezetett minisztériumban az irányító hatóság vezetője által kijelölt
+szervezeti egységet kell érteni.”
+3. §
+A 4/2011. (I. 28.) Korm. rendelet 33. § (8) bekezdés h) pontja helyébe a következő rendelkezés lép:
+(Nem köteles biztosítékot nyújtani)
+„h) az állam, helyi önkormányzat vagy helyi önkormányzatok társulásának többségi befolyása alatt álló, az e) és
+f) pont szerint nem minősülő gazdasági társaság, ha a támogatást
+
+ha) az állam, helyi önkormányzat, helyi önkormányzatok társulása vagy – központi költségvetési szerv kivételével –
+költségvetési szerv vagyonának fejlesztésére fordítja, vagy
+hb) a ha) alpontban meghatározott személyek valamelyikének többségi befolyása alatt álló jogi személy olyan
+vagyontárgyának fejlesztésére fordítja, amely közfeladat ellátását szolgálja vagy közfeladat ellátását mozdítja elő,
+és az (1) bekezdés szerinti kötelezettsége alól kormányhatározat mentesíti,”
+4. §
+A 4/2011. (I. 28.) Korm. rendelet 91. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A központi koordinációs szerv, illetve az irányító hatóság a döntést követő 10 napon belül közzéteszi
+a kedvezményezett nevének, a projekt címének, a szabálytalanság elkövetése módjának, a szabálytalanság
+következményének és a szabálytalansággal érintett összegnek a feltüntetésével a központi koordinációs szerv által
+működtetett honlapon – a személyes adatok kivételével – a szabálytalansági eljárásban a központi koordinációs
+szerv, illetve az irányító hatóság vagy a közreműködő szervezet által hozott, szabálytalanság megtörténtét
+megállapító jogerős döntéseket.”
+5. §
+A 4/2011. (I. 28.) Korm. rendelet 108. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) A közreműködő szervezet, az igazoló hatóság és a központi koordinációs szerv belső ellenőrzési részlegei
+minden év november 15-éig, a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági
+feladatok ellátására kijelölt tagja minden év december 15-éig megküldik éves ellenőrzési tervüket – az annak
+alapjául szolgáló kockázatelemzéssel együtt – az államháztartásért felelős miniszter és az ellenőrzési hatóság
+részére. Közreműködő szervezet kijelölése esetén a közreműködő szervezet az éves ellenőrzési tervét minden év
+november 15-éig az irányító hatóság részére is megküldi. Az éves ellenőrzési terv változását haladéktalanul meg kell
+küldeni az államháztartásért felelős miniszter és az ellenőrzési hatóság részére. Közreműködő szervezet kijelölése
+esetén a közreműködő szervezet az éves ellenőrzési terv változását haladéktalanul megküldi az IH részére is.
+(2) Az irányító hatóság, illetve a feladat delegálása esetén a közreműködő szervezet minden év november
+15-éig megküldi éves helyszíni ellenőrzési tervét – az annak alapjául szolgáló kockázatelemzéssel együtt –
+az államháztartásért felelős miniszter és az ellenőrzési hatóság részére. Közreműködő szervezet kijelölése
+esetén a közreműködő szervezet az éves helyszíni ellenőrzési tervét minden év november 15-éig az irányító
+hatóság részére is megküldi. Az éves helyszíni ellenőrzési terv változását haladéktalanul meg kell küldeni
+az államháztartásért felelős miniszter és az ellenőrzési hatóság részére. Közreműködő szervezet kijelölése esetén
+a közreműködő szervezet az éves helyszíni ellenőrzési terv változását haladéktalanul megküldi az IH részére is.”
+6. §
+A 4/2011. (I. 28.) Korm. rendelet 115. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A (3) bekezdés szerinti közreműködő szervezet az irányító hatósággal kötött teljesítményalapú finanszírozási
+szerződésben, illetve az irányító hatóság vezetője által kijelölt szervezeti egység finanszírozásának vonatkozásában
+a Miniszterelnökség által kiadott támogatói okiratban rögzített feladatmegosztás és feladatátadás alapján,
+bármely operatív program valamennyi prioritása végrehajtásában történő – az operatív programokban, illetve
+rendszerleírásokban rögzített munkamegosztást nem érintő – kiegészítő közreműködéssel is megbízható.”
+7. §
+A 4/2011. (I. 28.) Korm. rendelet 49. alcíme a következő 122/B. §-sal egészül ki:
+„122/B. § Ha a 2014–2020 programozási időszakhoz kapcsolódó közbeszerzés tekintetében a 39/B–40/A. § vagy
+a 44. § alkalmazásának lett volna helye, de az eljárás megindítására vagy a szerződés módosítására a 2007–2013
+programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós
+Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet és az egységes
+működési kézikönyvről szóló 547/2013. (XII. 30.) Korm. rendelet módosításáról szóló 203/2014. (VIII. 14.) Korm.
+rendelet hatálybalépését megelőzően úgy került sor, hogy e rendelkezéseket nem alkalmazták, a támogatást
+igénylő, illetve a kedvezményezett a 45. § (1) bekezdése szerint utólagos ellenőrzésre köteles benyújtani
+az eljárás, illetve módosítás dokumentumait. Ebben az esetben a központi koordinációs szerv a folyamatban lévő
+közbeszerzési eljárásba megfigyelőt nem jelöl, és nem kerül sor a 42. § szerinti ellenőrzésre.”
+8. §
+A 4/2011. (I. 28.) Korm. rendelet 49. alcíme a következő 122/C. §-sal egészül ki:
+„122/C. § A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális
+Alapból és a Kohéziós Alapból származó támogatások visszafizetésének biztosításaként felajánlott bankgarancia
+tekintetében a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és
+felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény 50. § (1) bekezdése irányadó. A 2007–2013
+
+programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós
+Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet és az egységes
+működési kézikönyvről szóló 547/2013. (XII. 30.) Korm. rendelet módosításáról szóló 203/2014. (VIII. 14.) Korm.
+rendelet hatálybalépését megelőzően a támogatás visszafizetésének biztosítékaként felajánlott bankgarancia
+az abban foglaltak szerint felhasználható.”
+9. §
+A 4/2011. (I. 28.) Korm. rendelet
+1. 4. § h) pontjában, 6. § (2) bekezdésében, 9. § (3) bekezdés a) pontjában és 105. § (3) bekezdésében
+az „a Miniszterelnökséget vezető államtitkár” szövegrész helyébe az „az európai uniós források
+felhasználásáért felelős miniszter”szöveg,
+2. 4. alcímének címében az „A Miniszterelnökséget vezető államtitkár” szövegrész helyébe az „Az európai uniós
+források felhasználásáért felelős miniszter”szöveg,
+3. 5. §-ában az „A Miniszterelnökséget vezető államtitkár a miniszterelnöknek az európai uniós támogatások
+felhasználásáért való felelőssége körében” szövegrész helyébe az „Az európai uniós források felhasználásáért
+felelős miniszter”szöveg,
+4. 5. § h) pont ha) alpontjában az „egységes működési kézikönyvet készít” szövegrész helyébe az „előkészíti
+az egységes működési kézikönyvet”szöveg,
+5. 14. § (1) bekezdés e) pontjában az „1959. évi IV. törvény 685. § b) pontja” szövegrész helyébe a „2013. évi
+V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 1. pontja”szöveg,
+6. 30. § (2) bekezdés a) és b) pontjában az„a Magyar Állam”szövegrész helyébe az„az állam”szöveg,
+7. 33. § (1) bekezdés a) pontjában a„bankgarancia”szövegrész helyébe a„garanciaszerződés”szöveg,
+8. 33. § (8) bekezdés f) pontjában a „Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.)
+685/B. §-ában”szövegrész helyébe a„Ptk. 8:2. §-ában”szöveg,
+9. 57. § (2) bekezdésében, 3. melléklet D:2 és D:3 mezőjében, valamint 3. melléklet 53. sorában az „a Kormány
+európai uniós források felhasználásáért felelős tagja” szövegrész helyébe az „az európai uniós források
+felhasználásáért felelős miniszter”szöveg,
+10. 83. § (2) bekezdés c) és e) pontjában a „685. § b) pontja” szövegrész helyébe a „8:1. § (1) bekezdés 1. pontja”
+szöveg,
+11. 85. § (6) bekezdésében az„NFÜ”szövegrész helyébe az„irányító hatóság”szöveg,
+12. 101. § (1) és (2) bekezdésében a„232. § (3) bekezdése”szövegrész helyébe a„6:47. §-a”szöveg,
+13. 101. § (5) bekezdésében a„301. §-a”szövegrész helyébe a„6:48. §-a”szöveg,
+14. 106. § (1) bekezdésében az „a Kormány európai uniós források felhasználásáért felelős tagja esetében
+a Miniszterelnökség” szövegrész helyébe az „az európai uniós források felhasználásáért felelős miniszter által
+vezetett minisztérium”szöveg
+lép.
+10. § (1) Hatályát veszti a 4/2011. (I. 28.) Korm. rendelet
+1. 2. § (1) bekezdés 1b. pontjában az „az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár
+feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet [a továbbiakban: 212/2010. (VII. 1.)
+Korm. rendelet] alapján”szövegrész,
+2. 2. § (1) bekezdés 5a. pontjában az„a 212/2010. (VII. 1.) Korm. rendelet alapján”szövegrész,
+3. 21. § (1b) bekezdésében az„– a 212/2010. (VII. 1.) Korm. rendelet alapján –”szövegrész,
+4. 28. § (1) bekezdésében az„a 212/2010. (VII. 1.) Korm. rendelet alapján”szövegrész.
+(2) Hatályát veszti a 4/2011. (I. 28.) Korm. rendelet 34. § (2) bekezdés a) pontja.
+2. Az egységes működési kézikönyvről szóló 547/2013. (XII. 30.) Korm. rendelet módosítása
+11. §
+Az egységes működési kézikönyvről szóló 547/2013. (XII. 30.) Korm. rendelet (a továbbiakban: EMK) a következő
+1/A. §-sal egészül ki:
+„1/A. § Ha valamely támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet
+közreműködő szervezetet említ, azon a Kormány európai uniós források felhasználásával kapcsolatos irányító
+hatósági feladatok ellátására kijelölt tagja által vezetett minisztériumban az irányító hatóság vezetője által kijelölt
+szervezeti egységet kell érteni.”
+
+12. §
+Az EMK a következő 5. §-sal egészül ki:
+„5. § A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális
+Alapból és a Kohéziós Alapból származó támogatások visszafizetésének biztosításaként felajánlott bankgarancia
+tekintetében a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és
+felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény 50. § (1) bekezdése irányadó.”
+13. §
+Az EMK 1. melléklete az 1. melléklet szerint módosul.
+14. §
+Az EMK 1. melléklet
+1. 16.1. c) pontjában a „támogatásáról szóló szabályzat” szövegrész helyébe a „támogatására vonatkozó
+szabályok”szöveg,
+2. 23.3. d) pontjában az„a Miniszterelnökség, mint a XIX. Uniós fejlesztések költségvetési fejezetet irányító szerv
+által meghatározott, a www.szechenyi2020.hu oldalon közzétett”szövegrész helyébe az„az”szöveg,
+3. 160.5. pontjában, 301.2. pontjában, 627.1. pontjában, 638.2. pontjában, 649. pontjában, 654. pontjában,
+659.2. a) és b) pontjában, 659.7. pontjában az „a Miniszterelnökséget vezető államtitkár” szövegrész helyébe
+az„az európai uniós források felhasználásáért felelős miniszter”szöveg,
+4. 583.2. pontjában, 659.6. pontjában, 659.8. pontjában, 660.2. pontjában az „A Miniszterelnökséget vezető
+államtitkár”szövegrész helyébe az„Az európai uniós források felhasználásáért felelős miniszter”szöveg,
+5. 587.1. pontjában, 659.1. pontjában az „a Miniszterelnökséget vezető államtitkár” szövegrészek helyébe
+az„az európai uniós források felhasználásért felelős miniszter”szöveg,
+6. 590.8. pontjában az „a Miniszterelnökséget vezető államtitkárt, mint a fejezetet irányító szerv vezetőjét,”
+szövegrész helyébe az„az európai uniós források felhasználásáért felelős minisztert”szöveg,
+7. 593.2. pontjában a„Miniszterelnökségi utasítás”szövegrész helyébe a„TS Eljárásrend”szöveg,
+8. 593.3. pontjában a„Miniszterelnökségi utasításban”szövegrész helyébe a„TS Eljárásrendben”szöveg,
+9. 606.4. pontjában az „a Miniszterelnökséget vezető államtitkár, mint a fejezetet irányító szerv vezetője,”
+szövegrész helyébe az„az európai uniós források felhasználásáért felelős miniszter”szöveg,
+10. 611.7. pontjában a„KSZ”szövegrész helyébe a„központi koordinációs szerv”szöveg,
+11. 612.4. pontjában a „kedvezményezett” szövegrész helyébe a „kedvezményezett, esetlegesen a konzorciumi
+tag”szöveg,
+12. 613.1. pontjában a „dokumentumcsomagot papíron” szövegrész helyébe a „dokumentumsablont papíron”
+szöveg,
+13. 613.2. pontjában a„dokumentumcsomagot”szövegrész helyébe a„dokumentumsablont”szöveg,
+14. 659.5. pontjában, 660.1. pontjában az „a Miniszterelnökséget vezető államtitkárnak” szövegrész helyébe
+az„az európai uniós források felhasználásáért felelős miniszternek”szöveg,
+15. 662. c) pontjában az„eredményeként”szövegrész helyébe az„eredményeként az IH és”szöveg
+lép.
+15. §
+Hatályát veszti az EMK
+1. 111.1. pontjában az„a KSZ egyetértése esetén”szövegrész,
+2. 504.1. m) pontjában a „ , melynek előfeltétele a kedvezményezettnek folyósított összegek visszafizetése”
+szövegrész,
+3. 662. b) pontjában a„feladat”szövegrész.
+16. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 203/2014. (VIII. 14.) Korm. rendelethez
+1. Az EMK 1. melléklet 18. pontja helyébe a következő rendelkezés lép:
+„18. A pályázati felhívásokban elő kell írni, hogy a támogatást igénylőnek az esélyegyenlőség és a környezeti
+fenntarthatóság területén vállalásokat kell tennie, ha a vállalások közösségi rendeletekben foglalt adatszolgáltatási
+kötelezettségekhez vagy az adott operatív programban vállalt indikátorokhoz kapcsolódnak. Egy pályázatban
+legfeljebb 6 horizontális szempont kérhető.”
+2. Az EMK 1. melléklet 54. alcíme helyébe a következő rendelkezés lép:
+„54. A garanciaszerződés
+126. A garanciaszerződésre irányadó rendelkezéseket a Ptk. LXI. Fejezete határozza meg.”
+3. Hatályát veszti az EMK 1. melléklet 127.1–127.3. pontja.
+4. Az EMK 1. melléklet 591.2. pontja helyébe a következő rendelkezés lép:
+„591.2. Belső projektek esetében a pénzügyi lebonyolítás egységes működési kézikönyvben nem részletezett
+folyamata a Rendelet 116. § (7) bekezdése szerint elkészített technikai segítségnyújtás eljárásrend (a továbbiakban:
+TS Eljárásrend) szerint történik.”
+5. Az EMK 1. melléklete a következő 612.8. és 612.9. ponttal egészül ki:
+„612.8. Konzorciumok esetén, ha egy dokumentumcsomag egyes részeit különböző konzorciumi tagok küldik
+be, és a konzorciumi tagok egyike a 612.4. pont szerint kérelmezte a mellékletek papír alapú benyújtását, a KSZ
+ügyintézési határideje a hiányzó mellékletek postai beérkezésétől kezdődik.
+612.9. Ha a 612.4. pont szerinti kérelem esetén a hiányzó mellékletek postai beérkezése a dokumentumcsomag
+elektronikus beküldését követő 15 napon belül nem történik meg, a KSZ-nek meg kell kezdenie
+a dokumentumcsomag feldolgozását.”
+6. Az EMK 1. melléklete a következő 618.4. és 618.5. ponttal egészül ki:
+„618.4. A 618.3. pont szerinti meghibásodás esetén, ha a kedvezményezett nem tudja határidőben postára adni
+a dokumentumcsomagot, a következő napon történő postára adás esetén a határidőt megtartottnak kell tekinteni.
+618.5. A 618.3. pont szerinti tájékoztatásban meg kell jelölni a meghibásodás kezdetét és – ha lehetséges – annak
+várható végét.”
+7. Az EMK 1. melléklet 661. pontja helyébe a következő rendelkezés lép:
+„661.1. E fejezet rendelkezéseit akkor kell alkalmazni, ha az IH az operatív program lebonyolításába KSZ-t vont be.
+661.2. A KSZ-ek éves munkatervében foglalt tevékenységek végrehajtása a központi koordinációs szerv, az IH és
+a KSZ-ek közötti, az operatív programok végrehajtására kötött teljesítményalapú finanszírozási megállapodás
+(a továbbiakban: KSZ Megállapodás) alapján kerül ellenőrzésre, valamint értékelésre.”
+8. Az EMK 1. melléklet 663. pontja helyébe a következő rendelkezés lép:
+„663. A központi koordinációs szerv által elfogadott KSZ elszámolások alapján – az IH-k által elvégzett szakmai
+értékelések figyelembevételével – a teljesítésigazolható összeget a központi koordinációs szerv határozza meg,
+melyről tájékozatja az IH-t.”
+9. Az EMK 1. melléklete a következő 675. és 676. ponttal egészül ki:
+„675. A Rendelet 5/B. §-a szerinti ellenőrzéssel kapcsolatos részletszabályokat a központi koordinációs szerv
+a www.szechenyi2020.hu honlapon teszi közzé, melyben meghatározza a kincstár, az IH-k és a központi
+koordinációs szerv közötti munkamegosztást.
+676. A kincstár a Rendelet 68. § (2) bekezdése szerint valamennyi operatív program tekintetében teljes körű
+számviteli nyilvántartást vezet, melynek megvalósítása érdekében elkészíti a bizonylati alátámasztás biztosítására
+vonatkozó szabályzatot. A szabályzat célja a kincstár részére küldendő számviteli bizonylatok körének és
+tartalmának, valamint beküldési határidejének meghatározása. A szabályzat hatálya kiterjed a kincstárra, az IH-kra és
+a KSZ-ekre. A szabályzat a www.szechenyi2020.hu honlapon kerül közzétételre.”
