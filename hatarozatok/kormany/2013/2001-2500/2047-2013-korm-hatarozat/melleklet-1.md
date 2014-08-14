@@ -12,7 +12,7 @@
 
 ## Felelős: közigazgatási és igazságügyi miniszter, belügyminiszter, emberi erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2014. június 30., a Balassi Intézet cím jogcímcsoport javára átcsoportosított 50,0 millió forint és a Civil Alap – pályázati program jogcímcsoport javára átcsoportosított 1800,0 millió forint tekintetében 2014. december 31., a Gyógyító-megelőző ellátás intézetei alcím javára átcsoportosított 600,0 millió forint tekintetében 2015. február 28.
+## Határidő: 2014. június 30., a Balassi Intézet cím jogcímcsoport javára átcsoportosított 50,0 millió forint és a Civil Alap – pályázati program jogcímcsoport javára átcsoportosított 1800,0 millió forint tekintetében 2014. december 31., a Gyógyító-megelőző ellátás intézetei alcím javára átcsoportosított 600,0 millió forint tekintetében 2015. február 28., a Szegedi Szabadtéri Játékok infrastruktúrájának fejlesztése jogcímcsoport javára átcsoportosított 280,0 millió forint tekintetében 2014. december 30.
 
 ## 3–5.[^2]
 
@@ -172,5 +172,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 2. pont az 1426/2014. (VII. 28.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1457/2014. (VIII. 14.) Korm. határozat 7. pontja szerint módosított szöveg.
 [^2]: A 3–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
