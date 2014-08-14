@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 23,7 gramm, átmérője 37 mm, széle recézett.
+
+(2) Az emlékérme előlapján, a középmezőben Szent Erzsébet ábrázolása látható, amint kenyeret nyújt egy hajlott, idős embernek. Az emlékérme szélén, jobbra fent, egymás alatti két köriratban a „MAGYARORSZÁG” felirat, valamint a „2000” értékjelzés és a „FORINT” felirat, alsó köriratban, középen a „2014” verési évszám és a „BP.” verdejel olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben egy földgömb ábrázolása látható, előtérben a Magyar Máltai Szeretetszolgálat emblémájával, fölötte az „1989” évszám olvasható. Az emlékérme szélén, felső köriratban a „MAGYAR MÁLTAI SZERETETSZOLGÁLAT”, alsó köriratban a Magyar Máltai Szeretetszolgálat jelmondata, az „A HIT VÉDELME ÉS A SZEGÉNYEK SZOLGÁLATA” felirat olvasható. A felső és az alsó köriratot bal oldalon, középen Nagyné Ráski Orsolya és Nagy Dániel tervezőművészek mesterjegye, jobb oldalon, középen egy pont választja el. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
