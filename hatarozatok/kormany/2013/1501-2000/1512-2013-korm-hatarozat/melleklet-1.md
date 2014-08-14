@@ -10,7 +10,7 @@
 
 ## Felelős: nemzetgazdasági miniszter
 
-## Határidő: 2014. június 30.[^1]
+## Határidő: 2014. december 31.[^1]
 
 1. melléklet az 1512/2013. (VIII. 1.) Korm. határozathoz
 
@@ -82,4 +82,4 @@ Költségvetési év: 2013.
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A határozat a 2047/2013. (XII. 30.) Korm. határozat 4. pontja szerint módosított.
+[^1]: Az 1457/2014. (VIII. 14.) Korm. határozat 6. pontja szerint módosított szöveg.
