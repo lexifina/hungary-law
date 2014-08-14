@@ -4,7 +4,7 @@
 
 ## Határidő azonnal
 
-## 2. A Kormány az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva 13 850,9 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint.
+## 2.[^1] A Kormány az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva 13 850,9 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -16,7 +16,7 @@
 
 ## Felelős: Nemzeti Választási Iroda elnöke, Miniszterelnökséget vezető miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, nemzetgazdasági miniszter a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: a Nemzeti Választási Iroda és a Külgazdasági és Külügyminisztérium fejezet részére biztosított összeg tekintetében 2014. november 30., a többi tétel esetében 2015. június 30.
+## Határidő: a Külgazdasági és Külügyminisztérium fejezet részére biztosított összeg tekintetében 2014. november 30., a többi tétel esetében 2015. június 30.
 
 ## 3. A Kormány az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva engedélyezi
 
@@ -26,7 +26,7 @@
 
 ## 2014. június 30. utáni változatlan célú további felhasználását.
 
-## 4–9.[^1]
+## 4–9.[^2]
 
 1. melléklet az 1426/2014. (VII. 28.) Korm. határozathoz
 
@@ -180,4 +180,5 @@ Költségvetési év: 2014.
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 4–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont az 1457/2014. (VIII. 14.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^2]: A 4–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
