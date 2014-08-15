@@ -1,6 +1,6 @@
-## 4. §[^1] E rendeletnek az egységes működési kézikönyvről szóló 547/2013. (XII. 30.) Korm. rendelet módosításáról szóló 85/2014. (III. 18.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatálybalépésekor[^2] folyamatban lévő ügyekben is alkalmazni kell.
+## 5. §[^4] A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások visszafizetésének biztosításaként felajánlott bankgarancia tekintetében a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény 50. § (1) bekezdése irányadó.
 
-1. melléklet az 547/2013. (XII. 30.) Korm. rendelethez[^3]
+1. melléklet az 547/2013. (XII. 30.) Korm. rendelethez[^5]
 
 Az egységes működési kézikönyv
 
@@ -162,7 +162,7 @@ a) arculati kézikönyv,
 
 b) elszámolható költségek nemzeti szabályzata,
 
-c) az állami költségvetési kedvezményezettek sajáterő támogatásáról szóló szabályzat,
+c) az állami költségvetési kedvezményezettek sajáterő támogatására vonatkozó szabályok,
 
 d) a Nemzeti Stratégiai Referenciakeret indikátorainak kezeléséről szóló szabályzat, és
 
@@ -186,7 +186,7 @@ alapján köteles kidolgozni.
 
 17. Ha egy adott pályázati felhívásra kis- és középvállalkozások is nyújthatnak be pályázatot, a pályázati felhívásban elő kell írni, hogy a projektadatlapot kizárólag elektronikusan lehet beadni, kinyomtatott és cégszerűen aláírt nyilatkozattal együtt. A nyilatkozat és az elektronikus adathordozóra mentett projektadatlap és azok mellékletei együtt képezik a pályázatot.
 
-18. A pályázati felhívásokban elő kell írni, hogy a támogatást igénylőnek az esélyegyenlőség és a környezeti fenntarthatóság területén vállalásokat kell tennie, ha a vállalások közösségi rendeletekben foglalt adatszolgáltatási kötelezettségekhez vagy az adott operatív programban vállalt indikátorokhoz kapcsolódnak. Egy pályázatban legfeljebb 6 horizontális szempont kérhető. A pályázati felhívásban a Nemzeti Stratégiai Referenciakeret indikátorai létrehozásának és kezelésének rendjét külön szabályzat határozza meg, amely a www.szechenyi2020.hu honlapon érhető el és a lebonyolításban érintett számára alkalmazandó.
+18. A pályázati felhívásokban elő kell írni, hogy a támogatást igénylőnek az esélyegyenlőség és a környezeti fenntarthatóság területén vállalásokat kell tennie, ha a vállalások közösségi rendeletekben foglalt adatszolgáltatási kötelezettségekhez vagy az adott operatív programban vállalt indikátorokhoz kapcsolódnak. Egy pályázatban legfeljebb 6 horizontális szempont kérhető.
 
 19. A támogatási szerződés sablon alapján az IH gondoskodik a konstrukció sajátosságainak megfelelő támogatási szerződésminta elkészítéséről.
 
@@ -242,7 +242,7 @@ b) az egységes működési kézikönyvvel,
 
 c) a központi koordinációs szerv által kiadott és a www.szechenyi2020.hu oldalon közzétett arculati kézikönyvvel, az elszámolható költségek nemzeti szabályzatával,
 
-d) a Miniszterelnökség, mint a XIX. Uniós fejlesztések költségvetési fejezetet irányító szerv által meghatározott, a www.szechenyi2020.hu oldalon közzétett állami költségvetési kedvezményezettek sajáterő támogatásának szabályaival,
+d) az állami költségvetési kedvezményezettek sajáterő támogatásának szabályaival,
 
 e) a központi koordinációs szerv által kiadott és jóváhagyott egységes dokumentum-sablonokkal, vagy
 
@@ -1042,7 +1042,7 @@ A nagyprojektek
 
 110.2. A támogatási szerződés módosításakor a 48. alcím rendelkezéseit megfelelően alkalmazni kell.
 
-111.1. Ha a kedvezményezett arról tájékoztatja a KSZ-t, hogy a projekt megvalósítása során olyan tény vagy körülmény merült fel, amely az Európai Bizottság határozatában megállapított rendelkezéseket, illetve feltételeket érinti és a KSZ álláspontja szerint az Európai Bizottság határozatának módosítása indokolt, a KSZ egyetértése esetén a kedvezményezett 30 napon belül elkészíti a módosítási kérelmet és megküldi az IH-nak.
+111.1. Ha a kedvezményezett arról tájékoztatja a KSZ-t, hogy a projekt megvalósítása során olyan tény vagy körülmény merült fel, amely az Európai Bizottság határozatában megállapított rendelkezéseket, illetve feltételeket érinti és a KSZ álláspontja szerint az Európai Bizottság határozatának módosítása indokolt, a kedvezményezett 30 napon belül elkészíti a módosítási kérelmet és megküldi az IH-nak.
 
 111.2. Az IH felülvizsgálja a módosítási kérelmet és szükség szerint egyeztet a KSZ-szel és a kedvezményezettel.
 
@@ -1246,47 +1246,11 @@ b) értékbecslő esetén a cégkivonat vagy egyéni vállalkozói igazolvány k
 
 125. A biztosítékként felajánlott ingatlant a kedvezményezett csak az IH vagy KSZ engedélyével idegenítheti el vagy terhelheti meg.
 
-54. A bankgarancia
+54. A garanciaszerződés
 
-126. Bankgarancia alatt a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény hatálya alá tartozó hitelintézetek által adott bankgarancia értendő.
+126. A garanciaszerződésre irányadó rendelkezéseket a Ptk. LXI. Fejezete határozza meg.
 
-127.1. A bankgarancia-nyilatkozatnak meg kell felelnie a következőknek:
-
-a) pénzügyi vállalkozás által kibocsátott bankgarancia nem fogadható el,
-
-b) a bankgaranciának rögzítenie kell a hitelintézet kifejezett, visszavonhatatlan, önálló fizetési kötelezettségvállalását,
-
-c) a bankgaranciának a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztériumot kell jogosultként megjelölnie, és rögzítenie kell azt, hogy a jogosult nevében a KSZ jár el,
-
-d) a bankgarancia érvényesíthetőségének feltételeként csak a jogosult, vagy a nevében eljáró KSZ által cégszerűen aláírt írásbeli felszólítás benyújtása köthető ki, amelyben a jogosult, vagy a nevében eljáró KSZ írásban nyilatkozik arról, hogy az alapjogviszony kötelezettje nem teljesítette fizetési vagy egyéb szerződéses kötelezettségét,
-
-e) a hitelintézet az alapjogviszony vizsgálatára a bankgarancia lehívásakor nem jogosult,
-
-f) a bankgaranciának az aláírástól kell érvényesnek lennie a bankgaranciában rögzített végdátumig,
-
-g) szállítói előleg biztosítására nyújtott bankgarancia esetén előírható a bankgarancia összegének abban az időpontban történő automatikus csökkenése, amikor a KSZ a hitelintézethez benyújtja a szállító által elszámolt előleg összegét pontosan megjelölő nyilatkozatát,
-
-h) a bankgarancia nem írhat elő olyan további feltételt, amely az egységes működési kézikönyv előírásainak érvényesíthetőségét korlátozza.
-
-127.2. Ha a hitelintézeti minőséggel kapcsolatban kétség merül fel, meg kell vizsgálni a bankgaranciát kibocsátó engedélyét arra vonatkozóan, hogy milyen pénzügyi tevékenységeket végezhet.
-
-127.3. A bankgaranciának tartalmaznia kell továbbá:
-
-a) a hitelintézet pontos és teljes nevét, székhelyét,
-
-b) a jogosult, továbbá a jogosult nevében eljáró KSZ nevét és székhelyét,
-
-c) annak pontos megnevezését, hogy mely jogviszony (a támogatási szerződés szerinti felek és a szerződésszám megjelölése) alapján áll fenn a fizetési kötelezettség,
-
-d) a bankgarancia számát vagy egyedi azonosítóját,
-
-e) minden oldalon pecsétet és cégszerű aláírást,
-
-f) a pontos összeget – összeghatár-jellegű megjelöléssel – számmal és betűvel,
-
-g) a legfeljebb 15 banki munkanapban megállapított fizetési határidőt,
-
-h) annak kijelentését, hogy a bankgaranciából származó bármely jogvita esetén a magyar jog az irányadó és a magyar bíróság az illetékes.
+127.1–127.3.
 
 55. A kezesség
 
@@ -1696,7 +1660,7 @@ c) záró kifizetési igénylés.
 
 160.4. A támogatási előleg nagyságának legmagasabb összegére vonatkozó összeghatártól az IH-vezető az államháztartásért felelős miniszter egyetértésével eltérhet.
 
-160.5. A 2012. január 1-jét követően közzétett pályázati felhívások alapján támogatott projektek esetében a támogatási előleg Ávr.-ben meghatározott maximális százalékos mértékét a Miniszterelnökséget vezető államtitkár az államháztartásért felelős miniszter egyetértésével megemelheti
+160.5. A 2012. január 1-jét követően közzétett pályázati felhívások alapján támogatott projektek esetében a támogatási előleg Ávr.-ben meghatározott maximális százalékos mértékét az európai uniós források felhasználásáért felelős miniszter az államháztartásért felelős miniszter egyetértésével megemelheti
 
 a) a vonatkozó akciótervben nevesített kiemelt projektek esetén, illetve
 
@@ -3232,7 +3196,7 @@ b) a lebonyolítási forint bankszámla egyenlegének év végi visszautalásáb
 
 301.1. Ha az IH-nál tartalék-felhasználási igény keletkezik, az IH-vezető kezdeményezi a központi koordinációs szerv felé a felmerült költségek kifizetésének jóváhagyását.
 
-301.2. A központi koordinációs szerv egyetértése esetén a Miniszterelnökséget vezető államtitkár engedélyezi a szükséges előirányzat-módosítást az érintett operatív programra, amely alapján a központi koordinációs szerv 3 munkanapon belül intézkedik a kincstár felé a szükséges előirányzat átcsoportosításról.
+301.2. A központi koordinációs szerv egyetértése esetén az európai uniós források felhasználásáért felelős miniszter engedélyezi a szükséges előirányzat-módosítást az érintett operatív programra, amely alapján a központi koordinációs szerv 3 munkanapon belül intézkedik a kincstár felé a szükséges előirányzat átcsoportosításról.
 
 139. A késedelmi kamat
 
@@ -4908,6 +4872,45 @@ g) az IH döntése vagy intézkedése elleni kifogás esetén annak megjelölés
 
 461. Ha a kifogás benyújtója kifogását visszavonja, a kifogás elbírálásának ideje alatt a kifogással érintett projekt vonatkozásában támogatási szerződést köt, a kifogással érintett pályázatot a kifogás elbírálásának ideje alatt ismételten benyújtja, a kifogással érintett döntés alapjául szolgáló eljárási cselekményt a kifogás elbírálásának ideje alatt megismétli, vagy, ha a forráshiány miatt elutasító döntés ellen benyújtott kifogás elbírálásának ideje alatt a pályázat támogatásban részesül, az a szervezet, illetve szervezeti egység, amely a fenti cselekményekről tudomást szerzett, köteles a kifogás, valamint a kifogásban megjelölt pályázat, projekt tárgyában érintett valamennyi szervezetet vagy szervezeti egységet a cselekmény alapjául szolgáló dokumentum szkennelt változatának elektronikus megküldésével haladéktalanul, legkésőbb 3 napon belül tájékoztatni.
 
-[^1]: A 4. §-t a 85/2014. (III. 18.) Korm. rendelet 2. §-a iktatta be.
-[^2]: A hatálybalépés időpontja 2014. március 19.
-[^3]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+462. A határidők számítása szempontjából a határidőnek a Rendelet 81. § (4) bekezdése szerinti nyugvása a kifogás beérkezésének napjától a kifogás tárgyában született döntésről a kifogást benyújtó általi – a Rendelet 82. § (3) bekezdés a) pontja, 82. § (4) bekezdés a) pontja és 82. § (6) bekezdése szerinti értesítés útján történő – tudomásszerzésig tart.
+
+207. A KSZ döntése, intézkedése ellen benyújtott kifogások elbírálása
+
+463.1. A KSZ kifogást átvevő munkatársa a kifogást a beérkezés napján érkezteti és iktatja a KSZ iratkezelési szabályzata szerint.
+
+463.2. A KSZ munkatársa a kifogást az összes melléklettel együtt szkennelt formában rögzíti a monitoring és információs rendszer megfelelő moduljában.
+
+463.3. Ha a kifogás nem a KSZ-hez érkezett, úgy a kifogást átvevő szervezet, illetve szervezeti egység a kifogást mellékleteivel együtt szkennelt formában rögzíti a monitoring és információs rendszer megfelelő moduljában, és legkésőbb 1 napon belül gondoskodik arról, hogy a kifogás elbírálásában érintett összes szervezet, szervezeti egység a kifogás beérkezéséről értesüljön.
+
+464.1. A KSZ haladéktalanul megvizsgálja a kifogás – Rendelet 82. § (1) bekezdése szerinti érdemi vizsgálat nélküli – elutasítására vonatkozó rendelkezések alkalmazhatóságát, és ha azt megállapítja, az erről szóló döntés céljából a kifogást annak beérkezésétől számított 10 napon belül továbbítja a tárgya szerint illetékes IH-nak.
+
+464.2. A kifogás érdemi vizsgálat nélküli elutasításáról a kifogás tárgya szerint illetékes IH-vezető dönt. Érdemi vizsgálat nélküli elutasítás esetén az IH kifogáskezelő munkatársa az értesítőlevél elküldésével a kifogás kezelését ezzel lezárja.
+
+465.1. Ha a kifogás érdemi vizsgálat nélküli elutasításának nincs helye, a KSZ az érdemi vizsgálat keretében megvizsgálja az önrevízió lehetőségét.
+
+465.2. Ha az önrevízió feltételei fennállnak, a KSZ eleget tesz a Rendelet 82. § (3) bekezdés a) pontja szerinti kötelezettségeinek az ott meghatározott határidőn belül és ezzel a kifogás kezelését lezárja, ellenkező esetben a KSZ a kifogás elbírálása céljából megküldi a kifogás valamennyi elemét érintő írásbeli szakmai álláspontját az illetékes IH-nak a Rendelet 82. § (3) bekezdés b) pontja szerinti kötelezettségek teljesítésével.
+
+465.3. Az IH a kifogás elbírálása során a kifogás elbírálásával összefüggő további dokumentumokat kérhet a KSZ-től, melyet a KSZ köteles haladéktalanul, legkésőbb 1 napon belül megküldeni.
+
+465.4. A kifogás elbírálásának határidejét a Rendelet 82. § (2) bekezdése szerint az IH-vezető meghosszabbíthatja.
+
+465.5. A kifogás tárgyában a Rendelet 82. § (5) bekezdése, 82/A. § (2) bekezdése és 82/B. §-a szerint az IH-vezető dönt, döntését követően az IH eleget tesz a Rendelet 82. § (6) bekezdése szerinti kötelezettségeknek és a kifogás kezelését lezárja.
+
+208. Az IH döntése, intézkedése ellen benyújtott kifogások elbírálása
+
+466.1. Az IH a kifogást a beérkezés napján érkezteti és iktatja az iratkezelési szabályzata szerint.
+
+466.2. Az IH munkatársa a kifogást az összes melléklettel együtt szkennelt formában rögzíti a monitoring és információs rendszer megfelelő moduljában.
+
+466.3. Ha a kifogás nem az IH-hoz érkezett, úgy a kifogást átvevő szervezet, illetve szervezeti egység a kifogást mellékleteivel együtt szkennelt formában rögzíti a monitoring és információs rendszer megfelelő moduljában, és haladéktalanul, legkésőbb 1 napon belül gondoskodik arról, hogy a kifogás elbírálásában érintett összes szervezet, szervezeti egység a kifogás beérkezéséről értesüljön.
+
+467.1. Az IH haladéktalanul megvizsgálja a kifogás – Rendelet 82. § (1) bekezdése szerinti érdemi vizsgálat nélküli – elutasítására vonatkozó rendelkezések alkalmazhatóságát.
+
+467.2. Az IH elkészíti a kifogás érdemi vizsgálat nélküli elutasításról szóló szakmai álláspontot és az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztérium szervezeti és működési szabályzatában vagy egyéb szabályzatában meghatározott eljárásrend szerinti jóváhagyást követően továbbítja azt a központi koordinációs szerv részére.
+
+467.3. A kifogás érdemi vizsgálat nélküli elutasításáról a központi koordinációs szerv dönt, amelyről a Rendelet 82. § (6) bekezdése szerint értesítést küld.
+
+468.1. Ha a kifogás érdemi vizsgálat nélküli elutasításának nincs helye, az IH az érdemi vizsgálat keretében megvizsgálja az önrevízió lehetőségét.
+
+[^4]: Az 5. §-t a 203/2014. (VIII. 14.) Korm. rendelet 12. §-a iktatta be.
+[^5]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a szerint módosított szöveg.

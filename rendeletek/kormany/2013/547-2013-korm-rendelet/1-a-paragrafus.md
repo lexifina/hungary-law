@@ -1,0 +1,1 @@
+## 1. § A Kormány a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 2. § (1) bekezdés 4. pontja szerinti egységes működési kézikönyv tartalmát az 1. melléklet szerint állapítja meg.
