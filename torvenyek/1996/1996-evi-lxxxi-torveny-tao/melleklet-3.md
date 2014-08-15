@@ -46,6 +46,8 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 
 15. a kutatás-fejlesztési tevékenység közvetlen költsége, ha az adózó vállalkozási, bevételszerző tevékenységéhez nem kapcsolódik.
 
+16. a reklámadóról szóló törvény szerinti reklám közzétételével összefüggésben elszámolt költség (így különösen a reklám közzétevőjének vagy a reklám közzétételében közreműködőnek járó ellenérték), de legalább a reklám közzétételének szokásos piaci értéke, ha az adóalany nem rendelkezik a reklámadó alanyának olyan nyilatkozatával, miszerint a reklám közzétételével összefüggésben felmerült reklámadó kötelezettségét teljesíti vagy reklámadó-kötelezettség teljesítésre nem kötelezett.
+
 B)
 
 A vállalkozási tevékenység érdekében felmerülő
