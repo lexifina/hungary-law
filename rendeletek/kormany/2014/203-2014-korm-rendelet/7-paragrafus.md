@@ -1,0 +1,3 @@
+## 6. § A 4/2011. (I. 28.) Korm. rendelet 115. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A (3) bekezdés szerinti közreműködő szervezet az irányító hatósággal kötött teljesítményalapú finanszírozási szerződésben, illetve az irányító hatóság vezetője által kijelölt szervezeti egység finanszírozásának vonatkozásában a Miniszterelnökség által kiadott támogatói okiratban rögzített feladatmegosztás és feladatátadás alapján, bármely operatív program valamennyi prioritása végrehajtásában történő – az operatív programokban, illetve rendszerleírásokban rögzített munkamegosztást nem érintő – kiegészítő közreműködéssel is megbízható.”
