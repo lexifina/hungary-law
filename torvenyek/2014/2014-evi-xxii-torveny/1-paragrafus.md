@@ -10,7 +10,13 @@
 
 4. médiatartalom-szolgáltató: az Mttv. szerinti médiatartalom-szolgáltató,
 
-5. nettó árbevétel: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó adóalany esetén az Szt.-ben meghatározott értékesítés nettó árbevétele, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) hatálya alá tartozó adóalany esetében az Szja tv. szerinti általános forgalmi adó nélküli bevétel,
+5. nettó árbevétel: az olyan adóalany esetében, aki
+
+a) a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozik, az Szt.-ben meghatározott értékesítés nettó árbevétele,
+
+b) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) hatálya alá tartozik, az Szja tv. szerinti általános forgalmi adó nélküli bevétel,
+
+c) nem tartozik az a) és b) pont alá, az a) pont szerinti nettó árbevételnek megfelelő bevétel;
 
 6. nyomtatott anyag: nyomtatott üzleti reklámanyag, katalógus, prospektus, reklámposzter,
 
@@ -24,4 +30,6 @@ b) az Mttv. szerinti kereskedelmi közlemény,
 
 9. sajtótermék: az Mttv. szerinti sajtótermék,
 
-10. saját célú reklám: a reklám közzétevő saját termékére, árujára, szolgáltatására, tevékenységére, nevére, megjelenésére vonatkozó reklám.
+10. saját célú reklám: a reklám közzétevő saját termékére, árujára, szolgáltatására, tevékenységére, nevére, megjelenésére vonatkozó reklám,
+
+11. reklámértékesítő ügynökség: az adóalannyal az Szt. szerinti kapcsolt félnek minősülő, olyan személy, szervezet, amely az adóalannyal fennálló szerződéses jogviszony alapján jogosult arra, hogy az adóalany médiatartalom-szolgáltatásán belüli reklám közzétételére irányuló szerződést kössön.

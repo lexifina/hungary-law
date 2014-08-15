@@ -5,3 +5,5 @@
 (2) Az (1) bekezdésben foglalt adószámítási mód szerint – a 7. §-ban foglaltakra is figyelemmel – kell megállapítani az adóelőleget is.
 
 (3) Az (1)–(2) bekezdés szerinti számítások végrehajtása érdekében az egymással kapcsolt vállalkozási viszonyban álló adóalanyok kötelesek együttműködni. A számítások dokumentálását (ideértve az elkészítést és a megőrzést is) az egymással kapcsolt vállalkozási viszonyban álló adóalanyok mindegyike köteles elvégezni. A számítások dokumentációját az adóhatóság kérésére be kell mutatni.
+
+(4) Az (1)–(3) bekezdés szerinti számításnál a 4. § (2) bekezdés szerinti adóalapot figyelmen kívül kell hagyni.
