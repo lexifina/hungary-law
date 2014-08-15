@@ -1,0 +1,308 @@
+# A Kormány 207/2014. (VIII. 15.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 111. szám, 2014. augusztus 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/b3f56961bd6e156a7718e07aa87c1bd71b244ce3/dokumentumok/2f44f63513eaeb3401abb2c2b7d61b4304761b1b/letoltes)
+
+---
+
+A Kormány 207/2014. (VIII. 15.) Korm. rendelete
+a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és
+megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet, valamint a Nemzeti Közlekedési
+Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet módosításáról
+A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdés a), j) és o) pontjában,
+az 1. § (1) bekezdés, a 3. §, az 5. §, a 6. § (2) bekezdés, a 7. §, a 8. § (2) bekezdés, a 12. §, a 15. § és a 16. § tekintetében az épített
+környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 17. pontjában,
+a 20. § tekintetében a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdés a) és u) pontjában, valamint a 73. §
+(2) bekezdés a) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és
+megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet (a továbbiakban: R.) 1. § (1) bekezdése helyébe
+a következő rendelkezés lép:
+
+„(1) E rendeletet
+a) a repülőtér elvi létesítésére, létesítésére, használatbavételére, fejlesztésére és megszüntetésére irányuló
+engedélyezési eljárásokra;
+b) a repülőtéren lévő, az 1. mellékletben felsorolt általános építményekkel kapcsolatos, az épített környezet
+alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 34. §-a szerinti építésügyi hatósági
+engedélyezési eljárásokra és építésügyi hatósági szolgáltatásokra;
+c) az„A”és„B”osztályú leszállóhely létesítésére irányuló engedélyezési eljárásokra; valamint,
+d) a„C”osztályú leszállóhelynek a VI. fejezetben meghatározottak szerinti bejelentésére
+kell alkalmazni.”
+(2) Az R. 1. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) E rendelet alkalmazásában egészségügyi mentőrepülés: légijárművel végzett baleseti mentés, sürgősségi
+beteg-, orvos-, és szervszállítás, továbbá a légijármű visszarepülése a repülőtérre, valamint a légimentéshez
+kapcsolódó légijármű karbantartása és személyzet oktatása.”
+(3) Az R. 1. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) E rendelet alkalmazásában:
+a) sétarepülés: olyan gazdasági célú, légijárművel végzett személyszállítás, amikor a fel- és a leszállás ugyanazon
+a helyen történik,
+b) légijármű szabadidős alkalmazása: légijárművel rekreációs céllal végzett, nem gazdasági célú repülés.”
+(4) Az R. 1. §-a a következő (7) bekezdéssel egészül ki:
+„(7) E rendelet alkalmazásában:
+a) mezőgazdasági repülés: a mezőgazdasági légijárművel történő, mező- vagy erdőgazdasági célú, növényvédő
+szerrel, növényvédő szernek nem minősülő növényvédő hatású termékkel vagy termésnövelő anyaggal végzett
+növényvédelmi, talajerő-gazdálkodási tevékenység,
+b) feltöltőhely: mezőgazdasági repülés vagy szúnyoggyérítés során használt, légijármű le- és felszállására alkalmas
+terület, amely a kijuttatott anyag utántöltésére szolgál.”
+2. § (1) Az R. 2. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+(A létesítés, fejlesztés és megszüntetés engedélyezéséhez teljesítendő követelmények alapján a repülőterek a következő
+osztályokba tartoznak:)
+„d) IV. osztály: olyan polgári célú nem nyilvános repülőtér, amelyről a légijárművel folytatott munkavégzés, valamint
+sétarepülés és légijármű szabadidős alkalmazása végezhető, és amely motor vagy hajtómű nélküli légijárműveket
+mozgásszám korlátozás nélkül, motoros légijárműveket a zajgátló védőövezet kijelöléséről rendelkező határozatban
+meghatározott maximális műveletszámig jogosult kiszolgálni;”
+(2) Az R. 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A létesítés engedélyezéséhez vagy bejelentéséhez teljesítendő követelmények alapján a leszállóhelyek
+a következő osztályokba tartoznak:
+a) „A” osztály: országos vagy helyi jelentőségű rendezvényen részt vevő légijárművek le- és felszállására kijelölt
+terület, amelyen a használni tervezett legnagyobb méretű, súlyú, légijármű számára kielégítő hosszúsági, szélességi
+mérettel és akadálymentességgel rendelkező repülési sáv rendelkezésre áll;
+b)„B”osztály: a feltöltőhely kivételével légijárművel folytatott munkavégzés céljára szolgáló, le- és felszállásra kijelölt
+olyan terület, amelyen a használó légijármű számára a légiüzemeltetési utasításában meghatározott hosszúsági,
+szélességi mérettel és akadálymentességgel rendelkező repülési sáv rendelkezésre áll, és ahol a le- és felszállást
+biztonságosan végre lehet hajtani;
+c) „C” osztály: feltöltőhely, amelyen a használó légijármű számára a légiüzemeltetési utasításában meghatározott
+hosszúsági, szélességi mérettel és akadálymentességgel rendelkező repülési sáv rendelkezésre áll, és ahol a le- és
+felszállást biztonságosan végre lehet hajtani.”
+3. §
+Az R. 3. §-a helyébe a következő rendelkezés lép:
+„3. § (1) A légiközlekedési hatóság engedélye szükséges
+a) a 12. § (1) bekezdésében foglaltakra figyelemmel a repülőtér elvi létesítéséhez, valamint a repülőtér létesítéséhez,
+használatbavételéhez, fejlesztéséhez és megszüntetéséhez;
+b) az 1. mellékletben felsorolt általános építmények kapcsán az építésügyi és építésfelügyeleti hatósági eljárásokról
+és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet
+(a továbbiakban: Ékr.) szerinti engedélyköteles tevékenységhez;
+
+c)„A”és„B”osztályú leszállóhely létesítéséhez.
+(2) A légiközlekedési hatóság részére történő bejelentés szükséges„C”osztályú leszállóhely létesítéséhez.
+(3) Az (1) bekezdés szerinti hatósági döntések fajtái:
+a) a repülőtérre vonatkozóan:
+aa) elvi létesítési engedély,
+ab) létesítési engedély,
+ac) használatbavételi engedély,
+ad) fejlesztési engedély,
+ae) megszüntetési engedély;
+b) az 1. mellékletben felsorolt általános építményekre vonatkozóan az Étv. 34. § szerinti eljárásokban meghozott
+építésügyi hatósági döntések;
+c) az„A”és„B”osztályú leszállóhelyre vonatkozóan létesítési engedély.
+(4) Repülőtér elvi létesítése, létesítése vagy megszüntetése esetén a légiközlekedési hatóság által az ügyfél
+kérelmére egy eljárásban megadható hatósági engedélyek fajtái:
+a) elvi létesítési engedély,
+b) létesítési és az építményekre vonatkozóan építési engedély,
+c) megszüntetési és az építményekre vonatkozóan bontási engedély.
+(5) Repülőtér esetén a légiközlekedési hatóságnak be kell jelenteni:
+a) az olyan felújítást vagy karbantartást, amely nem jár együtt a rendeltetésszerű használat korlátozásával, és nem
+okoz eltérést a létesítési és használatbavételi engedélyben foglaltakhoz képest,
+b) az olyan felújítást vagy karbantartást, amely nem minősül a repülőtér fejlesztésének, ugyanakkor
+a rendeltetésszerű használat időleges korlátozásával jár, és nem okoz eltérést a létesítési és használatbavételi
+engedélyben foglaltakhoz képest,
+c) az engedélyezett tevékenységnek megfelelő műszaki jellemzőkkel és paraméterekkel rendelkező eszköz,
+berendezés cseréjét, valamint
+d) ha a létesítési engedély időbeli hatályának tartama alatt az engedélyes helyébe a polgári jog szerinti jogutódja
+lép.”
+4. §
+Az R. I. Fejezete a következő 3/A. §-sal egészül ki:
+„3/A. § A hatósági engedéllyel rendelkező repülőterekről a légiközlekedési hatóság nyilvántartást vezet, amelyet
+a honlapján közzétesz. A nyilvántartás tartalmazza a repülőtér nevét, osztályát, helyét, az üzemben tartó nevét és
+elérhetőségét, továbbá a légiforgalmi szolgálatra és a futópályára vonatkozó adatokat.”
+5. §
+Az R. II. Fejezete a következő 11/B. §-sal egészül ki:
+„11/B. § Az 1. § (1) bekezdése szerinti
+a) hatósági ügyekben nem kell a települési önkormányzat polgármesterének településképi véleményezési, vagy
+az építészeti-műszaki tervtanács szakmai véleményezési eljárását lefolytatni, valamint
+b) építési beruházással összefüggésben településképi bejelentési eljárásnak nincs helye.”
+6. § (1) Az R. 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az I–VI. osztályú repülőtér kialakításához elvi létesítési engedély kérhető.”
+(2) Az R. 12. § (3) bekezdés j) pontja helyébe a következő rendelkezés lép:
+[Az elvi létesítési engedély iránti kérelemhez – a 4. § (2) bekezdés b)–c) pontjában foglaltakon túlmenően, valamint
+a (4) bekezdésben foglaltak figyelembevételével – mellékelni kell:]
+„j) az 1. mellékletben felsorolt általános építmények esetében az Ékr. 8. melléklete szerinti építészeti-műszaki
+dokumentációt 4 példányban és elektronikus adathordozón 1 példányban.”
+7. §
+Az R. 14. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az 1. mellékletben felsorolt általános építmények tekintetében az eljárás lefolytatására az Étv. és az Ékr.
+vonatkozó előírásait a 11/B. §-ban foglalt eltéréssel kell alkalmazni.”
+8. § (1) Az R. 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A létesítési engedély iránti kérelem elvi létesítési engedély megléte esetén tartalmazza az elvi létesítési
+engedély számát, keltét.”
+
+(2) Az R. 16. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+[A létesítési engedély iránti kérelemhez – a 4. § (2) bekezdés b)–c) pontjában foglaltakon túlmenően – mellékelni kell:]
+„e) az 1. mellékletben felsorolt általános építmények esetében az Ékr. 8. melléklete szerinti építészeti-műszaki
+dokumentációt 4 példányban és elektronikus adathordozón 1 példányban, a 11/B. §-ban foglalt eltéréssel.”
+(3) Az R. 16. § (3) bekezdés k) pontja helyébe a következő rendelkezés lép:
+[A létesítési engedélyhez szükséges dokumentáció – a (4) bekezdésben foglalt kivétellel – tartalmazza]
+„k) a repülőtér osztálynak megfelelő, a 2. mellékletben meghatározott tűzoltó védelmi kategória biztosításáról szóló
+megvalósítási tervét.”
+(4) Az R. 16. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A III–VI. osztályú repülőtér létesítési engedélyéhez szükséges dokumentáció a (3) bekezdés a)–b), valamint
+h) és k) pontjában meghatározottakat tartalmazza. A dokumentációt 7 példányban és elektronikus adathordozón
+1 példányban kell mellékelni.”
+9. §
+Az R. 27. § (1) bekezdése a következő e) ponttal egészül ki:
+(A használatbavételi engedély iránti kérelem elbírálása során a légiközlekedési hatóság köteles meggyőződni arról, hogy)
+„e) a 16. § (3) bekezdés d) és i) pontja szerint a repülőtér működéséhez szükséges építmények jogerős
+használatbavételi engedéllyel rendelkeznek.”
+10. §
+Az R. 32. § e) pontja helyébe a következő rendelkezés lép:
+[A repülőtér megszüntetésére vonatkozó kérelemhez – a 4. § (2) bekezdés b) és c) pontjában foglaltakon túlmenően –
+mellékelni kell:]
+„e) az elbontani vagy átépíteni tervezett, 1. mellékletben felsorolt általános építmények esetében az Ékr.
+8. melléklete szerinti építészeti-műszaki dokumentációt 4 példányban és elektronikus adathordozón 1 példányban.”
+11. §
+Az R. 35. §-a helyébe a következő rendelkezés lép:
+„35. § (1) A repülőtér fejlesztésének minősül:
+a) a repülőtér magasabb osztályba sorolása, vagy ICAO előírás szerinti átminősítése,
+b) meglévő szilárd burkolatú futópálya hosszabbítása vagy új szilárd burkolatú futópálya kiépítése, valamint új
+gurulóút építése,
+c) a repülőtér éjszakai használatát lehetővé tevő, vagy a futópálya ICAO előírás szerinti típusának (nem műszeres,
+nem-precíziós megközelítésű, CAT I–III. precíziós megközelítésű) változását eredményező fénytechnikai vagy
+navigációs rendszer telepítése.
+(2) A repülőtér fejlesztéséhez a légiközlekedési hatóság engedélye szükséges. A fejlesztés engedélyezése során
+a légiközlekedési hatóság a II., IV., valamint V. Fejezetben foglaltak megfelelő alkalmazásával jár el, azzal, hogy
+a tervezett fejlesztés szerint – amennyiben szükséges – a kijelölt zajgátló védőövezetet módosítani kell.”
+12. §
+Az R. a következő VIII/A. Fejezettel egészül ki:
+„VIII/A. FEJEZET
+AZ ÁLTALÁNOS ÉPÍTMÉNYEK ENGEDÉLYEZÉSE
+35/A. § A repülőtér területén található, az 1. mellékletben felsorolt általános építmények engedélyezésére az Étv.
+34. § szerinti építésügyi hatósági eljárásokra az Ékr. előírásait az e fejezetben és a 11/B. §-ban foglalt eltérésekkel kell
+alkalmazni.
+35/B. § A Kormány a 35/A. § szerinti, az Ékr.-ben kijelölt szakhatóságokon túl az Ékr. 57. §-ában meghatározott
+szakkérdésekben az első fokú eljárásban a repülőtér fekvése szerinti, az építésügyi és az építésfelügyeleti
+hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet (a továbbiakban: Éhk.)
+1. § (2) bekezdésében meghatározott első fokú kiemelt építésügyi hatóságot, a másodfokú eljárásban az Éhk. 1. §
+(5) bekezdésében meghatározott hatóságot jelöli ki szakhatóságként.
+35/C. § A kérelem elbírálása során a légiközlekedési hatóság köteles meggyőződni arról is, hogy az építészeti-
+műszaki tervdokumentációban foglaltak megfelelnek-e az ICAO előírásnak, vagy az azoktól eltérő tervezett műszaki
+megoldás engedélyezett vagy engedélyezhető-e.”
+13. §
+Az R. 38. §-a helyébe a következő rendelkezés lép:
+„38. § A leszállóhely létesítésének engedélyezésére az „A” és „B” osztályú leszállóhely vonatkozásában a II. és
+IV. Fejezetben foglaltakat az e fejezetben foglalt eltérésekkel kell alkalmazni.”
+
+14. §
+Az R. 39. §-a a helyébe a következő rendelkezés lép:
+„39. § (1) A leszállóhely létesítéséről a légiközlekedési hatóság egy eljárásban dönthet.
+(2) „A” és „B” osztályú leszállóhely létesítésének engedélyezése iránti kérelmet a légiközlekedési hatóság által
+rendszeresített, és a honlapján közzétett nyomtatványon kell benyújtani, amely a következőket tartalmazza:
+a) a terület helye (helyrajzi száma), beépítettsége;
+b) a terület hasznos hossza;
+c) a terület hasznos szélessége;
+d) a talaj felülete;
+e) akadályok a terület közelében, pályairányban és pályairányon kívül, távolság és magasság megadásával;
+f) a leszállóhely tervezett osztálya;
+g) a területet kijelölő személy neve, aláírása, az aláírás helye, időpontja, ha az nem azonos a kérelmezővel;
+h) a terület tulajdonosának, vagy – állami tulajdonban levő terület esetében – vagyonkezelőjének hozzájárulása
+a leszállóhely létesítéséhez, aláírása, az aláírás helye, időpontja;
+i) a használni tervezett légijármű típusa.
+(3) Elektronikus kapcsolattartás esetén a (2) bekezdés szerinti nyomtatvány nem tartalmazza a területet kijelölő
+személynek, a terület tulajdonosának aláírását, az aláírás helyét, időpontját.
+(4) A kérelmet legalább 15 munkanappal a tervezett használat megkezdését megelőzően kell benyújtani
+a légiközlekedési hatóságnak.”
+15. §
+Az R. 41. §-a helyébe a következő rendelkezés lép:
+„41. § A leszállóhely létesítéséről rendelkező határozat – a közigazgatási hatósági eljárás általános szabályairól szóló
+törvényben foglaltakon túlmenően – tartalmazza:
+a) a leszállóhely leírását, rendeltetését, osztályát,
+b) az engedély megadásának esetleges feltételeit és minden olyan eseti hatósági előírást, amelyet a leszállóhellyel
+kapcsolatban az általános érvényű hatósági előírásokon és határozatokon felül vagy azoktól eltérően alkalmazni kell,
+c) a leszállóhely létesítési engedélyének időbeli hatályát,
+d) a leszállóhely létesítési engedély hatályának lejártát követően szükséges tereprendezés, környezetrendezés
+engedélyezésére vagy kötelezettségére vonatkozó rendelkezést,
+e) más jogszabályokban előírt engedélyek beszerzésének kötelezettségére történő figyelemfelhívást.”
+16. §
+Az R. a következő 18/a. alcímmel egészül ki:
+„18/a. Leszállóhely bejelentése
+41/A. § (1) „C” osztályú leszállóhely létesítését a tevékenységi engedély jogosultjának az első tervezett használatot
+megelőzően a légiközlekedési hatóság részére kell bejelentenie a légiközlekedési hatóság által rendszeresített és
+a honlapján közzétett nyomtatványon. A légiközlekedési hatóság a bejelentést követően a„C”osztályú leszállóhelyet
+nyilvántartásba veszi.
+(2) Amennyiben a leszállóhely Natura 2000 területet érint, az (1) bekezdés szerinti bejelentést a működési terület
+szerint érintett nemzeti park igazgatóság részére is meg kell küldeni.
+(3) „C” osztályú leszállóhely olyan helyen létesíthető, amely felett a mező- és erdőgazdasági légi munkavégzésről
+szóló miniszteri rendeletben előírtak szerint mezőgazdasági repülés végezhető.
+(4) A bejelentés a következőket tartalmazza:
+a) a leszállóhely helye (helyrajzi száma, földrajzi koordinátái WGS’84 rendszerben);
+b) a leszállóhely hasznos hossza;
+c) a leszállóhely hasznos szélessége;
+d) a talaj felülete;
+e) akadályok a leszállóhely közelében, pályairányban és pályairányon kívül, távolság és magasság megadásával;
+f) a leszállóhelyet, az akadályokat, és a környező lakott területeket ábrázoló térkép;
+g) a fogadni tervezett légijármű típusa;
+h) a terület tulajdonosának, vagy – állami tulajdonban levő terület esetében – vagyonkezelőjének hozzájárulása
+a leszállóhely létesítéséhez, aláírása, az aláírás helye, időpontja;
+i) a területet kijelölő személy nyilatkozata, amely szerint megbizonyosodott arról, hogy a leszállóhely megfelel
+a (3) bekezdésben és a 2. § (2) bekezdés c) pontjában meghatározott feltételeknek; valamint
+j) a területet kijelölő személy neve, aláírása, az aláírás helye, időpontja;
+
+k) – védett természeti területen létesíteni kívánt leszállóhely esetében – a természetvédelmi hatóság által
+kiadott engedély másolata arról, hogy a növényvédő szerek, bioregulátorok és egyéb irtószerek, valamint a talaj
+termékenységét befolyásoló vegyi anyagok felhasználását engedélyezte.
+(5) Elektronikus kapcsolattartás esetén a (1) bekezdés szerinti nyomtatvány nem tartalmazza a területet kijelölő
+személynek, a terület tulajdonosának aláírását, az aláírás helyét, időpontját.
+(6) Amennyiben a légiközlekedési hatóság megbizonyosodik arról, hogy egy adott„C”osztályú leszállóhely esetében
+nem teljesülnek a (3) bekezdésben vagy a 2. § (2) bekezdés c) pontjában meghatározott feltételek, a leszállóhely
+használatát a légiközlekedési hatóság megtiltja.”
+17. §
+Az R. 1. melléklete helyébe az 1. melléklet lép.
+18. §
+Az R. 2. melléklete a 2. melléklet szerint módosul.
+19. §
+Az R.
+a) 2. § (1) bekezdés e) pontjában az„amelyről”szövegrész helyébe az„amelyről vagy amelyen”szöveg,
+b) 14. § (3) bekezdésében az „épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény”
+szövegrész helyébe az„Étv.”szöveg,
+c) 16. § (3) bekezdés f) pontjában a „lokációs – földi irányítástechnikai berendezések leírását” szövegrész
+helyébe a„légtérellenőrző – EATMN rendszer és rendszerelem leírását”szöveg,
+d) 19. § (2) bekezdés d) pontjában az „építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről
+szóló kormányrendelet”szövegrész helyébe az„Ékr.”szöveg,
+e) 26. § nyitó rendelkezésében, 27. § (1) bekezdése nyitó szövegrészében és (2) bekezdésében, valamint 28. §
+(1) bekezdése nyitó szövegrészében az „A használatbavételi engedély” szövegrész helyébe az „A repülőtér
+használatbavételi engedély”szöveg,
+f) 28. § (2) bekezdésében a „használatbavételi engedély” szövegrész helyébe a „repülőtér használatbavételi
+engedély”szöveg,
+g) 29. § (1) bekezdésében az„A 3. § (3) bekezdése”szövegrész helyébe az„A 3. § (5) bekezdése”szöveg,
+h) a 40. § (3) bekezdés c) pontjában az „a földi irányítástechnikai berendezések” szövegrész helyébe az „EATMN
+rendszer és rendszerelem”szöveg
+lép.
+20. §
+A Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet
+a) 5/B. § (1) bekezdés b) pontjában a „létesítésére és megszüntetésére irányuló eljárásban” szövegrész helyébe
+a„létesítésére irányuló eljárásban és a létesítés megtiltásában”szöveg,
+b) 8/B. § (8) bekezdés nyitó szövegrészében a „létesítésére és megszüntetésére irányuló eljárásban” szövegrész
+helyébe a„létesítésére irányuló engedélyezési eljárásban”szöveg
+lép.
+21. §
+Hatályát veszti az R.
+a) 4. § (2) bekezdés c) pontjában az „és az 1. mellékletben felsorolt általános építmények esetében az illeték
+(a továbbiakban együtt: díj)”szöveg,
+b) IV. fejezet címében az„és fennmaradás”szöveg,
+c) 9. alcíme,
+d) 26. § e) és g) pontja.
+22. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 207/2014. (VIII. 15.) Korm. rendelethez
+„1. melléklet a 159/2010. (V. 6.) Korm. rendelethez
+A repülőtér területén lévő általános építmények
+1. Terminál, utasforgalmi vagy cargo épület
+2. Légijárművek tárolására vagy karbantartására szolgáló hangár épület
+3. Irányítótorony épület”
+2. melléklet a 207/2014. (VIII. 15.) Korm. rendelethez
+Az R. 2. mellékletének módosítása
+1. Az R. 2. melléklet 2.3.8. pontja helyébe a következő rendelkezés lép:
+„2.3.8. utasterminál, cargo terminál;”
+2. Az R. 2. melléklet 3.1. pontja helyébe a következő rendelkezés lép:
+„3.1. A repülőtéren legalább egy repülési sávot, munkaterületet kell kijelölni, amely magában foglal egy természetes
+talajú vagy szilárd burkolattal ellátott futópályát, vagy helikopter fel- és leszállására alkalmas területet.”
+3. Az R. 2. melléklete a következő 3.5. ponttal egészül ki:
+„3.5. Nem nyilvános repülőtérre vonatkozó Kényszerhelyzeti Terv.”
+4. Az R. 2. melléklet 4. pontja helyébe a következő rendelkezés lép:
+„4. Az V. osztályú repülőtér”
+5. Az R. 2. melléklet a következő 5. ponttal egészül ki:
+„5. A VI. osztályú repülőtér
+5.1. A repülőtéren legalább egy repülési sávot, munkaterületet kell kijelölni, amely magában foglal a repülőtéren
+fogadni tervezett géptípusnak megfelelő, egy természetes talajú vagy szilárd burkolattal ellátott futópályát.
+5.2. Repülőtérrend.”
