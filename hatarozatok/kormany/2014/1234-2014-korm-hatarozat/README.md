@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1234-30
 | --- | --- | --- |
 | 2014-04-10 | 2014-1234-30-22.1 | 1234/2014. (IV. 10.) Korm. határozat |
 | 2014-04-11 | 2014-1234-30-22.2 | 2010: CXXX. törvény |
+| 2014-08-15 | 2014-1234-30-22.3 | 1466/2014. (VIII. 15.) Korm. határozat |
