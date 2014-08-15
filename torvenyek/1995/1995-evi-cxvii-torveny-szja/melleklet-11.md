@@ -635,5 +635,3 @@ azzal, hogy a magánszemély az adóév egy negyedévén belül a negyedév els�
 7. A nem saját tulajdonú kizárólag üzemi célra használt jármű (kivéve a személygépkocsit) esetében elszámolható az üzemi használatra eső
 
 a) igazolt bérleti vagy lízingdíj (ez alól kivételt képez a személygépkocsi bérleti vagy lízingdíja),
-
-b) az 1. pont szerinti üzemanyag-fogyasztás,
