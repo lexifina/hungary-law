@@ -1,13 +1,13 @@
-40. §[^226] (1)[^227] A központi koordinációs szerv a közbeszerzési dokumentumok beérkezésétől számított 7 napon belül elvégzi a közbeszerzési dokumentumok közbeszerzési-jogi minőségellenőrzését, és az erről készített minőségellenőrzési jelentését a támogatást igénylő, illetve a kedvezményezett részére megküldi. A központi koordinációs szerv a határidőt – az indokok megjelölésével egyidejűleg – legfeljebb 7 nappal meghosszabbíthatja.
+40. §[^234] (1)[^235] A központi koordinációs szerv a közbeszerzési dokumentumok beérkezésétől számított 7 napon belül elvégzi a közbeszerzési dokumentumok közbeszerzési-jogi minőségellenőrzését, és az erről készített minőségellenőrzési jelentését a támogatást igénylő, illetve a kedvezményezett részére megküldi. A központi koordinációs szerv a határidőt – az indokok megjelölésével egyidejűleg – legfeljebb 7 nappal meghosszabbíthatja.
 
-(2)[^228] A támogatást igénylő, illetve a kedvezményezett a minőségellenőrzési jelentés alapján módosított közbeszerzési dokumentumokat – a minőségellenőrzési jelentésben foglaltakkal egyet nem értése esetén a részletes írásbeli indokolással együtt – a minőségellenőrzési jelentés közlésétől számított 5 napon belül a központi koordinációs szerv részére megküldi.
+(2)[^236] A támogatást igénylő, illetve a kedvezményezett a minőségellenőrzési jelentés alapján módosított közbeszerzési dokumentumokat – a minőségellenőrzési jelentésben foglaltakkal egyet nem értése esetén a részletes írásbeli indokolással együtt – a minőségellenőrzési jelentés közlésétől számított 5 napon belül a központi koordinációs szerv részére megküldi.
 
-(3)[^229] A központi koordinációs szerv a (2) bekezdés szerinti módosított közbeszerzési dokumentumok beérkezését követő 5 napon belül minőségellenőrzési tanúsítványt állít ki és erről tájékoztatja a támogatást igénylőt, illetve a kedvezményezettet, valamint a közreműködő szervezetet.
+(3)[^237] A központi koordinációs szerv a (2) bekezdés szerinti módosított közbeszerzési dokumentumok beérkezését követő 5 napon belül minőségellenőrzési tanúsítványt állít ki és erről tájékoztatja a támogatást igénylőt, illetve a kedvezményezettet, valamint a közreműködő szervezetet.
 
-(4)[^230] A támogatást igénylő, illetve a kedvezményezett a közbeszerzési dokumentumokat a közbeszerzési minőségellenőrzési tanúsítvány figyelembevételével véglegesíti.
+(4)[^238] A támogatást igénylő, illetve a kedvezményezett a közbeszerzési dokumentumokat a közbeszerzési minőségellenőrzési tanúsítvány figyelembevételével véglegesíti.
 
-[^226]: A 40. § a 25/2012. (II. 29.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^227]: A 40. § (1) bekezdése a 176/2012. (VII. 26.) Korm. rendelet 13. § (1) bekezdésével megállapított, az 548/2013. (XII. 30.) Korm. rendelet 43. § 59. pontja szerint módosított szöveg.
-[^228]: A 40. § (2) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 60. pontja szerint módosított szöveg.
-[^229]: A 40. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 61. pontja szerint módosított szöveg.
-[^230]: A 40. § (4) bekezdése a 176/2012. (VII. 26.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^234]: A 40. § a 25/2012. (II. 29.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^235]: A 40. § (1) bekezdése a 176/2012. (VII. 26.) Korm. rendelet 13. § (1) bekezdésével megállapított, az 548/2013. (XII. 30.) Korm. rendelet 43. § 59. pontja szerint módosított szöveg.
+[^236]: A 40. § (2) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 60. pontja szerint módosított szöveg.
+[^237]: A 40. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 61. pontja szerint módosított szöveg.
+[^238]: A 40. § (4) bekezdése a 176/2012. (VII. 26.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.

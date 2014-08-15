@@ -26,15 +26,15 @@ j) a felhívásban meghatározott egyéb adatokat.
 
 (3) A projektadatlapot és mellékleteit a támogatást igénylő a felhívásban meghatározott elektronikus alkalmazással készíti el, és a felhívásban meghatározott módon, elektronikus formában nyújtja be. A felhívás előírhatja, hogy a projektadatlapot a támogatást igénylő papír alapon is köteles benyújtani. A kétféle módon benyújtott projektadatlapban mutatkozó eltérés esetén a papír alapú és aláírt projektadatlap tekintendő hitelesnek azzal, hogy a papír alapú és az elektronikus projektadatlap egyezőségéről a támogatást igénylő köteles gondoskodni.
 
-(4)[^102] Ha az elektronikus alkalmazással készített projektadatlap sérült vagy a befogadási kritériumok vizsgálata egyéb okból nem lehetséges, a projektadatlap beérkezését követően haladéktalanul, legfeljebb 5 napos határidő kitűzésével fel kell hívni a pályázót a projektadatlap ismételt benyújtására.
+(4)[^108] Ha az elektronikus alkalmazással készített projektadatlap sérült vagy a befogadási kritériumok vizsgálata egyéb okból nem lehetséges, a projektadatlap beérkezését követően haladéktalanul, legfeljebb 5 napos határidő kitűzésével fel kell hívni a pályázót a projektadatlap ismételt benyújtására.
 
-(5)[^103] A projektjavaslat ismételt benyújtásának időtartama a befogadásról szóló döntés meghozatalára nyitva álló határidőbe nem számít bele.
+(5)[^109] A projektjavaslat ismételt benyújtásának időtartama a befogadásról szóló döntés meghozatalára nyitva álló határidőbe nem számít bele.
 
-(6)[^104] A (4) bekezdés szerinti határidő eredménytelen eltelte esetén a pályázatot el kell utasítani és erről a pályázót a befogadásról történő értesítésre rendelkezésre álló határidőig értesíteni kell.
+(6)[^110] A (4) bekezdés szerinti határidő eredménytelen eltelte esetén a pályázatot el kell utasítani és erről a pályázót a befogadásról történő értesítésre rendelkezésre álló határidőig értesíteni kell.
 
-(7)[^105]
+(7)[^111]
 
-[^102]: A 22. § (4) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 6. pontja hatályon kívül helyezte, újonnan a 302/2013. (VII. 29.) Korm. rendelet 6. §-a iktatta be.
-[^103]: A 22. § (5) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 6. pontja hatályon kívül helyezte, újonnan a 302/2013. (VII. 29.) Korm. rendelet 6. §-a iktatta be.
-[^104]: A 22. § (6) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 6. pontja hatályon kívül helyezte, újonnan a 302/2013. (VII. 29.) Korm. rendelet 6. §-a iktatta be.
-[^105]: A 22. § (7) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 6. pontja hatályon kívül helyezte.
+[^108]: A 22. § (4) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 6. pontja hatályon kívül helyezte, újonnan a 302/2013. (VII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^109]: A 22. § (5) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 6. pontja hatályon kívül helyezte, újonnan a 302/2013. (VII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^110]: A 22. § (6) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 6. pontja hatályon kívül helyezte, újonnan a 302/2013. (VII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^111]: A 22. § (7) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 6. pontja hatályon kívül helyezte.

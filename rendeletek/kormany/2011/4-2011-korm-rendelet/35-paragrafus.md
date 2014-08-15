@@ -1,6 +1,6 @@
 ## 22. A támogatói okirat visszavonása, a támogatási szerződés módosítása, a támogató elállási joga
 
-35. §[^187] (1)[^188] Az irányító hatóság jogosult – a Ptk.-ban és a támogatási szerződésben meghatározott egyéb esetek mellett – a támogatási szerződéstől elállni, vagy támogatói okirat alkalmazása esetén a támogatás visszavonásáról rendelkezni, ha a következő feltételek közül legalább egy bekövetkezik:
+35. §[^195] (1)[^196] Az irányító hatóság jogosult – a Ptk.-ban és a támogatási szerződésben meghatározott egyéb esetek mellett – a támogatási szerződéstől elállni, vagy támogatói okirat alkalmazása esetén a támogatás visszavonásáról rendelkezni, ha a következő feltételek közül legalább egy bekövetkezik:
 
 a) a támogatói okirat kiállításától vagy a támogatási szerződés megkötésétől számított 12 hónapon belül a támogatott tevékenység nem kezdődik meg és a megvalósítás érdekében harmadik féltől megvásárolandó szolgáltatásokat, árukat, építési munkákat legalább azok tervezett összértékének 50%-át elérő mértékben – esetleges közbeszerzési kötelezettségének teljesítése mellett – nem rendeli meg, vagy az erre irányuló szerződést harmadik féllel nem köti meg,
 
@@ -14,11 +14,11 @@ e) a kedvezményezett megszegi a támogatói okiratban vagy a támogatási szerz
 
 f) a kedvezményezett az adott nyilatkozatok bármelyikét visszavonja,
 
-g)[^189] a kedvezményezett részéről, vagy a kedvezményezettre tekintettel harmadik személy részéről nyújtott biztosíték megszűnik, megsemmisül vagy értéke egyébként számottevően csökken, és a kedvezményezett megfelelő új biztosíték, vagy az értékcsökkenésnek megfelelő további biztosíték nyújtásáról az irányító hatóság által megszabott ésszerű határidőn belül nem intézkedik.
+g)[^197] a kedvezményezett részéről, vagy a kedvezményezettre tekintettel harmadik személy részéről nyújtott biztosíték megszűnik, megsemmisül vagy értéke egyébként számottevően csökken, és a kedvezményezett megfelelő új biztosíték, vagy az értékcsökkenésnek megfelelő további biztosíték nyújtásáról az irányító hatóság által megszabott ésszerű határidőn belül nem intézkedik.
 
-(2)[^190] Ha az (1) bekezdésben meghatározott bármely feltétel bekövetkezik, az irányító hatóság jogosult az (1) bekezdés szerinti döntés meghozataláig a kedvezményezett további támogatási igényére vonatkozóan a támogatói döntés meghozatalát, a támogatási szerződés megkötését, illetve a kifizetést felfüggeszteni.
+(2)[^198] Ha az (1) bekezdésben meghatározott bármely feltétel bekövetkezik, az irányító hatóság jogosult az (1) bekezdés szerinti döntés meghozataláig a kedvezményezett további támogatási igényére vonatkozóan a támogatói döntés meghozatalát, a támogatási szerződés megkötését, illetve a kifizetést felfüggeszteni.
 
-[^187]: A 35. § a 25/2012. (II. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^188]: A 35. § (1) bekezdés nyitó szövegrésze az 548/2013. (XII. 30.) Korm. rendelet 43. § 49. pontja szerint módosított szöveg.
-[^189]: A 35. § (1) bekezdés g) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 49. pontja szerint módosított szöveg.
-[^190]: A 35. § (2) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 50. pontja szerint módosított szöveg.
+[^195]: A 35. § a 25/2012. (II. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^196]: A 35. § (1) bekezdés nyitó szövegrésze az 548/2013. (XII. 30.) Korm. rendelet 43. § 49. pontja szerint módosított szöveg.
+[^197]: A 35. § (1) bekezdés g) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 49. pontja szerint módosított szöveg.
+[^198]: A 35. § (2) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 50. pontja szerint módosított szöveg.

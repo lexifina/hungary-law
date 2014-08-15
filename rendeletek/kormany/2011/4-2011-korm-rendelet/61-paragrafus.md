@@ -6,6 +6,6 @@
 
 (4) A kedvezményezett által biztosított saját forrás aránya a nagyprojekt vagy kiemelt projekt támogatásának növelése esetén sem csökkenhet.
 
-(5)[^297] A nagyprojekt vagy kiemelt projekt támogatásának növeléséről – a 36. § (4) bekezdés c) pontja szerinti kivétellel – a Nemzeti Fejlesztési Kormánybizottság jogosult dönteni.
+(5)[^305] A nagyprojekt vagy kiemelt projekt támogatásának növeléséről – a 36. § (4) bekezdés c) pontja szerinti kivétellel – a Nemzeti Fejlesztési Kormánybizottság jogosult dönteni.
 
-[^297]: A 61. § (5) bekezdése a 25/2012. (II. 29.) Korm. rendelet 39. §-ával megállapított, a 141/2012. (VII. 2.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^305]: A 61. § (5) bekezdése a 25/2012. (II. 29.) Korm. rendelet 39. §-ával megállapított, a 141/2012. (VII. 2.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

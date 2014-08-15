@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-22
 | 2014-01-01 | 2011-4-20-22.20 | 548/2013. (XII. 30.) Korm. rendelet |
 | 2014-03-07 | 2011-4-20-22.21 | 548/2013. (XII. 30.) Korm. rendelet |
 | 2014-04-15 | 2011-4-20-22.22 | 127/2014. (IV. 10.) Korm. rendelet |
+| 2014-08-15 | 2011-4-20-22.23 | 203/2014. (VIII. 14.) Korm. rendelet |

@@ -6,9 +6,9 @@
 
 (2) A monitoring bizottság elnökét a miniszterelnök nevezi ki.
 
-(3)[^54] A monitoring bizottságba tagot delegál
+(3)[^58] A monitoring bizottságba tagot delegál
 
-a) a Miniszterelnökséget vezető államtitkár,
+a)[^59] az európai uniós források felhasználásáért felelős miniszter,
 
 b) az irányító hatáság,
 
@@ -30,18 +30,19 @@ c) az igazoló hatóság, az ellenőrzési hatóság és a központi harmonizác
 
 d) a közreműködő szervezet és a forráskezelő szervezet,
 
-e)[^55] az érintett miniszter,
+e)[^60] az érintett miniszter,
 
-f)[^56] a nem az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért felelős miniszter.
+f)[^61] a nem az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért felelős miniszter.
 
 (5) A monitoring bizottság ellátja az 1083/2006/EK tanácsi rendelet 65. cikkében meghatározott feladatokat, és megtárgyalja az akciótervet.
 
-(6)[^57]
+(6)[^62]
 
-(7)[^58] A monitoring bizottság működésének részletes szabályait – a központi koordinációs szerv által meghatározott egységes elvek mentén – ügyrendjében állapítja meg.
+(7)[^63] A monitoring bizottság működésének részletes szabályait – a központi koordinációs szerv által meghatározott egységes elvek mentén – ügyrendjében állapítja meg.
 
-[^54]: A 9. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^55]: A 9. § (4) bekezdés e) pontját a 25/2012. (II. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^56]: A 9. § (4) bekezdés f) pontját az 548/2013. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^57]: A 9. § (6) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 4. pontja hatályon kívül helyezte.
-[^58]: A 9. § (7) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^58]: A 9. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^59]: A 9. § (3) bekezdés a) pontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 1. pontjával megállapított szöveg.
+[^60]: A 9. § (4) bekezdés e) pontját a 25/2012. (II. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^61]: A 9. § (4) bekezdés f) pontját az 548/2013. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^62]: A 9. § (6) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 4. pontja hatályon kívül helyezte.
+[^63]: A 9. § (7) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
