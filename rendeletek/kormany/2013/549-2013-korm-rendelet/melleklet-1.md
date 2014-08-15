@@ -32,9 +32,9 @@ Kezelő szervi kijelölés
 
 | 13 | Társadalmi Infrastruktúra Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-| 14 | Norvég Alap | Széchenyi Programiroda Nonprofit Kft. |
+| 14 | EGT Finanszírozási Mechanizmus és Norvég Finanszírozási Mechanizmus | európai uniós források felhasználásáért felelős miniszter |
 
-| 15 | Svájci Alap | Széchenyi Programiroda Nonprofit Kft. |
+| 15 | Svájci–Magyar Együttműködési Program | európai uniós források felhasználásáért felelős miniszter |
 
 | 16 | Regionális Fejlesztés Operatív Program | gazdaságpolitikáért felelős miniszter |
 
@@ -52,11 +52,11 @@ Kezelő szervi kijelölés
 
 | 23 | Terület- és Településfejlesztési Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 24 | Intelligens Közlekedésfejlesztési Operatív Program | közlekedésért felelős miniszter |
+| 24 | Integrált Közlekedésfejlesztési Operatív Program | közlekedésért felelős miniszter |
 
 | 25 | Környezet és Energetikai Hatékonysági Operatív Program | energiapolitikáért felelős miniszter |
 
 | 26 | Emberi Erőforrás Fejlesztési Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
 [^35]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^36]: Az 1. melléklet a 194/2014. (VII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^36]: Az 1. melléklet a 194/2014. (VII. 31.) Korm. rendelet 5. §-ával megállapított, a 204/2014. (VIII. 14.) Korm. rendelet 2. §-a szerint módosított szöveg.
