@@ -1,3 +1,3 @@
-28. §[^37] Ez a rendelet 1996. július 1. napján lép hatályba.
+28. §[^39] Ez a rendelet 1996. július 1. napján lép hatályba.
 
-[^37]: A Vhr. 28. §-a a 118/2008. (V. 8.) Korm. rendelet 1. § 1398. pontja szerint módosított szöveg.
+[^39]: A Vhr. 28. §-a a 118/2008. (V. 8.) Korm. rendelet 1. § 1398. pontja szerint módosított szöveg.
