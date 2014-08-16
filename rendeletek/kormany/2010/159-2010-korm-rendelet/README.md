@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-159-20-
 | 2013-02-01 | 2010-159-20-22.12 | 355/2012. (XII. 13.) Korm. rendelet |
 | 2013-07-01 | 2010-159-20-22.13 | 154/2013. (V. 24.) Korm. rendelet |
 | 2014-01-01 | 2010-159-20-22.14 | 527/2013. (XII. 30.) Korm. rendelet |
+| 2014-08-16 | 2010-159-20-22.15 | 88/2012. (IV. 26.) Korm. rendelet |
