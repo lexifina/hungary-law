@@ -1,3 +1,0 @@
-## 4. § A 4/2011. (I. 28.) Korm. rendelet 91. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A központi koordinációs szerv, illetve az irányító hatóság a döntést követő 10 napon belül közzéteszi a kedvezményezett nevének, a projekt címének, a szabálytalanság elkövetése módjának, a szabálytalanság következményének és a szabálytalansággal érintett összegnek a feltüntetésével a központi koordinációs szerv által működtetett honlapon – a személyes adatok kivételével – a szabálytalansági eljárásban a központi koordinációs szerv, illetve az irányító hatóság vagy a közreműködő szervezet által hozott, szabálytalanság megtörténtét megállapító jogerős döntéseket.”

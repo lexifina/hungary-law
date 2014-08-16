@@ -1,3 +1,0 @@
-## 1. § A 2007-2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet [a továbbiakban: 4/2011. (I. 28.) Korm. rendelet] 1. §-a a következő (1a) bekezdéssel egészül ki:
-
-## „(1a) A 23. és 34. alcím hatálya kiterjed az (1) bekezdésben megjelölt alapokból, valamint az Európai Vidékfejlesztési Mezőgazdasági Alapból, az Európai Tengerügyi és Halászati Alapból és az Európai Hálózatfinanszírozási Eszközből a 2014-2020 programozási időszak operatív programjainak keretében finanszírozott közbeszerzésekre is.”
