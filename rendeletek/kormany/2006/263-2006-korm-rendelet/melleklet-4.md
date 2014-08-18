@@ -58,6 +58,6 @@
 
 | 13. | A vasúti pálya szélső vágányának tengelyétől számított 100 méteren belüli építmény építése, elhelyezése, megszüntetése esetén, ha az építtető a vasúti pályahálózat működtetője hozzájárulásának a megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | A vasúti pálya területének igénybevétele a kérelemben foglaltak szerint vagy további feltételek mellett – a tervezett igénybevétel a vasút állagára, a vasúti forgalom biztonságára, a vasút kezelő fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján – engedélyezhető-e. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | – |
 
-4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^243]
+4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^245]
 
-[^243]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 13. §-a, a 259/2011. (XII. 7.) Korm. rendelet 18. § (4)–(5) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 17. § (2) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 22. § f) pontja, a 86/2013. (III. 21.) Korm. rendelet 3. § (2) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^245]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 13. §-a, a 259/2011. (XII. 7.) Korm. rendelet 18. § (4)–(5) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 17. § (2) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 22. § f) pontja, a 86/2013. (III. 21.) Korm. rendelet 3. § (2) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdés b) pontja szerint módosított szöveg.

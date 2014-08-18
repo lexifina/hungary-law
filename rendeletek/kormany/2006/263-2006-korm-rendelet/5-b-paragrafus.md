@@ -1,6 +1,6 @@
-## A repülőtérrel, a repülőtér területén lévő légiközlekedési rendeltetésű építményekkel és a leszállóhellyel kapcsolatos hatósági eljárásokban eljáró hatóság kijelölése[^111]
+## A repülőtérrel, a repülőtér területén lévő légiközlekedési rendeltetésű építményekkel és a leszállóhellyel kapcsolatos hatósági eljárásokban eljáró hatóság kijelölése[^113]
 
-5/B. §[^112] (1) A Kormány
+5/B. §[^114] (1) A Kormány
 
 a) a repülőtér elvi létesítésének engedélyezésére, létesítésének engedélyezésére, használatbavételének engedélyezésére, megszüntetésére és fejlesztésére irányuló eljárásban eljáró hatóságként,
 
@@ -10,8 +10,8 @@ c) a repülőtér területén lévő, a repülőtér létesítésének, fejleszt
 
 a Hatóságot jelöli ki.
 
-(2)[^113] Az (1) bekezdés szerinti eljárásokban első fokú eljárásban a Légügyi Hivatal, másodfokú eljárásban a Központ jár el.
+(2)[^115] Az (1) bekezdés szerinti eljárásokban első fokú eljárásban a Légügyi Hivatal, másodfokú eljárásban a Központ jár el.
 
-[^111]: Az 5/B. §-t megelőző alcímet a 159/2010. (V. 6.) Korm. rendelet 46. § (2) bekezdése iktatta be.
-[^112]: Az 5/B. §-t a 159/2010. (V. 6.) Korm. rendelet 46. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 43. §-át.
-[^113]: Az 5/B. § (2) bekezdése a 326/2010. (XII. 27.) Korm. rendelet 14. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^113]: Az 5/B. §-t megelőző alcímet a 159/2010. (V. 6.) Korm. rendelet 46. § (2) bekezdése iktatta be.
+[^114]: Az 5/B. §-t a 159/2010. (V. 6.) Korm. rendelet 46. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 43. §-át.
+[^115]: Az 5/B. § (2) bekezdése a 326/2010. (XII. 27.) Korm. rendelet 14. § (3) bekezdés a) pontja szerint módosított szöveg.
