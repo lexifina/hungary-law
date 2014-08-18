@@ -39,6 +39,6 @@ b) legalább 3 hónapra, de legfeljebb 5 évre visszavonja, ha az 5/A. § (13) b
 [^36]: Az 5/C. § (2) bekezdésének a) pontját a 182/2009. (IX. 10.) Korm. rendelet 686. § (1) bekezdésének 1. pontja hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^37]: A Magyar Közlöny 1998. évi 59. számában közzétett helyesbítésnek megfelelő szöveg.
 [^38]: Az 5/C. § (3) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 13. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^39]: Az 5/C. § (3) bekezdésének f) pontja a 351/2010. (XII. 30.) Korm. rendelet 2. § j) pontja szerint módosított szöveg.
+[^39]: Az 5/C. § (3) bekezdésének f) pontja a 351/2010. (XII. 30.) Korm. rendelet 2. § j) pontja szerint módosított szöveg. [A 171/2014. (VII. 18.) Korm. rendelet 3. §-ával elrendelt módosítás, amely szerint az „az NKH Központi Hivatala” szövegrész helyébe az „a Nemzeti Közlekedési Hatóság Központja” szöveg lép, nem vezethető át.]
 [^40]: Az 5/C. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 2. § d), g) és h) pontja szerint módosított szöveg.
 [^41]: Az 5/C. § (5) bekezdésének felvezető szövege a 351/2010. (XII. 30.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.

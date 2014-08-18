@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1988-89-20-6
 | 2011-12-08 | 1988-89-20-65.38 | 261/2011. (XII. 7.) Korm. rendelet |
 | 2013-10-01 | 1988-89-20-65.39 | 280/2013. (VII. 24.) Korm. rendelet |
 | 2014-03-15 | 1988-89-20-65.40 | 53/2014. (III. 3.) Korm. rendelet |
+| 2014-08-18 | 1988-89-20-65.41 | 171/2014. (VII. 18.) Korm. rendelet |
