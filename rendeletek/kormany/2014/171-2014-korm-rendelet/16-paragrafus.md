@@ -1,0 +1,1 @@
+## „c) áruszállítás esetén a rakományra vonatkozó adatok: az áru tulajdonosa által kiállított szállítólevél (illetve az árura vonatkozó egyéb okmány) száma, a szállítmány (a szállított anyag) megnevezése, mennyisége, származása, a csomagolás módja, veszélyes árunál az ADR-ben, illetve az ADR belföldi rendeletben meghatározott adatok, továbbá”
