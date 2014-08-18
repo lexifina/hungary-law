@@ -1,3 +1,3 @@
-5. melléklet a 261/2011. (XII. 7.) Korm. rendelethez[^86]
+5. melléklet a 261/2011. (XII. 7.) Korm. rendelethez[^89]
 
-[^86]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

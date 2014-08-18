@@ -10,7 +10,7 @@ b) az üzembentartó és a fuvaroztató megnevezése, címe,
 
 c) a jármű rendszáma és a gépjárművezető neve,
 
-d)[^44] az árura vonatkozó adatok: az áru tulajdonosa által kiállított szállítólevél (illetve az árura vonatkozó egyéb okmány) száma, az áru (a szállított anyag) megnevezése, mennyisége, a csomagolás módja, veszélyes árunál a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (a továbbiakban: ADR) szerinti adatok, továbbá a vontatott vagy szállított járműre vonatkozó adatok (a tulajdonos vagy üzemben tartó megnevezése, címe, a jármű rendszáma),
+d)[^44] az árura vonatkozó adatok: az áru tulajdonosa által kiállított szállítólevél (illetve az árura vonatkozó egyéb okmány) száma, az áru (a szállított anyag) megnevezése, mennyisége, a csomagolás módja, veszélyes árunál a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletében (a továbbiakban: ADR), illetve az ADR „A” és „B” Mellékletének belföldi alkalmazásáról szóló miniszteri rendeletben (a továbbiakban: ADR belföldi rendelet) meghatározott adatok, továbbá a vontatott vagy szállított járműre vonatkozó adatok (a tulajdonos vagy üzemben tartó megnevezése, címe, székhelyének vagy telephelyének címe, a jármű rendszáma),
 
 e) a jármű kiállításának, valamint indulásának helye és ideje, a jármű útvonala, a megállások (fel- és lerakodás) és indulások helye és ideje, valamint az érkezés helye és ideje (a kilométeróra állásának és a – rakománnyal vagy rakomány nélkül – megtett kilométer-teljesítményeknek a feltüntetésével),
 
@@ -41,5 +41,5 @@ d) a jármű kiállításának, valamint indulásának a helye és ideje, a jár
 (8)[^45] A Magyarország területén székhellyel rendelkező gazdálkodó szervezet által végzett különjárati személyszállításnál az autóbuszban utazókról utaslistát kell készíteni. Az utaslista a menetlevél mellékletét képezi.
 
 [^43]: A 22. § (1) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^44]: A 22. § (2) bekezdés d) pontja a 280/2013. (VII. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^44]: A 22. § (2) bekezdés d) pontja a 171/2014. (VII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^45]: A 22. § (8) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (7) bekezdésével megállapított szöveg.
