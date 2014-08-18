@@ -1,4 +1,4 @@
-## 3. §[^7] A Kkt. 20. § (1) bekezdés b) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 2. mellékletben meghatározott összegű bírságot köteles fizetni az, aki a 2. § a), b), g), h), j) és l) pontjában meghatározott jogszabályban vagy nemzetközi szerződésben meghatározott rendelkezést megsérti.
+## 3. §[^10] A Kkt. 20. § (1) bekezdés b) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 2. mellékletben meghatározott összegű bírságot köteles fizetni az, aki a 2. § a), b), g), h), i) és k) pontjában meghatározott jogszabályban vagy nemzetközi szerződésben meghatározott rendelkezést megsérti.
 
 ## 4. § A Kkt. 20. § (1) bekezdés c) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 3. mellékletben meghatározott összegű bírságot köteles fizetni az, aki
 
@@ -10,4 +10,4 @@ c) a közúti közlekedésben használt menetíró készülékekről szóló, 19
 
 d) a közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet végrehajtásáról szóló 124/2005. (XII. 29.) GKM rendeletben
 
-[^7]: A 3. § a 228/2012. (VIII. 23.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § a 228/2012. (VIII. 23.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 171/2014. (VII. 18.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
