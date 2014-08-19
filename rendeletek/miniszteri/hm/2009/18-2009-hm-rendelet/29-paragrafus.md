@@ -1,1 +1,5 @@
-## 28. § A hatósági engedéllyel és jelzéssel ellátott honvédségi járművek időszakos vizsgálatát, a forgalmi engedélyek érvényességi idejének meghosszabbítását elsődlegesen a honvédségi szervezetek kijelölt vizsgálóállomásai és a vizsgabiztosi névjegyzékbe felvett vizsgabiztosai végezhetik. A honvédségi vizsgáztatás feltételeinek hiánya esetén az időszakos vizsgálatokat a közlekedési hatóság által kijelölt vizsgálóállomásokon kell elvégezni.
+29. §[^26] (1) A honvédségi járművek műszaki alkalmasságának érvényességét jelző érvényesítő címkéket és plaketteket – szín és darabszám szerint – a honvédségi vizsgálóállomások részére a tulajdonosként bejegyzett szervezet közvetlenül a gyártótól szerzi be, és ezekkel a szükséges mennyiségben ellátja a vizsgabiztosokat.
+
+(2) A tulajdonosként bejegyzett szervezet a beszerzett címke készletekről és plakettekről – szín és darabszám szerint – készített kimutatást az átvételt követő 5 napon belül megküldi a közlekedési hatóságnak.
+
+[^26]: A 29. § a 13/2014. (VIII. 14.) HM rendelet 6. §-ával megállapított szöveg.

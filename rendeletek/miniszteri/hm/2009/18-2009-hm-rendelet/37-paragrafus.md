@@ -1,5 +1,5 @@
-## 36. §[^14] Az R2. 2. számú mellékletében szereplő, a tanúsítványok interneten történő továbbítására vonatkozó rendelkezéseket a honvédségi gépjárművekre nem kell alkalmazni.
+## 35–36. §[^33]
 
 ## Záró rendelkezések
 
-[^14]: A 36. § a 6/2012. (V. 18.) HM rendelet 6. § c) pontja szerint módosított szöveg.
+[^33]: A 35–36. §-t a 13/2014. (VIII. 14.) HM rendelet 11. §-a hatályon kívül helyezte.
