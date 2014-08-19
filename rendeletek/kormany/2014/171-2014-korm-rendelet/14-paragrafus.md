@@ -1,3 +1,0 @@
-## 13. § A környezetkímélő és energiahatékony közúti járművek beszerzésének előmozdításáról szóló 48/2011. (III. 30.) Korm. rendelet 1. § (1) bekezdés b) pontjában az „az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvény” szövegrész helyébe az „a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény” szöveg lép.
-
-## 5. A díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló 261/2011. (XII. 7.) Korm. rendelet módosítása
