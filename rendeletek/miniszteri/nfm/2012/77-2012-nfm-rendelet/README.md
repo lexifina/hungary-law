@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-77-20-2
 | 2014-01-01 | 2012-77-20-2W.4 | 39/2013. (VII. 15.) NFM rendelet |
 | 2014-04-15 | 2012-77-20-2W.5 | 18/2014. (IV. 14.) NFM rendelet |
 | 2014-07-25 | 2012-77-20-2W.6 | 18/2014. (IV. 14.) NFM rendelet |
+| 2014-08-21 | 2012-77-20-2W.7 | 36/2014. (VIII. 19.) NFM rendelet |
