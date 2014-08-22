@@ -1,0 +1,1 @@
+## 5. § Az egészségügyi szolgáltatók e rendelet hatálybalépésekor érvényes katasztrófaterveiket e rendelet előírásai szerint 2014. október 31-ig átdolgozzák és a 2. § (4) és (5) bekezdése alapján jóváhagyásra felterjesztik.

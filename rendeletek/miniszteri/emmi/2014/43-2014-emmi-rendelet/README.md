@@ -1,0 +1,9 @@
+# 43/2014. (VIII. 19.) EMMI rendelet
+
+az egészségügyi intézmények egészségügyi válsághelyzeti terveinek tartalmi követelményeiről, valamint egyes egészségügyi tárgyú miniszteri rendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-43-20-5H
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-08-22 | 2014-43-20-5H.1 | 43/2014. (VIII. 19.) EMMI rendelet |
