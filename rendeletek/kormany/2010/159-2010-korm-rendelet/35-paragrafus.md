@@ -2,18 +2,14 @@
 
 ## A REPÜLŐTÉR FEJLESZTÉSE
 
-35. § (1) A repülőtér fejlesztésének minősül:
+35. §[^49] (1) A repülőtér fejlesztésének minősül:
 
-a) a repülőtér magasabb osztályba sorolása, ICAO előírás szerinti átminősítése,
+a) a repülőtér magasabb osztályba sorolása, vagy ICAO előírás szerinti átminősítése,
 
-b) a futópályák számának növelése, műszaki jellemzőinek megváltoztatása, füves repülőtéren szilárd burkolatú futópálya kiépítése, a meglévő futópálya hosszának hosszabbítása, gurulóút hálózat bővítése,
+b) meglévő szilárd burkolatú futópálya hosszabbítása vagy új szilárd burkolatú futópálya kiépítése, valamint új gurulóút építése,
 
-c) a fénytechnikai rendszer és irányítástechnikai berendezések telepítése,
+c) a repülőtér éjszakai használatát lehetővé tevő, vagy a futópálya ICAO előírás szerinti típusának (nem műszeres, nem-precíziós megközelítésű, CAT I–III. precíziós megközelítésű) változását eredményező fénytechnikai vagy navigációs rendszer telepítése.
 
-d) az utas- és áru- kezelésére alkalmas létesítmények kapacitásának növelése,
+(2) A repülőtér fejlesztéséhez a légiközlekedési hatóság engedélye szükséges. A fejlesztés engedélyezése során a légiközlekedési hatóság a II., IV., valamint V. Fejezetben foglaltak megfelelő alkalmazásával jár el, azzal, hogy a tervezett fejlesztés szerint – amennyiben szükséges – a kijelölt zajgátló védőövezetet módosítani kell.
 
-e) a több megvalósulási szakaszra bontott építkezés esetében a további szakaszokban megépítendő építmény építése.
-
-(2)[^25] A repülőtér fejlesztéséhez a légiközlekedési hatóság engedélye szükséges. A fejlesztés engedélyezése során a légiközlekedési hatóság a II., IV., valamint V. Fejezetben foglaltak szerint jár el, azzal, hogy a tervezett fejlesztésnek megfelelően – amennyiben szükséges – a kijelölt zajgátló védőövezetet módosítani kell.
-
-[^25]: A 35. § (2) bekezdése a 309/2010. (XII. 23.) 6. §-ával megállapított szöveg.
+[^49]: A 35. § a 207/2014. (VIII. 15.) Korm. rendelet 11. §-ával megállapított szöveg.

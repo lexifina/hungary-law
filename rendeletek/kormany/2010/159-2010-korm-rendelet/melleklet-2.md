@@ -10,7 +10,7 @@ A repülőtérnek a 2. pontban meghatározottakon túlmenően a következő felt
 
 1.1. az állandó határátkelőhely,
 
-1.2.[^51] a Nemzeti Adó- és Vámhivatalnak az Európai Unió külső vámhatárán működő szerve működéséhez szükséges feltételek,
+1.2.[^76] a Nemzeti Adó- és Vámhivatalnak az Európai Unió külső vámhatárán működő szerve működéséhez szükséges feltételek,
 
 1.3. fegyveres biztonsági szolgálat.
 
@@ -36,7 +36,7 @@ A repülőtérnek a 2. pontban meghatározottakon túlmenően a következő felt
 
 2.3.7. üzemanyag kiszolgálás;
 
-2.3.8. utas, cargo terminál és – ha az ICAO előírás szerint szükséges – General Aviation terminál;
+2.3.8.[^77] utasterminál, cargo terminál;
 
 2.3.9. utas és árukezelő eszközök, létesítmények;
 
@@ -56,7 +56,7 @@ A repülőtérnek a 2. pontban meghatározottakon túlmenően a következő felt
 
 3. A III–IV. osztályú repülőtér
 
-3.1. A repülőtéren legalább egy repülési sávot, munkaterületet kell kijelölni, amely magában foglal egy természetes talajú vagy szilárd burkolattal ellátott futópályát.
+3.1.[^78] A repülőtéren legalább egy repülési sávot, munkaterületet kell kijelölni, amely magában foglal egy természetes talajú vagy szilárd burkolattal ellátott futópályát, vagy helikopter fel- és leszállására alkalmas területet.
 
 3.2. A repülőtéren, a repülési sávon kívül létesíteni kell előteret vagy állóhelyeket (mozgásterület), valamint a légijármű személyzete, és a repülőteret üzemeltető szolgálatok számára megfelelő elhelyezést nyújtó kiszolgáló létesítményt.
 
@@ -64,10 +64,23 @@ A repülőtérnek a 2. pontban meghatározottakon túlmenően a következő felt
 
 3.4. Repülőtérrend.
 
-4. Az V–VI. osztályú repülőtér
+3.5.[^79] Nem nyilvános repülőtérre vonatkozó Kényszerhelyzeti Terv.
+
+4.[^80] Az V. osztályú repülőtér
 
 4.1. A repülőtéren legalább egy repülési sávot, munkaterületet kell kijelölni, amely magában foglal a repülőtéren fogadni tervezett géptípusnak megfelelő, egy természetes talajú vagy szilárd burkolattal ellátott futópályát.
 
 4.2. Repülőtérrend.
 
-[^51]: A 2. melléklet 1. pont 1.2. alpontja a 273/2010. (XII. 9.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg.
+5.[^81] A VI. osztályú repülőtér
+
+5.1. A repülőtéren legalább egy repülési sávot, munkaterületet kell kijelölni, amely magában foglal a repülőtéren fogadni tervezett géptípusnak megfelelő, egy természetes talajú vagy szilárd burkolattal ellátott futópályát.
+
+5.2. Repülőtérrend.
+
+[^76]: A 2. melléklet 1. pont 1.2. alpontja a 273/2010. (XII. 9.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg.
+[^77]: A 2. melléklet 2.3.8. pontja a 207/2014. (VIII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^78]: A 2. melléklet 3.1. pontja a 207/2014. (VIII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^79]: A 2. melléklet 3.5. pontját a 207/2014. (VIII. 15.) Korm. rendelet 18. §-a iktatta be.
+[^80]: A 2. melléklet 4. pont nyitó szövegrésze a 207/2014. (VIII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^81]: A 2. melléklet 5. pontját a 207/2014. (VIII. 15.) Korm. rendelet 18. §-a iktatta be.

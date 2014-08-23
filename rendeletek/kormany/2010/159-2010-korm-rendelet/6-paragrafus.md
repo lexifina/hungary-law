@@ -4,10 +4,10 @@ a) létesítés kérelmezése esetén az érintett földrészletre vonatkozó tu
 
 b) az a) pont alá nem tartozó minden egyéb munka esetében – a tulajdonjogra, vagyonkezelői vagy földhasználati jogra vonatkozó nyilatkozatával és – haszonélvezettel terhelt ingatlan esetében – a haszonélvező hozzájáruló nyilatkozatával vagy az ezt pótló bírósági ítélettel,
 
-c)[^10] idegen tulajdonban álló ingatlanon történő létesítés esetében az ingatlannal rendelkezni jogosult hozzájáruló nyilatkozatával vagy az ezt pótló bírósági ítélettel, vagy a kisajátítási eljárás útján megszerzett ingatlan birtokba adását vagy a kisajátítási határozat azonnali végrehajtását elrendelő határozattal vagy a kisajátításról szóló határozattal, továbbá
+c)[^13] idegen tulajdonban álló ingatlanon történő létesítés esetében az ingatlannal rendelkezni jogosult hozzájáruló nyilatkozatával vagy az ezt pótló bírósági ítélettel, vagy a kisajátítási eljárás útján megszerzett ingatlan birtokba adását vagy a kisajátítási határozat azonnali végrehajtását elrendelő határozattal vagy a kisajátításról szóló határozattal, továbbá
 
 d) közös tulajdonban álló ingatlanon történő létesítés kérelmezése esetén – a tulajdonostárs hozzájáruló nyilatkozatával vagy az ezt pótló bírósági ítélettel.
 
 (2) Ha a kérelmező az engedély iránti kérelemhez az (1) bekezdés a) pontjában meghatározott tulajdoni lap másolatot nem csatolja, a légiközlekedési hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi az ingatlan-nyilvántartást vezető szervet.
 
-[^10]: A 6. § (1) bekezdés c) pontja a 154/2013. (V. 24.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^13]: A 6. § (1) bekezdés c) pontja a 154/2013. (V. 24.) Korm. rendelet 14. §-ával megállapított szöveg.

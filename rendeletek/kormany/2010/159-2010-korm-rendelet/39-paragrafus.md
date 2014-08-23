@@ -1,39 +1,32 @@
-## 38. § A leszállóhely létesítésének, megszüntetésének engedélyezésére a II. és IV. Fejezetekben foglaltakat az e fejezetben foglalt eltérésekkel kell alkalmazni.
+## 38. §[^52] A leszállóhely létesítésének engedélyezésére az „A” és „B” osztályú leszállóhely vonatkozásában a II. és IV. Fejezetben foglaltakat az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
 ## 16. A kérelem tartalma
 
-39. § (1) A leszállóhely létesítéséről és megszüntetéséről a légiközlekedési hatóság egy eljárásban dönt.
+39. §[^53] (1) A leszállóhely létesítéséről a légiközlekedési hatóság egy eljárásban dönthet.
 
-(2) A leszállóhely létesítésének és megszüntetésének engedélyezése iránti kérelmet a légiközlekedési hatóság által rendszeresített és a honlapján közzétett nyomtatványon kell benyújtani, amely a következőket tartalmazza:
+(2) „A” és „B” osztályú leszállóhely létesítésének engedélyezése iránti kérelmet a légiközlekedési hatóság által rendszeresített, és a honlapján közzétett nyomtatványon kell benyújtani, amely a következőket tartalmazza:
 
-a)[^27] a terület helye (helyrajzi száma), beépítettsége,
+a) a terület helye (helyrajzi száma), beépítettsége;
 
-b) a terület hasznos hossza,
+b) a terület hasznos hossza;
 
-c) a terület hasznos szélessége,
+c) a terület hasznos szélessége;
 
-d) a talaj felülete,
+d) a talaj felülete;
 
-e)[^28] akadályok a terület közelében, pályairányban és pályairányon kívül, távolság és magasság megadásával,
+e) akadályok a terület közelében, pályairányban és pályairányon kívül, távolság és magasság megadásával;
 
-f) a leszállóhely tervezett osztálya,
+f) a leszállóhely tervezett osztálya;
 
-g) szélkorlátozás,
+g) a területet kijelölő személy neve, aláírása, az aláírás helye, időpontja, ha az nem azonos a kérelmezővel;
 
-h) a terület kijelölő személy neve, aláírása, az aláírás helye, időpontja, ha az nem azonos a kérelmezővel,
+h) a terület tulajdonosának, vagy – állami tulajdonban levő terület esetében – vagyonkezelőjének hozzájárulása a leszállóhely létesítéséhez, aláírása, az aláírás helye, időpontja;
 
-i) a terület tulajdonosának hozzájárulása a leszállóhely létesítéséhez, aláírása, az aláírás helye, időpontja,
-
-j)[^29] a használni tervezett légijármű típusát.
+i) a használni tervezett légijármű típusa.
 
 (3) Elektronikus kapcsolattartás esetén a (2) bekezdés szerinti nyomtatvány nem tartalmazza a területet kijelölő személynek, a terület tulajdonosának aláírását, az aláírás helyét, időpontját.
 
-(4)[^30] A kérelmet legalább 15 munkanappal a tervezett használat megkezdését megelőzően kell benyújtani a légiközlekedési hatóságnak.
+(4) A kérelmet legalább 15 munkanappal a tervezett használat megkezdését megelőzően kell benyújtani a légiközlekedési hatóságnak.
 
-(5)[^31]
-
-[^27]: A 39. § (2) bekezdés a) pontja a 309/2010. (XII. 23.) 7. § (1) bekezdésével megállapított szöveg.
-[^28]: A 39. § (2) bekezdés e) pontja a 309/2010. (XII. 23.) 7. § (1) bekezdésével megállapított szöveg.
-[^29]: A 39. § (2) bekezdés j) pontját a 309/2010. (XII. 23.) 7. § (2) bekezdése iktatta be.
-[^30]: A 39. § (4) bekezdése a 309/2010. (XII. 23.) 7. § (3) bekezdésével megállapított szöveg.
-[^31]: A 39. § (5) bekezdését a 309/2010. (XII. 23.) Korm. rendelet 15. § (1) bekezdése hatályon kívül helyezte.
+[^52]: A 38. § a 207/2014. (VIII. 15.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^53]: A 39. § a 207/2014. (VIII. 15.) Korm. rendelet 14. §-ával megállapított szöveg.

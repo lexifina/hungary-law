@@ -1,39 +1,47 @@
-3. § (1) Repülőtér elvi létesítéséhez, elvi építéséhez, létesítéséhez, építéséhez, használatbavételéhez, fennmaradásához, fejlesztéséhez és megszüntetéséhez, bontásához, valamint leszállóhely létesítéséhez és megszüntetéséhez – a (3) bekezdésben meghatározott kivétellel – a légiközlekedési hatóság engedélye szükséges.
+3. §[^9] (1) A légiközlekedési hatóság engedélye szükséges
 
-(2) A repülőtérre vonatkozó az (1) bekezdés szerinti hatósági engedélyek fajtái:
+a) a 12. § (1) bekezdésében foglaltakra figyelemmel a repülőtér elvi létesítéséhez, valamint a repülőtér létesítéséhez, használatbavételéhez, fejlesztéséhez és megszüntetéséhez;
 
-a) elvi létesítési és elvi építési engedély,
+b) az 1. mellékletben felsorolt általános építmények kapcsán az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet (a továbbiakban: Ékr.) szerinti engedélyköteles tevékenységhez;
 
-b) létesítési és építési engedély,
+c) „A” és „B” osztályú leszállóhely létesítéséhez.
 
-c) használatbavételi engedély,
+(2) A légiközlekedési hatóság részére történő bejelentés szükséges „C” osztályú leszállóhely létesítéséhez.
 
-d) az 1. mellékletben felsorolt általános építmények esetében fennmaradási engedély,
+(3) Az (1) bekezdés szerinti hatósági döntések fajtái:
 
-e) megszüntetési és bontási engedély.
+a) a repülőtérre vonatkozóan:
 
-(3) A légiközlekedési hatóság által az ügyfél kérelemére egy eljárásban megadható hatósági engedélyek fajtái:
+aa) elvi létesítési engedély,
 
-a) elvi létesítési és elvi építési engedély (a továbbiakban együtt: elvi létesítési engedély),
+ab) létesítési engedély,
 
-b) létesítési és építési engedély (a továbbiakban együtt: létesítési engedély),
+ac) használatbavételi engedély,
 
-c) megszüntetési és bontási engedély (a továbbiakban: megszüntetési engedély).
+ad) fejlesztési engedély,
 
-(4) A légiközlekedési hatóságnak be kell jelenteni:
+ae) megszüntetési engedély;
 
-a) olyan felújítást vagy karbantartást, amely nem jár együtt a rendeltetésszerű használat korlátozásával, és nem okoz eltérést a létesítési és használatbavételi engedélyben foglaltakhoz képest,
+b) az 1. mellékletben felsorolt általános építményekre vonatkozóan az Étv. 34. § szerinti eljárásokban meghozott építésügyi hatósági döntések;
 
-b) olyan felújítást vagy karbantartást, amely nem minősül a repülőtér fejlesztésének, ugyanakkor a rendeltetésszerű használat időleges korlátozásával jár, és nem okoz eltérést a létesítési és használatbavételi engedélyben foglaltakhoz képest,
+c) az „A” és „B” osztályú leszállóhelyre vonatkozóan létesítési engedély.
+
+(4) Repülőtér elvi létesítése, létesítése vagy megszüntetése esetén a légiközlekedési hatóság által az ügyfél kérelmére egy eljárásban megadható hatósági engedélyek fajtái:
+
+a) elvi létesítési engedély,
+
+b) létesítési és az építményekre vonatkozóan építési engedély,
+
+c) megszüntetési és az építményekre vonatkozóan bontási engedély.
+
+(5) Repülőtér esetén a légiközlekedési hatóságnak be kell jelenteni:
+
+a) az olyan felújítást vagy karbantartást, amely nem jár együtt a rendeltetésszerű használat korlátozásával, és nem okoz eltérést a létesítési és használatbavételi engedélyben foglaltakhoz képest,
+
+b) az olyan felújítást vagy karbantartást, amely nem minősül a repülőtér fejlesztésének, ugyanakkor a rendeltetésszerű használat időleges korlátozásával jár, és nem okoz eltérést a létesítési és használatbavételi engedélyben foglaltakhoz képest,
 
 c) az engedélyezett tevékenységnek megfelelő műszaki jellemzőkkel és paraméterekkel rendelkező eszköz, berendezés cseréjét, valamint
 
 d) ha a létesítési engedély időbeli hatályának tartama alatt az engedélyes helyébe a polgári jog szerinti jogutódja lép.
 
-(5) A leszállóhelyre vonatkozó hatósági engedélyek fajtái:
-
-a) létesítési engedély.
-
-b)[^8]
-
-[^8]: A 3. § (5) bekezdés b) pontját a 309/2010. (XII. 23.) Korm. rendelet 15. § (1) bekezdése hatályon kívül helyezte.
+[^9]: A 3. § a 207/2014. (VIII. 15.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -12,4 +12,6 @@ c) a területnek a repülőtér létesítése előtti állapotára történő he
 
 d) ha a kérelmező nem azonos az üzemben tartóval, az üzemben tartó hozzájáruló nyilatkozatát,
 
-e) az 1. mellékletben felsorolt általános építmények esetében az építésügyi hatósági eljárásokról, valamint a telekalakítási és az építészeti-műszaki dokumentációk tartalmáról szóló 37/2007. (XII. 13.) ÖTM rendelet 5. melléklete szerinti építészeti-műszaki dokumentációt 4 példányban.
+e)[^48] az elbontani vagy átépíteni tervezett, 1. mellékletben felsorolt általános építmények esetében az Ékr. 8. melléklete szerinti építészeti-műszaki dokumentációt 4 példányban és elektronikus adathordozón 1 példányban.
+
+[^48]: A 32. § e) pontja a 207/2014. (VIII. 15.) Korm. rendelet 10. §-ával megállapított szöveg.

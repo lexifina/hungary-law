@@ -4,7 +4,7 @@
 
 ## 1. A kérelem tartalma
 
-12. § (1) A II.–IV. osztályú repülőtér kialakításához elvi létesítési engedélyt kell kérni.
+12. § (1)[^20] Az I–VI. osztályú repülőtér kialakításához elvi létesítési engedély kérhető.
 
 (2) Az elvi létesítési engedély iránti kérelemnek tartalmaznia kell:
 
@@ -14,7 +14,7 @@ b) a tervezett forgalomra vonatkozó információkat.
 
 (3) Az elvi létesítési engedély iránti kérelemhez – a 4. § (2) bekezdés b)–c) pontjában foglaltakon túlmenően, valamint a (4) bekezdésben foglaltak figyelembevételével – mellékelni kell:
 
-a)[^16] a kérelmező gazdasági társaság esetében a társasági szerződést, illetve alapító okiratot, alapszabályt és az üzleti tervet;
+a)[^21] a kérelmező gazdasági társaság esetében a társasági szerződést, illetve alapító okiratot, alapszabályt és az üzleti tervet;
 
 b) a futópályák tervezett kiépítéséről, pályairányokról, méretekről, a futópályák akadályviszonyairól szóló dokumentumokat;
 
@@ -32,15 +32,11 @@ h) a repülőtér építési telkét és üzemi területét ábrázoló térkép
 
 i) a létesítendő repülőtér tűzvédelmének megvalósítási tervének megfelelő tűzvédelmi koncepciót; valamint
 
-j) az 1. mellékletben felsorolt általános építmények esetében
+j)[^22] az 1. mellékletben felsorolt általános építmények esetében az Ékr. 8. melléklete szerinti építészeti-műszaki dokumentációt 4 példányban és elektronikus adathordozón 1 példányban.
 
-ja) az építésügyi hatósági eljárásokról, valamint a telekalakítási és az építészeti-műszaki dokumentációk tartalmáról szóló 37/2007. (XII. 13.) ÖTM rendelet 5. melléklete szerinti építészeti-műszaki dokumentációt 4 példányban,
+(4)[^23] Ha a kérelmező a kérelemhez a (3) bekezdés a) pontja szerinti társasági szerződés, alapító okirat vagy alapszabály eredeti vagy közjegyző által hitelesített példányát nem csatolja, a légiközlekedési hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a cégnyilvántartást vezető szervet. A kérelmező gazdasági társaság cégkivonatát a légiközlekedési hatóság a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-jb) az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló kormányrendelet szerinti tervezői nyilatkozatot,
-
-jc) amennyiben a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendelet szerint tervtanácsi vélemény is szükséges, a tervtanácsi véleményt.
-
-(4)[^17] Ha a kérelmező a kérelemhez a (3) bekezdés a) pontja szerinti társasági szerződés, alapító okirat vagy alapszabály eredeti vagy közjegyző által hitelesített példányát nem csatolja, a légiközlekedési hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a cégnyilvántartást vezető szervet. A kérelmező gazdasági társaság cégkivonatát a légiközlekedési hatóság a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
-
-[^16]: A 12. § (3) bekezdés a) pontja a 355/2012. (XII. 13.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^17]: A 12. § (4) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^20]: A 12. § (1) bekezdése a 207/2014. (VIII. 15.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^21]: A 12. § (3) bekezdés a) pontja a 355/2012. (XII. 13.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^22]: A 12. § (3) bekezdés j) pontja a 207/2014. (VIII. 15.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^23]: A 12. § (4) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 39. § (2) bekezdésével megállapított szöveg.

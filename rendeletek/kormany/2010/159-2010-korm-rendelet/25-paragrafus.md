@@ -1,4 +1,4 @@
-## 24. § Az 1. mellékletben felsorolt általános építmények tekintetében a fennmaradási engedélyezésre vonatkozóan az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló kormányrendelet előírásait kell alkalmazni.
+## 24. §
 
 ## V. Fejezet
 

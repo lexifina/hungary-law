@@ -10,10 +10,11 @@ b) az engedély megadásának esetleges feltételeit és minden olyan eseti hat�
 
 c) a más jogszabályokban előírt engedélyek beszerzésének kötelezettségére történő figyelemfelhívást,
 
-d) az 1. mellékletben felsorolt általános építmények esetében az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló kormányrendelet szerint a kivitelezési dokumentációra, a bejelentési kötelezettségre és az építtetői fedezetkezelésre vonatkozó rendelkezést is.
+d)[^33] az 1. mellékletben felsorolt általános építmények esetében az Ékr. szerint a kivitelezési dokumentációra, a bejelentési kötelezettségre és az építtetői fedezetkezelésre vonatkozó rendelkezést is.
 
 (3) A légiközlekedési hatóság a létesítési engedélyt a zajgátló védőövezetet kijelölő jogerős határozat hiányában is megadja, ha a kérelmező tudomásul veszi azt, hogy a repülőtér üzemben tartási engedélye megadásának feltétele a zajgátló védőövezetet kijelölő jogerős és végrehajtható határozat megléte.
 
-(4)[^21] Ha a repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének szabályairól szóló jogszabály szerint a zajgátló védőövezet nem haladja meg a repülőtér területét, a légiközlekedési hatóság a zajgátló védőövezet kijelöléséről a létesítési engedélyben rendelkezik.
+(4)[^34] Ha a repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének szabályairól szóló jogszabály szerint a zajgátló védőövezet nem haladja meg a repülőtér területét, a légiközlekedési hatóság a zajgátló védőövezet kijelöléséről a létesítési engedélyben rendelkezik.
 
-[^21]: A 19. § (4) bekezdését a 309/2010. (XII. 23.) 4. §-a iktatta be.
+[^33]: A 19. § (2) bekezdés d) pontja a 207/2014. (VIII. 15.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^34]: A 19. § (4) bekezdését a 309/2010. (XII. 23.) 4. §-a iktatta be.

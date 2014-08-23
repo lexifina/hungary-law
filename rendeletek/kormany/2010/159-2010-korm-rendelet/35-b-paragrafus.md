@@ -1,0 +1,1 @@
+## 35/A. § A repülőtér területén található, az 1. mellékletben felsorolt általános építmények engedélyezésére az Étv. 34. § szerinti építésügyi hatósági eljárásokra az Ékr. előírásait az e fejezetben és a 11/B. §-ban foglalt eltérésekkel kell alkalmazni.
