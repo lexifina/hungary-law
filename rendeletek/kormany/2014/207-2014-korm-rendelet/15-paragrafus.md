@@ -1,0 +1,27 @@
+## 14. § Az R. 39. §-a a helyébe a következő rendelkezés lép:
+
+## „39. § (1) A leszállóhely létesítéséről a légiközlekedési hatóság egy eljárásban dönthet.
+
+## (2) „A” és „B” osztályú leszállóhely létesítésének engedélyezése iránti kérelmet a légiközlekedési hatóság által rendszeresített, és a honlapján közzétett nyomtatványon kell benyújtani, amely a következőket tartalmazza:
+
+## a) a terület helye (helyrajzi száma), beépítettsége;
+
+## b) a terület hasznos hossza;
+
+## c) a terület hasznos szélessége;
+
+## d) a talaj felülete;
+
+## e) akadályok a terület közelében, pályairányban és pályairányon kívül, távolság és magasság megadásával;
+
+## f) a leszállóhely tervezett osztálya;
+
+## g) a területet kijelölő személy neve, aláírása, az aláírás helye, időpontja, ha az nem azonos a kérelmezővel;
+
+## h) a terület tulajdonosának, vagy – állami tulajdonban levő terület esetében – vagyonkezelőjének hozzájárulása a leszállóhely létesítéséhez, aláírása, az aláírás helye, időpontja;
+
+## i) a használni tervezett légijármű típusa.
+
+## (3) Elektronikus kapcsolattartás esetén a (2) bekezdés szerinti nyomtatvány nem tartalmazza a területet kijelölő személynek, a terület tulajdonosának aláírását, az aláírás helyét, időpontját.
+
+## (4) A kérelmet legalább 15 munkanappal a tervezett használat megkezdését megelőzően kell benyújtani a légiközlekedési hatóságnak.”

@@ -1,0 +1,1 @@
+## „(4) A III–VI. osztályú repülőtér létesítési engedélyéhez szükséges dokumentáció a (3) bekezdés a)–b), valamint h) és k) pontjában meghatározottakat tartalmazza. A dokumentációt 7 példányban és elektronikus adathordozón 1 példányban kell mellékelni.”
