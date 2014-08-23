@@ -1,3 +1,3 @@
-## 15. §[^4]
+## 15. §[^5]
 
-[^4]: A 15. § a 4. § (3) bekezdése alapján 2014. szeptember 2-án lép hatályba.
+[^5]: A 15. § a 4. § (3) bekezdése alapján 2014. szeptember 2-án lép hatályba.
