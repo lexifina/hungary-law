@@ -28,20 +28,20 @@ gd) a talált robbanóanyagok, robbanószerkezetek, robbanásveszélyes pirotech
 
 a) Budapest, valamint a Budapest Liszt Ferenc Nemzetközi Repülőtér területén, továbbá a Terrorelhárítási Központ hatáskörébe tartozó ügyekben a Készenléti Rendőrség Tűzszerész Szolgálat járőre,
 
-b)[^34] a Készenléti Rendőrség által védett létesítmények, biztosított rendezvények, védett személyek programhelyszínei esetén az egész ország területén a Készenléti Rendőrség Tűzszerész Szolgálat járőre,
+b)[^36] a Készenléti Rendőrség által védett létesítmények, biztosított rendezvények, védett személyek programhelyszínei esetén az egész ország területén a Készenléti Rendőrség Tűzszerész Szolgálat járőre,
 
 c) egyéb esetben a megyei rendőr-főkapitányság állományának erre kiképzett tagja (a továbbiakban: megyei bombakutató)
 
 ## végzi.
 
-(3)[^35] A Magyar Honvédség Tűzszerész Ügyelet felkérése alapján a Készenléti Rendőrség Tűzszerész Szolgálat jogosult a tűzszerészeti feladatok végrehajtására.
+(3)[^37] A Magyar Honvédség Tűzszerész Ügyelet felkérése alapján a Készenléti Rendőrség Tűzszerész Szolgálat jogosult a tűzszerészeti feladatok végrehajtására.
 
-(4)[^36] Az (1) bekezdésben és a (2) bekezdés a) pontjában meghatározott tűzszerészeti feladatokat az általános rendőrségi feladatok ellátására létrehozott szerv a terrorizmust elhárító szerv kijelöléséről és feladatai ellátásának részletes szabályairól szóló 295/2010. (XII. 22.) Korm. rendelet
+(4)[^38] Az (1) bekezdésben és a (2) bekezdés a) pontjában meghatározott tűzszerészeti feladatokat az általános rendőrségi feladatok ellátására létrehozott szerv a terrorizmust elhárító szerv kijelöléséről és feladatai ellátásának részletes szabályairól szóló 295/2010. (XII. 22.) Korm. rendelet
 
 a) 3. § (1) bekezdés d) pont da) alpontja alapján a Terrorelhárítási Központtal együttműködve látja el,
 
 b) 3. § (1) bekezdés k) pontja alapján abban az esetben látja el, ha a Terrorelhárítási Központ kéri az együttműködést.
 
-[^34]: Az 56. § (2) bekezdés b) pontja a 31/2012. (VI. 28.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^35]: Az 56. § (3) bekezdése a 31/2012. (VI. 28.) BM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^36]: Az 56. § (4) bekezdését a 31/2012. (VI. 28.) BM rendelet 11. §-a iktatta be.
+[^36]: Az 56. § (2) bekezdés b) pontja a 31/2012. (VI. 28.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^37]: Az 56. § (3) bekezdése a 31/2012. (VI. 28.) BM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^38]: Az 56. § (4) bekezdését a 31/2012. (VI. 28.) BM rendelet 11. §-a iktatta be.

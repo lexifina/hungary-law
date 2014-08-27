@@ -4,6 +4,6 @@
 
 (3) Az előállítás a fogvatartott személy szabadon bocsátásáig vagy őrizetbe vételéig, illetve előzetes letartóztatásáig, de legfeljebb az Rtv. 33. § (3) bekezdésében meghatározott ideig tart.
 
-(4)[^15] Ha az előállítás időtartamának az Rtv. 33. § (3) bekezdése szerinti meghosszabbítása válik szükségessé, ennek tényét és időtartamát a fogvatartottal – a személyi szabadság korlátozása 8. órájának lejártát megelőzően – szóban közölni kell, és a meghosszabbítás tényét, okát, időtartamát, illetve annak közlését az előállításról készített jelentésen, valamint az előállítás időtartamáról kiállított igazoláson, az engedélyezésre jogosult vezető aláírásával együtt fel kell tüntetni.
+(4)[^17] Ha az előállítás időtartamának az Rtv. 33. § (3) bekezdése szerinti meghosszabbítása válik szükségessé, ennek tényét és időtartamát a fogvatartottal – a személyi szabadság korlátozása 8. órájának lejártát megelőzően – szóban közölni kell, és a meghosszabbítás tényét, okát, időtartamát, illetve annak közlését az előállításról készített jelentésen, valamint az előállítás időtartamáról kiállított igazoláson, az engedélyezésre jogosult vezető aláírásával együtt fel kell tüntetni.
 
-[^15]: A 30. § (4) bekezdését a 18/2013. (V. 9.) BM rendelet 5. §-a iktatta be.
+[^17]: A 30. § (4) bekezdését a 18/2013. (V. 9.) BM rendelet 5. §-a iktatta be.

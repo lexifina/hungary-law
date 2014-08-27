@@ -6,10 +6,10 @@
 
 a) illetékességi területén a rendőrfőkapitány,
 
-b)[^33] a Készenléti Rendőrség hatáskörébe tartozó feladat esetén a Készenléti Rendőrség parancsnoka,
+b)[^35] a Készenléti Rendőrség hatáskörébe tartozó feladat esetén a Készenléti Rendőrség parancsnoka,
 
 c) a Terrorelhárítási Központ hatáskörébe tartozó feladat esetén a Terrorelhárítási Központ főigazgatója
 
 határozza meg.
 
-[^33]: Az 54. § (2) bekezdés b) pontja a 31/2012. (VI. 28.) BM rendelet 14. § a) pontja szerint módosított szöveg.
+[^35]: Az 54. § (2) bekezdés b) pontja a 31/2012. (VI. 28.) BM rendelet 14. § a) pontja szerint módosított szöveg.
