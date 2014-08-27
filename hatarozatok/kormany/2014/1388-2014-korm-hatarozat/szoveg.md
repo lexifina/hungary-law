@@ -1,6 +1,6 @@
 A Kormány egyetért a 813. számú főút, Győr keleti elkerülő út I. ütem (a továbbiakban: beruházás) megvalósításához szükséges költségvetési többletforrás biztosításával, ennek megfelelően
 
-1. felhívja a nemzetgazdasági minisztert, hogy készítse el és terjessze a Kormány elé a beruházás 2014. évi feladatai elvégzéséhez szükséges 1135,0 millió forint biztosítása érdekében a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény XVII. Nemzeti Fejlesztési Minisztérium fejezete javára történő előirányzat-átcsoportosításról szóló kormány-előterjesztést;
+1.[^1] felhívja a nemzetgazdasági minisztert, hogy készítse el és terjessze a Kormány elé a beruházás 2014. évi feladatai elvégzéséhez szükséges 1135,0 millió forint uniós forrásokból történő biztosításáról szóló kormány-előterjesztést;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -25,3 +25,5 @@ Miniszterelnökséget vezető miniszter
 nemzetgazdasági miniszter
 
 Határidő: a 2014–2020 közötti programozási időszak operatív programjainak elfogadását követően
+
+[^1]: Az 1. pont az 1480/2014. (VIII. 27.) Korm. határozat 5. pontja szerint módosított szöveg.
