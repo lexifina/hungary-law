@@ -1,6 +1,6 @@
 ## 1. megállapítja az 1. melléklet szerint a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének 3. prioritását,
 
-## 2. visszavonja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 3. és 6. prioritásának módosításáról szóló 1196/2014. (III. 31.) Korm. határozat 1. mellékletének a 3. prioritásra vonatkozó részét.
+## 2.[^2]
 
 1. melléklet az 1478/2014. (VIII. 27.) Korm. határozathoz
 
@@ -53,3 +53,5 @@
 | * Az Európai Pénzügyi Stabilitási Mechanizmus keretében a támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra. |  |
 
 | A 3.1.2. és a 3.1.3 konstrukció 1,14 Mrd Ft túlvállalást tartalmaz. |  |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
