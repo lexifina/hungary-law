@@ -1,0 +1,139 @@
+# A Kormány 1485/2014. (VIII. 28.) Korm. határozata
+
+Magyar Közlöny 2014. évi 117. szám, 2014. augusztus 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4dba6ed014a2614e0561691236760ec483040d8a/dokumentumok/f2f859fca384b7b09a84592931926e1b4469dec5/letoltes)
+
+---
+
+A Kormány 1485/2014. (VIII. 28.) Korm. határozata
+az ENSZ Közgyűlésének 69. ülésszakán való magyar részvételről
+A Kormány
+1. jóváhagyja – az 1. melléklet szerint – az ENSZ Közgyűlésének 69. ülésszakán részt vevő magyar küldöttség
+tevékenységének irányelveit;
+2. felhatalmazza a külgazdasági és külügyminisztert, hogy az ENSZ Közgyűlésének 69. ülésszakán részt vevő magyar
+küldöttség vezetőjének és tagjainak megbízásáról előterjesztést tegyen Magyarország köztársasági elnökének.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1485/2014. (VIII. 28.) Korm. határozathoz
+Irányelvek az ENSZ Közgyűlésének 69. ülésszakán részt vevő magyar küldöttség tevékenységéhez
+Az ENSZ Közgyűlésének 69. ülésszakán a magyar küldöttség feladata, hogy a kormány céljaival, valamint az Európai
+Unió 69. ENSZ-közgyűlési prioritásaival összhangban, a magyar nemzeti érdekeket érvényesítve tevékenykedjen.
+Az Európai Unió tagállamai – a korábbi évekhez hasonlóan – az Európai Unió prioritásai az ENSZ Közgyűlésének
+69. ülésszakára címmel fogadtak el tanácsi következtetéseket.
+1. A küldöttség az ENSZ szerepével kapcsolatban hangsúlyozza, hogy Magyarország az Egyesült Nemzetek
+Szervezetét tekinti a nemzetközi kapcsolatok alapvető és meghatározó multilaterális keretének a globalizáció
+összetett és ellentmondásos jelenségeinek kezelésére, továbbá a hagyományos, valamint a XXI. század újszerű
+biztonságpolitikai, humanitárius, emberi jogi, gazdasági és környezetvédelmi kihívásainak megoldására.
+2. A küldöttség a béke és biztonság területén
+a) emelje ki a nemzetközi válságok megelőzését szolgáló preventív diplomácia és a mediáció alkalmazásának
+szükségességét és támogassa az ENSZ képességeinek megerősítését ezeken a területeken, támogassa a viták
+békés rendezésére irányuló törekvéseket;
+b) kísérje figyelemmel és támogassa a 2005. évi csúcstalálkozó záródokumentumában létrehozott védelmi
+felelősség elvének továbbfejlesztését és gyakorlati megvalósítását, különös tekintettel a megelőzésre;
+c) támogassa az ENSZ békefenntartási tevékenysége számára nyújtott tagállami hozzájárulások optimális
+felhasználását, a békefenntartó és különleges politikai missziók hatékony működését;
+d) támogassa az ENSZ békeépítési tevékenységének hatékonyabbá tételét, különös tekintettel az ENSZ
+Biztonsági Tanácsa és a Békeépítési Bizottság közötti együttműködés megerősítésére;
+e) támogassa a jogállamiság – mint a nemzetközi béke és biztonság fenntartása kulcselemének – erősítését
+annak minden dimenziójában, valamint az ENSZ-közgyűlés 67. ülésszakán a jogállamisággal kapcsolatos
+magas szintű fórum által elfogadott nyilatkozatban foglaltak végrehajtását;
+f) támogassa a Nemzetközi Büntetőbíróság (ICC) működését, a Biztonsági Tanács és az ICC együttműködésének
+erősítését, valamint a Biztonsági Tanácsnak a nemzetközi büntető-igazságszolgáltatás előmozdításában
+játszott szerepét;
+g) támogassa a nők ellen elkövetett erőszakkal szembeni küzdelmet, ennek részeként a nők, béke és biztonság
+témakörében elfogadott közgyűlési határozatok végrehajtását, különös tekintettel a nők békefolyamatban
+való részvételére és konfliktushelyzetben való védelmére vonatkozó határozatra;
+
+h) támogassa a fegyveres konfliktusokban érintett gyermekek védelmének növelésére irányuló intézkedéseket,
+valamint a „Gyermekek, nem katonák” címmel a fegyveres konfliktusokban érintett gyermekekért szervezett
+kampányt;
+i) folytassa aktív szerepvállalását a globális kihívások – nemzetközi terrorizmus, határokon átnyúló szervezett
+bűnözés, illegális kábítószer-kereskedelem, korrupció, pénzmosás, emberkereskedelem – elleni küzdelem
+területén meglévő nemzetközi együttműködésben;
+j) támogassa az ENSZ leszerelési mechanizmusának megfelelő működését célzó törekvéseket, ezen belül
+a genfi Leszerelési Értekezlet érdemi munkájának újraindítását, a fegyverkereskedelmi szerződés mielőbbi
+hatálybalépését és egyetemessé tételét, az Átfogó Atomcsend Szerződés (CTBT) mielőbbi hatálybalépését,
+különösen a XIV. Cikkelyes társelnöki feladatainak következetes végrehajtását, továbbá az atomsorompó-
+szerződés felülvizsgálatával foglalkozó 2015-ös konferencia sikerre vitelét, a tömegpusztító fegyverek
+(nukleáris, radiológiai, vegyi, biológiai), valamint az előállításhoz és célba juttatáshoz szükséges eszközök és
+technológiák elterjedésének megakadályozását;
+k) kísérje figyelemmel és támogassa a kiberbiztonság erősítése érdekében tett konszenzusépítési
+erőfeszítéseket;
+l) támogassa az Információs Társadalom Csúcstalálkozó (WSIS) eredményeinek végrehajtását áttekintő és
+felülvizsgáló 2015. decemberi magas szintű esemény kiegyensúlyozott, több-szereplős (multistakeholder)
+előkészítését;
+m) segítse elő a Civilizációk Szövetsége ENSZ-kezdeményezés célkitűzéseinek megvalósulását, és támogassa
+a több kultúrára kiterjedő érdemi projekteket.
+3. A küldöttség a 2015 utáni fejlesztési, illetve fenntartható fejlődési keretrendszer kidolgozásával kapcsolatosan
+a) mozdítsa elő a Rio+20 fenntartható fejlődési konferencia eredményeinek továbbvitelét és végrehajtását,
+ideértve a fenntartható fejlődési célok és a fenntartható fejlődés finanszírozásának kidolgozását;
+b) támogassa a Millenniumi Fejlesztési Célok 2015-ig történő végrehajtását, a 2013. szeptemberi MDG
+különleges találkozó eredményeinek továbbvitelét;
+c) támogassa az egységes, átfogó 2015 utáni fejlesztési, illetve fenntartható fejlődési keretrendszer kialakítására
+irányuló folyamatokat, szem előtt tartva, hogy a keretrendszer kidolgozására irányuló releváns eljárásokat
+egyetlen koherens folyamatba kell integrálni;
+d) támogassa a 2015–2030 közötti időszakra vonatkozó fenntartható fejlődési keretrendszer kidolgozására
+irányuló kormányközi tárgyalások előkészítését;
+e) segítse elő az ENSZ Nyílt Munkacsoportja által magyar és kenyai vezetéssel kidolgozott fenntartható fejlődési
+célok minél tágabb körű elfogadását; külön hangsúlyt fektetve a vízzel kapcsolatos célkitűzésre, a 2013
+októberében megrendezett Budapesti Víz Világtalálkozó eredményeire és a világtalálkozó kapcsán az önálló
+víztémájú fenntartható fejlődési cél elfogadása érdekében kifejtett magyar tevékenységre tekintettel;
+f) támogassa a víz és az energia közötti kapcsolat kiegyensúlyozott megközelítését a fenntartható gazdasági,
+társadalmi és környezeti fejlődés támogatása érdekében;
+g) aktívan vegyen részt a fenntartható fejlődési kérdésekhez – különösen a magyar ország-profil kiemelt
+területeihez – kapcsolódó rendezvényeken;
+h) támogassa az ENSZ főtitkára által összehívott éghajlat-változási csúcsértekezlet céljait, ösztönözve az Európai
+Unión kívüli nagy kibocsátók kibocsátás-csökkentési vállalásait a 2015-ben elfogadni tervezett új globális jogi
+eszköz létrejötte és az Európai Unió gazdaságának versenyképessége érdekében.
+4. A küldöttség az emberi jogok, a demokrácia és a jogállamiság területén
+a) támogassa az egyetemes értékeket jelentő emberi jogok és alapvető szabadságjogok – ideértve a nemzeti
+kisebbségek jogait – nemzetközi védelmének előmozdítását, ennek keretében támogassa az ENSZ emberi
+jogi mechanizmusainak és testületei függetlenségének megerősítését, különös tekintettel az Emberi Jogi
+Tanácsra, és az általa alkalmazott különleges mechanizmusok megerősítésére;
+b) lépjen fel Magyarország nemzetközi emberi jogi szerződéses kötelezettségeivel összhangban, elősegítve
+az Európai Unió emberi jogi célkitűzéseinek végrehajtását, különösen a Magyarország számára
+kiemelten fontos területeken, úgymint az alapvető szabadságjogok tiszteletben tartása, a kisebbségek
+és őshonos népek, a nők és gyermekek, illetve a fogyatékossággal élők jogainak védelme és a hátrányos
+megkülönböztetés elleni küzdelem;
+c) hangsúlyozza, hogy a családot, mint a társadalom természetes és alapvető egységét a társadalomnak és
+az államnak védelemben kell részesítenie és meg kell erősítenie;
+
+d) kezelje kiemelt prioritásként az EU és hasonlóan gondolkodó partnerei kezdeményezéseiben való részvételt
+és azok támogatását, különös tekintettel az egyes országok emberi jogi helyzetével és tematikus kérdésekkel
+foglalkozó határozatokra;
+e) kezdeményezze a nemzetközi közösség hatékony és időben történő fellépését az emberi jogok megsértőivel
+szemben, támogassa az emberi jogok védelmezőit;
+f) támogassa kiemelten a fenntartható fejlődési célokhoz kapcsolódó emberi jogokat;
+g) hangsúlyozza a humanitárius jog maradéktalan tiszteletben tartását a humanitárius segítségnyújtás
+terén, beleértve a segítségnyújtást végző nemzetközi és nem kormányzati szervezetek és munkatársak
+helyszínre jutását, tevékenységük zavartalan biztosítását, támogassa a nemzetközi humanitárius rendszer
+megerősítésére, a humanitárius alapelvek és a vonatkozó nemzetközi jogi szabályozás előmozdítására
+irányuló törekvéseket;
+h) járuljon hozzá a 2016. évi globális humanitárius csúcstalálkozó inkluzív előkészítéséhez;
+i) törekedjen együttműködésre a hazai és nemzetközi civil szervezetek képviselőivel a magyarországi emberi
+jogi helyzetet és érdekeket érintő kérdésekben;
+j) kísérje figyelemmel a Demokráciák Közösségével kapcsolatos kérdéseket.
+5. A küldöttség az Egyesült Nemzetek Szervezete reformjával és működésével kapcsolatban
+a) kísérje figyelemmel az ENSZ Biztonsági Tanácsának kibővítésére és munkamódszereinek átalakítására
+vonatkozó javaslatok alakulását, a 2009 februárjában megkezdődött kormányközi tárgyalások folyamatát
+és eredményeit, folytassa a Biztonsági Tanács munkamódszereinek javítására és működésének átláthatóbbá
+tételére irányuló együttműködésben való részvételt;
+b) jelezze, hogy a megújuló Biztonsági Tanácsnak meg kell felelnie a XXI. század új geopolitikai és gazdasági
+realitásainak, így taglétszámának és összetételének tükröznie kell a nemzetközi politikai és gazdasági
+erőviszonyokban bekövetkezett változásokat, egyszersmind tekintettel kell lennie a hatékonyság
+követelményére is;
+c) erősítse meg, hogy a világszervezet irányításának reformja, a Közgyűlés revitalizációja, és az ENSZ
+fenntartható fejlődési és környezetvédelmi rendszerének reformja tekintetében Magyarország továbbra is
+hozzá kíván járulni a folyamat előreviteléhez;
+d) az ENSZ finanszírozásának fenntarthatósága érdekében – összhangban az EU prioritásaival – igyekezzen
+napirenden tartani a jelenlegi tagdíjaknak az elmúlt időszak világgazdasági változásait nem tükröző
+elosztását eredményező tagdíjskála felülvizsgálatának kérdését.
+6. A küldöttség Magyarország jelöléseivel kapcsolatban
+a) használja fel az ENSZ-közgyűlés fórumait, valamint a Közgyűlés margóján létrejövő két- és többoldalú magas
+szintű találkozókat Magyarország ENSZ-szervekbe benyújtott jelölései támogatottságának felmérésére és
+növelésére, továbbá egyes ENSZ-szervezetek, intézmények vezetői posztjaira benyújtott magyar jelölések
+sikerének előmozdítására;
+b) fordítson külön figyelmet hazánk két kiemelt jelölésére: Kovács Péter jelölésére a Nemzetközi Büntetőbíróság
+(ICC) bírói posztjára a 2014. decemberi választások során, valamint Magyarország pályázatára az Emberi
+Jogi Tanácsba a 2017–2019-es időszakra. A kétoldalú megbeszélések során a partnerrel való kapcsolataink
+függvényében a delegáció kérje a fenti jelölések támogatását, illetve a már megkötött támogatási
+megállapodások megerősítését.
