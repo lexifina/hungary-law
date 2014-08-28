@@ -1,0 +1,1 @@
+## „22. Üzemeltetési egyensúlyozási számla: a szállítási rendszerüzemeltető és az erre vonatkozó együttműködési megállapodást aláíró közötti dokumentum, amely a napi mért és a rendszerhasználókkal elszámolt energiamennyiség-különbséget a vonatkozó rendszerhasználati szabályoknak megfelelő fizikai mértékegységben naponta és göngyölítve tartalmazza,”

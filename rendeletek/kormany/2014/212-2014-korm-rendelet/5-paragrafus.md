@@ -1,0 +1,1 @@
+## „(7) A rendszerüzemeltető – a fejlesztési javaslat GET 82. § (4) bekezdés szerinti felülvizsgálatát megelőzően – jogosult a Hivatalt előzetesen tájékoztatni a 10 éves hálózatfejlesztési terv jóváhagyását követően felmerült vagy módosult fejlesztési igényről.”
