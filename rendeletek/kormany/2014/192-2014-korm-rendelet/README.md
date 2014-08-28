@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-192-20-
 | --- | --- | --- |
 | 2014-07-31 | 2014-192-20-22.1 | 192/2014. (VII. 31.) Korm. rendelet |
 | 2014-08-01 | 2014-192-20-22.2 | 2010: CXXX. törvény |
+| 2014-08-28 | 2014-192-20-22.3 | 214/2014. (VIII. 27.) Korm. rendelet |
