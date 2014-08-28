@@ -1,1 +1,0 @@
-## 22. § Elszámolt költségként kizárólag a támogatás iránti kérelem visszaigazolását követően felmerült költségek számolhatóak el, figyelemmel a támogatási szerződésben egyedileg meghatározott költség-kategóriákra.

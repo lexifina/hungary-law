@@ -1,1 +1,0 @@
-## 20. § A támogatás iránti kérelem benyújtható a beruházó kapcsolt vállalkozása által is, amennyiben a beruházás megvalósítására és a támogatás igénybevételére az e rendelet szabályai szerint támogatásban részesíthetők körébe tartozó vállalkozást kíván létrehozni.

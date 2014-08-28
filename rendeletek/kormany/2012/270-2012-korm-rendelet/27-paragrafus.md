@@ -1,3 +1,0 @@
-27. § (1) A Kormány döntése alapján a beruházó javára és a támogatás forrását képező előirányzat terhére a támogató, a támogatás nyújtásának konkrét feltételeiről történt megegyezést követően támogatási szerződést köt a beruházóval, amelyet a szakmai ellenjegyző ellenjegyez, és amelynek egyedi feltételeit a Kormány a 26. § (1) bekezdése szerinti döntésében meghatározott feltételek keretein belül jogosult meghatározni.
-
-(2) A megkötött támogatási szerződéssel kapcsolatos valamennyi jogi aktus, különös tekintettel annak módosítására, valamint bármilyen okból történő megszüntetésére, a támogató és a szakmai ellenjegyző közös döntésével történhet.
