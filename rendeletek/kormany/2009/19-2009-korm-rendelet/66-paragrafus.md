@@ -1,3 +1,3 @@
-66. §[^228]
+66. §[^229]
 
-[^228]: A Vhr. 66. §-át a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
+[^229]: A Vhr. 66. §-át a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.

@@ -4,7 +4,7 @@
 
 (3) Kereskedőváltás esetén a felhasználó vagy a vele szerződést kötő új földgázkereskedő a gázév végéig köteles a korábbi földgázkereskedő által az ellátása érdekében a rendszerüzemeltetőknél lekötött és a szerződés megszűnését követően ismételten rendelkezésére bocsátott kapacitást – a (4) bekezdés szerinti eltéréssel – lekötni. A szállítói és elosztói kapacitás esetében a kapacitásdíjat a gázév végéig, tárolási kapacitás esetében a tárolási év végéig időarányosan kell megfizetni.
 
-(4)[^111] A felhasználóval szerződést kötő új földgázkereskedő a (3) bekezdés szerinti kereskedőváltás esetében részben vagy egészben megtagadhatja a szállítói betáplálási, betároláshoz tartozó szállítási kiadási, illetve tárolói kapacitás átvételét és lekötését.
+(4)[^114] A felhasználóval szerződést kötő új földgázkereskedő a (3) bekezdés szerinti kereskedőváltás esetében részben vagy egészben megtagadhatja a szállítói betáplálási, betároláshoz tartozó szállítási kiadási, illetve tárolói kapacitás átvételét és lekötését.
 
 (5) A (4) bekezdés alkalmazása esetén a földgáz rendszerhasználati díjakat
 
@@ -16,4 +16,4 @@ fizeti meg. Az új földgázkereskedő által át nem vett és le nem kötött k
 
 (6) A felhasználó vagy az érintett földgázkereskedő a kereskedőváltás miatti kapacitásátadási egyeztetések meghiúsulása esetén írásban kérelmet nyújthat be a Hivatalhoz. A kérelemhez mellékelni kell az érintett rendszerüzemeltetővel és a földgázkereskedővel folytatott – az egyeztetés lényeges dokumentumait tartalmazó – levelezést, valamint a kérdéses kapacitásra vonatkozó igény megalapozottságának igazolását. Az engedélyesek kötelesek az eljárásról szóló értesítésben megjelölt határidőben a Hivatal által kért tájékoztatást megadni, a kapacitás átadásának elutasítását megindokolni. A Hivatal 15 napon belül dönt a kérelem tárgyában.
 
-[^111]: A Vhr. 26/B. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^114]: A Vhr. 26/B. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 41. §-ával megállapított szöveg.

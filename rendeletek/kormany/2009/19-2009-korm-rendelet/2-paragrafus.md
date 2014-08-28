@@ -1,6 +1,6 @@
 ## (A GET 6–7. §-ához)
 
-## Rendszerirányítás[^21]
+## Rendszerirányítás[^23]
 
 2. § (1) A rendszerirányítási feladatokat ellátó szállítási rendszerüzemeltetőnek a szállítási rendszerüzemeltetőre előírtakon túlmenően:
 
@@ -24,4 +24,4 @@ bc) a rendszerüzemeltetők hozzáférhessenek a saját adataikhoz, valamint a k
 
 (3) A rendszerirányítási feladatokat és azok végzésének kötelezettségét a Hivatal – a GET-ben maghatározottakkal összhangban – a szállítási rendszerüzemeltető engedélyében írja elő. A Hivatal a rendszerirányítási feladatok változása miatt a szállítási rendszerüzemeltetői működési engedélyt hivatalból módosíthatja.
 
-[^21]: A Vhr. „Rendszerirányítás” alcíme (Vhr. 2. §) a 75/2011. (V. 2.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^23]: A Vhr. „Rendszerirányítás” alcíme (Vhr. 2. §) a 75/2011. (V. 2.) Korm. rendelet 13. §-ával megállapított szöveg.

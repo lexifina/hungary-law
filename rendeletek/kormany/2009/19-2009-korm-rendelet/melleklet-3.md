@@ -150,7 +150,7 @@
 
 ## b) 100%-a, ha az egyetemes szolgáltató érdekkörében felmerült okból a visszakapcsolásra a felhasználó tartozásának rendezését követő 72 óránál később kerül sor.
 
-## 8.6.[^538] Nem hivatkozhat a szállítási rendszerüzemeltető és a földgázelosztó a felhasználónak a fogyasztásmérő-berendezés állagmegóvásával kapcsolatos kötelezettsége megszegésére, ha a fogyasztásmérő-berendezés nem a felhasználó kizárólagos őrizetében van vagy annak felszerelése, felhasználó részére történt átadása során nem a jogszabályokban és az üzletszabályzatban foglaltak szerint jártak el.
+## 8.6.[^546] Nem hivatkozhat a szállítási rendszerüzemeltető és a földgázelosztó a felhasználónak a fogyasztásmérő-berendezés állagmegóvásával kapcsolatos kötelezettsége megszegésére, ha a fogyasztásmérő-berendezés nem a felhasználó kizárólagos őrizetében van vagy annak felszerelése, felhasználó részére történt átadása során nem a jogszabályokban és az üzletszabályzatban foglaltak szerint jártak el.
 
 3. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez
 
@@ -164,7 +164,7 @@ a) az együttműködő földgázrendszer szereplői,
 
 b) együttműködési szerződések, az engedélyesek és a hozzáférésre jogosultak közötti együttműködés rendje,
 
-c)[^539] a szállítási rendszerirányító és a külföldi rendszerirányító kapcsolatai.
+c)[^547] a szállítási rendszerirányító és a külföldi rendszerirányító kapcsolatai.
 
 2. Az együttműködő földgázrendszer részletes leírása:
 
@@ -224,7 +224,7 @@ h) a nominálás, nominálási eljárás, felosztás rendjét, elszámolások re
 
 10. A rendszerirányítás működésére vonatkozó rendelkezések keretében részletesen kell szabályozni:
 
-a)[^540] a más szállítási rendszerüzemeltetőkkel, földgázelosztói és földgáztárolói rendszerüzemeltetőkkel történő együttműködés rendjét,
+a)[^548] a más szállítási rendszerüzemeltetőkkel, földgázelosztói és földgáztárolói rendszerüzemeltetőkkel történő együttműködés rendjét,
 
 b) a rendszeregyensúlyhoz szükséges tartalék-szállító, elosztó és tároló kapacitások meghatározását,
 
@@ -240,7 +240,7 @@ b) a kapacitáslekötés időtartama.
 
 12. A kiegyensúlyozáshoz szükséges földgázforrás megtervezése, igénybevételi rendje, opciós források felhasználása, az elszámolások szabályai.
 
-13.[^541] A szállítási rendszerüzemeltető által a kiegyenlítő földgáz beszerzésének rendje.
+13.[^549] A szállítási rendszerüzemeltető által a kiegyenlítő földgáz beszerzésének rendje.
 
 14. Rendszerszintű szolgáltatások:
 
@@ -248,7 +248,7 @@ a) az informatikai platform működtetésének és használatának szabályai, a
 
 b) nominálási szabályok,
 
-c)[^542] a szállítási rendszerüzemeltető intézkedései a rendszeregyensúly érdekében,
+c)[^550] a szállítási rendszerüzemeltető intézkedései a rendszeregyensúly érdekében,
 
 d) másodlagos kapacitás-kereskedelem nyilvántartása,
 
@@ -268,7 +268,7 @@ d) külső-belső elszámolások.
 
 16. A szervezett földgázpiac működtetésére vonatkozó jogszabályok alkalmazásának részletei.
 
-17.[^543] A szerződéses szűkület kezelésére vonatkozó eljárások:
+17.[^551] A szerződéses szűkület kezelésére vonatkozó eljárások:
 
 a) a túljegyzési visszavásárlási mechanizmus alkalmazása,
 
@@ -276,9 +276,9 @@ b) a lekötött kapacitás visszaadásának és visszavételének rendje,
 
 c) a hosszú távú „használd vagy elveszíted” mechanizmus alkalmazása.
 
-[^538]: A Vhr. 2. számú melléklet 8.6. pontját a 110/2014. (IV. 1.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^539]: A Vhr. 3. számú melléklet 1. pont c) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
-[^540]: A Vhr. 3. számú melléklet 10. pont a) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
-[^541]: A Vhr. 3. számú melléklet 13. pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
-[^542]: A Vhr. 3. számú melléklet 14. pont c) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
-[^543]: A Vhr. 3. számú melléklet 17. pontját a 344/2013. (IX. 27.) Korm. rendelet 8. §-a iktatta be.
+[^546]: A Vhr. 2. számú melléklet 8.6. pontját a 110/2014. (IV. 1.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^547]: A Vhr. 3. számú melléklet 1. pont c) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
+[^548]: A Vhr. 3. számú melléklet 10. pont a) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
+[^549]: A Vhr. 3. számú melléklet 13. pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
+[^550]: A Vhr. 3. számú melléklet 14. pont c) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
+[^551]: A Vhr. 3. számú melléklet 17. pontját a 344/2013. (IX. 27.) Korm. rendelet 8. §-a iktatta be.

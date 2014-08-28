@@ -1,4 +1,4 @@
-23/B. §[^89] (1) Ha a felhasználó a felhasználási helyen a szolgáltatás igénybevételével felhagy, köteles azt legkésőbb – a (7) bekezdésben foglalt kivétellel – a felhagyás napjától számított 15 napon belül a földgázkereskedőnek az üzletszabályzatban foglaltak szerint bejelenteni és annak rendelkezései szerint eljárni.
+23/B. §[^92] (1) Ha a felhasználó a felhasználási helyen a szolgáltatás igénybevételével felhagy, köteles azt legkésőbb – a (7) bekezdésben foglalt kivétellel – a felhagyás napjától számított 15 napon belül a földgázkereskedőnek az üzletszabályzatban foglaltak szerint bejelenteni és annak rendelkezései szerint eljárni.
 
 (2) A felhasználó az (1) bekezdés szerinti bejelentés keretében a földgáz-kereskedelmi szerződést felmondja.
 
@@ -46,4 +46,4 @@ g) a felhasználó vagy a (7) bekezdés esetében a bejelentő, és az e) pont s
 
 (7) A felhasználó elhalálozása esetén az elhalálozás tényét legkésőbb annak napjától számított hat hónapon belül kell a földgázkereskedő számára bejelenteni. A bejelentésnek legalább a (4) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat kell tartalmaznia.
 
-[^89]: A Vhr. 23/B. §-át a 252/2012. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
+[^92]: A Vhr. 23/B. §-át a 252/2012. (IX. 7.) Korm. rendelet 4. §-a iktatta be.

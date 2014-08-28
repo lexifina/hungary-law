@@ -38,29 +38,33 @@
 
 16.[^10] Opciós földgáz mennyiség: a rendszerhasználó által gáznapon a szállítóvezeték adott betáplálási vagy kiadási pontjára az ÜKSZ-ben foglalt szabályok szerint felajánlott, a szállítási rendszerüzemeltető által a rendszeregyensúly megtartása érdekében igénybe vehető forrás vagy fogyasztásváltoztatási lehetőség,
 
+16a.[^11] Összekapcsolási pont: az együttműködő földgázrendszeren belül, különböző szállítási rendszerüzemeltetők által üzemeltetett szállítóvezetékek közötti üzemeltetési határ,
+
 17. Piaci árinformációs rendszer: a rendszerhasználati díjakat, valamint az egyetemes szolgáltatók negyedéves árait tartalmazó adatbázis, amelyet a Magyar Energia Hivatal (a továbbiakban: Hivatal) a honlapján közzétesz,
+
+17a.[^12] Próbaüzem: a műszaki berendezés üzembe helyezésének utolsó szakasza, amely során a megépült vagy átalakított műszaki berendezés üzemviszonyainak, műszaki-biztonsági megfelelőségének vizsgálata, ellenőrzése történik a használatbavételi engedélyezési eljárás jogerős befejezését megelőzően, és amelynek célja annak igazolása, hogy a műszaki berendezés a jogszabályokban, a hatósági határozatokban és a szabályzatokban foglalt, folyamatos és rendeltetésszerű üzemeltetésre vonatkozó követelményeknek üzemelés közben megfelel,
 
 18. Rendszerhez való hozzáférés: a szállító- és az elosztóvezeték, valamint a földgáztároló kapacitásának rendelkezésre bocsátása az azt igénybe venni kívánó rendszerhasználók számára,
 
-19.[^11]
+19.[^13] Rendszerösszekötő: olyan szállítóvezeték, amelynek kizárólagos célja a szállítóvezeték és egy szomszédos európai uniós tagállam szállítórendszerének összekapcsolása,
 
-20.[^12] Részszámla: a felhasználó részére az elszámolási időszakon belül, rendszeres időközönként statisztikai elemzéssel vagy adatszolgáltatással megállapított mennyiségről kiállított számla,
+20.[^14] Részszámla: a felhasználó részére az elszámolási időszakon belül, rendszeres időközönként statisztikai elemzéssel vagy adatszolgáltatással megállapított mennyiségről kiállított számla,
 
-21.[^13] Szabályzati Bizottság: a szállítási rendszerirányító által működtetett az ÜKSZ véleményezésére és kidolgozásának támogatására megalakított munkacsoport,
+21.[^15] Szabályzati Bizottság: a szállítási rendszerirányító által működtetett az ÜKSZ véleményezésére és kidolgozásának támogatására megalakított munkacsoport,
 
-22.[^14]
+22.[^16] Üzemeltetési egyensúlyozási számla: a szállítási rendszerüzemeltető és az erre vonatkozó együttműködési megállapodást aláíró közötti dokumentum, amely a napi mért és a rendszerhasználókkal elszámolt energiamennyiség-különbséget a vonatkozó rendszerhasználati szabályoknak megfelelő fizikai mértékegységben naponta és göngyölítve tartalmazza,
 
-23.[^15] energetikai szolgáltatás: olyan szerződés alapján nyújtott tevékenység vagy eljárás, amely egy épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás tekintetében az energiahatékonyság igazolható, mérhető vagy felbecsülhető javulásához vagy elsődleges energia-megtakarításokhoz vezet, beleértve a szolgáltatás nyújtásához szükséges üzemeltetést, karbantartást és ellenőrzést,
+23.[^17] energetikai szolgáltatás: olyan szerződés alapján nyújtott tevékenység vagy eljárás, amely egy épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás tekintetében az energiahatékonyság igazolható, mérhető vagy felbecsülhető javulásához vagy elsődleges energia-megtakarításokhoz vezet, beleértve a szolgáltatás nyújtásához szükséges üzemeltetést, karbantartást és ellenőrzést,
 
-24.[^16] energiaaudit: olyan eljárás, amelynek révén megfelelő ismereteket gyűjtenek valamely épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energia-megtakarítási lehetőségeket, és rögzíti azok eredményeit,
+24.[^18] energiaaudit: olyan eljárás, amelynek révén megfelelő ismereteket gyűjtenek valamely épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energia-megtakarítási lehetőségeket, és rögzíti azok eredményeit,
 
-25.[^17] energiahatékonyság: az energia kihozatal és a bevitt energia hányadosa,
+25.[^19] energiahatékonyság: az energia kihozatal és a bevitt energia hányadosa,
 
-26.[^18] energiahatékonyságot javító intézkedések: minden olyan intézkedés, amely az energiahatékonyság igazolható, mérhető vagy megbecsülhető növekedéséhez vezet,
+26.[^20] energiahatékonyságot javító intézkedések: minden olyan intézkedés, amely az energiahatékonyság igazolható, mérhető vagy megbecsülhető növekedéséhez vezet,
 
-27.[^19] energiahatékonyságot javító programok: a felhasználók egyes csoportjaira vonatkozó energiahatékonyságot javító intézkedések összessége,
+27.[^21] energiahatékonyságot javító programok: a felhasználók egyes csoportjaira vonatkozó energiahatékonyságot javító intézkedések összessége,
 
-28.[^20] Végszámla: a földgáz-kereskedelmi szerződés megszűnését követően mérőállás alapján kiállított számla.
+28.[^22] Végszámla: a földgáz-kereskedelmi szerződés megszűnését követően mérőállás alapján kiállított számla.
 
 (2) Az (1) bekezdésben nem szereplő fogalmakat a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) 3. §-a szerint kell értelmezni.
 
@@ -74,13 +78,15 @@
 [^8]: A Vhr. 1. § (1) bekezdés 12. pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (1) bekezdése szerint módosított szöveg.
 [^9]: A Vhr. 1. § (1) bekezdés 15. pontját a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
 [^10]: A Vhr. 1. § (1) bekezdés 16. pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (1) bekezdése szerint módosított szöveg.
-[^11]: A Vhr. 1. § (1) bekezdés 19. pontját a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
-[^12]: A Vhr. 1. § (1) bekezdés 20. pontja a 378/2011. (XII. 31.) Korm. rendelet 34. § (3) bekezdésével megállapított szöveg.
-[^13]: A Vhr. 1. § (1) bekezdés 21. pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (1) bekezdése szerint módosított szöveg.
-[^14]: A Vhr. 1. § (1) bekezdés 22. pontját a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
-[^15]: A Vhr. 1. § (1) bekezdés 23. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^16]: A Vhr. 1. § (1) bekezdés 24. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^17]: A Vhr. 1. § (1) bekezdés 25. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^18]: A Vhr. 1. § (1) bekezdés 26. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^19]: A Vhr. 1. § (1) bekezdés 27. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^20]: A Vhr. 1. § (1) bekezdés 28. pontját a 378/2011. (XII. 31.) Korm. rendelet 34. § (4) bekezdése iktatta be.
+[^11]: A Vhr. 1. § (1) bekezdés 16a. pontját a 212/2014. (VIII. 27.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^12]: A Vhr. 1. § (1) bekezdés 17a. pontját a 212/2014. (VIII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^13]: A Vhr. 1. § (1) bekezdés 19. pontját a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte, újonnan a 212/2014. (VIII. 27.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^14]: A Vhr. 1. § (1) bekezdés 20. pontja a 378/2011. (XII. 31.) Korm. rendelet 34. § (3) bekezdésével megállapított szöveg.
+[^15]: A Vhr. 1. § (1) bekezdés 21. pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (1) bekezdése szerint módosított szöveg.
+[^16]: A Vhr. 1. § (1) bekezdés 22. pontját a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte, újonnan a 212/2014. (VIII. 27.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^17]: A Vhr. 1. § (1) bekezdés 23. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^18]: A Vhr. 1. § (1) bekezdés 24. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^19]: A Vhr. 1. § (1) bekezdés 25. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^20]: A Vhr. 1. § (1) bekezdés 26. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^21]: A Vhr. 1. § (1) bekezdés 27. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^22]: A Vhr. 1. § (1) bekezdés 28. pontját a 378/2011. (XII. 31.) Korm. rendelet 34. § (4) bekezdése iktatta be.

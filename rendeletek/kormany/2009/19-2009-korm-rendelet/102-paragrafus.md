@@ -1,4 +1,4 @@
-102. §[^334] (1) Ha a felhasználók ellátása több egymáshoz kapcsolódó elosztóvezetéken keresztül történik, az elosztási szerződés megkötésére a felhasználóval közvetlen műszaki kapcsolatban álló földgázelosztó köteles.
+102. §[^341] (1) Ha a felhasználók ellátása több egymáshoz kapcsolódó elosztóvezetéken keresztül történik, az elosztási szerződés megkötésére a felhasználóval közvetlen műszaki kapcsolatban álló földgázelosztó köteles.
 
 (2) A kapcsolódó elosztóvezetékeket üzemeltető földgázelosztók kötelesek együttműködési megállapodásban rögzíteni:
 
@@ -28,6 +28,20 @@ d) a kapacitásfejlesztésnél történő eljárásokra,
 
 e) a földgázrendszerek kapcsolódási pontjainál a normál és rendkívüli üzemmenetnél követendő eljárásokra vonatkozó rendelkezéseket.
 
-(4) A (2) és (3) bekezdés alapján érintett engedélyesek az együttműködési megállapodások megkötéséért egyetemlegesen felelősek.
+(3a)[^342] Több szállítási rendszerüzemeltető esetén az együttműködési megállapodás a (3) bekezdésben meghatározottakon túl tartalmazza
 
-[^334]: A Vhr. 102. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+a) a rendelkezésre álló technikai kapacitás mértékét,
+
+b) a 92/A. § (3) bekezdés a) pontja szerinti esetben az összekapcsolási pontra vonatkozó kapacitásallokációs-eljárás során meghirdetésre kerülő kapacitásmérték meghatározásának szabályait,
+
+c) a kapacitás-túllépésre, a szagosításra, az összekapcsolási ponton történő mérésre és elszámolásra vonatkozó szabályokat,
+
+d) a nominálásra vagy együttes nominálásra, az allokálásra, valamint az egyensúlytartásra vonatkozó szabályokat, továbbá
+
+e) a 92/A. § (6) bekezdése szerinti felelősségi szabályokra vonatkozó rendelkezéseket is.
+
+(4)[^343] A (2)–(3a) bekezdés alapján érintett engedélyesek az együttműködési megállapodások megkötéséért egyetemlegesen felelősek.
+
+[^341]: A Vhr. 102. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^342]: A Vhr. 102. § (3a) bekezdését a 212/2014. (VIII. 27.) Korm. rendelet 5. §-a iktatta be.
+[^343]: A Vhr. 102. § (4) bekezdése a 212/2014. (VIII. 27.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
