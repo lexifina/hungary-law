@@ -34,6 +34,30 @@
 
 | 16. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Dunakeszi közigazgatási területén fekvő, 1690 helyrajzi számú ingatlan |
 
+| 17. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Visegrád közigazgatási területén fekvő, 88 és 84/1 helyrajzi számú ingatlan |
+
+| 18. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Dunaharaszti közigazgatási területén fekvő, 1268/2 helyrajzi számú ingatlan |
+
+| 19. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Ecser közigazgatási területén fekvő, 883 helyrajzi számú ingatlan |
+
+| 20. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Győrújbarát közigazgatási területén fekvő, 3288 helyrajzi számú ingatlan |
+
+| 21. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Vecsés közigazgatási területén fekvő, 4798 és 3432/2 helyrajzi számú ingatlan |
+
+| 22. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Biatorbágy közigazgatási területén fekvő, 112/1 helyrajzi számú ingatlan |
+
+| 23. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Solymár közigazgatási területén fekvő, 423/2 helyrajzi számú ingatlan |
+
+| 24. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Sződ közigazgatási területén fekvő, 158 helyrajzi számú ingatlan |
+
+| 25. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Telki közigazgatási területén fekvő, 722/5 helyrajzi számú ingatlan |
+
+| 26. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Mikepércs közigazgatási területén fekvő, 335 helyrajzi számú ingatlan |
+
+| 27. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Veresegyház közigazgatási területén fekvő, 26 helyrajzi számú ingatlan |
+
+| 28. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Diósd közigazgatási területén fekvő, 2541/1 helyrajzi számú ingatlan |
+
 2. melléklet a 141/2014. (IV. 30.) Korm. rendelethez
 
 Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
