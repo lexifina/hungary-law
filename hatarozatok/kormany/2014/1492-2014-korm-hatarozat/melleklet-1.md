@@ -26,14 +26,8 @@
 
 ## 5. egyetért azzal, hogy a DAOP 3. prioritása esetében – a prioritás eddigi többlet-kötelezettségvállalásaira tekintettel – a későbbiekben felszabaduló források terhére új projektek támogatása céljából újabb kötelezettséget ne lehessen vállalni,
 
-## 6. úgy dönt, hogy a regionális operatív programok 2011–2013. évekre szóló akciótervei egyes prioritásainak módosításáról és a Közép-Magyarországi Operatív Program 2011–2013. évekre szóló akcióterve 1. prioritásán többletkötelezettség vállalásáról szóló 1352/2014. (VI. 26.) Korm. határozat 2. pont a) alpontjában a „DAOP 2011–2013.” szövegrész helyébe a „Dél-Alföldi Operatív Program (a továbbiakban: DAOP) 2011–2013.” szöveg lép,
-
-## 7. visszavonja
-
-## a) a regionális operatív programok 2011–2013. évekre szóló akcióterveinek módosításáról és a Nyugat-Dunántúli Operatív Program 5. prioritás keretének növeléséről szóló 2057/2013. (XII. 31.) Korm. határozat 2. mellékletét,
-
-## b) a Dél-Alföldi Operatív Program 2011-2013. évekre szóló akcióterve 3. prioritásának módosításáról és a prioritás keretének növeléséről szóló 1142/2014. (III. 14.) Korm. határozatot,
-
-## c) a regionális operatív programok 2011–2013. évekre szóló akciótervei egyes prioritásainak módosításáról és a Közép-Magyarországi Operatív Program 2011-2013. évekre szóló akcióterve 1. prioritásán többletkötelezettség vállalásáról szóló 1352/2014. (VI. 26.) Korm. határozat 1. pont a) alpontját, továbbá 1. és 2. mellékletét.
+## 6–7.[^1]
 
 1. melléklet az 1492/2014. (VIII. 28.) Korm. határozathoz
+
+[^1]: A 6–7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
