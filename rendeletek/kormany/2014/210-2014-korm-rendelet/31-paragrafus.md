@@ -2,4 +2,6 @@
 
 ## 19. Hatályon kívül helyező rendelkezések
 
-31. § Hatályát veszti a Kormány egyedi döntéseivel megítélhető regionális beruházási támogatás szabályairól és a Beruházás ösztönzési célelőirányzat felhasználásának szabályairól szóló 270/2012. (IX. 25.) Korm. rendelet.
+31. §[^1]
+
+[^1]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
