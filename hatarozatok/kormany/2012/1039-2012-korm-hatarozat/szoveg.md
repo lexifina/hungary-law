@@ -20,37 +20,49 @@ g) elősegítse az emberi jogok magyarországi érvényesülésével kapcsolatos
 
 a) a Belügyminisztérium parlamenti államtitkára,
 
-b) az Emberi Erőforrások Minisztériuma (a továbbiakban: EMMI) egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkára,
+b) az Emberi Erőforrások Minisztériumának
 
-c) az EMMI társadalmi felzárkózásért felelős államtitkára,
+ba) egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkára,
 
-d) az EMMI szociális, család- és ifjúságügyért felelős államtitkára,
+bb) szociális ügyekért és társadalmi felzárkózásért felelős államtitkára,
 
-e) az EMMI egészségügyért felelős államtitkára,
+bc) család- és ifjúságügyért felelős államtitkára,
 
-f) az EMMI oktatásért felelős államtitkára,
+bd) egészségügyért felelős államtitkára,
 
-g) a Honvédelmi Minisztérium parlamenti államtitkára,
+be) köznevelésért felelős államtitkára,
 
-h) a Közigazgatási és Igazságügyi Minisztérium (a továbbiakban: KIM) igazságügyért felelős államtitkára,
+c) a Honvédelmi Minisztérium parlamenti államtitkára,
 
-i)[^2] a KIM társadalmi kapcsolatokért felelős államtitkára,
+d) az Igazságügyi Minisztérium
 
-j) a Külügyminisztérium (a továbbiakban: KÜM) parlamenti államtitkára,
+da) parlamenti államtitkára,
 
-k) a KÜM EU ügyekért felelős államtitkára és
+db) európai uniós és nemzetközi igazságügyi együttműködésért felelős államtitkára,
 
-l) a Nemzetgazdasági Minisztérium foglalkoztatáspolitikáért felelős államtitkára,
+e) a Külgazdasági és Külügyminisztérium
 
-m)[^3] a Vidékfejlesztési Minisztérium környezetügyért felelős államtitkára.
+ea) parlamenti államtitkára,
+
+eb) európai uniós ügyekért felelős államtitkára,
+
+ec) biztonságpolitikáért és nemzetközi együttműködésért felelős államtitkára,
+
+f) a Nemzetgazdasági Minisztérium szakképzésért és munkaerőpiacért felelős államtitkára, és
+
+g) a Földművelésügyi Minisztérium környezetügyért, agrárfejlesztésért és hungarikumokért felelős államtitkára.
 
 4. A Munkacsoport tagjai Munkacsoportban végzett tevékenységükért tiszteletdíjban nem részesülnek.
 
-5. A Munkacsoport tagjait az általuk kijelölt, az irányításuk alá tartozó helyettes államtitkár vagy főosztályvezető jogállású kormánytisztviselő helyettesítheti.
+5.[^2] A Munkacsoport tagját
 
-6.[^4] A Munkacsoport elnöke a KIM társadalmi kapcsolatokért felelős államtitkára, a Munkacsoport alelnöke a KIM igazságügyért felelős államtitkára.
+a) ugyanazon minisztérium másik államtitkára vagy
 
-7.[^5] A Munkacsoport elnöke a Munkacsoport ülésére tanácskozási joggal, eseti jelleggel meghívhat a Munkacsoport feladatkörét érintő tevékenységet végző
+b) a Munkacsoport tagjának irányítása alá tartozó, általa kijelölt helyettes államtitkár helyettesítheti.
+
+6.[^3] A Munkacsoport elnöke az Igazságügyi Minisztérium parlamenti államtitkára, a Munkacsoport alelnöke az Igazságügyi Minisztérium európai uniós és nemzetközi igazságügyi együttműködésért felelős államtitkára.
+
+7.[^4] A Munkacsoport elnöke a Munkacsoport ülésére tanácskozási joggal, eseti jelleggel meghívhat a Munkacsoport feladatkörét érintő tevékenységet végző
 
 a) állami vezetőt,
 
@@ -58,7 +70,7 @@ b) alkotmányos szerv képviselőjét, és
 
 c) központi államigazgatási szerv vezetőjét.
 
-8. A Munkacsoport szükség szerint, de negyedévente legalább egy alkalommal tart ülést. A Munkacsoport ülését a Munkacsoport elnöke hívja össze és vezeti, a Munkacsoport ülése vezetésében a Munkacsoport elnökét a Munkacsoport alelnöke helyettesíti. A Munkacsoport rendkívüli ülésének összehívását a Munkacsoport bármely tagja az indok egyértelmű megjelölésével kezdeményezheti a Munkacsoport elnökénél. A Munkacsoport ülése összehívásáról ebben az esetben a Munkacsoport elnöke dönt.
+8.[^5] A Munkacsoport szükség szerint, de félévente legalább egy alkalommal tart ülést. A Munkacsoport ülését a Munkacsoport elnöke hívja össze és vezeti, a Munkacsoport ülése vezetésében a Munkacsoport elnökét a Munkacsoport alelnöke helyettesíti. A Munkacsoport rendkívüli ülésének összehívását a Munkacsoport bármely tagja az indok egyértelmű megjelölésével kezdeményezheti a Munkacsoport elnökénél. A Munkacsoport ülése összehívásáról ebben az esetben a Munkacsoport elnöke dönt.
 
 9. A Munkacsoport működésének részletes szabályait ügyrendjében állapítja meg.
 
@@ -80,13 +92,14 @@ cb) civil szervezetek, érdekképviseleti szervezetek és szakmai szervezetek k�
 
 13. Az Emberi Jogi Kerekasztal működésének részletes szabályait ügyrendjében állapítja meg.
 
-14. A Munkacsoport és az Emberi Jogi Kerekasztal működésével összefüggő szakmai előkészítő és adminisztratív feladatok ellátásáról – a Munkacsoport alelnöke irányításával működő titkárság biztosításával – a KIM gondoskodik.
+14.[^7] A Munkacsoport és az Emberi Jogi Kerekasztal működésével összefüggő szakmai előkészítő és adminisztratív feladatok ellátásáról – a Munkacsoport elnöke irányításával működő titkárság biztosításával – az Igazságügyi Minisztérium gondoskodik.
 
 15. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 3. pont az 1147/2012. (V. 11.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 3. pont i) alpontja az 1490/2012. (XI. 13.) Korm. határozat 2. pontjával megállapított szöveg.
-[^3]: A 3. pont m) alpontját az 1490/2012. (XI. 13.) Korm. határozat 1. pontja iktatta be.
-[^4]: A 6. pont az 1147/2012. (V. 11.) Korm. határozat 2. pontjával megállapított, az 1490/2012. (XI. 13.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^5]: A 7. pont az 1147/2012. (V. 11.) Korm. határozat 3. pontjával megállapított szöveg.
+[^1]: A 3. pont az 1488/2014. (VIII. 28.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 5. pont az 1488/2014. (VIII. 28.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 6. pont az 1488/2014. (VIII. 28.) Korm. határozat 3. pontjával megállapított szöveg.
+[^4]: A 7. pont az 1147/2012. (V. 11.) Korm. határozat 3. pontjával megállapított szöveg.
+[^5]: A 8. pont az 1488/2014. (VIII. 28.) Korm. határozat 4. pontjával megállapított szöveg.
 [^6]: A 11. pont c) alpontja az 1147/2012. (V. 11.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^7]: A 14. pont az 1488/2014. (VIII. 28.) Korm. határozat 5. pontjával megállapított szöveg.
