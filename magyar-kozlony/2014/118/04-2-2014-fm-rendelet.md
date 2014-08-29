@@ -1,0 +1,61 @@
+# A földművelésügyi miniszter 2/2014. (VIII. 29.) FM rendelete
+
+Magyar Közlöny 2014. évi 118. szám, 2014. augusztus 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/25005f992d483d6b944cbc11f4b4ab86bdbd5038/dokumentumok/2428d2f1010032d54ee25e56b7e50c1612320452/letoltes)
+
+---
+
+A földművelésügyi miniszter 2/2014. (VIII. 29.) FM rendelete
+a mezőgazdasági haszonállatok tartásának állatvédelmi szabályairól szóló 32/1999. (III. 31.) FVM rendelet
+módosításáról
+Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény 49. § (4) bekezdés a) pontjában kapott felhatalmazás
+alapján – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 2. pontjában meghatározott
+feladatkörömben eljárva – a következőket rendelem el:
+1. §
+A mezőgazdasági haszonállatok tartásának állatvédelmi szabályairól szóló 32/1999. (III. 31.) FVM rendelet
+(a továbbiakban: Rendelet) 14. §-a helyébe a következő rendelkezés lép:
+„14. § (1) A borjak tartására vonatkozó szabályokat az 1. számú melléklet tartalmazza.
+(2) A sertések tartására vonatkozó szabályokat a 2. számú melléklet tartalmazza.
+(3) A tojótyúkok tartására vonatkozó szabályokat a 3. számú melléklet tartalmazza.
+(4) A hízott máj előállítására vonatkozó szabályokat a 4. számú melléklet tartalmazza.
+
+(5) A tollszedésre vonatkozó szabályokat az 5. számú melléklet tartalmazza.
+(6) A mezőgazdasági haszonállatokon érzéstelenítés nélkül végezhető beavatkozásokra vonatkozó szabályokat
+a 6. számú melléklet tartalmazza.
+(7) A hústermelés céljából tartott csirkék tartására vonatkozó szabályokat a 7. számú melléklet tartalmazza.
+(8) A házinyulak nagyüzemi tartására vonatkozó szabályokat a 8. számú melléklet tartalmazza.
+(9) A szőrméjükért tenyésztett fajok tartására és szállítására vonatkozó szabályokat a 9. számú melléklet tartalmazza.
+(10) Az étkezési célra szánt halak tárolására és szállítására vonatkozó szabályokat a 10. számú melléklet tartalmazza.
+(11) A vízi szárnyasok tartásának minimális követelményeire vonatkozó szabályokat a 12. számú melléklet
+tartalmazza.”
+2. §
+A Rendelet a következő 16. §-sal egészül ki:
+„16. § A 4. számú melléklet 13. pontja, 12. számú melléklet tervezetének a műszaki szabványok és szabályok,
+valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás
+megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i
+98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.”
+3. §
+A Rendelet 4. számú melléklete az 1. melléklet szerint módosul.
+4. §
+A Rendelet a 2. melléklet szerinti 12. számú melléklettel egészül ki.
+5. §
+Ez a rendelet a kihirdetését követő harmincadik napon lép hatályba.
+ Dr. Fazekas Sándor s. k.,
+ földművelésügyi miniszter
+1. melléklet a 2/2014. (VIII. 29.) FM rendelethez
+A Rendelet 4. számú melléklete a következő 13. ponttal egészül ki:
+„13. Ösztönözni kell a töméses hízlalás állatjóléti aspektusainak tudományos vizsgálatát, valamint olyan alternatív
+módszer kidolgozását, amely képes helyettesíteni azt.”
+2. melléklet a 2/2014. (VIII. 29.) FM rendelethez
+„12. számú melléklet a 32/1999. (III. 31.) FVM rendelethez
+A vízi szárnyasok tartásának minimális követelményei
+1. Házi kacsát tilos egyedi ketrecben tartani.
+2. A libák tartása során azok életciklusának legalább 75%-ában almot vagy azzal állatjóléti szempontból egyenértékű
+alternatív technológiát kell az állatok számára biztosítani a környezet gazdagítása érdekében, és hogy az állatok
+tisztán tarthassák magukat. A biztosított anyagot szárazon, morzsalékos állapotban kell a libák tartási helyén
+elhelyezni, és cseréjéről rendszeresen gondoskodni kell.
+3. A libák tartása során azok életciklusának legalább 75%-ában
+a) úszási, fürdési lehetőséget kell az állatok számára biztosítani,
+b) lehetővé kell tenni az állatok számára, hogy a fejüket teljes egészében víz felszíne alá meríthessék, és
+a csőrükkel a testükre vizet locsolhassanak, vagy
+c) olyan alternatív technológiát kell alkalmazni, amely lehetővé teszi az állatok számára, hogy a testüket
+benedvesítsék.”
