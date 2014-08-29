@@ -18,11 +18,7 @@ az emberi erőforrások minisztere
 
 Határidő: 2013. február 28.
 
-2. felhívja a nemzeti fejlesztési minisztert a 2003–2015-ig szóló magyar közlekedéspolitikáról szóló 19/2004. (III. 26.) OGY határozattal elfogadott stratégiai dokumentum felülvizsgálatára, és a nemzeti közlekedéspolitikáról szóló hosszú távú koncepció kidolgozására;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2014. április 30.
+2.[^1]
 
 3. felhívja a belügyminisztert a társadalmi bűnmegelőzéssel, rendészettel kapcsolatos 115/2003. (X. 28.) OGY határozattal elfogadott stratégiai dokumentum felülvizsgálatára és a felülvizsgálat alapján szükséges javaslatok megtételére;
 
@@ -30,7 +26,7 @@ Felelős: belügyminiszter
 
 Határidő: 2013. június 30.
 
-4.[^1] felhívja az emberi erőforrások miniszterét, hogy az érintettek bevonásával végezze el a 45/2003. (IV. 16.) OGY határozat felülvizsgálatát, és tegyen javaslatot a családon belüli erőszak megelőzésére és hatékony kezelésére vonatkozó kormányzati koncepció kidolgozására a 60/2012. (IX. 18.) OGY határozattal összhangban;
+4.[^2] felhívja az emberi erőforrások miniszterét, hogy az érintettek bevonásával végezze el a 45/2003. (IV. 16.) OGY határozat felülvizsgálatát, és tegyen javaslatot a családon belüli erőszak megelőzésére és hatékony kezelésére vonatkozó kormányzati koncepció kidolgozására a 60/2012. (IX. 18.) OGY határozattal összhangban;
 
 Felelős: az emberi erőforrások minisztere
 
@@ -48,7 +44,7 @@ Felelős: belügyminiszter
 
 Határidő: 2013. augusztus 31.
 
-7.[^2] felhívja a belügyminisztert, hogy a Nemzeti Biztonsági Stratégia alapján dolgozza ki az irányítása alá tartozó Alkotmányvédelmi Hivatal és Nemzetbiztonsági Szakszolgálat tevékenységére vonatkozó nemzetbiztonsági stratégiát azzal, hogy a szakpolitikai stratégia tervezetét nem kell társadalmi véleményezésre bocsátani;
+7.[^3] felhívja a belügyminisztert, hogy a Nemzeti Biztonsági Stratégia alapján dolgozza ki az irányítása alá tartozó Alkotmányvédelmi Hivatal és Nemzetbiztonsági Szakszolgálat tevékenységére vonatkozó nemzetbiztonsági stratégiát azzal, hogy a szakpolitikai stratégia tervezetét nem kell társadalmi véleményezésre bocsátani;
 
 Felelős: belügyminiszter
 
@@ -138,7 +134,7 @@ az érintett miniszterek bevonásával
 
 Határidő: 2013. szeptember 30.
 
-15.[^3]
+15.[^4]
 
 16. felhívja a minisztereket, hogy saját feladatkörükben 2013. február 28-ig tárják fel a deregulálandó kormányzati stratégiai tervdokumentumokat, és tegyék meg a szükséges lépéseket azok hatályon kívül helyezésére.
 
@@ -146,6 +142,7 @@ Felelős: minden miniszter
 
 Határidő: 2013. június 30.
 
-[^1]: A 4. pont az 1103/2014. (III. 4.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^2]: A 7. pont az 1813/2013. (XI. 12.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^3]: A 15. pont a 2012: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pontot az 1486/2014. (VIII. 28.) Korm. határozat 3. pont c) alpontja hatályon kívül helyezte.
+[^2]: A 4. pont az 1103/2014. (III. 4.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^3]: A 7. pont az 1813/2013. (XI. 12.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^4]: A 15. pont a 2012: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
