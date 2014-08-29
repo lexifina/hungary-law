@@ -1,0 +1,3 @@
+## 1. § A Kormány a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 24/A. §-a alapján a Fővárosi Gázművek Zártkörűen Működő Részvénytársaságban (székhely: 1081 Budapest, II. János Pál pápa tér 20., cégjegyzékszám: 01-10-042416) a Budapest Főváros Önkormányzata tulajdonában lévő 50%-os mértékű társasági részesedést megtestesítő +1 (egy) darab „A” sorozatú részvénynek, valamint további 1 (egy) darab „B” sorozatú részvénynek az állam nevében eljáró Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság általi megszerzését közérdekből nemzetstratégiai jelentőségű összefonódásnak minősíti.
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
