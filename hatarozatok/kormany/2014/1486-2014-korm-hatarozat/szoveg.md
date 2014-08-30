@@ -26,10 +26,6 @@ Határidő: 2014. december 31.
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti
+3.[^1]
 
-a) a 2007–2013 közötti időszakban megvalósítani tervezett közlekedésfejlesztési projektek indikatív listájáról szóló 1004/2007. (I. 30.) Korm. határozat,
-
-b) a gyorsforgalmi- és a főúthálózat hosszú távú fejlesztési programjáról és nagytávú tervéről szóló 1222/2011. (VI. 29.) Korm. határozat 1. pont b) alpontja, valamint 4, 5, 6. és 7. pontja,
-
-c) a kormányzati stratégiai dokumentumok felülvizsgálatával kapcsolatos feladatokról szóló 1657/2012. (XII. 20.) Korm. határozat 2. pontja.
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
