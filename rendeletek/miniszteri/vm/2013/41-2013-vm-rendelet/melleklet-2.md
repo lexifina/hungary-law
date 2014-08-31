@@ -6016,4 +6016,4 @@ A 23. sorszámú Élelmiszeripari technikus megnevezésű szakképesítés szakm
 
 3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
 
-[^3]: A 2. melléklet a 131/2013. (XII. 23.) VM rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 2. melléklet a 131/2013. (XII. 23.) VM rendelet 4. § (2) bekezdés b) pontja, a 3/2014. (VIII. 29.) FM rendelet 1. §-a szerint módosított szöveg.
