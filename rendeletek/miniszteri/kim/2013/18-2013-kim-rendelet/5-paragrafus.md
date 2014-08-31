@@ -1,3 +1,0 @@
-5. § (1) A választás céljára biztosított pénzeszközöket számvitelileg elkülönítetten kell kezelni. A költségvetési szerv a számvitelében a pénzeszközök felhasználásáról – ezen belül a többletköltségekről és a feladatelmaradásról – feladatonként és választásonként számol el, és a tényleges pénzforgalomról (bevétel, kiadás) főkönyvében a választási feladatokkal kapcsolatos szakfeladatokon nyilvántartást vezet. A szakfeladaton meg kell jeleníteni mind a kapott támogatásértékű bevételt, mind a saját forrás terhére teljesített kiadásokat.
-
-(2) A feladattípusú elszámolást az 1. és 2. mellékletben feltüntetett normatívák tekintetében a 3. és 4. mellékletek szerint kell elkészíteni.

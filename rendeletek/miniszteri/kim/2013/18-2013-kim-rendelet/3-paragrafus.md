@@ -1,3 +1,0 @@
-3. § (1) A Nemzeti Választási Iroda (a továbbiakban: NVI) a választások pénzügyi fedezetének a helyi választási irodát (a továbbiakban: HVI) megillető részét közvetlenül a települési önkormányzat polgármesteri hivatala (közös önkormányzati hivatal esetén a közös önkormányzati hivatal) pénzforgalmi számlaszámára, a területi választási irodát (a továbbiakban: TVI) megillető részét az illetékes fővárosi, megyei önkormányzat hivatalának pénzforgalmi számlaszámára folyósítja.
-
-(2) Az NVI a választás kiadásainak fedezetére rendelkezésre álló, az 1. és 2. mellékletben meghatározott normatívák szerinti összeget utólag, a pénzügyi elszámolás elfogadását követően 10 banki napon belül folyósítja.
