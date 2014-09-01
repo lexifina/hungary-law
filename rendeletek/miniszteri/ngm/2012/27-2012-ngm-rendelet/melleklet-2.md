@@ -504,6 +504,20 @@
 
 | 250. | 249. | 31 | 582 | 06 | Zsaluzóács | Építészet |
 
+| 251. | 250. | 34 | 544 | 01 | Vájár | Gépészet |
+
+| 252. | 251. | 54 | 344 | 04 | Államháztartási ügyintéző | Közgazdaság |
+
+| 253. | 252. | 35 | 811 | 03 | Dietetikus szakács | Vendéglátás-turisztika |
+
+| 254. | 253. | 51 | 344 | 09 | Adóügyintéző | Közgazdaság |
+
+| 255. | 254. | 51 | 344 | 10 | Költségvetés-gazdálkodási ügyintéző | Közgazdaság |
+
+| 256. | 255. | 62 | 521 | 01 | Felvonóellenőr | Gépészet |
+
+| 257. | 256. | 62 | 521 | 02 | Mozgólépcső ellenőr | Gépészet |
+
 2. melléklet a 27/2012. (VIII. 27.) NGM rendelethez[^3]
 
 Az 1. sorszámú Abroncsgyártó megnevezésű szakképesítés szakmai és vizsgakövetelménye
@@ -1176,39 +1190,33 @@ A 3. sorszámú Adótanácsadó megnevezésű szakképesítés-ráépülés szak
 
 2.1. A képzés megkezdésének feltételei:
 
-2.1.1. Iskolai előképzettség: –
+2.1.1. Iskolai előképzettség: -
 
-2.1.2. Bemeneti kompetenciák: –
+2.1.2. Bemeneti kompetenciák: -
 
-2.2. Szakmai előképzettség:
+2.2. Szakmai előképzettség: 55 344 02 Államháztartási mérlegképes könyvelő, 55 344 03 Egyéb szervezeti mérlegképes könyvelő, 55 344 07 Vállalkozási mérlegképes könyvelő (Továbbiak a 7. fejezetben)
 
-55 344 02 Államháztartási mérlegképes könyvelő
+2.3. Előírt gyakorlat: 1 év (a szakmai előképzettséget követő 1 év)
 
-55 344 03 Egyéb szervezeti mérlegképes könyvelő
+2.4. Egészségügyi alkalmassági követelmények: -
 
-55 344 07 Vállalkozási mérlegképes könyvelő (Továbbiak a 7. fejezetben)
+2.5. Pályaalkalmassági követelmények: -
 
-2.3. Előírt gyakorlat: 1 év
+2.6. Elméleti képzési idő aránya: 70%
 
-2.4. Egészségügyi alkalmassági követelmények: –
+2.7. Gyakorlati képzési idő aránya: 30%
 
-2.5. Pályaalkalmassági követelmények: –
-
-2.6. Elméleti képzési idő aránya: 70 %
-
-2.7. Gyakorlati képzési idő aránya: 30 %
-
-2.8. Szintvizsga: –
+2.8. Szintvizsga: -
 
 3. PÁLYATÜKÖR
 
-3.1. A szakképesít-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
+3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
 
 |  | A | B | C |
 
 | 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítés-ráépüléssel betölthető munkakör(ök) |
 
-| 3.1.2. | 2512 | Adószakértő, szaktanácsadó | Adótanácsadó |
+| 3.1.2. | 2512 | Adótanácsadó, adószakértő | Adótanácsadó |
 
 | 3.1.3. | 1210 | Gazdasági, költségvetési szervezet vezetője (igazgató, elnök, ügyvezető igazgató) | Igazgató, elnök, ügyvezető igazgató |
 
@@ -1218,7 +1226,7 @@ A 3. sorszámú Adótanácsadó megnevezésű szakképesítés-ráépülés szak
 
 | 3.1.6. | 3652* | Adó- és illetékhivatali ügyintéző | Adó-szakelőadó |
 
-*Jellemzően felsőfokú végzettséggel nem rendelkező
+| * Jellemzően felsőfokú végzettséggel nem rendelkező |
 
 3.2. A szakképesítés-ráépülés munkaterületének rövid leírása:
 
@@ -1236,7 +1244,7 @@ Az adótanácsadói tevékenységek, szolgáltatások közé tartozik minden tev
 
 - a bevallásokhoz kapcsolódó számviteli feltételrendszer ellenőrzése,
 
-- a vállalkozások, egyéb szervezetek alakulásával, átalakulásával, működésével, megszűnésével kapcsolatos adótanácsadás,
+- a vállalkozások, egyéb jogi és nem jogi személyek alakulásával, átalakulásával, működésével, megszűnésével kapcsolatos adótanácsadás,
 
 - a vállalkozás egészére vagy egyes részterületére, ügyleteire irányuló ellenőrzési, adótervezési feladatok végzése,
 
@@ -1266,7 +1274,7 @@ A szakképesítés-ráépüléssel rendelkező képes:
 
 - a gyakorlatban visszatérően előforduló típuseseteket, szakmai iránymutatásokban tárgyalt eseteket illetően külső segítség nélkül teljes körűen átlátni az adókötelezettségeket, tanácsot adni a követendő magatartást illetően, segítséget nyújtani a döntéshozatalhoz,
 
-- ellenőrizni és felügyelni az adókötelezettségek teljesítését, képviselni a megbízót a feladatköréhez kapcsolódó ellenőrzési eljárások során, ismerni az ellenőrzés módszereit és menetét, tájékoztatást adni a feladatköréhez kapcsolódó ellenőrzés lehetséges jogkövetkezményeiről, a jellemző hatósági és bírósági gyakorlatról, valamint a jogorvoslati lehetőségekről;munkája során alkalmazni a hazai és az Európai Uniós tagállamokat érintő adójogot, a nemzetközi adózás alapvető szabályait, és mindezek jogi környezetét,
+- ellenőrizni és felügyelni az adókötelezettségek teljesítését, képviselni a megbízót a feladatköréhez kapcsolódó ellenőrzési eljárások során, ismerni az ellenőrzés módszereit és menetét, tájékoztatást adni a feladatköréhez kapcsolódó ellenőrzés lehetséges jogkövetkezményeiről, a jellemző hatósági és bírósági gyakorlatról, valamint a jogorvoslati lehetőségekről; munkája során alkalmazni a hazai és az Európai Uniós tagállamokat érintő adójogot, a nemzetközi adózás alapvető szabályait, és mindezek jogi környezetét,
 
 - tájékoztatást adni a külföldieket érintő hazai adózási szabályokról, illetve a külföldiek magyarországi és magyarok külföldi munkavállalásával kapcsolatos adózási kérdésekről,
 
@@ -1276,7 +1284,7 @@ A szakképesítés-ráépüléssel rendelkező képes:
 
 - felhasználni munkájában a vállalkozások mérlegének, eredmény-kimutatásának, kiegészítő mellékletének és az üzleti jelentésének egyes elemeiről és tartalmáról rendelkezésre álló információkat,
 
-- az eszközök és források értékelésére vonatkozó számviteli előírások ismeretében feltárni, kiemelni, értékelni az adózási összefüggéseket;tevékenysége során szóban és írásban eredményesen kommunikálni környezetével, megbízóival, hatósági szakemberekkel és más tanácsadókkal,
+- az eszközök és források értékelésére vonatkozó számviteli előírások ismeretében feltárni, kiemelni, értékelni az adózási összefüggéseket; tevékenysége során szóban és írásban eredményesen kommunikálni környezetével, megbízóival, hatósági szakemberekkel és más tanácsadókkal,
 
 - költségvetési kapcsolatok ellenőrzésére jogosult szervezet alkalmazottjaként ellenőrizni az adókötelezettségek, támogatás-felhasználások jogszerűségét.
 
@@ -1306,7 +1314,7 @@ A szakképesítés-ráépüléssel rendelkező képes:
 
 |  | A | B |
 
-| 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+| 4.1. | A szakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
 
 | 4.2. | azonosító száma | megnevezése |
 
@@ -1336,7 +1344,7 @@ Iskolarendszeren kívüli szakképzésben: az 5.2. pontban előírt valamennyi m
 
 | 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
 
-| 5.2.2. | azonosító száma | megnevezés | a modulzáró vizsga vizsgatevékenysége |
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
 
 | 5.2.3. | 10766-12 | Jogi ismeretekhez kapcsolódó feladatok | szóbeli |
 
@@ -1358,11 +1366,9 @@ A modulzáró vizsga csak akkor eredményes, ha valamennyi követelménymodulhoz
 
 5.3.1. Gyakorlati vizsgatevékenység
 
-A vizsgafeladat megnevezése: Közvetlen és közvetett adózási feladatok számítógépen
+A vizsgafeladat megnevezése: Elektronikus adóbevallás készítése. A gyakorlati vizsgatevékenység a szakképesítésért felelős miniszter által kiadott és a honlapján közzétett Útmutató alapján kerül lebonyolításra. Az útmutató tartalmazza, hogy milyen módon kell a vizsgázók vizsgafeladatainak megoldásait rögzíteni.
 
-A gyakorlati vizsgatevékenység a szakképesítésért felelős miniszter által kiadott és a honlapján közzétett Útmutató alapján kerül lebonyolításra.
-
-A vizsgafeladat ismertetése: A feladatsor a Közvetlen adózási feladatok és a Közvetett adózási feladatok szakmai követelményei megadott témaköreinek mindegyikét tartalmazhatja.
+A vizsgafeladat ismertetése: Megadott feltételek alapján adóbevallás készítése adóbevallást kitöltő szoftver alkalmazásával. A feladat a Közvetlen adózási feladatok és a Közvetett adózási feladatok szakmai követelményei megadott témaköreinek mindegyikét tartalmazhatja.
 
 A vizsgafeladat időtartama: 30 perc
 
@@ -1392,43 +1398,49 @@ A vizsgafeladat aránya: 70%
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
 
-A modulzáró vizsgatevékenységek szervezésére, lebonyolítására és az értékelésre vonatkozó szabályokat a szakképesítésért felelős miniszter a http://www.kormany.hu/hu/nemzetgazdasagi-miniszterium/ado-es-penzugyekert-felelos-allamtitkarsag/hirek/penzugyi-agazati-szakkepzesi-es-szabalyozott-szakmak című honlapján közzéteszi.
+A modulzáró vizsgatevékenységek szervezésére, lebonyolítására és az értékelésre vonatkozó szabályokat a szakképesítésért felelős miniszter a honlapján közzéteszi.
 
 A modulzáró vizsga vizsgatevékenységének szabályszerűségét a vizsgabizottság egy tagja utólag, de legfeljebb a komplex szakmai vizsga megkezdése előtti 5. napig ellenőrizheti.
 
-A gyakorlati vizsgatevékenységet az első napon kell lebonyolítani, a vizsgatevékenységek vizsgaidőpontjai tekintetében a szakképesítésért felelős miniszter honlapján közreadott vizsganaptára az irányadó.
+A gyakorlati vizsgatevékenységet a szóbeli vizsgatevékenységgel együtt kell lebonyolítani.
+
+A vizsgatevékenységek vizsgaidőpontjai tekintetében a szakképesítésért felelős miniszter honlapján közreadott vizsganaptár az irányadó.
 
 A szakképesítésért felelős miniszter a szakmai vizsga megkezdése előtt legalább 30 nappal a honlapján mindenki által hozzáférhető módon közzéteszi a szóbeli tételsorokat.
 
 A szakmai vizsgán kizárólag a szakképesítésért felelős miniszter honlapján közzétett segédeszközök használhatóak.
 
-A szakképesítés-ráépüléssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján is elérhetők a Szak- és felnőttképzés Vizsgák menüpontjában.
-
 5.5 A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai:
 
-A gyakorlati vizsgatevékenység csak akkor eredményes, ha a vizsgázó a Közvetlen adózási feladatokat és a Közvetett adózási feladatokat külön-külön legalább 60%-os szinten teljesíti.
+A gyakorlati vizsgatevékenységhez rendelt vizsgafeladat csak akkor eredményes, ha a vizsgázó az elektronikus adóbevallás készítése feladatot hibátlanul teljesíti.
 
-A szóbeli vizsgatevékenység csak akkor kezdhető meg, ha a gyakorlati vizsgatevékenység során a vizsgázó legalább 60%-os teljesítményt ért el.
+A szóbeli vizsgatevékenység csak akkor kezdhető meg, ha a gyakorlati vizsgatevékenység vizsgafeladata eredményes.
 
-A szóbeli vizsgatevékenység csak akkor eredményes, ha a vizsgázó az adózási feladatok kapcsolódó követelményeit az adózás rendjéből, a közvetlen adózáshoz kapcsolt feladatokból, a közvetett adózási feladatokból külön-külön legalább 60%-os szinten teljesíti.
+A szóbeli vizsgatevékenység vizsgafeladata csak akkor eredményes, ha a vizsgázó az adózási feladatok kapcsolódó követelményeit az adózás rendjéből, a közvetlen adózáshoz kapcsolt feladatokat, a közvetett adózási feladatokat külön-külön legalább 60%-os szinten teljesíti.
 
-A komplex szakmai vizsga egyes vizsgatevékenységeinek érdemjegye az elért %-os teljesítmények alapján:
+A komplex szakmai vizsga egyes vizsgatevékenységeihez rendelt vizsgafeladatok érdemjegye az elért %-os teljesítmények alapján:
 
-90–100% jeles (5)
+90-100%jeles (5)
 
-80–89% jó (4)
+80-89%jó (4)
 
-70–79% közepes (3)
+70-79%közepes (3)
 
-60–69% elégséges (2)
+60-69%elégséges (2)
 
-0–59% elégtelen (1)
+0-59%elégtelen (1)
 
-Amennyiben minden vizsgatevékenység eredményes, úgy a komplex szakmai vizsga osztályzatát a vizsgatevékenységenként elért érdemjegyek vizsgafeladat arányával súlyozott átlaga alapján két tizedesre kerekítve az általános szabályok szerint (0,50-től felfelé) kell meghatározni.
+Amennyiben minden vizsgafeladat eredményes, úgy a komplex szakmai vizsga osztályzatát a vizsgafeladatonként elért érdemjegyek vizsgafeladat arányával súlyozott átlaga alapján két tizedesre kerekítve, az általános szabályok szerint (0,50-től felfelé) kell meghatározni.
 
-Sikertelen a komplex szakmai vizsga, ha annak bármelyik vizsgatevékenységének érdemjegye elégtelen (1). Sikertelen szakmai vizsga estén a teljes komplex szakmai vizsgát (a gyakorlatot és a szóbelit is) meg kell ismételni.
+Sikertelen a komplex szakmai vizsga, ha annak bármelyik vizsgatevékenységéhez rendelt vizsgafeladatának érdemjegye elégtelen (1).
 
-Felmentés esetén a beszámítás alapjául szolgáló dokumentumban az adott vizsgatevékenységhez, vizsgarészhez rendelt értékelési teljesítményt (érdemjegy, osztályzat, teljesítményszázalék) kell figyelembe venni. Teljesítményszázalék esetén az érdemjeggyé történő átváltás a komplex szakmai vizsga vizsgatevékenységének értékelési besorolása alapján történik.
+Sikertelen szakmai vizsga estén a teljes komplex szakmai vizsgát (a gyakorlatot és a szóbelit is) meg kell ismételni.
+
+Felmentés esetén a beszámítás alapjául szolgáló dokumentumban az adott vizsgafeladathoz, vizsgarészhez rendelt értékelési teljesítményt (érdemjegy, osztályzat, teljesítményszázalék) kell figyelembe venni.
+
+Teljesítményszázalék esetén az érdemjeggyé történő átváltás a komplex szakmai vizsga vizsgatevékenységeihez rendelt vizsgafeladatok értékelési besorolása alapján történik.
+
+Amennyiben a felmentést adó dokumentumokban nincs értékelési eredmény, úgy a vizsgafeladat érdemjegye közepes (megfelelt), illetve szöveges értékelés esetén a „megfelelt” közepes, a „kiválóan megfelelt” jeles érdemjeggyel egyenértékű.
 
 6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
 
@@ -1446,23 +1458,21 @@ Felmentés esetén a beszámítás alapjául szolgáló dokumentumban az adott v
 
 | 6.6. | Jogszabály gyűjtemény vagy számítógépes jogtár |
 
+| 6.7. | Adóbevallás kitöltő szoftver (ÁNYK) |
+
 7. EGYEBEK
 
 7.1. A modulzáró vizsga kötelező tartalmi elemei:
 
 10766-12 Jogi ismeretekhez kapcsolódó feladatok
 
-A vizsgafeladat ismertetése:
-
-Központi szóbeli tételsor alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
+A vizsgafeladat ismertetése: Központi szóbeli tételsor alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
 
 A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő 15 perc)
 
 10767-12 Az adózás rendje, adóigazgatási eljárás
 
-A vizsgafeladat ismertetése:
-
-Központi írásbeli feladatlap alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
+A vizsgafeladat ismertetése: Központi írásbeli feladatlap alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
 
 A vizsgafeladat időtartama: 180 perc
 
@@ -1470,11 +1480,11 @@ A vizsgafeladat időtartama: 180 perc
 
 A vizsgafeladat ismertetése:
 
-a) Központi írásbeli feladatlap alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
+A) Központi írásbeli feladatlap alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
 
 A vizsgafeladat időtartama: 180 perc
 
-b) Központi szóbeli tételsor alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
+B) Központi szóbeli tételsor alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
 
 A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő 15 perc)
 
@@ -1482,43 +1492,41 @@ A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő 15 perc)
 
 A vizsgafeladat ismertetése:
 
-a) Központi írásbeli feladatlap alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
+A) Központi írásbeli feladatlap alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
 
 A vizsgafeladat időtartama: 180 perc
 
-b) Központi szóbeli tételsor alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
+B) Központi szóbeli tételsor alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
 
 A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő 15 perc)
 
 10770-12 Egyéb adózási feladatok ellátása
 
-A vizsgafeladat ismertetése:
-
-Központi írásbeli feladatlap alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
+A vizsgafeladat ismertetése: Központi írásbeli feladatlap alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
 
 A vizsgafeladat időtartama: 180 perc
 
 10771-12 Számviteli feladatok ellátása
 
-A vizsgafeladat ismertetése:
-
-Központi írásbeli feladatlap alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
+A vizsgafeladat ismertetése: Központi írásbeli feladatlap alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
 
 A vizsgafeladat időtartama: 180 perc
 
 10772-12 Adótanácsadási tevékenység
 
-A vizsgafeladat ismertetése:
-
-Központi szóbeli tételsor alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
+A vizsgafeladat ismertetése: Központi szóbeli tételsor alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
 
 A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő 15 perc)
 
 7.2. A modulzáró vizsgatevékenységek alóli felmentés feltételei:
 
-A 10771-12 Számviteli feladatok ellátása szakmai követelménymodulhoz rendelt modulzáró vizsga írásbeli vizsgatevékenysége alól felmentést kap az aki mérlegképes könyvelő szakképesítéssel rendelkezik (vállalkozási szakon).
+A 10771-12 Számviteli feladatok ellátása szakmai követelmény modulhoz rendelt modulzáró vizsga írásbeli vizsgatevékenysége alól felmentést kap az, aki mérlegképes könyvelő szakképesítéssel rendelkezik (vállalkozási szakon), vagy 93/2002. (V. 5) Korm. rendelet alapján a nyilvántartásba vétel szempontjából mérlegképes könyvelő vállalkozási szakterületen.
 
-A 10766-12 Jogi ismeretekhez kapcsolódó feladatok szakmai követelménymodulhoz rendelt modulzáró vizsga szóbeli vizsgatevékenysége alól felmentést kap: aki állam- és jogtudományi doktori fokozattal, jogi szakokleveles közgazdász végzettséggel, vagy a jogi és igazgatási képzési terület jogász egységes, osztatlan mesterképzési szakon felsőoktatási intézményben szerzett diplomával rendelkezik.
+A 10766-12 Jogi ismeretekhez kapcsolódó feladatok szakmai követelménymodulhoz rendelt modulzáró vizsga szóbeli vizsgatevékenysége alól felmentést kap: aki állam- és jogtudományi doktori fokozattal, jogi szakokleveles közgazdász végzettséggel (oklevéllel, vagy az oklevél kibocsátásának feltételeként letett záróvizsgával), vagy a jogi és igazgatási képzési terület jogász egységes, osztatlan mesterképzési szakon felsőoktatási intézményben szerzett diplomával, vagy az oklevél kibocsátásának feltételeként letett záróvizsgával rendelkezik.
+
+Az a jelölt, aki a modulzáró vizsgák valamelyikének korábbi teljesítését hitelt érdemlően igazolja, mentesül a modulzáró vizsga ismételt teljesítésének kötelezettsége alól.
+
+A 7.7. pontban meghatározott korábbi szakmai vizsga eredményeinek beszámítása felmentésre ad jogot a hozzárendelt modulzáró vizsga adott vizsgatevékenységének vizsgafeladata alól.
 
 7.3. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
 
@@ -1528,13 +1536,29 @@ Magyar Adótanácsadók és Könyvviteli Szolgáltatók Országos Egyesülete.
 
 7.4. Korábban megszerzett szakmai előképzettség beszámítása:
 
-7.4.1.mérlegképes könyvelő (szakiránytól függetlenül) egy év gyakorlattal, vagy
+7.4.1. mérlegképes könyvelő (szakiránytól függetlenül) egy év gyakorlattal, vagy
 
 7.4.2. felsőoktatási intézményben szerzett oklevél
 
-7.4.2.1. a közgazdasági felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 4/1996. (I. 18.) Korm. rendelet alapján szerzett végzettséggel, vagy a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet gazdaságtudományok képzési területhez tartozó szakokon szerzett végzettséggel, vagy a közgazdasági felsőoktatásban folyó szakirányú továbbképzési szakok képesítési követelményeiről szóló 7/1999. (II. 1.) OM rendelet, vagy a szakirányú továbbképzés szervezésének általános feltételeiről szóló 10/2006. (IX. 25.) OKM rendelet alapján szerzett közgazdasági felsőoktatásban folyó szakirányú végzettséggel, valamint jogász, vagy igazgatásszervező végzettséggel rendelkezők esetében legalább egy év pénzügyi, vagy számviteli, vagy adóigazgatási, vagy adóoktatási területen szerzett (igazolt) gyakorlat.
+7.4.2.1. a közgazdasági felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 4/1996. (I. 18.) Korm. rendelet alapján szerzett végzettséggel (oklevéllel, vagy az oklevél kibocsátásának feltételeként letett záróvizsgával), vagy a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet gazdaságtudományok képzési területhez tartozó szakokon szerzett végzettséggel (oklevéllel, vagy az oklevél kibocsátásának feltételeként letett záróvizsgával), vagy a közgazdasági felsőoktatásban folyó szakirányú továbbképzési szakok képesítési követelményeiről szóló 7/1999. (II. 1.) OM rendelet, valamint jogász, vagy igazgatásszervező végzettséggel (oklevéllel, vagy az oklevél kibocsátásának feltételeként letett záróvizsgával) rendelkezők esetében legalább egy év pénzügyi, vagy számviteli, vagy adóigazgatási, vagy adóoktatási területen szerzett (igazolt) gyakorlat.
 
-7.4.2.2. a 7.4.2.1. pontban fel nem sorolt egyetemi/főiskolai végzettséggel rendelkezők esetében legalább három év pénzügyi, vagy számviteli, vagy adóigazgatási, vagy adóoktatási területen szerzett (igazolt) gyakorlat.
+7.4.2.2. a 7.4.2.1. pontban fel nem sorolt egyetemi vagy főiskolai végzettséggel rendelkezők esetében legalább három év pénzügyi, vagy számviteli, vagy adóigazgatási, vagy adóoktatási területen szerzett (igazolt) gyakorlat.
+
+Az igazolt gyakorlat a 2.2 pontban meghatározott szakmai előképzettség után érvényesíthető.
+
+7.5. A komplex szakmai vizsgáztatás szabályairól szóló 315/2013. (VIII. 28.) Korm. rendelettől (továbbiakban: Korm. rendelet) eltérő rendelkezések:
+
+A Korm. rendelet 22. § (1) bekezdésben meghatározottól eltérően a szakmai vizsgát az első vizsgatevékenység napját követő 90 napon belül be kell fejezni.
+
+A Korm. rendelet 35. § (6) bekezdésben meghatározottól eltérően a kijavított és értékelt írásbeli, vagy központi gyakorlati dolgozatot, az eredeti írásbeli, vagy központi gyakorlati vizsgafeladat egy példányát, a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt legalább hét nappal el kell juttatni a vizsgaelnökhöz.
+
+7.6. A teljesítményértékelés dokumentálása:
+
+A Korm. rendelet 33. § (3) bekezdése alapján a vizsgaszervező az osztályozóívet úgy vezeti, hogy abból megállapítható legyen az adott vizsgatevékenységhez rendelt vizsgafeladaton/ vizsgafeladat-részeken elért eredmény is.
+
+7.7. Korábbi szakmai vizsga beszámítása:
+
+A pénzügyminiszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 23/2008. (VIII. 8.) PM rendelet alapján megkezdett szakmai vizsgák eredményes vizsgarészeinek beszámítására vonatkozóan a szakképesítésért felelős miniszter honlapján közreadott vizsga-egyenértékűségi tábla az irányadó.
 
 A 4. sorszámú Államháztartási mérlegképes könyvelő megnevezésű szakképesítés-ráépülés szakmai és vizsgakövetelménye
 
@@ -1552,33 +1576,27 @@ A 4. sorszámú Államháztartási mérlegképes könyvelő megnevezésű szakk�
 
 2.1. A képzés megkezdésének feltételei:
 
-2.1.1. Iskolai előképzettség: –
+2.1.1. Iskolai előképzettség: -
 
-2.1.2. Bemeneti kompetenciák: –
+2.1.2. Bemeneti kompetenciák: -
 
-2.2. Szakmai előképzettség:–
+2.2. Szakmai előképzettség: 54 344 01 Pénzügyi-számviteli ügyintéző, 54 344 02 Vállalkozási- és bérügyintéző, 54 343 01 Pénzügyi termékértékesítő (bank, befektetés, biztosítás), 54 344 04 Államháztartási ügyintéző (Továbbiak a 7. fejezetben.)
 
-54 344 01 Pénzügyi-számviteli ügyintéző
+2.3. Előírt gyakorlat: -
 
-54 344 02 Vállalkozási- és bérügyintéző
+2.4. Egészségügyi alkalmassági követelmények: -
 
-54 343 01 Pénzügyi termékértékesítő (bank, befektetés, biztosítás) (Továbbiak a 7. fejezetben.)
+2.5. Pályaalkalmassági követelmények: -
 
-2.3. Előírt gyakorlat:–
+2.6. Elméleti képzési idő aránya: 60%
 
-2.4. Egészségügyi alkalmassági követelmények: –
+2.7. Gyakorlati képzési idő aránya: 40%
 
-2.5. Pályaalkalmassági követelmények: –
-
-2.6. Elméleti képzési idő aránya: 60 %
-
-2.7. Gyakorlati képzési idő aránya: 40 %
-
-2.8. Szintvizsga:–
+2.8. Szintvizsga:-
 
 3. PÁLYATÜKÖR
 
-3.1. A szakképesítés-ráépüléssellegjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
+3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
 
 |  | A | B | C |
 
@@ -1590,7 +1608,7 @@ A 4. sorszámú Államháztartási mérlegképes könyvelő megnevezésű szakk�
 
 | 3.1.4. | Főkönyvi könyvelő |
 
-| 3.1.5. | Készlet- és anyagnyilvántartó |
+| 3.1.5. | Számviteli előadó |
 
 | 3.1.6. | 3611 | Pénzügyi ügyintéző | Pénzügyi ügyintéző |
 
@@ -1618,7 +1636,7 @@ A 4. sorszámú Államháztartási mérlegképes könyvelő megnevezésű szakk�
 
 | 3.1.18. | 2521* | Szervezetirányítási elemző, szervező | Szervezetirányítási vezető |
 
-*felsőfokú végzettség megléte esetében
+| *felsőfokú végzettség megléte esetében |
 
 3.2. A szakképesítés-ráépülés munkaterületének rövid leírása:
 
@@ -1632,39 +1650,39 @@ Ellátja a számlarendhez, a könyvvezetéshez, valamint a beszámoló készít�
 
 Biztosítja a valóságnak megfelelő belső és külső információk előállítását, szolgáltatását, az elszámolások, az adatok jogszerűségének, szabályszerűségének, megbízhatóságának, bizonylatokkal való alátámasztottságát a számviteli alapelvek betartásával. Elvégzi a könyvviteli szolgáltatás körébe tartozó feladatokat az államháztartás szervezetének alkalmazottjaként.
 
-A szakképesítés-ráépülésselrendelkező képes:
+A szakképesítés-ráépüléssel rendelkező képes:
 
-- a számviteli politikát, egyéb gazdálkodási szabályzatokat elkészíteni, aktualizálni, vagy abban közreműködni
+- a számviteli politikát, egyéb gazdálkodási szabályzatokat elkészíteni, aktualizálni, vagy abban közreműködni,
 
-- a belső számviteli információs rendszert kialakítani, működtetni, továbbfejleszteni, vagy abban közreműködni
+- a belső számviteli információs rendszert kialakítani, működtetni, továbbfejleszteni, vagy abban közreműködni,
 
-- a költségvetési tervezési feladatokat ellátni, részletesen megtervezni a költségvetési bevételeket és kiadásokat, meghatározni az eredeti előirányzatot, ellátni a szükségessé váló előirányzatokat módosításokat, átadásokat
+- a költségvetési tervezési feladatokat ellátni, részletesen megtervezni a költségvetési bevételeket és kiadásokat, meghatározni az eredeti előirányzatot, ellátni a szükségessé váló előirányzatokat, módosításokat, átadásokat,
 
 - szabályszerűen kialakítani és végrehajtani a kötelezettségvállalást, pénzügyi ellenjegyzést, teljesítés igazolást, érvényesítést, utalványozási folyamatokat,
 
-- alkalmazni az adójogszabályokat, összeállítani az adóbevllást és ellátni az adóellenőrzéssel összefüggő feladatokat
+- alkalmazni az adójogszabályokat, összeállítani az adóbevallást és ellátni az adóellenőrzéssel összefüggő feladatokat,
 
-- ellátni a kincstári számlavezetéshez, hitelezéshez, finanszírozáshoz, ellenőrzéshez, információszolgáltatáshoz kapcsolódó feladatokat
+- ellátni a kincstári számlavezetéshez, hitelezéshez, finanszírozáshoz, ellenőrzéshez, információszolgáltatáshoz kapcsolódó feladatokat,
 
-- elvégezni az államháztartás szervezete tevékenységének ellátása során az adókötelezettséghez kapcsolódó feladatokat
+- elvégezni az államháztartás szervezete tevékenységének ellátása során az adókötelezettséghez kapcsolódó feladatokat,
 
-- ellátni az EU-s támogatások sikeres igénybevételéhez kapcsolódó számviteli feladatokat
+- ellátni az EU-s támogatások sikeres igénybevételéhez kapcsolódó számviteli feladatokat,
 
-- alkalmazni a sajátos értékelési előírásokat
+- alkalmazni a sajátos értékelési előírásokat,
 
-- elvégezni az államháztartás alrendszereinek és alapegységeinek féléves és éves beszámolási kötelezettségéhez kapcsolódó feladatokat
+- elvégezni az államháztartás alrendszereinek és alapegységeinek féléves és éves beszámolási kötelezettségéhez kapcsolódó feladatokat,
 
-- végrehajtani az államháztartás szervezete alapításával, átszervezésével, illetve megszüntetésével kapcsolatos feladatokat
+- végrehajtani az államháztartás szervezete alapításával, átszervezésével, illetve megszüntetésével kapcsolatos feladatokat,
 
-- ellátni a főkönyvi könyvelés és az analitikus nyilvántartások vezetéséhez kapcsolódó feladatokat
+- ellátni a főkönyvi könyvelés és az analitikus nyilvántartások vezetéséhez kapcsolódó feladatokat,
 
-- az államháztartás belső kontrollrendszert, a FEUVE rendszert, a belső ellenőrzési rendszert kialakítani, működtetni, továbbfejleszteni, vagy abban közreműködni
+- az államháztartás belső kontrollrendszert, a FEUVE rendszert, a belső ellenőrzési rendszert kialakítani, működtetni, továbbfejleszteni, vagy abban közreműködni,
 
-- a külső ellenőrök tevékenységét segíteni, ahhoz szükséges kapcsolódó dokumentumokat előállítani
+- a külső ellenőrök tevékenységét segíteni, ahhoz szükséges kapcsolódó dokumentumokat előállítani,
 
-- elláni az államháztartás alrendszereihez kapcsolódó általános elemzési feladatokat
+- ellátni az államháztartás alrendszereihez kapcsolódó általános elemzési feladatokat,
 
-- az államháztartás szervezete vagyoni, pénzügyi, jövedelmezőségi helyzetét elemezni és értékelni
+- az államháztartás szervezete vagyoni, pénzügyi, jövedelmezőségi helyzetét elemezni és értékelni.
 
 3.3. Kapcsolódó szakképesítések
 
@@ -1680,9 +1698,11 @@ A szakképesítés-ráépülésselrendelkező képes:
 
 | 3.3.5. | 54 343 01 | Pénzügyi termékértékesítő (bank, befektetés, biztosítás) | szakképesítés |
 
-| 3.3.6. | 55 344 01 | Adótanácsadó | szakképesítés-ráépülés |
+| 3.3.6. | 54 344 04 | Államháztartási ügyintéző | szakképesítés |
 
-| 3.3.7. | 55 344 04 | Ellenőrzési szakelőadó | szakképesítés-ráépülés |
+| 3.3.7. | 55 344 01 | Adótanácsadó | szakképesítés-ráépülés |
+
+| 3.3.8. | 55 344 04 | Ellenőrzési szakelőadó | szakképesítés-ráépülés |
 
 4. SZAKMAI KÖVETELMÉNYEK
 
@@ -1698,13 +1718,13 @@ A szakképesítés-ráépülésselrendelkező képes:
 
 | 4.5. | 10775-12 | Adózási feladatok ellátása |
 
-| 4.6. | 10776-12 | Államháztartási gazdálkodási feladatok ellátása |
+| 4.6. | 10776-14 | Államháztartási gazdálkodási feladatok ellátása |
 
-| 4.7. | 10777-12 | Államháztartási számviteli feladatok ellátása |
+| 4.7. | 10777-14 | Államháztartási számviteli feladatok ellátása |
 
 | 4.8. | 10778-12 | Államháztartási számviteli szervezési feladatok ellátása |
 
-| 4.9. | 10779-12 | Államháztartási elemzési - ellenőrzési feladatok ellátása |
+| 4.9. | 10779-14 | Államháztartási elemzési - ellenőrzési feladatok ellátása |
 
 5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
 
@@ -1726,13 +1746,13 @@ Iskolarendszeren kívüli szakképzés esetén: az 5.2. pontban előírt valamen
 
 | 5.2.5. | 10775-12 | Adózási feladatok ellátása | írásbeli |
 
-| 5.2.6. | 10776-12 | Államháztartási gazdálkodási feladatok ellátása | írásbeli |
+| 5.2.6. | 10776-14 | Államháztartási gazdálkodási feladatok ellátása | írásbeli |
 
-| 5.2.7. | 10777-12 | Államháztartási számviteli feladatok ellátása | írásbeli |
+| 5.2.7. | 10777-14 | Államháztartási számviteli feladatok ellátása | írásbeli |
 
 | 5.2.8. | 10778-12 | Államháztartási számviteli szervezési feladatok ellátása | írásbeli |
 
-| 5.2.9. | 10779-12 | Államháztartási elemzési - ellenőrzési feladatok ellátása | gyakorlati |
+| 5.2.9. | 10779-14 | Államháztartási elemzési - ellenőrzési feladatok ellátása | gyakorlati |
 
 A modulzáró vizsga csak akkor eredményes, ha valamennyi követelménymodulhoz rendelt modulzáró vizsgatevékenységet a jelölt külön-külön legalább 60%-os szinten teljesíti.
 
@@ -1740,17 +1760,15 @@ A modulzáró vizsga csak akkor eredményes, ha valamennyi követelménymodulhoz
 
 5.3.1. Gyakorlati vizsgatevékenység
 
-A vizsgafeladat megnevezése:államháztartási elemzési - ellenőrzési gyakorlati feladatok
+A vizsgafeladat megnevezése: államháztartási elemzési - ellenőrzési gyakorlati feladatok
 
 A központi gyakorlati feladatlap az államháztartási elemzés és ellenőrzés gyakorlatát 50%-50%-ban tartalmazza.
 
 A gyakorlati vizsgatevékenység a szakképesítésért felelős miniszter által kiadott és a honlapján közzétett Útmutató alapján kerül lebonyolításra.
 
-A vizsgafeladat ismertetése:
+A vizsgafeladat ismertetése: A központi gyakorlati vizsgatevékenység során az alábbi követelményekhez kapcsolódó feladatokat kell elvégezni:
 
-A központi gyakorlati vizsgatevékenység során az alábbi követelményekhez kapcsolódó feladatokat kell elvégezni:
-
-Az államháztartási elemzési - ellenőrzési gyakorlati feladatok a kapcsolódószakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
+Az államháztartási elemzési - ellenőrzési gyakorlati feladatok a kapcsolódó szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
 
 A központi gyakorlati vizsgatevékenység során kiemelten az alábbi követelményekhez kapcsolódó feladatokat kell elvégezni:
 
@@ -1760,7 +1778,7 @@ Az államháztartási elemzés-ellenőrzés ellenőrzési gyakorlatához kapcsol
 
 A vizsgafeladat időtartama: 180 perc (90 perc + 90 perc)
 
-A vizsgafeladat aránya: 25 %
+A vizsgafeladat aránya: 25%
 
 5.3.2. Központi írásbeli vizsgatevékenység
 
@@ -1770,11 +1788,11 @@ A vizsgafeladat ismertetése: a számviteli feladatok ellátásához kapcsolód�
 
 A vizsgafeladat időtartama: 180 perc
 
-A vizsgafeladat aránya: 45 %
+A vizsgafeladat aránya: 45%
 
 5.3.3. Szóbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése: Államháztartási gazdálkodási – számviteli – elemzési - ellenőrzési feladatok
+A vizsgafeladat megnevezése: Államháztartási gazdálkodási - számviteli - elemzési - ellenőrzési feladatok
 
 A szóbeli vizsgatevékenység a szakképesítésért felelős miniszter által kiadott és a honlapján közzétett Útmutató alapján kerül lebonyolításra.
 
@@ -1782,47 +1800,53 @@ A vizsgafeladat ismertetése: A szóbeli tételsor az államháztartási gazdál
 
 A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő 15 perc)
 
-A vizsgafeladat aránya: 30 %
+A vizsgafeladat aránya: 30%
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
 
-A modulzáró vizsgatevékenységek szervezésére, lebonyolítására és az értékelésre vonatkozó szabályokat a szakképesítésért felelős miniszter a http://www.kormany.hu/hu/nemzetgazdasagi-miniszterium/ado-es-penzugyekert-felelos-allamtitkarsag/hirek/penzugyi-agazati-szakkepzesi-es-szabalyozott-szakmak című honlapján közzéteszi.
+A modulzáró vizsgatevékenységek szervezésére, lebonyolítására és az értékelésre vonatkozó szabályokat a szakképesítésért felelős miniszter a honlapján közzéteszi.
 
 A modulzáró vizsga vizsgatevékenységének szabályszerűségét a vizsgabizottság egy tagja utólag, de legfeljebb a komplex szakmai vizsga megkezdése előtti 5. napig ellenőrizheti.
 
-A vizsgatevékenységek vizsgaidőpontjai tekintetében a szakképesítésért felelős miniszter közleményben A vizsgatevékenységek vizsgaidőpontjai tekintetében a szakképesítésért felelős miniszter honlapján közreadott vizsganaptára az irányadó.
+A vizsgatevékenységek vizsgaidőpontjai tekintetében a szakképesítésért felelős miniszter honlapján közreadott vizsganaptár az irányadó.
 
 A szakképesítésért felelős miniszter a szakmai vizsga megkezdése előtt legalább 30 nappal a honlapján mindenki által hozzáférhető módon közzéteszi a szóbeli tételsorokat.
 
 A szakmai vizsgán kizárólag a szakképesítésért felelős miniszter honlapján közzétett segédeszközök használhatóak.
 
-A szakképesítés-ráépüléssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján is elérhetők a Szak- és felnőttképzés Vizsgák menüpontjában.
-
 5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai:
 
-A központi gyakorlati vizsgatevékenység csak akkor eredményes, ha a vizsgázó az államháztartás elemzési és ellenőrzés gyakorlati feladatait külön-külön legalább 60%-os szinten teljesíti.
+A központi gyakorlati vizsgatevékenység vizsgafeladata csak akkor eredményes, ha a vizsgázó az államháztartás elemzési és ellenőrzés gyakorlati feladatait külön-külön legalább 60%-os szinten teljesíti.
 
-A központi írásbeli vizsgatevékenység csak akkor kezdhető meg, ha a gyakorlati vizsgatevékenység során a vizsgázó legalább 60%-os teljesítményt ért el.
+A központi írásbeli vizsgatevékenység csak akkor kezdhető meg, ha a gyakorlati vizsgatevékenység vizsgafeladatát a vizsgázó legalább 60%-os szinten teljesítette.
 
-A szóbeli vizsgatevékenység csak akkor kezdhető meg, ha a központi írásbeli vizsgatevékenység során a vizsgázó legalább 60%-os teljesítményt ért el.
+A szóbeli vizsgatevékenység csak akkor kezdhető meg, ha a központi írásbeli vizsgatevékenység vizsgafeladatát a vizsgázó legalább 60%-os szinten teljesítette.
 
-A komplex szakmai vizsga egyes vizsgatevékenységeinek érdemjegye az elért %-os teljesítmények alapján:
+A szóbeli vizsgatevékenység csak akkor eredményes, ha a vizsgázó az államháztartási gazdálkodási feladatok, az államháztartási számviteli feladatok és az államháztartási elemzési - ellenőrzési feladatok ellátásához kapcsolódó szóbeli felelete külön-külön legalább 60%.
 
-90–100% jeles (5)
+A komplex szakmai vizsga egyes vizsgatevékenységeihez rendelt vizsgafeladatok érdemjegye az elért %-os teljesítmények alapján:
 
-80–89% jó (4)
+90-100%jeles (5)
 
-70–79% közepes (3)
+80-89%jó (4)
 
-60–69% elégséges (2)
+70-79%közepes (3)
 
-0–59% elégtelen (1)
+60-69%elégséges (2)
 
-Amennyiben minden vizsgatevékenység eredményes, úgy a komplex szakmai vizsga osztályzatát a vizsgatevékenységenként elért érdemjegyek vizsgafeladat arányával súlyozott átlaga alapján két tizedesre kerekítve az általános szabályok szerint (0,50-től felfelé) kell meghatározni.
+0-59%elégtelen (1)
 
-Sikertelen a komplex szakmai vizsga, ha annak bármelyik vizsgatevékenységének érdemjegye elégtelen (1). Javítóvizsgát abból a vizsgatevékenységből kell tenni, amelyből a vizsgázó teljesítményét elégtelenre (1) minősítette a vizsgabizottság.
+Amennyiben minden vizsgafeladat eredményes, úgy a komplex szakmai vizsga osztályzatát a vizsgafeladatonként elért érdemjegyek vizsgafeladat arányával súlyozott átlaga alapján két tizedesre kerekítve, az általános szabályok szerint (0,50-től felfelé) kell meghatározni.
 
-Felmentés esetén a beszámítás alapjául szolgáló dokumentumban az adott vizsgatevékenységhez, vizsgarészhez rendelt értékelési teljesítményt (érdemjegy, osztályzat, teljesítményszázalék) kell figyelembe venni. Teljesítményszázalék esetén az érdemjeggyé történő átváltás a komplex szakmai vizsga vizsgatevékenységének értékelési besorolása alapján történik.
+Sikertelen a komplex szakmai vizsga, ha annak bármelyik vizsgatevékenységéhez rendelt vizsgafeladatának érdemjegye elégtelen (1).
+
+Javítóvizsgát abból a vizsgafeladatból/vizsgafeladatrészből kell tenni, amelyből a vizsgázó elért eredménye nem éri el a 60%-ot, illetve teljesítményét elégtelenre (1) minősítette a vizsgabizottság.
+
+Felmentés esetén a beszámítás alapjául szolgáló dokumentumban az adott vizsgafeladathoz/vizsgafeladatrészhez, vizsgarészhez rendelt értékelési teljesítményt (érdemjegy, osztályzat, teljesítményszázalék) kell figyelembe venni.
+
+Teljesítményszázalék esetén az érdemjeggyé történő átváltás a komplex szakmai vizsga vizsgatevékenységeihez rendelt vizsgafeladatok értékelési besorolása alapján történik.
+
+Amennyiben a felmentést adó dokumentumokban nincs értékelési eredmény, úgy a vizsgafeladat érdemjegye közepes (megfelelt), illetve szöveges értékelés esetén a „megfelelt” közepes, a „kiválóan megfelelt” jeles érdemjeggyel egyenértékű.
 
 6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
 
@@ -1856,7 +1880,7 @@ Felmentés esetén a beszámítás alapjául szolgáló dokumentumban az adott v
 
 7.1. A modulzáró vizsga kötelező tartalmi elemei:
 
-A vizsgára bocsátás feltételeként meghatározott szakmai követelménymodulokhoz rendelt 10776-12 Államháztartási gazdálkodási feladatok ellátása, a 10777-12 Államháztartási számviteli feladatok ellátása írásbeli és a 10779-12 Államháztartási elemzési - ellenőrzési feladatok ellátása gyakorlati modulzáró vizsgatevékenység vizsgafeladatait a szakmai követelményekkel összhangban a szakmai képzést folytató intézmény állítja össze.
+A vizsgára bocsátás feltételeként meghatározott szakmai követelménymodulokhoz rendelt 10776-14 Államháztartási gazdálkodási feladatok ellátása, a 10777-14 Államháztartási számviteli feladatok ellátása írásbeli és a 10779-14 Államháztartási elemzési - ellenőrzési feladatok ellátása gyakorlati modulzáró vizsgatevékenység vizsgafeladatait a szakmai követelményekkel összhangban a szakmai képzést folytató intézmény állítja össze.
 
 10773-12 Jogi feladatok a gyakorlatban
 
@@ -1864,13 +1888,13 @@ A vizsgafeladat ismertetése: Központi szóbeli tételsor alapján, mely a szak
 
 Időtartama: 30 perc (ebből felkészülési idő 15 perc)
 
-10774 -12 Pénzügyi feladatok ellátása
+10774-12 Pénzügyi feladatok ellátása
 
 A vizsgafeladat ismertetése: Központi írásbeli feladatlap alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
 
 Időtartama: 120 perc
 
-10775 -12 Adózási feladatok ellátása
+10775-12 Adózási feladatok ellátása
 
 A vizsgafeladat ismertetése: Központi írásbeli feladatlap alapján, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
 
@@ -1886,61 +1910,79 @@ Időtartama: 150 perc
 
 A 10773-12 Jogi feladatok a gyakorlatban alkalmazása szóbeli modulzáró vizsgatevékenység alóli felmentés feltétele: állam- és jogtudományi doktori fokozat.
 
-A közgazdasági felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 4/1996. (I. 18.) Korm. rendelet szerinti képzésekben az oklevél kibocsátásának feltételeként letett záróvizsgával, valamint a közgazdasági felsőoktatásban folyó szakirányú továbbképzési szakok képesítési követelményeiről szóló 7/1999. (II. 1.) OM rendelet alapján, vagy a szakirányú továbbképzés szervezésének általános feltételeiről szóló 10/2006. (IX. 25.) OKM rendelet alapján szerzett közgazdasági felsőoktatásban folyó szakirányú végzettséget szerzett oklevéllel rendelkező, felmentést kap a következő modulzáró vizsgák szóbeli és írásbeli vizsgatevékenységek alól:
+A közgazdasági felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 4/1996. (I. 18.) Korm. rendelet szerinti képzésekben az oklevél kibocsátásának feltételeként letett záróvizsgával, valamint a közgazdasági felsőoktatásban folyó szakirányú továbbképzési szakok képesítési követelményeiről szóló 7/1999. (II. 1.) OM rendelet alapján szerzett oklevéllel rendelkező felmentést kap a következő modulzáró vizsgák szóbeli és írásbeli vizsgatevékenységek alól:
 
 10773-12 Jogi feladatok a gyakorlatban,
 
-10774 -12 Pénzügyi feladatok ellátása.
+10774-12 Pénzügyi feladatok ellátása.
 
 A felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet szerinti gazdaságtudományok képzési terület üzleti képzési ágon felsőoktatási intézményben az oklevél kibocsátásának feltételeként letett záróvizsgával rendelkező felmentést kap a következő modulzáró vizsga szóbeli és írásbeli vizsgatevékenységek alól:
 
-10773 -12 Jogi feladatok a gyakorlatban
+10773-12 Jogi feladatok a gyakorlatban
 
-10774 -12 Pénzügyi feladatok ellátása.
+10774-12 Pénzügyi feladatok ellátása.
 
-A felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet szerinti gazdaságtudományok képzési terület üzleti képzési ágon pénzügy és számvitel szakon, valamint számvitel mesterszakon, továbbá gazdasági szakképzés közgazdásztanár szakképzettség pénzügy és számvitel szakirányon felsőoktatási intézményben az oklevél kibocsátásának feltételeként letett záróvizsgával rendelkező felmentést kap a következő modulzáró vizsgák szóbeli és írásbeli vizsgatevékenységek alól:
+A felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet szerinti gazdaságtudományok képzési terület üzleti képzési ágon pénzügy és számvitel alapszakon, valamint számvitel mesterszakon, továbbá gazdasági szakképzés közgazdásztanár szakképzettség pénzügy és számvitel szakirányon felsőoktatási intézményben az oklevél kibocsátásának feltételeként letett záróvizsgával rendelkező felmentést kap a következő modulzáró vizsgák szóbeli és írásbeli vizsgatevékenységek alól:
 
-10773 -12 Jogi feladatok a gyakorlatban,
+10773-12 Jogi feladatok a gyakorlatban,
 
-10774 -12 Pénzügyi feladatok ellátása,
+10774-12 Pénzügyi feladatok ellátása,
 
-10775 -12 Adózási feladatok ellátása
+10775-12 Adózási feladatok ellátása
 
-Az 54 344 02 0000 00 00 azonosító számú, Mérlegképes könyvelő megnevezésű szakképesítés szakmai vizsgára jelentkező, ha a 35/2001. (X. 10.) PM rendelet hatálybalépését megelőzően kezdte meg képzését és különböző szakon szerezte meg mérlegképes könyvelői szakképesítését, illetve felsőoktatásban megszerzett végzettség alapján regisztrált mérlegképes könyvelő, vagy pénzügyi tanácsadó szakképesítéssel, vagy árszakértő képesítéssel rendelkező felmentést kap a következő modulzáró vizsgák szóbeli és írásbeli vizsgatevékenységek alól:
+Az a jelölt, aki rendelkezik az Egyéb szervezeti mérlegképes könyvelő, vagy a Vállalkozási mérlegképes könyvelő szakképesítéssel felmentést kap a következő modulzáró vizsgák szóbeli és írásbeli vizsgatevékenységek alól:
 
-10773 -12 Jogi feladatok a gyakorlatban,
+10773-12 Jogi feladatok a gyakorlatban,
 
-10774 -12 Pénzügyi feladatok ellátása.
+10774-12 Pénzügyi feladatok ellátása,
 
-Az 54 344 02 0000 00 00 azonosító számú, Mérlegképes könyvelő megnevezésű szakképesítés szakmai vizsgára jelentkező, de a szakképesítést még meg nem szerzett jelölt felmentést kap a következő modulzáró vizsgák szóbeli és írásbeli vizsgatevékenységek alól:
+10775-12 Adózási feladatok ellátása
 
-10773 -12 Jogi feladatok a gyakorlatban,
+Az a jelölt, aki a modulzáró vizsgák valamelyikének korábbi teljesítését hitelt érdemlően igazolja, mentesül a modulzáró vizsga ismételt teljesítésének kötelezettsége alól.
 
-10774 -12 Pénzügyi feladatok ellátása.
+A 7.8. pontban meghatározott korábbi szakmai vizsga eredményeinek beszámítása felmentésre ad jogot a hozzárendelt modulzáró vizsga adott vizsgatevékenységének vizsgafeladata alól.
 
-7.3. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
+7.3. A komplex szakmai vizsga vizsgatevékenységeihez rendelt vizsgafeladatok vagy vizsgafeladatrészek alóli felmentés feltételei:
+
+A 7.8. pontban meghatározott korábbi szakmai vizsga eredményeinek beszámítása felmentésre ad jogot a hozzárendelt komplex szakmai vizsga adott vizsgatevékenységének vizsgafeladata/vizsgafeladatrésze alól.
+
+7.4. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
 
 Magyar Könyvvizsgálói Kamara,
 
 Magyar Számviteli Szakemberek Egyesülete.
 
-7.4.Korábban megszerzett szakmai előképzettség beszámítása:
+7.5. Korábban megszerzett szakmai előképzettség beszámítása:
 
-7.4.1.korábban megszerzett Mérlegképes könyvelő szakképesítés, továbbá aki a könyvviteli szolgáltatást végzők nyilvántartásába vételéről szóló 93/2002. (V. 5.) Korm. rendelet alapján a nyilvántartásba vétel szempontjából regisztrált mérlegképes könyvelő, vagy
+7.5.1. korábban megszerzett Mérlegképes könyvelő szakképesítés, vagy aki a könyvviteli szolgáltatást végzők nyilvántartásába vételéről szóló 93/2002. (V. 5.) Korm. rendelet alapján a nyilvántartásba vétel szempontjából mérlegképes könyvelő, vagy
 
-7.4.2.felsőfokú (egyetemi vagy főiskolai) iskolai végzettség esetében, – amennyiben nem közgazdasági felsőoktatásban szerzett végzettség – legalább két legalább két év pénzügyi, vagy számviteli területen szerzett (igazolt) gyakorlat, vagy
+7.5.2. felsőfokú (egyetemi vagy főiskolai) iskolai végzettség esetében, - amennyiben nem közgazdasági felsőoktatásban szerzett végzettség - legalább két legalább két év pénzügyi, vagy számviteli területen szerzett (igazolt) gyakorlat, vagy
 
-7.4.3. az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendelet szerinti az adópolitikáért, az államháztartásért, a pénz-, tőke- és biztosítási piac szabályozásáért, a számviteli szabályozásért felelős miniszter hatáskörébe tartozó szakképesítések valamelyike (kivétel nonprofit menedzser, pénzügyőr, valutapénztáros és valutaügyintéző, vám-, jövedéki és termékdíj ügyintéző, közösségi civilszervező szakképesítés), vagy
+7.5.3. az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendelet szerinti az adópolitikáért, az államháztartásért, a pénz-, tőke- és biztosítási piac szabályozásáért, a számviteli szabályozásért felelős miniszter hatáskörébe tartozó szakképesítések valamelyike (kivétel nonprofit menedzser, pénzügyőr, valutapénztáros és valutaügyintéző, vám-, jövedéki és termékdíj ügyintéző, közösségi civilszervező szakképesítés), vagy
 
-7.4.4.az Országos Képzési Jegyzékről és az Országos Képzési Jegyzékbe történő felvétel és törlés eljárási rendjéről szóló 1/2006. (II. 17.) OM rendelet szerinti a pénzügyminiszter hatáskörébe tartozó szakképesítések, továbbá az adópolitikáért, az államháztartásért, a pénz-, tőke- és biztosítási piac szabályozásáért, a számviteli szabályozásért felelős miniszter hatáskörébe tartozó szakképesítések valamelyike (kivétel nonprofit menedzser, pénzügyőr, valutapénztáros és valutaügyintéző, vám-, jövedéki és termékdíj ügyintéző, közösségi civilszervező szakképesítés), vagy
+7.5.4. az Országos Képzési Jegyzékről és az Országos Képzési Jegyzékbe történő felvétel és törlés eljárási rendjéről szóló 1/2006. (II. 17.) OM rendelet szerinti a pénzügyminiszter hatáskörébe tartozó szakképesítések, továbbá az adópolitikáért, az államháztartásért, a pénz-, tőke- és biztosítási piac szabályozásáért, a számviteli szabályozásért felelős miniszter hatáskörébe tartozó szakképesítések valamelyike (kivétel nonprofit menedzser, pénzügyőr, valutapénztáros és valutaügyintéző, vám-, jövedéki és termékdíj ügyintéző, közösségi civilszervező szakképesítés), vagy
 
-7.4.5. az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendelet szerinti a pénzügyminiszter hatáskörébe tartozó szakképesítések valamelyike (kivétel valutapénztáros, vámkezelő, vámügyintéző, jövedéki ügyintéző szakképesítés), vagy
+7.5.5. az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendelet szerinti a pénzügyminiszter hatáskörébe tartozó szakképesítések valamelyike (kivétel valutapénztáros, vámkezelő, vámügyintéző, jövedéki ügyintéző szakképesítés), vagy
 
-7.4.6. az Országos Képzési Jegyzékről szóló 7/1993. (XII. 30.) MüM rendelet szerinti a pénzügyminiszter hatáskörébe tartozó szakképesítések valamelyike, (kivétel projektmenedzser asszisztens, vámkezelő, vámügyintéző szakképesítés), vagy
+7.5.6. az Országos Képzési Jegyzékről szóló 7/1993. (XII. 30.) MüM rendelet szerinti a pénzügyminiszter hatáskörébe tartozó szakképesítések valamelyike, (kivétel projektmenedzser asszisztens, vámkezelő, vámügyintéző szakképesítés), vagy
 
-7.4.7. a 13/1977. (VII. 23.) PM-ÁH együttes rendelet szerinti árkalkulátori és árszakértői képesítés, vagy
+7.5.7. a 13/1977. (VII. 23.) PM-ÁH együttes rendelet szerinti árkalkulátori és árszakértői képesítés, vagy
 
-7.4.8.a számviteli képesítés rendjéről szóló 14/1977. (VII. 30.) PM rendeletben szabályozott képesített könyvelői képesítéssel rendelkező, vagy az iskolarendszeren kívüli pénzügyi és számviteli szakmai oktatásról, képesítésről és minősítésről, a pénzügyi-számviteli tevékenységek szakképesítési feltételeiről, valamint az adószakértői működés engedélyezésének szabályozásáról szóló 10/1993. (IV. 9.) PM rendelet alapján szerzett képesítés.
+7.5.8. a számviteli képesítés rendjéről szóló 14/1977. (VII. 30.) PM rendeletben szabályozott képesített könyvelői képesítéssel rendelkező, vagy az iskolarendszeren kívüli pénzügyi és számviteli szakmai oktatásról, képesítésről és minősítésről, a pénzügyi-számviteli tevékenységek szakképesítési feltételeiről, valamint az adószakértői működés engedélyezésének szabályozásáról szóló 10/1993. (IV. 9.) PM rendelet alapján szerzett képesítés.
+
+7.6. A komplex szakmai vizsgáztatás szabályairól szóló 315/2013. (VIII. 28.) Korm. rendelettől (továbbiakban: Korm. rendelet) eltérő rendelkezések
+
+A Korm. rendelet 22. § (1) bekezdésben meghatározottól eltérően a szakmai vizsgát az első vizsgatevékenység napját követő 90 napon belül be kell fejezni.
+
+A Korm. rendelet 35. § (6) bekezdésben meghatározottól eltérően a kijavított és értékelt írásbeli, vagy központi gyakorlati dolgozatot, az eredeti írásbeli, vagy központi gyakorlati vizsgafeladat egy példányát, a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt legalább hét nappal el kell juttatni a vizsgaelnökhöz.
+
+7.7. A teljesítményértékelés dokumentálása
+
+A Korm. rendelet 33. § (3) bekezdése alapján a vizsgaszervező az osztályozóívet úgy vezeti, hogy abból megállapítható legyen az adott vizsgatevékenységhez rendelt vizsgafeladaton/ vizsgafeladatrészeken elért eredmény is.
+
+7.8. Korábbi szakmai vizsga beszámítása
+
+A pénzügyminiszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 23/2008. (VIII. 8.) PM rendelet alapján megkezdett szakmai vizsgák eredményes vizsgarészeinek beszámítására vonatkozóan a szakképesítésért felelős miniszter honlapján közreadott vizsga-egyenértékűségi tábla az irányadó.
 
 Az 5. sorszámú Általános laboráns megnevezésű részszakképesítés szakmai és vizsgakövetelménye
 
@@ -3418,8 +3460,6 @@ A szakképesítéssel rendelkező képes:
 
 – táblás fedés tükörméretét meghatározni, gyártani és szerelni kiegészítőivel
 
-– díszműbádogos szerkezeteket gyártani és szerelni
-
 3.3. Kapcsolódó szakképesítések
 
 |  | A | B | C |
@@ -3586,25 +3626,25 @@ A 12. sorszámú Banki, befektetési termékértékesítő megnevezésű részsz
 
 2.1.1. Iskolai előképzettség: érettségi végzettség
 
-2.1.2. Bemeneti kompetenciák: –
+2.1.2. Bemeneti kompetenciák: -
 
-2.2. Szakmai előképzettség:–
+2.2. Szakmai előképzettség: -
 
-2.3. Előírt gyakorlat:–
+2.3. Előírt gyakorlat: -
 
 2.4. Egészségügyi alkalmassági követelmények: -
 
 2.5. Pályaalkalmassági követelmények: -
 
-2.6. Elméleti képzési idő aránya: 70 %
+2.6. Elméleti képzési idő aránya: 70%
 
-2.7. Gyakorlati képzési idő aránya: 30 %
+2.7. Gyakorlati képzési idő aránya: 30%
 
-2.8. Szintvizsga:–
+2.8. Szintvizsga: -
 
 3. PÁLYATÜKÖR
 
-3.1. A részszakképesítéssellegjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
+3.1. A részszakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
 
 |  | A | B | C |
 
@@ -3664,7 +3704,7 @@ A 12. sorszámú Banki, befektetési termékértékesítő megnevezésű részsz
 
 | 3.1.28. | Kifizetési és betétforgalmat lebonyolító ügyintéző |
 
-| 3.1.29. | Kisvállalkozói hitelügyintéző |
+| 3.1.29. |  |  | Kisvállalkozói hitelügyintéző |
 
 | 3.1.30. | Lakáshitel ügyintéző |
 
@@ -3730,39 +3770,37 @@ A 12. sorszámú Banki, befektetési termékértékesítő megnevezésű részsz
 
 3.2. A részszakképesítés munkaterületének rövid leírása:
 
-A banki termékértékesítő elsősorban a hitelintézetek és a pénzügyi vállalkozások hálózati egységeiben lát el feladatokat, azonban alkalmas a központi adminisztratív területeken bizonyos feladatok ellátására. Ügyfélkapcsolatot létesít és gondoz. Az ügyfelek részére szakszerű tájékoztatást nyújt a termékekről (akár összehasonlító szemléletben is), elősegíti az értékesítési és kockázati besorolását. Értékesíti a pénzügyi szolgáltatási termékeket, az ezzel kapcsolatos teljekörű dokumentációs feladatkört ellátja. Részt vesz az ügyfelek pénzforgalmának lebonyolításában, mind számlapénz, mind készpénz esetében, fizetési számlához kapcsolódó termékeket és szolgáltatásokat értékesít és nyilvántart. Pénztárat és helyi értéktárat kezel, helyi ATM-et üzemeltet. Közreműködik a hálózati egységek nyitásában, zárásában, részfeladatokat lát el a készpénzellátásban. Lakossági, mikro, kis és középvállalati hiteleket értékesít, és részt vesz a hiteldöntés előkészítésében. Hiteladminisztrációs feladatokat lát el és hitelmonitoringot végez. A befektetési termékértékesítő a befektetési szolgáltató hálózati egységeiben és központi adminisztratív területeken lát el feladatokat. Ügyfélkapcsolatot létesít és gondoz. Az ügyfelek részére szakszerű tájékoztatást nyújt a termékekről (akár összehasonlító szemléletben is). Elősegíti az ügyfelek értékesítési és kockázati besorolásának elvégzését. Alkalmassági és megfelelőségi tesztet készít. Értékesíti a befektetési szolgáltatási termékeket, az ezzel kapcsolatos teljekörű dokumentációs feladatkört ellátja. Szabványosított és nem szabványosított tőkepiaci megbízásokat fogad és bonyolít. Értékpapírszámlát nyit és kezel. Figyelemmel kíséri a tőkepiaci folyamatokat és termék-innovációkat. Részt vesz az ügyfélszámla pénzforgalmának lebonyolításában. Pénztárat és helyi értéktárat kezel. Közreműködik a hálózati egységek nyitásában, zárásában, részfeladatokat lát el a készpénzellátásban.
+A banki termékértékesítő elsősorban a hitelintézetek és a pénzügyi vállalkozások hálózati egységeiben lát el feladatokat, azonban alkalmas a központi adminisztratív területeken bizonyos feladatok ellátására. Ügyfélkapcsolatot létesít és gondoz. Az ügyfelek részére szakszerű tájékoztatást nyújt a termékekről (akár összehasonlító szemléletben is), elősegíti az értékesítési és kockázati besorolását. Értékesíti a pénzügyi szolgáltatási termékeket, az ezzel kapcsolatos teljekörű dokumentációs feladatkört ellátja. Részt vesz az ügyfelek pénzforgalmának lebonyolításában, mind számlapénz, mind készpénz esetében, fizetési számlához kapcsolódó termékeket és szolgáltatásokat értékesít és nyilvántart. Pénztárat és helyi értéktárat kezel, helyi ATM-et üzemeltet. Közreműködik a hálózati egységek nyitásában, zárásában, részfeladatokat lát el a készpénzellátásban. Lakossági, mikro, kis és középvállalati hiteleket értékesít, és részt vesz a hiteldöntés előkészítésében.
+
+Hiteladminisztrációs feladatokat lát el és hitelmonitoringot végez. A befektetési termékértékesítő a befektetési szolgáltató hálózati egységeiben és központi adminisztratív területeken lát el feladatokat. Ügyfélkapcsolatot létesít és gondoz. Az ügyfelek részére szakszerű tájékoztatást nyújt a termékekről (akár összehasonlító szemléletben is). Elősegíti az ügyfelek értékesítési és kockázati besorolásának elvégzését. Alkalmassági és megfelelőségi tesztet készít. Értékesíti a befektetési szolgáltatási termékeket, az ezzel kapcsolatos teljekörű dokumentációs feladatkört ellátja. Szabványosított és nem szabványosított tőkepiaci megbízásokat fogad és bonyolít. Értékpapírszámlát nyit és kezel. Figyelemmel kíséri a tőkepiaci folyamatokat és termék-innovációkat. Részt vesz az ügyfélszámla pénzforgalmának lebonyolításában. Pénztárat és helyi értéktárat kezel. Közreműködik a hálózati egységek nyitásában, zárásában, részfeladatokat lát el a készpénzellátásban.
 
 A részszakképesítéssel rendelkező képes:
 
-- banki, befektetési terméket értékesíteni, közvetíteni
+- banki, befektetési terméket értékesíteni, közvetíteni,
 
-- ügyfélszerzési és kapcsolattartási feladatot végezni
+- ügyfélszerzési és kapcsolattartási feladatot végezni,
 
-- banki és befektetési termékekről tájékoztatást adni és értékesíteni azt
+- banki és befektetési termékekről tájékoztatást adni és értékesíteni azt,
 
-- aktív bankműveleteket végezni
+- aktív bankműveleteket végezni,
 
-- aktív bankügylethez kapcsolódó döntés-előkészítési és lebonyolítási feladatokat ellátni
+- aktív bankügylethez kapcsolódó döntés-előkészítési és lebonyolítási feladatokat ellátni,
 
-- hitelszámlát nyitni és kezelni
+- hitelszámlát nyitni és kezelni hitelmonitoring tevékenységet ellátni,
 
-- hitelmonitoring tevékenységet ellátni
+- passzív bankműveleteket végezni lekötési megbízást fogadni,
 
-- passzív bankműveleteket végezni
+- folyószámlát, pénzt/értéket, valamint váltót és inkasszót kezelni,
 
-- lekötési megbízást fogadni
+- pénzforgalmat bonyolítani,
 
-- folyószámlát, pénzt/értéket, valamint váltót és inkasszót kezelni
+- alkalmassági és megfelelőségi tesztet kitölteni és értékelni,
 
-- pénzforgalmat bonyolítani
+- értékpapír és ügyfélszámlát nyitni, számlaműveletet végezni és megszüntetni,
 
-- alkalmassági és megfelelőségi tesztet kitölteni és értékelni
+- befektetési megbízásokat fogadni és bonyolítani,
 
-- értékpapír és ügyfélszámlát nyitni, számlaműveletet végezni és megszüntetni
-
-- befektetési megbízásokat fogadni és bonyolítani
-
-- kiegészítő adminisztrációs tevékenységet és központi háttérmunkákat végezni
+- kiegészítő adminisztrációs tevékenységet és központi háttérmunkákat végezni.
 
 3.3. Kapcsolódó szakképesítések
 
@@ -3804,7 +3842,7 @@ Iskolarendszeren kívüli szakképzésben: az 5.2. pontban előírt valamennyi m
 
 | 5.2.1. | A részszakképesítés szakmai követelménymoduljainak |
 
-| 5.2.2. | azonosítószáma | megnevezés | a modulzáró vizsga vizsgatevékenysége |
+| 5.2.2. | azonosító száma | megnevezés | a modulzáró vizsga vizsgatevékenysége |
 
 | 5.2.3. | 11504-12 | Gazdálkodási alaptevékenység ellátása | szóbeli |
 
@@ -3846,7 +3884,7 @@ A vizsgafeladat aránya: 40%
 
 A vizsgafeladat megnevezése: Banki piac termékeinek és befektetési piac termékeinek értékesítése
 
-A vizsgafeladat ismertetése: A banki és befektetési és biztosítási piac termékeinek értékesítése vonatkozásában a termékértékesítés ügyfél-kiszolgálási szakismeretek, ügyletismeretek ügyfélközpontú megközelítése.
+A vizsgafeladat ismertetése: A banki és befektetési piac termékeinek értékesítése vonatkozásában a termékértékesítés ügyfél-kiszolgálási szakismeretek, ügyletismeretek ügyfélközpontú megközelítése.
 
 A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő 15 perc)
 
@@ -3854,43 +3892,45 @@ A vizsgafeladat aránya: 30%
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
 
-A modulzáró vizsgatevékenységek szervezésére, lebonyolítására és az értékelésre vonatkozó szabályokat a szakképesítésért felelős miniszter a http://www.kormany.hu/hu/nemzetgazdasagi-miniszterium/ado-es-penzugyekert-felelos-allamtitkarsag/hirek/penzugyi-agazati-szakkepzesi-es-szabalyozott-szakmak című honlapján közzéteszi.
+A modulzáró vizsgatevékenységek szervezésére, lebonyolítására és az értékelésre vonatkozó szabályokat a szakképesítésért felelős miniszter a honlapján közzéteszi.
 
 A modulzáró vizsga vizsgatevékenységének szabályszerűségét a vizsgabizottság egy tagja utólag, de legfeljebb a komplex szakmai vizsga megkezdése előtti 5. napig ellenőrizheti.
 
-Az írásbeli vizsgatevékenységet az első napon kell lebonyolítani. A gyakorlati vizsgatevékenységét és a szóbeli vizsgatevékenységet egy vizsganapon kell lebonyolítani.
-
-A vizsgatevékenységek vizsgaidőpontjai tekintetében a szakképesítésért felelős miniszter honlapján közreadott vizsganaptára az irányadó.
+A vizsgatevékenységek vizsgaidőpontjai tekintetében a szakképesítésért felelős miniszter honlapján közreadott vizsganaptár az irányadó.
 
 A szakképesítésért felelős miniszter a szakmai vizsga megkezdése előtt legalább 30 nappal a honlapján mindenki által hozzáférhető módon közzéteszi a szóbeli tételsorokat.
 
 A szakmai vizsgán kizárólag a szakképesítésért felelős miniszter honlapján közzétett segédeszközök használhatóak.
 
-A részszakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján is elérhetők a Szak- és felnőttképzés Vizsgák menüpontjában.
-
 5.5 A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai:
 
-A Banki piac termékeinek és befektetési piac termékeinek értékesítése vizsgafeladat szóbeli vizsgatevékenysége csak akkor kezdhető meg, ha a hozzárendelt írásbeli vizsgatevékenység során a vizsgázó legalább 60%-os teljesítményt ért el.
+A Banki piac termékeinek és befektetési piac termékeinek értékesítése vizsgafeladat szóbeli vizsgatevékenysége csak akkor kezdhető meg, ha a hozzárendelt írásbeli vizsgatevékenység vizsgafeladatát a vizsgázó legalább 60%-szinten teljesítette.
 
-A Banki ügyfélkapcsolat és kommunikáció vizsgafeladat gyakorlati vizsgatevékenysége csak akkor kezdhető meg, ha az írásbeli vizsgatevékenység során a vizsgázó legalább 60 %-os teljesítményt ért el.
+A Banki ügyfélkapcsolat és kommunikáció vizsgafeladat gyakorlati vizsgatevékenysége csak akkor kezdhető meg, ha az írásbeli vizsgatevékenység vizsgafeladatát a vizsgázó legalább 60%-os szinten teljesítette.
 
-A komplex szakmai vizsga egyes vizsgatevékenységeinek érdemjegye az elért %-os teljesítmények alapján:
+A komplex szakmai vizsga egyes vizsgatevékenységeihez rendelt vizsgafeladatok érdemjegye az elért %-os teljesítmények alapján:
 
-90–100% jeles (5)
+| 90-100% | jeles (5) |
 
-80–89% jó (4)
+| 80-89% | jó (4) |
 
-70–79% közepes (3)
+| 70-79% | közepes (3) |
 
-60–69% elégséges (2)
+| 60-69% | elégséges (2) |
 
-0–59% elégtelen (1)
+| 0-59% | elégtelen (1) |
 
-Amennyiben minden vizsgatevékenység eredményes, úgy a komplex szakmai vizsga osztályzatát a vizsgatevékenységenként elért érdemjegyek vizsgafeladat arányával súlyozott átlaga alapján két tizedesre kerekítve az általános szabályok szerint (0,50-től felfelé) kell meghatározni.
+Amennyiben minden vizsgafeladat eredményes, úgy a komplex szakmai vizsga osztályzatát a vizsgafeladatonként elért érdemjegyek vizsgafeladat arányával súlyozott átlaga alapján két tizedesre kerekítve, az általános szabályok szerint (0,50-től felfelé) kell meghatározni.
 
-Sikertelen a komplex szakmai vizsga, ha annak bármelyik vizsgatevékenységének érdemjegye elégtelen (1). Javítóvizsgát abból a vizsgatevékenységből kell tenni, amelyből a vizsgázó teljesítményét elégtelenre (1) minősítette a vizsgabizottság.
+Sikertelen a komplex szakmai vizsga, ha annak bármelyik vizsgatevékenységéhez rendelt érdemjegye elégtelen (1).
 
-Felmentés esetén a beszámítás alapjául szolgáló dokumentumban az adott vizsgatevékenységhez, vizsgarészhez rendelt értékelési teljesítményt (érdemjegy, osztályzat, teljesítményszázalék) kell figyelembe venni. Teljesítményszázalék esetén az érdemjeggyé történő átváltás a komplex szakmai vizsga vizsgatevékenységének értékelési besorolása alapján történik.
+Javítóvizsgát abból a vizsgafeladatból kell tenni, amelyből a vizsgázó elért eredménye nem éri el a 60%-ot, illetve teljesítményét elégtelenre (1) minősítette a vizsgabizottság.
+
+Felmentés esetén a beszámítás alapjául szolgáló dokumentumban az adott vizsgafeladat, vizsgarészhez rendelt értékelési teljesítményt (érdemjegy, osztályzat, teljesítményszázalék) kell figyelembe venni.
+
+Teljesítményszázalék esetén az érdemjeggyé történő átváltás a komplex szakmai vizsga vizsgatevékenységeihez rendelt vizsgafeladatok értékelési besorolása alapján történik.
+
+Amennyiben a felmentést adó dokumentumokban nincs értékelési eredmény, úgy a vizsgafeladat érdemjegye közepes (megfelelt), illetve szöveges értékelés esetén a „megfelelt” közepes, a „kiválóan megfelelt” jeles érdemjeggyel egyenértékű.
 
 6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
 
@@ -3900,7 +3940,7 @@ Felmentés esetén a beszámítás alapjául szolgáló dokumentumban az adott v
 
 | 6.2. | Számítógép |
 
-| 6.3. | Irodai és szakmai szoftverek (szövegszerkesztő, táblázatkezelő, adatbázis-kezelő) |
+| 6.3. | Irodai és szakmai szoftverek (szövegszerkesztő, táblázatkezelő, adatbáziskezelő) |
 
 | 6.4. | Formanyomtatványok |
 
@@ -3934,15 +3974,39 @@ A vizsgafeladat időtartama: 90 perc
 
 7.2. A modulzáró vizsgatevékenységek alóli felmentés feltételei:
 
-Az a jelölt, aki a közgazdasági felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 4/1996. (I. 18.) Korm. rendelet szerinti végzettséggel, vagy a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet szerinti gazdaságtudományok képzési területen szerzett végzettséggel, vagy a közgazdasági felsőoktatásban folyó szakirányú továbbképzési szakok képesítési követelményeiről szóló 7/1999. (II. 1.) OM rendelet alapján, vagy a szakirányú továbbképzés szervezésének általános feltételeiről szóló 10/2006. (IX. 25.) OKM rendelet alapján szerzett közgazdasági felsőoktatásban folyó szakirányú végzettséggel rendelkezik, vagy a gazdaságtudományok képzési területen, közgazdaság képzési ágon szerzett végzettséggel rendelkezik, felmentést kap a 11504-12 Gazdálkodási alaptevékenység ellátása szakmai követelménymodulhoz rendelt modulzáró vizsga szóbeli, a 10137-12 Banki ügyfélkapcsolat és kommunikáció, a 10136-12 Banki piac termékeinek értékesítése, a 10140-12 Befektetési piac termékeinek értékesítése, valamint az 10138-12 Banki, befektetési és biztosítási jogi feladatok szakmai követelménymodulokhoz rendelt modulzáró vizsga írásbeli vizsgatevékenységek alól.
+Az a jelölt, aki a közgazdasági felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 4/1996. (I. 18.) Korm. rendelet szerinti végzettséggel, illetve záróvizsgával vagy a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet szerinti gazdaságtudományok képzési területen szerzett végzettséggel, illetve záróvizsgával vagy a közgazdasági felsőoktatásban folyó szakirányú továbbképzési szakok képesítési követelményeiről szóló 7/1999. (II. 1.) OM rendelet alapján szakirányú végzettséggel, rendelkezik, vagy a gazdaságtudományok képzési területen, közgazdaság képzési ágon szerzett végzettséggel, illetve záróvizsgával rendelkezik, felmentést kap a 11504-12 Gazdálkodási alaptevékenység ellátása szakmai követelménymodulhoz rendelt modulzáró vizsga szóbeli, a 10137-12 Banki ügyfélkapcsolat és kommunikáció, a 10136-12 Banki piac termékeinek értékesítése, a 10140-12 Befektetési piac termékeinek értékesítése, valamint az 10138-12 Banki, befektetési és biztosítási jogi feladatok szakmai követelménymodulokhoz rendelt modulzáró vizsga írásbeli vizsgatevékenységek alól.
 
 A 10138-12 Banki, befektetési és biztosítási jogi feladatok szakmai követelménymodulhoz rendelt modulzáró vizsga írásbeli vizsgatevékenysége alól felmentést kap, aki 1997. január 1. után szerezte meg a tőzsdei szakvizsga jogi részvizsgáját, valamint 1997. január 1. után szerezte meg a Pénzügyi Szervezetek Állami Felügyelete és a Magyar Nemzeti Bank által elismert jogi szakmai vizsgáját.
 
-7.3. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
+Az a jelölt, aki rendelkezik Biztosításközvetítő (függő és független) részszakképesítéssel felmentést kap a 11504-12 Gazdálkodási alaptevékenység ellátása és a 10138-12 Banki, befektetési és biztosítási jogi feladatok modulzáró vizsga szóbeli vizsgatevékenysége alól.
+
+Az a jelölt, aki a modulzáró vizsgák valamelyikének korábbi teljesítését hitelt érdemlően igazolja, mentesül a modulzáró vizsga ismételt teljesítésének kötelezettsége alól.
+
+A 7.7. pontban meghatározott korábbi szakmai vizsga eredményeinek beszámítása felmentésre ad jogot a hozzárendelt modulzáró vizsga adott vizsgatevékenységének vizsgafeladata alól.
+
+7.3. A komplex szakmai vizsga vizsgatevékenységeihez rendelt vizsgafeladatok alóli felmentés feltételei:
+
+A 7.7. pontban meghatározott korábbi szakmai vizsga eredményeinek beszámítása felmentésre ad jogot a hozzárendelt komplex szakmai vizsga adott vizsgatevékenységének vizsgafeladata alól.
+
+7.4. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
 
 Befektetési Szolgáltatók Szövetsége
 
 Magyar Bankszövetség
+
+7.5. A komplex szakmai vizsgáztatás szabályairól szóló 315/2013. (VIII. 28.) Korm. rendelettől (továbbiakban: Korm. rendelet) eltérő rendelkezések
+
+A Korm. rendelet 22. § (1) bekezdésben meghatározottól eltérően a szakmai vizsgát az első vizsgatevékenység napját követő 90 napon belül be kell fejezni.
+
+A Korm. rendelet 35. § (6) bekezdésben meghatározottól eltérően a kijavított és értékelt írásbeli, központi gyakorlati dolgozatot, az eredeti írásbeli, vagy központi gyakorlati vizsgafeladat egy példányát, a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt legalább hét nappal el kell juttatni a vizsgaelnökhöz.
+
+7.6. A teljesítményértékelés dokumentálása
+
+A Korm. rendelet 33. § (3) bekezdése alapján a vizsgaszervező az osztályozóívet úgy vezeti, hogy abból megállapítható legyen az adott vizsgatevékenységhez rendelt vizsgafeladaton elért eredmény is.
+
+7.7. Korábbi szakmai vizsga beszámítása
+
+A pénzügyminiszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 23/2008. (VIII. 8.) PM rendelet alapján megkezdett szakmai vizsgák eredményes vizsgarészeinek beszámítására vonatkozóan a szakképesítésért felelős miniszter honlapján közreadott vizsga-egyenértékűségi tábla az irányadó.
 
 A 13. sorszámú Bányaipari technikus megnevezésű szakképesítés szakmai és vizsgakövetelménye
 
@@ -4938,25 +5002,25 @@ A 16. sorszámú Bérügyintéző megnevezésű részszakképesítés szakmai é
 
 2.1.1. Iskolai előképzettség: érettségi végzettség
 
-2.1.2. Bemeneti kompetenciák: –
+2.1.2. Bemeneti kompetenciák: -
 
-2.2. Szakmai előképzettség:–
+2.2. Szakmai előképzettség: -
 
-2.3. Előírt gyakorlat:–
+2.3. Előírt gyakorlat: -
 
 2.4. Egészségügyi alkalmassági követelmények: -
 
 2.5. Pályaalkalmassági követelmények: -
 
-2.6. Elméleti képzési idő aránya: 70 %
+2.6. Elméleti képzési idő aránya: 70%
 
-2.7. Gyakorlati képzési idő aránya: 30 %
+2.7. Gyakorlati képzési idő aránya: 30%
 
-2.8. Szintvizsga:–
+2.8. Szintvizsga: -
 
 3. PÁLYATÜKÖR
 
-3.1. A részszakképesítéssellegjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
+3.1. A részszakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
 
 |  | A | B | C |
 
@@ -4974,7 +5038,7 @@ A 16. sorszámú Bérügyintéző megnevezésű részszakképesítés szakmai é
 
 | 3.1.7. | Bérügyintéző |
 
-| 3.1.8. | 3614 | Könyvelő (analitikus) | Analitikus könyvelő |
+| 3.1.8. | 4121 | Könyvelő (analitikus) | Analitikus könyvelő |
 
 3.2. A részszakképesítés munkaterületének rövid leírása:
 
@@ -4982,15 +5046,15 @@ A bérügyintéző ellátja a bérszámfejtéssel kapcsolatos feladatokat. A mun
 
 A részszakképesítéssel rendelkező képes:
 
-─ ellátni a munkaügyi nyilvántartások alapján a bérekkel kapcsolatos adminisztrációs (bérszámfejtés, járulék-nyilvántartás, stb.) feladatokat
+- ellátni a munkaügyi nyilvántartások alapján a bérekkel kapcsolatos adminisztrációs, (bérszámfejtés, járulék-nyilvántartás, stb.) feladatokat,
 
-─ közreműködni a munkavállalók munkaviszonyának létesítésével, megszüntetésével kapcsolatosan
+- közreműködni a munkavállalók munkaviszonyának létesítésével, megszüntetésével kapcsolatosan,
 
-─ értelmezni és kitölteni a bérügyi nyomtatványokat
+- értelmezni és kitölteni a bérügyi nyomtatványokat,
 
-─ összegyűjteni az adatokat további feldolgozás céljából
+- összegyűjteni az adatokat további feldolgozás céljából,
 
-─ munkaköréhez kapcsolódó hagyományos és digitális dokumentumokat rendszerezni, iratkezelést végezni
+- munkaköréhez kapcsolódó hagyományos és digitális dokumentumokat rendszerezni, iratkezelést végezni.
 
 3.3. Kapcsolódó szakképesítések
 
@@ -5042,7 +5106,7 @@ A vizsgafeladat megnevezése: Bérszámfejtési feladat
 
 A vizsgafeladat ismertetése: A feladatlap egy belépő dolgozó megadott adatainak felvitele után bérszámfejtési feladat, mely a szakmai követelmények megadott témaköreinek mindegyikét tartalmazhatja.
 
-A központi gyakorlati feladatlap a szakképesítésért felelős miniszter által kiadott és a honlapján közzétett Útmutatók alapján kerül összeállításra.
+A központi gyakorlati feladatlap a szakképesítésért felelős miniszter által kiadott és a honlapján közzétett Útmutatók alapján kerül összeállításra. Az útmutató tartalmazza, hogy milyen módon kell a vizsgázók vizsgafeladatainak megoldásait rögzíteni.
 
 A vizsgafeladat időtartama: 60 perc
 
@@ -5070,39 +5134,45 @@ A vizsgafeladat aránya: 20%
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
 
-A modulzáró vizsgatevékenységek szervezésére, lebonyolítására és az értékelésre vonatkozó szabályokat a szakképesítésért felelős miniszter a http://www.kormany.hu/hu/nemzetgazdasagi-miniszterium/ado-es-penzugyekert-felelos-allamtitkarsag/hirek/penzugyi-agazati-szakkepzesi-es-szabalyozott-szakmak című honlapján közzéteszi.
+A modulzáró vizsgatevékenységek szervezésére, lebonyolítására és az értékelésre vonatkozó szabályokat a szakképesítésért felelős miniszter a honlapján közzéteszi.
 
 A modulzáró vizsga vizsgatevékenységének szabályszerűségét a vizsgabizottság egy tagja utólag, de legfeljebb a komplex szakmai vizsga megkezdése előtti 5. napig ellenőrizheti.
 
-A gyakorlati és írásbeli vizsgatevékenységet az első, a szóbeli vizsgatevékenységet a második napon kell lebonyolítani. A vizsgatevékenységek vizsgaidőpontjai tekintetében a szakképesítésért felelős miniszter honlapján közreadott vizsganaptára az irányadó.
+A vizsgatevékenységek vizsgaidőpontjai tekintetében a szakképesítésért felelős miniszter honlapján közreadott vizsganaptár az irányadó.
 
 A szakképesítésért felelős miniszter a szakmai vizsga megkezdése előtt legalább 30 nappal a honlapján mindenki által hozzáférhető módon közzéteszi a szóbeli tételsorokat.
 
 A szakmai vizsgán kizárólag a szakképesítésért felelős miniszter honlapján közzétett segédeszközök használhatóak.
 
-A részszakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján is elérhetők a Szak- és felnőttképzés Vizsgák menüpontjában.
-
 5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai:
 
-A szóbeli vizsgatevékenység csak akkor kezdhető meg, ha a gyakorlati és a központi írásbeli vizsgatevékenység során a vizsgázó vizsgatevékenységenként legalább 50%-os teljesítményt ért el.
+A szóbeli vizsgatevékenység csak akkor kezdhető meg, ha a gyakorlati és a központi írásbeli vizsgatevékenység vizsgafeladatát a vizsgázó külön-külön legalább 50%-os szinten teljesítette.
 
-A komplex szakmai vizsga egyes vizsgatevékenységeinek érdemjegye az elért %-os teljesítmények alapján:
+A komplex szakmai vizsga egyes vizsgatevékenységeihez rendelt vizsgafeladatok érdemjegye az elért %-os teljesítmények alapján:
 
-90–100% jeles (5)
+| 90-100% | jeles (5) |
 
-80–89% jó (4)
+| 80-89% | jó (4) |
 
-65–79% közepes (3)
+| 65-79% | közepes (3) |
 
-50–64% elégséges (2)
+| 50-64% | elégséges (2) |
 
-0–49% elégtelen (1)
+| 0-49% | elégtelen (1) |
 
-Amennyiben minden vizsgatevékenység eredményes, úgy a komplex szakmai vizsga osztályzatát a vizsgatevékenységenként elért érdemjegyek vizsgafeladat arányával súlyozott átlaga alapján két tizedesre kerekítve az általános szabályok szerint (0,50-től felfelé) kell meghatározni.
+Amennyiben minden vizsgafeladat eredményes, úgy a komplex szakmai vizsga osztályzatát a vizsgafeladatonként elért érdemjegyek vizsgafeladat arányával súlyozott átlaga alapján két tizedesre kerekítve, az általános szabályok szerint (0,50-től felfelé) kell meghatározni.
 
-Sikertelen a komplex szakmai vizsga, ha annak bármely vizsgatevékenységének érdemjegye elégtelen (1). Javítóvizsgát abból a vizsgatevékenységből kell tenni, amelyből a vizsgázó teljesítményét elégtelenre (1) minősítette a vizsgabizottság.
+Sikertelen a komplex szakmai vizsga, ha annak bármely vizsgatevékenységéhez rendelt vizsgafeladatának érdemjegye elégtelen (1).
 
-6.ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+Javítóvizsgát abból a vizsgafeladatból kell tenni, amelyből a vizsgázó nem érte el az 50%-ot, és teljesítményét elégtelenre (1) minősítette a vizsgabizottság.
+
+Felmentés esetén a beszámítás alapjául szolgáló dokumentumban az adott vizsgafeladathoz, vizsgarészhez rendelt értékelési teljesítményt (érdemjegy, osztályzat, teljesítményszázalék) kell figyelembe venni.
+
+Teljesítményszázalék esetén az érdemjeggyé történő átváltás a komplex szakmai vizsga vizsgatevékenységeihez rendelt vizsgafeladatok értékelési besorolása alapján történik.
+
+Amennyiben a felmentést adó dokumentumokban nincs értékelési eredmény, úgy a vizsgafeladat érdemjegye közepes (megfelelt), illetve szöveges értékelés esetén a „megfelelt” közepes, a „kiválóan megfelelt” jeles érdemjeggyel egyenértékű.
+
+6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
 
 |  | A |
 
@@ -5142,11 +5212,29 @@ Sikertelen a komplex szakmai vizsga, ha annak bármely vizsgatevékenységének 
 
 A vizsgára bocsátás feltételeként meghatározott 10154-12 Munkaerő-gazdálkodás gyakorlati és a 10151-12 Bérügyi szakfeladatok ellátása szakmai követelménymodulokhoz rendelt írásbeli modulzáró vizsgafeladatait a szakmai követelményekkel összhangban a szakmai képzést folytató intézmény állítja össze.
 
-7.2. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
+7.2. A modulzáró vizsgatevékenységek alóli felmentés feltételei:
+
+Az a jelölt, aki a modulzáró vizsgák valamelyikének korábbi teljesítését hitelt érdemlően igazolja, mentesül a modulzáró vizsga ismételt teljesítésének kötelezettsége alól.
+
+7.3. A komplex szakmai vizsga vizsgatevékenységeihez rendelt vizsgafeladatok alóli felmentés feltételei:
+
+Az a jelölt, aki rendelkezik a Társadalombiztosítási ügyintéző részszakképesítéssel felmentést kap a gyakorlati vizsgatevékenység Bérszámfejtési feladat, valamint a szóbeli vizsgatevékenység A munkaerő-gazdálkodás kapcsolódó szakmai feladatok vizsgafeladat teljesítése alól.
+
+7.4. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
 
 Magyar Könyvvizsgálói Kamara,
 
 Magyar Számviteli Szakemberek Egyesülete.
+
+7.5. A komplex szakmai vizsgáztatás szabályairól szóló 315/2013. (VIII. 28.) Korm. rendelettől (továbbiakban: Korm. rendelet) eltérő rendelkezések
+
+A Korm. rendelet 22. § (1) bekezdésben meghatározottól eltérően a szakmai vizsgát az első vizsgatevékenység napját követő 90 napon belül be kell fejezni.
+
+A Korm. rendelet 35. § (6) bekezdésben meghatározottól eltérően a kijavított és értékelt írásbeli, vagy központi gyakorlati dolgozatot, az eredeti írásbeli, vagy központi gyakorlati vizsgafeladat egy példányát, a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt legalább hét nappal el kell juttatni a vizsgaelnökhöz.
+
+7.6. A teljesítményértékelés dokumentálása
+
+A Korm. rendelet 33. § (3) bekezdése alapján a vizsgaszervező az osztályozóívet úgy vezeti, hogy abból megállapítható legyen az adott vizsgatevékenységhez rendelt vizsgafeladatokon elért eredmény is.
 
 A 17. sorszámú Betonszerkezet-készítő, betonelem gyártó megnevezésű szakképesítésszakmai és vizsgakövetelménye
 
@@ -5376,188 +5464,4 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
 
-|  | A |
-
-| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-| 6.2. | Sablonok, zsaluzatok |
-
-| 6.3. | Célgépek |
-
-| 6.4. | Emelő szerkezetek |
-
-| 6.5. | Kéziszerszámok |
-
-| 6.6. | Kisgépek |
-
-| 6.7. | Egyéni védőeszközök |
-
-| 6.8. | Kollektív védőeszközök |
-
-| 6.9. | Műszaki dokumentációk |
-
-| 6.10. | Mérőeszközök |
-
-| 6.11. | Hegesztő berendezések |
-
-| 6.12. | Számológép |
-
-| 6.13. | Számítógép |
-
-| 6.14. | Szoftverek |
-
-| 6.15. | Nyomtató |
-
-7. EGYEBEK
-
-A 10101-12 Építőipari közös tevékenység modul, modulzáró vizsgájának teljesítése alól felmentést kaphat az a vizsgázó, aki az alább felsoroltak közül valamelyiket korábban már eredményesen teljesítette:
-
-0459–06 Építőipari közös feladatok I.
-
-0504-06 Építőanyag-ipari közös feladatok I
-
-6253–11 Építőipari általános ismeretek
-
-A 18. sorszámú Bevontelektródás kézi ívhegesztő megnevezésű részszakképesítés szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A részszakképesítés azonosító száma: 31 521 01
-
-1.2. Részszakképesítés megnevezése: Bevontelektródás kézi ívhegesztő
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 560-840
-
-2. EGYÉB ADATOK
-
-2.1.A képzés megkezdésének feltételei: A képzés megkezdhető az e rendelet 3. számú mellékletében a gépészet szakmacsoportra meghatározott kompetenciák birtokában
-
-2.1.1. Iskolai előképzettség: alapfokú iskolai végzettség
-
-vagy iskolai előképzettség hiányában
-
-2.1.2. Bemeneti kompetenciák: –
-
-2.2. Szakmai előképzettség: –
-
-2.3. Előírt gyakorlat: –
-
-2.4. Egészségügyi alkalmassági követelmények: szükségesek
-
-2.5. Pályaalkalmassági követelmények: -
-
-2.6 Elméleti képzési idő aránya: 30 %
-
-2.7. Gyakorlati képzési idő aránya: 70 %
-
-2.8. Szintvizsga: –
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama:
-
-3. PÁLYATÜKÖR
-
-3.1. A részszakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
-
-|  | A | B | C |
-
-| 3.1.1. | FEOR száma | FEOR megnevezése | A részszakképesítéssel betölthető munkakör(ök) |
-
-| 3.1.2. | 7325 | Hegesztő, lángvágó | Autogénvágó |
-
-| 3.1.3. | Elektromosív-hegesztő |
-
-| 3.1.4. | Elektromosív-vágó |
-
-| 3.1.5. | Fedőporos hegesztő |
-
-| 3.1.6. | NC-vezérlésű lángvágógép kezelője |
-
-| 3.1.7. | Optikai vezérlésű lángvágógép kezelője |
-
-| 3.1.8. | plazmavágó |
-
-| 3.1.9. | Autogénvágó |
-
-3.2. A részszakképesítés munkaterületének rövid leírása:
-
-Fém alkatrészek hegesztését és vágását végzi villamos ív, illetve fémolvasztásos vágásra vagy egybeolvasztásra szolgáló más hőforrások segítségével.
-
-A részszakképesítéssel rendelkező képes:
-
-- olvasni a műszaki rajzokat és a kapcsolódó utasításokat, szabályozásokat
-
-- ellenőrizni a munkaterületet
-
-- előkészíteni a munkadarabot
-
-- beüzemelni a munkavégzéshez szükséges gépeket
-
-- elvégezni a szükséges vágásokat, darabolásokat
-
-- elvégezni a hegesztést
-
-- önellenőrzést végezni a munka megkezdése előtt, alatt és befejezése után
-
-- betartani és betartatni a munkabiztonsági és környezetvédelmi ismereteket
-
-3.3. Kapcsolódó szakképesítések
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| 3.3.3. | 34 521 06 | Hegesztő | szakképesítés |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  | A | B |
-
-| 4.1. | A részszakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.2. | azonosító száma | megnevezése |
-
-| 4.3. | 10163-12 | Gépészeti munkabiztonság és környezetvédelem |
-
-| 4.4. | 10162-12 | Gépészeti alapozó feladatok |
-
-| 4.5. | 10180-12 | Hegesztés előkészítő és befejező műveletei |
-
-| 4.6. | 11453-12 | Bevontelektródás kézi ívhegesztő feladatok |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
-
-5.2.A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  | A | B | C |
-
-| 5.2.1. | A részszakképesítés szakmai követelménymoduljainak |
-
-| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.3. | 10163-12 | Gépészeti munkabiztonság és környezetvédelem | szóbeli |
-
-| 5.2.4. | 10162-12 | Gépészeti alapozó feladatok | gyakorlati |
-
-| 5.2.5. | 10180-12 | Hegesztés előkészítő és befejező műveletei | gyakorlati |
-
-| 5.2.6. | 11453-12 | Bevontelektródás kézi ívhegesztő feladatok | gyakorlati, szóbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A vizsgafeladat megnevezése: Hegesztett kötést készít Bevontelektródás kézi ívhegesztéssel.
-
-A vizsgafeladat ismertetése: Bevontelektródás kézi ívhegesztő
-
-[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja, a 12/2014. (III. 12.) NGM rendelet 9. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja, a 12/2014. (III. 12.) NGM rendelet, a 25/2014. (VIII. 26.) NGM rendelet 1. § (2) bekezdése szerint módosított szöveg.
