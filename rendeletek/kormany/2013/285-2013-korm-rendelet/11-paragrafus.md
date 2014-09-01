@@ -2,6 +2,6 @@
 
 (2) A 10. § (1), (2) és (5) bekezdése 2013. szeptember 1-jén lép hatályba.
 
-(3) Az ösztöndíj-pályázat meghirdetésére első alkalommal a rendelet kihirdetését követő 30 napon belül kerül sor.
+(3)–(4)[^6]
 
-(4) Az ösztöndíj folyósítására első alkalommal a 2013 őszi félévben kerül sor.
+[^6]: A 11. § (3)–(4) bekezdését a 220/2014. (VIII. 29.) Korm. rendelet 37. §-a hatályon kívül helyezte.

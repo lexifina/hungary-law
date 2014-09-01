@@ -14,6 +14,8 @@ c) aki korábban nem vett részt az ösztöndíjprogramban.
 
 (5) A pályázati felhívást, valamint az ösztöndíjprogram működési szabályzatát a miniszter által vezetett minisztérium honlapján és a hivatalos lapban kell közzétenni.
 
-(6) A benyújtott pályázatot a pályázati feltételek alapján a MÖB értékeli és javaslatot tesz a miniszternek az ösztöndíj odaítélésére. Az ösztöndíjat a MÖB javaslata alapján a miniszter adományozza azzal a feltétellel, hogy az ösztöndíjasnak teljesítenie kell a fogadó felsőoktatási intézmény által meghatározott felvételi követelményeket, illetve hallgatói jogviszonyt kell létesítenie.
+(6)[^1] Az ösztöndíjasnak teljesítenie kell a fogadó felsőoktatási intézmény által meghatározott felvételi követelményeket. A benyújtott pályázat és a fogadó felsőoktatási intézmény az intézményi felvételi követelmények teljesítését tanúsító fogadólevele alapján a MÖB javaslatot tesz a miniszternek az ösztöndíj odaítélésére. Az ösztöndíjat a MÖB javaslata alapján a miniszter adományozza azzal a feltétellel, hogy az ösztöndíjasnak hallgatói jogviszonyt kell létesítenie.
 
 (7) Az ösztöndíjassal a MÖB Irodát fenntartó Balassi Intézet (a továbbiakban: felek) ösztöndíjas szerződést köt, amely meghatározza az ösztöndíjjal kapcsolatos jogokat és kötelezettségeket.
+
+[^1]: A 6. § (6) bekezdése a 220/2014. (VIII. 29.) Korm. rendelet 35. §-ával megállapított szöveg.
