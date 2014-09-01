@@ -1,5 +1,3 @@
-## 6–7. §[^4]
+## 7. § A kerettantervi rendelet a 11. melléklet szerinti 13. melléklettel egészül ki.
 
 ## 4. A pedagógiai-szakmai szolgáltatásokról, a pedagógiai-szakmai szolgáltatásokat ellátó intézményekről és a pedagógiai-szakmai szolgáltatásokban való közreműködés feltételeiről szóló 48/2012. (XII. 12.) EMMI rendelet módosítása
-
-[^4]: A 6–7. § a 11. § (2) bekezdése alapján 2014. szeptember 1-jén lép hatályba.
