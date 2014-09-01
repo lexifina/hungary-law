@@ -8,6 +8,6 @@ c) a 3. § (3) bekezdése szerinti jogosultnak legkésőbb a tárgyhónapot köv
 
 kell átadni, illetve jóváírni.
 
-(2)[^3] A jogszerűen átadott, átutalt étkezési utalványt az átadását, illetve a jóváírását követően visszakövetelni nem lehet.
+(2)[^4] A jogszerűen átadott, átutalt étkezési utalványt az átadását, illetve a jóváírását követően visszakövetelni nem lehet.
 
-[^3]: A 4. § (2) bekezdése a 6/2014. (IV. 14.) HM rendelet 26. § b) pontja szerint módosított szöveg.
+[^4]: A 4. § (2) bekezdése a 6/2014. (IV. 14.) HM rendelet 26. § b) pontja szerint módosított szöveg.
