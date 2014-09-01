@@ -1,3 +1,3 @@
-1. melléklet a 288/2010. (XII. 21.) Korm. rendelethez[^87]
+1. melléklet a 288/2010. (XII. 21.) Korm. rendelethez[^89]
 
-[^87]: Az 1. melléklet a 231/2012. (VIII. 28.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^89]: Az 1. melléklet a 231/2012. (VIII. 28.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
