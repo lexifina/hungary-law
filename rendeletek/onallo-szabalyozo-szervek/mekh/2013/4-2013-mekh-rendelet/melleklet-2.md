@@ -32,9 +32,9 @@
 
 |  | A | B | C | D | E | F |
 
-|  |  | Elosztói alapdíj | Elosztói telje- sítménydíj | Elosztói forgalmi díj | Elosztói meddő energia díj | Elosztói veszteség díj |
+|  |  | Elosztói alapdíj | Elosztói teljesítménydíj | Elosztói forgalmi díj | Elosztói meddő energia díj | Elosztói veszteség díj |
 
-|  | Ft/csatla- kozási pont/év | Ft/kW/év | Ft/kWh | Ft/kVArh | Ft/kWh |
+| Ft/csatlakozási pont/év | Ft/kW/év | Ft/kWh | Ft/kVArh | Ft/kWh |
 
 |  | 1. | Nagyfeszültségű csatlakozás | 210 912 | 1 464 | 0,23 | 2,19 | 0,19 |
 
@@ -52,9 +52,9 @@
 
 |  | 5. | Kisfeszültségű csatlakozás |
 
-|  |  | 5.1. | I. | 1 536 | – | 8,54 | 3,67 | 2,95 |
+|  |  | 5.1. | I. | 1 446 | – | 8,58 | 3,67 | 2,95 |
 
-|  |  | 5.2. | II. | 504 | – | 2,81 | – | 2,19 |
+|  |  | 5.2. | II. | 474 | – | 2,83 | – | 2,19 |
 
 |  |  | 5.3. | III. | 35 148 | 8 640 | 4,40 | 3,67 | 2,95 |
 
