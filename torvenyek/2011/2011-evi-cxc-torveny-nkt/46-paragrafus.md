@@ -46,7 +46,7 @@ a) kollégiumi ellátásban részesüljön,
 
 b) válasszon a pedagógiai program keretei között a választható tantárgyak, foglalkozások, továbbá pedagógusok közül,
 
-c) igénybe vegye az iskolában és kollégiumban rendelkezésre álló eszközöket, az iskola és kollégium létesítményeit és az iskolai, kollégiumi könyvtári szolgáltatást,
+c) igénybe vegye az iskolában és kollégiumban rendelkezésre álló eszközöket, az iskola és kollégium létesítményeit és az iskolai, kollégiumi könyvtári szolgáltatást, lelki, testi és értelmi fejlődését elősegítő védelemben részesüljön a köznevelési intézmény által biztosított számítógépeken való internet-hozzáférés során,
 
 d) rendszeres egészségügyi felügyeletben és ellátásban részesüljön,
 
