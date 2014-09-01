@@ -1,5 +1,3 @@
-## 4–7. §[^2]
+## 7. § Az R1. 1. és 2. melléklete az 1. mellékletben foglaltak szerint módosul.
 
 ## 4. A Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet módosítása
-
-[^2]: A 4–7. § a 2. § (2) bekezdése alapján 2014. szeptember 1-jén lép hatályba.

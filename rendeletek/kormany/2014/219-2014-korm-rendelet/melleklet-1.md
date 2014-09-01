@@ -1,5 +1,3 @@
-## 10. §[^5]
-
 1. melléklet a 219/2014. (VIII. 28.) Korm. rendelethez
 
 1. Az R1. 1. melléklet 1.5. és 1. 6. pontjai helyébe a következő rendelkezések lépnek:
@@ -45,5 +43,3 @@ b) 4.2. pontjában az „a Központi Hivatal készíti elő, és” szövegrész
 c) 5.1. pontjában a „vagy a Központi Hivatal” szövegrész,
 
 d) 11.3. pont a) alpontjában és 11.5. pont a) alpontjában az „– a Központi Hivatal útján –” szövegrész.
-
-[^5]: A 10. § a 2. § (2) bekezdése alapján 2014. szeptember 1-jén lép hatályba.
