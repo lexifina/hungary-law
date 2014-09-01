@@ -152,6 +152,8 @@
 
 |  | 75. | 74. | 34 | 582 | 12 | Víz-, csatorna- és közmű- rendszerszerelő | szakképzésért és felnőttképzésért felelős miniszter |
 
+|  | 76. | 75. | 34 | 544 | 01 | Vájár | szakképzésért és felnőttképzésért felelős miniszter |
+
 ## 2. Szakközépiskolai szakképesítések
 
 |  |  |  | A | B | C |
@@ -572,6 +574,8 @@
 
 |  | 80. | 79. | 35 | 622 | 02 | Zöldség- és gyümölcstermesztő | agrárpolitikáért felelős miniszter |
 
+|  | 81. | 80. | 35 | 811 | 03 | Dietetikus szakács | szakképzésért és felnőttképzésért felelős miniszter |
+
 ## 4. Az iskolai rendszerű szakképzésben kizárólag a speciális szakiskolában oktatható szakképesítésekről
 
 |  |  |  | A | B | C |
@@ -612,4 +616,6 @@
 
 |  | 8. | 7. | 31 542 08 | Szövő (Textilanyaggyártó) | szakképzésért és felnőttképzésért felelős miniszter |
 
-2. melléklet a 14/2013. (IV. 5.) NGM rendelethez
+2. melléklet a 14/2013. (IV. 5.) NGM rendelethez[^3]
+
+[^3]: A 2. melléklet a 25/2014. (VIII. 26.) NGM rendelet 2. § (3) bekezdése szerint módosított szöveg.

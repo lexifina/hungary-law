@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-14-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-04-07 | 2013-14-20-2X.1 | 14/2013. (IV. 5.) NGM rendelet |
+| 2014-09-01 | 2013-14-20-2X.2 | 25/2014. (VIII. 26.) NGM rendelet |
