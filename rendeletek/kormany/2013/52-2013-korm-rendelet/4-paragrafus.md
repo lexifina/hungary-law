@@ -18,6 +18,10 @@ h) monitoring tevékenységet végez a program során a képzés, a gyakorlat te
 
 i) közzé teszi azon szakok és szakpárok listáját, melyekben az adott szakos, szakpáros végzettséggel történő majdani munkavállalás esetén az ösztöndíj igénybe vehető,
 
-j) évente beszámolót készít a miniszter számára az ösztöndíj program végrehajtásáról.
+j) évente beszámolót készít a miniszter számára az ösztöndíj program végrehajtásáról,
+
+k)[^1] tájékoztatja a képző felsőoktatási intézményt az elnyert ösztöndíjjal összefüggő, a felsőoktatási intézménynek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 3. melléklet I/B. fejezet 1. pont h) alpont szerinti, az ösztöndíjhoz kapcsolódó adatszolgáltatási kötelezettsége teljesítéséhez szükséges adatokról.
 
 (2) Az ösztöndíjak és az ösztöndíj program működtetésének pénzügyi fedezetét a Központ költségvetésében kell tervezni.
+
+[^1]: A 4. § (1) bekezdés k) pontját a 220/2014. (VIII. 29.) Korm. rendelet 28. §-a iktatta be.
