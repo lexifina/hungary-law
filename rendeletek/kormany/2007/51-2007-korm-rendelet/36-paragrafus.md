@@ -1,6 +1,6 @@
 ## Átmeneti rendelkezések
 
-36. § (1)[^84] Az a hallgató, aki
+36. § (1)[^107] Az a hallgató, aki
 
 a) 2006. december 31-je előtt létesített hallgatói jogviszonyt és
 
@@ -12,14 +12,14 @@ b) a félév (oktatási időszak) első napján az aa) vagy az ab) pontok szerin
 
 azon a szakon, szakképzésben, melyben e rendelet hatálybalépése előtt az aa) vagy az ab) pont alapján korábban költségtérítés-mentességben részesült, a b) pont szerinti félévben (oktatási időszakban) költségtérítés fizetésére nem kötelezhető.
 
-(2)[^85] Az intézmény az (1) bekezdésben meghatározott hallgatók képzésének költségvetési támogatását az adott tanév első félévére november 15-ig, második félévére április 15-ig elkészített tételes jelentés alapján az Emberi Erőforrások Minisztériuma – az intézmények részére e jogcímen biztosított költségvetési támogatás figyelembevételével – a zárszámadás, illetve a nem állami fenntartású intézményekkel kötött megállapodás keretében rendezi. A felsőoktatási intézmény az érintett hallgatók adatszolgáltatási kötelezettségeit térítési és juttatási szabályzatában köteles rögzíteni. A költségvetési támogatásnál csak azok a hallgatók vehetők figyelembe, akik az intézményi térítési és juttatási szabályzat szerint, de legkésőbb az adott évben március 31-ig, illetőleg október 31-ig a szükséges adatszolgáltatást elvégezték.
+(2)[^108] Az intézmény az (1) bekezdésben meghatározott hallgatók képzésének költségvetési támogatását az adott tanév első félévére november 15-ig, második félévére április 15-ig elkészített tételes jelentés alapján az Emberi Erőforrások Minisztériuma – az intézmények részére e jogcímen biztosított költségvetési támogatás figyelembevételével – a zárszámadás, illetve a nem állami fenntartású intézményekkel kötött megállapodás keretében rendezi. A felsőoktatási intézmény az érintett hallgatók adatszolgáltatási kötelezettségeit térítési és juttatási szabályzatában köteles rögzíteni. A költségvetési támogatásnál csak azok a hallgatók vehetők figyelembe, akik az intézményi térítési és juttatási szabályzat szerint, de legkésőbb az adott évben március 31-ig, illetőleg október 31-ig a szükséges adatszolgáltatást elvégezték.
 
-(3)[^86] Az (1) bekezdés szerint mentesülők esetében a képzés költségvetési támogatása a felsőoktatási intézmény által lejelentett létszámból a felsőoktatási intézmények képzési, tudományos célú és fenntartói normatíva alapján történő finanszírozásáról szóló 50/2008. (III. 14.) Korm. rendelet 4. § (1)–(2) bekezdések szerint számított összeg. Szakirányú továbbképzés esetében az Emberi Erőforrások Minisztériuma teszi közzé a szakok két finanszírozási csoportba történő besorolását. Az adott hallgató után járó támogatás összege nem haladhatja meg a hallgató által felvett szak megállapított költségtérítését.
+(3)[^109] Az (1) bekezdés szerint mentesülők esetében a képzés költségvetési támogatása a felsőoktatási intézmény által lejelentett létszámból a felsőoktatási intézmények képzési, tudományos célú és fenntartói normatíva alapján történő finanszírozásáról szóló 50/2008. (III. 14.) Korm. rendelet 4. § (1)–(2) bekezdések szerint számított összeg. Szakirányú továbbképzés esetében az Emberi Erőforrások Minisztériuma teszi közzé a szakok két finanszírozási csoportba történő besorolását. Az adott hallgató után járó támogatás összege nem haladhatja meg a hallgató által felvett szak megállapított költségtérítését.
 
 (4) A katonai felsőoktatási intézmények esetében az (1) bekezdés szerint meghatározott hallgatók képzésének költségvetési támogatását az érintett tárca saját fejezetén belül biztosítja.
 
 (5) Azoktól a hallgatóktól, akik a 2000/2001-es és a 2001/2002-es tanévben létesítettek hallgatói jogviszonyt és államilag finanszírozott képzésben kezdték tanulmányaikat, de már nem számítanak államilag támogatott hallgatónak, amennyiben a megkezdett képzés legfeljebb nyolc féléves volt, a megkezdett képzésben további két féléven keresztül, egyéb esetekben három féléven keresztül költségtérítési díj nem szedhető. Ezen hallgatókat – amennyiben a képzésben 2007. szeptember 1-jéig költségtérítés fizetésére nem voltak kötelezve – ezt követően a további félévekben csak a felsőoktatási intézmény szabályzatának ilyen értelmű kifejezett rendelkezése esetén lehet költségtérítés fizetésére kötelezni.
 
-[^84]: A 36. § (1) bekezdése a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének k) pontjával megállapított szöveg.
-[^85]: A 36. § (2) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 32. § k) pontja szerint módosított szöveg.
-[^86]: A 36. § (3) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 17. § (7) bekezdésével megállapított, a 248/2012. (VIII. 31.) Korm. rendelet 32. § k) pontja szerint módosított szöveg.
+[^107]: A 36. § (1) bekezdése a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének k) pontjával megállapított szöveg.
+[^108]: A 36. § (2) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 32. § k) pontja szerint módosított szöveg.
+[^109]: A 36. § (3) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 17. § (7) bekezdésével megállapított, a 248/2012. (VIII. 31.) Korm. rendelet 32. § k) pontja szerint módosított szöveg.

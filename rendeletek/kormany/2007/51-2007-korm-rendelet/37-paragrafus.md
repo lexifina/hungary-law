@@ -1,8 +1,8 @@
 ## Hatályba léptető rendelkezések
 
-37. § (1)[^87] E rendelet – a (2)–(3) bekezdésben foglaltak kivételével – 2007. augusztus 1-jén lép hatályba.
+37. § (1)[^110] E rendelet – a (2)–(3) bekezdésben foglaltak kivételével – 2007. augusztus 1-jén lép hatályba.
 
-(2)[^88]
+(2)[^111]
 
 (3) 2009. augusztus 1-jén e rendelet
 
@@ -14,8 +14,8 @@ b) 8. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
 ## „a) a felsőoktatási törvény 129. §-a (3) bekezdésének a) pontja szerinti támogatás [hallgatói normatíva] 35–40 százalékát, továbbá”
 
-(4)[^89]
+(4)[^112]
 
-[^87]: A 37. § (1) bekezdésének második mondatát a 66/2008. (III. 29.) Korm. rendelet 2. § (2) bekezdése b) pontjának bh) alpontja hatályon kívül helyezte.
-[^88]: A 37. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 49. § (1) bekezdésének 4. pontja hatályon kívül helyezte.
-[^89]: A 37. § (4) bekezdését a 66/2008. (III. 29.) Korm. rendelet 2. § (2) bekezdése b) pontjának bi) alpontja hatályon kívül helyezte.
+[^110]: A 37. § (1) bekezdésének második mondatát a 66/2008. (III. 29.) Korm. rendelet 2. § (2) bekezdése b) pontjának bh) alpontja hatályon kívül helyezte.
+[^111]: A 37. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 49. § (1) bekezdésének 4. pontja hatályon kívül helyezte.
+[^112]: A 37. § (4) bekezdését a 66/2008. (III. 29.) Korm. rendelet 2. § (2) bekezdése b) pontjának bi) alpontja hatályon kívül helyezte.
