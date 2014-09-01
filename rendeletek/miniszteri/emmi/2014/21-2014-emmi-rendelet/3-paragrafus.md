@@ -1,0 +1,5 @@
+3. § (1) A 2. § szerinti bejelentésért és az adatszolgáltatás teljességéért az egészségügyi szolgáltató vezetője felelős. A bejelentett adatoknak egyezniük kell az érintett beteg egészségügyi dokumentációjában szereplő, a veleszületett rendellenességre vonatkozó adatokkal. Az adatszolgáltatás minősége és teljessége, továbbá az orvosi dokumentációval való egyezősége érdekében a VRONY-t működtető szerv az adatszolgáltatóval évente adategyeztetést tarthat.
+
+(2) A VRONY-ban nyilvántartott adatok védelméért, a nyilvántartás megőrzéséért a VRONY-t működtető szerv vezetője felelős. Az e-VRONY adatbeviteli felületén bejelentett személyazonosító és egészségügyi adatokat egymástól elkülönítetten kell tárolni. A személyazonosításra alkalmatlan adatállományhoz egy egyéni azonosítót kell rendelni, amely véletlenszerűen megállapított, egyedi elemet tartalmaz. Az egyéni azonosító személyazonosító adatokhoz történő hozzárendelésére a VRONY-t működtető szerv vezetője által kijelölt alkalmazottak jogosultak.
+
+(3) A VRONY-ban nyilvántartott adatok tisztítását, egyeztetését, az adatok teljességének ellenőrzését a VRONY-t működtető szerv negyedévente végzi.
