@@ -1,3 +1,3 @@
-## 17. §[^7]
+## 17. §[^6]
 
-[^7]: A 17. § a 4. § (5) bekezdése alapján 2016. december 14-én lép hatályba.
+[^6]: A 17. § a 4. § (5) bekezdése alapján 2016. december 14-én lép hatályba.
