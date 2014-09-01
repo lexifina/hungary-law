@@ -20,7 +20,7 @@ d) az intézményben a szükséges gazdálkodási intézkedések és javaslatok 
 
 (3) Magyarország címere elhelyezhető a felsőoktatási intézmény alapfeladatának ellátását szolgáló helyiségekben, címtábláján, épületeinek homlokzatán, továbbá feltüntethető a körbélyegzőjén és a felsőoktatási intézmény által kiadott okleveleken, oklevélmellékleteken.
 
-(4) A Mozgássérültek Pető András Nevelőképző és Nevelőintézete főiskolaként működő felsőoktatási intézmény.
+(4) A Pető András Főiskola főiskolaként működő felsőoktatási intézmény.
 
 (5) Az Andrássy Gyula Budapesti Német Nyelvű Egyetem egyetemként működő felsőoktatási intézmény, amely – alapító okiratában foglaltak szerint – térhet el a 6. § (2) bekezdésében, 9. § (3) bekezdésben a felsőoktatási intézményekre előírt feltételektől, azzal, hogy a 15–16. § szerinti képzési rendszert meg kell tartania.
 
