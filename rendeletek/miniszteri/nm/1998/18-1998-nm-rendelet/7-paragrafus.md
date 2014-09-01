@@ -8,7 +8,7 @@
 
 (4)[^33] Influenza megbetegedés ellen az OEK VML szerint az adott évben veszélyeztetettnek minősülő személyek részesíthetők védőoltásban.
 
-(5)[^34]
+(5)[^34] A Human papilloma vírus ellen a 12. életévüket betöltött és az általános iskola 7. évfolyamát végző lánygyermekek iskolai kampányoltás keretében az OEK VML-ben foglalt oltási rend és az orvosszakmai szempontok figyelembevételével térítésmentes védőoltásban részesíthetők.
 
 [^33]: A 7. § (4) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 25. § c) pontja szerint módosított szöveg.
-[^34]: A 7. § (5) bekezdését a 36/2008. (IX. 23.) EüM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 23/2014. (III. 27.) EMMI rendelet 5. § b) pontja.
+[^34]: A 7. § (5) bekezdését újonnan a 43/2014. (VIII. 19.) EMMI rendelet 6. §-a iktatta be.
