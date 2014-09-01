@@ -2,10 +2,20 @@
 
 6. § (1) A biztonsági összekötő személynek, az adott ágazatnak megfelelő szakirányú végzettséggel kell rendelkeznie.
 
-(2)–(3)[^1]
+(2) A biztonsági összekötő személynek, az adott ágazatnak megfelelő szakirányú végzettség mellett rendelkeznie kell
+
+a) védelmi igazgatási vagy rendészeti igazgatási szakon szerzett felsőfokú végzettséggel,
+
+b) tűzvédelmi, iparbiztonsági, polgári védelmi szakmai irányú rendészeti szervezői szakképesítéssel, vagy ezzel egyenértékű végzettséggel,
+
+c) iparbiztonsági szaktanfolyami végzettséggel,
+
+d) iparbiztonsági szakon szerzett felsőfokú végzettséggel, vagy
+
+e) a katasztrófavédelem hivatásos szerveinél legalább 5 év iparbiztonsági szakterületen szerzett gyakorlattal.
+
+(3) A (2) bekezdés a)–c) pontjában előírt követelmények alól, a korábban rendvédelmi szerv által, a rendvédelmi szerv alaptevékenységébe tartozó feladatok ellátása körében legalább öt évig foglalkoztatott felsőfokú végzettségű személy mentesül. A mentesülés feltételeinek való megfelelést az érintett igazolja.
 
 (4) Ha az üzemeltető a képesítési követelményeknek megfelelő személy alkalmazásáról már gondoskodott, biztonsági összekötő személynek ez a személy kinevezhető.
 
 (5) Az alkalmasság feltételeinek való megfelelést az érintett igazolja.
-
-[^1]: A 6. § (2)–(3) bekezdése a 13. § (2) bekezdése alapján 2014. szeptember 1-jén lép hatályba.
