@@ -2,6 +2,8 @@
 
 (2) A MAB minőségellenőrzési és minőségértékelési feladatait a következő közhasznú tevékenységek vonatkozásában látja el: tudományos tevékenység, kutatás, nevelés és oktatás, képességfejlesztés, ismeretterjesztés; kulturális tevékenység.
 
-(3) A MAB gazdálkodásának alapjául az Nftv. 84. § (2) bekezdés b)–d) pontjaiban meghatározott jogcímen biztosított támogatások összegére tekintettel a miniszter által megállapított – a MAB jogszerű működését biztosító – támogatás szolgál, amelyen kívül a MAB-nak egyéb bevételei is lehetnek.
+(3)[^4] A MAB gazdálkodásának alapjául a miniszter által megállapított támogatás szolgál, amelyen kívül a MAB-nak egyéb bevételei is lehetnek.
 
 (4) A MAB tevékenységének és gazdálkodásának legfontosabb adatait a minisztérium hivatalos lapjában évente közzéteszi.
+
+[^4]: Az 5. § (3) bekezdése a 220/2014. (VIII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.

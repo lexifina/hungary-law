@@ -6,8 +6,11 @@ b) a tag halálával,
 
 c) a tag írásos lemondásával,
 
-d) visszahívásának kezdeményezése esetén, ha a miniszterelnök – a miniszter javaslatára – a megbízást visszavonja.
+d)[^12] a tag visszahívásának kezdeményezése esetén, ha a miniszterelnök – a miniszter javaslatára – a megbízást visszavonja.
 
 (2) Visszahívásra a delegáló jogosult.
 
-(3) Az (1) bekezdés c) pontja szerinti megszűnési okok bekövetkezése és a megbízatás visszavonása közötti időszakban a tagot nem terhelik a tagsággal járó kötelezettségek, valamint nem gyakorolhatja a tagsággal járó jogosultságokat.
+(3)[^13]
+
+[^12]: A 17. § (1) bekezdés d) pontja a 220/2014. (VIII. 29.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^13]: A 17. § (3) bekezdését a 220/2014. (VIII. 29.) Korm. rendelet 19. §-a hatályon kívül helyezte.
