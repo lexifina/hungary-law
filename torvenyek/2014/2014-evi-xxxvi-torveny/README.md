@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-36-00-00
 | 2014-07-24 | 2014. évi XXXVI. törvény | 2014-36-00-00.0 (közlönyállapot) |
 | 2014-07-24 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-36-00-00.1 |
 | 2014-07-25 | 2010. évi CXXX. törvény | 2014-36-00-00.2 |
+| 2014-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-36-00-00.3 |
