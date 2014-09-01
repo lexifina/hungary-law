@@ -1,4 +1,4 @@
-35. § (1)[^8] A Területi Együttműködés előirányzatai (XIX. fejezet 2. cím 5. alcím) vonatkozásában
+35. § (1)[^11] A Területi Együttműködés előirányzatai (XIX. fejezet 2. cím 5. alcím) vonatkozásában
 
 a) kötelezettségvállaló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
@@ -18,9 +18,9 @@ b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője v
 
 c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
-d)[^9] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^12] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^8]: A 35. § (1) bekezdése a 27/2014. (II. 7.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^9]: A 35. § (2) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
+[^11]: A 35. § (1) bekezdése a 27/2014. (II. 7.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^12]: A 35. § (2) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.

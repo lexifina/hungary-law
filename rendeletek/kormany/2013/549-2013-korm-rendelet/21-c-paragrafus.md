@@ -1,0 +1,5 @@
+21/C. § (1) Egyéb EU által nem térített kiadások előirányzatból kerül finanszírozásra az EU általi pénzügyi kizárásoknak, az éves számla-elszámolási eljárásokhoz, az EU által határozathozatal útján megállapított térítésekhez, továbbá a korábbi évek átmeneti támogatási projektjeihez kapcsolódó visszafizetési kötelezettség.
+
+(2) Az előirányzatból kerül biztosításra az adók módjára behajtandó köztartozások állami adóhatóság általi végrehajtásához kapcsolódóan felmerült végrehajtási költségek azon része, amely a végrehajtás során nem térült meg, a csődeljárásról, a felszámolási eljárásról szóló 1991. évi XLIX. törvény 46. § (7) bekezdése szerinti hitelezői nyilvántartásba vételi díj, a 46. § (8) bekezdése szerinti követelés behajthatatlanságára vonatkozó igazolás, az 1996. évi LXXXV. törvény 32/A. § (1) bekezdésében meghatározott igazgatási szolgáltatási díj és a bírósági végrehajtásról szóló 1994. évi LIII. törvény 34. § (1) bekezdése szerinti végrehajtási költség megelőlegezése.
+
+(3) Az előirányzatból kizárólag az MVH részére történik forrás átadás, pénzeszköz átadás formájában.

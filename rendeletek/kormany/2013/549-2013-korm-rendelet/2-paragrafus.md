@@ -30,6 +30,10 @@
 
 14. szabálytalanság: a 4/2011. (I. 28.) Korm. rendelet, a Svájci–Magyar Együttműködési Program végrehajtási rendjéről szóló 237/2008. (IX. 26.) Korm. rendelet [a továbbiakban: 237/2008. (IX. 26.) Korm. rendelet] és a 326/2012. (XI. 16.) Korm. rendelet szerinti fogalom,
 
+14a.[^2] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+
+14b.[^3] szakmai kezelő: az Ávr. 13. § (3) bekezdése szerinti szabályzatban meghatározott, az agrár-vidékfejlesztésért felelős miniszter által vezetett minisztérium szervezeti egységének vezetője;
+
 15. támogatási konstrukció: egy pályázati kiírás, valamint egy vagy több hasonló céllal megvalósuló kiemelt projekt vagy nagyprojekt,
 
 16. támogató: az államháztartásról szóló 2011. évi CXCV. törvény 48. § (2) bekezdése szerinti személy,
@@ -43,3 +47,5 @@
 (2) Nem minősül az (1) bekezdés 2. pontja szerinti jogosulatlan forrásfelhasználásnak, ha a kedvezményezett a pénzügyi közvetítővel szemben fennálló fizetési kötelezettségének gazdasági tevékenysége körében felmerülő üzleti kockázatból eredő fizetési nehézség révén nem képes eleget tenni, vagy ha a pénzügyi közvetítő egy adott pénzügyi eszköz hitelkockázatának révén realizált hitelezési vagy befektetési veszteséget szenved el.
 
 [^1]: A 2. § (1) bekezdés 5. pontja a 96/2014. (III. 25.) Korm. rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 14a. pontját a 215/2014. (VIII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2. § (1) bekezdés 14b. pontját a 215/2014. (VIII. 27.) Korm. rendelet 1. §-a iktatta be.

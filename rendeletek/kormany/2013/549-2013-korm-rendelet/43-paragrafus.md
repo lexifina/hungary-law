@@ -6,8 +6,8 @@ b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője v
 
 c) teljesítés igazoló: a KEOP IH vezetője vagy az általa írásban kijelölt személy,
 
-d)[^26] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^29] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^26]: A 43. § d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § l) pontja szerint módosított szöveg.
+[^29]: A 43. § d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § l) pontja szerint módosított szöveg.

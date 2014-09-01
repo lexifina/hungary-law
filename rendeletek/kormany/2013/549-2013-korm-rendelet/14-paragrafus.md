@@ -2,7 +2,7 @@
 
 ## 6. A Budapest 4-es metróvonal építésének támogatása előirányzat felhasználási szabályai
 
-14. § (1)[^2] A Budapest 4-es metróvonal építésének támogatása előirányzat célja a Budapest 4-es metróvonal projekt Közlekedés Operatív Program keretében el nem számolható költségeinek finanszírozása a fővárosi önkormányzat és az állam közötti – a budapesti 4-es – Budapest Kelenföldi pályaudvar–Bosnyák tér közötti – metróvonal megépítésének állami támogatásáról szóló 2005. évi LXVII. törvény 5. §-a szerint – módosított finanszírozási szerződés alapján.
+14. § (1)[^4] A Budapest 4-es metróvonal építésének támogatása előirányzat célja a Budapest 4-es metróvonal projekt Közlekedés Operatív Program keretében el nem számolható költségeinek finanszírozása a fővárosi önkormányzat és az állam közötti – a budapesti 4-es – Budapest Kelenföldi pályaudvar–Bosnyák tér közötti – metróvonal megépítésének állami támogatásáról szóló 2005. évi LXVII. törvény 5. §-a szerint – módosított finanszírozási szerződés alapján.
 
 (2) A Budapest 4-es metróvonal építésének támogatása előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat)
 
@@ -16,4 +16,4 @@ használható fel.
 
 (4) Az előirányzat (1) bekezdés a) pontja szerinti felhasználásával kapcsolatos ellenőrzési feladatok ellátásának finanszírozására a budapesti 4-es – Budapest Kelenföldi pályaudvar–Bosnyák tér közötti – metróvonal megépítésének állami támogatásáról szóló 2005. évi LXVII. törvény 2. § (2) bekezdésében meghatározott összeg használható fel.
 
-[^2]: A 14. § (1) bekezdése a 194/2014. (VII. 31.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^4]: A 14. § (1) bekezdése a 194/2014. (VII. 31.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
