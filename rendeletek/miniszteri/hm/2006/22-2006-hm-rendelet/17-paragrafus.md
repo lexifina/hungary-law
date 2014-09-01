@@ -1,3 +1,3 @@
-## 16. §[^27]
+## 16. §[^30]
 
-[^27]: A 16. §-t és az azt megelőző alcímet a 3/2009. (III. 18.) HM rendelet 21. § (4) bekezdés b) pontja hatályon kívül helyezte.
+[^30]: A 16. §-t és az azt megelőző alcímet a 3/2009. (III. 18.) HM rendelet 21. § (4) bekezdés b) pontja hatályon kívül helyezte.

@@ -20,7 +20,7 @@ h) húsvéthétfőn;
 
 i) pünkösdhétfőn;
 
-j)[^31] a szerződéses katonák alapozó kiképzésének és az önkéntes tartalékos katonák alapfelkészítésének befejező napjain;
+j)[^34] a szerződéses katonák alapozó kiképzésének és az önkéntes tartalékos katonák alapfelkészítésének befejező napjain;
 
 k) csapatzászló adományozás, kerek évforduló (10, 25, 50, 75, 100 év), valamint csapatünnep és fegyvernemi nap alkalmával;
 
@@ -36,4 +36,4 @@ n) a külföldön béketámogató tevékenységben részt vevő katonai szerveze
 
 (4) A pénznorma az (1) bekezdés b)–f) pontjai esetében az ünnepség megtartásának napjára számítható fel akkor is, ha az ünnepség az ünnepnapot megelőző munkanapon kerül megrendezésre.
 
-[^31]: A 21. § (1) bekezdés j) pontja a 20/2009. (XII. 29.) HM rendelet 7. §-ával megállapított szöveg.
+[^34]: A 21. § (1) bekezdés j) pontja a 20/2009. (XII. 29.) HM rendelet 7. §-ával megállapított szöveg.

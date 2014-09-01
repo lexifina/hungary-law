@@ -16,9 +16,9 @@
 
 (8)[^15] A külföldi katonák részvételével megtartásra kerülő törzsvezetési és csapatgyakorlaton, hadijátékon részt vevő ejtőernyős, búvár beosztású hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos katonának csak a VI. számú élelmezési norma kétszeres szorzóval számított értéke jár természetben. Élelmiszer-utalványt ezen időszakra kiadni nem lehet.
 
-(9)[^16] A HM Honvéd Kulturális Szolgáltató Közhasznú Társaság (a továbbiakban: Kht.) üdültetési egységeibe kondicionáló kiképzésre és regeneráló pihentetésre beutalt vagy vezényelt ejtőernyős és búvár állomány a Kht. normája alapján térítésmentes természetbeni ellátásra jogosult. A szolgálati hely szerinti katonai szervezet a Kht. által – az MH-ban alkalmazott élelmezési norma alapján – kiállított számla ellenértékét köteles kifizetni. A két norma közötti eltérésből adódó különbözetek elszámolását a HM Védelmi Tervezési és Vagyongazdálkodási Főosztály az éves támogatói szerződések kialakítása során – az MH középszintű vezető szerve által felterjesztett következő évi igény alapján kiszámítva – rendezi. Az élelmezési ellátás idejére élelmiszer-utalvány nem jár.
+(9)[^16] A kondicionáló-kiképzési, valamint a katonai kiképzési és oktatási célú rendezvényekről, továbbá a regeneráló pihenés és a rekreáció rendjéről szóló HM rendelet szerinti kondicionáló-kiképzési rendezvényen résztvevő ejtőernyős, búvár állomány részére III. számú élelmezési norma szerinti élelmezési ellátást kell biztosítani. Ezeken a napokon az élelmezési norma pénzértéke élelmiszer-utalvánnyal nem váltható meg.
 
 [^13]: A 8. § (5) bekezdése a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^14]: A 8. § (7) bekezdése a 3/2009. (III. 18.) HM rendelet 5. § (1) bekezdésével megállapított, a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^15]: A 8. § (8) bekezdése a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^16]: A 8. § (9) bekezdését a 3/2009. (III. 18.) HM rendelet 5. § (2) bekezdése iktatta be, szövege a 9/2010. (V. 4.) HM rendelet 5. §-a szerint módosított szöveg.
+[^16]: A 8. § (9) bekezdését a 3/2009. (III. 18.) HM rendelet 5. § (2) bekezdése iktatta be, szövege a 11/2014. (VIII. 1.) HM rendelet 2. §-ával megállapított szöveg.

@@ -1,16 +1,16 @@
 ## 12. § A III. számú élelmezési norma szerinti térítésmentes természetbeni élelmezési ellátásra a személyi állomány a 3. számú mellékletben felsorolt esetekben jogosult.
 
-## 13. §[^21] A III. számú élelmezési normára jogosultak közül a repülőhajózó hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos állományú katonák részére a természetbeni ellátás biztosítása helyett élelmiszer-utalványt kell kiadni:
+## 13. §[^22] A III. számú élelmezési normára jogosultak közül a repülőhajózó hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos állományú katonák részére a természetbeni ellátás biztosítása helyett élelmiszer-utalványt kell kiadni:
 
 a) heti pihenőnapokon (szombat, vasárnap);
 
 b) szolgálatmentes napon;
 
-c) a repülésmentes kiképzési napokon kiképzési időn kívüli időszakra eső részétkezés fejében. Ezt a parancsnok parancsban szabályozza;
+c)[^23] a repülésmentes kiképzési napokon kiképzési időn kívüli időszakra eső főétkezés fejében. Ezt a parancsnok parancsban szabályozza;
 
 d) az éves rendes szabadság időtartamára;
 
-e) a belföldi szolgálati kiküldetés napjain (ha a norma szerinti természetbeni ellátásra nincs lehetőség). Ebben az esetben az igényjogosult állomány a Hjt. 121. § (1) bekezdésében megállapított napidíjra nem jogosult;
+e)[^24] a belföldi szolgálati kiküldetés napjain (ha a norma szerinti természetbeni ellátásra nincs lehetőség);
 
 f) a parancsnok által engedélyezett tanulmányi és rendkívüli szabadság időtartamára;
 
@@ -18,7 +18,9 @@ g) a repüléstől egészségügyi okok miatti távollét, lakáson történő k
 
 h) azoknak, akik olyan központi szervnél, parancsnokságon teljesítenek szolgálatot, ahol a III. számú élelmezési norma szerint nem gazdálkodnak. E személyek – ha szolgálati kiküldetésük során repülő szervezet étkezdéjében étkeznek – az igénybe vett étkezésért a III. számú élelmezési norma (résznorma) összegét kötelesek téríteni;
 
-i)[^22] külföldi repülőkiképzésen részt vevő hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos repülőhajózó oktató és hallgató állománynak a kiképzése időtartamára.
+i)[^25] külföldi repülőkiképzésen részt vevő hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos repülőhajózó oktató és hallgató állománynak a kiképzése időtartamára.
 
-[^21]: A 13. § bevezető szövegrésze a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^22]: A 13. § i) pontja a 3/2009. (III. 18.) HM rendelet 21. § (3) bekezdés 6. pontja, a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^22]: A 13. § bevezető szövegrésze a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^23]: A 13. § c) pontja a 11/2014. (VIII. 1.) HM rendelet 7. § a) pontja szerint módosított szöveg.
+[^24]: A 13. § e) pontja a 11/2014. (VIII. 1.) HM rendelet 8. § a) pontja szerint módosított szöveg.
+[^25]: A 13. § i) pontja a 3/2009. (III. 18.) HM rendelet 21. § (3) bekezdés 6. pontja, a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
