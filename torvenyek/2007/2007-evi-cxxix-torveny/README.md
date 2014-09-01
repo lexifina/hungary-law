@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-129-00-00
 | 2013-11-01 | 2013. évi CLXIX. törvény | 2007-129-00-00.15 |
 | 2013-12-31 | 2013. évi CCL. törvény | 2007-129-00-00.16 |
 | 2014-02-15 | 2013. évi CCL. törvény | 2007-129-00-00.17 |
+| 2014-09-01 | 2013. évi CLXIX. törvény | 2007-129-00-00.18 |
