@@ -1,6 +1,6 @@
 3. § (1) A kiemelt felsőoktatási intézmény minősítés az intézmény négyéves fejlesztési tervében közölt adatok, illetve hivatalos oktatási statisztikák alapján elkészült elemzésen és értékelésen alapul.
 
-(2) A kiemelt felsőoktatási intézmény minősítésre vonatkozó határozatot a Kormány az oktatásért felelős miniszter (a továbbiakban: miniszter) előterjesztése alapján – a 2. § (1) bekezdése szerint minősített intézmény esetén a Magyar Tudományos Akadémia elnökének és a Magyar Felsőoktatási Akkreditációs Bizottság véleményének előzetes kikérésével – hozza meg. A kiemelt felsőoktatási intézmény minősítés négy évre szól.
+(2)[^1] A kiemelt felsőoktatási intézménnyé minősítésre vonatkozó határozatot az oktatásért felelős miniszter (a továbbiakban: miniszter) – a 2. § (1) bekezdése szerint minősített intézmény esetén a Magyar Tudományos Akadémia elnökének és a Magyar Felsőoktatási Akkreditációs Bizottság véleményének előzetes kikérésével – hozza meg. A kiemelt felsőoktatási intézmény minősítés négy évre szól.
 
 (3) A minősítést megalapozó döntéshez használt értékelési szempontok és összehasonlító elemzések nyilvánosak.
 
@@ -10,4 +10,7 @@
 
 (6) A minősítéssel járó támogatásból megvalósított intézkedésekről az intézmény évente beszámolót küld a miniszter részére.
 
-(7) Amennyiben az éves beszámoló alapján a felsőoktatási intézmény nem felel meg a minősítésnek, a miniszter – a (2) bekezdés szerinti véleményezést követően – javaslatot tehet a Kormány részére a minősítés visszavonására.
+(7)[^2] Ha az éves beszámoló alapján a felsőoktatási intézmény nem felel meg a minősítésnek, a miniszter – a (2) bekezdés szerinti véleményezést követően – a minősítést visszavonja.
+
+[^1]: A 3. § (2) bekezdése a 220/2014. (VIII. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (7) bekezdése a 220/2014. (VIII. 29.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.

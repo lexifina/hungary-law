@@ -18,4 +18,6 @@
 
 (10) A minősítést megalapozó döntéshez használt értékelési szempontok, mutatók és összehasonlító elemzések nyilvánosak.
 
-(11) Kutatóegyetemi minősítéssel legfeljebb hat egyetem, az önálló kutató kari minősítéssel legfeljebb további hat kar rendelkezhet egyidejűleg egy minősítési időszakban.
+(11)[^3] Kutatóegyetemi minősítéssel legfeljebb hat egyetem, az önálló kutató kari minősítéssel legfeljebb további négy kar rendelkezhet egyidejűleg egy minősítési időszakban.
+
+[^3]: Az 5. § (11) bekezdése a 220/2014. (VIII. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
