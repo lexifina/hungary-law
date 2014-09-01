@@ -4,15 +4,7 @@
 
 a) módszertani és tudásközpontként önálló elemzési, hatásvizsgálati, módszertan-fejlesztési tevékenységeket lát el,
 
-b) részt vesz az államigazgatási feladat- és hatáskörök feladatkataszterének elkészítésében,
-
-c) részt vesz a fővárosi és megyei kormányhivatalok feladatkörét, szervezetét és működését érintő projektek előkészítésében, végrehajtásában, adminisztrációjában,
-
-d) szervezi a fővárosi és megyei kormányhivatalok, valamint a kormányablakok fejlesztését, a kormányablakok elhelyezésével összefüggően javaslatokat és intézkedéseket dolgoz ki,
-
-e) működteti a kormányablak-tudástárat,
-
-f) közreműködik a közigazgatás szervezéséért felelős miniszternek a kormányablakok ügyfélszolgálati tevékenységének szakmai irányításával, ezzel összefüggésben az ügyfélszolgálati működés fejlesztésével, elemzésével és monitoringjával kapcsolatos feladatok ellátásában,
+b)–f)[^9]
 
 g) közzétételre előkészíti a Magyar Közlöny és a Hivatalos Értesítő egyes lapszámait, mint elektronikus dokumentumokat,
 
@@ -20,3 +12,4 @@ h) gondoskodik a formatervezési tevékenységet előmozdító programok, kiáll
 
 [^7]: A 6. alcím (10. §) az 56/2013. (II. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^8]: A 10. § az 515/2013. (XII. 30.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^9]: A 10. § b)–f) pontját a 219/2014. (VIII. 28.) Korm. rendelet 3. §-a hatályon kívül helyezte.
