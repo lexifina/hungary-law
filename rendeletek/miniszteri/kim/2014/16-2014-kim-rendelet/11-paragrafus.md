@@ -6,6 +6,6 @@
 
 (4) Az OBH az adatszolgáltatást vagy az arról szóló tájékoztatást, hogy az adatszolgáltatás nem teljesíthető, az 5. mellékletben meghatározott adattartalommal rendszeresített űrlapon adja ki.
 
-(5) Az OBH-hoz beérkező és az OBH-nál keletkezett iratok kezeléséről, valamint az ügykezelés részletes szabályairól az OBH elnöke szabályzatot ad ki.[^1]
+(5) Az OBH-hoz beérkező és az OBH-nál keletkezett iratok kezeléséről, valamint az ügykezelés részletes szabályairól az OBH elnöke szabályzatot ad ki.[^2]
 
-[^1]: Lásd a 10/2014. (VII. 11.) OBH utasítást.
+[^2]: Lásd a 10/2014. (VII. 11.) OBH utasítást.

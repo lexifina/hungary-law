@@ -1,5 +1,3 @@
-## 7. § Az OBH elnöke a Tv. 18. § (2) bekezdésében előírt kötelezettségének teljesítése érdekében 3 havonta adatot igényel a személyiadat- és lakcímnyilvántartásból.
-
 ## 4. A nyilvántartásokban kezelt adatok közvetlen hozzáféréssel történő megismerésének közös szabályai
 
 8. § (1) A Tv. 6. §-ában és 17. § (2) bekezdésében meghatározott közfeladatot ellátó szerv közvetlen hozzáféréssel, kizárólag elektronikus úton igényelhet adatot, az erre szolgáló informatikai rendszer útján.
