@@ -4,4 +4,6 @@
 
 (3) A közigazgatás szervezéséért felelős miniszter szakmai irányítást gyakorol a kormányablakok ügyfélszolgálati tevékenysége felett, amelynek keretében ellátja az ügyfélszolgálati működés fejlesztésére, elemzésére és monitoringjára vonatkozó feladatokat.
 
-(4) A miniszter (3) bekezdésben meghatározott feladatai ellátásában a Közigazgatási és Igazságügyi Hivatal (a továbbiakban: KIH) és a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: KEK KH) közreműködik.
+(4)[^1] A miniszter (3) bekezdésben meghatározott feladatai ellátásában a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: KEK KH) közreműködik.
+
+[^1]: A 2. § (4) bekezdése a 219/2014. (VIII. 28.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
