@@ -1,0 +1,1 @@
+## 13. § Az emberi erőforrások minisztere ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 37/2013. (V. 28.) EMMI rendelet [a továbbiakban: 37/2013. (V. 28.) EMMI rendelet] 3. melléklete az 5. melléklet szerint módosul.

@@ -1,0 +1,3 @@
+## 14. §[^1]
+
+[^1]: A 14. § a 40/2014. (V. 5.) EMMI rendelet 33. §-a alapján nem lép hatályba.

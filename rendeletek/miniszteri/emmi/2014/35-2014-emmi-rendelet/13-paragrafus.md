@@ -1,0 +1,1 @@
+## 12. § Ez a rendelet 2014. szeptember 1-jén lép hatályba.
