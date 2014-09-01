@@ -24,7 +24,7 @@
 
 | 11. |  |  |  |  |  |  |
 
-| 12. | 11. | 62 | 521 | 01 | Felvonóellenőr | Gépészet |
+| 12. |  |  |  |  |  |  |
 
 | 13. | 12. | 52 | 861 | 03 | Katasztrófavédelmi előadó | Közszolgálat |
 
@@ -44,7 +44,7 @@
 
 | 21. | 20. | 52 | 347 | 07 | Migrációs ügyintéző | Közszolgálat |
 
-| 22. | 21. | 62 | 521 | 02 | Mozgólépcső ellenőr | Gépészet |
+| 22. |  |  |  |  |  |  |
 
 | 23. | 22. | 62 | 861 | 01 | Rendészeti szervező (a szakmairány megjelölésével) – Bűnügyi szervező – Közlekedési és közrendvédelmi szervező – Határrendészeti szervező – Katasztrófavédelmi szervező – Tűzvédelmi szervező – Iparbiztonsági szervező – Büntetés-végrehajtási szervező | Közszolgálat |
 
@@ -2171,252 +2171,6 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 | 7.2.2. | 35 861 01 | Elektronikus vagyonvédelmi rendszerszerelő | Személy-, Vagyonvédelmi és Magánnyomozói Szakmai Kamara |
 
 7.3. A képzés megkezdésének feltétele: a vagyonvédelemről szóló jogszabályokban megfogalmazott erkölcsi alkalmazási feltételek megléte.
-
-A 11. sorszámú Felvonóellenőr megnevezésű szakképesítés szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés azonosító száma: 62 521 01
-
-1.2. Szakképesítés megnevezése: Felvonóellenőr
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 250-350
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: felsőfokú iskolai végzettség
-
-2.1.2. Bemeneti kompetenciák: -
-
-2.2. Szakmai előképzettség: -
-
-2.3. Előírt gyakorlat: legalább három év szakirányú gyakorlat
-
-2.4. Egészségügyi alkalmassági követelmények: -
-
-2.5. Pályaalkalmassági követelmények: -
-
-2.6. Elméleti képzési idő aránya: 90%
-
-2.7. Gyakorlati képzési idő aránya: 10%
-
-2.8. Szintvizsga: -
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
-
-3. PÁLYATÜKÖR
-
-3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
-
-|  | A | B | C |
-
-| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakör(ök) |
-
-| 3.1.2. | 3213 | Építőipari szakmai irányító, felügyelő | Felvonóellenőr |
-
-3.2. A szakképesítés munkaterületének rövid leírása:
-
-A felvonóellenőr:
-
-- elvégzi az üzembe helyezés előtti, az ellenőrző (javítás utáni) vizsgálatokat, a periodikus műszaki biztonságtechnikai vizsgálatokat (fővizsgálatot, ellenőrző vizsgálatot és a karbantartás megfelelőségének műszaki felülvizsgálatát)
-
-- a vizsgálat eredményéről tájékoztatja a tulajdonost, az üzemeltetőt és saját munkáltatóját
-
-- hatósági beavatkozás szükségessége esetén értesíti a jogszabályban meghatározott szervezeteket
-
-- közvetlen baleset- vagy életveszélyt eredményező hiba (hiányosság), továbbá a biztonságos működést veszélyeztető eset észlelésekor intézkedik az üzemeltetés azonnali leállítására és az üzemeltetés szüneteltetésére a veszélyhelyzet megszüntetéséig
-
-- hat hónapot meghaladó leállítás esetén külön jogszabályban meghatározott módon intézkedik, illetve ellenőrzi a felvonó veszélytelenítését
-
-- adatot szolgáltat a felvonók és mozgólépcsők országos központi nyilvántartásához
-
-A szakképesítéssel rendelkező képes:
-
-- elvégezni az üzembe helyezés előtti vizsgálatot (tanúsító vizsgálatot), ellenőrző vizsgálatot (javítás utáni vizsgálatot), a periodikus biztonságtechnikai ellenőrző vizsgálatokat (fővizsgálatot, időszakos vizsgálatot, karbantartás megfelelőségét ellenőrző vizsgálatot), az önálló ellenőr által végezhető periodikus biztonságtechnikai ellenőrző vizsgálatot (karbantartás megfelelőségét ellenőrző vizsgálatot)
-
-- mechanikai méréseket (hossz, szög, helyzet, sebesség, gyorsulás, rántás, tömeg, erő, alakváltozás, hőmérséklet stb.) és villamos alapméréseket végezni (egyen- és váltakozó áramú áramkörben: feszültség, áramerősség, ellenállás, frekvencia, fázissorrend), méréssel ellenőrizni a terheletlen fülke tömegét és az ellensúly vagy kiegyenlítő súly tömegét
-
-- rezgés-, zaj- és fényjellemzőkkel kapcsolatos méréseket végezni, hidraulikus felvonókon méréseket végezni (nyomás, olajhőmérséklet)
-
-- tanulmányozni és értelmezni az építészeti, a gépészeti és az elektromos dokumentációkat, ellenőrizni a felvonó engedélyezési és kivitelezési terveit, dokumentációit, a tanúsítványok, megfelelőségi nyilatkozatok, kivitelezői nyilatkozat, EMC-nyilatkozat, érintésvédelmi jegyzőkönyv, a kezelési, karbantartási, üzemeltetési, mentési utasítások meglétét, tartalmát
-
-- ellenőrizni a felvonó létesítésére, üzemeltetésére vonatkozó követelmények és előírások teljesülését (törvények, rendeletek, szabványok, egyéb előírások)
-
-- vizsgálni, hogy a felvonó építészeti elhelyezése, környezete megfelel-e a létesítési és tűzvédelmi követelményeknek, ellenőrizni, hogy az alkalmazott épületszerkezetek állékonysága, terhelhetősége és tűzállósági határértéke megfelelő-e
-
-- vizsgálni, hogy a beépített berendezést az engedélyezett dokumentumok alapján valósították-e meg
-
-- vizsgálni a géphelyiség, illetve a géptér kialakítását: méreteit, a biztonsági távolságokat, a megközelíthetőségét, anyagát, megvilágítását, hőmérsékletét, a biztonságos anyagmozgatás lehetőségeit, ellenőrizni a felvonóakna és berendezései megfelelőségét, az előírt építészeti méretek és biztonsági távolságok megfelelőségét (aknafej, felső túlfutás, süllyeszték, előírt minimális távolságok), a határoló szerkezetek anyagát, méretét és kialakítását, szilárdságát
-
-- vizsgálni a felvonó meghajtó gépének kialakítását, állapotát, rögzítését, rezgésszigetelését, a függesztőelemeket, ellenőrizni a kötéltárcsák (hajtótárcsa, terelőtárcsa, függesztőtárcsa, keresztfej) védelmét
-
-- ellenőrizni a hidraulikus felvonó esetén a hidraulikus teljesítmény, a teljes terhelési nyomás értékét, a motor és a szivattyú főbb adatait, a dugattyú, a munkahenger, hengertám, a fémcsövek szilárdsági méretezését, illetve helyes kiválasztását, megfelelő rögzítését, valamint, hogy a flexibilis tömlő próbanyomás-értéke megfelelő-e, ellenőrzi a hidraulikus rendszer tömörségét, nyomással való terhelhetőségét, a zárószelepek és a fő elzárócsap állapotát, környezeti hőmérsékletű munkafolyadék mellett a fülke süllyedését
-
-- ellenőrizni a fülke-vázszerkezet megfelelő kialakítását, szilárdságtani számítását, a fülke kialakítását, elemeinek előírt szilárdságát, a fülkének a vázszerkezethez való rögzítését és a rezgésszigetelést
-
-- ellenőrizni, hogy a fülkére, illetve az ellensúlyra a dokumentációban előírt fogókészüléket szerelték-e fel, és hogy a fogókészülék-párra megállapított össztömeg összhangban van-e a felvonó tömegadataival, ellenőrizni a fogókészülék megfelelő beépítését, rögzítését, működését, megmérni a fogókészülék által a fülkén okozott lassulást, és ellenőrizni, hogy a lassulás szabadesés és névleges terhelés esetén megfelelő-e, ellenőrizni a fogókészülék-működtető mechanizmus kialakítását, működőképességét, megmérni a működtetéséhez szükséges erő nagyságát
-
-- ellenőrizni a vezetősínek kiválasztását, szilárdsági számítását, rögzítését, gyámjait, a sínprofil és a gyámozás távolságának a kiviteli tervvel való egyezőségét, a fülke és az ellensúly, illetve a kiegyenlítősúly vezetőkészülékeit, önkenő készülékeit
-
-- ellenőrizni a beépített aknaajtókat, azok biztonsági berendezéseinek megfelelőségét, tűzállóságát és a beépítésük, rögzítésük szakszerűségét
-
-- ellenőrizni a mechanikus biztonsági berendezéseket: a sebességhatároló(k) helyes kiválasztását, beépítését, működését, megmérni a kioldási sebességet, és a kötélre kifejtett vonóerő nagyságát, ellenőrizni az ütközők kiválasztását, löketét, minimális és maximális tömegadatait a névleges sebesség függvényében, megfelelő rögzítését és működését, ellenőrizni a felfelé mozgó fülke sebességtúllépése ellen védő és a fülke ellenőrizetlen elmozdulása ellen védő berendezés helyes kiválasztását és megfelelő működését
-
-- próbával ellenőrizni a hidraulikus felvonók csőtörésre záró, illetve fojtó-visszacsapó szelepét, a zuhanásgátló és a süllyedésvédelemi rendszer működését, a nullnyomás-védelmet
-
-- ellenőrizni a villamos biztonsági berendezéseket, a felvonó fő-, biztonsági és jelző áramköreinek helyes működését, funkcionális próbával ellenőrizni a felvonó vezérlésének helyes működését, ellenőrizni a motor hővédelmét, a motor menetidő ellenőrző berendezését, az elektromos vezetékek kiválasztását, szigetelését, a sorkapocs-kötéseket, a véletlen érintés elleni mechanikai védelmeket, a villámvédelem szakszerű kialakítását, a végálláskapcsolók helyes működését, beállítását
-
-- üzemi próbák alapján meggyőződni a felvonó rendeltetésszerű működéséről
-
-- ellenőrizni a tűzoltófelvonók és menekülési felvonók (együtt: biztonsági felvonók) kettős betáplálását, az azok közötti átkapcsolást, a biztonsági felvonó vezérlésének helyes működését épülettűz esetét feltételezve, az épülettűz alatt nem működtethető felvonók vezérlésének helyes működését épülettűz esetét feltételezve
-
-- ellenőrizni a fülkében rekedt utas biztonságos mentésének megoldását
-
-- ellenőrizni az üzemügyelet, illetve a diszpécserközpont megfelelő működését, a vészjelzés, illetve a távvészjelzés kialakítását, helyes és jóváhagyott működését
-
-- ellenőrizni, hogy a berendezést rendszeresen és szakszerűen karbantartják-e, az üzemeltetés biztonságos-e, ellenőrzi a felvonó általános műszaki állapotát, a részegységek és az alkatrészek kopását, meghatározni a szükséges javítások mértékét és javaslatot tenni a szükséges felújításokra
-
-- biztonságot érintő hiányosság esetén megelőző intézkedést tenni, szükség esetén leállítani a berendezést
-
-- megállapításait a gépkönyvben és jegyzőkönyvben dokumentálni, illetve azokról tájékoztatni az üzemeltetőt, teljesíteni az országos nyilvántartás felé fennálló adatszolgáltatási és bejelentési kötelezettségét, műszaki, jogi, gazdaságossági célú felhasználásra szakvéleményt készíteni
-
-3.3. Kapcsolódó szakképesítések:
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| - | - | - | - |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  | A | B |
-
-| 4.1. | A szakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.2. | azonosító száma | megnevezése |
-
-| 4.3. | 10344-12 | Felvonóellenőri és mozgólépcső-ellenőri jogi, pénzügyi feladatok |
-
-| 4.4. | 10345-12 | Felvonóellenőri szakmai feladatok |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  | A | B | C |
-
-| 5.2.1. | A szakképesítés szakmai követelménymoduljainak |
-
-| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.3. | 10344-12 | Felvonóellenőri és mozgólépcső-ellenőri jogi, pénzügyi feladatok | írásbeli |
-
-| 5.2.4. | 10345-12 | Felvonóellenőri szakmai feladatok | írásbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A vizsgafeladat megnevezése: 10345-12 Felvonóellenőri szakmai feladatok gyakorlati bemutatása
-
-A vizsgafeladat ismertetése: A gyakorlat bemutatása szakirányú tanműhelyben, vagy kijelölt berendezésnél történik, ezek hiányában a gyakorlati feladat vázlatát kell bemutatni és ismertetni
-
-A vizsgafeladat időtartama: 45 perc
-
-A vizsgafeladat értékelési súlyaránya: 20 %
-
-5.3.2. Központi írásbeli vizsgatevékenység
-
-A 4. Szakmai követelmények fejezet 10344-12 Felvonóellenőri és mozgólépcső-ellenőri jogi, pénzügyi feladatok; 10345-12 Felvonóellenőri szakmai feladatok modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap kitöltése.
-
-Témakörök: A Felvonóellenőri szakmához kapcsolódó szakmai, jogi, pénzügyi ismeretek alkalmazása
-
-A vizsgafeladat a felvonó- és mozgólépcső-ellenőri jogi és pénzügyi ismereteket 30 perces időtartamban és 20 %-os arányban, a Felvonóellenőri szakmai ismereteket 150 perces időtartamban és 80 %-os arányban tartalmazza.
-
-A vizsgafeladat időtartama: 180 perc
-
-A vizsgafeladat értékelési súlyaránya: 60%
-
-5.3.3. Szóbeli vizsgatevékenység
-
-Válaszadás a 4. Szakmai követelmények fejezet 10345-12 Felvonóellenőri szakmai feladatok modul témaköréhez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-Témakörök: A Felvonóellenőri szakmai ismeretek gyakorlata és technikája
-
-A vizsgafeladat időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok: -
-
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  | A |
-
-| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-| 6.2. | Gépipari alapmérések eszközei |
-
-| 6.3. | Alap- és helyzetpontossági mérések eszközei (általános, speciális) |
-
-| 6.4. | Erőmérő eszközök és műszerek |
-
-| 6.5. | Villamos alapmérés eszközei |
-
-| 6.6. | Érintésvédelmi mérőeszközök |
-
-| 6.7. | Hidraulikus mérések eszközei |
-
-| 6.8. | Hőmérséklet és hőmennyiség mérés eszközei |
-
-| 6.9. | Sebesség, gyorsulás, rezgés- és zajmérés eszközei |
-
-| 6.10. | Személyi számítógép |
-
-| 6.11. | Elektromos kisgépek |
-
-| 6.12. | Lakatos kéziszerszámok |
-
-| 6.13. | Egyéni védőeszközök |
-
-7. EGYEBEK
-
-7.1. Validáció: -
-
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
-
-|  | A | B | C |
-
-| 7.2.1. | azonosító szám | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
-
-| 7.2.2. | 62 521 01 | Felvonóellenőr | Magyar Mérnöki Kamara. |
-
-7.3. A 2.1.1. pontban a szakma gyakorlásának megfelelő következő műszaki képzési területen szerzett felsőfokú végzettségek, illetve szakképzettségek fogadhatóak el:
-
-- okleveles gépészmérnöki, illetve gépészmérnöki;
-
-- okleveles közlekedésmérnöki, illetve közlekedésmérnöki;
-
-- okleveles villamosmérnöki, illetve villamosmérnöki szakképzettség;
-
-- vagy ezekkel egyenértékűnek elismert végzettség.
 
 A 12. sorszámú Katasztrófavédelmi előadó megnevezésű szakképesítés szakmai és vizsgakövetelménye
 
@@ -4590,248 +4344,6 @@ A szakmai záró dolgozatnak tükröznie kell a választott témakör összefüg
 
 A szakmai záró dolgozat borítólap és mellékletek nélkül legalább 8, de legfeljebb 15 oldal terjedelmű lehet. A záró dolgozatot MS Office Word szövegszerkesztő programmal kell elkészíteni 12-es betűmérettel, Times New Roman betűtípussal, 1,5-ös sortávolsággal, laponként minden irányban 2,5-2,5 cm-es margóval.
 
-A 21. sorszámú Mozgólépcső ellenőr megnevezésű szakképesítés szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés azonosító száma: 62 521 02
-
-1.2. Szakképesítés megnevezése: Mozgólépcső ellenőr
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 250 - 350
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: felsőfokú iskolai végzettség
-
-2.1.2. Bemeneti kompetenciák:-
-
-2.2. Szakmai előképzettség: -
-
-2.3. Előírt gyakorlat: legalább három év szakirányú gyakorlat
-
-2.4. Egészségügyi alkalmassági követelmények: -
-
-2.5. Pályaalkalmassági követelmények: -
-
-2.6. Elméleti képzési idő aránya: 90%
-
-2.7. Gyakorlati képzési idő aránya: 10%
-
-2.8. Szintvizsga: -
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
-
-3. PÁLYATÜKÖR
-
-3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
-
-|  | A | B | C |
-
-| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakör(ök) |
-
-| 3.1.2. | 3213 | Építőipari szakmai irányító, felügyelő | Mozgólépcső ellenőr |
-
-3.2. A szakképesítés munkaterületének rövid leírása:
-
-A mozgólépcső ellenőr:
-
-- elvégzi az üzembe helyezés előtti, az ellenőrző (javítás utáni) vizsgálatokat, a periodikus műszaki biztonságtechnikai vizsgálatokat (fővizsgálatot, ellenőrző vizsgálatot és a karbantartás megfelelőségének műszaki felülvizsgálatát)
-
-- a vizsgálat eredményéről tájékoztatja a tulajdonost, az üzemeltetőt és saját munkáltatóját
-
-- hatósági beavatkozás szükségessége esetén értesíti a jogszabályban meghatározott szervezeteket
-
-- közvetlen baleset- vagy életveszélyt eredményező hiba (hiányosság), továbbá a biztonságos működést veszélyeztető eset észlelésekor intézkedik az üzemeltetés azonnali leállítására és az üzemeltetés szüneteltetésére a veszélyhelyzet megszüntetéséig
-
-- hat hónapot meghaladó leállítás esetén külön jogszabályban meghatározott módon intézkedik, illetve ellenőrzi a mozgólépcső, ill. mozgójárda veszélytelenítését
-
-- adatot szolgáltat a felvonók és mozgólépcsők országos központi nyilvántartásához
-
-A szakképesítéssel rendelkező képes:
-
-- elvégezni az üzembe helyezés előtti vizsgálatot (tanúsító vizsgálatot), ellenőrző vizsgálatot (javítás utáni vizsgálatot), a periodikus biztonságtechnikai ellenőrző vizsgálatokat (fővizsgálatot, időszakos vizsgálatot, karbantartás megfelelőségét ellenőrző vizsgálatot), az önálló ellenőr által végezhető periodikus biztonságtechnikai ellenőrző vizsgálatot (karbantartás megfelelőségét ellenőrző vizsgálatot)
-
-- mechanikai méréseket (hossz, szög, helyzet, sebesség, gyorsulás, rántás, tömeg, erő, alakváltozás, hőmérséklet) és villamos alapméréseket végezni (egyen- és váltakozó áramú áramkörben: feszültség, áramerősség, ellenállás, frekvencia, fázissorrend)
-
-- tanulmányozni és értelmezni az építészeti, a gépészeti és az elektromos dokumentációkat, ellenőrizni a mozgólépcső illetve mozgójárda engedélyezési és kivitelezési terveit, dokumentációit, a tanúsítványok, megfelelőségi nyilatkozatok, kivitelezői nyilatkozat, EMC-nyilatkozat, érintésvédelmi jegyzőkönyv, a kezelési, karbantartási, üzemeltetési, mentési utasítások meglétét, tartalmát
-
-- ellenőrizni a mozgólépcső, mozgójárda, hosszúkarú mozgólépcső, szabadtéri mozgólépcső és mozgójárda létesítésére, üzemeltetésére vonatkozó követelmények és előírások teljesülését (törvények, rendeletek, szabványok, egyéb előírások), vizsgálni, hogy a mozgólépcső építészeti elhelyezése, környezete megfelel-e a létesítési és tűzvédelmi követelményeknek, ellenőrizni, hogy az alkalmazott épületszerkezetek állékonysága, terhelhetősége és tűzállósági határértéke megfelelő-e
-
-- ellenőrizni a mozgólépcső, illetve a mozgójárda érintésvédelmi jegyzőkönyvét, a kezelési, karbantartási, üzemeltetési utasítások meglétét, tartalmát
-
-- vizsgálni, hogy a beépített, laboratóriumi vizsgálatra kötelezett részegységek (lépcsőkocsik, hevederek, mozgókorlátok) egyeznek-e a mozgólépcső, illetve a mozgójárda dokumentációjában előírtakkal, rendelkeznek-e az előírt tanúsítvánnyal és megfelelőségi nyilatkozattal
-
-- ellenőrizni a mozgólépcsők, illetve a mozgójárdák engedélyezési, illetve kiviteli terveihez tartozó számításokat (forgalmi képességgel kapcsolatos számítások, statikai és szilárdságtani számítások, a vonóláncok szilárdsága, biztonsági tényezője, a tartóváz lehajlása
-
-- ellenőrizni a mozgólépcső épületszerkezethez való rögzítését és a rezgésszigetelést, ellenőrizni, hogy az alkalmazott épületszerkezetek, feltámasztási pontok, emelési pontok és a szállítási útvonalak állékonysága, terhelhetősége megfelelő-e (statikusi szakvélemény), ellenőrizni a lejtakna megfelelőségét, az előírt építészeti méretek és biztonsági távolságok megfelelőségét, egyeznek-e az engedélyezett tervvel, megfelelnek-e az előírásoknak, ellenőrzi a mozgólépcső, illetve a mozgójárda geometriai méreteit
-
-- ellenőrizni a mechanikus biztonsági berendezések meglétét és megfelelőségét
-
-- ellenőrizni a mechanikus részegységek beállítását, a lépcsőkocsik és a mozgókorlátok sebességét, a láncok és egyéb kenési helyek (automatikus) kenését, a mozgókorlát, a mellvédek kialakítását, állapotát, a lépcsőszalag, a járólapok, a heveder, a fésűk kialakítását, állapotát
-
-- ellenőrizni a vezetőpályák, végálláskapcsolók, láncok, csapágyak megfelelő kialakítását, állapotát
-
-- ellenőrizni a mozgólépcső, illetve a mozgójárda áramfelvételét különböző terhelési viszonyok és a kétféle menetirány mellett, vizsgálni a hajtómű kialakítását, állapotát, rögzítését, rezgésszigetelését, a lánchajtás, a szíjhajtás, a poligonkerék kialakítását, megmérni a zaj- és rezgési szinteket, ellenőrizni a fordítóállomás biztonsági berendezéseit (láncfeszítés), a lépcsőkocsik, illetve a heveder megvezetését és a görgők kialakítását, állapotát, az alakzáró hajtásokat, szíjhajtásokat, multiplex lánchajtásokat
-
-- ellenőrizni az üzemi fék és a kiegészítő fék (mechanikus fékszerkezet) kialakítását, működését különböző terhelési viszonyok mellett, kiszámítani a fékterhelést, megmérni a fékutakat, a gyorsulást és a lassulást, felvenni a fékszerkezet(ek) kezdeti jelleggörbéit
-
-- ellenőrizni a burkolatok mechanikai szilárdságát, a tömegközlekedési mozgólépcsők követelményeinek betartását
-
-- ellenőrizni a túlsebesség korlátozásának, az akaratlan irányváltás megakadályozásának megoldását, működését, az elektromos berendezések megfelelőségét (dokumentációval való megegyezőség, érintésvédelem, túláramvédelem, biztonságtechnikai földelés, biztonságos áramtalanítás), ellenőrizni a mozgólépcső, illetve a mozgójárda vezérlési dokumentációit, értelmezni és a rajzon ellenőrizni az elektromos áramkörök működését
-
-- ellenőrizni a mozgólépcső, illetve a mozgójárda fő-, biztonsági és jelző áramköreinek helyes működését, funkcionális próbával ellenőrizni a vezérlés helyes működését, üzemi próbák alapján meggyőződik a mozgólépcső, illetve a mozgójárda rendeltetésszerű működéséről
-
-- ellenőrizni a motor hővédelmét, az elektromos vezetékek kiválasztását, szigetelését, a sorkapocs-kötéseket, a véletlen érintés elleni mechanikai védelmeket, ellenőrizni a villamos biztonsági berendezések és biztonsági kapcsolók (kapcsolások) meglétét és megfelelőségét, működőképességét, szabványos kialakítását, beállítását, a vezérlés helyes működését karbantartási üzemmód során
-
-- gyártói segédlet alapján ellenőrizni a berendezés hibadiagnosztikai rendszerének működését
-
-- ellenőrizni az üzemügyelet, illetve a diszpécserközpont megfelelő működését, a vészjelzés, illetve a távvészjelzés kialakítását, helyes és jóváhagyott működését
-
-- ellenőrizni, hogy a berendezést rendszeresen és szakszerűen karbantartják-e, az üzemeltetés biztonságos-e, ellenőrizni a mozgólépcső általános műszaki állapotát, a részegységek és az alkatrészek kopását, meghatározza a szükséges javítások mértékét és javaslatot tesz a szükséges felújításokra
-
-- biztonságot érintő hiányosság esetén megelőző intézkedést tenni, szükség esetén leállítani a berendezést
-
-- megállapításait a gépkönyvben és jegyzőkönyvben dokumentálni, illetve azokról tájékoztatni az üzemeltetőt, teljesíteni az országos nyilvántartás felé fennálló adatszolgáltatási és bejelentési kötelezettségét, műszaki, jogi, gazdaságossági célú felhasználásra szakvéleményt készíteni
-
-3.3. Kapcsolódó szakképesítések:
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| - | - | - | - |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  | A | B |
-
-| 4.1. | A szakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.2. | azonosító száma | megnevezése |
-
-| 4.3. | 10344-12 | Felvonóellenőri és mozgólépcső-ellenőri jogi, pénzügyi feladatok |
-
-| 4.4. | 10346-12 | Mozgólépcső-ellenőri szakmai feladatok |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  | A | B | C |
-
-| 5.2.1. | A szakképesítés szakmai követelménymoduljainak |
-
-| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.3. | 10344-12 | Felvonóellenőri és mozgólépcső-ellenőri jogi, pénzügyi feladatok | írásbeli |
-
-| 5.2.4.. | 10346-12 | Mozgólépcső-ellenőri szakmai feladatok | írásbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A vizsgafeladat megnevezése: 10346-12 Mozgólépcső-ellenőri szakmai feladatok gyakorlati bemutatása.
-
-A vizsgafeladat ismertetése: A gyakorlat bemutatása szakirányú tanműhelyben, vagy kijelölt berendezésnél történik, ezek hiányában a gyakorlati feladat vázlatát kell bemutatni és ismertetni
-
-A vizsgafeladat időtartama: 45 perc
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-5.3.2. Központi írásbeli vizsgatevékenység
-
-A 4. Szakmai követelmények fejezet 10344-12 Felvonóellenőri és mozgólépcső-ellenőri jogi, pénzügyi feladatok;10346-12 Mozgólépcső-ellenőri szakmai feladatok modulok témaköreihez kapcsolódó központilag összeállított és kiadott feladatlap (teszt) kitöltése.
-
-Témakörök: A mozgólépcső-ellenőri szakmához kapcsolódó szakmai, jogi, pénzügyi ismeretek alkalmazása
-
-A vizsgafeladat a felvonó- és mozgólépcső-ellenőri jogi és pénzügyi ismereteket 30 perces időtartamban és 10%-os arányban, a mozgólépcső-ellenőri szakmai ismereteket 150 perces időtartamban és 50%-os arányban tartalmazza.
-
-A vizsgafeladat időtartama: 180 perc
-
-A vizsgafeladat értékelési súlyaránya: 60%
-
-5.3.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Válaszadás a 4. Szakmai követelmények fejezet 10346-12 Mozgólépcső-ellenőri szakmai feladatok modul témaköréhez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-Témakörök: A mozgólépcső-ellenőri szakmai ismeretek gyakorlata és technikája
-
-A vizsgafeladat időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
-
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  | A |
-
-| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-| 6.2. | Gépipari alapmérések eszközei |
-
-| 6.3. | Alap- és helyzetpontossági mérések eszközei (általános, speciális) |
-
-| 6.4. | Erőmérő eszközök és műszerek |
-
-| 6.5. | Villamos alapmérés eszközei |
-
-| 6.6. | Érintésvédelmi mérőeszközök |
-
-| 6.7. | A mozgólépcső emelés eszközei |
-
-| 6.8. | Hőmérséklet és hőmennyiség mérés eszközei |
-
-| 6.9. | Sebesség, gyorsulás, rezgés- és zajmérés eszközei |
-
-| 6.10. | Személyi számítógép |
-
-| 6.11. | Elektromos kisgépek |
-
-| 6.12. | Lakatos kéziszerszámok |
-
-| 6.13. | Egyéni védőeszközök |
-
-7. EGYEBEK
-
-7.1. Validáció: -
-
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
-
-|  | A | B | C |
-
-| 7.2.1. | azonosító szám | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
-
-| 7.2.2. | 62 521 02 | Mozgólépcső ellenőr | Magyar Mérnöki Kamara |
-
-7.3. A 2.1.1. pontban a szakma gyakorlásának megfelelő következő műszaki képzési területen szerzett felsőfokú végzettségek, illetve szakképzettségek fogadhatóak el:
-
-- okleveles gépészmérnöki, illetve gépészmérnöki;
-
-- okleveles közlekedésmérnöki, illetve közlekedésmérnöki;
-
-- okleveles villamosmérnöki, illetve villamosmérnöki;
-
-- vagy ezekkel egyenértékűnek elismert végzettség.
-
 A 22. sorszámú Rendészeti szervező (a szakmairány megjelölésével) megnevezésű szakképesítés szakmai és vizsgakövetelménye
 
 1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
@@ -6020,4 +5532,506 @@ A szakképesítéssel rendelkező képes:
 
 | 4.3.6. | 10375-12 | Közlekedési rendőri feladatok |
 
-[^4]: A 2. melléklet a 83/2013. (XII. 31.) BM rendelet 2. § b) pontja, a 23/2014. (III. 14.) BM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+|  | A | B |
+
+| 4.4. | A Rendőr tiszthelyettes (Közrendvédelmi rendőr) szakképesítés szakmai követelménymoduljainak |
+
+| 4.4.1. | azonosítója | megnevezése |
+
+| 4.4.2. | 10352-12 | Rendvédelmi alapfeladatok |
+
+| 4.4.3. | 10370-12 | Őr-járőrtársi feladatok |
+
+| 4.4.4. | 10371-12 | Csapatszolgálati feladatok |
+
+| 4.4.5. | 10372-12 | Járőri feladatok |
+
+| 4.4.6. | 10374-12 | Közrendvédelmi rendőri feladatok |
+
+5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei:
+
+Iskolarendszerű szakképzés esetén:
+
+A második szakképző évfolyam eredményes elvégzése.
+
+A kerettantervben előírt csapatszolgálati gyakorlat teljesítéséről szóló igazolás, és a területi rendőri szerv, valamint a képző intézmény által hitelesített, legalább elégséges szintet elérő értékelése.
+
+„B” kategóriás vezetői engedély megléte.
+
+Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizonyítványban foglaltak szerint teljesített tantárgyak – a szakképzési kerettantervben meghatározottak szerint – egyenértékűek az adott követelménymodulhoz tartozó modulzáró vizsga teljesítésével.
+
+Iskolarendszeren kívüli szakképzés esetén:
+
+A képzési programban előírt gyakorlat teljesítéséről szóló igazolás, és a területi rendőri szerv, valamint a képző intézmény által hitelesített, legalább elégséges szintet elérő értékelése.
+
+Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
+
+|  | A | B | C |
+
+| 5.2.1. | A Rendőr tiszthelyettes (Bűnügyi rendőr) szakképesítés szakmai követelménymodulja |
+
+| 5.2.1.1. | azonosító | megnevezés | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.1.2. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
+
+| 5.2.1.3. | 10370-12 | Őr-járőrtársi feladatok | gyakorlati, írásbeli, szóbeli |
+
+| 5.2.1.4. | 10371-12 | Csapatszolgálati feladatok | írásbeli |
+
+| 5.2.1.5. | 10372-12 | Járőri feladatok | gyakorlati, írásbeli, szóbeli |
+
+| 5.2.1.6. | 10376-12 | Bűnügyi rendőr feladatok | gyakorlati, írásbeli |
+
+|  | A | B | C |
+
+| 5.2.2. | A Rendőr tiszthelyettes (Határrendészeti rendőr) szakképesítés szakmai követelménymodulja |
+
+| 5.2.2.1. | azonosító | megnevezés | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.2.2. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
+
+| 5.2.2.3. | 10370-12 | Őr-járőrtársi feladatok | gyakorlati, írásbeli, szóbeli |
+
+| 5.2.2.4. | 10371-12 | Csapatszolgálati feladatok | írásbeli |
+
+| 5.2.2.5. | 10372-12 | Járőri feladatok | gyakorlati, írásbeli, szóbeli |
+
+| 5.2.2.6. | 10373-12 | Határrendészeti rendőri feladatok | gyakorlati, írásbeli |
+
+|  | A | B | C |
+
+| 5.2.3. | A Rendőr tiszthelyettes (Közlekedési rendőr) szakképesítés szakmai követelménymodulja |
+
+| 5.2.3.1. | azonosító | megnevezés | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.3.2. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
+
+| 5.2.3.3. | 10370-12 | Őr-járőrtársi feladatok | gyakorlati, írásbeli, szóbeli |
+
+| 5.2.3.4. | 10371-12 | Csapatszolgálati feladatok | írásbeli |
+
+| 5.2.3.5. | 10372-12 | Járőri feladatok | gyakorlati, írásbeli, szóbeli |
+
+| 5.2.3.6. | 10375-12 | Közlekedési rendőri feladatok | gyakorlati, szóbeli |
+
+|  | A | B | C |
+
+| 5.2.4. | A Rendőr tiszthelyettes (Közrendvédelmi rendőr) szakképesítés szakmai követelménymodulja |
+
+| 5.2.4.1. | azonosító | megnevezés | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.4.2. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
+
+| 5.2.4.3. | 10370-12 | Őr-járőrtársi feladatok | gyakorlati, írásbeli, szóbeli |
+
+| 5.2.4.4. | 10371-12 | Csapatszolgálati feladatok | írásbeli |
+
+| 5.2.4.5. | 10372-12 | Járőri feladatok | gyakorlati, írásbeli, szóbeli |
+
+| 5.2.4.6. | 10374-12 | Közrendvédelmi rendőri feladatok | gyakorlati, írásbeli |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+
+5.3.1. A Rendőr tiszthelyettes (Bűnügyi rendőr) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+
+5.3.1.1. Gyakorlati vizsgatevékenység
+
+A.) A vizsgafeladat megnevezése: Rendőri alaki mozgások
+
+A vizsgafeladat ismertetése:
+
+A vizsgázók szakasz, raj kötelékben és egyénileg alaki gyakorlatokat hajtanak végre. Az értékelés kitér az egyéni feladat-végrehajtáson túl a raj, illetve szakasz kötelékben végrehajtott mozgások összhangjára is
+
+A vizsgafeladat időtartama: 10 perc
+
+A vizsgafeladat értékelési súlyaránya: 10%
+
+B.) A vizsgafeladat megnevezése: Rendőri önvédelem és kényszerítő eszközök alkalmazása
+
+A vizsgafeladat ismertetése:
+
+Önvédelmi fogások és kényszerítő eszközök alkalmazása vizsgázók között
+
+Az értékelés kitér a végrehajtás szabályszerűségére, dinamikájára, célszerűségére, hatékonyságára, és a vizsgázó kommunikációjára is
+
+A vizsgafeladat időtartama: 5 perc
+
+A vizsgafeladat értékelési súlyaránya: 10%
+
+C.) A vizsgafeladat megnevezése: Rendőri intézkedés a gyakorlatban
+
+A vizsgafeladat ismertetése:
+
+Komplex rendőri intézkedés végrehajtása vizsgahelyszínen, melyen keresztül lemérhető a vizsgázó alakiassága, fizikális felkészültsége, a szakszerű és jogszerű rendőri intézkedésre való felkészültsége, kommunikációja és eszközhasználati készsége. A közterületi intézkedést szimuláló feladatban jelzők és járőrtárs által támogatott feladat-végrehajtás történik
+
+A vizsgafeladat időtartama: 15 perc
+
+A vizsgafeladat értékelési súlyaránya: 10%
+
+D.) A vizsgafeladat megnevezése: Intézkedések, eljárási cselekmények végrehajtása büntetőeljárásban
+
+A vizsgafeladat ismertetése:
+
+Komplex bűnügyi rendőri intézkedések, büntetőeljárási kényszerintézkedések, nyomozási cselekmények, bizonyítási eljárások végrehajtása vizsgahelyszínen, amely során lemérhető vizsgázó büntetőjogi és büntetőeljárás jogi ismereteinek gyakorlatban történő alkalmazásának készsége, kommunikációja, kriminalisztikai ajánlások alapján a szakmai, taktikai fogásokból való felkészültsége. Az intézkedéseket, eljárási cselekményeket szimuláló feladatban jelzők és nyomozó kolléga által együttes feladat végrehajtás történik.
+
+A vizsgafeladat időtartama: 15 perc
+
+A vizsgafeladat értékelési súlyaránya: 20%
+
+5.3.1.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Bűnügyi rendőri szakmai ismeretek
+
+A vizsgafeladat ismertetése:
+
+Bűnügyi, közbiztonsági, rendészeti, csapatszolgálati, szolgálatteljesítési és általános őr- és járőrtársi feladatok
+
+A vizsgafeladat időtartama: 180 perc
+
+A vizsgafeladat értékelési súlyaránya: 30%
+
+5.3.1.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Objektum-, személy- és vagyonvédelmi ismeretek
+
+A vizsgafeladat ismertetése:
+
+A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények pontban megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
+
+A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő: 10 perc, válaszadási idő 20 perc)
+
+A vizsgafeladat értékelési súlyaránya: 20 %
+
+5.3.2. A Rendőr tiszthelyettes (Határrendészeti rendőr) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+
+5.3.2.1. Gyakorlati vizsgatevékenység
+
+A.) A vizsgafeladat megnevezése: Rendőri alaki mozgások
+
+A vizsgafeladat ismertetése:
+
+A vizsgázók szakasz, raj kötelékben és egyénileg alaki gyakorlatokat hajtanak végre. Az értékelés kitér az egyéni feladat-végrehajtáson túl a raj, illetve szakasz kötelékben végrehajtott mozgások összhangjára is
+
+A vizsgafeladat időtartama: 10 perc
+
+A vizsgafeladat értékelési súlyaránya: 10%
+
+B.) A vizsgafeladat megnevezése: Rendőri önvédelem és kényszerítő eszközök alkalmazása
+
+A vizsgafeladat ismertetése:
+
+Önvédelmi fogások és kényszerítő eszközök alkalmazása vizsgázók között
+
+Az értékelés kitér a végrehajtás szabályszerűségére, dinamikájára, célszerűségére, hatékonyságára, és a vizsgázó kommunikációjára is
+
+A vizsgafeladat időtartama: 5 perc
+
+A vizsgafeladat értékelési súlyaránya: 10%
+
+C.) A vizsgafeladat megnevezése: Rendőri intézkedés a gyakorlatban
+
+A vizsgafeladat ismertetése:
+
+Komplex rendőri intézkedés végrehajtása vizsgahelyszínen, melyen keresztül lemérhető a vizsgázó alakiassága, fizikális felkészültsége, a szakszerű és jogszerű rendőri intézkedésre való felkészültsége, kommunikációja és eszközhasználati készsége. A közterületi intézkedést szimuláló feladatban jelzők és járőrtárs által támogatott feladat-végrehajtás történik
+
+A vizsgafeladat időtartama: 15 perc
+
+A vizsgafeladat értékelési súlyaránya: 10%
+
+D.) A vizsgafeladat megnevezése: Határrendészeti rendőri feladatok szituációban
+
+A vizsgafeladat ismertetése:
+
+Komplex határrendészeti rendőri (határforgalom-ellenőrzési, mélységi- és idegenrendészeti ellenőri, határrendészeti járőr) intézkedés végrehajtása vizsgahelyszínen, melyen keresztül lemérhető a vizsgázó alakiassága, fizikális felkészültsége, a szakszerű és jogszerű rendőri intézkedésre való felkészültsége, kommunikációja és eszközhasználati készsége. A határrendészeti intézkedést szimuláló feladatban jelzők és járőrtárs által támogatott feladat-végrehajtás történik
+
+A vizsgafeladat időtartama: 15 perc
+
+A vizsgafeladat értékelési súlyaránya: 20%
+
+5.3.2.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Határrendészeti szakmai ismeretek
+
+A vizsgafeladat ismertetése:
+
+Határrendészeti, közbiztonsági, rendészeti, csapatszolgálati, szolgálatteljesítési és általános őr- és járőrtársi feladatok
+
+A vizsgafeladat időtartama: 180 perc
+
+A vizsgafeladat értékelési súlyaránya: 30%
+
+5.3.2.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Objektum-, személy- és vagyonvédelmi ismeretek
+
+A vizsgafeladat ismertetése:
+
+A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények pontban megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
+
+A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő: 10 perc, válaszadási 20 perc)
+
+A vizsgafeladat értékelési súlyaránya: 20%
+
+5.3.3. A Rendőr tiszthelyettes (Közlekedési rendőr) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+
+5.3.3.1. Gyakorlati vizsgatevékenység
+
+A.) A vizsgafeladat megnevezése: Rendőri alaki mozgások
+
+A vizsgafeladat ismertetése:
+
+A vizsgázók szakasz, raj kötelékben és egyénileg alaki gyakorlatokat hajtanak végre. Az értékelés kitér az egyéni feladat-végrehajtáson túl a raj, illetve szakasz kötelékben végrehajtott mozgások összhangjára is
+
+A vizsgafeladat időtartama: 10 perc
+
+A vizsgafeladat értékelési súlyaránya: 10%
+
+B.) A vizsgafeladat megnevezése: Rendőri önvédelem és kényszerítő eszközök alkalmazása
+
+A vizsgafeladat ismertetése:
+
+Önvédelmi fogások és kényszerítő eszközök alkalmazása vizsgázók között
+
+Az értékelés kitér a végrehajtás szabályszerűségére, dinamikájára, célszerűségére, hatékonyságára, és a vizsgázó kommunikációjára is
+
+A vizsgafeladat időtartama: 5 perc
+
+A vizsgafeladat értékelési súlyaránya: 10%
+
+C.) A vizsgafeladat megnevezése: Rendőri intézkedés a gyakorlatban
+
+A vizsgafeladat ismertetése:
+
+Komplex rendőri intézkedés végrehajtása vizsgahelyszínen, melyen keresztül lemérhető a vizsgázó alakiassága, fizikális felkészültsége, a szakszerű és jogszerű rendőri intézkedésre való felkészültsége, kommunikációja és eszközhasználati készsége. A közterületi intézkedést szimuláló feladatban jelzők és járőrtárs által támogatott feladat-végrehajtás történik
+
+A vizsgafeladat időtartama: 15 perc
+
+A vizsgafeladat értékelési súlyaránya: 10 %
+
+D.) A vizsgafeladat megnevezése: Intézkedés, közlekedési szituációban.
+
+A vizsgafeladat ismertetése:
+
+Komplex közlekedési rendőri (forgalomellenőrzési, forgalomirányítási, baleseti) intézkedés végrehajtása vizsgahelyszínen, melyen keresztül lemérhető a vizsgázó alakiassága, fizikális felkészültsége, a szakszerű és jogszerű rendőri intézkedésre való felkészültsége, kommunikációja és eszközhasználati készsége. A közterületi közlekedési intézkedést szimuláló feladatban jelzők és járőrtárs által támogatott feladat-végrehajtás történik
+
+A vizsgafeladat időtartama: 15 perc
+
+A vizsgafeladat értékelési súlyaránya: 20 %
+
+5.3.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Közlekedési szakmai ismeretek
+
+A vizsgafeladat ismertetése:
+
+Közlekedési, közbiztonsági, rendészeti, csapatszolgálati, szolgálatteljesítési és általános őr- és járőrtársi feladatok
+
+A vizsgafeladat időtartama: 180 perc
+
+A vizsgafeladat értékelési súlyaránya: 30%
+
+5.3.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Objektum-, személy- és vagyonvédelmi ismeretek
+
+A vizsgafeladat ismertetése:
+
+A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények pontban megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
+
+A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő: 10 perc, válaszadási idő 20 perc)
+
+A vizsgafeladat értékelési súlyaránya: 20%
+
+5.3.4. A Rendőr tiszthelyettes (Közrendvédelmi rendőr) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+
+5.3.4.1. Gyakorlati vizsgatevékenység
+
+A.) A vizsgafeladat megnevezése: Rendőri alaki mozgások
+
+A vizsgafeladat ismertetése:
+
+A vizsgázók szakasz, raj kötelékben és egyénileg alaki gyakorlatokat hajtanak végre. Az értékelés kitér az egyéni feladat-végrehajtáson túl a raj, illetve szakasz kötelékben végrehajtott mozgások összhangjára is
+
+A vizsgafeladat időtartama: 10 perc
+
+A vizsgafeladat értékelési súlyaránya: 10%
+
+B.) A vizsgafeladat megnevezése: Rendőri önvédelem és kényszerítő eszközök alkalmazása
+
+A vizsgafeladat ismertetése:
+
+Önvédelmi fogások és kényszerítő eszközök alkalmazása vizsgázók között
+
+Az értékelés kitér a végrehajtás szabályszerűségére, dinamikájára, célszerűségére, hatékonyságára, és a vizsgázó kommunikációjára is
+
+A vizsgafeladat időtartama: 5 perc
+
+A vizsgafeladat értékelési súlyaránya: 10%
+
+C.) A vizsgafeladat megnevezése: Rendőri intézkedés a gyakorlatban
+
+A vizsgafeladat ismertetése:
+
+Komplex rendőri intézkedés végrehajtása vizsgahelyszínen, melyen keresztül lemérhető a vizsgázó alakiassága, fizikális felkészültsége, a szakszerű és jogszerű rendőri intézkedésre való felkészültsége, kommunikációja és eszközhasználati készsége. A közterületi intézkedést szimuláló feladatban jelzők és járőrtárs által támogatott feladat-végrehajtás történik
+
+A vizsgafeladat időtartama: 15 perc
+
+A vizsgafeladat értékelési súlyaránya: 10%
+
+D.) A vizsgafeladat megnevezése: Közterületen, nyilvános helyen, magánlakásban történő intézkedés
+
+A vizsgafeladat ismertetése:
+
+A szituációs feladat önálló - járőrtárs biztosítása mellett - történő végrehajtása. A rögzített szituációnak megfelelően, jog- és szakszerű intézkedés lefolytatása, szükség esetén – az elkövetett jogsértés miatti szankció, kényszerítő eszköz alkalmazása, személyi szabadságot korlátozó intézkedés foganatosítása. Az intézkedéshez szükséges írásos tevékenység (jelentés, feljelentés) elkészítése
+
+A vizsgafeladat időtartama: 30 perc
+
+A vizsgafeladat értékelési súlyaránya: 20%
+
+5.3.4.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Közrendvédelmi szakmai ismeretek
+
+A vizsgafeladat ismertetése:
+
+Közrendvédelmi, közbiztonsági, rendészeti, csapatszolgálati, szolgálatteljesítési és általános őr- és járőrtársi feladatok
+
+A vizsgafeladat időtartama: 180 perc
+
+A vizsgafeladat értékelési súlyaránya: 30%
+
+5.3.4.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Objektum-, személy- és vagyonvédelmi ismeretek
+
+A vizsgafeladat ismertetése:
+
+A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények pontban megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
+
+A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő: 10 perc, válaszadási idő 20 perc)
+
+A vizsgafeladat értékelési súlyaránya: 20%
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
+
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
+
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai:
+
+Amennyiben a teljesítendő írásbeli feladat eredménye nem éri el az 51%-ot, akkor az írásbeli vizsgatevékenység eredménye elégtelen. Sikertelen a szakmai vizsga, ha bármely teljesítendő vizsgatevékenység (gyakorlati, írásbeli, szóbeli) eredményét elégtelenre értékeli a vizsgabizottság.
+
+6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+
+|  | A |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Fegyverzet |
+
+| 6.3. | Lövedékálló mellény |
+
+| 6.4. | Speciális egyéni felszerelés és kiegészítői |
+
+| 6.5. | Kényszerítő eszközök |
+
+| 6.6. | Tömegoszlatás speciális eszközei |
+
+| 6.7. | Szolgálati járművek |
+
+| 6.8. | Számítógép és perifériái (informatikai eszközök) |
+
+| 6.9. | Híradástechnikai eszközök |
+
+| 6.10. | Világító berendezés |
+
+| 6.11. | Forgalom elterelő eszközök |
+
+| 6.12. | Nyomtató |
+
+| 6.13. | Telefon, fax |
+
+| 6.14. | Járőr-, őr felszerelés |
+
+| 6.15. | Figyelést-, látást-, tájékozódást segítő eszközök, berendezések |
+
+| 6.16. | Okmányminták |
+
+| 6.17. | Videokamera |
+
+| 6.18. | Fényképezőgép |
+
+| 6.19. | Forgalomellenőrző berendezések |
+
+| 6.20. | Határforgalom-ellenőrzést szolgáló eszközök, berendezések |
+
+7. EGYEBEK
+
+7.1. Validáció: -
+
+7.2. A szakmai szervezet szakmai vizsgabizottságban betöltött feladatait a Rendőr tiszthelyettes szakképesítés és részszakképesítései tekintetében az Országos Rendőr-főkapitányság látja el.
+
+|  | A | B | C |
+
+| 7.2.1. | azonosító szám | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+
+| 7.2.2. | 54 861 01 | Rendőr tiszthelyettes | Országos Rendőr-főkapitányság |
+
+7.3. Részszakképesítés megszerzése:
+
+7.3.1. Amennyiben a Rendőr tiszthelyettes komplex szakmai vizsga sikertelen, de az 5.3.3.1. A), B), C), 5.3.3.2., 5.3.3.3 feladatok mindegyike eredményes (eléri az 51%-ot), akkor a Járőr részszakképesítést igazoló bizonyítvány kiadható a Járőr részszakképesítés szakmai és vizsgakövetelményben meghatározott súlyozási rend figyelembe vételével. A gyakorlati vizsgatevékenység %-os eredménye az 5.3.3.1. A), B), C) feladataira kapott %-os értékek matematikai álaga, felfelé kerekítve egész értékre. Ebben az esetben további részszakképesítést igazoló bizonyítvány kiadása nem történhet meg.
+
+7.3.2. Amennyiben a Rendőr tiszthelyettes komplex szakmai vizsga sikertelen, és nem adható ki a Járőr részszakképesítést igazoló bizonyítvány sem, de az 5.3.3.1. A), B), 5.3.3.2., 5.3.3.3 feladatok mindegyike eredményes (eléri az 51%-ot), akkor a Csapatszolgálati járőrtárs részszakképesítést igazoló bizonyítvány kiadható a Csapatszolgálati járőrtárs részszakképesítés szakmai és vizsgakövetelményben meghatározott súlyozási rend figyelembe vételével. A gyakorlati vizsgatevékenység %-os eredménye az 5.3.3.1. A), B) feladataira kapott %-os értékek matematikai álaga, felfelé kerekítve egész értékre. Ebben az esetben további részszakképesítést igazoló bizonyítvány kiadása nem történhet meg.
+
+7.4. Megfeleltetés: Kizárólag a modulzáró vizsgák alóli felmentést biztosítják
+
+7.4.1. A 15/2008. (VII. 28.) IRM rendelet szerinti Határrendészeti-rendőr szakképesítés-elágazás (szakmai követelménymoduljai: 0725-06 Rendészeti alapfeladatok, 0731-06 Általános őr- és járőrszolgálati feladatok, 0732-06 Határrendészeti rendőri feladatok) végzettség tekintetében megegyezik a 3690-11 A rendvédelmi szervek általános feladatai és szabályzói, 3691-11 Őr-járőrtársi feladatok, 3692-11 Csapatszolgálati járőrtársi feladatok, 3693-11 Járőri feladatok, 3695-11 Határrendészeti rendőri feladatok szakmai követelménymodulokat tartalmazó Határrendészeti-rendőr szakképesítés-elágazással, és a jelen szakképesítés szerinti Rendőr tiszthelyettes (határrendészeti rendőr) végzettséggel.
+
+7.4.2. A 15/2008. (VII. 28.) IRM rendelet szerinti Közrendvédelmi-rendőr szakképesítés-elágazás (szakmai követelménymoduljai: 0725-06 Rendészeti alapfeladatok, 0731-06 Általános őr- és járőrszolgálati feladatok, 0738-06 Közrendvédelmi rendőri feladatok) végzettség tekintetében megegyezik a 3690-11 A rendvédelmi szervek általános feladatai és szabályzói, 3691-11 Őr-járőrtársi feladatok, 3692-11 Csapatszolgálati járőrtársi feladatok, 3693-11 Járőri feladatok, 3694-11 Közrendvédelmi rendőri feladatok szakmai követelménymodulokat tartalmazó Közrendvédelmi-rendőr szakképesítés-elágazással és a jelen szakképesítés szerinti Rendőr tiszthelyettes (közrendvédelmi rendőr) végzettséggel.
+
+7.4.3. A 15/2008. (VII. 28.) IRM rendelet szerinti (2011 évben indított) Bűnügyi-rendőr szakképesítés-elágazás (szakmai követelménymoduljai: 3690-11 A rendvédelmi szervek általános feladatai és szabályzói, 3691-11 Őr-járőrtársi feladatok, 3692-11 Csapatszolgálati járőrtársi feladatok, 3693-11 Járőri feladatok, 3697-11 Bűnügyi rendőri feladatok ) végzettség tekintetében megegyezik a jelen szakképesítés szerinti Rendőr tiszthelyettes (bűnügyi rendőr) végzettséggel.
+
+7.4.4. A 15/2008. (VII. 28.) IRM rendelet szerinti (2011 évben indított) Közlekedési-rendőr szakképesítés-elágazás (szakmai követelménymoduljai: 3690-11 A rendvédelmi szervek általános feladatai és szabályzói, 3691-11 Őr-járőrtársi feladatok, 3692-11 Csapatszolgálati járőrtársi feladatok, 3693-11 Járőri feladatok, 3696-11 Közlekedési rendőri feladatok) végzettség tekintetében megegyezik a jelen szakképesítés szerinti Rendőr tiszthelyettes (közlekedési rendőr) végzettséggel.
+
+7.4.5. Beszámíthatósági (szakmai követelménymodul megfeleltethetőségi) táblázat
+
+|  | A | B | C | D | E | F |
+
+| 7.4.5.1. | Korábbi eredményes szakmai követelménymodulok | Jelen szakmai és vizsgakövetelmények szerint megfeleltetett szakmai követelménymodulok |
+
+| 7.4.5.2. | 0725-06 | Rendészeti alapfeladatok | 3690-11 | A rendvédelmi szervek általános feladatai és szabályzói | 10352-12 | Rendvédelmi alapfeladatok |
+
+| 7.4.5.3. | 0734-06, 0735-06 és 0736-06 | Objektumőr-kísérő rendészeti alapfeladatai, Objektumőr-kísérő általános őr- és járőrszolgálati feladatai és Objektumőr-kísérői feladatok | 3690-11 és 3691-11 | A rendvédelmi szervek általános feladatai és szabályzói és Őr-járőrtársi feladatok | 10352-12 és 10370-12 | Rendvédelmi alap-feladatok és Őr-járőrtársi feladatok |
+
+| 7.4.5.4. | 0739-06, 0740-06 és 0741-06 | Kormányőr rendészeti alapfeladatai, Kormányőr általános őr- és járőrszolgálati feladatai és Kormányőri feladatok | 3690-11 és 3691-11 | A rendvédelmi szervek általános feladatai és szabályzói és Őr-járőrtársi feladatok | 10352-12 és 10370-12 | Rendvédelmi alapfeladatok és Őr-járőrtársi feladatok |
+
+| 7.4.5.5. | 0725-06 és 0731-06 | Rendészeti alapfeladatok és Általános őr- és járőrszolgálati feladatok | 3690-11 és 3691-11 | A rendvédelmi szervek általános feladatai és szabályzói és Őr-járőrtársi feladatok | 10352-12 és 10370-12 | Rendvédelmi alapfeladatok és Őr-járőrtársi feladatok |
+
+| 7.4.5.6. | 0725-06, 0731-06 és 0732-06 | Rendészeti alapfeladatok, Általános őr- és járőrszolgálati feladatok és Határrendészeti rendőri feladatok | 3690-11, 3691-11, 3692-11, 3693-11 és 3695-11 | A rendvédelmi szervek általános feladatai és szabályzói, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok, Járőri feladatok és Határrendészeti rendőri feladatok | 10352-12, 10370-12, 10371-12, 10372-12, 10373-12, | Rendvédelmi alap-feladatok, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok, Járőri feladatok, Határrendészeti rendőri feladatok |
+
+| 7.4.5.7. | 0725-06, 0731-06 és 0738-06 | Rendészeti alapfeladatok, Általános őr- és járőrszolgálati feladatok és Közrendvédelmi rendőri feladatok | 3690-11, 3691-11, 3692-11, 3693-11 és 3694-11 | A rendvédelmi szervek általános feladatai és szabályzói, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok, Járőri feladatok és Közrendvédelmi rendőri feladatok | 10352-12, 10370-12, 10371-12, 10372-12, 10374-12, | Rendvédelmi alap-feladatok, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok, Járőri feladatok, Közrendvédelmi rendőri feladatok |
+
+| 7.4.5.8. | - | - | 3690-11, 3691-11 és 3692-11 | A rendvédelmi szervek általános feladatai és szabályzói, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok | 10352-12, 10370-12 és 10371-12 | Rendvédelmi alap-feladatok, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok |
+
+| 7.4.5.9. | - | - | 3690-11, 3691-11, 3692-11 és 3693-11 | A rendvédelmi szervek általános feladatai és szabályzói, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok, Járőri feladatok | 10352-12, 10370-12, 10371-12 és 10372-12 | Rendvédelmi alap-feladatok, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok, Járőri feladatok |
+
+7.4.6. Aki a 2006-ban vagy 2011-ben kiadott, e táblázatban meghatározott követelménymodulokat eredményesen teljesítette, az mentesül a 2012-ben kiadott e táblázat szerinti megfelelő szakmai követelménymodulok teljesítése alól.
+
+7.4.7. Aki a 2006-ban vagy 2011-ben kiadott, e táblázatban meghatározott követelménymodulokból sikeres szakmai vizsgát tett, az a jelen szakmai és vizsgakövetelmény szerinti szakmai képzéseket folytathatja.
+
+7.4.8. A rendőr tiszthelyettes alap-szakképesítés szakirányi moduljában folytathatja tanulmányait az 52 861 06 azonosító számú Rendőr szakképesítéssel, az 52 8912 02 számú Rendőr szakképesítéssel, vagy az 52 8912 01 számú Határrendész szakképesítéssel rendelkező hivatásos állományú személy.
+
+A 24. sorszámú Őr-járőrtárs megnevezésű részszakképesítés szakmai és vizsgakövetelménye
+
+1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+
+1.1. A részszakképesítés azonosító száma: 51 861 03
+
+1.2. Részszakképesítés megnevezése: Őr-járőrtárs
+
+[^4]: A 2. melléklet a 83/2013. (XII. 31.) BM rendelet 2. § b) pontja, a 23/2014. (III. 14.) BM rendelet 2. § (2) bekezdése, a 25/2014. (VIII. 26.) NGM rendelet 4. § (2) bekezdése szerint módosított szöveg.
