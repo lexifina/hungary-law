@@ -3,4 +3,4 @@
 1. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^14]
 
 [^13]: A 17. §-t a 6/2014. (I. 29.) EMMI rendelet 10. §-a iktatta be.
-[^14]: Az EMMI rendelet 1–7. melléklete a Magyar Közlöny honlap Melléklet szekciójában az „Az 51/2012. (XII. 21.) EMMI rendelet mellékletei” hivatkozás alatt találhatók. A mellékletek ezen részei a jelen közlöny 29877-tól 36480-ig oldalait képezik.
+[^14]: Az 1. melléklet a 34/2014. (IV. 29.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
