@@ -1,3 +1,1 @@
-## 12. §[^1]
-
-[^1]: A 12. § a 4. § (3) bekezdése alapján 2014. szeptember 2-án lép hatályba.
+## 12. § Hatályát veszti a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló 18/1998. (VI. 3.) NM rendelet módosításáról szóló 23/2014. (III. 27.) EMMI rendelet.

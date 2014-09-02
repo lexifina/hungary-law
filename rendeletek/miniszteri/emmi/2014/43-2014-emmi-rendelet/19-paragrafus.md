@@ -1,1 +1,3 @@
-## 18. § Nem lép hatályba a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló 18/1998. (VI. 3.) NM rendelet módosításáról szóló 23/2014. (III. 27.) EMMI rendelet 3. §-a.
+## 18. §[^6]
+
+[^6]: A 18. § a 15. § alapján hatályát vesztette.
