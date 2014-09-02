@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-164-20-
 | --- | --- | --- |
 | 2014-07-17 | 2014-164-20-22.1 | 164/2014. (VII. 16.) Korm. rendelet |
 | 2014-09-01 | 2014-164-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2014-09-02 | 2014-164-20-22.3 | 298/2014. (XII. 5.) Korm. rendelet |
