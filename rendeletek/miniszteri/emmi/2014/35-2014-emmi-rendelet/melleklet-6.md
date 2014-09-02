@@ -34,6 +34,6 @@
 
 ## ”
 
-6. melléklet a 35/2014. (IV. 30.) EMMI rendelethez[^2]
+6. melléklet a 35/2014. (IV. 30.) EMMI rendelethez[^4]
 
-[^2]: A 6. melléklet a 40/2014. (V. 5.) EMMI rendelet 33. §-a alapján nem lép hatályba.
+[^4]: A 6. melléklet a 40/2014. (V. 5.) EMMI rendelet 33. §-a alapján nem lép hatályba.
