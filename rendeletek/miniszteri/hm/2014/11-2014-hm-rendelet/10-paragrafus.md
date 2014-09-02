@@ -1,1 +1,0 @@
-## 9. § Az étkezési utalvánnyal való ellátásról szóló 17/2013. (XI. 3.) HM rendelet 3. § (2) bekezdés h) pontjában a „szerződéses állomány” szövegrész helyébe a „szerződéses legénységi állomány” szöveg lép.
