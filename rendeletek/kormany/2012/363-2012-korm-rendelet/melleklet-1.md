@@ -304,10 +304,10 @@ A szociálisan érett gyermek:
 
 – feladattudata kialakulóban van, s ez a feladat megértésében, feladattartásban, a feladatok egyre eredményesebb – szükség szerint kreatív – elvégzésében nyilvánul meg; kitartásának, munkatempójának, önállóságának, önfegyelmének alakulása biztosítja ezt a tevékenységet.
 
-3.[^2] A hároméves kortól kötelező óvodába járás ideje alatt az óvodai nevelési folyamat célja, feladata a gyermeki személyiség harmonikus testi és szociális fejlődésének elősegítése.
+3.[^3] A hároméves kortól kötelező óvodába járás ideje alatt az óvodai nevelési folyamat célja, feladata a gyermeki személyiség harmonikus testi és szociális fejlődésének elősegítése.
 
 4. A sajátos nevelési igényű gyermekek esetében folyamatos, speciális szakemberek segítségével végzett pedagógiai munka mellett érhető csak el a fentiekben leírt fejlettséget.
 
 5. A kiemelt figyelmet igénylő gyermekek iskolaérettségi kritériumai tükrözik a befogadó intézmény elvárásait az iskolába kerülő gyermekekkel szemben.
 
-[^2]: Az 1. melléklet VI. pont 3. alpontja ugyanezen rendelet 2. §-ával megállapított szöveg.
+[^3]: Az 1. melléklet VI. pont 3. alpontja ugyanezen rendelet 2. §-ával megállapított szöveg.
