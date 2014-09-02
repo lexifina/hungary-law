@@ -1,1 +1,0 @@
-## „(5) A felsőoktatási intézmény a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 3. melléklet I/B. fejezet 1. pont h) alpontja szerinti, az ösztöndíjjal kapcsolatos adatszolgáltatási kötelezettségének a felsőoktatási információs rendszer útján tesz eleget.”

@@ -1,3 +1,0 @@
-## 35. § A Stipendium Hungaricumról szóló 285/2013. (VII. 26.) Korm. rendelet (a továbbiakban: R6.) 6. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-## „(6) Az ösztöndíjasnak teljesítenie kell a fogadó felsőoktatási intézmény által meghatározott felvételi követelményeket. A benyújtott pályázat és a fogadó felsőoktatási intézmény az intézményi felvételi követelmények teljesítését tanúsító fogadólevele alapján a MÖB javaslatot tesz a miniszternek az ösztöndíj odaítélésére. Az ösztöndíjat a MÖB javaslata alapján a miniszter adományozza azzal a feltétellel, hogy az ösztöndíjasnak hallgatói jogviszonyt kell létesítenie.”
