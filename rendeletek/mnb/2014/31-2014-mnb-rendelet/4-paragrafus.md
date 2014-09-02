@@ -1,0 +1,7 @@
+4. § (1) A bankjegy hátoldala többszínű, a koronázási palástot megjelenítő, az oldal széléig kifutó alapnyomattal és háromszínű képnyomattal készült, amelynek összhatása sárgás-bordó. Az íriszszerű alapnyomat a jobb oldalon található vízjelmező körül bordó, mellette lila, a többi részen sárga és lila színhatású. A vízjelmező mellett balra 1 mm átmérőjű sárga színű körök láthatók. Az alapnyomat bal felső részén az illeszkedőjel hátoldali eleme található.
+
+(2) A képnyomat része a vízjelmező fölött és alatt látható, mikroírást tartalmazó mező. A fölső mezőben a mikroírással nyomtatott „MAGYAR NEMZETI BANK” felirat ismétlődik, és a nagyobb betűkkel nyomtatott „MNB” felirat olvasható. Az alsó mezőben a mikroírással nyomtatott „MAGYAR NEMZETI BANK TÍZEZER FORINT” felirat ismétlődik, és a nagyobb számjegyekkel nyomtatott „10 000” értékjelzés olvasható.
+
+(3) A képnyomat fő motívuma egy – Hubert Sattler festménye alapján készült – esztergomi látkép ábrázolása, amelynek jobb alsó részén „S” betűt formáló iniciálé látható. A látkép ábrázolásától balra díszítő motívum látható, amelyben a rátekintés szögétől függően egy „H” betű jelenik meg. A látkép ábrázolása alatt, a bankjegy bal alsó szélén az „ESZTERGOMI LÁTKÉP” felirat olvasható, amelynek színe vöröses-lila. A látkép ábrázolása fölött a „TÍZEZER FORINT” felirat és a „10 000” értékjelzés olvasható, amelyek színe bordó és lila.
+
+(4) A bankjegy hátoldalának képét a 2. melléklet tartalmazza.
