@@ -1,1 +1,3 @@
-## 12. § Hatályát veszti a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló 18/1998. (VI. 3.) NM rendelet módosításáról szóló 23/2014. (III. 27.) EMMI rendelet.
+## 12. §[^2]
+
+[^2]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

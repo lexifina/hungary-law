@@ -1,3 +1,3 @@
-## 16. §[^4]
+## 16. §[^6]
 
-[^4]: A 16. § a 4. § (4) bekezdése alapján 2015. január 2-án lép hatályba.
+[^6]: A 16. § a 4. § (4) bekezdése alapján 2015. január 2-án lép hatályba.
