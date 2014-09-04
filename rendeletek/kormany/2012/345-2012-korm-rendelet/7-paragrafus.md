@@ -32,6 +32,18 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 
 (8)[^12] A Módr.3. hatálybalépésekor[^13] folyamatban lévő hatósági eljárásokban a szakhatóságnak az adott ügyfajtára vonatkozó jogszabályban meghatározott ügyintézési határidőn belül kell szakhatósági állásfoglalását az eljárást lefolytató hatósággal közölnie.
 
+(9)[^14] E rendeletnek az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet módosításáról szóló 211/2014. (VIII. 27.) Korm. rendelettel (a továbbiakban: Módr.4.) megállapított rendelkezéseit – a (10)–(11) bekezdésben foglalt eltérésekkel – a Módr.4. hatálybalépése[^15] idején folyamatban lévő ügyekben is alkalmazni kell.
+
+(10)[^16] A Módr.4. hatálybalépése[^17] előtt már megkezdett eljárási cselekmények hatályát e rendelet nem érinti.
+
+(11)[^18] A Módr.4. hatálybalépésekor[^19] folyamatban lévő hatósági eljárásokban
+
+a) a szakhatóságnak az adott ügyfajtára vonatkozó jogszabályban meghatározott ügyintézési határidőn belül kell szakhatósági állásfoglalását az eljárást lefolytató hatósággal közölnie,
+
+b) a hatóság, illetve a szakhatóság az ügyintézési határidőt a Ket.-ben meghatározott feltételek fennállása esetén hosszabbíthatja meg, és
+
+c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtára vonatkozó jogszabályban foglaltakat kell alkalmazni.
+
 [^2]: A 7. § (3) bekezdését a 376/2013. (X. 25.) Korm. rendelet 2. §-a iktatta be.
 [^3]: A hatálybalépés időpontja 2013. október 26.
 [^4]: A 7. § (4) bekezdését a 376/2013. (X. 25.) Korm. rendelet 2. §-a iktatta be.
@@ -44,3 +56,9 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 [^11]: A hatálybalépés időpontja 2014. február 20.
 [^12]: A 7. § (8) bekezdését a 37/2014. (II. 19.) Korm. rendelet 1. §-a iktatta be.
 [^13]: A hatálybalépés időpontja 2014. február 20.
+[^14]: A 7. § (9) bekezdését a 211/2014. (VIII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A hatálybalépés időpontja 2014. szeptember 4.
+[^16]: A 7. § (10) bekezdését a 211/2014. (VIII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^17]: A hatálybalépés időpontja 2014. szeptember 4.
+[^18]: A 7. § (11) bekezdését a 211/2014. (VIII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^19]: A hatálybalépés időpontja 2014. szeptember 4.

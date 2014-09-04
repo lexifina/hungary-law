@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-345-20-
 | 2013-10-26 | 2012-345-20-22.3 | 376/2013. (X. 25.) Korm. rendelet |
 | 2013-12-25 | 2012-345-20-22.4 | 486/2013. (XII. 17.) Korm. rendelet |
 | 2014-02-20 | 2012-345-20-22.5 | 37/2014. (II. 19.) Korm. rendelet |
+| 2014-09-04 | 2012-345-20-22.6 | 211/2014. (VIII. 27.) Korm. rendelet |

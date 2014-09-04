@@ -1,6 +1,6 @@
-## 8. §[^14]
+## 8. §[^20]
 
-1. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^15]
+1. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^21]
 
 1. Egyes országos közúti közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
@@ -330,7 +330,17 @@
 
 1.163. A lenti Malom-patak híd fejlesztése.
 
-1.164.[^16] Körforgalmú csomópont kiépítése a 304. számú főút és a Miskolc Déli Ipari Park bekötő út keresztezésében.
+1.164.[^22] Körforgalmú csomópont kiépítése a 304. számú főút és a Miskolc Déli Ipari Park bekötő út keresztezésében.
+
+1.165.[^23] A 67. számú főút, Somogyaszaló elkerülő szakasz megépítése.
+
+1.166.[^24] A 67. számú főút, Mernye elkerülő szakasz megépítése.
+
+1.167.[^25] A 67. számú főút, Mernyeszentmiklós elkerülő szakasz megépítése.
+
+1.168[^26] A 67. számú főút, Vadépuszta elkerülő szakasz megépítése.
+
+1.169.[^27] A 67. számú főút, Somogybabod elkerülő szakasz megépítése.
 
 2. Egyes országos vasúti közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
@@ -480,16 +490,27 @@
 
 3.21. Kaposvár Megyei Jogú Város intermodális pályaudvar és közösségi közlekedés fejlesztése.
 
-3.22.[^17] Nyíregyháza, 36. sz. főúttal párhuzamos kerékpárút építése.
+3.22.[^28] Nyíregyháza, 36. sz. főúttal párhuzamos kerékpárút építése.
 
-4.[^18] Egyes országos vízi közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
+3.23.[^29] A jászfényszarui északi feltáró út megépítése.
+
+4.[^30] Egyes országos vízi közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
 4.1. Győr–Gönyű Országos Közforgalmú Kikötő fejlesztése.
 
 4.2. Csepeli Országos Közforgalmú Kikötő fejlesztése.
 
-[^14]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: Az 1. melléklet a 376/2013. (X. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^16]: Az 1. melléklet 1.164. pontját a 486/2013. (XII. 17.) Korm. rendelet 2. §-a iktatta be.
-[^17]: Az 1. melléklet 3. cím 3.22. pontját a 37/2014. (II. 19.) Korm. rendelet 2. §-a iktatta be.
-[^18]: Az 1. melléklet 4. címét (4.1–4.2. pont) a 486/2013. (XII. 17.) Korm. rendelet 2. §-a iktatta be.
+4.3.[^31] Baja Országos Közforgalmú Kikötő fejlesztése.
+
+[^20]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az 1. melléklet a 376/2013. (X. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet 1.164. pontját a 486/2013. (XII. 17.) Korm. rendelet 2. §-a iktatta be.
+[^23]: Az 1. melléklet 1. cím 1.165. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^24]: Az 1. melléklet 1. cím 1.166. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^25]: Az 1. melléklet 1. cím 1.167. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^26]: Az 1. melléklet 1. cím 1.168. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^27]: Az 1. melléklet 1. cím 1.169. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^28]: Az 1. melléklet 3. cím 3.22. pontját a 37/2014. (II. 19.) Korm. rendelet 2. §-a iktatta be.
+[^29]: Az 1. melléklet 3. cím 3.23. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^30]: Az 1. melléklet 4. címét (4.1–4.2. pont) a 486/2013. (XII. 17.) Korm. rendelet 2. §-a iktatta be.
+[^31]: Az 1. melléklet 4. cím 4.3. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
