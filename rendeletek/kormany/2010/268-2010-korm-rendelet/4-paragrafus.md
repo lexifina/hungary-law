@@ -1,4 +1,4 @@
-## 3. § A KIFÜ alkalmazottai felett a munkáltatói jogokat az elnök gyakorolja.
+## 3. §[^3]
 
 ## 3. A KIFÜ feladatai
 
@@ -12,4 +12,5 @@ c) megállapodás alapján projektmenedzsment módszertan szolgáltatásokat ny�
 
 d) ellátja mindazokat a feladatokat, amelyeket jogszabály a feladatkörébe utal.
 
+[^3]: A 3. §-t a 221/2014. (IX. 4.) Korm. rendelet 485. §-a hatályon kívül helyezte.
 [^4]: A 4. § a 268/2013. (VII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
