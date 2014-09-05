@@ -4,7 +4,7 @@
 
 (3) A Világörökség Szakbizottságba a melléklet 8.2. pontjában meghatározott szervezetek delegálhatnak meghívottat.
 
-(4)[^2] A szakbizottságok elnökeit a miniszter – az MTA elnökével és az MMA elnökével egyetértésében – kéri fel négyéves időtartamra.
+(4)[^3] A szakbizottságok elnökeit a miniszter – az MTA elnökével és az MMA elnökével egyetértésében – kéri fel négyéves időtartamra.
 
 (5) A szakbizottság:
 
@@ -48,33 +48,44 @@ b) előkészíti az időszaki jelentést az Egyezmény hazai végrehajtásáról
 
 (7) A Világörökség Szakbizottság a Bizottság munkatervében foglaltaknak megfelelően az (5) bekezdésben foglaltakon túl:
 
-a) segíti a kultúráért felelős minisztert a világörökségi kezelési tervek előkészítésében és felülvizsgálatában;
+a)[^4] segíti a kulturális örökség védelméért felelős minisztert a világörökségi kezelési tervek előkészítésében és felülvizsgálatában;
 
-b) véleményt ad a kultúráért felelős miniszternek a világörökségi gondnokságok kiválasztása során;
+b)[^5] véleményt ad a kulturális örökség védelméért felelős miniszternek a világörökségi gondnokságok kiválasztása során;
 
-c) előkészíti a kultúráért felelős miniszter éves jelentését a Kormány, négyéves beszámolóját az Országgyűlés részére, és továbbítja a tervezeteket a kultúráért felelős miniszter részére;
+c)[^6] előkészíti a kulturális örökség védelméért felelős miniszter éves jelentését a Kormány, négyéves beszámolóját az Országgyűlés részére, és továbbítja a tervezeteket a kulturális örökség védelméért felelős miniszter részére;
 
-d) előkészíti a kultúráért felelős miniszternek a világörökségi helyszín állapotáról szóló részletes állapotjelentését az UNESCO Világörökség Bizottsága részére, valamint az állapotjelentés bizottsági elfogadása után a bizottsági ajánlások végrehajtásáról készült jelentését az UNESCO Világörökség Bizottsága részére, és továbbítja a tervezeteket a kultúráért felelős miniszter részére;
+d)[^7] előkészíti a kulturális örökség védelméért felelős miniszternek a világörökségi helyszín állapotáról szóló részletes állapotjelentését az UNESCO Világörökség Bizottsága részére, valamint az állapotjelentés bizottsági elfogadása után a bizottsági ajánlások végrehajtásáról készült jelentését az UNESCO Világörökség Bizottsága részére, és továbbítja a tervezeteket a kulturális örökség védelméért felelős miniszter részére;
 
-e) véleményezi a világörökségi gondnokság által a kultúráért felelős miniszter részére a világörökségi helyszínről készített éves beszámolót, az esetenkénti megőrzési állapotjelentést, valamint a világörökségi előírások szerinti előzetes bejelentéseket az olyan beavatkozásokról, melyek hatással lehetnek a világörökségi helyszín kiemelkedő egyetemes értékére;
+e)[^8] véleményezi a világörökségi gondnokság által a kulturális örökség védelméért felelős miniszter részére a világörökségi helyszínről készített éves beszámolót, az esetenkénti megőrzési állapotjelentést, valamint a világörökségi előírások szerinti előzetes bejelentéseket az olyan beavatkozásokról, melyek hatással lehetnek a világörökségi helyszín kiemelkedő egyetemes értékére;
 
-f) javaslatot tesz a kultúráért felelős miniszternek a világörökségi területet érintő változások – így különösen a világörökségi terület határának, a világörökségi helyszín elnevezésének, illetve a kiemelkedő egyetemes értékének megváltoztatása – miatt szükséges intézkedések meghozatalára;
+f)[^9] javaslatot tesz a kulturális örökség védelméért felelős miniszternek a világörökségi területet érintő változások – így különösen a világörökségi terület határának, a világörökségi helyszín elnevezésének, illetve a kiemelkedő egyetemes értékének megváltoztatása – miatt szükséges intézkedések meghozatalára;
 
-g) véleményével segíti a kultúráért felelős minisztert a világörökségi várományos helyszínek kiválasztására, azok Világörökségi Várományos Helyszínek Jegyzékébe történő felvételére, valamint az abban történő nyilvántartása indokoltságának felülvizsgálatára irányuló eljárásban;
+g)[^10] véleményével segíti a kulturális örökség védelméért felelős minisztert a világörökségi várományos helyszínek kiválasztására, azok Világörökségi Várományos Helyszínek Jegyzékébe történő felvételére, valamint az abban történő nyilvántartása indokoltságának felülvizsgálatára irányuló eljárásban;
 
-h) javaslatot tesz a kultúráért felelős miniszternek a kiemelkedő egyetemes (kulturális örökségi, illetve természeti) értéket hordozó örökség megismerését, fejlesztését és bemutatását elősegítő – köztük oktatási, képzési, ismeretterjesztő – programokra és azok végrehajtására;
+h)[^11] javaslatot tesz a kulturális örökség védelméért felelős miniszternek a kiemelkedő egyetemes (kulturális örökségi, illetve természeti) értéket hordozó örökség megismerését, fejlesztését és bemutatását elősegítő – köztük oktatási, képzési, ismeretterjesztő – programokra és azok végrehajtására;
 
-i)[^3] együttműködik a feladatai ellátása során az állami és önkormányzati szervekkel, vallási közösségekkel, társadalmi és egyéb szervezetekkel, természetes személyekkel;
+i)[^12] együttműködik a feladatai ellátása során az állami és önkormányzati szervekkel, vallási közösségekkel, társadalmi és egyéb szervezetekkel, természetes személyekkel;
 
-j) közreműködik a kultúráért felelős miniszter világörökségi helyszínekkel – különösen a határon átnyúló közös világörökségi helyszínekkel – kapcsolatos nemzetközi együttműködési kötelezettségeinek teljesítésében, valamint
+j)[^13] közreműködik a kulturális örökség védelméért felelős miniszter világörökségi helyszínekkel – különösen a határon átnyúló közös világörökségi helyszínekkel – kapcsolatos nemzetközi együttműködési kötelezettségeinek teljesítésében, valamint
 
-k) a kultúráért felelős miniszter kérelmére bármely egyéb az 1985. évi 21. törvényerejű rendelettel kihirdetett, a világ kulturális és természeti örökségének védelméről szóló, az Egyesült Nemzetek Oktatási, Tudományos és Kulturális Szervezete Általános Konferenciájának ülésszakán Párizsban, 1972. november 16-án elfogadott egyezmény végrehajtásából eredő kötelezettség tárgyában szakmai véleményt ad.
+k)[^14] a kulturális örökség védelméért felelős miniszter kérelmére bármely egyéb az 1985. évi 21. törvényerejű rendelettel kihirdetett, a világ kulturális és természeti örökségének védelméről szóló, az Egyesült Nemzetek Oktatási, Tudományos és Kulturális Szervezete Általános Konferenciájának ülésszakán Párizsban, 1972. november 16-án elfogadott egyezmény végrehajtásából eredő kötelezettség tárgyában szakmai véleményt ad.
 
 (8) A szakbizottság szükség szerint, de legalább évente kétszer ülésezik.
 
 (9) A szakbizottság ülésein a főtitkár állandó meghívottként vesz részt.
 
-(10) A szakbizottság titkársági feladatainak ellátásáért a mellékletben az adott szakbizottság szerint meghatározott feladat- és hatáskörrel rendelkező miniszter, a Szellemi Kulturális Örökség Szakbizottság és a Világörökség Szakbizottság esetében a kultúráért felelős miniszter felel.
+(10)[^15] A szakbizottság titkársági feladatainak ellátásáért a mellékletben az adott szakbizottság szerint meghatározott feladat- és hatáskörrel rendelkező miniszter, a Szellemi Kulturális Örökség Szakbizottság esetében a kultúráért felelős miniszter, a Világörökség Szakbizottság esetében a kulturális örökség védelméért felelős miniszter felel.
 
-[^2]: A 12. § (4) bekezdése a 407/2012. (XII. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^3]: A 12. § (7) bekezdés i) pontja a 297/2013. (VII. 29.) Korm. rendelet 75. §-a szerint módosított szöveg.
+[^3]: A 12. § (4) bekezdése a 407/2012. (XII. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^4]: A 12. § (7) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 633. § b) pontja szerint módosított szöveg.
+[^5]: A 12. § (7) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 633. § b) pontja szerint módosított szöveg.
+[^6]: A 12. § (7) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 633. § b) pontja szerint módosított szöveg.
+[^7]: A 12. § (7) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 633. § c) pontja szerint módosított szöveg.
+[^8]: A 12. § (7) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 633. § b) pontja szerint módosított szöveg.
+[^9]: A 12. § (7) bekezdés f) pontja a 221/2014. (IX. 4.) Korm. rendelet 633. § b) pontja szerint módosított szöveg.
+[^10]: A 12. § (7) bekezdés g) pontja a 221/2014. (IX. 4.) Korm. rendelet 633. § b) pontja szerint módosított szöveg.
+[^11]: A 12. § (7) bekezdés h) pontja a 221/2014. (IX. 4.) Korm. rendelet 633. § b) pontja szerint módosított szöveg.
+[^12]: A 12. § (7) bekezdés i) pontja a 297/2013. (VII. 29.) Korm. rendelet 75. §-a szerint módosított szöveg.
+[^13]: A 12. § (7) bekezdés j) pontja a 221/2014. (IX. 4.) Korm. rendelet 633. § b) pontja szerint módosított szöveg.
+[^14]: A 12. § (7) bekezdés k) pontja a 221/2014. (IX. 4.) Korm. rendelet 633. § b) pontja szerint módosított szöveg.
+[^15]: A 12. § (10) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 633. § d) pontja szerint módosított szöveg.
