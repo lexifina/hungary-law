@@ -1,1 +1,0 @@
-## „(8) Az ellátott, illetve törvényes képviselője a felülvizsgálatot az intézményvezetőnél kezdeményezheti, aki tájékoztatja őket a (6)–(7) bekezdésben foglaltakról, majd a kezdeményezést a benyújtástól számított nyolc napon belül az általa kitöltött adatlapon, az (5) bekezdés szerinti dokumentumokat mellékelve továbbítja az ORSZI illetékes kirendeltségéhez.”
