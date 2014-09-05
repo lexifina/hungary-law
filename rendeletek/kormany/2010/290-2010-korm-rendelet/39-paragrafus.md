@@ -1,3 +1,0 @@
-## 38. § A Harmvhr. 51. §-a a következő (5) bekezdéssel egészül ki:
-
-## „(5) A tartózkodási engedély érvényességi ideje alatt a tartózkodási cél megváltozására tekintettel benyújtott tartózkodási engedély kérelem esetén a tartózkodási engedély érvényességét a regionális igazgatóság az előző tartózkodási engedély érvényességi idejénél rövidebb időtartamra is megállapíthatja. A tartózkodási engedély érvényessége azonban a megváltozott tartózkodási cél vonatkozásában a Tv.-ben megállapított időtartamot nem haladhatja meg. A korábban kiadott tartózkodási engedélyt a regionális igazgatóság érvényteleníti.”

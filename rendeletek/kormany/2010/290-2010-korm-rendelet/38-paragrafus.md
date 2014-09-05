@@ -1,1 +1,0 @@
-## „c) a harmadik országbeli állampolgár nyilatkozatát arra vonatkozóan, hogy a kérelem elutasítása esetén vállalja-e a Tv. 42. § (3) bekezdésében meghatározott Európai Unió tagállamainak területéről történő önkéntes távozást.”

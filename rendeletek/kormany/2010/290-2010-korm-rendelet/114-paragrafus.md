@@ -1,3 +1,0 @@
-## 113. § A Metvhr. 68. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) Ha az elismerését kérő személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés, avagy idegenrendészeti eljárásban korábban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll, a fogvatartást foganatosító szerv a menekültügyi hatóság által lefolytatott eljárásban hozott döntéssel szemben benyújtott felülvizsgálati kérelmet haladéktalanul megküldi a menekültügyi hatóság számára. Az elismerését kérő ezzel a Tv. 36. (8) bekezdésében foglalt személyes megjelenés követelményét teljesíti.”

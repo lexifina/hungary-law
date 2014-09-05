@@ -1,1 +1,0 @@
-## „(5) A harmadik országbeli állampolgár a három hónapot meghaladó tartózkodáshoz szükséges anyagi fedezettel akkor rendelkezik, ha ő maga vagy részére családtagja a rendelkezésére álló jogszerűen megszerzett jövedelemből, illetve vagyonból megélhetése, lakhatása, kiutazása, valamint szükség esetén egészségügyi ellátása költségeit biztosítani tudja.”

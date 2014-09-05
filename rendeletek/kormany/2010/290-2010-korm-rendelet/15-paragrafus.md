@@ -1,1 +1,0 @@
-## „(4) Az okmányt kiállító hatóság az érvénytelen tartózkodási jogot igazoló okmányt – a (2) bekezdés b), e) és f) pontjában meghatározott esetek kivételével – visszavonja. A visszavonásról az érvénytelenséget megállapító határozatban rendelkezik.”

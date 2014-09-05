@@ -1,3 +1,0 @@
-## 47. § A Harmvhr. 75. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A 74. §-ban foglalt ellátások és támogatások biztosításának, folyósításának feltétele, hogy a befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár vagy vele közös háztartásban élő házastársa, élettársa, testvére és egyenes ági rokona ne rendelkezzék Magyarországon rendelkezésre álló, megélhetését biztosító vagyonnal, továbbá a saját és vele közös háztartásban élő házastársa és egyenes ági rokona összes jövedelmének figyelembevételével számított egy főre jutó havi jövedelme ne haladja meg az öregségi nyugdíj mindenkori legkisebb összegét.”

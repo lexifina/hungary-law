@@ -1,1 +1,0 @@
-## „(1a) Ha az őrizetbe vett vagy a közösségi szálláson elhelyezett harmadik országbeli állampolgár nem áll társadalombiztosítási jogviszonyban, betegsége esetén térítésmentesen jogosult az egészségügyről szóló 1997. évi CLIV. törvény 142. § (2) bekezdésében és (3) bekezdésének e) és i) pontjában meghatározott ellátásokra.”
