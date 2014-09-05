@@ -40,10 +40,8 @@
 
 ## Határidő: a kiemelt projektjavaslatok beérkezését követő harmincadik nap
 
-## 8. visszavonja
-
-## a) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 3. és 6. prioritásának módosításáról szóló 1196/2014. (III. 31.) Korm. határozatot,
-
-## b) az Államreform Operatív Program és az Elektronikus Közigazgatás Operatív Program keretében végrehajtásra kerülő projektek jogutódlásáról, az Államreform Operatív Program 2011–2013. évekre szóló akciótervének módosításáról, valamint az Elektronikus Közigazgatás Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló 1452/2014. (VIII. 1.) Korm. határozat 2. mellékletének az 1. prioritásra vonatkozó részét.
+## 8.[^1]
 
 1. melléklet az 1498/2014. (IX. 4.) Korm. határozathoz
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
