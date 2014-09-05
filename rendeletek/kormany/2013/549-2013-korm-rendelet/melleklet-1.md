@@ -44,7 +44,7 @@ Kezelő szervi kijelölés
 
 | 19 | Humánerőforrás-fejlesztési Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-| 20 | Agrár- és Vidékfejlesztési Operatív Program | agrárpolitikáért felelős miniszter |
+| 20 | Agrár- és Vidékfejlesztési Operatív Program | agrár-vidékfejlesztésért |
 
 | 21 | Gazdaságfejlesztési és Innovációs Operatív Program | gazdaságpolitikáért felelős miniszter |
 
@@ -73,4 +73,4 @@ Kezelő szervi kijelölés
 | 33 | SAPARD-támogatásból megvalósuló programok előirányzat | agrár-vidékfejlesztésért felelős miniszter |
 
 [^40]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^41]: Az 1. melléklet a 194/2014. (VII. 31.) Korm. rendelet 5. §-ával megállapított, a 204/2014. (VIII. 14.) Korm. rendelet 2. §-a, a 215/2014. (VIII. 27.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^41]: Az 1. melléklet a 194/2014. (VII. 31.) Korm. rendelet 5. §-ával megállapított, a 204/2014. (VIII. 14.) Korm. rendelet 2. §-a, a 215/2014. (VIII. 27.) Korm. rendelet 5. §-a, a 221/2014. (IX. 4.) Korm. rendelet 795. §-a szerint módosított szöveg.
