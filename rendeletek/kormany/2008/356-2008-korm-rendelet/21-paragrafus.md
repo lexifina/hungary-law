@@ -1,3 +1,3 @@
-## 20/A. §[^25]
+## 20/A. §[^31]
 
-[^25]: A 20/A. §-t a 75/2010. (III. 25.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 11. § (2) bekezdése.
+[^31]: A 20/A. §-t a 75/2010. (III. 25.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 11. § (2) bekezdése.
