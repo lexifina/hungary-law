@@ -1,9 +1,3 @@
-## 1. Általános rendelkezések
+## 1.[^1]
 
-1. § (1) A hallgatói hitelrendszer célja, hogy minden fiatal számára esélyt teremtsen a felsőoktatásban való részvételre, függetlenül az egyén, illetve családja anyagi teherviselő képességétől, valamint, hogy a Kormány hosszú távon biztosítsa az általánosan hozzáférhető, tömeges és minőségi felsőoktatás fenntarthatóságának feltételeit a magyar gazdaság fejlesztése érdekében. E célok hosszú távon is biztonságos és költséghatékony megvalósítása érdekében, valamint a diákhitel rendszer méretei, társadalmi, gazdasági és költségvetési kihatásai miatt, a Kormány a hallgatói hitelrendszert a megfelelő állami intézmények és állami tulajdonú szervezetek bevonásával, valamint a Diákhitel szervezetek közötti szoros együttműködés elősegítésével kívánja létrehozni és működtetni, beleértve annak forrásteremtési, hiteligénylési, folyósítási és törlesztéssel kapcsolatos folyamatait.
-
-(2) Ez a rendelet meghatározza a hallgatói hitel igénybevételének, a hallgatói hitelszerződésnek feltételeit, a hitel folyósításának, törlesztésének szabályait.
-
-(3)[^1]
-
-[^1]: Az 1. § (3) bekezdését a 80/2014. (III. 14.) Korm. rendelet 28. §-a hatályon kívül helyezte.
+[^1]: Az 1. alcímet (1. §) a 221/2014. (IX. 4.) Korm. rendelet 632. §-a hatályon kívül helyezte.
