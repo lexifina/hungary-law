@@ -1,9 +1,3 @@
-## 1. § A Kormány a magyar nyelvi örökség föltárása, a nyelv és azzal összefüggésben a kultúra mélyebb megismerése, ápolása, gondozása, fejlesztése és a 4. § (1) bekezdésében meghatározott feladatok ellátására létrehozza a Magyar Nyelvstratégiai Intézetet (a továbbiakban: Intézet).
+## 1. §[^1] A Magyar Nyelvstratégiai Intézet (a továbbiakban: Intézet) a kormányzati társadalmi kapcsolatok összehangolásáért felelős miniszter irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
 
-2. § (1) Az Intézet központi hivatal.
-
-(2) Az Intézet a miniszterelnök irányítása alatt áll.
-
-(3) Az Intézet irányítását a miniszterelnök a Miniszterelnökséget vezető államtitkár útján látja el.
-
-(4) Az Intézet székhelye Budapest.
+[^1]: Az 1. § a 221/2014. (IX. 4.) Korm. rendelet 810. §-ával megállapított szöveg.
