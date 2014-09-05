@@ -1,4 +1,4 @@
-## 8. §[^8]
+## 8. §[^12]
 
 ## VIII. Cafetéria
 
@@ -28,4 +28,4 @@
 
 (13) A hivatali szervezet vezetője által kiadott közszolgálati szabályzat a szervezet személyi állományának egyes csoportjai tekintetében nem állapíthat meg valamely szempont alapján eltérő mértékű keretösszeget, illetve eltérő választható juttatásokat.
 
-[^8]: A 8. §-t a 415/2012. (XII. 29.) Korm. rendelet 6. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^12]: A 8. §-t a 415/2012. (XII. 29.) Korm. rendelet 6. § (2) bekezdés b) pontja hatályon kívül helyezte.
