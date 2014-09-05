@@ -1,1 +1,0 @@
-A Kormány a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 34. § (13) bekezdésében és 49/O. § (6) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
