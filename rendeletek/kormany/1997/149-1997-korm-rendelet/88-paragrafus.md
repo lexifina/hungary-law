@@ -1,14 +1,14 @@
 ## A családgondozó kirendelése és felmentése
 
-88. § (1)[^547] Családgondozóként elsősorban a gyermekjóléti szolgálat azon családgondozóját kell kirendelni, aki a védelembe vételt megelőzően a gyermeket gondozta, a veszélyeztetettségét feltárta. A kirendelt családgondozó – az (5) bekezdésben foglaltak kivételével – a gyámhivatallal közvetlenül tart kapcsolatot. A kirendelt családgondozó szükség szerint, de legalább évente írásban tájékoztatja a gyámhivatalt a családgondozás eredményéről.
+88. § (1)[^548] Családgondozóként elsősorban a gyermekjóléti szolgálat azon családgondozóját kell kirendelni, aki a védelembe vételt megelőzően a gyermeket gondozta, a veszélyeztetettségét feltárta. A kirendelt családgondozó – az (5) bekezdésben foglaltak kivételével – a gyámhivatallal közvetlenül tart kapcsolatot. A kirendelt családgondozó szükség szerint, de legalább évente írásban tájékoztatja a gyámhivatalt a családgondozás eredményéről.
 
-(2)[^548] A családgondozó tisztsége megszűnik
+(2)[^549] A családgondozó tisztsége megszűnik
 
 a) a védelembe vétel megszűnésével vagy megszüntetésével,
 
-b)[^549] ha a gyámhivatal a családgondozót felmenti vagy elmozdítja.
+b)[^550] ha a gyámhivatal a családgondozót felmenti vagy elmozdítja.
 
-(3)[^550] A gyámhivatal a családgondozót felmenti, ha
+(3)[^551] A gyámhivatal a családgondozót felmenti, ha
 
 a) alkalmatlan feladatára,
 
@@ -16,15 +16,15 @@ b) a családgondozó fontos okból felmentését maga kéri,
 
 c) utólag keletkezik olyan akadály, amely miatt feladatát megfelelően ellátni nem tudja,
 
-d)[^551] a gyámhivatal illetékessége megszűnik.
+d)[^552] a gyámhivatal illetékessége megszűnik.
 
-(4)[^552] Ha a családgondozó jogaival súlyosan visszaél, kötelességeit nagymértékben elhanyagolja, a gyámhivatal tisztségéből elmozdítja.
+(4)[^553] Ha a családgondozó jogaival súlyosan visszaél, kötelességeit nagymértékben elhanyagolja, a gyámhivatal tisztségéből elmozdítja.
 
 (5) A családgondozót a kirendeléséről, felmentéséről, valamint a védelembe vétel megszüntetéséről a gyermekjóléti szolgálat útján kell értesíteni.
 
-[^547]: A 88. § (1) bekezdésének harmadik mondatát a 315/2005. (XII. 25.) Korm. rendelet 52. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 17. és 18. pontja szerint módosított szöveg.
-[^548]: A 88. § (2) bekezdése a 14/2003. (II. 12.) Korm. rendelet 49. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^549]: A 88. § (2) bekezdés b) pontja a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^550]: A 88. § (3) bekezdése a 14/2003. (II. 12.) Korm. rendelet 49. §-ával megállapított, nyitó szövegrésze a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^551]: A 88. § (3) bekezdés d) pontja a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^552]: A 88. § (4) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^548]: A 88. § (1) bekezdésének harmadik mondatát a 315/2005. (XII. 25.) Korm. rendelet 52. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 17. és 18. pontja szerint módosított szöveg.
+[^549]: A 88. § (2) bekezdése a 14/2003. (II. 12.) Korm. rendelet 49. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^550]: A 88. § (2) bekezdés b) pontja a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^551]: A 88. § (3) bekezdése a 14/2003. (II. 12.) Korm. rendelet 49. §-ával megállapított, nyitó szövegrésze a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^552]: A 88. § (3) bekezdés d) pontja a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^553]: A 88. § (4) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja szerint módosított szöveg.

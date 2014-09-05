@@ -16,7 +16,7 @@ ba) kötelező gyermekvédelmi közvetítői eljárás, vagy
 
 bb) kötelező támogatott közvetítői eljárás.
 
-(3) A gyermekvédelmi közvetítői eljárás és a kötelező gyermekvédelmi közvetítői eljárás során a felek választása alapján a Nemzeti Rehabilitációs és Szociális Hivatal Országos Gyermekvédelmi Szakértői Névjegyzékébe vagy az igazságügyért felelős miniszter által vezetett közvetítői névjegyzékbe (a továbbiakban együtt: névjegyzékek) felvett közvetítő nyújt közvetítői szolgáltatást a felek számára. A támogatott közvetítői eljárás és a kötelező támogatott közvetítői eljárás során a felek lakóhelye szerinti területi gyermekvédelmi szakszolgálat közvetítője nyújt közvetítői szolgáltatást a felek számára.
+(3)[^104] A gyermekvédelmi közvetítői eljárás és a kötelező gyermekvédelmi közvetítői eljárás során a felek választása alapján a Nemzeti Rehabilitációs és Szociális Hivatal Országos Gyermekvédelmi Szakértői Névjegyzékébe vagy a közvetítői névjegyzékbe (a továbbiakban együtt: névjegyzékek) felvett közvetítő nyújt közvetítői szolgáltatást a felek számára. A támogatott közvetítői eljárás és a kötelező támogatott közvetítői eljárás során a felek lakóhelye szerinti területi gyermekvédelmi szakszolgálat közvetítője nyújt közvetítői szolgáltatást a felek számára.
 
 (4) A névjegyzékek a gyámhivatal és a gyermekjóléti szolgálat hivatali helyiségében is megtekinthetők.
 
@@ -48,3 +48,4 @@ c) – gyermekvédelmi közvetítői eljárás vagy kötelező gyermekvédelmi k
 
 [^102]: A 30/A. §-t megelőző alcím a 70/2014. (III. 13.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^103]: A 30/A. §-t és a 30/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^104]: A 30/A. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 174. §-a szerint módosított szöveg.

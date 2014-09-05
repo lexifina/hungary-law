@@ -1,6 +1,6 @@
 ## A határozat tartalma
 
-## 125. §[^719] Az utógondozói ellátásról szóló határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
+## 125. §[^720] Az utógondozói ellátásról szóló határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
 
 a) az utógondozói ellátást biztosító
 
@@ -42,4 +42,4 @@ f) az utógondozói ellátást nyújtó intézmény vezetőjének felhívását 
 
 g) annak megállapítását, hogy a tanulói vagy hallgatói jogviszonyban álló fiatal felnőtt halmozottan hátrányos helyzetű.
 
-[^719]: A 125. § a 97/2013. (III. 29.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^720]: A 125. § a 97/2013. (III. 29.) Korm. rendelet 48. §-ával megállapított szöveg.

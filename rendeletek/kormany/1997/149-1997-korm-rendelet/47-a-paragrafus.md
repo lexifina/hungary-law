@@ -1,6 +1,6 @@
-## Az örökbefogadás utánkövetése[^275]
+## Az örökbefogadás utánkövetése[^276]
 
-47/A. §[^276] (1) Az örökbefogadás utánkövetésének elrendelésével a gyámhivatal a gyermek örökbefogadó családba történő beilleszkedésének figyelemmel kísérését és az örökbefogadó család tanácsadással történő segítését biztosítja.
+47/A. §[^277] (1) Az örökbefogadás utánkövetésének elrendelésével a gyámhivatal a gyermek örökbefogadó családba történő beilleszkedésének figyelemmel kísérését és az örökbefogadó család tanácsadással történő segítését biztosítja.
 
 (2) A kijelölt gyámhivatal az örökbefogadás engedélyezése iránti eljárás során tájékozatja az örökbe fogadni szándékozó személyt arról, hogy az örökbefogadást engedélyező határozat jogerőre emelkedését követően két hónapon belül, majd – a rokoni és házastársi örökbefogadás kivételével – egy év múlva személyes találkozásra és együttműködésre kötelezett az utánkövetést végző szervezet szakemberével.
 
@@ -18,5 +18,5 @@ c) az örökbefogadást előkészítő gyermekvédelmi szakszolgálat vagy bárm
 
 (6) Ha az örökbefogadó szülő a felhívás ellenére nem lép személyes kapcsolatba az utánkövetést végző szervezettel, a szervezet ezt jelzi az utánkövetést elrendelő kijelölt gyámhivatalnak. A kijelölt gyámhivatal ismételten felhívja az örökbefogadó szülőt, szülőket az együttműködésre. Az együttműködés elmaradása esetén a kijelölt gyámhivatal tájékoztatást kér a gyermekjóléti szolgálattól az örökbe fogadott gyermek fejlődéséről, körülményeiről és a családba való beilleszkedéséről.
 
-[^275]: A 47/A. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 35. §-a iktatta be.
-[^276]: A 47/A. §-t a 70/2014. (III. 13.) Korm. rendelet 35. §-a iktatta be.
+[^276]: A 47/A. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 35. §-a iktatta be.
+[^277]: A 47/A. §-t a 70/2014. (III. 13.) Korm. rendelet 35. §-a iktatta be.

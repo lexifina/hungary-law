@@ -1,14 +1,14 @@
-## 91/U. §[^633]
+## 91/U. §[^634]
 
 ## XIII. Fejezet
 
 ## Családba fogadással kapcsolatos ügyek
 
-92. §[^634] (1) A családbafogadás iránti eljárás során a gyámhivatal
+92. §[^635] (1) A családbafogadás iránti eljárás során a gyámhivatal
 
 a) az eljárás megindulását követő nyolc napon belül
 
-aa)[^635] meghallgatásra idézi a Ptk. 4:187. § (1) bekezdésében, a Gyvt. 81. § (1a) bekezdésében és 128. §-ában meghatározott személyeken kívül a családbafogadó személyt, illetve személyeket, valamint a kérelmezőt értesíti a meghallgatás időpontjáról,
+aa)[^636] meghallgatásra idézi a Ptk. 4:187. § (1) bekezdésében, a Gyvt. 81. § (1a) bekezdésében és 128. §-ában meghatározott személyeken kívül a családbafogadó személyt, illetve személyeket, valamint a kérelmezőt értesíti a meghallgatás időpontjáról,
 
 ab) intézkedik a környezettanulmány beszerzése érdekében, ha azt nem a gyámhivatal végzi el,
 
@@ -20,6 +20,6 @@ d) megvizsgálja a szülő(k) által megnevezett családbafogadó személy(ek) a
 
 (2) A gyámhivatal abban az esetben is engedélyezheti a családbafogadást, ha a különélő másik szülő a szabályszerű idézés ellenére nem jelent meg a meghallgatáson, különösen amennyiben a különélő szülő nem tart kapcsolatot a gyermekével.
 
-[^633]: A 91/U. §-t a 21/2012. (II. 29.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés d) pontja.
-[^634]: A 92. § a 97/2013. (III. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^635]: A 92. § (1) bekezdés a) pont aa) alpontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 70. pontja szerint módosított szöveg.
+[^634]: A 91/U. §-t a 21/2012. (II. 29.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés d) pontja.
+[^635]: A 92. § a 97/2013. (III. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^636]: A 92. § (1) bekezdés a) pont aa) alpontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 70. pontja szerint módosított szöveg.

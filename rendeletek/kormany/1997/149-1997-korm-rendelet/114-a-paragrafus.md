@@ -1,8 +1,8 @@
-## 112–114. §[^694]
+## 112–114. §[^695]
 
 ## Nevelési felügyelet
 
-114/A. §[^695] (1) A gyámhivatal a Gyvt. 81/A. § (10) bekezdése szerinti esetben a speciális gyermekotthon vezetője, a speciális lakásotthon vezetője, a gyermekotthon speciális csoportjának vezetője (a továbbiakban együtt: speciális gyermekotthon vezetője) Gyvt. 81/A. § (7) bekezdés szerinti értesítése alapján mérlegeli, hogy indokolt-e a nevelési felügyelet elrendelésére irányuló eljárásnak a hivatalból történő megindítása.
+114/A. §[^696] (1) A gyámhivatal a Gyvt. 81/A. § (10) bekezdése szerinti esetben a speciális gyermekotthon vezetője, a speciális lakásotthon vezetője, a gyermekotthon speciális csoportjának vezetője (a továbbiakban együtt: speciális gyermekotthon vezetője) Gyvt. 81/A. § (7) bekezdés szerinti értesítése alapján mérlegeli, hogy indokolt-e a nevelési felügyelet elrendelésére irányuló eljárásnak a hivatalból történő megindítása.
 
 (2) A gyámhivatal a nevelési felügyelet szükségessége kérdésében az eljárás Gyvt. 81/B. § (2) bekezdése szerint hivatalból történő megindítását vagy a gyermekvédelmi gyám kérelmének beérkezését követően haladéktalanul, de legkésőbb a következő munkanapon – a 8/D. §-ban foglalt módon – kikéri
 
@@ -22,5 +22,5 @@ a) a gyermekjogi képviselőt, vagy
 
 b) ha a gyermekjogi képviselő jelzi, hogy akadályoztatása miatt nem tud eljárni, a gyermekvédelmi gyámot.
 
-[^694]: A 112–114. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés g) pontja hatályon kívül helyezte.
-[^695]: A 114/A. §-t és a 114/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 73. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 54. §-ával megállapított szöveg.
+[^695]: A 112–114. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés g) pontja hatályon kívül helyezte.
+[^696]: A 114/A. §-t és a 114/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 73. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 54. §-ával megállapított szöveg.

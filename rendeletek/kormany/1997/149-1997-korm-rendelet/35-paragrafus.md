@@ -1,8 +1,8 @@
-35. § (1)[^158] A gyámhivatal a határozathozatal előtt meghallgatja a házasulókat, a kiskorú házasuló törvényes képviselőjét, valamint a házasulandó felek leendő közös lakóhelyén környezettanulmányt készít.
+35. § (1)[^159] A gyámhivatal a határozathozatal előtt meghallgatja a házasulókat, a kiskorú házasuló törvényes képviselőjét, valamint a házasulandó felek leendő közös lakóhelyén környezettanulmányt készít.
 
 (2) A meghallgatásnak ki kell terjednie azokra a körülményekre is, amelyek az engedély megadását indokolják, továbbá arra is, hogy nem áll-e fenn házassági akadály.
 
-(3)[^159] A gyámhivatal a kiskorú házasságkötésének engedélyezésére irányuló eljárásban húsz napon belül hoz döntést, ha a házasulandó feleknek nem kell részt venniük a családvédelmi szolgálat tanácsadásán.
+(3)[^160] A gyámhivatal a kiskorú házasságkötésének engedélyezésére irányuló eljárásban húsz napon belül hoz döntést, ha a házasulandó feleknek nem kell részt venniük a családvédelmi szolgálat tanácsadásán.
 
-[^158]: A 35. § (1) bekezdése a 97/2013. (III. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^159]: A 35. § (3) bekezdését a 97/2013. (III. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^159]: A 35. § (1) bekezdése a 97/2013. (III. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^160]: A 35. § (3) bekezdését a 97/2013. (III. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.

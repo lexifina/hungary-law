@@ -1,4 +1,4 @@
-## 129/A. §[^742] A gyámot a gyámsággal járó jogok és kötelességek a kirendelő határozat kézbesítését követő naptól kezdve illetik meg, illetve terhelik, kivéve, ha a gyámhivatal ettől eltérően rendelkezik.
+## 129/A. §[^743] A gyámot a gyámsággal járó jogok és kötelességek a kirendelő határozat kézbesítését követő naptól kezdve illetik meg, illetve terhelik, kivéve, ha a gyámhivatal ettől eltérően rendelkezik.
 
 ## A határozat tartalma
 
@@ -6,37 +6,37 @@
 
 a) tájékoztatást a gyámi tisztséggel járó jogokról és kötelezettségekről,
 
-b)[^743] a gyámi tisztséggel járó jogok és kötelezettségek kezdetének 129/A. § szerinti időpontját,
+b)[^744] a gyámi tisztséggel járó jogok és kötelezettségek kezdetének 129/A. § szerinti időpontját,
 
-c)[^744] a vagyonleltár alapján az ingó és ingatlan vagyon gyám kezelésébe adását, feltéve, hogy a gyermek rendelkezik vagyonnal és a gyám vagyonkezelésre jogosult,
+c)[^745] a vagyonleltár alapján az ingó és ingatlan vagyon gyám kezelésébe adását, feltéve, hogy a gyermek rendelkezik vagyonnal és a gyám vagyonkezelésre jogosult,
 
-d)[^745] vagyonnal rendelkező gyermek vagyonkezelésére jogosult gyámja esetén a 158. § (1) bekezdése szerinti számadás gyámhivatalhoz történő benyújtásának időpontját,
+d)[^746] vagyonnal rendelkező gyermek vagyonkezelésére jogosult gyámja esetén a 158. § (1) bekezdése szerinti számadás gyámhivatalhoz történő benyújtásának időpontját,
 
-e)[^746] a tájékoztatást a gyám családtámogatási ellátások igénylésére való jogáról, valamint a családi pótlék folyósítása érdekében kérelemre annak megállapítását, hogy a családbafogadó gyám a gyermekről a gyámrendelés időpontját megelőzően mely időponttól gondoskodott a saját háztartásában,
+e)[^747] a tájékoztatást a gyám családtámogatási ellátások igénylésére való jogáról, valamint a családi pótlék folyósítása érdekében kérelemre annak megállapítását, hogy a családbafogadó gyám a gyermekről a gyámrendelés időpontját megelőzően mely időponttól gondoskodott a saját háztartásában,
 
-f)[^747] a rendszeres kedvezményhez kapcsolódó pénzbeli ellátásról szóló tájékoztatást, feltéve, hogy a rendszeres kedvezményben részesülő gyermek részére családbafogadó gyámként hozzátartozót rendeltek ki,
+f)[^748] a rendszeres kedvezményhez kapcsolódó pénzbeli ellátásról szóló tájékoztatást, feltéve, hogy a rendszeres kedvezményben részesülő gyermek részére családbafogadó gyámként hozzátartozót rendeltek ki,
 
-g)[^748] többes gyámrendelés esetén a gyámok feladatkörének pontos megosztását,
+g)[^749] többes gyámrendelés esetén a gyámok feladatkörének pontos megosztását,
 
-h)[^749] vagyonkezelő gyám kirendelése esetén annak a vagyonnak (vagyontárgynak) a megjelölését, amelyet a gyermeknek juttattak, és amelyre a vagyonkezelő gyám tevékenysége vonatkozik.
+h)[^750] vagyonkezelő gyám kirendelése esetén annak a vagyonnak (vagyontárgynak) a megjelölését, amelyet a gyermeknek juttattak, és amelyre a vagyonkezelő gyám tevékenysége vonatkozik.
 
 (2) A gyámhivatal határozatát azonnal végrehajthatónak nyilvánítja.
 
-(3)[^750] A gyámhivatal a gyámrendelésről szóló határozata meghozatalával egyidejűleg közli a családtámogatási ellátást és az árvaellátást folyósító szervvel, továbbá a gyermeket ellátó védőnővel a gyámrendelés tényét. Ha a családbafogadó gyám kérte a gyámrendelő határozatban annak megállapítását, hogy a gyermekről a gyámrendelés időpontját megelőzően mely időponttól gondoskodott a saját háztartásában, a gyámhivatal megküldi határozatának rendelkező részét a családtámogatási ellátást folyósító szervnek. A gyámhivatal ezzel egyidejűleg felhívja a családtámogatási ellátást folyósító szervet, hogy a családbafogadó gyám kezéhez folyósítsa a gyámrendelés tényleges időpontját legfeljebb két hónappal megelőző időponttól visszamenőleg a családi pótlékot, feltéve, hogy erre az időtartamra vonatkozóan más személy nem részesült családi pótlékban.
+(3)[^751] A gyámhivatal a gyámrendelésről szóló határozata meghozatalával egyidejűleg közli a családtámogatási ellátást és az árvaellátást folyósító szervvel, továbbá a gyermeket ellátó védőnővel a gyámrendelés tényét. Ha a családbafogadó gyám kérte a gyámrendelő határozatban annak megállapítását, hogy a gyermekről a gyámrendelés időpontját megelőzően mely időponttól gondoskodott a saját háztartásában, a gyámhivatal megküldi határozatának rendelkező részét a családtámogatási ellátást folyósító szervnek. A gyámhivatal ezzel egyidejűleg felhívja a családtámogatási ellátást folyósító szervet, hogy a családbafogadó gyám kezéhez folyósítsa a gyámrendelés tényleges időpontját legfeljebb két hónappal megelőző időponttól visszamenőleg a családi pótlékot, feltéve, hogy erre az időtartamra vonatkozóan más személy nem részesült családi pótlékban.
 
-(4)[^751] Ha a gyámrendeléssel érintett gyermek rendszeres kedvezményre jogosult, a gyámhivatal a gyámrendelésről szóló határozatát
+(4)[^752] Ha a gyámrendeléssel érintett gyermek rendszeres kedvezményre jogosult, a gyámhivatal a gyámrendelésről szóló határozatát
 
 a) annak jogerőre emelkedését követően haladéktalanul közli a családbafogadó gyám lakóhelye szerint illetékes települési önkormányzat jegyzőjével, feltéve, hogy a gyermek részére családbafogadó gyámot rendeltek,
 
 b) annak meghozatalát követően – a rendszeres kedvezmény megszüntetése céljából – haladéktalanul közli a rendszeres kedvezményt megállapító települési önkormányzat jegyzőjével az a) pont alá nem tartozó esetben.
 
-[^742]: A 129/A. §-t a 70/2014. (III. 13.) Korm. rendelet 63. §-a iktatta be.
-[^743]: A 130. § (1) bekezdés b) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 81. pontja szerint módosított szöveg.
-[^744]: A 130. § (1) bekezdés c) pontja a 97/2013. (III. 29.) Korm. rendelet 51. §-ával megállapított szöveg.
-[^745]: A 130. § (1) bekezdés d) pontját a 315/2005. (XII. 25.) Korm. rendelet 64. §-a iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 51. §-ával megállapított szöveg.
-[^746]: A 130. § (1) bekezdés e) pontját a 173/2009. (VIII. 29.) Korm. rendelet 38. § (1) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 64. § (1) bekezdésével megállapított szöveg.
-[^747]: A 130. § (1) bekezdés f) pontját a 98/2013. (III. 29.) Korm. rendelet 20. § (1) bekezdése iktatta be.
-[^748]: A 130. § (1) bekezdés g) pontját a 70/2014. (III. 13.) Korm. rendelet 64. § (2) bekezdése iktatta be.
-[^749]: A 130. § (1) bekezdés h) pontját a 70/2014. (III. 13.) Korm. rendelet 64. § (2) bekezdése iktatta be.
-[^750]: A 130. § (3) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 13. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 64. § (3) bekezdésével megállapított szöveg.
-[^751]: A 130. § (4) bekezdését a 98/2013. (III. 29.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^743]: A 129/A. §-t a 70/2014. (III. 13.) Korm. rendelet 63. §-a iktatta be.
+[^744]: A 130. § (1) bekezdés b) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 81. pontja szerint módosított szöveg.
+[^745]: A 130. § (1) bekezdés c) pontja a 97/2013. (III. 29.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^746]: A 130. § (1) bekezdés d) pontját a 315/2005. (XII. 25.) Korm. rendelet 64. §-a iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^747]: A 130. § (1) bekezdés e) pontját a 173/2009. (VIII. 29.) Korm. rendelet 38. § (1) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 64. § (1) bekezdésével megállapított szöveg.
+[^748]: A 130. § (1) bekezdés f) pontját a 98/2013. (III. 29.) Korm. rendelet 20. § (1) bekezdése iktatta be.
+[^749]: A 130. § (1) bekezdés g) pontját a 70/2014. (III. 13.) Korm. rendelet 64. § (2) bekezdése iktatta be.
+[^750]: A 130. § (1) bekezdés h) pontját a 70/2014. (III. 13.) Korm. rendelet 64. § (2) bekezdése iktatta be.
+[^751]: A 130. § (3) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 13. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 64. § (3) bekezdésével megállapított szöveg.
+[^752]: A 130. § (4) bekezdését a 98/2013. (III. 29.) Korm. rendelet 20. § (2) bekezdése iktatta be.

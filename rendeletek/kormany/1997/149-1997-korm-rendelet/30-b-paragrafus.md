@@ -1,4 +1,4 @@
-30/B. §[^104] (1) Ha a szülők vagy a kapcsolattartásra a 28. § (1)–(4a) bekezdése szerint jogosult más személyek a 29/A. § (1) bekezdésében felsorolt kérdésekben nem tudnak egyezségre jutni, vagy a kapcsolattartás végrehajtása során keletkezik vita a felek között, a gyámhivatal
+30/B. §[^105] (1) Ha a szülők vagy a kapcsolattartásra a 28. § (1)–(4a) bekezdése szerint jogosult más személyek a 29/A. § (1) bekezdésében felsorolt kérdésekben nem tudnak egyezségre jutni, vagy a kapcsolattartás végrehajtása során keletkezik vita a felek között, a gyámhivatal
 
 a) tájékoztatja a feleket a közvetítői eljárás igénybevételének a lehetőségéről, vagy
 
@@ -30,4 +30,4 @@ b) az ítélőképessége birtokában lévő cselekvőképtelen gyermeket a fele
 
 bevonhatja a közvetítői eljárásba, feltéve, hogy ez a gyermek számára nem jelent túl nagy megterhelést, valamint érzelmi fejlődését a felek által elmondottak, illetve a felek magatartása várhatóan nem veszélyezteti.
 
-[^104]: A 30/B. §-t a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^105]: A 30/B. §-t a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

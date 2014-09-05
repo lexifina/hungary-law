@@ -1,3 +1,3 @@
-## 91/T. §[^632]
+## 91/T. §[^633]
 
-[^632]: A 91/T. §-t a 21/2012. (II. 29.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés d) pontja.
+[^633]: A 91/T. §-t a 21/2012. (II. 29.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés d) pontja.
