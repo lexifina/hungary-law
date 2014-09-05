@@ -1,1 +1,0 @@
-A Kormány a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:

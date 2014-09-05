@@ -1,5 +1,0 @@
-## „(3) A biztonsági okmány előállítója köteles lehetővé tenni, hogy a Szakszolgálat megbízottjai a 7. §-ban meghatározott feltételek fennállását, a biztonsági okmány előállítása biztonsági követelményeinek betartását a helyszínen alkalomszerűen, továbbá az okmányban, vagy az okmányalkatrészekben lévő védelmi elemek meglétét és megfelelőségét rendszeresen ellenőrizzék.
-
-## (4) A kibocsátó köteles a kibocsátást megelőzően a szakértői tevékenységhez szükséges, a Szakszolgálat által meghatározott darabszámú – tetszőleges minta-adatokkal megszemélyesített és a forgalomban használt példányokkal mindenben egyező – biztonsági okmányt a Szakszolgálat részére átadni.
-
-## (5) Biztonsági okmány eredeti előállítóval történő, változtatás nélküli utángyártásához újabb engedély megkérése nem kötelező, ugyanakkor az előállító köteles azt az előállítást megelőzően a Szakszolgálatnak bejelenteni. Az így előállított biztonsági okmányból az előállító bianco-mintaokmányokat, a kibocsátó pedig fiktív adatokkal megszemélyesített mintaokmányokat köteles a Szakszolgálat részére átadni.”
