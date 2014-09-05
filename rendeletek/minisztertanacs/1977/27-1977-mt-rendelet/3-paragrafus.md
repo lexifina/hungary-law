@@ -180,9 +180,9 @@
 
 (2)[^5]
 
-(3) A rendelet végrehajtásáról a közlekedésiés vízügyi[^6] miniszter gondoskodik.
+(3)[^6] E rendelet végrehajtásáról a közlekedésért felelős miniszter gondoskodik.
 
 [^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^4]: A 3. cikk 1. pontja a 34/1996. (III. 5.) Korm. rendelet 1. §-ával megállapított szöveg, melynek rendelkezéseit a módosító rendelet 2. §-ának (1) bekezdésében foglaltaknak megfelelően 1995. március 8. napjától kell alkalmazni.
 [^5]: A 3. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1513. pontja hatályon kívül helyezte.
-[^6]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^6]: A 3. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 26. §-ával megállapított szöveg.
