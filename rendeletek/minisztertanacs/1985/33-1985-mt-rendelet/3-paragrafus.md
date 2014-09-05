@@ -504,7 +504,8 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba. Rendelkezéseit alkalmazni kell a forrásnál való levonás útján beszedett adók tekintetében az 1985. évi január hó 1. napjától, egyéb adók tekintetében az 1984. évi január hó 1. napján vagy azt követően kezdődő adózási években.
 
-(2) E rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+(2)[^5] E rendelet végrehajtásáról az adópolitikáért felelős miniszter gondoskodik.
 
 [^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^4]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^5]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 96. §-a szerint módosított szöveg.
