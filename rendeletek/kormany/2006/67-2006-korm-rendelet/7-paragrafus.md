@@ -152,7 +152,7 @@ Nyilatkozat: Büntetőjogi felelősségem tudatában kijelentem, hogy a sérelme
 
 − külföldi államtól kártalanításban, kárpótlásban vagy jóvátételben, illetve
 
-− a magyar államtól kártalanításban, kárpótlásban vagy visszatérítésben
+− az államtól kártalanításban, kárpótlásban vagy visszatérítésben
 
 |  | részesültem, (1) nem részesültem. (2) |  |  |  |  |  |
 
@@ -340,7 +340,7 @@ IV. Igénybejelentés egyösszegű kárpótlása az élet elvesztéséért
 
 38–41. rovat: Az előző rovatban érintett, az igénylőn kívül még a sérelmet szenvedett 1997. június 7-én még élő hozzátartozóinak számát kell beírni.
 
-42. rovat: Kitöltése és aláírása minden esetben kötelező, ahol az igénylő arról nyilatkozik, hogy részesült-e a hozzátartozója életelvesztéséért vagy a magyar államtól, vagy más államtól kártalanításban, kárpótlásban vagy bármilyen jóvátételben.
+42. rovat:[^16] Kitöltése és aláírása minden esetben kötelező, ahol az igénylő arról nyilatkozik, hogy részesült-e a hozzátartozója életelvesztéséért vagy az államtól, vagy más államtól kártalanításban, kárpótlásban vagy bármilyen jóvátételben.
 
 V. Kárpótlási igény a II. világháború alatt teljesített munkaszolgálatért
 
@@ -365,4 +365,5 @@ Az adatlap végén minden esetben szükséges a nyilatkozat aláírása, amellye
 Az adatlappal együtt benyújtott okiratokat eredetiben vagy hiteles másolatban kell csatolni.
 
 [^14]: A 6. §-t a 182/2009. (IX. 10.) Korm. rendelet 456. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^15]: A melléklet a 182/2009. (IX. 10.) Korm. rendelet 456. §-a, a 297/2013. (VII. 29.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^15]: A melléklet a 182/2009. (IX. 10.) Korm. rendelet 456. §-a, a 297/2013. (VII. 29.) Korm. rendelet 31. §-a, a 221/2014. (IX. 4.) Korm. rendelet 318. § b) és c) pontja szerint módosított szöveg.
+[^16]: A Melléklet IV. Igénybejeletés egyösszegű kárpótlásra az élet elvesztéséért pont 42. rovat a 221/2014. (IX. 4.) Korm. rendelet 318. § b) pontja szerint módosított szöveg.
