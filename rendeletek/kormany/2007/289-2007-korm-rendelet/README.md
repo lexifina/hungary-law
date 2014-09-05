@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-289-20-
 | 2011-05-27 | 2007-289-20-22.21 | 85/2011. (V. 26.) Korm. rendelet |
 | 2011-07-08 | 2007-289-20-22.22 | 142/2008. (V. 16.) Korm. rendelet |
 | 2013-02-27 | 2007-289-20-22.23 | 55/2013. (II. 26.) Korm. rendelet |
+| 2014-09-05 | 2007-289-20-22.24 | 221/2014. (IX. 4.) Korm. rendelet |

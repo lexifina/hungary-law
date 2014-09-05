@@ -8,6 +8,6 @@
 
 | Éves fogyasztás %-a | 0,8046 | 0,8877 | 1,7422 | 5,8505 | 11,7688 | 17,1838 |
 
-5. számú melléklet a 289/2007. (X. 31.) Korm. rendelethez[^56]
+5. számú melléklet a 289/2007. (X. 31.) Korm. rendelethez[^57]
 
-[^56]: Az 5. számú melléklet a 314/2009. (XII. 28.) Korm. rendelet 50. §-a szerint módosított szöveg.
+[^57]: Az 5. számú melléklet a 314/2009. (XII. 28.) Korm. rendelet 50. §-a szerint módosított szöveg.

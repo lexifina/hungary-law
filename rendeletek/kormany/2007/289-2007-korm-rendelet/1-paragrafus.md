@@ -70,7 +70,7 @@ gc) azon egyéb lakóépület, amely műszakilag, illetőleg az ingatlan-nyilvá
 
 gd) azon önálló ingatlan, amely műszakilag elkülönült lakást tartalmaz. Műszakilag önállónak kell tekinteni a lakást, ha az a lakás használatbavételi engedélyéből egyértelműen kiderül;
 
-h) szolgáltató: a lakosság energiafelhasználásának szociális támogatásáról szóló 231/2006. (XI. 22.) Korm. rendelet (a továbbiakban: R.), illetőleg az e rendelet alapján nyújtott támogatás érvényesítésére és elszámolására a Szociális és Munkaügyi Minisztériummal (a továbbiakban: minisztérium) megállapodást kötött
+h)[^4] szolgáltató: a lakosság energiafelhasználásának szociális támogatásáról szóló 231/2006. (XI. 22.) Korm. rendelet (a továbbiakban: R.), illetőleg az e rendelet alapján nyújtott támogatás érvényesítésére és elszámolására a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztériummal (a továbbiakban: minisztérium) megállapodást kötött
 
 ha) gázszolgáltató, gázkereskedő, távhőszolgáltató, valamint a távhőszolgáltatásról szóló 2005. évi XVIII. törvény hatálya alá nem tartozó központi hőellátó rendszert üzemben tartó gazdálkodó szervezet (a továbbiakban: hőtermelő), továbbá
 
@@ -92,9 +92,9 @@ jc) a szolgáltatás díját díjszétosztás nélkül fizető társasházi fogy
 
 k) fogyasztási időszak: a számlán feltüntetett hőmennyiség felhasználásának időszaka;
 
-l)[^4] jogosultsági időszak: a 2009. január 1-je és 2011. augusztus 31-e közötti időszak;
+l)[^5] jogosultsági időszak: a 2009. január 1-je és 2011. augusztus 31-e közötti időszak;
 
-m)[^5] elszámolási időszak: havonta elszámolási céllal végzett fogyasztás-megállapítás (leolvasás) esetén a 2008. december 31-én vagy azt közvetlenül megelőzően történő leolvasástól a 2011. augusztus 31-én történő vagy az azt követő első leolvasás közötti időszak; évente egyszer végzett elszámolási célú fogyasztás-megállapítás (leolvasás) esetén az évente elvégzett leolvasási időpontok közötti időszak;
+m)[^6] elszámolási időszak: havonta elszámolási céllal végzett fogyasztás-megállapítás (leolvasás) esetén a 2008. december 31-én vagy azt közvetlenül megelőzően történő leolvasástól a 2011. augusztus 31-én történő vagy az azt követő első leolvasás közötti időszak; évente egyszer végzett elszámolási célú fogyasztás-megállapítás (leolvasás) esetén az évente elvégzett leolvasási időpontok közötti időszak;
 
 n) fogyasztási jelleggörbe: az éves gázfogyasztás naptári hónapokra eső részének százalékos arányát tartalmazó adatsor;
 
@@ -103,5 +103,6 @@ o) közös képviselő: a társasház szolgáltató felé történő képviselet
 [^1]: Az 1. § a) pontja a 286/2008. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § b) pontjának 4. alpontja a 286/2008. (XI. 28.) Korm. rendelet 11. § (2) bekezdésének a) pontja szerint módosított szöveg. E módosító rendelet 10. § (3) bekezdése alapján a 2008. november 30-án folyamatban lévő ügyekre a 2008. november 29-én hatályos rendelkezésket kell alkalmazni.
 [^3]: Az 1. § c) pontja a 286/2008. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: Az 1. § l) pontja a 85/2011. (V. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^5]: Az 1. § m) pontja a 85/2011. (V. 26.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^4]: A 1. § h) pontja a 221/2014. (IX. 4.) Korm. rendelet 405. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § l) pontja a 85/2011. (V. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. § m) pontja a 85/2011. (V. 26.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
