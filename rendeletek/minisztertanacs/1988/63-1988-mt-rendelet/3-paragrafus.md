@@ -2,7 +2,7 @@
 
 ## „MEGÁLLAPODÁS
 
-## A MAGYAR NÉPKÖZTÁRSASÁG[^3]
+## A MAGYAR NÉPKÖZTÁRSASÁG[^4]
 
 ## ÉS A HOLLAND KIRÁLYSÁG KÖZÖTT
 
@@ -10,7 +10,7 @@
 
 ## ÉS KÖLCSÖNÖS VÉDELMÉRŐL
 
-## A Magyar Népköztársaság[^4] Kormánya és a Holland Királyság Kormánya
+## A Magyar Népköztársaság[^5] Kormánya és a Holland Királyság Kormánya
 
 ## ATTÓL AZ ÓHAJTÓL VEZETVE, hogy elmélyítsék a két ország számára kölcsönösen előnyös gazdasági együttműködést,
 
@@ -152,7 +152,8 @@
 
 3. § (1) E rendelet a kihirdetés napján lép hatályba; rendelkezéseit azonban 1988. június 1-jétől kezdődően kell alkalmazni.
 
-(2) E rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+(2)[^6] E rendelet végrehajtásáról a nemzetközi pénzügyi kapcsolatokért felelős miniszter gondoskodik.
 
-[^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^4]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^5]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^6]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 114. §-a szerint módosított szöveg.
