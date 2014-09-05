@@ -10,7 +10,7 @@ c) egyetértési jogot gyakorol a nemzeti rendszerek összekapcsolási megállap
 
 d) hatósági ellenőrzést hajt végre,
 
-e) ellátja az elektronikus biztonság tekintetében a nemzeti biztonsági hatóság feladatkörét a Magyar Köztársaság nemzetközi kötelezettségvállalásai terén,
+e)[^1] ellátja az elektronikus biztonság tekintetében a nemzeti biztonsági hatóság feladatkörét Magyarország nemzetközi kötelezettségvállalásai terén,
 
 f) szükség esetén kivizsgálja az elektronikus biztonsági eseményeket, intézkedéseket ír elő a biztonság helyreállítása érdekében és a biztonsági esemény megismétlődésének elkerülésére,
 
@@ -63,3 +63,5 @@ d) TEMPEST vizsgálatokat, méréseket végez vagy végeztet,
 e) a TEMPEST mérések alapján határozatot ad ki az eszközök besorolására, valamint a rendszer környezetének zónabesorolására vonatkozóan,
 
 f) a TEMPEST biztonság veszélyeztetése esetén a rendszer használatát korlátozhatja, megtilthatja, a szerv vezetőjét a kompromittáló kisugárzás elleni védelem helyreállítása érdekében szükséges intézkedések megtételére kötelezheti, a kiadott rendszerengedélyt visszavonhatja.
+
+[^1]: A 4. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 471. § a) pontja szerint módosított szöveg.

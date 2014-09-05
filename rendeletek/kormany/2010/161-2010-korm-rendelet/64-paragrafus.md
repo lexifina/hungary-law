@@ -1,3 +1,3 @@
-64. §[^1]
+64. §[^3]
 
-[^1]: A 64. § a (2) bekezdés alapján hatályát vesztette.
+[^3]: A 64. § a (2) bekezdés alapján hatályát vesztette.
