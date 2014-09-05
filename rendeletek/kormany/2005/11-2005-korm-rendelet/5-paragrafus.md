@@ -6,9 +6,9 @@
 
 a) a) pontjában meghatározott adósnak 2005. június 30-ig,
 
-b)[^8] b) pontjában meghatározott adósnak 2006. július 31-éig,
+b)[^10] b) pontjában meghatározott adósnak 2006. július 31-éig,
 
-c)[^9] c) pontjában meghatározott adósnak 2007. július 31-éig
+c)[^11] c) pontjában meghatározott adósnak 2007. július 31-éig
 
 ## kell az (1) bekezdés szerinti kérelmét benyújtani.
 
@@ -18,5 +18,5 @@ c)[^9] c) pontjában meghatározott adósnak 2007. július 31-éig
 
 (6) A jegyző az adós által bemutatott okiratok és a megtett nyilatkozatok, valamint a rendelkezésére álló nyilvántartások alapján kitölti az igénylőlap megfelelő részeit.
 
-[^8]: Az 5. § (3) bekezdésének b) pontja a 322/2005. (XII. 27.) Korm. rendelet 6. § (5) bekezdése b) pontjának bb) alpontja szerint módosított szöveg.
-[^9]: Az 5. § (3) bekezdésének c) pontja a 322/2005. (XII. 27.) Korm. rendelet 6. § (5) bekezdése b) pontjának bb) alpontja szerint módosított szöveg.
+[^10]: Az 5. § (3) bekezdésének b) pontja a 322/2005. (XII. 27.) Korm. rendelet 6. § (5) bekezdése b) pontjának bb) alpontja szerint módosított szöveg.
+[^11]: Az 5. § (3) bekezdésének c) pontja a 322/2005. (XII. 27.) Korm. rendelet 6. § (5) bekezdése b) pontjának bb) alpontja szerint módosított szöveg.

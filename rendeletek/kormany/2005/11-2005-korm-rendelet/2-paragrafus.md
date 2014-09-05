@@ -1,4 +1,4 @@
-## 1. § A Magyar Állam az e rendeletben meghatározott feltételekkel az Országos Takarékpénztár és Kereskedelmi Bank Részvénytársaságnak (a továbbiakban: OTP) az 1988. december 31-e előtt hatályban volt jogszabályok alapján megkötött lakáscélú hitelszerződésből (a továbbiakban: hitelszerződés) eredő egyes követeléseit – a törlesztési kötelezettség felfüggesztése mellett – a központi költségvetés terhére megvásárolja.
+## 1. §[^1] Az állam az e rendeletben meghatározott feltételekkel az Országos Takarékpénztár és Kereskedelmi Bank Részvénytársaságnak (a továbbiakban: OTP) az 1988. december 31-e előtt hatályban volt jogszabályok alapján megkötött lakáscélú hitelszerződésből (a továbbiakban: hitelszerződés) eredő egyes követeléseit – a törlesztési kötelezettség felfüggesztése mellett – a központi költségvetés terhére megvásárolja.
 
 ## 2. § E rendelet alkalmazásában
 
@@ -11,3 +11,5 @@ c) család: egy lakásban együtt élő, ott bejelentett lakóhellyel vagy tart�
 d) jövedelem: az Szt. 4. §-a (1) bekezdésének a) pontjában meghatározottak;
 
 e) adósság: a tőketartozásnak, a kamattartozásoknak és a hitellel kapcsolatosan felmerült költségeknek az OTP által megállapított, és a 4. § (3) bekezdése szerinti igénylőlapon közölt együttes összege.
+
+[^1]: Az 1. § a 221/2014. (IX. 4.) Korm. rendelet 298. § a) pontja szerint módosított szöveg.

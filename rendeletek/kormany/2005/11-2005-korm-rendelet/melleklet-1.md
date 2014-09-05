@@ -1,6 +1,6 @@
 ## 11. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
-1. számú melléklet a 11/2005. (I. 26.) Korm. rendelethez
+1. számú melléklet a 11/2005. (I. 26.) Korm. rendelethez[^16]
 
 ## IGÉNYLŐLAP a lakáscélú hitelhátralék törlesztési kötelezettségének felfüggesztésére
 
@@ -48,6 +48,8 @@ II. rész
 
 | A család tulajdonában lévő – nem a hitellel terhelt ingatlan forgalmi értéke: – gépjármű forgalmi értéke: – gépi meghajtású termelő- és munkaeszköz forgalmi értéke: – vagyoni értékű jog (takarékszámla, lakossági számla, értékpapír, életbiztosítás stb.) értéke: | .................................................................... ezer Ft .................................................................... ezer Ft .................................................................... ezer Ft .................................................................... ezer Ft |
 
-| A hitelszerződés kötelezettje tölti ki! Alulírott ............................................. kérem az igénylőlapon feltüntetett, az OTP Bank Rt.-nél vezetett hitelszerződés alapján fennálló adósságom felfüggesztését. A törlesztési kötelezettségem felfüggesztése esetén hozzájárulok, hogy a hitelhátralékkal terhelt ingatlanra a felfüggesztés időtartamára, jogszabály erejénél fogva elidegenítési és terhelési tilalom kerüljön bejegyzésre. Büntetőjogi felelősségem tudatában kijelentem, hogy az igénylőlapon általam feltüntetett adatok a valóságnak megfelelnek. A kérelem elbírálásához szükséges körben az OTP Bank Rt.-t a titoktartási kötelezettség alól felmentem, továbbá hozzájárulok ahhoz, hogy az egyes lakáscélú kölcsönökből eredő adósságok rendezéséről szóló 11/2005. (I. 26.) Korm. rendelet 2. számú mellékletében foglalt személyes adataimat a törlesztési kötelezettségem felfüggesztésének időtartama alatt az Ifjúsági, Családügyi, Szociális és Esélyegyenlőségi Minisztérium kezelje. Kelt: ..................................... ................................................ adós (Aláírás nélkül a kérelem érvénytelen!) |
+| A hitelszerződés kötelezettje tölti ki! Alulírott ............................................. kérem az igénylőlapon feltüntetett, az OTP Bank Rt.-nél vezetett hitelszerződés alapján fennálló adósságom felfüggesztését. A törlesztési kötelezettségem felfüggesztése esetén hozzájárulok, hogy a hitelhátralékkal terhelt ingatlanra a felfüggesztés időtartamára, jogszabály erejénél fogva elidegenítési és terhelési tilalom kerüljön bejegyzésre. Büntetőjogi felelősségem tudatában kijelentem, hogy az igénylőlapon általam feltüntetett adatok a valóságnak megfelelnek. A kérelem elbírálásához szükséges körben az OTP Bank Rt.-t a titoktartási kötelezettség alól felmentem, továbbá hozzájárulok ahhoz, hogy az egyes lakáscélú kölcsönökből eredő adósságok rendezéséről szóló 11/2005. (I. 26.) Korm. rendelet 2. számú mellékletében foglalt személyes adataimat a törlesztési kötelezettségem felfüggesztésének időtartama alatt a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium kezelje. Kelt: ..................................... ................................................ adós (Aláírás nélkül a kérelem érvénytelen!) |
 
 III. rész
+
+[^16]: Az 1. számú melléklet a 221/2014. (IX. 4.) Korm. rendelet 298. § f) pontja szerint módosított szöveg.
