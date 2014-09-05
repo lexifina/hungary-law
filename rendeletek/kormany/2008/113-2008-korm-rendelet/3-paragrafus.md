@@ -68,4 +68,6 @@
 
 3. § (1) E rendelet a kihirdetését követő napon lép hatályba.
 
-(2) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért és a kultúráért felelős miniszter gondoskodik.
+(2)[^1] E rendelet végrehajtásáról az oktatásért felelős miniszter és a kultúráért felelős miniszter gondoskodik.
+
+[^1]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 426. §-ával megállapított szöveg.
