@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-218-20-
 | 2013-08-01 | 2003-218-20-22.12 | 204/2013. (VI. 14.) Korm. rendelet |
 | 2013-10-01 | 2003-218-20-22.13 | 20/2013. (I. 30.) Korm. rendelet |
 | 2014-01-01 | 2003-218-20-22.14 | 515/2013. (XII. 30.) Korm. rendelet |
+| 2014-09-05 | 2003-218-20-22.15 | 221/2014. (IX. 4.) Korm. rendelet |
