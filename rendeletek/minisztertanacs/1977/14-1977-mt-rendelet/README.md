@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1977-14-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1991-01-01 | 1977-14-20-65.2 | 14/1977. (IV. 22.) MT rendelet |
+| 2014-09-05 | 1977-14-20-65.3 | 2017: CLXXVI. törvény |

@@ -78,6 +78,6 @@
 
 3. § (1) E rendelet a kihirdetés napján lép hatályba, rendelkezéseit azonban az 1977. évi január hó 24. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a földművelésügyi és vidékfejlesztési[^3] miniszter gondoskodik.
+(2)[^4] E rendelet végrehajtásáról az élelmiszerlánc-felügyeletért felelős miniszter gondoskodik.
 
-[^3]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^4]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 21. §-ával megállapított szöveg.
