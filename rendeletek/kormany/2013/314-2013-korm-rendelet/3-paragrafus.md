@@ -42,7 +42,7 @@ a) a fenntartó
 
 aa) az állami intézményfenntartó központ képviseletében a megyeközponti tankerületi igazgató,
 
-ab) az OKJ 6. mellékletében szereplő szakképesítés esetén a vidékfejlesztésért felelős miniszter
+ab)[^1] az OKJ 6. mellékletében szereplő szakképesítés esetén az agrárpolitikáért felelős miniszter
 
 által előzetesen jóváhagyott tartalommal kérelmezi a szakképzési megállapodás kiegészítését,
 
@@ -51,3 +51,5 @@ b) a kiegészítés kizárólag a szakképzési feladatellátásra vonatkozik,
 c) nem korlátozza a szakmaszerkezeti döntésnek az Szt. 84. § (5) bekezdés a) és b) pontja szerinti tartalmát, továbbá a megyei, fővárosi keretszámok összegének meghatározását, valamint
 
 d) nem keletkeztet az Nkt. 88. § (4) bekezdése szerinti költségvetési hozzájáruláson felüli, kiegészítő támogatási jogosultságot.
+
+[^1]: A 3. § (3) bekezdés a) pont ab) alpontja a 221/2014. (IX. 4.) Korm. rendelet 752. § a) pontja szerint módosított szöveg.
