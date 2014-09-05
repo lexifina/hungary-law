@@ -1,1 +1,0 @@
-A Nemzeti Földalapról szóló 2001. évi CXVI. törvény (a továbbiakban: Tv.) módosításáról szóló 2002. évi XXIV. törvény 15. §-ának (1) bekezdésében kapott felhatalmazás alapján a Kormány – figyelemmel a Tv. módosításáról szóló 2005. évi CXXXVIII. törvény 3. §-ára – a következőket rendeli el:
