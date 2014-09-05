@@ -1,7 +1,0 @@
-4. § (1) A fenntartói jogutódlás alapján kedvezményezetté váló átvevő az európai uniós társfinanszírozású projektek tekintetében köteles a támogatásban érintett közreműködő szervezetnél az átadás-átvétel időpontjától számított 30 napon belül kezdeményezni a támogatási szerződés módosítását a projekt átadás-átvételi dokumentációját mellékelve.
-
-(2) Amennyiben a fenntartói jogutódlás miatt az átvett kedvezményezett intézmény európai, más nemzetközi, illetve hazai finanszírozású projektjének támogatási szerződését módosítani szükséges, azt a kedvezményezett az átadás-átvétel időpontjától számított 30 napon belül kezdeményezni a támogatónál, illetve a közreműködő szervezetnél.
-
-(3) A szerződésmódosításra vonatkozó kérelemben jelezni kell minden olyan esetet, ami a támogatási szerződés módosítását teszi szükségessé, továbbá a módosítást megalapozó adatokat, információkat.
-
-(4) Az átvevő jogutód fenntartónak, valamint az átvett intézményi kedvezményezettnek a költségvetési törvény 1. melléklet XIX. Uniós Fejlesztések fejezete szerinti, az Európai Unió által vagy egyéb nemzetközi forrásokból társfinanszírozott projektjeinek végrehajtásához szükséges saját forrás a mindenkor hatályos költségvetési törvény XIX. Uniós Fejlesztések fejezet, 2. Fejezeti kezelésű előirányzatok cím, 7. Szakmai fejezeti kezelésű előirányzatok alcím, 8. Állami költségvetési kedvezményezettek sajáterő támogatása jogcímcsoporton keresztül – szükség esetén e jogcímcsoport Kormány jóváhagyásával történő felülről nyitásával – kerül biztosításra.
