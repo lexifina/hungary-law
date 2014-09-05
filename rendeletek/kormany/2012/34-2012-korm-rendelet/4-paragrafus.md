@@ -2,8 +2,10 @@
 
 (2) Nemzeti szakértőnek a 3. § (3) bekezdésében foglalt rendelkezéseken túlmenően kizárólag a hivatásos állománynak az a tagja jelölhető, aki nem áll fegyelmi vagy büntetőeljárás hatálya alatt.
 
-(3) A jelölést az érintett miniszter – a külügyminiszter útján – teszi meg
+(3)[^5] A jelölést az érintett miniszter – a külpolitikáért felelős miniszter útján – teszi meg
 
 a) az Állandó Képviseleten keresztül az uniós intézmény felé,
 
 b) a nemzetközi szervezet felé.
+
+[^5]: A 4. § (3) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 645. § b) pontja szerint módosított szöveg.
