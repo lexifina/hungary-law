@@ -1,1 +1,0 @@
-A foglalkoztatás elősegítéséről és munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. § (5) bekezdés a) pont 2. alpontjában foglalt felhatalmazás alapján, Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a Kormány a következőket rendeli el:
