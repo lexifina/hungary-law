@@ -1,1 +1,0 @@
-A Kormány a nemzeti gondozásról szóló 1992. évi LII. törvény (a továbbiakban: Tv.) 9. §-ában kapott felhatalmazás alapján a nemzeti gondozási díj összegének emelésére, továbbá a kiegészítő hadigondozotti pénzellátásról szóló 6/1992. (I. 16.) Korm. rendelet (a továbbiakban: R.) módosítására a következőket rendeli el:
