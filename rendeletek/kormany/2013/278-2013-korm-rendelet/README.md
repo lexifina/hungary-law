@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-278-20-
 | --- | --- | --- |
 | 2013-07-25 | 2013-278-20-22.1 | 278/2013. (VII. 24.) Korm. rendelet |
 | 2013-08-31 | 2013-278-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2014-09-05 | 2013-278-20-22.3 | 221/2014. (IX. 4.) Korm. rendelet |
