@@ -2,7 +2,7 @@
 
 2. § (1) Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
 
-(2) E rendelet végrehajtásáról a nemzeti kulturális örökség minisztere gondoskodik.
+(2)[^1] E rendelet végrehajtásáról a kultúráért felelős miniszter gondoskodik.
 
 Melléklet a 68/2002. (IV. 5.) Korm. rendelethez
 
@@ -93,3 +93,5 @@ I have further the honour to propose that the present Note and Your Excellency's
 I avail myself of this opportunity to renew to Your Excellency the assurance of my highest consideration.''
 
 (Aláírás)
+
+[^1]: A 2. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 236. §-a szerint módosított szöveg.
