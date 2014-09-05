@@ -1,4 +1,4 @@
-5. § (1)[^8] A PIB a Miniszterelnökség és a minisztériumok 1-1 delegáltjából álló testület, amelynek elnöke a Hivatal vezetője.
+5. § (1)[^8] A PIB a minisztériumok 1-1 delegáltjából álló testület, amelynek elnöke a Hivatal vezetője.
 
 (2) A PIB
 
@@ -16,5 +16,5 @@ d) a 12–15. §-ban foglaltaknak megfelelően gyakorolja az ösztöndíjas szer
 
 (5)[^9] A PIB tagjai – az elnök kivételével – a (2) bekezdésben meghatározott feladataikat a Hivatal vezetője által a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 154. § (3) bekezdése alapján megállapított rendkívüli, célhoz köthető feladatként végezhetik.
 
-[^8]: Az 5. § (1) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^8]: Az 5. § (1) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 4. § d) pontja, a 221/2014. (IX. 4.) Korm. rendelet 579. § a) pontja szerint módosított szöveg.
 [^9]: Az 5. § (5) bekezdését a 392/2012. (XII. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be.

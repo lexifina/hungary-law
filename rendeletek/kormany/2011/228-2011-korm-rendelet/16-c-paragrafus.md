@@ -1,4 +1,4 @@
-16/C. §[^31] (1) A szakmai ösztöndíjas, a küldő szerv és a Hivatal a szakmai tanulmányúttal kapcsolatos jogaikat és kötelezettségeiket a szakmai ösztöndíjas szerződésben (a továbbiakban: szerződés) határozzák meg.
+16/C. §[^34] (1) A szakmai ösztöndíjas, a küldő szerv és a Hivatal a szakmai tanulmányúttal kapcsolatos jogaikat és kötelezettségeiket a szakmai ösztöndíjas szerződésben (a továbbiakban: szerződés) határozzák meg.
 
 (2) A szerződésnek tartalmaznia kell
 
@@ -44,4 +44,4 @@ b) felmondással a munkaviszonyát.
 
 (10) A szakmai ösztöndíjas indokolását a PIB megvizsgálja. Ha a szerződés felmondásának oka a küldő szerv vagy a Hivatal szerződésszegése, a szakmai ösztöndíjast a részére folyósított ösztöndíjnak megfelelő összeg visszafizetésére vonatkozó kötelezettség nem terheli.
 
-[^31]: A 16/C. §-t a 246/2012. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^34]: A 16/C. §-t a 246/2012. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
