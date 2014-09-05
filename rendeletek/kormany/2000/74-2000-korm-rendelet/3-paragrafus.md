@@ -1020,6 +1020,7 @@
 
 3. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba, rendelkezéseit azonban 1998. október 22-től kell alkalmazni.
 
-(2) E rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter és a környezetvédelmi miniszter – az érintett miniszterekkel egyetértésben – gondoskodik.
+(2)[^2] E rendelet végrehajtásáról – a Kormány feladatkörében érintett más tagjával egyetértésben – a vízgazdálkodásért felelős miniszter, a vízvédelemért felelős miniszter és a környezetvédelemért felelős miniszter gondoskodik.
 
 [^1]: A vízminőségi céljellemzőkkel és kritériumokkal kapcsolatban általános szabály, hogy azokat egyedileg fejlesztik ki, különösképpen pedig egyedileg igazítják hozzá az ökorendszerek, a vízkészletek és azok hasznosítása terén fennálló viszonyokhoz. Ezért a jelen Egyezmény csak általános irányelvekkel szolgál a Szerződő Felek részére.
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 202. §-ával megállapított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-74-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2000-06-15 | 2000-74-20-22.1 | 74/2000. (V. 31.) Korm. rendelet |
+| 2014-09-05 | 2000-74-20-22.2 | 221/2014. (IX. 4.) Korm. rendelet |
