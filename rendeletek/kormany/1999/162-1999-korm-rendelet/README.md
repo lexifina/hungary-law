@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-162-20-
 | 2013-03-01 | 1999-162-20-22.14 | 267/2010. (XII. 3.) Korm. rendelet |
 | 2013-07-01 | 1999-162-20-22.15 | 173/2001. (IX. 26.) Korm. rendelet |
 | 2014-07-18 | 1999-162-20-22.16 | 167/2014. (VII. 17.) Korm. rendelet |
+| 2014-09-05 | 1999-162-20-22.17 | 221/2014. (IX. 4.) Korm. rendelet |
