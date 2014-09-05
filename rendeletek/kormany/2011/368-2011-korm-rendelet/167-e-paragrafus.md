@@ -6,7 +6,7 @@
 
 a) előzetes egyetértéséről szóló okirat a fővárosi önkormányzat által fenntartott levéltár esetében,
 
-b)[^411] előzetes véleményéről szóló okirat a megyei hatókörű városi múzeum, a megyei könyvtár és a fővárosi önkormányzat által fenntartott könyvtár, a települési könyvtár átszervezése vagy megszüntetése, az önkormányzati rendelet hatálya alá tartozó közművelődési intézmény létesítése, átszervezése, megszüntetése esetében,
+b)[^413] előzetes véleményéről szóló okirat a megyei hatókörű városi múzeum, a megyei könyvtár és a fővárosi önkormányzat által fenntartott könyvtár, a települési könyvtár átszervezése vagy megszüntetése, az önkormányzati rendelet hatálya alá tartozó közművelődési intézmény létesítése, átszervezése, megszüntetése esetében,
 
 3. helyi önkormányzati költségvetési szerv esetében az alapítást, adatmódosítást, átalakítást vagy megszüntetést jóváhagyó testületi vagy tanácsülés határozatának kivonata,
 
@@ -16,7 +16,7 @@ b)[^411] előzetes véleményéről szóló okirat a megyei hatókörű városi 
 
 6. közös működtetésű vagy fenntartású költségvetési szerv esetében – ha a létesítő okirat nem tartalmazza azt – megállapodás arról, hogy a törzskönyvi jogi személy költségvetése melyik irányító szerv költségvetésében szerepel,
 
-7.[^412] a helyi önkormányzat, a nemzetiségi önkormányzat bankszámla-szerződése,
+7.[^414] a helyi önkormányzat, a nemzetiségi önkormányzat bankszámla-szerződése,
 
 8. az államháztartás önkormányzati alrendszerébe tartozó törzskönyvi jogi személy esetében a feladat-, illetve intézményátadás esetén az átadó és átvevő közötti megállapodás, továbbá az átadásra-átvételre vonatkozó képviselő-testületi, közgyűlési határozatok kivonata,
 
@@ -60,5 +60,5 @@ fogadható el.
 
 (5) A bejegyzési kérelmet, a törlési kérelmet, a változás-bejelentési kérelmet és azok mellékleteit egy példányban kell benyújtani.
 
-[^411]: Az Ávr. 167/E. § (1) bekezdés 2. pont b) alpontja a 159/2014. (VI. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^412]: Az Ávr. 167/E. § (1) bekezdés 7. pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 20. pontja szerint módosított szöveg.
+[^413]: Az Ávr. 167/E. § (1) bekezdés 2. pont b) alpontja a 159/2014. (VI. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^414]: Az Ávr. 167/E. § (1) bekezdés 7. pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 20. pontja szerint módosított szöveg.

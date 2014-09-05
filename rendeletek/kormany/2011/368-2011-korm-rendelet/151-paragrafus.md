@@ -1,22 +1,22 @@
-151. § (1)[^375] Az államháztartás központi alrendszerébe tartozó költségvetési szerv költségvetési maradványából a központi költségvetést illeti meg
+151. § (1)[^376] Az államháztartás központi alrendszerébe tartozó költségvetési szerv költségvetési maradványából a központi költségvetést illeti meg
 
 a) a végleges feladatelmaradás miatti összeg,
 
 b) a normatív jellegű támogatások jogosultságot meghaladó többlete,
 
-c)[^376] a 150. § (1) bekezdés e) pontja szerinti kivétellel a központi költségvetésből meghatározott célra rendelkezésre bocsátott, áthúzódó pénzügyi teljesítés nélküli összeg az európai uniós forrásból finanszírozott programok kivételével, és
+c)[^377] a 150. § (1) bekezdés e) pontja szerinti kivétellel a központi költségvetésből meghatározott célra rendelkezésre bocsátott, áthúzódó pénzügyi teljesítés nélküli összeg az európai uniós forrásból finanszírozott programok kivételével, és
 
-d)[^377] a gazdálkodási szabályok megsértéséből származó költségvetési maradvány.
+d)[^378] a gazdálkodási szabályok megsértéséből származó költségvetési maradvány.
 
-(2)[^378] A fejezeti kezelésű előirányzatoknak a gazdálkodási szabályok megsértéséből származó költségvetési maradványa a központi költségvetést illeti meg.
+(2)[^379] A fejezeti kezelésű előirányzatoknak a gazdálkodási szabályok megsértéséből származó költségvetési maradványa a központi költségvetést illeti meg.
 
-(3)[^379] Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással nem terhelt költségvetési maradványa a teljes költségvetési maradványnak a kötelezettségvállalással terhelt költségvetési maradvány összegével, valamint a költségvetési maradványból a központi költségvetést megillető résszel csökkentett mértéke. A kötelezettségvállalással nem terhelt költségvetési maradvány elvonásáról vagy felhasználásáról a Kormány dönt. Az elvont költségvetési maradvány a központi költségvetést illeti meg.
+(3)[^380] Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással nem terhelt költségvetési maradványa a teljes költségvetési maradványnak a kötelezettségvállalással terhelt költségvetési maradvány összegével, valamint a költségvetési maradványból a központi költségvetést megillető résszel csökkentett mértéke. A kötelezettségvállalással nem terhelt költségvetési maradvány elvonásáról vagy felhasználásáról a Kormány dönt. Az elvont költségvetési maradvány a központi költségvetést illeti meg.
 
-(4)[^380] Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással terhelt költségvetési maradványa a következő évben – az államháztartás központi alrendszerébe tartozó költségvetési szerv esetén saját hatáskörben, a fejezeti kezelésű előirányzatok esetén a fejezetet irányító szerv hatáskörében – elvégzett előirányzat-módosítás után, a 46. § (1) bekezdése szerint vállalt kötelezettségek június 30-ig történő kiegyenlítésére használható fel.
+(4)[^381] Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással terhelt költségvetési maradványa a következő évben – az államháztartás központi alrendszerébe tartozó költségvetési szerv esetén saját hatáskörben, a fejezeti kezelésű előirányzatok esetén a fejezetet irányító szerv hatáskörében – elvégzett előirányzat-módosítás után, a 46. § (1) bekezdése szerint vállalt kötelezettségek június 30-ig történő kiegyenlítésére használható fel.
 
-[^375]: Az Ávr. 151. § (1) bekezdés nyitó szövegrésze a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 41. pontja szerint módosított szöveg.
-[^376]: Az Ávr. 151. § (1) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 42. pontja szerint módosított szöveg.
-[^377]: Az Ávr. 151. § (1) bekezdés d) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 43. pontja szerint módosított szöveg.
-[^378]: Az Ávr. 151. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 44. pontja szerint módosított szöveg.
-[^379]: Az Ávr. 151. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 51. §-ával megállapított szöveg.
-[^380]: Az Ávr. 151. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 44. pontja szerint módosított szöveg.
+[^376]: Az Ávr. 151. § (1) bekezdés nyitó szövegrésze a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 41. pontja szerint módosított szöveg.
+[^377]: Az Ávr. 151. § (1) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 42. pontja szerint módosított szöveg.
+[^378]: Az Ávr. 151. § (1) bekezdés d) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 43. pontja szerint módosított szöveg.
+[^379]: Az Ávr. 151. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 44. pontja szerint módosított szöveg.
+[^380]: Az Ávr. 151. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^381]: Az Ávr. 151. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 44. pontja szerint módosított szöveg.

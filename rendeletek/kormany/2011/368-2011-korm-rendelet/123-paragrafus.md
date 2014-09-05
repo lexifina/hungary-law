@@ -1,6 +1,6 @@
 ## [Az Áht. 78. § (4) és (5) bekezdéséhez]
 
-123. § (1)[^307] A vidékfejlesztési stratégiai tervekben foglalt agrártámogatások kizárólag abban az esetben finanszírozhatóak az Áht. 78. § (4) bekezdés a) pontja szerint, ha az így igénybe vett teljes összeget az Európai Unió utólagosan megtéríti, de a kifizetés időpontjában a vidékfejlesztési stratégiai tervekben foglalt célokra felhasználható európai uniós forrás nem áll rendelkezésre.
+123. § (1)[^308] A vidékfejlesztési stratégiai tervekben foglalt agrártámogatások kizárólag abban az esetben finanszírozhatóak az Áht. 78. § (4) bekezdés a) pontja szerint, ha az így igénybe vett teljes összeget az Európai Unió utólagosan megtéríti, de a kifizetés időpontjában a vidékfejlesztési stratégiai tervekben foglalt célokra felhasználható európai uniós forrás nem áll rendelkezésre.
 
 (2) Az egységes területalapú támogatások megelőlegezésére igénybe vett összeg nagysága nem haladhatja meg a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló törvény alapján meghatározott, évente kifizetésre kerülő, az Európai Mezőgazdasági Garancia Alap által megtérítendő egységes területalapú támogatások összegét. A cukorágazati hozzájárulás fizetési kötelezettség teljesítésére igénybe vett összeg nem haladhatja meg az Európai Unió részére fizetendő hozzájárulás összegét.
 
@@ -14,12 +14,12 @@
 
 (7) Az igénybe vett megelőlegezés összegét az elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szerve a befolyó költségvetési bevételekből és a társadalombiztosítás pénzügyi alapját nem terhelő ellátások megtérítéseiből soron kívül törleszti.
 
-(7a)[^308] Az Áht. 78. § (4) bekezdés e) pontja szerinti megelőlegezés feltétele, hogy a kifizetés időpontjában a támogatási szerződésben meghatározott célokra felhasználható európai uniós és hazai forrás nem áll rendelkezésre. A tervezett megelőlegezés igénybevételéről a Nemzeti Infrastruktúra Fejlesztő Zrt. az államháztartásért felelős miniszter és a Kincstár részére a költségvetési év január 15-éig havi bontású finanszírozási tervet készít, amelyet a rendelkezésére álló információk alapján minden negyedévet követő hónap 15-éig aktualizál. Az államháztartásért felelős miniszter jogosult a finanszírozási terv és a megelőlegezés igénybevételének ütemezését módosítani.
+(7a)[^309] Az Áht. 78. § (4) bekezdés e) pontja szerinti megelőlegezés feltétele, hogy a kifizetés időpontjában a támogatási szerződésben meghatározott célokra felhasználható európai uniós és hazai forrás nem áll rendelkezésre. A tervezett megelőlegezés igénybevételéről a Nemzeti Infrastruktúra Fejlesztő Zrt. az államháztartásért felelős miniszter és a Kincstár részére a költségvetési év január 15-éig havi bontású finanszírozási tervet készít, amelyet a rendelkezésére álló információk alapján minden negyedévet követő hónap 15-éig aktualizál. Az államháztartásért felelős miniszter jogosult a finanszírozási terv és a megelőlegezés igénybevételének ütemezését módosítani.
 
-(7b)[^309] Az igénybe vett megelőlegezést a Nemzeti Infrastruktúra Fejlesztő Zrt. támogatási szerződés alapján számára kiutalt bevételeiből soron kívül törleszti.
+(7b)[^310] Az igénybe vett megelőlegezést a Nemzeti Infrastruktúra Fejlesztő Zrt. támogatási szerződés alapján számára kiutalt bevételeiből soron kívül törleszti.
 
 (8) Az Áht. 78. § (5) bekezdés b) pontjában foglaltak alapján kiutalható előleg az érintett egészségügyi szolgáltató utalási évre vonatkozó tizenkét havi finanszírozási összegéből számított havi átlagának 40%-a. A kiutalt előleg visszavonásáról az Egészségbiztosítási Alap kezelő szerve egy összegben a január első munkanapján esedékes finanszírozási összeg utalásánál gondoskodik.
 
-[^307]: Az Ávr. 123. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 44. §-ával megállapított szöveg.
-[^308]: Az Ávr. 123. § (7a) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 31. §-a iktatta be.
-[^309]: Az Ávr. 123. § (7b) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 31. §-a iktatta be.
+[^308]: Az Ávr. 123. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^309]: Az Ávr. 123. § (7a) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 31. §-a iktatta be.
+[^310]: Az Ávr. 123. § (7b) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 31. §-a iktatta be.

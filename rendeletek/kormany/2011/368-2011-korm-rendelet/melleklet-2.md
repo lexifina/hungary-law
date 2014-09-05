@@ -58,7 +58,7 @@
 
 ## 29. az elkülönített állami pénzalapok tekintetében az alappal való rendelkezésre jogosult, a felhasználásért felelős miniszter.
 
-2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^450]
+2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^452]
 
 Fejezetek megnevezése:
 
@@ -70,4 +70,4 @@ Költségvetési év: ……..
 
 | Millió forintban |
 
-[^450]: Az Ávr. 2. melléklete a 23/2014. (II. 6.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^452]: Az Ávr. 2. melléklete a 23/2014. (II. 6.) Korm. rendelet 4. §-ával megállapított szöveg.

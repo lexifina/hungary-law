@@ -10,7 +10,7 @@ d) az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmu
 
 nem haladhatja meg.
 
-(2) Az (1) bekezdésben meghatározott összeghatárt az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt személy az államháztartásért felelős miniszter egyetértésével, a százalékos mértéket kormányrendeletben meghatározott esetben a Kormány európai uniós források felhasználásáért felelős tagja az államháztartásért felelős miniszter álláspontjának kikérését követően megemelheti.
+(2)[^187] Az (1) bekezdésben meghatározott összeghatárt az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt személy az államháztartásért felelős miniszter egyetértésével, a százalékos mértéket kormányrendeletben meghatározott esetben az európai uniós források felhasználásáért felelős miniszter az államháztartásért felelős miniszter álláspontjának kikérését követően megemelheti.
 
 (3) Az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus keretében a támogatási előleg legnagyobb összege és százalékos mértéke a finanszírozó országok jóváhagyása esetén léphető túl.
 
@@ -19,3 +19,4 @@ nem haladhatja meg.
 (5) A Szolidaritási programok és a Belügyi Alapok keretében megítélhető költségvetési támogatások esetén támogatási előleg részletekben – de legfeljebb három részletben – nyújtható. A támogatási előleg első részletének legmagasabb mértéke a költségvetési támogatás összegének 37,5%-a, az ezt követő két további részlet legmagasabb mértéke 25%-a, illetve 22,5%-a azzal, hogy a költségvetési támogatás fennmaradó része csak az előlegrészletekkel való teljes elszámolás után biztosítható. Költségvetési szerv részére a tizenöt millió forint alatti költségvetési támogatás teljes összege előlegként folyósítható azzal a feltétellel, hogy nem megfelelő teljesítés esetén a fejezetet irányító szervnek intézkednie kell a jogosulatlanul igénybe vett támogatásnak az átadó fejezet részére történő visszafizetéséről.
 
 [^186]: Az Ávr. 78/B. §-át a 497/2013. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
+[^187]: Az Ávr. 78/B. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 627. §-a szerint módosított szöveg.

@@ -1,10 +1,10 @@
 ## [Az Áht. 60. § (10) bekezdéséhez]
 
-115. §[^293] Az Áht. 60. § (10) bekezdése szerinti határozatnak tartalmaznia kell
+115. §[^294] Az Áht. 60. § (10) bekezdése szerinti határozatnak tartalmaznia kell
 
 a) a rendelkező részben
 
-aa)[^294] jogcímenként a helyi önkormányzatot megillető, és az általa visszafizetendő támogatások összegét,
+aa)[^295] jogcímenként a helyi önkormányzatot megillető, és az általa visszafizetendő támogatások összegét,
 
 ab) a 105. § (1) bekezdése szerint fizetendő igénybevételi kamat összegét,
 
@@ -22,10 +22,10 @@ bb) jogcímenként a ba) alpont szerinti eltérés indokait,
 
 bc) az eltérés indokait,
 
-bd)[^295] a helyi önkormányzat jegyzőkönyvre tett észrevételeiről kialakított véleményt, az észrevételek esetleges el nem fogadásának indokait, és
+bd)[^296] a helyi önkormányzat jegyzőkönyvre tett észrevételeiről kialakított véleményt, az észrevételek esetleges el nem fogadásának indokait, és
 
 be) az igénybevételi kamat, kiegészítő kamat fizetésének jogalapját, az ab)–ae) alpont szerinti kamatok alapját.
 
-[^293]: Az Ávr. 115. § a 413/2012. (XII. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^294]: Az Ávr. 115. § a) pont aa) alpontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 11. pontja szerint módosított szöveg.
-[^295]: Az Ávr. 115. § b) pont bd) alpontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
+[^294]: Az Ávr. 115. § a 413/2012. (XII. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^295]: Az Ávr. 115. § a) pont aa) alpontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 11. pontja szerint módosított szöveg.
+[^296]: Az Ávr. 115. § b) pont bd) alpontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
