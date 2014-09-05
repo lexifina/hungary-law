@@ -42,9 +42,9 @@
 
 | 22. | NMH | Járási foglalkoztatottsági és munkanélküliségi információs rendszer | 1.1.4. | negyedévente | járás | frissítést követő 30. nap |
 
-| 23. | VM | Nitrát-érzékenységi térkép | 4.5. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 23. | FM | Nitrát-érzékenységi térkép | 4.5. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 24. | VM | Új Magyarország Vidékfejlesztési Program (ÚMVP) | 5.2. | havonta | projekt | frissítést követő 15. nap |
+| 24. | FM | Új Magyarország Vidékfejlesztési Program (ÚMVP) | 5.2. | havonta | projekt | frissítést követő 15. nap |
 
 | 25. | HM Térképészeti Kft. | DTA–50 Digitális Térképészeti Adatbázis | számos témakör | frissítést követően | objektum | frissítést követő 90. nap |
 
@@ -72,7 +72,7 @@
 
 | 37. | KKK | Kerékpárút országos törzshálózati adatok | 3.1.1. | évente vagy frissítést követően | ország | frissítést követő 90. nap |
 
-| 38. | régészeti örökség és a műemléki érték védelméért felelős miniszter | Műemlékek és régészeti lelőhelyek településenként számszerűsített kimutatása | 4.10.1. és 4.10.4. | frissítést követően | település | frissítést követő 90. nap |
+| 38. | kulturális örökség védelméért felelős miniszter | Műemlékek és régészeti lelőhelyek településenként számszerűsített kimutatása | 4.10.1. és 4.10.4. | frissítést követően | település | frissítést követő 90. nap |
 
 | 39. | KSH | Területi számjelrendszer | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -96,27 +96,27 @@
 
 | 50. | KSH | Férőhelyek száma a 4 és 5 csillagos szállodákban | 1.3.5. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 51. | VM | Országos ökológiai hálózat adatai és térképe (magterület, ökológiai folyosó, pufferterület) | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 51. | FM | Országos ökológiai hálózat adatai és térképe (magterület, ökológiai folyosó, pufferterület) | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 52. | VM | Kiemelten fontos érzékeny természeti terület | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 52. | FM | Kiemelten fontos érzékeny természeti terület | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 53. | VM, BM | Környezetvédelmi és természetvédelmi felügyelőség és a területi vízügyi hatóság illetékessége, vízügyi igazgatóságok, valamint nemzeti park igazgatóságok működési területe | 5.1. | frissítést követően | térség | frissítést követő 90. nap |
+| 53. | FM, BM | Környezetvédelmi és természetvédelmi felügyelőség és a területi vízügyi hatóság illetékessége, vízügyi igazgatóságok, valamint nemzeti park igazgatóságok működési területe | 5.1. | frissítést követően | térség | frissítést követő 90. nap |
 
 | 54. | BM | Kiemelten érzékeny felszín alatti vízminőség-védelmi terület | 4.9.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 55. | VM | Országos jelentőségű védett természeti területek adatbázisa, Natura 2000 területek adatbázisa | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 55. | FM | Országos jelentőségű védett természeti területek adatbázisa, Natura 2000 területek adatbázisa | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 56. | VM | Légszennyező anyagok kibocsátott mennyisége | 4.9.2. | frissítést követően | megye, megyeszékhely | frissítést követő 90. nap |
+| 56. | FM | Légszennyező anyagok kibocsátott mennyisége | 4.9.2. | frissítést követően | megye, megyeszékhely | frissítést követő 90. nap |
 
-| 57. | VM | Levegőminőségi adatok [Országos Légszennyezettségi Mérőhálózat (OLM) éves értékelés] | 4.9.2. | évente vagy frissítést követően | országos | frissítést követő 90. nap |
+| 57. | FM | Levegőminőségi adatok [Országos Légszennyezettségi Mérőhálózat (OLM) éves értékelés] | 4.9.2. | évente vagy frissítést követően | országos | frissítést követő 90. nap |
 
-| 58. | VM | Hulladéklerakók a következő csoportosításban: – A – inert hulladéklerakó, – B1b – vegyes összetételű (ipari), nem veszélyes hulladékot fogadó lerakó, – B3 – magas szervesanyag tartalmú (települési szilárd) hulladékot fogadó lerakó, – C – veszélyes hulladéklerakó. | 3.5. | évente | EOV koordináta | június 1. |
+| 58. | FM | Hulladéklerakók a következő csoportosításban: – A – inert hulladéklerakó, – B1b – vegyes összetételű (ipari), nem veszélyes hulladékot fogadó lerakó, – B3 – magas szervesanyag tartalmú (települési szilárd) hulladékot fogadó lerakó, – C – veszélyes hulladéklerakó. | 3.5. | évente | EOV koordináta | június 1. |
 
-| 59. | VM | Zajtérképek | 4.9.2. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 59. | FM | Zajtérképek | 4.9.2. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 60. | VM | Veszélyes hulladékok keletkezett mennyisége | 3.5. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 60. | FM | Veszélyes hulladékok keletkezett mennyisége | 3.5. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 61. | VM, BM | Kármentesítési munkálatok | 4.12. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 61. | FM, BM | Kármentesítési munkálatok | 4.12. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
 | 62. | MÁV, GYSEV | Vasúthálózat nyomvonalának digitális térképi és műszaki kapacitás adatai | 3.1.2. | frissítést követően | objektum | frissítést követő 90. nap |
 
@@ -264,13 +264,13 @@
 
 | 9. | Földmérési és Távérzékelési Intézet | FÖMI |
 
-| 10. | Vidékfejlesztési Minisztérium | VM |
+| 10. | Földművelésügyi Minisztérium | FM |
 
 | 11. | Győr-Sopron-Ebenfurti Vasút Zrt. | GYSEV |
 
 | 12. | HM Térképészeti Közhasznú Nonprofit Kft. | HM Térképészeti Kft. |
 
-| 13. | Közigazgatási és Igazságügyi Minisztérium | KIM |
+| 13. | Igazságügyi Minisztérium | IM |
 
 | 14. |  |  |
 
@@ -334,6 +334,6 @@
 
 | 44. | Nemzeti Környezetügyi Intézet | NeKI |
 
-3–4. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^40]
+3–4. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^42]
 
-[^40]: A 3–4. számú mellékletet a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^42]: A 3–4. számú mellékletet a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.

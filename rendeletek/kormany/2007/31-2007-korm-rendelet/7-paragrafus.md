@@ -16,14 +16,15 @@ d) a térképek és térképi adatbázisok esetében a rendelkezésre álló leg
 
 (5) A TeIR adatainak nyilvánosságára a statisztikáról szóló 1993. évi XLVI. törvény, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény, valamint az elektronikus információszabadságról szóló 2005. évi XC. törvény rendelkezései az irányadóak.
 
-(6) A TeIR adatbázisát a területfejlesztésért és a területrendezésért felelős miniszter (a továbbiakban: miniszter) naptári évenként felülvizsgálja. Új adatkörök gyűjtésére tett javaslat esetén a miniszter előzetesen egyeztet az érintett ágazati miniszterrel, egyeztetést követően a miniszter javaslatot tesz a Kormány felé e rendelet 2. számú mellékletének módosítására.
+(6)[^20] A TeIR adatbázisát a területrendezésért felelős miniszter (a továbbiakban: miniszter) naptári évenként felülvizsgálja. Új adatkörök gyűjtésére tett javaslat esetén a miniszter előzetesen egyeztet az érintett ágazati miniszterrel, egyeztetést követően a miniszter javaslatot tesz a Kormány felé e rendelet 2. számú mellékletének módosítására.
 
 (7) A (6) bekezdés alapján újonnan átadandó adatkörök átadási határidejét úgy kell meghatározni, hogy az átadónak az átadás előkészítésére legalább 90 nap álljon rendelkezésére.
 
-(8)[^20]
+(8)[^21]
 
 [^16]: A 7. § (1) bekezdése a 65/2010. (III. 18.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^17]: A 7. § (2) bekezdése a 65/2010. (III. 18.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^18]: A 7. § (3) bekezdését a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
 [^19]: A 7. § (4) bekezdése a 65/2010. (III. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^20]: A 7. § (8) bekezdését a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^20]: A 7. § (6) bekezdése a 221/2014. (IX. 4.) Korm. ren delet 374. § a) pontja szerint módosított szöveg.
+[^21]: A 7. § (8) bekezdését a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.

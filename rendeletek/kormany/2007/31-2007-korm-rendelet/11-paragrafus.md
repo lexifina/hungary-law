@@ -1,8 +1,8 @@
 ## A TeIR működtetésével kapcsolatos feladatok
 
-11. §[^31] (1) A TeIR működtetéséért a miniszter a felelős.
+11. §[^33] (1) A TeIR működtetéséért a miniszter a felelős.
 
-(2)[^32] A Kormány a TeIR – mint rendszer – üzemeltetőjeként a Lechner Lajos Tudásközpont Területi Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaságot jelöli ki.
+(2)[^34] A Kormány a TeIR – mint rendszer – üzemeltetőjeként a Lechner Lajos Tudásközpont Területi Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaságot jelöli ki.
 
 (3) A TeIR üzemeltetője a (2) bekezdés szerinti feladatát a miniszterrel évente megkötött közszolgáltatási szerződés és a miniszter által jóváhagyott Üzemeltetési Szabályzat alapján látja el. A TeIR Üzemeltetési Szabályzatát a miniszter által vezetett minisztérium és a TeIR üzemeltetőjének honlapján közzé kell tenni.
 
@@ -36,5 +36,5 @@ d) a költségtérítéses szolgáltatásokhoz való hozzáférés módját és
 
 e) a költségtérítés mértéke meghatározásának módját.
 
-[^31]: A 11. § a 65/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^32]: A 11. § (2) bekezdése a 107/2013. (IV. 5.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^33]: A 11. § a 65/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^34]: A 11. § (2) bekezdése a 107/2013. (IV. 5.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
