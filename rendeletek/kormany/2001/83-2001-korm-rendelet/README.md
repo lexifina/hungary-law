@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-83-20-2
 | --- | --- | --- |
 | 2008-01-01 | 2001-83-20-22.3 | 83/2001. (V. 18.) Korm. rendelet |
 | 2012-01-01 | 2001-83-20-22.4 | 41/2002. (III. 21.) Korm. rendelet |
+| 2014-09-05 | 2001-83-20-22.5 | 221/2014. (IX. 4.) Korm. rendelet |

@@ -1,6 +1,6 @@
 ## 3. § A térítéses igénybevételek engedélyezésére a határátlépéssel járó csapatmozgások engedélyezésének kormányzati feladatairól szóló 190/2000. (XI. 14.) Korm. rendeletet kell alkalmazni.
 
-4. § (1) A honvédelmi miniszter vagy az általa kijelölt személy jogosult a térítéses igénybevételre vonatkozó megállapodások tárgyalására és – a 3. § szerinti engedély meglétében – azok megkötésére.
+4. § (1)[^4] A honvédelemért felelős miniszter vagy az általa kijelölt személy jogosult a térítéses igénybevételre vonatkozó megállapodások tárgyalására és – a 3. § szerinti engedély meglétében – azok megkötésére.
 
 (2) A megállapodásokban rögzíteni kell:
 
@@ -37,3 +37,5 @@ d) azt az előírást, hogy külföldi fegyveres erők beszállítói a magyar b
 e) biztosítóval egyes meghatározott típusú, az igénybe vevő fél által okozott károk esetére történő megállapodást,
 
 f) bekövetkező károk esetére a külföldi felet terhelő kifizetésekre szolgáló összeg (kártérítési biztosíték) letétbe helyezésének kikötését.
+
+[^4]: A 4. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 220. § a) pontja szerint módosított szöveg.
