@@ -336,7 +336,7 @@
 
 3. § (1) E rendelet kihirdetése napján lép hatályba, rendelkezéseit azonban 1988. január 12-től kezdődően kell alkalmazni.
 
-(2)[^4] A rendelet végrehajtásáról az Országos Atomenergia Hivatal főigazgatója az érdekelt miniszterekkel egyetértésben gondoskodik.
+(2)[^4] A rendelet végrehajtásáról az energiapolitikáért felelős miniszter és az Országos Atomenergia Hivatal főigazgatója gondoskodik.
 
 [^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
-[^4]: A 3. § (2) bekezdése a 87/1997. (V. 28.) Korm. rendelet 22. §-a (2) bekezdésének d) pontja szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdése a 87/1997. (V. 28.) Korm. rendelet 22. § (2) bekezdés d) pontja, a 221/2014. (IX. 4.) Korm. rendelet 113. §-a szerint módosított szöveg.
