@@ -106,4 +106,6 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban az 1979. évi november hó 17. napjától kezdődően kell alkalmazni.
 
-(2) E rendelet végrehajtásáról a népjóléti miniszter gondoskodik.
+(2)[^3] E rendelet végrehajtásáról az egészségügyért felelős miniszter gondoskodik.
+
+[^3]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 59. §-a szerint módosított szöveg.
