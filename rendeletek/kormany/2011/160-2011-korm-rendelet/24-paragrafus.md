@@ -1,23 +1,24 @@
-## 23. § A külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszter a haditechnikai külkereskedelmi engedélyezési tevékenységről évenként egy alkalommal jelentést tesz a honvédelmi ügyekkel foglalkozó, a rendészeti ügyekkel foglalkozó, a külpolitikai ügyekkel foglalkozó, továbbá a nemzetbiztonsági ügyekkel foglalkozó országgyűlési bizottságoknak.
+## 23. §[^38] Az iparügyekért felelős miniszter a haditechnikai külkereskedelmi engedélyezési tevékenységről évenként egy alkalommal jelentést tesz a honvédelmi ügyekkel foglalkozó, a rendészeti ügyekkel foglalkozó, a külpolitikai ügyekkel foglalkozó, továbbá a nemzetbiztonsági ügyekkel foglalkozó országgyűlési bizottságoknak.
 
 ## V. Fejezet
 
 ## ELLENŐRZÉS, BÍRSÁGOLÁS
 
-24. §[^38] (1) Az e rendeletben szabályozott tevékenység, valamint az engedélyben meghatározott feltételek betartásának ellenőrzésére a Hatóság jogosult.
+24. §[^39] (1) Az e rendeletben szabályozott tevékenység, valamint az engedélyben meghatározott feltételek betartásának ellenőrzésére a Hatóság jogosult.
 
 (2) Az e rendelet hatálya alá tartozó termékek forgalmának uniós jogi aktusokban és nemzeti jogszabályokban meghatározottak szerinti ellenőrzésére, továbbá a kapcsolódó engedélyek kezelésére a Nemzeti Adó- és Vámhivatal jogosult.
 
 (3) A beléptető vámhivatal elvégzi a tranzit ellenőrzését, továbbá a globális és egyedi forgalmi engedélyek esetében a harmadik országból történő beléptetés igazolását.
 
-(4)[^39] A kiléptető vámhivatal elvégzi a tranzit ellenőrzését, továbbá a globális és az egyedi forgalmi engedélyek, valamint a 258/2012/EU rendelet szerinti kiviteli engedély esetében a harmadik országba történő kiléptetés igazolását.
+(4)[^40] A kiléptető vámhivatal elvégzi a tranzit ellenőrzését, továbbá a globális és az egyedi forgalmi engedélyek, valamint a 258/2012/EU rendelet szerinti kiviteli engedély esetében a harmadik országba történő kiléptetés igazolását.
 
-(5)[^40] A kiviteli vámhivatal a globális és egyedi forgalmi engedélyek esetében elvégzi a kivitel, újrakivitel és a kiszállítás ellenőrzését, a kapcsolódó engedélyek kezelését. A behozatali vámhivatal a globális és egyedi forgalmi engedélyek esetében elvégzi a behozatal és a beérkezés ellenőrzését, a kapcsolódó engedélyek kezelését.
+(5)[^41] A kiviteli vámhivatal a globális és egyedi forgalmi engedélyek esetében elvégzi a kivitel, újrakivitel és a kiszállítás ellenőrzését, a kapcsolódó engedélyek kezelését. A behozatali vámhivatal a globális és egyedi forgalmi engedélyek esetében elvégzi a behozatal és a beérkezés ellenőrzését, a kapcsolódó engedélyek kezelését.
 
 (6) A vállalkozás a Hatóság vagy a Nemzeti Adó- és Vámhivatal felhívására tájékoztatást ad a kivitt, behozott, Magyarországon átszállított vagy transzferált haditechnikai eszköz végfelhasználóiról és végfelhasználásról, valamint az elvégzett eljárások befejezéséről.
 
 (7) A haditechnikai eszközök behozatalára, kivitelére, újrakivitelére, transzferjére és tranzitjára irányuló vámhatósági eljárások kizárólag kérelemre, és az engedélyes, annak megbízottja vagy képviselője kezdeményezésre indulhatnak a Nemzeti Adó- és Vámhivatal alsó fokú vámszerveinél.
 
-[^38]: A 24. § a 78/2013. (III. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^39]: A 24. § (4) bekezdése a 441/2013. (XI. 20.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
-[^40]: [A 24. § (5) bekezdés első mondatának a 441/2013. (XI. 20.) Korm. rendelet 14. § b) pontjával elrendelt módosítása, amely szerint a „globális és egyedi forgalmi engedély” szövegrész helyébe a „globális és egyedi forgalmi engedély, valamint a 258/2012/EU rendelet szerinti kiviteli engedély” szöveg lép, nem vezethető át.]
+[^38]: A 23. § a 221/2014. (IX. 4.) Korm. rendelet 571. § b) pontja szerint módosított szöveg.
+[^39]: A 24. § a 78/2013. (III. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^40]: A 24. § (4) bekezdése a 441/2013. (XI. 20.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^41]: [A 24. § (5) bekezdés első mondatának a 441/2013. (XI. 20.) Korm. rendelet 14. § b) pontjával elrendelt módosítása, amely szerint a „globális és egyedi forgalmi engedély” szövegrész helyébe a „globális és egyedi forgalmi engedély, valamint a 258/2012/EU rendelet szerinti kiviteli engedély” szöveg lép, nem vezethető át.]
