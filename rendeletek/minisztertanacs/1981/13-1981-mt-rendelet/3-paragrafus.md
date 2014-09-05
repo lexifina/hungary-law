@@ -132,4 +132,6 @@
 
 ## (Aláírások.)
 
-3. § E minisztertanácsi rendelet végrehajtásáról a nemzeti kulturális örökség minisztere és a külügyminiszter az érdekelt miniszterekkel és országos hatáskörű szervek vezetőivel egyetértésben gondoskodik.
+3. §[^2] E rendelet végrehajtásáról – az oktatásért felelős miniszterrel, a kultúráért felelős miniszterrel és a tudománypolitika koordinációjáért felelős miniszterrel egyetértésben – a külpolitikáért felelős miniszter gondoskodik.
+
+[^2]: A 3. § a 221/2014. (IX. 4.) Korm. rendelet 69. §-ával megállapított szöveg.
