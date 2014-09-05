@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1979-17-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1979-05-09 | 1979-17-20-65.1 | 17/1979. (V. 9.) MT rendelet |
+| 2014-09-05 | 1979-17-20-65.2 | 35/2021. (II. 2.) Korm. rendelet |

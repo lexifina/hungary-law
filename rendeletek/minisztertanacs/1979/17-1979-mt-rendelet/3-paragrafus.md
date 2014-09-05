@@ -108,8 +108,10 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban az 1979. év február hó 6. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a külügyminiszter – az érdekelt miniszterekkel és az országos hatáskörű szervek vezetőivel egyetértésben – gondoskodik.
+(2)[^2] E rendelet végrehajtásáról a külpolitikáért felelős miniszter gondoskodik.
 
 Lázár György s. k.,
 
 a Minisztertanács elnöke
+
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 50. §-ával megállapított szöveg.
