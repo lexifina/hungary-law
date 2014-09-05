@@ -1,1 +1,0 @@
-A Magyar Köztársaság 2000. évi költségvetéséről szóló 1999. évi CXXV. törvény 91. §-a (1) bekezdésének e) pontjában, valamint a Magyar Köztársaság 2001. és 2002. évi költségvetéséről szóló 2000. évi CXXXIII. törvény 109. §-a (1) bekezdésének j) pontjában foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
