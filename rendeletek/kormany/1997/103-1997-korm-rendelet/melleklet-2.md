@@ -136,7 +136,7 @@
 
 | özvegy | 37 |  |  | gyermek | 38 |  |  |  | szülő | 39 |  |  | testvér | 40 |  |  |  |  |
 
-| Nyilatkozat: Büntetőjogi felelősségem tudatában kijelentem, hogy a sérelmet szenvedett után, ugyanezen sérelemért - külföldi államtól kártalanításban, kárpótlásban vagy jóvátételben - a magyar államtól kártalanításban, kárpótlásban vagy visszatérítésben |
+| Nyilatkozat: Büntetőjogi felelősségem tudatában kijelentem, hogy a sérelmet szenvedett után, ugyanezen sérelemért - külföldi államtól kártalanításban, kárpótlásban vagy jóvátételben - az államtól kártalanításban, kárpótlásban vagy visszatérítésben |
 
 | részesültem (1) | 41 |  |  |  |  |  |
 

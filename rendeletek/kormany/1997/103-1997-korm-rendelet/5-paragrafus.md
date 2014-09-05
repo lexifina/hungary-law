@@ -6,7 +6,7 @@
 
 (3)[^6] Ha a túlélő házastárs a választható kárpótlási jogcímek egyike alapján már kapott kárpótlást, és választását bejelentette, a kárpótlási hatóság a Tvn. 11. §-ában foglaltakról határozatot hoz. Ebben vagy megállapítja, hogy az egyösszegű kárpótlás teljesítése megtörtént, vagy rendelkezik a különbözet kifizetéséről, vagy a Tvn. 11. § (5) bekezdése esetén az életjáradék folyósításának megszüntetéséről és a különbözet kifizetéséről.
 
-(4)[^7] Ha a túlélő házastárs a Tvn. 11. § (3) bekezdésében foglalt lehetőséggel kíván élni, ezt a választásra vonatkozó bejelentésében kell közölnie, és a bejelentést követő 30 napon belül kárpótlási jegyeit a Magyar Államra történő átruházási nyilatkozattal a kárpótlási hatóságnak át kell adnia.
+(4)[^7] Ha a túlélő házastárs a Tvn. 11. § (3) bekezdésében foglalt lehetőséggel kíván élni, ezt a választásra vonatkozó bejelentésében kell közölnie, és a bejelentést követő 30 napon belül kárpótlási jegyeit az államra történő átruházási nyilatkozattal a kárpótlási hatóságnak át kell adnia.
 
 (5)[^8] A túlélő házastársnak az átruházni kívánt kárpótlási jegyek saját jogúságát a kárpótlási hatóság által korábban kiadott határozattal és a pénzforgalmi szolgáltatói átvételt igazoló eredeti bizonylattal (címletjegyzék) kell igazolnia.
 
@@ -14,6 +14,6 @@
 
 [^5]: Az 5. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 111. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^6]: Az 5. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 111. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^7]: Az 5. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 111. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: Az 5. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 111. §-a, a 221/2014. (IX. 4.) Korm. rendelet 173. § a) pontja szerint módosított szöveg.
 [^8]: Az 5. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 111. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^9]: Az 5. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 111. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
