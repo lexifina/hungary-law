@@ -60,7 +60,7 @@ mint átvett intézmény
 
 negyedrészről (amennyiben a települési önkormányzat a Nemzeti Földalapba tartozó földrészlet tulajdonával rendelkezik):
 
-a Magyar Állam nevében eljáró Nemzeti Földalapkezelő Szervezet
+az állam nevében eljáró Nemzeti Földalapkezelő Szervezet
 
 Székhelye:
 
@@ -146,7 +146,7 @@ d) szellemi termékek – találmány, iparjogvédelemben részesülő szabadalo
 
 Átadó és Átvevő kötelezettséget vállalnak arra, hogy amennyiben az intézmények, illetve vagyon átadásával összefüggésben egyes ingatlanok közös kezelésbe, használatba és üzemeltetésbe kerülnek, a kiadások megosztása és a használati jog rendezése érdekében ..................................-ig ingatlanonkénti bontásban külön megállapodást kötnek. Az Átvevő kötelezettséget vállal arra, hogy ugyanilyen tartalmú megállapodást köt azon ingatlanok tekintetében is az érintett ingatlanok vagyonkezelőjével, ahol az ingatlan közös használata nem az Átadóval, hanem más szervezettel történik.
 
-Az intézmények jövőbeni kincstári feladatainak átvételét a Magyar Államkincstár megyei szervének vezetője megbízásából a Magyar Államkincstár kijelölt munkatársai végzik (intézményi számlavezetés, e-Adat-rendszer bevezetése, bérszámfejtés, a vagyonnal kapcsolatos feladatok, illetve a fenntartóváltás egyszeri bejegyzése).
+Az intézmények jövőbeni kincstári feladatainak átvételét az államkincstár megyei szervének vezetője megbízásából az államkincstár kijelölt munkatársai végzik (intézményi számlavezetés, e-Adat-rendszer bevezetése, bérszámfejtés, a vagyonnal kapcsolatos feladatok, illetve a fenntartóváltás egyszeri bejegyzése).
 
 A vagyon átadása
 
@@ -222,4 +222,4 @@ D) Mellékletek – Dokumentumok
 
 E) Mellékletek – Kimutatások és táblázatok
 
-[^236]: A 7. számú mellékletet a 125/2013. (IV. 26.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 46. §-a szerint módosított szöveg.
+[^236]: A 7. számú mellékletet a 125/2013. (IV. 26.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 46. §-a, a 221/2014. (IX. 4.) Korm. rendelet 440. §-a szerint módosított szöveg.
