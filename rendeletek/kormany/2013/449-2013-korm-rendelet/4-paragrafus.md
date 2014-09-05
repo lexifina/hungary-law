@@ -4,4 +4,6 @@
 
 (3) Ha a vizsgálat alapján megállapítható, hogy az igényelt vagyontárgy állami tulajdona jogszerűen keletkezett és az igénylés idején is fennáll, az állami tulajdonjog gyakorlója ezt tulajdonosi döntésével megállapítja és az igényt elutasítja.
 
-(4) A (2) vagy a (3) bekezdés szerinti döntéséről az állami tulajdonjog gyakorlója haladéktalanul tájékoztatja az igénylőt, a közgyűjteményt, valamint a közgyűjtemény felett a szakmai irányítást gyakorló emberi erőforrások miniszterét.
+(4)[^1] A (2) vagy a (3) bekezdés szerinti döntéséről az állami tulajdonjog gyakorlója haladéktalanul tájékoztatja az igénylőt, a közgyűjteményt, a közgyűjtemény fenntartóját, a kultúráért felelős minisztert és a kulturális örökség védelméért felelős minisztert.
+
+[^1]: A 4. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 768. §-ával megállapított szöveg.
