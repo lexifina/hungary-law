@@ -68,4 +68,6 @@
 
 4. § (1) E rendelet kihirdetése napján lép hatályba, rendelkezéseit azonban 1983. évi augusztus hó 2. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+(2)[^3] E rendelet végrehajtásáról az adópolitikáért felelős miniszter gondoskodik.
+
+[^3]: A 4. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 90. §-a szerint módosított szöveg.
