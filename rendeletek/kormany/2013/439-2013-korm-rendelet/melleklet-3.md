@@ -28,7 +28,7 @@
 
 | 4.2. munkavégzésre irányuló jogviszonyban töltött idő (munkáltató megnevezése, jogviszony kezdete és vége) |  |
 
-| 4.3. a pontszámítás alapját képező tevékenységre vonatkozó, a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ, a Magyar Nemzeti Múzeum, az LLTK számára, vagy az építésügyi, illetve az örökségvédelmi hatósághoz benyújtott dokumentáció megnevezése (objektum neve, címe, műemléki azonosítója/lelőhely nyilvántartási azonosító száma, készítés éve, készítője/készítői neve, leltári száma, iktatószáma vagy egyéb iratazonosító száma, pontértéke) |  |
+| 4.3. a pontszámítás alapját képező tevékenységre vonatkozó, a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ, a Magyar Nemzeti Múzeum, az LLTK számára, vagy az építésügyi, illetve az örökségvédelmi hatósághoz benyújtott dokumentáció megnevezése (objektum neve, címe, műemléki azonosítója/lelőhely nyilvántartási azonosító száma, készítés éve, készítője/készítői neve, leltári száma, iktatószáma vagy egyéb iratazonosító száma, pontértéke) |  |
 
 | 4.4. további pontszámítás (felsorolva a dokumentációktól független, a fentiekben fel nem sorolt pontértékű tételeket) |  |
 

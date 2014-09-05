@@ -24,6 +24,7 @@ ca) a szakmai tevékenység részletes leírását (a szakmai gyakorlat megszerz
 
 cb) az alkalmazásban töltött idő munkáltatói igazolását,
 
-cc) a pontszámítás alapját képező tevékenységről a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ, a Magyar Nemzeti Múzeum, az LLTK számára, vagy az építésügyi, illetve az örökségvédelmi hatósághoz benyújtott dokumentáció megnevezését és leltári számát, iktatószámát vagy egyéb iratazonosító számát azzal, hogy az LLTK által véleményezett dokumentációk közül nem vehető számításba az, amelyről a véleményezés során az LLTK megállapította, hogy a tartalma nem felel meg a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló kormányrendeletben foglalt követelményeknek.
+cc)[^21] a pontszámítás alapját képező tevékenységről a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ, a Magyar Nemzeti Múzeum, az LLTK számára, vagy az építésügyi, illetve az örökségvédelmi hatósághoz benyújtott dokumentáció megnevezését és leltári számát, iktatószámát vagy egyéb iratazonosító számát azzal, hogy az LLTK által véleményezett dokumentációk közül nem vehető számításba az, amelyről a véleményezés során az LLTK megállapította, hogy a tartalma nem felel meg a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló kormányrendeletben foglalt követelményeknek.
 
 [^20]: A 8/B. §-t a 62/2014. (III. 6.) Korm. rendelet 53. §-a iktatta be.
+[^21]: A 9. § (3) bekezdés c) pont cc) alpontja a 221/2014. (IX. 4.) Korm. rendelet 767. §-a szerint módosított szöveg.

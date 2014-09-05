@@ -1,6 +1,6 @@
-## 15–19. §[^27]
+## 15–19. §[^29]
 
-1. melléklet a 439/2013. (XI. 20.) Korm. rendelethez[^28]
+1. melléklet a 439/2013. (XI. 20.) Korm. rendelethez[^30]
 
 1. Régészeti területre vonatkozó számítási módszer a szakmai gyakorlat igazolására
 
@@ -142,5 +142,5 @@ Egy tevékenységtípusból legfeljebb 20 pont vehető figyelembe. Egy tevékeny
 
 | 5. | 1 db műemléki védelem alatt álló épület komplex talajnedvesség elleni védelme tervének elkészítésében munkatársként való közreműködés | 3 pont |
 
-[^27]: A 15–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: Az 1. melléklet a 62/2014. (III. 6.) Korm. rendelet 56. § g)–n) pontja szerint módosított szöveg.
+[^29]: A 15–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: Az 1. melléklet a 62/2014. (III. 6.) Korm. rendelet 56. § g)–n) pontja szerint módosított szöveg.
