@@ -2,15 +2,15 @@
 
 15. § (1) Az otthonteremtési kamattámogatásra való jogosultság megállapítását, az otthonteremtési kamattámogatással érintett kölcsönök nyújtását, folyósítását és a törlesztés megállapítását, valamint az otthonteremtési kamattámogatásnak a központi költségvetéssel való elszámolását hitelintézet végzi.
 
-(2)[^93] A hitelintézet az otthonteremtési kamattámogatás folyósításáról és az azzal való elszámolás rendjéről, a pénzügyi ellenőrzéshez szükséges adatszolgáltatásról, valamint az e rendelet szerinti egyéb kötelezettségekről a miniszterrel és a Kincstárral szerződést köt. Az otthonteremtési kamattámogatás elszámolására a hitelintézet e szerződés megkötését követően jogosult.
+(2)[^94] A hitelintézet az otthonteremtési kamattámogatás folyósításáról és az azzal való elszámolás rendjéről, a pénzügyi ellenőrzéshez szükséges adatszolgáltatásról, valamint az e rendelet szerinti egyéb kötelezettségekről a miniszterrel és a Kincstárral szerződést köt. Az otthonteremtési kamattámogatás elszámolására a hitelintézet e szerződés megkötését követően jogosult.
 
 (3) Az otthonteremtési kamattámogatást az állam nevében a Kincstár nyújtja a folyósító hitelintézet utólagos havi elszámolása alapján.
 
-(4)[^94] A hitelintézet (3) bekezdés szerinti elszámolását a Kincstár ellenőrzi.
+(4)[^95] A hitelintézet (3) bekezdés szerinti elszámolását a Kincstár ellenőrzi.
 
 (5) Ha a Kincstár az (4) bekezdés szerinti ellenőrzés során a hitelintézet elszámolásában szabálytalanságot tár fel, az elszámolással kapcsolatos követelést a hitelintézettel szemben a polgári jog szabályai szerint érvényesíti és a miniszternél a (2) bekezdés szerinti szerződés felmondását kezdeményezheti.
 
-(6)[^95] A hitelintézet havi rendszerességgel, elektronikus úton megküldi a Kincstárnak ellenőrzési céllal az új támogatott személyek és nem támogatott személy hiteladósok alábbi adatait:
+(6)[^96] A hitelintézet havi rendszerességgel, elektronikus úton megküldi a Kincstárnak ellenőrzési céllal az új támogatott személyek és nem támogatott személy hiteladósok alábbi adatait:
 
 a) természetes személyazonosító adatok,
 
@@ -32,6 +32,6 @@ f) adóazonosító jel.
 
 (10) A (6)–(8) bekezdés szerinti adatszolgáltatások teljesítésének elmaradása esetén a miniszter az otthonteremtési kamattámogatás folyósítását felfüggeszti.
 
-[^93]: A 15. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 44. § c) pontja szerint módosított szöveg.
-[^94]: A 15. § (4) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 67. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^95]: A 15. § (6) bekezdés nyitó szövegrésze az 537/2013. (XII. 30.) Korm. rendelet 74. § g) pontja szerint módosított szöveg.
+[^94]: A 15. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 44. § c) pontja szerint módosított szöveg.
+[^95]: A 15. § (4) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 67. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^96]: A 15. § (6) bekezdés nyitó szövegrésze az 537/2013. (XII. 30.) Korm. rendelet 74. § g) pontja szerint módosított szöveg.
