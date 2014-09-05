@@ -26,7 +26,7 @@
 
 ## 1.8. A cég tulajdonosainak megnevezése a tulajdoni arányok %-ban történő feltüntetésével:
 
-## – magyar állami tulajdon:
+## – állami tulajdon:
 
 ## – önkormányzati tulajdon:
 

@@ -1,10 +1,10 @@
 36. § (1) Az ajánlatkérőnek az eljárásból ki kell zárnia azon részvételre jelentkezőt
 
-a)[^55] aki nem szerepel a jegyzéken és a beszerzési eljáráshoz kötődő minősítés ajánlatkérő által történő kezdeményezése érdekében nem csatolta a 2–5/A. melléklet szerinti kérdőíveket,
+a)[^58] aki nem szerepel a jegyzéken és a beszerzési eljáráshoz kötődő minősítés ajánlatkérő által történő kezdeményezése érdekében nem csatolta a 2–5/A. melléklet szerinti kérdőíveket,
 
 b) akit a beszerzéshez kötődő minősítési vizsgálat eredményeként a jegyzékre nem vesznek fel,
 
-c)[^56] aki a jegyzéken nem szereplő és alvállalkozóként bevonni kívánt gazdasági szereplő vonatkozásában az alvállalkozó beszerzési eljáráshoz kötődő minősítésének ajánlatkérő által történő kezdeményezése érdekében nem csatolta az alvállalkozó által kitöltött, 2–5/A. melléklet szerinti kérdőíveket,
+c)[^59] aki a jegyzéken nem szereplő és alvállalkozóként bevonni kívánt gazdasági szereplő vonatkozásában az alvállalkozó beszerzési eljáráshoz kötődő minősítésének ajánlatkérő által történő kezdeményezése érdekében nem csatolta az alvállalkozó által kitöltött, 2–5/A. melléklet szerinti kérdőíveket,
 
 d) akinek a kiegészítő ellenőrzése során a nemzetbiztonsági szolgálat az érintett beszerzési eljárás vonatkozásában nemzetbiztonsági kockázati tényező, vagy a nemzetbiztonsági szolgálat rendeltetésszerű működését veszélyeztető biztonsági kockázati tényező fennállását állapította meg.
 
@@ -28,5 +28,5 @@ b) aki a megelőző 3 éven belül a jegyzékre való felvételére irányuló e
 
 (9) Nem lehet részvételre jelentkező, ajánlattevő, alvállalkozó vagy az alkalmasság igazolásában részt vevő szervezet, aki a rendelet hatálya alá tartozó korábbi beszerzési eljárásban történő ajánlattételhez rendelkezésére bocsátott iratokat nem szolgáltatja vissza, továbbá az iratok visszaszolgáltatásától számított 2 évig az, aki a (7) bekezdés szerinti értesítés kézhezvételét követő 30. napon túl szolgáltatja vissza azokat.
 
-[^55]: A 36. § (1) bekezdés a) pontja a 286/2013. (VII. 26.) Korm. rendelet 18. § (6) bekezdése szerint módosított szöveg.
-[^56]: A 36. § (1) bekezdés c) pontja a 286/2013. (VII. 26.) Korm. rendelet 18. § (6) bekezdése szerint módosított szöveg.
+[^58]: A 36. § (1) bekezdés a) pontja a 286/2013. (VII. 26.) Korm. rendelet 18. § (6) bekezdése szerint módosított szöveg.
+[^59]: A 36. § (1) bekezdés c) pontja a 286/2013. (VII. 26.) Korm. rendelet 18. § (6) bekezdése szerint módosított szöveg.

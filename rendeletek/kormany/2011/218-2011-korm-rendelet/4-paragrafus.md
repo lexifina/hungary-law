@@ -16,7 +16,7 @@ a) a Kbt. 9. § (1) bekezdés c) és d) pontjában meghatározott beszerzésekre
 
 b) a Kbt. 9. § (1) bekezdés e) pontjában meghatározott beszerzésekre, amennyiben a beszerzést a nemzetközi szervezet a saját céljai érdekében hajtja végre, vagy a beszerzési eljárást a tagállam folytatja le a nemzetközi szervezet által meghatározott külön eljárási szabályok szerint,
 
-c) a magyar állam által egy másik kormányzattal vagy állammal megkötött szerződésekre, amelyeknek tárgya:
+c)[^11] az állam által egy másik kormányzattal vagy állammal megkötött szerződésekre, amelyeknek tárgya:
 
 ca) minősített adatot, az ország alapvető biztonsági, illetve nemzetbiztonsági érdekeit érintő vagy különleges biztonsági intézkedést igénylő felszerelés szállítása,
 
@@ -24,4 +24,7 @@ cb) közvetlenül ezekhez a felszerelésekhez kapcsolódó építési beruházá
 
 cc) minősített adatot, az ország alapvető biztonsági, illetve nemzetbiztonsági érdekeit érintő vagy különleges biztonsági intézkedést igénylő építési beruházások vagy szolgáltatások.
 
-(4) A (3) bekezdésben felsorolt esetekben a beszerzés körülményeinek vizsgálata alapján a Kormány – az iparügyekért felelős miniszter és a belügyminiszter közös előterjesztése alapján – egyedi feltételeket határozhat meg.
+(4)[^12] A (3) bekezdésben felsorolt esetekben a beszerzés körülményeinek vizsgálata alapján a Kormány – az iparügyekért felelős miniszter és a minősített adatok védelmének szakmai felügyeletéért felelős miniszter közös előterjesztése alapján – egyedi feltételeket határozhat meg.
+
+[^11]: A 4. § (3) bekezdés c) pont nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 575. § c) pontja szerint módosított szöveg.
+[^12]: A 4. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 575. § a) pontja szerint módosított szöveg.

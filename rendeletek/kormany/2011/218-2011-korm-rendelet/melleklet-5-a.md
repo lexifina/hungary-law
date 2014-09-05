@@ -18,7 +18,7 @@
 
 ## 1.4. A cég tulajdonosainak megnevezése a tulajdoni arányok %-ban történő feltüntetésével:
 
-## – magyar állami tulajdon:
+## – állami tulajdon:
 
 ## – önkormányzati tulajdon:
 
@@ -150,6 +150,6 @@
 
 ## cégszerű aláírás
 
-5/A. melléklet a 218/2011. (X. 19.) Korm. rendelethez[^96]
+5/A. melléklet a 218/2011. (X. 19.) Korm. rendelethez[^100]
 
-[^96]: Az 5/A. mellékletet a 286/2013. (VII. 26.) Korm. rendelet 19. § (3) bekezdése iktatta be.
+[^100]: Az 5/A. mellékletet a 286/2013. (VII. 26.) Korm. rendelet 19. § (3) bekezdése iktatta be.

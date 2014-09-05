@@ -1,4 +1,4 @@
-20. §[^39] (1) A gazdasági szereplők üzleti titkainak védelmére a Kbt. 80. §-ában foglaltakat kell alkalmazni.
+20. §[^42] (1) A gazdasági szereplők üzleti titkainak védelmére a Kbt. 80. §-ában foglaltakat kell alkalmazni.
 
 (2) Az ajánlatkérő – figyelemmel az 1. § (1) bekezdésre – a beszerzési eljárás során az eljárást megindító felhívás közzétételétől a nyertes ajánlattevővel történő szerződéskötésig keletkezett bármely adatot (ideértve a gazdasági szereplők által vagy azok részére átadott bizalmas adatot, valamint üzleti titkot is) kizárólag akkor hozhat nyilvánosságra, ha
 
@@ -10,4 +10,4 @@ b) a nyilvánosságra hozatalt e rendelet kifejezetten előírja.
 
 (4) A beszerzési eljárásban gazdasági szereplő kizárólag az ajánlatkérő előzetes értesítésével, annak egyetértése esetén hozhat nyilvánosságra a beszerzési eljárás során általa megismert adatot.
 
-[^39]: A 20. § a 286/2013. (VII. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^42]: A 20. § a 286/2013. (VII. 26.) Korm. rendelet 7. §-ával megállapított szöveg.

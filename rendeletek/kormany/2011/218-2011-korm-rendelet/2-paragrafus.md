@@ -6,7 +6,7 @@
 
 2. ajánlattevő: a Kbt. 4. § 1. pontjában meghatározottak;
 
-3.[^4] alvállalkozó: az a gazdasági szereplő, aki (amely) a közbeszerzési eljárás eredményeként megkötött szerződés teljesítésében az ajánlattevő által bevontan közvetlenül vesz részt, kivéve
+3.[^5] alvállalkozó: az a gazdasági szereplő, aki (amely) a közbeszerzési eljárás eredményeként megkötött szerződés teljesítésében az ajánlattevő által bevontan közvetlenül vesz részt, kivéve
 
 a) azon gazdasági szereplőt, amely tevékenységét kizárólagos jog alapján végzi,
 
@@ -68,17 +68,17 @@ cd) bontási és építési terület előkészítésében és utómunkálatokban
 
 26. személyellenőrzés: a hatáskörrel rendelkező nemzetbiztonsági szolgálat által az előzetes minősítési kérdőívben megjelölt személyeknek a külön jogszabály felhatalmazása alapján rendelkezésre álló adatkezelési rendszerekben történő ellenőrzése abból a célból, hogy az adott személy bevonása az e rendelet szerinti beszerzési eljárásokba jelent-e nemzetbiztonsági kockázatot;
 
-27.[^5] szerződési biztosíték: az ajánlatkérő által meghatározott, a beszerzési szerződést biztosító mellékkötelem, mely a gazdasági szereplő jegyzékből való törlése esetén történő szerződés megszűnéséből, illetve a 65. § (4) bekezdésében meghatározott rendelkezés alkalmazása esetén a jegyzékbevétel meghiúsulásából eredő kár megtérülésére szolgál;
+27.[^6] szerződési biztosíték: az ajánlatkérő által meghatározott, a beszerzési szerződést biztosító mellékkötelem, mely a gazdasági szereplő jegyzékből való törlése esetén történő szerződés megszűnéséből, illetve a 65. § (4) bekezdésében meghatározott rendelkezés alkalmazása esetén a jegyzékbevétel meghiúsulásából eredő kár megtérülésére szolgál;
 
 28. válság: a mindennapi élet kárt okozó eseményeinek mértékét egyértelműen túllépő és sok ember életét, egészségét jelentősen veszélyeztető, a vagyontárgyak értékére jelentős hatást gyakorló vagy a népesség létfontosságú ellátása érdekében intézkedéseket követelő esemény bekövetkezése vagy bekövetkezésének veszélye, továbbá a fegyveres konfliktusok és háborúk;
 
 29. védett foglalkoztató: a Kbt. 4. § 23. pontjában meghatározottak;
 
-30.[^6] kiemelt alvállalkozó: az az alvállalkozó, aki a teljesítése során „Korlátozott terjesztésű” adatot kezel, vagy érzékeny beszerzési területen végez tevékenységet.
+30.[^7] kiemelt alvállalkozó: az az alvállalkozó, aki a teljesítése során „Korlátozott terjesztésű” adatot kezel, vagy érzékeny beszerzési területen végez tevékenységet.
 
-31.[^7] atomerőművel kapcsolatos beszerzés: olyan atomerőműhöz kapcsolódó beszerzési eljárás, amely nukleáris biztonsággal vagy villamos energia termelésével, valamint nukleáris védettséggel összefüggő építési beruházásra, árubeszerzésre vagy szolgáltatás megrendelésére is irányul.
+31.[^8] atomerőművel kapcsolatos beszerzés: olyan atomerőműhöz kapcsolódó beszerzési eljárás, amely nukleáris biztonsággal vagy villamos energia termelésével, valamint nukleáris védettséggel összefüggő építési beruházásra, árubeszerzésre vagy szolgáltatás megrendelésére is irányul.
 
-32.[^8] érzékeny beszerzési terület: egy adott beszerzésnek az ajánlatkérő által a felhívásban vagy a dokumentációban meghatározott azon része, amely
+32.[^9] érzékeny beszerzési terület: egy adott beszerzésnek az ajánlatkérő által a felhívásban vagy a dokumentációban meghatározott azon része, amely
 
 a) az ország alapvető biztonsági érdekét érinti,
 
@@ -86,11 +86,11 @@ b) nemzetbiztonsági érdeket érint, vagy
 
 c) különleges biztonsági intézkedést igényel.
 
-(2)[^9] Ahol a Kbt. hivatkozott rendelkezéseiben közbeszerzési eljárás szerepel, azon e rendelet vonatkozásában beszerzési eljárást kell érteni.
+(2)[^10] Ahol a Kbt. hivatkozott rendelkezéseiben közbeszerzési eljárás szerepel, azon e rendelet vonatkozásában beszerzési eljárást kell érteni.
 
-[^4]: A 2. § (1) bekezdés 3. pontja a 286/2013. (VII. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § (1) bekezdés 27. pontja a 232/2012. (VIII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^6]: A 2. § (1) bekezdés 30. pontját a 286/2013. (VII. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^7]: A 2. § (1) bekezdés 31. pontját a 286/2013. (VII. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^8]: A 2. § (1) bekezdés 32. pontját a 286/2013. (VII. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^9]: A 2. § (2) bekezdése a 286/2013. (VII. 26.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés 3. pontja a 286/2013. (VII. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdés 27. pontja a 232/2012. (VIII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 2. § (1) bekezdés 30. pontját a 286/2013. (VII. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^8]: A 2. § (1) bekezdés 31. pontját a 286/2013. (VII. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^9]: A 2. § (1) bekezdés 32. pontját a 286/2013. (VII. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^10]: A 2. § (2) bekezdése a 286/2013. (VII. 26.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

@@ -20,6 +20,6 @@
 
 ## cégszerű aláírás
 
-5. melléklet a 218/2011. (X. 19.) Korm. rendelethez[^95]
+5. melléklet a 218/2011. (X. 19.) Korm. rendelethez[^99]
 
-[^95]: Az 5. melléklet a 286/2013. (VII. 26.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^99]: Az 5. melléklet a 286/2013. (VII. 26.) Korm. rendelet 19. § (2) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 575. § d) pontja szerint módosított szöveg.

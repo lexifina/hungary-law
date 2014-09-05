@@ -28,4 +28,6 @@
 
 ## m) A konzultációra szóló felhívás megküldésének napja:
 
-2. melléklet a 218/2011. (X. 19.) Korm. rendelethez
+2. melléklet a 218/2011. (X. 19.) Korm. rendelethez[^97]
+
+[^97]: A 2. melléklet a 221/2014. (IX. 4.) Korm. rendelet 575. § d) pontja szerint módosított szöveg.
