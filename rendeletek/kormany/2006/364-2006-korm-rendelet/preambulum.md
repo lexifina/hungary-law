@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 40. § (3) bekezdésében foglalt feladatkörében eljárva, továbbá az államháztartásról szóló 1992. évi XXXVIII. törvény 91/A. § (3) bekezdése alapján a következőket rendeli el:
