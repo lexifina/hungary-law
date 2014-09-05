@@ -1,3 +1,0 @@
-## „54. § A központi költségvetésben fejezetet alkotó, de a Kormány irányítási és felügyeleti jogkörébe nem tartozó szervek vonatkozásában a 23. § (1)–(4) bekezdésében, a 32. § (5) bekezdésében, valamint a 49. § (4) bekezdésében, az 51. § (1) bekezdés d) pontjában foglaltakat nem kell alkalmazni. E fejezetet irányító szervek vezetői a tárgyévet követő év április 15-ig tájékoztatják az államháztartásért felelős minisztert a 48. § a) pont ab) alpontjában és b) pont ba) alpontjában foglaltakról.”
-
-## 12. A járási (fővárosi kerületi) hivatalokról szóló 218/2012. (VIII. 13.) Korm. rendelet módosítása
