@@ -2,7 +2,7 @@
 
 (2) Az előterjesztés a közlekedés-szakmai szempontok közül legalább a következőket tartalmazza:
 
-a) annak feltüntetését, hogy a kötelezett rendelkezik-e a Vtv. 28. §-a szerinti, a Magyar Állammal kötött hatályos pályaműködtetési szerződéssel,
+a)[^1] annak feltüntetését, hogy a kötelezett rendelkezik-e a Vtv. 28. §-a szerinti, az állammal kötött hatályos pályaműködtetési szerződéssel,
 
 b) annak feltüntetését, hogy a kötelezett eleget tesz-e a pályaműködtetési szerződésből eredő kötelezettségeinek,
 
@@ -18,13 +18,13 @@ b) a hitelkonstrukció lényeges elemeit, így különösen a tervezett futamid�
 
 c) javaslatot a kezességvállalási díj mértékére és annak indokolását,
 
-d)[^1] a Kormány európai uniós források felhasználásáért felelős tagjának az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet szerinti álláspontját,
+d)[^2] az európai uniós források felhasználásáért felelős miniszternek az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet szerinti álláspontját,
 
 e) a hitelvisszafizetés valószínűségének és forrásának bemutatását, valamint a kezesség beváltásának valószínűségéről szóló tájékoztatást,
 
 f) a hitelfelvétel, továbbá a hiteltörlesztés forrása biztosításának költségvetési, valamint az államháztartásról szóló törvény szerinti maastrichti adósságmutatóra és maastrichti elsődleges egyenlegmutatóra gyakorolt várható hatását,
 
-g) a Magyar Állammal kötött hatályos pályaműködtetési szerződés alapján az állam által indokoltnak elismert költségek megtérítési összegét az adott évben,
+g)[^3] az állammal kötött hatályos pályaműködtetési szerződés alapján az állam által indokoltnak elismert költségek megtérítési összegét az adott évben,
 
 h) annak bemutatását, hogy miért nem került sor az állam által indokoltnak elismert költségek részben vagy egészben történő megtérítésére,
 
@@ -42,4 +42,6 @@ c) a kötelezettnél az utolsó lezárt üzleti év végén fennálló, hitelvis
 
 d) a kötelezett javára az előző 5 évben történt állami kezességvállalás tényéről és körülményeiről szóló tájékoztatás.
 
-[^1]: A 3. § (3) bekezdés d) pontja az 550/2013. (XII. 30.) Korm. rendelet 72. §-a szerint módosított szöveg.
+[^1]: A 3. § (2) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 581. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdés d) pontja az 550/2013. (XII. 30.) Korm. rendelet 72. §-a, a 221/2014. (IX. 4.) Korm. rendelet 581. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (3) bekezdés g) pontja a 221/2014. (IX. 4.) Korm. rendelet 581. § a) pontja szerint módosított szöveg.
