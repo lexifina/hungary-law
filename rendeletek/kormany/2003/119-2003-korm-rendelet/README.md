@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-119-20-
 | --- | --- | --- |
 | 2003-08-14 | 2003-119-20-22.1 | 119/2003. (VIII. 14.) Korm. rendelet |
 | 2014-03-15 | 2003-119-20-22.2 | 80/2014. (III. 14.) Korm. rendelet |
+| 2014-09-05 | 2003-119-20-22.3 | 221/2014. (IX. 4.) Korm. rendelet |
