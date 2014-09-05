@@ -4,4 +4,6 @@
 
 (2) Az (1) bekezdés szerinti kölcsön a beruházás lakásonkénti költsége 90%-áig nyújtható a kiskorú gyermek ellátásáról saját háztartásában gondoskodó kölcsönfelvevő lakástulajdonosok vagy azon lakóépületek esetében, amelyekre az építési engedélyt 1982. november 1-je előtt adták ki.
 
-(3) A kölcsönt a pénzintézetekhez beadott pályázat útján lehet igényelni, kamatait és feltételeit üzletszabályzatuk tartalmazza. A pályázati feltételeket a hitelbenyújtásban részt vevő pénzintézetek teszik közzé. Az (1) és (2) bekezdés alapján megkötött szerződések kölcsönfelvevői a támogatással csökkentett kamatot fizetik meg. Az állami támogatás összegének elszámolásáról a Pénzügyminisztérium gondoskodik a pénzintézettel kötött megállapodás alapján.
+(3)[^1] A kölcsönt a pénzintézetekhez beadott pályázat útján lehet igényelni, kamatait és feltételeit üzletszabályzatuk tartalmazza. A pályázati feltételeket a hitelbenyújtásban részt vevő pénzintézetek teszik közzé. Az (1) és (2) bekezdés alapján megkötött szerződések kölcsönfelvevői a támogatással csökkentett kamatot fizetik meg. Az állami támogatás összegének elszámolásáról az államháztartásért felelős miniszter gondoskodik a pénzintézettel kötött megállapodás alapján.
+
+[^1]: A 6. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 168. §-a szerint módosított szöveg.
