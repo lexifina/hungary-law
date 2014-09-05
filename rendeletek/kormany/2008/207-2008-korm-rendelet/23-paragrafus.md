@@ -1,3 +1,0 @@
-## 22. § Az Épkiv. a következő 13/A. §-sal egészül ki:
-
-## „13/A. § Építmény vagy építményrész építőipari kivitelezése esetén a kivitelezési tevékenység teljes körű irányítását (ideértve a szakági munkákat is) az építési műszaki ellenőri, valamint a felelős műszaki vezetői szakmagyakorlási jogosultság részletes szabályairól szóló 244/2006. (XII. 5.) Korm. rendelet 1. melléklete szerinti MV-Ép/A, MV-Ép/AM, MV-Ép/B névjegyzéki jelöléssel nyilvántartásba vett felelős műszaki vezető önállóan csak a 16. § (3) bekezdés a) pontban meghatározott méretet meg nem haladó, továbbá a 16. § (3) bekezdés b)–g) pont és a 16. § (4) bekezdés szerinti építmények esetében láthatja el.”

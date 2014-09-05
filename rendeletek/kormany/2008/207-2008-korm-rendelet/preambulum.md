@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva, a közbeszerzésekről szóló 2003. évi CXXIX. törvény 404. § (1) bekezdés b) és f) pontjában, az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 62. § (1) bekezdés a), o) és q) pontjában kapott felhatalmazás alapján a következőket rendeli el:

@@ -1,1 +1,0 @@
-## „(7) A (6) bekezdés szerinti tartalmú táblát kell elhelyezni a műemlékvédelem alatt álló építményt érintő – a 24. § szerinti utólagos bejelentési kötelezettség hatálya alá tartozó – építőipari kivitelezési tevékenység végzése során.”
