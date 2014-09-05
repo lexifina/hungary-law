@@ -2,4 +2,6 @@
 
 a) a határterület egészére vagy egyes szakaszaira, illetve
 
-b) az Európai Unió tagállamai között belső járatként közlekedő légi, vasúti és vízi járatoknak a Magyar Köztársaság államhatárának átlépésére
+b)[^1] az Európai Unió tagállamai között belső járatként közlekedő légi, vasúti és vízi járatoknak Magyarország államhatárának átlépésére
+
+[^1]: Az 1. § b) pontja a 221/2014. (IX. 4.) Korm. rendelet 416. § a) pontja szerint módosított szöveg.

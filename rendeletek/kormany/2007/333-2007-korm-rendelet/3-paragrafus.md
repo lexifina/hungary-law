@@ -1,6 +1,6 @@
 ## kezdeményezi a Kormánynál.
 
-3. § (1) Az igazságügyi és rendészeti miniszter feladata
+3. § (1)[^3] A határrendészetért felelős miniszter feladata
 
 a) a Kormány előzetes hozzájárulása alapján a Közösségi Kódex 24. cikkében meghatározott értesítés és egyeztetés,
 
@@ -10,4 +10,7 @@ c) az ideiglenesen visszaállított határellenőrzés meghosszabbításakor a K
 
 d) a nyilvánosság Közösségi Kódex 30. cikkében meghatározott tájékoztatása.
 
-(2) A határellenőrzés ideiglenes visszaállításáról az igazságügyi és rendészeti miniszter tájékoztatja azokat a Magyar Köztársasággal szomszédos államokat, amelyek nem tagállamai az Európai Uniónak.
+(2)[^4] A határellenőrzés ideiglenes visszaállításáról határrendészetért felelős miniszter tájékoztatja azokat a Magyarországgal szomszédos államokat, amelyek nem tagállamai az Európai Uniónak.
+
+[^3]: A 3. § (1) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 416. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 416. § c) pontja szerint módosított szöveg.
