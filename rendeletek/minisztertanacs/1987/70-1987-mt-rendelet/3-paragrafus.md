@@ -128,6 +128,6 @@
 
 3. § (1) E rendelet kihirdetése napján lép hatályba rendelkezéseit azonban 1987. november 1. napjától kezdődően kell alkalmazni.
 
-(2)[^2] A rendelet végrehajtásáról az Országos Atomenergia Hivatal főigazgatója az érdekelt miniszterekkel egyetértésben gondoskodik.
+(2)[^2] A rendelet végrehajtásáról az energiapolitikáért felelős miniszter és az Országos Atomenergia Hivatal főigazgatója gondoskodik.
 
-[^2]: A 3. § (2) bekezdése a 87/1997. (V. 28.) Korm. rendelet 22. §-a (2) bekezdésének c) pontja szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdése a 87/1997. (V. 28.) Korm. rendelet 22. § (2) bekezdés c) pontja, a 221/2014. (IX. 4.) Korm. rendelet 104. §-a szerint módosított szöveg.
