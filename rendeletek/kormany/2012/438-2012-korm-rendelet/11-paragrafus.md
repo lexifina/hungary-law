@@ -16,9 +16,9 @@ f) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék hasz
 
 g) a hulladéklerakókra jutó szerves anyag mennyiségének csökkentése érdekében tervezett intézkedések leírását, módját, továbbá azt, hogy a szerves anyag mennyiség csökkentéséhez a közszolgáltató milyen feltételek biztosítását tartja szükségesnek, figyelemmel a biológiailag lebomló hulladék hasznosításának elvére.
 
-(2)[^1] A közszolgáltatási hulladékgazdálkodási tervekről az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: OKTF) nyilvántartást vezet.
+(2)[^2] A közszolgáltatási hulladékgazdálkodási tervekről az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: OKTF) nyilvántartást vezet.
 
-(3)[^2] Az OKTF a közszolgáltatási hulladékgazdálkodási terveket beérkezésüket követően összesíti, majd az összesített tervekről készített összefoglaló jelentését a tárgyévet követő év végéig a környezetvédelemért felelős miniszter részére megküldi.
+(3)[^3] Az OKTF a közszolgáltatási hulladékgazdálkodási terveket beérkezésüket követően összesíti, majd az összesített tervekről készített összefoglaló jelentését a tárgyévet követő év végéig a környezetvédelemért felelős miniszter és a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős miniszter részére megküldi.
 
-[^1]: A 11. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 128. §-a szerint módosított szöveg.
-[^2]: A 11. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 128. § b) pontja szerint módosított szöveg.
+[^2]: A 11. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 128. §-a szerint módosított szöveg.
+[^3]: A 11. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 128. § b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 711. §-a szerint módosított szöveg.
