@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-295-20-
 | 2013-01-01 | 2004-295-20-22.26 | 447/2012. (XII. 29.) Korm. rendelet |
 | 2014-01-01 | 2004-295-20-22.27 | 520/2013. (XII. 30.) Korm. rendelet |
 | 2014-04-19 | 2004-295-20-22.28 | 45/2007. (III. 20.) Korm. rendelet |
+| 2014-09-05 | 2004-295-20-22.29 | 221/2014. (IX. 4.) Korm. rendelet |
