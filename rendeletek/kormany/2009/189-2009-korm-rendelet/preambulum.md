@@ -1,1 +1,0 @@
-A Kormány a felnőttképzésről szóló 2001. évi CI. törvény 4. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében a következőket rendeli el:
