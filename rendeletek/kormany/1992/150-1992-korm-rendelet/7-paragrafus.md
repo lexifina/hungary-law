@@ -6,7 +6,7 @@
 
 (3) Az (1)—(2) bekezdés rendelkezései nem terjednek ki a gazdasági, műszaki, igazgatási magasabb vezető és vezető beosztásokra.
 
-(4)[^46] Az intézményvezető és az intézmény gazdasági vezető megbízás ellátására vonatkozó pályázati felhívás a hivatalos lapban közzétehető. A pályázat benyújtásának határidejét minden esetben a Kormányzati Személyügyi Szolgáltató és Közigazgatási Képzési Központ (KSZK) internetes oldalán történő közzétételtől kell számítani.
+(4)[^46] Az intézményvezető és az intézmény gazdasági vezető megbízás ellátására vonatkozó pályázati felhívás a hivatalos lapban közzétehető. A pályázat benyújtásának határidejét minden esetben a személyügyi központ internetes oldalán történő közzétételtől kell számítani.
 
 (5) A pályázati felhívásnak tartalmaznia kell: a vezetői megbízatás feltételeit és a kapcsolódó juttatásokat, a megbízás kezdő időpontját, a pályázat benyújtásának helyét és határidejét, ami 30 napnál rövidebb nem lehet. A pályáztatónak biztosítania kell, hogy a pályázat iránt érdeklődők a pályázatok elkészítéséhez szükséges tájékoztatást megkapják, az intézményt megismerhessék.
 
@@ -23,7 +23,7 @@
 [^43]: A 7. §-t megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 16. § e) pontja hatályon kívül helyezte.
 [^44]: A 7. § (1) bekezdése a 150/2010. (IV. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^45]: A 7. § (2) bekezdése a 112/2001. (VI. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^46]: A 7. § (4) bekezdése a 150/2010. (IV. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^46]: A 7. § (4) bekezdése a 150/2010. (IV. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 146. § b) pontja szerint módosított szöveg.
 [^47]: A 7. § (6) bekezdése a 3/2009. (I. 10.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^48]: A 7. § (7) bekezdése a 90/2010. (III. 26.) Korm. rendelet 64. §-ával megállapított szöveg.
 [^49]: A 7. § (8) bekezdését a 150/2010. (IV. 30.) Korm. rendelet 16. § f) pontja hatályon kívül helyezte.
