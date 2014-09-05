@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-217-20-
 | 2014-01-01 | 1997-217-20-22.110 | 520/2013. (XII. 30.) Korm. rendelet |
 | 2014-02-25 | 1997-217-20-22.111 | 40/2014. (II. 24.) Korm. rendelet |
 | 2014-07-19 | 1997-217-20-22.112 | 169/2014. (VII. 18.) Korm. rendelet |
+| 2014-09-05 | 1997-217-20-22.113 | 221/2014. (IX. 4.) Korm. rendelet |
