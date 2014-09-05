@@ -96,6 +96,7 @@
 
 (2)[^1] Az e rendelet végrehajtásához szükséges intézkedésekről a Szellemi Tulajdon Nemzeti Hivatalának elnöke gondoskodik.
 
-(3) Az igazságügyi és rendészeti miniszter az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált szövegéhez kapcsolódó Végrehajtási Szabályzatnak a Végrehajtási Szabályzat módosításaival egységes szerkezetbe foglalt, hiteles szövegét és annak magyar nyelvű hivatalos fordítását a Magyar Közlönyben közzéteszi.
+(3)[^2] Az igazságügyért felelős miniszter az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált szövegéhez kapcsolódó Végrehajtási Szabályzatnak a Végrehajtási Szabályzat módosításaival egységes szerkezetbe foglalt, hiteles szövegét és annak magyar nyelvű hivatalos fordítását a Magyar Közlönyben közzéteszi.
 
 [^1]: A 3. § (2) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 460. §-a szerint módosított szöveg.
