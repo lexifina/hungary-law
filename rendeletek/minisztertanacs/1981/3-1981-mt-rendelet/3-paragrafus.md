@@ -172,6 +172,6 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1980. évi március hó 21. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a közlekedési és vízügyi[^2] miniszter gondoskodik.
+(2)[^2] E rendelet végrehajtásáról – az államháztartásért felelős miniszterrel és a közlekedésrendészetért felelős miniszterrel egyetértésben – a közlekedésért felelős miniszter gondoskodik.
 
-[^2]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 67. §-ával megállapított szöveg.
