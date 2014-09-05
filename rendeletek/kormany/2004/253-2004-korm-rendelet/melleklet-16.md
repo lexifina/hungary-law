@@ -2,7 +2,7 @@
 
 | A lőfegyver behozatalának (kivitelének, átszállításának) igazolása Attestation d’importation (d’exportation, de transit) de l’arme |  |  |
 
-| Nyilvántartási sz. Numéro d’enregistrement | Behozatal Importation | Kivitel Exportation |  | MAGYAR KÖZTÁRSASÁG Republique Hongroise |
+| Nyilvántartási sz. Numéro d’enregistrement | Behozatal Importation | Kivitel Exportation |  | MAGYARORSZÁG Hongrie |
 
 |  | Kelt: ......................... Date: P. H. .................................. L. S. vámőrség/Poste de douane | Kelt: ...................... Date: P. H. ................................ L. S. vámőrség/Poste de douane |  |  |
 
@@ -12,7 +12,7 @@
 
 | TUDNIVALÓK |  | AVIS! |  |  |
 
-| 1. A kísérő igazolvány feljogosítja annak tulajdonosát arra, hogy az igazolványban meghatározott fegyvert (lőszert) a Magyar Köztársaság területére behozhassa, annak területén rendeltetésének megfelelően használhassa és onnan kivihesse. |  | 1. Le titulaire du certificat d’accompagnement est autorisé importer dans le territoire de la République Hongroise l’arme (les munitions) définie(s) dans cettle feuille, (en faire usage dans ledit territoire conformément le destination de l’arme (des munitions) et l’en exporter. |  |  |
+| 1. A kísérő igazolvány feljogosítja annak tulajdonosát arra, hogy az igazolványban meghatározott fegyvert (lőszert) Magyarország területére behozhassa, annak területén rendeltetésének megfelelően használhassa és onnan kivihesse. |  | 1. Le titulaire du certificat d’accompagnement est autorisé importer dans le territoire de la République Hongroise l’arme (les munitions) définie(s) dans cettle feuille, (en faire usage dans ledit territoire conformément le destination de l’arme (des munitions) et l’en exporter. |  |  |
 
 | AZ IGAZOLVÁNY TULAJDONOSÁNAK neve: Nom DU TITULAIRE DU CERTIFICAT: |  |
 
@@ -58,6 +58,6 @@
 
 ## L. S.
 
-16. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^183]
+16. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^184]
 
-[^183]: A 16. melléklet a 39/2012. (III. 12.) Korm. rendelet 28. § c) pontjával megállapított szöveg.
+[^184]: A 16. melléklet a 39/2012. (III. 12.) Korm. rendelet 28. § c) pontjával megállapított szöveg.

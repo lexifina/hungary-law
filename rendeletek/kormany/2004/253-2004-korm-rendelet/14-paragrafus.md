@@ -1,4 +1,4 @@
-## 13. §[^32] A fegyver, lőszer gyártására, forgalmazására, javítására engedély abban az esetben adható, ha a kérelmező a Magyar Köztársaság területén a fegyver, lőszer tárolásának e rendeletben meghatározott feltételeivel rendelkezik, illetve e feltételeket biztosítja.
+## 13. §[^32] A fegyver, lőszer gyártására, forgalmazására, javítására engedély abban az esetben adható, ha a kérelmező Magyarország területén a fegyver, lőszer tárolásának e rendeletben meghatározott feltételeivel rendelkezik, illetve e feltételeket biztosítja.
 
 14. § (1) A fegyver gyártása, forgalmazása, javítása iránti kérelemnek a 3. számú mellékletben foglalt adatokat kell tartalmaznia.
 
@@ -18,7 +18,7 @@ d)[^35] a 11. § (1) bekezdése szerinti engedéllyel rendelkező személyeket.
 
 (4)[^37] A gyártási vagy forgalmazási engedéllyel rendelkező köteles az 5–8. számú mellékletek szerinti adatokat az Országos Rendőr-főkapitányság részére öt napon belül bejelenteni.
 
-[^32]: A 13. § a 21/2010. (II. 9.) Korm. rendelet 2. § (2)–(3) bekezdése, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^32]: A 13. § a 21/2010. (II. 9.) Korm. rendelet 2. § (2)–(3) bekezdése, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 5. pontja, a 221/2014. (IX. 4.) Korm. rendelet 282. § a) pontja szerint módosított szöveg.
 [^33]: A 14. § (1a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 13. §-a iktatta be.
 [^34]: A 14. § (2) bekezdés bevezető szövegrésze a 247/2009. (XI. 10.) Korm. rendelet 39. § d) pontja szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^35]: A 14. § (2) bekezdés d) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.

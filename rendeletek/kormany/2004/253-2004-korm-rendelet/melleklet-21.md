@@ -26,6 +26,6 @@
 
 | Engedélyezés dátuma: |
 
-21. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^186]
+21. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^187]
 
-[^186]: A 21. melléklet a 39/2012. (III. 12.) Korm. rendelet 28. § e) pontjával megállapított szöveg.
+[^187]: A 21. melléklet a 39/2012. (III. 12.) Korm. rendelet 28. § e) pontjával megállapított szöveg.
