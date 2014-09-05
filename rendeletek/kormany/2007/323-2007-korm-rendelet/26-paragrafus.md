@@ -1,6 +1,6 @@
 ## Az állami támogatásokra vonatkozó közös szabályok
 
-26. §[^70] (1) E rendelet alapján nem nyújtható támogatás:
+26. §[^69] (1) E rendelet alapján nem nyújtható támogatás:
 
 a) a 800/2008/EK rendelet 1. cikk (4) bekezdésében meghatározott célra, kivéve a turisztikai tevékenységekre irányuló programok esetében;
 
@@ -18,4 +18,4 @@ b) a 800/2008/EK rendelet 1. cikk (6) bekezdésében meghatározott támogatáso
 
 (7) Az e rendelet alapján több részletben kifizetendő támogatásokat a támogatás odaítélése időpontjában érvényes jelenértékre kell diszkontálni. A diszkontálás céljára a diszkont kamatlábat kell alkalmazni, melyet a támogatás odaítélésekor érvényes referencia alapkamatláb segítségével kell kiszámolni.
 
-[^70]: A 26. § és az azt megelőző alcím a 121/2009. (VI. 11.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^69]: A 26. § és az azt megelőző alcím a 121/2009. (VI. 11.) Korm. rendelet 10. §-ával megállapított szöveg.
