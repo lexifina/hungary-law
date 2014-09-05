@@ -46,11 +46,11 @@ Büntetőjogi felelősségem tudatában kijelentem, hogy a fenti adatok a valós
 
 (A következő részt csak az edző írja alá.)
 
-Tudomásul veszem, hogy az 1., 5., 6., 7. pontokban rögzített adatokban bekövetkező változást – a változást követő 8 napon belül – köteles vagyok az Önkormányzati és Területfejlesztési Minisztériumnak bejelenteni.
+Tudomásul veszem, hogy az 1., 5., 6., 7. pontokban rögzített adatokban bekövetkező változást – a változást követő 8 napon belül – köteles vagyok a sportpolitikáért felelős miniszter által vezetett minisztériumnak bejelenteni.
 
 (A következő részt az érmes és az edző írja alá.)
 
-Hozzájárulok, hogy az Önkormányzati és Területfejlesztési Minisztérium – a járadék megállapítása és folyósítása céljából – a kérelemben feltüntetett személyes adataimat az adatkezelésre vonatkozó jogszabályok szerint kezelje, az adatokat a Magyar Olimpiai Bizottsággal, a Magyar Paralimpiai Bizottsággal, illetve a Fogyatékosok Nemzeti Sportszövetségével, valamint az adatokban bekövetkezett esetleges változásokat a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervénél ellenőrizze.
+Hozzájárulok, hogy a sportpolitikáért felelős miniszter által vezetett minisztérium – a járadék megállapítása és folyósítása céljából – a kérelemben feltüntetett személyes adataimat az adatkezelésre vonatkozó jogszabályok szerint kezelje, az adatokat a Magyar Olimpiai Bizottsággal, a Magyar Paralimpiai Bizottsággal, illetve a Fogyatékosok Nemzeti Sportszövetségével, valamint az adatokban bekövetkezett esetleges változásokat a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervénél ellenőrizze.
 
 (A következő részt csak az edző tölti ki.)
 
@@ -78,4 +78,4 @@ Kelt: ........... év .............................. hó .............. 
 
 2 A szövetség elnöke a nyomtatvány aláírásával igazolja az edző kérelmének támogatását.
 
-[^20]: A 3. számú melléklet a 19/2008. (II. 5.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 314/2009. (XII. 28.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^20]: A 3. számú melléklet a 19/2008. (II. 5.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 314/2009. (XII. 28.) Korm. rendelet 21. §-a, a 221/2014. (IX. 4.) Korm. rendelet 261. §-a szerint módosított szöveg.
