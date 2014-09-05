@@ -4,9 +4,9 @@
 
 (1b)[^4] A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) az időskorúak járadéka, valamint az ápolási díj folyósítása érdekében a jogosultak folyósításhoz szükséges adatairól és a kifizetés havi összegéről – jogcím szerinti bontásban – minden hónap 10-éig értesíti a fővárosi és megyei kormányhivatalt (a továbbiakban: folyósító szerv).
 
-(1c)[^5] A folyósító szerv a beérkezett adatokat feldolgozza, és az összesítést követően a létszám- és kifizetési összeg adatokat minden hónap 15-éig, jogcím szerinti, járási hivatalonként történő bontásban – elektronikus úton – megküldi a közigazgatás-fejlesztésért felelős miniszter által vezetett minisztérium részére.
+(1c)[^5] A folyósító szerv a beérkezett adatokat feldolgozza, és az összesítést követően a létszám- és kifizetési összeg adatokat minden hónap 15-éig, jogcím szerinti, járási hivatalonként történő bontásban – elektronikus úton – megküldi a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium részére.
 
-(1d)[^6] A közigazgatás-fejlesztéséért felelős miniszter által vezetett minisztérium minden hónap 25-éig a folyósító szerv rendelkezésére bocsátja az (1b) bekezdés szerinti összeget, egyidejűleg az (1c) bekezdés szerinti adatokat – elektronikus úton – megküldi a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium részére.
+(1d)[^6] A közigazgatás-szervezésért felelős miniszter által vezetett minisztérium minden hónap 25-éig a folyósító szerv rendelkezésére bocsátja az (1b) bekezdés szerinti összeget, egyidejűleg az (1c) bekezdés szerinti adatokat – elektronikus úton – megküldi a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium részére.
 
 (2)[^7] Az (1) bekezdés szerinti ellátások kifizetésére az önkormányzatot – a (3) bekezdésben foglalt kivétellel – havonta előleg illeti meg. A tárgyév december hónapjában előleg nem igényelhető.
 
@@ -50,8 +50,8 @@ szerinti adatlap felhasználásával történik.
 [^2]: Az 1. § (1) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (1a) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^4]: Az 1. § (1b) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^5]: Az 1. § (1c) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^6]: Az 1. § (1d) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^5]: Az 1. § (1c) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 316. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § (1d) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 316. § b) pontja szerint módosított szöveg.
 [^7]: Az 1. § (2) bekezdése a 331/2011. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^8]: Az 1. § (2a) bekezdését a 331/2011. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^9]: Az 1. § (2b) bekezdését a 331/2011. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
