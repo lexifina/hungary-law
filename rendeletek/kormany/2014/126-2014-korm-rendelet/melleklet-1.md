@@ -1,4 +1,4 @@
-1. melléklet a 126/2014. (IV. 10.) Korm. rendelethez
+1. melléklet a 126/2014. (IV. 10.) Korm. rendelethez[^1]
 
 A 2014–2020-as időszakban a transznacionális és interregionális együttműködési programok végrehajtásában részt vevő szervezetek
 
@@ -18,4 +18,6 @@ A 2014–2020-as időszakban a transznacionális és interregionális együttmű
 
 | 7 | hitelesítési tevékenységre kijelölt szervezet | Nemzetgazdasági Tervezési Hivatal | Nemzetgazdasági Tervezési Hivatal | Nemzetgazdasági Tervezési Hivatal | – | – | Nemzetgazdasági Tervezési Hivatal |
 
-| 8 | az operatív program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás biztosítója | európai uniós források felhasználásáért felelős Miniszterelnökséget vezető államtitkár | európai uniós források felhasználásáért felelős Miniszterelnökséget vezető államtitkár | európai uniós források felhasználásáért felelős Miniszterelnökséget vezető államtitkár | európai uniós források felhasználásáért felelős Miniszterelnökséget vezető államtitkár | területfejlesztés stratégiai tervezéséért felelős miniszter | településfejlesztésért és településrendezésért felelős miniszter |
+| 8 | az operatív program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás biztosítója | európai uniós források felhasználásáért felelős miniszter | európai uniós források felhasználásáért felelős miniszter | európai uniós források felhasználásáért felelős miniszter | európai uniós források felhasználásáért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | településfejlesztésért és településrendezésért felelős miniszter |
+
+[^1]: Az 1. melléklet a 221/2014. (IX. 4.) Korm. rendelet 816. §-a szerint módosított szöveg.
