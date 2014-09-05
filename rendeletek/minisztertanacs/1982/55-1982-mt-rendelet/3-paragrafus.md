@@ -500,6 +500,7 @@
 
 (2)[^1]
 
-(3) E rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+(3)[^2] E rendelet végrehajtásáról az adópolitikáért felelős miniszter gondoskodik.
 
 [^1]: A 3. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1510. pontja hatályon kívül helyezte.
+[^2]: A 3. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 85. §-a szerint módosított szöveg.

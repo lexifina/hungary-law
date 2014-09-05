@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1982-55-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 1982-55-20-65.2 | 55/1982. (X. 22.) MT rendelet |
+| 2014-09-05 | 1982-55-20-65.3 | 221/2014. (IX. 4.) Korm. rendelet |
