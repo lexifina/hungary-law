@@ -1,6 +1,6 @@
 8. § (1)[^39] Ha az igénylő a hitelintézetnek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott kamattámogatáshoz, akkor az igénylő a folyósított összeget az igénybevétel napjától a Ptk. szerint számított kamataival együtt köteles visszafizetni.
 
-(2)[^40] A folyósító hitelintézet felelős a Magyar Állammal szemben minden olyan kárért, amely a jelen rendelet alapján őt terhelő kötelezettség megsértésével keletkezett. A hitelintézet felelőssége kiterjed a Hpt. szerinti pénzügyi szolgáltatást közvetítő ügynökére is, aki e rendelet szerinti támogatásokra való jogosultság bírálatát, valamint a támogatások nyújtásához kapcsolódó tevékenységet végez. Mentesül a hitelintézet a felelősség alól, ha bizonyítja, hogy maga vagy ügynöke úgy járt el, ahogy az az adott helyzetben tőle elvárható. A hitelintézet felelőssége nem terjed ki a 3. § (4) bekezdése szerinti megfelelőségi igazolás ellenőrzésére.
+(2)[^40] A folyósító hitelintézet felelős az állammal szemben minden olyan kárért, amely a jelen rendelet alapján őt terhelő kötelezettség megsértésével keletkezett. A hitelintézet felelőssége kiterjed a Hpt. szerinti pénzügyi szolgáltatást közvetítő ügynökére is, aki e rendelet szerinti támogatásokra való jogosultság bírálatát, valamint a támogatások nyújtásához kapcsolódó tevékenységet végez. Mentesül a hitelintézet a felelősség alól, ha bizonyítja, hogy maga vagy ügynöke úgy járt el, ahogy az az adott helyzetben tőle elvárható. A hitelintézet felelőssége nem terjed ki a 3. § (4) bekezdése szerinti megfelelőségi igazolás ellenőrzésére.
 
 (3) A kamattámogatásokat az állam nevében a Kincstár nyújtja a folyósító hitelintézet havi elszámolása alapján.
 
@@ -25,7 +25,7 @@
 (13)[^44] Az e rendelet szerinti kamattámogatásból eredő, támogatott személyt terhelő bejelentési kötelezettség teljesítését a hitelintézet a támogatott személy részére a bejelentéssel egyidejűleg, írásban igazolja.
 
 [^39]: A 8. § (1) bekezdése a 80/2014. (III. 14.) Korm. rendelet 21. §-a szerint módosított szöveg.
-[^40]: A 8. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 51. § g) pontja szerint módosított szöveg.
+[^40]: A 8. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 51. § g) pontja, a 221/2014. (IX. 4.) Korm. rendelet 448. § a) pontja szerint módosított szöveg.
 [^41]: A 8. § (5) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 67. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^42]: A 8. § (9) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 45. §-a szerint módosított szöveg.
 [^43]: A 8. § (11) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 45. §-a, a 80/2014. (III. 14.) Korm. rendelet 21. §-a szerint módosított szöveg.
