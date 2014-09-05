@@ -144,7 +144,7 @@
 
 | 71 | Fogtechnikus (55 724 01) | N | N | K | K | K | N | N | K | K | N | N | N | N | N | K | N | K | K | N | N |
 
-| 72 | Fogtechnikus gyakornok (54 724 01) | N | K | K | K | K | N | N | K | K | N | N | N | N | N | K | N | K | K | N | N |
+| 72 | Fogtechnikus gyakornok (54 724 01) | N | K | K | K | K | K | N | K | K | N | N | N | N | N | K | N | K | K | N | N |
 
 | 73 | Földmérő, földügyi és térinformatikai technikus (54 581 01) | N | K | K | K | K | N | N | N | T | N | N | N | T | N | N | N | N | K | N | N |
 
@@ -580,7 +580,7 @@
 
 |  | K: korlátozottan támogatott [az 1. § (2) bekezdés c) pontja szerint] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-2. melléklet az 562/2013. (XII. 31.) Korm. rendelethez[^4]
+2. melléklet az 562/2013. (XII. 31.) Korm. rendelethez[^6]
 
 | 1. A korlátozottan támogatott szakképesítések keretszámai fenntartónként és megyénként |
 
@@ -588,7 +588,7 @@
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U |
 
-| 1 | Szakképesítés megnevezése (száma) | Keretszám | VM | KLIK | EJSZ13 | EJSZ15 | EJSZ20 | EJSZ5 | EJSZ9 | KA7 | KA8 | MF11 | MF112 | MF116 | MF132 | MF47 | MF58 | MF63 | MF65 | MF67 | MF70 |
+| 1 | Szakképesítés megnevezése (száma) | Keretszám | FM | KLIK | EJSZ13 | EJSZ15 | EJSZ20 | EJSZ5 | EJSZ9 | KA7 | KA8 | MF11 | MF112 | MF116 | MF132 | MF47 | MF58 | MF63 | MF65 | MF67 | MF70 |
 
 | 2 | Agrár áruforgalmazó szaktechnikus (55 621 01) | 34 | 34 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -800,4 +800,4 @@
 
 | 106 | Vízügyi technikus (54 853 01) | 16 |  |  |  |  | 16 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^4]: A 2. melléklet a 136/2014. (IV. 24.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
+[^6]: A 2. melléklet a 136/2014. (IV. 24.) Korm. rendelet 30. § b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 798. §-a és 799. § c)–d) pontja szerint módosított szöveg.
