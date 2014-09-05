@@ -4,7 +4,7 @@
 
 ## 7. § Ezen alcím alkalmazásában foglalkoztató szervezet
 
-a) a Miniszterelnökség,
+a)[^1]
 
 b) a minisztériumok,
 
@@ -19,3 +19,5 @@ f) a Magyar Honvédség,
 g) a fővárosi és megyei kormányhivatalok, valamint
 
 h) az a)–g) pont szerinti szervek által irányított vagy felügyelt költségvetési szervek.
+
+[^1]: A 7. § a) pontját a 221/2014. (IX. 4.) Korm. rendelet 751. §-a hatályon kívül helyezte.

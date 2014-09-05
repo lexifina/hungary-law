@@ -18,6 +18,6 @@
 
 ## h) Dátum, aláírás
 
-3. melléklet a 303/2013. (VII. 31.) Korm. rendelethez[^3]
+3. melléklet a 303/2013. (VII. 31.) Korm. rendelethez[^7]
 
-[^3]: A 3. melléklet a 447/2013. (XI. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 3. melléklet a 221/2014. (IX. 4.) Korm. rendelet 749. §-ával megállapított szöveg.

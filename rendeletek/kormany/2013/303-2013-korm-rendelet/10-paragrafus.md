@@ -1,4 +1,4 @@
-## 9. § A Miniszterelnökségen minden foglalkoztatási jogviszony nemzetbiztonsági ellenőrzés alá esik.
+## 9. §[^3]
 
 10. § (1) A minisztériumok hivatali szervezetében a következő munkakörök betöltésére irányuló jogviszonyok minősülnek az Nbtv. 74. § i) pont in) alpontja szerinti nemzetbiztonsági ellenőrzés alá eső jogviszonynak:
 
@@ -16,7 +16,7 @@
 
 7. a nemzetbiztonsági ellenőrzéssel kapcsolatban a minisztériumban kijelölt biztonsági megbízott.
 
-(2)[^1] A 7. § c)–g) pontjában meghatározott szerveknél a következő munkakörök betöltésére irányuló jogviszonyok minősülnek az Nbtv. 74. § i) pont in) alpontja szerinti nemzetbiztonsági ellenőrzés alá eső jogviszonynak:
+(2)[^4] A 7. § c)–g) pontjában meghatározott szerveknél a következő munkakörök betöltésére irányuló jogviszonyok minősülnek az Nbtv. 74. § i) pont in) alpontja szerinti nemzetbiztonsági ellenőrzés alá eső jogviszonynak:
 
 1. a belső ellenőr,
 
@@ -26,4 +26,5 @@
 
 (4) A foglalkoztató szervezettel foglalkoztatási jogviszonyban vagy a Polgári Törvénykönyv szerinti szerződéses jogviszonyban álló személy jogviszonya az Nbtv. 74. § i) pont in) alpontja szerinti nemzetbiztonsági ellenőrzés alá eső jogviszonynak minősül, ha külszolgálatra jelölik vagy helyezik ki.
 
-[^1]: A 10. § (2) bekezdés nyitó szövegrésze a 447/2013. (XI. 20.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 9. §-t a 221/2014. (IX. 4.) Korm. rendelet 751. §-a hatályon kívül helyezte.
+[^4]: A 10. § (2) bekezdés nyitó szövegrésze a 447/2013. (XI. 20.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
