@@ -6,8 +6,10 @@
 
 (3) Az államháztartásért felelős miniszter szakmai szempontok figyelembevételével 8 napon belül megküldi megerősítő-, vagy ellenvéleményét a fejezetet irányító szerv vezetőjének.
 
-(4) Minisztériumok esetében a belső ellenőrzési vezető jelölt szakmai önéletrajzát az (1)–(3) bekezdésben foglaltakon túl az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 6. § (7) bekezdése alapján a Kormányzati Ellenőrzési Hivatal elnökének is meg kell küldeni véleményezés céljából.
+(4)[^16] Minisztériumok esetében a belső ellenőrzési vezető jelölt szakmai önéletrajzát az (1)–(3) bekezdésben foglaltakon túl a Kormányzati Ellenőrzési Hivatal elnökének is meg kell küldeni véleményezés céljából.
 
 (5) Amennyiben törvény eltérően nem rendelkezik, a fejezetet irányító szerv belső ellenőrzési vezetőjét a fejezetet irányító szerv vezetője, minisztériumok esetén a költségvetési szerv vezetője nevezi ki, menti fel, helyezi át.
 
 (6) Amennyiben törvény eltérően nem rendelkezik, a fejezet irányítása alá tartozó szervek esetén a belső ellenőrzési vezetőjét az irányító szerv vezetőjének egyetértésével a költségvetési szerv vezetője nevezi ki, menti fel, helyezi át.
+
+[^16]: A 23. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 629. §-a szerint módosított szöveg.
