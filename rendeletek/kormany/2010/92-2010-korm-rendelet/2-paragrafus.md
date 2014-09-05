@@ -9,3 +9,5 @@ a) Szigorúan titkos, Titkos, Bizalmas,
 b) NATO Titkos, NATO Bizalmas,
 
 c) EU Titkos, EU Bizalmas
+
+minősítési szintekre adható ki.
