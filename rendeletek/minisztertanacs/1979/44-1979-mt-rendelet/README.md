@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1979-44-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1991-01-01 | 1979-44-20-65.2 | 44/1979. (XI. 10.) MT rendelet |
+| 2014-09-05 | 1979-44-20-65.3 | 2016: XCV. törvény |
