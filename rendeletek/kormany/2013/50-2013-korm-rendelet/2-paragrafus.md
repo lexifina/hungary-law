@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya a Kormány irányítása vagy felügyelete alatt álló államigazgatási szervekre, és azok munkatársaira terjed ki, a rendvédelmi szervek kivételével.
+## 1. §[^1] E rendelet hatálya a Kormány irányítása vagy felügyelete alatt álló államigazgatási szervekre, és azok munkatársaira terjed ki, a rendvédelmi szervek és a Katonai Nemzetbiztonsági Szolgálat kivételével.
 
 ## 2. § E rendelet alkalmazásában
 
@@ -9,3 +9,5 @@ b) integritásirányítási rendszer: a vezetési és irányítási rendszernek 
 c) integritási kockázat: az államigazgatási szerv integritása sérülésének lehetősége;
 
 d) korrupciós kockázat: a jogtalan előny nyújtásának vagy megszerzésének lehetősége.
+
+[^1]: Az 1. § a 221/2014. (IX. 4.) Korm. rendelet 719. § a) pontja szerint módosított szöveg.
