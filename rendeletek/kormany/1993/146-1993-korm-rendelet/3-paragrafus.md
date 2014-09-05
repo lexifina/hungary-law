@@ -14,7 +14,9 @@
 
 (4b)[^8] Az Nytv. 4. § (2a) bekezdés f) pontja szerinti magyar állampolgárt a magyar hatóság által vezetett anyakönyvbe bejegyzett adatokkal a hazai anyakönyvezést végző hatóság veszi nyilvántartásba.
 
-(5)[^9] A külföldön élő magyar állampolgár a konzuli tisztviselőnél, a központi szervnél vagy a tartózkodási helye szerint illetékes járási hivatalnál is bejelentheti a nyilvántartott adatai változását, megteheti vagy visszavonhatja a korlátozó nyilatkozatát.
+(4c)[^9] Az Nytv. 4. § (2a) bekezdés g) pontja szerinti magyar állampolgárt a magyar hatóság által vezetett anyakönyvbe bejegyzett adatokkal a születés helye szerinti anyakönyvvezető veszi nyilvántartásba.
+
+(5)[^10] A külföldön élő magyar állampolgár a konzuli tisztviselőnél, a központi szervnél vagy a tartózkodási helye szerint illetékes járási hivatalnál is bejelentheti a nyilvántartott adatai változását, megteheti vagy visszavonhatja a korlátozó nyilatkozatát.
 
 (6) A (2) bekezdés szerinti, kérelemre induló nyilvántartási eljárásban, ha az érintett magyar állampolgárságát a magyar állampolgárságról szóló törvény szerint nem tudja igazolni, az állampolgárság megállapítása iránt az állampolgársági ügyekben eljáró szervet kell megkeresni.
 
@@ -25,4 +27,5 @@
 [^6]: Az R. 3. § (3) bekezdése 417/2012. (XII. 29.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^7]: Az R. 3. § (4a) bekezdését 417/2012. (XII. 29.) Korm. rendelet 11. § (2) bekezdése iktatta be.
 [^8]: Az R. 3. § (4b) bekezdését 417/2012. (XII. 29.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^9]: Az R. 3. § (5) bekezdése 417/2012. (XII. 29.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^9]: Az R. 3. § (4c) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 150. §-a iktatta be.
+[^10]: Az R. 3. § (5) bekezdése 417/2012. (XII. 29.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.

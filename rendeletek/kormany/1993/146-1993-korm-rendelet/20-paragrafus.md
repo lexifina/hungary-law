@@ -1,10 +1,8 @@
 ## (Az Nytv. 14—16. §-aihoz)
 
-## Értesítési kötelezettségek a nyilvántartás számára[^136]
+## Értesítési kötelezettségek a nyilvántartás számára[^142]
 
-20. §[^137] (1) Az anyakönyvvezető a születési, házassági és halálozási anyakönyvbe, valamint a bejegyzett élettársi kapcsolatok anyakönyvébe bejegyzett alap-, valamint az utólagos bejegyzésekből és kijavításokból eredő adatváltozásokat öt napon belül átvezeti a nyilvántartáson.
+20. §[^143] Az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvbe történő bejegyzésből eredő adatváltozásokat, adatjavításokat haladéktalanul átvezeti a nyilvántartáson.
 
-(2) A hazai anyakönyvezésre kijelölt szerv az általa a születési, házassági és halálozási anyakönyvbe, valamint a bejegyzett élettársi kapcsolatok anyakönyvébe bejegyzett alap-, valamint az utólagos bejegyzésekből és kijavításokból eredő adatváltozásokat öt napon belül átvezeti a nyilvántartáson.
-
-[^136]: Az R. 20. § -a előtti alcím a 13/1999. ( II.1.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^137]: Az R. 20. § a 417/2012. (XII. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^142]: Az R. 20. § -a előtti alcím a 13/1999. ( II.1.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^143]: Az R. 20. §-a a 221/2014. (IX. 4.) Korm. rendelet 154. §-ával megállapított szöveg.

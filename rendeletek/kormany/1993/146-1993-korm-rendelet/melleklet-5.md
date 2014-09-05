@@ -12,7 +12,7 @@
 
 ## – telefonszám.
 
-5. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^241]
+5. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^247]
 
 Külföldi letelepedésre vonatkozó nyilatkozat adattartalma
 
@@ -50,4 +50,4 @@ Külföldi letelepedésre vonatkozó nyilatkozat adattartalma
 
 2.2. ügyintéző aláírása.
 
-[^241]: Az R. 5. számú mellékletét a 417/2012. (XII. 29.) Korm. rendelet 38. § (2) bekezdés a) pontja iktatta be.
+[^247]: Az R. 5. számú mellékletét a 417/2012. (XII. 29.) Korm. rendelet 38. § (2) bekezdés a) pontja iktatta be.

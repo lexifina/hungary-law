@@ -1,4 +1,4 @@
-45. §[^222] A nyilvántartás központi, területi és helyi szerve a következő nyilvántartásokat vezeti:
+45. §[^228] A nyilvántartás központi, területi és helyi szerve a következő nyilvántartásokat vezeti:
 
 a) adatszolgáltatási nyilvántartást, az általa teljesített adatszolgáltatásokról;
 
@@ -8,4 +8,4 @@ c) üzemeltetési naplót;
 
 d) technikai háttérnyilvántartást (gép-, szerv- és szoftvernyilvántartás).
 
-[^222]: Az R. 45. §-a a 230/2000. (XII. 23.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^228]: Az R. 45. §-a a 230/2000. (XII. 23.) Korm. rendelet 21. §-ával megállapított szöveg.
