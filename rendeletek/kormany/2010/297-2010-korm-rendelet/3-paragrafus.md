@@ -1,6 +1,6 @@
 ## 2. Visszaléptetés
 
-3. §[^1] (1) A magánnyugdíjpénztár a függő tételként nyilvántartott befizetések Nyugdíjreform és Adósságcsökkentő Alap (a továbbiakban: Alap) részére történő átadása során figyelmen kívül hagyja azokat az eszközöket, amelyeket az Alap bármely okból nem szerezhet meg (így különösen, amely eszköz tulajdonjogát nem szerezheti meg, az ügylet alanyává nem válhat), továbbá azokat, amelynek az Alap részére történő átruházása bármely egyéb okból nem lehetséges 2011. június 12. napjáig. Ilyen eszközök a függő tételek fedezetéül átadott eszközök között nem szerepelhetnek és ezen eszközök értékének megfelelő pénzösszeget kell az Alap részére átadni.
+3. §[^3] (1) A magánnyugdíjpénztár a függő tételként nyilvántartott befizetések Nyugdíjreform és Adósságcsökkentő Alap (a továbbiakban: Alap) részére történő átadása során figyelmen kívül hagyja azokat az eszközöket, amelyeket az Alap bármely okból nem szerezhet meg (így különösen, amely eszköz tulajdonjogát nem szerezheti meg, az ügylet alanyává nem válhat), továbbá azokat, amelynek az Alap részére történő átruházása bármely egyéb okból nem lehetséges 2011. június 12. napjáig. Ilyen eszközök a függő tételek fedezetéül átadott eszközök között nem szerepelhetnek és ezen eszközök értékének megfelelő pénzösszeget kell az Alap részére átadni.
 
 (2) A magánnyugdíjpénztár az Alap részére a pénzeszközöket és pénzügyi eszközöket oly módon köteles átadni, hogy azok felett az Alap per-, teher-, igény- és mindenfajta korlátozástól mentes tulajdonjogot szerezzen.
 
@@ -12,4 +12,4 @@
 
 (6) A visszaléptetés során a magánnyugdíjpénztár az eszközök átadásával és az átutalásokkal kapcsolatos tényleges banki, tőzsdei, elszámolóházi és postai költségeket a tagi követeléssel szemben érvényesítheti.
 
-[^1]: A 3. § a 87/2011. (V. 31.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § a 87/2011. (V. 31.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
