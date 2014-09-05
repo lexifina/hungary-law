@@ -2,4 +2,6 @@
 
 21. § (1) A NATO Válságreagálási Intézkedések szövetségi szintű alkalmazását, illetve szövetségi válságreagáló képesség magyarországi igénybe vételét a nemzeti felelős útján kell kezdeményezni a NATO-nál.
 
-(2) A kezdeményezést a nemzeti felelős haladéktalanul, a külügyekért felelős miniszterrel együttműködve, a NATO-hoz delegált nemzeti képviseleteken keresztül juttatja el a NATO illetékes szervéhez.
+(2)[^3] A kezdeményezést a nemzeti felelős haladéktalanul, a külpolitikáért felelős miniszterrel együttműködve, a NATO-hoz delegált nemzeti képviseleteken keresztül juttatja el a NATO illetékes szervéhez.
+
+[^3]: A 21. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 592. §-a szerint módosított szöveg.
