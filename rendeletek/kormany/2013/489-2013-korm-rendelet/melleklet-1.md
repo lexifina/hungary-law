@@ -1,4 +1,4 @@
-## 34. §[^4]
+## 34. §[^8]
 
 1. melléklet a 489/2013. (XII. 18.) Korm. rendelethez
 
@@ -30,4 +30,4 @@
 
 3. Tájékoztató adatok a szakmai dolgozók létszámáról és átlagbéréről.
 
-[^4]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

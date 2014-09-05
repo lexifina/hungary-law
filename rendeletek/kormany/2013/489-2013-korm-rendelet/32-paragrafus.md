@@ -1,6 +1,6 @@
-32. § (1)[^1]
+32. § (1)[^5]
 
-(2)[^2]
+(2)[^6]
 
-[^1]: A 32. § (1) bekezdése a 30. § (2) bekezdése alapján 2014. november 1-jén lép hatályba.
-[^2]: A 32. § (2) bekezdése a 30. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^5]: A 32. § (1) bekezdése a 30. § (2) bekezdése alapján 2014. november 1-jén lép hatályba.
+[^6]: A 32. § (2) bekezdése a 30. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
