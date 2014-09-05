@@ -1,4 +1,4 @@
-8. § (1)[^4] Az államháztartásról szóló 2011. évi CXCV. törvény 104. § (1) bekezdése szerinti törzskönyvi nyilvántartás a Szolgálatokról a Szolgálat
+8. § (1)[^5] Az államháztartásról szóló 2011. évi CXCV. törvény 104. § (1) bekezdése szerinti törzskönyvi nyilvántartás a Szolgálatokról a Szolgálat
 
 1. törzskönyvi azonosító számát,
 
@@ -30,4 +30,4 @@ tartalmazza.
 
 (2) A törzskönyvi nyilvántartás szerinti, de kincstári nyilvántartásba nem vehető adatokat a Szolgálatok tartják nyilván. Ezen adatokról külső szerv csak a főigazgató engedélyével kaphat tájékoztatást.
 
-[^4]: A 8. § (1) bekezdése az 553/2013. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^5]: A 8. § (1) bekezdése az 553/2013. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.

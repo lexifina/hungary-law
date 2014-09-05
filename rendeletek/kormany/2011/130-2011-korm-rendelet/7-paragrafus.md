@@ -1,6 +1,6 @@
 ## 4. Beszámolási rendszer és adatszolgáltatás
 
-7. §[^3] (1) A Szolgálatok költségvetését a központi költségvetési tervezésnél Szolgálatonként, kiemelt előirányzatok szerinti bontásban kell szerepeltetni.
+7. §[^4] (1) A Szolgálatok költségvetését a központi költségvetési tervezésnél Szolgálatonként, kiemelt előirányzatok szerinti bontásban kell szerepeltetni.
 
 (2) A Szolgálatok a jogszabályokban meghatározott adatszolgáltatásokat a fejezetet irányító szerv részére küldik meg.
 
@@ -50,4 +50,4 @@
 
 kell megjeleníteni.
 
-[^3]: A 7. § az 553/2013. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^4]: A 7. § az 553/2013. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
