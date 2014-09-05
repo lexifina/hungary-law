@@ -94,6 +94,6 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban az 1977. évi március hó 16. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról a gazdasági[^2] miniszter gondoskodik.
+(2)[^2] E rendelet végrehajtásáról a turizmusért felelős miniszter gondoskodik.
 
-[^2]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 27. §-ával megállapított szöveg.
