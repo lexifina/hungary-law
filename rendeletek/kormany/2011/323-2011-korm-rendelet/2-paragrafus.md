@@ -1,6 +1,6 @@
 ## 2. A foglalkoztatási szerv kijelölése
 
-2. §[^1] (1) A Nemzeti Foglalkoztatási Szolgálat szervezetrendszere a Hivatalból, a munkaügyi központokból, valamint a kirendeltségekből áll.
+2. §[^3] (1) A Nemzeti Foglalkoztatási Szolgálat szervezetrendszere a Hivatalból, a munkaügyi központokból, valamint a kirendeltségekből áll.
 
 (2) A Kormány állami foglalkoztatási szervként a Hivatalt, a munkaügyi központot, valamint a kirendeltséget jelöli ki.
 
@@ -10,4 +10,4 @@
 
 (5) Ha kormányrendelet másként nem rendelkezik, az állami foglalkoztatási szerv hatáskörébe tartozó közigazgatási hatósági ügyekben első fokon a kirendeltségek járnak el. A Kormány az állami foglalkoztatási szerv azon feladataira, amelyre kormányrendelet más szervet nem jelölt ki, a munkaügyi központokat jelöli ki.
 
-[^1]: A 2. § a 174/2012. (VII. 26.) Korm. rendelet 89. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § a 174/2012. (VII. 26.) Korm. rendelet 89. § (1) bekezdésével megállapított szöveg.

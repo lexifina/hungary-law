@@ -20,6 +20,6 @@ c) irányítja a Nemzeti Foglalkoztatási Alap (a továbbiakban: NFA) felhaszná
 
 d) figyelemmel kíséri az NFA foglalkoztatási alaprésze decentralizált keretének a munkaügyi központok által történő felhasználását, valamint a kormányzati foglalkoztatáspolitika érvényesítését.
 
-(5)[^2] A munkaügyi központ és a kirendeltségek közfoglalkoztatási feladatai vonatkozásában a 6. § (1) bekezdés h) és i) pontjában meghatározott feladatokat a közfoglalkoztatásért felelős miniszter látja el.
+(5)[^4] A munkaügyi központ és a kirendeltségek közfoglalkoztatási feladatai vonatkozásában a 6. § (1) bekezdés h) és i) pontjában meghatározott feladatokat a közfoglalkoztatásért felelős miniszter látja el.
 
-[^2]: Az 5. § (5) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 89. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (5) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 89. § (2) bekezdésével megállapított szöveg.
