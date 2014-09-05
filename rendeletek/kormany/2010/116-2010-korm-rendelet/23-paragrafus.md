@@ -1,1 +1,0 @@
-## „(5) A nyilvántartott kapacitásigényt nem meghaladó forrásoldali kapacitásigényre legfeljebb két gázévre köthető szerződés. A nyilvántartott kapacitásigényt meghaladó forrásoldali kapacitásigényre legfeljebb egy gázévre köthető szerződés, ha a rendszeren van szabad kapacitás.”
