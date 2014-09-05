@@ -1,6 +1,6 @@
-## 79. §[^36]
+## 79. §[^38]
 
-## 80. §[^37] Az MTVA
+## 80. §[^39] Az MTVA
 
 a) a légiriasztás elrendelésének, vagy feloldásának vételére műsoridőben folyamatos ügyeleti szolgáltatásokat működtet,
 
@@ -12,5 +12,5 @@ d) végzi a külön jogszabályban kijelölt országos, vagy helyi műsorszolgá
 
 e) gondoskodik a légiriasztással kapcsolatos közlemények közzétételéről, közreműködik a lakosság magatartási szabályainak ismertetésében.
 
-[^36]: A 79. §-t a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés j) pontja hatályon kívül helyezte.
-[^37]: A 80. § a 174/2012. (VII. 26.) Korm. rendelet 87. § (14) bekezdésével megállapított szöveg.
+[^38]: A 79. §-t a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés j) pontja hatályon kívül helyezte.
+[^39]: A 80. § a 174/2012. (VII. 26.) Korm. rendelet 87. § (14) bekezdésével megállapított szöveg.
