@@ -1,6 +1,6 @@
 1. melléklet a 131/2013. (V. 2.) Korm. rendelethez
 
-## A közúti ellenőrzésre feljogosított hatóság által végzett közúti ellenőrzés alól mentesítő igazolvány felépítése, megjelenítése a következő:
+A közúti ellenőrzésre feljogosított hatóság által végzett közúti ellenőrzés alól mentesítő igazolvány felépítése, megjelenítése a következő:
 
 1. Az igazolvány az ISO 7810 szabványnak megfelelő, ID-1 méretű, többrétegű műanyag kártya.
 
