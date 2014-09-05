@@ -32,35 +32,41 @@ n) közreműködik a társadalmi bűnmegelőzés szakmai törekvései érdekébe
 
 3. Az NBT létszáma és tagjainak kinevezése:
 
-a) Az NBT létszáma – az NBT elnökét és társelnökeit is beleértve – legfeljebb tizennyolc fő.
+a)[^1] Az NBT létszáma – az NBT elnökét és társelnökeit is beleértve – legfeljebb huszonkét fő.
 
 b) Az NBT elnöke a miniszterelnök által kinevezett személy.
 
-c) Az NBT társelnökei a belügyminiszter és a közigazgatási és igazságügyi miniszter.
+c)[^2] Az NBT társelnökei a rendészetért felelős miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter.
 
-d) Az NBT további egy-egy tagjára
+d)[^3] Az NBT további egy-egy tagjára
 
-da) a Közigazgatási és Igazságügyi Minisztérium igazságügyért felelős államtitkára,
+da) az igazságügyért felelős miniszter által vezetett minisztérium igazságügyi kapcsolatokért felelős államtitkára,
 
-db) a Nemzeti Erőforrás Minisztérium oktatásért felelős államtitkára,
+db) az oktatásért felelős miniszter által vezetett minisztérium köznevelésért felelős államtitkára,
 
-dc) a Nemzetgazdasági Minisztérium foglalkoztatáspolitikáért felelős államtitkára,
+dc) a családpolitikáért felelős miniszter által vezetett minisztérium család- és ifjúságügyért felelős államtitkára,
 
-dd) a Belügyminisztérium helyi önkormányzatokért felelős államtitkára,
+dd) a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium munkaerőpiaci és képzési államtitkára,
 
-de) a büntetés-végrehajtás országos parancsnoka,
+de) a rendészetért felelős miniszter által vezetett minisztérium rendészeti államtitkára,
 
-df) a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálatának vezetője,
+df) a rendészetért felelős miniszter által vezetett minisztérium önkormányzati államtitkára,
 
-dg) az országos rendőrfőkapitány,
+dg) a büntetés-végrehajtás országos parancsnoka,
 
-dh) a Nemzeti Fejlesztési Minisztérium infrastruktúráért felelős államtitkára,
+dh) az igazságügyi szolgálatok feletti szakmai irányítói feladatokat ellátó központi hivatal vezetője,
 
-di) a vidékfejlesztési miniszter
+di) az országos rendőrfőkapitány,
+
+dj) az állami infrastruktúra-beruházásokért felelős miniszter által vezetett minisztérium infrastruktúráért felelős államtitkára,
+
+dk) az agrárpolitikáért felelős miniszter, valamint
+
+dl) az építésügyért felelős miniszter
 
 tesz javaslatot.
 
-e) A Kormány felkéri
+e)[^4] A Kormány felkéri
 
 ea) a Magyar Önkormányzatok Szövetségének elnökét,
 
@@ -72,13 +78,17 @@ ed) az Országos Polgárőr Szövetség elnökét,
 
 ee) a Fehér Gyűrű Közhasznú Egyesület elnökét,
 
-ef) az Országos Roma Önkormányzat elnökét
+ef) az Országos Roma Önkormányzat elnökét,
+
+eg) a Nemzeti Média- és Hírközlési Hatóság elnökét, valamint
+
+eh) a Települési Önkormányzatok Országos Szövetségének elnökét
 
 az NBT további egy-egy tagjára történő javaslat megtételére.
 
-f) Az NBT tagjának javasolt személyt a belügyminiszter határozatlan időre nevezi ki az NBT tagjává.
+f)[^5] Az NBT tagjának javasolt személyt a rendészetért felelős miniszter határozatlan időre nevezi ki az NBT tagjává.
 
-g) Az NBT elnökének személyére a belügyminiszter és a közigazgatási és igazságügyi miniszter együttesen tesz javaslatot a miniszterelnöknek.
+g)[^6] Az NBT elnökének személyére a rendészetért felelős miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter együttesen tesz javaslatot a miniszterelnöknek.
 
 4. Az NBT tagság megszűnése:
 
@@ -88,19 +98,19 @@ aa) lemondásával,
 
 ab) kinevezése visszavonásával.
 
-b) A belügyminiszter az NBT tagjának kinevezését a tagra javaslatot tevővel történt egyeztetést követően a tag szakmai alkalmatlansága vagy a tagsággal járó kötelezettségek legalább 90 napig történő elhanyagolása esetén vonhatja vissza. A kinevezés visszavonása azonnali hatályú.
+b)[^7] A rendészetért felelős miniszter az NBT tagjának kinevezését a tagra javaslatot tevővel történt egyeztetést követően a tag szakmai alkalmatlansága vagy a tagsággal járó kötelezettségek legalább 90 napig történő elhanyagolása esetén vonhatja vissza. A kinevezés visszavonása azonnali hatályú.
 
-c) Ha ez a határozat mást nem ír elő, a lemondás az NBT tagjának a belügyminiszterhez intézett nyilatkozatával történik, ami bármikor, indokolás nélkül előterjeszthető. A lemondás azonnali hatályú.
+c)[^8] Ha ez a határozat mást nem ír elő, a lemondás az NBT tagjának a rendészetért felelős miniszterhez intézett nyilatkozatával történik, ami bármikor, indokolás nélkül előterjeszthető. A lemondás azonnali hatályú.
 
-d) Az NBT elnöke a lemondását a belügyminiszteren keresztül a miniszterelnökhöz nyújtja be. A belügyminiszter az NBT elnökének lemondásáról haladéktalanul tájékoztatja a közigazgatási és igazságügyi minisztert. Egyebekben az NBT elnökének lemondására a c) alpontban írtakat kell alkalmazni.
+d)[^9] Az NBT elnöke a lemondását a rendészetért felelős miniszteren keresztül a miniszterelnökhöz nyújtja be. A rendészetért felelős miniszter az NBT elnökének lemondásáról haladéktalanul tájékoztatja a kormányzati tevékenység összehangolásáért felelős minisztert. Egyebekben az NBT elnökének lemondására a c) alpontban írtakat kell alkalmazni.
 
-e) Az NBT-ben viselt tagság bármely okból történő megszűnése esetén a belügyminiszter haladéktalanul, de legkésőbb a megszűnéstől számított 30 napon belül felkéri a javaslattételre jogosultat az NBT új tagjára vonatkozó javaslat megtételére. Az NBT tagja kinevezésének visszavonása esetén a belügyminiszter a visszavonással egyidejűleg kéri fel a javaslattételre jogosultat az NBT új tagjára vonatkozó javaslat megtételére.
+e)[^10] Az NBT-ben viselt tagság bármely okból történő megszűnése esetén a rendészetért felelős miniszter haladéktalanul, de legkésőbb a megszűnéstől számított 30 napon belül felkéri a javaslattételre jogosultat az NBT új tagjára vonatkozó javaslat megtételére. Az NBT tagja kinevezésének visszavonása esetén a rendészetért felelős miniszter a visszavonással egyidejűleg kéri fel a javaslattételre jogosultat az NBT új tagjára vonatkozó javaslat megtételére.
 
-f) Az NBT elnökének lemondása esetén a belügyminiszter a lemondás miniszterelnöknek történő megküldésével egyidejűleg, ha ez nem lehetséges, akkor legkésőbb a lemondás megküldését követő 30 napon belül, a közigazgatási és igazságügyi miniszterrel együttesen tesz javaslatot az NBT új elnökének a kinevezésére. Az NBT elnöke tagságának más okból történő megszűnése esetén a belügyminiszter haladéktalanul, de legkésőbb a megszűnéstől számított 30 napon belül a közigazgatási és igazságügyi miniszterrel együttesen javaslatot tesz a miniszterelnöknek az NBT új elnökének a kinevezésére.
+f)[^11] Az NBT elnökének lemondása esetén a rendészetért felelős miniszter a lemondás miniszterelnöknek történő megküldésével egyidejűleg, ha ez nem lehetséges, akkor legkésőbb a lemondás megküldését követő 30 napon belül, a kormányzati tevékenység összehangolásáért felelős miniszterrel együttesen tesz javaslatot az NBT új elnökének a kinevezésére. Az NBT elnöke tagságának más okból történő megszűnése esetén a rendészetért felelős miniszter haladéktalanul, de legkésőbb a megszűnéstől számított 30 napon belül a kormányzati tevékenység összehangolásáért felelős miniszterrel együttesen javaslatot tesz a miniszterelnöknek az NBT új elnökének a kinevezésére.
 
 5. Az NBT tagja az NBT-ben ellátott tevékenységért nem részesül díjazásban, vagy költségtérítésben.
 
-6. Az NBT maga állapítja meg és fogadja el az ügyrendjét, amit a közigazgatási és igazságügyi miniszterrel egyetértésben a belügyminiszter hagy jóvá.
+6.[^12] Az NBT maga állapítja meg és fogadja el az ügyrendjét, amit a kormányzati tevékenység összehangolásáért felelős miniszterrel egyetértésben a rendészetért felelős miniszter hagy jóvá.
 
 7. Az NBT ülései:
 
@@ -110,13 +120,13 @@ b) Az NBT ülésein az NBT elnökének meghívására tanácskozási joggal rés
 
 c) Az NBT ülésein tanácskozási joggal állandó meghívottként részt vesz
 
-ca) az Országos Igazságszolgáltatási Tanács elnökének képviselője,
+ca)[^13] az Országos Bírósági Hivatal elnökének képviselője,
 
 cb) a bűnmegelőzés, az áldozatsegítés, valamint a közbiztonság fenntartása területén működő, e feladatokat az ország egész területére kiterjedő illetékességgel alaptevékenységként ellátó, az NBT tagjára vonatkozó javaslattételi joggal nem rendelkező, e határozatban előírtaknak megfelelően regisztrált társadalmi szervezeteket képviselő egy-egy fő.
 
-d) A belügyminisztert, valamint a közigazgatási és igazságügyi minisztert az NBT ülésein az általa meghatalmazott, állásfoglalásra jogosult személy képviselheti.
+d)[^14] A rendészetért felelős minisztert, továbbá a kormányzati tevékenység összehangolásáért felelős minisztert az NBT ülésein az általa meghatalmazott, állásfoglalásra jogosult személy képviselheti.
 
-8. Az NBT igazgatási és adminisztratív feladatait az NBT titkársága (a továbbiakban: titkárság) látja el. A titkárság működtetéséről a Belügyminisztérium gondoskodik. A titkárság vezetője (a továbbiakban: titkárságvezető) tanácskozási joggal állandó meghívottként részt vesz az NBT ülésein.
+8.[^15] Az NBT igazgatási és adminisztratív feladatait az NBT titkársága (a továbbiakban: titkárság) látja el. A titkárság működtetéséről a rendészetért felelős miniszter által vezetett minisztérium gondoskodik. A titkárság vezetője (a továbbiakban: titkárságvezető) tanácskozási joggal állandó meghívottként részt vesz az NBT ülésein.
 
 9. A titkárságvezető az európai bűnmegelőzési hálózat (EUCPN) létrehozásáról és a 2001/427/IB határozat hatályon kívül helyezéséről szóló 2009. november 30-i 2009/902/IB tanácsi határozattal létrehozott európai bűnmegelőzési hálózat helyettes nemzeti képviselője, a titkárság az európai bűnmegelőzési hálózat egyik nemzeti kapcsolattartó pontja.
 
@@ -124,26 +134,32 @@ d) A belügyminisztert, valamint a közigazgatási és igazságügyi minisztert 
 
 11. Az NBT elnöke képviseli az NBT-t, gondoskodik a társadalmi bűnmegelőzés érdekében a hatékony társadalmi és szakmai együttműködési kapcsolatokról, valamint biztosítja a rendszeres tájékoztatást.
 
-12. Az NBT munkáját a belügyminiszter a titkárság útján szervezi meg és hangolja össze.
+12.[^16] Az NBT munkáját a rendészetért felelős miniszter a titkárság útján szervezi meg és hangolja össze.
 
-13. A belügyminiszter évente beszámol a Kormánynak az NBT működéséről és tájékoztatást ad a bűnözés előző évi alakulásáról, valamint a bűnözéskezelési intézkedések hatékonyságáról.
+13.[^17] A rendészetért felelős miniszter évente beszámol a Kormánynak az NBT működéséről és tájékoztatást ad a bűnözés előző évi alakulásáról, valamint a bűnözéskezelési intézkedések hatékonyságáról.
 
 14. Ez a határozat a közzétételét követő napon lép hatályba.
 
-15.[^1]
+15.[^18]
 
-16. Átmeneti és záró rendelkezések:
+16.[^19]
 
-a) A belügyminiszter az NBT tagjának javasolt személyeket e határozat hatálybalépését[^2] követő 30 napon belül kinevezi az NBT tagjának, ennek érdekében e határozat hatálybalépését[^3] követő 10 napon belül felkéri a javaslattételre jogosultakat az NBT tagjára vonatkozó javaslat 10 napon belül történő megtételére.
-
-b) A belügyminiszter és a közigazgatási és igazságügyi miniszter e határozat hatálybalépését[^4] követő 30 napon belül együttesen javaslatot tesznek a miniszterelnöknek az NBT elnökének kinevezésére.
-
-c) Az NBT alakuló ülését az NBT elnöke a kinevezését követően haladéktalanul, de legkésőbb 30 napon belül összehívja.
-
-d)[^5]
-
-[^1]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A hatálybalépés időpontja 2011. április 13.
-[^3]: A hatálybalépés időpontja 2011. április 13.
-[^4]: A hatálybalépés időpontja 2011. április 13.
-[^5]: A 16. pont d) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont a) alpontja az 1493/2014. (IX. 4.) Korm. határozat 5. pontjával megállapított szöveg.
+[^2]: A 3. pont c) alpontja az 1493/2014. (IX. 4.) Korm. határozat 6. pontjával megállapított szöveg.
+[^3]: A 3. pont d) alpontja az 1493/2014. (IX. 4.) Korm. határozat 6. pontjával megállapított szöveg.
+[^4]: A 3. pont e) alpontja az 1493/2014. (IX. 4.) Korm. határozat 6. pontjával megállapított szöveg.
+[^5]: A 3. pont f) alpontja az 1493/2014. (IX. 4.) Korm. határozat 6. pontjával megállapított szöveg.
+[^6]: A 3. pont g) alpontja az 1493/2014. (IX. 4.) Korm. határozat 6. pontjával megállapított szöveg.
+[^7]: A 4. pont b) alpontja az 1493/2014. (IX. 4.) Korm. határozat 7. pontjával megállapított szöveg.
+[^8]: A 4. pont c) alpontja az 1493/2014. (IX. 4.) Korm. határozat 7. pontjával megállapított szöveg.
+[^9]: A 4. pont d) alpontja az 1493/2014. (IX. 4.) Korm. határozat 7. pontjával megállapított szöveg.
+[^10]: A 4. pont e) alpontja az 1493/2014. (IX. 4.) Korm. határozat 7. pontjával megállapított szöveg.
+[^11]: A 4. pont f) alpontja az 1493/2014. (IX. 4.) Korm. határozat 7. pontjával megállapított szöveg.
+[^12]: A 6. pont az 1493/2014. (IX. 4.) Korm. határozat 8. pontjával megállapított szöveg.
+[^13]: A 7. pont c) alpont ca) alpontja az 1493/2014. (IX. 4.) Korm. határozat 9. pontjával megállapított szöveg.
+[^14]: A 7. pont d) alpontja az 1493/2014. (IX. 4.) Korm. határozat 10. pontjával megállapított szöveg.
+[^15]: A 8. pont az 1493/2014. (IX. 4.) Korm. határozat 11. pontjával megállapított szöveg.
+[^16]: A 12. pont az 1493/2014. (IX. 4.) Korm. határozat 12. pontjával megállapított szöveg.
+[^17]: A 13. pont az 1493/2014. (IX. 4.) Korm. határozat 12. pontjával megállapított szöveg.
+[^18]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 16. pontot az 1493/2014. (IX. 4.) Korm. határozat 13. pontja hatályon kívül helyezte.
