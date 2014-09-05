@@ -92,7 +92,8 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban az 1988. évi szeptember hó 13. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról a külügyminiszter gondoskodik.
+(2)[^5] E rendelet végrehajtásáról – az oktatásért felelős miniszterrel, a kultúráért felelős miniszterrel és a tudománypolitika koordinációjáért felelős miniszterrel egyetértésben – a külpolitikáért felelős miniszter gondoskodik.
 
 [^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^4]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^5]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 116. §-ával megállapított szöveg.
