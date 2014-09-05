@@ -2,6 +2,6 @@
 
 (2) A bizottság megbízásából a díjazásra javasoltak névsorát a miniszter a Kormány elé terjeszti.
 
-(3)[^5]
+(3)[^6]
 
-[^5]: A 9. § (3) bekezdését a 271/2008. (XI. 18.) Korm. rendelet 15. § (1) bekezdése hatályon kívül helyezte.
+[^6]: A 9. § (3) bekezdését a 271/2008. (XI. 18.) Korm. rendelet 15. § (1) bekezdése hatályon kívül helyezte.
