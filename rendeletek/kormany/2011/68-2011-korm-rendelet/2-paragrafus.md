@@ -4,7 +4,7 @@
 
 (3)[^3] A Társaság feladata az Irodák rendszerének fejlesztése. A Társaság – a nemzetközi programok kivételével – támogatja a 2014–2020 programozási időszakban a területi alapú tervezés koordinációját.
 
-(3a)[^4] A Társaság 2014. január 1-jétől ellátja a 2007–2013 programozási időszakhoz kapcsolódóan a Miniszterelnökség és a Társaság közötti – az egyes operatív programok technikai segítségnyújtás keretéből finanszírozott – szerződésben rögzített, az európai uniós támogatásban részesülő, nem a támogatási szerződésben vállaltaknak megfelelően előrehaladó projektek projektfelügyeleti rendszerének kialakítását és működtetését.
+(3a)[^4] A Társaság 2014. január 1-jétől ellátja a 2007–2013 programozási időszakhoz kapcsolódóan a miniszter és a Társaság közötti – az egyes operatív programok technikai segítségnyújtás keretéből finanszírozott – szerződésben rögzített, az európai uniós támogatásban részesülő, nem a támogatási szerződésben vállaltaknak megfelelően előrehaladó projektek projektfelügyeleti rendszerének kialakítását és működtetését.
 
 (4)[^5] A Társaság ellátja
 
@@ -31,6 +31,6 @@ i) a nemzeti kapcsolattartó pont feladatokat az INTERACT 2 Operatív Program te
 [^1]: A 2. § a 36/2013. (II. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdése a 27/2014. (II. 7.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 194/2014. (VII. 31.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdése a 27/2014. (II. 7.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § (3a) bekezdését 450/2013. (XI. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 27/2014. (II. 7.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (3a) bekezdését 450/2013. (XI. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 564. §-a szerint módosított szöveg.
 [^5]: A 2. § (4) bekezdése a 194/2014. (VII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: A 2. § (5) bekezdését a 27/2014. (II. 7.) Korm. rendelet 9. § (4) bekezdése iktatta be.
