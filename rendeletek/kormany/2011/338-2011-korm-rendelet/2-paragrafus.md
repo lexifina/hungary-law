@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet alkalmazásában időállapot: Magyarország Alaptörvénye, Magyarország Alaptörvényének átmeneti rendelkezései, valamint a jogszabály (a továbbiakban együtt: jogszabály) hatálybalépésétől legkésőbb a jogszabály első időpontban történő változásáig hatályos szövege, illetve a jogszabálynak valamely időpontban történő változásától legkésőbb a jogszabály következő időpontban történő változásáig hatályos szövege.
+## 1. §[^1] E rendelet alkalmazásában időállapot: Magyarország Alaptörvénye, valamint a jogszabály (a továbbiakban együtt: jogszabály) hatálybalépésétől legkésőbb a jogszabály első időpontban történő változásáig hatályos szövege, illetve a jogszabálynak valamely időpontban történő változásától legkésőbb a jogszabály következő időpontban történő változásáig hatályos szövege.
 
 2. § (1) Az önkormányzati rendelet kivételével a Nemzeti Jogszabálytárban egységes szerkezetű szöveggel közzé kell tenni valamennyi, a lekérdezés napján hatályos jogszabálynak
 
@@ -16,4 +16,4 @@ b) a lekérdezés napját megelőző öt évben hatályban volt jogszabálynak a
 
 (3) Az egységes szerkezetű szöveget a jogszabály vagy a jogszabályt megváltoztató jogszabály kihirdetését követő három munkanapon belül kell közzétenni azzal, hogy a változással érintett jogszabálynál a várható módosulásra a kihirdetést követően haladéktalanul utalni kell.
 
-[^1]: Az 1. § a 383/2012. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § a 383/2012. (XII. 19.) Korm. rendelet 1. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 618. § (1) bekezdés a) pontja szerint módosított szöveg.

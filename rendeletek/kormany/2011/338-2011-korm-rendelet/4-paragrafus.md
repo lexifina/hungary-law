@@ -8,8 +8,10 @@ b) a lekérdezés napját megelőző, illetve követő egy-egy időállapotát.
 
 (3) A 2013. július 1. napját megelőzően hatályba lépett, 2013. június 30. napját követően megváltoztatott és a lekérdezés napján hatályos önkormányzati rendelet esetében a Nemzeti Jogszabálytárban a rendelet lekérdezés napján hatályos egységes szerkezetű szövegét, és a lekérdezés napját követő egy időállapotát kell közzétenni.
 
-(4) A helyi önkormányzat törvényességi felügyeletét ellátó fővárosi vagy megyei kormányhivatal a Nemzeti Jogszabálytár szolgáltatója által e célra kialakított informatikai rendszeren keresztül továbbítja a részére megküldött önkormányzati rendeletet és annak valamennyi időállapota szerinti egységes szerkezetű szövegét a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek.
+(4)[^3] A jegyző a fővárosi és megyei kormányhivatalnak, a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek és az igazságügyért felelős miniszternek a Nemzeti Jogszabálytár szolgáltatója által e célra kialakított informatikai rendszeren keresztül továbbítja az önkormányzati rendeletet és annak valamennyi időállapota szerinti egységes szerkezetű szövegét.
 
-(5) Az egységes szerkezetű szöveget az önkormányzati rendeletnek vagy az önkormányzati rendeletet megváltoztató önkormányzati rendeletnek a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter általi kézhezvételét követő öt munkanapon belül kell közzétenni.
+(5)[^4] A jegyző az egységes szerkezetű szöveget az önkormányzati rendelet vagy az önkormányzati rendeletet megváltoztató önkormányzati rendelet kihirdetését követő öt munkanapon belül a Nemzeti Jogszabálytárban közzéteszi.
 
 [^2]: A 4. § a 383/2012. (XII. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 4. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 616. §-ával megállapított szöveg.
+[^4]: A 4. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 616. §-ával megállapított szöveg.
