@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-168-20-
 | 2013-05-14 | 2004-168-20-22.18 | 46/2012. (III. 28.) Korm. rendelet |
 | 2013-07-01 | 2004-168-20-22.19 | 238/2013. (VI. 30.) Korm. rendelet |
 | 2013-09-17 | 2004-168-20-22.20 | 332/2013. (IX. 16.) Korm. rendelet |
+| 2014-09-05 | 2004-168-20-22.21 | 33/2012. (III. 7.) Korm. rendelet |

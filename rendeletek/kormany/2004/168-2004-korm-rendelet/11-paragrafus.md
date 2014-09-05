@@ -40,11 +40,11 @@ m)[^32] a központosított közbeszerzési eljárások eredményeként létrejö
 
 n) ellátja mindazon egyéb feladatot, melyet jogszabály a központosított közbeszerzési rendszer működtetésével kapcsolatban a hatáskörébe utal;
 
-o)[^33] a központi beszerző szervezet e rendelet szerinti feladataival összefüggésben a Nemzeti Fejlesztési Minisztérium (a továbbiakban: NFM) részére, lekérdezésre haladéktalanul adatot szolgáltat.
+o)[^33] a központi beszerző szervezet e rendelet szerinti feladataival összefüggésben a közbeszerzésekért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) részére, lekérdezésre haladéktalanul adatot szolgáltat.
 
 [^28]: A 10. § a 33/2012. (III. 7.) Korm. rendelet 10. § (1) bekezdése, a 46/2012. (III. 28.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 10. §-át.
 [^29]: A 11. § (1) bekezdése a 33/2012. (III. 7.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
 [^30]: A 11. § (3) bekezdése a 196/2006. (IX. 27.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
 [^31]: A 11. § (3) bekezdés l) pontját a 33/2012. (III. 7.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
 [^32]: A 11. § (3) bekezdés m) pontja a 33/2012. (III. 7.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^33]: A 11. § (3) bekezdés o) pontját a 238/2013. (VI. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^33]: A 11. § (3) bekezdés o) pontját a 238/2013. (VI. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 267. § b) pontja szerint módosított szöveg.
