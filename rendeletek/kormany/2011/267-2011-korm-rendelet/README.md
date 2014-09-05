@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-267-20-
 | --- | --- | --- |
 | 2012-03-01 | 2011-267-20-22.1 | 267/2011. (XII. 13.) Korm. rendelet |
 | 2012-03-02 | 2011-267-20-22.2 | 2010: CXXX. törvény |
+| 2014-09-05 | 2011-267-20-22.3 | 221/2014. (IX. 4.) Korm. rendelet |

@@ -18,4 +18,6 @@ d) kapcsolattartás a szomszédos országok légi kutató-mentő központjaival.
 
 (5) A KMKK vezető ügyeletese a BM OKF állományának tagja, aki a KMKK feladatainak végrehajtását irányítja.
 
-(6) A KMKK vezető ügyeletese tájékoztatja a közlekedésért felelős miniszter által vezetett minisztériumot az OLKMR riasztásáról, és a kutatató-mentő egységek igénybevételéről.
+(6)[^1] A KMKK vezető ügyeletese tájékoztatja a közlekedésért felelős minisztert az OLKMR riasztásáról, és a kutatató-mentő egységek igénybevételéről.
+
+[^1]: A 3. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 591. §-a szerint módosított szöveg.
