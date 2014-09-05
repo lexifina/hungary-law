@@ -4,6 +4,6 @@
 
 (2) A díjazott a Díjon túl más kedvezményben nem részesíthető.
 
-(3)[^2] A Díj adományozásával járó költségeket a Miniszterelnöki Hivatal költségvetésében kell tervezni.
+(3)[^3] A Díj adományozásával járó költségeket a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell tervezni.
 
-[^2]: Az 5. § (3) bekezdésének második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1318. pontja hatályon kívül helyezte.
+[^3]: Az 5. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 179. §-ával megállapított szöveg.
