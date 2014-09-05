@@ -4,7 +4,7 @@
 
 ## 6. A biztonsági vezetőnek a személyi biztonsági tanúsítvány kiadásával és kiadásának kezdeményezésével kapcsolatos feladatai
 
-10. § (1) A minősített adatot kezelő szervnél – a gazdálkodó szervezet kivételével – nemzeti minősített adatot felhasználó, valamint ilyen adatot felhasználó közreműködő részére a biztonsági vezető a Miniszterelnöki Hivatal és a Nemzeti Biztonsági Felügyelet honlapján közzétett minta alapján egy példányban kiadja a nemzeti minősített adatra érvényes személyi biztonsági tanúsítványt.
+10. § (1)[^6] A minősített adatot kezelő szervnél – a gazdálkodó szervezet kivételével – nemzeti minősített adatot felhasználó, valamint ilyen adatot felhasználó közreműködő részére a biztonsági vezető a minősített adatok védelmének szakmai felügyeletéért felelős miniszter által vezetett minisztérium és a Nemzeti Biztonsági Felügyelet honlapján közzétett minta alapján egy példányban kiadja a nemzeti minősített adatra érvényes személyi biztonsági tanúsítványt.
 
 (2) A nemzeti minősített adatra érvényes személyi biztonsági tanúsítvány tartalmazza:
 
@@ -23,3 +23,5 @@ d) a személyi biztonsági tanúsítvány kiadására jogosult vezető aláírá
 (5) A nemzeti minősített adatra érvényes személyi biztonsági tanúsítvány visszavonását követően a biztonsági vezető intézkedik a személyi biztonsági tanúsítvány selejtezéséről.
 
 (6) A biztonsági vezető gondoskodik arról, hogy a titkos ügykezelő naprakész és pontos információval rendelkezzen a minősített adatot kezelő szervnél érvényes személyi biztonsági tanúsítvánnyal rendelkező személyekről.
+
+[^6]: A 10. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 463. § a) pontja szerint módosított szöveg.

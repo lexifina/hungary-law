@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-90-20-2
 | 2013-06-21 | 2010-90-20-22.8 | 196/2013. (VI. 13.) Korm. rendelet |
 | 2013-07-01 | 2010-90-20-22.9 | 172/2013. (V. 30.) Korm. rendelet |
 | 2013-08-01 | 2010-90-20-22.10 | 303/2013. (VII. 31.) Korm. rendelet |
+| 2014-09-05 | 2010-90-20-22.11 | 221/2014. (IX. 4.) Korm. rendelet |

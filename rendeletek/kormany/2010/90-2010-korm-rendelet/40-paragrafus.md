@@ -22,4 +22,6 @@ h) más, a minősített adat sajátosságától függő különleges kezelési u
 
 (4) A „Saját kezű felbontásra” különleges kezelési utasítással ellátott küldeményt a felbontásra jogosult személy a felhasználást követően lezárva és a lezárás helyén a minősített adatot kezelő szerv hivatalos bélyegzőjével ellátva, dokumentált módon adja át a titkos ügykezelőnek tárolás vagy más címzetthez való továbbítás céljából. A titkos ügykezelővel az iktatáshoz szükséges adatokat közli.
 
-(5) Az állampolgári jogok országgyűlési biztosáról szóló törvény mellékletében szereplő adatfajták esetében az adathordozón a „Különösen fontos!” különleges kezelési utasítás szerepel.
+(5)[^16] Az alapvető jogok biztosáról szóló törvény mellékletében szereplő adatfajták esetében az adathordozón a „Különösen fontos!” különleges kezelési utasítás szerepel.
+
+[^16]: A 40. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 463. § d) pontja szerint módosított szöveg.

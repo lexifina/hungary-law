@@ -6,6 +6,8 @@
 
 (2) Az ügyfél kialakítja a személyi, fizikai és adminisztratív biztonsági feltételeket, majd kéri a Nemzeti Biztonsági Felügyelettől a „Bizalmas!” vagy annál magasabb minősítési szintű minősített adat kezelésére vonatkozó engedély (a továbbiakban: Engedély) kiadását.
 
-(3) Az ügyfél az Engedély iránti kérelmét, amely az általa felhasználni és tárolni kívánt minősített adatok legmagasabb minősítési szintjét és a kialakított biztonsági terület helyszínének pontos megjelölését tartalmazza, a Miniszterelnöki Hivatal és a Nemzeti Biztonsági Felügyelet honlapján közzétett nyomtatványon terjeszti elő.
+(3)[^1] Az ügyfél az Engedély iránti kérelmét, amely az általa felhasználni és tárolni kívánt minősített adatok legmagasabb minősítési szintjét és a kialakított biztonsági terület helyszínének pontos megjelölését tartalmazza, a minősített adatok védelmének szakmai felügyeletéért felelős miniszter által vezetett minisztérium és a Nemzeti Biztonsági Felügyelet honlapján közzétett nyomtatványon terjeszti elő.
 
 (4) Az ügyfél az Engedély iránti kérelméhez csatolja a kialakított biztonsági területről készített egyszerűsített alaprajzot és a biztonságtechnikai rendszer egyszerűsített helyszínrajzát (tervrajzát), valamint az 1. melléklet figyelembevételével kitöltött ponttáblázatot.
+
+[^1]: A 2. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 463. § a) pontja szerint módosított szöveg.

@@ -8,6 +8,9 @@
 
 (4) A biztonsági vezető minden év március 31-ig intézkedik a nemzeti minősített adatok tekintetében lefolytatott éves ellenőrzés eredményének és az előző évben a minősített adatot kezelő szervhez érkezett vagy ott készített nemzeti minősített adatok iratforgalmi statisztikájának minősítési szintenkénti bontásban a Nemzeti Biztonsági Felügyeletre történő megküldéséről.
 
-(5) Az iratforgalmi statisztika mintáját a Nemzeti Biztonsági Felügyelet a honlapján és a Miniszterelnöki Hivatal honlapján közzéteszi.
+(5)[^4] Az iratforgalmi statisztika mintáját a Nemzeti Biztonsági Felügyelet a honlapján és a minősített adatok védelmének szakmai felügyeletéért felelős miniszter által vezetett minisztérium honlapján közzéteszi.
 
-(6) A Magyar Honvédségnél kinevezett biztonsági vezetők a minősített adatok védelmével kapcsolatos feladatok végrehajtását és koordinálását a honvédelemért felelős miniszter által vezetett minisztérium szakirányításra jogosult vezetőjének szakmai irányítása mellett végzik.
+(6)[^5] A Magyar Honvédségnél kinevezett biztonsági vezetők a minősített adatok védelmével kapcsolatos feladatok végrehajtását és koordinálását a honvédelemért felelős miniszter szakirányításra jogosult vezetőjének szakmai irányítása mellett végzik.
+
+[^4]: A 6. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 463. § a) pontja szerint módosított szöveg.
+[^5]: A 6. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 464. § (2) bekezdése szerint módosított szöveg.
