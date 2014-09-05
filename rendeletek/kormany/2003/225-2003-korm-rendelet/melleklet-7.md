@@ -68,7 +68,7 @@
 
 (a 20. §-hoz)
 
-1. A Gazdasági és Közlekedési Minisztérium minden évben legkésőbb április 1-jéig az alábbi adatokat közli Európai Bizottsággal az előző évre vonatkozóan:
+1.[^32] A közlekedésért felelős miniszter minden évben legkésőbb április 1-jéig az alábbi adatokat közli Európai Bizottsággal az előző évre vonatkozóan:
 
 1.1. Hajózásbiztonsági ellenőrzést végző ellenőrök létszáma:
 
@@ -88,8 +88,11 @@ ________________
 
 1.2. A kikötőikbe befutó egyes hajók száma nemzeti szinten
 
-2. A Gazdasági és Közlekedési Minisztérium:
+2.[^33] A közlekedésért felelős miniszter:
 
 a) félévente átadja a Bizottságnak a rendszeres kompjáratok kivételével a kikötőikbe befutó egyes hajók mozgására vonatkozó kimutatást, amely tartalmazza a hajók IMO számát és az érkezés napját, vagy alternatívaként,
 
 b) közli a SIRENAC-kal – a rendszeres kompjáratok kivételével – a magyar kikötőkbe naponta befutó hajók IMO számait és érkezési időpontját.
+
+[^32]: A 7. számú melléklet 1. pont nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 254. §-a szerint módosított szöveg.
+[^33]: A 7. számú melléklet 2. pont nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 254. §-a szerint módosított szöveg.
