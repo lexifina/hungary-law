@@ -116,7 +116,7 @@
 
 | * | 1215 | Kérdőív a város, község területváltozásának főbb adatairól | AGY | Eseményhez kötődő | a változásban érintett települési önkormányzat jegyzője, főjegyzője | külön értesítés szerint |  |  |
 
-|  | 1216 | Kimutatás a városok, községek területnagyságáról | AÁ | Évenkénti | Vidékfejlesztési Minisztérium, Földmérési és Távérzékelési Intézet | a tárgyévet követő február 7. |  |  |
+|  | 1216 | Kimutatás a városok, községek területnagyságáról | AÁ | Évenkénti | Földművelésügyi Minisztérium, Földmérési és Távérzékelési Intézet | a tárgyévet követő február 7. |  |  |
 
 |  | 1470 | Nemzetközi üzleti és szállítási szolgáltatások | AGY | Negyedévenkénti | a megfigyelésbe bevont gazdasági, költségvetési, valamint nonprofit szervezetek (beleértve a képviseleteket is) | a tárgynegyedévet követő hó 15. | 184/2005/EK 555/2012/EU 707/2009/EK | Rendelet Rendelet Rendelet |
 
@@ -324,7 +324,7 @@
 
 |  | 2124 | Jelentés az aktív és a krónikus fekvőbetegellátás valós teljesítményadatairól | AÁ | Negyedévenkénti | Országos Egészségbiztosítási Pénztár | a tárgynegyedévet követő második hó 10. | 2002/990/EK | Határozat |
 
-|  | 2125 | Az Európai Uniótól kapott illetve az Európai Uniónak fizetett transzferek | AÁ | Havonkénti | Magyar Államkincstár, Kormány európai uniós források felhasználásáért felelős tagja, Mezőgazdasági és Vidékfejlesztési Hivatal | a tárgyhót követő 30. nap | 1221/2002/EK 479/2009/EK | Rendelet Rendelet |
+|  | 2125 | Az Európai Uniótól kapott illetve az Európai Uniónak fizetett transzferek | AÁ | Havonkénti | Magyar Államkincstár, európai uniós források felhasználásáért felelős miniszter, Mezőgazdasági és Vidékfejlesztési Hivatal | a tárgyhót követő 30. nap | 1221/2002/EK 479/2009/EK | Rendelet Rendelet |
 
 | * | 2128 | Gazdasági szervezetek mezőgazdasági tevékenységének, termelés eredményeinek éves adatai | AGY | Évenkénti | mezőgazdasági tevékenységet végző gazdasági szervezetek, kivéve a csak mezőgazdasági szolgáltatást végzők | a tárgyévet követő január 31. | 1185/2009/EK 138/2004/EK 408/2011/EU 543/2009/EK 656/2011/EU | Rendelet Rendelet Rendelet Rendelet Rendelet |
 
@@ -1956,7 +1956,7 @@
 
 |  |  |  | c) intervenciós műveletek |
 
-|  |  |  | (3) A Kormány európai uniós források felhasználásáért felelős tagja EMIR adatbázisához hozzáférés |
+|  |  |  | (3) Az európai uniós források felhasználásáért felelős miniszter EMIR adatbázisához hozzáférés |
 
 |  | 2128 | Gazdasági szervezetek mezőgazdasági tevékenységének, | (1) A szántóterület hasznosítása |
 
