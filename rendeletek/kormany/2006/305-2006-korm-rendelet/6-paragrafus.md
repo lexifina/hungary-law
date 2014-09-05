@@ -1,4 +1,4 @@
-## 5. §[^1] A Központ a polgári nemzetbiztonsági szolgálatokat irányító tárca nélküli miniszter (a továbbiakban: irányító miniszter) irányítása alatt működő központi hivatal. A Központ a Miniszterelnökség költségvetési fejezetén belül önállóan gazdálkodó költségvetési szerv.
+## 5. §[^1] A Központ a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter (a továbbiakban: irányító miniszter) irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
 
 6. § (1) A Központot a főigazgató vezeti. A főigazgatót a rendészetért felelős miniszter, az adópolitikáért felelős miniszter és a honvédelemért felelős miniszter véleményének kikérése után az irányító miniszter nevezi ki és menti fel.
 
@@ -22,4 +22,4 @@ b) az összeférhetetlenségi okot nem jelentette be vagy nem szüntette meg.
 
 (6) A főigazgatót a főigazgató-helyettes általános hatáskörrel helyettesíti. A főigazgató-helyettes megbízatásának megszűnésére a főigazgató megbízatásának megszűnésére vonatkozó szabályok értelemszerűen irányadóak.
 
-[^1]: Az 5. § első mondata a 177/2007. (VII. 1.) Korm. rendelet 4. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^1]: Az 5. § a 221/2014. (IX. 4.) Korm. rendelet 355. §-ával megállapított szöveg.

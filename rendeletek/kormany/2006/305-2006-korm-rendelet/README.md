@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-305-20-
 | 2011-01-01 | 2006-305-20-22.8 | 293/2010. (XII. 22.) Korm. rendelet |
 | 2012-10-12 | 2006-305-20-22.9 | 293/2010. (XII. 22.) Korm. rendelet |
 | 2013-07-01 | 2006-305-20-22.10 | 172/2013. (V. 30.) Korm. rendelet |
+| 2014-09-05 | 2006-305-20-22.11 | 221/2014. (IX. 4.) Korm. rendelet |
