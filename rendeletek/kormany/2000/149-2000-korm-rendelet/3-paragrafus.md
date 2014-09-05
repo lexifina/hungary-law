@@ -264,4 +264,6 @@
 
 ## Az Európa Tanács Főtitkára köteles hiteles másolatot küldeni az Európa Tanács valamennyi tagállamának, az Európai Kulturális Egyezmény más tagállamainak, továbbá a csatlakozásra felhívott nem tagállamoknak és az Európai Gazdasági Közösségnek.''
 
-3. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1995. május 25-től kell alkalmazni. Végrehajtásáról a nemzeti kulturális örökség minisztere gondoskodik.
+3. §[^1] Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1995. május 25-től kell alkalmazni. Végrehajtásáról a kulturális örökség védelméért felelős miniszter gondoskodik.
+
+[^1]: A 3. § a 221/2014. (IX. 4.) Korm. rendelet 203. §-a szerint módosított szöveg.
