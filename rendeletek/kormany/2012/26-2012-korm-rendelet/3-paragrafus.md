@@ -1,5 +1,3 @@
-## 2. § Az R. 4. § (1) bekezdés b) pontja a következő szöveggel lép hatályba:
+3. §[^4]
 
-## (Az otthonteremtési kamattámogatás igénybevételének feltétele, hogy)
-
-## „b) a támogatott személy az otthonteremtési kamattámogatás nyújtásáról szóló szerződésbe foglaltan kötelezettséget vállal arra vonatkozóan, hogy a hitelcél megvalósulását követő egy éven belül a lakásban, lakóingatlanban lakóhelyet létesít és a hitelcél megvalósulását követő egy éven belül bemutatja a hitelintézet számára a lakcímet igazoló hatósági igazolványát,”
+[^4]: Az 1–5. §-t a 221/2014. (IX. 4.) Korm. rendelet 641. §-a hatályon kívül helyezte.

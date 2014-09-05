@@ -1,1 +1,3 @@
-## 7. § Nem lép hatályba az R. 18. §-a.
+8. §[^12]
+
+[^12]: A 7–8. §-t a 221/2014. (IX. 4.) Korm. rendelet 641. §-a hatályon kívül helyezte.
