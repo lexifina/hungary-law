@@ -174,7 +174,7 @@
 
 (3) E rendelet 2–3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^3]
 
-(4) E rendelet végrehajtásához szükséges intézkedésekről az igazságügyi és rendészeti miniszter gondoskodik.
+(4)[^4] E rendelet végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.
 
 Melléklet a 85/2008. (IV. 11.) Korm. rendelethez
 
@@ -232,3 +232,4 @@ Dr. Göncz Kinga”
 
 [^2]: A 3. § e rendelet 4. § (2) bekezdése alapján a Megállapodás záró rendelkezésében meghatározott időpontban lép hatályba. A 21/2008. (V. 8.) KüM határozat alapján a hatálybalépés időpontja 2008. május 11.
 [^3]: Lásd a 21/2008. (V. 8.) KüM határozatot.
+[^4]: A 4. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 425. §-a szerint módosított szöveg.
