@@ -1,1 +1,0 @@
-## 10. § A Miniszterelnöki Hivatalt vezető miniszter évente december 31-ig a honlapon közzéteszi a tárgyévben indult összkormányzati projektek megnevezését és a tárgyévben befejeződött projektek esetében a miniszterelnök által jóváhagyott keretösszegek mértékét.
