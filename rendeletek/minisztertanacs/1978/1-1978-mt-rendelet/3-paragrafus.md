@@ -222,8 +222,10 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit 1974. december 20. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a földművelésügyi miniszter gondoskodik.
+(2)[^1] E rendelet végrehajtásáról az élelmiszerlánc-felügyeletért felelős miniszter gondoskodik.
 
 Havasi Ferenc s. k.,
 
 a Minisztertanács elnökhelyettese
+
+[^1]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 31. §-ával megállapított szöveg.
