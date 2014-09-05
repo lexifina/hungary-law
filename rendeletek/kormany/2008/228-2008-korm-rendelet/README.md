@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-228-20-
 | 2013-08-28 | 2008-228-20-22.8 | 312/2013. (VIII. 27.) Korm. rendelet |
 | 2014-01-01 | 2008-228-20-22.9 | 550/2013. (XII. 30.) Korm. rendelet |
 | 2014-02-12 | 2008-228-20-22.10 | 30/2014. (II. 11.) Korm. rendelet |
+| 2014-09-05 | 2008-228-20-22.11 | 550/2013. (XII. 30.) Korm. rendelet |
