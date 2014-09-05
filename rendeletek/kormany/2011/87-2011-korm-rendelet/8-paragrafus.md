@@ -6,7 +6,7 @@ a) a Törvény 2. § (3) bekezdése szerint az Alap vagyonát képező eszközö
 
 b) az Alap vagyonát képező eszközök nyilvántartása és kezelése,
 
-c) az Alap vagyonát képező, a magyar állam által kibocsátott hitelviszonyt megtestesítő értékpapírok térítésmentes átadása a Magyar Államnak,
+c)[^5] az Alap vagyonát képező, az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok térítésmentes átadása az államnak,
 
 d) az Alap vagyonát képező eszközökre vonatkozó értékesítési alapelvek tervezetének elkészítése,
 
@@ -31,3 +31,5 @@ m) mindazoknak a kötelezettségeknek az ellátása, amelyet jogszabály az Alap
 (2) Az ÁKK Zrt. a feladatainak ellátása során harmadik személyt vehet igénybe.
 
 (3) Az ÁKK Zrt. az (1) bekezdés e) pontja szerinti pénzforgalmi tervet jóváhagyásra benyújtja a Testületnek. Indokolt esetben az ÁKK Zrt. jogosult a jóváhagyott pénzforgalmi terv módosítását kezdeményezni a módosított pénzforgalmi terv jóváhagyásra történő benyújtásával.
+
+[^5]: A 8. § (1) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 566. §-a szerint módosított szöveg.

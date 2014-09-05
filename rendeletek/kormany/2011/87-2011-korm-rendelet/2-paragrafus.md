@@ -52,9 +52,9 @@ f) az elszámolási rendszert azonosító kód,
 
 g) szabályozott piacra bevezetett értékpapír esetén a kereskedés helye, és az értékpapír kereskedési kódja.
 
-(3)[^1] A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 24. § (11) bekezdése szerinti társadalombiztosítási nyugdíjrendszerbe történő visszalépések miatti vagyonátadás tekintetében a magánnyugdíjpénztár és az Alap közötti utólagos elszámolások magyar forintban kerülnek lebonyolításra a 2011. május 31. napjára vonatkozóan megállapított piaci érték figyelembevételével.
+(3)[^2] A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 24. § (11) bekezdése szerinti társadalombiztosítási nyugdíjrendszerbe történő visszalépések miatti vagyonátadás tekintetében a magánnyugdíjpénztár és az Alap közötti utólagos elszámolások magyar forintban kerülnek lebonyolításra a 2011. május 31. napjára vonatkozóan megállapított piaci érték figyelembevételével.
 
-(4)[^2] Az Mpt. 24. § (17) bekezdése szerinti társadalombiztosítási nyugdíjrendszerbe történő visszalépések miatti vagyonátadás tekintetében a magánnyugdíjpénztár és az Alap közötti utólagos elszámolások magyar forintban kerülnek lebonyolításra a 2012. május 31. napjára vonatkozóan megállapított piaci érték figyelembevételével.
+(4)[^3] Az Mpt. 24. § (17) bekezdése szerinti társadalombiztosítási nyugdíjrendszerbe történő visszalépések miatti vagyonátadás tekintetében a magánnyugdíjpénztár és az Alap közötti utólagos elszámolások magyar forintban kerülnek lebonyolításra a 2012. május 31. napjára vonatkozóan megállapított piaci érték figyelembevételével.
 
-[^1]: A 2. § (3) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (4) bekezdését a 425/2012. (XII. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^2]: A 2. § (3) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (4) bekezdését a 425/2012. (XII. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
