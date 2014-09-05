@@ -1,5 +1,3 @@
-## 13. § Ha a védett állomány tagjának állományviszonya a vizsgálat ideje alatt bármilyen okból megszűnik, a vizsgálatot határozattal be kell fejezni.
-
 ## 6. Záró rendelkezések
 
 14. § (1) Ez a rendelet 2011. január 1-jén lép hatályba.

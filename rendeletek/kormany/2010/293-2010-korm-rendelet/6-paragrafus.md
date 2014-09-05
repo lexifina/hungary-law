@@ -4,7 +4,7 @@
 
 (2) Az NVSZ a következő bűncselekmények esetén folytat felderítést:
 
-a)[^1] a védett állomány tagja által elkövetett
+a)[^3] a védett állomány tagja által elkövetett
 
 aa) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti visszaélés személyes adattal (1978. évi IV. törvény 177/A. §), XV. fejezet IV. címe szerinti hivatali bűncselekmények, bűnpártolás [1978. évi IV. törvény 244. § (3) bekezdés b) pont], vesztegetés (1978. évi IV. törvény 250–255. §), közokirat-hamisítás (1978. évi IV. törvény 275. §), zsarolás [1978. évi IV. törvény 323. § (2) bekezdés c) pont],
 
@@ -16,7 +16,7 @@ ad) katonai bűncselekmények (az 1978. évi IV. törvény XX. fejezet, illetve 
 
 b) a védett állományba nem tartozó személy által elkövetett, az a) pontban felsorolt bűncselekmények, ha azt a védett állományba nem tartozó személy a védett állományba tartozó személlyel közösen, vagy annak segítségével követi el;
 
-c)[^2] a védett állomány tagjával szemben hivatali kötelességének teljesítése miatt vagy reá tekintettel elkövetett bűncselekmények, továbbá a védett állomány közeli hozzátartozójával vagy a védett állomány tagjával kapcsolatban álló más személlyel szemben elkövetett emberölés, kényszerítés, személyi szabadság megsértése, emberrablás vagy zsarolás felderítése, feltéve, hogy e bűncselekményeket a védett állomány tagjának hivatali kötelessége teljesítése miatt vagy reá tekintettel követték el.
+c)[^4] a védett állomány tagjával szemben hivatali kötelességének teljesítése miatt vagy reá tekintettel elkövetett bűncselekmények, továbbá a védett állomány közeli hozzátartozójával vagy a védett állomány tagjával kapcsolatban álló más személlyel szemben elkövetett emberölés, kényszerítés, személyi szabadság megsértése, emberrablás vagy zsarolás felderítése, feltéve, hogy e bűncselekményeket a védett állomány tagjának hivatali kötelessége teljesítése miatt vagy reá tekintettel követték el.
 
-[^1]: A 6. § (2) bekezdés a) pontja a 172/2013. (V. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^2]: A 6. § (2) bekezdés c) pontja a 376/2011. (XII. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^3]: A 6. § (2) bekezdés a) pontja a 172/2013. (V. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^4]: A 6. § (2) bekezdés c) pontja a 376/2011. (XII. 31.) Korm. rendelet 11. §-ával megállapított szöveg.

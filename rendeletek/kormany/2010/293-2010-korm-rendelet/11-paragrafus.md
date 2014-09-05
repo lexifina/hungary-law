@@ -8,7 +8,7 @@ c) a vizsgálat során alkalmazni kívánt módszer részletes leírását,
 
 d) a kialakítani tervezett élethelyzet leírását a tényállás és a helyszín részletes bemutatásával,
 
-e)[^10] a vizsgálat tervezett helyét – út, útvonal szakasz, kerület, városrész, város, település, járőr útvonala, megye, hivatalos helyiség, jármű –, időpontját,
+e)[^12] a vizsgálat tervezett helyét – út, útvonal szakasz, kerület, városrész, város, település, járőr útvonala, megye, hivatalos helyiség, jármű –, időpontját,
 
 f) a vizsgálatot végzők nevét és rendfokozatát,
 
@@ -26,4 +26,4 @@ i) a vizsgálat befejezését követő tájékoztatás érdekében a vizsgálatt
 
 (5) A rögzített adat kísérőjegyzékének tartalmaznia kell az ügyirat számát, a vizsgálat célját, a vizsgálattal érintett nevét, a helyszín és időpont megjelölését.
 
-[^10]: A 11. § (1) bekezdés e) pontja a 319/2012. (XI. 13.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^12]: A 11. § (1) bekezdés e) pontja a 319/2012. (XI. 13.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
