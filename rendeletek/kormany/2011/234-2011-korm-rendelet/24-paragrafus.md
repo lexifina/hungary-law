@@ -4,7 +4,7 @@
 
 a) közvetlenül veszélyeztetettek az atomerőmű 3 km-es és a kutatóreaktor 1 km-es körzetében,
 
-b)[^8] a Kat. IV. Fejezetének hatálya alá tartozó üzem által veszélyeztetettek és külső védelmi terv készítésére kötelezettek,
+b)[^9] a Kat. IV. Fejezetének hatálya alá tartozó üzem által veszélyeztetettek és külső védelmi terv készítésére kötelezettek,
 
 c) az egyes veszélyeztető hatások kockázatbecslése és a kockázati mátrixban történő elhelyezése alapján a 2. melléklet b) pontja szerinti I. besorolást kapják, illetve
 
@@ -24,4 +24,4 @@ a) a Kat. IV. Fejezetének hatálya alá nem tartozó üzem által a veszélyes 
 
 b) az egyes veszélyeztető hatások kockázatbecslése és a kockázati mátrixban történő elhelyezése alapján a 2. melléklet b) pontja szerinti III. besorolást kapják.
 
-[^8]: A 24. § (1) bekezdés b) pontja a 74/2012. (IV. 13.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^9]: A 24. § (1) bekezdés b) pontja a 74/2012. (IV. 13.) Korm. rendelet 15. §-a szerint módosított szöveg.
