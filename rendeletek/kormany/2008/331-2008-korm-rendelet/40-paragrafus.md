@@ -1,1 +1,0 @@
-## 39. § A Bkr.-be – e rendelet 3. számú mellékletével – beiktatott 5. számú melléklet előírásait a befektetési vállalkozásoknak először a 2009. március 31-i minősítés során kell alkalmazniuk, azzal, hogy a számviteli politikát is legkésőbb eddig az időpontig kell e mellékletnek megfelelően átdolgozniuk.
