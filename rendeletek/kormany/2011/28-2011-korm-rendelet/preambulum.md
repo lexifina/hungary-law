@@ -1,1 +1,0 @@
-A Kormány az egyes elkobzott dolgok közérdekű felhasználásáról szóló 2000. évi XIII. törvény 7. § (6) bekezdésében foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
