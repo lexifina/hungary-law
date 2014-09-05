@@ -1,3 +1,0 @@
-## IV. Fejezet
-
-## ZÁRÓ RENDELKEZÉSEK

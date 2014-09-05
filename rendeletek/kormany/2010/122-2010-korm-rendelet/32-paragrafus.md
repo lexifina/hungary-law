@@ -1,3 +1,0 @@
-32. § (1) A 27. § (1) bekezdés a) és b) pontja szerinti támogatási cél esetén a pályázat elbírálásakor – a pályázati felhívásban rögzítettek szerint – biztosítani kell, hogy az egy pályázatra adható maximális pontérték 10%-a annak értékelésére szolgáljon, hogy a pályázatot leghátrányosabb helyzetű kistérségből nyújtották-e be.
-
-(2) A 27. § (1) bekezdés a) és b) pontja szerinti támogatási cél esetén a pályázat elbírálásakor – a pályázati felhívásban rögzítettek szerint – biztosítani kell, hogy az egy pályázatra adható maximális pontérték 5%-a annak értékelésére szolgáljon, hogy a pályázatot hátrányos helyzetű kistérségből nyújtották-e be.

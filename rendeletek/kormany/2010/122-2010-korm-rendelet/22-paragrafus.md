@@ -1,3 +1,0 @@
-22. § (1) A 21. § b) pontjában meghatározott kedvezményezett számára támogatás közszolgáltatások ellentételezése formájában nyújtható, ha a kedvezményezett a fejlesztés eredményeinek segítségével az érintett településen vagy településrészen maga nyújt közszolgáltatást.
-
-(2) A támogatás mértéke nem haladhatja meg a közszolgáltatás ellátásának nettó költségét, azaz a közszolgáltatás működtetésével kapcsolatban felmerült költségek és az ezzel összefüggésben keletkezett bevételek különbségét, figyelembe véve egy, a közszolgáltatás ellátásához kapcsolódó sajáttőke-rész alapján várható ésszerű profitot is.

@@ -1,1 +1,0 @@
-## 39. § A kedvezményezett a támogatási szerződés szerint tervezett befejezési határidőt követő 3 hónapon belül elszámoló adatlapon elszámol a támogatás felhasználásáról a Tanácsnak. Az elszámolással egyidejűleg a fel nem használt támogatásról le kell mondani. A Tanács az ellenőrzött elszámoló adatlap megküldésével tájékoztatja a Kincstárt az elszámolás megtörténtéről.
