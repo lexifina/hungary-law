@@ -160,6 +160,6 @@
 
 3. § (1) Ez a rendelet kihirdetése napján lép hatályba, rendelkezéseit azonban az 1974. évi szeptember hó 24. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a közlekedési és vízügyi[^2] miniszter gondoskodik.
+(2)[^2] E rendelet végrehajtásáról a közlekedésért felelős miniszter gondoskodik.
 
-[^2]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 47. §-ával megállapított szöveg.
