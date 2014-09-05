@@ -106,17 +106,17 @@
 
 ## 1.5. A Bizottság tagjai sem a minősítést megalapozó vizsgálatokban, sem a vizsgáló laboratórium javaslatának elkészítésében nem vehetnek részt.
 
-## 1.6. A Bizottság tagjai és titkára tiszteletdíjat kap.
+## 1.6.[^62] A Bizottság tagjai és titkára tiszteletdíjat kap.
 
 ## A Bizottság által felkért külső szakértők szakértői díjazásban részesülnek.
 
-## A tiszteletdíj és a szakértői díj összegét a környezetvédelmi miniszter határozza meg.
+## A tiszteletdíj és a szakértői díj összegét a környezetvédelemért felelős miniszter határozza meg.
 
 ## 1.7. A Bizottság ügyrendjét egyszerű többséggel fogadja el.
 
 ## 2. A Bizottság feladata
 
-## 2.1.[^62] A D.1. pontban meghatározott dokumentumokon kívül további adatokat kérhet a hulladék termelőjétől, illetve kezelőjétől, ha állásfoglalásának kialakításához további információkat tart szükségesnek. Állati hulladék minősítésekor a H9 veszélyességi jellemző vonatkozásában kikéri a hulladék keletkezésének vagy kezelésének helye szerint megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága szakvéleményét.
+## 2.1.[^63] A D.1. pontban meghatározott dokumentumokon kívül további adatokat kérhet a hulladék termelőjétől, illetve kezelőjétől, ha állásfoglalásának kialakításához további információkat tart szükségesnek. Állati hulladék minősítésekor a H9 veszélyességi jellemző vonatkozásában kikéri a hulladék keletkezésének vagy kezelésének helye szerint megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága szakvéleményét.
 
 ## 2.2. A minősítést megalapozó vizsgálatok alapján állásfoglalást készít az adott hulladék veszélyességéről vagy veszélytelenségéről.
 
@@ -168,11 +168,11 @@
 
 ## D) A hulladékok minősítése
 
-## 1.[^63] A hulladék birtokosa a hulladék minősítésére vonatkozó kérelmét a következő dokumentumok 10 példányban – az illetékes környezetvédelmi hatóságnál – történő benyújtásával kérheti:
+## 1.[^64] A hulladék birtokosa a hulladék minősítésére vonatkozó kérelmét a következő dokumentumok 10 példányban – az illetékes környezetvédelmi hatóságnál – történő benyújtásával kérheti:
 
 ## 1.1. Kérelem a minősítő eljárás lefolytatására. A kérelem minimális tartalmi elemei:
 
-## 1.1.1.[^64] a kérelmező statisztikai azonosító jele és telephelyének címe,
+## 1.1.1.[^65] a kérelmező statisztikai azonosító jele és telephelyének címe,
 
 ## 1.1.2. a minősítendő hulladék mennyisége,
 
@@ -180,25 +180,25 @@
 
 ## 1.1.4. a hulladékkal kapcsolatos egyéb információk (pl. megjelenési forma, szilárd, folyadék, iszap),
 
-## 1.1.5.[^65] a mintavételre felkért akkreditált laboratórium neve, címe és akkreditálási dokumentumának másolata,
+## 1.1.5.[^66] a mintavételre felkért akkreditált laboratórium neve, címe és akkreditálási dokumentumának másolata,
 
 ## 1.1.6. azoknak a szükséges méréseknek a felsorolása, amelyekről a kérelmező úgy vélekedik, hogy elégségesek a hulladék minősítéséhez.
 
 ## 1.2. Az akkreditált laboratóriumnak – a vizsgálatok értékelése alapján – a minősítés megalapozására készített szakvéleménye.
 
-## 1.3.[^66]
+## 1.3.[^67]
 
 ## 1.4. Az eljárási díj befizetéséről szóló igazolás (1 példányban).
 
-## 2.[^67]
+## 2.[^68]
 
-## 3.[^68] A környezetvédelmi hatóság az 1. pontban ismertetett dokumentumokat, szakmai javaslatával együtt, a kérelem kézhezvételét követő tizenöt napon belül továbbítja a Környezet- és Természetvédelmi Főfelügyelőséghez, amelynek gondoskodnia kell a dokumentumoknak a Bizottság elnökéhez nyolc napon belül történő továbbításáról.
+## 3.[^69] A környezetvédelmi hatóság az 1. pontban ismertetett dokumentumokat, szakmai javaslatával együtt, a kérelem kézhezvételét követő tizenöt napon belül továbbítja a Környezet- és Természetvédelmi Főfelügyelőséghez, amelynek gondoskodnia kell a dokumentumoknak a Bizottság elnökéhez nyolc napon belül történő továbbításáról.
 
 ## 4. Hiányosan benyújtott dokumentáció, illetve a hiányok pótlásának elmaradása esetében a Bizottság a benyújtott dokumentáció alapján alakítja ki állásfoglalását.
 
 ## 5. A minősítés eredményéről a jegyzőkönyv alapján a Bizottság állásfoglalást készít.
 
-## 6.[^69] A minősítés alapján a Környezet- és Természetvédelmi Főfelügyelőség határozatot ad ki a hulladék veszélyességéről, illetve veszélytelenségéről. A határozat egy-egy példányát megküldi
+## 6.[^70] A minősítés alapján a Környezet- és Természetvédelmi Főfelügyelőség határozatot ad ki a hulladék veszélyességéről, illetve veszélytelenségéről. A határozat egy-egy példányát megküldi
 
 ## – a hulladék birtokosának,
 
@@ -210,7 +210,7 @@
 
 ## – a közegészségügyi hatóságnak,
 
-## – a környezetvédelemért felelős miniszter által vezetett minisztérium környezetvédelmi helyettes államtitkárának.
+## – a környezetvédelemért felelős miniszter által vezetett minisztériumnak.
 
 ## E) A hulladék környezeti veszélyességének megállapítása
 
@@ -218,7 +218,7 @@
 
 ## 1. A hulladékok minősítésére szolgáló nemzeti vizsgálatok
 
-## 1.1.[^70] Fizikai és kémiai vizsgálatok
+## 1.1.[^71] Fizikai és kémiai vizsgálatok
 
 ## A hulladék veszélyes összetevői anyagi minőségének és koncentrációjának meghatározása:
 
@@ -298,7 +298,7 @@
 
 ## 2.1.3. a környezet élő szervezeteit károsító hulladékok, amelyek desztillált vizes kivonata a Daphnia- és a csíranövény-tesztben >100-szoros, a baktériumtesztben, a hal- és algatesztben >50-szeres hígításban károsító hatású,
 
-## 2.1.4.[^71] azok a hulladékok, amelyek mutagenitási tesztje legalább közepes mutagén hatást (>500 revertáns/g) jelez.
+## 2.1.4.[^72] azok a hulladékok, amelyek mutagenitási tesztje legalább közepes mutagén hatást (>500 revertáns/g) jelez.
 
 ## 2.2. A mikrobiológiai laborok esetében:
 
@@ -588,19 +588,20 @@
 
 ## aláírás
 
-2. számú melléklet a 98/2001. (VI. 15.) Korm. rendelethez[^72]
+2. számú melléklet a 98/2001. (VI. 15.) Korm. rendelethez[^73]
 
 [^59]: Az 1. számú melléklet A) pontjának 3. alpontja a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^60]: Az 1. számú melléklet B) pontjának 5.5. alpontja a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^61]: [Az 1. számú melléklet C) fejezet 1.4. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § a) pontjával elrendelt módosítás, amely szerint a „környezetvédelmi, természetvédelmi és vízügyi felügyelőség” szövegrészek helyébe a „környezetvédelmi és természetvédelmi felügyelőség” lép, nem vezethető át.]
-[^62]: Az 1. számú melléklet C) rész 2.1. alpontja a 192/2003. (XI. 26.) Korm. rendelet 7. §-ával megállapított, a 337/2007. (XII. 13.) Korm. rendelet 9. § (2) bekezdésének a) pontja, a 296/2012. (X. 17.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^63]: [Az 1. számú melléklet D) fejezet 1. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § h) pontjával elrendelt módosítás, amley szerint a „környezetvédelmi, természetvédelmi és vízügyi felügyelőségnél” szövegrész helyébe a „környezetvédelmi és természetvédelmi felügyelőségnél” szöveg lép, nem vezethető át.]
-[^64]: Az 1. számú melléklet D) fejezetének 1.1.1. alpontja a 192/2003. (XI. 26.) Korm. rendelet 11. §-ának (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^65]: Az 1. számú melléklet D) pontjának 1.1.5. alpontja a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^66]: Az 1. számú melléklet D) pontjának 1.3. alpontját a 182/2009. (IX. 10.) Korm. rendelet 230. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^67]: Az 1. számú melléklet D) pontjának 2. alpontját a 182/2009. (IX. 10.) Korm. rendelet 230. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^68]: Az 1. számú melléklet D) fejezet 3. pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (26) bekezdése szerint módosított szöveg. [Az 1. számú melléklet D) fejezet 3. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § a) pontjával elrendelt módosítás, amely szerint a „környezetvédelmi, természetvédelmi és vízügyi felügyelőség” szövegrészek helyébe a „környezetvédelmi és természetvédelmi felügyelőség” lép, nem vezethető át. Az 1. számú melléklet D) fejezet 3. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § f) pontjával elrendelt módosítás, amely szerint a „Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőségtől” szövegrész helyébe az „Országos Környezetvédelmi és Természetvédelmi Főfelügyelőségtől” szöveg lép, nem vezethető át.]
-[^69]: Az 1. számú melléklet D) rész 6. pontja az 527/2013. (XII. 30.) Korm. rendelet 16. § i) pontja szerint módosított szöveg. [Az 1. számú melléklet D) fejezet 6. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § g) pontjával elrendelt módosítás, amely szerint a „Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséghez” szövegrész helyébe az „Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséghez” szöveg lép, nem vezethető át. Az 1. számú melléklet D) fejezet 6. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § k) pontjával elrendelt módosítás, amely szerint a „környezetvédelmi, természetvédelmi és vízügyi felügyelőségeknek” szövegrész helyébe a „környezetvédelmi és természetvédelmi felügyelőségeknek” szöveg lép, nem vezethető át.]
-[^70]: Az 1. számú melléklet E) fejezetének 1.1. alpontja a 192/2003. (XI. 26.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-ának (1) bekezdése alapján rendelkezéseit az első fokon még el nem bírált ügyekben is alkalmazni kell.
-[^71]: Az 1. számú melléklet E) fejezetének 2.1.4. alpontja a 192/2003. (XI. 26.) Korm. rendelet 8. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 11. §-ának (1) bekezdése alapján rendelkezéseit az első fokon még el nem bírált ügyekben is alkalmazni kell.
-[^72]: A 2. számú melléklet a 313/2005. (XII. 25.) Korm. rendelet 15. § (3) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 16. § j) pontja szerint módosított szöveg.
+[^62]: Az 1. számú melléklet C) rész 1. pont 1.6. alpontja a 221/2014. (IX. 4.) Korm. rendelet 221. § b) pontja szerint módosított szöveg.
+[^63]: Az 1. számú melléklet C) rész 2.1. alpontja a 192/2003. (XI. 26.) Korm. rendelet 7. §-ával megállapított, a 337/2007. (XII. 13.) Korm. rendelet 9. § (2) bekezdésének a) pontja, a 296/2012. (X. 17.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^64]: [Az 1. számú melléklet D) fejezet 1. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § h) pontjával elrendelt módosítás, amley szerint a „környezetvédelmi, természetvédelmi és vízügyi felügyelőségnél” szövegrész helyébe a „környezetvédelmi és természetvédelmi felügyelőségnél” szöveg lép, nem vezethető át.]
+[^65]: Az 1. számú melléklet D) fejezetének 1.1.1. alpontja a 192/2003. (XI. 26.) Korm. rendelet 11. §-ának (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^66]: Az 1. számú melléklet D) pontjának 1.1.5. alpontja a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^67]: Az 1. számú melléklet D) pontjának 1.3. alpontját a 182/2009. (IX. 10.) Korm. rendelet 230. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^68]: Az 1. számú melléklet D) pontjának 2. alpontját a 182/2009. (IX. 10.) Korm. rendelet 230. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^69]: Az 1. számú melléklet D) fejezet 3. pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (26) bekezdése szerint módosított szöveg. [Az 1. számú melléklet D) fejezet 3. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § a) pontjával elrendelt módosítás, amely szerint a „környezetvédelmi, természetvédelmi és vízügyi felügyelőség” szövegrészek helyébe a „környezetvédelmi és természetvédelmi felügyelőség” lép, nem vezethető át. Az 1. számú melléklet D) fejezet 3. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § f) pontjával elrendelt módosítás, amely szerint a „Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőségtől” szövegrész helyébe az „Országos Környezetvédelmi és Természetvédelmi Főfelügyelőségtől” szöveg lép, nem vezethető át.]
+[^70]: Az 1. számú melléklet D) rész 6. pontja az 527/2013. (XII. 30.) Korm. rendelet 16. § i) pontja, a 221/2014. (IX. 4.) Korm. rendelet 221. § c) pontja szerint módosított szöveg. [Az 1. számú melléklet D) fejezet 6. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § g) pontjával elrendelt módosítás, amely szerint a „Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséghez” szövegrész helyébe az „Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséghez” szöveg lép, nem vezethető át. Az 1. számú melléklet D) fejezet 6. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § k) pontjával elrendelt módosítás, amely szerint a „környezetvédelmi, természetvédelmi és vízügyi felügyelőségeknek” szövegrész helyébe a „környezetvédelmi és természetvédelmi felügyelőségeknek” szöveg lép, nem vezethető át.]
+[^71]: Az 1. számú melléklet E) fejezetének 1.1. alpontja a 192/2003. (XI. 26.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-ának (1) bekezdése alapján rendelkezéseit az első fokon még el nem bírált ügyekben is alkalmazni kell.
+[^72]: Az 1. számú melléklet E) fejezetének 2.1.4. alpontja a 192/2003. (XI. 26.) Korm. rendelet 8. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 11. §-ának (1) bekezdése alapján rendelkezéseit az első fokon még el nem bírált ügyekben is alkalmazni kell.
+[^73]: A 2. számú melléklet a 313/2005. (XII. 25.) Korm. rendelet 15. § (3) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 16. § j) pontja szerint módosított szöveg.

@@ -378,6 +378,6 @@
 
 |  | Összes hulladékmennyiség: | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ |  |
 
-3. számú melléklet a 98/2001. (VI. 15.) Korm. rendelethez[^73]
+3. számú melléklet a 98/2001. (VI. 15.) Korm. rendelethez[^74]
 
-[^73]: A 3. számú melléklet a 377/2007. (XII. 23.) Korm. rendelet 10. §-ának – a Magyar Közlöny 2007. évi 187. számában megjelenő helesbítésnek megfelelő – (1) bekezdése szerint módosított szöveg. A 3. számú melléklet a 289/2010. (XII. 21.) Korm. rendelet 3. § (26) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 16. § a)–b) pontja szerint módosított szöveg.
+[^74]: A 3. számú melléklet a 377/2007. (XII. 23.) Korm. rendelet 10. §-ának – a Magyar Közlöny 2007. évi 187. számában megjelenő helesbítésnek megfelelő – (1) bekezdése szerint módosított szöveg. A 3. számú melléklet a 289/2010. (XII. 21.) Korm. rendelet 3. § (26) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 16. § a)–b) pontja szerint módosított szöveg.

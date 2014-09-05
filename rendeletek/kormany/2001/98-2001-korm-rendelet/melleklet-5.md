@@ -4,11 +4,11 @@
 
 ## A) A technológiaminősítési kérelem
 
-## 1.[^76] Az eljárás megindítását a technológia tulajdonosa, illetve alkalmazója a Környezet- és Természetvédelmi Főfelügyelőséghez 10 példányban benyújtott kérelemmel kezdeményezi.
+## 1.[^77] Az eljárás megindítását a technológia tulajdonosa, illetve alkalmazója a Környezet- és Természetvédelmi Főfelügyelőséghez 10 példányban benyújtott kérelemmel kezdeményezi.
 
 ## A kérelemnek az alábbiakat kell tartalmaznia:
 
-## 1.1.[^77]
+## 1.1.[^78]
 
 ## 1.2. referencia-technológia (hazai, EU, illetve OECD) alkalmazásának helyét. Magyarországon alkalmazott technológia esetében a technológiára vonatkozó hatósági határozatok másolatát,
 
@@ -16,7 +16,7 @@
 
 ## 1.4. a környezetvédelmi felülvizsgálat végzésére feljogosított szakértő által készített szakértői véleményt,
 
-## 1.5.[^78]
+## 1.5.[^79]
 
 ## B) A szakértői vélemény tartalmi követelményei
 
@@ -58,19 +58,19 @@
 
 ## Hiányosan benyújtott dokumentáció esetén a Bizottság kérheti a hiányok pótlását, ennek elmaradása esetén a Bizottság a rendelkezésre álló információk alapján alakítja ki állásfoglalását, vagy állásfoglalás nélkül visszaküldi a dokumentációt a kérelmezőnek.
 
-## 3.[^79] A Környezet- és Természetvédelmi Főfelügyelőség a minősítő határozat egy-egy példányát megküldi
+## 3.[^80] A Környezet- és Természetvédelmi Főfelügyelőség a minősítő határozat egy-egy példányát megküldi
 
 ## a) a technológia tulajdonosának,
 
 ## b) a vizsgáló szakértőnek,
 
-## c)[^80] a környezetvédelmi felügyelőségeknek,
+## c)[^81] a környezetvédelmi felügyelőségeknek,
 
 ## d) a közegészségügyi hatóságnak,
 
-## e)[^81] a környezetvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában történő közzététel érdekében,
+## e)[^82]
 
-## f)[^82] a környezetvédelemért felelős miniszter által vezetett minisztérium környezetvédelmi helyettes államtitkárnak,
+## f)[^83] a környezetvédelemért felelős miniszter által vezetett minisztériumnak,
 
 ## g) a Bizottságnak.
 
@@ -96,13 +96,13 @@
 
 ## 10. Egyéb, a technológia környezetvédelmi, műszaki és gazdasági alkalmazhatóságára, a biztonsági előírásokra, a hulladékok gyűjtésére és kezelésére vonatkozó feltételekre, valamint az alkalmazás helyére vonatkozó információk:
 
-5. számú melléklet a 98/2001. (VI. 15.) Korm. rendelethez[^83]
+5. számú melléklet a 98/2001. (VI. 15.) Korm. rendelethez[^84]
 
-[^76]: [A 4. számú melléklet A) fejezet 1. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § f) pontjával elrendelt módosítás, amely szerint a „Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőségtől” szövegrész helyébe az „Országos Környezetvédelmi és Természetvédelmi Főfelügyelőségtől” szöveg lép, nem vezethető át.]
-[^77]: A 4. számú melléklet A) pontjának 1.1. alpontját a 182/2009. (IX. 10.) Korm. rendelet 230. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^78]: A 4. számú melléklet A) pontjának 1.5. alpontját a 182/2009. (IX. 10.) Korm. rendelet 230. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^79]: [A 4. számú melléklet C) fejezet 3. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § g) pontjával elrendelt módosítás, amely szerint a „Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséghez” szövegrész helyébe az „Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséghez” szöveg lép, nem vezethető át.]
-[^80]: [A 4. számú melléklet C) fejezet 3. pont c) alpontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § k) pontjával elrendelt módosítás, amely szerint a „környezetvédelmi, természetvédelmi és vízügyi felügyelőségeknek” szövegrész helyébe a „környezetvédelmi és természetvédelmi felügyelőségeknek” szöveg lép, nem vezethető át.]
-[^81]: A 4. számú melléklet C) fejezet 3. pont e) alpontja az 527/2013. (XII. 30.) Korm. rendelet 16. § l) pontja szerint módosított szöveg.
-[^82]: A 4. számú melléklet C) fejezet 3. pont f) alpontja az 527/2013. (XII. 30.) Korm. rendelet 16. § i) pontja szerint módosított szöveg.
-[^83]: Az 5. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 52. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^77]: [A 4. számú melléklet A) fejezet 1. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § f) pontjával elrendelt módosítás, amely szerint a „Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőségtől” szövegrész helyébe az „Országos Környezetvédelmi és Természetvédelmi Főfelügyelőségtől” szöveg lép, nem vezethető át.]
+[^78]: A 4. számú melléklet A) pontjának 1.1. alpontját a 182/2009. (IX. 10.) Korm. rendelet 230. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^79]: A 4. számú melléklet A) pontjának 1.5. alpontját a 182/2009. (IX. 10.) Korm. rendelet 230. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^80]: [A 4. számú melléklet C) fejezet 3. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § g) pontjával elrendelt módosítás, amely szerint a „Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséghez” szövegrész helyébe az „Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséghez” szöveg lép, nem vezethető át.]
+[^81]: [A 4. számú melléklet C) fejezet 3. pont c) alpontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § k) pontjával elrendelt módosítás, amely szerint a „környezetvédelmi, természetvédelmi és vízügyi felügyelőségeknek” szövegrész helyébe a „környezetvédelmi és természetvédelmi felügyelőségeknek” szöveg lép, nem vezethető át.]
+[^82]: A 4. számú melléklet C) rész 3. pont e) alpontját a 221/2014. (IX. 4.) Korm. rendelet 222. §-a hatályon kívül helyezte.
+[^83]: A 4. számú melléklet C) rész 3. pont f) alpontja az 527/2013. (XII. 30.) Korm. rendelet 16. § i) pontja, a 221/2014. (IX. 4.) Korm. rendelet 221. § c) pontja szerint módosított szöveg.
+[^84]: Az 5. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 52. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

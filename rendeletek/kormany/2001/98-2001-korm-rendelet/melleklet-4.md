@@ -40,7 +40,7 @@
 
 ## – a gyűjtőhelyet úgy kell kialakítani, hogy a gyűjtés időtartama során esetleg megsérülő csomagolóeszközből, gyűjtőedényzetből kikerülő veszélyes hulladék ne okozzon környezetszennyezést.
 
-## 1.2.[^74] A gyűjtőhely működtetése során különösen a következő szempontokat kell figyelembe venni:
+## 1.2.[^75] A gyűjtőhely működtetése során különösen a következő szempontokat kell figyelembe venni:
 
 ## – a veszélyes hulladékot a hulladék kémiai hatásainak ellenálló, folyadékzáró csomagolóeszközben, gyűjtő-edényzetben kell gyűjteni,
 
@@ -74,7 +74,7 @@
 
 ## 7. A tárolótelepen ellenőrző laboratóriumot kell létesíteni a beszállított hulladékok összetételének, az alkalmazott kezelési technológiák, valamint az esetleg szennyeződött környezeti elemek állapotának ellenőrzése céljából.
 
-## 8.[^75] A tárolótelepen kizárólag a környezetvédelmi hatóság által kiadott engedélyben meghatározott veszélyeshulladék-kezelési eljárások alkalmazhatók.
+## 8.[^76] A tárolótelepen kizárólag a környezetvédelmi hatóság által kiadott engedélyben meghatározott veszélyeshulladék-kezelési eljárások alkalmazhatók.
 
 ## 9. A tárolótelepen a tárolás történhet nyílt téri vagy fedett formában az e mellékletben meghatározottak szerint.
 
@@ -128,5 +128,5 @@
 
 4. számú melléklet a 98/2001. (VI. 15.) Korm. rendelethez
 
-[^74]: A 3. számú melléklet 1. pont 1.2. alpontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 52. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^75]: [A 3. számú melléklet 8. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § a) pontjával elrendelt módosítás, amely szerint a „környezetvédelmi, természetvédelmi és vízügyi felügyelőség” szövegrészek helyébe a „környezetvédelmi és természetvédelmi felügyelőség” lép, nem vezethető át.]
+[^75]: A 3. számú melléklet 1. pont 1.2. alpontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 52. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^76]: [A 3. számú melléklet 8. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § a) pontjával elrendelt módosítás, amely szerint a „környezetvédelmi, természetvédelmi és vízügyi felügyelőség” szövegrészek helyébe a „környezetvédelmi és természetvédelmi felügyelőség” lép, nem vezethető át.]
