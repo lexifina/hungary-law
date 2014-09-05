@@ -1,1 +1,0 @@
-## 13. § A légi közlekedésről szóló 1995. évi XCVII. törvény végrehajtásáról szóló 141/1995. (XI. 30.) Korm. rendelet 23. § (5) bekezdésében a „62. életévét” szövegrész helyébe a „65. életévét” szöveg lép.
