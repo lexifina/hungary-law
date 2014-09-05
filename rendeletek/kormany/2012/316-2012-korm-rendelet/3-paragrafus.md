@@ -42,7 +42,7 @@ d) a fenntartott költségvetési szervek vezetőit kinevezi, megbízza, felment
 
 e) jóváhagyásra felterjeszti a miniszternek a fenntartott költségvetési szervek alapító, megszüntető okiratát, illetve az alapító okirat módosítását,
 
-f)[^1] ellátja az átvett vagyon és az integrált intézményi vagyon – ide nem értve a gazdálkodó szervezetekben fennálló tulajdoni részesedést – tekintetében a vagyonkezelői feladatokat,
+f)[^3] ellátja az átvett vagyon és az integrált intézményi vagyon – ide nem értve a gazdálkodó szervezetekben fennálló tulajdoni részesedést – tekintetében a vagyonkezelői feladatokat,
 
 g) érvényesíti, illetve – módszertani segítséget is nyújtva – érvényesítteti a fenntartott költségvetési szervek tevékenységében a közfeladatok ellátására vonatkozó követelményeket, és az erőforrásokkal (így különösen: az előirányzatokkal, a létszámokkal és a vagyonnal) való szabályszerű és hatékony gazdálkodás követelményeit, továbbá számon kéri, ellenőrzi e követelmények érvényre juttatását.
 
@@ -54,4 +54,4 @@ b) közreműködik a fenntartott intézmények tervezési, gazdálkodási, besz�
 
 c) a fenntartott intézményekre vonatkozó költségvetés végrehajtásával, a közfeladatok ellátására vonatkozó követelmények, valamint az erőforrásokkal való szabályszerű és hatékony gazdálkodás követelményeinek teljesülésével kapcsolatosan rendszeresen beszámol a főigazgatónak.
 
-[^1]: A 3. § (2) bekezdés f) pontja a 448/2013. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § (2) bekezdés f) pontja a 448/2013. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
