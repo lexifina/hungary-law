@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1985-51-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1985-11-12 | 1985-51-20-65.1 | 51/1985. (XI. 12.) MT rendelet |
+| 2014-09-05 | 1985-51-20-65.2 | 221/2014. (IX. 4.) Korm. rendelet |

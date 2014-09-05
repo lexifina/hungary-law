@@ -318,8 +318,10 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban az 1985. évi július hó 6. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+(2)[^2] E rendelet végrehajtásáról az adópolitikáért felelős miniszter gondoskodik.
 
 Lázár György s. k.,
 
 a Minisztertanács elnöke
+
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 97. §-a szerint módosított szöveg.
