@@ -1,7 +1,3 @@
-## 1. § A Kormány a magyar örökség korszerű újrafogalmazása, a jelen és az eljövendő nemzedékek támogatása céljából, a nemzeti összetartozás erősítése, a külhoni magyarság erőforrásainak vizsgálata érdekében, az egyes állami feladatok ellátására létrehozza a Nemzetstratégiai Kutatóintézetet (a továbbiakban: Kutatóintézet).
+## 1. §[^1] A Nemzetstratégiai Kutatóintézet a kormányzati társadalmi kapcsolatok összehangolásáért felelős miniszter (a továbbiakban: miniszter) irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
 
-2. § (1) A Kutatóintézet központi hivatal.
-
-(2) A Kutatóintézet a miniszterelnök irányítása alatt áll.
-
-(3) A Kutatóintézet székhelye Budapest.
+[^1]: Az 1. § a 221/2014. (IX. 4.) Korm. rendelet 706. §-ával megállapított szöveg.
