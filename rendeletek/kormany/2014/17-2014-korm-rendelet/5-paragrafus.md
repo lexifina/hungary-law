@@ -18,8 +18,10 @@ a) minden, a felszámolók névjegyzékébe bejegyzett,
 
 b) a felszámolók névjegyzékéről szóló 114/2006. (V. 12.) Korm. rendelet 1. §-a szerinti, valamint
 
-c) a Cstv. 27/A. § (6) bekezdése alapján a folyamatban lévő felszámolási eljárásokban még közreműködő
+c)[^2] a Cstv. 27/A. § (6a) bekezdése alapján a folyamatban lévő felszámolási eljárásokban még közreműködő
 
 felszámoló szervezet számára.
 
 (3) Amennyiben az értékesítő az EÉR értékesítők jegyzékéből törlésre kerül, a működtető erről haladéktalanul elektronikus értesítést küld a felszámoló szervezet hatósági nyilvántartását ellátó szervnek.
+
+[^2]: Az 5. § (2) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 801. § b) pontja szerint módosított szöveg.
