@@ -1,1 +1,0 @@
-A Kormány a Magyar Köztársaság 2007. évi költségvetéséről szóló 2006. évi CXXVII. törvény (a továbbiakban: KvTv.) 4. §-a (1) bekezdésének a) pontja vonatkozásában kapott felhatalmazás alapján a következő rendeletet alkotja:
