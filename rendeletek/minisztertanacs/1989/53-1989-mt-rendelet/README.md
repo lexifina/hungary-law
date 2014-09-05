@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1989-53-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1989-06-10 | 1989-53-20-65.1 | 53/1989. (VI. 10.) MT rendelet |
+| 2014-09-05 | 1989-53-20-65.2 | 221/2014. (IX. 4.) Korm. rendelet |
