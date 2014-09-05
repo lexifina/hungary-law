@@ -2,9 +2,9 @@
 
 ## ,,MEGÁLLAPODÁS
 
-## a Magyar Népköztársaság[^3] Kormánya és a Belga—Luxemburgi Gazdasági Unio között a beruházások kölcsönös elősegítéséről és védelméről
+## a Magyar Népköztársaság[^4] Kormánya és a Belga—Luxemburgi Gazdasági Unio között a beruházások kölcsönös elősegítéséről és védelméről
 
-## A Magyar Népköztársaság[^4] Kormánya, és a Belga Királyság Kormánya, saját nevében, valamint a Luxemburgi Nagyhercegség Kormánya nevében a fennálló szerződések értelmében eljárva,
+## A Magyar Népköztársaság[^5] Kormánya, és a Belga Királyság Kormánya, saját nevében, valamint a Luxemburgi Nagyhercegség Kormánya nevében a fennálló szerződések értelmében eljárva,
 
 ## ATTÓL AZ ÓHAJTÓL vezetve, hogy ellmélyítsék gazdasági együttműködésüket előnyös feltételeket teremtve az egyik Szerződő Fél beruházói által a másik Szerződő Fél területén megvalósuló beruházásokhoz.
 
@@ -180,7 +180,8 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba; rendelkezéseit azonban 1988. szeptember 23-tól kezdődően kell alkalmazni.
 
-(2) E rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+(2)[^6] E rendelet végrehajtásáról a nemzetközi pénzügyi kapcsolatokért felelős miniszter gondoskodik.
 
-[^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^4]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^5]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^6]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 118. §-a szerint módosított szöveg.
