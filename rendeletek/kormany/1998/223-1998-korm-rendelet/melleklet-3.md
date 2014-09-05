@@ -74,6 +74,6 @@
 
 ## 3.9 a kérelmező vagy a törvényes képviselő aláíróhelye.
 
-3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^185]
+3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^186]
 
-[^185]: A 3. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § b) pontjával megállapított szöveg.
+[^186]: A 3. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § b) pontjával megállapított szöveg.

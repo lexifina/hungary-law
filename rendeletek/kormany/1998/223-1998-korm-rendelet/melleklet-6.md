@@ -46,6 +46,6 @@
 
 ## 3.2 a kérelmező aláíróhelye.
 
-6. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^188]
+6. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^189]
 
-[^188]: A 6. számú mellékletet a 394/2007. (XII. 27.) Korm. rendelet 19. § (1) bekezdése a) pontjának ah) alpontja hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 332/2011. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^189]: A 6. számú mellékletet a 394/2007. (XII. 27.) Korm. rendelet 19. § (1) bekezdése a) pontjának ah) alpontja hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 332/2011. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.

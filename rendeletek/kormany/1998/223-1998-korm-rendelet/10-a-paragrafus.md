@@ -1,12 +1,12 @@
-## 10. §[^79]
+## 10. §[^80]
 
-10/A. §[^80] (1) A jogosultsági feltételek teljesülése esetén a szülő részére a családi pótlékot akkor is meg kell állapítani, ha a szülő előzetes letartóztatásban van, vagy szabadságvesztés büntetését tölti.
+10/A. §[^81] (1) A jogosultsági feltételek teljesülése esetén a szülő részére a családi pótlékot akkor is meg kell állapítani, ha a szülő előzetes letartóztatásban van, vagy szabadságvesztés büntetését tölti.
 
-(2)[^81] Az előzetes letartóztatásban lévő, vagy szabadságvesztés büntetését töltő szülő családi pótlékra jogosultságának megállapítására a büntetés-végrehajtási intézet székhelye szerinti az Igazgatóság az illetékes.
+(2)[^82] Az előzetes letartóztatásban lévő, vagy szabadságvesztés büntetését töltő szülő családi pótlékra jogosultságának megállapítására a büntetés-végrehajtási intézet székhelye szerinti az Igazgatóság az illetékes.
 
-(3)[^82] A (2) bekezdés szerint eljáró Igazgatóság a családi pótlékra való jogosultságot megállapító határozatát a jogosult lakóhelye szerint illetékes Igazgatósággal is közli.
+(3)[^83] A (2) bekezdés szerint eljáró Igazgatóság a családi pótlékra való jogosultságot megállapító határozatát a jogosult lakóhelye szerint illetékes Igazgatósággal is közli.
 
-[^79]: A 10. §-t a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének e) pontja hatályon kívül helyezte.
-[^80]: A 10/A. §-t a 238/2002. (XI. 8.) Korm. rendelet 5. §-a iktatta a szövegbe.
-[^81]: A 10/A. § (2) bekezdése a 89/2003. (VI. 25.) Korm. rendelet 86. §-ának e) pontja szerint módosított szöveg.
-[^82]: A 10/A. § (3) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^80]: A 10. §-t a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének e) pontja hatályon kívül helyezte.
+[^81]: A 10/A. §-t a 238/2002. (XI. 8.) Korm. rendelet 5. §-a iktatta a szövegbe.
+[^82]: A 10/A. § (2) bekezdése a 89/2003. (VI. 25.) Korm. rendelet 86. §-ának e) pontja szerint módosított szöveg.
+[^83]: A 10/A. § (3) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.

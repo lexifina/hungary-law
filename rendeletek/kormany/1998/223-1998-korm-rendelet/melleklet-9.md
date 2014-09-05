@@ -1,4 +1,4 @@
-9. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^193]
+9. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^194]
 
 ## A tanulói jogviszony fennállásáról szóló igazolás adattartalma
 
@@ -46,4 +46,4 @@
 
 11. A kérelmező aláíróhelye
 
-[^193]: A 9. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 17. § f) pontjával megállapított szöveg.
+[^194]: A 9. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 17. § f) pontjával megállapított szöveg.
