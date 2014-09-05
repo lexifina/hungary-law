@@ -8,6 +8,7 @@ c) a Közbeszerzések Tanácsa a 3. mellékletben meghatározott adatok
 
 ## közlésével teljesíti minden év június 30-ig.
 
-(2) Az adatszolgáltatáshoz szükséges űrlapok letölthetők a Nemzeti Fejlesztési és Gazdasági Minisztérium honlapjáról, valamint a magyarorszag.hu kormányzati portálról.
+(2)[^2] Az adatszolgáltatáshoz szükséges űrlapok letölthetők a gazdaságpolitikáért felelős miniszter által vezetett minisztérium honlapjáról, valamint a magyarorszag.hu kormányzati portálról.
 
 [^1]: Az 1. § (1) bekezdés b) pontja a 345/2013. (IX. 30.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 444. §-a szerint módosított szöveg.
