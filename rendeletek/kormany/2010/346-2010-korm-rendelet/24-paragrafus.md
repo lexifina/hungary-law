@@ -1,6 +1,6 @@
-24. § (1)[^86] A kormányzati célú hírközlési szolgáltató az NTG részeként virtuális magánhálózatok használatával biztosítja a felhasználói hálózatok biztonságos logikai elkülöníthetőségét.
+24. § (1)[^88] A kormányzati célú hírközlési szolgáltató az NTG részeként virtuális magánhálózatok használatával biztosítja a felhasználói hálózatok biztonságos logikai elkülöníthetőségét.
 
-(2)[^87] A 4. § (4)–(5) bekezdésben foglalt kivétellel csatlakozásra kötelezett felhasználó más adatátviteli hálózathoz csak az NTG által biztosított hozzáférés útján csatlakozhat, más külső elektronikus hírközlési kapcsolatot nem létesíthet.
+(2)[^89] A 4. § (4)–(5) bekezdésben foglalt kivétellel csatlakozásra kötelezett felhasználó más adatátviteli hálózathoz csak az NTG által biztosított hozzáférés útján csatlakozhat, más külső elektronikus hírközlési kapcsolatot nem létesíthet.
 
-[^86]: A 24. § (1) bekezdése a 169/2013. (V. 29.) Korm. rendelet 32. § (24) bekezdése szerint módosított szöveg.
-[^87]: A 24. § (2) bekezdése a 169/2013. (V. 29.) Korm. rendelet 32. § (24)–(27) bekezdése szerint módosított szöveg.
+[^88]: A 24. § (1) bekezdése a 169/2013. (V. 29.) Korm. rendelet 32. § (24) bekezdése szerint módosított szöveg.
+[^89]: A 24. § (2) bekezdése a 169/2013. (V. 29.) Korm. rendelet 32. § (24)–(27) bekezdése szerint módosított szöveg.

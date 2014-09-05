@@ -1,4 +1,4 @@
-6. §[^34] (1) A kormányzati célú hírközlési szolgáltató az e rendelet alapján felelősségi körébe tartozó hálózat vonatkozásában kizárólagos jog alapján látja el:
+6. §[^36] (1) A kormányzati célú hírközlési szolgáltató az e rendelet alapján felelősségi körébe tartozó hálózat vonatkozásában kizárólagos jog alapján látja el:
 
 a) a kormányzati célú hálózat tervezését, a kormányzati célú hálózat előkészítését, létesítését, bővítését, fejlesztését, valamint fenntartására, működtetésére és üzemeltetésére irányuló szolgáltatásokat (a továbbiakban együtt: működtetés);
 
@@ -42,4 +42,4 @@ g) ellátja a VPN erőforrás-gazdálkodási feladatokat, megvizsgálja és elb�
 
 (7) A (2) bekezdés e) pontjában foglalt kötelezettség a 3. § (3) bekezdése szerinti kormányzati célú hírközlési szolgáltatóra nem terjed ki.
 
-[^34]: A 6. § a 169/2013. (V. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^36]: A 6. § a 169/2013. (V. 29.) Korm. rendelet 13. §-ával megállapított szöveg.

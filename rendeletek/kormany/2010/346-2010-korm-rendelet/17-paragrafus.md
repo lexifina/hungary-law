@@ -1,4 +1,4 @@
-17. §[^70] (1) A VPN gazda szervezeteket és az egyes VPN gazda szervezetekhez tartozó felhasználókat a 3. melléklet tartalmazza. A VPN gazda szervezetek az EDR-szolgáltatás hatékony működése érdekében a miniszter jóváhagyásával jogosultak a 3. mellékletben a felelősségi körükbe rendelt felhasználói kör megosztásától megállapodásban eltérni.
+17. §[^72] (1) A VPN gazda szervezeteket és az egyes VPN gazda szervezetekhez tartozó felhasználókat a 3. melléklet tartalmazza. A VPN gazda szervezetek az EDR-szolgáltatás hatékony működése érdekében a miniszter jóváhagyásával jogosultak a 3. mellékletben a felelősségi körükbe rendelt felhasználói kör megosztásától megállapodásban eltérni.
 
 (2) A 3. melléklet II/2. pontjában szereplő, valamint a (7) bekezdés alapján csatlakozók (egyedi finanszírozású kör) a 15. §-ban foglaltaktól eltérően a következő (3)–(8) bekezdésben meghatározott feltételek szerint csatlakoznak az EDR hálózathoz.
 
@@ -14,4 +14,4 @@
 
 (8) A kormányzati célú hírközlési szolgáltató (6) és (7) bekezdés alapján benyújtott előterjesztése a minisztert döntése meghozatalában nem köti.
 
-[^70]: A 17. § a 169/2013. (V. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^72]: A 17. § a 169/2013. (V. 29.) Korm. rendelet 21. §-ával megállapított szöveg.

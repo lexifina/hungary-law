@@ -1,4 +1,4 @@
-## 14. §[^63] A kormányzati célú hírközlési szolgáltató
+## 14. §[^65] A kormányzati célú hírközlési szolgáltató
 
 a) többszintű hierarchia szerint az EDR egységes infrastruktúráján biztosítja a VPN-ekhez való hozzáférést, ellátja a VPN erőforrás-gazdálkodási feladatokat, megvizsgálja és – a VPN gazda szervezetekkel kötött megállapodásban rögzített minimum szolgáltatási szintek biztosítása mellett – elbírálja a felhasználók VPN-einek erőforrásigényeit, és meghozza az ezzel kapcsolatos döntéseket;
 
@@ -12,4 +12,4 @@ e) megállapodásokat köt a külön törvényekben meghatározott szervek rész
 
 f) felhasználói szerződést köt a VPN gazda szervezetekkel, valamint a 3. melléklet II/2. pontjába tartozó EDR felhasználókkal.
 
-[^63]: A 14. § a 169/2013. (V. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^65]: A 14. § a 169/2013. (V. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
