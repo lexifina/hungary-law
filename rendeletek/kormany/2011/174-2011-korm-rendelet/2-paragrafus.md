@@ -1,6 +1,6 @@
 ## 1. Az alapvizsga rendszerének felügyelete
 
-## 2. §[^5] A közigazgatási, valamint az ügykezelői alapvizsga rendszer felügyeletét a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter látja el. E jogkörében eljárva különösen:
+## 2. §[^5] A közigazgatási, valamint az ügykezelői alapvizsga rendszer felügyeletét a közszolgálati életpálya kidolgozásáért felelős miniszter (a továbbiakban: miniszter) látja el. E jogkörében eljárva különösen:
 
 a) ellenőrzi a vizsgaszervezők működését, a vizsgaszervezők által a vizsga lebonyolításához biztosított feltételeket, a vizsgáztatás színvonalát,
 
@@ -8,8 +8,9 @@ b) ellenőrzi a vizsgáztatás lebonyolítását,
 
 c) vizsgálja és ellenőrzi a vizsgarendszer működésével kapcsolatos szakmai-módszertani, minőségügyi, fejlesztési, koordinációs feladatok ellátását, valamint
 
-d) a kormányzati személyzetpolitikáért való összhang megteremtéséért való felelőssége körében hivatalos adatszolgáltatást kérhet a közigazgatási alapvizsga nyilvántartásból,
+d)[^6] a kormányzati személyzetpolitikáért való összhang megteremtése érdekében hivatalos adatszolgáltatást kérhet a közigazgatási alapvizsga nyilvántartásból,
 
 e) jóváhagyja a minőségirányítás eljárásait.
 
-[^5]: A 2. § a 298/2013. (VII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § a 298/2013. (VII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 574. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § d) pontja a 221/2014. (IX. 4.) Korm. rendelet 574. § b) pontja szerint módosított szöveg.

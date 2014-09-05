@@ -6,18 +6,18 @@
 
 28. § (1) Ez a rendelet 2011. szeptember 1-jén lép hatályba.
 
-(2)[^56]
+(2)[^57]
 
-(3)[^57]
+(3)[^58]
 
-(4)[^58]
+(4)[^59]
 
-(5)–(8)[^59]
+(5)–(8)[^60]
 
-(9)[^60]
+(9)[^61]
 
-[^56]: A 28. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^57]: A 28. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^58]: A 28. § (4) bekezdését a 178/2012. (VII. 26.) Korm. rendelet 5. § (18) bekezdés d) pontja hatályon kívül helyezte.
-[^59]: 28. § (5)–(8) bekezdését a (9) bekezdés hatályon kívül helyezte.
-[^60]: A 28. § (9) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^57]: A 28. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: A 28. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 28. § (4) bekezdését a 178/2012. (VII. 26.) Korm. rendelet 5. § (18) bekezdés d) pontja hatályon kívül helyezte.
+[^60]: 28. § (5)–(8) bekezdését a (9) bekezdés hatályon kívül helyezte.
+[^61]: A 28. § (9) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 8. §-a hatályon kívül helyezte.
