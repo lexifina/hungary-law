@@ -2,7 +2,7 @@
 
 6. § (1) A mérlegtételek értékelésére a Tv.-ben előírt általános szabályokat kell alkalmazni a (2)–(14) bekezdésben foglaltak figyelembevételével.
 
-(2)[^51] Az eladási célra beszerzett, belföldi értékpapírtőzsdén forgalmazott értékpapírokat havonta és év végén, a mérleg fordulónapján kell értékelni. Az ilyen értékpapírokat – a Magyar Állam által belföldön kibocsátott állampapírok kivételével – a hóvégi értékeléskor, a hó utolsó napján érvényes, illetve az év végi értékelés során, a mérlegfordulónapi tőzsdei árfolyamlistában közölt átlagáron (átlagárfolyamon) kell értékelni. A Magyar Állam által belföldön kibocsátott állampapírokat az Államadósság Kezelő Központ Részvénytársaság által nyilvánosságra hozott, a hó utolsó napján, illetve a mérleg fordulónapján érvényes referencia árfolyamon kell értékelni.
+(2)[^51] Az eladási célra beszerzett, belföldi értékpapírtőzsdén forgalmazott értékpapírokat havonta és év végén, a mérleg fordulónapján kell értékelni. Az ilyen értékpapírokat – az állam által belföldön kibocsátott állampapírok kivételével – a hóvégi értékeléskor, a hó utolsó napján érvényes, illetve az év végi értékelés során, a mérlegfordulónapi tőzsdei árfolyamlistában közölt átlagáron (átlagárfolyamon) kell értékelni. Az állam által belföldön kibocsátott állampapírokat az Államadósság Kezelő Központ Részvénytársaság által nyilvánosságra hozott, a hó utolsó napján, illetve a mérleg fordulónapján érvényes referencia árfolyamon kell értékelni.
 
 (3) Ha a hó utolsó napja, illetve a mérleg fordulónapja az értékpapírtőzsdén nem forgalmi nap, akkor a hó utolsó napját, illetve a mérleg fordulónapját megelőző utolsó forgalmi nap tőzsdei átlagárait (átlagárfolyamait) kell alkalmazni az értékelés során.
 
@@ -48,7 +48,7 @@ b) a befektetési vállalkozás az elkülönített deviza letéti bankszámlán 
 
 (20)[^57] A befektetési vállalkozás tevékenységének sajátos kockázatára tekintettel, a befektetési hitelből, a halasztott fizetésből, a repóügyletből, az értékpapírkölcsönből és a befektetési szolgáltatásokból eredő egyéb követeléseinek, a követelés fejében kapott készleteinek, a jegyzési garanciavállalásból, a hozamra és a tőke megóvására vonatkozó ígéret, valamint a hozam-, illetve tőkegarancia miatt fennálló mérlegen kívüli kötelezettségeinek értékelésére a Tv. rendelkezésein túlmenően az e rendelet 5. számú mellékletének előírásait alkalmazza.
 
-[^51]: A 6. § (2) bekezdése a 357/2006. (XII. 27.) Korm. rendelet 13. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 24. § (1)–(2) bekezdését.
+[^51]: A 6. § (2) bekezdése a 357/2006. (XII. 27.) Korm. rendelet 13. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 215. §-a szerint módosított szöveg.
 [^52]: A 6. § (15) bekezdését a 292/2001. (XII. 26.) Korm. rendelet 6. §-a iktatta a szövegbe, e módosító rendelet 16. §-ának (1) bekezdése alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
 [^53]: A 6. § (16) bekezdését a 292/2001. (XII. 26.) Korm. rendelet 6. §-a iktatta a szövegbe, e módosító rendelet 16. §-ának (1) bekezdése alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
 [^54]: A 6. § (17) bekezdését a 347/2004. (XII. 22.) Korm. rendelet 12. §-a iktatta be, szövege a 80/2014. (III. 14.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
