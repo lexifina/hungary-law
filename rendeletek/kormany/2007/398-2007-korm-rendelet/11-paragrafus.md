@@ -1,1 +1,0 @@
-## 10. § Ez a rendelet 2008. január 1-jén lép hatályba azzal, hogy rendelkezéseit először – a 13. §-ban foglaltak figyelembevételével – a 2008. évben induló üzleti évről készített beszámolóra kell alkalmazni.
