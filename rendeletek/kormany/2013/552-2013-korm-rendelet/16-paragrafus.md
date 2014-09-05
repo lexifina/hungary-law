@@ -4,4 +4,6 @@
 
 (2) A főigazgató tárgyévet követő év január 8-ig értékeli a Hivatal szervezeti egységeinek teljesítményét.
 
-(3) A Miniszterelnökséget vezető államtitkár a főigazgató előterjesztése alapján január 15-ig értékeli a Hivatal tevékenységét.
+(3)[^3] A polgári hírszerzési tevékenység irányításáért felelős miniszter a főigazgató előterjesztése alapján január 15-ig értékeli a Hivatal tevékenységét.
+
+[^3]: A 16. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 796. §-a szerint módosított szöveg.
