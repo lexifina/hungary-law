@@ -18,7 +18,7 @@ c)[^39] rendelkezik arról, hogy abban az esetben, ha az utazási vállalkozó n
 
 (4) Az utazási vállalkozó köteles a felhasznált vagyoni biztosítékot – amennyiben e tevékenységét továbbfolytatja – haladéktalanul, legkésőbb harminc napon belül pótolni.
 
-(5)[^40] Ha az utazási vállalkozó nem tesz eleget az utasok hazautaztatására vagy az előleg, illetve részvételi díj visszafizetésére vonatkozó kötelezettségének, az említettek teljesítése érdekében szükséges intézkedések megtétele iránt – az utazási vállalkozó vagyoni biztosítékának terhére – a Hivatal intézkedik a hitelintézettel, illetve a biztosítóval együttműködve. A Hivatal az intézkedéseiről a Külügyminisztériumot tájékoztatja.
+(5)[^40] Ha az utazási vállalkozó nem tesz eleget az utasok hazautaztatására vagy az előleg, illetve részvételi díj visszafizetésére vonatkozó kötelezettségének, az említettek teljesítése érdekében szükséges intézkedések megtétele iránt – az utazási vállalkozó vagyoni biztosítékának terhére – a Hivatal intézkedik a hitelintézettel, illetve a biztosítóval együttműködve. A Hivatal az intézkedéseiről a külpolitikáért felelős minisztert tájékoztatja.
 
 (6)[^41] Az utas az utazási vállalkozó kötelezettségeinek elmulasztásából eredő igényeit közvetlenül a hitelintézettel, illetve a biztosítóval szemben érvényesítheti.
 
@@ -33,5 +33,5 @@ A hitelintézettel kötött garanciaszerződésből, illetve a biztosítási sze
 [^37]: A 10. § (3) bekezdésének a) pontja a 20/2007. (II. 20.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 14. § (1) bekezdése alapján a rendelkezést a 2007. április 6. napja után indult vagy megismételt eljárásokra kell alkalmazni; a 14. § (2) bekezdése alapján a fenti időpontban már működő utazási vállalkozónak az új mértékű vagyoni biztosítékkal 2007. június 1-jétől kell rendelkeznie, amit 2007. május 31-ig kell a Hivatal részére igazolnia.
 [^38]: A 10. § (3) bekezdésének b) pontja a 37/2004. (III. 12.) Korm. rendelet 4. §-ának (3) bekezdése szerint módosított szöveg.
 [^39]: A 10. § (3) bekezdésének c) pontja a 78/2005. (IV. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg, e módosító rendelet 9. § (2) bekezdése alapján a 2005. május 13-án már működő, belföldről belföldre történő utazást szervező vállalkozóknak 2005. május 31-ig kell igazolniuk a Hivatal részére, hogy rendelkeznek a módosított feltételekkel.
-[^40]: A 10. § (5) bekezdése a 78/2005. (IV. 28.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^40]: A 10. § (5) bekezdése a 78/2005. (IV. 28.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 171. §-a szerint módosított szöveg.
 [^41]: A 10. § (6) bekezdése a 234/2003. (XII. 16.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 80/2014. (III. 14.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
