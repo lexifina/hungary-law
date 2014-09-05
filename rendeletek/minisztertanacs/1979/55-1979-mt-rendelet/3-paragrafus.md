@@ -124,7 +124,8 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban az 1979. évi október hó 2. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a közlekedés- és postaügyi miniszter gondoskodik.
+(2)[^5] E rendelet végrehajtásáról a közlekedésért felelős miniszter gondoskodik.
 
 [^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^4]: A 2. cikk 4. pontját a 67/1996. (V. 15.) Korm. rendelet 1. §-a iktatta be, s a 2. § értelmében 1995. november 22-től kell alkalmazni.
+[^5]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 58. §-ával megállapított szöveg.
