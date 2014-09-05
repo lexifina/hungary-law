@@ -66,6 +66,6 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1976. évi június hó 8. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról az iskolai végzettségekre vonatkozólag az oktatási[^3] miniszter, a tudományos fokozatokra és tudományos címekre vonatkozólag a Magyar Tudományos Akadémia elnöke gondoskodik.
+(2)[^3] E rendelet végrehajtásáról az oktatásért felelős miniszter gondoskodik.
 
-[^3]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^3]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 14. §-ával megállapított szöveg.
