@@ -146,8 +146,9 @@
 
 (3) A Keretegyezmény, illetve e rendelet 2. és 3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
 
-(4) A rendelet végrehajtásához szükséges intézkedésekről a kultúráért és oktatásért felelős miniszter, a gazdaságpolitikáért, a kutatás-fejlesztésért és technológiai innovációért, az iparügyekért és a külgazdaságért felelős miniszter, valamint a közlekedésért felelős miniszter gondoskodik.
+(4)[^5] E rendelet végrehajtásáról – a kultúráért felelős miniszterrel, a gazdaságpolitikáért felelős miniszterrel, a kutatás-fejlesztésért és technológiai innovációért felelős miniszterrel, az iparügyekért felelős miniszterrel és a külgazdasági ügyekért felelős miniszterrel egyetértésben – a közlekedésért felelős miniszter gondoskodik.
 
 [^2]: A 3. § a 4. § (2) bekezdése alapján a Keretegyezmény 13. cikk 1. bekezdésében meghatározott időpontban lép hatályba. A 20/2011. (VIII. 31.) KüM határozat alapján a hatálybalépés időpontja 2011. július 20.
 [^3]: A 20/2011. (VIII. 31.) KüM határozat alapján a hatálybalépés időpontja 2011. július 20.
 [^4]: Lásd a 20/2011. (VIII. 31.) KüM határozatot.
+[^5]: A 4. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 563. §-ával megállapított szöveg.
