@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-303-20-
 | 2014-01-01 | 2010-303-20-22.4 | 550/2013. (XII. 30.) Korm. rendelet |
 | 2014-07-24 | 2010-303-20-22.5 | 179/2014. (VII. 23.) Korm. rendelet |
 | 2014-07-26 | 2010-303-20-22.6 | 183/2014. (VII. 25.) Korm. rendelet |
+| 2014-09-05 | 2010-303-20-22.7 | 221/2014. (IX. 4.) Korm. rendelet |
