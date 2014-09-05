@@ -1,6 +1,6 @@
-## 11. §[^31]
+## 11. §[^33]
 
-12. §[^32] (1) A felsőoktatási intézmény a hallgatói jogviszony létrejöttétől számított tizenöt napon belül köteles bejelenteni a hallgató személyes adatait és a hallgatói jogviszony létrejöttének tényét a FIR felé.
+12. §[^34] (1) A felsőoktatási intézmény a hallgatói jogviszony létrejöttétől számított tizenöt napon belül köteles bejelenteni a hallgató személyes adatait és a hallgatói jogviszony létrejöttének tényét a FIR felé.
 
 (2) A felsőoktatási intézmény a hallgatónak a FIR-ben nyilvántartott személyes adataiban bekövetkezett változást a saját nyilvántartásában történt átvezetést követő tizenöt napon belül köteles bejelenteni.
 
@@ -14,5 +14,5 @@
 
 (7) A felsőoktatási intézmény a felsőfokú bizonyítványok, alap- és mesterképzési, valamint szakirányú továbbképzési oklevelek és doktori fokozatok adatait, legkésőbb azok kiadásától számított 30 napon belül megküldi a FIR részére.
 
-[^31]: A 11. §-t a 372/2007. (XII. 23.) Korm. rendelet 32. § c) pontja hatályon kívül helyezte.
-[^32]: A 12. § a 372/2007. (XII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^33]: A 11. §-t a 372/2007. (XII. 23.) Korm. rendelet 32. § c) pontja hatályon kívül helyezte.
+[^34]: A 12. § a 372/2007. (XII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.

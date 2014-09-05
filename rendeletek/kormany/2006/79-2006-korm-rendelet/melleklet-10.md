@@ -18,7 +18,7 @@
 
 ## A 2. b) pont szerinti sorszám nem adható ki, ha a 11-gyel való osztás maradéka egyenlő tízzel.
 
-10. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^124]
+10. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^132]
 
 A kötelezően használt okiratok formaszövegei
 
@@ -774,4 +774,4 @@ Ezt az igazolást [VISELT NÉV] számára állítottuk ki, aki [SZÜLETÉSI ÉV]
 
 keltezés, bélyegzőlenyomat, aláírások, záradék
 
-[^124]: A 10. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (6) bekezdésével megállapított, valamint a 198/2008. (VIII. 4.) Korm. rendelet 16. § (6)–(8) bekezdése, a 98/2009. (IV. 24.) Korm. rendelet 15. §-a, a 39/2011. (III. 22.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^132]: A 10. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (6) bekezdésével megállapított, valamint a 198/2008. (VIII. 4.) Korm. rendelet 16. § (6)–(8) bekezdése, a 98/2009. (IV. 24.) Korm. rendelet 15. §-a, a 39/2011. (III. 22.) Korm. rendelet 21. §-a szerint módosított szöveg.

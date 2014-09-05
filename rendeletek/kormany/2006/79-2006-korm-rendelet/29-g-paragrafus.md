@@ -1,4 +1,4 @@
-29/G. §[^87] (1) A fenntartó kezdeményezi a Hivatalnál az állami elismerés visszavonásával kapcsolatos eljárás megindítását a felsőoktatási intézmény
+29/G. §[^93] (1) A fenntartó kezdeményezi a Hivatalnál az állami elismerés visszavonásával kapcsolatos eljárás megindítását a felsőoktatási intézmény
 
 a) jogutód nélküli megszüntetéséről hozott döntését,
 
@@ -28,4 +28,4 @@ b) egyesülés, szétválás, kiválás, beolvadás esetén a felsőoktatási in
 
 (6) A Hivatal az állami elismerés visszavonásáról szóló törvény kihirdetését követően, a törvény hatálybalépésének napjával törli nyilvántartásából az érintett felsőoktatási intézményt. A Hivatal az állami elismerés megtagadásáról szóló döntés napjával törli nyilvántartásából az érintett felsőoktatási intézményt.
 
-[^87]: A 29/G. §-t a 198/2008. (VIII. 4.) Korm. rendelet 16. § (2) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^93]: A 29/G. §-t a 198/2008. (VIII. 4.) Korm. rendelet 16. § (2) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.

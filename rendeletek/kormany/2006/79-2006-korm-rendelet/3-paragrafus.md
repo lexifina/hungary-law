@@ -2,9 +2,9 @@
 
 ## [az Ftv. 32. §-ának (11) bekezdése b) pontjához]
 
-3. § (1)[^11] A felsőoktatási intézmény – beleértve a szakközépiskolában megállapodás alapján történő indítást – az Országos Képzési Jegyzékben szereplő felsőfokú szakképzés indításáról, a szakképesítésért felelős miniszter által kiadott szakmai és vizsgakövetelmények alapján kidolgozott intézményi szakképzési program jóváhagyásáról a felsőoktatási törvény 27. §-a (6) bekezdése a) pontjában, 31. §-a (2) bekezdésének c) pontjában és a 32. §-a (1)–(2) bekezdésében meghatározott rendelkezései figyelembevételével dönt.
+3. § (1)[^13] A felsőoktatási intézmény – beleértve a szakközépiskolában megállapodás alapján történő indítást – az Országos Képzési Jegyzékben szereplő felsőfokú szakképzés indításáról, a szakképesítésért felelős miniszter által kiadott szakmai és vizsgakövetelmények alapján kidolgozott intézményi szakképzési program jóváhagyásáról a felsőoktatási törvény 27. §-a (6) bekezdése a) pontjában, 31. §-a (2) bekezdésének c) pontjában és a 32. §-a (1)–(2) bekezdésében meghatározott rendelkezései figyelembevételével dönt.
 
-(2)[^12] A felsőfokú szakképzés indításának feltétele – beleértve a felsőoktatási törvény 32. §-ának (4) bekezdése alapján a szakközépiskolával kötött megállapodás szerint szervezett felsőfokú szakképzést is –, hogy a felsőoktatási intézmény
+(2)[^14] A felsőfokú szakképzés indításának feltétele – beleértve a felsőoktatási törvény 32. §-ának (4) bekezdése alapján a szakközépiskolával kötött megállapodás szerint szervezett felsőfokú szakképzést is –, hogy a felsőoktatási intézmény
 
 a) a felsőfokú szakképzésnek – a 6. számú mellékletben meghatározottak szerint – megfelelő képzési területen legalább alapképzést folytasson,
 
@@ -20,7 +20,7 @@ f) rendelkezzen minőségbiztosítási rendszerének részeként a felsőfokú s
 
 g) az adott szakmacsoportban jogosult legyen felsőfokú szakképzést folytatni.
 
-(3)[^13] A felsőfokú szakképzés indítására vonatkozó dokumentáció tartalmazza
+(3)[^15] A felsőfokú szakképzés indítására vonatkozó dokumentáció tartalmazza
 
 a) a felsőfokú szakképzés szakmai és vizsgakövetelményeit,
 
@@ -28,13 +28,13 @@ b) a szakképzési programot,
 
 c) amennyiben a képzést szakközépiskola indítja, vagy a képzésben szakközépiskola is részt vesz, a felsőoktatási intézmény, a szakközépiskola fenntartója és a szakközépiskola között kötendő együttműködési megállapodás tervezetét,
 
-d)[^14] a felsőoktatási intézményben a felsőfokú szakképzésért felelős szervezeti egység megjelölését, szakközépiskolával történő együttműködés esetén a szakközépiskola nevét és címét, intézményi azonosítóját, a szakközépiskola székhelyének és telephelyének címét, vezetőjének nevét,
+d)[^16] a felsőoktatási intézményben a felsőfokú szakképzésért felelős szervezeti egység megjelölését, szakközépiskolával történő együttműködés esetén a szakközépiskola nevét és címét, intézményi azonosítóját, a szakközépiskola székhelyének és telephelyének címét, vezetőjének nevét,
 
 e) a felsőoktatási intézményben a felsőfokú szakképzésben részt vevő további szervezeti egységek megnevezését,
 
-f)[^15]
+f)[^17]
 
-g)[^16] a felsőoktatási intézményben a felsőfokú szakképzésért felelős szakmai vezető nevét, oktatói azonosítóját, munkakörét, továbbá amennyiben a képzést szakközépiskola indítja, a felsőfokú szakképzés szakközépiskolai szakmai irányítójának nevét, alkalmazotti azonosítóját,
+g)[^18] a felsőoktatási intézményben a felsőfokú szakképzésért felelős szakmai vezető nevét, oktatói azonosítóját, munkakörét, továbbá amennyiben a képzést szakközépiskola indítja, a felsőfokú szakképzés szakközépiskolai szakmai irányítójának nevét, alkalmazotti azonosítóját,
 
 h) a felsőfokú szakképzésben együttműködési megállapodás alapján részt vevő más intézményekkel kötendő szerződések tervezetét,
 
@@ -46,13 +46,13 @@ k) a szakmai és vizsgakövetelményekben meghatározottak szerint az elméleti 
 
 l) felsőoktatási intézmény által indított felsőfokú szakképzés esetén a felsőfokú szakképzésről alapképzésbe vagy alapképzésről a felsőfokú szakképzésbe való átvétel rendjét,
 
-m)[^17]
+m)[^19]
 
 (4) A felsőfokú szakképzés a felsőoktatási intézmény képzési programjának részét képező szakképzési program szerint folyik, amelynek kötelező elemei:
 
 a) a felsőfokú szakképzés megnevezése, szakmacsoportja, a szakképesítés OKJ azonosító száma, kiadásának éve, a szakmai és vizsgakövetelményeket tartalmazó miniszteri rendelet száma, a szakképesítéssel betölthető foglalkozások,
 
-b)[^18] a felsőoktatási intézmény által indított azon alapképzési szakok megnevezése, amelyeken – a (2) bekezdés szerint meghatározottak szerinti szakirányú továbbtanulás esetén – kredit beszámítható, illetve krediteket feltétel nélkül be kell számítani,
+b)[^20] a felsőoktatási intézmény által indított azon alapképzési szakok megnevezése, amelyeken – a (2) bekezdés szerint meghatározottak szerinti szakirányú továbbtanulás esetén – kredit beszámítható, illetve krediteket feltétel nélkül be kell számítani,
 
 c) a felsőfokú szakképzésbe való felvétel követelményei,
 
@@ -66,11 +66,11 @@ g) a gyakorlati képzési program követelményei, a felsőoktatási intézmény
 
 (5) A felsőoktatási intézmény a felsőfokú szakképzésben együttműködő szakközépiskolát a szakképzési program kidolgozásába bevonhatja.
 
-[^11]: A 3. § (1) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^12]: A 3. § (2) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^13]: A 3. § (3) bekezdésének bevezető szövegrésze a 372/2007. (XII. 23.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 24. § (3) bekezdését.
-[^14]: A 3. § (3) bekezdésének d) pontja a 175/2006. (VIII. 14.) Korm. rendelet 36. § (7) bekezdése szerint módosított szöveg.
-[^15]: A 3. § (3) bekezdés f) pontját a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés c) pontja hatályon kívül helyezte, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^16]: A 3. § (3) bekezdésének g) pontja a 372/2007. (XII. 23.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 24. § (3) bekezdését.
-[^17]: A 3. § (3) bekezdés m) pontját a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés c) pontja hatályon kívül helyezte, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^18]: A 3. § (4) bekezdésének b) pontja a 372/2007. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 24. § (3) bekezdését.
+[^13]: A 3. § (1) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^14]: A 3. § (2) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^15]: A 3. § (3) bekezdésének bevezető szövegrésze a 372/2007. (XII. 23.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 24. § (3) bekezdését.
+[^16]: A 3. § (3) bekezdésének d) pontja a 175/2006. (VIII. 14.) Korm. rendelet 36. § (7) bekezdése szerint módosított szöveg.
+[^17]: A 3. § (3) bekezdés f) pontját a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés c) pontja hatályon kívül helyezte, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^18]: A 3. § (3) bekezdésének g) pontja a 372/2007. (XII. 23.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 24. § (3) bekezdését.
+[^19]: A 3. § (3) bekezdés m) pontját a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés c) pontja hatályon kívül helyezte, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^20]: A 3. § (4) bekezdésének b) pontja a 372/2007. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 24. § (3) bekezdését.

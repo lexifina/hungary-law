@@ -1,6 +1,6 @@
 ## A felsőoktatási intézmények nyilvántartásáért felelős szerv eljárásainak szabályai
 
-28/B. §[^78] (1) A Hivatal a felsőoktatási intézmények nyilvántartását vezető szervként nyilvántartásba veszi
+28/B. §[^84] (1) A Hivatal a felsőoktatási intézmények nyilvántartását vezető szervként nyilvántartásba veszi
 
 a) a felsőoktatási intézményeket,
 
@@ -38,4 +38,4 @@ l) a felsőoktatási intézmény kollégiumait, valamint a szakkollégiumokat,
 
 m) a felsőoktatási információs rendszerben nyilvántartandó adatokat.
 
-[^78]: A 28/B. §-t a 121/2013. (IV. 26.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^84]: A 28/B. §-t a 121/2013. (IV. 26.) Korm. rendelet 23. § (2) bekezdése iktatta be.

@@ -18,7 +18,7 @@
 
 ## a) a felsőoktatási intézmény által a kérelemben az adott képzési területen, szakmacsoportban oktató alkalmazottak számát és a megtartandó órák számát figyelembe véve nem teljesíthető a felsőoktatási törvény 84. §-ában előírt követelmény azzal, hogy amennyiben ugyanaz a személy több képzési helyen (településen) is részt vesz az oktatásban, akkor óraszámát – a közalkalmazotti kinevezésében, illetve munkaszerződésében munkavégzés helyeként megjelölt települést kivéve – másfélszeres számban kell figyelembe venni;
 
-## b)[^113] a hallgatók számára ingyenesen és szabadon igénybe vehető, hálózati kapcsolattal ellátott számítógépek száma nem éri el a maximális hallgatói létszám táblázatban meghatározott arányát;
+## b)[^119] a hallgatók számára ingyenesen és szabadon igénybe vehető, hálózati kapcsolattal ellátott számítógépek száma nem éri el a maximális hallgatói létszám táblázatban meghatározott arányát;
 
 ## c) a hallgatók számára ingyenesen rendelkezésre álló könyvtári infrastruktúra, illetve szolgáltatás keretében a könyvtári olvasóhelyek száma nem éri el a maximális hallgatói létszám táblázatban meghatározott arányát;
 
@@ -46,7 +46,7 @@
 
 ## i) a felsőoktatási intézmény által benyújtott kérelem szerint az egyes képzéseken nem teljesül a felsőoktatási törvény 147. §-ának 3/A., 26/A. pontja szerinti előírás;
 
-## j)[^114] a képzési terület (a művészet és művészetközvetítés képzési terület kivételével), a szakmacsoport évfolyamlétszáma nem éri el a húszat;
+## j)[^120] a képzési terület (a művészet és művészetközvetítés képzési terület kivételével), a szakmacsoport évfolyamlétszáma nem éri el a húszat;
 
 ## k) a felsőoktatási intézmény nem tudja szerződéssel, vagy legalább 3 év tapasztalatával igazolni, hogy képes a féléves szakmai gyakorlatok biztosítására;
 
@@ -58,7 +58,7 @@
 
 ## o) a felsőoktatási intézmény nem tudja igazolni, hogy legfeljebb 3 éven belül a kialakított tanulótereken az elérhető hálózati végpontok (vezeték nélküli kapcsolódási lehetőségek) száma eléri a maximális hallgatói létszám táblázat szerinti arányának kétszeresét.
 
-## 6.[^115] Közös képzés esetében a hallgatókat minden intézményben teljes mértékben figyelembe kell venni, azonban a tanórák közül csak az adott intézmény által oktatott tanórákat kell megfelelő számban biztosítani.
+## 6.[^121] Közös képzés esetében a hallgatókat minden intézményben teljes mértékben figyelembe kell venni, azonban a tanórák közül csak az adott intézmény által oktatott tanórákat kell megfelelő számban biztosítani.
 
 | Képzési terület | 5. b) pont szerinti arány | 5. c) pont szerinti arány |
 
@@ -92,9 +92,9 @@
 
 | művészetközvetítés | 5% | 2% |
 
-5. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^116]
+5. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^122]
 
-[^113]: A 4. számú melléklet 5. pont b) alpontja a 39/2011. (III. 22.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^114]: A 4. számú melléklet 5. pont j) alpontja a 39/2011. (III. 22.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^115]: A 4. számú melléklet 6. pontja a 363/2011. (XII. 30.) Korm. rendelet 23. § a)–c) pontja szerint módosított szöveg.
-[^116]: Az 5. számú melléklet e rendelet 35. § (2) bekezdése alapján 2006. július 1. napján lép hatályba.
+[^119]: A 4. számú melléklet 5. pont b) alpontja a 39/2011. (III. 22.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^120]: A 4. számú melléklet 5. pont j) alpontja a 39/2011. (III. 22.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^121]: A 4. számú melléklet 6. pontja a 363/2011. (XII. 30.) Korm. rendelet 23. § a)–c) pontja szerint módosított szöveg.
+[^122]: Az 5. számú melléklet e rendelet 35. § (2) bekezdése alapján 2006. július 1. napján lép hatályba.

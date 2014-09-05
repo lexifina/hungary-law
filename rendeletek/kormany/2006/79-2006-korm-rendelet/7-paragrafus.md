@@ -1,4 +1,4 @@
-7. §[^25] (1) A FIR működtetéséhez szükséges informatikai rendszert úgy kell megtervezni és működtetni, hogy
+7. §[^27] (1) A FIR működtetéséhez szükséges informatikai rendszert úgy kell megtervezni és működtetni, hogy
 
 a) a FIR, illetve alrendszerei kapcsolódni tudjanak más információs rendszerekhez;
 
@@ -28,4 +28,4 @@ f) a FIR működéséhez szükséges adatrögzítési feladatok ellátását;
 
 g) a FIR-ben kezelt közérdekű, illetőleg közérdekből nyilvános adatok nyilvánosságát, valamint – ügyfélszolgálatán és honlapján – a személyes adatokba való betekintést, az érintettek jogainak érvényesítését, a felsőoktatási intézmények és fenntartóik, a felsőoktatás működésében érdekelt szervezetek, a felsőoktatás irányításában közreműködők, az oktatók, a hallgatók, a felsőoktatásba jelentkezők, a szakmai és érdekképviseleti szervezetek, és egyéb jogosultak, valamint – személyes adatok esetén – az érintettek elektronikus és egyéb módon történő tájékoztatását.
 
-[^25]: A 7. § a 372/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^27]: A 7. § a 372/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

@@ -6,6 +6,8 @@
 
 (3) Az elveszett, megsemmisült vagy megrongálódott igazolás helyett, illetve az igazolás tartalmát érintő adatváltozás esetén a hallgató kérelmére az intézmény az azonosító számról igazolást állít ki. Az intézmény a kérelemtől számított tizenöt napon az igazolást a hallgató rendelkezésére bocsátja.
 
-(4) Az, aki nem áll jogviszonyban egyetlen intézménnyel sem, az azonosító számról szóló igazolás kiadását közvetlenül az Országos Felsőoktatási Információs Központtól kérheti. Az igazolás kiállításáért az Országos Felsőoktatási Információs Központnak – az oktatási miniszter által szabályozott mértékű – igazgatási szolgáltatási díj jár.
+(4)[^63] Az, aki nem áll jogviszonyban egyetlen intézménnyel sem, az azonosító számról szóló igazolás kiadását közvetlenül az Országos Felsőoktatási Információs Központtól kérheti. Az igazolás kiállításáért az Országos Felsőoktatási Információs Központnak – a miniszter által szabályozott mértékű – igazgatási szolgáltatási díj jár.
 
 (5) Az azonosító szám a felsőoktatási törvényben szabályozott módon kezelhető és használható fel. Az azonosító számot e rendelet 9. számú mellékletében meghatározottak szerint kell képezni.
+
+[^63]: A 16. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 319. § g) pontja szerint módosított szöveg.

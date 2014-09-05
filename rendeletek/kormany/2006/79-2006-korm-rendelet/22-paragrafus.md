@@ -1,4 +1,4 @@
-## 21. §[^63] A FIR a felsőoktatási törvény 35. §-ának (1) bekezdése alapján működtetett felsőoktatási információs rendszerben tartja nyilván az államilag támogatott és a költségtérítéses formában eltöltött tanulmányi időt.
+## 21. §[^69] A FIR a felsőoktatási törvény 35. §-ának (1) bekezdése alapján működtetett felsőoktatási információs rendszerben tartja nyilván az államilag támogatott és a költségtérítéses formában eltöltött tanulmányi időt.
 
 ## Az intézményi tájékoztató összeállításának alapelvei
 
@@ -8,7 +8,7 @@
 
 (2) A tanulmányi tájékoztató intézményre vonatkozó általános tudnivalókat ismertető részét úgy kell összeállítani, hogy a hallgató megismerhesse belőle
 
-a)[^64] az intézmény nevét, címét, intézményi azonosítóját;
+a)[^70] az intézmény nevét, címét, intézményi azonosítóját;
 
 b) az intézmény általános jellemzőit;
 
@@ -66,5 +66,5 @@ c) a hallgatók tanulmányi ügyeinek intézési rendjét, a félfogadási idők
 
 d) a hallgatói jogorvoslat rendjét.
 
-[^63]: A 21. § a 372/2007. (XII. 23.) Korm. rendelet 25. § d) pontja szerint módosított szöveg.
-[^64]: A 22. § (2) bekezdésének a) pontja a 175/2006. (VIII. 14.) Korm. rendelet 36. § (7) bekezdése szerint módosított szöveg.
+[^69]: A 21. § a 372/2007. (XII. 23.) Korm. rendelet 25. § d) pontja szerint módosított szöveg.
+[^70]: A 22. § (2) bekezdésének a) pontja a 175/2006. (VIII. 14.) Korm. rendelet 36. § (7) bekezdése szerint módosított szöveg.

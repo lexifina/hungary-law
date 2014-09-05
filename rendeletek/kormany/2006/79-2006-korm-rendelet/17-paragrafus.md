@@ -4,6 +4,8 @@
 
 (2) Ugyanannak a személynek újabb azonosító szám nem adható ki. Amennyiben egy felsőoktatási intézmény azonosító szám nélkül jelenti be egy személy alkalmazását, de az adott személy azonosító számmal rendelkezik, az Országos Felsőoktatási Információs Központ az érintett felsőoktatási intézménnyel az azonosító számot tizenöt napon belül közli.
 
-(3) Az elveszett, megsemmisült vagy megrongálódott igazolás helyett, illetve az igazolás tartalmát érintő adatváltozás esetén az intézmény bejelentése alapján az Országos Felsőoktatási Információs Központ az azonosító számról igazolást állít ki és azt megküldi az intézménynek a bejelentéstől számított harminc napon belül, amit az intézmény tizenöt napon belül átad a oktatónak. Az igazolás kiállításáért az Országos Felsőoktatási Információs Központnak – az oktatási miniszter által szabályozott mértékű – igazgatási szolgáltatási díj jár.
+(3)[^64] Az elveszett, megsemmisült vagy megrongálódott igazolás helyett, illetve az igazolás tartalmát érintő adatváltozás esetén az intézmény bejelentése alapján az Országos Felsőoktatási Információs Központ az azonosító számról igazolást állít ki és azt megküldi az intézménynek a bejelentéstől számított harminc napon belül, amit az intézmény tizenöt napon belül átad a oktatónak. Az igazolás kiállításáért az Országos Felsőoktatási Információs Központnak – a miniszter által szabályozott mértékű – igazgatási szolgáltatási díj jár.
 
 (4) Az azonosító szám a felsőoktatásról szóló törvényben szabályozott módon kezelhető és használható fel. Az azonosító számot e rendelet 9. számú mellékletében meghatározottak szerint kell képezni.
+
+[^64]: A 17. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 319. § g) pontja szerint módosított szöveg.

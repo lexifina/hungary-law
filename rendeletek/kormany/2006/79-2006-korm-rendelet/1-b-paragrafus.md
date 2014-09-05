@@ -2,9 +2,9 @@
 
 (2) A Bizottság munkájában tanácskozási joggal részt vehetnek a Bizottság által felkért tudományos fokozattal rendelkező külső szakértők, valamint a Munkaadók és Gyáriparosok Országos Szövetsége, Vállalkozók Országos Szövetsége és a Magyar Kereskedelmi és Iparkamara által delegált egy-egy személy.
 
-(3) A Bizottság a tagjai közül elnököt választ. A Bizottság ügyrendjét maga alakítja ki és közzéteszi az Oktatási és Kulturális Minisztérium honlapján. A Bizottság határozatképes, ha az ülésén tagjainak a többsége jelen van. A Bizottság döntését a jelenlévő tagok több mint felének szavazatával hozza meg.
+(3)[^6] A Bizottság a tagjai közül elnököt választ. A Bizottság ügyrendjét maga alakítja ki és közzéteszi a miniszter által vezetett minisztérium honlapján. A Bizottság határozatképes, ha az ülésén tagjainak a többsége jelen van. A Bizottság döntését a jelenlévő tagok több mint felének szavazatával hozza meg.
 
-(4) A Bizottság részletesen kidolgozza a minősítés követelményrendszerét, a pályázók körét, és az értékelés módszerét, amit előterjeszt a miniszter számára jóváhagyás céljából. A pályázati kiírást a miniszter teszi közzé az Oktatási és Kulturális Minisztérium honlapján.
+(4)[^7] A Bizottság részletesen kidolgozza a minősítés követelményrendszerét, a pályázók körét, és az értékelés módszerét, amit előterjeszt a miniszter számára jóváhagyás céljából. A pályázati kiírást a miniszter teszi közzé a miniszter által vezetett minisztérium honlapján.
 
 (5) A részletes pályázati kiírás feltételrendszerét a következő értékelési szempontok alapján kell meghatározni:
 
@@ -42,3 +42,5 @@ n) a felsőoktatási intézményben nemzetközi hallgatói szakmai-tudományos s
 
 [^4]: Az 1/B. §-t a 276/2009. (XII. 4.) Korm. rendelet 1. §-a iktatta be.
 [^5]: A 276/2009. (XII. 4.) Korm. rendelet 3. § (5) bekezdése alapján az 1/B. § (1) bekezdésében meghatározott Kutatóegyetemmé Minősítő Bizottságot 2010. január 11. napjáig kell megalakítani.
+[^6]: Az 1/B. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 319. § a) pontja szerint módosított szöveg.
+[^7]: Az 1/B. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 319. § a) pontja szerint módsoított szöveg.

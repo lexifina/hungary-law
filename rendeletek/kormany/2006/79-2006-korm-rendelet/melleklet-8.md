@@ -24,7 +24,7 @@
 
 ## 1. az alapító okiratban szereplő és ahhoz kapcsolódó adatok:
 
-## a) az intézmény hivatalos neve (magyarul és idegen nyelven), rövidített neve, székhelyének címe, intézményi azonosítója, internet címe, gazdálkodási rendje, gazdasági tanács működtetésének ténye, fenntartójának típusa, statisztikai számjele (a Magyar Állam kivételével);
+## a)[^126] az intézmény hivatalos neve (magyarul és idegen nyelven), rövidített neve, székhelyének címe, intézményi azonosítója, internet címe, gazdálkodási rendje, gazdasági tanács működtetésének ténye, fenntartójának típusa, statisztikai számjele (az állam kivételével);
 
 ## b) a felsőoktatási intézmény jogelődjeinek intézmény azonosítója, megnevezése, a jogutódlás típusa;
 
@@ -40,7 +40,7 @@
 
 ## h) közművelődési, közgyűjteményi, egészségügyi, agrár- és vidékfejlesztési, más feladatok (megnevezés, típus, engedélyezés, gyakorlóintézményi jelleg);
 
-## i)[^120]
+## i)[^127]
 
 ## j) vállalkozási tevékenységek (megnevezés, besorolás, tevékenység kezdete és vége);
 
@@ -48,7 +48,7 @@
 
 ## l) kutatási alaptevékenység tudományterületei és fajtái, és annak helyszínei;
 
-## m)[^121] az intézmény szervezeti tagolása;
+## m)[^128] az intézmény szervezeti tagolása;
 
 ## n) használt ingatlanvagyon (az ingatlan címe, helyrajzi szám, a rendelkezés módja és mértéke);
 
@@ -64,7 +64,7 @@
 
 ## d) a működési engedélyben engedélyezett maximális hallgatói létszám;
 
-## e)[^122] a képzési és kutatási tevékenységhez kapcsolódó nemzetközi mobilitási megállapodásokról az együttműködő szervezet típusa, hivatalos neve, székelyének címe, a megállapodás célja, kelte, kezdetem tervezett vége, esetleges nemzetközi kerete és a negyedévenkénti megvalósulása (beutazó és kiutazó létszám, annak jellege és tudományága);
+## e)[^129] a képzési és kutatási tevékenységhez kapcsolódó nemzetközi mobilitási megállapodásokról az együttműködő szervezet típusa, hivatalos neve, székelyének címe, a megállapodás célja, kelte, kezdetem tervezett vége, esetleges nemzetközi kerete és a negyedévenkénti megvalósulása (beutazó és kiutazó létszám, annak jellege és tudományága);
 
 ## 3. az intézmény által bejelentett képzések (felsőfokú szakképzések, alapszakok, mesterszakok, doktori iskolák, szakirányú továbbképzések, egyetemi és főiskolai szintű szakok) adatai:
 
@@ -90,7 +90,7 @@
 
 ## k) a képzés végén az oklevelet (bizonyítványt) kiállító intézmény adatai;
 
-## l)[^123] a képzés nyelve.
+## l)[^130] a képzés nyelve.
 
 ## 4. a közhasznúsági nyilvántartás keretében kezelt adatok:
 
@@ -108,7 +108,7 @@
 
 ## a) az intézmény hivatalos neve, rövidített neve, székhelye, OM azonosítója, internetcíme, gazdálkodási rendje, telephelyeinek száma;
 
-## b) fenntartó(k) típusa, statisztikai számjele (a Magyar Állam kivételével);
+## b)[^131] fenntartó(k) típusa, statisztikai számjele (az állam kivételével);
 
 ## c) az intézmény jogelődjeinek OM azonosítója, megnevezése;
 
@@ -172,7 +172,9 @@
 
 8. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez
 
-[^120]: A 7. számú melléklet III/A. pont 1. pont i) alpontját a 393/2013. (XI. 12.) Korm. rendelet 40. § e) pont eb) alpontja hatályon kívül helyezte.
-[^121]: A 7. számú melléklet III. A. rész 1. m) alpontja a 198/2008. (VIII. 4.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^122]: A 7. számú melléklet III. A. rész 2. e) alpontját a 198/2008. (VIII. 4.) Korm. rendelet 16. § (4) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^123]: A 7. számú melléklet III. A. rész 3. l) alpontját a 198/2008. (VIII. 4.) Korm. rendelet 16. § (5) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^126]: A 7. számú melléket III. Az intézménytörzs keretében tárolt adatok alcím A. Felsőoktatási intézmények pont 1. a) alpontja a 221/2014. (IX. 4.) Korm. rendelet 319. § l) pontja szerint módosított szöveg.
+[^127]: A 7. számú melléklet III/A. pont 1. pont i) alpontját a 393/2013. (XI. 12.) Korm. rendelet 40. § e) pont eb) alpontja hatályon kívül helyezte.
+[^128]: A 7. számú melléklet III. A. rész 1. m) alpontja a 198/2008. (VIII. 4.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^129]: A 7. számú melléklet III. A. rész 2. e) alpontját a 198/2008. (VIII. 4.) Korm. rendelet 16. § (4) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^130]: A 7. számú melléklet III. A. rész 3. l) alpontját a 198/2008. (VIII. 4.) Korm. rendelet 16. § (5) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^131]: A 7. számú melléket III. Az intézménytörzs keretében tárolt adatok alcím B. A diákotthonról pont 1. b) alpontja a 221/2014. (IX. 4.) Korm. rendelet 319. § m) pontja szerint módosított szöveg.

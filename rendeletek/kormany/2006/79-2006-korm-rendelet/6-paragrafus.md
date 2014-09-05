@@ -1,6 +1,6 @@
-## Az adattovábbítás eljárási kérdései a felsőoktatási információs rendszerben, a kötelezően használt nyomtatványok tartalmi és formai követelményei [az Ftv. 35. §-ának (11) bekezdéséhez][^23]
+## Az adattovábbítás eljárási kérdései a felsőoktatási információs rendszerben, a kötelezően használt nyomtatványok tartalmi és formai követelményei [az Ftv. 35. §-ának (11) bekezdéséhez][^25]
 
-6. §[^24] (1) A felsőoktatási információs rendszer (a továbbiakban: FIR) a felsőoktatási törvény 2. számú mellékletében meghatározott személyes adatokat, valamint e rendelet 7. számú mellékletében meghatározott adatokat tartalmazza.
+6. §[^26] (1) A felsőoktatási információs rendszer (a továbbiakban: FIR) a felsőoktatási törvény 2. számú mellékletében meghatározott személyes adatokat, valamint e rendelet 7. számú mellékletében meghatározott adatokat tartalmazza.
 
 (2) A FIR-be adatot közöl
 
@@ -18,5 +18,5 @@ d) a 7. számú mellékletben meghatározott további adatok esetében az ugyano
 
 (5) A felsőoktatási intézmény rektora, illetve a diákotthon vezetője kijelöli azt a személyt, aki a FIR kérdésében a Hivatallal tartja a kapcsolatot. A kijelölt kapcsolattartók adatait a Hivatal részére továbbítani kell, aki ezeket – a (4) bekezdés szerinti hitelesítés ellenőrzése érdekében – nyilvántartja.
 
-[^23]: A 6. §-t megelőző alcím a 372/2007. (XII. 23.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^24]: A 6. § a 372/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^25]: A 6. §-t megelőző alcím a 372/2007. (XII. 23.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^26]: A 6. § a 372/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
