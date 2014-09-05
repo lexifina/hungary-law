@@ -170,7 +170,8 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1980. augusztus 24. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról – a pénzügyminiszterrel egyetértésben – a közlekedés- és postaügyi miniszter gondoskodik.
+(2)[^5] E rendelet végrehajtásáról – az államháztartásért felelős miniszterrel és a közlekedésrendészetért felelős miniszterrel egyetértésben – a közlekedésért felelős miniszter gondoskodik.
 
 [^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^4]: A 4. cikk 6. bekezdését a 151/1992. (XI. 20.) Korm. rendelet 2. §-a iktatta be. Rendelkezéseit 1992. július 30. napjától kell alkalmazni.
+[^5]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 64. §-ával megállapított szöveg.
