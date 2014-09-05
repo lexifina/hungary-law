@@ -2,11 +2,11 @@
 
 ## ,,MEGÁLLAPODÁS
 
-## A MAGYAR NÉPKÖZTÁRSASÁG[^3] KORMÁNYA ÉS A DÁN KIRÁLYSÁG KORMÁNYA KÖZÖTT A BERUHÁZÁSOK ELŐSEGÍTÉSÉRŐL ÉS KÖLCSÖNÖS VÉDELMÉRŐL
+## A MAGYAR NÉPKÖZTÁRSASÁG[^4] KORMÁNYA ÉS A DÁN KIRÁLYSÁG KORMÁNYA KÖZÖTT A BERUHÁZÁSOK ELŐSEGÍTÉSÉRŐL ÉS KÖLCSÖNÖS VÉDELMÉRŐL
 
 ## Preambulum
 
-## A Magyar Népköztársaság[^4] Kormánya és a Dán Királyság Kormánya,
+## A Magyar Népköztársaság[^5] Kormánya és a Dán Királyság Kormánya,
 
 ## ATTÓL AZ ÓHAJTÓL VEZETVE, hogy mindkét államban kedvező feltételeket teremtsenek a beruházások számára és fokozzák a két állam vállalatai közötti együttműködést az erőforrások hatékony kihasználásának ösztönzése céljából,
 
@@ -190,7 +190,8 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba; rendelkezéseit azonban 1988. október 1-jétől kezdődően kell alkalmazni.
 
-(2) E rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+(2)[^6] E rendelet végrehajtásáról a nemzetközi pénzügyi kapcsolatokért felelős miniszter gondoskodik.
 
-[^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^4]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^5]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^6]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 117. §-a szerint módosított szöveg.
