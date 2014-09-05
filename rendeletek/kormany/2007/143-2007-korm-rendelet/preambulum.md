@@ -1,1 +1,0 @@
-A Magyar Köztársaság 2004. évi költségvetéséről és az államháztartás hároméves kereteiről szóló 2003. évi CXVI. törvény 110. §-ának a) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
