@@ -1,8 +1,8 @@
-## 11/C. §[^29] Amennyiben az aláírás-létrehozó, illetve ellenőrzéshez szükséges adatokat a személy távoli eléréssel töltheti le saját tároló eszközébe, az aláírás-létrehozó adatok, illetve eszköz átadása alatt a letölthető információhoz való hozzáférést biztosító információ átadását kell érteni.
+## 11/C. §[^30] Amennyiben az aláírás-létrehozó, illetve ellenőrzéshez szükséges adatokat a személy távoli eléréssel töltheti le saját tároló eszközébe, az aláírás-létrehozó adatok, illetve eszköz átadása alatt a letölthető információhoz való hozzáférést biztosító információ átadását kell érteni.
 
 ## 5. A hatóságok által használt aláíráshoz tartozó tanúsítvánnyal szembeni követelmények
 
-12. §[^30] (1) Az ügyintézésben közreműködő természetes személy (ügyintéző) által saját nevében hivatalosan használt elektronikus aláírására, ide nem értve a hatóság nevében tett hivatalos nyilatkozatot (a kiadmányozást) a 7–11/C. § szerinti követelmények az e §-ban megadott eltérésekkel irányadók.
+12. §[^31] (1) Az ügyintézésben közreműködő természetes személy (ügyintéző) által saját nevében hivatalosan használt elektronikus aláírására, ide nem értve a hatóság nevében tett hivatalos nyilatkozatot (a kiadmányozást) a 7–11/C. § szerinti követelmények az e §-ban megadott eltérésekkel irányadók.
 
 (2) Az ügyintézésben közreműködő személyek elektronikus aláíráshoz szükséges adatokkal, illetve eszközökkel történő ellátásához a regisztráció, beleértve az aláírás létrehozásához szükséges adatok, eszközök átadását a 9. § szerinti lehetőségeken túl a hatóság humánpolitikai szervezete által, a hatóság személyzeti nyilvántartására alapozva is lefolytatható. Ez esetben nem szükséges a 10. § (5) bekezdése szerinti ellenőrzés elvégzése.
 
@@ -26,5 +26,5 @@ c) az időpont megjelölésével azt a tényt, ha egy tanúsítvány visszavoná
 
 (7) Az (5) bekezdés b) és c) pontja szerinti információkat a tanúsítvány használatra alkalmatlanná válásától számított 10 évig kell a honlapon hozzáférhetővé tenni.
 
-[^29]: A 11/C. §-t a 82/2012. (IV. 21.) Korm. rendelet 13. §-a iktatta be.
-[^30]: A 12. § a 82/2012. (IV. 21.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^30]: A 11/C. §-t a 82/2012. (IV. 21.) Korm. rendelet 13. §-a iktatta be.
+[^31]: A 12. § a 82/2012. (IV. 21.) Korm. rendelet 14. §-ával megállapított szöveg.

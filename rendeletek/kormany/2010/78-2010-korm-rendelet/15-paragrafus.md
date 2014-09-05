@@ -1,4 +1,4 @@
-15. § (1)[^34] A hatóság számítógépes rendszere számára kibocsátott gépi tanúsítványhoz szükséges regisztrációt kezdeményezheti:
+15. § (1)[^35] A hatóság számítógépes rendszere számára kibocsátott gépi tanúsítványhoz szükséges regisztrációt kezdeményezheti:
 
 a) a hatóságot – bemutatott kinevezési okirata, vagy a Magyar Közlönyben megjelent kinevezési döntés alapján – képviselő, a 10–11. § szerint azonosított természetes személy a hitelesítés-szolgáltatónak benyújtott igényléssel, melyet a hitelesítés-szolgáltatónak az adatok ellenőrzésére feljogosított képviselője előtt ír alá, vagy
 
@@ -12,4 +12,4 @@ b) a hatóságot az a) pont szerint igazoltan képviselő természetes személy,
 
 (5) A gépi elektronikus aláírás aláírás-létrehozó adatához tartozó tanúsítványnak egyértelműen biztosítania kell az aláírás azonosíthatóságát – ideértve az aláírást végző gép egyértelmű azonosítását –, a szervezethez rendelését, letagadhatatlanságát. Az aláírás-létrehozó adatot az Eat. melléklete szerinti biztonságos aláírás-létrehozó eszközön, illetve hardveres kulcskezelő eszközön kell elhelyezni.
 
-[^34]: A 15. § (1) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^35]: A 15. § (1) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 17. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-10. §[^25] (1) A regisztrációs szervezetnél történő személyes megjelenésen alapuló regisztrációt az e §-ban foglaltak szerint kell elvégezni.
+10. §[^26] (1) A regisztrációs szervezetnél történő személyes megjelenésen alapuló regisztrációt az e §-ban foglaltak szerint kell elvégezni.
 
 (2) A regisztrációt megelőzően az igénylőnek személyesen meg kell jelennie a regisztrációt végző szervezet előtt.
 
@@ -16,4 +16,4 @@
 
 (9) Az aláírás létrehozásához szükséges adatok, illetve eszköz meghatalmazással történő átvétele esetén a (8) bekezdés szerinti ellenőrzést az átvevő vonatkozásában kell elvégezni, és a dokumentumot a meghatalmazással együtt meg kell őrizni.
 
-[^25]: A 10. § a 82/2012. (IV. 21.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^26]: A 10. § a 82/2012. (IV. 21.) Korm. rendelet 11. §-ával megállapított szöveg.

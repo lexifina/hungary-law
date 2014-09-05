@@ -1,4 +1,4 @@
-14. §[^33] (1) A hatóság számítógépes rendszere számára kibocsátott, a hatóság nevében történő nyilatkozattétel gépi aláírással történő hitelesítésére, valamint az elektronikus adatkapcsolatokban az egyes számítógépes rendszerek egyértelmű azonosítására csak olyan elektronikus aláírási tanúsítvány használható, amelyet
+14. §[^34] (1) A hatóság számítógépes rendszere számára kibocsátott, a hatóság nevében történő nyilatkozattétel gépi aláírással történő hitelesítésére, valamint az elektronikus adatkapcsolatokban az egyes számítógépes rendszerek egyértelmű azonosítására csak olyan elektronikus aláírási tanúsítvány használható, amelyet
 
 a) a kormányzati hitelesítés szolgáltató e célra állított ki, vagy
 
@@ -8,4 +8,4 @@ b) megfelel a jogszabályban megadott biztonsági és technikai követelményekn
 
 (3) Az (1) bekezdés szerinti feladatra alkalmas tanúsítványt és aláírás-létrehozó adatot jogszabályban meghatározott hatóságok csak a kormányzati hitelesítés-szolgáltatás keretében vehetnek igénybe.
 
-[^33]: A 14. § a 82/2012. (IV. 21.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^34]: A 14. § a 82/2012. (IV. 21.) Korm. rendelet 16. §-ával megállapított szöveg.

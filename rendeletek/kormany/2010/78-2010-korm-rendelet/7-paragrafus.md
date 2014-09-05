@@ -1,6 +1,6 @@
 ## 4. Az ügyfél által használt aláíráshoz tartozó tanúsítvánnyal szembeni követelmények
 
-7. §[^22] (1) A közigazgatási hatósági eljárás során az ügyfél csak olyan, legalább fokozott biztonságú elektronikus aláírást használhat, amelyhez az aláírás ellenőrzéséhez felhasználható tanúsítványt
+7. §[^23] (1) A közigazgatási hatósági eljárás során az ügyfél csak olyan, legalább fokozott biztonságú elektronikus aláírást használhat, amelyhez az aláírás ellenőrzéséhez felhasználható tanúsítványt
 
 a) az Eat. 7. § (1) bekezdése alapján nyilvántartásba vett hitelesítés-szolgáltató bocsátotta ki, és a tanúsítvány az Eat. szerinti minősített tanúsítvány, vagy
 
@@ -16,4 +16,4 @@ a) a hitelesítés-szolgáltató a hitelesítési rendben vállalja a személy a
 
 b) a tanúsítvány a személy közhiteles nyilvántartásban hozzáférhető teljeskörű azonosítását biztosító azonosítóját igazolja.
 
-[^22]: A 7. § a 82/2012. (IV. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^23]: A 7. § a 82/2012. (IV. 21.) Korm. rendelet 8. §-ával megállapított szöveg.

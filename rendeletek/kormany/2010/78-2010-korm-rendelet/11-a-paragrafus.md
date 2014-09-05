@@ -1,4 +1,4 @@
-11/A. §[^27] (1) A feltételes regisztráció során a regisztrációt végző szervezet a 10–11. § szerint, az e §-ban foglalt eltérésekkel a személy részére előzetesen elkészíti az aláírás létrehozásához szükséges adatot, illetve eszközt, és azt az e § rendelkezése szerint aktiválja.
+11/A. §[^28] (1) A feltételes regisztráció során a regisztrációt végző szervezet a 10–11. § szerint, az e §-ban foglalt eltérésekkel a személy részére előzetesen elkészíti az aláírás létrehozásához szükséges adatot, illetve eszközt, és azt az e § rendelkezése szerint aktiválja.
 
 (2) A feltételes regisztrációra
 
@@ -22,4 +22,4 @@ c) postai tértivevényes, hivatalos kézbesítésű küldeményként, saját k�
 
 (6) Amennyiben a sikeres kézbesítést igazoló okmány 2 héten belül nem érkezik vissza, a tanúsítványt véglegesen érvényteleníteni kell.
 
-[^27]: A 11/A. §-t a 82/2012. (IV. 21.) Korm. rendelet 13. §-a iktatta be.
+[^28]: A 11/A. §-t a 82/2012. (IV. 21.) Korm. rendelet 13. §-a iktatta be.
