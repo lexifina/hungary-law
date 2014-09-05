@@ -1,1 +1,0 @@
-A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 118. §-ának (2) bekezdésében foglalt felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában megállapított feladatkörében eljárva a Kormány a következőket rendeli el:
