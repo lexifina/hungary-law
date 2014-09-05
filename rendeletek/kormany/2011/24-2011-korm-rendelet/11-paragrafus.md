@@ -1,7 +1,8 @@
 11. § (1) Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
-(2)[^13]
+(2)[^15]
 
-(3) 2011-ben a 7. § (3) bekezdés alkalmazásakor e rendelet hatálybalépésétől számított 15 nap alatt kell a részvételi szándékot bejelenteni.
+(3)[^16]
 
-[^13]: A 11. § (2) bekezdés a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 11. § (2) bekezdés a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 11. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 542. §-a hatályon kívül helyezte.

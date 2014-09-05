@@ -6,8 +6,9 @@
 
 (4) Az ORMB-ben való részvétellel több szakszervezet együttesen is megbízhat egy képviselőt.
 
-(5) Az ORMB mandátuma a 9. § (1) bekezdésében meghatározott – a Magyar Közlöny Hivatalos Értesítőjében való – közzététel időpontjáig tart.
+(5)[^10] Az ORMB mandátuma a 9. § (1) bekezdésében meghatározott – a Hivatalos Értesítőben való – közzététel időpontjáig tart.
 
 (6) Az ORMB tevékenységét a jogszabályoknak megfelelően, saját maga által kialakított ügyrend alapján végzi.
 
 [^9]: A 7. § a 89/2014. (III. 20.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
+[^10]: A 7. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 541. §-a szerint módosított szöveg.
