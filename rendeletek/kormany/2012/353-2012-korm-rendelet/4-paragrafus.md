@@ -1,7 +1,0 @@
-## 3. § A támogatási program, az egyedi támogatás, valamint a bejelentési kötelezettség hatálya alá tartozó létező támogatási programokból nyújtott támogatás tervezete (a továbbiakban együtt: támogatási tervezet) tartalmazza az 1. mellékletben meghatározott adattartalmat.
-
-4. § (1) A támogatást nyújtó szerv az állami támogatás odaítélésekor tájékoztatja a kedvezményezettet a nyújtott támogatás támogatástartalmáról.
-
-(2)[^6] Az általános csekély összegű (de minimis) rendelet, a mezőgazdasági csekély összegű (de minimis) rendelet és az EK-Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról szóló, 2007. július 24-i 875/2007/EK bizottsági rendelet [a továbbiakban: a halászati csekély összegű (de minimis) rendelet] [a továbbiakban együtt: csekély összegű (de minimis) rendeletek] hatálya alá tartozó támogatások kivételével, amennyiben a támogatási program, egyedi támogatás, pályázati felhívás, közjogi szervezetszabályozó eszköz alapján több jogcímen nyújtható állami támogatást tartalmaz, amelyet több támogatást nyújtó szerv ítél oda, úgy a támogatási program vagy az egyedi támogatás összesített támogatástartalmáról az állami támogatást elsőként odaítélő szerv vezet nyilvántartást a vonatkozó támogatási összegekről és támogatási intenzitási mértékekről szóló uniós jogi aktusokban foglaltak betartása érdekében.
-
-[^6]: A 4. § (2) bekezdése a 28/2014. (II. 11.) Korm. rendelet 2. §-ával megállapított szöveg.

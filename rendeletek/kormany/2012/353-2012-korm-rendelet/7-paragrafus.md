@@ -1,3 +1,0 @@
-7. § (1) Amennyiben szükséges, úgy a miniszter a támogatási tervezet vizsgálata során – a támogatás uniós jogszabályokkal való összhangjának megítélése érdekében – az általa megadott formában, határidő tűzésével további információkat kérhet a támogatási tervezet elkészítéséért felelős szervtől, amelyeket az köteles a megadott határidőben rendelkezésre bocsátani.
-
-(2) A miniszter az általa teljesnek ítélt információk alapján a – támogatási tervezet elkészítéséért felelős szerv 6. § (4) bekezdésében meghatározott tájékoztatása szerinti – támogatási tervezetet a tájékoztatás kézhezvételétől számított harminc napon belül megvizsgálja.
