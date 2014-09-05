@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (1) bekezdés i) pontjában meghatározott hatáskörében eljárva, a Borsod-Abaúj-Zemplén megyében kihirdetett veszélyhelyzet meghosszabbításának engedélyezéséről szóló 12/2011. (III. 9.) OGY határozat felhatalmazása és a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 149. § (3) bekezdés a) pontja alapján a következő rendeletet alkotja:
