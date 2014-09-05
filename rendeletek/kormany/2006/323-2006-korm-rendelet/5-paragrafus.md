@@ -18,9 +18,9 @@ f) folyamatos adatgyűjtést, elemzéseket és értékeléseket végez a vérell
 
 g) a transzfuziológiai képzésben és továbbképzésben együttműködik az orvostudományi egyetemekkel,
 
-h)[^2]
+h)[^3]
 
-i)[^3] szervdonáció és szervdonációhoz kapcsolódó szövetdonáció szervezésével összefüggő koordinációs tevékenységet végez.
+i)[^4] szervdonáció és szervdonációhoz kapcsolódó szövetdonáció szervezésével összefüggő koordinációs tevékenységet végez.
 
 (3) A regionális vérellátó központ
 
@@ -82,5 +82,5 @@ bj) közreműködés a veleszületett vérzékenységben szenvedők kezelésébe
 
 c) a minőségbiztosítás körében a minőségbiztosítási vizsgálatok, módszertani levelek, technológiai leírások, szakmai szabályok szerinti folyamatos végzése.
 
-[^2]: Az 5. § (2) bekezdés h) pontját a 447/2012. (XII. 29.) Korm. rendelet 67. §-a hatályon kívül helyezte.
-[^3]: Az 5. § (2) bekezdés i) pontja a 13/2012. (II. 14.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^3]: Az 5. § (2) bekezdés h) pontját a 447/2012. (XII. 29.) Korm. rendelet 67. §-a hatályon kívül helyezte.
+[^4]: Az 5. § (2) bekezdés i) pontja a 13/2012. (II. 14.) Korm. rendelet 23. §-ával megállapított szöveg.
