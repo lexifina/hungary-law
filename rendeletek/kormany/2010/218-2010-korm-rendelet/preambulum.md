@@ -1,1 +1,0 @@
-A Kormány az egyszerűsített foglalkoztatásról szóló 2009. évi CLII. törvény 15. §-a (5) bekezdésének c) pontjában kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva, a következőket rendeli el:
