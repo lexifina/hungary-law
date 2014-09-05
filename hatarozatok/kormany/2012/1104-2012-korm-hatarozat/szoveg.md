@@ -4,33 +4,7 @@ A tiszta közélet és a jó állam megteremtése érdekében a Kormány a köve
 
 2. A Kormány elfogadja a korrupció elleni kormányzati cselekvés kereteinek meghatározására a határozat Mellékletében foglalt korrupció-megelőzési programot.
 
-3. A Kormány felhívja a közigazgatási és igazságügyi minisztert, hogy tekintse át a bejelentővédelmi jogi szabályozást, és tegyen előterjesztést annak szükség szerinti korrekciójára, valamint részletes eljárási és szervezeti szabályokkal való kiegészítésére.
-
-Felelős: közigazgatási és igazságügyi miniszter
-
-Határidő: 2012. szeptember 30.
-
-4. A Kormány felhívja a minisztereket, hogy a közigazgatási és igazságügyi miniszter koordinációja mellett, a minisztériumuk szervezetén belül hozzanak létre olyan mechanizmust, amely képes az általuk irányított szerveket érintő, korrupciós kockázatokra vagy eseményekre irányuló közvetlen bejelentések, valamint a központi bejelentővédelmi rendszerbe érkezett bejelentések alapján történő hivatalos megkeresések fogadására, feldolgozására és belső kivizsgálására.
-
-Felelős: miniszterek
-
-Koordinációért: közigazgatási és igazságügyi miniszter
-
-Határidő: 2012. november 15.
-
-5. A Kormány felhívja a közigazgatási és igazságügyi minisztert, hogy tegyen szabályozási javaslatot a részben vagy egészben magánérdeket képviselő, eljárásjogi értelemben ügyfélnek vagy panaszosnak nem minősülő államszervezeten kívüli személyek közszolgálati tisztviselők általi fogadásának szabályozására.
-
-Felelős: közigazgatási és igazságügyi miniszter
-
-Határidő: 2012. május 31.
-
-6. A Kormány felhívja a közigazgatási és igazságügyi minisztert, hogy – az összehangolt etikai szabályozás elősegítése érdekében – készítsen zöld könyvet az etikai kódexekben célszerűen szabályozandó területekről, illetve a lehetséges szabályozási tartalmakról.
-
-Felelős: közigazgatási és igazságügyi miniszter
-
-Határidő: 2012. július 31.
-
-7. A Kormány felkéri a közszolgálati hivatásrendi köztestületeket, illetve azon jogviszonytípusok tekintetében, amelyeknél ilyen nincsen, a költségvetési szervek hivatali szervezeteinek vezetőit, hogy a korrupció megelőzési program, valamint az etikai kódexekről szóló zöld könyv figyelembevételével 2012. augusztus 31-ig készítsék el és adják ki hivatásrendi, illetve szervezeti etikai kódexeiket.
+3–7.[^2]
 
 8. A Kormány által megtárgyalandó előterjesztések, valamint a miniszteri rendeletek tervezeteinek előzetes hatásvizsgálatát ki kell egészíteni azok korrupciós kockázatainak vizsgálatával.
 
@@ -38,13 +12,7 @@ Felelős: közigazgatási és igazságügyi miniszter
 
 Határidő: a hatásvizsgálati rendszer felülvizsgálatához igazodóan
 
-9. A korrupciós kockázatok szempontjából át kell tekinteni a közbeszerzési törvény, valamint a nemzeti és közösségi költségvetési pénzügyi támogatások szabályrendszere alkalmazásának tapasztalatait, különös tekintettel az elektronikus információszabadsággal kapcsolatos jogszabályi rendelkezések betartására, és ennek eredményeiről jelentést, illetve beavatkozás szükségessége esetén előterjesztést kell tenni a Kormány számára. A szükséges beavatkozási területek között különös figyelmet kell fordítani a nyilvánosság lehetséges további növelésének formájára és tartalmára.
-
-Felelős: nemzeti fejlesztési miniszter
-
-nemzetgazdasági miniszter
-
-Határidő: 2013. január 31.
+9.[^3]
 
 10. A Kormány felhívja a közigazgatási és igazságügy minisztert, hogy szervezzen egyeztetéseket a korrupció visszaszorításáért különös felelősséget viselő állami szervek között, és segítse elő, illetve kormányzati körbe tartozó szervek esetén gondoskodjon arról, hogy valamennyi együttműködési területen részletes együttműködési megállapodások szabályozzák a szerveknek a korrupció visszaszorításában való együttműködést, továbbá a szervek tájékoztatása alapján értékelje a megállapodások teljesülését, és erről tegyen jelentést a Kormány számára.
 
@@ -54,53 +22,35 @@ Határidő: az együttműködési megállapodások megkötésére 2012. június 
 
 jelentés elkészítésére első ízben 2013. január 31., majd évente
 
-11. A Kormány felhívja a korrupció elleni küzdelemért különös felelősséget viselő kormányzati szervezeteket, hogy az ezzel kapcsolatos tevékenységükről és együttműködésükről adjanak általános összefoglaló tájékoztatást a közigazgatási és igazságügyi miniszter számára.
+11.[^4] A Kormány felhívja a korrupció elleni küzdelemért különös felelősséget viselő kormányzati szervezeteket, hogy az ezzel kapcsolatos tevékenységükről és együttműködésükről adjanak általános összefoglaló tájékoztatást a rendészetért felelős miniszter számára
 
-Felelős: belügyminiszter
+Felelős: rendészetért felelős miniszter (ideértve a további felelősökkel való koordinációt is)
 
-honvédelmi miniszter
+közigazgatás-szervezésért felelős miniszter
 
-nemzeti fejlesztési miniszter
+igazságügyért felelős miniszter
 
-nemzetgazdasági miniszter
+honvédelemért felelős miniszter
 
-Koordinációért: közigazgatási és igazságügyi miniszter
+fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért felelős miniszter
+
+államháztartásért felelős miniszter
+
+polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter
 
 Határidő: évente május 31-ig
 
-12. A Kormány felkéri a korrupció elleni küzdelemért különös felelősséget viselő független állami szervezeteket (vagyis az Állami Számvevőszéket, az Országos Bírósági Hivatalt, a Gazdasági Versenyhivatalt, a Közbeszerzési Hatóságot, a Pénzügyi Szervezetek Állami Felügyeletét, a Legfőbb Ügyészséget, valamint a Nemzeti Adatvédelmi és Információszabadság Hatóságot), hogy ezzel kapcsolatos tevékenységükről és együttműködésükről számszerű adatokat is tartalmazó tájékoztatást adjanak a közigazgatási és igazságügyi miniszter számára minden év május 31-éig.
+12.[^5] A Kormány felkéri a korrupció elleni küzdelemért különös felelősséget viselő független állami szervezeteket (vagyis az Állami Számvevőszéket, az Országos Bírósági Hivatalt, a Gazdasági Versenyhivatalt, a Közbeszerzési Hatóságot, a Magyar Nemzeti Bankot, a Legfőbb Ügyészséget, valamint a Nemzeti Adatvédelmi és Információszabadság Hatóságot), hogy ezzel kapcsolatos tevékenységükről és együttműködésükről számszerű adatokat is tartalmazó tájékoztatást adjanak a rendészetért felelős miniszter számára minden év május 31-éig.
 
-13. A Kormány felhívja a közigazgatási és igazságügyi minisztert, hogy folytasson kísérleti projektet az integritásfelelős intézményének, valamint az erre támaszkodó integritás irányítási rendszernek az állami szerveknél történő bevezetésére az Állami Számvevőszék tapasztalataira támaszkodva, és a kísérleti projekt eredményétől függően tegyen javaslatot a rendszernek a teljes államigazgatási szervezetben történő bevezetésének módjára.
+13.[^6]
 
-Felelős: közigazgatási és igazságügyi miniszter
+14.[^7] A Kormány felhívja a közigazgatás-szervezésért felelős minisztert, hogy a rendészetért felelős miniszter bevonásával gondoskodjon a közigazgatás központi integritás- és antikorrupciós képzéseinek megtartásáról.
 
-Határidő: a kísérleti projektek megindításra: 2012. augusztus 31.
-
-a kísérleti projektek lefolytatására: 2013. április 30.
-
-a bevezetésre vonatkozó javaslatra: 2013. június 30.
-
-bevezetés megkezdésére: 2013. szeptember 30.
-
-14. A Kormány felhívja a közigazgatási és igazságügyi minisztert, hogy gondoskodjon a közigazgatás központi integritás- és antikorrupciós képzéseinek megtartásáról.
-
-Felelős: közigazgatási és igazságügyi miniszter
+Felelős: közigazgatás-szervezésért felelős miniszter a rendészetért felelős miniszter bevonásával
 
 Határidő: folyamatos
 
-15. A Kormány felhívja az érintett minisztereket, hogy vizsgálják meg a nyomozó hatóságok és más rendvédelmi szervek korrupció visszaszorításában részt vevő egységei minőségi és mennyiségi megerősítésének lehetőségeit, ennek finanszírozási hátterét és tegyenek javaslatot a szükséges bővítések, fejlesztések – elsősorban belső átcsoportosítással történő – megoldására.
-
-Felelős: belügyminiszter
-
-nemzetgazdasági miniszter
-
-Határidő: 2012. október 31.
-
-16. A Kormány felhívja a közigazgatási és igazságügyi minisztert a jogi személyek büntetőjogi felelősségével kapcsolatos szabályozás felülvizsgálatára és a szükséges változtatásokra való javaslattételre.
-
-Felelős: közigazgatási és igazságügyi miniszter
-
-Határidő: 2012. december 31.
+15–16.[^8]
 
 17. Egységes elveken alapuló, de célcsoportonként differenciált tájékoztató kampányokat kell indítani a társadalom tagjai korrupciós jelenségekkel, és az azokkal szemben alkalmazható magatartásformákkal és ellenlépésekkel kapcsolatos ismereteinek és tudatosságának növelése érdekében.
 
@@ -126,19 +76,9 @@ külügyminiszter
 
 Határidő: folyamatos
 
-20. A külföldi tisztviselők megvesztegetése elleni egyezmény eredményesebb végrehajtása érdekében, a Magyarországról készült értékelő jelentések alapján, felül kell vizsgálni a vonatkozó szabályozást.
+20–21.[^9]
 
-Felelős: közigazgatási és igazságügyi miniszter
-
-Határidő: 2012. december 31.
-
-21. A Kormány felhívja a közigazgatási és igazságügyi minisztert, hogy tegyen előterjesztést az Amerikai Egyesült Államok, az Egyesült Királyság, Norvégia és további öt állam által 2011. szeptember 20-án aláírt, a nyílt kormányzásról szól nyilatkozatához (Open Government Declaration) való csatlakozásra, és hozza létre a nyilatkozathoz kapcsolódó intézkedések nyomon követésének rendszerét.
-
-Felelős: közigazgatási és igazságügyi miniszter
-
-Határidő: 2012. május 31.
-
-22. A Kormány a korrupció elleni nemzetközi fórumokon képviselendő nemzeti álláspont kialakításának összehangolására a közigazgatási és igazságügyi minisztert jelöli ki.
+22.[^10] A Kormány a korrupció elleni nemzetközi fórumokon képviselendő nemzeti álláspont kialakításának összehangolására a rendészetért felelős minisztert jelöli ki.
 
 Melléklet az 1104/2012. (IV. 6.) Korm. határozathoz
 
@@ -172,7 +112,7 @@ Jelen program tekintetében korrupciónak tekintjük azokat a cselekményeket, a
 
 A korrupciós helyzet Magyarországon
 
-Az elmúlt években több nemzetközi és hazai kutatás is elemezte a magyarországi korrupciós helyzetet, ezek alapvető tapasztalatait összegezzük. Három nagyobb bontásban vizsgálódunk: a nemzetközi szervezetek magyar általános helyzetről készített elemzésében, a korrupciós jelenségek személyes megítéléséről készített felmérésekben[^1], továbbá az állami szereplők feladatleosztásában.
+Az elmúlt években több nemzetközi és hazai kutatás is elemezte a magyarországi korrupciós helyzetet, ezek alapvető tapasztalatait összegezzük. Három nagyobb bontásban vizsgálódunk: a nemzetközi szervezetek magyar általános helyzetről készített elemzésében, a korrupciós jelenségek személyes megítéléséről készített felmérésekben[^11], továbbá az állami szereplők feladatleosztásában.
 
 | A Transparency International által alkalmazott korrupció érzékelési index Magyarországra mért értéke 1995 óta kisebb hullámzást követően 2011-ben ismét közelített a kiindulási értékhez. A 2011. évi 4,6-os2 érték az elmúlt 3 év legkedvezőtlenebb magyar adata, illetve a régiós összehasonlításban átlag alattinak tekinthető. | Forrás: Transparency International A magyar korrupció érzékelési index értékének alakulása |
 
@@ -180,7 +120,7 @@ Az elmúlt években több nemzetközi és hazai kutatás is elemezte a magyarors
 
 2 A Transparency International osztályozása 1-től 10-ig terjed, amelynél az 10 jelenti az alacsony, a 1 pedig a magas érzékelt korrupciós szintet.
 
-A független kutatók, tudományos szakemberek és újságírók által készített Global Integrity Report az egyes országok antikorrupciós mechanizmusainak, eszközeinek és intézményi háttérének bemutatását szolgálja az átláthatóság jegyében. A jelentés több, az integritás szintjének mérése szempontjából fontos ismérvet vizsgál, ilyen például a civil szervezetek szerepe, a média, az igazságszolgáltatás, a köz- és politikai szféra átláthatósága és elszámoltathatósága, a szabályozási háttér, a közbeszerzések helyzete, a bejelentő-védelem. Ezek összesítéséből állapítható meg az adott ország integritás indexe, ami Magyarország esetében 2010-ben 73-as értéket vett fel (közepes) a 2008-as 77 után[^2]. A 2010-es év értékelése szerint jónak mondható az integritás szabályozási, valamint civil szervezeti háttere, hiányosságokat mutatunk azonban többek között a hatékony antikorrupciós szervezeti háttér, a bejelentő-védelem, valamint a közbeszerzési szabályozás terén.
+A független kutatók, tudományos szakemberek és újságírók által készített Global Integrity Report az egyes országok antikorrupciós mechanizmusainak, eszközeinek és intézményi háttérének bemutatását szolgálja az átláthatóság jegyében. A jelentés több, az integritás szintjének mérése szempontjából fontos ismérvet vizsgál, ilyen például a civil szervezetek szerepe, a média, az igazságszolgáltatás, a köz- és politikai szféra átláthatósága és elszámoltathatósága, a szabályozási háttér, a közbeszerzések helyzete, a bejelentő-védelem. Ezek összesítéséből állapítható meg az adott ország integritás indexe, ami Magyarország esetében 2010-ben 73-as értéket vett fel (közepes) a 2008-as 77 után[^12]. A 2010-es év értékelése szerint jónak mondható az integritás szabályozási, valamint civil szervezeti háttere, hiányosságokat mutatunk azonban többek között a hatékony antikorrupciós szervezeti háttér, a bejelentő-védelem, valamint a közbeszerzési szabályozás terén.
 
 Hazánk tagja Az Európa Tanács Korrupcióellenes Államok Csoportjának (Group of States against Corruption, GRECO), amelynek célja elsősorban az államok korrupcióellenes tevékenysége hatékonyságának, a nemzetközi együttműködésnek, valamint az ismeretek, jó gyakorlatok átadásának-átvételének elősegítése. A GRECO legutóbbi magyarországi értékelése kiterjedt a büntetőjogi szabályozásra is, amely terén azt a következtetést vonta le, miszerint az általában véve számos, a korrupció különféle formáit lefedő rendelkezést tartalmaz, széleskörűen megfelel az Európa Tanács kívánalmainak, egyes helyeken túl is mutat azokon. Ellenben helyenként hiányossággal küzd, aminek orvoslására a következő főbb ajánlásokat tette:
 
@@ -384,7 +324,7 @@ A korrupció megelőzési program elsődlegesen a közigazgatási, s részben eg
 
 ✓ egyes hivatali és közszolgáltatási korrupciós jelenségeknek már a program érdemi megvalósításának kezdeti szakaszában történő visszaszorítása.
 
-E keretek kijelölik a program intézkedéseinek elsődleges címzettjeit is, vagyis a kormányzatban és tágabban az államigazgatási szerveknél foglalkoztatott közel 60.000 tisztviselőt. A Kormány elősegíti, hogy minél több önkormányzat szándéka esetén bevezethesse a programban felvázolt intézkedéseket[^3]. Több intézkedés pedig közvetlenül fog hatni a társadalmi attitűdök kedvező irányú változására.
+E keretek kijelölik a program intézkedéseinek elsődleges címzettjeit is, vagyis a kormányzatban és tágabban az államigazgatási szerveknél foglalkoztatott közel 60.000 tisztviselőt. A Kormány elősegíti, hogy minél több önkormányzat szándéka esetén bevezethesse a programban felvázolt intézkedéseket[^13]. Több intézkedés pedig közvetlenül fog hatni a társadalmi attitűdök kedvező irányú változására.
 
 A program sikeres végrehajtását támogatja a párt- és kampányfinanszírozás megújítása, amely azonban nem része a programnak. A párt- és kampányfinanszírozás valamennyi politikai erő által támogatott új szabályainak meghatározásához teljes politikai konszenzus szükséges a parlamenti pártok között, ezért annak tartalmát nem a Kormány javaslata, hanem – a már megkezdett – ötpárti egyeztetés fogja meghatározni.
 
@@ -626,7 +566,7 @@ Az intézményrendszer egészére ható intézkedések:
 
 a) A kormány által megtárgyalandó előterjesztések, valamint a miniszteri rendeletek hatásvizsgálatát ki kell egészíteni a korrupciós kockázatok vizsgálatával, amihez az Állami Számvevőszék ajánlásait figyelembe vevő módszertani útmutatót kell kibocsátani. A jogi szabályozás a korrupció megelőzésében hosszú távon csak akkor válhat hatékonyabbá, ha a jogszabályok megalkotása során a döntéshozók számot vetnek a tervezett szabályozásnak a korrupciós kockázatok növekedésére vagy csökkenésére gyakorolt hatásaival. A korrupciós kockázatok értékelésénél figyelemmel kell lenni azok vállalkozói adminisztratív-teher, valamint költségvetési kiadásnövelő hatásaira is.
 
-b) A korrupció visszaszorításának egyik legfőbb akadálya a korrupciós cselekményeknek a potenciális bejelentők retorzióktól való félelmére visszavezethető nagyfokú látenciája. Ennek megszüntetése érdekében ki kell egészíteni a bejelentő védelmi jogi szabályozást[^4]. A szabályozásnak ki kell terjednie a bejelentők anonimitásának és esetleges díjazásának biztosítására. Javaslatot kell tenni a bejelentők anonimitása és a bejelentések kivizsgálása pártatlanságának biztosítása szervezeti bázisának az Országgyűlés alá rendelt független szerv keretében történő kialakítására, a takarékos költségvetési gazdálkodás szempontját figyelembe véve új állami szerv létrehozása nélkül.
+b) A korrupció visszaszorításának egyik legfőbb akadálya a korrupciós cselekményeknek a potenciális bejelentők retorzióktól való félelmére visszavezethető nagyfokú látenciája. Ennek megszüntetése érdekében ki kell egészíteni a bejelentő védelmi jogi szabályozást[^14]. A szabályozásnak ki kell terjednie a bejelentők anonimitásának és esetleges díjazásának biztosítására. Javaslatot kell tenni a bejelentők anonimitása és a bejelentések kivizsgálása pártatlanságának biztosítása szervezeti bázisának az Országgyűlés alá rendelt független szerv keretében történő kialakítására, a takarékos költségvetési gazdálkodás szempontját figyelembe véve új állami szerv létrehozása nélkül.
 
 A korrupciós esetek bejelentése a kulcsa a korrupció táptalajául szolgáló alacsony lebukási kockázat megnövelésének és ezáltal ez lehet a megelőzés és az aktív antikorrupciós társadalmi részvétel egyik legfontosabb eszköze. Amennyiben a lehetséges bejelentők kellő biztosítékot éreznek arra, hogy nem éri őket retorzió, és a bejelentett ügyeket érdemben ki fogják vizsgálni, nőni fog a korrupciós cselekményekre vonatkozó bejelentések száma, ami a felderítési arány javulásán keresztül jelentősen növelni fogja a korrupciós cselekmények jogkövetkezményeinek visszatartó hatását.
 
@@ -752,7 +692,16 @@ Az alkalmazandó intézkedések időbeni egymásra épülése
 
 | 17 | Tájékoztató program a külföldön tevékenykedő magyar vállalkozások korrupciós cselekményeinek megelőzésére |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Nem ismerünk olyan felmérést, ami átfogóan, minden részletre és csoportra kiterjedően vizsgálta volna a korrupciós helyzetet és annak társadalmi megítélését. E miatt az adatokat több felmérésből vettük, melyek különböztek egymástól mind adatfelvételi módjukban, mind az adatfelvétel időpontjában. Ezen hiányossága ellenére szükségünk van a társadalmi megítélés megismerésére, ezért alkalmazzuk ezt az elemzési módot.
-[^2]: Az értékelés 1-100-ig terjed, melyben a 60 alatti a nagyon gyenge, a 60-70 közötti a gyenge, a 70-80 közötti a közepes, a 80-90 közötti az erős, a 90 fölötti pedig a nagyon erős integritást fejezi ki.
-[^3]: A Közigazgatási és Igazságügyi Minisztérium valamennyi állami szervet meg fogja keresni az Állami Számvevőszékkel, a Legfelsőbb Bírósággal és a Legfőbb Ügyészséggel az állami szerveknek a korrupció elleni küzdelemben való együttműködéséről aláírt közös nyilatkozathoz való csatlakozás lehetőségével, és a Kormány.hu honlapon keresztül elérhetővé fogja tenni a közös nyilatkozathoz csatlakozók nevét, valamint az általuk bevezetett konkrét intézkedéseket.
-[^4]: 2009. évi CLXIII. törvény a tisztességes eljárás védelméről, valamint az ezzel összefüggő törvénymódosításokról
+[^2]: A 3–7. pontot az 1493/2014. (IX. 4.) Korm. határozat 18. pontja hatályon kívül helyezte.
+[^3]: A 9. pontot az 1493/2014. (IX. 4.) Korm. határozat 18. pontja hatályon kívül helyezte.
+[^4]: A 11. pont az 1493/2014. (IX. 4.) Korm. határozat 14. pontjával megállapított szöveg.
+[^5]: A 12. pont az 1493/2014. (IX. 4.) Korm. határozat 15. pontjával megállapított szöveg.
+[^6]: A 13. pontot az 1493/2014. (IX. 4.) Korm. határozat 18. pontja hatályon kívül helyezte.
+[^7]: A 14. pont az 1493/2014. (IX. 4.) Korm. határozat 16. pontjával megállapított szöveg.
+[^8]: A 15–16. pontot az 1493/2014. (IX. 4.) Korm. határozat 18. pontja hatályon kívül helyezte.
+[^9]: A 20–21. pontot az 1493/2014. (IX. 4.) Korm. határozat 18. pontja hatályon kívül helyezte.
+[^10]: A 22. pont az 1493/2014. (IX. 4.) Korm. határozat 17. pontjával megállapított szöveg.
+[^11]: Nem ismerünk olyan felmérést, ami átfogóan, minden részletre és csoportra kiterjedően vizsgálta volna a korrupciós helyzetet és annak társadalmi megítélését. E miatt az adatokat több felmérésből vettük, melyek különböztek egymástól mind adatfelvételi módjukban, mind az adatfelvétel időpontjában. Ezen hiányossága ellenére szükségünk van a társadalmi megítélés megismerésére, ezért alkalmazzuk ezt az elemzési módot.
+[^12]: Az értékelés 1-100-ig terjed, melyben a 60 alatti a nagyon gyenge, a 60-70 közötti a gyenge, a 70-80 közötti a közepes, a 80-90 közötti az erős, a 90 fölötti pedig a nagyon erős integritást fejezi ki.
+[^13]: A Közigazgatási és Igazságügyi Minisztérium valamennyi állami szervet meg fogja keresni az Állami Számvevőszékkel, a Legfelsőbb Bírósággal és a Legfőbb Ügyészséggel az állami szerveknek a korrupció elleni küzdelemben való együttműködéséről aláírt közös nyilatkozathoz való csatlakozás lehetőségével, és a Kormány.hu honlapon keresztül elérhetővé fogja tenni a közös nyilatkozathoz csatlakozók nevét, valamint az általuk bevezetett konkrét intézkedéseket.
+[^14]: 2009. évi CLXIII. törvény a tisztességes eljárás védelméről, valamint az ezzel összefüggő törvénymódosításokról
