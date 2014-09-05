@@ -1,3 +1,5 @@
+## 1/B. § A Szolgálatot elnök vezeti.
+
 ## A Szolgálat feladat- és hatásköre
 
 2. § (1) A Szolgálat állami feladatként
@@ -24,16 +26,16 @@ fc) a mezőgazdaságot, a vízgazdálkodást, a vízkárelhárítást érintő
 
 g) rendszeres tájékoztatást nyújt az interneten keresztül a legfontosabb meteorológiai alapadatokról és azok alapján készített rövid, közép- és hosszú távú meteorológiai előrejelzésekről,
 
-h)[^2] az üvegházhatású gázok kibocsátásával kapcsolatos adatszolgáltatásról szóló jogszabály szerinti hatósági jogkört gyakorol.
+h)[^3] az üvegházhatású gázok kibocsátásával kapcsolatos adatszolgáltatásról szóló jogszabály szerinti hatósági jogkört gyakorol.
 
-i)[^3] ellátja a Levegőtisztaság-védelmi Referencia Központ működtetőjeként az Országos Légszennyezettségi Mérőhálózat minőségirányítási, mérőkészülék típus alkalmassági felülvizsgálati, valamint adatközponti feladatait,
+i)[^4] ellátja a Levegőtisztaság-védelmi Referencia Központ működtetőjeként az Országos Légszennyezettségi Mérőhálózat minőségirányítási, mérőkészülék típus alkalmassági felülvizsgálati, valamint adatközponti feladatait,
 
-j)[^4] előkészíti a nemzetközi szerződésekből eredő jelentéstételi kötelezettségek teljesítése érdekében a környezeti levegő minőségének állapotára vonatkozó adatokat, valamint az ilyen jellegű kötelezettségek teljesítése érdekében légszennyező anyagokra vonatkozó emissziós leltárt készít és vezet.
+j)[^5] előkészíti a nemzetközi szerződésekből eredő jelentéstételi kötelezettségek teljesítése érdekében a környezeti levegő minőségének állapotára vonatkozó adatokat, valamint az ilyen jellegű kötelezettségek teljesítése érdekében légszennyező anyagokra vonatkozó emissziós leltárt készít és vezet.
 
 (2) A Szolgálat az (1) bekezdésben foglalt feladatainak magas színvonalú ellátása érdekében kutató-fejlesztő tevékenységet folytat.
 
 (3) A Szolgálat a repülésmeteorológiai szolgáltatás rendjéről szóló külön jogszabály szerint repülésmeteorológiai szolgáltatást végez, továbbá együttműködik a Magyar Honvédséggel a meteorológiai alapadatok, valamint a meteorológiai alapadatok alapján készített számítások, elemzések, meteorológiai előrejelzések kölcsönös rendelkezésre bocsátása, a kölcsönös tájékoztatás, és a 2. § (1) bekezdésének fa)–fc) pontja szerinti események megelőzésének és felszámolásának érdekében.
 
-[^2]: A 2. § (1) bekezdés h) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 30. pontja hatályon kívül helyezte, újonnan a 345/2009. (XII. 30.) Korm. rendelet 12. §-a iktatta be.
-[^3]: A 2. § (1) bekezdés i) pontját a 344/2009. (XII. 30.) Korm. rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^4]: A 2. § (1) bekezdés j) pontját a 344/2009. (XII. 30.) Korm. rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^3]: A 2. § (1) bekezdés h) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 30. pontja hatályon kívül helyezte, újonnan a 345/2009. (XII. 30.) Korm. rendelet 12. §-a iktatta be.
+[^4]: A 2. § (1) bekezdés i) pontját a 344/2009. (XII. 30.) Korm. rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^5]: A 2. § (1) bekezdés j) pontját a 344/2009. (XII. 30.) Korm. rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

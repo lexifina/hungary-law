@@ -2,6 +2,6 @@
 
 ## Záró rendelkezések
 
-7. §[^5] Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+7. §[^8] Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-[^5]: A 7. § a 118/2008. (V. 8.) Korm. rendelet 1. § 427. pontja szerint módosított szöveg.
+[^8]: A 7. § a 118/2008. (V. 8.) Korm. rendelet 1. § 427. pontja szerint módosított szöveg.
