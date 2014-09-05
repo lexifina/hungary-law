@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-199-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2001-10-20 | 2001-199-20-22.1 | 199/2001. (X. 20.) Korm. rendelet |
+| 2014-09-05 | 2001-199-20-22.2 | 221/2014. (IX. 4.) Korm. rendelet |

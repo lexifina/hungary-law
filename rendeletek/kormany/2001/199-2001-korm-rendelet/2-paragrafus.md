@@ -1,6 +1,6 @@
 ## 1. § A Kormány a Magyar Köztársaság Kormánya és a Japán Kormány között a Debreceni Csokonai Színház videofelvevő és szerkesztő berendezéssel való ellátása tárgyában 2000. december hó 21. nap létrejött levélváltást e rendelet mellékleteként kihirdeti.
 
-2. § Ez a rendelet a kihirdetése napján lép hatályba, végrehajtásáról a nemzeti kulturális örökség minisztere gondoskodik.
+2. §[^1] Ez a rendelet a kihirdetése napján lép hatályba, végrehajtásáról a kultúráért felelős miniszter gondoskodik.
 
 Melléklet a 199/2001. (X. 20.) Korm. rendelethez
 
@@ -95,3 +95,5 @@ I avail myself of this opportunity to extend to Your Excellency the assurance of
 Kazuo Nukazava s. k.,
 
 Japán nagykövete''
+
+[^1]: A 2. § a 221/2014. (IX. 4.) Korm. rendelet 224. §-a szerint módosított szöveg.
