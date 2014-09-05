@@ -4,4 +4,6 @@
 
 (3) A (bank)számlák feletti rendelkezési jogosultságot két bejelentett személy együttes aláírásával lehet gyakorolni.
 
-(4) A (bank)számlák vezetésével kapcsolatos bárminemű költség elszámolása közvetlenül a központi költségvetés terhére történik a Pénzügyminisztérium fejezet, Egyéb költségvetési kiadások cím, Vegyes kiadások alcím terhére.
+(4)[^75] A (bank)számlák vezetésével kapcsolatos bárminemű költség elszámolása az államháztartásért felelős miniszter által vezetett minisztérium költségvetési fejezete terhére történik.
+
+[^75]: A 28. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 293. § d) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 69. §[^163]
+## 69. §[^169]
 
 ## 70. § Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
@@ -14,16 +14,16 @@ e) a Bizottság 2002. július 29-i, 1386/2002/EK rendelete az 1164/94/EK tanács
 
 f) a Bizottság 2003. január 6-i, 16/2003/EK rendelete a Kohéziós Alap által társfinanszírozott intézkedések keretében a kiadások támogathatósága tekintetében az 1164/94/EK rendelet végrehajtására vonatkozó különleges részletes szabályok megállapításáról;
 
-g)[^164] a Tanács 1995. december 18-i, 2988/95/EK rendelete az Európai Közösségek pénzügyi érdekeinek védelméről;
+g)[^170] a Tanács 1995. december 18-i, 2988/95/EK rendelete az Európai Közösségek pénzügyi érdekeinek védelméről;
 
-h)[^165] a Bizottság 1994. július 11-i, 1681/94/EK rendelete a strukturális politikák finanszírozása keretében történt szabálytalanságokról és tévesen kifizetett összegek behajtásáról, valamint egy információs rendszer e téren történő létrehozásáról;
+h)[^171] a Bizottság 1994. július 11-i, 1681/94/EK rendelete a strukturális politikák finanszírozása keretében történt szabálytalanságokról és tévesen kifizetett összegek behajtásáról, valamint egy információs rendszer e téren történő létrehozásáról;
 
-i)[^166] a Bizottság 2005. december 12-i 2035/2005/EK rendelete a strukturális politikák finanszírozása keretében történt szabálytalanságokról és tévesen kifizetett összegek behajtásáról, valamint egy információs rendszer e téren történő létrehozásáról szóló 1681/94/EK rendelet módosításáról;
+i)[^172] a Bizottság 2005. december 12-i 2035/2005/EK rendelete a strukturális politikák finanszírozása keretében történt szabálytalanságokról és tévesen kifizetett összegek behajtásáról, valamint egy információs rendszer e téren történő létrehozásáról szóló 1681/94/EK rendelet módosításáról;
 
-j)[^167] a Bizottság 2004. március 10-i, 448/2004/EK rendelete a strukturális alapok által társfinanszírozott tevékenységek kiadásainak támogathatósága tekintetében az 1260/1999/EK tanácsi rendelet alkalmazása részletes szabályainak megállapításáról szóló 1685/2000/EK rendelet módosításáról és az 1145/2003/EK rendelet hatályon kívül helyezéséről.
+j)[^173] a Bizottság 2004. március 10-i, 448/2004/EK rendelete a strukturális alapok által társfinanszírozott tevékenységek kiadásainak támogathatósága tekintetében az 1260/1999/EK tanácsi rendelet alkalmazása részletes szabályainak megállapításáról szóló 1685/2000/EK rendelet módosításáról és az 1145/2003/EK rendelet hatályon kívül helyezéséről.
 
-[^163]: A 69. §-t a 202/2006. (X. 5.) Korm. rendelet 48. §-a hatályon kívül helyezte.
-[^164]: A 70. § g) pontját a 202/2006. (X. 5.) Korm. rendelet 44. §-a iktatta be.
-[^165]: A 70. § h) pontját a 202/2006. (X. 5.) Korm. rendelet 44. §-a iktatta be.
-[^166]: A 70. § i) pontját a 202/2006. (X. 5.) Korm. rendelet 44. §-a iktatta be.
-[^167]: A 70. § j) pontját a 202/2006. (X. 5.) Korm. rendelet 44. §-a iktatta be.
+[^169]: A 69. §-t a 202/2006. (X. 5.) Korm. rendelet 48. §-a hatályon kívül helyezte.
+[^170]: A 70. § g) pontját a 202/2006. (X. 5.) Korm. rendelet 44. §-a iktatta be.
+[^171]: A 70. § h) pontját a 202/2006. (X. 5.) Korm. rendelet 44. §-a iktatta be.
+[^172]: A 70. § i) pontját a 202/2006. (X. 5.) Korm. rendelet 44. §-a iktatta be.
+[^173]: A 70. § j) pontját a 202/2006. (X. 5.) Korm. rendelet 44. §-a iktatta be.

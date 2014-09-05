@@ -36,7 +36,7 @@
 
 16. Támogatási szerződés: strukturális alapok esetében az irányító hatóságnak, illetve Kohéziós Alap esetében a közreműködő szervezetnek a kedvezményezettel kötött szerződése, amely a támogatás felhasználásának részletes feltételeit tartalmazza.
 
-17.[^10] Zárónyilatkozat: az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF) által készített nyilatkozat, mely összegzi a korábbi években végzett ellenőrzések során tett megállapításokat, elbírálja a záró kifizetés iránti kérelem megalapozottságát, valamint a kiadásokról szóló záró igazolás tárgyát képező ügyletek jogszerűségét és szabályszerűségét, az Európai Bizottság és a pénzügyminiszter által kiadott módszertani útmutatások alapján.
+17.[^10] Zárónyilatkozat: az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF) által készített nyilatkozat, mely összegzi a korábbi években végzett ellenőrzések során tett megállapításokat, elbírálja a záró kifizetés iránti kérelem megalapozottságát, valamint a kiadásokról szóló záró igazolás tárgyát képező ügyletek jogszerűségét és szabályszerűségét, az Európai Bizottság és az államháztartásért felelős miniszter által kiadott módszertani útmutatások alapján.
 
 18. 438/2001/EK rendelet: a Bizottság 2001. március 2-i, 438/2001/EK rendelete a strukturális alapok keretében nyújtott támogatások irányítási és ellenőrzési rendszerei tekintetében az 1260/1999/EK tanácsi rendelet végrehajtása részletes szabályainak megállapításáról.
 
@@ -48,7 +48,7 @@
 
 22.[^13] Likviditáskezelési útmutató: az adatszolgáltatási és bizonylati rendet tartalmazó, az irányító hatóságok, közreműködő szervezetek és a kifizető hatóság részére a forrásgazda által, a kifizető hatóság egyetértésével a pénzügyi folyamatok zavartalan lebonyolítása érdekében kiadott dokumentum.
 
-23.[^14] Központi harmonizációs egység: a Pénzügyminisztériumnak az államháztartási belső pénzügyi ellenőrzési rendszer központi harmonizációjáért, szabályozásának előkészítéséért és koordinációjáért, valamint fejlesztéséért felelős szervezeti egysége.
+23.[^14] Központi harmonizációs egység: az államháztartásért felelős miniszter által vezetett minisztériumnak az államháztartási belső pénzügyi ellenőrzési rendszer központi harmonizációjáért, szabályozásának előkészítéséért és koordinációjáért, valamint fejlesztéséért felelős szervezeti egysége.
 
 (2)[^15] Az itt nem meghatározott fogalmak az Európai Unió által nyújtott egyes pénzügyi támogatások felhasználásával megvalósuló, és egyes nemzetközi megállapodások alapján finanszírozott programok monitoring rendszerének kialakításáról és működéséről szóló 102/2006. (IV. 28.) Korm. rendeletben (a továbbiakban: Monitoring rendelet), illetve az Európai Unió strukturális alapjaiból és Kohéziós Alapjából származó támogatások hazai felhasználásáért felelős intézményekről szóló 1/2004. (I. 5.) Korm. rendeletben foglaltak szerint értelmezendők.
 
@@ -61,9 +61,9 @@
 [^7]: A 2. § (1) bekezdésének 13. pontja a 281/2006. (XII. 23.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
 [^8]: A 2. § (1) bekezdésének 14. pontja a 202/2006. (X. 5.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^9]: A 2. § (1) bekezdésének 15. pontja a 202/2006. (X. 5.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 304/2011. (XII. 23.) Korm. rendelet 20. §-a szerint módosított szöveg.
-[^10]: A 2. § (1) bekezdés 17. pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (5) és (7) bekezdése szerint módosított szöveg.
+[^10]: A 2. § (1) bekezdés 17. pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (5) és (7) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 293. § a) pontja szerint módosított szöveg.
 [^11]: A 2. § (1) bekezdésének 20. pontját a 202/2006. (X. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^12]: A 2. § (1) bekezdésének 21. pontját a 202/2006. (X. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^13]: A 2. § (1) bekezdésének 22. pontját a 202/2006. (X. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 47. § (2) bekezdése alapján a KTK irányító hatóság köteles a likviditáskezelési útmutatót a 2006. október 13. napját követő 60 napon belül a pénzügyminiszterrel egyetértésben elkészíteni és közzétenni.
-[^14]: A 2. § (1) bekezdésének 23. pontját a 202/2006. (X. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^14]: A 2. § (1) bekezdésének 23. pontját a 202/2006. (X. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 293. § b) pontja szerint módosított szöveg.
 [^15]: A 2. § (2) bekezdése a 202/2006. (X. 5.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
