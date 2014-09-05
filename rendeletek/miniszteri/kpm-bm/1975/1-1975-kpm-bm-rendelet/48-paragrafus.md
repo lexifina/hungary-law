@@ -40,7 +40,7 @@ d) audiovizuális eszközök (pl. video) útján
 
 ## tájékoztatni kell a biztonsági övek kötelező használatáról.
 
-(7) [^300] A gépkocsiban vagy a mopedautóban utazó 150 cm-nél alacsonyabb gyermek – a testsúlyához igazodó kialakítású – gyermekbiztonsági rendszerben rögzítve szállítható. A gyermekbiztonsági rendszert kialakításától függően a járműnek erre a célra gyárilag kialakított rögzítési pontjaihoz, vagy az üléshez tartozó biztonsági övhöz vagy ennek bekötési pontjaihoz kell csatlakoztatni. A gépkocsi és a mopedautó üléseihez – a vezető ülését kivéve – gyermekbiztonsági rendszer szerelhető be. Az első üléshez – a jármű szokásos haladási irányával ellentétes irányban – a gyermekbiztonsági rendszer csak akkor szerelhető be, ha az üléshez légzsákot nem szereltek fel vagy a légzsák működésbe lépését előzetesen megakadályozták. A 3 évnél fiatalabb gyermek csak gyermekbiztonsági rendszerben rögzítve szállítható. A gyermeket a gyermekbiztonsági rendszerhez tartozó hevederekkel (pántokkal) is rögzíteni kell.
+(7) [^300] A gépkocsiban vagy a mopedautóban – a (8) bekezdésben foglalt kivétellel – 150 cm-nél alacsonyabb gyermek csak a testméretéhez és testsúlyához igazodó kialakítású gyermekbiztonsági rendszerben rögzítve szállítható. A gyermekbiztonsági rendszert a jármű e célra gyárilag kialakított rögzítési pontjaihoz, vagy az üléshez tartozó biztonsági övhöz kell a gyártója által megadott szerelési információknak megfelelően rögzíteni. A jármű szokásos haladási irányával ellentétes irányban a jármű első üléséhez a gyermekbiztonsági rendszer csak akkor szerelhető be, ha az üléshez légzsákot nem szereltek fel vagy a légzsák működésbe lépését előzetesen megakadályozták. A 3 évnél fiatalabb gyermek csak gyermekbiztonsági rendszerben rögzítve szállítható. A gyermeket a gyermekbiztonsági rendszerhez tartozó hevederekkel (pántokkal) is rögzíteni kell.
 
 (8) [^301] A gyermeket nem kell gyermekbiztonsági rendszerben rögzíteni:
 
@@ -111,7 +111,7 @@ b) üzemben tartója telephelyére vagy telephelyéről
 [^297]: A közúti járművezetők egészségi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet 8. §.
 [^298]: A 48. § (6) bekezdése az 58/2007. (III. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^299]: A Magyar Közlöny 2007. évi 51. számában megjelent helyesbítésnek megfelelő szöveg.
-[^300]: A 48. § (7) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^300]: A 48. § (7) bekezdése a 226/2014. (IX. 4.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^301]: A 48. § (8) bekezdését a 28/2001. (II. 15.) Korm. rendelet 28. §-ának (1) bekezdése hatályon kívül helyezte, újonnan az 58/2007. (III. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be. Ez utóbbi módosító rendelet 14. § (2) bekezdésének b) pontja alapján az autóbuszban ülve szállított gyermekek gyermekbiztonsági rendszerben történő kötelező elhelyezésére vonatkozó rendelkezéseket 2007. szeptember 1-jétől kell alkalmazni.
 [^302]: A közúti járművezetők egészségi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet 8. §.
 [^303]: A 48. § (9) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.

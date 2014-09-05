@@ -1,5 +1,3 @@
-## tilos.
-
 ## Egyes közúti jelzésekre vonatkozó külön rendelkezések[^169]
 
 20/A. §[^170] A 11–18. és a 20. §-ban meghatározott közúti jelzések ábráiban a feliratok, a számértékek, a továbbhaladás irányát jelző nyilak, az útkereszteződések és útszűkületek alaprajzi vázlatait feltüntető vonalak, továbbá az egyéb területek alaprajzi vázlatai (74., 106., 111., 112., 130., 138., 139., 155., 156. és 157. ábra) példálózó jellegűek; e jelzések mindenkor a tényleges helyzetet, illetőleg szabályozást tüntetik fel.

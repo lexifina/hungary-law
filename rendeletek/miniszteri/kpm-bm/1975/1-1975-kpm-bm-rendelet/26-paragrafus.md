@@ -58,7 +58,7 @@ h) pótkocsinak nem minősülő fék nélküli vontatmányt (mezőgazdasági vag
 
 (5) Nem szabad a járművel indokolatlanul olyan lassan haladni, hogy az a forgalmat akadályozza.
 
-(6)[^202] A 16. § (1) bekezdés q) pontjában meghatározott jelzőtábla (84. ábra) alatt elhelyezett kiegészítő jelzőtáblán megjelölt távolságon belül – ha a közúti jelzésekből más nem következik – legfeljebb 30 km/óra sebességgel szabad közlekedni.
+(6)[^202] Ha a 16. § (1) bekezdés q) pontjában meghatározott jelzőtábla (84. ábra) alatt a 97. ábra szerinti kiegészítő jelzőtábla alkalmazásával távolságot jelöltek meg, akkor az így megjelölt útszakaszon – ha a közúti jelzésekből más nem következik – legfeljebb 30 km/óra sebességgel szabad közlekedni. A kiegészítő jelzőtábla jelezheti, hogy a sebességkorlátozás csak meghatározott időszakra érvényes.
 
 [^189]: A 26. § (1) bekezdés bevezető szövegrésze a 289/2009. (XII. 18.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^190]: A 26. § (1) bekezdés a) pontja a 289/2009. (XII. 18.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
@@ -73,4 +73,4 @@ h) pótkocsinak nem minősülő fék nélküli vontatmányt (mezőgazdasági vag
 [^199]: A 26. § (1) bekezdés d/3. pontját a 289/2009. (XII. 18.) Korm. rendelet 13. § (3) bekezdése iktatta be.
 [^200]: A 26. § (1) bekezdésének e) pontja az 58/2007. (III. 31.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^201]: A 26. § (2) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg.
-[^202]: A 26. § (6) bekezdését a 129/2013. (IV. 30.) Korm. rendelet 3. §-a iktatta be.
+[^202]: A 26. § (6) bekezdését a 129/2013. (IV. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 226/2014. (IX. 4.) Korm. rendelet 2. §-ával megállapított szöveg.
