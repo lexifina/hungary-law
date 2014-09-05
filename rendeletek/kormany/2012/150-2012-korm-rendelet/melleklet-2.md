@@ -524,7 +524,7 @@
 
 | 260 | 55 | 861 | 04 | Körzeti megbízott | 22 | - | - | 300-500 óra | TK | rendészetért felelős miniszter |
 
-| 261 | 52 | 343 | 01 | Közbeszerzési referens | 15 | XXIV | - | 250-300 óra | TK | állami vagyonért felelős miniszter, Közbeszerzési Hatóság elnöke |
+| 261 | 52 | 343 | 01 | Közbeszerzési referens | 15 | XXIV | - | 250-300 óra | TK | közbeszerzésekért felelős miniszter, Közbeszerzési Hatóság elnöke |
 
 | 262 | 35 | 522 | 08 | Középfeszültségű FAM szerelő | 6 | XI | - | 160-240 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -990,7 +990,7 @@
 
 | 493 | 54 | 344 | 04 | Államháztartási ügyintéző | 15 | XXIV | 2 év | 960–1440 óra | N, E, L, S, TK, T | számviteli szabályozásért felelős miniszter |
 
-| 494 | 35 | 811 | 03 | Dietetikus szakács | 18 | XXVII | 0,5 év | 240–360 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
+| 494 | 35 | 811 | 03 | Diétás szakács | 18 | XXVII | 0,5 év | 240–360 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
 ## 2. táblázat: részszakképesítések
 
