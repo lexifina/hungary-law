@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-35-20-2
 | 2013-01-01 | 1998-35-20-22.15 | 415/2012. (XII. 29.) Korm. rendelet |
 | 2013-08-01 | 1998-35-20-22.16 | 298/2013. (VII. 29.) Korm. rendelet |
 | 2014-02-28 | 1998-35-20-22.17 | 43/2014. (II. 25.) Korm. rendelet |
+| 2014-09-05 | 1998-35-20-22.18 | 221/2014. (IX. 4.) Korm. rendelet |

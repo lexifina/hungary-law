@@ -14,7 +14,7 @@ b)[^18] érvényesüljenek az oktatással kapcsolatos, a KTK által meghatározo
 
 (6)[^22] A központi államigazgatási, valamint a Kttv. 2. §-a szerinti szerveknél alkalmazott vizsgázó az NKE-nél, a többi közigazgatási szervnél alkalmazott vizsgázó, valamint a polgármester a közigazgatási szerv székhelye, illetőleg működési területe szerint illetékes szakvizsgaszervezőnél működő bizottság előtt – a közigazgatási szakvizsga e rendelet 1. számú mellékletében meghatározott vizsgaszabályzatának figyelembevételével – tesz szakvizsgát. A szakvizsgaszervezők szükség szerint közösen is szervezhetnek szakvizsgát, felkészítő tanfolyamot.
 
-(7)[^23] A szakvizsgaszervezőt a (3) bekezdésben meghatározott feladatainak végrehajtása során közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter irányítja.
+(7)[^23] A szakvizsgaszervezőt a (3) bekezdésben meghatározott feladatainak végrehajtása során közszolgálati életpálya kidolgozásáért felelős miniszter irányítja.
 
 [^16]: A 4. § a 252/2008. (X. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^17]: A 4. § (1) bekezdés nyitó szövegrésze a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 46. pontja, a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés e) pontja, a 415/2012. (XII. 29.) Korm. rendelet 5. § (5) bekezdés d) pontja szerint módosított szöveg.
@@ -23,4 +23,4 @@ b)[^18] érvényesüljenek az oktatással kapcsolatos, a KTK által meghatározo
 [^20]: A 4. § (4) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 14. § (2) bekezdésével megállapított, a 273/2012. (IX. 20.) Korm. rendelet 28. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^21]: A 4. § (5) bekezdését a 153/2010. (V. 4.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
 [^22]: A 4. § (6) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés b) és f) pontja szerint módosított szöveg.
-[^23]: A 4. § (7) bekezdése a 153/2010. (V. 4.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^23]: A 4. § (7) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 185. §-a szerint módosított szöveg.
