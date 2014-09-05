@@ -56,7 +56,7 @@
 
 | 9. Cím: ……………….. ….…………………………………….............................. irányítószám település neve …………………….………………………………….… ……………… utca, út, tér házszám | 12. Értesítési cím: ………………. ………………….……………………………………........................... irányítószám település neve ………………………………….…………………………………….… ……………. utca, út, tér házszám |
 
-## Jogelőd ügyfél adatai[^12] (Az esetleges további jogelődöket a JOGE lapon kell felsorolni)
+## Jogelőd ügyfél adatai[^14] (Az esetleges további jogelődöket a JOGE lapon kell felsorolni)
 
 | 13. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 14. KSH statisztikai számjel: ⬜⬜⬜⬜⬜⬜⬜⬜- ⬜⬜⬜⬜- ⬜⬜⬜- ⬜⬜ |
 
@@ -254,7 +254,7 @@
 
 | 2. KTJ (Környezetvédelmi Terület Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ vagy KTJ lapsorszám: ⬜⬜⬜ |
 
-## Telephelyen található környezetvédelmi objektumok azonosítói[^13]
+## Telephelyen található környezetvédelmi objektumok azonosítói[^15]
 
 | 3. Változás kód | 4. KTJ (Környezetvédelmi Terület Jel) | vagy KTJ lapsorszám |
 
@@ -290,7 +290,7 @@
 
 | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
 
-2. melléklet a 78/2007. (IV. 24.) Korm. rendelethez[^14]
+2. melléklet a 78/2007. (IV. 24.) Korm. rendelethez[^16]
 
 | MEGH lap | KÖRNYEZETVÉDELMI ALAPNYILVÁNTARTÁSHOZ SZÜKSÉGES ADATOK, VALAMINT AZ ADATOKBAN BEKÖVETKEZETT VÁLTOZÁSOK BEJELENTÉSE |
 
@@ -396,6 +396,6 @@ P. H.
 
 cégszerű aláírás
 
-[^12]: Változásjelentés esetén a jogelőd ügyfél mezőket üresen kell hagyni! A jogelőd javításához vagy esetleges megváltozásának bejelentéséhez a JOGE pótlapot kell használni!
-[^13]: Az objektum KTJ száma és az objektum KTJ lapsorszáma közül egyszerre csak az egyik lehet kitöltve!
-[^14]: A 2. melléklete az 527/2013. (XII. 30.) Korm. rendelet 47. § (5) bekezdése szerint módosított szöveg.
+[^14]: Változásjelentés esetén a jogelőd ügyfél mezőket üresen kell hagyni! A jogelőd javításához vagy esetleges megváltozásának bejelentéséhez a JOGE pótlapot kell használni!
+[^15]: Az objektum KTJ száma és az objektum KTJ lapsorszáma közül egyszerre csak az egyik lehet kitöltve!
+[^16]: A 2. melléklete az 527/2013. (XII. 30.) Korm. rendelet 47. § (5) bekezdése szerint módosított szöveg.

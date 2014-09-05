@@ -6,7 +6,7 @@
 
 (1a)[^2] A környezeti alapnyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
-(2)[^3] A környezeti alapnyilvántartásba a környezetvédelmi és természetvédelmi felügyelőségek (a továbbiakban: felügyelőségek), a vízvédelmi hatóság, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: Főfelügyelőség), az Országos Vízügyi Hatóság, valamint a Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) és a Belügyminisztérium jegyezhet be egyedi környezetvédelmi azonosító adatokat.
+(2)[^3] A környezeti alapnyilvántartásba a környezetvédelmi és természetvédelmi felügyelőségek (a továbbiakban: felügyelőségek), a vízvédelmi hatóság, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: Főfelügyelőség), az országos vízügyi hatóság, a környezetvédelemért felelős miniszter és a vízvédelemért felelős miniszter jegyezhet be egyedi környezetvédelmi azonosító adatokat.
 
 (3) A közigazgatási eljárás során – amennyiben ezek az azonosítók még nem állnak rendelkezésre – az eljárás alanyait KÜJ, az érintett környezetvédelmi objektumokat KTJ azonosítóval kell ellátni. Környezetvédelmi adatszolgáltatást kizárólag KÜJ, KTJ azonosító birtokában lehet teljesíteni.
 
@@ -15,5 +15,5 @@
 (5) A KAR adatait a Központi Statisztikai Hivatal külön jogszabály alapján[^4] statisztikai célra, egyedi azonosításra alkalmas módon, elektronikusan, térítésmentesen átveheti és kezelheti.
 
 [^2]: A 2. § (1a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 9. §-a iktatta be.
-[^3]: A 2. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 379. §-ával megállapított szöveg.
 [^4]: 1993. évi XLVI. törvény a statisztikáról.
