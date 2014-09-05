@@ -1,4 +1,4 @@
-## 14. §[^44] A kollégium
+## 14. §[^47] A kollégium
 
 a) elemzi és értékeli a kormányzati feladatok területi megvalósításának helyzetét, a fővárosi és megyei kormányhivatal, a központi államigazgatási szervek területi szervei és a helyi önkormányzatok együttműködésének, továbbá az államigazgatási feladatok területi végrehajtásának tapasztalatait, a közigazgatási szervek közigazgatási hatósági ügyintézését,
 
@@ -16,4 +16,4 @@ g) értékeli, véleményezi a központi államigazgatási szervek területi sze
 
 h) figyelemmel kíséri és közigazgatási hatásait tekintve értékeli a területi társadalmi-gazdasági reálfolyamatokat; az állami feladat felmerülésével járó vagy államigazgatási szervek közreműködését igénylő országos kihatással bíró, vagy kiemelkedő területi jelentőségű társadalmi-gazdasági problémákat jelzi a közigazgatás-szervezésért felelős miniszternek; elősegíti az állami és a központi államigazgatási szervek területi szervei koordinált közreműködői tevékenységét a problémák kezelésében.
 
-[^44]: A 14. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^47]: A 14. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.

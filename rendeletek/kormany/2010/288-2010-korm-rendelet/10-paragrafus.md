@@ -1,6 +1,6 @@
-10. §[^36] (1)[^37] A kormánymegbízott minden év február 28. napjáig – a (4) bekezdésben meghatározott szervek bevonásával – a fővárosi és megyei kormányhivatal előző évi tevékenységéről szóló összegző beszámolót készít, amelyet megküld a közigazgatás-szervezésért felelős miniszter részére.
+10. §[^38] (1)[^39] A kormánymegbízott minden év február 28. napjáig – a (4) bekezdésben meghatározott szervek bevonásával – a fővárosi és megyei kormányhivatal előző évi tevékenységéről szóló összegző beszámolót készít, amelyet megküld a közigazgatás-szervezésért felelős miniszter részére.
 
-(2)–(3)[^38]
+(2)–(3)[^40]
 
 (4) A beszámolási kötelezettség kiterjed a fővárosi és megyei kormányhivatal illetékességi területén működő, illetve székhellyel rendelkező központi államigazgatási szerv bármely jogállású területi szervére, továbbá az államigazgatási feladatot ellátó más szervre és személyre, valamint a polgármesterre és jegyzőre az általuk ellátott államigazgatási feladatokat érintően.
 
@@ -28,6 +28,6 @@ i) a fővárosi és megyei kormányhivatalhoz benyújtott panaszokkal és közé
 
 j) egyéb, a közigazgatás-szervezésért felelős miniszter által meghatározott szempontokat.
 
-[^36]: A 10. § az 516/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^37]: A 10. § (1) bekezdése a 219/2014. (VIII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^38]: A 10. § (2)–(3) bekezdését a 219/2014. (VIII. 28.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^38]: A 10. § az 516/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^39]: A 10. § (1) bekezdése a 219/2014. (VIII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^40]: A 10. § (2)–(3) bekezdését a 219/2014. (VIII. 28.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
