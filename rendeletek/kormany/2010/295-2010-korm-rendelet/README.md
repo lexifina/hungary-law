@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-295-20-
 | 2012-02-01 | 2010-295-20-22.4 | 376/2011. (XII. 31.) Korm. rendelet |
 | 2012-07-01 | 2010-295-20-22.5 | 102/2012. (V. 18.) Korm. rendelet |
 | 2013-01-01 | 2010-295-20-22.6 | 416/2012. (XII. 29.) Korm. rendelet |
+| 2014-09-05 | 2010-295-20-22.7 | 221/2014. (IX. 4.) Korm. rendelet |

@@ -1,4 +1,4 @@
-1. melléklet a 295/2010. (XII. 22.) Korm. rendelethez[^12]
+1. melléklet a 295/2010. (XII. 22.) Korm. rendelethez[^15]
 
 1. A rendőrség terrorizmust elhárító szervének székhelye:
 
@@ -34,4 +34,4 @@ Terrorelhárítási Központ, Budapest
 
 2.14. 6. Iroda, Szeged
 
-[^12]: Az 1. melléklet a 416/2012. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^15]: Az 1. melléklet a 416/2012. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
