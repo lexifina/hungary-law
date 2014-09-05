@@ -1,5 +1,0 @@
-1. § (1) A légiközlekedési kötelező felelősségbiztosításról szóló 39/2001. (III. 5.) Korm. rendelet (a továbbiakban: R.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A gazdasági célú légiközlekedési tevékenység végzésére engedély abban az esetben adható, ha a kérelmező a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendelet 11. cikkében, a légifuvarozókra és légi járművek üzemben tartóira vonatkozó biztosítási követelményekről szóló, 2004. április 21-i 785/2004/EK európai parlamenti és tanácsi rendeletben, valamint a légifuvarozókra és légijárművek üzemben tartóira vonatkozó biztosítási követelményekről szóló 785/2004/EK európai parlamenti és tanácsi rendelet módosításáról szóló 2010. április 6-i 285/2010/EU bizottsági rendeletben (a továbbiakban: 285/2010/EU rendelet) foglaltaknak megfelelő felelősségbiztosítással rendelkezik.”
-
-(2) A R. 1. §-a a következő (6) bekezdéssel egészül ki:
