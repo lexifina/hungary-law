@@ -20,4 +20,6 @@ i) az Európai Közösségek Bírósága ítéletének végrehajtására korlát
 
 j) korábbi műszaki tartalmú jogszabály módosítására szorítkozik, az Európai Bizottság (a továbbiakban: Bizottság) észrevételének megfelelően, az áruk vagy a szolgáltatások szabad áramlását, illetve a letelepedés szabadságát gátló akadály elhárítása céljából.
 
-(2) Az (1) bekezdés d) pontjában hivatkozott rendelkezéseket tartalmazó, elfogadott jogszabályt a pénzügyminiszter a 7. § (6) bekezdése szerint bejelenti a Bizottságnak.
+(2)[^2] Az (1) bekezdés d) pontjában hivatkozott rendelkezéseket tartalmazó, elfogadott jogszabályt az államháztartásért felelős miniszter a 7. § (6) bekezdése szerint bejelenti a Bizottságnak.
+
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 446. § b) pontja szerint módosított szöveg.

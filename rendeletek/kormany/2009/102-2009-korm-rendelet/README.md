@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-102-20-
 | 2010-03-01 | 2009-102-20-22.6 | 341/2009. (XII. 30.) Korm. rendelet |
 | 2012-07-04 | 2009-102-20-22.7 | 144/2012. (VII. 3.) Korm. rendelet |
 | 2013-03-21 | 2009-102-20-22.8 | 78/2013. (III. 13.) Korm. rendelet |
+| 2014-09-05 | 2009-102-20-22.9 | 221/2014. (IX. 4.) Korm. rendelet |
