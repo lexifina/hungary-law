@@ -1,4 +1,4 @@
-## a támogatásokat az azok nyújtásáról kötött szerződés alapján a támogatás folyósítója visszavonja, és az igénybevevő a már folyósított támogatásokat az igénybevétel napjától esedékes a Ptk. szerint számított kamatokkal együtt köteles a támogatás nyújtója részére visszafizetni. A Magyar Állam javára bejegyzett jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom törlése iránt a teljes visszafizetés igazolása után a Kincstár illetékes területi szerve intézkedik.
+## a támogatásokat az azok nyújtásáról kötött szerződés alapján a támogatás folyósítója visszavonja, és az igénybevevő a már folyósított támogatásokat az igénybevétel napjától esedékes a Ptk. szerint számított kamatokkal együtt köteles a támogatás nyújtója részére visszafizetni. Az állam javára bejegyzett jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom törlése iránt a teljes visszafizetés igazolása után a Kincstár illetékes területi szerve intézkedik.
 
 21. §[^194] (1) A kedvezmény, adó-visszatérítési támogatás igénybevételével
 

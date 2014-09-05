@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-12-20-2
 | 2014-01-01 | 2001-12-20-22.59 | 251/2004. (VIII. 30.) Korm. rendelet |
 | 2014-02-28 | 2001-12-20-22.60 | 537/2013. (XII. 30.) Korm. rendelet |
 | 2014-03-15 | 2001-12-20-22.61 | 80/2014. (III. 14.) Korm. rendelet |
+| 2014-09-05 | 2001-12-20-22.62 | 257/2011. (XII. 6.) Korm. rendelet |

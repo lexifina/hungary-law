@@ -1,6 +1,6 @@
 ## 4. Lakóház-felújítási és víziközmű kamattámogatás
 
-16. § (1)[^124] A felújítási alapképzés (2) bekezdésben előírt mértékű teljesítése és hitelintézetnél vagy a lakástakarékpénztárakról szóló 1996. évi CXIII. törvény (a továbbiakban: Ltp.) szerinti szakosított hitelintézetnél elkülönített számlán történő elhelyezése esetén a lakásszövetkezeti tulajdonú és a társasház lakóépületek közös tulajdonú részeinek korszerűsítéséhez, felújításához, hitelintézettől felvett kölcsön kamatának megfizetéséhez a Magyar Állam támogatást nyújt. A támogatás mértéke a támogatás alapjául szolgáló kölcsönügylet első 5 évében a kamat 70%-a, a második 5 évében a kamat 35%-a. E támogatás nem vehető igénybe a „Sikeres Magyarországért” Panel Plusz Hitelprogram keretében nyújtott kölcsön törlesztéséhez.
+16. § (1)[^124] A felújítási alapképzés (2) bekezdésben előírt mértékű teljesítése és hitelintézetnél vagy a lakástakarékpénztárakról szóló 1996. évi CXIII. törvény (a továbbiakban: Ltp.) szerinti szakosított hitelintézetnél elkülönített számlán történő elhelyezése esetén a lakásszövetkezeti tulajdonú és a társasház lakóépületek közös tulajdonú részeinek korszerűsítéséhez, felújításához, hitelintézettől felvett kölcsön kamatának megfizetéséhez az állam támogatást nyújt. A támogatás mértéke a támogatás alapjául szolgáló kölcsönügylet első 5 évében a kamat 70%-a, a második 5 évében a kamat 35%-a. E támogatás nem vehető igénybe a „Sikeres Magyarországért” Panel Plusz Hitelprogram keretében nyújtott kölcsön törlesztéséhez.
 
 (2) A társasház lakóépület közös tulajdonban álló, valamint a lakásszövetkezet tulajdonában álló épületrészek felújításához az (1) bekezdésben meghatározott kamattámogatás akkor vehető igénybe, ha a felújítási hozzájárulás havi mértéke
 
@@ -34,7 +34,7 @@ c) a társasház vagy a lakásszövetkezet a legalább a (2) bekezdés szerinti 
 
 (11)[^133] A felújítási alap felhasználásának minősül az (5) bekezdés szerinti felújítási munkákon túlmenően a kérelem benyújtását megelőzően felújítási célra felvett kölcsön igazoltan tőke és kamat fizetésére fordított összege, valamint a műszaki ellenőrzésre, a felújításhoz kapcsolódóan elvégzett műszaki vizsgálatokra, a tervdokumentációkra fordított, számlával igazolt összeg.
 
-[^124]: A 16. § (1) bekezdése a 257/2011. (XII. 6.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^124]: A 16. § (1) bekezdése a 257/2011. (XII. 6.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 218. § b) pontja szerint módosított szöveg.
 [^125]: A 16. § (3) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^126]: A 16. § (4) bekezdése a 257/2011. (XII. 6.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^127]: A 16. § (5) bekezdése a 251/2004. (VIII. 30.) Korm. rendelet 6. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 12. §-ának (2) bekezdése alapján a rendelkezést a 2004. szeptember 29. napját követően benyújtott hitelkérelmek esetében kell alkalmazni.
