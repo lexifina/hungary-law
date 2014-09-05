@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-254-20-
 | 2013-11-30 | 2007-254-20-22.16 | 457/2013. (XI. 29.) Korm. rendelet |
 | 2014-03-15 | 2007-254-20-22.17 | 77/2014. (III. 14.) Korm. rendelet |
 | 2014-07-23 | 2007-254-20-22.18 | 178/2014. (VII. 18.) Korm. rendelet |
+| 2014-09-05 | 2007-254-20-22.19 | 221/2014. (IX. 4.) Korm. rendelet |

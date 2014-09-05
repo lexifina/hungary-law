@@ -32,7 +32,7 @@ b) az alapítás időpontját, a működési időtartamot, az alapítókat megil
 
 c) a jegyzett, illetve saját tőke összegét;
 
-d) a Magyar Állam tulajdoni részesedését a társaságban;
+d)[^127] az állam tulajdoni részesedését a társaságban;
 
 e) átlagos statisztikai létszámot;
 
@@ -55,3 +55,5 @@ k) a kulturális örökségvédelemmel, környezet- és természetvédelemmel ka
 (5) A pályázónak a részletes tájékoztatóban foglaltakon túl is adható információ, illetve biztosítható a helyszíni szemle lehetősége, oly módon és tartalommal, amely nem sérti a pályázók esélyegyenlőségét, az ajánlatok kezelésére vonatkozó előírásokat és az üzleti titkot. A felvilágosításról jegyzőkönyvet kell felvenni, amelyet mind az ajánlattevőnek, mind a felvilágosítást nyújtónak alá kell írnia.
 
 (6) A kiíró a pályázók bármelyikének biztosított információt, adatot és egyéb szolgáltatást köteles a többi pályázó számára is ugyanolyan módon biztosítani.
+
+[^127]: A 33. § (2) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 399. § a) pontja szerint módosított szöveg.

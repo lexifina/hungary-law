@@ -1,4 +1,4 @@
-53. § (1)[^166] Központi költségvetési szerv az 52. § (1) bekezdésében meghatározott körben – elhelyezési céllal – kizárólag az MNV Zrt. előzetes egyetértése alapján
+53. § (1)[^168] Központi költségvetési szerv az 52. § (1) bekezdésében meghatározott körben – elhelyezési céllal – kizárólag az MNV Zrt. előzetes egyetértése alapján
 
 a) indíthat ingatlan tulajdonjogának az állam javára történő megszerzésére irányuló közbeszerzési vagy más eljárást,
 
@@ -20,10 +20,10 @@ d) a jogügyletben várható, illetve meghatározott – egyszeri vagy időszako
 
 e) a jogügylet külföldön lévő ingatlanra vonatkozik.
 
-(3)[^167] A (2) bekezdés a) pontjának alkalmazása esetén a megkötött szerződést meghosszabbítani, vagy ugyanazon szerződő féllel újabb használati jogosultságra vonatkozó szerződést kötni kizárólag az MNV Zrt. előzetes egyetértésével lehet.
+(3)[^169] A (2) bekezdés a) pontjának alkalmazása esetén a megkötött szerződést meghosszabbítani, vagy ugyanazon szerződő féllel újabb használati jogosultságra vonatkozó szerződést kötni kizárólag az MNV Zrt. előzetes egyetértésével lehet.
 
-(4)[^168] A központi költségvetési szerv az MNV Zrt. (1) és (3) bekezdés szerinti előzetes egyetértése iránti kérelmét – amennyiben az előzetesen ismert – az ingatlan vagy ingatlanrész és a jogcím pontos megjelölésével, részletes indokolással az irányítást vagy felügyeletet gyakorló szerv vezetője útján, annak egyetértésével terjesztheti elő. Az MNV Zrt. harminc napon belül dönt a kérelemről, amely határidőbe az esetleges hiánypótlás időtartama nem számít bele.
+(4)[^170] A központi költségvetési szerv az MNV Zrt. (1) és (3) bekezdés szerinti előzetes egyetértése iránti kérelmét – amennyiben az előzetesen ismert – az ingatlan vagy ingatlanrész és a jogcím pontos megjelölésével, részletes indokolással az irányítást vagy felügyeletet gyakorló szerv vezetője útján, annak egyetértésével terjesztheti elő. Az MNV Zrt. harminc napon belül dönt a kérelemről, amely határidőbe az esetleges hiánypótlás időtartama nem számít bele.
 
-[^166]: Az 53. § (1) bekezdése a 77/2014. (III. 14.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^167]: Az 53. § (3) bekezdése a 77/2014. (III. 14.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^168]: Az 53. § (4) bekezdése a 77/2014. (III. 14.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^168]: Az 53. § (1) bekezdése a 77/2014. (III. 14.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^169]: Az 53. § (3) bekezdése a 77/2014. (III. 14.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^170]: Az 53. § (4) bekezdése a 77/2014. (III. 14.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.

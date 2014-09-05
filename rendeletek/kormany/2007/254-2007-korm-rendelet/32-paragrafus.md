@@ -1,16 +1,16 @@
-## 31. §[^119]
+## 31. §[^120]
 
 ## A pályázat kiírása
 
-32. § (1)[^120] A pályázati felhívást és kiírást a tulajdonosi joggyakorló hagyja jóvá.
+32. § (1)[^121] A pályázati felhívást és kiírást a tulajdonosi joggyakorló hagyja jóvá.
 
-(2)[^121] A nyilvános pályázati felhívást a kiíró köteles minden esetben közzétenni hivatalos honlapján, valamint országosan és a vagyontárgy megtekintésének helyén megjelentetni oly módon, hogy az a lehetséges érdeklődők minél szélesebb köréhez juthasson el. A nyilvános pályázati felhívást a kiíró mérlegelése alapján napi- vagy hetilapban, hirdetési lapban, internetes hirdetési adatbázisban vagy hazai és külföldi pénzügyi-gazdasági szaklapban is megjelentetheti.
+(2)[^122] A nyilvános pályázati felhívást a kiíró köteles minden esetben közzétenni hivatalos honlapján, valamint országosan és a vagyontárgy megtekintésének helyén megjelentetni oly módon, hogy az a lehetséges érdeklődők minél szélesebb köréhez juthasson el. A nyilvános pályázati felhívást a kiíró mérlegelése alapján napi- vagy hetilapban, hirdetési lapban, internetes hirdetési adatbázisban vagy hazai és külföldi pénzügyi-gazdasági szaklapban is megjelentetheti.
 
-(3)[^122]
+(3)[^123]
 
-(4)[^123] A pályázat meghirdetési időpontjának a kiíró hivatalos honlapján való közzététel napját kell tekinteni.
+(4)[^124] A pályázat meghirdetési időpontjának a kiíró hivatalos honlapján való közzététel napját kell tekinteni.
 
-(5)[^124]
+(5)[^125]
 
 (6) Zártkörű pályázat esetén a kiíró köteles egyidejűleg, közvetlenül és azonos módon – a részletes pályázati kiírás megküldésével – legalább három, egymástól független érdekeltet írásban felhívni az ajánlattételre. Zártkörű pályázat esetén csak az ajánlatkérés tényét kell a – (3) bekezdésben meghatározott módon – nyilvánosságra hozni.
 
@@ -18,7 +18,7 @@
 
 a) az értékesítendő vagyontárgy megjelölését, szükség szerint annak értékét,
 
-b)[^125] a kiíró megnevezését, székhelyét, ha a pályázat kiírására a tulajdonosi joggyakorló megbízásából kerül sor, az erre való utalást,
+b)[^126] a kiíró megnevezését, székhelyét, ha a pályázat kiírására a tulajdonosi joggyakorló megbízásából kerül sor, az erre való utalást,
 
 c) a pályázat célját, típusát (nyilvános vagy zártkörű), a fordulók számát,
 
@@ -38,10 +38,10 @@ j) a pályázati ajánlat érvényességének feltételeit.
 
 (8) A pályázati felhívás a kiíró mérlegelésétől függően tartalmazhatja a részletes tájékoztató adatait is.
 
-[^119]: A 31. §-t a 262/2010. (XI. 17.) Korm. rendelet 54. § b) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.
-[^120]: A 32. § (1) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 18. §-ával megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
-[^121]: A 32. § (2) bekezdése a 77/2014. (III. 14.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^122]: A 32. § (3) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.
-[^123]: A 32. § (4) bekezdése a 77/2014. (III. 14.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^124]: A 32. § (5) bekezdését a 262/2010. (XI. 17.) Korm. rendelet 54. § c) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.
-[^125]: A 32. § (7) bekezdés b) pontja a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
+[^120]: A 31. §-t a 262/2010. (XI. 17.) Korm. rendelet 54. § b) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.
+[^121]: A 32. § (1) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 18. §-ával megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
+[^122]: A 32. § (2) bekezdése a 77/2014. (III. 14.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^123]: A 32. § (3) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.
+[^124]: A 32. § (4) bekezdése a 77/2014. (III. 14.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^125]: A 32. § (5) bekezdését a 262/2010. (XI. 17.) Korm. rendelet 54. § c) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.
+[^126]: A 32. § (7) bekezdés b) pontja a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.

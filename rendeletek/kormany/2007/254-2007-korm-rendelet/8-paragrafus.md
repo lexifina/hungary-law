@@ -4,7 +4,7 @@
 
 (3) Központi költségvetési szervvel az irányítását vagy felügyeletét ellátó szerv vezetőjének egyetértésével köthető vagyonkezelési szerződés.
 
-(4)[^33] Műemlék, továbbá védett kulturális javak vagyonkezelésbe adásához a kultúráért felelős miniszter, jogszabállyal vagy hatósági eljárás során védetté nyilvánított régészeti lelőhelyként, védett természeti területként, illetve Natura 2000 területként nyilvántartott ingatlan vagyonkezelésbe adásához a védettség jellege szerint felelős miniszter előzetes egyetértése szükséges.
+(4)[^33] Műemlék, védett kulturális javak, továbbá a védetté nyilvánított régészeti lelőhelyként, védett természeti területként, illetve Natura 2000 területként nyilvántartott ingatlan vagyonkezelésbe adásához a védettség jellege szerint felelős miniszter előzetes egyetértése szükséges.
 
 (5)[^34]
 
@@ -13,7 +13,7 @@
 (7)[^36] A külföldi fekvésű ingatlanok vonatkozásában a 8. § (4) bekezdésében foglaltakat nem kell alkalmazni. Nem szükséges továbbá a 9. § (6) bekezdésében előírt előzetes, írásbeli engedély, ha arra nemzetközi kötelezettség teljesítése érdekében kerül sor, de ennek tényéről – a kötelezettség jogalapjának megjelölésével – a tulajdonosi joggyakorlót a beruházás, felújítás megkezdése előtt tájékoztatni kell.
 
 [^32]: A 8. § (1) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^33]: A 8. § (4) bekezdése a 77/2014. (III. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^33]: A 8. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 396. §-ával megállapított szöveg.
 [^34]: A 8. § (5) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.
 [^35]: A 8. § (6) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 4. §-ával megállapított, nyitó szövegrésze a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
 [^36]: A 8. § (7) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 7. § (3) bekezdése iktatta be, szövege a 77/2014. (III. 14.) Korm. rendelet 26. § g) pontja szerint módosított szöveg.
