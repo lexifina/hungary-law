@@ -4,12 +4,13 @@ a) a licencia tárgyát képező technológia: a megállapodás megkötésekor l
 
 b) a licencia tárgyát képező termék: olyan áru vagy szolgáltatás, amelyet a licencia tárgyát képező technológiával állítanak elő, illetve teljesítenek;
 
-c) know-how: a Magyar Köztársaság Polgári Törvénykönyvéről szóló 1959. évi IV. törvény 86. §-ának (4) bekezdésében szabályozott vagyoni értékű gazdasági, műszaki, szervezési ismeret és tapasztalat;
+c)[^2] know-how: a Polgári Törvénykönyv 2:47. § (2) bekezdésében szabályozott azonosításra alkalmas módon rögzített, vagyoni értéket képviselő műszaki, gazdasági vagy szervezési ismeret, tapasztalat vagy ezek összeállítása;
 
 d) szabadalomnak minősül a szabadalmi bejelentés, a használati mintaoltalom, a használati mintaoltalmi bejelentés, a mikroelektronikai félvezető termék topográfiájának oltalma és a topográfiaoltalmi bejelentés is;
 
 e) szükséges szabadalom: olyan szabadalom, amelyre vonatkozó licencia nélkül a megállapodás tárgyát képező technológia célszerű hasznosítása nem kezdhető meg;
 
-f) a licencia tárgyát képező terméket helyettesítő terméknek minősül az olyan termék, amelyet a sajátosságaira, árára és felhasználási céljára tekintettel a fogyasztók a licencia tárgyát képező termékkel felcserélhetőnek vagy azzal helyettesíthetőnek tekintenek.[^2]
+f) a licencia tárgyát képező terméket helyettesítő terméknek minősül az olyan termék, amelyet a sajátosságaira, árára és felhasználási céljára tekintettel a fogyasztók a licencia tárgyát képező termékkel felcserélhetőnek vagy azzal helyettesíthetőnek tekintenek.[^3]
 
-[^2]: A Magyar Közlöny 1999. 66. számában közzétett helyesbítésnek megfelelő szöveg.
+[^2]: A 4. § c) pontja a 221/2014. (IX. 4.) Korm. rendelet 195. §-ával megállapított szöveg.
+[^3]: A Magyar Közlöny 1999. 66. számában közzétett helyesbítésnek megfelelő szöveg.
