@@ -186,6 +186,6 @@
 
 ## Egy emelt díjas rövid szám több szolgáltatónak is kijelölhető, ha a rövid számon emelt díjas szolgáltatást nyújtó számhasználó a kijelölési engedélyben meghatározott szolgáltatás nyújtására több elektronikus hírközlési szolgáltatóval számhasználati jogviszonyt létesít.
 
-2. melléklet a 2/2011. (IX. 26.) NMHH rendelethez[^63]
+2. melléklet a 2/2011. (IX. 26.) NMHH rendelethez[^68]
 
-[^63]: A 2. melléklet az 1/2012. (I. 3.) NMHH rendelet 4. § (7) bekezdése szerint módosított szöveg.
+[^68]: A 2. melléklet az 1/2012. (I. 3.) NMHH rendelet 4. § (7) bekezdése szerint módosított szöveg.

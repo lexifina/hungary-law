@@ -4,15 +4,17 @@
 
 (2) E rendelet 16/A. § (2) bekezdés g) pontja, valamint a 16/B. – 16/E. §-ok 2012. július 1-jén lépnek hatályba.
 
-(3) Az e rendelet hatálybalépését megelőzően adománygyűjtés céljára kijelölt, az azonosítók nemzeti felosztási terve (ANFT) 1. melléklet 3.8. pontja szerinti adománygyűjtő számoktól eltérő számoknak a használati engedélyét 2012. december 31-ig a hatóság visszavonja.
+(3)[^62] A hatóság az e rendelet hatálybalépését megelőzően a telefon tudakozó céljára kijelölt 198 rövid szám használati engedélyét 2014. szeptember 30-ig, a 197 és 199 rövid számok használati engedélyét 2014. december 31-ig visszavonja.
 
-A hatóság az e rendelet hatálybalépését megelőzően az üzleti hálózatok céljára a 71-es számtartományban kijelölt hívószámok használati engedélyét 2012. december 31-ig, a 17 kezdőszámú számtartományban emelt díjas, díjkorlátos szolgáltatás nyújtására kijelölt rövid számok használati engedélyét 2013. június 30-ig, a telefon tudakozó céljára kijelölt 197, 198, 199 rövid számok használati engedélyét 2013. december 31-ig, valamint a kezelői szolgáltatások 190, 191 és 194-es számainak a használati engedélyét 2012. március 31-ig visszavonja.
+(4)[^63] A 198 tudakozó számra irányuló hívásokat a hívást kezdeményező előfizető szolgáltatója – amennyiben a tudakozó szolgáltatás igénybevételét a szolgáltató 2014. augusztus 1. napján hatályos általános szerződési feltételei lehetővé teszik – köteles 2014. október 1-jétől 2015. december 31-ig a hívó részére díjmentesen a következő hangbemondáson végződtetni:
 
-(4) E rendelet hatályba lépését követően számhasználati jogviszony csak a 16/A. §-ban foglalt rendelkezések szerint létesíthető.
+## „Tájékoztatjuk, hogy a 198-as hívószám 2014. szeptember 30-án megszűnt, az egyetemes országos belföldi tudakozó szolgáltatás 2014. október 1-jétől a 11800-as hívószámon érhető el.”
 
-(5) Az e rendelet hatályba lépését megelőzően számhasználati jogviszonyra kötött szerződéseket a szolgáltatóknak 2012. szeptember 30-ig kell módosítaniuk. A rendeletben foglalt kötelezettségek a feleket akkor is terhelik, ha a szerződés módosítására e határidőn belül nem kerül sor.
+(5)[^64] A kötelezett szolgáltató a hangbemondást saját hálózatából nyújtja vagy az egyetemes tudakozó szolgáltató hálózatából díjmentesen veszi igénybe.
 
-(6) A szolgáltatók az e rendelet hatályba lépését megelőzően számhasználati jogviszonyra kötött szerződések vonatkozásában a 16/C. § rendelkezéseinek 2012. szeptember 30-ig kötelesek eleget tenni.
+(6)[^65] Az egyetemes tudakozó szolgáltató a hívást kezdeményező előfizető szolgáltatójának erre irányuló igénye alapján – külön hálózati szerződés megkötése vagy a szolgáltatóval fennálló hatályos hálózati szerződésének módosítása nélkül – köteles a hívást kezdeményező előfizető szolgáltatója által a 198 tudakozó számról az egyetemes tudakozó szolgáltató felé irányított hívásokat a (4) bekezdés szerinti hangbemondáson végződtetni.
+
+(6a)[^66] Amennyiben a szolgáltató saját tudakozó szolgáltatást nyújt más 118de formátumú országosan elérhető telefon tudakozó számon, akkor a (4) bekezdés szerinti hangbemondást kizárólag saját előfizetői által kezdeményezett hívások esetén az erről szóló tájékoztatással kiegészítheti.
 
 (7) E rendelet
 
@@ -25,3 +27,8 @@ c) az egyetemes szolgáltatásról, valamint az elektronikus hírközlő hálóz
 d) a 116-os nemzeti számsík harmonizált közérdekű szolgáltatások harmonizált számai részére történő fenntartásáról szóló 2007. február 15-i 2007/116/EK bizottsági határozatának
 
 [^61]: A 17. § az 1/2012. (I. 3.) NMHH rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^62]: A 17. § (3) bekezdése az 5/2014. (IX. 4.) NMHH rendelet 1. §-ával megállapított szöveg.
+[^63]: A 17. § (4) bekezdése az 5/2014. (IX. 4.) NMHH rendelet 2. §-ával megállapított szöveg.
+[^64]: A 17. § (5) bekezdése az 5/2014. (IX. 4.) NMHH rendelet 3. §-ával megállapított szöveg.
+[^65]: A 17. § (6) bekezdése az 5/2014. (IX. 4.) NMHH rendelet 4. §-ával megállapított szöveg.
+[^66]: A 17. § (6a) bekezdését az 5/2014. (IX. 4.) NMHH rendelet 5. §-a iktatta be.
