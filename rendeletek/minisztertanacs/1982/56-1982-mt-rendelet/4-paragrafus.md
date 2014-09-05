@@ -4,7 +4,7 @@
 
 4. § (1) Ez a rendelet a kihirdetése napján lép hatályba; rendelkezéseit azonban 1982. évi július hó 18. napjától kezdődően kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a közlekedési és vízügyi[^4] miniszter gondoskodik. Ennek keretében a Magyar Népköztársaság Kormánya nevében az Egyezmény 7. cikkében megnevezett bizonyítvány kiadására külföldi hajóosztályozó intézeteket bízhat meg.[^5]
+(2)[^4] A rendelet végrehajtásáról a közlekedésért felelős miniszter gondoskodik. Ennek keretében a Magyar Népköztársaság Kormánya nevében az Egyezmény 7. cikkében megnevezett bizonyítvány kiadására külföldi hajóosztályozó intézeteket bízhat meg.[^5]
 
-[^4]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^4]: A 4. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 86. §-a szerint módosított szöveg.
 [^5]: Végrehajtására lásd az 1/1984. (I. 17.) KM rendeletet.
