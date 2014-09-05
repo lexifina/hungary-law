@@ -1,9 +1,0 @@
-## 2. § A Kbt. rendelkezéseit a „Szemünk Fénye” iskolavilágítási és fűtéskorszerűsítési Program (a továbbiakban: Program) megvalósítása tekintetében az e rendeletben foglalt eltérésekkel kell alkalmazni.
-
-3. § (1) A Program keretében megvalósított fűtés- és világításkorszerűsítési beruházásokat az elért energiamegtakarításból kell finanszírozni. A Programot a minisztérium köteles megvalósítani. A beruházás megvalósítása olyan pénzügyi megoldások útján történhet, amelyek az ESA 95 szabályai szerint számított államadósság, illetve költségvetési hiány mértékét nem növelik.
-
-(2) A Program megvalósítása érdekében a minisztérium – előzetes igényfelmérést követően – mint az eljárás ajánlatkérője, központosított közbeszerzési eljárást (e rendelet alkalmazásában a továbbiakban: központosított közbeszerzési eljárás) folytat le, amelynek eredményeképpen gondoskodik az energiatakarékos világítási és fűtési berendezésekről, szerelésükről, a beruházáshoz kapcsolódó szolgáltatásokról, továbbá a Program megvalósításának folyamatos ellenőrzéséről. A minisztérium – mint ajánlatkérő – nevében a központosított közbeszerzési eljárás lebonyolítása során a Központi Szolgáltatási Főigazgatóság jár el.
-
-(3) Az 5. § (1) bekezdésében meghatározott szervezetek (a továbbiakban: csatlakozó szervezet) a minisztérium által elkészített és a minisztérium hivatalos honlapján nyilvánosságra hozott igényfelmérő adatlapon jelezhetik a Programban való részvételi szándékukat. Az előzetes igényfelmérés statisztikai célból történő tájékoztatást jelent a várható, előzetesen kalkulált beszerzés tekintetében, a csatlakozási szándékot jelentő – e rendelet 5. § (2) bekezdésében hivatkozott – regisztrációs űrlapot nem helyettesíti.
-
-(4) A központosított közbeszerzési eljárás során a közbeszerzés mennyiségének meghatározásakor a minisztérium az igényfelmérő adatlapok összesített adatait figyelembe veszi.
