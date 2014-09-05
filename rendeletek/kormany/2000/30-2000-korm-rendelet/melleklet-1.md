@@ -1,6 +1,6 @@
-1. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^49]
+1. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^50]
 
-## FÖLDMŰVELÉSÜGYI ÉS VIDÉKFEJLESZTÉSI
+## FÖLDMŰVELÉSÜGYI
 
 ## MINISZTÉRIUM
 
@@ -38,6 +38,6 @@ Budapest, ..... év ..... hó ..... nap.
 
 ....................
 
-Földművelésügyi és Vidékfejlesztési Minisztérium
+Vidékfejlesztési Minisztérium
 
-[^49]: Az 1. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 171/2010. (V. 13.) Korm. rendelet 1. § 12. pontja szerint módosított szöveg.
+[^50]: Az 1. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 171/2010. (V. 13.) Korm. rendelet 1. § 12. pontja, a 221/2014. (IX. 4.) Korm. rendelet 200. § b) pontja szerint módosított szöveg.

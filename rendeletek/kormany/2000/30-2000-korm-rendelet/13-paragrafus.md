@@ -2,9 +2,9 @@
 
 13. § (1) Ez a rendelet a kihirdetése napján lép hatályba.
 
-(2)[^47]
+(2)[^48]
 
-(3)[^48] A 4. és 7. §-okban meghatározott kamattámogatás – a 7. § (3) bekezdésében foglalt kamattámogatási előleg kivételével – negyedévente igényelhető az illetékes adóhatóságtól a 10032000–01905616 számú APEH Agrárfinanszírozási folyósítási számláról.
+(3)[^49] A 4. és 7. §-okban meghatározott kamattámogatás – a 7. § (3) bekezdésében foglalt kamattámogatási előleg kivételével – negyedévente igényelhető az illetékes adóhatóságtól a 10032000–01905616 számú APEH Agrárfinanszírozási folyósítási számláról.
 
-[^47]: A 13. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1181. pontja hatályon kívül helyezte.
-[^48]: A 13. § (3) bekezdése a 85/2001. (V. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^48]: A 13. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1181. pontja hatályon kívül helyezte.
+[^49]: A 13. § (3) bekezdése a 85/2001. (V. 30.) Korm. rendelet 2. §-ával megállapított szöveg.

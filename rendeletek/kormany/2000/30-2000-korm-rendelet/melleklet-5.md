@@ -1,4 +1,4 @@
-5. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^57]
+5. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^58]
 
 ## Beszámoló jelentés az új típusú szövetkezetek, termelői értékesítő szervezetek (TÉSZ) részére a gazdahitel program keretében nyújtott támogatásból eredő kötelezettségek teljesítéséről
 
@@ -66,4 +66,4 @@ A beszámolóhoz mellékelni kell:
 
 – a közgyűlés által elfogadott éves beszámoló másolatát.
 
-[^57]: Az 5. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 69. §-a szerint módosított szöveg.
+[^58]: Az 5. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 69. §-a szerint módosított szöveg.

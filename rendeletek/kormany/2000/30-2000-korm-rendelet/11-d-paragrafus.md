@@ -1,4 +1,4 @@
-11/D. §[^35] (1) Elfogadott jelentés alapján a kifizethető kibontakozási támogatás összege – a benyújtott kibontakozási hitelkonstrukciós pályázatban vállalt és jóváhagyott program, valamint a minisztérium által kiadott igazolásban előírt kötelezettségek időarányos teljesítése esetén – az 1. számú melléklet szerinti támogatási okiratban meghatározott kibontakozási hitelösszeg éves arányos előirányzatának felel meg.
+11/D. §[^36] (1) Elfogadott jelentés alapján a kifizethető kibontakozási támogatás összege – a benyújtott kibontakozási hitelkonstrukciós pályázatban vállalt és jóváhagyott program, valamint a minisztérium által kiadott igazolásban előírt kötelezettségek időarányos teljesítése esetén – az 1. számú melléklet szerinti támogatási okiratban meghatározott kibontakozási hitelösszeg éves arányos előirányzatának felel meg.
 
 (2) A kibontakozási hitel a pályázati kiírás szerint a hitelszerződés megkötésétől számított háromszor háromszázhatvanöt napig állhat fenn. A jelentés – amelyet első ízben a 2000. évi gazdálkodásra vonatkozóan kell elkészíteni – minden esetben naptári évre vonatkozik. A beszámolót tájékoztató jelleggel ki kell egészíteni a beszámolási évet követő év – beszámoló elkészítéséig terjedő – eseményeinek, tevékenységének, folyamatainak bemutatásával.
 
@@ -8,4 +8,4 @@
 
 (5) Az igénylő a vissza nem térítendő támogatást a minisztérium által kiadott 1. számú melléklet szerinti támogatási okirattal igényelheti az állami adóhatóság illetékes szervétől, a 10032000–01905609 számú Agrártermelési támogatások folyósítási számláról.
 
-[^35]: A 11/D. §-t a 85/2001. (V. 30.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^36]: A 11/D. §-t a 85/2001. (V. 30.) Korm. rendelet 1. §-a iktatta a szövegbe.
