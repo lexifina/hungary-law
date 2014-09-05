@@ -16,10 +16,12 @@ ellenőrzi, és hatáskörében eljár az e rendeletben foglaltak megsértése e
 
 (3) A cigaretta kátrány-, nikotin- és szén-monoxid hozamának értékeit a fogyasztóvédelmi hatóság vizsgálja és igazolja. A vizsgálat és igazolás kiállításának költsége a vizsgálatot, illetve igazolás kiállítását kérő gyártót, importálót vagy a bejegyzett kereskedőt terheli.
 
-(4) Az NFH a fogyasztóvédelemért felelős miniszter által vezetett minisztérium, az egészségügyért felelős miniszter által vezetett minisztérium, valamint az agrárpolitikáért és az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium részére készített éves jelentésben megadja az előállított dohánytermékek (3) bekezdés alapján mért adatait a kátrány, nikotin és szén-monoxid tekintetében.
+(4)[^3] Az NFH a fogyasztóvédelemért felelős miniszter, az egészségügyért felelős miniszter, az agrárpolitikáért felelős miniszter és az élelmiszerlánc-felügyeletért felelős miniszter részére készített éves jelentésben megadja az előállított dohánytermékek (3) bekezdés alapján mért adatait a kátrány, nikotin és szén-monoxid tekintetében.
 
 (5) Bármely, az Európai Gazdasági Térségről szóló megállapodásban részes állam hatáskörrel rendelkező hatósága által akkreditált laboratórium is jogosult a cigaretta kátrány, nikotin és szén-monoxid hozama értékeinek vizsgálatára és igazolására.
 
 (6) E rendelet előírásainak alkalmazása szempontjából a 9. mellékletben felsorolt szabványok irányadóak.
 
 (7) Cigaretta esetében a csomagoláson és a regisztrációs lapon közölt füstadatok értékfeltüntetésének megfelelőségét az MSZ ISO 8243 szabvány szerint kell igazolni.
+
+[^3]: A 17. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 714. §-ával megállapított szöveg.
