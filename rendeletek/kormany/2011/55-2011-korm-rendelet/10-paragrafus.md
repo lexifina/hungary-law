@@ -1,4 +1,4 @@
-## 9/A. §[^25] A turizmusért felelős miniszter által vezetett minisztérium a kártya rendszerének céljai elérése érdekében elősegíti az intézmények és a szolgáltatók együttműködését, és részt vesz a kártya működésével, felhasználásával kapcsolatos ismeretek terjesztésében, a kártya népszerűsítésében.
+## 9/A. §[^25] A turizmusért felelős miniszter a kártya rendszerének céljai elérése érdekében elősegíti az intézmények és a szolgáltatók együttműködését, és részt vesz a kártya működésével, felhasználásával kapcsolatos ismeretek terjesztésében, a kártya népszerűsítésében.
 
 ## 3. A kártyához kapcsolódó díjak és jutalékok
 
@@ -10,7 +10,7 @@
 
 (4)[^28]
 
-[^25]: A 9/A. §-t a 198/2013. (VI. 13.) Korm. rendelet 4. §-a iktatta be.
+[^25]: A 9/A. §-t a 198/2013. (VI. 13.) Korm. rendelet 4. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 559. §-a szerint módosított szöveg.
 [^26]: A 10. § (1) bekezdése a 317/2011. (XII. 27.) Korm. rendelet 11. §-a szerint módosított szöveg.
 [^27]: A 10. § (3) bekezdése a 301/2012. (X. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^28]: A 10. § (4) bekezdését a 92/2011. (VI. 15.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 301/2012. (X. 26.) Korm. rendelet 13. §-a.
