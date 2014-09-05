@@ -136,6 +136,7 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1995. március 1-jétől kell alkalmazni.
 
-(2) A rendelet végrehajtásáról oktatási területen az oktatási miniszter, kulturális területen a nemzeti kulturális örökség minisztere gondoskodik.
+(2)[^2] A rendelet végrehajtásáról oktatási területen az oktatásért felelős miniszter, kulturális területen a kultúráért felelős miniszter gondoskodik.
 
 [^1]: Lásd az 1991: LXIV. törvényt.
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 186. §-a szerint módosított szöveg.
