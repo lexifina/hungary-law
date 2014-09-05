@@ -100,7 +100,7 @@
 
 | Folyó évi hátralék: |
 
-4. számú melléklet a 29/1993. (II. 17.) Korm. rendelethez[^92]
+4. számú melléklet a 29/1993. (II. 17.) Korm. rendelethez[^93]
 
 NYILVÁNTARTÁS
 
@@ -120,4 +120,4 @@ Kitöltési utasítás:
 
 — Az élelmezési napok számának a napi konyhaanyag-elszámolásban szereplő adatokkal egyeznie kell.
 
-[^92]: A 4. számú melléklet a 169/1999. (XI. 24.) Korm. rendelet 15. §-a (4) bekezdésének d) pontja, a 40/2006. (II. 27.) Korm. rendelet 12. § (5) bekezdésének h) pontja szerint módosított szöveg.
+[^93]: A 4. számú melléklet a 169/1999. (XI. 24.) Korm. rendelet 15. §-a (4) bekezdésének d) pontja, a 40/2006. (II. 27.) Korm. rendelet 12. § (5) bekezdésének h) pontja szerint módosított szöveg.
