@@ -1,1 +1,0 @@
-## „(4) A támogató szolgáltatás, a közösségi ellátások és a jelzőrendszeres házi segítségnyújtás támogatására szolgáló fejezeti kezelésű előirányzat (a továbbiakban: fejezeti kezelésű előirányzat) terhére elszámolhatók a támogatási rendszer működtetésével összefüggő kiadások, amelyek mértéke nem haladhatja meg a fejezeti kezelésű előirányzat három százalékát.”
