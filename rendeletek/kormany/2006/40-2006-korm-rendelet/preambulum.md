@@ -1,1 +1,0 @@
-A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 132. §-ának (1) bekezdése e) és f) pontjában, valamint a helyi önkormányzatokról szóló 1990. évi LXV. törvény 7. §-ának (1) bekezdésében kapott felhatalmazás alapján a Kormány a következőket rendeli el:
