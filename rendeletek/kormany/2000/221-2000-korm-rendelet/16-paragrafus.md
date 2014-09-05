@@ -16,6 +16,6 @@ b) egyéb céllal
 
 (5) Az opciós díjat annak az időszaknak az eredményében kell figyelembe venni, amelyben az opciót érvényesítik (az ügyletet lezárják). Amennyiben az opció tárgyát befektetett eszközként hasznosítják, akkor az opciós díj a beszerzési ár részét képezi.
 
-(6)[^63] A CDS (Credit Default Swap) ügylet induláskori, felhalmozott kamat nélküli ellenértékét annak az időszaknak az eredményében kell figyelembe venni, amelyben a CDS ügyletet lezárják. Az ügylethez kapcsolódó, negyedévente pénzügyileg rendezett díjat az adott időszak eredményében kell elszámolni.
+(6)[^64] A CDS (Credit Default Swap) ügylet induláskori, felhalmozott kamat nélküli ellenértékét annak az időszaknak az eredményében kell figyelembe venni, amelyben a CDS ügyletet lezárják. Az ügylethez kapcsolódó, negyedévente pénzügyileg rendezett díjat az adott időszak eredményében kell elszámolni.
 
-[^63]: A 16. § (6) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 12. §-a iktatta be.
+[^64]: A 16. § (6) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 12. §-a iktatta be.
