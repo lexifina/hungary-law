@@ -40,6 +40,7 @@ d) a megváltozott munkaképességű munkavállalók létszámaránya hat egymá
 
 (8)[^11] A Hivatal a helyszíni ellenőrzés lefolytatására szakértőt rendelhet ki. Szakértőként az országos szakértői nyilvántartásba felvett foglalkozási rehabilitációs szakértő rendelhető ki.
 
-(9) A nyilvántartásba vételre, a nyilvántartásból való törlésre, továbbá az ellenőrzésre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény, valamint az illetékekről szóló 1990. évi XCIII. törvény szabályait kell alkalmazni. A Hivatal döntése ellen benyújtott fellebbezést a szociális és munkaügyi miniszter bírálja el.
+(9)[^12] A nyilvántartásba vételre, a nyilvántartásból való törlésre, továbbá az ellenőrzésre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény, valamint az illetékekről szóló 1990. évi XCIII. törvény szabályait kell alkalmazni. A Hivatal döntése ellen benyújtott fellebbezést a szociál- és nyugdíjpolitikáért felelős miniszter bírálja el.
 
 [^11]: Az 5. § (8) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^12]: Az 5. § (9) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 354. § b) pontja szerint módosított szöveg.
