@@ -1,3 +1,0 @@
-## 8. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet (a továbbiakban: Cstvhr.) 11. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A szociális intézményben elhelyezett gyermekre (személyre) tekintettel járó családi pótlék személyre szóló felhasználásának minősül a személyi térítési díjra, a költőpénzre, valamint a személyes szükségletekre történő felhasználás. A gyermekotthonban, valamint a szociális intézményben elhelyezett átmeneti vagy tartós nevelésbe vett gyermek után járó családi pótlék felhasználása a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben foglaltak szerint történik.”
