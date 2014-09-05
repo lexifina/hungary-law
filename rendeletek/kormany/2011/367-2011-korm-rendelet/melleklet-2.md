@@ -30,7 +30,7 @@
 
 ## 4. Csatolandó dokumentumok a kereskedelmi építményre vonatkozóan:
 
-## a) a létesítendő építménnyel kapcsolatban kapott engedélyek (ha van ilyen) másolata;
+## a)[^4] a létesítendő, átalakítandó építménnyel kapcsolatban kapott engedélyek (ha van ilyen) másolata;
 
 ## b) a tervezett beruházással kapcsolatban benyújtott és kezdeményezett kérelmek másolata.
 
@@ -65,3 +65,5 @@ Az 5000 m2 alapterületet meghaladó kereskedelmi építmények felmentési kér
 11. a vásárlóerő várható alakulása;
 
 12. összefoglalás a tervezett beruházás vidékfejlesztési, környezetvédelmi, valamint gazdasági hatásairól, amelyet a kereskedelmi építménnyel szemben elvár a befektető.
+
+[^4]: Az 1. melléklet 4. pont a) alpontja a 221/2014. (IX. 4.) Korm. rendelet 625. §-a szerint módosított szöveg.
