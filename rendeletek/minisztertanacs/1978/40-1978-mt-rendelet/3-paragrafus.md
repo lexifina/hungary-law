@@ -188,4 +188,6 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban az 1978. évi április hó 18. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter gondoskodik.
+(2)[^3] E rendelet végrehajtásáról a közlekedésért felelős miniszter gondoskodik.
+
+[^3]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 38. §-ával megállapított szöveg.
