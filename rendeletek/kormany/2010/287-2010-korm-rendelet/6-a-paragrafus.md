@@ -1,4 +1,4 @@
-6/A. §[^1] (1) A Szellemi Tulajdon Nemzeti Hivatala a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 115/I. és 115/K. §-ban meghatározott feladatai ellátásába a tulajdonosi joggyakorlásába tartozó HIPAvilon Magyar Szellemi Tulajdon Ügynökség Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: HIPAvilon Nonprofit Kft.) vonhatja be, továbbá e feladatok ellátásához a HIPAvilon Nonprofit Kft. szolgáltatásait veheti igénybe.
+6/A. §[^3] (1) A Szellemi Tulajdon Nemzeti Hivatala a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 115/I. és 115/K. §-ban meghatározott feladatai ellátásába a tulajdonosi joggyakorlásába tartozó HIPAvilon Magyar Szellemi Tulajdon Ügynökség Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: HIPAvilon Nonprofit Kft.) vonhatja be, továbbá e feladatok ellátásához a HIPAvilon Nonprofit Kft. szolgáltatásait veheti igénybe.
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala a HIPAvilon Nonprofit Kft.-t a szellemi tulajdonnal kapcsolatos állami dokumentációs és információs tevékenység körében különösen a következő tevékenységek végzéséhez veheti igénybe:
 
@@ -24,4 +24,4 @@ f) a szellemitulajdon-védelem eszközei megfelelő felhasználásának előseg�
 
 (4) A Szellemi Tulajdon Nemzeti Hivatala – működése és gazdálkodása támogatásához – igénybe veheti a HIPAvilon Nonprofit Kft. szolgáltatásait.
 
-[^1]: A 6/A. §-t a 100/2013. (III. 29.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 6/A. §-t a 100/2013. (III. 29.) Korm. rendelet 1. §-a iktatta be.
