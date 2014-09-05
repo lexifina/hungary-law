@@ -1,4 +1,4 @@
-3. melléklet a 261/2011. (XII. 7.) Korm. rendelethez[^87]
+3. melléklet a 261/2011. (XII. 7.) Korm. rendelethez[^88]
 
 ## A közúti közlekedési szolgáltatást végző vállalkozás szakmai irányítójának képzésére és vizsgáztatására vonatkozó követelmények
 
@@ -146,4 +146,4 @@ b) közlekedési szakirányú felsőfokú végzettség és közigazgatási szakv
 
 c) közlekedési szakirányú felsőfokú végzettség és közúti közlekedési vállalkozás szakmai vezetésében legalább 5 éves gyakorlat.
 
-[^87]: A 3. melléklet a 280/2013. (VII. 24.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^88]: A 3. melléklet a 280/2013. (VII. 24.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
