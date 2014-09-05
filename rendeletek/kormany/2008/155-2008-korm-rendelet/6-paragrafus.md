@@ -1,1 +1,0 @@
-## „A tanuló az ösztöndíjszerződés megkötését megelőzően és az ösztöndíjas jogviszony időtartama alatt az adott tanévben indokolt esetben – így különösen iskolaváltás esetén, vagy, ha a mentor feladatát nem vagy nem megfelelően látja el – két alkalommal mentorváltást kezdeményezhet a pályáztató szervnél.”
