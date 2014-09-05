@@ -16,9 +16,9 @@
 
 (4)[^77] A névmódosítási kérelmet határozattal el kell utasítani, ha a honosított, illetőleg visszahonosított a névmódosításnak az Ápt. 20/A. § (1) és (2) bekezdésében, valamint e rendeletben megállapított feltételeit nem teljesítette, a szükséges okiratokat, szakvéleményeket nem csatolta. Ebben az esetben a honosított, illetőleg visszahonosított személy az általános szabályok szerint névváltoztatási kérelmet terjeszthet elő.
 
-(5)[^78] Az Ápt. 4. § (3) és (3a) bekezdésével, valamint 5. §-ával összefüggő névmódosítási eljárásban a névmódosítási kérelemnek helyt adó döntésről az állampolgársági ügyekért felelős miniszter határoz.
+(5)[^78] A névmódosítási kérelemről az állampolgársági ügyekben eljáró szerv határoz.
 
-(6)[^79] A névmódosítási kérelemről az (5) bekezdésben meghatározott kivétellel az állampolgársági ügyekben eljáró szerv határoz.
+(6)[^79]
 
 [^69]: Az alcímet a 103/2001. (VI. 21.) Korm. rendelet 9. §-a iktatta a szövegbe.
 [^70]: A 13/A. §-t a 103/2001. (VI. 21.) Korm. rendelet 9. §-a iktatta a szövegbe.
@@ -29,5 +29,5 @@
 [^75]: A 13/A. § (3) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^76]: A 13/A. § (3a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 7. § (3) bekezdése iktatta be.
 [^77]: A 13/A. § (4) bekezdése a 116/2007. (V. 24.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^78]: A 13/A. § (5) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 7. § (4) bekezdése iktatta be.
-[^79]: A 13/A. § (6) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^78]: A 13/A. § (5) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 7. § (4) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 148. §-ával megállapított szöveg.
+[^79]: A 13/A. § (6) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 7. § (4) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 149. §-a.
