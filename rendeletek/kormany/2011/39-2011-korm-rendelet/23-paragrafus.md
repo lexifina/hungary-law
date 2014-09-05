@@ -1,3 +1,0 @@
-## 22. § A felsőoktatási intézmények képzési, tudományos célú és fenntartói normatíva alapján történő finanszírozásáról szóló 50/2008. (III. 14.) Korm. rendelet (a továbbiakban: finanszírozási rendelet) 3. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az államilag támogatott hallgatók képzésének költségvetési támogatása a normatív képzési, tudományos célú és fenntartói támogatással történik, amelynek e rendelet alapján számított intézményi költségvetési támogatási mértéke – az éves költségvetésben meghatározott felsőoktatási támogatás összegétől függően – legfeljebb 15%-kal csökkenhet, és amit kiegészíthet egyes speciális feladatok támogatása.”

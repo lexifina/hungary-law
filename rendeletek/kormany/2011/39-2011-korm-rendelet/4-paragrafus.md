@@ -1,1 +1,0 @@
-## „(11) Nem kötelező a jelentkezési feltételként a 6. § (2) bekezdés a) pontja alapján meghatározott emelt szintű érettségi vizsga letétele annak, aki nem a kétszintű érettségi rendszerben érettségizett és felsőfokú végzettséggel rendelkezik.”
