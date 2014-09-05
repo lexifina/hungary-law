@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-32-20-2
 | --- | --- | --- |
 | 2014-02-15 | 2014-32-20-22.1 | 32/2014. (II. 14.) Korm. rendelet |
 | 2014-03-17 | 2014-32-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2014-09-05 | 2014-32-20-22.3 | 221/2014. (IX. 4.) Korm. rendelet |
