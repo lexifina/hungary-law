@@ -14,7 +14,7 @@
 
 (4c)[^15] A légiközlekedési hatóság az engedély megadásáról vagy annak megtagadásáról haladéktalanul – de legkésőbb a hozzájárulások megadását, megtagadását, vagy a hozzájárulás megadására nyitva álló határidő lejártát követő napon – értesíti a külpolitikáért felelős minisztert.
 
-(5)[^16] A kiadott hozzájárulások alapján a berepülési engedélyt a légiközlekedési hatóság adja ki, és azt a Külügyminisztérium útján közli az engedély iránti kérelmet benyújtó ügyféllel.
+(5)[^16] A kiadott hozzájárulások alapján a berepülési engedélyt a légiközlekedési hatóság adja ki, és azt a külpolitikáért felelős miniszter által vezetett minisztérium útján közli az engedély iránti kérelmet benyújtó ügyféllel.
 
 (6)–(8)[^17]
 
@@ -26,5 +26,5 @@
 [^13]: A 3. § (4a) bekezdését a 89/2010. (III. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 177/2011. (IX. 1.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^14]: A 3. § (4b) bekezdését a 89/2010. (III. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 177/2011. (IX. 1.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 286/2012. (X. 11.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^15]: A 3. § (4c) bekezdését a 89/2010. (III. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 47. § b) pontja szerint módosított szöveg.
-[^16]: A 3. § (5) bekezdését a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (4) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 133. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 47. § b) pontja szerint módosított szöveg.
+[^16]: A 3. § (5) bekezdését a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (4) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 133. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 47. § b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 184. §-a szerint módosított szöveg.
 [^17]: A 3. § (6)–(8) bekezdését a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (4) bekezdése iktatta be, hatályon kívül helyezte a 177/2011. (IX. 1.) Korm. rendelet 13. §-a.
