@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-313-20-
 | 2014-01-01 | 2012-313-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-03-15 | 2012-313-20-22.6 | 62/2014. (III. 6.) Korm. rendelet |
 | 2014-07-01 | 2012-313-20-22.7 | 62/2014. (III. 6.) Korm. rendelet |
+| 2014-09-05 | 2012-313-20-22.8 | 221/2014. (IX. 4.) Korm. rendelet |
