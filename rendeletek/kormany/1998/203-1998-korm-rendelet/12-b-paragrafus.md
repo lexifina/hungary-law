@@ -26,7 +26,7 @@ b) annak a pályázónak a pályázata, amelynek a Bt. 5. § (4a) bekezdésében
 
 (4)[^136] A beérkezett pályázatokat az MBFH a benyújtásra nyitva álló határidő lejártának napját követő naptól számított 20 napon belül bírálja el. Az a pályázó jelölhető ki a törölt bányászati jog új jogosítottjának, amely a legmagasabb ellenértékre tesz ajánlatot. A bányatelekkel fedett ingatlan tulajdonosát, ha a legmagasabb ajánlattal megegyező ajánlatot tett, az elbírálásnál előnyben kell részesíteni.
 
-(5)[^137] A bányászati jog ellenértéke a Magyar Államot, a pályázattal kapcsolatos díjak az MBFH-t illetik meg. A nyertes pályázónak a bányászati jog ellenértékét az eredményhirdetést követő 8 napon belül meg kell fizetnie. Az MBFH a Bt. 26/A. § (7) bekezdése szerinti határozatát a bányászati jog ellenértékének megfizetését követő 10 napon belül hozza meg.
+(5)[^137] A bányászati jog ellenértéke az államot, a pályázattal kapcsolatos díjak az MBFH-t illetik meg. A nyertes pályázónak a bányászati jog ellenértékét az eredményhirdetést követő 8 napon belül meg kell fizetnie. Az MBFH a Bt. 26/A. § (7) bekezdése szerinti határozatát a bányászati jog ellenértékének megfizetését követő 10 napon belül hozza meg.
 
 (6)[^138] Ha a nyertes pályázó a bányászati jog ellenértékét az eredményhirdetést követő 8 napon belül nem fizeti meg, a pályázata eredménytelen. A bányászati jogra benyújtott többi pályázatot 5 napon belül ismételten értékelni kell.
 
@@ -42,7 +42,7 @@ b) annak a pályázónak a pályázata, amelynek a Bt. 5. § (4a) bekezdésében
 [^134]: A Vhr. 12/B. § (1) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 8. § (1) bekezdésével megállapított, az 559/2013. (XII. 31.) Korm. rendelet 23. § 8. pontja szerint módosított szöveg.
 [^135]: A Vhr. 12/B. § (3) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^136]: A Vhr. 12/B. § (4) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^137]: A Vhr. 12/B. § (5) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^137]: A Vhr. 12/B. § (5) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 190. §-a szerint módosított szöveg.
 [^138]: A Vhr. 12/B. §-ának (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 146. § (5) bekezdése iktatta be, szövege a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^139]: A Vhr. 12/B. § (7) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 12. §-a iktatta be, szövege a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^140]: A Vhr. 12/B. § (8) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 411/2012. (XII. 28.) Korm. rendelet 16. §-ával megállapított szöveg.
