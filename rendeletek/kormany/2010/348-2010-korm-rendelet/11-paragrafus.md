@@ -1,7 +1,0 @@
-## „(4) Az MNV Zrt. saját vagyonával kapcsolatos könyvvezetési és beszámoló készítési kötelezettségének a számvitelről szóló 2000. évi C. törvény előírásai szerint, a rábízott állami vagyonnal kapcsolatos könyvvezetési és éves beszámoló készítési kötelezettségének a Magyar Állam nevében tulajdonosi jogokat gyakorló szervezetek rábízott állami vagyonnal kapcsolatos éves beszámoló készítési és könyvvezetési kötelezettségéről szóló 347/2010. (XII. 28.) Korm. rendelet előírásai szerint köteles eleget tenni.”
-
-11. § (1) Az R. 14. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az állami vagyon használóját – amennyiben saját eszközeik között állami vagyonelemet tartanak nyilván, ezen eszközök vonatkozásában – a 13. § (1) bekezdés szerinti vagyonnyilvántartás hiteles vezetése és az MNV Zrt. beszámoló-készítési kötelezettségének megalapozottsága érdekében az állami vagyon hasznosítására kötött szerződés szerinti adatszolgáltatási kötelezettség terheli. Ennek teljesítése érdekében a vagyon használója számviteli politikáját és nyilvántartásait köteles úgy kialakítani és vezetni, hogy azok biztosítsák az adatszolgáltatás pontosságát és ellenőrizhetőségét. A tulajdonosi jogokat gyakorló szervezetek az egységes vagyonnyilvántartás érdekében kötelesek adatot szolgáltatni az MNV Zrt. részére. A nyilvántartás egységessége, pontossága és az adatellenőrzések biztosítása érdekében az érintettek kötelesek az MNV Zrt.-vel együttműködni.”
-
-(2) Az R. 14. § (10) bekezdése helyébe a következő rendelkezés lép:
