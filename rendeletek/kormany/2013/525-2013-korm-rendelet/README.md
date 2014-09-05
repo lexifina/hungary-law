@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-525-20-
 | 2014-01-18 | 2013-525-20-22.2 | 6/2014. (I. 17.) Korm. rendelet |
 | 2014-02-25 | 2013-525-20-22.3 | 38/2014. (II. 24.) Korm. rendelet |
 | 2014-03-26 | 2013-525-20-22.4 | 98/2014. (III. 25.) Korm. rendelet |
+| 2014-09-05 | 2013-525-20-22.5 | 98/2014. (III. 25.) Korm. rendelet |
