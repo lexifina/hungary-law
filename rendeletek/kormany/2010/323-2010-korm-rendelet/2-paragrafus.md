@@ -1,12 +1,10 @@
-2. § (1)[^2] A miniszter irányítási jogkörében kinevezi, felmenti és vezetői teendőkkel bízza meg
+## 1. §[^1] Az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH) az egészségügyért felelős miniszter (a továbbiakban: miniszter) irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
 
-a) a helyettes országos tisztifőorvosokat,
+2. §[^2] (1) Az OTH a hatáskörébe tartozó feladatokat az ország egész területére kiterjedő illetékességgel látja el.
 
-b)[^3] az OTH gazdasági vezetőjét,
+(2) Az OTH-t az országos tisztifőorvos vezeti.
 
-c) az országos tisztifőgyógyszerészt.
+(3) Az országos tisztifőorvos tevékenységét a helyettes országos tisztifőorvosok és az országos tisztifőgyógyszerész segíti, akiket a miniszter nevez ki és ment fel, az egyéb munkáltatói jogokat az országos tisztifőorvos gyakorolja.
 
-(2) Az (1) bekezdés b) pontja szerinti gazdasági vezető tekintetében a fegyelmi jogkört a kinevező, az egyéb – az (1) bekezdésben nem említett – munkáltatói jogokat az országos tisztifőorvos gyakorolja.
-
-[^2]: A 2. § (1) bekezdés nyitó szövegrésze a 73/2011. (IV. 29.) Korm. rendelet 17. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^3]: A 2. § (1) bekezdés b) pontja a 73/2011. (IV. 29.) Korm. rendelet 17. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^1]: Az 1. § a 221/2014. (IX. 4.) Korm. rendelet 518. §-ával megállapított szöveg.
+[^2]: A 2. § a 221/2014. (IX. 4.) Korm. rendelet 518. §-ával megállapított szöveg.
