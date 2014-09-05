@@ -87,4 +87,4 @@
 (2)[^4] E rendelet végrehajtásáról az egészségügyi miniszter gondoskodik.
 
 [^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
-[^4]: A 3. § (2) bekezdése a 4/1988. (II. 12.) MT rendelet 2. §-ának, valamint az 1998: XXXVI. törvény 2. §-a (1) bekezdése b) pontjának megfelelő szöveg.
+[^4]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
