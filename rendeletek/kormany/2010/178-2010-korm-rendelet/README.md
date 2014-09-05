@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-178-20-
 | 2010-05-28 | 2010-178-20-22.1 | 178/2010. (V. 13.) Korm. rendelet |
 | 2012-01-01 | 2010-178-20-22.2 | 300/2011. (XII. 22.) Korm. rendelet |
 | 2012-06-06 | 2010-178-20-22.3 | 113/2012. (VI. 5.) Korm. rendelet |
+| 2014-09-05 | 2010-178-20-22.4 | 300/2011. (XII. 22.) Korm. rendelet |
