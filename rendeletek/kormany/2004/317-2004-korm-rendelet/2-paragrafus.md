@@ -2,7 +2,7 @@
 
 2. § (1) Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
 
-(2) E rendelet végrehajtásáról a nemzeti kulturális örökség minisztere gondoskodik.
+(2)[^1] E rendelet végrehajtásáról az oktatásért felelős miniszter gondoskodik.
 
 Melléklet a 317/2004. (XI. 25.) Korm. rendelethez
 
@@ -107,3 +107,5 @@ In connection with the Exchange of Notes dated 19 oktober, 2004 concerning the J
 1. With regard to sub-paragraph (1) of paragraph 3 of the Exchange of Notes, the representative of the Japanese Delegation stated that the Government of Japan understands that the Government of the Republic of Hungary will take necessary measures to prevent any offer, gift or payment, consideration or benefit which would be construed as a corrupt practice in the Republic of Hungary from being made as an inducement to or reward for the award of the contracts referred to in paragraph 4 of the Exchange of Notes.
 
 2. The representative of the Hungarian Delegation stated that his Delegation has no objection to the statement by the representative of the Japanese Delegation referred to above.
+
+[^1]: A 2. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 291. §-a szerint módosított szöveg.
