@@ -506,7 +506,7 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, az egyezmény rendelkezéseit 1997. október 9. napjától kell alkalmazni.
 
-(2) Az egyezmény aláíróinak és részes feleinek listáját a rendelet melléklete tartalmazza. A kihirdetés időpontja utáni ratifikálókról a Környezetvédelmi Minisztérium hivatalos lapjában megfelelő időközönként értesítést jelentet meg.
+(2)[^1] Az egyezmény aláíróinak és részes feleinek listáját a rendelet melléklete tartalmazza. A kihirdetés időpontja utáni ratifikálókról a környezetvédelemért felelős miniszter a hivatalos lapban megfelelő időközönként értesítést jelentet meg.
 
 Melléklet a 148/1999. (X. 13.) Korm. rendelethez
 
@@ -601,3 +601,5 @@ _______
 1Ratifikálás, elfogadás, jóváhagyás, csatlakozás.
 
 2Csehszlovákia aláírásának vállalása.
+
+[^1]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 197. §-a szerint módosított szöveg.
