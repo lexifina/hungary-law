@@ -84,6 +84,6 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1991. január 28. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról az egészségügyi miniszter[^1] gondoskodik.
+(2)[^1] E rendelet végrehajtásáról az egészségügyért felelős miniszter gondoskodik.
 
-[^1]: Lásd az 1998: XXXVI. törvény 2. §-a (1) bekezdésének b) pontját.
+[^1]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 137. §-a szerint módosított szöveg.
