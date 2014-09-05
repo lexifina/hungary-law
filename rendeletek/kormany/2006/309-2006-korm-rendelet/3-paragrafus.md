@@ -1,18 +1,18 @@
-3. § (1)[^11] A Balassi Intézet alaptevékenysége keretében, a magyarság jó hírének a nemzetek közösségéhez való eljuttatása, közös értékeink hazai és nemzetközi megismertetése, a tudatos, értékorientált országkép-építés, a külpolitikai érdekek, a határon inneni és túli magyarság kulturális értékeinek és kapcsolatainak ápolása, fejlesztése érdekében – a külföldi magyar intézetek útján – ellátja az alábbi feladatokat:
+3. § (1)[^19] A Balassi Intézet alaptevékenysége keretében, a magyarság jó hírének a nemzetek közösségéhez való eljuttatása, közös értékeink hazai és nemzetközi megismertetése, a tudatos, értékorientált országkép-építés, a külpolitikai érdekek, a határon inneni és túli magyarság kulturális értékeinek és kapcsolatainak ápolása, fejlesztése érdekében – a külföldi magyar intézetek útján – ellátja az alábbi feladatokat:
 
 a) ismerteti és népszerűsíti a magyar és a magyarországi kultúra, oktatás és tudomány eredményeit, beleértve a határon túli magyar kultúra, oktatás és tudomány képviseletét is;
 
-b)[^12] figyelemmel kíséri az országok kulturális, oktatási és tudományos életét, az egyetemes magyar érdekekhez és kultúrához való viszonyát, tapasztalatairól rendszeresen tájékoztatja az érdekelt minisztériumokat és más hazai intézményeket;
+b)[^20] figyelemmel kíséri az országok kulturális, oktatási és tudományos életét, az egyetemes magyar érdekekhez és kultúrához való viszonyát, tapasztalatairól rendszeresen tájékoztatja az érdekelt minisztériumokat és más hazai intézményeket;
 
 c) kapcsolatokat épít ki és ápol külföldi kulturális, oktatási és tudományos intézményekkel, szervezetekkel, személyiségekkel, segíti az ezek közötti közvetlen kapcsolatok megteremtését és bővítését;
 
-d)[^13] segítséget nyújt a magyarság jó hírének határon túli megalapozásához és fejlesztéséhez, részt vesz a magyar kultúra külföldi terjesztésére irányuló tevékenység fejlesztési irányelveinek és programjának a kidolgozásában;
+d)[^21] segítséget nyújt a magyarság jó hírének határon túli megalapozásához és fejlesztéséhez, részt vesz a magyar kultúra külföldi terjesztésére irányuló tevékenység fejlesztési irányelveinek és programjának a kidolgozásában;
 
 e) közreműködik az állam- és kormányközi kulturális, valamint oktatási és tudományos egyezmények előkészítésében és végrehajtásának megszervezésében;
 
 f) segíti a magyar nyelv, a határon belüli és a határon túli magyar kultúra tanulmányozását és bemutatását külföldön;
 
-g)[^14] közreműködik a határon túli magyarok és az anyaország közötti kulturális, oktatási kapcsolatok ápolásában, elősegíti magyar nemzeti identitásuk megőrzését;
+g)[^22] közreműködik a határon túli magyarok és az anyaország közötti kulturális, oktatási kapcsolatok ápolásában, elősegíti magyar nemzeti identitásuk megőrzését;
 
 h) közreműködik a magyarországi nemzeti és etnikai kisebbségi oktatás és kultúra eredményeinek bemutatásában, az ezt segítő intézményi kapcsolatok ápolásában;
 
@@ -44,12 +44,12 @@ a) a magyarországi felsőoktatási intézmények határon túli magyar hallgat�
 
 b) ellátja a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény pedagógusokat és oktatókat érintő rendelkezéseinek végrehajtásáról szóló 206/2003. (XII. 10.) Korm. rendelet 2. §-ában meghatározott feladatokat,
 
-c)[^15] a magyar felsőoktatás külföldi népszerűsítésével és a határon túli magyar felsőoktatással kapcsolatos kutatási feladatokat végez.
+c)[^23] a magyar felsőoktatás külföldi népszerűsítésével és a határon túli magyar felsőoktatással kapcsolatos kutatási feladatokat végez.
 
 (4) A Balassi Intézet tevékenységéhez kapcsolódóan ösztöndíjrendszert tart fenn és működtet.
 
-[^11]: A 3. § (1) bekezdés nyitó szövegrésze a 216/2010. (VII. 9.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^12]: A 3. § (1) bekezdés b) pontja a 216/2010. (VII. 9.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^13]: A 3. § (1) bekezdés d) pontja a 216/2010. (VII. 9.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^14]: A 3. § (1) bekezdés g) pontja a 216/2010. (VII. 9.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^15]: A 3. § (3) bekezdés c) pontja a 216/2010. (VII. 9.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^19]: A 3. § (1) bekezdés nyitó szövegrésze a 216/2010. (VII. 9.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^20]: A 3. § (1) bekezdés b) pontja a 216/2010. (VII. 9.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^21]: A 3. § (1) bekezdés d) pontja a 216/2010. (VII. 9.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^22]: A 3. § (1) bekezdés g) pontja a 216/2010. (VII. 9.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^23]: A 3. § (3) bekezdés c) pontja a 216/2010. (VII. 9.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
