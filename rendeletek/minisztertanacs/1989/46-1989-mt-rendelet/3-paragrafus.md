@@ -148,6 +148,7 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba; rendelkezéseit azonban 1989. február 1-jétől kezdődően kell alkalmazni.
 
-(2) E rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+(2)[^4] E rendelet végrehajtásáról a nemzetközi pénzügyi kapcsolatokért felelős miniszter gondoskodik.
 
 [^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^4]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 125. §-a szerint módosított szöveg.
