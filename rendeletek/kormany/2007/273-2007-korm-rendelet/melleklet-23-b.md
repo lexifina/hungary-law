@@ -188,7 +188,7 @@
 
 ## A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló fogyasztó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
 
-23/b. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^447]
+23/b. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^445]
 
 Kérelem fogyatékkal élő személyként a védendő fogyasztók nyilvántartásába történő
 
@@ -304,4 +304,8 @@ P. H.
 
 eljáró igazgatási szerv
 
-[^447]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A 23/b. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 31. § (14) bekezdésével megállapított, a 95/2012. (V. 15.) Korm. rendelet 38. § szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.
+C) A KEZELŐORVOS – ENNEK HIÁNYÁBAN A HÁZIORVOS – TÖLTI KI
+
+Orvos neve (egészségügyi szolgáltató megnevezése):
+
+[^445]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A 23/b. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 31. § (14) bekezdésével megállapított, a 95/2012. (V. 15.) Korm. rendelet 38. § szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.

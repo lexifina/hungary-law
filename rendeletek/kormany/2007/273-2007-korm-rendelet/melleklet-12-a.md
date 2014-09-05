@@ -20,7 +20,7 @@
 
 ## gb) ügyvéd, közjegyző vagy a gazdasági társaság jogtanácsosa által cégbejegyzési (változásbejegyzési) eljárásban való közreműködésük során ellenjegyzett aláírási címpéldányuk vagy
 
-## gc)[^408] a ga) és gb) szerinti dokumentumok hiteles másolata, a 117/B. § (1a) bekezdésben foglaltak kivételével.
+## gc)[^406] a ga) és gb) szerinti dokumentumok hiteles másolata, a 117/B. § (1a) bekezdésben foglaltak kivételével.
 
 ## II. A VET 102–102/E. §-ában meghatározott szétválasztási szabályoknak való megfelelés tanúsítása iránti kérelemhez az I. pontban foglaltakon túl benyújtandó adatok és dokumentumok:
 
@@ -126,7 +126,7 @@
 
 ## b) az átviteli hálózat tulajdonosában operatív irányítást ellátó személy munkaszerződésében vagy munkavégzésre irányuló egyéb jogviszonyát szabályozó szerződésében meghatározott jogai és kötelezettségei, munkabére és egyéb juttatásai, munkavégzésének feltételei és szakmai érdekei oly módon kerültek-e megállapításra, hogy feladatai ellátása során biztosítsák számára a független cselekvés lehetőségét.
 
-12/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^409]
+12/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^407]
 
 Átviteli rendszerirányításra vonatkozó működési engedély kérelemhez benyújtandó dokumentumok
 
@@ -152,5 +152,5 @@ b) az átviteli hálózat és az elosztók hálózatai között,
 
 9. a kérelmező és a villamosenergia-rendszer azon résztvevői közötti szerződések, üzemviteli megállapodások, akik az átviteli rendszerirányító utasításait a villamosenergia-ellátási szabályzatnak megfelelően kötelesek végrehajtani.
 
-[^408]: A Vhr. 12. számú melléklet I. pont gc) alpontja a 355/2012. (XII. 13.) Korm. rendelet 28. § (5) bekezdésével megállapított szöveg.
-[^409]: A Vhr. 12/a. számú mellékletét a 75/2011. (V. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^406]: A Vhr. 12. számú melléklet I. pont gc) alpontja a 355/2012. (XII. 13.) Korm. rendelet 28. § (5) bekezdésével megállapított szöveg.
+[^407]: A Vhr. 12/a. számú mellékletét a 75/2011. (V. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be.
