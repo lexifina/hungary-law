@@ -1,5 +1,0 @@
-4. § (1) Az 1–2. § szerinti emelést oly módon kell végrehajtani, hogy a 2004. január–október hónapokra járó emelés tíz havi összegét, illetve, ha az érintett több ellátásban, illetőleg az ellátás mellett nyugellátásban vagy baleseti járadékban is részesül, ezen ellátások emelésének 2004. január–október hónapokra járó, tíz havi együttes összegét, de legalább 2500 forintot kell az érintett személynek kifizetni. A november hónapra járó ellátást az 1–2. § szerint megemelt összegben kell kifizetni.
-
-(2) A 2003. december 31. utáni időponttól megállapított ellátás esetén a visszamenőleges emelés időarányos részét, illetve, ha az érintett több ellátásban, illetőleg az ellátás mellett nyugellátásban vagy baleseti járadékban is részesül, ezen ellátások visszamenőleges emelésének időarányos együttes összegét, de legalább 2500 forintot kell az érintett személynek kifizetni.
-
-(3) A vakok személyi járadéka esetében az (1)–(2) bekezdés szerint visszamenőleg járó összeget a jogosult részére a Magyar Államkincstár illetékes Területi Igazgatósága fizeti ki.
