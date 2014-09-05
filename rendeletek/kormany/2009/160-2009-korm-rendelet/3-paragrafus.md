@@ -54,7 +54,7 @@
 
 25. vezető partner: több jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság által közösen megvalósítandó projekt esetén a projekt megvalósításának egészéért felelősséget viselő, az Alapokból származó közösségi támogatásban részesülő fél;
 
-26.[^5] irányító hatóságot és a nemzeti hatóságot működtető szervezet: a Miniszterelnökség.
+26.[^5] irányító hatóságot és a nemzeti hatóságot működtető szervezet: az európai uniós források felhasználásáért felelős miniszter.
 
 (2) Az (1) bekezdésben meg nem határozott fogalmak a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjaiból származó támogatások hazai felhasználásának intézményeiről szóló 49/2007. (III. 26.) Korm. rendeletben (a továbbiakban: Kijelölő Rendelet), az 1083/2006/EK rendeletben foglaltak szerint értelmezendők.
 
@@ -62,4 +62,4 @@
 [^2]: A 3. § (1) bekezdés 2. pontja a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg. [A 3. § (1) bekezdés 2. pontjának az 550/2013. (XII. 30.) Korm. rendelet 55. § a) pontjával elrendelt módosítása, amely szerint a „Magyar Államkincstárnál (a továbbiakban: kincstár)” szövegrész helyébe a „kincstárnál” szöveg lép, nem vezethető át.]
 [^3]: A 3. § (1) bekezdés 4. pontja a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^4]: A 3. § (1) bekezdés 20. pontja a 304/2011. (XII. 23.) Korm. rendelet 37. §-a szerint módosított szöveg.
-[^5]: A 3. § (1) bekezdés 26. pontját az 550/2013. (XII. 30.) Korm. rendelet 49. §-a iktatta be, szövege a 27/2013. (II. 7.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^5]: A 3. § (1) bekezdés 26. pontját az 550/2013. (XII. 30.) Korm. rendelet 49. §-a iktatta be, szövege a 27/2013. (II. 7.) Korm. rendelet 7. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 449. § a) pontja szerint módosított szöveg.

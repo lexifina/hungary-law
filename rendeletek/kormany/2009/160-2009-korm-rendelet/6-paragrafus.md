@@ -1,4 +1,4 @@
-## 5/A. §[^19] Ha a költségvetési törvény arra felhatalmazást ad, lehetőség van az egyes programok operatív programokban jóváhagyott keretén felül többlet-kötelezettségvállalásra. A többlet-kötelezettségvállalás eljárásrendjét az Irányító Hatóság a Miniszterelnökséget vezető államtitkár és az államháztartásért felelős miniszter bevonásával készíti el.
+## 5/A. §[^19] Ha a központi költségvetésről szóló törvény arra felhatalmazást ad, lehetőség van az egyes programok operatív programokban jóváhagyott keretén felül többlet-kötelezettségvállalásra. A többlet-kötelezettségvállalás eljárásrendjét az Irányító Hatóság az európai uniós források felhasználásáért felelős miniszter és az államháztartásért felelős miniszter bevonásával készíti el.
 
 ## A pénzügyi lebonyolítás részletes szabályai
 
@@ -10,15 +10,15 @@
 
 (3)[^21] A fizetési számlák feletti rendelkezési jogosultságot két bejelentett személy együttes aláírásával lehet gyakorolni.
 
-(4)[^22] A fizetési számlák vezetésével kapcsolatos bárminemű költség elszámolása közvetlenül a központi költségvetésből történik a Pénzügyminisztérium fejezet terhére.
+(4)[^22] A fizetési számlák vezetésével kapcsolatos bárminemű költség elszámolása az államháztartásért felelő miniszter által vezetett minisztérium költségvetési fejezete terhére történik.
 
 (5)[^23] A fizetési számlákról indított átutalásokhoz az átutalási megbízást minden esetben az IMIR 2007–2013-ban kell kiállítani.
 
 (6)[^24] A 7–8. §-ban és a 23. §-ban említett fizetési számlák esetében a (3)–(5) bekezdés rendelkezései megfelelően alkalmazandók.
 
-[^19]: Az 5/A. §-t a 216/2012. (VIII. 9.) Korm. rendelet 3. §-a iktatta be, szövege a 272/2013. (VII. 15.) Korm. rendelet 1. §-ával megállapított, az 550/2013. (XII. 30.) Korm. rendelet 55. § b) pontja szerint módosított szöveg.
+[^19]: Az 5/A. §-t a 216/2012. (VIII. 9.) Korm. rendelet 3. §-a iktatta be, szövege a 272/2013. (VII. 15.) Korm. rendelet 1. §-ával megállapított, az 550/2013. (XII. 30.) Korm. rendelet 55. § b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 449. § b) pontja szerint módosított szöveg.
 [^20]: A 6. §-t megelőző alcím a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^21]: A 6. § (3) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
-[^22]: A 6. § (4) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^22]: A 6. § (4) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 449. § c) pontja szerint módosított szöveg.
 [^23]: A 6. § (5) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^24]: A 6. § (6) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
