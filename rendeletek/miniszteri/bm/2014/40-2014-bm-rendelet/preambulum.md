@@ -1,1 +1,0 @@
-A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 22. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
