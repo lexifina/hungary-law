@@ -26,4 +26,6 @@ j) a hallgató részére az ösztöndíjas szerződés megszűnésekor, valamint
 
 k) monitoring tevékenységet végez az Ösztöndíjprogram hallgató általi teljesítése és a mentori tevékenység területén.
 
-(2) Az Ösztöndíjprogrammal kapcsolatos (1) bekezdés b), d) és f) pontokban foglalt feladatokban a Központ együttműködik a társadalmi esélyegyenlőség előmozdításáért felelős miniszter által kijelölt szervezettel.
+(2)[^2] Az Ösztöndíjprogrammal kapcsolatos (1) bekezdés b), d) és f) pontokban foglalt feladatokban a Központ együttműködik a szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt szervezettel.
+
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 797. §-a szerint módosított szöveg.

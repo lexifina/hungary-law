@@ -8,7 +8,7 @@ a) az ösztöndíjprogram Operatív Testülete (a továbbiakban: Testület), val
 
 b) a Közigazgatási és Igazságügyi Hivatal, mint az Ösztöndíjprogram központi koordinációjáért és működtetéséért felelős intézmény (a továbbiakban: Központ).
 
-(3) A miniszter – a társadalmi esélyegyenlőség előmozdításáért felelős miniszter véleményének kikérését követően – hozza létre a Testületet.
+(3)[^1] A miniszter – a szociál- és nyugdíjpolitikáért felelős miniszter véleményének kikérését követően – hozza létre a Testületet.
 
 (4) A miniszter jóváhagyja
 
@@ -29,3 +29,5 @@ c) a mentorálás módszertanát,
 d) a befogadó intézményekkel megkötésre kerülő együttműködési megállapodás, valamint a hallgatókkal megkötendő ösztöndíjas szerződés mintáját,
 
 e) a hallgatók teljesítményének értékelési rendszerét.
+
+[^1]: A 2. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 797. §-a szerint módosított szöveg.

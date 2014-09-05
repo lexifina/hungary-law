@@ -8,7 +8,7 @@ c) kijelöli a befogadó intézmény javaslata alapján a mentorokat,
 
 d) jóváhagyja a mentorálás-, valamint a mentori felkészítő módszertanát.
 
-(2) A Testület elnöke a Központ vezetője. A Testület tagjait a miniszter – a társadalmi esélyegyenlőség előmozdításáért felelős miniszter egyetértésével – arra figyelemmel kéri fel, hogy a befogadó intézmények megfelelően képviselve legyenek.
+(2)[^3] A Testület elnöke a Központ vezetője. A Testület tagjait a miniszter – a szociál- és nyugdíjpolitikáért felelős miniszter egyetértésével – arra figyelemmel kéri fel, hogy a befogadó intézmények megfelelően képviselve legyenek.
 
 (3) A testület tagjainak számát a miniszter határozza meg.
 
@@ -51,3 +51,5 @@ c) az a)–b) pontba nem tartozó, a tagnak felróható egyéb olyan esetekben, 
 (11) A Testület üléseinek összehívása és levezetése, valamint az ülés napirendjének meghatározása az elnök feladata, aki ezt a feladatot – akadályoztatása esetén – a Testület egy írásban meghatalmazott tagjára átruházhatja. Az elnöki megbízatás a (9) bekezdés a)–c) pontjában foglaltakon kívül megszűnik akkor is, ha a Központ vezetői megbízása megszűnik.
 
 (12) A Testület a döntéseit nyílt szavazással, a jelenlévő tagok több mint felének egybehangzó szavazatával hozza meg, szavazategyenlőség esetén az elnök szavazata dönt. A Testület határozatképességéhez tagjai több mint felének jelenléte szükséges. Az ülésekről jegyzőkönyvet kell készíteni.
+
+[^3]: A 4. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 797. §-a szerint módosított szöveg.
