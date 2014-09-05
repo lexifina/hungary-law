@@ -1,12 +1,12 @@
-## 31/A. §[^45]
+## 31/A. §[^46]
 
 ## A pénztárak egyesülése, szétválása
 
 ## Vagyonmérleg, vagyonleltár
 
-31/B. §[^46] (1) A pénztárak egyesülése (összeolvadása, beolvadása), szétválása (különválása, kiválása) (a továbbiakban együtt: átalakulás) során az egyesülő, a szétváló (a továbbiakban: átalakuló) (jogelőd) pénztár(ak) és az átalakulással létrejövő (jogutód) pénztár(ak) vagyonának megállapításához vagyonmérleget kell készíteni. A vagyonmérleget vagyonleltárral kell alátámasztani. A vagyonleltár tételesen tartalmazza a jogelőd, illetve a jogutód pénztár(ak) eszközeit és forrásait.
+31/B. §[^47] (1) A pénztárak egyesülése (összeolvadása, beolvadása), szétválása (különválása, kiválása) (a továbbiakban együtt: átalakulás) során az egyesülő, a szétváló (a továbbiakban: átalakuló) (jogelőd) pénztár(ak) és az átalakulással létrejövő (jogutód) pénztár(ak) vagyonának megállapításához vagyonmérleget kell készíteni. A vagyonmérleget vagyonleltárral kell alátámasztani. A vagyonleltár tételesen tartalmazza a jogelőd, illetve a jogutód pénztár(ak) eszközeit és forrásait.
 
-(2)[^47] Az (1) bekezdés szerinti vagyonmérleget és vagyonleltárt az átalakulás során két alkalommal kell elkészíteni: először az átalakulásról szóló döntés megalapozásához, illetve a tevékenységi engedély iránti kérelem alátámasztására – a pénztár közgyűlése által meghatározott fordulónapra (vagyonmérleg-tervezet és vagyonleltár-tervezet) –, majd az átalakulás (a jogutód pénztár alapszabálya hatálybalépésének időpontja, amelyet az alapszabály elfogadásával egyidejűleg a második közgyűlés határoz meg) napjával (végleges vagyonmérleg és végleges vagyonleltár).
+(2)[^48] Az (1) bekezdés szerinti vagyonmérleget és vagyonleltárt az átalakulás során két alkalommal kell elkészíteni: először az átalakulásról szóló döntés megalapozásához, illetve a tevékenységi engedély iránti kérelem alátámasztására – a pénztár közgyűlése által meghatározott fordulónapra (vagyonmérleg-tervezet és vagyonleltár-tervezet) –, majd az átalakulás (a jogutód pénztár alapszabálya hatálybalépésének időpontja, amelyet az alapszabály elfogadásával egyidejűleg a második közgyűlés határoz meg) napjával (végleges vagyonmérleg és végleges vagyonleltár).
 
 (3) A vagyonmérleget (a vagyonmérleg-tervezetet és a végleges vagyonmérleget), a vagyonleltárt (a vagyonleltár-tervezetet és a végleges vagyonleltárt) az e rendelet szerinti beszámoló mérlegére és az azt alátámasztó leltárra vonatkozó előírások szerint kell elkészíteni a (4)–(11) bekezdésben és a 31/B–31/D. §-okban foglaltak figyelembevételével.
 
@@ -56,6 +56,6 @@ b) kiválás esetében a kiválással létrejövő, valamint a továbbműködő 
 
 (11) A vagyonmérleget (mind a vagyonmérleg-tervezetet, mind a végleges vagyonmérleget) és az azt alátámasztó vagyonleltárt (mind a vagyonleltár-tervezetet, mind a végleges vagyonleltárt) könyvvizsgálóval ellenőriztetni kell. Az átalakulás számviteli bizonylata a könyvvizsgáló által hitelesített vagyonmérleg.
 
-[^45]: Az új 31/A. §-t és az előtte lévő címet a 358/2006. (XII. 27.) Korm. rendelet 40. §-a iktatta be, egyidejűleg az eredeti 31/A–31/D. § számozását 31/B–31/E. §-ra változtatva. A 31/A. §-t a 345/2010. (XII. 28.) Korm. rendelet 21. §-a hatályon kívül helyezte.
-[^46]: A 31/A. §-t és az azt megelőző címet és alcímet a 352/2004. (XII. 22.) Korm. rendelet 14. §-a iktatta be, számozását 31/B. §-ra változtatta a 358/2006. (XII. 27.) Korm. rendelet 40. §-a.
-[^47]: A 31/B. § (2) bekezdése a 396/2007. (XII. 27.) Korm. rendelet 74. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 214. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^46]: Az új 31/A. §-t és az előtte lévő címet a 358/2006. (XII. 27.) Korm. rendelet 40. §-a iktatta be, egyidejűleg az eredeti 31/A–31/D. § számozását 31/B–31/E. §-ra változtatva. A 31/A. §-t a 345/2010. (XII. 28.) Korm. rendelet 21. §-a hatályon kívül helyezte.
+[^47]: A 31/A. §-t és az azt megelőző címet és alcímet a 352/2004. (XII. 22.) Korm. rendelet 14. §-a iktatta be, számozását 31/B. §-ra változtatta a 358/2006. (XII. 27.) Korm. rendelet 40. §-a.
+[^48]: A 31/B. § (2) bekezdése a 396/2007. (XII. 27.) Korm. rendelet 74. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 214. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
