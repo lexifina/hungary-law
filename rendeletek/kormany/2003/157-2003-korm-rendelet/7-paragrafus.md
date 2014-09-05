@@ -1,7 +1,0 @@
-7. § (1) Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
-
-(2) Az 1–5. §-ok szerinti nyugdíjemelést oly módon kell végrehajtani, hogy a 2003. január–október hónapokra járó nyugdíjemelés tíz havi összegét, illetve, ha az érintett több nyugellátásban, illetőleg a nyugellátás mellett november hónapban emelésre kerülő egyéb ellátásban is részesül, ezen ellátások emelésének 2003. január–október hónapokra járó, tíz havi együttes összegét százas számra felkerekítve kell az érintett személynek november hónapban kifizetni. A november hónapra járó nyugellátást az 1–5. § szerint megemelt összegben kell kifizetni.
-
-(3) Amennyiben az 1. és a 3–5. §-ok szerinti ellátásokra való jogosultság e kormányrendelet hatálybalépése előtt megszűnt, a visszamenőlegesen járó kiegészítő emelést, vagy ha az érintett több nyugellátásban, illetőleg a nyugellátás mellett november hónapban emelésre kerülő egyéb ellátásban is részesül, illetve részesült, az ezen ellátások után visszamenőlegesen járó kiegészítő emelések együttes összegét százas számra felkerekítve kell – kérelemre – egy összegben kifizetni a megszüntetett ellátás jogosultja, illetőleg a jogosult halála esetén a hozzátartozója vagy örököse részére.
-
-(4) A Tny. 50. §-ának (6) bekezdésében, illetőleg a 168/1997. (X. 6.) Korm. rendelet 62. §-ának (7) bekezdésében meghatározott együttfolyósítási összeghatár – 2003. január 1-jei visszamenőleges hatállyal – havi 46 700 forintra változik.
