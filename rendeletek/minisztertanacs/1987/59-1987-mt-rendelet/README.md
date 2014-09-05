@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1987-59-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1990-12-31 | 1987-59-20-65.1 | 59/1987. (XI. 29.) MT rendelet |
+| 2014-09-05 | 1987-59-20-65.2 | 2020: LXI. törvény |

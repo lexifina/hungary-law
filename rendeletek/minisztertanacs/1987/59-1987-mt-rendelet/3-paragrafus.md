@@ -154,4 +154,6 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1987. szeptember 30-tól kezdődően kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+(2)[^3] A rendelet végrehajtásáról a nemzetközi pénzügyi kapcsolatokért felelős miniszter gondoskodik.
+
+[^3]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 103. §-a szerint módosított szöveg.
