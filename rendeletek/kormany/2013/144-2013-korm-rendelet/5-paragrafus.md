@@ -48,10 +48,12 @@
 
 ## j) a Kormány által normatív határozatban meghatározott egyéb feladatot végez.
 
-## (2) Az Intézet tevékenységét országos illetékességgel látja el.
+## (2)[^5]
 
 ## (3) Az Intézet elnöke feladatkörében meghatározott célból, feladatkörében eljárva az állami szervektől, szervezetektől adatokat, információkat kérhet, a kapcsolódó dokumentumokba – a vonatkozó jogszabályi rendelkezéseknek megfelelően – betekinthet, azokról másolatot kérhet.
 
 ## 3. Záró rendelkezések
 
 5. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+[^5]: A 4. § (2) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 735. §-a hatályon kívül helyezte.
