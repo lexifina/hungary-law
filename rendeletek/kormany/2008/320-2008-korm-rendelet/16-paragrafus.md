@@ -1,1 +1,0 @@
-## „(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a vámhatóság hatáskörébe tartozik. Magyar állampolgárral szemben a megyeszékhelyen működő vám- és pénzügyőri hivatal, Budapesten és Pest megyében a 17. számú Vám- és Pénzügyőri Hivatal, nem magyar állampolgárral szemben az Európai Unió külső vámhatárán működő vám- és pénzügyőri hivatal jár el.”
