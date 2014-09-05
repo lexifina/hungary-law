@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1984-20-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1990-12-31 | 1984-20-20-65.1 | 20/1984. (IV. 18.) MT rendelet |
+| 2014-09-05 | 1984-20-20-65.2 | 221/2014. (IX. 4.) Korm. rendelet |
