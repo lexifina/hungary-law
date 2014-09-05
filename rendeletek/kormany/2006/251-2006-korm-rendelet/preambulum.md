@@ -1,1 +1,0 @@
-A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. §-a (1) bekezdésének a), b), d), f), g), j) és m) pontjában, valamint a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény módosításáról szóló 1986. évi IV. törvény 39. §-a (1) bekezdésének a) pontjában foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
