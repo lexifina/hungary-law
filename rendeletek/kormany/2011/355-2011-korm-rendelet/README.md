@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-355-20-
 | 2012-06-27 | 2011-355-20-22.4 | 118/2012. (VI. 26.) Korm. rendelet |
 | 2012-12-13 | 2011-355-20-22.5 | 351/2012. (XII. 12.) Korm. rendelet |
 | 2014-07-18 | 2011-355-20-22.6 | 167/2014. (VII. 17.) Korm. rendelet |
+| 2014-09-05 | 2011-355-20-22.7 | 221/2014. (IX. 4.) Korm. rendelet |
