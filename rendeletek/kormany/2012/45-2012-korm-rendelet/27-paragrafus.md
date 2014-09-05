@@ -1,5 +1,3 @@
-## 26/C. § A tartalékállományba helyezett rendelkezési állományú katonára – a 26/A–26/B. §-ban foglalt eltérésekkel – megfelelően alkalmazni kell a 18. §-t, 20. §-t, 21. § (1)–(3) és (6) bekezdését, 22. §-t.
-
 ## VII. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK

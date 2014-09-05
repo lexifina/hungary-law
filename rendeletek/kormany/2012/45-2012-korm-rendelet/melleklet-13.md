@@ -22,11 +22,11 @@
 
 ## Dátum:
 
-13. melléklet a 45/2012. (III. 20.) Korm. rendelethez[^35]
+13. melléklet a 45/2012. (III. 20.) Korm. rendelethez[^45]
 
 REGISZTRÁCIÓS BEJELENTŐ LAP
 
-a Honvédelmi Minisztérium személyügyi szerve számára
+a Magyar Honvédség központi személyügyi szerve számára
 
 A TARTINFO rendszerhez történő hozzáféréshez
 
@@ -76,7 +76,7 @@ A TARTINFO rendszerhez történő hozzáféréshez
 
 |  |  | Szám |  |  |  |
 
-| A Honvédelmi Minisztérium személyügyi szervének vezetőjére vonatkozó adatok |
+| A Magyar Honvédség központi személyügyi szervének vezetőjére vonatkozó adatok |
 
 | Neve |  |  |  |
 
@@ -90,4 +90,4 @@ A TARTINFO rendszerhez történő hozzáféréshez
 
 | A vezető aláírása: |  |  |  |  |  |
 
-[^35]: A 13. mellékletet a 237/2012. (VIII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^45]: A 13. mellékletet a 237/2012. (VIII. 30.) Korm. rendelet 6. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 654. § j) pontja szerint módosított szöveg.

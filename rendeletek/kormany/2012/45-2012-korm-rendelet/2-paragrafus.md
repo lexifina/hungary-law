@@ -6,7 +6,7 @@ a) személyi irat: bármilyen anyagon, alakban és bármilyen eszköz felhaszná
 
 b) munkavállaló személyi anyaga: a munkavállaló öt évnél nem régebbi fényképe, önéletrajza, a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány, a munkavállaló titoktartási nyilatkozata, munkaszerződése és annak módosítása, munkaköri leírása, teljesítményértékelése, a munkaviszonyt megszüntető irat, és a munkáltatói igazolás másolata,
 
-c)[^4] tartalékállományba helyezett:
+c)[^5] tartalékállományba helyezett:
 
 ca) az a közszolgálati tisztviselő, akinek tartalékállományba helyezéséről az őt foglalkoztató közigazgatási szerv intézkedett;
 
@@ -14,9 +14,9 @@ cb) az a hivatásos állományú, akinek tartalékállományba helyezéséről a
 
 cc) az a hivatásos állományú, akinek tartalékállományba helyezéséről a személyügyi központ a hivatásos állományú hozzá intézett kérelmére intézkedett;
 
-cd)[^5] az a rendelkezési állományú katona, akinek adatait a Honvédelmi Minisztérium személyügyi szervének (a továbbiakban: HM személyügyi szerve) vezetője a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény (a továbbiakban: Hatv.) 11. § (3) bekezdés a) pontja alapján megküldte,
+cd)[^6] az a rendelkezési állományú katona, akinek adatait az MH központi személyügyi szervének vezetője a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény (a továbbiakban: Hatv.) 11. § (3) bekezdés a) pontja alapján megküldte,
 
-d)[^6] országos parancsnok: a Hszt. 2. § e) pontja szerinti személyek,
+d)[^7] országos parancsnok: a Hszt. 2. § e) pontja szerinti személyek,
 
 e) országos parancsnokság: az országos parancsnok által vezetett szerv,
 
@@ -26,6 +26,6 @@ g) irányító szerv: a kormányhivatal, a központi hivatal, valamint a megyei,
 
 h) irányított szerv: az irányító szerv irányítása alatt álló területi, illetve helyi államigazgatási szerv.
 
-[^4]: A 2. § c) pontja a 237/2012. (VIII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^5]: A 2. § c) pont cd) alpontja a 298/2013. (VII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^6]: A 2. § d) pontja a 237/2012. (VIII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § c) pontja a 237/2012. (VIII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 2. § c) pont cd) alpontja a 298/2013. (VII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 654. § c) pontja szerint módosított szöveg.
+[^7]: A 2. § d) pontja a 237/2012. (VIII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

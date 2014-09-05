@@ -40,24 +40,6 @@ b) köztisztviselői jogviszonyon közszolgálati jogviszonyt kell érteni,
 
 c) közigazgatási szerven – a 8. § (3) bekezdésének a kivételével – államigazgatási szervet kell érteni.
 
-(5) A köztisztviselők továbbképzéséről és a közigazgatási vezetőképzésről szóló 199/1998. (XII. 4.) Korm. rendelet alkalmazásában
+(5)–(6)[^41]
 
-a) köztisztviselőn közszolgálati tisztviselőt kell érteni,
-
-b) köztisztviselői továbbképzésen közszolgálati tisztviselői továbbképzést kell érteni,
-
-c) önkormányzatok köztisztviselőin közszolgálati ügykezelőt is érteni kell,
-
-d) Miniszterelnöki Hivatalt vezető miniszteren közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztert kell érteni,
-
-e) a Kormány általános hatáskörű területi államigazgatási szervén a fővárosi és megyei kormányhivatalokat kell érteni,
-
-f) közszolgálati jogviszonyon kormányzati szolgálati jogviszonyt is érteni kell.
-
-(6) Az Országos Közigazgatási Vizsgabizottságról szóló 153/2010. (V. 4.) Korm. rendelet alkalmazásában
-
-a) köztisztviselőn kormánytisztviselőt kell érteni,
-
-b) közszolgálati jogviszonyon kormányzati szolgálati jogviszonyt kell érteni,
-
-c) köztisztviselői illetményalapon a költségvetési törvény által megállapított illetményalapot kell érteni.
+[^41]: A 31. § (5)–(6) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 655. §-a hatályon kívül helyezte.
