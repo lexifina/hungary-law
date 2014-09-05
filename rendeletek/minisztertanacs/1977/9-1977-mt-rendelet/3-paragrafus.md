@@ -54,6 +54,6 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1976. évi október hó 23. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a bizonyítványokra és az oklevelekre vonatkozóan az oktatási[^2] miniszter, a tudományos fokozatokra vonatkozóan pedig a Magyar Tudományos Akadémia elnöke gondoskodik.
+(2)[^2] E rendelet végrehajtásáról az oktatásért felelős miniszter gondoskodik.
 
-[^2]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 19. §-ával megállapított szöveg.
