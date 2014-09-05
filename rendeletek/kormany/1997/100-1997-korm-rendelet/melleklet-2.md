@@ -1,6 +1,6 @@
 ## Az érettségi vizsga iratai és záradékai
 
-## I.[^372] Nyomtatványok
+## I.[^373] Nyomtatványok
 
 ## 1. Érettségi bizonyítvány*
 
@@ -10,11 +10,11 @@
 
 ## 4. Jelentkezés érettségi vizsgára
 
-## 5.[^373]
+## 5.[^374]
 
 ## 6. Jegyzőkönyv az írásbeli, szóbeli vizsgáról és a vizsgabizottság üléseiről, illetve a tantárgyi vizsgabizottság üléseiről
 
-## 7.[^374] Tanúsítvány az érettségi vizsgáról*
+## 7.[^375] Tanúsítvány az érettségi vizsgáról*
 
 ## 8. Jelentés a vizsgaeredményekről
 
@@ -26,9 +26,9 @@
 
 ## _______
 
-## A *-gal jelölt nyomtatványok gyártásához és forgalmazásához az Oktatási és Kulturális Minisztérium engedélye szükséges.
+## A *-gal jelölt nyomtatványok gyártásához és forgalmazásához az oktatásért felelős miniszter által vezetett minisztérium engedélye szükséges.
 
-## II*[^375]
+## II*[^376]
 
 ## Záradékok
 
@@ -64,9 +64,9 @@
 
 ## 16. A vizsgabizottság szükség szerint döntéseihez megfelelő további záradékot alakíthat ki.
 
-2. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez[^376]
+2. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez[^377]
 
-ELSŐ RÉSZ[^377]
+ELSŐ RÉSZ[^378]
 
 AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
@@ -182,7 +182,7 @@ AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
 | 21. Élelmiszeripari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-MÁSODIK RÉSZ[^378]
+MÁSODIK RÉSZ[^379]
 
 AZ ÉRETTSÉGI VIZSGATÁRGYAK ÁLTALÁNOS KÖVETELMÉNYEI
 
@@ -2756,10 +2756,10 @@ KÖZÉPSZINT
 
 EMELT SZINT
 
-[^372]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja szerint módosított szöveg.
-[^373]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
-[^374]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^375]: Az 1. számú melléklet II. része a 6/2008. (I. 22.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^376]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^377]: A 2. számú melléklet Első Része a 347/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított, a 172/2011. (VIII. 24.) Korm. rendelet 4. §-a, a 106/2012. (VI. 1.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^378]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a, a 106/2012. (VI. 1.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^373]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja szerint módosított szöveg.
+[^374]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
+[^375]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^376]: Az 1. számú melléklet II. része a 6/2008. (I. 22.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^377]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^378]: A 2. számú melléklet Első Része a 347/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított, a 172/2011. (VIII. 24.) Korm. rendelet 4. §-a, a 106/2012. (VI. 1.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^379]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a, a 106/2012. (VI. 1.) Korm. rendelet 11. § d) pontja, a 221/2014. (IX. 4.) Korm. rendelet 172. § c)–s) pontja szerint módosított szöveg.
