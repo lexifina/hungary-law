@@ -1,1 +1,0 @@
-A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva, a közlekedéspolitikai, repülőtér-biztonsági és repülésbiztonsági szempontok figyelembevételével, a visszautasított beszállás, valamint a légi járatok törlése miatt az utasoknak nyújtandó kártalanítás és segítség pénzügyi fedezetének megteremtése érdekében a következőket rendeli el:
