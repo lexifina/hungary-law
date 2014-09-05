@@ -122,6 +122,7 @@
 
 3. § (1) Ez a rendelet kihirdetése napján lép hatályba, rendelkezéseit azonban az 1972. évi október hó 13. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter gondoskodik.
+(2)[^5] E rendelet végrehajtásáról az elektronikus hírközlésért felelős miniszter és a postaügyért felelős miniszter gondoskodik.
 
 [^4]: Az „OSzSz” megjelölés a Szocialista Országok Együttműködési szervezete a Posta- és Távközlés területén nevezetű nemzetközi szervezet orosz nyelvű elnevezésének nemzetközileg elfogadott rövidítése.
+[^5]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
