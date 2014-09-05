@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-315-20-
 | 2013-01-01 | 2011-315-20-22.3 | 394/2012. (XII. 20.) Korm. rendelet |
 | 2013-08-01 | 2011-315-20-22.4 | 297/2013. (VII. 29.) Korm. rendelet |
 | 2014-03-15 | 2011-315-20-22.5 | 73/2014. (III. 13.) Korm. rendelet |
+| 2014-09-05 | 2011-315-20-22.6 | 310/2012. (XI. 6.) Korm. rendelet |

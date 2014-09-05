@@ -2,7 +2,7 @@
 
 ## 4. A világörökségi komplex hatásvizsgálati dokumentáció
 
-## 10. §[^9] A világörökségi területen hatóságként eljáró vagy szakhatóságként közreműködő örökségvédelmi és természetvédelmi hatóság (a továbbiakban együtt: hatóság) az ügyben szakértőt rendel ki a világörökségi komplex hatásvizsgálati dokumentáció (a továbbiakban: hatásvizsgálati dokumentáció) elkészítése érdekében, ha az ügyben a kiemelkedő egyetemes érték érintettsége valószínűsíthető, és a hatóság a tervezett beavatkozás kiemelkedő egyetemes értékre gyakorolt hatását nem tudja megítélni a hatásvizsgálati dokumentáció nélkül, valamint ha az eljárás tárgya olyan beavatkozás, amelynek
+## 10. §[^10] A világörökségi területen hatóságként eljáró vagy szakhatóságként közreműködő örökségvédelmi és természetvédelmi hatóság (a továbbiakban együtt: hatóság) az ügyben szakértőt rendel ki a világörökségi komplex hatásvizsgálati dokumentáció (a továbbiakban: hatásvizsgálati dokumentáció) elkészítése érdekében, ha az ügyben a kiemelkedő egyetemes érték érintettsége valószínűsíthető, és a hatóság a tervezett beavatkozás kiemelkedő egyetemes értékre gyakorolt hatását nem tudja megítélni a hatásvizsgálati dokumentáció nélkül, valamint ha az eljárás tárgya olyan beavatkozás, amelynek
 
 a) nincs kialakult gyakorlata;
 
@@ -12,4 +12,4 @@ c) esetében korábban nem ismert körülményekkel való együtthatásra is sz�
 
 d) közvetlen hatása ugyan megítélhető, de valószínűsíthető, hogy időben és térben olyan járulékos hatások is felmerülhetnek, amelyek előzetes értékelése részletes és több tudományág általi elemzést igényel.
 
-[^9]: A 10. § nyitó szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg.
+[^10]: A 10. § nyitó szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg.
