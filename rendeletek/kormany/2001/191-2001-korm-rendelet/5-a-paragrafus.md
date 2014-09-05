@@ -10,7 +10,7 @@ c) az okozott kár mértéke
 
 ## figyelembevételével úgy kell meghatározni, hogy az a kötelezettet a további, az örökségvédelemre vonatkozó jogszabályokat sértő magatartástól visszatartsa.
 
-(2a)[^15] A (2) bekezdés a), b) és c) pontjában foglaltak megállapításához az eljáró hatóság a műemléki érték és a régészeti örökség védelmével kapcsolatos eljárásában a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság szakvéleményét kikérheti.
+(2a)[^15] A (2) bekezdés a), b) és c) pontjában foglaltak megállapításához az eljáró hatóság a műemléki érték és a régészeti örökség védelmével kapcsolatos eljárásában a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ szakvéleményét kikérheti.
 
 (3) Régészeti lelőhelyek esetén a bírságalap meghatározásakor – a (2) bekezdésben foglaltakon túl – figyelembe kell venni a jogsértő tevékenységgel érintett területnek a lelőhely kiterjedéséhez viszonyított mértékét is.
 
@@ -26,4 +26,4 @@ d) a IV. kategóriába tartozó kulturális örökségi elem sérelme esetén 25
 
 [^13]: Az 5/A. §-t a 281/2005. (XII. 20.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 6. §-a alapján a rendelkezést a 2006. január 1. napját követően megvalósított (befejezett) kötelezettségszegésekre kell alkalmazni.
 [^14]: Az 5/A. § (2) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^15]: Az 5/A. § (2a) bekezdését a 394/2012. (XII. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 107/2013. (IV. 5.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^15]: Az 5/A. § (2a) bekezdését a 394/2012. (XII. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 107/2013. (IV. 5.) Korm. rendelet 1. §-a, a 221/2014. (IX. 4.) Korm. rendelet 223. § a) pontja szerint módosított szöveg.
