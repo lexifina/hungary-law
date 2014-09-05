@@ -1,6 +1,6 @@
-## A szakosított hitelintézetként működő központi szerződő fél sajátos előírásai[^259]
+## A szakosított hitelintézetként működő központi szerződő fél sajátos előírásai[^261]
 
-28/B. §[^260] (1) A szakosított hitelintézetként működő központi szerződő fél (az általa végezhető tevékenységek vonatkozásában) az általa elszámolt, illetve az általa elszámolásra közvetített ügylet, valamint az általa garantált ügyletek teljesítésének biztosítása érdekében működtetett garanciarendszer tekintetében e rendelet elszámolóházra vonatkozó rendelkezéseit a (2)–(5) bekezdésben foglalt eltérésekkel köteles alkalmazni.
+28/B. §[^262] (1) A szakosított hitelintézetként működő központi szerződő fél (az általa végezhető tevékenységek vonatkozásában) az általa elszámolt, illetve az általa elszámolásra közvetített ügylet, valamint az általa garantált ügyletek teljesítésének biztosítása érdekében működtetett garanciarendszer tekintetében e rendelet elszámolóházra vonatkozó rendelkezéseit a (2)–(5) bekezdésben foglalt eltérésekkel köteles alkalmazni.
 
 (2) A szakosított hitelintézetként működő központi szerződő félnek e rendelet
 
@@ -22,5 +22,5 @@ kapcsolatos, elszámolóházra vonatkozó előírásait nem kell alkalmaznia.
 
 (5) Ahol e rendelet a hatálya alá tartozó hitelintézet és pénzügyi vállalkozás elszámolóházzal szemben fennálló kapcsolatairól rendelkezik, az előírásokat a hitelintézet és a pénzügyi vállalkozás a szakosított hitelintézetként működő központi szerződő féllel szemben fennálló kapcsolataira a (2) bekezdésben felsorolt tevékenységekkel kapcsolatos előírások kivételével köteles alkalmazni.
 
-[^259]: A 28/B. §-t megelőző alcímet az 518/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
-[^260]: A 28/B. §-t az 518/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
+[^261]: A 28/B. §-t megelőző alcímet az 518/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
+[^262]: A 28/B. §-t az 518/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
