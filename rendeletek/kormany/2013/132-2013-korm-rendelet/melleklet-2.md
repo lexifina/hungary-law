@@ -488,7 +488,7 @@
 
 | 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | I. kerület, II. kerület, III. kerület, IV. kerület, V. kerület, VI. kerület, VII. kerület, VIII. kerület, IX. kerület, X. kerület, XI. kerület, XII. kerület, XIII. kerület, XIV. kerület, XV. kerület, XVI. kerület, XVII. kerület, XVIII. kerület, XIX. kerület, XX. kerület, XXI. kerület, XXII. kerület, XXIII. kerület | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Érdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | Örökségvédelmi hatósági engedélyezési eljárások | Érdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén a régészeti örökség és műemléki érték védelméért felelős miniszter |
+| 3. | Örökségvédelmi hatósági engedélyezési eljárások | Érdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén a kulturális örökség védelméért felelős miniszter |
 
 | 4. | Útügyi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -1176,8 +1176,8 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 11. | területrendezés | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának állami főépítésze | területrendezésért felelős miniszter |
 
-| 12. | régészet és műemlékvédelem | Érdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén a régészeti örökség és műemléki érték védelméért felelős miniszter |
+| 12. | régészet és műemlékvédelem | Érdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén a kulturális örökség védelméért felelős miniszter |
 
 | 13. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
 
-[^4]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 141. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 141. §-a, a 221/2014. (IX. 4.) Korm. rendelet 732. § b) pontja szerint módosított szöveg.

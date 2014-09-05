@@ -4,4 +4,4 @@
 
 [^1]: Az 5. §-t a 464/2013. (XII. 4.) Korm. rendelet 4. §-a iktatta be.
 [^2]: A hatálybalépés időpontja: 2013. december 5.
-[^3]: Az 1. melléklet 464/2013. (XII. 4.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet 464/2013. (XII. 4.) Korm. rendelet 5. §-a, a 221/2014. (IX. 4.) Korm. rendelet 732. § a) pontja szerint módosított szöveg.
