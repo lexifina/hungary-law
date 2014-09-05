@@ -18,6 +18,7 @@ c) a fő közlekedési létesítmény
 
 a) Budapest vonzáskörzetéhez tartozó települések, valamint az (1) bekezdés b) pontja szerinti városok esetén a települési önkormányzat, Budapest esetén a Fővárosi Önkormányzat (a továbbiakban együtt: kötelezett önkormányzat),
 
-b) fő közlekedési létesítmény esetén a gazdasági és közlekedési miniszter által kijelölt szervezet (a továbbiakban: fő közlekedési létesítmény kötelezettje).
+b)[^2] fő közlekedési létesítmény esetén a közlekedésért felelős miniszter által kijelölt szervezet (a továbbiakban: fő közlekedési létesítmény kötelezettje).
 
 [^1]: Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény.
+[^2]: Az 1. § (3) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 286. § a) pontja szerint módosított szöveg.
