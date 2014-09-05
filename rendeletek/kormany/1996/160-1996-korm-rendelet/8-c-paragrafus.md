@@ -28,7 +28,7 @@ a felelős.
 
 a)[^43] Magyarországon tartózkodó külföldi állampolgárságú védett személy esetén a külpolitikáért felelős miniszter,
 
-b)[^44] az ideiglenes védelemben részesített magyar állampolgárságú védett személy esetén a Miniszterelnökséget vezető államtitkár
+b)[^44] az ideiglenes védelemben részesített magyar állampolgárságú védett személy esetén a kormányzati tevékenység összehangolásáért felelős miniszter
 
 hozzájárult.
 
@@ -40,4 +40,4 @@ hozzájárult.
 [^41]: A 8/C. § (2) bekezdés b) pont bb) alpontja a 232/2010. (VIII. 19.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^42]: A 8/C. § (5) bekezdése a 282/2010. (XII. 15.) Korm. rendelet 9. § b) pontja, a 102/2012. (V. 18.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
 [^43]: A 8/C. § (5) bekezdés a) pontja a 276/2011. (XII. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^44]: A 8/C. § (5) bekezdés b) pontja a 232/2010. (VIII. 19.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^44]: A 8/C. § (5) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 170. § a) pontja szerint módosított szöveg.
