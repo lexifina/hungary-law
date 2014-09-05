@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-172-20-
 | 2014-09-01 | 2012-172-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-09-02 | 2012-172-20-22.8 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-09-03 | 2012-172-20-22.9 | 2010: CXXX. törvény |
+| 2014-09-05 | 2012-172-20-22.10 | 174/2014. (VII. 18.) Korm. rendelet |
