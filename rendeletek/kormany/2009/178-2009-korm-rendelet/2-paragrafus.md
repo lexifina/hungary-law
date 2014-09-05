@@ -4,7 +4,7 @@
 
 ## A kérelem
 
-2. § (1) A bor eredetmegjelölésének vagy földrajzi jelzésének közösségi oltalma iránti kérelmet a földművelésügyi és vidékfejlesztési miniszterhez (a továbbiakban: miniszter) kell benyújtani. A kérelem mellékletei elektronikus adathordozón is benyújthatók. A kérelemhez csatolni kell:
+2. § (1)[^1] A bor eredetmegjelölésének vagy földrajzi jelzésének közösségi oltalma iránti kérelmet az agrárpolitikáért felelős miniszterhez (a továbbiakban: miniszter) kell benyújtani. A kérelem mellékletei elektronikus adathordozón is benyújthatók. A kérelemhez csatolni kell:
 
 a) az 1234/2007/EK rendelet 118c. cikkének (1) bekezdésben, valamint a 607/2009/EK rendelet 3. cikkében és I. mellékletében meghatározott adatokat, illetve egyetlen kérelmező termelő esetében a 607/2009/EK rendelet 2. cikkének (1) bekezdésében meghatározott adatok részletes bemutatását, továbbá a termékleírást,
 
@@ -29,3 +29,5 @@ f) a termékleírás betartása ellenőrzésének elemeit és módszerét,
 g) az oltalom alatt álló eredetmegjelöléssel, vagy az oltalom alatt álló földrajzi jelzéssel ellátott borászati termékekkel kapcsolatos hegyközségi feladatok ellátásának rendjét, ideértve a borvidékbe nem sorolt települések esetében a hegyközségi feladatok ellátására a bortörvény felhatalmazása alapján kiadott jogszabályban kijelölt hegyközségi szervezet feladatai ellátásának módját.
 
 (3) A kérelemhez csatolni kell annak igazolását, hogy a termékleírást a hegyközségi tagok, illetve több hegyközséget érintő kérelem esetén az érintett hegyközségek tagjai megismerték, és azt szabályszerűen összehívott közgyűlésen véleményezték. A kérelemhez csatolni kell a kisebbségi véleményt is tartalmazó közgyűlési jegyzőkönyveket is.
+
+[^1]: A 2. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 450. § a) pontja szerint módosított szöveg.
