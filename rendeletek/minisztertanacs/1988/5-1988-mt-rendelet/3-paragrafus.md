@@ -2,9 +2,9 @@
 
 ## „Megállapodás
 
-## a Magyar Népköztársaság[^3] Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya között a beruházások ösztönzéséről és kölcsönös védelméről
+## a Magyar Népköztársaság[^4] Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya között a beruházások ösztönzéséről és kölcsönös védelméről
 
-## A Magyar Népköztársaság[^4] Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya
+## A Magyar Népköztársaság[^5] Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya
 
 ## ATTÓL AZ ÓHAJTÓL VEZETVE, hogy elmélyítsék gazdasági együttműködésüket előnyös feltételeket teremtve mindegyik állam beruházóinak a másik állam területén megvalósuló további beruházása számára;
 
@@ -170,7 +170,8 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1987. augusztus 27. napjától kezdődően kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+(2)[^6] A rendelet végrehajtásáról a nemzetközi pénzügyi kapcsolatokért felelős miniszter gondoskodik.
 
-[^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^4]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^5]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^6]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 106. §-a szerint módosított szöveg.
