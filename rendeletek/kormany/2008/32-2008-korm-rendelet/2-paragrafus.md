@@ -1,5 +1,0 @@
-## 1. § E rendeletet kell alkalmazni a költségvetési szerveknél foglalkoztatottak 2007. év után járó tizenharmadik havi illetménye 2008. évi elszámolásával összefüggő átcsoportosításokról szóló kormányhatározat (a továbbiakban: Korm. határozat) alapján átcsoportosított támogatás felhasználására és elszámolására, kivéve a XIII. Honvédelmi Minisztérium fejezetéhez tartozó költségvetési szerveket.
-
-2. § (1) Az 1. §-ban megjelölt támogatás kizárólag a foglalkoztatottak jogállása szerinti törvényben foglaltak szerint a 2007. év után járó tizenharmadik havi illetmény (munkabér) 2008. évi elszámolásával összefüggő személyi juttatásokra és az ahhoz kapcsolódó munkaadókat terhelő járulékokra igényelhető és használható fel.
-
-(2) A központi költségvetési szervek esetében nem vehető igénybe a támogatás a részben vagy egészben külön feladat ellátására kötött szerződésből – ide nem értve az Országos Egészségbiztosítási Pénztárral kötött finanszírozási szerződést – származó bevétel terhére foglalkoztatottak után.
