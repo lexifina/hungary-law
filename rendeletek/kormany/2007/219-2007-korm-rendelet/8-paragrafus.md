@@ -6,6 +6,6 @@
 
 (3) A 6. § (1) és (3) bekezdésében adatszolgáltatásra kötelezettek az e rendelet kihirdetését követő 6. hónap 1. napjáig teljeskörűen átadják a meghatározott adatokat a RIS működtetőjének és megállapodnak azzal a frissítés módjában.
 
-(4)[^5]
+(4)[^7]
 
-[^5]: A 8. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 562. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: A 8. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 562. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

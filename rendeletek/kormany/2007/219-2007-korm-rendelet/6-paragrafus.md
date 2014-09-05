@@ -16,7 +16,7 @@ ad) az egészségügyi közigazgatási szerveknél az egészségügyért felelő
 
 ae) a katasztrófavédelmi feladatokat ellátó szerveknél a katasztrófa elleni védekezésért felelős miniszter,
 
-af) a miniszter vezetése alatt álló minisztériumban a miniszter,
+af)[^5] a miniszter által vezetett minisztériumban a miniszter,
 
 ag) a hajózási hatóságoknál a Nemzeti Közlekedési Hatóság elnöke,
 
@@ -26,7 +26,7 @@ ai) a honvédelmi érdekből, vagyon-, illetve katasztrófavédelmi feladatok, t
 
 b) a RIS hatálya alá tartozó legalább IV. osztályú vízi utak hajózási térképként felhasználható, ECDIS-szabványnak megfelelő elektronikus alaptérképének átadásáról és folyamatos frissítéséről, valamint a vízállási és gázlóadatok átadásáról és folyamatos frissítéséről a vízügyért felelős miniszter,
 
-c) a RIS hatálya alá tartozó legalább IV. osztályú vízi utak partélétől, továbbá az e vízi utak mentén elhelyezkedő kikötők, illetve egyéb hajózási létesítmények, terminálok területétől legfeljebb 200 m távolságban elhelyezkedő ingatlanokra vonatkozó, a vidékfejlesztésért felelős miniszter felügyelete alá tartozó szerveknél nyilvántartott térképészeti adatok átadásáról, valamint az állategészségügyi hatóságoknál és a növényvédelmi hatósági feladatokat ellátó szerveknél keletkező, a 2. § a)–e) pontjában meghatározott adatok rögzítéséről és frissítéséről a földművelésügyért és vidékfejlesztésért felelős miniszter
+c)[^6] a RIS hatálya alá tartozó legalább IV. osztályú vízi utak partélétől, továbbá az e vízi utak mentén elhelyezkedő kikötők, illetve egyéb hajózási létesítmények, terminálok területétől legfeljebb 200 m távolságban elhelyezkedő ingatlanokra vonatkozó, a térképészetért felelős miniszter felügyelete alá tartozó szerveknél nyilvántartott térképészeti adatok átadásáról, valamint az állategészségügyi hatóságoknál és a növényvédelmi hatósági feladatokat ellátó szerveknél keletkező, a 2. § a)–e) pontjában meghatározott adatok rögzítéséről és frissítéséről az agrárpolitikáért felelős miniszter
 
 ## gondoskodik.
 
@@ -41,3 +41,5 @@ c) a RIS hatálya alá tartozó legalább IV. osztályú vízi utak partélétő
 (6) Az (1) és (3) bekezdésben meghatározott vezetők gondoskodnak a felügyeletük alá tartozó szerveknél a RIS- alkalmazás feltételeinek biztosításáról.
 
 [^4]: A 6. § (1) bekezdése a) pontjának ab) alpontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 70. pontjával megállapított szöveg.
+[^5]: A 6. § (1) bekezdés a) pont af) alpontja a 221/2014. (IX. 4.) Korm. rendelet 394. § a) pontja szerint módosított szöveg.
+[^6]: A 6. § (1) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 394. § b) pontja szerint módosított szöveg.
