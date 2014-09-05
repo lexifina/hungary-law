@@ -576,7 +576,8 @@
 
 (2) A Hágában, 1938. november 15-én aláírt egyezmény a kettős adóztatás elkerülésére az egyenesadók területén a Jegyzőkönyvvel együtt hatályát veszti, rendelkezései azonban érvényben maradnak arra az adózási évre és időszakra, amely az 1988. évi január hó 1. napját megelőzően ért véget.
 
-(3) A rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+(3)[^5] A rendelet végrehajtásáról az adópolitikáért felelős miniszter gondoskodik.
 
 [^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^4]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^5]: A 3. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 108. §-a szerint módosított szöveg.
