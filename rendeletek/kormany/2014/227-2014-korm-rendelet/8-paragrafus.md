@@ -1,0 +1,7 @@
+## 7. § A Beruházással érintett építmények, önálló rendeltetési egységek rendeltetésszerű használatához szükséges, az országos településrendezési és építési követelményekről szóló kormányrendelet szerint elhelyezendő személygépkocsik számát azzal az eltéréssel kell meghatározni, hogy egy személygépkocsi elhelyezését kell biztosítani iroda és egyéb önálló rendeltetési egységek huzamos tartózkodásra szolgáló helyiségeinek minden megkezdett 120 m2 nettó alapterülete után.
+
+8. § (1) A Beruházással érintett épület átalakításánál az általános érvényű tűzvédelmi követelmények alkalmazása során figyelembe kell venni a Beruházás megvalósítását megelőzően nyilvános rendezvények megtartására kialakított, de részben eltérő rendeltetésű épületrészek meglévő állapot szerinti tűzvédelmi kialakítását, főbb tűzvédelmi jellemzőit.
+
+(2) A Beruházással érintett épületek esetében az eltérő tűzszakaszok közötti, épületeket összekötő zárt közlekedő folyosók, hidak homlokzatainál nem kell az Országos Tűzvédelmi Szabályzatról szóló 28/2011. (IX. 6.) BM rendelet (a továbbiakban: OTSZ) 360. § (2) bekezdése szerinti tűzterjedési gátat kialakítani, ha a zárt közlekedő, híd mindkét vége Sm füstgátló ajtókkal kerül lezárásra, valamint a híd – a szigeteléseket és a hordozó rétegeket leszámítva – éghető anyagot nem tartalmaz.
+
+(3) A Beruházással érintett közigazgatási hatósági eljárásokban az OTSZ e rendelet hatálybalépésének napján hatályos rendelkezéseit kell alkalmazni.
