@@ -160,4 +160,6 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1984. évi február hó 24. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter gondoskodik.
+(2)[^1] E rendelet végrehajtásáról a közlekedésért felelős miniszter gondoskodik.
+
+[^1]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 94. §-ával megállapított szöveg.
