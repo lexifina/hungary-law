@@ -1,7 +1,10 @@
-2/A. §[^4] (1) A nyugdíjbiztosítási igazgatóság a fővárosi és megyei kormányhivatal szakigazgatási szerve.
+## 2. §[^5] A Nyugdíjfolyósító Igazgatóság a miniszter irányítása alá tartozó központi költségvetési szerv.
 
-(2) A nyugdíjbiztosítási igazgatóság tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 6. § (4) bekezdésében, valamint a 7. §-ában meghatározott hatáskörök – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés h)–i) pontja szerinti hatáskört is beleértve – gyakorlására jogosult szakmai irányító szerv vezetője az ONYF főigazgatója.
+2/A. §[^6] (1) A Nyugdíjfolyósító Igazgatóság középirányító szerve az ONYF.
 
-(3) A nyugdíjbiztosítási igazgatóság illetékességi területe – a fővárosi nyugdíjbiztosítási igazgatóság illetékességének kivételével – megegyezik a megyei kormányhivatal illetékességével. A fővárosi nyugdíjbiztosítási igazgatóság illetékessége Budapest főváros és Pest megye területére is kiterjed.
+(2) A Nyugdíjfolyósító Igazgatóság elsőfokú nyugdíj-megállapítási és nyugdíj-folyósítási feladat- és hatáskörrel rendelkezik.
 
-[^4]: A 2/A. §-t a 318/2010. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
+(3) A Nyugdíjfolyósító Igazgatóság a hatáskörébe tartozó feladatokat az ország egész területére kiterjedő illetékességgel látja el.
+
+[^5]: A 2. § a 221/2014. (IX. 4.) Korm. rendelet 350. §-ával megállapított szöveg.
+[^6]: A 2/A. §-t a 318/2010. (XII. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 351. §-ával megállapított szöveg.
