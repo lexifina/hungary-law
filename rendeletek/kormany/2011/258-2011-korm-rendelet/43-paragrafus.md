@@ -1,3 +1,3 @@
-## 42. §[^62]
+## 42. §[^58]
 
-[^62]: A 42. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^58]: A 42. §-t a 14. § (4) bekezdése hatályon kívül helyezte.

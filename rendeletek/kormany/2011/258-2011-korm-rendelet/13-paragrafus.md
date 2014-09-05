@@ -1,7 +1,0 @@
-13. § (1) A megállapodásban rendelkezni kell az átvett intézmények európai uniós társfinanszírozású projektjeire vonatkozó dokumentációnak az átadás-átvételéről.
-
-(2) Az átvevő kedvezményezett az európai uniós társfinanszírozású projektek tekintetében köteles a támogatásban érintett közreműködő szervezetnél az átadás-átvétel időpontjától számított 30 napon belül kezdeményezni a támogatási szerződés módosítását a projekt átadás-átvételi dokumentációját mellékelve.
-
-(3) A szerződésmódosításra vonatkozó kérelemben – a 2007–2013. programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló Kormányrendelet, valamint a támogatási szerződés vonatkozó rendelkezései alapján – jelezni kell minden olyan esetet, ami a támogatási szerződés módosítását teszi szükségessé, továbbá a módosítást megalapozó adatokat, információkat.
-
-(4) Az átvevő jogutód kedvezményezettnek a költségvetési törvény 1. számú melléklet XIX. Uniós Fejlesztések fejezet szerinti, az Európai Unió által vagy egyéb nemzetközi forrásokból társfinanszírozott projektjeinek végrehajtásához szükséges saját forrás a mindenkor hatályos költségvetési törvény XIX. Uniós Fejlesztések fejezet, 2. Fejezeti kezelésű előirányzatok cím, 7. Szakmai fejezeti kezelésű előirányzatok alcím, 8. Állami költségvetési kedvezményezettek sajáterő támogatása jogcímcsoporton keresztül – szükség esetén e jogcímcsoport a Kormány jóváhagyásával történő felülről nyitásával – kerül biztosításra.

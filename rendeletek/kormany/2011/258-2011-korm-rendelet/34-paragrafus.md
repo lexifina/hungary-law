@@ -1,3 +1,3 @@
-## 33. §[^46]
+## 33. §[^42]
 
-[^46]: A 33. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^42]: A 33. §-t a 14. § (4) bekezdése hatályon kívül helyezte.

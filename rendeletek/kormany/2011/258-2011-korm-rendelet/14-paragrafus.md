@@ -1,3 +1,5 @@
+## 12–13. §
+
 ## 8. Hatályba léptető és hatályon kívül helyező rendelkezések
 
 14. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
@@ -12,12 +14,12 @@ b) az R4. 1. § (3) bekezdése,
 
 c) az R8. 41. § (2a) bekezdése.
 
-(4)[^16]
+(4)[^17]
 
-(5)[^17]
+(5)[^18]
 
-(6)[^18]
+(6)[^19]
 
-[^16]: A 14. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 14. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 14. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 14. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 14. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 14. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

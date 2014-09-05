@@ -1,8 +1,8 @@
-## 4. § A megyei intézményfenntartó központ önállóan működő és gazdálkodó központi költségvetési szerv.
+## 4. §[^5]
 
-## 3. [^5] A kormánymegbízottnak a megyei intézményfenntartó központ 2012. évi költségvetése végrehajtásával kapcsolatos feladatai és jogkörei
+## 3. [^6] A kormánymegbízottnak a megyei intézményfenntartó központ 2012. évi költségvetése végrehajtásával kapcsolatos feladatai és jogkörei
 
-## 5. §[^6] A kormánymegbízott a megyei intézményfenntartó központ 2012. évi költségvetése végrehajtásával összefüggésben
+## 5. §[^7] A kormánymegbízott a megyei intézményfenntartó központ 2012. évi költségvetése végrehajtásával összefüggésben
 
 a) felülvizsgálja, értékeli és jóváhagyja a költségvetési beszámolót;
 
@@ -12,5 +12,6 @@ c) beszámoltatja a vezetőket a belső kontrollrendszer működtetéséről;
 
 d) felügyeli a belső kontrollrendszer és az annak részét képező ellenőrzés működéséről az államháztartásért felelős miniszter részére szóló beszámoló előkészítését.
 
-[^5]: A 3. alcím címét a 419/2012. (XII. 29.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte, újonnan a 75/2013. (III. 11.) Korm. rendelet 1. §-a iktatta be.
-[^6]: Az 5. §-t a 419/2012. (XII. 29.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte, újonnan a 75/2013. (III. 11.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 4. §-t a 221/2014. (IX. 4.) Korm. rendelet 587. §-a hatályon kívül helyezte.
+[^6]: A 3. alcím címét a 419/2012. (XII. 29.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte, újonnan a 75/2013. (III. 11.) Korm. rendelet 1. §-a iktatta be.
+[^7]: Az 5. §-t a 419/2012. (XII. 29.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte, újonnan a 75/2013. (III. 11.) Korm. rendelet 1. §-a iktatta be.

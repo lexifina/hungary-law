@@ -6,6 +6,6 @@ a) gyakorolja a Törvény alapján az állam fenntartásába, illetve tulajdoná
 
 b) vagyonkezelőként ellátja az a) pont szerinti intézményi vagyon tekintetében a vagyonkezelői feladatokat.
 
-(2)[^12]
+(2)[^13]
 
-[^12]: A 10. § (2) bekezdését a 372/2011. (XII. 31.) Korm. rendelet 12. § (2) bekezdése iktatta be, hatályon kívül helyezte a 419/2012. (XII. 29.) Korm. rendelet 5. § d) pontja.
+[^13]: A 10. § (2) bekezdését a 372/2011. (XII. 31.) Korm. rendelet 12. § (2) bekezdése iktatta be, hatályon kívül helyezte a 419/2012. (XII. 29.) Korm. rendelet 5. § d) pontja.
