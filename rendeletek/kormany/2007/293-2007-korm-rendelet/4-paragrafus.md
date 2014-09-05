@@ -32,4 +32,6 @@
 
 4. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2) E rendelet végrehajtásához szükséges intézkedésekről a külügyminiszter gondoskodik.
+(2)[^1] E rendelet végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter gondoskodik.
+
+[^1]: A 4. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 406. §-a szerint módosított szöveg.
