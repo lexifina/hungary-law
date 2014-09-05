@@ -1,5 +1,8 @@
 15. § (1) A koordinációs bizottság (a továbbiakban: bizottság) véleményező, javaslattevő, döntés-előkészítő testületi szerv, amely ügyrendjét maga határozza meg.
 
-(2) A bizottság elnökét és titkárát a közigazgatási személyzetpolitikáért felelős minisztérium közigazgatási államtitkára jelöli ki, tagjai a munkáltatók által delegált személyek. A bizottság elnöke további személyeket is meghívhat.
+(2)[^13] A bizottság elnökét és titkárát a közszolgálati életpálya kidolgozásáért felelős miniszter jelöli ki, tagjai a munkáltatók által delegált személyek. A bizottság elnöke további személyeket is meghívhat.
 
-(3) A bizottság szükség szerint, de legalább negyedévente ülésezik. A bizottság üléseiről emlékeztető készül, amelyet a közigazgatási személyzetpolitikáért felelős minisztérium közigazgatási államtitkárának kell megküldeni.
+(3)[^14] A bizottság szükség szerint, de legalább negyedévente ülésezik. A bizottság üléseiről emlékeztető készül, amelyet a közszolgálati életpálya kidolgozásáért felelős miniszternek kell megküldeni.
+
+[^13]: A 15. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 526. § d) pontja szerint módosított szöveg.
+[^14]: A 15. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 526. § e) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 1. §[^1] A rendelet hatálya a Miniszterelnökségre, a minisztériumokra és a Közigazgatási és Igazságügyi Hivatalra (a továbbiakban: Hivatal), valamint az e szervekkel jogviszonyban álló foglalkoztatottakra terjed ki.
+## 1/A. §[^2] A Kormány a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati személyügyi igazgatási feladatokat ellátó szervként a Hivatalt jelöli ki.
 
 ## Értelmező rendelkezések
 
@@ -14,7 +14,7 @@
 
 5. Interfész: két funkcionális egység összekapcsolhatóságát és együttműködését biztosító előírások összessége, a KSzSzR azon eleme, amely biztosítja a külső informatikai rendszerekkel történő kommunikációt (elektronikus adatátadás–átvétel);
 
-6.[^2] Munkáltató: a Miniszterelnökség, a minisztériumok és a Hivatal;
+6.[^3] Munkáltató: a minisztériumok és a Hivatal;
 
 7. Állománytábla: a munkáltató szervezeti felépítéséhez igazodó, az egyes szervezeti egységekhez rendelt álláshelyek és az álláshelyekhez szükséges ismérvek összessége;
 
@@ -30,11 +30,12 @@
 
 13. Szerepkör: a meghatározott feladatkörrel és annak ellátásához szükséges jogosultsággal felruházott felhasználói pozíció;
 
-14. Külső informatikai rendszerek működtetői: a Magyar Államkincstár és a Központi Szolgáltatási Főigazgatóság;
+14.[^4] Külső informatikai rendszerek működtetői: a Magyar Államkincstár és a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.;
 
 15. Jogosultság: egy adott szerepkört betöltő felhasználó számára biztosított, a KSzSzR használatát lehetővé tévő egyes jogok (felhatalmazások) összessége;
 
 16. Értékkészlet: a KSzSzR-ben rögzítendő egyes adatokra jellemző, választható elemek halmaza.
 
-[^1]: Az 1. § a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^2]: A 2. § 6. pontja a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^2]: Az 1/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 523. §-a iktatta be.
+[^3]: A 2. § 6. pontja a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 527. §-a szerint módosított szöveg.
+[^4]: A 2. § 14. pontja a 221/2014. (IX. 4.) Korm. rendelet 526. § a) pontja szerint módosított szöveg.
