@@ -1,4 +1,4 @@
-## 5. §[^1]
+## 5. §[^2]
 
 1. melléklet a 452/2013. (XI. 28.) Korm. rendelethez
 
@@ -20,4 +20,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 
 8. Azok a további hatósági engedélyezési eljárások, amelyek a beruházás megvalósításhoz közvetlenül szükségesek
 
-[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

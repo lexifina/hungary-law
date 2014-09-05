@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-452-20-
 | --- | --- | --- |
 | 2013-11-29 | 2013-452-20-22.1 | 452/2013. (XI. 28.) Korm. rendelet |
 | 2013-11-30 | 2013-452-20-22.2 | 2010: CXXX. törvény |
+| 2014-09-05 | 2013-452-20-22.3 | 221/2014. (IX. 4.) Korm. rendelet |
