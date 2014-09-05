@@ -116,6 +116,6 @@
 
 3. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1999. április 21. napjától kell alkalmazni.
 
-(2)[^1] E rendelet végrehajtásáról, valamint az Egyezmény végrehajtó testületeinek irányításáról a Miniszterelnöki Hivatalt vezető miniszter az Egyezmény tárgya szerint feladat- és hatáskörrel rendelkező miniszterek bevonásával gondoskodik.
+(2)[^1] E rendelet végrehajtásáról, valamint az Egyezmény végrehajtó testületeinek irányításáról a kormányzati tevékenység összehangolásáért felelős miniszter az Egyezmény tárgya szerint feladat- és hatáskörrel rendelkező miniszterek bevonásával gondoskodik.
 
-[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 107. pontja, a 208/2008. (VIII. 27.) Korm. rendelet 23. § (4) bekezdése szerint módosított szöveg.
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 107. pontja, a 221/2014. (IX. 4.) Korm. rendelet 194. §-a szerint módosított szöveg.
