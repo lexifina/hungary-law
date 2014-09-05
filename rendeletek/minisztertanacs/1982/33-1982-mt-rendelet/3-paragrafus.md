@@ -58,4 +58,6 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1982. június 11. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+(2)[^2] A rendelet végrehajtásáról az adópolitikáért felelős miniszter gondoskodik.
+
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 82. §-a szerint módosított szöveg.
