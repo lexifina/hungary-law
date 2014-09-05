@@ -52,7 +52,7 @@ m) szakmai háttérelemzésekkel segíti a magyar gazdaság megújítását szol
 
 n) ellátja Magyarország külgazdasági kapcsolatait érintő stratégiai elemzési, tervezési és előresjelzési feladatait.
 
-(3)[^3] A Hivatal a 2014–2020-as nemzeti szintű tervezési feladatok szakmai támogatása keretében
+(3)[^4] A Hivatal a 2014–2020-as nemzeti szintű tervezési feladatok szakmai támogatása keretében
 
 a) közreműködik a gazdaságfejlesztési célú források felhasználásával kapcsolatos központi tervezési, valamint az operatív programokhoz kapcsolódó szakmai koordinációs feladatokban;
 
@@ -66,7 +66,7 @@ e) közreműködik a Magyarország és az Európai Unió között a 2014–2020-
 
 f) kijelölés alapján részt vesz a programozási feladatok koordinációjában, módszertani minőségbiztosításban.
 
-(4)[^4] A Hivatal területfejlesztési tevékenysége körében
+(4)[^5] A Hivatal területfejlesztési tevékenysége körében
 
 a) közreműködik a területfejlesztéssel kapcsolatos stratégiai előkészítő, tervezési, koordinációs, elemző és értékelő feladatok ellátásában; így különösen közreműködik a területpolitikához kapcsolódó tervezetek előkészítésében, a területfejlesztési stratégiai tervezéshez kapcsolódó szabályozási feladatok ellátásában, a területfejlesztési tervezés szakmai rendszerének kidolgozásában, a város-vidék együttműködéséhez, a határon átnyúló és kiemelt térségekhez kapcsolódó területfejlesztési stratégiai feladatokban, valamint a területi elemzési, értékelési munka szakmai szintű koordinációjában, módszertani támogatásában;
 
@@ -88,11 +88,12 @@ e) a gazdaságfejlesztéshez kapcsolódó háttérintézeti feladatok ellátása
 
 f) egyes stratégiai programokhoz és kiemelt gazdaságfejlesztési területekhez kapcsolódó szakmai, információ beszerzési feladatok ellátása, elemzések, értékelések készítése;
 
-g) a minisztérium feladatkörébe tartozó szakpolitikák érvényesülésének és gazdasági versenyképességre gyakorolt hatásainak elemzése;
+g)[^6] a Kormány tagjának feladatkörébe tartozó szakpolitikák érvényesülésének és gazdasági versenyképességre gyakorolt hatásainak elemzése;
 
 h) egyes kiemelt stratégiai fejlesztési területekhez kapcsolódó szakmai feladatok, információ beszerzési feladatok, elemzések, értékelések koordinációja;
 
 i) a Magyarországon tervezett külföldi nagyberuházások ágazati hatásvizsgálatának elvégzése, a támogatási döntések (EKD) megalapozása.
 
-[^3]: A 4. § (3) bekezdése a 451/2013. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 4. § (4) bekezdése a 82/2014. (III. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 4. § (3) bekezdése a 451/2013. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 4. § (4) bekezdése a 82/2014. (III. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 4. § (5) bekezdés g) pontja a 221/2014. (IX. 4.) Korm. rendelet 584. §-a szerint módosított szöveg.
