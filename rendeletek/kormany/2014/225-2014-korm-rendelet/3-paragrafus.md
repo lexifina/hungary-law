@@ -1,0 +1,3 @@
+## 2. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A miniszter minden évben – az Európai Bizottság erre vonatkozó közlésétől számított 30 napon belül – tájékoztatja az energiapolitikáért felelős minisztert és a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaságot (a továbbiakban: MNV Zrt.) az adott évben az állam által az 1031/2010/EU bizottsági rendeletben meghatározott módon értékesíthető ÜHG-egységek mennyiségéről.”
