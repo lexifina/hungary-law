@@ -102,7 +102,7 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban az 1988. évi február hó 26. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról a külügyminiszter gondoskodik.
+(2)[^15] E rendelet végrehajtásáról a külpolitikáért felelős miniszter gondoskodik.
 
 [^6]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^7]: A Szovjet Szocialista Köztársaságok Szövetségének államisága megszűnt. Az államutódlást külön megállapodások rendezik.
@@ -113,3 +113,4 @@
 [^12]: A Szovjet Szocialista Köztársaságok Szövetségének államisága megszűnt. Az államutódlást külön megállapodások rendezik.
 [^13]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^14]: A Szovjet Szocialista Köztársaságok Szövetségének államisága megszűnt. Az államutódlást külön megállapodások rendezik.
+[^15]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 111. §-a szerint módosított szöveg.
