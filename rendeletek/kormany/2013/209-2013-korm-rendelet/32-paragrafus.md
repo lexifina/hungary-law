@@ -10,7 +10,7 @@
 
 (6) Nem lehet tag,
 
-a)[^6] aki a polgári jog szabályai szerint cselekvőképességet érintő gondnokság alatt áll,
+a)[^8] aki a polgári jog szabályai szerint cselekvőképességet érintő gondnokság alatt áll,
 
 b) akit bűncselekmény elkövetése miatt jogerősen szabadságvesztés büntetésre ítéltek, amíg a büntetett előélethez fűződő hátrányok alól nem mentesült, vagy
 
@@ -20,4 +20,4 @@ c) akivel szemben a 35. § (2) bekezdésében meghatározott összeférhetetlens
 
 (8) Az egyeztető szerv elnöke – ha az egyeztető szerv munkaterhe azt indokolja – elnökhelyettest jelölhet ki a tagok közül. Az elnököt akadályoztatása esetén az elnökhelyettes teljes jogkörrel helyettesíti. Elnökhelyettes hiányában az elnököt szükség esetén az általa az adott alkalommal történő helyettesítésre kijelölt tag a kijelölésben meghatározott körben helyettesítheti.
 
-[^6]: A 32. § (6) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
+[^8]: A 32. § (6) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
