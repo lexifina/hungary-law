@@ -1,3 +1,0 @@
-17. § (1) Ez a rendelet a megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló, 2009. április 23-i 2009/28/EK európai parlamenti és tanácsi irányelv 2. cikk h) pontjának való megfelelést szolgálja.
-
-(2) Ez a rendelet a bioüzemanyagokra és a folyékony bio-energiahordozókra vonatkozó, a gazdasági szereplők által a tagállamokhoz eljuttatandó bizonyos típusú információkról szóló, 2011. január 12-i 2011/13/EU bizottsági határozat 1. cikk c)–d) pontjának végrehajtásához szükséges rendelkezéseket állapít meg.

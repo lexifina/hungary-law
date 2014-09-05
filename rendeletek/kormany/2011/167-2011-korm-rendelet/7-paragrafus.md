@@ -1,1 +1,0 @@
-## „(5) A (4) bekezdés szerinti dokumentumokat 5 évig, az (1)–(2) bekezdés szerinti nyilvántartást, a BÜHG nyilvántartásból való törlést követő két évig kell megőrizni. A nyilvántartásnak biztosítania kell az utólagos adatmódosítás és adatvesztés kizárását.”
