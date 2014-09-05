@@ -208,8 +208,9 @@
 
 (3) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
 
-(4) E rendelet végrehajtásához szükséges intézkedésekről a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszter gondoskodik.
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
 
 [^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 11. Cikk első bekezdésében meghatározott időpontban lép hatályba. Az 1/2014. (I. 6.) KÜM közlemény alapján a hatálybalépés időpontja 2013. december 29.
 [^3]: Az 1/2014. (I. 6.) KÜM közlemény alapján a hatálybalépés időpontja 2013. december 29.
 [^4]: Lásd az 1/2014. (I. 6.) KÜM közleményt.
+[^5]: A 4. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 765. §-a szerint módosított szöveg.
