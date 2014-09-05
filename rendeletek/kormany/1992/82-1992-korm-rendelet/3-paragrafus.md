@@ -1,6 +1,4 @@
-## 2. §
-
-## A szolgálatteljesítés és kiképzés, valamint a munkaviszonyban állók munkavégzési kötelezettsége és díjazása szempontjából a Magyar Honvédségnél, a Honvédelmi Minisztériumban és a honvédelmi miniszter felügyelete alá tartozó katonai szervezeteknél a Magyar Honvédelem Napjára a munkaszüneti napokra vonatkozó rendelkezések az irányadók.
+## a Magyar Honvédelem Napjára a munkaszüneti napokra vonatkozó rendelkezések az irányadók.
 
 3. §
 
