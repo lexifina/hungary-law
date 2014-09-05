@@ -1,5 +1,0 @@
-5. § (1) Az 1. § (1) bekezdés szerinti támogatás vissza nem térítendő állami támogatás, amelynek folyósítása az önkormányzat útján történik.
-
-(2) Az önkormányzat a település részére megítélt keretösszeg terhére az e rendelet hatálybalépését megelőzően elvégzett kárfelmérés során az általa megbízott, az önkormányzattal foglalkoztatási jogviszonyban nem álló műszaki szakember megbízásának – a szakember által számlával igazolt – költségeire károsodott ingatlanonként legfeljebb bruttó 5000 forintot fordíthat.
-
-(3) Amennyiben a megyei újjáépítési bizottság a 4. § (1) bekezdése szerinti felülvizsgálat során úgy ítéli meg, hogy az e § (2) bekezdése szerinti kárfelmérést felülvizsgálja, úgy e feladat elvégzésére az önkormányzattal, illetve a megyei területfejlesztési tanáccsal foglalkoztatási jogviszonyban nem álló műszaki szakembert bízhat meg. A szakember megbízásának – a szakember által számlával igazolt – költségeire az önkormányzat a megyei újjáépítési bizottság igazolása alapján a települési keretösszegen felül károsult ingatlanonként legfeljebb 5000 forintot igényelhet.
