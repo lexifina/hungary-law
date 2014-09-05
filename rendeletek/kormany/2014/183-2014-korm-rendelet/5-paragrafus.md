@@ -2,4 +2,7 @@
 
 5. § (1) A Nemzeti Külgazdasági Hivatal (a továbbiakban: HITA) e rendelet hatálybalépését követően Nemzeti Befektetési Ügynökség néven működik tovább, a névváltozásra a költségvetési szerv folyamatos működése mellett kerül sor.
 
-(2) A HITA által a Nemzeti Külgazdasági Hivatalról szóló 265/2010. (XI. 19.) Korm. rendelet 5. § (2) bekezdése alapján az e rendelet hatálybalépését megelőzően ellátott feladatai tekintetében az MNKH Magyar Nemzeti Kereskedőház Zártkörűen Működő Részvénytársaságot kell általános jogutódnak tekinteni.
+(2)[^3] E rendeletnek az egyes kormányrendeleteknek a kormányzati szerkezetátalakítással összefüggő módosításáról szóló 221/2014. (IX. 4.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 3. § (3) bekezdésében meghatározott, a Módr. hatálybalépését[^4] megelőzően az MNKH Magyar Nemzeti Kereskedőház Zártkörűen Működő Részvénytársaság (a továbbiakban: MNKH Zrt.) által ellátott feladatai tekintetében az Ügynökséget kell az MNKH Zrt. általános jogutódjának tekinteni.
+
+[^3]: Az 5. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 843. §-ával megállapított szöveg.
+[^4]: A hatálybalépés időpontja 2014. szeptember 5.
