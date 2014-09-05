@@ -1,4 +1,4 @@
-5. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^324]
+5. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^329]
 
 A nyugellátás iránti igény bejelentéséhez csatolandó iratok
 
@@ -18,7 +18,7 @@ A nyugellátás iránti igény bejelentéséhez csatolandó iratok
 
 1.1.6. mezőgazdasági, halászati termelőszövetkezeti tagkönyv, a 1998. január 1-jét megelőző tagsággal szerzett szolgálati idő igazolására,
 
-1.1.7.[^325] egyházi igazolás az egyházi szolgálati viszonyban szerzett szolgálati idő igazolására,
+1.1.7.[^330] egyházi igazolás az egyházi szolgálati viszonyban szerzett szolgálati idő igazolására,
 
 1.1.8. kórházi zárójelentés a szolgálati idő alatt vagy az ezt követő harminc napon belül kezdődött kórházi ápolással 1998. január 1-jét megelőzően szerzett szolgálati idő igazolására.
 
@@ -76,5 +76,5 @@ A nyugellátás iránti igény bejelentéséhez csatolandó iratok
 
 5.2. a megyei és fővárosi kormányhivatal egészségbiztosítási szakigazgatási szervének vagy a társadalombiztosítási kifizetőhellyel rendelkező foglalkoztatónak a határozata az üzemi baleset vagy foglalkozási megbetegedés elismeréséről.
 
-[^324]: Az 5. számú mellékletet újonnan a 425/2012. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
-[^325]: Az 5. számú melléklet 1.1.7. pontja a 297/2013. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^329]: Az 5. számú mellékletet újonnan a 425/2012. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
+[^330]: Az 5. számú melléklet 1.1.7. pontja a 297/2013. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.

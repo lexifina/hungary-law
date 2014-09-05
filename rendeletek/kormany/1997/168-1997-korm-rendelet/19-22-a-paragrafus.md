@@ -1,3 +1,3 @@
-19–22/A. §[^58]
+19–22/A. §[^60]
 
-[^58]: A 19–22/A. §-t a 333/2011. (XII. 29.) Korm. rendelet 29. § i) pontja hatályon kívül helyezte.
+[^60]: A 19–22/A. §-t a 333/2011. (XII. 29.) Korm. rendelet 29. § i) pontja hatályon kívül helyezte.
