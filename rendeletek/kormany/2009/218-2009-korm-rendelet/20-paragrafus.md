@@ -8,7 +8,7 @@
 
 (4)[^27] A megye területrendezési tervét véleményezésre meg kell küldeni a 11. melléklet 1–11. és 13–16. pontjában meghatározottaknak.
 
-(5) A megyék kivételével az országra és a határ menti térségekre vonatkozó területrendezési tervet a külügyminiszter véleményezésre megküldi a szomszédos országok területrendezésért felelős miniszterének.
+(5)[^28] A megyék kivételével az országra és a határ menti térségekre vonatkozó területrendezési tervet a külpolitikáért felelős miniszter véleményezésre megküldi a szomszédos országok területrendezésért felelős miniszterének.
 
 (6) A határ menti megyék területrendezési tervét a kidolgozásért felelős szerv véleményezésre megküldi a szomszédos országok megyének megfelelő közigazgatási egységei részére.
 
@@ -20,3 +20,4 @@
 [^25]: A 20. § (2) bekezdése a 25/2014. (II. 7.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^26]: A 20. § (3) bekezdése a 25/2014. (II. 7.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
 [^27]: A 20. § (4) bekezdése a 67/2012. (IV. 5.) Korm. rendelet 22. § (7) bekezdésével megállapított, a 25/2014. (II. 7.) Korm. rendelet 16. § f) pontja szerint módosított szöveg.
+[^28]: A 20. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 452. § b) pontja szerint módosított szöveg.

@@ -6,9 +6,9 @@
 
 (4)[^17] A területfejlesztési koncepció elfogadására jogosult megyei önkormányzat vagy térségi fejlesztési tanács, kiemelt térség esetében a területfejlesztés stratégiai tervezéséért felelős miniszter dönt arról, hogy a (2) bekezdésben meghatározott előkészítő fázis elkészült munkarészei megfelelnek-e a további tervezés alapjául.
 
-(5)[^18] A területfejlesztési program elfogadására jogosult megyei önkormányzat vagy térségi fejlesztési tanács, kiemelt térség esetében a területfejlesztésért felelős miniszter dönt arról, hogy a (2) bekezdésben meghatározott előkészítő fázis elkészült munkarészei megfelelnek-e a további tervezés alapjául.
+(5)[^18] A területfejlesztési program elfogadására jogosult megyei önkormányzat vagy térségi fejlesztési tanács, kiemelt térség esetében a területfejlesztés stratégiai tervezéséért felelős miniszter dönt arról, hogy a (2) bekezdésben meghatározott előkészítő fázis elkészült munkarészei megfelelnek-e a további tervezés alapjául.
 
 [^15]: A 12. § (1) bekezdése a 67/2012. (IV. 5.) Korm. rendelet 22. § (3) bekezdésével megállapított szöveg.
 [^16]: A 12. § (3) bekezdése a 67/2012. (IV. 5.) Korm. rendelet 22. § (4) bekezdésével megállapított szöveg.
 [^17]: A 12. § (4) bekezdése a 67/2012. (IV. 5.) Korm. rendelet 22. § (4) bekezdésével megállapított szöveg.
-[^18]: A 12. § (5) bekezdését a 67/2012. (IV. 5.) Korm. rendelet 22. § (5) bekezdése iktatta be.
+[^18]: A 12. § (5) bekezdését a 67/2012. (IV. 5.) Korm. rendelet 22. § (5) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 452. § a) pontja szerint módosított szöveg.
