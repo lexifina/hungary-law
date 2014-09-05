@@ -102,6 +102,6 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1980. évi augusztus hó 6. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról az egészségügyi[^3] miniszter gondoskodik.
+(2)[^3] E rendelet végrehajtásáról az egészségügyért felelős miniszter gondoskodik.
 
-[^3]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^3]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 66. §-ával megállapított szöveg.
