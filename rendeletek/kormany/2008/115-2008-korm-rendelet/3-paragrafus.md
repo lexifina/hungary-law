@@ -134,4 +134,6 @@
 
 3. § (1) E rendelet a kihirdetését követő napon lép hatályba.
 
-(2) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért és a kultúráért felelős miniszter gondoskodik.
+(2)[^1] E rendelet végrehajtásáról az oktatásért felelős miniszter és a kultúráért felelős miniszter gondoskodik.
+
+[^1]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 427. §-ával megállapított szöveg. [Nem vezethető át a 238/2022. (VI. 30.) Korm. rendelet 68. §-ában foglalt módosítás, mely szerint az „az oktatásért felelős miniszter és a szakképzésért felelős miniszter, a kultúráért felelős miniszter” szövegrész helyébe az „a köznevelésért felelős miniszter, a szakképzésért felelős miniszter, a felsőoktatásért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter” szöveg lép.]
