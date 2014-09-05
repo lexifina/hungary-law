@@ -1,1 +1,0 @@
-A Kormány a közbeszerzésekről szóló 2003. évi CXXIX. törvény 404. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
