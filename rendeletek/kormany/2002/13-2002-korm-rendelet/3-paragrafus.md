@@ -218,4 +218,6 @@
 
 3. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 2002. év január hó 1. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról a nemzeti kulturális örökség minisztere gondoskodik.
+(2)[^1] E rendelet végrehajtásáról a kultúráért felelős miniszter gondoskodik.
+
+[^1]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 234. §-a szerint módosított szöveg.
