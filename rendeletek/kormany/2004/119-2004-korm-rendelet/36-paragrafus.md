@@ -1,6 +1,6 @@
 ## 35. § A SAPARD program pénzügyi lebonyolításában részt vevő intézmények közötti együttműködés részletes feltételeit az Együttműködési Megállapodás rögzíti.
 
-## 36. §[^42] A Kincstár
+## 36. §[^45] A Kincstár
 
 a) felelős a SAPARD euró számla megnyitásáért és kezeléséért az Áht. előírásai szerint,
 
@@ -14,4 +14,4 @@ e) ellenőrzi és jóváhagyásra előkészíti a Nemzeti Programengedélyező r
 
 f) ellenőrzi és jóváhagyásra előkészíti a Nemzeti Programengedélyező részére az MVH által a 117/2001. (VI. 30.) Korm. rendeletben foglaltak szerint, és a szükséges dokumentumokkal alátámasztott EU támogatás végső átutalás igénylését, majd továbbítja az Európai Bizottság részére.
 
-[^42]: A 36. § nyitó szövegrésze a 113/2011. (VII. 7.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^45]: A 36. § nyitó szövegrésze a 113/2011. (VII. 7.) Korm. rendelet 18. §-ával megállapított szöveg.
