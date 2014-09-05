@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-318-20-
 | 2013-08-29 | 2013-318-20-22.1 | 318/2013. (VIII. 28.) Korm. rendelet |
 | 2013-08-30 | 2013-318-20-22.2 | 2010: CXXX. törvény |
 | 2014-01-01 | 2013-318-20-22.3 | 527/2013. (XII. 30.) Korm. rendelet |
+| 2014-09-05 | 2013-318-20-22.4 | 221/2014. (IX. 4.) Korm. rendelet |
