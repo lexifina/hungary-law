@@ -1,1 +1,0 @@
-A Kormány – a Magyar Köztársaság 2007. évi költségvetéséről szóló 2006. évi CXXVII. törvény 84. §-ának c) pontjában kapott felhatalmazás alapján – az egészségügyi struktúraváltásból fakadó önkormányzati kötelezettségek támogatásának szándékával a következőket rendeli el:
