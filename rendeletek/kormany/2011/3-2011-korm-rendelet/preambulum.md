@@ -1,1 +1,0 @@
-A Kormány a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény 8. § (3) bekezdésében, valamint a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 10. § (1) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
