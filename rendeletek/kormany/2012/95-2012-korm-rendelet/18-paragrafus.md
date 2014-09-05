@@ -14,6 +14,6 @@ d) a jogszabály vagy az eljáró hatóság által rendszeresített formanyomtat
 
 a) a települési önkormányzat jegyzőjétől tájékoztatást kérhet az érintett személy szociális helyzetére, szociális ellátásra való jogosultságára vonatkozó adatokról, körülményekről,
 
-b)[^11] a járási hivatal munkaügyi kirendeltségétől tájékoztatást kérhet az érintett személy vonatkozásában az adott térség munkaerő-piaci helyzetéről.
+b)[^13] a járási hivatal munkaügyi kirendeltségétől tájékoztatást kérhet az érintett személy vonatkozásában az adott térség munkaerő-piaci helyzetéről.
 
-[^11]: A 18. § (2) bekezdés b) pontja a 317/2012. (XI. 13.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
+[^13]: A 18. § (2) bekezdés b) pontja a 317/2012. (XI. 13.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 6. A rehabilitációs szakigazgatási szervek, valamint a Hivatal eljárására vonatkozó szabályok
 
-16. § (1)[^8] A rehabilitációs szakigazgatási szerv és a Hivatal a 13. és 14. § szerinti eljárásokban bizottsági állásfoglalás alapján hozza meg döntését, szakhatósági állásfoglalását, szakvéleményét. A szakértői bizottság tagjait és elnökét az eljáró szerv vezetője jelöli ki. A szakértői bizottság elnökének csak kormányzati szolgálati jogviszonyban álló orvosszakértő jelölhető ki. A szakértői bizottság elnöke legalább az osztályvezetővel azonos illetményben és juttatásokban részesül.
+16. § (1)[^10] A rehabilitációs szakigazgatási szerv és a Hivatal a 13. és 14. § szerinti eljárásokban bizottsági állásfoglalás alapján hozza meg döntését, szakhatósági állásfoglalását, szakvéleményét. A szakértői bizottság tagjait és elnökét az eljáró szerv vezetője jelöli ki. A szakértői bizottság elnökének csak kormányzati szolgálati jogviszonyban álló orvosszakértő jelölhető ki. A szakértői bizottság elnöke legalább az osztályvezetővel azonos illetményben és juttatásokban részesül.
 
 (2) A szakértői bizottság – jogszabály eltérő rendelkezése hiányában – legalább két tagból áll. A szakértői bizottság komplex minősítés során legalább négy tagból áll.
 
@@ -20,12 +20,12 @@ a) szociális szakértőként az Országos Szociálpolitikai Szakértői Névjeg
 
 b) foglalkozási rehabilitációs szakértőként a Foglalkozási Rehabilitációs Szakértői Névjegyzékben
 
-c)[^9] orvosszakértőként a Rehabilitációs Orvosszakértői Névjegyzékben
+c)[^11] orvosszakértőként a Rehabilitációs Orvosszakértői Névjegyzékben
 
 ## szereplő szakértőt lehet igénybe venni.
 
-(6)[^10] A szakértői bizottságnak nem lehet tagja, aki részt vett vagy részt vesz az érintett személy gyógykezelésében, szociális gondozásában.
+(6)[^12] A szakértői bizottságnak nem lehet tagja, aki részt vett vagy részt vesz az érintett személy gyógykezelésében, szociális gondozásában.
 
-[^8]: A 16. § (1) bekezdése 317/2012. (XI. 13.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
-[^9]: A 16. § (5) bekezdés c) pontját a 317/2012. (XI. 13.) Korm. rendelet 47. § (2) bekezdése iktatta be.
-[^10]: A 16. § (6) bekezdése a 317/2012. (XI. 13.) Korm. rendelet 49. § a) pontja szerint módosított szöveg.
+[^10]: A 16. § (1) bekezdése 317/2012. (XI. 13.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^11]: A 16. § (5) bekezdés c) pontját a 317/2012. (XI. 13.) Korm. rendelet 47. § (2) bekezdése iktatta be.
+[^12]: A 16. § (6) bekezdése a 317/2012. (XI. 13.) Korm. rendelet 49. § a) pontja szerint módosított szöveg.

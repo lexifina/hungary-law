@@ -52,10 +52,10 @@ k) a felsőoktatásban részt vevő hallgatók fogyatékosságáról.
 
 (5) A rehabilitációs szakigazgatási szerv és a Hivatal erre irányuló kérelem esetén a komplex minősítés keretében szakvéleményt ad a közlekedőképességről is.
 
-(6)[^7] A rehabilitációs szakigazgatási szerv a (3) bekezdés e) pontja szerinti vizsgálatot
+(6)[^9] A rehabilitációs szakigazgatási szerv a (3) bekezdés e) pontja szerinti vizsgálatot
 
 a) a gépjárműadóról szóló törvény szerinti gépjárműadó-mentességre való jogosultság igazolásához a települési önkormányzat (a fővárosban a fővárosi kerületi önkormányzat) jegyzőjének,
 
 b) a lakáscélú állami támogatásokról szóló kormányrendelet szerinti akadálymentesítési támogatásra való jogosultság igazolásához a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának
 
-[^7]: A 13. § (6) bekezdését az 509/2013. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^9]: A 13. § (6) bekezdését az 509/2013. (XII. 29.) Korm. rendelet 21. §-a iktatta be.

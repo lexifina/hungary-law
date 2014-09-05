@@ -2,7 +2,7 @@
 
 a) az adott területre szolgáltatási típusonként, a költségvetési források és a területi lefedettség figyelembevételével meghatározott befogadható kapacitások (a továbbiakban: kapacitás),
 
-b)[^12] a nem állami fenntartású – ide nem értve az egyházi fenntartású – házi segítségnyújtás 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszámának 2012. július 1-jétől történő befogadása esetében az Szt. 58/A. § (2b)–(2c) bekezdése szerinti önkormányzati hozzájárulás
+b)[^14] a nem állami fenntartású – ide nem értve az egyházi fenntartású – házi segítségnyújtás 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszámának 2012. július 1-jétől történő befogadása esetében az Szt. 58/A. § (2b)–(2c) bekezdése szerinti önkormányzati hozzájárulás
 
 ## alapján adja ki.
 
@@ -10,7 +10,7 @@ b)[^12] a nem állami fenntartású – ide nem értve az egyházi fenntartású
 
 (3) Az adott évre még rendelkezésre álló kapacitást a Hivatal minden hónap 5. napjáig közzéteszi a honlapján. A befogadásra a szakhatósági eljárások megindulásának sorrendjében a kapacitás erejéig van lehetőség. A működést engedélyező szerv – amennyiben a kérelemhez előzetes szakhatósági hozzájárulást nem csatoltak – a kérelmek benyújtásának sorrendjében keresi meg a szakhatóságot.
 
-(4)[^13]
+(4)[^15]
 
 (5) A Hivatal által a befogadás során kiadott szakhatósági állásfoglalás a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon kívül tartalmazza a befogadott
 
@@ -18,5 +18,5 @@ a) szolgáltató, intézmény, hálózat megnevezését és ellátási terület�
 
 b) ellátotti számot, illetve férőhelyszámot.
 
-[^12]: A 21. § (1) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 76. §-a szerint módosított szöveg.
-[^13]: A 21. § (4) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 50. §-a hatályon kívül helyezte.
+[^14]: A 21. § (1) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 76. §-a szerint módosított szöveg.
+[^15]: A 21. § (4) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 50. §-a hatályon kívül helyezte.
