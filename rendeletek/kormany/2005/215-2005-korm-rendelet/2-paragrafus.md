@@ -1,1 +1,0 @@
-## nélküli összegére kell végrehajtani.
