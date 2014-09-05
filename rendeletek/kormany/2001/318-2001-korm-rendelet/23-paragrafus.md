@@ -1,6 +1,6 @@
-23. §[^53] E rendeletnek a magyar igazolvány és a magyar hozzátartozói igazolvány kiadásával kapcsolatos eljárásról szóló 318/2001. (XII. 29.) Korm. rendelet módosításáról szóló 373/2012. (XII. 18.) Korm. rendelettel (a továbbiakban: R.) megállapított rendelkezéseit – az R. hatálybalépését[^54] követően indult eljárásokban kell alkalmazni.
+23. §[^54] E rendeletnek a magyar igazolvány és a magyar hozzátartozói igazolvány kiadásával kapcsolatos eljárásról szóló 318/2001. (XII. 29.) Korm. rendelet módosításáról szóló 373/2012. (XII. 18.) Korm. rendelettel (a továbbiakban: R.) megállapított rendelkezéseit – az R. hatálybalépését[^55] követően indult eljárásokban kell alkalmazni.
 
-Melléklet a 318/2001. (XII. 29.) Korm. rendelethez[^55]
+Melléklet a 318/2001. (XII. 29.) Korm. rendelethez[^56]
 
 A „Magyar igazolvány”, valamint a „Magyar hozzátartozói igazolvány” kézbesítésében közreműködő fővárosi és megyei kormányhivatalok
 
@@ -34,6 +34,6 @@ A „Magyar igazolvány”, valamint a „Magyar hozzátartozói igazolvány” 
 
 | 14 | Budapest Főváros Kormányhivatala | Budapest | Jogosultak, a lakóhelyüktől függetlenül |
 
-[^53]: A 23. §-t a 373/2012. (XII. 18.) Korm. rendelet 10. §-a iktatta be.
-[^54]: A hatálybalépés napja: 2013. január 1.
-[^55]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 87. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 27. § c) és d) pontja szerint módosított szöveg.
+[^54]: A 23. §-t a 373/2012. (XII. 18.) Korm. rendelet 10. §-a iktatta be.
+[^55]: A hatálybalépés napja: 2013. január 1.
+[^56]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 87. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 27. § c) és d) pontja szerint módosított szöveg.
