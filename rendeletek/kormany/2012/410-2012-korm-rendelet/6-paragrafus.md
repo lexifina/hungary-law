@@ -1,9 +1,10 @@
 ## 3. Az állami vagyonba tartozó ÜHG-egységekkel való rendelkezés
 
-6. §[^12] (1) A miniszter minden évben – az Európai Bizottság erre vonatkozó közlésétől számított 30 napon belül – tájékoztatja a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaságot (a továbbiakban: MNV Zrt.) az adott évben a Magyar Állam által az 1031/2010/EU bizottsági rendeletben meghatározott módon értékesíthető ÜHG-egységek mennyiségéről.
+6. §[^12] (1)[^13] A miniszter minden évben – az Európai Bizottság erre vonatkozó közlésétől számított 30 napon belül – tájékoztatja az energiapolitikáért felelős minisztert és a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaságot (a továbbiakban: MNV Zrt.) az adott évben az állam által az 1031/2010/EU bizottsági rendeletben meghatározott módon értékesíthető ÜHG-egységek mennyiségéről.
 
 (2) A miniszter minden évben tájékoztatja az MNV Zrt.-t a nemzeti kiosztási tábla, valamint a nemzeti légiközlekedési kiosztási tábla alapján az adott évben az üzemeltetők és a légi jármű üzembentartók részére ingyenesen kiosztásra került ÜHG-egységek mennyiségéről – a nemzeti kiosztási táblának és a nemzeti légiközlekedési kiosztási táblának az Európai Bizottság által történő jóváhagyását követő 30 napon belül.
 
 (3) A nemzeti kiosztási tábla és a nemzeti légiközlekedési kiosztási tábla módosítása esetén – az Európai Bizottság vonatkozó jóváhagyását követő 30 napon belül – a miniszter tájékoztatja az MNV Zrt.-t.
 
 [^12]: A 6. § a 329/2013. (IX. 3.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^13]: A 6. § (1) bekezdése a 225/2014. (IX. 4.) Korm. rendelet 2. §-ával megállapított szöveg.

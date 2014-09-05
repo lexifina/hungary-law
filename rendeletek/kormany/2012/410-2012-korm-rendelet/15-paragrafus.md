@@ -1,4 +1,4 @@
-## 6.[^30] A kibocsátás-csökkentési egység (ERU) és az igazolt kibocsátás-csökkentési egység (CER) beszámítása és átváltása
+## 6.[^32] A kibocsátás-csökkentési egység (ERU) és az igazolt kibocsátás-csökkentési egység (CER) beszámítása és átváltása
 
 15. § (1) Az Ügkr. tv. 29. §-a szerinti beszámítás és átváltás során – a (2) bekezdés szerinti kivétellel – a következő egységek használhatók fel:
 
@@ -14,4 +14,4 @@ d) olyan, a projektekből vagy más kibocsátás-csökkentést eredményező tev
 
 (3) Az Ügkr. tv. 29. § (1) bekezdésében foglalt átváltás iránti kérelmet a Minisztérium honlapján közzétett adatlap felhasználásával kell benyújtani.
 
-[^30]: A 6. alcím (15. §) a 329/2013. (IX. 3.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^32]: A 6. alcím (15. §) a 329/2013. (IX. 3.) Korm. rendelet 17. §-ával megállapított szöveg.
