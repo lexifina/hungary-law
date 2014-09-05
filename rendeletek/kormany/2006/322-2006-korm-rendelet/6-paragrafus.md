@@ -22,10 +22,11 @@ f) szülő nő, illetve újszülött/koraszülött első egészségügyi szakell
 
 (6) A Mentőszolgálat a sürgősségi betegellátás keretében földi és légi mentési feladatokat lát el.
 
-(7) A Mentőszolgálat légi mentési feladatait az általa alapított, egyszemélyes vagyonkezelésében és szakmai felügyelete alatt álló OMSZ Légimentő Közhasznú Társaság útján látja el.
+(7)[^7] A Mentőszolgálat légi mentési feladatait az általa alapított, egyszemélyes vagyonkezelésében és szakmai felügyelete alatt álló OMSZ Magyar Légimentő Nonprofit Korlátolt Felelősségű Társaság útján látja el.
 
 (8) A Mentőszolgálat feladatkörében országosan működteti a sürgősségi segélyhívó szám(ok)hoz kapcsolódó mentésirányítási rendszert.
 
-(9)[^2] A Mentőszolgálat Budapest és Pest megye területén ellátja az egészségügyről szóló 1997. évi CLIV. törvény 93. § (3)–(6) bekezdésén alapuló sürgősségi ügyeleti ellátással kapcsolatos feladatokat.
+(9)[^8] A Mentőszolgálat Budapest és Pest megye területén ellátja az egészségügyről szóló 1997. évi CLIV. törvény 93. § (3)–(6) bekezdésén alapuló sürgősségi ügyeleti ellátással kapcsolatos feladatokat.
 
-[^2]: A 6. § (9) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 45. §-a iktatta be.
+[^7]: A 6. § (7) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 368. § b) pontja szerint módosított szöveg.
+[^8]: A 6. § (9) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 45. §-a iktatta be.
