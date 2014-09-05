@@ -6,7 +6,7 @@
 
 a) hat tagot az oktatásért felelős miniszter (a továbbiakban: miniszter),
 
-b) egy tagot az agrár-vidékfejlesztésért felelős miniszter,
+b)[^1] egy tagot az agrárpolitikáért felelős miniszter,
 
 c) egy tagot a szakképzésért és felnőttképzésért felelős miniszter,
 
@@ -25,3 +25,5 @@ h) egy tagot az Országos Nemzetiségi Tanács
 (3) A Tanács a tagjai közül megválasztja az elnökét és más tisztségviselőit, valamint meghatározza a működésének rendjét. A Tanács elnökét a miniszter ötéves időtartamra bízza meg.
 
 (4) A Tanács titkársági feladatait az Oktatási Hivatal látja el. A Tanács a feladatainak ellátásához szakértőt vehet igénybe. A Tanács működésével kapcsolatos költségeket a miniszter által vezetett minisztérium költségvetésében elkülönítetten kell megtervezni.
+
+[^1]: A 2. § (2) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 789. §-a szerint módosított szöveg.

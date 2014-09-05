@@ -6,4 +6,6 @@
 
 a) nyilvános pályázatot írhat ki szakképzési tankönyv megírására, tankönyvkiadás támogatására, illetve
 
-b) megállapodást köthet az Intézettel – az agrár-vidékfejlesztésért felelős miniszter esetében a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézettel – a szakképzési tankönyv előállítására.
+b)[^2] megállapodást köthet az Intézettel – az agrárpolitikáért felelős miniszter esetében a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézettel – a szakképzési tankönyv előállítására.
+
+[^2]: A 9. § (2) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 789. §-a szerint módosított szöveg.
