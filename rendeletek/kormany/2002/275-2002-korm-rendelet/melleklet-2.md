@@ -1,20 +1,18 @@
 ## Az OKSER tagjai
 
-## 1.[^5] Önkormányzati és Területfejlesztési Minisztérium,
+## 1.[^7] Belügyminisztérium,
 
-## 2. Egészségügyi, Szociális és Családügyi Minisztérium,
+## 2.[^8] Emberi Erőforrások Minisztériuma,
 
-## 3. Földművelésügyi és Vidékfejlesztési Minisztérium,
+## 3.[^9] Földművelésügyi Minisztérium,
 
-## 4. Gazdasági és Közlekedési Minisztérium,
+## 4.[^10] Nemzeti Fejlesztési Minisztérium,
 
 ## 5. Honvédelmi Minisztérium,
 
-## 6. Környezetvédelmi és Vízügyi Minisztérium,
+## 6–7.[^11]
 
-## 7. Oktatási Minisztérium,
-
-## 8.[^6] Miniszterelnöki Hivatal Nemzetbiztonsági Iroda,
+## 8.[^12] Miniszterelnökség,
 
 ## 9. Magyar Tudományos Akadémia,
 
@@ -26,5 +24,9 @@
 
 2. számú melléklet a 275/2002. (XII. 21.) Korm. rendelethez
 
-[^5]: Az 1. számú melléklet 1. pontja a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 156. pontja szerint módosított szöveg.
-[^6]: Az 1. számú melléklet 8. pontja a 129/2006. (VI. 15.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést 2006. június 9-étől kell alkalmazni.
+[^7]: Az 1. számú melléklet 1. pontja a 221/2014. (IX. 4.) Korm. rendelet 238. § c) pontjával megállapított szöveg.
+[^8]: Az 1. számú melléklet 2. pontja a 221/2014. (IX. 4.) Korm. rendelet 238. § d) pontjával megállapított szöveg.
+[^9]: Az 1. számú melléklet 3. pontja a 221/2014. (IX. 4.) Korm. rendelet 238. § e) pontja szerint módosított szöveg.
+[^10]: Az 1. számú melléklet 4. pontja a 221/2014. (IX. 4.) Korm. rendelet 238. § f) pontja szerint módosított szöveg.
+[^11]: Az 1. számú melléklet 6–7. pontját a 221/2014. (IX. 4.) Korm. rendelet 239. §-a hatályon kívül helyezte.
+[^12]: Az 1. számú melléklet 8. pontja a 221/2014. (IX. 4.) Korm. rendelet 238. § g) pontjával megállapított szöveg.

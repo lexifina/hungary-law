@@ -2,7 +2,7 @@
 
 (2) Az OKSER tagjai saját ellenőrzési programjaikat úgy állítják össze, hogy azok a vizsgált minták, mintavételi és mérési gyakoriság, a vizsgálandó radionuklidok és azok kimutatási határa tekintetében megfeleljenek e rendelet 4. számú mellékletében foglaltaknak is.
 
-(3) Az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 16/2000. (VI. 8.) EüM rendelet 7. számú melléklet függeléke szerinti kiemelt létesítményeknél a Működési Rendben meghatározott hatósági környezeti sugárvédelmi ellenőrzést kell végezni az engedélyes, valamint az Egészségügyi, Szociális és Családügyi Minisztérium, a Földművelésügyi és Vidékfejlesztési Minisztérium, valamint a Környezetvédelmi és Vízügyi Minisztérium ellenőrző rendszerei, illetve ellenőrző hálózatainak bevonásával.
+(3)[^5] Az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 16/2000. (VI. 8.) EüM rendelet 7. számú melléklet függeléke szerinti kiemelt létesítményeknél a Működési Rendben meghatározott hatósági környezeti sugárvédelmi ellenőrzést kell végezni az engedélyes, valamint az egészségügyért felelős miniszter által vezetett minisztérium, környezetvédelemért felelős miniszter által vezetett minisztérium és az agrárpolitikáért felelős miniszter által vezetett minisztérium ellenőrző rendszerei, illetve ellenőrző hálózatainak bevonásával.
 
 (4) Az IK-ba beküldött ellenőrzési eredmények egységes minőségének biztosítása érdekében rendszeres összehasonlító méréseket kell szervezni.
 
@@ -13,3 +13,5 @@
 (7) Az ellenőrzési eredményekkel a beküldő OKSER tag rendelkezik. Az ellenőrzési eredményeket az OKSER tagjai nem kereskedelmi célú feldolgozások és elemzések készítéséhez felelősségi területükön a beküldő hozzájárulásával és megnevezésével térítésmentesen felhasználhatják.
 
 (8) Az IK az ellenőrzési eredményeket feldolgozások és elemzések készítéséhez kizárólag a Működési Rendben meghatározott módon használhatja fel.
+
+[^5]: A 4. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 238. § a) pontja szerint módosított szöveg.
