@@ -1,3 +1,5 @@
 ## 7. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-8. § Az Eszterháza Központ a fertődi Esterházy-kastéllyal kapcsolatos feladatok és jogviszonyok tekintetében a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ jogutódja.
+8. §[^6]
+
+[^6]: A 8. §-t a 221/2014. (IX. 4.) Korm. rendelet 805. §-a hatályon kívül helyezte.
