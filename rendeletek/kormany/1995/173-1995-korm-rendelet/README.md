@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-173-20-
 | 2012-01-01 | 1995-173-20-22.33 | 333/2011. (XII. 29.) Korm. rendelet |
 | 2012-07-01 | 1995-173-20-22.34 | 387/2007. (XII. 23.) Korm. rendelet |
 | 2013-08-01 | 1995-173-20-22.35 | 305/2013. (VII. 31.) Korm. rendelet |
+| 2014-09-05 | 1995-173-20-22.36 | 110/1999. (VII. 7.) Korm. rendelet |

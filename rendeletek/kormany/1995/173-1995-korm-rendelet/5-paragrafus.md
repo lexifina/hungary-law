@@ -2,7 +2,7 @@
 
 a) 1956-os Emlékéremmel vagy 1956-os Emléklappal rendelkező személyek esetén a Köztársasági Elnök Hivatala,
 
-b)[^12] a Nemzeti Ellenállásért Emléklappal, illetve a Szabad Magyarországért Emléklappal rendelkező személyek esetében a Miniszterelnöki Hivatal
+b)[^12] a Nemzeti Ellenállásért Emléklappal, illetve a Szabad Magyarországért Emléklappal rendelkező személyek esetében a kormányzati tevékenység összehangolásáért felelős miniszter
 
 a kitüntetés adományozását követő 8 napon belül megküldi a pótlékot folyósító szerv részére.
 
@@ -15,7 +15,7 @@ a kitüntetés adományozását követő 8 napon belül megküldi a pótlékot f
 (5)[^15] A pótlékot a folyósító szerv 1996. január 1-jétől kezdődően, az esedékesség hónapjában a nyugellátással, illetőleg a folyósító szerv által folyósított rendszeres pénzbeli ellátással együtt — ennek hiányában önállóan — folyósítja. A nyugellátással, illetve a rendszeres pénzbeli ellátással együtt folyósított pótlékot a nyugellátástól, illetve a rendszeres pénzbeli ellátástól elkülönítetten kell kezelni.
 
 [^11]: Az 5. § (1) bekezdésének bevezető szövegrésze a 365/2007. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének c) pontja, a 182/2009. (IX. 10.) Korm. rendelet 78. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^12]: Az 5. § (1) bekezdésének b) pontja a 110/1999. (VII. 7.) Korm. rendelet 7. §-ának (3) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (1) bekezdésének b) pontja a 110/1999. (VII. 7.) Korm. rendelet 7. §-ának (3) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 163. §-a szerint módosított szöveg.
 [^13]: Az 5. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 77. §-a, a 333/2011. (XII. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
 [^14]: Az 5. § (4) bekezdését a 333/2011. (XII. 29.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
 [^15]: Az 5. § (5) bekezdése a 333/2011. (XII. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
