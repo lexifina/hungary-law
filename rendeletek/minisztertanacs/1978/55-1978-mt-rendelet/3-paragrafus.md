@@ -376,4 +376,6 @@
 
 3. § (1) E minisztertanácsi rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban az 1978. év július hó 28. napjától kell alkalmazni.
 
-(2) A minisztertanácsi rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter – az érdekelt miniszterekkel és országos hatáskörű szervek vezetőivel egyetértésben – gondoskodik.
+(2)[^2] E rendelet végrehajtásáról a vízgazdálkodásért felelős miniszter gondoskodik.
+
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 44. §-ával megállapított szöveg.
