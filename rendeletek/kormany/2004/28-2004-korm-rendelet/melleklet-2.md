@@ -16,7 +16,7 @@
 
 ## – az illegális kábítószer gyártásra, forgalmazásra vonatkozó információk, valamint a fogyasztás megelőzésére, illetőleg mérséklésére irányuló állami, önkormányzati, valamint társadalmi kezdeményezésen nyugvó intézkedések, kezdeményezések.
 
-2. számú melléklet a 28/2004. (II. 28.) Korm. rendelethez[^7]
+2. számú melléklet a 28/2004. (II. 28.) Korm. rendelethez[^8]
 
 A Központ kábítószer adat- és információgyűjtő tevékenységében adat-, illetve információ-szolgáltatási kötelezettség teljesítésével feladatkörük szerint résztvevő minisztériumok, illetőleg egyéb állami szervek:
 
@@ -24,17 +24,17 @@ a) Belügyminisztérium;
 
 b) Honvédelmi Minisztérium;
 
-c) Közigazgatási és Igazságügyi Minisztérium;
+c)[^9] Igazságügyi Minisztérium;
 
-d) Külügyminisztérium;
+d)[^10] Külgazdasági és Külügyminisztérium;
 
-e) Nemzeti Erőforrás Minisztérium;
+e)[^11] Emberi Erőforrások Minisztériuma;
 
 f) Nemzeti Fejlesztési Minisztérium
 
 g) Nemzetgazdasági Minisztérium;
 
-h) Vidékfejlesztési Minisztérium;
+h)[^12] Földművelésügyi Minisztérium;
 
 i) Büntetés-végrehajtás Országos Parancsnoksága;
 
@@ -54,6 +54,13 @@ p) Országos Tisztifőorvosi Hivatal;
 
 q) Országos Rendőr-főkapitányság;
 
-r) Nemzeti Adó- és Vámhivatal Központi Hivatala.
+r) Nemzeti Adó- és Vámhivatal Központi Hivatala;
 
-[^7]: A 2. számú melléklet a 94/2011. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg, e módosító rendelet 6. §-a alapján a 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
+s)[^13] Miniszterelnökség.
+
+[^8]: A 2. számú melléklet a 94/2011. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg, e módosító rendelet 6. §-a alapján a 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
+[^9]: A 2. számú melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § d) pontjával megállapított szöveg.
+[^10]: A 2. számú melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § e) pontjával megállapított szöveg.
+[^11]: A 2. számú melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § f) pontjával megállapított szöveg.
+[^12]: A 2. számú melléklet h) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § g) pontjával megállapított szöveg.
+[^13]: A 2. számú melléklet s) pontját a 221/2014. (IX. 4.) Korm. rendelet 259. §-a iktatta be.
