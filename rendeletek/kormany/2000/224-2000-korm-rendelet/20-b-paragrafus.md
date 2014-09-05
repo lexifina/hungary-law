@@ -26,11 +26,11 @@ b) minden hónap utolsó napjára, valamint a mérleg fordulónapjára, mint ér
 
 (9)[^93] Az Nyt. 7. §-ának megfelelően az Alap vagyonát képező eszközök értékesítéséből származó bevételből a Nyugdíjbiztosítási Alap fejezet részére, valamint a központi költségvetésnek Magyarország költségvetéséről szóló törvényben meghatározott előirányzata javára befizetett összeget az egyéb ráfordításokon belül elkülönítetten kell kimutatni.
 
-(10) Az Alap vagyonát képező, (1) bekezdés szerint átvett, a magyar állam által kibocsátott hitelviszonyt megtestesítő értékpapíroknak (a továbbiakban: állampapírok) az átvételt követően az Nyt. 9. §-a szerint bevonandó állományát a magyar állam részére ellentételezés nélkül történő átadásakor az egyéb ráfordításokkal szemben, elkülönítetten kell elszámolni az Alap könyveiben.
+(10)[^94] Az Alap vagyonát képező, (1) bekezdés szerint átvett, az állam által kibocsátott hitelviszonyt megtestesítő értékpapíroknak (a továbbiakban: állampapírok) az átvételt követően az Nyt. 9. §-a szerint bevonandó állományát az állam részére ellentételezés nélkül történő átadásakor az egyéb ráfordításokkal szemben, elkülönítetten kell elszámolni az Alap könyveiben.
 
 (11) Az Nyt. 7. §-a szerint az Alap vagyonát képező eszközök értékesítéséből származó bevételből az államadósság csökkentésére fordítandó részt, annak módjától függően
 
-a) az értékesítés ellenében kapott állampapírnak a magyar állam részére ellentételezés nélkül történő átadásakor az egyéb ráfordításokkal szemben, elkülönítetten kell elszámolni,
+a)[^95] az értékesítés ellenében kapott állampapírnak az állam részére ellentételezés nélkül történő átadásakor az egyéb ráfordításokkal szemben, elkülönítetten kell elszámolni,
 
 b) az államadósságnak minősülő – harmadik féllel szembeni – tartozás pénzügyi rendezésekor az egyéb ráfordításokkal szemben kell elszámolni.
 
@@ -44,17 +44,19 @@ c) a magánnyugdíjpénztár működési és likviditási tartalékainak kimerü
 
 fedezetéül szolgáló eszközöket az egyéb ráfordítással szemben vezeti ki könyveiből jogcímenként elkülönítve.
 
-(13)[^94] Az Nyt. 2. § (4) bekezdés b) pont ba) alpontja szerinti, az Összefogás az Államadósság Ellen Alapból átutalt pénzeszközöket az Alap a pénzügyi rendezés időpontjával egyéb bevételként számolja el.
+(13)[^96] Az Nyt. 2. § (4) bekezdés b) pont ba) alpontja szerinti, az Összefogás az Államadósság Ellen Alapból átutalt pénzeszközöket az Alap a pénzügyi rendezés időpontjával egyéb bevételként számolja el.
 
-(14)[^95] Az Nyt. 2. § (4) bekezdés b) pont bb) alpontja szerinti, az Összefogás az Államadósság Ellen Alap megszűnésekor átadott vagyonát képező eszközök átadáskori könyv szerinti értékét az Alap az átadás időpontjával egyéb bevételként számolja el.
+(14)[^97] Az Nyt. 2. § (4) bekezdés b) pont bb) alpontja szerinti, az Összefogás az Államadósság Ellen Alap megszűnésekor átadott vagyonát képező eszközök átadáskori könyv szerinti értékét az Alap az átadás időpontjával egyéb bevételként számolja el.
 
-(15)[^96] A (13)–(14) bekezdés szerinti pénzeszközöknek az államadósság csökkentésére az Alapból átutalt összegét az Alap a pénzügyi rendezés időpontjával egyéb ráfordításként számolja el.
+(15)[^98] A (13)–(14) bekezdés szerinti pénzeszközöknek az államadósság csökkentésére az Alapból átutalt összegét az Alap a pénzügyi rendezés időpontjával egyéb ráfordításként számolja el.
 
-(16)[^97] Az Nyt. 2. § (6a) bekezdése szerinti, a Magyar Nemzeti Vagyonkezelő Zrt. részére átadott eszközök átadáskori könyv szerinti értékét az Alap az átadás időpontjával egyéb ráfordításként számolja el.
+(16)[^99] Az Nyt. 2. § (6a) bekezdése szerinti, a Magyar Nemzeti Vagyonkezelő Zrt. részére átadott eszközök átadáskori könyv szerinti értékét az Alap az átadás időpontjával egyéb ráfordításként számolja el.
 
 [^92]: A 20/B. §-t a 87/2011. (V. 31.) Korm. rendelet 16. § (3) bekezdése iktatta be.
 [^93]: A 20/B. § (9) bekezdése a 342/2011. (XII. 29.) Korm. rendelet 39. § (2) bekezdés 2. pontja szerint módosított szöveg.
-[^94]: A 20/B. § (13) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
-[^95]: A 20/B. § (14) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
-[^96]: A 20/B. § (15) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
-[^97]: A 20/B. § (16) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 17. §-a iktatta be.
+[^94]: A 20/B. § (10) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 212. § a) pontja szerint módosított szöveg.
+[^95]: A 20/B. § (11) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 212. § b) pontja szerint módosított szöveg.
+[^96]: A 20/B. § (13) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
+[^97]: A 20/B. § (14) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
+[^98]: A 20/B. § (15) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
+[^99]: A 20/B. § (16) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 17. §-a iktatta be.
