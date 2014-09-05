@@ -2,15 +2,15 @@
 
 | 1. | Költségvetési fejezet | Kiemelt előirányzat neve |
 
-| 2. | X. KÖZIGAZGATÁSI ÉS IGAZSÁGÜGYI MINISZTÉRIUM |  |
+| 2. | A KÖZPONTI KÖLTSÉGVETÉS X. FEJEZETÉNÉL |  |
 
-| 3. |  | KIM felügyelete alá tartozó szervezetek és szakmai programok támogatása |
+| 3. |  | IM felügyelete alá tartozó szervezetek és szakmai programok támogatása |
 
-| 4. | XI. MINISZTERELNÖKSÉG |  |
+| 4. | A KÖZPONTI KÖLTSÉGVETÉS XI. FEJEZETÉNÉL |  |
 
 | 5. |  | Ifjúságpolitikai célok támogatása |
 
-| 6. | XII. VIDÉKFEJLESZTÉSI MINISZTÉRIUM |  |
+| 6. | A KÖZPONTI KÖLTSÉGVETÉS XII. FEJEZETÉNÉL |  |
 
 | 7. |  | Tanyafejlesztési program |
 
@@ -46,7 +46,7 @@
 
 | 23. |  | Új vidékfejlesztési Program |
 
-| 24. | XIII. HONVÉDELMI MINISZTÉRIUM |  |
+| 24. | A KÖZPONTI KÖLTSÉGVETÉS XIII. FEJEZETÉNÉL |  |
 
 | 25. |  | Honvédelem érdekében tevékenykedő civil szervezetek pályázati támogatása |
 
@@ -54,7 +54,7 @@
 
 | 27. |  | Nonprofit korlátolt felelősségű társaságok támogatása |
 
-| 28. | XIV. BELÜGYMINISZTÉRIUM |  |
+| 28. | A KÖZPONTI KÖLTSÉGVETÉS XIV. FEJEZETÉNÉL |  |
 
 | 29. |  | Európai Menekültügyi Alap |
 
@@ -66,11 +66,11 @@
 
 | 33. |  | Szolidaritási programokhoz kapcsolódó technikai költségek |
 
-| 34. | XV. NEMZETGAZDASÁGI MINISZTÉRIUM |  |
+| 34. | A KÖZPONTI KÖLTSÉGVETÉS XV. FEJEZETÉNÉL |  |
 
 | 35. |  | Nemzetgazdasági programok |
 
-| 36. | XVII. NEMZETI FEJLESZTÉSI MINISZTÉRIUM |  |
+| 36. | A KÖZPONTI KÖLTSÉGVETÉS XVII. FEJEZETÉNÉL |  |
 
 | 37. |  | Egyedi kormánydöntésen alapuló közlekedési beruházások |
 
@@ -88,7 +88,7 @@
 
 | 44. |  | Zöldgazdaság Finanszírozási Rendszer |
 
-| 45. | XIX. UNIÓS FEJLESZTÉSEK |  |
+| 45. | A KÖZPONTI KÖLTSÉGVETÉS XIX. FEJEZETÉNÉL |  |
 
 | 46. |  | Gazdaságfejlesztés operatív program |
 
@@ -180,7 +180,7 @@
 
 | 90. |  | EU Önerő Alap |
 
-| 91. | XX. EMBERI ERŐFORRÁSOK MINISZTÉRIUMA |  |
+| 91. | A KÖZPONTI KÖLTSÉGVETÉS XX. FEJEZETÉNÉL |  |
 
 | 92. |  | Kiválósági támogatások |
 
@@ -208,7 +208,7 @@
 
 | 104. |  | Társadalmi, gazdasági, területi hátránykiegyenlítést elősegítő programok, szakkollégiumok |
 
-| 105. | XXXIII. MAGYAR TUDOMÁNYOS AKADÉMIA |  |
+| 105. | A KÖZPONTI KÖLTSÉGVETÉS XXXIII. FEJEZETÉNÉL |  |
 
 | 106. |  | Lendület Program |
 
@@ -216,11 +216,11 @@
 
 | 108. |  | Fiatal kutatók pályázatos támogatása |
 
-| 109. | XXXIV. MAGYAR MŰVÉSZETI AKADÉMIA |  |
+| 109. | A KÖZPONTI KÖLTSÉGVETÉS XXXIV. FEJEZETÉNÉL |  |
 
 | 110. |  | Pályázati alapok |
 
-| 111. | LXVII. NEMZETI KULTURÁLIS ALAP |  |
+| 111. | A KÖZPONTI KÖLTSÉGVETÉS LXVII. FEJEZETÉNÉL |  |
 
 | 112. |  | Nemzeti és egyetemes értékek létrehozásának, megőrzésének, terjesztésének támogatása |
 
@@ -236,7 +236,7 @@
 
 | 118. |  | Kultúrateremtő-, közvetítő, valamint egyéni és közösségi tevékenységek támogatása |
 
-| 119. | LXIX. KUTATÁSI ÉS TECHNOLÓGIAI INNOVÁCIÓS ALAP |  |
+| 119. | A KÖZPONTI KÖLTSÉGVETÉS LXIX. FEJEZETÉNÉL |  |
 
 | 120. |  | Hazai innováció támogatása |
 
