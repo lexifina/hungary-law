@@ -6,15 +6,15 @@
 
 (3) Az Ikerintézményi Munkacsoportba az Ikerintézményi Munkacsoport elnökének felkérésére tagot delegál
 
-a)[^15] a Kormány európai uniós források felhasználásáért felelős tagja,
+a)[^16] az európai uniós források felhasználásáért felelős miniszter,
 
-b)[^16]
+b)[^17]
 
 c) a külpolitikáért felelős miniszter,
 
 d) az államháztartásért felelős miniszter,
 
-e)[^17]
+e)[^18]
 
 f) az Ikerintézményi Munkacsoport elnöke által felkért, pályázásra jogosult intézmények.
 
@@ -26,6 +26,6 @@ f) az Ikerintézményi Munkacsoport elnöke által felkért, pályázásra jogos
 
 (7) Az Ikerintézményi Munkacsoport ülésének napirendjét és az ülés keretében megvitatandó szakmai dokumentumokat a Nemzeti Ikerintézményi Koordinátor készíti elő és küldi meg a tagok részére az ülést legalább 5 munkanappal megelőzően.
 
-[^15]: A 14. § (3) bekezdés a) pontja az 550/2013. (XII. 30.) Korm. rendelet 85. § f) pontja szerint módosított szöveg.
-[^16]: A 14. § (3) bekezdés b) pontját az 550/2013. (XII. 30.) Korm. rendelet 86. §-a hatályon kívül helyezte.
-[^17]: A 14. § (3) bekezdés e) pontját az 550/2013. (XII. 30.) Korm. rendelet 86. §-a hatályon kívül helyezte.
+[^16]: A 14. § (3) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 697. § a) pontjával megállapított szöveg.
+[^17]: A 14. § (3) bekezdés b) pontját az 550/2013. (XII. 30.) Korm. rendelet 86. §-a hatályon kívül helyezte.
+[^18]: A 14. § (3) bekezdés e) pontját az 550/2013. (XII. 30.) Korm. rendelet 86. §-a hatályon kívül helyezte.

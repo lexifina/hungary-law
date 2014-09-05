@@ -6,10 +6,10 @@
 
 a) a tagállami partner saját belső erőforrásaival,
 
-b)[^22] a Nemzeti Ikerintézményi Koordinátor a 4.§ (2) bekezdése szerinti külön szerződés alapján,
+b)[^23] a Nemzeti Ikerintézményi Koordinátor a 4.§ (2) bekezdése szerinti külön szerződés alapján,
 
 c) egyéb pályázásra jogosult intézmény külön szerződés alapján.
 
 (3) A projekt végrehajtásáért felelős szerv feladatainak ellátására az ikerintézményi menedzsment költségek kompenzációja biztosít pénzügyi fedezetet.
 
-[^22]: A 28. § (2) bekezdés b) pontja az 550/2013. (XII. 30.) Korm. rendelet 85. § c) pontja szerint módosított szöveg.
+[^23]: A 28. § (2) bekezdés b) pontja az 550/2013. (XII. 30.) Korm. rendelet 85. § c) pontja szerint módosított szöveg.

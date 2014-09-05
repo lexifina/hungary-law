@@ -40,7 +40,7 @@
 
 19.[^1]
 
-20.[^2] Nemzeti Ikerintézményi Koordinátor: a Kormány európai uniós források felhasználásáért felelős tagja által kijelölt, az ikerintézményi program nemzeti szintű koordinációjáért felelős személy,
+20.[^2] Nemzeti Ikerintézményi Koordinátor: az európai uniós források felhasználásáért felelős miniszter által kijelölt, az ikerintézményi program nemzeti szintű koordinációjáért felelős személy,
 
 21. Nemzeti Ikerintézményi Program: a Nemzeti Ikerintézményi Koordinátor által az érintett tárcák bevonásával elkészített, és az Ikerintézményi Munkacsoport által évente felülvizsgált, stratégiai célkitűzéseket tartalmazó dokumentum,
 
@@ -63,4 +63,4 @@
 (2) Az (1) bekezdésben nem értelmezett fogalmakat az Ikerintézményi Kézikönyv rendelkezései szerint kell értelmezni.
 
 [^1]: A 2. § (1) bekezdés 19. pontját az 550/2013. (XII. 30.) Korm. rendelet 86. §-a hatályon kívül helyezte.
-[^2]: A 2. § (1) bekezdés 20. pontja az 550/2013. (XII. 30.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdés 20. pontja az 550/2013. (XII. 30.) Korm. rendelet 81. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 697. § a) pontja szerint módosított szöveg.

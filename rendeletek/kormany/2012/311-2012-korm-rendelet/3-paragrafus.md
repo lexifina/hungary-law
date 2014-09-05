@@ -4,7 +4,7 @@
 
 ## 3. A Nemzeti Ikerintézményi Koordinátor
 
-3. § (1)[^3] A Nemzeti Ikerintézményi Koordinátor feladatainak ellátásáért a Kormány európai uniós források felhasználásáért felelős tagja felel.
+3. § (1)[^3] A Nemzeti Ikerintézményi Koordinátor feladatainak ellátásáért az európai uniós források felhasználásáért felelős miniszter felel.
 
 (2) A Nemzeti Ikerintézményi Koordinátor az ikerintézményi program nemzeti szintű koordinálásával kapcsolatos feladatokat látja el, így különösen
 
@@ -32,7 +32,7 @@ k)[^6] a szakértői adatbázis működési feltételeinek kialakításáról, m
 
 (3) A Nemzeti Ikerintézményi Koordinátor feladatai ellátása során együttműködik a külpolitikáért felelős miniszterrel, támogatja a külpolitikáért felelős miniszter irányítása alá tartozó intézményfejlesztési eszközök és az ikerintézményi program közti szinergia megteremtését.
 
-[^3]: A 3. § (1) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 85. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 697. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (1) bekezdés i) pontját az 550/2013. (XII. 30.) Korm. rendelet 82. §-a iktatta be.
 [^5]: A 2. § (1) bekezdés j) pontját az 550/2013. (XII. 30.) Korm. rendelet 82. §-a iktatta be.
 [^6]: A 2. § (1) bekezdés k) pontját az 550/2013. (XII. 30.) Korm. rendelet 82. §-a iktatta be.

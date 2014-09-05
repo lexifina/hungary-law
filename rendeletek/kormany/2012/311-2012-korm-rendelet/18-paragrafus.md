@@ -2,6 +2,6 @@
 
 (2) A Nemzeti Ikerintézményi Koordinátor – a pályázásra jogosult intézmény felkérése esetén – segítséget nyújt a pályázat formai szempontoknak, az Ikerintézményi Kézikönyvben, valamint a pályázati felhívásban foglalt követelményeknek való megfelelés tekintetében.
 
-(3)[^20]
+(3)[^21]
 
-[^20]: A 18. § (3) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 86. §-a hatályon kívül helyezte.
+[^21]: A 18. § (3) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 86. §-a hatályon kívül helyezte.
