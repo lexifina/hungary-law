@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-149-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1998-09-18 | 1998-149-20-22.1 | 149/1998. (IX. 18.) Korm. rendelet |
+| 2014-09-05 | 1998-149-20-22.2 | 221/2014. (IX. 4.) Korm. rendelet |
