@@ -6,7 +6,7 @@
 
 a) belső továbbképzés keretében, saját szervezetében vagy a szervezetrendszert kiszolgáló belső képzőintézmény közreműködésével,
 
-b)[^9] felsőoktatási intézmény vagy a képző intézmény által biztosított képzési szolgáltatással.
+b)[^11] felsőoktatási intézmény vagy a képző intézmény által biztosított képzési szolgáltatással.
 
 (3) A közigazgatási szerv a szakmai és kompetenciafejlesztő továbbképzés igénybe vételéhez köteles az NKE-től ajánlatot kérni, kivéve, ha az NKE – önállóan vagy más felsőoktatási intézménnyel, vagy állami költségvetési szervvel közösen – nem rendelkezik megfelelő továbbképzési programmal.
 
@@ -20,4 +20,4 @@ b) a belső továbbképzésekről statisztikai célú adatszolgáltatást végez
 
 (6) A közigazgatási szerv jogosult az általa megvalósított továbbképzéseket bármely helyi önkormányzat köztisztviselője számára belső továbbképzésként nyújtani.
 
-[^9]: A 8. § (2) bekezdés b) pontja a 393/2013. (XI. 12.) Korm. rendelet 39. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^11]: A 8. § (2) bekezdés b) pontja a 393/2013. (XI. 12.) Korm. rendelet 39. § (2) bekezdés c) pontja szerint módosított szöveg.

@@ -2,21 +2,21 @@
 
 14. § (1) A kormánytisztviselő, köztisztviselő szakmai továbbképzésére és kompetenciafejlesztésére irányuló továbbképzési programok programjegyzékre történő nyilvántartásba vételét sikeres minősítési eljárásnak kell megelőznie.
 
-(2)[^11] Az NKE által felkért szakértő a továbbképzési programminősítési eljárás során vizsgálja, hogy a továbbképzési program megfelel a 17. § (1) bekezdésben foglalt minőségirányítási követelménynek.
+(2)[^13] Az NKE által felkért szakértő a továbbképzési programminősítési eljárás során vizsgálja, hogy a továbbképzési program megfelel a 17. § (1) bekezdésben foglalt minőségirányítási követelménynek.
 
 (3) Az NKE a képzésmódszertani és minőségirányítási eljárásokat a honlapján teszi közzé.
 
 (4) A minősítési díjat a kérelmező szervezet a kérelem benyújtásával egyidejűleg az NKE részére fizeti meg. Az NKE a minősítési díjat a minőségirányítási rendszer működtetésére használja fel.
 
-(5)[^12] A továbbképzési program minősítését a képző intézmény, illetve a nemzeti felsőoktatásról szóló törvény alapján működő felsőoktatási intézmény kezdeményezheti. A programminősítésre irányuló kérelmet az NKE részére kell benyújtani.
+(5)[^14] A továbbképzési program minősítését a képző intézmény, illetve a nemzeti felsőoktatásról szóló törvény alapján működő felsőoktatási intézmény kezdeményezheti. A programminősítésre irányuló kérelmet az NKE részére kell benyújtani.
 
-(6)[^13] A minősítésre benyújtott továbbképzési programot az NKE a kérelem beérkezését követő 60 napon belül minősíti, a határidő egy alkalommal legfeljebb 30 nappal meghosszabbítható.
+(6)[^15] A minősítésre benyújtott továbbképzési programot az NKE a kérelem beérkezését követő 60 napon belül minősíti, a határidő egy alkalommal legfeljebb 30 nappal meghosszabbítható.
 
-(7)[^14] Az NKE által felkért szakértő megfelelő, vagy nem megfelelő minősítést állapíthat meg a minősítésre benyújtott továbbképzési programokra.
+(7)[^16] Az NKE által felkért szakértő megfelelő, vagy nem megfelelő minősítést állapíthat meg a minősítésre benyújtott továbbképzési programokra.
 
-(8)[^15] A szakértő javaslatára a továbbképzési programot az NKE megfelelőnek minősíti és a KTK nyilvántartásba veszi a programjegyzékre. Az NKE a nyilvántartásba vételről szóló értesítéssel együtt 15 napon belül írásban tájékoztatja a kérelmezőt a továbbképzési programmal teljesíthető tanulmányi pontértékről.
+(8)[^17] A szakértő javaslatára a továbbképzési programot az NKE megfelelőnek minősíti és a KTK nyilvántartásba veszi a programjegyzékre. Az NKE a nyilvántartásba vételről szóló értesítéssel együtt 15 napon belül írásban tájékoztatja a kérelmezőt a továbbképzési programmal teljesíthető tanulmányi pontértékről.
 
-(9)[^16] Amennyiben a minősítés során benyújtott dokumentáció eltér a minősített továbbképzési program által meghatározott követelményrendszertől, a képzésmódszertani és minőségirányítási eljárásoktól, akkor az NKE szakértője nem megfelelő minősítést állapíthat meg a minősítésre benyújtott továbbképzési programokra.
+(9)[^18] Amennyiben a minősítés során benyújtott dokumentáció eltér a minősített továbbképzési program által meghatározott követelményrendszertől, a képzésmódszertani és minőségirányítási eljárásoktól, akkor az NKE szakértője nem megfelelő minősítést állapíthat meg a minősítésre benyújtott továbbképzési programokra.
 
 (10) A nem megfelelőnek minősített program kérelmezőjét az NKE az általa felkért szakértő állásfoglalása alapján a továbbképzési program átdolgozására kérheti fel. A továbbképzési program átdolgozását követően ismételten benyújtható a továbbképzési program minősítésre. A továbbképzési program ismételt benyújtása során a kérelmezőt díjfizetési kötelezettség nem terheli.
 
@@ -30,9 +30,9 @@
 
 (15) A program nyilvántartásba vételének felfüggesztése esetén a továbbképzési programot a minőségbiztosítás során azonosított nem megfelelőségre tekintettel át kell dolgozni. A továbbképzési program átdolgozását követően az NKE 30 napon belül ismételten elvégezteti a minősítést. Amennyiben a továbbképzési program az ismételt minősítésen megfelel, az NKE javaslatára a KTK azonnali hatállyal megszünteti a továbbképzési program nyilvántartásba vételének felfüggesztését. Ha a továbbképzési program az újbóli átdolgozását követően sem felel meg, akkor azonnali hatállyal törlésre kerül a programjegyzékről.
 
-[^11]: A 14. § (2) bekezdése a 415/2012. (XII. 29.) Korm. rendelet 5. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^12]: A 14. § (5) bekezdése a 393/2013. (XI. 12.) Korm. rendelet 39. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^13]: A 14. § (6) bekezdése a 298/2013. (VII. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^14]: A 14. § (7) bekezdése a 415/2012. (XII. 29.) Korm. rendelet 5. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^15]: A 14. § (8) bekezdése a 415/2012. (XII. 29.) Korm. rendelet 5. § (6) bekezdés b) pontja szerint módosított szöveg.
-[^16]: A 14. § (9) bekezdése a 415/2012. (XII. 29.) Korm. rendelet 5. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^13]: A 14. § (2) bekezdése a 415/2012. (XII. 29.) Korm. rendelet 5. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^14]: A 14. § (5) bekezdése a 393/2013. (XI. 12.) Korm. rendelet 39. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^15]: A 14. § (6) bekezdése a 298/2013. (VII. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^16]: A 14. § (7) bekezdése a 415/2012. (XII. 29.) Korm. rendelet 5. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^17]: A 14. § (8) bekezdése a 415/2012. (XII. 29.) Korm. rendelet 5. § (6) bekezdés b) pontja szerint módosított szöveg.
+[^18]: A 14. § (9) bekezdése a 415/2012. (XII. 29.) Korm. rendelet 5. § (6) bekezdés c) pontja szerint módosított szöveg.

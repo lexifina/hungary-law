@@ -28,6 +28,6 @@ d) tervszerűen és rendszeresen gondoskodik a továbbképzések során közrem�
 
 e) működteti a továbbképzési programok minősítésének rendszerét;
 
-f)[^6] Vezető és Továbbképzési Intézetén keresztül ellátja a KTK titkársági feladatait.
+f)[^8] Vezető és Továbbképzési Intézetén keresztül ellátja a KTK titkársági feladatait.
 
-[^6]: A 6. § f) pontját a 298/2013. (VII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^8]: A 6. § f) pontját a 298/2013. (VII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.

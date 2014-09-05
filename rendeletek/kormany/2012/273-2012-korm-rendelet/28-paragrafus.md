@@ -1,5 +1,3 @@
-## 27. § E rendeletben a Kormány személyügyi központként a Közigazgatási és Igazságügyi Hivatalt jelöli ki.
+28. §[^27]
 
-28. §[^24]
-
-[^24]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

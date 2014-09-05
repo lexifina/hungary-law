@@ -1,10 +1,10 @@
-## 3. A közszolgálati továbbképzés ágazati irányítása
+## 3. [^4] A közszolgálati továbbképzés ágazati irányítása
 
-## A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter feladatai
+## A közszolgálati életpálya kidolgozásáért felelős miniszter feladatai
 
 3. § (1) A kormánytisztviselő, köztisztviselő továbbképzése állami feladat.
 
-(2) A kormánytisztviselők, köztisztviselők továbbképzésének, vezetőképzésnek ágazati irányítása a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter (a továbbiakban: miniszter) feladata.
+(2)[^5] A kormánytisztviselők, köztisztviselők továbbképzésének, vezetőképzésének ágazati irányítása a közszolgálati életpálya kidolgozásáért felelős miniszter (a továbbiakban: miniszter) feladata.
 
 (3) A miniszter irányítási jogkörében különösen:
 
@@ -23,3 +23,6 @@ f) jóváhagyja a személyügyi központ által az éves továbbképzési tervek
 g) kiadja a továbbképzés minőségirányítási szabályzatát,
 
 h) a 14. § (11) bekezdésében és (13)–(15) bekezdéseiben, valamint a 16. § (3) bekezdésében foglaltakkal szemben jogsértésre hivatkozással öt munkanapon belül benyújtott panaszt elbírálja.
+
+[^4]: A 3. alcím címe a 221/2014. (IX. 4.) Korm. rendelet 691. §-a szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 690. §-ával megállapított szöveg.
