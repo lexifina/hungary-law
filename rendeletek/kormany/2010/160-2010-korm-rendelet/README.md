@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-160-20-
 | 2012-01-01 | 2010-160-20-22.5 | 266/2011. (XII. 13.) Korm. rendelet |
 | 2012-04-22 | 2010-160-20-22.6 | 82/2012. (IV. 21.) Korm. rendelet |
 | 2014-01-01 | 2010-160-20-22.7 | 515/2013. (XII. 30.) Korm. rendelet |
+| 2014-09-05 | 2010-160-20-22.8 | 221/2014. (IX. 4.) Korm. rendelet |

@@ -1,6 +1,6 @@
-## 13. §[^30]
+## 13. §[^31]
 
-14. §[^31]
+14. §[^32]
 
-[^30]: A 13. §-t a 14. § (1) bekezdése hatályon kívül helyezte.
-[^31]: A 14. § a (2) bekezdés alapján hatályát vesztette.
+[^31]: A 13. §-t a 14. § (1) bekezdése hatályon kívül helyezte.
+[^32]: A 14. § a (2) bekezdés alapján hatályát vesztette.
