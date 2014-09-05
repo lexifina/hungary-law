@@ -1,6 +1,6 @@
 ## Egészségügyi ellátás
 
-10/A. §[^13] (1) Az állami vezetőt, valamint a jogszabály alapján állami vezetői juttatásra jogosult személyt, továbbá a miniszteri kabinetet vezető kabinetfőnököt (a továbbiakban együtt: egészségügyi ellátásra jogosult) térítésmentes egészségügyi ellátás illeti meg az e rendeletben foglaltak szerint.
+10/A. §[^14] (1) Az állami vezetőt, valamint a jogszabály alapján állami vezetői juttatásra jogosult személyt, továbbá a miniszteri kabinetet vezető kabinetfőnököt (a továbbiakban együtt: egészségügyi ellátásra jogosult) térítésmentes egészségügyi ellátás illeti meg az e rendeletben foglaltak szerint.
 
 (2) Az egészségügyi ellátásra jogosult egészségügyi ellátását – választása szerint – a Honvédkórház – Állami Egészségügyi Központ és a Semmelweis Egyetem kijelölt intézményei (a továbbiakban együtt: egészségügyi szolgáltató) biztosítják.
 
@@ -20,4 +20,4 @@ f) a szolgáltatás díját, valamint a díj átutalásának és az elszámolás
 
 (4) Az egészségügyi ellátás fedezetét a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell biztosítani.
 
-[^13]: A 10/A. §-t és az azt megelőző alcímet a 124/2011. (VII. 18.) Korm. rendelet 3. §-a iktatta be.
+[^14]: A 10/A. §-t és az azt megelőző alcímet a 124/2011. (VII. 18.) Korm. rendelet 3. §-a iktatta be.

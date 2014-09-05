@@ -1,6 +1,6 @@
 ## Hivatali lakás használata, lakásfenntartási térítés
 
-4. §[^4] (1) A miniszter és az államtitkár (a továbbiakban együtt: igényjogosult állami vezető) részére hivatali lakás használatát lehet biztosítani, ha – a vele közös háztartásban élő házastársa (élettársa) lakásviszonyait is figyelembe véve – Budapesten vagy közvetlen vonzáskörzetében lakástulajdonnal nem rendelkezik.
+4. §[^5] (1) A miniszter és az államtitkár (a továbbiakban együtt: igényjogosult állami vezető) részére hivatali lakás használatát lehet biztosítani, ha – a vele közös háztartásban élő házastársa (élettársa) lakásviszonyait is figyelembe véve – Budapesten vagy közvetlen vonzáskörzetében lakástulajdonnal nem rendelkezik.
 
 (2) Hivatali lakásként egy személy beköltözése esetén kettő, egyéb esetben az együttlakó személyek számának megfelelő, de legkevesebb három lakószobával rendelkező, a műszaki, fenntartási, üzemeltetési és a biztonsági követelmények szempontjából állami vezetői lakásnak, illetőleg az igényjogosult állami vezető feladatkörének ellátására alkalmas budapesti vagy Budapest közvetlen vonzáskörzetében lévő lakást kell biztosítani.
 
@@ -12,4 +12,4 @@
 
 (6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter részére a hivatali lakás használatát a miniszterelnök engedélyezi.
 
-[^4]: A 4. § a 124/2011. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 4. § a 124/2011. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
