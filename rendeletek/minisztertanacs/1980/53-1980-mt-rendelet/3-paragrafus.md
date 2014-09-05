@@ -468,7 +468,7 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit a forrásnál levont adók tekintetében 1981. január 1. napja után kiutalt vagy kifizetett jövedelmekre, az egyéb adók tekintetében 1980. január 1. napját követően végződő adózási időszakokra kell alkalmazni.
 
-(2) E rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+(2)[^11] E rendelet végrehajtásáról az adópolitikáért felelős miniszter gondoskodik.
 
 [^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^4]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
@@ -478,3 +478,4 @@
 [^8]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^9]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^10]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^11]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 65. §-a szerint módosított szöveg.
