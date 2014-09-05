@@ -86,9 +86,9 @@
 
 3. § (1) E rendelet kihirdetése napján lép hatályba, rendelkezéseit azonban 1988. január 13. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a népjóléti miniszter[^6] gondoskodik.
+(2)[^6] E rendelet végrehajtásáról az egészségügyért felelős miniszter gondoskodik.
 
 [^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^4]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^5]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
-[^6]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének b) pontját.
+[^6]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 110. §-ával megállapított szöveg.
