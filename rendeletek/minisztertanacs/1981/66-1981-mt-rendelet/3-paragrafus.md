@@ -528,7 +528,8 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit az 1982. évi január hó 1. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+(2)[^5] A rendelet végrehajtásáról az adópolitikáért felelős miniszter gondoskodik.
 
 [^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^4]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^5]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 77. §-a szerint módosított szöveg.
