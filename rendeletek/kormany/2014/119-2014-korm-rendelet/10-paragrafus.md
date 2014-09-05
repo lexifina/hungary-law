@@ -14,4 +14,6 @@ b) nemzeti emléknaphoz, illetve a magyar nemzet szempontjából kiemelkedő jel
 
 a) humanitárius és karitatív célok érdekében végzett tevékenység esetében,
 
-b) a Közigazgatási és Igazságügyi Minisztérium, a Miniszterelnökség, a Néprajzi Múzeum, a Vidékfejlesztési Minisztérium, a fővárosi önkormányzat, a Belváros-Lipótváros Budapest Főváros V. kerület Önkormányzata és a Magyar Honvédség által szervezett rendezvények esetében.
+b)[^1] az Igazságügyi Minisztérium, a Miniszterelnökség, a Néprajzi Múzeum, a Földművelésügyi Minisztérium, a fővárosi önkormányzat, a Belváros-Lipótváros Budapest Főváros V. kerület Önkormányzata és a Magyar Honvédség által szervezett rendezvények esetében.
+
+[^1]: A 10. § (4) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 815. §-ával megállapított szöveg.
