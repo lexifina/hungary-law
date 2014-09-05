@@ -2,7 +2,7 @@
 
 ## AZ ELLENŐRZÉS
 
-20. § (1)[^57] A folyamatba épített ellenőrzési tevékenység tekintetében a törvény, az Áht., valamint – e rendeletben foglalt eltérésekkel – az államháztartás működési rendjéről szóló kormányrendelet előírásai az irányadók.
+20. § (1)[^59] A folyamatba épített ellenőrzési tevékenység tekintetében a törvény, az Áht., valamint – e rendeletben foglalt eltérésekkel – az államháztartás működési rendjéről szóló kormányrendelet előírásai az irányadók.
 
 (2) Az illetékes hatóság, irányító hatóság, kifizető ügynökség, igazoló szerv, közreműködő szervezet, igazoló hatóság, ellenőrző hatóság, helyi akciócsoport, nemzeti vidéki hálózat, MVH
 
@@ -22,4 +22,4 @@ d) gondoskodik az ellenőrzési nyomvonal kialakításáról és az esetleges v�
 
 (6) Az ellenőrző hatóság minden év január 15-ig megküldi az államháztartásért felelős miniszter részére az előző évben elkészített és az Európai Bizottság részére megküldött éves ellenőrzési jelentést.
 
-[^57]: A 20. § (1) bekezdése a 138/2010. (IV. 28.) Korm. rendelet 18. § i) pontja szerint módosított szöveg.
+[^59]: A 20. § (1) bekezdése a 138/2010. (IV. 28.) Korm. rendelet 18. § i) pontja szerint módosított szöveg.

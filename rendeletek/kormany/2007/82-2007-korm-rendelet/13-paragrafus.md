@@ -8,7 +8,7 @@
 
 (2) A Magyarország számára átutalt és felhasznált – illetve fel nem használt – támogatások összegével az Európai Bizottság felé történő tételes elszámolást a támogatások pénzügyi lebonyolításában részt vevő az MVH-nak a számvitelről szóló 2000. évi C. törvényben (a továbbiakban: számviteli törvény) foglalt számviteli alapelvek figyelembevételével vezetett, elkülönített, eredményszemléletű kettős könyvviteli nyilvántartásokkal kell biztosítania.
 
-(3)[^47] Az MVH a (2) bekezdés szerinti külön számviteli nyilvántartásokra vonatkozó számviteli eljárásrendjét a 883/2006/EK bizottsági rendelet és a 885/2006/EK bizottsági rendelet alapján köteles elkészíteni.
+(3)[^49] Az MVH a (2) bekezdés szerinti külön számviteli nyilvántartásokra vonatkozó számviteli eljárásrendjét a 883/2006/EK bizottsági rendelet és a 885/2006/EK bizottsági rendelet alapján köteles elkészíteni.
 
 (4) A számviteli nyilvántartás vezetésére olyan számviteli szoftvert kell alkalmazni – az IR részeként vagy vele szorosan összekapcsolva –, amelyben a követelések, a kötelezettségek és az intervenciós készletek analitikus nyilvántartása a főkönyvi nyilvántartáshoz zárt rendszerben kapcsolódik, vagyis az analitikus tételek egyidejűleg, egy adatrögzítéssel bekerülnek az analitikus és a főkönyvi nyilvántartásba is. Ezzel kell biztosítani a főkönyvi és analitikus nyilvántartások automatikus számszaki egyezőségét.
 
@@ -16,4 +16,4 @@
 
 (6) Az MVH a közösségi előírások szerinti, számlarenddel kiegészített számlatükröt köteles alkalmazni, az abban foglaltaktól eltérni – a szoftver támogatásával biztosítandó teljes körű adatgyűjtés, adatszolgáltatás és beszámolás érdekében – nem lehet.
 
-[^47]: A 13. § (3) bekezdése a 138/2010. (IV. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^49]: A 13. § (3) bekezdése a 138/2010. (IV. 28.) Korm. rendelet 13. §-ával megállapított szöveg.

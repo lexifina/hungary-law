@@ -1,6 +1,6 @@
 ## Támogatás, támogatási előleg kifizetése
 
-8. § (1)[^26] Kifizetés kizárólag az ügyfél-nyilvántartási rendszerbe bejelentett ügyfél részére történhet, és az ügyfél ügyfél-nyilvántartási rendszerbe rögzített pénzforgalmi számlájára történő átutalással teljesíthető.
+8. § (1)[^28] Kifizetés kizárólag az ügyfél-nyilvántartási rendszerbe bejelentett ügyfél részére történhet, és az ügyfél ügyfél-nyilvántartási rendszerbe rögzített pénzforgalmi számlájára történő átutalással teljesíthető.
 
 (2) Az ügyfelek részére történő kifizetések átutalását a 11. § (1) bekezdésének e) pontja szerint meghatározott lebonyolítási számlákra érkező jóváírást követő 5 munkanapon belül kell teljesíteni.
 
@@ -10,15 +10,15 @@
 
 (5) Az MVH felelős minden, a támogatás és a támogatási előleg kifizetéséhez kapcsolódó adatnak az információs rendszer (IR) keretében történő rögzítéséért.
 
-(6)[^27] A kifizetés napja az a nap, amelyen az MVH lebonyolítási pénzforgalmi számláját megterhelték. Támogatás kifizetésének minősül az is, ha az MVH gyakorolja visszatartási jogát. Ez esetben a kifizetés napjának azt a napot kell tekinteni, amelyen az MVH a visszatartott támogatással az általa nyilvántartott tartozás összegét csökkenti, illetőleg amelyen a köztartozást nyilvántartó szervezetnek történő utalással az MVH (pénzforgalmi) számláját megterhelték.
+(6)[^29] A kifizetés napja az a nap, amelyen az MVH lebonyolítási pénzforgalmi számláját megterhelték. Támogatás kifizetésének minősül az is, ha az MVH gyakorolja visszatartási jogát. Ez esetben a kifizetés napjának azt a napot kell tekinteni, amelyen az MVH a visszatartott támogatással az általa nyilvántartott tartozás összegét csökkenti, illetőleg amelyen a köztartozást nyilvántartó szervezetnek történő utalással az MVH (pénzforgalmi) számláját megterhelték.
 
-(7)[^28] Ha az ügyfél vagy az adatszolgáltatásra kötelezett a pénzügyi lebonyolítás során a támogatás folyósításához szükséges adatokat nem bocsátja az MVH rendelkezésére, az adat pótlására vonatkozó felszólítás kézhezvételét követő egy év elteltével elveszíti a támogatás folyósítására vonatkozó jogosultságát. Ha az ügyfél a támogatás folyósításáról lemond, akkor az erről szóló nyilatkozat MVH-hoz történő beérkezését követő napjától a lemondással érintett műveletre vonatkozóan támogatás a részére nem folyósítható. A nem folyósított összeget az MVH a kötelezettségek közül a könyveiből kivezeti.
+(7)[^30] Ha az ügyfél vagy az adatszolgáltatásra kötelezett a pénzügyi lebonyolítás során a támogatás folyósításához szükséges adatokat nem bocsátja az MVH rendelkezésére, az adat pótlására vonatkozó felszólítás kézhezvételét követő egy év elteltével elveszíti a támogatás folyósítására vonatkozó jogosultságát. Ha az ügyfél a támogatás folyósításáról lemond, akkor az erről szóló nyilatkozat MVH-hoz történő beérkezését követő napjától a lemondással érintett műveletre vonatkozóan támogatás a részére nem folyósítható. A nem folyósított összeget az MVH a kötelezettségek közül a könyveiből kivezeti.
 
 (8) A támogatást az MVH forintban utalja ki, a fizetési kötelezettséget forintban kell teljesíteni.
 
-(9)[^29] Ha az ügyfélnek az állami adóhatóságnál nyilvántartott adótartozása van, annak összegét – az EHA kivételével – az MVH a törvény szerint levonja és átutalja az állami adóhatóság által megadott adónemenként elkülönített megfelelő számlájára.
+(9)[^31] Ha az ügyfélnek az állami adóhatóságnál nyilvántartott adótartozása van, annak összegét – az EHA kivételével – az MVH a törvény szerint levonja és átutalja az állami adóhatóság által megadott adónemenként elkülönített megfelelő számlájára.
 
-[^26]: A 8. § (1) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
-[^27]: A 8. § (6) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
-[^28]: A 8. § (7) bekezdése a 138/2010. (IV. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^29]: A 8. § (9) bekezdése a 138/2010. (IV. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^28]: A 8. § (1) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
+[^29]: A 8. § (6) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
+[^30]: A 8. § (7) bekezdése a 138/2010. (IV. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^31]: A 8. § (9) bekezdése a 138/2010. (IV. 28.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -4,7 +4,7 @@
 
 a) az Európai Bizottságtól beérkezett támogatások összege,
 
-b)[^51] az MVH pénzforgalmi számláinak tételes forgalma,
+b)[^53] az MVH pénzforgalmi számláinak tételes forgalma,
 
 c) az ügyfelek részére a lebonyolítási számláról kifizetett összegek, intézkedésenként és forrásonként, azon belül ügyfelek szerinti bontásban,
 
@@ -24,4 +24,4 @@ b) rendszeresen tájékoztatást ad az 1. § (2) bekezdésének c) pontjában fo
 
 (4) Az MVH-nak a közösségi jogszabályok szerinti rendszeres és soron kívüli adatszolgáltatásokat a jóváhagyott számviteli eljárásrendben foglalt határidőre kell teljesítenie.
 
-[^51]: A 15. § (2) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
+[^53]: A 15. § (2) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
