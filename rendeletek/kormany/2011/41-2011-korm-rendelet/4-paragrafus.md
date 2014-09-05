@@ -1,1 +1,0 @@
-## 3. § A 267/2006. (XII. 20.) Korm. rendelet 4/A. § (1) bekezdésének harmadik mondatában a „Fővárosi Polgári Védelmi Parancsnoksággal” szövegrész helyébe a „Fővárosi Polgári Védelmi Igazgatósággal” szöveg lép.
