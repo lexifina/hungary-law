@@ -2,7 +2,7 @@
 
 2. § (1) Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
 
-(2) E rendelet végrehajtásáról a nemzeti kulturális örökség minisztere gondoskodik.
+(2)[^1] E rendelet végrehajtásáról a kultúráért felelős miniszter gondoskodik.
 
 Melléklet a 20/2003. (II. 20.) Korm. rendelethez
 
@@ -99,3 +99,5 @@ Görgey Gábor s. k.,
 nemzeti kulturális örökség
 
 minisztere''
+
+[^1]: A 2. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 241. §-a szerint módosított szöveg.
