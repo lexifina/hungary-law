@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1974-49-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1974-12-24 | 1974-49-20-65.1 | 49/1974. (XII. 24.) MT rendelet |
+| 2014-09-05 | 1974-49-20-65.2 | 136/2018. (VII. 25.) Korm. rendelet |
