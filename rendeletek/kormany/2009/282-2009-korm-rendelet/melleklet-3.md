@@ -10,7 +10,7 @@
 
 | 4 | c) kiváló termőhelyi adottságú erdőterület | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 5 | d) világörökségi és világörökségi várományos terület | Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ |
+| 5 | d) világörökségi és világörökségi várományos terület | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ |
 
 | 6 | e) országos vízminőség-védelmi terület | Nemzeti Környezetügyi Intézet |
 
@@ -54,7 +54,7 @@ Az Agglomerációs törvény hatálya alá tartozó település településrende
 
 | 4 | c) kiváló termőhelyi adottságú erdőterület | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 5 | d) világörökségi és világörökségi várományos terület | Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ |
+| 5 | d) világörökségi és világörökségi várományos terület | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ |
 
 | 6 | e) országos vízminőség-védelmi terület | Nemzeti Környezetügyi Intézet |
 
@@ -78,4 +78,4 @@ Az Agglomerációs törvény hatálya alá tartozó település településrende
 
 | 16 | h) honvédelmi terület | honvédelemért felelős miniszter |
 
-[^31]: A 3. melléklet a 25/2014. (II. 7.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^31]: A 3. melléklet a 25/2014. (II. 7.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet (1) bekezdése szerint módosított szöveg.

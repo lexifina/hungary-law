@@ -10,7 +10,7 @@
 
 | 4 | c) kiváló termőhelyi adottságú erdőterület | Nemzeti Élelmiszerlánc- biztonsági Hivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 5 | d) világörökségi és világörökségi várományos terület | Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ | Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ |
+| 5 | d) világörökségi és világörökségi várományos terület | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ |
 
 | 6 | e) országos vízminőség-védelmi terület | Nemzeti Környezetügyi Intézet | Nemzeti Környezetügyi Intézet |
 
@@ -36,4 +36,4 @@
 
 2. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^30]
 
-[^30]: A 2. melléklet a 25/2014. (II. 7.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^30]: A 2. melléklet a 25/2014. (II. 7.) Korm. rendelet 19. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 455. § (1) bekezdése szerint módosított szöveg.
