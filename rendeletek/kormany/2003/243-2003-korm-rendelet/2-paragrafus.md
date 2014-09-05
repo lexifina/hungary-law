@@ -1,4 +1,4 @@
-2. § (1)[^2] Az iskola pedagógiai programot és annak részeként – a (2) bekezdésben meghatározott kivétellel – az e rendelet mellékleteként kiadott Nemzeti alaptanterv alapján helyi tantervet készít, vagy az ilyen módon készített helyi tantervek közül választ, és azt építi be helyi tantervként a pedagógiai programjába. Az iskola az oktatási és kulturális miniszter által kiadott kerettantervek alapján is elkészítheti helyi tantervét, illetve a kerettantervet is beépítheti helyi tantervként a pedagógiai programjába. Az iskola a helyi tanterv elkészítésénél felhasználhatja az oktatási és kulturális miniszter által a közoktatásról szóló törvény 95. §-a (1) bekezdésnek j) pontja alapján kiadott oktatási programokat (pedagógiai rendszereket) is.
+2. § (1)[^2] Az iskola pedagógiai programot és annak részeként – a (2) bekezdésben meghatározott kivétellel – az e rendelet mellékleteként kiadott Nemzeti alaptanterv alapján helyi tantervet készít, vagy az ilyen módon készített helyi tantervek közül választ, és azt építi be helyi tantervként a pedagógiai programjába. Az iskola az oktatásért felelős miniszter (a továbbiakban: miniszter) által kiadott kerettantervek alapján is elkészítheti helyi tantervét, illetve a kerettantervet is beépítheti helyi tantervként a pedagógiai programjába. Az iskola a helyi tanterv elkészítésénél felhasználhatja a miniszter által kiadott oktatási programokat (pedagógiai rendszereket) is.
 
 (2) A középiskola a helyi tantervének elkészítésénél figyelembe veszi az érettségi vizsga vizsgatárgyainak vizsgakövetelményeit is.
 
@@ -20,7 +20,7 @@ b) 110. §-ának (1) és (7) bekezdése alapján nem magyar állampolgárokat ne
 
 c) 121. §-a (1) bekezdésének 16. pontjában meghatározott integrációs felkészítést végző
 
-## iskola a helyi tanterve elkészítésénél figyelembe veszi az oktatási és kulturális miniszter által a közoktatásról szóló törvény 95. §-a (1) bekezdésének j) pontja alapján kiadott oktatási programokban (pedagógiai rendszerekben) foglaltakat is.
+## iskola a helyi tanterve elkészítésénél figyelembe veszi a miniszter által kiadott oktatási programokban (pedagógiai rendszerekben) foglaltakat is.
 
 (9) A helyi tantervbe be kell építeni a mindennapi testedzés céljait szolgáló foglalkozásokat, az iskolai sportkör foglalkozásait.
 
@@ -30,5 +30,5 @@ c) 121. §-a (1) bekezdésének 16. pontjában meghatározott integrációs felk
 
 (12) Ha a felnőttoktatást az esti oktatás munkarendje, illetve a levelező oktatás munkarendje szerint szervezik meg, a tanítási órák száma nem lehet kevesebb a közoktatásról szóló törvény 121. §-a (1) bekezdésének 26. pontjában meghatározott óraszámnál. A helyi tantervnek tartalmaznia kell, hogy a tanulónak az egyes tanórai foglalkozások között, az egyéni felkészülés keretében, milyen tantárgyból, milyen ismereteket kell elsajátítania.
 
-[^2]: A 2. § (1) bekezdése a 202/2007. (VII. 31.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
-[^3]: A 2. § (8) bekezdésének záró szövegrésze a 202/2007. (VII. 31.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 256. § a) és b) pontja szerint módosított szöveg.
+[^3]: A 2. § (8) bekezdés záró szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 256. § c) pontja szerint módosított szöveg.
