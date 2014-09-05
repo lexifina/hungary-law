@@ -1,3 +1,3 @@
-## 21. §[^22]
+## 21. §[^25]
 
-[^22]: A 21. § a (2) bekezdése alapján hatályát vesztette.
+[^25]: A 21. § a (2) bekezdése alapján hatályát vesztette.

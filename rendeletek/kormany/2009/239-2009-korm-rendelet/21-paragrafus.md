@@ -1,3 +1,3 @@
-## 20. §[^21]
+## 20. §[^24]
 
-[^21]: A 20. § a (2) bekezdése alapján hatályát vesztette.
+[^24]: A 20. § a (2) bekezdése alapján hatályát vesztette.
