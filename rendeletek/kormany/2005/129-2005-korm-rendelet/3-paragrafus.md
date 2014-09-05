@@ -6,7 +6,7 @@ b) véleményezi a szociális és gyermekvédelmi tárgyú szakmai koncepciókat
 
 c) véleményezi a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény, valamint e törvények végrehajtására kiadott kormányrendeletek és miniszteri rendeletek tervezetét,
 
-d)[^3] szociálpolitikai szempontból véleményezi a megyei önkormányzatok területfejlesztési koncepcióit és programjait,
+d)[^5] szociálpolitikai szempontból véleményezi a megyei önkormányzatok területfejlesztési koncepcióit és programjait,
 
 e) javaslatot tesz szociális és gyermekvédelmi tárgyú döntések meghozatalára, programok lebonyolítására, új módszerek alkalmazására és jogi szabályozásra,
 
@@ -38,7 +38,7 @@ h) 1 tagját a felsőfokú szociális alapvégzettséget nyújtó képzőhelyek
 
 a) a regionális szociálpolitikai tanácsok egy-egy képviselője,
 
-b)[^4] a Nemzeti Gazdasági és Társadalmi Tanácsban tagsággal rendelkező országos munkáltatói érdekképviseletek, illetve érdekképviseleti szövetségek, valamint munkavállalói érdekképviseletek, illetve érdekképviseleti szövetségek egy-egy képviselője,
+b)[^6] a Nemzeti Gazdasági és Társadalmi Tanácsban tagsággal rendelkező országos munkáltatói érdekképviseletek, illetve érdekképviseleti szövetségek, valamint munkavállalói érdekképviseletek, illetve érdekképviseleti szövetségek egy-egy képviselője,
 
 c) az Országos Fogyatékosügyi Tanács képviselője,
 
@@ -50,9 +50,9 @@ f) a Nemzeti Egészségügyi Tanács képviselője,
 
 g) a Betegjogi, Ellátottjogi és Gyermekjogi Közalapítvány képviselője,
 
-h) az Ifjúsági, Családügyi, Szociális és Esélyegyenlőségi Minisztérium képviselője,
+h)[^7] a miniszter által vezetett minisztérium képviselője,
 
-i) a Pénzügyminisztérium képviselője,
+i)[^8] az államháztartásért felelős miniszter által vezetett minisztérium képviselője,
 
 j) a napirendi pontban érintett más minisztérium és országos hatáskörű szerv képviselője.
 
@@ -64,5 +64,7 @@ a) az ellátások, illetve az ellátásokat igénybevevő társadalmi csoportok 
 
 b) eseti bizottságokat hozhat létre.
 
-[^3]: A 3. § (1) bekezdés d) pontja a 67/2012. (IV. 5.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
-[^4]: A 3. § (3) bekezdés b) pontja a 168/2011. (VIII. 24.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^5]: A 3. § (1) bekezdés d) pontja a 67/2012. (IV. 5.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (3) bekezdés b) pontja a 168/2011. (VIII. 24.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^7]: A 3. § (3) bekezdés h) pontja a 221/2014. (IX. 4.) Korm. rendelet 301. § b) pontja szerint módosított szöveg.
+[^8]: A 3. § (3) bekezdés i) pontja a 221/2014. (IX. 4.) Korm. rendelet 301. § c) pontja szerint módosított szöveg.
