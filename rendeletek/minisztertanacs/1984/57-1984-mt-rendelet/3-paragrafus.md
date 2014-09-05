@@ -120,7 +120,7 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban az 1984. évi július hó 19. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról az egészségügyi miniszter [^11] gondoskodik.
+(2)[^11] E rendelet végrehajtásáról az egészségügyért felelős miniszter gondoskodik.
 
 [^5]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^6]: A Szovjet Szocialista Köztársaságok Szövetségének államisága megszűnt. Az államutódlást külön megállapodások rendezik.
@@ -128,4 +128,4 @@
 [^8]: A Szovjet Szocialista Köztársaságok Szövetségének államisága megszűnt. Az államutódlást külön megállapodások rendezik.
 [^9]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^10]: A Szovjet Szocialista Köztársaságok Szövetségének államisága megszűnt. Az államutódlást külön megállapodások rendezik.
-[^11]: Lásd az 1998:XXXVI. törvény 2. §-a (1) bekezdésének b) pontját.
+[^11]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 95. §-ával megállapított szöveg.
