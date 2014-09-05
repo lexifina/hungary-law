@@ -1,5 +1,3 @@
-## 1. § A Kormány a közösségi emlékezet és a reális, jól megalapozott nemzeti történelmi tudat kialakulásának támogatása céljából, a nemzeti összetartozás erősítése érdekében, egyes állami feladatok ellátására létrehozza a Rendszerváltás Történetét Kutató Intézetet és Archívumot (a továbbiakban: Intézet).
+## 1. §[^1] A Rendszerváltás Történetét Kutató Intézet és Archívum (a továbbiakban: Intézet) a kormányzati társadalmi kapcsolatok összehangolásáért felelős miniszter (a továbbiakban: miniszter) irányítása alá tartozó központi költségvetési szerv.
 
-2. § (1) Az Intézet a Miniszterelnökséget vezető államtitkár irányítása alatt álló, önállóan működő és gazdálkodó költségvetési szerv.
-
-(2) Az Intézet székhelye Budapest.
+[^1]: Az 1. § a 221/2014. (IX. 4.) Korm. rendelet 724. §-ával megállapított szöveg.
