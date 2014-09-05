@@ -1,35 +1,16 @@
-## 3. § A miniszter irányítási jogkörében az elnök javaslatára kinevezi és felmenti a KEKKH elnökhelyetteseit.
+## 3. §[^3]
 
-4. § (1) A miniszter a KEKKH költségvetését – az e rendeletben meghatározott hatáskörét érintő feladatok tekintetében – a (2) bekezdés szerinti irányítási jogkört gyakorló miniszter véleményének kikérésével készíti elő.
+4. §[^4] (1) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (3) bekezdésében meghatározott hatásköröket a KEKKH
 
-(2)[^3] A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (3) bekezdésében meghatározott hatásköröket a KEKKH
+a) a közúti közlekedési nyilvántartási és igazgatási ügycsoportja esetében – a származás-ellenőrzéssel, az előzetes eredetiségvizsgálattal és a közúti közlekedési előéleti pontrendszerrel összefüggő ügycsoport kivételével – a közlekedésért felelős miniszter,
 
-a) útiokmány-nyilvántartási ügycsoportja tekintetében a külföldre utazás szabályozásáért felelős miniszter,
+b) a kormányablakok feladatai ellátásához nyújtott informatikai szolgáltatások tekintetében az e-közigazgatásért felelős miniszter és a közigazgatás-szervezésért felelős miniszter együttesen
 
-b) bűnügyi nyilvántartási rendszer adatkezelőként történő vezetésével, valamint az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartása vezetésével összefüggő ügycsoportja tekintetében a rendészetért felelős miniszter,
+## gyakorolja.
 
-c) a közúti közlekedési nyilvántartási és igazgatási ügycsoportja esetében – a d) pontban foglalt kivétellel – a közlekedésért felelős miniszter,
+(2) A miniszter a KEKKH költségvetését – az e rendeletben meghatározott hatáskörét érintő feladatok tekintetében – az (1) bekezdés szerinti irányítási jogkört gyakorló miniszter véleményének kikérésével készíti elő.
 
-d) a származás-ellenőrzéssel, az előzetes eredetiségvizsgálattal, valamint a közúti közlekedési előéleti pontrendszerrel összefüggő ügycsoportja tekintetében a közlekedésrendészetért felelős miniszter,
+(3) A KEKKH hatósági eljárásaiban az útiokmány-nyilvántartás vezetése, a származás-ellenőrzés, az előzetes eredetiségvizsgálat, a bűnügyi nyilvántartási rendszerrel, a szabálysértési nyilvántartással, a közlekedési pontrendszerrel, a személyiadat- és lakcím-nyilvántartással, az egyéni vállalkozói nyilvántartással és a magyar igazolvány nyilvántartással összefüggő eljárások kivételével a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
 
-e)[^4] szabálysértési nyilvántartás vezetésével összefüggő ügycsoportja tekintetében a szabálysértési szabályozásért felelős miniszter,
-
-f)[^5] a kormányablakok feladatai ellátásához nyújtott informatikai szolgáltatások tekintetében az e-közigazgatásért felelős miniszter és a közigazgatás szervezéséért felelős miniszter együttesen,
-
-g)[^6] anyakönyvi ügycsoportja tekintetében az anyakönyvi ügyekért felelős miniszter
-
-gyakorolja.
-
-(3)[^7]
-
-(3a)[^8]
-
-(4)[^9] A KEKKH hatósági eljárásaiban az útiokmány-nyilvántartás vezetése, a származás-ellenőrzés, az előzetes eredetiségvizsgálat, a bűnügyi nyilvántartási rendszerrel és a közlekedési pontrendszerrel összefüggő eljárások kivételével a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
-
-[^3]: A 4. § (2) bekezdése a 220/2010. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 4. § (2) bekezdés e) pontja az 515/2013. (XII. 30.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^5]: A 4. § (2) bekezdés f) pontját az 515/2013. (XII. 30.) Korm. rendelet 21. § (2) bekezdése iktatta be.
-[^6]: A 4. § (2) bekezdés g) pontját a 76/2014. (III. 14.) Korm. rendelet 3. §-a iktatta be.
-[^7]: A 4. § (3) bekezdését a 310/2007. (XI. 16.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 220/2010. (VII. 30.) Korm. rendelet 2. § (2) bekezdése.
-[^8]: A 4. § (3a) bekezdését a 105/2010. (IV. 9.) Korm. rendelet 5. § (1) bekezdése iktatta be, hatályon kívül helyezte az 56/2014. (III. 4.) Korm. rendelet 5. § a) pontja.
-[^9]: A 4. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 10. § (15) bekezdése iktatta be, szövege a 282/2011. (XII. 21.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. §-t a 221/2014. (IX. 4.) Korm. rendelet 345. §-a hatályon kívül helyezte.
+[^4]: A 4. § a 221/2014. (IX. 4.) Korm. rendelet 343. §-áva megállapított szöveg.

@@ -1,4 +1,4 @@
-12/A. §[^24] (1) A hatáskörében kibocsátott – külön jogszabályokban meghatározott – okmányok vonatkozásában, a KEKKH a még kitöltetlen okmányok következő adatait kezeli:
+12/A. §[^22] (1) A hatáskörében kibocsátott – külön jogszabályokban meghatározott – okmányok vonatkozásában, a KEKKH a még kitöltetlen okmányok következő adatait kezeli:
 
 a) az okmány típusa,
 
@@ -10,34 +10,34 @@ d) az okmány tárolási helye,
 
 e) az okmány bevételezésére, kiadására és felhasználására, érvénytelenségére, selejtezésére vonatkozó adatok,
 
-f)[^25] a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá az egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvényben meghatározott figyelmeztető jelzés kezelésével kapcsolatos adatok.
+f)[^23] a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá az egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvényben meghatározott figyelmeztető jelzés kezelésével kapcsolatos adatok.
 
 (2) Az (1) bekezdésben meghatározott nyilvántartásban a nyilvántartásba vétel és az adatokban bekövetkező változások időpontját – időrendi sorrendben – is nyilván kell tartani.
 
-(3)[^26] A KEKKH kizárólagos illetékességi körében ellátja:
+(3)[^24] A KEKKH kizárólagos illetékességi körében ellátja:
 
 a) a „V”, az „SP” és a „CD” betűjelű ideiglenes, továbbá az „DT”, a „CK” és az „OT” betűjelű különleges rendszámtábla kiadásával,
 
 b) az egyénileg kiválasztott rendszámtábla megválasztásának és az egyedileg előállított rendszámtábla legyártatásának engedélyezésével, valamint
 
-c)[^27] a külföldi vezetői engedély honosításával és visszahonosításával,
+c)[^25] a külföldi vezetői engedély honosításával és visszahonosításával,
 
-d)[^28] az elektronikus úton indított, az ügyfél személyes megjelenése nélkül intézhető közlekedési igazgatási ügyekkel
+d)[^26] az elektronikus úton indított, az ügyfél személyes megjelenése nélkül intézhető közlekedési igazgatási ügyekkel
 
-e)[^29] a mozgásában korlátozott személy parkolási igazolványának elektronikus úton történő pótlásával és cseréjével
+e)[^27] a mozgásában korlátozott személy parkolási igazolványának elektronikus úton történő pótlásával és cseréjével
 
 kapcsolatos feladatokat.
 
-(4)[^30] A KEKKH Budapest és Pest megye területére kiterjedő kizárólagos illetékességgel ellátja:
+(4)[^28] A KEKKH Budapest és Pest megye területére kiterjedő kizárólagos illetékességgel ellátja:
 
 a) a „P”, és a „Z” betűjelű ideiglenes, valamint
 
 b) a külön jogszabályban meghatározott közúti közlekedési szolgáltatást végző járműre a szabványtól eltérő alapszínű (sárga) rendszámtábla kiadásával, továbbá az ilyen jellegű járművek üzemeltetési jellegével, annak változásával, üzemben tartói és tulajdonjogának változásával kapcsolatos feladatokat.
 
-[^24]: A 12/A. §-t a 242/2007. (IX. 21.) Korm. rendelet 29. § (1) bekezdése iktatta be.
-[^25]: A 12/A. § (1) bekezdés f) pontja a 15/2013. (I. 28.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
-[^26]: A 12/A. § (3) bekezdését a 418/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^27]: A 12/A. § (3) bekezdés c) pontja az 515/2013. (XII. 30.) Korm. rendelet 21. § (4) bekezdése szerint módosított szöveg.
-[^28]: A 12/A. § (3) bekezdés d) pontját az 5/2013. (I. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege az 51/2013. (II. 25.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^29]: A 12/A. § (3) bekezdés e) pontját az 5/2013. (I. 16.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^30]: A 12/A. § (4) bekezdését a 418/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^22]: A 12/A. §-t a 242/2007. (IX. 21.) Korm. rendelet 29. § (1) bekezdése iktatta be.
+[^23]: A 12/A. § (1) bekezdés f) pontja a 15/2013. (I. 28.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^24]: A 12/A. § (3) bekezdését a 418/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^25]: A 12/A. § (3) bekezdés c) pontja az 515/2013. (XII. 30.) Korm. rendelet 21. § (4) bekezdése szerint módosított szöveg.
+[^26]: A 12/A. § (3) bekezdés d) pontját az 5/2013. (I. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege az 51/2013. (II. 25.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^27]: A 12/A. § (3) bekezdés e) pontját az 5/2013. (I. 16.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^28]: A 12/A. § (4) bekezdését a 418/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
