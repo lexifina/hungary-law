@@ -4,7 +4,7 @@ a) a tanári szakképzettség szerinti – a tantárgypedagógiát, a szakmódsz
 
 b) a tanári képesítés pedagógiai, pszichológiai elméleti és gyakorlati ismereteiből, amelynek kreditértéke 40;
 
-c) a közoktatási intézményben, felnőttképző intézményben szervezett, összefüggő szakmai gyakorlatból, amelynek kreditértéke 30.
+c)[^22] a köznevelési intézményben, felnőttképző intézményben szervezett, összefüggő szakmai gyakorlatból, amelynek kreditértéke 30.
 
 (2) A tanári szakon az (1) bekezdés a)–b) pontjai szerinti elemek oktatása kizárólag együtt folyhat. Az (1) bekezdés c) pontja szerinti összefüggő szakmai gyakorlat csak az (1) bekezdés a)–b) pontjaiban meghatározott elemek tanulmányi követelményeinek eredményes teljesítését követően kezdhető meg.
 
@@ -22,7 +22,7 @@ a) az első tanári szakképzettség idegen nyelven történő oktatására felk
 
 b) az első tanári szakképzettség vagy az alapképzési szakon szerzett szakképzettség szakterületi ismereteihez illeszkedő, a Nemzeti Alaptanterv szerinti műveltségterület oktatására felkészítő szakterületi ismeret, amely az ember és társadalom műveltségi terület esetén – kivételként – első tanári szakképzettségként is választható,
 
-c) a közoktatás – szakrendszerű oktatásán túli – speciális, pedagógiai jellegű feladataira felkészítő szakterületi ismeret.
+c)[^23] a köznevelés – szakrendszerű oktatásán túli – speciális, pedagógiai jellegű feladataira felkészítő szakterületi ismeret.
 
 (8) A 12. § (4) bekezdésében foglaltakat figyelembe véve egy tanári szakképzettség megszerzése esetén az (1) bekezdés a) pontja szerinti szakterületi ismeret kreditértéke legalább 30.
 
@@ -30,6 +30,8 @@ c) a közoktatás – szakrendszerű oktatásán túli – speciális, pedagógi
 
 (10) Mesterfokozat és szakképzettség megszerzését követően az adott képzési területen, illetve szakterületen a tanári szakképzettség megszerzésére irányuló képzésben az (1) bekezdés a)–c) pontjaiban meghatározott követelmények teljesítéséhez legalább 90 kreditet kell összegyűjteni úgy, az (1) bekezdés b) pontjában meghatározott tanári képesítéshez rendelhető kreditek értéke legalább 40, és az (1) bekezdés c) pontjában meghatározott összefüggő szakmai gyakorlathoz rendelhető kreditek értéke legalább 20. A művészeti képzési területen a mesterfokozatra épülő vagy azzal párhuzamosan felvett képzésben – az (1) bekezdés a) pontjában meghatározott követelmények teljesítését figyelembe véve – mindösszesen legalább 60 kreditet kell teljesíteni.
 
-(11)[^17] A főiskolai szintű tanári szakképzettség megszerzését követően az adott képzési területen, illetve szakterületen egy tanári szakképzettség megszerzésére irányuló képzésben az (1) bekezdés a)–c) pontjaiban meghatározott követelmények teljesítéséhez legalább 60, két tanári szakképzettség megszerzéséhez legalább 90 kreditet kell összegyűjteni úgy, hogy a korábbi tanulmányok az ismeretanyag összevetésével kreditértékként beszámíthatók azzal, hogy az (1) bekezdés a) pontjában meghatározott követelményekhez rendelhető kreditek értéke egy tanári szakképzettség esetén legalább 30, két tanári szakképzettség esetén legalább 60.
+(11)[^24] A főiskolai szintű tanári szakképzettség megszerzését követően az adott képzési területen, illetve szakterületen egy tanári szakképzettség megszerzésére irányuló képzésben az (1) bekezdés a)–c) pontjaiban meghatározott követelmények teljesítéséhez legalább 60, két tanári szakképzettség megszerzéséhez legalább 90 kreditet kell összegyűjteni úgy, hogy a korábbi tanulmányok az ismeretanyag összevetésével kreditértékként beszámíthatók azzal, hogy az (1) bekezdés a) pontjában meghatározott követelményekhez rendelhető kreditek értéke egy tanári szakképzettség esetén legalább 30, két tanári szakképzettség esetén legalább 60.
 
-[^17]: A 13. § (11) bekezdése a 233/2007. (IX. 4.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^22]: A 13. § (1) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 306. § d) pontja szerint módosított szöveg.
+[^23]: A 13. § (7) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 306. § g) pontja szerint módosított szöveg.
+[^24]: A 13. § (11) bekezdése a 233/2007. (IX. 4.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

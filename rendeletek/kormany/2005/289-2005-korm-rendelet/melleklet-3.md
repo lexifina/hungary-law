@@ -10,6 +10,6 @@
 
 | 4. | mesterképzés | agrár |  | fenntartható takarmányozás (Sustainable Animal Nutrition and Feeding) | 120 |
 
-3. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^29]
+3. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^34]
 
-[^29]: A 3. számú melléklet a 98/2009. (IV. 24.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^34]: A 3. számú melléklet a 98/2009. (IV. 24.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 306. § b) pontja szerint módosított szöveg.

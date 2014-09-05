@@ -582,7 +582,7 @@
 
 | 290. | multimédia | média design |  | 120 |
 
-2/A. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^28]
+2/A. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^33]
 
 [^1.]: A mesterképzési és osztatlan képzési szakokról szóló melléklet nem tartalmazza a tanári mesterképzési és a tanári osztatlan képzési szakokat.
-[^28]: A 2/A. számú mellékletet a 39/2011. (III. 22.) Korm. rendelet 12. § (3) bekezdése iktatta be, szövege a 229/2011. (X. 28.) Korm. rendelet 3. §-a, a 325/2013. (VIII. 29.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^33]: A 2/A. számú mellékletet a 39/2011. (III. 22.) Korm. rendelet 12. § (3) bekezdése iktatta be, szövege a 229/2011. (X. 28.) Korm. rendelet 3. §-a, a 325/2013. (VIII. 29.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.

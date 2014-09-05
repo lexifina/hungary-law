@@ -1,6 +1,6 @@
 ## 3. § E rendelet alkalmazásában
 
-a) tanári szakképzettséget adó mesterképzési szak (a továbbiakban: tanári szak): mesterfokozatot nyújtó szak, amely a közoktatásról szóló 1993. évi LXXIX. törvény alkalmazási feltételeinek megfelelően az iskolai nevelés-oktatás 5–12., illetve 13. évfolyamain, valamint az Országos Képzési Jegyzékben meghatározott szakképzési évfolyamokon a tantárgyak, tantárgyi modulok oktatására és speciális pedagógiai jellegű feladatainak ellátására – ha a képzési és kimeneti követelmények eltérően nem rendelkeznek – két tanári szakképzettséget nyújt;
+a)[^8] tanári szakképzettséget adó mesterképzési szak (a továbbiakban: tanári szak): mesterfokozatot nyújtó szak, amely a köznevelésről szóló törvény alkalmazási feltételeinek megfelelően az iskolai nevelés-oktatás 5–12., illetve 13. évfolyamain, valamint az Országos Képzési Jegyzékben meghatározott szakképzési évfolyamokon a tantárgyak, tantárgyi modulok oktatására és speciális pedagógiai jellegű feladatainak ellátására – ha a képzési és kimeneti követelmények eltérően nem rendelkeznek – két tanári szakképzettséget nyújt;
 
 b) tanári szakképzettség: kettős jellegű szakképzettség, amely magába foglalja a szakterületi és a tanári képesítés ismereteit is. A szakterületi képesítés a tanári szak képzési és kimeneti követelményei alapján szakterületi modulok szerint oszlik meg;
 
@@ -17,3 +17,5 @@ g) művészeti területi tanári szakképzettség: a művészeti területen az a
 ga) a zeneművészeti képzési ág alapképzési szakjain, illetve szakirányain szerezhető szakképzettség szerinti tanári szakképzettség,
 
 gb) művészeti mesterszakon a művészeti szakképzettség megszerzését követően vagy azzal párhuzamosan szerezhető művésztanár szakképzettség.
+
+[^8]: A 3. § a) pontja a 221/2014. (IX. 4.) Korm. rendelet 306. § b) pontja szerint módosított szöveg.

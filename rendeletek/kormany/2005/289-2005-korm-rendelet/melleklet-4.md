@@ -122,7 +122,7 @@
 
 ## 3 A bölcsészettudományi képzési terület történelem, néprajz, pszichológia alapképzési szakján, a szabadbölcsészet alapképzési szak szakirányain, illetve a társadalomtudományi képzési területen a szociális és a társadalomismeret képzési ág kulturális antropológia, kommunikáció és médiatudomány, szociológia, társadalmi tanulmányok alapképzési szakján szerezhető szakképzettségekre épülő tanári szakképzettség.
 
-## 4 A hittanár-nevelő szakképzettség a katekéta-lelkipásztori munkatárs alapképzési szakra épülően szerezhető, amely a közoktatásról szóló 1993. évi LXXIX. törvény képesítési előírásai szerint jogosít pedagógus munkakör betöltésére. A hittanár-nevelő tanár szakképzettségre, a maximális hallgatói létszám megállapítása szempontjából, a hitéleti képzésekre vonatkozó szabályokat kell alkalmazni.
+## 4 A hittanár-nevelő szakképzettség a katekéta-lelkipásztori munkatárs alapképzési szakra épülően szerezhető, amely a köznevelésről szóló törvény képesítési előírásai szerint jogosít pedagógus munkakör betöltésére. A hittanár-nevelő tanár szakképzettségre, a maximális hallgatói létszám megállapítása szempontjából, a hitéleti képzésekre vonatkozó szabályokat kell alkalmazni.
 
 ## A szakképzés, illetve művészeti szakképzés területén mesterfokozatra és nem tanári szakképzettségre épülő
 
@@ -158,6 +158,6 @@
 
 ## 3 A tanári szakképzettség a mesterfokozatot adó nem tanári szakképzettséggel párhuzamosan vagy annak megszerzése után szerezhető, két tanári szakképzettséget adó képzésben. A gyógypedagógus-tanár szakképzettség bármely közismereti tanári szakképzettséggel társítható.
 
-4. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^30]
+4. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^35]
 
-[^30]: A 4. számú melléklet a 33/2007. (III. 7.) Korm. rendelet 12. § (3) bekezdésének k) pontja szerint módosított szöveg.
+[^35]: A 4. számú melléklet a 33/2007. (III. 7.) Korm. rendelet 12. § (3) bekezdésének k) pontja szerint módosított szöveg.
