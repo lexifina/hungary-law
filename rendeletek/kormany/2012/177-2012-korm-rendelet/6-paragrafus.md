@@ -1,4 +1,4 @@
-## 5/A. §[^1] A Hivatal – kormányrendeletben foglalt kijelölés alapján – ellátja a felszámolási eljárásban az adós szervezetek vagyontárgyai elektronikus értékesítési rendszerének létrehozásával és működtetésével összefüggő feladatokat.
+## 5/A. §[^5]
 
 6. § (1) A Kormány áldozatsegítő szolgálatként az igazságügyi szolgálatot, valamint a Hivatalt jelöli ki.
 
@@ -26,4 +26,4 @@ c) gondoskodik a bűncselekmények áldozatainak segítéséről és az állami 
 
 d) az áldozatsegítési eljárásban méltányossági jogkört gyakorol.
 
-[^1]: Az 5/A. §-t a 17/2014. (II. 3.) Korm. rendelet 31. §-a iktatta be, alkalmazására lásd e módosító rendelet 28. § (2) bekezdését.
+[^5]: Az 5/A. §-t a 17/2014. (II. 3.) Korm. rendelet 31. §-a iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 681. §-a.
