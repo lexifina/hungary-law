@@ -102,4 +102,6 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba; rendelkezéseit azonban az 1979. évi augusztus hó 13. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról – az érdekelt miniszterekkel és országos hatáskörű szervek vezetőivel egyetértésben – a Kulturális Kapcsolatok Intézete elnöke gondoskodik.
+(2)[^2] E rendelet végrehajtásáról – az oktatásért felelős miniszterrel, a kultúráért felelős miniszterrel és a tudománypolitika koordinációjáért felelős miniszterrel egyetértésben – a külpolitikáért felelős miniszter gondoskodik.
+
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 56. §-ával megállapított szöveg.
