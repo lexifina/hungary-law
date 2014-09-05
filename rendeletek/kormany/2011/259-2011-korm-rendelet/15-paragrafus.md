@@ -1,4 +1,4 @@
-## 14. §[^51] A létesítményi tűzoltók esetében a biztosítási díj forrását a fenntartó köteles biztosítani. A szerződést a létesítményi tűzoltóság fenntartója köti meg.
+## 14. §[^52] A létesítményi tűzoltók esetében a biztosítási díj forrását a fenntartó köteles biztosítani. A szerződést a létesítményi tűzoltóság fenntartója köti meg.
 
 ## IV. Fejezet
 
@@ -10,4 +10,4 @@
 
 (2) Az 1–14. §, a 16–22. §, a 24–25. §, az 1. és 2. melléklet 2012. január 1-jén lép hatályba.
 
-[^51]: A 14. § a 368/2012. (XII. 17.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^52]: A 14. § a 368/2012. (XII. 17.) Korm. rendelet 11. §-ával megállapított szöveg.

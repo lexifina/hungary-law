@@ -1,3 +1,3 @@
-25. §[^57]
+25. §[^58]
 
-[^57]: A 24–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: A 24–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
