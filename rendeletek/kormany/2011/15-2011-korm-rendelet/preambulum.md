@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (1) bekezdés i) pontjában meghatározott hatáskörében eljárva, a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 149. § (3) bekezdés a) pontja alapján a következőket rendeli el:
