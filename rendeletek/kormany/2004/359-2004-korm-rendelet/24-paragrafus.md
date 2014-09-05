@@ -12,15 +12,16 @@
 
 (6)[^49] Az (1) és (2) bekezdés szerinti bankszámlák forgalmáról a Magyar Államkincstár bankszámlakivonatot küld a nemzeti hatóságnak és az alkifizető hatóságnak. A nemzeti hatóság ez alapján látja el a kincstári elszámolások beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló 240/2003. (XII. 17.) Korm. rendelet 4. §-a szerinti adatszolgáltatási kötelezettségét.
 
-(7) A bankszámlák vezetésével kapcsolatos bárminemű költség elszámolása közvetlenül a központi költségvetés terhére történik a Pénzügyminisztérium fejezet, Egyéb költségvetési kiadások cím, Vegyes kiadások alcím terhére.
+(7)[^50] A bankszámlák vezetésével kapcsolatos bárminemű költség elszámolása az államháztartásért felelős miniszter által vezetett minisztérium költségvetési fejezete terhére történik.
 
-(8)[^50] A nemzeti hatóság (az alkifizető hatóság rendelkezési jogába átadott) számláin keletkező árfolyam-különbözetből adódó nyereség vagy veszteség összegét az adott programra nyitott EFK-számlával szemben kell pénzügyileg rendezni.
+(8)[^51] A nemzeti hatóság (az alkifizető hatóság rendelkezési jogába átadott) számláin keletkező árfolyam-különbözetből adódó nyereség vagy veszteség összegét az adott programra nyitott EFK-számlával szemben kell pénzügyileg rendezni.
 
-(9)[^51] A nemzeti hatóság (az alkifizető hatóság rendelkezési jogába átadott) számláin keletkezett kamatok felhasználhatóak az adott projekt költségvetési finanszírozására az alkifizető hatóság által meghatározott feltételek szerint.
+(9)[^52] A nemzeti hatóság (az alkifizető hatóság rendelkezési jogába átadott) számláin keletkezett kamatok felhasználhatóak az adott projekt költségvetési finanszírozására az alkifizető hatóság által meghatározott feltételek szerint.
 
 [^46]: A 24. § (1) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^47]: A 24. § (2) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^48]: A 24. § (5) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^49]: A 24. § (6) bekezdése a 243/2006. (XII. 5.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^50]: A 24. § (8) bekezdése a 243/2006. (XII. 5.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^51]: A 24. § (9) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^50]: A 24. § (7) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 292. § c) pontja szerint módosított szöveg.
+[^51]: A 24. § (8) bekezdése a 243/2006. (XII. 5.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^52]: A 24. § (9) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 10. § (2) bekezdése iktatta be.

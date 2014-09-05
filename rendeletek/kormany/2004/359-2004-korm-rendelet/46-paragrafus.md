@@ -12,7 +12,7 @@ d) a kifizetések engedélyezéséhez.
 
 (3) A kifizetések teljesítését megelőzően az irányító hatóság, illetve a nemzeti hatóság ellenőrzi a szükséges hazai (költségvetési és saját) forrás rendelkezésre állását.
 
-(4)[^79] A kifizetéseket megelőző dokumentum alapú ellenőrzések keretében a számlákon szereplő költségek elszámolhatóságának megállapításához ellenőrizni kell az elszámolásra benyújtott számlákhoz kapcsolódó szerződéseket, illetve – a strukturális alapok által társfinanszírozott tevékenységek kiadásainak támogathatósága tekintetében az 1260/1999/EK tanácsi rendelet alkalmazása részletes szabályainak megállapításáról szóló 1685/2000/EK rendelet módosításáról és az 1145/2003/EK rendelet hatályon kívül helyezéséről szóló 448/2004/EK rendeletben előírt elszámolhatósági szabályokra tekintettel – az alvállalkozói szerződéseket és számlákat is.
+(4)[^80] A kifizetéseket megelőző dokumentum alapú ellenőrzések keretében a számlákon szereplő költségek elszámolhatóságának megállapításához ellenőrizni kell az elszámolásra benyújtott számlákhoz kapcsolódó szerződéseket, illetve – a strukturális alapok által társfinanszírozott tevékenységek kiadásainak támogathatósága tekintetében az 1260/1999/EK tanácsi rendelet alkalmazása részletes szabályainak megállapításáról szóló 1685/2000/EK rendelet módosításáról és az 1145/2003/EK rendelet hatályon kívül helyezéséről szóló 448/2004/EK rendeletben előírt elszámolhatósági szabályokra tekintettel – az alvállalkozói szerződéseket és számlákat is.
 
 (5) A pénzügyi lebonyolítás során az irányító hatóságnak, illetve a nemzeti hatóságnak gondoskodnia kell a kifizetéseket megelőző – kockázatelemzés alapján történő – folyamatba épített helyszíni ellenőrzések lefolytatásáról, melyek keretében ellenőrizni kell a projektek szerződéseknek megfelelő előrehaladását.
 
@@ -20,4 +20,4 @@ d) a kifizetések engedélyezéséhez.
 
 (7) Az irányító hatóság és a közreműködő szervezet közötti megállapodásban rögzíteni kell a folyamatba épített ellenőrzések végrehajtásának kötelezettségét a delegált feladatok vonatkozásában.
 
-[^79]: A 46. § (4) bekezdése a 243/2006. (XII. 5.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^80]: A 46. § (4) bekezdése a 243/2006. (XII. 5.) Korm. rendelet 18. §-ával megállapított szöveg.

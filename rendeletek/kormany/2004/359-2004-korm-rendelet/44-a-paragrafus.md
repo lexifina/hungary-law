@@ -1,6 +1,6 @@
-## 44. §[^71]
+## 44. §[^72]
 
-## HARMADIK RÉSZ[^72]
+## HARMADIK RÉSZ[^73]
 
 ## SZABÁLYTALANSÁGOK KEZELÉSE
 
@@ -18,5 +18,5 @@ d) az OLAF Koordinációs Irodával történő együttműködésről,
 
 e) a kifizető hatósággal, illetve alkifizető hatósággal történő együttműködésről.
 
-[^71]: A 44. §-t a 243/2006. (XII. 5.) Korm. rendelet 29. § (2) bekezdése hatályon kívül helyezte.
-[^72]: Az új harmadik részt [44/A–44/K. §] a 243/2006. (XII. 5.) Korm. rendelet 16. §-a iktatta be, egyidejűleg az eredeti harmadik és negyedik rész számozását negyedik és ötödik részre változtatta.
+[^72]: A 44. §-t a 243/2006. (XII. 5.) Korm. rendelet 29. § (2) bekezdése hatályon kívül helyezte.
+[^73]: Az új harmadik részt [44/A–44/K. §] a 243/2006. (XII. 5.) Korm. rendelet 16. §-a iktatta be, egyidejűleg az eredeti harmadik és negyedik rész számozását negyedik és ötödik részre változtatta.
