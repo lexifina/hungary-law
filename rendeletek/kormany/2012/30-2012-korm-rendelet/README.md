@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-30-20-2
 | 2012-03-10 | 2012-30-20-22.1 | 30/2012. (III. 7.) Korm. rendelet |
 | 2012-03-11 | 2012-30-20-22.2 | 2010: CXXX. törvény |
 | 2013-01-01 | 2012-30-20-22.3 | 366/2012. (XII. 17.) Korm. rendelet |
+| 2014-09-05 | 2012-30-20-22.4 | 366/2012. (XII. 17.) Korm. rendelet |
