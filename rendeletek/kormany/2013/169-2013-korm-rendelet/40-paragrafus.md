@@ -1,5 +1,0 @@
-## 39. § Ez a rendelet a kihirdetését követő napon lép hatályba.
-
-40. § (1) E rendelet 27. §-a az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012. 1. 11., 3. o.) hatálya alá tartozó támogatást tartalmaz. A támogatás felhasználására vonatkozó uniós állami támogatási rendelkezések a közszolgáltatási szerződésben kerülnek meghatározásra.
-
-(2) Az (1) bekezdés szerinti feladat tekintetében ésszerű nyereség kerülhet elszámolásra. Az ésszerű nyereség számolására az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló 2012/21/EU bizottsági határozat 5. cikke alkalmazandó.
