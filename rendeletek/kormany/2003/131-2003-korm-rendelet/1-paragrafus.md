@@ -2,7 +2,7 @@
 
 ## 1. § A rendelet hatálya kiterjed
 
-a)[^1] a Miniszterelnöki Hivatalra, a minisztériumokra, a Kormány vagy miniszter irányítása vagy felügyelete alá tartozó központi államigazgatási szervekre, valamint ezek centrális alárendeltségű közigazgatási szerveire,
+a)[^1] a Kormány, a kormánybizottság, az autonóm államigazgatási szerv és az önálló szabályozó szerv kivételével a központi államigazgatási szervekre,
 
 b) a külön jogszabályban[^2] meghatározott helyi védelmi igazgatási szervekre,
 
@@ -10,7 +10,7 @@ c) a külön jogszabályban[^3] meghatározott honvédelmi felkészülés és az
 
 d) a külön jogszabályban[^4] meghatározott vagyoni szolgáltatásra kötelezettekre (a továbbiakban: szolgáltatók).
 
-[^1]: Az 1. § a) pontja a 182/2009. (IX. 10.) Korm. rendelet 302. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^1]: Az 1. § a) pontja a 221/2014. (IX. 4.) Korm. rendelet 248. §-ával megállapított szöveg.
 [^2]: A Hvt. 259. § c) pontja.
 [^3]: A Hvt. 66. § (1) bekezdése.
 [^4]: A Hvt. 69. § (3) bekezdése.
