@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-149-20-
 | --- | --- | --- |
 | 2012-07-07 | 2012-149-20-22.1 | 149/2012. (VII. 6.) Korm. rendelet |
 | 2014-03-15 | 2012-149-20-22.2 | 80/2014. (III. 14.) Korm. rendelet |
+| 2014-09-05 | 2012-149-20-22.3 | 221/2014. (IX. 4.) Korm. rendelet |

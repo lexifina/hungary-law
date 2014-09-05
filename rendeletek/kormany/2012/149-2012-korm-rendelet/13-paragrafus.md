@@ -2,9 +2,9 @@
 
 ## 5. A támogatás igénylése, a támogatási kérelem
 
-13. § (1) A kérelmezőnek a támogatásra vonatkozó igényét cégszerűen aláírt szándéknyilatkozatban kell bejelentenie a miniszter által vezetett minisztériumhoz (a továbbiakban: minisztérium).
+13. § (1)[^2] A kérelmezőnek a támogatásra vonatkozó igényét cégszerűen aláírt szándéknyilatkozatban kell bejelentenie a miniszternek.
 
-(2) Ha a kérelmező a Kormány egyedi döntéseivel megítélhető beruházásösztönző képzési támogatásra vagy a regionális beruházási támogatás szabályairól szóló jogszabály hatálya alá tartozó regionális beruházási támogatásra vonatkozóan már nyújtott be szándéknyilatkozatot a minisztériumhoz vagy a Kormány részére, amely tartalmazta az e rendelet alapján megítélhető támogatásokra vonatkozó igényt is, és azt a miniszter visszaigazolta vagy a Kormány a támogatásokat megajánlotta, a továbbiakban a 14. § (1) bekezdése szerint kell eljárni. Ha a kérelmező által benyújtott szándéknyilatkozat nem tartalmazta a képzési támogatásra vonatkozóan a (3) bekezdés h) pontja szerinti elemzést, azt a kérelemhez a 15. § (1) bekezdésében előírtakon túlmenően csatolni kell.
+(2)[^3] Ha a kérelmező a Kormány egyedi döntéseivel megítélhető beruházásösztönző képzési támogatásra vagy a regionális beruházási támogatás szabályairól szóló jogszabály hatálya alá tartozó regionális beruházási támogatásra vonatkozóan már nyújtott be szándéknyilatkozatot a miniszter vagy a Kormány részére, amely tartalmazta az e rendelet alapján megítélhető támogatásokra vonatkozó igényt is, és azt a miniszter visszaigazolta vagy a Kormány a támogatásokat megajánlotta, a továbbiakban a 14. § (1) bekezdése szerint kell eljárni. Ha a kérelmező által benyújtott szándéknyilatkozat nem tartalmazta a képzési támogatásra vonatkozóan a (3) bekezdés h) pontja szerinti elemzést, azt a kérelemhez a 15. § (1) bekezdésében előírtakon túlmenően csatolni kell.
 
 (3) A szándéknyilatkozat tartalmazza:
 
@@ -33,3 +33,6 @@ hc) növekszik a kérelmező által a projektre fordítandó összeg, vagy
 hd) lényegesen felgyorsul a projekt végrehajtási üteme.
 
 (4) A miniszter a kérelmező szándéknyilatkozatának benyújtását követő 30 napon belül, a támogatási célra rendelkezésre álló keret figyelembe vételével írásban állást foglal a támogatási kérelem benyújthatóságáról.
+
+[^2]: A 13. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 673. § a) pontja szerint módosított szöveg.
+[^3]: A 13. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 673. § b) pontja szerint módosított szöveg.
