@@ -294,6 +294,6 @@
 
 ## 10.2. a kivitelezési tevékenység végzéséhez szükséges – tervezői koordinátor által ellenőrzött – munkabiztonsági és egészségvédelmi tervet.
 
-2. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^301]
+2. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^302]
 
-[^301]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 91. § b) pontjával megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (19) bekezdése, a (20) bekezdés 19. pontja, valamint a (21) bekezdés i) pontja, a 336/2013. (IX. 20.) Korm. rendelet 16. § d)–f) pontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 34–35. pontja szerint módosított szöveg.
+[^302]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 91. § b) pontjával megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (19) bekezdése, a (20) bekezdés 19. pontja, valamint a (21) bekezdés i) pontja, a 336/2013. (IX. 20.) Korm. rendelet 16. § d)–f) pontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 34–35. pontja szerint módosított szöveg.
