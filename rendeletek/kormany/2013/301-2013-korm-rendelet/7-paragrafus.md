@@ -2,6 +2,8 @@
 
 (2) Engedély hiányában a tevékenység nem kezdhető meg. Az engedély lejártát a benyújtott tanúsítványok érvényességi időtartamához igazodóan kell megállapítani.
 
-(3) Ha a külföldön végzett adatkezelésre vagy rendszerüzemeltetésre olyan nemzetközi szerződés alapján kerül sor, amelyben a magyar állam az egyik szerződő fél, a hatóságot tájékoztatni kell az érintett adatokról, az adatfeldolgozó, vagy üzemeltető személyéről, és a szerződéses jogviszony tartalmáról. A hatóság a tájékoztatást további eljárás lefolytatása nélkül tudomásul veszi.
+(3)[^1] Ha a külföldön végzett adatkezelésre vagy rendszerüzemeltetésre olyan nemzetközi szerződés alapján kerül sor, amelyben az állam az egyik szerződő fél, a hatóságot tájékoztatni kell az érintett adatokról, az adatfeldolgozó, vagy üzemeltető személyéről, és a szerződéses jogviszony tartalmáról. A hatóság a tájékoztatást további eljárás lefolytatása nélkül tudomásul veszi.
 
 (4) Ha a hatóság tudomására jut, hogy az érintett szervezet – ide nem értve a (3) bekezdés szerinti tevékenységet – az adatkezelést, vagy üzemeltetést az Európai Unión, vagy az Ibtv. 3. § (1) bekezdése tekintetében Magyarországon kívül – ideértve a nem azonosítható adatkezelési, vagy jogszabály által kizárt helyszínen megvalósuló, felhő alapú számítástechnikai szolgáltatásokat is – folytatja, a hatóság a 17. § szerinti jogkövetkezményt alkalmazza.
+
+[^1]: A 7. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 748. §-a szerint módosított szöveg.
