@@ -1,1 +1,0 @@
-## „u) támogatási szerződés: adott pályázati alap támogatásközvetítő szervezete és az általa további pályáztatással kiválasztott nyertes pályázók (végső kedvezményezettek) által kötött, a pályázati alapból elnyert támogatás felhasználást szabályozó szerződés;”
