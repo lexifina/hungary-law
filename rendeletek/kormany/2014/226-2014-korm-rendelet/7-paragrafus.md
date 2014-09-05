@@ -1,0 +1,3 @@
+## 6. § Az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet (a továbbiakban: R2.) 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az EETS szolgáltató köteles biztosítani, hogy szolgáltatása a nyilvántartásba vétele után 24 hónapon belül lefedje a teljes EETS szolgáltatásba bevont valamennyi magyarországi és külföldi útszakaszt (EETS terület), továbbá az EETS területet érintő változás esetén, vagy ha a lefedettség valamilyen okból már nem teljes, azt hat hónapon belül helyreállítja.”
