@@ -22,9 +22,9 @@ gb)[^6] egyéb esetekben a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t
 
 h)[^7] az elektronikus tájékoztatási szolgáltatás vonatkozásában
 
-ha) az egyablakos központi tájékoztatási felület, valamint a kormányzati szintű hivatali tájékoztatás tekintetében a közigazgatási és igazságügyi minisztert, aki e feladatának ellátásához a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. közreműködését igénybe veheti,
+ha) az egyablakos központi tájékoztatási felület, valamint a kormányzati szintű hivatali tájékoztatás tekintetében az e-közigazgatásért felelős minisztert, aki e feladatának ellátásához a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. közreműködését igénybe veheti,
 
-hb) az általános országinformációk, valamint az ÁNYK űrlap benyújtás támogatási szolgáltatás keretében intézhető elektronikus ügyekre vonatkozó tájékoztatás tekintetében a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős minisztert, aki e feladatának ellátásához a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. közreműködését igénybe veheti,
+hb) az általános országinformációk és az ÁNYK űrlap benyújtás támogatási szolgáltatás keretében intézhető elektronikus ügyekre vonatkozó tájékoztatás tekintetében az e-közigazgatásért felelős minisztert, aki e feladatának ellátásához a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. közreműködését igénybe veheti,
 
 i)[^8] az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
 
@@ -55,7 +55,7 @@ t)[^17] a központi kézbesítési ügynök szolgáltatás tekintetében a NISZ 
 [^4]: A 4. § e) pontja a 169/2013. (V. 29.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
 [^5]: A 4. § f) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (4) bekezdése hatályon kívül helyezte.
 [^6]: A 4. § g) pont gb) alpontja a 252/2013. (VII. 4.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^7]: A 4. § h) pontja a 252/2013. (VII. 4.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^7]: A 4. § h) pontja a 221/2014. (IX. 4.) Korm. rendelet 663. §-ával megállapított szöveg.
 [^8]: A 4. § i) pontja a 169/2013. (V. 29.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
 [^9]: A 4. § k) pontja a 169/2013. (V. 29.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
 [^10]: A 4. § l) pontja a 252/2013. (VII. 4.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
