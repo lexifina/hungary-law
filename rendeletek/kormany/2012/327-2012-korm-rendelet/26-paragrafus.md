@@ -2,7 +2,7 @@
 
 ## 18. A tranzit és a tartós foglalkoztatásra kiírt pályázat szabályai
 
-26. § (1)[^46] A miniszter minden év szeptember 30-áig pályázatot hirdet a rehabilitációs foglalkoztatásra.
+26. § (1)[^47] A miniszter minden év szeptember 30-áig pályázatot hirdet a rehabilitációs foglalkoztatásra.
 
 (2) A pályázat célja a rehabilitációs foglalkoztatás tekintetében a szükséges foglalkoztatási kapacitások biztosítása.
 
@@ -28,9 +28,9 @@ g) a keretszerződés megkötésének, illetve meghosszabbításának feltétele
 
 (6) A pályázatot elektronikus formában, a pályázati felhívásban meghatározott módon kell benyújtani.
 
-(7)[^47] Hiányosan benyújtott pályázat esetén a Hivatal a pályázót egy alkalommal 5 munkanapos határidővel hiánypótlásra hívja fel.
+(7)[^48] Hiányosan benyújtott pályázat esetén a Hivatal a pályázót egy alkalommal 5 munkanapos határidővel hiánypótlásra hívja fel.
 
 (8) A pályázatot el kell utasítani, ha a pályázó a pályázatot határidőn túl nyújtja be, vagy a hiánypótlási felhívásnak határidőben nem vagy nem megfelelően tesz eleget.
 
-[^46]: A 26. § (1) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § c) pontja szerint módosított szöveg.
-[^47]: A 26. § (7) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § d) pontja szerint módosított szöveg.
+[^47]: A 26. § (1) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § c) pontja szerint módosított szöveg.
+[^48]: A 26. § (7) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § d) pontja szerint módosított szöveg.
