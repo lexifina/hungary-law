@@ -12,7 +12,7 @@ d) a felsőoktatási információs rendszer (a továbbiakban: FIR) működésé�
 
 e) a felsőoktatási intézmények nyilvántartását vezető szervnek,
 
-f)[^1] a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek,
+f)[^3] a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek,
 
 g) a központi felsőoktatási felvételi eljárást lebonyolító szervnek,
 
@@ -26,4 +26,4 @@ k) az Európai Képesítési Keretrendszer Nemzeti Kapcsolattartó Pontja felada
 
 l) a köznevelési, felsőoktatási és szakképzési rendszer tartalmi és módszertani kutatási és fejlesztési feladatai ellátásában közreműködő szervnek.
 
-[^1]: A 3. § f) pontja a 325/2013. (VIII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § f) pontja a 325/2013. (VIII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
