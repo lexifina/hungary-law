@@ -72,4 +72,6 @@
 
 3. § (1) E rendelet a kihirdetését követő napon lép hatályba.
 
-(2) A rendelet végrehajtásáról az igazságügyi és rendészeti miniszter, a Miniszterelnöki Hivatalt vezető miniszter, a nemzeti fejlesztési és gazdasági miniszter, az oktatási és kulturális miniszter, a pénzügyminiszter és a külügyminiszter gondoskodnak.
+(2)[^1] E rendelet végrehajtásáról – a nemzetiségpolitikáért felelős miniszterrel, az oktatásért felelős miniszterrel, a kultúráért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben – a külpolitikáért felelős miniszter gondoskodik.
+
+[^1]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 445. §-ával megállapított szöveg.
