@@ -884,4 +884,6 @@ A volt állambiztonsági szervek által, a holocausttal kapcsolatban összegyűj
 
 4. § (1) Ez a rendelet a kihirdetést követő 8. napon lép hatályba, rendelkezéseit azonban 2004. szeptember 1. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról a nemzeti kulturális örökség minisztere gondoskodik.
+(2)[^1] E rendelet végrehajtásáról a kultúráért felelős miniszter gondoskodik.
+
+[^1]: A 4. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 280. §-a szerint módosított szöveg.
