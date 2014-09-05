@@ -98,6 +98,6 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba; rendelkezéseit az 1975. évi december hó 2. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a közlekedési és vízügyi[^1] miniszter gondoskodik.
+(2)[^1] E rendelet végrehajtásáról az elektronikus hírközlésért felelős miniszter és a postaügyért felelős miniszter gondoskodik.
 
-[^1]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^1]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 11. §-ával megállapított szöveg.
