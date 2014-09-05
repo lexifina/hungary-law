@@ -36,7 +36,7 @@
 
 ## e) rendelkezésre áll a gazdálkodó szervezet írásbeli nyilatkozata arról, hogy vizsgálataiknál az ellenőrzést végző hatósággal egyeztetett időpontban és módon járnak el.
 
-4. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^26]
+4. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^27]
 
 A veszélyes folyadékok és olvadékok tárolótartályainak és tároló létesítményeinek létesítési, használatbavételi, átalakítási és megszüntetési engedélyezési eljárásában kijelölt szakhatóságok
 
@@ -78,7 +78,7 @@ A veszélyes folyadékok és olvadékok tárolótartályainak és tároló léte
 
 | 7. | A hatósági nyilvántartásban szereplő régészeti lelőhelyen megvalósuló létesítési vagy használatbavételi eljárás vagy külön jogszabályban meghatározott esetekben műemléket érintő tevékenység engedélyezésére irányuló eljárás. | Annak elbírálása kérdésében, hogy a tervezett tárolótartály a régészeti örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala | Budapest Főváros Kormányhivatalának Építésügyi és Örökségvédelmi Hivatala |
 
-5. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^27]
+5. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^28]
 
 A nyomástartó berendezések létesítési, használatbavételi, átalakítási és megszüntetési engedélyezési eljárásában kijelölt szakhatóságok
 
@@ -90,5 +90,5 @@ A nyomástartó berendezések létesítési, használatbavételi, átalakítási
 
 | 3. | Veszélyes töltetű nyomástartó berendezés létesítése, használatbavétele, átalakítása és megszüntetése esetén, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. | Minden esetben annak elbírálása kérdésében, hogy a tervezett nyomástartó berendezés a vízbázis-védelem követelményeinek a kérelem szerint vagy további feltételek mellett megfelel-e. | területi vízügyi hatóság | Országos Vízügyi Hatóság |
 
-[^26]: A 4. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (23) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át. Szövege az 51/2013. (II. 25.) Korm. rendelet 21. §-a, az 527/2013. (XII. 30.) Korm. rendelet 95. § a) pontja, a 42/2014. (II. 24.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
-[^27]: Az 5. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (24) bekezdése iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 95. § b) pontja, a 42/2014. (II. 24.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^27]: A 4. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (23) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át. Szövege az 51/2013. (II. 25.) Korm. rendelet 21. §-a, az 527/2013. (XII. 30.) Korm. rendelet 95. § a) pontja, a 42/2014. (II. 24.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^28]: Az 5. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (24) bekezdése iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 95. § b) pontja, a 42/2014. (II. 24.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.

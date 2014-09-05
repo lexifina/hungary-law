@@ -22,8 +22,9 @@ j) a hegesztett szerkezet helyszíni gyártásánál, szerelésénél, átalakí
 
 k) a tartályok, tároló létesítmények és berendezéseik gyártására és a tartályokhoz kapcsolódó helyszíni technológiai szerelésére, a tartályok javítását, átalakítását, tisztítását, szivárgásvizsgálatát, időszakos vizsgálatát végző gazdálkodó szervezetek nyilvántartásba vételének feltételeire és a tevékenység folytatásának részletes szabályaira, a nyilvántartásba vétel rendjére, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, és a nyilvántartás vezetésére, valamint az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre,
 
-l) az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben a kijelölt műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási-szolgáltatási díjak mértékére, valamint a díjak fizetésére
+l)[^23] az adópolitikáért felelős miniszterrel egyetértésben a kijelölt műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási-szolgáltatási díjak mértékére, valamint a díjak fizetésére
 
 vonatkozó részletes szabályokat rendeletben szabályozza.
 
 [^22]: A 11. § a 7/2013. (I. 18.) Korm. rendelet 6. § (18) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
+[^23]: A 11. § l) pontja a 221/2014. (IX. 4.) Korm. rendelet 517. §-a szerint módosított szöveg.
