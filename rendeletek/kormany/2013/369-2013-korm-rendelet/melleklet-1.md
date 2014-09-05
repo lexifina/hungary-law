@@ -1,6 +1,6 @@
-## 57. §[^3]
+## 57. §[^7]
 
-1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^4]
+1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^8]
 
 ## A szolgáltatói nyilvántartás adatai
 
@@ -334,5 +334,5 @@
 
 6.3.3. a 6.3.1. és a 6.3.2. pontban nem említett szolgáltatás esetén település, fővárosi kerület, kistérség, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
 
-[^3]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^7]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a szerint módosított szöveg.
