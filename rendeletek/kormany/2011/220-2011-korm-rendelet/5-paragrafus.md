@@ -8,8 +8,10 @@
 
 (5) Ha az egyéb hasznosításra vonatkozó összes feltétel teljesül, az Nfatv. és a Vagyontv. által meghatározott hatáskörében eljárva az NFA elnöke vagy a Birtokpolitikai Tanács, valamint az MNV Zrt. döntéshozatalra jogosult szerve 30 napon belül egymással együttműködve hozza meg az egyéb hasznosításra vonatkozó döntést.
 
-(6) Az ingatlan egyéb hasznosítása esetén a Magyar Állam nevében az NFA és az MNV Zrt. – a (3) bekezdésben meghatározott esetet kivéve – egyaránt szerződő fél az általuk előzetesen egyeztetett szerződéses feltételekkel.
+(6)[^5] Az ingatlan egyéb hasznosítása esetén az állam nevében az NFA és az MNV Zrt. – a (3) bekezdésben meghatározott esetet kivéve – egyaránt szerződő fél az általuk előzetesen egyeztetett szerződéses feltételekkel.
 
 (7) Az ingatlan hasznosítására vonatkozóan létrejött szerződésekből eredő jogokat és kötelezettségeket az NFA és az MNV Zrt. feladatkörében a hasznosítási szerződés rendelkezéseinek megfelelően gyakorolja és teljesíti. A hasznosítási szerződésben résztvevő további fél vagy felek kötelezettségszegése vagy mulasztása esetén felmerülő, vagy jogszabályból és a szerződésből egyéb okból következő pénzügyi igények vagy a szerződéses jogkövetkezmények alkalmazása vonatkozásában az NFA és az MNV Zrt. 30 napon belül közös álláspontot alakít ki és megteszi a szükséges intézkedéseket. Ha jogszabály vagy a szerződés az igény érvényesítésére ennél rövidebb határidőt állapít meg, az NFA és az MNV Zrt. a közös álláspontot olyan határidőben köteles kialakítani, hogy az állami igény határidőben érvényesíthető legyen.
 
 (8) Az ingatlant érintő tulajdonosi hozzájárulások kibocsátása, a közérdekű használati- és telki szolgalmi jogi megállapodások megkötése során az NFA és az MNV Zrt. olyan határidőn belül köteles a jognyilatkozatokat megtenni, hogy a hozzájárulás megadását, a megállapodás megkötését kezdeményező fél ilyen kérelmének elbírálása ne vegyen hosszabb időt igénybe, mintha az ingatlan nem tartozna a közös tulajdonosi joggyakorlás alá.
+
+[^5]: Az 5. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 577. § b) pontja szerint módosított szöveg.

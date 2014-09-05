@@ -8,4 +8,6 @@
 
 (5) Ha az Nfatv. vagy a Vagyontv. alapján más szerv vagy személy jogosult dönteni az ingatlan átruházásáról, akkor a (4) bekezdés szerinti 30 napos határidőn belül a döntés kezdeményezésének kell megtörténnie. Ha a végleges döntés meghozatalára versenyeztetési eljárást követően kerül sor, a 30 napos határidőn belüli döntésen az eljárás megindításáról szóló döntést kell érteni.
 
-(6) Az ingatlan tulajdonjogának átruházása esetén a Magyar Állam nevében eljáró NFA és az MNV Zrt. egyaránt szerződő fél az általuk előzetesen egyeztetett – egy vagy több okiratba foglalt – szerződéses feltételek mellett. Az NFA és az MNV Zrt. részéről ügyvédi közreműködés esetén közösen megbízott ellenjegyző jogi képviselő is eljárhat.
+(6)[^4] Az ingatlan tulajdonjogának átruházása esetén az állam nevében eljáró NFA és az MNV Zrt. egyaránt szerződő fél az általuk előzetesen egyeztetett – egy vagy több okiratba foglalt – szerződéses feltételek mellett. Az NFA és az MNV Zrt. részéről ügyvédi közreműködés esetén közösen megbízott ellenjegyző jogi képviselő is eljárhat.
+
+[^4]: A 4. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 577. § b) pontja szerint módosított szöveg.
