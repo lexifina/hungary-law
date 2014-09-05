@@ -124,6 +124,6 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba; rendelkezéseit azonban az 1978. évi február hó 8. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról az érdekelt miniszterekkel és országos hatáskörű szervek vezetőivel egyetértésben az oktatási[^2] miniszter gondoskodik.
+(2)[^2] E rendelet végrehajtásáról – az oktatásért felelős miniszterrel, a kultúráért felelős miniszterrel és a tudománypolitika koordinációjáért felelős miniszterrel egyetértésben – a külpolitikáért felelős miniszter gondoskodik.
 
-[^2]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 36. §-ával megállapított szöveg.
