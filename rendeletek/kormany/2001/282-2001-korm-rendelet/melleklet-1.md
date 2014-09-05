@@ -14,7 +14,7 @@ d) hitelviszonyt megtestesítő értékpapírok (kötvények):
 
 d1) magyar állampapír,
 
-d2) értékpapír, amelyben foglalt kötelezettség teljesítéséért a magyar állam készfizető kezességet vállal,
+d2)[^102] értékpapír, amelyben foglalt kötelezettség teljesítéséért az állam készfizető kezességet vállal,
 
 d3) külföldi állampapír,
 
@@ -66,27 +66,28 @@ k) értékpapír-kölcsönzési ügyletből származó követelések;
 
 l) kockázati tőkealapjegy;
 
-m)[^102] repó-(fordított repó-)ügyletek
+m)[^103] repó-(fordított repó-)ügyletek
 
-n)[^103] swapügyletek
+n)[^104] swapügyletek
 
-o)[^104] egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapír.
+o)[^105] egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapír.
 
-2.[^105] Nem szabványosított határidős és opciós ügyletek esetében az elszámolási feltételek és a partnerkockázat kialakítása során biztosítani kell, hogy a termék nem szabványosított voltából adódóan a pénztártagokat kár ne érhesse.
+2.[^106] Nem szabványosított határidős és opciós ügyletek esetében az elszámolási feltételek és a partnerkockázat kialakítása során biztosítani kell, hogy a termék nem szabványosított voltából adódóan a pénztártagokat kár ne érhesse.
 
 3. A pénztár nem köteles eladni a tulajdonában lévő, tőzsdéről kivezetésre kerülő részvényt az e rendelet befektetési kategóriáinak történő megfelelés céljából. Az ilyen értékpapírok aránya azonban nem haladhatja meg a befektetett pénztári eszközök 5%-át.
 
-4.[^106] A pénztár csak állampapír alapú, szállításos vagy óvadéki repót (fordított repót) köthet, melynek értéke nem haladhatja meg a befektetett pénztári eszközök 20%-át. A fedezeti tartalékból repó ügyletek (ide nem értve a fordított repót) csak likviditási célból köthetők.
+4.[^107] A pénztár csak állampapír alapú, szállításos vagy óvadéki repót (fordított repót) köthet, melynek értéke nem haladhatja meg a befektetett pénztári eszközök 20%-át. A fedezeti tartalékból repó ügyletek (ide nem értve a fordított repót) csak likviditási célból köthetők.
 
 5. Az egyéb kollektív befektetési értékpapírokra az e rendeletben a befektetési jegyekre meghatározott befektetési előírások az irányadók.
 
-6.[^107] A pénztári portfólió terhére a Tpt.-nek az értékpapír-kölcsönzésre vonatkozó szabályainak betartásával értékpapír-kölcsönzési ügylet köthető, ezen ügyletek összértéke nem haladhatja meg a befektetett pénztári eszközök 30%-át. A pénztári befektetési portfólióban csak értékpapírok kölcsönadása lehetséges, kölcsönvétele nem. Az értékpapír-kölcsönzési ügylet futamideje egy évnél hosszabb nem lehet, az ügylethez kapcsolódóan megfelelő óvadékot kell kikötni. Értékpapír-kölcsönzési ügylet esetében óvadékként csak olyan befektetési eszközök szolgálhatnak, amelyek megszerzését a jogszabályok és a pénztár befektetési politikája lehetővé teszik. A pénztár által kölcsönadott értékpapírok a pénztári portfolióból kikerülnek, ugyanakkor a befektetési korlátozások ellenőrzése során úgy kell őket figyelembe venni, mintha továbbra is a pénztári portfolió részét képeznék.
+6.[^108] A pénztári portfólió terhére a Tpt.-nek az értékpapír-kölcsönzésre vonatkozó szabályainak betartásával értékpapír-kölcsönzési ügylet köthető, ezen ügyletek összértéke nem haladhatja meg a befektetett pénztári eszközök 30%-át. A pénztári befektetési portfólióban csak értékpapírok kölcsönadása lehetséges, kölcsönvétele nem. Az értékpapír-kölcsönzési ügylet futamideje egy évnél hosszabb nem lehet, az ügylethez kapcsolódóan megfelelő óvadékot kell kikötni. Értékpapír-kölcsönzési ügylet esetében óvadékként csak olyan befektetési eszközök szolgálhatnak, amelyek megszerzését a jogszabályok és a pénztár befektetési politikája lehetővé teszik. A pénztár által kölcsönadott értékpapírok a pénztári portfolióból kikerülnek, ugyanakkor a befektetési korlátozások ellenőrzése során úgy kell őket figyelembe venni, mintha továbbra is a pénztári portfolió részét képeznék.
 
 [^100]: A 35. §-t a 335/2008. (XII. 30.) Korm. rendelet 7. §-a iktatta be.
 [^101]: Az 1. számú melléklet a 332/2005. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^102]: Az 1. számú melléklet 1. pontjának m) alpontját a 234/2006. (XI. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^103]: Az 1. számú melléklet 1. pontjának n) alpontját a 234/2006. (XI. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^104]: Az 1. számú melléklet 1. pontjának o) alpontját a 234/2006. (XI. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^105]: Az 1. számú melléklet 2. pontja a 234/2006. (XI. 24.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^106]: Az 1. számú melléklet 4. pontja a 335/2008. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^107]: Az 1. számú melléklet 6. pontja a 369/2007. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^102]: Az 1. számú melléklet 1. pont d) pont d2) alpontja a 221/2014. (IX. 4.) Korm. rendelet 230. §-a szerint módosított szöveg.
+[^103]: Az 1. számú melléklet 1. pontjának m) alpontját a 234/2006. (XI. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^104]: Az 1. számú melléklet 1. pontjának n) alpontját a 234/2006. (XI. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^105]: Az 1. számú melléklet 1. pontjának o) alpontját a 234/2006. (XI. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^106]: Az 1. számú melléklet 2. pontja a 234/2006. (XI. 24.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^107]: Az 1. számú melléklet 4. pontja a 335/2008. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^108]: Az 1. számú melléklet 6. pontja a 369/2007. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
