@@ -32,10 +32,11 @@ i) ügyfél: az a jogviszonya megszűnéséig a közszférában foglalkoztatott,
 
 j)[^4] finanszírozó hitelintézet: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott pénzügyi intézmény, amely az ügyfél számára – a Hitelprogram keretében – a Magyar Fejlesztési Bank Részvénytársaság (a továbbiakban: MFB Rt.) által nyújtott refinanszírozott forrásból kedvezményes kamatozású hitelt nyújt;
 
-k) kedvezményes kamatozású hitel: a Kormány által elfogadott Hitelprogram keretében a finanszírozó hitelintézet által nyújtott, a Magyar Állam készfizető kezességvállalásával biztosított hitel.[^5]
+k)[^5] kedvezményes kamatozású hitel: a Kormány által elfogadott Hitelprogram keretében a finanszírozó hitelintézet által nyújtott, az állam készfizető kezességvállalásával biztosított hitel.[^6]
 
 [^1]: Az 1. § a) pontjának af) alpontját a 15/2007. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^2]: Az 1. § b) pontja a 15/2007. (II. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^3]: Az 1. § e) pontja a 15/2007. (II. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: Az 1. § j) pontja az 537/2013. (XII. 30.) Korm. rendelet 44. §-a szerint módosított szöveg.
-[^5]: Lásd az 1100/2006. (X. 27.) Korm. határozatot.
+[^5]: Az 1. § k) pontja a 221/2014. (IX. 4.) Korm. rendelet 326. § a) pontja szerint módosított szöveg.
+[^6]: Lásd az 1100/2006. (X. 27.) Korm. határozatot.
