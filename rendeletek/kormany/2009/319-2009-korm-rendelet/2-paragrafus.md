@@ -1,1 +1,0 @@
-## „(2) A gyermekotthonban elhelyezett gyermek gyámja, hivatásos gyámja vagy vagyonkezelő eseti gondnoka – a gyermekre tekintettel járó családi pótlék összegének fele-fele arányban történő megosztása érdekében – tájékoztatja a családtámogatási ellátást folyósító szervet a gyámhatósági fenntartásos betét (fizetési számla) számáról és a gyermekotthon letéti számlájának számáról.”

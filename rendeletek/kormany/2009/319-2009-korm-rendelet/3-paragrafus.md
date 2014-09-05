@@ -1,3 +1,0 @@
-## 2. § A Gyer. 149. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) A gyermekotthonban elhelyezett átmeneti vagy tartós nevelésbe vett gyermek gyámja, valamint a bentlakásos szociális intézményben elhelyezett gondnokság alatt álló személy gondnoka, a gyermek, illetve a gondnokolt külön jogszabályban meghatározott kötelező ellátásait, valamint a családi pótlék személyre szóló felhasználását is meghaladó szükségleteire – különösen tartós fogyasztási cikk vásárlására, a gyermek képességeinek fejlesztésére és jelentősebb vagyoni érték megszerzésére – a gyámi fenntartásos betétből pénzfelvétel engedélyezését kérheti a gyámhivataltól.”
