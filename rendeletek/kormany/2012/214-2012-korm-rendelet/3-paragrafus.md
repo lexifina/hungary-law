@@ -16,6 +16,6 @@ f) kidolgozza, és szükség szerint felülvizsgálja a jogvédelmi képviselői
 
 g) ellátja a 19. § szerinti jogvédelemmel kapcsolatos módszertani feladatokat,
 
-h)[^7] a tárgyévet követő év március 31-ig közzéteszi a jogvédelmi képviselők és az OBDK tevékenységéről szóló éves beszámolót.
+h)[^9] a tárgyévet követő év március 31-ig közzéteszi a jogvédelmi képviselők és az OBDK tevékenységéről szóló éves beszámolót.
 
-[^7]: A 3. § h) pontja az 520/2013. (XII. 30.) Korm. rendelet 100. § b) pontja szerint módosított szöveg.
+[^9]: A 3. § h) pontja az 520/2013. (XII. 30.) Korm. rendelet 100. § b) pontja szerint módosított szöveg.

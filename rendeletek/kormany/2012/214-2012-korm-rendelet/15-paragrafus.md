@@ -12,6 +12,6 @@ b) a szakmai gyakorlat meglétét igazoló dokumentumot, és
 
 c) a jogvédelmi képviselői tanfolyam elvégzését igazoló tanúsítványt.
 
-(5)[^17]
+(5)[^20]
 
-[^17]: A 15. § (5) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^20]: A 15. § (5) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 4. §-a hatályon kívül helyezte.
