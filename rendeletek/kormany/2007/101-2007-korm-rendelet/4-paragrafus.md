@@ -8,7 +8,7 @@ b) az ösztöndíjas-időszakra tervezett, a disszertáció elkészítésének r
 
 c) a doktori iskola ajánlását;
 
-d)[^1] a felsőoktatásról szóló 2005. évi CXXXIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 79/2006. (IV. 5.) Korm. rendelet szerinti jogviszony-igazolást
+d)[^4] a felsőoktatásról szóló 2005. évi CXXXIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 79/2006. (IV. 5.) Korm. rendelet szerinti jogviszony-igazolást
 
 e) a felsőoktatási intézmény igazolását a 3. § b) pont szerinti jogviszony fennállásáról;
 
@@ -16,4 +16,4 @@ f) a felsőoktatási intézmény szándéknyilatkozatát arról, hogy szerződé
 
 (3) A pályázathoz csatolható minden olyan dokumentum, amelyet a pályázó a pályázat elbírálásának szempontjából fontosnak tart.
 
-[^1]: A 4. § (2) bekezdésének d) pontja a 372/2007. (XII. 23.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^4]: A 4. § (2) bekezdésének d) pontja a 372/2007. (XII. 23.) Korm. rendelet 29. §-ával megállapított szöveg.
