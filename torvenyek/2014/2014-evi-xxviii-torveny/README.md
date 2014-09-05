@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-28-00-00
 | --- | --- | --- |
 | 2014-07-09 | 2014. évi XXVIII. törvény | 2014-28-00-00.0 (közlönyállapot) |
 | 2014-07-09 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-28-00-00.1 |
+| 2014-09-05 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-28-00-00.2 |
