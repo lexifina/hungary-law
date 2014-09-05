@@ -1,6 +1,6 @@
-## (A Kjt. 40. §-ához)[^23]
+## (A Kjt. 40. §-ához)[^24]
 
-5. §[^24] (1) A Kjt. 1. számú melléklete 3.1–3.3 pontjai tekintetében a felsőoktatási intézményben létesíthető oktatói vagy kutatói munkakörökhöz kapcsolódó eltérő szempontok – figyelemmel az Ftv. 21. §-ának (3) bekezdése szerinti foglalkoztatási követelményrendszerben meghatározottakra
+5. §[^25] (1) A Kjt. 1. számú melléklete 3.1–3.3 pontjai tekintetében a felsőoktatási intézményben létesíthető oktatói vagy kutatói munkakörökhöz kapcsolódó eltérő szempontok – figyelemmel az Ftv. 21. §-ának (3) bekezdése szerinti foglalkoztatási követelményrendszerben meghatározottakra
 
 a) a teljesítmény-követelményeknek való megfelelés
 
@@ -30,5 +30,5 @@ kiemelkedő-megfelelő-kevéssé megfelelő-nem megfelelő;
 
 c) a felsőoktatási intézmény külső minősítésében megjelenő vezetői tevékenység színvonala (akkreditáció, minősítési díjak, rangsorok)
 
-[^23]: Az 5. §-t megelőző jogszabályi hivatkozás a 355/2008. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^24]: Az 5. § a 355/2008. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^24]: Az 5. §-t megelőző jogszabályi hivatkozás a 355/2008. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^25]: Az 5. § a 355/2008. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.

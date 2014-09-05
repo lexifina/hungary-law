@@ -66,6 +66,6 @@
 
 ## Mestertanár elnevezésű munkakörbe lehet átsorolni azt a mesterfokozattal rendelkező adjunktus oktatói munkakörben foglalkoztatott közalkalmazottat, aki a felsőoktatási intézmény által folytatott alapképzésben, szakmai-elméleti és gyakorlati oktatásban vesz részt, és megfelel az intézmény foglalkoztatási követelményrendszerében előírt sajátos mestertanári követelményeknek.
 
-2. számú melléklet az 53/2006. (III. 14.) Korm. rendelethez[^43]
+2. számú melléklet az 53/2006. (III. 14.) Korm. rendelethez[^44]
 
-[^43]: A 2. számú mellékletet a 355/2008. (XII. 31.) Korm. rendelet 10. §-a iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. számú mellékletre változtatva. A 2. számú melléklet a 98/2011. (VI. 29.) Korm. rendelet 3. §-ával megállapított szöveg. A 2. számú mellékletet a 363/2011. (XII. 30.) Korm. rendelet 29. § b) pontja hatályon kívül helyezte.
+[^44]: A 2. számú mellékletet a 355/2008. (XII. 31.) Korm. rendelet 10. §-a iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. számú mellékletre változtatva. A 2. számú melléklet a 98/2011. (VI. 29.) Korm. rendelet 3. §-ával megállapított szöveg. A 2. számú mellékletet a 363/2011. (XII. 30.) Korm. rendelet 29. § b) pontja hatályon kívül helyezte.
