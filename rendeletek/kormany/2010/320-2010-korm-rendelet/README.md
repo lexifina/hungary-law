@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-320-20-
 | 2014-02-25 | 2010-320-20-22.22 | 158/2011. (VIII. 11.) Korm. rendelet |
 | 2014-06-05 | 2010-320-20-22.23 | 146/2014. (V. 5.) Korm. rendelet |
 | 2014-07-01 | 2010-320-20-22.24 | 31/2014. (II. 12.) Korm. rendelet |
+| 2014-09-05 | 2010-320-20-22.25 | 221/2014. (IX. 4.) Korm. rendelet |
