@@ -1,1 +1,0 @@
-## Átmeneti rendelkezés
