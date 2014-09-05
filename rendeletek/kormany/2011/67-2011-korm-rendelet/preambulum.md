@@ -1,1 +1,0 @@
-A Kormány a szabálysértésekről szóló 1999. évi LXIX. törvény 166. § (1) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
