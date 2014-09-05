@@ -124,7 +124,7 @@
 
 3. § (1) Ez a rendelet 1989. április 3-án lép hatályba.
 
-(2) A rendelet végrehajtásáról a munkaügyi miniszter az ipari és kereskedelmi miniszterrel egyetértésben gondoskodik.
+(2)[^19] E rendelet végrehajtásáról a foglalkoztatáspolitikáért felelős miniszter gondoskodik.
 
 [^4]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^5]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
@@ -141,3 +141,4 @@
 [^16]: A 8. cikk (1) bekezdése a 105/1991. (VIII. 6.) Korm. rendelettel kihirdetett Megállapodás 1. cikkének 6. pontjával megállapított szöveg.
 [^17]: A 105/1991. (VIII. 6.) Korm. rendelettel kihirdetett Megállapodás 1 cikkének 7. pontjával módosított szöveg.
 [^18]: A 10. cikk a 105/1991. (VIII. 6.) Korm. rendelettel kihirdetett Megállapodás 1. cikkének 8. pontjával megállapított szöveg.
+[^19]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 119. §-ával megállapított szöveg.
