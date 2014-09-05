@@ -10,4 +10,6 @@ d) nyelvi képzésekre vonatkozó igényeket,
 
 e) az a)–d) pontokba nem tartozó általános és szakmai képzésekre vonatkozó igényeket.
 
-(2) Amennyiben az igényelt támogatások összege meghaladja a naptári évre meghatározott támogatási előirányzat mértékét a nyújtható támogatásokról – az (1) bekezdésben meghatározott sorrend figyelembevételével – a szociális és munkaügyi miniszter (a továbbiakban: miniszter) dönt.
+(2)[^11] Amennyiben az igényelt támogatások összege meghaladja a naptári évre meghatározott támogatási előirányzat mértékét a nyújtható támogatásokról – az (1) bekezdésben meghatározott sorrend figyelembevételével – a miniszter dönt.
+
+[^11]: Az 5. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 391. § d) pontja szerint módosított szöveg.

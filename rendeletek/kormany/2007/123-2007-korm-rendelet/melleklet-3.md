@@ -68,7 +68,7 @@
 
 ## cégszerű aláírás
 
-| Minisztérium által teljesítéssel igazolt folyósítandó összeg: | Ft |
+| miniszter által teljesítéssel igazolt folyósítandó összeg: | Ft |
 
 ## ..........................................................
 

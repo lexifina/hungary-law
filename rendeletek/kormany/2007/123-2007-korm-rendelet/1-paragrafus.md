@@ -4,7 +4,7 @@
 
 (2) A támogatás a 3. §-ban meghatározott képzésben részt vevő azon fogyatékkal élő felnőtt után vehető igénybe, akinek a képzése más állami támogatásban nem részesül.
 
-(3) A támogatásban kizárólag a Szociális és Munkaügyi Minisztériummal (a továbbiakban: Minisztérium) a felnőttképzés támogatásáról szóló megállapodást (a továbbiakban: támogatási megállapodás) kötő felnőttképzési intézmény részesülhet.
+(3)[^1] A támogatásban kizárólag a szakképzésért és felnőttképzésért felelős miniszterrel (a továbbiakban: miniszter) a felnőttképzés támogatásáról szóló megállapodást (a továbbiakban: támogatási megállapodás) kötő felnőttképzési intézmény részesülhet.
 
 (4) A támogatási megállapodás megkötését megelőzően közzétett hirdetésben a felnőttképzési intézmény nem hivatkozhat az e rendelet alapján nyújtott támogatásra.
 
@@ -20,4 +20,7 @@ d) tanóra: a képzés legalább 45 percet elérő időtartamú egysége;
 
 e) képzés lezárása: a képzés sikeres vizsgával történő befejezése;
 
-f) naptári év: az az év, amelyre vonatkozóan a Minisztérium a felnőttképzési intézménnyel az 1. § (3) bekezdés szerinti támogatási megállapodást megköti.
+f) naptári év:[^2] az az év, amelyre vonatkozóan a miniszter a felnőttképzési intézménnyel az 1. § (3) bekezdés szerinti támogatási megállapodást megköti.
+
+[^1]: Az 1. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 391. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (5) bekezdés f) pontja a 221/2014. (IX. 4.) Korm. rendelet 391. § b) pontja szerint módosított szöveg.
