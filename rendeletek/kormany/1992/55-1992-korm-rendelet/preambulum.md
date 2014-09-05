@@ -1,1 +1,0 @@
-Az egészségügyről szóló 1972. évi II. törvény 91. §-ának (1) bekezdésében foglalt felhatalmazás alapján a Kormány a törvény végrehajtásáról szóló 16/1972. (IV. 29.) MT rendeletet (a továbbiakban: R.) az alábbiak szerint módosítja:
