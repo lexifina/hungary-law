@@ -1,6 +1,6 @@
 ## 22. A nagyberuházás esetén végzett próbafeltárás
 
-34. §[^60] (1) Az előzetes régészeti dokumentációt próbafeltárás alkalmazásával kell készíteni
+34. §[^63] (1) Az előzetes régészeti dokumentációt próbafeltárás alkalmazásával kell készíteni
 
 a) a Tisza-völgy árvízi biztonságának növelését, valamint az érintett térség terület- és vidékfejlesztését szolgáló program (a Vásárhelyi-terv továbbfejlesztése) közérdekűségéről és megvalósításáról szóló 2004. évi LXVII. törvény hatálya alá tartozó beruházás, valamint nagyberuházásnak minősülő gát- és tározóépítés esetén,
 
@@ -20,4 +20,4 @@ a) a próbafeltárás építmény, térburkolat, közművezeték, termelői veze
 
 b) az érintett ingatlannal a beruházó nem jogosult rendelkezni, és az ingatlannal rendelkezni jogosult nem járul hozzá a próbafeltárás elvégzéséhez.
 
-[^60]: A 34. § a 439/2013. (XI. 20.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^63]: A 34. § a 439/2013. (XI. 20.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.

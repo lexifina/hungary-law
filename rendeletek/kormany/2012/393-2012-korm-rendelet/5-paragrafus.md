@@ -1,6 +1,6 @@
 ## 5. Az örökségvédelmi engedélyezési eljárás közös szabályai
 
-5. § (1)[^27] Az örökségvédelmi engedély iránti kérelemnek tartalmaznia kell
+5. § (1)[^28] Az örökségvédelmi engedély iránti kérelemnek tartalmaznia kell
 
 a) az érintett műemlék azonosításra alkalmas megjelölését,
 
@@ -14,7 +14,7 @@ a) a tervezett tevékenység végzésének pontos helyszínét, földrajzi kiter
 
 b) a tervezett tevékenység megnevezését, leírását és az ehhez szükséges fotó- és tervdokumentációt.
 
-(3)[^28] Műemlék esetén a kérelemhez – a 8–12/A. §-ban meghatározott esetek kivételével – mellékelni kell
+(3)[^29] Műemlék esetén a kérelemhez – a 8–12/A. §-ban meghatározott esetek kivételével – mellékelni kell
 
 a) a műemlék ingatlan elhelyezkedését, kiterjedését meghatározó, EOV rendszerben készített helyszínrajzot;
 
@@ -62,8 +62,8 @@ a) műemlék egész homlokzatának felújítása;
 
 b) műemlék egészének vagy épületrészének teljes belső felújítása.
 
-(6)[^29]
+(6)[^30]
 
-[^27]: Az 5. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^28]: Az 5. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
-[^29]: Az 5. § (6) bekezdését a 62/2014. (III. 6.) Korm. rendelet 43. § a) pontja hatályon kívül helyezte.
+[^28]: Az 5. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^29]: Az 5. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^30]: Az 5. § (6) bekezdését a 62/2014. (III. 6.) Korm. rendelet 43. § a) pontja hatályon kívül helyezte.

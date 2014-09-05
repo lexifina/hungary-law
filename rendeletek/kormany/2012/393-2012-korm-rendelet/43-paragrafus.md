@@ -1,4 +1,4 @@
-## 42. §[^62]
+## 42. §[^65]
 
 ## 27. Az örökségvédelemmel kapcsolatos egyes nem hatósági feladatok ellátása
 
@@ -8,7 +8,7 @@ a) a régészeti lelőhelyek és műemlékek fenntartható, integrált szemléle
 
 b) az örökségvédelem érdekeit érintő helyi szintű szakmai és társadalmi együttműködés elősegítése.
 
-(1a)[^63] Az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala a Rendeletben meghatározottak szerint vizsgálja és véleményezi a műemléki értékek védetté nyilvánítására, illetve a műemléki védettség megszüntetésére irányuló kezdeményezéseket.
+(1a)[^66] Az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala a Rendeletben meghatározottak szerint vizsgálja és véleményezi a műemléki értékek védetté nyilvánítására, illetve a műemléki védettség megszüntetésére irányuló kezdeményezéseket.
 
 (2) A miniszter – nem hatósági – örökségvédelmi feladatai különösen:
 
@@ -22,8 +22,8 @@ d) az örökségvédelem érdekeit érintő területi és országos szintű szak
 
 e) örökségvédelmi tárgyú képzések kezdeményezése, tematikájának meghatározása, közreműködés ezek szervezésében,
 
-f)[^64] az örökségvédelmi stratégia, valamint az ahhoz kapcsolódó szakmai ajánlások, útmutatók, szempontrendszerek kidolgozása és közzététele.
+f)[^67] az örökségvédelmi stratégia, valamint az ahhoz kapcsolódó szakmai ajánlások, útmutatók, szempontrendszerek kidolgozása és közzététele.
 
-[^62]: A 42. §-t a 199/2014. (VIII. 1.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte 2014. augusztus 6. napjával. E hatályon kívül helyező rendelet 19. §-a alapján a 2014. augusztus 6-án folyamatban lévő ügyekben is alkalmazni kell.
-[^63]: A 43. § (1a) bekezdését a 62/2014. (III. 6.) Korm. rendelet 39. § (1) bekezdése iktatta be.
-[^64]: A 43. § (2) bekezdés f) pontját a 62/2014. (III. 6.) Korm. rendelet 39. § (2) bekezdése iktatta be.
+[^65]: A 42. §-t a 199/2014. (VIII. 1.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte 2014. augusztus 6. napjával. E hatályon kívül helyező rendelet 19. §-a alapján a 2014. augusztus 6-án folyamatban lévő ügyekben is alkalmazni kell.
+[^66]: A 43. § (1a) bekezdését a 62/2014. (III. 6.) Korm. rendelet 39. § (1) bekezdése iktatta be.
+[^67]: A 43. § (2) bekezdés f) pontját a 62/2014. (III. 6.) Korm. rendelet 39. § (2) bekezdése iktatta be.

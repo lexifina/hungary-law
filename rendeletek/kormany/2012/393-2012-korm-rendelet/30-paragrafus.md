@@ -42,9 +42,9 @@ d) abban az esetben, ha a feltárás a tudományos ismereteket várhatóan érde
 
 (5) A próbafeltárást a régészeti rétegsor aljáig, a teljes felületű feltárást legalább az engedélyezési vagy kiviteli terv szerinti földmunkával érintett mélységig kell elvégezni azzal, hogy a földmunkával érintett mélység szintjén lévő régészeti leletek és emlékek egészét fel kell tárni.
 
-(6)[^58] Ha a régészeti megfigyelés során a régészeti dokumentálás régészeti bontómunkát igényel, akkor – legalább a beruházási földmunkával érintett mélységig – a régészeti bontómunkát, az elsődleges nyilvántartásba vételt és múzeumba történő befogadást az előkerült régészeti jelenség vonatkozásában, a régészeti megfigyelés keretében kell elvégezni.
+(6)[^61] Ha a régészeti megfigyelés során a régészeti dokumentálás régészeti bontómunkát igényel, akkor – legalább a beruházási földmunkával érintett mélységig – a régészeti bontómunkát, az elsődleges nyilvántartásba vételt és múzeumba történő befogadást az előkerült régészeti jelenség vonatkozásában, a régészeti megfigyelés keretében kell elvégezni.
 
-(7)[^59] A (6) bekezdés szerinti régészeti bontómunka megkezdését a járási építésügyi és örökségvédelmi hivatalnak be kell jelenteni.
+(7)[^62] A (6) bekezdés szerinti régészeti bontómunka megkezdését a járási építésügyi és örökségvédelmi hivatalnak be kell jelenteni.
 
-[^58]: A 30. § (6) bekezdését a 439/2013. (XI. 20.) Korm. rendelet 16. § (1) bekezdése iktatta be.
-[^59]: A 30. § (7) bekezdését a 439/2013. (XI. 20.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^61]: A 30. § (6) bekezdését a 439/2013. (XI. 20.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^62]: A 30. § (7) bekezdését a 439/2013. (XI. 20.) Korm. rendelet 16. § (1) bekezdése iktatta be.

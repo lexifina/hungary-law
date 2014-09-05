@@ -1,4 +1,4 @@
-12/A. §[^49] (1) A történeti kert vagy műemlék telkén lévő park esetében a kérelemhez – értelemszerűen – mellékelni kell
+12/A. §[^50] (1) A történeti kert vagy műemlék telkén lévő park esetében a kérelemhez – értelemszerűen – mellékelni kell
 
 a) helyszínrajzot, amelynek méretaránya 1000 m2-t meg nem haladó terület esetén 1:200, nagyobb terület esetén 1:500 vagy 1:1000, az 50 hektárt meghaladó kiterjedés esetén 1:2000;
 
@@ -20,4 +20,4 @@ i) az illeték megfizetésének igazolását.
 
 (2) A történeti kert vagy műemlék telkén park teljes körű helyreállítási koncepciójának megalapozásához, a tervezett beavatkozások szükségességének alátámasztásához a 9. mellékletben meghatározott kerttörténeti tudományos dokumentációt kell készíteni, amely összegzi a történeti és a kertrégészeti kutatás eredményeit és az azokon alapuló értékelést, valamint meghatározza és indokolja a cselekvés irányát, a beavatkozások prioritásait.
 
-[^49]: A 12/A. §-t a 62/2014. (III. 6.) Korm. rendelet 36. §-a iktatta be.
+[^50]: A 12/A. §-t a 62/2014. (III. 6.) Korm. rendelet 36. §-a iktatta be.

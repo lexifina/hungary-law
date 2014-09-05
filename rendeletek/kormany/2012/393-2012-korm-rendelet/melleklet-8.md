@@ -10,6 +10,6 @@
 
 ## 5. Feltárás vezetőjének neve
 
-8. melléklet a 393/2012. (XII. 20.) Korm. rendelethez[^86]
+8. melléklet a 393/2012. (XII. 20.) Korm. rendelethez[^89]
 
-[^86]: A 8. mellékletet a 62/2014. (III. 6.) Korm. rendelet 42. § (2) bekezdés a) pontja iktatta be.
+[^89]: A 8. mellékletet a 62/2014. (III. 6.) Korm. rendelet 42. § (2) bekezdés a) pontja iktatta be.

@@ -20,7 +20,7 @@
 
 ## 8. Javaslatot a további kutatásokra vagy kutatói megfigyelésre; a prioritásokra az értékleltárban dokumentált védett műemléki értékek különösen a növényállomány megőrzésére, kezelésére, gondozására (irtás, kivágás, telepítés) fontossági és logikai sorrendjének felállításával.
 
-10. melléklet a 393/2012. (XII. 20.) Korm. rendelethez[^88]
+10. melléklet a 393/2012. (XII. 20.) Korm. rendelethez[^91]
 
 Állapotfelvételi adatlap a műemlékek rendszeres örökségvédelmi felügyeletéhez
 
@@ -262,4 +262,4 @@ Egyéb megjegyzés:
 
 Aláírás:
 
-[^88]: A 10. mellékletet a 62/2014. (III. 6.) Korm. rendelet 42. § (2) bekezdés c) pontja iktatta be.
+[^91]: A 10. mellékletet a 62/2014. (III. 6.) Korm. rendelet 42. § (2) bekezdés c) pontja iktatta be.

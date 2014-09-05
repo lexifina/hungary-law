@@ -302,6 +302,6 @@
 
 | … szám | - egyéb | … db |  |  |  |  |
 
-9. melléklet a 393/2012. (XII. 20.) Korm. rendelethez[^87]
+9. melléklet a 393/2012. (XII. 20.) Korm. rendelethez[^90]
 
-[^87]: A 9. mellékletet a 62/2014. (III. 6.) Korm. rendelet 42. § (2) bekezdés b) pontja iktatta be.
+[^90]: A 9. mellékletet a 62/2014. (III. 6.) Korm. rendelet 42. § (2) bekezdés b) pontja iktatta be.

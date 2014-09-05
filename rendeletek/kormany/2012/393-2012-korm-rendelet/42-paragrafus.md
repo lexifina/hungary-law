@@ -4,6 +4,6 @@
 
 ## AZ ÖRÖKSÉGVÉDELEMMEL KAPCSOLATOS EGYES FELADATOK ELLÁTÁSA
 
-## 26. [^61] Az Lechner Lajos Tudásközpont feladatai
+## 26.[^64]
 
-[^61]: A 26. alcím címe a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 22. pontja szerint módosított szöveg.
+[^64]: A 26. alcímet a 221/2014. (IX. 4.) Korm. rendelet 710. §-a hatályon kívül helyezte.

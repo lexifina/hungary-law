@@ -1,6 +1,6 @@
 ## 6. Egyes örökségvédelmi engedélyhez kötött tevékenységekkel kapcsolatos eltérő eljárási szabályok
 
-8. §[^37] (1) Az épület bármely külső felületén reklámtábla, reklám, felirat, dísz, szerelvény, gépészeti egység, napkollektor, napelem elhelyezése, cseréje, átalakítása, bontása (eltávolítása), eltakarása, valamint állvány építése, rögzítése esetén a kérelemhez mellékelni kell
+8. §[^38] (1) Az épület bármely külső felületén reklámtábla, reklám, felirat, dísz, szerelvény, gépészeti egység, napkollektor, napelem elhelyezése, cseréje, átalakítása, bontása (eltávolítása), eltakarása, valamint állvány építése, rögzítése esetén a kérelemhez mellékelni kell
 
 a) a beavatkozás előtti állapot fotódokumentációját az építményről és környezetéről;
 
@@ -14,4 +14,4 @@ d) az illeték megfizetésének igazolását.
 
 (3) A határozott idő eltelte után – újabb engedély hiányában – az eredeti állapot helyreállításáért a tulajdonos, továbbá reklám esetén a reklám közzétevője és a reklámozó egyetemlegesen felelős.
 
-[^37]: A 8. § a 62/2014. (III. 6.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^38]: A 8. § a 62/2014. (III. 6.) Korm. rendelet 30. §-ával megállapított szöveg.

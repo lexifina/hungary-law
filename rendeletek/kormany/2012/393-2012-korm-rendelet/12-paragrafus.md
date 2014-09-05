@@ -1,4 +1,4 @@
-12. §[^48] (1) Műemléknek vagy egyes részeinek, szerkezeti elemeinek elmozdítása, szabadtéri múzeum keretében készülő rekonstrukcióba történő beépítése esetén a kérelemhez mellékelni kell
+12. §[^49] (1) Műemléknek vagy egyes részeinek, szerkezeti elemeinek elmozdítása, szabadtéri múzeum keretében készülő rekonstrukcióba történő beépítése esetén a kérelemhez mellékelni kell
 
 a) a tervezett tevékenységet bemutató – részleges beavatkozás esetén az érintett épületrészre vonatkozó – helyszínrajzot, alaprajzokat, metszeteket, nézetrajzokat, részletrajzokat, továbbá a tervezett tevékenység jellegének megfelelő szakági tervet;
 
@@ -20,4 +20,4 @@ i) az illeték megfizetésének igazolását.
 
 (2) Az (1) bekezdés szerinti tevékenység engedélyezése nem terjed ki az építésügyi hatósági engedélyhez kötött tevékenységek engedélyezésére.
 
-[^48]: A 12. § a 62/2014. (III. 6.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^49]: A 12. § a 62/2014. (III. 6.) Korm. rendelet 35. §-ával megállapított szöveg.
