@@ -12,4 +12,6 @@ b) a tervezet szövegét.
 
 (5) Ha A TBT-megállapodás 2.10. vagy 5.7. pontja alapján sürgősségi eljárásra van szükség, a szakminiszter a bejelentés megküldésekor ezt sürgősség indokainak megadásával jelzi.
 
-(6) A Notifikációs Központ a nyilvántartásba vételt követően a bejelentő adatlapot megküldi a Magyar Köztársaság WTO Mellett Működő Állandó Képviseletének, amely továbbítja azt a WTO Titkársághoz.
+(6)[^3] A Notifikációs Központ a nyilvántartásba vételt követően a bejelentő adatlapot megküldi Magyarország WTO Mellett Működő Állandó Képviseletének, amely továbbítja azt a WTO Titkársághoz.
+
+[^3]: A 3. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 447. § c) pontja szerint módosított szöveg.
