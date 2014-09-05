@@ -1,25 +1,29 @@
-9. §[^10] (1) A Kormány a Kossuth-díj és a Széchenyi-díj, valamint a művészeti díjak adományozására vonatkozó javaslatok értékelésére, a kitüntetésekre vonatkozó ajánlások megtételére Kossuth- és Széchenyi-díj Bizottságot (a továbbiakban: Bizottság) hoz létre.
+9. §[^16] (1) A Kormány a Kossuth-díj és a Széchenyi-díj, valamint a művészeti díjak adományozására vonatkozó javaslatok értékelésére, a kitüntetésekre vonatkozó ajánlások megtételére Kossuth- és Széchenyi-díj Bizottságot (a továbbiakban: Bizottság) hoz létre.
 
-(2) A Bizottság elnöke a miniszterelnök, alelnöke a miniszterelnök általános helyettese. A Bizottság működésével kapcsolatos titkársági feladatokat a Miniszterelnökség kitüntetési ügyekért felelős szervezeti egységének vezetője látja el.
+(2)[^17] A Bizottság elnöke a miniszterelnök, alelnöke a miniszterelnök általános helyettese. A Bizottság működésével kapcsolatos titkársági feladatokat a kormányzati tevékenység összehangolásáért felelős miniszter látja el.
 
-(3) A Bizottság tagjai:
+(3)[^18] A Bizottság tagjai:
 
-a) a közigazgatási és igazságügyi miniszter,
+a) a kultúráért felelős miniszter,
 
-b) az oktatásért és a kultúráért felelős miniszter,
+b) a kutatás-fejlesztésért és technológiai innovációért felelős miniszter,
 
-c)[^11] a Magyar Tudományos Akadémia elnöke és a Magyar Művészeti Akadémia elnöke,
+c) az oktatásért felelős miniszter,
 
-d) a Kossuth-díjjal, Széchenyi-díjjal, illetve az Állami Díjjal korábban kitüntetettek, továbbá a tudományos, a műszaki, a gazdasági, a művészeti és a kulturális élet mértékadó képviselői köréből a Bizottság elnöke által egyéves időtartamra felkért tíz fő.
+d) a Magyar Tudományos Akadémia elnöke és a Magyar Művészeti Akadémia elnöke, valamint
 
-(3a)[^12] A Bizottság elnöke a művészeti élet mértékadó képviselői köréből a Magyar Művészeti Akadémia elnöke javaslatára kér fel tagot vagy tagokat.
+e) a Kossuth-díjjal, Széchenyi-díjjal vagy az Állami Díjjal korábban kitüntetettek, továbbá a tudományos, a műszaki, a gazdasági, a művészeti és a kulturális élet mértékadó képviselői köréből a Bizottság elnöke által egyéves időtartamra felkért tíz fő.
+
+(3a)[^19] A Bizottság elnöke a művészeti élet mértékadó képviselői köréből a Magyar Művészeti Akadémia elnöke javaslatára kér fel tagot vagy tagokat.
 
 (4) A Bizottság tagjai sorából előkészítő, jelölő bizottságot alakíthat. A Bizottság, illetve a jelölőbizottság a véleménynyilvánításra külső szakértőt is felkérhet. A felkért szakértő véleményét a Bizottság ülésén fejti ki.
 
 (5) A művészeti díjra vonatkozó javaslatok értékelését a Művészeti Díj Bizottság végzi.
 
-(6) A Művészeti Díj Bizottság elnöke a miniszterelnök általános helyettese, tagjai a közigazgatási és igazságügyi miniszter, a kultúráért felelős miniszter, valamint a Bizottság elnöke által a Bizottság egyes művészeti ágakat képviselő tagjai közül felkért négy fő.
+(6)[^20] A Művészeti Díj Bizottság elnöke a miniszterelnök általános helyettese, tagjai a kormányzati tevékenység összehangolásáért felelős miniszter, a kultúráért felelős miniszter, valamint a Bizottság elnöke által a Bizottság egyes művészeti ágakat képviselő tagjai közül felkért négy fő.
 
-[^10]: A 9. § a 3/2011. (I. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^11]: A 9. § (3) bekezdés c) pontja a 407/2012. (XII. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^12]: A 9. § (3a) bekezdését a 407/2012. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^16]: A 9. § a 3/2011. (I. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^17]: A 9. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 435. § c) pontja szerint módosított szöveg.
+[^18]: A 9. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 434. §-ával megállapított szöveg.
+[^19]: A 9. § (3a) bekezdését a 407/2012. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^20]: A 9. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 435. § d) pontja szerint módosított szöveg.

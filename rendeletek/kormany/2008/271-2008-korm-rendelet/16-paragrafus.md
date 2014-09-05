@@ -1,3 +1,3 @@
-16. §[^14] E rendeletnek a Kossuth-díj, a Széchenyi-díj adományozásának rendjéről, valamint a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja díj alapításáról és adományozásáról szóló 271/2008. (XI. 18.) Korm. rendelet módosításáról szóló 3/2011. (I. 17.) Korm. rendelettel megállapított 9. §-a rendelkezéseit az annak hatálybalépésekor folyamatban lévő, még el nem bírált, az e rendelet hatálya alá tartozó díjak adományozására vonatkozó javaslatok elbírálása során is alkalmazni kell.
+16. §[^25]
 
-[^14]: A 16. §-t a 3/2011. (I. 19.) Korm. rendelet 2. §-a iktatta be.
+[^25]: A 16. §-t a 3/2011. (I. 19.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 436. §-a.
