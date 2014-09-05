@@ -102,17 +102,17 @@ b)[^15] amennyiben a támogatott szervezet szakszövetség, akkor támogatási i
 
 (6b)[^19] A támogató az ellenőrzési feladatok ellátásával összefüggő költség
 
-a) 1/3 részét a sportpolitikáért felelős miniszter által vezetett minisztérium által közzétett fizetési számlára,
+a)[^20] 1/3 részét a sportpolitikáért felelős miniszter által közzétett fizetési számlára,
 
 b) 2/3 részét a szakszövetség által közzétett fizetési számlára
 
 a támogatás megfizetésével egyidejűleg fizeti be.
 
-(6c)[^20] A (6a) és (6b) bekezdés szerint meghatározott, a sportpolitikáért felelős miniszter által vezetett minisztérium és a szakszövetség által közzétett fizetési számlára befizetendő összeggel a támogatott szervezet nem köteles a 11. §-ban foglaltak szerint elszámolni az ellenőrző szervezet felé.
+(6c)[^21] A (6a) és (6b) bekezdés szerint meghatározott, a sportpolitikáért felelős miniszter és a szakszövetség által közzétett fizetési számlára befizetendő összeggel a támogatott szervezet nem köteles a 11. §-ban foglaltak szerint elszámolni az ellenőrző szervezet felé.
 
 (7) Az (1) bekezdés 3., 4., 9., 11. és 12. pontjaiban meghatározott támogatási jogcímeken nyújtott támogatás felhasználásáról történő elszámolás során a látvány-csapatsportok támogatásával összefüggő sportfejlesztési program jóváhagyására és a támogatási igazolás kiadására irányuló hatósági eljárásban fizetendő igazgatási szolgáltatási díjról szóló miniszteri rendeletben meghatározott igazgatási szolgáltatási díj nem számolható el költségként.
 
-(8)[^21] Nem igényelhető az (1)–(4) bekezdésekben meghatározott költségek, ráfordítások, beruházások, felújítások után támogatás, ha a támogatás alapjául szolgáló költségek, ráfordítások, beruházások, felújítások közvetlenül a támogatás igénybevételére jogosult szervezet bevételszerző tevékenységével összefüggésben merülnek fel, és amelyek továbbszámlázása révén a támogatás igénybevételére jogosult szervezet bevételt számol el.
+(8)[^22] Nem igényelhető az (1)–(4) bekezdésekben meghatározott költségek, ráfordítások, beruházások, felújítások után támogatás, ha a támogatás alapjául szolgáló költségek, ráfordítások, beruházások, felújítások közvetlenül a támogatás igénybevételére jogosult szervezet bevételszerző tevékenységével összefüggésben merülnek fel, és amelyek továbbszámlázása révén a támogatás igénybevételére jogosult szervezet bevételt számol el.
 
 [^1]: Az 1. § az 503/2013. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (1) bekezdés 1. pontja az 503/2013. (XII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
@@ -133,5 +133,6 @@ a támogatás megfizetésével egyidejűleg fizeti be.
 [^17]: A 2. § (6) bekezdése a 76/2012. (IV. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^18]: A 2. § (6a) bekezdését a 76/2012. (IV. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege az 503/2013. (XII. 29.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^19]: A 2. § (6b) bekezdését a 134/2013. (V. 9.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege az 503/2013. (XII. 29.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^20]: A 2. § (6c) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (5) bekezdése iktatta be.
-[^21]: A 2. § (8) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^20]: A 2. § (6b) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 567. § a) pontja szerint módosított szöveg.
+[^21]: A 2. § (6c) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 567. § a) pontja szerint módosított szöveg.
+[^22]: A 2. § (8) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 1. § (4) bekezdése iktatta be.
