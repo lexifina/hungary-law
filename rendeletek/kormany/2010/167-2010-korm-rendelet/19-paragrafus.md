@@ -1,5 +1,5 @@
 ## 18. § Ez a rendelet a kihirdetését követő harmincadik napon lép hatályba.
 
-19. §[^29]
+19. §[^30]
 
-[^29]: A 19. § a 20. § (1) bekezdése alapján hatályát vesztette.
+[^30]: A 19. § a 20. § (1) bekezdése alapján hatályát vesztette.

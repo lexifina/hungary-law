@@ -1,4 +1,4 @@
-1. melléklet a 167/2010. (V. 11.) Korm. rendelethez[^31]
+1. melléklet a 167/2010. (V. 11.) Korm. rendelethez[^32]
 
 ## Az országos nukleárisbaleset-elhárítási rendszer működtetésében részt vevő központi, ágazati, területi és helyi szervek és szervezetek
 
@@ -56,4 +56,4 @@
 
 3.5. a rendvédelmi szervek területi és helyi szervei, valamint a Nemzeti Adó- és Vámhivatal közép- és alsó fokú vámszervei és nyomozóhatósági szervei
 
-[^31]: Az 1. melléklet a 361/2011. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^32]: Az 1. melléklet a 361/2011. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
