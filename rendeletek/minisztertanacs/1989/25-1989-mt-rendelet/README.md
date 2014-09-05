@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1989-25-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-07-01 | 1989-25-20-65.4 | 25/1989. (III. 17.) MT rendelet |
+| 2014-09-05 | 1989-25-20-65.5 | 221/2014. (IX. 4.) Korm. rendelet |
