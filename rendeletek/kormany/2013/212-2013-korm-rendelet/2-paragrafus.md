@@ -20,4 +20,6 @@ e) a tőketörlesztési módja: negyedévente egyenlő tőketörlesztő részlet
 
 (4) A kedvezményes hitelhez vagy kölcsönhöz nyújtott kamattámogatás mértéke a Patika Hitelprogram keretében felvett hitel vagy kölcsön ügyleti kamatának 3%-ra történő csökkentéshez szükséges összeg, de legfeljebb 3,7%.
 
-(5) A kamattámogatás forrása az éves központi költségvetésről szóló törvényben az Emberi Erőforrások Minisztériuma vagy annak jogutódja költségvetési fejezetében külön e célra megállapított előirányzat.
+(5)[^3] A kamattámogatás forrása a központi költségvetésről szóló törvényben az egészségügyért felelős miniszter által vezetett minisztérium költségvetési fejezetében e célra megállapított előirányzat.
+
+[^3]: A 2. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 739. §-ával megállapított szöveg.
