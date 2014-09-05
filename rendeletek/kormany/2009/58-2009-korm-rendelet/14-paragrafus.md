@@ -1,5 +1,0 @@
-## 13. § A Kr. 34. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A boncolás végzéséhez szükséges szakmai minimumfeltételekkel nem rendelkező fekvőbeteg-gyógyintézetben, vagy a nem fekvőbeteg-gyógyintézetben elhunyt személy esetében az orvosi rendelvényre történő, kórboncolási céllal végzett halottszállítás költségtérítése – a kórboncolást végző fekvőbeteg-szakellátási szolgáltatóval kötött szerződés alapján – a (2) bekezdés szerinti átalánydíjjal történik az elrendelést igazoló utalványnak, továbbá az elhunyt személy és a halottszállítási utalvány adatainak számítógépes adathordozón a finanszírozó részére történő megküldését követő hónapban, az egyéb kifizetésekkel egyidejűleg.
-
-## (2) Az (1) bekezdés szerinti halottszállításért közigazgatási határon belül legfeljebb 8400 forint, közigazgatási határon túli esetben legfeljebb 12 600 forint szállítási díj illeti meg az (1) bekezdés szerinti intézetet, amennyiben a költséget igazoltan kifizette. A teljesítés hónapjának az igazolt kifizetés időpontját kell tekinteni.”
