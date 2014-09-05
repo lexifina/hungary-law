@@ -1,1 +1,0 @@
-A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 85. §-ának (4) bekezdésében és a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: a közoktatásról szóló törvény) 94. § (3) bekezdésének l) pontjában foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
