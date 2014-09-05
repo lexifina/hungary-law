@@ -1,4 +1,4 @@
-17/A. §[^57] (1) Az SzKSz az Indikatív Programban rögzített keret erejéig a következő tevékenységek finanszírozására fordíthat PMC forrásokat:
+17/A. §[^59] (1) Az SzKSz az Indikatív Programban rögzített keret erejéig a következő tevékenységek finanszírozására fordíthat PMC forrásokat:
 
 a) az Indikatív Programnak és az abban rendelkezésre álló pénzügyi keretnek megfelelő közbeszerzési műszaki leírások, illetve építési tervek előkészítése, kidolgozása, illetve az ehhez kapcsolódó közbeszerzések lebonyolítása,
 
@@ -18,4 +18,4 @@ h) ingatlan megszerzése, amennyiben az a fejlesztési tevékenységekhez közve
 
 (2) Amennyiben az SzKSz az (1) bekezdésben felsoroltakon kívüli egyéb, a program végrehajtásával összefüggő tevékenység finanszírozására kíván PMC forrást igénybe venni, ehhez a Felelős Hatóság előzetes jóváhagyását kell kérnie.
 
-[^57]: A 17/A. §-t a 143/2006. (VI. 29.) Korm. rendelet 12. §-a iktatta be.
+[^59]: A 17/A. §-t a 143/2006. (VI. 29.) Korm. rendelet 12. §-a iktatta be.

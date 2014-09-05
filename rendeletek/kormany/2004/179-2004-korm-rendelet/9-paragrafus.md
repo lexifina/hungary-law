@@ -1,4 +1,4 @@
-## 9. §[^35] A Felelős Hatóság saját hatáskörben köteles ellátni a következő feladatokat:
+## 9. §[^36] A Felelős Hatóság saját hatáskörben köteles ellátni a következő feladatokat:
 
 a) a Schengen Alap támogatásból finanszírozott fejlesztési feladatok egyéb uniós támogatásokkal való összehangolása és monitoringja,
 
@@ -8,4 +8,4 @@ c) a végső elszámolás továbbítása az igazolás kiállítása érdekében 
 
 d) a végső elszámolás és az igazolás továbbítása az Európai Bizottság felé.
 
-[^35]: A 9. § felvezető szövege a 143/2006. (VI. 29.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^36]: A 9. § felvezető szövege a 143/2006. (VI. 29.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.

@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-179-20-
 | 2012-01-01 | 2004-179-20-22.11 | 304/2011. (XII. 23.) Korm. rendelet |
 | 2014-01-01 | 2004-179-20-22.12 | 143/2006. (VI. 29.) Korm. rendelet |
 | 2014-02-10 | 2004-179-20-22.13 | 143/2006. (VI. 29.) Korm. rendelet |
+| 2014-09-05 | 2004-179-20-22.14 | 143/2006. (VI. 29.) Korm. rendelet |

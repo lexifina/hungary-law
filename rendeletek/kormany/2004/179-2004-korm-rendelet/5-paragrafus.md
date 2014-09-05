@@ -1,3 +1,3 @@
-## 4. §[^26] A Felelős Hatóság feladatainak ellátása a Miniszterelnökség szervezeti keretei közt történik.
+## 4. §[^27] A Felelős Hatóság feladatainak ellátása az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium szervezeti keretei közt történik.
 
-[^26]: A 4. § a 143/2006. (VI. 29.) Korm. rendelet 23. § b) pontja, a 27/2014. (II. 7.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^27]: A 4. § a 143/2006. (VI. 29.) Korm. rendelet 23. § b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 268. § c) pontja szerint módosított szöveg.
