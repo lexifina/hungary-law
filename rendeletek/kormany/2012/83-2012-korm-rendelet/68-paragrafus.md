@@ -12,8 +12,8 @@ c) a tartós tárolás, ahol a SZEÜSZ szolgáltató köteles gondoskodni a tár
 
 d) a levéltári kezelés dokumentum-megőrzési informatikai hátterét biztosító tartós tárolási szolgáltatás.
 
-(3)[^19] Ha a SZEÜSZ szolgáltató szolgáltatását több igénybe vevő részére is nyújtja, az iratok tárolását köteles elkülönítetten végezni.
+(3)[^22] Ha a SZEÜSZ szolgáltató szolgáltatását több igénybe vevő részére is nyújtja, az iratok tárolását köteles elkülönítetten végezni.
 
 (4) Az integrált működés érdekében a SZEÜSZ szolgáltató köteles biztosítani az együttműködési képességet az iratkezelési szoftverek külön jogszabály szerinti egységes kommunikációs felületével.
 
-[^19]: A 68. § (3) bekezdése az 515/2013. (XII. 30.) Korm. rendelet 30. § (20) bekezdés c) pontja szerint módosított szöveg.
+[^22]: A 68. § (3) bekezdése az 515/2013. (XII. 30.) Korm. rendelet 30. § (20) bekezdés c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 10. §[^5] A SZEÜSZ-t – az adott SZEÜSZ-re vonatkozó eltérő rendelkezés hiányában – legalább félévente a biztonsági felelős útján, évente pedig az ellenőr útján az általános szerződési feltételeknek vagy szolgáltatási szabályzatnak megfelelés szempontjából ellenőrizni kell. Az ellenőrzés tényét és eredményét jegyzőkönyvben kell rögzíteni.
+## 10. §[^6] A SZEÜSZ-t – az adott SZEÜSZ-re vonatkozó eltérő rendelkezés hiányában – legalább félévente a biztonsági felelős útján, évente pedig az ellenőr útján az általános szerződési feltételeknek vagy szolgáltatási szabályzatnak megfelelés szempontjából ellenőrizni kell. Az ellenőrzés tényét és eredményét jegyzőkönyvben kell rögzíteni.
 
 ## 7. A szolgáltatásnyújtásra vonatkozó biztonsági követelmények
 
@@ -34,26 +34,7 @@ h) mentési renddel és biztonsági mentésekkel kell rendelkeznie,
 
 i) rendelkeznie kell a rendkívüli üzemeltetési helyzetekre kidolgozott eljárásrenddel, és rendkívüli helyzetekben folyamatos üzemelést biztosító tartalékberendezésekkel.
 
-(3) A közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter
+(3)[^7]
 
-a) felügyeli, ellenőrzi az informatikai biztonsági előírások megfelelőségét és betartását,
-
-b) ellátja a szakhatósági feladatokat a felügyelet eljárásában, ennek keretében kötelező állásfoglalást ad ki a kérelemben foglalt SZEÜSZ műszaki előírásoknak való megfelelőségéről, infrastrukturális alkalmasságáról,
-
-c) a felügyelet eljárásában szakhatóságként kötelező állásfoglalást ad ki a szolgáltatásnyújtásra vonatkozó informatikai biztonsági követelményeknek való megfelelőségről,
-
-d) folyamatosan figyelemmel kíséri a SZEÜSZ rendszereket üzemeltető szervezetekkel és szolgáltatásokkal kapcsolatos informatikai biztonsági követelmények betartását,
-
-e) ellenőrzi a SZEÜSZ-öknek a jelen rendeletben meghatározott biztonsági követelményeknek való folyamatos megfelelését,
-
-f) jogosult a SZEÜSZ szolgáltatójától, adatkezelőjétől, illetve üzemeltetőjétől a biztonsági követelmények teljesülésével kapcsolatban tájékoztatást kérni, a követelményeknek való megfelelőség alátámasztásához szükséges, az érintett rendszer tervezésével, beszerzésével, előállításával, működésével vagy felülvizsgálatával kapcsolatos adatot, illetve a rendszerek biztonsága tárgyában keletkezett valamennyi dokumentumot – különösen az e rendeletben előírt dokumentációt, szabályzatokat – bekérni,
-
-g) jogosult a hatáskörébe tartozó szervezet informatikai biztonsággal összefüggő tevékenységének és ellátottságának ellenőrzésére,
-
-h) jóváhagyja a SZEÜSZ-ök biztonsági irányelveit, szabályzatait és eljárásrendjeit,
-
-i) határidő tűzésével felhívja az érintett szervezetek vezetőit az ellenőrzés során vagy egyéb úton tudomására jutott eltérések felszámolására, ellenőrzi a követelmények megvalósítását,
-
-j) az informatikai biztonsági követelmények hiányos teljesítése esetén megfelelő határidő tűzésével felszólítja az érintettet a hiba elhárítására, illetve hiányosság pótlására.
-
-[^5]: A 10. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (20) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 10. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (20) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 11. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 662. §-a hatályon kívül helyezte.

@@ -2,7 +2,7 @@
 
 ## 39. Iratérvényességi nyilvántartás
 
-109. §[^51] (1) Az iratérvényességi nyilvántartás (ezen alcím alkalmazásában a továbbiakban: nyilvántartás) a hatóság által készített elektronikus dokumentumok, illetve az elektronikus dokumentumokról készített papír alapú hiteles másolatok tartalmának és hitelességének ellenőrzését biztosító nyilvántartás. A nyilvántartás a nyilvántartásban elhelyezett iratok hitelességét jelen alcím szerinti megoldásokkal biztosítja.
+109. §[^57] (1) Az iratérvényességi nyilvántartás (ezen alcím alkalmazásában a továbbiakban: nyilvántartás) a hatóság által készített elektronikus dokumentumok, illetve az elektronikus dokumentumokról készített papír alapú hiteles másolatok tartalmának és hitelességének ellenőrzését biztosító nyilvántartás. A nyilvántartás a nyilvántartásban elhelyezett iratok hitelességét jelen alcím szerinti megoldásokkal biztosítja.
 
 (2) A nyilvántartásba bejegyzést csak
 
@@ -22,4 +22,4 @@ c) az irat hitelességéről igazolás kiállítására jogosult szerv vagy szer
 
 (6) A SZEÜSZ szolgáltató köteles gondoskodni az illetéktelen hozzáférés megakadályozásáról.
 
-[^51]: A 109. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (14) bekezdésével megállapított szöveg.
+[^57]: A 109. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (14) bekezdésével megállapított szöveg.
