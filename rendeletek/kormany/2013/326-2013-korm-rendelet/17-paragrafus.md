@@ -40,11 +40,11 @@
 
 19. hangszerkarbantartás megszervezése,
 
-20.[^20] különböző feladatellátási helyekre történő alkalmazás esetében a köznevelési intézmény telephelyei közötti utazás,
+20.[^21] különböző feladatellátási helyekre történő alkalmazás esetében a köznevelési intézmény telephelyei közötti utazás,
 
-21.[^21] a pedagógiai program célrendszerének megfelelő, az éves munkatervben rögzített, tanórai vagy egyéb foglalkozásnak nem minősülő feladat ellátása, valamint
+21.[^22] a pedagógiai program célrendszerének megfelelő, az éves munkatervben rögzített, tanórai vagy egyéb foglalkozásnak nem minősülő feladat ellátása, valamint
 
-22.[^22] a gyakornok felkészülése a minősítő vizsgára
+22.[^23] a gyakornok felkészülése a minősítő vizsgára
 
 ## rendelhető el.
 
@@ -88,7 +88,7 @@ b) a munkakör nincs betöltve, és az álláshelyre kiírt nyilvános pályáza
 
 c) a betöltött munkakör feladatainak ellátása betegség, baleset vagy egyéb ok miatt váratlanul lehetetlenné vált.
 
-(5)[^23] A (4) bekezdésben meghatározottak alapján az egy pedagógusnak elrendelhető tanórai és egyéb foglalkozások száma egy tanítási napon a kettő, egy tanítási héten a hat órát nem haladhatja meg. A neveléssel-oktatással lekötött munkaidő, óvodapedagógus esetében a kötött munkaidő felső határa felett eseti helyettesítés a (4) bekezdésben foglaltak alapján rendelhető el, egy pedagógus számára tanítási évenként legfeljebb harminc tanítási napra, óvoda esetében egy nevelési éven belül legfeljebb harminc napra.
+(5)[^24] A (4) bekezdésben meghatározottak alapján az egy pedagógusnak elrendelhető tanórai és egyéb foglalkozások száma egy tanítási napon a kettő, egy tanítási héten a hat órát nem haladhatja meg. A neveléssel-oktatással lekötött munkaidő, óvodapedagógus esetében a kötött munkaidő felső határa felett eseti helyettesítés a (4) bekezdésben foglaltak alapján rendelhető el, egy pedagógus számára tanítási évenként legfeljebb harminc tanítási napra, óvoda esetében egy nevelési éven belül legfeljebb harminc napra.
 
 (6) Azokban a kollégiumokban, amelyekben a pedagógiai felügyelői munkakör nem került bevezetésre, a pedagógus neveléssel-oktatással lekötött munkaideje heti harminc, gyakorló kollégiumban és fogyatékos tanulók kollégiumában heti huszonhat óra, amely teljesíthető az iskolai vagy kollégiumi foglalkozáson részt nem vevő tanulók – étkezési, alvási és a heti pihenőnapon, munkaszüneti napon teljesített ügyeleti időn kívüli – folyamatos pedagógiai felügyeletének ellátásával is. Ebben az esetben a kollégiumi pedagóguslétszám meghatározásánál figyelembe kell venni a tanulók nemenként és épületenként megadott létszámát, a kollégiumi foglalkozási időn kívül nemenként és épületenként átlagosan 100, legfeljebb 120 fős tanulói csoporthoz egy pedagógussal számolva.
 
@@ -96,7 +96,7 @@ c) a betöltött munkakör feladatainak ellátása betegség, baleset vagy egyé
 
 (8) Az állami intézményfenntartó központ által fenntartott iskola intézményvezetője az iskolai tantárgyfelosztást a területileg illetékes tankerület vezetőjével egyeztetve készíti el.
 
-[^20]: A 17. § (1) bekezdés 20. pontja a 99/2014. (III. 25.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
-[^21]: A 17. § (1) bekezdés 21. pontja a 99/2014. (III. 25.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^22]: A 17. § (1) bekezdés 22. pontját a 99/2014. (III. 25.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^23]: A 17. § (5) bekezdése a 99/2014. (III. 25.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^21]: A 17. § (1) bekezdés 20. pontja a 99/2014. (III. 25.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^22]: A 17. § (1) bekezdés 21. pontja a 99/2014. (III. 25.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^23]: A 17. § (1) bekezdés 22. pontját a 99/2014. (III. 25.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^24]: A 17. § (5) bekezdése a 99/2014. (III. 25.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.

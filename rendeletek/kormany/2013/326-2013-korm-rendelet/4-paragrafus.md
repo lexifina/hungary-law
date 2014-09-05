@@ -24,8 +24,10 @@ a) ellátja a pedagógusjelölt, gyakornok szakmai segítését,
 
 b) részt vesz a közneveléssel összefüggő szakmai, tartalmi-tantervi, pedagógiai-módszertani fejlesztésekben, kutatásokban, intézményi dokumentumok, belső képzések szervezésében és megtartásában, valamint
 
-c) részt vesz a tanulóknak a tanév rendjéről szóló miniszteri rendeletben szereplő vagy az oktatásért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium által meghirdetett és finanszírozott országos vagy nemzetközi tanulmányi, szakmai, művészeti és sportversenyre történő felkészítésében.
+c)[^8] részt vesz a tanulóknak a tanév rendjéről szóló miniszteri rendeletben szereplő vagy az oktatásért felelős miniszter (a továbbiakban: miniszter) által meghirdetett és finanszírozott országos vagy nemzetközi tanulmányi, szakmai, művészeti és sportversenyre történő felkészítésében.
 
 (7) Az (5) bekezdés szerinti munkaidő-kedvezményben részesülő pedagógus évente legfeljebb huszonöt alkalommal bízható meg szakértői, szaktanácsadói feladatok ellátásával.
 
 (8) A szakértői, szaktanácsadói feladatokat ellátó pedagógus költségtérítésben részesül, melynek mértéke alkalmanként tízezer forint. A nemzetiségi nevelési-oktatási feladatot ellátó intézményben szakértői, szaktanácsadói feladatot ellátó pedagógus számlával igazolt, jogos költségeinek megtérítésére tarthat igényt.
+
+[^8]: A 4. § (6) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 755. §-a szerint módosított szöveg.

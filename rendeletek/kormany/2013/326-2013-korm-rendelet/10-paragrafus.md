@@ -2,7 +2,7 @@
 
 ## és a minősítési eljárás, a minősítő bizottságok munkájának szervezése, a minősítés díja
 
-10. §[^13] (1) A miniszter minden év február utolsó napjáig közzéteszi a következő naptári évre vonatkozóan a lebonyolításra kerülő minősítő vizsgák és a minősítési eljárások számát (a továbbiakban: minősítési keretszám), a minősítő vizsgák és minősítési eljárások szervezésének központi szabályait és a minősítési tervbe történő felvétel különös feltételeit.
+10. §[^14] (1) A miniszter minden év február utolsó napjáig közzéteszi a következő naptári évre vonatkozóan a lebonyolításra kerülő minősítő vizsgák és a minősítési eljárások számát (a továbbiakban: minősítési keretszám), a minősítő vizsgák és minősítési eljárások szervezésének központi szabályait és a minősítési tervbe történő felvétel különös feltételeit.
 
 (2) A miniszter a minősítési keretszámot a kötelező minősítő vizsgák és minősítési eljárások száma, a minősítő vizsgák és a minősítési eljárások lebonyolításához rendelkezésre álló személyi és tárgyi feltételek, valamint a központi költségvetési keret biztosította lehetőségek figyelembevételével határozza meg.
 
@@ -24,4 +24,4 @@
 
 (11) Az intézményvezető köteles a jelentkező minősítő vizsgán, minősítési eljárásban való részvételét biztosítani. A minősítő vizsgán, a minősítési eljárásban való részvétel napját munkaidőként kell figyelembe venni.
 
-[^13]: A 10. § a 99/2014. (III. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^14]: A 10. § a 99/2014. (III. 25.) Korm. rendelet 4. §-ával megállapított szöveg.

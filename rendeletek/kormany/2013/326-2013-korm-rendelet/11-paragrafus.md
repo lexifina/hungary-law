@@ -1,4 +1,4 @@
-11. §[^14] (1) A kormányhivatal az OH által működtetett informatikai támogató rendszer segítségével kijelöli a minősítő bizottság elnökét és 7. § (2) bekezdés b) pont ba) alpontja szerinti köznevelési szakértő (a továbbiakban: szakértő) tagját. A kormányhivatal megkeresi a minősítő bizottság 7. § a) pont aa) alpont, b) pont ba) alpont és c) pontja szerinti tagjainak delegálása érdekében a 7. § (4) bekezdés szerint kijelölt felsőoktatási intézményt és a Magyar Tudományos Akadémia elnökét.
+11. §[^15] (1) A kormányhivatal az OH által működtetett informatikai támogató rendszer segítségével kijelöli a minősítő bizottság elnökét és 7. § (2) bekezdés b) pont ba) alpontja szerinti köznevelési szakértő (a továbbiakban: szakértő) tagját. A kormányhivatal megkeresi a minősítő bizottság 7. § a) pont aa) alpont, b) pont ba) alpont és c) pontja szerinti tagjainak delegálása érdekében a 7. § (4) bekezdés szerint kijelölt felsőoktatási intézményt és a Magyar Tudományos Akadémia elnökét.
 
 (2) A kormányhivatal minden év július 31-éig az OH által működtetett informatikai támogató rendszer útján értesíti az (1) bekezdés szerint kijelölt szakértőket és az őket foglalkoztató intézmények vezetőit.
 
@@ -34,4 +34,4 @@ f) a portfólióvédés lebonyolítása.
 
 (12) A kormányhivatal a minősítés eredményéről a (11) bekezdésben meghatározott adatrögzítést követő hét napon belül tanúsítványt állít ki, amelyet a minősítő bizottság elnöke és a kormányhivatal megbízott vezetője állít ki.
 
-[^14]: A 11. § a 99/2014. (III. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^15]: A 11. § a 99/2014. (III. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
