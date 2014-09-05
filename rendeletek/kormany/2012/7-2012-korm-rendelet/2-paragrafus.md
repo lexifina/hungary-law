@@ -1,1 +1,0 @@
-## 1. § E rendelet hatálya a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: költségvetési törvény) 1. melléklet, XII. Vidékfejlesztési Minisztérium fejezet, 20. cím, 5. alcím, 8. Folyó kiadások és jövedelem-támogatások jogcím-csoport fejezeti kezelésű előirányzatára (a továbbiakban: előirányzat) terjed ki.
