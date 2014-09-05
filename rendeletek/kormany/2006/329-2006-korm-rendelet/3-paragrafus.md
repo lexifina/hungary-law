@@ -1,1 +1,0 @@
-3. § (1) Az 1. § szerinti emelés, illetve a 2. § szerinti emelt összegű megállapítás csak egy ellátás után jár. Ha a jogosult részére egyidejűleg több ellátást folyósítanak, illetve állapítanak meg, az 1. § (1) bekezdésben meghatározott sorrendben előbb álló ellátást kell megemelni, illetve emelt összegben megállapítani.
