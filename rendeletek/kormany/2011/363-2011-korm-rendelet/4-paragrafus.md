@@ -8,6 +8,8 @@ b) előkészíti az FT döntéseit, az FT határozatait iktatja, irattárazza, k
 
 c) biztosítja az FT ügyvivő feladatainak szervezését és adminisztrációját,
 
-d) folyamatos kapcsolatot tart a fenntartó minisztériumok e feladatra kijelölt szervezeti egységeivel, az Egyetemmel, amelyek részére a meghozott határozatokról tájékoztatást ad, valamint
+d)[^1] folyamatos kapcsolatot tart a fenntartó miniszterekkel, az Egyetemmel, amelyek részére a meghozott határozatokról tájékoztatást ad, valamint
 
 e) az FT működéséhez szükséges egyéb kapcsolattartási feladatokat lát el.
+
+[^1]: A 4. § (2) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 622. §-a szerint módosított szöveg.
