@@ -1,1 +1,0 @@
-A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 80. §-ának e) pontjában kapott felhatalmazás alapján a Kormány az őstermelői igazolványról szóló 228/1996. (XII. 26.) Korm. rendeletet (a továbbiakban: R.) a következők szerint módosítja:
