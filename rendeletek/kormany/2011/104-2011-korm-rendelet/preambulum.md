@@ -1,1 +1,0 @@
-A Kormány a távhőszolgáltatásról szóló 2005. évi XVIII. törvény 60. § (1) bekezdés m) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
