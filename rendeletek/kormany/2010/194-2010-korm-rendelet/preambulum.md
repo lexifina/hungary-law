@@ -1,1 +1,0 @@
-A Kormány a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 258. § (4) bekezdésében kapott felhatalmazás alapján, a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 35. § (1) bekezdés b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
