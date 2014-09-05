@@ -1,4 +1,4 @@
-71. § (1)[^8] A miniszter a halgazdálkodásért való felelőssége keretében előkészíti az állatfajokról, valamint azok génkészletének védelmére, fenntartásának, hasznosításának szabályaira, a halászat feltételeire vonatkozó jogszabályokat.
+71. § (1)[^31] A miniszter a halgazdálkodásért való felelőssége keretében előkészíti a halak és más hasznos víziállatok védelmére, fenntartásuk, hasznosításuk szabályaira, a halgazdálkodás feltételeire, a halászatra és a horgászatra, valamint a halgazdálkodással összefüggő állami bevételek felhasználására vonatkozó jogszabályokat.
 
 (2) A miniszter a halgazdálkodásért való felelőssége keretében
 
@@ -8,4 +8,4 @@ b) a halgazdálkodási hatóság útján felügyeli a halgazdálkodási tevéken
 
 c) ellátja az államot megillető halgazdálkodási jogok pályáztatásával kapcsolatos feladatokat, ellenőrzi a halgazdálkodási jog átengedésére irányuló szerződések betartását.
 
-[^8]: A 71. § (1) bekezdése a 167/2014. (VII. 17.) Korm. rendelet 21. § (1) bekezdése szerint módosított szöveg.
+[^31]: A 71. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 828. §-ával megállapított szöveg.

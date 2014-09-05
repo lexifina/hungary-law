@@ -32,9 +32,11 @@
 
 12. településfejlesztésért és településrendezésért,
 
+12a.[^1] területrendezésért,
+
 13. polgári hírszerzési tevékenység irányításáért,
 
-13a.[^1] postaügyért,
+13a.[^2] postaügyért,
 
 14. társadalompolitika összehangolásáért,
 
@@ -44,4 +46,5 @@
 
 felelős tagja.
 
-[^1]: A 4. § 13a. pontját a 167/2014. (VII. 17.) Korm. rendelet 9. §-a iktatta be.
+[^1]: A 4. § 12a. pontját a 221/2014. (IX. 4.) Korm. rendelet 817. §-a iktatta be.
+[^2]: A 4. § 13a. pontját a 167/2014. (VII. 17.) Korm. rendelet 9. §-a iktatta be.

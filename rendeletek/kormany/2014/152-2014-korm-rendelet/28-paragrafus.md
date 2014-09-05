@@ -1,6 +1,6 @@
 ## 27. § A miniszter a határrendészetért való felelőssége keretében előkészíti az államhatár őrizetére és a határforgalom ellenőrzésére vonatkozó jogszabályokat.
 
-28. § (1) A miniszter a helyi önkormányzatokért való felelőssége keretében előkészíti a helyi önkormányzatok feladat- és hatáskörére, tulajdonára, vagyonára, a helyi önkormányzati képviselők és polgármesterek jogállására és feladat- és hatáskörére, valamint a helyi önkormányzatok adósságrendezésére vonatkozó jogszabályokat.
+28. § (1)[^13] A miniszter a helyi önkormányzatokért való felelőssége keretében – jogszabályban meghatározott tárgykörben e rendelet szerinti miniszterrel együttműködve – előkészíti a helyi önkormányzatokra, a helyi önkormányzatok tulajdonára és vagyonára, a helyi önkormányzatok adósságrendezésére és a helyi önkormányzati képviselők és polgármesterek jogállására vonatkozó jogszabályokat.
 
 (2) A miniszter a helyi önkormányzatokért való felelőssége keretében
 
@@ -16,6 +16,7 @@ e) közreműködik az ágazati és térségi fejlesztési programok helyi önkor
 
 f) kialakítja az önkormányzati érdekszövetségekkel való kapcsolattartás és egyeztetés rendjét,
 
-g)[^6] az önkormányzati érdekszövetségek javaslatának kikérését követően a 9. § (2) bekezdés c) pontjának figyelembevételével kijelöli az Európa Tanács Helyi és Regionális Önkormányzatok Kongresszusa magyar delegációjának tagjait.
+g)[^14] az önkormányzati érdekszövetségek javaslatának kikérését követően a 9. § (2) bekezdés c) pontjának figyelembevételével kijelöli az Európa Tanács Helyi és Regionális Önkormányzatok Kongresszusa magyar delegációjának tagjait.
 
-[^6]: A 28. § (2) bekezdés g) pontját a 167/2014. (VII. 17.) Korm. rendelet 13. §-a iktatta be.
+[^13]: A 28. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 821. §-ával megállapított szöveg.
+[^14]: A 28. § (2) bekezdés g) pontját a 167/2014. (VII. 17.) Korm. rendelet 13. §-a iktatta be.

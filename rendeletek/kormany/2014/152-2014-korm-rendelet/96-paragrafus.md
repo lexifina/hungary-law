@@ -4,7 +4,7 @@ a) – a mezőgazdasági foglalkoztatás tekintetében az agrárpolitikáért fe
 
 b) a bérpolitika kialakítására, a munkáltató fizetésképtelensége esetén igénybe vehető bérgarancia-támogatásra,
 
-c) a foglalkoztatás elősegítésére – ide nem értve a közfoglalkoztatást és a foglalkoztatási rehabilitációt – és az álláskeresők támogatására,
+c)[^40] – az alacsony iskolai végzettségűek foglalkoztatásának elősegítése tekintetében a társadalmi felzárkózásért felelős miniszterrel együttműködve – a foglalkoztatás elősegítésére – ide nem értve a közfoglalkoztatást és a foglalkoztatási rehabilitációt – és az álláskeresők támogatására,
 
 d) a munkaügyi kapcsolatokra,
 
@@ -45,3 +45,5 @@ gc) összehangolja az egészséget nem veszélyeztető és biztonságos munkavé
 h) részt vesz a Kormány elosztás- és jövedelempolitikai koncepciójának kialakításában,
 
 i) képviseli a Kormányt a Nemzetközi Munkaügyi Szervezetben.
+
+[^40]: A 96. § (1) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 830. §-ával megállapított szöveg.

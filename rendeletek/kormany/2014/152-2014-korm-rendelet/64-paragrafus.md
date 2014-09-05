@@ -1,10 +1,10 @@
-64. § (1) A miniszter a társadalmi felzárkózásért való felelőssége keretében előkészíti a fogyatékos és megváltozott munkaképességű személyek helyzetére, esélyegyenlőségük biztosítására, foglalkoztatására, e személyek és foglalkoztatásuk támogatására és a fogyatékos személyek önálló életvitelét biztosító szolgáltatásokra vonatkozó jogszabályokat.
+64. § (1)[^25] A miniszter a társadalmi felzárkózásért való felelőssége keretében előkészíti a hátrányos helyzetű személyek helyzetére, felzárkózásuk biztosítására és oktatási esélyteremtésére vonatkozó jogszabályokat.
 
 (2) A miniszter a társadalmi felzárkózásért való felelőssége keretében
 
-a) felel a gyermekek esélyteremtéséért, a hátrányos helyzetű gyermekek oktatási esélyegyenlőségének biztosításáért, a nők és férfiak esélyegyenlőségének előmozdításáért,
+a)[^26] felel a gyermekek esélyteremtéséért, a hátrányos helyzetű gyermekek oktatási esélyegyenlőségének biztosításáért,
 
-b) ellátja a fogyatékosok és megváltozott munkaképességű személyek foglalkoztatásával és annak támogatásával kapcsolatos állami feladatokat, felel a foglalkoztatási rehabilitációért,
+b)[^27]
 
 c) felel a hátrányos térségekben élők társadalmi felzárkózásáért,
 
@@ -12,4 +12,9 @@ d) kidolgozza a roma társadalmi integrációs kormányzati politika koncepciój
 
 e) felel az alacsony végzettségűek foglalkoztathatóságát javító komplex szolgáltatások biztosításáért,
 
-f) koordinálja az Európai Szociális Karta és a fogyatékossággal élő emberek érdekeit szolgáló nemzetközi egyezmények végrehajtását.
+f)[^28]
+
+[^25]: A 64. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 826. §-ával megállapított szöveg.
+[^26]: A 64. § (2) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 836. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^27]: A 64. § (2) bekezdés b) pontját a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.
+[^28]: A 64. § (2) bekezdés f) pontját a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.

@@ -10,7 +10,7 @@
 
 |  | 2 | fővárosi és megyei kormányhivatalok | irányítás |
 
-|  | 3 | Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ | irányítás |
+|  | 3 | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ | irányítás |
 
 |  | 4 | Információs Hivatal | irányítás |
 
@@ -130,7 +130,9 @@
 
 |  | 2 | Balassi Intézet | irányítás |
 
-|  | 3 | Nemzeti Külgazdasági Hivatal | irányítás |
+|  | 3 | Külügyi és Külgazdasági Intézet | irányítás |
+
+|  | 4 | Nemzeti Befektetési Ügynökség | irányítás |
 
 ## H) Nemzetgazdasági miniszter
 

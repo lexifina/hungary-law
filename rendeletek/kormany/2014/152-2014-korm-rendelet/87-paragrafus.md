@@ -16,6 +16,6 @@ bc) képviseli a Kormányt az Európai Unió Általános Ügyek Tanácsának és
 
 c) kialakítja az Állandó Képviselet működésére vonatkozó szabályokat,
 
-d)[^13] ellátja a belső piaci koordinációval kapcsolatos feladatokat.
+d)[^37] ellátja a belső piaci koordinációval kapcsolatos feladatokat.
 
-[^13]: A 87. § (2) bekezdés d) pontját a 167/2014. (VII. 17.) Korm. rendelet 17. §-a iktatta be.
+[^37]: A 87. § (2) bekezdés d) pontját a 167/2014. (VII. 17.) Korm. rendelet 17. §-a iktatta be.

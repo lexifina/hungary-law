@@ -1,4 +1,4 @@
-107. § (1) A miniszter a turizmusért való felelőssége keretében előkészíti a turizmusra, az utazásszervező és -közvetítő tevékenységre, az utazási és utazást közvetítő szerződésre, a falusi- és agroturizmusra, – a gyógy- és egészségügyi tényezők vonatkozásában az egészségügyért felelős miniszterrel együttműködve – az egészségturizmusra, az agrár- és bormarketing és a közösségi agrármarketing tevékenységre, a mezőgazdasági termékek Európai Unión kívüli országokban és az Európai Unión belüli megismertetésére és promóciójára vonatkozó jogszabályokat.
+107. § (1)[^42] A miniszter a turizmusért való felelőssége keretében előkészíti a turizmusra, az utazásszervező és -közvetítő tevékenységre, az utazási és utazást közvetítői szerződésre, a falusi- és agroturizmusra, valamint – a gyógy- és egészségügyi tényezők vonatkozásában az egészségügyért felelős miniszterrel együttműködve – az egészségturizmusra vonatkozó jogszabályokat.
 
 (2) A miniszter a turizmusért való felelőssége keretében
 
@@ -9,3 +9,5 @@ b) kidolgozza a turizmusfejlesztés koncepcióját és támogatási rendszerét,
 c) összehangolja az európai uniós tagságból adódó kormányzati turisztikai feladatokat,
 
 d) irányítja a belföldi és nemzetközi turisztikai marketingtevékenységet.
+
+[^42]: A 107. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 832. §-ával megállapított szöveg.

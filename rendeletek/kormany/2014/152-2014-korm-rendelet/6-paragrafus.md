@@ -8,7 +8,7 @@ c) közreműködik a döntések megvalósulásának értékelésében, a végreh
 
 d) összehangolja és biztosítja a Kormány informatikával és e-közigazgatással kapcsolatos politikájának egységes megvalósítását,
 
-e)[^2] felel a fejlesztési banki eszközökkel megvalósuló fejlesztéspolitikáért és előkészíti a Magyar Fejlesztési Bankra vonatkozó jogszabályokat.
+e)[^3] felel a fejlesztési banki eszközökkel megvalósuló fejlesztéspolitikáért és előkészíti a Magyar Fejlesztési Bankra vonatkozó jogszabályokat.
 
 (2) A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében a kormányzati munka tervezése tekintetében
 
@@ -62,4 +62,4 @@ b) a miniszterelnök részére soron kívül tájékoztatást, felvilágosítás
 
 c) gondoskodik a köztársasági elnök, a Kormány és a miniszterelnök által adományozható kitüntetésekkel és egyéb elismerésekkel kapcsolatos feladatok ellátásáról.
 
-[^2]: A 6. § (1) bekezdése e) pontját a 167/2014. (VII. 17.) Korm. rendelet 10. §-a iktatta be.
+[^3]: A 6. § (1) bekezdése e) pontját a 167/2014. (VII. 17.) Korm. rendelet 10. §-a iktatta be.

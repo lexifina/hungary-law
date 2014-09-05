@@ -54,7 +54,7 @@
 
 26. terrorizmus elleni küzdelemért,
 
-27. területrendezésért,
+27.[^11]
 
 28. településüzemeltetésért,
 
@@ -65,3 +65,5 @@
 31. vízvédelemért
 
 felelős tagja.
+
+[^11]: A 21. § 27. pontját a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.
