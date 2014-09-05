@@ -114,6 +114,6 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban az 1981. évi július hó 23. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról az oktatási miniszter[^3] és a külügyminiszter az érdekelt miniszterekkel és országos hatáskörű szervek vezetőivel egyetértésben gondoskodik.
+(2)[^3] E rendelet végrehajtásáról – a kultúráért felelős miniszterrel és a tudománypolitika koordinációjáért felelős miniszterrel egyetértésben – a külpolitikáért felelős miniszter gondoskodik.
 
-[^3]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^3]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 79. §-ával megállapított szöveg.
