@@ -1,1 +1,0 @@
-A Kormány – az Alkotmány 35. §-ának (2) bekezdésében foglalt felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének i) pontja szerinti feladatkörében eljárva – az Európai Unió Szolidaritási Alapjából a helyi önkormányzatok részére nyújtható támogatás felhasználására a következőket rendeli el:
