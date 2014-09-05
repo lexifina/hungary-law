@@ -1,5 +1,5 @@
-## 6–8. §[^12]
+## 6–8. §[^13]
 
 ## A vagyongazdálkodás szabályai
 
-[^12]: A 6–8. §-t a 346/2009. (XII. 30.) Korm. rendelet 31. § (2) bekezdése hatályon kívül helyezte.
+[^13]: A 6–8. §-t a 346/2009. (XII. 30.) Korm. rendelet 31. § (2) bekezdése hatályon kívül helyezte.
