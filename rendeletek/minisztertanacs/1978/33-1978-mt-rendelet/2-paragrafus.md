@@ -1,1 +1,0 @@
-## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és az Osztrák Köztársaság Kormánya között Budapesten, az 1977. évi május hó 2. napján aláírt, a vámkérdésekben történő együttműködésről és kölcsönös segítségnyújtásról szóló egyezményt e rendelettel kihirdeti.
