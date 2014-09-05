@@ -2,7 +2,7 @@
 
 11. § (1) A kormányablak ügyintézői képesítés megszerzésére az NKE
 
-a)[^26] két féléves szakirányú továbbképzést szervez a felsőfokú végzettséggel rendelkező jelentkezők,
+a)[^27] két féléves szakirányú továbbképzést szervez a felsőfokú végzettséggel rendelkező jelentkezők,
 
 b) az a) pont szerinti szakirányú továbbképzéssel megegyező időtartamú közszolgálati továbbképzést nyújt a középfokú iskolai végzettséggel rendelkező közszolgálati tisztviselők részére.
 
@@ -26,14 +26,14 @@ d) egyedi ügyek és élethelyzetek,
 
 e) ügyfélszolgálati készségfejlesztés.
 
-(4)[^27] A jelentkezők munkába illesztő képzésként a kormányablaknál végzett ügyintézői tevékenység ellátásához szükséges informatikai ismeretek megszerzésére irányuló képzésen vesznek részt. A munkába illesztő képzés elvégzése nem feltétele az (1) bekezdés szerinti képesítés megszerzésének, de a munkakör betöltéséhez szükséges feltétel.
+(4)[^28] A jelentkezők munkába illesztő képzésként a kormányablaknál végzett ügyintézői tevékenység ellátásához szükséges informatikai ismeretek megszerzésére irányuló képzésen vesznek részt. A munkába illesztő képzés elvégzése nem feltétele az (1) bekezdés szerinti képesítés megszerzésének, de a munkakör betöltéséhez szükséges feltétel.
 
-(5)[^28] A középfokú iskolai végzettséggel rendelkező közszolgálati tisztviselőnek – a (6) és a (7) bekezdésekben foglalt kivétellel – a kormányablak ügyintézői álláshely betöltését követő legfeljebb hat éven belül felsőfokú közigazgatás-szervező szakképzettség megszerzésére irányuló hallgatói jogviszonyt kell létesítenie, és a felsőfokú közigazgatás-szervezői szakképzettséget e hallgatói jogviszony keretében meg kell szereznie.
+(5)[^29] A középfokú iskolai végzettséggel rendelkező közszolgálati tisztviselőnek – a (6) és a (7) bekezdésekben foglalt kivétellel – a kormányablak ügyintézői álláshely betöltését követő legfeljebb hat éven belül felsőfokú közigazgatás-szervező szakképzettség megszerzésére irányuló hallgatói jogviszonyt kell létesítenie, és a felsőfokú közigazgatás-szervezői szakképzettséget e hallgatói jogviszony keretében meg kell szereznie.
 
 (6) Annak a középfokú iskolai végzettséggel rendelkező közszolgálati tisztviselőnek, aki a jelentkezési felhívásban meghatározott jelentkezési határidőig betöltötte az ötvenedik életévét, nem kell az (5) bekezdés szerinti szakképzettséget megszereznie.
 
 (7) Nem kell az (5) bekezdés szerinti szakképzettséget megszereznie annak a középfokú iskolai végzettséggel rendelkező közszolgálati tisztviselőnek, aki a képzésre történő jelentkezését megelőzően felsőoktatási intézménnyel hallgatói jogviszonyt létesített, ha a kormányablak ügyintézői álláshely betöltését követően a képzési és kimeneti követelményekben meghatározott képzési idő másfélszeresén belül a felsőfokú szakképzettséget megszerzi.
 
-[^26]: A 11. § (1) bekezdés a) pontja a 296/2012. (X. 17.) Korm. rendelet 59. § (3) bekezdés f) pontja szerint módosított szöveg.
-[^27]: A 11. § (4) bekezdése a 296/2012. (X. 17.) Korm. rendelet 59. § (3) bekezdés f) pontja szerint módosított szöveg.
-[^28]: A 11. § (5) bekezdése a 402/2012. (XII. 28.) Korm. rendelet 21. §-ával megállapított, a 347/2013. (IX. 30.) Korm. rendelet 7. § a)–b) pontja szerint módosított szöveg.
+[^27]: A 11. § (1) bekezdés a) pontja a 296/2012. (X. 17.) Korm. rendelet 59. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^28]: A 11. § (4) bekezdése a 296/2012. (X. 17.) Korm. rendelet 59. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^29]: A 11. § (5) bekezdése a 402/2012. (XII. 28.) Korm. rendelet 21. §-ával megállapított, a 347/2013. (IX. 30.) Korm. rendelet 7. § a)–b) pontja szerint módosított szöveg.

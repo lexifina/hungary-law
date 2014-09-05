@@ -1,4 +1,4 @@
-5. §[^6] (1) A képzésben az vehet részt:
+5. §[^7] (1) A képzésben az vehet részt:
 
 a) aki megfelel a jelentkezési feltételeknek,
 
@@ -8,4 +8,4 @@ c) aki a kiválasztási bizottság döntése alapján a kiválasztási eljárás
 
 (2) Közszolgálati tisztviselő az (1) bekezdésben foglaltakon túl csak akkor vehet részt a képzésben, ha vállalja, hogy továbbképzési megállapodást köt a képzésre.
 
-[^6]: Az 5. § a 296/2012. (X. 17.) Korm. rendelet 59. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 5. § a 296/2012. (X. 17.) Korm. rendelet 59. § (2) bekezdésével megállapított szöveg.
