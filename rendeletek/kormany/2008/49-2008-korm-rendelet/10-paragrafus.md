@@ -1,1 +1,0 @@
-## 9. § A támogatás jogszerű igénybevételét a céltartalékot igénylő központi költségvetési szerveknél a Kormányzati Ellenőrzési Hivatal a Kormányzati Ellenőrzési Hivatalról szóló 312/2006. (XII. 23.) Korm. rendelet 4. §-ában meghatározott hatáskörében eljárva, külön ellenőrzi.

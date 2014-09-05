@@ -1,1 +1,0 @@
-A Kormány – az Alkotmány 35. §-a (1) bekezdésének b) pontjában foglalt feladatkörében eljárva – a Magyar Köztársaság 2008. évi költségvetéséről szóló 2007. évi CLXIX. törvény 84. §-a (1) bekezdésének b) pontjában és 5. számú mellékletének 26. pontjában kapott felhatalmazás alapján a következő rendeletet alkotja:
