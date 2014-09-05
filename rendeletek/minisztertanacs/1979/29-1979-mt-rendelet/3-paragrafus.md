@@ -100,4 +100,6 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba; rendelkezéseit azonban az 1979. évi június hó 7. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról az egészségügyi miniszter gondoskodik.
+(2)[^3] E rendelet végrehajtásáról az egészségügyért felelős miniszter gondoskodik.
+
+[^3]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 52. §-ával megállapított szöveg.
