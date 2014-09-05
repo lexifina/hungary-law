@@ -20,7 +20,7 @@ h) a Magyar Tudományos Akadémia elnöke,
 
 i) a Költségvetési Tanács elnöke,
 
-j)[^29] a Kormány európai uniós források felhasználásáért felelős tagja,
+j)[^29] az európai uniós források felhasználásáért felelős miniszter,
 
 k) az Országgyűlés Hivatalának vezetője, valamint
 
@@ -28,5 +28,5 @@ l)[^30] a Közigazgatási és Igazságügyi Hivatal vezetője.
 
 [^27]: A 10. § az 55/2012. (III. 30.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
 [^28]: A 10. § g) pontja a 345/2013. (IX. 30.) Korm. rendelet 47. §-ával megállapított szöveg.
-[^29]: A 10. § j) pontja az 550/2013. (XII. 30.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^29]: A 10. § j) pontja a 221/2014. (IX. 4.) Korm. rendelet 417. §-ával megállapított szöveg.
 [^30]: A 10. § l) pontja a 178/2012. (VII. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
