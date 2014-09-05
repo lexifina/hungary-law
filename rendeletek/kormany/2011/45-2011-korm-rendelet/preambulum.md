@@ -1,1 +1,0 @@
-A Kormány a minősített adat védelméről szóló 2009. évi CLV. törvény 37. § bb) és e) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
