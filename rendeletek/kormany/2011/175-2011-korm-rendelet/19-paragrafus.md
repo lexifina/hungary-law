@@ -1,1 +1,0 @@
-## 18. § A 2011. január 1. napját megelőzően meghozott – 30 méter szabadnyílást meghaladó –műtárgy építési engedélyétől való eltérés engedélyezése, az engedély érvényességi idő meghosszabbítása, illetve engedély átruházása az Útügyi, Vasúti és Hajózási Hivatal hatáskörébe tartozik.
