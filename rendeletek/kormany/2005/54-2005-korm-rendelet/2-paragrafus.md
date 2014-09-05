@@ -10,7 +10,7 @@ d) (keretbiztosítéki) jelzálogjogról, ha annak alkalmazását az államházt
 
 (2) A támogatási szerződéshez mellékelni kell a kedvezményezett nyilatkozatait a következők szerint:
 
-a)[^2] helyi önkormányzatok, helyi kisebbségi önkormányzatok, önkormányzatok társulásai és ezek költségvetési szervei esetében az érintett önkormányzat, illetve amennyiben a kedvezményezett önállóan működő és gazdálkodó költségvetési szerv, akkor az önállóan működő és gazdálkodó költségvetési szerv írásbeli nyilatkozata arról, hogy ha a projekt részben vagy egészben meghiúsulna, illetve ha a támogatást szabálytalanul használja fel, abban az esetben a támogatást visszafizeti, egyben tudomásul veszi, hogy ennek elmulasztása esetén annak összegére beszedés nyújtható be a helyi önkormányzat, helyi kisebbségi önkormányzat, önkormányzatok társulásai költségvetési számlájára, illetve amennyiben, önállóan működő és gazdálkodó költségvetési szerv annak költségvetési számlájára. A támogatás kedvezményezettje beszedési megbízás esetére annak benyújtására vonatkozó felhatalmazó levelét megadja.
+a)[^2] helyi önkormányzatok és társulásaik, helyi nemzetiségi önkormányzatok és az ezek által alapított költségvetési szervek esetében az érintett helyi önkormányzat, helyi nemzetiségi önkormányzat – vagy ha a kedvezményezett gazdasági szervezettel rendelkező költségvetési szerv, annak – írásbeli nyilatkozata arról, hogy a projekt részben vagy egészben történő meghiúsulása vagy a támogatás szabálytalan felhasználása esetén a támogatást visszafizeti, egyben tudomásul veszi, hogy ennek elmulasztása esetén annak összegére fizetési számlája beszedési megbízással megterhelhető,
 
 b)[^3] egyházi jogi személyek, az alapítványok és intézményeik, közalapítványok és intézményeik, közhasznú társaságok, köztestületek, valamint társadalmi szervezetek, a politikai pártok kivételével esetében a kedvezményezett írásbeli nyilatkozata arról, hogy ha a projekt részben vagy egészben meghiúsul, illetve a támogatást szabálytalanul használja fel, a támogatást visszafizeti, és tudomásul veszi, hogy ennek elmulasztása esetén annak összege a számára a központi költségvetésből biztosított támogatásból levonásra kerül,
 
@@ -23,7 +23,7 @@ d)[^4] beszedési megbízás esetére a támogatás kedvezményezettje által p�
 (4)[^6] Beruházási támogatással megvalósult vagyontárgyra nem kötelesek vagyonbiztosítást kötni a központi költségvetési szervek, az egyházi jogi személyek, illetve a helyi önkormányzatok, helyi kisebbségi önkormányzatok, önkormányzatok társulásai és ezek költségvetési szervei, amennyiben a fejlesztés tárgya, vagy a fejlesztés eredményeként létrejövő vagyontárgy törzsvagyon, vagy törzsvagyonná válik.
 
 [^1]: A 2. § (1) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (2) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^2]: A 2. § (2) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 300. §-ával megállapított szöveg.
 [^3]: A 2. § (2) bekezdésének b) pontja a 125/2005. (VI. 29.) Korm. rendelet 2. §-a, a 297/2013. (VII. 29.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (2) bekezdés d) pontját a 314/2009. (XII. 28.) Korm. rendelet 31. § (3) bekezdése iktatta be.
 [^5]: A 2. § (3) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 31. § (4) bekezdésével megállapított szöveg.
