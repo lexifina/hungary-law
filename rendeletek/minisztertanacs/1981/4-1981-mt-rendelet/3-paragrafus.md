@@ -82,4 +82,6 @@
 
 3. § (1) Ez a rendelet a kihirdetés napján lép hatályba, rendelkezéseit azonban 1980. december 16-tól alkalmazni kell.
 
-(2) A rendelet végrehajtásáról a gazdasági miniszter gondoskodik.
+(2)[^2] E rendelet végrehajtásáról a turizmusért felelős miniszter gondoskodik.
+
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 68. §-ával megállapított szöveg.
