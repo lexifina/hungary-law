@@ -4,8 +4,12 @@
 
 (2) A Fejlesztési Programot a miniszter a Nemzeti Információs Infrastruktúra Fejlesztési Intézet (a továbbiakban: Intézet) útján működteti.
 
-(3) Az Intézet önállóan működő és gazdálkodó központi költségvetési szerv. Az Intézet feletti irányítási és alapítói jogokat a miniszter gyakorolja.
+(3)[^1]
 
-(4) Az Intézet igazgatóját pályázat alapján öt évre – a Programtanács véleményének ismeretében – a miniszter bízza meg, illetve megbízatását a miniszter vonja vissza.
+(4)[^2]
 
-(5) Az Intézet igazgatójának megbízatása megszűnik az igazgató halálával, lemondásával, megbízatásának lejártával, valamint visszahívásával.
+(5)[^3]
+
+[^1]: A 2. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 534. §-a hatályon kívül helyezte.
+[^2]: A 2. § (4) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 534. §-a hatályon kívül helyezte.
+[^3]: A 2. § (5) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 534. §-a hatályon kívül helyezte.
