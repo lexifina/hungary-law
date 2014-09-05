@@ -2,7 +2,6 @@
 
 4. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1980. június 9. napjától kell alkalmazni.
 
-(2)[^3] E rendelet végrehajtásáról a gazdasági[^4] miniszter és külügyminiszter gondoskodik.
+(2)[^3] E rendelet végrehajtásáról a gazdaságpolitikáért felelős miniszter, a külgazdasági ügyekért felelős miniszter és a külpolitikáért felelős miniszter gondoskodik.
 
-[^3]: A 4. § (2) bekezdése a 71/2000. (V. 19.) Korm. rendelet 6. §-a szerint kiegészített szöveg.
-[^4]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^3]: A 4. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 81. §-ával megállapított szöveg.
