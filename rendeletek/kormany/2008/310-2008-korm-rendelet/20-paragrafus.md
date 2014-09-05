@@ -6,8 +6,6 @@ a) az ózonréteget károsító anyagokról szóló 94/2003. (VII. 2.) Korm. ren
 
 b) az egyes fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységekre vonatkozó bírságról szóló 107/2007. (V. 9.) Korm. rendelet.
 
-(2) E rendelet 5. § (1) bekezdése és a 13. § (1) bekezdése 2009. július 4-én hatályát veszti.
+(2)–(4)[^29]
 
-(3) E rendelet 9. § (7) bekezdése, a 12. § (1) bekezdésének b)–c) pontja, és a 12. § (3) bekezdésének a) pontja 2010. július 4-én hatályát veszti.
-
-(4) E rendelet 12. § (1) bekezdése, és a 12. § (2) bekezdése 2011. július 4-én hatályát veszti.
+[^29]: A 20. § (2)–(4) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 439. §-a hatályon kívül helyezte.

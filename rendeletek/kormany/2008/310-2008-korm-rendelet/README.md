@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-310-20-
 | 2011-08-26 | 2008-310-20-22.11 | 158/2011. (VIII. 11.) Korm. rendelet |
 | 2013-11-13 | 2008-310-20-22.12 | 393/2013. (XI. 12.) Korm. rendelet |
 | 2014-01-01 | 2008-310-20-22.13 | 527/2013. (XII. 30.) Korm. rendelet |
+| 2014-09-05 | 2008-310-20-22.14 | 221/2014. (IX. 4.) Korm. rendelet |

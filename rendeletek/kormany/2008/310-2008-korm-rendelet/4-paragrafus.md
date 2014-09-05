@@ -8,10 +8,10 @@ b) a HLH szektorban a legalább 3 kg hűtőközeget tartalmazó, meglévő és �
 
 c) a HLH, a járműklíma és szállítmányhűtés szektorokban felhasznált vagy visszanyert, újrafelhasznált, ártalmatlanított hűtőközegekre vonatkozó adatbázis és monitoring-rendszer létrehozása és kezelése,
 
-d)[^7] az 1005/2009/EK európai parlamenti és tanácsi rendelet 22. és 23. cikkei szerinti szakképzési követelményeknek való megfelelés érdekében létrehozott képesítő és vizsgáztató testület feladatainak ellátása,
+d)[^8] az 1005/2009/EK európai parlamenti és tanácsi rendelet 22. és 23. cikkei szerinti szakképzési követelményeknek való megfelelés érdekében létrehozott képesítő és vizsgáztató testület feladatainak ellátása,
 
 e) a 303/2008/EK rendelet 10. és 11. cikk szerinti képesítő és vizsgáztató testület feladatainak ellátása,
 
 f) a 307/2008/EK rendelet 3. cikke szerinti személyzetet képesítő testület, valamint a vizsgáztató testület feladatainak ellátása.
 
-[^7]: A 4. § (2) bekezdés d) pontja a 34/2010. (II. 24.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^8]: A 4. § (2) bekezdés d) pontja a 34/2010. (II. 24.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

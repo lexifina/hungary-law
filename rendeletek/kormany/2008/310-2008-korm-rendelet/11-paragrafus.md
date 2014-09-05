@@ -30,8 +30,8 @@ c) a felhasználás területe, külön megjelölve az új töltetet, az utántö
 
 (6) A testület biztosítja, hogy az adatbázis könnyen kezelhető és továbbfejleszthető legyen, s valamennyi információ az illetékes hatóságok részére hozzáférhető legyen.
 
-(7)[^13] Az (1)–(2) bekezdésben felsorolt szervezetek a szakterületükön összegyűjtött összesített adatokat évente április 30-ig megküldik a környezetvédelemért felelős miniszter által vezetett minisztérium (a továbbiakban: Minisztérium) részére.
+(7)[^14] Az (1)–(2) bekezdésben felsorolt szervezetek a szakterületükön összegyűjtött összesített adatokat évente április 30-ig megküldik a környezetvédelemért felelős miniszter által vezetett minisztérium (a továbbiakban: Minisztérium) részére.
 
 (8) A jelentéstételi kötelezettségekből származó adatokról készült nyilvántartások a Központi Statisztikai Hivatal részére egyedi adat szinten, statisztikai célra átadhatóak.
 
-[^13]: A 11. § (7) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 68. § c) pontja szerint módosított szöveg.
+[^14]: A 11. § (7) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 68. § c) pontja szerint módosított szöveg.

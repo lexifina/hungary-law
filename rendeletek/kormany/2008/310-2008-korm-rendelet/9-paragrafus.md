@@ -14,9 +14,9 @@
 
 (6) A szabályozott anyagot, illetve fluortartalmú üvegházhatású gázt tartalmazó tűzoltó-technikai eszköz töltetét érintő javítás, a töltet kezelése csak e rendelet 3. mellékletében meghatározott zárt technológiával végezhető.
 
-(7)[^11]
+(7)[^12]
 
-(8)[^12] A szabályozott anyagot tartalmazó tűzoltó eszközök töltetét érintő javítást, karbantartást 2010. július 4-ét követően csak képesített személy végezheti.
+(8)[^13] A szabályozott anyagot tartalmazó tűzoltó eszközök töltetét érintő javítást, karbantartást 2010. július 4-ét követően csak képesített személy végezheti.
 
-[^11]: A 9. § (7) bekezdését a 20. § (3) bekezdése hatályon kívül helyezte.
-[^12]: A 9. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 655. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^12]: A 9. § (7) bekezdését a 20. § (3) bekezdése hatályon kívül helyezte.
+[^13]: A 9. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 655. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
