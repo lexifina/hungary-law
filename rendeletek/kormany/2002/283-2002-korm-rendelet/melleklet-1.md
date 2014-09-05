@@ -28,7 +28,7 @@ A vízpart-rehabilitációs tanulmányterv, valamint a partvonal-szabályozási 
 
 | 11. | megyei kormányhivatal közlekedési felügyelősége | közlekedés: minden más esetben |
 
-| 12. | Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ | örökségvédelem |
+| 12. | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ | örökségvédelem |
 
 | 13. | járási hivatal járási építésügyi és örökségvédelmi hivatala | örökségvédelem |
 
@@ -49,4 +49,4 @@ A vízpart-rehabilitációs tanulmányterv, valamint a partvonal-szabályozási 
 | 21. | Magyar Építész Kamara, megyei építész kamara | településtervezés |
 
 [^43]: A 21. §-t a 213/2003. (XII. 10.) Korm. rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 201/2013. (VI. 13.) Korm. rendelet 16. §-a iktatta be.
-[^44]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^44]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 23. §-a, a 221/2014. (IX. 4.) Korm. rendelet 240. §-a szerint módosított szöveg.
