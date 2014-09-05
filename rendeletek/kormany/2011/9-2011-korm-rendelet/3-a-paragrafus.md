@@ -1,4 +1,4 @@
-3/A. §[^35] (1) A települést ért különösen súlyos természeti károk mérséklésére – a katasztrófavédelmi szúnyoggyérítés kivételével –
+3/A. §[^36] (1) A települést ért különösen súlyos természeti károk mérséklésére – a katasztrófavédelmi szúnyoggyérítés kivételével –
 
 a) a 2/A. § (1) bekezdés a) pontja szerinti támogatás az 1. melléklet B) része szerinti adatlapon feltüntetett előzetesen becsült védekezési költségek legfeljebb 50%-ának mértékéig,
 
@@ -28,4 +28,4 @@ ba) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban
 
 bb) az elbírálásra jogosult szerv által elutasításra került,
 
-[^35]: A 3/A. §-t a 129/2014. (IV. 10.) Korm. rendelet 4. §-a iktatta be.
+[^36]: A 3/A. §-t a 129/2014. (IV. 10.) Korm. rendelet 4. §-a iktatta be.
