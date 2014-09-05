@@ -1,1 +1,0 @@
-A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény 124. §-a (2) bekezdésének a), b), f) és h) pontjaiban, valamint a számvitelről szóló 2000. évi C. törvény 178. §-ának (1) bekezdése a) pontjában kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
