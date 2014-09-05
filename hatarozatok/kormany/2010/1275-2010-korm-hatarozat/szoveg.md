@@ -4,7 +4,7 @@
 
 a) véleményezi az idősek életkörülményeit közvetlenül érintő kormányzati döntések és – az önkormányzati rendeletek tervezetének kivételével – jogszabályok tervezetét, valamint figyelemmel kíséri azok végrehajtását,
 
-b) javaslatot tehet az idősek életkörülményeinek javítását, érdekeinek védelmét szolgáló kormányzati intézkedésekre, és közvetíti az idősödő emberek, valamint az egyházak, társadalmi szervezetek és alapítványok ilyen irányú javaslatait,
+b)[^2] javaslatot tehet az idősek életkörülményeinek javítását, érdekeinek védelmét szolgáló kormányzati intézkedésekre, és közvetíti az idősödő emberek, valamint a vallási közösségek és a civil szervezetek ilyen irányú javaslatait,
 
 c) a tevékenységével összefüggésben konferenciákat és más programokat szervezhet.
 
@@ -12,9 +12,9 @@ c) a tevékenységével összefüggésben konferenciákat és más programokat s
 
 a) elnöke a miniszterelnök, akit akadályoztatása esetén a Tanács alelnöke helyettesít,
 
-b) alelnöke a Nemzeti Erőforrás Minisztérium szociális, család- és ifjúságügyért felelős államtitkára,
+b)[^3] alelnöke az Emberi Erőforrások Minisztériumának család- és ifjúságügyért felelős államtitkára,
 
-c) tagjait – tizenkét főt – a miniszterelnök kéri fel részben az idősügy területén működő társadalmi szervezetek javaslata alapján, részben az orvostudomány, a demográfia, a szociálpolitika, a helyi önkormányzatok, az egyházak, a társadalmi szervezetek és az alapítványok szakemberei közül.
+c)[^4] tagjait – tizenkét főt – a miniszterelnök kéri fel részben az idősügy területén működő civil szervezetek javaslata alapján, részben az orvostudomány, a demográfia, a szociálpolitika, a helyi önkormányzatok, a vallási közösségek és a civil szervezetek szakemberei közül.
 
 4. A Tanács megbízatása megszűnik a Kormány megbízatásának megszűnésével. A Tanácsot a megbízatásának megszűnését követő harminc napon belül újjá kell alakítani.
 
@@ -22,27 +22,33 @@ c) tagjait – tizenkét főt – a miniszterelnök kéri fel részben az idős�
 
 6. A tagok a feladatuk ellátásáért díjazásban nem részesülnek, de jogosultak a tevékenységük során felmerült, számlával igazolt és indokolt szállás- és útiköltségük megtérítésére.
 
-7. A Tanács ülésén állandó meghívottként tanácskozási joggal részt vesz
+7.[^5] A Tanács ülésén állandó meghívottként tanácskozási joggal részt vesz
 
-a) a Nemzeti Erőforrás Minisztérium szociális, család- és ifjúságügyért felelős államtitkárságának,
+a) az Emberi Erőforrások Minisztériuma család- és ifjúságügyért felelős államtitkárának,
 
-b) a Nemzeti Erőforrás Minisztérium egészségügyért felelős államtitkárságának,
+b) az Emberi Erőforrások Minisztériuma szociális ügyekért és társadalmi felzárkózásért felelős államtitkárának,
 
-c) a Nemzeti Erőforrás Minisztérium sportért felelős államtitkárságának,
+c) az Emberi Erőforrások Minisztériuma egészségügyért felelős államtitkárának,
 
-d) a Közigazgatási és Igazságügyi Minisztérium társadalmi felzárkózásért felelős államtitkárságának,
+d) az Emberi Erőforrások Minisztériuma sportért felelős államtitkárának,
 
-e) a Nemzetgazdasági Minisztériumnak,
+e) az Emberi Erőforrások Minisztériuma egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkárának,
 
-f) az Országos Egészségbiztosítási Pénztárnak,
+f) az Emberi Erőforrások Minisztériuma parlamenti államtitkárának,
 
-g) az Országos Nyugdíjbiztosítási Főigazgatóságnak és
+g) a Miniszterelnökségnek,
 
-h) a Központi Statisztikai Hivatalnak
+h) a Nemzetgazdasági Minisztériumnak,
+
+i) az Országos Egészségbiztosítási Pénztárnak,
+
+j) az Országos Nyugdíjbiztosítási Főigazgatóságnak és
+
+k) a Központi Statisztikai Hivatalnak
 
 egy-egy képviselője.
 
-8. A Tanács titkárát a Tanács alelnöke jelöli ki. A Tanács működésével és programjaival kapcsolatos költségek fedezetét a központi költségvetés Nemzeti Erőforrás Minisztérium fejezetében kell biztosítani.
+8.[^6] A Tanács titkárát a Tanács alelnöke jelöli ki. A Tanács működésével és programjaival kapcsolatos költségek fedezetét a központi költségvetés Emberi Erőforrások Minisztériuma fejezetében kell biztosítani.
 
 9. A Tanács ügyrendjét és munkatervét maga határozza meg.
 
@@ -50,6 +56,11 @@ egy-egy képviselője.
 
 11. Ez a határozat a közzétételét követő napon lép hatályba.
 
-12. Hatályát veszti az Idősügyi Tanács működéséről és a működésével összefüggő kérdésekről szóló 1138/2002. (VIII. 9.) Korm. határozat.
+12–13.[^7]
 
-13. E határozat hatálybalépésének napján a jelenlegi Tanács megbízatása megszűnik, és a Tanácsot harminc napon belül újjá kell alakítani.
+[^2]: A 2. pont b) alpontja az 1493/2014. (IX. 4.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^3]: A 3. pont b) alpontja az 1493/2014. (IX. 4.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 3. pont c) alpontja az 1493/2014. (IX. 4.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^5]: A 7. pont az 1493/2014. (IX. 4.) Korm. határozat 2. pontjával megállapított szöveg.
+[^6]: A 8. pont az 1493/2014. (IX. 4.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
+[^7]: A 12–13. pontot az 1493/2014. (IX. 4.) Korm. határozat 4. pontja hatályon kívül helyezte.
