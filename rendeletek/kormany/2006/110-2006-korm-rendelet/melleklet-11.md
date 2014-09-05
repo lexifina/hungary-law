@@ -1,6 +1,6 @@
 ## Nyilatkozat
 
-## 1. Kiállítási garancia esetén alkalmazandó
+## 1.[^151] Kiállítási garancia esetén alkalmazandó
 
 ## Kölcsönbe adó (intézmény) megnevezése és címe:
 
@@ -16,9 +16,9 @@
 
 ## A kiállítási tárgyak biztosítási összege:
 
-## Aláírásommal ezúton kijelentem, hogy megértettem és elfogadom a Magyar Államnak a kötelezvényben, és az államháztartásról szóló 1992. évi XXXVIII. törvény 33/B. és 33/C. §-ában, valamint az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló 110/2006. (V. 5.) Korm. rendelet 15–19. §-ában foglalt feltételek szerinti kiállítási garanciáját, mely a fenti kiállításra kölcsönbe adott, a kölcsönbe adó és a kiállító megállapodásában foglalt kiállítási tárgyakra a [garancia időtartama] közötti időszakra vonatkozik.
+## Aláírásommal ezúton kijelentem, hogy megértettem és elfogadom az államnak a kötelezvényben, és az államháztartásról szóló 1992. évi XXXVIII. törvény 33/B. és 33/C. §-ában, valamint az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló 110/2006. (V. 5.) Korm. rendelet 15–19. §-ában foglalt feltételek szerinti kiállítási garanciáját, mely a fenti kiállításra kölcsönbe adott, a kölcsönbe adó és a kiállító megállapodásában foglalt kiállítási tárgyakra a [garancia időtartama] közötti időszakra vonatkozik.
 
-## Kötelezettséget vállalok arra, hogy amennyiben az elveszett kiállítási tárgyak utóbb előkerülnek, e tényt a tudomásomra jutást követően haladéktalanul bejelentem a Magyar Állam nevében eljáró államháztartásért felelős miniszternek, továbbá egyidejűleg az elveszett és utóbb előkerült kiállítási tárgyak vonatkozásában, a kötelezvény alapján kifizetett kártérítést teljes egészében visszafizetem a Magyar Államnak.
+## Kötelezettséget vállalok arra, hogy amennyiben az elveszett kiállítási tárgyak utóbb előkerülnek, e tényt a tudomásomra jutást követően haladéktalanul bejelentem az állam nevében eljáró államháztartásért felelős miniszternek, továbbá egyidejűleg az elveszett és utóbb előkerült kiállítási tárgyak vonatkozásában, a kötelezvény alapján kifizetett kártérítést teljes egészében visszafizetem az államnak.
 
 ## Tudomásul veszem, hogy a [kiállító] és a [a kölcsönbe adó intézmény] között létrejött, a kiállítási tárgyak kölcsönbe adásáról szóló szerződés és jelen nyilatkozat tartalma közötti eltérés esetén a nyilatkozat rendelkezései irányadók.
 
@@ -32,7 +32,7 @@
 
 ## [a kiállító aláírása és pecsétje]
 
-## 2. Kiállítási viszontgarancia esetén alkalmazandó
+## 2.[^152] Kiállítási viszontgarancia esetén alkalmazandó
 
 ## Biztosító társaság megnevezése és címe:
 
@@ -48,9 +48,9 @@
 
 ## A kiállítási tárgyak biztosítási összege:
 
-## Aláírásommal ezúton kijelentem, hogy megértettem és elfogadom a Magyar Államnak a kötelezvényben, és az államháztartásról szóló 1992. évi XXXVIII. törvény 33/B. és 33/C. §-ában, valamint az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló 110/2006. (V. 5.) Korm. rendelet 15–19. §-ában foglalt feltételek szerinti kiállítási viszontgaranciáját, mely a fenti kiállításra kölcsönbe adott, a biztosító társaság és a kiállító megállapodásában foglalt kiállítási tárgyakra a [garancia időtartama] közötti időszakra vonatkozik.
+## Aláírásommal ezúton kijelentem, hogy megértettem és elfogadom az államnak a kötelezvényben, és az államháztartásról szóló 1992. évi XXXVIII. törvény 33/B. és 33/C. §-ában, valamint az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló 110/2006. (V. 5.) Korm. rendelet 15–19. §-ában foglalt feltételek szerinti kiállítási viszontgaranciáját, mely a fenti kiállításra kölcsönbe adott, a biztosító társaság és a kiállító megállapodásában foglalt kiállítási tárgyakra a [garancia időtartama] közötti időszakra vonatkozik.
 
-## Kötelezettséget vállalok arra, hogy amennyiben az elveszett kiállítási tárgyak utóbb előkerülnek, e tényt a tudomásomra jutást követően haladéktalanul bejelentem a Magyar Állam nevében eljáró államháztartásért felelős miniszternek, továbbá egyidejűleg az elveszett és utóbb előkerült kiállítási tárgyak vonatkozásában, a kötelezvény alapján kifizetett kártérítést teljes egészében visszafizetem a Magyar Államnak.
+## Kötelezettséget vállalok arra, hogy amennyiben az elveszett kiállítási tárgyak utóbb előkerülnek, e tényt a tudomásomra jutást követően haladéktalanul bejelentem az állam nevében eljáró államháztartásért felelős miniszternek, továbbá egyidejűleg az elveszett és utóbb előkerült kiállítási tárgyak vonatkozásában, a kötelezvény alapján kifizetett kártérítést teljes egészében visszafizetem az államnak.
 
 ## Tudomásul veszem, hogy a [kiállító] és a [biztosító] között létrejött biztosítási szerződés és jelen nyilatkozat tartalma közötti eltérés esetén a nyilatkozat rendelkezései irányadók.
 
@@ -64,7 +64,7 @@
 
 ## [a kiállító aláírása és pecsétje]
 
-11. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^149]
+11. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^153]
 
 Igénylőlap az állami jogszabályi kezességek beváltásához (APEH részére küldendő)
 
@@ -148,4 +148,6 @@ aláírás
 
 1 Értékpapír esetén nem kell kitölteni.
 
-[^149]: A 11. számú mellékletet a 40/2007. (III. 13.) Korm. rendelet 6. számú melléklete iktatta be, szövege a 109/2009. (V. 20.) Korm. rendelet 19. § (7) bekezdése szerint módosított szöveg.
+[^151]: A 10. számú melléklet 1. pontja a 221/2014. (IX. 4.) Korm. rendelet 322. § k) és l) pontja szerint módosított szöveg.
+[^152]: A 10. számú melléklet 2. pontja a 221/2014. (IX. 4.) Korm. rendelet 322. § m) és n) pontja szerint módosított szöveg.
+[^153]: A 11. számú mellékletet a 40/2007. (III. 13.) Korm. rendelet 6. számú melléklete iktatta be, szövege a 109/2009. (V. 20.) Korm. rendelet 19. § (7) bekezdése szerint módosított szöveg.

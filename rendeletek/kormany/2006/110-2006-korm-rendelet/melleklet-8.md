@@ -34,7 +34,7 @@
 
 ## 1 Nagyobb számú kiállítási tárgy esetén mellékletként csatolható!
 
-8. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^146]
+8. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^148]
 
 KÖTELEZVÉNY
 
@@ -42,7 +42,7 @@ a ................................ Múzeumban ...-tól ...-ig tartó .
 
 kapcsolódó kiállítási garancia vállalásának feltételeiről
 
-1. A Magyar Állam nevében eljáró államháztartásért felelős miniszter (a továbbiakban: Garantőr) az államháztartásról szóló 1992. évi XXXVIII. törvény 33/B. § (1) és (4) bekezdése alapján ...... [a kölcsönbe adásról szóló szerződésben meghatározott devizanemben megjelölve] összeghatárig kiállítási garanciát vállal a ..... c. kiállításnak a ...... Múzeumban ...... [kiállítás kezdő időpontja] és ...... [kiállítás záró időpontja] között történő bemutatásához, a ...... [kölcsönadó neve és címe] és a ...... [kölcsönvevő neve és címe] (a továbbiakban: Kiállító) között létrejött kölcsönbe adásról szóló szerződésben foglaltaknak megfelelően a kiállításra kölcsönzött műtárgy(ak)ban esetlegesen bekövetkezett károk megtérítésére.
+1. Az állam nevében eljáró államháztartásért felelős miniszter (a továbbiakban: Garantőr) az államháztartásról szóló 1992. évi XXXVIII. törvény 33/B. § (1) és (4) bekezdése alapján ...... [a kölcsönbe adásról szóló szerződésben meghatározott devizanemben megjelölve] összeghatárig kiállítási garanciát vállal a ..... c. kiállításnak a ...... Múzeumban ...... [kiállítás kezdő időpontja] és ...... [kiállítás záró időpontja] között történő bemutatásához, a ...... [kölcsönadó neve és címe] és a ...... [kölcsönvevő neve és címe] (a továbbiakban: Kiállító) között létrejött kölcsönbe adásról szóló szerződésben foglaltaknak megfelelően a kiállításra kölcsönzött műtárgy(ak)ban esetlegesen bekövetkezett károk megtérítésére.
 
 A garancia jogosultja a ...... [jogosult neve és címe] (a továbbiakban: Jogosult).
 
@@ -92,4 +92,4 @@ Budapest, [dátum]
 
 Garantőr
 
-[^146]: A 8. számú melléklet a 109/2009. (V. 20.) Korm. rendelet 19. § (6) bekezdésével megállapított szöveg.
+[^148]: A 8. számú melléklet a 109/2009. (V. 20.) Korm. rendelet 19. § (6) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 322. § i) pontja szerint módosított szöveg.

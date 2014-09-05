@@ -30,11 +30,11 @@
 
 ## 2 Az egyedi viszontgarancia-vállalás esetén nem kell kitölteni!
 
-2. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^135]
+2. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^137]
 
 ...... számú Állami Kezességi Szerződés
 
-amely létrejött egyrészről ........................................... Hitelnyújtó mint jogosult (a továbbiakban: jogosult), másrészről az államháztartásról szóló 1992. évi XXXVIII. törvény 33. §-ának (9) bekezdése, a 110/2006. (V. 5.) Korm. rendelet (a továbbiakban: Korm. rendelet) és a ............ Korm. határozat alapján a Polgári Törvénykönyvről szóló ..... törvény (a továbbiakban: Ptk.) ..... értelmében a pénzügyminiszter által képviselt Magyar Állam mint kezes (a továbbiakban: Kezes) között, az alábbi feltételekkel:
+amely létrejött egyrészről ........................................... Hitelnyújtó mint jogosult (a továbbiakban: jogosult), másrészről az államháztartásról szóló 1992. évi XXXVIII. törvény 33. §-ának (9) bekezdése, a 110/2006. (V. 5.) Korm. rendelet (a továbbiakban: Korm. rendelet) és a ............ Korm. határozat alapján a Polgári Törvénykönyvről szóló ..... törvény (a továbbiakban: Ptk.) ..... értelmében az államháztartásért felelős miniszter által képviselt állam mint kezes (a továbbiakban: Kezes) között, az alábbi feltételekkel:
 
 1. A szerződő felek kijelentik, hogy tudomásuk van a Jogosult és a ...................... (cím: ................................................ adószám: ..................................................... cégjegyzékszám: ........................... ) (a továbbiakban: Kötelezett) között .............-én kelt, ................. számú hitelszerződésről (a továbbiakban: Hitelszerződés). A jelen Kezességi Szerződés mellékletében elhelyezett, az alábbi feltételekkel kötött Hitelszerződés a jelen szerződés elválaszthatatlan részét képezi.
 
@@ -94,4 +94,4 @@ Budapest, [dátum] ..............................................
 
 Jogosult cégszerű aláírása Kezes
 
-[^135]: A 2. számú melléklet a 68/2010. (III. 19.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^137]: A 2. számú melléklet a 68/2010. (III. 19.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 322. § h) pontja szerint módosított szöveg.

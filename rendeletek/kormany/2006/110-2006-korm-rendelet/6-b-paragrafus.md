@@ -2,7 +2,7 @@
 
 (1a)[^64] Nem kell az (1) bekezdésben meghatározott ellenőrzést elvégezni a szerződés 6/A. § (2) bekezdésében foglalt módosítása esetén.
 
-(2) A Magyar Állam készfizető kezessége a 6/A. § (1) bekezdése szerinti lakáscélú kölcsönrész első folyósítási napjától a 8/C. § (2) bekezdésében foglalt határidőig áll fenn a kölcsön tőkeösszegére, valamint ügyleti kamatára és kezelési költségére.
+(2)[^65] Az állam készfizető kezessége a 6/A. § (1) bekezdése szerinti lakáscélú kölcsönrész első folyósítási napjától a 8/C. § (2) bekezdésében foglalt határidőig áll fenn a kölcsön tőkeösszegére, valamint ügyleti kamatára és kezelési költségére.
 
 (3) A hitelintézet az adóssal kötött – a bírósági végrehajtásról szóló 1994. évi LIII. törvény 21. § (1) bekezdése, illetve a jelzálog-hitelintézetről és jelzáloglevélről szóló 1997. évi XXX. törvény 6. §-a szerinti – közjegyzői okiratba foglalt kölcsönszerződésben rögzíti azt az összeget, és annak a teljes kölcsönösszegen belüli arányát, amelyre az állam készfizető kezessége vonatkozik.
 
@@ -15,3 +15,4 @@
 [^62]: A 6/B. §-t a 118/2009. (VI. 4.) Korm. rendelet 2. §-a iktatta be.
 [^63]: A 6/B. § (1) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
 [^64]: A 6/B. § (1a) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 40. § (2) bekezdése iktatta be.
+[^65]: A 6/B. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 322. § d) pontja szerint módosított szöveg.

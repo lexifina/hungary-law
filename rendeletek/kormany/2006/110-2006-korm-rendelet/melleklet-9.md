@@ -1,4 +1,4 @@
-9. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^147]
+9. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^149]
 
 KÖTELEZVÉNY
 
@@ -6,7 +6,7 @@ a ............................... Múzeumban ....-tól ....-ig tartó 
 
 kapcsolódó kiállítási viszontgarancia vállalásának feltételeiről
 
-1. A Magyar Állam nevében eljáró államháztartásért felelős miniszter (a továbbiakban: Garantőr) az államháztartásról szóló 1992. évi XXXVIII. törvény 33/B. § (7) és (8) bekezdése alapján ...... [a biztosítási szerződésben meghatározott devizanemben megjelölve] összeghatárig kiállítási viszontgaranciát vállal a ....................... c. kiállításnak a ...... Múzeumban ...... [kiállítás kezdő időpontja] és ...... [kiállítás záró időpontja] között történő bemutatásához, a ...... [biztosító neve és címe] és a ...... [biztosított neve és címe] (a továbbiakban: Kiállító) között létrejött biztosítási szerződés alapján a kiállításra a ...... [kölcsönadó neve és címe]-tól (a továbbiakban: Kölcsönadó) kölcsönzött műtárgy(ak)ban esetlegesen bekövetkezett károk miatt a biztosító által kifizetett összeg megtérítésére.
+1. Az állam nevében eljáró államháztartásért felelős miniszter (a továbbiakban: Garantőr) az államháztartásról szóló 1992. évi XXXVIII. törvény 33/B. § (7) és (8) bekezdése alapján ...... [a biztosítási szerződésben meghatározott devizanemben megjelölve] összeghatárig kiállítási viszontgaranciát vállal a ....................... c. kiállításnak a ...... Múzeumban ...... [kiállítás kezdő időpontja] és ...... [kiállítás záró időpontja] között történő bemutatásához, a ...... [biztosító neve és címe] és a ...... [biztosított neve és címe] (a továbbiakban: Kiállító) között létrejött biztosítási szerződés alapján a kiállításra a ...... [kölcsönadó neve és címe]-tól (a továbbiakban: Kölcsönadó) kölcsönzött műtárgy(ak)ban esetlegesen bekövetkezett károk miatt a biztosító által kifizetett összeg megtérítésére.
 
 A garancia jogosultja a ...... [biztosító neve és címe] (a továbbiakban: Jogosult).
 
@@ -52,4 +52,4 @@ Budapest, [dátum]
 
 Garantőr
 
-[^147]: A 9. számú melléklet a 109/2009. (V. 20.) Korm. rendelet 19. § (6) bekezdésével megállapított szöveg.
+[^149]: A 9. számú melléklet a 109/2009. (V. 20.) Korm. rendelet 19. § (6) bekezdésével megállapított, a 221/2014. (Ix. 4.) Korm. rendelet 322. § j) pontja szerint módosított szöveg.

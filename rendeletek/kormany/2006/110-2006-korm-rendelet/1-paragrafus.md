@@ -2,9 +2,9 @@
 
 (2) E rendelet alkalmazásában
 
-a)[^2] kezes: az államháztartásért felelős miniszter által képviselt Magyar Állam;
+a)[^2] kezes: az államháztartásért felelős miniszter által képviselt állam;
 
-b)[^3] garantőr: az államháztartásért felelős miniszter által képviselt Magyar Állam;
+b)[^3] garantőr: az államháztartásért felelős miniszter által képviselt állam;
 
 c)[^4]
 
@@ -43,8 +43,8 @@ l)–m)[^11]
 (5)[^14]
 
 [^1]: Az 1. § (1) bekezdése a 40/2007. (III. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (2) bekezdésének a) pontja a 40/2007. (III. 13.) Korm. rendelet 19. § (3) bekezdése szerint módosított szöveg.
-[^3]: Az 1. § (2) bekezdésének b) pontja a 40/2007. (III. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdésének a) pontja a 40/2007. (III. 13.) Korm. rendelet 19. § (3) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 322. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdésének b) pontja a 40/2007. (III. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 322. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (2) bekezdésének c) pontját a 40/2007. (III. 13.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte.
 [^5]: Az 1. § (2) bekezdés d)–e) pontját a 68/2010. (III. 19.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte.
 [^6]: Az 1. § (2) bekezdésének f) pontját a 40/2007. (III. 13.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte.
