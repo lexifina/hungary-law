@@ -10,14 +10,18 @@ c) a kérelmezett szakterületre, illetve részterületre vonatkozó szakmai gya
 
 d) a részletes szakmai tevékenységet bemutató önéletrajzot, közölve a már nyilvánosságra hozott szakmai publikációk megjelenésének helyét és időpontját.
 
-(3) Ha a (2) bekezdés b) pontja szerinti oklevél nem szerepel
+(3)[^3] Ha a (2) bekezdés b) pontja szerinti oklevél nem szerepel
 
-a) a 2. számú melléklet I. és III. pontjában, akkor az oklevél által tanúsított végzettségről az országos szakmai kamara és a környezetvédelemért, illetve a vízgazdálkodásért felelős miniszter által létrehozott bizottság,
+a) a 2. számú melléklet I. és III. pontjában, akkor az oklevél által tanúsított végzettségről az országos szakmai kamara és – az érintett szakterület vagy részterület jellege szerint – a környezetvédelemért felelős miniszter, a vízvédelemért felelős miniszter vagy a vízgazdálkodásért felelős miniszter által létrehozott bizottság, vagy
 
 b) a 2. számú melléklet II. és IV. pontjában, akkor az oklevél által tanúsított végzettségről a főfelügyelőség által létrehozott bizottság
 
-szakértőként véleményt nyilvánít az engedélyezési eljárás során, amelyet az eljáró hatóság kötelezően figyelembe vesz.
+## szakértőként véleményt nyilvánít az engedélyezési eljárás során, amelyet az eljáró hatóság kötelezően figyelembe vesz.
 
-(4) A (3) bekezdés a) pontjában meghatározott esetben a bizottság elnökét és két tagját az országos szakmai kamara jelöli. A bizottság további tagja az oktatásért, valamint a környezetvédelemért vagy vízgazdálkodásért felelős miniszter által megbízott 1–1 személy, valamint az adott szak szerint illetékes, az országos szakmai kamara által felkért felsőoktatási intézmény képviselője.
+(4)[^4] A (3) bekezdés a) pontjában meghatározott esetben a bizottság elnökét és két tagját az országos szakmai kamara jelöli. A bizottság további tagja az oktatásért felelős miniszter, valamint – az érintett szakterület vagy részterület jellege szerint – a környezetvédelemért felelős miniszter, a vízvédelemért felelős miniszter vagy a vízgazdálkodásért felelős miniszter által megbízott egy-egy személy, valamint az adott szak szerint illetékes, az országos szakmai kamara által felkért felsőoktatási intézmény képviselője.
 
-(5) A (3) bekezdés b) pontjában meghatározott esetben a bizottság elnökét és két tagját a főfelügyelőség jelöli. A bizottság további tagja az oktatásért, valamint a természetvédelemért felelős miniszter által megbízott 1–1 személy, valamint az adott szak szerint illetékes, a főfelügyelőség által felkért felsőoktatási intézmény képviselője.
+(5)[^5] A (3) bekezdés b) pontjában meghatározott esetben a bizottság elnökét és két tagját a főfelügyelőség jelöli. A bizottság további tagja az oktatásért felelős miniszter, valamint a természetvédelemért felelős miniszter által megbízott egy-egy személy, valamint az adott szak szerint illetékes, a főfelügyelőség által felkért felsőoktatási intézmény képviselője.
+
+[^3]: A 7. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 458. §-ával megállapított szöveg.
+[^4]: A 7. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 458. §-ával megállapított szöveg.
+[^5]: A 7. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 458. §-ával megállapított szöveg.
