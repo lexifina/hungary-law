@@ -1,6 +1,6 @@
 ## 9. Az erdészeti hatósági eljárásokban közreműködő szakhatóságok
 
-32. § (1)[^92] A Kormány az ingatlan-nyilvántartásból megismerhető, valamint a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és a műemlékeket tartalmazó, a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság adatbázisában szereplő – a NÉBIH részére átadott – EOV vetületű vektoros térképfedvényen lehatárolt régészeti lelőhelyen, műemlék területén és műemléki területen
+32. § (1)[^92] A Kormány az ingatlan-nyilvántartásból megismerhető, valamint a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és a műemlékeket tartalmazó, a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ adatbázisában szereplő – a NÉBIH részére átadott – EOV vetületű vektoros térképfedvényen lehatárolt régészeti lelőhelyen, műemlék területén és műemléki területen
 
 a) az erdészeti magánút, műtárgy, csatorna, tározó létesítésére, bővítésére, helyreállítására, korszerűsítésére, megszüntetésére, illetve használatbavételére, fennmaradására irányuló első fokú eljárásban,
 
@@ -108,7 +108,7 @@ g) cserjék kivágásának engedélyezése iránti eljárásban,
 
 ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a partvédelem és a vízvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, első fokú eljárásban partvédelmi rendeltetésű erdő esetében a területi vízügyi hatóságot, vízvédelmi rendeltetésű erdő esetében a környezetvédelmi és természetvédelmi felügyelőséget szakhatóságként jelöli ki.
 
-[^92]: A 32. § (1) bekezdés nyitó szövegrésze a 24/2012. (II. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 394/2012. (XII. 20.) Korm. rendelet 43. §-a, a 107/2013. (IV. 5.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^92]: A 32. § (1) bekezdés nyitó szövegrésze a 24/2012. (II. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 394/2012. (XII. 20.) Korm. rendelet 43. §-a, a 107/2013. (IV. 5.) Korm. rendelet 12. §-a, a 221/2014. (IX. 4.) Korm. rendelet 521. § (1) bekezdése szerint módosított szöveg.
 [^93]: A 32. § (2) bekezdése a 24/2012. (II. 29.) Korm. rendelet 20. § (2) bekezdésével megállapított, záró szövegrésze a 176/2013. (VI. 3.) Korm. rendelet 10. § (2) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 97. § a) pontja szerint módosított szöveg.
 [^94]: A 32. § (3) bekezdése a 176/2013. (VI. 3.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^95]: A 32. § (3a) bekezdését a 402/2012. (XII. 28.) Korm. rendelet 17. §-a iktatta be.
