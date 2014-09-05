@@ -1,4 +1,4 @@
-6. § (1) Az E. Alap vagyonának értékesítését, valamint az értékesítésig történő vagyonkezelést – a működést közvetlenül szolgáló vagyonelemek kivételével – megállapodás alapján, díjazás ellenében kizárólag a Magyar Nemzeti Vagyonkezelő Zrt. végezheti.
+6. § (1)[^11] Az E. Alap javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvény vagy üzletrész, ingatlan, egyéb vagyon értékesítését és az értékesítésig történő vagyonkezelést – a működést közvetlenül szolgáló vagyonelemek kivételével – megállapodás alapján kizárólag a Magyar Nemzeti Vagyonkezelő Zrt. végezheti.
 
 (2) A Kormány egészségbiztosítási szervként – ha kormányrendelet eltérően nem rendelkezik – az OEP-et jelöli ki.
 
@@ -63,3 +63,5 @@ i) az egészségügyről szóló 1997. évi CLIV. törvény 147. § (2) bekezdé
 (5) Az államháztartásról szóló 1992. évi XXXVIII. törvény 86/F. § (2) bekezdés a) pontjában foglalt feladatok ellátása tekintetében egészségbiztosítási szervként a Kormány az OEP-et jelöli ki azzal, hogy a fejezet felügyeletét ellátó szerv hatáskörében az OEP – mint országos illetékességgel eljáró egészségbiztosítási szerv – tekintetében az egészségügyért felelős miniszter jár el.
 
 (6) Az illetékekről szóló 1990. évi XCIII. törvény 5. § (1) bekezdés h) pontja szerinti egészségbiztosítási szerv alatt az OEP és az egészségbiztosítási pénztári szakigazgatási szerv is értendő.
+
+[^11]: A 6. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 511. §-ával megállapított szöveg.
