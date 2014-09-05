@@ -104,6 +104,6 @@
 
 3. § (1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1987. december 18-ától kezdődően kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a külügyminiszter és a művelődési és közoktatási miniszter[^2] gondoskodik.
+(2)[^2] A rendelet végrehajtásáról a külpolitikáért felelős miniszter és a kultúráért felelős miniszter gondoskodik.
 
-[^2]: Lásd az 1998: XXXVI. törvény 2. §-a (1) bekezdésének a) pontját.
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 107. §-a szerint módosított szöveg.
