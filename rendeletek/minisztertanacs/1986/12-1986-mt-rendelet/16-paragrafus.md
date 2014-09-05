@@ -1,1 +1,0 @@
-## 15. § A sokszorosító szerv az imprimatúrát [13. § (2) bekezdés] és a kéziratot a sokszorosítás befejezésétől számított hat hónapig megőrzi; három hónap elteltével azonban a sokszorosító szerv a kiadóval történt megegyezés alapján az imprimatúrát (kéziratot) további megőrzés végett a kiadónak adhatja át.
