@@ -186,6 +186,6 @@
 
 3. § (1) Ez a rendelet kihirdetése napján lép hatályba, rendelkezéseit azonban az 1972. évi szeptember hó 6. napjától kell alkalmazni.
 
-(2)[^4] A rendelet végrehajtásáról a közlekedésért felelős miniszter, a közlekedésrendészetért felelős miniszter és az adópolitikáért felelős miniszter gondoskodik.
+(2)[^4] E rendelet végrehajtásáról – az államháztartásért felelős miniszterrel és a közlekedésrendészetért felelős miniszterrel egyetértésben – a közlekedésért felelős miniszter gondoskodik.
 
-[^4]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 1. pontja szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 2. §-ával megállapított szöveg.
