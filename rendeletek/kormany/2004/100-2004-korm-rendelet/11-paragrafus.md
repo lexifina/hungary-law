@@ -1,8 +1,8 @@
-## 11. §[^24] Az NMHH
+## 11. §[^25] Az NMHH
 
 a) külön jogszabályokban foglalt feladatai keretében ellátja az elektronikus hírközlés védelmi felkészítéséből rá háruló tervezési, nyilvántartási, adatszolgáltatási, koordinálási, biztonsági és ellenőrzési feladatokat;
 
-b)[^25] külön jogszabály szerint végzi a légiriasztási rendszer működtetésével kapcsolatos feladatokat;
+b)[^26] külön jogszabály szerint végzi a légiriasztási rendszer működtetésével kapcsolatos feladatokat;
 
 c) együttműködik az OKF-el a minősített időszaki, illetve katasztrófaelhárítási tervezéshez, felkészítéshez, a riasztási és tájékoztatási rendszer működéséhez szükséges adatok biztosítása érdekében;
 
@@ -12,5 +12,5 @@ e) az elektronikus hírközlési szolgáltatók által szolgáltatott adatok, il
 
 f) működteti az informatikai és hírközlési ágazat ügyeleti szolgálatát, az Országos Informatikai és Hírközlési Főügyeletet.
 
-[^24]: A 11. § nyitó szövegrésze a 346/2010. (XII. 28.) Korm. rendelet 35. § (12) bekezdése szerint módosított szöveg.
-[^25]: A 11. § b) pontja a 186/2007. (VII. 18.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg.
+[^25]: A 11. § nyitó szövegrésze a 346/2010. (XII. 28.) Korm. rendelet 35. § (12) bekezdése szerint módosított szöveg.
+[^26]: A 11. § b) pontja a 186/2007. (VII. 18.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg.

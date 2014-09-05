@@ -16,9 +16,9 @@ d) az elektronikus hírközlő hálózatokra vonatkozó műszaki feltételrendsz
 
 e) az érintett szervekkel együttműködve, illetve a külön jogszabályokal összhangban gondoskodik az e rendeletben megfogalmazott elveknek megfelelő nyilvántartási és adatszolgáltatási rendszer kialakításáról;
 
-f) a nemzetgazdaság védelmi felkészítési és gazdaságmozgósítási rendjére vonatkozó jogszabályokkal[^8] összhangban, valamint az elektronikus hírközlési szolgáltatókkal egyeztetve gondoskodik az elektronikus hírközlés minősített időszaki működéséhez, helyreállításához szükséges állami anyagi, technikai, szervezeti feltételek megteremtéséről, ezek készenlétben tartásáról;
+f) a nemzetgazdaság védelmi felkészítési és gazdaságmozgósítási rendjére vonatkozó jogszabályokkal[^9] összhangban, valamint az elektronikus hírközlési szolgáltatókkal egyeztetve gondoskodik az elektronikus hírközlés minősített időszaki működéséhez, helyreállításához szükséges állami anyagi, technikai, szervezeti feltételek megteremtéséről, ezek készenlétben tartásáról;
 
-g) gondoskodik a külön jogszabályban[^9] meghatározott légiriasztási rendszer működőképességének biztosításából rá háruló feladatok végrehajtásáról;
+g) gondoskodik a külön jogszabályban[^10] meghatározott légiriasztási rendszer működőképességének biztosításából rá háruló feladatok végrehajtásáról;
 
 h) gondoskodik a kormányzat minősített időszaki kommunikációs feltételeinek biztosításával kapcsolatban rá háruló feladatok végrehajtásáról;
 
@@ -32,12 +32,12 @@ l) az elektronikus hírközlési szolgáltatók e rendelet szerint szolgáltatot
 
 m) az érintett miniszterekkel egyeztetve gondoskodik a jóváhagyott költségvetési kereteknek megfelelő elektronikus hírközlési felkészítési feladatok megvalósításáról;
 
-n)[^10] a Vhr. 5. §-ának (3) bekezdésében foglaltak figyelembevételével gondoskodik az elektronikus hírközlés felkészítéséből a minisztériumára háruló békeidejű és minősített időszaki irányító, illetve koordinációs feladatok ellátásához szükséges anyagi, technikai, szervezeti feltételek megteremtéséről, beleértve a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) szervezeti keretén belül az Országos Informatikai és Hírközlési Főügyelet létrehozását, feladat- és hatáskörének meghatározását;
+n)[^11] a Vhr. 5. §-ának (3) bekezdésében foglaltak figyelembevételével gondoskodik az elektronikus hírközlés felkészítéséből a minisztériumára háruló békeidejű és minősített időszaki irányító, illetve koordinációs feladatok ellátásához szükséges anyagi, technikai, szervezeti feltételek megteremtéséről, beleértve a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) szervezeti keretén belül az Országos Informatikai és Hírközlési Főügyelet létrehozását, feladat- és hatáskörének meghatározását;
 
 o) gondoskodik a NATO Felsőszintű Polgári Veszélyhelyzet Tervezési Bizottság (SCEPC) alá tartozó Polgári Távközlés Tervezési Bizottság (CCPC) munkájában történő részvétellel összefüggő feladatok ellátásáról;
 
 p) minősített időszak esetén, illetőleg következményei elhárítása érdekében átmeneti korlátozásokat rendelhet el egyes elektronikus hírközlési tevékenységek ellátásában.
 
-[^8]: A Hvt., a Vhr., a 131/2003. (VIII. 22.) Korm. rendelet.
-[^9]: 133/1994. (X. 21.) Korm. rendelet a váratlan légitámadás esetén az ország légiriasztásáról.
-[^10]: Az 5. § n) pontja a 346/2010. (XII. 28.) Korm. rendelet 35. § (12) bekezdése szerint módosított szöveg.
+[^9]: A Hvt., a Vhr., a 131/2003. (VIII. 22.) Korm. rendelet.
+[^10]: 133/1994. (X. 21.) Korm. rendelet a váratlan légitámadás esetén az ország légiriasztásáról.
+[^11]: Az 5. § n) pontja a 346/2010. (XII. 28.) Korm. rendelet 35. § (12) bekezdése szerint módosított szöveg.
