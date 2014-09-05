@@ -4,6 +4,6 @@ a) nem lehet használni, és
 
 b) legkésőbb egy évvel fel kell számolni.
 
-(2)–(3)[^21]
+(2)–(3)[^25]
 
-[^21]: A 15. § (2)–(3) bekezdését a 81/2007. (IV. 25.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^25]: A 15. § (2)–(3) bekezdését a 81/2007. (IV. 25.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.

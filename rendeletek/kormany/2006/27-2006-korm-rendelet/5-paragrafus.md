@@ -36,7 +36,7 @@ e)[^8] a külön jogszabály[^9] szerinti nagy létszámú állattartó telepek,
 
 f)[^10] a külön jogszabály szerinti trágyafeldolgozás területe.
 
-(2)[^11] Az (1) bekezdés a)–c) pontjaiban meghatározott nitrátérzékeny területeket – amelyek a MePAR rendszer tematikus fedvényeként a blokkok szintjén, blokkazonosítók által kerülnek meghatározásra – a Kvt. 110. § (14) bekezdésében foglaltak alapján az agrárpolitikáért felelős miniszter a környezetvédelemért felelős miniszterrel egyetértésben, rendeletben teszi közzé.[^12] Nitrátérzékeny területnek kell tekinteni az (1) bekezdésben meghatározottakon túl azokat a területeket is, amelyeket önkormányzati rendelet vagy hatósági határozat a közzétételt követően nyilvánított az (1) bekezdés bb), bc) pontban meghatározott területté. Ezen területek MePAR rendszer szerinti meghatározását a MePAR évenkénti felülvizsgálata során kell közzétenni.
+(2)[^11] Az (1) bekezdés a)–c) pontjaiban meghatározott nitrátérzékeny területeket – amelyek a MePAR rendszer tematikus fedvényeként a blokkok szintjén, blokkazonosítók által kerülnek meghatározásra – a Kvt. 110. § (14) bekezdésében foglaltak alapján az agrárpolitikáért felelős miniszter a vízvédelemért felelős miniszterrel egyetértésben, rendeletben teszi közzé.[^12] Nitrátérzékeny területnek kell tekinteni az (1) bekezdésben meghatározottakon túl azokat a területeket is, amelyeket önkormányzati rendelet vagy hatósági határozat a közzétételt követően nyilvánított az (1) bekezdés bb), bc) pontban meghatározott területté. Ezen területek MePAR rendszer szerinti meghatározását a MePAR évenkénti felülvizsgálata során kell közzétenni.
 
 (3)[^13]
 
@@ -49,6 +49,6 @@ f)[^10] a külön jogszabály szerinti trágyafeldolgozás területe.
 [^8]: Az 5. § (1) bekezdésének e) pontját a 81/2007. (IV. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^9]: 41/1997. (V. 28.) FM rendelet az Állat-egészségügyi Szabályzat kiadásáról.
 [^10]: Az 5. § (1) bekezdésének f) pontját a 81/2007. (IV. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^11]: Az 5. § (2) bekezdése a 81/2007. (IV. 25.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 171/2013. (V. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^11]: Az 5. § (2) bekezdése a 81/2007. (IV. 25.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 171/2013. (V. 29.) Korm. rendelet 5. §-a, a 221/2014. (IX. 4.) Korm. rendelet 314. § a) pontja szerint módosított szöveg.
 [^12]: Lásd a 43/2007. (VI. 1.) FVM rendeletet.
 [^13]: Az 5. § (3) bekezdését a 171/2013. (V. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.

@@ -8,6 +8,8 @@
 
 (4) Felszín alatti víz vizsgálatához a vízkészlet szempontjából jellemző helyeket kell kiválasztani, és a mintavételeket szabályos időközönként kell végezni. Gyakoriságukat a hidrogeológiai adottságoktól és a vízkivétel mennyiségétől függően kell megállapítani.
 
-(5) A (1)–(4) bekezdésekben meghatározott ellenőrzési feladatokról – ha jogszabály másként nem rendelkezik – a környezetvédelemért felelős miniszter gondoskodik.
+(5)[^20] Az (1)–(4) bekezdésben meghatározott ellenőrzési feladatokról – ha jogszabály másként nem rendelkezik – a környezet állapotértékeléséhez szükséges monitoring rendszert működtető környezetvédelmi igazgatási szerv gondoskodik, amely az ellenőrzés eredményéről tájékoztatja a vízvédelmi hatóságot.
 
 (6) A mintavételt és a laboratóriumi vizsgálatot arra akkreditált laboratóriumok az EK-műtrágyák, az ivóvízkivételre használt vagy ivóvízbázisnak kijelölt felszíni vizek, valamint a felszín alatti vizek vizsgálatára a külön jogszabályban meghatározott referencia módszerek alkalmazásával végezhetik.
+
+[^20]: A 12. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 312. §-ával megállapított szöveg.

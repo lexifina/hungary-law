@@ -2,7 +2,7 @@
 
 (2) A mezőgazdasági tevékenység folytatóját, az (1) bekezdéssel összhangban,
 
-a)[^16] állattartó telepen a vízvédelmi hatóság, termőföldön a talajvédelmi hatóság a 6–8. §-ban, valamint a 15–17. §-ban meghatározott esetekben nitrátszennyezési bírság,
+a)[^18] állattartó telepen a vízvédelmi hatóság, termőföldön a talajvédelmi hatóság a 6–8. §-ban, valamint a 15–17. §-ban meghatározott esetekben nitrátszennyezési bírság,
 
 b) a talajvédelmi hatóság a 9. § (2) bekezdése alapján a külön jogszabály szerinti adatszolgáltatás és nyilvántartás esetében nitrát adatszolgáltatási bírság
 
@@ -14,9 +14,9 @@ b) a talajvédelmi hatóság a 9. § (2) bekezdése alapján a külön jogszabá
 
 (5) A (2) bekezdés alapján kiadott határozatban megállapított határidő letelte után – a kötelezettség teljesítéséig – ismételhető a (2) bekezdésben meghatározott bírság.
 
-(6)[^17] A vízvédelmi hatóság, illetőleg a talajvédelmi hatóság a bírságot elrendelő hatósági határozatban a bírság megfizetésére legfeljebb 30 napos határidőt állapít meg.
+(6)[^19] A vízvédelmi hatóság, illetőleg a talajvédelmi hatóság a bírságot elrendelő hatósági határozatban a bírság megfizetésére legfeljebb 30 napos határidőt állapít meg.
 
 (7) A (2) bekezdés szerinti bírságot az azt kiszabó hatóság által meghatározott számlára kell befizetni.
 
-[^16]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § g) pontját. A 11. § (2) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
-[^17]: A 11. § (6) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
+[^18]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § g) pontját. A 11. § (2) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
+[^19]: A 11. § (6) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.

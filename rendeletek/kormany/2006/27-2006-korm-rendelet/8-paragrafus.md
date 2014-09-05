@@ -18,8 +18,8 @@ b) felszíni víztől, valamint jogszabály által nem szabályozott, ivóvízki
 
 c) bányatavak 300 méteres parti sávjában.
 
-(4)[^14] A vízvédelmi hatóság a (3) bekezdés b) pontja szerinti esetben a helyi adottságok alapján kisebb védőtávolságot is megállapíthat.
+(4)[^15] A vízvédelmi hatóság a (3) bekezdés b) pontja szerinti esetben a helyi adottságok alapján kisebb védőtávolságot is megállapíthat.
 
 (5) Állattartó telep és annak szervestrágya tárolója e rendelet és a külön jogszabály előírásainak figyelembevételével létesíthető és üzemeltethető.
 
-[^14]: A 8. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.
+[^15]: A 8. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.
