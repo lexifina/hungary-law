@@ -6,7 +6,7 @@
 
 2. Honvédelmi Minisztérium,
 
-3. Külügyminisztérium,
+3.[^1] Külgazdasági és Külügyminisztérium
 
 4. Nemzeti Adó- és Vámhivatal,
 
@@ -16,15 +16,15 @@
 
 7. Országos Vízügyi Főigazgatóság,
 
-8. vízügyi igazgatóságok,
+8.[^2] területi vízügyi igazgatóságok,
 
-9.[^1] Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség,
+9.[^3] Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség,
 
-9a.[^2] Országos Vízügyi Hatóság,
+9a.[^4] Országos Vízügyi Főigazgatóság,
 
-10.[^3] környezetvédelmi és természetvédelmi felügyelőségek,
+10.[^5] környezetvédelmi és természetvédelmi felügyelőségek,
 
-10a.[^4] területi vízügyi hatóságok,
+10a.[^6]
 
 11. nemzeti park igazgatóságok,
 
@@ -62,7 +62,9 @@
 
 28. távközlési szolgáltatók (vezetékes telefon, mobiltelefon, internet).
 
-[^1]: Az 1. melléklet 9. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított szöveg.
-[^2]: Az 1. melléklet 9a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be.
-[^3]: Az 1. melléklet 10. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított szöveg.
-[^4]: Az 1. melléklet 10a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be.
+[^1]: Az 1. melléklet 3. pontja a 221/2014. (IX. 4.) Korm. rendelet 757. § a) pontjával megállapított szöveg.
+[^2]: Az 1. melléklet 8. pontja a 221/2014. (IX. 4.) Korm. rendelet 757. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet 9. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet 9a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 757. § c) pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet 10. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet 10a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 758. §-a.
