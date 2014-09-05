@@ -1,1 +1,0 @@
-## 2. § A támogatást a Munkaerőpiaci Alap kizárólag a rendelkezésre állási támogatásra jogosult személyek foglalkoztatásának külön jogszabályban meghatározott támogatásának finanszírozásához használhatja fel.
