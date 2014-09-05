@@ -1,8 +1,8 @@
-## 21. §[^31] A 19. § (1) és (2) bekezdései, valamint a 20. § (1) bekezdése szerinti jelentéseket a szakterület szerint hatáskörrel rendelkező géntechnológiai hatóság készíti el.
+## 21. §[^38] A 19. § (1) és (2) bekezdései, valamint a 20. § (1) bekezdése szerinti jelentéseket a szakterület szerint hatáskörrel rendelkező géntechnológiai hatóság készíti el.
 
 ## Záró rendelkezések
 
-22. §[^32] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+22. §[^39] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 98/81/EK irányelve (1998. október 26.) a géntechnológiával módosított mikroorganizmusok zárt rendszerben történő felhasználásáról szóló 90/219/EGK irányelv módosításáról, a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 34. §-a (3)–(4), (8) és (10) bekezdéseiben adott felhatalmazások alapján megalkotott miniszteri rendeletekkel együtt,
 
@@ -28,5 +28,5 @@ a) az Európai Parlament és a Tanács 1829/2003/EK rendelete (2003. szeptember 
 
 b) a Bizottság 65/2004/EK rendelete (2004. január 14.) a géntechnológiával módosított szervezetek egyedi azonosítóinak kialakítására és hozzárendelésére szolgáló rendszer létrehozásáról, 3. cikk a) és b) pontja.
 
-[^31]: A 21. § a 141/2007. (VI. 20.) Korm. rendelet 3. §-ával megállapított szöveg, a §-t megelőző címet e módosító rendelet 8. § (4) bekezdésének a) pontja hatályon kívül helyezte.
-[^32]: A 22. § a 15/2006. (I. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^38]: A 21. § a 141/2007. (VI. 20.) Korm. rendelet 3. §-ával megállapított szöveg, a §-t megelőző címet e módosító rendelet 8. § (4) bekezdésének a) pontja hatályon kívül helyezte.
+[^39]: A 22. § a 15/2006. (I. 26.) Korm. rendelet 10. §-ával megállapított szöveg.

@@ -42,7 +42,7 @@
 
 ## 2. Általában csak az alábbi jellemzőket mutató géntechnológiával módosított mikroorganizmusokat lehet a 3. § (4) bekezdés szerinti 1. osztályba való besorolásra alkalmasnak tekinteni:
 
-## a) a recipiens vagy szülő mikroorganizmus nem valószínű, hogy emberi, állati vagy növényi[^34] betegséget okoz,
+## a) a recipiens vagy szülő mikroorganizmus nem valószínű, hogy emberi, állati vagy növényi[^41] betegséget okoz,
 
 ## b) a vektor és a bevitt anyag természetéből adódóan nem ruházza fel a géntechnológiával módosított mikroorganizmust olyan fenotípussal, amely valószínűleg emberi, állati vagy növényi betegséget okoz, vagy valószínűen káros hatást vált ki a környezetben,
 
@@ -294,4 +294,4 @@
 
 5. A géntechnológiával módosított szervezet nem jelenthet további vagy megnövekedett kockázatot az emberi egészségre vagy a környezetre a kísérleti kibocsátási körülmények között, mint amelyet a megfelelő szülői – adott esetben – és fogadó szervezetek kibocsátásai jelentenek. A környezetben való terjedésre és más nem rokon ökoszisztémák megszállására irányuló bármilyen képesség, valamint a genetikai anyag átadásának képessége a környezetben található más szervezetekbe nem eredményez ártalmas hatásokat.
 
-[^34]: Ez csak azokra a környezetben előforduló állatokra és növényekre vonatkozik, amelyeknek kitettsége valószínű.
+[^41]: Ez csak azokra a környezetben előforduló állatokra és növényekre vonatkozik, amelyeknek kitettsége valószínű.
