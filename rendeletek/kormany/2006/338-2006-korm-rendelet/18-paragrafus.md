@@ -2,7 +2,7 @@
 
 ## FÖLDMÉRÉSI, TÉRKÉPÉSZETI TEVÉKENYSÉGGEL KAPCSOLATOS ELJÁRÁS
 
-18. §[^81] (1) A járási földhivatal illetékességi területén első fokú hatósági jogkörébe tartozó földmérési és térképészeti feladatok a következők:
+18. §[^79] (1) A járási földhivatal illetékességi területén első fokú hatósági jogkörébe tartozó földmérési és térképészeti feladatok a következők:
 
 a) az állami ingatlan-nyilvántartási térképi adatbázis kezelése a változások folyamatos vezetése és az abból történő adatszolgáltatás;
 
@@ -36,7 +36,7 @@ c) földmérési és térképészeti szakfelügyelet ellátása;
 
 d) az alaphálózatok megjelölésére szolgáló állandó földmérési jelek helyszínelése, karbantartása és védelme, pontpusztulás esetén a károkozóval szemben külön jogszabály szerinti eljárás megindítása;
 
-e)[^82] az alapponthálózatok megjelölésére szolgáló állandó földmérési jelek által elfoglalt területre vonatkozó használati jog gyakorlása, valamint az azzal kapcsolatos ügyekben való eljárás;
+e)[^80] az alapponthálózatok megjelölésére szolgáló állandó földmérési jelek által elfoglalt területre vonatkozó használati jog gyakorlása, valamint az azzal kapcsolatos ügyekben való eljárás;
 
 f) az állami alapmunkákkal kapcsolatban a megyei földhivatalra háruló hatósági feladatok ellátása;
 
@@ -54,5 +54,5 @@ h) jogszabályokban és szakmai szabályzatokban meghatározott nyilvántartáso
 
 (8) A megyei földhivatal az Fttv.-ben meghatározott bejelentésre kötelezett földmérési munkákról nyilvántartást vezet.
 
-[^81]: A 18. § a 404/2012. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^82]: A 18. § (3) bekezdés e) pontja a 206/2013. (VI. 17.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^79]: A 18. § a 404/2012. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^80]: A 18. § (3) bekezdés e) pontja a 206/2013. (VI. 17.) Korm. rendelet 9. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## II/B. Fejezet[^80]
+## II/B. Fejezet[^78]
 
 ## FÖLD TULAJDONJOGÁNAK ÁRVERÉSEN TÖRTÉNŐ MEGSZERZÉSÉRE IRÁNYULÓ SZERZÉSI KÉPESSÉG IGAZOLÁSA
 
@@ -8,4 +8,4 @@
 
 (3) A hatósági bizonyítványt a megyei földhivatal 15 napon belül állítja ki.
 
-[^80]: A II/B. fejezetet (17/E. §) a 191/2014. (VII. 31.) Korm. rendelet 21. § (1) bekezdése iktatta be.
+[^78]: A II/B. fejezetet (17/E. §) a 191/2014. (VII. 31.) Korm. rendelet 21. § (1) bekezdése iktatta be.
