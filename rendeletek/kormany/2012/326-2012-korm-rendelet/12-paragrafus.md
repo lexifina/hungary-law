@@ -12,4 +12,6 @@
 
 (6) A monitoring bizottság ügyrendjét a nemzeti kapcsolattartó alakítja ki és azt a monitoring bizottság hagyja jóvá.
 
-(7) A monitoring bizottság képviseletét az éves ülésen a fejlesztéspolitikáért felelős miniszter által delegált személy biztosítja.
+(7)[^3] A monitoring bizottság képviseletét az éves ülésen az európai uniós források felhasználásáért felelős miniszter által delegált személy biztosítja.
+
+[^3]: A 12. § (7) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 704. § b) pontja szerint módosított szöveg.

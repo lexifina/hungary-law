@@ -1,4 +1,4 @@
-## 172. §[^6] E rendelet alapján
+## 172. §[^12] E rendelet alapján
 
 a) a 47. alcímben foglalt támogatási kategória esetén 2014. június 30-ig,
 
@@ -10,4 +10,4 @@ d) a 69. alcímben foglalt támogatási kategória esetén 2014. június 30-ig,
 
 e) a 70. alcímben foglalt támogatási kategória esetén 2016. december 31-ig
 
-[^6]: A 172. § az 507/2013. (XII. 29.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^12]: A 172. § az 507/2013. (XII. 29.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

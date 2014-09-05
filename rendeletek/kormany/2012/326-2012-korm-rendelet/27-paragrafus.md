@@ -1,6 +1,6 @@
 27. § (1) A pályázati felhívást a program operátor dolgozza ki a végrehajtó ügynökséggel, valamint donor partnerségi program esetén a donor program partnerrel együttműködve.
 
-(2) A program operátor a jogszabályi követelményeknek megfelelően megküldi a pályázati felhívást előzetes állami támogatási szempontú vizsgálatra a fejlesztéspolitikáért felelős miniszter részére.
+(2)[^5] A program operátor a jogszabályi követelményeknek megfelelően megküldi a pályázati felhívást előzetes állami támogatási szempontú vizsgálatra az európai uniós források felhasználásáért felelős miniszter részére.
 
 (3) A program operátor 30 nappal a pályázati felhívás tervezett megjelentetése előtt véleményezésre megküldi a pályázati felhívást a nemzeti kapcsolattartó részére. A nemzeti kapcsolattartó a kézhezvételt követő 10 napon belül észrevételt tehet, melyet a program operátor köteles figyelembe venni.
 
@@ -43,3 +43,5 @@ o) a projektek megvalósításával összefüggésben alkalmazandó összeférhe
 p) a biztosíték nyújtásával kapcsolatos kötelezettségeket.
 
 (7) A kutatási program keretében meghirdetett pályázati felhívásnak a (6) bekezdéstől eltérően a szabályzatok 12. számú mellékletének 2. fejezetében foglalt előírásoknak kell megfelelnie.
+
+[^5]: A 27. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 704. § b) pontja szerint módosított szöveg.
