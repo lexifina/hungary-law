@@ -1,1 +1,0 @@
-A Kormány a bírósági végrehajtásról szóló 1994. évi LIII. törvény 307. §-a (1) bekezdésének b) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésének b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
