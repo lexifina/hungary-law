@@ -66,6 +66,22 @@
 
 ## OO. Helyi infrastruktúra támogatás
 
-2. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^135]
+## P. Mezőgazdasági, vidékfejlesztési és erdészeti támogatás
 
-[^135]: A 2. melléklet a 381/2012. (XII. 19.) Korm. rendelet 11. § (2) bekezdése, az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) és i) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. és 20. pontja szerint módosított szöveg.
+## Q. A 702/2014/EU bizottsági rendelet alapján nyújtott támogatások
+
+## QA. Az elsődleges mezőgazdasági termeléssel, a mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával foglalkozó kis- és középvállalkozások részére nyújtott támogatások
+
+## QB. A mezőgazdasági üzemek területén található kulturális vagy természeti örökség megőrzésére irányuló beruházásokhoz nyújtott támogatás
+
+## QC. A természeti katasztrófák által a mezőgazdasági ágazatban okozott károk orvoslásához nyújtott támogatás
+
+## QD. A mezőgazdasági és az erdészeti ágazatban nyújtott kutatási-fejlesztési támogatás
+
+## QE. Az erdészeti ágazatnak nyújtott támogatások
+
+## QF. A vidéki térségekben működő kis- és középvállalkozások számára nyújtott, az EMVA-ból társfinanszírozott vagy az ilyen társfinanszírozott intézkedésekhez kiegészítő nemzeti finanszírozásként biztosított támogatások
+
+2. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^151]
+
+[^151]: A 2. melléklet a 381/2012. (XII. 19.) Korm. rendelet 11. § (2) bekezdése, az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) és i) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. és 20. pontja szerint módosított szöveg.

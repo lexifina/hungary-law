@@ -2,7 +2,7 @@
 
 ## REGIONÁLIS TÁMOGATÁSI TÉRKÉP
 
-25. § (1)[^115] A 2014–2020 közötti időszakra vonatkozó regionális támogatási térképről szóló, 2014. március 11-i SA.37718 (2013/N). számú bizottsági határozattal engedélyezett regionális támogatási térkép szerint nagyvállalkozások esetében a következő maximális támogatási intenzitások alkalmazandók:
+25. § (1)[^131] A 2014–2020 közötti időszakra vonatkozó regionális támogatási térképről szóló, 2014. március 11-i SA.37718 (2013/N). számú bizottsági határozattal engedélyezett regionális támogatási térkép szerint nagyvállalkozások esetében a következő maximális támogatási intenzitások alkalmazandók:
 
 a) az Észak-Magyarország, az Észak-Alföld, a Dél-Alföld és a Dél-Dunántúl régiókban 50%,
 
@@ -26,4 +26,4 @@ b) az ötvenmillió euró és a százmillió euró közötti elszámolható köl
 
 c) a százmillió euró feletti elszámolható költségrészre az (1) bekezdésben meghatározott mérték harmincnégy százaléka.
 
-[^115]: A 25. § (1) bekezdése a 158/2014. (VI. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^131]: A 25. § (1) bekezdése a 158/2014. (VI. 30.) Korm. rendelet 10. §-ával megállapított szöveg.

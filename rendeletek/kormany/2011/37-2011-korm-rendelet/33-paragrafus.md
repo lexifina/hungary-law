@@ -4,9 +4,9 @@
 
 ## EGYÉB RENDELKEZÉSEK
 
-33. § (1)[^121] Ha a miniszter észleli, hogy a támogatást nyújtó e rendeletben meghatározott bejelentési kötelezettségének nem tett eleget, ésszerű határidő megjelölésével felhívja a támogatást nyújtót a mulasztás pótlására.
+33. § (1)[^137] Ha a miniszter észleli, hogy a támogatást nyújtó e rendeletben meghatározott bejelentési kötelezettségének nem tett eleget, ésszerű határidő megjelölésével felhívja a támogatást nyújtót a mulasztás pótlására.
 
-(2)[^122] Ha a támogatást nyújtó az (1) bekezdés szerinti felhívás alapján kötelezettségét nem teljesíti, a miniszter a támogatást folyósítónál kezdeményezi az olyan támogatási program vagy egyedi támogatás felfüggesztését, valamint az annak keretében nyújtott állami támogatás visszafizettetését, amelyre a 7. § (1) bekezdése szerinti bejelentési kötelezettség vonatkozik, de a támogatást nyújtó e kötelezettségének nem tett eleget, és a támogatási program hatályba lépett, vagy az egyedi támogatásról döntés született.
+(2)[^138] Ha a támogatást nyújtó az (1) bekezdés szerinti felhívás alapján kötelezettségét nem teljesíti, a miniszter a támogatást folyósítónál kezdeményezi az olyan támogatási program vagy egyedi támogatás felfüggesztését, valamint az annak keretében nyújtott állami támogatás visszafizettetését, amelyre a 7. § (1) bekezdése szerinti bejelentési kötelezettség vonatkozik, de a támogatást nyújtó e kötelezettségének nem tett eleget, és a támogatási program hatályba lépett, vagy az egyedi támogatásról döntés született.
 
-[^121]: A 33. § (1) bekezdése a 381/2012. (XII. 19.) Korm. rendelet 13. § b) pontja, az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
-[^122]: A 33. § (2) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
+[^137]: A 33. § (1) bekezdése a 381/2012. (XII. 19.) Korm. rendelet 13. § b) pontja, az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
+[^138]: A 33. § (2) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
