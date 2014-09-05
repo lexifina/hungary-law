@@ -1,1 +1,0 @@
-## „(6) Az (1) és (4) bekezdésben meghatározott tájékoztatást a rendezvény helye szerinti rendőrkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság a beérkezés napján írásban továbbítja a Minősítő Bizottság részére.”
