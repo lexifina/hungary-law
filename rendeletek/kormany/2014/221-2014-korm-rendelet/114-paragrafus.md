@@ -1,0 +1,3 @@
+## 113. § A Magyar Népköztársaság Kormánya és Kanada Kormánya között az atomenergia békés célú felhasználása terén folytatandó együttműködésről szóló, 1987. november 27-én aláírt egyezmény kihirdetéséről szóló 34/1988. (V. 6.) MT rendelet 3. § (2) bekezdésében az „Országos Atomenergia Hivatal főigazgatója az érdekelt miniszterekkel egyetértésben” szövegrész helyébe az „energiapolitikáért felelős miniszter és az Országos Atomenergia Hivatal főigazgatója” szöveg lép.
+
+## 114. A Magyar Népköztársaság és a Holland Királyság között a beruházások elősegítéséről és kölcsönös védelméről szóló Megállapodás kihirdetéséről szóló 63/1988. (VIII. 1.) MT rendelet módosítása

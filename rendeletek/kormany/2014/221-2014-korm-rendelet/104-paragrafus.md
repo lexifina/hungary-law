@@ -1,0 +1,3 @@
+## 103. § A Magyar Népköztársaság Kormánya és a Francia Köztársaság Kormánya között a beruházások kölcsönös elősegítéséről és védelméről szóló megállapodás kihirdetéséről szóló 59/1987. (XI. 29.) MT rendelet 3. § (2) bekezdésében a „pénzügyminiszter” szövegrész helyébe a „nemzetközi pénzügyi kapcsolatokért felelős miniszter” szöveg lép.
+
+## 104. A Magyar Népköztársaság Kormánya és az Osztrák Köztársaság Kormánya között a nukleáris létesítményeket érintő, kölcsönös érdeklődés tárgyát képező kérdések szabályozásáról Bécsben, 1987. április 29-én aláírt egyezmény kihirdetéséről szóló 70/1987. (XII. 10.) MT rendelet módosítása

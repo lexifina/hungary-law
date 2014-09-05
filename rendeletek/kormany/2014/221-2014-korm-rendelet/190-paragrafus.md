@@ -1,0 +1,3 @@
+## 189. § A Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti Társulási Tanácsnak 3/98. számú, a Magyar Köztársaságnak a közösségi kulturális programokban történő részvétele módozatainak és feltételeinek elfogadása tárgyában hozott határozata kihirdetéséről szóló 194/1998. (XII. 4.) Korm. rendelet 3. §-ában a „nemzeti kulturális örökség minisztere, valamint a PHARE program koordinációjáért felelős tárca nélküli miniszter – a külügyminiszterrel egyetértésben –” szövegrész helyébe a „kultúráért felelős miniszter az európai integrációs ügyekért felelős miniszterrel egyetértésben” szöveg lép.
+
+## 167. A bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet módosítása

@@ -1,0 +1,1 @@
+## 303. § Az Országos Meteorológiai Szolgálatról szóló 277/2005. (XII. 20.) Korm. rendelet 4. § (2) bekezdésében a „Magyar Köztárság költségvetéséről szóló törvény (a továbbiakban: költségvetési törvény)” szövegrész helyébe a „központi költségvetésről szóló törvény” szöveg lép.

@@ -1,0 +1,3 @@
+## 109. § A Magyar Népköztársaság Kormánya és Spanyolország Kormánya között Madridban, az 1984. évi július hó 9. napján aláírt, a jövedelem- és a vagyonadók területén a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról szóló egyezmény kihirdetéséről szóló 12/1988. (III. 10.) MT rendelet 3. § (2) bekezdésében az „a pénzügyminiszter” szövegrész helyébe az „az adópolitikáért felelős miniszter” szöveg lép.
+
+## 110. A Magyar Népköztársaság Kormánya és a Zimbabwei Köztársaság Kormánya között Budapesten, 1986. június 19-én aláírt, az egészségügyi együttműködésről szóló Egyezmény kihirdetéséről szóló 16/1988. (III. 25.) MT rendelet módosítása

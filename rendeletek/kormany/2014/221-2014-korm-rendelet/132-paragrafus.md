@@ -1,0 +1,3 @@
+## 131. § A Magyar Népköztársaság Kormánya és a Finn Köztársaság Kormánya között a beruházások védelméről szóló Megállapodás kihirdetéséről szóló 91/1989. (VIII. 17.) MT rendelet 3. § (2) bekezdésében a „pénzügyminiszter” szövegrész helyébe a „nemzetközi pénzügyi kapcsolatokért felelős miniszter” szöveg lép.
+
+## 131. A Magyar Népköztársaság Kormánya és a Nemzetközi Atomenergia Ügynökség között kötött, a Nemzetközi Atomenergia Ügynökség által Magyarországnak nyújtott műszaki segítségről szóló, 1989. június 12-én aláírt Felülvizsgált Kiegészítő Megállapodás kihirdetéséről szóló 93/1989. (VIII. 22.) MT rendelet módosítása

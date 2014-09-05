@@ -1,0 +1,5 @@
+## 372. § A földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet 2. mellékletében foglalt táblázat I. rész 4. sorában, II. rész 5. sorában, III. rész 5. sorában, IV. rész 5. sorában a „Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe a „Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ” szöveg lép.
+
+373. § (1) Hatályát veszti a földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet 5. § (5) bekezdésében az „a miniszter által kinevezett” szövegrész.
+
+(2) Hatályát veszti a földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet 5. § (3) bekezdése.

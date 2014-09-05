@@ -1,0 +1,3 @@
+## 118. § A Magyar Népköztársaság Kormánya és a Belga–Luxemburgi Gazdasági Unió között a beruházások kölcsönös elősegítéséről és védelméről szóló Megállapodás kihirdetéséről szóló 7/1989. (I. 15.) MT rendelet 3. § (2) bekezdésében a „pénzügyminiszter” szövegrész helyébe a „nemzetközi pénzügyi kapcsolatokért felelős miniszter” szöveg lép.
+
+## 119. A Magyar Népköztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között Budapesten 1989. január 3. napján aláírt a Magyar Népköztársaságban székhellyel bíró vállalatok magyar munkavállalóinak vállalkozási szerződés alapján foglalkoztatási célból történő kiküldetéséről szóló megállapodás kihirdetéséről szóló 14/1989. (II. 17.) MT rendelet módosítása

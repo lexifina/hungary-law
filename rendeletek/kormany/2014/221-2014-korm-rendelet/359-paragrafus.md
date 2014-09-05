@@ -1,0 +1,1 @@
+## „(5) A Balassi Intézet főigazgatójának, gazdasági vezetőjének, a külföldi magyar intézetek igazgatásért felelős szervezeti egysége vezetőinek és a külföldi magyar intézetek más kiküldötteinek kinevezése, felmentése és illetményének megállapítása a kultúráért felelős miniszter egyetértésével gyakorolható.”

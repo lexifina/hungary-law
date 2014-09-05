@@ -1,0 +1,3 @@
+## 78. § A Magyar Népköztársaság Kormánya és a Norvég Királyság Kormánya között Oslóban az 1980. évi október hó 21. napján aláírt, a jövedelem- és a vagyonadók területén a kettős adóztatás elkerüléséről szóló egyezmény kihirdetéséről szóló 67/1981. (XII. 16.) MT rendelet 3. § (2) bekezdésében az „a pénzügyminiszter” szövegrész helyébe az „az adópolitikáért felelős miniszter” szöveg lép.
+
+## 79. A Magyar Népköztársaság Kormánya és a Kambodzsai Népi Forradalmi Tanács között Budapesten, az 1980. évi november hó 27. napján aláírt, a kulturális és tudományos együttműködésről szóló egyezmény kihirdetéséről szóló 69/1981. (XII. 27.) MT rendelet módosítása

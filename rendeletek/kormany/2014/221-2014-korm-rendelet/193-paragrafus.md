@@ -1,0 +1,3 @@
+## 192. § A Magyar Köztársaság Kormánya és a Paraguayi Köztársaság Kormánya közötti kulturális, oktatási és tudományos együttműködési Egyezmény kihirdetéséről szóló 3/1999. (I. 18.) Korm. rendelet 3. § (2) bekezdésében az „oktatási miniszter, a kulturális területen a nemzeti kulturális örökség minisztere” szövegrész helyébe az „oktatásért felelős miniszter, a kulturális területen a kultúráért felelős miniszter” szöveg lép.
+
+## 170. A büntetőeljárásban résztvevők, valamint az eljárást folytató hatóság tagjai személyi védelme elrendelésének feltételeiről és végrehajtásának szabályairól szóló 34/1999. (II. 26.) Korm. rendelet módosítása

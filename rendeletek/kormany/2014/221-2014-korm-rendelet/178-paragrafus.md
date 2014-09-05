@@ -1,0 +1,3 @@
+## 177. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet a következő 64/E. §-sal egészül ki:
+
+## „64/E. § A nevelt gyermek részére 2001. január 1-je előtti időponttól megállapított árvaellátás összegébe a vér szerinti szülő által fizetett tartásdíjat továbbra is be kell számítani, és ha a fizetett tartásdíj eléri az árvaellátás összegét, az árvaellátás folyósítását szüneteltetni kell. A tartásdíj megfizetni elmulasztott összegének, továbbá a Tny. 2000. december 31-én hatályban volt 57. § (3) bekezdése szerinti különbözetnek a behajtásáról a nyugdíjfolyósító szervnek továbbra is intézkednie kell. A tartozás törlésére a TnyR. 79. § (5) bekezdése alapján kerülhet sor.”

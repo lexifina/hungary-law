@@ -1,0 +1,3 @@
+## 249. § A nemzetgazdaság védelmi felkészítése és mozgósítása feladatai végrehajtásának szabályozásáról szóló 131/2003. (VIII. 22.) Korm. rendelet 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A honvédelmi szempontból stratégiai érdekű gazdálkodó szervezeteket a gazdaságpolitikáért felelős miniszter – a honvédelemért felelős miniszterrel, a rendészetért felelős miniszterrel, a helyi önkormányzatokért felelős miniszterrel, a területfejlesztés stratégiai tervezéséért felelős miniszterrel és a Kormány feladatkörében érintett tagjával egyeztetett – javaslatára a Kormány jelöli ki.”

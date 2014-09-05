@@ -1,0 +1,3 @@
+## 65. § A Magyar Népköztársaság Kormánya és az Olasz Köztársaság Kormánya között Budapesten, az 1977. évi május hó 16. napján aláírt, a jövedelem- és a vagyonadók területén a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról szóló egyezmény kihirdetéséről szóló 53/1980. (XII. 12.) MT rendelet 3. § (2) bekezdésében az „a pénzügyminiszter” szövegrész helyébe az „az adópolitikáért felelős miniszter” szöveg lép.
+
+## 66. A Magyar Népköztársaság Kormánya és az Afganisztáni Köztársaság Kormánya között Kabulban, az 1977. évi október hó 16. napján aláírt egészségügyi együttműködésről szóló egyezmény kihirdetéséről szóló 61/1980. (XII. 27.) MT rendelet módosítása

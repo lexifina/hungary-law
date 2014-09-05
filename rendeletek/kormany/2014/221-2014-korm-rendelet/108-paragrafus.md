@@ -1,0 +1,3 @@
+## 107. § A Magyar Népköztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között kulturális és tájékoztatási központok kölcsönös felállításáról szóló megállapodás kihirdetéséről szóló 8/1988. (II. 17.) MT rendelet 3. § (2) bekezdésében a „külügyminiszter és a művelődési és közoktatási” szövegrész helyébe a „külpolitikáért felelős miniszter és a kultúráért felelős” szöveg lép.
+
+## 108. A Magyar Népköztársaság Kormánya és a Holland Királyság Kormánya között Hágában, az 1986. évi június hó 5. napján aláírt, a jövedelem- és a vagyonadók területén a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról szóló egyezmény kihirdetéséről szóló 10/1988. (III. 10.) MT rendelet módosítása

@@ -1,0 +1,3 @@
+## 88. § A Magyar Népköztársaság Kormánya és a Ciprusi Köztársaság Kormánya között Budapesten, az 1981. évi november hó 30. napján aláírt, a jövedelem- és a vagyonadók területén a kettős adóztatás elkerüléséről szóló egyezmény kihirdetéséről szóló 82/1982. (XII. 29.) MT rendelet 3. § (2) bekezdésében az „a pénzügyminiszter” szövegrész helyébe az „az adópolitikáért felelős miniszter” szöveg lép.
+
+## 89. A Magyar Népköztársaság Kormánya és a Svéd Királyság Kormánya között Budapesten az 1982. évi július hó 8. napján aláírt egészségügyi ellátási egyezmény kihirdetéséről szóló 5/1983. (IV. 13.) MT rendelet módosítása

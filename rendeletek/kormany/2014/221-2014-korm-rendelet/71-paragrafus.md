@@ -1,0 +1,3 @@
+## 70. § A Magyar Népköztársaság Kormánya és a Jordán Hasemita Királyság Kormánya között Budapesten, az 1979. évi augusztus hó 31. napján aláírt, az egészségügyi együttműködésről szóló egyezmény kihirdetéséről szóló 15/1981. (V. 23.) MT rendelet 3. § (2) bekezdésében az „az egészségügyi miniszter” szövegrész helyébe az „az egészségügyért felelős miniszter” szöveg lép.
+
+## 71. A Magyar Népköztársaság Kormánya és a Ciprusi Köztársaság Kormánya között Budapesten, 1980. május 13. napján aláírt, a Gazdasági, Műszaki és Ipari Együttműködésről szóló hosszú lejáratú Megállapodás kihirdetéséről szóló 19/1981. (VI. 19.) MT rendelet módosítása

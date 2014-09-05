@@ -1,0 +1,3 @@
+## 111. § A Magyar Népköztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetsége Kormánya között Budapesten, az 1988. évi február hó 26. napján aláírt, a Magyar Népköztársaság Kulturális, Tudományos és Tájékoztatási Központja létesítéséről és tevékenységéről a Szovjetunióban szóló megállapodás kihirdetéséről szóló 27/1988. (IV. 11.) MT rendelet 3. § (2) bekezdésében a „külügyminiszter” szövegrész helyébe a „külpolitikáért felelős miniszter” szöveg lép.
+
+## 112. A Magyar Népköztársaság Kormánya és a Máltai Köztársaság Kormánya között Budapesten, 1986. február 4-én aláírt, az egészségügyi együttműködésről szóló Megállapodás kihirdetéséről szóló 28/1988. (IV. 11.) MT rendelet módosítása
