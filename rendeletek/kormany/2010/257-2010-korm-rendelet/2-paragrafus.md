@@ -1,3 +1,0 @@
-## 1. § Az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló 288/2009. (XII. 15.) Korm. rendelet (a továbbiakban: Rendelet) 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § E rendelet hatálya kiterjed a jogi személyekre, a jogi személyiséggel nem rendelkező szervezetekre, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 3. §-ának 17. pontja alapján egyéni vállalkozónak, illetve az Szja tv. 3. §-ának 18. pontja alapján mezőgazdasági őstermelőnek minősülő személyekre, valamint a nem üzletszerű gazdasági tevékenységet folytató természetes személyekre azok gazdasági tevékenységére vonatkozóan.”
