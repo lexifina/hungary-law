@@ -1,1 +1,0 @@
-A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (2) bekezdés m) és zsa) pontjában, valamint a Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény 15. § (3) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
