@@ -6,7 +6,7 @@
 
 (2a)[^43] Ha az igénylő a (2) bekezdés szerinti határidőn belül nem él a lakásépítési támogatás igénylésének lehetőségével, arra a határidő lejártát követően már nem tarthat igényt.
 
-(3) Amennyiben a lakáscél lakásépítési támogatással is megvalósítható, a hitelintézet átadja az igénylőnek a lakásgazdálkodásért és lakáspolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium elektronikus úton megküldött tájékoztatóját a lakásépítési támogatás igénybevételének feltételeiről, valamint írásban tájékoztatást ad az igényléshez szükséges dokumentumokról.
+(3)[^44] Amennyiben a lakáscél lakásépítési támogatással is megvalósítható, a hitelintézet átadja az igénylőnek a lakásgazdálkodásért és lakáspolitikáért felelős miniszter (a továbbiakban: miniszter) elektronikus úton megküldött tájékoztatóját a lakásépítési támogatás igénybevételének feltételeiről, valamint írásban tájékoztatást ad az igényléshez szükséges dokumentumokról.
 
 (4) A 2. § (3) bekezdés b) pontja szerinti esetben az igénylő kérelmére a Kincstár igénylő lakóhelye szerint illetékes területi szerve igazolást ad ki arról, hogy az egyéb lakáscélú állami támogatásokról szóló jogszabályok alapján az igénylő lakásépítési kedvezményt megelőlegező kölcsönszerződéssel nem rendelkezik. Az igénylő a Kincstár igénylő lakóhelye szerint illetékes területi szerve által kiállított igazolást a hitelintézet részére bemutatja.
 
@@ -14,3 +14,4 @@
 
 [^42]: A 9. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 31. § a) pontja, a 128/2013. (IV. 30.) Korm. rendelet 14. § 11. pontja és 15. § d) pontja szerint módosított szöveg.
 [^43]: A 9. § (2a) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 12. §-a iktatta be.
+[^44]: A 9. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 586. §-a szerint módosított szöveg.
