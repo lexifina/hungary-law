@@ -160,4 +160,6 @@
 
 3. § (1) E rendelet kihirdetése napján lép hatályba, rendelkezéseit azonban az 1989. évi március hó 8. napjától kell alkalmazni. (Az Egyezménynek a Magyar Köztársaság vonatkozásában történő hatálybalépésének napja.)
 
-(2) E rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+(2)[^3] E rendelet végrehajtásáról a kulturális örökség védelméért felelős miniszter gondoskodik.
+
+[^3]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 128. §-a szerint módosított szöveg.
