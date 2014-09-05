@@ -1,1 +1,0 @@
-A Kormány a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 101. § (1) bekezdés f) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
