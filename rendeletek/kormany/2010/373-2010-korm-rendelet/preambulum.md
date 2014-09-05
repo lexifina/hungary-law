@@ -1,1 +1,0 @@
-A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény 88. § (1)–(2) bekezdésében, valamint a közbeszerzésekről szóló 2003. évi CXXIX. törvény 404. § (1) bekezdésének c), d) és h) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
