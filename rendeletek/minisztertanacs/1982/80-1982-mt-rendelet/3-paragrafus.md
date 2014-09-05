@@ -176,15 +176,16 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban az 1982. évi július hó 23. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról az egészségügyi miniszter gondoskodik.
+(2)[^9] E rendelet végrehajtásáról az egészségügyért felelős miniszter gondoskodik.
 
-(3)[^9] Az egyezmény a Magyar Köztársaság és a Szlovák Köztársaság viszonyában 2001. szeptember 20-ával megszűnt, a két ország viszonyában ezt követően azt alkalmazni nem lehet.
+(3)[^10] Az egyezmény a Magyar Köztársaság és a Szlovák Köztársaság viszonyában 2001. szeptember 20-ával megszűnt, a két ország viszonyában ezt követően azt alkalmazni nem lehet.
 
-(4)[^10] Az egyezmény 2001. szeptember 21. napjától a Magyar Köztársaság és a Cseh Köztársaság viszonyában kerül alkalmazásra.
+(4)[^11] Az egyezmény 2001. szeptember 21. napjától a Magyar Köztársaság és a Cseh Köztársaság viszonyában kerül alkalmazásra.
 
 [^5]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^6]: A Csehszlovák Köztársaság államisága megszűnt. Az államutódlást külön megállapodások rendezik.
 [^7]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
 [^8]: A Csehszlovák Köztársaság államisága megszűnt. Az államutódlást külön megállapodások rendezik.
-[^9]: A 3. § (3) bekezdését a 9/2002. (I. 30.) Korm. rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 2. §-a alapján rendelkezéseit 2001. szeptember 20. napjától kell alkalmazni.
-[^10]: A 3. § (4) bekezdését a 9/2002. (I. 30.) Korm. rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 2. §-a alapján rendelkezéseit 2001. szeptember 20. napjától kell alkalmazni.
+[^9]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 87. §-a szerint módosított szöveg.
+[^10]: A 3. § (3) bekezdését a 9/2002. (I. 30.) Korm. rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 2. §-a alapján rendelkezéseit 2001. szeptember 20. napjától kell alkalmazni.
+[^11]: A 3. § (4) bekezdését a 9/2002. (I. 30.) Korm. rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 2. §-a alapján rendelkezéseit 2001. szeptember 20. napjától kell alkalmazni.
