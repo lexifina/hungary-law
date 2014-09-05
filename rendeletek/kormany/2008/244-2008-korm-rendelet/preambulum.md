@@ -1,1 +1,0 @@
-A Kormány a Magyar Köztársaság 2001. és 2002. évi költségvetéséről szóló 2000. évi CXXXIII. törvény 109. § (1) bekezdés j) pontjában foglalt felhatalmazás alapján, a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
