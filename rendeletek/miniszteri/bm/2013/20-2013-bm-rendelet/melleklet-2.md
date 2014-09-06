@@ -104,6 +104,10 @@
 
 | 51. | 50. | 54 | 853 | 01 | Vízügyi technikus | Vízgazdálkodás |
 
+| 52. | 51. | 55 | 850 | 06 | Vízgazdálkodó szaktechnikus | Környezetvédelem-vízgazdálkodás |
+
+| 53. | 52. | 31 | 853 | 03 | Vízkárelhárító | Környezetvédelem- vízgazdálkodás |
+
 2. melléklet a 20/2013. (V. 28.) BM rendelethez[^4]
 
 Az 1. sorszámú Biztonságszervező megnevezésű szakképesítés szakmai és vizsgakövetelménye
@@ -6024,14 +6028,4 @@ Amennyiben a teljesítendő írásbeli feladat eredménye nem éri el az 51%-ot,
 
 7.4.7. Aki a 2006-ban vagy 2011-ben kiadott, e táblázatban meghatározott követelménymodulokból sikeres szakmai vizsgát tett, az a jelen szakmai és vizsgakövetelmény szerinti szakmai képzéseket folytathatja.
 
-7.4.8. A rendőr tiszthelyettes alap-szakképesítés szakirányi moduljában folytathatja tanulmányait az 52 861 06 azonosító számú Rendőr szakképesítéssel, az 52 8912 02 számú Rendőr szakképesítéssel, vagy az 52 8912 01 számú Határrendész szakképesítéssel rendelkező hivatásos állományú személy.
-
-A 24. sorszámú Őr-járőrtárs megnevezésű részszakképesítés szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A részszakképesítés azonosító száma: 51 861 03
-
-1.2. Részszakképesítés megnevezése: Őr-járőrtárs
-
-[^4]: A 2. melléklet a 83/2013. (XII. 31.) BM rendelet 2. § b) pontja, a 23/2014. (III. 14.) BM rendelet 2. § (2) bekezdése, a 25/2014. (VIII. 26.) NGM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet a 83/2013. (XII. 31.) BM rendelet 2. § b) pontja, a 23/2014. (III. 14.) BM rendelet 2. § (2) bekezdése, a 25/2014. (VIII. 26.) NGM rendelet 4. § (2) bekezdése, a 43/2014. (VIII. 29.) BM rendelet 2. § (1) bekezdés b) pontja és (2) bekezdése szerint módosított szöveg.
