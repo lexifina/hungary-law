@@ -208,23 +208,13 @@
 
 | 101. | 34 | 215 | 04 | Virágkötő és virágkereskedő | Mezőgazdaság |
 
-| 102. |  |  |  |  |  |
-
-| 103. |  |  |  |  |  |
-
-| 104. | 55 | 850 | 06 | Vízgazdálkodó szaktechnikus | Környezetvédelem-vízgazdálkodás |
-
-| 105. | 31 | 853 | 03 | Vízkárelhárító | Környezetvédelem-vízgazdálkodás |
-
-| 106. |  |  |  |  |  |
-
-| 107. |  |  |  |  |  |
+| 102-107. |  |  |  |  |  |
 
 | 108. | 31 | 541 | 12 | Zöldség- és gyümölcsfeldolgozó | Élelmiszeripar |
 
 | 109. | 35 | 622 | 02 | Zöldség- és gyümölcstermesztő | Mezőgazdaság |
 
-2. melléklet a 41/2013. (V. 28.) VM rendelethez[^3]
+2. melléklet a 41/2013. (V. 28.) VM rendelethez[^4]
 
 Az 1. sorszámú Agrár áruforgalmazó szaktechnikus megnevezésű szakképesítés-ráépülés
 
@@ -6016,4 +6006,28 @@ A 23. sorszámú Élelmiszeripari technikus megnevezésű szakképesítés szakm
 
 3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
 
-[^3]: A 2. melléklet a 131/2013. (XII. 23.) VM rendelet 4. § (2) bekezdés b) pontja, a 3/2014. (VIII. 29.) FM rendelet 1. §-a szerint módosított szöveg.
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakör(ök) |
+
+| 3.1.2. | 3113 | Élelmiszeripari technikus | Élelmiszeripari technikus |
+
+3.2. A szakképesítés munkaterületének rövid leírása:
+
+Önállóan vagy mérnöki irányítással élelmiszer-ipari üzemekben vagy laboratóriumokban az élelmiszer alapanyagainak minőségi és mennyiségi átvételében, vizsgálatában, feldolgozásában, tárolási és csomagolási munkáiban vesz részt.
+
+A szakképesítéssel rendelkező képes:
+
+- alapanyagokat, felhasznált anyagokat, félkész-, és késztermékeket átvenni, mintát venni, vizsgálatokat végezni;
+
+- gyártásközi és késztermék vizsgálatokat végezni, szükséges intézkedéseket megtenni;
+
+- munka-, tűz-, környezetvédelmi és minőségbiztosítási munkát végezni;
+
+- élelmiszeripari higiénikusi tevékenységet végezni;
+
+- élelmiszergyártási tevékenységben részt venni;
+
+- élelmiszergyártásban előforduló alapméréseket végezni/végeztetni;
+
+[^4]: A 2. melléklet a 131/2013. (XII. 23.) VM rendelet 4. § (2) bekezdés b) pontja, a 3/2014. (VIII. 29.) FM rendelet 1. §-a, a 43/2014. (VIII. 29.) BM rendelet 3. § b) pontja szerint módosított szöveg.
