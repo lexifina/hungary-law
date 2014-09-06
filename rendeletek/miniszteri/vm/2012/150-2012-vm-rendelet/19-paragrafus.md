@@ -4,8 +4,25 @@
 
 (2) A bizottsági rendelet XI. mellékletében fel nem sorolt termékek esetében a támogatás legnagyobb mértékét a miniszter a működési program jóváhagyása során egyedileg állapítja meg, figyelembe véve a termelői árak és a bizottsági rendelet XI. mellékletében felsorolt támogatási szint átlagos arányát.
 
-(3) A termelői szervezetek a piacról történő kivonási szándékukról szóló, a bizottsági rendelet 78. cikkében hivatkozott értesítést az MVH által közleményben rendszeresített nyomtatványon, a kivonás időpontját legalább öt nappal korábban beérkezően megküldik az MVH-hoz. Az értesítésnek tartalmaznia kell a kivonás alá vont termékek jegyzékét, az érintett termékek becsült mennyiségét, tervezett rendeltetését, és annak a helynek a megjelölését, ahol a kivonási műveleteknek a bizottsági rendelet 108. cikkében meghatározott elsőfokú ellenőrzése megtörténhet. Az értesítéshez mellékelni kell egy, a gyümölcs és zöldség ellenőrzéséről szóló miniszteri rendeletben meghatározott megyei kormányhivatalok növény és talajvédelmi igazgatósága által kiállított igazolást, amely tanúsítja, hogy a kivont termékek megfelelnek az alkalmazandó forgalmazási előírásoknak. A kivonásra csak munkanapokon kerülhet sor.
+(3)[^18] A termelői szervezetek a piacról történő árukivonási szándékukról szóló, a bizottsági rendelet 78. cikkében hivatkozott értesítést az MVH által közleményben rendszeresített és a honlapján közzétett nyomtatványon, a kivonás időpontját legalább öt nappal korábban beérkezően megküldik az MVH-hoz. Az értesítésnek tartalmaznia kell a kivonás alá vont termékek jegyzékét, az érintett termékek becsült mennyiségét, tervezett rendeltetését, és annak a helynek és időszaknak a megjelölését, ahol a kivonási műveleteknek a bizottsági rendelet 108. cikkében meghatározott elsőfokú ellenőrzése megtörténhet. Az értesítéshez mellékelni kell egy, a gyümölcs és zöldség ellenőrzéséről szóló miniszteri rendeletben meghatározott megyei kormányhivatalok növény és talajvédelmi igazgatósága által kiállított igazolást, amely tanúsítja, hogy a kivont termékek megfelelnek az alkalmazandó forgalmazási előírásoknak. A kivonási műveletre a bizottsági rendelet 78. cikk (3) bekezdése szerinti engedély kiadását követően kerülhet sor.
 
-(4) Az MVH a bizottsági rendelet 108. cikkében meghatározott első fokú ellenőrzéseket a kivonásra bejelentett ingyenes szétosztásra szánt mennyiségek legalább harminc százalékának vonatkozásában végzi. Az MVH az ellenőrzések végrehajtását követően, a feltételek teljesítése esetén engedélyezi a kivonási műveletet.
+(4)[^19] Az MVH a bizottsági rendelet 108. cikkében meghatározott első fokú ellenőrzéseket a kivonásra bejelentett ingyenes szétosztásra szánt mennyiségek legalább harminc százalékának vonatkozásában végzi.
 
-(5) A piacról történő árukivonás intézkedés alkalmazása esetén támogatás csak akkor igényelhető, ha a piacról kivont áru – ingyenes szétosztás esetén az MVH által jóváhagyott – fogadó szervezet részére történő átadása a termelői szervezet és az átvevő intézmény között kötött, az áru átadásának technikai feltételeiről szóló megállapodás alapján történik.
+(5)[^20] A piacról történő árukivonás intézkedés alkalmazása esetén támogatás csak akkor igényelhető, ha a piacról kivont áru 20. §-ban meghatározott fogadó szervezet részére történő átadása a termelői szervezet és a fogadó szervezet között kötött, az áru átadásának technikai feltételeiről szóló megállapodás alapján történik.
+
+(6)[^21] Az (5) bekezdése szerinti megállapodásnak tartalmaznia kell
+
+a) a szállítható termékek körét,
+
+b) a teljesítés helyszínét,
+
+c) a szétosztott termékben részesülők maximális számát,
+
+d) a szállítható termék minimális és maximális mennyiségét (kilogrammban, illetve darabszámban) a szállítások és a szétosztások ütemezése szerinti bontásban, valamint
+
+e) a bizottsági rendelet 83. cikkében meghatározott feltételeknek való megfelelésre vonatkozó nyilatkozatokat.
+
+[^18]: A 19. § (3) bekezdése a 7/2014. (IX. 5.) FM rendelet 1. §-ával megállapított szöveg.
+[^19]: A 19. § (4) bekezdése a 7/2014. (IX. 5.) FM rendelet 1. §-ával megállapított szöveg.
+[^20]: A 19. § (5) bekezdése a 7/2014. (IX. 5.) FM rendelet 1. §-ával megállapított szöveg.
+[^21]: A 19. § (6) bekezdését a 7/2014. (IX. 5.) FM rendelet 2. §-a iktatta be.

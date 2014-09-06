@@ -1,23 +1,25 @@
-20. § (1) A kivont termékek ingyenes szétosztásához kapcsolódóan – az MVH által közleményben közzétett felhívás alapján – jóváhagyási kérelmet nyújthatnak be:
+20. § (1)[^22] A piacról kivont termékek fogadó szervezete lehet
 
-a) a büntetés-végrehajtási intézetek kijelöléséről szóló IM rendeletben felsorolt büntetés-végrehajtási intézetek,
+a) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-ei 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU rendelet) 34. cikk (4) bekezdés a) pontja tekintetében a Karitatív Tanács megalakításáról és működésének részletes szabályairól szóló kormányrendelet alapján megalapított Karitatív Tanács tagja;
 
-b) a nemzeti köznevelésről szóló törvény alapján nyilvántartásba vett oktatási intézmények,
+b) az 1308/2013/EU rendelet 34. cikk (4) bekezdés b) pontja tekintetében
 
-c) az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló kormányrendelet alapján működési engedéllyel rendelkező egészségügyi intézmények.
+ba) a büntetés-végrehajtási intézetek kijelöléséről szóló miniszteri rendeletben felsorolt büntetés-végrehajtási intézet,
 
-(2) Az ingyenes szétosztásban való részvételhez kapcsolódóan benyújtott jóváhagyási kérelemben meg kell adni:
+bb) a nemzeti köznevelésről szóló törvény alapján nyilvántartásba vett oktatási intézmény,
 
-a) a szállítható termékek körét,
+bc) az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló kormányrendelet alapján működési engedéllyel rendelkező egészségügyi intézmény.
 
-b) a teljesítés helyszínét,
+(2)[^23] A 19. § (1) bekezdésében – a bizottsági rendelet 80. cikk (2) bekezdésében szabályozottaknak megfelelően – ingyenes szétosztástól eltérő egyéb rendeltetésként meghatározott állatokkal történő feletetés esetén fogadó szervezet lehet
 
-c) a szétosztott termékben részesülők maximális számát, és
+a) a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló miniszteri rendelet szerint az Országos Adatbázisban nyilvántartásba vett tartási hely,
 
-d) a szállítható termék minimális, illetve maximális mennyiségét (kilogrammban, illetve darabszámban).
+b) az állatok védelméről és kíméletéről szóló törvény alapján nyilvántartásba vett és működési engedéllyel rendelkező állatkert és cirkuszi menazséria,
 
-(3) Az ingyenes szétosztásban való részvétel jóváhagyásának feltétele, hogy a termelői szervezet és az átvevő intézmény, illetve szervezet az áru átadásának technikai feltételeiről írásbeli megállapodást kössön.
+c) a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvény szerint nyilvántartásba vett vadászatra jogosult.
 
-(4) A szétosztásban részesülő szervezeteknek kötelezettséget kell vállalniuk a kivont termékek tárolására és szétosztására, valamint a bizottsági rendelet 83. cikkében foglaltak betartására.
+(3)–(5)[^24]
 
-(5) Az MVH az ingyenes szétosztásban részt vevő intézmények adatait az erre vonatkozó kérelmük elfogadását követő tizenöt napon belül közzéteszi.
+[^22]: A 20. § (1) bekezdése a 7/2014. (IX. 5.) FM rendelet 3. §-ával megállapított szöveg.
+[^23]: A 20. § (2) bekezdése a 7/2014. (IX. 5.) FM rendelet 3. §-ával megállapított szöveg.
+[^24]: A 20. § (3)–(5) bekezdését a 7/2014. (IX. 5.) FM rendelet 8. §-a hatályon kívül helyezte.
