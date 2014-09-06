@@ -1,3 +1,5 @@
-## 102. § A Bécsben, 1986. szeptember 26-án aláírt, a nukleáris baleset, vagy sugaras veszélyhelyzet esetén való segítségnyújtásról szóló egyezmény kihirdetéséről szóló 29/1987. (VIII. 9.) MT rendelet 4. § (2) bekezdésében az „Országos Atomenergia Hivatal főigazgatója az érdekelt miniszterekkel egyetértésben” szövegrész helyébe az „energiapolitikáért felelős miniszter és az Országos Atomenergia Hivatal főigazgatója” szöveg lép.
+## 102. §[^102]
 
 ## 103. A Magyar Népköztársaság Kormánya és a Francia Köztársaság Kormánya között a beruházások kölcsönös elősegítéséről és védelméről szóló megállapodás kihirdetéséről szóló 59/1987. (XI. 29.) MT rendelet módosítása
+
+[^102]: A 102. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

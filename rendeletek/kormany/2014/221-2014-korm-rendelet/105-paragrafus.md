@@ -1,3 +1,5 @@
-## 104. § A Magyar Népköztársaság Kormánya és az Osztrák Köztársaság Kormánya között a nukleáris létesítményeket érintő, kölcsönös érdeklődés tárgyát képező kérdések szabályozásáról Bécsben, 1987. április 29-én aláírt egyezmény kihirdetéséről szóló 70/1987. (XII. 10.) MT rendelet 3. § (2) bekezdésében az „Országos Atomenergia Hivatal főigazgatója az érdekelt miniszterekkel egyetértésben” szövegrész helyébe az „energiapolitikáért felelős miniszter és az Országos Atomenergia Hivatal főigazgatója” szöveg lép.
+## 104. §[^104]
 
 ## 105. A Magyar Népköztársaság Kormánya és a Svéd Királyság Kormánya között az egészségügyi együttműködés tárgyában Budapesten, 1977. szeptember 21-én kötött egyezmény módosításáról szóló, Stockholmban, 1987. év június hó 12. napján aláírt Jegyzőkönyv kihirdetéséről szóló 4/1988. (II. 12.) MT rendelet módosítása
+
+[^104]: A 104. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

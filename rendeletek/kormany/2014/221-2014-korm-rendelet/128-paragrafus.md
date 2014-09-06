@@ -1,3 +1,5 @@
-## 127. § A vámokmányoknak a közvetlen közúti árufuvarozásban való alkalmazásáról Varsóban az 1983. évi november hó 17. napján kelt egyezmény kihirdetéséről szóló 51/1985. (XI. 12.) MT rendelet módosításáról szóló 53/1989. (VI. 10.) MT rendelet 5. § (2) bekezdésében az „a pénzügyminiszter” szövegrész helyébe az „az adópolitikáért felelős miniszter” szöveg lép.
+## 127. §[^126]
 
 ## 127. Az államhatárokon jogellenesen átszállított kulturális javak visszatartásának és visszaadásának kérdéseivel kapcsolatos együttműködésről és kölcsönös segítségnyújtásról szóló, Plovdivban az 1986. évi április hó 22. napján kelt Egyezmény kihirdetéséről szóló 68/1989. (VII. 1.) MT rendelet módosítása
+
+[^126]: A 127. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

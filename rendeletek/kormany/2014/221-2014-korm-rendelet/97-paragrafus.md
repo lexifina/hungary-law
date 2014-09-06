@@ -1,3 +1,5 @@
-## 96. § A Magyar Népköztársaság Kormánya és a Görög Köztársaság Kormánya között Budapesten, az 1983. évi május hó 25. napján aláírt, a jövedelem- és a vagyonadók területén a kettős adóztatás elkerüléséről szóló egyezmény kihirdetéséről szóló 33/1985. (VII. 1.) MT rendelet 3. § (2) bekezdésében az „a pénzügyminiszter” szövegrész helyébe az „az adópolitikáért felelős miniszter” szöveg lép.
+## 96. §[^96]
 
 ## 97. A vámokmányoknak a közvetlen közúti árufuvarozásban való alkalmazásáról szóló, Varsóban az 1983. évi november hó 17. napján kelt egyezmény kihirdetéséről szóló 51/1985. (XI. 12.) MT rendelet módosítása
+
+[^96]: A 96. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

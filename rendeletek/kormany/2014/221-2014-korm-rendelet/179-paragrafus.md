@@ -1,5 +1,5 @@
-## 178. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet a következő 74. §-sal egészül ki:
-
-## „74. § A vasutas nyugdíjigazgatás megszűnésével a Vasutas Önkéntes Támogatási Alap Közhasznú Egyesület, a Rudolf Segélyező Egyesület, a Vasutas Segélyező Egyesület, a Vasutasok és Közlekedési Dolgozók Jótékonysági Egyesülete, valamint a Mozdonyvezetők, Vasútüzemi Dolgozók Segélyező Egyesülete (a továbbiakban: egyesületek) 2007. december 31-én nyugellátásban, nyugdíjszerű rendszeres pénzellátásban, baleseti járadékban részesülő tagjai tagdíjának az ellátásból történő levonásáról – megfelelő térítés ellenében – a nyugdíjfolyósító szerv gondoskodik, feltéve, hogy a MÁV ZRt. Nyugdíj Igazgatóság a tagok említett szervezeteknek adott írásos nyilatkozata alapján december hóban teljesített levonást. A tagdíj ellátásból történő levonása az egyesületnek adott írásos felhatalmazás alapján azon tagok esetében is foganatosítható, akiknek az ellátásra való igényük 2008. január 1-jét megelőzően megnyílt, és annak elbírálása ebben az időpontban a MÁV ZRt. Nyugdíj Igazgatóság, illetőleg a Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság hatáskörébe tartozott volna. A tagdíjlevonások és a térítés elszámolásának rendjét az egyesületek és a nyugdíjfolyósító szerv megállapodásban rögzítik.”
+## 175–178. §[^157]
 
 ## 158. A Magyarság Hírnevéért Díjról szóló 183/1997. (X. 17.) Korm. rendelet módosítása
+
+[^157]: A 175–178. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

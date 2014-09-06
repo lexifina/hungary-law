@@ -1,3 +1,5 @@
-## 5. § A Magyar Népköztársaság Kormánya és a Német Demokratikus Köztársaság Kormánya között, a Magyar Népköztársaság és a Német Demokratikus Köztársaság középiskoláiban, szakközépiskoláiban, főiskoláin és egyetemein folytatott tanulmányok befejezéséről, valamint a tudományos fokozatok és címek megszerzéséről kiállított okiratok egyenértékűségének kölcsönös elismeréséről létrejött, az 1973. évi május hó 22. napján Berlinben aláírt Jegyzőkönyv kihirdetéséről szóló 49/1974. (XII. 24.) MT rendelet 3. § (2) bekezdésében az „az oktatási miniszter” szövegrész helyébe az „az oktatásért felelős miniszter” szöveg lép.
+## 5. §[^5]
 
 ## 6. A Magyar Népköztársaság Kormánya és a Koreai Népi Demokratikus Köztársaság Kormánya között az 1974. évi június hó 24. napján Budapesten aláírt egészségügyi együttműködési egyezmény kihirdetéséről szóló 14/1975. (V. 14.) MT rendelet módosítása
+
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

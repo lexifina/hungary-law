@@ -1,5 +1,6 @@
-## 157. § Hatályát veszti a Magyar Állami Eötvös Ösztöndíjról szóló 54/1994. (IV. 13.) Korm. rendelet 7. § (1) bekezdése.
+## 156–157. §[^145]
 
-## 146.[^1]
+## 146.[^146]
 
-[^1]: A 146. alcím (158–162. §) a 845. § (2) bekezdése alapján 2014. szeptember 10-én lép hatályba.
+[^145]: A 156–157. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^146]: A 146. alcím (158–162. §) a 845. § (2) bekezdése alapján 2014. szeptember 10-én lép hatályba.

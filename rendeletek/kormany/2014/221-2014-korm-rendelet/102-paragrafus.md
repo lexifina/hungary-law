@@ -1,3 +1,5 @@
-## 101. § A Bécsben, 1986. szeptember 26-án aláírt, a nukleáris balesetekről adandó gyors értesítésről szóló egyezmény kihirdetéséről szóló 28/1987. (VIII. 9.) MT rendelet 4. § (2) bekezdésében az „Országos Atomenergia Hivatal főigazgatója az érdekelt miniszterekkel egyetértésben” szövegrész helyébe az „energiapolitikáért felelős miniszter és az Országos Atomenergia Hivatal főigazgatója” szöveg lép.
+## 101. §[^101]
 
 ## 102. A Bécsben, 1986. szeptember 26-án aláírt, a nukleáris baleset, vagy sugaras veszélyhelyzet esetén való segítségnyújtásról szóló egyezmény kihirdetéséről szóló 29/1987. (VIII. 9.) MT rendelet módosítása
+
+[^101]: A 101. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

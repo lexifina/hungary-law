@@ -1,3 +1,5 @@
-## 280. § A Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a magyarországi levéltárakban őrzött, és az Egyesült Államok Holocaust Emlékmúzeuma részére átadott Holocaust-dokumentumokban található személyes adatok védelme tárgyában Washingtonban, 2003. november 5-én létrejött adatvédelmi szerződés kihirdetéséről szóló 231/2004. (VIII. 6.) Korm. rendelet 4. § (2) bekezdésében a „nemzeti kulturális örökség minisztere” szövegrész helyébe a „kultúráért felelős miniszter” szöveg lép.
+## 280. §[^234]
 
 ## 235. A végrehajtói kézbesítés részletes eljárási szabályairól szóló 250/2004. (VIII. 27.) Korm. rendelet módosítása
+
+[^234]: A 280. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

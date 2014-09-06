@@ -1,3 +1,5 @@
-## 99. § A Magyar Népköztársaság Kormánya és a Csehszlovák Szocialista Köztársaság Kormánya között Budapesten, 1986. évi november hó 24. napján aláírt, a magyar–csehszlovák vasúti forgalom szabályozásáról szóló Egyezmény kihirdetéséről szóló 23/1987. (VII. 22.) MT rendelet 3. § (2) bekezdésében az „a közlekedési, hírközlési és vízügyi miniszter” szövegrész helyébe az „a közlekedésért felelős miniszter” szöveg lép.
+## 99. §[^99]
 
 ## 100. A Magyar Népköztársaság Kormánya és a Svéd Királyság Kormánya között a beruházások elősegítéséről és kölcsönös védelméről szóló megállapodás kihirdetéséről szóló 25/1987. (VII. 28.) MT rendelet módosítása
+
+[^99]: A 99. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

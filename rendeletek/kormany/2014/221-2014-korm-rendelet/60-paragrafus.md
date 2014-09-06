@@ -1,3 +1,5 @@
-## 59. § A Magyar Népköztársaság Kormánya és a Szocialista Népi Líbiai Arab Jamahiriya között Tripoliban, az 1979. évi január hó 22. napján aláírt, az egészségügyi együttműködésről szóló egyezmény kihirdetéséről szóló 11/1980. (IV. 4.) MT rendelet 3. § (2) bekezdésében az „a népjóléti miniszter” szövegrész helyébe az „az egészségügyért felelős miniszter” szöveg lép.
+## 59. §[^59]
 
 ## 60. A Magyar Népköztársaság Kormánya és az Olasz Köztársaság Kormánya között Rómában, az 1979. évi október hó 30. napján aláírt, az egészségügyi együttműködésről szóló egyezmény kihirdetéséről szóló 15/1980. (V. 23.) MT rendelet módosítása
+
+[^59]: Az 59. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

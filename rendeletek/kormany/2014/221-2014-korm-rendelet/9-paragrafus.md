@@ -1,3 +1,5 @@
-## 8. § A Magyar Népköztársaság Kormánya és a Német Demokratikus Köztársaság Kormánya között az 1974. évi december hó 13. napján Berlinben aláírt egészségügyi együttműködési egyezmény kihirdetéséről szóló 25/1975. (IX. 17.) MT rendelet 3. § (2) bekezdésében az „a népjóléti miniszter” szövegrész helyébe az „az egészségügyért felelős miniszter” szöveg lép.
+## 8. §[^8]
 
 ## 9. A Magyar Népköztársaságban és a Szovjet Szocialista Köztársaságok Szövetségében kiállított, iskolai végzettséget, valamint tudományos fokozatot tanúsító okiratok egyenértékűségének kölcsönös elismeréséről szóló, Moszkvában 1974. évi október hó 11. napján aláírt megállapodás kihirdetéséről szóló 37/1975. (XII. 19.) MT rendelet módosítása
+
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

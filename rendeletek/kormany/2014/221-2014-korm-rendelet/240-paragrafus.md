@@ -1,5 +1,7 @@
-## 239. § Hatályát veszti az országos sugárzási helyzet és radioaktív anyagkoncentrációk ellenőrzéséről szóló 275/2002. (XII. 21.) Korm. rendelet 1. számú melléklet 6. és 7. pontja, 3. számú melléklet 5. és 8. pontja.
+## 238–239. §[^208]
 
 ## 209. A balatoni vízpart-rehabilitációs szabályozás követelményeiről szóló
 
 ## 283/2002. (XII. 21.) Korm. rendelet módosítása
+
+[^208]: A 238–239. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

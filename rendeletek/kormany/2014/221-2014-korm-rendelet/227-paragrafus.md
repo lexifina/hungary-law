@@ -1,3 +1,5 @@
-## 226. § A nemzeti gyászról szóló 237/2001. (XII. 10.) Korm. rendelet 4. §-ában a „nemzeti kulturális örökség minisztere” szövegrész helyébe a „kormányzati tevékenység összehangolásáért felelős miniszter” szöveg lép.
+## 226. §[^198]
 
 ## 199. A Magyar Formatervezési Tanácsról szóló 266/2001. (XII. 21.) Korm. rendelet módosítása
+
+[^198]: A 226. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

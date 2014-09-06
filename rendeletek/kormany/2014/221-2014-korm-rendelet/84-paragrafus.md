@@ -1,3 +1,5 @@
-## 83. § A Magyar Népköztársaság Kormánya és Kuvait Állam Kormánya között Budapesten, 1981. évi június hó 22. napján aláírt, a posta és távközlés területén történő együttműködésről szóló Megállapodás kihirdetéséről szóló 34/1982. (VIII. 18.) MT rendelet 3. § (2) bekezdésében az „a közlekedési, hírközlési és vízügyi miniszter” szövegrész helyébe az „az elektronikus hírközlésért felelős miniszter és a postaügyért felelős miniszter” szöveg lép.
+## 83. §[^83]
 
 ## 84. A Magyar Népköztársaság Kormánya és a Tunéziai Köztársaság Kormánya között Budapesten, 1981. évi július hó 6. napján aláírt nemzetközi közúti fuvarozási Megállapodás kihirdetéséről szóló 35/1982. (VIII. 25.) MT rendelet módosítása
+
+[^83]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

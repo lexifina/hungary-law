@@ -1,3 +1,5 @@
-## 203. § A Magyar Köztársaság Kormánya és az Európa Tanács tagállamai között, 1992. január 16-án kelt, Vallettában aláírt, a régészeti örökség védelméről szóló Európai Egyezmény kihirdetéséről szóló 149/2000. (VIII. 31.) Korm. rendelet 3. §-ában a „nemzeti kulturális örökség minisztere” szövegrész helyébe a „kulturális örökség védelméért felelős miniszter” szöveg lép.
+## 203. §[^180]
 
 ## 181. A Bevándorlási és Állampolgársági Hivatalról szóló 162/1999. (XI. 19.) Korm. rendelet módosítása
+
+[^180]: A 203. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

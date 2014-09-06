@@ -1,3 +1,5 @@
-## 186. § A Magyar Köztársaság Kormánya és az Orosz Föderáció Kormánya között a kultúra, a tudomány és az oktatás területén folyó együttműködésről szóló Egyezmény kihirdetéséről szóló 148/1998. (IX. 18.) Korm. rendelet 3. § (2) bekezdésében az „oktatási miniszter, kulturális területen a nemzeti kulturális örökség minisztere” szövegrész helyébe az „oktatásért felelős miniszter, kulturális területen a kultúráért felelős miniszter” szöveg lép.
+## 186. §[^163]
 
 ## 164. A Magyar Köztársaság Kormánya és a Libanoni Köztársaság Kormánya közötti kulturális, felsőoktatási és tudományos együttműködési Egyezmény kihirdetéséről szóló 149/1998. (IX. 18.) Korm. rendelet módosítása
+
+[^163]: A 186. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

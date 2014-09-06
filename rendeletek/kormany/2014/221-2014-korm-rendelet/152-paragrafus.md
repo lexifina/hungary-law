@@ -1,1 +1,0 @@
-## „(6) A polgárnak a magyar állampolgárságról való lemondás időpontjában a személyi azonosítójáról és a lakcíméről szóló hatósági igazolványát le kell adnia a konzuli tisztviselőnek, a központi szervnél, vagy a tartózkodási helye szerint illetékes járási hivatalnál.”

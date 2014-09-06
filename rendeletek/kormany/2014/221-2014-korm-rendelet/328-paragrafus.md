@@ -1,5 +1,6 @@
-## 327. § A településrendezési és az építészeti-műszaki tervtanácsokról szóló 252/2006. (XII. 7.) Korm. rendelet 3/A. §-ában a „régészeti örökség és a műemléki érték védelméért” szövegrész helyébe a „kulturális örökség védelméért” szöveg lép.
+## 327. §[^266]
 
-## 267.[^7]
+## 267.[^267]
 
-[^7]: A 267. alcím (328–335. §) a 845. § (2) bekezdése alapján 2014. szeptember 10-én lép hatályba.
+[^266]: A 327. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^267]: A 267. alcím (328–335. §) a 845. § (2) bekezdése alapján 2014. szeptember 10-én lép hatályba.

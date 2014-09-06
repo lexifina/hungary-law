@@ -1,3 +1,0 @@
-## 397. § Az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 25. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) Műemlék, védett kulturális javak tulajdonjogának átruházásához, továbbá a védetté nyilvánított régészeti lelőhely, védett természeti területként, illetve Natura 2000 területként nyilvántartott ingatlan tulajdonjogának átruházásához a védettség jellege szerint felelős miniszter előzetes egyetértése szükséges. A felelős miniszter egyetértését a Vtv. 34. § (2) bekezdés a) és b) pontja alapján lefolytatott versenyeztetési eljárás során annak megkezdését, a Vtv. 34. § (2) bekezdés c) pontja esetében pedig a szerződés megkötését engedélyező döntés előtt be kell szerezni.”

@@ -1,3 +1,5 @@
-## 91. § A Magyar Népköztársaság Kormánya és az Angolai Népi Köztársaság Kormánya között Budapesten az 1978. évi szeptember hó 20. napján aláírt egészségügyi együttműködési egyezmény kihirdetéséről szóló 17/1984. (III. 27.) MT rendelet 3. § (2) bekezdésében az „a népjóléti miniszter” szövegrész helyébe az „az egészségügyért felelős miniszter” szöveg lép.
+## 91. §[^91]
 
 ## 92. A Magyar Népköztársaság Kormánya és a Belga Királyság Kormánya között a jövedelem- és a vagyonadók területén a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról szóló egyezmény kihirdetéséről szóló 20/1984. (IV. 18.) MT rendelet módosítása
+
+[^91]: A 91. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

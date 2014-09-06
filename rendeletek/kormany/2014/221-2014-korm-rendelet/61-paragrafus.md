@@ -1,3 +1,5 @@
-## 60. § A Magyar Népköztársaság Kormánya és az Olasz Köztársaság Kormánya között Rómában, az 1979. évi október hó 30. napján aláírt, az egészségügyi együttműködésről szóló egyezmény kihirdetéséről szóló 15/1980. (V. 23.) MT rendelet 3. § (2) bekezdésében az „a népjóléti miniszter” szövegrész helyébe az „az egészségügyért felelős miniszter” szöveg lép.
+## 60. §[^60]
 
 ## 61. A Magyar Népköztársaság Kormánya és a Máltai Köztársaság Kormánya között Budapesten, az 1978. évi szeptember hó 6. napján aláírt kulturális és tudományos együttműködési egyezmény kihirdetéséről szóló 18/1980. (V. 29.) MT rendelet módosítása
+
+[^60]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

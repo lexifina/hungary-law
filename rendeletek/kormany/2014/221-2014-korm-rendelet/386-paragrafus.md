@@ -1,5 +1,5 @@
 ## 384–385. §
 
-## 285.[^12]
+## 285.[^288]
 
-[^12]: A 285. alcím (386. §) a 845. § (2) bekezdése alapján 2014. szeptember 10-én lép hatályba.
+[^288]: A 285. alcím (386. §) a 845. § (2) bekezdése alapján 2014. szeptember 10-én lép hatályba.

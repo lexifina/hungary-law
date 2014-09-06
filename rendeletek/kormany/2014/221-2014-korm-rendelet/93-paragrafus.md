@@ -1,3 +1,5 @@
-## 92. § A Magyar Népköztársaság Kormánya és a Belga Királyság Kormánya között a jövedelem- és a vagyonadók területén a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról szóló egyezmény kihirdetéséről szóló 20/1984. (IV. 18.) MT rendelet 3. § (2) bekezdésében az „a pénzügyminiszter” szövegrész helyébe az „az adópolitikáért felelős miniszter” szöveg lép.
+## 92. §[^92]
 
 ## 93. Az iskolai végzettséget, valamint tudományos fokozatot tanúsító okiratok egyenértékűségének kölcsönös elismeréséről szóló magyar–laoszi megállapodás kihirdetéséről szóló 25/1984. (VIII. 8.) MT rendelet módosítása
+
+[^92]: A 92. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 253. § A mozgásában korlátozott személy parkolási igazolványáról szóló 218/2003. (XII. 11.) Korm. rendelet 1. § (2) bekezdésében az „az igazságügyi és rendészeti miniszter” szövegrész helyébe az „a közlekedésrendészetért felelős miniszter” szöveg lép.
+## 253. §[^218]
 
 ## 219. A magyar vízi utakon külföldi államok lobogója alatt közlekedő tengeri hajók biztonsági ellenőrzéséről szóló 225/2003. (XII. 13.) Korm. rendelet módosítása
+
+[^218]: A 253. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

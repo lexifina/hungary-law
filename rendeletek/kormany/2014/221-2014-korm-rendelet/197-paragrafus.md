@@ -1,3 +1,5 @@
-## 196. § A Szabad Magyarországért Emléklap alapításáról és adományozásáról, valamint a nemzeti helytállásért elnevezésű pótlék bevezetéséről szóló 173/1995. (XII. 27.) Korm. rendelet módosításáról szóló 110/1999. (VII. 7.) Korm. rendelet 5. §-ában a „Miniszterelnöki Hivatal” szövegrész helyébe a „kormányzati tevékenység összehangolásáért felelős miniszter” szöveg, a „Hivatal költségvetésében” szövegrész helyébe a „kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium költségvetési fejezetében” szöveg lép.
+## 196. §[^173]
 
 ## 174. Az országhatáron átterjedő környezeti hatások vizsgálatáról szóló, Espooban (Finnország), 1991. február 26. napján aláírt egyezmény kihirdetéséről szóló 148/1999. (X. 13.) Korm. rendelet módosítása
+
+[^173]: A 196. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

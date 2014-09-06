@@ -1,1 +1,0 @@
-## 156. § A Magyar Állami Eötvös Ösztöndíjról szóló 54/1994. (IV. 13.) Korm. rendelet 6. § (3) bekezdés nyitó szövegrészében az „A Művelődési és Közoktatási Minisztérium” szövegrész helyébe az „Az oktatásért felelős miniszter” szöveg lép.

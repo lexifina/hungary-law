@@ -1,3 +1,5 @@
-## 87. § A Magyar Népköztársaság Kormánya és a Csehszlovák Szocialista Köztársaság Kormánya között Budapesten, az 1981. évi december hó 22. napján aláírt egészségügyi és orvostudományi együttműködési egyezmény kihirdetéséről szóló 80/1982. (XII. 27.) MT rendelet 3. § (2) bekezdésében az „az egészségügyi miniszter” szövegrész helyébe az „az egészségügyért felelős miniszter” szöveg lép.
+## 87. §[^87]
 
 ## 88. A Magyar Népköztársaság Kormánya és a Ciprusi Köztársaság Kormánya között Budapesten, az 1981. évi november hó 30. napján aláírt, a jövedelem- és a vagyonadók területén a kettős adóztatás elkerüléséről szóló egyezmény kihirdetéséről szóló 82/1982. (XII. 29.) MT rendelet módosítása
+
+[^87]: A 87. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
