@@ -14,9 +14,9 @@ b) 2013. július 1-je és 2013. december 31-e között a teljesítményértékel
 
 kell tekinteni.
 
-(4)[^11] A katonai állomány és az Információs Hivatal hivatásos állománya tagjára e rendelet szabályait 2014. január 1-jétől kell alkalmazni.
+(4)[^12] A katonai állomány és az Információs Hivatal hivatásos állománya tagjára e rendelet szabályait 2014. január 1-jétől kell alkalmazni.
 
-(5)[^12] A 2013. évre vonatkozóan a teljesítményértékelés ajánlott elemeinek szervezeti szintű egységes alkalmazásáról 2013. július 31-ig a közigazgatási szerv vezetője is dönthet.
+(5)[^13] A 2013. évre vonatkozóan a teljesítményértékelés ajánlott elemeinek szervezeti szintű egységes alkalmazásáról 2013. július 31-ig a közigazgatási szerv vezetője is dönthet.
 
-[^11]: A 25. § (4) bekezdése az 552/2013. (XII. 31.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^12]: A 25. § (5) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^12]: A 25. § (4) bekezdése az 552/2013. (XII. 31.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^13]: A 25. § (5) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
