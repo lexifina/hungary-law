@@ -1,1 +1,0 @@
-Az elektronikus hírközlésről szóló 2003. évi C. törvény 182. § (3) bekezdés 14. pontjában kapott felhatalmazás alapján, az elektronikus hírközlésről szóló 2003. évi C. törvény 55/A. § (4) bekezdésében és az elektronikus hírközlésről szóló 2003. évi C. törvény 146. § (4) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
