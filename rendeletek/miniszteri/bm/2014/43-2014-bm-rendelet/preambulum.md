@@ -1,3 +1,0 @@
-A vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (8) bekezdés d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 29. és 30. pontjában meghatározott feladatkörömben eljárva,
-
-a 2. és 3. alcím tekintetében a szakképzésről szóló 2011. évi CLXXXVII. törvény 90. § a) és f) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 6. és 29. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 16. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben – a következőket rendelem el:
