@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a Vértes-hegység előtere táji értékeinek, valamint természetszerű állapotban fennmaradt élőhelyeinek megőrzése, különös tekintettel a mocsárrétekre és a lejtősztyepprétekre.
