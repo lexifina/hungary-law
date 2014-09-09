@@ -1,0 +1,1 @@
+## 2. § A Szelidi-tó természetvédelmi terület bővítésének célja „ex lege” szikes tóként védelem alatt álló, a Szelidi-tóval szerves egységet képező területek és a Szelidi-tó mint természeti képződmény táji és természeti értékei hatékonyabb természetvédelmi oltalmának biztosítása.
