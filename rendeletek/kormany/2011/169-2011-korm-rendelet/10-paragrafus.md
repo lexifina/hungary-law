@@ -6,7 +6,7 @@ a) a település megnevezése,
 
 b) a megye megnevezése,
 
-c)[^4] a járás (fővárosi kerület) megnevezése,
+c)[^8] a járás (fővárosi kerület) megnevezése,
 
 d) az önkormányzat tulajdonában lévő, felhasználható, összes tehermentes földterület nagysága (ha),
 
@@ -34,6 +34,7 @@ o) a közfoglalkoztató által benyújtott, folyamatban lévő hazai és európa
 
 (2) Az (1) bekezdésben meghatározott adatokat a helyi és kisebbségi önkormányzat, valamint ezek társulása, továbbá az önkormányzati költségvetési szerv által történő közfoglalkoztatás esetén az önkormányzat jegyzője elektronikus úton továbbítja az Adatbázis részére. A jegyző folyamatosan frissíti, aktualizálja, karbantartja az általa továbbított adatokat.
 
-(3) Az adatokhoz való teljes körű betekintési jogosultságot a Hivatal, a munkaügyi központ, valamint a Belügyminisztérium részére kell biztosítani.
+(3)[^9] Az adatokhoz való teljes körű betekintési jogosultságot a Hivatal, a munkaügyi központ, a közfoglalkoztatásért felelős miniszter, a foglalkoztatáspolitikáért felelős miniszter és a Nemzeti Munkaügyi Hivatal részére kell biztosítani.
 
-[^4]: A 10. § (1) bekezdés c) pontja a 414/2012. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^8]: A 10. § (1) bekezdés c) pontja a 414/2012. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^9]: A 10. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 573. § d) pontja szerint módosított szöveg.

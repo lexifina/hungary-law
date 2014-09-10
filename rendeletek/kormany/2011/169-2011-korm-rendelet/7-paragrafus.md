@@ -1,4 +1,4 @@
-## 6. §[^3]
+## 6. §[^4]
 
 ## 5. Az Adatbázis működtetése
 
@@ -6,4 +6,4 @@
 
 (2) Az Adatbázis használatára és működtetésére jogosult ügyintéző köteles a felhasználói azonosítóját és jelszavát az illetéktelen hozzáféréstől megvédeni, és a Hivatalnak haladéktalanul bejelenteni, ha a felhasználói azonosítója vagy jelszava elveszett, jogosulatlan személy számára vált hozzáférhetővé, vagy ha annak használatával kapcsolatosan rendellenességet, visszaélésre utaló körülményeket észlelt.
 
-[^3]: A 6. §-t a 324/2011. (XII. 28.) Korm. rendelet 33. §-a hatályon kívül helyezte.
+[^4]: A 6. §-t a 324/2011. (XII. 28.) Korm. rendelet 33. §-a hatályon kívül helyezte.
