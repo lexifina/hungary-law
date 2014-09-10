@@ -1,8 +1,10 @@
+## 1. §[^1] A Nemzeti Közlekedési Hatóság (a továbbiakban: Hatóság) a közlekedésért felelős miniszter irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
+
 ## A Hatóság szervezete
 
-2. §[^2] (1) A Hatóság székhelye: Budapest.
+2. §[^2] (1)[^3]
 
-(2) A Hatóság élén az elnök áll.
+(2)[^4] A Hatóság élén elnök áll.
 
 (3) A Hatóság a feladatait a – jogi személyiséggel nem rendelkező – központi szerve és különös hatáskörű országos illetékességű elsőfokú szervei (a továbbiakban: Hatóság elsőfokú szerve) útján látja el.
 
@@ -20,8 +22,12 @@ c) a Légügyi Hivatal, amelyet a légügyi elnök-helyettes vezet.
 
 (7) A Hatóság első fokú szervei közigazgatási hatósági hatáskörüket önállóan gyakorolják. A Hatóság első fokú szervének vezetője (elnök-helyettes) gyakorolja a Hatóság első fokú szervéhez telepített hatáskört és eljár az első fokú szerv nevében a közigazgatási hatósági eljárásokban.
 
-(8) A Hatóság elnöke vagy más kormánytisztviselője a Hatóság első fokú szervének vezetőjét vagy kiadmányozási jogkörrel rendelkező ügyintézőjét az első fokú közigazgatási hatósági eljárásban nem utasíthatja.
+(8)[^5] A Hatóság elnöke vagy más kormánytisztviselője a Hatóság első fokú szervének vezetőjét vagy ügyintézőjét az első fokú közigazgatási hatósági eljárásban nem utasíthatja.
 
 (9) A Hatóság első fokú szerve által hozott döntés elleni fellebbezést másodfokon – ha e rendelet másként nem rendelkezik – a Központ bírálja el.
 
+[^1]: Az 1. § a 221/2014. (IX. 4.) Korm. rendelet 328. §-ával megállapított szöveg.
 [^2]: A 2. § a 326/2010. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 335. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 2. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 335. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 2. § (8) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 329. §-ával megállapított szöveg.
