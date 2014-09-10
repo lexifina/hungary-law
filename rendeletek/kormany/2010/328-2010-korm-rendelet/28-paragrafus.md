@@ -2,13 +2,15 @@
 
 28. § (1)[^71] A Kormány a hígtrágya nitrátérzékeny területen történő mezőgazdasági felhasználása engedélyezésére irányuló első fokú eljárásban – a felszín alatti vizek minőségének védelme kérdésében – vízvédelmi hatóságot szakhatóságként jelöli ki.
 
-(2) A Kormány a szennyvíz és szennyvíziszap mezőgazdasági felhasználásának engedélyezése és az engedély meghosszabbítása iránti első fokú eljárásban, továbbá a nem mezőgazdasági eredetű nem veszélyes hulladék mezőgazdasági felhasználásának engedélyezési és az engedély meghosszabbítása iránti első fokú eljárásban,
+(2)[^72] A Kormány a szennyvíz és szennyvíziszap mezőgazdasági felhasználásának engedélyezése és az engedély meghosszabbítása iránti első fokú eljárásban, továbbá a nem mezőgazdasági eredetű nem veszélyes hulladék mezőgazdasági felhasználásának engedélyezési és az engedély meghosszabbítása iránti első fokú eljárásban
 
-a)[^72] – a talajvédelmi tervnek és a tervezett tevékenységnek a felszín alatti vizek minősége védelme követelményeinek való megfelelősége, továbbá annak elbírálása kérdésében, hogy a szennyvíziszap mezőgazdasági felhasználása során 5 méteren belüli talajvízszint esetén a talajvízszint figyelemmel kísérése érdekében szükséges-e észlelőkút létesítése, és a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, a környezetvédelmi és természetvédelmi felügyelőséget, valamint
+a) – a vizek minőségét, egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők vizsgálatával kapcsolatos szakkérdésben – a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézetét (a továbbiakban: járási népegészségügyi intézet),
 
-b)[^73] – a vizek minőségét, egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők vizsgálatával kapcsolatos szakkérdésben –, a megyei, fővárosi kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézetét (a továbbiakban: járási népegészségügyi intézet)
+b) – a talajvédelmi tervnek és a tervezett tevékenységnek a felszín alatti vizek minősége védelme követelményeinek való megfelelősége kérdésében, továbbá annak elbírálása kérdésében, hogy a szennyvíziszap mezőgazdasági felhasználása során 5 méteren belüli talajvízszint esetén a talajvízszint figyelemmel kísérése érdekében szükséges-e észlelőkút létesítése – a területi vízügyi hatóságot, valamint
 
-szakhatóságként jelöli ki.
+c) – abban a szakkérdésben, hogy a tevékenység a környezet és a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – a környezetvédelmi és természetvédelmi felügyelőséget
+
+## szakhatóságként jelöli ki.
 
 (3) A szennyvíz és szennyvíziszap mezőgazdasági felhasználásának engedélyezési eljárásában
 
@@ -25,5 +27,4 @@ b) a tereprendezés során kitermelt ásványi nyersanyag felhasználása, ért�
 kapcsolatos szakkérdésben a bányakapitányságot szakhatóságként jelöli ki.
 
 [^71]: A 28. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 97. § b) pontja szerint módosított szöveg.
-[^72]: A 28. § (2) bekezdés a) pontja a 42/2014. (II. 24.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^73]: A 28. § (2) bekezdés b) pontja a 174/2012. (VII. 26.) Korm. rendelet 79. § (10) bekezdés d) pontja szerint módosított szöveg.
+[^72]: A 28. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 520. §-ával megállapított szöveg.
