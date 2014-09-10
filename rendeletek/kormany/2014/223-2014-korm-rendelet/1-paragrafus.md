@@ -1,3 +1,9 @@
-## I–III. FEJEZET[^1]
+## I. Fejezet
 
-[^1]: Az I–III. Fejezet (1–14. §) a 15. § (2) bekezdése alapján 2014. szeptember 10-én lép hatályba.
+## AZ ORSZÁGOS VÍZÜGYI FŐIGAZGATÓSÁG
+
+## 1. Országos Vízügyi Főigazgatóság jogállása
+
+1. § (1) Az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF) a vízügyi igazgatási szervek irányításáért felelős miniszter (a továbbiakban: miniszter) irányítása alá tartozó központi költségvetési szerv.
+
+(2) Az OVF működési köre az ország egész területére kiterjed.

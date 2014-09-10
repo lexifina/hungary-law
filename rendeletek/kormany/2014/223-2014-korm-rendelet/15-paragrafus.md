@@ -1,4 +1,4 @@
-## 1–14. §
+## 14. § A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és a hatóság szakhatósági állásfoglalását a megkeresés beérkezését követő naptól számított harminc napon belül köteles megadni. A szakhatósági állásfoglalás megadására tizenöt nap áll rendelkezésre, ha az eljáró hatóság a sürgősséget megkeresésében megindokolja.
 
 ## IV. Fejezet
 
