@@ -12,7 +12,7 @@
 
 | 5 | d) világörökségi és világörökségi várományos terület | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ |
 
-| 6 | e) országos vízminőség-védelmi terület | Nemzeti Környezetügyi Intézet | Nemzeti Környezetügyi Intézet |
+| 6 | e) országos vízminőség-védelmi terület | Országos Vízügyi Főigazgatóság | Országos Vízügyi Főigazgatóság |
 
 | 7 | f) nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkárelhárítási célú szükségtározók területe | Országos Vízügyi Főigazgatóság | Országos Vízügyi Főigazgatóság |
 
@@ -36,4 +36,4 @@
 
 2. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^30]
 
-[^30]: A 2. melléklet a 25/2014. (II. 7.) Korm. rendelet 19. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 455. § (1) bekezdése szerint módosított szöveg.
+[^30]: A 2. melléklet a 25/2014. (II. 7.) Korm. rendelet 19. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 455. § (1) és (2) bekezdése szerint módosított szöveg.
