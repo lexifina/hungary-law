@@ -6,12 +6,17 @@
 
 (2) A Kormány a kijelölő hatóságnak a nemzeti létfontosságú rendszerelemmé történő kijelölésre, valamint a kijelölés visszavonására vonatkozó eljárásában – abban a kérdésben, hogy a horizontális kritériumok teljesülésének lehetősége fennáll-e – szakhatóságként első fokon a hivatásos katasztrófavédelmi szerv üzemeltető telephelye szerinti helyi szervét, másodfokon a hivatásos katasztrófavédelmi szerv üzemeltető telephelye szerinti területi szervét jelöli ki.
 
+(2a)[^1] Ha kijelölő hatóságként a hivatásos katasztrófavédelmi szerv központi, területi vagy helyi szerve jár el, a (2) bekezdés szerinti szakkérdést a hatósági eljárás során a kijelölő hatóság vizsgálja.
+
 (3) A kijelölő hatóság a határozatában:
 
-a) jóváhagyja az üzemeltető azonosítási jelentését és a rendszerelemet – feltéve, hogy az ágazati kritériumok közül és a szakhatóság állásfoglalása alapján az 1. mellékletben felsorolt horizontális kritériumok közül legalább egy-egy bekövetkezésének lehetősége fennáll – nemzeti létfontosságú rendszerelemként jelöli ki és elrendeli nyilvántartásba vételét,
+a)[^2] jóváhagyja az üzemeltető azonosítási jelentését és a rendszerelemet – feltéve, hogy az ágazati kritériumok közül és a szakhatóság állásfoglalása, a (2a) bekezdés szerinti esetben a hatóság döntése alapján az 1. mellékletben felsorolt horizontális kritériumok közül legalább egy-egy bekövetkezésének lehetősége fennáll – nemzeti létfontosságú rendszerelemként jelöli ki és elrendeli nyilvántartásba vételét,
 
 b) jóváhagyja az üzemeltető azonosítási jelentését és a kijelölést visszavonja, valamint elrendeli a nyilvántartásból való törlést,
 
 c) a kijelölésre, kijelölés visszavonására irányuló javaslatot elutasítja, vagy legfeljebb 90 napos határidő tűzésével és a feltárt hibák, hiányosságok tételes megjelölésével új azonosítási jelentés benyújtását írja elő, vagy
 
 d) jóváhagyja, hogy az üzemeltető egyetlen rendszerelemet sem azonosított lehetséges létfontosságú rendszerelemként.
+
+[^1]: A 4. § (2a) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 721. §-a iktatta be.
+[^2]: A 4. § (3) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 723. § a) pontja szerint módosított szöveg.
