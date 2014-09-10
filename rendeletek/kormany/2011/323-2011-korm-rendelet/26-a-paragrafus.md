@@ -1,3 +1,3 @@
-## 26. §[^59]
+## 26. §[^71]
 
-[^59]: A 26. §-t a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés k) pontja hatályon kívül helyezte.
+[^71]: A 26. §-t a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés k) pontja hatályon kívül helyezte.
