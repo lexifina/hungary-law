@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-91-20-2
 | 2011-01-01 | 2007-91-20-22.4 | 289/2010. (XII. 21.) Korm. rendelet |
 | 2012-01-01 | 2007-91-20-22.5 | 300/2011. (XII. 22.) Korm. rendelet |
 | 2014-01-01 | 2007-91-20-22.6 | 182/2009. (IX. 10.) Korm. rendelet |
+| 2014-09-10 | 2007-91-20-22.7 | 300/2011. (XII. 22.) Korm. rendelet |
