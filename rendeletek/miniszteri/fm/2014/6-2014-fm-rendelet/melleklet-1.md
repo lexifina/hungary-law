@@ -1,3 +1,5 @@
+## 5. §[^1]
+
 1. melléklet a 6/2014. (IX. 1.) FM rendelethez
 
 ## A Szelidi-tó természetvédelmi terület bővítési területének természetvédelmi kezelési terve
@@ -231,3 +233,5 @@ A terület hatósági tájékoztató táblával történő megjelölését a tá
 3.2.3.3. E rendelet hatálybalépését követő 1 éven belül a vízügyi hatóságnak a területen áthaladó csatornák vízjogi üzemeltetési engedélyeit felül kell vizsgálnia.
 
 3.2.3.4. A tervezési területen áthaladó út karbantartása csak az igazgatósággal folytatott előzetes egyeztetést követően történhet. Az utak karbantartáshoz építési-bontási törmelék csak abban az esetben használható fel, ha az kizárólag válogatott, aprított és homogén inert hulladékot tartalmaz és azt a természetvédelmi kezelésért felelős szerv jóváhagyta.
+
+[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
