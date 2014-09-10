@@ -1,4 +1,4 @@
-## 721–723. §
+## lép.
 
 ## 466. A Rendszerváltás Történetét Kutató Intézet és Archívum létrehozásáról szóló
 

@@ -1,0 +1,1 @@
+## „(3a) A munkaügyi központ igazgatója a közfoglalkoztatásért felelős igazgató-helyettes kinevezésére és felmentésére vonatkozó Khtv. 15. § (2) bekezdése szerinti hatáskörét a közfoglalkoztatásért felelős miniszter egyetértésével gyakorolja.”

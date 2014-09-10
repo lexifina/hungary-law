@@ -1,5 +1,5 @@
-## 809. §[^527]
+## 809. §[^497]
 
 ## 513. A Magyar Nyelvstratégiai Intézet létrehozásáról szóló 55/2014. (III. 4.) Korm. rendelet módosítása
 
-[^527]: A 809. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^497]: A 809. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

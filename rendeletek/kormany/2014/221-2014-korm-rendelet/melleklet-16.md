@@ -1,3 +1,9 @@
-16–17. melléklet a 221/2014. (IX. 4.) Korm. rendelethez[^542]
+16. melléklet a 221/2014. (IX. 4.) Korm. rendelethez
 
-[^542]: A 16–17. melléklet a 845. § (2) bekezdése alapján 2014. szeptember 10-én lép hatályba.
+1. A műszaki biztonsági hatóságok műszaki biztonsági tevékenységének és a Magyar Kereskedelmi Engedélyezési Hivatal piacfelügyeleti eljárásának részletes szabályairól szóló 321/2010. (XII. 27.) Korm. rendelet 4. mellékletében foglalt táblázat 6. és 6a. pontja helyébe a következő rendelkezés lép:
+
+|  | ( Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban ) |
+
+| 6. | Tárolótartály létesítése, használatbavétele, átalakítása és megszüntetése esetén, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. | 1. Minden esetben annak elbírálása kérdésében, hogy a tervezett tárolótartály a levegőtisztaság- védelmi előírásoknak és határértékeknek, levegővédelmi szempontból az elérhető legjobb technika követelményeinek a kérelem szerint vagy további feltételek mellett megfelel-e. 2. Barlang védőövezetében létesítendő tárolótartály esetében, annak elbírálása kérdésében, hogy a tervezett tárolótartály a barlang védelmére vonatkozó jogszabályi követelményeknek a kérelem szerint vagy további feltételek mellett megfelel-e. | környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 6a. | Tárolótartály létesítése, használatbavétele, átalakítása és megszüntetése esetén, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. | 1. Minden esetben annak elbírálása kérdésében, hogy a tervezett tárolótartály a) a felszíni vizek és a felszín alatti vizek védelme követelményeinek a kérelem szerint vagy további feltételek mellett megfelel-e, b) a vízbázis-védelem követelményeinek a kérelem szerint vagy további feltételek mellett megfelel-e. | területi vízügyi hatóság | országos vízügyi hatóság |

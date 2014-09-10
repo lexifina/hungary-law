@@ -1,0 +1,3 @@
+## 338. § A Magyar Bányászati és Földtani Hivatalról szóló 267/2006. (XII. 20.) Korm. rendelet 4/A. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+## „(9) A Kormány a bányászati hatóságnak a geotermikus védőidom megállapítására irányuló eljárásában – ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges –, a geotermikus védőidom kijelölésének a felszín alatti vizek minőségi védelmére, a vízkészlet-gazdálkodásra, az ivóvízbázisra és a vizek mennyiségi állapotára gyakorolt hatása vizsgálatának szakkérdésében, első fokú eljárásban a területi vízügyi hatóságot, másodfokú eljárásban az országos vízügyi hatóságot szakhatóságként jelöli ki.”

@@ -1,0 +1,9 @@
+17. melléklet a 221/2014. (IX. 4.) Korm. rendelethez
+
+1. A műszaki biztonsági hatóságok műszaki biztonsági tevékenységének és a Magyar Kereskedelmi Engedélyezési Hivatal piacfelügyeleti eljárásának részletes szabályairól szóló 321/2010. (XII. 27.) Korm. rendelet 5. mellékletében foglalt táblázat 2. és 3. pontja helyébe a következő rendelkezés lép:
+
+|  | ( Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban ) |
+
+| 2. | Veszélyes töltetű nyomástartó berendezés létesítése, használatbavétele, átalakítása és megszüntetése esetén, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. | 1. Minden esetben annak elbírálása kérdésében, hogy a tervezett tárolótartály a levegőtisztaság- védelmi előírásoknak és határértékeknek, levegővédelmi szempontból az elérhető legjobb technika követelményeinek a kérelem szerint vagy további feltételek mellett megfelel-e. 2. Barlang védőövezetében létesítendő tárolótartály esetében, annak elbírálása kérdésében, hogy a tervezett tárolótartály a barlang védelmére vonatkozó jogszabályi követelményeknek a kérelem szerint vagy további feltételek mellett megfelel-e. | környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3. | Veszélyes töltetű nyomástartó berendezés létesítése, használatbavétele, átalakítása és megszüntetése esetén, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. | Minden esetben annak elbírálása kérdésében, hogy a tervezett nyomástartó berendezés a) a felszíni vizek és a felszín alatti vizek védelme követelményeinek a kérelem szerint vagy további feltételek mellett megfelel-e, b) a vízbázis-védelem követelményeinek a kérelem szerint vagy további feltételek mellett megfelel-e. | területi vízügyi hatóság | országos vízügyi hatóság |

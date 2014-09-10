@@ -1,6 +1,5 @@
-## 423. §[^311]
+## 423. §[^299]
 
-## 309.[^312]
+## 309. A természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és üzemeltetéséről szóló 78/2008. (IV. 3.) Korm. rendelet módosítása
 
-[^311]: A 423. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^312]: A 309. alcím (424. §) a 845. § (2) bekezdése alapján 2014. szeptember 10-én lép hatályba.
+[^299]: A 423. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

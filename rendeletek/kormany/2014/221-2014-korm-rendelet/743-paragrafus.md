@@ -1,5 +1,5 @@
-## 742. §[^493]
+## 742. §[^465]
 
 ## 478. A Stipendium Hungaricumról szóló 285/2013. (VII. 26.) Korm. rendelet módosítása
 
-[^493]: A 742. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^465]: A 742. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

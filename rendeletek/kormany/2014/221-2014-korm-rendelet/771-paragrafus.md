@@ -1,6 +1,5 @@
-## 770. §[^510]
+## 770. §[^482]
 
-## 495.[^511]
+## 495. A környezetvédelmi, természetvédelmi, vízvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 481/2013. (XII. 17.) Korm. rendelet módosítása
 
-[^510]: A 770. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^511]: A 495. alcím (771–786. §) a 845. § (2) bekezdése alapján 2014. szeptember 10-én lép hatályba.
+[^482]: A 770. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

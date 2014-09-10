@@ -1,6 +1,5 @@
-## 441–442. §[^324]
+## 441–442. §[^311]
 
-## 322.[^325]
+## 322. A Nemzeti Hírközlési Hatóság eljárásában közreműködő szakhatóságok kijelöléséről, valamint egyes szakhatósági közreműködések megszüntetéséről és módosításáról szóló 362/2008. (XII. 31.) Korm. rendelet módosítása
 
-[^324]: A 441–442. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^325]: A 322. alcím (443. §) a 845. § (2) bekezdése alapján 2014. szeptember 10-én lép hatályba.
+[^311]: A 441–442. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

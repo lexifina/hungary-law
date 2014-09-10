@@ -1,5 +1,1 @@
-## 270–276. §
-
-## 232.[^232]
-
-[^232]: A 232. alcím (277. §) a 845. § (2) bekezdése alapján 2014. szeptember 10-én lép hatályba.
+## 232. A vízgyűjtő-gazdálkodás egyes szabályairól szóló 221/2004. (VII. 21.) Korm. rendelet módosítása
