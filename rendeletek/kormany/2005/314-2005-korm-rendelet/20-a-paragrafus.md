@@ -1,4 +1,4 @@
-20/A. §[^105] (1) Az egységes környezethasználati engedély meghatározott időre, de legalább tíz évre adható meg a (2) bekezdésben foglalt kivétellel.
+20/A. §[^106] (1) Az egységes környezethasználati engedély meghatározott időre, de legalább tíz évre adható meg a (2) bekezdésben foglalt kivétellel.
 
 (2) A felügyelőség az egységes környezethasználati engedélyt 5 évre adja ki,
 
@@ -48,4 +48,4 @@ b) az engedélyt visszavonja vagy a kérelmet elutasítja, és szükség esetén
 
 (13) Az egységes környezethasználati engedélyezési eljárásban, ha országhatáron átterjedő jelentős környezeti hatás feltételezhető, a 12. § (4) bekezdése, valamint a 13–15. § szerinti eljárást kell alkalmazni, ha nemzetközi szerződés ettől eltérően nem rendelkezik.
 
-[^105]: A 20/A. §-t a 480/2013. (XII. 17.) Korm. rendelet 4. §-a iktatta be.
+[^106]: A 20/A. §-t a 480/2013. (XII. 17.) Korm. rendelet 4. §-a iktatta be.

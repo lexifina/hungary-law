@@ -176,7 +176,7 @@
 
 | 56. | Az 1. számú melléklet 1–55. pont B. és C. oszlopában és a 3. számú melléklet 1–128. pont B. és C. oszlopában meghatározott tevékenységek, illetve létesítmények olyan megváltoztatása vagy bővítése, ahol a változtatás az 1. számú melléklet 1–55. pont B. és C. oszlopában meghatározott tevékenység, illetve létesítmény megvalósítását jelenti |  |
 
-2. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^167]
+2. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^168]
 
 ## Az egységes környezethasználati engedélyhez kötött tevékenységek
 
@@ -342,7 +342,7 @@ ac) hulladék előkezelése égetés vagy együttégetés céljából,
 
 ad) salak és hamu kezelése,
 
-ae) fémhulladék aprítóberendezésekkel történő kezelése, ideértve a hulladék elektromos és elektronikus berendezéseket, valamint az elhasználódott járműveket és azok alkatrészeit,
+ae) fémhulladék kalapácsos shredderrel történő kezelése, ideértve a hulladék elektromos és elektronikus berendezéseket, valamint az elhasználódott járműveket és azok alkatrészeit,
 
 b) hasznosítása, vagy ezekre irányuló hasznosítási és ártalmatlanítási tevékenységek összessége 75 tonna/nap kapacitáson felül, az alábbiak közül egy vagy több tevékenység szerint, és a települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK tanácsi irányelv hatálya alá tartozó tevékenységek kivételével:
 
@@ -352,7 +352,7 @@ bb) hulladék előkezelése égetés vagy együttégetés céljából,
 
 bc) salak és hamu kezelése,
 
-bd) fémhulladék aprítóberendezésekkel történő kezelése, ideértve a hulladék elektromos és elektronikus berendezéseket, valamint az elhasználódott járműveket és azok alkatrészeit,
+bd) fémhulladék kalapácsos shredderrel történő kezelése, ideértve a hulladék elektromos és elektronikus berendezéseket, valamint az elhasználódott járműveket és azok alkatrészeit,
 
 c) kizárólag anaerob lebontással történő kezelése 100 tonna/nap kapacitáson felül.
 
@@ -440,4 +440,4 @@ Anyagok, tárgyak vagy termékek felületi kezelése szerves oldószerekkel, kü
 
 14.4. A települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK tanácsi irányelv hatályán kívül eső, az e mellékletben felsorolt tevékenységeket végző létesítmények által kibocsátott szennyvíz kezelése önálló üzemeltetésben.
 
-[^167]: A 2. melléklet a 480/2013. (XII. 17.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^168]: A 2. melléklet a 480/2013. (XII. 17.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 311. §-a szerint módosított szöveg.

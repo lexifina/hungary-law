@@ -2,9 +2,17 @@
 
 2/A. §[^27] (1) A 3. számú melléklet szerinti olyan tevékenység esetén, amely nem éri el a 3. számú mellékletben meghatározott küszöbértéket, vagy a 3. számú mellékletben a tevékenységre megállapított feltétel nem teljesül, kormányrendeletben meghatározott esetekben a felügyelőség – a környezethasználó által benyújtott, a 13. számú melléklet szerinti adatlap alapján – előzetes vizsgálati eljárás lefolytatása nélkül, más hatósági, szakhatósági eljárásban az 5. számú mellékletben foglaltak szerint vizsgálja, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e.
 
+(1a)[^28] A szakhatósági állásfoglalása kialakításához a felszíni- és felszín alatti vizek védelme vonatkozásában
+
+a) a környezetvédelmi és természetvédelmi felügyelőség az első fokon eljáró vízvédelmi hatóság,
+
+b) az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség a másodfokon eljáró vízvédelmi hatóság
+
+véleményét kikéri.
+
 (2) Jelentős környezeti hatás feltételezése esetén a felügyelőség szakhatósági állásfoglalásában, vagy a felügyelőség saját hatáskörébe tartozó engedélyezési eljárás során hozott, az eljárás felfüggesztéséről szóló végzésben – a 6. számú melléklet figyelembevételével – megállapítja a környezeti hatástanulmány tartalmi követelményeit.
 
-(2a)[^28] A környezeti hatástanulmányt az eljárás felfüggesztéséről szóló végzés jogerőre emelkedését követő három éven belül kell benyújtani.
+(2a)[^29] A környezeti hatástanulmányt az eljárás felfüggesztéséről szóló végzés jogerőre emelkedését követő három éven belül kell benyújtani.
 
 (3) Az (1) bekezdésben foglalt eljárást megelőző, előzetes szakhatósági állásfoglalás kérése esetén az ügyfél a 13. számú melléklet szerinti adatlapon túl – a (4) bekezdésben foglalt kivétellel – az engedélyezési eljáráshoz szükséges teljes engedélyezési tervdokumentációt vagy építészeti-műszaki dokumentációt és mellékleteket nyújtja be a felügyelőségnek.
 
@@ -18,4 +26,5 @@ c) 8/E. §-ának (1a) bekezdése szerinti esetben
 
 [^26]: A 2/A. §-t megelőző alcímet a 82/2011. (V. 18.) Korm. rendelet 14. §-a iktatta be.
 [^27]: A 2/A. §-t a 82/2011. (V. 18.) Korm. rendelet 14. §-a iktatta be.
-[^28]: A 2/A. § (2a) bekezdését a 308/2011. (XII. 23.) Korm. rendelet 6. §-a iktatta be.
+[^28]: A 2/A. § (1a) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 309. §-a iktatta be.
+[^29]: A 2/A. § (2a) bekezdését a 308/2011. (XII. 23.) Korm. rendelet 6. §-a iktatta be.
