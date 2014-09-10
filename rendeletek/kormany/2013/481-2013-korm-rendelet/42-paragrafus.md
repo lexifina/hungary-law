@@ -16,7 +16,7 @@ ae) az élőhelyek kialakításával és fenntartásával kapcsolatos feladatoka
 
 af) a sérült, károsodott élőhelyek helyreállításával, valamint rehabilitációjával kapcsolatos feladatokat;
 
-b) vezeti a működési területén lévő védett természeti területek és természeti értékek nyilvántartását, gondoskodik a természetvédelmi célú nyilvántartások vezetéséhez szükséges elsődleges és másodlagos adatgyűjtésről, illetve működteti a feladatkörével összefüggő területi monitoring és információs rendszert, együttműködik más információs és ellenőrző rendszerekkel;
+b)[^48] vezeti a működési területén lévő védett természeti területek és természeti értékek, valamint az egyedi tájértékek nyilvántartását, gondoskodik a természetvédelmi célú nyilvántartások vezetéséhez szükséges elsődleges és másodlagos adatgyűjtésről, illetve működteti a feladatkörével összefüggő területi monitoring és információs rendszert, együttműködik más információs és ellenőrző rendszerekkel;
 
 c) közreműködik
 
@@ -33,3 +33,5 @@ f) kapcsolatot tart természetvédelmi kezelési feladatokat ellátó más szerv
 g) segítséget nyújt a természet védelmével kapcsolatos feladatok ellátásához a helyi önkormányzatoknak;
 
 h) kapcsolatot tart a vízügyi igazgatási és hatósági szervekkel a jogszabályokban meghatározott vízgazdálkodási és vízvédelmi feladatok terén.
+
+[^48]: A 42. § b) pontja a 221/2014. (IX. 4.) Korm. rendelet 785. § g) pontja szerint módosított szöveg.

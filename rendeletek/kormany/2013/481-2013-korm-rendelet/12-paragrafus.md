@@ -4,4 +4,6 @@
 
 (2) A hulladékkezelő létesítmény telephelye szerinti felügyelőség az illetékes, ha a hulladékkezelés egységes környezethasználati engedély köteles tevékenység.
 
-(3) Az (1) és (2) bekezdésekben foglaltaktól eltérően az OKTF jár el a Ht. 13. §-ában és 14. §-ában foglalt tevékenység engedélyezése vagy nyilvántartásba vétele esetén környezetvédelmi hatóságként, ha a hulladékgazdálkodással kapcsolatos hatósági engedély megszerzése, vagy a nyilvántartásba vétel iránti kérelem több felügyelőség illetékességi területére terjed ki.
+(3)[^17] Az OKTF jár el a Ht. 12. § (2) bekezdésében, 13. §-ában és 14. §-ában foglalt tevékenység engedélyezése vagy nyilvántartásba vétele esetén környezetvédelmi hatóságként, ha a hulladékgazdálkodással kapcsolatos hatósági engedély megszerzése, vagy a nyilvántartásba vétel iránti kérelem több felügyelőség illetékességi területére terjed ki.
+
+[^17]: A 12. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 785. § d) pontja és 786. § e) pontja szerint módosított szöveg.

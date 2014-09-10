@@ -1,17 +1,24 @@
-## 3. § Az OKTF munkavállalói felett – a gazdasági vezető esetén a kinevezés és felmentés kivételével – a munkáltatói jogkört a főigazgató gyakorolja.
-
 ## 2. Környezetvédelmi és természetvédelmi felügyelőség
 
-4. § (1) A környezetvédelmi és természetvédelmi felügyelőség (a továbbiakban: felügyelőség)
+4. §[^5] (1) Az Alsó-tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség a miniszter irányítása alá tartozó központi költségvetési szerv.
 
-a) az OKTF alárendeltségben működő területi szerve,
+(2)[^6] A Dél-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség a miniszter irányítása alá tartozó központi költségvetési szerv.
 
-b) önállóan működő és gazdálkodó központi költségvetési szerv.
+(3) Az Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség a miniszter irányítása alá tartozó központi költségvetési szerv.
 
-(2) A felügyelőségek elnevezését, székhelyét és illetékességi területét az 1. melléklet tartalmazza.
+(4) Az Észak-magyarországi Környezetvédelmi és Természetvédelmi Felügyelőség a miniszter irányítása alá tartozó központi költségvetési szerv.
 
-(3) A felügyelőség igazgatóját a miniszter nevezi ki és menti fel, az egyéb munkáltatói jogokat felette az OKTF főigazgatója gyakorolja. A felügyelőséget az igazgató vezeti, aki – a (4) bekezdésben foglalt kivétellel – gyakorolja a munkáltatói jogokat a felügyelőség foglalkoztatottjai felett.
+(5) A Felső-tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség a miniszter irányítása alá tartozó központi költségvetési szerv.
 
-(4) A miniszter irányítási jogkörében a felügyelőség igazgatójának javaslatára kinevezi és felmenti a felügyelőség gazdasági vezetőjét.
+(6) A Közép-duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség a miniszter irányítása alá tartozó központi költségvetési szerv.
 
-(5) Az 1. melléklet I. pont 6. és 10. alpontja szerinti felügyelőség a székhelyén kívüli – 1. melléklet II. pontja szerinti – kirendeltsége útján is elláthatja a 40. §-ában meghatározott feladatokat.
+(7) A Közép-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség a miniszter irányítása alá tartozó központi költségvetési szerv.
+
+(8) A Közép-tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség a miniszter irányítása alá tartozó központi költségvetési szerv.
+
+(9) A Nyugat-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség a miniszter irányítása alá tartozó központi költségvetési szerv.
+
+(10) A Tiszántúli Környezetvédelmi és Természetvédelmi Felügyelőség a miniszter irányítása alá tartozó központi költségvetési szerv.
+
+[^5]: A 4. § a 221/2014. (IX. 4.) Korm. rendelet 772. §-ával megállapított szöveg.
+[^6]: [A 4. § (2) bekezdésének a 221/2014. (IX. 4.) Korm. rendelet 786. § (1) bekezdés a) pontjával elrendelt módosítása, amely szerint az „elnevezését,” szövegrész hatályát veszti, nem vezethető át.]

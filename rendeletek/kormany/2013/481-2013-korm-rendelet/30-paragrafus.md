@@ -4,12 +4,15 @@
 
 ## SZAKHATÓSÁGOK KIJELÖLÉSE
 
-## 9. Környezetvédelmi és vízvédelmi szakhatóságok kijelölése
+## 9. [^26] Környezetvédelmi szakhatóságok kijelölése
 
-## 30. § A Kormány
+## 30. §[^27] A Kormány
 
 a) az OKTF-t, valamint
 
 b) a felügyelőséget
 
-környezetvédelmi és vízvédelmi szakhatóságként jelöli ki.
+környezetvédelmi szakhatóságként jelöli ki.
+
+[^26]: A 9. alcím címe a 221/2014. (IX. 4.) Korm. rendelet 786. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^27]: A 30. § záró szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 786. § (1) bekezdés c) pontja szerint módosított szöveg.

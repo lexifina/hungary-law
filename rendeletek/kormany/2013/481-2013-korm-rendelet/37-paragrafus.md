@@ -1,4 +1,4 @@
-## 36. § A Kormány a környezetvédelmi hatóságnak a kivitelező részére a zajterhelési határértékek betartása alól egyes építési időszakokra, valamint az építkezés közben előforduló, előre nem tervezhető, határérték feletti zajterhelést okozó építőipari tevékenységekre vonatkozó felmentés megadása iránti első fokú eljárásában – az egészségkárosító kockázatok és esetleges hatások, a védendő környezetben a zaj és rezgés okozta egészségre gyakorolt hatások megítélése kérdésében – a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetét, a másodfokú eljárásban a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét szakhatóságként jelöli ki. Ha a szakhatóság az előírt határidőn belül nem ad ki állásfoglalást, és az ügyben nincs ellenérdekű ügyfél, a hozzájárulását megadottnak kell tekinteni.
+## felmentés megadása iránti elsőfokú eljárásában – az emberi egészségre gyakorolt hatások megítélése kérdésében – a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetét, a másodfokú eljárásban a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét szakhatóságként jelöli ki.
 
 ## 12. A természetvédelmi hatóság eljárásában közreműködő szakhatóságok kijelölése
 
@@ -6,7 +6,7 @@
 
 a) – a bekövetkezett kár helyreállítására alkalmas erdészeti beavatkozás megállapításának, valamint a kár naturáliákban meghatározható mértékének, a szennyező anyagok termőföldre gyakorolt hatásának, a kár helyreállítására alkalmas talajvédelmi beavatkozásoknak a meghatározása kérdésében – az első fokú eljárásban erdővédelem esetében a megyei kormányhivatal erdészeti igazgatóságát, talajvédelem esetében a megyei kormányhivatal növény- és talajvédelmi igazgatóságát, a másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt, valamint
 
-b) – a földtani közeget érintő károsodás, valamint a földtani természetvédelmet érintő tényfeltárás esetén a földtani közegben okozott veszélyek elleni védelem és a további hasznosítás, valamint a keletkező földtani adatok szolgáltatása kérdésében – az első fokú eljárásban a bányakapitányságot, a másodfokú eljárásban a Magyar Bányászati és Földtani Hivatalt
+b)[^37]
 
 ## szakhatóságként jelöli ki.
 
@@ -16,18 +16,23 @@ a) – az egészségkárosító kockázatok és esetleges hatások felmérése, 
 
 b) – a takarmányhigiéniai követelményeknek, a takarmányokra és azok felhasználására vonatkozó szabályoknak, a nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírásoknak, az állatvédelmi, valamint az állategészségügyi szabályoknak való megfelelés kérdésében – az első fokú eljárásban a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát, a másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt, valamint
 
-c) – az állattartás és állatvédelem helyi követelményeinek való megfelelés kérdésében – az első fokú eljárásban a települési önkormányzat jegyzőjét, a másodfokú eljárásban a fővárosi és megyei kormányhivatalt
+c)[^38] a településrendezési eszköznek és településfejlesztési tervnek való megfelelés kérdésében – az első fokú eljárásban a települési önkormányzat jegyzőjét, a másodfokú eljárásban a fővárosi és megyei kormányhivatalt
 
 szakhatóságként jelöli ki.
 
-(3) A Kormány a felügyelőségnek a természetvédelmi oltalom alatt álló vagy nemzetközi természetvédelmi egyezmény hatálya alá tartozó veszélyes állat tartásának, szaporításának, országba való behozatalának engedélyezésére irányuló eljárásában,
+(3)[^39] A Kormány a felügyelőségnek a különösen és közepesen veszélyes állat tartására, szaporítására, elidegenítésére, megvételére, illetve bemutatására irányuló engedélyezési eljárásában,
 
-a) – az állategészségügyi szabályoknak való megfelelés kérdésében – az első fokú eljárásban a megyei kormányhivatal járási hivatala járási állategészségügyi és élelmiszer-ellenőrző hivatalát, a másodfokú eljárásban a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát,
+a) – az állategészségügyi és állatvédelmi szabályoknak való megfelelés kérdésében – az első fokú eljárásban a megyei kormányhivatal járási hivatala járási állategészségügyi és élelmiszer-ellenőrző hivatalát, a másodfokú eljárásban a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát,
 
-b) – az állatvédelem helyi követelményeinek és az állattartás helyi szabályainak való megfelelés kérdésében – az első fokú eljárásban a települési önkormányzat jegyzőjét, a másodfokú eljárásban a fővárosi és megyei kormányhivatalt
+b) – az állattartás helyi szabályainak való megfelelés kérdésében – az első fokú eljárásban a települési önkormányzat jegyzőjét, a másodfokú eljárásban a fővárosi és megyei kormányhivatalt
 
 ## szakhatóságként jelöli ki.
 
-(4) A természetvédelmi oltalom alatt álló vagy nemzetközi természetvédelmi egyezmény hatálya alá tartozó veszélyes állat országba való behozatalához a Nemzeti Élelmiszerlánc-biztonsági Hivatal külön jogszabályban meghatározott előzetes engedélye is szükséges.
+(4)[^40] A különösen és közepesen veszélyes állat országba való behozatalához az Európai Unió jogi aktusaiban teljeskörűen nem szabályozott állatfajok esetében a Nemzeti Élelmiszerlánc-biztonsági Hivatal jogszabályban meghatározott előzetes állategészségügyi engedélye is szükséges.
 
 (5) A Kormány a felügyelőségnek a Tvt. 38. § (1) bekezdés i) pontja szerinti, erdőben technikai jellegű sporttevékenység folytatásának engedélyezésére irányuló eljárásában – az erdőre gyakorolt hatások vizsgálata kérdésében – az első fokú eljárásban a megyei kormányhivatal erdészeti igazgatóságát, a másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt szakhatóságként jelöli ki.
+
+[^37]: A 37. § (1) bekezdés b) pontját a 221/2014. (IX. 4.) Korm. rendelet 786. § (2) bekezdése hatályon kívül helyezte.
+[^38]: A 37. § (2) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 780. § (1) bekezdésével megállapított szöveg.
+[^39]: A 37. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 780. § (2) bekezdésével megállapított szöveg.
+[^40]: A 37. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 780. § (2) bekezdésével megállapított szöveg.
