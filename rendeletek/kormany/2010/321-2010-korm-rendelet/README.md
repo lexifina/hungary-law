@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-321-20-
 | 2014-02-25 | 2010-321-20-22.6 | 7/2013. (I. 18.) Korm. rendelet |
 | 2014-06-05 | 2010-321-20-22.7 | 146/2014. (V. 5.) Korm. rendelet |
 | 2014-09-05 | 2010-321-20-22.8 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2014-09-10 | 2010-321-20-22.9 | 35/2014. (XI. 19) NGM rendelet |
