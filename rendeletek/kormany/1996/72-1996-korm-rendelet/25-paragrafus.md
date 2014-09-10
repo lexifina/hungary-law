@@ -1,11 +1,11 @@
-25. §[^119] (1) A jegyző dönt:
+25. §[^121] (1) A jegyző dönt:
 
 a) a települések belterületén a vizek természetes áramlásának, lefolyásának önkényes megváltoztatása folytán a szomszédos ingatlanok tulajdonosai között felmerült vitában – a vízjogi engedélyezési kötelezettség alá tartozó vízimunkák megvalósításától eltekintve – a természetes lefolyás biztosításáról vagy az eredeti állapot helyreállításáról;
 
-b) a közműves ivóvízellátással és szennyvízelvezetéssel (vízi közszolgáltatással) kapcsolatos eljárásban a szolgáltatót és a fogyasztót érintő jogokról és kötelezettségekről.[^120]
+b) a közműves ivóvízellátással és szennyvízelvezetéssel (vízi közszolgáltatással) kapcsolatos eljárásban a szolgáltatót és a fogyasztót érintő jogokról és kötelezettségekről.[^122]
 
-(2) A járási hivatal dönt a vízitársulat hiányában a helyi közcélú vízilétesítmények, illetve közcélú vízimunkák költségeinek – külön jogszabály rendelkezései szerint – az érdekeltekre történő kivetéséről.[^121]
+(2) A járási hivatal dönt a vízitársulat hiányában a helyi közcélú vízilétesítmények, illetve közcélú vízimunkák költségeinek – külön jogszabály rendelkezései szerint – az érdekeltekre történő kivetéséről.[^123]
 
-[^119]: A 25. § az 51/2013. (II. 25.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^120]: 38/1995. (IV. 5.) Korm. rendelet 4. § (3), 5. § (8), 6. § (4), 11. § (2) és (3), 16. § (2), 21. § (4) és (5), valamint a 22. § (7) bek.
-[^121]: 160/1995. (XII. 26.) Korm. rendelet 25. §.
+[^121]: A 25. § az 51/2013. (II. 25.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^122]: 38/1995. (IV. 5.) Korm. rendelet 4. § (3), 5. § (8), 6. § (4), 11. § (2) és (3), 16. § (2), 21. § (4) és (5), valamint a 22. § (7) bek.
+[^123]: 160/1995. (XII. 26.) Korm. rendelet 25. §.
