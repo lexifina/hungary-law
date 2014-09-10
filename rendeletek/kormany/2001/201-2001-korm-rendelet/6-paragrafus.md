@@ -26,7 +26,7 @@ e) ivóvízzel érintkező anyagok minőségi megfelelőségének biztosítása.
 
 (4a)[^42] A (4) bekezdés szerinti korlátozást az illetékes népegészségügyi szerv, illetve – a 178/2002/EK rendelet szerinti ivóvíz élelmiszeripari vállalkozásoknál élelmiszer-előállításra történő felhasználása esetén azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják – az élelmiszerlánc-felügyeleti szerv abban az esetben oldhatja fel vagy tekinthet el az elrendelésétől, ha az üzemeltető ivóvízvizsgálati eredménnyel igazoltan az egészségkockázat elhárításához, – a vízminőségi kifogás tekintetében – a vízbiztonság fenntartásához szükséges intézkedéseket megtette.
 
-(5)[^43] Amennyiben az (1) és (4) bekezdések szerinti intézkedések a vízjogi engedélyezési kötelezettség alá tartozó vízellátó rendszereket érintik, az intézkedésekről az engedély kiadására illetékes és hatáskörrel rendelkező felügyelőséget és a vízügyi hatóságot is tájékoztatni kell.
+(5)[^43] Amennyiben az (1) és (4) bekezdések szerinti intézkedések a vízjogi engedélyezési kötelezettség alá tartozó vízellátó rendszereket érintik, az intézkedésekről az engedély kiadására illetékes és hatáskörrel rendelkező területi vízügyi hatóságot is tájékoztatni kell.
 
 (6)[^44] Az üzemeltető a fogyasztókat és a települési önkormányzato(ka)t, illetve a 178/2002/EK rendelet szerinti ivóvíz élelmiszer-vállalkozásoknál történő felhasználása esetén az élelmiszer-vállalkozást köteles haladéktalanul tájékoztatni a 3. §-ban meghatározott határértékek bármelyikének túllépéséről, illetve szennyezés veszélyével járó rendkívüli eseményről azon eseteket kivéve, ha illetékes népegészségügyi szervnek állásfoglalása szerint a határértékektől való eltérés elhanyagolható vagy nem jelent közegészségügyi kockázatot, figyelemmel a (12) bekezdésben foglaltakra. A tájékoztatásnak ki kell terjednie a vízellátás korlátozásáról vagy betiltásáról, az átmeneti vízellátás módjáról és rendjéről, valamint a vízminőség-javításáról hozott intézkedésekre.
 
@@ -52,7 +52,7 @@ e) ivóvízzel érintkező anyagok minőségi megfelelőségének biztosítása.
 [^40]: A 6. § (3) bekezdése a 430/2013. (XI. 15.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
 [^41]: A 6. § (4) bekezdése a 430/2013. (XI. 15.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
 [^42]: A 6. § (4a) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 7. § (4) bekezdése iktatta be.
-[^43]: A 6. § (5) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^43]: A 6. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 225. § a) pontja szerint módosított szöveg.
 [^44]: A 6. § (6) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 86. §-a, a 288/2012. (X. 11.) Korm. rendelet 3. § (4) bekezdése, a 430/2013. (XI. 15.) Korm. rendelet 13. § f) pontja szerint módosított szöveg.
 [^45]: A 6. § (7) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 86. §-a szerint módosított szöveg.
 [^46]: A 6. § (8) bekezdése a 288/2012. (X. 11.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.

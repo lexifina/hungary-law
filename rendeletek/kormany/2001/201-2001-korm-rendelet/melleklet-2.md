@@ -128,7 +128,7 @@
 
 ## – egyéb hasonló termékek (többek között növekedésszabályozók), valamint metabolitjaik, bomlási és reakció termékeik.
 
-## Csak azokat a peszticideket kell rendszeresen vizsgálni, amelyek az adott vízellátó rendszerben jelen lehetnek. Ennek eldöntéséhez évente ad támpontot – hivatalos közlönyben – az OTH, de a helyi információk (környezetvédelmi felügyelőségek, fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervei, növényvédelmi állomások véleményének) figyelembevétele is szükséges.
+## Csak azokat a peszticideket kell rendszeresen vizsgálni, amelyek az adott vízellátó rendszerben jelen lehetnek. Ennek eldöntéséhez évente ad támpontot – hivatalos közlönyben – az OTH, de a helyi információk (területi vízügyi hatóságok, fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervei, növényvédelmi állomások véleményének) figyelembevétele is szükséges.
 
 ## 9. A határérték az egyes peszticidekre külön-külön vonatkozik. Aldrin, dieldrin, heptaklór és heptaklór-epoxid esetében a határérték 0,030 μg/l.
 
