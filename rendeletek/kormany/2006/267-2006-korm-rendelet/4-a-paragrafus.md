@@ -34,9 +34,9 @@ b)[^47] a katasztrófavédelmi előírásoknak való megfelelőség szakkérdés
 
 (8)[^48] Ha az engedélyezési eljárás a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet (a továbbiakban: Khvr.) 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül, az (1) bekezdés szerinti esetben a kérelemhez mellékelni kell a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr.-ben meghatározott – adatlapot.
 
-(9)[^49] A Kormány a bányászati hatóságnak a geotermikus védőidom megállapítására irányuló eljárásában, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, a geotermikus védőidom kijelölésének a felszín alatti vizek minőségi védelmével kapcsolatos szakkérdésében, az első fokú eljárásban a környezetvédelmi és természetvédelmi felügyelőséget, a másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
+(9)[^49] A Kormány a bányászati hatóságnak a geotermikus védőidom megállapítására irányuló eljárásában – ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges –, a geotermikus védőidom kijelölésének a felszín alatti vizek minőségi védelmére, a vízkészlet-gazdálkodásra, az ivóvízbázisra és a vizek mennyiségi állapotára gyakorolt hatása vizsgálatának szakkérdésében, első fokú eljárásban a területi vízügyi hatóságot, másodfokú eljárásban az országos vízügyi hatóságot szakhatóságként jelöli ki.
 
-(9a)[^50] A Kormány a bányászati hatóságnak a geotermikus védőidom megállapítására irányuló eljárásában, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, a geotermikus védőidom kijelölésének a vízkészlet-gazdálkodásra, az ivóvízbázisra és a vizek mennyiségi állapotára gyakorolt hatása vizsgálatának szakkérdésében, az első fokú eljárásban a területi vízügyi hatóságot, a másodfokú eljárásban az Országos Vízügyi Hatóságot szakhatóságként jelöli ki.
+(9a)[^50]
 
 (10)[^51] A Kormány a szén-dioxid geológiai tárolásával kapcsolatos első- és másodfokú engedélyezési eljárásban a 3. mellékletben meghatározott feltételek esetében és szakkérdésben a 3. melléklet szerinti hatóságokat szakhatóságként jelöli ki.
 
@@ -53,6 +53,6 @@ b)[^47] a katasztrófavédelmi előírásoknak való megfelelőség szakkérdés
 [^46]: A 4/A. § (7) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
 [^47]: A 4/A. § (7) bekezdés b) pontja a 411/2012. (XII. 28.) Korm. rendelet 24. § (4) bekezdésével megállapított szöveg.
 [^48]: A 4/A. § (8) bekezdését a 82/2011. (V. 18.) Korm. rendelet 36. §-a iktatta be.
-[^49]: A 4/A. § (9) bekezdését a 195/2011. (IX. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 42/2014. (II. 24.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^50]: A 4/A. § (9a) bekezdését a 42/2014. (II. 24.) Korm. rendelet 5. §-a iktatta be.
+[^49]: A 4/A. § (9) bekezdését a 195/2011. (IX. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 338. §-ával megállapított szöveg.
+[^50]: A 4/A. § (9a) bekezdését a 42/2014. (II. 24.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 341. § (2) bekezdése.
 [^51]: A 4/A. § (10) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 23. §-a iktatta be.
