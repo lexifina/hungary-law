@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-362-20-
 | 2013-02-26 | 2008-362-20-22.10 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2013-07-20 | 2008-362-20-22.11 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2014-01-01 | 2008-362-20-22.12 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2014-09-10 | 2008-362-20-22.13 | 351/2010. (XII. 30.) Korm. rendelet |
