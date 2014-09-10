@@ -1,9 +1,13 @@
-23. §[^171] (1) A tényfeltárási munkák megkezdését a megkezdés előtt nyolc nappal, a tényfeltárás során észlelt bármilyen rendkívüli körülményt pedig haladéktalanul be kell jelenteni a vízvédelmi hatóságnak, amely erről a vízügyi igazgatóságot tájékoztatja.
+23. §[^173] (1)[^174] A tényfeltárási munkák megkezdését a megkezdés előtt nyolc nappal, a tényfeltárás során észlelt bármilyen rendkívüli körülményt pedig haladéktalanul be kell jelenteni a környezetvédelmi hatóságnak, amely erről a vízügyi igazgatóságot tájékoztatja.
 
-(2) A tényfeltárás során a kötelezett kezdeményezheti a részletes kármentesítési mennyiségi kockázatfelmérés módszerének egyeztetését a vízvédelmi hatósággal, a vízügyi igazgatósággal és a szakhatóságokkal.
+(2)[^175] A tényfeltárás során a kötelezett kezdeményezheti a részletes kármentesítési mennyiségi kockázatfelmérés módszerének egyeztetését a környezetvédelmi hatósággal, a vízügyi igazgatósággal és a szakhatóságokkal.
 
-(3) Indokolt esetben, a feltárás során észleltek alapján, a tényfeltárásra kötelezett kezdeményezésére a vízvédelmi hatóság – a vízügyi igazgatóság és a szakhatóságok utólagos értesítésével – nyolc napon belül dönt a terv módosításának elfogadásáról vagy elutasításáról.
+(3)[^176] Indokolt esetben, a feltárás során észleltek alapján, a tényfeltárásra kötelezett kezdeményezésére a környezetvédelmi hatóság – a vízügyi igazgatóság és a szakhatóságok utólagos értesítésével – nyolc napon belül dönt a terv módosításának elfogadásáról vagy elutasításáról.
 
-(4) A tényfeltárást és annak eredményeit dokumentálni kell. A záródokumentációt a 7. számú melléklet szerint kell összeállítani, és be kell nyújtani a vízvédelmi hatósághoz.
+(4)[^177] A tényfeltárást és annak eredményeit dokumentálni kell. A záródokumentációt a 7. számú melléklet szerint kell összeállítani, és be kell nyújtani a környezetvédelmi hatósághoz.
 
-[^171]: A 23. § az 527/2013. (XII. 30.) Korm. rendelet 26. § (9) bekezdésével megállapított szöveg.
+[^173]: A 23. § az 527/2013. (XII. 30.) Korm. rendelet 26. § (9) bekezdésével megállapított szöveg.
+[^174]: A 23. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 275. § h) pontja szerint módosított szöveg.
+[^175]: A 23. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 275. § i) pontja szerint módosított szöveg.
+[^176]: A 23. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 275. § d) pontja szerint módosított szöveg.
+[^177]: A 23. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 275. § g) pontja szerint módosított szöveg.

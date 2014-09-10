@@ -1,26 +1,26 @@
 6. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez
 
-## A felszín alatti víz, a földtani közeg veszélyeztetésének, szennyezettségének, illetve károsodásának megállapítására tartott helyszíni szemle jegyzőkönyvének tartalmi követelményei[^296]
+## A felszín alatti víz, a földtani közeg veszélyeztetésének, szennyezettségének, illetve károsodásának megállapítására tartott helyszíni szemle jegyzőkönyvének tartalmi követelményei[^306]
 
-A felszín alatti víz, illetve a földtani közeg szennyezettség, illetve károsodás valószínűségének megállapítására tartott helyszíni szemle jegyzőkönyvének – az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvényben[^297] előírtakon túlmenő – tartalmi követelményei:[^298]
+A felszín alatti víz, illetve a földtani közeg szennyezettség, illetve károsodás valószínűségének megállapítására tartott helyszíni szemle jegyzőkönyvének – az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvényben[^307] előírtakon túlmenő – tartalmi követelményei:[^308]
 
 1. Az okozó (felelős) neve, címe, ha ezek egyértelműen megállapíthatóak, illetve az ezzel kapcsolatos nyilatkozatok, az okozó (felelős) ismertségének hiányában tényfeltárásra kötelezhető neve, címe.
 
-2.[^299] A helyszín leírása, beleértve a természetes és a művi környezet jellemzését, valamint a terület használatát. Az érintett terület régészeti jelentősége, illetőleg műemléki védelme.
+2.[^309] A helyszín leírása, beleértve a természetes és a művi környezet jellemzését, valamint a terület használatát. Az érintett terület régészeti jelentősége, illetőleg műemléki védelme.
 
-3.[^300] A felszín alatti víz, illetve a földtani közeg szennyezettség, illetve károsodás valószínűségének megállapítását alátámasztó tényezők, azaz
+3.[^310] A felszín alatti víz, illetve a földtani közeg szennyezettség, illetve károsodás valószínűségének megállapítását alátámasztó tényezők, azaz
 
 a) a szennyezőforrások, a potenciális szennyezőforrások kibocsátásai, tevékenységük volumene, jellemzői, illetve
 
-b)[^301] az elszennyeződött terület szennyezettségére, illetve károsodására vonatkozó információk, ezen belül különösen
+b)[^311] az elszennyeződött terület szennyezettségére, illetve károsodására vonatkozó információk, ezen belül különösen
 
-ba)[^302] a szennyezettség, illetve károsodás mértékére vonatkozó, mérési eredményeken alapuló információk,
+ba)[^312] a szennyezettség, illetve károsodás mértékére vonatkozó, mérési eredményeken alapuló információk,
 
 bb) szennyezettség, károsodás látható jeleire és becsült mértékére vonatkozó információk figyelemmel az élővilág esetleges károsodására is.
 
-4.[^303] A felszín alatti víz, illetve a földtani közeg szennyezettség, illetve károsodás valószínűségének megállapításakor feltételezhető okokat, külön rögzítve, ha rendkívüli esemény történt.
+4.[^313] A felszín alatti víz, illetve a földtani közeg szennyezettség, illetve károsodás valószínűségének megállapításakor feltételezhető okokat, külön rögzítve, ha rendkívüli esemény történt.
 
-5.[^304] Az ellenőrzés megállapításai, kitérve a szennyezettség, illetve károsodás mértékére vonatkozó, mérési eredményeken alapuló információk és a (B) szennyezettségi határérték és a mért értékek összevetésére.
+5.[^314] Az ellenőrzés megállapításai, kitérve a szennyezettség, illetve károsodás mértékére vonatkozó, mérési eredményeken alapuló információk és a (B) szennyezettségi határérték és a mért értékek összevetésére.
 
 6. A szennyező anyag lehetséges mennyiségére vonatkozó információk, adatok és becslések, megjelölve ezek forrását.
 
@@ -36,15 +36,15 @@ bb) szennyezettség, károsodás látható jeleire és becsült mértékére von
 
 12. A felelősségi kör meghatározása, a kármentesítés kötelezettjére is kiterjedően, illetve a tényfeltárás során ennek meghatározásakor figyelmet igénylő körülmények.
 
-13.[^305] A 19. § (13) bekezdése szerinti adatlapok benyújtására vonatkozó információkat.
+13.[^315] A 19. § (13) bekezdése szerinti adatlapok benyújtására vonatkozó információkat.
 
-[^296]: A 6. számú melléklet címe a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^297]: Az 1957: IV. törvényen – a 2005: LXXXIII. törvény 336. §-a alapján – a 2004: CXL. törvényt kell érteni.
-[^298]: A 6. számú melléklet bevezető szövege a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^299]: A 6. számú melléklet 2. pontja a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^300]: A 6. számú melléklet 3. pontjának felvezető szövege a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^301]: A 6. számú melléklet 3. pontjának b) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^302]: A 6. számú melléklet 3. pontjának ba) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^303]: A 6. számú melléklet 4. pontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^304]: A 6. számú melléklet 5. pontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^305]: A 6. számú melléklet 13. pontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^306]: A 6. számú melléklet címe a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^307]: Az 1957: IV. törvényen – a 2005: LXXXIII. törvény 336. §-a alapján – a 2004: CXL. törvényt kell érteni.
+[^308]: A 6. számú melléklet bevezető szövege a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^309]: A 6. számú melléklet 2. pontja a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^310]: A 6. számú melléklet 3. pontjának felvezető szövege a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^311]: A 6. számú melléklet 3. pontjának b) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^312]: A 6. számú melléklet 3. pontjának ba) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^313]: A 6. számú melléklet 4. pontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^314]: A 6. számú melléklet 5. pontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^315]: A 6. számú melléklet 13. pontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.

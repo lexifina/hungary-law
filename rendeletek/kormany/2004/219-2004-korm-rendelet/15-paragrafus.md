@@ -24,7 +24,7 @@ c)[^115] a környezethasználó nem teljesíti a kármegelőzés érdekében hat
 
 d)[^116] a környezethasználó nem az elvárható gondossággal jár el a kármegelőzés, illetve a kármentesítés végrehajtása érdekében, és emiatt fennáll a szennyezés, károsítás fennmaradásának, illetve ismétlődésének, továbbá a szennyezettség, illetve károsodás növekedésének veszélye.
 
-(8)[^117] A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet szerint egységes környezethasználati engedély köteles tevékenységek esetén a környezethasználó egy alkalommal alapállapot-jelentést köteles készíteni és benyújtani a felügyelőség részére a 13. számú mellékletben meghatározott tartalommal, az Európai Bizottság által kidolgozott útmutató figyelembevételével.
+(8)[^117] A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet szerint egységes környezethasználati engedély köteles tevékenységek esetén a környezethasználó egy alkalommal alapállapot-jelentést köteles készíteni és benyújtani a környezetvédelmi hatóság részére a 13. számú mellékletben meghatározott tartalommal, az Európai Bizottság által kidolgozott útmutató figyelembevételével.
 
 [^110]: A 15. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (5) bekezdésével megállapított szöveg.
 [^111]: 221/2004. (VII. 21.) Korm. rendelet a vízgyűjtő-gazdálkodás egyes szabályairól.
@@ -33,4 +33,4 @@ d)[^116] a környezethasználó nem az elvárható gondossággal jár el a kárm
 [^114]: A 15. § (7) bekezdésének b) pontja a 302/2008. (XII. 17.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
 [^115]: A 15. § (7) bekezdésének c) pontja a 302/2008. (XII. 17.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
 [^116]: A 15. § (7) bekezdésének d) pontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^117]: A 15. § (8) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte, újonnan a 480/2013. (XII. 17.) Korm. rendelet 14. §-a iktatta be.
+[^117]: A 15. § (8) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte, újonnan a 480/2013. (XII. 17.) Korm. rendelet 14. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 275. § a) pontja szerint módosított szöveg.

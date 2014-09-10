@@ -36,13 +36,13 @@ b) az ügynek az engedélyező hatósághoz történő áttételéről;
 
 c)[^141] azonnali beavatkozást igénylő szennyezés, illetve károsodás esetén a szükséges kárelhárítással összefüggő, külön jogszabályok[^142] szerinti intézkedésről;
 
-d)[^143] a szükséges felügyelőségi intézkedés, eljárás megindításáról, így különösen az e rendelet 13. §-a szerinti tartalommal történő engedélyezés alá vonásról a vízvédelmi hatóság által saját hatáskörben kiadott határozattal, a kármentesítés bármely szakaszának vagy a szakaszok 21. § (8) bekezdés szerinti együttes elrendeléséről, valamint a környezetvédelmi felülvizsgálatról vagy arról, hogy a tudomására jutott adatok további intézkedést nem igényelnek.
+d)[^143] a szükséges intézkedés, eljárás megindításáról, illetve a környezetvédelmi hatóságnál történő kezdeményezéséről, így különösen a 13. §-a szerinti tartalommal történő engedélyezés alá vonásról a vízvédelmi hatóság által saját hatáskörben kiadott határozattal, a kármentesítés bármely szakaszának vagy a szakaszok 21. § (8) bekezdése szerinti elrendelésének kezdeményezéséről, valamint a környezetvédelmi felülvizsgálat kezdeményezéséről vagy arról, hogy a tudomására jutott adatok további intézkedést nem igényelnek.
 
 (10)[^144] A (9) bekezdés c) pont szerinti intézkedésekről a vízvédelmi hatóság a kivizsgálás során, valamint a kármentesítés bármely szakaszában rendelkezhet.
 
 (11)[^145] A vízvédelmi hatóság a környezetvédelmi követelmények érvényre juttatása érdekében, határidő megállapításával műszaki intézkedésre vagy intézkedési terv készítésére és annak betartására kötelezheti a tevékenység folytatóját.
 
-(12)[^146] A vízvédelmi követelmények megszegése, a kötelező határozatban elrendelt műszaki intézkedések határidőre történő végrehajtásának elmulasztása vagy az intézkedési tervben foglaltak be nem tartása esetén a vízvédelmi hatóság a 36. § (1) bekezdés d) pontja szerinti bírságot szabhat ki.
+(12)[^146] A vízvédelmi követelmények megszegése, a kötelező határozatban elrendelt műszaki intézkedések határidőre történő végrehajtásának elmulasztása vagy az intézkedési tervben foglaltak be nem tartása esetén a vízvédelmi hatóság a 36. § (1) bekezdés a) pontja szerinti bírságot szabhat ki.
 
 (13)[^147] A vízvédelmi hatóság a 21. § (10) bekezdés alapján elrendelheti a külön jogszabály szerinti adatlap kitöltését és benyújtását.
 
@@ -65,10 +65,10 @@ b)[^150]
 [^140]: A 19. § (9) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
 [^141]: A 19. § (9) bekezdésének c) pontja a 92/2007. (IV. 26.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a 2007. április 30. napja után megvalósított környezetkárosításokra, valamint környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna.
 [^142]: A katasztrófák elleni védekezés irányításáról, szervezetéről és veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény; a vízminőségi kárelhárításról szóló 132/1997. (VII. 24.) Korm. rendelet.
-[^143]: A 19. § (9) bekezdés d) pontja a 92/2007. (IV. 26.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 359. §-a, az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
+[^143]: A 19. § (9) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 271. §-ával megállapított szöveg.
 [^144]: A 19. § új (10) bekezdését a 92/2007. (IV. 26.) Korm. rendelet 2. § (4) bekezdése iktatta be, egyidejűleg az eredeti (10)–(13) bekezdés számozását (11)–(14) bekezdésre változtatva. A 19. § (10) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
 [^145]: A 19. § eredeti (10) bekezdésének számozását a 92/2007. (IV. 26.) Korm. rendelet 2. § (4) bekezdése (11) bekezdésre változtatta. A 19. § (11) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
-[^146]: A 19. § eredeti (11) bekezdésének számozását a 92/2007. (IV. 26.) Korm. rendelet 2. § (4) bekezdése (12) bekezdésre változtatta. A 19. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
+[^146]: A 19. § eredeti (11) bekezdésének számozását a 92/2007. (IV. 26.) Korm. rendelet 2. § (4) bekezdése (12) bekezdésre változtatta. A 19. § (12) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 275. § b) pontja szerint módosított szöveg.
 [^147]: A 19. § eredeti (12) bekezdésének számozását (13) bekezdésre változtatta és szövegét módosította a 92/2007. (IV. 26.) Korm. rendelet 2. § (4) bekezdése, illetve 9. § (2) bekezdése. A 19. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
 [^148]: A 19. § eredeti (13) bekezdésének számozását a 92/2007. (IV. 26.) Korm. rendelet 2. § (4) bekezdése (14) bekezdésre változtatta. A 19. § (14) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
 [^149]: A 19. § (14) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 123. §-a szerint módosított szöveg.

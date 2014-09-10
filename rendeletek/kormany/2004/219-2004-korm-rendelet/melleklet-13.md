@@ -1,8 +1,8 @@
-13. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^367]
+13. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^377]
 
 ## Az alapállapot-jelentés tartalma
 
-1. A terület korábbi és további használatának bemutatása:
+1.[^378] A terület korábbi és további használatának bemutatása:
 
 1.1. a terület pontos lehatárolása, sarokponti EOV koordináták, helyrajzi szám(ok) és az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott másolat, továbbá az 1:10 000 méretarányú átnézetes térkép, valamint az érintett területre vonatkozóan a település neve, az ingatlan fekvése, a belterületen lévő ingatlannál az utca neve és a házszám, a területnagysága, M=1: 4 000 méretarányú térképen történő azonosítása, a művelési ága és a művelés alól kivett terület elnevezése,
 
@@ -24,7 +24,7 @@
 
 1.10. az érintett terület tulajdonosainak, használóinak neve, lakcíme vagy székhelye, elektronikus levélcíme, telefonos elérhetősége.
 
-Ha a kérelmező által a felügyelőség számára korábban benyújtott dokumentáció tartalmazza az alapállapot-jelentés e pontban szereplő tartalmi elemek valamelyikét, akkor elegendő az érintett dokumentációrészre hivatkozni.
+Ha a kérelmező által a környezetvédelmi hatóság számára korábban benyújtott dokumentáció tartalmazza az alapállapot-jelentés e pontban szereplő tartalmi elemek valamelyikét, akkor elegendő az érintett dokumentációrészre hivatkozni.
 
 2. A felszín alatti vizek, a földtani közeg állapotának bemutatása:
 
@@ -64,4 +64,5 @@ Ha a kérelmező által a felügyelőség számára korábban benyújtott dokume
 
 A felszín alatti vizek és a földtani közeg állapotára vonatkozó adatokat és információkat térképen és ábrán (pl. vízföldtani szelvényen) is be kell mutatni, a bemutatás – a vizsgált terület és a szennyezettség változékonyságától függően – történhet egy-egy térképen és ábrán összevont formában vagy külön-külön annyi térképen és ábrán, amennyi az egyértelmű szemléltetéshez szükséges.
 
-[^367]: A 13. mellékletet a 480/2013. (XII. 17.) Korm. rendelet 16. §-a iktatta be.
+[^377]: A 13. mellékletet a 480/2013. (XII. 17.) Korm. rendelet 16. §-a iktatta be.
+[^378]: A 13. számú melléklet 1. pont záró szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 275. § a) pontja szerint módosított szöveg.
