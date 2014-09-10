@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-38-20-2
 | 2013-01-01 | 2011-38-20-22.3 | 404/2012. (XII. 28.) Korm. rendelet |
 | 2013-02-20 | 2011-38-20-22.4 | 404/2012. (XII. 28.) Korm. rendelet |
 | 2014-01-01 | 2011-38-20-22.5 | 404/2012. (XII. 28.) Korm. rendelet |
+| 2014-09-10 | 2011-38-20-22.6 | 404/2012. (XII. 28.) Korm. rendelet |

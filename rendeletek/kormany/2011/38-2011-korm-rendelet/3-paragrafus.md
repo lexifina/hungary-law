@@ -6,7 +6,9 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 |  | A nyilvántartás megnevezése | Adatfeldolgozó | Az adatfeldolgozó által végzett adatfeldolgozás köre | Az adatfeldolgozó igénybevételének jellege |
 
-| 1. | Foglalkoztatási és Szociális Adatbázis | Nemzeti Infokommunikációs Szolgáltató Zrt. | elektronikus adatfeldolgozás | kötelező |
+| 1. | Foglalkoztatási és Közfoglalkoztatási Adatbázis | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
+
+| 1a. | az állami foglalkoztatási szerv feladatainak ellátásához szükséges adatbázis | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
 
 | 2. | Egységes szociális nyilvántartás | államigazgatási szerv | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
 
@@ -36,7 +38,7 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 13. | A Magyar igazolvány és a Magyar hozzátartozói igazolvány tulajdonosainak nyilvántartása | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | kötelező |
 
-| 14. | Kulturális örökségvédelmi nyilvántartás | Nemzeti Infokommunikációs Szolgáltató Zrt. | elektronikus adatfeldolgozás | kötelező |
+| 14. | Kulturális örökségvédelmi nyilvántartás | államigazgatási szerv | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
 
 | 15. | A Nemzeti Adó- és Vámhivatal által kezelt adóhatósági és vámhatósági adatok nyilvántartása | Pillér Pénzügyi és Számítástechnikai Kft. | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
 
@@ -58,4 +60,4 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 24. | Egységes örökbefogadási nyilvántartás | Nemzeti Rehabilitációs és Szociális Hivatal | elektronikus adatfeldolgozás | kötelező |
 
-[^1]: A melléklet a 404/2012. (XII. 28.) Korm. rendelet 9. §-ával megállapított, a 43/2013. (II. 19.) Korm. rendelet 24–25. §-a, az 513/2013. (XII. 29.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^1]: A melléklet a 404/2012. (XII. 28.) Korm. rendelet 9. §-ával megállapított, a 43/2013. (II. 19.) Korm. rendelet 24–25. §-a, az 513/2013. (XII. 29.) Korm. rendelet 32. §-a, a 221/2014. (IX. 4.) Korm. rendelet 556. §-a szerint módosított szöveg.
