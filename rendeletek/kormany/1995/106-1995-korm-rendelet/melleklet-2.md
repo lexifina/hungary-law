@@ -50,7 +50,7 @@
 
 ## ...........................................
 
-## A telephelyre vonatkozó környezet-, természet- és műemlékvédelmi korlátozások, előírások; ezen belül:
+## A telephelyre vonatkozó környezetvédelmi, természetvédelmi, vízügyi és vízvédelmi, valamint kulturális örökségvédelmi korlátozások, előírások; ezen belül:
 
 ## — természetvédelmi oltalom
 
@@ -144,7 +144,7 @@
 
 ## 3. A telephely környezeti állapotából származó környezeti terhek, teendők
 
-## A 2. pont szerkezetében be kell mutatni azokat a teendőket (kárelhárítás, haváriamegelőzési, környezettisztítási, hulladékkezelési beavatkozásokat, környezetvédelmi beruházásokat, technológiai módosításokat, utóhasznosítási feladatokat stb.), melyek a telephelyen tapasztalható vagy telephelyről eredő környezetkárosodás, -veszélyeztetés megszüntetéséhez, illetve a környezet- és természetvédelmi követelmények kielégítéséhez szükségesnek tart.
+## A 2. pont szerkezetében be kell mutatni azokat a teendőket (kárelhárítás, haváriamegelőzési, környezettisztítási, hulladékkezelési beavatkozásokat, környezetvédelmi beruházásokat, technológiai módosításokat, utóhasznosítási feladatokat stb.), melyek a telephelyen tapasztalható vagy telephelyről eredő környezetkárosodás, -veszélyeztetés megszüntetéséhez, illetve a környezetvédelmi, természetvédelmi, vízügyi és vízvédelmi követelmények kielégítéséhez szükségesnek tart.
 
 ## E teendőket ütemezetten, valamint — azok műszaki tartalmát átfogóan bemutatva — költségbecsléssel ellátva kell meghatározni. A teendők ütemezésénél irányadó a rendelet 2. számú mellékletének II. Fejezet 2. pontjának tartalma.
 
@@ -212,7 +212,7 @@ Ismertetni kell az érvényben lévő — nem a környezetvédelmi felügyelős�
 
 Be kell mutatni az emissziónak a háttérszennyezettségre gyakorolt hatását, csökkentésének szükségességét.
 
-2.2.[^14] Vizek igénybevétele és terhelése
+2.2.[^22] Vizek igénybevétele és terhelése
 
 Ismertetni kell a jellemző vízhasználatokat és vízi munkákat, illetve az arra jogosító engedélyeket, az engedélyektől való eltéréseket.
 
@@ -230,7 +230,7 @@ Ismertetni kell a talajvízszennyezés hatótényezőit és jellemzőit.
 
 Három évre visszamenőleg be kell mutatni a rendkívüli eseményeket.
 
-A környezeti állapotvizsgálatnak meg kell felelnie a felszín alatti vizek védelméről szóló külön jogszabály[^15] tényfeltárási záródokumentációra vonatkozó tartalmi követelményeinek.
+A környezeti állapotvizsgálatnak meg kell felelnie a felszín alatti vizek védelméről szóló külön jogszabály[^23] tényfeltárási záródokumentációra vonatkozó tartalmi követelményeinek.
 
 2.3. Hulladékkezelés, tárolás, szállítás
 
@@ -280,13 +280,13 @@ Ismertetni kell a telephely részére korábban — nem a környezetvédelmi fel
 
 Ismertetni kell a telephely környezetében — nem a környezetvédelmi felügyelőség által — megállapított zaj- és vibrációs terhelési szintet.
 
-2.6.[^16] Talajvédelem
+2.6.[^24] Talajvédelem
 
 Tíz évre visszamenőleg ismertetni kell a területen elvégzett talajvédelmi beavatkozásokat, rekultivációs tevékenységet.
 
 Ismertetni kell a — telephelyen vagy a telephelyi tevékenységből származó, de telephelyen kívüli — talajszennyezés jellemzőit, különösen a 2.2., 2.3. és 2.4. pontok tartalmával összefüggésben, valamint az egyéb lehetséges hatótényezőkkel (hígtrágya stb.) összefüggésben.
 
-A környezeti állapotvizsgálatnak meg kell felelnie a felszín alatti vizek védelméről szóló külön jogszabály[^17] tényfeltárási záródokumentációra vonatkozó tartalmi követelményeinek.
+A környezeti állapotvizsgálatnak meg kell felelnie a felszín alatti vizek védelméről szóló külön jogszabály[^25] tényfeltárási záródokumentációra vonatkozó tartalmi követelményeinek.
 
 2.7. Erdővagyon-védelem
 
@@ -304,9 +304,9 @@ Jelezni kell a telephely 5 km-es sugarában található védett természeti ter�
 
 Külön ismertetni kell a telephely területét érintő esetleges bányaművelés hatásait (földtani károsodások, meddőhányók stb.), vagy a korábban folytatott bányaművelés hatásait, ha a rekultivációs tevékenységek még nem fejeződtek be.
 
-II. A környezeti terhek rendezéséhez szükséges teendők
+II.[^26] A környezeti terhek rendezéséhez szükséges teendők
 
-Az állapotvizsgálatnak ki kell terjednie azon — hatósági határozatban előírt, vagy egyébként szükségesnek tartott, a bemutatott problémák megoldását szolgáló — ütemezett teendőkre, amelyek az ismertetett környezetkárosodások, -veszélyeztetések megszüntetéséhez, illetve a környezet-, természet- és műemlékvédelmi követelmények kielégítéséhez szükségesek.
+Az állapotvizsgálatnak ki kell terjednie azon — hatósági határozatban előírt, vagy egyébként szükségesnek tartott, a bemutatott problémák megoldását szolgáló — ütemezett teendőkre, amelyek az ismertetett környezetkárosodások, -veszélyeztetések megszüntetéséhez, illetve a környezetvédelmi, természetvédelmi, vízügyi és vízvédelmi, valamint kulturális örökségvédelmi követelmények kielégítéséhez szükségesek.
 
 1. E teendők célozhatják:
 
@@ -336,7 +336,8 @@ A környezeti terhek rendezéséhez szükséges teendők költségbecslését me
 
 A költségbecslés mellett jelezni kell, hogy e teendők a tovább működtethető, vagy utóhasznosítását igénylő vagyon piaci értékesíthetőségét miként érintik (amennyiben a teendőket az új tulajdonosnak kell végrehajtania).
 
-[^14]: A 2. számú melléklet I. fejezetének 2.2. pontja a 219/2004. (VII. 21.) Korm. rendelet 43. §-ának (2) bekezdése szerint módosított szöveg.
-[^15]: 219/2004. (VII. 21.) Korm. rendelet a felszín alatti vizek védelméről.
-[^16]: A 2. számú melléklet I. fejezetének 2.6. pontja a 219/2004. (VII. 21.) Korm. rendelet 43. §-ának (2) bekezdése szerint módosított szöveg.
-[^17]: 219/2004. (VII. 21.) Korm. rendelet a felszín alatti vizek védelméről.
+[^22]: A 2. számú melléklet I. fejezetének 2.2. pontja a 219/2004. (VII. 21.) Korm. rendelet 43. §-ának (2) bekezdése szerint módosított szöveg.
+[^23]: 219/2004. (VII. 21.) Korm. rendelet a felszín alatti vizek védelméről.
+[^24]: A 2. számú melléklet I. fejezetének 2.6. pontja a 219/2004. (VII. 21.) Korm. rendelet 43. §-ának (2) bekezdése szerint módosított szöveg.
+[^25]: 219/2004. (VII. 21.) Korm. rendelet a felszín alatti vizek védelméről.
+[^26]: A 2. számú melléklet II. pontja a 221/2014. (IX. 4.) Korm. rendelet 162. § e) pontja szerint módosított szöveg.

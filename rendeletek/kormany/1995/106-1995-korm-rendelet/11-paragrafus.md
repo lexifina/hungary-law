@@ -4,4 +4,6 @@
 
 (2) A felszámolónak az egyszerűsített felszámolás írásbeli előkészítése során figyelembe kell vennie a nyilatkozat, illetve, ha környezeti állapotvizsgálat elvégzésre került, annak hatósági elbírálását, valamint ezzel összhangban a vagyonfelosztási javaslat kialakítása során a vagyontárgyakhoz fűződő környezeti terheket.
 
-(3) A (2) bekezdés szerinti terhekkel kapcsolatos, még végre nem hajtott hatósági határozat esetén az írásbeli előkészítést a felszámoló a felügyelőségnek véleményezésre megküldi. A véleményezés határideje 15 nap. Amennyiben a felügyelőség a határidőn belül nem közli véleményét, úgy kell tekinteni, hogy nem kíván véleményt nyilvánítani.
+(3)[^13] A (2) bekezdés szerinti terhekkel kapcsolatos, még végre nem hajtott hatósági határozat esetén az írásbeli előkészítést a felszámoló a felügyelőségnek, valamint – ha a környezeti károsodások, terhek rendezésére kötelezés a felszíni vizeket, a felszín alatti vizeket érinti – a területi vízügyi hatóságnak is véleményezésre megküldi. A véleményezés határideje 15 nap. Amennyiben a felügyelőség, illetve a területi vízügyi hatóság a határidőn belül nem közli véleményét, úgy kell tekinteni, hogy nem kíván véleményt nyilvánítani.
+
+[^13]: A 11. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 162. § d) pontja szerint módosított szöveg.

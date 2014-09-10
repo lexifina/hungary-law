@@ -1,3 +1,3 @@
-## 17. §[^12]
+## 17. §[^20]
 
-[^12]: A 17. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1406. pontja hatályon kívül helyezte.
+[^20]: A 17. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1406. pontja hatályon kívül helyezte.
