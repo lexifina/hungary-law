@@ -1,7 +1,7 @@
-## 643–644. §[^415]
+## 643–644. §[^439]
 
 ## 427. Az Európai Unió intézményeiben nemzeti szakértőként foglalkoztatott köztisztviselőkről, kormánytisztviselőkről és a fegyveres szervek hivatásos állományú tagjairól szóló
 
 ## 34/2012. (III. 9.) Korm. rendelet módosítása
 
-[^415]: A 643–644. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^439]: A 643–644. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

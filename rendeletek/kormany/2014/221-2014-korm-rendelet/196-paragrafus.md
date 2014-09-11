@@ -1,5 +1,5 @@
-## 195. §[^170]
+## 195. §[^172]
 
 ## 173. A Szabad Magyarországért Emléklap alapításáról és adományozásáról, valamint a nemzeti helytállásért elnevezésű pótlék bevezetéséről szóló 173/1995. (XII. 27.) Korm. rendelet módosításáról szóló 110/1999. (VII. 7.) Korm. rendelet módosítása
 
-[^170]: A 195. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^172]: A 195. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 448. §[^316]
+## 448. §[^330]
 
 ## 328. A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjainak végrehajtásáról szóló 160/2009. (VIII. 3.) Korm. rendelet módosítása
 
-[^316]: A 448. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^330]: A 448. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

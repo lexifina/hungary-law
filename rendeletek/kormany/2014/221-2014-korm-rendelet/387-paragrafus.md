@@ -1,3 +1,5 @@
-## 386. § Hatályát veszti a természetben okozott károsodás mértékének megállapításáról, valamint a kármentesítés szabályairól szóló 91/2007. (IV. 26.) Korm. rendelet 4. § (1), (3) és (5) bekezdésében a „területi kirendeltsége” szövegrész.
+## 386. §[^288]
 
 ## 286. A Deák Ferenc Ösztöndíjról szóló 101/2007. (V. 8.) Korm. rendelet módosítása
+
+[^288]: A 386. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

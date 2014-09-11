@@ -1,5 +1,5 @@
-## 229. §[^197]
+## 229. §[^200]
 
 ## 201. A magánnyugdíjpénztárak befektetési és gazdálkodási tevékenységéről szóló 282/2001. (XII. 26.) Korm. rendelet módosítása
 
-[^197]: A 229. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^200]: A 229. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

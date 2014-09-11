@@ -1,5 +1,5 @@
-## 787. §[^483]
+## 787. §[^512]
 
 ## 497. Az egyházi és nem állami fenntartású szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok állami támogatásáról szóló 489/2013. (XII. 18.) Korm. rendelet módosítása
 
-[^483]: A 787. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^512]: A 787. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

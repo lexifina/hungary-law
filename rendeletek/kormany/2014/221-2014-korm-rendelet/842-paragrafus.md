@@ -1,3 +1,3 @@
-## 840–841. §[^505]
+## 840–841. §[^535]
 
-[^505]: A 840–841. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^535]: A 840–841. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

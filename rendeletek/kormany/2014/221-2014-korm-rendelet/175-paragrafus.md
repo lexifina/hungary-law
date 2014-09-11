@@ -1,5 +1,5 @@
-## 174. §[^154]
+## 174. §[^156]
 
 ## 157. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet módosítása
 
-[^154]: A 174. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^156]: A 174. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

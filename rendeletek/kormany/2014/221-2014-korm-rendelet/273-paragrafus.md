@@ -1,3 +1,0 @@
-## 272. § A felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet 34. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A környezetvédelemért felelős miniszter a Kvt. 49. §-a szerinti Országos Környezetvédelmi Információs Rendszer részeként, a felszín alatti víz veszélyeztetésével, terhelésével, szennyezésével, károsításával és kármentesítésével, továbbá mindezek hatásával összefüggő információk és adatok gyűjtésére, kezelésére és nyilvántartására az irányítása alá tartozó környezetvédelmi hatóságok útján állami feladatként, a Kvt. 66. § (3) bekezdése szerinti hatósági nyilvántartási rendszerrel összehangoltan működteti a Felszín alatti víz környezetvédelmi nyilvántartási rendszerét (a továbbiakban: FAVI).”

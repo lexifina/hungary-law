@@ -1,3 +1,5 @@
-## 443. § A Nemzeti Hírközlési Hatóság eljárásában közreműködő szakhatóságok kijelöléséről, valamint egyes szakhatósági közreműködések megszüntetéséről és módosításáról szóló 362/2008. (XII. 31.) Korm. rendelet 1. melléklete a 13. melléklet szerint módosul.
+## 443. §[^325]
 
 ## 323. A kis- és középvállalkozások helyzetével, támogatásával összefüggő adatszolgáltatásról szóló 5/2009. (I. 16.) Korm. rendelet módosítása
+
+[^325]: A 443. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

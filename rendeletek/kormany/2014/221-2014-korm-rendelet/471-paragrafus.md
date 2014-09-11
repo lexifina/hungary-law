@@ -1,5 +1,5 @@
-## 470. §[^332]
+## 470. §[^348]
 
 ## 344. A minősített adat elektronikus biztonságának, valamint a rejtjeltevékenység engedélyezésének és hatósági felügyeletének részletes szabályairól szóló 161/2010. (V. 6.) Korm. rendelet módosítása
 
-[^332]: A 470. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^348]: A 470. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 765. §[^478]
+## 765. §[^506]
 
 ## 491. A régészeti örökséggel és a műemléki értékkel kapcsolatos szakértői tevékenységről szóló 439/2013. (XI. 20.) Korm. rendelet módosítása
 
-[^478]: A 765. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^506]: A 765. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
