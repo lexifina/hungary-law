@@ -1,4 +1,4 @@
-## 21. § Hatályát veszti a vízügyi igazgatási, valamint a vízügyi hatósági feladatokat ellátó szervek kijelöléséről szóló 482/2013. (XII. 17.) Korm. rendelet.
+## 21. §[^1]
 
 1. melléklet a 223/2014. (IX. 4.) Korm. rendelethez
 
@@ -289,3 +289,5 @@ a) folyók: a Sebes-Körös az országhatártól a torkolatig 59 km, a Fekete-K�
 b) árvízvédelmi művek: a Hortobágy-Berettyó bal parti töltése a torkolattól Ecsegfalva és Bucsa közigazgatási határáig 43 km hosszban és a Hármas-Körös jobb parti töltése a Hortobágy-Berettyó és a Sebes-Körös között, a Sebes-Körös jobb parti töltése a Hármas-Körös és Berettyó torkolata között, a Berettyó jobb parti töltése Darvas és a Sebes-Körös között, a Sebes-Körös bal parti töltése az országhatár és a Hármas-Körös között, a Hármas-Körös bal parti töltése a Horgavölgyi-ér mellékága alatti Darurampa és a Sebes-Körös között, a Kettős-Körös, a Fekete-Körös és a Fehér-Körös mindkét parti töltései, a Fehér-Körös bal parti lokalizációs töltés, a mérgesi és a mályvádi árvízi szükségtározók töltései, a Kisdelta szükségtározó zárótöltése (a Fehér-Körös jobb oldali és a Fekete-Körös bal oldali védtöltései között), a Gyulavári és Dénes-majori körtöltések, a Fehér-Körös és a Fekete-Körös közötti lokalizációs töltés, a Fekete-Körös és a Sebes-Körös közötti lokalizációs töltés, az Öcsöd-Békésszentandrási lokalizációs töltés az Alsó-Tisza-vidéki Vízügyi Igazgatóság határáig,
 
 c) kisvízfolyások, belvízcsatornák és vízilétesítmények: a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és az azokon lévő vízilétesítmények, ezen kívül Békés megyében a Dögös-Kákafoki-főcsatorna Nagyszénás, Orosháza területén, Hajdú-Bihar megyében Biharnagybajom-Nagyrábé-Darvas község határában az Ó-Berettyó-csatorna.
+
+[^1]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
