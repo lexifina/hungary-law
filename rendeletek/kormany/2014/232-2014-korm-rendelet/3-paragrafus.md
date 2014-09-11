@@ -1,0 +1,3 @@
+## 2. § Az 1. § szerinti beszerzésnek minősül a Budapest I. kerület, 6461, 6460, 6459, 6458, 6515 és 14363/1 helyrajzi számon nyilvántartott ingatlanokon (a továbbiakban együtt: Ingatlanok) az épületek átépítéséhez és felújításához, valamint az Ingatlanokon új épület létesítéséhez kapcsolódó tervezési munkák ellátására, a tervezési előkészítő munkálatok ellátására, a koncepciótervek, az építési engedélyezési tervek, a kiviteli tervek és a megvalósulási tervek elkészítésére, valamint egyéb meghatározott tervezési feladatok ellátására irányuló beszerzések.
+
+3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
