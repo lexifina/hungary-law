@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-338-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-09-26 | 2013-338-20-22.1 | 338/2013. (IX. 25.) Korm. rendelet |
+| 2014-09-12 | 2013-338-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
