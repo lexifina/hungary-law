@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-126-20-
 | 2013-06-25 | 2012-126-20-22.7 | 224/2013. (VI. 24.) Korm. rendelet |
 | 2013-12-05 | 2012-126-20-22.8 | 464/2013. (XII. 4.) Korm. rendelet |
 | 2014-01-01 | 2012-126-20-22.9 | 166/2012. (VII. 19.) Korm. rendelet |
+| 2014-09-13 | 2012-126-20-22.10 | 229/2014. (IX. 5.) Korm. rendelet |
