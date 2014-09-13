@@ -20,15 +20,15 @@
 
 | 9. | talajvédelmi hatósági eljárások | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 11. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 12. |  |  | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 12. |  |  | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 13. | azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 13. |  |  |  |
 
-2. melléklet a 150/2014. (V. 6.) Korm. rendelethez
+2. melléklet a 150/2014. (V. 6.) Korm. rendelethez[^5]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -48,9 +48,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 7. | rendészet: az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Miskolci Rendőrkapitányság | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság |
 
-| 8. | tűzvédelem | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 8. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 9. | katasztrófavédelem | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 10. | talajvédelem | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -67,3 +67,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 | 16. | régészet | Miskolci Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 17. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+
+[^5]: A 2. melléklet a 229/2014. (IX. 5.) Korm. rendelet 190. § (2) bekezdése és 191. § c) pontja szerint módosított szöveg.
