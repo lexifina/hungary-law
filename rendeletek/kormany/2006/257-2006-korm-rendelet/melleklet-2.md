@@ -6,7 +6,7 @@
 
 |  |  | tároló létesítési engedély | Tolna Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-2. melléklet a 257/2006. (XII. 15.) Korm. rendelethez[^2]
+2. melléklet a 257/2006. (XII. 15.) Korm. rendelethez[^6]
 
 Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
@@ -34,7 +34,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | földtani közeg, ásványi nyersanyag védelme | Pécsi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| lakosság életének védelme | Tolna Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| lakosság életének védelme | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | településrendezési előírásokkal való összhang | az építési tevékenység helye szerinti települési önkormányzat jegyzője | Tolna Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
@@ -62,7 +62,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - rendőrség | ORFK Igazgatásrendészeti Főosztály | országos rendőrfőkapitány |
 
-| polgári védelem, tűzvédelem | Tolna Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| polgári védelem, tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | földtan, bányászat | Pécsi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -78,4 +78,4 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - rendőrség | ORFK Igazgatásrendészeti Főosztály | országos rendőrfőkapitány |
 
-[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 156. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 7. §-a, a 23/2012. (II. 29.) Korm. rendelet 16. §-a, a 296/2012. (X. 17.) Korm. rendelet 21. §-a, a 394/2012. (XII. 20.) Korm. rendelet 13. §-a, az 527/2013. (XII. 30.) Korm. rendelet 39. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 156. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 7. §-a, a 23/2012. (II. 29.) Korm. rendelet 16. §-a, a 296/2012. (X. 17.) Korm. rendelet 21. §-a, a 394/2012. (XII. 20.) Korm. rendelet 13. §-a, az 527/2013. (XII. 30.) Korm. rendelet 39. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 8–9. §-a szerint módosított szöveg.
