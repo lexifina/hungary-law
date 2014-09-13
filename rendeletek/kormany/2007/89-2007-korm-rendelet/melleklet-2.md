@@ -12,7 +12,7 @@
 
 |  |  | A főváros kerületi önkormányzatai tulajdonában lévő utak, járdák | Közúthatósági engedélyek | fővárosi kormányhivatal V. kerületi hivatala | Budapest Főváros Kormányhivatalának Közlekedési Felügyelősége |
 
-2. számú melléklet a 89/2007. (IV. 26.) Korm. rendelethez[^8]
+2. számú melléklet a 89/2007. (IV. 26.) Korm. rendelethez[^12]
 
 ## Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
@@ -22,7 +22,7 @@
 
 | Rendőrség | Budapesti Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| Tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | a honvédelemért felelős miniszter |
 
@@ -30,7 +30,7 @@
 
 | Régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| Polgári védelem | Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| Katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | Útügy | Fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: fővárosi kormányhivatal V. kerületi hivatala | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
 
@@ -52,7 +52,7 @@
 
 | Rendőrség | Budapesti Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| Tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | a honvédelemért felelős miniszter |
 
@@ -62,7 +62,7 @@
 
 | Régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| Polgári védelem | Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| Katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | Útügy | Fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: fővárosi kormányhivatal V. kerületi hivatala | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
 
@@ -84,9 +84,9 @@
 
 | Rendőrség | Budapesti Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| Tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| Katasztrófa- és polgári védelem | Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| Katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | Egészségügy | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -116,9 +116,9 @@
 
 | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| Tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| Katasztrófa- és polgári védelem | Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| Katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | Rendőrség | Budapesti Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -134,4 +134,4 @@
 
 | Vasúti ügyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-[^8]: A 2. számú melléklet az 527/2013. (XII. 30.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^12]: A 2. számú melléklet az 527/2013. (XII. 30.) Korm. rendelet 48. §-ával megállapított, a 229/2014. (IX. 5.) Korm. rendelet 11–12. §-a szerint módosított szöveg.
