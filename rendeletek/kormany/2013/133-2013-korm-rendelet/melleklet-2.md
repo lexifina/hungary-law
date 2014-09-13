@@ -28,15 +28,15 @@
 
 | 13. | bányahatósági engedélyezési eljárás | Magyar Bányászati és Földtani Hivatal Szolnoki Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 14. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 14. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 15. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 15. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 16. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | Nincs |
 
-| 17. | a jogszabályban, nemzeti szabványban teljes körűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | Nincs |
+| 17. |  |  |  |
 
-2. melléklet a 133/2013. (V. 9.) Korm. rendelethez[^2]
+2. melléklet a 133/2013. (V. 9.) Korm. rendelethez[^5]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -60,9 +60,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 8. | rendészet | Kecskeméti Rendőrkapitányság | Bács-Kiskun Megyei Rendőr-főkapitányság |
 
-| 9. | tűzvédelem | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | katasztrófavédelem | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 10. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 11. | talajvédelem | Bács-Kiskun Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -72,4 +72,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 14. | műszaki biztonság | Csongrád Megyei Kormányhivatal Szegedi Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 142. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 142. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 121. § (2) bekezdése és 122. § c) pontja szerint módosított szöveg.
