@@ -30,13 +30,13 @@
 
 | 14 | talajvédelmi hatósági engedélyek | Csongrád Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 15 | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai, tűzvédelmi hatósági engedélyezési eljárások, jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 15 | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai, tűzvédelmi hatósági engedélyezési eljárások, jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 16 | azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 16 |  |  |  |
 
 | 17 | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 225/2013. (VI. 24.) Korm. rendelethez[^3]
+2. melléklet a 225/2013. (VI. 24.) Korm. rendelethez[^6]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -46,7 +46,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 2 | építésügy, műemlékvédelem, régészet | Szegedi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Csongrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3 | katasztrófavédelem, tűzvédelem | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 3 | katasztrófavédelem, tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 4 | közlekedés (közút) | Csongrád Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -82,4 +82,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 19 | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-[^3]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 145. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 145. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 130. § (2) bekezdése és 131. § c) pontja szerint módosított szöveg.
