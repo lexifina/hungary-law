@@ -20,15 +20,15 @@
 
 | 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 11. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 12. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 12. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 13. | azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 13. |  |  |  |
 
-2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^7]
+2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^10]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -50,9 +50,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 7. | b) az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Budapesti XIV. kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
 
-| 8. | tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 8. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 9. | katasztrófavédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 10. | földművelésügy: talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -64,4 +64,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 14. | Régészeti és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^7]: A 2. melléklet a 36/2012. (III. 9.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 70/2012. (IV. 11.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 11. § (2) bekezdése, a 394/2012. (XII. 20.) Korm. rendelet 53. §-a, az 527/2013. (XII. 30.) Korm. rendelet 110. § (1) bekezdése szerint módosított szöveg.
+[^10]: A 2. melléklet a 36/2012. (III. 9.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 70/2012. (IV. 11.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 11. § (2) bekezdése, a 394/2012. (XII. 20.) Korm. rendelet 53. §-a, az 527/2013. (XII. 30.) Korm. rendelet 110. § (1) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 76. § (2) bekezdése és 77. § c) pontja szerint módosított szöveg.
