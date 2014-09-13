@@ -40,15 +40,15 @@
 
 | 19 |  |  | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 20 | a jogszabályban, nemzeti szabványban teljes körűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 20 |  |  |  |
 
-| 21 | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Baranya Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 21 | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 22 | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Baranya Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 22 | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 23 | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 166/2014. (VII. 17.) Korm. rendelethez
+2. melléklet a 166/2014. (VII. 17.) Korm. rendelethez[^5]
 
 Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű ügyekben közreműködő szakhatóságok
 
@@ -76,11 +76,11 @@ Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű �
 
 | 11 | rendészet | Mohácsi Rendőrkapitányság | Baranya Megyei Rendőr-főkapitányság |
 
-| 12 | tűzvédelem | Baranya Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 12 | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 13 | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 14 | katasztrófavédelem | Baranya Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 14 | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 15 | talajvédelem | Baranya Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -93,3 +93,5 @@ Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű �
 | 19 | műszaki biztonság | Baranya Megyei Kormányhivatal Pécsi Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 | 20 | telekalakítási eljárásban a településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelés | Mohács Város Önkormányzatának jegyzője | Baranya Megyei Kormányhivatal |
+
+[^5]: A 2. melléklet a 229/2014. (IX. 5.) Korm. rendelet 196. § (2) bekezdése és 197. § c) pontja szerint módosított szöveg.

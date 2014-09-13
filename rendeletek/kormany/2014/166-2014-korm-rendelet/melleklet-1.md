@@ -1,3 +1,3 @@
-## 5. § E rendelet rendelkezéseit a hatálybalépését megelőzően indult eljárásokban is alkalmazni kell, amennyiben az eljárás megindítására irányuló kérelmet benyújtó ügyfél azt az ügyben eljáró hatósághoz benyújtott külön nyilatkozatával kéri.
+1. melléklet a 166/2014. (VII. 17.) Korm. rendelethez[^4]
 
-1. melléklet a 166/2014. (VII. 17.) Korm. rendelethez
+[^4]: Az 1. melléklet a 229/2014. (IX. 5.) Korm. rendelet 196. § (1) bekezdése és 197. § a)–b) pontja szerint módosított szöveg.
