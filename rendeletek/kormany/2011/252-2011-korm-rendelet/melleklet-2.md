@@ -16,15 +16,15 @@
 
 | 7. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 8. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások | Heves Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 8. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 9. | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Heves Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 10. | a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet szerinti engedélyek | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 11. | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 11. |  |  |  |
 
-2. melléklet a 252/2011. (XII. 1.) Korm. rendelethez[^2]
+2. melléklet a 252/2011. (XII. 1.) Korm. rendelethez[^5]
 
 A beruházással összefüggő kiemelt jelentőségű üggyé minősített hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -34,9 +34,9 @@ A beruházással összefüggő kiemelt jelentőségű üggyé minősített ható
 
 | 2. | építésügy | Egri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Heves Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | tűzvédelem | Heves Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 3. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 4. | katasztrófavédelem | Heves Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 4. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 5. | régészet és műemlékvédelem | Egri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Heves Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -46,4 +46,4 @@ A beruházással összefüggő kiemelt jelentőségű üggyé minősített ható
 
 | 8. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-[^2]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 50. §-a, az 527/2013. (XII. 30.) Korm. rendelet 106. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 50. §-a, az 527/2013. (XII. 30.) Korm. rendelet 106. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 66. § (2) bekezdése, 67. § c) pontja szerint módosított szöveg.
