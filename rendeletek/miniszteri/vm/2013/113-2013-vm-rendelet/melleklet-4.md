@@ -2,25 +2,25 @@
 
 ## Szállítási szerződés
 
-## amely létrejött egyrészről a
+## amely létrejött egyrészről a ..........................................................................................................
 
-## székhelye:
+## székhelye: ....................................................................................................................................
 
-## adószáma: ......................................................... ügyfél-azonosító (ha van):
+## adószáma: ......................................................... ügyfél-azonosító (ha van): .................................
 
-## képviseli: . (a továbbiakban mint szállító),
+## képviseli: ..................................................................................... (a továbbiakban: szállító), másrészről a .................................................................................................................................
 
-## másrészről a
+## székhelye: ....................................................................................................................................
 
-## székhelye:
+## adószáma: ........................................................... ügyfél-azonosító (ha van): ...............................
 
-## adószáma: ......................................................... ügyfél-azonosító (ha van):
+## képviseli: ................................................................................... (a továbbiakban: fenntartó/ működtető), között az alulírott helyen és napon az alábbi köznevelési intézmény (a továbbiakban: átvevő) vonatkozásában:
 
-## képviseli: ........................................................................................... (a továbbiakban mint fenntartó/ működtető), között az alulírott helyen és napon az alábbi köznevelési intézmény (a továbbiakban: átvevő) vonatkozásában:
+## neve: ...........................................................................................................................................
 
-## neve:
+## székhely szerinti megye: ……………………………………………………………………….
 
-## székhelye:
+## székhelye: ....................................................................................................................................
 
 ## OM azonosító száma: ...............................................
 
@@ -30,23 +30,15 @@
 
 ## 1. A szerződés tárgya
 
-## A szállító vállalja, hogy ….. napjától (szállítás kezdőnapja) kezdődően ….. napjáig (szállítás vége dátum) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló 1234/2007/EK tanácsi rendelet (az egységes közös piacszervezésről szóló rendelet) 102. cikkében meghatározott, az iskolai tanulók tejtermékkel való ellátásához nyújtott támogatás keretében a 2. és 5. pontban meghatározott termékeket szállít az átvevő részére, a fenntartó vállalja, hogy az átvevő a terméket átveszi és a kedvezményezettek (óvodások, általános iskolai tanulók, középfokú iskolai tanulók) részére kiosztja.
+## A szállító vállalja, hogy ..... napjától (szállítás kezdőnapja) kezdődően ..... napjáig (szállítás vége dátum) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-ei 1308/2013/EU európai parlamenti és tanácsi rendelet (az egységes közös piacszervezésről szóló rendelet) 102. cikkében meghatározott, az iskolai tanulók tejtermékkel való ellátásához nyújtott támogatás keretében a 2. és 5. pontban meghatározott termékeket szállít az átvevő részére, a fenntartó vállalja, hogy az átvevő a terméket átveszi és a kedvezményezettek (óvodások, általános iskolai tanulók, középfokú iskolai tanulók) részére kiosztja.
 
 ## 2. A szállítandó termék
 
-## A szállítandó terméknek meg kell felelnie az óvoda-, és iskolatej program szabályozásáról szóló 113/2013. (XII. 10.) VM rendelet (a továbbiakban: a 113/2013. (XII. 10.) VM rendelet) 7. §-a szerinti minőségi feltételeknek.
+## A szállítandó terméknek meg kell felelnie az óvoda-, és iskolatej program szabályozásáról szóló 113/2013. (XII. 10.) VM rendelet [a továbbiakban: a 113/2013. (XII. 10.) VM rendelet] 6. § (2a) bekezdése szerinti minőségi feltételeknek.
 
-## Szállítandó termék: ⎕
+## Szállítandó termék:
 
-## ⎕ I/a. teljes/félzsíros tej (zsírtartalom 2,8 % vagy e feletti)
-
-## Kiszerelés:
-
-## Egységnyi mennyiség (kiszerelésenként mértékegységgel):
-
-## Egységár:
-
-## ⎕ I/a. zsírszegény tej (zsírtartalom 1,5-1,8 %)
+## □ I/a. teljes/félzsíros tej (zsírtartalom 2,8% vagy e feletti)
 
 ## Kiszerelés:
 
@@ -54,7 +46,9 @@
 
 ## Egységár:
 
-## ⎕ I/b. zsíros/félzsíros ízesített tej (zsírtartalom 2,8 %vagy e feletti)
+## Rendelt mennyiség: …/szállítási alkalom (a napi/heti rendelés az 5. pontnak megfelelően ezt a pontos igények alapján kis mértékben módosíthatja)
+
+## □ I/a. zsírszegény tej (zsírtartalom 1,5-1,8%)
 
 ## Kiszerelés:
 
@@ -62,7 +56,9 @@
 
 ## Egységár:
 
-## ⎕ I/b. zsírszegény ízesített tej (zsírtartalom 1,5-1,8 %)
+## Rendelt mennyiség: …/szállítási alkalom (a napi/heti rendelés az 5. pontnak megfelelően ezt a pontos igények alapján kis mértékben módosíthatja)
+
+## □ I/b. zsíros/félzsíros ízesített tej (zsírtartalom 2,8% vagy e feletti)
 
 ## Kiszerelés:
 
@@ -70,7 +66,9 @@
 
 ## Egységár:
 
-## ⎕ I/c. natúr joghurt és natúr kefir
+## Rendelt mennyiség: …/szállítási alkalom (a napi/heti rendelés az 5. pontnak megfelelően ezt a pontos igények alapján kis mértékben módosíthatja)
+
+## □ I/b. zsírszegény ízesített tej (zsírtartalom 1,5-1,8%)
 
 ## Kiszerelés:
 
@@ -78,7 +76,9 @@
 
 ## Egységár:
 
-## ⎕ I/c. gyümölcsleves/ízesített joghurt
+## Rendelt mennyiség: …/szállítási alkalom (a napi/heti rendelés az 5. pontnak megfelelően ezt a pontos igények alapján kis mértékben módosíthatja)
+
+## □ I/c. natúr joghurt és natúr kefir
 
 ## Kiszerelés:
 
@@ -86,43 +86,115 @@
 
 ## Egységár:
 
-## ⎕ II. gyümölcsdarabos joghurt
+## Rendelt mennyiség: …/szállítási alkalom (a napi/heti rendelés az 5. pontnak megfelelően ezt a pontos igények alapján kis mértékben módosíthatja)
 
-## Kiszerelés:
-
-## Egységnyi mennyiség (kiszerelésenként mértékegységgel):
-
-## Egységár: ⎕ III. ömlesztett sajt
+## □ I/c. gyümölcsleves/ízesített joghurt
 
 ## Kiszerelés:
 
 ## Egységnyi mennyiség (kiszerelésenként mértékegységgel):
 
 ## Egységár:
+
+## Rendelt mennyiség: …/szállítási alkalom (a napi/heti rendelés az 5. pontnak megfelelően ezt a pontos igények alapján kis mértékben módosíthatja)
+
+## □ II. gyümölcsdarabos joghurt
+
+## Kiszerelés:
+
+## Egységnyi mennyiség (kiszerelésenként mértékegységgel):
+
+## Egységár:
+
+## Rendelt mennyiség: …/szállítási alkalom (a napi/heti rendelés az 5. pontnak megfelelően ezt a pontos igények alapján kis mértékben módosíthatja)
+
+## □ III. ömlesztett sajt
+
+## Kiszerelés:
+
+## Egységnyi mennyiség (kiszerelésenként mértékegységgel):
+
+## Egységár:
+
+## Rendelt mennyiség: …/szállítási alkalom (a napi/heti rendelés az 5. pontnak megfelelően ezt a pontos igények alapján kis mértékben módosíthatja)
 
 ## 3. A teljesítés helyszíne, helyszínei
 
 ## Az átvevő köznevelési intézmény székhelye:
 
-## .......................……………………………………..…….....……
+## ..........................................................................
 
-## ⎕⎕⎕⎕ ................................................. (helység) ................................................. (út/utca/tér) (házszám)
+## □□□□ ………. (megye) ................................... (helység) ................................. (út/utca/tér) .............. (házszám)
 
-## OM azonosító: ⎕⎕⎕⎕⎕⎕ Feladatellátási hely azonosító: ⎕⎕⎕
+## OM azonosító: □□□□□□ Feladatellátási hely kód: □□□
 
-## Ellátott óvodások/tanulók száma:
+## Ellátott általános iskolás tanulók száma:
 
-## Sajátos nevelési igényű óvodások/tanulók száma:
+## Ellátott sajátos nevelési igényű tanulók száma:
 
-## Tagintézmény esetében az átvevő tagintézmény neve: ...............……………………………………………………………….………
+## Ellátott óvodások száma:
 
-## ⎕⎕⎕⎕ ................................................. (helység) ................................................. (út/utca/tér) (házszám)
+## Ellátott sajátos nevelési igényű óvodások száma:
 
-## OM azonosító: ⎕⎕⎕⎕⎕⎕ Feladatellátási hely azonosító: ⎕⎕⎕
+## Ellátott középiskolás tanulók száma:
 
-## Ellátott óvodások/tanulók száma:
+## Szállítandó termék és annak szállítási alkalmankénti mennyisége (db/liter/kg – a megfelelő aláhúzandó):
 
-## Sajátos nevelési igényű óvodások/tanulók száma:
+## □ I/a. teljes/félzsíros tej Rendelt mennyiség: db/liter
+
+## □ I/a. zsírszegény tej Rendelt mennyiség: db/liter
+
+## □ I/b. zsíros/félzsíros ízesített tej Rendelt mennyiség: db/liter
+
+## □ I/b. zsírszegény ízesített tej Rendelt mennyiség: db/liter
+
+## □ I/c. natúr joghurt Rendelt mennyiség: db/kg
+
+## □ I/c. natúr kefir Rendelt mennyiség: db/kg
+
+## □ I/c. gyümölcsleves/ízesített joghurt Rendelt mennyiség: db/ kg
+
+## □ II. gyümölcsdarabos joghurt Rendelt mennyiség: db/kg
+
+## □ III. ömlesztett sajt Rendelt mennyiség: db/kg
+
+## Tagintézmény esetében az átvevő tagintézmény neve:
+
+## ...........................................................................................
+
+## □□□□ ………. (megye) ................................... (helység) ................................. (út/utca/tér) .............. (házszám)
+
+## OM azonosító: □□□□□□ Feladatellátási hely azonosító: □□□
+
+## Ellátott általános iskolás tanulók száma:
+
+## Ellátott sajátos nevelési igényű tanulók száma:
+
+## Ellátott óvodások száma:
+
+## Ellátott sajátos nevelési igényű óvodások száma:
+
+## Ellátott középiskolás tanulók száma:
+
+## Szállítandó termék és annak szállítási alkalmankénti mennyisége (db/liter/kg – a megfelelő aláhúzandó):
+
+## □ I/a. teljes/félzsíros tej Rendelt mennyiség: db/liter
+
+## □ I/a. zsírszegény tej Rendelt mennyiség: db/liter
+
+## □ I/b. zsíros/félzsíros ízesített tej Rendelt mennyiség: db/liter
+
+## □ I/b. zsírszegény ízesített tej Rendelt mennyiség: db/liter
+
+## □ I/c. natúr joghurt Rendelt mennyiség: db/kg
+
+## □ I/c. natúr kefir Rendelt mennyiség: db/kg
+
+## □ I/c. gyümölcsleves/ízesített joghurt Rendelt mennyiség: db/ kg
+
+## □ II. gyümölcsdarabos joghurt Rendelt mennyiség: db/kg
+
+## □ III. ömlesztett sajt Rendelt mennyiség: db/kg
 
 ## (további helyszínek szükség esetén beszúrhatók)
 
@@ -130,45 +202,53 @@
 
 ## A jelen szerződés alapján történő szállítások időszaka:
 
-## I. időszak - a ⎕⎕/⎕⎕ tanévben: ⎕⎕⎕⎕ - ⎕⎕⎕⎕ Ellátási napok száma: ⎕⎕
+## 201□/201□ tanév:
 
-## II. időszak - a ⎕⎕/⎕⎕ tanévben: ⎕⎕⎕⎕ - ⎕⎕⎕⎕ Ellátási napok száma: ⎕⎕
+## □□ hónap □□ nap - □□ hónap □□ nap Ellátási napok száma: □□
 
-## III. időszak - a ⎕⎕/⎕⎕ tanévben: ⎕⎕⎕⎕ - ⎕⎕⎕⎕ Ellátási napok száma: ⎕⎕
+## □□ hónap □□ nap - □□ hónap □□ nap Ellátási napok száma: □□
 
-## IV. időszak - a ⎕⎕/⎕⎕ tanévben: ⎕⎕⎕⎕ - ⎕⎕⎕⎕ Ellátási napok száma: ⎕⎕
+## □□ hónap □□ nap - □□ hónap □□ nap Ellátási napok száma: □□
 
-## V. időszak - a ⎕⎕/⎕⎕ tanévben: ⎕⎕⎕⎕ - ⎕⎕⎕⎕ Ellátási napok száma: ⎕⎕
+## □□ hónap □□ nap - □□ hónap □□ nap Ellátási napok száma: □□
 
-## A teljesítési időszak alatti szállítások száma (szállítási gyakoriság): naponta, hetente (hétfő-kedd-szerda-csütörtök-péntek). (a megfelelő napokat kérjük aláhúzni)
+## □□ hónap □□ nap - □□ hónap □□ nap Ellátási napok száma: □□
+
+## A teljesítési időszak alatt a szállítások gyakorisága: naponta, hetente (hétfő-kedd-szerda-csütörtök-péntek). (A megfelelő napokat kérjük aláhúzni)
+
+## A teljesítési időszak alatt a kiosztások gyakorisága: naponta, hetente (hétfő-kedd-szerda-csütörtök-péntek). (A megfelelő napokat kérjük aláhúzni)
 
 ## 5. Az áru megrendelése:
 
-## Az intézmények létszámváltozás esetén a napi/heti megrendelést a tárgynapot/tárgyhetet megelőző napon/héten ….(nap) ….óráig módosíthatják. A megrendelés írásban (levél, fax)/szóban (telefon) .... telefonszámon történhet.
+## Az intézmények létszámváltozás esetén a napi/heti megrendelést a tárgynapot/tárgyhetet megelőző napon/héten .... (nap) .... óráig módosíthatják. A megrendelés írásban (levél, fax)/szóban (telefon) .... telefonszámon történhet.
 
-## A fenntartó vállalja, hogy a szorgalmi időben a tanítási szünetekre, illetve a tanítás nélküli munkanapokra vonatkozó megrendeléseket szükség szerint módosítja vagy lemondja. Gondoskodik arról, hogy ezekre a napokra az intézményei a megrendeléseket szükség szerint módosítsák vagy lemondják.
+## A fenntartó vállalja, hogy a szorgalmi időben, a tanítási szünetekre, illetve a tanítás nélküli munkanapokra vonatkozó megrendeléseket szükség szerint módosítja vagy lemondja. Gondoskodik arról, hogy ezekre a napokra az intézményei a megrendeléseket szükség szerint módosítsák vagy lemondják.
 
 ## 6. A megrendelés teljesítése:
 
 ## A fenntartó és intézményei (átvevők) kötelezik magukat arra, hogy a leszállított tejtermékeket átveszik és gondoskodnak azok kiosztásáról.
 
-## Minden szállítást… példányos szállítólevél kísér, melyen az átvétel tényét az átvevő intézmény megbízottja aláírásával és bélyegzővel igazol. A szállítólevél egy másolati példányát az intézmény köteles megőrizni.
+## Minden szállítást... példányos szállítólevél kísér, amelyen az átvétel tényét az átvevő intézmény megbízottja aláírásával és bélyegzővel igazolja. A szállítólevél egy másolati példányát az intézmény köteles megőrizni.
 
 ## 7. A termék kiosztásának időpontja:
 
-## ⎕ első tanóra előtt; ⎕ tanórán; ⎕ tanórák közti szünetben;
+| □ első tanóra előtt; | □ tanórán; | □ tanórák közti szünetben; |
 
-## ⎕ tízórai szünetben; ⎕ napköziben; ⎕ egyéb:
+| □ tízórai szünetben; | □ napköziben; | □ egyéb: ..................................... |
 
 ## 8. Számlázás és fizetési feltételek
 
-## A leszállított termékről a szállító a fenntartó részére hetente/havonta/szállítási időszakonként egy, az átadott termék adagban kifejezett mennyiségét teljesítési helyszínenként, az átvevő nevét, címét és OM azonosítóját, valamint az egyes szállítások időpontjait, továbbá a szállítólevelek számát is tartalmazó számlát állít ki.
+## A leszállított termékről a szállító a fenntartó részére hetente/havonta/szállítási időszakonként egy, az átadott termék adagban kifejezett mennyiségét teljesítési helyszínenként, az ellátott intézményegység nevét, címét, OM azonosítóját, és feladatellátási hely kódját, valamint az egyes szállítások időpontjait, továbbá a szállítólevelek számát is tartalmazó számlát állít ki.
 
 ## A Kormány által rendeletben a köznevelési intézmények fenntartására kijelölt szerv által kötött szerződések esetében a számlákat a köznevelési intézmény székhelye szerint illetékes tankerület részére kell megküldeni.
 
-## Szerződő feleknek tudomásuk van arról, hogy amennyiben a Szállító a támogatás előfinanszírozója, a 113/2013. (XII. 10.) VM rendelet alapján a leszállított termékmennyiség bruttó vételárának 100%-a értékére támogatást igényelhet az MVH-n keresztül, a rendeletben meghatározott maximum támogatási mértékig. Amennyiben a termékek bruttó vételára meghaladja a maximum támogatási mértéket, a támogatás és a bruttó vételár különbözetét a fenntartó köteles megtéríteni a szállítónak. A szállítónak tudomása van arról, hogy a termékekre járó támogatási összeget az MVH a 113/2013. (XII. 10.) VM rendeletben szabályozott módon, a Szállító, mint előfinanszírozó és kérelmező számlájára közvetlenül, elszámolást követően, utólag téríti meg. Fenntartót erre tekintettel fizetési kötelezettség nem terheli.
+## A szállítónak tudomása van arról, hogy a termékekre járó támogatási összeget az MVH a 113/2013. (XII. 10.) VM rendeletben szabályozott módon, a szállító, mint előfinanszírozó és kérelmező számlájára közvetlenül, elszámolást követően, utólag téríti meg. Fenntartót erre tekintettel fizetési kötelezettség nem terheli.
 
-## Amennyiben a Fenntartó tanulói létszámra vonatkozó hibás adatszolgáltatása miatt Szállító nem tudja a leszállított teljes mennyiségre nézve a támogatási összeget lehívni, Fenntartó megtéríti Szállító számára a tanulói létszámra vonatkozó hibás adatszolgáltatás miatt keletkezett el nem számolható, leszállított termék árát.
+## Abban az esetben azonban, ha a leszállított termékek bruttó vételára meghaladja a maximum támogatási mértéket, a támogatás és a bruttó vételár különbözetét a fenntartó köteles megtéríteni a szállítónak.
+
+## Szerződő feleknek tudomásuk van arról, hogy amennyiben a szállító a támogatás előfinanszírozója, a 113/2013. (XII. 10.) VM rendelet alapján a leszállított termékmennyiség bruttó vételárának 100%-ának értékére támogatást igényelhet az MVH-n keresztül, a rendeletben meghatározott maximum támogatási mértékig.
+
+## Amennyiben a fenntartó tanulói létszámra vonatkozó hibás adatszolgáltatása miatt a szállító nem tudja a leszállított teljes mennyiségre nézve a támogatási összeget lehívni, a fenntartó megtéríti a szállító számára a tanulói létszámra vonatkozó hibás adatszolgáltatás miatt keletkezett el nem számolható, leszállított termék árát.
 
 ## 9. Számviteli elszámolás a fenntartónál, ha az költségvetési szerv és a szállító a kérelmező
 
@@ -206,27 +286,29 @@
 
 ## A jelen szerződés 4. pontjában meghatározott szállítási időszakok alatt a 113/2013. (XII. 10.) VM rendelet 6. mellékletében meghatározott kísérő intézkedések megvalósításáért felelős szerződő fél:
 
-## ⎕ szállító; ⎕ fenntartó; ⎕ közösen.
+## □ szállító; □ fenntartó; □ közösen.
 
 ## A kísérő intézkedések, amelyeket az időszak alatt megvalósít:
 
-## ⎕ Az óvoda-, és iskolatej programmal kapcsolatos interaktív honlap létrehozása.
+## □ Az óvoda-, és iskolatej programmal kapcsolatos interaktív honlap létrehozása.
 
-## ⎕ A termékek előállítóihoz (tejtermelő/tejfeldolgozó) szervezett tanulmányutak.
+## □ A termékek előállítóihoz (tejtermelő/tejfeldolgozó) szervezett tanulmányutak.
 
-## ⎕ A tanulók tej-, és tejtermékfogyasztásának és egészséges életmódjának ösztönzése érdekében szervezett verseny, pályázat, adott jutalom (apró ajándékok, pl. póló, matricák, kitűzők, írószerek, órarend, naptár, uzsonnás doboz, sportszer stb.).
+## □ A tanulók tej-, és tejtermékfogyasztásának ösztönzése érdekében szervezett verseny, pályázat, adott jutalom (apró ajándékok, pl. póló, matricák, kitűzők, írószerek, órarend, naptár, uzsonnás doboz, sportszer stb.).
 
-## ⎕ Kóstoltatás: adott tanévben legalább egy alkalommal tej, és tejtermékek kóstoltatása.
+## □ Kóstoltatás: adott tanévben legalább egy alkalommal tej, és tejtermékek kóstoltatása.
 
-## ⎕ A termékek hűtését biztosító berendezés biztosítása.
-
-## A kísérő intézkedések tervezett költsége: ................................................. Ft
+## □ A termékek hűtését biztosító berendezés biztosítása.
 
 ## A kísérő intézkedés megvalósításának földrajzi kiterjedése, elérhetősége:
 
-## ⎕ helyi; ⎕ régiós; ⎕ országos.
+## □ helyi; □ régiós; □ országos.
 
-## A kísérő intézkedéssel érintett tanulók száma: ............... fő
+## Interaktív honlap létrehozása esetében a honlap tervezett elérhetősége:
+
+## ……………………………………………………………………………….
+
+## A vállalt kísérő intézkedések megvalósítási ütemterve a szerződés 1. kötelező mellékletét képezi.
 
 ## 11. Az átvevő és a szállító kötelezettségei
 
@@ -252,20 +334,32 @@
 
 ## A támogatás igénylője iratmegőrzési helyeinek cím szerinti felsorolása a szerződés mellékletét képezi.
 
-## 13. Záró rendelkezések
+## Jelen szállítási szerződés négy eredeti példányban készült, amelyből ......egy............ példány a szállítót, ......egy.......... példány a fenntartót, .......egy......... példány az átvevőt, továbbá egy eredeti példány az MVH-t illeti meg.
 
-## A jelen szállítási szerződést a Felek az alul megjelölt napon írták alá azzal a kikötéssel, hogy a szállítási szerződés az azt jóváhagyó határozat közlését követő napon lép hatályba, és a határozatban jóváhagyott termékre és szállítási időszakra vonatkozik, valamint a szállítási szerződés teljesítése során a 113/2013. (XII. 10.) VM rendeletben foglaltak szerint járnak el.
-
-## Jelen szállítási szerződés ............. eredeti példányban készült, amelyből .................. példány a szállítót, ................ példány a fenntartót, ................ példány az átvevőt, továbbá egy eredeti példány az MVH-t illeti meg.
-
-## ......................................................, 2013. ………………………..
+## ......................................................, 2014. .............................
 
 | ............................................. szállító | ............................................. fenntartó/működtető |
 
 ## Jóváhagyó (ha a működtető köti a szállítási szerződést):
 
-## .............................................
+|  | ............................................. fenntartó |
 
-## fenntartó
+## A szállítási szerződés 1. melléklete
 
-4. melléklet a 113/2013. (XII. 10.) VM rendelethez
+|  | A | B | C | D | E | F | G | H | I | J | K |
+
+| 1. | … OM azonosítóval rendelkező intézmény és tagintézményei | Interaktív honlap létrehozása Tervezett költsége: ………………… Ft | Tanulmányút Tervezett költsége: ………………… Ft | Verseny, pályázat szervezése, jutalom adása Tervezett költsége: ………………… Ft | Kóstoltatás Tervezett költsége: ……………… Ft | A termékek hűtésére berendezés biztosítása Tervezett költsége: ……………… Ft |
+
+| Érintett tanulók száma (fő) | Megvalósítás határideje (éééé.hh.nn) | Érintett tanulók száma (fő) | Megvalósítás határideje (éééé.hh.nn) | Érintett tanulók száma (fő) | Megvalósí-tás határ-ideje (éééé.hh.nn) | Érintett tanulók száma (fő) | Megvalósítás határideje (éééé.hh.nn) | Érintett tanulók száma (fő) | Megvalósítás határideje (éééé.hh.nn) |
+
+| 2. | Intézmény-egység neve és címe: Feladatellátási hely kód: □ □ □ |  |  |  |  |  |  |  |  |  |  |
+
+| 3. | Intézmény-egység neve és címe: Feladatellátási hely kód: □ □ □ |  |  |  |  |  |  |  |  |  |  |
+
+| 4. | Intézmény-egység neve és címe: Feladatellátási hely kód: □ □ □ |  |  |  |  |  |  |  |  |  |  |
+
+| 5. | Intézmény-egység neve és címe: Feladatellátási hely kód: □ □ □ |  |  |  |  |  |  |  |  |  |  |
+
+4. melléklet a 113/2013. (XII. 10.) VM rendelethez[^32]
+
+[^32]: A 4. melléklet a 8/2014. (IX. 10.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.

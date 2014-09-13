@@ -1,22 +1,22 @@
 ## 5. A támogatható termékek köre
 
-7. § (1) Az óvoda-, és iskolatej program keretében a 2. § (1) bekezdés szerinti ellátotti kör részére a nevelési és a tanítási napokon az alábbi termékek kerülhetnek kiszállításra:
+7. § (1)[^16] Az óvoda-, és iskolatej program keretében a 2. § (1) bekezdés szerinti ellátotti kör részére a nevelési és a tanítási napokon az alábbi termékek kerülhetnek kiszállításra:
 
-a) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet (a továbbiakban: tanácsi rendelet) XIII. melléklet III. pontja szerinti teljes tej, illetve 2,8% (m/m) zsírtartalmú tej, valamint laktóz intoleranciában szenvedő gyermekek részére a tanácsi rendelet XIII. melléklet III. pontja szerinti fogyasztói tej azzal, hogy a tejtermék laktóztartalma a fogyasztásra kész állapotban kevesebb, mint 0,1 g/100 g (a továbbiakban: „I/a. teljes/félzsíros tej”);
+a) „I/a. teljes/félzsíros tej”,
 
-b) a tanácsi rendelet XIII. melléklet III. pontja szerinti zsírszegény (1,5–1,8% m/m%) tej (a továbbiakban: „I/a. zsírszegény tej”);
+b) „I/a. zsírszegény tej”,
 
-c) a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet (a továbbiakban: MÉ) 13. melléklet B rész 1.1.1. pontja szerinti ízesített tejkészítmények, azzal a feltétellel, hogy az ízesített késztermékben – a bizottsági rendelet I. melléklete I. kategória b) pontjának megfelelően – a tejhányad legalább 90% (m/m) és az 1.3. pontja szerint zsíros vagy félzsíros kategóriába esik, valamint laktóz intoleranciában szenvedő gyermekek részére a tanácsi rendelet XIII. melléklet III. pontja szerinti fogyasztói tej azzal, hogy a tejtermék laktóztartalma a fogyasztásra kész állapotban kevesebb, mint 0,1 g/100 g (a továbbiakban: „I/b. zsíros/félzsíros ízesített tej”);
+c) „I/b. zsíros/félzsíros ízesített tej”,
 
-d) a MÉ 13. melléklet B rész 1.1.1. pontja szerint ízesített tejkészítmények, azzal a feltétellel, hogy az ízesített késztermékben – a bizottsági rendelet I. melléklete I. kategória b) pontjának megfelelően – a tejhányad legalább 90% (m/m) legyen, továbbá azzal a feltétellel, hogy a MÉ 13. számú melléklet B rész 1.3. pontja szerint zsírszegény kategóriába esik (a továbbiakban: „I/b. zsírszegény ízesített tej”);
+d) „I/b. zsírszegény ízesített tej”,
 
-e) a MÉ 13. melléklet B rész 2.1.1. pont a) és b) alpontjában meghatározott élőflórás savanyú natúr tejkészítmény (natúr joghurt és kefir), amely a bizottsági rendelet I. melléklet I. kategória c) pontjának megfelelően 90 tömegszázalékban tartalmaz tejet (a továbbiakban: „I/c. natúr joghurt és natúr kefir”);
+e) „I/c. natúr joghurt és natúr kefir”,
 
-f) a MÉ 13. melléklet B rész 2.1.1. pont a) alpontjában meghatározott gyümölcslével vagy egyéb ízesítőanyaggal ízesített élőflórás savanyú tejkészítmény, amely a bizottsági rendelet I. melléklet I. kategória c) pontjának megfelelően 90 tömegszázalékban tartalmaz tejet (a továbbiakban: „I/c. gyümölcsleves/ízesített joghurt”);
+f) „I/c. gyümölcsleves/ízesített joghurt”,
 
-g) a MÉ 13. melléklet B rész 2.1.1. pont a) alpontjában meghatározott gyümölccsel ízesített, élőflórás savanyú tejkészítmény, amely a bizottsági rendelet I. melléklet II. kategóriájának megfelelően 75 tömegszázalékban tartalmaz tejet (a továbbiakban: „II. gyümölcsdarabos joghurt”);
+g) „II. gyümölcsdarabos joghurt”,
 
-h) a MÉ 13. melléklet B rész 7.1.1. vagy 7.1.2. pontjában meghatározott, nem ízesített ömlesztett sajtok, amelyek a bizottsági rendelet I. melléklet III. kategóriájának megfelelően legfeljebb 10 tömegszázalékban tartalmaznak tejidegen összetevőt, és megfelelnek a MÉ 13. melléklet B rész 7.3. pontja szerinti félzsíros vagy zsíros kategóriának (a továbbiakban: „III. ömlesztett sajt”).
+h) „III. ömlesztett sajt”.
 
 (2) Az (1) bekezdésben felsorolt termékeknek meg kell felelniük a 2. mellékletben meghatározott minőségi követelményeknek.
 
@@ -32,4 +32,7 @@ b) 1 kg kiszállított, az e rendelet előírásainak megfelelő ömlesztett saj
 
 c) 1 kg kiszállított, az e rendelet előírásainak megfelelő natúr joghurt, kefir, valamint a bizottsági rendelet I. melléklet I. kategória c) pontjának megfelelő ízesített joghurt 0,971 liter,
 
-d) 1 kg kiszállított, a bizottsági rendelet I. melléklet II. kategóriájának megfelelő ízesített joghurt 0,9 liter
+d)[^17] 1 kg kiszállított, a bizottsági rendelet I. melléklet II. kategóriájának megfelelő ízesített joghurt 0,87 liter
+
+[^16]: A 7. § (1) bekezdése a 8/2014. (IX. 10.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^17]: A 7. § (5) bekezdés d) pontja a 8/2014. (IX. 10.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.

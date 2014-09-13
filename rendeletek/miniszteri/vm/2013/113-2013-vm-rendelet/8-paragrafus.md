@@ -2,15 +2,11 @@
 
 ## 6. A szerződés és a támogatási kérelem benyújtása
 
-8. § (1) A kérelmező köteles
+8. § (1)[^18] A kérelmező köteles
 
-a) a 2014. január 1. és július 31. közötti, a (3) bekezdés szerinti szállítási időszakok vonatkozásában a 6. § (1) bekezdés szerinti szerződés másolati példányát és a szállítási szerződés bejelentésére vonatkozó – az MVH által a 4. mellékletben meghatározott adattartalommal rendszeresített és a honlapján közleményben közzétett – nyomtatványt 2014. január 31-ig,
+a) a 2014. január 1. és július 31. közötti, a (3) bekezdés szerinti szállítási időszakok vonatkozásában a 6. § (1) bekezdés szerinti szerződés másolati példányát és a szállítási szerződés bejelentésére vonatkozó – az MVH által a 4. mellékletben meghatározott adattartalommal rendszeresített és a honlapján közleményben közzétett – nyomtatványt 2014. szeptember 30-ig,
 
-b) a 2014. január 31. után kötött szállítási szerződések másolati példányát a szállítás kezdőnapját követő tizenöt napon belül,
-
-c) a szerződésmódosítás másolati példányát a szerződésmódosítás létrejöttétől számított tizenöt napon belül
-
-a kérelmező székhelye szerint illetékes MVH megyei kirendeltségéhez személyesen vagy postai úton benyújtani.
+b) a szerződésmódosítás másolati példányát a szerződésmódosítás létrejöttétől számított tizenöt napon belül a kérelmező székhelye szerint illetékes MVH megyei kirendeltségéhez személyesen vagy postai úton benyújtani.
 
 (2) A 2014/2015. tanévtől kezdődően a kérelmező köteles
 
@@ -36,6 +32,18 @@ e) az adott tanév május 1. és július 31. közötti időszakában
 
 (4) Az önkormányzati törvény alapján alakított önkormányzati társulás esetében a (2) bekezdés szerinti támogatási kérelmet a társulás nyújthatja be.
 
-(5) A támogatási kérelemhez csatolni kell az adott időszakra vonatkozó, a támogatott termékek beszerzését igazoló számlák másolati példányait és azok összesítőjét, amely összesítőnek minden számla vonatkozásában tartalmaznia kell a számlákon szereplő leszállított termékmennyiséget termékkategóriánkénti és kedvezményezett csoportonkénti (óvodás, általános iskolai tanuló, gyógypedagógiai tanterv alapján tanuló, integráltan nevelt általános iskola, szakiskola, középfokú iskolai tanuló) bontásban. A számlaösszesítő elektronikusan kitöltött példányát elektronikusan is meg kell küldeni az MVH részére (iskolatej@mvh.gov.hu).
+(5)[^19] A támogatási kérelemhez csatolni kell az adott időszakra vonatkozó, a támogatott termékek beszerzését igazoló számlák másolati példányait és azok összesítőjét. A számlaösszesítő elektronikusan kitöltött példányát elektronikus úton is meg kell küldeni az MVH részére (iskolatej@mvh.gov.hu). A számlaösszesítőnek minden számla vonatkozásában tartalmaznia kell a számla főbb adatain és a szállítási időszakon túl
 
-(6) Az MVH a hiánytalan és jogszerű támogatási kérelmekről a beérkezést követő negyvenöt napon belül döntést hoz, és haladéktalanul elrendeli a támogatás jogos összegének a kérelmező által az ügyfél-nyilvántartási rendszerben megadott fizetési számlára történő átutalását.
+a) a számlákon szereplő leszállított és kiosztott termékmennyiséget,
+
+b) a kiosztott mennyiség vételárát intézményenkénti és feladat ellátási hely szerinti, termékkategóriánkénti és kedvezményezett csoportonkénti (óvodás, általános iskolai tanuló, gyógypedagógiai tanterv alapján tanuló, integráltan nevelt általános iskola, szakiskola, középfokú iskolai tanuló) bontásban,
+
+c) az ellátott intézmény települése szerinti megye megnevezését, továbbá
+
+d) a számlának a 10–12. §-ok szerinti támogatási intenzitását.
+
+(6)[^20] Az MVH a támogatási kérelmekről a kérelem hiánytalanná válását követő negyvenöt napon belül döntést hoz, és haladéktalanul elrendeli a támogatás jogos összegének a kérelmező által az ügyfél-nyilvántartási rendszerben megadott fizetési számlára történő átutalását.
+
+[^18]: A 8. § (1) bekezdése a 8/2014. (IX. 10.) FM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^19]: A 8. § (5) bekezdése a 8/2014. (IX. 10.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^20]: A 8. § (6) bekezdése a 8/2014. (IX. 10.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
