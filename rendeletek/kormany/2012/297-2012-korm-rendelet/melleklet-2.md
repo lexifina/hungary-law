@@ -20,19 +20,19 @@
 
 | 9 |  | építésügyi hatósági engedélyezési eljárások a bányafelügyelet hatáskörébe tartozó sajátos építményekre | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 10 |  | beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 10 |  | beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 11 |  | építésügyi hatósági engedélyezési eljárások a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló kormányrendelet szerint | illetékes megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 | 12 |  | általános építésügyi hatósági engedélyezési eljárások | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
-| 13 |  | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 13 |  | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 14 |  | területrendezési eljárások | illetékes állami főépítész | nincs |
 
 | 15 |  | útügyi hatósági engedélyezési eljárások | illetékes megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központ |
 
-2. melléklet a 297/2012. (X. 25.) Korm. rendelethez[^2]
+2. melléklet a 297/2012. (X. 25.) Korm. rendelethez[^5]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -84,7 +84,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 10. | Vasúti közlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központ |
 
-|  | 11. | Tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+|  | 11. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 |  | 12. | Erdővédelem | illetékes megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -144,7 +144,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-|  | 2. | Tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+|  | 2. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 |  | 3. | Bányászat | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -166,7 +166,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 3. | Bányászat | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-|  | 4. | Tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+|  | 4. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 |  | 5. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -180,7 +180,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 3. | Helyi jelentőségű védett természetvédelmi terület | települési önkormányzat jegyzője | illetékes megyei kormányhivatal |
 
-|  | 4. | Tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+|  | 4. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 |  | 5. | Bányászat | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -214,4 +214,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 2. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^2]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 62. §-a, a 414/2012. (XII. 29.) Korm. rendelet 13. §-a, az 527/2013. (XII. 30.) Korm. rendelet 121. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 62. §-a, a 414/2012. (XII. 29.) Korm. rendelet 13. §-a, az 527/2013. (XII. 30.) Korm. rendelet 121. § (1) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 100. § (2) bekezdése és 101. § b)–e) pontja szerint módosított szöveg.
