@@ -36,7 +36,7 @@
 
 | 16 |  |  |  | a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdése dc) pontja szerinti határozat vagy környezetvédelmi engedély | Közép-Duna-Völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-2. melléklet a 153/2008. (VI. 6.) Korm. rendelethez[^2]
+2. melléklet a 153/2008. (VI. 6.) Korm. rendelethez[^5]
 
 Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
@@ -68,7 +68,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - határrendészet | Repülőtéri Rendőr Igazgatóság | Országos Rendőr-főkapitányság |
 
-| - tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| - tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -92,7 +92,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Rendészet: |  |  |
 
-| - tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| - tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | - határrendészet | Repülőtéri Rendőr Igazgatóság | Országos Rendőr-főkapitányság |
 
@@ -144,7 +144,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - határrendészet | Repülőtéri Rendőr Igazgatóság | Országos Rendőr-főkapitányság |
 
-| Tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -198,4 +198,4 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - légiközlekedés a) polgári célú b) állami célú | a) Nemzeti Közlekedési Hatóság Légügyi Hivatala b) Nemzeti Közlekedési Hatóság Légügyi Hivatala | a) Nemzeti Közlekedési Hatóság Központja b) honvédelemért felelős miniszter |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 215. §-ával megállapított,a 158/2011. (VIII. 11.) Korm. rendelet 15. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (4) bekezdése, a 282/2011. (XII. 21.) Korm. rendelet 29. §-a, a 23/2012. (II. 29.) Korm. rendelet 34. §-a, a 46/2013. (II. 19.) Korm. rendelet 2. §-a, az 527/2013. (XII. 30.) Korm. rendelet 63. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 215. §-ával megállapított,a 158/2011. (VIII. 11.) Korm. rendelet 15. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (4) bekezdése, a 282/2011. (XII. 21.) Korm. rendelet 29. §-a, a 23/2012. (II. 29.) Korm. rendelet 34. §-a, a 46/2013. (II. 19.) Korm. rendelet 2. §-a, az 527/2013. (XII. 30.) Korm. rendelet 63. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 17–18. §-a szerint módosított szöveg.
