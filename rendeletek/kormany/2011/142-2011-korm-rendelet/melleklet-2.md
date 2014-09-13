@@ -16,15 +16,15 @@
 
 | 7. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 8. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | hivatásos katasztrófavédelmi szerv központi szerve |
+| 8. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 9. | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | hivatásos katasztrófavédelmi szerv központi szerve |
+| 9. | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 10. | a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 11. | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 11. |  |  |  |
 
-2. melléklet a 142/2011. (VII. 21.) Korm. rendelethez[^2]
+2. melléklet a 142/2011. (VII. 21.) Korm. rendelethez[^5]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -34,9 +34,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 2. | építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | hivatásos katasztrófavédelmi szerv központi szerve |
+| 3. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 4. | katasztrófavédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 4. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 5. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -46,4 +46,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 8. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-[^2]: A 2. melléklet a 259/2011. (XII. 7.) Korm. rendelet 22. § (1)–(2) bekezdése, a 166/2012. (VII. 19.) Korm. rendelet 6. § (2) bekezdése, a 394/2012. (XII. 20.) Korm. rendelet 47. §-a, az 527/2013. (XII. 30.) Korm. rendelet 102. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 2. melléklet a 259/2011. (XII. 7.) Korm. rendelet 22. § (1)–(2) bekezdése, a 166/2012. (VII. 19.) Korm. rendelet 6. § (2) bekezdése, a 394/2012. (XII. 20.) Korm. rendelet 47. §-a, az 527/2013. (XII. 30.) Korm. rendelet 102. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 57. § (2) bekezdése, 58. § c)–d) pontja szerint módosított szöveg.
