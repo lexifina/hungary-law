@@ -24,15 +24,15 @@
 
 | 11 |  | bányaszolgalom alapítására irányuló engedélyezési eljárás | fővárosi és megyei kormányhivatal | - |
 
-| 12 |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos engedélyezési eljárások | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 12 |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 13 |  | a jogszabályokban rögzített tűzvédelmi hatósági ügyek, egyeztetésekkel kapcsolatos hatósági engedélyezési eljárások | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 13 |  | a jogszabályokban rögzített tűzvédelmi hatósági ügyek, egyeztetésekkel kapcsolatos hatósági engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 14 |  | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Országos Katasztrófavédelmi Főigazgatóság |  |
+| 14 |  | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 15 |  | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos engedélyezési eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Országos Katasztrófavédelmi Főigazgatóság |  |
+| 15 |  | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | – |
 
-2. melléklet a 174/2010. (V. 13.) Korm. rendelethez[^4]
+2. melléklet a 174/2010. (V. 13.) Korm. rendelethez[^7]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -50,7 +50,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 5 | Vízi utat, vízi közlekedést érintő építmény | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 6 | Tűzvédelem | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 6 | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 7 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -72,7 +72,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 3 | Bányászat | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 4 | Tűzvédelem | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 4 | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 5. | Régészet, műemlékvédelem és világörökség | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -114,7 +114,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 4 | Közlekedésrendészet | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 5 | Tűzvédelem | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 5 | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 6 | Bányászat | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -150,7 +150,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 5 | Vízi utat, vízi közlekedést érintő építmény | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 6 | Tűzvédelem | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 6 | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 7 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -198,4 +198,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 4. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 281. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 35. §-a, a 282/2011. XII. 21.) Korm. rendelet 44. § (2) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 56. §-a, a 394/2012. (XII. 20.) Korm. rendelet 41. §-a, az 527/2013. (XII. 30.) Korm. rendelet 90. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 281. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 35. §-a, a 282/2011. XII. 21.) Korm. rendelet 44. § (2) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 56. §-a, a 394/2012. (XII. 20.) Korm. rendelet 41. §-a, az 527/2013. (XII. 30.) Korm. rendelet 90. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 48. § (2)–(5) bekezdése, 49. § b)–e) pontja szerint módosított szöveg.
