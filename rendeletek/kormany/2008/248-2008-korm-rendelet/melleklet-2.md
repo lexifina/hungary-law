@@ -32,7 +32,7 @@
 
 | 14. | vasúti hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-2. számú melléklet a 248/2008. (X. 14.) Korm. rendelethez[^3]
+2. számú melléklet a 248/2008. (X. 14.) Korm. rendelethez[^6]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -64,11 +64,11 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 |  | b) az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Marcali Rendőrkapitányság | Somogy Megyei Rendőr-főkapitányság |
 
-| 7. | tűzvédelem | Somogy Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 9. | katasztrófavédelem | Somogy Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 10. | földművelésügy |  |  |
 
@@ -88,4 +88,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 15. | élelmiszer-biztonság | Somogy Megyei Kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 224. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 18. §-a, a 282/2011. (XII. 21.) Korm. rendelet 34. §-a, a 23/2012. (II. 29.) Korm. rendelet 37. §-a, a 296/2012. (X. 17.) Korm. rendelet 38. §-a, a 394/2012. (XII. 20.) Korm. rendelet 27. §-a, az 527/2013. (XII. 30.) Korm. rendelet 66. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 224. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 18. §-a, a 282/2011. (XII. 21.) Korm. rendelet 34. §-a, a 23/2012. (II. 29.) Korm. rendelet 37. §-a, a 296/2012. (X. 17.) Korm. rendelet 38. §-a, a 394/2012. (XII. 20.) Korm. rendelet 27. §-a, az 527/2013. (XII. 30.) Korm. rendelet 66. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 23–24. §-a szerint módosított szöveg.
