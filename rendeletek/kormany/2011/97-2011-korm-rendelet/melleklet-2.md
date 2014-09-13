@@ -40,13 +40,13 @@
 
 | 18. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 19. | A jogszabályban, nemzeti szabványban teljeskörűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 19. |  |  |  |
 
-| 20. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 20. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 21. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 21. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-2. melléklet a 97/2011. (VI. 29.) Korm. rendelethez[^11]
+2. melléklet a 97/2011. (VI. 29.) Korm. rendelethez[^14]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -78,11 +78,11 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 6/b | az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Szegedi Rendőrkapitányság | Csongrád Megyei Rendőr-főkapitányság |
 
-| 7. | tűzvédelem | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal Igazgatója | honvédelemért felelős miniszter |
 
-| 9. | katasztrófavédelem | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 10. | földművelésügy |
 
@@ -108,4 +108,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 18. | A radioaktív anyagoknak a vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a vízügyi hatóság részére adandó jelentések rendszerének a meghatározása | Alsó-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-[^11]: A 2. melléklet a 249/2011. (XII. 1.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 5. §-a, a 296/2012. (X. 17.) Korm. rendelet 52. § b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 46. §-a, a 67/2013. (III. 8.) Korm. rendelet 10. § b) pontja, az 527/2013. (XII. 30.) Korm. rendelet 99. § (3) bekezdése szerint módosított szöveg.
+[^14]: A 2. melléklet a 249/2011. (XII. 1.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 5. §-a, a 296/2012. (X. 17.) Korm. rendelet 52. § b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 46. §-a, a 67/2013. (III. 8.) Korm. rendelet 10. § b) pontja, az 527/2013. (XII. 30.) Korm. rendelet 99. § (3) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 54. § (2) bekezdése, 55. § c) pontja szerint módosított szöveg.
