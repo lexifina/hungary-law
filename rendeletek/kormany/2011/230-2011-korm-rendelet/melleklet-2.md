@@ -20,7 +20,7 @@
 
 | 9. | Építésügyi hatósági engedélyezési eljárások a bányafelügyelet hatáskörébe tartozó sajátos építményekre | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 10. | Beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése | illetékes megyei katasztrófavédelmi igazgatóság | BM Országos Katasztrófavédelmi Főigazgatóság |
+| 10. | Beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 11. | Építésügyi hatósági engedélyezési eljárások a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló rendelet szerint | Budapest Főváros Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága (Budapest) | Magyar Kereskedelmi és Engedélyezési Hivatal |
 
@@ -32,7 +32,7 @@
 
 | 15. | Útügyi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-2. melléklet a 230/2011. (XI. 8.) Korm. rendelethez[^6]
+2. melléklet a 230/2011. (XI. 8.) Korm. rendelethez[^9]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -76,7 +76,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 6. | Vasúti közlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-|  | 7. | Tűzvédelem | Pest Megyei Katasztrófavédelmi Igazgatóság | BM Országos Katasztrófavédelmi Főigazgatóság |
+|  | 7. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 |  | 8. | Termőföld minőségi védelme | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
@@ -136,7 +136,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-|  | 2. | Tűzvédelem | Pest Megyei Katasztrófavédelmi Igazgatóság | BM Országos Katasztrófavédelmi Főigazgatóság |
+|  | 2. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 |  | 3. | Bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -158,7 +158,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 3. | Bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-|  | 4. | Tűzvédelem | Pest Megyei Katasztrófavédelmi Igazgatóság | BM Országos Katasztrófavédelmi Főigazgatóság |
+|  | 4. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 |  | 5. | Régészet, műemlékvédelem és világörökség | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -174,7 +174,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 3. | Helyi jelentőségű védett természetvédelmi terület | települési önkormányzat jegyzője | illetékes megyei (fővárosi) kormányhivatal |
 
-|  | 4. | Tűzvédelem | Pest Megyei Katasztrófavédelmi Igazgatóság | BM Országos Katasztrófavédelmi Főigazgatóság |
+|  | 4. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 |  | 5. | Bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -202,4 +202,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 3. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-[^6]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 54. § a)–b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 49. §-a, az 527/2013. (XII. 30.) Korm. rendelet 105. § (2) bekezdése szerint módosított szöveg.
+[^9]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 54. § a)–b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 49. §-a, az 527/2013. (XII. 30.) Korm. rendelet 105. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 63. § (2)–(5) bekezdése, 64. § b)–e) pontja szerint módosított szöveg.
