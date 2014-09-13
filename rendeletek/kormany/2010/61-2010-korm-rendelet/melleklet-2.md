@@ -36,13 +36,13 @@
 
 | 17. |  |  | vasúti hatósági eljárások | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 18. |  |  | tűzvédelmi berendezés létesítési és használatbavételi ügyeivel kapcsolatos hatósági eljárások | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 18. |  |  | tűzvédelmi berendezés létesítési és használatbavételi ügyeivel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 19. |  |  | tűzvédelmi hatósági ügyekben eltérési hatósági eljárások | Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 20. |  |  | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 20. |  |  | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 21. |  |  | azon beépített tűzoltó berendezés létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amely tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Országos Katasztrófavédelmi Főigazgatóság |  |
+| 21. |  |  |  |  |  |
 
 | 22. |  |  | nyomástartó berendezés, veszélyes folyadéktároló engedélyezésével kapcsolatos hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -52,7 +52,7 @@
 
 | 25. |  |  | üvegházhatású gázkibocsátással járó tevékenység hatósági engedélyezési eljárása | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |  |
 
-2. melléklet a 61/2010. (III. 18.) Korm. rendelethez[^4]
+2. melléklet a 61/2010. (III. 18.) Korm. rendelethez[^6]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -82,11 +82,11 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 11. | rendészet (rendőrség) az A:10 mezőben foglaltakon kívüli egyéb országos közút, a helyi közút és a közforgalom elől el nem zárt magánút esetén | Püspökladányi Rendőrkapitányság | Hajdú-Bihar Megyei Rendőr-főkapitányság |
 
-| 12. | tűzvédelem | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 12. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 13. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 14. | katasztrófavédelem | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 14. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 15. | termőföldvédelem | illetékes járási földhivatal | Hajdú-Bihar Megyei kormányhivatal földhivatala |
 
@@ -104,4 +104,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 22. | élelmiszer-biztonság | Hajdú-Bihar Megyei Kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 275. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 33. §-a, a 23/2012. (II. 29.) Korm. rendelet 53. §-a, a 296/2012. (X. 17.) Korm. rendelet 44. §-a, a 394/2012. (XII. 20.) Korm. rendelet 39. §-a, az 527/2013. (XII. 30.) Korm. rendelet 86. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 275. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 33. §-a, a 23/2012. (II. 29.) Korm. rendelet 53. §-a, a 296/2012. (X. 17.) Korm. rendelet 44. §-a, a 394/2012. (XII. 20.) Korm. rendelet 39. §-a, az 527/2013. (XII. 30.) Korm. rendelet 86. § (2) bekezdése, a 229/2014. (Ix. 5.) Korm. rendelet 41. § (2) bekezdése, 42. § c) pontja szerint módosított szöveg.
