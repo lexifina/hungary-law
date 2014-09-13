@@ -216,7 +216,7 @@
 
 | 107. | hajózás és víziközlekedés | a projekt megvalósítása során szükségessé váló hajózási tevékenység és víziközlekedési forgalomszabályozási engedélyek | hajózási hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja ” |
 
-2. számú melléklet a 77/2009. (IV. 8.) Korm. rendelethez[^3]
+2. számú melléklet a 77/2009. (IV. 8.) Korm. rendelethez[^6]
 
 ## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -244,7 +244,7 @@
 
 | b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | b) illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | b) Országos Rendőr-főkapitányság |
 
-| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 6. tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 7. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -288,7 +288,7 @@
 
 | b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | b) illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | b) Országos Rendőr-főkapitányság |
 
-| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 6. tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 7. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -334,7 +334,7 @@
 
 | b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | b) illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | b) Országos Rendőr-főkapitányság |
 
-| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 6. tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 7. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -354,4 +354,4 @@
 
 | 12. műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 239. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 21. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés c) pontja, a 23/2012. (II. 29.) Korm. rendelet 40. §-a, a 137/2012. (VI. 29.) Korm. rendelet 95. § (5) bekezdése és 97. § n) pontja, a 394/2012. (XII. 20.) Korm. rendelet 31. §-a, az 527/2013. (XII. 30.) Korm. rendelet 72. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 239. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 21. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés c) pontja, a 23/2012. (II. 29.) Korm. rendelet 40. §-a, a 137/2012. (VI. 29.) Korm. rendelet 95. § (5) bekezdése és 97. § n) pontja, a 394/2012. (XII. 20.) Korm. rendelet 31. §-a, az 527/2013. (XII. 30.) Korm. rendelet 72. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 26–27. §-a szerint módosított szöveg.
