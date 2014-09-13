@@ -36,13 +36,13 @@
 
 | 17. |  |  | vasúti hatósági eljárások | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 18. |  |  | tűzvédelmi berendezés létesítési és használatbavételi ügyeivel kapcsolatos hatósági eljárások | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 18. |  |  | tűzvédelmi berendezés létesítési és használatbavételi ügyeivel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 19. |  |  | tűzvédelmi hatósági ügyekben eltérési hatósági eljárások | Országos Katasztrófavédelmi Főigazgatóság |  |
+| 19. |  |  | tűzvédelmi hatósági ügyekben eltérési hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 20. |  |  | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 20. |  |  | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 21. |  |  | azon beépített tűzoltó berendezés létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amely tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Országos Katasztrófavédelmi Főigazgatóság |  |
+| 21. |  |  |  |  |  |
 
 | 22. |  |  | nyomástartó berendezés, veszélyes folyadéktároló engedélyezésével kapcsolatos hatósági eljárások | Fejér Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -52,7 +52,7 @@
 
 | 25. |  |  | üvegházhatású gázkibocsátással járó tevékenység hatósági engedélyezési eljárása | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség | környezet- védelemért felelős miniszter |
 
-2. melléklet a 60/2010. (III. 18.) Korm. rendelethez[^2]
+2. melléklet a 60/2010. (III. 18.) Korm. rendelethez[^5]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -82,11 +82,11 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 11. | rendészet (rendőrség) az A:10 mezőben foglaltakon kívüli egyéb országos közút, a helyi közút és a közforgalom elől el nem zárt magánút esetén | Tatai Rendőrkapitányság | Komárom-Esztergom Megyei Rendőr-főkapitányság |
 
-| 12. | tűzvédelem | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 12. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 13. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 14. | katasztrófavédelem | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 14. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 15. | termőföldvédelem | illetékes járási földhivatal | Komárom-Esztergom Megyei kormányhivatal földhivatala |
 
@@ -104,4 +104,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 22. | élelmiszer-biztonság | Komárom-Esztergom Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 274. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 32. §-a, a 23/2012. (II. 29.) Korm. rendelet 52. §-a, a 296/2012. (X. 17.) Korm. rendelet 43. §-a, a 394/2012. (XII. 20.) Korm. rendelet 38. §-a, az 527/2013. (XII. 30.) Korm. rendelet 85. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 274. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 32. §-a, a 23/2012. (II. 29.) Korm. rendelet 52. §-a, a 296/2012. (X. 17.) Korm. rendelet 43. §-a, a 394/2012. (XII. 20.) Korm. rendelet 38. §-a, az 527/2013. (XII. 30.) Korm. rendelet 85. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 38. § (2) bekezdése, 39. § c) pontja szerint módosított szöveg.
