@@ -34,13 +34,13 @@
 
 | 16. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 17. | a jogszabályban, nemzeti szabványban teljes körűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 17. |  |  |  |
 
-| 18. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Jász-Nagykun- Szolnok Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 18. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 19. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Jász-Nagykun- Szolnok Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 19. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-2. melléklet a 302/2012. (X. 26.) Korm. rendelethez[^2]
+2. melléklet a 302/2012. (X. 26.) Korm. rendelethez[^5]
 
 Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakhatóságok
 
@@ -72,11 +72,11 @@ Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakh
 
 | b) az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Szolnoki Rendőrkapitányság | Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság |
 
-| 8. | tűzvédelem | Jász-Nagykun-Szolnok Megyei Katasztrófa-védelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 8. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 9. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 10. | katasztrófavédelem | Jász-Nagykun-Szolnok megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófa-védelmi Főigazgatóság |
+| 10. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 11. | földművelésügy: |  |  |
 
@@ -96,4 +96,4 @@ Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakh
 
 | 17. | Területrendezési előírásokkal való összhang | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának állami főépítésze | területrendezésért felelős miniszter |
 
-[^2]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 63. §-a, az 527/2013. (XII. 30.) Korm. rendelet 122. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 63. §-a, az 527/2013. (XII. 30.) Korm. rendelet 122. § (1) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 103. § (2) bekezdése és 103. § c) pontja szerint módosított szöveg.
