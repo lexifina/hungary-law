@@ -24,15 +24,15 @@
 
 | 11. | talajvédelmi hatósági eljárások | Vas Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 12. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Vas Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 12. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 13. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 14. | jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Vas Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 14. | jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 15. | azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 15. |  |  |  |
 
-2. melléklet a 462/2013. (XII. 4.) Korm. rendelethez[^2]
+2. melléklet a 462/2013. (XII. 4.) Korm. rendelethez[^5]
 
 Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -54,9 +54,9 @@ Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentős
 
 | 7. | rendészet: az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Szombathelyi Rendőrkapitányság | Vas Megyei Rendőr-főkapitányság |
 
-| 8. | tűzvédelem | Vas Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 8. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 9. | katasztrófavédelem | Vas Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 10. | talajvédelem | Vas Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -68,4 +68,4 @@ Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentős
 
 | 14. | régészet és örökségvédelem | Szombathelyi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Vas Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, régészet esetében Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^2]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 158. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 158. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 157. § (2) bekezdése és 158. § c) pontja szerint módosított szöveg.
