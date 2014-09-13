@@ -34,13 +34,13 @@
 
 | 16. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 17. | a jogszabályban, nemzeti szabványban teljes körűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 17. |  |  |  |
 
-| 18. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Pest Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 18. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 19. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Pest Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 19. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-2. melléklet a 282/2013. (VII. 24.) Korm. rendelethez[^2]
+2. melléklet a 282/2013. (VII. 24.) Korm. rendelethez[^5]
 
 Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárásokban közreműködő szakhatóságok
 
@@ -66,11 +66,11 @@ Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű �
 
 | 9. | rendészet | Pest Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 10. | tűzvédelem | Pest Megyei Katasztrófa-védelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 10. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 11. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 12. | katasztrófavédelem | Pest Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófa-védelmi Főigazgatóság |
+| 12. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 13. | talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -86,4 +86,4 @@ Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű �
 
 | 19. | településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelés | Csömör település önkormányzatának jegyzője | Pest Megyei Kormányhivatal |
 
-[^2]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 146. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 146. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 133. § (2) bekezdése és 134. § c) pontja szerint módosított szöveg.
