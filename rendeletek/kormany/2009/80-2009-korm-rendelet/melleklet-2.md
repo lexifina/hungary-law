@@ -66,7 +66,7 @@
 
 | 31. | vízimunka, közlekedési korlátozás, rakodási tevékenység |  | hajózási hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-2. számú melléklet a 80/2009. (IV. 8.) Korm. rendelethez[^2]
+2. számú melléklet a 80/2009. (IV. 8.) Korm. rendelethez[^5]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -94,7 +94,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | b) illetékes megyei rendőr-főkapitányság | b) Országos Rendőr-főkapitányság |
 
-| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 6. tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 7. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -140,7 +140,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | b) illetékes megyei rendőr-főkapitányság | b) Országos Rendőr-főkapitányság |
 
-| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 6. tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 7. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -192,7 +192,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | b) illetékes megyei rendőr-főkapitányság | b) Országos Rendőr-főkapitányság |
 
-| 7. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 7. tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -212,4 +212,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 13. műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal „ |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 242. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 24. §-a, a 23/2012. (II. 29.) Korm. rendelet 43. §-a, a 394/2012. (XII. 20.) Korm. rendelet 34. §-a, az 527/2013. (XII. 30.) Korm. rendelet 75. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 242. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 24. §-a, a 23/2012. (II. 29.) Korm. rendelet 43. §-a, a 394/2012. (XII. 20.) Korm. rendelet 34. §-a, az 527/2013. (XII. 30.) Korm. rendelet 75. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 35–36. §-a szerint módosított szöveg.
