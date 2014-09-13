@@ -22,15 +22,15 @@
 
 | 9 | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Győri Járási Hivatal Járási Földhivatala | Győr-Moson-Sopron Megyei Kormányhivatal Földhivatala |
 
-| 10 | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai, tűzvédelmi hatósági engedélyezési eljárások, jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Veszprém Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 10 | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai, tűzvédelmi hatósági engedélyezési eljárások, jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 11 | azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 11 |  |  |  |
 
 | 12 | területrendezési hatósági eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának állami főépítésze | nincs |
 
 | 13 | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 180/2013. (VI. 7.) Korm. rendelethez[^2]
+2. melléklet a 180/2013. (VI. 7.) Korm. rendelethez[^6]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -40,7 +40,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 2 | építésügy, műemlékvédelem, régészet | Győri Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3 | katasztrófavédelem, tűzvédelem | Veszprém Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 3 | katasztrófavédelem, tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 4 | közlekedés | Győr-Moson-Sopron Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -56,4 +56,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 9 | rendészet | Veszprém Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-[^2]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 144. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 144. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 127. § (2) bekezdése és 128. § c) pontja szerint módosított szöveg.
