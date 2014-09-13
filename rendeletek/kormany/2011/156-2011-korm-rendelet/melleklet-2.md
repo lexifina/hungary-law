@@ -22,11 +22,11 @@
 
 | 10. | erdészeti hatósági eljárások | Pest Megyei Kormányhivatal Erdészeti Igazgatóság | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Pest Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 12. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 156/2011. (VIII. 10.) Korm. rendelethez[^8]
+2. melléklet a 156/2011. (VIII. 10.) Korm. rendelethez[^11]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -46,7 +46,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | b) az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Dabasi Rendőrkapitányság | Pest Megyei Rendőr-főkapitányság |
 
-| 4. | tűzvédelem | Pest Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 4. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 5. | földművelésügy |
 
@@ -68,4 +68,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 ”
 
-[^8]: A 2. melléklet a 265/2011. (XII. 13.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 63. §-a, a 166/2012. (VII. 19.) Korm. rendelet 7. § (3) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 53. § b) pontja, az 527/2013. (XII. 30.) Korm. rendelet 103. § (2) bekezdése szerint módosított szöveg.
+[^11]: A 2. melléklet a 265/2011. (XII. 13.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 63. §-a, a 166/2012. (VII. 19.) Korm. rendelet 7. § (3) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 53. § b) pontja, az 527/2013. (XII. 30.) Korm. rendelet 103. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 60. § (2) bekezdése, 61. § b) pontja szerint módosított szöveg.

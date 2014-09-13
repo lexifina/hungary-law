@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-156-20-
 | 2013-01-01 | 2011-156-20-22.8 | 266/2012. (IX. 18.) KIM rendelet |
 | 2014-01-01 | 2011-156-20-22.9 | 266/2012. (IX. 18.) KIM rendelet |
 | 2014-02-04 | 2011-156-20-22.10 | 266/2012. (IX. 18.) KIM rendelet |
+| 2014-09-13 | 2011-156-20-22.11 | 2010: CXXX. törvény |
