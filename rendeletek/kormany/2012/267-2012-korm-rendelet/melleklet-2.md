@@ -24,11 +24,11 @@
 
 | 10. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 12. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 13. |  |  | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 13. |  |  | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 14. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -38,7 +38,7 @@
 
 | 17. | közegészségügyi szakhatósági engedélyezés | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztiorvosi Hivatal |
 
-2. melléklet a 267/2012. (IX. 20.) Korm. rendelethez[^2]
+2. melléklet a 267/2012. (IX. 20.) Korm. rendelethez[^5]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban
 
@@ -54,9 +54,9 @@ közreműködő hatáskörrel rendelkező szakhatóságok
 
 | 3a. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 4. | katasztrófavédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 4. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 5. | tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 5. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 6. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -84,4 +84,4 @@ közreműködő hatáskörrel rendelkező szakhatóságok
 
 | 18. | bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-[^2]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 67. § a)–b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 61. §-a, az 527/2013. (XII. 30.) Korm. rendelet 119. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 67. § a)–b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 61. §-a, az 527/2013. (XII. 30.) Korm. rendelet 119. § (1) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 97. § (2) bekezdése és 98. § b) pontja szerint módosított szöveg.
