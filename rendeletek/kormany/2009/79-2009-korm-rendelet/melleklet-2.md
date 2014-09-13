@@ -82,7 +82,7 @@
 
 | 7.1. | vízimunka, közlekedési korlátozás, rakodási tevékenység |  | hajózási hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központi Hivatal |
 
-2. számú melléklet a 79/2009. (IV. 8.) Korm. rendelethez[^2]
+2. számú melléklet a 79/2009. (IV. 8.) Korm. rendelethez[^5]
 
 ## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -108,7 +108,7 @@
 
 | a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) illetékes megyei rendőr-főkapitányság | a) rendészetért felelős miniszter b) Országos Rendőr-főkapitányság |
 
-| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 6. tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 7. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -150,7 +150,7 @@
 
 | a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) illetékes megyei rendőr-főkapitányság | a) rendészetért felelős miniszter b) Országos Rendőr-főkapitányság |
 
-| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 6. tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 7. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -170,4 +170,4 @@
 
 | 12. műszaki biztonság | Fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal” |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 241. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 23. §-a, a 23/2012. (II. 29.) Korm. rendelet 42. §-a, a 294/2012. (XII. 20.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^5]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 241. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 23. §-a, a 23/2012. (II. 29.) Korm. rendelet 42. §-a, a 294/2012. (XII. 20.) Korm. rendelet 33. §-a, a 229/2014. (IX. 5.) Korm. rendelet 32–33. §-a szerint módosított szöveg.
