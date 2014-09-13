@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-506-20-
 | 2013-12-31 | 2013-506-20-22.2 | 2010: CXXX. törvény |
 | 2014-01-01 | 2013-506-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-01-02 | 2013-506-20-22.4 | 2010: CXXX. törvény |
+| 2014-09-13 | 2013-506-20-22.5 | 229/2014. (IX. 5.) Korm. rendelet |
