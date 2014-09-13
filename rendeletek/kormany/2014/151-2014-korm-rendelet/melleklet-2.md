@@ -20,13 +20,13 @@
 
 | 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 11. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 12. | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 12. | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 13. | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 13. |  |  |  |
 
 | 14. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Budapest Főváros Kormányhivatala I. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -36,7 +36,7 @@
 
 | 17. | bányahatósági engedélyek | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-2. melléklet a 151/2014. (V. 6.) Korm. rendelethez
+2. melléklet a 151/2014. (V. 6.) Korm. rendelethez[^5]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -50,9 +50,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 4. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 5. | katasztrófavédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 5. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 6. | tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 7. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala I. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -77,3 +77,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 | 17. | földtan | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | 18. | bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+
+[^5]: A 2. melléklet a 229/2014. (IX. 5.) Korm. rendelet 193. § (2) bekezdése és 194. § c) pontja szerint módosított szöveg.
