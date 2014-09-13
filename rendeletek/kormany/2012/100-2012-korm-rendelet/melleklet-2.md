@@ -20,11 +20,11 @@
 
 | 9. | földmérési, ingatlan- nyilvántartási hatósági eljárások, telekalakítási eljárások | Budapesti 2. számú Földhivatal | Budapest Főváros Kormány- hivatalának Földhivatala |
 
-| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 11. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 12. | jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 12. | jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 13. | bányahatósági engedélyek | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -32,9 +32,9 @@
 
 | 15. | Üzletek (kávézó) működési engedélye | Belváros-Lipótváros Budapest Főváros V. kerületi Önkormányzat jegyzője | Budapest Főváros Kormányhivatala |
 
-| 16. | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 16. |  |  |  |
 
-2. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^8]
+2. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^12]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -50,9 +50,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 4a. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 5. | katasztrófavédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 5. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 6. | tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 7. | közlekedés | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -70,4 +70,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-[^8]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 57. §-a, az 527/2013. (XII. 30.) Korm. rendelet 115. § (1) bekezdése szerint módosított szöveg.
+[^12]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 57. §-a, az 527/2013. (XII. 30.) Korm. rendelet 115. § (1) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 85. § (2) bekezdése és 86. § c) pontja szerint módosított szöveg.
