@@ -1,0 +1,1 @@
+## 23. § Az R8. 2. számú mellékletében foglalt táblázat 7. és 9. sorában a „Somogy Megyei Katasztrófavédelmi Igazgatóság” szövegrész helyébe a „Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság” szöveg lép.
