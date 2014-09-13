@@ -36,13 +36,13 @@
 
 | 16. |  |  | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 17. |  |  | a jogszabályban, nemzeti szabványban teljes körűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 17. |  |  |  |  |  |
 
-| 18. |  |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Komárom- Esztergom Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 18. |  |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 19. |  |  | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Komárom- Esztergom Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 19. |  |  | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-2. melléklet a 446/2012. (XII. 29.) Korm. rendelethez[^2]
+2. melléklet a 446/2012. (XII. 29.) Korm. rendelethez[^5]
 
 Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakhatóságok
 
@@ -70,11 +70,11 @@ Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakh
 
 | 10. | rendészet | Komárom-Esztergom Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 11. | tűzvédelem | Komárom- Esztergom Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 11. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 12. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 13. | katasztrófavédelem | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 13. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 14. | talajvédelem | Komárom-Esztergom Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -86,4 +86,4 @@ Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakh
 
 | 18. | műszaki biztonság | Fejér Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. melléklet a 37/2013. (II. 14.) Korm. rendelet 2. § b) pontjával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 134. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 2. melléklet a 37/2013. (II. 14.) Korm. rendelet 2. § b) pontjával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 134. § (1) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 106. § (2) bekezdése és 107. § c) pontja szerint módosított szöveg.
