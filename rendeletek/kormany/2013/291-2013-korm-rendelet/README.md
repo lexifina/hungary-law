@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-291-20-
 | --- | --- | --- |
 | 2013-07-27 | 2013-291-20-22.1 | 291/2013. (VII. 26.) Korm. rendelet |
 | 2014-01-01 | 2013-291-20-22.2 | 527/2013. (XII. 30.) Korm. rendelet |
+| 2014-09-13 | 2013-291-20-22.3 | 527/2013. (XII. 30.) Korm. rendelet |
