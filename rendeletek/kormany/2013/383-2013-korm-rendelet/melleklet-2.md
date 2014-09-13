@@ -38,13 +38,13 @@
 
 | 18. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 19. | a jogszabályban, nemzeti szabványban teljes körűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 19. |  |  |  |
 
-| 20. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Heves Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 20. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 21. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Heves Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 21. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-2. melléklet a 383/2013. (XI. 4.) Korm. rendelethez[^2]
+2. melléklet a 383/2013. (XI. 4.) Korm. rendelethez[^5]
 
 Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű ügyekben közreműködő szakhatóságok
 
@@ -72,11 +72,11 @@ Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű �
 
 | 10. | rendészet | Heves Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 11. | tűzvédelem | Heves Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 11. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 12. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 13. | katasztrófavédelem | Heves Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 13. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 14. | talajvédelem | Heves Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -88,4 +88,4 @@ Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű �
 
 | 18. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 154. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 154. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 145. § (2) bekezdése és 146. § c) pontja szerint módosított szöveg.
