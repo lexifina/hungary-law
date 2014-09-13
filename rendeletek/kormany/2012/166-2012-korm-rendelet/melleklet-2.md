@@ -20,14 +20,14 @@
 
 | 9. | Talajvédelmi hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 10. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 10. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 11. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 12. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 12. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 13. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 13. |  |  |  |
 
-2. melléklet a 166/2012. (VII. 19.) Korm. rendelethez[^3]
+2. melléklet a 166/2012. (VII. 19.) Korm. rendelethez[^6]
 
-[^3]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 59. §-a, az 527/2013. (XII. 30.) Korm. rendelet 117. § (1) bekezdése szerint módosított szöveg.
+[^6]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 59. §-a, az 527/2013. (XII. 30.) Korm. rendelet 117. § (1) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 91. § (2) bekezdése és 92. § c) pontja szerint módosított szöveg.

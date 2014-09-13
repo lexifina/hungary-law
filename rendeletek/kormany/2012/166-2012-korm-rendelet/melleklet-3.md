@@ -16,9 +16,9 @@
 
 | 6. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Debreceni Rendőrkapitányság | Hajdú-Bihar Megyei Rendőr-főkapitányság |
 
-| 7. | tűzvédelem | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 8. | katasztrófavédelem | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 8. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 9. | földművelésügy (talajvédelem) | Hajdú-Bihar Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -36,6 +36,6 @@
 
 | 16. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
 
-3–5. melléklet a 166/2012. (VII. 19.) Korm. rendelethez[^4]
+3–5. melléklet a 166/2012. (VII. 19.) Korm. rendelethez[^7]
 
-[^4]: A 3–5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 3–5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
