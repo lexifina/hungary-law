@@ -40,13 +40,13 @@
 
 | 18. |  |  | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 19. |  |  | a jogszabályban, nemzeti szabványban teljes körűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 19. |  |  |  |  |  |
 
-| 20. |  |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Győr-Moson- Sopron Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 20. |  |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 21. |  |  | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Győr-Moson- Sopron Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 21. |  |  | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-2. melléklet a 16/2011. (II. 24.) Korm. rendelethez[^7]
+2. melléklet a 16/2011. (II. 24.) Korm. rendelethez[^10]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -76,11 +76,11 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | b) az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Győri Rendőrkapitányság | Győr-Moson-Sopron Megyei Rendőr-főkapitányság |
 
-| 7. | tűzvédelem | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 9. | katasztrófavédelem | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 10. | földművelésügy |
 
@@ -102,4 +102,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 16. | területrendezés | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
 
-[^7]: A 2. melléklet a 158/2011. (VIII. 11.) Korm. rendelet 39. §-a, a 296/2012. (X. 17.) Korm. rendelet 50. § a) pontja, a 394/2012. (XII. 20.) Korm. rendelet 45. §-a, az 527/2013. (XII. 30.) Korm. rendelet 98. § (3) bekezdése szerint módosított szöveg.
+[^10]: A 2. melléklet a 158/2011. (VIII. 11.) Korm. rendelet 39. §-a, a 296/2012. (X. 17.) Korm. rendelet 50. § a) pontja, a 394/2012. (XII. 20.) Korm. rendelet 45. §-a, az 527/2013. (XII. 30.) Korm. rendelet 98. § (3) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 51. § (2) bekezdése, 52. § (2) bekezdés b) pontja szerint módosított szöveg.
