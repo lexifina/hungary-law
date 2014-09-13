@@ -10,6 +10,6 @@ b) a támogatás igénylése előtt elkövetett jogsértést megállapító köz
 
 (3) A támogatástól eleső munkáltató helyébe – új támogatási döntéssel – a rendezett munkaügyi kapcsolatok e rendeletben meghatározott feltételeinek megfelelő új munkáltató léphet.
 
-(4)[^7] A támogatást kérő a 6. § (2) bekezdés szerinti esetben a bírságot megállapító határozat másolatát a támogatás nyújtó felé köteles benyújtani.
+(4)[^9] A támogatást kérő a 6. § (2) bekezdés szerinti esetben a bírságot megállapító határozat másolatát a támogatás nyújtó felé köteles benyújtani.
 
-[^7]: A 7. § (4) bekezdését a 35/2012. (XII. 14.) NGM rendelet 4. § (2) bekezdése iktatta be.
+[^9]: A 7. § (4) bekezdését a 35/2012. (XII. 14.) NGM rendelet 4. § (2) bekezdése iktatta be.

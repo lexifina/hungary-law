@@ -2,6 +2,6 @@
 
 15. § (1) E rendelet a kihirdetését követő napon lép hatályba.
 
-(2)[^10]
+(2)[^12]
 
-[^10]: A 15. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 15. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -4,11 +4,11 @@
 
 (2) A rendelet hatálya kiterjed
 
-a)[^1] a munka Törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.),
+a)[^2] a munka Törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.),
 
 b) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény,
 
-c)[^2] a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény,
+c)[^3] a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény,
 
 d) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény,
 
@@ -22,5 +22,5 @@ h) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. év
 
 i) a támogatást nyújtóra
 
-[^1]: Az 1. § (2) bekezdés a) pontja a 17/2012. (VII. 5.) NGM rendelet 7. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdés c) pontja a 17/2012. (VII. 5.) NGM rendelet 7. § b) pontjával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés a) pontja a 17/2012. (VII. 5.) NGM rendelet 7. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés c) pontja a 17/2012. (VII. 5.) NGM rendelet 7. § b) pontjával megállapított szöveg.

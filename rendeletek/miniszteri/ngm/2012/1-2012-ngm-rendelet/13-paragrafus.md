@@ -6,6 +6,6 @@
 
 (3) Amennyiben az adatok kinyomtatására bármilyen – különösen technikai – okból nincs lehetőség, a dokumentációnak tartalmaznia kell a támogatási ügyet döntésre előkészítő ügyintéző hivatalos feljegyzését a támogatás igénylőjére vonatkozóan a nyilvántartásban szereplő adatokról, a nyilvántartásba való betekintés időpontjáról és arról, hogy a támogatás igénylőjére vonatkozó adatok kinyomtatására nem volt lehetőség, valamint a készítés dátumát. A feljegyzést az ügyintéző aláírásával látja el.
 
-(4)[^9] A (2) bekezdés szerinti hatóságok honlapján szereplő adatok írásbeli dokumentálásának minősül az is, ha a támogató elektronikus formában tárolja a (2) bekezdés szerinti dokumentumot. A dokumentációt zárt rendszerben kell tárolni úgy, hogy a dokumentáció megváltoztathatatlansága biztosítva legyen.
+(4)[^11] A (2) bekezdés szerinti hatóságok honlapján szereplő adatok írásbeli dokumentálásának minősül az is, ha a támogató elektronikus formában tárolja a (2) bekezdés szerinti dokumentumot. A dokumentációt zárt rendszerben kell tárolni úgy, hogy a dokumentáció megváltoztathatatlansága biztosítva legyen.
 
-[^9]: A 13. § (4) bekezdését a 35/2012. (XII. 14.) NGM rendelet 4. § (4) bekezdése iktatta be.
+[^11]: A 13. § (4) bekezdését a 35/2012. (XII. 14.) NGM rendelet 4. § (4) bekezdése iktatta be.
