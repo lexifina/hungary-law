@@ -1,4 +1,4 @@
-## 6/A. §[^36] Az építményszerkezetek tűzvédelmi követelményeknek való megfelelősége igazolására kiadott nyilatkozatokról a központi szerv által vezetett nyilvántartás az alábbi adatokat tartalmazza:
+## 6/A. §[^43] Az építményszerkezetek tűzvédelmi követelményeknek való megfelelősége igazolására kiadott nyilatkozatokról a központi szerv által vezetett nyilvántartás az alábbi adatokat tartalmazza:
 
 a) a tűzvédelmi szakértői nyilatkozat száma,
 
@@ -28,4 +28,4 @@ h) az építményszerkezet pontos leírása, rétegrendje, a termékek egybeép�
 
 i) az építményszerkezet tűzvédelmi szakértő által meghatározott tűzvédelmi tulajdonságai.
 
-[^36]: A 6/A. §-t a 435/2013. (XI. 19.) Korm. rendelet 2. §-a iktatta be.
+[^43]: A 6/A. §-t a 435/2013. (XI. 19.) Korm. rendelet 2. §-a iktatta be.

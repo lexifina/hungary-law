@@ -4,11 +4,11 @@
 
 (2) A Kormány első fokú tűzvédelmi szakhatóságként a területi szervet jelöli ki
 
-a) a kormányrendeletben meghatározott, nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításához szükséges hatósági engedélyezési eljárásokban,
+a)[^31]
 
-b)[^26] a polgári repülőtereket, a metró és földalatti vasúti létesítményeket, valamint az Országház, Országgyűlési Irodaház, Miniszterelnökség létesítményeit érintő közigazgatási hatósági eljárásokban,
+b)[^32] a polgári repülőtereket, a metró és földalatti vasúti létesítményeket, valamint az Országház, Országgyűlési Irodaház, Miniszterelnökség létesítményeit érintő közigazgatási hatósági eljárásokban,
 
-c)[^27] az alábbi építmények építésügyi hatósági eljárásaiban az első végleges használatbavételig:
+c)[^33] az alábbi építmények építésügyi hatósági eljárásaiban az első végleges használatbavételig:
 
 ca) magas építmények,
 
@@ -22,10 +22,18 @@ ce) az 50 MW és annál nagyobb teljesítményű erőművek,
 
 cf) a fekvőbeteg ellátásra, továbbá mozgásukban korlátozattak elhelyezésére szolgáló középmagas építmények, amennyiben az elhelyezés 13,65 méter felett történik,
 
-cg)–ch)[^28]
+cg)–ch)[^34]
 
-(3) A Kormány első fokú tűzvédelmi szakhatóságként a polgári nemzetbiztonsági szolgálatok létesítményei vonatkozásában a központi szervet jelöli ki.
+(3)[^35] A Kormány első fokú tűzvédelmi szakhatóságként
 
-[^26]: A 3. § (2) bekezdés b) pontja a 368/2012. (XII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^27]: A 3. § (2) bekezdés c) pontja a 74/2012. (IV. 13.) Korm. rendelet 17. § (5) bekezdésével megállapított szöveg.
-[^28]: A 3. § (2) bekezdés c) pont cg)–ch) alpontját a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés d) pontja hatályon kívül helyezte.
+a) a polgári nemzetbiztonsági szolgálatok létesítményei vonatkozásában és
+
+b) a kormányrendeletben meghatározott, nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításához szükséges hatósági engedélyezési eljárásokban
+
+a központi szervet jelöli ki.
+
+[^31]: A 3. § (2) bekezdés a) pontját a 229/2014. (IX. 5.) Korm. rendelet 71. § c) pontja hatályon kívül helyezte.
+[^32]: A 3. § (2) bekezdés b) pontja a 368/2012. (XII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^33]: A 3. § (2) bekezdés c) pontja a 74/2012. (IV. 13.) Korm. rendelet 17. § (5) bekezdésével megállapított szöveg.
+[^34]: A 3. § (2) bekezdés c) pont cg)–ch) alpontját a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^35]: A 3. § (3) bekezdése a 229/2014. (IX. 5.) Korm. rendelet 69. §-ával megállapított szöveg.
