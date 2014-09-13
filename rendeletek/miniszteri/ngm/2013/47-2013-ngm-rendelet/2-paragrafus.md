@@ -40,11 +40,11 @@ fj) a személyi jövedelemadó meghatározott része felajánlásának lekérdez
 
 fk) adóhatósági igazolásokkal kapcsolatos információk megjelenítésére,
 
-fl) az általános forgalmi adó alanyának az általa befogadott számlák tekintetében más adózó által az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 31/B. §-a alapján teljesített általános forgalmi adó összesítő jelentés adatainak lekérdezésére,
+fl)[^8] az általános forgalmi adó alanyának az általa befogadott számlák tekintetében más adózó által az Art. 31/B. §-a alapján teljesített általános forgalmi adó összesítő jelentés adatainak lekérdezésére,
 
-g) a bankkártyás adófizetésre,
+g)[^9] a bankkártyás fizetésre,
 
-h) az állami adó- és vámhatóságnál az adófizetési kötelezettségek egy összegben történő megfizetésére a pénzforgalmi számlanyitásra kötelezett adózó pénzforgalmi számláját vezető, az Elektronikus Fizetési és Elszámolási Rendszerhez (a továbbiakban: EFER) csatlakozott pénzforgalmi szolgáltató által biztosított házibankos fizetési megoldással (a továbbiakban: házibank), és
+h)[^10] az állami adó- és vámhatóságnál teljesítendő fizetési kötelezettségek egy összegben történő megfizetésére a pénzforgalmi számlanyitásra kötelezett adózó pénzforgalmi számláját vezető, az EFER-hez csatlakozott pénzforgalmi szolgáltató által biztosított házibankos fizetési megoldással (a továbbiakban: házibank),
 
 i) az egyes adóügyek telefonon keresztül történő ügyintézésére.
 
@@ -53,3 +53,7 @@ i) az egyes adóügyek telefonon keresztül történő ügyintézésére.
 a) az Európai Unió más tagállamában és az általános forgalmi adóról szóló törvény szerint elismert harmadik államban letelepedett adóalanynak belföldön, az Art. 9. számú melléklet II. cím 2. pont a) alpontja szerinti elektronikus kapcsolattartás útján érvényesített általános forgalmiadó-visszatéríttetési kérelmével, kiigazítási nyilatkozatával, valamint
 
 b) a belföldön letelepedett adóalanynak az Európai Unió más tagállamában érvényesített hozzáadottértékadó-visszatéríttetési kérelmével, kiigazítási nyilatkozatával
+
+[^8]: A 2. § (1) bekezdés f) pont fl) alpontja a 27/2014. (IX. 12.) NGM rendelet 10. § b) pontja szerint módosított szöveg.
+[^9]: A 2. § (1) bekezdés g) pontja a 27/2014. (IX. 12.) NGM rendelet 10. § c) pontjával megállapított szöveg.
+[^10]: A 2. § (1) bekezdés h) pontja a 27/2014. (IX. 12.) NGM rendelet 2. §-ával megállapított szöveg.

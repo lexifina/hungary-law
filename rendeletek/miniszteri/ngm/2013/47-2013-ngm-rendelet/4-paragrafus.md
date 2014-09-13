@@ -6,4 +6,6 @@
 
 (4) A 2. § (1) bekezdés a) pont aa) alpontja, valamint b), c) és d) pontja szerinti eljárások kezdeményezéséhez az állami adóhatóság olyan űrlapot rendszeresít, amely alkalmas a kérelem benyújtása mellett a kérelem módosítására vagy visszavonására is.
 
-(5) Az állami adóhatóság a KR értesítési tárhely útján az adóhatósági igazolás kiadására, köztartozásmentes adózói adatbázisba történő felvételre irányuló kérelmet tartalmazó űrlap feldolgozásának megkezdéséről értesíti az adózót vagy a kérelmet benyújtó képviselőjét. Amennyiben a 8. § (3) bekezdése szerinti melléklet értelmezhetetlen, az állami adóhatóság erről a tényről az adózót vagy a kérelmet benyújtó képviselőjét értesíti és szükség esetén hiánypótlásra hívja fel.
+(5)[^11] Az állami adóhatóság a KR elektronikus tárhely útján az adóhatósági igazolás kiadására, köztartozásmentes adózói adatbázisba történő felvételre irányuló kérelmet tartalmazó űrlap feldolgozásának megkezdéséről értesíti az adózót vagy a kérelmet benyújtó képviselőjét. Amennyiben a 8. § (3) bekezdése szerinti melléklet értelmezhetetlen, az állami adóhatóság erről a tényről az adózót vagy a kérelmet benyújtó képviselőjét értesíti és szükség esetén hiánypótlásra hívja fel.
+
+[^11]: A 4. § (5) bekezdése a 27/2014. (IX. 12.) NGM rendelet 10. § f) pontja szerint módosított szöveg.
