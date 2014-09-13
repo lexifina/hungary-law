@@ -16,13 +16,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Debreceni Járási Hivatal Járási Földhivatala | Hajdú-Bihar Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 2. BARANYA MEGYE
 
@@ -40,13 +40,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Szekszárdi Járási Hivatal Járási Földhivatala | Tolna Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Tolna Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Tolna Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 3. BÁCS-KISKUN MEGYE
 
@@ -64,13 +64,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Szegedi Járási Hivatal Járási Földhivatala | Csongrád Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 4. BORSOD-ABAÚJ-ZEMPLÉN MEGYE
 
@@ -88,13 +88,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Egri Járási Hivatal Járási Földhivatala | Heves Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Heves Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Heves Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 5. CSONGRÁD MEGYE
 
@@ -112,13 +112,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Békéscsabai Járási Hivatal Járási Földhivatala | Békés Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Békés Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Békés Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 6. FEJÉR MEGYE
 
@@ -136,13 +136,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Tatabányai Járási Hivatal Járási Földhivatala | Komárom-Esztergom Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 7. GYŐR-MOSON-SOPRON MEGYE
 
@@ -160,13 +160,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Szombathelyi Járási Hivatal Járási Földhivatala | Vas Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Vas Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Vas Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 8. HAJDÚ-BIHAR MEGYE
 
@@ -184,13 +184,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Nyíregyházi Járási Hivatal Járási Földhivatala | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Szabolcs-Szatmár-Bereg Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Szabolcs-Szatmár-Bereg Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 9. HEVES MEGYE
 
@@ -208,13 +208,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Salgótarjáni Járási Hivatal Járási Földhivatala | Nógrád Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Nógrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Nógrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 10. JÁSZ-NAGYKUN-SZOLNOK MEGYE
 
@@ -232,13 +232,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Kecskeméti Járási Hivatal Járási Földhivatala | Bács-Kiskun Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 11. KOMÁROM-ESZTERGOM MEGYE
 
@@ -256,13 +256,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Veszprémi Járási Hivatal Járási Földhivatala | Veszprém Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Veszprém Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Veszprém Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 12. NÓGRÁD MEGYE
 
@@ -280,13 +280,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Szolnoki Járási Hivatal Járási Földhivatala | Jász-Nagykun-Szolnok Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Jász-Nagykun-Szolnok Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 13. PEST MEGYE I.
 
@@ -304,13 +304,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapesti 1. Számú Földhivatal | Budapest Főváros Kormányhivatala Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 14. PEST MEGYE II.
 
@@ -328,13 +328,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapesti 2. Számú Földhivatal | Budapest Főváros Kormányhivatala Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 15. SOMOGY MEGYE
 
@@ -352,13 +352,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Pécsi Járási Hivatal Járási Földhivatala | Baranya Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Baranya Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Baranya Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 16. SZABOLCS-SZATMÁR-BEREG MEGYE
 
@@ -376,13 +376,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Miskolci Járási Hivatal Járási Földhivatala | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 17. TOLNA MEGYE
 
@@ -400,13 +400,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Székesfehérvári Járási Hivatal Járási Földhivatala | Fejér Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Fejér Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Fejér Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 18. VAS MEGYE
 
@@ -424,13 +424,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Zalaegerszegi Járási Hivatal Járási Földhivatala | Zala Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Zala Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Zala Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 19. VESZPRÉM MEGYE
 
@@ -448,13 +448,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Győri Járási Hivatal Járási Földhivatala | Győr-Moson-Sopron Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 20. ZALA MEGYE
 
@@ -472,13 +472,13 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Kaposvári Járási Hivatal Járási Földhivatala | Somogy Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Somogy Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Somogy Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 ## 21. BUDAPEST
 
@@ -496,15 +496,15 @@
 
 | 6. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Érdi Járási Hivatal Járási Földhivatala | Pest Megyei Kormányhivatal Földhivatala |
 
-| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Pest Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | Tűzvédelmi hatósági ügyekben eltérési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Pest Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 9. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
-2. melléklet a 132/2013. (V. 9.) Korm. rendelethez[^4]
+2. melléklet a 132/2013. (V. 9.) Korm. rendelethez[^7]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő, hatáskörrel rendelkező szakhatóságok az egyes megyékben és Budapesten
 
@@ -524,9 +524,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Debreceni Rendőrkapitányság | Hajdú-Bihar Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -556,9 +556,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Szekszárdi Rendőrkapitányság | Tolna Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Tolna Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Tolna Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -588,9 +588,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Szegedi Rendőrkapitányság | Csongrád Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -620,9 +620,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Egri Rendőrkapitányság | Heves Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Heves Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Heves Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -652,9 +652,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Békéscsabai Rendőrkapitányság | Békés Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Békés Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Békés Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -684,9 +684,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Tatabányai Rendőrkapitányság | Komárom-Esztergom Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -716,9 +716,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Szombathelyi Rendőrkapitányság | Vas Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Vas Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Vas Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -748,9 +748,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Nyíregyházi Rendőrkapitányság | Szabolcs-Szatmár-Bereg Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Szabolcs-Szatmár-Bereg Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Szabolcs-Szatmár-Bereg Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -780,9 +780,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Salgótarjáni Rendőrkapitányság | Nógrád Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Nógrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Nógrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -812,9 +812,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Kecskeméti Rendőrkapitányság | Bács-Kiskun Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -844,9 +844,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Veszprémi Rendőrkapitányság | Veszprém Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Veszprém Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Veszprém Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -876,9 +876,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Szolnoki Rendőrkapitányság | Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -908,9 +908,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | I. Kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -940,9 +940,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | V. Kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Budapesti Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -972,9 +972,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Pécsi Rendőrkapitányság | Baranya Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Baranya Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Baranya Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -1004,9 +1004,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Miskolci Rendőrkapitányság | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -1036,9 +1036,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Székesfehérvári Rendőrkapitányság | Fejér Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Fejér Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Fejér Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -1068,9 +1068,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Zalaegerszegi Rendőrkapitányság | Zala Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Zala Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Zala Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -1100,9 +1100,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Győri Rendőrkapitányság | Győr-Moson-Sopron Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -1132,9 +1132,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Kaposvári Rendőrkapitányság | Somogy Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Somogy Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Somogy Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -1164,9 +1164,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 5. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Érdi Rendőrkapitányság | Pest Megyei Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Pest Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | katasztrófavédelem | Pest Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 8. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -1180,4 +1180,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 13. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
 
-[^4]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 141. §-a, a 221/2014. (IX. 4.) Korm. rendelet 732. § b) pontja szerint módosított szöveg.
+[^7]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 141. §-a, a 221/2014. (IX. 4.) Korm. rendelet 732. § b) pontja, a 229/2014. (IX. 5.) Korm. rendelet 118. § (2) bekezdése és 119. § (3) bekezdése szerint módosított szöveg.
