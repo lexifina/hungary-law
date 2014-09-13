@@ -38,15 +38,15 @@
 
 | 18 |  | gázvezeték és tartozékai építési engedélyeztetése | Szolnoki Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 19 |  | Báta kompresszorállomás vonatkozásában beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése | Szekszárd Megyei Jogú Város Hivatásos Önkormányzati Tűzoltóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 19 |  | Báta kompresszorállomás vonatkozásában beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 20 |  | beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése a) Túrony szakaszoló állomáson, b) Drávaszerdahely szakaszoló és mérő-állomáson | Siklós Város Önkormányzat Hivatásos Önkormányzati Tűzoltóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 20 |  | beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése a) Túrony szakaszoló állomáson, b) Drávaszerdahely szakaszoló és mérő-állomáson | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 21 |  | építésügyi hatósági engedélyezési eljárások a) Báta kompresszorállomás épület, b) Drávaszerdahely mérőállomás | a) Szekszárdi Járási Hivatal járási építésügyi és örökségvédelmi hivatala b) Pécsi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 22 |  | Báta kompresszorállomás bekötőút vonatkozásában útügyi hatósági engedélyezési eljárások | Tolna Megyei Kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-2. melléklet a 173/2010. (V. 13.) Korm. rendelethez[^4]
+2. melléklet a 173/2010. (V. 13.) Korm. rendelethez[^7]
 
 ## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -84,7 +84,7 @@
 
 | 4 | Légi közlekedés a) polgári célú b) állami célú | a) Nemzeti Közlekedési Hatóság Légügyi Hivatala b) Nemzeti Közlekedési Hatóság Légügyi Hivatala | a) Nemzeti Közlekedési Hatóság Központja b) honvédelemért felelős miniszter |
 
-| 5 | Tűzvédelem | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 5 | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 6 | Termőföld minőségi védelme, erdővédelem | termőföld minőségi védelme esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -138,7 +138,7 @@
 
 | 1 | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Tűzvédelem | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 2 | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 3 | Bányászat | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -156,7 +156,7 @@
 
 | 3 | Bányászat | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 4 | Tűzvédelem | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 4 | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 6 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -170,7 +170,7 @@
 
 | 3 | Helyi természetvédelem | települési önkormányzat jegyzője | fővárosi és megyei kormányhivatal |
 
-| 4 | Tűzvédelem | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 4 | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 5 | Bányászat | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -184,4 +184,4 @@
 
 | 2. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^4]: A 2. melléklet a 282/2011. (XII. 21.) Korm. rendelet 43. §-ával megállapított, a 23/2012. (II. 29.) Korm. rendelet 55. §-a, a 394/2012. (XII. 20.) Korm. rendelet 40. §-a, az 527/2013. (XII. 30.) Korm. rendelet 89. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 2. melléklet a 282/2011. (XII. 21.) Korm. rendelet 43. §-ával megállapított, a 23/2012. (II. 29.) Korm. rendelet 55. §-a, a 394/2012. (XII. 20.) Korm. rendelet 40. §-a, az 527/2013. (XII. 30.) Korm. rendelet 89. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 44. § (2)–(3) bekezdése, 45. § b)–e) pontja szerint módosított szöveg.
