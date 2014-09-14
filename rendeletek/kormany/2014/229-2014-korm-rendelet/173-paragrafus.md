@@ -1,1 +1,0 @@
-## 172. § Az R57. 2. mellékletében foglalt táblázat B:5 és B:6 mezőjében a „Fővárosi Katasztrófavédelmi Igazgatóság” szövegrész helyébe a „Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság” szöveg lép.

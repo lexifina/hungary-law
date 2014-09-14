@@ -1,1 +1,0 @@
-## 54. Az Európai Rendőr-akadémia (CEPOL) székhelyének kialakítását célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 466/2013. (XII. 5.) Korm. rendelet módosítása

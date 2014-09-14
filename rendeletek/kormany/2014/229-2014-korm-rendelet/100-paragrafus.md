@@ -1,9 +1,0 @@
-## 99. § A Déli Áramlat földgázszállító-vezeték kiépítéséhez és a vezeték üzemszerű működtetéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 297/2012. (X. 25.) Korm. rendelet (a továbbiakban: R33.) a következő 5. §-sal egészül ki:
-
-## „5. § (1) E rendeletnek a tűzvédelmi hatósági feladatokat ellátó szervezetekről, a tűzvédelmi bírságról és a tűzvédelemmel foglalkozók kötelező élet- és balesetbiztosításáról szóló 259/2011. (XII. 7.) Korm. rendelet, valamint egyes közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló kormányrendeletek módosításáról szóló 229/2014. (IX. 5.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor folyamatban lévő hatósági eljárásokban is alkalmazni kell.
-
-## (2) Az illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság a Módr. hatályba lépését megelőzően nála indult, első fokú határozat, szakhatósági állásfoglalás vagy előzetes szakhatósági állásfoglalás kiadásával még le nem zárt ügyeket átteszi a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatósághoz.”
-
-100. § (1) Az R33. 1. mellékletében foglalt táblázat C:10 és C:13 mezőjében az „illetékes megyei katasztrófavédelmi igazgatóság” szövegrész helyébe a „Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság” szöveg lép.
-
-(2) Az R33. 2. mellékletében foglalt 2. táblázat B:11 mezőjében, a 6. táblázat B:2 mezőjében, a 7. táblázat B:4 mezőjében és a 8. táblázat B:4 mezőjében az „illetékes megyei katasztrófavédelmi igazgatóság” szövegrész helyébe a „Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság” szöveg lép.

@@ -1,1 +1,0 @@
-## 112. § Az R37. 3. mellékletében foglalt táblázat B:4 mezőjében az „illetékes megyei katasztrófavédelmi igazgatóság” szövegrész helyébe a „Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság” szöveg lép.
