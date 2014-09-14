@@ -1,3 +1,3 @@
-## 3. §[^1]
+## 3. §[^2]
 
-[^1]: A 3. § a 13. § (2) bekezdése alapján 2014. október 1-jén lép hatályba.
+[^2]: A 3. § a 13. § (2) bekezdése alapján 2014. október 1-jén lép hatályba.

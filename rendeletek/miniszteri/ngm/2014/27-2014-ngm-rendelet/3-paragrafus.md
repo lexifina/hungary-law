@@ -1,5 +1,3 @@
-## 2. § A Rendelet 2. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
+## 1–2. §[^1]
 
-## (E rendelet hatálya kiterjed)
-
-## „h) az állami adó- és vámhatóságnál teljesítendő fizetési kötelezettségek egy összegben történő megfizetésére a pénzforgalmi számlanyitásra kötelezett adózó pénzforgalmi számláját vezető, az EFER-hez csatlakozott pénzforgalmi szolgáltató által biztosított házibankos fizetési megoldással (a továbbiakban: házibank),”
+[^1]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
