@@ -1,0 +1,1 @@
+## „(4) A termelő részkártalanítási kérelmet nyújthat be a megsemmisítés végrehajtásával megbízott növény- és talajvédelmi igazgatósághoz a termelés mielőbbi beindítása érdekében. Ennek összege a várható teljes kártalanítás 50%-áig terjedhet.”
