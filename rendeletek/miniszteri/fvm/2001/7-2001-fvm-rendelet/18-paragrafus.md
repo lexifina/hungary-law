@@ -18,7 +18,7 @@ e)[^98] a megsemmisítés, illetve az egyéb engedélyezett feldolgozás módjá
 
 (4)[^99] Amennyiben a megsemmisítést a minisztérium rendeli el, a határozatban meg kell nevezni a megsemmisítési eljárást lefolytató növény- és talajvédelmi igazgatóságot.
 
-(5)[^100] A megsemmisítési határozatot meg kell küldeni a termelőnek, az eljárás lefolytatásával megbízott növény- és talajvédelmi igazgatóságnak, a megsemmisítést végző gazdálkodó szervezetnek és a kártalanítás kifizetésében illetékes növény- és talajvédelmi igazgatóság, erdészeti növények esetében az illetékes erdőfelügyelőségnek, védett növények esetén pedig a KvVM Természetvédelmi Hivatal illetékes Nemzeti Park Igazgatóságának.
+(5)[^100] A megsemmisítési határozatot meg kell küldeni a termelőnek, az eljárás lefolytatásával megbízott növény- és talajvédelmi igazgatóságnak, a megsemmisítést végző természetes és jogi személynek, valamint jogi személyiség nélküli szervezetnek és a kártalanítás kifizetésében illetékes növény- és talajvédelmi igazgatóság, erdészeti növények esetében az illetékes erdőfelügyelőségnek, védett növények esetén pedig a KvVM Természetvédelmi Hivatal illetékes Nemzeti Park Igazgatóságának.
 
 (6)[^101] A növény- és talajvédelmi igazgatóságnak, illetve a (4) bekezdés alapján a megsemmisítés végrehajtásával megbízott növény- és talajvédelmi igazgatóságnak jegyzőkönyvben kell rögzítenie azokat a kárelőzményi és tényadatokat, amelyek a kártalanítás alapjául szolgálnak. A jegyzőkönyvet meg kell küldeni a NÉBIH-nek.
 
@@ -26,5 +26,5 @@ e)[^98] a megsemmisítés, illetve az egyéb engedélyezett feldolgozás módjá
 [^97]: A 18. § (2) bekezdése a 10/2009. (II. 25.) FVM rendelet 13. § (3) bekezdés b) pontja, a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^98]: A 18. § (3) bekezdésének e) pontját a 37/2003. (IV. 4.) FVM rendelet 15. §-ának (1) bekezdése iktatta a szövegbe.
 [^99]: A 18. § (4) bekezdése a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés g) pontja szerint módosított szöveg.
-[^100]: A 18. § (5) bekezdése a 37/2003. (IV. 4.) FVM rendelet 15. § (2) bekezdése, a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés h) pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^100]: A 18. § (5) bekezdése a 37/2003. (IV. 4.) FVM rendelet 15. § (2) bekezdése, a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés h) pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés h) pontja, a 9/2014. (IX. 12.) FM rendelet 10. § b) pontja szerint módosított szöveg.
 [^101]: A 18. § (6) bekezdése a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés e) és h) pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés g) pontja szerint módosított szöveg.

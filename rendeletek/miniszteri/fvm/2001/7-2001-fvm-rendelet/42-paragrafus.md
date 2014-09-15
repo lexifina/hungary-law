@@ -1,4 +1,4 @@
-42. §[^178] (1)[^179] Behozatali és átmenő forgalomban az 50/A. § (1) bekezdés d) pontja szerinti hatósági „növényegészségügyi bizonyítvány” vagy „re-export növényegészségügyi bizonyítvány” csak akkor fogadható el, ha
+42. §[^181] (1)[^182] Behozatali és átmenő forgalomban az 50/A. § (1) bekezdés d) pontja szerinti hatósági „növényegészségügyi bizonyítvány” vagy „re-export növényegészségügyi bizonyítvány” csak akkor fogadható el, ha
 
 a) az Európai Unió hivatalos nyelveinek egyikén állították ki,
 
@@ -24,17 +24,17 @@ Az e) pontban foglaltaktól eltérően 2009. december 31-ig elfogadhatók azok a
 
 (3) A növényegészségügyi bizonyítványról csak úgy adható ki másolat, ha azon nyomtatással vagy bélyegzéssel szerepel a ,,másolat'' vagy duplikátum'' szó.
 
-(4)[^180] Azon növények, növényi termékek és egyéb anyagok esetében, amelyekre az 5. számú melléklet A. vagy B. részében meghatározott különleges előírások vonatkoznak, a növényegészségügyi bizonyítványt a növények, növényi termékek vagy más áruk származási helye szerinti harmadik országban állítják ki (származási ország).
+(4)[^183] Azon növények, növényi termékek és egyéb anyagok esetében, amelyekre az 5. számú melléklet A. vagy B. részében meghatározott különleges előírások vonatkoznak, a növényegészségügyi bizonyítványt a növények, növényi termékek vagy más áruk származási helye szerinti harmadik országban állítják ki (származási ország).
 
-(5)[^181] Amennyiben a különleges előírások a származási helytől eltérő helyen is teljesülhetnek vagy semmilyen különleges előírás nem alkalmazandó, a növényegészségügyi bizonyítványt abban a harmadik országban is kiállíthatják, ahonnan a növények, növényi termékek vagy más áruk érkeznek (feladó ország).
+(5)[^184] Amennyiben a különleges előírások a származási helytől eltérő helyen is teljesülhetnek vagy semmilyen különleges előírás nem alkalmazandó, a növényegészségügyi bizonyítványt abban a harmadik országban is kiállíthatják, ahonnan a növények, növényi termékek vagy más áruk érkeznek (feladó ország).
 
-(6)[^182] Amennyiben jogszabály másképp nem rendelkezik, a növényegészségügyi bizonyítvány kiegészítő nyilatkozat rovatában csak a NÉBIH által külön behozatali engedélyben meghatározott igazolásokat köteles a származási vagy a feladó ország növényegészségügyi hatósága feltüntetni.
+(6)[^185] Amennyiben jogszabály másképp nem rendelkezik, a növényegészségügyi bizonyítvány kiegészítő nyilatkozat rovatában csak a NÉBIH által külön behozatali engedélyben meghatározott igazolásokat köteles a származási vagy a feladó ország növényegészségügyi hatósága feltüntetni.
 
-(7)[^183] Az 5. számú melléklet A. része I. szakaszában vagy B. részében felsorolt növények, növényi termékek és egyéb anyagok esetében a bizonyítványokon a „Kiegészítő nyilatkozat” címszó alatt az 5. számú melléklet megfelelő rendelkezésére való hivatkozással meg kell határozni, hogy melyik különleges előírást tartották be.
+(7)[^186] Az 5. számú melléklet A. része I. szakaszában vagy B. részében felsorolt növények, növényi termékek és egyéb anyagok esetében a bizonyítványokon a „Kiegészítő nyilatkozat” címszó alatt az 5. számú melléklet megfelelő rendelkezésére való hivatkozással meg kell határozni, hogy melyik különleges előírást tartották be.
 
-[^178]: A 42. § a 37/2003. (IV. 4.) FVM rendelet 27. §-ával megállapított szöveg.
-[^179]: A 42. § (1) bekezdése a 37/2005. (IV. 27.) FVM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^180]: A 42. § (4) bekezdése a 37/2005. (IV. 27.) FVM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^181]: A 42. § (5) bekezdése a 37/2005. (IV. 27.) FVM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^182]: A 42. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^183]: A 42. § (7) bekezdését a 37/2005. (IV. 27.) FVM rendelet 12. § (3) bekezdése iktatta be.
+[^181]: A 42. § a 37/2003. (IV. 4.) FVM rendelet 27. §-ával megállapított szöveg.
+[^182]: A 42. § (1) bekezdése a 37/2005. (IV. 27.) FVM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^183]: A 42. § (4) bekezdése a 37/2005. (IV. 27.) FVM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^184]: A 42. § (5) bekezdése a 37/2005. (IV. 27.) FVM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^185]: A 42. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^186]: A 42. § (7) bekezdését a 37/2005. (IV. 27.) FVM rendelet 12. § (3) bekezdése iktatta be.

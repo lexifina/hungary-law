@@ -1,4 +1,4 @@
-## 25. §[^117] A kártalanítási határozatban megjelölt összeget a NÉBIH a határozat jogerőre emelkedésétől számított harminc napon belül a termelőnek kifizeti.
+## 25. §[^119] A NÉBIH intézkedik a kártalanítási határozatban megjelölt összeg folyósítása iránt, és azt a határozat jogerőre emelkedésétől számított harminc napon belül a termelőnek kifizeti.
 
 ## Harmadik Fejezet
 
@@ -8,4 +8,4 @@
 
 (2) A növényegészségügyi vizsgálati kötelezettség alá tartozó szaporító- és ültetvényanyag szaporítására, forgalmazására és vizsgálatára vonatkozó előírásokat a 9. számú melléklet tartalmazza.
 
-[^117]: A 25. § a 25/2010. (X. 20.) VM rendelet 2. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^119]: A 25. § a 9/2014. (IX. 12.) FM rendelet 6. §-ával megállapított szöveg.

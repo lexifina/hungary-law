@@ -10,9 +10,9 @@ a) a növényútlevél csak a szállítmányok felosztása, több szállítmány
 
 b) a csere kizárólag a hatósági termelői nyilvántartásba bejegyzett termelőnél lehetséges,
 
-c)[^156] a csereútlevelet a kérelmező telephelye szerint illetékes növény- és talajvédelmi igazgatóság adhatja ki abban az esetben, ha az érintett termék azonossága garantálható, illetve az 1. és a 2. számú mellékletben felsorolt károsítók fertőzésének veszélye nem állt fenn a feladás óta,
+c)[^159] a csereútlevelet a kérelmező telephelye szerint illetékes növény- és talajvédelmi igazgatóság adhatja ki abban az esetben, ha az érintett termék azonossága garantálható, illetve az 1. és a 2. számú mellékletben felsorolt károsítók fertőzésének veszélye nem állt fenn a feladás óta,
 
-d)[^157] a csereútlevélnek tartalmaznia kell a csereútlevélre vonatkozó jelölést, az eredeti termelő növény-egészségügyi nyilvántartási számát, valamint – a növény-egészségügyi állapot megváltozása esetén – az adott változásért felelős természetes vagy jogi személy növény-egészségügyi nyilvántartási számát is.
+d)[^160] a csereútlevélnek tartalmaznia kell a csereútlevélre vonatkozó jelölést, az eredeti termelő növény-egészségügyi nyilvántartási számát, valamint – a növény-egészségügyi állapot megváltozása esetén – az adott változásért felelős természetes vagy jogi személy növény-egészségügyi nyilvántartási számát is.
 
-[^156]: A 36/E. § (4) bekezdés c) pontja a 30/2010. (III. 30.) FVM rendelet 3. §-ával megállapított, a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés i) pontja szerint módosított szöveg.
-[^157]: A 36/E. § (4) bekezdés d) pontja a 30/2010. (III. 30.) FVM rendelet 3. §-ával megállapított szöveg.
+[^159]: A 36/E. § (4) bekezdés c) pontja a 30/2010. (III. 30.) FVM rendelet 3. §-ával megállapított, a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés i) pontja szerint módosított szöveg.
+[^160]: A 36/E. § (4) bekezdés d) pontja a 30/2010. (III. 30.) FVM rendelet 3. §-ával megállapított szöveg.

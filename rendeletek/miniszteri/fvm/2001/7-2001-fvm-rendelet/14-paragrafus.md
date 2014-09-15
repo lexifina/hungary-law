@@ -2,7 +2,7 @@
 
 (2) A Magyarországon nem honos, az 1–2. számú mellékletben fel nem sorolt károsítók észlelése esetén a minisztérium növényegészségügyi intézkedéseket rendelhet el, amennyiben azt a károsító gazdasági veszélyessége indokolja.
 
-(3)[^64] A Magyarországon nem honos, az 1–2. számú mellékletben fel nem sorolt károsítók észlelése esetén a növény- és talajvédelmi igazgatóság korlátozást rendel el, és haladéktalanul értesíti a minisztériumot és a NÉBIH-et.
+(3)[^64] A Magyarországon és az Európai Unió többi tagállamában nem honos, az 1. és 2. számú mellékletben fel nem sorolt károsítók észlelése esetén a növény- és talajvédelmi igazgatóság korlátozást rendel el, és haladéktalanul értesíti a minisztériumot és a NÉBIH-et.
 
 (4)[^65] A Magyarországon nem honos, az 1–2. számú mellékletben fel nem sorolt károsítók megjelenéséről, illetve annak gyanújáról, a tervezett vagy megtett növényegészségügyi intézkedésekről a minisztérium haladéktalanul írásban értesíti a Bizottságot és a többi tagállamot, valamint a vonatkozó nemzetközi szerződésekben foglaltaknak megfelelően a meghatározott szervezeteket és intézményeket. Az intézkedések a Bizottság döntéséig foganatosíthatók.
 
@@ -15,6 +15,6 @@
 (8) Az irányelv 15. cikk (1) bekezdése alapján engedélyezett eltérésekről a minisztérium értesíti a Bizottságot.
 
 [^63]: A 14. § a 37/2003. (IV. 4.) FVM rendelet 11. §-ával megállapított szöveg.
-[^64]: A 14. § (3) bekezdése a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés b) pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^64]: A 14. § (3) bekezdése a 9/2014. (IX. 12.) FM rendelet 2. §-ával megállapított szöveg.
 [^65]: A 14. § (4) bekezdése a 37/2005. (IV. 27.) FVM rendelet 6. §-ával megállapított szöveg.
 [^66]: A 14. § (5) bekezdése a 65/2007. (VII. 23.) FVM rendelet 4. §-ával megállapított szöveg.

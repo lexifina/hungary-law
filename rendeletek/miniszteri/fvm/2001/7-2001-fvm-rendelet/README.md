@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-7-20-82
 | 2013-07-01 | 2001-7-20-82.34 | 51/2013. (VI. 17.) VM rendelet |
 | 2013-08-01 | 2001-7-20-82.35 | 70/2013. (VII. 31.) VM rendelet |
 | 2014-03-15 | 2001-7-20-82.36 | 22/2014. (III. 14.) VM rendelet |
+| 2014-09-15 | 2001-7-20-82.37 | 9/2014. (IX. 12.) FM rendelet |
