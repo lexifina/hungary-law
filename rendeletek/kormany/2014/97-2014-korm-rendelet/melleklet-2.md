@@ -58,6 +58,6 @@
 
 ## 29. az előzőekben felsorolt termékcsoportokhoz tartozó termékek tartozékai és alkotórészei 10 000 Ft eladási ár felett.”
 
-2–3. melléklet a 97/2014. (III. 25.) Korm. rendelethez[^6]
+2–3. melléklet a 97/2014. (III. 25.) Korm. rendelethez[^5]
 
-[^6]: A 2–3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 2–3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
