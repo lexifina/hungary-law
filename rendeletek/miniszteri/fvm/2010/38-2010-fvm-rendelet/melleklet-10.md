@@ -1,4 +1,4 @@
-10. melléklet a 38/2010. (IV. 15.) FVM rendelethez[^67]
+10. melléklet a 38/2010. (IV. 15.) FVM rendelethez[^70]
 
 Az egyes fajták tenyésztési program előírásainak meg nem felelése a súlyosság és tartósság szempontjából az ellenőri megállapítások elvégzéséhez
 
@@ -132,4 +132,4 @@ Az őshonos magyar baromfifajták tenyésztési programjaihoz kapcsolódó meg n
 
 | 5 | Az elit szaporításhoz szükséges, legszűkebb ivararány biztosítása a szaporítási időszak végéig, a hímivarú tenyészállatok származásának dokumentálása | Enyhe:nem biztosította a legszűkebb ivararányt a 30%-os tojástermelés eléréséig Közepes:nem biztosította a legszűkebb ivararányt az elitszaporítás kezdetéig Súlyos:nem biztosította a legszűkebb ivararányt az elitszaporítás során | Rövidtávon helyrehozható:a hímivarú tenyészállatok származási igazolását 10 napon belül pótolta Hosszútávon helyrehozható:a hímivarú tenyészállatok származási igazolását 10 napon túl, de 20 napon belül pótolta Nem helyrehozható:a hímivarú tenyészállatok származási igazolását 20 napon túl vagy egyáltalán nem pótolta és a megfelelő mennyiségű hímivarú tenyészállat származását nem dokumentálta |
 
-[^67]: A 10. melléklet a 17/2013. (III. 18.) VM rendelet 3. § (7) bekezdés c) pontja szerint módosított szöveg.
+[^70]: A 10. melléklet a 17/2013. (III. 18.) VM rendelet 3. § (7) bekezdés c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 37. §[^63] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 13/2014. (II. 24.) VM rendelettel [a továbbiakban: 13/2014. (II. 24.) VM rendelet] megállapított 3. § (5) bekezdését, a 6. § a) pontját, a 16. § (3) bekezdését, a 23. § (1) bekezdését, valamint 26. § (3) bekezdését a 13/2014. (II. 24.) VM rendelet hatálybalépésekor[^64] folyamatban lévő ügyekben is alkalmazni kell.
+## 38. §[^66] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 1/2014. (IX. 15.) MvM rendelet [a továbbiakban: 1/2014. (IX. 15.) MvM rendelet] által megállapított 11. § (1a) bekezdést az 1/2014. (IX. 15.) MvM rendelet hatálybalépésekor[^67] folyamatban levő ügyekben is alkalmazni kell.
 
 1. melléklet a 38/2010. (IV. 15.) FVM rendelethez
 
@@ -84,5 +84,5 @@
 
 | 2 | Szarvasmarha | magyartarka szarvasmarha |
 
-[^63]: A 37. §-t a 13/2014. (II. 24.) VM rendelet 5. §-a iktatta be.
-[^64]: A hatálybalépés időpontja 2014. február 25.
+[^66]: A 38. §-t az 1/2014. (IX. 15.) MvM rendelet 4. § (2) bekezdése iktatta be.
+[^67]: A hatálybalépés időpontja 2014. szeptember 16.
