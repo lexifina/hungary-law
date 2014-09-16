@@ -1,3 +1,5 @@
+## kell az utolsó kifizetési kérelmet benyújtania.
+
 ## 8. Jogkövetkezmények
 
 10. § (1) Ha az üzemeltetési kötelezettség ideje alatt az ügyfél nem tartja be a 3. § (2) bekezdés a) vagy b) pontjában meghatározott feltételeket, akkor az intézkedésben való jogosulatlan részvétel szabályai szerint kell eljárni, és a kifizetett támogatás jogosulatlanul igénybe vett támogatásnak minősül.
