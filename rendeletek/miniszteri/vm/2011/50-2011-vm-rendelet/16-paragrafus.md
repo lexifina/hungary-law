@@ -6,12 +6,12 @@
 
 (3) Többéves kötelezettségvállalás esetében az ügyfél kizárólag a vis maior esemény bekövetkezését követően mentesíthető a további időszakra fennálló kötelezettségek alól, és a vis maior esemény befejeződéséig jogszerűen igénybe vett támogatás visszafizetése alól mentesül.
 
-(4)[^33] A beruházási támogatások vonatkozásában, a vis maior esemény igazolásával egyidejűleg előterjesztett, arra irányuló kifejezett kérelem esetén az MVH az e rendeletben foglalt megvalósítási határidőt egy alkalommal legfeljebb egy évvel – a 2012-ben benyújtott támogatási kérelmek esetén legfeljebb 2015. február 28-ig – meghosszabbítja, amennyiben az ügyfél a beruházást az (5) bekezdésben foglaltak szerint megkezdte. A megvalósítási határidő meghosszabbítására irányuló kérelem a 18. § (1) bekezdésében foglaltak szerint meghatározott megvalósítási határidő lejártát követően nem terjeszthető elő.
+(4)[^42]
 
-(5)[^34] A beruházás megkezdése, a 16. § alkalmazásában igazolt, amennyiben az ügyfél legalább egy, kifizetési kérelemnek helyt adó vagy részben helyt adó jogerős határozattal rendelkezik, amelyben nem csak egyéb elszámolható kiadást hagyott jóvá az MVH.
+(5)[^43]
 
-(6)[^35] Amennyiben a megvalósítási határidőt a (4) és (5) bekezdésben foglalt feltételek megvalósulása esetén, az MVH döntésével meghosszabbítja, az ügyfél e rendelet szerint fennálló üzemeltetési kötelezettsége a meghosszabbítás időtartamával meghosszabbodik, és kifizetési kérelem ebben az esetben is csak a 10. § szerinti határidőig nyújtható be.
+(6)[^44]
 
-[^33]: A 16. § (4) bekezdését a 86/2011. (IX. 1.) VM rendelet 2. §-a iktatta be.
-[^34]: A 16. § (5) bekezdését a 86/2011. (IX. 1.) VM rendelet 2. §-a iktatta be.
-[^35]: A 16. § (6) bekezdését a 86/2011. (IX. 1.) VM rendelet 2. §-a iktatta be.
+[^42]: A 16. § (4) bekezdését a 86/2011. (IX. 1.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 2/2014. (IX. 15.) MvM rendelet 19. § d) pontja.
+[^43]: A 16. § (5) bekezdését a 86/2011. (IX. 1.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 2/2014. (IX. 15.) MvM rendelet 19. § d) pontja.
+[^44]: A 16. § (6) bekezdését a 86/2011. (IX. 1.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 2/2014. (IX. 15.) MvM rendelet 19. § d) pontja.

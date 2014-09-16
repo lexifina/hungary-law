@@ -1,5 +1,6 @@
-18. § (1)[^38] A kizárólag gépbeszerzést tartalmazó műveletet a támogatási határozat jogerőre emelkedésétől számított 1 éven belül, minden egyéb műveletet a támogatási döntés jogerőre emelkedésétől számított 2 éven belül meg kell valósítani.
+18. § (1)[^47] A műveletet legkésőbb 2015. június 15-ig meg kell valósítani.
 
-(2) Az ügyfél köteles a támogatási döntéssel jóváhagyott elszámolható kiadások összegének legalább 80%-át teljesíteni az (1) bekezdésben meghatározott időn belül. Kivételt képez ez alól a közbeszerzéssel megvalósuló beruházás addig a mértékig, ameddig azt a közbeszerzés eredménye indokolja.
+(2)[^48] Az ügyfél köteles a támogatási döntéssel jóváhagyott elszámolható kiadások összegének legalább 80%-át teljesíteni az (1) bekezdésben meghatározott időn belül, egyebekben a 25. § (1) bekezdésében foglalt jogkövetkezmények alkalmazásának van helye.
 
-[^38]: A 18. § (1) bekezdése a 97/2012. (IX. 13.) VM rendelet 6. §-ával megállapított szöveg.
+[^47]: A 18. § (1) bekezdése a 2/2014. (IX. 15.) MvM rendelet 10. §-ával megállapított szöveg.
+[^48]: A 18. § (2) bekezdése a 2/2014. (IX. 15.) MvM rendelet 10. §-ával megállapított szöveg.

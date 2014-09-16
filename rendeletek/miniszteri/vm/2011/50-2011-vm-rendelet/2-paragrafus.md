@@ -98,6 +98,8 @@ b) intenzív üzemi haltermelés esetén a szivárványos pisztráng (Oncorchynu
 
 44.[^13] úszó kotrógép: olyan berendezés, amely a halastó leengedése nélkül csővezetéken keresztül lehetővé teszi az iszapeltávolítást a tómederből és a mederalakítást.
 
+45.[^14] haltermelési létesítmény: a halgazdálkodásról és a hal védelméről szóló törvényben meghatározott fogalom.
+
 (2) Az (1) bekezdésben nem szereplő fogalmakra a Tv. 9. §-a és az EHA rendelet 3. cikke az irányadó.
 
 [^1]: A 2. § (1) bekezdés 8a. pontját a 22/2014. (III. 14.) VM rendelet 81. § (1) bekezdése iktatta be.
@@ -113,3 +115,4 @@ b) intenzív üzemi haltermelés esetén a szivárványos pisztráng (Oncorchynu
 [^11]: A 2. § (1) bekezdés 42. pontját a 85/2013. (IX. 25.) VM rendelet 1. § (5) bekezdése iktatta be.
 [^12]: A 2. § (1) bekezdés 43. pontját a 85/2013. (IX. 25.) VM rendelet 1. § (5) bekezdése iktatta be.
 [^13]: A 2. § (1) bekezdés 44. pontját a 85/2013. (IX. 25.) VM rendelet 1. § (5) bekezdése iktatta be.
+[^14]: A 2. § (1) bekezdés 45. pontját a 2/2014. (IX. 15.) MvM rendelet 1. §-a iktatta be.
