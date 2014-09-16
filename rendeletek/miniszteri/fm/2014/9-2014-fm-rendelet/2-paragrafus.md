@@ -1,3 +1,0 @@
-## 1. § A növényegészségügyi feladatok végrehajtásának részletes szabályairól szóló 7/2001. (I. 17.) FVM rendelet (a továbbiakban: R.) 2/A. §-a helyébe a következő rendelkezés lép:
-
-## „2/A. § A takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló, 2004. április 29-i 882/2004/EK európai parlamenti és tanácsi rendelet szerinti integrált többéves nemzeti ellenőrzési tervhez a NÉBIH elkészíti a növényegészségügyi ellenőrzésekre vonatkozó részanyagot.”
