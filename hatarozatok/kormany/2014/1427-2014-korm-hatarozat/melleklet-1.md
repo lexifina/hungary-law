@@ -1,6 +1,6 @@
 ## 1. meghallgatta és tudomásul vette a Magyar Nemzeti Bank elnökének az MKB Bank Zrt., (cégjegyzékszáma: Cg. 01-10-040952, székhelye: 1056 Budapest, Váci u. 38.) piaci helyzetéről szóló értékelését;
 
-## 2. az 1. pont szerinti értékelés alapján egyetért az MKB Bank Zrt.-nek a Bayerische Landesbank tulajdonában lévő 225 489 993 darab részvényének legfeljebb 17 100,0 millió forint értékben az állam javára történő megvásárlásával;
+## 2.[^1] az 1. pont szerinti értékelés alapján egyetért az MKB Bank Zrt.-nek a Bayerische Landesbank tulajdonában lévő 225 489 993 darab részvényének legfeljebb 55 millió euró értékben az állam javára történő megvásárlásával;
 
 ## 3. tudomásul veszi a részvények megvásárlásával kapcsolatban a felek által 2014. július 22-én aláírt, a jogügylet lényeges feltételeit tartalmazó – „A Bayerische Landesbank MKB Bank Zrt.-ben való részesedésének Magyar Állam számára történő értékesítésének főbb szerződéses feltételei” című – dokumentumot;
 
@@ -12,7 +12,7 @@
 
 ## Határidő: azonnal
 
-## 6. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény[^1] (a továbbiakban: Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím címrendjét az 1. Felhalmozási jellegű kiadások alcím, 4. Állami tulajdoni részesedések növekedését eredményező kiadások jogcímcsoporton belül a 6. Az MKB Bank Zrt. részesedésének megvásárlásával kapcsolatos kiadások jogcímmel egészíti ki;
+## 6. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény[^2] (a továbbiakban: Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím címrendjét az 1. Felhalmozási jellegű kiadások alcím, 4. Állami tulajdoni részesedések növekedését eredményező kiadások jogcímcsoporton belül a 6. Az MKB Bank Zrt. részesedésének megvásárlásával kapcsolatos kiadások jogcímmel egészíti ki;
 
 ## 7. az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva 17 100,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Felhalmozási jellegű kiadások alcím, 4. Állami tulajdoni részesedések növekedését eredményező kiadások jogcímcsoport, 6. Az MKB Bank Zrt. részesedésének megvásárlásával kapcsolatos kiadások jogcím javára az 1. melléklet szerint;
 
@@ -98,4 +98,5 @@ Költségvetési év: 2014.
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A Magyar Közlöny 2014. évi 107. számában megjelent helyesbítésnek megfelelő szöveg.
+[^1]: A 2. pont az 1514/2014. (IX. 16.) Korm. határozattal megállapított szöveg.
+[^2]: A Magyar Közlöny 2014. évi 107. számában megjelent helyesbítésnek megfelelő szöveg.
