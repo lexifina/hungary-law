@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-100-00-00
 | 2014-01-01 | 2013. évi CC. törvény | 1990-100-00-00.52 |
 | 2014-02-01 | 2013. évi CCXXXVI. törvény | 1990-100-00-00.53 |
 | 2014-03-15 | 2014. évi XV. törvény | 1990-100-00-00.54 |
+| 2014-09-16 | 2014. évi XXXVII. törvény | 1990-100-00-00.55 |
