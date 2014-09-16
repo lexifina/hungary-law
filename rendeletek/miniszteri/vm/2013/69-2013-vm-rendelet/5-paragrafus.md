@@ -28,7 +28,7 @@ ch) beosztását, amennyiben a résztvevő tájékoztatót tartó személy,
 
 ci) névjegyzéki regisztrációs számát, amennyiben a résztvevő szaktanácsadó;
 
-d) a projekttervben megjelölt bemutató üzemi programok időpontját és helyszínét a Bemutató Üzem legkésőbb a megvalósítás napját megelőző 10. napon rögzíti a NAKVI által működtetett integrált elektronikus rendszerben;
+d)[^12] a projekttervben megjelölt bemutató üzemi programok időpontját és helyszínét a Bemutató Üzem legkésőbb a megvalósítás napját megelőző 5. napon rögzíti a NAKVI által működtetett integrált elektronikus rendszerben;
 
 e) a bemutató üzemi program megvalósítását követő 5 munkanapon belül a Bemutató Üzem a megvalósítás tényét és a résztvevőknek – az aláírt jelenléti ívvel megegyező – jegyzékét rögzíti a NAKVI által működtetett elektronikus rendszerben;
 
@@ -44,7 +44,7 @@ f) a bemutató üzemi program során a résztvevők számára átadásra kerül 
 
 (7) A (2) bekezdés d) pontja szerinti elektronikus rögzítést követően azonos naptári napra, azonos helyszínre újabb bemutató üzemi program nem rögzíthető, és megszervezése esetén nem támogatható.
 
-(8) A bemutató üzemi program megvalósítását megakadályozó vis maior esemény bekövetkezése esetén a Bemutató Üzem az adott bemutató üzemi program teljesítését elhalaszthatja legkésőbb a projektterv időszakának utolsó napjáig. A vis maior esemény bekövetkezéséről és a bemutató üzemi program elhalasztásáról szóló tájékoztatást a Bemutató Üzem köteles rögzíteni a NAKVI által működtetett integrált elektronikus rendszerben, a tervezett bemutató üzemi program kezdési időpontját megelőzően.
+(8)[^13] A bemutató üzemi program megvalósítását megakadályozó esemény a (2) bekezdés d) pontban meghatározott időpontot követő, de a bemutató üzemi program kezdési időpontját megelőző bekövetkezése esetén a Bemutató Üzem az adott bemutató üzemi program teljesítését elhalaszthatja legkésőbb a projektterv időszakának utolsó napjáig. Az akadályozó esemény bekövetkezéséről és a bemutató üzemi program elhalasztásáról szóló tájékoztatást a Bemutató Üzem köteles rögzíteni a NAKVI által működtetett integrált elektronikus rendszerben, a tervezett bemutató üzemi program kezdési időpontját megelőzően. A tájékoztatás részét képezi annak igazolása, hogy az akadályozó esemény a Bemutató Üzem hatáskörében elháríthatatlan volt.
 
 (9) A Bemutató Üzem kizárólag olyan bemutató üzemi program alapján jogosult támogatásra, amelyen a résztvevők térítésmentesen vesznek részt. Térítésmentes részvételre jogosult ugyanazon Bemutató Üzem által szervezett azonos témájú bemutató üzemi programon korábban részt nem vevő
 
@@ -54,6 +54,11 @@ b) ügyfél-azonosítóval, illetve NÉBIH által nyilvántartott erdőgazdálko
 
 saját maga, legfeljebb 2 fő alkalmazottja, vezető tisztségviselője, vagy tagja.
 
-(10)[^9] Az erdőgazdálkodó ügyfél támogatásra akkor jogosult, ha megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
+(10)[^14] Az erdőgazdálkodó ügyfél támogatásra akkor jogosult, ha megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
 
-[^9]: Az 5. § (10) bekezdését a 36/2014. (IV. 4.) VM rendelet 84. §-a iktatta be.
+(11)[^15] A bemutató üzemi program (8) bekezdésben meghatározott elhalasztása esetén a NAKVI megvizsgálja az elhalasztás indokoltságát, és szükség esetén az esemény elháríthatatlanságát igazoló dokumentum megküldését kéri a Bemutató Üzemtől. A NAKVI megvizsgálja az elhalasztás körülményeit, és jóváhagyása esetén módosítja a program dátumát, ezzel egyidejűleg tájékoztatja az MVH-t a módosításról.
+
+[^12]: Az 5. § (2) bekezdés d) pontja az 1/2014. (IX. 15.) MvM rendelet 32. § (4) bekezdésével megállapított szöveg.
+[^13]: Az 5. § (8) bekezdése az 1/2014. (IX. 15.) MvM rendelet 32. § (5) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (10) bekezdését a 36/2014. (IV. 4.) VM rendelet 84. §-a iktatta be.
+[^15]: Az 5. § (11) bekezdését az 1/2014. (IX. 15.) MvM rendelet 32. § (4) bekezdése iktatta be.

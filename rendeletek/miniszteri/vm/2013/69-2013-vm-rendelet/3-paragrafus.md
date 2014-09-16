@@ -74,7 +74,7 @@ c) a bemutató üzemi program lebonyolításához olyan szaktanácsadó közrem�
 
 a) aki, vagy amely mezőgazdasági vagy erdészeti tevékenységgel összefüggően használatos termékeket gyárt, forgalmaz, vagy az ilyen termékekkel ügynöki tevékenységet folytat;
 
-b) akit, vagy amelyet jogerős határozatban az EMVA társfinanszírozásával nyújtott támogatásnak az intézkedésben való jogosulatlan részvétel szabályai szerinti visszafizetésére köteleztek;
+b)[^5] akit, vagy amelyet 2013. augusztus 26. napjáig jogerős határozatban az EMVA társfinanszírozásával nyújtott támogatásnak az intézkedésben való jogosulatlan részvétel szabályai szerinti visszafizetésére köteleztek, és a támogatási kérelem benyújtásáig e fennálló tartozása teljes mértékben nem került rendezésre;
 
 c) akinek, vagy amelynek az (1) bekezdés szerinti pályázat benyújtását megelőző
 
@@ -93,3 +93,5 @@ a) a Bemutató Üzem írásbeli kérelmére;
 b) ha a Bemutató Üzemmel szemben a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) a 10. § (1) bekezdése szerinti jogkövetkezményt 2 alkalommal érvényesíti; vagy
 
 c) a (6) bekezdésben meghatározott körülmény fennállása esetén.
+
+[^5]: A 3. § (6) bekezdés b) pontja az 1/2014. (IX. 15.) MvM rendelet 32. § (1) bekezdésével megállapított szöveg.

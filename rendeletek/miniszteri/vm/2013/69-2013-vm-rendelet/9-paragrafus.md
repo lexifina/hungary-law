@@ -34,9 +34,9 @@ e) ha a bemutató üzemi programon az ügyfél meghatalmazottja vesz részt, az 
 
 (6) A Bemutató Üzem köteles a támogatási kérelmében meghatározott bemutató üzemi programoknak legalább a 40%-át végrehajtani.
 
-(7)[^14] A 2014. évi első projektterv teljesítési időszakhoz kapcsolódó kifizetési kérelmek benyújtásának határideje 2014. május 31. illetve 2014. augusztus 1-2014. szeptember 30.
+(7)[^21] A 2014. évi első projektterv teljesítési időszakhoz kapcsolódó kifizetési kérelmek benyújtásának határideje 2014. május 31. illetve 2014. augusztus 1-2014. november 30.
 
-(8)[^15] A 2014. évi második projektterv teljesítési időszakhoz kapcsolódó kifizetési kérelmek benyújtásának határideje 2014. augusztus 1–2014. december 31.
+(8)[^22] A 2014. évi második projektterv teljesítési időszakhoz kapcsolódó kifizetési kérelmek benyújtásának határideje 2014. augusztus 1–2014. december 31.
 
-[^14]: A 9. § (7) bekezdését az 53/2014. (IV. 29.) VM rendelet 17. § (8) bekezdése iktatta be.
-[^15]: A 9. § (8) bekezdését az 53/2014. (IV. 29.) VM rendelet 17. § (8) bekezdése iktatta be.
+[^21]: A 9. § (7) bekezdését az 53/2014. (IV. 29.) VM rendelet 17. § (8) bekezdése iktatta be, szövege az 1/2014. (IX. 15.) MvM rendelet 33. §-a szerint módosított szöveg.
+[^22]: A 9. § (8) bekezdését az 53/2014. (IV. 29.) VM rendelet 17. § (8) bekezdése iktatta be.
