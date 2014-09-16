@@ -10,7 +10,9 @@
 
 (5) Mentesül az ügyfél a (4) bekezdésben foglaltak alól, ha a támogatási kérelemre hozott határozatban kizárólag egy darab gép került jóváhagyásra, és a támogatási határozat jogerőre emelkedését követő 1 hónapon belül az MVH részére megküldi a szállító által kiállított visszaigazolást arról, hogy a megrendelést a támogatási határozat jogerőre emelkedésétől számított 6 hónapon belül miért nem tudja és ezen túl mikorra tudja teljesíteni.
 
-(6) A (5) bekezdésben foglaltak teljesülése esetén is köteles az ügyfél a kifizetési kérelmét legkésőbb 2015. január 31-ig benyújtani, és a műveletet a 4. § (4) bekezdésében foglalt határidőig megvalósítani.
+(6)[^24] A (5) bekezdésben foglaltak teljesülése esetén is köteles az ügyfél a kifizetési kérelmét legkésőbb 2015. május 31-ig benyújtani, és a műveletet a 4. § (4) bekezdésében foglalt határidőig megvalósítani.
+
+(6a)[^25] A Vhr. 17. § (3) bekezdésében foglaltaktól eltérően az utolsó kifizetési kérelmet legkésőbb 2015. május 31-ig kell benyújtani.
 
 (7) Az ügyfél köteles
 
@@ -35,3 +37,9 @@ a) nem beépített gépet vagy mobil technológiai berendezést,
 b) egyéb elszámolható kiadást, vagy
 
 c) nem engedélyköteles beépítési tevékenységgel érintett gépet vagy technológiai berendezést számol el.
+
+(12)[^26] Amennyiben a 11. § (4) bekezdés szerinti 6 hónapos határidő olyan időpontban jár le, amikor nincs kifizetési kérelem benyújtási időszak, akkor az azt követően elsőként megnyíló kifizetési kérelem benyújtási időszak megnyílásától számított 30 napon belül a támogatásra jogosult jogkövetkezmény nélkül benyújthatja a kifizetési kérelmét.
+
+[^24]: A 11. § (6) bekezdése az 1/2014. (IX. 15.) MvM rendelet 39. § b) pontja szerint módosított szöveg.
+[^25]: A 11. § (6a) bekezdését az 1/2014. (IX. 15.) MvM rendelet 38. § (6) bekezdése iktatta be.
+[^26]: A 11. § (12) bekezdését az 1/2014. (IX. 15.) MvM rendelet 38. § (7) bekezdése iktatta be.

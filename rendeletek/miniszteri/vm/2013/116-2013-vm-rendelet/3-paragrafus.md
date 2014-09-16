@@ -32,9 +32,9 @@ ad) ha az ügyfél fiatal mezőgazdasági termelő, és a beruházás KAT-terül
 
 b) a nem beépített gépek vagy mobil technológiai berendezések beszerzése vonatkozásában az igényelhető támogatás mértéke az összes elszámolható kiadás 35%-a.
 
-(5)[^3] A (4) bekezdés a) pontja alkalmazandó a kerekes traktor (1111) és a 7. mellékletben vagy a gépkapcsolási lehetőségekre vonatkozó, a rendelet hatálybalépését megelőzően közzétett IH közlemény 3. mellékletében feltüntetett valamely gép vagy technológiai berendezés együttes igénylése esetén, azzal, hogy gépkapcsolatonként legfeljebb a kerekes traktorok darabszámával egyező darabszámú azonos gépkódú munkagép vehető figyelembe.
+(5)[^5] A (4) bekezdés a) pontja alkalmazandó a kerekes traktor (1111) és a 7. mellékletben vagy a gépkapcsolási lehetőségekre vonatkozó, a rendelet hatálybalépését megelőzően közzétett IH közlemény 3. mellékletében feltüntetett valamely gép vagy technológiai berendezés együttes igénylése esetén, azzal, hogy gépkapcsolatonként legfeljebb a kerekes traktorok darabszámával egyező darabszámú azonos gépkódú munkagép vehető figyelembe.
 
-(6)[^4] A (4) bekezdés a) pontja alkalmazandó a 8. mellékletben vagy a gépkapcsolási lehetőségekre vonatkozó, a rendelet hatálybalépését megelőzően közzétett IH közlemény 1–2. és 4–9. mellékleteiben feltüntetett valamely gép vagy technológiai berendezés együttes igénylése esetén, azzal, hogy gépkapcsolatonként legfeljebb a gépkapcsolat alapelemeként meghatározott gépek (alapgépek) darabszámával egyező darabszámú azonos gépkódú kapcsolódó gép vehető figyelembe.
+(6)[^6] A (4) bekezdés a) pontja alkalmazandó a 8. mellékletben vagy a gépkapcsolási lehetőségekre vonatkozó, a rendelet hatálybalépését megelőzően közzétett IH közlemény 1–2. és 4–9. mellékleteiben feltüntetett valamely gép vagy technológiai berendezés együttes igénylése esetén, azzal, hogy gépkapcsolatonként legfeljebb a gépkapcsolat alapelemeként meghatározott gépek (alapgépek) darabszámával egyező darabszámú azonos gépkódú kapcsolódó gép vehető figyelembe.
 
 (7) Az igényelhető támogatás mértéke a 2. célterület esetén:
 
@@ -80,5 +80,5 @@ cc) a kiadások nem építési vagy vízjogi létesítési engedélyköteles ép
 
 (14) Amennyiben a támogatási kérelemben megjelölt gép elutasításra kerül, úgy a hozzá kapcsolódóan igényelt építési tételt is el kell utasítani.
 
-[^3]: A 3. § (5) bekezdése a 19/2014. (III. 12.) VM rendelet 43. § (1) bekezdésével megállapított szöveg.
-[^4]: A 3. § (6) bekezdése a 19/2014. (III. 12.) VM rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (5) bekezdése a 19/2014. (III. 12.) VM rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (6) bekezdése a 19/2014. (III. 12.) VM rendelet 43. § (1) bekezdésével megállapított szöveg.
