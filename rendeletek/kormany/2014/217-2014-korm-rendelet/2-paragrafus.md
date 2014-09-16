@@ -1,0 +1,1 @@
+## 1. § A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény alapján alkalmazott hitelezői feltőkésítéskor az érintett intézményre vagy pénzügyi vállalkozásra az e rendelettel összhangban kell reorganizációs tervet készíteni.
