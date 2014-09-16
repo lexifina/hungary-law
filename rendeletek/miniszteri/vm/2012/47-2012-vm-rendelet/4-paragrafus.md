@@ -22,6 +22,15 @@ b) ha mikrovállalkozás, akkor székhellyel, telephellyel vagy fiókteleppel
 
 (4) Ha a kérelem az 5. mellékletben szereplő települések közül több települést is érint, az ügyfélnek valamely településen vagy annak külterületén már a támogatási kérelem benyújtásakor lakóhellyel, tartózkodási hellyel, székhellyel, telephellyel vagy fiókteleppel kell rendelkeznie.
 
-(5) A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően a műveletet a támogatási határozat közlésétől számított két éven belül meg kell valósítani.
+(5)[^1] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően,
 
-(6) A Vhr. 17. § (3) bekezdésében foglaltaktól eltérően az utolsó kifizetési kérelmet a művelet megvalósulását követő hat hónapon belül, de legkésőbb 2015. január 31-ig be kell nyújtani.
+a) az ügyfélnek a támogatási határozat közlésétől számított két éven belül,
+
+b) annak az ügyfélnek, aki 2015. március 31. napját megelőző két éven belül veszi kézhez a támogatási határozatot, az a) pont szerinti határidőre tekintet nélkül 2015. március 31. napjáig
+
+## kell a műveletet megvalósítania.
+
+(6)[^2]
+
+[^1]: A 4. § (5) bekezdése az 1/2014. (IX. 15.) MvM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^2]: A 4. § (6) bekezdését az 1/2014. (IX. 15.) MvM rendelet 14. §-a hatályon kívül helyezte.

@@ -1,3 +1,5 @@
+## kell az utolsó kifizetési kérelmet benyújtania.
+
 ## 8. A támogatás nem jogszerű felhasználása esetén alkalmazandó jogkövetkezmények
 
 13. § (1) Ha az ügyfél a támogatási kérelemben vállalt átlagos foglalkoztatotti létszámnál kevesebb főt foglalkoztat az üzemeltetési kötelezettség harmadik évétől kezdődően, akkor – hiányzó foglalkoztatottanként egyszer – a jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legalább 300 000 forintot köteles visszafizetni.

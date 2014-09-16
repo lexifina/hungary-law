@@ -1,6 +1,6 @@
 ## 16. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 54. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-1. melléklet a 47/2012. (V. 11.) VM rendelethez[^4]
+1. melléklet a 47/2012. (V. 11.) VM rendelethez[^10]
 
 1. 3-as Kézfogás non-profit Kft.
 
@@ -3380,30 +3380,4 @@ A Horizontális szempontok értékelési rész 3. (A fejlesztéssel érintett é
 
 III. Pénzügyi szempontok
 
-|  | A | B | C |
-
-| 1 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető maximális pontszám |
-
-| 2 | 1. Vállalatértékelés I. | A vállalkozás 1 főre jutó árbevételének a vizsgálata Ha a vállalkozás a bázis évben* az egy alkalmazottra jutó árbevételének az ELÁBÉ** és a közvetített szolgáltatások összegével csökkentett (egyéni vállalkozások esetében az adóalapba beszámított árbevétel az ELÁBÉ és a közvetített szolgáltatások összegével csökkentett) értéke: – meghaladja a 3 millió forintot, akkor 4 pont, – 2,5–3 millió forint között van, akkor 3 pont, – 2–2,5 millió forint között van, akkor 2 pont, – 1,5–2 millió forint között van, akkor 1 pont, – 1,5 millió forint alatt van, akkor 0 pont. A felső határérték minden esetben a magasabb pontszámhoz sorolandó. Induló vállalkozás*** esetében a vizsgálat éve a benyújtás évét követő harmadik és negyedik év. | 4 pont |
-
-| 3 | 2. Vállalatértékelés II. | Adózás előtti eredmény vizsgálata az igénylés benyújtását megelőző két évben Ha a támogatási kérelem benyújtási évét megelőző 2 lezárt teljes gazdasági év közül az egyikben az adózás előtti eredmény pozitív, akkor 2 pont, ha mindkét évben pozitív, akkor 4 pont, ha egyik évben sem, akkor 0 pont. Induló vállalkozás esetében a vizsgálat éve a benyújtás évét követő első és második év. | 4 pont |
-
-| 4 | 3. Tervadatok értékelése II. – A vállalkozás 1 főre jutó árbevételének a vizsgálata | Ha a vállalkozás 1 főre jutó árbevételének az ELÁBÉ és a közvetített szolgáltatások értékével csökkentett része a támogatási kérelmet követő 5. évre nézve: a) Nem induló vállalkozás esetén a bázis évhez képest: – több mint 5%-kal bővül, akkor 1 pont, – több mint 10%-kal bővül, akkor 2 pont, – több mint 15%-kal bővül, akkor 3 pont, – több mint 20%-kal bővül, akkor 4 pont. b) Induló vállalkozások esetében eléri: – a 3 millió forintot, akkor 1 pont, – a 3,5 millió forintot, akkor 2 pont, – a 4 millió forintot, akkor 3 pont, – a 4,5 millió forintot, akkor 4 pont. | 4 pont |
-
-| 5 | 4. Pénzügyi terv üzemeltetési-hatékonysági vizsgálata | Ha az árbevétel arányos adózás előtti eredmény (az adózás előtti eredmény és az árbevétel hányadosa) a támogatási kérelmet követő 5. évre nézve a bázis évhez képest: – több mint 30%-kal nő, akkor 4 pont, – 20,01%–30% között nő, akkor 3 pont, – 10,01%–20% között nő, akkor 2 pont, – 0%–10% között nő, akkor 1 pont, – amennyiben csökken, akkor 0 pont. Induló vállalkozás esetén a bázis év a benyújtást követő első év. | 4 pont |
-
-| 6 | Pénzügyi terv |  | max. 16 pont |
-
-| 7 | Üzleti terv |  | max. 30 |
-
-| 8 |  | Kommunikációs Terv | (+) 5 pont |
-
-| 9 |  | Társadalmi felelősségvállalás | (+) 5 pont |
-
-|  | Szakmai és Horizontális szempontok |  | 20 + 95 pont |
-
-| 10 | A támogatási kérelemben elérhető maximum pontszám | Összesen legfeljebb: | 171 pont |
-
-* Bázis év: a támogatási kérelem benyújtását megelőző lezárt, teljes gazdasági év.
-
-[^4]: Az 1. melléklet az 52/2012. (VI. 8.) VM rendelet 19. § (1), (2) és (4) bekezdése szerint módosított szöveg.
+[^10]: Az 1. melléklet az 52/2012. (VI. 8.) VM rendelet 19. § (1), (2) és (4) bekezdése szerint módosított szöveg.
