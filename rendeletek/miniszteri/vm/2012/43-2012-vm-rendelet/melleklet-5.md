@@ -76,6 +76,6 @@
 
 ## c) visszajelzések bekérése: visszacsatolás, a kommunikáció hatékonyságának vizsgálat
 
-5. melléklet a 43/2012. (V. 3.) VM rendelethez[^17]
+5. melléklet a 43/2012. (V. 3.) VM rendelethez[^23]
 
-[^17]: Az 5. melléklet a 126/2012. (XII. 12.) VM rendelet 9. § (12)–(14) bekezdése szerint módosított szöveg.
+[^23]: Az 5. melléklet a 126/2012. (XII. 12.) VM rendelet 9. § (12)–(14) bekezdése szerint módosított szöveg.

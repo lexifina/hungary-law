@@ -1,4 +1,4 @@
-## 13/A. §[^13] E rendeletnek a vidékfejlesztési miniszter felelősségi körébe tartozó egyes miniszteri rendeleteknek a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló törvényhez kapcsolódó, valamint más vidékfejlesztési tárgyú módosításáról szóló 121/2013. (XII. 16.) VM rendelettel [a továbbiakban: 121/2013. (XII. 16.) VM rendelet] megállapított 11. § (1) bekezdését a 121/2013. (XII. 16.) VM rendelet hatálybalépésekor[^14] folyamatban lévő ügyekben is alkalmazni kell.
+## 13/B. §[^19] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 1/2014. (IX. 15.) MvM rendelettel [a továbbiakban: 1/2014. (IX. 15.) MvM rendelet] megállapított 8. § (1) bekezdést, 10. § (2) bekezdés e) pontot, valamint 11. § (4) bekezdést, az 1/2014. (IX. 15.) MvM rendelet hatálybalépésekor[^20] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^13]: A 13/A. §-t a 121/2013. (XII. 16.) VM rendelet 22. § (2) bekezdése iktatta be.
-[^14]: A hatálybalépés időpontja 2013. december 17.
+[^19]: A 13/B. §-t az 1/2014. (IX. 15.) MvM rendelet 12. § (4) bekezdése iktatta be.
+[^20]: A hatálybalépés időpontja 2014. szeptember 16.

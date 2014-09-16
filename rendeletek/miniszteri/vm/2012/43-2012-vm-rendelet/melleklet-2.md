@@ -490,6 +490,6 @@
 
 | 244. | HUON20014 | Gércei tufagyűrű és láprét | ÖNPI | 454,85 | 1 130 400 |
 
-2. melléklet a 43/2012. (V. 3.) VM rendelethez[^16]
+2. melléklet a 43/2012. (V. 3.) VM rendelethez[^22]
 
-[^16]: A 2. melléklet a 126/2012. (XII. 12.) VM rendelet 9. § (11) bekezdése szerint módosított szöveg.
+[^22]: A 2. melléklet a 126/2012. (XII. 12.) VM rendelet 9. § (11) bekezdése szerint módosított szöveg.

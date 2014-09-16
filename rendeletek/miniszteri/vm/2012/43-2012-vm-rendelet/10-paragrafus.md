@@ -10,11 +10,13 @@ b) 2013. október 1.–2013. november 30.;
 
 c) 2014. április 1.–2014. május 30.;
 
-d) 2014. november 1.–2015. január 31.
+d) 2014. november 1.–2015. január 31;
+
+e)[^11] 2015. április 1–2015. május 31.
 
 (3) Egy ügyfél a megvalósítási időszak alatt legfeljebb két kifizetési kérelmet nyújthat be.
 
-(4)[^9] A kifizetési kérelemhez mellékelni kell
+(4)[^12] A kifizetési kérelemhez mellékelni kell
 
 a) a Szakmai Bizottság szakmai javaslatának eredeti példányát
 
@@ -34,7 +36,7 @@ f) az elszámolni kívánt személyi jellegű kiadásokra vonatkozóan a fenntar
 
 g) bruttó 100 000 forintot meghaladó számlatétel vagy azonos rendeltetésű termékbeszerzések és szolgáltatások számlatételeinek együttes összege esetén, amennyiben
 
-ga) a beszerzés értéke nem éri el a közbeszerzésekről szóló törvényben[^10] (a továbbiakban: Kbt.) meghatározott értékhatárt, a számlatételre vonatkozóan két árajánlatot és a választás indokolását;
+ga) a beszerzés értéke nem éri el a közbeszerzésekről szóló törvényben[^13] (a továbbiakban: Kbt.) meghatározott értékhatárt, a számlatételre vonatkozóan két árajánlatot és a választás indokolását;
 
 gb) a beszerzés értéke eléri a Kbt.-ben meghatározott értékhatárt az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.) 33. § (1) és (2) bekezdésében meghatározott dokumentumokat.
 
@@ -60,5 +62,6 @@ szerint benyújtott dokumentumok alapján adja meg szakmai javaslatát.
 
 (8) A Natura 2000 fenntartási tervet a Szakmai Bizottság a (7) bekezdésben meghatározott 60 napon belül, egyszeri alkalommal átdolgozásra visszaadhatja.
 
-[^9]: A 10. § (4) bekezdése a 126/2012. (XII. 12.) VM rendelet 9. § (8) bekezdésével megállapított szöveg.
-[^10]: Lásd a 2011: CVIII. törvényt.
+[^11]: A 10. § (2) bekezdés e) pontját az 1/2014. (IX. 15.) MvM rendelet 12. § (2) bekezdése iktatta be.
+[^12]: A 10. § (4) bekezdése a 126/2012. (XII. 12.) VM rendelet 9. § (8) bekezdésével megállapított szöveg.
+[^13]: Lásd a 2011: CVIII. törvényt.

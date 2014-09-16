@@ -1,3 +1,5 @@
+## kell az utolsó kifizetési kérelmet benyújtania.
+
 ## 8. Jogkövetkezmények
 
 12. § (1) Ha az ügyfél nem tesz eleget a 8. § (3) bekezdésben, vagy a 8. § (5) bekezdésben meghatározott kötelezettségei valamelyikének, a jogerős támogatási határozatban megállapított támogatás összege 15%-kal csökkentésre kerül.
