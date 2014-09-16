@@ -20,9 +20,9 @@
 
 ## Határidő: 2015. március 31.
 
-## 2. felhívja az egységes komolyzenei koncepció kialakításáért és végrehajtásának koordinálásáért felelős kormánybiztost egy hosszú távú komolyzenei koncepció elkészítésére, amely feltérképezi az oktatás valamennyi szintjén és formájában az ének- és zeneoktatás, a zenei tehetséggondozás, a zeneművészeti képzés, a hagyományosan élő zenei mozgalmak, a főváros és a vidék zenei élete, valamint a magyar zeneművészet és zenepedagógia nemzetközi helyzetét, és javaslatot tesz e területek összehangolásának, fejlesztésének lehetséges irányaira;
+## 2.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy tegyen meg minden szükséges intézkedést egy hosszú távú komolyzenei koncepció elkészítésére, továbbá az oktatás valamennyi szintjén és formájában az ének- és zeneoktatás, a zenei tehetséggondozás, a zeneművészeti képzés, a hagyományosan élő zenei mozgalmak, a főváros és a vidék zenei élete, valamint a magyar zeneművészet és zenepedagógia nemzetközi helyzetének feltérképezésére, e területek összehangolásának, fejlesztésének támogatására;
 
-## Felelős: az egységes komolyzenei koncepció kialakításáért és végrehajtásának koordinálásáért felelős kormánybiztos
+## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: azonnal
 
@@ -135,3 +135,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1519/2014. (IX. 16.) Korm. határozat 1. pontjával megállapított szöveg.
