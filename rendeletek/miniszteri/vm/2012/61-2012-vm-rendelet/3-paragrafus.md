@@ -48,6 +48,8 @@ e) az utolsó kifizetési kérelem benyújtása előtt az EMVA társfinanszíroz
 
 (5) Az ügyfél a szintentartási kötelezettségének bértartás útján is eleget tehet.
 
-(6) Az ügyfél köteles a támogatott műveletet legkésőbb 2015. január 31. napjáig megvalósítani.
+(6)[^2] Az ügyfél köteles a támogatott műveletet legkésőbb 2015. március 31. napjáig megvalósítani.
 
 (7) Jelen intézkedés keretében támogatásra nem jogosult a védett vagy Natura 2000 területen gazdálkodó központi költségvetési szerv, önkormányzat és társulásai.
+
+[^2]: A 3. § (6) bekezdése az 1/2014. (IX. 15.) MvM rendelet 19. § (1) bekezdésével megállapított szöveg.
