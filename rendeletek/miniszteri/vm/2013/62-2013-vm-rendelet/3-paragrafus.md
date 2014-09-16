@@ -22,4 +22,6 @@ c) akinek a nyilatkozatát a 2013. évi 4 EUME kertészeti üzemméretről a 201
 
 (6) A 4. § (1) bekezdésében foglalt határidőig, illetve a 4. § (1) bekezdésében foglaltak teljesítése esetén 2014. december 31-ig az ügyfél teljes bizonyító erejű magánokiratba foglalt, visszavonhatatlan nyilatkozatában vállalhatja, hogy az intézkedésben való jogosulatlan részvétel jogkövetkezményeinek alkalmazása mellett a támogatás egészéről lemond.
 
-(7) A műveletet 2014. december 31-ig meg kell valósítani.
+(7)[^1] A műveletet 2015. március 31-ig kell megvalósítani.
+
+[^1]: A 3. § (7) bekezdése az 1/2014. (IX. 15.) MvM rendelet 30. § (1) bekezdésével megállapított szöveg.
