@@ -1,4 +1,4 @@
-## 23. §[^61] Ha a támogatásra jogosult a támogatási időszak alatt adott célprogramban egynél több alkalommal nem részesül kifizetésben, mert a benyújtott kifizetési kérelme teljes mértékben elutasításra kerül, akkor az adott célprogramra vonatkozó támogatási jogosultsága megszűnik, és az adott célprogramra már igénybe vett teljes támogatási összeget az intézkedésben való jogosulatlan részvételre vonatkozó szabályok szerint vissza kell fizetnie.
+## 23. §[^62] Ha a támogatásra jogosult a támogatási időszak alatt adott célprogramban egynél több alkalommal nem részesül kifizetésben, mert a benyújtott kifizetési kérelme teljes mértékben elutasításra kerül, akkor az adott célprogramra vonatkozó támogatási jogosultsága megszűnik, és az adott célprogramra már igénybe vett teljes támogatási összeget az intézkedésben való jogosulatlan részvételre vonatkozó szabályok szerint vissza kell fizetnie.
 
 ## 14. Vis maiorra vonatkozó szabályok
 
@@ -18,4 +18,4 @@ c) a sperma vagy az embrió a konzerváció során nem felel meg a felhasználha
 
 (4) Az (1) bekezdés szerinti esetben az MVH a megsemmisült mintákat és állatokat kizárja a támogatott minták és állatok közül, azonban a támogatásra jogosultat a mintákra és állatokra már igénybe vett támogatás vonatkozásában visszafizetési kötelezettség nem terheli.
 
-[^61]: A 23. § a 13/2014. (II. 24.) VM rendelet 22. §-ával megállapított szöveg.
+[^62]: A 23. § a 13/2014. (II. 24.) VM rendelet 22. §-ával megállapított szöveg.

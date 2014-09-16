@@ -34,13 +34,24 @@ bc) ha az állattartó apaállatot vásárol, akkor az apaállat vásárlásána
 
 (7)[^7] A 6. melléklet szerinti kötelező tenyészetben tartásnak a (6) bekezdésben megállapított naptól kezdődően folyamatosan fenn kell állnia.
 
-(8)[^8] A magyar szürke szarvasmarha és a magyar házibivaly fajtákhoz tartozó bika központi felnevelésekor ugyanazon egyed esetén támogatás maximum két egymást követő gazdálkodási évben igényelhető.
+(7a)[^8] A (7) bekezdés szerinti kötelezettséget megtartottnak kell tekinteni, amennyiben a támogatásra jogosult igazolni tudja, hogy a 6. melléklet szerinti kötelező tenyésztésben tartási időtartam azért szakadt meg, mert az állat ideiglenesen
 
-(9)[^9] Kos és kecske bak központi felnevelése estén maximum 275 nap támogatható.
+a) karanténba került,
+
+b) mesterséges termékenyítő állomásra került,
+
+c) állatorvosi vizsgálaton volt, vagy
+
+d) kiállításon vett részt.
+
+(8)[^9] A magyar szürke szarvasmarha és a magyar házibivaly fajtákhoz tartozó bika központi felnevelésekor ugyanazon egyed esetén támogatás maximum két egymást követő gazdálkodási évben igényelhető.
+
+(9)[^10] Kos és kecske bak központi felnevelése estén maximum 275 nap támogatható.
 
 [^4]: A 6. § (1) bekezdés c) pontja a 138/2012. (XII. 22.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^5]: A 6. § (5) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
 [^6]: A 6. § (6) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
 [^7]: A 6. § (7) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
-[^8]: A 6. § (8) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
-[^9]: A 6. § (9) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^8]: A 6. § (7a) bekezdését az 1/2014. (IX. 15.) MvM rendelet 10. § (1) bekezdése iktatta be.
+[^9]: A 6. § (8) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^10]: A 6. § (9) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
