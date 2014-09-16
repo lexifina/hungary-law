@@ -1,3 +1,6 @@
-## 11. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 20. cikk a) pont i) alpontjának, valamint 21. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
+## 12. §[^11] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 1/2014. (IX. 15.) MvM rendelettel [a továbbiakban: 1/2014. (IX. 15.) MvM rendelet] megállapított 2. § (1) bekezdés 3. és 7. pontot, 4. § (1) bekezdés a), d) és m) pontot, 5. § (7) bekezdés a) pont ab) alpontot, b) pont bb) alpontot és d) pont db) alpontot, 5. § (9) bekezdést, valamint 8. § (1) bekezdést az 1/2014. (IX. 15.) MvM rendelet hatálybalépésekor[^12] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 48/2014. (IV. 25.) VM rendelethez
+
+[^11]: A 12. §-t az 1/2014. (IX. 15.) MvM rendelet 44. § (7) bekezdése iktatta be.
+[^12]: A hatálybalépés időpontja 2014. szeptember 16.

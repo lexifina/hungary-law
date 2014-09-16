@@ -26,7 +26,7 @@ a) a (2) bekezdés a) pontja szerinti tevékenységek esetében:
 
 aa) munkabér, béren kívüli juttatás és azok járulékai,
 
-ab) saját gépjármű egyedi ügyfélszolgálati tájékoztatás elvégzéséhez szükséges használatának költségtérítése,
+ab)[^6] gépjármű egyedi ügyfélszolgálati tájékoztatás elvégzéséhez szükséges használatának költségtérítése,
 
 ac) a helyi és távolsági távbeszélő-szolgáltatás, a mobiltelefon-szolgáltatás, valamint az Internet-protokollt alkalmazó beszédcélú adatátvitel szolgáltatás költsége,
 
@@ -40,7 +40,7 @@ b) a (2) bekezdés b) pontja szerinti tevékenységek esetében:
 
 ba) munkabér, béren kívüli juttatás és azok járulékai,
 
-bb) saját gépjármű csoportos tájékoztatás elvégzéséhez szükséges használatának költségtérítése,
+bb)[^7] gépjármű csoportos tájékoztatás elvégzéséhez szükséges használatának költségtérítése,
 
 bc) a GISZ tevékenység keretében tájékoztatási célt szolgáló információs kiadványokhoz kapcsolódó költségek sokszorosítási és szállítási költségei,
 
@@ -56,7 +56,7 @@ d) a (2) bekezdés d) pontja szerinti tevékenységek esetében:
 
 da) munkabér, béren kívüli juttatás, és azok járulékai,
 
-db) saját gépjármű adminisztratív és szakmai koordináció elvégzéséhez szükséges használatának költségtérítése,
+db)[^8] gépjármű adminisztratív és szakmai koordináció elvégzéséhez szükséges használatának költségtérítése,
 
 dc) a helyi és távolsági távbeszélő-szolgáltatás, a mobiltelefon-szolgáltatás, valamint az Internet-protokollt alkalmazó beszédcélú adatátvitel szolgáltatás költsége,
 
@@ -70,4 +70,9 @@ dg) az oktatások, képzések költségei.
 
 (8) A (7) bekezdésben meghatározott kiadások közül kizárólag a más forrásból meg nem térült kiadások számolhatók el.
 
-(9) A GISZ tanácsadóknak a GISZ tájékoztatási tevékenység teljesítéséhez kapcsolódó béren kívüli juttatásainak maximum 40%-a számolható el a jogcím keretein belül, amely tanácsadónként nem lehet több havi (nettó) 10 000 Ft-nál.
+(9)[^9] A GISZ tanácsadóknak a GISZ tájékoztatási tevékenység teljesítéséhez kapcsolódó elszámolt béren kívüli juttatásai nem haladhatják meg tanácsadónként a havi (nettó) 10 000 Ft-ot.
+
+[^6]: Az 5. § (7) bekezdés a) pont ab) alpontja az 1/2014. (IX. 15.) MvM rendelet 45. § b) pontja szerint módosított szöveg.
+[^7]: Az 5. § (7) bekezdés b) pont bb) alpontja az 1/2014. (IX. 15.) MvM rendelet 45. § b) pontja szerint módosított szöveg.
+[^8]: Az 5. § (7) bekezdés d) pont db) alpontja az 1/2014. (IX. 15.) MvM rendelet 45. § b) pontja szerint módosított szöveg.
+[^9]: Az 5. § (9) bekezdése az 1/2014. (IX. 15.) MvM rendelet 44. § (5) bekezdésével megállapított szöveg.

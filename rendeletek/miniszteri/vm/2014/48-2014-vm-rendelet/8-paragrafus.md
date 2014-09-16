@@ -1,6 +1,6 @@
 ## 7. Kifizetési kérelem
 
-8. § (1) Kifizetési kérelmet a támogatási kérelemnek helyt adó vagy részben helyt adó, jogerős támogatási határozattal rendelkező ügyfél – az MVH által rendszeresített, és az MVH honlapján közzétett formanyomtatványon, postai úton – nyújthat be 2014. május 10–31., 2014. július 5–31., 2014. október 5–31. és 2015. január 5–31. között a GISZ működtetésének a benyújtási időszakot közvetlenül megelőző három hónap során felmerült költségeire vonatkozóan.
+8. § (1)[^10] Kifizetési kérelmet a támogatási kérelemnek helyt adó vagy részben helyt adó, jogerős támogatási határozattal rendelkező ügyfél – az MVH által rendszeresített, és az MVH honlapján közzétett formanyomtatványon, postai úton – nyújthat be 2014. május 10–31., 2014. július 5–31., 2014. október 5–31. és 2015. január 5–31. között a GISZ működtetésének a benyújtási időszakot közvetlenül megelőző három hónap során – a 2014. május 10–31. benyújtási időszak esetében a 2014. január 1–2014. március 31. időszak során – felmerült költségeire vonatkozóan.
 
 (2) Az első kifizetési kérelemben elszámolhatóak a támogatási határozat jogerőre emelkedését megelőzően, de legkorábban 2014. január 1-jét követően, az GISZ e rendeletben meghatározott feltételek szerinti működtetésének költségei is.
 
@@ -29,3 +29,5 @@ e) a 4. § (1) bekezdés j) pontja szerinti továbbképzések jelenléti íveit,
 f) az 5. § (7) bekezdés a) pont ae)–af) alpontjában, az 5. § (7) bekezdés b) pont bc)–bd) alpontjában, az 5. § (7) bekezdés c) pont ca)–cb) alpontjában, valamint az 5. § (7) bekezdés d) pont de)–dg) alpontjában meghatározott elszámolható kiadások esetében legalább két, hasonló műszaki tartalommal rendelkező árajánlatot, ha a referenciaár a Vhr.-ben foglaltak alapján nem állapítható meg, valamint annak indoklását, hogy az árajánlatok közül melyiket kívánja elfogadni.
 
 (5) A (4) bekezdésben foglaltaktól eltérően a 2014. január 1. és a támogatási határozat kézhezvétele közötti időszakra vonatkozóan a GISZ működtetésére vonatkozó kifizetési kérelem alapja a pénzügyileg rendezett, kiadást igazoló számviteli bizonylat, a pénzügyi teljesítést igazoló bizonylat, valamint a vezetett nyilvántartások, tevékenységi naplók.
+
+[^10]: A 8. § (1) bekezdése az 1/2014. (IX. 15.) MvM rendelet 44. § (6) bekezdésével megállapított szöveg.

@@ -4,13 +4,13 @@
 
 4. § (1) Támogatás igénybevételére az ügyfél akkor jogosult, ha
 
-a) a GISZ működtetéséhez országosan legalább 170 saját tulajdonú vagy bérelt tájékoztatási irodával rendelkezik;
+a)[^3] a GISZ működtetéséhez országosan legalább 170 saját tulajdonú, bérelt vagy térítésmentesen használatba vett tájékoztatási irodával rendelkezik;
 
 b) az a) pontban meghatározott irodákban rendszeres tájékoztatási tevékenységet végző, legalább 400 fő, az 1. mellékletben felsorolt szakterületek valamelyikén felsőfokú végzettséggel rendelkező GISZ tanácsadót foglalkoztat kizárólag munkaszerződés alapján keletkezett munkaviszony keretében;
 
 c) a GISZ tanácsadók 2014. december 31-ig összesen legalább 280 000 óra munkavégzést teljesítenek a GISZ keretében;
 
-d) mindegyik tájékoztatási irodában hetente átlagosan legalább 16 óra és negyedévenként legalább 208 óra időtartamban legalább egy GISZ tanácsadó a tájékoztatásra rendelkezésre áll;
+d)[^4] mindegyik tájékoztatási irodában éves szinten hetente átlagosan legalább 16 óra időtartamban legalább egy GISZ tanácsadó a tájékoztatás céljából rendelkezésre áll, amely időtartamba beleértendő a kihelyezett ügyfélfogadásra fordított időtartam is;
 
 e) a GISZ tanácsadók évente összesen legalább 1800 alkalommal végeznek csoportos tájékoztatást, alkalmanként legalább 2 óra időtartamban;
 
@@ -38,8 +38,12 @@ k) félévenként tájékoztatási tervet készít, amely tartalmazza a tájéko
 
 l) a k) pont szerinti tájékoztatási tervet a félévet megelőző hónap 15-éig megküldi az Irányító Hatóság (a továbbiakban: IH) részére a félév első napjáig történő jóváhagyásra, és
 
-m) a csoportos tájékoztatási tevékenységek időpontjáról és helyszínéről legkésőbb a megvalósítás napját megelőző tizedik napig – a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által közleményben megadott címen – elektronikus levélben tájékoztatja az MVH-t.
+m)[^5] a csoportos tájékoztatási tevékenységek időpontjáról és helyszínéről legkésőbb a megvalósítás napját megelőző ötödik napig – a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által közleményben megadott címen – elektronikus levélben tájékoztatja az MVH-t.
 
 (2) A GISZ tanácsadók a GISZ keretében végzett tájékoztatási tevékenységüket a napi munkaidő egy részében vagy teljes egészében is végezhetik, azonban a bérelszámolási bizonylaton ezt a tevékenységet elkülönítetten kell megjeleníteni.
 
 (3) A GISZ tájékoztatási tevékenységét és az (1) bekezdés j) pontjában meghatározott képzéseket az MVH jogosult ellenőrizni. Az ellenőrzést végzők számára az ügyfélnek biztosítania kell a betekintést az ellenőrzés tárgyához kapcsolódó valamennyi dokumentumba, különösen a tevékenységi naplókba, a GISZ tanácsadók bérelszámolási dokumentumaiba, valamint a csoportos tájékoztatás jelenléti íveibe.
+
+[^3]: A 4. § (1) bekezdés a) pontja az 1/2014. (IX. 15.) MvM rendelet 44. § (3) bekezdésével megállapított szöveg.
+[^4]: A 4. § (1) bekezdés d) pontja az 1/2014. (IX. 15.) MvM rendelet 44. § (4) bekezdésével megállapított szöveg.
+[^5]: A 4. § (1) bekezdés m) pontja az 1/2014. (IX. 15.) MvM rendelet 45. § a) pontja szerint módosított szöveg.
