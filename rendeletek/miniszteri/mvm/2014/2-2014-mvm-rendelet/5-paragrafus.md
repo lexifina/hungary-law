@@ -1,0 +1,3 @@
+## 4. § Az 50/2011. (VI. 6.) VM rendelet 6. §-a a következő (5) bekezdéssel egészül ki:
+
+## „(5) A rangsorba állított kérelmek esetén a támogatás igénybevételéhez szükséges minimális ponthatárt a rendelkezésre álló forrás ismeretében, annak figyelembe vétele mellett az Irányító Hatóság azon támogatási kérelem alapján határozza meg, amelynek vonatkozásában a támogatás nyújtására fordítható keretösszeg még teljességgel fedezi az adott kérelem és a rangsorban azt megelőző támogatási kérelmek összesített támogatási igényét. A minimális ponthatárt el nem érő támogatási kérelmek a Tv. alapján forráshiány miatt elutasításra kerülnek.”
