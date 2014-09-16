@@ -1,3 +1,5 @@
+## kell az utolsó kifizetési kérelmet benyújtania.
+
 ## 8. Jogkövetkezmény
 
 9. § (1) Ha az ügyfél a támogatási kérelemben vállalt munkavállalói létszámnál kevesebbet foglalkoztat az üzemeltetési kötelezettség időtartama alatt, köteles hiányzó foglalkoztatottanként egyszer, az igénybe vett támogatás 2%-át, de legalább 300 000 forintot a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint visszafizetni.
