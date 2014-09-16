@@ -72,6 +72,6 @@
 
 ## Unterschrift:
 
-8. melléklet a 99/2012. (IX. 25.) VM rendelethez[^49]
+8. melléklet a 99/2012. (IX. 25.) VM rendelethez[^53]
 
-[^49]: A 8. melléklet a 93/2013. (X. 10.) VM rendelet 9. § (6) bekezdésével megállapított szöveg.
+[^53]: A 8. melléklet a 93/2013. (X. 10.) VM rendelet 9. § (6) bekezdésével megállapított szöveg.
