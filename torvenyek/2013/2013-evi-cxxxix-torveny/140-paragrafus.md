@@ -14,7 +14,9 @@ ad) az Európai Biztosítási és Foglalkoztatói-nyugdíj Bizottsággal, valami
 
 ae) az Európai Bankbizottsággal,
 
-b) a 4. § (7) bekezdésében meghatározott feladataira tekintettel az Európai Rendszerkockázati Testülettel.
+b) a 4. § (7) bekezdésében meghatározott feladataira tekintettel az Európai Rendszerkockázati Testülettel,
+
+c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai Bankhatósággal.
 
 (2) Az MNB teljesíti az (1) bekezdésben meghatározott hatóságok irányában fennálló bejelentési kötelezettségeket.
 
@@ -78,7 +80,9 @@ ae) azokról a bíróságon kívüli panasztételi és jogorvoslati eljárásokr
 
 af) azokról a kötvényekről, jelzálog-levelekről, továbbá ezek kibocsátóiról, amelyek megfelelnek a 2009/65/EK irányelv 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést, valamint
 
-ag) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról;
+ag) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
+
+ax) a belső piac integritásának védelme és alternatív finanszírozási forma felkutatása érdekében.
 
 b) az Európai Bankhatóságot
 
@@ -130,7 +134,9 @@ bw) ha a Pkt. 9. §-a (3), (7) és (11) bekezdését alkalmazza valamely vegyes 
 
 bx) a Hpt. 112. § (5) bekezdése és a Bszt. 24/D. § (5) bekezdése szerinti elemzésről,
 
-by) Bszt. 110/A. § (4) bekezdése és a 110/B. § (8) bekezdése szerinti mentesítésről.
+by) Bszt. 110/A. § (4) bekezdése és a 110/B. § (8) bekezdése szerinti mentesítésről,
+
+bz) az illetékes szanálási hatóságokkal való egyeztetés után a szavatoló tőkére, a leírható és átalakítható kötelezettségekre vonatkozó Szantv. 65. § (3) bekezdésében meghatározott követelmények alkalmazásáról.
 
 c) az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot
 

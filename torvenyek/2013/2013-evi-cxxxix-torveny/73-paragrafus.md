@@ -1,1 +1,1 @@
-73. § A 39. §-ban meghatározott törvények alapján az MNB ellenőrzési eljárást külföldi pénzügyi hatóság kérésére is lefolytathat.
+73. § A 39. §-ban meghatározott törvények és a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény (a továbbiakban: Szantv.) alapján az MNB ellenőrzési eljárást külföldi pénzügyi vagy szanálási hatóság kérésére is lefolytathat.
