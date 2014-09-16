@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-111-20-
 | --- | --- | --- |
 | 2011-11-27 | 2011-111-20-2Y.1 | 111/2011. (XI. 24.) VM rendelet |
 | 2013-07-30 | 2011-111-20-2Y.2 | 68/2013. (VII. 29.) VM rendelet |
+| 2014-09-16 | 2011-111-20-2Y.3 | 1/2014. (IX. 15.) MvM rendelet |

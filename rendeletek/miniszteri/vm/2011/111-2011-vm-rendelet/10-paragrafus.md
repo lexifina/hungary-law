@@ -1,4 +1,4 @@
-## 9/A. §[^1] A Vhr. 17. § (2) bekezdésétől eltérően ugyanazon támogatási határozathoz kapcsolódóan az ügyfél, az első kifizetési kérelem benyújtását követően, három havonta nyújthat be kifizetési kérelmet.
+## 9/B. §[^3] Kifizetési kérelem legkésőbb 2015. május 31. napjáig nyújtható be.
 
 ## 9. Jogkövetkezmények
 
@@ -16,4 +16,4 @@
 
 (7) Ha az ügyfél a pontozási szempontok közt (25. sor) feltüntetett feltételt (Közfoglalkoztatottak alkalmazása a kérelemben szereplő beruházás kivitelezésében), vállalása ellenére nem teljesíti, akkor köteles a támogatási összeg 2%-át, de legalább 750 ezer forintot visszafizetni.
 
-[^1]: A 9/A. §-t a 68/2013. (VII. 29.) VM rendelet 10. §-a iktatta be.
+[^3]: A 9/B. §-t az 1/2014. (IX. 15.) MvM rendelet 9. § (2) bekezdése iktatta be.
