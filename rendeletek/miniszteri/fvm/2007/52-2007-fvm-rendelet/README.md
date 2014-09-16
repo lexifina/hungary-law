@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-52-20-8
 | 2014-03-15 | 2007-52-20-82.18 | 168/2009. (XII. 15.) FVM rendelet |
 | 2014-04-05 | 2007-52-20-82.19 | 91/2011. (X. 3.) VM rendelet |
 | 2014-04-30 | 2007-52-20-82.20 | 32/2014. (IV. 3.) VM rendelet |
+| 2014-09-16 | 2007-52-20-82.21 | 1/2014. (IX. 15.) MvM rendelet |

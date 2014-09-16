@@ -1,4 +1,4 @@
-5. számú melléklet az 52/2007. (VI. 28.) FVM rendelethez[^69]
+5. számú melléklet az 52/2007. (VI. 28.) FVM rendelethez[^75]
 
 |  | A | B | C | D | E |
 
@@ -6,4 +6,4 @@
 
 | 2. | Ágazathoz tartozó kötelező szaktanácsadói szolgáltatás azonosító kód | Nta1, Nta2, Nta3, Nta4 | Áta1, Áta2, Áta3, Áta4 | Kea1, Kea2, Kea3, Kea4 | Vaa1 |
 
-[^69]: Az 5. számú mellékletet a 154/2008. (XI. 26.) FVM rendelet 5. §-a iktatta be, szövege a 32/2014. (IV. 3.) VM rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^75]: Az 5. számú mellékletet a 154/2008. (XI. 26.) FVM rendelet 5. §-a iktatta be, szövege a 32/2014. (IV. 3.) VM rendelet 1. § (8) bekezdésével megállapított szöveg.
