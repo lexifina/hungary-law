@@ -24,12 +24,14 @@ rendelkezik.
 
 (6) Ha a kérelem a 6. vagy 7. mellékletben szereplő települések közül több települést is érint, akkor az ügyfélnek valamelyik településen vagy annak külterületén már a támogatási kérelem benyújtása időpontjában lakóhellyel, tartózkodási hellyel, székhellyel, telephellyel vagy fiókteleppel kell rendelkeznie.
 
-(7) A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően az ügyfél köteles a támogatott műveletet legkésőbb 2015. január 31. napjáig megvalósítani.
+(7)[^2] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően az ügyfél köteles a támogatott műveletet legkésőbb 2015. március 31. napjáig megvalósítani.
 
-(8) A Vhr. 17. § (3) bekezdésében foglaltaktól eltérően az utolsó kifizetési kérelmet a művelet megvalósulását követő hat hónapon belül, de legkésőbb 2015. január 31-ig be kell nyújtani.
+(8)[^3]
 
 (9) Nem kell alkalmazni a Vhr. 7. § (1) bekezdés b) pontját, a 7. § (2) bekezdését és a 33. § (4) bekezdését nem kell alkalmazni.
 
 (10) A Vhr. 24. § (1) bekezdésében foglaltaktól eltérően, az ügyfél a támogatási határozat közlésétől számított hat hónapon belül köteles a támogatási határozatban jóváhagyott – és a támogatási határozattal jóváhagyott egyéb elszámolható kiadások összegével csökkentett – támogatási összeg legalább 10%-ával elszámolni.
 
 [^1]: A 2. § (5) bekezdése a 22/2014. (III. 14.) VM rendelet 88. §-a szerint módosított szöveg.
+[^2]: A 2. § (7) bekezdése az 1/2014. (IX. 15.) MvM rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (8) bekezdését az 1/2014. (IX. 15.) MvM rendelet 26. §-a hatályon kívül helyezte.
