@@ -16,6 +16,6 @@ b) a megőrzött tételek száma 25%-ot meghaladó mértékben csökkent.
 
 (6) Amennyiben a támogatásra jogosult a 9. § (2) bekezdésében foglalt határidőben a pótlási kötelezettségének nem tesz eleget, akkor a kipusztult tételek visszavontnak minősülnek és az (5) bekezdésben foglaltakat kell alkalmazni.
 
-(7)[^13] Ha az adminisztratív, vagy helyszíni ellenőrzés során talált tételek száma az adott évben benyújtott kifizetési kérelemhez képest kevesebb, akkor az adott évi támogatást a tételszám-csökkenés százalékos nagyságának kétszeresével kell csökkenteni.
+(7)[^15] Ha az adminisztratív, vagy helyszíni ellenőrzés során talált tételek száma az adott évben benyújtott kifizetési kérelemhez képest kevesebb, akkor az adott évi támogatást a tételszám-csökkenés százalékos nagyságának kétszeresével kell csökkenteni.
 
-[^13]: A 16. § (7) bekezdése a 130/2013. (XII. 21.) VM rendelet 21. §-ával megállapított szöveg.
+[^15]: A 16. § (7) bekezdése a 130/2013. (XII. 21.) VM rendelet 21. §-ával megállapított szöveg.
