@@ -10,7 +10,7 @@
 
 ## Felelős: közigazgatási és igazságügyi miniszter
 
-## Határidő: 2014. június 30.
+## Határidő: 2014. december 31.
 
 ## 2.[^2] a 2012. és 2013. évi költségvetési hiánycél biztosításához szükséges további intézkedésekről szóló 1036/2012. (II. 21.) Korm. határozat 6. pontjában foglalt beszerzési tilalom alól felmentést ad a kormányablakok fizikai kialakításához szükséges beszerzések vonatkozásában;
 
@@ -112,5 +112,5 @@ Költségvetési év: 2013.
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
-[^1]: Az 1. pont az 1877/2013. (XI. 28.) Korm. határozat szerint módosított szöveg.
+[^1]: Az 1. pont az 1515/2014. (IX. 16.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: [A 2. pontban az 1426/2014. (VII. 28.) Korm. határozat 6. pontjával elrendelt módosítás, amely szerint a „2014. június 30.” szövegrész helyébe a „2014. december 31.” szöveg lép, nem vezethető át.]
