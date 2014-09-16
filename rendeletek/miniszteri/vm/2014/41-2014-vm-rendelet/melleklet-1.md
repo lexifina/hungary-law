@@ -1,5 +1,3 @@
-## 21. §[^1]
+1. melléklet a 41/2014. (IV. 8.) VM rendelethez[^11]
 
-1. melléklet a 41/2014. (IV. 8.) VM rendelethez
-
-[^1]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 1. melléklet az 1/2014. (IX. 15.) MvM rendelet 41. § (4) bekezdése szerint módosított szöveg.

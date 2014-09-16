@@ -6,9 +6,9 @@
 
 | 2. | „A” típusú keskeny tűzpászta | Pont vonal | nincs |  | fekete |
 
-| 3. | „B” típusú keskeny tűzpászta | Szaggatott vonal | nincs |  | fekete |
+| 3. | „B” típusú járható tűzpászta | Szaggatott vonal | nincs |  | fekete |
 
-| 4. | „C” típusú keskeny tűzpászta | Pontozott szaggatott vonal | nincs |  | fekete |
+| 4. | „C” típusú széles tűzpászta | Pontozott szaggatott vonal | nincs |  | fekete |
 
 | 5. | „A” típusú víznyerőhely | kör | VNY-A |  | fekete |
 

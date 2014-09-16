@@ -22,7 +22,7 @@ a) a tűzpászta az 1. § 5. pontjában foglaltaknak megfelelő állapotban van,
 
 b) a tűzpászta mellett lévő lombkoronaszint a pászta fölött a szemben lévő lombkoronaszinttel nem ér össze.
 
-(6) A 2. § (2) bekezdés d) pontja szerinti tevékenységre támogatás akkor adható, ha a tisztításból kikerülő faanyagot az erdőrészlet teljes területéről eltávolították. A tevékenység során összegyűjtött tisztítási faanyagot el kell szállítani, égetni nem lehet.
+(6)[^7] A 2. § (2) bekezdés d) pontja szerinti tevékenységre támogatás akkor adható, ha a tisztításból kikerülő faanyagot az erdőrészlet teljes területéről eltávolították. A tevékenység során összegyűjtött tisztítási faanyagot el kell szállítani, szabadtéren égetni nem lehet.
 
 (7) A támogatásra jogosult köteles a 2. § (2) bekezdés a)–d) pontja szerinti támogatási célok esetében az (1)–(6) bekezdés szerint megvalósított állapotot a megvalósítást követően a kifizetési kérelem benyújtás évének végéig fenntartani.
 
@@ -31,3 +31,5 @@ b) a tűzpászta mellett lévő lombkoronaszint a pászta fölött a szemben lé
 (9) A támogatásra jogosult köteles a 2. § (2) bekezdés e)–g) pontja szerinti létesítményt a kifizetési kérelmet elbíráló határozat jogerőre emelkedésétől számított 5 évig fenntartani.
 
 (10) A 2. § (2) bekezdés e)–g) pontja szerinti létesítményeknél a szívóvezeték belső átmérője legalább NA 100 legyen, alsó végződését szűrővel, felső vízszintes irányú végződését pedig szabványos „A” jelű (NA 100) csonkkapoccsal és kupakkapoccsal kell ellátni. A szívócsonk-csatlakozó helyet vízszintesen, a talajszinttől 0,8 méter magasságban kell kialakítani. A szívócsővezetékeket egymástól legalább 5 méter távolságra kell elhelyezni.
+
+[^7]: A 13. § (6) bekezdése az 1/2014. (IX. 15.) MvM rendelet 42. § d) pontja szerint módosított szöveg.

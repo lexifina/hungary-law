@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-41-20-2
 | --- | --- | --- |
 | 2014-04-11 | 2014-41-20-2Y.1 | 41/2014. (IV. 8.) VM rendelet |
 | 2014-04-12 | 2014-41-20-2Y.2 | 2010: CXXX. törvény |
+| 2014-09-16 | 2014-41-20-2Y.3 | 1/2014. (IX. 15.) MvM rendelet |

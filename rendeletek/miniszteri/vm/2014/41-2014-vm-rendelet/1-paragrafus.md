@@ -22,7 +22,7 @@
 
 10. erdőterv: az Evt. 40. § (1) bekezdésében meghatározott dokumentum, figyelemmel az Evt. 113. § (4) bekezdésében foglaltakra, továbbá az Evt. 113. § (13), valamint (17) bekezdésében meghatározott dokumentum;
 
-11. erdőtűzvédelmi térkép: a tűzvédelmi rendelet 5. § (6) és (9) bekezdése szerinti tervek térképi melléklete, amely az 1. mellékletben található jelkulccsal ábrázolja a támogatható tevékenységeket;
+11.[^1] erdőtűzvédelmi térkép: a tűzvédelmi rendelet 5. § (6) és (9) bekezdése szerinti tervek térképi melléklete, amely az 1. mellékletben található jelkulccsal ábrázolja a kérelmezett tevékenységeket;
 
 12. fenyőerdő: az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtásáról szóló 153/2009. (XI. 13.) FVM rendelet 5. számú mellékletében 82–101. kóddal jelölt célállománytípussal tervezett erdőrészlet;
 
@@ -38,4 +38,9 @@
 
 18. nyiladék: az Evt. 5. § 17. pontjában meghatározott terület;
 
-19. tisztítás: az Evt. 71. § (1) bekezdés a) pontja szerinti tevékenység.
+19. tisztítás: az Evt. 71. § (1) bekezdés a) pontja szerinti tevékenység;
+
+20.[^2] védelmi terv: a tűzvédelmi rendelet 5. § (5) és (6) bekezdése szerint elkészített terv.
+
+[^1]: Az 1. § 11. pontja az 1/2014. (IX. 15.) MvM rendelet 42. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 20. pontját az 1/2014. (IX. 15.) MvM rendelet 41. § (1) bekezdése iktatta be.

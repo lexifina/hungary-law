@@ -30,7 +30,7 @@
 
 | 7. | egyéb szigeteléssel | 61 009 |
 
-3. melléklet a 41/2014. (IV. 8.) VM rendelethez
+3. melléklet a 41/2014. (IV. 8.) VM rendelethez[^12]
 
 TÁMOGATÁSI KÉRELMEK RÉSZLETES PONTOZÁSI RENDSZERE
 
@@ -68,7 +68,7 @@ TÁMOGATÁSI KÉRELMEK RÉSZLETES PONTOZÁSI RENDSZERE
 
 | 15. | 100 hektár felett | 15 |
 
-| 16. | A 2. § (2) e)-g) pont szerinti tevékenység esetében az erdőrészletet védő víznyerőhely típusa | „A” típusú | 3 |
+| 16. | A 2. § (2) bekezdés e)–g) pont szerinti tevékenység esetében a víznyerőhely típusa | „A” típusú | 3 |
 
 | „B” típusú | 7 |
 
@@ -91,3 +91,5 @@ TÁMOGATÁSI KÉRELMEK RÉSZLETES PONTOZÁSI RENDSZERE
 | 24. | Egyéb szempontok összesen: | 20 |
 
 | 25. | Összesen: | 100 |
+
+[^12]: A 3. melléklet az 1/2014. (IX. 15.) MvM rendelet 41. § (5) bekezdése szerint módosított szöveg.
