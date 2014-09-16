@@ -30,7 +30,11 @@ n) az Európai Közösségek, valamint azok intézményei és szervei, hivatalai
 
 o) Nemzeti Eszközkezelő Zrt.,
 
-p) a nemzeti köznevelésről szóló törvény szerinti intézményi tanács.
+p) a nemzeti köznevelésről szóló törvény szerinti intézményi tanács,
+
+q) az Országos Betétbiztosítási Alap,
+
+r) a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben meghatározott Szanálási Alap.
 
 (2) Az (1) bekezdés c)–g) és m) pontokban említett szervezetet az illetékmentesség csak abban az esetben illeti meg, ha a vagyonszerzést, illetőleg az eljárás megindítását megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége, illetve – költségvetési szerv esetében – eredménye után a központi költségvetésbe befizetési kötelezettsége nem keletkezett.
 
