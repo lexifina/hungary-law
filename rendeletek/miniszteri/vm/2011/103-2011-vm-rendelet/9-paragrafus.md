@@ -1,4 +1,4 @@
-## 8/A. §[^1] A Vhr. 17. § (2) bekezdésétől eltérően ugyanazon támogatási határozathoz kapcsolódóan az ügyfél, az első kifizetési kérelem benyújtását követően, három havonta nyújthat be kifizetési kérelmet.
+## 8/B. §[^4] A Vhr. 17. § (3) bekezdésében foglaltaktól eltérően az utolsó kifizetési kérelmet a művelet megvalósulását követő hat hónapon belül, de legkésőbb 2015. május 31-ig be kell nyújtani.
 
 ## 8. Jogkövetkezmények
 
@@ -26,4 +26,4 @@
 
 (12) A 3. § (6) bekezdésében foglalt rendelkezés megsértése esetén az MVH – amennyiben kifizetési kérelem alapján eljárás van folyamatban, úgy a kérelmet határozattal elutasítja – külön határozatban a támogatási határozatát visszavonja, ezzel egyidejűleg megállapítja, hogy az ügyfél támogatáshoz való jogosultsága megszűnik, továbbá az ügyfél által igénybevett támogatás jogosulatlanul igénybe vett támogatásnak minősül. Az MVH a támogatási határozatot visszavonó és támogatáshoz való jogosultság megszűnését megállapító határozatában rendelkezik továbbá arról, hogy az ügyfél a határozat jogerőre emelkedését követő három évig a 2007–2013-as időszakban az EMVA társfinanszírozásában nem terület- és állatlétszám alapú támogatásokra nem nyújthat be támogatási kérelmet, illetve pályázatot, továbbá a már benyújtott, de jogerős döntéssel még el nem bírált pályázata, illetve támogatási kérelme elutasításra kerül.
 
-[^1]: A 8/A. §-t a 68/2013. (VII. 29.) VM rendelet 9. §-a iktatta be.
+[^4]: A 8/B. §-t az 1/2014. (IX. 15.) MvM rendelet 7. § (2) bekezdése iktatta be.
