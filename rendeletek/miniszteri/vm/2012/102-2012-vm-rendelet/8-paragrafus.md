@@ -1,6 +1,6 @@
 ## 7. A kifizetési kérelem benyújtása
 
-8. § (1)[^13] A Vhr. 17. § (2) bekezdésétől eltérően ugyanazon támogatási határozathoz kapcsolódóan az ügyfél az első kifizetési kérelem benyújtását követően három havonta nyújthat be kifizetési kérelmet.
+8. § (1)[^15] A Vhr. 17. § (2) bekezdésétől eltérően ugyanazon támogatási határozathoz kapcsolódóan az ügyfél az első kifizetési kérelem benyújtását követően három havonta nyújthat be kifizetési kérelmet.
 
 (2) A kifizetési kérelemnek a következőket kell tartalmaznia:
 
@@ -22,4 +22,11 @@ h) az ügyfél nyilatkozata a vonatkozó feltételek megismeréséről és tudom
 
 (3) Az utolsó kifizetési kérelemhez csatolni kell a 4. célterület kültéri, közcélú feladatokat ellátó játszótereket érintő fejlesztés esetén a játszótéri eszközök biztonságosságáról szóló 78/2003. (XI. 27.) GKM rendelet 3. §-a szerinti megfelelőségi tanúsítványokat, továbbá a használatbavétel engedélyezésére vonatkozó dokumentumokat.
 
-[^13]: A 8. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés p) pontja hatályon kívül helyezte, újonnan a 121/2013. (XII. 16.) VM rendelet 27. § (2) bekezdése iktatta be.
+(4)[^16] A Vhr. 17. § (3) bekezdésében foglaltaktól eltérően,
+
+a) az ügyfélnek a művelet megvalósulását követő hat hónapon belül,
+
+b) annak az ügyfélnek, aki 2015. május 31. napját megelőző hat hónapon belül valósítja meg a műveletet, az a) pont szerinti határidőre tekintet nélkül 2015. május 31. napjáig
+
+[^15]: A 8. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés p) pontja hatályon kívül helyezte, újonnan a 121/2013. (XII. 16.) VM rendelet 27. § (2) bekezdése iktatta be.
+[^16]: A 8. § (4) bekezdését az 1/2014. (IX. 15.) MvM rendelet 21. § (2) bekezdése iktatta be.

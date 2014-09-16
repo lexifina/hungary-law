@@ -52,14 +52,16 @@ e) az együttműködő partnerek vállalt kötelezettségeit, és
 
 f) az együttműködő partnerek cégszerű aláírását.
 
-(12) A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően a műveletet a támogatási határozat közlésétől számított két éven belül meg kell valósítani, de legkésőbb 2014. december 31-ig.
+(12)[^10] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően, az ügyfél köteles a támogatási határozattal jóváhagyott műveletet 2015. március 31. napjáig megvalósítani.
 
 (13) A Vhr. 24. § (1) bekezdésében foglaltaktól eltérően az ügyfél a támogatási határozat közlésétől számított hat hónapon belül köteles az első kifizetési kérelmet benyújtani és a támogatási határozatban jóváhagyott – és a támogatási határozattal jóváhagyott egyéb elszámolható kiadások összegével csökkentett – támogatási összeg legalább 10%-ával elszámolni.
 
-(14) A Vhr. 17. § (3) bekezdésében foglaltaktól eltérően az utolsó kifizetési kérelmet a művelet megvalósulását követő hat hónapon belül, de legkésőbb 2015. január 31-ig be kell nyújtani.
+(14)[^11]
 
 (15) Jelen rendelet alkalmazása során nem kell vizsgálni a Vhr. 7. § (2) bekezdésében meghatározottak szerinti rendezett munkaügyi kapcsolatok feltételeinek fennállását.
 
 (16) Az e rendelet alapján nyújtott támogatások tekintetében a Vhr. 33. § (4) bekezdésében foglaltak nem alkalmazandóak.
 
 [^9]: A 4. § (1) bekezdése a 105/2012. (X. 11.) VM rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 4. § (12) bekezdése az 1/2014. (IX. 15.) MvM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^11]: A 4. § (14) bekezdését az 1/2014. (IX. 15.) MvM rendelet 22. §-a hatályon kívül helyezte.
