@@ -262,11 +262,11 @@ amelynek fizetésképtelenné válása vagy nem prudens működése globális sz
 
 93. rendszerkockázati tőkepuffer: a rendszerszintű kockázatok megelőzésére és mérséklésére irányuló szavatolótőke-követelmény,
 
-94. helyreállítási terv: olyan terv, amelyben foglalt intézkedési lehetőségek a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás vagy a jegybanki feladatkörében eljáró MNB rendkívüli likviditási hitelének igénybevétele nélkül – biztosítják a befektetési vállalkozás pénzügyi helyzetének stabilizálódását,
+94. helyreállítási terv: olyan terv, amelyben foglalt a befektetési vállalkozás által végrehajtandó lépések a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás igénybevétele nélkül – biztosítják a befektetési vállalkozás pénzügyi helyzetének stabilizálódását,
 
 95. alapjavadalmazás: a javadalmazás azon része, amelyet a befektetési vállalkozás és a vezető állású személy, munkavállaló közötti szerződésben meghatározottaknak megfelelően a befektetési vállalkozás a vezető állású személynek vagy munkavállalónak rendszeresen munkabérként kifizet, és amely megfelelően tükrözi a tisztség betöltéséhez szükséges szakmai tapasztalatokat és felelősséget, ideértve minden olyan juttatást, amelyet más munkavállaló is megkap,
 
-96. kritikus funkciók: azok a tevékenységek, szolgáltatások és működési folyamatok, amelyek megszűnése Magyarországon vagy más EGT-államban valószínűsíthetően megzavarná a gazdaság vagy a pénzügyi piacok működését,
+96.
 
 97. irányítási jogkörrel rendelkező vezető testület: az alapító okiratban vagy alapszabályban meghatározott olyan vezető testület, amely a döntéshozatalra jogosult,
 

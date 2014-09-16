@@ -44,7 +44,9 @@ u) a befektetési vállalkozással szoros kapcsolatban álló természetes szem�
 
 v) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó befektetési vállalkozás anyavállalatával szoros kapcsolatban álló személy vagy szervezet azonosító adatait,
 
-w) a Befektető-védelmi Alap igazolását az Alaphoz történő csatlakozási kérelem benyújtásáról és a csatlakozási díj megfizetéséről, ha a biztosított tevékenység végzésére kér engedélyt és jogszabály előírja az Alaphoz történő csatlakozást.
+w) a Befektető-védelmi Alap igazolását az Alaphoz történő csatlakozási kérelem benyújtásáról és a csatlakozási díj megfizetéséről, ha a biztosított tevékenység végzésére kér engedélyt és jogszabály előírja az Alaphoz történő csatlakozást,
+
+x) a befektetési vállalkozás likviditását, fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén alkalmazandó, a hitelintézet igazgatósága által elfogadott eljárás rendjét és – ha a hitelintézetre nem terjed ki az összevont alapú felügyelet – a 102. §-ban meghatározott egyedi helyreállítási tervét.
 
 (2) A kérelmező a letétkezelési tevékenység végzésére jogosító engedély iránti kérelméhez az (1) bekezdésben foglaltakon túl mellékeli a biztonsági, a letétkezelési és az értéktári szabályzat tervezetét.
 

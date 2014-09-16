@@ -43,3 +43,5 @@ f) 480. cikk (3) bekezdésének megfelelően a kisebbségi részesedések, a kie
 g) 481. cikk (5) bekezdésének megfelelően az elsődleges alapvető tőkeelemekre, az alapvető tőkeelemekre, a járulékos tőkeelemekre és a szavatolótőke-elemekre a 2013. december 31-ig hatályos jogszabályok által előírt, de az 575/2013/EU rendeletben nem szereplő szűrők és levonások átmeneti alkalmazására vonatkozó százalékos arányokat,
 
 h) 486. cikk (6) bekezdésének megfelelően az elsődleges alapvető tőkében, a kiegészítő alapvető tőkében, valamint a járulékos tőkében a 2013. december 31-ig hatályos jogszabályok alapján figyelembevehető, de az 575/2013/EU rendeletben foglalt követelményeknek meg nem felelő tételek átmeneti figyelembevételére vonatkozó százalékos arányokat.
+
+(5) Felhatalmazást kap az MNB elnöke arra, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben állapítsa meg a teljesítmény-javadalmazás diszkontált értékének számításával, nyilvántartásával és közzétételével összefüggő szabályokat.

@@ -57,3 +57,5 @@ szemben.
 (7) A titoktartási kötelezettség alapján az üzleti titok körébe tartozó tény, információ, megoldás vagy adat, az e törvényben meghatározott kivétellel a befektetési vállalkozás felhatalmazása nélkül nem adható ki harmadik személynek, és feladatkörön kívül nem használható fel.
 
 (8) Nem jelenti az üzleti titok megsértését a Hpt.-ben és az e törvényben meghatározott összevont alapú felügyeletre vonatkozó rendelkezések, valamint a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglalt rendelkezések teljesítése érdekében történő adatátadás.
+
+(8) Nem jelenti az üzleti titok sérelmét a szanálási feladatkörében eljáró MNB által a pénzügyi közvetítő rendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti független értékelőnek vagy az ideiglenes értékelésben közreműködőnek az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során adatok, információk átadása a lehetséges ajánlattevőknek, valamint a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás.

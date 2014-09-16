@@ -70,7 +70,9 @@ v) kötelezheti a befektetési vállalkozást, hogy a javadalmazási politika ha
 
 x) közleményt ad ki, amelyben megjelöli a jogsértésért felelő személyt és a jogsértés természetét,
 
-y) határozattal megállapítja a jogsértés tényét és egyben elrendeli a jogsértő állapot megszüntetését, vagy megtiltja a jogszabályba ütköző magatartás további folytatását.
+y) határozattal megállapítja a jogsértés tényét és egyben elrendeli a jogsértő állapot megszüntetését, vagy megtiltja a jogszabályba ütköző magatartás további folytatását,
+
+z) kötelezheti a befektetési vállalkozást a 102. § szerinti helyreállítási terv életbe léptetésére, az abban foglalt lépések alkalmazására, vagy – ha a Felügyelet által alkalmazandó intézkedést kiváltó esemény eltér a helyreállítási tervben foglalt feltételezéstől – a helyreállítási terv harminc napon belül történő felülvizsgálatára és a módosított helyreállítási tervben foglalt lépések megtételére.
 
 (2) A Felügyelet az (1) bekezdés oa) alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a befektetési vállalkozás vagy az árutőzsdei szolgáltató e törvényben foglalt tőkekövetelményeknek való megfelelése nem biztosított.
 
@@ -87,3 +89,15 @@ c) a befektetési vállalkozásnál végrehajtott felügyeleti felülvizsgálat 
 (5) A Felügyelet a befektetési vállalkozással szembeni intézkedés alkalmazása, illetve bírság kiszabása esetén a határozattal egyidejűleg a Befektető-védelmi Alapot is értesíti, ha a határozat a Befektető-védelmi Alap e törvény és a Tpt. szerinti feladatainak ellátására kihathat, illetve a határozat meghozatalára a befektetési vállalkozásnak a Befektető-védelmi Alap tevékenységével összefüggő kötelezettsége megsértése miatt került sor.
 
 (6) A Felügyelet akkor is értesíti a Befektető-védelmi Alapot, ha a befektetési vállalkozás anyavállalatának felügyeletét ellátó hatóság tájékoztatása alapján olyan helyzet fennállását állapítja meg, amely a Befektető-védelmi Alap e törvény és a Tpt. szerinti feladatainak ellátására kihathat.
+
+(7) A Felügyelet megteszi a szükséges intézkedéseket, ha bizonyíthatóan fennáll annak a veszélye, hogy a befektetési vállalkozás az elkövetkező 12 hónapban nem fog megfelelni az e törvényben, valamint a prudens működésre vonatkozó jogszabályokban foglalt követelményeknek.
+
+(8) Ha a befektetési vállalkozás a Felügyelet határozata ellenére nem nyújt be átdolgozott helyreállítási tervet vagy az átdolgozott helyreállítási terv nem orvosolja a határozatban foglalt hiányosságokat, a Felügyelet kötelezheti a befektetési vállalkozást
+
+a) kockázatvállalásának – ideértve a likviditási kockázatot is – mérséklésére,
+
+b) az esetleges tőkeemelésről szóló döntést korlátozó szabályzatainak felülvizsgálatára,
+
+c) irányítási rendszerének felülvizsgálatára,
+
+d) forrásbevonási stratégiájának a fő üzletágak, kritikus funkciók ellenálló képessége növelése érdekében történő felülvizsgálatára.

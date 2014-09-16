@@ -25,3 +25,5 @@ j) az engedélyt a Felügyelet megtévesztésével vagy más jogszabálysértő 
 (3) Ha a Felügyelet olyan hitelintézet tevékenység végzésére jogosító engedélyét vonja vissza, amely befektetési szolgáltatási tevékenység végzésére jogosító engedéllyel is rendelkezik, és az engedély visszavonásakor megfelel a befektetési vállalkozásra vonatkozó szabályoknak, a Hpt. szabályai szerint befektetési vállalkozássá alakulhat át.
 
 (4) A Felügyelet a befektetési szolgáltatási tevékenység végzésére jogosító engedélyt határozott időre felfüggeszti, ha a tevékenység végzésnek az engedélyezéshez előírt feltételei már nem állnak fenn, de azok legfeljebb hat hónapon belül pótolhatók.
+
+(5) A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben (a továbbiakban: Szantv.) meghatározott szanálás alatt álló befektetési vállalkozás tevékenységi engedélye a szanálási eljárás megszüntetéséig nem vonható vissza.

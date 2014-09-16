@@ -93,11 +93,3 @@ b) megfelel-e az alkalmasságra és megfelelőségre vonatkozó sztenderdeknek.
 26. Ha a befektetési vállalkozás a nyugdíjpolitikára vonatkozó szabályzattal rendelkezik, annak összhangban kell állnia a befektetési vállalkozás üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel. Ha a nyugdíjpolitikára vonatkozó szabályzat alapján a vezető állású személy, munkavállaló részére teljesítményjavadalmazása részeként nem kötelező nyugdíjjuttatás jár, a befektetési vállalkozásnak a munkaviszony megszűnése után ötéves visszatartási időszak figyelembevételével kell kifizetnie ezen juttatásokat a 18. pontban meghatározott eszközök formájában.
 
 27. A befektetési vállalkozás ellenőrzési feladatokat végző munkavállalói javadalmazása független az általuk felügyelt szervezeti egységek teljesítményétől, az a feladatkörükhöz kapcsolódó célkitűzések elérésén alapul.
-
-28. Az ellenőrzési feladatokat (ideértve a belső kontroll funkciót is) és a kockázatkezelési feladatokat végző munkavállalóknak a javadalmazását – a 29. pontban meghatározott eltéréssel – a felügyelő bizottság felügyeli, kivéve, ha a befektetési vállalkozás javadalmazási bizottságot állít fel.
-
-29. Ha a befektetési vállalkozás javadalmazási bizottságot állít fel, akkor a javadalmazási bizottság a felelős az érintett munkavállalók javadalmazásának felügyeletéért.
-
-30. A befektetési vállalkozás vezető állású személye, munkavállalója nem köthet olyan fedezeti ügyletet, amely a javadalmazására vonatkozó szerződésben foglalt kockázatvállalás hatásait kiküszöbölné.
-
-31. Másik EGT-államban székhellyel rendelkező befektetési vállalkozás magyarországi fióktelepe a befektetési vállalkozás székhelye szerinti állam javadalmazásra vonatkozó jogszabályban foglalt szabályait alkalmazza.

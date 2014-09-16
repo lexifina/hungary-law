@@ -66,10 +66,12 @@ b) a vezető testület teljesítményének belső vagy külső értékelésének
 
 (15) A felügyeleti felülvizsgálat és értékelés elősegítése érdekében a Felügyelet legalább évente felügyeleti stressztesztet végez az általa felügyelt befektetési vállalkozásokra vonatkozóan.
 
-(16) A Felügyelet felülvizsgálja és értékeli a befektetési vállalkozás helyreállítási tervét. A felülvizsgálatnak a 102. § (2) bekezdésében meghatározott feltételeken kívül ki kell terjednie arra, hogy a helyreállítási tervben foglaltak
+(16) A Felügyelet – az egyes helyreállítási tervek benyújtását követő hat hónapon belül és azon EGT-állam illetékes felügyeleti hatóságával történt egyeztetést követően, amelyben a befektetési vállalkozás rendszerszinten jelentős fiókteleppel rendelkezik – felülvizsgálja és értékeli a befektetési vállalkozás helyreállítási tervét. A felülvizsgálat a 102. §-ban meghatározott feltételeken kívül kiterjed arra is, hogy a helyreállítási tervben foglaltak alapján megalapozottan valószínűsíthető, hogy
 
-a) végrehajtása alkalmas a befektetési vállalkozás likviditását vagy fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén a befektetési vállalkozás pénzügyi helyzetének stabilizálására, figyelemmel a befektetési vállalkozás által megtett és tervezett lépésekre;
+a) végrehajtásával fenntartható vagy helyreállítható a befektetési vállalkozás vagy a csoport életképessége és pénzügyi helyzete, alkalmas a befektetési vállalkozás likviditását vagy fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén a befektetési vállalkozás pénzügyi helyzetének stabilizálására, figyelemmel a befektetési vállalkozás által megtett és tervezett lépésekre;
 
-b) alkalmazhatósága a vonatkozó stresszforgatókönyvek alapján reálisan akkor is feltételezhető, ha egyidejűleg más befektetési vállalkozások is helyreállítási terveket hajtanak végre.
+b) alkalmazhatósága a vonatkozó stressz-forgatókönyvek alapján reálisan akkor is feltételezhető, ha egyidejűleg más befektetési vállalkozás is helyreállítási tervet hajt végre.
 
-(17) Ha az értékelés alapján a helyreállítási terv hiányos vagy a végrehajtásának akadályai lehetnek, a Felügyelet határozatban kötelezi a befektetési vállalkozást a helyreállítási terv három hónapon belüli átdolgozására.
+(17) Ha az értékelés alapján a helyreállítási terv hiányos vagy a végrehajtásának akadályai lehetnek, a Felügyelet határozatban kötelezi a befektetési vállalkozást a helyreállítási terv kettő hónapon belüli átdolgozására, mely határidő egy hónappal meghosszabbítható.
+
+(18) A (17) bekezdés szerinti határozat meghozatala előtt a Felügyelet lehetőséget biztosít a befektetési vállalkozás számára, hogy a Felügyelet által feltárt hiányosságok, végrehajtási akadályok tárgyában észrevételt tegyen.
