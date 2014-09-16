@@ -24,6 +24,6 @@ g) a nemzetiségek jogainak érvényesülését szolgáló, valamint az (1) beke
 
 (6) A Vhr. 28. § (3) bekezdésétől eltérően a támogatási határozattal jóváhagyott árajánlatos tétel (gép, eszköz, berendezés, szolgáltatás) helyett más árajánlatos tétel beszerzésére akkor van lehetőség, ha az árajánlatos tételek funkciójukat tekintve egymással helyettesíthetőek, és az új árajánlatos tétel ugyanazt a célt szolgálja a műveleten belül, mint a lecserélni kívánt tétel. A támogatás az árajánlatos tétel módosításának jóváhagyását követően sem haladhatja meg a lecserélni kívánt árajánlatos tétel vonatkozásában a támogatási határozatban jóváhagyott összeget.
 
-(7)[^3] Az árajánlatos tételek módosulása esetén a kifizetési kérelemhez csatolni kell legalább kettő darab, a 4. § (6) bekezdésének megfelelő, a támogatási határozat jogerőre emelkedését követően kiállított, a teljesítéskor érvényes árajánlatot, és az ügyfélnek meg kell indokolnia, hogy a két árajánlat közül melyiket választja.
+(7)[^5] Az árajánlatos tételek módosulása esetén a kifizetési kérelemhez csatolni kell legalább kettő darab, a 4. § (6) bekezdésének megfelelő, a támogatási határozat jogerőre emelkedését követően kiállított, a teljesítéskor érvényes árajánlatot, és az ügyfélnek meg kell indokolnia, hogy a két árajánlat közül melyiket választja.
 
-[^3]: Az 5. § (7) bekezdése az 53/2014. (IV. 29.) VM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (7) bekezdése az 53/2014. (IV. 29.) VM rendelet 16. § (1) bekezdésével megállapított szöveg.

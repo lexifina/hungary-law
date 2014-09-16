@@ -10,8 +10,11 @@
 
 (6) Induló vállalkozás esetén a Vhr. 7. § (1) bekezdés c) pontjában meghatározott, a nehéz helyzetben lévő vállalkozásokra vonatkozó szabályokat nem kell alkalmazni.
 
-(7) A támogatási határozattal jóváhagyott műveletet 2014. december 31. napjáig meg kell valósítani. Kifizetési kérelem legkésőbb 2015. január 31. napjáig nyújtható be.
+(7)[^3] A támogatási határozattal jóváhagyott műveletet 2015. március 31. napjáig kell megvalósítani.
 
 (8) Az e rendelet alapján nyújtott támogatások tekintetében a Vhr. 12. § (4) bekezdésében, illetve a Vhr. 33. § (4) bekezdésében foglaltak nem alkalmazandóak.
 
-(9) Amennyiben a támogatási határozattal jóváhagyott művelet nem kizárólag a 2. § (3) bekezdés d)–f) pontjára irányul, úgy a Vhr. 24. § (1) bekezdésétől eltérően az ügyfél köteles a támogatási határozat közlésétől számított hat hónapon belül a támogatási határozatban jóváhagyott – és a támogatási határozattal jóváhagyott egyéb elszámolható kiadások összegével csökkentett – támogatási összeg legalább 10%-ával elszámolni.
+(9)[^4]
+
+[^3]: A 3. § (7) bekezdése az 1/2014. (IX. 15.) MvM rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (9) bekezdését az 1/2014. (IX. 15.) MvM rendelet 29. §-a hatályon kívül helyezte.
