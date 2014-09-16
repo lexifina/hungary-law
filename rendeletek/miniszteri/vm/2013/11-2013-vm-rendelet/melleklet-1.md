@@ -1,6 +1,6 @@
-## 19. §[^30] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 130/2013. (XII. 21.) VM rendelettel [a továbbiakban: 130/2013. (XII. 21.) VM rendelet] megállapított 3. § (5) bekezdését és 5. § (8) bekezdését a 130/2013. (XII. 21.) VM rendelet hatálybalépésekor[^31] folyamatban lévő ügyekben is alkalmazni kell.
+## 20. §[^34] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 1/2014. (IX. 15.) MvM rendelettel [a továbbiakban: 1/2014. (IX. 15.) MvM rendelet] megállapított 8. § (5) bekezdést és 11. § (7) bekezdést az 1/2014. (IX. 15.) MvM rendelet hatálybalépésekor[^35] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 11/2013. (III. 5.) VM rendelethez
 
-[^30]: Az újabb 19. §-t a 130/2013. (XII. 21.) VM rendelet 46. §-a iktatta be.
-[^31]: A hatálybalépés időpontja 2013. december 22.
+[^34]: A 20. §-t az 1/2014. (IX. 15.) MvM rendelet 27. § (3) bekezdése iktatta be.
+[^35]: A hatálybalépés időpontja 2014. szeptember 16.

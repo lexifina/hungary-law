@@ -1,8 +1,8 @@
-## 18/A. §[^26] Az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 53/2014. (IV. 29.) VM rendelettel [a továbbiakban: 53/2014. (IV. 29.) VM rendelet] megállapított 1. § (1) bekezdés 16. pontját az 53/2014. (IV. 29.) VM rendelet hatálybalépésekor[^27] folyamatban lévő ügyekben is alkalmazni kell.
+## 18/A. §[^28] Az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 53/2014. (IV. 29.) VM rendelettel [a továbbiakban: 53/2014. (IV. 29.) VM rendelet] megállapított 1. § (1) bekezdés 16. pontját az 53/2014. (IV. 29.) VM rendelet hatálybalépésekor[^29] folyamatban lévő ügyekben is alkalmazni kell.
 
-## 19. §[^28] E rendeletnek a vidékfejlesztési miniszter felelősségi körébe tartozó egyes miniszteri rendeleteknek a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló törvényhez kapcsolódó, valamint más vidékfejlesztési tárgyú módosításáról szóló 121/2013. (XII. 16.) VM rendelettel [a továbbiakban: 121/2013. (XII. 16.) VM rendelet] megállapított 7. § (9)–(10) bekezdését, valamint a 8. § (7) bekezdését a 121/2013. (XII. 16.) VM rendelet hatálybalépésekor[^29] folyamatban lévő ügyekben is alkalmazni kell.
+## 19. §[^30] E rendeletnek a vidékfejlesztési miniszter felelősségi körébe tartozó egyes miniszteri rendeleteknek a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló törvényhez kapcsolódó, valamint más vidékfejlesztési tárgyú módosításáról szóló 121/2013. (XII. 16.) VM rendelettel [a továbbiakban: 121/2013. (XII. 16.) VM rendelet] megállapított 7. § (9)–(10) bekezdését, valamint a 8. § (7) bekezdését a 121/2013. (XII. 16.) VM rendelet hatálybalépésekor[^31] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^26]: A 18/A. §-t az 53/2014. (IV. 29.) VM rendelet 15. § (3) bekezdése iktatta be.
-[^27]: A hatálybalépés időpontja 2014. április 30.
-[^28]: A 19. §-t a 121/2013. (XII. 16.) VM rendelet 30. § (3) bekezdése iktatta be.
-[^29]: A hatálybalépés időpontja 2013. december 17.
+[^28]: A 18/A. §-t az 53/2014. (IV. 29.) VM rendelet 15. § (3) bekezdése iktatta be.
+[^29]: A hatálybalépés időpontja 2014. április 30.
+[^30]: A 19. §-t a 121/2013. (XII. 16.) VM rendelet 30. § (3) bekezdése iktatta be.
+[^31]: A hatálybalépés időpontja 2013. december 17.
