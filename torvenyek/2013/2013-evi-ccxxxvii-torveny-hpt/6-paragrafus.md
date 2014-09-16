@@ -92,7 +92,7 @@ c) EU-szintű vegyes pénzügyi holding társaság anyavállalata;
 
 38. határon átnyúló szolgáltatás: olyan pénzügyi, illetve kiegészítő pénzügyi szolgáltatás nyújtása, amikor a szolgáltatás nyújtása nem a szolgáltatást nyújtó pénzügyi intézmény székhelyével, telephelyével, főirodájával, fióktelepével azonos országban történik, és a szolgáltatást igénybe vevő ügyfél telephelye, lakóhelye (lakcíme) sem abban az országban van, amelyben a szolgáltatást nyújtó pénzügyi intézmény székhelye, telephelye, főirodája, fióktelepe;
 
-39. helyreállítási terv: olyan terv, amelyben foglalt intézkedési lehetőségek a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás vagy a jegybanki feladatkörében eljáró MNB rendkívüli likviditási hitelének igénybevétele nélkül – biztosítják a hitelintézet pénzügyi helyzetének stabilizálódását;
+39. helyreállítási terv: olyan terv, amelyben foglalt a hitelintézet által végrehajtandó lépések a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás igénybevétele nélkül – biztosítják a hitelintézet pénzügyi helyzetének stabilizálódását;
 
 40. hitel és pénzkölcsön nyújtása:
 
@@ -194,7 +194,7 @@ h) más hitelintézetnél elhelyezett betét, ide nem értve a jegybanki kötele
 
 68. közvetlen banküzemi célt szolgáló vállalkozás: egy vagy több hitelintézet vagy pénzügyi vállalkozás üzemviteléhez, zavartalan működéséhez nélkülözhetetlen fejlesztést, beszerzést, értékesítést, ipari szolgáltatást és termékelőállítást végző, illetve biztonsági feladatokat ellátó vállalkozás;
 
-69. kritikus funkció: azok a tevékenységek, szolgáltatások és működési folyamatok, amelyek megszűnése Magyarországon vagy más EGT-államban valószínűsíthetően jelentősen megzavarná a gazdaság vagy a pénzügyi piacok működését;
+69. kritikus funkció: azok a tevékenységek, szolgáltatások és működési folyamatok, amelyek megszűnése vagy korlátozottan megvalósítható helyettesíthetősége a hitelintézet vagy a csoport méretéből, piaci részesedéséből, külső és belső összekapcsolódásából, összetettségéből vagy határon átnyúlásából fakadóan Magyarországon vagy más EGT-államban valószínűsíthetően megzavarná a gazdaság vagy a pénzügyi piacok működését;
 
 70. külföldi hitelintézet: az a hitelintézet, amelynek székhelye Magyarországon kívül van;
 
@@ -244,7 +244,7 @@ c) a fizetési műveletek fizetési számlák közötti teljesítése,
 
 d) a c) pontban meghatározott szolgáltatás, ha a fizetési művelet teljesítése a pénzforgalmi szolgáltatást igénybe vevő ügyfél rendelkezésére álló hitelkeretéből történik,
 
-e) a készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – kibocsátása,
+e) a készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – kibocsátása, valamint elfogadása,
 
 f) a készpénzátutalás,
 

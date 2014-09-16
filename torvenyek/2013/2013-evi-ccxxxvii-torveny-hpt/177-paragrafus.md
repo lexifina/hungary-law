@@ -64,10 +64,12 @@ b) a vezető testület teljesítményének belső vagy külső értékelésének
 
 (14) A felügyeleti felülvizsgálat és értékelés elősegítése érdekében a Felügyelet legalább évente felügyeleti stressz-tesztet végez az általa felügyelt hitelintézetekre vonatkozóan.
 
-(15) A Felügyelet felülvizsgálja és értékeli a hitelintézet helyreállítási tervét. A felülvizsgálatnak a 114. § (2) bekezdésében meghatározott feltételeken kívül ki kell terjednie arra, hogy a helyreállítási tervben foglaltak
+(15) A Felügyelet – az egyes helyreállítási tervek benyújtását követő hat hónapon belül és azon EGT-állam illetékes felügyeleti hatóságával történt egyeztetést követően, amelyben a hitelintézet rendszerszinten jelentős fiókteleppel rendelkezik – felülvizsgálja és értékeli a hitelintézet helyreállítási tervét. A felülvizsgálat a 114. §-ban meghatározott feltételeken kívül kiterjed arra is, hogy a helyreállítási tervben foglaltak alapján megalapozottan valószínűsíthető, hogy
 
-a) végrehajtása alkalmas a hitelintézet likviditását vagy fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén a hitelintézet pénzügyi helyzetének stabilizálására, figyelemmel a hitelintézet által megtett és tervezett lépésekre;
+a) végrehajtásával fenntartható vagy helyreállítható a hitelintézet vagy a csoport életképessége és pénzügyi helyzete, alkalmas a hitelintézet likviditását vagy fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén a hitelintézet pénzügyi helyzetének stabilizálására, figyelemmel a hitelintézet által megtett és tervezett lépésekre;
 
-b) alkalmazhatósága a vonatkozó stressz-forgatókönyvek alapján reálisan akkor is feltételezhető, ha egyidejűleg más hitelintézetek is helyreállítási terveket hajtanak végre.
+b) alkalmazhatósága a vonatkozó stressz-forgatókönyvek alapján reálisan akkor is feltételezhető, ha egyidejűleg más hitelintézet is helyreállítási tervet hajt végre.
 
-(16) Ha az értékelés alapján a helyreállítási terv hiányos vagy a végrehajtásának akadályai lehetnek, a Felügyelet határozatban kötelezi a hitelintézetet a helyreállítási terv három hónapon belüli átdolgozására.
+(16) Ha az értékelés alapján a helyreállítási terv hiányos vagy a végrehajtásának akadályai lehetnek, a Felügyelet határozatban kötelezi a hitelintézetet a helyreállítási terv két hónapon belüli átdolgozására, mely határidő egy hónappal meghosszabbítható.
+
+(17) A (16) bekezdés szerinti határozat meghozatala előtt a Felügyelet lehetőséget biztosít a hitelintézet számára, hogy a Felügyelet által feltárt hiányosságok, végrehajtási akadályok tárgyában észrevételt tegyen.

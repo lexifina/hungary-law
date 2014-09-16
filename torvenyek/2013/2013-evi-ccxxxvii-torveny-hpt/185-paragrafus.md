@@ -64,7 +64,9 @@ cf) az egyes pénzügyi szolgáltatási tevékenységek vagy kiegészítő pénz
 
 cg) fiókok megnyitását, új pénzügyi szolgáltatások megkezdését, valamint egy pénzügyi szolgáltatáson belül új tevékenység (új üzletág) megkezdését;
 
-d) a teljesítményjavadalmazás nettó bevétel százalékában történő meghatározására kötelezheti a hitelintézetet, ha a teljesítményjavadalmazás nincs összhangban a prudenciális követelményekkel.
+d) a teljesítményjavadalmazás nettó bevétel százalékában történő meghatározására kötelezheti a hitelintézetet, ha a teljesítményjavadalmazás nincs összhangban a prudenciális követelményekkel;
+
+e) kötelezheti a hitelintézetet a 114. § szerinti helyreállítási terv életbe léptetésére, az abban foglalt lépések alkalmazására, vagy – ha a Felügyelet által alkalmazandó intézkedést kiváltó esemény eltér a helyreállítási tervben foglalt feltételezéstől – a helyreállítási terv harminc napon belül történő felülvizsgálatára és a módosított helyreállítási tervben foglalt lépések megtételére.
 
 (3) A kirendelt helyszíni ellenőr jogosult
 
@@ -75,3 +77,13 @@ b) megfigyelőként részt venni és felszólalni az ügyvezetés, az igazgatós
 c) konzultálni a pénzügyi intézmény könyvvizsgálójával.
 
 (4) Ha a fióktelep formájában működő hitelintézet eszközfenntartási mutatója száz százalék alá csökken, a Felügyelet kötelezi a külföldi hitelintézetet, hogy harminc napon belül feleljen meg a fióktelep az eszközfenntartási mutatóra vonatkozó előírásoknak.
+
+(5) Ha a hitelintézet a Felügyelet határozata ellenére nem nyújt be átdolgozott helyreállítási tervet vagy az átdolgozott helyreállítási terv nem orvosolja a határozatban foglalt hiányosságokat, a Felügyelet kötelezheti a hitelintézetet
+
+a) kockázatvállalásának – ideértve a likviditási kockázatot is – mérséklésére,
+
+b) az esetleges tőkeemelésről szóló döntést korlátozó szabályzatainak felülvizsgálatára,
+
+c) irányítási rendszerének felülvizsgálatára,
+
+d) forrásbevonási stratégiájának a fő üzletágak, kritikus funkciók ellenálló képessége növelése érdekében történő felülvizsgálatára.

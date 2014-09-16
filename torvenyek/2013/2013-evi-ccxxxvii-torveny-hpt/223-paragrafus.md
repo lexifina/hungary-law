@@ -6,7 +6,7 @@
 
 a) a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által kijelölt személy;
 
-b) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNB tv. 4. § (7) bekezdésében, a másik az MNB tv. 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök vagy e feladatot ellátó vezető,
+b) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNB tv. 4. § (8) bekezdésében, a másik az MNB tv. 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök vagy e feladatot ellátó vezető,
 
 c) a hitelintézetek érdek-képviseleti szervezetei által kijelölt két személy,
 

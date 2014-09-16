@@ -26,7 +26,7 @@ j) valamely, a hitelintézetek közötti fizetési rendszerhez való közvetlen 
 
 k) a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozatot,
 
-l) a hitelintézet likviditását, fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén alkalmazandó – a hitelintézet igazgatósága által elfogadott – eljárás rendjét és a 114. §-ban meghatározott helyreállítási tervét,
+l) a hitelintézet likviditását, fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén alkalmazandó, a hitelintézet igazgatósága által elfogadott eljárás rendjét és – ha a hitelintézetre nem terjed ki az összevont alapú felügyelet – a 114. §-ban meghatározott egyedi helyreállítási tervét,
 
 m) a szervezeti felépítését, az irányítási, döntési és ellenőrzési rendjét és a szervezeti és működési szabályzatát, ha ezeket az alapító okirat részletesen nem tartalmazza,
 
@@ -38,6 +38,8 @@ oa) az ügyfelek – biztosított betéti formákról történő – magyar nyel
 
 ob) a harmadik országbeli hitelintézetnek a betétesek Magyarországon történő kártalanítására vonatkozó kötelezettségvállalását, és
 
-oc) a kártalanítás feltételeit, módját, az eljárás menetének rendjét, és a kártalanítás kifizetését biztosító megállapodásokat.
+oc) a kártalanítás feltételeit, módját, az eljárás menetének rendjét, és a kártalanítás kifizetését biztosító megállapodásokat,
+
+p) a Szanálási Alaphoz történő csatlakozásáról szóló nyilatkozat másolatát.
 
 (3) Már működő pénzügyi intézmény tevékenységi körének pénzügyi szolgáltatással történő bővítésére vonatkozó engedély iránti kérelméhez benyújtja a tevékenység végzéséhez szükséges személyi és tárgyi feltételek meglétét bizonyító igazolást, valamint a (2) bekezdés d)–f), h) és k)–m) pontjában foglaltakat, ha ezek benyújtására korábban még nem került sor.

@@ -50,4 +50,6 @@ u) a pénzforgalmi szolgáltatás nyújtása és a fizetési műveletek feldolgo
 
 v) a központi szerződő fél, valamint az elszámolóházi tevékenység végzésének érdekében szükséges, a központi értéktár, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti adattovábbítás, valamint
 
-w) ha a pénzügyi intézmény a Ptk. 6:418. §-ában meghatározott kötelezettségét teljesíti.
+w) ha a pénzügyi intézmény a Ptk. 6:418. §-ában meghatározott kötelezettségét teljesíti,
+
+x) a szanálási feladatkörében eljáró MNB által a Szantv. szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás.
