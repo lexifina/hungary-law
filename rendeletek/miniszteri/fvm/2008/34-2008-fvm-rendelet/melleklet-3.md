@@ -64,6 +64,6 @@
 
 | 31. | Dél-Tolna öblözet | Tolna megye |
 
-3. számú melléklet a 34/2008. (III. 27.) FVM rendelethez[^80]
+3. számú melléklet a 34/2008. (III. 27.) FVM rendelethez[^82]
 
-[^80]: A 3. számú melléklet az 59/2011. (VI. 29.) VM rendelet 8. § (2) bekezdésével megállapított, a 91/2011. (X. 3.) VM rendelet 13. § (2) bekezdése, a 70/2013. (VII. 31.) VM rendelet 90. §-a, a 132/2013. (XII. 23.) VM rendelet 28. §-a szerint módosított szöveg.
+[^82]: A 3. számú melléklet az 59/2011. (VI. 29.) VM rendelet 8. § (2) bekezdésével megállapított, a 91/2011. (X. 3.) VM rendelet 13. § (2) bekezdése, a 70/2013. (VII. 31.) VM rendelet 90. §-a, a 132/2013. (XII. 23.) VM rendelet 28. §-a szerint módosított szöveg.
