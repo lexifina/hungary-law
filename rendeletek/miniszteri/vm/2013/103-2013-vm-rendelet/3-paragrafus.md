@@ -1,6 +1,6 @@
 3. § (1) Támogatás kizárólag az 1. mellékletben szereplő településen vagy a 2. mellékletben szereplő település külterületén megvalósuló fejlesztéshez vehető igénybe.
 
-(2) A támogatási határozattal jóváhagyott műveletet 2014. december 31-éig meg kell valósítani. Kifizetési kérelem legkésőbb 2015. január 31-éig nyújtható be.
+(2)[^1] A támogatási határozattal jóváhagyott műveletet 2015. március 31-ig meg kell valósítani. Kifizetési kérelem legkésőbb 2015. május 31-ig nyújtható be.
 
 (3) Költségvetési szervek esetében az EK tanácsi rendelet 71. cikk (3) bekezdés a) pontja alapján a támogatás számításának alapja az összes nettó elszámolható kiadás.
 
@@ -43,3 +43,5 @@ keretében benyújtott támogatási határozatához kapcsolt utolsó kifizetési
 (13) E rendelet keretében a LEADER Helyi Akciócsoport címmel rendelkező egyesület nem jogosult támogatás igénybevételére.
 
 (14) Amennyiben az 1. mellékletben szereplő település a támogatási kérelem benyújtásának időpontjában városi ranggal rendelkezik, a megvalósítandó fejlesztés nem támogatható.
+
+[^1]: A 3. § (2) bekezdése az 1/2014. (IX. 15.) MvM rendelet 35. § (1) bekezdésével megállapított szöveg.
