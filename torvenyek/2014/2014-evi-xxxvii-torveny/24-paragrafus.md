@@ -1,0 +1,7 @@
+## 12. Ideiglenes értékelés
+
+24. § (1) Ha a szanálási eljárást megelőzően vagy annak során az intézmény pénzügyi helyzetére, a pénzügyi közvetítő rendszer stabilitására, illetve az eljárás további körülményeire tekintettel nincs mód a független értékelés lebonyolítására annak időigénye miatt vagy a független értékelés során nem biztosítható a 23. § (6) és (7) bekezdésben foglalt követelmények teljesítése, akkor a szanálási feladatkörében eljáró MNB az intézmény számviteli nyilvántartásait alapul véve, a vagyonelemek értékesíthetőségét, a fedezetek érvényesíthetőségével kapcsolatos bizonytalansági tényezőket is figyelembe vevő értékelési pufferek és diszkonttényezők alkalmazásával maga is elvégezheti az intézmény eszközeinek és forrásainak értékelését (a továbbiakban: ideiglenes értékelés).
+
+(2) Az (1) bekezdés szerinti ideiglenes értékeléshez a szanálási feladatkörében eljáró MNB közreműködőt – ideértve az MNB tv.-ben meghatározott szervezetek felszámolását végző, nonprofit gazdasági társaságot is – vehet igénybe. A közreműködőre is a független értékelőre vonatkozó szakmai és összeférhetetlenségi követelményeket kell alkalmazni, kivéve a 22. § (9) bekezdést, valamint a közreműködőnek a független értékelők névjegyzékében szerepelnie kell, kivéve, ha az ebből fakadó időveszteség veszélyezteti a szanálási célok hatékony teljesülését.
+
+(3) Az ideiglenes értékeléskor törekedni kell a független értékelés céljaként meghatározott célok és követelmények lehető legteljesebb mértékű figyelembevételére.
