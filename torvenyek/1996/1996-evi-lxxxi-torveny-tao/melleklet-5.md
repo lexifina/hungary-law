@@ -31,3 +31,5 @@ A társasági adóalanynak nem minősülő szervezetek
 14. a Nemzeti Eszközkezelő Zrt.
 
 15. az az adózó, aki az adóévben a kisadózó vállalkozások tételes adójának alanya vagy a kisvállalati adó alanya.
+
+16. az Országos Betétbiztosítási Alap és a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvényben meghatározott Szanálási Alap.
