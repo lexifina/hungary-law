@@ -1,6 +1,6 @@
 ## 5. A pályázat benyújtása
 
-8. § (1) A pályázati felhívásokat a vidékfejlesztésért felelős miniszter (a továbbiakban: miniszter) jóváhagyását követően a Vidékfejlesztési Minisztérium (a továbbiakban: VM) és a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) honlapján kell közzétenni.
+8. § (1)[^3] A pályázati felhívásokat az agrár-vidékfejlesztésért felelős miniszter (a továbbiakban: miniszter) jóváhagyását követően a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) honlapján kell közzétenni.
 
 (2) A pályázatokat a pályázati felhívásban megadott címre és határidőben kell benyújtani. A pályázat benyújtására nyitva álló határidő elmulasztása esetén igazolásnak nincs helye.
 
@@ -19,3 +19,5 @@
 (9) A pályázati felhívásban előírt feltételeket és a pályázatnak a támogatási döntés alapján elfogadott részét a támogatási döntés közlésétől számított 18 hónapon belül kell teljesíteni azzal, hogy a pályázati felhívás ettől eltérő határidőt állapíthat meg.
 
 (10) Támogatásigénylési csomag 2015. november 30-át követően nem nyújtható be.
+
+[^3]: A 8. § (1) bekezdése a 2/2014. (IX. 15.) MvM rendelet 20. §-ával megállapított szöveg.
