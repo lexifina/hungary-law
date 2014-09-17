@@ -96,16 +96,19 @@ Felelős: az egyes kiemelt jelentőségű budapesti beruházásokért felelős k
 
 Határidő: 2013. április 30.
 
-3.14. a Miniszterelnökséget vezető államtitkárt, hogy a 3.1–3.13. pontban megjelölt feladatok végrehajtását koordinálja;
+3.14.[^1] a Miniszterelnökséget vezető minisztert, hogy a 3.1–3.13. pontban megjelölt feladatok végrehajtását koordinálja;
 
-Felelős: Miniszterelnökséget vezető államtitkár
+Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatosan
 
-3.15. a Miniszterelnökséget vezető államtitkárt, hogy gondoskodjon az Emlékév és Programjainak megfelelő szintű és minőségű, médiában történő megjelenítéséről, valamint az ezzel kapcsolatos koncepció, kommunikációs stratégia, lebonyolítási terv és költségkalkuláció kidolgozásáról.
+3.15.[^2] a Miniszterelnökséget vezető minisztert, hogy gondoskodjon az Emlékév és Programjainak megfelelő szintű és minőségű, médiában történő megjelenítéséről, valamint az ezzel kapcsolatos koncepció, kommunikációs stratégia, lebonyolítási terv és költségkalkuláció kidolgozásáról.
 
-Felelős: Miniszterelnökséget vezető államtitkár
+Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatosan
 
 4. Ez a határozat a közzétételét követőn napon lép hatályba.
+
+[^1]: A 3. pont 3.14. alpontja az 1512/2014. (IX. 16.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 3. pont 3.15. alpontja az 1512/2014. (IX. 16.) Korm. határozat 4. pontja szerint módosított szöveg.
