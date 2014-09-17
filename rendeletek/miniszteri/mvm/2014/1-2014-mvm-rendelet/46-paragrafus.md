@@ -1,4 +1,4 @@
-## szöveg lép.
+## 44–45. §[^27]
 
 ## 28. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) A 11. § és az 1. melléklet 2014. október 1-jén lép hatályba.
 
 (3) A 6. § 2014. december 16-án lép hatályba.
+
+[^27]: A 44–45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
