@@ -1,12 +1,4 @@
-1. A Liszt Ferenc Zeneművészeti Egyetem kiemelt kategóriájú koncertjeinek szervezése, a Concerto Akadémia Nonprofit Korlátolt Felelősségű Társaság támogatása, továbbá a magyar komolyzenei koncepció kidolgozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1193/2014. (III. 28.) Korm. határozat (a továbbiakban: Határozat) 2. pontja helyébe a következő rendelkezés lép:
-
-(A Kormány)
-
-„2. felhívja a Miniszterelnökséget vezető minisztert, hogy tegyen meg minden szükséges intézkedést egy hosszú távú komolyzenei koncepció elkészítésére, továbbá az oktatás valamennyi szintjén és formájában az ének- és zeneoktatás, a zenei tehetséggondozás, a zeneművészeti képzés, a hagyományosan élő zenei mozgalmak, a főváros és a vidék zenei élete, valamint a magyar zeneművészet és zenepedagógia nemzetközi helyzetének feltérképezésére, e területek összehangolásának, fejlesztésének támogatására;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-Határidő: azonnal”
+1.[^1]
 
 2. A Kormány egyetért azzal, hogy a Határozat végrehajtása során a Határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 26. A magyar komolyzenei koncepció kidolgozásának támogatása jogcímcsoport javára átcsoportosított 100,0 millió forintból
 
@@ -21,3 +13,5 @@ bb) 0,3 millió forint a K2. Munkaadókat terhelő járulékok és szociális ho
 bc) 18,7 millió forint a K3. Dologi kiadások kiemelt előirányzat
 
 terhére, 2014. október 15-i elszámolási és visszatérítési kötelezettségre vonatkozó határidővel.
+
+[^1]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
