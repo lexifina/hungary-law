@@ -1,5 +1,0 @@
-## „(5) E törvény hatálya – a 34. §-ban foglaltak kivételével – nem terjed ki az államra, a helyi önkormányzatra, a nemzetiségi önkormányzatra, a költségvetési szervre, az egyházi jogi személyre, a Magyar Nemzeti Vagyonkezelő Zrt.-re, a Nemzeti Eszközkezelő Zrt.-re, az Államadósság Kezelő Központ Zrt.-re, a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó büntetés-végrehajtási gazdálkodó szervezetre, valamint a helyi iparűzési adó vonatkozásában a Magyar Nemzeti Bankra, az Országos Betétbiztosítási Alapra és a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben meghatározott Szanálási Alapra.”
-
-155. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 57. § (1) bekezdés d) és e) pontja helyébe a következő rendelkezések lépnek:
-
-(A gazdálkodó szervezetnek a felszámolás körébe tartozó vagyonából a tartozásokat a következő sorrend figyelembevételével kell kielégíteni:)
