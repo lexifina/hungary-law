@@ -8,7 +8,7 @@
 
 5. A Kormány egyetért azzal, hogy a Bizottság a Programok koordinálása körében a Kormány döntésének megfelelően kezdeményezi az érintett szervezeteknél a Programok megvalósításához szükséges lépéseket, összehangolja a Programok megvalósításához szükséges feladatok végrehajtását, az érintett minisztériumok Programokra megállapított költségvetési előirányzatai tekintetében, az érintett miniszterrel együtt, a közpénzek felhasználásával kapcsolatos döntés-előkészítő tevékenységet lát el. A döntéstervezetet a Bizottság a Kormánynak terjeszti elő.
 
-6. A Bizottság elnöke a Miniszterelnökséget vezető államtitkár. A Bizottság állandó tagja a Belügyminisztérium, a Közigazgatási és Igazságügyi Minisztérium, az Emberi Erőforrások Minisztériuma, a Külügyminisztérium és a Honvédelmi Minisztérium által delegált egy-egy személy, valamint a Közigazgatási és Igazságügyi Minisztérium Társadalmi Kapcsolatokért Felelős Államtitkára mint a nemzeti ünnepekhez és rendezvényekhez kapcsolódó rendezvényszervezési és programkoordinációs feladatok irányításáért felelős személy.
+6.[^1] A Bizottság elnöke a Miniszterelnökséget vezető miniszter. A Bizottság állandó tagja a Belügyminisztérium, az Emberi Erőforrások Minisztériuma, a Külgazdasági és Külügyminisztérium és a Honvédelmi Minisztérium által delegált egy-egy személy, valamint a Miniszterelnökség kiemelt társadalmi ügyekért felelős helyettes államtitkára mint a rendezvényszervezési és programkoordinációs feladatok irányításáért felelős személy.
 
 7. A Kormány
 
@@ -18,15 +18,15 @@ b) felkéri a Holokauszt Emlékközpont vezetőjét, valamint „Az Élet Menete
 
 8. A Bizottság ülésének állandó meghívottja Izrael Állam magyarországi nagykövete, az Amerikai Egyesült Államok magyarországi nagykövete, valamint a Németországi Szövetségi Köztársaság magyarországi nagykövete. A Bizottság dönthet további tagok meghívásáról. Szükség esetén a Bizottság elnöke eseti jelleggel a Bizottság üléseire további személyek meghívásáról gondoskodhat. A Bizottság elnöke, állandó és eseti tagjai a megbízatásukat díjazás nélkül látják el.
 
-9. A Kormány felkéri a Miniszterelnökséget vezető államtitkárt, hogy a Bizottság állandó tagjainak és meghívottjainak felkéréséről, illetve meghívásáról gondoskodjon.
+9.[^2] A Kormány felkéri a Miniszterelnökséget vezető minisztert, hogy a Bizottság állandó tagjainak és meghívottjainak felkéréséről, illetve meghívásáról gondoskodjon.
 
-Felelős: Miniszterelnökséget vezető államtitkár
+Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
-10. A Kormány felkéri a Miniszterelnökséget vezető államtitkárt, hogy gondoskodjon a Bizottság működési feltételeinek biztosításáról.
+10.[^3] A Kormány felkéri a Miniszterelnökséget vezető minisztert, hogy gondoskodjon a Bizottság működési feltételeinek biztosításáról.
 
-Felelős: Miniszterelnökséget vezető államtitkár
+Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
 
@@ -37,3 +37,7 @@ Felelős: a Magyar Holokauszt Emlékbizottság elnöke
 Határidő: a Bizottság működésének megkezdését követő 30. nap
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 6. pont az 1512/2014. (IX. 16.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: A 9. pont az 1512/2014. (IX. 16.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^3]: A 10. pont az 1512/2014. (IX. 16.) Korm. határozat 5. pontja szerint módosított szöveg.
