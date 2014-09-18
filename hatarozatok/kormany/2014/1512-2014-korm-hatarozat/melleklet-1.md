@@ -40,13 +40,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Magyar Holokauszt – 2014 Emlékbizottság létrehozásáról szóló 1005/2013. (I. 10.) Korm. határozat (a továbbiakban: Határozat2.) 6. pontja helyébe a következő rendelkezés lép:
-
-## „6. A Bizottság elnöke a Miniszterelnökséget vezető miniszter. A Bizottság állandó tagja a Belügyminisztérium, az Emberi Erőforrások Minisztériuma, a Külgazdasági és Külügyminisztérium és a Honvédelmi Minisztérium által delegált egy-egy személy, valamint a Miniszterelnökség kiemelt társadalmi ügyekért felelős helyettes államtitkára mint a rendezvényszervezési és programkoordinációs feladatok irányításáért felelős személy.”
-
-## 4. A Határozat1. 3.14. és 3.15. pontjában a „Miniszterelnökséget vezető államtitkárt” szövegrész helyébe a „Miniszterelnökséget vezető minisztert” szöveg, a „Miniszterelnökséget vezető államtitkár” szövegrész helyébe a „Miniszterelnökséget vezető miniszter” szöveg lép.
-
-## 5. A Határozat2. 9. és 10. pontjában a „Miniszterelnökséget vezető államtitkárt” szövegrész helyébe a „Miniszterelnökséget vezető minisztert” szöveg, a „Miniszterelnökséget vezető államtitkár” szövegrész helyébe a „Miniszterelnökséget vezető miniszter” szöveg lép.
+## 3–5.[^1]
 
 1. melléklet az 1512/2014. (IX. 16.) Korm. határozathoz
 
@@ -65,3 +59,5 @@
 6. A Holokauszt Áldozatainak Nemzetközi Emléknapja (előkészítés)
 
 7. A Sorsok háza Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ működtetése, szakmai programok kidolgozása
+
+[^1]: A 3–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
