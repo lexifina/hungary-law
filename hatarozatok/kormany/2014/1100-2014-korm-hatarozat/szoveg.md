@@ -12,16 +12,12 @@ d) az Akadémia kiszolgálásához szükséges öltöző és rehabilitációs ki
 
 valósul meg;
 
-2. egyetért azzal, hogy a Program megvalósításához szükséges, Szombathely közigazgatási területén fekvő, 0975/5 helyrajzi számú ingatlan a Nemzeti Sportközpontok vagyonkezelésébe kerüljön, és felhívja a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztost, hogy folytasson egyeztetést a Nemzeti Földalapkezelő Szervezet irányítását ellátó vidékfejlesztési miniszterrel az ingatlan vagyonkezelői jogának rendezéséről;
-
-Felelős: a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos
-
-vidékfejlesztési miniszter
-
-Határidő: azonnal
+2.[^1]
 
 3. felhívja a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztost, hogy dolgozza ki az Akadémia megvalósítási koncepcióját és költségvetési támogatási igényét.
 
 Felelős: a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos
 
 Határidő: 2014. március 31.
+
+[^1]: A 2. pontot az 1526/2014. (IX. 18.) Korm. határozat 5. pontja visszavonta.
