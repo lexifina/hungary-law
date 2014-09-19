@@ -1,0 +1,9 @@
+# 240/2014. (IX. 18.) Korm. rendelet
+
+a Pozsony, Stefanikova 1. szám alatti ingatlan tulajdonjogának a Magyar Állam javára történő megszerzéséhez és az ehhez kapcsolódó beszerzéseknek a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendelet 7. § (5) bekezdés a) pontja szerinti minősítéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-240-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-09-19 | 2014-240-20-22.1 | 240/2014. (IX. 18.) Korm. rendelet |
