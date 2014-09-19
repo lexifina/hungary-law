@@ -20,6 +20,8 @@
 
 | 9. | Békéscsabai labdarúgó sportlétesítmény fejlesztése | Békéscsaba Megyei Jogú Város Önkormányzata | Békéscsaba közigazgatási területén fekvő, 820 helyrajzi számú ingatlan |
 
+| 10. | Budapest Szusza Ferenc Stadion labdarúgó sportlétesítmény fejlesztése | Nemzeti Sportközpontok | Budapest, IV. kerület közigazgatási területén fekvő, 74232, 74333 helyrajzi számú ingatlan |
+
 2. melléklet a 15/2014. (I. 30.) Korm. rendelethez
 
 ## Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
