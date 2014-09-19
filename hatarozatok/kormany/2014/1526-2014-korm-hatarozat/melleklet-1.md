@@ -38,7 +38,7 @@
 
 ## Határidő: 2015. június 30.
 
-## 5. visszavonja a nyugat-magyarországi utánpótlás-nevelési centrum megvalósításával összefüggő feladatokról szóló 1100/2014. (III. 4.) Korm. határozat 2. pontját.
+## 5.[^1]
 
 1. melléklet az 1526/2014. (IX. 18.) Korm. határozathoz
 
@@ -105,3 +105,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
