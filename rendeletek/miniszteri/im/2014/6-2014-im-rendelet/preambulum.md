@@ -1,0 +1,5 @@
+A választási eljárásról szóló 2013. évi XXXVI. törvény 346. § a), e) és f) pontjában kapott felhatalmazás alapján,
+
+a 11. § és a 2–11. melléklet tekintetében a választási eljárásról szóló 2013. évi XXXVI. törvény 346. § b) pontjában kapott felhatalmazás alapján,
+
+a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
