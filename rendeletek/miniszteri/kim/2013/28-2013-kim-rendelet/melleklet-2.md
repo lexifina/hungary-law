@@ -122,8 +122,24 @@
 
 | 59. | Jegyzőkönyv a választás eredményéről az Európai Parlament tagjainak az országgyűlési képviselők választásával azonos napon tartott választásán | X |  | X |  |
 
-2–59. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^14]
+| 60. | Névjegyzék az országgyűlési képviselők időközi választásán |  | X | X |  |
 
-20132T20000028_4
+| 61. | Mozgóurnát igénylő választópolgárok jegyzéke az országgyűlési képviselők időközi választásán |  | X | X |  |
+
+| 62. | Az átjelentkezett választópolgárok adatait tartalmazó névjegyzékrész az országgyűlési képviselők időközi választásán |  | X | X |  |
+
+| 63. | Az átjelentkezett, mozgóurnát igénylő választópolgárok jegyzéke az országgyűlési képviselők időközi választásán |  | X | X |  |
+
+| 64. | Külképviseleti névjegyzék az országgyűlési képviselők időközi választásán |  | X | X |  |
+
+| 65. | Összesítő lap az országgyűlési képviselők időközi választásán |  | X | X |  |
+
+| 66. | Értesítő a szavazóköri névjegyzékbe vételről az országgyűlési képviselők időközi választásán |  | X | X |  |
+
+| 67. | Szavazásnapi szavazóköri jegyzőkönyv az átjelentkezéssel és a külföldön leadott szavazatok megszámlálására kijelölt szavazókör névjegyzéki adatairól az országgyűlési képviselők időközi választásán | X |  | X” |  |
+
+| 68. | Szavazóköri jegyzőkönyv az egy szavazókörös településen és a kijelölt szavazókörben az országgyűlési képviselők időközi választásán | X |  | X |  |
+
+2–59. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^14]
 
 [^14]: A 2–59. melléklet a 2/2014. (I. 16.) KIM rendelet 7. §-a, a 26/2014. (IV. 14.) KIM rendelet 4. §-a, a 31/2014. (V. 5.) KIM rendelet 2. §-a szerint módosított szöveg.
