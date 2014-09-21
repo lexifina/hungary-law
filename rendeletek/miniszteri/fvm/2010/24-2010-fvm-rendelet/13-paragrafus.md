@@ -16,6 +16,8 @@
 
 (9)[^35] E rendeletnek az egyes agrártámogatási tárgyú rendeletek, valamint az agrárkár-enyhítési eljárási rendelet módosításáról szóló 97/2013. (X. 22.) VM rendelettel [a továbbiakban: 97/2013. (X. 22.) VM rendelet] megállapított 9. § (6a) bekezdését a 97/2013. (X. 22.) VM rendelet hatálybalépésekor[^36] folyamatban lévő eljárásokban is alkalmazni kell.
 
+(10)[^37] A zöldség-gyümölcs termelői szervezetek kiegészítő nemzeti támogatásáról szóló 11/2014. (IX. 18.) FM rendelettel [a továbbiakban: 11/2014. (IX. 18.) FM rendelet] megállapított 6. § (3) bekezdést a 11/2014. (IX. 18.) FM rendelet hatálybalépésekor[^38] folyamatban lévő ügyekben is alkalmazni kell.
+
 [^21]: A 12. §-t a 65/2013. (VII. 29.) VM rendelet 11. §-a hatályon kívül helyezte.
 [^22]: A 13. §-t a 12/2011. (II. 18.) VM rendelet 11. §-a iktatta be.
 [^23]: A 13. § (1)–(3) bekezdését a 65/2013. (VII. 29.) VM rendelet 11. §-a hatályon kívül helyezte.
@@ -32,3 +34,5 @@
 [^34]: A hatálybalépés időpontja 2013. július 30.
 [^35]: A 13. § (9) bekezdését a 97/2013. (X. 22.) VM rendelet 9. §-a iktatta be.
 [^36]: A hatálybalépés időpontja 2013. október 23.
+[^37]: A 13. § (10) bekezdését a 11/2014. (IX. 18.) FM rendelet 8. § (2) bekezdése iktatta be.
+[^38]: A hatálybalépés időpontja 2014. szeptember 21.

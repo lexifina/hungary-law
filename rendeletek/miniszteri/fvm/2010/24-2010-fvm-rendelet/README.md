@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-24-20-8
 | 2013-07-30 | 2010-24-20-82.10 | 65/2013. (VII. 29.) VM rendelet |
 | 2013-10-23 | 2010-24-20-82.11 | 97/2013. (X. 22.) VM rendelet |
 | 2014-01-01 | 2010-24-20-82.12 | 97/2013. (X. 22.) VM rendelet |
+| 2014-09-21 | 2010-24-20-82.13 | 11/2014. (IX. 18.) FM rendelet |
