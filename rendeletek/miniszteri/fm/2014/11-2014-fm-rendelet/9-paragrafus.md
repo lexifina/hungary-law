@@ -1,1 +1,0 @@
-## „(10) A zöldség-gyümölcs termelői szervezetek kiegészítő nemzeti támogatásáról szóló 11/2014. (IX. 18.) FM rendelettel [a továbbiakban: 11/2014. (IX. 18.) FM rendelet] megállapított 6. § (3) bekezdést a 11/2014. (IX. 18.) FM rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”

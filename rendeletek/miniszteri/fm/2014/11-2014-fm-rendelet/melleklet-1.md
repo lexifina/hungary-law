@@ -1,3 +1,5 @@
-## 9. § Hatályát veszti a zöldség-gyümölcs termelői szervezetek kiegészítő nemzeti támogatásáról szóló 105/2011. (XI. 10.) VM rendelet.
+## 8–9. §[^1]
 
 1. melléklet a 11/2014. (IX. 18.) FM rendelethez
+
+[^1]: A 8–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
