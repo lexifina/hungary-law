@@ -1,0 +1,9 @@
+# 362/2014. (IX. 23.) KE határozat
+
+miniszteri kinevezésről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-362-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-09-23 | 2014-362-30-76.1 | 362/2014. (IX. 23.) KE határozat |
