@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1501-30
 | --- | --- | --- |
 | 2014-09-05 | 2014-1501-30-22.1 | 1501/2014. (IX. 5.) Korm. határozat |
 | 2014-09-06 | 2014-1501-30-22.2 | 2010: CXXX. törvény |
+| 2014-09-23 | 2014-1501-30-22.3 | 1537/2014. (IX. 23.) Korm. határozat |

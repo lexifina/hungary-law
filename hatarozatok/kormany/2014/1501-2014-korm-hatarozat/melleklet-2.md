@@ -30,13 +30,13 @@
 
 | 15. | KEOP-5.6.0/12-2013-0052 | Türr István Képző és Kutató Intézet | 225 209 529 |
 
-| 16. | KEOP-5.6.0/12-2013-0004 | Csongrád Megyei Kormányhivatal | 998 900 000 |
+| 16. | KEOP-5.6.0/12-2013-0004 | Csongrád Megyei Kormányhivatal | 1 997 700 000 |
 
-| 17. | KEOP-5.6.0/12-2013-0005 | Csongrád Megyei Kormányhivatal | 998 800 000 |
+| 17. |  |  |  |
 
 | 18. | KEOP-5.6.0/12-2013-0006 | Győr-Moson-Sopron Megyei Kormányhivatal | 200 000 000 |
 
-| 19. | KEOP-5.6.0/12-2013-0007 | Győr-Moson-Sopron Megyei Kormányhivatal | 1 000 000 000 |
+| 19. |  |  |  |
 
 | 20. | KEOP-5.6.0/12-2013-0008 | Jász-Nagykun-Szolnok Megyei Kormányhivatal | 447 000 000 |
 
@@ -72,7 +72,7 @@
 
 | 36. | KEOP-5.6.0/12-2013-0026 | Heves Megyei Kormányhivatal | 63 780 000 |
 
-| 37. | KEOP-5.6.0/12-2013-0027 | Bács-Kiskun Megyei Kormányhivatal | 655 000 000 |
+| 37. | KEOP-5.6.0/12-2013-0027 | Bács-Kiskun Megyei Kormányhivatal | 735 221 604 |
 
 | 38. | KEOP-5.6.0/12-2013-0028 | Komárom-Esztergom Megyei Kormányhivatal | 177 800 000 |
 
@@ -80,7 +80,7 @@
 
 | 40. | KEOP-5.6.0/12-2013-0036 | Nógrád Megyei Kormányhivatal | 144 896 200 |
 
-| 41. | KEOP-5.6.0/12-2013-0037 | Zala Megyei Kormányhivatal | 376 780 747 |
+| 41. | KEOP-5.6.0/12-2013-0037 | Zala Megyei Kormányhivatal | 574 509 099 |
 
 | 42. | KEOP-5.6.0/12-2013-0038 | Nógrád Megyei Kormányhivatal | 147 266 000 |
 

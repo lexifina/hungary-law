@@ -12,6 +12,7 @@
 
 ## 3.[^1]
 
-1. melléklet az 1501/2014. (IX. 5.) Korm. határozathoz
+1. melléklet az 1501/2014. (IX. 5.) Korm. határozathoz[^2]
 
 [^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1537/2014. (IX. 23.) Korm. határozat 1–2. pontja szerint módosított szöveg.
