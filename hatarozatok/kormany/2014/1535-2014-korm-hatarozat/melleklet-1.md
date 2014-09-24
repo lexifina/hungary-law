@@ -8,6 +8,8 @@
 
 ## Határidő: azonnal
 
-## 4. visszavonja a regionális operatív programok 2011–2013. évekre szóló akciótervei egyes prioritásainak módosításáról szóló 1185/2014. (III. 27.) Korm. határozat 1. pont i) alpontját és 9. mellékletét.
+## 4.[^1]
 
 1. melléklet az 1535/2014. (IX. 23.) Korm. határozathoz
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
