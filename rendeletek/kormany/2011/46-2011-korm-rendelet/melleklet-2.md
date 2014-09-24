@@ -14,7 +14,7 @@
 
 | 1.5. A közbeszerzés tárgya szerinti szakértelemmel rendelkező kapcsolattartó személy neve: |  |
 
-| 1.6. Kapcsolattartó személy címe, elérhetősége, telefonszám és e-mail cím: |  |
+| 1.6. Kapcsolattartó személy címe, elérhetősége: (telefonszám és e-mail cím) |  |
 
 | 1.7. Irányítási/felügyeleti/tulajdonosi jogokat gyakoroló tárca megnevezése: |  |
 
@@ -28,19 +28,19 @@
 
 | nyílt eljárás | meghívásos eljárás | hirdetmény közzétételével induló tárgyalásos eljárás |
 
-| versenypárbeszéd | keretmegállapodásos eljárás első része (Kbt. 109. § a)/b)/c)/d); nyílt/meghívásos/ hirdetménnyel induló tárgyalásos eljárás) | keretmegállapodásos eljárás második része28 |
+| versenypárbeszéd | keretmegállapodásos eljárás első része (Kbt. 109. § a)/b)/c)/d); nyílt/meghívásos/ hirdetménnyel induló tárgyalásos eljárás) | keretmegállapodásos eljárás második része |
 
-| hirdetmény nélküli tárgyalásos eljárás |
+| hirdetmény nélküli tárgyalásos eljárás |  |  |
 
 | Nemzeti eljárásrend |
 
-| Kbt. 121. § a) | Kbt. 121. § b) |
+|  | Kbt. 121. § b) |
 
-| nyílt | meghívásos | hirdetmény közzétételével induló tárgyalásos |
+| Kbt. 121. § a) | nyílt | meghívásos | hirdetmény közzétételével induló tárgyalásos |
 
-| versenypárbeszéd | keretmegállapodásos eljárás (első/második29 rész) | hirdetmény nélküli tárgyalásos |
+|  | versenypárbeszéd | keretmegállapodásos eljárás (első/második rész) | hirdetmény nélküli tárgyalásos |
 
-| 4.b) Hirdetmény közzététele nélküli tárgyalásos eljárás esetén a meghívottak*: |
+| 4.b) Hirdetmény közzététele nélküli eljárás esetén a meghívottak*: |
 
 | Ajánlattételre felhívott neve: |  |
 
@@ -54,9 +54,9 @@
 
 | 5. A rendelkezésre álló forrás összege, összetétele: |
 
-| 5.1. Összeg (nettó + …% ÁFA = bruttó) |  |
+| 5.1. Összeg (nettó + ...% ÁFA = bruttó) |  |
 
-| 5.2. A rendelkezésre álló forrás összetétele (előirányzat, támogatási szerződés, stb.): |  |
+| 5.2. A rendelkezésre álló forrás összetétele (előirányzat, támogatási szerződés stb.): |  |
 
 | 6. A közbeszerzési eljárás tervezett kezdő időpontja: |  |
 
@@ -66,21 +66,19 @@
 
 | Határozott idejű szerződésnél annak időtartama: |  |  |
 
-| 9. Nyilatkozat: |
-
-| A kiíró a közbeszerzést a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendelet alapján tervezi kiírni. (A megfelelő válasz aláhúzandó.) |
+| 9. Nyilatkozat: A kiíró a közbeszerzést a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendelet alapján tervezi kiírni. (A megfelelő válasz aláhúzandó.) |
 
 | IGEN | NEM |
 
 | Amennyiben igen, ennek indoka: |  |
 
-| 10. Egyéb információk (előzetes tájékoztató, időszakos előzetes tájékoztató, előminősítési rendszer, stb.), a közbeszerzés szükségességét megalapozó tényezők ismertetése (alapfeladat ellátásához szükséges, stb.) |
+| 10. A közbeszerzés szükségességét és indokoltságát megalapozó tényezők ismertetése (alapfeladat ellátásához szükséges stb.) |
 
 | 11. A becsült érték és a fedezet meghatározására vonatkozó információk |
 
 | 11.1. Készült-e előzetes piackutatás/piacfelmérés? | igen/nem |
 
-| 11.2. A becsült érték kiszámításának módszere (előzetes ajánlatok bekérése, korábbi tapasztalatok, stb.) |  |
+| 11.2. A becsült érték kiszámításának módszere (előzetes ajánlatok bekérése, korábbi tapasztalatok stb.) |  |
 
 | 12. A potenciális ajánlattevői kör vizsgálata |
 
@@ -106,11 +104,13 @@
 
 | 14.2. Az ajánlatkérő alkalmaz-e környezetvédelmi szempontokat a közbeszerzési eljárásban? | igen/nem |
 
-| Mellékletek: a) ajánlat(tétel)i/részvételi felhívás és dokumentáció, két szakaszból álló eljárásban mindkét szakasz tekintetében, b) időszakos előzetes tájékoztatót tartalmazó hirdetménnyel meghirdetett meghívásos vagy tárgyalásos eljárás esetén az a) pontban foglaltak mellett az időszakos előzetes tájékoztatót tartalmazó hirdetmény is, c) előminősítési hirdetménnyel meghirdetett meghívásos vagy tárgyalásos eljárás esetén az előminősítési hirdetmény is, ilyen esetben a részvételi és ajánlattételi felhívásokat és dokumentációkat csak a konkrét közbeszerzési eljárás megkezdése előtt kell megküldeni, d) hirdetmény nélküli tárgyalásos eljárás esetén a Közbeszerzési Döntőbizottság elnökének küldendő indokolás, e) a közbeszerzési eljárás előkészítése során keletkező iratok közül a becsült érték meghatározására és bíráló bizottság megalakítására és összetételére vonatkozó iratok, összeférhetetlenségi nyilatkozatok, továbbá amennyiben a közbeszerzési eljárás megindításához más szerv jóváhagyása szükséges, a jóváhagyásról szóló nyilatkozat, f) a 4. § (7) bekezdés szerinti irat. *A 4. b) pont kitöltése esetén valamennyi ajánlattételre felhívott gazdasági szereplő esetében meg kell jelölni a feltüntetett adatokat, a megfelelő számú sorok beszúrásával. Keltezés |
+| 15. Egyéb információk (előzetes tájékoztató, időszakos előzetes tájékoztató, előminősítési rendszer stb.) |  |
 
-## 28Kivéve a kiemelt termékekre vonatkozó közbeszerzéseket (kiemelt termékek esetében a 4. vagy 5. melléklet alkalmazandó)
+| Mellékletek: a) ajánlati, ajánlattételi, részvételi felhívás és dokumentáció, két szakaszból álló eljárásban mindkét szakasz tekintetében, b) időszakos előzetes tájékoztatót tartalmazó hirdetménnyel meghirdetett meghívásos vagy tárgyalásos eljárás esetén az a) pontban foglaltak mellett az időszakos előzetes tájékoztatót tartalmazó hirdetmény is, c) előminősítési hirdetménnyel meghirdetett meghívásos vagy tárgyalásos eljárás esetén az előminősítési hirdetmény is, ilyen esetben a részvételi és ajánlattételi felhívásokat és dokumentációkat csak a konkrét közbeszerzési eljárás megkezdése előtt kell megküldeni, d) hirdetmény nélküli tárgyalásos eljárás esetén a Közbeszerzési Döntőbizottság elnökének küldendő indokolás, e) a közbeszerzési eljárás előkészítése során keletkező iratok közül a becsült érték meghatározására és bíráló bizottság megalakítására és összetételére vonatkozó iratok, összeférhetetlenségi nyilatkozatok, továbbá amennyiben a közbeszerzési eljárás megindításához más szerv jóváhagyása szükséges, a jóváhagyásról szóló nyilatkozat, f) a 4. § (7) bekezdés szerinti irat. |
 
-## 29 Kivéve a kiemelt termékekre vonatkozó közbeszerzéseket (kiemelt termékek esetében a 4. vagy 5. melléklet alkalmazandó)
+| *A 4. b) pont kitöltése esetén valamennyi ajánlattételre felhívott gazdasági szereplő esetében meg kell jelölni a feltüntetett adatokat, a megfelelő számú sorok beszúrásával. |
+
+## Keltezés
 
 ## Aláírás
 
@@ -118,6 +118,6 @@
 
 ## P. H.
 
-2. melléklet a 46/2011. (III. 25.) Korm. rendelethez[^28]
+2. melléklet a 46/2011. (III. 25.) Korm. rendelethez[^52]
 
-[^28]: A 2. mellékletet a 238/2013. (VI. 30.) Korm. rendelet 2. § (16) bekezdése hatályon kívül helyezte, újonnan e módosító rendelet 2. § (17) bekezdése iktatta be.
+[^52]: A 2. mellékletet a 238/2013. (VI. 30.) Korm. rendelet 2. § (16) bekezdése hatályon kívül helyezte, újonnan e módosító rendelet 2. § (17) bekezdése iktatta be, szövege a 241/2014. (IX. 23.) Korm. rendelet 8. § (1) bekezdés b) pontjával megállapított szöveg.

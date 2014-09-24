@@ -1,8 +1,6 @@
 ## Előterjesztés
 
-## a nettó 25 millió forintot el nem érő becsült értékű árubeszerzések, vagy szolgáltatás megrendelések,
-
-## továbbá a nettó 150 millió forintot el nem érő becsült értékű építési beruházások ellenőrzéséhez és engedélyezéséhez
+## a nettó 25 millió forintot el nem érő becsült értékű árubeszerzések, vagy szolgáltatás megrendelések, továbbá a nettó 150 millió forintot el nem érő becsült értékű építési beruházások ellenőrzéséhez és engedélyezéséhez
 
 | AJÁNLATKÉRŐ ADATAI |  |
 
@@ -16,7 +14,7 @@
 
 | 1.5. A közbeszerzés tárgya szerinti szakértelemmel rendelkező kapcsolattartó személy neve: |  |
 
-| 1.6. Kapcsolattartó személy címe, elérhetősége (telefonszám, e-mail cím): |  |
+| 1.6. Kapcsolattartó személy címe, elérhetősége: (telefonszám és e-mail cím) |  |
 
 | 1.7. Irányítási/felügyeleti/tulajdonosi jogokat gyakoroló tárca megnevezése: |  |
 
@@ -26,15 +24,15 @@
 
 | 4.a) A lefolytatni tervezett közbeszerzési eljárás fajtája (megfelelő aláhúzandó): |
 
-| Kbt. 121. § a) | Kbt. 121. § b) |
+|  | Kbt. 121. § b) |
 
-| nyílt | meghívásos | hirdetmény közzétételével induló tárgyalásos |
+|  | nyílt | meghívásos | hirdetmény közzétételével induló tárgyalásos |
 
-| versenypárbeszéd | keretmegállapodásos eljárás (első/második31 rész) | hirdetmény nélküli tárgyalásos | Kbt. 122/A. § |
+| Kbt. 121. § a) | versenypárbeszéd | keretmegállapodásos eljárás (első/második rész) | hirdetmény nélküli tárgyalásos | Kbt. 122/A. § |
 
-| Kbt. 122. § (7) | egyéb h.n.t. |
+|  |  |  | Kbt. 122. § (7) | egyéb h.n.t. |  |
 
-| 4.b) Hirdetmény közzététele nélküli tárgyalásos eljárás esetén az ajánlattételre felhívottak*: |
+| 4.b) Hirdetmény közzététele nélküli eljárás esetén az ajánlattételre felhívottak*: |
 
 | Ajánlattételre felhívott neve: |  |
 
@@ -46,9 +44,9 @@
 
 | 5. A rendelkezésre álló forrás összege, összetétele: |
 
-| 5.1. Összeg (nettó + …% ÁFA = bruttó) |  |
+| 5.1. Összeg (nettó + ...% ÁFA = bruttó) |  |
 
-| 5.2. A rendelkezésre álló forrás összetétele (előirányzat, támogatási szerződés, stb.): |  |
+| 5.2. A rendelkezésre álló forrás összetétele (előirányzat, támogatási szerződés stb.): |  |
 
 | 6. A közbeszerzési eljárás tervezett kezdő időpontja: |  |
 
@@ -58,9 +56,7 @@
 
 | Határozott idejű szerződésnél annak időtartama: |  |  |
 
-| 9. Nyilatkozatok: |
-
-| A kiíró a közbeszerzést a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendelet alapján tervezi kiírni. (A megfelelő válasz aláhúzandó.) |
+| 9. Nyilatkozatok: A kiíró a közbeszerzést a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendelet alapján tervezi kiírni. (A megfelelő válasz aláhúzandó.) |
 
 | IGEN | NEM |
 
@@ -68,15 +64,15 @@
 
 | 10. A közbeszerzési eljárást megindító felhívás és esetlegesen a dokumentáció tartalmára vonatkozó információk |
 
-| 10. a) a közbeszerzés tárgya és mennyisége: 10. b) részletes műszaki leírás: 10. c) kizáró okok és igazolás módja: 10. d) alkalmassági feltételek és az igazolás módja: 10. e) bírálati szempontok és a bírálat módszere: |
+| 10. a) a közbeszerzés tárgya és mennyisége: 10. b) részletes műszaki leírás: 10. c) kizáró okok és igazolás módja: 10. d) alkalmassági feltételek és az igazolás módja: 10. e) bírálati szempontok és a bírálat módszere: |  |
 
-| 11. A közbeszerzés szükségességét megalapozó tényezők ismertetése (alapfeladat ellátásához szükséges, stb.) |
+| 11. A közbeszerzés szükségességét megalapozó tényezők ismertetése (alapfeladat ellátásához szükséges stb.) |
 
 | 12. A becsült érték és a fedezet meghatározására vonatkozó információk |
 
 | 12.1. Készült-e előzetes piackutatás/piacfelmérés? | igen/nem |
 
-| 12.2. A becsült érték kiszámításának módszere (előzetes ajánlatok bekérése, korábbi tapasztalatok, stb.) |  |
+| 12.2. A becsült érték kiszámításának módszere (előzetes ajánlatok bekérése, korábbi tapasztalatok stb.) |  |
 
 | 13. A potenciális ajánlattevői kör vizsgálata |
 
@@ -88,7 +84,7 @@
 
 | 13.4. Várható-e olyan ajánlattevő részvétele az eljárásban, aki általános szerződési feltételeket alkalmaz? | igen/nem |
 
-| 13.5. Hirdetmény nélküli tárgyalásos eljárás esetében az ajánlatkérő megvizsgálta-e, hogy az ajánlattételre felhívni kívánt gazdasági szereplők nem állnak-e az előírni kívánt kizáró okok hatálya alatt? | igen/nem |
+| 13.5. Hirdetmény nélküli eljárás esetében az ajánlatkérő megvizsgálta-e, hogy az ajánlattételre felhívni kívánt gazdasági szereplők nem állnak-e az előírni kívánt kizáró okok hatálya alatt? | igen/nem |
 
 | 14. Külső szakértők |
 
@@ -102,11 +98,11 @@
 
 | 15.2. Az ajánlatkérő alkalmaz-e környezetvédelmi szempontokat a közbeszerzési eljárásban? | igen/nem |
 
-## 31Kivéve a kiemelt termékekre vonatkozó közbeszerzéseket (kiemelt termékek esetében a 4. vagy 5. melléklet alkalmazandó)
+| 16. Egyéb információk |  |
 
-## Mellékletek: a 4. § szerinti iratok
+| Mellékletek: a 4. § szerinti iratok |
 
-## * A 4. b) pont kitöltése esetén valamennyi ajánlattételre felhívott gazdasági szereplő esetében meg kell jelölni a feltüntetett adatokat, a megfelelő számú sorok beszúrásával.
+| *A 4. b) pont kitöltése esetén valamennyi ajánlattételre felhívott gazdasági szereplő esetében meg kell jelölni a feltüntetett adatokat, a megfelelő számú sorok beszúrásával. |
 
 ## Keltezés
 
@@ -114,8 +110,8 @@
 
 ## (név, beosztás)
 
-## P. H
+## P. H.
 
-3. melléklet a 46/2011. (III. 25.) Korm. rendelethez[^29]
+3. melléklet a 46/2011. (III. 25.) Korm. rendelethez[^53]
 
-[^29]: A 3. mellékletet a 238/2013. (VI. 30.) Korm. rendelet 2. § (17) bekezdése iktatta be.
+[^53]: A 3. mellékletet a 238/2013. (VI. 30.) Korm. rendelet 2. § (17) bekezdése iktatta be, hatályon kívül helyezte a 241/2014. (IX. 23.) Korm. rendelet 10. § (3) bekezdése.
