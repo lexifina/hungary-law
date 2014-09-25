@@ -1,4 +1,3 @@
-## 13/A. §[^51] E rendeletnek a Nemzeti Eszközkezelő Zrt. működésével kapcsolatos egyes szabályokról szóló 128/2012. (VI. 26.) Korm. rendelet módosításáról szóló 368/2013. (X. 24.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 4/E. § (5) bekezdés b) pontját a Módr2. hatálybalépésekor[^52] már benyújtott pályázatokra is alkalmazni kell.
+## 13/B. §[^55] A Törvény és az elszámolási törvény hatálybalépése a NET tv. és e rendelet – lakóingatlanok állam általi megvásárlására vonatkozó – szabályainak alkalmazását nem akadályozza, a Nemzeti Eszközkezelő a lakóingatlanok megvásárlását az e rendelet 3–4. §-a szerinti ütemezésnek és allokációs szempontoknak megfelelően a NET tv. és e rendelet rendelkezései szerint folytatja.
 
-[^51]: A 13/A. §-t a 368/2013. (X. 24.) Korm. rendelet 9. §-a iktatta be.
-[^52]: A hatálybalépés napja: 2013. október 27.
+[^55]: A 13/B. §-t a 243/2014. (IX. 24.) Korm. rendelet 2. §-a iktatta be.

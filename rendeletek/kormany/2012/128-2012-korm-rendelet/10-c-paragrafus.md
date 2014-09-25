@@ -2,8 +2,8 @@
 
 a) a bérlő a bérleti idő lejárta után a bérlő által lakott ingatlant tovább használja, és
 
-b)[^41] a bérlő a lakbérfizetési és az adósságkezelési és együttműködési megállapodásban vállalt kötelezettségének eleget tett, vagy a Segítő Szervezet javaslata alapján a bérlő élethelyzetéből adódóan – méltányosságból – a bérlő ingatlanban maradása indokolt.
+b)[^43] a bérlő a lakbérfizetési és az adósságkezelési és együttműködési megállapodásban vállalt kötelezettségének eleget tett, vagy a Segítő Szervezet javaslata alapján a bérlő élethelyzetéből adódóan – méltányosságból – a bérlő ingatlanban maradása indokolt.
 
 (2) A bérlő köteles – az (1) bekezdésben meghatározott kivétellel – a bérleti szerződés megszűnését követő 15 napon belül a bérlő által lakott ingatlanból kiköltözni, és azt a bérbeadónak rendeltetésszerű használatra alkalmas állapotban visszaadni.
 
-[^41]: A 10/C. § (1) bekezdés b) pontja a 81/2014. (III. 14.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^43]: A 10/C. § (1) bekezdés b) pontja a 81/2014. (III. 14.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

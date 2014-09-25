@@ -4,28 +4,28 @@
 
 ## 1. A Nemzeti Eszközkezelő által az állam javára megvásárlásra kerülő lakóingatlanok műszaki állapotának részletes felmérése.
 
-## 2.[^54] A Nemzeti Eszközkezelő vagyonkezelésében álló lakóingatlanokkal és tartalék ingatlanokkal összefüggő műszaki hibabejelentések fogadására alkalmas telefonos ügyfélszolgálat működtetése.
+## 2.[^58] A Nemzeti Eszközkezelő vagyonkezelésében álló lakóingatlanokkal és tartalék ingatlanokkal összefüggő műszaki hibabejelentések fogadására alkalmas telefonos ügyfélszolgálat működtetése.
 
-## 3.[^55] A Nemzeti Eszközkezelő vagyonkezelésében álló lakóingatlanokkal és tartalék ingatlanokkal összefüggésben bejelentett műszaki hibák rövid, ütemezett határidőn belüli – rendkívüli sürgősség esetén haladéktalan – elhárítása, javítása.
+## 3.[^59] A Nemzeti Eszközkezelő vagyonkezelésében álló lakóingatlanokkal és tartalék ingatlanokkal összefüggésben bejelentett műszaki hibák rövid, ütemezett határidőn belüli – rendkívüli sürgősség esetén haladéktalan – elhárítása, javítása.
 
-## 4.[^56] A Nemzeti Eszközkezelő vagyonkezelésében álló lakóingatlanok és tartalék ingatlanok tekintetében szükségessé váló tervezett vagy eseti állagmegóvó, felújítási munkálatok elvégzése a Nemzeti Eszközkezelő utasításai alapján, valamint jogszabály által előírt, tulajdonost terhelő, ellenőrzési, felülvizsgálati feladatok elvégzése.
+## 4.[^60] A Nemzeti Eszközkezelő vagyonkezelésében álló lakóingatlanok és tartalék ingatlanok tekintetében szükségessé váló tervezett vagy eseti állagmegóvó, felújítási munkálatok elvégzése a Nemzeti Eszközkezelő utasításai alapján, valamint jogszabály által előírt, tulajdonost terhelő, ellenőrzési, felülvizsgálati feladatok elvégzése.
 
-## 5.[^57] A Nemzeti Eszközkezelő vagyonkezelésében álló lakóingatlanok és tartalék ingatlanok használatának, illetve műszaki állapotának időszakos helyszíni ellenőrzése.
+## 5.[^61] A Nemzeti Eszközkezelő vagyonkezelésében álló lakóingatlanok és tartalék ingatlanok használatának, illetve műszaki állapotának időszakos helyszíni ellenőrzése.
 
 ## 6. Eseti megbízás alapján a Nemzeti Eszközkezelő képviselete társasházi közgyűléseken.
 
-## 7.[^58] A Nemzeti Eszközkezelő vagyonkezelésében lévő lakóingatlanokra és tartalék ingatlanokra vonatkozó adatoknak a Kijelölt Szolgáltató által üzemeltetett ingatlankezelést és üzemeltetést támogató számítógépes rendszerbe történő feltöltése és karbantartása.
+## 7.[^62] A Nemzeti Eszközkezelő vagyonkezelésében lévő lakóingatlanokra és tartalék ingatlanokra vonatkozó adatoknak a Kijelölt Szolgáltató által üzemeltetett ingatlankezelést és üzemeltetést támogató számítógépes rendszerbe történő feltöltése és karbantartása.
 
 ## 8. Természeti csapás vagy emberi tevékenység okozta, a lakosságot vagy a környezetet veszélyeztető váratlan esemény bekövetkeztekor közreműködés a kiköltöztetendő lakók és vagyontárgyaik elszállításában és ideiglenes elhelyezésében.
 
-## 9.[^59] A Nemzeti Eszközkezelő vagyonkezelésében álló lakóingatlanok és tartalék ingatlanok a lakásbérleti szerződés megszűnése okán bekövetkező megüresedése esetén az ingatlanok bérbeadásból történő visszavétele, üres lakóingatlanok és tartalék ingatlanok gondnokolása, illetve újabb bérbeadást megelőzően műszaki állapotfelmérés elkészítése.
+## 9.[^63] A Nemzeti Eszközkezelő vagyonkezelésében álló lakóingatlanok és tartalék ingatlanok a lakásbérleti szerződés megszűnése okán bekövetkező megüresedése esetén az ingatlanok bérbeadásból történő visszavétele, üres lakóingatlanok és tartalék ingatlanok gondnokolása, illetve újabb bérbeadást megelőzően műszaki állapotfelmérés elkészítése.
 
-2/A. melléklet a 128/2012. (VI. 26.) Korm. rendelethez[^60]
+2/A. melléklet a 128/2012. (VI. 26.) Korm. rendelethez[^64]
 
-[^54]: A 2. melléklet 2. pontja a 368/2013. (X. 24.) Korm. rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^55]: A 2. melléklet 3. pontja a 368/2013. (X. 24.) Korm. rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^56]: A 2. melléklet 4. pontja a 368/2013. (X. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^57]: A 2. melléklet 5. pontja a 368/2013. (X. 24.) Korm. rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^58]: A 2. melléklet 7. pontja a 368/2013. (X. 24.) Korm. rendelet 11. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^59]: A 2. melléklet 9. pontját a 368/2013. (X. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^60]: A 2/A. mellékletet a 368/2013. (X. 24.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^58]: A 2. melléklet 2. pontja a 368/2013. (X. 24.) Korm. rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^59]: A 2. melléklet 3. pontja a 368/2013. (X. 24.) Korm. rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^60]: A 2. melléklet 4. pontja a 368/2013. (X. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^61]: A 2. melléklet 5. pontja a 368/2013. (X. 24.) Korm. rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^62]: A 2. melléklet 7. pontja a 368/2013. (X. 24.) Korm. rendelet 11. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^63]: A 2. melléklet 9. pontját a 368/2013. (X. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^64]: A 2/A. mellékletet a 368/2013. (X. 24.) Korm. rendelet 10. § (2) bekezdése iktatta be.

@@ -42,6 +42,10 @@ keresőtevékenységet folytatónak kell tekinteni az egyéni vállalkozót, azt
 
 10.[^10] Segítő Szervezet: a bérbeadó és a bérlő között létrejövő adósságkezelési és együttműködési megállapodás teljesítése, a bérlő anyagi helyzetének rendezése érdekében szükséges mentorálási feladatok ellátására e rendeletben kijelölt szervezet.
 
+11.[^11] Törvény: a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvény;
+
+12.[^12] elszámolási törvény: a Törvény 3. § (5) bekezdése és 4. § (3) bekezdése szerinti külön törvény.
+
 [^1]: Az eredeti 1. alcím megjelölését I. Fejezetre változtatta, és szövegét (1. §) megállapította a 431/2012. (XII. 29.) Korm. rendelet 1. §-a.
 [^2]: Az 1. § 1. pontja a 111/2013. (IV. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § 2. pontja a 368/2013. (X. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -52,3 +56,5 @@ keresőtevékenységet folytatónak kell tekinteni az egyéni vállalkozót, azt
 [^8]: Az 1. § 8. pontját a 368/2013. (X. 24.) Korm. rendelet 3. §-a iktatta be, szövege a 81/2014. (III. 14.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^9]: Az 1. § 9. pontját a 81/2014. (III. 14.) Korm. rendelet 1. §-a iktatta be.
 [^10]: Az 1. § 10. pontját a 81/2014. (III. 14.) Korm. rendelet 1. §-a iktatta be.
+[^11]: Az 1. § 11. pontját a 243/2014. (IX. 24.) Korm. rendelet 1. §-a iktatta be.
+[^12]: Az 1. § 12. pontját a 243/2014. (IX. 24.) Korm. rendelet 1. §-a iktatta be.

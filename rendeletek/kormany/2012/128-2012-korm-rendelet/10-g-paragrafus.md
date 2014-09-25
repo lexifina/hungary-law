@@ -1,3 +1,3 @@
-## 6/C.[^43] Bérlők ideiglenes elhelyezése
+## 6/C.[^45] Bérlők ideiglenes elhelyezése
 
-[^43]: A 6/C. alcímet (10/G. §) a 368/2013. (X. 24.) Korm. rendelet 6. §-a iktatta be.
+[^45]: A 6/C. alcímet (10/G. §) a 368/2013. (X. 24.) Korm. rendelet 6. §-a iktatta be.
