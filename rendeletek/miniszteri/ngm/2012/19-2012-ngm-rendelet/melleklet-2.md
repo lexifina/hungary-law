@@ -252,6 +252,6 @@
 
 ## olvasható név/aláírás
 
-2. melléklet a 19/2012. (VII. 20.) NGM rendelethez[^10]
+2. melléklet a 19/2012. (VII. 20.) NGM rendelethez[^15]
 
-[^10]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
