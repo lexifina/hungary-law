@@ -1,3 +1,3 @@
-17. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^46]
+17. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^48]
 
-[^46]: A 17. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
+[^48]: A 17. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.

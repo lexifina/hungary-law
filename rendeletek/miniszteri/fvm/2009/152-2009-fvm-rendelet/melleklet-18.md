@@ -110,6 +110,6 @@
 
 ## d) a hőmérsékletet akkor kell leolvasni, ha az már nem változik.
 
-18. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^47]
+18. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^49]
 
-[^47]: A 18. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
+[^49]: A 18. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.

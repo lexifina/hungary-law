@@ -8,7 +8,7 @@
 
 ## 2. A tejtermék-megnevezések a forgalomba hozott termékek esetében csak akkor használhatók, ha megfelelnek ezen előírás követelményeinek.
 
-## 3. Nem terjed ki az előírás azokra a tejtermékekre, amelyek a mezőgazdasági termékek és élelmiszerek földrajzi jelzéseinek és eredetmegjelölésének oltalmáról szóló, a Tanács 510/2006/EK rendelete (2006. március 20.) alapján oltalomban részesülnek, továbbá a hagyományos különleges terméknek minősülő mezőgazdasági termékekről és élelmiszerekről szóló, a Tanács 509/2006/EK rendelete (2006. március 20.) alapján elismertek.
+## 3. Nem terjed ki az előírás a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU európai parlamenti és tanácsi rendelet alapján eredetmegjelölésként vagy földrajzi jelzésként oltalom alatt álló, valamint hagyományos különleges termékként bejegyzett termékekre.
 
 ## 4. Ebben az előírásban meghatározott technikai jellegű előírásoknak nem kell megfelelniük azon termékeknek, amelyeket az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások a fogyasztók védelme vonatkozásában az ezen előírásban meghatározottal egyenértékű védelmet nyújtanak.
 
@@ -802,7 +802,7 @@
 
 ## Fel kell tüntetni a termék 7.3. pont szerinti zsírfokozatát és állományát, továbbá a szárazanyagra vonatkoztatott zsírtartalmát 5%-ban, vagy annak egészszámú többszöröseként (ez az érték mindig az az 5%, illetve többszöröse legyen, amely közvetlenül a valós érték alatt van, azaz: valós érték: 47%, feltüntetendő érték: 45%), és/vagy tényleges zsírtartalmát tömegszázalékban. A 7.1.2., valamint a 7.1.3. pont szerint többféle sajtból előállított ömlesztett sajtok esetén utalni lehet a termék jellegzetes ízét adó sajttípus nevére. A 100 °C feletti hőmérsékleten végzett ömlesztést a termék csomagolásán csak akkor kell feltüntetni, ha a hőkezelés steril terméket eredményez.
 
-14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^43]
+14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^45]
 
 ## A Magyar Élelmiszerkönyv 1-2-2009/32 számú előírása az élelmiszerek előállítása során felhasználható extrakciós oldószerekről
 
@@ -900,4 +900,4 @@ II. Olyan extrakciós oldószerek, amelyekre felhasználási feltételeket hatá
 
 III. Olyan extrakciós oldószerek, amelyekre felhasználási feltételeket határoztak meg
 
-[^43]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 77/2011. (VIII. 3.) VM rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^45]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 77/2011. (VIII. 3.) VM rendelet 2. § (4) bekezdése szerint módosított szöveg.
