@@ -1,15 +1,16 @@
 ## Kifizetési kérelem
 
-6. § (1)[^17] A kiállított számlákról a növény- és talajvédelmi igazgatóság nyilvántartást vezet, és havi rendszerességgel összesítést készít, amelyet a tárgyhónapot követő hónap tizenötödik napjáig a NÉBIH-nek megküld. Az összesítéshez a kiállított számlák másolatait is csatolni kell.
+6. § (1)[^18] A növény- és talajvédelmi igazgatóság, valamint a NÉBIH az általa kiállított számlákról nyilvántartást vezet, és havi rendszerességgel összesítést készít.
 
-(2)[^18] A növény- és talajvédelmi igazgatóság adatai alapján a vizsgálati díjak termelőknek fel nem számított összegéről (a továbbiakban: költségek) a NÉBIH országos összesítést (a továbbiakban: kifizetési kérelem) készít legalább a 2. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és honlapján közzétett „Kifizetési kérelem” nyomtatványon és igazolja a növény- és talajvédelmi igazgatóság költségeit.
+(2)[^19] A növény- és talajvédelmi igazgatóság, valamint a NÉBIH adatai alapján a vizsgálati díjak termelőknek fel nem számított összegéről a növény- és talajvédelmi igazgatóság, valamint a NÉBIH összesítést (a továbbiakban: kifizetési kérelem) készít a legalább a 2. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és honlapján közzétett „Kifizetési kérelem” nyomtatványon.
 
-(3)[^19] A NÉBIH a Kifizetési kérelmet havonta, a tárgyhónapot követő hónap utolsó napjáig megküldi az MVH részére. A Kifizetési kérelemhez csatolni kell a kiállított számlák másolatait.
+(3)[^20] A növény- és talajvédelmi igazgatóság, valamint a NÉBIH a kifizetési kérelmet havonta, a tárgyhónapot követő hónap utolsó napjáig postai úton megküldi az MVH részére. A kifizetési kérelemhez csatolni kell a tárgyhónapban kiállított számlák másolatait.
 
-(4) A benyújtott kifizetési kérelem teljességének ellenőrzését követően az MVH a támogatásról – a 4. § (2) bekezdésében rögzített mértékig – döntést hoz. A döntés jogerőre emelkedését követően az MVH intézkedik a minisztérium költségvetési elszámolásokért felelős szervezeti egysége felé a kifizetésekhez szükséges támogatás rendelkezésre bocsátásáról. A kifizetést az MVH a 4. § (1) bekezdésében meghatározott előirányzat-felhasználási keretszámla terhére a 10032000-00287560-00000017 Agrártámogatások lebonyolítási számláról a forrás rendelkezésre bocsátását követő 30 napon belül teljesíti.
+(4)[^21] A benyújtott kifizetési kérelem teljességének ellenőrzését követően az MVH a támogatásról – a 4. § (2) bekezdésében rögzített mértékig – döntést hoz. A kifizetést az MVH a 4. § (1) bekezdésében meghatározott előirányzat-felhasználási keretszámla terhére a 10032000-00287560-00000017 Agrártámogatások lebonyolítási számláról a forrás rendelkezésre bocsátását követő harminc napon belül teljesíti.
 
 (5) A minisztérium fejezeti kezelésű előirányzat-felhasználási keretszámláról az MVH rendelkezésére bocsátott források felhasználásról, a költségvetési szervekre vonatkozó jogszabályokban előírt módon, az MVH a tárgyhónapot követő hónap 8-áig, analitikus nyilvántartása alapján, főkönyvi könyvelési feladást készít a minisztérium költségvetési elszámolásokért felelős szervezeti egysége számára.
 
-[^17]: A 6. § (1) bekezdése a 46/2013. (VI. 3.) VM rendelet 5. § 6. és 7. pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 78. § e) pontjával elrendelt módosítás, amely szerint a „Hivatal” szövegrész helyébe a „növény- és talajvédelmi igazgatóság” szöveg, a 78. § f) pontjával elrendelt módosítás, amely szerint „a Központnak” szövegrész helyébe „a NÉBIH-nek” szöveg lép, nem vezethető át.]
-[^18]: A 6. § (2) bekezdése a 8/2010. (II. 4.) FVM rendelet 3. § (4) bekezdésével megállapított, a 46/2013. (VI. 3.) VM rendelet 5. § 8. és 9. pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 78. § e) pontjával elrendelt módosítás, amely szerint a „Hivatal” szövegrész helyébe a „növény- és talajvédelmi igazgatóság” szöveg, a 78. § g) pontjával elrendelt módosítás, amely szerint „a Központ” szövegrész helyébe „a NÉBIH” szöveg lép, nem vezethető át.]
-[^19]: A 6. § (3) bekezdése a 8/2010. (II. 4.) FVM rendelet 3. § (4) bekezdésével megállapított, a 46/2013. (VI. 3.) VM rendelet 5. § 9. és 10. pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 78. § g) pontjával elrendelt módosítás, amely szerint „a Központ” szövegrész helyébe „a NÉBIH” szöveg lép, nem vezethető át.]
+[^18]: A 6. § (1) bekezdése a 12/2014. (IX. 24.) FM rendelet 3. §-ával megállapított szöveg.
+[^19]: A 6. § (2) bekezdése a 12/2014. (IX. 24.) FM rendelet 3. §-ával megállapított szöveg.
+[^20]: A 6. § (3) bekezdése a 12/2014. (IX. 24.) FM rendelet 3. §-ával megállapított szöveg.
+[^21]: A 6. § (4) bekezdése a 12/2014. (IX. 24.) FM rendelet 3. §-ával megállapított szöveg.
