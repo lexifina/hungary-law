@@ -30,7 +30,7 @@
 
 ## 1.6. A nyulakat – a hízónövendék nyulak kivételével – 12 hetes korukat követően egyedileg kell elhelyezni. A szopósnyulakat anyjukkal együtt kell tartani.
 
-## 1.7.[^115] A ketreceket vagy fülkéket úgy kell kialakítani és folyamatosan karbantartani, hogy azok megrágásuk esetén se okozhassanak sérülést az állatoknak, valamint az állatok fájdalom- és sérülésmentesen kivehetők legyenek.
+## 1.7.[^117] A ketreceket vagy fülkéket úgy kell kialakítani és folyamatosan karbantartani, hogy azok megrágásuk esetén se okozhassanak sérülést az állatoknak, valamint az állatok fájdalom- és sérülésmentesen kivehetők legyenek.
 
 ## 1.9. A ketrecek padozata úgy legyen kialakítva, hogy az állatok ne érintkezzenek ürülékkel.
 
@@ -56,7 +56,7 @@
 
 ## 2.7. Az elletőládát, és a benne levő szopósnyulakat rendszeresen ellenőrizni kell.
 
-## 2.8.[^116] A szoptató anyanyulak számára folyamatos takarmányellátást kell biztosítani.
+## 2.8.[^118] A szoptató anyanyulak számára folyamatos takarmányellátást kell biztosítani.
 
 ## 3. Baknyulak tartásának minimális követelményei
 
@@ -76,8 +76,8 @@
 
 ## 4.5. Nyolc nyúlnál több állat együtt tartása esetén a tartási helyre rágófát kell tenni az agresszív viselkedés mérséklése érdekében.
 
-9. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^117]
+9. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^119]
 
-[^115]: [A 8. számú melléklet 1.8. pontjának a 178/2009. (XII. 29.) FVM rendelet 11. § (2) bekezdés c) pontja alapján 2020. január 1-jétől hatályos szövege: „1.8. Lemezes, átláthatatlan oldalfalú ketrecben nyulat tartani – kivéve bakok fedezésekor és ondóvételekor – tilos. Amennyiben az alkalmazott ketrec- vagy fülketípus lehetővé teszi, biztosítani kell az állatok számára, hogy fajtársaikat láthassák.”.]
-[^116]: [A 8. számú melléklet 2.9. pontjának a 178/2009. (XII. 29.) FVM rendelet 11. § (2) bekezdés d) pontja alapján 2016. január 1-jétől hatályos szövege: „ 2.9. Fémrács padozat alkalmazása esetén legalább 25×40 cm nagyságú, lehetőség szerint perforált pihenőlap biztosítása szükséges.”.]
-[^117]: A 9. számú mellékletet a 178/2009. (XII. 29.) FVM rendelet 10. § (7) bekezdése iktatta be.
+[^117]: [A 8. számú melléklet 1.8. pontjának a 178/2009. (XII. 29.) FVM rendelet 11. § (2) bekezdés c) pontja alapján 2020. január 1-jétől hatályos szövege: „1.8. Lemezes, átláthatatlan oldalfalú ketrecben nyulat tartani – kivéve bakok fedezésekor és ondóvételekor – tilos. Amennyiben az alkalmazott ketrec- vagy fülketípus lehetővé teszi, biztosítani kell az állatok számára, hogy fajtársaikat láthassák.”.]
+[^118]: [A 8. számú melléklet 2.9. pontjának a 178/2009. (XII. 29.) FVM rendelet 11. § (2) bekezdés d) pontja alapján 2016. január 1-jétől hatályos szövege: „ 2.9. Fémrács padozat alkalmazása esetén legalább 25×40 cm nagyságú, lehetőség szerint perforált pihenőlap biztosítása szükséges.”.]
+[^119]: A 9. számú mellékletet a 178/2009. (XII. 29.) FVM rendelet 10. § (7) bekezdése iktatta be.

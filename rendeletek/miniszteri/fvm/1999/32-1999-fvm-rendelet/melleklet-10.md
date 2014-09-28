@@ -174,7 +174,7 @@
 
 ## 4.14. Az állatoknak friss vizet kell biztosítani szállításuk teljes időtartama alatt.
 
-10. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^118]
+10. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^120]
 
 ## Az étkezési célra szánt halak tárolásának és szállításának minimális követelményei
 
@@ -190,7 +190,7 @@ c) érzékeny halfajok: azon édesvízi tenyésztett vagy Magyarország termész
 
 d) medence: minden olyan eszköz, amelyben halakat a vásárlóknak való felkínálás és értékesítés céljából tárolnak, beleértve a halszállító tartályt.
 
-e)[^119] levágás: emberi fogyasztásra szánt hal leölése.
+e)[^121] levágás: emberi fogyasztásra szánt hal leölése.
 
 1.2. A halak tárolása, rakodása és szállítása során olyan technológiákat kell alkalmazni, amely biztosítja, hogy az állatok ne sérüljenek.
 
@@ -200,7 +200,7 @@ e)[^119] levágás: emberi fogyasztásra szánt hal leölése.
 
 1.5. Étkezési célra szánt halakat levágásuk előtt minden esetben kábítani kell.
 
-1.6.[^120] Halak kábítására, illetve levágására alkalmazható módszerek:
+1.6.[^122] Halak kábítására, illetve levágására alkalmazható módszerek:
 
 a) fejtetőre mért ütés,
 
@@ -208,13 +208,13 @@ b) elektromos vízfürdő.
 
 2. A halak medencében tárolásának minimális követelményei
 
-2.1.[^121] A halak tárolására szolgáló víztestet kötelező átfolyó vízzel vagy vízvisszaforgatással folyamatosan frissíteni. A víz frissítését úgy kell kivitelezni, hogy az oxigéndús levegő finom buborékok formájában, porlasztva jusson a vízbe. A víz be- és kiáramlását úgy kell szabályozni, hogy az oxigéndús víz a medence minden részében elkeveredjen. Az oxigénben gazdag vizet a medence alján vagy az attól függőlegesen számított 30 cm-en belül kell bevezetni.
+2.1.[^123] A halak tárolására szolgáló víztestet kötelező átfolyó vízzel vagy vízvisszaforgatással folyamatosan frissíteni. A víz frissítését úgy kell kivitelezni, hogy az oxigéndús levegő finom buborékok formájában, porlasztva jusson a vízbe. A víz be- és kiáramlását úgy kell szabályozni, hogy az oxigéndús víz a medence minden részében elkeveredjen. Az oxigénben gazdag vizet a medence alján vagy az attól függőlegesen számított 30 cm-en belül kell bevezetni.
 
 2.2. A medencét és berendezéseit könnyen tisztíthatóan és fertőtleníthetően kell kialakítani, a medence belső felületének simának kell lennie. A medencét, és a medencéhez tartozó berendezéseket is rendszeresen tisztítani, megfelelő működésüket ellenőrizni kell. Tisztítóanyagok használata után tiszta, friss vízzel ki kell öblíteni a medencét.
 
 2.3. A medencét közvetlen napfény nem érheti, a megfelelő árnyékolásról gondoskodni kell. Mesterséges megvilágítás esetén a fénysugár felülről merőlegesen hatolva jusson be a vízbe, hogy a halak természetes testtartásban helyezkedjenek el.
 
-2.4.[^122] A medencék betelepítésének és kiürítésének dátumáról, a betelepített halak fajáról és számáról, valamint az elpusztult vagy levágott halak számáról naprakész nyilvántartást kell vezetni.
+2.4.[^124] A medencék betelepítésének és kiürítésének dátumáról, a betelepített halak fajáról és számáról, valamint az elpusztult vagy levágott halak számáról naprakész nyilvántartást kell vezetni.
 
 2.5. A medencében 1000 literenként mérsékelten érzékeny halfajok esetén legfeljebb 200 kg élő hal, érzékeny halfajok esetén legfeljebb 100 kg élő hal tartható.
 
@@ -242,8 +242,8 @@ b) 10–20 °C közötti vízhőmérsékleten mérsékelten érzékeny halfajok 
 
 c) 20 °C feletti vízhőmérsékleten mérsékelten érzékeny halfajok szállítása esetén legfeljebb 300 kg hal vízköbméterenként, érzékeny halfajok szállítása esetén legfeljebb 100 kg hal vízköbméterenként.
 
-[^118]: A 10. számú mellékletet a 178/2009. (XII. 29.) FVM rendelet 10. § (7) bekezdése iktatta be.
-[^119]: A 10. számú melléklet 1.1. pont e) alpontját a 31/2010. (XI. 18.) VM rendelet 10. § (2) bekezdése iktatta be.
-[^120]: A 10. számú melléklet 1.6. pont nyitó szövegrésze a 31/2010. (XI. 18.) VM rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^121]: A 10. számú melléklet 2.1. pontja a 31/2010. (XI. 18.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^122]: A 10. számú melléklet 2.4. pontja a 31/2010. (XI. 18.) VM rendelet 9. § (3) bekezdése szerint módosított szöveg.
+[^120]: A 10. számú mellékletet a 178/2009. (XII. 29.) FVM rendelet 10. § (7) bekezdése iktatta be.
+[^121]: A 10. számú melléklet 1.1. pont e) alpontját a 31/2010. (XI. 18.) VM rendelet 10. § (2) bekezdése iktatta be.
+[^122]: A 10. számú melléklet 1.6. pont nyitó szövegrésze a 31/2010. (XI. 18.) VM rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^123]: A 10. számú melléklet 2.1. pontja a 31/2010. (XI. 18.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^124]: A 10. számú melléklet 2.4. pontja a 31/2010. (XI. 18.) VM rendelet 9. § (3) bekezdése szerint módosított szöveg.

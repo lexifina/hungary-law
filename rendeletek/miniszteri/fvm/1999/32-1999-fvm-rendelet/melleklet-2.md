@@ -1,3 +1,3 @@
-2. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^55]
+2. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^56]
 
-[^55]: A 2. számú melléklet a 178/2009. (XII. 29.) FVM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^56]: A 2. számú melléklet a 178/2009. (XII. 29.) FVM rendelet 10. § (2) bekezdésével megállapított szöveg.
