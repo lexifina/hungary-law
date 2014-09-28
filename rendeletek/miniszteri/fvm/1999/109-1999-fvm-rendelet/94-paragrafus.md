@@ -1,4 +1,4 @@
-94. §[^220] (1) A település belterülete és külterülete közötti fekvéshatár-változás átvezetésére az adatváltozások átvezetésére, illetve az ingatlan megosztására vonatkozó szabályokat kell megfelelően alkalmazni.
+94. §[^222] (1) A település belterülete és külterülete közötti fekvéshatár-változás átvezetésére az adatváltozások átvezetésére, illetve az ingatlan megosztására vonatkozó szabályokat kell megfelelően alkalmazni.
 
 (2) Ha a fekvéshatár-változás termőföldet érint, úgy a belterület és külterület közötti fekvéshatár-változás ingatlan-nyilvántartási átvezetéséhez
 
@@ -10,4 +10,4 @@ is szükséges.
 
 (3) A (2) bekezdés szerinti fekvéshatár-változás ingatlan-nyilvántartási átvezetésére csak akkor kerülhet sor, ha az adatváltozás átvezetését az erre irányuló bejelentésben a (2) bekezdés a) pontjában meghatározott jogerős határozatban szereplő valamennyi földrészlet vonatkozásában kérik.
 
-[^220]: A 94. § az 57/2013. (VI. 29.) VM rendelet 4. §-ával megállapított szöveg.
+[^222]: A 94. § az 57/2013. (VI. 29.) VM rendelet 4. §-ával megállapított szöveg.

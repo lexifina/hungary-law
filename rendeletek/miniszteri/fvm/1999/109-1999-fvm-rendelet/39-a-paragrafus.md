@@ -1,8 +1,8 @@
 ## 39. § A jogerős hatósági vagy bírósági határozattal megállapított tartós környezetkárosodás tényét, mértékét és jellegét egész ingatlanra, illetőleg annak természetben kijelölt vagy területi mértékben meghatározott részére lehet bejegyezni.
 
-## 35.[^103] Jogi jelleg
+## 35.[^105] Jogi jelleg
 
-39/A. §[^104] (1) Az ingatlan jogi jellegeként feljegyezhető
+39/A. §[^106] (1) Az ingatlan jogi jellegeként feljegyezhető
 
 a) a társasház;
 
@@ -36,5 +36,5 @@ l) olyan egyéb, a tulajdonjog közérdekű korlátozásával járó tény, amel
 
 (5) Az Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg az 1 hektárnál kisebb belterületi földrészleten csak az egész ingatlanra jegyezhető fel.
 
-[^103]: A 39/A. §-t megelőző alcímet a 117/2005. (XII. 19.) FVM rendelet 15. §-a iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 42. §-ával megállapított szöveg.
-[^104]: A 39/A. §-t a 117/2005. (XII. 19.) FVM rendelet 15. §-a iktatta be, szövege a 148/2012. (XII. 28.) VM rendelet 6. §-ával megállapított szöveg.
+[^105]: A 39/A. §-t megelőző alcímet a 117/2005. (XII. 19.) FVM rendelet 15. §-a iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 42. §-ával megállapított szöveg.
+[^106]: A 39/A. §-t a 117/2005. (XII. 19.) FVM rendelet 15. §-a iktatta be, szövege a 148/2012. (XII. 28.) VM rendelet 6. §-ával megállapított szöveg.

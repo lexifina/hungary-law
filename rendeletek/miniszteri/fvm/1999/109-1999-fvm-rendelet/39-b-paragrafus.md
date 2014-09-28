@@ -1,3 +1,3 @@
-## 36.[^105] Az ingatlan-nyilvántartási eljárás felfüggesztésének ténye
+## 36.[^107] Az ingatlan-nyilvántartási eljárás felfüggesztésének ténye
 
-[^105]: A 39/B. §-t megelőző alcímet a 117/2005. (XII. 19.) FVM rendelet 16. §-a iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 43. §-ával megállapított szöveg.
+[^107]: A 39/B. §-t megelőző alcímet a 117/2005. (XII. 19.) FVM rendelet 16. §-a iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 43. §-ával megállapított szöveg.

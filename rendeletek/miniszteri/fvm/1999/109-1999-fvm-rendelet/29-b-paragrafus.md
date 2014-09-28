@@ -1,0 +1,37 @@
+29/B. § (1) A tény feljegyzését kérhetik a szerződő felek, valamint a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti elővásárlási jog gyakorlása érdekében hirdetményi úton közlésre került jogügylet (a továbbiakban: kifüggesztéshez kötött jogügylet) esetén az elővásárlási és előhaszonbérleti jog gyakorlása érdekében az adásvételi és a haszonbérleti szerződés hirdetményi úton történő közlésére vonatkozó eljárási szabályokról szóló kormányrendeletben (a továbbiakban: elővásárlási kormányrendelet) meghatározottak szerint jognyilatkozatot tevő jogosult is.
+
+(2) A tény feljegyzése iránti kérelemhez csatolni kell
+
+a) a szerződő felek által benyújtott kérelem esetében a tv., valamint az e rendelet szerinti alaki előírásoknak megfelelő – nem biztonsági okmányon szerkesztett – szerződés egy eredeti példányát, valamint
+
+aa) a kizárólag hatósági jóváhagyáshoz kötött szerződés esetén a jóváhagyás megadására irányuló kérelem másolatának érkeztetett eredeti példányával igazolni kell annak benyújtását,
+
+ab) a kifüggesztéshez kötött jogügylet esetében nyilatkozni kell az elővásárlási kormányrendeletben meghatározott elektronikus tájékoztató közzétételének időpontjáról,
+
+b) az elővásárlási jog gyakorlására jogosult által benyújtott kérelem esetében a határidőben megtett és a jegyző által aláírt elfogadó jognyilatkozatát másolatban.
+
+(3) A járási földhivatal a (2) bekezdés a) pontjának ab) alpontjában meghatározott nyilatkozat valóságtartalmát az elektronikus tájékoztató alapján ellenőrzi. Ha a tájékoztató alapján nem állapítható meg a kifüggesztés megtörténte, a kérelmezőt felhívja annak igazolására. Ha a kérelmező nem tudja igazolni a kifüggesztés megtörténtét, a tényfeljegyzésre vonatkozó kérelmet a járási földhivatal elutasítja.
+
+(4) Hivatalból törölni kell a 29/A. § (1) bekezdése szerinti tényt és a feljegyzését követően függő hatállyal történt jogbejegyzések esetében
+
+a) a bejegyzés függő hatályára történő utalást
+
+aa) a tulajdonjog bejegyzési kérelem elutasításáról, vagy az eljárás megszüntetéséről szóló döntés esetén a döntés meghozatalával egyidejűleg,
+
+ab) a hatósági jóváhagyás megtagadása, a kérelem érdemi vizsgálat nélküli elutasítása, vagy az eljárás megszüntetése esetén az (5) bekezdés szerinti tájékoztatástól számított 15 napon belül, vagy
+
+ac) a hatósági jóváhagyáshoz nem kötött jogügylet esetében a tény feljegyzése iránti kérelem benyújtását követő 6 hónap elteltével,
+
+b) a függő hatállyal bejegyzett jogokat a tulajdonjog bejegyzési kérelem alapján történő tulajdonosváltozás bejegyzésével egyidejűleg.
+
+(5) A járási földhivatal minden hónap tizenötödik napjáig megkeresi a hatósági jóváhagyás megadására jogosult szervet – a tényfeljegyzéssel érintett ingatlanok listája megküldésével – a hatósági jóváhagyás megtagadásáról, a kérelem érdemi vizsgálat nélküli elutasításáról, továbbá az eljárás megszüntetéséről szóló jogerős döntésekről történő tájékoztatás érdekében.
+
+(6) Kérelemre a tény csak akkor törölhető az ingatlan-nyilvántartásból, ha
+
+a) a kifüggesztéshez kötött jogügylet esetén az elővásárlási jog gyakorlása érdekében nyilatkozattételre nyitva álló határidő elteltét követően a kérelmező a jegyző által kiállított iratjegyzék másolatával igazolja a szerződés közlésének megtörténtét és ahhoz a vevő, valamint az elővásárlási jogának gyakorlása érdekében határidőben nyilatkozatot tevő valamennyi jogosult írásban hozzájárult,
+
+b) a kizárólag hatósági jóváhagyáshoz kötött jogügylet esetén a felek a törléshez írásban hozzájárultak.
+
+(7) A tényfeljegyzés törléséről szóló határozatban meg kell jelölni azokat az időközi bejegyzéseket és azok számát, amelyekre vonatkozóan a függő hatály megszűnik.
+
+(8) A tény feljegyzéséről, valamint a tény törléséről szóló határozatot a kérelmezőnek, valamint a szerződő feleknek kell kézbesíteni.

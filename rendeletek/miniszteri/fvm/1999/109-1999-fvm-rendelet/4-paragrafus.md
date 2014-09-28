@@ -32,11 +32,11 @@ h)[^11] olyan egyéb jog, amelynek bejegyzését törvény rendeli el.
 
 ténye az ügyszám megjelölésével,
 
-3. a külföldi székhelyű vállalkozás fióktelepének, kereskedelmi képviseletének cégnyilvántartásból történő törlésének ténye,
+3. a külföldi székhelyű vállalkozás fióktelepe, kereskedelmi képviselete cégnyilvántartásból történő törlésének ténye,
 
 4. bírósági ítéleten alapuló tulajdoni korlátozás,
 
-5. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelésének ténye, valamint egyéb építésügyi korlátozás,
+5. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelésének ténye, valamint egyéb építésügyi korlátozás ténye, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés ténye, valamint önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség ténye,
 
 6. kisajátítási eljárás megindításának ténye,
 
@@ -48,21 +48,21 @@ ténye az ügyszám megjelölésével,
 
 10. ingatlan-nyilvántartási hatósági döntéssel szembeni
 
-10.1. fellebbezés,
+10.1. fellebbezés benyújtásának,
 
-10.2. bírósági jogorvoslati kérelem,
+10.2. bírósági jogorvoslati kérelem benyújtásának,
 
 10.3. ügyészi felhívás benyújtásának,
 
-10.4. ügyészi fellépés bejelentésének
+10.4. ügyészi fellépés bejelentésének,
+
+10.5. felügyeleti eljárás megindításának
 
 ténye,
 
-10.5. felügyeleti eljárás megindításának ténye,
+11. a bejegyzés, a feljegyzés és az adatváltozás átvezetése alapjául szolgáló, vagy azzal kapcsolatos bírósági döntés elleni felülvizsgálati, illetve perújítási kérelem benyújtásának ténye,
 
-11. a bejegyzés, a feljegyzés és az adatváltozás átvezetése alapjául szolgáló, vagy azzal kapcsolatos bírósági döntés elleni felülvizsgálati kérelem benyújtásának ténye,
-
-12. szerződésen, végintézkedésen, jogszabályon, bírósági vagy hatósági határozaton alapuló
+12. szerződésen, végintézkedésen, bírósági vagy hatósági határozaton alapuló
 
 12.1. elidegenítési és terhelési tilalom,
 
@@ -102,31 +102,23 @@ megindításának ténye,
 
 ténye,
 
-23. a társasházakról szóló törvény szerinti,
+23. a társasházakról szóló törvény szerinti, a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább kétharmadát feljogosító alapító okirat elfogadása, módosítása, továbbá az elfogadás, illetve a módosítás időpontja,
 
-23.1. a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább kétharmadát feljogosító alapító okirat elfogadása, módosítása,
+24. a földhasználati jog gyakorlása szerződéses szabályozásának ténye,
 
-23.2. a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább négyötödét feljogosító alapító okirat elfogadása, módosítása,
+25. bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog,
 
-továbbá az elfogadás, illetve a módosítás időpontja,
+26. a tv.-ben meghatározott megismételt hagyatéki eljárás megindítása,
 
-24. földminősítési mintatér megjelölése,
+27. nemzeti emlékhely ténye,
 
-25. helyi építészeti örökségvédelem ténye,
+28. történelmi emlékhely ténye,
 
-26. a földhasználati jog gyakorlása szerződéses szabályozásának ténye,
+29. pénzügyi lízingbeadás ténye,
 
-27. bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog,
+30. föld tulajdonjogának átruházására irányuló szerződés benyújtásának ténye,
 
-28. a tv.-ben meghatározott megismételt hagyatéki eljárás megindítása,
-
-29. nemzeti emlékhely ténye,
-
-30. történelmi emlékhely ténye,
-
-31. lízingbeadás ténye,
-
-32. olyan egyéb tény, amelynek feljegyzését – a tv. 2. § (2) bekezdése alapján – törvény elrendeli.
+31. olyan egyéb tény, amelynek feljegyzését – a tv. 2. § (2) bekezdése alapján – törvény elrendeli.
 
 (3) A tulajdoni lap III. része tartalmazza továbbá az ingatlan III. részen szereplő adataihoz, vagy a III. részen bejegyzett jogokhoz, feljegyzett tényekhez, illetve azok jogosultjaihoz kapcsolódó következő adatokat.
 
@@ -156,5 +148,5 @@ h) kiegészítő szöveges bejegyzés.
 [^9]: A 4. § (1) bekezdés e) pontja a 21/2014. (III. 14.) VM rendelet 28. § a) pontja szerint módosított szöveg.
 [^10]: A 4. § (1) bekezdés g) pontja a 21/2014. (III. 14.) VM rendelet 28. § b) pontja szerint módosított szöveg.
 [^11]: A 4. § (1) bekezdés h) pontját a 148/2012. (XII. 28.) VM rendelet 1. § (1) bekezdése iktatta be.
-[^12]: A 4. § (2) bekezdése a 21/2014. (III. 14.) VM rendelet 2. §-ával megállapított szöveg.
+[^12]: A 4. § (2) bekezdése a 13/2014. (IX. 25.) FM rendelet 1. §-ával megállapított szöveg.
 [^13]: A 4. § (3a) bekezdését a 148/2012. (XII. 28.) VM rendelet 1. § (3) bekezdése iktatta be.
