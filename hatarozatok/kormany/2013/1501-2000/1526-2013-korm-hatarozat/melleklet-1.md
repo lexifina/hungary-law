@@ -1,6 +1,6 @@
 ## 1. a sport és az azon keresztül megvalósuló egészségtudatos életmód támogatását hasznos és megtérülő társadalmi befektetésnek tekinti, elkötelezett a magyar sport fejlesztése mellett, ezért a Magyar Olimpiai Bizottság (a továbbiakban: MOB) által sportszakmai szempontok alapján kiválasztott – a 3. pontban nevesített – kiemelt sportágak sportágfejlesztési koncepcióit megtárgyalta és elfogadta, valamint döntött a sportágfejlesztési koncepciók 2013. évi támogatásáról,
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva az egyes kiemelt sportágak 2013. évi sportágfejlesztési koncepciójának megvalósításához a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet
+## 2.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva az egyes kiemelt sportágak 2013. évi sportágfejlesztési koncepciójának megvalósításához a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet
 
 ## a) XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára 2793,7 millió forint,
 
@@ -24,49 +24,49 @@
 
 ## nemzeti fejlesztési miniszter
 
-## Határidő: 2014. március 31., illetve a d) pont tekintetében 2013. december 31.
+## Határidő: az a) alpont tekintetében 2015. június 30., a b) alpont tekintetében 2014. október 31., a c) alpont tekintetében 2015. június 30., a d) alpont tekintetében 2013. december 31.
 
-## 3. a 2. pont szerinti költségvetési forrásból:
+## 3.[^2] a 2. pont szerinti költségvetési forrásból:
 
-## a) a Magyar Asztalitenisz Szövetség részére 43,7 millió forint,
+## a) a Magyar Asztalitenisz Szövetség részére 36,0 millió forint,
 
-## b) a Magyar Atlétikai Szövetség részére 314,5 millió forint,
+## b) a Magyar Atlétikai Szövetség részére 298,1 millió forint,
 
-## c) a Magyar Birkózó Szövetség részére 459,1 millió forint,
+## c) a Magyar Birkózó Szövetség részére 399,0 millió forint,
 
-## d) a Magyar Evezős Szövetség részére 93,3 millió forint,
+## d) a Magyar Evezős Szövetség részére 85,5 millió forint,
 
-## e) a Magyar Judó Szövetség részére 250,4 millió forint,
+## e) a Magyar Judó Szövetség részére 207,7 millió forint,
 
-## f) a Magyar Kajak-Kenu Szövetség részére 336,3 millió forint,
+## f) a Magyar Kajak-Kenu Szövetség részére 210,2 millió forint,
 
-## g) a Magyar Kerékpársportok Országos Szövetsége részére 94,4 millió forint,
+## g) a Magyar Kerékpársportok Szövetsége részére 90,5 millió forint,
 
-## h) a Magyar Országos Korcsolyázó Szövetség részére 211,2 millió forint,
+## h) a Magyar Országos Korcsolyázó Szövetség részére 197,6 millió forint,
 
-## i) a Magyar Ökölvívó Szakszövetség részére 295,2 millió forint,
+## i) a Magyar Ökölvívó Szakszövetség részére 262,2 millió forint,
 
-## j) a Magyar Öttusa Szövetség részére 304,9 millió forint,
+## j) a Magyar Öttusa Szövetség részére 266,2 millió forint,
 
 ## k) a Magyar Röplabda Szövetség részére 119,5 millió forint,
 
-## l) a Magyar Sportlövők Szövetsége részére 65,5 millió forint,
+## l) a Magyar Sportlövők Szövetsége részére 48,0 millió forint,
 
-## m) a Magyar Tenisz Szövetség részére 107,5 millió forint,
+## m) a Magyar Tenisz Szövetség részére 103,6 millió forint,
 
-## n) a Magyar Torna Szövetség részére 295,3 millió forint,
+## n) a Magyar Torna Szövetség részére 272,5 millió forint,
 
-## o) a Magyar Úszó Szövetség részére 736,5 millió forint,
+## o) a Magyar Úszó Szövetség részére 639,6 millió forint,
 
-## p) a Magyar Vívó Szövetség részére 301,6 millió forint,
+## p) a Magyar Vívó Szövetség részére 214,4 millió forint,
 
-## q) egyéb sportágakban a Kiemelt edzők foglalkoztatásának feladataihoz 88,6 millió forint,
+## q) a Magyar Olimpiai Bizottság részére a Kiemelt edzők foglalkoztatásának feladataihoz 666,9 millió forint,
 
 ## r) sportlétesítmény-fejlesztésre 4278,0 millió forint,
 
-## s) a felzárkóztatási alap terhére 300,0 millió forint
+## s) felzárkóztatási alap terhére 300,0 millió forint
 
-## támogatást nyújt a sportágak támogatására azzal, hogy az a)–p) alpontokban meghatározott támogatási összegek magukban foglalják a MOB által ellátott, a Kiemelt edzők foglalkoztatásához kapcsolódó költségeket is,
+## támogatást nyújt.
 
 ## 4. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a 2. pont szerinti támogatás felhasználásának biztosításáról, valamint a támogatások felhasználásának ellenőrzéséről,
 
@@ -237,3 +237,6 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^1]: A 2. pont az 1547/2014. (IX. 29.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^2]: A 3. pont az 1547/2014. (IX. 29.) Korm. rendelet 7. pontjával megállapított szöveg.
