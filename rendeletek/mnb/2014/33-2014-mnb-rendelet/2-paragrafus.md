@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 90% réz és 10% cink ötvözetéből készült, súlya 18,4 gramm, átmérője 37 mm, széle recézett.
+
+(2) Az emlékérme előlapján, a középmezőben a Somogyváron feltárt, griffmadarat formázó kő dombormű ábrázolása látható. Az emlékérme szélén, felső köriratban a „MAGYARORSZÁG”, alsó köriratban a „FORINT” felirat, fölötte vízszintesen a „2000” értékjelzés olvasható. Az emlékérme szélén, bal oldalon, középen a „BP.” verdejel, jobb oldalon, középen a „2014” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, középen a somogyvári Kupavár-hegyre épült Szent Egyed-bazilika és bencés apátság alaprajzának ábrázolása látható, háttérben a rekonstruált kerengő-részlettel. Az emlékérme szélén, felső köriratban a „SOMOGYVÁR-KUPAVÁR”, alsó köriratban a „NEMZETI EMLÉKHELY” felirat olvasható. Az alsó és a felső köriratot bal oldalon, középen a nemzeti emlékhelyek emblémájának ábrázolása, jobb oldalon, középen Tóth Zoltán tervezőművész mesterjegye választja el. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
