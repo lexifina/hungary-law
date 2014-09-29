@@ -1,6 +1,6 @@
 ## 1. döntött a nagy hagyományokkal rendelkező, sikeres fővárosi sportegyesületek – Budapesti Honvéd Sportegyesület (BHSE), Budapesti Vasutas Sport Club (BVSC), Ferencvárosi Torna Club (FTC), Magyar Testgyakorlók Köre (MTK), Újpesti Torna Egylet (UTE) és Vasas Sport Club (Vasas) – sportfejlesztési stratégiái megvalósításának elősegítéséről;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Magyar Testgyakorlók Köre 2013. évi sportszakmai többletfeladatainak támogatására 1150,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím,
+## 2.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Magyar Testgyakorlók Köre 2013. évi sportszakmai többletfeladatainak támogatására 1150,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím,
 
 ## a) 23. Sporttevékenység támogatása alcím, 29. Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása, valamint sportszövetségek adósságrendezése jogcímcsoport; valamint
 
@@ -18,7 +18,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2014. június 30.
+## Határidő: 2014. október 31.
 
 ## 3. felhívja az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy az éves központi költségvetések tervezése során gondoskodjon a Magyar Testgyakorlók Köre 2014–2020. közötti sportszakmai többletfeladatai ellátásához szükséges forrásigények biztosításáról;
 
@@ -153,3 +153,5 @@
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont az 1547/2014. (IX. 29.) Korm. határozat 9. pontja szerint módosított szöveg.
