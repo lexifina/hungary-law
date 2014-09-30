@@ -1,0 +1,3 @@
+44. § Az Mttv. 187. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az (1)–(3) bekezdés alkalmazásában ismételtségnek tekintendő, ha a jogsértő a jogerős hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és jogszabályhely tekintetében, ugyanazon tárgykörben, háromszázhatvanöt napon belül ismételten megvalósítja, ide nem értve a csekély súlyú törvénysértéseket. A 20–21. §-ban, a 22. § (2) bekezdésében, a 22. § (3) bekezdésében, a 22. § (5) bekezdésében és a 22. § (6) bekezdésében foglaltak megsértése esetén ismételtségnek az tekintendő, ha a jogsértő a jogerős hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és jogszabályhely tekintetében három éven belül ismételten megvalósítja.”

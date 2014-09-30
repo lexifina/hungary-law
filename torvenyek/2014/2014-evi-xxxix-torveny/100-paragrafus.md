@@ -1,0 +1,5 @@
+100. § Az Szhitv. 17/S. §-a helyébe a következő rendelkezés lép:
+
+„17/S. § (1) Szövetkezeti hitelintézet átalakulása vagy cégformájának megváltoztatása a Takarékbank Zrt. igazgatóságának előzetes hozzájárulásához kötött. A Takarékbank Zrt. igazgatósága nem tagadhatja meg az előzetes hozzájárulást, ha az átalakulás vagy a cégforma megváltoztatása a szövetkezeti hitelintézet fizetőképességét, üzleti tervének teljesítését vagy az egyedi alapon megállapított szavatoló tőke szint elérését nem veszélyezteti. A Takarékbank Zrt. igazgatósága megtagadja az előzetes hozzájárulást, ha az adott szövetkezeti hitelintézet 19. § (5) bekezdése szerinti vizsgálata még nem ért véget, illetve ha az véget ért, de az – illetve a 15. § (16) bekezdése szerinti vizsgálat – tőkepótlás szükségességét állapította meg és ez még nem került végrehajtásra, vagy a tervezett intézkedés a betétesek vagy az egyetemlegességben tag más szövetkezeti hitelintézetek érdekeit veszélyeztetheti.
+
+(2) Szövetkezeti hitelintézet átalakulása vagy cégformájának megváltoztatása esetén a lekötött tartalékba helyezett, fel nem osztható vagyont a jogutód lekötött tartalékába kell helyezni.”

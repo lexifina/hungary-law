@@ -1,0 +1,3 @@
+74. § A Ht. 12. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A nemzeti köznevelésről szóló 2011. évi CXC törvény 7. § (1) bekezdés a)–h) pontja szerinti nevelési-oktatási intézmény papírhulladék gyűjtése céljából évente legfeljebb 2 alkalommal, és alkalmanként legfeljebb 5 nap időtartamban papírhulladék-gyűjtési kampányt szervezhet, amelynek során a papírhulladékot a vele jogviszonyban álló gyermektől, tanulótól gyűjtésre vonatkozó hulladékgazdálkodási engedély nélkül, a területén kialakított átvételi helyen átveheti. Az átvett papírhulladék kezeléséről a nevelési-oktatási intézmény a 31. § (2) bekezdése szerint gondoskodik.”
