@@ -14,7 +14,9 @@
 
 a) a 2013. évben a 9700,0 millió forintot,
 
-b) a 2014. évben a 7000,0 millió forintot
+b) a 2014. évben a 7000,0 millió forintot,
+
+c) a 2015. évben a 12 000,0 millió forintot
 
 nem haladhatja meg.
 
