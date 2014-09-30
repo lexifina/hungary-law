@@ -40,7 +40,11 @@
 
 19. az általa irányított vagy felügyelt költségvetési szervek, alapított közalapítványok, valamint az állami tulajdonú gazdálkodó szervezetek vonatkozásában, az uniós értékhatárokat el nem érő árubeszerzésekre, valamint szolgáltatás megrendelésekre e törvény 123. §-ának alkalmazásában kötelezően alkalmazandó eljárási szabályokat;
 
-20. a közbeszerzési eljárás valamennyi szakaszára kiterjedő környezetvédelmi, fenntarthatósági és energiahatékonysági követelmények tekintetében előírható részletes szabályokat, valamint az általa irányított vagy felügyelt költségvetési szervek, alapított közalapítványok, valamint az állami tulajdonú gazdálkodó szervezetek vonatkozásában a környezetvédelmi, fenntarthatósági és energiahatékonysági szempontoknak a közbeszerzésben történő érvényesítése kötelező eseteit és módját.
+20. a közbeszerzési eljárás valamennyi szakaszára kiterjedő környezetvédelmi, fenntarthatósági és energiahatékonysági követelmények tekintetében előírható részletes szabályokat, valamint az általa irányított vagy felügyelt költségvetési szervek, alapított közalapítványok, valamint az állami tulajdonú gazdálkodó szervezetek vonatkozásában a környezetvédelmi, fenntarthatósági és energiahatékonysági szempontoknak a közbeszerzésben történő érvényesítése kötelező eseteit és módját;
+
+21. a kormányzati kommunikációs feladatok ellátásához kapcsolódó központosított eljárások részletes szabályait, a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet részére fizetendő, kizárólag a végrehajtással felmerülő költségeket fedező díj mértékét;
+
+22. a kormányzati kommunikációs feladatok ellátását biztosító kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek közbeszerzésének – e törvénytől az ilyen eljárások sajátosságai miatt eltérő – szabályait.
 
 (2) Felhatalmazást kap a közbeszerzésekért felelős miniszter, hogy rendeletben szabályozza
 

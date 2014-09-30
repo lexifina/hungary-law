@@ -58,15 +58,11 @@ c) jogosult arra, hogy a vezető tisztségviselők (döntéshozók, ügyvezetők
 
 a) postaszolgálat-irányítási szolgáltatások (a postai feladást megelőző és a kézbesítést követő küldeményrendező szolgáltatások);
 
-b) elektronikus postával összefüggő és teljes mértékben elektronikus úton nyújtott hozzáadott-értékű szolgáltatások (beleértve kódolt dokumentumok elektronikus úton történő biztonságos továbbítását, a címkezelési szolgáltatásokat és ajánlott elektronikus levelek továbbítását is);
+b)
 
 c) a 17. pont alá nem tartozó postai küldeményhez (így például címzés nélküli közvetlen küldeményhez) kapcsolódó szolgáltatások;
 
-d) a 3. melléklet 6. csoportjában és a 9. § (5) bekezdés b) pontjában meghatározott pénzügyi szolgáltatások, beleértve a pénzforgalmi szolgáltatást;
-
-e) bélyeggyűjtői (filatéliai) szolgáltatások;
-
-f) postai küldeményekkel kapcsolatos logisztikai szolgáltatások (a fizikai kézbesítést, valamint a raktározást egyéb, nem postai funkciókkal vegyítő szolgáltatások);
+d)–f)
 
 19. részvételre jelentkező: az a gazdasági szereplő, aki (amely) a több szakaszból álló közbeszerzési eljárás első, részvételi szakaszában részvételi jelentkezést nyújt be;
 

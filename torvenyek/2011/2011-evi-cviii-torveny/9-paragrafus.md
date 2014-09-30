@@ -38,6 +38,16 @@ m) a 2013. évi CXXXV. törvénnyel létrehozott Szövetkezeti Hitelintézetek I
 
 (4) Az (1) bekezdés ka) és a kb) pontjaiban rögzített feltételeknek a szerződés teljes időtartama alatt fenn kell állniuk. Amennyiben az (1) bekezdés ka) és a kb) pontjaiban rögzített feltételek már nem állnak fenn, ajánlatkérő a szerződést olyan határidővel jogosult és köteles felmondani, hogy a közfeladat ellátásáról (közbeszerzési eljárás lefolytatásáról) gondoskodni tudjon.
 
+(4a) E törvényt nem kell alkalmazni a 114. § (2) bekezdés d) pontjában meghatározott szolgáltatást nyújtó szervezet következő tevékenységek célját szolgáló beszerzései vonatkozásában:
+
+a) elektronikus postával összefüggő és teljes mértékben elektronikus úton nyújtott hozzáadott-értékű szolgáltatások (beleértve kódolt dokumentumok elektronikus úton történő biztonságos továbbítását, a címkezelési szolgáltatásokat és ajánlott elektronikus levelek továbbítását),
+
+b) a 66100000-1 és 66720000-3 közötti CPV-kódok alatti és az értékpapírok és egyéb pénzügyi eszközök kibocsátásával, vételével, eladásával vagy átruházásával kapcsolatos pénzügyi szolgáltatás a pénzügyi eszközök piacairól, a 85/611/EGK, és a 93/6/EGK tanácsi irányelv és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 93/22/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2004. április 21-i 2004/39/EK európai parlamenti és tanácsi irányelv értelmében, valamint az Európai Pénzügyi Stabilitási Eszköz és az európai stabilizációs mechanizmus segítségével végrehajtott műveletek, beleértve a postai pénzesutalványokat és a postai elszámolási számlákról történő átutalásokat,
+
+c) bélyeggyűjtői szolgáltatások, vagy
+
+d) logisztikai szolgáltatások (a fizikai kézbesítést, illetve a raktározást egyéb, nem postai funkciókkal vegyítő szolgáltatások).
+
 (5) E törvény szerinti eljárást – ha a közbeszerzés tárgya szolgáltatás megrendelés – nem kell alkalmazni a következő esetekben:
 
 a) meglévő építmény vagy egyéb ingatlan vétele vagy ingatlanra vonatkozó egyéb jognak a megszerzése; kivéve az ilyen szerződéssel összefüggő pénzügyi szolgáltatásra irányuló (bármilyen formában, illetve tartalommal megkötött) szerződést;
@@ -54,7 +64,9 @@ f) kutatási és fejlesztési szolgáltatás; kivéve, ha annak eredményét kiz
 
 g) ha a szolgáltatást a 6. § (1) bekezdés a)–c) pontjaiban meghatározott ajánlatkérők valamelyike vagy általuk létrehozott társulás jogszabály alapján fennálló kizárólagos jog alapján nyújtja;
 
-h) ha valamely közfeladat ellátását egy 6. § (1) bekezdés a)–c) pontja szerinti ajánlatkérő egy másik 6. § (1) bekezdés a)–c) pontok szerinti ajánlatkérőnek adja át olyan módon, hogy az az átruházó ajánlatkérőtől teljesen függetlenül és saját felelősséggel, haszonszerzési cél nélkül végzi a feladat ellátását.
+h) ha valamely közfeladat ellátását egy 6. § (1) bekezdés a)–c) pontja szerinti ajánlatkérő egy másik 6. § (1) bekezdés a)–c) pontok szerinti ajánlatkérőnek adja át olyan módon, hogy az az átruházó ajánlatkérőtől teljesen függetlenül és saját felelősséggel, haszonszerzési cél nélkül végzi a feladat ellátását;
+
+i) kölcsönök, függetlenül attól, hogy értékpapírok vagy egyéb pénzügyi eszközök kibocsátásával, vételével, eladásával vagy átruházásával kapcsolatosak-e.
 
 (6) Az (1) bekezdés a) pontjában meghatározott beszerzésekkel összefüggésben kezelt közérdekű adat, valamint közérdekből nyilvános adat megismerését a 6.§ (1) bekezdés a) és b) pontjában meghatározott ajánlatkérő nemzetbiztonsági érdekből – az adat megismeréséhez és a megismerhetőség kizárásához fűződő közérdek súlyának mérlegelésével, legfeljebb az adat keletkezésétől számított tíz éves időtartam lejártáig – korlátozhatja.
 

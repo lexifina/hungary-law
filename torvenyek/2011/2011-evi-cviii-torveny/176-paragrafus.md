@@ -6,7 +6,17 @@
 
 (4) A Döntőbizottság elnökét és elnökhelyettesét a Tanács a jelen lévő tagok kétharmadának szavazatával, öt évre választja meg. A Döntőbizottság elnökhelyettesét a Tanács a közbeszerzési biztosok közül választja meg, az elnökhelyettes személyére a Döntőbizottság elnöke tesz javaslatot. A Döntőbizottság elnöke és elnökhelyettese újraválasztható.
 
-(5) A Döntőbizottság elnöke az lehet, aki legalább tízéves közbeszerzési és legalább hároméves bírói gyakorlattal vagy legalább tízéves közbeszerzési és legalább hároméves közbeszerzési biztosi gyakorlattal, továbbá jogi szakvizsgával rendelkezik.
+(5) A Döntőbizottság elnöke az lehet,
+
+a) aki jogi szakvizsgával és
+
+aa) legalább ötéves közbeszerzési gyakorlattal vagy
+
+ab) legalább hároméves állami vezetői gyakorlattal, vagy
+
+b) aki legalább hároméves bírói vagy ügyészi gyakorlattal
+
+rendelkezik.
 
 (6) A Döntőbizottság elnökének közszolgálati jogviszonyára a közszolgálati tisztviselőkről szóló törvényt (a továbbiakban: Kttv.) a közbeszerzési biztosok közszolgálati jogviszonyára vonatkozó, e törvényben foglalt eltérésekkel kell alkalmazni.
 
