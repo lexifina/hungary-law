@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-34-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 1991-34-00-00.60 |
 | 2014-07-15 | 2014. évi XXXIII. törvény | 1991-34-00-00.61 |
 | 2014-08-10 | 2014. évi XXXII. törvény | 1991-34-00-00.62 |
+| 2014-09-30 | 2014. évi XXXIX. törvény | 1991-34-00-00.63 |
