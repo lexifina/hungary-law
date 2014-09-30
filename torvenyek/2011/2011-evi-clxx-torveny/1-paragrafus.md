@@ -6,44 +6,48 @@
 
 1. § E törvény és az e törvény felhatalmazása alapján kiadott jogszabály alkalmazásában
 
-a) háztartás: az egy lakóingatlanban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező természetes személyek közössége,
+a) életjáradékra jogosult: az a természetes személy, aki az életjáradék nyújtójával megkötött, ügyvéd által ellenjegyzett szerződés alapján a tulajdonában álló lakóingatlan tulajdonjogát az életjáradék nyújtójára átruházta, ennek fejében haláláig havi rendszerességgel a szerződésben meghatározott pénzösszegre (a továbbiakban: járadék) jogosult,
 
-b) hiteladós: az a természetes személy, akinek pénzügyi intézménnyel szemben jelzáloghitel-szerződésből eredő lejárt és nem teljesített fizetési kötelezettségéből a mindenkori kötelező legkisebb munkabér havi összegének kétszeresét, és 2013. január 1-jén száznyolcvan napot elérő vagy meghaladó késedelmes tartozása áll fenn, ideértve a 2013. január 1-jét megelőzően áthidaló kölcsön nyújtásával finanszírozott jelzáloghitel-szerződésből eredő késedelmes tartozást is, ha az áthidaló kölcsönszerződésből eredő tartozás 2013. január 1-jén fennállt,
+b) életjáradék nyújtója: életjáradéki szerződés megkötésével üzletszerűen foglalkozó olyan magyarországi székhelyű gazdasági társaság, amelynek tevékenységét a pénzügyi közvetítőrendszer felügyeletét ellátó állami hatóság felügyeli,
 
-c) hitelező: az a pénzügyi intézmény és az a pénzügyi intézménynek nem minősülő jogosult, akinek javára a lakóingatlanon jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba,
+c) háztartás: az egy lakóingatlanban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező természetes személyek közössége,
 
-d) jelzáloghitel-szerződés: a hiteladós és a pénzügyi intézmény között létrejött kölcsönszerződés – ideértve az életbiztosítási szerződéssel vagy lakás-előtakarékossági szerződéssel kombinált kölcsönszerződést, továbbá a jogszabályon alapuló állami készfizető kezességvállalással érintett kölcsönszerződéseket is –, amelynek hitelkockázati fedezete Magyarország területén lévő lakóingatlanon alapított jelzálogjog,
+d) hiteladós: az a természetes személy, akinek pénzügyi intézménnyel szemben jelzáloghitel-szerződésből eredő lejárt és nem teljesített fizetési kötelezettségéből a mindenkori kötelező legkisebb munkabér havi összegének kétszeresét, és 2013. január 1-jén száznyolcvan napot elérő vagy meghaladó késedelmes tartozása áll fenn, ideértve a 2013. január 1-jét megelőzően áthidaló kölcsön nyújtásával finanszírozott jelzáloghitel-szerződésből eredő késedelmes tartozást is, ha az áthidaló kölcsönszerződésből eredő tartozás 2013. január 1-jén fennállt,
 
-e) hozzátartozó: a házastárs, élettárs, szülő, gyermek, örökbefogadott, mostoha- és nevelt gyermek, örökbefogadó, mostoha- és nevelőszülő,
+e) hitelező: az a pénzügyi intézmény és pénzügyi intézménynek nem minősülő jogosult, akinek javára a lakóingatlanon jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba,
 
-f) lakóingatlan: a lakás céljára létesített és egy vagy több helyrajzi számon nyilvántartott vagy közös tulajdonban álló, de önállóan forgalomképes, műszakilag összetartozó olyan ingatlan, amely az ingatlan-nyilvántartásban
+f) jelzáloghitel-szerződés: a hiteladós és a pénzügyi intézmény között létrejött kölcsönszerződés – ideértve az életbiztosítási szerződéssel vagy lakás-előtakarékossági szerződéssel kombinált kölcsönszerződést, továbbá a jogszabályon alapuló állami készfizető kezességvállalással érintett kölcsönszerződéseket is –, amelynek hitelkockázati fedezete Magyarország területén lévő lakóingatlanon alapított jelzálogjog,
 
-fa) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel és egyéb építményekkel,
+g) hozzátartozó: a házastárs, élettárs, szülő, gyermek, örökbefogadott, mostoha- és nevelt gyermek, örökbefogadó, mostoha- és nevelőszülő,
 
-fb) tanyaként feltüntetett lakó-, gazdasági épület, épületcsoport az azonos helyrajzi szám alatt hozzá tartozó földrészlettel,
+h) lakóingatlan: a lakás céljára létesített és egy vagy több helyrajzi számon nyilvántartott vagy közös tulajdonban álló, de önállóan forgalomképes, műszakilag összetartozó olyan ingatlan, amely az ingatlan-nyilvántartásban
 
-g) pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is,
+ha) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel és egyéb építményekkel,
 
-h) lakhatási célú ingatlan: az állam által épített és az állam tulajdonába tartozó olyan ingatlan, amely a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosítását szolgálja,
+hb) tanyaként feltüntetett lakó-, gazdasági épület, épületcsoport az azonos helyrajzi szám alatt hozzá tartozó földrészlettel,
 
-i) természetes személy:
+i) pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is,
 
-ia) a magyar állampolgár és az a személy, akit törvény alapján a magyar állampolgár jogai illetnek meg,
+j) lakhatási célú ingatlan: az állam által épített és az állam tulajdonába tartozó olyan ingatlan, amely a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosítását szolgálja,
 
-ib) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint – Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint Magyarországon bejelentett lakóhellyel rendelkezik,
+k) természetes személy:
 
-ic) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján bevándorolt vagy letelepedett jogállással rendelkezik,
+ka) a magyar állampolgár és az a személy, akit törvény alapján a magyar állampolgár jogai illetnek meg,
 
-id) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján ilyen jogállásúnak ismerték el,
+kb) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint – Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint Magyarországon bejelentett lakóhellyel rendelkezik,
 
-j) végrehajtás alá vont ingatlan: az a lakóingatlan, amelyet – a végrehajtási jog ingatlan-nyilvántartásba történő bejegyzésével – végrehajtás alá vontak,
+kc) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján bevándorolt vagy letelepedett jogállással rendelkezik,
 
-k) zálogkötelezett: a hiteladós személyétől eltérő azon természetes személy, akinek lakóingatlanán pénzügyi intézménnyel kötött jelzáloghitel-szerződés biztosítékaként jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba,
+kd) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján ilyen jogállásúnak ismerték el,
 
-l) tartalék ingatlan: a Nemzeti Eszközkezelő vagyonkezelésében lévő
+l) végrehajtás alá vont ingatlan: az a lakóingatlan, amelyet – a végrehajtási jog ingatlan-nyilvántartásba történő bejegyzésével – végrehajtás alá vontak,
 
-la) lakhatásra alkalmas olyan ingatlan, amely nem minősül lakóingatlannak és lakhatási célú ingatlannak,
+m) zálogkötelezett: a hiteladós személyétől eltérő azon természetes személy, akinek lakóingatlanán pénzügyi intézménnyel kötött jelzáloghitel-szerződés biztosítékaként jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba,
 
-lb) olyan lakóingatlan, amelyre a bérleti jogviszony megszűnt vagy
+n) tartalék ingatlan: a Nemzeti Eszközkezelő vagyonkezelésében lévő
 
-lc) olyan lakhatási célú ingatlan, amelyen bérleti jogviszony nem áll fenn és a Kormány által kihirdetett veszélyhelyzetben a károsultak átmeneti ingyenes elhelyezését szolgálja vagy jogszabályban meghatározott más módon hasznosításra kerül.
+na) lakhatásra alkalmas olyan ingatlan, amely nem minősül lakóingatlannak és lakhatási célú ingatlannak,
+
+nb) olyan lakóingatlan, amelyre a bérleti jogviszony megszűnt, vagy
+
+nc) olyan lakhatási célú ingatlan, amelyen bérleti jogviszony nem áll fenn és a Kormány által kihirdetett veszélyhelyzetben a károsultak átmeneti ingyenes elhelyezését szolgálja vagy jogszabályban meghatározott más módon hasznosításra kerül.

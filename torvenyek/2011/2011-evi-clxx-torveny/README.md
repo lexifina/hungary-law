@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-170-00-00
 | 2013-05-17 | 2013. évi LIII. törvény | 2011-170-00-00.7 |
 | 2013-06-28 | 2013. évi CXVIII. törvény | 2011-170-00-00.8 |
 | 2014-01-01 | 2013. évi CCXXXVI. törvény | 2011-170-00-00.9 |
+| 2014-09-30 | 2014. évi XXXIX. törvény | 2011-170-00-00.10 |

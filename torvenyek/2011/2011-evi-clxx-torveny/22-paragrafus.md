@@ -20,4 +20,4 @@ c) az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott
 
 (2) A lakásbérleti szerződés alapján a bérlő köteles a megállapított lakbért a Nemzeti Eszközkezelő részére havi rendszerességgel megfizetni.
 
-(3) Az 1. § h) pont hb) alpontja alapján a lakhatási célú ingatlanban elhelyezett természetes személlyel a Nemzeti Eszközkezelő használati megállapodást köt.
+(3) A lakhatási célú ingatlanban elhelyezett természetes személlyel az 1. § n) pont nc) alpontja esetében a Nemzeti Eszközkezelő használati megállapodást köt.
