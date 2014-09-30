@@ -18,7 +18,7 @@ d) A hatósági szerződésben meg kell határozni a szerződésszegés jogköve
 
 (1d) Amennyiben a 44. § (6)–(7) bekezdése szerint az árverési, illetve a pályázati eljárást érdemben lezáró, az árverési, illetve a pályázati eljárás nyertesét megállapító határozat bírósági felülvizsgálatát kezdeményezték, a hatósági szerződés a bíróság jogerős döntéséig nem köthető meg. A bírósági felülvizsgálati eljárás időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás (1c) bekezdés a) és b) pontjában meghatározott ügyintézési határidejébe nem számít bele.
 
-(2) A polgári célú frekvenciák használatára vonatkozó frekvenciakijelölést, és rádióengedélyt, valamint árverés, illetve pályázat esetén frekvenciahasználati jogosultságot a Hatóság, a nem polgári célú frekvenciakijelölést, illetve rádióengedélyt a Hatóság a nem polgári célú frekvenciagazdálkodó, önálló hatáskörrel rendelkező szervezeti egysége, a KFGH útján adja ki.
+(2) A polgári célú frekvenciák használatára vonatkozó frekvenciakijelölést és rádióengedélyt, valamint versenyeztetési eljárás esetén frekvenciahasználati jogosultságot, továbbá a nem polgári célú frekvenciák használatára vonatkozó frekvenciakijelölést, illetve rádióengedélyt a Hivatal adja ki.
 
 (2a) A frekvenciahasználati jogosultság versenyeztetési eljárás során (árverés, pályázat) történő megszerzéséhez a kiírási dokumentációban – a személyi (részvételi), alaki és tartalmi feltételek mellett – a tényleges verseny előmozdítása és a verseny torzulásainak elkerülése szempontjából különösen a következő feltételek, kötelezettségek köthetők ki, valamint a frekvenciahasználati jogosultság fennállása alatt különösen a következő intézkedések tehetők:
 
