@@ -30,4 +30,10 @@ c) csődeljárás esetén az eljáró bíróság nevét, a bíróság által kir
 
 d) felszámolási eljárás esetén a bíróság által kirendelt felszámoló, továbbá a felszámoló által kijelölt felszámolóbiztos nevét, hivatali levelezési címét, a területi kamara által kijelölt irodagondnok nevét, hivatali levelezési címét.
 
-(8) Az ügyvédi iroda köteles számviteli beszámolóját a közzététele céljából megküldeni a területi kamara részére.
+(8) Az ügyvédi iroda köteles számviteli beszámolóját annak közzététele céljából a területi kamara szabályzatában meghatározott módon az adott üzleti év mérlegfordulónapját követő ötödik hónap utolsó napjáig megküldeni a területi kamara részére.
+
+(9) Ha a területi kamara szabályzata elektronikus benyújtásról rendelkezik, a számviteli beszámoló elektronikus okiratként történő elkészítése nem jogosít a beszámoló összeállítását (formáját, szerkezetét, tagolását) illetően a számvitelről szóló törvényben előírt rendelkezésektől való eltérésre.
+
+(10) Ha az ügyvédi iroda a beszámolóról – külön jogszabály szerint arra feljogosított által aláírt – papír alapú okirat alapján határozott és a beszámolót a területi kamara szabályzatának megfelelően elektronikus úton küldi meg a területi kamarának, akkor a benyújtó személy a benyújtással egyben igazolja, hogy az ezt követően elektronikus úton megküldött beszámoló megegyezik a jóváhagyott beszámolóval. Ebben az esetben a benyújtó a papír alapú beszámoló egy eredeti példányát – annak elfogadásától számított tíz évig – megőrzi, és ha a megküldött beszámoló szabályszerűségével összefüggésben kétség merülne fel, köteles azt a területi kamara felhívására bemutatni.
+
+(11) A beszámolóhoz mellékelni kell az adózott eredmény felhasználására vonatkozó határozatot, valamint kötelező könyvvizsgálat esetén a független könyvvizsgálói jelentést is.

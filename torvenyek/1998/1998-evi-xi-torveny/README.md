@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-11-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 1998-11-00-00.32 |
 | 2014-05-06 | 2012. évi XXXXVI. törvény | 1998-11-00-00.33 |
 | 2014-05-16 | 2014. évi XVIII. törvény | 1998-11-00-00.34 |
+| 2014-09-30 | 2014. évi XXXIX. törvény | 1998-11-00-00.35 |
