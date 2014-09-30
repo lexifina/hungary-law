@@ -28,6 +28,6 @@ l) a minőségi minimumkövetelmények, valamint a csomagolásra és a kiszerel�
 
 m) minősített vetőmag használata és a termékminőség ellenőrzése.
 
-(3) Azon piacszervezési intézkedés kiterjesztése kezdeményezhető, amely a kérelem beadásának időpontjában már legalább egy éve hatályban van.
+(3)
 
 (4) Piacszervezési intézkedés kiterjesztése legfeljebb három gazdasági évre alkalmazható.

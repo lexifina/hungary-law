@@ -1,1 +1,1 @@
-24–26. §
+24. § Az egyes törvényeknek a költségvetési tervezéssel, valamint a pénzpiaci és a közüzemi szolgáltatások hatékonyabb nyújtásával összefüggő módosításáról szóló 2014. évi XXXIX. törvénnyel hatályon kívül helyezett 9. § (3) bekezdését a hatályon kívül helyezés időpontjában már benyújtott, de még el nem bírált kiterjesztés iránti kérelmek esetében sem kell alkalmazni.
