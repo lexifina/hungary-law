@@ -1,10 +1,10 @@
 ## 8/I. Jogutód nélküli megszűnés
 
-17/T. § (1) Amennyiben a Felügyelet a szövetkezeti hitelintézet működési engedélyét a törvényben foglalt bármely esetben visszavonja, a visszavonásról szóló határozatban egyúttal kijelöli a felügyeleti biztost, aki a 17. § (4)–(6) bekezdésében foglalt határidőkben javaslatot tesz a szövetkezeti hitelintézet likvid vagyona által fedezett betétállomány mértékére és annak az állománynak a Takarékbank Zrt. által történő átvételére vonatkozóan. Az átvételre kerülő betétállományt a teljes betétállomány értékének és a likvid eszköz értékének arányával megegyezően úgy kell megállapítani, hogy valamennyi betét ennek az aránynak megfelelő hányada kerül a Takarékbank Zrt-hez.
+17/T. § (1) Ha a Felügyelet a szövetkezeti hitelintézet működési engedélyét az e törvényben foglalt bármely esetben visszavonja, a visszavonásról szóló határozatban egyúttal kijelöli a felügyeleti biztost.
 
-(2) A Felügyelet az állományátvétel jóváhagyásáról az azt követő 15 napon belül dönt, hogy a felügyeleti biztos részéről a 17. § (6) bekezdésben foglalt határidők szerinti tájékoztatást kézhez vette. Az állomány átvételhez nem szükséges a Gazdasági Versenyhivatal engedélye.
+(2)
 
-(3) A felügyeleti biztos a Felügyelet (2) bekezdésben foglalt szabályoknak megfelelően kiadott jóváhagyását követő 10 napon belül felméri, hogy a szövetkezeti hitelintézet esetében végelszámolásnak vagy felszámolásnak van-e helye, és a javaslatát haladéktalanul megküldi a Felügyelet részére. Amennyiben a felügyeleti biztos javaslata alapján felszámolási eljárás kezdeményezésének vagy egyébként végelszámolásnak lenne helye, akkor javaslatáról egyidejűleg tájékoztatja az Országos Betétbiztosítási Alapot is.
+(3) A felügyeleti biztos a kijelölését követő 10 napon belül felméri, hogy a szövetkezeti hitelintézet esetében végelszámolásnak vagy felszámolásnak van-e helye, és a javaslatát haladéktalanul megküldi a Felügyelet részére. Amennyiben a felügyeleti biztos javaslata alapján felszámolási eljárás kezdeményezésének vagy egyébként végelszámolásnak lenne helye, akkor javaslatáról egyidejűleg tájékoztatja az Országos Betétbiztosítási Alapot is.
 
 (4) A Felügyelet a szövetkezeti hitelintézet jogutód nélküli megszűnésének kezdeményezésére vonatkozó határozatát a felügyeleti biztos javaslata alapján, a Hpt. 47-66. §-ának rendelkezései szerint hozza meg.
 

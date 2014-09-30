@@ -1,1 +1,0 @@
-48. § A törvény felhatalmazza a kormányt, hogy e törvény 38. §-ára figyelemmel újraszabályozza a kötvényről szóló 285/2001. (XII. 26.) Korm. rendeletbe foglalt kérdéseket és a kormányrendelet 1–3. §-ait helyezze hatályon kívül.

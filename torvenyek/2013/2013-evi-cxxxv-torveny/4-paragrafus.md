@@ -8,9 +8,9 @@
 
 (4) Az Integrációs Szervezet eszközeinek évi átlagos értéke az év egy napján sem lehet kevesebb a szövetkezeti hitelintézetek és a Takarékbank Zrt. összesített eszközei értékének 3 százalékánál. Amennyiben az Integrációs Szervezet eszközeinek évi átlagos értéke az előírt határ alá csökkenne, az Integrációs Szervezet igazgatósága dönt az Integrációs Szervezet eszközeinek a feltöltéséről.
 
-(5) Az Integrációs Szervezet pénzeszközei nem vonhatók el, és kizárólag az e törvényben meghatározott célokra használhatók fel.
+(5) Az Integrációs Szervezet pénzeszközei nem vonhatók el, és kizárólag az e törvényben meghatározott célokra használhatók fel. Az Integrációs Szervezet tagjainak tagsági jogviszonyukra tekintettel és annak arányában az aktuális évi hozam terhére kifizetést teljesíthet az üzleti tervében meghatározott mértékben a vagyon hozadékából.
 
-(6) Az Integrációs Szervezet pénzeszközeit a Takarékbank Zrt.-ben helyezi el.
+(6) Az Integrációs Szervezet pénzeszközeit a Takarékbank Zrt.-ben vagy annak 100%-os tulajdonában álló leányvállalatainál helyezi el.
 
 (7) Az Integrációs Szervezet és a Szövetkezeti Hitelintézetek Tőkefedezeti Alapja saját vagyona, bevételei, jövedelme és ügyletei után társasági nyereségadó, általános forgalmi adó helyi adó, tranzakciós illeték és egyéb illeték fizetésére nem köteles.
 

@@ -42,7 +42,7 @@ b) a vitatott követelés esetén a pert – ha perre sor kerül – a közvetle
 
 (8) A 2. § (5) bekezdésében írtak körében sem az Integrációs szervezet igazgatósága sem a Közgyűlése nem jogosult az Integrációs szervezet alapszabályának 3.1. pontját és V. fejezetét a törvény alapján meghatározott szövegtől eltérve módosítani.
 
-(9) 2013. évben az Integrációs Szervezet a 6. § (2) bekezdésében foglaltaktól eltérően nem köteles közgyűlést tartani.
+(9)
 
 (10) Ahol e törvényben kormánybiztos megnevezés szerepel, ott 2014. január 1-től az Integrációs Szervezet igazgatósága teljesíti a kötelezettséget, illetve gyakorolja a hatáskört.
 

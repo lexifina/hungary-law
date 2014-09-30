@@ -1,8 +1,8 @@
 ## 8/C. Tőkekövetelmények
 
-17/C. § (1) Szövetkezeti hitelintézet – kizárólag szövetkezeti formában – legalább háromszázmillió forint induló részjegytőkével alapítható. Működési formájától függetlenül a szövetkezeti hitelintézet szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről-időre megállapított szint alá. Az Integrációs Szervezet szabályzatban határozza meg az egyedi alapon megállapított szavatoló tőke meghatározásának elveit és folyamatát.
+17/C. § (1) Szövetkezeti formában működő szövetkezeti hitelintézet legalább háromszázmillió forint induló részjegytőkével alapítható. Működési formájától függetlenül a szövetkezeti hitelintézet szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről-időre megállapított szint alá. Az Integrációs Szervezet szabályzatban határozza meg az egyedi alapon megállapított szavatoló tőke meghatározásának elveit és folyamatát.
 
-(2) Amennyiben a szövetkezeti hitelintézet szavatoló tőkéje az (1) bekezdésben meghatározott szint alá süllyed vagy a 19. § (13) bekezdésében meghatározott esetben, az Integrációs Szervezet jogosult – a Felügyelet jogait, feladatait és hatásköreit nem érintve, és amennyiben a Felügyelet ilyen intézkedést még nem tett –, a Felügyeletet előzetesen értesítve az alábbi kivételes intézkedésekkel élni:
+(2) Amennyiben a szövetkezeti hitelintézet szavatoló tőkéje az (1) bekezdésben meghatározott szint alá süllyed, az Integrációs Szervezet jogosult – a Felügyelet jogait, feladatait és hatásköreit nem érintve, és amennyiben a Felügyelet ilyen intézkedést még nem tett –, a Felügyeletet előzetesen értesítve az alábbi kivételes intézkedésekkel élni:
 
 a) előírhatja a szövetkezeti hitelintézet
 
@@ -34,7 +34,7 @@ rendelkező tulajdonosát.
 
 A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb jogait és hatásköreit.
 
-(3) A (2) bekezdés d) pontjának alkalmazásakor a szövetkezetekről szóló törvénytől és a Gt.-től eltérően a közgyűlést annak napját huszonegy nappal megelőzően kell összehívni.
+(3) A (2) bekezdés d) pontjának alkalmazásakor a szövetkezetekről szóló törvénytől és a Ptk.-tól eltérően a közgyűlést annak napját huszonegy nappal megelőzően kell összehívni.
 
 (4) Ha a szövetkezeti hitelintézet nem tesz eleget az (2) bekezdés d) pontja szerinti intézkedésnek az Integrációs Szervezet által megadott határidőn belül, az Integrációs Szervezet a cégbíróságnál kezdeményezheti a szövetkezeti hitelintézet közgyűlésének összehívását, és a kérelemben javaslatot tesz a közgyűlés összehívásának helyére, idejére, napirendi pontjaira.
 

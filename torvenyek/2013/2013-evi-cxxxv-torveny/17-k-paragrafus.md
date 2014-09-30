@@ -24,4 +24,4 @@ c) az egy tulajdonosi csoporthoz tartozó szövetkezeti hitelintézettől, befek
 
 (10) A változó díj a Hpt. 79. § (2) bekezdése szerint számított tőkekövetelmény 3,8 ezrelékének, és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott portfóliókezelési tevékenység keretében kezelt, piaci értéken számított portfólió eszközértéke 0,25 ezrelékének összege.
 
-(11) A szövetkezeti hitelintézet bankszámláit és értékpapír számláit a Takarékbank Zrt. vezeti.
+(11)

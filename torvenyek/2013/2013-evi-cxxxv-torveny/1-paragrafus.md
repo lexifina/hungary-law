@@ -1,12 +1,10 @@
-1. § (1) Fogalmak
-
-A jelen törvény és a törvény mellékleteinek és a Takarékbank Zrt. elfogadandó alapszabályának alkalmazásában
+1. § (1) E törvény és a Takarékbank Zrt. alapszabályának alkalmazásában
 
 a) „B” sorozatú elsőbbségi részvény: a Takarékbank Zrt. által a jelen törvény hatálybalépése előtt kibocsátott, dematerializált, speciális jogokat biztosító szavazatelsőbbségi részvény;
 
 b) „C” sorozatú elsőbbségi részvény: a Takarékbank Zrt. által kibocsátandó új, névre szóló, dematerializált speciális jogokat biztosító szavazatelsőbbségi részvény, amelynek összesített névértéke a teljes sorozat tekintetében 320 000 forint, a 160 db részvény névértéke pedig egyenként 2000 forint;
 
-c) Előzetes kötelezettségvállaló nyilatkozat: a Gt. 255. § (3) bekezdés szerinti kötelezettségvállalást tartalmazó nyilatkozat, amely tartalmában e törvény rendelkezéseinek is megfelel.
+c) Előzetes kötelezettségvállaló nyilatkozat: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 3:296. § (3) bekezdése szerinti kötelezettségvállalást tartalmazó nyilatkozat, amely tartalmában e törvény rendelkezéseinek is megfelel.
 
 d) Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank;
 
@@ -26,21 +24,19 @@ k) könyvvizsgáló: könyvvizsgálattal főtevékenységként foglalkozó, pén
 
 l) kormánybiztos: az 1554/2012. (XII. 5.) számú kormányhatározatban a hazai illetve szövetkezeti pénzügyi szolgáltatásokért felelős kormánybiztos;
 
-m) likvid eszköz-állomány: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdés 80. pontjában ilyen néven meghatározott eszközök állománya;
-
-n) likvid vagyon: a likvid eszközök összessége;
+m)–n)
 
 o) Magyar Posta: a Magyar Posta Zártkörűen Működő Részvénytársaság és – függetlenül annak tulajdonosi körétől – minden olyan gazdasági társaság, amelyben e törvény hatálybalépése után – közvetlenül vagy közvetve – a Magyar Posta Zrt. tulajdont szerzett vagy tulajdonnal rendelkezik;
 
 p) MFB: a Magyar Fejlesztési Bank Zrt. és – függetlenül annak tulajdonosi körétől – minden olyan gazdasági társaság, amelyben e törvény hatálybalépése után – közvetlenül vagy közvetve – a Magyar Fejlesztési Bank Zrt. tulajdont szerzett vagy tulajdonnal rendelkezik;
 
-q) Önkéntes Takarékszövetkezeti intézményvédelmi alapok: az Országos Takarékszövetkezeti Intézményvédelmi Alap (a továbbiakban: OTIVA), a Regionális Pénzintézetek Pénzügyi Alapja (a továbbiakban: REPIVA) és a Takarékszövetkezeti Intézményvédelmi Alap (TAKIVA);
+q) Önkéntes Takarékszövetkezeti intézményvédelmi alapok: az Országos Takarékszövetkezeti Intézményvédelmi Alap (a továbbiakban: OTIVA), a Regionális Pénzintézetek Intézményvédelmi Alapja (a továbbiakban: REPIVA) és a Takarékszövetkezeti Intézményvédelmi Alap (TAKIVA);
 
-r) Sikertelen engedélykérelmet benyújtott hitelintézet: olyan Folyamatban lévő engedélykérelemmel rendelkező hitelintézet, amely 2013. december 31-ig nem szerzi meg a Felügyelet engedélyét, vagy amely nem tett eleget e törvény 19. § (11) bekezdésének 2. mondatába foglalt kötelezettségének illetve az a Folyamatban lévő engedélykérelemmel rendelkező hitelintézet, amelyik e törvény hatályba lépését követő 100 napon belül tagja az Integrációs Szervezetnek illetve az OTIVA-nak, a REPIVA-nak, a HBA-nak és a TAKIVA-nak;
+r)
 
 s) szokásos üzletmenet: jelenti azokat az ügyleteket, amelyek összértékben a hitelintézetre vonatkozó nagy kockázat felét nem érik el;
 
-t) szövetkezeti hitelintézet: a takarékszövetkezet, a hitelszövetkezet és minden olyan egyéb hitelintézet is, amelynek működését, vagy amelynek betéteit 2013. január 1-jén Önkéntes takarékszövetkezeti intézményvédelmi alapok valamelyike védte, ideértve a nem szövetkezeti hitelintézeteket is, de ide nem értve a Folyamatban lévő engedélykérelemmel rendelkező hitelintézetet;
+t) szövetkezeti hitelintézet: a takarékszövetkezet, a hitelszövetkezet és minden olyan egyéb hitelintézet is, amelynek működését vagy amelynek betéteit 2013. január 1-jén Önkéntes Takarékszövetkezeti intézményvédelmi alapok valamelyike védte, valamint az a hitelintézet is, amelyet a 3. § (2) bekezdésének megfelelően az Integrációs Szervezethez benyújtott csatlakozási kérelme alapján a Takarékbank Zrt. igazgatóságának előzetes egyetértése mellett felvettek az Integrációs Szervezetbe;
 
 u) Takarékbank Zrt.: a Magyar Takarékszövetkezeti Bank Zártkörűen Működő Részvénytársaság;
 
@@ -52,9 +48,9 @@ x) Törzsrészvény: a Takarékbank Zrt. által a jelen törvény hatálybalép�
 
 y) válsághelyzetben van: egy szövetkezeti hitelintézet, amennyiben tőkepozíciói rosszak vagy romlanak, vagy hitelezési mutatói rosszak vagy romlanak vagy nem jogszabályszerűen vagy szabályzatainak megfelelően működik.
 
-z) Vezető tisztségviselő: a Hpt. 6. § (1) bekezdésének 122. pontjában „vezető állású személyként” meghatározott személy.
+z) Vezető tisztségviselő: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdésének 122. pontjában „vezető állású személyként” meghatározott személy.
 
-(2) A szövetkezeti hitelintézetek hosszú távú prudens működésének intézményi garantálása és a szövetkezeti hitelintézetek szavatoló tőkéjének biztosítása érdekében az e törvényben meghatározottak szerint létrejön a szövetkezeti hitelintézetek integrációja. A szövetkezeti hitelintézetek integrációjának szervei az Integrációs Szervezet és a Takarékbank Zrt. A szövetkezeti hitelintézetek integrációjának központi bankja a Takarékbank Zrt.
+(2) A szövetkezeti hitelintézetek integrációja az 1/A. §-ban meghatározott célok elérése érdekében jön létre és működik. A szövetkezeti hitelintézetek integrációjának szervei az Integrációs Szervezet és a Takarékbank Zrt. A szövetkezeti hitelintézetek integrációjának központi bankja a Takarékbank Zrt.
 
 (3) A szövetkezeti hitelintézet az Integrációs Szervezet tagja és a Takarékbank Zrt. részvényének megszerzését követően a Takarékbank Zrt. részvényese. A Takarékbank Zrt. az Integrációs Szervezet tagja.
 

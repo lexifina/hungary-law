@@ -8,6 +8,6 @@
 
 (5) Amennyiben a szövetkezeti hitelintézet által a 20/A. § (4) bekezdésében foglalt feltételeknek megfelelő jogerős ítélet vagy nem vitatott tartozás alapján fizetendő összeg az Alap egyenlegét meghaladja, az Alap rendkívüli befizetés teljesítését rendeli el a szövetkezeti hitelintézetek és a Takarékbank Zrt. számára; a rendkívüli befizetés teljesítésének határidejét az Alap jelöli meg. A rendkívüli befizetés mértéke oly módon kerül meghatározásra, hogy az Alap és a harmadik fél által támasztott követelés összegének különbségét az Alap a tagintézmények teljes állománya arányában elosztja. A teljes állomány a tárgyévet megelőző gazdasági év december 31-i auditált, és a közgyűlés által elfogadott mérlegében kimutatott betétállomány összege, amelybe a Hpt. 6. § (2) bekezdésének 1. pontja értelmében beletartozik a hitelintézet által 2003. január 1-től kezdődően kibocsátott hitelviszonyt megtestesítő értékpapírok (azaz a kötvények és a letéti jegyek) teljes állománya is.
 
-(6) A Takarékbank Zrt. éves befizetési kötelezettségének első alkalommal a 20/A. § (2) a) pontja szerinti kezdő időpontot követő 15 napon belül, ezt követően a (2) bekezdésben foglalt szabályok szerint köteles eleget tenni.
+(6) A Takarékbank Zrt. éves befizetési kötelezettségének első alkalommal a 20/A. § (2) bekezdés a) pontja szerinti kezdő időpontot követő 15 napon belül, ezt követően a (2) bekezdésben foglalt szabályok szerint köteles eleget tenni.
 
 (7) Az Alapba történő befizetést a szövetkezeti hitelintézetek és a Takarékbank Zrt. ráfordításként számolhatják el.

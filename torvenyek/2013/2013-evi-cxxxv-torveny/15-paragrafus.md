@@ -32,13 +32,13 @@ b) a Takarékbank Zrt. Igazgatóságának kezdeményezése alapján vagy saját 
 
 (8) Amennyiben a Takarékbank Zrt. igazgatósága az Integrációs Szervezet igazgatóságának kezdeményezése ellenére – 5 munkanapon belül – nem hozza meg a (4) bekezdés a) pont szerinti vagy a (7) bekezdés a) pont szerinti intézkedést, akkor azt az Integrációs Szervezet igazgatósága is megteheti.
 
-(9) A Takarékbank Zrt. szövetkezeti hitelintézet részvényesei kötelesek bankszámlájukat kizárólag a Takarékbank Zrt.-nél vezetni, és le nem kötött pénzeszközeiket a Takarékbank Zrt. által forgalmazott eszközökben tartani.
+(9) A Takarékbank Zrt. szövetkezeti hitelintézet részvényesei kötelesek bankszámlájukat és értékpapírszámlájukat kizárólag a Takarékbank Zrt.-nél vezetni, és le nem kötött pénzeszközeiket a Takarékbank Zrt. által forgalmazott eszközökben tartani.
 
 (10)
 
 (11) A szövetkezeti hitelintézet számviteli törvény szerinti beszámolója elfogadásához a Takarékbank Zrt. előzetes jóváhagyása kell, amely döntését a legalább 45 nappal a tervezett közgyűlés előtt a rendelkezésére bocsájtott, könyvvizsgálói jelentéssel ellátott mérleg alapján hozza meg.
 
-(12) A szövetkezeti hitelintézet vezető tisztségviselőinek kinevezéséhez 2013. december 31-ig az Integrációs Szervezet, 2014. január 1-től a Takarékbank Zrt. igazgatósága előzetes hozzájárulása szükséges. A Takarékbank Zrt. vezető tisztségviselőinek kinevezéséhez 2013. december 31-ig az Integrációs Szervezet előzetes hozzájárulása szükséges. Az Integrációs Szervezet igazgatósága illetve a Takarékbank Zrt. igazgatósága kezdeményezheti, hogy a Takarékbank Zrt. szövetkezeti hitelintézet részvényesénél illetve az Integrációs Szervezet szövetkezeti hitelintézet tagjánál tartsanak közgyűlést, ahol napirendi pont a tisztújítás a vezető tisztségviselők vonatkozásában. Az érintett szövetkezeti hitelintézetnél a jogszabály által megengedett legrövidebb időn belül kell a fenti tárgyú közgyűlést tartani. Az átmeneti időre az Integrációs Szervezet által kinevezett vezető tisztségviselői kinevezéséhez nem szükséges a Felügyelet engedélye.
+(12) A szövetkezeti hitelintézet vezető tisztségviselőinek kinevezéséhez a Takarékbank Zrt. igazgatóságának előzetes hozzájárulása szükséges. Az Integrációs Szervezet igazgatósága, illetve a Takarékbank Zrt. igazgatósága kezdeményezheti, hogy a Takarékbank Zrt. szövetkezeti hitelintézet részvényesénél, illetve az Integrációs Szervezet szövetkezeti hitelintézet tagjánál tartsanak közgyűlést, ahol napirendi pont a tisztújítás a vezető tisztségviselők vonatkozásában. Az érintett szövetkezeti hitelintézetnél a jogszabály által megengedett legrövidebb időn belül meg kell tartani a közgyűlést a fenti napirenddel. Az átmeneti időre, az Integrációs Szervezet által kinevezett vezető tisztségviselői kinevezéséhez nem szükséges a Felügyelet engedélye.
 
 (13) A Takarékbank Zrt. igazgatósága felfüggeszti azon szövetkezeti hitelintézet részvényes részvényesi jogait, amelynek nem áll rendelkezésére a jelen törvény 19. § (3) bekezdése szerinti működési engedély, illetőleg annak visszavonásának lenne helye a jelen törvény alapján továbbá a 14. § (4) bekezdés szerinti esetekben. A Takarékbank Zrt. részvénykönyvében a részvényesi jogok felfüggesztésének a tényét fel kell tüntetni.
 
@@ -50,7 +50,7 @@ b) a Takarékbank Zrt. Igazgatóságának kezdeményezése alapján vagy saját 
 
 (17) Azt a kérdést, hogy fennáll-e a 4. bekezdés a) és b) illetve a 7. bekezdés a) és b) pontjában írt körülmény az Integrációs Szervezet igazgatósága jogosult eldönteni.
 
-(18) Ahol a fenti (4)–(8) bekezdések az Integrációs Szervezet igazgatósága javára nevesítenek hatáskört, ott a Takarékbank Zrt. igazgatóságának van hatásköre.
+(18)
 
 (19) A Takarékbank Zrt. mint a szövetkezeti hitelintézetek és az integráció központi bankja, a prudens működés biztosítása érdekében kizárólagos jogkörrel jogosult előzetesen jóváhagyni az egyes szövetkezeti hitelintézeteknek és az Integrációs Szervezetnek más gazdálkodó szervezetben, illetve jogi személyben történő tulajdonszerzését vagy a szerzett tulajdon értékesítését, ha az értékesíteni vagy megszerezni tervezett tulajdon értéke, illetve vételára meghaladja az integráció konszolidált alapon számított szavatoló tőkéje 0,1%-át. A tizenkét hónapon belül végrehajtott ügyleteket ugyanazon tulajdoni részesedés vonatkozásában össze kell számítani.
 
