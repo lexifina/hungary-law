@@ -23,3 +23,5 @@ Az MFB Zrt. a 8. § (3) bekezdés b) pontja alapján a következő gazdálkodó 
 10. EHPSZ Első Hazai Pénzügyi Szolgáltatásfejlesztési Korlátolt Felelősségű Társaság
 
 11. Garantiqa Hitelgarancia Zártkörűen Működő Részvénytársaság
+
+12. MFB Földgázkereskedő Zártkörűen Működő Részvénytársaság

@@ -36,10 +36,10 @@ kapcsolódóan vállalhat kezességet, garanciát, továbbá egyéb bankári kö
 
 (5) Az MFB Zrt.
 
-a) Magyarországon létrehozott, magyarországi székhelyű befektetési alapkezelő által kezelt befektetési alap [a tőkepiacról szóló 2001. évi CXX. törvény 5. §-a (1) bekezdésének 7. pontja] által kibocsátott befektetési jegyet, és
+a) Magyarországon létrehozott, magyarországi székhelyű befektetési alapkezelő által kezelt befektetési alap által kibocsátott befektetési jegyet, és
 
-b) Magyarországon létrehozott, magyarországi székhelyű kockázati tőkealap-kezelő által kezelt kockázati tőkealap [a tőkepiacról szóló 2001. évi CXX. törvény 5. §-a (1) bekezdésének 139. pontja] által kibocsátott kockázati tőkealap-jegyet
+b) Magyarországon létrehozott, magyarországi székhelyű kockázati tőkealap-kezelő által kezelt kockázati tőkealap által kibocsátott kockázati tőkealap-jegyet
 
-kizárólag a 2. §-ban felsorolt feladataihoz kapcsolódóan, fejlesztési tőkefinanszírozás céljából – közvetlenül vagy közvetetten – szerezhet, ha a befektetés megtérülése az alapkezelő által a tőke megóvására, illetve a hozamra vonatkozóan vállalt garancia (tőke-, illetve hozamgarancia) vagy az alapkezelő által a tőke megóvására, illetve a hozamra vonatkozóan tett ígéret (tőke-, illetve hozamvédelem) alapján kellően biztosított.
+kizárólag a 2. §-ban felsorolt feladataihoz kapcsolódóan, közvetlenül vagy közvetetten szerezhet, ha a befektetés megtérülése az alapkezelő által a tőke megóvására, illetve a hozamra vonatkozóan vállalt garancia (tőke-, illetve hozamgarancia) vagy az alapkezelő által a tőke megóvására, illetve a hozamra vonatkozóan tett ígéret (tőke-, illetve hozamvédelem) alapján kellően biztosított.
 
 (6) Az MFB Zrt. kizárólag olyan személy, illetve szervezet részére nyújthat hitelt, illetve kölcsönt, valamint csak olyan személy, illetve szervezet érdekében vállalhat kezességet, garanciát, továbbá egyéb bankári kötelezettséget, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1) pontja szerint átlátható szervezetnek minősül, kivéve a mezőgazdasági őstermelőket és családi gazdálkodókat.
