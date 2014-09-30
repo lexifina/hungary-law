@@ -10,7 +10,7 @@ b) az elveszett, megsemmisült vagy megsérült könyvelt postai küldeményekne
 
 c) az egyetemes postai szolgáltatás igénybevételét lehetővé tevő felvételi és kézbesítési pontok területi elhelyezkedésére és időbeli hozzáférhetőségére vonatkozó részletes követelményeket, szükség szerint a felvételi és kézbesítési pontok számát;
 
-d)
+d) az egyetemes postai szolgáltató méltánytalan többletterhének a 29. § szerinti megtérítésére vonatkozó részletes szabályokat;
 
 e) az egyetemes postai szolgáltatás igénybevételének akadályozottsága esetére vonatkozó részletes szabályokat;
 

@@ -1,6 +1,6 @@
 ## 18. Az egyetemes postai szolgáltató hivatalos iratokkal kapcsolatos kizárólagos kötelezettsége és joga
 
-30. § (1) Az egyetemes postai szolgáltató az ország teljes területén köteles és kizárólagosan jogosult a hivatalos iratokkal kapcsolatos postai szolgáltatás nyújtására.
+30. § (1) Az egyetemes postai szolgáltató az ország teljes területén köteles és kizárólagosan jogosult a hivatalos iratokkal kapcsolatos postai szolgáltatás nyújtására. Az egyetemes postai szolgáltató jogosult e kötelezettsége teljesítése érdekében a 14. § (1a) bekezdése szerinti szerződés megkötésére.
 
 (2) Amennyiben az állami vagy önkormányzati szervek, valamint a jogszabályban meghatározott egyéb szervek vagy személyek határozatának, végzésének vagy egyéb iratának feladásához vagy kézbesítéséhez, a kézbesítés megkísérléséhez vagy azok időpontjához külön jogszabály jogkövetkezményt fűz, azok címzett részére történő eljuttatása – a saját kézbesítés kivételével – törvény eltérő rendelkezésének hiányában kizárólag hivatalos iratként történhet meg.
 
