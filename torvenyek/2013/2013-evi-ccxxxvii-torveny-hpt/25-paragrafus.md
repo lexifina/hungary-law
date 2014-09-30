@@ -2,7 +2,7 @@
 
 (2) Nem egyesülhet
 
-a) részvénytársasági formában működő pénzügyi intézmény és szövetkezeti formában működő pénzügyi intézmény,
+a)
 
 b) fióktelep formájában működő pénzügyi intézmény és jogi személy.
 
