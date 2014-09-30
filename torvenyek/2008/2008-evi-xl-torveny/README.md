@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2014-02-25 | 2014. évi XVI. törvény | 2008-40-00-00.38 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2008-40-00-00.39 |
 | 2014-09-01 | 2013. évi CCLII. törvény | 2008-40-00-00.40 |
+| 2014-09-30 | 2014. évi XXXIX. törvény | 2008-40-00-00.41 |

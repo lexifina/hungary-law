@@ -22,7 +22,7 @@
 
 (12) A hazai termelésű földgázt termelő az ezen § alapján értékesített földgáz mennyiséget – műszaki-biztonsági vagy technológiai probléma esetét kivéve – az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkből köteles átadni. A mezők működése során fellépő műszaki-biztonsági vagy technológiai probléma esetén a földgázt más forrásból kell átadni, ezen mennyiségre nem vonatkozik a 103. § (2) bekezdés szerinti hatósági ár. A műszaki-biztonsági vagy technológiai probléma fennállását a bányafelügyeletnek igazolnia kell, a bányafelügyelet az igazolást a Hivatal részére megküldi.
 
-(13) A Felajánlási rendeletben meghatározott mennyiség a rendelet szerinti felek közötti szerződésekben meghatározott teljes éves egyetemes szolgáltatási célra értékesített mennyiséget csökkenti. Ebben az esetben a szerződésben megállapított földgázmennyiségnél kevesebb földgáz átvételének esetére a szerződés szerint meghatározott jogkövetkezmények nem alkalmazhatók.
+(13) A Felajánlási rendeletben meghatározott mennyiség a rendelet szerinti felek közötti szerződésekben meghatározott teljes éves egyetemes szolgáltatási célra, valamint a 141/C. § (2) bekezdés szerinti földgázkereskedő által ellátott, egyetemes szolgáltatásra jogosult felhasználók ellátása céljára értékesített mennyiséget csökkenti. Ebben az esetben a szerződésben megállapított földgázmennyiségnél kevesebb földgáz átvételének esetére a szerződés szerint meghatározott jogkövetkezmények nem alkalmazhatók.
 
 (14) A hazai termelésű földgáz Felajánlási rendeletben meghatározott szabályok szerinti veszteség elszámolás nélkül számított súlyozott éves átlagára nem lehet kevesebb mint 0,907 Ft/MJ.
 
