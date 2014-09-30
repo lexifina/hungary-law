@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-195-00-00
 | 2014-06-06 | 2014. évi XXI. törvény | 2011-195-00-00.32 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 2011-195-00-00.33 |
 | 2014-07-24 | 2014. évi XXXVI. törvény | 2011-195-00-00.34 |
+| 2014-09-30 | 2014. évi XXXIX. törvény | 2011-195-00-00.35 |

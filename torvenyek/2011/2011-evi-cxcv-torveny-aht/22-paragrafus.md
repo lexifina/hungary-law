@@ -2,7 +2,7 @@
 
 22. § (1) A Kormány a központi költségvetésről szóló törvényjavaslatot a Stabilitási tv. szerint egyezteti a Költségvetési Tanáccsal.
 
-(2) A Kormány október 15-éig benyújtja az Országgyűlésnek a központi költségvetésről szóló törvényjavaslatot.
+(2) A Kormány október 15-éig – az országgyűlési képviselők általános választásának évében október 31-éig – benyújtja az Országgyűlésnek a központi költségvetésről szóló törvényjavaslatot.
 
 (3) A Kormány a központi költségvetésről szóló törvényjavaslat indokolásában
 
@@ -22,7 +22,7 @@ b) az államháztartás alrendszerei költségvetési egyenlegének összefügg�
 
 c) a központi költségvetésről szóló törvényjavaslat adóbevételeiben érvényesülő közvetett támogatásokat, így különösen az adóelengedéseket, adókedvezményeket tartalmazó kimutatást adónemenként.
 
-(5) A Kormány a központi költségvetésről szóló törvényjavaslat szerkezetéhez igazodó részletező táblázatokat és ezek szöveges indokolásait a központi költségvetésről szóló törvényjavaslat benyújtását követő tíz napon belül, a központi költségvetésről szóló törvényjavaslatban foglaltak megalapozásához szükséges törvénymódosításokat tartalmazó törvényjavaslatot a központi költségvetésről szóló törvényjavaslattal egyidejűleg nyújtja be az Országgyűlésnek.
+(5) A Kormány a központi költségvetésről szóló törvényjavaslat szerkezetéhez igazodó részletező táblázatokat és ezek szöveges indokolásait a központi költségvetésről szóló törvényjavaslat benyújtását követő tíz napon belül, a központi költségvetésről szóló törvényjavaslatban foglaltak megalapozásához szükséges törvénymódosításokat tartalmazó törvényjavaslatot pedig akként nyújtja be az Országgyűlésnek, hogy az a központi költségvetésről szóló törvénnyel legalább egyidejűleg hatályba lépjen.
 
 (6)
 
