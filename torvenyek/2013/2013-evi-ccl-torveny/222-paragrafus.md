@@ -16,8 +16,10 @@
 
 (8) A 66. § 2014. augusztus 1-jén lép hatályba.
 
-(9) A 39. § (1) bekezdése, a 141. §, a 145. § és a 146. § 2014. november 1-jén lép hatályba.
+(9) A 141. §, a 145. § és a 146. § 2014. november 1-jén lép hatályba.
+
+(9a) A 39. § (1) és (2) bekezdése külön törvényben meghatározott időpontban lép hatályba.
 
 (10) A 97. § b) pontja 2014. december 1-jén lép hatályba.
 
-(11) A 39. § (2) bekezdése és a 113. § 2015. január 1-jén lép hatályba.
+(11) A 113. § 2015. január 1-jén lép hatályba.
