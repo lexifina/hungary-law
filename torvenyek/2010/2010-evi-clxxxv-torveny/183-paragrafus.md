@@ -32,6 +32,8 @@ o) felügyeli a Médiatudományi Intézet tevékenységét,
 
 p) ellátja az önszabályozó szervezetek eljárásával kapcsolatos nem hatósági feladatokat,
 
-q) egyéb, törvényben meghatározott – nem hatósági – feladatokat lát el.
+q) összeállítja a társadalom számára kiemelten nagy jelentőséggel bíró események listáját,
+
+r) egyéb, törvényben meghatározott – nem hatósági – feladatokat lát el.
 
 (2) A Médiatanács látja el a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU európai parlamenti és tanácsi irányelv 19–26. cikkét átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében. Ennek végrehajtásánál a kölcsönös jogsegély során a Médiatanács a 2007/76/EK bizottsági határozatnak megfelelően jár el.

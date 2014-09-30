@@ -4,7 +4,7 @@
 
 a) amelynek a frekvenciatervét a Hivatal a 49. § (5) bekezdés alapján közzétette, azonban hatósági szerződést még nem kötött,
 
-b) amelyre más már médiaszolgáltatási jogosultságot szerzett, de a jogosult médiaszolgáltatása az ideiglenes médiaszolgáltatás befejezését követő hatvan napon belül nem kezdődik meg, vagy
+b)
 
 c) amelyre vonatkozóan a Hatóság igazolja, hogy a médiaszolgáltatás másoknak okozott zavarás és a nemzetközi előírások megsértése nélkül folytatható.
 
@@ -22,7 +22,7 @@ e) a műsortervet,
 
 f) a tervezett ideiglenes médiaszolgáltatás kezdő és befejező napját,
 
-g) az (1) bekezdés b) pont szerinti kérelem esetén a médiaszolgáltató nyilatkozatát a médiaszolgáltatás megkezdésének napjáról,
+g)
 
 h) a médiaszolgáltatási lehetőség megnevezését vagy az (1) bekezdés c) pont tekintetében a tervezett ideiglenes médiaszolgáltatás telephelyét.
 

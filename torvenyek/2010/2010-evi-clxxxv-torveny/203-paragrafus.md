@@ -4,7 +4,9 @@
 
 ### 203. §
 
-1. Audiovizuális médiaszolgáltatás: hangos vagy néma mozgóképeket, állóképeket tartalmazó műsorszámokat bemutató médiaszolgáltatás.
+1. Alapító: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki a sajtótermék első példányának megjelenését megelőzően a lap célját, jellegét és irányvonalát meghatározza, ezeket ellenőrzi, valamint a rendszeres megjelenés megkezdéséről gondoskodik, amely alapján a sajtótermék feletti rendelkezési jogosultság (a sajtótermék nyilvántartásba vételének bejelentése, nyilvántartásból való törlésének bejelentése vagy jóváhagyása, a kiadó megjelölése) megilleti; alapító továbbá az, akire az alapítói jog az alapítóról átruházásra kerül.
+
+1a. Audiovizuális médiaszolgáltatás: hangos vagy néma mozgóképeket, állóképeket tartalmazó műsorszámokat bemutató médiaszolgáltatás.
 
 2. Átviteli rendszer: a televízió vagy rádió műsorjeleknek az analóg vagy digitális műsorterjesztését szolgáló műszaki eljárások, elektronikus hírközlési és más eszközök rendszere, amely a műsorterjesztés alkalmazott átviteli közegéhez – így különösen a levegőhöz és rádiófrekvenciához, vákuumhoz, koaxiális vezetékhez, sodrott érpárú vezetékhez, üvegszálas vezetékhez – kapcsolódik.
 
@@ -69,6 +71,8 @@ A c) és az e) pontban meghatározott művek abban az esetben tekinthetők euró
 20. Kereskedelmi közlemény: olyan médiatartalom, amelynek célja gazdasági tevékenységet folytató természetes vagy jogi személy árujának, szolgáltatásának vagy arculatának közvetlen vagy közvetett népszerűsítése. Az ilyen tartalmak fizetés vagy hasonló ellenszolgáltatás ellenében, vagy önreklámozás céljából kísérik a médiatartalmakat, vagy szerepelnek abban. A kereskedelmi közlemény formái közé tartozik többek között a reklám, a támogatást nyújtó nevének, védjegyének, arculatának vagy termékének megjelenítése, a televíziós vásárlás és a termékmegjelenítés.
 
 21. Képújság: lineáris audiovizuális médiaszolgáltatásban közzétett olyan műsorszám, amely elsősorban szöveges információközlésre szolgál, illetőleg emellett állóképet, mozgóképet, hangot, vagy számítógépes grafikát is tartalmazhat.
+
+21a. Kiadó: az a természetes vagy jogi személy, aki a sajtótermék rendszeres megjelentetése céljából a rendeltetésszerű működéshez szükséges körben a kiadáshoz szükséges személyi és tárgyi feltételeket – ha a sajtótermék alapítója és kiadója eltérő személy vagy vállalkozás, az alapítóval megkötött megállapodásban foglaltak szerint – biztosítja.
 
 22. Kiadvány:
 

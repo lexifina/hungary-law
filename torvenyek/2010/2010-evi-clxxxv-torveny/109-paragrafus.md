@@ -22,6 +22,6 @@
 
 (7) Hírközlési hatósági hatáskört a Hatóságtól elvonni nem lehet.
 
-(8) A Kormány nem polgári célú frekvenciagazdálkodással kapcsolatos közigazgatási feladatait a Közigazgatási Frekvenciagazdálkodási Hatóság (a továbbiakban: KFGH) látja el.
+(8) A Kormány nem polgári célú frekvenciagazdálkodással kapcsolatos közigazgatási feladatait a Hivatal látja el.
 
-(9) A KFGH a Hivatal szervezetében és a főigazgató irányítása alatt önálló hatáskörű szervezeti egységként működik.
+(9)

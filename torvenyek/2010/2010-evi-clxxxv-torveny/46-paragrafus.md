@@ -1,6 +1,6 @@
 ## A sajtótermékek bejelentése
 
-46. § (1) A sajtótermék nyilvántartásba vételét annak kiadója kezdeményezheti. Ha a sajtótermék alapítója és kiadója eltérő személy vagy vállalkozás, viszonyukat, a sajtótermékkel kapcsolatos feladataikat és jogaikat megállapodásban rendezik.
+46. § (1) A sajtótermék nyilvántartásba vételét annak kiadója vagy alapítója kezdeményezheti. Ha a sajtótermék alapítója és kiadója eltérő személy vagy vállalkozás, viszonyukat, a sajtótermékkel kapcsolatos feladataikat és jogaikat megállapodásban rendezik.
 
 (2) A sajtótermék nyilvántartásba vételére irányuló bejelentésben meg kell jelölni:
 
@@ -16,9 +16,13 @@ ad) képviselőjének, illetve a Hatósággal való kapcsolattartásra kijelölt
 
 ae) cégjegyzékszámát, illetve nyilvántartási számát,
 
-b) a bejelentett sajtótermék címét
+b) a bejelentett sajtótermék címét,
 
-c) ha az alapító és a kiadó eltérő személy vagy vállalkozás, mindkettő a) pontban megjelölt adatait.
+c) internetes sajtótermék és hírportál, továbbá nyomtatott sajtótermék interneten elérhető digitális másolata esetében annak internetes elérhetőségét,
+
+d) ha az alapító és a kiadó eltérő személy vagy vállalkozás, mindkettő a) pontban megjelölt adatait.
+
+(2a) Jogszabály eltérő rendelkezése hiányában a sajtótermék nyilvántartásba vételére irányuló bejelentéshez – nem természetes személy bejelentő esetén – a képviseleti jogosultságot igazoló okirat – így különösen aláírási címpéldány, meghatalmazás – másolatát mellékelni kell.
 
 (3) A sajtótermék alapítója és kiadója nem lehet a Nemzeti Média- és Hírközlési Hatóság Elnöke, elnökhelyettese, főigazgatója, főigazgató-helyettese, a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, a Nemzeti Hírközlési és Informatikai Tanács elnöke, alelnöke vagy tagja, a Médiatanács tagja, ide nem értve a tudományos eredmények, vagy tudományos ismeretterjesztés közzétételére irányuló sajtótermék alapítását vagy kiadását. A bejelentőnek nyilatkoznia kell, hogy vele kapcsolatban nem áll fenn a törvény szerinti összeférhetetlenségi ok, illetve az nyilvántartásba vétele esetén sem keletkezne.
 
@@ -30,17 +34,21 @@ a) a bejelentővel szemben összeférhetetlenségi ok áll fenn, vagy
 
 b) a bejelentett sajtótermék címe egy korábban nyilvántartásba vett, és a bejelentés időpontjában a nyilvántartásban szereplő sajtótermék címével azonos, illetve ahhoz az összetéveszthetőségig hasonlít, vagy ha a sajtótermék elnevezése a 41/A. § (1) bekezdésében meghatározott követelményeknek nem felel meg.
 
+(5a) Az (5) bekezdés b) pontja nem alkalmazható azon sajtótermék vonatkozásában, amely a 208. § (2) bekezdés szerinti adatkiegészítési kötelezettségének tesz eleget.
+
 (6) A sajtóterméket törölni kell a nyilvántartásból, ha
 
 a) az (5) bekezdés alapján a nyilvántartásba vétel visszavonásának lenne helye,
 
 b) az alapító vagy – amennyiben az alapító és a kiadó eltérő vállalkozás, úgy az alapító jóváhagyásával – a kiadó kérte a nyilvántartásból való törlését,
 
-c) a sajtótermék kiadásának megkezdését a nyilvántartásba vételtől számított két éven át elmulasztják, vagy a megkezdett kiadást öt évnél hosszabb időre megszakítják, vagy
+c) a sajtótermék kiadásának megkezdését a nyilvántartásba vételtől számított két éven át elmulasztják, vagy a megkezdett kiadást öt évnél hosszabb időre megszakítják,
 
-d) bíróság jogerős határozata elrendelte a sajtótermék címe által elkövetett védjegybitorlás abbahagyását és a bitorló eltiltását a további jogsértéstől.
+d) bíróság jogerős határozata elrendelte a sajtótermék címe által elkövetett védjegybitorlás abbahagyását és a bitorló eltiltását a további jogsértéstől, vagy
 
-(7) A sajtótermék kiadójának és alapítójának tizenöt napon belül be kell jelentenie a Hivatalhoz, ha a nyilvántartásban szereplő adataiban változás következett be.
+e) a jogi személy vagy jogi személyiséggel nem rendelkező szervezet alapító legalább tizenöt napja jogutód nélkül megszűnt.
+
+(7) A sajtótermék kiadójának és alapítójának tizenöt napon belül be kell jelentenie a Hivatalhoz, ha a nyilvántartásban szereplő adataiban változás következett be. A sajtótermék hatósági nyilvántartásba vett címét nem lehet megváltoztatni.
 
 (8) Amennyiben a kiadó személyében változás következik be, a nyilvántartásban szereplő kiadónak kezdeményeznie kell a nyilvántartásban szereplő adatok módosítását. Ennek elmaradása esetén az alapító is kezdeményezheti a módosítást. Az erre irányuló eljárásra az (1)–(5) bekezdést megfelelően alkalmazni kell.
 

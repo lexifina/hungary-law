@@ -42,7 +42,7 @@ m) a Hatóság nevében évente együttműködési megállapodást köt a fogyas
 
 n) a hírközlés területén másodfokú szervként jár el a Hivatal törvényben meghatározott hatósági ügyei tekintetében,
 
-o) a főigazgató javaslatára kinevezi, felmenti, illetve visszahívja a KFGH igazgatóját.
+o)
 
 (3)–(5)
 

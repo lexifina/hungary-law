@@ -16,6 +16,8 @@ rendeletben megállapítsa.
 
 (3) Felhatalmazást kap a Kormány, hogy a kötelespéldányok szolgáltatóit, a törvényben előírt példányszám alóli kivételeket, a kötelespéldány szolgáltatás módját és határidejét, lebonyolítási szabályait, a kötelespéldányra jogosult szervek körét, a szétosztás módját, a kötelespéldányok megőrzésének és használatának szabályait, valamint szolgáltatás elmulasztása esetén követendő eljárást rendeletben szabályozza.
 
+(3a) Felhatalmazást kap a Kormány, hogy a JBE lineáris audiovizuális médiaszolgáltató legnagyobb éves átlagos közönségarányú lineáris audiovizuális médiaszolgáltatásáért járó programdíj fizetésének szabályait rendeletben állapítsa meg.
+
 (4) Felhatalmazást kap a kultúráért felelős miniszter, hogy a kiadványokon az impresszum feltüntetésére vonatkozó részletes szabályokat rendeletben szabályozza.
 
 (5) Felhatalmazást kap az audiovizuális politikáért felelős miniszter, hogy a 171. § szerinti szakhatósági eljárásért fizetendő igazgatási szolgáltatási díj megfizetésének módjára, valamint a díj kezelésére, nyilvántartására és visszatérítésére vonatkozó részletes szabályokat rendeletben megállapítsa.

@@ -8,7 +8,7 @@ c) a társadalmi szemléletmód és kultúra terjesztésével kapcsolatos dönt�
 
 d) a hírközlési piac szabályozásának kialakítására, a piacon működők esélyegyenlőségének elősegítésére,
 
-e) a kormányzati és a polgári frekvenciagazdálkodás összhangjának biztosítására,
+e) a polgári és nem polgári célú frekvenciagazdálkodás összhangjának biztosítására,
 
 f) a rádió-távközlési nemzetközi értekezleteken képviselendő magyar álláspontra vonatkozó, valamint
 

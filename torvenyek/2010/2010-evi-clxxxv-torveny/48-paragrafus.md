@@ -6,17 +6,13 @@
 
 48. § (1) Állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatás – amennyiben e törvény eltérően nem rendelkezik – a Médiatanács által kiírt és lebonyolított pályázaton történt nyertessé nyilvánítás és hatósági szerződés alapján végezhető.
 
-(2) Állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő lineáris médiaszolgáltatási jogosultság pályázat útján történő elnyerésével kapcsolatos eljárásokra (a továbbiakban pályázati eljárás) a közigazgatási hatósági eljárásról szóló törvény (a továbbiakban: Ket.) szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
+(2) Állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő lineáris médiaszolgáltatási jogosultság pályázat útján történő elnyerésével kapcsolatos eljárásokra (a továbbiakban pályázati eljárás) a Ket. szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3) A pályázati eljárás lebonyolításával kapcsolatos feladatokat – az e törvényben meghatározott kivételekkel – a Médiatanács látja el.
 
-(4) A Médiatanács meghatározott időszakra, de legfeljebb három évre közfeladat ellátása érdekében pályázati eljárás nélkül is feljogosíthat valamely vállalkozást médiaszolgáltatás végzésére. E médiaszolgáltatási jogosultságra a Médiatanács hatósági határozatában a Médiatanács által közzétett felhívásra a jogosultság iránti kérelmet elsőként benyújtó médiaszolgáltatót jogosítja fel, amennyiben a médiaszolgáltató a közfeladat ellátásához szükséges feltételeknek megfelel. E bekezdés alkalmazásában közfeladatnak az alábbiak minősülnek:
+(4)
 
-a) szükségállapot, az ország jelentős területét érintő elemi csapás vagy ipari szerencsétlenség esetén történő és azzal kapcsolatos médiaszolgáltatás, vagy
-
-b) a valamely közösség speciális oktatási, kulturális, tájékoztatási, vagy az adott közösséget érintő meghatározott eseményhez kapcsolódó igényeinek szolgálata.
-
-(5) Az állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatási jogosultság rádió esetén legfeljebb hét évig, audiovizuális médiaszolgáltatás esetén legfeljebb tíz évig érvényes, és lejártakor a médiaszolgáltató kérelmére pályázat nélkül egy ízben legfeljebb öt évre megújítható azzal, hogy a Dtv. 38. § (1) bekezdésében megjelölt időpontban az audiovizuális médiaszolgáltatási szerződések lejárnak. A megújításra vonatkozó igényt a lejárat előtt tizennégy hónappal a Médiatanácshoz be kell jelenteni. E határidő elmulasztása esetén a megújításnak nincs helye.
+(5) Az állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatási jogosultság rádió esetén legfeljebb hét évig, audiovizuális médiaszolgáltatás esetén legfeljebb tíz évig érvényes, és lejártakor a médiaszolgáltató kérelmére pályázat nélkül egy ízben legfeljebb öt évre megújítható azzal, hogy a Dtv. 38. § (1) bekezdésében megjelölt időpontban az audiovizuális médiaszolgáltatási szerződések lejárnak. A megújításra vonatkozó igényt a lejárat előtt tizennégy hónappal a Médiatanácshoz be kell jelenteni. E határidő elmulasztása esetén a megújításnak nincs helye. A Médiatanács a jogosultság megújításáról a jogosultság lejárta előtt legkorábban négy hónappal, legkésőbb két hónappal dönt.
 
 (6)
 
@@ -26,7 +22,7 @@ a) a Médiatanács jogerős határozatában megállapította, hogy a médiaszolg
 
 b) a médiaszolgáltató a szerződés megsértése miatt korábban a rádiózásról és televíziózásról szóló 1996. évi I. törvény 112. § (1) bekezdés b) pontja szerinti szankcióban részesült, vagy
 
-c) a kérelem benyújtásakor a médiaszolgáltató médiaszolgáltatási díjtartozással rendelkezik.
+c) a kérelem benyújtásakor, illetve a kérelem elbírálásakor a médiaszolgáltató médiaszolgáltatási díjtartozással rendelkezik.
 
 (8) A Médiatanács a III. Fejezet rendelkezéseinek megfelelő alkalmazására és e médiaszolgáltatási lehetőségek természetéből fakadó egyedi sajátosságokra tekintettel meghatározza a kisközösségi médiaszolgáltatási lehetőségek pályáztatásának elveit, és azokat a honlapján közzéteszi. Kisközösségi médiaszolgáltatási lehetőség nem pályáztatható és nem üzemeltethető kereskedelmi jelleggel.
 

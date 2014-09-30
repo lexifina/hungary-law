@@ -14,6 +14,6 @@ f) eljár a hírközlésre vonatkozó szabály megsértése miatt, illetve szerz
 
 g) ellátja az egyéb jogszabályban foglalt elektronikus hírközlési és postai hatósági feladatokat,
 
-h) a gazdálkodás körében – e törvényben és más jogszabályokban foglaltak szerint – gyakorolja a rádiófrekvenciákra és azonosítókra vonatkozó állami tulajdonosi jogokat, polgári célú gazdálkodást folytat a rádiófrekvenciák és azonosítók vonatkozásában,
+h) a gazdálkodás körében – e törvényben és más jogszabályokban foglaltak szerint – gyakorolja a rádiófrekvenciákra és azonosítókra vonatkozó állami tulajdonosi jogokat, gazdálkodást folytat a rádiófrekvenciák és azonosítók vonatkozásában,
 
 i) ellátja az egyéb jogszabályban foglalt hatósági és nem hatósági feladatokat.

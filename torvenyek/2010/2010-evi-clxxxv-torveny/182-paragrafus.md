@@ -70,7 +70,7 @@ t) szakhatósági feladatokat lát el e törvény és a Tpvt. által előírt es
 
 u) eljár a JBE médiaszolgáltatók és a közszolgálati médiaszolgáltatók médiaszolgáltatásával kapcsolatban felmerült kiegyensúlyozottsági panaszok ügyében [Smtv. 13. § és e törvény 12. §-a],
 
-v) hatósági határozatában meghatározza a társadalom számára kiemelten nagy jelentőséggel bíró eseményeket,
+v)
 
 x) hatósági határozatában meghatározza a továbbítási kötelezettség alá eső közszolgálati és közösségi médiaszolgáltatásokat [75 . § (3) bekezdés],
 

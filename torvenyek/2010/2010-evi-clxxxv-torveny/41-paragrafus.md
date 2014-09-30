@@ -4,7 +4,7 @@
 
 ## Általános rendelkezések
 
-41. § (1) Az e törvény hatálya alá tartozó, Magyarországon letelepedett médiaszolgáltató által nyújtott lineáris médiaszolgáltatás bejelentés és a Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) általi hatósági nyilvántartásba vétel után végezhető, kivéve azon állami tulajdonban lévő korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatásokat, amelyek a Médiatanács által kiírt és lebonyolított pályázaton való nyertessé nyilvánítás és szerződéskötés alapján végezhetők.
+41. § (1) Az e törvény hatálya alá tartozó, Magyarországon letelepedett médiaszolgáltató által nyújtott lineáris médiaszolgáltatás bejelentés és a Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) általi hatósági nyilvántartásba vétel után végezhető, kivéve azon állami tulajdonban lévő korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatásokat, amelyek a Médiatanács által kiírt és lebonyolított pályázaton való nyertessé nyilvánítás és szerződéskötés, vagy e törvény 65. §-a szerinti ideiglenes hatósági szerződéskötés alapján végezhetők.
 
 (2) Az e törvény hatálya alá tartozó, Magyarország területén letelepedett médiaszolgáltató által nyújtott lekérhető médiaszolgáltatást, kiegészítő médiaszolgáltatást és a Magyarország területén letelepedett kiadó által kiadott sajtóterméket – a szolgáltatás, illetve a tevékenység megkezdését követő hatvan napon belül – nyilvántartásba vétel céljából be kell jelenteni a Hivatalhoz. A nyilvántartásba vétel nem feltétele e szolgáltatás, illetve tevékenység megkezdésének.
 
@@ -33,6 +33,8 @@ i) az internetes sajtótermékekről és hírportálokról,
 j) a közszolgálati médiaszolgáltatók által nyújtott lineáris és lekérhető médiaszolgáltatásokról, illetve kiegészítő médiaszolgáltatásokról.
 
 (5) Ha a médiaszolgáltató lineáris és lekérhető szolgáltatást is nyújt, illetve ha a sajtóterméket kiadó nyomtatott és internetes sajtóterméket is megjelentet, köteles médiaszolgáltatásait, illetve sajtótermékeit külön-külön bejelenteni.
+
+(5a) Amennyiben a kiadó nyomtatott sajtótermékét a nyomtatott sajtótermékkel teljes mértékben megegyező tartalmú digitális másolatként teszi interneten elérhetővé, az internetes tartalmat a nyomtatott sajtótermék másolatának kell tekinteni, és azt külön internetes sajtótermékként nem kell bejelenteni.
 
 (6) A (4) bekezdés szerinti nyilvántartásoknak a médiaszolgáltatók, a sajtóterméket alapítók és kiadók nevére, elérhetőségére, valamint a médiaszolgáltatások és a sajtótermékek elnevezésére vonatkozó adatai nyilvánosak, és a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) internetes honlapjáról elérhetők. A Hatóság a médiaszolgáltatási, sajtótermék-kiadási tevékenység ellenőrzése céljából a természetes személy médiaszolgáltató, sajtóterméket alapító és kiadó természetes személyazonosító adatait kezeli a nyilvántartásból való törlésig.
 

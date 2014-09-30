@@ -2,14 +2,18 @@
 
 16. § (1) Audiovizuális médiaszolgáltató nem gyakorolhatja a kizárólagos közvetítési jogot olyan módon, hogy az audiovizuális médiaszolgáltatásokhoz hozzáférő hazai közönség jelentős részét – több mint húsz százalékát – kizárja a társadalom számára kiemelten nagy jelentőséggel bíró eseményeknek az eseménnyel egyidőben vagy későbbi közvetítés útján, előfizetési díj megfizetése nélkül is hozzáférhető audiovizuális médiaszolgáltatáson keresztül történő figyelemmel kíséréséből.
 
-(2) Az (1) bekezdésben meghatározott audiovizuális médiaszolgáltatók tekintetében érvényesülő, a társadalom számára kiemelten nagy jelentőséggel bíró eseményeket a Médiatanács – nyilvános meghallgatást követően – hatósági határozatában állapítja meg. A Médiatanács e határozatában meghatározza azt is, hogy a társadalom számára kiemelten nagy jelentőséggel bíró események egyidejű vagy későbbi közvetítésére kerüljön sor. A határozat elfogadásakor figyelembe kell venni azt, hogy a kiemelten nagy jelentőséggel bíró eseménynek minősített esemény iránt a nézők széles körében jelentkezzen érdeklődés, az esemény valamely világ- vagy európai szintű, illetve magyar érdekeltségű esemény legyen, amelyet – ide nem értve a kizárólagosan magyar érdekeltségű eseményeket – az európai országok jelentős részében közvetítenek.
+(2) Az (1) bekezdésben meghatározott audiovizuális médiaszolgáltatók tekintetében érvényesülő, a társadalom számára kiemelten nagy jelentőséggel bíró események listáját – nyilvános meghallgatást követően – a Médiatanács állítja össze. A listán szereplő események tekintetében a Médiatanács meghatározza azt is, hogy az adott esemény teljes vagy részleges élő közvetítésben kerüljön műsorra, vagy amennyiben ez objektív közérdekű okokból szükséges, teljes vagy részleges későbbi közvetítésre kerüljön sor.
 
-(3) A (2) bekezdés szerinti hatósági eljárás megindításáról a Médiatanács végzésben értesíti az audiovizuális médiaszolgáltatókat. Az értesítésnek kizárólag az ügy tárgyát és rövid ismertetését kell tartalmaznia. Az értesítést a Médiatanács hirdetményi úton közli. E hatósági eljárásban az ügyféli jogokat kizárólag az eljárásban részt vevő ügyfelek gyakorolhatják.
+(3) A (2) bekezdés szerinti lista összeállításakor figyelembe kell venni azt, hogy a kiemelten nagy jelentőséggel bíró eseménynek minősített esemény olyan legyen, amely
 
-(4) A Médiatanács a (2) bekezdésben meghatározott hatósági határozatát hirdetményi úton közli.
+a) széles körben, nem csupán az adott sport, illetve tevékenység szokásos közönségében vált ki érdeklődést vagy általánosan elismert egyedi kulturális jelentőséggel bír a lakosság számára, így különösen a kulturális önazonosság erősítésében, és
 
-(5) A (2) bekezdésben meghatározott mérlegelési szempontok figyelembevételével a Médiatanács megfelelően módosíthatja a (2) bekezdés szerinti hatósági határozatát. A módosított határozat közlésére a (4) bekezdésben foglaltakat kell alkalmazni.
+b) egy nemzetközi jelentőségű verseny vagy bajnokság keretében Magyarország versenyzőjének vagy csapatának részvételével zajlik vagy hagyományosan előfizetési díj megfizetése nélkül hozzáférhető, nagy nézettséggel rendelkező televíziós közvetítésen keresztül figyelemmel kísérhető.
 
-(6) A (2) és (5) bekezdésben meghatározott hatósági határozat bírósági felülvizsgálata keretében a keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, és a keresettel támadott hatósági határozat végrehajtását a bíróság nem függesztheti fel. A határozat a keresetlevél benyújtásától függetlenül azonnal végrehajtható.
+(4) A Médiatanács a (2) bekezdés szerinti lista tervezetét részletes indokolással jóváhagyás céljából megküldi az Európai Bizottságnak. A (2) bekezdés szerinti lista az Európai Unió Hivatalos Lapjában történő közzététel napjával hatályos. A (2) bekezdés szerinti lista összeállítása és elfogadása nem minősül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) szerinti hatósági eljárásnak, illetve hatósági ügynek.
 
-(7) A (2) bekezdés alapján meghozott első hatósági határozat közlése, illetve későbbi módosításának közlése előtt jogszerűen szerzett kizárólagos jogokra az (1) bekezdés és a 18. § (1) bekezdés nem alkalmazható.
+(5) A (3) bekezdésben meghatározott szempontok figyelembevételével a Médiatanács megfelelően módosíthatja a (2) bekezdés szerinti listát. A módosított lista tekintetében a (4) bekezdésben foglaltakat megfelelően kell alkalmazni.
+
+(6) A (2) bekezdés alapján összeállított első lista hatálybalépése, illetve későbbi módosításának hatálybalépése előtt jogszerűen szerzett kizárólagos jogokra az (1) bekezdés és a 18. § (1) bekezdés nem alkalmazható.
+
+(7)

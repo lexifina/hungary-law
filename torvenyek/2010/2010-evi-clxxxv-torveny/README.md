@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-185-00-00
 | 2013-08-01 | 2013. évi CXXXI. törvény | 2010-185-00-00.21 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2010-185-00-00.22 |
 | 2014-05-06 | 2014. évi XIV. törvény | 2010-185-00-00.23 |
+| 2014-09-30 | 2014. évi XXXIX. törvény | 2010-185-00-00.24 |
