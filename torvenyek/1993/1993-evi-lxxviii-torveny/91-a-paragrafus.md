@@ -177,3 +177,7 @@ f) a rádió- és televízióadók vételének biztosítása.
 22. Önkormányzati helyi támogatás: kamatmentes kölcsön, illetőleg részben vagy egészben vissza nem térítendő támogatás nyújtása rászoruló családok részére lakótelek, új vagy használt lakás megszerzéséhez, lakás bővítéséhez, korszerűsítéséhez, felújításához, fenntartásához, lakáscélú kölcsön törlesztőrészleteinek, lakás lakbérének megfizetéséhez és más, a lakással kapcsolatos költségeik viseléséhez, valamint társasházi közös tulajdonú és lakásszövetkezeti tulajdonú épületrészek és épületberendezések felújításához, korszerűsítéséhez.
 
 23. nyugdíjszerű ellátás: a korhatár előtti ellátás, a szolgálati járandóság, az átmeneti bányászjáradék és mindaz az ellátás, amely a nyugdíjszerű rendszeres szociális ellátások emeléséről szóló jogszabály hatálya alá tartozik, vagy amely ellátást a nyugdíjemelésre vonatkozó rendelkezések szerint kell emelni.
+
+24. Külföldi jogi személy: az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes államban, valamint nemzetközi szerződés alapján velük egy tekintet alá eső államban székhellyel nem rendelkező jogi személy és jogi személyiséggel nem rendelkező szervezet.
+
+25. Külföldi természetes személy: az Európai Unió tagállama, az Európai Gazdasági Térségről szóló megállapodásban részes állam, valamint nemzetközi szerződés alapján velük egy tekintet alá eső állam állampolgárának nem minősülő természetes személy.
