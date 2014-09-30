@@ -54,9 +54,9 @@
 
 26. a közterület tisztántartásával kapcsolatos hulladékgazdálkodási szabályokat;
 
-27. a melléktermékre vonatkozó részletes szabályokat;
+27. a melléktermék státusznak való megfelelés igazolására, valamint a melléktermék tárolására és nyilvántartására vonatkozó részletes szabályokat;
 
-28. a biológiailag lebomló hulladék képződésének megelőzésére vonatkozó tevékenységek, valamint a biológiailag lebomló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
+28. a biológiailag lebomló hulladék képződésének megelőzésére vonatkozó tevékenységek, valamint a biológiailag lebomló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait, valamint a biohulladékból előállított komposzt osztályozásának szabályait;
 
 29. a hulladékstátusz megszűnésének megállapítására vonatkozó részletes kritériumokat, valamint a hulladékstátusz megszűnésével kapcsolatos tanúsítás rendjét, a tanúsításra jogosult szervezetekre vonatkozó szabályokat;
 
@@ -64,11 +64,13 @@
 
 31. az elkülönített hulladékgyűjtésre vonatkozó részletes szabályokat;
 
+32. az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének részletes szabályait, valamint az üzemnapló vezetésével kapcsolatos részletes szabályokat.
+
 (2) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy rendeletben állapítsa meg:
 
 1. a veszélyes és nem veszélyes hulladéktípusokat tartalmazó hulladékjegyzéket, és a hulladék veszélyességét eredményező tulajdonságok megállapítására vonatkozó részletes szabályokat;
 
-2. az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének részletes műszaki szabályait, valamint az üzemnapló vezetésével kapcsolatos részletes szabályokat;
+2.
 
 3. a hulladéklerakás technikai követelményeit, a betelt lerakók lezárásának és utógondozásának technikai feltételeit, valamint részletes szabályait;
 

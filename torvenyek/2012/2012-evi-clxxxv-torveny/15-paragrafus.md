@@ -2,7 +2,7 @@
 
 15. § (1) A hulladék hasznosítója azt a hasznosítási műveletet alkalmazza, amely a hasznosítandó hulladék vonatkozásában az összességében legjobb környezeti eredményt biztosítja.
 
-(2) Hasznosítási művelet a környezetvédelmi hatóság által kiadott hulladékgazdálkodási engedéllyel végezhető.
+(2) Hasznosítási művelet – ha törvény vagy kormányrendelet eltérően nem rendelkezik – a környezetvédelmi hatóság által kiadott hulladékgazdálkodási engedéllyel végezhető.
 
 (3) Ha a hasznosítási művelet elvégzéséhez a hulladék más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal való összekeverése szükséges, a hulladékkezelő a hasznosítandó hulladékot csak abban az esetben keverheti össze más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal, ha az összességében legjobb környezeti eredmény másképp nem biztosítható. Ilyen művelet csak kezelésre vonatkozó hulladékgazdálkodási engedéllyel végezhető.
 

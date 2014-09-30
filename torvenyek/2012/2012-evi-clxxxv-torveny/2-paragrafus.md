@@ -12,9 +12,9 @@
 
 5. elkülönített gyűjtés: olyan gyűjtés, amelynek során a hulladékáramot a hulladék fajtája és jellege – adott esetben típusa – szerint elkülönítik, lehetővé téve annak egyedi módon történő kezelését;
 
-6. elkülönítetten gyűjtött hulladék: olyan hulladék, amelyet fajta és jelleg – adott esetben típus – szerint a képződés helyén elkülönítve gyűjtenek, ide nem értve a vegyes hulladékot;
+6. elkülönítetten gyűjtött hulladék: olyan hulladék, amelyet fajta és jelleg – adott esetben típus – szerint a képződés helyén a vegyes hulladéktól, illetve más fajtájú, jellegű vagy típusú hulladéktól elkülönítve gyűjtenek;
 
-7. előkezelés: a hasznosítást vagy ártalmatlanítást megelőző előkészítő művelet; az előkészítő műveletek nem kimerítő listáját a 2. és 3. melléklet tartalmazza;
+7. előkezelés: a hasznosítást vagy ártalmatlanítást megelőző előkészítő művelet;
 
 8. energetikai hasznosítás: hasznosítási művelet, amelynek során a hulladék energiatartalmát kinyerik, ideértve a biológiailag lebomló hulladékból történő energia-előállítást, valamint az olyan anyaggá történő feldolgozást, amelyet üzemanyagként, illetve tüzelőanyagként használnak fel;
 
@@ -24,7 +24,7 @@
 
 11. ésszerű nyereség: az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat 5. cikk (5) bekezdése szerinti nyereség;
 
-12. feltöltés: olyan hasznosítási vagy ártalmatlanítási művelet, amelynek során meghatározott célra alkalmas hulladék felhasználásával hulladéknak nem minősülő anyagokat helyettesítenek kitermeléssel érintett területek helyreállításakor vagy tájrendezéskor;
+12. feltöltés: olyan hasznosítási művelet, amelynek során meghatározott célra alkalmas hulladék felhasználásával hulladéknak nem minősülő anyagokat helyettesítenek kitermeléssel érintett területek helyreállításakor vagy tájrendezéskor;
 
 13. fogyasztó: aki a terméket továbbértékesítési cél nélkül a gyártótól vagy a forgalmazótól átveszi vagy megvásárolja;
 
@@ -36,11 +36,11 @@
 
 17. gyűjtés: a hulladék összegyűjtése hulladékkezelő létesítménybe történő elszállítás céljából; a gyűjtés magában foglalja a hulladék előzetes válogatását és előzetes tárolását is;
 
-17a. gyűjtő: olyan gazdálkodó szervezet – a hulladéktermelőt ide nem értve –, amely a hulladékot a hulladékbirtokostól, illetve hulladékgazdálkodási létesítményekből összegyűjti, átveszi, és azt az elszállítást megelőzően szükség szerint előzetesen válogatja, előzetesen tárolja;
+17a. gyűjtő: olyan gazdálkodó szervezet, amely a hulladékot a hulladékbirtokostól, illetve hulladékgazdálkodási létesítményekből összegyűjti, átveszi;
 
 18. gyűjtőedény: szabványos mérettel rendelkező hulladékgyűjtő edényzet, hulladékgyűjtő zsák, valamint az elkülönített hulladékgyűjtés céljából üzemeltetett eszköz, berendezés;
 
-19. gyűjtőhely: a hulladékgyűjtő pont, a hulladékgyűjtő udvar, valamint a munkahelyi gyűjtőhely és az üzemi gyűjtőhely;
+19. gyűjtőhely: az átvételi hely, a hulladékgyűjtő pont, a hulladékgyűjtő udvar, valamint a munkahelyi gyűjtőhely és az üzemi gyűjtőhely;
 
 20. hasznosítás: bármely kezelési művelet, amelynek fő eredménye az, hogy a hulladék hasznos célt szolgál annak révén, hogy olyan más anyagok helyébe lép, amelyeket egyébként valamely konkrét funkció betöltésére használtak volna, vagy amelynek eredményeként a hulladékot oly módon készítik elő, hogy ezt a funkciót akár az üzemben, akár a szélesebb körű gazdaságban betölthesse; a hasznosítási műveletek nem kimerítő listáját a 3. melléklet tartalmazza;
 
@@ -96,7 +96,7 @@ c) az anyagok és a termékek veszélyesanyag-tartalmát;
 
 41. szállítás: a hulladék telephelyen kívüli mozgatása;
 
-42.
+42. tárolás: a hulladéknak a gyűjtő, a kereskedő, illetve a hulladékkezelő telephelyén történő, valamint telephelyén kívüli átvételét, összegyűjtését, majd telephelyre történő szállítását követő ideiglenes elhelyezése a további hulladékgazdálkodási tevékenységek elvégzése érdekében, kivéve a hulladékkezelő létesítményben képződött hulladék ugyanazon hulladékkezelő létesítményben történő elhelyezését, valamint a 2. melléklet szerinti D12 ártalmatlanítási műveletet;
 
 43. települési hulladék: a háztartási és a háztartási hulladékhoz hasonló szilárd hulladék;
 
@@ -112,7 +112,7 @@ c) az anyagok és a termékek veszélyesanyag-tartalmát;
 
 49. veszélyes-hulladékégető mű: olyan hulladékkezelő létesítmény, amelyben a hulladékok égetésének műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről szóló miniszteri rendeletben meghatározott feltételek szerint veszélyes hulladékot égetnek;
 
-50. visszavétel: olyan szolgáltatás, amelynek során a hulladéknak nem minősülő használt elemet, akkumulátort, illetve csomagolását, valamint a használt elektromos és elektronikus berendezést, illetve csomagolását a gyártó vagy a forgalmazó a fogyasztótól visszaveszi.
+50.
 
 (2) Az e törvény hatálya alá tartozó állati mellékterméket az (1) bekezdés 23. pontja szerinti fogalommeghatározással összhangban kell értelmezni.
 

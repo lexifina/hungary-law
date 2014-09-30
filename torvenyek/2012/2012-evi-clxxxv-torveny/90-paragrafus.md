@@ -2,7 +2,7 @@
 
 90. § (1) E törvény rendelkezéseit a hatálybalépése után indult ügyekben és megismételt eljárásokban kell alkalmazni.
 
-(2) A begyűjtési és tárolási engedélyek időbeli hatályuk lejártáig, de legkésőbb e törvény hatálybalépését követő 2 évig hatályosak, azt követően hatályukat vesztik. A begyűjtési és tárolási engedéllyel rendelkező gazdálkodó szervezetre a gyűjtőre, a szállítóra, a kereskedőre, a közvetítőre és a hulladékkezelőre vonatkozó szabályokat kell megfelelően alkalmazni.
+(2) A begyűjtési és tárolási engedélyek időbeli hatályuk lejártáig hatályosak, azt követően hatályukat vesztik. A begyűjtési és tárolási engedéllyel rendelkező gazdálkodó szervezetre a gyűjtőre, a szállítóra, a kereskedőre, a közvetítőre és a hulladékkezelőre vonatkozó szabályokat kell megfelelően alkalmazni.
 
 (3) A törvény hatálybalépésekor működő gazdálkodó szervezet, amely mellékterméket állít elő, vagy tevékenysége során melléktermék képződik, és az előállított vagy képződött anyagot, tárgyat melléktermékként használja fel, tárolja vagy forgalmazza, a melléktermék 8. § szerinti feltételeknek való megfeleléséről a melléktermék képződését vagy előállítását követő 6 hónapon belül tájékoztatja a környezetvédelmi hatóságot.
 

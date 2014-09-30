@@ -4,7 +4,7 @@
 
 (2) Ha a kereskedőnek és a közvetítőnek a kereskedelem, illetve a közvetítés tárgyát képező hulladék a birtokába kerül, tevékenységét csak kereskedelemre, illetve közvetítésre vonatkozó hulladékgazdálkodási engedéllyel végezheti.
 
-(3) A kereskedő és a közvetítő a hulladékot csak kezelés céljából, a kezelésre vonatkozó hulladékgazdálkodási engedéllyel rendelkező gazdálkodó szervezetnek adhatja át, illetve közvetítheti.
+(3) A kereskedő és a közvetítő a hulladékot – ha törvény vagy kormányrendelet eltérően nem rendelkezik – csak kezelés céljából, a kezelésre vonatkozó hulladékgazdálkodási engedéllyel rendelkező gazdálkodó szervezetnek adhatja át, illetve közvetítheti.
 
 (4) A kereskedő és a közvetítő – ha a hulladék a birtokába kerül – az átvett hulladékot a hulladékkezelőnek változatlan formában adja át.
 

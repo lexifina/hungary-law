@@ -2,4 +2,4 @@
 
 (2) Akinek tevékenysége során hulladék képződik, a hulladék kezeléséről a hulladékbirtokosra vonatkozó előírásoknak megfelelően gondoskodik.
 
-(3) Hulladékot csak kezelésre vonatkozó hulladékgazdálkodási engedéllyel rendelkező gazdálkodó szervezet tárolhat.
+(3)
