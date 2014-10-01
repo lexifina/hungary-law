@@ -44,7 +44,7 @@ b) a (9) bekezdés szerinti új nyilatkozat megtételéig
 
 köteles megőrizni, illetve tárolni.
 
-(12) Annak nyilvántartására, hogy a fogyasztó tett-e a (4) bekezdés c) pontja szerinti nyilatkozatot, 2014. december 31-ig központi nyilvántartási rendszert kell létrehozni, amelynek működésére vonatkozó részletes szabályokat külön törvény állapítja meg.
+(12)
 
 (13) A fogyasztóval kötött szerződésben – annak részét képező egyéb szerződési feltételben – megállapított díj, költség vagy ezek számítási módja nem módosítható a fogyasztó számára kedvezőtlenül a pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvénnyel megállapított rendelkezésekkel összefüggésben.
 
