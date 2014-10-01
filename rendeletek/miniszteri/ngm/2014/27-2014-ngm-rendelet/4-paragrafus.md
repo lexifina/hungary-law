@@ -1,3 +1,5 @@
-## 3. §[^2]
+## 3. § A Rendelet 2. § (1) bekezdése a következő j) ponttal egészül ki:
 
-[^2]: A 3. § a 13. § (2) bekezdése alapján 2014. október 1-jén lép hatályba.
+## (E rendelet hatálya kiterjed)
+
+## „j) a végrehajtási eljáráshoz kapcsolódó banktitokra irányuló adatkérésről szóló tájékoztatás, a végrehajtási eljárást megelőzően vagy a végrehajtási eljárásban kibocsátandó fizetési felszólítás, a végrehajtási eljárás megszüntetéséről szóló értesítés kézbesítésére.”
