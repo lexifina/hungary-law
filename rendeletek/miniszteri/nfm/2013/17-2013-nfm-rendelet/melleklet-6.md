@@ -6,6 +6,6 @@
 
 | 2. | 4120 forint | eset |
 
-6. melléklet a 17/2013. (IV. 30.) NFM rendelethez[^4]
+6. melléklet a 17/2013. (IV. 30.) NFM rendelethez[^6]
 
-[^4]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 39/2014. (IX. 30.) NFM rendelet 11. §-a iktatta be.
