@@ -1,3 +1,3 @@
-## 664. §[^446]
+## 664. § Az egyes, az elektronikus ügyintézéshez kapcsolódó szervezetek kijelöléséről szóló 84/2012. (IV. 21.) Korm. rendelet 5. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^446]: A 664. § a 845. § (4) bekezdése alapján 2014. október 1-jén lép hatályba.
+## „(1) Az elektronikus fizetési és elszámolási rendszert az e-közigazgatásért felelős miniszter működteti.”

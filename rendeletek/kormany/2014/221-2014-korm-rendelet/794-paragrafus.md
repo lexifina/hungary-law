@@ -1,5 +1,5 @@
-## 792–793. §[^516]
+## 792–793. §[^515]
 
 ## 501. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara által működtetett falugazdász-hálózat igazgatási és egyéb feladatainak a meghatározásáról szóló 525/2013. (XII. 30.) Korm. rendelet módosítása
 
-[^516]: A 792–793. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^515]: A 792–793. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
