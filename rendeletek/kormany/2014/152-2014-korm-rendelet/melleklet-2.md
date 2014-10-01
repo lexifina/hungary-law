@@ -122,6 +122,8 @@
 
 |  | 2 | Szellemi Tulajdon Nemzeti Hivatala | felügyelet |
 
+|  | 3 | Igazságügyi Hivatal | irányítás |
+
 ## G) Külgazdasági és külügyminiszter
 
 |  |  | A | B |

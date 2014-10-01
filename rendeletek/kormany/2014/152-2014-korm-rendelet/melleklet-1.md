@@ -6,4 +6,4 @@
 
 [^47]: A 136. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 167/2014. (VII. 17.) Korm. rendelet 18. §-a iktatta be.
 [^48]: A 16. alcím címét a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
-[^49]: Az 1. melléklet a 167/2014. (VII. 17.) Korm. rendelet 19. §-a, a 221/2014. (IX. 4.) Korm. rendelet 834. §-a és 835. § e) pontja szerint módosított szöveg.
+[^49]: Az 1. melléklet a 167/2014. (VII. 17.) Korm. rendelet 19. §-a, a 221/2014. (IX. 4.) Korm. rendelet 834. §-a és 835. § e) pontja, a 233/2014. (IX. 18.) Korm. rendelet 10. §-a szerint módosított szöveg.
