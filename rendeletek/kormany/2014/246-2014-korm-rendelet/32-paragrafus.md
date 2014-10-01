@@ -1,3 +1,0 @@
-## 31. § A nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek kijelöléséről szóló 292/2013. (VII. 26.) Korm. rendelet 5. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A települési hulladék ideiglenes ellátás körében történő gyűjtésére és elszállítására a közszolgáltató hulladékgazdálkodási tevékenységéről és a hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló kormányrendeletet, valamint az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló kormányrendeletet azzal az eltéréssel kell alkalmazni, hogy az ideiglenes ellátásra kijelölt közérdekű szolgáltató minősül közszolgáltatónak.”
