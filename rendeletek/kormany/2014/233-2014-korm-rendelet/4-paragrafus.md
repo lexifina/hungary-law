@@ -1,0 +1,11 @@
+4. § (1) A Kormány – a büntetés-végrehajtással összefüggő pártfogó felügyelői feladatok kivételével – pártfogó felügyelői szolgálatként az igazságügyi szolgálatot és az Igazságügyi Hivatalt jelöli ki.
+
+(2) A magyarországi lakóhellyel, tartózkodási hellyel, szálláshellyel vagy munkavégzési hellyel nem rendelkező magyar állampolgár, vagy külföldi személy esetében – a büntetés-végrehajtással összefüggő pártfogó felügyelői feladatok kivételével – a pártfogó felügyelői feladatok ellátására a fővárosi kormányhivatal igazságügyi szolgálata az illetékes.
+
+(3) Az Igazságügyi Hivatal
+
+a) a pártfogó felügyelői feladatokkal kapcsolatban a büntető ügyekben alkalmazható közvetítői tevékenységről szóló 2006. évi CXXIII. törvény 3. § (1) bekezdése szerinti közvetítői tevékenység végzésére vonatkozó pályázatot ír ki és szerződést köt a közvetítővel,
+
+b) – a büntetés-végrehajtással összefüggő pártfogó felügyelői feladatok kivételével – a pártfogó felügyelői tevékenység országos adatbázisából statisztikai kimutatást készít,
+
+c) kialakítja és fejleszti a pártfogó felügyelői szolgálat és a tevékenységével érintett hatóságok, intézmények és szervezetek közötti együttműködést.
