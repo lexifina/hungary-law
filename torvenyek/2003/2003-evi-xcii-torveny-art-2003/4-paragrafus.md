@@ -23,3 +23,5 @@ vonatkozó rendelkezéseket kell alkalmazni.
 a) a vámazonosító szám megállapításával és a külön jogszabály alapján a vámhatóság hatáskörébe tartozó személyek nyilvántartásba vételével összefüggő eljárásokra a külön jogszabályban meghatározott eltérésekkel, valamint
 
 b) a vámtartozás esetén az adóhatóság által a költségvetési támogatás vonatkozásában gyakorolható visszatartási jog tekintetében.
+
+(4a) E törvény hatálya kiterjed a távolról is nyújtható szolgáltatás utáni, az Európai Közösség más tagállamát megillető hozzáadottértékadó-fizetési és -bevallási kötelezettségre, ha az adózó ezen kötelezettségének az állami adóhatóság útján tesz eleget.
