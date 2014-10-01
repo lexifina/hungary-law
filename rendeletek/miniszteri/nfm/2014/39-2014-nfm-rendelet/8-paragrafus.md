@@ -1,0 +1,3 @@
+## 7. § A távhőszolgáltatónak értékesített távhő árának, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás díjának megállapításáról szóló 50/2011. (IX. 30.) NFM rendelet (a továbbiakban: R3.) 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A lakossági felhasználó és a lakossági díjfizető a távhőszolgáltatásért a távhőszolgáltató vagy az ellátási területen a korábbi távhőszolgáltató helyett működő új távhőszolgáltató részére a távhőszolgáltató által 2014. szeptember 30. napján alkalmazott szolgáltatási díjnál 3,3 százalékkal alacsonyabb összegű, legmagasabb hatósági árnak minősülő szolgáltatási díjat köteles fizetni.”

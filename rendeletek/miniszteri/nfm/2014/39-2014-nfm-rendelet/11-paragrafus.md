@@ -1,0 +1,5 @@
+## 10. § A földgáz rendszerüzemeltetők és egyetemes szolgáltatók által külön díj ellenében végezhető, valamint ingyenesen biztosítandó szolgáltatásokról szóló 17/2013. (IV. 30.) NFM rendelet (a továbbiakban: R4.) „A felhasználó vagy az engedélyes igénye alapján külön díj ellenében végezhető szolgáltatások” alcíme a következő 2/A. §-sal egészül ki:
+
+## „2/A. § (1) A szállítási rendszerüzemeltető a rendszerhasználó által igényelt jogcím-átvezetési szolgáltatásért külön díjat szedhet a rendszerhasználótól. A földgázszállító rendszeren történő jogcím-átvezetési szolgáltatás során a szállítási rendszerüzemeltető a rendszerhasználó által megjelölt partnere számára, az általa meghatározott fizikai vagy virtuális ponton földgáz mennyiség feletti rendelkezési jogot vezet át.
+
+## (2) A jogcím-átvezetési díjat annak a rendszerhasználónak kell megfizetnie, aki a földgázszállító rendszer valamely betáplálási vagy kiadási pontján, vagy a magyar gázkiegyenlítési ponton földgáz feletti rendelkezési jogot más rendszerhasználónak átad.”
