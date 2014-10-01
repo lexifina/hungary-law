@@ -8,7 +8,7 @@
 
 3. beolvadás: egyesülési folyamat, amelyben a beolvadó társulat megszűnik, és annak vagyona az átvevő társulatra, mint jogutódra száll át;
 
-4. elkülönített vagyon: a társulat nyilvántartásában kimutatott társulati művek, valamint a közfeladatok ellátásához a tárgyévben juttatott pénzeszköz, továbbá saját vagyonból a társulati művek értékének 8%-a;
+4. elkülönített vagyon: az üzemeltetésre, fenntartásra és fejlesztésre a települési önkormányzattól vagy a magántulajdonostól átvett művek, valamint a tulajdonos részéről a vízitársulatnak az üzemeltetésre, fenntartásra és fejlesztésre juttatott pénzeszköz;
 
 5. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki, illetve amely a társulat működési területéhez nem tartozó ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
 
@@ -66,9 +66,9 @@
 
 31.
 
-32. társulati közfeladat: a társulat működési területén a társulat tagjainak közös érdekeit szolgáló vízgazdálkodási tevékenység, valamint megbízás alapján a forgalomképes állami tulajdonban lévő vizekkel és vízilétesítményekkel összefüggő feladatok ellátása;
+32. társulati közfeladat: a társulat működési területén a társulat tagjainak közös érdekeit, valamint üzemeltetési szerződés esetén a települési önkormányzati tulajdonban lévő vizek és vízilétesítmények fenntartását, üzemeltetését és fejlesztését szolgáló vízgazdálkodási tevékenység;
 
-33. társulati művek: azok a közcélú, mezőgazdasági és más célú vízgazdálkodási művek, amelyeket a társulat küldöttgyűlése annak nyilvánít;
+33. társulati művek: a vízitársulat saját tulajdonában lévő művek, valamint a települési önkormányzati vagy magántulajdonban lévő azon művek, amelyek fenntartására, üzemeltetésére és fejlesztésére a tulajdonos a vízitársulattal üzemeltetési szerződést köt;
 
 34. területi egység: a társulat működési területének az a földrajzilag meghatározható része, amelyről a terület érdekeltjei, a társulat tagjai küldöttjelölteket, küldötteket választanak;
 
