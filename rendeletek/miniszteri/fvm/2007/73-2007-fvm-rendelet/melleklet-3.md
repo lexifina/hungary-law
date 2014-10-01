@@ -16,144 +16,40 @@
 
 | 23.7 | Helyes Mezőgazdasági és Környezeti Állapot |
 
-3. számú melléklet a 73/2007. (VII. 27.) FVM rendelethez[^11]
+3. számú melléklet a 73/2007. (VII. 27.) FVM rendelethez[^27]
 
-Területi szaktanácsadási központként való elismerésre irányuló kérelem
+Megszűnt területi szaktanácsadási központ jogutódjának területi szaktanácsadási központként való elismerésére irányuló kérelem adattartalma
 
-I.
+1. A kérelmező szervezet azonosító adatai (név, székhely, cégjegyzék szám, statisztikai számjel),
 
-KÉRELEM
+1.1. alapításának éve
 
-Az előzetes nyilvántartásba vett TSzK
+1.2. jogi formája
 
-neve:
+1.3. bankszámlaszáma
 
-székhelye:
+1.4. MVH ügyfél-azonosító száma
 
-hivatalos képviselője:
+2. A szaktanácsadás tárgyi feltételei:
 
-Hivatkozva az VM .......... számú ügyiratában foglalt, TSzK-ként való előzetes nyilvántartásba vételünkről szóló értesítésre, kérem szervezetünk TSzK-ként való elismerését az alábbi adatközlés és nyilatkozatok alapján.
+2.1. a szolgáltatási végpontok
 
-II.
+– elérhetősége (cím, e-mail cím, telefonszám, fax szám, kapcsolattartó személy neve),
 
-ADATKÖZLÉS
+– a helyiség(ek) alapterülete,
 
-| 1. A szaktanácsadás tárgyi feltételei |
+– irodai felszereltsége.
 
-| A pályázatban megjelölt szolgáltatási végpontok (min. 15 m2-es, berendezett, Internet hozzáférésű számítógéppel, telefonnal, faxkészülékkel felszerelt iroda) száma, helye (címe), telefonszáma változatlan: | Igen – Nem |
+3. A szaktanácsadás személyi feltételei:
 
-| 1.1. A pályázatban megjelölt végpontok közül kérjük törölni: | A szolgáltatási végpont székhelye (címe) |
+3.1. a foglalkoztatott szaktanácsadók
 
-| 1.2. A pályázatban nem szereplő új szolgáltatási végpontok: |
+– neve,
 
-| 1.2.1. Szolgáltatási végpont sorszáma |  |
+– regisztrációs száma a szaktanácsadói névjegyzékben,
 
-| 1.2.2. Székhely |  |
+– a foglalkoztatásának módja (alkalmazott munkaszerződéssel, vállalkozói szerződés alapján, megbízási szerződés alapján),
 
-| Irányítószám | ⬜ ⬜ ⬜ ⬜ |
+– szaktanácsadói szakterülete(i).
 
-| Település |  |
-
-| Utca, házszám |  |
-
-| 1.2.3. Postacím (ha nem azonos a székhellyel) |  |
-
-| Irányítószám | ⬜ ⬜ ⬜ ⬜ |
-
-| Település |  |
-
-| Utca, házszám |  |
-
-| Postafiók irányítószám | ⬜ ⬜ ⬜ ⬜ |
-
-| Postafiók |  |
-
-| E-mail |  |
-
-| Telefon |  |
-
-| Fax |  |
-
-| 1.2.4. Kapcsolattartó személy adatai |  |
-
-| Név |  |
-
-| Beosztás |  |
-
-| Telefon 1 |  |
-
-| Telefon 2 |  |
-
-| Fax 1 |  |
-
-| Fax 2 |  |
-
-| E-mail |  |
-
-| 1.2.5. Ügyfélszolgálat ideje |  |
-
-| 1.2.6. Rendelkezésre álló infrastruktúra |  |
-
-| Végpont helyiségeinek területe |  |
-
-| Internetkapcsolat típusa |  |
-
-| Informatika |  |
-
-| Irodatechnika |  |
-
-| Egyéb (a végpont használatának jogcíme) |  |
-
-Megjegyzés: több új végpont esetén a táblázat bővíthető.
-
-| 2. A szaktanácsadás személyi feltételei |
-
-| A pályázatban megjelölt, foglalkoztatni kívánt szaktanácsadók neve, regisztrációs száma, szakterülete(i), szolgáltatási végpontjának címe [csak azok a 95/1999. (XI. 5.) FVM rendelet szerinti – Szaktanácsadói Névjegyzékben regisztrált szaktanácsadók, vagy a 65/2005. (VII. 14.) FVM rendelet szerinti – NVT tanácsadók vehetők figyelembe, akik az FVM Vidékfejlesztési, Képzési és Szaktanácsadási Intézet által 2007. évben szervezett szaktanácsadói továbbképzésen a kölcsönös megfeleltetés és a munkabiztonság szakterületeiből eredményes vizsgát tettek] változatlan: | Igen – Nem |
-
-| 2.1. A pályázatban megjelölt szaktanácsadók közül kérjük törölni: | A szaktanácsadó neve, regisztrációs száma |
-
-| 2.2. A pályázatban nem szereplő új szaktanácsadók: |
-
-| Sor- szám | Név | Regisztrációs szám (Szaktanácsadói vagy NVT tanácsadói) | Foglalkoztatás módja (alkalmazott, vállalkozói szerződés, eseti megbízás) | Szakterület kódja (3. számú melléklet) | Szolgáltatási végpont székhelye (címe) |
-
-| 1 |  |  |  |  |  |
-
-| 2 |  |  |  |  |  |
-
-| 3 |  |  |  |  |  |
-
-| 4 |  |  |  |  |  |
-
-| 5 |  |  |  |  |  |
-
-| 6 |  |  |  |  |  |
-
-| 7 |  |  |  |  |  |
-
-| 8 |  |  |  |  |  |
-
-| 9 |  |  |  |  |  |
-
-| 10 |  |  |  |  |  |
-
-Megjegyzés: több új/törölni kívánt végpont/szaktanácsadó esetén a táblázat bővíthető.
-
-Kelt:
-
-.....................................................
-
-TSzK képviselőjének aláírása
-
-III.
-
-NYILATKOZATOK
-
-Alulírottak kijelentjük, hogy a ................................... (TSzK neve) és ........................... (szaktanácsadó neve) ....................... (névjegyzéki regisztrációs száma) között – írásba foglalt megállapodás alapján – határozott idejű/határozatlan idejű munkavégzésre irányuló jogviszony áll fent. Határozott idejű munkavégzésre irányuló jogviszony esetén a megállapodás ........ év .......... hó .......... napig érvényes.
-
-Kelt:
-
-| ........................................... | ..................................................... |
-
-| szaktanácsadó aláírása | TSzK képviselőjének aláírása |
-
-[^11]: A 3. számú melléklet a 106/2012. (X. 11.) VM rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^27]: A 3. számú melléklet a 32/2014. (IV. 3.) VM rendelet 2. § (15) bekezdésével megállapított szöveg.

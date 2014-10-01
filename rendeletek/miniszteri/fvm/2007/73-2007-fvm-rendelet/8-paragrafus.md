@@ -12,7 +12,7 @@ e) mezőgazdasági tevékenységhez használatos anyagokat, eszközöket nem for
 
 f) vállalja, hogy azon vállalkozási tevékenységeihez, amelyeket egyéb jogszabály szerint szaktanácsadó végezhet, mezőgazdasági szaktanácsadókkal munkavégzésre vonatkozó jogviszonyt létesít,
 
-g)[^6] vállalja, hogy az Európai Unió kölcsönös megfeleltetésre, helyes mezőgazdasági és környezeti állapotra vonatkozó előírásainak 2. számú melléklet szerinti szakterületeit, valamint a mezőgazdasági és erdészeti munkabiztonság szakterületeit lefedően – a NAKVI által igazoltan – vizsgával rendelkező szaktanácsadókkal munkavégzésre vonatkozó jogviszonyt létesít,
+g)[^15] vállalja, hogy az Európai Unió kölcsönös megfeleltetésre, helyes mezőgazdasági és környezeti állapotra vonatkozó előírásainak 2. számú melléklet szerinti szakterületeit, valamint a mezőgazdasági és erdészeti munkabiztonság szakterületeit lefedően – a NAKVI által igazoltan – vizsgával rendelkező szaktanácsadókkal munkavégzésre vonatkozó jogviszonyt létesít,
 
 h) infrastrukturális és humán erőforrása alkalmas a magas színvonalú szaktanácsadói munka ellátására,
 
@@ -20,4 +20,4 @@ i) vállalja, hogy egy vagy több szolgáltatási végpontot működtet,
 
 j) nemzeti költségvetésből nyújtott, vagy az Európai Unióval társfinanszírozásban megvalósuló agrártámogatásokhoz kapcsolódó adminisztratív vagy fizikai ellenőrző tevékenységet nem végez.
 
-[^6]: A 8. § g) pontja a 106/2012. (X. 11.) VM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^15]: A 8. § g) pontja a 106/2012. (X. 11.) VM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.

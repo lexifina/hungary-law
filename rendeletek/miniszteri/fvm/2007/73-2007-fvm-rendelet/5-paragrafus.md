@@ -1,7 +1,8 @@
 ## Regionális szaktanácsadási központok
 
-5. § (1) A regionális szaktanácsadási központok (a továbbiakban: RSzK) listáját a rendelet 1. számú melléklete tartalmazza.
+5. § (1)[^9] Az RSzK-k listáját a rendelet 1. számú melléklete tartalmazza.
 
-(2)[^4] Az irányító hatóság az RSzK-k irányításával összefüggő egyes feladatait a NAKVI közreműködésével látja el.
+(2)[^10] Az irányító hatóság az RSzK-k irányításával összefüggő egyes feladatait a NAK közreműködésével látja el.
 
-[^4]: Az 5. § (2) bekezdése a 106/2012. (X. 11.) VM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^9]: Az 5. § (1) bekezdése a 32/2014. (IV. 3.) VM rendelet 2. § (16) bekezdés a) pontja szerint módosított szöveg.
+[^10]: Az 5. § (2) bekezdése a 32/2014. (IV. 3.) VM rendelet 2. § (7) bekezdésével megállapított szöveg.
