@@ -4,7 +4,7 @@
 
 a) a rendszerhasználati díj esetében a 105. § (2) bekezdése,
 
-b) a csatlakozási díj esetében a 108. § (1) bekezdése,
+b)
 
 c) a külön díj esetében a 106. §, és
 
