@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-98-20-2
 | 2012-08-16 | 1995-98-20-22.8 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2013-10-01 | 1995-98-20-22.9 | 206/1996. (XII. 23.) Korm. rendelet |
 | 2014-03-15 | 1995-98-20-22.10 | 80/2014. (III. 14.) Korm. rendelet |
+| 2014-10-01 | 1995-98-20-22.11 | 233/2014. (IX. 18.) Korm. rendelet |
