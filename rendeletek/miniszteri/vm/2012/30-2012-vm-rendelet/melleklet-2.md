@@ -178,7 +178,7 @@
 
 |  | 88. | 7020 | Ingatlan bérbeadása, üzemeltetése | 68.20.12 | Saját tulajdonú és bérelt nem lakóingatlan bérbeadása, üzemeltetése |
 
-|  | 89. | 7031 | Ingatlan-értékbecslés | 68.31.16 | Ingatlan-értékbecslés |
+|  | 89. |  |  |  |  |
 
 |  | 90. | 7110 | Gépkocsikölcsönzés | 77.11.10 | Személygépjármű kölcsönzése |
 
@@ -270,11 +270,11 @@
 
 |  | 134. |  |  | 73.20.20 | Közvélemény-kutatás |
 
-|  | 135. | 7414 | Üzletviteli tanácsadás | 70.21.10 | PR, kommunikáció |
+|  | 135. | 7414 | Üzletviteli tanácsadás |  |  |
 
 |  | 136. |  |  | 70.22.30 | Üzletviteli, egyéb vezetési tanácsadás |
 
-|  | 137. |  |  | 74.90.20 | M.n.s. egyéb szakmai, tudományos, műszaki tevékenység |
+|  | 137. |  |  |  |  |
 
 |  | 138. | 7420 | Építészeti tervezés/Egyéb műszaki tervezése,… | 71.11.10 | Építészeti terv, tervrajz |
 
@@ -324,7 +324,7 @@
 
 |  | 161. | 7487 | Máshova nem sorolt, egyéb gazdasági szolgáltatás | 74.90.19 | Egyéb m.n.s. tudományos és műszaki tanácsadás |
 
-|  | 162. |  |  | 74.90.20 | Egyéb m.n.s. szakmai, műszaki és üzleti szolgáltatás |
+|  | 162. |  |  | 74.90.20 | Egyéb m.n.s. szakmai, tudományos és üzleti szolgáltatás tevékenység |
 
 |  | 163. |  |  | 82.30.11 | Konferencia szervezése |
 

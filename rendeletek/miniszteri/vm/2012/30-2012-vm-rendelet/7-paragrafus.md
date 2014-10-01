@@ -36,7 +36,15 @@ d) munkavállalója,
 
 ## magánszemélyként, vagy ezen személyek tulajdonában vagy közeli hozzátartozóik tulajdonában álló gazdasági társaság, továbbá – az önkormányzatok kivételével – azon gazdasági társaságnak nem minősülő jogi személyek sem, ahol az a)–d) pontban felsorolt személyek vagy azok közeli hozzátartozói vezető tisztségviselőként működnek.
 
-(11) A LEADER HACS elnöke, vezető tisztségviselője, munkaszervezet vezetője, munkaszervezet munkavállalója és ezek közeli hozzátartozói tulajdonában álló ingatlan, valamint a LEADER HACS munkaszervezet vezetője, munkaszervezet munkavállalója és ezek közeli hozzátartozói tulajdonában álló szervezet tulajdonában álló ingatlan vonatkozásában bérleti díj nem számolható el.
+(11)[^16] Nem számolható el bérleti díj olyan ingatlannal kapcsolatban, amely
+
+a) a LEADER HACS elnöke, vezető tisztségviselője, munkaszervezet vezetője, munkaszervezet munkavállalója tulajdonában áll,
+
+b) az a) pont alá tartozó személy közeli hozzátartozója tulajdonában áll,
+
+c) az a)–b) pont alá tartozó személy tulajdonában álló gazdasági társaság tulajdonában áll, vagy
+
+d) olyan gazdasági társaság, alapítvány, egyesület, egyházi jogi személy, vagy szakszervezet tulajdonában áll, amelyben az a)–b) pont szerinti személyek vezető tisztséget viselnek.
 
 [^9]: A 7. § (3) bekezdése a 35/2013. (V. 22.) VM rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^10]: A 7. § (4) bekezdése a 35/2013. (V. 22.) VM rendelet 22. § (2) bekezdésével megállapított szöveg.
@@ -45,3 +53,4 @@ d) munkavállalója,
 [^13]: A 7. § (7) bekezdése a 106/2013. (XI. 26.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^14]: A 7. § (9) bekezdése a 106/2013. (XI. 26.) VM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^15]: A 7. § (10) bekezdése a 106/2013. (XI. 26.) VM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^16]: A 7. § (11) bekezdése az 1/2014. (IX. 15.) MvM rendelet 11. § (1) bekezdésével megállapított szöveg.
