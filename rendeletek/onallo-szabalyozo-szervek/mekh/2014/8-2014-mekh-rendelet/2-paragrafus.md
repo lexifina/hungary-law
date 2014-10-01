@@ -1,0 +1,1 @@
+## „q) gáznapi középhőmérséklet: az Országos Meteorológiai Szolgálat (a továbbiakban: OMSz) által az 5. melléklet szerinti mérési pontokon mért és a gáznapot követő nap 12:00 óráig nyilvánosságra hozott hőmérsékletérték,”
