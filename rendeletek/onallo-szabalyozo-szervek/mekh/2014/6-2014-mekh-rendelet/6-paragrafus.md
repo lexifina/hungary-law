@@ -1,3 +1,0 @@
-6. § (1) Amennyiben az R. 1. § (2) bekezdés 1. pontja szerinti bekapcsolás és az R. 1. § (2) bekezdés 2. pontja szerinti, egyetemes szolgáltatásra jogosult felhasználó érdekében megvalósuló fejlesztés esetén a leendő felhasználóktól csatlakozási díj címén beszedhető összeg meghaladja a beruházás összegét, a leendő felhasználóktól csatlakozási díjként legfeljebb olyan összeg szedhető, amely a beruházás összegének és a beszedhető csatlakozási díjak összegének a hányadosával korrigálásra került.
-
-(2) A földgázelosztó az (1) bekezdés szerinti rendelkezést az 5. § (2) bekezdése szerinti megtérítési kötelezettség teljesítése során is figyelembe veszi.
