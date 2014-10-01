@@ -34,7 +34,7 @@ ba) február 1. és február 28.
 
 bb)[^32] április 1. és június 15.
 
-## között lehet benyújtani.
+között lehet benyújtani.
 
 (7)[^33] Kifizetési kérelem 2015. június 15-ét követően nem nyújtható be.
 

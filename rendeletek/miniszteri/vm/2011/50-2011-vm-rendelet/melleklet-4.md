@@ -404,7 +404,7 @@
 
 | 5. Mindösszesen: |  | max.: 100 |
 
-4. melléklet az 50/2011. (VI. 6.) VM rendelethez[^136]
+4. melléklet az 50/2011. (VI. 6.) VM rendelethez[^131]
 
 Monitoring adatok
 
@@ -566,4 +566,4 @@ Monitoring adatok
 
 | 3.29. | Kizárólag a támogatásnak köszönhetően hány tonnányi kapacitást ért el a felújított halfeldolgozó üzemben a beruházás megkezdésétől tárgyév végéig összesen? |
 
-[^136]: A 4. melléklet a 85/2013. (IX. 25.) VM rendelet 19. § (4) bekezdése szerint módosított szöveg.
+[^131]: A 4. melléklet a 85/2013. (IX. 25.) VM rendelet 19. § (4) bekezdése szerint módosított szöveg.

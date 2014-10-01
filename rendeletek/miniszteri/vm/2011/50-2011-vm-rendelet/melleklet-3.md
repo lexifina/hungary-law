@@ -14,7 +14,7 @@
 
 ## f) önetetők.
 
-## 2.[^129] Halgazdálkodás gépei, eszközei:
+## 2.[^124] Halgazdálkodás gépei, eszközei:
 
 ## a) erőgépek;
 
@@ -28,13 +28,13 @@
 
 ## f) halcsúszda;
 
-## g)[^130] hidraulikus, és mechanikus szártépők és zúzó-mulcsozó gépek;
+## g)[^125] hidraulikus, és mechanikus szártépők és zúzó-mulcsozó gépek;
 
-## h)[^131] pótkocsik, utánfutók;
+## h)[^126] pótkocsik, utánfutók;
 
-## i)[^132] homlokrakodó.
+## i)[^127] homlokrakodó.
 
-## 3.[^133] Halszállítás eszközei:
+## 3.[^128] Halszállítás eszközei:
 
 ## a) halszállító gépjármű;
 
@@ -60,7 +60,7 @@
 
 ## b) vízanalitikai mérőeszközök, berendezések.
 
-## 6.[^134] Egyéb gépek, eszközök:
+## 6.[^129] Egyéb gépek, eszközök:
 
 ## a) vízszivattyúk;
 
@@ -86,12 +86,12 @@
 
 ## l) borona.
 
-3. melléklet az 50/2011. (VI. 6.) VM rendelethez[^135]
+3. melléklet az 50/2011. (VI. 6.) VM rendelethez[^130]
 
-[^129]: A 2. melléklet 2. pontja a 85/2013. (IX. 25.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^130]: A 2. melléklet 2. pont g) pontját a 2/2014. (IX. 15.) MvM rendelet 17. § (2) bekezdése iktatta be.
-[^131]: A 2. melléklet 2. pont h) pontját a 2/2014. (IX. 15.) MvM rendelet 17. § (2) bekezdése iktatta be.
-[^132]: A 2. melléklet 2. pont i) pontját a 2/2014. (IX. 15.) MvM rendelet 17. § (2) bekezdése iktatta be.
-[^133]: A 2. melléklet 3. pontja a 85/2013. (IX. 25.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^134]: A 2. melléklet 6. pontja a 85/2013. (IX. 25.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^135]: A 3. melléklet a 97/2012. (IX. 13.) VM rendelet 16. § (2) bekezdésével megállapított, a 85/2013. (IX. 25.) VM rendelet 19. § (3) bekezdése szerint módosított szöveg.
+[^124]: A 2. melléklet 2. pontja a 85/2013. (IX. 25.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^125]: A 2. melléklet 2. pont g) pontját a 2/2014. (IX. 15.) MvM rendelet 17. § (2) bekezdése iktatta be.
+[^126]: A 2. melléklet 2. pont h) pontját a 2/2014. (IX. 15.) MvM rendelet 17. § (2) bekezdése iktatta be.
+[^127]: A 2. melléklet 2. pont i) pontját a 2/2014. (IX. 15.) MvM rendelet 17. § (2) bekezdése iktatta be.
+[^128]: A 2. melléklet 3. pontja a 85/2013. (IX. 25.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^129]: A 2. melléklet 6. pontja a 85/2013. (IX. 25.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^130]: A 3. melléklet a 97/2012. (IX. 13.) VM rendelet 16. § (2) bekezdésével megállapított, a 85/2013. (IX. 25.) VM rendelet 19. § (3) bekezdése szerint módosított szöveg.
