@@ -4,7 +4,7 @@ A Kormány
 
 a) az ÉMOP-2.1.1. kódszámú, „Versenyképes turisztikai termék- és attrakciófejlesztés” című konstrukció keretében a Bor-Vidék Tokaj-Hegyalja Nemzeti Program által érintett települések turizmusfejlesztési célú projektjeinek támogathatósága céljából 2,30 milliárd forint elszámolható közkiadással,
 
-b) az ÉMOP-2.1.1. kódszámú, „Versenyképes turisztikai termék- és attrakciófejlesztés” című konstrukció keretében a Magyar Nemzeti Digitális Archívum, Nemzeti Filmtörténeti Élménypark kialakítását célzó fejlesztésének támogathatósága céljából 0,50 milliárd forint elszámolható közkiadással,
+b)[^2]
 
 Felelős: nemzetgazdasági miniszter
 
@@ -16,6 +16,7 @@ Felelős: Miniszterelnökséget vezető államtitkár
 
 Határidő: folyamatos
 
-3.[^1]
+3.[^3]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont b) alpontját az 1555/2014. (X. 1.) Korm. határozat 3. pont b) alpontja hatályon kívül helyezte.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
