@@ -6,6 +6,6 @@
 
 (4) A hamis bankjegy őrzését és kezelését – uniós jogi aktus vagy jogszabály eltérő rendelkezése hiányában – az MNB végzi.
 
-(5)[^16] Az MNB a pénzhamisítás megelőzése és felderítése érdekében együttműködik a bűnüldöző szervekkel, és kérésükre – az információs önrendelkezési jogról és az információszabadságról szóló törvényben és az új MNB tv. 24. § (2) bekezdésében foglaltak figyelembevételével – pénzhamisításra vonatkozó adatokat ad át részükre.
+(5)[^32] Az MNB a pénzhamisítás megelőzése és felderítése érdekében együttműködik a bűnüldöző szervekkel, és kérésükre – az információs önrendelkezési jogról és az információszabadságról szóló törvényben és az új MNB tv. 24. § (2) bekezdésében foglaltak figyelembevételével – pénzhamisításra vonatkozó adatokat ad át részükre.
 
-[^16]: A 15. § (5) bekezdése a 2/2014. (II. 14.) MNB rendelet 5. § (4) bekezdése szerint módosított szöveg.
+[^32]: A 15. § (5) bekezdése a 2/2014. (II. 14.) MNB rendelet 5. § (4) bekezdése szerint módosított szöveg.

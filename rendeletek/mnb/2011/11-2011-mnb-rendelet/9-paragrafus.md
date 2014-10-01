@@ -20,4 +20,8 @@ ae) a bankjegyfeldolgozó és -válogató gép esetében a bankjegy-beadagolás 
 
 af) a bankjegy-visszaforgató gép esetében a forgalomképesség szerinti válogatási küszöbértékek módosítási lehetőségének módja,
 
-b) a bevizsgálandó bankjegyvizsgáló gép felhasználói kézikönyve.
+b) a bevizsgálandó bankjegyvizsgáló gép felhasználói kézikönyve,
+
+c)[^29] a bevizsgálandó bankjegyvizsgáló gép karbantartásának módját tartalmazó dokumentum.
+
+[^29]: A 9. § (3) bekezdés c) pontját a 34/2014. (IX. 25.) MNB rendelet 4. §-a iktatta be.

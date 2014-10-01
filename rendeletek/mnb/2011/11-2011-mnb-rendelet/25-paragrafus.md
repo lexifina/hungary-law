@@ -1,5 +1,7 @@
-25. §[^20] (1) A 19. § (4) bekezdése alapján az intézkedési tervét kétévente felülvizsgálni köteles hitelintézet és a posta a bankjegyek feldolgozásáról, forgalmazásáról, valamint hamisítás elleni védelmével kapcsolatos technikai feladatokról szóló 11/2011. (IX. 6.) MNB rendelet módosításáról szóló 2/2014. (II. 14.) MNB rendelet 3. §-ával megállapított 19. § (1)–(3) bekezdése alapján felülvizsgált és kiegészített intézkedési tervét első alkalommal 2014. június 30-ig köteles megküldeni az MNB részére.
+## 25. §[^39] A 2014. szeptember 30-ig üzembe helyezett bankjegyvizsgáló gépekre vonatkozó, a bankjegyek feldolgozásáról, forgalmazásáról, valamint hamisítás elleni védelmével kapcsolatos technikai feladatokról szóló 11/2011. (IX. 6.) MNB rendelet módosításáról szóló 34/2014. (IX. 25.) MNB rendelet (a továbbiakban: Módosító R.) 3. §-ával megállapított
 
-(2) A 19. § (5) bekezdése alapján az intézkedési tervét háromévente felülvizsgálni köteles hitelintézet a bankjegyek feldolgozásáról, forgalmazásáról, valamint hamisítás elleni védelmével kapcsolatos technikai feladatokról szóló 11/2011. (IX. 6.) MNB rendelet módosításáról szóló 2/2014. (II. 14.) MNB rendelet 3. §-ával megállapított 19. § (1)–(3) bekezdése alapján intézkedési tervét első alkalommal 2015. június 30-ig köteles felülvizsgálni és kiegészíteni.
+a) 5. § (2) bekezdése szerinti adatokat a pénzfeldolgozó, a pénzforgalmazó és az egyéb gazdasági szereplő,
 
-[^20]: A 25. §-t a 32. § (2) bekezdése hatályon kívül helyezte, újonnan a 2/2014. (II. 14.) MNB rendelet 4. §-a iktatta be.
+b) 5. § (4) bekezdése szerinti adatokat a magyarországi székhellyel rendelkező gyártó, ennek hiányában a forgalmazó
+
+[^39]: A 25. §-t a 32. § (2) bekezdése hatályon kívül helyezte, újonnan a 2/2014. (II. 14.) MNB rendelet 4. §-a iktatta be, szövege a 34/2014. (IX. 25.) MNB rendelet 9. §-ával megállapított szöveg.
