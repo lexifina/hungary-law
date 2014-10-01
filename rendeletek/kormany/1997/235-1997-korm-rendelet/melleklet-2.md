@@ -808,7 +808,7 @@
 
 ## V/A. számú adatlap
 
-## A gyámhatóság által kirendelt támogatókról és támogatott személyeikről [a támogatott döntéshozatalról szóló 2013. évi CLV. törvény 11. §][^23]
+## A gyámhatóság által kirendelt támogatókról és támogatott személyeikről [a támogatott döntéshozatalról szóló 2013. évi CLV. törvény 11. §][^24]
 
 ## (Gyámhivatal tölti ki)
 
@@ -1870,7 +1870,7 @@
 
 ## A „B” adatlapból mindig újat kell kitölteni, ha újabb nevelési felügyeletet rendeltek el.
 
-2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^24]
+2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^25]
 
 A „Gyermekeink védelmében” elnevezésű adatlaprendszer
 
@@ -4168,5 +4168,5 @@ Az adatlap továbbítása: felülvizsgálat esetén a gyámhivatal és a gyermek
 
 XXII. számú adatlap
 
-[^23]: Ha a támogatott személynek több támogatója van, az adatlapot minden támogató tekintetében külön-külön ki kell tölteni.
-[^24]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 14. § f)–k) pontjai, a 93. § (1) bekezdés f) pont fb) és fc) alpontja, a 71/2014. (III. 13.) Korm. rendelet 8. § (2) és (4) bekezdése, a 10. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^24]: Ha a támogatott személynek több támogatója van, az adatlapot minden támogató tekintetében külön-külön ki kell tölteni.
+[^25]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 14. § f)–k) pontjai, a 93. § (1) bekezdés f) pont fb) és fc) alpontja, a 71/2014. (III. 13.) Korm. rendelet 8. § (2) és (4) bekezdése, a 10. § (1) bekezdés d) pontja szerint módosított szöveg.
