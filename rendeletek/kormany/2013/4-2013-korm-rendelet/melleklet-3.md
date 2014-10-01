@@ -34,7 +34,7 @@
 
 | 16. | nincs címrendhez kötve | Magyar Nemzeti Bank | Auditált éves beszámoló az állami részesedés értékeléséhez | Évente egyszer, a beszámoló elfogadását követően |
 
-| 17. | nincs címrendhez kötve | Közigazgatási és Igazságügyi Hivatal | Kibocsátott kárpótlási jegyek be nem váltott állománya adatai | Negyedévente egyszer, a Kincstár által megállapított időpontban |
+| 17. | nincs címrendhez kötve | Igazságügyi Hivatal | Kibocsátott kárpótlási jegyek be nem váltott állománya adatai | Negyedévente egyszer, a Kincstár által megállapított időpontban |
 
 | 18. | nincs címrendhez kötve | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Az Európai Uniós támogatásokhoz kapcsolódó követelések és kötelezettségek adatai A központi költségvetés által korábban megelőlegezett, lezárt EU-s támogatási konstrukciókhoz kapcsolódó átadásra kerülő Európai Unióval szembeni követelések devizában és forintban | Negyedévente egyszer, a Kincstár által megállapított időpontban |
 
