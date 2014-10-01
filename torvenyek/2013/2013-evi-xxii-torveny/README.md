@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-22-00-00
 | 2013-04-05 | 2010. évi CXXX. törvény | 2013-22-00-00.2 |
 | 2013-06-28 | 2013. évi CXX. törvény | 2013-22-00-00.3 |
 | 2013-10-01 | 2013. évi CXLIII. törvény | 2013-22-00-00.4 |
+| 2014-10-01 | 2014. évi XI. törvény | 2013-22-00-00.5 |
