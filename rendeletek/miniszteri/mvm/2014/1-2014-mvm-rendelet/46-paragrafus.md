@@ -1,4 +1,4 @@
-## 44–45. §[^27]
+## 44–45. §[^26]
 
 ## 28. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 6. § 2014. december 16-án lép hatályba.
 
-[^27]: A 44–45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 44–45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
