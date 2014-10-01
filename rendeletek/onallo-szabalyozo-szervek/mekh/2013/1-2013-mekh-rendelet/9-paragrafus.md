@@ -42,12 +42,13 @@ e) a földgáztermelő
 
 (10) A részleges szigetüzem esetében az összevont kiadási pontra a szállítóvezetékről igénybe vett kiadási kapacitás után szállítási kapacitás díjat és az allokált mennyiség termeléssel arányosan csökkentett mértéke után a szállítási forgalmi díjat, valamint a teljes allokált mennyiségre vonatkozóan a szagosítási díjat meg kell fizetni a szállítási rendszerüzemeltető részére.
 
-(11)[^37] A 2. § (1) bekezdés a) pont aa) alpont aaj) alpontjában lévő kiadási pontra vonatkozó szállítási kapacitási díj a következő árszabályozási ciklus kezdetéig a 2. § (1) bekezdés a) pont aa) alpont aaa) alpontjában meghatározott kiadási pontra vonatkozó eszköz- és költség-felülvizsgálat, valamint árkorrekció figyelembevételével kerül megállapításra.
+(11)[^39] A 2. § (1) bekezdés a) pont aa) alpont aaj) alpontjában lévő kiadási pontra vonatkozó szállítási kapacitási díj a következő árszabályozási ciklus kezdetéig a 2. § (1) bekezdés a) pont aa) alpont aaa) alpontjában meghatározott kiadási pontra vonatkozó eszköz- és költség-felülvizsgálat, valamint árkorrekció figyelembevételével kerül megállapításra.
 
-(12) A 2. § (1) bekezdés a) pont aa) alpont aak) és aal) alpontja szerinti szállítóvezeték tekintetében rendszerhasználati díjakat kizárólag a vezeték üzembe helyezésének időpontjára kell megállapítani.
+(12)[^40]
 
 (13) A földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló 29/2009. (VI. 25.) KHEM rendelet (a továbbiakban: ESZ rendelet) 6. § (4) bekezdése szerinti fajlagos értéket a 3. melléklet 1. pontja tartalmazza.
 
 (14) Az R. 3/A. § (1) bekezdése szerinti visszatérítés mértékét a 3. melléklet 2. pontja, az R. 3/A. § (2) bekezdése szerinti táblázatot a 3. melléklet 3. pontja tartalmazza.
 
-[^37]: A 9. § (11) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § e) pontja szerint módosított szöveg.
+[^39]: A 9. § (11) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § e) pontja szerint módosított szöveg.
+[^40]: A 9. § (12) bekezdését a 8/2014. (IX. 15.) MEKH rendelet 15. § b) pontja hatályon kívül helyezte.
