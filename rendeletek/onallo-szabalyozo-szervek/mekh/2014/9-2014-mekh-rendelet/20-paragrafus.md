@@ -1,0 +1,1 @@
+## 19. § Attól a felhasználótól vagy földgáztermelőtől, aki vagy amely e rendelet hatálybalépéséig visszterhesen vagy ingyenesen jutott hozzá a vásárolt kapacitáshoz, e korábbi bekapcsolásért, fejlesztésért vagy kapacitásnövelésért utólag díj és térítés nem szedhető.
