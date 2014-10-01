@@ -6,4 +6,6 @@
 
 (4) A hamis érme őrzését és kezelését – uniós jogi aktus vagy jogszabály eltérő rendelkezése hiányában – az MNB végzi.
 
-(5) Az MNB a pénzhamisítás megelőzése és felderítése érdekében együttműködik a bűnüldöző szervekkel, és kérésükre – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben és az MNB tv. 31/A. § (1) bekezdésében foglaltak figyelembevételével – pénzhamisításra vonatkozó adatokat ad át részükre.
+(5)[^3] Az MNB a pénzhamisítás megelőzése és felderítése érdekében együttműködik a bűnüldöző szervekkel, és kérésükre – az információs önrendelkezési jogról és az információszabadságról szóló törvényben és az új MNB tv. 24. § (2) bekezdésében foglaltak figyelembevételével – pénzhamisításra vonatkozó adatokat ad át részükre.
+
+[^3]: A 7. § (5) bekezdése a 35/2014. (IX. 25.) MNB rendelet 3. § (2) bekezdése szerint módosított szöveg.
