@@ -1,4 +1,4 @@
-## 1. megállapítja az Észak-Magyarországi Operatív Program 2011–2013. évekre szóló akciótervének 2. prioritását az 1. melléklet szerint,
+## 1.[^2]
 
 ## 2. jóváhagyja a 2. melléklet 1. pontja szerint az ÉMOP-2.1.1/A-09-2f-2011-0001 azonosító számú, „Az egri vár és erődrendszer turisztikai attrakcióinak fejlesztése” című kiemelt projekt elszámolható közkiadásának legfeljebb 363 344 768 forinttal történő növelését,
 
@@ -28,8 +28,10 @@
 
 ## Határidő: azonnal
 
-## 6.[^1]
+## 6.[^3]
 
-1. melléklet az 1300/2014. (V. 5.) Korm. határozathoz
+1. melléklet az 1300/2014. (V. 5.) Korm. határozathoz[^4]
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pontot az 1555/2014. (X. 1.) Korm. határozat 3. pont a) alpontja hatályon kívül helyezte.
+[^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. mellékletet az 1555/2014. (X. 1.) Korm. határozat 3. pont a) alpontja hatályon kívül helyezte.

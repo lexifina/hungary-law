@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1300-30
 | --- | --- | --- |
 | 2014-05-05 | 2014-1300-30-22.1 | 1300/2014. (V. 5.) Korm. határozat |
 | 2014-05-06 | 2014-1300-30-22.2 | 2010: CXXX. törvény |
+| 2014-10-01 | 2014-1300-30-22.3 | 1555/2014. (X. 1.) Korm. határozat |
