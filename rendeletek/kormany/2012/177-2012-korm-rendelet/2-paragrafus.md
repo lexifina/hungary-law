@@ -1,4 +1,4 @@
-## 1/A. §[^2] Az igazságügyért felelős miniszter a 3–7. §-ban meghatározott feladatokkal összefüggésben gyakorolja a Hivatal felett a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés c), e) és f)–h) pontjában meghatározott hatásköröket.
+## 1/A. §[^2]
 
 ## 2. A Közigazgatási és Igazságügyi Hivatal vezetői
 
@@ -8,4 +8,4 @@
 
 (3) Az igazgató minisztériumi főosztályvezetői besorolású és illetményű kormánytisztviselő.
 
-[^2]: Az 1/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 678. §-a iktatta be.
+[^2]: Az 1/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 678. §-a iktatta be, hatályon kívül helyezte a 233/2014. (IX. 18.) Korm. rendelet 12. §-a.

@@ -1,3 +1,5 @@
+## 3–7. §
+
 ## 4. A Közigazgatási és Igazságügyi Hivatal támogatáskezelői- és közvetítői feladatai
 
 ## 8. § A Hivatal ellátja a miniszter által megjelölt, vagy jogszabály alapján kijelölt fejezeti kezelésű előirányzatok, programok pályázati és más úton történő felhasználásának előkészítésével, lebonyolításával és ellenőrzésével kapcsolatos feladatokat, amelynek keretében
