@@ -1,20 +1,14 @@
-## A 2. § szerinti földgázforrás ára és mennyisége 2014. harmadik negyedévre, valamint a felek köre
+## A 2. § szerinti földgázforrás ára és mennyisége 2014. negyedik negyedévre, valamint a felek köre
 
-## 1. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által értékesítendő, nem földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége:
+## 1. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által értékesítendő, hazai termelésből származó földgázforrás legmagasabb hatósági ára és mennyisége:
 
-|  | A | B | C | D |
+|  | A | B | C |
 
-| 1. | Szerződött egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Nem hazai termelésből beszerzett földgázforrás ára (USD/GJ) | Hazai termelésből beszerzett földgázforrás ára (forint/MJ) |
+| 1. | Szerződött egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Hazai termelésből beszerzett földgázforrás ára (forint/MJ) |
 
-| 2. | FŐGÁZ Zrt. | 1395 | 9,789 | - |
+| 2. | E.ON Energiaszolgáltató Kft. | 1378 | 0,907 |
 
-| 3. | E.ON Energiaszolgáltató Kft. | 1111 | 9,789 | - |
-
-| 4. | E.ON Energiaszolgáltató Kft. | 345 | - | 1,202 |
-
-| 5. | GDF SUEZ Energia Magyarország Zrt. | 1294 | 9,789 | - |
-
-| 6. | GDF SUEZ Energia Magyarország Zrt. | 340 | - | 1,261 |
+| 3. | GDF SUEZ Energia Magyarország Zrt. | 1530 | 0,907 |
 
 ## 2. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által értékesítendő, földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége:
 
@@ -22,12 +16,12 @@
 
 | 1. | Szerződött egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Földgázforrás ára (forint/MJ) |
 
-| 2. | E.ON Energiaszolgáltató Kft. | - | - |
+| 2. | E.ON Energiaszolgáltató Kft. | 4175 | 1,780 |
 
-| 3. | GDF SUEZ Energia Magyarország Zrt. | - | - |
+| 3. | GDF SUEZ Energia Magyarország Zrt. | 4470 | 1,846 |
 
-| 4. | FŐGÁZ Zrt. | - | - |
+| 4. | FŐGÁZ Zrt. | 3956 | 2,122 |
 
-3. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^29]
+3. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^32]
 
-[^29]: A 3. melléklet a 32/2014. (VI. 27.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^32]: A 3. melléklet a 39/2014. (IX. 30.) NFM rendelet 5. § (2) bekezdésével megállapított szöveg.
