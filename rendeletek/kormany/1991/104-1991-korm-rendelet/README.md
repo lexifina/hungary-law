@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-104-20-
 | 2013-01-01 | 1991-104-20-22.22 | 296/2012. (X. 17.) Korm. rendelet |
 | 2014-03-15 | 1991-104-20-22.23 | 68/2014. (III. 13.) Korm. rendelet |
 | 2014-09-05 | 1991-104-20-22.24 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2014-10-01 | 1991-104-20-22.25 | 111/2011. (VII. 4.) Korm. rendelet |
