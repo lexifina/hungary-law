@@ -46,7 +46,9 @@ g)[^9] a bankkártyás fizetésre,
 
 h)[^10] az állami adó- és vámhatóságnál teljesítendő fizetési kötelezettségek egy összegben történő megfizetésére a pénzforgalmi számlanyitásra kötelezett adózó pénzforgalmi számláját vezető, az EFER-hez csatlakozott pénzforgalmi szolgáltató által biztosított házibankos fizetési megoldással (a továbbiakban: házibank),
 
-i) az egyes adóügyek telefonon keresztül történő ügyintézésére.
+i)[^11] az egyes adóügyek telefonon keresztül történő ügyintézésére, és
+
+j)[^12] a végrehajtási eljáráshoz kapcsolódó banktitokra irányuló adatkérésről szóló tájékoztatás, a végrehajtási eljárást megelőzően vagy a végrehajtási eljárásban kibocsátandó fizetési felszólítás, a végrehajtási eljárás megszüntetéséről szóló értesítés kézbesítésére.
 
 (2) E rendeletnek a bevallási és adatszolgáltatási kötelezettség teljesítésére vonatkozó rendelkezéseit kell alkalmazni
 
@@ -57,3 +59,5 @@ b) a belföldön letelepedett adóalanynak az Európai Unió más tagállamában
 [^8]: A 2. § (1) bekezdés f) pont fl) alpontja a 27/2014. (IX. 12.) NGM rendelet 10. § b) pontja szerint módosított szöveg.
 [^9]: A 2. § (1) bekezdés g) pontja a 27/2014. (IX. 12.) NGM rendelet 10. § c) pontjával megállapított szöveg.
 [^10]: A 2. § (1) bekezdés h) pontja a 27/2014. (IX. 12.) NGM rendelet 2. §-ával megállapított szöveg.
+[^11]: A 2. § (1) bekezdés i) pontja a 27/2014. (IX. 12.) NGM rendelet 10. § d) pontja szerint módosított szöveg.
+[^12]: A 2. § (1) bekezdés j) pontját a 27/2014. (IX. 12.) NGM rendelet 3. §-a iktatta be.

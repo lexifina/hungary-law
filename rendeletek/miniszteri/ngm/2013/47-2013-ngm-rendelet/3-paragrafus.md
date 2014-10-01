@@ -2,9 +2,9 @@
 
 ## 2. Az elektronikus ügyintézés különös szabályai
 
-3. § (1) Az állami adóhatóság a 2. § (1) bekezdés a)–f) és h) pontjában meghatározott adóügyek elektronikus intézésének biztosítása érdekében a KR-en keresztül hozzáférhető informatikai rendszert működtet.
+3. § (1)[^13] Az állami adóhatóság a 2. § (1) bekezdés a)–f), h) és j) pontjában meghatározott adóügyek elektronikus intézésének biztosítása érdekében a KR-en keresztül hozzáférhető informatikai rendszert működtet.
 
-(2) A 2. § (1) bekezdés a)–f) és h) pontjában meghatározott adóügyek elektronikus intézésének feltétele, hogy az adózó vagy képviselője a SZEÜSZR.-ben meghatározott, az ügyfélkapu nyitásához szükséges regisztrációs eljárás során képzett felhasználói névvel és az általa meghatározott jelszóval rendelkezzen.
+(2)[^14] A 2. § (1) bekezdés a)–f), h) és j) pontjában meghatározott adóügyek elektronikus intézésének feltétele, hogy az adózó vagy képviselője a SZEÜSZR.-ben meghatározott, az ügyfélkapu nyitásához szükséges regisztrációs eljárás során képzett felhasználói névvel és az általa meghatározott jelszóval rendelkezzen.
 
 (3) Az adózó vagy képviselője a felhasználói név és jelszó használata mellett – választása szerint – az elektronikus ügyintézéshez a közigazgatási felhasználásra vonatkozó követelményeknek megfelelő elektronikus aláírást is alkalmazhat.
 
@@ -19,3 +19,6 @@
 (8) Ha az (5) bekezdés szerinti, papír alapon tett első bejelentést követően a képviseleti jogosultság tartalmában vagy a képviseleti jogosultság terjedelmét nem érintő bejelentett adatokban változás következett be, azt a képviselő – a KR útján történt azonosítás után – az állami adóhatóság honlapján közvetlenül elérhető elektronikus űrlapon, annak benyújtásakor meglévő valamennyi jogosultságára kiterjedően jelenti be.
 
 (9) Az adózó az (5) bekezdés szerint bejelentett képviseleti jogosultság megszűnését haladéktalanul köteles papír alapon vagy elektronikus úton bejelenteni az állami adóhatósághoz. A bejelentett képviseleti jogosultság megszűnését az adózó képviselője is bejelentheti papír alapon vagy elektronikus úton. Az állami adóhatóság a bejelentésről az adózót írásban értesíti.
+
+[^13]: A 3. § (1) bekezdése a 27/2014. (IX. 12.) NGM rendelet 10. § e) pontja szerint módosított szöveg.
+[^14]: A 3. § (2) bekezdése a 27/2014. (IX. 12.) NGM rendelet 10. § e) pontja szerint módosított szöveg.
