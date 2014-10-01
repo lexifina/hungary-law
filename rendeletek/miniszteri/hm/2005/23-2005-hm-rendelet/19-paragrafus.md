@@ -1,15 +1,15 @@
-19. § (1)[^55] A KKB-tól, annak operatív munkaszervétől, valamint annak működésének eléréséig a megyei, fővárosi védelmi bizottságoktól érkező katasztrófavédelmi feladatokban való közreműködésre történő felkérés esetén a HKR vagy annak elemeinek, a végrehajtó erők kivételével történő riasztását, aktivizálását a HM közigazgatási államtitkár rendeli el. A végrehajtó erők riasztását, aktivizálását a Honvéd Vezérkar főnöke rendeli el.
+19. § (1)[^34] A KKB-tól, annak operatív munkaszervétől, valamint annak működése eléréséig a megyei, fővárosi védelmi bizottságoktól érkező katasztrófavédelmi feladatokban való közreműködésre történő felkérés esetén a VKCS, illetve a VKCS kikülönített elemeként a KKB operatív szervébe beosztott ágazati szakértők ágazati központi ügyeleti szerv általi riasztását, illetve a riasztáson keresztül történő részleges vagy teljes aktivizálását a HM KÁT rendeli el. A HKR 5. § b)-h) pontjaiban meghatározott elemeinek riasztását, illetve a riasztáson keresztül történő részleges vagy teljes aktivizálását a HM KÁT egyidejű tájékoztatása mellett a HVKF rendeli el.
 
-(2)[^56] A HKR elemeinek riasztására, aktivizálására a HM katasztrófavédelmi tevékenységét koordináló szervezet vezetője, a HM védelmi igazgatás szakmai előkészítését és koordinálását végző szervezet vezetője és az MH katasztrófavédelmi műveleti feladatok irányítását végző szervezet vezetője egyeztetett közös javaslatot tesz a HM közigazgatási államtitkár részére.
+(2)[^35] A HKR teljes aktivizálására a VKCS vezető és az SMVCS-KOT parancsnoka együttes javaslatot tesz a HM KÁT részére a HVKF egyidejű tájékoztatása mellett.
 
-(3)[^57] A felső- és középszintű katasztrófavédelmi vezető szervek riasztását, aktivizálását – halasztást nem tűrő esetben a HM közigazgatási államtitkár és a Honvéd Vezérkar főnöke egyidejű tájékoztatása mellett – a KOT vezetője is jogosult elrendelni.
+(3)[^36] A HKR 5. § b)–h) pontjaiban meghatározott elemeinek riasztását, illetve a riasztáson keresztül történő részleges vagy teljes aktivizálását – azonnali intézkedést igénylő esetben a HM KÁT és a HVKF egyidejű tájékoztatása mellett – az SMVCS-KOT parancsnoka is jogosult elrendelni.
 
-(4)[^58]
+(4)[^37]
 
-(5)[^59] A veszélyeztetett szervek, szervezetek riasztását az ágazat központi ügyeleti szerve a KOT vezető jóváhagyásával végzi.
+(5)[^38] A veszélyeztetett szervek, szervezetek riasztását az ágazat központi ügyeleti szerve az SMVCS-KOT parancsnok jóváhagyásával végzi.
 
-[^55]: A 19. § (1) bekezdése a 2/2012. (III. 6.) HM rendelet 7. §-ával megállapított, a 23/2012. (XII. 18.) HM rendelet 52. § h) pontja szerint módosított szöveg.
-[^56]: A 19. § (2) bekezdése a 15/2011. (XI. 21.) HM rendelet 4. §-ával megállapított szöveg.
-[^57]: A 19. § (3) bekezdése a 15/2011. (XI. 21.) HM rendelet 4. §-ával megállapított, a 2/2012. (III. 6.) HM rendelet 10. § 12. pontja szerint módosított szöveg.
-[^58]: A 19. § (4) bekezdését a 13/2010. (V. 13.) HM rendelet 13. § d) pontja hatályon kívül helyezte.
-[^59]: A 19. § (5) bekezdése a 27/2007. (VI. 27.) HM rendelet 5. § (2) bekezdésével megállapított, a 2/2012. (III. 6.) HM rendelet 10. § 12. pontja szerint módosított szöveg.
+[^34]: A 19. § (1) bekezdése a 12/2014. (VIII. 14.) HM rendelet 8. §-ával megállapított szöveg.
+[^35]: A 19. § (2) bekezdése a 12/2014. (VIII. 14.) HM rendelet 8. §-ával megállapított szöveg.
+[^36]: A 19. § (3) bekezdése a 12/2014. (VIII. 14.) HM rendelet 8. §-ával megállapított szöveg.
+[^37]: A 19. § (4) bekezdését a 13/2010. (V. 13.) HM rendelet 13. § d) pontja hatályon kívül helyezte.
+[^38]: A 19. § (5) bekezdése a 27/2007. (VI. 27.) HM rendelet 5. § (2) bekezdésével megállapított, a 2/2012. (III. 6.) HM rendelet 10. § 12. pontja, a 12/2014. (VIII. 14.) HM rendelet 16. § e) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 13. §[^43] A katasztrófavédelmi munkák során szükség esetén a KOT vagy a KOCS-okat működtető szervezetek vezetőinek javaslata alapján a kijelölt végrehajtó szervezetektől eltérő szervezet is kialakítható és felkészítés után alkalmazható.
+## 13. §[^20] A katasztrófavédelmi tevékenység során, szükség esetén az SMVCS-KOT parancsnok vagy az MVCS-KOCS-ot, illetve a KOCS-okat működtető szervezetek vezetőinek javaslata alapján a HKR-be kijelölt végrehajtó erőkből előzetesen kialakított munkacsoportoktól eltérő végrehajtó szervezetek is kialakíthatók és felkészítés után alkalmazhatók.
 
-[^43]: A 13. § a 2/2012. (III. 6.) HM rendelet 10. § 12. pontja szerint módosított szöveg.
+[^20]: A 13. § a 12/2014. (VIII. 14.) HM rendelet 3. §-ával megállapított szöveg.

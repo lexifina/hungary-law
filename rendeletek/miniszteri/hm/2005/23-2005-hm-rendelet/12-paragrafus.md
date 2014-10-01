@@ -1,9 +1,7 @@
-12. § (1)[^39] A KOCS a HKR középszintű katonai vezetési szerve, amely teljes állománnyal a KOT vezető intézkedése alapján alakul meg, a védekezés időszakában 24 órás készenléti szolgálati rendszerben működik.
+12. §[^18] (1) Az MVCS-KOCS és a KOCS a HKR középszintű katonai vezetési szerve, amely teljes állománnyal az SMVCS-KOT parancsnok intézkedése alapján kerül aktivizálásra. A feladatellátásuk heti váltásban, havi szolgálatvezénylés alapján, illetve az aktivizálást követően 24 órás váltásban, laktanyán kívüli készenléti szolgálat keretei között történik.
 
-(2)[^40] A KOCS működtetésére kötelezett szervezeteket a Honvéd Vezérkar főnöke jelöli ki.
+(2) Az MVCS-KOCS és KOCS működtetésére kötelezett szervezeteket a HVKF jelöli ki.
 
-(3)[^41] A KOCS-ok a védekezés időszakában a KOT irányítása alapján közvetlenül vezetik a végrehajtó erőket.
+(3) Az MVCS-KOCS a védekezés időszakában az SMVCS-KOT irányítása alapján az OCS-okon keresztül, a KOCS-ok pedig közvetlenül vezetik a végrehajtó erőket.
 
-[^39]: A 12. § (1) bekezdése a 2/2012. (III. 6.) HM rendelet 10. § 12. pontja szerint módosított szöveg.
-[^40]: A 12. § (2) bekezdése a 27/2007. (VI. 27.) HM rendelet 12. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^41]: A 12. § (3) bekezdése a 2/2012. (III. 6.) HM rendelet 10. § 12. pontja szerint módosított szöveg.
+[^18]: A 12. § a 12/2014. (VIII. 14.) HM rendelet 3. §-ával megállapított szöveg.

@@ -1,21 +1,19 @@
-## 24. §[^70] A Honvéd Vezérkar főnöke a felkészülés és a megelőzés időszakában
+## 24. §[^48] A HVKF a felkészülés és a megelőzés időszakában
 
-a) tanácskozási joggal részt vesz a KKB munkájában,
+a) szabályozza a középszintű vezető szervek, végrehajtásban részt vevő katonai szervezetek Katasztrófavédelmi Alkalmazási Terveinek kidolgozását,
 
-b) szabályozza a középszintű vezető szervek, végrehajtásban részt vevő katonai szervezetek Katasztrófavédelmi Alkalmazási Terveinek kidolgozását,
+b) kijelöli az MVCS-KOCS-ot, a KOCS-okat, illetve a tervezett végrehajtó erőket,
 
-c)[^71] kijelöli a KOCS-okat és a tervezett végrehajtó erőket.
+c) jóváhagyásra felterjeszti a HM KÁT útján a honvédelmi miniszter részére az egyes katasztrófatípusok sajátosságaira kidolgozott ÁKT-t,
 
-d)[^72] jóváhagyásra felterjeszti a HM közigazgatási államtitkár útján a honvédelmi miniszter részére az egyes katasztrófatípusok sajátosságaira kidolgozott ÁKT-t,
+d) biztosítja a katasztrófavédelmi feladatok végrehajtására kijelölt erők igénybevételi feltételeinek folyamatos meglétét,
 
-e) biztosítja a katasztrófavédelmi feladatok végrehajtására kijelölt erők igénybevételi feltételeinek folyamatos meglétét,
+e) szabályozza az alárendeltségébe tartozó készenléti szolgálatok vezénylésének, ellátásának rendjét, a HKR riasztási feltételeit,
 
-f) szabályozza az alárendeltségébe tartozó készenléti szolgálatok vezénylésének, ellátásának rendjét, a HKR riasztási feltételeit,
+f) gondoskodik a katasztrófavédelmi feladatok végrehajtásához szükséges technikai eszközök hadrafoghatóságáról,
 
-g) gondoskodik a katasztrófavédelmi feladatok végrehajtásához szükséges technikai eszközök hadrafoghatóságáról,
+g) kijelöli az MH nukleáris, vegyi és biológiai veszély előrejelzésére, felmérésére létrehozott szervezet HKR részeként működő elemeit, szabályozza a működés rendjét,
 
-h) kijelöli az MH nukleáris, vegyi és biológiai veszély előrejelzésére, felmérésére létrehozott szervezet HKR részeként működő elemeit, szabályozza a működés rendjét.
+h) meghatározza az SMVCS-KOT szakmai összetételét.
 
-[^70]: A 24. § bevezető szövege a 27/2007. (VI. 27.) HM rendelet 12. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^71]: A 24. § c) pontja az 5/2008. (II. 29.) HM rendelet 6. §-ával megállapított szöveg.
-[^72]: A 24. § d) pontja a 19/2010. (XII. 27.) HM rendelet 4. § a) pontja szerint módosított szöveg.
+[^48]: A 24. § a 12/2014. (VIII. 14.) HM rendelet 12. §-ával megállapított szöveg.

@@ -1,24 +1,25 @@
-11. § (1)[^35] A KOT vezetője az MH katasztrófavédelmi műveleti feladatok irányítását végző szervezet vezetője.
+11. §[^17] (1) Az SMVCS-KOT parancsnok feladatait, valamint az SMVCS-KOT szakmai feladatait a HVKF által kijelölt személyek látják el. Az SMVCS-KOT a HVKF intézkedése alapján, az SMVCS-KOT parancsnok javaslatára további személyekkel kiegészíthető.
 
-(2)[^36]
+(2) Az SMVCS-KOT a védekezés időszakában
 
-(3)[^37] A KOT a védekezés időszakában
-
-a) irányítja a várható és a bekövetkezett katasztrófák felméréséhez, értékeléséhez szükséges információk gyűjtését és feldolgozását, az adatközlést (adatcserét),
+a) összegyűjti és feldolgozza a várható és a bekövetkezett katasztrófák felméréséhez, értékeléséhez szükséges információkat,
 
 b) riasztja a katasztrófavédelemre kijelölt honvédségi erőket,
 
 c) kezdeményezi a végrehajtó erők igénybevételét,
 
-d)[^38] a Honvéd Vezérkar főnöke, illetve a honvédelmi miniszter döntése alapján kirendeli a riasztott erőket,
+d) a HVKF, illetve a honvédelmi miniszter döntése alapján kirendeli a riasztott erőket,
 
 e) irányítja a katasztrófavédelmi feladatok végrehajtásába bevont honvédségi erőket,
 
 f) irányítja a veszélyeztetett katonai szervezetek biztonságos helyre történő kivonását,
 
-g) javaslatot tesz a katasztrófavédelembe bevonandó további MH erők kijelölésére, felkészítésére.
+g) javaslatot tesz a HKR-be kijelölt erők alkalmazására, esetleges megerősítésére, váltására, valamint a katasztrófavédelembe bevonandó erők kijelölésére és felkészítésére,
 
-[^35]: A 11. § (1) bekezdése a 27/2007. (VI. 27.) HM rendelet 12. § (2) bekezdésének c) pontja, a 2/2012. (III. 6.) HM rendelet 10. § 12. pontja szerint módosított szöveg.
-[^36]: A 11. § (2) bekezdését a 15/2011. (XI. 21.) HM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
-[^37]: A 11. § (3) bekezdés nyitó szövegrésze a 2/2012. (III. 6.) HM rendelet 10. § 12. pontja szerint módosított szöveg.
-[^38]: A 11. § (3) bekezdésének d) pontja a 27/2007. (VI. 27.) HM rendelet 12. § (2) bekezdésének b) pontja szerint módosított szöveg.
+h) folyamatosan információt biztosít a VKCS részére a honvédségi erők védekezésben való közreműködésére irányuló, HM-hez érkező igények teljesíthetőségéről, illetve azok teljesítésének helyzetéről,
+
+i) az MH-n kívüli együttműködőkkel a VKCS-n keresztül tartja a kapcsolatot,
+
+j) előkészíti a HVKF-nek a katasztrófák elleni védekezéssel kapcsolatos döntéseit.
+
+[^17]: A 11. § a 12/2014. (VIII. 14.) HM rendelet 3. §-ával megállapított szöveg.
