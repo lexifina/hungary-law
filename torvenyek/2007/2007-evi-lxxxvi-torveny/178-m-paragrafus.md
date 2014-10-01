@@ -1,0 +1,1 @@
+178/M. § E törvény Mód. 2. törvénnyel megállapított 40. § (4) és (4a) bekezdése szerinti, profil alapú elszámolás esetén a felhasználó kérésére biztosítandó negyedévente történő mérőberendezés-leolvasást – az e törvény 177/A. § (1) bekezdés szerinti mintaprojektek kivételével – az okos mérésre alkalmas mérőberendezéssel történő leolvasás nem váltja ki.

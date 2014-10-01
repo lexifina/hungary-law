@@ -124,7 +124,7 @@ rendeletben állapítsa meg.
 
 10. a megújuló energiaforrásból történő energiatermelő berendezések és rendszerek beszerzéséhez és működtetéséhez szükséges támogatások nyújtásának feltételét képező műszaki előírásokat, valamint a megújuló energiaforrásból származó energia felhasználásáról, alkalmazásáról, a felhasználás támogatásáról szóló tájékoztatás szabályait,
 
-11. rendszerhasználati díjak képzésének alapelveit, árszabályozásának kereteit, valamint csatlakozási díjak meghatározásának szempontjait és a díjak elemeit,
+11. rendszerhasználati díjak képzésének alapelveit, árszabályozásának kereteit,
 
 12.
 
@@ -178,6 +178,6 @@ rendeletben állapítsa meg.
 
 1. a rendszerhasználati díjakat és alkalmazásuk szabályait,
 
-2. a csatlakozási díjakat és alkalmazásuk szabályait,
+2. a csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, valamint a csatlakozási díjak mértékét és alkalmazásuk szabályait,
 
 3. az elosztók közötti kiegyenlítő fizetések mértékét.
