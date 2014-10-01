@@ -60,7 +60,7 @@ h)[^2] felhívja a vidékfejlesztési minisztert, hogy a VM Dunántúli Agrár-s
 
 Felelős: vidékfejlesztési miniszter
 
-Határidő: 2014. szeptember 1.
+Határidő: 2015. január 1.
 
 i)[^3] felhívja a vidékfejlesztési minisztert, hogy vizsgálja meg a tájgazdálkodás-váltás támogatása érdekében a zöld pontozásos rendszer beépíthetőségét a 2014-től induló területalapú támogatások rendszerébe;
 
@@ -87,7 +87,7 @@ belügyminiszter
 Határidő: 2013. szeptember 30.
 
 [^1]: A 2. pont g) pontja a 1094/2013. (III. 4.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 2. pont h) pontja a 1094/2013. (III. 4.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. pont h) pontja a 1094/2013. (III. 4.) Korm. határozat 1. pontjával megállapított, az 1551/2014. (X. 1.) Korm. határozat szerint módosított szöveg.
 [^3]: A 2. pont i) pontját a 1094/2013. (III. 4.) Korm. határozat 2. pontja iktatta be.
 [^4]: A 2. pont j) pontját a 1094/2013. (III. 4.) Korm. határozat 2. pontja iktatta be.
 [^5]: A 2. pont k) pontját a 1094/2013. (III. 4.) Korm. határozat 2. pontja iktatta be.
