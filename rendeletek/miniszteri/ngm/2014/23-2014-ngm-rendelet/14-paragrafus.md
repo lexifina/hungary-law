@@ -1,5 +1,3 @@
-## 13. §[^2]
+## az online számlázási szolgáltatás igénybevétele befejezését követő 30 napon belül az adóhatósághoz, az erre a célra rendszeresített nyomtatványon bejelenteni.
 
 ## 5. Az elektronikus adatcsererendszer használata
-
-[^2]: A 13. § a 20. § (2) bekezdése alapján 2014. október 1-jén lép hatályba.

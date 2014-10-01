@@ -1,3 +1,1 @@
-## 21. §[^5]
-
-[^5]: A 21. § a 20. § (2) bekezdése alapján 2014. október 1-jén lép hatályba.
+## 21. § A 2014. október 1-jét megelőzően beszerzett és 2014. október 1-jén még használatban lévő számlázó programok, igénybevett online számlázó programok, továbbá használatba vett saját fejlesztésű programok 11. § (1) bekezdése vagy 13. § (1) bekezdése szerinti adatait az adóalany 2014. november 15-ig köteles bejelenteni az adóhatóság által erre a célra rendszeresített nyomtatványon. A 2014. október 1-je és 2014. október 15-e között használatból kivont számlázó program, online számlázási szolgáltatás igénybevételének befejezése 11. § (2) bekezdése vagy 13. § (2) bekezdése szerinti adatait az adóalany 2014. november 15-ig köteles bejelenteni az adóhatóság által erre a célra rendszeresített nyomtatványon.
