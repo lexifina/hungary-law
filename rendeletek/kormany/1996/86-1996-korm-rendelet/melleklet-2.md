@@ -150,7 +150,7 @@
 
 ## 1.44. a bírósági végrehajtók, a bírósági végrehajtó helyettesek, a bírósági végrehajtójelöltek, helyettes bírósági végrehajtók igazolványai;
 
-## 1.45.[^75] a Közigazgatási és Igazságügyi Hivatal, továbbá a fővárosi és megyei kormányhivatal igazságügyi szolgálata dolgozójának dolgozói igazolványa;
+## 1.45.[^75] az Igazságügyi Hivatal, továbbá a fővárosi és megyei kormányhivatal igazságügyi szolgálata dolgozójának dolgozói igazolványa;
 
 ## 1.46.[^76] az ügyészség szolgálati igazolványai;
 
@@ -433,7 +433,7 @@ Az e védelmi kategóriába tartozó biztonsági okmányok hamisítása ellen é
 [^72]: Az 1. számú melléklet III. rész 1. pont 1.36. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^73]: Az 1. számú melléklet III. rész 1. Személyi és jogosultságot igazoló okmányok pont 1.37. alpontja a 293/2010. (XII. 22.) Korm. rendelet 15. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését.
 [^74]: Az 1. számú melléklet III. rész 1. pont 1.38. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 167. § b) pontja szerint módosított szöveg.
-[^75]: Az 1. melléklet III. fejezet 1. pont 1.45. alpontja a 351/2010. (XII. 30.) Korm. rendelet 30. § c) pontja, a 178/2012. (VII. 26.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^75]: Az 1. számú melléklet III. rész 1.45. alpontja a 233/2014. (IX. 18.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
 [^76]: Az 1. számú melléklet III. pont 1.46. alpontja a 276/2011. (XII. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^77]: Az 1. számú melléklet III. rész 1. pont 1.47. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 167. § c) pontja szerint módosított szöveg.
 [^78]: Az 1. számú melléklet III. rész 1. pont 1.48. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
