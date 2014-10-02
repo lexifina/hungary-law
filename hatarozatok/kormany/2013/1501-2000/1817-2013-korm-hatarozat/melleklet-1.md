@@ -40,7 +40,7 @@
 
 ## Határidő: 2014. június 30.
 
-## 5. az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva, a szennyezettségre vonatkozó, a felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendeletben meghatározottak szerinti tényfeltárás elvégzésére 100,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XII. Vidékfejlesztési Minisztérium fejezet, 13. Nemzeti Környezetügyi Intézet cím javára 3. melléklet szerint.
+## 5.[^1] az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva, a szennyezettségre vonatkozó, a felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendeletben meghatározottak szerinti tényfeltárás elvégzésére 100,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XII. Vidékfejlesztési Minisztérium fejezet, 13. Nemzeti Környezetügyi Intézet cím javára 3. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -52,10 +52,12 @@
 
 ## Felelős: vidékfejlesztési miniszter
 
-## Határidő: 2014. június 30.
+## Határidő: 2015. április 30.
 
 1. melléklet az 1817/2013. (XI. 14.) Korm. határozathoz
 
 XVII. Nemzeti Fejlesztési Minisztérium
 
 XI. Miniszterelnökség
+
+[^1]: Az 5. pont az 1563/2014. (X. 2.) Korm. határozat 7. pontja szerint módosított szöveg.
