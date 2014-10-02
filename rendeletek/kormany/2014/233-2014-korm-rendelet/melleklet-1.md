@@ -1,11 +1,6 @@
-## 12. § Hatályát veszti a Közigazgatási és Igazságügyi Hivatalról szóló 177/2012. (VII. 26.) Korm. rendelet 1/A. §-a, 3. alcíme és 10. § g) és h) pontja.
+## 10–12. §[^1]
 
-1. melléklet a 233/2014. (IX. 18.) Korm. rendelethez
+1. melléklet a 233/2014. (IX. 18.) Korm. rendelethez[^2]
 
-A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 1. melléklet F) pontjába foglalt táblázat a következő 3. sorral egészül ki:
-
-|  | (A | B |
-
-| 1 | A központi államigazgatási szerv neve | A miniszter hatásköre) |
-
-| 3 | Igazságügyi Hivatal | irányítás |
+[^1]: A 10–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
