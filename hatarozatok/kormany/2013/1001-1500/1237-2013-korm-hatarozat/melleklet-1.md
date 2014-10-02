@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a MAL Magyar Alumínium Termelő és Kereskedelmi Zárkörűen Működő Részvénytársaság (a továbbiakban: MAL Zrt.) részére előírt hatósági és egyéb kötelezések végrehajtásának finanszírozására 1500,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 5. Magyar Bányászati és Földtani Hivatal cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére;
+## 1.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a MAL Magyar Alumínium Termelő és Kereskedelmi Zárkörűen Működő Részvénytársaság (a továbbiakban: MAL Zrt.) részére előírt hatósági és egyéb kötelezések végrehajtásának finanszírozására 1500,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 5. Magyar Bányászati és Földtani Hivatal cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére;
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,7 +10,7 @@
 
 ## Felelős: nemzeti fejlesztési miniszter
 
-## Határidő: 2014. június 30.
+## Határidő: 2015. június 30.
 
 ## 2. felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszter bevonásával gondoskodjon arról, hogy a MAL Zrt. részére előírt hatósági és egyéb kötelezések végrehajtásából eredő feladatok további támogatásához legfeljebb 2700,0 millió forint a 2013. év második féléve során rendelkezésre álljon.
 
@@ -99,3 +99,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^2]: Az 1. pont az 1563/2014. (X. 2.) Korm. határozat 4. pontja szerint módosított szöveg.
