@@ -6,11 +6,7 @@
 
 ## Határidő: azonnal
 
-## 3. visszavonja
-
-## a) az Észak-Magyarországi Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról és az Észak-Magyarországi Operatív Programból támogatott egyes turizmusfejlesztési tárgyú kiemelt projektek támogatásának növeléséről szóló 1300/2014. (V. 5.) Korm. határozat 1. pontját és 1. mellékletét, valamint
-
-## b) az ÉMOP-2.1.1. kódszámú („Versenyképes turisztikai termék- és attrakciófejlesztés” című) konstrukció keretében kiemelt projektek felhívásának biztosításáról szóló 1324/2014. (V. 30.) Korm. határozat 1. pont b) alpontját.
+## 3.[^1]
 
 1. melléklet az 1555/2014. (X. 1.) Korm. határozathoz
 
@@ -57,3 +53,5 @@
 | 2.3.1. | Turisztikai Desztináció Menedzsment fejlesztése | 0,2220 | 0,3364 | 0,0000 | Helyi és térségi Turisztikai Desztináció Menedzsment szervezetek fejlesztése, ezen keresztül a turizmus versenyképességének növelése. | nemzetgazdasági miniszter |  |
 
 | 2. Prioritás összesen | 3,9820 | 30,4423 | 1,8988 |  |  |  |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
