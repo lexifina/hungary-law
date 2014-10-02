@@ -1,3 +1,0 @@
-## 10. § Az R. 20. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A honvédelmi erők kirendelésének általános rendje szerint a katasztrófa típusa szerinti országos hatáskörű irányító szerv, illetve a megyei, fővárosi védelmi bizottság az igénybevételre vonatkozó kérését a KKB-hez, vagy annak operatív munkaszervéhez terjeszti fel. A KKB, vagy annak operatív munkaszerve az igényeket továbbítja az ágazat központi ügyeleti szervének. Amennyiben a kormányzati koordinációs szerv nem kerül összehívásra az igénybevételre vonatkozó kérést közvetlenül az ágazat központi ügyeleti szerve részére kell megküldeni, aki erről haladéktalanul értesíti a VKCS vezetőjét, illetve az SMVCS-KOT parancsnokát. A kirendelésről a honvédelemi miniszter, illetve a HVKF dönt.”

@@ -1,1 +1,0 @@
-## „(2) A katasztrófavédelmi tevékenységet végző katonai erők sem polgári, sem más szerv alárendeltségébe nem kerülnek, vezetésük az MH Művelet Vezetési Rendszer (a továbbiakban: MH MVR) vezetési rendje szerint történik. A katasztrófavédelmi munkák helyszínén szakmai feladataikat a helyi védelemvezető határozza meg, a kirendelt erők parancsnokai útján.”
