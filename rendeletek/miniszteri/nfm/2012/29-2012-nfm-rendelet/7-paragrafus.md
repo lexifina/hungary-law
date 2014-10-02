@@ -12,4 +12,8 @@ d) (1) bekezdés 15., 16. és 19. pontja alapján kis- és középvállalkozáso
 
 e) (1) bekezdés 17. pontja alapján kockázati tőkejuttatás nyújtható a kis- és középvállalkozásokba történő kockázatitőke-befektetések előmozdítását célzó állami támogatásokról szóló közösségi iránymutatás alapján,
 
-f) (1) bekezdés 17. pontja alapján kockázati tőkejuttatás nyújtható a 800/2008/EK bizottsági rendeletben foglaltak alapján.
+f) (1) bekezdés 17. pontja alapján kockázati tőkejuttatás nyújtható a 800/2008/EK bizottsági rendeletben foglaltak alapján,
+
+g)[^5] (1) bekezdés 21. pontja alapján innovációs tanácsadó szolgáltatásokhoz és az innovációs támogató szolgáltatásokhoz támogatás nyújtható.
+
+[^5]: A 7. § g) pontját a 3/2014. (X. 1.) MvM rendelet 4. §-a iktatta be.

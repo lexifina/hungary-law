@@ -40,6 +40,10 @@
 
 19. befektetés-ösztönzési és piacfejlesztési tanácsadás, szolgáltatás,
 
-20. foglalkoztatás ösztönzése.
+20. foglalkoztatás ösztönzése,
+
+21.[^3] innovációs tanácsadó szolgáltatásokhoz és az innovációs támogató szolgáltatásokhoz nyújtott támogatás.
 
 (2) Az (1) bekezdés 12. és 13. pontjában meghatározott jogcímeken akkor nyújtható támogatás, ha arra az (1) bekezdés szerinti egyéb tevékenységek kielégítő végrehajtásához szükség van, az (1) bekezdés szerinti tevékenységekhez közvetlenül és szorosan kapcsolódik és az a projekt részét képezi.
+
+[^3]: A 4. § (1) bekezdés 21. pontját a 3/2014. (X. 1.) MvM rendelet 2. §-a iktatta be.

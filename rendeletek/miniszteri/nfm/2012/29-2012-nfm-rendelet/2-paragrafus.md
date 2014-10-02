@@ -4,13 +4,15 @@
 
 ## 2. § E rendelet alkalmazásában:
 
-1. állami támogatás: az Európai Unió működéséről szóló Szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti támogatás és a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet (a továbbiakban: 1998/2006/EK bizottsági rendelet) 2. cikke szerinti csekély összegű támogatás,
+1.[^1] állami támogatás: az Európai Unió működéséről szóló Szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti támogatás, az 1998/2006/EK bizottsági rendelet 2. cikke szerinti csekély összegű támogatás és az 1407/2013/EU bizottsági rendelet 3. cikke szerinti csekély összegű támogatás,
 
 2. átlátható formában nyújtott támogatás: a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló, 2008. augusztus 6-i 800/2008/EK bizottsági rendelet (a továbbiakban: 800/2008/EK bizottsági rendelet) 2. cikk 6. pontja szerinti támogatás,
 
 3. általános képzés: a 800/2008/EK bizottsági rendelet 38. cikk 2. pontja szerinti képzés,
 
 4. bérköltség: a 800/2008/EK bizottsági rendelet 2. cikk 15. pontja szerinti költség,
+
+4a.[^2] egy és ugyanazon vállalkozás: az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
 
 5. elszámolható költség: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 6. pontja szerinti költség,
 
@@ -51,3 +53,6 @@
 23. támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom,
 
 24. tárgyi eszköz: a 800/2008/EK bizottsági rendelet 2. cikk 10. pontja szerinti eszköz.
+
+[^1]: A 2. § 1. pontja a 3/2014. (X. 1.) MvM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 4a. pontját a 3/2014. (X. 1.) MvM rendelet 1. § (2) bekezdése iktatta be.
