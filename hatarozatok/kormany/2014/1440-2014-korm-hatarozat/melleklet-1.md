@@ -10,7 +10,7 @@
 
 ## Felelős: nemzeti fejlesztési miniszter
 
-## Határidő: 2014. augusztus 31.
+## Határidő: 2014. december 31.[^1]
 
 1. melléklet az 1440/2014. (VII. 31.) Korm. határozathoz
 
@@ -83,3 +83,5 @@ Költségvetési év: 2014.
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A határozat az 1563/2014. (X. 2.) Korm. határozat 11. pontja szerint módosított szöveg.
