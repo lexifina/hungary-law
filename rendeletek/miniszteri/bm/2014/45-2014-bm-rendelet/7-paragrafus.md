@@ -1,3 +1,5 @@
 ## 6. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
 
-7. § Hatályát veszti a vízrajzi feladatok ellátásról szóló 146/2011. (XII. 23.) VM rendelet.
+7. §[^1]
+
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
