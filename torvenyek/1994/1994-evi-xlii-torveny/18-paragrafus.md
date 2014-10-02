@@ -4,7 +4,7 @@
 
 a) büntetlen előéletű,
 
-b) rendelkezik legalább tizennyolc hónap – banki, biztosítási területen vagy a vállalati gazdálkodás vagy a közigazgatás pénzügyi vagy gazdasági területén szerzett – vezetői gyakorlattal,
+b) rendelkezik legalább tizenkét hónap – banki, biztosítási területen vagy a vállalati gazdálkodás vagy a közigazgatás pénzügyi vagy gazdasági területén szerzett – vezetői gyakorlattal,
 
 c) rendelkezik szakirányú felsőfokú iskolai végzettséggel,
 
@@ -30,7 +30,7 @@ c) könyvvizsgálói képesítést
 
 szerzett.
 
-(4)
+(4) A (2) bekezdés c) pontjától eltérően a miniszter a (3) bekezdésben meghatározott szakirányú végzettségtől eltérő felsőfokú végzettséggel rendelkező személyt is kinevezhet vezető állású személynek, ha a vezető állásra jelölt személy a (2) bekezdés b) pontjában meghatározott területeken szerzett, legalább tizennyolc hónap vezetői gyakorlattal rendelkezik.
 
 (5) Akivel szemben
 
