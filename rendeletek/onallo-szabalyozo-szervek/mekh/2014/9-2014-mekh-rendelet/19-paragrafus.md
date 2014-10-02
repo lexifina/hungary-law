@@ -1,1 +1,3 @@
-## 18. § Hatályát veszti a földgáz csatlakozási díjakról és alkalmazásuk szabályairól szóló 6/2014. (VIII. 28.) MEKH rendelet.
+## 18. §[^1]
+
+[^1]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
