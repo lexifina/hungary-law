@@ -1,3 +1,3 @@
-## 842. §[^535]
+## 842. §[^536]
 
-[^535]: A 842. § a 845. § (3) bekezdése alapján 2014. október 5-én lép hatályba.
+[^536]: A 842. § a 845. § (3) bekezdése alapján 2014. október 5-én lép hatályba.
