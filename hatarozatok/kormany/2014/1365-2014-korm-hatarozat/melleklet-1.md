@@ -1,4 +1,4 @@
-## 1. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 185,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 32. Bocuse d'Or szakácsverseny 2016. évi európai döntője jogcímcsoport javára, az 1. melléklet szerint.
+## 1.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 185,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 32. Bocuse d'Or szakácsverseny 2016. évi európai döntője jogcímcsoport javára, az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,9 +10,9 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2014. szeptember 15.
+## Határidő: 2014. december 31.
 
-## 2.[^1]
+## 2.[^2]
 
 1. melléklet az 1365/2014. (VI. 30.) Korm. határozathoz
 
@@ -76,4 +76,5 @@
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1563/2014. (X. 2.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
