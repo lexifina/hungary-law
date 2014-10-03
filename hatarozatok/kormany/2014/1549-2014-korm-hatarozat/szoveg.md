@@ -26,6 +26,8 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2014. október 31.
 
-2. Hatályát veszti a központi közigazgatás integrált üdültetési rendszeréről szóló 2128/2005. (VI. 24.) Korm. határozat.
+2.[^1]
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
