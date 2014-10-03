@@ -1,0 +1,9 @@
+# 251/2014. (X. 2.) Korm. rendelet
+
+a külföldiek mező- és erdőgazdasági hasznosítású földnek nem minősülő ingatlanokat érintő tulajdonszerzéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-251-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-10-03 | 2014-251-20-22.1 | 251/2014. (X. 2.) Korm. rendelet |
