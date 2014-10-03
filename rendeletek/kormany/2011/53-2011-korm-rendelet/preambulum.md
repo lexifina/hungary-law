@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alkotmány 35. § (1) bekezdés c) pontjában meghatározott feladatkörében eljárva – az állami feladatok hatékonyabb ellátása és a költségvetési kiadások csökkentése érdekében – a következőket rendeli el:
