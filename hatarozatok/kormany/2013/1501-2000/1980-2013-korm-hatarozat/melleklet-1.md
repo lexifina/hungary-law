@@ -22,7 +22,7 @@
 
 ## 3.[^1]
 
-1. melléklet az 1980/2013. (XII. 29.) Korm. határozathoz
+1. melléklet az 1980/2013. (XII. 29.) Korm. határozathoz[^2]
 
 A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labdarúgó sportlétesítmény-fejlesztések
 
@@ -80,10 +80,11 @@ A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labd
 
 | 25. | Szigetszentmiklós labdarúgó sportlétesítmény-fejlesztése | 3 000 | 120 | 120 | – |
 
-| 26. | Kisvárda labdarúgó sportlétesítmény-fejlesztése | 2 000 | 120 | 120 | – |
+| 26. | Kisvárda labdarúgó sportlétesítmény-fejlesztése | 2500 | 920 | 120 | 800 |
 
 | 27. | Nemzeti Stadionfejlesztési Program tartalékkerete | – | 753 | 95 | 658 |
 
-| 28. | Összesen | – | 21 393 | 12 035 | 9 358 |
+| 28. | Összesen | – | 22 193 | 12 035 | 10 158 |
 
 [^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1565/2014. (X. 2.) Korm. határozat 3. pontja szerint módosított szöveg.
