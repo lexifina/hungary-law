@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-40-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-10-02 | 2014-40-20-2W.1 | 40/2014. (X. 1.) NFM rendelet |
+| 2014-10-03 | 2014-40-20-2W.2 | 1/2018. (VI. 25.) NVTNM rendelet |
