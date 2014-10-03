@@ -18,6 +18,8 @@
 
 ## Határidő: azonnal
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1968/2013. (XII. 17.) Korm. határozat 1. pontjában a „2014. június 30.” szövegrész helyébe a „2014. június 30., a XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím javára a nagycenki Széchenyi István Emlékmúzeum rekonstrukciójára, illetve a műemlék-együttes átfogó felújítására és parkjának rehabilitációjára átcsoportosított összegből 100,0 millió forint tekintetében 2014. december 31.” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1567/2014. (X. 2.) Korm. határozathoz
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
