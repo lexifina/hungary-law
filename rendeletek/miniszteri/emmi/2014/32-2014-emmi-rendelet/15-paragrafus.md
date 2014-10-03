@@ -10,7 +10,8 @@ b) a biocid termékek előállításának és forgalomba hozatalának feltétele
 
 (2)[^5]
 
-(3) Hatályát veszti a biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló 38/2003. (VII. 7.) ESZCSM–FVM–KvVM együttes rendelet jogharmonizációs célú módosításáról szóló 38/2013. (V. 28.) EMMI rendelet.
+(3)[^6]
 
 [^4]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^5]: A 15. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 15. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
