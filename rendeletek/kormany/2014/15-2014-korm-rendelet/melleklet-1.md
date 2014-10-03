@@ -4,4 +4,4 @@
 
 [^3]: A 7. §-t a 236/2014. (IX. 18.) Korm. rendelet 1. §-a iktatta be.
 [^4]: A hatálybalépés időpontja 2014. szeptember 19.
-[^5]: Az 1. melléklet a 105/2014. (III. 26.) Korm. rendelet 2. §-a, a 236/2014. (IX. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 105/2014. (III. 26.) Korm. rendelet 2. §-a, a 236/2014. (IX. 18.) Korm. rendelet 2. §-a, a 253/2014. (X. 2.) Korm. rendelet 1. §-a szerint módosított szöveg.

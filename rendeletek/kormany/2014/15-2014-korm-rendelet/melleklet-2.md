@@ -22,6 +22,8 @@
 
 | 10. | Budapest Szusza Ferenc Stadion labdarúgó sportlétesítmény fejlesztése | Nemzeti Sportközpontok | Budapest, IV. kerület közigazgatási területén fekvő, 74232, 74333 helyrajzi számú ingatlan |
 
+| 11. | Kisvárda labdarúgó sportlétesítmény fejlesztése | Kisvárda Város Önkormányzata | Kisvárda közigazgatási területén fekvő, 945, 0176/1, 0177/1 helyrajzi számú ingatlan |
+
 2. melléklet a 15/2014. (I. 30.) Korm. rendelethez
 
 ## Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
