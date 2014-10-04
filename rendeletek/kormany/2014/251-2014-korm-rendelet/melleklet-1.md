@@ -1,4 +1,4 @@
-## 12. § Hatályát veszti a külföldiek ingatlanszerzéséről szóló 7/1996. (I. 18.) Korm. rendelet.
+## 12. §[^1]
 
 1. melléklet a 251/2014. (X. 2.) Korm. rendelethez
 
@@ -71,3 +71,5 @@ Hozzájárulok ahhoz, hogy az ingatlanra vonatkozó tulajdonszerzést engedélye
 Kelt: Aláírás:
 
 ......................................................
+
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
