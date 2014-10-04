@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-3-00-00
 | --- | --- | --- |
 | 2014-02-12 | 2014. évi III. törvény | 2014-3-00-00.0 (közlönyállapot) |
 | 2014-02-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-3-00-00.1 |
+| 2014-10-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-3-00-00.2 |
