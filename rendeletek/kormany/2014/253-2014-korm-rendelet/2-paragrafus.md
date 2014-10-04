@@ -1,1 +1,0 @@
-## 1. § A Nemzeti Stadionfejlesztési Program keretében megvalósítandó beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 15/2014. (I. 30.) Korm. rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
