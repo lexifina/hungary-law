@@ -1,4 +1,4 @@
-## 7. § Hatályát veszti a Közbeszerzési és Ellátási Főigazgatóságról szóló 53/2011. (III. 31.) Korm. rendelet.
+## 7. §[^1]
 
 1. melléklet a 250/2014. (X. 2.) Korm. rendelethez
 
@@ -197,3 +197,5 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 2. Gépjárműbérlés
 
 2.1. Speciális igény esetén bérautó biztosítása
+
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
