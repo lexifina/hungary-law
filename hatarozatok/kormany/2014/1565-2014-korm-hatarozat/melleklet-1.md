@@ -14,7 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Nemzeti Stadionfejlesztési Program megvalósításához kapcsolódó további intézkedésekről szóló 1980/2013. (XII. 29.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
+## 3.[^1]
 
 1. melléklet az 1565/2014. (X. 2.) Korm. határozathoz
 
@@ -41,3 +41,5 @@
 | 28. | Összesen | – | 22 193 | 12 035 | 10 158 |
 
 ”
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
