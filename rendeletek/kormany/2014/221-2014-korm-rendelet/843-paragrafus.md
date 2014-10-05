@@ -1,3 +1,3 @@
-## 842. §[^536]
+## 842. § A Nemzeti Befektetési Ügynökségről szóló 183/2014. (VII. 25.) Korm. rendelet 2. alcíme a következő 3/A. §-sal egészül ki:
 
-[^536]: A 842. § a 845. § (3) bekezdése alapján 2014. október 5-én lép hatályba.
+## „3/A. § Az Ügynökség 3. § (3) bekezdésében meghatározott feladatokat a Magyar Kereskedelem-fejlesztési és Promóciós Korlátolt Felelősségű Társaság útján látja el.”
