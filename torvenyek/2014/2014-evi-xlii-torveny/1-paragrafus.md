@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az adóügyekben történő kölcsönös adminisztratív segítségnyújtásról szóló Egyezmény (a továbbiakban: Egyezmény) és az adóügyekben történő kölcsönös adminisztratív segítségnyújtásról szóló Egyezményt módosító Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
