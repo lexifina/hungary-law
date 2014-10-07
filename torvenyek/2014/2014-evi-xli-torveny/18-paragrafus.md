@@ -7,11 +7,3 @@
 (3) A 2. § (4) bekezdés, az 5. § (4) bekezdés, a 7. § (5) bekezdés és a 9. § (4) bekezdés 2015. január 1-jén lép hatályba.
 
 (4) Az 1. § (1) bekezdés 2015. február 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

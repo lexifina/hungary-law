@@ -30,14 +30,10 @@ d) legalább két olyan felsőfokú szakemberrel, akinek szakirányú képzetts�
 
 (12) A tanúsítandó szervezetek bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie, valamint szerepelnie kell a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Kormányrendelet szerinti, az Alkotmányvédelmi Hivatal által vezetett irányadó jegyzéken.”
 
-(4) A VET 43. §-a a következő (13) bekezdéssel egészül ki:
-
-„(13) A (4)–(12) bekezdésben szabályozott feltételeknek nem megfelelő számlázási rendszerből kiállított számla érvénytelen.”
+(4)
 
 (5) A VET 57. § (1) bekezdése helyébe a következő rendelkezés lép:
 
 „(1) Az elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a villamosenergia-ellátásból történő, fizetési késedelem miatt végrehajtott felfüggesztésre vagy kikapcsolásra, illetve a tartozás rendezését követően a felhasználó ellátásba történő ismételt bekapcsolására vonatkozó, jogszabályban és az engedélyesek üzletszabályzatában foglalt rendelkezések, lakossági fogyasztókkal szembeni megsértése esetén – a Hivatal 159. § (5) bekezdés szerinti hatásköreinek tiszteletben tartása mellett – a fogyasztóvédelmi hatóság jár el. A fogyasztóvédelmi hatóság eljárására a fogyasztóvédelemről szóló törvényt kell alkalmazni, azzal, hogy az e törvény szerinti lakossági fogyasztó a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztónak minősül akkor is, ha nem természetes személy.”
 
-(6) A VET 94. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Amennyiben kiszervezés esetén a lakossági fogyasztók részére a postai küldeményt nem az engedélyes küldi ki, úgy a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 40. § (2) bekezdésével összhangban feladóként az engedélyest (mint megbízót) és a kiszervezett tevékenységet végző vállalkozást (mint postai konszolidátort) kell feltüntetni.”
+(6)

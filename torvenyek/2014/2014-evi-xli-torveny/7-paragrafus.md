@@ -34,10 +34,6 @@ d) legalább két olyan felsőfokú szakemberrel, akinek szakirányú képzetts�
 
 (1j) A tanúsítandó szervezetek bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie, valamint szerepelnie kell a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Kormányrendelet szerinti, az Alkotmányvédelmi Hivatal által vezetett irányadó jegyzéken.”
 
-(5) A GET 100. §-a a következő (1k) bekezdéssel egészül ki:
+(5)
 
-„(1k) Az (1b)–(1j) bekezdésben szabályozott feltételeknek nem megfelelő számlázási rendszerből kiállított számla érvénytelen.”
-
-(6) A GET 124. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Amennyiben kiszervezés esetén a lakossági fogyasztók részére a postai küldeményt nem az engedélyes küldi ki, úgy a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 40. § (2) bekezdésével összhangban feladóként az engedélyest (mint megbízót) és a kiszervezett tevékenységet végző vállalkozást (mint postai konszolidátort) kell feltüntetni.”
+(6)

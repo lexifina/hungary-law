@@ -32,6 +32,4 @@ d) legalább két olyan felsőfokú szakemberrel, akinek szakirányú képzetts�
 
 (13) A tanúsítandó szervezetek bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie, valamint szerepelnie kell a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Kormányrendelet szerinti, az Alkotmányvédelmi Hivatal által vezetett irányadó jegyzéken.”
 
-(4) A Vksztv. 63. §-a következő (14) bekezdéssel egészül ki:
-
-„(14) Az (5)–(13) bekezdésekben szabályozott feltételeknek nem megfelelő számlázási rendszerből kiállított számla érvénytelen.”
+(4)

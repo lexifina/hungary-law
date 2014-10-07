@@ -30,6 +30,4 @@ d) legalább két olyan felsőfokú szakemberrel, akinek szakirányú képzetts�
 
 (11) A tanúsítandó szervezetek bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie, valamint szerepelnie kell a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Kormányrendelet szerinti, az Alkotmányvédelmi Hivatal által vezetett irányadó jegyzéken.”
 
-(4) Az Eht. 142. §-a a következő (12) bekezdéssel egészül ki:
-
-„(12) A (3)–(11) bekezdésben szabályozott feltételeknek nem megfelelő számlázási rendszerből kiállított számla érvénytelen.”
+(4)
