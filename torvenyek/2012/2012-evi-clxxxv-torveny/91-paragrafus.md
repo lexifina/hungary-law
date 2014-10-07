@@ -40,6 +40,8 @@ közszolgáltatási díjat kell tekinteni.
 
 (10) Ha a (2) vagy a (2d) bekezdés szerint megállapított díj 2013. július 1-jét követően legalább 10%-kal nem alacsonyabb a 2013. június 30-án alkalmazott díjnál, akkor a közszolgáltató köteles azt legalább annyival csökkenteni, hogy a fizetendő díj a 2013. június 30-án alkalmazott díjnál legalább 10%-kal alacsonyabb legyen.
 
-(11)–(12)
+(11) A (2) és (10) bekezdés szerinti, a közszolgáltatási díj legmagasabb mértékére vonatkozó rendelkezéseket a közszolgáltatónak akkor is érvényesítenie kell, ha 2013. június 30-át követően a műszaki tartalom megváltozott, az azonban nem a természetes személy ingatlanhasználó kifejezett kérésére történt.
+
+(12)
 
 (13) A Hivatal a 47/A. § (2) bekezdése szerinti javaslatát első alkalommal 2014. szeptember 30-ig küldi meg.
