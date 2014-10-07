@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Egyesült Arab Emírségek Kormánya közötti Légiközlekedési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
