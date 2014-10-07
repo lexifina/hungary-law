@@ -1,1 +1,1 @@
-4. § Az Országgyűlés a Jegyzőkönyvet e törvénnyel kihirdeti.
+4–5. §

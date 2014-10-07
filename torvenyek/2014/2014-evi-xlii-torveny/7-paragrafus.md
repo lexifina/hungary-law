@@ -9,11 +9,3 @@
 (5) E törvény végrehajtásához szükséges intézkedésekről az adópolitikáért felelős miniszter gondoskodik.
 
 (6) Az Egyezmény – a Jegyzőkönyvbe foglalt módosításokkal – egységes szerkezetbe foglalt hiteles szövegének és annak hivatalos magyar nyelvű fordításának a Nemzeti Jogszabálytárban történő közzétételéről az adópolitikáért felelős miniszter a Jegyzőkönyv hatálybelépését követően haladéktalanul gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
