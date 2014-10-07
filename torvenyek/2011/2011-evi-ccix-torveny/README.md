@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-209-00-00
 | 2013-12-26 | 2013. évi CCXXVII. törvény | 2011-209-00-00.13 |
 | 2014-01-01 | 2013. évi CCXXVII. törvény | 2011-209-00-00.14 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2011-209-00-00.15 |
+| 2014-10-07 | 2014. évi XLI. törvény | 2011-209-00-00.16 |
