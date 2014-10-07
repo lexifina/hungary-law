@@ -6,7 +6,7 @@ A víziközmű-szolgáltató által alkalmazandó számlakép részszámla eset�
 
 2. A részszámla első oldala
 
-## 4K02369N_0 | „Szolgáltató logója: | | | Víziközmű-szolgáltatás x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
+## 4K13909U_0 | „Szolgáltató logója: | | | Víziközmű-szolgáltatás x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | Számla sorszáma: | Bankszámlaszáma: | |
 
 ## ”
 
@@ -84,7 +84,7 @@ Víziközmű-szolgáltatás
 
 ## Tájékoztató adatok:
 
-## * A rezsicsökkentés a fogyasztókat a 2013. január 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza.
+## * A rezsicsökkentés a fogyasztókat a 2013. január 31-én hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza.
 
 ## Fogyasztás megállapításának módja:
 

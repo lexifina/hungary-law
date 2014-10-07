@@ -4,7 +4,9 @@
 
 (3) Ha a csekk nem része a számla első lapjának (pl. elektronikus számla, csoportos beszedési megbízás), annak helyén a számla kiállításával és befizetésével kapcsolatos adatokat kell feltüntetni a fogyasztók megfelelő tájékoztatásához szükséges mértékben.
 
-(4) A szolgáltató az 1–12. mellékletekben meghatározott számlakép adattartalmát más adatsorokkal bővítheti további oldalak hozzáadása révén. A szolgáltató valamennyi oldalt köteles folyamatos számozással ellátni. A szolgáltató az 1–12. mellékletekben alkalmazott sormagasságtól és oszlopszélességtől – a számlakép elrendezésének sérelme nélkül – eltérhet.
+(3a) Az 1–12. melléklet 2. pontjaiban a „Címzés” mezőben a számla, mint postai küldemény azonosítását szolgáló egyedi azonosító vonalkód vagy más nyomdai jel – a postai küldemény borítékjának címzés ablakában látható módon a számlakép elrendezésének sérelme nélkül – feltüntethető. Az 1–12. melléklet első oldalán – a számlakép elrendezésének sérelme nélkül – a számla azonosítását segítő vagy a számlafizetéssel kapcsolatos nyomdai jel feltüntethető.
+
+(4) A szolgáltató az 1–12. mellékletekben meghatározott számlakép adattartalmát más adatsorokkal bővítheti további oldalak hozzáadása révén. További oldalak hozzáadása esetén a számla sorszáma minden hozzáadott oldalon feltüntethető. A szolgáltató valamennyi oldalt köteles folyamatos számozással ellátni. A szolgáltató az 1–12. mellékletekben alkalmazott sormagasságtól és oszlopszélességtől – a számlakép elrendezésének sérelme nélkül – eltérhet.
 
 (5) A számla első oldalán a színes mezők háttérszíneként
 

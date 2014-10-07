@@ -6,7 +6,7 @@ A víziközmű-szolgáltató által alkalmazandó számlakép elszámoló száml
 
 2. Az elszámoló számla első oldala:
 
-## 4K02369O_0 | „Szolgáltató logója: | Víziközmű- szolgáltatás elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | | |
+## 4K13909V_0 | „Szolgáltató logója: | Víziközmű- szolgáltatás elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | | Számla sorszáma: |
 
 ## „
 
@@ -82,11 +82,15 @@ Víziközmű-szolgáltatás
 
 ## Tájékoztató adatok:
 
-## * A rezsicsökkentés a fogyasztókat a 2013. január 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza. Az adott elszámolási időszakban elért megtakarítás az elszámolási időszakban kibocsátott rész- és elszámoló számlák összességére figyelemmel került meghatározásra.
+## * Az alapdíj fogyasztástól függetlenül fizetendő.
 
-## Fogyasztás megállapításának módja:
+## ** A rezsicsökkentés a fogyasztókat a 2013. január 31-én hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza. Az adott elszámolási időszakban elért megtakarítás az elszámolási időszakban kibocsátott rész- és elszámoló számlák összességére figyelemmel került meghatározásra.
 
-## Következő mérő leolvasás vagy diktálás időpontja:
+## Következő leolvasás várható időpontja:
+
+## AHK: adó hatályán kívüli
+
+## Leolvasás módja (LM): Leol – leolvasás a víziközmű-szolgáltató által; Becs – becsült; Dikt – fogyasztó által diktált; Ell – víziközmű-szolgáltatói ellenőrzés
 
 4. Magyarázat:
 

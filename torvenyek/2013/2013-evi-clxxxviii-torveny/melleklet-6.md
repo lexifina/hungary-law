@@ -6,7 +6,7 @@ A távhőszolgáltató által alkalmazandó számlakép közvetített szolgálta
 
 2. A részszámla első oldala
 
-## 4K02368Q_0 | „Szolgáltató logója: | | | Távhőszolgáltatási x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
+## 4K13909R_0 | „Szolgáltató logója: | | | Távhőszolgáltatási x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | Számla sorszáma: | Bankszámlaszáma: | |
 
 ## ”
 

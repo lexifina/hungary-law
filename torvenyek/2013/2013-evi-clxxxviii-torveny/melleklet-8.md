@@ -6,7 +6,7 @@ A távhőszolgáltató által alkalmazandó számlakép közvetített szolgálta
 
 2. „Az elszámoló számla első oldala
 
-## 4K02369M_0 | Szolgáltató logója: | | | Távhőszolgáltatási elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
+## 4K13909T_0 | Szolgáltató logója: | | | Távhőszolgáltatási elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | Számla sorszáma: | Bankszámlaszáma: | |
 
 ## ”
 

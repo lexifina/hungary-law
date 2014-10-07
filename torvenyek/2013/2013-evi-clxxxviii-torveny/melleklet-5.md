@@ -6,7 +6,7 @@ A távhőszolgáltató által alkalmazandó közvetített szolgáltatást nem ta
 
 2. A részszámla első oldala
 
-## 4K02368P_0 | „Szolgáltató logója: | | | Távhőszolgáltatási x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
+## 4K13909Q_0 | „Szolgáltató logója: | | | Távhőszolgáltatási x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | Számla sorszáma: | Bankszámlaszáma: | |
 
 ## ”
 

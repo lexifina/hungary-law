@@ -6,7 +6,7 @@ A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó �
 
 2. Az elszámoló számla első oldala:
 
-## 4K02368M_0 | „Szolgáltató logója: | | | Villamos energia elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
+## 4K13909N_0 | „Szolgáltató logója: | | | Villamos energia elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | Számla sorszáma: | Bankszámlaszáma: | |
 
 ## ”
 
@@ -520,11 +520,13 @@ Fizetendő összeg összesen
 
 ## Tájékoztató adatok:
 
-## * Az elosztói alapdíj fogyasztástól függetlenül fizetendő
+## * Az elosztói alapdíj fogyasztástól függetlenül fizetendő.
 
 ## ** A rezsicsökkentés a fogyasztókat a 2012. december 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza. Az adott elszámolási időszakban elért megtakarítás az elszámolási időszakban kibocsátott rész- és elszámoló számlák összességére figyelemmel került meghatározásra.
 
 ## Következő leolvasás várható időpontja:
+
+## A fogyasztásmérő hitelességének lejárati ideje, illetve a mérőcsere tervezett időpontja:
 
 ## AHK: adó hatályán kívüli
 
