@@ -1,0 +1,1 @@
+4. § A Megállapodás alapján megépülő híd forgalomba helyezését követően – az építtető vagyonkezelési jogának egyidejű megszűnése mellett – a Magyar Nemzeti Vagyonkezelő Zrt. Ababújvár Község Önkormányzatával vagyonkezelési szerződést köt.
