@@ -6,7 +6,7 @@ A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a terü
 
 1. A képzés témakörei
 
-1. 1. A képzés tárgykörei:
+1.1. A képzés tárgykörei:
 
 1.1.1. Fogyasztóvédelmi alapismeretek:
 
@@ -30,13 +30,13 @@ i) a fogyasztói érdekek képviseletét ellátó egyesületek szerepe.
 
 1.1.2. Szabadon választható szakirányok:
 
-1. 1. 2. 1. Elektronikus hírközlés szakirány
+1.1.2.1. Elektronikus hírközlés szakirány:
 
 a) elektronikus hírközlési szolgáltatásra vonatkozó ismeretek,
 
 b) panaszkezelési és ügyfélszolgálati szabályok.
 
-1. 1. 2. 2. Idegenforgalmi szakirány:
+1.1.2.2. Idegenforgalmi szakirány:
 
 a) utasjogok,
 
@@ -44,7 +44,7 @@ b) panaszkezelési szabályok,
 
 c) utazási szerződésre, utazásközvetítésre vonatkozó szabályok.
 
-1. 1. 2. 3. Közszolgáltatások szakirány:
+1.1.2.3. Közszolgáltatások szakirány:
 
 a) közszolgáltatók panaszkezelése és ügyfélszolgálata,
 
@@ -52,7 +52,7 @@ b) a közszolgáltatók hatósági ellenőrzésének rendszere,
 
 c) számlázás, elszámolás, mérés, kikapcsolás (korlátozás) és visszakapcsolás közszolgáltatókra vonatkozó szabályai, valamint a számlakép.
 
-1. 1. 2. 4. Kereskedelmi szakirány:
+1.1.2.4. Kereskedelmi szakirány:
 
 a) általános fogyasztóvédelmi kereskedelmi alapismeretek,
 
@@ -70,44 +70,40 @@ g) általános élelmiszerjogi ismeretek,
 
 h) termékspecifikus reklámtilalmak és reklámkorlátozások.
 
-1. 2. A képzés során a fogyasztóvédelmi alapismeretek témaköreinek felvétele kötelező, mely mellé kötelezően választandó legalább egy szakirány.
+1.2. A képzés során a fogyasztóvédelmi alapismeretek témaköreinek felvétele kötelező, mely mellé kötelezően választandó legalább egy szakirány.
 
 2. A képzési idő
 
-A fogyasztóvédelmi alapismeretek képzés időtartama 50 óra, amely 90% elméleti, 10% gyakorlati részből áll.
+2.1. A fogyasztóvédelmi alapismeretek képzés időtartama 50 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 
-Az elektronikus hírközlés szakirány képzésének időtartama 20 óra, amely 90% elméleti, 10% gyakorlati részből áll.
+2.2. Az elektronikus hírközlés szakirány képzésének időtartama 20 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 
-Az idegenforgalmi szakirány képzésének időtartama 30 óra, amely 90% elméleti, 10% gyakorlati részből áll.
+2.3. Az idegenforgalmi szakirány képzésének időtartama 30 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 
-A közszolgáltatások szakirány képzésének időtartama 50 óra, amely 90% elméleti, 10% gyakorlati részből áll.
+2.4. A közszolgáltatások szakirány képzésének időtartama 50 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 
-A kereskedelmi szakirány képzésének időtartama 50 óra, amely 90% elméleti, 10% gyakorlati részből áll.
+2.5. A kereskedelmi szakirány képzésének időtartama 50 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 
-Az órákon való részvétel kötelező, a teljes óraszám 10%-ánál magasabb arányú hiányzás esetén a képzést meg kell ismételni.
+2.6. Az órákon való részvétel kötelező, a teljes óraszám 10%-ánál magasabb arányú hiányzás esetén a képzést meg kell ismételni.
 
 3. A vizsga
 
-A képzés és a vizsga részletes szabályait a képzést szervezőnek tanulmányi és vizsgaszabályzatban kell rögzítenie. A szervező gondoskodik a vizsga követelményeihez igazodó felkészítő anyag elkészítéséről, a vizsga lebonyolítását meghatározó módszertani útmutató készítéséről, az ellenőrző kérdések összeállításáról és azok közzétételéről, valamint az írásbeli és szóbeli vizsgakérdések összeállításáról.
+3.1. A képzés és a vizsga részletes szabályait a képzést szervezőnek tanulmányi és vizsgaszabályzatban kell rögzítenie. A szervező gondoskodik a vizsga követelményeihez igazodó felkészítő anyag elkészítéséről, a vizsga lebonyolítását meghatározó módszertani útmutató készítéséről, az ellenőrző kérdések összeállításáról és azok közzétételéről, valamint az írásbeli és szóbeli vizsgakérdések összeállításáról.
 
-A fogyasztóvédelmi referens képzésen oktató, valamint vizsgán vizsgáztató lehet, aki
+3.2. A fogyasztóvédelmi referens képzésen oktató, valamint vizsgán vizsgáztató lehet, aki
 
-a) szakirányú felsőfokú végzettséggel rendelkezik, vagy
+a) szakirányú felsőfokú végzettséggel, és 3 éves valamely fogyasztóvédelmi hatáskörrel rendelkező hatóságnál eltöltött gyakorlattal rendelkezik, vagy
 
-b) legalább 3 éves, valamely fogyasztóvédelmi hatáskörrel rendelkező hatóságnál eltöltött gyakorlattal rendelkezik, vagy
+b) legalább 5 éves, fogyasztóvédelmi hatóságnál eltöltött gyakorlattal rendelkezik.
 
-c) legalább 3 éven keresztül békéltető testületi tagként tevékenykedett.
+3.3. A képzési idő lejártát követően a résztvevő vizsgát köteles tenni. A képzés elvégzését, valamint a vizsga letételét követően fogyasztóvédelmi referens megnevezésű képesítés megszerzésére kerül sor.
 
-A képzési idő lejártát követően a résztvevő vizsgát köteles tenni. A képzés elvégzését, valamint a vizsga letételét követően fogyasztóvédelmi referens megnevezésű képesítés megszerzésére kerül sor.
+3.4. A fogyasztóvédelmi referens vizsgát 3 tagú vizsgabizottság bírálja el. A vizsgabizottságot elnök vezeti. Az elnököt a fogyasztóvédelmi hatóság főigazgatója jelöli ki.
 
-A fogyasztóvédelmi referens vizsgát 3 tagú vizsgabizottság bírálja el. A vizsgabizottságot elnök vezeti. Az elnököt a fogyasztóvédelmi hatóság főigazgatója jelöli ki.
+3.5. A vizsga írásbeli és szóbeli részből áll. A vizsgafeladatokat a fogyasztóvédelmi hatóság hagyja jóvá. Az írásbeli vizsga megoldására 180 perc áll rendelkezésre. A szóbeli vizsgán a szóbeli vizsgakérdésekből szükséges ismertetnie tudását a vizsgázónak.
 
-A vizsga írásbeli és szóbeli részből áll. Az írásbeli vizsga megoldására 180 perc áll rendelkezésre. A szóbeli vizsgán a szóbeli vizsgakérdésekből szükséges ismertetnie tudását a vizsgázónak.
+3.6. A vizsga eredményét a pontérték alapján, %-ban kell meghatározni és azt kiválóan megfelelt, megfelelt vagy eredménytelen minősítéssel kell ellátni. A megfelelt minősítéshez legalább 60%-os, a kiválóan megfelelt minősítéshez legalább 90%-os eredmény szükséges.
 
-A vizsga eredményét a pontérték alapján, %-ban kell meghatározni és azt kiválóan megfelelt, megfelelt vagy eredménytelen minősítéssel kell ellátni. A megfelelt minősítéshez legalább
+3.7. A képzést szervező a vizsgáról jegyzőkönyvet köteles vezetni. A vizsga jegyzőkönyvét és az eredmények összesítését a szervező 5 napon belül megküldi a fogyasztóvédelmi hatóságnak.
 
-60%-os, a kiválóan megfelelt minősítéshez legalább 90%-os eredmény szükséges.
-
-A képzést szervező a vizsgáról jegyzőkönyvet köteles vezetni. A vizsga jegyzőkönyvét és az eredmények összesítését a szervező 5 napon belül megküldi a fogyasztóvédelmi hatóságnak.
-
-A vizsga eredményes teljesítéséről a fogyasztóvédelmi hatóság képesítési bizonyítványt állít ki, mely tartalmazza a képzésben részt vevő által elvégzett szakirányt.
+3.8. A vizsga eredményes teljesítéséről a fogyasztóvédelmi hatóság képesítési bizonyítványt állít ki, mely tartalmazza a képzésben részt vevő által elvégzett szakirányt.
