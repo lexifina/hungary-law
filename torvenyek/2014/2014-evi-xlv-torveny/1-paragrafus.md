@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Lengyel Köztársaság Kormánya között a kölcsönös vízumképviseletről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
