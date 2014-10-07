@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Európai Rendőrakadémia (CEPOL) közötti Székhely-megállapodás (a továbbiakban: Székhely-megállapodás) kötelező hatályának elismerésére.
