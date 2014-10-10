@@ -1,0 +1,1 @@
+## 13. § Az Élelmiszeripari Forgóeszköz Hitelprogram kapcsán kamat megfizetéséhez igénybe vehető csekély összegű (de minimis) támogatásról szóló 108/2013. (XI. 28.) VM rendelet 3. § (2) bekezdésében a „2014. június 30-áig” szövegrész helyébe a „2014. december 31-éig” szövegrész lép.
