@@ -24,7 +24,7 @@ d) vállalja, hogy a hitelszerződés módosítása esetén annak bekövetkezés
 
 e)[^5] megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
 
-(2) Kamattámogatás a hitelprogram keretében olyan – ideértve az élelmiszeripai célú forgóeszköz hitel kiváltását szolgáló – 2014. június 30-áig megkötött hitelszerződés esetén nyújtható,
+(2)[^6] Kamattámogatás a hitelprogram keretében olyan – ideértve az élelmiszeripai célú forgóeszköz hitel kiváltását szolgáló – 2014. december 31-éig megkötött hitelszerződés esetén nyújtható,
 
 a) amelynek a lejárata legfeljebb 6 év, azon belül legfeljebb 3 év türelmi idővel,
 
@@ -32,3 +32,4 @@ b) amelynek a hitelösszege legalább 5 millió forint, legfeljebb 500 millió f
 
 [^4]: A 3. § (1) bekezdés b) pont bc) alpontját a 36/2014. (IV. 4.) VM rendelet 100. §-a hatályon kívül helyezte.
 [^5]: A 3. § (1) bekezdés e) pontját a 36/2014. (IV. 4.) VM rendelet 97. §-a iktatta be.
+[^6]: A 3. § (2) bekezdés nyitó szövegrésze a 15/2014. (X. 9.) FM rendelet 13. §-a szerint módosított szöveg.
