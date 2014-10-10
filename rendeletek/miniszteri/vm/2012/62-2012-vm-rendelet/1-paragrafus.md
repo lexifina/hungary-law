@@ -6,7 +6,7 @@
 
 2. civil szervezet: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény alapján létrejött szervezet;
 
-3.[^1]
+3.[^2]
 
 4. fejlesztés: a beruházás és a felújítás, valamint immateriális javak beszerzése;
 
@@ -68,4 +68,4 @@
 
 33. többcélú kistérségi társulás: a települési önkormányzatok többcélú kistérségi társulásáról szóló törvény alapján létrejött önkormányzati társulás.
 
-[^1]: Az 1. § 3. pontját a 121/2013. (XII. 16.) VM rendelet 25. § (2) bekezdése hatályon kívül helyezte.
+[^2]: Az 1. § 3. pontját a 121/2013. (XII. 16.) VM rendelet 25. § (2) bekezdése hatályon kívül helyezte.

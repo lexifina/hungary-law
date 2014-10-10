@@ -8,7 +8,7 @@ b) a 2. § (3) bekezdés b) pontjában meghatározott célra irányuló fejleszt
 
 c) a 2. § (3) bekezdés c) pontjában meghatározott célra irányuló fejlesztés esetén az 1. mellékletben szereplő tanyás települések önkormányzatai, önkormányzati konzorciumai és többcélú kistérségi társulásai,
 
-d)[^2] a 2. § (3) bekezdés d) pont da), valamint dc) alpontjában meghatározott célra irányuló fejlesztés esetén az 1. mellékletben szereplő tanyás települések önkormányzatai és többcélú kistérségi társulásai, egyházi jogi személyek, támogatásra jogosult civil szervezetek,
+d)[^3] a 2. § (3) bekezdés d) pont da), valamint dc) alpontjában meghatározott célra irányuló fejlesztés esetén az 1. mellékletben szereplő tanyás települések önkormányzatai és többcélú kistérségi társulásai, egyházi jogi személyek, támogatásra jogosult civil szervezetek,
 
 e) a 2. § (3) bekezdés d) pont db) alpontjában meghatározott célra irányuló fejlesztés esetén a tanyás térségekben működő tanyagondnoki feladatokat ellátó támogatásra jogosult civil szervezetek,
 
@@ -24,4 +24,4 @@ c) a 2011. évi összes bevételének legalább 50%-a mezőgazdasági tevékenys
 
 (3) A támogatás igénybevételének előfeltétele, hogy a pályázó legkésőbb a pályázat benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) alapján vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben nyilvántartásba vetesse magát a Mezőgazdasági és Vidékfejlesztési Hivatalnál (a továbbiakban: MVH) és a nyilvántartásba vétel megtörténtét igazolja.
 
-[^2]: A 3. § (1) bekezdés d) pontja a 121/2013. (XII. 16.) VM rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § (1) bekezdés d) pontja a 121/2013. (XII. 16.) VM rendelet 25. § (1) bekezdésével megállapított szöveg.
