@@ -1,0 +1,1 @@
+## 6. § A Hpt. 292. § (3) bekezdésével és a Bszt. 182. § (15) bekezdésével összhangban, e rendelet előírásait a 2014. január 1-jét követően kifizetett javadalmazásra abban az esetben is alkalmazni kell, ha a kifizetésre vonatkozó szerződés 2014. január 1-je előtt került megkötésre.
