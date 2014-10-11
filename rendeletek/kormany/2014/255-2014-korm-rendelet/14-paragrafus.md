@@ -1,0 +1,25 @@
+## nyújtható.
+
+## 9. Környezet és Energetikai Hatékonyság Operatív Program
+
+## 14. § A Környezet és Energetikai Hatékonyság Operatív Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek, támogatható tevékenységek:
+
+1. ivóvízminőség-javítás ivóvíz-kezelési technológiák fejlesztésével, más vízbázisra áttéréssel, térségi rendszerek kialakításával, rekonstrukcióval, illetve ezek kombinációjával,
+
+2. szennyvízelvezetéssel és -kezeléssel kapcsolatos fejlesztések,
+
+3. a szennyvíziszap országosan egységes koncepció alapján történő hatékony kezelése és optimális hasznosítása érdekében szükséges beruházások, fejlesztések energiahatékonysági elemekkel,
+
+4. az elkülönített gyűjtési és szállítási rendszerek fejlesztése,
+
+5. az előkezelés, a hasznosítás és az ártalmatlanítás alrendszereinek fejlesztése a települési hulladék vonatkozásában,
+
+6. Országos Környezeti Kármentesítési Program,
+
+7. hálózatra termelő, nem épülethez kötött megújuló energiaforrás alapú zöldáram-termelés,
+
+8. épületek energiahatékonysági korszerűsítése, épülethez kapcsolódó megújuló energetikai fejlesztések,
+
+9. távhő és hőellátó rendszerek energetikai fejlesztése, illetve megújuló alapra helyezése,
+
+10. intelligens hálózati rendszerek támogatása a villamosenergia-rendszer rugalmasságnak biztosítására.

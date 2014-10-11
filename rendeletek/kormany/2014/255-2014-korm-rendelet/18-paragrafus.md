@@ -1,0 +1,5 @@
+## nyújtható.
+
+## III. Fejezet
+
+## AZ EGYES TÁMOGATÁSI KATEGÓRIÁKRA VONATKOZÓ KÖZÖS SZABÁLYOK
