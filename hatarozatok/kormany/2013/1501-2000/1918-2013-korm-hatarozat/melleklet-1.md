@@ -8,9 +8,9 @@
 
 ## 5. Ez a határozat 2014. január 1-jén lép hatályba.
 
-## 6.[^1]
+## 6.[^2]
 
-1. melléklet az 1918/2013. (XII. 11.) Korm. határozathoz[^2]
+1. melléklet az 1918/2013. (XII. 11.) Korm. határozathoz[^3]
 
 A 2014. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -154,6 +154,8 @@ A 2014. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 68. | K291/14 | NATO egyéb CIED felkészítések és kiképzési rendezvények 2014 | MH AA | NATO/EU Tagállam/ USA | I–IV. n. é. | 100 |
 
+| 69. | B 104/14 | IRON SWORD 2014 gyakorlat | MH ÖHP | Litvánia | IV. n.é. | 150 |
+
 2. Magyar Honvédség és külföldi fegyveres erők részvételével tervezett két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések
 
 | A gyakorlat megnevezése | Felelős | A gyakorlat tervezett helye | A gyakorlat tervezett időpontja | Engedélyezett létszám (fő) legfeljebb |
@@ -258,6 +260,8 @@ A 2014. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 50. | A160/14 | KHAAN QUEST 2014 gyakorlat | MH KDK | Mongólia | II–III. n.é. | 50 |
 
+| 51. | B 105/14 | BALTIC TRAINING 2014 kiképzés | MH ÖHP | Litvánia | IV. n.é. | 150 |
+
 3. A magyar fegyveres erők részvétele nélkül tervezett, külföldi fegyveres erők esetleges átvonulásával járó NATO gyakorlatok és kiképzések
 
 | A gyakorlat megnevezése | A gyakorlat tervezett helye | A gyakorlat tervezett időpontja | Engedélyezett létszám |
@@ -302,5 +306,5 @@ A 2014. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 9. | A Pápán települő NATO Stratégiai Légiszállítási tevékenységgel kapcsolatos csapatmozgások | 2014. I–IV. n. é. | egyidejűleg legfeljebb 1000 fő |
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1169/2014. (III. 26.) Korm. határozat 1. pontja, az 1343/2014. (VI. 18.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1169/2014. (III. 26.) Korm. határozat 1. pontja, az 1343/2014. (VI. 18.) Korm. határozat 1. pontja, az 1569/2014. (X. 10.) Korm. határozat 1. pontja szerint módosított szöveg.
