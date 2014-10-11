@@ -2,7 +2,7 @@
 
 ## A szállító- és az elosztóvezetékek, valamint a tárolók üzemeltetése
 
-100. §[^333] A rendszerüzemeltető az engedélye szerinti engedélyköteles tevékenysége vonatkozásában köteles saját alkalmazásban lévő munkavállalókkal az engedélyben meghatározott működési és szolgáltatási területén folyamatosan gyakorolni a jogait és eleget tenni kötelezettségeinek:
+100. §[^334] A rendszerüzemeltető az engedélye szerinti engedélyköteles tevékenysége vonatkozásában köteles saját alkalmazásban lévő munkavállalókkal az engedélyben meghatározott működési és szolgáltatási területén folyamatosan gyakorolni a jogait és eleget tenni kötelezettségeinek:
 
 a) szállítási rendszerirányító esetében:
 
@@ -26,4 +26,4 @@ be) az üzemvitel, az üzemirányítás és az ügyfélszolgálat területén az
 
 bf) az egyensúlyozó platformon, illetve a szervezett földgázpiacon megkötött ügyletek végrehajtásában történő közreműködés.
 
-[^333]: A Vhr. 100. §-a a 300/2013. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^334]: A Vhr. 100. §-a a 300/2013. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-163. §[^519] Korlátozás esetében a rendszerhasználó azon szabad rendelkezésű forrásait, amelyeket nem korlátozott felhasználóik ellátására nem használtak fel, a GET 97/C. § (3) bekezdésével és az egyensúlyozó platform szabályzatával összhangban köteles az egyensúlyozó platformon felajánlani.
+163. §[^520] Korlátozás esetében a rendszerhasználó azon szabad rendelkezésű forrásait, amelyeket nem korlátozott felhasználóik ellátására nem használtak fel, a GET 97/C. § (3) bekezdésével és az egyensúlyozó platform szabályzatával összhangban köteles az egyensúlyozó platformon felajánlani.
 
-[^519]: A Vhr. 163. §-a a 99/2013. (III. 29.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.
+[^520]: A Vhr. 163. §-a a 99/2013. (III. 29.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.

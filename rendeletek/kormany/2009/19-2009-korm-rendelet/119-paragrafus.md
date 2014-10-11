@@ -2,6 +2,6 @@
 
 ## Üzletszabályzatok
 
-119. §[^390] Az engedélyes üzletszabályzatának kötelező tartalmi elemeit e rendelet 4. számú melléklete tartalmazza.
+119. §[^391] Az engedélyes üzletszabályzatának kötelező tartalmi elemeit e rendelet 4. számú melléklete tartalmazza.
 
-[^390]: A Vhr. 119. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^391]: A Vhr. 119. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

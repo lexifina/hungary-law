@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-2
 | 2014-06-30 | 2009-19-20-22.29 | 156/2014. (VI. 30.) Korm. rendelet |
 | 2014-08-28 | 2009-19-20-22.30 | 212/2014. (VIII. 27.) Korm. rendelet |
 | 2014-10-02 | 2009-19-20-22.31 | 248/2014. (X. 1.) Korm. rendelet |
+| 2014-10-11 | 2009-19-20-22.32 | 256/2014. (X. 10.) Korm. rendelet |

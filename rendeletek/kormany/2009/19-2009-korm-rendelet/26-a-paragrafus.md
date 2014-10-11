@@ -1,4 +1,4 @@
-## Kereskedőváltás[^110]
+## Kereskedőváltás[^111]
 
 26/A. § (1) Ha a földgázkereskedő a GET 31/B. § (1) bekezdés b) pontja szerinti értesítést küld a felhasználónak – így különösen a felmondás benyújtásának időpontjáig lejárt tartozásról –, a földgázkereskedő köteles részletesen tájékoztatni a felhasználót a nem teljesített szerződéses feltételekről és azok teljesítésének módjáról.
 
@@ -10,17 +10,17 @@
 
 (5) Ha a rendszerüzemeltető a korábbi vagy az új földgázkereskedő (3) bekezdés szerinti adatközlésének hibája miatt a kereskedőváltásból eredő kötelezettségeit nem tudja végrehajtani, köteles dokumentálható módon egyeztetni az érintett földgázkereskedőkkel az érintett adat kijavításáról vagy pótlásáról úgy, hogy a GET 31/B. § (4) bekezdés szerinti kötelezettségét határidőben teljesíteni tudja.
 
-(6)[^111] A záró mérőállás meghatározására a felhasználó, a korábbi és az új földgázkereskedő megállapodása az irányadó.
+(6)[^112] A záró mérőállás meghatározására a felhasználó, a korábbi és az új földgázkereskedő megállapodása az irányadó.
 
-(7)[^112] Ha a felek a rendszerüzemeltető GET 31/B. § (4) bekezdése szerinti értesítéséig nem állapodnak meg a záró mérőállásban, a rendszerüzemeltető
+(7)[^113] Ha a felek a rendszerüzemeltető GET 31/B. § (4) bekezdése szerinti értesítéséig nem állapodnak meg a záró mérőállásban, a rendszerüzemeltető
 
 a) távlehívható fogyasztásmérő berendezéssel rendelkező felhasználó esetében a földgáz-kereskedelmi szerződés megszűnésének időpontjában, vagy
 
 b) nem távlehívható fogyasztásmérő berendezéssel rendelkező felhasználó esetében a földgáz-kereskedelmi szerződés megszűnésének napjáig az új földgázkereskedő költségére köteles gondoskodni a fogyasztásmérő berendezés leolvasásáról. A rendszerüzemeltető a nem távlehívható fogyasztásmérő berendezés esetében a záró mérőállást a leolvasás alapján arányosítással határozza meg.
 
-(8)[^113] A rendszerüzemeltető az elszámoláshoz szükséges adatokat a leolvasást követő 3 napon belül közli a korábbi és az új földgázkereskedővel, amely alapján a korábbi földgázkereskedő köteles végszámlát kibocsátani a földgáz-kereskedelmi szerződés megszűnésétől számított 20 napon belül. Az új földgázkereskedő által kiállított első számla kezdő mérőállásának a korábbi földgázkereskedő által kiállított végszámlán szereplő záró mérőállással azonosnak kell lennie.
+(8)[^114] A rendszerüzemeltető az elszámoláshoz szükséges adatokat a leolvasást követő 3 napon belül közli a korábbi és az új földgázkereskedővel, amely alapján a korábbi földgázkereskedő köteles végszámlát kibocsátani a földgáz-kereskedelmi szerződés megszűnésétől számított 20 napon belül. Az új földgázkereskedő által kiállított első számla kezdő mérőállásának a korábbi földgázkereskedő által kiállított végszámlán szereplő záró mérőállással azonosnak kell lennie.
 
-[^110]: A Vhr. „Kereskedőváltás” alcímét (a Vhr. 26/A–26/B. §-t) a 100/2011. (VI. 29.) Korm. rendelet 27. §-a iktatta be.
-[^111]: A Vhr. 26/A. § (6) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 40. §-ával megállapított szöveg.
-[^112]: A Vhr. 26/A. § (7) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 40. §-a iktatta be.
-[^113]: A Vhr. 26/A. § (8) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 40. §-a iktatta be.
+[^111]: A Vhr. „Kereskedőváltás” alcímét (a Vhr. 26/A–26/B. §-t) a 100/2011. (VI. 29.) Korm. rendelet 27. §-a iktatta be.
+[^112]: A Vhr. 26/A. § (6) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^113]: A Vhr. 26/A. § (7) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 40. §-a iktatta be.
+[^114]: A Vhr. 26/A. § (8) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 40. §-a iktatta be.
