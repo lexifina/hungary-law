@@ -1,0 +1,7 @@
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja azokat az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek az Apollo Tyres Hungary Kft. által Gyöngyöshalász község közigazgatási területén lévő, az ingatlan-nyilvántartás szerinti 0105/10, 0105/11, 0105/12, 0105/13, 0105/14, 0105/15, 0105/16, 0105/17, 0105/18, 0106, 0107/1, 0107/3, 0107/4, 0110/2, 0111/7, 0111/8, 0111/9, 0111/10, 0111/11, 0111/12, 0111/13 helyrajzi számú földrészleteken, illetve az ezekből a földrészletekből telekalakítási eljárások jogerős befejezését követően kialakított földrészleteken megvalósításra kerülő, gumiabroncsgyár és az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházással függenek össze.
+
+(2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek az (1) bekezdés szerinti beruházás megvalósításához és használatbavételéhez szükségesek.
+
+(3) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
+
+(4) Azokban az esetekben, amikor az 1. mellékletben meghatározott eljárásfajtára vonatkozó jogszabály az adott eljárásban szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró szakhatóságként a 2. mellékletben meghatározott hatóságokat jelöli ki.
