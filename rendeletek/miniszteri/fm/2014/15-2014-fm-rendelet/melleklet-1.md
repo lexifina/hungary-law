@@ -1,4 +1,4 @@
-## 14. § Az anyajuhtartás „de minimis” támogatásáról szóló 123/2013. (XII. 17.) VM rendelet 4. § (3) bekezdésében a „2014. szeptember 30-áig” szövegrész helyébe a „2014. október 31-éig” szöveg lép.
+## 11–14. §[^1]
 
 1. melléklet a 15/2014. (X. 9.) FM rendelethez
 
@@ -35,3 +35,5 @@ H – a kamatidőszak elején fennálló hitelállomány forintban (feltételezv
 n – naptári évek száma, a támogatástartalom a kamattámogatási kérelem beérkezésének naptári negyedévét közvetlenül megelőző naptári negyedév első napjától a hitel futamidejének utolsó napjáig terjedő időszak alapján kerül kiszámításra,
 
 r – a kamattámogatási kérelem benyújtása hónapját közvetlenül megelőző hónap első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam.
+
+[^1]: A 11–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
