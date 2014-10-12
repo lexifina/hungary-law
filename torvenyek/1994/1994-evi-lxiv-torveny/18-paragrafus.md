@@ -1,5 +1,0 @@
-18. § (1) A polgármesternek a polgármesteri tisztsége ellátásával összefüggő, a képviselőnek a képviselő-testület képviseletében vagy megbízásából végzett tevékenységével összefüggő, általa előlegezett, számlával igazolt, szükséges költségét meg kell téríteni. A képviselői költségek kifizetését a polgármester engedélyezi.
-
-(2) A polgármestert, választása szerint – az (1) bekezdésben foglaltaktól eltérően, költségátalány illeti meg. A költségátalány mértéke – a képviselő-testület döntése alapján – a polgármester illetménye, illetve tiszteletdíja 20–30%-ának megfelelő összeg. Az alpolgármester esetében a költségátalány mértéke az illetménye, illetve tiszteletdíja 10–20%-ának megfelelő összeg.
-
-(3) Ha a polgármester kéri a költségátalány megállapítását, annak mértékéről a képviselő-testület a következő ülésén köteles határozni. Ha a képviselő-testület bármely okból nem hoz határozatot, a polgármestert a képviselő-testület ülésének napjától a határozat meghozataláig a költségátalány (2) bekezdésben meghatározott minimális összege illeti meg.

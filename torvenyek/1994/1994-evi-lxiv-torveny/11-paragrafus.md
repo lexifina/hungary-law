@@ -1,1 +1,0 @@
-11. § A képviselő-testület a polgármester foglalkoztatási jogviszonyával, illetményének, tiszteletdíjának meghatározásával, fegyelmi és kártérítési felelősségének megállapításával kapcsolatos hatáskörét nem ruházhatja át.
