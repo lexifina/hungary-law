@@ -6520,27 +6520,31 @@
 
 19.2.1. Alsóörs
 
-19.2.2. Balatonfőkajár
+19.2.2. Balatonakarattya
 
-19.2.3. Balatonfűzfő
+19.2.3. Balatonalmádi
 
-19.2.4. Balatonkenese
+19.2.4. Balatonfőkajár
 
-19.2.5. Csajág
+19.2.5. Balatonfűzfő
 
-19.2.6. Felsőörs
+19.2.6. Balatonkenese
 
-19.2.7. Királyszentistván
+19.2.7. Csajág
 
-19.2.8. Küngös
+19.2.8. Felsőörs
 
-19.2.9. Litér
+19.2.9. Királyszentistván
 
-19.2.10. Lovas
+19.2.10. Küngös
 
-19.2.11. Papkeszi
+19.2.11. Litér
 
-19.2.12. Vilonya
+19.2.12. Lovas
+
+19.2.13. Papkeszi
+
+19.2.14. Vilonya
 
 19.3. Balatonfüredi Rendőrkapitányság
 
@@ -7430,4 +7434,4 @@
 
 21.1.5. A légiforgalmi szolgálat központi létesítménye
 
-[^13]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított, a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése, a 23/2011. (VII. 21.) BM rendelet 6. §-a, a 87/2012. (XII. 29.) BM rendelet 1. §-a, a 24/2013. (VI. 20.) BM rendelet 2–7. §-a, a 74/2013. (XII. 18.) BM rendelet 2. §-a szerint módosított szöveg.
+[^13]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított, a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése, a 23/2011. (VII. 21.) BM rendelet 6. §-a, a 87/2012. (XII. 29.) BM rendelet 1. §-a, a 24/2013. (VI. 20.) BM rendelet 2–7. §-a, a 74/2013. (XII. 18.) BM rendelet 2. §-a, a 47/2014. (X. 10.) BM rendelet 2. §-a szerint módosított szöveg.
