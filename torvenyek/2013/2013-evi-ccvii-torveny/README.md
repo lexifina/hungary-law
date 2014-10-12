@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-207-00-00
 | 2013-12-11 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-207-00-00.1 |
 | 2013-12-12 | 2010. évi CXXX. törvény | 2013-207-00-00.2 |
 | 2014-03-04 | 2014. évi XIV. törvény | 2013-207-00-00.3 |
+| 2014-10-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-207-00-00.4 |
