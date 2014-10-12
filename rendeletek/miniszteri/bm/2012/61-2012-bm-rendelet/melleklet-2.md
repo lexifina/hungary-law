@@ -5970,7 +5970,7 @@
 
 ## Veszprém székhelyű katasztrófavédelmi kirendeltség
 
-| Sor- szám | Település | Katasztrófavédelmi osztály |
+| Sorszám | Település | Katasztrófavédelmi osztály |
 
 | 1. | Alsóörs | II. |
 
@@ -5986,139 +5986,141 @@
 
 | 7. | Balatonakali | II. |
 
-| 8. | Balatonalmádi | II. |
+| 8. | Balatonakarattya | II. |
 
-| 9. | Balatoncsicsó | III. |
+| 9. | Balatonalmádi | II. |
 
-| 10. | Balatonfőkajár | II. |
+| 10. | Balatoncsicsó | III. |
 
-| 11. | Balatonfűzfő | I. |
+| 11. | Balatonfőkajár | II. |
 
-| 12. | Balatonfüred | II. |
+| 12. | Balatonfűzfő | I. |
 
-| 13. | Balatonkenese | II. |
+| 13. | Balatonfüred | II. |
 
-| 14. | Balatonszepezd | II. |
+| 14. | Balatonkenese | II. |
 
-| 15. | Balatonszőlős | III. |
+| 15. | Balatonszepezd | II. |
 
-| 16. | Balatonudvari | II. |
+| 16. | Balatonszőlős | III. |
 
-| 17. | Bánd | II. |
+| 17. | Balatonudvari | II. |
 
-| 18. | Barnag | III. |
+| 18. | Bánd | II. |
 
-| 19. | Berhida | I. |
+| 19. | Barnag | III. |
 
-| 20. | Borzavár | III. |
+| 20. | Berhida | I. |
 
-| 21. | Csajág | I. |
+| 21. | Borzavár | III. |
 
-| 22. | Csesznek | III. |
+| 22. | Csajág | I. |
 
-| 23. | Csetény | III. |
+| 23. | Csesznek | III. |
 
-| 24. | Csopak | II. |
+| 24. | Csetény | III. |
 
-| 25. | Dörgicse | III. |
+| 25. | Csopak | II. |
 
-| 26. | Dudar | II. |
+| 26. | Dörgicse | III. |
 
-| 27. | Eplény | II. |
+| 27. | Dudar | II. |
 
-| 28. | Felsőörs | III. |
+| 28. | Eplény | II. |
 
-| 29. | Hajmáskér | II. |
+| 29. | Felsőörs | III. |
 
-| 30. | Hárskút | II. |
+| 30. | Hajmáskér | II. |
 
-| 31. | Herend | II. |
+| 31. | Hárskút | II. |
 
-| 32. | Hidegkút | III. |
+| 32. | Herend | II. |
 
-| 33. | Jásd | II. |
+| 33. | Hidegkút | III. |
 
-| 34. | Királyszentistván | I. |
+| 34. | Jásd | II. |
 
-| 35. | Küngös | III. |
+| 35. | Királyszentistván | I. |
 
-| 36. | Litér | I. |
+| 36. | Küngös | III. |
 
-| 37. | Lókút | II. |
+| 37. | Litér | I. |
 
-| 38. | Lovas | III. |
+| 38. | Lókút | II. |
 
-| 39. | Márkó | III. |
+| 39. | Lovas | III. |
 
-| 40. | Mencshely | III. |
+| 40. | Márkó | III. |
 
-| 41. | Monoszló | III. |
+| 41. | Mencshely | III. |
 
-| 42. | Nagyesztergár | III. |
+| 42. | Monoszló | III. |
 
-| 43. | Nagyvázsony | III. |
+| 43. | Nagyesztergár | III. |
 
-| 44. | Nemesvámos | III. |
+| 44. | Nagyvázsony | III. |
 
-| 45. | Óbudavár | III. |
+| 45. | Nemesvámos | III. |
 
-| 46. | Olaszfalu | III. |
+| 46. | Óbudavár | III. |
 
-| 47. | Örvényes | II. |
+| 47. | Olaszfalu | III. |
 
-| 48. | Ősi | I. |
+| 48. | Örvényes | II. |
 
-| 49. | Öskü | II. |
+| 49. | Ősi | I. |
 
-| 50. | Paloznak | II. |
+| 50. | Öskü | II. |
 
-| 51. | Papkeszi | II. |
+| 51. | Paloznak | II. |
 
-| 52. | Pécsely | III. |
+| 52. | Papkeszi | II. |
 
-| 53. | Pénzesgyőr | III. |
+| 53. | Pécsely | III. |
 
-| 54. | Pétfürdő | I. |
+| 54. | Pénzesgyőr | III. |
 
-| 55. | Porva | III. |
+| 55. | Pétfürdő | I. |
 
-| 56. | Pula | III. |
+| 56. | Porva | III. |
 
-| 57. | Sóly | III. |
+| 57. | Pula | III. |
 
-| 58. | Szápár | III. |
+| 58. | Sóly | III. |
 
-| 59. | Szentantalfa | III. |
+| 59. | Szápár | III. |
 
-| 60. | Szentgál | III. |
+| 60. | Szentantalfa | III. |
 
-| 61. | Szentjakabfa | III. |
+| 61. | Szentgál | III. |
 
-| 62. | Szentkirályszabadja | III. |
+| 62. | Szentjakabfa | III. |
 
-| 63. | Tagyon | III. |
+| 63. | Szentkirályszabadja | III. |
 
-| 64. | Tés | II. |
+| 64. | Tagyon | III. |
 
-| 65. | Tihany | II. |
+| 65. | Tés | II. |
 
-| 66. | Tótvázsony | III. |
+| 66. | Tihany | II. |
 
-| 67. | Várpalota | I. |
+| 67. | Tótvázsony | III. |
 
-| 68. | Vászoly | III. |
+| 68. | Várpalota | I. |
 
-| 69. | Veszprém | II. |
+| 69. | Vászoly | III. |
 
-| 70. | Veszprémfajsz | III. |
+| 70. | Veszprém | II. |
 
-| 71. | Vilonya | II. |
+| 71. | Veszprémfajsz | III. |
 
-| 72. | Vöröstó | III. |
+| 72. | Vilonya | II. |
 
-| 73. | Zánka | II. |
+| 73. | Vöröstó | III. |
 
-| 74. | Zirc | II. |
+| 74. | Zánka | II. |
+
+| 75. | Zirc | II.” |
 
 ## ZALA MEGYE
 
