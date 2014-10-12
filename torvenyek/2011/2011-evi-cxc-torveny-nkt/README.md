@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-190-00-00
 | 2014-03-15 | 2013. évi CXXIX. törvény | 2011-190-00-00.18 |
 | 2014-07-24 | 2014. évi XXXVI. törvény | 2011-190-00-00.19 |
 | 2014-09-01 | 2013. évi CCXLV. törvény | 2011-190-00-00.20 |
+| 2014-10-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-190-00-00.21 |
