@@ -2,7 +2,7 @@
 
 89. § A képviselő a házelnöknek köteles bejelenteni minden, összeférhetetlenség alá nem eső
 
-a) polgármesteri megbízatását és polgármesteri megbízatása megszűnését,
+a)
 
 b) önálló vállalkozását, gazdasági társaságban, szövetkezetben fennálló részesedését (tagsági viszonyát), az e szervezetekben betöltött vezető tisztségviselői megbízatását, felügyelő bizottsági tagságát, továbbá bizalmi vagyonkezelési jogviszony alapján fennálló vagyonrendelői, vagyonkezelői illetve kedvezményezetti jogállását,
 
