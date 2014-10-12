@@ -1308,7 +1308,7 @@
 
 ## Szemere
 
-## 4.4. Gönci Járási Hivatal
+## 4.4.[^18] Gönci Járási Hivatal
 
 ## Székhely: Gönc
 
@@ -1333,8 +1333,6 @@
 ## Fony
 
 ## Gibárt
-
-## Golop
 
 ## Gönc
 
@@ -1363,8 +1361,6 @@
 ## Regéc
 
 ## Sima
-
-## Tállya
 
 ## Telkibánya
 
@@ -1752,13 +1748,15 @@
 
 ## Vilyvitány
 
-## 4.13. Szerencsi Járási Hivatal
+## 4.13.[^19] Szerencsi Járási Hivatal
 
 ## Székhely: Szerencs
 
 ## Alsódobsza
 
 ## Bekecs
+
+## Golop
 
 ## Legyesbénye
 
@@ -1781,6 +1779,8 @@
 ## Taktakenéz
 
 ## Taktaszada
+
+## Tállya
 
 ## Tiszalúc
 
@@ -4022,7 +4022,7 @@
 
 ## Ócsa
 
-## 13.9. Monori Járási Hivatal
+## 13.9.[^20] Monori Járási Hivatal
 
 ## Székhely: Monor
 
@@ -4042,13 +4042,15 @@
 
 ## Nyáregyháza
 
+## Pánd
+
 ## Péteri
 
 ## Pilis
 
 ## Vasad
 
-## 13.10. Nagykátai Járási Hivatal
+## 13.10.[^21] Nagykátai Járási Hivatal
 
 ## Székhely: Nagykáta
 
@@ -4059,8 +4061,6 @@
 ## Mende
 
 ## Nagykáta
-
-## Pánd
 
 ## Sülysáp
 
@@ -4706,7 +4706,7 @@
 
 ## Tarany
 
-## 14.7.[^18] Siófoki Járási Hivatal
+## 14.7.[^22] Siófoki Járási Hivatal
 
 ## Székhely: Siófok
 
@@ -6056,7 +6056,7 @@
 
 ## Városlőd
 
-## 18.2.[^19] Balatonalmádi Járási Hivatal
+## 18.2.[^23] Balatonalmádi Járási Hivatal
 
 ## Székhely: Balatonalmádi
 
@@ -7044,8 +7044,12 @@
 
 ## Zalavég
 
-2. melléklet a 218/2012. (VIII. 13.) Korm. rendelethez[^20]
+2. melléklet a 218/2012. (VIII. 13.) Korm. rendelethez[^24]
 
-[^18]: Az 1. melléklet 14.7. pontja a 391/2012. (XII. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^19]: Az 1. melléklet 18.2. pontja a 391/2012. (XII. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^20]: A 2. mellékletet a 221/2014. (IX. 4.) Korm. rendelet 687. §-a hatályon kívül helyezte.
+[^18]: Az 1. melléklet 4.4. pontja a 147/2014. (V. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^19]: Az 1. melléklet 4.13. pontja a 147/2014. (V. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^20]: Az 1. melléklet 13.9. pontja a 147/2014. (V. 5.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^21]: Az 1. melléklet 13.10. pontja a 147/2014. (V. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^22]: Az 1. melléklet 14.7. pontja a 391/2012. (XII. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^23]: Az 1. melléklet 18.2. pontja a 391/2012. (XII. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^24]: A 2. mellékletet a 221/2014. (IX. 4.) Korm. rendelet 687. §-a hatályon kívül helyezte.
