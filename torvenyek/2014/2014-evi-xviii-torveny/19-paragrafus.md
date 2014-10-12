@@ -2,6 +2,6 @@
 
 a)–b)
 
-c)
+c) 146. § (8) bekezdésében a „80. § (4) bekezdése, a ”
 
 szövegrész.
