@@ -1,1 +1,0 @@
-21. § A képviselő-testület a polgármesternek, bármely települési képviselőnek a javaslatára a települési képviselők közül tanácsnokokat választhat. A tanácsnok felügyeli a képviselő-testület által meghatározott önkormányzati feladatkörök ellátását.

@@ -1,3 +1,0 @@
-## Intézményi társulás
-
-43. §

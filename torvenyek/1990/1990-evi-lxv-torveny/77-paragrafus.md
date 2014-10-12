@@ -1,5 +1,0 @@
-## IX. Fejezet
-
-## AZ ÖNKORMÁNYZATOK GAZDASÁGI ALAPJAI
-
-77. §

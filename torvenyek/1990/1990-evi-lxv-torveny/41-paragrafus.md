@@ -1,5 +1,0 @@
-## III. Fejezet
-
-## A TELEPÜLÉSI ÖNKORMÁNYZATOK TÁRSULÁSAI
-
-41. §
