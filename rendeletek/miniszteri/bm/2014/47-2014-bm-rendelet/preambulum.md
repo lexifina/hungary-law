@@ -1,0 +1,5 @@
+A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (10) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 31. pontjában foglalt feladatkörömben eljárva, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 8. pontjában meghatározott feladatkörében eljáró földművelésügyi miniszterrel egyetértésben,
+
+a 2. alcím tekintetében a Rendőrségről szóló 1994. évi XXXIV. törvény 101. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 22. pontjában meghatározott feladatkörömben eljárva,
+
+a 3. és 4. alcím tekintetében a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 81. § d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 10. pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
