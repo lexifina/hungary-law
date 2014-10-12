@@ -26,7 +26,7 @@ d) az öngondoskodás és a közösségi feladatok ellátásához való hozzáj�
 
 e)
 
-f)
+f) az önkormányzati képviselőnek, a bizottsági elnöknek és tagnak, továbbá a tanácsnoknak járó tiszteletdíjat és természetbeni juttatást;
 
 g) a nagyobb gazdasági teljesítőképességű, lakosságszámú települési önkormányzat számára előírt kötelező feladat- és hatáskör vállalását;
 

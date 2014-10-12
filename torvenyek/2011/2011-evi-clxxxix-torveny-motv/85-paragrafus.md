@@ -2,6 +2,8 @@
 
 (2) A közös önkormányzati hivatalhoz tartozó települések összlakosságszáma legalább kétezer fő, vagy a közös hivatalhoz tartozó települések száma legalább hét.
 
+(2a) Ha a kialakítandó közös önkormányzati hivatalhoz tartozó települések közül valamelyik város, a (2) bekezdésben meghatározott összlakosságszámra vonatkozó követelményt nem kell alkalmazni.
+
 (3) Közös önkormányzati hivatal létrehozásáról vagy megszüntetéséről az érintett települési önkormányzatok képviselő-testületei az általános önkormányzati választások napját követő hatvan napon belül állapodnak meg. A megállapodás az általános önkormányzati választásokat követő év január 1-jén lép hatályba.
 
 (3a) Amennyiben a (3) bekezdésben meghatározott határidőn belül nem kerül sor a közös önkormányzati hivatal létrehozására vagy ahhoz valamely település nem tud csatlakozni, akkor a kormányhivatal vezetője a határidő lejártát követő hónap első napjával kijelöli a közös önkormányzati hivatalhoz tartozó településeket. A kijelölést követő harminc napon belül kell megkötni a közös önkormányzati hivatalról szóló megállapodást. A kijelölés esetén is teljesülnie kell az (1)–(2a) bekezdésben meghatározott feltételeknek.
