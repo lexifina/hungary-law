@@ -1,7 +1,5 @@
-19. § Hatályát veszti az Ogytv.
+19. §
 
 a)–b)
 
-c) 146. § (8) bekezdésében a „80. § (4) bekezdése, a ”
-
-szövegrész.
+c)
