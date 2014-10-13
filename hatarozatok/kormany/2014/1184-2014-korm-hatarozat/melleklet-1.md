@@ -1,4 +1,4 @@
-## 1. megállapítja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének 2. prioritását az 1. melléklet szerint,
+## 1.[^2]
 
 ## 2. jóváhagyja a 2. melléklet szerint
 
@@ -14,8 +14,10 @@
 
 ## Határidő: azonnal
 
-## 4.[^1]
+## 4.[^3]
 
-1. melléklet az 1184/2014. (III. 27.) Korm. határozathoz
+1. melléklet az 1184/2014. (III. 27.) Korm. határozathoz[^4]
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pontot az 1578/2014. (X. 13.) Korm. határozat 3. pont c) pontja visszavonta.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. mellékletet az 1578/2014. (X. 13.) Korm. határozat 3. pont c) pontja visszavonta.
