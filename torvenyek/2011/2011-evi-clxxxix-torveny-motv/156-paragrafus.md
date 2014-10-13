@@ -10,4 +10,4 @@ b)
 
 c)
 
-(3) Hatályát veszti az Ötv.
+(3)
