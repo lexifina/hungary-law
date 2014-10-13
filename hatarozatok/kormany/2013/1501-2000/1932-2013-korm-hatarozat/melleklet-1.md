@@ -1,22 +1,8 @@
-## 1.[^1]
+## 1.[^2]
 
-## 2. felhívja a Miniszterelnökséget vezető államtitkárt, hogy gondoskodjon a KEOP-2.4.0/2F/09-11-2013-0001 azonosító számú, „Vörösiszap szennyezés kármentesítése” című nagyprojektnek az Európai Bizottság felé történő elszámolásáról,
+## 2.[^3]
 
-## Felelős: Miniszterelnökséget vezető államtitkár
-
-## Határidő: 2013. december 15.
-
-## 3. felhívja a nemzeti fejlesztési minisztert, hogy a 2014. év során az érintett szervek bevonásával a 2. pontban megjelölt nagyprojektet és annak benyújtását készítse elő,
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Miniszterelnökséget vezető államtitkár
-
-## vidékfejlesztési miniszter
-
-## belügyminiszter
-
-## Határidő: 2014. május 31.
+## 3.[^4]
 
 ## 4. jóváhagyja a 2. melléklet szerint
 
@@ -32,10 +18,12 @@
 
 ## Határidő: azonnal
 
-## 6.[^2]
+## 6.[^5]
 
-1. melléklet az 1932/2013. (XII. 12.) Korm. határozathoz[^3]
+1. melléklet az 1932/2013. (XII. 12.) Korm. határozathoz[^6]
 
-[^1]: Az 1. pontot az 1184/2014. (III. 27.) Korm. határozat 4. pontja visszavonta.
-[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. mellékletet az 1184/2014. (III. 27.) Korm. határozat 4. pontja visszavonta.
+[^2]: Az 1. pontot az 1184/2014. (III. 27.) Korm. határozat 4. pontja visszavonta.
+[^3]: A 2. pontot az 1578/2014. (X. 13. ) Korm. határozat 3. pont a) pontja visszavonta.
+[^4]: A 3. pontot az 1578/2014. (X. 13. ) Korm. határozat 3. pont a) pontja visszavonta.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. mellékletet az 1184/2014. (III. 27.) Korm. határozat 4. pontja visszavonta.
