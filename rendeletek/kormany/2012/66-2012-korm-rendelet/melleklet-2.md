@@ -956,6 +956,12 @@
 
 | 68. |  | N,N-diethyl-2-(1-pentyl-1H-indol-3-yl)–4-thiazol-methanamine |
 
+| 69. | 5F-AMP, 5F-AMB, 5-fluoro AMB, 5-fluoro AMP | Methyl 2-({[1-(5-fluoropentyl)-1H-indazol-3-yl]carbonyl}amino)-3-methylbutanoate |
+
+| 70. | MXP, methoxyphenidine, 2-MeO-diphenidine | 1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine |
+
+| 71. | 3F-phenmetrazine, meta-fluoro-phenmetrazine, meta-F-phenmetrazine | 2-(3-fluorophenyl)-3-methylmorpholine |
+
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek;
 
 ## – az ebben a jegyzékben felsorolt anyagok sói, beleértve a fent említett sztereoizomerek sóit, amennyiben ilyen sók léteznek.
