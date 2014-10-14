@@ -6,15 +6,7 @@
 
 ## Határidő: azonnal
 
-## 3. visszavonja
-
-## a) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról és egyes projektek támogatásának növeléséről szóló 1932/2013. (XII. 12.) Korm. határozat 2. és 3. pontját,
-
-## b) a KEOP-2.4.0/2F/09-11-2013-0001 azonosító számú („Vörösiszap szennyezés kármentesítése” című) nagyprojekt támogatásának jóváhagyásáról szóló 1958/2013. (XII. 17.) Korm. határozatot,
-
-## c) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról és egyes projektek többletforrás igényének jóváhagyásáról szóló 1184/2014. (III. 27.) Korm. határozat 1. pontját és 1. mellékletét, és
-
-## d) a KEOP-2.4.0/2F/09-11-2013-0001 azonosító számú („Vörösiszap szennyezés kármentesítése” című) nagyprojekt megvalósításának elősegítéséről szóló 1191/2014. (III. 28.) Korm. határozatot.
+## 3.[^2]
 
 1. melléklet az 1578/2014. (X. 13.) Korm. határozathoz
 
@@ -89,3 +81,5 @@
 | * Az Európai Pénzügyi Stabilitási Mechanizmus keretében a támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra. |
 
 | A 2.1.1, 2.1.2., 2.2.2, 2.2.2/B, 2.2.3, 2.3.0, 2.3.0/B, 2.4.0, 2.4.0/B és 2.5.0/B konstrukciókon összesen 27,33 Mrd Ft túlvállalást tartalmaz. |  |
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
