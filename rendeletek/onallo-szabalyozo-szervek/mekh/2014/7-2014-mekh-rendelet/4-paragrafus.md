@@ -19,3 +19,7 @@ b) a csatlakozást igénylő és a hálózati engedélyes közötti megállapod�
 (6) A befizetett csatlakozási díjak összegét a hálózati engedélyes külön tartja nyilván, és azt kizárólag hálózatfejlesztésre, illetve az 5. § (2) bekezdésében és a 14. § (6) és (7) bekezdéseiben foglaltak szerinti visszafizetésekre használhatja fel.
 
 (7) A VET 9. § (1) bekezdésében foglaltak végrehajtása érdekében az elosztók minden naptári év utolsó hónapjában honlapjukon tájékoztatást nyújtanak a működési területükön megvalósítható csatlakozási lehetőségekről. A tájékoztatás tartalmára, a jelentkezési eljárásra és a csatlakozási igények kielégítésére vonatkozó részletszabályokat az elosztói szabályzat tartalmazza.
+
+(8)[^2] A rendelet szerinti díjak az általános forgalmi adót nem tartalmazzák.
+
+[^2]: A 4. § (8) bekezdését a 9/2014. (IX. 29.) MEKH rendelet 22. § (1) bekezdése iktatta be.

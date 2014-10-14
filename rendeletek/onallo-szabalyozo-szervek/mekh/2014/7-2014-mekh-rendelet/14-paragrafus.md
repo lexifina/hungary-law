@@ -18,7 +18,7 @@ bb) a VET 178/J. § alapján kötelezően földkábellel létesítendő közcél
 
 bc) a bb) alpont alá nem tartozó, földkábellel létesítendő közcélú vezeték esetén 9600 Ft/m.
 
-(2) Ha a csatlakozást igénylő felhasználó igényének kielégítése érdekében
+(2)[^3] Ha a csatlakozást igénylő felhasználó igényének kielégítése érdekében
 
 a) kisfeszültségű közcélú elosztó hálózat kiépítése szükséges, akkor felhasználási helyenként legfeljebb 1 csatlakozási pontra felhasználónként,
 
@@ -34,7 +34,11 @@ ba) szabadvezeték esetén legfeljebb 250 méter,
 
 bb) földkábel esetén legfeljebb 125 méter
 
-## hosszúságú közcélú vezetéket, valamint a szükséges nagy/középfeszültségű és közép/középfeszültségű transzformátorállomás(oka)t az elosztó külön díjfizetés nélkül létesíti, valamint a már rendelkezésre álló hálózat kapacitását a szükséges mértékben megnöveli.
+hosszúságú közcélú vezetéket, valamint a szükséges nagy/középfeszültségű és közép/középfeszültségű
+
+transzformátorállomás(oka)t
+
+az elosztó külön díjfizetés nélkül létesíti, valamint a már rendelkezésre álló hálózat kapacitását a szükséges mértékben megnöveli.
 
 (3) A kiindulási ponttól mért teljes vezetékhosszokon, valamint a közcélú vezeték díjának megállapítása szempontjából számításba vehető, a (2) bekezdésben meghatározottakon felüli vezetékhosszokon kisfeszültségű csatlakozás esetén a leágazási pontig, középfeszültségű csatlakozás esetén a csatlakozási pontig megvalósítandó nyomvonal vízszintes vetületi hossza értendő.
 
@@ -45,3 +49,5 @@ bb) földkábel esetén legfeljebb 125 méter
 (6) A hálózati engedélyes az (5) bekezdés szerint újonnan csatlakozó felhasználótól beszedett közcélú vezeték díjat – eltérő megállapodás hiányában – egyenlő arányban visszatéríti az adott közcélú vezeték létesítése kapcsán, illetve a létesítést követően csatlakozási díjat fizető felhasználók részére.
 
 (7) Ha a hálózati engedélyes saját kockázatára a már ismert felhasználók igényét meghaladó hosszúságú közcélú vezetéket létesít, akkor az erre a vezetékszakaszra később csatlakozó felhasználóktól a közcélú vezeték díját az (1)–(3) bekezdések e vezetékszakaszra történő alkalmazásával kérheti a létesítés évétől számított 5 évig.
+
+[^3]: A 14. § (2) bekezdését a 9/2014. (IX. 29.) MEKH rendelet 22. § (2) bekezdésével megállapított szöveg.
