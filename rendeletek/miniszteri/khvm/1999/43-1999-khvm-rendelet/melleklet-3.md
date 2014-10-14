@@ -38,35 +38,37 @@
 
 3. számú melléklet a 43/1999. (XII. 26.) KHVM rendelethez[^22]
 
+A vízügyi hatóságok által kezelt számlák
+
 |  | A | B | C |
 
-| Sor- szám | Eljáró hatóság | Számla megnevezése | Számlaszámok |
+| 1 | Eljáró hatóság | Számla megnevezése | Számlaszámok |
 
-| 1. | Észak-dunántúli Vízügyi Hatóság | Észak-dunántúli Vízügyi Igazgatóság központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10033001-01712027-30006016 |
+| 2 | Baranya Megyei Katasztrófavédelmi Igazgatóság | Központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10024003-00283559-30006009 |
 
-| 2. | Közép-Duna-völgyi Vízügyi Hatóság | Közép-Duna-völgyi Vízügyi Igazgatóság központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10032000-01712010-30006016 |
+| 3 | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság | Központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10025004-00283566-30006009 |
 
-| 3. | Alsó-Duna-völgyi Vízügyi Hatóság | Alsó-Duna-völgyi Vízügyi Igazgatóság központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10025004-01712120-30006016 |
+| 4 | Békés Megyei Katasztrófavédelmi Igazgatóság | Központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10026005-00283573-30006009 |
 
-| 4. | Közép-dunántúli Vízügyi Hatóság | Közép-dunántúli Vízügyi Igazgatóság központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10029008-01712041-30006016 |
+| 5 | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | Központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10027006-00283580-30006009 |
 
-| 5. | Dél-dunántúli Vízügyi Hatóság | Dél-dunántúli Vízügyi Igazgatóság központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10024003-01712058-30006016 |
+| 6 | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10028007-00283597-30006009 |
 
-| 6. | Nyugat-dunántúli Vízügyi Hatóság | Nyugat-dunántúli Vízügyi Igazgatóság központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10047004-01712034-30006016 |
+| 7 | Fejér Megyei Katasztrófavédelmi Igazgatóság | Központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10029008-00283607-30006009 |
 
-| 7. | Felső-Tisza-vidéki Vízügyi Hatóság | Felső-Tisza-vidéki Vízügyi Igazgatóság központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10044001-01712065-30006016 |
+| 8 | Fővárosi Katasztrófavédelmi Igazgatóság | Központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10023002-00319566-30006009 |
 
-| 8. | Észak-magyarországi Vízügyi Hatóság | Észak-magyarországi Vízügyi Igazgatóság központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10027006-01712072-30006016 |
+| 9 | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | Központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10033001-00283614-30006009 |
 
-| 9. | Tiszántúli Vízügyi Hatóság | Tiszántúli Vízügyi Igazgatóság központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10034002-01712089-30006016 |
+| 10 | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10034002-00283621-30006009 |
 
-| 10. | Közép-Tisza-vidéki Vízügyi Hatóság | Közép-Tisza-vidéki Vízügyi Igazgatóság központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10045002-01712096-30006016 |
+| 11 | Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság | Központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10045002-00283683-30006009 |
 
-| 11. | Alsó-Tisza-vidéki Vízügyi Hatóság | Alsó-Tisza-vidéki Vízügyi Igazgatóság központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10028007-01712106-30006016 |
+| 12 | Szabolcs-Szatmár-Bereg Megyei Katasztrófavédelmi Igazgatóság | Központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10044001-00283676-30006009 |
 
-| 12. | Körös-vidéki Vízügyi Hatóság | Körös-vidéki Vízügyi Igazgatóság központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10026005-01712113-30006009 |
+| 13 | Vas Megyei Katasztrófavédelmi Igazgatóság | Központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10047004-00283700-30006009 |
 
-| 13. | Országos Vízügyi Hatóság | Országos Vízügyi Főigazgatóság központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10032000-00319841-30006009 |
+| 14 | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | Központosított bevételek beszedése célelszámolási számla – Vízkészletjárulék | 10023002-00283494-30006023 |
 
 [^21]: A 2. számú melléklet a) pontja a 136/2013. (XII. 31.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^22]: A 3. számú melléklet a 36/2014. (IV. 29.) BM rendelet 3. §-ával megállapított szöveg.
+[^22]: A 3. számú melléklet a 48/2014. (X. 13.) BM rendelet 1. §-ával megállapított szöveg.
