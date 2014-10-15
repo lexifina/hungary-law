@@ -1,0 +1,1 @@
+9. § A fogyasztói kölcsönszerződésekből eredő követelés elévülésének a 2014. évi XXXVIII. törvény 1. § (7) bekezdése szerinti nyugvása az e törvény szerinti elszámolásnak a fogyasztóval való közlése napjáig, de legkésőbb 2015. december 31-ig tart.

@@ -1,0 +1,7 @@
+## 6. Az elszámolás eltérő szabályai a végtörlesztett fogyasztói kölcsönszerződés esetén
+
+10. § (1) Ha a fogyasztói kölcsönszerződés teljesítésére irányuló kötelezettség a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 200/B. §-ában foglaltak szerinti végtörlesztés következtében szűnt meg, a pénzügyi intézménynek a fogyasztóval, a fogyasztónak a (3) bekezdés szerint bejelentett kérésére – az 5. § (5) és (6) bekezdésére is figyelemmel – el kell számolnia.
+
+(2) Az (1) bekezdés szerinti elszámolás eredménye a fogyasztó részéről nem keletkeztet fizetési kötelezettséget.
+
+(3) A fogyasztó 2015. március 1. napja és március 31. napja között kérheti a pénzügyi intézményt, hogy a részére készítsen elszámolást. A fogyasztó az elszámolást 10 000 forintos díj ellenében kérheti. Ha az elszámolás eredményeként az állapítható meg, hogy a fogyasztó javára a pénzügyi intézménynek fizetési kötelezettsége áll fenn, a pénzügyi intézménynek a 10 000 forintos díjat a fogyasztó részére vissza kell térítenie. Ha a fogyasztó a végtörlesztés érdekében forint alapú fogyasztói kölcsönszerződést kötött, nem kell megfizetnie a 10 000 forintos díjat, feltéve hogy a forint alapú fogyasztói kölcsönszerződést az elszámolásra köteles pénzügyi intézménnyel vagy más pénzügyi intézménnyel kötötte, és a fogyasztó igazolja, hogy a forint alapú fogyasztói kölcsönszerződés megkötésére a végtörlesztés érdekében került sor.
