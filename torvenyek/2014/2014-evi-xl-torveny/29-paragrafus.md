@@ -1,1 +1,0 @@
-29. § A Pénzügyi Békéltető Testület előtti eljárásban és a 23. § (1) bekezdése alapján lefolytatott nemperes eljárásban hozott jogerős, az elszámolás tárgyában született határozat más polgári eljárásban nem vitatható.

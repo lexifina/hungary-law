@@ -1,3 +1,0 @@
-27. § (1) A polgári nemperes eljárás lefolytatására a fogyasztó lakóhelye szerint illetékes törvényszék székhelyén működő járásbíróság illetékes. Belföldi lakóhely hiányában az illetékességet a fogyasztó tartózkodási helye alapozza meg; ha a fogyasztó tartózkodási helye ismeretlen vagy külföldön van, az utolsó belföldi lakóhely irányadó, ha pedig ez nem állapítható meg vagy a fogyasztónak belföldön lakóhelye nem is volt, az illetékességet a pénzügyi intézmény székhelye alapítja meg.
-
-(2) A kérelmet a Pénzügyi Békéltető Testülethez kell benyújtani. A Pénzügyi Békéltető Testület a kérelmet az ügy irataival együtt, a kérelem beérkezésétől számított 8 napon belül a bírósághoz továbbítja.

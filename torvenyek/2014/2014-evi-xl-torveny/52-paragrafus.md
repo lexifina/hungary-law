@@ -1,7 +1,3 @@
-## „16. § (1) A 2/A. § (1) bekezdése alapján az elszámolás napját megelőzően a magyar állam által megtérített mentesített követelésrész összegét nem érinti a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló törvény szerinti elszámolás.
-
-## (2) A 13/A. §-ban meghatározott támogatás összegét nem érinti a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló törvény szerinti elszámolás.”
-
 52. § (1) A 2014. évi XXXVIII. törvény 1. §-a a következő (1a) bekezdéssel egészül ki:
 
 ## „(1a) E törvény alkalmazásában fogyasztói kölcsönszerződésnek minősül – az (1) bekezdésben foglaltakon túl – a pénzügyi intézmény és a fogyasztó között létrejött deviza alapúnak nem minősülő deviza hitel- vagy kölcsönszerződés, pénzügyi lízingszerződés, ha azt az (1) bekezdésben meghatározott időpontok között kötötték, és annak részévé a 4. § (1) bekezdése szerinti kikötést is tartalmazó általános szerződési feltétel vagy egyedileg meg nem tárgyalt szerződési feltétel vált.”
@@ -127,11 +123,3 @@
 (24) A 2014. évi XXXVIII. törvény 5. § (2) bekezdésében a „Felügyelet részére valamennyi” szövegrész helyébe a „felügyeleti és fogyasztóvédelmi jogkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) részére valamennyi” szöveg lép.
 
 (25) Hatályát veszti a 2014. évi XXXVIII. törvény 3. § (4) és (6) bekezdése.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

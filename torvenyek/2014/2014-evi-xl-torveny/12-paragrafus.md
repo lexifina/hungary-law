@@ -1,5 +1,3 @@
 ## 8. Az elszámolás eltérő szabályai az árfolyamgáttal érintett fogyasztói kölcsönszerződés esetén
 
-12. § (1) A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvény alapján rögzített árfolyam alkalmazásának időszakától kezdődően a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés esetében az 5. § (3) bekezdését úgy kell alkalmazni, hogy a fogyasztói követelést – az esedékessé vált és lejárt tartozások elszámolását követően – elsősorban a gyűjtőszámlahitel terhére és annak fennmaradó részét azon devizakölcsön terhére kell elszámolni, amelyhez a gyűjtőszámlahitel kapcsolódik. A devizában meghatározott fogyasztói követelésnek azt a részét, amely a gyűjtőszámlahitel terhére került elszámolásra, az MNB rendeletében meghatározott időpont szerint érvényes, Magyar Nemzeti Bank által közzétett hivatalos árfolyamon kell forintra átszámítani.
-
-(2) A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvény alapján az állam által megtérített mentesített követelésrész 50%-ával megegyező összeg az 5. § (6) bekezdés alkalmazásában kedvezménynek minősül.
+### 12. §

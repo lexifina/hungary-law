@@ -1,1 +1,0 @@
-24. § A nemperes eljárásra – ha a 25–29. § másként nem rendelkezik – a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) szabályait a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel kell megfelelően alkalmazni.
