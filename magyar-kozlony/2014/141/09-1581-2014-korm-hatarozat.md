@@ -1,0 +1,128 @@
+# A Kormány 1581/2014. (X. 15.) Korm. határozata
+
+Magyar Közlöny 2014. évi 141. szám, 2014. október 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/9e8168705dbcf6af2f6bd2b209cddcc6caf6b69c/dokumentumok/3643379fef285cef7924995394f8d4712244e597/letoltes)
+
+---
+
+A Kormány 1581/2014. (X. 15.) Korm. határozata
+a Nemzetközi Távközlési Egyesület 2014. évi dél-koreai Meghatalmazottak Értekezletén való részvételről
+A Kormány a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 20. § (1) bekezdés f) pontja,
+valamint a nemzeti fejlesztési miniszter előterjesztése alapján
+1. egyetért azzal, hogy a Nemzetközi Távközlési Egyesület 2014. október 20. és 2014. november 7. között Dél-Koreában
+tartandó Meghatalmazottak Értekezletén (a továbbiakban: Meghatalmazottak Értekezlete) Magyarország
+Kormányát képviselő küldöttség vegyen részt;
+2. felhatalmazza az elektronikus hírközlésért felelős minisztert, hogy a küldöttség tagjait a külpolitikáért felelős
+miniszterrel egyetértésben jelölje ki;
+3. felhívja a külpolitikáért felelős minisztert, hogy a küldöttség részére a részvételhez szükséges meghatalmazási
+okiratot a Meghatalmazottak Értekezlete előtt adja ki;
+4. felhatalmazza az elektronikus hírközlésért felelős minisztert vagy az általa kijelölt személyt, hogy
+a Meghatalmazottak Értekezletének záró okiratát kézjegyével lássa el;
+5. jóváhagyja az 1. mellékletben meghatározott tárgyalási álláspontokat és ennek tekintetében felhatalmazza
+a magyar küldöttséget Magyarország érdekeinek képviseletére.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1581/2014. (X. 15.) Korm. határozathoz
+Tárgyalási álláspontok a Nemzetközi Távközlési Egyesület 2014. évi dél-koreai Meghatalmazottak
+Értekezletén részt vevő magyar küldöttség tevékenységéhez
+A Nemzetközi Távközlési Egyesület (International Telecommunication Union, a továbbiakban: ITU) 2014. évi
+dél-koreai Meghatalmazottak Értekezletén a magyar küldöttség az alábbi tárgyalási álláspontokban javasoltak
+lehetőség szerinti támogatásával, összhangban a Kormány általános politikájának céljaival és feladataival,
+valamint az Európai Unió prioritásaival, a magyar nemzeti érdekeket és a közös euro-atlanti értékeket egyidejűleg
+érvényesítve igyekszik tevékenységét kifejteni.
+1. Internet protokollra épülő hálózatok
+Javasolt a fejlődő országokban az infrastruktúra kiépülése és az Internet elterjedése vonatkozásában készülő
+tanulmányok folytatása és azoknak az újgenerációs hálózatra, a mobil hálózatokra, a számítási felhőre vonatkozó
+kiterjesztése, valamint javasolt a globális kereskedelemhez vagy a kommunikációhoz hasonlatos más, az Internet
+alapú hálózatokhoz kötődő globális tevékenységeknek, a tartalomhoz kapcsolódó Internet ügyek körének
+az azonosítása az ITU önálló felelősségi körében és koordinátori szerepkörében, továbbá javasolt ITU ajánlásokkal,
+vagy más nemzetközi sztenderdekkel az IP alapú szolgáltatások konzisztenciájára törekedni.
+2. Az ITU feladata az Internetre és az Internet erőforrások (beleértve a domain neveket és címeket) kezelésére
+vonatkozó nemzetközi közpolitikai kérdésekben
+Javasolt az ITU koordinációs szerepének hangsúlyozása, ennek keretében az érintett nemzetközi és regionális szervezetek
+(ICANN, RIRs, IETF, ISOC,W3C), illetve az iparági szereplők egyenlő félként történő folyamatba bevonása és az együttműködés
+erősítése, mivel várhatóan az eddigi egyszereplős Internet irányítást fel fogja váltani egy többszereplős modell.
+3. A tagállamok adminisztrációinak szerepe a nemzetközivé tett domain nevekkel történő gazdálkodásban
+Javasolt a kormányoknak és az érintetteknek partnerként együttműködniük a domain nevekben a nem latin
+karakterek megjelenésére és alkalmazására vonatkozóan annak érdekében, hogy bevezethessék a nemzetközi
+domain neveket, hogy a soknyelvűség valóban teret nyerhessen az Interneten.
+
+4. Az ITU szerepe az információs társadalomról szóló világcsúcstalálkozó (World Summit on the Information Society,
+a továbbiakban: WSIS) eredményeinek átvételében
+Az ITU részéről javasolt továbbra is a vezető szerep betöltése a WSIS eredményeinek átvételében az UNESCO-val,
+illetve az ENSZ Fejlesztési Programjával (United Nations Development Programme, UNDP) egyetemben.
+5. Az akadémiák, egyetemek és a hozzájuk kapcsolódó kutató egységek részvétele az ITU mindhárom szektorának
+munkájában
+Javasolt az akadémiáknak az ITU Társult Tagjainak (ún. Associates) sorába történő felvétele, biztosítva számukra
+az azzal járó minden jogot és kötelezettséget.
+Az ITU munkájában történő részvétel fizetési kötelezettséggel párosul, javasolt a fejlett országok akadémiáit és
+egyetemeit az 1/16 rész erejéig, a fejlődő és kevésbé fejlett országok azonos intézményeit 1/32 rész erejéig terhelni.
+6. Az ITU programok és projektek szabályairól
+Javasolt az évenkénti felülvizsgálatot követően a Meghatalmazottak Értekezlete nevében eljáró Tanács
+(a továbbiakban: Tanács) döntése abból a szempontból, hogy az egyes programok és projektek a fenntarthatóság,
+az átláthatóság, a kiszámíthatóság és a felelősségvállalás kritériumainak megfelelnek, és egyben további státuszuk
+meghatározása is szükséges.
+7. A műholdas zavarok felderítésének, rendezésének és megelőzésének fejlesztési irányai
+Javasolt határozat elfogadása, amellyel növelni lehetne a műholdas rendszereket érintő káros interferencia
+felderítését, rendezését és megelőzését a világűrben végzett tevékenységek tekintetében, ezáltal hatásosabban
+alkalmazva a jelenleg is rendelkezésre álló szabályozást és elősegítve annak végrehajtását az ITU fokozott
+közreműködésével és aktivitásával abban a tekintetben, hogy megállapodások köttessenek azokkal az országokkal,
+amelyek rendelkeznek monitoring rendszerekkel, valamint javasolt, hogy az ITU tartsa karban a káros interferencia
+adatbázist, és alakítson ki hatásosabb gyakorlatot a detektálásra és a védelemre.
+8. A Rádiószabályozási Testület (Radio Regulation Board, a továbbiakban: RRB) hatékonyságának növelése
+Javasolt az RRB működésének átalakítása az elmúlt években a hozzá küldött viták számának növekedése miatt
+az alábbi pontok szerint:
+1. Vita esetén lehetőség szerint az adminisztrációk közvetlenül az RRB-nek fejthessék ki észrevételeiket és
+válaszolhassanak az RRB kérdéseire szóban.
+2. Célszerűnek tűnik azon feltételeknek a tisztázása, amelyek teljesülése esetén az RRB-nek újra kellene
+gondolnia a korábbi döntését.
+3. Javasolt az összeférhetetlenség kérdésének tisztázása. A kezdeményezés arra irányul, hogy ne vehessen
+részt RRB tag olyan vitában, amelyben akár a nemzetiségét, akár üzleti érdekeit tekintve érintett. Erről
+nyilatkozatot kell tennie.
+9. Gyermekek online védelme
+Javasolt a témával kapcsolatos legjobb gyakorlat megosztása és elterjesztése, a gyermekek védelmének
+nemzetközi, regionális és nemzeti vetületének szem előtt tartása, fogyasztóvédelmi figyelemfelhívó kampányok
+szervezése, a szülők, tanárok, az ipari szereplők és a teljes lakosság bevonása és tájékoztatása, a téma szerint érintett
+ITU Tanácsi munkacsoport munkájában minden érintett aktív részvétele.
+10. Klímaváltozás és környezetvédelem
+Javasolt a klímaváltozás és a környezetvédelem tekintetében a Guadalajarai Meghatalmazottak Értekezlete
+182. számú Határozatának felülvizsgálata kiemelten az informatikai és kommunikációs (a továbbiakban: IKT)
+szektorra vonatkozó alábbi területeken:
+1. a káros üvegházhatású gázok kibocsátásának csökkentése,
+2. az előállított termékek fogyasztásának mérséklése,
+3. a termékek előállítása során a környezetre káros anyagok felhasználásának csökkentése,
+4. az újrafelhasználás, a felújítás, illetve az újrahasznosítás fokozottabb alkalmazásával az ipari termelési és
+ártalmatlanítási folyamatok specializálása az IKT termékek teljes életciklusára,
+5. további megfigyelési, észlelési és előrejelző tevékenység folytatása a Föld klímaváltozásával és lehetséges
+katasztrófáival kapcsolatban.
+
+11. Az ITU szerepe a bizalomépítés és a biztonság növelése területén az infokommunikációs technológiák használata
+során
+Javasolt megkönnyíteni a hozzáférést azokhoz az eszközökhöz és forrásokhoz minden tagország számára,
+amelyek segítségével növelni lehet a bizalmat az infokommunikációs technológiák használata során, javasolt
+beszámolni olyan országok közötti megállapodásokról vagy az együttműködés egyéb formáiról, amelyek erősítik
+a kiberbiztonságot és harcolnak a fenyegetettség ellen, valamint javasolt a kiberbűnözés visszaszorítása érdekében
+más releváns szervezetekkel együttműködve végzett munkát folytatni.
+12. Az ITU bevételei és kiadásai a 2015–2019 időszakban
+Javasolt a költségvetés vizsgálata során a bevétel optimalizálása és növelése oldaláról megközelítve felhívni
+a figyelmet olyan lehetőségekre, amelyekkel stabilizálni lehet a költségvetési egyensúlyt (pl. műszaki támogatás
+nyújtása más szervezetek számára, szabadalom létrehozása, majd hasznosítása azon innovatív termékek/
+szolgáltatások esetében, amelyeket az ITU tagjai hoznak létre, az ITU termékeinek a különböző rendezvényeken
+történő promotálása és értékesítése).
+13. Az ITU szerepének növelése az átláthatóságra és a bizalomépítésre vonatkozóan a világűrben végzett
+tevékenységek kapcsán
+Javasolt több konkrét javaslatot is magában foglaló, de a témát szélesebb körben értelmező határozat elfogadása
+a világűrben végzett tevékenységek kapcsán a műholdas zavarok felderítésének, rendezésének és megelőzésének
+fejlesztési irányairól szóló határozat alternatívájaként vagy akár azzal együttesen.
+14. A Tanácsi munkacsoportok felállítása és menedzselése
+Javasolt az eddigi gyakorlatnak megfelelően meghagyni a Tanács jogkörét munkacsoportok létrehozására és
+mandátumuk kijelölésére, illetve azok munkájának lezárására, azonban meg kell kísérelni azt, hogy minden tagállam
+és szektor tag részt vehessen bármelyik munkacsoport munkájában, illetve az Internet témájú munkacsoportok
+esetében minden érintett számára lehetővé válhasson a részvétel.
+15. Független Menedzsment Tanácsadó Bizottság (IMAC)
+Javasolt a Független Menedzsment Tanácsadó Bizottság (IMAC) számára a kísérleti időtartamot követően állandó
+mandátum adása azzal, hogy az IMAC 5 független szakértőből állna, akik 4 éves időtartamra kapnának mandátumot
+a Meghatalmazotti Értekezletet követő első Tanácsülésen.
+16. A dokumentumok hozzáférhetősége
+Javasolt részletes szabályozás kidolgozása a dokumentumok hozzáférhetőségéről és annak elfogadásra benyújtása
+a 2015. évi Tanácsülésre azt elősegítendő, hogy az ITU a saját honlapján tegye elérhetővé mindenki számára
+a dokumentumokat, kivéve azokat, amelyek nyilvánosságra hozatala köz- vagy magánérdeket sértene.
