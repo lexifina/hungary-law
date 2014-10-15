@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-29-20-2
 | --- | --- | --- |
 | 2014-09-26 | 2014-29-20-2X.1 | 29/2014. (IX. 25.) NGM rendelet |
 | 2014-09-27 | 2014-29-20-2X.2 | 2010: CXXX. törvény |
+| 2014-10-15 | 2014-29-20-2X.3 | 2010: CXXX. törvény |
