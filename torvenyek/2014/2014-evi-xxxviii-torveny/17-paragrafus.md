@@ -4,6 +4,8 @@
 
 (2) E § alkalmazásában kölcsönszerződés: pénzügyi intézmény és fogyasztó mint adós vagy adóstárs által kötött deviza vagy forint alapú hitel- vagy kölcsönszerződés, pénzügyi lízingszerződés.
 
+(2a) E § alkalmazásában – a (2) bekezdésben foglaltak mellett – kölcsönszerződés: pénzügyi intézmény és fogyasztó mint adós vagy adóstárs által kötött, deviza alapúnak nem minősülő deviza hitel- vagy kölcsönszerződés, pénzügyi lízingszerződés.
+
 (3) A kölcsönszerződésen alapuló követelések behajtása iránt folyamatban lévő (vagy a kölcsönszerződésből eredő követelés behajtása érdekében bekapcsolódással indult) végrehajtási eljárásokban – a (4), (7), (8) és (10) bekezdésben foglalt kivétellel – a külön törvényben meghatározott időpontig eljárási cselekmény, intézkedés nem foganatosítható, a felek és egyéb érdekeltek által tett nyilatkozatok is hatálytalanok; eddig az időpontig minden határidő megszakad, azt követően a határidő újra kezdődik. A végrehajtási ügyet a végrehajtónak szünetelő ügyként kell nyilvántartania, ha a végrehajtási ügyben eljárási cselekmény vagy intézkedés foganatosítására e törvény alapján nem kerül sor.
 
 (4) Ha a kölcsönszerződésbe foglalt követelés fedezeteként meghatározott vagyontárgyat (a továbbiakban e §-ban: fedezetként meghatározott vagyontárgy) e törvény hatálybalépését megelőzően
@@ -22,7 +24,7 @@ a) a kölcsönszerződésből eredő követelést biztosító zálogszerződésb
 
 b) az eljárás végrehajtást kérője, illetve adósa a kölcsönszerződésben vagy abból eredő követelést biztosító szerződésben részes fél jogutódja.
 
-(7) A végrehajtást kérő, illetve az adós kérheti annak megállapítását, hogy a kölcsönszerződésben nem szerepel a 3. § (1) bekezdése, illetve a 4. § (1) bekezdése szerinti szerződéses kikötés. A kérelmet a végrehajtónál kell benyújtani, aki azt – elbírálás végett – az ügy irataival együtt beterjeszti a végrehajtást foganatosító bírósághoz. A kérelmet legkésőbb e törvény hatálybalépésétől számított 120 napon belül kell benyújtani vagy ajánlott küldeményként postára adni. A kérelmet a végrehajtást foganatosító bíróság a végrehajtási kifogás elbírálásának szabályai szerint bírálja el.
+(7) A végrehajtást kérő, illetve az adós kérheti annak megállapítását, hogy a kölcsönszerződésben nem szerepel a 3. § (1) bekezdése, illetve a 4. § (1) bekezdése szerinti szerződéses kikötés. A kérelmet a végrehajtónál kell benyújtani, aki azt – elbírálás végett – az ügy irataival együtt beterjeszti a végrehajtást foganatosító bírósághoz. A kérelmet a végrehajtást foganatosító bíróság a végrehajtási kifogás elbírálásának szabályai szerint bírálja el.
 
 (8) Ha a végrehajtást foganatosító bíróság azt állapítja meg, hogy a kölcsönszerződésben nem szerepel a 3. § (1) bekezdés, illetve a 4. § (1) bekezdés szerinti szerződéses kikötés, akkor végzéssel határoz arról, hogy – a végzés jogerőre emelkedését követően – a (3)–(6) bekezdés nem alkalmazható és az eljárási cselekmények, intézkedések foganatosításának van helye; a megszakadt határidők a végzés jogerőre emelkedését követően kezdődnek újra.
 
@@ -38,4 +40,6 @@ az adós a végrehajtónál kérheti a (3) bekezdés alkalmazását.
 
 a) az adós megfizesse a követelés összegét vagy
 
-b) a követelés megszűnésének és csökkenésének bejelentésére, valamint a követelés megszűnésével és csökkenésével kapcsolatos eljárási cselekmények és intézkedések megtételére, foganatosítására kerüljön sor.
+b) a követelés megszűnésének és csökkenésének bejelentésére, valamint a követelés megszűnésével és csökkenésével kapcsolatos eljárási cselekmények és intézkedések megtételére, foganatosítására kerüljön sor,
+
+c) a kölcsönszerződések esetén a végrehajtás elrendelésére (a végrehajtási eljárásba bekapcsolódásra irányuló kérelem elbírálására) sor kerüljön és a végrehajtás elrendelése (a végrehajtási eljárásba bekapcsolódásra irányuló kérelem elbírálása) körébe tartozó eljárási cselekmények, nyilatkozatok megtehetőek legyenek.

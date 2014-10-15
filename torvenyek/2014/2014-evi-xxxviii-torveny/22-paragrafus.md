@@ -1,0 +1,7 @@
+22. § (1) Ha a 17. § (2) bekezdése szerinti kölcsönszerződések esetén a végrehajtás elrendelése (a végrehajtási eljárásba bekapcsolódásra irányuló kérelem elbírálása) iránti kérelmet 2014. július 26. napját követően nyújtották be, és 2014. október 15. napjáig nem került sor a végrehajtás elrendelésére (a végrehajtási eljárásba bekapcsolódásra irányuló kérelem elbírálására), a végrehajtás elrendelése (a végrehajtási eljárásba bekapcsolódásra irányuló kérelem elbírálása) iránt 2014. december 15. napjáig kell intézkedni.
+
+(2) E törvénynek a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvénnyel (a továbbiakban: Módtv.) megállapított 1. § (2) bekezdése szerinti kölcsönszerződések esetén a 16. § alapján felfüggesztett eljárásokat a fél kérelmére folytatni kell; a bíróságnak a kérelem beérkezésétől számított 30 napon belül kell a folytatás iránt intézkednie.
+
+(3) E törvénynek a Módtv.-nyel megállapított 1. § (2) bekezdése szerinti kölcsönszerződések esetén a végrehajtást kérő vagy az adós a 17. § (7)–(8) bekezdése szerinti eljárás lefolytatását kérheti, a kérelmet a bíróság soron kívül bírálja el.
+
+(4) E törvénynek a Módtv.-nyel megállapított 1. § (2) bekezdése szerinti kölcsönszerződések esetén a 18. §-ban foglalt szabályokat 2014. december 15. napjától nem kell alkalmazni.

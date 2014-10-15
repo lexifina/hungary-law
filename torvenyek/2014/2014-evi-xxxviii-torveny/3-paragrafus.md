@@ -6,8 +6,8 @@
 
 (3) Ha a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 200/A. §-ában vagy a Hpt. 267. §-ában meghatározott szerződések esetében és rendelkezések alapján az azokban megjelölt devizaárfolyam alkalmazására vonatkozó rendelkezés a szerződés részévé vált, vagy a törlesztés során a felek ennek megfelelően jártak el, a (2) bekezdés devizaárfolyamra vonatkozó előírását e szerződések esetében és a törlesztés e rendelkezések által érintett időszakára csak a folyósítás tekintetében kell alkalmazni.
 
-(4) A pénzügyi intézménynek e törvény hatálybalépését követő kilencven napon belül úgy kell az átszámítást elvégeznie, hogy a kölcsön-, illetve a finanszírozási összeg folyósításától kezdődő időponttal a folyósítás és a törlesztés összegének kiszámítása alapjául az ezek esedékessége napján érvényes (2) bekezdés szerinti – a (3) bekezdésben meghatározott esetben a (3) bekezdés szerinti – devizaárfolyam szolgáljon.
+(4)
 
-(5) A (4) bekezdés szerinti átszámítás alapján a pénzügyi intézménynek a fogyasztóval külön törvényben meghatározott módon kell elszámolnia.
+(5) A pénzügyi intézménynek a fogyasztóval külön törvényben meghatározott módon kell elszámolnia.
 
-(6) A (4) bekezdés szerinti átszámítás jogszerűségét a felügyeleti és fogyasztóvédelmi jogkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) hivatalból ellenőrzi. A pénzügyi intézmény az általa alkalmazott átszámítási módszertant e törvény hatálybalépését követő hatvan napon belül megküldi a Felügyelet részére.
+(6)

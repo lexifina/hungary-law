@@ -16,6 +16,8 @@ f) a felmondhatóság elvének: a szerződésmódosítás bekövetkezése eseté
 
 g) a szimmetria elvének: kizárja, hogy a fogyasztó javára bekövetkező feltételváltozás hatása a fogyasztó javára érvényesítésre kerüljön.
 
-(2) Az (1) bekezdés szerinti szerződéses kikötés semmis, ha a pénzügyi intézmény a 8. § (1) bekezdés szerinti határidőben nem kezdeményezte a polgári peres eljárás lefolytatását vagy a bíróság a keresetet elutasítja vagy a pert megszünteti.
+(2) Az (1) bekezdés szerinti szerződéses kikötés semmis, ha a pénzügyi intézmény a 8. § (1) bekezdés szerinti határidőben nem kezdeményezte a polgári peres eljárás lefolytatását vagy a bíróság a keresetet elutasítja vagy a pert megszünteti, kivéve ha a szerződéses kikötés esetében a 6. § (2) bekezdés szerinti peres eljárás megindításának lehet helye, de az eljárás nem került megindításra vagy az eljárás megindításra került, de a bíróság nem állapította meg a (2a) bekezdés szerint a szerződéses kikötés semmisségét.
 
-(3) A (2) bekezdésben foglalt esetben a pénzügyi intézménynek a fogyasztóval külön törvény szerint meghatározott módon kell elszámolnia.
+(2a) Az (1) bekezdés szerinti szerződéses kikötés semmis, ha a bíróság annak semmisségét az elszámolásról szóló külön törvény alapján a Felügyelet által indított közérdekű keresettel indított perben megállapította.
+
+(3) A (2) és a (2a) bekezdésben foglalt esetben a pénzügyi intézménynek a fogyasztóval külön törvény szerint meghatározott módon kell elszámolnia.

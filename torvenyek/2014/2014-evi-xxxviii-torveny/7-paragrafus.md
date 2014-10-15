@@ -32,4 +32,6 @@ h) hiánypótlásnak,
 
 i) csatlakozó fellebbezésnek és csatlakozó felülvizsgálati kérelemnek,
 
-j) a Pp. XXVIII. fejezete alkalmazásának.
+j) a Pp. XXVIII. fejezete alkalmazásának,
+
+k) perújításnak.

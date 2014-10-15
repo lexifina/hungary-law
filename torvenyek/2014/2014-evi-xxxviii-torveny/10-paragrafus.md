@@ -7,3 +7,5 @@
 (4) A tárgyalást egy alkalommal és csak akkor lehet elhalasztani – legfeljebb hét napra –, ha ez a felek által felajánlott bizonyítás lefolytatása érdekében szükséges.
 
 (5) Ha a fél vagy képviselője a tárgyalási határnapot hibáján kívül mulasztja el és ezért igazolási kérelemmel él, kérelmét legkésőbb az elmulasztott határnapot követő első munkanapon terjesztheti elő. Az igazolási kérelmet elutasító végzés ellen az igazolási kérelem előterjesztője három napon belül élhet fellebbezéssel. A fellebbezést a bíróság egy munkanapon belül – a fellebbező fél ellenfele észrevételeinek beszerzése nélkül – terjeszti fel a másodfokú bírósághoz. A másodfokú bíróság a fellebbezést a felterjesztéstől számított három napon belül bírálja el.
+
+(6) A bíróságnak a 8. § (1) bekezdés b) és c) pontja szerinti esetben a keresetlevél beérkezésétől számított 30 napon belül kell megvizsgálnia a keresetlevelet és dönteni a keresetlevél idézés kibocsátása nélküli elutasításáról, vagy a tárgyalás kitűzéséről. Ha a bíróság a keresetlevelet nem utasítja el idézés kibocsátása nélkül, a 9. § (3) bekezdése szerinti határidőt a tárgyalás kitűzésétől kell számítani.
