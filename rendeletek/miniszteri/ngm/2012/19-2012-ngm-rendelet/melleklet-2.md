@@ -144,59 +144,27 @@
 
 ## 3. A gázfogyasztó készülékek (készülékenként kitölteni)
 
-|  | Fsz. | Tárgy | Eltérés az üzembe helyezési követelményektől | Az eltérés minősítése |
+## A gázfogyasztó készülék típusa:
 
-|  | Nincs | Van | Eltérés leírása* Megjegyzések | Meg- felel | Fel- tétellel meg- felel* | Nem felel meg* |
+## A gázfelhasználás módja:
 
-|  | 1. | A gázfogyasztó készülékek alkalmassága (vagylagos): |  |  |  |  |  |  |
+|  |  | Tárgy | Eltérés az üzembe helyezési követelményektől | Az eltérés minősítése |
 
-|  |  | – Gyártási engedély |  |  |  |  |  |  |
+|  |  |  | Nincs | Van | Eltérés leírása* megjegyzések | Megfelel | Feltétellel megfelel* | Nem felel meg* |
 
-|  |  | – Biztonságtechnikai behozatali engedély |  |  |  |  |  |  |
-
-|  |  | – Átalakítási engedély |  |  |  |  |  |  |
-
-|  |  | – Gázfelhasználási technológia bejelentése, hatósági engedélye |  |  |  |  |  |  |
-
-|  |  | – CE-jel |  |  |  |  |  |  |
+|  | 1. | A gázfogyasztó készülékek alkalmassága (vagylagos): – Gyártási engedély – Biztonságtechnikai behozatali engedély – Átalakítási engedély – Gázfelhasználási technológia bejelentése, hatósági engedélye – CE-jel |  |  |  |  |  |  |
 
 |  | 2. | Gázfogyasztó készülék elhelyezésének szabályossága, hozzáférhetőség |  |  |  |  |  |  |
 
 |  | 3. | Biztonsági tartozékok működőképessége |  |  |  |  |  |  |
 
-|  | 4. | Égéstermék elvezetés szabályossága |  |  |  |  |  |  |
+|  | 4. | Égéstermék elvezetés szabályossága Égéstermék elvezető berendezés – Készülék tartozékként készülékkel együtt tanúsítva – Készülék tartozékként nem készülékkel együtt tanúsítva – Szigetelt elvezetés esetén a szigetelés megfelelősége, épsége – Állékonyságának biztosítottsága tető fölé történt kivezetés esetén – Rögzítések alkalmassága |  |  |  |  |  |  |
 
-|  |  | Égéstermék elvezető berendezés |  |  |  |  |  |  |
+|  | 5. | Kéményseprő – ipari közszolgáltató által elvégzett vizsgálatokról készült bizonylat(ok) meglétének ellenőrzése. Bizonylat(ok) – keltjének időpontja, – érvényessége, – készülék teljesítmény és kémény terhelhetőségének egybevetése |  |  |  |  |  |  |
 
-|  |  | – Készülék tartozékként készülékkel együtt tanúsítva |  |  |  |  |  |  |
+|  | 6. | Légellátás biztosítottsága Összeszellőztetés |  |  |  |  |  |  |
 
-|  |  | – Készülék tartozékként nem készülékkel együtt tanúsítva |  |  |  |  |  |  |
-
-|  |  | – Szigetelt elvezetés esetén a szigetelés megfelelősége, épsége |  |  |  |  |  |  |
-
-|  |  | – Állékonyságának biztosítottsága tető fölé történt kivezetés esetén |  |  |  |  |  |  |
-
-|  |  | – Rögzítések alkalmassága |  |  |  |  |  |  |
-
-|  | 5. | Kéményseprő – ipari közszolgáltató által elvégzett vizsgálatokról készült bizonylat(ok) meglétének ellenőrzése. Bizonylat(ok) |  |  |  |  |  |  |
-
-|  |  | – keltjének időpontja, |  |  |  |  |  |  |
-
-|  |  | – érvényessége, |  |  |  |  |  |  |
-
-|  |  | – készülék teljesítmény és kémény terhelhetőségének egybevetése |  |  |  |  |  |  |
-
-|  | 6. | Légellátás biztosítottsága |  |  |  |  |  |  |
-
-|  |  | Összeszellőztetés |  |  |  |  |  |  |
-
-|  | 7. | Elszívó berendezés és égéstermék elvezető berendezésbe kötött készülék esetén |  |  |  |  |  |  |
-
-|  |  | – reteszfeltételek szükségessége, |  |  |  |  |  |  |
-
-|  |  | – megléte, |  |  |  |  |  |  |
-
-|  |  | – működőképessége |  |  |  |  |  |  |
+|  | 7. | Elszívó berendezés és égéstermék elvezető berendezésbe kötött készülék esetén – reteszfeltételek szükségessége, – megléte, – működőképessége |  |  |  |  |  |  |
 
 |  | 8. | A gázfogyasztó készülékek időszakos felülvizsgálatot megelőző utolsó karbantartásának és beszabályozásának időpontja |  |  |  |  |  |  |
 
@@ -252,6 +220,6 @@
 
 ## olvasható név/aláírás
 
-2. melléklet a 19/2012. (VII. 20.) NGM rendelethez[^15]
+2. melléklet a 19/2012. (VII. 20.) NGM rendelethez[^16]
 
-[^15]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
