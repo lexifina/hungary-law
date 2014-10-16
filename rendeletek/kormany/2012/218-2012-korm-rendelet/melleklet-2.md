@@ -6060,6 +6060,8 @@
 
 ## Székhely: Balatonalmádi
 
+## Balatonakarattya
+
 ## Balatonalmádi
 
 ## Balatonfőkajár
@@ -7051,5 +7053,5 @@
 [^20]: Az 1. melléklet 13.9. pontja a 147/2014. (V. 5.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^21]: Az 1. melléklet 13.10. pontja a 147/2014. (V. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^22]: Az 1. melléklet 14.7. pontja a 391/2012. (XII. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^23]: Az 1. melléklet 18.2. pontja a 391/2012. (XII. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^23]: Az 1. melléklet 18.2. pontja a 391/2012. (XII. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 262/2014. (X. 15.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^24]: A 2. mellékletet a 221/2014. (IX. 4.) Korm. rendelet 687. §-a hatályon kívül helyezte.
