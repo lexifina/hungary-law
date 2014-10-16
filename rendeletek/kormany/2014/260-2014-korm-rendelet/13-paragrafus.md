@@ -1,0 +1,1 @@
+## 12. § A nemzeti köznevelésről szóló törvény végrehajtásáról rendelkező 229/2012. (VIII. 28.) Korm. rendelet (a továbbiakban: Nktvhr.) 37/C. § (1) bekezdésében az „a tárgyévet megelőző év október 31-éig” szövegrész helyébe a „január 31-éig” szöveg lép.
