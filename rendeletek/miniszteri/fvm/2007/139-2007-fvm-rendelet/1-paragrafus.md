@@ -108,7 +108,7 @@ d) átminősített előnevelt (növendék) pulykára, valamint
 
 e) levágott összes baromfifélére,
 
-## legfeljebb 8 milliárd forint összegig állapítható meg. A támogatási keret a 4. számú mellékletben foglaltak alapján, baromfi megnevezés-csoportonként és naptári negyedévenként elkülönített támogatási keretek szerint kerül felosztásra.
+## legfeljebb 9 milliárd forint összegig állapítható meg. A támogatási keret a 4. számú mellékletben foglaltak alapján, baromfi megnevezés-csoportonként és naptári negyedévenként elkülönített támogatási keretek szerint kerül felosztásra.
 
 (6a)[^10]
 
@@ -148,7 +148,7 @@ eb) a 4–5. § szerinti támogatás a vágást követően igényelhető.
 [^6]: Az 1. § (3a) bekezdését a 68/2011. (VII. 14.) VM rendelet 3. §-a iktatta be.
 [^7]: Az 1. § (4) bekezdése a 33/2014. (IV. 4.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^8]: Az 1. § (5) bekezdése a 80/2012. (VII. 30.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^9]: Az 1. § (6) bekezdése a 33/2014. (IV. 4.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^9]: Az 1. § (6) bekezdése a 33/2014. (IV. 4.) VM rendelet 1. § (3) bekezdésével megállapított, záró szövegrésze a 16/2014. (X. 15.) FM rendelet 4. § (1) bekezdése szerint módosított szöveg.
 [^10]: Az 1. § (6a) bekezdését a 111/2012. (X. 29.) VM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 33/2014. (IV. 4.) VM rendelet 10. §-a.
 [^11]: Az 1. § (6b) bekezdését a 111/2012. (X. 29.) VM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 33/2014. (IV. 4.) VM rendelet 10. §-a.
 [^12]: Az 1. § (7) bekezdése a 33/2014. (IV. 4.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.
