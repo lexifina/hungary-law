@@ -1,4 +1,4 @@
-1. § (1)[^2] E rendelet hatálya a Magyarország területén rendezett, illetve tartott vásárokra, piacokra és üzemeltetett bevásárlóközpontokra, valamint a vásárokon, a piacokon és a bevásárlóközpontokban folytatott kereskedelmi tevékenységre terjed ki. Nem tartozik e rendelet hatálya alá a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet szerint közterületen a húsvéti, karácsonyi és szilveszteri, valamint évente egy alkalommal, az adott ünnepen és az azt megelőző 20 napban folytatott kereskedelmi tevékenység.
+1. § (1)[^2] E rendelet hatálya a Magyarország területén rendezett, illetve tartott vásárokra, piacokra és üzemeltetett bevásárlóközpontokra, valamint a vásárokon, a piacokon és a bevásárlóközpontokban folytatott kereskedelmi tevékenységre terjed ki. Nem tartozik e rendelet hatálya alá a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet szerint közterületen a húsvéti, adventi, karácsonyi és szilveszteri ünnepeken, valamint évente egy alkalommal, kizárólag az adott ünnepen és az azt megelőző 20 napban folytatott kereskedelmi tevékenység.
 
 (2) E rendelet alkalmazásában
 
@@ -20,7 +20,7 @@ h)[^6] helyi termelői piac: a kereskedelemről szóló törvényben meghatároz
 
 (3)[^7] Nem kell alkalmazni a helyi termelői piacok esetében a 2. § (3) és (4) bekezdését, a 7. §-t, valamint a 8. § (2) és (3) bekezdését.
 
-[^2]: Az 1. § (1) bekezdése a 212/2009. (IX. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 260/2011. (XII. 7.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdése a 260/2014. (X. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § (2) bekezdés e) pontja a 212/2009. (IX. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
 [^4]: Az 1. § (2) bekezdés f) pontja a 212/2009. (IX. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
 [^5]: Az 1. § (2) bekezdés g) pontját a 41/2010. (II. 26.) Korm. rendelet 20. § (1) bekezdése iktatta be.
