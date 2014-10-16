@@ -1,4 +1,4 @@
-## III/B. Fejezet[^65]
+## III/B. Fejezet[^66]
 
 ## A MUNKAHELY-TEREMTÉSI TÁMOGATÁS SZABÁLYAI
 
@@ -26,4 +26,4 @@ a) az adott évet megelőző évben egyéni támogatásra kiírt pályázatok ke
 
 b) az egyéni támogatás – a szerződéskötés évében érvényes – éves keretösszege legfeljebb kétszeresének
 
-[^65]: A III/B. Fejezetet (42/A–42/G. §) a 335/2013. (IX. 20.) Korm. rendelet 24. §-a iktatta be.
+[^66]: A III/B. Fejezetet (42/A–42/G. §) a 335/2013. (IX. 20.) Korm. rendelet 24. §-a iktatta be.
