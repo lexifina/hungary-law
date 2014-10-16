@@ -2,8 +2,8 @@
 
 20. § (1) Szexuális terméket kirakatban elhelyezni, közszemlére tenni tilos.
 
-(2)[^37] Nevelési-oktatási, gyermek- és ifjúságvédelmi intézmény, valamint templom és vallásgyakorlásra rendelt más hely bármely bejáratától számított 200 méteres közúti (közterületi) távolságon belül szexuális termék nem forgalmazható.
+(2)[^38] Nevelési-oktatási, gyermek- és ifjúságvédelmi intézmény, valamint templom és vallásgyakorlásra rendelt más hely bármely bejáratától számított 200 méteres közúti (közterületi) távolságon belül szexuális termék nem forgalmazható.
 
 (3) Szexuális termék – a szexuális termék forgalmazására szakosodott üzletek kivételével – csak zárt csomagolásban, a többi terméktől elkülönítve forgalmazható.
 
-[^37]: A 20. § (2) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^38]: A 20. § (2) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 54. §-a szerint módosított szöveg.
