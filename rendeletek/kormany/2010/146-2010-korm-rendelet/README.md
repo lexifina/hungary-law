@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-146-20-
 | 2014-03-15 | 2010-146-20-22.6 | 80/2014. (III. 14.) Korm. rendelet |
 | 2014-04-15 | 2010-146-20-22.7 | 96/2014. (III. 25.) Korm. rendelet |
 | 2014-07-24 | 2010-146-20-22.8 | 179/2014. (VII. 23.) Korm. rendelet |
+| 2014-10-16 | 2010-146-20-22.9 | 2014: LXXVI. törvény |

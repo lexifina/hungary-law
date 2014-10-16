@@ -2,7 +2,7 @@
 
 (2) A 42. § (2)–(3) bekezdését és a 43. § (2)–(3) bekezdését a 2010. szeptember 1-jén és az ezt követően meghirdetett programok esetében kell alkalmazni.
 
-(3)[^32] E rendeletnek az egyes kutatás-fejlesztési és innovációs tárgyú kormányrendeletek módosításáról szóló 561/2013. (XII. 31.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 59. §-át a Módr. hatálybalépésekor[^33] folyamatban lévő ügyekben is alkalmazni kell.
+(3)[^33] E rendeletnek az egyes kutatás-fejlesztési és innovációs tárgyú kormányrendeletek módosításáról szóló 561/2013. (XII. 31.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 59. §-át a Módr. hatálybalépésekor[^34] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^32]: A 71. § (3) bekezdését az 561/2013. (XII. 31.) Korm. rendelet 6. §-a iktatta be.
-[^33]: A hatálybalépés időpontja: 2014. január 1.
+[^33]: A 71. § (3) bekezdését az 561/2013. (XII. 31.) Korm. rendelet 6. §-a iktatta be.
+[^34]: A hatálybalépés időpontja: 2014. január 1.

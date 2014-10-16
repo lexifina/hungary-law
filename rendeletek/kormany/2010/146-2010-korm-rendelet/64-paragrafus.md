@@ -1,4 +1,4 @@
-## 63/A. §[^28] A miniszter által vezetett minisztériumban az Alap kezelésével összefüggő feladatot ellátó szervezeti egységek vezetőinek az Alap kezelésével összefüggő tevékenységét a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal létrehozásáért felelős kormánybiztos irányítja és működteti az Alapot.
+## 63/A. §[^29] A miniszter által vezetett minisztériumban az Alap kezelésével összefüggő feladatot ellátó szervezeti egységek vezetőinek az Alap kezelésével összefüggő tevékenységét a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal létrehozásáért felelős kormánybiztos irányítja.
 
 ## 17. Az innovációs járulék átutalására irányuló eljárás szabályai
 
@@ -6,7 +6,7 @@
 
 (2) Az Atv. 5. § (8) bekezdése szerint visszaigényelhető többletbefizetést – annak visszatérítése érdekében – az Alap számlájáról a (3) bekezdés szerinti megállapodás alapján kell átutalni az adóhatóság részére.
 
-(3)[^29] Az átutalásra vonatkozó eljárás részleteit – beleértve az adóbírságból, a késedelmi és az önellenőrzési pótlékokból származó bevételeknek az állami adóhatóság és az Alap közti megosztására vonatkozó szabályokat is – a miniszter, a Magyar Államkincstárnál és az állami adóhatóság közötti megállapodás rögzíti.
+(3)[^30] Az átutalásra vonatkozó eljárás részleteit – beleértve az adóbírságból, a késedelmi és az önellenőrzési pótlékokból származó bevételeknek az állami adóhatóság és az Alap közti megosztására vonatkozó szabályokat is – a miniszter, a Magyar Államkincstárnál és az állami adóhatóság közötti megállapodás rögzíti.
 
-[^28]: A 63/A. §-t a 179/2014. (VII. 23.) Korm. rendelet 1. §-a iktatta be.
-[^29]: A 64. § (3) bekezdése az 561/2013. (XII. 31.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^29]: A 63/A. §-t a 179/2014. (VII. 23.) Korm. rendelet 1. §-a iktatta be, szövege a 260/2014. (X. 15.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^30]: A 64. § (3) bekezdése az 561/2013. (XII. 31.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.

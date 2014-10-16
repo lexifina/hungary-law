@@ -1,4 +1,4 @@
-## 66–69. §[^31]
+## 66–69. §[^32]
 
 ## VI. Fejezet
 
@@ -10,4 +10,4 @@
 
 (3) A 15. § 2011. január 1-jén lép hatályba.
 
-[^31]: A 66–69. §-t az 561/2013. (XII. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^32]: A 66–69. §-t az 561/2013. (XII. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.
