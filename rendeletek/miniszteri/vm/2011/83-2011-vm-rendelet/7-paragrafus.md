@@ -20,8 +20,11 @@ fa) a kérelmező a Btv. alapján megfelel a borászati üzem működésére, a 
 
 fb) a gépet kizárólag a Btv. szerinti borászati termékek előállítására, illetve forgalomba hozatalára használják;
 
+g)[^31] a kérelmező a támogatott gép vásárlásával összefüggő gazdasági eseményekről elkülönített nyilvántartást, könyvvezetési kötelezettség esetén elkülönített analitikus nyilvántartást köteles vezetni.
+
 [^26]: A 7. § a) pontja az 5/2012. (II. 10.) VM rendelet 60. §-a szerint módosított szöveg.
 [^27]: A 7. § c) pontja a 108/2012. (X. 11.) VM rendelet 5. §-ával megállapított, a 101/2013. (XI. 4.) VM rendelet 15. § 5. pontja szerint módosított szöveg.
 [^28]: A 7. § d) pontja a 101/2013. (XI. 4.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^29]: A 7. § e) pontját a 101/2013. (XI. 4.) VM rendelet 8. § (2) bekezdése iktatta be.
 [^30]: A 7. § f) pontját a 101/2013. (XI. 4.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^31]: A 7. § g) pontját a 101/2013. (XI. 4.) VM rendelet 8. § (3) bekezdése iktatta be.
