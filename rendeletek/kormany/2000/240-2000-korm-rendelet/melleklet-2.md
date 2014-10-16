@@ -42,6 +42,8 @@
 
 ## Balatonakali
 
+## Balatonakarattya
+
 ## Balatonalmádi
 
 ## Balatonberény
@@ -686,4 +688,4 @@ II. Velencei-tó vízgyűjtője
 
 III. Fertő-tó vízgyűjtője
 
-[^3]: A 2. számú melléklet I. pontja a 351/2010. (XII. 30.) Korm. rendelet 79. §-ával megállapított szöveg.
+[^3]: A 2. számú melléklet I. pontja a 351/2010. (XII. 30.) Korm. rendelet 79. §-ával megállapított, a 262/2014. (X. 15.) Korm. rendelet 1. §-a szerint módosított szöveg.
