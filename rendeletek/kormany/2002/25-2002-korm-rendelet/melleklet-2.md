@@ -1932,11 +1932,13 @@
 
 |  | Albertirsa | 12 181 |  |  |  |
 
-| Balatonfőkajár |  | 11 000 | 14 334 |  |  |
+| Balatonfőkajár |  | 11 244 | 14 334 |  |  |
+
+|  | Balatonakarattya | 893 |  |  |  |
 
 |  | Balatonfőkajár | 1 339 |  |  |  |
 
-|  | Balatonkenese | 3 334 |  |  |  |
+|  | Balatonkenese | 2 685 |  |  |  |
 
 |  | Balatonvilágos | 1 104 |  |  |  |
 
@@ -2472,4 +2474,4 @@
 
 | Összesen: |  |  | 47 180 |  |  |
 
-[^15]: A 2. melléklet a 173/2014. (VII. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^15]: A 2. melléklet a 173/2014. (VII. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 262/2014. (X. 15.) Korm. rendelet 2. §-a szerint módosított szöveg.
