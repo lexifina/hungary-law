@@ -1,6 +1,6 @@
 ## 44/C. § A köznevelési intézményt működtető települési önkormányzatnak a köznevelési intézmény működtetésével összefüggő bevételeit és kiadásait azon az alapfeladaton (szakfeladaton) kell kimutatnia a könyvvezetése során, amelyre a ráfordítás történik, illetve amelyhez kapcsolódóan a bevételt elérte.
 
-## V/B. Fejezet[^64]
+## V/B. Fejezet[^66]
 
 ## A NEMZETI KÖZNEVELÉSRŐL SZÓLÓ TÖRVÉNY SZERINTI EGYES KÖZHITELES NYILVÁNTARTÁSOKKAL ÖSSZEFÜGGŐ BIZONYÍTÁSI ESZKÖZÖK
 
@@ -8,4 +8,4 @@
 
 (2) A kérelemhez csatolni kell a munkáltató által kiállított igazolást a tíz év gyakorlati idő meglétéről, nyugdíjas kérelmező esetén, az utolsó munkáltató vagy annak jogutódja, jogutód nélkül megszűnt munkáltató esetén a munkáltató fenntartója általi, ennek hiányában más, hitelt érdemlő igazolást.
 
-[^64]: A V/B. fejezetet (44/D–44/G. §) a 257/2013. (VII. 5.) Korm. rendelet 27. §-a iktatta be.
+[^66]: A V/B. fejezetet (44/D–44/G. §) a 257/2013. (VII. 5.) Korm. rendelet 27. §-a iktatta be.

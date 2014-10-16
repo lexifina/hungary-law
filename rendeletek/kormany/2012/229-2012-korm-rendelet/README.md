@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-229-20-
 | 2013-08-01 | 2012-229-20-22.11 | 297/2013. (VII. 29.) Korm. rendelet |
 | 2013-09-01 | 2012-229-20-22.12 | 257/2013. (VII. 5.) Korm. rendelet |
 | 2013-10-05 | 2012-229-20-22.13 | 353/2013. (X. 4.) Korm. rendelet |
+| 2014-10-16 | 2012-229-20-22.14 | 260/2014. (X. 15.) Korm. rendelet |
