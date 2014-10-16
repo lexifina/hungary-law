@@ -24,7 +24,7 @@ c) segítséget nyújt a kis- és közepes méretű vállalkozások technológia
 
 d) a hatáskörébe utalt pénzeszközök felhasználásáról évente beszámol a miniszternek,
 
-e)[^5] közreműködik a Magyarországnak nyújtott külföldi támogatások kutatás-fejlesztési és innovációs célú felhasználásában, illetve e tevékenység koordinálásában,
+e)[^7] közreműködik a Magyarországnak nyújtott külföldi támogatások kutatás-fejlesztési és innovációs célú felhasználásában, illetve e tevékenység koordinálásában,
 
 f) figyelemmel kíséri a kutatás-fejlesztési, illetve innovációs célú hazai támogatási programokat és pályázatokat a források összehangolt és koncentrált felhasználása érdekében, valamint szükség esetén az összhang megteremtése céljából javaslatokat dolgoz ki az érintettek számára,
 
@@ -48,4 +48,4 @@ f) biztosítja a pályázatkezelési feladatok elvégzését a nemzetközi – i
 
 (4) A Hivatal részt vesz a mérésüggyel és a nemzeti szabványosítással összefüggő feladatok előkészítésében és végrehajtásában, valamint a vonatkozó jogszabályok kidolgozásában.
 
-[^5]: A 6. § (2) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 506. § a) pontja szerint módosított szöveg.
+[^7]: A 6. § (2) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 506. § a) pontja szerint módosított szöveg.

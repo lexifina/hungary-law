@@ -8,18 +8,18 @@ b) a tudomány-, technológia- és innovációpolitika érvényesülését elős
 
 c) a tudomány-, technológia- és innovációpolitika területén folyó nemzetközi, illetve európai integrációs együttműködés szakmai feladatainak ellátása,
 
-d)[^2] a kutatás-fejlesztés területén megvalósuló magyarországi befektetések ösztönzése a Nemzeti Befektetési Ügynökséggel együttműködésben,
+d)[^4] a kutatás-fejlesztés területén megvalósuló magyarországi befektetések ösztönzése a Nemzeti Befektetési Ügynökséggel együttműködésben,
 
 e) a kis- és középvállalkozások innovációs tevékenységének ösztönzése és innovációs képességének fejlesztése, valamint a fiatal innovatív vállalkozások inkubációjának elősegítése,
 
-f)[^3] a hazai kutatás-fejlesztési eredmények nemzetközi piacra juttatásának ösztönzése a Nemzeti Befektetési Ügynökséggel együttműködésben, különös tekintettel a kis- és középvállalkozások külpiacra lépésének segítésére,
+f)[^5] a hazai kutatás-fejlesztési eredmények nemzetközi piacra juttatásának ösztönzése a Nemzeti Befektetési Ügynökséggel együttműködésben, különös tekintettel a kis- és középvállalkozások külpiacra lépésének segítésére,
 
 g) a hálózatosodás és kutatási együttműködések támogatása hazai és nemzetközi szinten egyaránt,
 
 h) az adaptív és a nem-technológiai innovációs tevékenységek ösztönzése elsősorban a kis- és középvállalkozások körében.
 
-(2)[^4] Feladatai ellátása során a Hivatal együttműködik az ágazati kutatási, fejlesztési és innovációs tevékenységet illetően e feladatkörükben eljáró érintett miniszterekkel, államigazgatási szervekkel, a Magyar Tudományos Akadémiával és más köztestületekkel, valamint a regionális és társadalmi szervezetekkel.
+(2)[^6] Feladatai ellátása során a Hivatal együttműködik az ágazati kutatási, fejlesztési és innovációs tevékenységet illetően e feladatkörükben eljáró érintett miniszterekkel, államigazgatási szervekkel, a Magyar Tudományos Akadémiával és más köztestületekkel, valamint a regionális és társadalmi szervezetekkel.
 
-[^2]: Az 5. § (1) bekezdés d) pontja a 183/2014. (VII. 25.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^3]: Az 5. § (1) bekezdés f) pontja a 183/2014. (VII. 25.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^4]: Az 5. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 507. §-a szerint módosított szöveg.
+[^4]: Az 5. § (1) bekezdés d) pontja a 183/2014. (VII. 25.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^5]: Az 5. § (1) bekezdés f) pontja a 183/2014. (VII. 25.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^6]: Az 5. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 507. §-a szerint módosított szöveg.

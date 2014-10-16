@@ -1,3 +1,3 @@
-13. §[^9]
+13. §[^11]
 
-[^9]: A 13. § ugyanezen § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 13. § ugyanezen § (2) bekezdése alapján hatályát vesztette.

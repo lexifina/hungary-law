@@ -1,3 +1,3 @@
-## 1. §[^1] A Nemzeti Innovációs Hivatal (a továbbiakban: Hivatal) a kutatás-fejlesztésért és technológiai innovációért felelős miniszter (a továbbiakban: miniszter) irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
+## 1/A. §[^3] A Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal létrehozásáért felelős kormánybiztos a Hivatal e rendeletben meghatározott feladataival összefüggésben gyakorolja a Hivatal felett a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés c) és e)–h) pontjában meghatározott hatásköröket.
 
-[^1]: Az 1. § a 221/2014. (IX. 4.) Korm. rendelet 505. §-ával megállapított szöveg.
+[^3]: Az 1/A. §-t a 260/2014. (X. 15.) Korm. rendelet 4. §-a iktatta be.

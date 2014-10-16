@@ -12,8 +12,8 @@ e) az európai uniós tagságból eredő jogok és kötelezettségek keretében 
 
 f) a miniszter felhatalmazása alapján képviseletet lát el a nemzetközi tudományos és technológiai szervezetekben, kezdeményezésekben,
 
-g)[^6] feladatkörében együttműködik Magyarország külképviseleteivel, és kapcsolatot tart a Magyarországon működő külképviseletekkel, valamint a Magyarországon, illetve külföldön működő partnerintézményekkel,
+g)[^8] feladatkörében együttműködik Magyarország külképviseleteivel, és kapcsolatot tart a Magyarországon működő külképviseletekkel, valamint a Magyarországon, illetve külföldön működő partnerintézményekkel,
 
 h) a külpolitikáért felelős miniszter egyetértésével működteti a tudományos és technológiai szakdiplomata hálózatot.
 
-[^6]: A 8. § g) pontja a 221/2014. (IX. 4.) Korm. rendelet 506. § b) pontja szerint módosított szöveg.
+[^8]: A 8. § g) pontja a 221/2014. (IX. 4.) Korm. rendelet 506. § b) pontja szerint módosított szöveg.
