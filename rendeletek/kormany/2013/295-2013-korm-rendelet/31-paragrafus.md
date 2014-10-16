@@ -1,0 +1,1 @@
+## 30. § Ez a rendelet a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépésével egyidejűleg lép hatályba.

@@ -6,4 +6,7 @@
 
 (2) Az (1) bekezdést az Eftv. 3. §-a és 4. §-a szerinti költségvetési támogatásra nem lehet alkalmazni.
 
+(3)[^6] Az egyházi jogi személy számára a központi költségvetésről szóló törvénynek a miniszter által vezetett minisztérium költségvetési fejezetéből a hit- és erkölcstan oktatás 8 főt meg nem haladó csoportja után nyújtott költségvetési támogatásra az Ávr. 80. § (4) bekezdését nem kell alkalmazni.
+
 [^5]: A 9/A. alcímet (18/A. §) a 24/2014. (II. 6.) Korm. rendelet 3. §-a iktatta be.
+[^6]: A 18/A. § (3) bekezdését a 261/2014. (X. 15.) Korm. rendelet 1. §-a iktatta be.
