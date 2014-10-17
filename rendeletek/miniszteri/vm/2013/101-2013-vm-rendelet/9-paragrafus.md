@@ -1,1 +1,0 @@
-## „g) a kérelmező a támogatott gép vásárlásával összefüggő gazdasági eseményekről elkülönített nyilvántartást, könyvvezetési kötelezettség esetén elkülönített analitikus nyilvántartást köteles vezetni.”
