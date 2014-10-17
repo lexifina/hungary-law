@@ -1,0 +1,1 @@
+## 1. § A Kormány a Fűtéstechnikai Vállalkozó Korlátolt Felelősségű Társaságot (a továbbiakban: Társaság) (székhelye: 5000 Szolnok, Pozsonyi u. 68.; cégjegyzékszáma: 16-09-003637) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
