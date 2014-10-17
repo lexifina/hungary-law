@@ -1,3 +1,5 @@
-## 3. § Hatályát veszti a kutatás-fejlesztési és technológiai innovációs projektek közfinanszírozású támogatásáról szóló 146/2010. (IV. 29.) Korm. rendelet 63/A. §-ában az „és működteti az Alapot” szövegrész.
+## 3. §[^3]
 
 ## 4. A Nemzeti Innovációs Hivatalról szóló 303/2010. (XII. 23.) Korm. rendelet módosítása
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
