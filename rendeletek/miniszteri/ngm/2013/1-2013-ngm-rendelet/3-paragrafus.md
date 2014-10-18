@@ -12,6 +12,8 @@
 
 (7) Munkaügyért Elismerő Oklevél adományozható a Munka ünnepe (május 1.) alkalmából a foglalkoztatás- és bérpolitika kidolgozása, a munkaügyi kapcsolatok alakítása, a munkahelyi béke megőrzése, az érdekegyeztetés eredményessége, a szakértői tevékenység eredményes kialakítása és működtetése, a munkaügyek nemzetközi kapcsolatainak ápolása, az álláskeresők elhelyezkedésének elősegítése, a szakképzés és felnőttképzés, a munkavédelem, vagy a munkaügyi igazgatás érdekében kifejtett eredményes tevékenységért. Az évente adományozható elismerések száma: 26 db.
 
-(8) Fogyasztóvédelemért Elismerő Oklevél adományozható a Fogyasztóvédelmi Világnap (március 15.) alkalmából a fogyasztóvédelem és a piacfelügyelet területén elért kiemelkedő eredményekért. Az évente adományozható elismerések száma: 4 db.
+(8)[^1]
 
 (9) A Kárpát-medencei Térség gazdasági fejlesztésében, a határon átnyúló gazdasági kapcsolatok elmélyítésében kiemelkedő eredményt felmutató természetes személyek, gazdálkodó és társadalmi szervezetek, kutatóműhelyek tevékenységének elismerésére a miniszter Kárpát-medence Gazdaságáért Elismerő Oklevelet adományozhat. Az elismerés Wekerle Sándor születésnapja (november 15.) alkalmából kerül átadásra, évente 3 fő részesülhet elismerésben.
+
+[^1]: A 3. § (8) bekezdését a 41/2014. (X. 15.) NFM rendelet 7. §-a hatályon kívül helyezte.
