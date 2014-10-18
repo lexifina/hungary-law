@@ -1,0 +1,133 @@
+# A nemzeti fejlesztési miniszter 43/2014. (X. 18.) NFM rendelete
+
+Magyar Közlöny 2014. évi 143. szám, 2014. október 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f6cbf0e64921086d93d81f535c9ca7b60ec81917/dokumentumok/92a62f8f491e4bd50034e08f29307c643cc793be/letoltes)
+
+---
+
+A nemzeti fejlesztési miniszter 43/2014. (X. 18.) NFM rendelete
+az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz
+mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló
+19/2010. (XII. 3.) NFM rendelet módosításáról
+A földgázellátásról szóló 2008. évi XL. törvény 133. § (1) bekezdés 3. pontjában kapott felhatalmazás alapján, a Kormány tagjainak
+feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 7. pontjában meghatározott feladatkörömben eljárva
+a következőket rendelem el:
+1. §
+Az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről
+és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 19/2010. (XII. 3.) NFM rendelet
+(a továbbiakban: R.) a következő 2/B. §-sal egészül ki:
+„2/B. § A volt közüzemi nagykereskedő által vételre felajánlott és a GET 141/C. § (2) bekezdése szerinti
+földgázkereskedővel kötött szerződésben meghatározott földgázforrás árát – amely az árképzési rendelet szerint
+meghatározott egyetemes szolgáltatási árelemeket tartalmazza a nagykereskedői árrés, a szállítási és tárolási díj,
+a mobilgáz-finanszírozási költség, az elosztási díj és az egyetemes szolgáltatói árrés kivételével – a 10. melléklet
+tartalmazza. A földgázforrás mennyiségét a 10. melléklet a földgáztárolóból és a nem földgáztárolóból származó
+mennyiségek szerinti bontásban tartalmazza.”
+2. §
+Az R. 4. § (10) bekezdésének helyébe a következő rendelkezés lép:
+„(10) A hatósági árelőkészítés érdekében az egyetemes szolgáltató és a GET 141/C. § (2) bekezdése szerinti
+földgázkereskedő minden negyedévet megelőző második hónap 1. napjáig köteles megadni a Hivatal részére
+a forrásszerződései szerint az egyetemes szolgáltatásra jogosult felhasználók ellátására felhasználni tervezett
+földgáz mennyiségét források szerinti bontásban.”
+3. §
+Az R. 4. §-a a következő (11) bekezdéssel egészül ki:
+„(11) A GET 141/C. § (2) bekezdése szerinti földgázkereskedő a tárgyhónapot követő 15 napon belül megadja
+a Hivatal részére a tárgyhónapban átadott és átvett földgáz mennyiségét a tényadatok alapján.”
+4. §
+Az R. a következő 4/A. §-sal egészül ki:
+„4/A. § (1) Amennyiben a GET 141/C. § (2) bekezdése szerinti földgázkereskedő a 10. melléklet szerinti
+földgázmennyiséget nem az egyetemes szolgáltatásra jogosult felhasználók ellátására fordítja, úgy a Hivatal által
+ellenőrzött utólagos elszámolás mellett ezen mennyiség tekintetében a 10. mellékletben meghatározott hatósági ár
+150%-át köteles megfizetnie a volt közüzemi nagykereskedő részére.
+(2) Amennyiben a GET 141/C. § (2) bekezdése szerinti földgázkereskedő az adott negyedévben a Hivatalnak
+bejelentett, a 4. § (10) bekezdésben foglalt földgáz forrásait átvette, és – a Hivatal felé igazolt módon – az egyetemes
+szolgáltatásra jogosult, a GET 141/C. § (4) bekezdése szerint ellátott felhasználók ellátása érdekében vásárol többlet
+földgáz mennyiséget a volt közüzemi nagykereskedőtől, akkor annak az ára a hatósági árral egyezik meg. Ebben
+az esetben is azonban kizárólag a nem földgáztárolóból származó, a volt közüzemi nagykereskedő által a nem
+hazai termelésből beszerzett földgázforrásból igényelhető földgáz. Amennyiben a GET 141/C. § (2) bekezdése
+szerinti földgázkereskedő a 10. mellékletben meghatározott mennyiséget átvette és – a Hivatal felé igazolt módon
+– az egyetemes szolgáltatásra jogosult, a GET 141/C. § (4) bekezdése szerint ellátott felhasználók ellátása érdekében
+
+vásárol többlet földgáz mennyiséget a volt közüzemi nagykereskedőtől, akkor annak ára az árképzési rendelet
+1. melléklete szerinti földgáz aktuális árának (fg
+FtA
+) képlete szerint kerül meghatározásra, és az ugyanezen melléklet
+szerinti árfolyamon (er
+USD
+) számított USD értéken kell megfizetni.
+(3) Amennyiben az adott negyedévben a GET 141/C. § (2) bekezdése szerinti földgázkereskedő a 10. mellékletben
+meghatározott földgáz mennyiséget nem az egyetemes szolgáltatásra jogosult, a GET 141/C. § (4) bekezdése
+szerint ellátott felhasználók ellátására használja, és emiatt a volt közüzemi nagykereskedőnek vesztesége keletkezik,
+az árszabályozás során a felajánlási ár megállapításakor a veszteség kamattal (tárgyidőszakra vonatkozó BUBOR)
+növelt összege figyelembevételre kerül.
+(4) Amennyiben a GET 141/C. § (2) bekezdése szerinti földgázkereskedő a 10. mellékletben meghatározott földgáz
+mennyiséget nem az egyetemes szolgáltatásra jogosult, a GET 141/C. § (4) bekezdése szerint ellátott felhasználók
+ellátására használja, a Hivatal a GET 141/C. § (2) bekezdése szerinti földgázkereskedővel szemben a GET 119. §
+(1) bekezdésében foglalt jogkövetkezményeket alkalmazhatja.”
+5. §
+Az R. 5. § (1) bekezdésének helyébe a következő rendelkezés lép:
+„(1) Ha a földgázforrás árát a következő negyedévre meghatározó miniszteri rendelet nem lép hatályba az adott
+negyedév első napján, a rendelet hatálybalépéséig a földgázforrás árára vonatkozóan – azon források esetében,
+amelyekből tényleges átvétel történt – a 2–5., 9. és 10. mellékletben meghatározott árakat kell alkalmazni
+az egyetemes szolgáltatás céljára vagy a GET 141/C. § (4) bekezdés szerint ellátott felhasználók ellátására átvett
+földgázmennyiség tekintetében.”
+6. §
+Az R. 6/A. § (1) bekezdésének helyébe a következő rendelkezés lép:
+„(1) A GET 141/C. §-a alapján felajánlott forrás esetében az egyetemes szolgáltatási engedéllyel nem rendelkező
+volt közüzemi nagykereskedő a GET 141/C. § (2) bekezdése szerinti földgázkereskedővel szemben az alábbi
+díjakat jogosult érvényesíteni – ide nem értve a vámot, adókat, illetékeket, a szerződés szerinti pótdíjakat és
+szerződésszegési következményeket –:
+a) a földgázforrásnak a 10. melléklet szerinti árát,
+b) az árképzési rendelet 2. § (1) bekezdés e) pontjában meghatározott és a Hivatal honlapján közzétett
+nagykereskedői árrést,
+c) az árképzési rendelet 2. § (1) bekezdés d) pontjában meghatározott és a Hivatal honlapján közzétett mobilgáz-
+finanszírozási költséget és
+d) a szállítási rendszerüzemeltetés és földgáztárolás 8. melléklet szerinti fajlagos díját.”
+7. §
+Az R. az 1. melléklet szerinti 10. melléklettel egészül ki.
+8. §
+Az R.
+a) 3/B. §-ában a„2–5. és 9. mellékletben”szövegrészek helyébe a„2–5., 9. és 10. mellékletben”szöveg,
+b) 3/C. §-ában a„2. pontjában”szövegrész helyébe a„2. pontjában és a 10. mellékletben”szöveg,
+c) 3/C. §-ában az „az egyetemes szolgáltatók által” szövegrész helyébe az „az egyetemes szolgáltatók és a GET
+141/C. § (2) bekezdése szerinti földgázkereskedő által”szöveg,
+d) 4. § (3) bekezdésében az „1. és 2. pontjában” szövegrészek helyébe az „1. és 2. pontjában, valamint
+a 9. mellékletben”szöveg,
+e) 4. § (7) bekezdésében az„a 2. vagy a 4. melléklet”szövegrész helyébe az„a 2., 4. vagy a 9. melléklet”szöveg,
+f) 4. § (7) bekezdésében az„a 3. vagy a 9. melléklet”szövegrész helyébe az„a 3. melléklet”szöveg,
+g) 5. § (2) bekezdésében az „a 2–5. és 9. mellékletek” szövegrész helyébe az „a 2–5. és 9. és 10. mellékletek”
+szöveg,
+h) 8. mellékletében lévő táblázat B:1 mezőjében a„0,307 Ft/MJ”szövegrész helyébe a„0,157 Ft/MJ”szöveg
+lép.
+9. §
+Hatályát veszti az R. 6/B–6/C. §-a.
+10. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Dr. Seszták Miklós s. k.,
+ nemzeti fejlesztési miniszter
+
+1. melléklet a 43/2014. (X. 18.) NFM rendelethez
+„10. melléklet a 19/2010. (XII. 3.) NFM rendelethez
+A 2/B. § szerinti földgázforrás ára 2014. negyedik negyedévre
+1. A Magyar Földgázkereskedő Zrt., mint volt közüzemi nagykereskedő által a GET 141/C. § (2) bekezdése szerinti
+földgázkereskedő részére értékesítendő, nem földgáztárolóból beszerzett földgázforrás mennyisége és ára
+A B
+1. Nem földgáztárolóból beszerzett földgázforrás
+mennyisége (TJ)
+Nem földgáztárolóból beszerzett földgázforrás
+ára (Ft/MJ)
+2. 1168 1,904
+2. A Magyar Földgázkereskedő Zrt., mint volt közüzemi nagykereskedő által a GET 141/C. § (2) bekezdése szerinti
+földgázkereskedő részére értékesítendő, földgáztárolóból beszerzett földgázforrás mennyisége és ára
+A B
+1. Földgáztárolóból beszerzett földgázforrás
+mennyisége (TJ)
+Földgáztárolóból beszerzett földgázforrás ára
+(Ft/MJ)
+2. – –
+ ”
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: Budapest V., Kossuth tér 4.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
+A Magyar Közlöny oldalhű másolatát papíron kiadja a Magyar Közlöny Lap- és Könyvkiadó.
+Felelős kiadó: Majláth Zsolt László ügyvezető.
