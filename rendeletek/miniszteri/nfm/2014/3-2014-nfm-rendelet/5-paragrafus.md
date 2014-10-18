@@ -1,24 +1,26 @@
-5. § (1) Elismerés adományozására a következő alkalmakból kerül sor:
+5. § (1)[^3] Elismerés adományozására a következő alkalmakból kerül sor:
 
 a) március 15-i nemzeti ünnep,
 
-b) Űrhajózás Világnapja (április 12.),
+b) Fogyasztóvédelmi Világnap (március 15.),
 
-c) Közszolgálati Tisztviselők Napja (július 1.),
+c) Űrhajózás Világnapja (április 12.),
 
-d) Vasutasnap (július 10.),
+d) Közszolgálati Tisztviselők Napja (július 1.),
 
-e) augusztus 20-i állami ünnep,
+e) Vasutasnap (július 10.),
 
-f) Bányásznap (minden év szeptember hónap első vasárnapja),
+f) augusztus 20-i állami ünnep,
 
-g) október 23-i nemzeti ünnep,
+g) Bányásznap (minden év szeptember hónap első vasárnapja),
 
-h) Borbála-nap (december 4.),
+h) október 23-i nemzeti ünnep,
 
-i) Nemzetközi Polgári Repülés Világnapja (december 7.),
+i) Borbála-nap (december 4.),
 
-j) kiemelkedő szakmai alkalom, esemény, évforduló.
+j) Nemzetközi Polgári Repülés Világnapja (december 7.),
+
+k) kiemelkedő szakmai alkalom, esemény, évforduló.
 
 (2) Az elismerést a miniszter vagy az általa megbízott személy ünnepélyes keretek között adja át. Ha az elismerésben részesített az adományozás és az átadás közötti időben elhalálozik, az elismerést a törvényes örökösnek kell kiadni.
 
@@ -29,3 +31,5 @@ j) kiemelkedő szakmai alkalom, esemény, évforduló.
 (5) Az elismerések adományozásáról és visszavonásáról a minisztérium nyilvántartást vezet. A nyilvántartás tartalmazza az elismerésben részesített 1. mellékletben foglalt adatait, az elismerés megnevezését, az elismerés adományozásának időpontját, valamint az elismerés esetleges visszavonásának tényét és időpontját.
 
 (6) A Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a minisztérium honlapján közzé kell tenni az elismerés tényét, az elismerésben részesített nevét, beosztását és érdemeit, az elismerés megnevezését, továbbá az elismerés esetleges visszavonásának tényét és időpontját.
+
+[^3]: Az 5. § (1) bekezdése a 41/2014. (X. 15.) NFM rendelet 3. §-ával megállapított szöveg.

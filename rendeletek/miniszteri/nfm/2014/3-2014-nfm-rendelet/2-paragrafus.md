@@ -28,7 +28,9 @@ e) A Magyar Polgári Repülésért Érdemérem,
 
 f) A Magyar Űrkutatásért Érdemérem,
 
-g) A Magyar Prosperitásért Érdemérem.
+g) A Magyar Prosperitásért Érdemérem,
+
+h)[^1] A Fogyasztóvédelemért Érdemérem.
 
 (3) A miniszter által adományozható szakmai elismerések a következők:
 
@@ -47,3 +49,5 @@ b) Kiváló Bányász kitüntető cím.
 (8) A Kiváló Bányász kitüntető címmel adományozó okirat és viselhető kitűző jár.
 
 (9) A pénzjutalom összegét – a Gyimesi Zoltán-díjjal járó pénzjutalom kivételével – a Nemzeti Fejlesztési Minisztérium (a továbbiakban: minisztérium) biztosítja a költségvetéséből. A Gyimesi Zoltán-díjjal járó pénzjutalmat az Országos Atomenergia Hivatal (a továbbiakban: OAH) költségvetése biztosítja.
+
+[^1]: A 2. § (2) bekezdés h) pontját a 41/2014. (X. 15.) NFM rendelet 1. §-a iktatta be.

@@ -8,7 +8,9 @@ b) a Magyar Polgári Repülésért Érdemérem esetében a polgári légiközlek
 
 c) a Kiváló Bányász kitüntető cím esetében a szakma reprezentatív munkaadói és munkavállalói érdekképviseleti szervezetei együttesen,
 
-d) a Gyimesi Zoltán-díj esetében az OAH főigazgatója és az OAH Tudományos Tanácsának elnöke együttesen.
+d) a Gyimesi Zoltán-díj esetében az OAH főigazgatója és az OAH Tudományos Tanácsának elnöke együttesen,
+
+e)[^2] a Fogyasztóvédelemért Érdemérem esetében a fogyasztóvédelemért felelős miniszter vezetése alatt álló minisztérium szervezeti és működési szabályzatában kijelölt szakmai vezető.
 
 (3) Az elismerés adományozására vonatkozó javaslatot az elismerés adományozásának tervezett időpontja előtt legalább 45 nappal a miniszternek címezve – az 1. melléklet szerinti formai és tartalmi követelmények szerint – kell benyújtani a minisztérium elismeréshez kapcsolódó szakterületért felelős önálló szervezeti egységénél.
 
@@ -27,3 +29,5 @@ d) jogi ügyekért felelős főosztályának vezetője.
 (6) Az elismeréshez kapcsolódó szakterületért felelős államtitkár képviselője az üléseken meghívottként részt vehet.
 
 (7) A Kitüntetési Bizottság működését ügyrend szabályozza.
+
+[^2]: A 3. § (2) bekezdés e) pontját a 41/2014. (X. 15.) NFM rendelet 2. §-a iktatta be.
