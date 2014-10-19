@@ -8,6 +8,6 @@
 
 | 2. | OERG Kft. | 7,138 | 1,983 |
 
-6. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^35]
+6. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^40]
 
-[^35]: A 6. mellékletet a 78/2012. (XII. 22.) NFM rendelet 33. §-a iktatta be, szövege a 39/2014. (IX. 30.) NFM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^40]: A 6. mellékletet a 78/2012. (XII. 22.) NFM rendelet 33. §-a iktatta be, szövege a 39/2014. (IX. 30.) NFM rendelet 5. § (5) bekezdésével megállapított szöveg.

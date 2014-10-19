@@ -1,3 +1,3 @@
-## 2/A. §[^3] A GET 141. § (1) bekezdése szerint a volt közüzemi nagykereskedő által vételre felajánlott és az egyetemes szolgáltatóval a GET 141. § (5) bekezdése szerinti szerződésben meghatározott földgázforrás árát – a szállítási rendszerüzemeltetési díj, a földgáztárolási díj, a nagykereskedői árrés, valamint a mobilfinanszírozási költség kivételével – az 5. melléklet tartalmazza.
+## 2/B. §[^4] A volt közüzemi nagykereskedő által vételre felajánlott és a GET 141/C. § (2) bekezdése szerinti földgázkereskedővel kötött szerződésben meghatározott földgázforrás árát – amely az árképzési rendelet szerint meghatározott egyetemes szolgáltatási árelemeket tartalmazza a nagykereskedői árrés, a szállítási és tárolási díj, a mobilgáz-finanszírozási költség, az elosztási díj és az egyetemes szolgáltatói árrés kivételével – a 10. melléklet tartalmazza. A földgázforrás mennyiségét a 10. melléklet a földgáztárolóból és a nem földgáztárolóból származó mennyiségek szerinti bontásban tartalmazza.
 
-[^3]: A 2/A. §-t a 38/2012. (VII. 3.) NFM rendelet 4. §-a iktatta be.
+[^4]: A 2/B. §- t a 43/2014. (X. 18.) NFM rendelet 1. §-a iktatta be.

@@ -8,6 +8,6 @@
 
 | 3. | TIGÁZ Zrt. | 3078 | 0,907 |
 
-5. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^34]
+5. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^39]
 
-[^34]: Az 5. mellékletet újonnan a 38/2012. (VII. 3.) NFM rendelet 8. §-a iktatta be, szövege a 39/2014. (IX. 30.) NFM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^39]: Az 5. mellékletet újonnan a 38/2012. (VII. 3.) NFM rendelet 8. §-a iktatta be, szövege a 39/2014. (IX. 30.) NFM rendelet 5. § (4) bekezdésével megállapított szöveg.

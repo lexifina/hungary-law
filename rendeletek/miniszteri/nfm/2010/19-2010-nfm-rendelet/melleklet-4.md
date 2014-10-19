@@ -6,6 +6,6 @@
 
 | 2. | Magyar Földgázkereskedő Zrt. | 2908 | 0,907 |
 
-4. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^33]
+4. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^38]
 
-[^33]: A 4. melléklet a 39/2014. (IX. 30.) NFM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^38]: A 4. melléklet a 39/2014. (IX. 30.) NFM rendelet 5. § (3) bekezdésével megállapított szöveg.

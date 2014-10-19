@@ -1,14 +1,12 @@
-6/A. §[^25] (1) A GET 141/C. §-a alapján az egyetemes szolgáltatási engedéllyel nem rendelkező volt közüzemi nagykereskedő a GET 141/C. § (2) bekezdése szerinti földgázkereskedővel szemben
+6/A. §[^29] (1)[^30] A GET 141/C. §-a alapján felajánlott forrás esetében az egyetemes szolgáltatási engedéllyel nem rendelkező volt közüzemi nagykereskedő a GET 141/C. § (2) bekezdése szerinti földgázkereskedővel szemben az alábbi díjakat jogosult érvényesíteni – ide nem értve a vámot, adókat, illetékeket, a szerződés szerinti pótdíjakat és szerződésszegési következményeket –:
 
-a) a földgázforrásnak az árképzési rendelet 1. melléklete szerint kiszámított árát,
+a) a földgázforrásnak a 10. melléklet szerinti árát,
 
 b) az árképzési rendelet 2. § (1) bekezdés e) pontjában meghatározott és a Hivatal honlapján közzétett nagykereskedői árrést,
 
-c) szállítóvezetéki kilépési ponton történő értékesítés esetén az árképzési rendelet 2. § (1) bekezdés d) pontjában meghatározott és a Hivatal honlapján közzétett mobilgáz-finanszírozási költséget és
+c) az árképzési rendelet 2. § (1) bekezdés d) pontjában meghatározott és a Hivatal honlapján közzétett mobilgáz-finanszírozási költséget és
 
-d) a szállítási rendszerüzemeltetés és földgáztárolás fajlagos díját a 8. melléklet szerint
-
-## jogosult érvényesíteni.
+d) a szállítási rendszerüzemeltetés és földgáztárolás 8. melléklet szerinti fajlagos díját.
 
 (2) A Hivatal az (1) bekezdés d) pontjában meghatározott fajlagos díjat újraszámítja, ha
 
@@ -18,4 +16,5 @@ b) az árképzési rendelet 3. § (1) bekezdés d) pontja szerinti díjra vonatk
 
 (3) A GET 141/C. § (2) bekezdése szerinti földgázkereskedő a GET 141/C. § (4) bekezdése szerint ellátott felhasználói tekintetében a MEKH rendelet szerinti földgázelosztási díjjal megegyező földgázelosztási díjat és legfeljebb az árképzési rendelet 2. § (1) bekezdés a) pontja szerinti egyetemes szolgáltatói árréssel megegyező árrést alkalmazhat.
 
-[^25]: A 6/A. §-t újonnan a 14/2014. (III. 31.) NFM rendelet 7. §-a iktatta be.
+[^29]: A 6/A. §-t újonnan a 14/2014. (III. 31.) NFM rendelet 7. §-a iktatta be.
+[^30]: A 6/A. § (1) bekezdése a 43/2014. (X. 18.) NFM rendelet 6. §-ával megállapított szöveg.
