@@ -1,4 +1,6 @@
-2. melléklet az 1186/2014. (III. 28.) Korm. határozathoz
+2. melléklet az 1186/2014. (III. 28.) Korm. határozathoz[^6]
+
+4K14236N_0
 
 |  | A | B | C | D | E | F | G | H | I |
 
@@ -8,6 +10,8 @@
 
 | 3. | KEOP- 1.3.0/09- 11-2012- 0009 | Békés megyei Ivóvízminőség- javító Program | „Közép-Békési Térség” Ivóvízminőség-javító Önkormányzati Társulás | 33 662 749 515 | 198 759 113 | 33 861 508 628 | 88,967950 | A projekt célja a „Közép-Békési Térség” Ivóvízminőség-javító Önkormányzati Társulásban részt vevő 66 település 309 300 lakosának egészséges ivóvízzel való ellátása, a fogyasztásból eredő egészségügyi kockázatok csökkentése, a derogációs kötelezettség teljesítése. |  |
 
-| 4. | KEOP- 1.2.0/2F- 2009-0001 | Érd és térsége szennyvíztisztító telep rekonstrukciója és bővítése és szennyvízelvezető rendszer fejlesztése | Érd és Térsége Szennyvízelvezetési- és Szennyvíztisztítási Önkormányzati Társulás | 28 693 077 830 | 200 157 838 | 28 893 235 668 | 91,396273 | Cél a csatornázottság növelése Érd, Diósd és Tárnok településeken, valamint a szennyvíztisztító telep rekonstrukciója és kapacitásának bővítése. Az újonnan kiépítésre kerülő gyűjtőhálózat teljes hossza mintegy 322 km, melyből közel 20 km a nyomott vezetékek hosszúsága. | Kifizetési feltétel, hogy a megnövekedett többletforrással arányos önerő rendelkezésre állását a támogatást igénylő igazolja. |
+| 4. |  |  |  |  |  |  |  |  |  |
 
 | 5. | KEOP- 1.3.0/09- 11-2013- 0012 | Szigetbecse települési ivóvízminőség- javító projekt | Szigetbecse Község Önkormányzata | 147 361 500 | 39 771 000 | 187 132 500 | 90,000000 | A projekt célja a 3 db kútból nyert nyersvíz vas-, mangán-, ammónia- és arzéntartalmának határérték alá csökkentése, ezáltal megfelelő minőségű ivóvíz biztosítása Szigetbecse lakosainak. | Kifizetési feltételek: 1. A támogatást igénylőnek a közbeszerzési eljárást eredményesen le kell zárnia. 2. A támogatást igénylőnek el kell fogadnia, hogy ha a közbeszerzési eljárás során alacsonyabb összeget tartalmazó árajánlatot benyújtó ajánlattévő kerül nyertesként kihirdetésre, akkor a támogató jogosult a támogatási szerződés módosítása során ezen alacsonyabb összegnek megfelelően csökkentett támogatás támogatási szerződésben történő rögzítésére. 3. A kiviteli közbeszerzési eljárás vonatkozásában rendelkezésre kell állnia a Miniszterelnökség Közbeszerzési Felügyeleti Főosztálya által kiállított szabályossági tanúsítványnak. 4. A megnövekedett többletforrással arányos önerő rendelkezésre állását igazolni kell. |
+
+[^6]: A 2. melléklet az 1592/2014. (X. 21.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
