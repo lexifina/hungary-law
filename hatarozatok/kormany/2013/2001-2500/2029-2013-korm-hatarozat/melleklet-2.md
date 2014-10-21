@@ -1,4 +1,4 @@
-2. melléklet a 2029/2013. (XII. 29.) Korm. határozathoz
+2. melléklet a 2029/2013. (XII. 29.) Korm. határozathoz[^4]
 
 |  | A | B | C | D | E | F | G |
 
@@ -80,4 +80,6 @@
 
 | 39. | KEOP-1.2.0/B/10- 2010-0060 | Zomba szennyvízkezelésének fejlesztése | Zomba Község Önkormányzata | 761 076 612 | 849 995 575 | 88 918 963 | – |
 
-| 40. | KEOP-1.2.0/2F- 2009-0001 | Érd és térsége szennyvíztisztító telep rekonstrukciója és bővítése és szennyvízelvezető rendszer fejlesztése | Érd és Térsége Szennyvízelvezetési és Szennyvíztisztítási Önkormányzati Társulás | 24 456 038 410 | 28 693 077 830 | 4 237 039 420 | – |
+| 40. |  |  |  |  |  |  |  |
+
+[^4]: A 2. melléklet az 1592/2014. (X. 21.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
