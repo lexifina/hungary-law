@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-181-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-07-26 | 2014-181-20-22.1 | 181/2014. (VII. 25.) Korm. rendelet |
+| 2014-10-22 | 2014-181-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
