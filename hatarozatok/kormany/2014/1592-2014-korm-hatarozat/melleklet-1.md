@@ -12,11 +12,7 @@
 
 ## Határidő: azonnal
 
-## 4. visszavonja
-
-## a) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 1. prioritásának módosításáról és a prioritás keretében megvalósítani tervezett projektek megvalósításához szükséges forrás biztosításáról szóló 2029/2013. (XII. 29.) Korm. határozat 2. mellékletében foglalt táblázat 40. sorát, és
-
-## b) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 1. prioritásának módosításáról, valamint egyes nagyprojektek támogatásának növeléséről szóló 1186/2014. (III. 28.) Korm. határozat 2. pont c) alpontját és a 2. mellékletében foglalt táblázat 4. sorát.
+## 4.[^2]
 
 1. melléklet az 1592/2014. (X. 21.) Korm. határozathoz
 
@@ -27,3 +23,5 @@
 | 2. | KEOP uniós forrása (nettó Ft) | KEOP hazai forrása (nettó Ft) |
 
 | 3. | KEOP- 1.2.0/2F-2009- 0001 | Érd és térsége szennyvíztisztító telep rekonstrukciója és bővítése és szennyvízelvezető rendszer fejlesztése | Érd és Térsége Szennyvízelvezetési- és Szennyvíztisztítási Önkormányzati Társulás | 31 613 144 300 | 20 932 643 498 | 3 693 995 912 | 77,9 | Cél a csatornázottság növelése Érd, Diósd és Tárnok településeken, valamint a szennyvíztisztító telep rekonstrukciója és kapacitásának bővítése. Az újonnan kiépítésre kerülő gyűjtőhálózat teljes hossza mintegy 322 km, amelyből közel 20 km a nyomott vezetékek hosszúsága. |
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
