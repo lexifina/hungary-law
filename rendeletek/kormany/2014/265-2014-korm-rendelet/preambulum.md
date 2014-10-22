@@ -1,0 +1,1 @@
+A Kormány a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény 57. § (3) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
