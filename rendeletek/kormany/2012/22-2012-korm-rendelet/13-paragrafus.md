@@ -12,10 +12,10 @@
 
 (6)[^27] A bortörvény 43/C. § (1) és (2) bekezdésében foglaltak tekintetében a Kormány növénytermesztési hatóságként a NÉBIH-et jelöli ki.
 
-(7)[^28] A továbbfeldolgozási vagy kiszerelési céllal Magyarország területére behozott, az Európai Gazdasági Térség valamely szerződő államában közfogyasztásra forgalomba még nem hozott borászati termék bor származási bizonyítványának kiállításához szükséges igazolás kiállítására a Kormány a NÉBIH-et jelöli ki. Az igazolás kiállítása során a NÉBIH a bortétel és a kísérődokumentumban foglaltak egyezőségét vizsgálja. Az igazolást 90 napon belül kell kiállítani.
+(7)[^28] A továbbfeldolgozási vagy kiszerelési céllal Magyarország területére behozott, az Európai Gazdasági Térség valamely szerződő államában közfogyasztásra forgalomba még nem hozott borászati termék bor származási bizonyítványának kiállításához szükséges igazolás kiállítására a Kormány a NÉBIH-et jelöli ki. Az igazolás kiállítása során a NÉBIH a bortétel és a kísérődokumentumban foglaltak egyezőségét vizsgálja. Az igazolást 90 napon belül kell kiállítani, amely határidő egy alkalommal további 90 nappal meghosszabbítható.
 
 [^24]: A 13. § (1) bekezdése a 98/2014. (III. 25.) Korm. rendelet 11. § (5) bekezdésével megállapított szöveg.
 [^25]: A 13. § (3) bekezdése a 68/2013. (III. 8.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^26]: A 13. § (5) bekezdését a 68/2013. (III. 8.) Korm. rendelet 5. § (3) bekezdése iktatta be.
 [^27]: A 13. § (6) bekezdését a 68/2013. (III. 8.) Korm. rendelet 5. § (4) bekezdése iktatta be.
-[^28]: A 13. § (7) bekezdését a 175/2014. (VII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^28]: A 13. § (7) bekezdését a 175/2014. (VII. 18.) Korm. rendelet 1. §-a iktatta be, szövege a 265/2014. (X. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
