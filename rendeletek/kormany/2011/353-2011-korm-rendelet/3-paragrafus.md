@@ -1,6 +1,6 @@
 ## 2. Az önkormányzat ügyleteinek engedélyezése
 
-3. § (1)[^3] A tárgyévben várható adósságot keletkeztető ügyleteiről – a likvid hitel, az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez szükséges reorganizációs hitel és a stabilitási törvény 10. § (10) bekezdése szerinti adósságmegújító ügylet kivételével – az önkormányzat a költségvetési rendeletének, határozatának elfogadását követően, de legkésőbb március 16-áig a kincstár által üzemeltetett elektronikus rendszerben szereplő adatlapon – e rendszeren keresztül – adatot szolgáltat a kincstár önkormányzat székhelye szerint illetékes területi szervének (a továbbiakban: Igazgatóság).
+3. § (1)[^4] A tárgyévben várható adósságot keletkeztető ügyleteiről – a likvid hitel, az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez szükséges reorganizációs hitel és a stabilitási törvény 10. § (10) bekezdése szerinti adósságmegújító ügylet (a továbbiakban: adósságmegújító ügylet) kivételével – az önkormányzat a költségvetési rendeletének, határozatának elfogadását követően, de legkésőbb március 16-áig a kincstár által üzemeltetett elektronikus rendszerben szereplő adatlapon – e rendszeren keresztül – adatot szolgáltat a kincstár önkormányzat székhelye szerint illetékes területi szervének (a továbbiakban: Igazgatóság).
 
 (2) Az (1) bekezdésben meghatározott adatszolgáltatásban meg kell jelölni
 
@@ -16,11 +16,11 @@ e) az ügylet várható egybeszámított értékét, amely során az egyazon fej
 
 f) a tárgyévi saját bevétel összegét,
 
-g)[^4] a tárgyévet megelőző években keletkezett ügyletekből eredő fizetési kötelezettségeket, amelyekbe nem számítandó bele a likvid hitelből, az európai uniós vagy más nemzetközi szervezettől elnyert támogatás előfinanszírozásának biztosítására szolgáló adósságot keletkeztető ügyletből, a víziközmű-társulattól annak megszűnése miatt átvett hitelből, és az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelből származó, de beleszámítandó a kezesség-, illetve garanciavállalásból eredő, jogosult által érvényesített fizetési kötelezettség összege, valamint
+g)[^5] a tárgyévet megelőző években keletkezett ügyletekből eredő fizetési kötelezettségeket, amelyekbe nem számítandó bele a likvid hitelből, az európai uniós vagy más nemzetközi szervezettől elnyert támogatás előfinanszírozásának biztosítására szolgáló adósságot keletkeztető ügyletből, a víziközmű-társulattól annak megszűnése miatt átvett hitelből, és az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelből származó, de beleszámítandó a kezesség-, illetve garanciavállalásból eredő, jogosult által érvényesített fizetési kötelezettség összege, valamint
 
 h) ha az adatszolgáltatás benyújtásakor ismert, az ügylet típusát, futamidejét, devizanemét, az adósságállomány keletkezésének ütemezését és az ügyletből eredő várható évenkénti fizetési kötelezettséget.
 
 (3) Az (1) bekezdés szerinti adatszolgáltatás nem minősül hozzájárulás iránti kérelemnek. E kérelmét az önkormányzat az 5. § (1) bekezdése alapján nyújtja be.
 
-[^3]: A 3. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 3. § (2) bekezdés g) pontja az 56/2012. (III. 30.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^4]: A 3. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 1. §-ával megállapított, a 260/2014. (X. 15.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdés g) pontja az 56/2012. (III. 30.) Korm. rendelet 21. §-ával megállapított szöveg.

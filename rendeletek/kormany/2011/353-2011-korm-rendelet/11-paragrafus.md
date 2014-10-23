@@ -1,4 +1,4 @@
-## 10. §[^27] Adósságmegújító ügylet és kezesség-, illetve garanciavállalás esetén nem kell alkalmazni a 3. és 4. §-t, az 5. § (1) bekezdését, az 5. § (2a) bekezdés a)–c), g) és h) pontját, az 5. § (3) bekezdés d) pont db) alpontját, a 6. § (1) bekezdés e) pontját, a 6. § (2) bekezdés a) pontját, a 7. § (1) bekezdés b) pontját, a 9. § (1) bekezdés b) pontját, továbbá adósságmegújító ügylet esetén a 6. § (2a) bekezdését.
+## 10. §[^30] Adósságmegújító ügylet és kezesség-, illetve garanciavállalás esetén nem kell alkalmazni a 3. és 4. §-t, az 5. § (1) bekezdését, az 5. § (2a) bekezdés a)–c), g) és h) pontját, az 5. § (3) bekezdés d) pont db) alpontját, a 6. § (1) bekezdés e) pontját, a 6. § (2) bekezdés a) pontját, a 7. § (1) bekezdés b) pontját, a 9. § (1) bekezdés b) pontját, továbbá adósságmegújító ügylet esetén a 6. § (2a) bekezdését.
 
 ## 3. A kormányzati szektorba sorolt egyéb szervezetek ügyleteinek engedélyezése
 
@@ -16,4 +16,4 @@ a) a kormányzati szektorba sorolt egyéb szervezetnek a kérelem benyújtását
 
 b) a kormányzati szektorba sorolt egyéb szervezet tárgyévi üzleti tervét vagy nyilatkozatot arról, hogy üzleti terv készítését az alapító, tulajdonos szervezet, illetve az alapítói, tulajdonosi jogokat gyakorló szervezet nem írta elő.
 
-[^27]: A 10. § a 497/2013. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^30]: A 10. § a 497/2013. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
