@@ -1,6 +1,7 @@
-## 4. §[^4]
+## 4. §[^5]
 
-## 5.[^5]
+## 5. Az adósságot keletkeztető ügyletekhez történő hozzájárulás részletes szabályairól szóló
 
-[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 5. alcím (5–10. §) a 14. § (2) bekezdése alapján 2014. október 23-án lép hatályba.
+## 353/2011. (XII. 30.) Korm. rendelet módosítása
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
