@@ -1,4 +1,4 @@
-## 14. § Hatályát veszti az illetékbélyegek forgalomba hozataláról szóló 38/2004. (VIII. 16.) PM rendelet.
+## 14. §[^1]
 
 1. melléklet a 32/2014. (X. 21.) NGM rendelethez
 
@@ -63,3 +63,5 @@ Szűkebb hullámhossztartományban sugárzó UV lámpákkal vizsgálva – speci
 – 1000 forintos címletű illetékbélyeg esetében sötétvörös helyett bordó;
 
 – 5000 forintos címletű illetékbélyeg esetében vörös helyett sötétvörös.
+
+[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
