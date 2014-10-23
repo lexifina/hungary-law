@@ -1,3 +1,0 @@
-## 1. § A Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet (a továbbiakban: R.) 13. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-## „(7) A továbbfeldolgozási vagy kiszerelési céllal Magyarország területére behozott, az Európai Gazdasági Térség valamely szerződő államában közfogyasztásra forgalomba még nem hozott borászati termék bor származási bizonyítványának kiállításához szükséges igazolás kiállítására a Kormány a NÉBIH-et jelöli ki. Az igazolás kiállítása során a NÉBIH a bortétel és a kísérődokumentumban foglaltak egyezőségét vizsgálja. Az igazolást 90 napon belül kell kiállítani, amely határidő egy alkalommal további 90 nappal meghosszabbítható.”
