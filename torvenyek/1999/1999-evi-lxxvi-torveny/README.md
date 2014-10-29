@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-76-00-00
 | 2014-01-01 | 2013. évi CLIX. törvény | 1999-76-00-00.25 |
 | 2014-03-04 | 2014. évi XIV. törvény | 1999-76-00-00.26 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1999-76-00-00.27 |
+| 2014-10-29 | 2013. évi CLIX. törvény | 1999-76-00-00.28 |

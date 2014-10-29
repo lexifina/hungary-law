@@ -1,0 +1,1 @@
+41/K. § Az árva mű kedvezményezett intézmény által történő felhasználásával kapcsolatos részletes szabályokat és a 41/I. § (2) bekezdése szerinti megfelelő díjazás feltételeit kormányrendelet állapítja meg.
