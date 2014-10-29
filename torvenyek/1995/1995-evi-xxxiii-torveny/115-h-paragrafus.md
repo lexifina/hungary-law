@@ -12,7 +12,7 @@ b) nemzetközi szabadalmi, ipari mintaoltalmi, védjegy- és eredetmegjelölési
 
 (4) A Hivatal a szerzői és a szerzői joghoz kapcsolódó jogokkal összefüggésben – külön jogszabályok alapján – különösen a következő feladatokat látja el:
 
-a) engedélyezi a felhasználást ismeretlen vagy ismeretlen helyen tartózkodó szerző alkotása (árva mű) esetén és nyilvántartást vezet erről,
+a) lefolytatja az árva művek felhasználásával összefüggő eljárásokat és az árva művek felhasználására kiadott engedélyekről nyilvántartást vezet,
 
 b) nyilvántartást vezet a szerzői és a szomszédos jogok közös kezelését végző szervezetekről,
 
