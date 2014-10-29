@@ -17,3 +17,8 @@ b) jogerős használatbavételi vagy fennmaradási engedéllyel rendelkező elek
 c) jogszerűen épült elektronikus hírközlési célú alépítményi csőhálózatba, közmű alagútba, metró alagútba történő kábelbehúzásra, illetve jogszerűen épült tartószerkezetekre, oszlopokra történő vezetékek, kábelek elhelyezésére, bontására irányuló
 
 építési tevekénység esetén a 19. § (7) bekezdésében foglalt eljárás szerinti utólagos bejelentést kell tenni.
+
+(5)[^3] Az e-építési naplót az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló 14/2013. (IX. 25.) NMHH rendelet módosításáról szóló 7/2014. (X. 21.) NMHH rendelet hatálybalépését[^4] követő ötödik hónap első napját követően megkezdett kivitelezések esetében kell alkalmazni.
+
+[^3]: A 27. § (5) bekezdését a 7/2014. (X. 21.) NMHH rendelet 2. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2014. október 29.
