@@ -1,0 +1,3 @@
+7. § (1) A felhasználási engedély visszavonására irányuló kérelem elbírálására a felhasználási engedély iránti kérelem elbírálására irányadó rendelkezések a (2) bekezdésben foglalt eltéréssel alkalmazandók.
+
+(2) A Hivatal a felhasználási engedély visszavonásáról szóló határozatában rendelkezik a jogosult kiléte vagy tartózkodási helye ismertté válásáig és az ettől az időponttól számított egy évig, de legfeljebb az engedély alapján még hátralévő időtartamban folytatható felhasználás arányos díjáról, és – abban az esetben, ha azt letétbe helyezték – szükség esetén a felhasználási engedélyben meghatározott és letétbe helyezett díj, valamint a Hivatal által a visszavonásról szóló határozatban meghatározott felhasználási díj közötti különbözet visszautalásáról.
