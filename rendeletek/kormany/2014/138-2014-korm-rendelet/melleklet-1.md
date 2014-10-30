@@ -1,4 +1,4 @@
-## 16. § Hatályát veszti az árva mű egyes felhasználásainak engedélyezésére vonatkozó részletes szabályokról szóló 100/2009. (V. 8.) Korm. rendelet.
+## 16. §[^2]
 
 1. melléklet a 138/2014. (IV. 30.) Korm. rendelethez
 
@@ -25,3 +25,5 @@ g) az Szjt. 41/F. § (4) alapján benne foglalt vagy más irodalmi mű szerves r
 4. Ha a felhasznált műnek vagy teljesítménynek több jogosultja van, a díjazás a jogosultakat együttesen és – kétség esetén – egyenlő arányban illeti meg.
 
 5. Az e mellékletben meghatározott díjak nem érintik a jogosultaknak a szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezelésében érvényesített díjait és díjigényeit, és kizárólag az Szjt. 41/F. § szerinti felhasználás vonatkozásában tekinthetőek irányadónak.
+
+[^2]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
