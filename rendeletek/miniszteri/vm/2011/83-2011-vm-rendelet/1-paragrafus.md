@@ -22,7 +22,7 @@
 
 10.[^7] a borászati üzem borászatitermék-tárolási kapacitása: az a hektoliterben kifejezett mennyiség, amely a borászati üzemben a gyártástechnológia műszaki feltételeinek betartása mellett a támogatási kérelem benyújtásának időpontjában maximálisan tárolható;
 
-11.[^8] időtálló és a gép egyedi azonosítására alkalmas jelölés: az üzemeltetési időszak alatt a beszerzett gép azonosítására szolgáló, a gyártó által feltüntetett vagy rögzített fizikailag nyomtalanul eltávolíthatatlan jelölés.
+11.[^8] időtálló és a gép egyedi azonosítására alkalmas jelölés: az üzemeltetési időszak alatt a beszerzett gép azonosítására szolgáló, a gyártó vagy forgalmazó által feltüntetett vagy rögzített fizikailag nyomtalanul eltávolíthatatlan jelölés.
 
 [^1]: Az 1. § 1. pontja a 101/2013. (XI. 4.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 2. pontja a 101/2013. (XI. 4.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
@@ -31,4 +31,4 @@
 [^5]: Az 1. § 5. pontját a 101/2013. (XI. 4.) VM rendelet 16. § (1) bekezdés a) pontja hatályon kívül helyezte.
 [^6]: Az 1. § 9. pontját a 101/2013. (XI. 4.) VM rendelet 3. § (4) bekezdése iktatta be.
 [^7]: Az 1. § 10. pontját a 101/2013. (XI. 4.) VM rendelet 3. § (4) bekezdése iktatta be.
-[^8]: Az 1. § 11. pontját a 101/2013. (XI. 4.) VM rendelet 3. § (4) bekezdése iktatta be.
+[^8]: Az 1. § 11. pontját a 101/2013. (XI. 4.) VM rendelet 3. § (4) bekezdése iktatta be, szövege a 18/2014. (X. 29.) FM rendelet 21. §-a szerint módosított szöveg.
