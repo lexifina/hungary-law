@@ -1,4 +1,4 @@
-## 10. §[^8] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet és az EK-Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról szóló, 2007. július 24-i 875/2007/EK bizottsági rendelet hatálya alá tartozó támogatásokat tartalmaz.
+## 10. §[^10] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet és az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra- ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet hatálya alá tartozó támogatásokat tartalmaz.
 
 1. melléklet a 108/2013. (XI. 28.) VM rendelethez
 
@@ -32,4 +32,4 @@ n – naptári évek száma, a támogatástartalom a kamattámogatási kérelem 
 
 r – a kamattámogatási kérelem benyújtása hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam.
 
-[^8]: A 10. § a 36/2014. (IV. 4.) VM rendelet 99. §-ával megállapított szöveg.
+[^10]: A 10. § a 18/2014. (X. 29.) FM rendelet 50. §-ával megállapított szöveg.

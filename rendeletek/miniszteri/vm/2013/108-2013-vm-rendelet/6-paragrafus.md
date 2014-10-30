@@ -10,6 +10,6 @@ b) amely megfizette a lehívási kérelemben feltüntetett kamatokat.
 
 (4) Az MVH a lehívási kérelem beérkezését követő harminc napon belül döntést hoz, és a kamattámogatást a forrás rendelkezésre állása esetén a döntést követő tizenöt napon belül folyósítja az élelmiszeripari vállalkozás részére.
 
-(5)[^7] E rendelet szerinti általános csekély összegű (de minimis) támogatás vonatkozásában az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet 6. cikk 4. pontja szerinti nyilvántartást az MVH vezeti.
+(5)[^9] E rendelet szerinti általános csekély összegű (de minimis) támogatás vonatkozásában az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet 6. cikk 4. pontja szerinti nyilvántartást az MVH vezeti.
 
-[^7]: A 6. § (5) bekezdése a 36/2014. (IV. 4.) VM rendelet 98. §-ával megállapított szöveg.
+[^9]: A 6. § (5) bekezdése a 36/2014. (IV. 4.) VM rendelet 98. §-ával megállapított szöveg.

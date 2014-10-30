@@ -8,7 +8,7 @@ ba) nem rendelkezik adók módjára behajtható köztartozással vagy lejárt es
 
 bb) nem áll felszámolási, végelszámolási eljárás alatt,
 
-bc)[^4]
+bc)[^5]
 
 bd) megfelel a rendezett munkaügyi kapcsolatok feltétel követelményeinek,
 
@@ -22,14 +22,14 @@ cb) milyen mértékű kamattámogatást kíván igénybe venni;
 
 d) vállalja, hogy a hitelszerződés módosítása esetén annak bekövetkezésétől számított harminc napon belül az új hitelszerződés másolatát megküldi az MVH részére;
 
-e)[^5] megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
+e)[^6]
 
-(2)[^6] Kamattámogatás a hitelprogram keretében olyan – ideértve az élelmiszeripai célú forgóeszköz hitel kiváltását szolgáló – 2014. december 31-éig megkötött hitelszerződés esetén nyújtható,
+(2)[^7] Kamattámogatás a hitelprogram keretében olyan – ideértve az élelmiszeripai célú forgóeszköz hitel kiváltását szolgáló – 2014. december 31-éig megkötött hitelszerződés esetén nyújtható,
 
 a) amelynek a lejárata legfeljebb 6 év, azon belül legfeljebb 3 év türelmi idővel,
 
 b) amelynek a hitelösszege legalább 5 millió forint, legfeljebb 500 millió forint.
 
-[^4]: A 3. § (1) bekezdés b) pont bc) alpontját a 36/2014. (IV. 4.) VM rendelet 100. §-a hatályon kívül helyezte.
-[^5]: A 3. § (1) bekezdés e) pontját a 36/2014. (IV. 4.) VM rendelet 97. §-a iktatta be.
-[^6]: A 3. § (2) bekezdés nyitó szövegrésze a 15/2014. (X. 9.) FM rendelet 13. §-a szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés b) pont bc) alpontját a 36/2014. (IV. 4.) VM rendelet 100. §-a hatályon kívül helyezte.
+[^6]: A 3. § (1) bekezdés e) pontját a 36/2014. (IV. 4.) VM rendelet 97. §-a iktatta be, hatályon kívül helyezte a 18/2014. (X. 29.) FM rendelet 52. §-a.
+[^7]: A 3. § (2) bekezdés nyitó szövegrésze a 15/2014. (X. 9.) FM rendelet 13. §-a szerint módosított szöveg.

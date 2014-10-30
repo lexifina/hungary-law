@@ -2,6 +2,6 @@
 
 (2) A kamattámogatás mértéke az élelmiszeripari vállalkozás rendelkezésére álló szabad csekély összegű (de minimis) keret figyelembevételével legfeljebb a hitelkamat 50%-a, de legfeljebb évi 4 százalékpont lehet.
 
-(3)[^3] A kamattámogatás forrása a Vidékfejlesztési Minisztérium 10032000-01220191-51200002 számú, Folyó kiadások és jövedelemtámogatások fejezeti kezelésű előirányzat-felhasználási keretszámla.
+(3)[^4] A kamattámogatás forrása a Földművelésügyi Minisztérium 10032000-01220191-51200002 számú, Folyó kiadások és jövedelemtámogatások fejezeti kezelésű előirányzat-felhasználási keretszámla.
 
-[^3]: A 2. § (3) bekezdése a 130/2013. (XII. 21.) VM rendelet 51. §-ával megállapított szöveg.
+[^4]: A 2. § (3) bekezdése a 130/2013. (XII. 21.) VM rendelet 51. §-ával megállapított, a 18/2014. (X. 29.) FM rendelet 51. §-a szerint módosított szöveg.
