@@ -16,6 +16,6 @@
 
 (8) A termelői szervezetként való elismerés visszavonása esetén a visszavonás időpontját megelőző öt évben a tanácsi rendelet 103a. cikk, valamint végrehajtás alatt lévő működési program esetén a tanácsi rendelet 103d. és 103e. cikke alapján nyújtott támogatás jogosulatlanul igénybe vett támogatásnak minősül.
 
-(9)[^29] Amennyiben a termelői szervezet a 15. § (9) bekezdésében meghatározott jelentését nem vagy nem megfelelően küldi meg, részére támogatás addig nem fizethető ki, amíg a jelentés megküldésre nem kerül és az a hivatkozott formai és tartalmi követelményeknek eleget nem tesz.
+(9)[^38] Amennyiben a termelői szervezet a 15. § (9) bekezdésében meghatározott jelentését nem vagy nem megfelelően küldi meg, részére támogatás addig nem fizethető ki, amíg a jelentés megküldésre nem kerül és az a hivatkozott formai és tartalmi követelményeknek eleget nem tesz.
 
-[^29]: A 25. § (9) bekezdése a 65/2013. (VII. 29.) VM rendelet 29. § c) pontja szerint módosított szöveg.
+[^38]: A 25. § (9) bekezdése a 65/2013. (VII. 29.) VM rendelet 29. § c) pontja szerint módosított szöveg.

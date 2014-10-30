@@ -572,6 +572,6 @@
 
 ## Bár a válság-megelőzési és kezelési tevékenységek elsősorban az időszakosan kialakuló, rövid időtartamú piaci krízisek megelőzését és kezelését szolgálják, azonnali kontroll hiányában hatásuk csak középtávon értékelhető.
 
-6. melléklet a 150/2012. (XII. 28.) VM rendelethez[^36]
+6. melléklet a 150/2012. (XII. 28.) VM rendelethez[^47]
 
-[^36]: A 24. § (6) bekezdése a 65/2013. (VII. 29.) VM rendelet 26. §-ával megállapított szöveg.
+[^47]: A 24. § (6) bekezdése a 65/2013. (VII. 29.) VM rendelet 26. §-ával megállapított szöveg.
