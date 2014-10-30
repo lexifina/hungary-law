@@ -1,1 +1,3 @@
-## 3. § Az R. 1. § (2) bekezdésében az „a 26. § (9) bekezdése szerinti tervezési jogosultsággal rendelkező szaktervezőkre” szövegrész helyébe az „a 26. § (9) bekezdése szerinti tervezési jogosultsággal rendelkező szaktervezőkre, a felelős műszaki vezetőre, az építési műszaki ellenőrre, az építtetői fedezetkezelőre és a kivitelezőre” szöveg lép.
+## 1–3. §[^1]
+
+[^1]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
