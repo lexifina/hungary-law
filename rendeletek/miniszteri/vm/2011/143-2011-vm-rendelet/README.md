@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-143-20-
 | 2014-01-01 | 2011-143-20-2Y.7 | 130/2013. (XII. 21.) VM rendelet |
 | 2014-04-19 | 2011-143-20-2Y.8 | 45/2014. (IV. 18.) VM rendelet |
 | 2014-04-30 | 2011-143-20-2Y.9 | 53/2014. (IV. 29.) VM rendelet |
+| 2014-10-30 | 2011-143-20-2Y.10 | 18/2014. (X. 29.) FM rendelet |

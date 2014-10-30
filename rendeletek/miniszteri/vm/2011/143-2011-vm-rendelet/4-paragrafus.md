@@ -1,6 +1,6 @@
 ## Az „A” típusú mezőgazdasági biztosítás díjának támogatása
 
-4. § (1)[^17] Az „A” típusú mezőgazdasági biztosítás keretében az alábbi növényi kultúrákra köthető mezőgazdasági biztosítási szerződés:
+4. § (1)[^20] Az „A” típusú mezőgazdasági biztosítás keretében az alábbi növényi kultúrákra köthető mezőgazdasági biztosítási szerződés:
 
 1. búza és kétszeres és egyéb búza (kivéve tönkölybúza) (GAB01),
 
@@ -28,7 +28,7 @@
 
 13. hagyományos gyümölcsös körte (HAG15).
 
-(2)[^18] Az „A” típusú mezőgazdasági biztosítás keretében a biztosított növényi kultúra vonatkozásában értelmezhető alábbi kárnemek mindegyikére együttesen kötendő mezőgazdasági biztosítás:
+(2)[^21] Az „A” típusú mezőgazdasági biztosítás keretében a biztosított növényi kultúra vonatkozásában értelmezhető alábbi kárnemek mindegyikére együttesen kötendő mezőgazdasági biztosítás:
 
 a) jégesőkár,
 
@@ -48,5 +48,5 @@ h) tűzkár.
 
 (3) A biztosító a mezőgazdasági biztosítási szerződésben rögzített kárnemek által okozott biztosítási események bekövetkeztét és az (1) bekezdésben felsorolt valamely érintett növényi kultúra károsodását a káraktával igazolja.
 
-[^17]: A 4. § (1) bekezdése a 125/2012. (XII. 10.) VM rendelet 2. §-ával megállapított szöveg.
-[^18]: A 4. § (2) bekezdése a 21/2012. (III. 9.) VM rendelet 17. § (5) bekezdésével megállapított szöveg.
+[^20]: A 4. § (1) bekezdése a 125/2012. (XII. 10.) VM rendelet 2. §-ával megállapított szöveg.
+[^21]: A 4. § (2) bekezdése a 21/2012. (III. 9.) VM rendelet 17. § (5) bekezdésével megállapított szöveg.
