@@ -1,0 +1,1 @@
+## „(4) Az MVH a jogos igényeket összesíti. Ha az összes megállapított jogos támogatási igény meghaladja a 4. § (3) bekezdésben foglalt keretösszeget, akkor minden jogos támogatási igényt arányosan csökkenteni kell.”
