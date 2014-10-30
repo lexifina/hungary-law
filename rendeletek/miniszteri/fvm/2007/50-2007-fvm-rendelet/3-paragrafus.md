@@ -1,4 +1,4 @@
-3. § (1)[^18] A kezességvállaló intézmény az üzletszabályzatának megfelelően megvizsgálja a kezességvállalási kérelem jogalapját és elvégzi az agrár de minimis rendelet 6. cikkében vagy a halászati de minimis rendelet 4. cikk (1) bekezdésében foglalt információgyűjtést és ellenőrzést.
+3. § (1)[^18] A kezességvállaló intézmény az üzletszabályzatának megfelelően megvizsgálja a kezességvállalási kérelem jogalapját és elvégzi az agrár de minimis rendelet 6. cikkében vagy a halászati de minimis rendelet 6. cikkében foglalt információgyűjtést és ellenőrzést.
 
 (2)[^19] Az agrár de minimis rendelet szerinti küszöbérték ellenőrzése céljából a mezőgazdasági vállalkozás kezességvállalási kérelem benyújtásával egyidejűleg tett nyilatkozatában hozzájárul ahhoz, hogy a kezességvállaló intézmény a Tv. 26. § (1) bekezdés f) pontja szerinti, a mezőgazdasági célú csekély összegű (de minimis) támogatások nyilvántartási rendszerében lévő, a mezőgazdasági vállalkozás szabad csekély összegű (de minimis) keretére vonatkozó adatokat kérjen a Mezőgazdasági és Vidékfejlesztési Hivataltól (a továbbiakban: MVH), továbbá ahhoz, hogy az igényelt kezességvállalás támogatásának összege az MVH nyilvántartási rendszerében zárolásra kerüljön.
 
@@ -12,7 +12,7 @@
 
 (7)[^24] A mezőgazdasági vállalkozásnak a kezességvállalási kérelem benyújtásakor meg kell felelnie a bejelentési rendelet 11/A. §-ában meghatározott feltételeknek.
 
-[^18]: A 3. § (1) bekezdése a 36/2014. (IV. 4.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^18]: A 3. § (1) bekezdése a 18/2014. (X. 29.) FM rendelet 2. §-ával megállapított szöveg.
 [^19]: A 3. § (2) bekezdése a 30/2013. (IV. 30.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^20]: A 3. § (3) bekezdését a 30/2013. (IV. 30.) VM rendelet 2. § (7) bekezdése hatályon kívül helyezte.
 [^21]: A 3. § (4) bekezdését a 30/2013. (IV. 30.) VM rendelet 2. § (7) bekezdése hatályon kívül helyezte.
