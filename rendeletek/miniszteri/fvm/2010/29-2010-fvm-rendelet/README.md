@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-29-20-8
 | 2013-10-23 | 2010-29-20-82.13 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-12-22 | 2010-29-20-82.14 | 130/2013. (XII. 21.) VM rendelet |
 | 2014-04-19 | 2010-29-20-82.15 | 59/2012. (VI. 28.) VM rendelet |
+| 2014-10-30 | 2010-29-20-82.16 | 18/2014. (X. 29.) FM rendelet |
