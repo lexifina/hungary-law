@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-94-20-2
 | 2013-10-13 | 2013-94-20-2Y.1 | 94/2013. (X. 10.) VM rendelet |
 | 2013-10-14 | 2013-94-20-2Y.2 | 2010: CXXX. törvény |
 | 2014-04-05 | 2013-94-20-2Y.3 | 36/2014. (IV. 4.) VM rendelet |
+| 2014-10-30 | 2013-94-20-2Y.4 | 18/2014. (X. 29.) FM rendelet |
