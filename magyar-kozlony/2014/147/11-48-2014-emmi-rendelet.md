@@ -1,0 +1,119 @@
+# Az emberi erőforrások minisztere 48/2014. (X. 30.) EMMI rendelete
+
+Magyar Közlöny 2014. évi 147. szám, 2014. október 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/9a478f9008debce49b22fcfc2bd184b78b8beb80/dokumentumok/70f27b54235d538e35d9432cf3f685d1b0ba10e7/letoltes)
+
+---
+
+Az emberi erőforrások minisztere 48/2014. (X. 30.) EMMI rendelete
+a minősített előadó-művészeti szervezetek körének meghatározásáról szóló 5/2012. (VI. 15.) EMMI rendelet
+módosításáról
+Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 47. §
+(2) bekezdés b) pontjában foglalt felhatalmazás alapján – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.)
+Korm. rendelet 48. § 9. pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
+1. § (1) A minősített előadó-művészeti szervezetek körének meghatározásáról szóló 5/2012. (VI. 15.) EMMI rendelet
+(a továbbiakban: R.) 1. melléklete helyébe az 1. melléklet lép.
+(2) Az R. 2. melléklete helyébe a 2. melléklet lép.
+2. §
+Ez a rendelet 2015. január 1. napján lép hatályba.
+ Balog Zoltán s. k.,
+ emberi erőforrások minisztere
+1. melléklet a 48/2014. (X. 30.) EMMI rendelethez
+„1. melléklet az 5/2012. (VI. 15.) EMMI rendelethez
+1. Nemzeti minősítésű színházművészeti szervezet:
+1.1 Állami fenntartású szervezet:
+Budapesti Operettszínház (Budapest)
+MACIVA Magyar Cirkusz és Varieté Nonprofit Kft. (Budapest)
+Magyar Állami Operaház (Budapest)
+Nemzeti Színház Közhasznú Nonprofit Zrt. (Budapest)
+1.2 A Magyar Állammal közszolgáltatási szerződést kötött szervezet:
+Csokonai Színház (Debrecen)
+Győri Nemzeti Színház (Győr)
+Miskolci Nemzeti Színház Nonprofit Kft. (Miskolc)
+Pécsi Nemzeti Színház Nonprofit Kft. (Pécs)
+Szegedi Nemzeti Színház (Szeged)
+2. Nemzeti minősítésű táncművészeti szervezet:
+2.1 Állami fenntartású szervezet:
+Hagyományok Háza (Magyar Állami Népi Együttes) (Budapest)
+Nemzeti Táncszínház Nonprofit Kft. (Budapest)
+2.2 A Magyar Állammal közszolgáltatási szerződést kötött szervezet:
+Győri Balett (Győr)
+3. Nemzeti minősítésű zeneművészeti szervezet:
+3.1 Állami fenntartású szervezet:
+Magyar Nemzeti Filharmonikus Zenekar, Énekkar és Kottatár Nonprofit Kft. (Budapest)
+3.2 A Magyar Állammal közszolgáltatási szerződést kötött szervezet:
+Győri Filharmonikus Zenekar (Győr)
+Kodály Filharmónia Debrecen – Kodály Filharmonikusok (Debrecen)
+Kodály Filharmónia Debrecen – Kodály Kórus (Debrecen)
+Liszt Ferenc Kamarazenekar Alapítvány (Budapest)
+
+Miskolci Szimfonikus Zenekar Nonprofit Kft. (Miskolc)
+Nyíregyházi Cantemus Kórus (Nyíregyháza)
+Pannon Filharmonikusok-Pécs Közhasznú Nonprofit Kft. (Pécs)
+Savaria Szimfonikus Zenekar (Szombathely)
+Szegedi Szimfonikus Zenekar (Szeged)
+4. Nemzeti minősítésű tánc- és zeneművészeti szervezet:
+4.1 Állami fenntartású szervezet:
+Duna Palota Nonprofit Kft. (Budapest)
+Honvéd Együttes Művészeti Nonprofit Kft. (Budapest)”
+2. melléklet a 48/2014. (X. 30.) EMMI rendelethez
+„2. melléklet az 5/2012. (VI. 15.) EMMI rendelethez
+1. Kiemelt minősítésű színházművészeti szervezet:
+1.1 Önkormányzati fenntartású kiemelt szervezet:
+Bartók Kamaraszínház és Művészetek Háza (Dunaújváros)
+Békéscsabai Jókai Színház (Békéscsaba)
+Békéscsabai Napsugár Bábszínház (Békéscsaba)
+Bóbita Bábszínház Nonprofit Kft. (Pécs)
+Budaörsi Latinovits Színház (Budaörs)
+Budapest Bábszínház Közhasznú Kft. (Budapest)
+Centrál Színház Színházművészeti Nonprofit Kft. (Budapest)
+Ciróka Bábszínház (Kecskemét)
+Csiky Gergely Színház Közhasznú Nonprofit Kft. (Kaposvár)
+Gárdonyi Géza Színház (Eger)
+Griff Bábszínház (Zalaegerszeg)
+Harlekin Bábszínház (Eger)
+Hevesi Sándor Színház (Zalaegerszeg)
+József Attila Színház Nonprofit Kft. (Budapest)
+Kabóca Bábszínház és Gyermek Közművelődési Intézmény (Veszprém)
+Katona József Közhasznú Nonprofit Kft. (Budapest)
+Katona József Színház (Kecskemét)
+Kolibri Gyermek- és Ifjúsági Színház Közhasznú Nonprofit Kft. (Budapest)
+Kövér Béla Bábszínház (Szeged)
+Madách Színház Nonprofit Kft. (Budapest)
+Mesebolt Bábszínház (Szombathely)
+Miskolci Csodamalom Bábszínház Nonprofit Kft. (Miskolc)
+Móricz Zsigmond Színház Nonprofit Kft. (Nyíregyháza)
+Örkény István Színház Nonprofit Kft. (Budapest)
+Pécsi Harmadik Színház Nonprofit Kft. (Pécs)
+Pro Kultúra Sopron Nonprofit Kft. (Petőfi Színház) (Sopron)
+Radnóti Miklós Színház Nonprofit Kft. (Budapest)
+Szigligeti Színház (Szolnok)
+Tatabánya Megyei Jogú Város Jászai Mari Színház, Népház, Tatabánya
+Thália Színház Nonprofit Kft. (Budapest)
+Trafó Kortárs Művészetek Háza Nonprofit Kft. (Budapest)
+Új Színház Nonprofit Kft. (Budapest)
+Vaskakas Bábszínház (Győr)
+Veszprémi Petőfi Színház (Veszprém)
+Vígszínház Nonprofit Kft. (Budapest)
+Vojtina Bábszínház (Debrecen)
+Vörösmarty Színház (Székesfehérvár)
+
+Weöres Sándor Színház Nonprofit Kft. (Szombathely)
+1.2 Önkormányzattal közszolgáltatási szerződést kötött kiemelt szervezet:
+Karinthy és Karinthy Kulturális Szolgáltató Nonprofit Kft. (Budapest)
+2. Kiemelt minősítésű táncművészeti szervezet:
+2.1 Önkormányzattal közszolgáltatási szerződést kötött kiemelt szervezet:
+Bozsik Yvette Alapítvány (Budapest)
+Előadó és Alkotóművészetért Alapítvány (Budapest)
+Rivalda Stúdió Művészeti Iroda Közhasznú Nonprofit Kft. (Budapest)
+Univers’Art Művészeti Egyesület (Budapest)
+3. Kiemelt minősítésű zeneművészeti szervezet:
+3.1 Önkormányzati fenntartású kiemelt szervezet:
+Budafoki Dohnányi Ernő Szimfonikus Zenekar Közhasznú Nonprofit Kft. (Budapest)
+Óbudai Danubia Zenekar Nonprofit Kft. (Budapest)
+Szolnoki Szimfonikus Zenekar Nonprofit Kft. (Szolnok)
+Szolnoki Szimfonikus Zenekar Nonprofit Kft. (Bartók Béla Kamarakórus) (Szolnok)
+Zuglói Filharmónia Nonprofit Kft. (Budapest)
+3.2 Önkormányzattal közszolgáltatási szerződést kötött kiemelt szervezet:
+Budapesti Vonósok Alapítványa (Budapest)
+MÁV Szimfonikusok Zenekari Alapítvány (Budapest)
+Mendelssohn Kamarazenekar Közhasznú Egyesület (Veszprém)”
