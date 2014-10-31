@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és Jersey Kormánya között az adóügyi információcseréről szóló, Londonban, 2014. január 28-án aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
