@@ -1,3 +1,0 @@
-5. § (1) Az integrált üdültetésben a közeli hozzátartozó csak az igényjogosulttal együtt jogosult részt venni. A korosztály számára szervezett üdülésben az igényjogosult jogán önállóan üdültethető a hatodik és tizennyolcadik életév közötti gyermek, a szülői felügyeletet gyakorló igényjogosult nyilatkozata alapján.
-
-(2) Az igényjogosult a nagykorú gyermeke oktatási intézményétől kapott igazolással igazolja, hogy a nagykorú gyermek nappali rendszerű iskolai oktatásban részesül, illetve felsőoktatási alap- vagy mesterképzésben nappali képzés munkarendje szerinti tanulmányokat folytat. Igazolás hiányában az igényjogosultat a nagykorú gyermek után kedvezményes üdülési díj nem illeti meg.
