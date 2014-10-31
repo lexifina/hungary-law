@@ -1,0 +1,1 @@
+1. § Az Országgyűlés felhatalmazást ad az áruk ideiglenes behozataláról, Isztambulban, 1990. június 26-án kelt Egyezmény és mellékletei módosítása (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
