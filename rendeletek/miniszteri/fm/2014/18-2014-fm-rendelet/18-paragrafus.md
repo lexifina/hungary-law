@@ -1,3 +1,0 @@
-## 17. § A 39/2011. (V. 18.) VM rendelet 6. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A mezőgazdasági vállalkozás az igénylőlapot az Üzletszabályzatban nevesített szervezetek területileg illetékes irodáiban folyamatosan nyújthatja be. A mezőgazdasági vállalkozásnak az igénylőlaphoz csatolnia kell a Korm. rendelet 11/A. §-a szerinti nyilatkozatokat, valamint mindazon dokumentumokat, amelyet az Üzletszabályzat előír, és nyilatkoznia kell az Üzletszabályzatban előírt feltételek elfogadásáról. Amennyiben a mezőgazdasági vállalkozás rendelkezik társult szervezet által kibocsátott ajánlással – amely igazolja, hogy mezőgazdasági tevékenységet folytat – úgy azt az igénylőlaphoz csatolni kell, amely regisztrációs díjfizetési kedvezményre jogosít.”
