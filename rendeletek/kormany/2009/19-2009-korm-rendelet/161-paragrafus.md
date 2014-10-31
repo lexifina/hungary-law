@@ -1,4 +1,4 @@
-161. §[^509] (1) Az egyensúlyozó platformon forgalmazott termékeket – beleértve a másodlagos kapacitás-kereskedelmet is – az egyensúlyozó platform szabályzata tartalmazza. A szabályozást úgy kell kialakítani, hogy a gázforgalmazás előkészítését, de legalább a gáznapi egyensúlyozást és annak gáznapot követő elszámolásához szükséges fizikai termékek kereskedelmét lehetővé tegye a földgázszállító rendszer fizikai korlátainak figyelembevétele mellett.
+161. §[^510] (1) Az egyensúlyozó platformon forgalmazott termékeket – beleértve a másodlagos kapacitás-kereskedelmet is – az egyensúlyozó platform szabályzata tartalmazza. A szabályozást úgy kell kialakítani, hogy a gázforgalmazás előkészítését, de legalább a gáznapi egyensúlyozást és annak gáznapot követő elszámolásához szükséges fizikai termékek kereskedelmét lehetővé tegye a földgázszállító rendszer fizikai korlátainak figyelembevétele mellett.
 
 (2) Az egyensúlyozó platformon minden szereplő csak olyan tranzakcióra adhat be ajánlatot, illetve köthet le, amelyet az egyensúlyozó platform szabályzata lehetővé tesz.
 
@@ -44,4 +44,4 @@ q) egyéb, az egyensúlyozó platform működését meghatározó szabályokat.
 
 (6) Az egyensúlyozó platform szabályzatát a szállítási rendszerirányító és az elszámolást végző vállalkozás a Hivatal jóváhagyását követően köteles a honlapján közzétenni.
 
-[^509]: A Vhr. 161. §-a a 99/2013. (III. 29.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^510]: A Vhr. 161. §-a a 99/2013. (III. 29.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
