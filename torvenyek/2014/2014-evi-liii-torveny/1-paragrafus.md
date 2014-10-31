@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a tajpeji Magyar Kereskedelmi Iroda és a Magyarországi Tajpej Képviseleti Iroda között az ideiglenesen munkát vállaló turisták programjáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
