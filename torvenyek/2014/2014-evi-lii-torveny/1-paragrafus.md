@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Szaúd-Arábiai Királyság Kormánya között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelem- és vagyonadók területén, Rijádban, 2014. március 23. napján aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
