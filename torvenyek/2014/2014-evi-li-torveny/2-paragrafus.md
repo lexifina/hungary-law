@@ -1,1 +1,1 @@
-2. § Az Országgyűlés a megállapodást e törvénnyel kihirdeti.
+2. §
