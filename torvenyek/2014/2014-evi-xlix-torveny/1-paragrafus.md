@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Bahreini Királyság Kormány között a jövedelemadók területén a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról szóló, Manamában, 2014. február 24. napján aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
