@@ -1,3 +1,5 @@
+## feladatainak végrehajtásában a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság közreműködik.
+
 2. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
 (2) Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapít meg:
