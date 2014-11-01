@@ -28,6 +28,6 @@
 
 ## 6. A mezőgazdasági termelő aláírása.
 
-3. melléklet a 21/2012. (III. 9.) VM rendelethez[^39]
+3. melléklet a 21/2012. (III. 9.) VM rendelethez[^44]
 
-[^39]: A 3. melléklet a 97/2013. (X. 22.) VM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^44]: A 3. melléklet a 97/2013. (X. 22.) VM rendelet 21. § (3) bekezdésével megállapított szöveg.

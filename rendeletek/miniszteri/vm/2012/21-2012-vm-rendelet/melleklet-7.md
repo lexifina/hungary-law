@@ -62,6 +62,6 @@
 
 ## 5. A mezőgazdasági termelő aláírása.
 
-7. melléklet a 21/2012. (III. 9.) VM rendelethez[^43]
+7. melléklet a 21/2012. (III. 9.) VM rendelethez[^48]
 
-[^43]: A 7. mellékletet a 97/2013. (X. 22.) VM rendelet 23. § b) pontja hatályon kívül helyezte.
+[^48]: A 7. mellékletet a 97/2013. (X. 22.) VM rendelet 23. § b) pontja hatályon kívül helyezte.

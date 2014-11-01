@@ -26,6 +26,6 @@
 
 ## 4. A mezőgazdasági termelő aláírása.
 
-6. melléklet a 21/2012. (III. 9.) VM rendelethez[^42]
+6. melléklet a 21/2012. (III. 9.) VM rendelethez[^47]
 
-[^42]: A 6. melléklet a 18/2014. (X. 29.) FM rendelet 26. §-ával megállapított szöveg.
+[^47]: A 6. melléklet a 18/2014. (X. 29.) FM rendelet 26. §-ával megállapított szöveg.

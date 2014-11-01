@@ -26,6 +26,6 @@
 
 ## 4. A mezőgazdasági termelő aláírása.
 
-5. melléklet a 21/2012. (III. 9.) VM rendelethez[^41]
+5. melléklet a 21/2012. (III. 9.) VM rendelethez[^46]
 
-[^41]: Az 5. melléklet a 97/2013. (X. 22.) VM rendelet 21. § (5) bekezdésével megállapított szöveg.
+[^46]: Az 5. melléklet a 97/2013. (X. 22.) VM rendelet 21. § (5) bekezdésével megállapított szöveg.

@@ -8,6 +8,6 @@
 
 (4) A miniszter az Mkk. tv. 12. § (5)–(6) bekezdése szerinti közleményt vagy közleményeket a mezőgazdasági igazgatási szerv szakvéleményének kézhezvételét követően adja ki.
 
-(5)[^32] A (4) bekezdésben hivatkozott szakvélemények elkészítéséhez a mezőgazdasági igazgatási szerv az OMSZ-től, az OVF-től, a FÖMI-től, és az agrárkár-megállapító szervtől a szükséges adatokat hivatalból bekéri. A szakvéleményt az érintett területek településsoros bontásával, az aszály vagy az árvíz mértékének részletes bemutatásával kell elkészíteni.
+(5)[^36] A (4) bekezdésben hivatkozott szakvélemények elkészítéséhez a mezőgazdasági igazgatási szerv az OMSZ-től, az OVF-től, a FÖMI-től, és az agrárkár-megállapító szervtől a szükséges adatokat hivatalból bekéri. A szakvéleményt az érintett területek településsoros bontásával, az aszály vagy az árvíz mértékének részletes bemutatásával kell elkészíteni.
 
-[^32]: A 11. § (5) bekezdése a 97/2013. (X. 22.) VM rendelet 20. §-ával megállapított szöveg.
+[^36]: A 11. § (5) bekezdése a 97/2013. (X. 22.) VM rendelet 20. §-ával megállapított szöveg.

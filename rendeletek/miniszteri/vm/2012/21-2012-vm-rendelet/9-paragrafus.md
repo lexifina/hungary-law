@@ -12,15 +12,15 @@ b) a mezőgazdasági termelőknél a kárenyhítő juttatás iránti kérelemben
 
 c) a mezőgazdasági termelők által igényelt kárenyhítő juttatás agrárkár-megállapító szerv által ellenőrzött, és az agrárkár-enyhítési szerv által jogosnak megítélt országosan összesített összegét,
 
-d)[^28] a kárenyhítési hozzájárulásként megállapított befizetési kötelezettség országosan összesített összegét, az agrárkár-enyhítési szerv által vezetett 10032000-00281629-00000017 Kárenyhítési lebonyolítási számlára a mezőgazdasági termelők által tárgyév december 31-ig befizetett összeget, a költségvetési támogatás összegét, valamint az MKK. tv. 7. § (1) bekezdés c) és d) pontja szerinti összegeket,
+d)[^32] a kárenyhítési hozzájárulásként megállapított befizetési kötelezettség országosan összesített összegét, az agrárkár-enyhítési szerv által vezetett 10032000-00281629-00000017 Kárenyhítési lebonyolítási számlára a mezőgazdasági termelők által tárgyév december 31-ig befizetett összeget, a költségvetési támogatás összegét, valamint az MKK. tv. 7. § (1) bekezdés c) és d) pontja szerinti összegeket,
 
-e)[^29] az Mkk. tv. 15. § (4) bekezdés b) pontja szerinti összeget,
+e)[^33] az Mkk. tv. 15. § (4) bekezdés b) pontja szerinti összeget,
 
 f) a rendelkezésre álló forrást meghaladó kárenyhítési igény esetén a forráshiány összegét és ennek alapján a kárenyhítő juttatás arányos csökkentésének javasolt mértékét,
 
 g) a mezőgazdasági termelők részére kifizetni javasolt kárenyhítő juttatás összegét az egyes mezőgazdasági kárfajták szerinti bontásban, a kifizetéssel érintett termelők számát és művelési ág, valamint a mezőgazdasági termelők Mkk. tv. 6. § (1)–(2) bekezdése szerinti megoszlását,
 
-h)[^30] az Mkk. tv. 15. § (4) bekezdés a) pontja szerint a tárgyévet megelőző év vonatkozásában a tárgyévet követő év január 31-ig kifizetett összeget.
+h)[^34] az Mkk. tv. 15. § (4) bekezdés a) pontja szerint a tárgyévet megelőző év vonatkozásában a tárgyévet követő év január 31-ig kifizetett összeget.
 
 (4) A miniszter az egyetértése esetén a (3) bekezdésben foglaltak szerint összeállított és a (2) bekezdésben meghatározott időpontig előterjesztett kifizetési tervet jóváhagyja, és a kifizetési terv jóváhagyásáról tájékoztatja az agrárkár-enyhítési szervet, valamint a mezőgazdasági igazgatási szervet.
 
@@ -30,9 +30,9 @@ h)[^30] az Mkk. tv. 15. § (4) bekezdés a) pontja szerint a tárgyévet megelő
 
 (7) Kárenyhítő juttatás kifizetésére mezőgazdasági árvízkár és aszálykár vonatkozásában az Mkk. tv. 12. § (5)–(6) bekezdésében meghatározottak alapján van lehetőség.
 
-(8)[^31] A mezőgazdasági árvízkár vonatkozásában védműnek minősül a belföldi jogsegély keretében a 4. § (5) bekezdés szerinti OVF által kiadott igazolás alapján az árvizek kártételei elleni védekezéshez szükséges vízilétesítmény.
+(8)[^35] A mezőgazdasági árvízkár vonatkozásában védműnek minősül a belföldi jogsegély keretében a 4. § (5) bekezdés szerinti OVF által kiadott igazolás alapján az árvizek kártételei elleni védekezéshez szükséges vízilétesítmény.
 
-[^28]: A 9. § (3) bekezdés d) pontja az 51/2013. (VI. 17.) VM rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^29]: A 9. § (3) bekezdés e) pontja az 51/2013. (VI. 17.) VM rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^30]: A 9. § (3) bekezdés h) pontját az 51/2013. (VI. 17.) VM rendelet 19. § (2) bekezdése iktatta be.
-[^31]: A 9. § (8) bekezdését az 51/2013. (VI. 17.) VM rendelet 19. § (3) bekezdése iktatta be.
+[^32]: A 9. § (3) bekezdés d) pontja az 51/2013. (VI. 17.) VM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^33]: A 9. § (3) bekezdés e) pontja az 51/2013. (VI. 17.) VM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^34]: A 9. § (3) bekezdés h) pontját az 51/2013. (VI. 17.) VM rendelet 19. § (2) bekezdése iktatta be.
+[^35]: A 9. § (8) bekezdését az 51/2013. (VI. 17.) VM rendelet 19. § (3) bekezdése iktatta be.
