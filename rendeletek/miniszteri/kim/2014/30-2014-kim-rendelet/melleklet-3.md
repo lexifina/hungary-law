@@ -1952,7 +1952,7 @@
 
 ## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert középfokú (B2) komplex típusú katonai szakmai, vagy STANAG 6001. 2.2.2.2. nyelvvizsga-bizonyítvány szükséges.
 
-3. melléklet a 30/2014. (IV. 30.) KIM rendelethez
+3. melléklet a 30/2014. (IV. 30.) KIM rendelethez[^6]
 
 A MESTERKÉPZÉSI SZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
@@ -2628,11 +2628,11 @@ A képzésre történő bemeneti feltétel egy államilag elismert komplex fels�
 
 2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: mesterfokozat (magister, master; rövidítve: MA)
+- végzettségi szint: mesterfokozat (magister, master; rövidítve: MA)
 
-– szakképzettség: okleveles európai és nemzetközi igazgatásszervező
+- szakképzettség: okleveles európai és nemzetközi igazgatásszervező
 
-– a szakképzettség angol nyelvű megjelölése: European and International Administration Expert
+- a szakképzettség angol nyelvű megjelölése: European and International Administration Expert
 
 3. Képzési terület: közigazgatási, rendészeti és katonai
 
@@ -2666,55 +2666,55 @@ A képzés célja olyan szakértők képzése, akik megszerzett ismereteik birto
 
 7.1. A mesterképzési szakon végzettek ismerik:
 
-– a szervezési és irányítási szakismereteket;
+- a szervezési és irányítási szakismereteket;
 
-– a nagyvállalatok és a közigazgatási szervek közötti kapcsolattartás fontosabb elemeit;
+- a nagyvállalatok és a közigazgatási szervek közötti kapcsolattartás fontosabb elemeit;
 
-– az igazgatásban meghonosodott informatikai és elektronikus irányítási, továbbá jogszabály-nyilvántartó rendszereket;
+- az igazgatásban meghonosodott informatikai és elektronikus irányítási, továbbá jogszabály-nyilvántartó rendszereket;
 
-– a nemzetközi tárgyalásokhoz, illetve kapcsolattartáshoz szükséges protokolláris viselkedéskultúrát és tárgyalástechnikát;
+- a nemzetközi tárgyalásokhoz, illetve kapcsolattartáshoz szükséges protokolláris viselkedéskultúrát és tárgyalástechnikát;
 
-– az európai és nemzetközi kapcsolatrendszer szakmai ismeretanyagát,
+- az európai és nemzetközi kapcsolatrendszer szakmai ismeretanyagát,
 
-– az EU támogatási és pályázati rendszerét, az egyes uniós pályázatok gyakorlati megvalósításának menetrendjét;
+- az EU támogatási és pályázati rendszerét, az egyes uniós pályázatok gyakorlati megvalósításának menetrendjét;
 
-– a hatósági eljárások Európában alkalmazott legfontosabb szabályait;
+- a hatósági eljárások Európában alkalmazott legfontosabb szabályait;
 
-– az európai és nemzetközi kapcsolatokban alkalmazott munkanyelvek legalább egyikét tárgyalóképes szinten.
+- az európai és nemzetközi kapcsolatokban alkalmazott munkanyelvek legalább egyikét tárgyalóképes szinten.
 
 7.2. A mesterképzési szakon végzettek alkalmasak:
 
-– a nemzetközi szervezetek – különös tekintettel az Európai Unió szervezeteinek – munkájában való részvételre,
+- a nemzetközi szervezetek – különös tekintettel az Európai Unió szervezeteinek – munkájában való részvételre,
 
-– nemzetközi, illetve európai vonatkozású döntések előkészítésére,
+- nemzetközi, illetve európai vonatkozású döntések előkészítésére,
 
-– nemzetközi tárgyalások előkészítésére és megszervezésére,
+- nemzetközi tárgyalások előkészítésére és megszervezésére,
 
-– nemzetközi tárgyalásokon való (idegen nyelven történő) részvételre,
+- nemzetközi tárgyalásokon való (idegen nyelven történő) részvételre,
 
-– külkapcsolatokat gondozó szervezetek, szervezeti egységek munkájának megszervezésére és vezetésére, továbbá ezen szervezetek, szervezeti egységek nemzetközi képviseletére,
+- külkapcsolatokat gondozó szervezetek, szervezeti egységek munkájának megszervezésére és vezetésére, továbbá ezen szervezetek, szervezeti egységek nemzetközi képviseletére,
 
-– hatósági eljárások lefolytatására,
+- hatósági eljárások lefolytatására,
 
-– nemzetközi vállalatokban és a külföldi kapcsolatokkal rendelkező magánigazgatási szférában szervezési és irányítási feladatok ellátására,
+- nemzetközi vállalatokban és a külföldi kapcsolatokkal rendelkező magánigazgatási szférában szervezési és irányítási feladatok ellátására,
 
-– az európai és a hazai jogalkotó és kodifikációs (szabályozó) munkában való részvételre,
+- az európai és a hazai jogalkotó és kodifikációs (szabályozó) munkában való részvételre,
 
-– hatósági eljárás lefolytatására,
+- hatósági eljárás lefolytatására,
 
-– szervezeti egységek irányítására, humánerőforrás-gazdálkodási feladatok megtervezésére és irányítására,
+- szervezeti egységek irányítására, humánerőforrás-gazdálkodási feladatok megtervezésére és irányítására,
 
-– az igazgatásban meghonosodott informatikai és elektronikus irányítási és kommunikációs rendszerek alkalmazására,
+- az igazgatásban meghonosodott informatikai és elektronikus irányítási és kommunikációs rendszerek alkalmazására,
 
-– nemzetközi vonatkozású szakmai kapcsolattartásra, levelezésre és tárgyalásra.
+- nemzetközi vonatkozású szakmai kapcsolattartásra, levelezésre és tárgyalásra.
 
 7.3. A szakképzettség gyakorlásához szükséges személyes adottságok és készségek:
 
-– megfelelő kommunikációs ismeretek és kapcsolatteremtő képesség,
+- megfelelő kommunikációs ismeretek és kapcsolatteremtő képesség,
 
-– viselkedési kultúra,
+- viselkedési kultúra,
 
-– a nemzetközi kapcsolatok fontosságához és sajátosságaihoz igazodó fokozott felelősségtudat.
+- a nemzetközi kapcsolatok fontosságához és sajátosságaihoz igazodó fokozott felelősségtudat.
 
 8. A mesterfokozat és a szakképzettség szempontjából meghatározó ismeretkörök:
 
@@ -2724,23 +2724,23 @@ politikatudományi ismeretek, az európai alkotmány- és közigazgatás törté
 
 8.2. A szakmai törzsanyag kötelező ismeretkörei: 75-85 kredit
 
-– közigazgatási és pénzügyi ismeretek: összehasonlító és európai közigazgatási jog, ezen belül regionális igazgatás és területi önkormányzati rendszerek az EU tagállamaiban, európai uniós és összehasonlító közigazgatási eljárásjog, közszolgálati jog és közszolgálati rendszerek az EU-ban és az egyes tagállamokban, a kelet-közép európai országok közigazgatási rendszerének összehasonlítása, a külügyi igazgatás különös szabályai, valamint közpénzügyek és államháztartás az EU-ban,
+- közigazgatási és pénzügyi ismeretek: összehasonlító és európai közigazgatási jog, ezen belül regionális igazgatás és területi önkormányzati rendszerek az EU tagállamaiban, európai uniós és összehasonlító közigazgatási eljárásjog, közszolgálati jog és közszolgálati rendszerek az EU-ban és az egyes tagállamokban, a kelet-közép európai országok közigazgatási rendszerének összehasonlítása, a külügyi igazgatás különös szabályai, valamint közpénzügyek és államháztartás az EU-ban,
 
-– Európai Uniós ismeretek: az EU döntéshozatali eljárása és egyes szakpolitikái, továbbá az EU támogatási és pályázati rendszere, valamint az európai közigazgatási büntetőjog ismeretanyaga,
+- Európai Uniós ismeretek: az EU döntéshozatali eljárása és egyes szakpolitikái, továbbá az EU támogatási és pályázati rendszere, valamint az európai közigazgatási büntetőjog ismeretanyaga,
 
-– nemzetközi köz- és magánjogi ismeretek: univerzális és regionális nemzetközi szervezetek, külügyi igazgatás és a diplomáciai, valamint a konzuli kapcsolatok joga, az emberi jogok nemzetközi védelme, a nemzetközi gazdasági kapcsolatokkal összefüggő ismeretanyag,
+- nemzetközi köz- és magánjogi ismeretek: univerzális és regionális nemzetközi szervezetek, külügyi igazgatás és a diplomáciai, valamint a konzuli kapcsolatok joga, az emberi jogok nemzetközi védelme, a nemzetközi gazdasági kapcsolatokkal összefüggő ismeretanyag,
 
-– kommunikációs ismeretek: kultúraközi kommunikáció, a nemzetközi tárgyalások menedzsmentje, tárgyalástechnika és protokoll (az idegen nyelvi felkészítő tárgyak a szabadon választható tantárgyak körébe tartoznak),
+- kommunikációs ismeretek: kultúraközi kommunikáció, a nemzetközi tárgyalások menedzsmentje, tárgyalástechnika és protokoll (az idegen nyelvi felkészítő tárgyak a szabadon választható tantárgyak körébe tartoznak),
 
-– szervezéstani ismeretek: menedzsment-ismeretek a közcélú szervezetek vonatkozásában, EU projektmenedzsment;
+- szervezéstani ismeretek: menedzsment-ismeretek a közcélú szervezetek vonatkozásában, EU projektmenedzsment;
 
 8.3. A szakmai törzsanyag kötelezően választható ismeretkörei: 18-22 kredit
 
-– differenciált szakmai ismeretek: 8-12 kredit
+- differenciált szakmai ismeretek: 8-12 kredit
 
 a kisebbségek jogai, az esélyegyenlőség biztosításának nemzetközi eszközrendszere, a külkereskedelemre vonatkozó ismeretek, a nemzetközi versenyjog, a migráció problémái;
 
-– diplomamunka: 10 kredit.
+- diplomamunka: 10 kredit.
 
 9. A képzéshez kapcsolt szakmai gyakorlat követelményei:
 
@@ -2754,11 +2754,11 @@ A mesterfokozat megszerzéséhez az Európai Unióban hivatalos nyelvek egyikéb
 
 A hallgatónak a kredit megállapítása alapjául szolgáló ismeretek – felsőoktatási törvényben meghatározott – összevetése alapján elismerhető legyen legalább 60 kredit a korábbi tanulmányai szerint az alábbi ismeretkörökben:
 
-– társadalomtudományi alapismeretek (társadalomelméleti, politikaelméleti, szociológiai ismeretek); jogtudományi ismeretek (jogi alapismeretek, közjogi és magánjogi ismeretek); kiegészítő szakmai alapozó ismeretek (közgazdasági, szervezési és vezetési, számítástechnikai ismeretek);
+- társadalomtudományi alapismeretek (társadalomelméleti, politikaelméleti, szociológiai ismeretek); jogtudományi ismeretek (jogi alapismeretek, közjogi és magánjogi ismeretek); kiegészítő szakmai alapozó ismeretek (közgazdasági, szervezési és vezetési, számítástechnikai ismeretek);
 
-– igazgatástörténeti ismeretek (alkotmány– és közigazgatástörténet); általános igazgatási ismeretek (a közigazgatás szervezete, a közigazgatási jog alapintézményei); szakigazgatási ismeretek (a szakigazgatások rendszere, különös tekintettel a nemzetközi igazgatásra); pénzügyi jogi és pénzügytani ismeretek (belföldi és nemzetközi adójog, nemzetközi pénzügyek, államháztartástani alapismeretek); közszolgálati és munkajogi ismeretek; nemzetközi ismeretek (nemzetközi közjog alapintézményei, a diplomácia elmélete és gyakorlata, nemzetközi magánjog, nemzetközi gazdasági kapcsolatok joga); európai uniós ismeretek (az EU története, szervezete, EU közjog és politika, uniós kereskedelmi jog); kommunikációs ismeretek (idegen nyelvi ismeretek);
+- igazgatástörténeti ismeretek (alkotmány– és közigazgatástörténet); általános igazgatási ismeretek (a közigazgatás szervezete, a közigazgatási jog alapintézményei); szakigazgatási ismeretek (a szakigazgatások rendszere, különös tekintettel a nemzetközi igazgatásra); pénzügyi jogi és pénzügytani ismeretek (belföldi és nemzetközi adójog, nemzetközi pénzügyek, államháztartástani alapismeretek); közszolgálati és munkajogi ismeretek; nemzetközi ismeretek (nemzetközi közjog alapintézményei, a diplomácia elmélete és gyakorlata, nemzetközi magánjog, nemzetközi gazdasági kapcsolatok joga); európai uniós ismeretek (az EU története, szervezete, EU közjog és politika, uniós kereskedelmi jog); kommunikációs ismeretek (idegen nyelvi ismeretek);
 
-– továbbá legalább egy idegen nyelvből legalább középfokú C típusú államilag elismert vagy azzal egyenértékű nyelvvizsga-bizonyítvány.
+- továbbá legalább egy idegen nyelvből legalább középfokú C típusú államilag elismert vagy azzal egyenértékű nyelvvizsga-bizonyítvány.
 
 A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 50 kredittel rendelkezzen a hallgató. A hiányzó 10 kreditet a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított két féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
 
@@ -2770,13 +2770,13 @@ II. RENDÉSZETI KÉPZÉSI ÁG
 
 2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: mesterfokozat (magister, master; rövidítve: MA)
+- végzettségi szint: mesterfokozat (magister, master; rövidítve: MA)
 
-– szakképzettség: okleveles rendészeti vezető (zárójelben megjelölve a specializációt)
+- szakképzettség: okleveles rendészeti vezető (zárójelben megjelölve a specializációt)
 
-– a szakképzettség angol nyelvű megjelölése: Law Enforcement Manager
+- a szakképzettség angol nyelvű megjelölése: Law Enforcement Manager
 
-– választható specializációk: rendészet elméleti, csapatszolgálati, értékelő-elemző, szervezett bűnözés elleni (Specialisation in Law Enforcement Theory, in Squad Operations, in Evaluation and Analysis, in Combating Organised Crime)
+- választható specializációk: rendészet elméleti, csapatszolgálati, értékelő-elemző, szervezett bűnözés elleni (Specialisation in Law Enforcement Theory, in Squad Operations, in Evaluation and Analysis, in Combating Organised Crime)
 
 3. Képzési terület: közigazgatási, rendészeti és katonai
 
@@ -2810,25 +2810,25 @@ A képzés célja olyan rendészeti szakemberek képzése, akik a tanulmányaik 
 
 7.1. A mesterképzési szakon szerezhető ismeretek:
 
-– rendészettudományi, a rendészet elméletét megalapozó ismeretek;
+- rendészettudományi, a rendészet elméletét megalapozó ismeretek;
 
-– nemzetközi összehasonlító rendészeti és kriminalisztika ismeretek;
+- nemzetközi összehasonlító rendészeti és kriminalisztika ismeretek;
 
-– integrált társadalomtudományi, kommunikációs, statisztikai, tudományos kutatás-módszertani ismeretek;
+- integrált társadalomtudományi, kommunikációs, statisztikai, tudományos kutatás-módszertani ismeretek;
 
-– problémamegoldó technikai és szaknyelvi ismeretek;
+- problémamegoldó technikai és szaknyelvi ismeretek;
 
-– biztonságpolitikai, rendészeti és rendészeti igazgatási, nemzetbiztonsági, nemzetközi rendészeti együttműködési, rendészeti technikai ismeretek;
+- biztonságpolitikai, rendészeti és rendészeti igazgatási, nemzetbiztonsági, nemzetközi rendészeti együttműködési, rendészeti technikai ismeretek;
 
-– vezetési és szervezéselméleti, pszichológiai és pedagógiai, humánerőforrás-gazdálkodási, minőségbiztosítási ismeretek;
+- vezetési és szervezéselméleti, pszichológiai és pedagógiai, humánerőforrás-gazdálkodási, minőségbiztosítási ismeretek;
 
-– gazdálkodási és logisztikai ismeretek;
+- gazdálkodási és logisztikai ismeretek;
 
-– munkajogi, közigazgatási jogi, pénzügyi jogi, a nemzetközi bűnügyi és rendészeti szervek együttműködésére vonatkozó jogi ismeretek;
+- munkajogi, közigazgatási jogi, pénzügyi jogi, a nemzetközi bűnügyi és rendészeti szervek együttműködésére vonatkozó jogi ismeretek;
 
-– a rendészet szervezeti feladat- és hatásköri rendszere, jogi szabályozása, állami- közigazgatási kontextusa, társadalmi beágyazottsága, a rendészeti tevékenység kontroll-mechanizmusa, a rendészet közösségi modellje;
+- a rendészet szervezeti feladat- és hatásköri rendszere, jogi szabályozása, állami- közigazgatási kontextusa, társadalmi beágyazottsága, a rendészeti tevékenység kontroll-mechanizmusa, a rendészet közösségi modellje;
 
-– alkalmazói szintű ismeretek a számítógépes kommunikációban.
+- alkalmazói szintű ismeretek a számítógépes kommunikációban.
 
 továbbá rendészet elméleti specializáción:
 
@@ -2848,47 +2848,47 @@ a szervezett bűnözés nemzetközi és hazai története, jogi kerete, a szerve
 
 7.2. A mesterképzési szakon végzettek alkalmasak:
 
-– a rendészettudomány területén kutatási feladatok végzésére, a doktori képzésbe történő belépésre,
+- a rendészettudomány területén kutatási feladatok végzésére, a doktori képzésbe történő belépésre,
 
-– döntéshozó és döntés-előkészítő feladatok ellátására,
+- döntéshozó és döntés-előkészítő feladatok ellátására,
 
-– informatikai és elektronikus kommunikációs rendszerek alkalmazására,
+- informatikai és elektronikus kommunikációs rendszerek alkalmazására,
 
-– nemzetközi vonatkozású ügyek intézésére,
+- nemzetközi vonatkozású ügyek intézésére,
 
-– döntési javaslatok kidolgozásához szükséges problémaelemzésre és megoldáselemzésre,
+- döntési javaslatok kidolgozásához szükséges problémaelemzésre és megoldáselemzésre,
 
-– konfliktushelyzetek kezelésére, eredményes tárgyalási technikák alkalmazásra,
+- konfliktushelyzetek kezelésére, eredményes tárgyalási technikák alkalmazásra,
 
-– irányítói és végrehajtói feladatkörök ellátására,
+- irányítói és végrehajtói feladatkörök ellátására,
 
-– a belügyi, a pénzügyi és az igazságügyi ágazat, valamint az ezekhez tartozó rendészeti testületek, továbbá polgári nemzetbiztonsági szolgálatok, a civil biztonsági szféra körében rendészeti beosztásokban közép- és felső szintű vezetői feladatok ellátására,
+- a belügyi, a pénzügyi és az igazságügyi ágazat, valamint az ezekhez tartozó rendészeti testületek, továbbá polgári nemzetbiztonsági szolgálatok, a civil biztonsági szféra körében rendészeti beosztásokban közép- és felső szintű vezetői feladatok ellátására,
 
-– a rendészet területén a szakmai követelményeknek leginkább megfelelő menedzser szemléletű vezetési és irányítási eszközök használatára, ideértve a korszerű vezetési technikákat és szervezési megoldásokat,
+- a rendészet területén a szakmai követelményeknek leginkább megfelelő menedzser szemléletű vezetési és irányítási eszközök használatára, ideértve a korszerű vezetési technikákat és szervezési megoldásokat,
 
-– a rendészet területén érvényesülő nemzetközi tendenciák ismeretében rendészeti együttműködésre.
+- a rendészet területén érvényesülő nemzetközi tendenciák ismeretében rendészeti együttműködésre.
 
 7.3. A szakképzettség gyakorlásához szükséges személyes adottságok és készségek:
 
-– kreativitás, rugalmasság,
+- kreativitás, rugalmasság,
 
-– jó kommunikációs és együttműködési attitűd,
+- jó kommunikációs és együttműködési attitűd,
 
-– probléma felismerő és megoldó készség, határozottság,
+- probléma felismerő és megoldó készség, határozottság,
 
-– intuíció és módszeresség,
+- intuíció és módszeresség,
 
-– információ feldolgozási képesség,
+- információ feldolgozási képesség,
 
-– környezettel szembeni érzékenység,
+- környezettel szembeni érzékenység,
 
-– elkötelezettség és igény a minőségi munkára,
+- elkötelezettség és igény a minőségi munkára,
 
-– az élethosszig tartó tanuláshoz szükséges pozitív hozzáállás,
+- az élethosszig tartó tanuláshoz szükséges pozitív hozzáállás,
 
-– kezdeményezés, személyes felelősségvállalás,
+- kezdeményezés, személyes felelősségvállalás,
 
-– alkalmasság az együttműködésre, a csoportmunkában való részvételre, kellő gyakorlat után vezetői feladatok ellátására.
+- alkalmasság az együttműködésre, a csoportmunkában való részvételre, kellő gyakorlat után vezetői feladatok ellátására.
 
 8. A mesterfokozat és a szakképzettség szempontjából meghatározó ismeretkörök:
 
@@ -2902,11 +2902,11 @@ biztonságpolitika, rendészeti és rendészeti igazgatási, rendészeti szervek
 
 8.3. A szakmai törzsanyag kötelezően választható ismeretkörei: 33-38 kredit
 
-– differenciált szakmai ismeretek: 21-26 kredit
+- differenciált szakmai ismeretek: 21-26 kredit
 
 rendészet elméleti ismeretek, csapatszolgálati szakmai ismeretek, értékelő-elemző szakmai ismeretek, szervezett bűnözés elleni szakmai ismeretek;
 
-– diplomamunka: 12 kredit.
+- diplomamunka: 12 kredit.
 
 9. A képzéshez kapcsolt szakmai gyakorlat követelményei:
 
@@ -2928,11 +2928,11 @@ A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökbe
 
 2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: mesterfokozat (magister, master; rövidítve: MA)
+- végzettségi szint: mesterfokozat (magister, master; rövidítve: MA)
 
-– szakképzettség: okleveles biztonsági szervező
+- szakképzettség: okleveles biztonsági szervező
 
-– a szakképzettség angol nyelvű megjelölése: Security Manager
+- a szakképzettség angol nyelvű megjelölése: Security Manager
 
 3. Képzési terület: közigazgatási, rendészeti és katonai
 
@@ -2966,87 +2966,87 @@ A képzés célja olyan biztonsági szakemberek képzése, akik együttműködve
 
 7.1. A mesterképzési szakon végzettek ismerik:
 
-– azt a társadalmi közeget, amelyben a biztonsági szféra valamennyi szereplőjének együttműködve kell a magán,- ezen keresztül pedig a közbiztonságot megteremteni;
+- azt a társadalmi közeget, amelyben a biztonsági szféra valamennyi szereplőjének együttműködve kell a magán,- ezen keresztül pedig a közbiztonságot megteremteni;
 
-– a globális értelemben vett biztonságot érő kihívásokat;
+- a globális értelemben vett biztonságot érő kihívásokat;
 
-– a biztonság egyes szegmenseinek – különös tekintettel a bankok,- vállalatok,- rendezvények, kritikus infrastruktúrák biztonságára, illetve az üzleti hírszerzésre – módszertanát;
+- a biztonság egyes szegmenseinek – különös tekintettel a bankok,- vállalatok,- rendezvények, kritikus infrastruktúrák biztonságára, illetve az üzleti hírszerzésre – módszertanát;
 
-– azokat a jogi és szakmai eszközöket, amelyek a magánbiztonsági ágazat rendelkezésére állnak;
+- azokat a jogi és szakmai eszközöket, amelyek a magánbiztonsági ágazat rendelkezésére állnak;
 
-– azokat az állami cselekvéseket, amelyek meghatározó befolyással bírnak a biztonság alakulására;
+- azokat az állami cselekvéseket, amelyek meghatározó befolyással bírnak a biztonság alakulására;
 
-– a biztonsági szakma nemzetközi eredményeit;
+- a biztonsági szakma nemzetközi eredményeit;
 
-– a vállalkozások működésének, működtetésének alapjait;
+- a vállalkozások működésének, működtetésének alapjait;
 
-– szervezetek vezetésének eszköz-, és módszertanát;
+- szervezetek vezetésének eszköz-, és módszertanát;
 
-– a szakmai idegen nyelvet.
+- a szakmai idegen nyelvet.
 
 7.2. A mesterképzési szakon végzettek alkalmasak:
 
-– a vagyon-, objektum-, rendezvény-, bank-, személy- és vállalatbiztonsági rendszerek megtervezésére, felépítésére, irányítására;
+- a vagyon-, objektum-, rendezvény-, bank-, személy- és vállalatbiztonsági rendszerek megtervezésére, felépítésére, irányítására;
 
-– bűnmegelőzési és biztonsági szakmai tanácsadásra, döntések előkészítésére;
+- bűnmegelőzési és biztonsági szakmai tanácsadásra, döntések előkészítésére;
 
-– a megjelenő új biztonsági problémák, jelenségek feldolgozására, megoldási alternatívák kidolgozására;
+- a megjelenő új biztonsági problémák, jelenségek feldolgozására, megoldási alternatívák kidolgozására;
 
-– nagy, multinacionális cégek biztonsági stratégiájának kidolgozására;
+- nagy, multinacionális cégek biztonsági stratégiájának kidolgozására;
 
-– az integrált biztonsági tudás széles körű, professzionális alkalmazására a magánbiztonság területén;
+- az integrált biztonsági tudás széles körű, professzionális alkalmazására a magánbiztonság területén;
 
-– a szakmai ismeretek magabiztos gyakorlati alkalmazására, információk hasznosítására;
+- a szakmai ismeretek magabiztos gyakorlati alkalmazására, információk hasznosítására;
 
-– közép- és felsővezetői irányítói feladatkörök ellátására;
+- közép- és felsővezetői irányítói feladatkörök ellátására;
 
-– konfliktushelyzetek megelőzésére, kezelésére;
+- konfliktushelyzetek megelőzésére, kezelésére;
 
-– az üzletszerzés során előforduló változatos tárgyalási technikák eredményes alkalmazására;
+- az üzletszerzés során előforduló változatos tárgyalási technikák eredményes alkalmazására;
 
-– alkalmazni képes tudás birtokában a szakmai és társadalmi élet különböző színterein magas színvonalon kommunikálni;
+- alkalmazni képes tudás birtokában a szakmai és társadalmi élet különböző színterein magas színvonalon kommunikálni;
 
-– a szakmai tudás nyilvánosság előtti szakszerű megjelenítésére;
+- a szakmai tudás nyilvánosság előtti szakszerű megjelenítésére;
 
-– a magánbiztonsági és rendészeti szervekkel való együttműködésre, hazai és külföldi relációban egyaránt;
+- a magánbiztonsági és rendészeti szervekkel való együttműködésre, hazai és külföldi relációban egyaránt;
 
-– a kvalitatív és kvantitatív kutatási technikák vezetői gyakorlatban történő problémamegoldó alkalmazására, adatok tervszerű, tudatos gyűjtésére, szisztematikus feldolgozására, elemzésére, értékelésére;
+- a kvalitatív és kvantitatív kutatási technikák vezetői gyakorlatban történő problémamegoldó alkalmazására, adatok tervszerű, tudatos gyűjtésére, szisztematikus feldolgozására, elemzésére, értékelésére;
 
-– a biztonsággal kapcsolatos kutatások tervezésére, szervezésére, irányítására, valamint személyes végzésére önállóan és csoport-keretek között, továbbá a kutatási eredmények interpretálására;
+- a biztonsággal kapcsolatos kutatások tervezésére, szervezésére, irányítására, valamint személyes végzésére önállóan és csoport-keretek között, továbbá a kutatási eredmények interpretálására;
 
-– a pályázati tevékenység irányítására, személyes végzésére.
+- a pályázati tevékenység irányítására, személyes végzésére.
 
 7.3. A szakképzettség gyakorlásához szükséges személyes adottságok és készségek:
 
-– a társadalmi valóság fogalmi rendezése, reális értelmezése;
+- a társadalmi valóság fogalmi rendezése, reális értelmezése;
 
-– nyitottság a társadalom új jelenségei iránt;
+- nyitottság a társadalom új jelenségei iránt;
 
-– fogékonyság a tudomány legújabb eredményei iránt, innovációs igény és képesség;
+- fogékonyság a tudomány legújabb eredményei iránt, innovációs igény és képesség;
 
-– a makro- és mikrokörnyezettel szembeni érzékenység, környezettudatosság;
+- a makro- és mikrokörnyezettel szembeni érzékenység, környezettudatosság;
 
-– széles körű általános, szakmai és vezetői műveltség, a permanens önfejlődés igénye;
+- széles körű általános, szakmai és vezetői műveltség, a permanens önfejlődés igénye;
 
-– elkötelezettség és igény a minőségi munkára;
+- elkötelezettség és igény a minőségi munkára;
 
-– rendszerszemlélet, probléma-centrikus látásmód, probléma-megoldó gondolkodás;
+- rendszerszemlélet, probléma-centrikus látásmód, probléma-megoldó gondolkodás;
 
-– kreativitás, rugalmasság, autonóm gondolkodás, empátia;
+- kreativitás, rugalmasság, autonóm gondolkodás, empátia;
 
-– intuíció, alaposság és módszeresség a szakmai és vezetői munkában;
+- intuíció, alaposság és módszeresség a szakmai és vezetői munkában;
 
-– tanulási készség és jó memória;
+- tanulási készség és jó memória;
 
-– információ feldolgozási képesség;
+- információ feldolgozási képesség;
 
-– önálló szakmai álláspont kialakításának képessége;
+- önálló szakmai álláspont kialakításának képessége;
 
-– kezdeményezés, személyes felelősségvállalás, döntéshozatal;
+- kezdeményezés, személyes felelősségvállalás, döntéshozatal;
 
-– önkritikai, kritikai és kommunikációs attitűd;
+- önkritikai, kritikai és kommunikációs attitűd;
 
-– alkalmasság az együttműködésre, a csoportmunkában és a vezetői szinten egyaránt.
+- alkalmasság az együttműködésre, a csoportmunkában és a vezetői szinten egyaránt.
 
 8. A mesterfokozat és a szakképzettség szempontjából meghatározó ismeretkörök:
 
@@ -3062,11 +3062,11 @@ szakmai alapozó törzsanyag: adatvédelem; intézkedéstaktika; kommunikáció 
 
 8.3. A szakmai törzsanyag kötelezően választható ismeretkörei: 16-18 kredit
 
-– differenciált szakmai ismeretek: 6-8 kredit
+- differenciált szakmai ismeretek: 6-8 kredit
 
 vezetői készségfejlesztés, integrált társadalomtudományi ismeretek, kommunikáció, statisztikai ismeretek, tudományos kutatásmódszertan, szaknyelvi ismeretek;
 
-– diplomamunka: 10 kredit.
+- diplomamunka: 10 kredit.
 
 9. A képzéshez kapcsolt szakmai gyakorlat követelményei:
 
@@ -3092,13 +3092,13 @@ NEMZETBIZTONSÁGI MESTERKÉPZÉSI SZAK
 
 2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: mesterfokozat (magister, master; rövidítve: MSc)
+- végzettségi szint: mesterfokozat (magister, master; rövidítve: MSc)
 
-– szakképzettség: okleveles nemzetbiztonsági szakértő
+- szakképzettség: okleveles nemzetbiztonsági szakértő
 
-– a szakképzettség angol nyelvű megjelölése: National Security Expert
+- a szakképzettség angol nyelvű megjelölése: National Security Expert
 
-– választható specializációk: katonai nemzetbiztonsági, polgári nemzetbiztonsági (Military National Security Specialisation, Civilian National Security Specialisation)
+- választható specializációk: katonai nemzetbiztonsági, polgári nemzetbiztonsági (Military National Security Specialisation, Civilian National Security Specialisation)
 
 3. Képzési terület: közigazgatási, rendészeti és katonai
 
@@ -3130,59 +3130,59 @@ A képzés célja olyan nemzetbiztonsági szakemberek képzése, akik korszerű 
 
 7.1. A mesterképzési szakon szerezhető ismeretek:
 
-– nemzetbiztonsági-, védelmi-, rendvédelmi és társadalomtudományi elméleti és gyakorlati szakismeretek,
+- nemzetbiztonsági-, védelmi-, rendvédelmi és társadalomtudományi elméleti és gyakorlati szakismeretek,
 
-– általános és a nemzetbiztonsági, a védelmi, a rendvédelmi szakterületen alkalmazható vezetéselméleti és alkalmazott pszichológiai ismeretek,
+- általános és a nemzetbiztonsági, a védelmi, a rendvédelmi szakterületen alkalmazható vezetéselméleti és alkalmazott pszichológiai ismeretek,
 
-– az államigazgatási, a nemzetközi közjogi és szakmai jogi szabályozás alapvető ismeretei,
+- az államigazgatási, a nemzetközi közjogi és szakmai jogi szabályozás alapvető ismeretei,
 
-– a kutatáshoz vagy tudományos munkához szükséges, széles körben alkalmazható problémamegoldó technikák ismerete,
+- a kutatáshoz vagy tudományos munkához szükséges, széles körben alkalmazható problémamegoldó technikák ismerete,
 
-– a globális társadalmi és gazdasági folyamatok ismerete;
+- a globális társadalmi és gazdasági folyamatok ismerete;
 
 7.2. A mesterképzési szakon végzettek alkalmasak:
 
-– a nemzetbiztonsági szakmai tevékenység sajátosságainak megfelelő, korszerű ismereteket a gyakorlatban alkalmazni, a biztonságot fenyegető kihívások, kockázatok, fenyegetések és veszélyek elemzésére és értékelésére,
+- a nemzetbiztonsági szakmai tevékenység sajátosságainak megfelelő, korszerű ismereteket a gyakorlatban alkalmazni, a biztonságot fenyegető kihívások, kockázatok, fenyegetések és veszélyek elemzésére és értékelésére,
 
-– a szakmai feladatok végrehajtásához, a szervezetek vezetéséhez szükséges információk beszerzésének megszervezésére, elemzésére és értékelésére, hasznosítására,
+- a szakmai feladatok végrehajtásához, a szervezetek vezetéséhez szükséges információk beszerzésének megszervezésére, elemzésére és értékelésére, hasznosítására,
 
-– a biztonsági helyzet, a szakmai tevékenység céljának, körülményeinek értékelésére, az eredményes szakmai tevékenységhez a rendelkezésre álló humán források, speciális eszközök és módszerek szakszerű alkalmazására, a helyzetnek a szakmai érdeknek megfelelő alakítására, és ahhoz való rugalmas alkalmazkodásra,
+- a biztonsági helyzet, a szakmai tevékenység céljának, körülményeinek értékelésére, az eredményes szakmai tevékenységhez a rendelkezésre álló humán források, speciális eszközök és módszerek szakszerű alkalmazására, a helyzetnek a szakmai érdeknek megfelelő alakítására, és ahhoz való rugalmas alkalmazkodásra,
 
-– a nemzetbiztonsági szolgálatok, a rendvédelmi és a rendészeti szervek, valamint a védelmi igazgatás szervei közötti szakmai kooperáció szervezésére,
+- a nemzetbiztonsági szolgálatok, a rendvédelmi és a rendészeti szervek, valamint a védelmi igazgatás szervei közötti szakmai kooperáció szervezésére,
 
-– új és összetett problémák felismerésére, információk feldolgozására, a problémamegoldó technikák széleskörű, kreatív alkalmazására,
+- új és összetett problémák felismerésére, információk feldolgozására, a problémamegoldó technikák széleskörű, kreatív alkalmazására,
 
-– a bonyolult, nem tipikus helyzetekben alternatív, eredeti megoldások kidolgozására és bemutatására, helytálló döntések előkészítésére, meghozatalára, a feladatok aprólékos megszervezésére és következetes végrehajtására,
+- a bonyolult, nem tipikus helyzetekben alternatív, eredeti megoldások kidolgozására és bemutatására, helytálló döntések előkészítésére, meghozatalára, a feladatok aprólékos megszervezésére és következetes végrehajtására,
 
-– egyedi és összetett szakmai kérdések elemzésének, komplex szakértői értékelésének elvégzésére, írásos és szóbeli formában hatásos kommunikációra,
+- egyedi és összetett szakmai kérdések elemzésének, komplex szakértői értékelésének elvégzésére, írásos és szóbeli formában hatásos kommunikációra,
 
-– idegen nyelvi ismereteik birtokában a nemzetközi szervezetek, intézmények tevékenységéhez történő kapcsolódásra,
+- idegen nyelvi ismereteik birtokában a nemzetközi szervezetek, intézmények tevékenységéhez történő kapcsolódásra,
 
-– önműveléssel és önfejlesztés útján szaktudásának fejlesztésére, az ismeretek átadására,
+- önműveléssel és önfejlesztés útján szaktudásának fejlesztésére, az ismeretek átadására,
 
-– a szakmai kultúra és etika értékrendjének megőrzésére, továbbadására;
+- a szakmai kultúra és etika értékrendjének megőrzésére, továbbadására;
 
 7.3. A szakképzettség gyakorlásához szükséges személyes adottságok és készségek:
 
-– kreativitás, kombinatív gondolkodás, autonómia,
+- kreativitás, kombinatív gondolkodás, autonómia,
 
-– probléma felismerő, elemző és megoldó készség, döntésképesség,
+- probléma felismerő, elemző és megoldó készség, döntésképesség,
 
-– konspirációs és szerepjátszó képesség, széles viselkedésrepertoár,
+- konspirációs és szerepjátszó képesség, széles viselkedésrepertoár,
 
-– intuíció és módszeresség, jó memória,
+- intuíció és módszeresség, jó memória,
 
-– információ feldolgozási képesség,
+- információ feldolgozási képesség,
 
-– kommunikációs készség, empátiakészség, bizalomteremtés képessége,
+- kommunikációs készség, empátiakészség, bizalomteremtés képessége,
 
-– stressztűrés, mentális egészség, fizikai állóképesség, pszichés teherbíró képesség,
+- stressztűrés, mentális egészség, fizikai állóképesség, pszichés teherbíró képesség,
 
-– elkötelezettség, önbizalom, önkontroll,
+- elkötelezettség, önbizalom, önkontroll,
 
-– alkalmasság az együttműködésre, igény a minőségi munkavégzésre,
+- alkalmasság az együttműködésre, igény a minőségi munkavégzésre,
 
-– alkalmasság a csoportmunkában való részvételre, kellő gyakorlat után vezetői feladatok ellátására.
+- alkalmasság a csoportmunkában való részvételre, kellő gyakorlat után vezetői feladatok ellátására.
 
 8. A mesterfokozat és a szakképzettség szempontjából meghatározó ismeretkörök:
 
@@ -3206,7 +3206,7 @@ differenciált szakmai ismeretek:
 
 diplomáciai és protokoll ismeretek, NATO tanulmányok, válságkörzetek kutatása, védelmi tervezés, a védelmi igazgatás rendszere, a nemzetbiztonsági szolgálatok és rendvédelmi szervek gazdálkodása és humán tevékenysége, nemzetközi szakmai kapcsolatok, speciális mentálhigiénés ismeretek, speciális vezetéspszichológiai ismeretek és tréning, kommunikációs ismeretek és tréning, civil-katonai kapcsolatok, haditechnikai kutatás és fejlesztés;
 
-– diplomamunka 20 kredit.
+- diplomamunka 20 kredit.
 
 9. A képzéshez kapcsolt gyakorlat követelményei:
 
@@ -3220,9 +3220,9 @@ A mesterfokozat megszerzéséhez az EU valamely hivatalos nyelvéből vagy valam
 
 A hallgatónak a kredit megállapítása alapjául szolgáló ismeretek – felsőoktatási törvényben meghatározott – összevetése alapján elismerhető legyen legalább 60 kredit a korábbi tanulmányai szerint az alábbi ismeretkörökben:
 
-– társadalomtudományi ismeretek (20 kredit): biztonságpolitikai ismeretek, jogi (alkotmányjogi, nemzetközi- és hadijogi, államigazgatási jogi, büntetőjogi, büntető eljárásjogi, polgári jogi) ismeretek, politikaelmélet, pszichológia, pedagógia, szociológia, vezetés- és szervezéselmélet, hadtudományi ismeretek, bűnügyi tudományok;
+- társadalomtudományi ismeretek (20 kredit): biztonságpolitikai ismeretek, jogi (alkotmányjogi, nemzetközi- és hadijogi, államigazgatási jogi, büntetőjogi, büntető eljárásjogi, polgári jogi) ismeretek, politikaelmélet, pszichológia, pedagógia, szociológia, vezetés- és szervezéselmélet, hadtudományi ismeretek, bűnügyi tudományok;
 
-– szakmai ismeretek (40 kredit): nemzetbiztonsági szakmai és speciális ismeretek, szakági jogi ismeretek, idegen titkosszolgálati ismeretek, rendvédelmi ismeretek.
+- szakmai ismeretek (40 kredit): nemzetbiztonsági szakmai és speciális ismeretek, szakági jogi ismeretek, idegen titkosszolgálati ismeretek, rendvédelmi ismeretek.
 
 A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 30 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított két féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
 
@@ -3234,11 +3234,11 @@ IV. HONVÉDELMI ÉS KATONAI KÉPZÉSI ÁG
 
 2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: mesterfokozat (magister, master; rövidítve: MSc)
+- végzettségi szint: mesterfokozat (magister, master; rövidítve: MSc)
 
-– szakképzettség: okleveles biztonság- és védelempolitikai szakértő
+- szakképzettség: okleveles biztonság- és védelempolitikai szakértő
 
-– a szakképzettség angol nyelvű megjelölése: Expert in Security and Defence Policy
+- a szakképzettség angol nyelvű megjelölése: Expert in Security and Defence Policy
 
 3. Képzési terület: közigazgatási, rendészeti és katonai
 
@@ -3274,47 +3274,47 @@ A mesterfokozattal rendelkezők képesek a NATO valamelyik hivatalos nyelvén ko
 
 7.1. A mesterképzési szakon szerezhető ismeretek:
 
-– biztonságelméletek,
+- biztonságelméletek,
 
-– biztonsági és védelmi rendszer stratégiai tervezése, értékelése, elemzése,
+- biztonsági és védelmi rendszer stratégiai tervezése, értékelése, elemzése,
 
-– védelmi szervezetek működése,
+- védelmi szervezetek működése,
 
-– biztonság- és védelempolitikai döntéshozatali folyamat ismerete,
+- biztonság- és védelempolitikai döntéshozatali folyamat ismerete,
 
-– döntési alternatívák kidolgozásához szükséges ismeretek;
+- döntési alternatívák kidolgozásához szükséges ismeretek;
 
 7.2. A mesterképzési szakon végzettek alkalmasak:
 
-– a komplex biztonságelméleti, stratégiai és katonai ismeretek alkotó alkalmazására,
+- a komplex biztonságelméleti, stratégiai és katonai ismeretek alkotó alkalmazására,
 
-– az elméleti biztonság- és védelempolitikai ismeretek elemző alkalmazására,
+- az elméleti biztonság- és védelempolitikai ismeretek elemző alkalmazására,
 
-– a biztonságot fenyegető veszélyek és kockázatok elemzésére és értékelésére,
+- a biztonságot fenyegető veszélyek és kockázatok elemzésére és értékelésére,
 
-– részvételre a biztonság- és védelempolitikai döntéshozatal folyamataiban,
+- részvételre a biztonság- és védelempolitikai döntéshozatal folyamataiban,
 
-– kellő gyakorlat megszerzése után irányító, vezető beosztások betöltésére a védelmi igazgatás központi illetve regionális intézményeiben,
+- kellő gyakorlat megszerzése után irányító, vezető beosztások betöltésére a védelmi igazgatás központi illetve regionális intézményeiben,
 
-– feladatok meghatározására a végrehajtó apparátus számára,
+- feladatok meghatározására a végrehajtó apparátus számára,
 
-– a nemzetközi szervezetek és intézmények tevékenységébe való bekapcsolódásra, ismereteik folyamatos fejlesztésére;
+- a nemzetközi szervezetek és intézmények tevékenységébe való bekapcsolódásra, ismereteik folyamatos fejlesztésére;
 
 7.3. A szakképzettség gyakorlásához szükséges személyes adottságok és készségek:
 
-– elemzőkészség,
+- elemzőkészség,
 
-– probléma felismerő- és megoldó készség,
+- probléma felismerő- és megoldó készség,
 
-– lényeglátás, az összefüggések felismerése,
+- lényeglátás, az összefüggések felismerése,
 
-– széleskörű műveltség (történelem, földrajz),
+- széleskörű műveltség (történelem, földrajz),
 
-– információ-feldolgozási képesség,
+- információ-feldolgozási képesség,
 
-– a szakmai továbbképzéshez szükséges pozitív hozzáállás,
+- a szakmai továbbképzéshez szükséges pozitív hozzáállás,
 
-– kezdeményezés, személyes felelősségvállalás, döntéshozatali képesség.
+- kezdeményezés, személyes felelősségvállalás, döntéshozatali képesség.
 
 8. A mesterfokozat és a szakképzettség szempontjából meghatározó ismeretkörök:
 
@@ -3330,11 +3330,11 @@ védelmi szervezetek szociológiai kérdései, katonadiplomácia, nemzetközi é
 
 8.3. A szakmai törzsanyag kötelezően választható ismeretkörei: 45-60 kredit
 
-– differenciált szakmai ismeretek:
+- differenciált szakmai ismeretek:
 
 koalíciós és nemzeti stratégiák, a 21. század biztonsági kihívásai, nemzetközi politikai gazdaságtan, védelmi tervezés, válságkörzetek kutatása;
 
-– diplomamunka: 20 kredit.
+- diplomamunka: 20 kredit.
 
 9. A képzéshez kapcsolt gyakorlat követelményei:
 
@@ -3348,9 +3348,9 @@ A mesterfokozat megszerzéséhez egy nyelvből államilag elismert felsőfokú (
 
 A hallgatónak a kredit megállapítása alapjául szolgáló ismeretek – felsőoktatási törvényben meghatározott – összevetése alapján elismerhető legyen legalább 60 kredit a korábbi tanulmányai szerint az alábbi ismeretkörökben:
 
-– alapozó ismeretek (15 kredit): politikatudományi ismeretek, nemzetközi jogi és közjogi ismeretek
+- alapozó ismeretek (15 kredit): politikatudományi ismeretek, nemzetközi jogi és közjogi ismeretek
 
-– szakmai ismeretek (45 kredit): nemzetközi kapcsolatokra és nemzetközi intézményekre vonatkozó ismeretek, stratégiai és biztonságpolitikai ismeretek, hadtörténelmi és hadtudományi ismeretek.
+- szakmai ismeretek (45 kredit): nemzetközi kapcsolatokra és nemzetközi intézményekre vonatkozó ismeretek, stratégiai és biztonságpolitikai ismeretek, hadtörténelmi és hadtudományi ismeretek.
 
 A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 30 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított két féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
 
@@ -3360,13 +3360,13 @@ A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökbe
 
 2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: mesterfokozat (magister; mester; rövidítve MSc)
+- végzettségi szint: mesterfokozat (magister; mester; rövidítve MSc)
 
-– szakképzettség: okleveles védelmi igazgatási vezető (zárójelben megjelölve a specializációt)
+- szakképzettség: okleveles védelmi igazgatási vezető (zárójelben megjelölve a specializációt)
 
-– a szakképzettség angol nyelvű megjelölése: Defence Administration Manager
+- a szakképzettség angol nyelvű megjelölése: Defence Administration Manager
 
-– választható specializáció: katasztrófavédelmi (Disaster Management)
+- választható specializáció: katasztrófavédelmi (Disaster Management)
 
 3. Képzési terület: közigazgatási, rendészeti és katonai
 
@@ -3400,65 +3400,65 @@ A képzés célja olyan felsőfokú végzettséggel rendelkező szakemberek felk
 
 7.1. A mesterképzési szakon szerezhető ismeretek:
 
-– a védelmi igazgatás irányításához és szervezéséhez szükséges jogi- igazgatási ismeretek,
+- a védelmi igazgatás irányításához és szervezéséhez szükséges jogi- igazgatási ismeretek,
 
-– a védelmi igazgatás vezetéséhez és a döntés-előkészítéshez szükséges informatikai, szervezési, pszichológiai és matematikai ismeretek,
+- a védelmi igazgatás vezetéséhez és a döntés-előkészítéshez szükséges informatikai, szervezési, pszichológiai és matematikai ismeretek,
 
-– az alkalmazott kémia, a logisztika és a minőségügy alapvető ismeretei,
+- az alkalmazott kémia, a logisztika és a minőségügy alapvető ismeretei,
 
-– a kutatásban és a tudományos munkában alkalmazható problémamegoldó és döntés-előkészítési technikák ismerete,
+- a kutatásban és a tudományos munkában alkalmazható problémamegoldó és döntés-előkészítési technikák ismerete,
 
-– a globális társadalmi és gazdasági folyamatok ismerete;
+- a globális társadalmi és gazdasági folyamatok ismerete;
 
 7.2. A mesterképzési szakon végzettek alkalmasak:
 
-– a védelmi szervezetek szakmai tevékenysége sajátosságainak megfelelő, korszerű ismeretek hazai és nemzetközi szinten történő gyakorlati alkalmazására,
+- a védelmi szervezetek szakmai tevékenysége sajátosságainak megfelelő, korszerű ismeretek hazai és nemzetközi szinten történő gyakorlati alkalmazására,
 
-– új és összetett információk, problémák, jelenségek rendszerszerű, kritikus feldolgozására,
+- új és összetett információk, problémák, jelenségek rendszerszerű, kritikus feldolgozására,
 
-– alternatív, eredeti megoldások kidolgozására, bemutatására és bonyolult, nem tipikus helyzetekben adekvát döntés meghozatalára,
+- alternatív, eredeti megoldások kidolgozására, bemutatására és bonyolult, nem tipikus helyzetekben adekvát döntés meghozatalára,
 
-– a szakterület, a szakmai praxis módszertanának fejlesztéséhez szükséges elméleti, tudományos kutatási és gyakorlati információk beszerzésének, értékelésének és hasznosításának végrehajtására,
+- a szakterület, a szakmai praxis módszertanának fejlesztéséhez szükséges elméleti, tudományos kutatási és gyakorlati információk beszerzésének, értékelésének és hasznosításának végrehajtására,
 
-– a szakmai kultúra és értékrend megőrzésére, fejlesztésére és továbbadására,
+- a szakmai kultúra és értékrend megőrzésére, fejlesztésére és továbbadására,
 
-– a magyar, illetve az uniós igazgatási rendszerekben feladat megoldására,
+- a magyar, illetve az uniós igazgatási rendszerekben feladat megoldására,
 
-– a védelmi igazgatás összefüggő ismerete és a meghatározó jogi, szabályozási és gazdasági összefüggések ismerete alapján szakmai javaslatok kidolgozására,
+- a védelmi igazgatás összefüggő ismerete és a meghatározó jogi, szabályozási és gazdasági összefüggések ismerete alapján szakmai javaslatok kidolgozására,
 
-– önművelésre, önfejlesztésre, az egyéni tudás, ismeret elmélyítésére, bővítésére;
+- önművelésre, önfejlesztésre, az egyéni tudás, ismeret elmélyítésére, bővítésére;
 
 továbbá a katasztrófavédelmi specializáción:
 
-– a katasztrófavédelem helyi vagy térségi feladatainak vezetésére, védelmi tervének kidolgozására vagy a kidolgozó csoport irányítására,
+- a katasztrófavédelem helyi vagy térségi feladatainak vezetésére, védelmi tervének kidolgozására vagy a kidolgozó csoport irányítására,
 
-– a katasztrófavédelem végrehajtása során a feladatok elosztására és operatív irányítására,
+- a katasztrófavédelem végrehajtása során a feladatok elosztására és operatív irányítására,
 
-– a katasztrófák előrejelzésére, riasztási rendszerek kialakítására, működtetésére a megelőző rendszabályok szelektív meghatározására;
+- a katasztrófák előrejelzésére, riasztási rendszerek kialakítására, működtetésére a megelőző rendszabályok szelektív meghatározására;
 
 7.3. A szakképzettség gyakorlásához szükséges személyes adottságok és készségek:
 
-– kreativitás, rugalmasság, autonómia,
+- kreativitás, rugalmasság, autonómia,
 
-– probléma felismerő- és megoldó készség,
+- probléma felismerő- és megoldó készség,
 
-– intuíció és módszeresség,
+- intuíció és módszeresség,
 
-– tanulási készség és jó memória,
+- tanulási készség és jó memória,
 
-– széles műveltség,
+- széles műveltség,
 
-– információ feldolgozási képesség,
+- információ feldolgozási képesség,
 
-– környezettel szembeni érzékenység,
+- környezettel szembeni érzékenység,
 
-– elkötelezettség és igény a minőségi munkára,
+- elkötelezettség és igény a minőségi munkára,
 
-– a szakmai továbbképzéshez szükséges pozitív hozzáállás,
+- a szakmai továbbképzéshez szükséges pozitív hozzáállás,
 
-– kezdeményező, döntéshozatali képesség, személyes felelősségvállalás és annak gyakorlása,
+- kezdeményező, döntéshozatali képesség, személyes felelősségvállalás és annak gyakorlása,
 
-– alkalmasság az együttműködésre, a csoportmunkában való részvételre, kellő gyakorlat után vezetői feladatok ellátására.
+- alkalmasság az együttműködésre, a csoportmunkában való részvételre, kellő gyakorlat után vezetői feladatok ellátására.
 
 8. A mesterfokozat és a szakképzettség szempontjából meghatározó ismeretkörök:
 
@@ -3472,11 +3472,11 @@ közpolitika, köz- és védelmi igazgatás, részletes közigazgatási jog, kö
 
 8.3. A szakmai törzsanyag kötelezően választható ismeretkörei: 53-65 kredit
 
-– differenciált szakmai ismeretek:
+- differenciált szakmai ismeretek:
 
 a katasztrófavédelmi specializációhoz tartozó ismeretkörök: ABV védelem, védelmi tervek, tűzvédelem, közművédelem, környezetvédelem, ipari katasztrófák, katasztrófa-előrejelzés, katasztrófavédelmi logisztika, katasztrófavédelmi szervezetek, járványügyi ismeretek, nemzetközi együttműködés, katasztrófavédelmi esettanulmányok, a kárrendezés jogi módszerei, katasztrófa földrajz;
 
-– diplomamunka: 20 kredit.
+- diplomamunka: 20 kredit.
 
 9. A képzéshez kapcsolt szakmai gyakorlat követelményei:
 
@@ -3490,9 +3490,9 @@ A mesterfokozat megszerzéséhez bármely olyan élő idegen nyelvből, amelyen 
 
 A hallgatónak a kredit megállapítása alapjául szolgáló ismeretek – felsőoktatási törvényben meghatározott – összevetése alapján elismerhető legyen legalább 60 kredit a korábbi tanulmányai szerint az alábbi ismeretkörökben:
 
-– alapozó ismeretek (20 kredit): jogi ismeretek, közgazdaságtan, pszichológia, vezetés- és szervezéselmélet, informatika, pedagógia, matematika, kémia, szociológia, EU ismeretek, környezetvédelem;
+- alapozó ismeretek (20 kredit): jogi ismeretek, közgazdaságtan, pszichológia, vezetés- és szervezéselmélet, informatika, pedagógia, matematika, kémia, szociológia, EU ismeretek, környezetvédelem;
 
-– szakmai ismeretek (40 kredit): polgári védelem, hadijog, védelemgazdaságtan, adatvédelmi ismeretek, információs műveletek, alkotmányjog, védelmi igazgatás, munkajog, veszélyes anyagok kárelhárítása, katasztrófavédelem, tűzvédelem, közigazgatási jog, büntetőjog, munkavédelem, marketing és PR ismeretek.
+- szakmai ismeretek (40 kredit): polgári védelem, hadijog, védelemgazdaságtan, adatvédelmi ismeretek, információs műveletek, alkotmányjog, védelmi igazgatás, munkajog, veszélyes anyagok kárelhárítása, katasztrófavédelem, tűzvédelem, közigazgatási jog, büntetőjog, munkavédelem, marketing és PR ismeretek.
 
 A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 30 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított két féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
 
@@ -3502,11 +3502,11 @@ A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökbe
 
 2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: mesterfokozat (magister, master; rövidítve: MSc)
+- végzettségi szint: mesterfokozat (magister, master; rövidítve: MSc)
 
-– szakképzettség: okleveles katonai vezető
+- szakképzettség: okleveles katonai vezető
 
-– a szakképzettség angol nyelvű megjelölése: Military Leader
+- a szakképzettség angol nyelvű megjelölése: Military Leader
 
 3. Képzési terület: közigazgatási, rendészeti és katonai
 
@@ -3514,7 +3514,7 @@ A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökbe
 
 4.1. Teljes kreditérték beszámításával vehetők figyelembe: a katonai vezetői alapképzési szak, a főiskolai szintű katonai vezetői szak.
 
-4.2. A bemenethez a 11. pontban meghatározott kreditek teljesítésével elsősorban számításba vehető alapképzési szakok: a katonai gazdálkodási, a had- és biztonságtechnikai mérnöki.
+4.2. A bemenethez a 11. pontban meghatározott kreditek teljesítésével elsősorban számításba vehető alapképzési szakok: a katonai logisztika, a katonai üzemeltetés, a katonai gazdálkodási, a had- és biztonságtechnikai mérnöki.
 
 4.3 . A 11. pontban meghatározott kreditek teljesítésével vehetők figyelembe: azok a legalább alapfokozatot adó alapképzési szakok, illetve a felsőoktatásról szóló 1993. évi LXXX. törvény szerinti főiskolai szintű szakok, amelyeket a kredit megállapításának alapjául szolgáló ismeretek összevetése alapján a felsőoktatási intézmény kreditátviteli bizottsága elfogad.
 
@@ -3540,111 +3540,111 @@ A Magyar Honvédség számára olyan katonai vezetők (főtisztek) képzése, ak
 
 7.1. A mesterképzési szakon végzettek ismerik:
 
-– a vonatkozó társadalomtudományi, valamint a hadtudományi elméleti és gyakorlati szakismereteket;
+- a vonatkozó társadalomtudományi, valamint a hadtudományi elméleti és gyakorlati szakismereteket;
 
-– az általános és katonai szakterületen alkalmazható vezetéselméleti és alkalmazott pszichológiai ismereteket;
+- az általános és katonai szakterületen alkalmazható vezetéselméleti és alkalmazott pszichológiai ismereteket;
 
-– az államigazgatási-, nemzetközi jogi és hadijogi szabályokat;
+- az államigazgatási-, nemzetközi jogi és hadijogi szabályokat;
 
-– a kutatáshoz és/vagy tudományos munkához szükséges, széles körben alkalmazható problémamegoldó technikákat;
+- a kutatáshoz és/vagy tudományos munkához szükséges, széles körben alkalmazható problémamegoldó technikákat;
 
-– az alapvető biztonságpolitikai ismereteket (NATO, EU, ENSZ, EBESZ, Afrikai Unió és egyéb nemzetközi szervezetek ismerete);
+- az alapvető biztonságpolitikai ismereteket (NATO, EU, ENSZ, EBESZ, Afrikai Unió és egyéb nemzetközi szervezetek ismerete);
 
-– a szakterület információs és média ismereteit;
+- a szakterület információs és média ismereteit;
 
-– interkulturális ismeretek körében más kultúrkörök társadalmi, vallási, ideológiai felépítését, gondolkodásmódját;
+- interkulturális ismeretek körében más kultúrkörök társadalmi, vallási, ideológiai felépítését, gondolkodásmódját;
 
-– a globális társadalmi és gazdasági folyamatokat;
+- a globális társadalmi és gazdasági folyamatokat;
 
-– az összhaderőnemi műveletek elméleti és gyakorlati problémáit tudományos igényű elemzések és megoldási alternatívák kidolgozásának módszereit;
+- az összhaderőnemi műveletek elméleti és gyakorlati problémáit tudományos igényű elemzések és megoldási alternatívák kidolgozásának módszereit;
 
-– az összhaderőnemi műveletekben részt vevő magasabb-egységek, hadműveleti magasabb-egységek tevékenységének tervezési, szervezési és irányítási kérdéseit;
+- az összhaderőnemi műveletekben részt vevő magasabb-egységek, hadműveleti magasabb-egységek tevékenységének tervezési, szervezési és irányítási kérdéseit;
 
-– a különböző szintű harcászati szimulációs rendszerek működési feltételeit, valamint az alárendeltek tevékenységének a begyakorláshoz szükséges előkészítési, tervezési, eljárási módszereket;
+- a különböző szintű harcászati szimulációs rendszerek működési feltételeit, valamint az alárendeltek tevékenységének a begyakorláshoz szükséges előkészítési, tervezési, eljárási módszereket;
 
-– az összhaderőnemi műveletek, illetve saját tevékenységük joganyagát;
+- az összhaderőnemi műveletek, illetve saját tevékenységük joganyagát;
 
-– a vezetett részleg (törzs) munkájának, tevékenységének, működési problémáinak tudományos igényű elemzési módszereit, a vezetett szervezet munkarendjének korszerűsítésére, új munkamódszerek, eljárások kidolgozására vonatkozó lehetőségeket;
+- a vezetett részleg (törzs) munkájának, tevékenységének, működési problémáinak tudományos igényű elemzési módszereit, a vezetett szervezet munkarendjének korszerűsítésére, új munkamódszerek, eljárások kidolgozására vonatkozó lehetőségeket;
 
-– a nemzetközi szervezetek (NATO, EU, ENSZ, EBESZ) döntéshozatali, döntés-előkészítési folyamatait, a katonadiplomácia alapvető rendszerét.
+- a nemzetközi szervezetek (NATO, EU, ENSZ, EBESZ) döntéshozatali, döntés-előkészítési folyamatait, a katonadiplomácia alapvető rendszerét.
 
 7.2. A mesterképzési szakon végzettek alkalmasak:
 
-– széleskörű általános műveltség és társadalomtudományi ismeretek alapján eligazodásra a nemzetközi, a társadalmi és politikai eseményekben és jelenségekben;
+- széleskörű általános műveltség és társadalomtudományi ismeretek alapján eligazodásra a nemzetközi, a társadalmi és politikai eseményekben és jelenségekben;
 
-– a honvédség, illetve saját tevékenységük törvényi-, jogi alapjainak átfogó megértésére;
+- a honvédség, illetve saját tevékenységük törvényi-, jogi alapjainak átfogó megértésére;
 
-– a vezetéselméleti ismeretek és kreatív technika alkalmazására;
+- a vezetéselméleti ismeretek és kreatív technika alkalmazására;
 
-– vezetői ismereteik, jártasságuk, valamint szakmai tudásuk birtokában a rájuk bízott szervezet tevékenységeinek megtervezésére, megszervezésére és folyamatos vezetésére, a szervezet tevékenységében való hatékony részvételre;
+- vezetői ismereteik, jártasságuk, valamint szakmai tudásuk birtokában a rájuk bízott szervezet tevékenységeinek megtervezésére, megszervezésére és folyamatos vezetésére, a szervezet tevékenységében való hatékony részvételre;
 
-– konkrét helyzetben a helyi célok és teendők körültekintő meghatározására, a végrehajtás feltételeinek biztosításának figyelembevételével;
+- konkrét helyzetben a helyi célok és teendők körültekintő meghatározására, a végrehajtás feltételeinek biztosításának figyelembevételével;
 
-– küldetésorientált vezetés megvalósítására;
+- küldetésorientált vezetés megvalósítására;
 
-– az alárendeltek tevékenységeinek, feladatainak megalapozott, előrelátó és a gyakorlatban végrehajtható meghatározására, a végrehajtás koordinálására, célirányos ellenőrzésére;
+- az alárendeltek tevékenységeinek, feladatainak megalapozott, előrelátó és a gyakorlatban végrehajtható meghatározására, a végrehajtás koordinálására, célirányos ellenőrzésére;
 
-– a megszerzett korszerű hadműveletei-harcászati ismeretek birtokában a kialakult helyzet elemzésére, döntések előkészítésére és meghozatalára;
+- a megszerzett korszerű hadműveletei-harcászati ismeretek birtokában a kialakult helyzet elemzésére, döntések előkészítésére és meghozatalára;
 
-– katonai feladatok végrehajtása érdekében érdemi együttműködés megvalósítására a fegyveres testületek, a polgári szervek vezetőivel (képviselőivel);
+- katonai feladatok végrehajtása érdekében érdemi együttműködés megvalósítására a fegyveres testületek, a polgári szervek vezetőivel (képviselőivel);
 
-– technikai ismereteik alapján a haditechnikai eszközök korszerűségének, harcászati alkalmazásuk lehetőségeinek, korlátainak megítélésére;
+- technikai ismereteik alapján a haditechnikai eszközök korszerűségének, harcászati alkalmazásuk lehetőségeinek, korlátainak megítélésére;
 
-– a hivatásos tiszt számára előírt fizikai edzettség és állóképesség követelményeinek folyamatos teljesítésére;
+- a hivatásos tiszt számára előírt fizikai edzettség és állóképesség követelményeinek folyamatos teljesítésére;
 
-– nemzetközi műveletek, illetve harctéri körülmények között az együttműködésre, annak tervezésére, megszervezésére és fenntartására a napi munka során;
+- nemzetközi műveletek, illetve harctéri körülmények között az együttműködésre, annak tervezésére, megszervezésére és fenntartására a napi munka során;
 
-– összfegyvernemi, (össz)haderőnemi műveleti gyakorlatok tervezésére, levezetésére;
+- összfegyvernemi, (össz)haderőnemi műveleti gyakorlatok tervezésére, levezetésére;
 
-– hadműveleti művészet alapvetéseinek gyakorlatban történő alkalmazására;
+- hadműveleti művészet alapvetéseinek gyakorlatban történő alkalmazására;
 
-– megszerzett korszerű hadműveleti, harcászati ismereteik birtokában a kialakult helyzet elemzésére, a harcászati hadműveleti döntések előkészítésére, meghozatalára összhaderőnemi háborús és nem háborús katonai műveletek során;
+- megszerzett korszerű hadműveleti, harcászati ismereteik birtokában a kialakult helyzet elemzésére, a harcászati hadműveleti döntések előkészítésére, meghozatalára összhaderőnemi háborús és nem háborús katonai műveletek során;
 
-– törzstájékoztatók, eligazítások anyagainak elkészítésére, azok irányítására, levezetésére a tervező-kidolgozó munka irányítására;
+- törzstájékoztatók, eligazítások anyagainak elkészítésére, azok irányítására, levezetésére a tervező-kidolgozó munka irányítására;
 
-– vezetői ismereteik, jártasságuk, valamint szakmai tudásuk birtokában az összhaderőnemi műveletekben résztvevő haderőnemek harcászati alegységei, egységei, valamint az alkalmi harci kötelékek tevékenységének megtervezésére, megszervezésére és folyamatos irányítására;
+- vezetői ismereteik, jártasságuk, valamint szakmai tudásuk birtokában az összhaderőnemi műveletekben résztvevő haderőnemek harcászati alegységei, egységei, valamint az alkalmi harci kötelékek tevékenységének megtervezésére, megszervezésére és folyamatos irányítására;
 
-– az alárendeltek feladatainak megalapozott, előrelátó és a gyakorlatban végrehajtható meghatározására, a végrehajtás koordinálására, a végrehajtók segítésére, valamint hatékony ellenőrzés végrehajtására;
+- az alárendeltek feladatainak megalapozott, előrelátó és a gyakorlatban végrehajtható meghatározására, a végrehajtás koordinálására, a végrehajtók segítésére, valamint hatékony ellenőrzés végrehajtására;
 
-– a feladatok végrehajtása érdekében az együttműködés megszervezésére és folyamatos fenntartására összhaderőnemi háborús és nem háborús műveletek során;
+- a feladatok végrehajtása érdekében az együttműködés megszervezésére és folyamatos fenntartására összhaderőnemi háborús és nem háborús műveletek során;
 
-– vezetett katonai szervezetek munkarendjének korszerűsítésére, racionalizálására.
+- vezetett katonai szervezetek munkarendjének korszerűsítésére, racionalizálására.
 
 7.3. A szakképzettség gyakorlásához szükséges személyes adottságok és készségek:
 
 a) általános elvárások:
 
-– a honvédség (a honvédelmi feladatok) iránti elkötelezettség,
+- a honvédség (a honvédelmi feladatok) iránti elkötelezettség,
 
-– széles látókör, általános műveltség,
+- széles látókör, általános műveltség,
 
-– alkalmasság az együttműködésre, a csoportmunkában való részvételre,
+- alkalmasság az együttműködésre, a csoportmunkában való részvételre,
 
-– probléma felismerő- és megoldó készség,
+- probléma felismerő- és megoldó készség,
 
-– jó stressztűrő képesség,
+- jó stressztűrő képesség,
 
-– egészséges életmód, kitűnő fizikai állóképesség.
+- egészséges életmód, kitűnő fizikai állóképesség.
 
 b) személyes adottságok:
 
-– kreativitás, rugalmasság, autonómia,
+- kreativitás, rugalmasság, autonómia,
 
-– intuíció, módszeresség és alaposság,
+- intuíció, módszeresség és alaposság,
 
-– tanulási készség és jó memória,
+- tanulási készség és jó memória,
 
-– információ feldolgozási képesség,
+- információ feldolgozási képesség,
 
-– igény a minőségi munkára,
+- igény a minőségi munkára,
 
-– igény a vezetői, szakmai és emberi fejlődésre;
+- igény a vezetői, szakmai és emberi fejlődésre;
 
-– alkalmazkodóképesség, csapatszellem, kompromisszumkészség,
+- alkalmazkodóképesség, csapatszellem, kompromisszumkészség,
 
-– a szakmai továbbképzéshez szükséges pozitív hozzáállás,
+- a szakmai továbbképzéshez szükséges pozitív hozzáállás,
 
-– kezdeményezés, döntéshozatali képesség és személyes felelősségvállalás.
+- kezdeményezés, döntéshozatali képesség és személyes felelősségvállalás.
 
 8. A mesterfokozat és a szakképzettség szempontjából meghatározó ismeretkörök:
 
@@ -3658,11 +3658,11 @@ hadművészet története, hadtudományi ismeretek, közgazdaságtan, katonaföl
 
 8.3. A szakmai törzsanyag kötelezően választható ismeretkörei: 28-46 kredit
 
-– differenciált szakmai ismeretek: 18-36 kredit
+- differenciált szakmai ismeretek: 18-36 kredit
 
 ősszhaderőnemi műveletek elmélete és gyakorlata, hadászat, összhaderőnemi hadművelet-elmélet, harcászat, katonai metodika, gyakorlati hadműveleti-harcászati felkészítés, katonai vezetéselmélet és gyakorlat;
 
-– diplomamunka: 10 kredit.
+- diplomamunka: 10 kredit.
 
 9. A képzéshez kapcsolt szakmai gyakorlat követelményei:
 
@@ -3676,9 +3676,9 @@ A mesterfokozat megszerzéséhez angol nyelvből STANAG 6001. 2.2.2.2. katonai s
 
 A hallgatónak a kredit megállapítása alapjául szolgáló ismeretek – felsőoktatási törvényben meghatározott – összevetése alapján elismerhető legyen legalább 20 kredit a korábbi tanulmányai szerint az alábbi ismeretkörökben:
 
-– alapozó ismeretek: (8 kredit): katonaföldrajzi ismeretek, információs műveletek; vezetés- és szervezéselmélet ismeretkörei; katonapszichológia, katonapedagógia;
+- alapozó ismeretek: (8 kredit): katonaföldrajzi ismeretek, információs műveletek; vezetés- és szervezéselmélet ismeretkörei; katonapszichológia, katonapedagógia;
 
-– szakmai ismeretek (12 kredit): hadtudományi alapismeretek, harcászat szakmai ismeretek, katonai műveletek alapjai ismeretek, haditechnika.
+- szakmai ismeretek (12 kredit): hadtudományi alapismeretek, harcászat szakmai ismeretek, katonai műveletek alapjai ismeretek, haditechnika.
 
 A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 8 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított egy féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
 
@@ -3688,11 +3688,11 @@ A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökbe
 
 2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: mesterfokozat (magister, master; rövidítve: MSc)
+- végzettségi szint: mesterfokozat (magister, master; rövidítve: MSc)
 
-– szakképzettség: okleveles katonai üzemeltető
+- szakképzettség: okleveles katonai üzemeltető
 
-– a szakképzettség angol nyelvű megjelölése: Military Maintenance (Technical) Manager
+- a szakképzettség angol nyelvű megjelölése: Military Maintenance (Technical) Manager
 
 3. Képzési terület: közigazgatási, rendészeti és katonai
 
@@ -3724,137 +3724,137 @@ A képzés célja hivatásos állományú tisztek, katonai vezető szakemberek k
 
 7.1. A mesterképzési szakon szerezhető ismeretek
 
-– társadalomtudományi ismeretek;
+- társadalomtudományi ismeretek;
 
-– a szakmához kötődő elméleti, és gyakorlati ismeretek;
+- a szakmához kötődő elméleti, és gyakorlati ismeretek;
 
-– rendszerszervezési ismeretek;
+- rendszerszervezési ismeretek;
 
-– katonai vezetői ismeretek;
+- katonai vezetői ismeretek;
 
-– hadműveleti/harcászati katonai szakmai ismeretek;
+- hadműveleti/harcászati katonai szakmai ismeretek;
 
-– hadtudományi elméleti és gyakorlati szakismeretek;
+- hadtudományi elméleti és gyakorlati szakismeretek;
 
-– általános és katonai szakterületen alkalmazható vezetéselméleti ismeretek;
+- általános és katonai szakterületen alkalmazható vezetéselméleti ismeretek;
 
-– államigazgatási ismeretek;
+- államigazgatási ismeretek;
 
-– hazai és nemzetközi közjogi, és hadijogi ismeretek;
+- hazai és nemzetközi közjogi, és hadijogi ismeretek;
 
-– a kutatáshoz és a tudományos munkához szükséges, széles körben alkalmazható problémamegoldó technikák, kutatás módszertani ismeretek;
+- a kutatáshoz és a tudományos munkához szükséges, széles körben alkalmazható problémamegoldó technikák, kutatás módszertani ismeretek;
 
-– a NATO és az EU szervezési, vezetési filozófiái;
+- a NATO és az EU szervezési, vezetési filozófiái;
 
-– a globális társadalmi, politikai és gazdasági folyamatok;
+- a globális társadalmi, politikai és gazdasági folyamatok;
 
-– az egyenlő esélyű hozzáférés elve és alkalmazásának módszere.
+- az egyenlő esélyű hozzáférés elve és alkalmazásának módszere.
 
 7.2. A mesterképzési szakon végzettek alkalmasak:
 
-– széleskörű általános műveltség és társadalomtudományi ismeretek alapján eligazodásra a nemzetközi, a társadalmi és a politikai eseményekben;
+- széleskörű általános műveltség és társadalomtudományi ismeretek alapján eligazodásra a nemzetközi, a társadalmi és a politikai eseményekben;
 
-– komplex katonai műszaki rendszerek és azok alrendszerei működésének magasabb szintű, átfogó tervezésére, szervezésére és irányítására;
+- komplex katonai műszaki rendszerek és azok alrendszerei működésének magasabb szintű, átfogó tervezésére, szervezésére és irányítására;
 
-– helyesen értelmezni a modern hadsereg funkcióit, helyét és szerepét a demokratikus társadalmakban;
+- helyesen értelmezni a modern hadsereg funkcióit, helyét és szerepét a demokratikus társadalmakban;
 
-– a modern hadsereg magyar és európai értékeinek, hagyományainak képviseletére és tiszteletére;
+- a modern hadsereg magyar és európai értékeinek, hagyományainak képviseletére és tiszteletére;
 
-– a katonai szövetségi rendszerben a számukra előírt feltételeknek és feladatoknak megfelelni;
+- a katonai szövetségi rendszerben a számukra előírt feltételeknek és feladatoknak megfelelni;
 
-– érvényt szerezni a hadviselés nemzetközi egyezményekben rögzített szabályainak a hazai, nemzetközi és a szövetségi műveletekben;
+- érvényt szerezni a hadviselés nemzetközi egyezményekben rögzített szabályainak a hazai, nemzetközi és a szövetségi műveletekben;
 
-– a hivatásos tiszt számára előírt fizikai edzettségi és állóképességi követelmények folyamatos teljesítésére;
+- a hivatásos tiszt számára előírt fizikai edzettségi és állóképességi követelmények folyamatos teljesítésére;
 
-– rendszeresített műszaki-technikai és haditechnikai eszközök üzemeltetésének, valamint üzemfenntartásának tervezésére, szervezésére és irányítására;
+- rendszeresített műszaki-technikai és haditechnikai eszközök üzemeltetésének, valamint üzemfenntartásának tervezésére, szervezésére és irányítására;
 
-– komplex haditechnikai híradó, informatikai és információvédelmi rendszerek üzemeltetésének, valamint üzemfenntartásának tervezésére, szervezésére és irányítására;
+- komplex haditechnikai híradó, informatikai és információvédelmi rendszerek üzemeltetésének, valamint üzemfenntartásának tervezésére, szervezésére és irányítására;
 
-– az erők megóvásával kapcsolatos feladatok (erők védelme, kockázatelemzés, egyszerűbb és bonyolultabb védelmi tervek összeállítása) rendszerszemléletű tervezésére, szervezésére és irányítására;
+- az erők megóvásával kapcsolatos feladatok (erők védelme, kockázatelemzés, egyszerűbb és bonyolultabb védelmi tervek összeállítása) rendszerszemléletű tervezésére, szervezésére és irányítására;
 
-– környezettudatos katonai-szakmai tevékenység végzésére;
+- környezettudatos katonai-szakmai tevékenység végzésére;
 
-– munkavédelmi feladatok megoldására;
+- munkavédelmi feladatok megoldására;
 
-– az információvédelem és rejtjeltevékenység megismerésére és alkalmazására;
+- az információvédelem és rejtjeltevékenység megismerésére és alkalmazására;
 
-– modern vezetési módszerek és eszközök alkalmazására;
+- modern vezetési módszerek és eszközök alkalmazására;
 
-– az összhaderőnemi műveletek, illetve saját tevékenységük törvényi, jogi alapjainak megértésére;
+- az összhaderőnemi műveletek, illetve saját tevékenységük törvényi, jogi alapjainak megértésére;
 
-– korszerű hadműveleti-, és harcászati ismereteik birtokában a kialakult helyzet elemzésére;
+- korszerű hadműveleti-, és harcászati ismereteik birtokában a kialakult helyzet elemzésére;
 
-– a harcászati-hadműveleti döntések előkészítésére, meghozatalára összhaderőnemi háborús és nem háborús katonai műveletek során;
+- a harcászati-hadműveleti döntések előkészítésére, meghozatalára összhaderőnemi háborús és nem háborús katonai műveletek során;
 
-– vezetői ismereteik, jártasságuk, valamint szakmai tudásuk birtokában a rájuk bízott szervezet tevékenységeinek megtervezésére, megszervezésére és folyamatos irányítására, a szervezet tevékenységében való hatékony részvételre;
+- vezetői ismereteik, jártasságuk, valamint szakmai tudásuk birtokában a rájuk bízott szervezet tevékenységeinek megtervezésére, megszervezésére és folyamatos irányítására, a szervezet tevékenységében való hatékony részvételre;
 
-– az irányított szervezet munkájának (tevékenységének), gyakorlati problémáinak elemzésére, megoldására, a szervezet munkájának korszerűsítésére;
+- az irányított szervezet munkájának (tevékenységének), gyakorlati problémáinak elemzésére, megoldására, a szervezet munkájának korszerűsítésére;
 
-– az alárendeltek tevékenységeinek, feladatainak megalapozott, előrelátó és a gyakorlatban végrehajtható meghatározására, a végrehajtás koordinálására, hatékony ellenőrzésére;
+- az alárendeltek tevékenységeinek, feladatainak megalapozott, előrelátó és a gyakorlatban végrehajtható meghatározására, a végrehajtás koordinálására, hatékony ellenőrzésére;
 
-– katonai feladatok végrehajtása érdekében érdemi együttműködésre a fegyveres testületek és más polgári szervek vezetőivel vagy képviselőivel;
+- katonai feladatok végrehajtása érdekében érdemi együttműködésre a fegyveres testületek és más polgári szervek vezetőivel vagy képviselőivel;
 
-– a feladatok végrehajtása érdekében az együttműködés megszervezésére és folyamatos fenntartására összhaderőnemi háborús és nem háborús műveletek során;
+- a feladatok végrehajtása érdekében az együttműködés megszervezésére és folyamatos fenntartására összhaderőnemi háborús és nem háborús műveletek során;
 
-– az egyenlő esélyű hozzáférés elvének alkalmazására;
+- az egyenlő esélyű hozzáférés elvének alkalmazására;
 
 továbbá a választott modulnak megfelelően:
 
-– jármű légi és földi üzemben tartásával kapcsolatos műszaki problémák felismerésére, analizálására, azok megoldásához műszaki és repülésbiztonsági szempontból helyes döntések meghozatalára;
+- jármű légi és földi üzemben tartásával kapcsolatos műszaki problémák felismerésére, analizálására, azok megoldásához műszaki és repülésbiztonsági szempontból helyes döntések meghozatalára;
 
-– a repülőműszaki rendszerek üzemben tartásának megszervezésére, irányítására úgy békeidőben, mint háborús tevékenységek során;
+- a repülőműszaki rendszerek üzemben tartásának megszervezésére, irányítására úgy békeidőben, mint háborús tevékenységek során;
 
-– az állami célú és a műveleti repülések nemzeti, nemzetközi és szövetségesi eljárások szerinti irányítására és végrehajtására, valamint az irányítói eszközök megbízható és hatékony alkalmazására, célravezetési és légi szállítási feladatok előkészítésére és irányítására;
+- az állami célú és a műveleti repülések nemzeti, nemzetközi és szövetségesi eljárások szerinti irányítására és végrehajtására, valamint az irányítói eszközök megbízható és hatékony alkalmazására, célravezetési és légi szállítási feladatok előkészítésére és irányítására;
 
-– elektronikai hadviselési eszközök, rendszerek üzemeltetésére és harci alkalmazására hazai és a NATO előírásai és eljárásai alapján;
+- elektronikai hadviselési eszközök, rendszerek üzemeltetésére és harci alkalmazására hazai és a NATO előírásai és eljárásai alapján;
 
-– az információs műveletekben alkalmazható eszközök, eljárások és képességek alkalmazására, az összehangolt információs műveletek megtervezésére, megszervezésére;
+- az információs műveletekben alkalmazható eszközök, eljárások és képességek alkalmazására, az összehangolt információs műveletek megtervezésére, megszervezésére;
 
-– a hazai, NATO és EU információvédelmi szabályainak és eljárásainak alkalmazására és fejlesztésére;
+- a hazai, NATO és EU információvédelmi szabályainak és eljárásainak alkalmazására és fejlesztésére;
 
-– a rendszeresített híradó, informatikai, vezetési, vezetésirányítási (C2), információvédelmi eszközök, hálózatok és rendszerek hazai, NATO és az EU előírásoknak megfelelő tervezésére, irányítására és továbbfejlesztésére.
+- a rendszeresített híradó, informatikai, vezetési, vezetésirányítási (C2), információvédelmi eszközök, hálózatok és rendszerek hazai, NATO és az EU előírásoknak megfelelő tervezésére, irányítására és továbbfejlesztésére.
 
 7.3. A szakképzettség gyakorlásához szükséges adottságok és készségek:
 
-– kreativitás, rugalmasság, autonómia;
+- kreativitás, rugalmasság, autonómia;
 
-– problémafelismerő készség és problémamegoldó képesség;
+- problémafelismerő készség és problémamegoldó képesség;
 
-– intuíció és módszeresség;
+- intuíció és módszeresség;
 
-– tanulási készség és jó memória;
+- tanulási készség és jó memória;
 
-– széleskörű műveltség;
+- széleskörű műveltség;
 
-– belső igényesség;
+- belső igényesség;
 
-– magas szintű stressztűrő képesség;
+- magas szintű stressztűrő képesség;
 
-– információfeldolgozási képesség;
+- információfeldolgozási képesség;
 
-– környezettel szembeni érzékenység;
+- környezettel szembeni érzékenység;
 
-– elkötelezettség és igény a minőségi munkára;
+- elkötelezettség és igény a minőségi munkára;
 
-– a szakmai továbbképzéshez szükséges pozitív hozzáállás;
+- a szakmai továbbképzéshez szükséges pozitív hozzáállás;
 
-– kezdeményezés, személyes felelősségvállalás, döntéshozatal;
+- kezdeményezés, személyes felelősségvállalás, döntéshozatal;
 
-– alkalmasság az együttműködésre, a csoportmunkában való részvételre, kellő gyakorlat után vezetői feladatok ellátására.
+- alkalmasság az együttműködésre, a csoportmunkában való részvételre, kellő gyakorlat után vezetői feladatok ellátására.
 
 8. A mesterfokozat és a szakképzettség szempontjából meghatározó ismeretkörök:
 
 8.1. Az alapképzésben megszerzett ismereteket tovább bővítő, mesterfokozathoz szükséges alapozó ismeretkörök: 22-38 kredit
 
-– természettudományi alapozó ismeretek:4-8 kredit
+- természettudományi alapozó ismeretek:4-8 kredit
 
 alkalmazott matematika, alkalmazott informatika;
 
-– gazdasági és humán ismeretek: 6-10 kredit
+- gazdasági és humán ismeretek: 6-10 kredit
 
 minőségbiztosítás, gazdálkodási és logisztikai ismeretek;
 
-– katonai ismeretek:12-20 kredit
+- katonai ismeretek:12-20 kredit
 
 katonai vezető ismeretek, konfliktuskezelés;
 
@@ -3880,9 +3880,9 @@ A mesterfokozat megszerzéséhez angol nyelvből STANAG 6001. 2.2.2.2. nyelvvizs
 
 A hallgatónak a kredit megállapítása alapjául szolgáló ismeretek – felsőoktatási törvényben meghatározott – összevetése alapján elismerhető legyen legalább 30 kredit a korábbi tanulmányai szerint az alábbi ismeretkörökben:
 
-– alapozó ismeretek, legalább 15 kredit: matematika, villamosságtan, irányítástechnika, szabályozástechnika, közgazdaságtan, logisztika, katonai vezetői ismeretek, üzemeltetés elmélet, jogi ismeretek,
+- alapozó ismeretek, legalább 15 kredit: matematika, villamosságtan, irányítástechnika, szabályozástechnika, közgazdaságtan, logisztika, katonai vezetői ismeretek, üzemeltetés elmélet, jogi ismeretek,
 
-– szakmai ismeretek legalább 15 kredit: hadtudományi alapismeretek, harcászat szakmai ismeretek, katonai műveletek alapjai ismeretek, haditechnikai ismeretek, híradó ismeretek, informatikai ismeretek.
+- szakmai ismeretek legalább 15 kredit: hadtudományi alapismeretek, harcászat szakmai ismeretek, katonai műveletek alapjai ismeretek, haditechnikai ismeretek, híradó ismeretek, informatikai ismeretek.
 
 A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 24 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított egy féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
 
@@ -3892,11 +3892,11 @@ A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökbe
 
 2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-– végzettségi szint: mesterfokozat (magister, master; rövidítve: MSc)
+- végzettségi szint: mesterfokozat (magister, master; rövidítve: MSc)
 
-– szakképzettség: okleveles összhaderőnemi logisztikai vezető
+- szakképzettség: okleveles összhaderőnemi logisztikai vezető
 
-– a szakképzettség angol nyelvű megjelölése: Joint Logistics Leader
+- a szakképzettség angol nyelvű megjelölése: Joint Logistics Leader
 
 3. Képzési terület: közigazgatási, rendészeti és katonai képzési terület
 
@@ -3932,79 +3932,79 @@ Felkészültek tanulmányaik doktori képzés keretében történő folytatásá
 
 7.1. A mesterképzési szakon végzettek ismerik:
 
-– a hadműveletek és hadtörténelem elméletét, törvényszerűségeit;
+- a hadműveletek és hadtörténelem elméletét, törvényszerűségeit;
 
-– a hadművelet logisztikai támogatásának és vezetésének elméleti és gyakorlati kérdéseit;
+- a hadművelet logisztikai támogatásának és vezetésének elméleti és gyakorlati kérdéseit;
 
-– a kutatáshoz vagy tudományos munkához szükséges, széles körben alkalmazható problémamegoldó technikákat;
+- a kutatáshoz vagy tudományos munkához szükséges, széles körben alkalmazható problémamegoldó technikákat;
 
-– a globális társadalmi és gazdasági folyamatokat;
+- a globális társadalmi és gazdasági folyamatokat;
 
-– a hazai és külföldi civil és katonai logisztikai rendszerek elemzésének, irányításának, ellenőrzésének és működtetésének módszereit.
+- a hazai és külföldi civil és katonai logisztikai rendszerek elemzésének, irányításának, ellenőrzésének és működtetésének módszereit.
 
 7.2. A mesterképzési szakon végzettek alkalmasak:
 
-– logisztikai alegységek és egységek vezetésére;
+- logisztikai alegységek és egységek vezetésére;
 
-– harcászati és hadműveleti törzsekben törzskari feladatok ellátására, logisztikai döntések előkészítésére, a szaktisztek munkájának koordinálására;
+- harcászati és hadműveleti törzsekben törzskari feladatok ellátására, logisztikai döntések előkészítésére, a szaktisztek munkájának koordinálására;
 
-– a védelmi szférában és a kapcsolódó államigazgatási és katasztrófavédelmi területen a logisztikai feladatok tervezésére, szervezésére és irányítására;
+- a védelmi szférában és a kapcsolódó államigazgatási és katasztrófavédelmi területen a logisztikai feladatok tervezésére, szervezésére és irányítására;
 
-– többnemzeti logisztikai szervezetek vezetésére;
+- többnemzeti logisztikai szervezetek vezetésére;
 
-– a logisztikai támogatás vezetésére a vezetési dokumentumok, okmányok kidolgozására, a logisztikai támogató szervezetek feladatának meghatározására, irányítására békében és békétől eltérő időszakban egyaránt;
+- a logisztikai támogatás vezetésére a vezetési dokumentumok, okmányok kidolgozására, a logisztikai támogató szervezetek feladatának meghatározására, irányítására békében és békétől eltérő időszakban egyaránt;
 
-– az anyagellátási, fenntartási és közlekedésszervezési feladatok vezetésére minősített időszakban honi területen és többnemzeti kötelékekben műveleti területen;
+- az anyagellátási, fenntartási és közlekedésszervezési feladatok vezetésére minősített időszakban honi területen és többnemzeti kötelékekben műveleti területen;
 
-– hazai és nemzetközi fórumokon a magyar katonai logisztikai támogató rendszer megfelelő szintű képviseletére;
+- hazai és nemzetközi fórumokon a magyar katonai logisztikai támogató rendszer megfelelő szintű képviseletére;
 
-– olyan innovatív képességek birtoklására, amelyek lehetővé teszik, hogy a feladatokat tudományos igénnyel kezeljék;
+- olyan innovatív képességek birtoklására, amelyek lehetővé teszik, hogy a feladatokat tudományos igénnyel kezeljék;
 
-– a haderőnemi és béketámogatói műveleti követelmények változása logisztikai aspektusainak megfogalmazására, és a logisztikai rendszerbe történő rendszerszemléletű integrálásuk lehetőségeinek kidolgozására.
+- a haderőnemi és béketámogatói műveleti követelmények változása logisztikai aspektusainak megfogalmazására, és a logisztikai rendszerbe történő rendszerszemléletű integrálásuk lehetőségeinek kidolgozására.
 
 7.3. A katonai műveleti logisztikai mesterképzési szakon végzett okleveles összhaderőnemi logisztikai vezetők képesek:
 
-– alegységek, egységek vezetésére, törzskari együttműködésre hazai és nemzetközi törzsekben egyaránt;
+- alegységek, egységek vezetésére, törzskari együttműködésre hazai és nemzetközi törzsekben egyaránt;
 
-– szövetségi rendszerben a katonai középvezetők (törzsek) részére előírt feltételeknek megfelelni, feladataikat e rendszer keretei között ellátni;
+- szövetségi rendszerben a katonai középvezetők (törzsek) részére előírt feltételeknek megfelelni, feladataikat e rendszer keretei között ellátni;
 
-– a megszerzett tudás alkalmazására és gyakorlati hasznosítására, a problémamegoldó technikák használatára;
+- a megszerzett tudás alkalmazására és gyakorlati hasznosítására, a problémamegoldó technikák használatára;
 
-– a tudományágban megszerzett szakmai tapasztalat ismereti határaiból származó információk, felmerülő új problémák, új jelenségek feldolgozására;
+- a tudományágban megszerzett szakmai tapasztalat ismereti határaiból származó információk, felmerülő új problémák, új jelenségek feldolgozására;
 
-– megalapozott vélemény, illetve bírálat megfogalmazására, következtetések levonására, döntések meghozatalára;
+- megalapozott vélemény, illetve bírálat megfogalmazására, következtetések levonására, döntések meghozatalára;
 
-– a megoldandó problémák megértésére, megfogalmazására és megoldására, eredeti ötletek felvetésére;
+- a megoldandó problémák megértésére, megfogalmazására és megoldására, eredeti ötletek felvetésére;
 
-– önművelésre, önfejlesztésre, az egyéni tudás, ismeret elmélyítésére, bővítésére;
+- önművelésre, önfejlesztésre, az egyéni tudás, ismeret elmélyítésére, bővítésére;
 
-– át- és továbbképzés után a közszolgálati feladatok ellátására;
+- át- és továbbképzés után a közszolgálati feladatok ellátására;
 
-– a haderőfejlesztés haderőnemi koncepciói által meghatározott képességkövetelményekhez igazodva a szakirányú technikai és strukturális biztosítási-támogatási rendszer tervezési, szervezési és végrehajtási feladataiban a vonatkozó mértékben és szinteken részt venni.
+- a haderőfejlesztés haderőnemi koncepciói által meghatározott képességkövetelményekhez igazodva a szakirányú technikai és strukturális biztosítási-támogatási rendszer tervezési, szervezési és végrehajtási feladataiban a vonatkozó mértékben és szinteken részt venni.
 
 7.4. A szakképzettség gyakorlásához szükséges adottságok és készségek:
 
-– vezetői és együttműködési készség;
+- vezetői és együttműködési készség;
 
-– kreativitás, rugalmasság, autonómia;
+- kreativitás, rugalmasság, autonómia;
 
-– probléma felismerő- és megoldó készség;
+- probléma felismerő- és megoldó készség;
 
-– intuíció és módszeresség;
+- intuíció és módszeresség;
 
-– tanulási készség és jó memória;
+- tanulási készség és jó memória;
 
-– széles műveltség;
+- széles műveltség;
 
-– információ feldolgozási képesség;
+- információ feldolgozási képesség;
 
-– környezettel szembeni érzékenység;
+- környezettel szembeni érzékenység;
 
-– elkötelezettség és igény a minőségi munkára;
+- elkötelezettség és igény a minőségi munkára;
 
-– a szakmai továbbképzéshez szükséges pozitív hozzáállás;
+- a szakmai továbbképzéshez szükséges pozitív hozzáállás;
 
-– kezdeményezés, személyes felelősségvállalás és gyakorlás, döntéshozatal.
+- kezdeményezés, személyes felelősségvállalás és gyakorlás, döntéshozatal.
 
 8. A mesterfokozat és a szakképzettség szempontjából meghatározó ismeretkörök:
 
@@ -4018,11 +4018,11 @@ hadtudományi és hadelméleti ismeretek, katonai műveletek elmélete és gyako
 
 8.3. Differenciált szakmai ismeretek: 30-37 kredit
 
-– kötelezően választható ismeretkörei: 20-27 kredit
+- kötelezően választható ismeretkörei: 20-27 kredit
 
 logisztikai informatika, logisztikai törzsszolgálat és nemzetközi gyakorlat, szárazföldi- és légi erő műveleteinek logisztikai támogatása, nem háborús műveletek logisztikai támogatása, összhaderőnemi ellátási lánc, technológiai fejlődés és katonai logisztika, esettanulmányok a katonai logisztikában,
 
-– diplomamunka: 10 kredit.
+- diplomamunka: 10 kredit.
 
 9. A képzéshez kapcsolt szakmai gyakorlat követelményei:
 
@@ -4041,3 +4041,5 @@ A hallgatónak a kredit megállapítása alapjául szolgáló ismeretek - felső
 – szakmai ismeretek (18 kredit): békefenntartói alapismeretek, logisztikai alapismeretek, logisztikai támogatás, katonai szervezetek vezetése, katonai gazdálkodási alapismeretek, katonai közlekedési alapismeretek, műszaki alapismeretek, logisztikai szaktechnikai eszközök, katonai pénzügyek, haditechnikai ismeretek.
 
 A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 24 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított egy féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
+
+[^6]: A 3. melléklet a 11. § szerint módosított szöveg.
