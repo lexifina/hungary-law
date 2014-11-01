@@ -20,7 +20,7 @@ bc) az átutalással megvalósított pénzügyi teljesítést igazoló bizonylat
 
 bd) készpénzes kifizetés esetén a számla, egyszerűsített számla és a kifizetési pénztárbizonylat kedvezményezett képviselője által hitelesített másolatát vagy az adott kifizetési tételre a könyvviteli nyilvántartás vonatkozó részének kedvezményezett képviselője által hitelesített másolatát,
 
-be)[^6] a saját forrás – ha előírásra került – és a társfinanszírozás felhasználásáról szóló kimutatást,
+be)[^7] a saját forrás – ha előírásra került – és a társfinanszírozás felhasználásáról szóló kimutatást,
 
 bf) a személyi jellegű költségek, kiadások, és azok közterheinek részletes kimutatását, és
 
@@ -30,9 +30,9 @@ bg) azokat a dokumentumokat, amelyeket a támogató a beszámoló részeként a 
 
 (4) A (2) bekezdés b) pont ba), be) és bf) alpontjában meghatározott dokumentumokat a kedvezményezett képviselője írja alá, a (2) bekezdés b) pont bb)–bd) alpontjában meghatározott dokumentumokat a kedvezményezett képviselője vagy az általa írásban meghatalmazott személy írja alá. A meghatalmazás a beszámoló pénzügyi részének részét képezi.
 
-(5)[^7] A kedvezményezett köteles a támogató felhívására a beszámolót – amennyiben a támogatási szerződésben a felek másként nem rendelkeznek – 15 napon belül pontosítani.
+(5)[^8] A kedvezményezett köteles a támogató felhívására a beszámolót – amennyiben a támogatási szerződésben a felek másként nem rendelkeznek – 15 napon belül pontosítani.
 
 (6) A beszámoló értékelését a támogató annak beérkezését követő 60 napon belül elvégzi, és annak eredményéről a kedvezményezettet értesíti. A határidőbe a hiánypótlásra meghatározott határidő nem számít bele.
 
-[^6]: A 10. § (2) bekezdés b) pont be) alpontja a 3/2014. (I. 31.) BM rendelet 37. § a) pontja szerint módosított szöveg.
-[^7]: A 10. § (5) bekezdése a 78/2013. (XII. 19.) BM rendelet 1. §-ával megállapított szöveg.
+[^7]: A 10. § (2) bekezdés b) pont be) alpontja a 3/2014. (I. 31.) BM rendelet 37. § a) pontja szerint módosított szöveg.
+[^8]: A 10. § (5) bekezdése a 78/2013. (XII. 19.) BM rendelet 1. §-ával megállapított szöveg.

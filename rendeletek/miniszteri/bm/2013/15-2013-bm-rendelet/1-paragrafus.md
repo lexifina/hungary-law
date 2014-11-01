@@ -2,7 +2,7 @@
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
 
-1. § (1)[^1] E rendelet hatálya
+1. § (1)[^2] E rendelet hatálya
 
 a) a központi költségvetésről szóló törvénynek a Belügyminisztérium fejezetében eredeti előirányzatként megállapított fejezeti kezelésű előirányzatokra,
 
@@ -16,4 +16,4 @@ c) az államháztartásról szóló törvény végrehajtásáról szóló 368/20
 
 (3) A (2) bekezdésben meghatározott előirányzatra a 4. és 5. alcímet nem lehet alkalmazni.
 
-[^1]: Az 1. § (1) bekezdése a 3/2014. (I. 31.) BM rendelet 14. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 3/2014. (I. 31.) BM rendelet 14. §-ával megállapított szöveg.

@@ -6,6 +6,6 @@
 
 12. § (1) Az előirányzat a miniszter irányítása alá tartozó költségvetési szervek energia-racionalizálási rendszerének támogatására, valamint európai uniós forrásból megvalósuló épületenergetikai fejlesztéseinek előkészítéséhez szükséges kiadások finanszírozására szolgál.
 
-(2)[^8] Az előirányzatból visszatérítendő költségvetési támogatás nyújtható. A támogatási szerződésben meg kell határozni a visszatérítés határidejét vagy határnapját.
+(2)[^9] Az előirányzatból visszatérítendő költségvetési támogatás nyújtható. A támogatási szerződésben meg kell határozni a visszatérítés határidejét vagy határnapját.
 
-[^8]: A 12. § (2) bekezdése a 3/2014. (I. 31.) BM rendelet 16. §-ával megállapított szöveg.
+[^9]: A 12. § (2) bekezdése a 3/2014. (I. 31.) BM rendelet 16. §-ával megállapított szöveg.

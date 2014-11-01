@@ -4,6 +4,6 @@
 
 28. § (1) Az előirányzat célja az Őrbottyán és térsége csatorna- és szennyvíz-elvezetési rendszer kiépítésének támogatása.
 
-(2)[^35] A költségvetési maradvány felhasználása a kötelezettségvállalások jogosultjai részére történő kifizetéssel valósul meg.
+(2)[^34] A költségvetési maradvány felhasználása a kötelezettségvállalások jogosultjai részére történő kifizetéssel valósul meg.
 
-[^35]: A 28. § (2) bekezdése a 3/2014. (I. 31.) BM rendelet 37. § b) pontja szerint módosított szöveg.
+[^34]: A 28. § (2) bekezdése a 3/2014. (I. 31.) BM rendelet 37. § b) pontja szerint módosított szöveg.

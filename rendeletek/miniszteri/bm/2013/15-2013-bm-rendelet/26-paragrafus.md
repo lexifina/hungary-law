@@ -4,9 +4,9 @@
 
 (2) Az előirányzatból a vízgazdálkodási társulatok, természetes és jogi személyek támogathatóak.
 
-(3)[^32] Az előirányzat terhére egyedi döntéssel – támogatási szerződés vagy támogatói okirat keretében – költségvetési támogatás nyújtható. A költségvetési támogatás támogatási előlegként is folyósítható.
+(3)[^31] Az előirányzat terhére egyedi döntéssel – támogatási szerződés vagy támogatói okirat keretében – költségvetési támogatás nyújtható. A költségvetési támogatás támogatási előlegként is folyósítható.
 
-(4)[^33] Ha a költségvetési támogatás hatékony felhasználása céljából szükséges, a költségvetési támogatás a miniszter vezetése vagy irányítása alá tartozó költségvetési szerv részére történő előirányzat-átcsoportosítással történik.
+(4)[^32] Ha a költségvetési támogatás hatékony felhasználása céljából szükséges, a költségvetési támogatás a miniszter vezetése vagy irányítása alá tartozó költségvetési szerv részére történő előirányzat-átcsoportosítással történik.
 
-[^32]: A 26. § (3) bekezdése a 3/2014. (I. 31.) BM rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^33]: A 26. § (4) bekezdését a 3/2014. (I. 31.) BM rendelet 27. § (2) bekezdése iktatta be.
+[^31]: A 26. § (3) bekezdése a 3/2014. (I. 31.) BM rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^32]: A 26. § (4) bekezdését a 3/2014. (I. 31.) BM rendelet 27. § (2) bekezdése iktatta be.

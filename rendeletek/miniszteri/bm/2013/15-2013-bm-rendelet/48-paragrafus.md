@@ -1,3 +1,3 @@
-## 42.[^51]
+## 42.[^61]
 
-[^51]: A 42. alcímet (48. §) a 3/2014. (I. 31.) BM rendelet 38. § (2) bekezedése hatályon kívül helyezte.
+[^61]: A 42. alcímet (48. §) a 3/2014. (I. 31.) BM rendelet 38. § (2) bekezedése hatályon kívül helyezte.

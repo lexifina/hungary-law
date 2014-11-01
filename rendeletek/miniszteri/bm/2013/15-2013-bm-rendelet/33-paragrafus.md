@@ -2,7 +2,7 @@
 
 33. § (1) Az előirányzat a Nemzedékek Biztonságáért Alapítvány támogatására 29,0 millió forint összegig használható fel. A költségvetési támogatás célja a rendvédelmi társadalmi szervezetekkel együttműködve a sport, a művészet és rendvédelem terén az esélyegyenlőség jegyében szervezett programok, rendezvények támogatása.
 
-(2) Az előirányzat a Magyar Polgári Védelmi Szövetség támogatására 10,0 millió forint összegig használható fel. A költségvetési támogatás a lakosság, az ifjúság, a polgári védelmi szervezetek, valamint a polgármestert segítők és közbiztonsági referensek folyamatos felkészítésére, a „Polgári védelmi mozgalom dinamizálása” projekt időarányos végrehajtására, továbbá a szervezet BM OKF főigazgatója által jóváhagyott éves munkatervében meghatározott feladatokhoz, az állampolgárok élet- és vagyonbiztonságának védelméhez való hozzájárulás céljára használható fel.
+(2)[^50] Az előirányzat a Magyar Polgári Védelmi Szövetség támogatására 10,0 millió forint összegig használható fel. A költségvetési támogatás a lakosság, az ifjúság, a polgári védelmi szervezetek, valamint a polgármestert segítők és közbiztonsági referensek folyamatos felkészítésére, a „Polgári védelmi mozgalom dinamizálása” projekt időarányos végrehajtására, továbbá a szervezet BM Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF) főigazgatója által jóváhagyott éves munkatervében meghatározott feladatokhoz, az állampolgárok élet- és vagyonbiztonságának védelméhez való hozzájárulás céljára használható fel.
 
 (3) Az előirányzat a Magyar Tűzoltó Szövetség és megyei szervezetei támogatására 22,5 millió forint összegig használható fel. A költségvetési támogatás, a Magyar Tűzoltó Szövetség és megyei szervezetei alapító okiratában, a BM OKF főigazgatója által jóváhagyott éves munkatervében meghatározott feladataira, és az általuk szervezett rendezvények megvalósítására fordítható.
 
@@ -16,9 +16,10 @@
 
 (8) Az előirányzat a Szertelen-kék Alapítvány támogatására 5,0 millió forint összegig használható fel. A költségvetési támogatás célja a Szertelen-kék Alapítvány alapító okiratában meghatározott feladatok megvalósulásának elősegítése.
 
-(9)[^40] Az (1)–(8) bekezdés alapján egyedi döntéssel költségvetési támogatás nyújtható. A költségvetési támogatás támogatási előlegként is folyósítható.
+(9)[^51] Az (1)–(8) bekezdés alapján egyedi döntéssel költségvetési támogatás nyújtható. A költségvetési támogatás támogatási előlegként is folyósítható.
 
-(10)[^41] A (2), (4) és (7) bekezdésben meghatározott szövetségek a támogatást nyilvántartott tagjaik részére továbbadhatják.
+(10)[^52] A (2), (4) és (7) bekezdésben meghatározott szövetségek a támogatást nyilvántartott tagjaik részére továbbadhatják.
 
-[^40]: A 33. § (9) bekezdése a 3/2014. (I. 31.) BM rendelet 31. §-ával megállapított szöveg.
-[^41]: A 33. § (10) bekezdését a 78/2013. (XII. 19.) BM rendelet 4. §-a iktatta be.
+[^50]: A 33. § (2) bekezdése a 49/2014. (X. 31.) BM rendelet 3. §-a szerint módosított szöveg.
+[^51]: A 33. § (9) bekezdése a 3/2014. (I. 31.) BM rendelet 31. §-ával megállapított szöveg.
+[^52]: A 33. § (10) bekezdését a 78/2013. (XII. 19.) BM rendelet 4. §-a iktatta be.
