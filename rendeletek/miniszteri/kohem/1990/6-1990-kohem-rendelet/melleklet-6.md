@@ -74,11 +74,11 @@
 
 | 1 | – katalizátoros, nem szabályozott keverékképzésű, Otto-motoros; |
 
-| 2 | – katalizátoros, szabályozott keverékképzésű, Otto-motoros [kivéve a 4. osztályba sorolt ENSZ-EGB 83.02/B. előírás (Euro-II.) szerinti jóváhagyási jellel ellátott gépjárművet]1; |
+| 2 |  |
 
 | 3 | – az ENSZ-EGB 83.01/C, vagy 49.02/A előírás (EURO-I.) szerinti jóváhagyási jellel ellátott, Dízel-motoros; |
 
-| 4 | – az ENSZ-EGB 83.02/B. előírás (Euro-II.) szerinti jóváhagyási jellel ellátott – katalizátoros, szabályozott keverékképzésű – Otto-motoros1, – az ENSZ-EGB 83.02/C, 83.03/C, 83.03/D, 83.04/C, 83.04/D, illetőleg a 49.02/B és 51.02 előírások (EURO-II.) szerinti jóváhagyási jellel ellátott Dízel-motoros; |
+| 4 |  |
 
 | 5 | – tiszta gázüzemű- vagy elektromos meghajtású, illetőleg – hibrid (a gépjárművet meghajtó elektromos-, valamint Otto- vagy Dízel-motorral is ellátott) hajtású(9); |
 
@@ -128,6 +128,6 @@
 
 ## (12) Az Euro-VI. kibocsátási határértéket az 582/2011/EU bizottsági rendelet XV. mellékletével (2011.06.25. L167/163) módosított, a nehéz tehergépjárművek kibocsátásai (Euro-VI) tekintetében a gépjárművek és motorok típusjóváhagyásáról, a járművek javítására és karbantartására vonatkozó információkhoz való hozzáférésről szóló 595/2009/EK európai parlamenti és tanácsi rendelet I. melléklete határozza meg.
 
-6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^235]
+6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^239]
 
-[^235]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
+[^239]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.

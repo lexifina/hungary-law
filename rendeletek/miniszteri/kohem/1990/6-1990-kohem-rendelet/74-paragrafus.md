@@ -4,11 +4,11 @@
 
 74. § (1) A belsőégésű motorral ellátott járművön a tüzelőanyagtartályt és a tüzelőanyagvezetéket olyan állapotban kell tartani, hogy a tüzelőanyag azokból ki ne ömöljön, ki ne csepegjen és ne szivárogjon. A tüzelőanyagtartályt zárófedéllel kell ellátni.
 
-(2)[^147] A gázüzemű jármű gáz-üzemanyagellátó berendezésének jóváhagyási jellel ellátottnak kell lennie, továbbá a járműbe történő beszerelésének és állapotának a külön jogszabályban[^148] meghatározottak szerint tanúsítottnak kell lennie.
+(2)[^150] A gázüzemű jármű gáz-üzemanyagellátó berendezésének jóváhagyási jellel ellátottnak kell lennie, továbbá a járműbe történő beszerelésének és állapotának a külön jogszabályban[^151] meghatározottak szerint tanúsítottnak kell lennie.
 
-(3)[^149] A gáz-üzemanyagellátó berendezés egyes elemeit a berendezéshez tartozó – a közlekedési hatóság által a jármű gázüzeművé történő átalakításának, vagy egyedi forgalomba helyezésének engedélyezési eljárása során jóváhagyott – beszerelési utasításnak megfelelően kell beszerelni és rögzíteni.
+(3)[^152] A gáz-üzemanyagellátó berendezés egyes elemeit a berendezéshez tartozó – a közlekedési hatóság által a jármű gázüzeművé történő átalakításának, vagy egyedi forgalomba helyezésének engedélyezési eljárása során jóváhagyott – beszerelési utasításnak megfelelően kell beszerelni és rögzíteni.
 
-(4)[^150] A gázüzemű jármű gáztartályának:
+(4)[^153] A gázüzemű jármű gáztartályának:
 
 a) sérülésmentesnek kell lennie,
 
@@ -16,7 +16,7 @@ b) rendelkeznie kell:
 
 ba) jóváhagyási jellel, amelyet a gáztartály adattábláján a gyártó – 10 évnél nem régebben elvégzett – beütéssel igazolt, vagy
 
-bb)[^151] „Megfelelőségi Tanúsítvánnyal”, vagy „Tanúsítvánnyal”, amelyet hazai gyártású tartály esetében a gyártó, importból származó tartály esetében az importőr adott ki a tartályhoz, továbbá
+bb)[^154] „Megfelelőségi Tanúsítvánnyal”, vagy „Tanúsítvánnyal”, amelyet hazai gyártású tartály esetében a gyártó, importból származó tartály esetében az importőr adott ki a tartályhoz, továbbá
 
 c) a gyártásától eltelt idő nem haladhatja meg:
 
@@ -24,19 +24,19 @@ ca) cseppfolyósgáz-tartály esetében a 15 évet,
 
 cb) sűrített gáz és egyéb gáztartály esetében a gyártó által meghatározott időtartamot, illetőleg ennek hiányában a 20 évet.
 
-(5)[^152] A gázüzemű jármű szélvédőjének jobb alsó sarkán e rendelet 13. számú mellékletében meghatározott megjelölést kell elhelyezni.
+(5)[^155] A gázüzemű jármű szélvédőjének jobb alsó sarkán e rendelet 13. számú mellékletében meghatározott megjelölést kell elhelyezni.
 
-(6)[^153] A cseppfolyós gázüzemű[^154] járműnek e rendelet 14. számú mellékletében meghatározott feltételeknek is meg kell felelni.
+(6)[^156] A cseppfolyós gázüzemű[^157] járműnek e rendelet 14. számú mellékletében meghatározott feltételeknek is meg kell felelni.
 
-(7)[^155] A sűrített földgázzal és az egyéb gázzal üzemelő jármű gáz-üzemanyagellátó berendezésének járműbe történő beszerelésére vonatkozó feltételeket a közlekedési hatóság határozza meg.[^156]
+(7)[^158] A sűrített földgázzal és az egyéb gázzal üzemelő jármű gáz-üzemanyagellátó berendezésének járműbe történő beszerelésére vonatkozó feltételeket a közlekedési hatóság határozza meg.[^159]
 
-[^147]: A 74. § (2) bekezdése a 35/2004. (III. 30.) GKM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^148]: A gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet.
-[^149]: A 74. § (3) bekezdése a 67/2009. (XI. 27.) KHEM rendelet 5. §-ával megállapított szöveg.
-[^150]: A 74. § új (4) bekezdését a 35/2004. (III. 30.) GKM rendelet 5. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4)–(6) bekezdés számozását (5)–(7) bekezdésre változtatva. A (4) bekezdés a 126/2005. (XII. 29.) GKM rendelet 1. §-ával megállapított szöveg.
-[^151]: A 74. § (4) bekezdés b) pont bb) alpontja a 26/2010. (XII. 22.) NFM rendelet 10. §-a szerint módosított szöveg.
-[^152]: A 74. § (4) bekezdését a 13/1993. (V. 12.) KHVM rendelet 3. §-a iktatta be, számozását (5) bekezdésre változtatta a 35/2004. (III. 30.) GKM rendelet 5. § (2) bekezdése.
-[^153]: A 74. § (5) bekezdését a 13/1993. (V. 12.) KHVM rendelet 3. §-a iktatta be, számozását (6) bekezdésre változtatta a 35/2004. (III. 30.) GKM rendelet 5. § (2) bekezdése.
-[^154]: Lásd a 6/1993. (V. 12.) IKM rendeletet.
-[^155]: A 74. § (6) bekezdését a 13/1993. (V. 12.) KHVM rendelet 3. §-a iktatta be, számozását (7) bekezdésre változtatta a 35/2004. (III. 30.) GKM rendelet 5. § (2) bekezdése, szövege a 67/2009. (XI. 27.) KHEM rendelet 9. § (7) bekezdése szerint módosított szöveg.
-[^156]: Lásd a Közlekedési Főfelügyelet szabályzatát.
+[^150]: A 74. § (2) bekezdése a 35/2004. (III. 30.) GKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^151]: A gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet.
+[^152]: A 74. § (3) bekezdése a 67/2009. (XI. 27.) KHEM rendelet 5. §-ával megállapított szöveg.
+[^153]: A 74. § új (4) bekezdését a 35/2004. (III. 30.) GKM rendelet 5. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4)–(6) bekezdés számozását (5)–(7) bekezdésre változtatva. A (4) bekezdés a 126/2005. (XII. 29.) GKM rendelet 1. §-ával megállapított szöveg.
+[^154]: A 74. § (4) bekezdés b) pont bb) alpontja a 26/2010. (XII. 22.) NFM rendelet 10. §-a szerint módosított szöveg.
+[^155]: A 74. § (4) bekezdését a 13/1993. (V. 12.) KHVM rendelet 3. §-a iktatta be, számozását (5) bekezdésre változtatta a 35/2004. (III. 30.) GKM rendelet 5. § (2) bekezdése.
+[^156]: A 74. § (5) bekezdését a 13/1993. (V. 12.) KHVM rendelet 3. §-a iktatta be, számozását (6) bekezdésre változtatta a 35/2004. (III. 30.) GKM rendelet 5. § (2) bekezdése.
+[^157]: Lásd a 6/1993. (V. 12.) IKM rendeletet.
+[^158]: A 74. § (6) bekezdését a 13/1993. (V. 12.) KHVM rendelet 3. §-a iktatta be, számozását (7) bekezdésre változtatta a 35/2004. (III. 30.) GKM rendelet 5. § (2) bekezdése, szövege a 67/2009. (XI. 27.) KHEM rendelet 9. § (7) bekezdése szerint módosított szöveg.
+[^159]: Lásd a Közlekedési Főfelügyelet szabályzatát.

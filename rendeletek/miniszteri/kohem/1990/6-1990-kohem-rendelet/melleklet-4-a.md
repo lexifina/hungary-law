@@ -1,4 +1,4 @@
-## Jármű által keltett külső zaj megengedett határértékei[^232]
+## Jármű által keltett külső zaj megengedett határértékei[^236]
 
 ## Jármű belső zaj megengedett határértékei
 
@@ -18,7 +18,7 @@
 
 ## A mérési módszert az MI—07—4602 sz. műszaki irányelv tartalmazza.
 
-4/A. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^233]
+4/A. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^237]
 
-[^232]: A 4. számú mellékletben a ,,Jármű által keltett külső zaj megengedett határértékei''-re vonatkozó rendelkezéseket a 21/1995. ( XII.15.) KHVM rendelet 14. §-ának (2) bekezdése hatályon kívül helyezte.
-[^233]: A 4/A. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
+[^236]: A 4. számú mellékletben a ,,Jármű által keltett külső zaj megengedett határértékei''-re vonatkozó rendelkezéseket a 21/1995. ( XII.15.) KHVM rendelet 14. §-ának (2) bekezdése hatályon kívül helyezte.
+[^237]: A 4/A. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.

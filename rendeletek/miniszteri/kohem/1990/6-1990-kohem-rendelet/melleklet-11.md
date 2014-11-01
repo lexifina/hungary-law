@@ -58,7 +58,7 @@
 
 ## H : A ráfutó fék megengedett legnagyobb működtető ereje N
 
-11. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^238]
+11. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^242]
 
 Gépjármű, mezőgazdasági vontató, lassú jármű, pótkocsi, valamint a segédmotoros kerékpár világító és fényjelző berendezéseinek megkövetelt legkisebb láthatósági szögei
 
@@ -130,62 +130,4 @@ Járművön elhelyezett páratlan számú világító és fényjelző berendezé
 
 Gépjárművön és pótkocsiján elhelyezett páros számú világító és fényjelző berendezések megkövetelt legkisebb láthatósági szögei
 
-## D491B_0
-
-| Lámpa megnevezése | Láthatósági szög; fok |
-
-| +α felfelé | -α lefelé | +β kifelé | -β befelé |
-
-| Tompított fényszóró | 15 | 10 | 45 | 10 |
-
-| Ködlámpa | 5 | 5 | 45 | 10 |
-
-| Hátrameneti lámpa | 15 | 5 | 45 | 30 |
-
-| Helyzetjelző lámpa | elől | 15 | 151/ | 80 | vagy | 45 vagy 80 |
-
-| 45 |
-
-| hátul | 15 | 151/ | 80 | vagy | 45 vagy 80 |
-
-| 45 |
-
-| Várakozást jelző lámpa | 15 | 151/ | 453/ | 453/ |
-
-| Hátsó helyzetjelző ködlámpa | 5 | 5 | 25 | 25 |
-
-| Méretjelző lámpa | elől | 5 | 20 | 80 | - |
-
-| hátul | 5 | 20 | 80 | - |
-
-| Irányjelző lámpa gépkocsin és pótkocsin | elől | 15 | 151/ | 80 | 45 |
-
-| oldalt | 15 | 151/ | 60 | -10 |
-
-| hátul | 15 | 151/ | 80 | 45 |
-
-| Féklámpa | 15 | 151/ | 45 | 45 |
-
-| Fényvisszaverő | elől | 15 | 151/ | 30 | 30 |
-
-| oldalt2/ | 15 | 151/ | 45 | 45 |
-
-| hátul | 15 | 151/ | 30 | 30 |
-
-| Irányjelző lámpa oldalkocsi nélküli motorkerékpáron | elől | 15 | 151/ | 80 | 20 |
-
-| hátul | 15 | 151/ | 80 | 20 |
-
-## Megjegyzések:
-
-## 1/ Ha az átvilágított felület alsó éle 0,75 m-nél közelebb van a talajhoz, akkor -a = 5o.
-
-## 2/ +-b a lámpa ill. fényvisszaverő felület középpontján (súlypontján) átmenő és a hosszirányú szimmetria síkra, valamint a talajra merőleges síkra vonatkoztatva.
-
-## 3/ Előre és hátrafelé is.
-
-3. táblázat
-
-Mezőgazdasági vontató, lassú jármű, és pótkocsijai páros számú világító és fényjelző berendezéseinek megkövetelt legkisebb láthatósági szögei
-
-[^238]: A 11. számú melléklet a 66/2012. (XII. 10.) NFM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^242]: A 11. számú melléklet a 66/2012. (XII. 10.) NFM rendelet 6. § (3) bekezdése szerint módosított szöveg.
