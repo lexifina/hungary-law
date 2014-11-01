@@ -2,6 +2,8 @@
 
 ## 1. § E rendeletet kell alkalmazni
 
-a) a Magyar Nemzeti Bank (a továbbiakban: MNB) által kibocsátott és forgalomban lévő forintbankjegyek – ideértve az emlékbankjegyeket is – (a továbbiakban együtt: forintbankjegy) utánzatára,
+a)[^2] a Magyar Nemzeti Bank (a továbbiakban: MNB) által kibocsátott és forgalomban lévő, valamint az MNB által forgalomból bevont, de törvényes fizetőeszközre átváltható forintbankjegyek – ideértve az emlékbankjegyeket is – (a továbbiakban együtt: forintbankjegy) utánzatára,
 
 b) a 8. § tekintetében az eurobankjegyek utánzatára.
+
+[^2]: Az 1. § a) pontja a 36/2014. (IX. 25.) MNB rendelet 14. § (1) bekezdésével megállapított szöveg.
