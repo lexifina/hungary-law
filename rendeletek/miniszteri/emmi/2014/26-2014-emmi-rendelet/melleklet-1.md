@@ -1,6 +1,6 @@
-## 14. §[^1]
+## 14. §[^1] Az e rendelet alapján 2014. július 1. és az 1. mellékletnek az egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 44/2014. (X. 27.) EMMI rendelettel (a továbbiakban: Módr.) történő módosítása hatálybalépésének időpontja között kiállított várandósgondozási könyvvel rendelkező várandósok esetében is alkalmazni kell az 1. melléklet Módr. által megállapított rendelkezéseit.
 
-1. melléklet a 26/2014. (IV. 8.) EMMI rendelethez
+1. melléklet a 26/2014. (IV. 8.) EMMI rendelethez[^2]
 
 ## A várandós anya gondozási könyve
 
@@ -56,7 +56,7 @@ P. H.
 
 | 2. | 1. A várandósság első harmadában végzendő vizsgálatok |  |  |
 
-| 3. | vérkép (hemoglobin, hematokrit, vvt indexek, fehérvérsejtszám, vérlemezkeszám) |  |  |  |
+| 3. | vérkép (hemoglobin, hematokrit, vvt indexek, fehérvérsejtszám, vérlemezkeszám), májfunkció, vesefunkció |  |  |  |
 
 | 4. | vizelet (fehérje, genny, cukor, aceton, urobilinogen, üledék) |  |  |
 
@@ -88,10 +88,11 @@ P. H.
 
 | 18. | ultrahang szűrővizsgálat | 30–32. héten |  |  |
 
-| 19. | vérkép (hemoglobin, hematokrit, vvt indexek, fehérvérsejtszám, vérlemezkeszám) és vörösvértest ellenanyagszűrés | 36–37. héten |  |  |
+| 19. | vérkép (hemoglobin, hematokrit, vvt indexek, fehérvérsejtszám, vérlemezkeszám) és vörösvértest ellenanyagszűrés, májfunkció, vesefunkció | 36–37. héten |  |  |
 
 | 20. | vizelet (fehérje, genny, cukor, aceton, urobilinogen, üledék) | 36–37. héten |  |  |
 
 | 21. | kardiotokográfos szűrővizsgálat | 38. héten 39. héten 40. héten |  |  |
 
-[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 44/2014. (X. 27.) EMMI rendelet 10. §-a iktatta be.
+[^2]: Az 1. melléklet a 44/2014. (X. 27.) EMMI rendelet 11. §-a szerint módosított szöveg.
