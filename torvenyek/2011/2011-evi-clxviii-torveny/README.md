@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-168-00-00
 | 2013-12-15 | 2013. évi CCXII. törvény | 2011-168-00-00.5 |
 | 2013-12-31 | 2013. évi CCL. törvény | 2011-168-00-00.6 |
 | 2014-03-15 | 2013. évi CCXLVI. törvény | 2011-168-00-00.7 |
+| 2014-11-01 | 2013. évi CCL. törvény | 2011-168-00-00.8 |

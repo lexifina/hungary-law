@@ -28,6 +28,8 @@ j) a kárenyhítési hozzájárulás megfizetésének részletes szabályait,
 
 k) a kárenyhítő juttatások kifizetési terve elkészítésének határidejét,
 
+l) a kockázatkezelési adatbázis feletti rendelkezési jogot, a kármegállapítást támogató szervek által a kockázatkezelési adatbázis működéséhez szükséges adatok körét és az adatbázisban szereplő adatok felhasználására vonatkozó szabályokat
+
 rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a miniszter arra, hogy rendeletben kijelölje azt a gazdasági elemzésekkel foglalkozó intézményt, amely felé a biztosító e törvény szerint fennálló adatszolgáltatási kötelezettségét köteles teljesíteni.

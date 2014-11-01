@@ -4,11 +4,11 @@
 
 a) a termőföld az egységes kérelem benyújtásakor, a mezőgazdasági káresemény bekövetkezésekor és a kárenyhítő juttatás iránti kérelem benyújtásakor is a használatában volt,
 
-b) a használatában levő termőföldön bekövetkezett mezőgazdasági káreseményt – az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint – az agrárkár-megállapító szervhez bejelentette,
+b) a használatában levő termőföldön bekövetkezett mezőgazdasági káreseményt – az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint – az erre a célra létrehozott elektronikus felületen bejelentette, és a mezőgazdasági káresemény tényét az agrárkár-megállapító szerv igazolta,
 
 c) a hozamérték-csökkenést – az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint – az agrárkár-megállapító szerv által e törvényben foglaltak szerint kiadott hatósági bizonyítvánnyal igazolja,
 
-d) a kárenyhítő juttatás megállapítása iránti kérelmét a tárgyév november 30-áig az agrárkár-megállapító szervhez benyújtotta, és
+d) a kárenyhítő juttatás megállapítása iránti kérelmét a tárgyév november 30–áig az erre a célra létrehozott elektronikus felületen benyújtotta, és
 
 e) a kárenyhítési hozzájárulást a 10. § (2) és (3) bekezdésében foglaltak alapján határidőben és maradéktalanul megfizette.
 
