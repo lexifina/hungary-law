@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-28-20-5
 | --- | --- | --- |
 | 2014-04-25 | 2014-28-20-5H.1 | 28/2014. (IV. 10.) EMMI rendelet |
 | 2014-04-26 | 2014-28-20-5H.2 | 2010: CXXX. törvény |
+| 2014-11-01 | 2014-28-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
