@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2014-08-15 | 2014. évi XXXIV. törvény | 1996-81-00-00.84 |
 | 2014-09-16 | 2014. évi XXXVII. törvény | 1996-81-00-00.85 |
 | 2014-10-07 | 2014. évi XXXIX. törvény | 1996-81-00-00.86 |
+| 2014-11-01 | 2014. évi XL. törvény | 1996-81-00-00.87 |
