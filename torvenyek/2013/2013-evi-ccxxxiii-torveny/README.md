@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-233-00-00
 | --- | --- | --- |
 | 2013-12-22 | 2013. évi CCXXXIII. törvény | 2013-233-00-00.0 (közlönyállapot) |
 | 2013-12-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-233-00-00.1 |
+| 2014-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-233-00-00.2 |
