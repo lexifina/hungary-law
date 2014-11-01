@@ -6,7 +6,7 @@
 
 2.[^308] a motorkerékpárok és segédmotoros kerékpárok típusjóváhagyásáról és a 92/61/EGK irányelv hatályon kívül helyezéséről szóló, 2002. március 18-i 2002/24/EK európai parlamenti és tanácsi irányelvnek, valamint az azt módosító 2003/77/EK, 2005/30/EK, 2013/60/EU bizottsági, valamint 2006/96/EK és 2013/15/EU tanácsi irányelveknek
 
-3.[^309] a mezőgazdasági vagy erdészeti traktorok, azok pótkocsijainak és cserélhető vontatott munkagépeinek, beleértve ezek rendszereit is, továbbá alkatrészeinek és önálló műszaki egységeinek típusjóváhagyásáról, valamint a 74/150/EGK irányelv hatályon kívül helyezéséről szóló, 2003. május 26-i 2003/37/EK európai parlamenti és tanácsi irányelvnek, valamint az azt módosító 2005/13/EK, 2005/67/EK, 2010/22/EU, 2010/62/EU és 2010/52/EU bizottsági, valamint 2006/96/EK és 2013/15/EU tanácsi irányelveknek,
+3.[^309] a mezőgazdasági vagy erdészeti traktorok, azok pótkocsijainak és cserélhető vontatott munkagépeinek, beleértve ezek rendszereit is, továbbá alkatrészeinek és önálló műszaki egységeinek típusjóváhagyásáról, valamint a 74/150/EGK irányelv hatályon kívül helyezéséről szóló, 2003. május 26-i 2003/37/EK európai parlamenti és tanácsi irányelvnek, valamint az azt módosító 2005/13/EK, 2005/67/EK, 2010/22/EU, 2010/62/EU és 2010/52/EU bizottsági, valamint 2006/96/EK, 2013/15/EU tanácsi és 2014/44/EU bizottsági irányelveknek,
 
 4.[^310] a gépjárművek és pótkocsijuk időszakos vizsgálatáról szóló, 2009. május 6-i 2009/40/EK európai parlamenti és tanácsi irányelvnek, valamint az azt módosító 2010/48/EU bizottsági irányelvnek
 
@@ -22,7 +22,7 @@ való megfelelést szolgálja.
 
 1.[^312] A könnyű haszongépjárművek széndioxid kibocsátásának csökkentésére irányuló közösségi integrált megközelítés keretében az új személygépkocsikra vonatkozó kibocsátási követelmények meghatározásáról szóló, 2009. április 23-i 443/2009/EK európai parlamenti és tanácsi rendelet, továbbá az új személygépkocsik nyilvántartásba vett adatainak a 443/2009/EK európai parlamenti és tanácsi rendelet szerinti nyomon követéséről és bejelentéséről szóló, 2010. november 10-i 1014/2010/EU bizottsági rendelet,
 
-2.[^313] a gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek, valamint önálló műszaki egységek általános biztonságára vonatkozó típus-jóváhagyási előírásokról szóló, 2009. július 13-i 661/2009/EK európai parlamenti és a tanácsi rendelet 18. cikk és 20. cikk 3. bekezdése és az azt módosító 407/2011/EU és 523/2012/EU bizottsági rendeletek,
+2.[^313] a gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek, valamint önálló műszaki egységek általános biztonságára vonatkozó típus-jóváhagyási előírásokról szóló, 2009. július 13-i 661/2009/EK európai parlamenti és a tanácsi rendelet 18., 19. cikk és 20. cikk negyedik bekezdése, valamint az azt módosító 407/2011/EU és 523/2012/EU bizottsági rendeletek,
 
 3.[^314] a gépjárművek és pótkocsijaik hátsó rendszámtáblái felszerelésének helyére és rögzítésének módjára vonatkozó típus-jóváhagyási előírásokról, továbbá a gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek, valamint önálló műszaki egységek általános biztonságára vonatkozó típus-jóváhagyási előírásokról szóló 661/2009/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2010. november 8-i 1003/2010/EU bizottsági rendelet,
 
@@ -72,7 +72,9 @@ való megfelelést szolgálja.
 
 26.[^337] a 443/2009/EK rendeletnek az új személygépkocsikra vonatkozó 2020. évi CO2-kibocsátás-csökkentési célérték elérésére alkalmas módozatok meghatározása tekintetében történő módosításáról szóló 2014. március 11-i 333/2014/EU európai parlamenti és tanácsi rendelet,
 
-27.[^338] a többlépcsős típus-jóváhagyási eljárás hatálya alá tartozó új könnyű haszongépjárművek CO2-kibocsátásának ellenőrzése tekintetében a 293/2012/EU végrehajtási rendelet módosításáról szóló 2014. április 23-i 410/2014/EU bizottsági végrehajtási rendelet
+27.[^338] a többlépcsős típus-jóváhagyási eljárás hatálya alá tartozó új könnyű haszongépjárművek CO2-kibocsátásának ellenőrzése tekintetében a 293/2012/EU végrehajtási rendelet módosításáról szóló 2014. április 23-i 410/2014/EU bizottsági végrehajtási rendelet,
+
+28.[^339] az 582/2011/EU rendeletnek a műszaki fejlődéshez történő hozzáigazítása érdekében a részecskekibocsátás fedélzeti diagnosztikai rendszerek általi megfigyelése tekintetében történő módosításáról szóló, 2014. június 12-i 627/2014/EU bizottsági rendelet,
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -80,11 +82,11 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^306]: A 31. §-t a 12/1998. (V. 22.) KHVM rendelet 19. §-a iktatta be, szövege a 27/2010. (III. 31.) KHEM rendelet 6. §-ával megállapított szöveg.
 [^307]: A 31. § (1) bekezdés 1. pontja a 71/2013. (XII. 2.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^308]: A 31. § (1) bekezdés 2. pontja a 30/2014. (VI. 27.) NFM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^309]: A 31. § (1) bekezdés 3. pontja a 71/2013. (XII. 2.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^309]: A 31. § (1) bekezdés 3. pontja a 44/2014. (X. 31.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^310]: A 31. § (1) bekezdés 4. pontja a 71/2013. (XII. 2.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^311]: A 31. § (1) bekezdés 5. pontja a 22/2012. (V. 8.) NFM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^312]: A 31. § (2) bekezdés 1. pontja a 62/2011. (XI. 29.) NFM rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^313]: A 31. § (2) bekezdés 2. pontja a 65/2012. (XII. 10.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^313]: A 31. § (2) bekezdés 2. pontja a 44/2014. (X. 31.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^314]: A 31. § (2) bekezdés 3. pontját a 62/2011. (XI. 29.) NFM rendelet 13. § (3) bekezdése iktatta be.
 [^315]: A 31. § (2) bekezdés 4. pontját a 62/2011. (XI. 29.) NFM rendelet 13. § (3) bekezdése iktatta be.
 [^316]: A 31. § (2) bekezdés 5. pontját a 62/2011. (XI. 29.) NFM rendelet 13. § (3) bekezdése iktatta be.
@@ -110,3 +112,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^336]: A 31. § (2) bekezdés 25. pontját a 30/2014. (VI. 27.) NFM rendelet 2. § (3) bekezdése iktatta be.
 [^337]: A 31. § (2) bekezdés 26. pontját a 30/2014. (VI. 27.) NFM rendelet 2. § (3) bekezdése iktatta be.
 [^338]: A 31. § (2) bekezdés 27. pontját a 30/2014. (VI. 27.) NFM rendelet 2. § (3) bekezdése iktatta be.
+[^339]: A 31. § (2) bekezdés 28. pontját a 44/2014. (X. 31.) NFM rendelet 1. § (3) bekezdése iktatta be.
