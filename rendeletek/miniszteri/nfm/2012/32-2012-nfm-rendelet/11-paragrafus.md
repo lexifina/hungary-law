@@ -1,13 +1,21 @@
-## 11. § Nem nyújtható támogatás a következő költségekre:
+## 11. §[^20] Nem nyújtható támogatás
 
-a) szinten tartást szolgáló tárgyi eszközök bekerülési értéke, illetve vételára a létesítmény felvásárlásakor,
+a) acélipari tevékenységhez,
 
-b) a korábban már használatba vett olyan tárgyi eszköz bekerülési értéke, amelynek alapján az 4. § szerinti kedvezményezett, más társaság vagy egyéni vállalkozó állami támogatást vett igénybe,
+b) hajógyártási tevékenységhez,
 
-c) olyan tárgyi eszköz bekerülési értéke, amelyet a kedvezményezett csődeljárás vagy felszámolás alatt álló társaságtól szerzett be,
+c) szénipari tevékenységhez,
 
-d) nagyvállalkozásnál a korábban már használatba vett tárgyi eszköz bekerülési értéke, kivéve a létesítmény felvásárlásakor beszerzett tárgyi eszköz vételárát, valamint a földterület, telek bekerülési értékét,
+d) szintetikusszál-ipari tevékenységhez,
 
-e) személygépkocsi bekerülési értéke,
+e) ellenszolgáltatás fejében végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához vagy a kapcsolódó infrastruktúrához,
 
-f) szállítási ágazatban a szállító berendezések (gördülőeszközök) bekerülési értéke.
+f) energiatermelési, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
+
+g) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) meghatározott akvakultúra-termékek termelését, feldolgozását és értékesítését szolgáló beruházáshoz,
+
+h) ha a beruházó a kérelem benyújtását megelőző két évben azonos vagy hasonló tevékenységet szüntetett meg az EGT területén, vagy a támogatási kérelem benyújtásakor – egyidejűleg benyújtott nyilatkozat alapján – tervezi, hogy azonos vagy hasonló tevékenységet szüntet meg az EGT területén a támogatási kérelemben szereplő beruházás befejezését követő két éven belül, vagy
+
+i) ha a beruházáshoz igényelt összes állami támogatás – figyelembe véve a nagyberuházásra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat.
+
+[^20]: A 11. § az 5/2014. (X. 31.) MvM rendelet 7. §-ával megállapított szöveg.

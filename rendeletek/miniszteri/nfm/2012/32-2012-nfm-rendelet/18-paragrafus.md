@@ -1,11 +1,17 @@
-## 15. A kis- és középvállalkozás részére iparjogvédelmi jogokkal kapcsolatban felmerülő költségekhez nyújtott támogatásokra vonatkozó szabályok
+## 17. §
 
-18. § (1) A kis- és középvállalkozás részére iparjogvédelmi jogokkal kapcsolatban felmerülő költségekhez nyújtott támogatások esetén a támogatási intenzitás nem haladhatja meg a 16. § (4) bekezdése alá tartozó kutatás-fejlesztési támogatás azon intenzitását, amely az érintett ipari tulajdonjogokhoz elsőként vezető kutatási tevékenységekre vonatkozna.
+## 15. [^44] A kis- és középvállalkozásnak nyújtott innovációs támogatás
 
-(2) Az elszámolható költségek a következők:
+18. § (1) A kis- és középvállalkozásnak nyújtott innovációs támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében elszámolható
 
-a) az oltalomnak az első iparjogvédelmi hatóság által történő megítélését megelőzően felmerülő valamennyi költség, beleértve a bejelentés előkészítéséhez, benyújtásához és a vizsgálatához kapcsolódó költségeket, valamint az oltalom megadása előtt az iparjogvédelmi oltalom megszerzése iránti eljárásban felmerülő költségeket,
+a) a szabadalmak és egyéb immateriális javak megszerzésének, érvényesítésének és védelmének költsége,
 
-b) fordítási és egyéb költségek, amelyek az oltalomnak – az a) pontban szereplő iparjogvédelmi hatóságtól eltérő – másik iparjogvédelmi hatóság előtt, az oltalom megszerzésével vagy érvényesítésével kapcsolatban merülnek fel,
+b) az olyan, kutatási és tudásközvetítő szervezettől vagy nagyvállalkozástól kirendelt, magasan képzett munkaerő költsége, aki kutatás-fejlesztési és innovációs tevékenységen, a kedvezményezettnél újonnan létrehozott, nem helyettesítő munkakörben dolgozik,
 
-c) az oltalom megadása iránti hivatalos eljárásban, illetve az esetleges felszólalási eljárás során az oltalom érvényességének védelme érdekében felmerülő költségek, abban az esetben is, ha ezek a költségek az oltalom megadását követően merülnek fel.
+c) az innovációs tanácsadás és az innovációs támogató szolgáltatás költsége.
+
+(2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+
+(3) Az (1) bekezdés c) pontja szerinti esetben a támogatási intenzitás az elszámolható költségek 100%-ig növelhető, ha a támogatás nem haladja meg három év alatt a 200 000 eurót.
+
+[^44]: A 15. alcím (18. §) az 5/2014. (X. 31.) MvM rendelet 11. §-ával megállapított szöveg.

@@ -1,15 +1,36 @@
-## 11. A fogyatékkal élő munkavállalók foglalkoztatása többletköltségeinek ellentételezésére nyújtott támogatás
+## 11. [^27] A megváltozott munkaképességű munkavállalók foglalkoztatása többletköltségeinek ellentételezésére nyújtott támogatás
 
-14. § (1) A fogyatékkal élő munkavállalók foglalkoztatása többletköltségeinek ellentételezésére nyújtott támogatás támogatási intenzitása nem haladhatja meg az elszámolható költségek 100%-át.
+14. § (1)[^28] A megváltozott munkaképességű munkavállalók foglalkoztatása többletköltségeinek ellentételezésére nyújtott támogatás támogatási intenzitása nem haladhatja meg az elszámolható költségek 100%-át.
 
-(2) Elszámolható költségnek minősülnek a bérköltségek, kivéve azokat a költségeket, amelyek a nem fogyatékkal élő munkavállalók foglalkoztatásának költségein felül merülnek fel.
+(2)[^29]
 
 (3) Az elszámolható költségek a következők:
 
 a) a helyiségek átalakításának költségei,
 
-b) a fogyatékkal élő munkavállalók segítésével foglalkozó személyek alkalmazásához kapcsolódó költségek,
+b)[^30] a megváltozott munkaképességű munkavállaló segítésével foglalkozó személy foglalkoztatásához kapcsolódó költség kizárólag a segítés ideje alatt, valamint a segítő személy képzési költsége,
 
-c) a fogyatékkal élő munkavállalók által használt berendezések átalakításának vagy beszerzésének, a szoftverek beszerzésének és érvényesítésének költségei, beleértve az átalakított vagy segítség nyújtására alkalmas technológiai felszerelések költségeit is,
+c)[^31] a megváltozott munkaképességű munkavállaló általi használatra alkalmassá tétel érdekében közvetlenül a megváltozott munkaképességű munkavállaló foglalkoztatásával összefüggésben
 
-d) ha a kedvezményezett védett munkahelyeket biztosít, az érintett létesítmény létrehozásának, üzembe helyezésének vagy kibővítésének költségei, továbbá minden, a fogyatékkal élő munkavállalók alkalmazásából közvetlenül eredő adminisztrációs és szállítási költség.
+ca) a berendezések átalakításának, beszerzésének költsége,
+
+cb) az átalakított vagy segítség nyújtására alkalmas technológiai felszerelések költsége, a szoftverek beszerzésének és érvényesítésének költsége,
+
+d)[^32] a védett foglalkoztatást biztosító kedvezményezett esetén közvetlenül a megváltozott munkaképességű munkavállaló foglalkoztatásával összefüggésben
+
+da) a termelőegység létrehozásának, üzembe helyezésének vagy korszerűsítésének költsége,
+
+db) az adminisztrációs és szállítási költség,
+
+e)[^33] a megváltozott munkaképességű munkavállaló munkahelyre és munkával kapcsolatos tevékenység helyszínére történő szállításához közvetlenül kapcsolódó költség,
+
+f)[^34] a megváltozott munkaképességű munkavállaló által rehabilitációra fordított órák bérköltsége.
+
+[^27]: A 11. alcím címe az 5/2014. (X. 31.) MvM rendelet 20. § a) pontja szerint módosított szöveg.
+[^28]: A 14. § (1) bekezdése az 5/2014. (X. 31.) MvM rendelet 20. § a) pontja szerint módosított szöveg.
+[^29]: A 14. § (2) bekezdését az 5/2014. (X. 31.) MvM rendelet 21. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^30]: A 14. § (3) bekezdés b) pontja az 5/2014. (X. 31.) MvM rendelet 8. §-ával megállapított szöveg.
+[^31]: A 14. § (3) bekezdés c) pontja az 5/2014. (X. 31.) MvM rendelet 8. §-ával megállapított szöveg.
+[^32]: A 14. § (3) bekezdés d) pontja az 5/2014. (X. 31.) MvM rendelet 8. §-ával megállapított szöveg.
+[^33]: A 14. § (3) bekezdés e) pontját az 5/2014. (X. 31.) MvM rendelet 8. §-a iktatta be.
+[^34]: A 14. § (3) bekezdés f) pontját az 5/2014. (X. 31.) MvM rendelet 8. §-a iktatta be.

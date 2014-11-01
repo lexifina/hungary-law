@@ -6,7 +6,9 @@ a) alapkutatás,
 
 b) ipari kutatás,
 
-c) kísérleti fejlesztés.
+c) kísérleti fejlesztés,
+
+d)[^36] megvalósíthatósági tanulmány.
 
 (2) Ha egy projekt több feladatot foglal magában, az egyes feladatokat minősíteni kell aszerint, hogy melyik, az (1) bekezdésben meghatározott kutatásfajták közé tartozik.
 
@@ -18,48 +20,46 @@ a) alapkutatásnál az elszámolható költségek 100%-át,
 
 b) ipari kutatásnál az elszámolható költségek 50%-át,
 
-c) kísérleti fejlesztésnél az elszámolható költségek 25%-át.
+c) kísérleti fejlesztésnél az elszámolható költségek 25%-át,
 
-(5) Az ipari kutatásra és a kísérleti fejlesztésre a (4) bekezdésben megállapított támogatási intenzitás 10 százalékponttal növelhető a középvállalkozások, 20 százalékponttal a kisvállalkozások esetében.
+d)[^37] megvalósíthatósági tanulmány esetén az elszámolható költségek 50%-át.
 
-(6) Az ipari kutatás és a kísérleti fejlesztés esetében az elszámolható költségek 80%-ának megfelelő támogatási intenzitásig további 15 százalékpontos növelés adható, ha
+(5)[^38] A megvalósíthatósági tanulmányra nyújtott támogatás esetén a (4) bekezdésben meghatározott támogatási intenzitás középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal növelhető.
 
-a) a projekt legalább két, egymástól független vállalkozás tényleges együttműködésével valósul meg, és a következő feltételek teljesülnek:
+(6)[^39] Az ipari kutatás és a kísérleti fejlesztés esetén a (4) bekezdés szerinti támogatási intenzitás – legfeljebb 80%-os támogatási intenzitásig – növelhető
 
-aa) egyik vállalkozás sem viseli az együttműködésen alapuló projekt elszámolható költségeinek több mint 70%-át, és
+a) 10 százalékponttal középvállalkozás esetén,
 
-ab) a projekt legalább egy kis- és középvállalkozással folytatott együttműködésben valósul meg, vagy legalább két különböző tagállamban végzik,
+b) 20 százalékponttal kisvállalkozás esetén,
 
-b) a projekt egy vállalkozás és egy kutatási szervezet tényleges együttműködésével valósul meg, és a következő feltételek teljesülnek:
+c) 15 százalékponttal, ha
 
-ba) a kutatási szervezet az elszámolható projektköltségek legalább 10%-át viseli, és
+ca) a projekt hatékony együttműködést foglal magában, és legalább egy kis- és középvállalkozás bevonásával, vagy legalább két tagállamban, vagy egy tagállamban és egy, az EGT megállapodás szerinti szerződő fél között zajlik, és egyik vállalkozás sem viseli az elszámolható költségek több, mint 70%-át, vagy a projekt legalább egy olyan kutatási és tudásközvetítő szervezet bevonásával zajlik, amely egymagában vagy más hasonló szervezetekkel közösen az elszámolható költségek legalább 10%-át viseli, és jogosult közzétenni saját kutatási eredményeit, vagy
 
-bb) a kutatási szervezet jogosult a kutatási projektek eredményeinek közzétételére, ha azok a szervezet által végzett kutatásból származnak, vagy
+cb) ha a projekt eredményeit széles körben terjesztik konferenciák, publikációk, nyílt hozzáférésű adattárak, ingyenes vagy nyílt forráskódú szoftverek útján.
 
-c) ipari kutatás esetében a projekt eredményeit széles körben, technikai és tudományos konferenciák keretében, tudományos és műszaki folyóiratokban, szabadon hozzáférhető adattárakban vagy nyílt és szabad forráskódú szoftvereken keresztül terjesztik.
+(7)[^40]
 
-(7) A (6) bekezdés a) és b) pontja alkalmazása szempontjából az alvállalkozásba adás nem minősül tényleges együttműködésnek.
+(8)[^41] Az (1) bekezdés a)–c) pontja szerinti támogatás keretében elszámolható
 
-(8) Az elszámolható költségek a következők:
+a) a kutatók, technikusok és egyéb kisegítő személyzet személyi jellegű ráfordítása a projektben való foglalkoztatásuk mértékéig,
 
-a) a projekttel összefüggésben közvetlenül felmerült személyi jellegű ráfordítások az Sztv. szerint, ideértve kizárólag a kutatók, fejlesztők, technikusok és egyéb kisegítő személyzet foglalkoztatásához kapcsolódóan felmerült személyi jellegű ráfordításokat a támogatott projektben való foglalkoztatásuk arányában,
+b) az eszközök, berendezések költsége a projekt céljaira való használatuk mértékéig és idejére azzal, hogy ahol ezeket az eszközöket és felszereléseket nem a teljes élettartamuk alatt használják a projekthez, csak az általános számviteli elvek alapján elfogadott, a projekt idejére számított amortizációs költségek számolhatóak el,
 
-b) a projekttel összefüggésben közvetlenül felmerült anyagjellegű ráfordítások, ideértve
+c) az épületek és a földterület költsége a projekt céljaira való használatuk mértékéig és idejére azzal, hogy az épületek esetén csak az általános számviteli elvek alapján elfogadott, a projekt idejére számított amortizációs költségek, földterület esetén a kereskedelmi, illetve a ténylegesen felmerülő beruházási költségek számolhatóak el,
 
-ba) az anyagköltséget,
+d) a szerződéses kutatás, a külső forrásokból szokásos piaci feltételek mellett megvásárolt vagy licencia tárgyát képező műszaki ismeretek és szabadalmak költsége, valamint a tanácsadás és hasonló szolgáltatások költsége, ha azokat kizárólag a projekthez veszik igénybe,
 
-bb) az igénybe vett szolgáltatásokat (beleértve a szerződéses kutatás-fejlesztés költségét, a tanácsadás és hasonló szolgáltatások igénybevétele költségét, valamint az épület- és földhasználattal összefüggésben igénybe vett szolgáltatások miatti költségeket),
+e) a további általános és egyéb működési költség, ideértve az anyagok, fogyóeszközök és hasonló termékek költségeit, amelyek közvetlenül a projekt folyamán merülnek fel.
 
-bc) az egyéb szolgáltatásokat,
-
-c) az általános költségeknek a projekthez – a kutatás-fejlesztést megfelelően jellemző – vetítési alap arányában, a számviteli politikában meghatározott módon hozzárendelt összege,
-
-d) a projekttel összefüggésben használt épület Sztv. szerinti értékcsökkenési leírásának a támogatott projektben való használat mértékében meghatározott összege, a projekttel összefüggésben használt földterület beszerzése esetén annak bekerülési értéke, valamint az adásvétellel összefüggésben felmerülő egyéb költségei,
-
-e) a műszaki berendezések, gépek és egyéb berendezések, felszerelések Sztv. szerinti bekerülési értéke a támogatott projektben való használatuk mértékéig,
-
-f) a harmadik féltől piaci áron megvásárolt, pénzügyi lízingbe vett tudás és szabadalmak Sztv. szerinti bekerülési értéke, illetve a lízingdíjak tőketörlesztő része.
-
-(9) A (8) bekezdés b) pont bb) alpontja szerinti szerződéses kutatás-fejlesztés költsége, valamint a (8) bekezdés f) pontja szerint vásárolt, pénzügyi lízingbe vett tudás és szabadalom bekerülési értéke, illetve lízingdíjának tőketörlesztő összege abban az esetben vehető figyelembe az elszámolható kiadások között, ha a szerződéskötésre a piaci feltételeknek megfelelően került sor.
+(9)[^42] Az (1) bekezdés d) pontja szerinti támogatás keretében a megvalósíthatósági tanulmány költsége számolható el.
 
 (10) Valamennyi elszámolható költségnek a kutatás-fejlesztés adott fajtájához kell kapcsolódnia.
+
+[^36]: A 16. § (1) bekezdés d) pontját az 5/2014. (X. 31.) MvM rendelet 10. § (1) bekezdése iktatta be.
+[^37]: A 16. § (4) bekezdés d) pontját az 5/2014. (X. 31.) MvM rendelet 10. § (2) bekezdése iktatta be.
+[^38]: A 16. § (5) bekezdése az 5/2014. (X. 31.) MvM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^39]: A 16. § (6) bekezdése az 5/2014. (X. 31.) MvM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^40]: A 16. § (7) bekezdését az 5/2014. (X. 31.) MvM rendelet 21. § (1) bekezdés f) pontja hatályon kívül helyezte.
+[^41]: A 16. § (8) bekezdése az 5/2014. (X. 31.) MvM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^42]: A 16. § (9) bekezdése az 5/2014. (X. 31.) MvM rendelet 10. § (4) bekezdésével megállapított szöveg.
