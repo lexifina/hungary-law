@@ -1,0 +1,1 @@
+20. § A 18. és 19. § szerinti panasz előterjesztésére és annak elintézésére – a 21. § (1) bekezdésben foglalt eltéréssel – a Hpt. panaszkezelésre vonatkozó szabályait és a panaszkezelésre vonatkozó MNB rendelet szabályait kell alkalmazni.

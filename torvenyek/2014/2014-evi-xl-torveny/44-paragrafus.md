@@ -1,3 +1,3 @@
 ## 20. Az elszámolással kapcsolatos számviteli szabályok
 
-### 44. §
+44. § A 2014. évi XXXVIII. törvény és e törvény végrehajtása következtében a fogyasztóknak – az előző üzleti évekkel kapcsolatosan – túlfizetésként elszámolt, megtérített összeg a pénzügyi intézménynél a számvitelről szóló 2000. évi C. törvény szerinti jelentős összegű hibának minősül, azzal hogy azt – a számvitelről szóló 2000. évi C. törvény 19. § (3) bekezdésének és 37. § (5) bekezdésének előírásaitól eltérően – a jóváírás (elszámolás), a kifizetés (megtérítés) üzleti évének tárgyidőszaki ráfordításai között, rendkívüli ráfordításként kell elszámolni. Az előző üzleti évekkel kapcsolatosan túlfizetésként elszámolt, megtérített összeg tekintetében nem kell alkalmazni a számvitelről szóló 2000. évi C. törvény 170. §-ának rendelkezéseit.

@@ -1,0 +1,7 @@
+7. § (1) Ha az elszámolásra köteles pénzügyi intézmény a fogyasztóval szembeni követelését a szerződés megszűnését követően követeléskezelőre engedményezte, az elszámolásra köteles pénzügyi intézménynek az 5. § (2) bekezdése szerinti elszámolást mind a szerződés megszűnése időpontjával, mind pedig a követelés engedményezésének időpontjával el kell készítenie.
+
+(2) Az elszámolásból eredő jogai érvényesítéséhez a fogyasztó igényelheti a követeléskezelőtől, hogy a követeléskezelő a fogyasztóval szemben fennálló követelésével az 5. § (3) bekezdése szerint – a követeléskezelő által a fogyasztónak nyújtott kedvezmények tekintetében az 5. § (5) és (6) bekezdésének értelemszerű alkalmazásával – számoljon el. Az elszámolás során az engedményezés időpontjától – az MNB rendeletében meghatározott módon – a követeléskezelő által alkalmazott kamattal megnövelt összeggel kell figyelembe venni az engedményezés időpontjában fennálló fogyasztói követelést.
+
+(3) Ha a (2) bekezdés szerinti elszámolás eredményeként a követeléskezelő tartozik a fogyasztónak, annak kifizetésére a követeléskezelő köteles, azonban az így kifizetett összeg megtérítését igényelheti az elszámolásra köteles pénzügyi intézménytől. A követeléskezelő a követelése összegének az engedményezett követelés vételárához képest bekövetkezett csökkenéséből az őt ért pénzügyi veszteség arányos megtérítését igényelheti az elszámolásra köteles pénzügyi intézménytől.
+
+(4) E § rendelkezéseit kell alkalmazni abban az esetben is, ha a követeléskezelő követelése teljesítés eredményeképpen szűnt meg.
