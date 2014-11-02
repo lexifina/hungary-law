@@ -1,3 +1,5 @@
-## 15. § Hatályát veszti a forint- és az euroérmék utánzatáról szóló 3/2010. (I. 28.) MNB rendelet.
+## 14–15. §[^1]
 
 1. melléklet a 36/2014. (IX. 25.) MNB rendelethez
+
+[^1]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
