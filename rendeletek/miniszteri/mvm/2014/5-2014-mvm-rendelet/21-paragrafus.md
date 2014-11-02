@@ -1,23 +1,9 @@
-## lép.
+## 20. §[^8]
 
-21. § (1) Hatályát veszti az R.
+21. § (1)[^9]
 
-a) 4. §-ában a „jogi személyiség nélküli gazdasági társaság,” szövegrész,
+(2)[^10]
 
-b) 6. § i) pontja,
-
-c) 9. alcím címében az „és foglalkoztatási” szövegrész,
-
-d) 13. § (1) bekezdésében a „Ha a foglalkoztatás 12 hónapnál rövidebb, a támogatást arányosan csökkenteni kell.” szövegrész,
-
-e) 14. § (2) bekezdése,
-
-f) 16. § (7) bekezdése,
-
-g) 14. alcíme,
-
-h) 19. § (3) bekezdésében az „első” szövegrész.
-
-(2)[^4]
-
-[^4]: A 21. § (2) bekezdése a 22. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^8]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 21. § (1) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 21. § (2) bekezdése a 22. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
