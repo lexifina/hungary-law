@@ -1,5 +1,0 @@
-## „(7) A kárbejelentés elektronikus úton történő benyújtásának módjára meghatalmazott vagy technikai közreműködő alkalmazása esetén a meghatalmazott és a technikai közreműködő eljárására, a vélelmezett örökös eljárására, valamint az elektronikus kapcsolattartásra az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló tárgyévi miniszteri rendelet rendelkezéseit a jelen rendeletben foglalt eltérésekkel kell alkalmazni.
-
-## (8) A kárbejelentés elektronikus benyújtásának és fogadásának tényét a Központi Elektronikus Szolgáltató Rendszerben (a továbbiakban: KR) a mezőgazdasági termelő elektronikus tárhelyére történt sikeres feltöltés jelenti, amelyet az ideiglenesen fenntartott értesítési tárhelyre automatikusan kapott KR dokumentum igazol.
-
-## (9) A külön miniszteri közleményben meghatározott rendkívüli esetekben és az abban meghatározott módon tett mezőgazdasági termelői kárbejelentést határidőben teljesítettnek kell tekinteni.”
