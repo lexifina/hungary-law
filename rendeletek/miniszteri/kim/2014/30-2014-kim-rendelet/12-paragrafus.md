@@ -1,3 +1,3 @@
-## 11. § A 3. melléklet IV. 3. alcím „Katonai vezetői mesterképzési szak” 4.2. pontja helyébe a következő rendelkezés lép:
+## 11. §[^6]
 
-## „4.2. A bemenethez a 11. pontban meghatározott kreditek teljesítésével elsősorban számításba vehető alapképzési szakok: a katonai logisztika, a katonai üzemeltetés, a katonai gazdálkodási, a had- és biztonságtechnikai mérnöki.”
+[^6]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

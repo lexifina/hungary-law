@@ -1952,7 +1952,7 @@
 
 ## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert középfokú (B2) komplex típusú katonai szakmai, vagy STANAG 6001. 2.2.2.2. nyelvvizsga-bizonyítvány szükséges.
 
-3. melléklet a 30/2014. (IV. 30.) KIM rendelethez[^6]
+3. melléklet a 30/2014. (IV. 30.) KIM rendelethez[^8]
 
 A MESTERKÉPZÉSI SZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
@@ -4042,4 +4042,4 @@ A hallgatónak a kredit megállapítása alapjául szolgáló ismeretek - felső
 
 A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 24 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított egy féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
 
-[^6]: A 3. melléklet a 11. § szerint módosított szöveg.
+[^8]: A 3. melléklet a 11. § szerint módosított szöveg.
