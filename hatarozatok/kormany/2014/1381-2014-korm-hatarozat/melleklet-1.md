@@ -12,11 +12,7 @@
 
 ## Határidő: folyamatos
 
-## 3. A Kormány – az Áht. 40. §-ában foglaltak alapján – a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím kiadási előirányzatából 20 000,0 millió forint zárolását rendeli el.
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
+## 3.[^2]
 
 ## 4. A Kormány – az Áht. 40. §-ában foglaltak alapján – a Nemzeti Földalappal kapcsolatos kiadások esetében a Kvtv. 1. melléklet XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezetben 500,0 millió forint zárolását rendeli el.
 
@@ -77,3 +73,5 @@
 ## Határidő: folyamatos
 
 1. melléklet az 1381/2014. (VII. 17.) Korm. határozathoz
+
+[^2]: A 3. pontot az 1595/2014. (XI. 3.) Korm. határozat visszavonta.
