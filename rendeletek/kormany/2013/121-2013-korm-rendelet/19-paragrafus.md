@@ -1,3 +1,5 @@
+## 18/A. §[^10] A Hivatalnak az INYR-rel összefüggő feladatai ellátásához szükséges nyilvántartások működését szolgáló elektronikus adatbázisok és alkalmazások üzemeltetésével, valamint az adatkezeléshez kapcsolódó, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatfeldolgozói feladatokat az e rendelet által üzemeltetésre, fejlesztésre és adatfeldolgozásra kijelölt szervezet látja el.
+
 ## 6. A Hivatal végzettség elismerésével kapcsolatos feladatai
 
 19. § (1) A Hivatal ekvivalencia- és információs központként
@@ -27,3 +29,5 @@ be) betölti az európai közösségi jog alapján a munkavállalás céljából
 bf) vezetője útján ellátja a szakképzettségek elismerésére vonatkozó európai uniós irányelvek nemzeti koordinátori teendőit,
 
 bg) a szakmai képesítések más uniós tagállamban való elismerését érintő kérdésekben illetékes hatóságként részt vesz a belső piaci információs rendszer (IMI-rendszer) működtetésében a belső piaci információs rendszer keretében történő igazgatási együttműködésről és a 2008/49/EK bizottsági határozat hatályon kívül helyezéséről szóló 1024/2012/EU rendeletben foglaltak szerint.
+
+[^10]: A 18/A. §-t a 268/2014. (XI. 3.) Korm. rendelet 4. §-a iktatta be.
