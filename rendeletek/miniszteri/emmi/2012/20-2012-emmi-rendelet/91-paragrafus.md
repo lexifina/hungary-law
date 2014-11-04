@@ -22,14 +22,14 @@ fb) a szervezési feladatokat,
 
 fc) a tervezett programokat és azok időpontjait,
 
-fd)[^46] a gyermekek neveléséhez szükséges, a teljes óvodai életet magában foglaló tevékenységek, foglalkozások keretében az óvoda pedagógiai programjában meghatározott tevékenységi formák tartalmi elemeit,
+fd)[^99] a gyermekek neveléséhez szükséges, a teljes óvodai életet magában foglaló tevékenységek, foglalkozások keretében az óvoda pedagógiai programjában meghatározott tevékenységi formák tartalmi elemeit,
 
 fe) az értékeléseket,
 
-g)[^47] a hivatalos csoportlátogatásokat, a látogatás célját, időpontját, a látogató nevét és beosztását, a látogatás szempontrendszerét, az eredményt,
+g)[^100] a hivatalos csoportlátogatásokat, a látogatás célját, időpontját, a látogató nevét és beosztását, a látogatás szempontrendszerét, az eredményt,
 
-h)[^48] a feljegyzést a csoport életéről.
+h)[^101] a feljegyzést a csoport életéről.
 
-[^46]: A 91. § (3) bekezdés f) pont fd) alpontja a 22/2013. (III. 22.) EMMI rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^47]: A 91. § (3) bekezdés g) pontja a 22/2013. (III. 22.) EMMI rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^48]: A 91. § (3) bekezdés h) pontja a 22/2013. (III. 22.) EMMI rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^99]: A 91. § (3) bekezdés f) pont fd) alpontja a 22/2013. (III. 22.) EMMI rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^100]: A 91. § (3) bekezdés g) pontja a 22/2013. (III. 22.) EMMI rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^101]: A 91. § (3) bekezdés h) pontja a 22/2013. (III. 22.) EMMI rendelet 16. § (3) bekezdésével megállapított szöveg.

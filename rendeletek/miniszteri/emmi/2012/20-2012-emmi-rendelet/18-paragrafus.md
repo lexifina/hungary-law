@@ -1,9 +1,13 @@
-18. § (1) Az alapfokú művészeti iskolában a normatív költségvetési hozzájárulás meghatározásánál akkor lehet a tanulót egy tanulóként figyelembe venni, ha a tanítási év átlagában, tanítási hetenként a tanuló részére biztosított négy foglalkozás együttes időtartama
+18. §[^23] (1) Alapfokú művészeti iskolában a nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet alapján a tanuló térítési díj ellenében – vagy az Nkt. alapján az alapfokú művészetoktatásban ingyenesen résztvevők esetében ingyenesen – igénybe vett heti tanórai foglalkozásainak összes időtartama nem haladhatja meg a háromszáz percet.
 
-a) zeneművészeti ágban csak egyéni foglalkozás vagy egyéni és csoportos foglalkozás esetén legalább százötven perc,
+(2) Alapfokú művészeti iskolában a tanítási év átlagában, tanítási hetenként a tanuló részére kötelezően biztosított négy – előképzőben csoportos főtárgy esetén kettő – foglalkozás együttes időtartama
 
-b) kizárólag csoportos foglalkozás esetén – minden művészeti ágban – legalább száznyolcvan perc.
+a) alapfokú és továbbképző évfolyamokon zeneművészeti ágban csak egyéni foglalkozás vagy egyéni és csoportos foglalkozás esetén legalább százötven perc, ide értve a zeneművészeti ág egyéni foglalkozású előképző évfolyamait is,
 
-(2) Az Nkt. egyes rendelkezéseinek végrehajtásáról szóló Korm. rendelet alapján a tanuló térítési díj ellenében igénybe vett heti tanórai foglalkozásainak összes időtartama nem haladhatja meg a háromszáz percet. Ha a tanuló több alapfokú művészeti iskolával létesít tanulói jogviszonyt, vagy egy alapfokú művészeti iskolában több művészeti ág képzésében vesz részt, a tanulónak, kiskorú tanuló esetén a szülőnek írásban nyilatkoznia kell arról, hogy melyik iskolában, melyik művészeti ágban vesz részt térítésidíj-fizetési kötelezettség mellett a képzésben. Az intézmény vezetője köteles a szülőtől a nyilatkozatot beszerezni.
+b) alapfokú és továbbképző évfolyamokon kizárólag csoportos foglalkozás esetén – minden művészeti ágban – legalább száznyolcvan perc,
 
-(3) Az (1)–(2) bekezdésben meghatározott idő számításánál az alapfokú művészeti iskola által a tanuló részére biztosított foglalkozások idejét kell figyelembe venni, függetlenül attól, hogy a tanuló azokon részt vett, vagy igazoltan vagy igazolatlanul távol maradt.
+c) előképző évfolyamokban zeneművészeti ág csoportos főtárgy, valamint a többi művészeti ág képzéseiben legalább kilencven perc.
+
+(3) Ha a tanuló több alapfokú művészeti iskolával létesít tanulói jogviszonyt vagy egy alapfokú művészeti iskolában több művészeti ág, több tanszak képzésében vesz részt, a tanulónak, kiskorú tanuló esetén a szülőnek írásban nyilatkoznia kell arról, hogy melyik iskolában, melyik művészeti ágban, melyik tanszakon vesz részt térítésidíj-fizetési kötelezettség mellett a képzésben. Az intézmény vezetője köteles a szülőtől a 107. § f) pontjában előírt nyilatkozatot beszerezni.
+
+[^23]: A 18. § a 45/2014. (X. 27.) EMMI rendelet 9. §-ával megállapított szöveg.

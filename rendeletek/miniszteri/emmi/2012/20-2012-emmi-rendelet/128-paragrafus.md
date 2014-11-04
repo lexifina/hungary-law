@@ -32,16 +32,22 @@ f) a személyi higiéné
 
 (6) A helyi egészségfejlesztési programot a nevelőtestület az iskola-egészségügyi szolgálat közreműködésével készíti el.
 
-(7) A nevelési-oktatási intézmény saját pedagógus-munkakörben foglalkoztatott alkalmazottján kívül csak olyan, a nevelési-oktatási intézménnyel jogviszonyban nem álló szakember vagy szervezet programjait, alkalmazásában álló munkatársát vonhatja be tanórai vagy gyermek, tanuló részére szervezett egyéb foglalkozás vagy egyéb egészségfejlesztési és prevenciós tevékenység megszervezésébe, aki vagy amely rendelkezik minőségbiztosított egészségfejlesztési, prevenciós programmal és az egészségpolitikáért felelős miniszter által kijelölt intézmény szakmai ajánlásával.
+(7)[^133] A nevelési-oktatási intézmény saját pedagógus-munkakörben foglalkoztatott alkalmazottján és az intézményben iskola-egészségügyi szolgálatot ellátó szakemberen kívül csak olyan, a nevelési-oktatási intézménnyel jogviszonyban nem álló szakembert vagy szervezet programját megvalósító személyt vonhat be tanórai vagy gyermek, tanuló részére szervezett egyéb foglalkozás vagy egyéb egészségfejlesztési és prevenciós tevékenység megszervezésébe, aki vagy amely rendelkezik az egészségügyért felelős miniszter által kijelölt intézmény szakmai ajánlásával.
 
-(8) A nevelési-oktatási intézmény vezetője az egészségfejlesztési és prevenciós programok kiválasztásánál beszerzi
+(8)[^134] A nevelési-oktatási intézmény vezetője az egészségfejlesztési és prevenciós programok kiválasztásánál beszerzi
 
-a) az intézményben dolgozó iskolapszichológus,
+a) az intézményben dolgozó óvoda- vagy iskolapszichológus,
 
 b) az iskola-egészségügyi szolgálat, továbbá
 
-c) amennyiben működik, a helyi vagy megyei Kábítószerügyi Egyeztető Fórum véleményét.
+c) amennyiben működik, a helyi vagy megyei Kábítószerügyi Egyeztető Fórum
 
-(9) A nevelési-oktatási intézményekben megvalósuló teljes körű egészségfejlesztés minőségbiztosítási keretrendszerét az egészségfejlesztésért felelős országos intézet dolgozza ki.
+## véleményét.
+
+(9)[^135] A nevelési-oktatási intézményekben megvalósuló teljes körű egészségfejlesztés módszertani útmutatóját az egészségfejlesztésért felelős országos intézet dolgozza ki.
 
 (10) Az alapfokú művészeti iskolában az (1)–(9) bekezdés rendelkezéseit nem kell alkalmazni.
+
+[^133]: A 128. § (7) bekezdése a 45/2014. (X. 27.) EMMI rendelet 31. §-ával megállapított szöveg.
+[^134]: A 128. § (8) bekezdése a 45/2014. (X. 27.) EMMI rendelet 31. §-ával megállapított szöveg.
+[^135]: A 128. § (9) bekezdése a 45/2014. (X. 27.) EMMI rendelet 31. §-ával megállapított szöveg.

@@ -2,10 +2,12 @@
 
 (2) A katonai és rendvédelmi középfokú iskola a felvételt egészségügyi, pályaalkalmassági feltételekhez kötheti.
 
-(3) Ha a középfokú egyházi vagy magánintézmény vallási, világnézeti tekintetben elkötelezett intézményként működik, a tanulók felvételét valamely vallás, világnézet elfogadásához kötheti, és ezt a felvételi eljárás keretében vizsgálhatja.
+(3)[^48]
 
 (4) A speciális szakiskolába a felvétel kizárólag a sajátos nevelési igényt megállapító szakértői bizottsági szakvélemény alapján történhet.
 
 (5) Az (1)–(4) bekezdésben szereplő, valamint a 27. § (5) bekezdésben meghatározott szempontok vizsgálatának eredménye a felvétel feltételeként figyelembe vehető, de a felvehető tanulók rangsorolásában nem játszhat szerepet.
 
 (6) A felvételi eljárás költségei a szülőre, tanulóra nem háríthatók át.
+
+[^48]: A 28. § (3) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § c) pontja hatályon kívül helyezte.

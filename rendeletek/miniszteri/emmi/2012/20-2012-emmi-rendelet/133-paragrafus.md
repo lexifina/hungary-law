@@ -1,8 +1,8 @@
 ## 45. A közösségi szolgálattal kapcsolatos rendelkezések
 
-133. § (1) Középiskolában meg kell szervezni a tanuló közösségi szolgálatának teljesítésével, dokumentálásával összefüggő feladatok ellátását. A tanuló osztályfőnöke vagy az ezzel a feladattal megbízott pedagógus a tanuló előmenetelét rögzítő dokumentumokban az iratkezelési szabályok megtartásával nyilvántartja és folyamatosan vezeti a közösségi szolgálattal összefüggő egyéni vagy csoportos tevékenységet, amely alapján az Nkt.-ban az érettségi bizonyítvány kiadásának feltételeként meghatározott ötven óra közösségi szolgálat elvégzése igazolható legkésőbb a tanuló érettségi bizonyítványa kiadásának időpontjára.
+133. § (1)[^141] A középiskola feladata és az intézmény vezetőjének felelőssége a tanuló választása alapján az iskolai közösségi szolgálat megszervezése állami, önkormányzati, civil, illetve nonprofit szervezetnél, középiskola magánszeméllyel kötött megállapodása alapján magánszemélynél vagy saját intézményben. Ennek keretében meg kell szervezni a tanuló közösségi szolgálatának teljesítésével, dokumentálásával összefüggő feladatok ellátását. A tanuló osztályfőnöke vagy az ezzel a feladattal megbízott pedagógus a tanuló előmenetelét rögzítő dokumentumokban az iratkezelési szabályok megtartásával nyilvántartja és folyamatosan vezeti a közösségi szolgálattal összefüggő egyéni vagy csoportos tevékenységet.
 
-(2) A közösségi szolgálat keretei között
+(2)[^142] A közösségi szolgálat keretei között
 
 a) az egészségügyi,
 
@@ -16,15 +16,21 @@ e) a környezet- és természetvédelemi,
 
 f) a katasztrófavédelmi,
 
-g) az óvodás korú, sajátos nevelési igényű gyermekekkel, tanulókkal, az idős emberekkel közös sport- és szabadidős
+g) az óvodás korú, sajátos nevelési igényű gyermekekkel, tanulókkal, az idős emberekkel közös sport- és szabadidős,
 
-## területén folytatható tevékenység.
+h) az egyes rendőrségi feladatok ellátására létrehozott szerveknél bűn- és baleset-megelőzési
 
-(3) A tanulót fogadó intézménynek a (2) bekezdés a) pontjában meghatározott tevékenységi területen minden esetben, a (2) bekezdés b) pontjában meghatározott esetekben szükség szerint mentort kell biztosítania.
+## területen folytatható tevékenység.
 
-(4) A középiskola a 9–11. évfolyamos tanulói számára lehetőség szerint három tanévre, arányosan elosztva szervezi meg vagy biztosít időkeretet a legalább ötven órás közösségi szolgálat teljesítésére, amelytől azonban indokolt esetben a szülő kérésére el lehet térni.
+(2a)[^143] A közösségi szolgálat az intézményben meghatározott munkaköri feladatok ellátására nem irányulhat.
 
-(5) A közösségi szolgálatot az adott tanuló esetében koordináló pedagógus az ötven órán belül – szükség szerint a mentorral közösen – legfeljebb öt órás felkészítő, majd legfeljebb öt órás záró foglalkozást tart.
+(2b)[^144] A tanuló a közösségi szolgálatot a lakóhelyén lévő, 133. § (2) bekezdés szerinti intézményben is teljesítheti.
+
+(3)[^145] A tanulót fogadó intézménynek a (2) bekezdés a) és h) pontjában meghatározott tevékenységi területen minden esetben, a (2) bekezdés b) pontjában meghatározott esetekben szükség szerint mentort kell biztosítania.
+
+(4)[^146] A középiskola a 9–12. évfolyamos tanulói számára szervezi meg a legalább ötven órás közösségi szolgálatot, vagy annak teljesítésére időkeretet biztosít.
+
+(5)[^147] A közösségi szolgálatot az adott tanuló esetében koordináló pedagógus az ötven órán belül – szükség szerint a mentorral közösen – legfeljebb öt órás felkészítő, majd legfeljebb öt órás záró foglalkozást tart.
 
 (6) A közösségi szolgálat teljesítése körében egy órán hatvan perc közösségi szolgálati idő értendő azzal, hogy a helyszínre utazás és a helyszínről hazautazás ideje nem számítható be a teljesítésbe.
 
@@ -38,8 +44,17 @@ a) a tanulónak közösségi szolgálati jelentkezési lapot kell kitöltenie, a
 
 b) az osztálynaplóban és a törzslapon a kijelölt pedagógusnak dokumentálnia kell a közösségi szolgálat teljesítését,
 
-c) az iskola a közösségi szolgálat teljesítéséről igazolást állít ki két példányban, amelyből egy példány a tanulónál, egy pedig az intézménynél marad,
+c)[^148] az iskola a közösségi szolgálat teljesítéséről a tanulói jogviszony tanév közbeni megszűnésekor igazolást állít ki két példányban, amelyből egy példány a tanulónál, egy pedig az intézménynél marad,
 
 d) az iskola a közösségi szolgálattal kapcsolatos dokumentumok kezelését az iratkezelési szabályzatában rögzíti,
 
 e) az iskolán kívüli külső szervezet és közreműködő mentor bevonásakor az iskola és a felek együttműködéséről megállapodást kell kötni, amelynek tartalmaznia kell a megállapodást aláíró felek adatain és vállalt kötelezettségein túl a foglalkoztatás időtartamát, a mentor nevét és feladatkörét.
+
+[^141]: A 133. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^142]: A 133. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^143]: A 133. § (2a) bekezdését a 45/2014. (X. 27.) EMMI rendelet 34. § (2) bekezdése iktatta be.
+[^144]: A 133. § (2b) bekezdését a 45/2014. (X. 27.) EMMI rendelet 34. § (2) bekezdése iktatta be.
+[^145]: A 133. § (3) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 27. pontja szerint módosított szöveg.
+[^146]: A 133. § (4) bekezdése a 45/2014. (X. 27.) EMMI rendelet 34. § (3) bekezdésével megállapított szöveg.
+[^147]: A 133. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 34. § (3) bekezdésével megállapított szöveg.
+[^148]: A 133. § (9) bekezdés c) pontja a 45/2014. (X. 27.) EMMI rendelet 34. § (4) bekezdésével megállapított szöveg.

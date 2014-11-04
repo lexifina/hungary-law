@@ -16,7 +16,9 @@ f) a fegyelmező intézkedések formáit és alkalmazásának elveit,
 
 g) elektronikus napló használata esetén a szülő részéről történő hozzáférés módját,
 
-h) az osztályozó vizsga tantárgyankénti, évfolyamonkénti követelményeit, a tanulmányok alatti vizsgák tervezett idejét, az osztályozó vizsgára jelentkezés módját és határidejét.
+h) az osztályozó vizsga tantárgyankénti, évfolyamonkénti követelményeit, a tanulmányok alatti vizsgák tervezett idejét, az osztályozó vizsgára jelentkezés módját és határidejét,
+
+i)[^9] a tankönyvellátás iskolán belüli szabályait.
 
 (2) Az (1) bekezdésben foglaltakon túl az iskola és a kollégium házirendje állapítja meg
 
@@ -33,3 +35,5 @@ e) a kollégiumi lakhatás ideje alatt a kollégiumon kívüli tartózkodás sor
 f) az iskola és a kollégium helyiségei, berendezési tárgyai, eszközei és az iskolához, kollégiumhoz tartozó területek használatának rendjét,
 
 g) az iskola, kollégium által szervezett, a pedagógiai program végrehajtásához kapcsolódó iskolán, kollégiumon kívüli rendezvényeken elvárt tanulói magatartást.
+
+[^9]: Az 5. § (1) bekezdés i) pontját a 45/2014. (X. 27.) EMMI rendelet 2. §-a iktatta be.

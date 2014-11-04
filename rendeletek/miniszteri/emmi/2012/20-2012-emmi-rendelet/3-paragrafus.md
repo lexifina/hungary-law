@@ -36,4 +36,6 @@ h) minden egyéb, a nevelőtestület által szükségesnek ítélt kérdést.
 
 (7) Az óvodában a napirendet úgy kell kialakítani, hogy a szülők – a házirendben meghatározottak szerint – gyermeküket az óvodai tevékenység zavarása nélkül behozhassák és hazavihessék. Az óvoda nyári zárva tartásáról legkésőbb február tizenötödikéig, a nevelés nélküli munkanapokról legalább hét nappal a zárva tartást megelőzően a szülőket tájékoztatni kell.
 
-(8) A nevelési-oktatási intézményben folyó – a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: közoktatási törvény) 4. § (4) bekezdésében szabályozott – fakultatív hit- és vallásoktatás idejének és helyének meghatározásához be kell szerezni az intézményi tanács, az iskolaszék, óvodaszék, kollégiumi szék, vagy ennek hiányában, az iskolai, kollégiumi szülői szervezet, közösség, és az iskolai, kollégiumi diákönkormányzat véleményét.
+(8)[^7]
+
+[^7]: A 3. § (8) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § a) pontja hatályon kívül helyezte.

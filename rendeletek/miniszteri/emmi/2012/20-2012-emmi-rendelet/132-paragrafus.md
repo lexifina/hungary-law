@@ -24,11 +24,7 @@ b) iskola esetén az első, az ötödik, a kilencedik évfolyamos tanulók.
 
 (5) Az óvodapszichológus, az iskolapszichológus a (3) bekezdés b), c), e) pontjában foglalt feladatok megszervezése során szűréseket, vizsgálatokat, tréningeket, egyéni és csoportos tanácsadást szervezhet a gyermek, a tanuló, a pedagógus, továbbá a szülő megkeresésével, valamint az érintett gyermek, tanuló személyiségének fejlesztésével összhangban a szülő számára is.
 
-(6) Az iskolapszichológus szükség esetén az iskolában pályaválasztási és pályaorientációs tanácsadást szervez, amelynek során
-
-a) együttműködik a pedagógusokkal és a kijelölt pedagógiai szakszolgálat pályaválasztási szakemberével,
-
-b) a helyi lehetőségek függvényében pályaorientációs foglalkozásokat tart az ötödik évfolyamtól kezdődően az önismereti, képességstruktúra-feltárási, pályaismereti témakörben.
+(6)[^140] A nevelési-oktatási intézményben alkalmazott óvodapszichológus, iskolapszichológus az óvoda, az iskola pedagógiai programja szerint szervezett óvodai foglalkozás, iskolai tanóra ideje alatt is végezheti a gyermek, a tanuló részére az egyéni tanácsadást abból a célból, hogy a gyermek, a tanuló személyiségfejlődését elősegítse.
 
 (7) Az óvodapszichológus, az iskolapszichológus
 
@@ -43,3 +39,5 @@ d) az óvodai, iskolapszichológusi munka szakmai minőségbiztosítása érdek�
 e) együttműködik a pedagógiai szakszolgálattal az érintett gyermek, tanuló pedagógiai szakszolgálati ellátás keretében történő gondozásában,
 
 (8) Az alapfokú művészeti iskolában az (1)–(7) bekezdés rendelkezéseit nem kell alkalmazni.
+
+[^140]: A 132. § (6) bekezdése a 45/2014. (X. 27.) EMMI rendelet 33. §-ával megállapított szöveg.

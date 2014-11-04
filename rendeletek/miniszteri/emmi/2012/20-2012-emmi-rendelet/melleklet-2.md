@@ -80,6 +80,8 @@
 
 | 33. |  | Szakértői bizottság szakértői véleménye |  | 20 |
 
+| 34. |  | Költségvetési támogatási dokumentumok |  | 5 |
+
 ## II.
 
 ## Az iskolák által alkalmazott záradékok
@@ -208,11 +210,13 @@
 
 | 45. |  | Ezt az osztályozó naplót ................ azaz .................... (betűvel) osztályozott tanulóval lezártam. |  | N. |
 
-| 46. |  | Igazolom, hogy a tanuló a ……../…….. tanévig …….. óra közösségi szolgálatot teljesített. |  | B. |
+| 46. |  | Igazolom, hogy a tanuló a ……../…….. tanévben …….. óra közösségi szolgálatot teljesített. |  | B. |
 
 | 47. |  | A tanuló teljesítette az érettségi bizonyítvány kiadásához szükséges közösségi szolgálatot |  | TI. |
 
 | 48. |  | …..(nemzetiség megnevezése) kiegészítő nemzetiségi tanulmányait a nyolcadik/tizenkettedik évfolyamon befejezte |  | Tl., B. |
+
+| 49. |  | A 20 hónapos köznevelési HÍD II. program első évének tanulmányi követelményeit teljesítette |  | N, Tl. |
 
 | Beírási napló | Bn. |
 
@@ -242,7 +246,7 @@
 
 |  | Kollégiumi törzskönyv | Kt. |
 
-2. melléklet a 20/2012. (VIII. 31.) EMMI rendelethez[^121]
+2. melléklet a 20/2012. (VIII. 31.) EMMI rendelethez[^237]
 
 JEGYZÉK
 
@@ -312,78 +316,4 @@ Az egyes helyiségek és az udvar jellemző adatait (alapterület, belmagasság,
 
 megvilágítás) a hatályos építészeti, egészségügyi, munkavédelmi és tűzvédelmi jogszabályok tartalmazzák.
 
-|  | A | B | C |
-
-| 1. | Eszközök, felszerelések | Mennyiségi mutató | Megjegyzés |
-
-| 2. | csoportszoba | gyermekcsoportonként 1 | gyógypedagógiai, konduktív pedagógiai óvodában is a csoportszoba alapterülete nem lehet kevesebb, mint 2 m2/fő |
-
-| 3. | gyermekágy/fektető tároló helyiség | óvodánként (székhelyen és telephelyen) valamennyi gyermekágy tárolására alkalmas) csoportonként 1 |  |
-
-| 4. | tornaszoba, sportszertárral | óvodánként (székhelyen és telephelyen) 1 | A tornaszoba kialakítása kötelező. Amennyiben további tornaszoba kialakítása válik szükségessé, úgy a gyermekek számára aránytalan teher és többletköltség nélkül más nevelési-oktatási intézménnyel-, illetve sportolásra alkalmas létesítmény üzemeltetőjével írásban kötött megállapodás alapján is biztosítható a tornaszoba vagy tornaterem helyiség használata. Gyógypedagógiai, konduktív pedagógiai óvodában minden esetben helyben kell kialakítani. |
-
-| 5. | logopédiai foglalkoztató, egyéni fejlesztő szoba | óvodánként (székhelyen és telephelyen) 1 | gyógypedagógiai, konduktív pedagógiai óvodában a logopédiai és az egyéni foglalkoztatókat külön kell kialakítani |
-
-| 6. | óvodapszichológusi helyiség | ha az óvodapszichológus alkalmazása kötelező óvodánként (székhelyen és telephelyen) 1 | Gyógypedagógiai, konduktív pedagógiai óvodában helyben alakítandó ki. |
-
-| 7. | játszóudvar | óvodánként (székhelyen és telephelyen) 1 | közterületen, iskolában is kialakítható, ha adott időben biztosítható a kizárólagos használat az óvoda részére gyógypedagógiai, konduktív pedagógiai óvodában minden esetben helyben kell kialakítani |
-
-| 8. | intézményvezetői iroda | óvoda székhelyén és azon a telephelyen, amelyen az intézményvezető-helyettes, illetve tagintézmény-, intézményegységvezető-helyettes alkalmazása nem kötelező 1 |  |
-
-| 9. | intézményvezető-helyettesi iroda | ha az óvodában intézményvezető-helyettes alkalmazása kötelező (székhelyen és telephelyen) 1 |  |
-
-| 10. | tagintézmény-, intézményegységvezető- helyettes | Ha az óvodában tagintézmény-, intézményegységvezető-helyettes alkalmazása kötelező, székhelyen és telephelyen 1 |  |
-
-| 11. | óvodatitkári iroda | ha az óvodában az óvodatitkár alkalmazása kötelező óvoda székhelyén 1 | Ha óvodában az Nkt. alapján az óvodatitkár alkalmazása kötelezően előírt, a feladatellátáshoz szükséges hely a tagintézmény-, intézményegységvezető-helyettesi irodával közösen is kialakítható, ha azt a helyiség mérete lehetővé teszi. |
-
-| 12. | nevelőtestületi és könyvtárszoba | óvodánként (székhelyen és telephelyen) 1 | A könyvtárszoba abban az esetben alakítható ki a nevelőtestületi szobával együtt, ha azt a helyiség mérete lehetővé teszi. A könyvtárszoba legalább 500 könyvtári dokumentum befogadására legyen alkalmas, az óvoda-pedagógusok felkészüléséhez. |
-
-| 13. | általános szertár/raktár | óvodánként (székhelyen és telephelyen) 1 |  |
-
-| 14. | többcélú helyiség (szülői fogadásra, tárgyalásra, ünnepek megtartására alkalmas helyiség) | óvodánként (székhelyen vagy telephelyen) 1 |  |
-
-| 15. | orvosi szoba, elkülönítő szoba | óvodánként (székhelyen és telephelyen) 1 | Az orvosi szoba kialakítása, létesítése nem kötelező, amennyiben az óvoda-egészségügyi szolgálat nyilatkozata szerint a gyermekek ellátása – aránytalan teher és többletköltség nélkül −a közelben található egészségügyi intézményben megoldható. Gyógypedagógiai, konduktív pedagógiai óvodában minden esetben helyben kell kialakítani. |
-
-| 16. | gyermeköltöző | gyermekcsoportonként 1 | Másik gyermekcsoporttal közösen is kialakítható, ha a helyiség alapterülete, illetve a gyermekek száma azt lehetővé teszi. Gyógypedagógiai, konduktív pedagógiai óvodában nem alakítható ki másik csoporttal közösen. |
-
-| 17. | gyermekmosdó, WC helyiség | gyermekcsoportonként 1 (WC - nemenként 1) | Gyermeklétszám figyelembevételével. Másik gyermekcsoporttal közösen is kialakítható, ha a helyiség alapterülete, illetve a gyermekek száma azt lehetővé teszi. Gyógypedagógiai, konduktív pedagógiai óvodában nem alakítható ki másik csoporttal közösen és ott ahol mozgáskorlátozott gyermeket nevelnek, az akadálymentes WC kialakítása is kötelező. |
-
-| 18. | felnőtt öltöző | óvodánként (székhelyen és telephelyen) 1 amennyiben az óvodai csoportok száma több mint hat 2 | A kialakításnál figyelemmel kell lenni arra is, hogy férfi óvodapedagógusok, gyógypedagógiai, konduktív pedagógiai óvodában gyógypedagógusok, konduktorok is alkalmazásba kerülhetnek. |
-
-| 19. | felnőtt mosdó | óvodánként (székhelyen és telephelyen) 1 amennyiben az óvodai csoportok száma több mint hat 2, vagy az óvoda épülete emeletes, szintenként 1 | A kialakításnál figyelemmel kell lenni arra is, hogy férfi óvodapedagógusok, gyógypedagógiai, konduktív pedagógiai óvodában gyógypedagógusok, konduktorok is alkalmazásba kerülhetnek. |
-
-| 20. | felnőtt WC helyiség | óvodánként (székhelyen és telephelyen) 1 amennyiben az óvodai csoportok száma több mint hat, vagy az óvoda épülete emeletes, szintenként 1 | Alkalmazotti létszám figyelembevételével. A kialakításnál figyelemmel kell lenni arra is, hogy férfi óvodapedagógusok, gyógypedagógiai, konduktív pedagógiai óvodában gyógy-pedagógusok, konduktorok is alkalmazásba kerülhetnek. |
-
-| 21. | felnőtt zuhanyzó | óvodánként (székhelyen és telephelyen) 1 | A kialakításnál figyelemmel kell lenni arra is, hogy férfi óvodapedagógusok, gyógypedagógiai, konduktív pedagógiai óvodában gyógypedagógusok, konduktorok is alkalmazásba kerülhetnek. |
-
-| 22. | mosó, vasaló helyiség | óvodánként (székhelyen és telephelyen) 1 |  |
-
-| 23. | szárító helyiség | óvodánként (székhelyen és telephelyen) 1 | Gyógypedagógiai, konduktív pedagógiai óvodában, ahol a szárító helyiség a mosó, vasaló helyiséggel együtt kialakítható. |
-
-| 24. | felnőtt étkező | óvodánként (székhelyen és telephelyen) 1 |  |
-
-| 25. | főzőkonyha | óvodánként (székhelyen és telephelyen) 1 | Ott ahol a tervezési program szerint, helyben főznek. |
-
-| 26. | melegítő konyha | óvodánként (székhelyen és telephelyen) 1 |  |
-
-| 27. | tálaló-mosogató | óvodánként (székhelyen és telephelyen) 1 |  |
-
-| 28. | szárazáru raktár | óvodánként (székhelyen és telephelyen) 1 | Ott ahol a tervezési program szerint, helyben főznek. |
-
-| 29. | földesárú raktár | óvodánként (székhelyen és telephelyen) 1 | Ott ahol a tervezési program szerint, helyben főznek. |
-
-| 30. | éléskamra | óvodánként (székhelyen és telephelyen) 1 | Ott ahol a tervezési program szerint, helyben főznek. |
-
-| 31. | karbantartó műhely | óvodánként (székhelyen és telephelyen) 1 | Gyógypedagógiai, konduktív pedagógiai óvodában. |
-
-| 32. | kerekesszék tároló | óvodánként (székhelyen és telephelyen) szintenként 2 | Gyógypedagógiai, konduktív pedagógiai óvodában, ahol mozgáskorlátozott gyermekeket nevelnek. |
-
-| 33. | ételhulladék tároló | óvodánként (székhelyen és telephelyen) 1 |  |
-
-| 34. | A fogyatékosság jellege szerint a gyógypedagógiai, konduktív pedagógiai óvodában, tervezési program többet is előírhat. |
-
-II. HELYISÉGEK BÚTORZATA ÉS EGYÉB BERENDEZÉSI TÁRGYAI
-
-Az e pont alatt felsorolt eszközök, felszerelések helyettesíthetők az adott eszköz, felszerelés funkcióját kiváltó, korszerű eszközzel, felszereléssel
-
-[^121]: A 2. melléklet a 22/2013. (III. 22.) EMMI rendelet 38. §-a szerint módosított szöveg.
+[^237]: A 2. melléklet a 22/2013. (III. 22.) EMMI rendelet 38. §-a, a 45/2014. (X. 27.) EMMI rendelet 54. § 32. pontja szerint módosított szöveg.

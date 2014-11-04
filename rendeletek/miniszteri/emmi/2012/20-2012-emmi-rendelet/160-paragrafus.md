@@ -1,4 +1,4 @@
-## 62. Az egyházi és más nem állami, nem települési önkormányzati fenntartású nevelési-oktatási intézmény fenntartói tevékenységének törvényességi ellenőrzése
+## 62. [^185] A nem állami, nem települési önkormányzati fenntartású nevelési-oktatási intézmény fenntartói tevékenységének törvényességi ellenőrzése
 
 ## 160. § A kormányhivatal az egyházi és más nem állami, nem települési önkormányzati fenntartású nevelési-oktatási intézmény fenntartói tevékenységének törvényességi ellenőrzése keretében különösen azt vizsgálja, hogy
 
@@ -14,7 +14,7 @@ e) a fenntartó által elkészített éves költségvetés biztosítja-e az Nkt.
 
 f) az Nkt. 23. § (3) bekezdése szerinti ütemtervben foglaltak teljesülnek-e,
 
-g)[^93] egyházi nevelési-oktatási intézmény fenntartója esetében az SZMSZ jóváhagyásával kapcsolatos eljárás törvényes-e,
+g)[^186] egyházi nevelési-oktatási intézmény fenntartója esetében az SZMSZ jóváhagyásával kapcsolatos eljárás törvényes-e,
 
 h) a nevelési-oktatási intézmény vezetőjének alkalmazása törvényes-e,
 
@@ -22,4 +22,5 @@ i) vizsgálta-e a fenntartó a nevelési-oktatási intézmény pedagógiai progr
 
 j) a fenntartó a döntései meghozatalakor betartja-e az előírt egyeztetési kötelezettségét.
 
-[^93]: A 160. § g) pontja a 34/2014. (IV. 29.) EMMI rendelet 3. § c) pontja szerint módosított szöveg.
+[^185]: A 62. alcím címe a 45/2014. (X. 27.) EMMI rendelet 41. §-ával megállapított szöveg.
+[^186]: A 160. § g) pontja a 34/2014. (IV. 29.) EMMI rendelet 3. § c) pontja szerint módosított szöveg.
