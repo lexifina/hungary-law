@@ -1,0 +1,3 @@
+## 1. § A nem filmgyártási célú mozgóképszakmai tevékenységek állami támogatásának szabályairól szóló 67/2013. (X. 17.) EMMI rendelet (a továbbiakban: R.) 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az (1) bekezdés szerinti tevékenység esetében a támogatás összege elérheti az elszámolható költségek 100%-át. Ha a támogatással elkészült forgatókönyv alapján ténylegesen film készítésére kerül sor, az (1) bekezdés szerinti költségek a film készítésére vonatkozó teljes költségvetés részét képezik, és a valamennyi elszámolható költség alapul vételével nyújtott támogatás mértéke nem haladhatja meg az Mktv. 13. §-ában meghatározott mértéket, figyelembe véve a forgatókönyv készítéséhez nyújtott támogatástartalmat.”

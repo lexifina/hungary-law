@@ -1,0 +1,3 @@
+## 2. § Az R. 4. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az (1) bekezdés szerinti tevékenység esetében a támogatás összege elérheti az elszámolható költségek 100%-át. Ha a támogatásból megvalósított filmgyártás előkészítési tevékenységek alapján ténylegesen film készítésére kerül sor, az (1) bekezdés szerinti költségek a filmgyártásra vonatkozó teljes költségvetés részét képezik, és a valamennyi elszámolható költség alapul vételével nyújtott támogatás mértéke nem haladhatja meg az Mktv. 13. §-ában meghatározott mértéket, figyelembe véve az előkészítéshez nyújtott támogatástartalmat.”
