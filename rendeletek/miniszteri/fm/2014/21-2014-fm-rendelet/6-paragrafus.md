@@ -1,0 +1,1 @@
+## „(3a) A 2013. és 2014. évi támogatások együttes mértéke a kvótacukor előállításához felhasznált 16%-os cukortartalomra átszámított cukorrépa-tonnánként legfeljebb 15 euró 61 centnek megfelelő forintösszeg, és egy hektár cukorrépa után legfeljebb 1600 euró támogatás adható az 5. § (1) bekezdése szerint benyújtott kérelmek alapján.”

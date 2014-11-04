@@ -1,0 +1,3 @@
+## 2. § A 129/2007. (X. 31.) FVM rendelet 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Amennyiben fizetési kötelezettségének a kvótajogosult határidőben nem tesz eleget, az MVH a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 132. §-a, valamint a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Törvény) 70. §-ának megfelelően késedelmi pótlék megfizetésére kötelezi az érintett kvótajogosultat.”
