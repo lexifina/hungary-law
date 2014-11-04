@@ -1,4 +1,4 @@
-## 1. megállapítja a Nyugat-Dunántúli Operatív Program 2011–2013. évekre szóló akciótervének 2. prioritását az 1. melléklet szerint, a 2. prioritáson szükséges többletkötelezettség-vállalás jóváhagyásával,
+## 1.[^2]
 
 ## 2. jóváhagyja az 1. melléklet szerint a Nyugat-Dunántúli Operatív Program 2. prioritása keretének 1,010 milliárd forinttal történő megnövelését azzal, hogy a keret a meghatározható maximális uniós-hazai aránynak megfelelően, a rendelkezésre álló uniós források összegéig elszámolásra kerül,
 
@@ -10,50 +10,10 @@
 
 ## Határidő: közzétételt követő 15 napon belül
 
-## 5.[^1]
+## 5.[^3]
 
-1. melléklet az 1110/2014. (III. 6.) Korm. határozathoz
+1. melléklet az 1110/2014. (III. 6.) Korm. határozathoz[^4]
 
-| 2. | I. Prioritás bemutatása: 2. prioritás: Turizmusfejlesztés |  |  | Nyugat-Dunántúli Operatív Program |
-
-|  |  |  |  |  |  | Akcióterv 2011-2013 |
-
-| 1. Prioritás tartalma |  |  |  |  |  |  |
-
-| Prioritás rövid tartalma |  |  |
-
-| A Nyugat-Dunántúl természeti, történelmi-kulturális örökségének értéktudatos, komplex megőrzése, klaszter jellegű együttműködésben megvalósuló új, egyedi arculatú, magas minőségű fejlesztése, mely tartalmazza: a termálvízkincsre alapozott egészségturisztikai-rekreációs fejlesztéseket; történelmi emlékek, kulturális értékek integrált fejlesztését; tájegységekre jellemző ökoturisztikai, kistérségi alapon szervezett tematikus szolgáltatások támogatását; a régió turisztikai intézményrendszerének megújítását |  |  |
-
-| 2. A prioritás ütemezése – kiírások kerete |  |  |  |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft) |  |  |  |
-
-| 2011 | 2012 | 2013 | Összesen |  |  |  |
-
-| 5,52 | 10,52 | 3,70 | 19,75 |  |  |  |
-
-| Tervezett ESZA arány (%): max 10% |  |  |  |  |  |  |
-
-| 3. A prioritás ütemezése – kötelezettségvállalás (IH döntés) |  |  |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft) |  |  |
-
-| 2007-2010 | 2011 | 2012 | 2013 | 2014- 2015 | Összesen |  |  |
-
-| 21,04 | 3,48 | 6,49 | 9,06 | 1,27 | 41,33 |  |  |
-
-|  | II. A támogatási konstrukciók összefoglaló adatai (2011-2013) |  |  |  |  |  |  |
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete (Mrd Ft) | A konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
-
-| 2011 | 2012 | 2013 |
-
-| 2.1.1. | A régió történelmi és kulturális örökségének fenntartható hasznosítása, valamint a természeti értékeken alapuló aktív turisztikai programok fejlesztése | 4,76 | 10,30 | 3,70 | Turisztikai vonzerők illetve attrakciók létrehozása, meglevők fejlesztése, valamint turisztikai szolgáltatások kialakítása és fejlesztése. | nemzetgazda- sági miniszter | emberi erőforrások minisztere |
-
-| 2.2.1. | Szálláshelyek bővítése és szolgáltatásainak minőségi fejlesztése | A konstrukció 2011-2013-ban nem indul. | nemzetgazda- sági miniszter |  |
-
-| 2.3.1. | Helyi, térségi desztináció menedzsment szervezetek létrehozása, fejlesztése | 0,76 | 0,22 | 0,00 | Helyi és térségi Turisztikai Desztináció Menedzsment szervezetek fejlesztése. Balatoni Helyi és térségi Turisztikai Desztináció Menedzsment szervezetek fejlesztése. | nemzetgazda- sági miniszter |  |
-
-| 2. Prioritás összesen | 5,52 | 10,52 | 3,70 |  |
-
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pontot az 1620/2014. (XI. 4.) Korm. határozat 4. pontja visszavonta.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. mellékletet az 1620/2014. (XI. 4.) Korm. határozat 4. pontja visszavonta.
