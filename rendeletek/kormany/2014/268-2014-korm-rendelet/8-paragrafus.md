@@ -1,0 +1,1 @@
+## „(6a) Aki köznevelési intézményben vezetői vagy magasabb vezetői megbízást kapott vagy ilyen munkakört tölt be, a megbízás vagy a munkakör betöltésének ideje alatt akkor is besorolható Mesterpedagógus fokozatba, ha az (5) és (6) bekezdésben meghatározott feladatok ellátásában nem vesz részt.”
