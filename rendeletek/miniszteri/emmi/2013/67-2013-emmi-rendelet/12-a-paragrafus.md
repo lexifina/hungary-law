@@ -1,0 +1,1 @@
+## 12. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő, a támogatást nyújtó szervezetekhez benyújtott mindazon pályázatok és egyedi támogatási kérelmek esetén is alkalmazni kell, ahol még nem kötötték meg a támogatási szerződést.

@@ -40,4 +40,6 @@
 
 (2) Az (1) bekezdés 19. pontja szerinti költség legfeljebb a támogatási összeg 8%-áig számolható el.
 
-(3) Az (1) bekezdés szerinti tevékenység esetében a támogatás összege legfeljebb az elszámolható költségek 80%-a, de legfeljebb 7,5 millió forint.
+(3)[^2] Az (1) bekezdés szerinti tevékenység esetében a támogatás összege elérheti az elszámolható költségek 100%-át. Ha a támogatásból megvalósított filmgyártás előkészítési tevékenységek alapján ténylegesen film készítésére kerül sor, az (1) bekezdés szerinti költségek a filmgyártásra vonatkozó teljes költségvetés részét képezik, és a valamennyi elszámolható költség alapul vételével nyújtott támogatás mértéke nem haladhatja meg az Mktv. 13. §-ában meghatározott mértéket, figyelembe véve az előkészítéshez nyújtott támogatástartalmat.
+
+[^2]: A 4. § (3) bekezdése a 46/2014. (X. 27.) EMMI rendelet 2. §-ával megállapított szöveg.

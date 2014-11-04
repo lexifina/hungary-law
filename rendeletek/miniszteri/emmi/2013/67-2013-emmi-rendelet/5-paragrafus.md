@@ -56,11 +56,7 @@
 
 (4) Az (1) bekezdés 8. pontja és a (2) bekezdés 9. pontja szerinti költség legfeljebb a támogatási összeg 8%-áig számolható el.
 
-(5) Az (1) bekezdés szerinti tevékenység esetében a támogatás összege
-
-a) magyar film esetén – a terjesztés területi lefedettségétől, előadásszámtól és nézőszámtól függően – az elszámolható költségek legfeljebb 90%-a, de filmenként legfeljebb 10 millió forint, valamint
-
-b) magyar részvételű koprodukciós film és „art” besorolású külföldi film esetén – a terjesztés területi lefedettségétől, előadásszámtól és nézőszámtól függően – az elszámolható költségek legfeljebb 50%-a, de filmenként legfeljebb 2 millió forint.
+(5)[^3] Az (1) bekezdés szerinti tevékenység esetén a támogatás összegének az elszámolható költséghez viszonyított aránya nem haladhatja meg a támogatott filmalkotásra vonatkozóan az Mktv. 13. §-ában a filmgyártásra megállapított támogatási arányt.
 
 (6) A (2) bekezdés szerinti tevékenység esetében a támogatás összege
 
@@ -69,3 +65,5 @@ a) mozitermenként legfeljebb 2 millió forint,
 b) a támogató által meghatározott kritériumok teljesítése esetén Budapesten legfeljebb további 2 millió forint termenként, vidéken legfeljebb további 4 millió forint termenként, valamint
 
 c) magyar és „art” besorolású film vetítésének támogatása esetén az elszámolható költségek legfeljebb 50%-a, de mozinként legfeljebb 2 millió forint.
+
+[^3]: Az 5. § (5) bekezdése a 46/2014. (X. 27.) EMMI rendelet 3. §-ával megállapított szöveg.
