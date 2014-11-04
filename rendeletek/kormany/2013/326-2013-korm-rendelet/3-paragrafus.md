@@ -18,7 +18,7 @@ b) „Nem felelt meg”.
 
 (6)[^6]
 
-(7) Amennyiben a munkakör részét képezi foglalkozás, tanóra megtartása, a minősítő bizottság a pedagógus legalább kettő foglalkozását meglátogatja, amelyet szakmai megbeszélés követ. A portfólióvédés alkalmával a pedagógus bemutatja saját önértékelését, és válaszol a bizottság tagjainak kérdéseire.
+(7)[^7] Ha a munkakör részét képezi foglalkozás, tanóra megtartása – ide nem értve az óvodapszichológus, iskolapszichológus, pszichológus közvetlen pszichológiai foglalkozását –, a minősítő bizottság a pedagógus legalább kettő foglalkozását meglátogatja, amelyet szakmai megbeszélés követ. A portfólióvédés alkalmával a pedagógus bemutatja saját önértékelését, és válaszol a minősítő bizottság tagjainak kérdéseire.
 
 (8) A minősítési eljárás során a minősítő bizottság
 
@@ -26,11 +26,12 @@ a) áttekinti és értékeli a pedagógus által feltöltött portfóliót, az i
 
 b) értékeli a meglátogatott foglalkozást és a portfólióvédést, valamint
 
-c)[^7] elkészíti az összegző értékelést, amelyet feltölt az OH által működtetett informatikai támogató rendszerbe.
+c)[^8] elkészíti az összegző értékelést, amelyet feltölt az OH által működtetett informatikai támogató rendszerbe.
 
 (9) A minősítési eljárás eredményeként a pedagógus „Megfelelt” minősítést kap, ha az értékelés alapján legalább hetvenöt százalékot ért el.
 
 (10) A „Megfelelt” minősítés alapján a pedagógust a Pedagógus II. fokozatba be kell sorolni.
 
 [^6]: A 3. § (6) bekezdését a 99/2014. (III. 25.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
-[^7]: A 3. § (8) bekezdés c) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^7]: A 3. § (7) bekezdése a 268/2014. (XI. 3.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^8]: A 3. § (8) bekezdés c) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.

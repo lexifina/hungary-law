@@ -2,13 +2,13 @@
 
 ## és a minősítési eljárás, a minősítő bizottságok munkájának szervezése, a minősítés díja
 
-10. §[^14] (1) A miniszter minden év február utolsó napjáig közzéteszi a következő naptári évre vonatkozóan a lebonyolításra kerülő minősítő vizsgák és a minősítési eljárások számát (a továbbiakban: minősítési keretszám), a minősítő vizsgák és minősítési eljárások szervezésének központi szabályait és a minősítési tervbe történő felvétel különös feltételeit.
+10. §[^25] (1) A miniszter minden év február utolsó napjáig közzéteszi a következő naptári évre vonatkozóan a lebonyolításra kerülő minősítő vizsgák és a minősítési eljárások számát (a továbbiakban: minősítési keretszám), a minősítő vizsgák és minősítési eljárások szervezésének központi szabályait és a minősítési tervbe történő felvétel különös feltételeit.
 
 (2) A miniszter a minősítési keretszámot a kötelező minősítő vizsgák és minősítési eljárások száma, a minősítő vizsgák és a minősítési eljárások lebonyolításához rendelkezésre álló személyi és tárgyi feltételek, valamint a központi költségvetési keret biztosította lehetőségek figyelembevételével határozza meg.
 
 (3) A kötelező minősítő vizsga, minősítési eljárás időpontját az intézményvezető a kinevezést, a munkaszerződés megkötését, a kinevezés, munkaszerződés módosítását követő egy munkanapon belül, a foglalkoztatási jogviszony megszűnését vagy szünetelését a megszűnést vagy a szünetelés kezdetét követő öt munkanapon belül rögzíti az OH által működtetett informatikai támogató rendszerben.
 
-(4) A pedagógus – figyelembe véve az (1) bekezdésben meghatározott feltételeket – a nem kötelező minősítési eljárásra történő jelentkezését az adott év április 30-áig kezdeményezi az intézményvezetőnél, megjelölve a minősítés során elérni kívánt fokozatot, tanár esetén a minősítési eljárásra kijelölt tantárgyként a jelentkezés tanévében általa legmagasabb óraszámban tanított tantárgyat. Minősítő vizsga esetén a jelentkezést az intézményvezető (3) bekezdés szerinti adatrögzítése helyettesíti azzal, hogy ez esetben is meg kell jelölni a gyakornok által a jelentkezés tanévében legmagasabb óraszámban tanított tantárgyat.
+(4)[^26] A pedagógus – figyelembe véve az (1) bekezdésben meghatározott feltételeket – a minősítő vizsgára, a minősítési eljárásra történő jelentkezését a jelentkezési lap beadásával az adott év április 30-áig kezdeményezi az intézményvezetőnél, megjelölve a minősítés során elérni kívánt fokozatot, több munkakörben foglalkoztatott pedagógus esetében azt a munkakört, amely tekintetében minősítő vizsgán, minősítési eljáráson részt kíván venni, tanár munkakörben foglalkoztatott pedagógus esetén – beleértve a Gyakornok fokozatba besorolt tanárt is – az általa tanított tantárgyak közül a minősítő vizsgára, illetve a minősítési eljárásra kiválasztott tantárgyat. A tanár munkakörben foglalkoztatott pedagógus a minősítő vizsgára, minősítési eljárásra csak olyan tantárgyat választhat, amelyet a jelentkezéskor legalább heti két órában tanít. Ha a pedagógus számára a minősítő vizsgára, minősítési eljárásra való jelentkezés kötelező, a jelentkezését az intézményvezető (5) bekezdés szerinti adatrögzítése helyettesíti azzal, hogy ez esetben is meg kell jelölni a tanár munkakörben foglalkoztatott pedagógus által a minősítő vizsgára, minősítési eljárásra e bekezdésben foglalt feltételek szerint választott tantárgyat.
 
 (5) Az intézményvezető a pedagógus jelentkezését május 10-éig rögzíti az OH által működtetett informatikai támogató rendszerben, amely informatikai támogató rendszer a jelentkezéshez való hozzáférést a kormányhivatal számára lehetővé teszi. Az intézményvezető a pedagógus minősítő vizsgára, minősítési eljárásra való jelentkezésének rögzítését nem tagadhatja meg.
 
@@ -24,4 +24,5 @@
 
 (11) Az intézményvezető köteles a jelentkező minősítő vizsgán, minősítési eljárásban való részvételét biztosítani. A minősítő vizsgán, a minősítési eljárásban való részvétel napját munkaidőként kell figyelembe venni.
 
-[^14]: A 10. § a 99/2014. (III. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^25]: A 10. § a 99/2014. (III. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^26]: A 10. § (4) bekezdése a 268/2014. (XI. 3.) Korm. rendelet 11. §-ával megállapított szöveg.

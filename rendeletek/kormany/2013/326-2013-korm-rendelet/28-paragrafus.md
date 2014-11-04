@@ -1,4 +1,4 @@
-## 27. §[^26] A 22. § (2) bekezdése, a 26. § (1) és (2) bekezdése kivételével a 10. alcímet az egyházi és a magánintézményekben nem kell alkalmazni, amennyiben a munkáltató mellőzi a pályázatot.
+## 27. §[^49] A 22. § (2) bekezdése, a 26. § (1) és (2) bekezdése kivételével a 10. alcímet az egyházi és a magánintézményekben nem kell alkalmazni, amennyiben a munkáltató mellőzi a pályázatot.
 
 ## IV. Fejezet
 
@@ -14,4 +14,4 @@
 
 (4) A megüresedett álláshelyekre a pályázatot a megüresedéstől számított harminc napon belül ki kell írni, ha a pályázati kiírás nem mellőzhető.
 
-[^26]: A 27. § a 99/2014. (III. 25.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^49]: A 27. § a 99/2014. (III. 25.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -16,6 +16,8 @@ b) az illetményalap harminc százalékának megfelelő pótlékra jogosult, ha 
 
 c) alsó határa alapján megállapított pótlékra jogosult, ha a tagintézmény, intézményegység gyermek-, tanulólétszáma legfeljebb kettőszázötven fő.
 
+(4a)[^38] A (4) bekezdés alkalmazásában az október 1-jei gyermek- és tanulólétszám az irányadó.
+
 (5) A tagintézményvezető-helyettes és az intézményegységvezető-helyettes az intézményvezető-helyettesi pótlék alsó határa alapján megállapított pótlékra jogosult.
 
 (6) Nemzetiségi pótlékra az a pedagógus jogosult, aki nemzetiségi nyelvű óvodában, iskolában, kollégiumban állandó jelleggel, neveléssel-oktatással lekötött munkaidejének legalább ötven százalékában nemzetiségi anyanyelven nevelő, oktató munkát végez. E pótlékra jogosult az a pedagógus is, aki óvodában, iskolában siket vagy nagyothalló gyermekek, tanulók nevelésénél, oktatásánál a jelnyelvet is alkalmazza, feltéve, hogy rendelkezik a szakértő jeltolmács vagy fordító jeltolmács szakképzettséggel.
@@ -25,3 +27,5 @@ c) alsó határa alapján megállapított pótlékra jogosult, ha a tagintézmé
 (8) A nehéz körülmények között végzett munkáért járó pótlékra az a pedagógus jogosult, aki olyan köznevelési intézményben dolgozik, amely a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések jegyzékéről szóló kormányrendelettel kiadott jegyzékben a társadalmi-gazdasági és infrastrukturális szempontból elmaradott települések között szereplő községben található.
 
 (9) A pedagógus számára jogszabályban meghatározottak szerint az (1)–(8) bekezdésben meghatározott pótlékokon felül további pótlék is megállapítható.
+
+[^38]: A 16. § (4a) bekezdését a 268/2014. (XI. 3.) Korm. rendelet 13. §-a iktatta be.

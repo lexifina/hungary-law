@@ -24,7 +24,7 @@ b) ha a gyakornoki idő nem a tanítási év közben jár le, a tanítási év u
 
 (7) A minősítő vizsga részei:
 
-a)[^2] amennyiben a munkakör részét képezi foglalkozás, tanóra megtartása, a jelölt legalább két foglalkozásának, tanórájának látogatása és elemzése, valamint
+a)[^2] a pedagógus legalább két foglalkozásának, tanórájának látogatása és elemzése, ha a munkakör részét képezi foglalkozás, tanóra megtartása – ide nem értve az óvodapszichológus, iskolapszichológus, pszichológus közvetlen pszichológiai foglalkozását –, valamint
 
 b) a gyakornok portfóliójának áttekintése, értékelése (portfólióvédés).
 
@@ -50,7 +50,7 @@ c)[^5] elkészíti az összegző értékelést, amelyet feltölt az Oktatási Hi
 
 (11) A Pedagógus I. fokozatba lépéshez a gyakornoknak az értékelés során legalább hatvan százalékot kell elérnie.
 
-[^2]: A 2. § (7) bekezdés a) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (7) bekezdés a) pontja a 268/2014. (XI. 3.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^3]: A 2. § (8) bekezdés b) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
 [^4]: A 2. § (8) bekezdés c) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
 [^5]: A 2. § (10) bekezdés c) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
