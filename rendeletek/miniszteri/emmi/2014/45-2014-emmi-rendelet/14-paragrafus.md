@@ -1,0 +1,3 @@
+## 13. § Az R. 24. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) Ha az általános iskola – a megadott sorrend szerint – az összes felvételi kérelmet helyhiány miatt nem tudja teljesíteni, az érintett csoportba tartozók között sorsolás útján dönt. A sorsolásra a felvételi, átvételi kérelmet benyújtókat meg kell hívni. A sorsolás lebonyolításának részletes szabályait a házirendben kell meghatározni. A hátrányos helyzetű és a sajátos nevelési igényű tanulók felvételi, átvételi kérelmének teljesítése után sorsolás nélkül is felvehető az a tanuló, akinek ezt különleges helyzete indokolja.”

@@ -1,0 +1,1 @@
+## „c) az iskola a közösségi szolgálat teljesítéséről a tanulói jogviszony tanév közbeni megszűnésekor igazolást állít ki két példányban, amelyből egy példány a tanulónál, egy pedig az intézménynél marad,”

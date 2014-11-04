@@ -1,0 +1,3 @@
+## 12. § Az R. 23. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+## „(8) Az iskolába felvett gyermeket, tanulót – beleértve a magántanulót is – az iskola tartja nyilván. Az iskola a vele tanulói jogviszonyban álló és a 49. § (1)–(3) bekezdése szerint benyújtott kérelem alapján vendégtanulói jogviszony létesítésére engedélyt kapott tanulókról külön nyilvántartást vezet. Ha a tanköteles tanuló iskolát változtat, akkor a tanuló további nyilvántartása az átadó iskola értesítése alapján az átvevő iskola feladata, és a tanuló adatait az átadó iskola a járási hivatal egyidejű értesítése mellett tizenöt napon belül törli nyilvántartásából. Az iskola nyilvántartásában marad az a tanköteles tanuló, aki iskolai tanulmányait külföldön folytatja.”
