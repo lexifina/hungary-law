@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1492-30
 | --- | --- | --- |
 | 2014-08-28 | 2014-1492-30-22.1 | 1492/2014. (VIII. 28.) Korm. határozat |
 | 2014-08-29 | 2014-1492-30-22.2 | 2010: CXXX. törvény |
+| 2014-11-04 | 2014-1492-30-22.3 | 1619/2014. (XI. 4.) Korm. határozat |

@@ -28,6 +28,7 @@
 
 ## 6–7.[^1]
 
-1. melléklet az 1492/2014. (VIII. 28.) Korm. határozathoz
+1–3. melléklet az 1492/2014. (VIII. 28.) Korm. határozathoz[^2]
 
 [^1]: A 6–7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1–3. mellékletet az 1619/2014. (XI. 4.) Korm. határozat 5. pontja visszavonta.
