@@ -1,3 +1,3 @@
-## 43. §[^63]
+## 43. §[^64]
 
-[^63]: A 43. §-t a 315/2012. (XI. 13.) Korm. rendelet 8. § (2) bekezdése hatályon kívül helyezte.
+[^64]: A 43. §-t a 315/2012. (XI. 13.) Korm. rendelet 8. § (2) bekezdése hatályon kívül helyezte.

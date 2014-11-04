@@ -1,4 +1,4 @@
-37/C. § (1)[^54] A fenntartó a támogatásokra vonatkozó kérelmét január 31-éig a kincstár fenntartó székhelye szerint területileg illetékes megyei igazgatóságához (e Fejezet alkalmazásában a továbbiakban: Igazgatóság) nyújthatja be. E határidő elmulasztása jogvesztő.
+37/C. § (1)[^55] A fenntartó a támogatásokra vonatkozó kérelmét január 31-éig a kincstár fenntartó székhelye szerint területileg illetékes megyei igazgatóságához (e Fejezet alkalmazásában a továbbiakban: Igazgatóság) nyújthatja be. E határidő elmulasztása jogvesztő.
 
 (2) A kérelmet
 
@@ -24,7 +24,7 @@ b) változása miatt a tankönyvtámogatás módosítását a tárgyév június 
 
 ## kezdeményezheti.
 
-(5)[^55]
+(5)[^56]
 
-[^54]: A 37/C. § (1) bekezdése a 260/2014. (X. 15.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^55]: A 37/C. § (5) bekezdését a 260/2014. (X. 15.) Korm. rendelet 13. §-a hatályon kívül helyezte.
+[^55]: A 37/C. § (1) bekezdése a 260/2014. (X. 15.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^56]: A 37/C. § (5) bekezdését a 260/2014. (X. 15.) Korm. rendelet 13. §-a hatályon kívül helyezte.

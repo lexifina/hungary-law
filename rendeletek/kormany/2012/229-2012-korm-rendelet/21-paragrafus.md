@@ -1,6 +1,6 @@
-## 8. [^23] A köznevelés-fejlesztési terv részletes tartalmára és elkészítésének eljárásrendjére vonatkozó szabályok, valamint a köznevelés-fejlesztési tervvel kapcsolatos jelentés
+## 8. [^24] A köznevelés-fejlesztési terv részletes tartalmára és elkészítésének eljárásrendjére vonatkozó szabályok, valamint a köznevelés-fejlesztési tervvel kapcsolatos jelentés
 
-21. §[^24] (1) A köznevelés-fejlesztési tervnek tartalmaznia kell:
+21. §[^25] (1) A köznevelés-fejlesztési tervnek tartalmaznia kell:
 
 a) az egyes járások, megyék és a főváros – köznevelés-fejlesztési tervben foglaltakat alátámasztó – sajátosságait, különös tekintettel a köznevelés tekintetében meghatározó demográfiai adatokra, a gazdasági és munkaerőpiaci helyzet összefoglalására, az állami köznevelési feladatellátás szempontjából meghatározó társadalmi szerkezetre, a megoldásra váró köznevelési tárgyú feladatokra és a köznevelési feladatokat érintő infrastrukturális feltételekre, ezen belül különösen a települések közötti közlekedési viszonyokra;
 
@@ -48,7 +48,7 @@ h) a pedagógiai szakszolgálatok iránti igények teljesítésére vonatkozó m
 
 i) a pedagógiai szakmai szolgáltatások iránti igények teljesítésére vonatkozó megyei, fővárosi szintű tervet;
 
-j)[^25] a nemzetiségi önkormányzatok, továbbá a miniszter által köznevelési feladatok ellátására egyházi köznevelési intézmény és magán köznevelési intézmény fenntartójával kötött közoktatási megállapodásoknak, közoktatási szerződéseknek, köznevelési szerződéseknek, valamint az egyházi egyoldalú nyilatkozatoknak az alábbi adatai bemutatását járási, megyei, fővárosi bontásban:
+j)[^26] a nemzetiségi önkormányzatok, továbbá a miniszter által köznevelési feladatok ellátására egyházi köznevelési intézmény és magán köznevelési intézmény fenntartójával kötött közoktatási megállapodásoknak, közoktatási szerződéseknek, köznevelési szerződéseknek, valamint az egyházi egyoldalú nyilatkozatoknak az alábbi adatai bemutatását járási, megyei, fővárosi bontásban:
 
 ja) a feladatellátási hely cím szerinti megnevezése,
 
@@ -62,7 +62,7 @@ l) az országos feladatot ellátó köznevelési intézményeket feladatellátá
 
 m) az iskolabusszal a kötelező felvételt biztosító iskolába szállított tanulók számát, továbbá azon települések listáját, amelyek esetében iskolabusz vagy az iskola rendjéhez igazodó tömegközlekedési járat szállítja a diákokat feltéve, ha a köznevelési közszolgáltatás a településen nem megoldott, vagy a diákok jelentős része másik településen veszi azt igénybe.
 
-(2)[^26] A köznevelés-fejlesztési tervnek ki kell térnie arra, hogy az állami köznevelési feladatok ellátásához járási, megyei, fővárosi szinten az egyházi köznevelési intézmény és a magán köznevelési intézmény bevonása milyen köznevelési alapfeladat ellátásba, milyen gyermek és tanulólétszámmal, milyen időtartammal szükséges.
+(2)[^27] A köznevelés-fejlesztési tervnek ki kell térnie arra, hogy az állami köznevelési feladatok ellátásához járási, megyei, fővárosi szinten az egyházi köznevelési intézmény és a magán köznevelési intézmény bevonása milyen köznevelési alapfeladat ellátásba, milyen gyermek és tanulólétszámmal, milyen időtartammal szükséges.
 
 (3) A köznevelés-fejlesztési tervet oly módon kell elkészíteni, hogy meg lehessen állapítani, milyen módon tesz eleget a közneveléssel összefüggő feladatellátási kötelezettségének a települési önkormányzat, az állami intézményfenntartó központ. A köznevelés-fejlesztési tervnek alkalmasnak kell lennie arra, hogy meg lehessen állapítani belőle, hogy az egyes településeken állandó lakóhellyel, ennek hiányában tartózkodási hellyel rendelkező gyermek, tanuló hol veheti igénybe az Nkt.-ban meghatározott közszolgáltatásokat, elsősorban a kötelező felvételt biztosító óvodai, iskolai ellátást és a pedagógiai szakszolgálatokat.
 
@@ -72,7 +72,7 @@ m) az iskolabusszal a kötelező felvételt biztosító iskolába szállított t
 
 (6) Ha a nyilvántartásba vétel, illetve a működés megkezdéséhez szükséges engedély kiadásának előfeltétele, hogy a köznevelési intézmény működése összhangban álljon a köznevelés-fejlesztési tervben foglaltakkal, a kérelemnek helyt kell adni, amennyiben a köznevelési intézmény az egyéb feltételeknek és a 21/A. §-ban meghatározott feltételek valamelyikének megfelel.
 
-[^23]: A 8. alcím a 73/2013. (III. 8.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^24]: A 21. § a 73/2013. (III. 8.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^25]: A 21. § (1) bekezdés j) pont nyitó szövegrésze a 297/2013. (VII. 29.) Korm. rendelet 81. § a) pontja szerint módosított szöveg.
-[^26]: A 21. § (2) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 81. § b) pontja szerint módosított szöveg.
+[^24]: A 8. alcím a 73/2013. (III. 8.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^25]: A 21. § a 73/2013. (III. 8.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^26]: A 21. § (1) bekezdés j) pont nyitó szövegrésze a 297/2013. (VII. 29.) Korm. rendelet 81. § a) pontja szerint módosított szöveg.
+[^27]: A 21. § (2) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 81. § b) pontja szerint módosított szöveg.

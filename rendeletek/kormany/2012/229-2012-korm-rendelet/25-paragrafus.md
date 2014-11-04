@@ -8,7 +8,7 @@ b) hány köznevelési intézmény alapításáról, átalakításáról, jogut�
 
 c) hány köznevelési intézmény fenntartói jogát adta át, a köznevelési intézmény fenntartói jogát milyen típusú fenntartónak adta át, és egyúttal közli az átadott intézmény OM azonosítóját is.
 
-(2)[^35] Az illetékes járási (fővárosi kerületi) kormányhivatal, a jegyző a rendkívüli szünet elrendelését, az elrendelés okát, a nevelési év, tanév várható kezdésének idejét és a település, településrész nevét az elrendelést követő öt napon belül a KIR-en keresztül közli rögzíti. Működő nevelési-oktatási intézmény képviselője vagy annak fenntartója minden év augusztus 25. és szeptember 5. között köteles jelezni és egyben indokolni, ha a nevelési-oktatási intézmény a nevelési évet, tanévet nem vagy a tanév rendjéről szóló miniszteri rendeletben előírtaknál később kezdi meg.
+(2)[^36] Az illetékes járási (fővárosi kerületi) kormányhivatal, a jegyző a rendkívüli szünet elrendelését, az elrendelés okát, a nevelési év, tanév várható kezdésének idejét és a település, településrész nevét az elrendelést követő öt napon belül a KIR-en keresztül közli rögzíti. Működő nevelési-oktatási intézmény képviselője vagy annak fenntartója minden év augusztus 25. és szeptember 5. között köteles jelezni és egyben indokolni, ha a nevelési-oktatási intézmény a nevelési évet, tanévet nem vagy a tanév rendjéről szóló miniszteri rendeletben előírtaknál később kezdi meg.
 
 (3) A köznevelési intézmény képviselője a köznevelési intézmény október 1-jei állapot szerinti közérdekű adatairól minden év október 15-ig – a KIR-en keresztül és az ott meghatározott formában – statisztikai céllal az OSAP keretében adatokat közöl.
 
@@ -16,4 +16,4 @@ c) hány köznevelési intézmény fenntartói jogát adta át, a köznevelési 
 
 (5) A Hivatal a KIR-ben tárolt adatok megadásával segíti a köznevelési intézmény (3) és (4) bekezdésben meghatározott kötelezettségének teljesítését.
 
-[^35]: A 25. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § l) pont la–lb) alpontja szerint módosított szöveg.
+[^36]: A 25. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § l) pont la–lb) alpontja szerint módosított szöveg.
