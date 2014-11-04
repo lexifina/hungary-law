@@ -1,4 +1,4 @@
-## 18. §[^37]
+## 18. §[^38]
 
 19. § (1) Az állami természetvédelmi őr köteles a lőfegyvertartási engedélyre, továbbá a lőfegyver és lőszer tartására, kezelésére, használatára és tárolására vonatkozó – a külön jogszabályok szerinti – rendelkezéseket megtartani. Az igazgatóság köteles ezeket a rendelkezéseket az állami természetvédelmi őrnek írásban átadni, és betartásukat rendszeresen ellenőrizni.
 
@@ -14,4 +14,4 @@ c) a szolgálati maroklőfegyver tartási engedélyének számát, keltét, orvo
 
 d) a szolgálati maroklőfegyver vizsgálati tanúsítványának érvényességét.
 
-[^37]: A 18. §-t a 45/2013. (VI. 3.) VM rendelet 3. § (7) bekezdése hatályon kívül helyezte.
+[^38]: A 18. §-t a 45/2013. (VI. 3.) VM rendelet 3. § (7) bekezdése hatályon kívül helyezte.

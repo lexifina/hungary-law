@@ -1,12 +1,12 @@
 11. § (1) A természetvédelmi őr tevékenységét
 
-a)[^20] az állami természetvédelmi őr esetében a közvetlen szolgálati felettes, az őrszolgálat-vezető vagy helyettese, az igazgató, továbbá a természetvédelemért felelős minisztérium (a továbbiakban: Minisztérium) erre feljogosított kormánytisztviselői,
+a)[^21] az állami természetvédelmi őr esetében a közvetlen szolgálati felettes, az őrszolgálat-vezető vagy helyettese, az igazgató, továbbá a természetvédelemért felelős minisztérium (a továbbiakban: Minisztérium) erre feljogosított kormánytisztviselői,
 
-b)[^21] önkormányzati természetvédelmi őr esetében a szolgálati felettes (az önkormányzati őrszolgálat-vezető), a jegyző, valamint az igazgatóság és a Minisztérium erre feljogosított kormánytisztviselői
+b)[^22] önkormányzati természetvédelmi őr esetében a szolgálati felettes (az önkormányzati őrszolgálat-vezető), a jegyző, valamint az igazgatóság és a Minisztérium erre feljogosított kormánytisztviselői
 
 ## kötelesek rendszeresen ellenőrizni.
 
 (2) Ha az ellenőrző személy az ellenőrzés során a szolgálat ellátása körében hiányosságot észlel, ezt rögzíti a természetvédelmi őr szolgálati naplójában, és haladéktalanul intézkedik az észlelt hiányosság megszüntetéséről.
 
-[^20]: A 11. § (1) bekezdésének a) pontja a 41/2006. (X. 6.) KvVM rendelet 10. §-ával megállapított, a 45/2013. (VI. 3.) VM rendelet 3. § (6) bekezdés c) pontja szerint módosított szöveg.
-[^21]: A 11. § (1) bekezdés b) pontja a 45/2013. (VI. 3.) VM rendelet 3. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^21]: A 11. § (1) bekezdésének a) pontja a 41/2006. (X. 6.) KvVM rendelet 10. §-ával megállapított, a 45/2013. (VI. 3.) VM rendelet 3. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^22]: A 11. § (1) bekezdés b) pontja a 45/2013. (VI. 3.) VM rendelet 3. § (6) bekezdés c) pontja szerint módosított szöveg.

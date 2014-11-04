@@ -24,7 +24,7 @@
 
 ## Az önkormányzati természetvédelmi őr egyedi logója 45 mm szélességű és 45 mm magasságú fémjelvény, amely 45 mm átmérőjű kör alakú alaprészből áll. A jelvény alapszíne homokszín. A kör alakú alaprészt ”ÖNKORMÁNYZATI TERMÉSZETVÉDELMI ŐR” szövegű, fekete színű, 4 mm betűmagasságú felirat övezi, melynek két szavát 1-1 stilizált pilisilen-virág választja el egymástól. A feliraton belül a természetvédelmi őrszolgálat hármas szimbóluma látható. Ez hátsó síkban lévő, 0,2 mm vastag szegéllyel rajzolt, fehér színű, 24 mm széles és 25 mm magasságú pajzsot tartalmaz, középső síkban 18 mm átmérővel és 0,2 mm vastag szegéllyel a természetvédelem jelvényét ábrázolja, első síkjában pedig a természetvédelem jelvényével alulról részben fedésben levő, 12 mm magasságú Magyarország-címer látható. A természetvédelem jelvénye fehér színű, jobbra repülő nagykócsag, kör alakú égszínkék mezőben.
 
-3. számú melléklet a 9/2000. (V. 19.) KöM rendelethez[^50]
+3. számú melléklet a 9/2000. (V. 19.) KöM rendelethez[^56]
 
 A rendészeti feladatokat ellátók szolgálati igazolványa az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 10. § (2) bekezdésében meghatározott adattartalommal rendelkező
 
@@ -32,4 +32,4 @@ A rendészeti feladatokat ellátók szolgálati igazolványa az egyes rendészet
 
 2. Az alapanyagba integrált arckép méretének legalább 30x24 mm-nek kell lenni. Az arcképmezőn belül az áll és a fejtető közötti résznek a teljes képmagasság 70-80%-a közöttinek kell lenni.
 
-[^50]: A 3. számú melléklet a 45/2013. (VI. 3.) VM rendelet 3. § (5) bekezdés b) pontjával megállapított szöveg.
+[^56]: A 3. számú melléklet a 45/2013. (VI. 3.) VM rendelet 3. § (5) bekezdés b) pontjával megállapított szöveg.

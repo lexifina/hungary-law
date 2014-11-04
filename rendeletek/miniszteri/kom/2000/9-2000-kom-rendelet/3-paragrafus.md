@@ -16,6 +16,7 @@ f) a szolgálat ellátáshoz szükséges jogszabályokkal.
 
 (3) Ha a szolgálat jellege megkívánja, a természetvédelmi őrt járművel és egyéb, a feladatának ellátásához szükséges felszereléssel is el kell látni.
 
-(4) Az egyenruha leírását és viselésének szabályait az 1. számú melléklet, a sorszámozott szolgálati jelvény leírását a 2. számú melléklet, a sorszámozott és fényképes szolgálati igazolvány leírását a 3. számú melléklet, a szolgálati napló mintáját a 4. számú melléklet, a számozott bejelentő-feljelentő nyomtatvány mintáját az 5. számú melléklet tartalmazza.
+(4)[^5] Az egyenruha leírását és viselésének szabályait az 1. számú melléklet, valamint a rendészeti feladatokat ellátó személyek, valamint a fegyveres biztonsági őrök ruházati ellátására vonatkozó részletes szabályokról szóló rendelet, a sorszámozott szolgálati jelvény leírását a 2. számú melléklet, a sorszámozott és fényképes szolgálati igazolvány leírását a 3. számú melléklet, a szolgálati napló mintáját a 4. számú melléklet, a számozott bejelentő-feljelentő nyomtatvány mintáját az 5. számú melléklet tartalmazza.
 
 [^4]: A 3. § a 45/2013. (VI. 3.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (4) bekezdése a 17/2014. (X. 27.) FM rendelet 6. § a) pontja szerint módosított szöveg.
