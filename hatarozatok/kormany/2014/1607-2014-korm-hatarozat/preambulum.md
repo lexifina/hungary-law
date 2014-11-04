@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva – az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 9/A. §-a és 1. mellékletében felsorolt gazdálkodó szervezetek tulajdonosi joggyakorlásából eredő feladatok ellátása érdekében – elrendeli
