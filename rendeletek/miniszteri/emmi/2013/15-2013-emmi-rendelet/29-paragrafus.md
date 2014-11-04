@@ -22,6 +22,6 @@ h) a pedagógiai szakszolgálatnál önkéntesen bejelentkező, az óvodától, 
 
 (3) Az iskola- és óvodapszichológus koordinátor kapcsolatot tart a miniszter által az országos szakmai irányítási feladatok ellátásában való közreműködésbe bevont Országos Iskolapszichológiai Módszertani Bázissal.
 
-(4)[^33] Ha az Intézmény működési körzetében működő nevelési-oktatási intézményben az iskolapszichológus, óvodapszichológus munkakör nem került betöltésre, az adott munkakör betöltéséig, a nevelési-oktatási intézmény vezetőjének erre vonatkozó írásbeli kérésére az Intézmény támogatást nyújthat az ellátás iránti igény kielégítéséhez.
+(4)[^40] Ha az Intézmény működési körzetében működő nevelési-oktatási intézményben az iskolapszichológus, óvodapszichológus munkakör nem került betöltésre, az adott munkakör betöltéséig, a nevelési-oktatási intézmény vezetőjének erre vonatkozó írásbeli kérésére az Intézmény támogatást nyújthat az ellátás iránti igény kielégítéséhez.
 
-[^33]: A 29. § (4) bekezdését a 8/2014. (I. 30.) EMMI rendelet 17. §-a iktatta be.
+[^40]: A 29. § (4) bekezdését a 8/2014. (I. 30.) EMMI rendelet 17. §-a iktatta be.

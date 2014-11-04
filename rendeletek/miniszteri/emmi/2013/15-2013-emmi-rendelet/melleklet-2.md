@@ -1,36 +1,4 @@
-## 4K01797M_7
-
-| Kedvelt tevékenységei, játékai, szabadidős szervezett foglalkozásai (szakkör, sport, stb.): |
-
-| A gyermek, a tanuló erősségei (pl.: készségek, magatartásának kedvező vonásai): |
-
-| Tanulási jellemzők (nyelvi kompetencia, kognitív képességek, mozgás), tanulási motiváció és tanulmányi feladatok végzése: |
-
-| Az iskolai fejlesztés során óvodai fejlesztő programban, képesség-kibontakoztató és az integrációs felkészítésben56 részesült: igen – nem Ha igen: ..…../…..nevelési év/ tanév …….hónaptól ……/……. nevelési év tanév ……… hónapig / jelenleg is |
-
-| Az iskolai fejlesztés tapasztalatai, eredményei, az eredménytelenségének okai, a nehézséget okozó területek, a tapasztalt tünetek részletezése (a tanító, az osztályfőnök véleménye alapján): |
-
-| Otthoni tanulási körülmények (időtartama, segítségnyújtás a szülő vagy egyéb családtag részéről, a gyermek tanulási magatartása, motivációja (szeret-e tanulni, stb.): |
-
-| A család rendszeres nyelvhasználata: □ magyar □ nem magyar, ……………………………………..nyelvű □ kétnyelvű, ……………………………………………………………….. nyelvű |
-
-| Viselkedése, önálló teljesítménye a tanórákon és a tanórán kívüli foglalkozásokon: |
-
-| A szakértői bizottság általi vizsgálat kérésének, a javaslat elkészítésének indokai, a vizsgálattal szembeni elvárások (a pedagógus/ a pedagógusközösség tapasztalatai alapján történő indoklás a vizsgálat szükségességéről): |
-
-| A szülők részéről fontosnak tartott - a vizsgálat kérésével összefüggő - egyéb információk: |
-
-## 56Óvodai fejlesztő program, képesség-kibontakoztató vagy, integrációs felkészítés: a halmozottan hátrányos helyzetű gyermekek, tanuló hátrányának kiegyenlítését szolgáló – a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet 171 – 173. §-ban foglaltak szerint, 2012. 09. 01 előtt a nevelési-oktatási intézmények működéséről szóló11/1994. (VI. 8.) MKM rendelet 39/D. és 39/E. §-aiban foglaltak szerint szervezett nevelés, nevelés-oktatás.
-
-## 4K01797M_8
-
-| Az óvoda, az iskola részéről a kérelem kitöltésében közreműködő, a vizsgálatok eredményeinek lehetséges következményeiről, a szülőnek a vizsgálattal és annak megállapításaival kapcsolatos jogairól tájékoztatást nyújtó pedagógus neve, beosztása: …………………………………………………………………………………………… Szülői nyilatkozat A szakértői bizottság vizsgálatának előkészítéséhez, megszervezéséhez Kérem, hogy gyermekem vizsgálata során az alábbi anyanyelvi sajátosságait vegyék figyelembe: ……………………………………………………………………………………………………………………………………………… A szakértői vizsgálaton való megjelenést javasló intézménytől a vizsgálatok eredményeinek lehetséges következményeiről, a vizsgálattal, és a vizsgálat alapján elkészülő szakértői vélemény megállapításaival kapcsolatos jogaimról és kötelezettségeimről tájékoztatást kaptam. Kérem az óvoda, iskola vezetőjét, hogy gyermekem vizsgálatára irányuló kérelmemet a szakértői bizottsághoz továbbítsa. Kelt: ………………………………… ………………………….……………………………………………..... szülő(k) aláírása |
-
-| Szülői nyilatkozat a gyermek, a tanuló halmozottan hátrányos helyzetéről Nyilatkozom arról, hogy gyermekem halmozottan hátrányos helyzetű. Tájékoztatást kaptam arról, hogy mivel gyermekem esetében első alkalommal kerül sor a szakértői bizottság által végzett vizsgálatra, az Oktatási Hivatal által kijelölt szakszolgálati-esélyegyenlőségi szakértő jelenlétét írja elő a vonatkozó jogszabály. Az általam aláírt vizsgálati iránti kérelmet ezért a vizsgálatot kezdeményező intézmény egyidejűleg az Oktatási Hivatal részére is köteles megküldeni. E kötelezettséget abban az esetben nem kell teljesítenie, ha a szülő ennek törlését kéri. Élve a jogszabályban biztosított szülői döntési jogommal, kijelentem, hogy 57 a) a vizsgálaton az esélyegyenlőségi szakértő jelenlétét kérem; b) a vizsgálaton az esélyegyenlőségi szakértő jelenlétét nem kérem. Kelt: ………………………………… ……………………………….……………………………. szükő(k) aláírása |
-
-## 57 A nemkívánatos válasz áthúzással törlendő.
-
-2. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^56]
+2. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^71]
 
 A szakértői vizsgálat eljárásrendje
 
@@ -102,4 +70,4 @@ A hivatalból elrendelt felülvizsgálattal megbízott munkatárs a beérkezett 
 
 A bizottságvezető kijelöli a vizsgálatvezetőt és a vizsgálatban résztvevőket, elkészíti a felülvizsgálatok ütemtervét, dönt arról, hogy a felterjesztő intézményben, vagy a bizottság székhelyén történjék-e a vizsgálat, és írásban értesíti az intézményeket a vizsgálat helyéről és időpontjáról.
 
-[^56]: A 2. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 12. és 13. pontja szerint módosított szöveg.
+[^71]: A 2. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 12. és 13. pontja szerint módosított szöveg.

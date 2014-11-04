@@ -10,10 +10,10 @@ b) ha arra a hatósági megkeresésben foglaltak teljesítéséhez szükség van
 
 c) a szülő kérésére indított eljárásban, feltéve, hogy az utolsó teljes körű vizsgálat óta több mint két év telt el.
 
-(4)[^28] A gyermek nevelését ellátó óvoda, nevelését, oktatását ellátó iskola a felülvizsgálati eljárást – tanévenként legfeljebb egy alkalommal – bármikor kezdeményezheti, amelyről – a felülvizsgálat szükségességének indokolásával – a szülőt tájékoztatni köteles. Sajátos nevelési igényű gyermek esetében, az óvodai vagy iskolai kezdeményezésre történő felülvizsgálat lefolytatásakor a felülvizsgálat részeként, a szakértői bizottság egy tagja legalább egy teljes napot a gyermek óvodai csoportjában, a tanuló iskolai osztályában hospitál, megfigyeléseiről feljegyzést készít.
+(4)[^35] A gyermek nevelését ellátó óvoda, nevelését, oktatását ellátó iskola a felülvizsgálati eljárást – tanévenként legfeljebb egy alkalommal – bármikor kezdeményezheti, amelyről – a felülvizsgálat szükségességének indokolásával – a szülőt tájékoztatni köteles. Sajátos nevelési igényű gyermek esetében, az óvodai vagy iskolai kezdeményezésre történő felülvizsgálat lefolytatásakor a felülvizsgálat részeként, a szakértői bizottság egy tagja legalább egy teljes napot a gyermek óvodai csoportjában, a tanuló iskolai osztályában hospitál, megfigyeléseiről feljegyzést készít.
 
 (5) Ha a szakértői bizottság szakértői véleménye alapján a tanuló sajátos nevelési igényének megfelelő ellátására a továbbiakban nincs szükség, a tanuló a következő tanévet a kötelező felvételt biztosító vagy a választott iskolában kezdi meg. A szakértői bizottság a szakértői véleményét megküldi a szülőnek, a kijelölt iskolának, a lakóhely szerinti kötelező felvételt biztosító iskolának és a lakóhely szerint illetékes járási hivatalnak.
 
 (6) A szakértői bizottság kezdeményezi a területileg illetékes kormányhivatalnál a nevelési-oktatási intézmény hatósági, a fenntartónál pedig szakmai ellenőrzését, ha a felülvizsgálati eljárás során vagy az értékelő lap alapján azt indokoltnak tartja.
 
-[^28]: A 23. § (4) bekezdése a 8/2014. (I. 30.) EMMI rendelet 13. §-ával megállapított szöveg.
+[^35]: A 23. § (4) bekezdése a 8/2014. (I. 30.) EMMI rendelet 13. §-ával megállapított szöveg.

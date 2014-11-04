@@ -1,4 +1,4 @@
-32. §[^38] (1) Az Intézményben a vezetői megbízás feltétele
+32. §[^48] (1) Az Intézményben a vezetői megbízás feltétele
 
 a) főigazgatói megbízás esetén
 
@@ -12,7 +12,7 @@ ba) pszichológus, gyógypedagógus vagy gyógytestnevelő tanár végzettség �
 
 bb) önálló konduktív pedagógiai tagintézményben a ba) pontban foglaltaktól eltérően igazgatói, igazgató-helyettesi megbízás esetén konduktor végzettség és szakképzettség, továbbá pedagógiai szakszolgálati feladat ellátására létesített pedagógus munkakörben szerzett, legalább ötéves szakmai gyakorlat, valamint pedagógus-szakvizsga, vagy
 
-bc) önálló továbbtanulási, pályaválasztási tanácsadó tagintézményben a ba) pontban foglaltak mellett igazgatói, igazgató-helyettesi megbízás esetén egyetemi szintű pedagógus végzettség és szakképzettség, továbbá pedagógiai szakszolgálati feladat ellátására létesített pedagógus munkakörben szerzett, legalább ötéves szakmai gyakorlat, valamint pedagógus-szakvizsga, vagy főiskolai szintű pedagógus végzettség és szakképzettség, diáktanácsadás, vagy iskolai tanácsadó és konzultáns pedagógus szakirányú továbbképzési szakképzettséggel, továbbá pedagógiai szakszolgálati feladat ellátására létesített pedagógus munkakörben szerzett, legalább ötéves szakmai gyakorlat, valamint pedagógus-szakvizsga,
+bc)[^49] önálló továbbtanulási, pályaválasztási tanácsadó tagintézményben a ba) pontban foglaltaktól eltérően igazgatói, igazgató-helyettesi megbízás esetén a 6. melléklet 1. A pedagógus-munkakörben foglalkoztatottak végzettségi és szakképzettségi követelményei a megyében, fővárosban az Intézmény egyes tevékenységeinek ellátásához című táblázat C:6 mezőjében jelzett végzettség és szakképzettség, továbbá pedagógiai szakszolgálati feladat ellátására létesített pedagógus munkakörben szerzett, legalább ötéves szakmai gyakorlat, valamint pszichológus megbízása esetén pedagógiai, óvoda- és iskola vagy tanácsadói szakvizsga, pedagógus esetében pedagógus-szakvizsga,
 
 és
 
@@ -20,4 +20,5 @@ c) pedagógus-munkakörben fennálló, határozatlan időre, teljes munkaidőre 
 
 (2) Az egységes gyógypedagógiai módszertani intézmény esetén a pedagógiai szakszolgálat feladatait ellátó szervezeti és szakmai tekintetben önálló intézményegységben az intézményegység-vezetői megbízás feltétele pszichológus vagy gyógypedagógus végzettség és szakképzettség, klinikai, pedagógiai, óvoda- és iskola vagy tanácsadói pszichológiai szakvizsga, vagy pedagógiai szakvizsga, továbbá pedagógiai szakszolgálati feladat ellátására létesített pedagógus munkakörben szerzett, legalább ötéves szakmai gyakorlat.
 
-[^38]: A 32. § a 8/2014. (I. 30.) EMMI rendelet 19. §-ával megállapított szöveg.
+[^48]: A 32. § a 8/2014. (I. 30.) EMMI rendelet 19. §-ával megállapított szöveg.
+[^49]: A 32. § (1) bekezdés b) pont bc) alpontja a 45/2014. (X. 27.) EMMI rendelet 58. §-ával megállapított szöveg.

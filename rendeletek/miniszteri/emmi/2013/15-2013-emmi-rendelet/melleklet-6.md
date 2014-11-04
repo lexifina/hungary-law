@@ -14,7 +14,7 @@
 
 | 6. | Tagintézményigazgató-helyettes (Tagintézményvezető-helyettes) | Tankerületi tagintézményenként, ha a foglalkoztatottak száma a tizenöt főt eléri | 1 |
 
-6. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^59]
+6. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^74]
 
 1. A pedagógus-munkakörben foglalkoztatottak végzettségi és szakképzettségi követelményei a megyében, fővárosban az Intézmény egyes tevékenységeinek ellátásához
 
@@ -100,4 +100,4 @@
 
 | 2. Egyéb munkakörök | ügyviteli dolgozó, kisegítő dolgozó, munkaügyi, személyzeti előadó, gazdasági dolgozó, műszaki dolgozó |
 
-[^59]: A 6. melléklet a 8/2014. (I. 30.) EMMI rendelet 28. §-a szerint módosított szöveg.
+[^74]: A 6. melléklet a 8/2014. (I. 30.) EMMI rendelet 28. §-a szerint módosított szöveg.

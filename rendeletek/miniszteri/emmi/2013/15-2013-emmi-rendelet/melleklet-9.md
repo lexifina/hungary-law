@@ -48,6 +48,6 @@
 
 | 22. | Éves költségvetéshez, költségvetési beszámolókhoz kapcsolódó ügyek, könyvelési bizonylatok | 5 |
 
-9. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^62]
+9. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^77]
 
-[^62]: A 9. melléklet a 8/2014. (I. 30.) EMMI rendelet 30. §-a szerint módosított szöveg.
+[^77]: A 9. melléklet a 8/2014. (I. 30.) EMMI rendelet 30. §-a szerint módosított szöveg.

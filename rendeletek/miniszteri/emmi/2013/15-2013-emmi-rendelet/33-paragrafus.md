@@ -4,7 +4,7 @@
 
 (3) Az Intézményben legalább öt pedagógus hozhat létre szakmai munkaközösséget, az azonos feladatok ellátására egy szakmai munkaközösség hozható létre. Egy Intézményben legfeljebb tíz – a pedagógiai szakszolgálat feladatai szerint szerveződő – szakmai munkaközösség hozható létre. A szakmai munkaközösség részt vesz az Intézmény szakmai munkájának irányításában, tervezésében, szervezésében és ellenőrzésében, összegző véleménye figyelembe vehető a pedagógusok minősítési eljárásában.
 
-(4)[^39] A szakmai munkaközösség tagja és vezetője a belső értékelésben és ellenőrzésben akkor is részt vehet, ha köznevelési szakértőként nem járhat el. A szakmai munkaközösség – az Intézmény szervezeti és működési szabályzatában meghatározottak szerint – gondoskodik a pedagógus-munkakörben foglalkoztatottak munkájának szakmai segítéséről. Az Intézmény szervezeti és működési szabályzata a szakmai munkaközösség részére további feladatokat, jogokat és kötelezettségeket állapíthat meg.
+(4)[^50] A szakmai munkaközösség tagja és vezetője a belső értékelésben és ellenőrzésben akkor is részt vehet, ha köznevelési szakértőként nem járhat el. A szakmai munkaközösség – az Intézmény szervezeti és működési szabályzatában meghatározottak szerint – gondoskodik a pedagógus-munkakörben foglalkoztatottak munkájának szakmai segítéséről. Az Intézmény szervezeti és működési szabályzata a szakmai munkaközösség részére további feladatokat, jogokat és kötelezettségeket állapíthat meg.
 
 (5) A szakmai munkaközösséget munkaközösség-vezető irányítja, akit a munkaközösség véleményének kikérésével az Intézmény vezetője bíz meg legfeljebb öt évre.
 
@@ -14,4 +14,4 @@
 
 (8) Az Intézményben foglalkoztatottak minimális létszámát a 7. melléklet tartalmazza.
 
-[^39]: A 33. § (4) bekezdése a 8/2014. (I. 30.) EMMI rendelet 31. § 7. pontja szerint módosított szöveg.
+[^50]: A 33. § (4) bekezdése a 8/2014. (I. 30.) EMMI rendelet 31. § 7. pontja szerint módosított szöveg.

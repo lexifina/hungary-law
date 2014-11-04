@@ -10,7 +10,7 @@ c) illetve az e rendelet 25. § (3) és (4) bekezdése és 28. §-a alapján.
 
 (3) A pedagógiai szakszolgálat keretében biztosított ellátás az év során bármikor megkezdhető, illetve befejezhető.
 
-(4) Az Intézmény egész évben folyamatosan működik, a Központ vezetőjének döntése alapján július 1–augusztus 21. között legfeljebb kéthetes egybefüggő nyári zárva tartás rendelhető el.
+(4)[^51] Az Intézmény egész évben folyamatosan működik.
 
 (5) Az Intézmény a feladatainak ellátásához évente, a tanév rendjéhez igazodva munkatervet készít. A munkatervnek biztosítania kell, hogy
 
@@ -34,7 +34,7 @@ c) a szülőkkel való kapcsolattartás formáját és rendjét,
 
 d) a vezetők közötti feladatmegosztást, annak megjelölésével, hogy a pedagógiai szakszolgálati intézmény mely szakmai feladatának, tevékenységének szakmai irányításáért felelős,
 
-e) a pedagógus munkakörben foglalkoztatottaknak, és a pedagógiai munkát segítőknek – a 6. mellékletben meghatározott képesítési előírásoknak megfelelően – a pedagógiai szakszolgálati intézmény egyes feladatainak ellátásába történő részvételének rendjét,
+e)[^52] a pedagógus munkakörben foglalkoztatottaknak és a nevelő és oktató munkát közvetlenül segítő munkakörökben foglalkoztatottaknak – a 6. mellékletben meghatározott képesítési előírásoknak megfelelően – a pedagógiai szakszolgálati intézmény egyes feladatainak ellátásába történő részvételének rendjét,
 
 f) a belső ellenőrzés rendjét,
 
@@ -43,3 +43,6 @@ g) az a)–c) pont alá nem tartozó külső kapcsolatok rendszerét, formáját
 h) mindazt, amelynek szabályozását jogszabály előírja.
 
 (8) Az Intézmény a honlapján – tagintézményekre, telephelyekre lebontva – köteles közzétenni az általa nyújtott szolgáltatásokat, a működési körzetét, a gyermekek, tanulók, szülők fogadásának idejét.
+
+[^51]: A 34. § (4) bekezdése a 45/2014. (X. 27.) EMMI rendelet 59. §-ával megállapított szöveg.
+[^52]: A 34. § (7) bekezdés e) pontja a 45/2014. (X. 27.) EMMI rendelet 60. §-ával megállapított szöveg.

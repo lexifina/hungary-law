@@ -22,7 +22,7 @@ d) szakosított tagintézmény: olyan tagintézmény, amely legfeljebb két szak
 
 6. gyógypedagógus végzettség és szakképzettség:
 
-a) főiskolai, alapképzési szintű gyógypedagógus végzettség és szakképzettség:
+a)[^2] főiskolai szintű, alapfokozatú gyógypedagógus végzettség és szakképzettség:
 
 aa) a gyógypedagógus,
 
@@ -44,7 +44,7 @@ végzettség és szakképzettség,
 
 7. konduktor végzettség és szakképzettség:
 
-a) főiskolai, alapképzési szintű konduktor végzettség és szakképzettség:
+a)[^3] főiskolai szintű, alapfokozatú konduktor végzettség és szakképzettség:
 
 aa) a konduktor,
 
@@ -66,6 +66,25 @@ bb) a konduktor-óvodapedagógus, vagy
 
 bc) a konduktor-tanító
 
-végzettség és szakképzettség együttes megléte.
+végzettség és szakképzettség együttes megléte,
+
+8.[^4] klinikai szakvizsga:
+
+a) a szakpszichológus képzésről szóló 10/1981. (VIII. 6.) MM–EüM együttes rendelet és a klinikai pszichológusok és a klinikai gyermekpszichológusok szakképzéséről és továbbképzéséről szóló 14/1981. (XI. 4.) EüM rendelet (a továbbiakban: MM és EÜM rendelet) alapján szerzett klinikai pszichológia,
+
+b) a klinikai és mentálhigiéniai felnőtt szakpszichológia és
+
+c) a felnőtt klinikai és mentálhigiéniai szakpszichológia [az a)–c) pont a továbbiakban együtt: klinikai és mentálhigiénés (felnőtt) szakpszichológus],
+
+d) az MM és EÜM rendelet alapján szerzett klinikai gyermekpszichológia,
+
+e) a klinikai és mentálhigiéniai gyermek- és ifjúsági szakpszichológia és
+
+f) a gyermek- és ifjúsági klinikai és mentálhigiéniai szakpszichológia [a d)–f) pont a továbbiakban együtt: klinikai gyermek szakpszichológus]
+
+szakvizsga.
 
 [^1]: Az 1. § a 8/2014. (I. 30.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § 6. pont a) alpont nyitó szövegrésze a 45/2014. (X. 27.) EMMI rendelet 63. § 1. pontja szerint módosított szöveg.
+[^3]: Az 1. § 7. pont a) alpont nyitó szövegrésze a 45/2014. (X. 27.) EMMI rendelet 63. § 1. pontja szerint módosított szöveg.
+[^4]: Az 1. § 8. pontját a 45/2014. (X. 27.) EMMI rendelet 56. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 28. § (1) Az Nkt. 18. § (2) bekezdés h) pontja szerinti gyógytestnevelés feladata a gyermek, a tanuló speciális egészségügyi célú testnevelési foglalkoztatása, ha az iskolaorvosi vagy szakorvosi vizsgálat gyógytestnevelésre utalja.
 
-(2)[^32] A gyógytestnevelés megszervezése, személyi feltételeinek biztosítása az Intézmény feladata a Központ által kijelölt nevelési-oktatási intézményekben. Abban az esetben, ha a szükséges feltételek rendelkezésre állnak, a tanulók részére heti egy tanórai foglalkozás keretében úszás órát kell szervezni. A gyógytestnevelés az orvosi javaslat alapján 1–3, 4–8 vagy 9–16 fős csoportokban szervezhető meg.
+(2)[^39] A gyógytestnevelés megszervezése, személyi feltételeinek biztosítása az Intézmény feladata a Központ által kijelölt nevelési-oktatási intézményekben. Abban az esetben, ha a szükséges feltételek rendelkezésre állnak, a tanulók részére heti egy tanórai foglalkozás keretében úszás órát kell szervezni. A gyógytestnevelés az orvosi javaslat alapján 1–3, 4–8 vagy 9–16 fős csoportokban szervezhető meg.
 
 (3) A gyógytestnevelés bármelyik a nem a Központ által fenntartott nevelési-oktatási intézményben is megszervezhető, amennyiben a Központ erről megállapodást kötött az érintett nevelési-oktatási intézmény fenntartójával.
 
@@ -12,4 +12,4 @@
 
 (6) A gyógytestnevelésben részt vevő gyermekek, tanulók részére nyújtott ellátásról gyógytestnevelési naplót kell vezetni.
 
-[^32]: A 28. § (2) bekezdése a 8/2014. (I. 30.) EMMI rendelet 16. §-a szerint módosított szöveg.
+[^39]: A 28. § (2) bekezdése a 8/2014. (I. 30.) EMMI rendelet 16. §-a szerint módosított szöveg.

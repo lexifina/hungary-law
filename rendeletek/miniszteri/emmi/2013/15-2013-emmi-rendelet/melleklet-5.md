@@ -126,6 +126,6 @@
 
 ## aláírás, pecsét
 
-5. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^58]
+5. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^73]
 
-[^58]: Az 5. melléklet a 8/2014. (I. 30.) EMMI rendelet 27. §-ával megállapított szöveg.
+[^73]: Az 5. melléklet a 8/2014. (I. 30.) EMMI rendelet 27. §-ával megállapított szöveg.

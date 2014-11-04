@@ -50,8 +50,8 @@
 
 ## Az Intézmény egyes tevékenységeinek ellátásához kapcsolódó munkakörökben a 6. mellékletben meghatározottak szerint a tevékenység ellátásához szükséges végzettséggel és szakképzettséggel rendelkező pedagógus foglalkoztatható.
 
-8. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^61]
+8. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^76]
 
 A pedagógiai szakszolgálati intézmény irattári terve
 
-[^61]: A 8. melléklet a 8/2014. (I. 30.) EMMI rendelet 29. §-a szerint módosított szöveg.
+[^76]: A 8. melléklet a 8/2014. (I. 30.) EMMI rendelet 29. §-a szerint módosított szöveg.

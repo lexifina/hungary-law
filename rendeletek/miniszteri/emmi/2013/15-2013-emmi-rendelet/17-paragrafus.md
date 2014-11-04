@@ -30,11 +30,11 @@ vonatkozó javaslatot és a kijelölt nevelési-oktatási intézmény megjelöl�
 
 i) a hivatalból történő felülvizsgálat időpontját,
 
-j)[^22] a gyermek, tanuló nevelésével, oktatásával kapcsolatos sajátos követelményeket, fejlesztési feladatokat, a fejlesztési feladatok ellátásának javasolt időkeretét, javaslatot az egyes tantárgyakból, tantárgyrészekből az értékelés és minősítés alóli mentesítésre,
+j)[^28] a gyermek, tanuló nevelésével, oktatásával kapcsolatos sajátos követelményeket, fejlesztési feladatokat, a fejlesztési feladatok ellátásának javasolt időkeretét, javaslatot az egyes tantárgyakból, tantárgyrészekből az értékelés és minősítés alóli mentesítésre,
 
 k) a szükséges szakemberre vonatkozó javaslatot,
 
-l)[^23]
+l)[^29]
 
 m) a szülő tájékoztatását a 18. §-ban foglalt jogairól és kötelezettségeiről.
 
@@ -46,5 +46,5 @@ m) a szülő tájékoztatását a 18. §-ban foglalt jogairól és kötelezetts�
 
 (5) A szakértői véleményt – a vizsgálat lezárását követő huszonegy napon belül – kézbesíteni kell a szülőnek. A szülőnek – a kézhezvételétől számítva – tizenöt nap áll rendelkezésre a szakértői vélemény felülvizsgálatának kezdeményezésére. A kézbesítés történhet postai úton, személyesen vagy kézbesítő útján. A kézbesítés napja az a nap, amelyen a szakértői véleménynek a szülő általi átvétele megtörtént.
 
-[^22]: A 17. § (1) bekezdés j) pontja a 8/2014. (I. 30.) EMMI rendelet 10. §-ával megállapított szöveg.
-[^23]: A 17. § (1) bekezdés l) pontját a 8/2014. (I. 30.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte.
+[^28]: A 17. § (1) bekezdés j) pontja a 8/2014. (I. 30.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^29]: A 17. § (1) bekezdés l) pontját a 8/2014. (I. 30.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte.
