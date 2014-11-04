@@ -1,0 +1,1 @@
+## 4. § Az 1. mellékletben meghatározott természeti emlékek, valamint országos jelentőségű védett természeti területek 2. mellékletben meghatározott részterületeinek természetvédelmi kezelési tervét a 3. melléklet tartalmazza.
