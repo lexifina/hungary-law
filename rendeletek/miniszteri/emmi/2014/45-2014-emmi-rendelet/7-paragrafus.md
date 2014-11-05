@@ -1,3 +1,0 @@
-## 6. § Az R. 13/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az óvodai, iskolai, kollégiumi foglalkozásokat az óvoda, a kollégium helyiségeiben, az iskola tantermeiben, illetve egyéb, a foglalkozás megtartására alkalmas helyen kell megszervezni. Az óvodán, iskolán, kollégiumon kívül akkor szervezhető foglalkozás, ha a gyermekek, tanulók intézményi felügyelete a külső helyszínen, továbbá az oda- és visszajutás közben biztosított. Az óvodán, iskolán kívül szervezett foglalkozásról a szülőt előzetesen tájékoztatni kell. Abban az esetben, ha a külső helyszínre történő eljutás akadályozza más tanítási óra megtartását, gondoskodni kell a kiesett tanítási óra pótlásáról.”
