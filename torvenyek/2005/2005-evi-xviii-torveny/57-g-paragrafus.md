@@ -1,0 +1,1 @@
+57/G. § E törvénynek az egyes közszolgáltatási tárgyú törvények módosításáról szóló 2014. évi XLI. törvénnyel megállapított 44. § (5) bekezdését első alkalommal a 2015. január 1-jétől elszámolt időszakot is tartalmazó számlák tekintetében kell alkalmazni.
