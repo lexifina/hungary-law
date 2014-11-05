@@ -20,7 +20,7 @@ b) ha a települési önkormányzati rendelet díjat nem állapított meg, akkor
 
 (5) A közszolgáltató a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével köteles tájékoztatást nyújtani a természetes személy ingatlanhasználók, illetve társasházak és lakásszövetkezetek részére a (2), a (2d), a (3) és a (10) bekezdésben foglaltak teljesüléséről. A tájékoztatásnak összegszerűen tartalmaznia kell, hogy a rezsicsökkentés nélkül milyen fizetési kötelezettség terhelte volna a természetes személy ingatlanhasználókat, illetve társasházakat és lakásszövetkezeteket.
 
-(5a) A közszolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban.
+(5a) A közszolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban. A közszolgáltató személyében bekövetkező változás esetében a korábbi közszolgáltató rezsicsökkentéssel kapcsolatos adatait a 37. § rendelkezéseinek megfelelő alkalmazásával kell biztosítani az új közszolgáltató részére.
 
 (5b) Az (5) bekezdésben foglalt rendelkezés a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.
 
