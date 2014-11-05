@@ -1,0 +1,3 @@
+## 14. § A 127/2009. (IX. 29.) FVM rendelet 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az Európai Unió más tagállamából származó, Magyarország területére kiszerelés vagy további feldolgozás céljából behozott borászati termék bor származási bizonyítványát a bortétel adatairól a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által kiadott igazolás (a továbbiakban: igazolás), valamint a szállítási okmányok csatolásával kell kérelmezni a borászati termék tárolási helye szerint illetékes hegybírónál. A borászati üzemnek a betárolást 1 munkanapon belül kell bejelentenie a borászati termék tárolási helye szerint illetékes hegybíró részére.”
