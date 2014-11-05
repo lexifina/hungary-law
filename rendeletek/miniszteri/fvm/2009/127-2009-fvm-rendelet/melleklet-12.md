@@ -2,11 +2,11 @@
 
 ## Bor származási bizonyítvány
 
-## „A” típus - készletigazolás céljából kiadva
+## „A” típus – készletigazolás céljából kiadva
 
 | Példányszám: |  |  | Sorszám: |  |
 
-| Hegyközségi Tanács: |  |  | Hegyközség: |  |
+| Borvidék: |  |  | Hegyközség: |  |
 
 | Termelő neve: |  |  | Felvásárló neve: |  |
 
@@ -16,9 +16,9 @@
 
 |  | A | B | C | D |
 
-| 1. | A borászati termék | megnevezése: |  |
+| 1. | A borá- szati termék | megnevezése: |  |
 
-| 2. | tárolási helye: |  |
+| 2. | tárolási helye (adóraktár száma): |  |
 
 | 3. | termékkategóriája: |  |
 
@@ -42,7 +42,7 @@
 
 | 13. | teljes mennyisége (hl) |  |
 
-| 14. | Potenciálisan jelölhető | eredetmegjelölés(ek) és bortípus(ok) |  |
+| 14. | Poten- ciá- lisan je- löl- hető | eredetmegjelölés(ek) és bortípus(ok) |  |
 
 | 15. | földrajzi jelzés(ek) és bortípus(ok) |  |
 
@@ -50,7 +50,7 @@
 
 | 17. | borszőlőfajta(ák) neve(i) |  |
 
-| 18. | Történet | a bevont szőlő vagy bor származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | összes alkoholtartalom (%vol) | mennyiség (hl – pincekönyv alapján) |
+| 18. | Tör- ténet | a bevont szőlő vagy bor származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | összes alkoholtartalom (%vol) | mennyiség (hl – pincekönyv alapján) |
 
 | 19. |  |  |  |
 
@@ -62,55 +62,57 @@
 
 ## Megjegyzés:
 
-## A fenti tételre a ____________ sorszámú bor származási bizonyítványt készletigazolás céljából kiadtam és nyilvántartásba vettem.
+## A fenti tételre a ........................................ sorszámú bor származási bizonyítványt készletigazolás céljából kiadtam és nyilvántartásba vettem.
 
-| Kelt.: | _________________________________ |  |  |  |
+## P. H.
 
-|  |  |  |  |  | P.H. | Hegybíró aláírása |
+## Kelt: ............................................................. .....................................................
 
-## B. Másik hegyközség területén található adóraktárba történő átszállítás céljából kiadott bor származási bizonyítvány
+## Hegybíró aláírása
+
+## B. Másik GA számmal rendelkező hegyközségi tag borászati üzemébe történő átszállítás céljából kiadott bor származási bizonyítvány
 
 ## Bor származási bizonyítvány
 
-## „B” típus - másik hegyközség területén található adóraktárba történő átszállítás céljából kiadva
+## „B” típus – másik hegyközség területén található adóraktárba történő átszállítás céljából kiadva
 
-## Példányszám
+## Példányszám:
 
-## Sorszám
+## Sorszám:
 
 ## Eladó (feladó)
 
-## • neve:
+## neve:
 
-## • címe:
+## címe:
 
-## • GA száma:
+## GA száma:
 
 ## A borászati termék feladásának helye szerint illetékes
 
-## • hegyközség neve
+## hegyközség neve:
 
-## • hegyközségi tanács neve:
+## hegyközségi tanács neve:
 
 ## Vevő (címzett)
 
-## • neve:
+## neve:
 
-## • címe:
+## címe:
 
-## • GA száma:
+## GA száma:
 
 ## A borászati termék rendeltetési helye szerint illetékes
 
-## • hegyközség neve
+## hegyközség neve:
 
-## • hegyközségi tanács neve:
+## hegyközségi tanács neve:
 
 |  | A | B | C | D |
 
-| 1. | A borászati termék | megnevezése: |  |
+| 1. | A borá- szati termék | megnevezése: |  |
 
-| 2. | tárolási helye: |  |
+| 2. | tárolási helye (adóraktár száma): |  |
 
 | 3. | termékkategóriája: |  |
 
@@ -134,7 +136,7 @@
 
 | 13. | teljes mennyisége (hl) |  |
 
-| 14. | Potenciálisan jelölhető | eredetmegjelölés(ek) és bortípus(ok) |  |
+| 14. | Poten- ciá- lisan je- löl- hető | eredetmegjelölés(ek) és bortípus(ok) |  |
 
 | 15. | földrajzi jelzés(ek) és bortípus(ok) |  |
 
@@ -142,7 +144,7 @@
 
 | 17. | borszőlőfajta(ák) neve(i) |  |
 
-| 18. | Történet | a bevont szőlő vagy bor származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | összes alkoholtartalom (%vol) | mennyiség (hl – pincekönyv alapján) |
+| 18. | Tör- ténet | a bevont szőlő vagy bor származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | összes alkoholtartalom (%vol) | mennyiség (hl – pincekönyv alapján) |
 
 | 19. |  |  |  |
 
@@ -154,11 +156,13 @@
 
 ## Megjegyzés:
 
-## A fenti tételre a ____________ sorszámú bor származási bizonyítványt készletigazolás céljából kiadtam és nyilvántartásba vettem.
+## A fenti tételre a ........................................ sorszámú bor származási bizonyítványt készletigazolás céljából kiadtam és nyilvántartásba vettem.
 
-| Kelt.: | _________________________________ |  |  |  |
+## P. H.
 
-|  |  |  |  |  | P.H. | Hegybíró aláírása |
+## Kelt: ............................................................. .....................................................
+
+## Hegybíró aláírása
 
 ## C. Forgalomba hozatali engedély igénylése céljából kiadott bor származási bizonyítvány
 
@@ -168,7 +172,7 @@
 
 | Példányszám: |  |  | Sorszám: |  |
 
-| Hegyközségi Tanács: |  |  | Hegyközség: |  |
+| Borvidék: |  |  | Hegyközség: |  |
 
 | Termelő neve: |  |  | Felvásárló neve: |  |
 
@@ -178,7 +182,7 @@
 
 |  | A | B | C | D |
 
-| 1. | A borászati termék | megnevezése: |  |
+| 1. | A borá- szati termék | megnevezése: |  |
 
 | 2. | tárolási helye: |  |
 
@@ -204,7 +208,7 @@
 
 | 13. | minimális összes alkoholtartalma: |  |
 
-| 14. | A borászati terméken jelölhető | eredetmegjelölés vagy földrajzi jelzés és bortípus |  |
+| 14. | A borá- szati termé- keken jelöl- hető | eredetmegjelölés vagy földrajzi jelzés és bortípus |  |
 
 | 15. | az eredetmegjelölés termőterületénél kisebb földrajzi egység(ek) neve(i) |  |
 
@@ -224,7 +228,7 @@
 
 | 23. |  | az édességi kategória megnevezése |  |
 
-| 24. | Történet | a bevont szőlő vagy bor származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | a borászati termék megnevezésre | mennyiség (hl – pincekönyv alapján) |
+| 24. | Törté- net | a bevont bor származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | a borászati termék megnevezésre | mennyiség (hl – pincekönyv alapján) |
 
 | 25. |  |  |  |
 
@@ -240,8 +244,14 @@
 
 ## A HBB döntésére vonatkozó záradék:
 
-| Kelt.: ................................................................... |  | ................................................................... |
+## Kelt: ...................................................................
 
-|  | P. H. | Hegybíró aláírása |
+## P. H.
 
-12. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez
+## ...................................................................
+
+## Hegybíró aláírása
+
+12. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^173]
+
+[^173]: A 12. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § e) pontjával megállapított szöveg.

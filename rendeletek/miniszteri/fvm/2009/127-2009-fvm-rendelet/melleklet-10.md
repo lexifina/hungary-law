@@ -42,7 +42,7 @@
 
 |  | Tételszám | Termőterület | Szüretelt szőlő |
 
-| 1. | Származási ország | Település | Dűlő | Terület (ha) | Hrsz.* | Fajta | Potenciális alkoholtartalom (%vol) | Mennyiség [q] ** |
+| 1. | Származási ország | Település | Dűlő | Terület (ha) | Hrsz.* | Fajta | Potenciális alkoholtartalom (%vol)/Magyar mustfok | Mennyiség [q] ** |
 
 | 2. |  |  |  |  |  |  |  |  |  |
 
@@ -52,7 +52,7 @@
 
 | 5. | ÖSSZES MENNYISÉG |  |
 
-| 6. | ÁTLAGOS POTENCIÁLIS ALKOHOLTARTALOM (%vol) |  |  |
+| 6. | ÁTLAGOS POTENCIÁLIS ALKOHOLTARTALOM (%vol)/mustfok |  |  |
 
 | * Amennyiben a szüretelt szőlő: - szüreti időpontja, - származási helye (országa, település, dűlő) - fajtája - potenciális alkoholtartalma - felhasználása, valamint az a jelölni kívánt kifejezések megegyeznek, abban az esetben több helyrajzi szám is feltüntethető egy sorban |
 
@@ -70,6 +70,6 @@
 
 ## A hegybíró aláírása
 
-10. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^153]
+10. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^171]
 
-[^153]: A 10. számú melléklet a 128/2012. (XII. 14) VM rendelet 31. § (6) bekezdésével megállapított szöveg.
+[^171]: A 10. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § c) pontjával megállapított szöveg.

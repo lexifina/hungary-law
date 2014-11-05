@@ -1,8 +1,3 @@
-## A helyi borbíráló bizottságokra vonatkozó átmeneti szabályok[^136]
+## 67. §[^159]
 
-68. §[^137] (1) Azon HBB-k, melyek működéséről külön jogszabály rendelkezik, az ott meghatározottak szerint, de legfeljebb a termékleírás Btv.-ben meghatározott módon alkalmazhatóvá válásáig végezhetik tevékenységüket.
-
-(2) A termékleírás alkalmazhatóságát követően készített borászati termékek érzékszervi vizsgálatát a NÉBIH végzi, amennyiben az érintett OEM vagy OFJ termékleírásában megjelölt HBB 32. § (3) bekezdés szerinti nyilvántartásba vételét még nem kezdeményezték a borászati hatóságnál.
-
-[^136]: A 68. §-t megelőző alcím a 128/2012. (XII. 14.) VM rendelet 29. §-ával megállapított szöveg.
-[^137]: A 68. § a 128/2012. (XII. 14.) VM rendelet 29. §-ával megállapított szöveg.
+[^159]: A 67. §-t és az azt megelőző alcímet a 20/2014. (X. 31.) FM rendelet 33. § e) pontja hatályon kívül helyezte.

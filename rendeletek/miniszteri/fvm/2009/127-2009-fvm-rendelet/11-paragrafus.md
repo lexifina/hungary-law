@@ -1,10 +1,10 @@
-11. § (1) A HNT a 10. § (1) bekezdése szerinti adatok összesítését megküldi a miniszter részére az adott borpiaci évre várható szőlő- és bortermés mennyiségéről készített becslését szőlőfajtánkénti bontásban szeptember 5-ig.
+11. § (1)[^34] A HNT a 9. § (1) bekezdése szerinti, az adott borpiaci évre várható szőlő- és bortermelés mennyiségéről, szőlőfajtánkénti bontásban készített becslést szeptember 5-ig megküldi a miniszter részére.
 
-(2) A HNT a 10. § (2) bekezdésben meghatározott, a hegyközségi tanácsoktól érkezett adatokat összesíti és
+(2)[^35] A HNT
 
 a) a szőlészeti és borászati tevékenységet végzők létszámára, a szőlőterület nagyságára, a terület változására, a szőlőterület fajtánkénti megoszlására és a borászati kapacitásra vonatkozó adatokat szeptember 30-ig,
 
-b)[^31] a szőlőtermelésre, a szőlőfelvásárlásra, a feldolgozott szőlő mennyiségére, valamint a borászati termék előállításra vonatkozó adatokat március 20-ig,
+b)[^36] a szőlőtermelésre, a szőlőfelvásárlásra, a feldolgozott szőlő mennyiségére, valamint a borászati termék előállításra vonatkozó adatokat március 20-ig,
 
 c) az előző borpiaci évre vonatkozóan a borforgalmazásra, borkészletre vonatkozó adatokat szeptember 30-ig
 
@@ -12,4 +12,6 @@ elektronikus úton továbbítja a miniszter részére.
 
 (3) A 436/2009/EK rendelet 19. cikk (1) bekezdésben meghatározott jelentéseket a miniszter küldi meg a Bizottság részére.
 
-[^31]: A 11. § (2) bekezdés b) pontja a 128/2012. (XII. 14.) VM rendelet 30. § (2) bekezdése szerint módosított szöveg.
+[^34]: A 11. § (1) bekezdése a 20/2014. (X. 31.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^35]: A 11. § (2) bekezdés nyitó szövegrésze a 20/2014. (X. 31.) FM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^36]: A 11. § (2) bekezdés b) pontja a 128/2012. (XII. 14.) VM rendelet 30. § (2) bekezdése szerint módosított szöveg.

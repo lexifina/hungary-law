@@ -10,11 +10,11 @@
 
 | GA száma: |  |  | GA száma: |  |
 
-## 1. A borászati termék jellemzői
+## 1. A borászati termék jellemzői Név: Évjárat:
 
 |  | A | B | C |
 
-| 1. | A borászati termék | termékkategóriája (kóddal)1 |  |
+| 1. | A borá- szati termék | termékkategóriája (kóddal)1 |  |
 
 | 2. | tárolási helye (adóraktár száma): | □ a termelő címével azonos |
 
@@ -54,7 +54,7 @@
 
 |  | A | B | C | D | E |
 
-| 1. | Tételszám | A bevonandó szőlő származási bizonyítvány száma | Legmagasabb eredetvédelmi kategória2 | Potenciális alkoholtartalom (%vol) | Mennyiség (q – pincekönyv alapján) |
+| 1. | Tétel- szám | A bevonandó szőlő származási bizonyítvány száma | Legmagasabb eredetvédelmi kategória2 | Potenciális alkoholtartalom (%vol) | Mennyiség (q – pincekönyv alapján) |
 
 | 2. |  |  |  |  |  |
 
@@ -64,33 +64,57 @@
 
 | 5. | ÖSSZESEN |  |
 
-| 1: termékkategória-kódok: 1 bor 2 még erjedésben lévő újbor 3 likőrbor 4 pezsgő 5 minőségi pezsgő 6 illatos minőségi pezsgő 7 szén-dioxid hozzáadásával készült habzóbor 8 gyöngyözőbor | 9 szén-dioxid hozzáadásával készült gyöngyözőbor 10 szőlőmust 11 részben erjedt szőlőmust 12 töppedt szőlőből nyert részben erjedt szőlőmust 13 sűrített szőlőmust 14 finomított szőlőmustsűrítmény 15 szárított szőlőből készült bor 16 túlérett szőlőből készült bor 17 borecet |
+## 1: termékkategória-kódok: 9 szén-dioxid hozzáadásával készült gyöngyözőbor
 
-| 2: a legmagasabb eredetvédelmi kategória megadása OEM: oltalom alatt álló eredetmegjelölés OFJ: oltalom alatt álló földrajzi jelzés FNF: földrajzi jelzés nélkül, fajtanév feltüntetésével E: egyéb |
+## 1 bor 10 szőlőmust
 
-| Megjegyzés: |
+## 2 még erjedésben lévő újbor 11 részben erjedt szőlőmust
+
+## 3 likőrbor 12 töppedt szőlőből nyert részben erjedt szőlőmust
+
+## 4 pezsgő 13 sűrített szőlőmust
+
+## 5 minőségi pezsgő 14 finomított szőlőmustsűrítmény
+
+## 6 illatos minőségi pezsgő 15 szárított szőlőből készült bor
+
+## 7 szén-dioxid hozzáadásával készült habzóbor 16 túlérett szőlőből készült bor
+
+## 8 gyöngyözőbor 17 borecet
+
+## __________________________________________________________________________________________
+
+## 2: a legmagasabb eredetvédelmi kategória megadása
+
+## OEM: oltalom alatt álló eredetmegjelölés
+
+## OFJ: oltalom alatt álló földrajzi jelzés
+
+## FNF: földrajzi jelzés nélkül, fajtanév feltüntetésével
+
+## E: egyéb
+
+## __________________________________________________________________________________________
+
+## Megjegyzés:
 
 ## Jelen kérelem egyben a 436/2009/EK bizottsági rendeletben meghatározott termelési jelentés. A kérelem aláírásával a kérelmező igazolja, hogy a kérelemben feltüntetett tételre vonatkozó adatok a valóságnak megfelelnek.
 
-| Kelt: | _____________________________ |  |  |  |
+## Kelt: ..................................................................... ...................................................................
 
-|  |  |  |  |  | Bizonyítványt kérelmező aláírása |
+## Bizonyítványt kérelmező aláírása
 
-| Kelt.: | _________________________________ |  |  |  |
-
-|  |  |  |  |  | P.H. | Hegybíró aláírása |
-
-## „B” rész egyéb bor származási bizonyítvány kérelem
+## „B” rész: egyéb bor származási bizonyítvány kérelem
 
 ## Bor származási bizonyítvány kérelem
 
 | A bor származási bizonyítvány kérelmezésének célja (a megfelelő bekarikázandó) | A | készletigazolás |
 
-| B | másik hegyközség területén található adóraktárba történő átszállítás |
+| B | másik adóraktárba történő átszállítás |
 
 | C | forgalomba hozatali engedély igénylése |
 
-| Hegyközségi Tanács: |  |  | Hegyközség: |  |
+| Borvidék: |  |  | Hegyközség: |  |
 
 | Termelő neve: |  |  | Felvásárló neve: |  |
 
@@ -98,11 +122,11 @@
 
 | GA száma: |  |  | GA száma: |  |
 
-## 1. A borászati termék jellemzői
+## 1. A borászati termék jellemzői Név: Évjárat:
 
 |  | A | B | C |
 
-| 1. | A borászati termék | termékkategóriája (kóddal)1 |  |
+| 1. | A borá- szati termék | termékkategóriája (kóddal)1 |  |
 
 | 2. | tárolási helye (adóraktár száma): | □ a termelő címével azonos |
 
@@ -148,7 +172,7 @@
 
 |  | A | B | C | D | E |
 
-| 1. | Tételszám | A bevonandó szőlő vagy bor származási bizonyítvány vagy forgalomba hozatali engedély száma | Termékkategória kódja1 | Alkoholtartalom2 (%vol) | Mennyiség3 (hl) |
+| 1. | Tétel- szám | A bevonandó szőlő vagy bor származási bizonyítvány vagy forgalomba hozatali engedély száma | Termékkategória kódja1 | Alkoholtartalom2(%vol) | Mennyiség3(hl) |
 
 | 2. |  |  |  |  |  |
 
@@ -176,28 +200,50 @@
 
 | 6. | az édességi kategória megnevezése5 |  |
 
-| 1: termékkategória-kódok: 1 bor 2 még erjedésben lévő újbor 3 likőrbor 4 pezsgő 5 minőségi pezsgő 6 illatos minőségi pezsgő 7 szén-dioxid hozzáadásával készült habzóbor 8 gyöngyözőbor | 9 szén-dioxid hozzáadásával készült gyöngyözőbor 10 szőlőmust 11 részben erjedt szőlőmust 12 töppedt szőlőből nyert részben erjedt szőlőmust 13 sűrített szőlőmust 14 finomított szőlőmustsűrítmény 15 szárított szőlőből készült bor 16 túlérett szőlőből készült bor 17 borecet |
+## 1: termékkategória-kódok: 9 szén-dioxid hozzáadásával készült gyöngyözőbor
 
-| 2: Szőlő származási bizonyítvány esetén potenciális alkoholtartalom, bor származási bizonyítvány vagy forgalomba hozatali engedély esetén összes alkoholtartalom |
+## 1 bor 10 szőlőmust
 
-| 3: Pincekönyv alapján |
+## 2 még erjedésben lévő újbor 11 részben erjedt szőlőmust
 
-| 4: Csak egy oltalom alatt álló eredetmegjelölés vagy földrajzi jelzés adható meg. Földrajzi jelzés nélküli borászati termékek esetén kihúzandó. |
+## 3 likőrbor 12 töppedt szőlőből nyert részben erjedt szőlőmust
 
-| 5: Csak pezsgő, minőségi pezsgő, illatos minőségi pezsgő és szén-dioxid hozzáadásával készült habzóbor esetében (a 607/2009/EK bizottsági rendelet XIV. melléklet „A” része szerint), továbbá a termékleírás által meghatározott egyéb esetekben (a 607/2009/EK bizottsági rendelet XIV. melléklet „B” része szerint) kötelező kitölteni, egyébként fakultatív |
+## 4 pezsgő 13 sűrített szőlőmust
 
-| Megjegyzés: |
+## 5 minőségi pezsgő 14 finomított szőlőmustsűrítmény
+
+## 6 illatos minőségi pezsgő 15 szárított szőlőből készült bor
+
+## 7 szén-dioxid hozzáadásával készült habzóbor 16 túlérett szőlőből készült bor
+
+## 8 gyöngyözőbor 17 borecet
+
+## __________________________________________________________________________________________
+
+## 2: Szőlő származási bizonyítvány esetén potenciális alkoholtartalom, bor származási bizonyítvány vagy forgalomba hozatali engedély esetén összes alkoholtartalom
+
+## __________________________________________________________________________________________
+
+## 3: Pincekönyv alapján
+
+## __________________________________________________________________________________________
+
+## 4: Csak egy oltalom alatt álló eredetmegjelölés vagy földrajzi jelzés adható meg. Földrajzi jelzés nélküli borászati termékek esetén kihúzandó.
+
+## __________________________________________________________________________________________
+
+## 5: Csak pezsgő, minőségi pezsgő, illatos minőségi pezsgő és szén-dioxid hozzáadásával készült habzóbor esetében (a 607/2009/EK bizottsági rendelet XIV. melléklet „A” része szerint), továbbá a termékleírás által meghatározott egyéb esetekben (a 607/2009/EK bizottsági rendelet XIV. melléklet „B” része szerint) kötelező kitölteni, egyébként fakultatív.
+
+## __________________________________________________________________________________________
+
+## Megjegyzés:
 
 ## A kérelem aláírásával a kérelmező igazolja, hogy a kérelemben feltüntetett tételre vonatkozó adatok a valóságnak megfelelnek.
 
-| Kelt: | _____________________________ |  |  |  |
+## Kelt: .................................................................... ...................................................................
 
-|  |  |  |  |  | Bizonyítványt kérelmező aláírása |
+## Bizonyítványt kérelmező aláírása
 
-| Kelt.: | _________________________________ |  |  |  |
+11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^172]
 
-|  |  |  |  |  | P.H. | Hegybíró aláírása” |
-
-11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^154]
-
-[^154]: A 11. számú melléklet a 128/2012. (XII. 14) VM rendelet 31. § (7) bekezdésével megállapított, a 29/2013. (IV. 30.) VM rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^172]: A 11. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § d) pontjával megállapított szöveg.

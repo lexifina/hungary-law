@@ -1,116 +1,44 @@
-## A. Középfokú végzettség:
+## I. A Helyi Borbíráló Bizottság tagjának a következő végzettségek valamelyikével kell rendelkeznie:
 
-## 1. Aranykalászos gazda
+## Középfokú végzettség:
 
-## 2. Bor- és üdítőipari technikus
+## 1. Bor- és üdítőital-ipari technikus
 
-## 3. Borász
+## 2. Borász
 
-## 4. Gyümölcstermesztő és feldolgozó szaktechnikus
+## 3. Szőlész-borász szaktechnikus
 
-## 5. Kertész
+## 4. Szőlő- és gyümölcstermesztő
 
-## 6. Kertész- és növényvédelmi technikus
+## 5. Vincellér
 
-## 7. Mezőgazdasági technikus
+## 6. Élelmiszer-ipari technikus (bor- és üdítőital-ipar)
 
-## 8. Szőlész-borász szaktechnikus
+## 7. Bor- és pezsgőgyártó technikus
 
-## 9. Szőlő- és gyümölcstermesztő
+## 8. Bortechnológus
 
-## 10. Vincellér
+## 9. Erjedésipari termékgyártó (borász)
 
-## 11. Élelmiszer-ipari technikus (Bor- és üdítőital-ipar)
-
-## 12. Bor- és pezsgőgyártó technikus
-
-## 13. Bortechnológus
-
-## 14. Szőlőtermesztő
-
-## 15. Erjedésipari termékgyártó (borász)
-
-## 16. Kertész (technikus)
-
-## 17. Borászati és üdítőipari ágazat (technikus)
-
-## B. Felsőfokú agrárgazdasági végzettséget adó szakok:
+## Felsőfokú végzettség:
 
 ## 1. Kertészmérnöki, F, E
 
-## 2. Mezőgazdasági mérnök F
+## 2. Agrármérnöki E
 
-## 3. Agrármérnöki E
+## 3. Élelmiszermérnök (erjedésipar-borász) E
 
-## 4. Növénytermesztési mérnöki F
+## 4. Élelmiszertechnológus mérnök (bor- és üdítőital-ipar) F
 
-## 5. Növényorvosi E
+## 5. Tartósítóipari üzemmérnök
 
-## 6. Agrár-kémikus agrármérnöki E
+## 6. Tartósítóipari mérnök
 
-## 7. Agrármenedzser F
+## 7. Szőlész-borász mérnök
 
-## 8. Gazdasági mérnöki F
+## 8. Borász-italtechnológus szakmérnöki
 
-## 9. Vidékfejlesztési agrármérnöki F
-
-## 10. Gazdasági agrármérnöki E
-
-## 11. Vidékfejlesztési agrármérnöki E
-
-## 12. Környezetgazdálkodási agrármérnöki F, E
-
-## 13. Élelmiszermérnök (erjedésipar-borász) E
-
-## 14. Élelmiszertechnológus mérnök (bor és üdítőitalipar) F
-
-## 15. Tartósítóipari üzemmérnök
-
-## 16. Tartósítóipari mérnök
-
-## C. BSc Alapszakok:
-
-## 1. Tájrendező és kertépítő mérnök
-
-## 2. Kertészmérnöki
-
-## 3. Környezetgazdálkodási agrármérnöki
-
-## 4. Mezőgazdasági mérnöki
-
-## 5. Növénytermesztő mérnöki
-
-## 6. Gazdasági és vidékfejlesztési agrármérnöki
-
-## 7. Informatikus agrármérnöki
-
-## 8. Mezőgazdasági és élelmiszeripari gépészmérnöki
-
-## 9. Szőlész-borász mérnök
-
-## D. Mesterszakok (MSc)
-
-## 1. Kertészmérnöki
-
-## 2. Környezetgazdálkodási agrármérnöki
-
-## 3. Szőlészeti- és borászati mérnök
-
-## 4. Agrármérnöki
-
-## 5. Növényorvosi
-
-## 6. Növénytermesztő mérnöki
-
-## 7. Gazdasági agrármérnöki
-
-## 8. Vidékfejlesztési agrármérnöki
-
-## 9. Mezőgazdasági és élelmiszeripai gépészmérnöki
-
-## 10. Borász-italtechnológus szakmérnöki
-
-## E.[^155] Egyéb képzések:
+## Egyéb:
 
 ## 1. A Wine and Spirit Education Trust által kiadott „Diploma in Wines and Spirits”
 
@@ -118,7 +46,56 @@
 
 ## 3. Az Institute of Masters of Wine által kiadott „Master of Wine” oklevél
 
-13. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^156]
+## II. Az Országos Borszakértő Bizottság tagjának a következő végzettségek valamelyikével kell rendelkeznie:
 
-[^155]: A 12. számú melléklet E. pontját a 128/2012. (XII. 14.) VM rendelet 31. § (8) bekezdése iktatta be.
-[^156]: A 13. számú melléklet a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése szerint módosított szöveg.
+## Középfokú végzettség:
+
+## 1. Borász
+
+## 2. Élelmiszer-ipari technikus (bor- és üdítőital-ipar)
+
+## Felsőfokú végzettség:
+
+## 1. Kertészmérnöki, F, E
+
+## 2. Agrármérnöki E
+
+## 3. Élelmiszermérnök (erjedésipar-borász) E
+
+## 4. Élelmiszertechnológus mérnök (bor- és üdítőital-ipar) F
+
+## 5. Tartósítóipari üzemmérnök
+
+## 6. Tartósítóipari mérnök
+
+## 7. Szőlész-borász mérnök
+
+## 8. Borász-italtechnológus szakmérnöki
+
+## Egyéb:
+
+## 1. A Wine and Spirit Education Trust által kiadott „Diploma in Wines and Spirits”
+
+## 2. A Wine and Spirit Education Trust által kiadott „Honours Diploma”
+
+## 3. Az Institute of Masters of Wine által kiadott „Master of Wine” oklevél
+
+## III. A 29/A. § (1) bekezdés a) pontjában meghatározott borászati eljárásokat végző személyeknek a következő végzettségek valamelyikével kell rendelkeznie:
+
+## 1. Élelmiszermérnök (erjedésipar-borász) E
+
+## 2. Élelmiszertechnológus mérnök (bor- és üdítőital-ipar) F
+
+## 3. Tartósítóipari üzemmérnök
+
+## 4. Tartósítóipari mérnök
+
+## 5. Szőlész-borász mérnök
+
+## 6. Szőlészeti- és borászati mérnök
+
+## 7. Borász-italtechnológus szakmérnök
+
+13. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^174]
+
+[^174]: A 13. számú melléklet a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése szerint módosított szöveg.

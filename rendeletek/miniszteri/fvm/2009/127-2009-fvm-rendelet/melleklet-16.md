@@ -1,60 +1,60 @@
-|  | Kifejezés | Borászati termékek, melyek címkéjén a kifejezés feltüntethető | A kifejezés használatának feltétele |
+| A | B | C | D | E |
 
-| 1. | „barrique” | bor (OEM és OFJ) | olyan bor, amelynek legalább egyharmadát 350 liternél nem nagyobb térfogatú, új tölgyfahordóban tárolták, amely esetében a 606/2009/EK bizottsági rendelet I. A melléklete táblázatának 38. sorában szereplő technológiát nem alkalmazták, valamint a bor a forgalomba hozatali engedély megszerzéséhez szükséges minősítés során a barrique hordóban való érlelésre jellemző érzékszervi tulajdonságokkal rendelkezik |
+|  | Kifejezés | Borászati termékek, melyek címkéjén a kifejezés feltüntethető | Hagyo- mányos kifejezés | A kifejezés használatának feltétele. |
 
-| 2. | „blanc de blanc” | minőségi pezsgő | 100%-ban chardonnay szőlőfajtából származó küvéből készült |
+| 1. | „barrique” | bor (OEM és OFJ) | nem | Olyan bor, amelynek legalább egyharmadát 350 liternél nem nagyobb térfogatú, új tölgyfahordóban tárolták, amely esetében a 606/2009/EK bizottsági rendelet I. A melléklete táblázatának 38. sorában szereplő technológiát nem alkalmazták, valamint a bor a forgalomba hozatali engedély megszerzéséhez szükséges minősítés során a barrique hordóban való érlelésre jellemző érzékszervi tulajdonságokkal rendelkezik. |
 
-| 3. | „blanc de noir” | minőségi pezsgő | 100%-ban a pinot noir szőlőfajta gyors feldolgozásával nyert küvéből készült |
+| 2. | „blanc de blanc” | minőségi pezsgő | nem | 100%-ban chardonnay szőlőfajtából származó küvéből készült. |
 
-| 4. | borkülönlegesség | bor (OEM, Tokaj) | A „borkülönlegesség” szó feltüntetése kizárólag a Tokaji borok címkéjén lehetséges, a termékleírásban foglaltaknak megfelelően. |
+| 3. | „blanc de noir” | minőségi pezsgő | nem | 100%-ban a pinot noir szőlőfajta gyors feldolgozásával nyert küvéből készült. |
 
-| 5. | „első szüret” vagy „virgin vintage” |  | az ültetvényről első alkalommal szüretelt szőlőből készült bor |
+| 4. | borkülönlegesség | bor (OEM, Tokaj) |  | A „borkülönlegesség” szó feltüntetése kizárólag a Tokaji borok címkéjén lehetséges, a termékleírásban foglaltaknak megfelelően. |
 
-| 6. | „főbor” | bor (OEM) | olyan bor: |
+| 5. | „első szüret” vagy „virgin vintage” |  | nem | Az ültetvényről első alkalommal szüretelt szőlőből készült bor. |
 
-|  |  |  | – amely legfeljebb 45 hl/ha hozamú ültetvényről származik |
+| 6. | „főbor” | bor (OEM) | igen | Olyan bor: – amely legfeljebb 45 hl/ha hozamú ültetvényről származik – amelynek természetes alkoholtartalma legalább 15,12 térfogatszázalék – amelynek tényleges alkoholtartalma legalább 11,5 térfogatszázalék – amelyet forgalomba hozatal előtt legalább két évig érleltek (ebből egy évig fahordóban), és – termelésének további részletes szabályait a használatát lehetővé tevő termékleírás rögzíti. |
 
-|  |  |  | – amelynek természetes alkoholtartalma legalább 15, 12 térfogatszázalék |
+| 7. | „jégbor” (magyar) | bor (OEM és OFJ) | igen | Túléretten, megfagyottan szüretelt és préselt szőlőbogyók felhasználásával előállított bor – amelynek természetes alkoholtartalma legalább 16,66 térfogatszázalék – amely maradékcukor-tartalma legalább 45 g/liter – amely előállításához a szőlőt igazoltan legfeljebb –7 °C-os hőmérsékleten szüretelték. A jégbor készítésére vonatkozó szándékot legalább 48 órával a tervezett szüreti időpont előtt be kell jelenteni az ültetvény területe szerint illetékes hegybíró részére. |
 
-|  |  |  | – amelynek tényleges alkoholtartalma legalább 11,5 térfogatszázalék |
+| 8. | „muskotály” (magyar), vagy az Európai Unió bármely hivatalos nyelvének fordításában | – bor, – még erjedésben lévő újbor, – likőrbor, – pezsgő, – minőségi pezsgő, – illatos minőségi pezsgő, – szén-dioxid hozzáadásával készült habzóbor, – gyöngyözőbor, – szén-dioxid hozzáadásával készült gyöngyözőbor, – szőlőmust, – részben erjedt szőlőmust | nem | Legalább 85%-ban a következő szőlőfajták közül egynek vagy többnek a terméséből készülnek: – Aletta, – Csaba gyöngye, – cserszegi fűszeres, – generosa, – hamburgi muskotály, – Irsai Olivér, – mátrai muskotály, – nektár, – ottonel muskotály, – pölöskei muskotály, – sárga muskotály, – szirén, – trilla, – zefír. |
 
-|  |  |  | – amelyet forgalomba hozatal előtt legalább két évig érleltek (ebből egy évig fahordóban), és |
+| 9. | „nyerspezsgő” | minőségi pezsgő | nem | Palackban erjesztett, expedíciós likőrt egyáltalán nem adtak hozzá. |
 
-|  |  |  | – termelésének további részletes szabályait a használatát lehetővé tevő termékleírás rögzíti. |
+| 10. | „primőr” |  | nem | A szüret évében palackozott bor. |
 
-| 7. | „jégbor” (magyar) | bor (OEM és OFJ) | Túléretten, megfagyottan szüretelt és préselt szőlőbogyók felhasználásával előállított bor − amelynek természetes alkoholtartalma legalább 16,66 térfogatszázalék − amely maradékcukor-tartalma legalább 45 g/liter − amely előállításához a szőlőt igazoltan legfeljebb -7°C-os hőmérsékleten szüretelték. A jégbor készítésére vonatkozó szándékot legalább 48 órával a tervezett szüreti időpont előtt be kell jelenteni az ültetvény területe szerint illetékes hegybíró részére. |
+| 11. | „szemelt” | bor (OEM és OFJ) |  | Teljesen érett vagy nemesen rothadt bogyóknak a kevésbé érettektől való különválogatásával nyert bor, melynek természetes alkoholtartalma legalább 13,59 térfogatszázalék. |
 
-| 8. | „muskotály” (magyar) | – bor, – még erjedésben lévő újbor, – likőrbor, – pezsgő, – minőségi pezsgő, – illatos minőségi pezsgő, – szén–dioxid hozzáadásával – készült habzóbor, – gyöngyözőbor, – szén–dioxid hozzáadásával – készült gyöngyözőbor, – szőlőmust, – részben erjedt szőlőmust | legalább 85%-ban a következő szőlőfajták közül egynek vagy többnek a terméséből készülnek: – Aletta, – Csaba gyöngye, – cserszegi fűszeres, – generosa, – hamburgi muskotály, – Irsai Olivér, – mátrai muskotály, – nektár, – ottonel muskotály, – pölöskei muskotály, – sárga muskotály, – szirén, – trilla, – zefír. |
+| 12. | „szűretlen” (magyar) | bor | nem | Olyan bor, amely esetében mellőzték a szűrést. |
 
-| 9. | „nyerspezsgő” | minőségi pezsgő | palackban erjesztett, expedíciós likőrt egyáltalán nem adtak hozzá |
+| 13. | „termőhelyen palackozva” | bor (OEM és OFJ) | nem | A bor 100%-ban az adott OEM- vagy OFJ-körzetből származik, valamint a palackozás is az adott körzeten belül történt. |
 
-| 10. | „primőr” |  | a szüret évében palackozott bor |
+| 14. | „töppedt szőlőből készült bor” | bor (OEM és OFJ) | nem | Olyan szőlőbogyók felhasználásával előállított bor, amelynek élettanilag a teljes érésen túljutott, a vízvesztés következtében az értékes alkotórészek betöményedésével jellemezhető szőlőtermés, amelyet a Botrytis cinerea még nem támadott meg és amelyek természetes alkoholtartalma legalább12,83 térfogatszázalék. |
 
-| 11. | „szemelt” | bor (OEM és OFJ) | teljesen érett vagy nemesen rothadt bogyóknak a kevésbé érettektől való különválogatásával nyert bor, melynek természetes alkoholtartalma legalább 13,59 térfogatszázalék |
+| 15. | „újbor” (magyar) | bor | nem | A szüret évében palackozott bor. |
 
-| 12. | „szűretlen” (magyar) | bor | Olyan bor, amely esetében mellőzték a szűrést |
+| 16. | „válogatott szüretelésű bor” | bor (OEM és OFJ) | nem | A tőkén teljesen beérett szőlőből kiválogatott (az éretlen, a beteg, a penészes fürtök különválasztásával), egészséges, részben túlérett bogyóiból előállított bor, amelynek természetes alkoholtartalma legalább 12,08 térfogatszázalék. |
 
-| 13. | „termőhelyen palackozva” | bor (OEM és OFJ) | a bor 100%-ban az adott OEM- vagy OFJ-körzetből származik, valamint a palackozás is az adott körzeten belül történt. |
+| 17. | „ó” (fajtanév vagy a ,,bor” szó elé írva) | bor | nem | A szüretet követő legalább harmadik évben palackozott bor. |
 
-| 14. | „töppedt szőlőből készült bor” | bor (OEM és OFJ) | olyan szőlőbogyók felhasználásával előállított bor, amelynek élettanilag a teljes érésen túljutott, a vízvesztés következtében az értékes alkotórészek betöményedésével jellemezhető szőlőtermés, amelyet a Botrytis cinerea még nem támadott meg és amelyek természetes alkoholtartalma legalább 12,83 térfogatszázalék |
+| 18. | „termelői pezsgő” (magyar) | pezsgő, minőségi pezsgő, illatos minőségi pezsgő | nem | – A terméket a palackban történő második alkoholos erjesztéssel teszik pezsgővé; – a termék a küvé összeállításától számítva legalább kilenc hónapon át megszakítás nélkül a borseprőn marad ugyanabban az üzemben, ahol a küvé készül; – a terméket degorzsálással választják el a borseprőről; – ugyanabban a gazdaságban – ideértve a termelői csoportokat is – termelt szőlőből állítják elő, amelyben a termelő a pezsgők vagy minőségi pezsgők vagy illatos minőségi pezsgők készítésére szánt szőlőből bort készít; – a címkén jelölik a gazdaságot és a szőlőfajtát. |
 
-| 15. | „újbor” (magyar) | bor | A szüret évében palackozott bor. |
+| 19. | „cuvée” (francia) vagy „küvé” (magyar) | bármely borászati termék | nem | Legalább két szőlőfajta borából készült borászati termék. |
 
-| 16. | „válogatott szüretelésű bor” | bor (OEM és OFJ) | a tőkén teljesen beérett szőlőből kiválogatott (az éretlen, a beteg, a penészes fürtök különválasztásával), egészséges, részben túlérett bogyóiból előállított bor, amelynek természetes alkoholtartalma legalább 12,08 térfogatszázalék |
+| 20. | „prémium” (magyar) | bármely borászati termék (OEM) | nem | Legfeljebb 60 hl/ha seprős újbor hozamú szőlőültetvény terméséből készítik. |
 
-| 17. | „ó” (fajtanév vagy a ,,bor” szó elé írva) | bor | a szüretet követő legalább harmadik évben palackozott bor |
+| 21. | „superior” (latin) | bármely borászati termék (OEM) | nem | Legfeljebb 60 hl/ha seprős újbor hozamú szőlőültetvény terméséből készítik. |
 
-| 18. | „termelői pezsgő” (magyar) | pezsgő, minőségi pezsgő, illatos minőségi pezsgő | – a terméket a palackban történő második alkoholos erjesztéssel teszik pezsgővé; – a termék a küvé összeállításától számítva legalább kilenc hónapon át megszakítás nélkül a borseprőn marad ugyanabban az üzemben, ahol a küvé készül; – a terméket degorzsálással választják el a borseprőről; – ugyanabban a gazdaságban – ideértve a termelői csoportokat is – termelt szőlőből állítják elő, amelyben a termelő a pezsgők vagy minőségi pezsgők vagy illatos minőségi pezsgők készítésére szánt szőlőből bort készít; – a címkén jelölik a gazdaságot és a szőlőfajtát; |
+| 22. | „reserve” (angol) | bor, pezsgő, minőségi pezsgő (OEM) | nem | – A vörösborokat minimum 18 hónapon keresztül kell érlelni, amiből legalább 12 hónapig maximum 330 l űrmértékű tölgyfahordókban, és a fennmaradó időben palackban kell tárolni. – A fehér- és rozé borokat minimum 6 hónapon keresztül kell érlelni, amiből legalább 3 hónapig tölgyfahordókban, és a fennmaradó időben palackban kell tárolni. |
 
-| 19. | „cuvée” (francia) vagy „küvé” (magyar) | bármely borászati termék | legalább két szőlőfajta borából készült borászati termék |
+| 23. | késői szüretelésű bor | bor (OEM és OFJ) | igen | Olyan a bor, amelyet az általános szüreti időszak után szüretelt, érett szőlőből állítottak elő, és amelynek természetes alkoholtartalma legalább 12,08 térfogatszázalék. |
 
-| 20. | „prémium” (magyar) | bármely borászati termék (OEM) | legfeljebb 60 hl/ha seprős újbor hozamú szőlőültetvény terméséből készítik |
+| 24. | Válogatott szüretelésű bor | bor (OEM és OFJ) | igen | Olyan bor, amelyet a tőkén teljesen beérett szőlőből kiválogatott, egészséges, részben túlérett bogyóiból állítottak elő, és amelynek természetes alkoholtartalma legalább 12,08 térfogatszázalék. |
 
-| 21. | „superior” (latin) | bármely borászati termék (OEM) | legfeljebb 60 hl/ha seprős újbor hozamú szőlőültetvény terméséből készítik |
+| 25. | muzeális bor | bármelyik (OEM) | igen | Olyan borászati termék, amelyet legalább öt évig érleltek palackban. |
 
-| 22. | „reserve” (angol) | bor, pezsgő, minőségi pezsgő (OEM) | – a vörösborokat minimum 18 hónapon keresztül kell érlelni, amiből legalább 12 hónapig maximum 330 l űrmértékű tölgyfahordókban, és a fennmaradó időben palackban kell tárolni. – a fehér- és rozé borokat minimum 6 hónapon keresztül kell érlelni, amiből legalább 3 hónapig tölgyfahordókban, és a fennmaradó időben palackban kell tárolni. |
+| 26. | siller | bor (OEM és OFJ) | igen | A rövid héjon erjesztés következtében élénk, halvány színű vörösbor. |
 
-16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^159]
+16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^177]
 
 „A” rész
 
@@ -422,4 +422,4 @@ Magyar mustfok átszámítása alkoholtartalomra
 
 A tömegszázalékban mért cukortartalom átszámítása alkoholfokra
 
-[^159]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.
+[^177]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.

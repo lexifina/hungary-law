@@ -1,4 +1,4 @@
-## 60. §[^124] Adatszolgáltatáskor a cukortartalom magyar mustfokban, valamint tömegszázalékban mért értékét a 16. számú melléklet táblázatai szerint kell térfogatszázalékra átszámítani.
+## 60. §[^150] Adatszolgáltatáskor a cukortartalom magyar mustfokban, valamint tömegszázalékban mért értékét a 16. számú melléklet táblázatai szerint kell térfogatszázalékra átszámítani.
 
 ## HATODIK RÉSZ
 
@@ -12,16 +12,16 @@
 
 (3) A 8. § szerinti adatszolgáltatást első alkalommal 2010-ben kell alkalmazni a 2009/2010-es borászati évre vonatkozóan.
 
-(4)[^125]
+(4)[^151]
 
-(5)[^126] A 30. § rendelkezései az OEM-borászati termékek és az OFJ-borászati termékek esetében az 1234/2007/EK tanácsi rendelet 118s. cikk (1) bekezdése szerint benyújtott termékleírás Btv.-ben meghatározott módon történő alkalmazhatóvá válásáig alkalmazandóak.
+(5)[^152] A 30. § rendelkezései az OEM-borászati termékek és az OFJ-borászati termékek esetében az 1234/2007/EK tanácsi rendelet 118s. cikk (1) bekezdése szerint benyújtott termékleírás Btv.-ben meghatározott módon történő alkalmazhatóvá válásáig alkalmazandóak.
 
-(6)[^127] A 15. számú melléklet 19–22. sorainak rendelkezéseit első alkalommal a 2013/2014. borpiaci évben szüretelt szőlőből készült borászati termékekre kell alkalmazni.
+(6)[^153] A 15. számú melléklet 19–22. sorainak rendelkezéseit első alkalommal a 2013/2014. borpiaci évben szüretelt szőlőből készült borászati termékekre kell alkalmazni.
 
-(7)[^128] Az 51/B. §, az 52. § (1) bekezdés b) pontja és az 53. § rendelkezéseit első alkalommal a 2013. január 1-jét követően forgalomba hozott borászati termékekre kell alkalmazni. Azokat a 2012. december 31. előtt forgalomba hozott vagy címkézett borászati termékeket, amelyek jelölése megfelel a 2012. október 31-én hatályos rendelkezéseknek, a készletek kimerüléséig forgalomba lehet hozni.
+(7)[^154] Az 51/B. §, az 52. § (1) bekezdés b) pontja és az 53. § rendelkezéseit első alkalommal a 2013. január 1-jét követően forgalomba hozott borászati termékekre kell alkalmazni. Azokat a 2012. december 31. előtt forgalomba hozott vagy címkézett borászati termékeket, amelyek jelölése megfelel a 2012. október 31-én hatályos rendelkezéseknek, a készletek kimerüléséig forgalomba lehet hozni.
 
-[^124]: A 60. § a 64/2010. (V. 12.) FVM rendelet 20. §-ával megállapított szöveg.
-[^125]: A 61. § (4) bekezdését a 128/2012. (XII. 14.) VM rendelet 32. § d) pontja hatályon kívül helyezte.
-[^126]: A 61. § (5) bekezdése a 128/2012. (XII. 14.) VM rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^127]: A 61. § (6) bekezdését a 128/2012. (XII. 14.) VM rendelet 28. § (2) bekezdése iktatta be.
-[^128]: A 61. § (7) bekezdését a 128/2012. (XII. 14.) VM rendelet 28. § (2) bekezdése iktatta be.
+[^150]: A 60. § a 64/2010. (V. 12.) FVM rendelet 20. §-ával megállapított szöveg.
+[^151]: A 61. § (4) bekezdését a 128/2012. (XII. 14.) VM rendelet 32. § d) pontja hatályon kívül helyezte.
+[^152]: A 61. § (5) bekezdése a 128/2012. (XII. 14.) VM rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^153]: A 61. § (6) bekezdését a 128/2012. (XII. 14.) VM rendelet 28. § (2) bekezdése iktatta be.
+[^154]: A 61. § (7) bekezdését a 128/2012. (XII. 14.) VM rendelet 28. § (2) bekezdése iktatta be.

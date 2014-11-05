@@ -4,11 +4,11 @@
 
 a) adatszolgáltatással kapcsolatos fogalmak:
 
-1.[^1]
+1.[^1] gazdasági akta szám vagy GA szám: a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény (a továbbiakban: Btv.) 2. § 16. pontja szerinti gazdasági akta azonosító száma;
 
 2. gazdasági aktát vezető hegybíró: az a hegybíró, aki az adatszolgáltató szőlőültetvénye, illetve borászati üzeme szerint illetékes hegybírója által nyilvántartott adatok összesítésével összeállítja, nyilvántartja, kezeli az adatszolgáltatóra vonatkozó gazdasági aktát;
 
-3. hegyközségi kód: az adatszolgáltatót borvidék, hegyközség, illetve személy szerint egyértelműen beazonosító, a hegybíró által kiadott számsor;
+3.[^2]
 
 4. integrált szőlészeti és borászati nyilvántartó rendszer: a szőlő-bor ágazat nyilvántartással, adatszolgáltatással, ellenőrzéssel kapcsolatos közösségi és tagállami kötelezettségek teljesítését támogató informatikai rendszer.
 
@@ -46,45 +46,47 @@ b) a terület azonosításával kapcsolatos fogalmak:
 
 16. támogatás fedvény: 436/2009/EK rendeletének 3. cikk (1) bekezdés a) pont vi. alpontjában meghatározott adatok térképi megjelenítése;
 
-17. termőhelyi kataszteri fedvény: a Budapesti Corvinus Egyetem Szőlészeti és Borászati Kutató Intézete Kecskemét (a továbbiakban: SZBKI) által vezetett termőhelyi kataszteri térképek digitális másolata;
+17.[^3] termőhelyi kataszteri fedvény: a Nemzeti Agrárkutatási és Innovációs Központ (a továbbiakban: SZBKI) által vezetett termőhelyi kataszteri térképek digitális másolata;
 
 18. topográfiai fedvény: az 1:10 000-es és 1:100 000-es méretarányú digitális állami topográfiai térképek.
 
-c)[^2] ellenőrzéssel, laboratóriumi vizsgálatokkal és a forgalomba hozatali engedély kiadásával kapcsolatos fogalmak:
+c)[^4] ellenőrzéssel, laboratóriumi vizsgálatokkal és a forgalomba hozatali engedély kiadásával kapcsolatos fogalmak:
 
 1. átlagminta: több tartályból álló tétel esetén az egyes tartályokból, azok térfogatának arányában elkülönített és összekevert termékből vett minta;
 
 2. biológiai üledékek: élő és holt élesztőgombasejtek, baktériumsejtek vagy sejthalmazok, valamint penészgombafonalak;
 
-3.[^3] borüledékek: mindazok a mikrobiológiai, kémiai és fizikai eredetű részecskék, amelyek a stabilizált, szűrt borászati termékben szaporodás, kicsapódás vagy utószennyeződés útján nemkívánatos elváltozást (opálosság, porosság, zavarosság) okoznak, függetlenül attól, hogy a részecskék a borban leülepednek vagy lebegve maradnak;
+3.[^5] borüledékek: mindazok a mikrobiológiai, kémiai és fizikai eredetű részecskék, amelyek a stabilizált, szűrt borászati termékben szaporodás, kicsapódás vagy utószennyeződés útján nemkívánatos elváltozást (opálosság, porosság, zavarosság) okoznak, függetlenül attól, hogy a részecskék a borban leülepednek vagy lebegve maradnak;
 
 4. ellenminta: a halmazból, tételből a mintával azonos időben és módon vett és lezárt minta, mely a mintaadónál marad;
 
-5.[^4] fizikai üledékek: a tiszta borászati termékbe technológiai szennyeződés útján bekerült oldhatatlan részecskék;
+5.[^6] fizikai üledékek: a tiszta borászati termékbe technológiai szennyeződés útján bekerült oldhatatlan részecskék;
 
 6. húzott minta: a tartályban lévő tétel minden rétegéből, a mintavételhez használt eszköz egyenletes mozgatásával, húzásával vett minta;
 
-7.[^5] kémiai üledékek: a borászati termék természetes oldott anyagainak környezeti hatásokra bekövetkező kicsapódásai, kristályos vagy amorf részecskék formájában;
+7.[^7] kémiai üledékek: a borászati termék természetes oldott anyagainak környezeti hatásokra bekövetkező kicsapódásai, kristályos vagy amorf részecskék formájában;
 
 8. minta: a halmazból, tételből minősítés céljára elkülönített termékmennyiség, az elemi minták összessége;
 
-9.[^6] palackállóság: palackálló az a borászati termék, amely szakszerű szállítási, tárolási és fogyasztási körülmények mellett a vonatkozó előírásokban meghatározottak szerint tiszta és üledékmentes marad, érzékszervi tulajdonságai hátrányosan nem változnak meg; kivételt képeznek a szűretlen borászati termékek;
+9.[^8] palackállóság: palackálló az a borászati termék, amely szakszerű szállítási, tárolási és fogyasztási körülmények mellett a vonatkozó előírásokban meghatározottak szerint tiszta és üledékmentes marad, érzékszervi tulajdonságai hátrányosan nem változnak meg; kivételt képeznek a szűretlen borászati termékek;
 
 10. vizsgálat: a megmintázott termékhalmaz az Európai Unió által elfogadott módszerrel történő – érzékszervi, fizikai, kémiai, kiszerelési, jelölési, mikrobiológiai, toxikológiai, radiológiai – vizsgálata a fogyaszthatóság, forgalmazhatóság engedélyezésének érdekében.
 
-11.[^7] termékhalmaz: termékhalmaz az azonos tételszámmal ellátott termék; tételszám hiányában a pincekönyvben egy termékként nyilvántartott, ennek hiányában a származást igazoló dokumentumokban megjelölt mennyiség tekintendő egy termékhalmaznak;
+11.[^9] termékhalmaz: termékhalmaz az azonos tételszámmal ellátott termék; tételszám hiányában a pincekönyvben egy termékként nyilvántartott, ennek hiányában a származást igazoló dokumentumokban megjelölt mennyiség tekintendő egy termékhalmaznak;
 
-d)[^8] egyéb fogalmak:
+d)[^10] egyéb fogalmak:
 
-1. borászati termék: a 1234/2007/EK tanácsi rendelet XIb. mellékletében meghatározott termékek;
+1. borászati termék: az 1308/2013/EU európai parlamenti és tanácsi rendelet VII. melléklet 2. részében meghatározott termék;
 
-2. bor: a 1234/2007/EK tanácsi rendelet XIb. mellékletének 1. pontjában meghatározott termék.
+2. bor: az 1308/2013/EU európai parlamenti és tanácsi rendelet VII. melléklet 2. rész 1. pontjában meghatározott termék.
 
-[^1]: Az 1. § a) pont 1. alpontját a 128/2012. (XII. 14.) VM rendelet 32. § a) pontja hatályon kívül helyezte.
-[^2]: Az 1. § c) pont nyitó szövegrésze a 128/2012. (XII. 14.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § c) pont 3. pontja a 128/2012. (XII. 14.) VM rendelet 30. § (1) bekezdése szerint módosított szöveg.
-[^4]: Az 1. § c) pont 5. pontja a 128/2012. (XII. 14.) VM rendelet 30. § (1) bekezdése szerint módosított szöveg.
-[^5]: Az 1. § c) pont 7. pontja a 128/2012. (XII. 14.) VM rendelet 30. § (2) bekezdése szerint módosított szöveg.
-[^6]: Az 1. § c) pont 9. pontja a 128/2012. (XII. 14.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^7]: Az 1. § c) pont 11. pontját a 128/2012. (XII. 14.) VM rendelet 1. § (3) bekezdése iktatta be.
-[^8]: Az 1. § d) pontját a 128/2012. (XII. 14.) VM rendelet 1. § (4) bekezdése iktatta be.
+[^1]: Az 1. § a) pont 1. alpontját a 128/2012. (XII. 14.) VM rendelet 32. § a) pontja hatályon kívül helyezte, újonnan a 20/2014. (X. 31.) FM rendelet 1. § (1) bekezdése iktatta be.
+[^2]: Az 1. § a) pont 3. alpontját a 20/2014. (X. 31.) FM rendelet 33. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § b) pont 17. alpontja a 20/2014. (X. 31.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § c) pont nyitó szövegrésze a 128/2012. (XII. 14.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § c) pont 3. pontja a 128/2012. (XII. 14.) VM rendelet 30. § (1) bekezdése szerint módosított szöveg.
+[^6]: Az 1. § c) pont 5. pontja a 128/2012. (XII. 14.) VM rendelet 30. § (1) bekezdése szerint módosított szöveg.
+[^7]: Az 1. § c) pont 7. pontja a 128/2012. (XII. 14.) VM rendelet 30. § (2) bekezdése szerint módosított szöveg.
+[^8]: Az 1. § c) pont 9. pontja a 128/2012. (XII. 14.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^9]: Az 1. § c) pont 11. pontját a 128/2012. (XII. 14.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^10]: Az 1. § d) pontját a 128/2012. (XII. 14.) VM rendelet 1. § (4) bekezdése iktatta be, szövege a 20/2014. (X. 31.) FM rendelet 1. § (3) bekezdésével megállapított szöveg.

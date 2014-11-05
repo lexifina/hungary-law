@@ -1,12 +1,13 @@
-## Egyes borászati eljárások végrehajtásának különös feltételei[^51]
+## Egyes borászati eljárások végrehajtásának különös feltételei[^68]
 
-29/A. §[^52] (1) A 606/2009/EK bizottsági rendelet I.A mellékletének 26. és 29. pontjában meghatározott eljárások csak az alábbi esetekben folytathatóak le:
+29/A. §[^69] (1) A 606/2009/EK bizottsági rendelet I.A mellékletének 26. és 29. pontjában meghatározott eljárások csak az alábbi esetekben folytathatóak le:
 
-a) az eljárást végző személy rendelkezik a 12. számú melléklet B13–16., C9., D3. vagy D10. pontjában felsorolt végzettségek valamelyikével, vagy
+a)[^70] az eljárást végző személy rendelkezik a 12. számú mellékletben felsorolt végzettségek valamelyikével, vagy
 
 b) az eljárást a borászati hatóság képviselőjének jelenlétében végzik el.
 
 (2) Az (1) bekezdésben meghatározott művelet elvégzését, továbbá a keletkezett derítési alj elszállítását 5 nappal azt megelőzően be kell jelenteni a NÉBIH részére.
 
-[^51]: A 29/A. §-t megelőző alcímet a 128/2012. (XII. 14.) VM rendelet 11. §-a iktatta be.
-[^52]: A 29/A. §-t a 128/2012. (XII. 14.) VM rendelet 11. §-a iktatta be.
+[^68]: A 29/A. §-t megelőző alcímet a 128/2012. (XII. 14.) VM rendelet 11. §-a iktatta be.
+[^69]: A 29/A. §-t a 128/2012. (XII. 14.) VM rendelet 11. §-a iktatta be.
+[^70]: A 29/A. § (1) bekezdés a) pontja a 20/2014. (X. 31.) FM rendelet 32. § g) pontja szerint módosított szöveg.
