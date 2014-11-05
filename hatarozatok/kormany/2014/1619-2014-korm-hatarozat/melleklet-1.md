@@ -20,6 +20,8 @@
 
 ## Határidő: a támogathatósági feltételek teljesítését követően azonnal
 
-## 5. visszavonja a Dél-Alföldi Operatív Program 2011–2013. évekre szóló akcióterve egyes prioritásainak módosításáról szóló 1492/2014. (VIII. 28.) Korm. határozat 1–3. és 5. mellékletét.
+## 5.[^1]
 
 1. melléklet az 1619/2014. (XI. 4.) Korm. határozathoz
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
