@@ -16,6 +16,8 @@
 
 ## a 2. pont b) alpontja esetén a forrás rendelkezésre állását követően azonnal
 
-## 4. visszavonja a Nyugat-Dunántúli Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról és a prioritás keretének növeléséről szóló 1110/2014. (III. 6.) Korm. határozat 1. pontját és 1. mellékletét.
+## 4.[^1]
 
 1. melléklet az 1620/2014. (XI. 4.) Korm. határozathoz
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
