@@ -6,15 +6,15 @@
 
 2. birtokon tartás: a beszerzett tenyészsertésnek az állattartó tenyészetében történő tartása;
 
-3. elszámolható költség: a beszerzett tenyészsertésnek, illetve eszköznek az általános forgalmi adó összegét nem tartalmazó vételára, amelynek import tenyészsertés beszerzése esetén részét képezi az általános forgalmi adó összegét nem tartalmazó szállítási költség is;
+3.[^1] elszámolható költség: a beszerzett tenyészsertésnek, szaporítóanyagnak, illetve eszköznek az általános forgalmi adó összegét nem tartalmazó vételára, amelynek import tenyészsertés és import szaporítóanyag beszerzése esetén részét képezi az általános forgalmi adó összegét nem tartalmazó szállítási költség is;
 
 4. eszköz: a sertés üzemi sajátteljesítmény vizsgálat végzéséhez szükséges mérleg, a törzskönyvi rendszer használatára alkalmas számítógépes konfiguráció, és a sertés mesterséges termékenyítéshez szükséges laboratóriumi felszerelés;
 
 5. KN: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, 1987. július 23-i 2658/87/EGK tanácsi rendelet szerinti kombinált nómenklatúra;
 
-6.[^1] mezőgazdasági csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet szerinti támogatás;
+6.[^2] mezőgazdasági csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet szerinti támogatás;
 
-7.[^2]
+7.[^3] szaporítóanyag: hazai és import kansperma;
 
 8. sertés ENAR: a sertések jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 116/2003. (XI. 18.) FVM rendelet [a továbbiakban: 116/2003. (XI. 18.) FVM rendelet] 2. § 10. pontja szerinti fogalom;
 
@@ -28,5 +28,6 @@
 
 13. törzskönyvezett sertéstenyészet: az a sertéstenyészet, ahol az elismert sertéstenyésztő egyesület vagy szövetség által végzett, az Átv. előírásainak megfelelő törzskönyvezés folyik.
 
-[^1]: Az 1. § 6. pontja a 36/2014. (IV. 4.) VM rendelet 88. §-ával megállapított szöveg.
-[^2]: Az 1. § 7. pontját a 36/2014. (IV. 4.) VM rendelet 91. §-a hatályon kívül helyezte.
+[^1]: Az 1. § 3. pontja a 22/2014. (XI. 3.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 6. pontja a 36/2014. (IV. 4.) VM rendelet 88. §-ával megállapított szöveg.
+[^3]: Az 1. § 7. pontját a 36/2014. (IV. 4.) VM rendelet 91. §-a hatályon kívül helyezte, újonnan a 22/2014. (XI. 3.) FM rendelet 1. § (2) bekezdése iktatta be.

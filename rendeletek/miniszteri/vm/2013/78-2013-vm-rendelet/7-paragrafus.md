@@ -10,11 +10,11 @@ b) az elszámolható költség kifizetését igazoló bizonylat másolatát;
 
 c) az idegen nyelven kiállított bármilyen dokumentum esetében a szakfordítói vagy tolmács képesítéssel rendelkező személy által készített magyar nyelvű fordítást, valamint a fordítást végző személy szakfordítói vagy tolmács képesítését igazoló okirat másolatát;
 
-d) az FSE igazolását az állattartó által beszerzett tenyészsertésekről és eszközökről, valamint a támogatás igénybevételéhez szükséges tenyésztéssel kapcsolatos feltételek meglétéről, amely tartalmazza, hogy a tenyészet törzskönyvezett sertéstenyészet, továbbá a beszerzett tenyészállatok és eszközök megfelelnek az 1. mellékletben foglalt követelményeknek;
+d)[^17] az FSE igazolását az állattartó által beszerzett tenyészsertésekről, szaporítóanyagról és eszközökről, valamint a támogatás igénybevételéhez szükséges tenyésztéssel kapcsolatos feltételek meglétéről, amely tartalmazza, hogy a beszerzett tenyészállatok, szaporítóanyag és eszközök megfelelnek az 1. mellékletben foglalt követelményeknek;
 
 e) az állattartó nyilatkozatát arról, hogy vállalja a birtokon tartási, illetve az üzemeltetési kötelezettséget a 9. §-ban meghatározottak szerint;
 
-f) tenyészsertések esetében a származási igazolás és a 116/2003. (XI. 18.) FVM rendelet szerinti sertés szállítólevél másolatát;
+f)[^18] tenyészsertések és szaporítóanyag esetében a 116/2003. (XI. 18.) FVM rendelet szerinti sertés szállítólevél másolatát;
 
 g) eszközök esetében, amennyiben az adott eszköznél értelmezhető, a garanciális és szavatossági jogok érvényesítéséhez szükséges okiratok másolatát.
 
@@ -24,7 +24,7 @@ g) eszközök esetében, amennyiben az adott eszköznél értelmezhető, a garan
 
 a) a tenyészsertés, illetve az eszköz pontos megnevezését;
 
-b) a tenyészsertés fajtáját és egyedi azonosítóját;
+b)[^19] a tenyészsertés és a sperma donor kan fajtáját és egyedi azonosítóját;
 
 c) az eszköz KN kódját, és amennyiben rendelkezik vele, egyedi azonosítóját.
 
@@ -33,3 +33,7 @@ c) az eszköz KN kódját, és amennyiben rendelkezik vele, egyedi azonosítój�
 (6) Amennyiben a számla az elszámolható költség összegét nem forintban tartalmazza, úgy a számla összegének forintra történő átváltásakor a támogatási kérelem benyújtásának napját megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett, két tizedes jegy pontossággal meghatározott devizaárfolyam alkalmazandó.
 
 (7) A számla nem képezheti támogatás alapját, ha a számlát más támogatáshoz – részben vagy egészben – elszámolták.
+
+[^17]: A 7. § (2) bekezdés d) pontja a 22/2014. (XI. 3.) FM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^18]: A 7. § (2) bekezdés f) pontja a 22/2014. (XI. 3.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^19]: A 7. § (4) bekezdés b) pontja a 22/2014. (XI. 3.) FM rendelet 7. § (3) bekezdésével megállapított szöveg.
