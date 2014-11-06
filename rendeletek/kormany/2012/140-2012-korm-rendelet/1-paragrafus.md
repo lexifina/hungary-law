@@ -1,26 +1,23 @@
-## 1. § A Nemzeti Fejlesztési Kormánybizottság (a továbbiakban: NFK) állást foglal a Kormány számára a fejlesztési és tervezési feladatokról, különösen a 2014–2020 pénzügyi időszakhoz kapcsolódó feladatokról, a fejlesztési célú költségvetési források felhasználásához szükséges kormányzati intézkedésekről, a támogatások felhasználásához szükséges intézményrendszer kialakításáról és működtetéséről, valamint az e témakörben indokolt szabályozásról. Ennek körében különösen:
+1. §[^1] (1) A Nemzeti Fejlesztési Kormánybizottság (a továbbiakban: NFK) a Kormány ügydöntő jogkörű, a fejlesztéspolitikai kormányzati feladatok összehangolt irányítását végző szerve.
 
-a) megtárgyal és döntési javaslattal lát el minden kormánydöntést igénylő fejlesztéspolitikai tárgyú, illetve fejlesztési tervezési és végrehajtási dokumentumot,
+(2) Az NFK
 
-b) dönt az Operatív programok, valamint az Akciótervek elfogadásáról és módosításáról, továbbá a nagyprojektekre vonatkozóan az Európai Bizottság számára benyújtandó javaslatokról,
+a) ellátja a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelettel hatáskörébe utalt feladatokat,
 
-c) a fejlesztéspolitikával való összhang megteremtése érdekében megtárgyalja és véleményezi a kormánydöntést nem igénylő különböző ágazati fejlesztési terveket, programokat, stratégiákat,
+b) ellátja a 2014–2020 programozási időszakban egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelettel hatáskörébe utalt feladatokat,
 
-d) dönt a kiemelt projektek nevesítéséről,
+c) véleményezi a kormánydöntést nem igénylő ágazati fejlesztési terveket, programokat és stratégiákat, ha azok megvalósítását nem uniós forrásból finanszírozzák,
 
-e) dönt az egymilliárd forintot meghaladó támogatási igényű projektjavaslatokról,
+d) véleményezi a fejlesztéspolitikai szempontból kiemelt jelentőségű ügyeket és a komplex programokat, ha azok megvalósítását nem uniós forrásból finanszírozzák,
 
-f) véleményezi a fejlesztéspolitikai szempontból kiemelt jelentőségű ügyeket, a komplex programokat, az operatív programok kiemelt projektjeit,
+e) dönt az a) és b) pont alá nem tartozó, egymilliárd forintot meghaladó támogatási igényű projektjavaslatokról,
 
-g)[^1] állást foglal a projektkiválasztás elbírálási szempontjairól, eljárásrendi szabályokról és utasításokról,
+f) az általa tárgyalt ügyekben nyomon követési tevékenységet végezhet, a végrehajtásról tájékoztatást kérhet,
 
-h) az általa tárgyalt ügyekben nyomon követési tevékenységet végezhet, a végrehajtásról tájékoztatást kérhet,
+g) a fejlesztéspolitikai célok teljesülése érdekében jogalkotást kezdeményezhet,
 
-i) a fejlesztéspolitikai célok teljesülése érdekében jogszabály módosítást kezdeményez,
+h) a fejlesztések végrehajtásáért felelős szervezetektől beszámolót kérhet, és intézkedési javaslatot fogalmazhat meg,
 
-j) a fejlesztések végrehajtásáért felelős szervezetektől beszámolót kérhet, és intézkedési javaslatot fogalmazhat meg,
+i) a fejlesztési célú uniós és hazai pénzügyi források tekintetében egyes végrehajtás-felügyeleti feladatokat lát el.
 
-k)[^2] a fejlesztési célú uniós és hazai pénzügyi források tekintetében egyes végrehajtás-felügyeleti feladatokat lát el.
-
-[^1]: Az 1. § g) pontja az 550/2013. (XII. 30.) Korm. rendelet 77. §-ával megállapított szöveg.
-[^2]: Az 1. § k) pontját a 60/2014. (III. 6.) Korm. rendelet 29. §-a iktatta be.
+[^1]: Az 1. § a 272/2014. (XI. 5.) Korm. rendelet 206. §-ával megállapított szöveg.
