@@ -1246,11 +1246,57 @@ b) értékbecslő esetén a cégkivonat vagy egyéni vállalkozói igazolvány k
 
 125. A biztosítékként felajánlott ingatlant a kedvezményezett csak az IH vagy KSZ engedélyével idegenítheti el vagy terhelheti meg.
 
-54. A garanciaszerződés
+54. Hitelintézet által kibocsátott garanciavállaló nyilatkozat
 
-126. A garanciaszerződésre irányadó rendelkezéseket a Ptk. LXI. Fejezete határozza meg.
+126. Garanciavállalás alatt a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény hatálya alá tartozó hitelintézetek által adott garancia értendő.
 
-127.1–127.3.
+127.1. A garanciavállaló nyilatkozatnak meg kell felelnie a következőknek:
+
+a) pénzügyi vállalkozás által kibocsátott garancia nem fogadható el,
+
+b) a garanciavállaló nyilatkozatnak rögzítenie kell a hitelintézet kifejezett, visszavonhatatlan, önálló fizetési kötelezettségvállalását,
+
+c) a garanciavállaló nyilatkozatnak az irányító hatóságot kell jogosultként megjelölnie, közreműködő szervezet kijelölése esetén pedig rögzítenie kell azt, hogy a jogosult nevében a közreműködő szervezet jár el,
+
+d) a garancia érvényesíthetőségének feltételeként csak a jogosult szabályszerűen, illetve – közreműködő szervezet kijelölése esetén – a nevében eljáró közreműködő szervezet által aláírt írásbeli felszólítás benyújtása köthető ki, amelyben a jogosult, kijelölése esetén a nevében eljáró közreműködő szervezet írásban nyilatkozik arról, hogy az alapjogviszony kötelezettje nem teljesítette fizetési vagy egyéb szerződéses kötelezettségét,
+
+e) a hitelintézet az alapjogviszony vizsgálatára a garancia lehívásakor nem jogosult,
+
+f) a garanciavállaló nyilatkozatnak az aláírástól kell érvényesnek lennie a garanciavállaló nyilatkozatban rögzített végdátumig,
+
+g) a garanciavállaló nyilatkozat az a)–f) pontokon kívül csak olyan kérdésekről rendelkezhet, amelyek nem korlátozzák a Rendelet és az egységes működési kézikönyv előírásainak érvényesíthetőségét.
+
+127.2. A garanciavállaló nyilatkozat tartalmazhatja, hogy a garancia összege minden, a hitelintézet által teljesített lehívással automatikusan csökken.
+
+127.3. Szállítói előleg esetén a garanciavállaló nyilatkozat hatályba lépésének feltételeként előírható a szállítói előlegnek a szállítónak, mint a garancia megbízójának valamely hitelintézet által vezetett bankszámláján történő jóváírása.
+
+127.4. Szállító részére történő előleg utalása esetén előírható a garanciában, hogy a közleményben fel kell tüntetni a garanciavállaló nyilatkozat számát.
+
+127.5. Ha a hitelintézeti minőséggel kapcsolatban kétség merül fel, meg kell vizsgálni a garanciavállaló nyilatkozatot kibocsátó engedélyét arra vonatkozóan, hogy milyen pénzügyi tevékenységeket végezhet.
+
+127.6. A garanciavállaló nyilatkozatnak tartalmaznia kell továbbá:
+
+a) a hitelintézet pontos és teljes nevét, székhelyét,
+
+b) a jogosult, továbbá – ha van ilyen – a jogosult nevében eljáró közreműködő szervezet nevét és székhelyét,
+
+c) annak pontos megnevezését, hogy mely jogviszony (a támogatási szerződés szerinti felek és a szerződésszám megjelölése) alapján áll fenn a fizetési kötelezettség,
+
+d) a garancia számát vagy egyedi azonosítóját,
+
+e) minden oldalon pecsétet és cégszerű aláírást,
+
+f) a pontos összeget – összeghatár-jellegű megjelöléssel – számmal és betűvel,
+
+g) a legfeljebb 15 banki munkanapban megállapított fizetési határidőt,
+
+h) annak kijelentését, hogy a garanciából származó bármely jogvita esetén a magyar jog az irányadó és a magyar bíróság az illetékes.
+
+127.7. Lehívás esetén az irányító hatóság eljárni és aláírni jogosult képviselőjének ez a minősége igazolható az alábbiakkal:
+
+a) azon eredeti iratok csatolásával, melyek igazolják a kiadmányozási és aláírási jogosultság megszakítatlan láncolatát; vagy
+
+b) a kinevezési okirat és lehívás aláírására való jogosultság, valamint aláírásminta közjegyző által hitelesített példányával.
 
 55. A kezesség
 
@@ -1286,127 +1332,21 @@ d) egyház esetén a támogatást igénylő egyházi szerv hivatalos képviselő
 
 57. A garanciaszervezet kezességvállalása
 
-131.1. Az IH közleményt ad ki azokról a garanciaszervezetekről, melyek kezességvállalását biztosítékként elfogadja. A közleményt a központi koordinációs szerv teszi közzé a www.szechenyi2020.hu honlapon. A valamely IH által megfelelőnek minősített garanciaszervezet kezességvállalása más IH hatáskörébe tartozó pályázat esetében is elfogadható külön minősítés nélkül, ha a garanciaszervezettel kapcsolatban nem merült fel olyan körülmény, amely alapján a megfelelősége megkérdőjelezhető.
+131.1. Az irányító hatóság közleményt ad ki azokról a garanciaszervezetekről, melyek kezességvállalását biztosítékként elfogadja. A közleményt az európai uniós források felhasználásáért felelős miniszter teszi közzé a www.szechenyi2020.hu honlapon. A valamely irányító hatóság által megfelelőnek minősített garanciaszervezet kezességvállalása más IH hatáskörébe tartozó támogatási kérelem esetében is elfogadható külön minősítés nélkül, ha a garanciaszervezettel kapcsolatban nem merült fel olyan körülmény, amely alapján a megfelelősége megkérdőjelezhető.
 
-131.2. A kezesi nyilatkozatnak meg kell felelnie a következőknek:
-
-a) a kezesi nyilatkozatnak rögzítenie kell a garanciaszervezet kifejezett, visszavonhatatlan fizetési kötelezettségvállalását,
-
-b) a kezesi nyilatkozatnak a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztériumot kell jogosultként megjelölnie, és rögzítenie kell azt, hogy a jogosult nevében a KSZ jár el,
-
-c) a kezesi nyilatkozat érvényesíthetőségének feltételeként csak a következők köthetők ki:
-
-ca) a jogosult, vagy a nevében eljáró KSZ által cégszerűen aláírt írásbeli felszólítás benyújtása, amelyben a jogosult, vagy a nevében eljáró KSZ írásban nyilatkozik arról, hogy az alapjogviszony kötelezettje nem teljesítette fizetési vagy egyéb szerződéses kötelezettségét,
-
-cb) az alapjogviszony kötelezettje számára a jogosult vagy a KSZ részéről megküldött, a szerződésszegés okát rögzítő értesítés másolata,
-
-d) a kezesi nyilatkozatnak az aláírástól kell érvényesnek lennie a kezesi nyilatkozatban rögzített végdátumig,
-
-e) szállítói előleg biztosítására nyújtott kezesi nyilatkozat esetén előírható a kezesi nyilatkozat összegének abban az időpontban történő automatikus csökkenése, amikor a KSZ a garanciaszervezethez benyújtja a szállító által elszámolt előleg összegét pontosan megjelölő nyilatkozatát,
-
-f) a kezesi nyilatkozat nem írhat elő olyan további feltételt, amely az egységes működési kézikönyv előírásainak érvényesíthetőségét korlátozza.
-
-131.3. A kezesi nyilatkozatnak tartalmaznia kell továbbá:
-
-a) a garanciaszervezet pontos és teljes nevét, székhelyét,
-
-b) a jogosult, továbbá a jogosult nevében eljáró KSZ nevét és székhelyét,
-
-c) annak pontos megnevezését, hogy mely jogviszony (a támogatási szerződés szerinti felek és a szerződésszám megjelölése) alapján áll fenn a fizetési kötelezettség,
-
-d) a kezesi nyilatkozat számát vagy egyedi azonosítóját,
-
-e) minden oldalon pecsétet és cégszerű aláírást,
-
-f) a pontos összeget – összeghatár-jellegű megjelöléssel – számmal és betűvel,
-
-g) a legfeljebb 15 banki munkanapban megállapított fizetési határidőt,
-
-h) annak kijelentését, hogy a kezességvállalásból származó bármely jogvita esetén a magyar jog az irányadó és a magyar bíróság az illetékes.
+131.2. A kezesi nyilatkozat formai és tartalmi követelményeire vonatkozóan 126–127.8. pontokat kell alkalmazni azzal az eltéréssel, hogy ahol a 126–127.8. pont garanciavállaló nyilatkozatot említ, azon kezesi nyilatkozatot, ahol hitelintézetet azon garanciaszervezetet kell érteni.
 
 58. A biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvény
 
 132.1. Biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvény alatt a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény hatálya alá tartozó intézmények által kiállított kötelezvény értendő.
 
-132.2. A kötelezvénynek meg kell felelnie a következőknek:
-
-a) a kötelezvénynek rögzítenie kell a biztosító kifejezett, visszavonhatatlan fizetési kötelezettségvállalását,
-
-b) a kötelezvénynek a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztériumot kell jogosultként megjelölnie, és rögzítenie kell azt, hogy a jogosult nevében a KSZ jár el,
-
-c) a kötelezvény érvényesíthetőségének feltételeként csak a következők köthetők ki:
-
-ca) a jogosult, vagy a nevében eljáró KSZ által cégszerűen aláírt írásbeli felszólítás benyújtása, amelyben a jogosult, vagy a nevében eljáró KSZ írásban nyilatkozik arról, hogy az alapjogviszony kötelezettje nem teljesítette fizetési vagy egyéb szerződéses kötelezettségét,
-
-cb) az alapjogviszony kötelezettje számára a jogosult vagy a KSZ részéről megküldött, a szerződésszegés okát rögzítő értesítés másolata,
-
-d) a kötelezvénynek az aláírástól kell érvényesnek lennie a kötelezvényben rögzített végdátumig,
-
-e) szállítói előleg biztosítására nyújtott kötelezvény esetén előírható a kötelezvény összegének abban az időpontban történő automatikus csökkenése, amikor a KSZ a biztosítóhoz benyújtja a szállító által elszámolt előleg összegét pontosan megjelölő nyilatkozatát,
-
-f) a kötelezvény nem írhat elő olyan további feltételt, amely az egységes működési kézikönyv előírásainak érvényesíthetőségét korlátozza.
-
-132.3. A kötelezvénynek tartalmaznia kell továbbá:
-
-a) a biztosító pontos és teljes nevét, székhelyét,
-
-b) a jogosult, továbbá a jogosult nevében eljáró KSZ nevét és székhelyét,
-
-c) annak pontos megnevezését, hogy mely jogviszony (a támogatási szerződés szerinti felek és a szerződésszám megjelölése) alapján áll fenn a fizetési kötelezettség,
-
-d) a kötelezvény számát vagy egyedi azonosítóját,
-
-e) minden oldalon pecsétet és cégszerű aláírást,
-
-f) a pontos összeget – összeghatár-jellegű megjelöléssel – számmal és betűvel,
-
-g) a legfeljebb 15 banki munkanapban megállapított fizetési határidőt,
-
-h) annak kijelentését, hogy jelen kötelezettségvállalásból származó bármely jogvita esetén a magyar jog az irányadó és a magyar bíróság az illetékes.
+132.2. A kötelezvény formai és tartalmi követelményeire vonatkozóan a 126–127.8. pontokat kell alkalmazni azzal az eltéréssel, hogy ahol a 126–127.8. pont garanciavállaló nyilatkozatot említ, azon kötelezvényt, ahol hitelintézetet említ, azon a 132.1. pont szerinti intézményt, ahol garanciát, azon kötelezvényt kell érteni.
 
 59. A hitelintézet által kiállított – készfizető kezességvállalást tartalmazó – kötelezvény
 
 133.1. A 193.2. ponttal összefüggésben a hitelintézet által kiállított – készfizető kezességvállalást tartalmazó – kötelezvény alatt a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény hatálya alá tartozó hitelintézetek által kiállított kötelezvényt kell érteni.
 
-133.2. A kötelezvénynek meg kell felelnie a következőknek:
-
-a) pénzügyi vállalkozás által kibocsátott kötelezvény nem fogadható el,
-
-b) a kötelezvénynek rögzítenie kell a hitelintézet kifejezett, visszavonhatatlan, önálló fizetési kötelezettségvállalását,
-
-c) a kötelezvénynek a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztériumot kell jogosultként megjelölnie, és rögzítenie kell azt, hogy a jogosult nevében a KSZ jár el,
-
-d) a kötelezvény érvényesíthetőségének feltételeként csak a jogosult, vagy a nevében eljáró KSZ által cégszerűen aláírt írásbeli felszólítás benyújtása köthető ki, amelyben a jogosult, vagy a nevében eljáró KSZ írásban nyilatkozik arról, hogy az alapjogviszony kötelezettje nem teljesítette fizetési vagy egyéb szerződéses kötelezettségét,
-
-e) a hitelintézet az alapjogviszony vizsgálatára a kezességvállalás lehívásakor nem jogosult,
-
-f) a kötelezvénynek az aláírástól kell érvényesnek lennie a kötelezvényben rögzített végdátumig,
-
-g) szállítói előleg biztosítására nyújtott kötelezvény esetén előírható a kötelezvény összegének abban az időpontban történő automatikus csökkenése, amikor a KSZ a hitelintézethez benyújtja a szállító által elszámolt előleg összegét pontosan megjelölő nyilatkozatát,
-
-h) a kötelezvény nem írhat elő olyan további feltételt, amely az egységes működési kézikönyv előírásainak érvényesíthetőségét korlátozza.
-
-133.3. Ha a hitelintézeti minőséggel kapcsolatban kétség merül fel, meg kell vizsgálni a kötelezvényt kibocsátó engedélyét arra vonatkozóan, hogy milyen pénzügyi tevékenységeket végezhet.
-
-133.4. A kötelezvénynek tartalmaznia kell továbbá:
-
-a) a hitelintézet pontos és teljes nevét, székhelyét,
-
-b) a jogosult, továbbá a jogosult nevében eljáró KSZ nevét és székhelyét,
-
-c) annak pontos megnevezését, hogy mely jogviszony (a támogatási szerződés szerinti felek és a szerződésszám megjelölése) alapján áll fenn a fizetési kötelezettség,
-
-d) a kötelezvény számát vagy egyedi azonosítóját,
-
-e) minden oldalon pecsétet és cégszerű aláírást,
-
-f) a pontos összeget – összeghatár-jellegű megjelöléssel – számmal és betűvel,
-
-g) a legfeljebb 15 banki munkanapban megállapított fizetési határidőt,
-
-h) annak kijelentését, hogy jelen kötelezettségvállalásból származó bármely jogvita esetén a magyar jog az irányadó és a magyar bíróság az illetékes,
-
-i) – ha releváns – a hatálybalépési feltétel kikötését.
+133.2. A kötelezvény formai és tartalmi követelményeire vonatkozóan 126–127.8. pontokat kell alkalmazni azzal az eltéréssel, hogy ahol a 126–127.8 pont garanciavállaló nyilatkozatot említ, azon kötelezvényt, ahol garanciát azon készfizető kezességet kell érteni.
 
 VII. Fejezet
 
@@ -4912,5 +4852,41 @@ g) az IH döntése vagy intézkedése elleni kifogás esetén annak megjelölés
 
 468.1. Ha a kifogás érdemi vizsgálat nélküli elutasításának nincs helye, az IH az érdemi vizsgálat keretében megvizsgálja az önrevízió lehetőségét.
 
+468.2. Ha az önrevízió feltételei fennállnak, az IH eleget tesz a Rendelet 82. § (4) bekezdés a) pontja szerinti kötelezettségeinek és ezzel a kifogás kezelését lezárja, ellenkező esetben az IH megküldi a központi koordinációs szerv részére a kifogást, valamint a kifogás valamennyi elemét érintő írásbeli szakmai álláspontját a Rendelet 82. § (4) bekezdés b) pontja szerinti, álláspontjának alapjául szolgáló írásbeli dokumentumokkal együtt.
+
+468.3. Az IH a kifogással kapcsolatos álláspontját a monitoring és információs rendszerben a központi koordinációs szervhez történő megküldést követő 3 napon belül rögzíti.
+
+469.1. A kifogás tárgyában a Rendelet 82. § (5) bekezdése, 82/A. § (2) bekezdése és 82/B. §-a szerint a központi koordinációs szerv dönt, majd eleget tesz a Rendelet 82. § (6) bekezdése szerinti kötelezettségének és a kifogás kezelését lezárja.
+
+469.2. A központi koordinációs szerv a KSZ-től, az IH-tól a kifogás elbírálásához további dokumentumokat kérhet be, melyet a KSZ, az IH köteles a központi koordinációs szerv által meghatározott határidőn belül megküldeni.
+
+469.3. A kifogás elbírálásának határidejét a felterjesztést követően a Rendelet 82. § (2) bekezdése szerint a központi koordinációs szerv meghosszabbíthatja.
+
+469.4. A központi koordinációs szerv döntését a monitoring és információs rendszerben 3 napon belül rögzíti és a kifogás kezelését lezárja.
+
+XIV. Fejezet
+
+Szabálytalanságkezelés
+
+209. Értelmező rendelkezések
+
+470. E fejezet alkalmazásában szabálytalansági gyanú: szabálytalanság elkövetésére megalapozottan utaló tények, körülmények, vagy dokumentumok, amelyből alappal lehet következtetni a szabálytalanság tényállási elemeinek fennállására.
+
+210. A szabálytalansági gyanú észlelése
+
+471.1. Aki szabálytalansági gyanút észlel, vagy szabálytalansági gyanú jut a tudomásra (így különösen munkafolyamatba épített ellenőrzés keretében, helyszíni ellenőrzés lefolytatása során, a belső ellenőrzés munkája során, az ellenőrzésre jogosult egyéb szervek megállapításai, jelentései alapján, közbeszerzési döntőbizottsági, közigazgatási, bírósági eljárás alapján, bejelentések, illetve feljelentések alapján, sajtóhírekből, korábbi szabálytalansági eljárás jogorvoslata során), a tudomásra jutástól számított 3 napon belül a szabálytalansági gyanú bejelentő adatlapon rögzíti a szabálytalanság gyanúját és azt haladéktalanul megküldi az illetékes szervezet (IH vagy KSZ) szabálytalanságfelelősének.
+
+471.2. A szabálytalansági gyanú észlelője a Rendelet 39. § (3) bekezdésére, 40/A. §-ára, valamint 62. §-ára tekintettel a gyanúbejelentéssel kapcsolatos halaszthatatlan eljárási cselekmények elvégzéséről gondoskodik.
+
+211. A szabálytalanságfelelős előzetes eljárása
+
+472. A szabálytalanságfelelős a gyanúbejelentés kézhezvételétől számított 3 napon belül
+
+a) megvizsgálja, hogy jogosult-e a szervezete a szabálytalansági gyanú ügyében eljárni,
+
+b) megvizsgálja, hogy ugyanaz a szabálytalansági gyanú korábban volt-e már szabálytalansági eljárás tárgya,
+
+c) tájékozódik a gyanúra utaló tényről, körülményről vagy dokumentumokról, melynek során helyszíni ellenőrzést tarthat, iratokba betekinthet, személyeket hallgathat meg, (külső) szakértő véleményét kérheti ki,
+
 [^4]: Az 5. §-t a 203/2014. (VIII. 14.) Korm. rendelet 12. §-a iktatta be.
-[^5]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a szerint módosított szöveg.
