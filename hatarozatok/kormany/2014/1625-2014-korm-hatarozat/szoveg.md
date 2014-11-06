@@ -4,4 +4,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-2. A határozat 1. mellékletében a „Szerződéskötési feltétel: A költségvetési tábla javítása a tisztázó válaszban megadott új támogatási aránynak megfelelően. Kifizetési feltételek: Az első kifizetési kérelem benyújtásáig vagy a kivitelezői tender minőségbiztosításra történő benyújtásáig a hiányzó vízjogi engedélyek benyújtása a Közreműködő Szervezet részére. Az első kifizetési kérelem benyújtásáig a tulajdonviszonyok rendezettségének igazolása.” szövegrész helyébe „A záró kifizetési kérelem benyújtásáig a támogatást igénylőnek be kell mutatnia a vízjogi létesítési engedélyeket és igazolnia kell a tulajdonviszonyok rendezettségét az irányító hatóság részére.” szöveg lép.
+2.[^2]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
