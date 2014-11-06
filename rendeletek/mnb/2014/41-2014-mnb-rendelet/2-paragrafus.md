@@ -1,0 +1,5 @@
+2. § (1) A négyzet alakú emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 14 gramm, mérete 28,43 mmŰ28,43 mm, széle sima.
+
+(2) Az emlékérme előlapján, a középmezőben a Ganz Ábrahám által alapított egykori vasöntöde épületének ábrázolása látható, előtérben az általa szabadalmaztatott kéregöntéses technológiával gyártott vasúti kerékkel. Az épület kémények alatti homlokzatán az „ALAPÍTVA: 1844” felirat olvasható. Az emlékérme szélén, fent a „MAGYARORSZÁG” felirat, lent, a bal oldali peremmel párhuzamosan a „2014” verési évszám és a „BP.” verdejel olvasható. A vasúti keréktől jobbra, egymás alatti két vízszintes sorban a „2000” értékjelzés és a „FORINT” felirat olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a jobb oldali mezőben Ganz Ábrahám mellképe látható, a mellkép jobb szélén Bitó Balázs tervezőművész mesterjegyével. A mellképtől balra fent, egymás alatti két vízszintes sorban a „GANZ” és az „ÁBRAHÁM”, lent, a bal oldali peremmel párhuzamosan az „1814 – 1867” felirat olvasható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
