@@ -1,0 +1,31 @@
+## 30. Biztosítékok
+
+83. § (1) A támogatási szerződésben rendelkezni kell a támogatás visszavonásának, a támogatási szerződéstől történő elállásnak, illetve szabálytalanság esetén a visszafizetendő támogatás visszafizetésének biztosítékairól. A támogatás visszafizetésének biztosítéka a felhívásban meghatározottak szerint lehet
+
+a) garanciavállaló nyilatkozat,
+
+b) ingatlan jelzálogjog,
+
+c) a támogatást igénylő gazdasági társaság vagy nonprofit szervezet cégjegyzésre jogosult vezető tisztségviselőjének vagy legalább 50%-os közvetlen tulajdonrésszel rendelkező tulajdonosának, vagy együttesen legalább 50%-os közvetlen tulajdonrésszel rendelkező természetes személy tulajdonosainak kezességvállalása,
+
+d) garanciaszervezet által vállalt kezesség,
+
+e) biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvény, vagy
+
+f) az Áht. 92. § (1) bekezdése szerinti állami kezesség.
+
+(2) A biztosítéknak rendelkezésre kell állnia a fenntartási kötelezettség megszűnéséig. A biztosíték a biztosítéknyújtási kötelezettséggel érintett időszaknál rövidebb lejárattal is rendelkezésre bocsátható azzal, hogy az érintett biztosíték érvényességének lejártát legalább 45 nappal megelőzően annak meghosszabbítását vagy cseréjét a kedvezményezettnek igazolnia kell. Ennek elmaradása a kifizetések elutasítását, illetve szabálytalansági eljárást von maga után, továbbá az irányító hatóság a támogatási szerződéstől elállhat.
+
+(3) A biztosítéki értéknek fedeznie kell legalább a kifizetési igénylésben igényelt, továbbá a már kifizetett támogatás együttes összegét. A záró kifizetési igényléshez a biztosíték értékét csak akkor szükséges kiegészíteni, ha az addig nyújtott biztosíték nem éri el a kedvezményezett által a fenntartási időszakban nyújtandó biztosítéki értéket. Biztosíték legfeljebb a projektre megítélt támogatási összeget elérő értékig kérhető. Nem kell biztosítékot nyújtani a húszmillió forintot meghaladó, de az ötvenmillió forintot meg nem haladó támogatással megvalósuló beruházási projekt esetén a fenntartási időszakra vonatkozóan. Az ötvenmillió forintot meghaladó támogatással megvalósuló beruházási projekt esetén a fenntartási időszakra a kifizetett támogatás 50%-ának megfelelő mértékű biztosítékot kell nyújtani.
+
+(4) Közszolgáltatási tevékenységre irányuló támogatási szerződéssel, valamint közszolgáltatás nyújtásáról szóló, legalább a fenntartási időszak végéig hatályos szerződéssel rendelkező, többségi állami, helyi önkormányzati, illetve nemzetiségi önkormányzati tulajdonban álló gazdasági társaságnak nem kell biztosítékot nyújtania a fenntartási időszakra.
+
+(5) A kifizetett támogatás 10%-ának megfelelő biztosítékot kell nyújtania a fenntartási időszakban annak a fenntartási időszakban egyébként biztosíték nyújtására köteles kedvezményezettnek, aki a támogatási szerződés megkötésekor a megvalósítási időszakra vállalt indikátorokat a támogatási szerződés megkötésekor meghatározott határidőben teljesítette, és a projekt megvalósítása alatt az arra jogosult szerv nem állapított meg szabálytalanságot a projekttel kapcsolatban.
+
+(6) Zálogjog alkalmazásánál első ranghelyű jelzálogjogot kell előírni. Második vagy további ranghelyre – akár ranghelycsere útján történő – bejegyzés akkor alkalmas elfogadásra, ha a korábbi ranghelyű bejegyzések teljesítése esetén a vagyontárgy értéke még fedezetet nyújt a támogatási összegre.
+
+(7) Ha az adott biztosíték a vonatkozó jogszabályok szerint valamely nyilvántartásba való bejegyzéssel jön létre, a bejegyzés a támogatás folyósításának feltétele. A támogatási összeg – ideértve az előleget is – első folyósítása csak akkor engedélyezhető, ha a biztosíték rendelkezésre áll.
+
+(8) A kedvezményezett számára a biztosítékcserét lehetővé kell tenni, ha az új biztosíték végrehajthatósága, illetve az általa fedezett érték megfelel a biztosítékokra vonatkozó feltételeknek.
+
+(9) A kedvezményezett a kifizetési igénylésben igényelt támogatási összegnek megfelelően megemelt biztosíték meglétét legkésőbb a kifizetési igénylés benyújtásával egyidejűleg köteles igazolni. Ha ez a kifizetési igénylés hiánypótlását követően is elmarad, a kifizetési igénylést el kell utasítani. Ha a kedvezményezett a megemelt biztosíték meglétét később igazolja, akkor az elutasított kifizetési kérelem ismételten benyújtható.

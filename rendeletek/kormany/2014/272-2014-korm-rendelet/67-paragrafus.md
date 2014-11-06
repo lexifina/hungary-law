@@ -1,0 +1,11 @@
+## 67. § Az 58–65. §-tól eltérően a program vonatkozó prioritása keretén belül
+
+a) a felhívás keretében fel nem használt, vagy
+
+b) a megítélt, támogatási szerződésben rögzített, de
+
+ba) a kedvezményezett által fel nem használt,
+
+bb) az irányító hatóság által visszatartott, vagy
+
+bc) a kedvezményezett által visszafizetett
