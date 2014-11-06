@@ -6,6 +6,6 @@
 
 (4) A konzorciumot a lebonyolításban érintett szervezettel szemben a konzorciumi tagok által a konzorciumi szerződésben kijelölt tag képviselheti.
 
-(5)[^112] A konzorcium valamely tagja által a konzorcium nevében kötött szerződésért a tagok felelőssége egyetemleges, kivéve, ha a támogatási szerződésben ettől eltérően rendelkeznek.
+(5)[^115] A konzorcium valamely tagja által a konzorcium nevében kötött szerződésért a tagok felelőssége egyetemleges, kivéve, ha a támogatási szerződésben ettől eltérően rendelkeznek.
 
-[^112]: A 23. § (5) bekezdése a 25/2012. (II. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^115]: A 23. § (5) bekezdése a 25/2012. (II. 29.) Korm. rendelet 13. §-ával megállapított szöveg.

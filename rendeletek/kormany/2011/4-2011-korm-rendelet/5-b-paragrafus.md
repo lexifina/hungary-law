@@ -1,4 +1,4 @@
-5/B. §[^48] (1) Az irányító hatóság – a központi koordinációs szerv és a kincstár között létrejött szerződés keretei között – kockázatelemzés alapján legalább évente elvégzi a közreműködő szervezetre átruházott feladatok végrehajtásának ellenőrzését.
+5/B. §[^51] (1) Az irányító hatóság – a központi koordinációs szerv és a kincstár között létrejött szerződés keretei között – kockázatelemzés alapján legalább évente elvégzi a közreműködő szervezetre átruházott feladatok végrehajtásának ellenőrzését.
 
 (2) A kincstár
 
@@ -16,4 +16,4 @@ d) az irányító hatóság által meghatározott közreműködő szervezettel k
 
 (3) A központi koordinációs szerv az ellenőrzés eredményét tartalmazó dokumentumot az ellenőrzés lezárását követő 7 napon belül megküldi az igazoló hatóság, az ellenőrző hatóság és az államháztartásért felelős miniszter részére.
 
-[^48]: Az 5/B. §-t az 548/2013. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^51]: Az 5/B. §-t az 548/2013. (XII. 30.) Korm. rendelet 4. §-a iktatta be.

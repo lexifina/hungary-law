@@ -1,4 +1,4 @@
-## 5. [^49] Az ágazati fejlesztésért felelős miniszter feladatai
+## 5. [^52] Az ágazati fejlesztésért felelős miniszter feladatai
 
 6. § (1) Az ágazati fejlesztésért felelős miniszter
 
@@ -14,7 +14,7 @@ e) szakmai szempontból nyomon követi a feladatkörébe tartozó pályázati fe
 
 f) javaslatot tesz – az érintett miniszter véleményének kikérésével – a támogatási konstrukciók szakmai tartalmára, melynek keretében biztosítja, hogy a szakmai tartalom illeszkedjen a Kormány ágazati stratégai céljaihoz.
 
-(2)[^50] A technikai segítségnyújtás projektjei esetében az (1) bekezdés szerinti feladatokat az európai uniós források felhasználásáért felelős miniszter – az ágazati fejlesztésért felelős miniszterrel együttműködve – látja el.
+(2)[^53] A technikai segítségnyújtás projektjei esetében az (1) bekezdés szerinti feladatokat az európai uniós források felhasználásáért felelős miniszter – az ágazati fejlesztésért felelős miniszterrel együttműködve – látja el.
 
-[^49]: Az 5. alcím (6. §) az 548/2013. (XII: 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^50]: A 6. § (2) bekezdése a 203/2014. (VIII. 14.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^52]: Az 5. alcím (6. §) az 548/2013. (XII: 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^53]: A 6. § (2) bekezdése a 203/2014. (VIII. 14.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.

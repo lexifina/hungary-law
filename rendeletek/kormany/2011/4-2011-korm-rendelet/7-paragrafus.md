@@ -4,13 +4,13 @@
 
 (2) Az államháztartásért felelős miniszter az alapokból származó támogatások ellenőrzésének szabályozása, harmonizációja, koordinációja során, amelyet a központi harmonizációs egységen keresztül lát el, gondoskodik
 
-a)[^51] az alapokból származó támogatások az irányítási és kontrollrendszerére vonatkozó nemzeti jogszabályok és módszertanok előkészítéséről, kidolgozásáról és folyamatos továbbfejlesztéséről,
+a)[^54] az alapokból származó támogatások az irányítási és kontrollrendszerére vonatkozó nemzeti jogszabályok és módszertanok előkészítéséről, kidolgozásáról és folyamatos továbbfejlesztéséről,
 
-b)[^52] az ellenőrzési vonatkozású uniós jogszabályok és módszertani útmutatók kialakításában, továbbfejlesztésében, a magyar álláspont képviseletében való részvételről,
+b)[^55] az ellenőrzési vonatkozású uniós jogszabályok és módszertani útmutatók kialakításában, továbbfejlesztésében, a magyar álláspont képviseletében való részvételről,
 
 c) az ellenőrzéseknek a megfelelő nemzetközi ellenőrzési standardok és harmonizált módszertan szerint történő lefolytatásáról,
 
-d)[^53] az 1083/2006/EK tanácsi rendelet 71. cikk (2) bekezdésének megfelelően az irányítási és kontrollrendszerek felállításáról szóló – az ellenőrzési hatóság által elkészített – értékelés (akkreditáció) kritériumrendszerének véleményezéséről,
+d)[^56] az 1083/2006/EK tanácsi rendelet 71. cikk (2) bekezdésének megfelelően az irányítási és kontrollrendszerek felállításáról szóló – az ellenőrzési hatóság által elkészített – értékelés (akkreditáció) kritériumrendszerének véleményezéséről,
 
 e) a nemzeti ellenőrzési stratégiában foglalt ellenőrzések és az alapokból származó támogatások lebonyolításában, ellenőrzésében érintett szervezetek által az alapokból származó támogatások tekintetében végzett egyéb ellenőrzések áttekintéséről, harmonizálásáról, ezek révén az ellenőrzési erőforrások átfedésektől mentes, hatékony és eredményes felhasználásának biztosításáról,
 
@@ -20,11 +20,11 @@ g) az Európai Bizottság által végzett ellenőrzésekre adandó tagállami v�
 
 h) minőségértékelés keretében a folyamatba épített ellenőrzéseket, továbbá a rendszer- és mintavételes ellenőrzéseket végző szervezetek tekintetében a jogszabályok, a módszertani útmutatók, a nemzetközi ellenőrzési standardok alkalmazásának és végrehajtásának figyelemmel kíséréséről, vizsgálatáról,
 
-i)[^54] az európai uniós támogatások ellenőrzésének helyzetére vonatkozó beszámoló készítéséről a Nemzeti Fejlesztési Kormánybizottság számára.
+i)[^57] az európai uniós támogatások ellenőrzésének helyzetére vonatkozó beszámoló készítéséről a Nemzeti Fejlesztési Kormánybizottság számára.
 
 (3) Az ellenőrzési hatóság az Európai Bizottság és az államháztartásért felelős miniszter iránymutatásai, valamint a nemzetközileg elfogadott standardok alapján
 
-a)[^55] az 1083/2006/EK tanácsi rendelet 71. cikk (2) bekezdésének megfelelően kidolgozza az irányítási és kontrollrendszerek értékelése kritériumrendszerét, lefolytatja az értékelést, elkészíti az értékelésről szóló jelentést és véleményt,
+a)[^58] az 1083/2006/EK tanácsi rendelet 71. cikk (2) bekezdésének megfelelően kidolgozza az irányítási és kontrollrendszerek értékelése kritériumrendszerét, lefolytatja az értékelést, elkészíti az értékelésről szóló jelentést és véleményt,
 
 b) elkészíti a nemzeti ellenőrzési stratégiát,
 
@@ -52,7 +52,7 @@ a) az alapokból származó támogatások folyósítása érdekében összeáll�
 
 b) a költségek megfelelőségének ellenőrzése érdekében tényfeltáró vizsgálatot és tényfeltáró látogatást végez a pénzügyi lebonyolításban részt vevő szervezeteknél,
 
-c)[^56] az irányító hatóság által a központi koordinációs szerv útján megküldött kifizetési ütemezések alapján összeállítja és benyújtja a tárgyévre és a következő évre vonatkozó kifizetési előrejelzéseket az Európai Bizottság részére,
+c)[^59] az irányító hatóság által a központi koordinációs szerv útján megküldött kifizetési ütemezések alapján összeállítja és benyújtja a tárgyévre és a következő évre vonatkozó kifizetési előrejelzéseket az Európai Bizottság részére,
 
 d) fogadja az alapokból származó támogatásokat az Európai Bizottságtól,
 
@@ -60,9 +60,9 @@ e) vezeti az igazoló hatóság pénzügyi nyilvántartásait, ennek keretében 
 
 f) végrehajtja az adminisztratív hibák, valamint az operatív program megvalósítása során bekövetkezett szabálytalanságok következtében szükségessé váló pénzügyi korrekciókat, és elszámol az alapokból származó visszafizetett támogatásokról az Európai Bizottsággal.
 
-[^51]: A 7. § (2) bekezdés a) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 3. pontja szerint módosított szöveg.
-[^52]: A 7. § (2) bekezdés b) pontja a 302/2013. (VII. 29.) Korm. rendelet 54. § c) pontja szerint módosított szöveg.
-[^53]: A 7. § (2) bekezdés d) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 4. pontja szerint módosított szöveg.
-[^54]: A 7. § (2) bekezdés i) pontja a 176/2012. (VII. 26.) Korm. rendelet 29. § 3. pontja szerint módosított szöveg.
-[^55]: A 7. § (3) bekezdés a) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 5. pontja szerint módosított szöveg.
-[^56]: A 7. § (4) bekezdés c) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 8. pontja szerint módosított szöveg.
+[^54]: A 7. § (2) bekezdés a) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 3. pontja szerint módosított szöveg.
+[^55]: A 7. § (2) bekezdés b) pontja a 302/2013. (VII. 29.) Korm. rendelet 54. § c) pontja szerint módosított szöveg.
+[^56]: A 7. § (2) bekezdés d) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 4. pontja szerint módosított szöveg.
+[^57]: A 7. § (2) bekezdés i) pontja a 176/2012. (VII. 26.) Korm. rendelet 29. § 3. pontja szerint módosított szöveg.
+[^58]: A 7. § (3) bekezdés a) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 5. pontja szerint módosított szöveg.
+[^59]: A 7. § (4) bekezdés c) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 8. pontja szerint módosított szöveg.
