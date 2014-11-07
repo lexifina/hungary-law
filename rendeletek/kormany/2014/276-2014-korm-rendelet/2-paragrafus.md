@@ -1,0 +1,1 @@
+## 1. § A közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 9. § (1) bekezdés a) pontja szerinti kivételi esetben nem indítható beszerzési eljárás a Kbt. 182. § (1) bekezdés 12. pontjában kapott felhatalmazás alapján kiadott kormányrendelet hatálybalépéséig.
