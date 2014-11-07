@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-232-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-09-11 | 2014-232-20-22.1 | 232/2014. (IX. 10.) Korm. rendelet |
+| 2014-11-07 | 2014-232-20-22.2 | 273/2014. (XI. 6.) Korm. rendelet |
