@@ -1,5 +1,0 @@
-40. § (1) A gazdasági szereplő a minősített adatokat keletkeztető, továbbá megismerését igénylő vagy minősített adatokat tartalmazó beszerzési szerződések esetében a beszerzési eljárás során bizonyítani köteles azt, hogy alkalmas az ilyen adatoknak a Mavtv.-ben foglalt előírásoknak megfelelő feldolgozására, felhasználására, tárolására és továbbítására.
-
-(2) Az ajánlatkérő köteles elismerni a nemzeti joggal összhangban kiadott biztonsági tanúsítványokkal egyenértékűnek tekintett biztonsági tanúsítványokat, fenntartva ugyanakkor a lehetőséget, hogy amennyiben szükségesnek ítéli, akkreditált szervnél ellenőrző vizsgálat lefolytatását kezdeményezheti.
-
-(3) Az ajánlatkérő a „Bizalmas!” vagy annál magasabb minősítési szintű adatokat érintő beszerzési eljárás során a nem Magyarországon letelepedett részvételre jelentkező esetén az NBF útján beszerzi a részvételre jelentkező tagállama nemzeti biztonsági hatóságának igazolását az érintett gazdálkodó szervezet telephely biztonsági tanúsítványának meglétére vonatkozóan.
