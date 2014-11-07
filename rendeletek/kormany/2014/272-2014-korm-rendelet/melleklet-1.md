@@ -1,8 +1,4 @@
-## „59. A hitelintézet által kiállított – készfizető kezességvállalást tartalmazó – kötelezvény
-
-## 133.1. A 193.2. ponttal összefüggésben a hitelintézet által kiállított – készfizető kezességvállalást tartalmazó – kötelezvény alatt a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény hatálya alá tartozó hitelintézetek által kiállított kötelezvényt kell érteni.
-
-## 133.2. A kötelezvény formai és tartalmi követelményeire vonatkozóan 126–127.8. pontokat kell alkalmazni azzal az eltéréssel, hogy ahol a 126–127.8 pont garanciavállaló nyilatkozatot említ, azon kötelezvényt, ahol garanciát azon készfizető kezességet kell érteni.”
+## 206–208. §[^4]
 
 1. melléklet a 272/2014. (XI. 5.) Korm. rendelethez
 
@@ -737,3 +733,109 @@ k) e rendelet 80. § (2) és (3) bekezdésére történő utalást, ha az alkalm
 56.1. E rendelet 81. § (3) bekezdése szerinti határidő kezdete a támogatói döntésről szóló értesítésnek a Pályázati e-ügyintézés felületen történt átvételének napja.
 
 56.2. A szerződéskötéshez az irányító hatóság kizárólag olyan dokumentumokat és igazolásokat kérhet be, melyeket a kedvezményezett a támogatás igénylésekor még nem nyújtott be, kivéve, ha azok tartalma módosult.
+
+56.3. Ha a kedvezményezettől bekért adatok a monitoring és információs rendszer és a közigazgatásban lévő, hozzáférhető adatbázisok közti elektronikus adatkapcsolat útján is elérhetőek, ezen adatokat a kedvezményezettnek nem kell benyújtani. Ha a monitoring és információs rendszer és az adatbázisok közötti adatkapcsolat nem érhető el, úgy ezen adatokat a kedvezményezettől kell bekérni.
+
+56.4. Nem szükséges benyújtani e rendelet 77. § (1) bekezdés b) pontja szerinti dokumentumot, ha az az OCCR adatbázisban rendelkezésre áll.
+
+57. A kedvezményezett által megküldött dokumentumok, igazolások megfelelőségét, valamint a támogatási kérelemtámogatási kérelemben és a beküldött dokumentumokban és igazolásokban szereplő adatok azonosságát, eltérés esetén a támogatást igénylő jogosultságát az irányító hatóság a monitoring és információs rendszer vonatkozó ellenőrzési listája alapján megvizsgálja.
+
+58.1. Szerződéskötésre akkor kerülhet sor, ha a támogatási szerződés megkötéséhez szükséges dokumentumok, igazolások a megadott határidőn belül hiánytalanul és hibátlanul rendelkezésre állnak és a kedvezményezett minden, a támogatási szerződés megkötéshez szükséges feltételt teljesített, kivéve, ha e rendelet 80. § (3) bekezdésének alkalmazására kerül sor.
+
+58.2. A támogatási szerződés megkötésének napja az a nap, amikor az utolsó aláíró is aláírta vagy ellenjegyezte a támogatási szerződést. Ha a támogatási szerződést nem minősített elektronikus aláírással írták alá, a támogatási szerződést 10 napon belül szkennelve, pdf formátumban elérhetővé kell tenni a monitoring és információs rendszer Dokumentumtárban.
+
+58.3. Nagyprojekt esetén, ha közreműködő szervezet kijelölésre került, és a támogatási szerződést a közreműködő szervezet írta alá, az irányító hatóság a támogatási szerződést a jóváhagyását igazoló ellenjegyzéssel látja el.
+
+59.1. Ha támogatási szerződést nem minősített elektronikus aláírással írják alá, az irányító hatóság az aláírt támogatási szerződést a kedvezményezett részére a támogatási szerződés megkötéséhez szükséges dokumentumok beérkezésétől számított 10 napon belül a Pályázati e-ügyintézés felület rendelkezésre állása esetén is megküldi postai úton is.
+
+59.2. Ha a kedvezményezett arról tájékoztatja az irányító hatóságot, hogy a támogató döntés ellenére nem valósítja meg a projektet és a támogatási szerződés megkötésétől visszalép, az irányító hatóság ennek tudomásulvételéről értesíti a kedvezményezettet.
+
+59.3. Támogatás kizárólag hatályos támogatási szerződés alapján folyósítható.
+
+60.1. A támogatási szerződés megkötése előtt az irányító hatóság helyszíni szemlét rendelhet el. Helyszíni szemle elrendelése esetén a szemle eredményének megismerését és kiértékelését megelőzően a szerződést nem lehet megkötni. A helyszíni szemle időtartama a szerződéskötésre rendelkezésre álló határidőt nem szakítja meg.
+
+60.2. Helyszíni szemle elrendelésére különösen akkor kerülhet sor, ha
+
+a) az irányító hatóság által hozott döntésben támasztott feltételeket a helyszínen kell ellenőrizni,
+
+b) a szerződéskötési feltételek teljesülését a helyszínen kell ellenőrizni.
+
+60.3. Az irányító hatóság értesíti a kedvezményezettet a helyszíni szemle időpontjáról és céljáról, a helyszínen megvizsgálandó dokumentumokról és információkról.
+
+60.4. A helyszíni szemlét az irányító hatóság vezetője által megbízólevéllel megbízott személyek végezhetik. A helyszíni szemlét legalább két fő végezheti.
+
+60.5. A helyszíni szemle megkezdése előtt a szemlét végzők kötelesek összeférhetetlenségi és titoktartási nyilatkozatot tenni.
+
+60.6. A helyszíni szemle eredményét jegyzőkönyvben kell rögzíteni, mely tartalmazza
+
+a) a vizsgált projekt megnevezését,
+
+b) a helyszíni szemlét végző szervezet és személyek nevét,
+
+c) a vizsgált szervezet nevét, címét, az szemle helyszínét, időpontját, időtartamát,
+
+d) a helyszíni szemle során figyelembe vett ellenőrzési szempontokat,
+
+e) a helyszíni szemle során átvizsgált bizonylatok, dokumentumok körét,
+
+f) a szemlét végzők által másolatban átvett iratok, dokumentumok azonosítási adatait,
+
+g) a helyszíni szemlét végzők által tett megállapításokat és a támogatást igénylő álláspontját a megállapításokkal kapcsolatban.
+
+60.7. A jegyzőkönyvet a szemlét végzők aláírják és a támogatást igénylő jelen lévő, cégjegyzésre jogosult, vagy annak megbízott képviselője ellenjegyzi. A helyszínen felvett - a támogatást igénylő észrevételeit is tartalmazó - írásos jegyzőkönyv egy másolati példányát a helyszíni szemlét végző a támogatást igénylő részére átadja.
+
+60.8. Ha a támogatást igénylő a helyszíni szemle lebonyolítását megtagadja, akadályozza, illetve a helyszíni szemlét végzőkkel nem működik együtt, a helyszíni szemlét végző tájékoztatja, hogy az irányító hatóság elállhat a támogatói döntéstől. Ennek tényét a jegyzőkönyvben rögzíteni kell.
+
+A támogatási szerződés módosítása
+
+61.1. Ha a kedvezményezett e rendelet 86. § (1) bekezdése szerint a támogatás feltételeinek változásáról értesíti az irányító hatóságot, az irányító hatóság
+
+a) a bejelentést elfogadja, és a feltételeknek a nyilvántartásban történő átvezetéséről gondoskodik,
+
+b) a bejelentést, ha több adat vonatkozásában tartalmaz változást, részben elfogadja, vagy
+
+c) a bejelentést elutasítja,
+
+d) a bejelentés alapján a támogatási szerződés módosítását kezdeményezi, vagy
+
+e) a bejelentés alapján elállást, a jogosulatlanul igénybe vett támogatás visszakövetelését, vagy más szükséges eljárás lefolytatására irányuló intézkedést kezdeményez,
+
+amelyről a bejelentés beérkezését követő 10 napon belül írásban, a XII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint értesíti a kedvezményezettet.
+
+61.2. Ha a bejelentett változást a benyújtott dokumentumok nem teljes körűen támasztják alá, az irányító hatóság a változás bejelentéséhez kapcsolódóan megfelelő, de legfeljebb 30 napos határidő tűzésével automatikus értesítéssel a XII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint hiánypótlásra hívja fel a kedvezményezettet.
+
+61.3. A hiánypótlás során a dokumentumokat a XII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint kell benyújtani.
+
+61.4. Ha a hiánypótlási dokumentumok nem érkeznek be a megadott határidőre, vagy továbbra sem támasztják alá a változást, az irányító hatóság a bejelentést részben vagy egészben elutasítja.
+
+61.5. A bejelentés elutasítása esetén az irányító hatóság kezdeményezi a szerződésszerű állapot helyreállítását, ha szükséges a szerződés módosítását, vagy a szerződés megszüntetését.
+
+61.6. Ha a bejelentés alapján a támogatási szerződés módosítása szükséges, és a módosításra irányuló kérelmet és a szükséges dokumentumokat a kedvezményezett megfelelően nyújtotta be, és a módosítás e rendelet 86-89.§-ában, valamint e fejezetben foglaltaknak megfelel, a módosítási kérelem alapján az irányító hatóság gondoskodik a szerződésmódosítás szövegének elkészítéséről. A szerződés módosítása nem irányulhat az általános szerződési feltételek módosítására.
+
+61.7. A módosítási kérelem elbíráláshoz külső szakértő is igénybe vehető, továbbá helyszíni ellenőrzés is elvégezhető.
+
+61.8. A szerződésmódosítás tervezet IH általi megküldésének határideje – ide nem számítva az esetleges hiánypótlás idejét – a módosítási kérelem beérkezésétől számított legfeljebb 30 nap, amelyet az irányító hatóság egy alkalommal, legfeljebb 30 nappal meghosszabbíthat.
+
+61.9. Az irányító hatóság a szerződésmódosítás-tervezetet a XII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint megküldi a kedvezményezettnek.
+
+61.10. A szerződésmódosítás a támogatási szerződéssel megegyező példányszámban készül.
+
+61.11. Ha a támogatási szerződést az irányító hatóság ellenjegyezte, a szerződésmódosítást is ellenjegyzi.
+
+61.12. A támogatási szerződés módosítása hatályba lépésének napja a módosítást utolsóként aláíró, ellenjegyző személy aláírásának napja. Ha a támogatási szerződést nem minősített elektronikus aláírással írták alá, a támogatási szerződés módosítását 10 napon belül szkennelve, pdf formátumban elérhetővé kell tenni a monitoring és információs rendszer Dokumentumtárban.
+
+61.13. Ha az irányító hatóság a támogatás feltételeinek változását észleli, kezdeményezi a megváltozott feltételek átvezetését, vagy felhívja a kedvezményezettet bejelentés benyújtására, az eltérések megfelelő, alátámasztó dokumentumokkal való tisztázására.
+
+61.14. Ha a kedvezményezett a 61.13. pontban foglalt felhívásnak nem tesz eleget, vagy a szerződésmódosításhoz szükséges alátámasztó dokumentumokat a megadott határidőre nem küldi meg az irányító hatóság részére, az irányító hatóság kezdeményezi a szerződésszerű állapot helyreállítását, ha szükséges a szerződés módosítását, vagy a szerződés megszüntetését, illetve egyéb, a támogatási szerződésben rögzített jogkövetkezményeket is alkalmazhat.
+
+A támogatási szerződés megszüntetése és megszűnése
+
+62.1. A támogatási szerződés a teljesítést (beleértve az ellenőrzés-tűrési, valamint a dokumentum-megőrzési kötelezettséget is) megelőzően csak vis maior, lehetetlenülés, az irányító hatóság vagy a kedvezményezett általi - a támogatási szerződésben meghatározott esetekben és módon történő - elállás, közös megegyezéssel történő felbontás vagy a bíróság határozata alapján szűnik meg.
+
+62.2. Ha e rendeletben, illetve a támogatási szerződésben meghatározott valamely elállási ok bekövetkezik és az irányító hatóság emiatt a szerződéstől eláll, az irányító hatóság az elállásról szóló nyilatkozatot hiteles elektronikus aláírással aláírt szerződés esetén elektronikus aláírással ellátva, egyébként – a Pályázati e-ügyintézés felület rendelkezésre állása esetén is – postai úton is megküldi a kedvezményezettnek.
+
+62.3. Az elállás időpontja az elállásról szóló értesítés kedvezményezett részéről történő átvételének napja.
+
+62.4. A támogatási szerződést felmondani nem lehet.
+
+[^4]: A 206–208. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

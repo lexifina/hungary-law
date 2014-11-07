@@ -1,1 +1,3 @@
-## 204. § Hatályát veszti a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 4. §-ának nyitó szövegrészében a „külön jogszabályban meghatározottak szerint” szövegrész.
+## 203–204. §[^2]
+
+[^2]: A 203–204. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
