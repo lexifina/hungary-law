@@ -1,0 +1,3 @@
+6. § (1) Ha a pénzügyi intézmény az elszámolást a 2. mellékletben foglalt módszertan alapján végzi el, akkor a fogyasztó adott havi túlfizetését egy külön technikai számlán – gyűjtőszámlán –, a hitelnyújtás devizanemében felhalmozottnak tekinti.
+
+(2) A 2. mellékletben foglalt módszertan alkalmazása során, a gyűjtőszámlán felhalmozott túlfizetések mellett a pénzügyi intézmény az elszámolási fordulónapon, illetve a fogyasztói kölcsönszerződés megszűnésekor fennálló magasabb tőketartozás korrekcióját is elvégzi annak érdekében, hogy a kiszámított túlfizetések mértéke megegyezzen az 1. mellékletben foglalt módszertan alapján számított összeggel.
