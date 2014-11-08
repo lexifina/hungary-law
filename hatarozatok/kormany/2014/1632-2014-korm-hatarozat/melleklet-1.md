@@ -1,6 +1,6 @@
 ## 1. megállapítja a Gazdaságfejlesztési Operatív Program 2011–2013. évekre szóló akciótervének 3. prioritását az 1. melléklet szerint,
 
-## 2. visszavonja a Gazdaságfejlesztési Operatív Program 2011–2013. évekre szóló akcióterve 1–3. prioritásának módosításáról szóló 2027/2013. (XII. 29.) Korm. határozat 3. pontját és 1. mellékletének a 3. prioritásra vonatkozó részét.
+## 2.[^2]
 
 1. melléklet az 1632/2014. (XI. 7.) Korm. határozathoz
 
@@ -57,3 +57,5 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 | 3.5.1. | Esélyegyenlőségi célcsoportok a gazdaságban | 5,5 | Munkahelyi körülmények megteremtése, illetve olyan szolgáltatások bevezetése, amelyek biztosítják a hátrányos helyzetben lévő munkavállalók számára az egyenlő esélyeket. |
 
 | 3. | Prioritás | 58,085 |  |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
