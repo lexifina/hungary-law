@@ -4,33 +4,35 @@
 
 ## 1. szervetlen szennyezőanyagok és nitrogénvegyületek
 
-## 3K54947M_0
+## 4K13999M_0
 
 | Nemkívánatos anyag | Takarmányozásra szánt termékek | Legnagyobb tartalom mg/kg-ban (ppm), 12 %-os nedvességtartalmú takarmányra vonatkozóan |
 
-| 1. | Arzén (1) | Takarmány-alapanyagok, kivéve: - fűből, szárított lucernából és szárított lóheréből készült liszt, szárított cukorrépapép, szárított melaszos cukorrépaszelet; - pálmamagpogácsa; - foszfátok és mésztartalmú tengeri algák; - kalcium-karbonát; kalcium- és magnézium-karbonát (10); - magnézium-oxid; magnézium-karbonát; - halak, más vízi állatok és az ezekből nyert termékek; - algaliszt és algalisztből nyert takarmány-alapanyagok. | 2 4 4(2) 10 15 20 25(2) 40(2) |
+| 1. | Arzén(1) | Takarmány-alapanyagok kivéve a következőket: - fűből, szárított lucernából és szárított lóheréből készült liszt, szárított cukorrépapép, szárított melaszos cukorrépaszelet; - pálmamagpogácsa; - foszfátok és mésztartalmú tengeri algák; - kalcium-karbonát; kalcium- és magnézium-karbonát(10); - magnézium-oxid; magnézium-karbonát; - halak, más vízi állatok és az ezekből nyert termékek; - algaliszt és algalisztből nyert takarmány-alapanyagok. | 2 4 4(2) 10 15 20 25(2) 40(2) |
 
 | Jelölőanyagként használt vasrészecskék. | 50 |
 
-| A nyomelemek vegyületeinek funkcionális csoportjába tartozó adalékanyagok, kivéve: - réz-szulfát-pentahidrát; réz-karbonát; diréz-klorid-trihidroxid; - cink-oxid; mangán-oxid; réz-oxid. | 30 50 100 |
+| A nyomelemek vegyületeinek funkcionális csoportjába tartozó takarmány-adalékanyagok kivéve a következőket: - réz-szulfát-pentahidrát; réz-karbonát; diréz-klorid-trihidroxid; vas-karbonát; - cink-oxid; mangán-oxid; réz-oxid. | 30 50 100 |
 
-| Kiegészítő takarmányok, kivéve: - ásványi takarmány; - halat vagy más vízi állatot, illetve azokból nyert termékeket és/vagy algalisztet és algalisztből nyert takarmány-alapanyagot tartalmazó, kedvtelésből tartott állatoknak szánt kiegészítő takarmányok. | 4 12 10(2 |
+| Kiegészítő takarmányok, kivéve a következőket: - ásványi takarmányok; - halat vagy más vízi állatot, illetve azokból nyert termékeket és/vagy algalisztet és algalisztből nyert takarmány-alapanyagot tartalmazó, kedvtelésből tartott állatoknak szánt kiegészítő takarmányok; - nyomelemeket nagy koncentrációban tartalmazó, különleges táplálási célt szolgáló, a hosszú távú ellátást lehetővé tevő formulációban előállított kiegészítő takarmány, melyben a nyomelemek koncentrációja meghaladja a teljes értékű takarmányra megállapított maximális szint százszorosát. | 4 12 10(2) 30 |
+
+| Teljes értékű takarmányok, kivéve a következőket: - halaknak és prémes állatoknak szánt teljes értékű takarmányok; - halat vagy más vízi állatot, illetve azokból nyert termékeket és/vagy algalisztet és algalisztből nyert takarmány-alapanyagot tartalmazó, kedvtelésből tartott állatoknak szánt teljes értékű takarmányok. | 2 10(2) 10(2) |
 
 | 2. | Kadmium | Növényi eredetű takarmány-alapanyagok | 1 |
 
 | Állati eredetű takarmány-alapanyagok | 2 |
 
-| Ásványi eredetű takarmány-alapanyagok, kivéve: - foszfátok | 2 10 |
+| Ásványi eredetű takarmány-alapanyagok kivéve a következőket: - foszfátok. | 2 10 |
 
-| A nyomelemek vegyületeinek funkcionális csoportjába tartozó adalékanyagok, kivéve: - réz-oxid, mangán-oxid, cink-oxid és mangán-szulfát-monohidrát | 10 30 |
+| A nyomelemek vegyületeinek funkcionális csoportjába tartozó takarmány-adalékanyagok kivéve a következőket: - réz-oxid, mangán-oxid, cink-oxid és mangán-szulfát-monohidrát. | 10 30 |
 
 | A kötőanyagok és csomósodásgátló anyagok funkcionális csoportjába tartozó takarmány-adalékanyagok | 2 |
 
-| Előkeverékek (6) | 15 |
+| Előkeverékek(6) | 15 |
 
-| Kiegészítő takarmányok, kivéve: - ásványi takarmányok -- foszfortartalom < 7% (8) -- foszfortartalom ≥ 7% (8) - kedvtelésből tartott állatoknak szánt kiegészítő takarmányok | 0,5 5 1 % foszforban (8) 0,75; maximum 7,5 2 |
+| Kiegészítő takarmányok, kivéve a következőket: - ásványi takarmányok -- foszfortartalom < 7 %(8) -- foszfortartalom ≥ 7 %(8) - kedvtelésből tartott állatoknak szánt kiegészítő takarmányok - nyomelemeket nagy koncentrációban tartalmazó, különleges táplálási célt szolgáló, a hosszú távú ellátást lehetővé tevő formulációban előállított kiegészítő takarmány, melyben a nyomelemek koncentrációja meghaladja a teljes értékű takarmányra megállapított maximális szint százszorosát. | 0,5 5 1 % foszforban(8) 0,75; maximum 7,5 2 15 |
 
-| Teljes értékű takarmányok, kivéve: - szarvasmarhának (kivéve borjaknak), juhoknak (kivéve bárányoknak), kecskéknek (kivéve gidáknak) és halaknak szánt teljes értékű takarmányok - kedvtelésből tartott állatoknak szánt teljes értékű takarmányok | 0,5 1 2 |
+| Teljes értékű takarmányok, kivéve a következőket: - szarvasmarhának (kivéve borjaknak), juhoknak (kivéve bárányoknak), kecskéknek (kivéve gidáknak) és halaknak szánt teljes értékű takarmányok - kedvtelésből tartott állatoknak szánt teljes értékű takarmányok. | 0,5 1 2 |
 
 | 3. | Fluor (7) | Takarmány-alapanyagok, kivéve: - állati eredetű takarmány-alapanyagok, a tengeri rákfélék (pl. krill) kivételével - tengeri rákfélék, pl. krill - foszfátok - kalcium-karbonát; kalcium- és magnézium-karbonát (10); - magnézium-oxid - mésztartalmú tengeri algák. | 150 500 3000 2000 350 600 1000 |
 
@@ -40,25 +42,29 @@
 
 | Teljes értékű takarmányok, kivéve: - sertésnek szánt teljes értékű takarmányok; - baromfinak (kivéve csirkéknek) és halaknak szánt teljes értékű takarmányok; - csirkéknek szánt teljes értékű takarmányok - szarvasmarha-, juh- és kecsketakarmányok -- tejelő állatok -- egyéb | 150 100 350 250 30 50 |
 
-| 4. | Ólom | Takarmány-alapanyagok, kivéve: - szálastakarmányok (3); - foszfátok és mésztartalmú tengeri algák; - kalcium-karbonát; kalcium- és magnézium-karbonát (10); - takarmányélesztő. | 10 30 15 20 5 |
+| 4. | Ólom(*) | Takarmány-alapanyagok kivéve a következőket: - szálastakarmány(3); - foszfátok és mésztartalmú tengeri algák; - kalcium-karbonát; kalcium- és magnézium-karbonát(10); - takarmányélesztő. | 10 30 15 20 5 |
 
-| A nyomelemek vegyületeinek funkcionális csoportjába tartozó adalékanyagok, kivéve: - cink-oxid; - mangán-oxid, vas-karbonát, réz-karbonát. | 100 400 200 |
+| A nyomelemek vegyületeinek funkcionális csoportjába tartozó takarmány-adalékanyagok kivéve a következőket: - cink-oxid; - mangán-oxid, vas-karbonát, réz-karbonát. | 100 400 200 |
 
-| A kötőanyagok és csomósodásgátló anyagok funkcionális csoportjába tartozó takarmány-adalékanyagok, kivéve: - vulkáni eredetű klinoptilolit; nátrolit-fonolit; | 30 60 |
+| A kötőanyagok és csomósodásgátló anyagok funkcionális csoportjába tartozó takarmány-adalékanyagok kivéve a következőket: - vulkáni eredetű klinoptilolit; nátrolit-fonolit. | 30 60 |
 
-| Előkeverékek (6) | 200 |
+| Előkeverékek(6) | 200 |
 
-| Kiegészítő takarmányok, kivéve: - ásványi takarmányok | 10 15 |
+| Kiegészítő takarmányok, kivéve a következőket: - ásványi takarmányok; - nyomelemeket nagy koncentrációban tartalmazó, különleges táplálási célt szolgáló, a hosszú távú ellátást lehetővé tevő formulációban előállított kiegészítő takarmányok, melyben a nyomelemek koncentrációja meghaladja a teljes értékű takarmányra megállapított maximális szint százszorosát. | 10 15 60 |
 
-| Teljes értékű takarmányok | 5 |
+| Teljes értékű takarmányok. | 5 |
+
+## (*) a kaolinittartalmú agyagban és a kaolinittartalmú agyagot tartalmazó takarmányban előforduló ólom meghatározására a maximális szint az ólom egy adott analitikai meghatározására vonatkozik, amely során az extrakció salétromsavban (5 % m/m) történik 30 percen át forráshőmérsékleten. Bizonyíthatóan egyező extrakciós hatékonysággal rendelkező, egyenértékű extrakciós eljárások alkalmazhatók.
+
+## 4K13999M_1
 
 | 5. | Higany (4) | Takarmány-alapanyagok, kivéve: - halak, más vízi állatok és az ezekből nyert termékek; - kalcium-karbonát; kalcium- és magnézium-karbonát (10). | 0,1 0,5 0,3 |
 
 | Takarmánykeverékek, kivéve: - ásványi takarmányok; - halaknak szánt takarmánykeverékek; - kutyáknak, macskáknak és prémes állatoknak szánt takarmánykeverékek. | 0,1 0,2 0,2 0,3 |
 
-| 6. | Nitrit (5) | Takarmány-alapanyagok, kivéve: - halliszt - szilázs - cukorrépából és cukornádból, valamint keményítőgyártásból származó termékek és melléktermékek | 15 30 --- --- |
+| 6. | Nitrit(5) | Takarmány-alapanyagok kivéve a következőket: - halliszt; - szilázs; - cukorrépából és cukornádból előállított, valamint keményítőgyártásból és alkoholtartalmú italok gyártásából származó termékek és melléktermékek. | 15 30 --- --- |
 
-| Teljes értékű takarmányok, kivéve: - kutyáknak és macskáknak szánt, 20%-ot meghaladó nedvességtartalmú teljes értékű takarmányok | 15 --- |
+| Teljes értékű takarmányok, kivéve a következőket: - kutyáknak és macskáknak szánt, 20 %-ot meghaladó nedvességtartalmú teljes értékű takarmányok. | 15 --- |
 
 | 7. | Melamin (9) | Takarmányok, kivéve: – kedvtelésből tartott állatoknak készült dobozos konzerv eledel – a következő takarmány-adalékanyagok: – guanidino-ecetsav (GAA) – karbamid – biuret | 2,5 2,5 (*) – – – |
 
@@ -104,9 +110,13 @@
 
 | 4. | Vinil-tiooxazolidon (5-vinil-oxazolidin-2-tion) | Baromfinak szánt teljes értékű takarmányok, kivéve: - tojótyúkoknak szánt teljes értékű takarmány | 1000 500 |
 
-| 5. | Illékony mustárolaj (1) | Takarmány-alapanyagok, kivéve: - repcemagpogácsa Teljes értékű takarmányok, kivéve: - szarvasmarhának (kivéve borjaknak), juhoknak (kivéve bárányoknak) és kecskéknek (kivéve gidáknak) szánt teljes értékű takarmányok - sertéseknek (kivéve malacoknak) és baromfinak szánt teljes értékű takarmányok | 100 4000 150 1000 500 |
+| 5. | Illékony mustárolaj(1) | Takarmány-alapanyagok kivéve a következőket: - Sárgarepcemag és a belőle készült termékek(*), mustármag(*) és repcemag, valamint az azok feldolgozásából származó termékek. | 100 4000 |
+
+|  | Teljes értékű takarmányok, kivéve a következőket: - szarvasmarhának (kivéve borjaknak), juhoknak (kivéve bárányoknak) és kecskéknek (kivéve gidáknak) szánt teljes értékű takarmányok; - sertéseknek (kivéve malacoknak) és baromfinak szánt teljes értékű takarmányok. | 150 1000 500 |
 
 ## (1)A maximális szintek allil-izotiocianátban vannak kifejezve.
+
+## (*)Az illetékes hatóságok kérésére a felelős gazdasági szereplőnek elemzést kell végeznie annak bizonyítására, hogy a teljes glukozinoláttartalom 30 mmol/kg-nál alacsonyabb. Analitikai referenciamódszer: EN-ISO 9167-1:1995.
 
 ## 4. szerves klórvegyületek (a dioxinok és a pcb-k kivételével)
 
@@ -144,7 +154,7 @@
 
 ## 5. dioxinok és PCB-k
 
-## 3K54947M_4
+## 4K13999M_5
 
 | Nemkívánatos anyag | Takarmányozásra szánt termékek | Legnagyobb tartalom ng WHO-PCDD/F-TEQ/kg-ban (ppt) (1), 12 %-os nedvességtartalmú takarmányra vonatkozóan |
 
@@ -242,25 +252,27 @@
 
 ## (4) A határértékek nem vonatkoznak a prémes állatoknak szánt takarmány előállítása céljából közvetlenül szállított és közbenső feldolgozás nélkül felhasznált friss halra és más vízi állatokra, azonban a kedvtelésből tartott állatok, illetve az állatkerti és cirkuszi állatok közvetlen etetésére vagy a kedvtelésből tartott állatoknak szánt takarmányok alapanyagaként felhasznált friss halra a 75 µg/kg termék, az ugyanilyen célra felhasznált halmájra pedig a 200 µg/kg termék határérték vonatkozik. Az ezekből az állatokból (prémes állatok, kedvtelésből tartott állatok, állatkerti és cirkuszi állatok) előállított termékek és feldolgozott állati fehérjék nem kerülhetnek be az élelmiszerláncba, és nem használhatók élelmiszertermelés céljára tartott, hizlalt vagy tenyésztett haszonállatok takarmányozására.
 
-## 6. káros botanikai szennyeződések
+## 6. KÁROS BOTANIKAI SZENNYEZŐDÉSEK
 
 | Nemkívánatos anyag | Takarmányozásra szánt termékek | Legnagyobb tartalom mg/kg-ban (ppm), 12 %-os nedvességtartalmú takarmányra vonatkozóan |
 
-| 1. Alkaloidákat, glükozidákat vagy más mérgező anyagokat külön-külön, illetve kombinációban tartalmazó gyommagvak és őröletlen vagy össze nem zúzott termések, beleértve: - Datura sp. | Takarmány-alapanyagok és takarmánykeverékek | 3000 1000 |
+| 1. Alkaloidákat, glükozidákat vagy más mérgező anyagokat külön-külön, illetve kombinációban tartalmazó gyommagvak és őröletlen vagy össze nem zúzott termések, beleértve: - Datura sp. | Takarmány-alapanyagok és takarmánykeverékek, | 3000 1000 |
 
-| 2. Crotalaria spp. | Takarmány-alapanyagok és takarmánykeverékek | 100 |
+| 2. Crotalaria spp. | Takarmány-alapanyagok és takarmánykeverékek, | 100 |
 
-| 3. Ricinus communis L., Croton tiglium L. és Abrus precatorius L. vetőmagja és pelyvája, valamint azok feldolgozott származékai (1) külön-külön, illetve kombinációban | Takarmány-alapanyagok és takarmánykeverékek | 10 (2) |
+| 3. Ricinus communis L., Croton tiglium L. és Abrus precatorius L. vetőmagja és pelyvája, valamint azok feldolgozott származékai(1) külön-külön, illetve kombinációban | Takarmány-alapanyagok és takarmánykeverékek, | 10(2) |
 
-| 4. Hántolatlan bükkmakk – Fagus silvatica L. 5. Purgódió – Jatropha curcas L. 6. Indiai mustár – Brassica juncea (L.) Czern. és Coss. ssp. integrifolia (West.) Thell. 7. Szareptai mustár – Brassica juncea (L.) Czern. és Coss. ssp. juncea 8. Kínai mustár – Brassica juncea (L.) Czern. és Coss. ssp. juncea var. lutea Batalin 9. Fekete mustár – Brassica nigra (L.) Koch 10. Abesszin mustár – Brassica carinata A. Braun | Takarmány-alapanyagok és takarmánykeverékek | Az első oszlopban felsorolt növényfajok magjai és termései, illetve azok feldolgozott származékai csak mennyiségileg nem kimutatható, elenyésző mennyiségben lehetnek jelen a takarmányban |
+| 4. Hántolatlan bükkmakk – Fagus sylvatica L. | Takarmány-alapanyagok és takarmánykeverékek, | A magvak és termések, illetve azok feldolgozott származékai csak mennyiségileg nem kimutatható, elenyésző mennyiségben lehetnek jelen a takarmányban |
 
-| 11. A parlagfű-fajok (Ambrosia spp.) magja | Takarmány-alapanyagok (3), kivéve: - közvetlen állati takarmányozásra nem használt köles (a Panicum miliaceum L. magja) és cirok (a Sorghum bicolor (L) Moench s.l. magja)(3). Őröletlen gabonát és magvakat tartalmazó takarmánykeverékek. | 50 200 50 |
+| 5. Purgódió – Jatropha curcas L. | Takarmány-alapanyagok és takarmánykeverékek, | A magvak és termések, illetve azok feldolgozott származékai csak mennyiségileg nem kimutatható, elenyésző mennyiségben lehetnek jelen a takarmányban |
+
+| 6. Az Ambrosia spp. magja | Takarmány-alapanyagok kivéve: - közvetlen állati takarmányozásra nem használt köles (a Panicum miliaceum L. magja) és cirok (a Sorghum bicolor (L) Moench magja) Őröletlen gabonát és magvakat tartalmazó takarmánykeverékek | 50 200 50 |
+
+| 7. A következő növények magvai: - Indiai mustár – Brassica juncea (L.) Czern. és Coss. ssp. integrifolia (West.) Thell. - Szareptai mustár – Brassica juncea (L.) Czern. és Coss. ssp. juncea - Kínai mustár – Brassica juncea (L.) Czern. és Coss. ssp. juncea var. lutea Batalin - Fekete mustár – Brassica nigra (L.) Koch - Abesszin mustár – Brassica carinata A. Braun | Takarmány-alapanyagok és takarmánykeverékek, | A magvak csak mennyiségileg nem kimutatható, elenyésző mennyiségben lehetnek jelen a takarmányban |
 
 ## (1) Amennyire mikroszkópos vizsgálattal megállapítható.
 
 ## (2) A maghéjdarabokra is vonatkozik.
-
-## (3) Ha egyértelmű bizonyíték áll rendelkezésre arról, hogy a gabonamagvakat és magokat darálásra vagy zúzásra szánják, e műveleteket megelőzően nincsen szükség a parlagfű-fajokat (Ambrosia spp.) nem megfelelő szinteken tartalmazó gabonamagvak és magok tisztítására. Megelőző intézkedéseket kell tenni annak érdekében, hogy a parlagfű-fajok (Ambrosia spp.) magja ne terjedhessen el a környezetben a szóban forgó gabonamagvak és magok szállítása, tárolása vagy feldolgozása során.
 
 ## 7. a nem céltakarmányokban elkerülhetetlen átvitel következtében előforduló engedélyezett takarmányadalékok
 
@@ -302,7 +314,7 @@
 
 ## Dioxinok és PCB-k
 
-## 3K54947M_9
+## 4K13999M_10
 
 | Nemkívánatos anyagok | Takarmányozásra szánt termékek | Cselekvési küszöbérték ng WHO-PCDD/F-TEQ/kg-ban (ppt) (2), 12%-os nedvességtartalmú takarmányra vonatkozóan | Megjegyzések és további információk (például az elvégzendő vizsgálatok jellegéről) |
 
