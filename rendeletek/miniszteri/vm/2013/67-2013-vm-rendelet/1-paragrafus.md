@@ -6,11 +6,11 @@
 
 2. beruházás megvalósítása: gép, technológiai berendezés beszerzése esetén, annak üzembe helyezése; hűtőtérrel rendelkező tehergépjármű beszerzése esetén annak forgalomba helyezése;
 
-3. de minimis támogatás: a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet (a továbbiakban: általános de minimis rendelet) szerinti támogatás;
+3.[^2] de minimis támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: általános de minimis rendelet) szerinti támogatás;
 
 4. elszámolható költség: gép, technológiai berendezés, illetve hűtőtérrel rendelkező tehergépjármű számlán szereplő általános forgalmi adóval nem terhelt vételára, amely nem tartalmazza a szállítási költséget, üzembe-, forgalomba helyezés költséget;
 
-4a.[^1] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+4a.[^3] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 5. gép, technológiai berendezés: olyan első üzembe helyezésű, a sertéshús feldolgozói iparban használt berendezés
 
@@ -20,7 +20,7 @@ b) amelyhez kapcsolódóan az ügyfél rendelkezik a teljesítés időpontjában
 
 c) amelynek gyártásától a támogatási kérelem benyújtásáig 2 évnél több nem telt el;
 
-6. gépkatalógus: a Vidékfejlesztési Minisztérium (a továbbiakban: VM), és a VM Mezőgazdasági Gépesítési Intézet közreműködésével készült, a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által közzétett a gépek műszaki és technológiai adatait tartalmazó gyűjtemény, amely tartalmazza a referenciaárakat is;
+6.[^4] gépkatalógus: a Földművelésügyi Minisztérium, és a VM Mezőgazdasági Gépesítési Intézet közreműködésével készült, a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által közzétett a gépek műszaki és technológiai adatait tartalmazó gyűjtemény, amely tartalmazza a referenciaárakat is;
 
 7. hűtőtérrel rendelkező tehergépjármű: olyan első forgalomba helyezésű, hűtő, vagy fagyasztóval felszerelt, beépített erőgéppel hajtott gépjármű,
 
@@ -30,7 +30,7 @@ b) amelyhez kapcsolódóan az ügyfél rendelkezik a teljesítés időpontjában
 
 c) amelynek gyártásától a támogatási kérelem benyújtásáig 2 évnél több nem telt el;
 
-8. nehéz helyzetben lévő vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti vállalkozás;
+8.[^5]
 
 9. referenciaár: a gépkatalógusban szereplő ár;
 
@@ -38,4 +38,7 @@ c) amelynek gyártásától a támogatási kérelem benyújtásáig 2 évnél t�
 
 11. üzemeltetési hely: a gép, technológiai berendezés üzemeltetési, vagy hűtőtérrel rendelkező tehergépjármű tárolási helye, amelyet az MVH-hoz bejelentettek.
 
-[^1]: Az 1. § 4a. pontját a 22/2014. (III. 14.) VM rendelet 93. §-a iktatta be.
+[^2]: Az 1. § 3. pontja a 24/2014. (XI. 6.) FM rendelet 12. §-ával megállapított szöveg.
+[^3]: Az 1. § 4a. pontját a 22/2014. (III. 14.) VM rendelet 93. §-a iktatta be.
+[^4]: Az 1. § 6. pontja a 24/2014. (XI. 6.) FM rendelet 16. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § 8. pontját a 24/2014. (XI. 6.) FM rendelet 17. §-a hatályon kívül helyezte.

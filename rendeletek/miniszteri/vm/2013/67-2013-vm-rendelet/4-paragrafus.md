@@ -10,4 +10,6 @@ ba) nem rendelkezik adók módjára behajtható köztartozással vagy lejárt es
 
 bb) nem áll felszámolási, végelszámolási eljárás alatt,
 
-c) nem minősül nehéz helyzetben lévő vállalkozásnak.
+c)[^17]
+
+[^17]: A 4. § c) pontját a 24/2014. (XI. 6.) FM rendelet 17. §-a hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 10. §[^11] Az ügyfélnek a kifizetési kérelmét a támogatási döntésben jóváhagyott beruházás megvalósítását követően, de legkésőbb a támogatási döntés kézhezvételétől számított 180 napon belül kell az MVH által rendszeresített és honlapján közzétett nyomtatványon az MVH részére benyújtania.
+## 10. §[^26] Az ügyfélnek a kifizetési kérelmét a támogatási döntésben jóváhagyott beruházás megvalósítását követően, de legkésőbb a támogatási döntés kézhezvételétől számított 180 napon belül kell az MVH által rendszeresített és honlapján közzétett nyomtatványon az MVH részére benyújtania.
 
 11. § (1) A kifizetési kérelemhez mellékelni kell:
 
@@ -34,11 +34,11 @@ h) az idegen nyelven kiállított bármilyen dokumentum esetében a szakfordít�
 
 (4) Kizárólag készpénzzel vagy banki átutalással a kifizetési kérelem benyújtásáig 100%-ban kiegyenlített költségek számolhatók el. Lízing konstrukcióval érintett számlák nem szolgálhatnak a jogosult költségek elszámolásának alapjául, az ilyen módon kiegyenlített összegek alapján támogatás nem fizethető.
 
-(5)[^12] A forinttól eltérő pénznemben kiállított számla esetén, a forintra történő átszámítás átváltási árfolyama a támogatási kérelem benyújtás hónapjának első napján érvényes, az Európai Központi Bank által közzétett árfolyam.
+(5)[^27] A forinttól eltérő pénznemben kiállított számla esetén, a forintra történő átszámítás átváltási árfolyama a támogatási kérelem benyújtás hónapjának első napján érvényes, az Európai Központi Bank által közzétett árfolyam.
 
 (6) A számla nem képezheti támogatás alapját, ha korábban más támogatáshoz már – részben vagy egészben – elszámolták.
 
 (7) A beruházás megvalósítása az üzembe helyezés feltételeként külön jogszabály által előírt közokirattal vagy magánokirattal, továbbá a gazdasági eseményről kiállított, igazoltan teljesített és pénzügyileg is rendezett számviteli bizonylattal igazolható.
 
-[^11]: A 10. § a 19/2014. (III. 12.) VM rendelet 42. § (1) bekezdésével megállapított szöveg.
-[^12]: A 11. § (5) bekezdése a 77/2013. (IX. 10.) VM rendelet 15. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^26]: A 10. § a 19/2014. (III. 12.) VM rendelet 42. § (1) bekezdésével megállapított szöveg.
+[^27]: A 11. § (5) bekezdése a 77/2013. (IX. 10.) VM rendelet 15. § (3) bekezdés b) pontja szerint módosított szöveg.
