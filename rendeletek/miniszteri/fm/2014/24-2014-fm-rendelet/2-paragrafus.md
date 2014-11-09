@@ -1,0 +1,3 @@
+## 1. § Az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet (a továbbiakban: R.) 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az e rendelet szerinti támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet (a továbbiakban: 702/2014/EU rendelet) 26. cikke szerinti támogatásnak minősül.”
