@@ -1,35 +1,35 @@
-5. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^57]
+5. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^58]
 
-|  |  | Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján tenyészsertés állományokban lévő tenyészállatok számára vonatkozó igazolás adattartalma |
+## Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján vágóhídra szállított baromfilétszámra vonatkozóan
 
-| 1. |  | A kedvezményezett azonosító adatai |
+1. A kedvezményezett neve, ügyfél-azonosítója
 
-| 1.1. |  | Ügyfél-azonosító |
+2. Az engedélyes neve, ügyfél-azonosítója
 
-| 1.2. |  | A telephely szerinti élelmiszerlánc-biztonsági és állategészségügyi igazgatóság e rendelet szerinti támogatott intézkedésekben való részvételhez szükséges jóváhagyási határozatának száma, keltezése |
+3. Tárgyidőszak
 
-| 2. |  | Az engedélyes azonosító adatai |
+4. Tenyészetkód
 
-| 2.1. |  | Ügyfél-azonosító |
+5. Állatfaj:
 
-| 2.2. |  | A telephely szerinti élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vagy a Magyar Állatorvosi Kamara engedélyének száma, keltezése |
+6. Nyilatkozat arról, hogy
 
-| 3. |  | Tárgyidőszak |
+6.1. az alábbi táblázatban szereplő adatok megegyeznek a valósággal és erről a kedvezményezett és az engedélyes is büntetőjogi felelőssége tudatában nyilatkozik,
 
-| 4. |  | Az állatállomány adatai |
+6.2. külföldre szállítás esetében az állatok felhasználási célja vágás,
 
-| 4.1. |  | Tenyészetkód |
+6.3. a …. számú számlán szereplő szolgáltatás teljesítése megtörtént.
 
-| 4.2. |  | A legalább egyszer fialt tenyészkocák száma a kérelem beadását megelőző hónap utolsó napján |
+| A | B | C | D |
 
-| 4.3. |  | A tenyészkanok száma a kérelem beadását megelőző hónap utolsó napján |
+| Sorszám | Vágóhídra beérkezett baromfik száma (db) | Szállítmány indításának napja | Szállítólevél sorszáma |
 
-| 5. |  | Nyilatkozat |
+| 1. |  |  |  |
 
-| 5.1. |  | arról, hogy a kedvezményezett valamennyi állat-egészségügyi nyilvántartásba vételi, nyilvántartás-vezetési és adatszolgáltatási kötelezettségének eleget tett, |
+| 2. |  |  |  |
 
-| 5.2. |  | arról, hogy a kedvezményezett fenti tenyészetkódú telepén lévő tenyészállatok száma megegyezik a valósággal és erről a kedvezményezett és az engedélyes is büntetőjogi felelőssége tudatában nyilatkozik |
+| … |  |  |  |
 
-| 6. |  | Keltezés, a kedvezményezett és az engedélyes (cégszerű) aláírása |
+7. Keltezés, a kedvezményezett és az engedélyes aláírása
 
-[^57]: Az 5. számú mellékletet a 23/2011. (III. 28.) VM rendelet 11. § (4) bekezdése iktatta be, szövege a 77/2012. (VII. 27.) VM rendelet 4. §-ával megállapított, a 33/2014. (IV. 4.) VM rendelet 26. § d) pontja - a 8. melléklet 1. pontja, az 53/2014. (IV. 29.) VM rendelet 2. §-a szerint módosított szöveg.
+[^58]: Az 5. számú mellékletet a 23/2011. (III. 28.) VM rendelet 11. § (4) bekezdése iktatta be, szövege a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés e) pontjával megállapított szöveg.

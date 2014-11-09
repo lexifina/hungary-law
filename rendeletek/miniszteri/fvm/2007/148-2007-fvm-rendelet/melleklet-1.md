@@ -1,5 +1,6 @@
-## 10. § E rendelet a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló 2006. december 15-i 1857/2006/EK bizottsági rendelet hatálya alá tartozó támogatási programot tartalmaz.
+## 11. §[^53] Az 5. §-nak, a 6. §-nak, az 1., 2., 3., 4., 5. és 6. számú mellékletnek az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet és a sertésfeldolgozást végző élelmiszer-feldolgozók részére nyújtott „de minimis” támogatásról szóló 67/2013. (VII. 29.) VM rendelet módosításáról szóló 24/2014. (XI. 6.) FM rendelettel megállapított rendelkezéseit a 2014. november 1-jét követően elvégzett szolgáltatásokra kell alkalmazni.
 
-1. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^43]
+1. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^54]
 
-[^43]: Az 1. számú melléklet a 77/2012. (VII. 27.) VM rendelet 4. §-ával megállapított, a 139/2012. (XII. 22.) VM rendelet 1. § (4) bekezdése szerint módosított szöveg.
+[^53]: A 11. §-t a 24/2014. (XI. 6.) FM rendelet 8. §-a iktatta be.
+[^54]: Az 1. számú melléklet a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés a) pontjával megállapított szöveg.
