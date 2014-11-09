@@ -1,1 +1,0 @@
-## „18. az Európai Parlament és a Tanács 2002/32/EK irányelve (2002. május 7.) a takarmányban előforduló nemkívánatos anyagokról, valamint az azt módosító, a Bizottság 2005/8/EK, 2005/86/EK, 2005/87/EK, 2006/13/EK, 2008/76/EK, 2009/8/EK, 2009/141/EK, 2010/6/EU irányelve és 574/2011/EU, 277/2012/EU, 744/2012/EU, 107/2013/EU, 1275/2013/EU rendelete,”
