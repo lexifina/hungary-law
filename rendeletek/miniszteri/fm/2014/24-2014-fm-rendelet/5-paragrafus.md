@@ -1,1 +1,3 @@
-## „(13) A jóváhagyott támogatási összegről és a kifizetett támogatásról az MVH havonta tájékoztatást küld az agrárpolitikáért felelős miniszternek (a továbbiakban: miniszter) és ezekről az adatokról a NÉBIH elnökét is tájékoztatja.”
+## 1–4. §[^1]
+
+[^1]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
