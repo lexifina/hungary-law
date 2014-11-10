@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-163-00-00
 | 2013-10-22 | 2013. évi CLXIII. törvény | 2013-163-00-00.0 (közlönyállapot) |
 | 2013-10-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-163-00-00.1 |
 | 2014-11-09 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-163-00-00.2 |
+| 2014-11-10 | 2010. évi CXXX. törvény | 2013-163-00-00.3 |
