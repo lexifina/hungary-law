@@ -1,1 +1,0 @@
-## „(4) Az e § szerinti ügyrendeket és munkaterveket a szakmai kollégium honlapján a szakmai kollégium, a tagozatok és a tanácsok tagjai, valamint a miniszter és a GYEMSZI részére hozzáférhetővé kell tenni.”
