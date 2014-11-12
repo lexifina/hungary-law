@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-46-00-00
 | --- | --- | --- |
 | 2014-10-07 | 2014. évi XLVI. törvény | 2014-46-00-00.0 (közlönyállapot) |
 | 2014-10-07 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-46-00-00.1 |
+| 2014-11-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-46-00-00.2 |
