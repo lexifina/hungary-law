@@ -2,7 +2,7 @@
 
 ## 2. megállapítja
 
-## a) a Környezet és Energia Operatív Program (a továbbiakban: KEOP) 2011–2013. évekre szóló akciótervének 6. prioritását az 1. melléklet szerint,
+## a)[^1]
 
 ## b) az Államreform Operatív Program (a továbbiakban: ÁROP) 2011–2013. évekre szóló akciótervének 1. prioritását a 2. melléklet szerint,
 
@@ -40,8 +40,10 @@
 
 ## Határidő: a kiemelt projektjavaslatok beérkezését követő harmincadik nap
 
-## 8.[^1]
+## 8.[^2]
 
-1. melléklet az 1498/2014. (IX. 4.) Korm. határozathoz
+1. melléklet az 1498/2014. (IX. 4.) Korm. határozathoz[^3]
 
-[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont a) alpontját az 1648/2014. (XI. 14.) Korm. határozat 5. pontja visszavonta.
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. mellékletet az 1648/2014. (XI. 14.) Korm. határozat 5. pontja visszavonta.
