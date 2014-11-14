@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Szerb Köztársaság Kormánya között a nemzetközi közúti személyszállításról és árufuvarozásról szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
