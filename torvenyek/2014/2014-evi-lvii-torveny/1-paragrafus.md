@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Osztrák Szövetségi Kormány között a közös államhatáron lévő határátkelőhelyekről és határátlépési pontokról, valamint a közúti és vízi közlekedésben a határforgalom ellenőrzésében történő együttműködésről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
