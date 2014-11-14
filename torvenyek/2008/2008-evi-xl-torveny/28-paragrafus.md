@@ -4,6 +4,10 @@
 
 (2) Aki az együttműködő földgázrendszer szabad kapacitásait Magyarország területén történő átszállítására használja, földgáz-kereskedelmi engedély vagy korlátozott földgáz-kereskedelmi engedély megszerzésére nem köteles.
 
+(2a) A közvámraktárként üzemeltetett földgáztárolóban elhelyezett földgáz tulajdonjoga szabadon átruházható, ahhoz nem szükséges földgáz-kereskedelmi engedély vagy korlátozott földgáz-kereskedelmi engedély.
+
+(2b) A közvámraktárként üzemeltetett földgáztárolóban történt földgáztulajdon-átruházásokról és a közvámraktári földgázkészlet-változásokról a földgáztárolói engedélyes köteles a Hivatalt haladéktalanul tájékoztatni.
+
 (3) A felhasználók részére földgázt olyan gazdasági társaság vagy az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban székhellyel rendelkező külföldi vállalkozás belföldön bejegyzett fióktelepe értékesíthet, amely erre a Hivataltól engedélyt kapott és rendelkezik a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott pénzügyi biztosítékkal.
 
 (4) Korlátozott földgáz-kereskedelmi engedélyt az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban gazdasági társaságként bejegyzett, ott jogszerűen földgáz-kereskedelmi tevékenységet folytató külföldi gazdálkodó szervezet kap, amely

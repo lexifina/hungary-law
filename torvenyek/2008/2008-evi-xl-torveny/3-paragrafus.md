@@ -144,6 +144,8 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 54. Szállítóvezeték: az a csővezeték tartozékaival együtt, amelyen keresztül a földgázt továbbítják, és amelynek kezdőpontja Magyarország államhatára, a termelés betáplálási pontjai, a földgáz tároló be- és kitáplálási pontja, végpontja pedig a Magyar Köztársaság államhatára, a gázátadó állomások kilépő pontjai – illetve az engedélyben foglaltak szerint a felhasználó telekhatára –, vagy a földgáz tároló be- és kitáplálási pontja.
 
+54a. Szállítóvezeték-létesítő: szállítási rendszerüzemeltetési engedéllyel nem rendelkező földgázipari vállalkozás, amely e törvény szerinti szállítóvezeték létesítési engedély alapján szállítóvezetéket létesíthet.
+
 55. Szervezett földgázpiac: a szervezett földgázpiaci engedélyes által működtetett, a regionális földgázforgalmat elősegítő kereskedési rendszer, amelyben az energiakereskedelem és az ahhoz kapcsolódó ügyletek megkötése és lebonyolítása szabványosított formában történik.
 
 55a. Szigetüzem: olyan elszigetelt földgáz vezetékrendszer, amely csak termelői rendszerhez csatlakozik és a földgáz fizikai betáplálása az együttműködő földgázrendszerről nem biztosítható.
