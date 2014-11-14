@@ -14,11 +14,7 @@
 
 ## Határidő: azonnal
 
-## 4. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a TIOP-2.2.6-12/1B-2013-0002 azonosító számú, „Csongrád Megyei Dr. Bugyi István Kórház struktúraváltása a hatékony járó-fekvőbeteg ellátás fejlesztésével” című projekt támogatási szerződésének felbontásáról.
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: 2014. augusztus 31.
+## 4.[^2]
 
 1. melléklet az 1454/2014. (VIII. 1.) Korm. határozathoz
 
@@ -41,3 +37,5 @@
 | 8. | TIOP-2.2.7-07/2F/2- 2009-0006 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház | „Csillagpont Kórház” létrehozása a Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórházban | – | – | 270 000 000 | 30 000 000 | 171 577 461 | 471 577 461 |
 
 | 9. | Összesen: | 20 265 833 807 | 2 251 759 311 | 1 852 867 345 | 205 874 149 | 207 577 461 | 2 266 318 955 |
+
+[^2]: A 4. pontot az 1647/2014. (XI. 14.) Korm. határozat 6. pontja visszavonta.
