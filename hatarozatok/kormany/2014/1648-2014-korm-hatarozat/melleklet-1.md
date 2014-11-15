@@ -14,7 +14,7 @@
 
 ## Határidő: a kiemelt projektjavaslat beérkezését követő 30. nap
 
-## 5. visszavonja a Környezet és Energia Operatív Program 2011–2013. évi akcióterve 6. prioritásának, valamint az Államreform Operatív Program 2011–2013. évi akcióterve 1. prioritásának módosításáról, azok keretében kiemelt projektek nevesítéséről és felhívások közzétételéről szóló 1498/2014. (IX. 4.) Korm. határozat 2. pont a) alpontját, valamint 1. mellékletét.
+## 5.[^1]
 
 1. melléklet az 1648/2014. (XI. 14.) Korm. határozathoz
 
@@ -77,3 +77,5 @@
 | * Az Európai Pénzügyi Stabilitási Mechanizmus keretében a támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra. |
 
 | A 6.1.0. konstrukció 0,4218 Mrd Ft túlvállalást tartalmaz. |  |  |  |  |  |
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) beekzdése alapján hatályát vesztette.
