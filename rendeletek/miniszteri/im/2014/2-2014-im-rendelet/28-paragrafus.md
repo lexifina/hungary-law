@@ -1,1 +1,0 @@
-## 27. § A közvélemény-kutatást végző személy abba az épületbe, amelyben a szavazóhelyiség van, 2014. október 12-én nem léphet be. Az épületből kilépők megkérdezésével készített közvélemény-kutatás eredményét (exit poll) csak 2014. október 12-én 19.00 óra után szabad nyilvánosságra hozni. [Ve. 150. §]

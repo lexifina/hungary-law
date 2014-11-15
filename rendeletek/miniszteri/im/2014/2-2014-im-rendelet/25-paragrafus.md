@@ -1,1 +1,0 @@
-## 24. § A szavazóhelyiséget magában foglaló épületnek a szavazóhelyiség megközelítését szolgáló bejáratától számított 150 méteres távolságon belül – közterületen – választási kampánytevékenység 2014. október 12-én nem folytatható. [Ve. 143. §]

@@ -1,1 +1,0 @@
-## 3. § A helyi választási bizottság három – az egy szavazókörrel rendelkező településen öt – tagját és legalább két póttagot a települési önkormányzat képviselő-testülete legkésőbb 2014. augusztus 31-én 16.00 óráig választja meg. [Ve. 23. §]
