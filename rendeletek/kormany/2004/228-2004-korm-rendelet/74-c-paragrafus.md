@@ -1,6 +1,6 @@
-## Keretmegállapodás[^142]
+## Keretmegállapodás[^143]
 
-74/C. §[^143] (1)[^144] Az ajánlatkérők keretmegállapodásokat alkalmazhatnak. A keretmegállapodásra a Közbeszerzési tv. keretmegállapodásra vonatkozó rendelkezéseit (108–110. §) kell e rendeletben meghatározott eltérésekre figyelemmel alkalmazni.
+74/C. §[^144] (1)[^145] Az ajánlatkérők keretmegállapodásokat alkalmazhatnak. A keretmegállapodásra a Közbeszerzési tv. keretmegállapodásra vonatkozó rendelkezéseit (108–110. §) kell e rendeletben meghatározott eltérésekre figyelemmel alkalmazni.
 
 (2) A verseny ismételt megnyitásának összhangban kell lennie azokkal a szabályokkal, amelyeknek célja, hogy biztosítsák a szükséges rugalmasságot és az 5. § (2) bekezdésében meghatározott elvek tiszteletben tartását.
 
@@ -16,9 +16,9 @@
 
 (8) A keretmegállapodásokon alapuló szerződések odaítélésekor a felek nem módosíthatják lényegesen a keretmegállapodásban megállapított feltételeket, különösen a 74/C. § (1) bekezdésben megállapított esetben.
 
-(9)[^145] Nyílt eljárás helyett hirdetmény közzétételével induló tárgyalásos eljárást kell érteni a Közbeszerzési tv. 108. § (2) bekezdés a) pontjában.
+(9)[^146] Nyílt eljárás helyett hirdetmény közzétételével induló tárgyalásos eljárást kell érteni a Közbeszerzési tv. 108. § (2) bekezdés a) pontjában.
 
-[^142]: A 74/C. §-t megelőző alcímet a 191/2011. (IX. 20.) Korm. rendelet 26. §-a iktatta be.
-[^143]: A 74/C. §-t a 191/2011. (IX. 20.) Korm. rendelet 26. §-a iktatta be.
-[^144]: A 74/C. § (1) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^145]: A 74/C. § (9) bekezdését a 295/2011. (XII. 22.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^143]: A 74/C. §-t megelőző alcímet a 191/2011. (IX. 20.) Korm. rendelet 26. §-a iktatta be.
+[^144]: A 74/C. §-t a 191/2011. (IX. 20.) Korm. rendelet 26. §-a iktatta be.
+[^145]: A 74/C. § (1) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^146]: A 74/C. § (9) bekezdését a 295/2011. (XII. 22.) Korm. rendelet 16. § (2) bekezdése iktatta be.

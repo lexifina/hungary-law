@@ -18,7 +18,9 @@ f)[^6] az olyan kutatási és fejlesztési szolgáltatás megrendelésre, amelye
 
 g)[^7] a NATO Biztonsági Beruházási Program vagy egyéb közös finanszírozású NATO támogatott program keretében megvalósuló beszerzésre;
 
-h)[^8] a 412 000 EUR értékhatárt el nem érő, a fogvatartottak kötelező foglalkoztatása keretében előállított áruk vagy teljesített szolgáltatások beszerzésére.
+h)[^8] a 412 000 EUR értékhatárt el nem érő, a fogvatartottak kötelező foglalkoztatása keretében előállított áruk vagy teljesített szolgáltatások beszerzésére;
+
+i)[^9] az Európai Unió egy vagy több tagállamával kötött olyan nemzetközi megállapodás alapján, amely szerint a beszerzésre valamely tagállamban az Európai Unió védelmi beszerzési eljárást szabályozó jogi aktusát átültető tagállami jogszabály rendelkezései szerint kerül sor.
 
 (3) A következő esetekben kizárólag a 74/B. §-t kell alkalmazni:
 
@@ -35,3 +37,4 @@ d) a Kormány egyedi döntésének megfelelően az Európai Unió működésér�
 [^6]: A 2. § (2) bekezdés f) pontja a 295/2011. (XII. 22.) Korm. rendelet 22. § (1) bekezdése szerint módosított szöveg.
 [^7]: [A 2. § (2) bekezdés g) pontjának a 295/2011. (XII. 22.) Korm. rendelet 22. § (2) bekezdésével elrendelt módosítása, amely szerint a „megvalósuló beszerzésekre.” szövegrész helyébe a „megvalósuló beszerzésekre; vagy” szöveg lép, nem átvezethető.]
 [^8]: A 2. § (2) bekezdés h) pontját a 295/2011. (XII. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^9]: A 2. § (2) bekezdés i) pontját a 281/2014. (XI. 14.) Korm. rendelet 1. §-a iktatta be.

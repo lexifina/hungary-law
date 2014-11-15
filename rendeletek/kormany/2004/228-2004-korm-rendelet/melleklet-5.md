@@ -6,7 +6,7 @@
 
 ## b) Elektronikus árverés alkalmazására sor kerül-e:
 
-## 3.[^171] A szerződés meghatározása, amire ajánlatot kérnek:
+## 3.[^172] A szerződés meghatározása, amire ajánlatot kérnek:
 
 ## 4. a A beszerzés tárgya és mennyisége:
 
@@ -52,7 +52,7 @@
 
 ## d) Az ajánlattevő kizárásának, illetőleg teljesítésre alkalmatlanná minősítésének szempontjai:
 
-## 12. a[^172]
+## 12. a[^173]
 
 ## b) A szerződéskötés tervezett időpontja:
 
@@ -66,8 +66,8 @@
 
 ## A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az a beszerzés vonatkozásában szükséges.
 
-5. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^173]
+5. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^174]
 
-[^171]: A 4. számú melléklet 3. pontja a 295/2011. (XII. 22.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^172]: A 4. számú melléklet 12. pont a) alpontját a 295/2011. (XII. 22.) Korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
-[^173]: Az 5. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^172]: A 4. számú melléklet 3. pontja a 295/2011. (XII. 22.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^173]: A 4. számú melléklet 12. pont a) alpontját a 295/2011. (XII. 22.) Korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
+[^174]: Az 5. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.

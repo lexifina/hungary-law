@@ -1,6 +1,6 @@
-## 55. §[^124] Hirdetmény közzétételével induló tárgyalásos eljárás olyan, két szakaszból álló beszerzési eljárás, amelynek első, részvételi szakaszában az ajánlatkérő a részvételre jelentkezőnek a szerződés teljesítésére való alkalmasságáról, vagy alkalmatlanságáról dönt, míg az eljárás második, ajánlattételi szakaszában az alkalmasnak minősített és ajánlattételre felhívott részvételre jelentkezőkkel tárgyal a szerződés feltételeiről.
+## 55. §[^125] Hirdetmény közzétételével induló tárgyalásos eljárás olyan, két szakaszból álló beszerzési eljárás, amelynek első, részvételi szakaszában az ajánlatkérő a részvételre jelentkezőnek a szerződés teljesítésére való alkalmasságáról, vagy alkalmatlanságáról dönt, míg az eljárás második, ajánlattételi szakaszában az alkalmasnak minősített és ajánlattételre felhívott részvételre jelentkezőkkel tárgyal a szerződés feltételeiről.
 
-56. §[^125] (1) A hirdetmény közzététele nélküli tárgyalásos eljárás olyan egy szakaszból álló beszerzési eljárás, amelyben az ajánlatkérő az ajánlattételre felhívott és alkalmasnak minősített ajánlattevőkkel tárgyal a szerződés feltételeiről.
+56. §[^126] (1) A hirdetmény közzététele nélküli tárgyalásos eljárás olyan egy szakaszból álló beszerzési eljárás, amelyben az ajánlatkérő az ajánlattételre felhívott és alkalmasnak minősített ajánlattevőkkel tárgyal a szerződés feltételeiről.
 
 (2) Az ajánlatkérő a következő esetekben hirdetmény közzététele nélküli tárgyalásos eljárást alkalmazhat, ám ezen eljárás alkalmazását a szerződés odaítéléséről szóló hirdetményben meg kell indokolnia:
 
@@ -58,5 +58,5 @@ db) olyan új építési munkák, illetve szolgáltatások esetében, amelyek at
 
 (5) A (2) bekezdés ca) alpontjában meghatározott szerződések, illetve az ismétlődő szerződések tartama nem haladhatja meg az öt évet, kivéve a kivételes körülményeket, amelyek meghatározására bármilyen beszerzett eszköz, berendezés, rendszer várható élettartamának, valamint a szállító megváltozása következtében keletkező műszaki nehézségek figyelembevételével kerül sor.
 
-[^124]: Az 55. § a 191/2011. (IX. 20.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^125]: Az 56. § a 191/2011. (IX. 20.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^125]: Az 55. § a 191/2011. (IX. 20.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^126]: Az 56. § a 191/2011. (IX. 20.) Korm. rendelet 23. §-ával megállapított szöveg.

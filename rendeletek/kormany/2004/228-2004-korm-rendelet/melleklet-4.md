@@ -24,7 +24,7 @@
 
 ## 7. Az ajánlati kötöttség időtartama:
 
-## 8. a[^169]
+## 8. a[^170]
 
 ## b) A szerződéskötés tervezett időpontja:
 
@@ -36,7 +36,7 @@
 
 ## A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az a beszerzés vonatkozásában szükséges, vagy az adott információkat az ajánlatkérő a részvételi felhívásban nem adta meg.
 
-4. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^170]
+4. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^171]
 
-[^169]: A 3. számú melléklet 8. pont a) alpontját a 295/2011. (XII. 22.) Korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
-[^170]: A 4. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^170]: A 3. számú melléklet 8. pont a) alpontját a 295/2011. (XII. 22.) Korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
+[^171]: A 4. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
