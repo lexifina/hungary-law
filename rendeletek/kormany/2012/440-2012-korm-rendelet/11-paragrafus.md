@@ -1,4 +1,4 @@
-11. § (1)[^1] A hulladéktermelő, a kereskedő és a hulladékkezelő adatszolgáltatási kötelezettségének keletkezését, továbbá – ha tevékenysége megváltozik vagy megszűnik – az adatszolgáltatási kötelezettségének megváltozását vagy megszűnését a kötelezettség keletkezésétől, megváltozásától vagy megszűnésétől számított 60 napon belül a környezetvédelmi és természetvédelmi felügyelőségnek (a továbbiakban: felügyelőség) írásban bejelenti.
+11. § (1)[^2] A hulladéktermelő, a kereskedő és a hulladékkezelő adatszolgáltatási kötelezettségének keletkezését, továbbá – ha tevékenysége megváltozik vagy megszűnik – az adatszolgáltatási kötelezettségének megváltozását vagy megszűnését a kötelezettség keletkezésétől, megváltozásától vagy megszűnésétől számított 60 napon belül a környezetvédelmi és természetvédelmi felügyelőségnek (a továbbiakban: felügyelőség) írásban bejelenti.
 
 (2) Az adatszolgáltatási kötelezettség keletkezésekor, megváltozásának vagy megszűnésének bejelentésekor a következő adatokat kell közölni:
 
@@ -18,4 +18,4 @@ f) negyedéves adatszolgáltatási kötelezettség esetén azt, hogy az adatszol
 
 (4) A 2–7. melléklet kitöltésére vonatkozó útmutatót a környezetvédelemért felelős miniszter (a továbbiakban: miniszter) közleményben, hivatalos lapjában teszi közzé.
 
-[^1]: A 11. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 129. §-a szerint módosított szöveg.
+[^2]: A 11. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 129. §-a szerint módosított szöveg.
