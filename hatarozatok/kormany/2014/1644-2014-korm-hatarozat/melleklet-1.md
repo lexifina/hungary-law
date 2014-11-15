@@ -42,7 +42,7 @@
 
 ## Határidő: a kiadások felmerülésének ütemében
 
-## 5. Hatályát veszti a Miniszterelnökség agrár-vidékfejlesztésért felelős államtitkára által irányított szervezeti egységek Kecskemétre történő áthelyezéséről szóló 1436/2014. (VII. 31.) Korm. határozat 1. a)–b) pontja.
+## 5.[^1]
 
 1. melléklet az 1644/2014. (XI. 14.) Korm. határozathoz
 
@@ -115,3 +115,5 @@
 | Magyar Államkincstár |  | 1 példány |  |  | egyéb: | azonnal |  |  | 153,8 |  |  |  |  |  |  |  |  |  |  |  | 153,8 |
 
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
