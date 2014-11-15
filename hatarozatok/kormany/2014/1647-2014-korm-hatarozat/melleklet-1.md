@@ -40,7 +40,7 @@
 
 ## Határidő: azonnal
 
-## 6. visszavonja az egészségügyi intézmények infrastrukturális fejlesztését támogató uniós projektek megvalósítása érdekében szükséges többletforrások biztosításáról szóló 1454/2014. (VIII. 1.) Korm. határozat 4. pontját.
+## 6.[^1]
 
 1. melléklet az 1647/2014. (XI. 14.) Korm. határozathoz
 
@@ -93,3 +93,5 @@
 | 4. | Egyesített Szent István és Szent László Kórház-Rendelőintézet | 100 000 000 | A projekt célja a kórház onkológiai ellátásának korszerűsítése. Ennek keretében korszerűsítik a kórház épületét az onkológiai fekvő- és járóbeteg ellátás feltételeinek javítása érdekében. A beruházás eredményeként az intézmény teljes onkológiai ellátórendszere korszerű, az ellátás biztonságát és a betegek komfortját növelő kubatúrába kerül áthelyezésre. A beruházás magában foglalja az épület jelenlegi funkciójának kiváltását is. |
 
 | 5. | Összesen: | 1 801 800 000 |  |
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
