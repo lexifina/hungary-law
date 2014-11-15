@@ -1,16 +1,12 @@
 1. A Kormány a Közigazgatási és Igazságügyi Hivatal által üzemeltetett üdülőingatlanokkal összefüggésben:
 
-a) felhívja a nemzetgazdasági minisztert, hogy intézkedjen a központi közigazgatás integrált üdültetési rendszerével összefüggő feladatok központi költségvetési szerv által történő átvételéről szóló 134/2014. (IV. 18.) Korm. rendelettel (a továbbiakban: Kormányrendelet) a Közigazgatási és Igazságügyi Hivatal üzemeltetésébe került üdülőingatlanokkal összefüggésben keletkezett pénzügyi kötelezettségek teljesítéséhez szükséges forrás biztosítása iránt;
+a)[^1] felhívja a nemzetgazdasági minisztert, hogy intézkedjen a központi közigazgatás integrált üdültetési rendszerével összefüggő feladatok központi költségvetési szerv által történő átvételéről szóló 134/2014. (IV. 18.) Korm. rendelettel (a továbbiakban: Kormányrendelet) a Közigazgatási és Igazságügyi Hivatal üzemeltetésébe került üdülőingatlanokkal összefüggésben keletkezett pénzügyi kötelezettségeknek a Közigazgatási és Igazságügyi Hivatal által történő teljesítése érdekében a teljesítéséhez szükséges forrás biztosítása iránt;
 
 Felelős: nemzetgazdasági miniszter
 
-Határidő: 2014. október 31.
+Határidő: azonnal
 
-b) felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen a Kormányrendelettel a Közigazgatási és Igazságügyi Hivatal üzemeltetésébe került üdülőingatlanokkal összefüggésben keletkezett pénzügyi kötelezettségek teljesítése iránt;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2014. október 31.
+b)[^2]
 
 c) felhívja a Miniszterelnökséget vezető minisztert, hogy intézkedjen a Kormányrendelettel a Közigazgatási és Igazságügyi Hivatal üzemeltetésébe került üdülőingatlanok üzemeltetésének megszüntetése iránt;
 
@@ -26,8 +22,10 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2014. október 31.
 
-2.[^1]
+2.[^3]
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja az 1642/2014. (XI. 14.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 1. pont b) alpontját az 1642/2014. (XI. 14.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
