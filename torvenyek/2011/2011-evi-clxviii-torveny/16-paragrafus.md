@@ -12,4 +12,4 @@
 
 a) a kockázatviselés helyét a MePAR kötelező alkalmazásával is meg kell határozni, és
 
-b) a mezőgazdasági termelő ügyfél-azonosító számát is fel kell tüntetni.
+b) a mezőgazdasági termelő ügyfél- azonosítóját is fel kell tüntetni.
