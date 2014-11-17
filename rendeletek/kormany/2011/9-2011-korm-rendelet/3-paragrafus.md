@@ -30,7 +30,7 @@ c) általános építményekben bekövetkezett károk esetében az építmény h
 
 (7)[^27] Az előzetes helyszíni vizsgálat lefolytatásáról a 3. melléklet A) része szerinti jegyzőkönyvet elektronikusan – az ebr42 rendszerben – kell kiállítani. A rendkívüli időjárás által közvetlenül okozott károk (5) és (6) bekezdés szerinti vizsgálata esetében az OMSZ a Katasztrófavédelmi Igazgatóság kérésére – térítésmentesen – tájékoztatást küld.
 
-(8)[^28] Pince-, partfalomlás vagy földcsuszamlás esetében a településfejlesztésért és településrendezésért felelős miniszter által kinevezett Pince- és Partfalveszély-Elhárítási Szakértői Bizottság a bejelentéstől számított 20 napon belül a káreseményt a helyszínen megvizsgálja, veszélyességi kategóriába sorolja és megállapításait a 3. melléklet B) része szerinti adatlapon az ebr42 rendszerben elektronikusan rögzíti, majd erről faxon tájékoztatja a helyi önkormányzatot.
+(8)[^28] Pince-, partfalomlás vagy földcsuszamlás esetében a miniszter által kinevezett Pince- és Partfalveszély-Elhárítási Szakértői Bizottság a bejelentéstől számított 20 napon belül a káreseményt a helyszínen megvizsgálja, veszélyességi kategóriába sorolja és megállapításait a 3. melléklet B) része szerinti adatlapon az ebr42 rendszerben elektronikusan rögzíti, majd erről faxon tájékoztatja a helyi önkormányzatot.
 
 (8a)[^29] Katasztrófavédelmi szúnyoggyérítés esetében a bejelentést követően haladéktalanul, de legkésőbb 30 napon belül a helyi önkormányzat székhelye szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve – az ebr42 rendszerben – kiállítja a 9. melléklet B) része szerinti nyilatkozatot.
 
@@ -57,7 +57,7 @@ c) általános építményekben bekövetkezett károk esetében az építmény h
 [^25]: A 3. § (6) bekezdése a 342/2013. (IX. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 129/2014. (IV. 10.) Korm. rendelet 12. § 4. pontja szerint módosított szöveg.
 [^26]: A 3. § (6a) bekezdését a 342/2013. (IX. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^27]: A 3. § (7) bekezdése a 129/2014. (IV. 10.) Korm. rendelet 12. § 5. pontja szerint módosított szöveg.
-[^28]: A 3. § (8) bekezdése a 92/2013. (III. 28.) Korm. rendelet 11. § 10. pontja szerint módosított szöveg.
+[^28]: A 3. § (8) bekezdése a 92/2013. (III. 28.) Korm. rendelet 11. § 10. pontja, a 280/2014. (XI. 14.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^29]: A 3. § (8a) bekezdését a 92/2013. (III. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 129/2014. (IV. 10.) Korm. rendelet 12. § 6. pontja szerint módosított szöveg.
 [^30]: A 3. § (9) bekezdését a 129/2014. (IV. 10.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
 [^31]: A 3. § (10) bekezdése a 92/2013. (III. 28.) Korm. rendelet 11. § 11–12. pontja, a 129/2014. (IV. 10.) Korm. rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.
