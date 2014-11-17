@@ -1,0 +1,1 @@
+A Kormány felelősséget érez a főváros tömegközlekedésének biztonságos működtetéséért, ezért a Budapest Főváros Önkormányzata legfeljebb 60 milliárd forint összegű forrásbevonására kiterjedő állami kezességvállalással támogatja a fővárosi M3 metróvonal felújításának hatékony finanszírozását.
