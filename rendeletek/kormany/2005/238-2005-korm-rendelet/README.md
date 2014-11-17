@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-238-20-
 | 2013-10-01 | 2005-238-20-22.12 | 246/2006. (XII. 5.) Korm. rendelet |
 | 2014-01-01 | 2005-238-20-22.13 | 266/2013. (VII. 11.) Korm. rendelet |
 | 2014-03-15 | 2005-238-20-22.14 | 62/2014. (III. 6.) Korm. rendelet |
+| 2014-11-17 | 2005-238-20-22.15 | 322/2012. (XI. 16.) Korm. rendelet |

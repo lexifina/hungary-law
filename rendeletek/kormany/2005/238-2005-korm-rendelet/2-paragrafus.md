@@ -42,7 +42,7 @@ közül azt szabja ki, amelynek a mértéke alacsonyabb.
 
 (7)[^14] A bírságot az azt kiszabó határozat jogerőre emelkedésétől számított harminc napon belül kell megfizetni a határozatban megjelölt számlaszámra. A teljesítési határidő előtt benyújtott kérelemre halasztás egy alkalommal engedélyezhető legfeljebb harminc napra.
 
-(8)[^15] Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 3. § (1) bekezdésében meghatározott építésfelügyeleti hatóság által jogerősen megállapított bírságot a Magyar Államkincstár által vezetett 10032000-01220122-50003008 számú célelszámolási számlára, készpénzátutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – amennyiben a feltételei fennállnak – elektronikus fizetési és elszámolási rendszeren keresztül kell megfizetni.
+(8)[^15] Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 3. § (1) bekezdésében meghatározott építésfelügyeleti hatóság által jogerősen megállapított bírságot a Magyar Államkincstár által vezetett 10032000-00294896-51000008 számú célelszámolási számlára, készpénzátutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – amennyiben a feltételei fennállnak – elektronikus fizetési és elszámolási rendszeren keresztül kell megfizetni.
 
 (9)[^16] A sajátos építményfajták körében, a (8) bekezdésben meghatározottól eltérő építésfelügyeleti hatóság által jogerősen kiszabott bírságot a sajátos építményfajta tekintetében feladatkörrel rendelkező miniszter által meghatározott előirányzat számlájára kell befizetni.
 
@@ -54,5 +54,5 @@ közül azt szabja ki, amelynek a mértéke alacsonyabb.
 [^12]: A 2. § (3a) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^13]: A 2. § (4) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^14]: A 2. § (7) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
-[^15]: A 2. § (8) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 149/2013. (V. 16.) Korm. rendelet 6. §-a iktatta be.
+[^15]: A 2. § (8) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 149/2013. (V. 16.) Korm. rendelet 6. §-a iktatta be, szövege a 280/2014. (XI. 14.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^16]: A 2. § (9) bekezdését újonnan a 149/2013. (V. 16.) Korm. rendelet 6. §-a iktatta be.
