@@ -106,4 +106,6 @@
 
 ## 8. Műemlékek fejlesztése, korszerűsítése
 
-3. melléklet a 487/2013. (XII. 17.) Korm. rendelethez
+3. melléklet a 487/2013. (XII. 17.) Korm. rendelethez[^7]
+
+[^7]: A 3. melléklet a 280/2014. (XI. 14.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.

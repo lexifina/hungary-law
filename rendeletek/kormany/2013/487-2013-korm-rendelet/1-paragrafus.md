@@ -10,4 +10,8 @@ c) a közszolgálati tisztviselők képesítési előírásairól szóló 29/201
 
 [az a)–c) pontban foglaltak a továbbiakban együtt: köztisztviselő].
 
+(1a)[^1] A köztisztviselő építésügyi vizsga kötelezettsége megszűnik, ha a rá irányadó öregségi nyugdíjkorhatár eléréséhez öt évnél rövidebb idő van hátra.
+
 (2) Az építésügyi vizsgáztatással és az építésügyi szakmai továbbképzéssel kapcsolatos feladatok végrehajtásának szakmai irányítását és felügyeletét az építésügyért felelős miniszter (a továbbiakban: miniszter) látja el. A szakmai továbbképzés irányítása tekintetében az e rendeletben nem szabályozott kérdésekben az irányítási jogkört a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter gyakorolja.
+
+[^1]: Az 1. § (1a) bekezdését a 280/2014. (XI. 14.) Korm. rendelet 4. § (1) bekezdése iktatta be.
