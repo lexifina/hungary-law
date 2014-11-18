@@ -10,6 +10,8 @@
 
 (5) Adategyezőség hiányában a jegyző az ellenőrzött címet a jegyzékben „felülvizsgálandó” jelzéssel látja el.
 
-(6) A jegyző a (3)–(5) bekezdés szerint ellenőrzött adatállományt 2014. november 15-ig a központi szerv részére visszajuttatja.
+(6)[^2] A jegyző a (3)–(5) bekezdés szerint ellenőrzött adatállományt 2014. december 15-éig a központi szerv részére visszajuttatja.
 
 (7) A központi szerv a jegyzéket és a (6) bekezdés szerint visszajuttatott ellenőrzött adatállományt – az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló törvényben meghatározott központi címregiszter létrehozásának előkészítése céljából – a nyilvántartástól elkülönítetten kezeli, azt nem teszi a nyilvántartás részévé.
+
+[^2]: A 2. § (6) bekezdése a 283/2014. (XI. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
