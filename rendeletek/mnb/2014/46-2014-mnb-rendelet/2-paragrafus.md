@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme réz (75%) és nikkel (25%) ötvözetéből készült, súlya 12,5 gramm, átmérője 30 mm, széle recézett.
+
+(2) Az emlékérme előlapján, a középmezőben Zrínyi Miklós – Jan Thomas festménye alapján készült – portréjának ábrázolása látható. Az emlékérme szélén, felső köriratban a „MAGYARORSZÁG” felirat, alsó köriratban a „2000” értékjelzés és a „FORINT” felirat olvasható. A felső és az alsó köriratot bal oldalon a „2014” verési évszám, jobb oldalon a „BP.” verdejel választja el. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben Csáktornya vára látható, alatta egy folyó stilizált ábrázolásával. A vár ábrázolása fölötti vízszintes sorban, középen az „1620–1664” felirat, a folyó ábrázolása alatti, szalagot formáló hullámos sávban a „CSÁKTORNYA” felirat olvasható, alatta, középen Hunyadi László tervezőművész mesterjegye látható. Az emlékérme szélén, felső köriratban „ZRÍNYI MIKLÓS”, alsó köriratban a „SORS BONA, NIHIL ALIUD” felirat olvasható. A felső és az alsó köriratot bal és jobb oldalon egy-egy pont választja el egymástól. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
