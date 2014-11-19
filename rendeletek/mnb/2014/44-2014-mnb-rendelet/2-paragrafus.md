@@ -1,0 +1,5 @@
+2. § (1) Az álló téglalap alakú emlékérme réz (75%) és nikkel (25%) ötvözetéből készült, súlya 22,5 gramm, mérete 39,6 mmx26,4 mm, széle sima.
+
+(2) Az emlékérme előlapján a Magyar Földtani és Geofizikai Intézet előcsarnokának ábrázolása látható. Az emlékérme szélén, lent a „MAGYARORSZÁG” felirat, fölötte kissé balra, két vízszintes sorban a „2000” értékjelzés és a „FORINT” felirat olvasható. A jobb oldali peremmel párhuzamosan – a lépcsőfeljáróba illesztve – a „BP.” verdejel, és a „2014” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben Lechner Ödön félalakos – az építészt karosszékben ülve ábrázoló – portréja, a háttérben az Iparművészeti Múzeum ábrázolása látható. Az emlékérme szélén, fent a „LECHNER ÖDÖN” felirat, alatta jobb oldalon, két vízszintes sorban az „1845” és az „1914” felirat olvasható. Az emlékérme jobb oldali szélén, a karosszék fölött Fritz Mihály tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
