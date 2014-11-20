@@ -14,13 +14,7 @@ c) egyházi jogi személy;
 
 (3) A pályázatban önállóan csak a 4. melléklet a), b), d), e) és g) pontjában meghatározott elszámolható kiadások szerepelhetnek. A 4. melléklet c), f) h), i), és j) pontjában meghatározott elszámolható kiadások csak a 4. melléklet a), b), d), e) vagy g) pontjában szereplő kiadásokkal együtt támogathatóak.
 
-(4) A 4. melléklet i) pontja szerinti működési kiadások a 3. melléklet alapján számolhatók el, ha a fejlesztés a LEADER HACS által meghatározott közhasznú tevékenységre irányul és ha azokat a LEADER HACS az adott célterület vonatkozásában elszámolhatóként határozza meg. A működési kiadások mértéke nem haladhatja meg
-
-a) első évben a beruházás megvalósítása érdekében jóváhagyott elszámolható kiadás 5%-át, legfeljebb a bruttó 2 600 000 forintot;
-
-b) a második évben a beruházás megvalósítása érdekében jóváhagyott elszámolható kiadás 4%-át, legfeljebb a bruttó 2 000 000 forintot;
-
-c) a harmadik évben a beruházás megvalósítása érdekében jóváhagyott elszámolható kiadás 3%-át, legfeljebb a bruttó 1 600 000 forintot.
+(4)[^10] A 4. melléklet i) pontja szerinti működési kiadások a 3. melléklet alapján számolhatók el, ha a fejlesztés a LEADER HACS által meghatározott közhasznú tevékenységre irányul, és ha azokat a LEADER HACS az adott célterület vonatkozásában elszámolhatóként határozza meg. A működési kiadások mértéke nem haladhatja meg az üzemeltetési kötelezettség teljes ideje alatt a beruházás megvalósítása érdekében jóváhagyott elszámolható kiadás 12%-át, legfeljebb a bruttó 6 200 000 forintot. A működési kiadásokra irányuló kifizetési kérelem legkésőbb a 22. § (5) bekezdésében meghatározott, az utolsó kifizetési kérelem beadására vonatkozó határidőig nyújtható be.
 
 (5) Működési támogatás igénybevételére irányuló kifizetési kérelmet a 4. melléklet a)–h) és j) pontjaiban meghatározott fejlesztés utolsó kifizetési kérelmének benyújtási időpontjától kezdődően felmerült kiadásokra lehet benyújtani.
 
@@ -30,7 +24,7 @@ c) a harmadik évben a beruházás megvalósítása érdekében jóváhagyott el
 
 a) a Vhr. 20. § (3) bekezdésétől eltérően – ha az ügyfél működési támogatást is igénybe vesz – az utolsó kifizetési kérelem benyújtása előtt kifizethető a támogatási határozattal jóváhagyott támogatási összeg 80%-át meghaladó összeg;
 
-b)[^9] a Vhr. 23. § (1) bekezdés b) pontjától eltérően az üzemeltetési kötelezettség az utolsó beruházási kifizetési kérelem benyújtásától számított öt évig tart kivéve, ha a 2. § (1) bekezdés a) pontja szerinti jogcím esetében a támogatási határozattal jóváhagyott művelet kizárólag a 4. melléklet g) pontjában meghatározott elszámolható kiadásokat foglalja magában, mert ebben az esetben a támogatási határozatban jóváhagyott műveletre az üzemeltetési időszakra vonatkozó rendelkezéseket nem kell alkalmazni.
+b)[^11] a Vhr. 23. § (1) bekezdés b) pontjától eltérően az üzemeltetési kötelezettség az utolsó beruházási kifizetési kérelem benyújtásától számított öt évig tart kivéve, ha a 2. § (1) bekezdés a) pontja szerinti jogcím esetében a támogatási határozattal jóváhagyott művelet kizárólag a 4. melléklet g) pontjában meghatározott elszámolható kiadásokat foglalja magában, mert ebben az esetben a támogatási határozatban jóváhagyott műveletre az üzemeltetési időszakra vonatkozó rendelkezéseket nem kell alkalmazni.
 
 c) a Vhr. 23. § (1) bekezdés c) pontjától eltérően az üzemeltetési kötelezettség időtartama alatt a beruházás vagy fejlesztés tárgya – a fenntarthatóságának biztosítása érdekében – az üzemeltetési kötelezettség fenntartása mellett bérbe adható;
 
@@ -40,4 +34,5 @@ d) a Vhr. 20. § (4) bekezdésében foglaltakat – ha az ügyfél működési t
 
 (9) A 4. melléklet a)–b) pontjaihoz kapcsolódó fejlesztések esetén a pályázathoz csatolni kell a tervezett fejlesztés településen belüli elhelyezkedését bemutató térképrészletet.
 
-[^9]: A 10. § (7) bekezdés b) pontja a 35/2012. (IV. 13.) VM rendelet 9. §-ával megállapított szöveg.
+[^10]: A 10. § (4) bekezdése a 8/2014. (XI. 19.) MvM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^11]: A 10. § (7) bekezdés b) pontja a 35/2012. (IV. 13.) VM rendelet 9. §-ával megállapított szöveg.

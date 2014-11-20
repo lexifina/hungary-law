@@ -1,4 +1,4 @@
-## 25/C. §[^26] E rendeletnek a vidékfejlesztési miniszter felelősségi körébe tartozó egyes miniszteri rendeleteknek a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló törvényhez kapcsolódó, valamint más vidékfejlesztési tárgyú módosításáról szóló 121/2013. (XII. 16.) VM rendelettel [a továbbiakban: 121/2013. (XII. 16.) VM rendelet] megállapított 22. § (2) bekezdését a 121/2013. (XII. 16.) VM rendelet hatálybalépésekor[^27] folyamatban lévő ügyekben is alkalmazni kell.
+## 25/D. §[^31] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 4. § (7) bekezdést, 10. § (4) bekezdést és 22. § (5) bekezdést a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^32] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
-[^26]: A 25/C. §-t a 121/2013. (XII. 16.) VM rendelet 19. § (3) bekezdése iktatta be.
-[^27]: A hatálybalépés időpontja 2013. december 17.
+[^31]: A 25/D. §-t a 8/2014. (XI. 19.) MvM rendelet 9. § (4) bekezdése iktatta be.
+[^32]: A hatálybalépés időpontja 2014. november 20.
