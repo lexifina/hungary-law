@@ -1314,4 +1314,4 @@
 
 2. melléklet a 31/2011. (X. 24.) KIM rendelethez[^15]
 
-[^15]: A 2. melléklet a 13/2013. (VII. 9.) KIM rendelet 4. §-ával megállapított szöveg.
+[^15]: A 2. melléklet a 13/2013. (VII. 9.) KIM rendelet 4. §-ával megállapított, a 7/2014. (XI. 19.) MvM rendelet 1. §-a szerint módosított szöveg.
