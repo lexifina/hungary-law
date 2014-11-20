@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Magyar Honvédség közvetlen légi támogatási képessége kialakítása és a 2016-os V4 EU Harccsoportba történő felajánlása érdekében 1160,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 2. Magyar Honvédség cím, 1. Honvéd Vezérkar közvetlen szervezetei alcím javára az 1. melléklet szerint;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Magyar Honvédség közvetlen légi támogatási képessége kialakítása és a 2016-os V4 EU Harccsoportba történő felajánlása érdekében 1160,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 2. Magyar Honvédség cím, 1. Honvéd Vezérkar közvetlen szervezetei alcím javára az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,7 +10,7 @@
 
 ## Felelős: honvédelemért felelős miniszter
 
-## Határidő: 2014. december 15.
+## Határidő: 2015. május 31.
 
 ## 2. felhívja a honvédelemért felelős minisztert, valamint a nemzetgazdaságért felelős minisztert, hogy a Magyar Honvédség közvetlen légi támogatási képességének biztosításához 2015. évben szükséges, legfeljebb 1700,0 millió forint összegű forrásnak a központi költségvetés tervezése során a Honvédelmi Minisztérium fejezetben történő biztosításáról gondoskodjanak;
 
@@ -79,3 +79,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont az 1676/2014. (XI. 20.) Korm. határozat 6. pontja szerint módosított szöveg.
