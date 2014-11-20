@@ -44,6 +44,6 @@
 
 ## A tárgyévben elemi kárt szenvedett termelők a megyei kormányhivatal földművelésügyi igazgatósága által kiadott igazolás alapján megállapított árbevétel kieséssel a mezőgazdasági árbevételüket módosíthatják.
 
-3. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^254]
+3. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^263]
 
-[^254]: A 3. számú melléklet a 137/2012. (XII. 22.) VM rendelet 14. §-ával megállapított szöveg.
+[^263]: A 3. számú melléklet a 137/2012. (XII. 22.) VM rendelet 14. §-ával megállapított szöveg.

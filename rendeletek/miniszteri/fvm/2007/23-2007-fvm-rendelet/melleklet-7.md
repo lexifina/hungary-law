@@ -18,6 +18,6 @@
 
 | Összesen: |  | max. 50 pont |
 
-7. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^259]
+7. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^268]
 
-[^259]: A 7. számú mellékletet a 63/2007. (VII. 13.) FVM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 23/2010. (III. 16.) FVM rendelet 3. § (7) bekezdése.
+[^268]: A 7. számú mellékletet a 63/2007. (VII. 13.) FVM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 23/2010. (III. 16.) FVM rendelet 3. § (7) bekezdése.

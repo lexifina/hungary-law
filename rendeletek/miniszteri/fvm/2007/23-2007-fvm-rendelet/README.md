@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-23-20-8
 | 2013-02-06 | 2007-23-20-82.34 | 6/2013. (II. 5.) VM rendelet |
 | 2013-08-01 | 2007-23-20-82.35 | 53/2008. (IV. 24.) FVM rendelet |
 | 2014-03-15 | 2007-23-20-82.36 | 22/2014. (III. 14.) VM rendelet |
+| 2014-11-20 | 2007-23-20-82.37 | 8/2014. (XI. 19.) MvM rendelet |

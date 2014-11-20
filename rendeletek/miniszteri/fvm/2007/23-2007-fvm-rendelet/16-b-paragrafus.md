@@ -1,6 +1,6 @@
-## 16/A. §[^99] A kérelem alapján tervezett elszámolható kiadásokra vonatkozó igény meghatározása az MVH által a támogatás alapjára rendszeresített, a tervezett tételeket részletező formanyomtatvány adatai alapján történik.
+## 16/A. §[^101] A kérelem alapján tervezett elszámolható kiadásokra vonatkozó igény meghatározása az MVH által a támogatás alapjára rendszeresített, a tervezett tételeket részletező formanyomtatvány adatai alapján történik.
 
-16/B. §[^100] (1) Jogszabály eltérő rendelkezése hiányában kifizetési kérelmet évente február 1. és május 31., valamint augusztus 1. és december 31. között lehet benyújtani, kivéve a Technikai Segítségnyújtás intézkedést, valamint a 2. § (1) bekezdés a) pont ac) alpontja szerinti intézkedést.
+16/B. §[^102] (1) Jogszabály eltérő rendelkezése hiányában kifizetési kérelmet évente február 1. és május 31., valamint augusztus 1. és december 31. között lehet benyújtani, kivéve a Technikai Segítségnyújtás intézkedést, valamint a 2. § (1) bekezdés a) pont ac) alpontja szerinti intézkedést.
 
 (2) A 8. § (2) bekezdésétől eltérően az (1) bekezdés alapján benyújtott kifizetési kérelmek esetén egy ügyfél egy kifizetési kérelem-benyújtási időszakban több kérelmet is benyújthat, ha
 
@@ -14,5 +14,5 @@ c) az ugyanazon időszakban benyújtott kérelmét legkésőbb az újonnan beny�
 
 (4) Jogszabály eltérő rendelkezése alapján a kifizetési kérelmet a (3) bekezdéstől eltérően postai úton kell benyújtani. A postai úton benyújtott kifizetési kérelmek esetén a kifizetési kérelemben szereplő adatokra, a kifizetési kérelemhez csatolt dokumentumokra nézve módosítási kérelem kizárólag az eredeti kérelem benyújtásának hónapjában terjeszthető elő.
 
-[^99]: A 16/A. §-t a 97/2008. (VII. 25.) FVM rendelet 7. §-a iktatta be.
-[^100]: A 16/B. §-t az 57/2011. (VI. 20.) VM rendelet 2. §-a iktatta be, szövege a 137/2012. (XII. 22.) VM rendelet 2. §-ával megállapított szöveg.
+[^101]: A 16/A. §-t a 97/2008. (VII. 25.) FVM rendelet 7. §-a iktatta be.
+[^102]: A 16/B. §-t az 57/2011. (VI. 20.) VM rendelet 2. §-a iktatta be, szövege a 137/2012. (XII. 22.) VM rendelet 2. §-ával megállapított szöveg.
