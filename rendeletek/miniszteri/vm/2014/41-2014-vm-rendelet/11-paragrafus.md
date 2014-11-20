@@ -10,7 +10,7 @@ a) az ügyfél neve, címe, ügyfél-azonosítója,
 
 b) az ügyfél kérelmében szereplő erdőrészletek szerinti erdőgazdálkodói nyilvántartási száma,
 
-c)[^5] a kérelmezett tevékenység megvalósítási helyét képező erdőrészletek azonosítója és az erdőrészleten tervezett, a 2. § (2) bekezdése szerinti tevékenység megnevezése, és e tevékenység támogatási egységben kifejezett mértéke.
+c)[^6] a kérelmezett tevékenység megvalósítási helyét képező erdőrészletek azonosítója és az erdőrészleten tervezett, a 2. § (2) bekezdése szerinti tevékenység megnevezése, és e tevékenység támogatási egységben kifejezett mértéke.
 
 (4) A támogatási kérelemhez csatolni kell:
 
@@ -30,4 +30,4 @@ ba) a területileg illetékes katasztrófavédelmi hatósághoz benyújtott véd
 
 bb) a 9. § (3) bekezdés b) pontja szerinti megállapodást, ha az ügyfél a kérelemmel érintett terület vonatkozásában nem bejegyzett erdőgazdálkodó.
 
-[^5]: A 11. § (3) bekezdés c) pontja az 1/2014. (IX. 15.) MvM rendelet 42. § c) pontja szerint módosított szöveg.
+[^6]: A 11. § (3) bekezdés c) pontja az 1/2014. (IX. 15.) MvM rendelet 42. § c) pontja szerint módosított szöveg.
