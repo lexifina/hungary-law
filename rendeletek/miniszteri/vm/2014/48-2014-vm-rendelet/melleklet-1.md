@@ -1,6 +1,6 @@
-## 12. §[^11] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 1/2014. (IX. 15.) MvM rendelettel [a továbbiakban: 1/2014. (IX. 15.) MvM rendelet] megállapított 2. § (1) bekezdés 3. és 7. pontot, 4. § (1) bekezdés a), d) és m) pontot, 5. § (7) bekezdés a) pont ab) alpontot, b) pont bb) alpontot és d) pont db) alpontot, 5. § (9) bekezdést, valamint 8. § (1) bekezdést az 1/2014. (IX. 15.) MvM rendelet hatálybalépésekor[^12] folyamatban lévő ügyekben is alkalmazni kell.
+## 13. §[^16] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 5. § (3a) bekezdést és 5. § (7) bekezdés c) pont cb) alpontot a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^17] folyamatban levő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
 1. melléklet a 48/2014. (IV. 25.) VM rendelethez
 
-[^11]: A 12. §-t az 1/2014. (IX. 15.) MvM rendelet 44. § (7) bekezdése iktatta be.
-[^12]: A hatálybalépés időpontja 2014. szeptember 16.
+[^16]: A 13. §-t a 8/2014. (XI. 19.) MvM rendelet 27. § (4) bekezdése iktatta be.
+[^17]: A hatálybalépés időpontja 2014. november 20.

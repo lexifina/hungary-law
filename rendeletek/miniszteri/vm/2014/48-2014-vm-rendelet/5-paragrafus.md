@@ -14,6 +14,8 @@ d) adminisztratív és szakmai koordinációra: 327 070 000 Ft.
 
 (3) Az ügyfél kérelmére, az IH előzetes írásbeli jóváhagyása esetén a (2) bekezdés a) és b) pontjában meghatározott támogatási felső határértékek legfeljebb 10-10%-kal növelhetők a d) pontban meghatározott támogatási felső határérték terhére. Az átcsoportosítás iránti kérelmet – amely tartalmazza az átcsoportosítás indokolását is – az ügyfélnek az IH-hoz kell benyújtania legkésőbb az átcsoportosítással érintett időszakot követő kifizetési kérelem benyújtási időszakának első napját megelőző tizenötödik napig.
 
+(3a)[^6] Az ügyfél kérelmére, az IH előzetes írásbeli jóváhagyása esetén a (2) bekezdés c) pontjában meghatározott támogatási felső határérték növelhető a (2) bekezdés b) pontjában meghatározott támogatási felső határérték terhére, azzal a feltétellel, hogy a csoportos tájékoztatás támogatási kérelemben szereplő száma nem csökkenthető. Az átcsoportosítás iránti kérelmet – amely tartalmazza az átcsoportosítás indokolását is – az ügyfélnek az IH-hoz kell benyújtania legkésőbb az átcsoportosítással érintett időszakot követő kifizetési kérelem benyújtási időszakának első napját megelőző tizenötödik napig.
+
 (4) A támogatás mértéke az elszámolható kiadások 100%-a.
 
 (5) A GISZ tanácsadók munkabérére, béren kívüli juttatásaira és annak járulékaira elszámolt kiadás nem lehet kevesebb, mint az összes elszámolt kiadás 40%-a.
@@ -26,7 +28,7 @@ a) a (2) bekezdés a) pontja szerinti tevékenységek esetében:
 
 aa) munkabér, béren kívüli juttatás és azok járulékai,
 
-ab)[^6] gépjármű egyedi ügyfélszolgálati tájékoztatás elvégzéséhez szükséges használatának költségtérítése,
+ab)[^7] gépjármű egyedi ügyfélszolgálati tájékoztatás elvégzéséhez szükséges használatának költségtérítése,
 
 ac) a helyi és távolsági távbeszélő-szolgáltatás, a mobiltelefon-szolgáltatás, valamint az Internet-protokollt alkalmazó beszédcélú adatátvitel szolgáltatás költsége,
 
@@ -40,7 +42,7 @@ b) a (2) bekezdés b) pontja szerinti tevékenységek esetében:
 
 ba) munkabér, béren kívüli juttatás és azok járulékai,
 
-bb)[^7] gépjármű csoportos tájékoztatás elvégzéséhez szükséges használatának költségtérítése,
+bb)[^8] gépjármű csoportos tájékoztatás elvégzéséhez szükséges használatának költségtérítése,
 
 bc) a GISZ tevékenység keretében tájékoztatási célt szolgáló információs kiadványokhoz kapcsolódó költségek sokszorosítási és szállítási költségei,
 
@@ -50,13 +52,13 @@ c) a (2) bekezdés c) pontja szerinti tevékenységek esetében:
 
 ca) információs kiadványokhoz kapcsolódó költségek,
 
-cb) a széles körű tájékoztatáshoz kapcsolódó költségek, így különösen a terembérlet díja, az előadói díj, a szervezési és lebonyolítási költségek és a média megjelenéssel összefüggő költségek;
+cb)[^9] a széles körű tájékoztatáshoz kapcsolódó költség, így különösen a terembérlet díja, az előadói díj, a rendezvény-szervezési és lebonyolítási költség, beleértve a résztvevők ellátását is, és a média megjelenéssel összefüggő költség;
 
 d) a (2) bekezdés d) pontja szerinti tevékenységek esetében:
 
 da) munkabér, béren kívüli juttatás, és azok járulékai,
 
-db)[^8] gépjármű adminisztratív és szakmai koordináció elvégzéséhez szükséges használatának költségtérítése,
+db)[^10] gépjármű adminisztratív és szakmai koordináció elvégzéséhez szükséges használatának költségtérítése,
 
 dc) a helyi és távolsági távbeszélő-szolgáltatás, a mobiltelefon-szolgáltatás, valamint az Internet-protokollt alkalmazó beszédcélú adatátvitel szolgáltatás költsége,
 
@@ -70,9 +72,11 @@ dg) az oktatások, képzések költségei.
 
 (8) A (7) bekezdésben meghatározott kiadások közül kizárólag a más forrásból meg nem térült kiadások számolhatók el.
 
-(9)[^9] A GISZ tanácsadóknak a GISZ tájékoztatási tevékenység teljesítéséhez kapcsolódó elszámolt béren kívüli juttatásai nem haladhatják meg tanácsadónként a havi (nettó) 10 000 Ft-ot.
+(9)[^11] A GISZ tanácsadóknak a GISZ tájékoztatási tevékenység teljesítéséhez kapcsolódó elszámolt béren kívüli juttatásai nem haladhatják meg tanácsadónként a havi (nettó) 10 000 Ft-ot.
 
-[^6]: Az 5. § (7) bekezdés a) pont ab) alpontja az 1/2014. (IX. 15.) MvM rendelet 45. § b) pontja szerint módosított szöveg.
-[^7]: Az 5. § (7) bekezdés b) pont bb) alpontja az 1/2014. (IX. 15.) MvM rendelet 45. § b) pontja szerint módosított szöveg.
-[^8]: Az 5. § (7) bekezdés d) pont db) alpontja az 1/2014. (IX. 15.) MvM rendelet 45. § b) pontja szerint módosított szöveg.
-[^9]: Az 5. § (9) bekezdése az 1/2014. (IX. 15.) MvM rendelet 44. § (5) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (3a) bekezdését a 8/2014. (XI. 19.) MvM rendelet 27. § (1) bekezdése iktatta be.
+[^7]: Az 5. § (7) bekezdés a) pont ab) alpontja az 1/2014. (IX. 15.) MvM rendelet 45. § b) pontja szerint módosított szöveg.
+[^8]: Az 5. § (7) bekezdés b) pont bb) alpontja az 1/2014. (IX. 15.) MvM rendelet 45. § b) pontja szerint módosított szöveg.
+[^9]: Az 5. § (7) bekezdés c) pont cb) alpontja a 8/2014. (XI. 19.) MvM rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (7) bekezdés d) pont db) alpontja az 1/2014. (IX. 15.) MvM rendelet 45. § b) pontja szerint módosított szöveg.
+[^11]: Az 5. § (9) bekezdése az 1/2014. (IX. 15.) MvM rendelet 44. § (5) bekezdésével megállapított szöveg.
