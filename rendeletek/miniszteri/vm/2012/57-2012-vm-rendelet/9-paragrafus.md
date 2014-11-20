@@ -50,9 +50,9 @@ c) gazdaságot vesz át, és erre vonatkozóan többlet pontot szerzett, és ezt
 
 d) a működtetési időszak 2., 3. vagy 4. évére főállású mezőgazdasági termelővé válik, és ezt nem teljesíti, akkor a már igénybe vett támogatás jogosulatlannak minősül és az ügyfél támogatáshoz való joga megszűnik;
 
-e) életvitelszerűen tanyára vagy 1000 fő alatti lakosságszámú településre költözik legkésőbb a működtetési időszak első évének végéig és ezt a teljes működtetési időszak alatt fenntartja, és ezt nem teljesíti, akkor a már igénybe vett támogatás jogosulatlannak minősül és az ügyfél támogatáshoz való joga megszűnik;
+e)[^4] életvitelszerűen tanyára vagy 1000 fő alatti lakosságszámú településre költözik legkésőbb a működtetési időszak első évének végéig és ezt a teljes működtetési időszak alatt fenntartja, és ezt nem teljesíti, akkor köteles a kifizetett támogatási összeg 20%-át visszafizetni;
 
-f) életvitelszerűen tanyán vagy a Központi Statisztikai Hivatal által a támogatási kérelembenyújtás évének január 1-jei dátummal közzétett helységnévtár alapján 1000 fő alatti lakosságszámú településen él legalább 1 évvel a támogatási kérelem benyújtását megelőzően és ezt fenntartja a működtetési időszak végéig, és ezt nem teljesíti, akkor a már igénybe vett támogatás jogosulatlannak minősül és az ügyfél támogatáshoz való joga megszűnik;
+f)[^5] életvitelszerűen tanyán vagy a Központi Statisztikai Hivatal által a támogatási kérelembenyújtás évének január 1-jei dátummal közzétett helységnévtár alapján 1000 fő alatti lakosságszámú településen él legalább 1 évvel a támogatási kérelem benyújtását megelőzően és ezt fenntartja a működtetési időszak végéig, és ezt nem teljesíti, akkor köteles a kifizetett támogatási összeg 20%-át visszafizetni;
 
 g) a működtetési időszak 4. évének végére vállalt EUME érték megfelelő százalékát a működtetési időszak 3. évének végére teljesíti és az általa a működtetési időszak 3. évének végére vállalt üzemmérettől 10%-ot meghaladó mértékben marad el, akkor köteles a 10%-ot meghaladó elmaradáson túl százalékpontonként a kifizetett támogatási összeg 2%-át visszafizetni.
 
@@ -65,3 +65,6 @@ b) a 8. § (3) bekezdésében meghatározott kérelembenyújtási, valamint a 4.
 (9) Az ügyfélre vonatkozóan megállapított összes visszafizetési kötelezettség nem haladhatja meg a Tv. 69. § (5) bekezdése szerint meghatározott, jogosulatlan részvétellel igénybe vett támogatás esetén alkalmazandó szankció mértékét.
 
 (10) Amennyiben a mezőgazdasági termelők gazdaságátadásához nyújtandó támogatás keretében nem nyílik támogatási időszak 2012-ben, abban az esetben a gazdaság átvételéért kapott többlet pont miatt az ügyféllel szemben a (7) bekezdés c) ponttól eltérően nem alkalmazható szankció.
+
+[^4]: A 9. § (7) bekezdés e) pontja a 8/2014. (XI. 19.) MvM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^5]: A 9. § (7) bekezdés f) pontja a 8/2014. (XI. 19.) MvM rendelet 12. § (2) bekezdésével megállapított szöveg.

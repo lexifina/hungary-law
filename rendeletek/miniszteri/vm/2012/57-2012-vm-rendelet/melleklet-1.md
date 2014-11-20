@@ -1,4 +1,4 @@
-## 12. §[^2] Az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 53/2014. (IV. 29.) VM rendelettel [a továbbiakban: 53/2014. (IV. 29.) VM rendelet] megállapított 1. § 2. pontját az 53/2014. (IV. 29.) VM rendelet hatálybalépésekor[^3] folyamatban lévő ügyekben is alkalmazni kell.
+## 13. §[^8] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 1. § 12. pontot, 4. § (10) bekezdést, 9. § (7) bekezdés e) és f) pontot és 5. mellékletet a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^9] folyamatban levő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
 1. melléklet az 57/2012. (VI. 21.) VM rendelethez
 
@@ -706,5 +706,5 @@
 
 | Szakmunkás bizonyítvány alapján: | Szakmunkás |
 
-[^2]: A 12. §-t az 53/2014. (IV. 29.) VM rendelet 12. § (1) bekezdése iktatta be.
-[^3]: A hatálybalépés időpontja 2014. április 30.
+[^8]: A 13. §-t a 8/2014. (XI. 19.) MvM rendelet 12. § (3) bekezdése iktatta be.
+[^9]: A hatálybalépés időpontja 2014. november 20.
