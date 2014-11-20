@@ -6,7 +6,7 @@ b) a támogatási határozatban jóváhagyott támogatási összeg legalább 10%
 
 (2) Mentesül az ügyfél a (1) bekezdésben foglaltak alól, ha a támogatási kérelemre hozott határozatban kizárólag egy darab gép került jóváhagyásra, és a támogatási határozat jogerőre emelkedését követő 1 hónapon belül az MVH részére megküldi a szállító által kiállított visszaigazolást arról, hogy a megrendelést a támogatási határozat jogerőre emelkedésétől számított 6 hónapon belül miért nem tudja és ezen túl mikorra tudja teljesíteni.
 
-(3)–(4)[^2]
+(3)–(4)[^3]
 
 (5) Az ügyfél köteles:
 
@@ -22,4 +22,4 @@ c) az üzemeltetési kötelezettség időtartamának egésze alatt, illetve indu
 
 (8) A művelet e rendelet hatálybalépésének időpontjától az ügyfél saját felelősségére megkezdhető.
 
-[^2]: A 4. § (3)–(4) bekezdését az 1/2014. (IX. 15.) MvM rendelet 31. §-a hatályon kívül helyezte.
+[^3]: A 4. § (3)–(4) bekezdését az 1/2014. (IX. 15.) MvM rendelet 31. §-a hatályon kívül helyezte.
