@@ -2,7 +2,7 @@
 
 2. § (1) Támogatás vehető igénybe a mikrovállalkozások fejlesztéseinek támogatására, a mikrovállalkozások megkezdett vagy tervezett gazdasági tevékenységéhez közvetlenül kapcsolódó, a (4) bekezdésben meghatározott, gazdaságon kívül végzett tevékenységre.
 
-(2) Tervezett tevékenység esetén, legkésőbb az első kifizetési kérelem benyújtásakor szerepelnie kell a tevékenységnek a mikrovállalkozás bejelentett tevékenységei között, vagy természetes személy ügyfél esetén az első kifizetési kérelem benyújtásáig az egyéni vállalkozó felvett tevékenységei között kell lennie.
+(2)[^1] Tervezett tevékenység esetén legkésőbb az első kifizetési kérelem benyújtásakor szerepelnie kell a tevékenységnek a mikrovállalkozás bejelentett tevékenységei között, vagy természetes személy ügyfél esetén az egyéni vállalkozó felvett tevékenységei között. E kötelezettség az első kifizetési kérelemhez kapcsolódó hiánypótlás keretében, a hiánypótlási felhívásban meghatározott határidőn belül pótolható.
 
 (3) A (2) bekezdés alól kivétel, ha a tevékenység működési engedélyhez kötött új tevékenysség, ebben az esetben legkésőbb az utolsó kifizetési kérelem benyújtásakor szerepelnie kell a tevékenységnek a mikrovállalkozás bejelentett tevékenységei között, vagy természetes személy ügyfél esetén az utolsó kifizetési kérelem benyújtásáig az egyéni vállalkozó felvett tevékenységei között kell lennie.
 
@@ -79,3 +79,5 @@ p) NACE REV. 2. 01 ágazat szerinti minden növénytermesztés, állattenyészt�
 (10) Nem igényelhető olyan fejlesztéshez támogatás, amely az Európai Unióról szóló Szerződés I. mellékletében szereplő termékeknek, az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló 2002. január 28-ai 178/2002/EK európai parlamenti és tanácsi rendelet 3. cikkének 17. bekezdése szerinti elsődleges termelésére vagy feldolgozására vagy turisztikai tevékenységre irányul, valamint amely az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 1. melléklet C. pontjában meghatározott ágazatokba tartozó tevékenységhez kapcsolódik.
 
 (11) Az ügyfél egy támogatási kérelmében legfeljebb három tevékenységet jelölhet meg a támogatható tevékenységei közül. Amennyiben a fejleszteni kívánt megjelölt tevékenységek közül bármelyik e rendelet szerint nem támogatható tevékenységnek minősül, akkor a támogatási kérelem elutasításra kerül.
+
+[^1]: A 2. § (2) bekezdése a 8/2014. (XI. 19.) MvM rendelet 11. § (1) bekezdésével megállapított szöveg.
