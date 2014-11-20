@@ -1,6 +1,6 @@
-## 20. §[^34] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 1/2014. (IX. 15.) MvM rendelettel [a továbbiakban: 1/2014. (IX. 15.) MvM rendelet] megállapított 8. § (5) bekezdést és 11. § (7) bekezdést az 1/2014. (IX. 15.) MvM rendelet hatálybalépésekor[^35] folyamatban lévő ügyekben is alkalmazni kell.
+## 21. §[^41] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 2. § (6), (6a) és (6b) bekezdést, 2. § (14) bekezdést, 7. § (7) és (10) bekezdést, valamint 11. § (1) bekezdést a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^42] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
 1. melléklet a 11/2013. (III. 5.) VM rendelethez
 
-[^34]: A 20. §-t az 1/2014. (IX. 15.) MvM rendelet 27. § (3) bekezdése iktatta be.
-[^35]: A hatálybalépés időpontja 2014. szeptember 16.
+[^41]: A 21. §-t a 8/2014. (XI. 19.) MvM rendelet 15. § (6) bekezdése iktatta be.
+[^42]: A hatálybalépés időpontja 2014. november 20.
