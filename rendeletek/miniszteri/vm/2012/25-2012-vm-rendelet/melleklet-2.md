@@ -24,6 +24,6 @@
 
 | 11 | X. | 5475 | 8000 | 6475 |
 
-2. melléklet a 25/2012. (III. 20.) VM rendelethez[^24]
+2. melléklet a 25/2012. (III. 20.) VM rendelethez[^27]
 
-[^24]: A 2. melléklet a 122/2012. (XII. 6.) VM rendelet 11. §-a, a 13/2014. (II. 24.) VM rendelet 30. § b) pontja, a 22/2014. (III. 14.) VM rendelet 84. § b) pontja szerint módosított szöveg.
+[^27]: A 2. melléklet a 122/2012. (XII. 6.) VM rendelet 11. §-a, a 13/2014. (II. 24.) VM rendelet 30. § b) pontja, a 22/2014. (III. 14.) VM rendelet 84. § b) pontja szerint módosított szöveg.

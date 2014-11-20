@@ -22,13 +22,14 @@ d) a 2. § c) pontja szerinti tevékenységet úgy végzi el, hogy ott a kifizet
 
 (4)[^14] Az ügyfélnek a kifizetési kérelemhez csatolnia kell a munka elvégzését igazoló kiadásigazoló bizonylat másolatát és a tételes számlarészletezőt, amelyek tartalmazzák a támogatási kérelemben szereplő erdőrészlet azonosítókat.
 
-(5) Az ügyfél a 2. §-ban felsorolt műveleteket a támogatási határozat jogerőre emelkedésétől számított két évig, de legkésőbb 2014. október 31-ig végezheti el.
+(5)[^15] Az ügyfél a 2. §-ban felsorolt műveleteket a támogatási határozat jogerőre emelkedésétől számított két évig, de legkésőbb 2015. január 9-ig végezheti el.
 
-(6)[^15] E rendelet alkalmazásában a 23/2007. (IV. 17.) FVM rendelet 8. § (1) bekezdés a) pontjának, a 20. § (3)–(4) bekezdésének, a 23. § (1) bekezdés b) –d) pontjának és a 24. § (1)–(2) bekezdésének rendelkezését nem kell alkalmazni.
+(6)[^16] E rendelet alkalmazásában a 23/2007. (IV. 17.) FVM rendelet 8. § (1) bekezdés a) pontjának, a 20. § (3)–(4) bekezdésének, a 23. § (1) bekezdés b) –d) pontjának és a 24. § (1)–(2) bekezdésének rendelkezését nem kell alkalmazni.
 
-(7)[^16] E rendelet alkalmazásában a 23/2007. (IV.17.) FVM rendelet 19. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy amennyiben az ügyfél a kifizetési kérelem benyújtásakor még nem rendelkezik a támogatási kérelemnek helyt adó, vagy részben helyt adó határozattal, abban az esetben a számviteli bizonylaton a támogatási határozat iratazonosítóját nem kell feltüntetni.
+(7)[^17] E rendelet alkalmazásában a 23/2007. (IV.17.) FVM rendelet 19. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy amennyiben az ügyfél a kifizetési kérelem benyújtásakor még nem rendelkezik a támogatási kérelemnek helyt adó, vagy részben helyt adó határozattal, abban az esetben a számviteli bizonylaton a támogatási határozat iratazonosítóját nem kell feltüntetni.
 
 [^13]: A 10. § (1) bekezdés c) pontja a 122/2012. (XII. 6.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^14]: A 10. § (4) bekezdése a 122/2012. (XII. 6.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^15]: A 10. § (6) bekezdését a 122/2012. (XII. 6.) VM rendelet 7. § (3) bekezdése iktatta be.
-[^16]: A 10. § (7) bekezdését a 122/2012. (XII. 6.) VM rendelet 7. § (3) bekezdése iktatta be, szövege a 13/2014. (II. 24.) VM rendelet 30. § a) pontjával megállapított szöveg.
+[^15]: A 10. § (5) bekezdése a 8/2014. (XI. 19.) MvM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^16]: A 10. § (6) bekezdését a 122/2012. (XII. 6.) VM rendelet 7. § (3) bekezdése iktatta be.
+[^17]: A 10. § (7) bekezdését a 122/2012. (XII. 6.) VM rendelet 7. § (3) bekezdése iktatta be, szövege a 13/2014. (II. 24.) VM rendelet 30. § a) pontjával megállapított szöveg.

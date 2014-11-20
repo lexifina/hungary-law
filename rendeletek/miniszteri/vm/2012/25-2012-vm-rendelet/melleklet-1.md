@@ -1,5 +1,6 @@
-## 16. §[^23] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 13/2014. (II. 24.) VM rendelettel megállapított 3. § (3) és (3a) bekezdését, valamint a 7. § (1) bekezdését a 2014-ben benyújtott támogatási kérelmekkel kapcsolatban kell alkalmazni.
+## 17. §[^25] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 10. § (5) bekezdést a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^26] folyamatban lévő ügyekben, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
 1. melléklet a 25/2012. (III. 20.) VM rendelethez
 
-[^23]: A 16. §-t a 13/2014. (II. 24.) VM rendelet 29. §-a iktatta be.
+[^25]: A 17. §-t a 8/2014. (XI. 19.) MvM rendelet 10. § (2) bekezdése iktatta be.
+[^26]: A hatálybalépés időpontja 2014. november 20.
