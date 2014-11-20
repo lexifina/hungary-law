@@ -4,6 +4,6 @@
 
 (3) Ültetvénytelepítés esetében – a Vhr. 3. § 29. pontjától eltérően – a beruházás befejezése a támogatott tevékenységek megvalósítása.
 
-(4)[^6] A 2. § (3) bekezdés d) pontjában meghatározott tevékenység – a (2) bekezdésben és a Vhr.-ben foglaltaktól eltérően – előzetes helyszíni szemle nélkül, az ügyfél saját felelősségére, a pályázat befogadását megelőzően is megkezdhető.
+(4)[^7] A 2. § (3) bekezdés d) pontjában meghatározott tevékenység – a (2) bekezdésben és a Vhr.-ben foglaltaktól eltérően – előzetes helyszíni szemle nélkül, az ügyfél saját felelősségére, a pályázat befogadását megelőzően is megkezdhető.
 
-[^6]: A 6. § (4) bekezdését a 65/2013. (VII. 29.) VM rendelet 30. §-a iktatta be.
+[^7]: A 6. § (4) bekezdését a 65/2013. (VII. 29.) VM rendelet 30. §-a iktatta be.

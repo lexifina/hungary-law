@@ -4,7 +4,7 @@
 
 (3) A tanulmány formai és tartalmi követelményeit a 3. melléklet tartalmazza.
 
-(4)[^9] Tanulmánykészítés tevékenysége esetében pályázat benyújtására települési önkormányzat, települési nemzetiségi önkormányzat, önálló jogi személyiséggel rendelkező önkormányzati társulás, nonprofit szervezet, egyházi jogi személy, mikro-, kis- és középvállalkozás jogosult, amennyiben
+(4)[^10] Tanulmánykészítés tevékenysége esetében pályázat benyújtására települési önkormányzat, települési nemzetiségi önkormányzat, önálló jogi személyiséggel rendelkező önkormányzati társulás, nonprofit szervezet, egyházi jogi személy, mikro-, kis- és középvállalkozás jogosult, amennyiben
 
 a) a tanulmány témáját tekintve legalább három, igazolható szakmai referenciát csatol a pályázathoz, amely tartalmazza a referenciában szereplő tanulmányok címét, a megbízókat, a tanulmányok elkészítésének dátumát, valamint a tanulmányok elérési helyét,
 
@@ -22,7 +22,7 @@ aa) hátrányos helyzetű területre vonatkozóan készíti el, akkor az összes
 
 ab) nem hátrányos helyzetű területre vonatkozóan készíti el, akkor az összes elszámolható kiadás 60%-a;
 
-b)[^10] települési önkormányzat, települési nemzetiségi önkormányzat önálló jogi személyiséggel rendelkező önkormányzati társulás, nonprofit szervezet, egyházi jogi személy ügyfél
+b)[^11] települési önkormányzat, települési nemzetiségi önkormányzat önálló jogi személyiséggel rendelkező önkormányzati társulás, nonprofit szervezet, egyházi jogi személy ügyfél
 
 ba) hátrányos helyzetű területre vonatkozóan készíti el, akkor az összes elszámolható kiadás 85%-a,
 
@@ -30,5 +30,5 @@ bb) nem hátrányos helyzetű területre vonatkozóan készíti el, akkor az ös
 
 (7) Az utolsó kifizetési kérelemhez mellékelni kell az elkészült tanulmányt.
 
-[^9]: A 12. § (4) bekezdés nyitó szövegrésze a 121/2013. (XII. 16.) VM rendelet 31. § (4) bekezdése szerint módosított szöveg.
-[^10]: A 12. § (6) bekezdés b) pont nyitó szövegrésze a 121/2013. (XII. 16.) VM rendelet 31. § (4) bekezdése szerint módosított szöveg.
+[^10]: A 12. § (4) bekezdés nyitó szövegrésze a 121/2013. (XII. 16.) VM rendelet 31. § (4) bekezdése szerint módosított szöveg.
+[^11]: A 12. § (6) bekezdés b) pont nyitó szövegrésze a 121/2013. (XII. 16.) VM rendelet 31. § (4) bekezdése szerint módosított szöveg.
