@@ -1,4 +1,4 @@
-## 4. § Az MNB elnöke a díjat minden év januárjában, ünnepélyes keretek között adja át.
+## 4. §[^1] Az MNB elnöke a díjat ünnepélyes keretek között adja át.
 
 5. § (1) A Lámfalussy Sándor nemzetközi díjjal az adományozást igazoló okirat, legfeljebb a Kossuth-díjról és a Széchenyi-díjról szóló törvény szerinti, a Kossuth-díj nagydíj fokozatával járó, az odaítélés szerinti tárgyévi jutalomnak megfelelő összegű pénzjutalom, valamint emlékérem jár.
 
@@ -7,3 +7,5 @@
 (3) A Popovics Sándor junior díjjal az adományozást igazoló okirat, legfeljebb a Kossuth-díjról és a Széchenyi-díjról szóló törvény szerinti, a Kossuth-díj nagydíj fokozatával járó, az odaítélés szerinti tárgyévi jutalom negyedének megfelelő összegű pénzjutalom, valamint emlékérem jár.
 
 (4) A proof kivitelű emlékérem 986 ezrelék finomságú aranyból készült, súlya 34,91 gramm, átmérője 32 mm, széle sima. Az emlékérem előlapján, a középmezőben Popovics Sándor portréja látható. A portrétól jobbra, egymás alatti vízszintes sorokban a „POPOVICS”, a „SÁNDOR” és a „DÍJ” felirat, az emlékérme jobb alsó szélén, félköriratban a „BP.” verdejel és a fémjel olvasható, a portrétól balra Bartos István Péter tervezőművész mesterjegye látható. A Bognár György által tervezett, a 200 forintos címletű ezüstérmék kibocsátásáról szóló 9/1992. (XI. 30.) MNB hirdetmény szerinti ezüstérme hátlapja alapján készült hátlap szélén, felső köriratban a „MAGYAR NEMZETI BANK” felirat olvasható, a középmezőben az MNB épületének ábrázolása látható.
+
+[^1]: A 4. § a 47/2014. (XI. 19.) MNB rendelet 1. §-ával megállapított szöveg.
