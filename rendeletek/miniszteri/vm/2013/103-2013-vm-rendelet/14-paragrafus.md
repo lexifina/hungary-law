@@ -14,7 +14,7 @@ b) a támogatási határozatban a támogatási határozattal jóváhagyott egyé
 
 (4)[^5] Amennyiben a közbeszerzési eljárás megindítását az ügyfél igazolta, mentesül a (3) bekezdésben meghatározott kötelezettségek teljesítése alól, és a 3. § (2) bekezdésében meghatározott határidőn belül nyújthat be kifizetési kérelmet.
 
-(5)[^6] Az utolsó kifizetési kérelmet a művelet megvalósulását követő 3 hónapon belül, vagy ha az ügyfél a műveletet a támogatási határozat jogerőre emelkedése előtt megkezdte, akkor a támogatási határozat jogerőre emelkedését követő 3 hónapon belül, de legkésőbb 2015. május 31-ig be kell nyújtani.
+(5)[^6] Az utolsó kifizetési kérelmet a művelet megvalósulását követő 6 hónapon belül, vagy ha az ügyfél a műveletet a támogatási határozat jogerőre emelkedése előtt megkezdte, akkor a támogatási határozat jogerőre emelkedését követő 6 hónapon belül, de legkésőbb 2015. május 31-ig be kell nyújtani.
 
 (6) A 3. célterület vonatkozásában, amennyiben a támogatási kérelemhez az ügyfél szándéknyilatkozatot csatolt, könyvtári szolgáltató hely működtetése esetén a 3. § (7) bekezdés szerinti kistelepülési megállapodást legkésőbb az első kifizetési kérelemhez szükséges csatolni.
 
@@ -36,4 +36,4 @@ d) a gépjárműre vonatkozó 7. § (1) bekezdés a) pontjában meghatározott C
 
 [^4]: A 14. § (3a) bekezdését az 53/2014. (IV. 29.) VM rendelet 19. § (2) bekezdése iktatta be.
 [^5]: A 14. § (4) bekezdése a 32/2014. (IV. 3.) VM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^6]: A 14. § (5) bekezdése az 1/2014. (IX. 15.) MvM rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^6]: A 14. § (5) bekezdése a 8/2014. (XI. 19.) MvM rendelet 22. § (1) bekezdésével megállapított szöveg.
