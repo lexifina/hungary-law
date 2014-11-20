@@ -44,9 +44,9 @@ c) a támogatási összeg fennmaradó 10%-ának igényléséig legalább a 2. me
 
 d) a működtetési időszak 3. vagy 4. évének kezdetétől főállású mezőgazdasági termelővé válik, és ezt nem teljesíti, akkor a már igénybe vett támogatás jogosulatlannak minősül és az ügyfél támogatáshoz való joga megszűnik;
 
-e) életvitelszerűen tanyára vagy a Központi Statisztikai Hivatal által a támogatási kérelembenyújtás évének január 1-jei dátummal közzétett helységnévtár alapján 1000 fő alatti lakosságszámú településre költözik legkésőbb a működtetési időszak első évének végéig és ezt a teljes működtetési időszak alatt fenntartja, és ezt nem teljesíti, akkor a már igénybe vett támogatás jogosulatlannak minősül és az ügyfél támogatáshoz való joga megszűnik;
+e)[^6] életvitelszerűen tanyára vagy a Központi Statisztikai Hivatal által a támogatási kérelembenyújtás évének január 1-jei dátummal közzétett helységnévtár alapján 1000 fő alatti lakosságszámú településre költözik legkésőbb a működtetési időszak első évének végéig és ezt a teljes működtetési időszak alatt fenntartja, és ezt nem teljesíti, akkor köteles a kifizetett támogatási összeg 20%-át visszafizetni;
 
-f) életvitelszerűen tanyán vagy a Központi Statisztikai Hivatal által a támogatási kérelembenyújtás évének január 1-jei dátummal közzétett helységnévtár alapján 1000 fő alatti lakosságszámú településen él a támogatási kérelem benyújtásának időpontjában és ezt fenntartja a működtetési időszak végéig, de ezt nem teljesíti, akkor a már igénybe vett támogatás jogosulatlannak minősül és az ügyfél támogatáshoz való joga megszűnik;
+f)[^7] életvitelszerűen tanyán vagy a Központi Statisztikai Hivatal által a támogatási kérelembenyújtás évének január 1-jei dátummal közzétett helységnévtár alapján 1000 fő alatti lakosságszámú településen él a támogatási kérelem benyújtásának időpontjában és ezt fenntartja a működtetési időszak végéig, de ezt nem teljesíti, akkor köteles a kifizetett támogatási összeg 20%-át visszafizetni;
 
 g) a főállásban foglalkoztatottak száma a működtetési időszak 4. évétől – az ügyfelet bele nem számítva –
 
@@ -65,3 +65,6 @@ b) a 11. § (4) bekezdésében meghatározott határidőig a kérelembenyújtás
 (11) A (10) bekezdés b) pontja esetén, ha a 4. évre vállalt EUME méret teljesült, akkor az ügyfél támogatási jogosultsága csak a támogatási összeg fennmaradó 10%-ára szűnik meg.
 
 (12) Az ügyfélre vonatkozóan megállapított összes visszafizetési kötelezettség nem haladhatja meg a Tv. 69. § (5) bekezdése szerint meghatározott, jogosulatlan részvétellel igénybe vett támogatás esetén alkalmazandó szankció mértékét.
+
+[^6]: A 12. § (9) bekezdés e) pontja a 8/2014. (XI. 19.) MvM rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^7]: A 12. § (9) bekezdés f) pontja a 8/2014. (XI. 19.) MvM rendelet 25. § (2) bekezdésével megállapított szöveg.

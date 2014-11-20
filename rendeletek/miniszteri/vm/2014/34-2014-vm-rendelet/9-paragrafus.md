@@ -28,9 +28,9 @@ c) a gazdálkodási tevékenység fejlesztésére vonatkozó üzleti tervet, ame
 
 (8) Több végzettséget igazoló dokumentum benyújtása esetén az értékelés során kizárólag az az egy végzettség kerül figyelembe vételre, amelyet az ügyfél a (2) bekezdés b) pontja szerinti nyomtatványon feltüntetett.
 
-(9)[^3] A támogatási kérelmet el kell utasítani, ha az üzleti tervben a méhcsaládok részaránya meghaladja az 5. § (4) bekezdése szerinti maximálisan megengedett EUME értéket.
+(9)[^4] A támogatási kérelmet el kell utasítani, ha az üzleti tervben a méhcsaládok részaránya meghaladja az 5. § (4) bekezdése szerinti maximálisan megengedett EUME értéket.
 
-(10)[^4] Ha az ügyfél életvitelszerű tartózkodási helye – a támogatási kérelem főlapján tett nyilatkozata alapján – tanyán van, de a földrészlet nem tanyaként vagy majorként szerepel az ingatlan-nyilvántartásban, akkor a támogatási kérelemhez mellékelni kell a területileg illetékes önkormányzat jegyzője által kiállított igazolást arról, hogy az ügyfél életvitelszerű tartózkodási helye gazdálkodásra alkalmas.
+(10)[^5] Ha az ügyfél életvitelszerű tartózkodási helye – a támogatási kérelem főlapján tett nyilatkozata alapján – tanyán van, de a földrészlet nem tanyaként vagy majorként szerepel az ingatlan-nyilvántartásban, akkor a támogatási kérelemhez mellékelni kell a területileg illetékes önkormányzat jegyzője által kiállított igazolást arról, hogy az ügyfél életvitelszerű tartózkodási helye gazdálkodásra alkalmas.
 
-[^3]: A 9. § (9) bekezdése az 53/2014. (IV. 29.) VM rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^4]: A 9. § (10) bekezdését az 53/2014. (IV. 29.) VM rendelet 21. § (4) bekezdése iktatta be.
+[^4]: A 9. § (9) bekezdése az 53/2014. (IV. 29.) VM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^5]: A 9. § (10) bekezdését az 53/2014. (IV. 29.) VM rendelet 21. § (4) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 14. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 22. cikkének a végrehajtásához szükséges rendelkezéseket állapít meg.
+## 15. §[^8] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 4. § (4) bekezdést és 12. § (9) bekezdés e) és f) pontot a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^9] folyamatban levő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
 1. melléklet a 34/2014. (IV. 4.) VM rendelethez
 
@@ -705,3 +705,6 @@
 | 5. | 1702 | Dísznövénykertész | Érettségi-képesítő bizonyítvány alapján: | Technikus |
 
 | Szakmunkás bizonyítvány alapján: | Szakmunkás |
+
+[^8]: A 15. §-t a 8/2014. (XI. 19.) MvM rendelet 25. § (3) bekezdése iktatta be.
+[^9]: A hatálybalépés időpontja 2014. november 20.
