@@ -1,4 +1,4 @@
-## 19. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 55. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
+## 20. §[^18] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 9. § (9) bekezdést, 10. § (8) bekezdést, valamint 16. § (1) és (5)–(7) bekezdést a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^19] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
 1. melléklet a 104/2013. (XI. 14.) VM rendelethez
 
@@ -3419,3 +3419,6 @@ B) Természetes személy esetében
 | 20 | Összesen legfeljebb: |  | 20 pont |
 
 C) Egyéni vállalkozó, mikro-, kis- vagy középvállalkozás esetében
+
+[^18]: A 20. §-t a 8/2014. (XI. 19.) MvM rendelet 23. § (5) bekezdése iktatta be.
+[^19]: A hatálybalépés időpontja 2014. november 20.

@@ -28,6 +28,8 @@ g) az árajánlat kiállításának dátumát.
 
 (8) Az árajánlat nem származhat a területileg illetékes HACS-tól, valamint az ügyfél saját tulajdonában lévő vagy kapcsolt vállalkozásától, illetve olyan vállalkozástól, amelyben az ügyfél többségi tulajdoni hányaddal rendelkezik.
 
-(9) Az ajánlattevőnek a Cégbíróságnál vagy a Nemzeti Adó- és Vámhivatalnál bejelentett tevékenysége tekintetében adott árajánlata fogadható el.
+(9)[^2] Az ajánlattevő olyan tevékenysége tekintetében adhat árajánlatot, amelyet a Nemzeti Adó- és Vámhivatalhoz legkésőbb az ügyfélnek az MVH előtt folyamatban lévő eljárása vagy a jogorvoslati eljárás során bejelentett. A nem bejelentett tevékenység tekintetében adott árajánlat vonatkozásában adategyeztetésnek, illetve nyilatkozattételnek van helye.
 
 (10) Amennyiben az árajánlat a (4)–(9) bekezdésben meghatározott formai és tartalmi követelményeknek nem felel meg, az elszámolni kívánt árajánlatos tételek vonatkozásában az ügyfél támogatásra nem jogosult.
+
+[^2]: A 9. § (9) bekezdése a 8/2014. (XI. 19.) MvM rendelet 23. § (1) bekezdésével megállapított szöveg.
