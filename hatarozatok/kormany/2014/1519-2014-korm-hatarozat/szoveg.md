@@ -4,14 +4,15 @@
 
 a) 80,0 millió forint a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 26. A magyar komolyzenei koncepció kidolgozásának támogatása jogcímcsoport, K8. Beruházások kiemelt előirányzat terhére kerüljön felhasználásra 2015. június 30-i elszámolási és visszatérítési kötelezettségre vonatkozó határidővel,
 
-b) 20,0 millió forint a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség cím, 1. Működési költségvetés előirányzatcsoporton kerüljön felhasználásra a következők szerint:
+b)[^2] 20,0 millió forint a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség címen kerüljön felhasználásra a következők szerint:
 
-ba) 1,0 millió forint a K1. Személyi juttatások kiemelt előirányzat,
+ba) 15,4 millió forint a K1. Személyi juttatások kiemelt előirányzat,
 
-bb) 0,3 millió forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat,
+bb) 4,5 millió forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat,
 
-bc) 18,7 millió forint a K3. Dologi kiadások kiemelt előirányzat
+bc) 0,1 millió forint a K3. Dologi kiadások kiemelt előirányzat
 
-terhére, 2014. október 15-i elszámolási és visszatérítési kötelezettségre vonatkozó határidővel.
+terhére, 2014. december 31-i elszámolási és visszatérítési kötelezettségre vonatkozó határidővel.
 
 [^1]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont b) alpontja az 1676/2014. (XI. 20.) Korm. határozat 8. pontja szerint módosított szöveg.
