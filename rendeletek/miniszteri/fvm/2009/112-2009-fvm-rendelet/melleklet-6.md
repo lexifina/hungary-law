@@ -122,7 +122,7 @@
 
 ## 12. állólámpák.
 
-6. számú melléklet a 112/2009. (VIII. 29.) FVM rendelethez[^73]
+6. számú melléklet a 112/2009. (VIII. 29.) FVM rendelethez[^75]
 
 A Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet által – az IKSZT működése érdekében alkalmazott munkatárs képesítési feltételének teljesítéséhez – szervezett közösségi animátor képzés tartalmi meghatározása
 
@@ -138,4 +138,4 @@ A Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet ál
 
 | 4 | A képzés tartalma: | A képzés modulrendszerűen épül fel (5 modul) 4.1. Jogi és ügyviteli alapok 4.2. Vidékfejlesztési ismeretek 4.3. Az Integrált Közösségi és Szolgáltató Tér működtetésének gyakorlati ismeretei 4.4. Kultúraközvetítés és közösségfejlesztés 4.5. Elektronikus információs szolgáltatások |
 
-[^73]: A 6. számú mellékletet a 84/2012. (VIII. 2.) VM rendelet 9. §-a iktatta be.
+[^75]: A 6. számú mellékletet a 84/2012. (VIII. 2.) VM rendelet 9. §-a iktatta be.
