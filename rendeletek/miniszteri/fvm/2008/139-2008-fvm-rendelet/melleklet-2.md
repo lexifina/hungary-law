@@ -986,6 +986,6 @@
 
 | 493. | h2 | 80 órás Növényvédelmi Tanfolyam [szervezése a Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény 2. § (3) bekezdésének e) pontjában foglaltak alapján a Magyar Növényvédő Mérnöki és Növényorvosi Kamarával együttműködésben történhet] |  |  |
 
-2. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^87]
+2. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^88]
 
-[^87]: A 2. számú melléklet a 86/2013. (IX. 27.) VM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^88]: A 2. számú melléklet a 86/2013. (IX. 27.) VM rendelet 12. § (1) bekezdésével megállapított szöveg.
