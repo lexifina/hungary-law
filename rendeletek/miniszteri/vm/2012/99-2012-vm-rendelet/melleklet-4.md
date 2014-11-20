@@ -26,6 +26,6 @@
 
 ## A napidíj magába foglalja a szállás, az étkezés, valamint a helyi utazás (adott település közigazgatási határain belüli) költségeit. A szállás díja számla alapján kerülhet elszámolásra. A napidíj fennmaradó része után a személyi jövedelemadóról szóló törvényben meghatározott módon személyi jövedelemadót kell fizetni. A napidíjból fizetett étkezés, valamint helyi utazás költségét számlával nem kell igazolni.
 
-4. melléklet a 99/2012. (IX. 25.) VM rendelethez[^49]
+4. melléklet a 99/2012. (IX. 25.) VM rendelethez[^51]
 
-[^49]: A 4. melléklet a 93/2013. (X. 10.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^51]: A 4. melléklet a 93/2013. (X. 10.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
