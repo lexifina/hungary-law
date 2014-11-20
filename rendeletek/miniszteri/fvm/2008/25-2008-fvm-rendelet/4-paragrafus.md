@@ -30,8 +30,8 @@ c) az ügyfél a 3. célterületen megvalósuló fejlesztés esetén köteles to
 
 (8)[^8] Nem tekinthető rendeltetéssel ellentétes használatnak, ha a kérelmező a burgonya tárházban a burgonya mellett az általa megtermelt, tárolásra alkalmas zöldségfélét is tárol.
 
-(9)[^9]
+(9)[^9] Amennyiben az ügyfél 2012. december 31-ét követően vette kézhez a támogatási határozatot, úgy köteles a támogatott műveletet a Vhr. 25. § (2) bekezdésében foglaltaktól eltérően legkésőbb 2015. március 31. napjáig megvalósítani, és az utolsó kifizetési kérelmet a 8/C. § szerinti határidőig benyújtani.
 
 [^7]: A 4. § (6) bekezdés b) pontja a 164/2009. (XI. 30.) FVM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
 [^8]: A 4. § (8) bekezdését az 57/2008. (IV. 29.) FVM rendelet 1. §-a iktatta be. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^9]: A 4. § (9) bekezdését az 57/2008. (IV. 29.) FVM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 164/2009. (XI. 30.) FVM rendelet 10. § (3) bekezdése. Ez utóbbi módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^9]: A 4. § (9) bekezdését újonnan a 8/2014. (XI. 19.) MvM rendelet 4. § (1) bekezdése iktatta be.

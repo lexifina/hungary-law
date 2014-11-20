@@ -104,6 +104,6 @@
 
 | 8.1. | Szociális helyiségek és kiszolgáló terek együttesen | 90 000 | Ft/m2 |
 
-2. számú melléklet a 25/2008. (III. 7.) FVM rendelethez[^30]
+2. számú melléklet a 25/2008. (III. 7.) FVM rendelethez[^33]
 
-[^30]: A 2. számú melléklet a 164/2009. (XI. 30.) FVM rendelet 9. § (2) bekezdésével megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^33]: A 2. számú melléklet a 164/2009. (XI. 30.) FVM rendelet 9. § (2) bekezdésével megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.

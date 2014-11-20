@@ -124,7 +124,7 @@
 
 | 4.1. | Szociális helyiségek (öltözők, pihenők, iroda), kiszolgáló terek (göngyölegtároló, géptároló, fedett és nyitott rámpák) együttesen | 90 000 | Ft/m2 |
 
-3. számú melléklet a 25/2008. (III. 7.) FVM rendelethez[^31]
+3. számú melléklet a 25/2008. (III. 7.) FVM rendelethez[^34]
 
 Értékelés
 
@@ -272,4 +272,4 @@
 
 | A vállalkozás társadalmi felelősségvállalása |  |  | (+) 5 |
 
-[^31]: A 3. számú melléklet a 164/2009. (XI. 30.) FVM rendelet 9. § (3) bekezdésével megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^34]: A 3. számú melléklet a 164/2009. (XI. 30.) FVM rendelet 9. § (3) bekezdésével megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
