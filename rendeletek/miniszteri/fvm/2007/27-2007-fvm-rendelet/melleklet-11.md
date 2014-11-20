@@ -1388,6 +1388,6 @@
 
 |  | – Rezsióradíj alapján számított élőmunka költség. |
 
-11. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^112]
+11. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^114]
 
-[^112]: A 11. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^114]: A 11. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (4) bekezdésével megállapított szöveg.

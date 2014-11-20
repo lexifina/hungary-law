@@ -242,7 +242,7 @@
 
 |  | – Rezsióradíj alapján számított élőmunka költség. |
 
-13. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^114]
+13. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^116]
 
 Telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget javító, állatbetegségek kialakulását
 
@@ -250,18 +250,4 @@ Telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget javí
 
 és elszámolható kiadásai (EK)
 
-| 5.1.1.1.1. Vonalkód-leolvasó kézi készülék beszerzése és üzembe állítása |
-
-| MT | – A korszerű üzemeltetési funkcióknak és a kapcsolódó előírásoknak megfelelő működést biztosító technológiai kivitelezés. |
-
-|  | – A vonalkód-leolvasó kézi készülék számítógépes telepirányítási rendszerbe illesztése, az adatok elektronikus rögzítése. |
-
-|  | – Üzembe helyezés, a dolgozók oktatása. |
-
-| EK | – Meglévő vonalkódos azonosító rendszerhez, vonalkód-leolvasó kézi készülék részegységeinek beszerzése, beépítése (érzékelő, adattároló, automatikus adatgyűjtő stb.), azok helyszínre szállításával. |
-
-|  | – A technológia szerelési anyagainak (például villamos szerelési anyagok, adatkábelek, csatlakozók stb.) beszerzése, beépítése helyszínre szállítással. |
-
-|  | – Rezsióradíj alapján számított élőmunka költség. |
-
-[^114]: A 13. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (6) bekezdésével megállapított szöveg.
+[^116]: A 13. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (6) bekezdésével megállapított szöveg.

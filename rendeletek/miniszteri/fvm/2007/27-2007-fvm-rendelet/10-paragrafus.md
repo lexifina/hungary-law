@@ -1,4 +1,4 @@
-## 9/C. §[^80] Az ÁTK III. jogcím keretében támogatásra jogosult ügyfél a Vhr. 25. § (2) bekezdésében foglaltaktól eltérően a támogatott műveletet legkésőbb 2014. december 31. napjáig köteles megvalósítani.
+## 9/C. §[^80] Az ÁTK III. jogcím keretében támogatásra jogosult ügyfél a támogatott műveletet a Vhr. 25. § (2) bekezdésében foglaltaktól eltérően legkésőbb 2015. március 31. napjáig köteles megvalósítani, valamint az utolsó kifizetési kérelmet a Vhr. 17. § (3) bekezdésétől eltérően 2015. május 31. napjáig köteles benyújtani.
 
 ## Jogkövetkezmények
 
@@ -26,7 +26,7 @@
 
 (12)[^89] Amennyiben az ügyfél a 9. § (2) bekezdésében előírt kötelezettséget nem teljesíti, köteles a támogatási összeg 10%-át visszafizetni.
 
-[^80]: A 9/C. §-t az 53/2014. (IV. 29.) VM rendelet 1. § (1) bekezdése iktatta be.
+[^80]: A 9/C. §-t az 53/2014. (IV. 29.) VM rendelet 1. § (1) bekezdése iktatta be, szövege a 8/2014. (XI. 19.) MvM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^81]: A 10. § (1) bekezdése a 143/2009. (XI. 5.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^82]: A 10. § (3) bekezdését a 47/2009. (IV. 16.) FVM rendelet 3. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 3. § (1) bekezdése alapján a 2007. április 23-tól benyújtott támogatási kérelmek esetében is alkalmazni kell.
 [^83]: A 10. § (4) bekezdése a 47/2009. (IV. 16.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 23-tól benyújtott támogatási kérelmek esetében is alkalmazni kell.
