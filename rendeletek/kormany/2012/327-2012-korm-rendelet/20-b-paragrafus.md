@@ -1,4 +1,4 @@
-20/B. §[^39] (1) Az egy munkavállaló után elszámolható bérköltséghez, valamint többletköltséghez nyújtható egyéni támogatást együttesen kell megállapítani.
+20/B. §[^50] (1) Az egy munkavállaló után elszámolható bérköltséghez, valamint többletköltséghez nyújtható egyéni támogatást együttesen kell megállapítani.
 
 (2) Az egyéni támogatás éves keretösszegét valamennyi munkáltatóra egységesen, a tranzit és a tartós foglalkoztatásra külön-külön kell meghatározni.
 
@@ -14,4 +14,4 @@ c) 80%-a a támogatás időtartamának második évét követően.
 
 (5) A (4) bekezdés alkalmazása során az egyéni támogatás 2014. január 1-jét megelőző időtartamát figyelmen kívül kell hagyni.
 
-[^39]: A 20/B. §-t a 335/2013. (IX. 20.) Korm. rendelet 15. §-a iktatta be.
+[^50]: A 20/B. §-t a 335/2013. (IX. 20.) Korm. rendelet 15. §-a iktatta be.

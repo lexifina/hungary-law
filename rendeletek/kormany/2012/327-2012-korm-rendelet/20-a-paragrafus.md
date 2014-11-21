@@ -1,7 +1,7 @@
-## 20/A. §[^38] Az egyéni támogatás keretében a következő költségek támogathatóak:
+## 20/A. §[^49] Az egyéni támogatás keretében a következő költségek támogathatóak:
 
 a) a megváltozott munkaképességű munkavállaló után fizetendő bérköltség (a továbbiakban: bérköltség),
 
 b) a megváltozott munkaképességű személy foglalkoztatásának a megváltozott munkaképességből fakadó többletköltségei (a továbbiakban: többletköltség).
 
-[^38]: A 20/A. §-t a 335/2013. (IX. 20.) Korm. rendelet 15. §-a iktatta be.
+[^49]: A 20/A. §-t a 335/2013. (IX. 20.) Korm. rendelet 15. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 15. A bérköltség támogatásának szabályai
 
-21. § (1) A bérköltség – a (2)–(7) bekezdésben foglaltakra figyelemmel – az általános csoportmentességi rendelet 41. cikkében meghatározott feltételekkel támogatható.
+21. § (1)[^53] A bérköltség – a (2)–(7) bekezdésben foglaltakra figyelemmel – az általános csoportmentességi rendelet 33. cikkében meghatározott feltételekkel támogatható.
 
 (2) A bérköltség akkor támogatható, ha a munkáltató a megváltozott munkaképességű munkavállalót egészségi állapotának megfelelő munkahelyi környezetben és munkakörben, a 33. § szerinti egyéni foglalkoztatási megállapodás szerint foglalkoztatja.
 
@@ -30,7 +30,7 @@ d) ha a munkavállalók foglalkoztatási körülményeinek ellenőrzését a mun
 
 e) ha a munkáltató a foglalkoztatási kötelezettségének nem tesz eleget.
 
-(4) Bérköltségként az általános csoportmentességi rendelet 2. cikk 15. pontjában meghatározott költségek vehetők figyelembe, azzal, hogy a bérköltség meghatározása során kötelező járuléknak kell tekinteni a munkáltató által a munkabér után fizetendő adót is.
+(4)[^54] Bérköltségként az általános csoportmentességi rendelet 2. cikk 31. pontjában meghatározott költségek vehetők figyelembe, azzal, hogy a bérköltség meghatározása során kötelező járuléknak kell tekinteni a munkáltató által a munkabér után fizetendő adót is.
 
 (5) A munkáltató által ténylegesen megfizetett bérköltség legfeljebb 75%-a támogatható.
 
@@ -40,7 +40,7 @@ a) az általa végzett, a létesítő okiratában közhasznú tevékenységként
 
 b) a támogatással érintett munkavállalók foglalkoztatására közhasznú tevékenységként megjelölt nem gazdasági-vállalkozási tevékenység keretében kerül sor.
 
-(7) Új munkavállaló alkalmazása esetén a bérköltség az általános csoportmentességi rendelet 41. cikk (4) bekezdésében foglalt feltétellel támogatható, azzal, hogy az általános csoportmentességi rendelet 41. cikk (4) bekezdése szerinti
+(7)[^55] Új munkavállaló alkalmazása esetén a bérköltség az általános csoportmentességi rendelet 33. cikk (3) bekezdésében foglalt feltétellel támogatható, azzal, hogy az általános csoportmentességi rendelet 33. cikk (3) bekezdése szerinti
 
 a) önkéntes kilépésnek kell tekinteni, ha
 
@@ -54,10 +54,13 @@ ad) a munkaviszonyt a munkavállaló felmondja vagy azonnali hatállyal felmondj
 
 ae) a munkaviszony a munkavállaló halála miatt szűnik meg;
 
-b)[^42] kötelességszegés miatti jogszerű elbocsátásnak kell tekinteni, ha
+b)[^56] kötelességszegés miatti jogszerű elbocsátásnak kell tekinteni, ha
 
 ba) a munkaviszonyt a munkáltató a munka törvénykönyvéről szóló 2012. évi I. törvény 78. §-a alapján azonnali hatállyal felmondja vagy
 
 bb) a munkaviszonyt határozott időre, a 33. § szerinti egyéni foglalkoztatási megállapodás időtartamára kötik meg, és az egyéni foglalkoztatási megállapodást a rehabilitációs szakigazgatási szerv a 33. § (5) bekezdése alapján felmondja.
 
-[^42]: A 21. § (7) bekezdés b) pont nyitó szövegrésze a 335/2013. (IX. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^53]: A 21. § (1) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^54]: A 21. § (4) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^55]: A 21. § (7) bekezdés nyitó szövegrésze a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^56]: A 21. § (7) bekezdés b) pont nyitó szövegrésze a 335/2013. (IX. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.

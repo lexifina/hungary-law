@@ -46,10 +46,12 @@ f) ha a munkáltató a közpénzekből nyújtott támogatások átláthatóság�
 
 g) ha a munkáltató a munkahely-teremtési szerződés megkötésének feltételeként meghatározott nyilatkozatokat nem teszi meg, dokumentumokat nem nyújtja be, vagy a megtett nyilatkozatát visszavonja,
 
-h) ha a munkáltató nem felel meg az államháztartásról szóló 2011. évi CXCV. törvény 50. § (1) bekezdése szerinti követelményeknek,
+h)[^86]
 
 i) ha a munkáltató megváltozott munkaképességű személy foglalkoztatásához a munkahely-teremtési pályázat benyújtása előtt költségvetési támogatásban részesült és ennek felhasználásáról – jogszabályi vagy szerződéses kötelezettségét megszegve – még nem számolt el,
 
 j) ha a munkáltató a munkahely-teremtési pályázat kiírását megelőző hat hónapban a munkahelyteremtés helye szerint illetékes rehabilitációs szakigazgatási szerv illetékességi területén csoportos létszámcsökkentést hajtott végre,
 
 k) ha a munkáltató a munkahely-teremtési pályázat kiírását megelőzően a pályázatban meghatározott munkahely-teremtési tevékenységet már megkezdte.
+
+[^86]: A 42/B. § (5) bekezdés h) pontját a 285/2014. (XI. 20.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.

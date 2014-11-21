@@ -1,10 +1,10 @@
-## III/B. Fejezet[^66]
+## III/B. Fejezet[^84]
 
 ## A MUNKAHELY-TEREMTÉSI TÁMOGATÁS SZABÁLYAI
 
 ## 28/A. A munkahely-teremtési támogatás általános szabályai
 
-42/A. § (1) A munkahely-teremtési támogatás keretében az általános csoportmentességi rendelet 42. cikk (3) bekezdés a), valamint c) és d) pontjában meghatározott költségek támogathatóak, az általános csoportmentességi rendelet 42. cikkében meghatározott feltételekkel.
+42/A. § (1)[^85] A munkahely-teremtési támogatás keretében az általános csoportmentességi rendelet 34. cikk (2) bekezdés a) pontjában, valamint c)–f) pontjában meghatározott költségek támogathatóak, az általános csoportmentességi rendelet 34. cikkében meghatározott feltételekkel.
 
 (2) A támogatási intenzitás – ideértve az egyéb költségvetési forrásból kapott támogatásokat – nem haladhatja meg az elszámolható költségek 100%-át.
 
@@ -26,4 +26,5 @@ a) az adott évet megelőző évben egyéni támogatásra kiírt pályázatok ke
 
 b) az egyéni támogatás – a szerződéskötés évében érvényes – éves keretösszege legfeljebb kétszeresének
 
-[^66]: A III/B. Fejezetet (42/A–42/G. §) a 335/2013. (IX. 20.) Korm. rendelet 24. §-a iktatta be.
+[^84]: A III/B. Fejezetet (42/A–42/G. §) a 335/2013. (IX. 20.) Korm. rendelet 24. §-a iktatta be.
+[^85]: A 42/A. § (1) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 6. §-ával megállapított szöveg.

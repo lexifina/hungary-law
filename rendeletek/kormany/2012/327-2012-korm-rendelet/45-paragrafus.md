@@ -1,3 +1,3 @@
-## 44. §[^68]
+## 44. §[^88]
 
-[^68]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

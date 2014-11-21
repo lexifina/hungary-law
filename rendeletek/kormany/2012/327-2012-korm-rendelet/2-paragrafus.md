@@ -8,7 +8,7 @@
 
 a) cégjegyzékbe vagy – ha a működés feltétele más bírósági vagy hatósági nyilvántartásba vétel – az előírt nyilvántartásba történő bejegyzése megtörtént,
 
-b) a munkaviszonyban foglalkoztatott megváltozott munkaképességű munkavállalóinak havi létszáma a 30 főt eléri vagy aránya az összes munkavállalóhoz képest a 25%-ot meghaladja,
+b)[^9] a munkaviszonyban foglalkoztatott megváltozott munkaképességű munkavállalóinak a Központi Statisztikai Hivatal létszámszámításra vonatkozó előírásai szerint számított havi átlagos statisztikai állományi létszáma a 30 főt eléri vagy aránya az összes munkavállalóhoz képest a 25%-ot meghaladja,
 
 c) a megváltozott munkaképességű munkavállalók foglalkoztatását olyan rehabilitációs foglalkoztatás keretében biztosítja, amelyet a létesítő okiratában rögzítettek, és amely a hatósági vagy bírósági nyilvántartásba vett tevékenységének kifejtéséhez kapcsolódik,
 
@@ -26,7 +26,7 @@ i) a betanított és segédmunka végzésének lehetősége mellett képesítés
 
 j) az eredményes rehabilitációhoz – valamint tranzitfoglalkoztatás esetén a nyílt munkaerőpiacra történő sikeres kihelyezéshez – szükséges képzési lehetőségeket saját maga vagy felnőttképzést megvalósító intézmény bevonásával biztosítja és
 
-k) teljesíti az államháztartásról szóló 2011. évi CXCV. törvény 50. § (1) bekezdésében meghatározott feltételeket.
+k)[^10]
 
 (2) Az (1) bekezdésben meghatározott feltételek fennállása esetén sem adható rehabilitációs akkreditációs tanúsítvány, ha
 
@@ -41,3 +41,6 @@ b) a munkáltató a külön jogszabályban megjelölt mértékű akkreditációs
 c) a munkáltató végelszámolás, csődeljárás, felszámolási eljárás, kényszer-végelszámolás vagy kényszertörlési eljárás alatt áll.
 
 (3) Költségvetési szerv részére rehabilitációs akkreditációs tanúsítvány nem adható.
+
+[^9]: A 2. § (1) bekezdés b) pontja a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 2. § (1) bekezdés k) pontját a 285/2014. (XI. 20.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.
