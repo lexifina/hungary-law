@@ -1,4 +1,4 @@
-## 17. §[^20]
+## 17. §[^28]
 
 1. melléklet a 428/2012. (XII. 29.) Korm. rendelethez
 
@@ -24,4 +24,4 @@ A feladatalapú költségvetési támogatás elbírálásának szempontrendszere
 
 | ELÉRHETŐ ÖSSZES PONTSZÁM: 100 pont |
 
-[^20]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
