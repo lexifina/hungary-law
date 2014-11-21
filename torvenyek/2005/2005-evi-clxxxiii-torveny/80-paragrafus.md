@@ -49,3 +49,5 @@ t) mindazon feladatok ellátása, amelyeket törvény vagy kormányrendelet fela
 (3) A közlekedési hatóság kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni.
 
 (4) Az ügyfél a közlekedési hatóság felhívására köteles az ügy eldöntéséhez szükséges adatokat, iratokat szolgáltatni a közlekedési hatóság részére.
+
+(5) A közlekedési hatóság a biztonsági hatósági feladatai végrehajtása során bármikor kérheti a pályavasúti társaságok, vállalkozó vasúti társaságok vagy más minősített testületek műszaki-technikai segítségnyújtását.
