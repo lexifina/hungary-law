@@ -1,0 +1,3 @@
+## 2. § Az R. 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az újonnan megalakult és a törzskönyvi nyilvántartásba bejegyzett települési nemzetiségi önkormányzat, területi nemzetiségi önkormányzat részére a képviselő-testület megalakulásáról szóló, a fővárosi és megyei kormányhivatalok által megküldött értesítés alapján, az értesítésnek a támogatóhoz történő beérkezésétől számított harminc napon belül kerül sor a működési költségvetési támogatás kincstár által történő időarányos folyósítására. A támogató a képviselő-testület megalakulásáról szóló értesítés beérkezésétől számított 15 napon belül a (2) bekezdés szerint intézkedik a működési költségvetési támogatás folyósításáról.”
