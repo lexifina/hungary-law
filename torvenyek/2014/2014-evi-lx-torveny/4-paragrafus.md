@@ -1,0 +1,3 @@
+4. § Az Lt. 22. §-a helyébe a következő rendelkezés lép:
+
+„22. § Légiközlekedési, valamint légiközlekedéssel összefüggő tevékenység – a 71. § 10. pont e) és h) alpontjában, valamint a 12. pont e) és g) alpontjában meghatározott tevékenység kivételével, továbbá a 19. § (1) bekezdés b)–c) pontjában, a 29. §-ban, a 30. §-ban és a 34. §-ban meghatározott eltéréssel – a légiközlekedési hatóságnak, a bajba jutott vagy eltűnt légijármű megsegítésére, illetve a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenység ellátására irányuló kutató-mentő repülés pedig a katonai légügyi hatóságnak az adott tevékenységre vonatkozó engedélyével folytatható.”
