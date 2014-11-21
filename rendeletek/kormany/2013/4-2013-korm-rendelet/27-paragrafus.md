@@ -1,16 +1,16 @@
 27. § (1) A pénzügyi műveletek eredményszemléletű bevételei a kapott (járó) osztalékból és részesedésből, a kapott (járó) kamatokból és kamatjellegű eredményszemléletű bevételekből és a pénzügyi műveletek egyéb eredményszemléletű bevételből állnak.
 
-(2) A kapott (járó) osztalék és részesedés között kell elszámolni a tartós és nem tartós részesedések után kapott osztalékot, ide értve a kamatozó részvények után fizetett kamatot is, ha az a mérlegkészítés időpontjáig ismertté vált.
+(2)[^85] A kapott (járó) osztalék és részesedés között kell elszámolni a tartós és nem tartós részesedések után kapott osztalékot, ideértve a kamatozó részvények után fizetett kamatot is, ha az a mérlegkészítés időpontjáig ismertté vált.
 
 (3) A kapott (járó) kamatok és kamatjellegű eredményszemléletű bevételek között kell elszámolni
 
-a)[^73] az egységes rovatrend B408. Kamatbevételek rovathoz kapcsolódóan vezetett nyilvántartási számlákon követelésként nyilvántartott összegeket, és
+a)[^86] az egységes rovatrend B408. Kamatbevételek rovathoz kapcsolódóan vezetett nyilvántartási számlákon követelésként nyilvántartott összegeket, és
 
 b) a mérleg fordulónapjáig még le nem zárt kamatfedezeti ügyletek (határidős, swap és azonnali ügyletek) időarányos nyereségét, legfeljebb a fedezett alapügylet időarányos veszteségének összegéig.
 
 (4) A pénzügyi műveletek egyéb eredményszemléletű bevételei között kell elszámolni
 
-a)[^74] az egységes rovatrend B409. Egyéb pénzügyi műveletek bevételei és B83. Adóssághoz nem kapcsolódó származékos ügyletek bevételei rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon követelésként nyilvántartott összegeket,
+a)[^87] az egységes rovatrend B409. Egyéb pénzügyi műveletek bevételei és B83. Adóssághoz nem kapcsolódó származékos ügyletek bevételei rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon követelésként nyilvántartott összegeket,
 
 b) a mérleg fordulónapjáig még le nem zárt nem kamatfedezeti célú, egyéb fedezeti ügyletek (határidős, opciós, swap és azonnali ügyletek) időarányos nyereségét, legfeljebb a fedezett alapügylet időarányos veszteségének összegéig,
 
@@ -22,7 +22,7 @@ d) az Szt. 84. § (7) bekezdés g) és o) pontja szerinti összevontan elszámol
 
 (6) A fizetendő kamatok és kamatjellegű ráfordítások között kell elszámolni
 
-a)[^75] az egységes rovatrend K353. Kamatkiadások rovathoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket, és
+a)[^88] az egységes rovatrend K353. Kamatkiadások rovathoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket, és
 
 b) a mérleg fordulónapjáig még le nem zárt kamatfedezeti ügyletek (határidős, swap és azonnali ügyletek) időarányos veszteségét, legfeljebb a fedezett alapügylet időarányos nyereségének összegéig.
 
@@ -30,7 +30,7 @@ b) a mérleg fordulónapjáig még le nem zárt kamatfedezeti ügyletek (határi
 
 (8) A pénzügyi műveletek egyéb ráfordításai között kell elszámolni
 
-a)[^76] az egységes rovatrend K354. Egyéb pénzügyi műveletek kiadásai és K93. Adóssághoz nem kapcsolódó származékos ügyletek kiadásai rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket,
+a)[^89] az egységes rovatrend K354. Egyéb pénzügyi műveletek kiadásai és K93. Adóssághoz nem kapcsolódó származékos ügyletek kiadásai rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket,
 
 b) a befektetett pénzügyi eszközök vagy az értékpapírok között kimutatott részesedések értékesítésekor a könyv szerinti érték és az eladási ár közötti veszteségjellegű különbözetet,
 
@@ -46,7 +46,8 @@ g) a mérleg fordulónapjáig még le nem zárt nem kamatfedezeti célú, egyéb
 
 h) az Szt. 85. § (2) bekezdés c) pontjában, valamint (3) bekezdés g), m), n) és o) pontjaiban nevesített gazdasági eseményeket.
 
-[^73]: A 27. § (3) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 25. pontja szerint módosított szöveg.
-[^74]: A 27. § (4) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 25. pontja szerint módosított szöveg.
-[^75]: A 27. § (6) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 26. pontja szerint módosított szöveg.
-[^76]: A 27. § (8) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 26. pontja szerint módosított szöveg.
+[^85]: A 27. § (2) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^86]: A 27. § (3) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 25. pontja szerint módosított szöveg.
+[^87]: A 27. § (4) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 25. pontja szerint módosított szöveg.
+[^88]: A 27. § (6) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 26. pontja szerint módosított szöveg.
+[^89]: A 27. § (8) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 26. pontja szerint módosított szöveg.

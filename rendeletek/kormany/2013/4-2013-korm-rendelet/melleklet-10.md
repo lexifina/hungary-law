@@ -8,7 +8,7 @@
 
 – kifizetésben részesülők száma
 
-2.[^145] Munkáltató által levont és átutalt
+2.[^181] Munkáltató által levont és átutalt
 
 - személyi jövedelemadó
 
@@ -28,7 +28,7 @@
 
 4. Kifizetőhelynél a kifizetett ellátások után kapott térítés
 
-5.[^146] Személyi juttatások
+5.[^182] Személyi juttatások
 
 - a költségvetési év január hónapban elszámolt, a megelőző év december hónapra járó bruttó személyi juttatás (az adó- és járuléklevonások január hónapot követően teljesített összegével együtt)
 
@@ -46,9 +46,9 @@
 
 - ennek járulékai (a járulékok január hónapot követően teljesített összegével együtt)
 
-6.[^147] a költségvetési év január hónapban elszámolt, a megelőző év december havi szociális hozzájárulási adó összege (a szociális hozzájárulási adó január hónapot követően teljesített összegével együtt)
+6.[^183] a költségvetési év január hónapban elszámolt, a megelőző év december havi szociális hozzájárulási adó összege (a szociális hozzájárulási adó január hónapot követően teljesített összegével együtt)
 
-7.[^148] a költségvetési év január hónapban elszámolt, a megelőző év december havi egészségügyi hozzájárulás összege (a szociális hozzájárulási adó január hónapot követően teljesített összegével együtt)
+7.[^184] a költségvetési év január hónapban elszámolt, a megelőző év december havi egészségügyi hozzájárulás összege (a szociális hozzájárulási adó január hónapot követően teljesített összegével együtt)
 
 8. A kiadások áfa-adóalapja és kompenzációs felára
 
@@ -68,7 +68,7 @@
 
 – vásárolt termékekhez és szolgáltatásokhoz kapcsolódó
 
-10.[^149] Tárgyévben behajthatatlan követelésként leírt összeg és elengedett követelés összege
+10.[^185] Tárgyévben behajthatatlan követelésként leírt összeg és elengedett követelés összege
 
 - ebből: behajthatatlan követelésként leírt összeg
 
@@ -102,141 +102,126 @@
 
 – halmozott értékcsökkenése
 
-21. Összes kezességvállalás állománya
+21.[^186] A 04. Függő kötelezettségek nyilvántartási számlái év végi állományának levezetése a következő bontásban
 
-– ebből: önkormányzati többségi tulajdonú vállalkozásokhoz kapcsolódó
+- ebből: önkormányzati többségi tulajdonú vállalkozásokhoz kapcsolódó garanciavállalások állománya
 
-22. Összes garanciavállalás állománya
+- ebből: egyéb garanciavállalások állománya
 
-– ebből: önkormányzati többségi tulajdonú vállalkozásokhoz kapcsolódó
+- ebből: önkormányzati többségi tulajdonú vállalkozásokhoz kapcsolódó kezességvállalások állománya
+
+- ebből: egyéb kezességvállalások állománya
+
+- ebből: egyéb függő kötelezettségek állománya
+
+22.[^187]
 
 23. A közszféra és a magánszféra együttműködésén (PPP) alapuló szerződéses konstrukció kötelezettségvállalásainak állománya
 
 – ebből: a tárgyévben keletkezett PPP miatti kötelezettségvállalások állománya
 
-24. A K911. Hitel-, kölcsöntörlesztés államháztartáson kívülre rovaton költségvetési évet követően esedékes kötelezettségvállalásként, más fizetési kötelezettségként kimutatott összeg megoszlása
+24.[^188] Az államháztartás önkormányzati alrendszerében a K911. Hitel-, kölcsöntörlesztés államháztartáson kívülre rovaton költségvetési évet követően esedékes kötelezettségvállalásként, más fizetési kötelezettségként kimutatott összeg megoszlása
 
-– 1. évben
+- 1. évben
 
-– 2. évben
+- 2. évben
 
-– 3. évben
+- 3. évben
 
-– 4. évben
+- 4. évben
 
-– 5. és azt követő években
+- 5. és azt követő években
 
-25. A K9122. Forgatási célú belföldi értékpapírok beváltása rovaton költségvetési évet követően esedékes kötelezettségvállalásként, más fizetési kötelezettségként kimutatott összeg megoszlása
+25.[^189] Az államháztartás önkormányzati alrendszerében a K9122. Forgatási célú belföldi értékpapírok beváltása rovaton költségvetési évet követően esedékes kötelezettségvállalásként, más fizetési kötelezettségként kimutatott összeg megoszlása
 
-– 1. évben
+- 1. évben
 
-– 2. évben
+- 2. évben
 
-– 3. évben
+- 3. évben
 
-– 4. évben
+- 4. évben
 
-– 5. és azt követő években
+- 5. és azt követő években
 
-26. A K9124. Befektetési célú belföldi értékpapírok beváltása rovaton költségvetési évet követően esedékes kötelezettségvállalásként, más fizetési kötelezettségként kimutatott összeg megoszlása
+26.[^190] Az államháztartás önkormányzati alrendszerében a K9124. Befektetési célú belföldi értékpapírok beváltása rovaton költségvetési évet követően esedékes kötelezettségvállalásként, más fizetési kötelezettségként kimutatott összeg megoszlása
 
-– 1. évben
+- 1. évben
 
-– 2. évben
+- 2. évben
 
-– 3. évben
+- 3. évben
 
-– 4. évben
+- 4. évben
 
-– 5. és azt követő években
+- 5. és azt követő években
 
-27. A K917. Pénzügyi lízing kiadásai rovaton költségvetési évet követően esedékes kötelezettségvállalásként, más fizetési kötelezettségként kimutatott összeg megoszlása
+27.[^191] Az államháztartás önkormányzati alrendszerében a K917. Pénzügyi lízing kiadásai rovaton költségvetési évet követően esedékes kötelezettségvállalásként, más fizetési kötelezettségként kimutatott összeg megoszlása
 
-– 1. évben
+- 1. évben
 
-– 2. évben
+- 2. évben
 
-– 3. évben
+- 3. évben
 
-– 4. évben
+- 4. évben
 
-– 5. és azt követő években
+- 5. és azt követő években
 
-28. A K923. Külföldi értékpapírok beváltása rovaton költségvetési évet követően esedékes kötelezettségvállalásként, más fizetési kötelezettségként kimutatott összeg megoszlása
+28.[^192] Az államháztartás önkormányzati alrendszerében a K923. Külföldi értékpapírok beváltása rovaton költségvetési évet követően esedékes kötelezettségvállalásként, más fizetési kötelezettségként kimutatott összeg megoszlása
 
-– 1. évben
+- 1. évben
 
-– 2. évben
+- 2. évben
 
-– 3. évben
+- 3. évben
 
-– 4. évben
+- 4. évben
 
-– 5. és azt követő években
+- 5. és azt követő években
 
-29. A K9111. Hosszú lejáratú hitelek, kölcsönök törlesztése, K9113. Rövid lejáratú hitelek, kölcsönök törlesztése rovatokon kimutatott kötelezettségvállalás, más fizetési kötelezettség összegéből a kormányzati szektorba sorolt egyéb szervezettel szemben forintban fennálló összeg
+29.[^193] A K9111. Hosszú lejáratú hitelek, kölcsönök törlesztése, K9113. Rövid lejáratú hitelek, kölcsönök törlesztése rovatokon kimutatott kötelezettségvállalás, más fizetési kötelezettség összegéből a kormányzati szektorba sorolt egyéb szervezettel szemben fennálló összeg
 
-30. A K9122. Forgatási célú belföldi értékpapírok beváltása, K9124. Befektetési célú belföldi értékpapírok beváltása rovatokon kimutatott kötelezettségvállalás, más fizetési kötelezettség összegéből a kormányzati szektorba sorolt egyéb szervezettel szemben forintban fennálló összeg
+30.[^194] A K9122. Forgatási célú belföldi értékpapírok beváltása, K9124. Befektetési célú belföldi értékpapírok beváltása rovatokon kimutatott kötelezettségvállalás, más fizetési kötelezettség összegéből a kormányzati szektorba sorolt egyéb szervezettel szemben fennálló összeg
 
-31. A K917. Pénzügyi lízing kiadásai rovaton kimutatott kötelezettségvállalás, más fizetési kötelezettség összegéből a kormányzati szektorba sorolt egyéb szervezettel szemben forintban fennálló összeg
+31.[^195] A K917. Pénzügyi lízing kiadásai rovaton kimutatott kötelezettségvállalás, más fizetési kötelezettség összegéből a kormányzati szektorba sorolt egyéb szervezettel szemben fennálló összeg
 
-32. A Stabilitási tv. 3. § (1) bekezdés c) pontja szerinti, kormányzati szektorba sorolt egyéb szervezeten kívül forintban fennálló ügyletek összege
+32.[^196] A Gst. 3. § (1) bekezdés c) pontja szerinti ügyletek összegéből a kormányzati szektorba sorolt egyéb szervezeten kívül szervezettel szemben fennálló összeg
 
-33. A Stabilitási tv. 3. § (1) bekezdés f) pontja szerinti, kormányzati szektorba sorolt egyéb szervezeten kívül forintban fennálló ügyletek összege
+33.[^197] A Gst. 3. § (1) bekezdés f) pontja szerinti ügyletek összegéből a kormányzati szektorba sorolt egyéb szervezeten kívül szervezettel szemben fennálló összeg
 
-34. A Stabilitási tv. 3. § (1) bekezdés g) pontja szerinti, kormányzati szektorba sorolt egyéb szervezeten kívül forintban fennálló ügyletek összege
+34.[^198] A Gst. 3. § (1) bekezdés g) pontja szerinti fedezeti betétek összege
 
-35. A K9111. Hosszú lejáratú hitelek, kölcsönök törlesztése, K9113. Rövid lejáratú hitelek, kölcsönök törlesztése, K924. Külföldi hitelek, kölcsönök törlesztése rovatokon kimutatott kötelezettségvállalás, más fizetési kötelezettség összegéből a kormányzati szektorba sorolt egyéb szervezettel szemben devizában fennálló összeg
+35–39.[^199]
 
-– devizaneme
+40.[^200] A Gst. 3. § (2) bekezdése szerinti előfinanszírozás összege
 
-– összege devizában
+41.[^201] A 3656. Nem társadalombiztosítás pénzügyi alapjait terhelő kifizetett ellátások megtérítésének elszámolása könyvviteli számla forgalmának és egyenlegének levezetése ellátási jogcímenként a társadalombiztosítás pénzügyi alapjainál
 
-(ahány devizafajtában kötelezettség fennáll)
+42.[^202] Települési és területi nemzetiségi önkormányzatok tárgyévi támogatásának elszámolása
 
-36. A K9122. Forgatási célú belföldi értékpapírok beváltása, K9124. Befektetési célú belföldi értékpapírok beváltása, K923. Külföldi értékpapírok beváltása rovatokon kimutatott kötelezettségvállalás, más fizetési kötelezettség összegéből a kormányzati szektorba sorolt egyéb szervezettel szemben devizában fennálló összeg
+43.[^203] A települési és területi nemzetiségi önkormányzatok tárgyévet megelőző évi támogatása tárgyévben felhasznált részének elszámolása
 
-– devizaneme
-
-– összege devizában
-
-(ahány devizafajtában kötelezettség fennáll)
-
-37. A K917. Pénzügyi lízing kiadásai rovaton kimutatott kötelezettségvállalás, más fizetési kötelezettség összegéből a kormányzati szektorba sorolt egyéb szervezettel szemben devizában fennálló összeg
-
-– devizaneme
-
-– összege devizában
-
-38. A Stabilitási tv. 3. § (1) bekezdés c) pontja szerinti, kormányzati szektorba sorolt egyéb szervezeten kívül devizában fennálló ügyletek összege
-
-– devizaneme
-
-– összege devizában
-
-39. A Stabilitási tv. 3. § (1) bekezdés f) pontja szerinti, kormányzati szektorba sorolt egyéb szervezeten kívül devizában fennálló ügyletek összege
-
-– összege devizában
-
-– devizaneme
-
-(ahány devizafajtában kötelezettség fennáll)
-
-40.[^150] A Stabilitási tv. 3. § (2) bekezdése szerinti előfinanszírozás összege
-
-- forintban
-
-- devizában a devizanem megjelölésével (ahány devizafajtában kötelezettség fennáll)
-
-41.[^151] A 3656. Nem társadalombiztosítás pénzügyi alapjait terhelő kifizetett ellátások megtérítésének elszámolása könyvviteli számla forgalmának és egyenlegének levezetése ellátási jogcímenként a társadalombiztosítás pénzügyi alapjainál
-
-42.[^152] A függő kötelezettségek 04. Függő kötelezettségek nyilvántartási számlái év végi állománya kezességgel, garanciavállalással kapcsolatos függő kötelezettségek és egyéb függő kötelezettségek bontásban
-
-[^145]: A 10. melléklet 2. pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés c) pontjával megállapított szöveg.
-[^146]: A 10. melléklet 5. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
-[^147]: A 10. melléklet 6. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
-[^148]: A 10. melléklet 7. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
-[^149]: A 10. melléklet 10. pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés c) pontjával megállapított szöveg.
-[^150]: A 10. melléklet 40. pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés c) pontjával megállapított szöveg.
-[^151]: A 10. melléklet 41. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
-[^152]: A 10. melléklet 42. pontját a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontja iktatta be, szövege a 23/2014. (II. 6.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^181]: A 10. melléklet 2. pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés c) pontjával megállapított szöveg.
+[^182]: A 10. melléklet 5. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
+[^183]: A 10. melléklet 6. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
+[^184]: A 10. melléklet 7. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
+[^185]: A 10. melléklet 10. pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés c) pontjával megállapított szöveg.
+[^186]: A 10. melléklet 21. pontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontjával megállapított szöveg.
+[^187]: A 10. melléklet 22. pontját a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontja hatályon kívül helyezte.
+[^188]: A 10. melléklet 24. pontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontjával megállapított szöveg.
+[^189]: A 10. melléklet 25. pontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontjával megállapított szöveg.
+[^190]: A 10. melléklet 26. pontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontjával megállapított szöveg.
+[^191]: A 10. melléklet 27. pontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontjával megállapított szöveg.
+[^192]: A 10. melléklet 28. pontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontjával megállapított szöveg.
+[^193]: A 10. melléklet 29. pontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontjával megállapított szöveg.
+[^194]: A 10. melléklet 30. pontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontjával megállapított szöveg.
+[^195]: A 10. melléklet 31. pontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontjával megállapított szöveg.
+[^196]: A 10. melléklet 32. pontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontjával megállapított szöveg.
+[^197]: A 10. melléklet 33. pontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontjával megállapított szöveg.
+[^198]: A 10. melléklet 34. pontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontjával megállapított szöveg.
+[^199]: A 10. melléklet 35–39. pontját a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontja hatályon kívül helyezte.
+[^200]: A 10. melléklet 40. pontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontjával megállapított szöveg.
+[^201]: A 10. melléklet 41. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
+[^202]: A 10. melléklet 42. pontját a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontja iktatta be, szövege a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontjával megállapított szöveg.
+[^203]: A 10. melléklet 43. pontját a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 1. pontja iktatta be.

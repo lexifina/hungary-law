@@ -2,11 +2,11 @@
 
 a) a költségvetési szervek elemi költségvetéséről és a 10. § (2) bekezdése szerint a mérlegében kimutatható vagyonról költségvetési szervenként,
 
-b)[^4] az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai elemi költségvetéséről és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról elkülönített állami pénzalaponként, társadalombiztosítás pénzügyi alapjaiként,
+b)[^7] az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai elemi költségvetéséről és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról elkülönített állami pénzalaponként, társadalombiztosítás pénzügyi alapjaiként,
 
-c)[^5] a fejezeti kezelésű előirányzatok elemi költségvetéséről és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról fejezetenként,
+c)[^8] a fejezeti kezelésű előirányzatok elemi költségvetéséről és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról fejezetenként,
 
-d)[^6] az 1. melléklet szerinti központi kezelésű előirányzatok elemi költségvetéséről, az 1. melléklet szerinti központi kezelésű előirányzatokkal kapcsolatos finanszírozási bevételekről és kiadásokról, és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról azok egészére,
+d)[^9] az 1. melléklet szerinti központi kezelésű előirányzatok elemi költségvetéséről, az 1. melléklet szerinti központi kezelésű előirányzatokkal kapcsolatos finanszírozási bevételekről és kiadásokról, és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról azok egészére,
 
 e) az Áht. 14. § (4) bekezdés a) és b) pontja szerinti központi kezelésű előirányzatokról és a 10. § (3) bekezdése szerint az azokat kezelő tulajdonosi joggyakorló szervezetek mérlegében kimutatható vagyonról azok egészére, és
 
@@ -20,9 +20,9 @@ aa) költségvetési jelentés,
 
 ab) maradvány kimutatás,
 
-ac) adatszolgáltatás a személyi juttatások és a foglalkoztatottak, választott tisztségviselők összetételéréről,
+ac)[^10] adatszolgáltatás a személyi juttatások és a foglalkoztatottak, választott tisztségviselők összetételéről,
 
-ad)[^7] adatszolgáltatás a társadalombiztosítás pénzügyi alapjaiból folyósított egyes ellátások és támogatások tervezett összegeiről és teljesítéséről,
+ad)[^11] adatszolgáltatás a társadalombiztosítás pénzügyi alapjaiból folyósított egyes ellátások és támogatások tervezett összegeiről és teljesítéséről,
 
 ae) önkormányzati alrendszer sajátos gazdálkodásához kapcsolódó elszámolások,
 
@@ -36,7 +36,8 @@ bc) költségekről és megtérült költségekről szóló kimutatás, és
 
 bd) kiegészítő melléklet.
 
-[^4]: A 6. § (1) bekezdés b) pontja a 307/2013. (VIII. 4.) Korm. rendelet 40. § 1. pontja szerint módosított szöveg.
-[^5]: A 6. § (1) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 2. pontja szerint módosított szöveg.
-[^6]: A 6. § (1) bekezdés d) pontja a 307/2013. (VIII. 4.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
-[^7]: A 6. § (2) bekezdés a) pont ad) alpontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 3. pontja szerint módosított szöveg.
+[^7]: A 6. § (1) bekezdés b) pontja a 307/2013. (VIII. 4.) Korm. rendelet 40. § 1. pontja szerint módosított szöveg.
+[^8]: A 6. § (1) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 2. pontja szerint módosított szöveg.
+[^9]: A 6. § (1) bekezdés d) pontja a 307/2013. (VIII. 4.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
+[^10]: A 6. § (2) bekezdés a) pont ac) alpontja a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^11]: A 6. § (2) bekezdés a) pont ad) alpontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 3. pontja szerint módosított szöveg.

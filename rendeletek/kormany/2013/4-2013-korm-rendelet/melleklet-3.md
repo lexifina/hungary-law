@@ -12,7 +12,7 @@
 
 | 5. | XVII. fejezet 21. cím, XLII. fejezet 1. cím 1-6. és 8-17. alcím, 2-3. cím, 4. cím 2. alcím 2. jogcímcsoport, 7. cím 2. alcím, 30-31. cím, 33. cím 14-20. alcím | Nemzeti Adó- és Vámhivatal | A kincstári, elemi költségvetés elkészítéséhez szükséges adatok | A kincstári, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
 
-| 6. | Az adókkal, vámokkal, illetékekkel, termékdíjjal, kapcsolódó közhatalmi bevételekkel (pótlékok, bírságok) kapcsolatos követelések és kötelezettségek, a tartozások fejében átvett eszközök, ÁFA deviza bevételi számlával kapcsolatos adatok | Havonta egyszer, a Kincstár által megállapított időpontban |
+| 6. | Az adókkal, vámokkal, illetékekkel, termékdíjjal, kapcsolódó közhatalmi bevételekkel (pótlékok, bírságok) kapcsolatos követelések és kötelezettségek, a tartozások fejében átvett eszközökkel kapcsolatos adatok | Havonta egyszer, a Kincstár által megállapított időpontban |
 
 | 7. | XLII. fejezet 1. cím 7. alcím | Magyar Bányászati és Földtani Hivatal | Bányajáradék beszedésével kapcsolatos követelések és kötelezettségek | Havonta egyszer, a Kincstár által megállapított időpontban |
 
@@ -36,7 +36,7 @@
 
 | 17. | nincs címrendhez kötve | Igazságügyi Hivatal | Kibocsátott kárpótlási jegyek be nem váltott állománya adatai | Negyedévente egyszer, a Kincstár által megállapított időpontban |
 
-| 18. | nincs címrendhez kötve | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Az Európai Uniós támogatásokhoz kapcsolódó követelések és kötelezettségek adatai A központi költségvetés által korábban megelőlegezett, lezárt EU-s támogatási konstrukciókhoz kapcsolódó átadásra kerülő Európai Unióval szembeni követelések devizában és forintban | Negyedévente egyszer, a Kincstár által megállapított időpontban |
+| 18. |  |  |  |  |
 
 | 19. | nincs címrendhez kötve | Európai Uniós támogatások pénzügyi lebonyolításában, illetve ehhez kapcsolódó beszámolási és könyvvezetési kötelezettség teljesítésében részt vevő szervezetek | Az Európai Uniós támogatásokhoz kapcsolódó követelések és kötelezettségek adatai A központi költségvetés által korábban megelőlegezett, lezárt EU-s támogatási konstrukciókhoz kapcsolódó átadásra kerülő Európai Unióval szembeni követelések adatai | Negyedévente egyszer, a Kincstár által megállapított időpontban |
 

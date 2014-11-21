@@ -2,26 +2,26 @@
 
 8. § (1) A költségvetési jelentés
 
-a)[^10] az egységes rovatrend szerinti tagolásban az eredeti és módosított előirányzatokat, az azokra vonatkozó követeléseket, kötelezettségvállalásokat, más fizetési kötelezettségeket, valamint az előirányzatok teljesítését, és
+a)[^14] az egységes rovatrend szerinti tagolásban az eredeti és módosított előirányzatokat, az azokra vonatkozó követeléseket, kötelezettségvállalásokat, más fizetési kötelezettségeket, valamint az előirányzatok teljesítését, és
 
-b)[^11] a teljesített bevételek és kiadások kormányzati funkciók szerinti megoszlását, valamint azoknak a kormányzati funkciók rendjében meghatározott mutatószámait
+b)[^15] a teljesített bevételek és kiadások kormányzati funkciók szerinti megoszlását, valamint azoknak a kormányzati funkciók rendjében meghatározott mutatószámait
 
 tartalmazza.
 
-(2)[^12] A 6. § (1) bekezdés b)–e) pontja szerinti éves költségvetési beszámolókban a központi költségvetésről szóló törvényben megjelenő előirányzatonként kell elkészíteni a költségvetési jelentést. Az elkülönített állami pénzalapok, a társadalombiztosítás pénzügyi alapjai és az 1. melléklet szerinti központi kezelésű előirányzatokkal kapcsolatos finanszírozási bevételeket és kiadásokat a 6. § (1) bekezdés b) és d) pontja szerinti éves költségvetési beszámolók összevontan mutatják be.
+(2)[^16] A 6. § (1) bekezdés b)–e) pontja szerinti éves költségvetési beszámolókban a központi költségvetésről szóló törvényben megjelenő előirányzatonként kell elkészíteni a költségvetési jelentést. Az elkülönített állami pénzalapok, a társadalombiztosítás pénzügyi alapjai és az 1. melléklet szerinti központi kezelésű előirányzatokkal kapcsolatos finanszírozási bevételeket és kiadásokat a 6. § (1) bekezdés b) és d) pontja szerinti éves költségvetési beszámolók összevontan mutatják be.
 
-(3)[^13] A maradvány kimutatás a 3. melléklet szerinti formában az alaptevékenység és a vállalkozási tevékenység bevételeit és kiadásait tartalmazza, továbbá bemutatja a kötelezettségvállalással terhelt maradványt, a szabad maradványt és a vállalkozási maradványt terhelő befizetési kötelezettséget. A 6. § (1) bekezdés c) pontja szerinti éves költségvetési beszámolókban fejezeti kezelésű előirányzatonként kell elkészíteni a maradvány kimutatást.
+(3)[^17] A maradvány kimutatás a 3. melléklet szerinti formában az alaptevékenység és a vállalkozási tevékenység bevételeit és kiadásait tartalmazza, továbbá bemutatja a kötelezettségvállalással terhelt maradványt, a szabad maradványt és a vállalkozási maradványt terhelő befizetési kötelezettséget. A 6. § (1) bekezdés c) pontja szerinti éves költségvetési beszámolókban fejezeti kezelésű előirányzatonként kell elkészíteni a maradvány kimutatást.
 
-(4)[^14] A személyi juttatások és a foglalkoztatottak, választott tisztségviselők összetételéréről szóló adatszolgáltatás a Kincstár által az Áht. 107. § (2) bekezdése alapján kiadott űrlapon besorolási osztály és fizetési fokozat szerinti tagolásban ismerteti a foglalkoztatottak és a választott tisztségviselők létszámát, valamint a számukra kifizetett személyi juttatások munkajogi jogcím szerinti megoszlását.
+(4)[^18] A személyi juttatások és a foglalkoztatottak, választott tisztségviselők összetételéréről szóló adatszolgáltatás a Kincstár által az Áht. 107. § (2) bekezdése alapján kiadott űrlapon besorolási osztály és fizetési fokozat szerinti tagolásban ismerteti a foglalkoztatottak és a választott tisztségviselők létszámát, valamint a számukra kifizetett személyi juttatások munkajogi jogcím szerinti megoszlását.
 
-(5)[^15] A társadalombiztosítás pénzügyi alapjaiból folyósított egyes ellátások és támogatások tervezett összegeiről és teljesítéséről szóló adatszolgáltatás a 4. melléklet szerinti adatokat tartalmazza.
+(5)[^19] A társadalombiztosítás pénzügyi alapjaiból folyósított egyes ellátások és támogatások tervezett összegeiről és teljesítéséről szóló adatszolgáltatás a 4. melléklet szerinti adatokat tartalmazza.
 
-(6)[^16] Az önkormányzati alrendszer sajátos gazdálkodásához kapcsolódó elszámolásokat az Áht. 14. § (3) bekezdése szerinti fejezetből kapott támogatások folyósítása évében hatályos központi költségvetésről szóló törvényben szereplő jogcímek és mutatószámok szerinti bontásban, a Kincstár által az Áht. 107. § (2) bekezdése alapján kiadott űrlapokon kell bemutatni.
+(6)[^20] Az önkormányzati alrendszer sajátos gazdálkodásához kapcsolódó elszámolásokat az Áht. 14. § (3) bekezdése szerinti fejezetből kapott támogatások folyósítása évében hatályos központi költségvetésről szóló törvényben szereplő jogcímek és mutatószámok szerinti bontásban, a Kincstár által az Áht. 107. § (2) bekezdése alapján kiadott űrlapokon kell bemutatni.
 
-[^10]: A 8. § (1) bekezdés a) pontja a 307/2013. (VIII. 4.) Korm. rendelet 40. § 3. pontja szerint módosított szöveg.
-[^11]: A 8. § (1) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 85. §-ával megállapított szöveg.
-[^12]: A 8. § (2) bekezdése a 307/2013. (VIII. 4.) Korm. rendelet 40. § 4. pontja, a 497/2013. (XII. 29.) Korm. rendelet 112. § 5. pontja szerint módosított szöveg.
-[^13]: A 8. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 86. §-ával megállapított szöveg.
-[^14]: A 8. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 6. pontja szerint módosított szöveg.
-[^15]: A 8. § (5) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 7. pontja szerint módosított szöveg.
-[^16]: A 8. § (6) bekezdése a 23/2014. (II. 6.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+[^14]: A 8. § (1) bekezdés a) pontja a 307/2013. (VIII. 4.) Korm. rendelet 40. § 3. pontja szerint módosított szöveg.
+[^15]: A 8. § (1) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 85. §-ával megállapított szöveg.
+[^16]: A 8. § (2) bekezdése a 307/2013. (VIII. 4.) Korm. rendelet 40. § 4. pontja, a 497/2013. (XII. 29.) Korm. rendelet 112. § 5. pontja szerint módosított szöveg.
+[^17]: A 8. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 86. §-ával megállapított szöveg.
+[^18]: A 8. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 6. pontja szerint módosított szöveg.
+[^19]: A 8. § (5) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 7. pontja szerint módosított szöveg.
+[^20]: A 8. § (6) bekezdése a 23/2014. (II. 6.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.

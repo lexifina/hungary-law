@@ -1,4 +1,4 @@
-14. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^154]
+14. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^207]
 
 ## A részletező nyilvántartások tartalma
 
@@ -34,7 +34,7 @@ a) a kötelezettségvállalás, más fizetési kötelezettség sorszámát, az a
 
 b) a kötelezettségvállalást, más fizetési kötelezettséget tanúsító dokumentum megnevezését, iktató- vagy érkeztető számát, keltét,
 
-c) a jogosult azonosításához és a pénzügyi teljesítéshez szükséges adatokat,
+c) a jogosult azonosításához és a pénzügyi teljesítéshez szükséges adatokat, amennyiben azok ismertek
 
 d) a kötelezettségvállalás, más fizetési kötelezettség tárgyát, összegét (értékét) az egységes rovatrend rovatai szerint,
 
@@ -46,7 +46,7 @@ g) a pénzügyi teljesítések dátumát, összegét, egységes rovatrend szerin
 
 h) a kötelezettségvállalás, más fizetési kötelezettség végleges vagy nem végleges jellegét, végleges kötelezettségvállalás, más fizetési kötelezettség esetén annak és módosulásai, a pénzügyi teljesítési adatok könyvviteli számlákon történő elszámolásának időpontjait és a könyvviteli számlák megnevezését,
 
-i) devizában fennálló kötelezettségvállalás, más fizetési kötelezettség esetén a kötelezettségvállalás, más fizetési kötelezettség és annak módosulásai (ide értve az átértékelést is) összegét a forint mellett devizában is, a nyilvántartásba vételi árfolyamot, a mérlegfordulónapi árfolyamot, a Stabilitási tv. szerinti adósságot keletkeztető ügylet esetén az államadósság számítása során alkalmazandó árfolyamot,
+i) devizában fennálló kötelezettségvállalás, más fizetési kötelezettség esetén a kötelezettségvállalás, más fizetési kötelezettség és annak módosulásai (ide értve az átértékelést is) összegét a forint mellett devizában is, a nyilvántartásba vételi árfolyamot, a mérlegfordulónapi árfolyamot, a Gst. szerinti adósságot keletkeztető ügylet esetén az államadósság számítása során alkalmazandó árfolyamot,
 
 j) váltóval kiváltott kötelezettség esetén a váltó kibocsátásának és a lejáratának idejét, a váltóval kiváltott kötelezettség összegét, a váltóban foglalt kamatot, a váltó bemutatásával, lejáratával, kifiezetésével kapcsolatos adatokat, és
 
@@ -340,4 +340,4 @@ e) a leltározással kapcsolatos feljegyzéseket.
 
 4. Az átsorolt, követelés fejében átvett készletekről olyan nyilvántartást kell vezetni, amelyet e rendelet az eszköz jellemzője szerint megkövetelne abban az esetben, ha azt nem értékesítenék.
 
-[^154]: A 14. melléklet a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés d) pontja, a 497/2013. (XII. 29.) Korm. rendelet 113. § 14. pontja szerint módosított szöveg.
+[^207]: A 14. melléklet a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés d) pontja, a 497/2013. (XII. 29.) Korm. rendelet 113. § 14. pontja, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 2. és 37. pontja szerint módosított szöveg.
