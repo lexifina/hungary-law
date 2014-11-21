@@ -1,0 +1,3 @@
+## 17. § Az Áhsz. 48. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az (1) bekezdés szerinti elszámolásokra, az általános forgalmi adó sajátos könyvviteli elszámolására, valamint az államháztartás sajátosságai miatt felmerülő más – tartalmilag követelés vagy kötelezettség jellegű – elszámolásokra az egységes számlakeret 36. Sajátos elszámolások számlacsoportjának könyvviteli számlái, ezen belül a pénzeszközök átvezetései, az azonosítás alatt álló tételek, az általános forgalmi adó elszámolásai, a követelés és kötelezettség jellegű sajátos elszámolások, valamint az egyéb sajátos eszközoldali és forrásoldali elszámolások szolgálnak. A könyvviteli számlákon az elszámolásokat nettó módon kell vezetni.”
