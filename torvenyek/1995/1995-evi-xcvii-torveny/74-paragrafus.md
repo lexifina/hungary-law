@@ -32,7 +32,7 @@ o) a miniszter, hogy a földi kiszolgálás feltételeinek és engedélyezési r
 
 p) a miniszter, hogy az egyes légiközlekedési tevékenységek végzésének a részletes szabályait,
 
-q) a rendészetért felelős miniszter, hogy a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, a polgári hírszerzési tevékenység irányításáért felelős miniszterrel, az adópolitikáért felelős miniszterrel, valamint a miniszterrel egyetértésben a légi közlekedés védelme érdekében a 67. § (6) bekezdésében meghatározott ellenőrzés alá vonható munkavállalók, a repülőtér zárt területére belépő személyek körét, valamint az ellenőrzési eljárás rendjét,
+q) a rendészetért felelős miniszter, hogy a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, az adópolitikáért felelős miniszterrel, valamint a miniszterrel egyetértésben a légiközlekedés védelme érdekében a 67. § (11) és (12) bekezdésében meghatározott ellenőrzés alá vonható munkavállalók, az SRA-ra belépő személyek körét, valamint az ellenőrzési eljárás rendjét,
 
 r) a miniszter, hogy a nem gazdasági célú légiközlekedési tevékenységet ellátó légijármű fedélzetén hajózó személyzet, valamint a légiutas-kísérő repülési idejére vonatkozó szabályokat,
 
@@ -100,6 +100,20 @@ u) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben Mag
 
 v) a miniszter, hogy a repülésbiztonság összehangolt irányítása érdekében szükséges Nemzeti Repülésbiztonsági Programra és a Repülésbiztonság-irányítási Rendszer működtetésére vonatkozó részletes szabályokat
 
-w) a honvédelemért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel egyetértésben – az állami szerv által igazolt állami célú nemzetközi repülésekhez és a magyar állami légijárművek nemzetközi repüléseihez szükséges engedélyezési eljárásrend részletes szabályait.
+w) a honvédelemért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel egyetértésben – az állami szerv által igazolt állami célú nemzetközi repülésekhez és a magyar állami légijárművek nemzetközi repüléseihez szükséges engedélyezési eljárásrend részletes szabályait,
+
+x) a miniszter, hogy az egészségügyért felelős miniszterrel egyetértésben a lajstromozásra nem kötelezett légijárművek vezetőire vonatkozó egészségügyi feltételeket,
+
+y) a miniszter, hogy az egészségügyért felelős miniszterrel egyetértésben a légiközlekedési szakszemélyzet tagjai és a lajstromozásra nem kötelezett légijárművek vezetői egészségügyi alkalmasságának megállapítását végző szervek kijelölésének és tevékenységének szabályait,
+
+z) a miniszter, hogy a veszélyes áruk légi úton történő továbbítására használt csomagolóeszközök megfelelőség-értékelésének szabályait
 
 rendeletben állapítsa meg,
+
+(3) Felhatalmazást kap
+
+a) a miniszter, hogy a veszélyes áruk biztonságos légiszállításáról szóló műszaki utasításokat,
+
+b) a honvédelemért felelős miniszter, hogy a miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben Magyarország Légiközlekedési Terep és Akadály Adatbázisából történő adatszolgáltatással kapcsolatos igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat
+
+rendeletben állapítsa meg.

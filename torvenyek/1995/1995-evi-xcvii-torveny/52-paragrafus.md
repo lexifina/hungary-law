@@ -6,7 +6,7 @@
 
 (2) A légi személyszállításra és a légi árufuvarozásra használt légijármű esetében a szakszolgálati engedély tulajdonosa a jogosultságával abban az esetben élhet, ha arra a légijármű üzemben tartója, illetve karbantartója írásban külön felhatalmazta.
 
-(3) Lajstromozásra nem kötelezett légijárművet az vezethet, aki nem szenved a külön jogszabályban felsorolt betegségek vagy testi hiányosságok egyikében sem, és aki a légiközlekedési hatóság által engedélyezett tanfolyam elvégzéséről bizonyítvánnyal rendelkezik.
+(3) Lajstromozásra nem kötelezett légijárművet az vezethet, aki rendelkezik a polgári légiközlekedési személyzet egészségi alkalmasságának feltételeiről, valamint az egészségi alkalmasság megállapítását végző szervek kijelölésének és tevékenységének szabályairól szóló miniszteri rendeletben meghatározott orvosi minősítéssel és a 32. §-ban előírt képzés elvégzéséről szóló igazolással.
 
 (4) A repülések végrehajtásának részletes szabályait a miniszter a honvédelemért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 

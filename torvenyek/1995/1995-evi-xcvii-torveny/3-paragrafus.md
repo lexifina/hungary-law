@@ -14,7 +14,7 @@ b) a helyi önkormányzatok és azok társulásai;
 
 c) a Magyar Honvédség és a honvédelemért felelős miniszter közvetlen irányítása és felügyelete alá tartozó szervezetek;
 
-d) a rendőrség, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a katasztrófavédelem, az állami és hivatásos önkormányzati tűzoltóság;
+d) az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv (a továbbiakban együtt: rendőrség), a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a katasztrófavédelem;
 
 e) az állami (honvédelmi és rendvédelmi) szervezetek által – nemzetközi megállapodás alapján – bérelt, lízingelt légijárművek bérbeadója, lízingbeadója.
 

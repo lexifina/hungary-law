@@ -8,7 +8,7 @@ aa) kereskedelmi repülőtér: a rendszeres utas, poggyász, áru és posta tov�
 
 ab) nem kereskedelmi repülőtér: az aa) alpontban meghatározottakon kívül minden más nyilvános repülőtér,
 
-ac)
+ac) közös felhasználású repülőtér.
 
 ad)
 

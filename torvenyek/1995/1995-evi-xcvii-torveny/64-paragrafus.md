@@ -6,4 +6,6 @@
 
 (2) A légiközlekedési baleset, a súlyos repülőesemény, a repülőesemény és a légiközlekedési rendellenesség szakmai vizsgálatát külön törvény rendelkezései alapján a közlekedésbiztonsági szerv végzi.
 
-(3)–(5)
+(3) A légiközlekedési baleset, súlyos repülőesemény, a repülőesemény és a légiközlekedési rendellenesség vizsgálatával kapcsolatos iratok irattári őrzési ideje 50 év.
+
+(4)–(5)

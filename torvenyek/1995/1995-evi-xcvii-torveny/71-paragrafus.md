@@ -56,7 +56,9 @@ d) a repülőtér és a légiközlekedést kiszolgáló földi létesítmények 
 
 e) a léginavigációs szolgálat és légiforgalmi szolgáltatások ellátása,
 
-f) a légijármű földi kiszolgálása;
+f) a légijármű földi kiszolgálása,
+
+g) veszélyes áru feladása légi úton történő továbbításra;
 
 13. léginavigációs berendezés: a légijármű helyzete és útvonala meghatározásának eszköze;
 
@@ -92,8 +94,12 @@ f) a légijármű földi kiszolgálása;
 
 29. légi cél: azon légijármű, amely vonatkozásában a légvédelmi készenléti szolgálat számára elfogási feladat került meghatározásra.
 
-30. légijármű komponens: a légijármű hajtóműve (beleértve a segédhajtóművet is), légcsavarja, alkatrésze vagy berendezése,
+30. karbantartás: légijármű, vagy légijármű komponensének nagyjavítását, javítását, ellenőrző vizsgálatát, cseréjét, átalakítását vagy hibaelhárítását, vagy ezek kombinációját jelenti, a repülés előtti ellenőrzés kivételével;
 
-31. karbantartás: légijármű, légijármű komponens vagy légiközlekedéssel kapcsolatos eszköz nagyjavítása, kisjavítása, ellenőrző vizsgálata, alkatrészpótlása, átalakítása, hibaelhárítása, vagy ezek kombinációja, kivéve a légijármű repülés előtti ellenőrzését.
+31. légijármű komponens: bármely hajtómű, légcsavar, alkatrész, berendezés;
 
 32. magyar légtér: Magyarország feletti légtérnek a légiközlekedés számára – a mindenkori legfejlettebb technikai színvonal alapján – fizikailag igénybe vehető magasságig terjedő része.
+
+33. veszélyes áru feladása légi úton történő továbbításra: veszélyes áru légi úton történő továbbításával összefüggően a feladó felelősségi körébe tartozó, a veszélyes áruk légi úton történő továbbításáról szóló kormányrendeletben meghatározott feladatok ellátása;
+
+34. komplex motoros meghajtású légijármű: a 216/2008/EK európai parlamenti és tanácsi rendelet 3. cikk j) pontjában meghatározott légijármű.
