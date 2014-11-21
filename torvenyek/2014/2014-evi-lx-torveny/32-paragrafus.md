@@ -7,11 +7,3 @@ b) a 185/2010/EU rendeletnek az uniós légiközlekedés-védelmi ellenőrzés t
 c) a légi járművek és kapcsolódó termékek, alkatrészek és berendezések légialkalmassági és környezetvédelmi tanúsítása, valamint a tervező és gyártó szervezetek tanúsítása végrehajtási szabályainak megállapításáról szóló, 2012. augusztus 3-ai 748/2012/EU bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Jakab István s. k.,
-
-az Országgyűlés alelnöke
