@@ -30,25 +30,11 @@
 
 ## 3. A Kormány egyetért azzal, hogy „A székesfehérvári királyi bazilika embertani leleteinek genetikai azonosítása” című projekt 1. ütemének megvalósítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1180/2014. (III. 27.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 2. Gyógyító-megelőző ellátás intézetei alcím, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 21,1 millió forint a XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 2. Gyógyító-megelőző ellátás intézetei alcím, K3. Dologi kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2013. évi kötelezettségvállalással nem terhelt költségvetési maradvány egy részének átcsoportosításáról, valamint az Emberi Erőforrások Minisztériuma és a Miniszterelnökség közötti előirányzat átcsoportosításról szóló 1091/2014. (II. 28.) Korm. határozat 2. pontjában a „2015. január 30.” szövegrész helyébe a „2015. január 30.; a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 31. Kiemelt célú beruházások támogatása alcím, 2. Egyedi kormánydöntésen alapuló közlekedési beruházások jogcímcsoport javára átcsoportosított 350,0 millió forint tekintetében 2015. június 30.” szöveg lép.
-
-## 5. A biztonságos közlekedés Fonyód térségében történő helyreállításához szükséges rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1250/2014. (IV. 18.) Korm. határozatban a „2015. január 31.” szövegrész helyébe a „2015. június 30.” szöveg lép.
-
-## 6. A Magyar Honvédség közvetlen légi támogatási képességének kialakítása és a 2016-os V4 EU Harccsoportba történő felajánlása érdekében szükséges feladatok forrásigényéről szóló 1291/2014. (V. 5.) Korm. határozat 1. pontjában a „2014. december 15.” szövegrész helyébe a „2015. május 31.” szöveg lép.
+## 4–6.[^1]
 
 ## 7. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, egyes kormányhatározatok módosításáról, a pártalapítványok tartalékának átcsoportosításáról, valamint a 2013. évi költségvetési maradványok egy részének felhasználásáról szóló 1457/2014. (VIII. 14.) Korm. határozatban (a továbbiakban: Határozat2.) foglaltaktól eltérően a Határozat2. 5. pontja szerinti 240,0 millió forint a XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím általános működésével kapcsolatos kiadások finanszírozására kerüljön felhasználásra és elszámolásra.
 
-## 8. A Liszt Ferenc Zeneművészeti Egyetem kiemelt kategóriájú koncertjeinek szervezése, a Concerto Akadémia Nonprofit Korlátolt Felelősségű Társaság támogatása, továbbá a magyar komolyzenei koncepció kidolgozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1193/2014. (III. 28.) Korm. határozat módosításáról és végrehajtása során alkalmazandó eltérő rendelkezésről szóló 1519/2014. (IX. 16.) Korm. határozat 2. b) pontja helyébe a következő rendelkezés lép:
-
-## „b) 20,0 millió forint a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség címen kerüljön felhasználásra a következők szerint:
-
-## ba) 15,4 millió forint a K1. Személyi juttatások kiemelt előirányzat,
-
-## bb) 4,5 millió forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat,
-
-## bc) 0,1 millió forint a K3. Dologi kiadások kiemelt előirányzat
-
-## terhére, 2014. december 31-i elszámolási és visszatérítési kötelezettségre vonatkozó határidővel.”
+## 8.[^2]
 
 ## 9. A Kormány egyetért azzal, hogy a nemzetpolitikai tevékenység támogatásának finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1542/2014. (IX. 24.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 3. Határon túli magyarok programjainak támogatása alcím, 1. Nemzetpolitikai tevékenység támogatása jogcímcsoport K7. Felújítások kiemelt előirányzat javára átcsoportosított 65,2 millió forintból 63,6 millió forint a XI. Miniszterelnökség fejezet 15. Fejezeti kezelésű előirányzatok cím, 3. Határon túli magyarok programjainak támogatása alcím, 1. Nemzetpolitikai tevékenység támogatása jogcímcsoport K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére, 1,6 millió forint a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 3. Határon túli magyarok programjainak támogatása alcím, 1. Nemzetpolitikai tevékenység támogatása jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
@@ -193,3 +179,6 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
