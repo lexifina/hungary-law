@@ -36,6 +36,12 @@ h) a biztonsági hatóságtól,
 
 i) a többi vasúti szabályozó szervezettől.
 
-(8) A közlekedésbiztonsági szervvel közszolgálati jogviszonyban álló személy (e törvény alkalmazásában a továbbiakban: kormánytisztviselő) nem lehet a (7) bekezdésben meghatározott szervek és gazdálkodó szervezetek kormánytisztviselője, vezető tisztségviselője, tulajdonosa, alkalmazottja vagy egyéb munkavállalója.
+(8) A közlekedésbiztonsági szervvel közszolgálati jogviszonyban álló személy (a továbbiakban: kormánytisztviselő) a (7) bekezdésben meghatározott szervekkel, vagy gazdálkodó szervezetekkel, a közszolgálati tisztviselőkről szóló törvényben meghatározottak figyelembevételével
+
+a) további jogviszonyt a jártasságának, tapasztalatának, gyakorlatának fenntartásához szükséges mértékben vagy vizsgáztatói tevékenység kivételével oktatói tevékenység végzésére,
+
+b) gyakorolható tevékenység végzésére irányuló jogviszonyt a munkáltatói jogkör gyakorlójának előzetes engedélyével
+
+létesíthet.
 
 (9) A (8) bekezdésben foglaltakon túl a közlekedésbiztonsági szerv vezetője, valamint a vezetőjének helyettesítésére jogosult személy nem lehet a (7) bekezdésben meghatározott szervek és gazdálkodó szervezetek kormánytisztviselőjének, vezető tisztségviselőjének, tulajdonosának, alkalmazottjának vagy egyéb munkavállalójának közeli hozzátartozója [Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 1. pont].

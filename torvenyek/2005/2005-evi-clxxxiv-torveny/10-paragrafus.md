@@ -2,7 +2,7 @@
 
 10. § (1) Aki közlekedési balesetet észlel, köteles azt haladéktalanul a rendőrségnek bejelenteni. A rendőrség haladéktalanul értesíti azokat a szerveket, amelyek feladatkörébe tartozik a közlekedési baleset következtében veszélybe került személyek részére segítség nyújtása, az élet- és vagyonbiztonság védelme, a közlekedési baleset szakmai vizsgálata.
 
-(2) A vasúti vagy víziközlekedési balesetben vagy eseményben részt vevő jármű személyzete, a járművek üzemben tartói, az érintett közlekedési infrastruktúra üzemben tartói, továbbá a vasúti és víziközlekedési baleset vagy esemény kivizsgálását végző más hatóságok haladéktalanul kötelesek jelenteni a közlekedésbiztonsági szervnek a bekövetkezett vasúti és víziközlekedési balesetet vagy eseményt az e törvény végrehajtására kiadott jogszabályban meghatározott adattartalommal. A bejelentési kötelezettség kiterjed a magyar úszólétesítményt külföldön ért balesetre is.
+(2) A vasúti vagy víziközlekedési balesetben vagy eseményben részt vevő jármű személyzete, a járművek üzemben tartói, az érintett közlekedési infrastruktúra üzemben tartói, a közlekedési hatóság, továbbá a vasúti és víziközlekedési baleset vagy esemény kivizsgálását végző más hatóságok haladéktalanul kötelesek jelenteni a közlekedésbiztonsági szervnek a bekövetkezett vasúti és víziközlekedési balesetet vagy eseményt az e törvény végrehajtására kiadott jogszabályban meghatározott adattartalommal. A bejelentési kötelezettség kiterjed a magyar úszólétesítményt külföldön ért balesetre is.
 
 (3) A szakmai vizsgálat kizárólag hivatalból indul meg. A bejelentés nem minősül kérelemnek. A bejelentő – abban az esetben is, ha hatóság a bejelentő – az eljárás egyéb résztvevőjének minősül.
 
