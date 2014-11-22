@@ -1,1 +1,0 @@
-## „(11) Ha e rendelet a bekerülési értéket az egységes rovatrend rovataihoz kapcsolódóan vezetett nyilvántartási számlákon nyilvántartott végleges kötelezettségvállalás, más fizetési kötelezettség összegében határozza meg, a bekerülési értéket nem módosítja a teljesítéskor realizált árfolyamnyereség miatt a végleges kötelezettségvállalás, más fizetési kötelezettség csökkentése.”

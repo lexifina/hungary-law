@@ -1,5 +1,6 @@
-24. § (1) Hatályát veszti az Áhsz. 42. § (2) bekezdése és 2. melléklet 18. pontja.
+24. § (1)[^15]
 
-(2)[^8]
+(2)[^16]
 
-[^8]: A 24. § (2) bekezdése a 25. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^15]: A 24. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 24. § (2) bekezdése a 25. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.

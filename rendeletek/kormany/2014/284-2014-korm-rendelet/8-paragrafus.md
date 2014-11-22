@@ -1,3 +1,0 @@
-## 7. § Az Áhsz. 18. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A közhatalmi bevételekre vonatkozó követelések és az adók módjára behajtandó követelések értékelése során az értékvesztés összege a kötelezettek együttes minősítése alapján egyszerűsített értékelési eljárással, azok csoportos értékelésével is meghatározható. Az egyszerűsített értékelési eljárás során az értékvesztést negyedévente, a tárgynegyedév utolsó napján fennálló, pénzügyileg nem rendezett közhatalmi bevételekre vonatkozó követelések és az adók módjára behajtandó kis összegű követelések után kell elszámolni.”

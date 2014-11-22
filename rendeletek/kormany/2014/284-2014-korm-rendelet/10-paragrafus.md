@@ -1,3 +1,3 @@
-## 9. § Az Áhsz. 21. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 4–9. §[^2]
 
-## „(2) A mérlegben a koncesszióba, vagyonkezelésbe adott eszközöket a bekerülési értéken kell kimutatni, csökkentve az elszámolt terv szerinti és terven felüli értékcsökkenéssel, növelve a terven felüli értékcsökkenés visszaírt összegével. Az értékhelyesbítést külön kell kimutatni az eszközök értékhelyesbítésének forrásával azonos összegben. A koncesszióba, vagyonkezelésbe adott eszközök után a terven felüli értékcsökkenést és az értékhelyesbítést a koncesszió jogosultja, a vagyonkezelő adatszolgáltatása alapján kell megállapítani.”
+[^2]: A 4–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
