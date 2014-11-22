@@ -1,0 +1,1 @@
+15. § Az Országgyűlés megállapítja, hogy a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény végrehajtásáról szóló 2013. évi CXCIII. törvény 16–17. §-ában előírt megtérítési és visszautalási kötelezettségek teljesítése megtörtént.
