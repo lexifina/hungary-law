@@ -2,7 +2,7 @@
 
 ## 2. Értelmező rendelkezések
 
-## 2. §[^2] E rendelet alkalmazásában
+## 2. §[^3] E rendelet alkalmazásában
 
 1. átváltási határnap: a bankjegyek feldolgozásáról, forgalmazásáról, valamint hamisítás elleni védelmével kapcsolatos technikai feladatokról szóló MNB rendeletben meghatározott fogalom;
 
@@ -66,4 +66,4 @@ bb) külföldi érme, amely a kibocsátó forgalomképességre vonatkozó rendel
 
 20. ügyfél: a készpénzforgalmazás keretében a pénzfeldolgozó vagy a pénzforgalmazó szolgáltatását igénybe vevő természetes és jogi személy, valamint jogi személyiséggel nem rendelkező szervezet.
 
-[^2]: A 2. § a 35/2014. (IX. 25.) MNB rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § a 35/2014. (IX. 25.) MNB rendelet 1. §-ával megállapított szöveg.

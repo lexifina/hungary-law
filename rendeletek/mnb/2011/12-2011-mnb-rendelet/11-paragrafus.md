@@ -1,5 +1,15 @@
-11. § (1) A hitelintézet és a posta a 10. § szerinti címletváltásért díjat számíthat fel, amelynek maximális mértéke – ideértve az átváltással összefüggésben egyéb címeken esetleg felszámítandó külön díjakat is – az átváltott forintérme névértékének 10%-a.
+11. § (1) A hitelintézet és a posta – a (2) bekezdésben foglalt kivétellel –
 
-(2) A hitelintézet és a posta a 10. § szerinti címletváltást a nála vezetetett fizetési számla meglétéhez, illetve az általa nyújtott szolgáltatás igénybevételéhez kötheti.
+a) a forintérmék címletváltásáért és átváltásáért díjat számíthat fel, amelynek maximális mértéke – ideértve a címletváltással és átváltással összefüggésben egyéb címen felszámított különdíjat is – a becserélt forintérme névértékének 10 százaléka,
 
-(3) A hitelintézet és a posta a 10. § szerinti címletváltást ténylegesen végző fiókjai számát korlátozhatja. A fővárosban, illetve az adott megyében fiókkal rendelkező hitelintézetnek és postának azonban biztosítania kell, hogy a fővárosban, illetve az adott megyében – elsősorban a megyeszékhelyen – legalább 1-1 fiókja ténylegesen végezze a 10. § szerinti címletváltást.
+b) a forintérmék címletváltását és átváltását a nála vezetetett fizetési számla meglétéhez, illetve az általa nyújtott szolgáltatás igénybevételéhez kötheti,
+
+c) a forintérmék címletváltását és átváltását ténylegesen végző fiókjai számát korlátozhatja azzal, hogy a fővárosban, illetve az adott megyében fiókkal rendelkező hitelintézetnek és postának biztosítania kell, hogy a fővárosban, illetve az adott megyében – elsősorban a megyeszékhelyen – legalább 1-1 fiókja ténylegesen végezze a forintérmék címletváltását és átváltását.
+
+(2) A hitelintézet és a posta
+
+a) az új MNB tv. 23. § (3) bekezdése szerinti átváltási kötelezettségének a pénztárral rendelkező valamennyi fiókjában köteles eleget tenni,
+
+b) az új MNB tv. 23. § (3) bekezdése szerinti átváltási kötelezettség teljesítéséért díjat nem számíthat fel,
+
+c) az új MNB tv. 23. § (3) bekezdése szerinti átváltási kötelezettség teljesítését a nála vezetett számla meglétéhez, illetve az általa nyújtott szolgáltatás igénybevételéhez nem kötheti.
