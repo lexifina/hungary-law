@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-11-20-2
 | 2012-02-02 | 2011-11-20-2C.6 | 2010: CXXX. törvény |
 | 2014-02-15 | 2011-11-20-2C.7 | 2/2014. (II. 14.) MNB rendelet |
 | 2014-10-01 | 2011-11-20-2C.8 | 34/2014. (IX. 25.) MNB rendelet |
+| 2014-11-24 | 2011-11-20-2C.9 | 34/2014. (IX. 25.) MNB rendelet |

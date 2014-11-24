@@ -26,7 +26,7 @@
 
 ## 4. Az ügyfél által kezelt gépből származó hamisgyanús bankjegyre vonatkozó 1. pont szerinti jegyzőkönyvet az 1. e) és f) pontban meghatározott adatok nélkül kell elkészíteni.
 
-5. melléklet a 11/2011. (IX. 6.) MNB rendelethez[^48]
+5. melléklet a 11/2011. (IX. 6.) MNB rendelethez[^49]
 
 A készpénzforgalmazás szempontjából kritikus hitelintézeti, illetve postai fiókok listája
 
@@ -42,4 +42,4 @@ A készpénzforgalmazás szempontjából kritikus hitelintézeti, illetve postai
 
 Az adatok beküldésének módja: elektronikus üzenetben, a jelen mellékletben foglalt, megfelelő adatokkal kitöltött táblázat továbbításától elkülönülten közölt megnyitási jelszó alkalmazásával, a kpl-ellenorzes@mnb.hu email címre.
 
-[^48]: Az 5. melléklet a 34/2014. (IX. 25.) MNB rendelet 11. §-a szerint módosított szöveg.
+[^49]: Az 5. melléklet a 34/2014. (IX. 25.) MNB rendelet 11. §-a szerint módosított szöveg.
