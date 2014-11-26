@@ -2,7 +2,7 @@
 
 a) méhmagzat,
 
-b) cselekvőképességet érintő gondnokság alatt álló kiskorú,
+b) kiskorú,
 
 c) cselekvőképességet érintő gondnokság alatt álló nagykorú,
 

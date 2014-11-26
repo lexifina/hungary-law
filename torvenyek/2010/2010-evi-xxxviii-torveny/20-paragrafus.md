@@ -22,7 +22,7 @@ a) öröklési érdeke veszélyeztetve van és
 
 aa) méhmagzat,
 
-ab) cselekvőképességet érintő gondnokság alatt álló kiskorú,
+ab) kiskorú,
 
 ac) cselekvőképességet érintő gondnokság alatt álló nagykorú,
 

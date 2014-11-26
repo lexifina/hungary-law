@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-38-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2010-38-00-00.15 |
 | 2014-05-01 | 2013. évi CCXII. törvény | 2010-38-00-00.16 |
 | 2014-07-01 | 2013. évi LXXVI. törvény | 2010-38-00-00.17 |
+| 2014-11-26 | 2014. évi LXXIII. törvény | 2010-38-00-00.18 |
