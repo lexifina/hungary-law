@@ -1,0 +1,1 @@
+4. § Az Országgyűlés felhatalmazást ad arra, hogy Magyarország az Európa Tanács Strasbourgban, 1999. január 27-én kelt Korrupcióról szóló Büntetőjogi Egyezményének kihirdetéséről szóló 2002. évi XLIX. törvény (a továbbiakban: Kihirdető tv.) 3. § (1) bekezdésében foglalt fenntartást visszavonja.

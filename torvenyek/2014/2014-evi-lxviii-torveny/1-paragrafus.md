@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európa Tanács Korrupcióról szóló Büntetőjogi Egyezményének Strasbourgban, 2003. május 15-én kelt Kiegészítő Jegyzőkönyve (a továbbiakban: Kiegészítő Jegyzőkönyv) kötelező hatályának elismerésére.
