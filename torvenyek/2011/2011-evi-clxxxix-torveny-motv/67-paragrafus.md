@@ -1,4 +1,4 @@
-67. § A polgármester
+67. § (1) A polgármester
 
 a) a képviselő-testület döntései szerint és saját hatáskörében irányítja a polgármesteri hivatalt, a közös önkormányzati hivatalt;
 
@@ -13,3 +13,5 @@ e) a hatáskörébe tartozó ügyekben szabályozza a kiadmányozás rendjét;
 f) gyakorolja a munkáltatói jogokat a jegyző tekintetében;
 
 g) gyakorolja az egyéb munkáltatói jogokat az alpolgármester és az önkormányzati intézményvezetők tekintetében.
+
+(2) A 42. § 2. és 7. pontjában meghatározott kérdésekről, valamint egyéb jogszabályban, közjogi szervezetszabályozó eszközben meghatározott kinevezésről, megbízásról, választásról a fővárosi közgyűlés kizárólag a főpolgármester előterjesztése alapján dönthet.

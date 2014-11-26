@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-189-00-00
 | 2014-06-18 | 2014. évi XXIII. törvény | 2011-189-00-00.21 |
 | 2014-10-12 | 2014. évi XXIII. törvény | 2011-189-00-00.22 |
 | 2014-10-13 | 2010. évi CXXX. törvény | 2011-189-00-00.23 |
+| 2014-11-26 | 2014. évi LXXI. törvény | 2011-189-00-00.24 |

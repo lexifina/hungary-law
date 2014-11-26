@@ -10,17 +10,17 @@ ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, eg�
 
 b) központi államigazgatási szerv vezetője, köztisztviselője;
 
-c) kormánytisztviselő;
+c) kormánytisztviselő olyan államigazgatási szervnél, amelynek illetékességi területén az adott önkormányzat működik;
 
 d) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat hivatásos vagy szerződéses állományú tagja, rendvédelmi szerv, az Országgyűlési Őrség vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja;
 
-e) jegyző (főjegyző), aljegyző, polgármesteri hivatal vagy közös önkormányzati hivatal köztisztviselője, alkalmazottja;
+e) jegyző (főjegyző), aljegyző, továbbá ugyanazon önkormányzat polgármesteri hivatalának vagy közös önkormányzati hivatalának köztisztviselője, alkalmazottja;
 
 f) más települési önkormányzatnál képviselő;
 
 g) más települési önkormányzatnál polgármester, alpolgármester;
 
-h) a helyi önkormányzat által alapított vagy tulajdoni részesedésével működő gazdasági társaság, továbbá a helyi önkormányzat tulajdoni részesedésével működő gazdasági társaság által alapított gazdasági társaság legfőbb szervének, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja;
+h) a helyi önkormányzat által alapított vagy tulajdoni részesedésével működő gazdasági társaság, továbbá a helyi önkormányzat tulajdoni részesedésével működő gazdasági társaság által alapított gazdasági társaság legfőbb szervének – kivéve, ha a gazdasági társaság legfőbb szerve a képviselő-testület –, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja;
 
 i) médiatartalom-szolgáltató természetes személy, továbbá jogi személy, valamint gazdasági társaság legfőbb szervének, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja.
 

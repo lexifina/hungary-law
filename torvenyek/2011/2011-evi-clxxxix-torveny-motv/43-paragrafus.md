@@ -1,6 +1,6 @@
 ## A képviselő-testület működése
 
-43. § (1) A képviselő-testület az alakuló ülését a választást követő tizenöt napon belül tartja meg.
+43. § (1) A képviselő-testület az alakuló ülését a választás eredményének jogerőssé válását követő tizenöt napon belül tartja meg.
 
 (2) Az alakuló ülést a polgármester hívja össze és vezeti. A megyei közgyűlés alakuló ülését a választást követő tizenöt napon belül a korelnök hívja össze, és vezeti a megyei közgyűlés új elnökének szervezeti és működési szabályzat szerinti megválasztásának időpontjáig.
 

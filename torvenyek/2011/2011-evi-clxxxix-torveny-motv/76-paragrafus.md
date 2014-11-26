@@ -1,8 +1,8 @@
 76. § Az alpolgármester e tisztsége megszűnik:
 
-a) az önkormányzati választás napján, ha nem választották meg önkormányzati képviselőnek;
+a) a megválasztását követő helyi önkormányzati általános választás napján, jelöltek hiányában elmaradt választás esetén az időközi választás napján;
 
-b) amennyiben önkormányzati képviselőnek megválasztották, akkor a képviselő-testület alakuló ülésének napján; továbbá
+b)
 
 c) a 69. § (1) bekezdés b)–i) pontjában foglalt esetekben;
 
