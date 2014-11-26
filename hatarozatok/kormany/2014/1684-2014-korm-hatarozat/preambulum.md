@@ -1,0 +1,1 @@
+A Kormány a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 16. § (2) bekezdésében biztosított jogkörében elrendeli a Kvtv. 1. melléklet LXXII. Egészségbiztosítási Alap fejezet, 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím
