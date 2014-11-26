@@ -1,0 +1,1 @@
+49/H. § A felszámoló az adós vagyontárgyainak értékesítésével, továbbá bármely más módon történő hasznosításával összefüggésben keletkezett dokumentumról a hitelezői választmány, a hitelezők képviselője vagy bármely hitelező kérelmére 8 napon belül köteles írásban tájékoztatást adni, illetve azokba betekintést engedni.

@@ -2,7 +2,7 @@
 
 (2) Az elektronikus árverésen közjegyzőt nem kell igénybe venni. Ha az elektronikus árverésen több, közel azonos értékű (a vételár vonatkozásában legfeljebb 10%-kal eltérő) érvényes ajánlat érkezik, a felszámolóbiztos ezek között az elektronikus árverésre egy újabb licitálást (elektronikus árverés újabb fordulója) hirdet. Az addig megtett ajánlatok automatikusan érvényben maradnak, vagy azoknál magasabb összegű ajánlatot lehet tenni az árverés lezárásáig.
 
-(3) Az elektronikus pályázaton közjegyző közreműködése kötelező. A pályázat értékeléséről készített jegyzőkönyvet is fel kell tölteni a számítógépes rendszerbe.
+(3) Az elektronikus pályázaton közjegyzőt nem kell igénybe venni. A pályázat értékeléséről készített jegyzőkönyvet a felszámoló feltölti a számítógépes rendszerbe, és a kinyomtatott jegyzőkönyvet 8 napon belül megküldi a bíróságnak, a hitelezői választmánynak, és a hitelezők képviselőjének. A jegyzőkönyv megtekintését bármely hitelező számára – kérelmére – 8 napon belül biztosítani kell.
 
 (4) Az elővásárlási joggal rendelkezőknek nem kell részt venniük az elektronikus értékesítésben. A felszámoló az elektronikus értékesítés érvényességének és eredményességének megállapítását követően a nyertes ajánlatot bemutatja az elővásárlási joggal rendelkezőknek, az őket megillető sorrendben, annak érdekében, hogy nyilatkozzanak: kívánnak-e élni elővásárlási jogukkal.
 
