@@ -11094,6 +11094,10 @@ Horvátzsidány
 
 |
 
+Iklanberény
+
+|
+
 Kiszsidány
 
 |
@@ -11111,6 +11115,10 @@ Kőszegpaty
 |
 
 Kőszegszerdahely
+
+|
+
+Lócs
 
 |
 
@@ -11143,10 +11151,6 @@ Tömörd
 |
 
 Velem
-
-|
-
-|
 
 18/4. Sárvári Járásbíróság
 
@@ -11224,10 +11228,6 @@ Ikervár
 
 |
 
-Iklanberény
-
-|
-
 Jákfa
 
 |
@@ -11285,10 +11285,6 @@ Kissomlyó
 |
 
 Köcsk
-
-|
-
-Lócs
 
 |
 
@@ -11444,8 +11440,6 @@ Zsédeny
 
 |
 
-|
-
 18/5. Szombathelyi Közigazgatási és Munkaügyi Bíróság
 
 |
@@ -11479,6 +11473,10 @@ Bakonykoppány
 |
 
 Balatonakali
+
+|
+
+Balatonakarattya
 
 |
 
@@ -11698,7 +11696,11 @@ Vöröstó
 
 |
 
-Zánka
+Zánka”
+
+|
+
+|
 
 19/2. Ajkai Járásbíróság
 
