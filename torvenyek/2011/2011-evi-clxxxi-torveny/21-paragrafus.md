@@ -4,7 +4,7 @@ a) a szervezet létesítő okiratát és
 
 b) a székhelyhasználat jogcímét igazoló okirat másolatát.
 
-(2) Ha a szervezet alapításában jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság vesz részt, a kérelemhez csatolni kell a jogi személy alapító jogi személyiségét igazoló okiratot vagy a jogi személyiséggel nem rendelkező gazdasági társaságként való működést igazoló okiratot és a szervezet nevében eljáró képviselő képviseleti jogát igazoló okiratot is.
+(2) Ha a szervezet alapításában jogi személy vesz részt, a kérelemhez csatolni kell a jogi személy alapító jogi személyiségét igazoló okiratot és a szervezet nevében eljáró képviselő képviseleti jogát igazoló okiratot is.
 
 (3) Ha a szervezet neve jogi személy, más szervezet vagy természetes személy nevét tartalmazza, a kérelemhez csatolni kell a jogosultnak, illetve örökösének vagy jogutódjának a névhasználathoz hozzájáruló nyilatkozatát.
 
@@ -17,3 +17,9 @@ b) a székhelyhasználat jogcímét igazoló okirat másolatát.
 (7) Ha a kérelmező a szervezet magyar nyelvű elnevezésének megfelelő idegen nyelvű elnevezését is kéri nyilvántartásba venni, a magyar nyelvű elnevezés – a külön jogszabályban foglaltak szerint arra jogosult által készített – idegen nyelvű fordításával kell igazolnia, hogy az idegen nyelvű elnevezés a magyar nyelvű elnevezésének megfelel. Ha a bíróságnak a fordítás megfelelőségével szemben kétsége merül fel, a kérelmezőtől a magyar nyelvű elnevezés idegen nyelvű hiteles fordítást kérheti.
 
 (8) Képviselet esetén a Pp. 69–73. §-át megfelelően alkalmazni kell.
+
+(9) Ha több kérelmező a kérelmet elektronikus úton nyújtja be, a kérelemhez csatolni kell valamennyi kérelmező nyilatkozatát arról, hogy:
+
+a) hozzájárul ahhoz, hogy a kérelmet a benyújtó személy ügyfélkapuján keresztül nyújtják be,
+
+b) tudomásul veszi, hogy szabályszerű kézbesítésnek minősül a bírósági iratnak a benyújtó személy ügyfélkapujára történő kézbesítése.

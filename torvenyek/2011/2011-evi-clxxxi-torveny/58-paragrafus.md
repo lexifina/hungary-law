@@ -6,4 +6,4 @@
 
 (3) Az alapítvány különválásának bejegyzése iránti kérelem elbírálására a különváló alapítványt nyilvántartó bíróság illetékes. A kérelmet az új alapítványok alapító okiratának elfogadásától számított hatvan napon belül kell benyújtani, egyidejűleg kérni kell a különváló alapítvány nyilvántartásból való törlését is.
 
-(4) Az alapítvány kiválásának bejegyzése iránti kérelem elbírálására a kiválással érintett alapítványt nyilvántartó bíróság illetékes. A kérelmet az új alapítványok alapító okiratának elfogadásától számított hatvan napon belül kell benyújtani, egyidejűleg kérni kell a kiválással létrejövő alapítványok nyilvántartásba vételét is.
+(4) Az alapítvány kiválásának bejegyzése iránti kérelem elbírálására a kiválással érintett alapítványt nyilvántartó bíróság illetékes. A kérelmet az új alapítvány alapító okiratának elfogadásától számított hatvan napon belül kell benyújtani, egyidejűleg kérni kell a kiválással létrejövő alapítvány nyilvántartásba vételét is.

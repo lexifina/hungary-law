@@ -4,4 +4,4 @@
 
 ## 37. Az informatikai rendszer
 
-72–82. §
+### 72–78. §

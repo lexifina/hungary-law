@@ -12,7 +12,11 @@ b)
 
 c) az e törvényben szabályozott eljárásokban érvényesülő ügyviteli szabályokat,
 
-d)–f)
+d)
+
+e)
+
+f)
 
 g) a szervezet célja szerinti besorolását,
 

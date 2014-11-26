@@ -32,9 +32,11 @@ c) különválás esetén, a beolvadásos különválás esetét kivéve a kül�
 
 d) beolvadásos különválás esetén annak az alapítványnak az adatait tartalmazó változásbejegyzési űrlapot, amelybe a beolvadásos különválás történik,
 
-e) kiválás esetén a kiválással létrejövő alapítvány adatait tartalmazó nyilvántartásba vételi űrlapot,
+e) kiválás esetén – a beolvadásos kiválás esetét kivéve – a kiválással létrejövő alapítvány adatait tartalmazó nyilvántartásba vételi űrlapot,
 
-f) annak az alapítványnak az adatait tartalmazó változásbejegyzési űrlapot, amelyből kiválnak.
+f) beolvadásos kiválás esetén, annak az alapítványnak az adatait tartalmazó változásbejegyzési űrlapot, amelyhez a csatlakozás történik,
+
+g) annak az alapítványnak az adatait tartalmazó változásbejegyzési űrlapot, amelyből a kiválás történt.
 
 (4) A bíróság az alapítvány egyesülésének vagy szétválásának bejegyzése iránti kérelmet a nyilvántartásba-vételi kérelem szabályai szerint bírálja el, a kérelem elbírálására nyitva álló határidő akkor kezdődik, amikor az egyesülésben vagy szétválásban érintett valamennyi alapítvány irata a bíróság rendelkezésére áll.
 
