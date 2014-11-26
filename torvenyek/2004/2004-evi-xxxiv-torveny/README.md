@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-34-00-00
 | 2014-01-01 | 2013. évi CCLI. törvény | 2004-34-00-00.14 |
 | 2014-01-07 | 2013. évi CCXLVI. törvény | 2004-34-00-00.15 |
 | 2014-01-13 | 2013. évi CLXXXIII. törvény | 2004-34-00-00.16 |
+| 2014-11-26 | 2014. évi LXXIII. törvény | 2004-34-00-00.17 |
