@@ -1,0 +1,1 @@
+2. § Ha a Megállapodás szerinti elfogatóparancs és egy harmadik ország kiadatási kérelme ütközik, az igazságügyért felelős miniszter dönti el, hogy az elfogatóparancsnak vagy a kiadatási kérelemnek ad-e elsőbbséget.
