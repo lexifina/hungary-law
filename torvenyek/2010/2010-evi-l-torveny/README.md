@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-50-00-00
 | 2013-12-11 | 2013. évi CCVII. törvény | 2010-50-00-00.6 |
 | 2014-06-18 | 2014. évi XXIII. törvény | 2010-50-00-00.7 |
 | 2014-07-24 | 26/2014. (VII. 23.) AB határozat | 2010-50-00-00.8 |
+| 2014-11-26 | 2011. évi CLXXXIX. törvény | 2010-50-00-00.9 |

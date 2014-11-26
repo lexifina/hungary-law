@@ -15,3 +15,5 @@
 (5) Ha az egyéni választókerületi képviselő vagy a polgármester, főpolgármester megbízatása megszűnik, időközi választást kell kitűzni.
 
 (6) Ha az önkormányzati képviselő-testületet feloszlatták vagy feloszlott, időközi választást kell tartani.
+
+(7) A fővárosi közgyűlés feloszlása esetén időközi választást kell kiírni valamennyi fővárosi kerület polgármesteri tisztségére.
