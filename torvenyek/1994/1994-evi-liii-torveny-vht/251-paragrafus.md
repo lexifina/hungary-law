@@ -10,6 +10,6 @@ d) a számvizsgáló bizottság, amely elnökből és két tagból áll.
 
 (2) A kamara végrehajtó tagjai a kamara szerveiben tisztséget viselhetnek, azok elnökévé vagy tagjává megválaszthatók, kivéve, ha a 267. § (1) bekezdésének d) vagy e) pontja szerinti fegyelmi büntetés hatálya alatt állnak.
 
-(3) Az elnökség a tagjai közül megválasztja a kamara elnökét és ügyvezető alelnökét, valamint az elnökségi titkárt. A számvizsgáló bizottság a tagjai közül választja meg az elnökét.
+(3) Az elnökség a tagjai közül megválasztja a kamara elnökét és ügyvezető alelnökét, valamint az elnökségi titkárt. A számvizsgáló bizottság a tagjai közül választja meg az elnökét. A kamara elnökének megválasztását a miniszternek jóvá kell hagynia.
 
 (4) A kamara a munkájának elősegítésére további tisztségeket és bizottságokat hozhat létre, hivatalt tarthat fenn, és ügyintézőket alkalmazhat.
