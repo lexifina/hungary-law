@@ -18,7 +18,9 @@ e) A közalapítvány alapító okiratban megjelölt ügyvezető szerve a közal
 
 f) A közalapítvány alapító okiratának módosítását (módosítással egybeszerkesztett szövegét) a Magyar Közlönyben, illetve az önkormányzat hivatalos lapjában – ennek hiányában a helyben szokásos módon – közzé kell tenni.
 
-(3)
+(3) Az e törvény hatálya alá tartozó közalapítvány közhasznú jogállást szerezhet, ha teljesíti a közhasznú jogállás megszerzésének az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvényben (a továbbiakban: Civil törvény) foglalt feltételeit.
+
+(3a) A közalapítvány esetén a Civil törvény civil szervezetekre vonatkozó rendelkezéseit alkalmazni kell.
 
 (4) A közalapítványt – az alapítványra vonatkozó rendelkezéseken túlmenően – a bíróság nemperes eljárásban akkor is megszünteti, ha az alapító ezt arra hivatkozással kéri, hogy a közfeladat ellátásának biztosítása más módon vagy más szervezeti keretben hatékonyabban megvalósítható.
 
