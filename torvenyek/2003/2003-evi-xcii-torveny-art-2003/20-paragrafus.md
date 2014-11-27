@@ -22,6 +22,12 @@ előtt adóazonosító jelének közlése végett az állami adóhatóságnál a
 
 (7b) Amennyiben az adóhatóság a (7a) bekezdésben felsoroltakról nem az egészségbiztosítási szervtől értesül, 10 napon belül elektronikus úton adatot szolgáltat az Egészségbiztosítási Alap kezeléséért felelős szerv részére.
 
+(7c) Az állami adóhatóság kérelemre, visszamenőleges hatállyal törli a külföldön élő magánszemély Tbj. 39. § (2) bekezdés szerinti járulékfizetési kötelezettségét, ha a magánszemély hitelt érdemlően igazolja (különösen a tartózkodást, illetve az egészségbiztosítási jogviszonyt igazoló okirattal), hogy
+
+a) huzamos ideje, életvitelszerűen Magyarország területén kívül tartózkodik, és
+
+b) tartózkodási helyén annak jogszabályai szerinti egészségbiztosítási rendszer hatálya alatt áll.
+
 (8) Az egészségbiztosítási szerv által vezetett egészségügyi szolgáltatásra jogosultak, biztosítottak nyilvántartásában biztosítottként vagy egyéb jogcímen jogosultként nem szereplő, a Tbj. 44/B. §-a vagy 44/C. §-a alapján adóhatóságnak átadott személyek adatait az adóhatóság összeveti
 
 a) az e törvény 31. §-ának (2) bekezdésében előírt bevallások magánszemélyenkénti adataival,

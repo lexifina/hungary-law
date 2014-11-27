@@ -12,7 +12,7 @@
 
 (4) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a számla, egyszerűsített számla, nyugta nyomtatványok forgalmazásának, nyilvántartásának szabályait, valamint ezek előállításának, adóigazgatási azonosításra alkalmasságának feltételeit rendeletben határozza meg.
 
-(4a) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben határozza meg a kezelőszemélyzet nélküli automataberendezéssel kapcsolatos nyilvántartás-vezetési kötelezettség teljesítésének – az adó megfizetését, a költségvetési támogatás igénybevételét, valamint az alapul szolgáló bizonylatoknak az ellenőrzését biztosító – részletes szabályait és műszaki követelményeit.
+(4a) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automata berendezés adókötelezettségével és a bejelentési eljárásért fizetendő igazgatási szolgáltatási díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (5) Az adóhatóság a fizetési meghagyást, a fizetési felszólítást és az adóívet nyomtatványon is kiadhatja.
 
@@ -78,6 +78,8 @@ hozzáférhet.
 
 (17) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg az adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység végzéséhez szükséges engedély kibocsátásának és visszavonásának feltételeit, a nyilvántartás vezetésének szabályait, az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, valamint az engedéllyel rendelkezők kötelező továbbképzésére vonatkozó részletes szabályokat azzal, hogy az eljárás során méltányossági eljárásnak nincs helye.
 
+(17a) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg az adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység végzéséhez szükséges engedély kibocsátásának és visszavonásának feltételeit, a nyilvántartás vezetésének szabályait, az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, valamint az engedéllyel rendelkezők kötelező továbbképzésére vonatkozó részletes szabályokat – azzal, hogy az eljárás során méltányossági eljárásnak nincs helye –, valamint a továbbképzési programok szervezésére és lebonyolítására jelentkező szervezetek pályázatának elbírálásáért fizetendő igazgatási szolgáltatási díj mértékét.
+
 (18) Felhatalmazást kap a Kormány, hogy az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartását végző szervezetet rendeletben kijelölje.
 
 (19)
@@ -117,3 +119,9 @@ e) a munkaügyi hatóság
 részére az állami adóhatóság által teljesített adatátadással érintett adatok körét, az adatátadás részletes szabályait, így különösen az adatátadás határidejét és gyakoriságát.
 
 (30) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendeletben állapítsa meg az üzemeltető részére nyújtott, az általános forgalmi adóról szóló törvény szerinti, a nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatást biztosító valamennyi szolgáltatás hatósági árát és a hatósági árszabályozás részletes szabályait.
+
+(31) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg a pénztárgép éves felülvizsgálatához kapcsolódó valamennyi szolgáltatás hatósági árát és a hatósági árszabályozás részletes szabályait.
+
+(32) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az EKAER működésével kapcsolatos részletszabályokat, különösen az EKAER szám megállapításának rendjét, az EKAER elektronikus felületén történő bejelentéssel, változásbejelentéssel, a kockázati biztosíték mértékének folyamatos meghatározásával kapcsolatos szabályokat rendeletben határozza meg.
+
+(33) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszter egyetértésével kiadott rendeletben határozza meg az EKAER működésével összefüggésben a kockázatos termékek körét.

@@ -67,3 +67,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-92-00-00
 | 2014-07-01 | 2013. évi CC. törvény | 2003-92-00-00.118 |
 | 2014-07-15 | 2014. évi XXXIII. törvény | 2003-92-00-00.119 |
 | 2014-10-01 | 2014. évi XXXIII. törvény | 2003-92-00-00.120 |
+| 2014-11-27 | 2014. évi LXXIV. törvény | 2003-92-00-00.121 |
