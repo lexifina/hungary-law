@@ -44,8 +44,8 @@ g) az ellenőr nem áll könyvvizsgálóval vagy könyvvizsgáló céggel tulajd
 
 (12) Az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég az ellenőrzés során köteles az ellenőrrel együttműködni, a helyszíni ellenőrzés feltételeit biztosítani.
 
-(13) Ha a közfelügyeleti hatóság úgy ítéli meg, hogy az adott minőségellenőrzés lebonyolításához szakértő igénybevétele szükséges, a minőségellenőrzésbe az ellenőr irányítása mellett szakértőként a (6) bekezdés e) pontjában foglaltaknak megfelelő kamarai minőségellenőrök is bevonhatók.
+(13) Ha a közfelügyeleti hatóság úgy ítéli meg, hogy az adott minőségellenőrzés lebonyolításához szükséges, közreműködőként a (6) bekezdés e) pontjában foglaltaknak megfelelő kamarai minőségellenőrök, valamint az adott minőségellenőrzéshez szükséges speciális szaktudással rendelkező személyek is bevonhatók. A minőségellenőrzésben közreműködőként részt vevő kamarai minőségellenőrök és más személyek a minőségellenőrzés során önálló írásos véleményt nem készítenek.
 
 (14) A kamara a minőségellenőrzés lefolytatásához szükséges dokumentumokat, nyilvántartásokat a közfelügyeleti hatóság kérelmére tizenöt napon belül átadja a közfelügyeleti hatóságnak.
 
-(15) Minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az eljárás megindításától számított 60 nap.
+(15) Minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az ellenőrzés megindításától számított 60 nap.

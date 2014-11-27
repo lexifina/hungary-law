@@ -16,4 +16,6 @@ e) köteles a kamara alapszabályában meghatározott, a kamara által nyújtott
 
 f) köteles megtartani a kamara önkormányzati szabályzataiban a szüneteltető tagokra előírt szabályokat,
 
-g) köteles haladéktalanul, de legkésőbb tizenöt napon belül bejelenteni, ha a 33. § (1) bekezdésében felsorolt adataiban változás következett be.
+g) köteles haladéktalanul, de legkésőbb tizenöt napon belül bejelenteni, ha a 33. § (1) bekezdésében felsorolt adataiban változás következett be,
+
+h) köteles teljesíteni a 189. § (6) bekezdése szerinti adatszolgáltatást.

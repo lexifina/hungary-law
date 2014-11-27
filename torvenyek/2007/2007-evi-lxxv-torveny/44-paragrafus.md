@@ -24,7 +24,7 @@ k) könyvvizsgálói hálózati tagsága, a tagvállalatok és a kapcsolt válla
 
 l) fegyelmi büntetések, valamint az azok alóli mentesítések időpontja,
 
-m) a hozzájárulási díj fizetésével kapcsolatos adatok,
+m) a minőségbiztosítással, valamint a hozzájárulási díj fizetésével kapcsolatos adatok,
 
 n) nyilvántartási szám és a nyilvántartásba vételt végző hatóság neve, ha az Európai Gazdasági Térség más államában is nyilvántartásba vették könyvvizsgáló cégként,
 

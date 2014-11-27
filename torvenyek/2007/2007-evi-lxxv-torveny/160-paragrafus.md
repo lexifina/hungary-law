@@ -6,7 +6,7 @@ b) a kamarai minőségellenőrzési tevékenység végzéséhez előírt képzé
 
 c) a nyilvántartásba vételét megelőző hat éven belül fegyelmi eljárásban fegyelmi büntetést vagy figyelmeztetést nem kapott,
 
-d) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenysége tekintetében a nyilvántartásba vételét megelőzően lefolytatott legutolsó kamarai minőségellenőrzéssel összefüggésben nem került sor intézkedések alkalmazására.
+d) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenysége tekintetében a nyilvántartásba vételét megelőzően lefolytatott legutolsó minőségellenőrzéssel, kamarai minőségellenőrzéssel összefüggésben nem került sor intézkedések alkalmazására.
 
 (2) A minőségellenőrnek rendelkeznie kell a 49. § szerinti megfelelő minősítéssel is, ha olyan gazdálkodó tekintetében ellátott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó kamarai minőségellenőrzésben vesz részt, amely esetében csak minősített kamarai tag könyvvizsgáló vagy könyvvizsgáló cég végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet. Ilyen esetben a minősítés megszerzése és a kamarai minőségellenőrzésben való részvétel között legalább három évnek kell eltelnie.
 
