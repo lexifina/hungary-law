@@ -14,41 +14,7 @@
 
 (4)
 
-(5) A Cnytv. 21. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Ha több kérelmező a kérelmet elektronikus úton nyújtja be, a kérelemhez csatolni kell valamennyi kérelmező nyilatkozatát arról, hogy:
-
-a) hozzájárul ahhoz, hogy a kérelmet a benyújtó személy ügyfélkapuján keresztül nyújtják be, b) tudomásul veszi, hogy szabályszerű kézbesítésnek minősül a bírósági iratnak a benyújtó személy ügyfélkapujára történő kézbesítése.”
-
-(6) A Cnytv. 26. §-a helyébe a következő rendelkezés lép:
-
-„26. § (1) A nyilvántartásból való törlés iránti kérelemhez csatolni kell
-
-a) – az alapítvány kivételével – a szervezet legfőbb szervének a szervezet megszűnését elhatározó ülése jegyzőkönyvét,
-
-b) a szervezet legfőbb szervének a szervezet megszűnését elhatározó ülése jelenléti ívét a jelenlévő tagok nevével, lakóhelyével (székhelyével), képviselet esetén a képviseleti minőség feltüntetésével és – ha ülés tartására nem elektronikus hírközlő eszköz igénybevételével került sor – aláírásával,
-
-c) azokat az okiratokat, nyilatkozatokat, amelynek alapján megállapítható, hogy a szervezet nyilvántartásból való törlésének törvényi feltételei bekövetkeztek.
-
-(2) Ha ülés tartására nem került sor, a nyilvántartásból való törlés iránti kérelemhez a tagoknak a megszűnést elhatározó akaratnyilatkozatát tartalmazó okiratot kell csatolni.”
-
-(7) A Cnytv. 58. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az alapítvány kiválásának bejegyzése iránti kérelem elbírálására a kiválással érintett alapítványt nyilvántartó bíróság illetékes. A kérelmet az új alapítvány alapító okiratának elfogadásától számított hatvan napon belül kell benyújtani, egyidejűleg kérni kell a kiválással létrejövő alapítvány nyilvántartásba vételét is.”
-
-(8) A Cnytv. 58/B. § (3) bekezdés e) és f) pontja helyébe a következő rendelkezések lépnek:
-
-[A kérelemhez a (2) bekezdésben foglaltakon túl csatolni kell:]
-
-„e) kiválás esetén – a beolvadásos kiválás esetét kivéve – a kiválással létrejövő alapítvány adatait tartalmazó nyilvántartásba vételi űrlapot,
-
-f) beolvadásos kiválás esetén, annak az alapítványnak az adatait tartalmazó változásbejegyzési űrlapot, amelyhez a csatlakozás történik,”
-
-(9) A Cnytv. 58/B. § (3) bekezdése a következő g) ponttal egészül ki:
-
-[A kérelemhez a (2) bekezdésben foglaltakon túl csatolni kell:]
-
-„g) annak az alapítványnak az adatait tartalmazó változásbejegyzési űrlapot, amelyből a kiválás történt.”
+(5)–(9)
 
 (10) A Cnytv. 92. § (1) bekezdése a következő m) és n) pontja a következő szöveggel lép hatályba:
 
@@ -82,29 +48,13 @@ p) a szervezet külön törvényben meghatározott adatait.”
 
 „g) határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját, valamint ha a jogviszony megszűnésére a nyilvántartásban feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját.”
 
-(15) A Cnytv. 98. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A 28. § (2) bekezdése, a 46. § (3) és (4) bekezdése, a 79. §, a 80. § és a 124. § (2) és (4) bekezdése 2016. január 1-jén lép hatályba.”
+(15)
 
 (16) A Cnytv.
 
 a)
 
-b) 44/A. §-ában a „2014. december 31-éig” szövegrész helyébe a „2015. december 31-éig” szöveg,
-
-c) 98. § (1) bekezdésében a „(2)–(4) bekezdésben” szövegrész helyébe a „(2)–(5) bekezdésben” szöveg,
-
-d) 98. § (4) bekezdésében
-
-da) a „7–16. §,” szövegrész helyébe a „7. § (1) és (4) bekezdése, a 8–16. §,” szöveg,
-
-db) a „46. § (2)–(5) bekezdése” szövegrész helyébe a „46. § (2) és (5) bekezdése” szöveg,
-
-dc) a „72–85. §,” szövegrész helyébe az „71–78. §, a 81–85. §,” szöveg,
-
-dd) a „97. § b), d)–f) pontja” szövegrész helyébe a „97. § b), d), f) pontja” szöveg,
-
-de) a „124. §” szövegrész helyébe a „124. § (1), (3) és (5)–(9) bekezdése” szöveg
+b)–d)
 
 lép.
 
@@ -124,14 +74,6 @@ f) 94. § (1) bekezdés f) pontjában a „születési nevét” szövegrész az
 
 lép hatályba.
 
-(18) Hatályát veszti a Cnytv.
-
-a) 21. § (2) bekezdésében a „vagy jogi személyiséggel nem rendelkező gazdasági társaság” és a „vagy a jogi személyiséggel nem rendelkező gazdasági társaságként való működést igazoló okiratot”,
-
-b) 43/B. § (1) bekezdés c) pontjában a „jogi személyiség nélküli gazdasági társaság vagy”,
-
-c) 98. § (4) bekezdésében az „a 28. § (2) bekezdése,”
-
-szövegrész.
+(18)
 
 (19) Nem lép hatályba a Cnytv. 97. § e) pontja.
