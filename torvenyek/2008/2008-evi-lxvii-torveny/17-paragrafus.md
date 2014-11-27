@@ -8,10 +8,6 @@
 
 (5) Hatályát veszti a Thtv. 6. § (2) bekezdés b) pontjának harmadik és negyedik mondata, a 10. § b) pontja, valamint a 60. § (2) bekezdés a) pontjában az „[5. § (2)–(3) bekezdések]” szövegrész.
 
-(6) Ez a törvény a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
-
-a) az 1990. július 23-i 90/434/EGK tanácsi irányelv a különböző tagállamok társaságainak egyesülésére, szétválására, eszközátruházására és részesedéscseréjére alkalmazandó adóztatás közös rendszeréről;
-
-b) a 2005. február 17-i 2005/19/EK tanácsi irányelv a különböző tagállamok társaságainak egyesülésére, szétválására, eszközátruházására és részesedéscseréjére alkalmazandó adóztatás közös rendszeréről szóló 90/434/EGK irányelv módosításáról.
+(6) Ez a törvény a következő európai uniós jogi aktusnak való megfelelést szolgálja: a Tanács 2009/133/EK irányelve a különböző tagállamok társaságainak egyesülésére, szétválására, részleges szétválására, eszközátruházására és részesedéscseréjére, valamint az SE-k vagy az SCE-k létesítő okirat szerinti székhelyének a tagállamok közötti áthelyezésére alkalmazandó adóztatás közös rendszeréről (2009. október 19).
 
 (7)
