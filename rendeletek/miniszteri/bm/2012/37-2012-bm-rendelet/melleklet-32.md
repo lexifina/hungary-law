@@ -1,6 +1,4 @@
-## „E létesítmény megvalósításában közreműködő személyt a vízgazdálkodásért felelős miniszter Lampl Hugó Emlékplakettel tüntette ki.”
-
-32. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^35]
+32. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^62]
 
 ## A Lampl Hugó Emlékplakett adományozására vonatkozó eljárás
 
@@ -34,8 +32,9 @@ i) a dokumentáció mérete: A/4 vagy ennek többszöröse, A/4 méretre hajtoga
 
 j) a pályázat nyelve magyar, és a pályázónak mindegyik dokumentumrészt aláírásával kell ellátnia.
 
-6. A pályázati felhívásnak tartalmaznia kell, hogy évente legfeljebb egy Emlékplakett elnyerésére kerülhet sor, amelyet a Víz Világnapján – március 22-én – kell átadni.
+6.[^63] A pályázati felhívásnak tartalmaznia kell, hogy évente legfeljebb egy Emlékplakett elnyerésére kerülhet sor, valamint azt, hogy az Emlékplakett átadására a Víz Világnapja – március 22-e –, vagy valamely állami, nemzeti ünnep alkalmával kerül sor.
 
 7. A pályázati felhívásban rögzíteni kell, hogy a tervezésért és a kivitelezésért felelős természetes személy emlékplakettet és adományozást igazoló oklevelet kap. A létesítményen az emlékplakett adományozását igazoló emléktábla kerül elhelyezésre.
 
-[^35]: A 32. mellékletet a 21/2014. (III. 10.) BM rendelet 8. § d) pontja iktatta be.
+[^62]: A 32. mellékletet a 21/2014. (III. 10.) BM rendelet 8. § d) pontja iktatta be.
+[^63]: A 32. melléklet 6. pontja az 51/2014. (XI. 26.) BM rendelet 16. § l) pontja szerint módosított szöveg.
