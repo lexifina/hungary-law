@@ -4,7 +4,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | A Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ létrehozásához a Józsefvárosi pályaudvar épületében kapcsolódó beruházások | Budapest VIII. kerület, Fiumei út 22–26. szám alatti, 38818/30, 38818/43, 34593/4 helyrajzi számú ingatlanok | a) építésügyi hatósági engedélyezési és tudomásulvételi eljárások, b) örökségvédelmi hatósági engedélyezési eljárások, c) régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 2. | A Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ létrehozásához a Józsefvárosi pályaudvar épületében kapcsolódó beruházások | Budapest VIII. kerület, Fiumei út 22–26. szám alatti, 38818/30, 38818/42, 38818/43, 38820 és 34593/4 helyrajzi számú ingatlanok | a) építésügyi hatósági engedélyezési és tudomásulvételi eljárások, b) örökségvédelmi hatósági engedélyezési eljárások, c) régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -28,7 +28,7 @@
 
 | 13. | bányahatósági engedélyek | Magyar Bányászati és Földtani Hivatal Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-2. melléklet a 289/2013. (VII. 26.) Korm. rendelethez[^8]
+2. melléklet a 289/2013. (VII. 26.) Korm. rendelethez[^10]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -68,4 +68,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 16. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-[^8]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 147. §-a, a 229/2014. (IX. 5.) Korm. rendelet 136. § (2) bekezdése és 137. § c) pontja szerint módosított szöveg.
+[^10]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 147. §-a, a 229/2014. (IX. 5.) Korm. rendelet 136. § (2) bekezdése és 137. § c) pontja szerint módosított szöveg.

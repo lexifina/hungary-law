@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-289-20-
 | 2013-12-12 | 2013-289-20-22.2 | 471/2013. (XII. 11.) Korm. rendelet |
 | 2014-01-01 | 2013-289-20-22.3 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2014-09-13 | 2013-289-20-22.4 | 229/2014. (IX. 5.) Korm. rendelet |
+| 2014-11-27 | 2013-289-20-22.5 | 471/2013. (XII. 11.) Korm. rendelet |
