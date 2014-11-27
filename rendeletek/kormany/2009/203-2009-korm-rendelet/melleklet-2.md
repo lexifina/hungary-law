@@ -394,7 +394,7 @@ a) a belső elválasztású mirigyrendszernek az adott munkakör ellátását ak
 
 b) anyagcsere- és rendszerbetegségek (E4100; E7000–E9000)
 
-c) cukorbetegség (E1000–E1400)
+c)[^19] cukorbetegség [kivéve a 2. típusú DM, protokoll szerint minősített, szövődménymentes állapota, csak a hypoglikémiát okozható tablettás kezelés mellett] (E1000-E1400)
 
 d) munkakör ellátását akadályozó allergiás eredetű kórképek (J4500; J4580; J4590); L2300–L2390; L5000–L5090;)
 
@@ -535,3 +535,5 @@ b) a megérthetőséget zavaró beszédhiba
 c) sérülés utáni – a munkakör ellátását akadályozó funkciózavart okozó – csont, ízületi, ín- és izom elváltozások
 
 (16) Fertőző betegségek (B2000–B2400; B1500–B1990; A5100–A5390; D8000–D8990)
+
+[^19]: A 2. melléklet (3) bekezdés c) pontja a 291/2014. (XI. 26.) Korm. rendelet 7. §-ával megállapított szöveg.

@@ -10,7 +10,7 @@
 
 (4) Az egészségi alkalmassági vizsgálatot végző szervezet havonta köteles az elvégzett vizsgálatokról és azok eredményéről a közlekedési hatóság felé adatot szolgáltatni. Az adatszolgáltatásnak tartalmaznia kell:
 
-a) a vizsgált személy Vtv. 80. § (13) bekezdés a) pontjában meghatározott adatait,
+a)[^14] a vizsgált személy természetes személyazonosító adatait,
 
 b) a vizsgálat alapján kialakított tanúsítványt, az esetleges korlátozásokkal,
 
@@ -23,3 +23,5 @@ e) a vizsgált személy munkáltatójának adatait.
 (5) Ha a vizsgált személy pszichológiai alkalmassági vizsgálatra kötelezett, a foglalkozás-egészségügyi orvos az érintett személy egészségi állapotáról a vizsgálatot végző pszichológust tájékoztatja.
 
 (6) A munkaviszony megszűnésekor az alkalmasságot megállapító foglalkozás-egészségügyi orvos kiállítja az egészségügyi törzslap kivonatát, melyet a munkavállaló részére átad azzal, hogy új munkahelyén a vizsgálatot végző orvosnak azt bemutassa.
+
+[^14]: A 28. § (4) bekezdés a) pontja a 291/2014. (XI. 26.) Korm. rendelet 5. §-ával megállapított szöveg.

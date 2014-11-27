@@ -2,6 +2,8 @@
 
 (2) Ha a vizsgálatot végző orvos foglalkozási megbetegedés gyanúját észleli, a külön jogszabályban foglaltak szerint jár el.
 
-(3) Az időszakos vagy a soron kívüli vizsgálat során észlelt, diétával vagy tablettás kezeléssel egyensúlyban tartott cukorbetegség esetében – mozdonyvezető kivételével – a foglalkozás-egészségügyi orvos „alkalmas” véleménye alapján, a munkavállaló eredeti munkakörében gondozás mellett foglalkoztatható.
+(3)[^12] Azon időszakos vagy soron kívüli vizsgálatra jelentkező vasúti dolgozó, aki 2. típusú cukorbetegsége esetén diétával és/vagy tablettás kezeléssel megfelelő egészségi állapotban van, eredeti foglalkozásában, gondozással tovább foglalkoztatható az évente – a vonatkozó szakmai irányelveknek megfelelően – végzett egészségi alkalmassági vizsgálat alapján.
 
 (4) Amennyiben a munkavállaló a megjelölt munkakör betöltésére látásjavító eszköz használata esetén alkalmas, e körülményt, valamint a látásjavító eszköz szolgálatban történő rendelkezésre állásának szükségességét az egészségügyi dokumentációban fel kell tüntetni.
+
+[^12]: A 25. § (3) bekezdése a 291/2014. (XI. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
