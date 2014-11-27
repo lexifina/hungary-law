@@ -32,7 +32,7 @@ o) a vámáru-nyilatkozat ellenőrzés nélküli elfogadásának feltételeit,
 
 p) az engedélyezett gazdálkodó státuszra vonatkozó részletes szabályokat,
 
-q) a vámigazgatási bírságra vonatkozó részletes szabályokat,
+q) a vámigazgatási bírságra, a lefoglalásra, az elkobzásra, illetve a megsemmisítésre vonatkozó részletes szabályokat.
 
 r) a korrekciós pótlékra vonatkozó részletes eljárási szabályokat.
 

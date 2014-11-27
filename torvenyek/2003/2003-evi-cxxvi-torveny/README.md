@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-126-00-00
 | 2014-01-01 | 2013. évi CC. törvény | 2003-126-00-00.34 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 2003-126-00-00.35 |
 | 2014-09-30 | 2014. évi XXXIX. törvény | 2003-126-00-00.36 |
+| 2014-11-27 | 2014. évi LXXIV. törvény | 2003-126-00-00.37 |
