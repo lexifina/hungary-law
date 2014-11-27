@@ -1,6 +1,6 @@
 31. § (1) Ez a törvény a következő uniós jogi aktusoknak történő megfelelést szolgálja:
 
-a) a Tanács 90/434/EGK irányelve a különböző tagállamok társaságait érintő egyesülésekre, szétválásokra, eszközátruházásokra és részesedéscserékre alkalmazandó közös adózási rendszerről;
+a) a Tanács 2009/133/EK irányelve a különböző tagállamok társaságainak egyesülésére, szétválására, részleges szétválására, eszközátruházására és részesedéscseréjére, valamint az SE-k vagy az SCE-k létesítő okirat szerinti székhelyének a tagállamok közötti áthelyezésére alkalmazandó adóztatás közös rendszeréről (2009. október 19.);
 
 b) a Tanács 2011/96/EU irányelve a különböző tagállamok anya- és leányvállalatai esetében alkalmazandó adóztatás közös rendszeréről;
 

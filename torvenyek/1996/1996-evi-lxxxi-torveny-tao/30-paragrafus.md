@@ -20,7 +20,7 @@ c)
 
 d) ahol jogszabály a társasági adóról szóló 1991. évi LXXXVI. törvényt említi, ott az alatt ezt a törvényt kell érteni.
 
-(6) A Kormány felhatalmazást kap arra, hogy rendeletben szabályozza a fejlesztési adókedvezmény részletes feltételeit, az engedélyezés szabályait, az engedélyezéssel kapcsolatos eljárás rendjét, valamint az adókedvezménnyel összefüggő adatszolgáltatási kötelezettség teljesítésének részletes szabályait.
+(6) A Kormány felhatalmazást kap arra, hogy rendeletben szabályozza a fejlesztési adókedvezmény részletes szabályait, a fejlesztési adókedvezmény igénylését, a fejlesztési adókedvezmény igénybevételének részletes feltételeit, a támogatási intenzitást, a támogatástartalmat, az adózó nyilvántartási és adatszolgáltatási kötelezettségét, az adópolitikáért felelős miniszter nyilvántartási, közzétételi és információszolgáltatási kötelezettségét.
 
 (7) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben szabályozza a fejlesztési adókedvezmény engedélyezése iránti eljárás kezdeményezéséért fizetendő igazgatási-szolgáltatási díjat.
 

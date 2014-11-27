@@ -76,6 +76,8 @@ h) e rendelkezésben foglaltakat – az f) pont szerinti tényleges tulajdonosi 
 
 16/b. foglalkoztatói nyugdíjszolgáltató intézmény: a foglalkoztatói nyugdíjról és intézményeiről szóló törvény szerinti foglalkoztatói nyugdíjszolgáltató intézmény;
 
+16/c. felsőoktatási támogatási megállapodás: a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti alapítóval vagy fenntartóval felsőoktatási intézmény alapítására, működésének biztosítására kötött, legalább öt évre szóló megállapodás;
+
 17. független képviselő: az adózótól gazdaságilag és jogilag független személy, amely/aki a szokásos üzletmenete szerint jár el, amikor az adózót képviseli; nem számít szokásos üzletmenetnek, ha a képviselő olyan tevékenységet is végez, amely az adózó tevékenységi körébe tartozik; nem független a képviselő, ha üzleti tevékenységét az adózó részletes utasítása vagy átfogó ellenőrzése mellett végzi, vagy ha a kockázatot az adózó és nem a képviselő viseli;
 
 17/a. induló beruházás: az a beruházás, amely új létesítmény létrehozatalát, meglévő létesítmény bővítését, létesítmény termékkínálatának a létesítményben addig nem gyártott termékekkel történő bővítését vagy egy meglévő létesítmény teljes termelési folyamatának lényegi átalakítását eredményezi, valamint az olyan létesítmény eszközeinek eladótól független, harmadik fél beruházó általi felvásárlása, amely létesítmény bezárásra került vagy bezárásra került volna;
@@ -134,9 +136,9 @@ d) a külföldi vállalkozó és belföldi telephelye, valamint a külföldi vá
 
 e) az adózó és külföldi telephelye, továbbá az adózó külföldi telephelye és az a személy, amely az adózóval az a)–c) alpontban meghatározott viszonyban áll;
 
-23/a. kedvezményezett átalakulás: az olyan átalakulás (ideértve az egyesülést, a szétválást is), amelyben jogelődként és jogutódként is csak társaság (32/a. pont) vesz részt, ha
+23/a. kedvezményezett átalakulás: az olyan átalakulás (a továbbiakban ideértve az egyesülést, a szétválást is), amelyben jogelődként és jogutódként is csak társaság (32/a. pont) vesz részt, ha
 
-a) a jogügylet révén a jogelőd tagja, részvényese az átalakulás keretében a jogutódban részesedést és legfeljebb a megszerzett részesedés együttes névértéke (névérték hiányában a jegyzett tőke arányában meghatározott értéke) 10 százalékának megfelelő pénzeszközt szerez, valamint
+a) a jogügylet révén a jogelőd tagja, részvényese az átalakulás, egyesülés, szétválás keretében a jogutódban részesedést és legfeljebb a megszerzett részesedés együttes névértéke (névérték hiányában a jegyzett tőke arányában meghatározott értéke) 10 százalékának megfelelő pénzeszközt szerez, valamint
 
 b) szétválás esetén a jogelőd tagjai, részvényesei – egymáshoz viszonyítva – arányos részesedést szereznek a jogutódokban,
 

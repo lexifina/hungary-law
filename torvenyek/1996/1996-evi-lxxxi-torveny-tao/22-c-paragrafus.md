@@ -40,7 +40,7 @@ cc) a sportrendezvények biztonságáról szóló külön jogszabályban meghat�
 
 cd) képzéssel összefüggő feladatokra – azzal, hogy az ilyen jogcímen nyújtott támogatás az Európai Közösséget létrehozó Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-i 800/2008/EK bizottsági rendelet 8. szakaszával összhangban, általános vagy szakképzési támogatásként nyújtható –,
 
-ce) a személyi jellegű ráfordításaira – azzal, hogy az ilyen jogcímen nyújtott támogatás az Európai Közösséget Létrehozó Szerződés alapján elfogadott, a csekély összegű (de minimis) támogatások alkalmazásáról szóló bizottsági rendelet szerinti csekély összegű (de minimis) támogatásként nyújtható –;
+ce) a személyi jellegű ráfordításaira – azzal, hogy az ilyen jogcímen nyújtott támogatás csekély összegű (de minimis) támogatásként nyújtható –;
 
 d) a látvány-csapatsport fejlesztése érdekében létrejött közhasznú alapítvány részére
 
@@ -128,7 +128,7 @@ b) a korábban kapott állami támogatással megfelelő módon elszámolt,
 
 c) a látvány-csapatsportban sportvállalkozásként működő hivatásos vagy amatőr sportszervezettel szemben a bíróság nem rendelte el a csődeljárást vagy a sportszervezet felszámolását, továbbá amely sportszervezet nem áll végelszámolás vagy kényszer-végelszámolás vagy kényszertörlési eljárás alatt,
 
-d) a látvány-csapatsportban működő országos sportági szakszövetség vagy a látvány-csapatsportban sportegyesületként működő amatőr vagy hivatásos sportszervezet működését a bíróság nem függesztette fel, valamint amelynek megszüntetésére az egyesülési jogról szóló törvény szerint eljárás nincs folyamatban,
+d) a látvány-csapatsportban működő országos sportági szakszövetség vagy a látvány-csapatsportban sportegyesületként működő amatőr vagy hivatásos sportszervezet működését a bíróság nem függesztette fel, valamint amelynek megszüntetésére az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerint eljárás nincs folyamatban,
 
 e) a látvány-csapatsportban sportegyesületként működő amatőr vagy hivatásos sportszervezettel szemben a bíróság nem rendelte el a csődeljárást vagy a sportszervezet felszámolását,
 

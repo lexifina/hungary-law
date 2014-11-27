@@ -4,7 +4,7 @@
 
 a) a 7. § (1) bekezdésének c) és f) pontjában foglaltakat nem alkalmazhatja a végelszámolás, a felszámolás kezdő napját megelőző nappal lezáruló adóévben és a végelszámolás időszaka alatt, vagy – ha végelszámolás, felszámolás nélkül szűnik meg jogutód nélkül – utolsó adóévében;
 
-b) a végelszámolás, a felszámolás kezdő napját megelőző nappal lezáruló adóévet (ha végelszámolás, felszámolás nélkül szűnik meg jogutód nélkül, az utolsó adóévét) megelőzően lekötött fejlesztési tartaléknak, valamint a 7. § (1) bekezdés c) pontja szerinti tartaléknak az említett adóév utolsó napjáig fel nem használt része után a 19. § (1) bekezdésének a lekötés adóévében hatályos rendelkezése szerint előírt mértékkel az adót, valamint azzal összefüggésben a késedelmi pótlékot megállapítja, és azokat 30 napon belül megfizeti. A késedelmi pótlékot a kedvezmény érvényesítését tartalmazó adóbevallás benyújtása esedékességének napját követő naptól a felhasználásra rendelkezésre álló időpontig kell felszámítani és a megállapított adóval együtt az említett napot követő első társaságiadó-bevallásban kell bevallani;
+b) a végelszámolás, a felszámolás kezdő napját megelőző nappal lezáruló adóévet (ha végelszámolás, felszámolás nélkül szűnik meg jogutód nélkül, az utolsó adóévét) megelőzően lekötött fejlesztési tartaléknak, valamint a 7. § (1) bekezdés c) pontja szerinti tartaléknak az említett adóév utolsó napjáig fel nem használt része után a 19. § lekötés adóévében hatályos rendelkezései szerint előírt mértékkel az adót, valamint azzal összefüggésben a késedelmi pótlékot megállapítja, és azokat 30 napon belül megfizeti. A késedelmi pótlékot a kedvezmény érvényesítését tartalmazó adóbevallás benyújtása esedékességének napját követő naptól a felhasználásra rendelkezésre álló időpontig kell felszámítani és a megállapított adóval együtt az említett napot követő első társaságiadó-bevallásban kell bevallani;
 
 c) jogutód nélküli megszűnésekor
 
@@ -30,9 +30,9 @@ cj) az adózás előtti eredményt módosítja a (11) és (14) bekezdés alapjá
 
 ck) az adózás előtti eredményt módosítja a 18. § előírása alapján megállapított összegnek az a része, amelyet az adózó még nem vett figyelembe az adózás előtti eredményének módosításakor.
 
-(2) Az adózó átalakulásakor
+(2) Az adózó átalakulásakor, egyesülésekor, szétválásakor
 
-a) a jogelődnél – kivéve, ha az átalakulás kedvezményezett átalakulásnak minősül, és teljesülnek a (10)–(11) és (15) bekezdésben előírt feltételek – az adózás előtti eredményt csökkenti az az összeg, amellyel az immateriális javak és a tárgyi eszközök együttes számított nyilvántartási értéke meghaladja együttes könyv szerinti értéküket, növeli az az összeg, amellyel az együttes könyv szerinti érték az együttes számított nyilvántartási értéket meghaladja; kiválás esetén a jogelőd e rendelkezéseket az átalakulás adóévében és csak a jogutód részére a végleges vagyonmérleg alapján átadott eszközökre alkalmazza;
+a) a jogelődnél – kivéve, ha az átalakulás, egyesülés, szétválás kedvezményezett átalakulásnak minősül, és teljesülnek a (10)–(11) és (15) bekezdésben előírt feltételek – az adózás előtti eredményt csökkenti az az összeg, amellyel az immateriális javak és a tárgyi eszközök együttes számított nyilvántartási értéke meghaladja együttes könyv szerinti értéküket, növeli az az összeg, amellyel az együttes könyv szerinti érték az együttes számított nyilvántartási értéket meghaladja; kiválás esetén a jogelőd e rendelkezéseket a kiválás adóévében és csak a jogutód részére a végleges vagyonmérleg alapján átadott eszközökre alkalmazza;
 
 b)–c)
 
@@ -40,13 +40,13 @@ d) a jogelődnél, kiválás esetén a jogutódnál első adóévében, az adóz
 
 e)
 
-f) a kettős könyvvitelt vezető jogutódnál első adóévében az adózás előtti eredményt módosítja az egyszeres könyvvitelt vezető jogelőd által (kiválás esetén az általa) az átalakulás során az eredménytartalékba helyezett áttérési különbözet összege;
+f) a kettős könyvvitelt vezető jogutódnál első adóévében az adózás előtti eredményt módosítja az egyszeres könyvvitelt vezető jogelőd által (kiválás esetén az általa) az átalakulás, egyesülés, szétválás során az eredménytartalékba helyezett áttérési különbözet összege;
 
 g)
 
 h)
 
-i) a jogutód a végleges vagyonmérlege szerint a jogelődtől átvett követelésre a könyv szerinti értéket meghaladóan befolyt összeg alapján, valamint e követelés behajthatatlanná válása esetén az átalakulást követően úgy módosítja adózás előtti eredményét, ahogyan azt a jogelőd tette volna, ha az átalakulás nem történt volna meg.
+i) a jogutód a végleges vagyonmérlege szerint a jogelődtől átvett követelésre a könyv szerinti értéket meghaladóan befolyt összeg alapján, valamint e követelés behajthatatlanná válása esetén az átalakulást, egyesülést, szétválást követően úgy módosítja adózás előtti eredményét, ahogyan azt a jogelőd tette volna, ha az átalakulás, egyesülés, szétválás nem történt volna meg.
 
 (3) Az adózónak, ha az egyszeres könyvvezetésről a kettős könyvvezetésre tér át, az áttérés évében
 
@@ -64,15 +64,15 @@ a) növelnie kell az adózás előtti eredményét, ha a felszámolás időszaka
 
 b) csökkentenie kell az adózás előtti eredményét, ha a felszámolás időszaka alatt a saját tőke csökkent.
 
-(7) Jogutód nélküli megszűnésnek minősül, ha az adózó – az átalakulás miatti megszűnést kivéve – bármely okból kikerül e törvény hatálya alól, továbbá, ha a székhelyét külföldre helyezi át. Nem kell e rendelkezést alkalmaznia az európai részvénytársaságnak és az európai szövetkezetnek a székhelye belföldről külföldre történő áthelyezésekor azon tevékenységére, amelyet külföldi vállalkozóként folytat. Nem kell továbbá e rendelkezést alkalmaznia a külföldi vállalkozónak, ha a tevékenységét az európai részvénytársaság, az európai szövetkezet folytatja.
+(7) Jogutód nélküli megszűnésnek minősül, ha az adózó – az átalakulás, egyesülés, szétválás miatti megszűnést kivéve – bármely okból kikerül e törvény hatálya alól, továbbá, ha a székhelyét külföldre helyezi át. Nem kell e rendelkezést alkalmaznia az európai részvénytársaságnak és az európai szövetkezetnek a székhelye belföldről külföldre történő áthelyezésekor azon tevékenységére, amelyet külföldi vállalkozóként folytat. Nem kell továbbá e rendelkezést alkalmaznia a külföldi vállalkozónak, ha a tevékenységét az európai részvénytársaság, az európai szövetkezet folytatja.
 
 (8) Nem minősül megszűnésnek, ha az adózó forintról devizára, devizáról forintra, vagy devizáról más devizára történő könyvvezetésre tér át.
 
 (9) Kedvezményezett átalakulás esetén a jogelőd, kiválás esetén a jogutód – a (2) bekezdés d) pontjában foglaltaktól függetlenül – a (10) bekezdésben meghatározott feltételekkel nem köteles adózás előtti eredményét módosítani.
 
-(10) A (9) bekezdésben foglaltak alkalmazásának feltétele, hogy a jogutód társasági szerződése (alapító okirata) tartalmazza a (11) bekezdésben foglaltak alkalmazására vonatkozó kötelezettségvállalást, továbbá, hogy a jogelőd (kiválás esetén a jogutód) a választását az átalakulás adóévéről szóló bevallásában bejelenti az adóhatóságnak.
+(10) A (9) bekezdésben foglaltak alkalmazásának feltétele, hogy a jogutód társasági szerződése (alapító okirata) tartalmazza a (11) bekezdésben foglaltak alkalmazására vonatkozó kötelezettségvállalást, továbbá, hogy a jogelőd (kiválás esetén a jogutód) a választását az átalakulás, egyesülés, szétválás adóévéről szóló bevallásában bejelenti az adóhatóságnak.
 
-(11) A jogutód az átalakulást követően a jogelődtől átvett eszközöket és kötelezettségeket (ideértve a céltartalékot és a passzív időbeli elhatárolást is) figyelembe véve, adóalapját – az adózás előtti eredmény módosítása révén – úgy határozza meg, mintha az átalakulás nem történt volna meg. A jogutód az átértékelt eszközöket és kötelezettségeket elkülönítve tartja nyilván, és e nyilvántartásban feltünteti a jogelődnél az átalakulás napjára kimutatott bekerülési értéket, könyv szerinti értéket, számított nyilvántartási értéket, valamint az eszköz, a kötelezettség alapján általa az átalakulást követően az adózás előtti eredmény módosításaként elszámolt összeget is.
+(11) A jogutód az átalakulást, egyesülést, szétválást követően a jogelődtől átvett eszközöket és kötelezettségeket (ideértve a céltartalékot és a passzív időbeli elhatárolást is) figyelembe véve, adóalapját – az adózás előtti eredmény módosítása révén – úgy határozza meg, mintha az átalakulás, egyesülés, szétválás nem történt volna meg. A jogutód az átértékelt eszközöket és kötelezettségeket elkülönítve tartja nyilván, és e nyilvántartásban feltünteti a jogelődnél az átalakulás, egyesülés, szétválás napjára kimutatott bekerülési értéket, könyv szerinti értéket, számított nyilvántartási értéket, valamint az eszköz, a kötelezettség alapján általa az átalakulást, egyesülést, szétválást követően az adózás előtti eredmény módosításaként elszámolt összeget is.
 
 (12) Kedvezményezett eszközátruházás esetén az átruházó társaság – választása szerint, az átvevő társasággal írásban kötött szerződés alapján, a (13) bekezdésben meghatározott feltételekkel – adózás előtti eredményét csökkenti az önálló szervezeti egység átruházása alapján elszámolt bevételnek az átadott eszközök könyv szerinti értékét meghaladó részével, illetve növeli az átadott eszközök könyv szerinti értékének az elszámolt bevételt meghaladó részével.
 

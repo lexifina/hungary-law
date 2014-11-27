@@ -42,7 +42,7 @@ a) a beruházáshoz igényelt összes állami támogatás meghaladja azt az öss
 
 b) kis- és középvállalkozás által a Közép-Magyarország régióban (ide nem értve a Közép-Magyarország régió kormányrendeletben meghatározott támogatható településeit) megvalósított beruházáshoz igényelt összes állami támogatás jelenértéken, beruházásonként meghaladja a 7,5 millió eurónak megfelelő forintösszeget;
 
-c) a mezőgazdasági termékek feldolgozását és forgalmazását szolgáló beruházás elszámolható költsége jelenértéken meghaladja a 25 millió eurónak megfelelő forintösszeget, vagy, ha az igényelt állami támogatás jelenértéken több, mint 12 millió eurónak megfelelő forintösszeg;
+c)
 
 d) az adózó a kérelem benyújtását megelőző két naptári évben azonos vagy hasonló tevékenységet szüntetett meg az Európai Gazdasági Térség területén, vagy tervezi, hogy a beruházás befejezését követő két naptári éven belül ilyen tevékenységet szüntet meg.
 
@@ -74,7 +74,7 @@ b) az adózónál elszámolt, évesített bérköltség (a külföldi telephelye
 
 (11)
 
-(12) Mezőgazdasági termékek feldolgozását és forgalmazását szolgáló, az (1) bekezdés a)–c), valamint g)–j) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltételeit a kormányrendelet tartalmazza.
+(12)
 
 (13) Az (1) bekezdés h) pontja szerinti beruházásnál az adókedvezmény igénybevételének további feltétele, hogy
 

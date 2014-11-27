@@ -12,6 +12,10 @@
 
 (7) A pénzügyi intézménynek minősülő adózó által a kapcsolt vállalkozásának minősülő pénzügyi intézmény részére kizárólag a Törvények végrehajtása következtében, azzal közvetlen összefüggésben felmerült költségek, ráfordítások fedezetére visszafizetési kötelezettség nélkül, 2015. december 31-ig adott támogatás, juttatás alapjául szolgáló szerződésre, megállapodásra nem terjed ki e törvénynek a kapcsolt vállalkozások között alkalmazott árak módosítására irányadó jogszabályi rendelkezései hatálya.
 
+(7a) Az adózó által a (7) bekezdés hatálya alá tartozó kapott támogatás, juttatás (a továbbiakban e § alkalmazásában: kapott támogatás) elszámolásakor az adózó az (1) bekezdés szerinti különbözet kiszámítása során úgy jár el, mintha a kapott támogatást nem a támogatás megszerzése adóévében, hanem azokban az adóévekben (az egyes adóévek között, a Törvények végrehajtása következtében, azzal közvetlen összefüggésben felmerült költségeknek, ráfordításoknak megfelelően megosztva) számolta volna el bevételként, amely adóévekben a Törvények végrehajtása következtében, azzal közvetlen összefüggésben a költségek, ráfordítások felmerültek.
+
+(7b) Csökkenti az adózás előtti eredményt a (7a) bekezdés szerinti kapott támogatás miatt az adóévben elszámolt bevétel.
+
 (8) A (7) bekezdés hatálya alá tartozó támogatás, juttatás adóévi ráfordításként elszámolt összege a 8. § (1) bekezdés d) pontjának alkalmazásában a pénzügyi intézménynek minősülő adózónál a vállalkozási tevékenység érdekében felmerült ráfordításnak minősül.
 
 (9) Az (5)–(6) bekezdést a 2014. adóévi adókötelezettség megállapítása során is alkalmazni kell.

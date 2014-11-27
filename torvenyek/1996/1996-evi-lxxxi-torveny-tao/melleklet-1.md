@@ -4,9 +4,9 @@ Az értékcsökkenési leírás szabályairól
 
 1. Ha a mellékletek ugyanazon eszközre több szabályt, leírási kulcsot is tartalmaznak, akkor az adózót választási lehetőség illeti meg.
 
-2. Az adózó az értékcsökkentési leírást az immateriális jószág, a tárgyi eszköz üzembe helyezése napjától (ideértve jogutód esetén a jogelődtől a vagyonmérleg szerint átvett, a jogelőd által már üzembe helyezett eszköznél az átalakulás napját követő napot is) az állományból való kivezetése (ideértve a forgóeszközök közé való átsorolást, valamint az adózó megszűnését is) napjáig számolja el. Az értékcsökkenési leírást azon napokra arányosan kell meghatározni, amely napokon az eszköz állományban volt.
+2. Az adózó az értékcsökkentési leírást az immateriális jószág, a tárgyi eszköz üzembe helyezése napjától (ideértve jogutód esetén a jogelődtől a vagyonmérleg szerint átvett, a jogelőd által már üzembe helyezett eszköznél az átalakulás, egyesülés, szétválás napját követő napot is) az állományból való kivezetése (ideértve a forgóeszközök közé való átsorolást, valamint az adózó megszűnését is) napjáig számolja el. Az értékcsökkenési leírást azon napokra arányosan kell meghatározni, amely napokon az eszköz állományban volt.
 
-3. Az adózó az értékcsökkenési leírást az eszköz bekerülési értékére vetítve állapítja meg. A jogutód a jogelőd által már üzembe helyezett eszközre az értékcsökkenési leírást a jogelődnél az átalakulás időpontjában kimutatott bekerülési értékre vetítve is megállapíthatja. Az adózás előtti eredmény csökkentéseként elszámolt értékcsökkenési leírás nem haladhatja meg az eszköznek az adózónál kimutatott bekerülési értékét.
+3. Az adózó az értékcsökkenési leírást az eszköz bekerülési értékére vetítve állapítja meg. A jogutód a jogelőd által már üzembe helyezett eszközre az értékcsökkenési leírást a jogelődnél az átalakulás, egyesülés, szétválás időpontjában kimutatott bekerülési értékre vetítve is megállapíthatja. Az adózás előtti eredmény csökkentéseként elszámolt értékcsökkenési leírás nem haladhatja meg az eszköznek az adózónál kimutatott bekerülési értékét.
 
 4. Nem számolható el értékcsökkenési leírás azon eszközre, amelyre a számvitelről szóló törvény szerint nem számolható el terv szerinti értékcsökkenés, vagy nem szabad elszámolni terv szerinti értékcsökkenést. Nem kell e rendelkezést figyelembe venni a nulla vagy – a terv szerinti értékcsökkenés elszámolása következtében – a maradványértéknek megfelelő könyv szerinti értékű eszköznél, valamint ha az adózó az eszközre e törvény külön rendelkezése alapján érvényesíti a számvitelről szóló törvény alapján megállapított terven felüli értékcsökkenést, továbbá az épületnél, építménynél. Ha a tárgyi eszközhöz telek is tartozik, a telek bekerülési értékét el kell különíteni.
 
@@ -58,7 +58,7 @@ d) az a)–c) alpontban nem említett szellemi termékre, tárgyi eszközre (ide
 
 11. A 29/D. § (9) bekezdése alapján érvényesített összeget az adóalapnál elszámolt értékcsökkenési leírásnak kell tekinteni.
 
-12. Az adózás előtti eredmény csökkentéseként elszámolt értékcsökkenési leírásnak kell tekinteni a felszámolási eljárás alatt elszámolt értékcsökkenést, továbbá a tárgyi eszköz beszerzése, előállítása alapján a 7. § (15) bekezdése vagy a 29/D. § (1) bekezdése szerint felhasznált (feloldott) fejlesztési tartalék összegét azzal, hogy az értékcsökkenési leírás az adóév első napjától, illetve a tárgyi eszköz üzembe helyezésének napjától – a bekerülési értékre vetített kulccsal számítva – folytatható.
+12. Az adózás előtti eredmény csökkentéseként elszámolt értékcsökkenési leírásnak kell tekinteni a felszámolási eljárás alatt elszámolt értékcsökkenést, továbbá a tárgyi eszköz beszerzése, előállítása alapján a 7. § (15) bekezdése szerint felhasznált (feloldott) fejlesztési tartalék összegét azzal, hogy az értékcsökkenési leírás az adóév első napjától, illetve a tárgyi eszköz üzembe helyezésének napjától – a bekerülési értékre vetített kulccsal számítva – folytatható.
 
 13.
 

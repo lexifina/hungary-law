@@ -42,9 +42,9 @@ m) az adózónál
 
 a) az ellenőrzött külföldi társaságban lévő részesedésre az adóévben ráfordításként elszámolt értékvesztés, árfolyamveszteség, valamint e részesedés bármely jogcímen történő kivezetése következtében elszámolt ráfordításnak az elszámolt bevételt meghaladó része, vagy
 
-b) a bejelentett részesedéshez kapcsolódó, az adóévben ráfordításként elszámolt értékvesztés, árfolyamveszteség, a részesedés bármely jogcímen történő kivezetése (ide nem értve az átalakulás miatti elszámolást) következtében elszámolt ráfordításnak (ideértve az üzleti vagy cégérték kivezetése következtében elszámolt ráfordítást is) az elszámolt bevételt meghaladó része,
+b) a bejelentett részesedéshez kapcsolódó, az adóévben ráfordításként elszámolt értékvesztés, árfolyamveszteség, a részesedés bármely jogcímen történő kivezetése (ide nem értve az átalakulás, egyesülés, szétválás miatti elszámolást) következtében elszámolt ráfordításnak (ideértve az üzleti vagy cégérték kivezetése következtében elszámolt ráfordítást is) az elszámolt bevételt meghaladó része,
 
-n) a bejelentett immateriális jószág bármely jogcímen történő kivezetése (ide nem értve az átalakulás miatti elszámolást) következtében az elszámolt ráfordításnak az elszámolt bevételt meghaladó része,
+n) a bejelentett immateriális jószág bármely jogcímen történő kivezetése (ide nem értve az átalakulás, egyesülés, szétválás miatti elszámolást) következtében az elszámolt ráfordításnak az elszámolt bevételt meghaladó része,
 
 o) a forintról devizára, devizáról forintra, vagy devizáról más devizára való áttérés során a tőketartalék növeléseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
 
@@ -52,7 +52,7 @@ p) az adóellenőrzés, önellenőrzés során megállapított, adóévi költs�
 
 r) a 7. § (1) bekezdésének gy) pontja alapján az adózás előtti eredmény csökkentéseként elszámolt összegből a kedvezményezett átalakulás alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján az adózás előtti eredmény csökkentéseként figyelembe vett) összeg, figyelemmel a (7) bekezdésben foglaltakra,
 
-s) a 7. § (1) bekezdésének z) pontja alapján az adóévet megelőző év(ek)ben az adózás előtti eredmény csökkentéseként, az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti tartós adományozásra tekintettel elszámolt azon többletkedvezmény, amelyre vonatkozóan az adózó az adóévben a tartós adományozásról szóló szerződésben vállaltakat a másik szerződő fél közhasznúsági nyilvántartásból való törlése vagy jogutód nélküli megszűnése miatt nem teljesítette, vagy ennek kétszerese, ha az adózó bármely más ok miatt nem teljesített a szerződésnek megfelelően,
+s) a 7. § (1) bekezdésének z) pontja alapján az adóévet megelőző év(ek)ben az adózás előtti eredmény csökkentéseként, az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti tartós adományozásra tekintettel elszámolt azon többletkedvezmény, továbbá a felsőoktatási intézmény támogatására tekintettel elszámolt azon kedvezmény, amelyre vonatkozóan az adózó az adóévben a tartós adományozásról szóló szerződésben vagy a felsőoktatási támogatási megállapodásban vállaltakat a másik szerződő fél közhasznúsági nyilvántartásból való törlése vagy jogutód nélküli megszűnése miatt nem teljesítette, vagy ennek kétszerese, ha az adózó bármely más ok miatt nem teljesített a szerződésnek (megállapodásnak) megfelelően,
 
 t) a 7. § (1) bekezdésének h) pontja alapján az adózás előtti eredmény csökkentéseként elszámolt összegből a kedvezményezett részesedéscsere alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb az említett rendelkezés alapján az adózás előtti eredmény csökkentéseként figyelembe vett) összeg, figyelemmel a (7) bekezdésben foglaltakra,
 
