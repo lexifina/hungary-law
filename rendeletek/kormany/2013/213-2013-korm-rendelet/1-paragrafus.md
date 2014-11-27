@@ -18,11 +18,15 @@ g) a katasztrófák elleni védekezésért felelős miniszter,
 
 h) az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter,
 
-i) az OAH főigazgatója,
+i)[^1] a kormányzati tevékenység összehangolásáért felelős miniszter,
 
-j) a Magyar Bányászati és Földtani Hivatal elnöke.
+j)[^2] a kutatás-fejlesztésért és technológiai innovációért felelős miniszter,
 
-(3) A KNPA Szakbizottság munkájában állandó jelleggel, tanácskozási joggal vesznek részt a következő szervezetek által delegált képviselők:
+k)[^3] az OAH főigazgatója,
+
+l)[^4] a Magyar Bányászati és Földtani Hivatal elnöke.
+
+(3)[^5] A KNPA Szakbizottság munkájában állandó jelleggel, tanácskozási joggal vesznek részt a következő feladatokat ellátó miniszterek és szervezetek által delegált képviselők:
 
 a) az MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság,
 
@@ -34,8 +38,20 @@ d) a Magyar Tudományos Akadémia Energiatudományi Kutatóközpont,
 
 e) a Budapesti Műszaki és Gazdaságtudományi Egyetem Nukleáris Technikai Intézete,
 
-f) Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos „Frédéric Joliot-Curie” Sugárbiológiai és Sugáregészségügyi Kutató Intézet.
+f) Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos „Frédéric Joliot-Curie” Sugárbiológiai és Sugáregészségügyi Kutató Intézet,
+
+g)[^6] Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatal,
+
+h)[^7] az oktatásért felelős miniszter.
 
 (4) Az OAH felügyeletét ellátó miniszter képviselője egyben a KNPA Szakbizottság elnöke.
 
 (5) A KNPA Szakbizottság elnöke az ülésére tanácskozási joggal más személyeket is meghívhat.
+
+[^1]: Az 1. § (2) bekezdés i) pontja a 294/2014. (XI. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés j) pontja a 294/2014. (XI. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés k) pontját a 294/2014. (XI. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^4]: Az 1. § (2) bekezdés l) pontját a 294/2014. (XI. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^5]: Az 1. § (3) bekezdés nyitó szövegrésze a 294/2014. (XI. 26.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § (3) bekezdés g) pontját a 294/2014. (XI. 26.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^7]: Az 1. § (3) bekezdés h) pontját a 294/2014. (XI. 26.) Korm. rendelet 1. § (3) bekezdése iktatta be.
