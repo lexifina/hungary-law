@@ -11,5 +11,3 @@ A törvény hatálya alól kivett nemzetközi pénzügyi intézmények
 4. Ázsiai Fejlesztési Bank
 
 5. Európai Beruházási Alap
-
-6. Európai Beruházási Bank

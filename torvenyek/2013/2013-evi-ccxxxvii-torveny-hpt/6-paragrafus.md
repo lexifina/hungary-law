@@ -252,7 +252,7 @@ g) az olyan fizetési művelet teljesítése, ahol a fizető fél távközlési 
 
 88. pénzügyi holding társaság: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
-89. pénzügyi lízing: az a tevékenység, amelynek során a lízingbeadó ingatlan vagy ingó dolog tulajdonjogát, illetve vagyoni értékű jogot a lízingbevevő határozott idejű használatába adja oly módon, hogy a használatba adással a lízingbevevő
+89. pénzügyi lízing: az a tevékenység, amelynek során a lízingbeadó a tulajdonában lévő ingatlant vagy ingó dolgot, illetve vagyoni értékű jogot a lízingbevevő határozott idejű használatába adja oly módon, hogy a használatba adással a lízingbevevő
 
 a) viseli a kárveszély átszállásából származó kockázatot,
 
