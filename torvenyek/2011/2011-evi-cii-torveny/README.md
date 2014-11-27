@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-102-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 2011-102-00-00.3 |
 | 2013-10-01 | 2013. évi CXLIII. törvény | 2011-102-00-00.4 |
 | 2013-11-30 | 2013. évi CC. törvény | 2011-102-00-00.5 |
+| 2014-11-27 | 2014. évi LXXIV. törvény | 2011-102-00-00.6 |

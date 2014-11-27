@@ -1,6 +1,6 @@
 3. § (1) Szabályozott ingatlanbefektetési társaság az a nyilvánosan működő részvénytársaság, amely megfelel az e törvényben meghatározott valamennyi feltételnek, és amelyet az állami adóhatóság – a társaság bejelentése alapján – e törvény hatálya alá tartozó szabályozott ingatlanbefektetési társaságként nyilvántartásba vett.
 
-(2) A szabályozott ingatlanbefektetési társaságra a gazdasági társaságokról szóló 2006. évi IV. törvény és a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A szabályozott ingatlanbefektetési társaságra a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) gazdasági társaságokra vonatkozó rendelkezéseit és a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3) Szabályozott ingatlanbefektetési társaság az a nyilvánosan működő részvénytársaság lehet, amely
 
@@ -44,7 +44,7 @@ a) amely a rá irányadó előírások szerint osztalékként kifizethető eredm
 
 b) amelynek a számviteli beszámolójában kimutatott, visszafizetési kötelezettséget keletkeztető idegen forrásai nem haladják meg a számviteli beszámolójában kimutatott ingatlanok értékének 70%-át, és
 
-c) amely nem köt olyan szerződést, nem vállal olyan egyoldalú kötelezettséget, amely az osztalék kifizetését korlátozza, vagy amely az ingatlanportfólióba tartozó ingatlanra vonatkozóan más személy részére vételi jogot biztosít, és
+c) amely nem köt olyan szerződést, nem vállal olyan egyoldalú kötelezettséget, amely az osztalék kifizetését korlátozza, és
 
 d) amely az ingatlanok 10. § (1) bekezdése szerinti piaci értéke és könyv szerinti értéke közötti különbözetét könyvviteli nyilvántartásában az alkalmazott számviteli politikája szerint, de legalább negyedévente elszámolja [a belföldi projekttársaság az elszámolás során köteles alkalmazni a számviteli törvény 57. § (3) bekezdésében, valamint 58. és 59. §-ában meghatározott, a piaci értékelésre és az értékhelyesbítésre vonatkozó előírásokat], és
 
