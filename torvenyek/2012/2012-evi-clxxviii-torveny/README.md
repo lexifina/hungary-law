@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-178-00-00
 | 2013-07-02 | 2010. évi CXXX. törvény | 2012-178-00-00.9 |
 | 2014-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-178-00-00.10 |
 | 2014-01-02 | 2010. évi CXXX. törvény | 2012-178-00-00.11 |
+| 2014-11-27 | 2014. évi LXXIV. törvény | 2012-178-00-00.12 |
