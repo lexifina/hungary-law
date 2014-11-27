@@ -4,7 +4,7 @@
 
 (3) Jegyzett tőke részvénytársaságnál, korlátolt felelősségű társaságnál, egyéb vállalkozónál (ha e tekintetben cégbírósági bejegyzési kötelezettség terheli) a cégbíróságon bejegyzett tőke a létesítő okiratban meghatározott összegben.
 
-(4) A (3) bekezdés szerinti vállalkozónál az alaptőke, a törzstőke, az alapítói vagyon, a vagyoni betét felemelése, illetve leszállítása miatti jegyzett tőke-változást a cégjegyzékbe való bejegyzés alapján, a bejegyzés időpontjával kell a könyvviteli nyilvántartásokban rögzíteni.
+(4) A (3) bekezdés szerinti vállalkozónál az alaptőke, a törzstőke, az alapítói vagyon, az egyéb társasági részesedés felemelése, illetve leszállítása miatti jegyzett tőke-változást a cégjegyzékbe való bejegyzés alapján, a bejegyzés időpontjával kell a könyvviteli nyilvántartásokban rögzíteni.
 
 (5) A (3) bekezdés hatálya alá nem tartozó vállalkozónál jegyzett tőke a létesítő okiratban meghatározott, a tulajdonosok (a tagok) által tartósan rendelkezésre bocsátott – ténylegesen átadott – tőke.
 

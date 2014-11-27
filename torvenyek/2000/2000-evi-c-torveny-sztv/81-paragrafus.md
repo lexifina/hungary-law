@@ -42,6 +42,6 @@ a) az értékvesztés összegét, ideértve az immateriális javak, a tárgyi es
 
 b) a kereskedelmi áruk veszteségjellegű leltárértékelési különbözetének összegét;
 
-c) a termeléshez, a tevékenységhez, a szolgáltatáshoz, az értékesítéshez kapcsolódó – a saját termelésű készlet költségei között el nem számolt – adók és adójellegű tételek összegét.
+c)
 
 (5) Egyéb ráfordításként kell kimutatni az üzleti évhez kapcsolódó, szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag adott (fizetendő) engedmény szerződés szerinti összegét.

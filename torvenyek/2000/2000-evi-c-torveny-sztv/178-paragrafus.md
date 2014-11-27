@@ -24,6 +24,6 @@ h) a mikrogazdálkodói egyszerűsített éves beszámoló készítésének saj�
 
 (4) Felhatalmazást kap a miniszter arra, hogy – az (1) bekezdés e) pontja szerinti kormányrendelet előírásainak figyelembevételével – a nemzeti számviteli standardokat rendelettel kihirdesse.
 
-(5) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg a könyvviteli szolgáltatást végzők nyilvántartásba vételéért, a nyilvántartásban szereplő adatok módosításáért, valamint a nyilvántartásból való törlésért, továbbá a továbbképző szervezetek akkreditációs eljárásáért és a kreditpont-minősítési eljárásért fizetendő igazgatási szolgáltatási díjat és a díj megfizetésének részletes szabályait.
+(5) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg a könyvviteli szolgáltatást végzők nyilvántartásba vételéért, a nyilvántartásban szereplő adatok módosításáért, valamint a nyilvántartásból való törlésért, továbbá a továbbképző szervezetek akkreditációs eljárásáért, a kreditpont-minősítési eljárásért és a szakmai szervezetként történő elismerésért fizetendő igazgatási szolgáltatási díjat és a díj megfizetésének részletes szabályait.
 
 (6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg az online kapcsolatra képes, adóügyi ellenőrzési egységgel rendelkező pénztárgépre való 2013. évi cseréhez nyújtott támogatás elszámolásának részletes szabályait.

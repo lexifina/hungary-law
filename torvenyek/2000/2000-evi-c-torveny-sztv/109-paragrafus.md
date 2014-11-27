@@ -12,7 +12,7 @@
 
 a) az elengedésről, az átvállalásról szóló megállapodás szerint az üzleti évben elengedett vagy harmadik személy által átvállalt beruházási szállítóval, szállítóval szembeni kötelezettség összegéből a beszerzett eszköz üzembe helyezése óta elszámolt (halmozott) értékcsökkenést részben vagy teljes egészében ellentételező összeget,
 
-b) a tulajdoni részesedést jelentő befektetés könyv szerinti értékét meghaladóan, nem pénzben kapott értéket a gazdasági társaság átalakulásakor, megszűnésekor.
+b) a tulajdoni részesedést jelentő befektetés könyv szerinti értékét meghaladóan, nem pénzben kapott értéket a gazdasági társaság átalakulásakor, egyesülésekor, szétválásakor, megszűnésekor.
 
 (6) A pénzbevételt nem jelentő, jövedelemadózás alá vont bevételek között kell kimutatni a tényleges pénzmozgás nélkül, a változás végleges jellegére tekintettel elszámolt bevételeket, ideértve a kölcsönkövetelés, az értékpapír ráfordításként elszámolt értékvesztésének, behajthatatlanként leírt összegének utólagosan, nem pénzben történő kiegyenlítését is.
 

@@ -30,4 +30,6 @@ l) az Európai Parlament és a Tanács 2004. április 21-i, 2004/25/EK irányelv
 
 m) az Európai Parlament és a Tanács 2006. május 17-i, 2006/43/EK irányelve az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról, a 78/660/EGK és a 83/349/EGK tanácsi irányelv módosításáról, valamint a 84/253/EGK tanácsi irányelv hatályon kívül helyezéséről,
 
-n) az Európai Parlament és a Tanács 2006. június 14-i, 2006/46/EK irányelve a meghatározott jogi formájú társaságok éves beszámolójáról szóló 78/660/EGK, az összevont (konszolidált) éves beszámolóról szóló 83/349/EGK, a bankok és más pénzügyi intézmények éves beszámolójáról és konszolidált éves beszámolójáról szóló 86/635/EGK, valamint a biztosítóintézetek éves és összevont (konszolidált) éves beszámolóiról szóló 91/674/EGK tanácsi irányelv módosításáról.
+n) az Európai Parlament és a Tanács 2006. június 14-i, 2006/46/EK irányelve a meghatározott jogi formájú társaságok éves beszámolójáról szóló 78/660/EGK, az összevont (konszolidált) éves beszámolóról szóló 83/349/EGK, a bankok és más pénzügyi intézmények éves beszámolójáról és konszolidált éves beszámolójáról szóló 86/635/EGK, valamint a biztosítóintézetek éves és összevont (konszolidált) éves beszámolóiról szóló 91/674/EGK tanácsi irányelv módosításáról,
+
+o) az Európai Parlament és Tanács 2009. június 18-i 2009/49/EK irányelve a 78/660/EGK és a 83/349/EGK tanácsi irányelvnek a középvállalkozások egyes közzétételi követelményei és az összevont (konszolidált) beszámoló készítésének kötelezettsége tekintetében történő módosításáról.

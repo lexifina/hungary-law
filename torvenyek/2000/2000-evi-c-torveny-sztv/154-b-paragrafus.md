@@ -1,3 +1,5 @@
 154/B. § (1) A vállalkozó (ideértve az anyavállalatot és a külföldi székhelyű vállalkozás magyarországi fióktelepét is) a 153–154/A. §-okban foglalt letétbe helyezési és közzétételi kötelezettségének – a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény vonatkozó előírásainak figyelembevételével – elektronikus úton tesz eleget.
 
 (2) A vállalkozó az éves beszámolónak, az egyszerűsített éves beszámolónak, az összevont (konszolidált) éves beszámolónak a céginformációs szolgálat részére a kormányzati portál útján történő (1) bekezdés szerinti megküldésével egyidejűleg teljesíti mind a letétbe helyezési, mind a közzétételi kötelezettségét.
+
+(3) Amennyiben jogszabály lehetővé vagy kötelezővé teszi az éves beszámolóra, az egyszerűsített éves beszámolóra, az összevont (konszolidált) éves beszámolóra vonatkozó független könyvvizsgálói jelentés visszavonását és új független könyvvizsgálói jelentés kibocsátását a vállalkozó a visszavont, illetve az új független könyvvizsgálói jelentésre az e törvényben meghatározott közzétételi és letétbe helyezési előírásokat köteles alkalmazni.

@@ -1,8 +1,8 @@
-## Gazdasági társaságok átalakulása
+## Gazdasági társaságok átalakulása, egyesülése, szétválása
 
 ## Vagyonmérleg, vagyonleltár
 
-136. § (1) Gazdasági társaságok átalakulása, egyesülése (összeolvadása, beolvadása), szétválása (különválása, kiválása) (a továbbiakban együtt: átalakulás) során az átalakuló, az egyesülő, a szétváló (a továbbiakban együtt: átalakuló) (jogelőd) gazdasági társaság(ok) és az átalakulással létrejövő (jogutód) gazdasági társaság(ok) vagyonának (saját tőkéjének) megállapításához vagyonmérleget kell készíteni. A vagyonmérleget vagyonleltárral kell alátámasztani. A vagyonleltár tételesen tartalmazza a jogelőd, illetve a jogutód gazdasági társaság(ok) eszközeit és forrásait.
+136. § (1) Gazdasági társaságok átalakulása, egyesülése (összeolvadása, beolvadása), szétválása (különválása, kiválása) (a továbbiakban együtt e fejezet alkalmazásában: átalakulás) során az átalakuló, az egyesülő, a szétváló (a továbbiakban együtt e fejezet alkalmazásában: átalakuló) (jogelőd) gazdasági társaság(ok) és az átalakulással létrejövő (jogutód) gazdasági társaság(ok) vagyonának (saját tőkéjének) megállapításához vagyonmérleget kell készíteni. A vagyonmérleget vagyonleltárral kell alátámasztani. A vagyonleltár tételesen tartalmazza a jogelőd, illetve a jogutód gazdasági társaság(ok) eszközeit és forrásait.
 
 (2) Az (1) bekezdés szerinti vagyonmérleget és vagyonleltárt az átalakulás során két alkalommal kell elkészíteni: először az átalakulásról szóló döntés megalapozásához, a cégbírósági eljárás alátámasztására – a gazdasági társaság legfőbb szerve által meghatározott mérlegfordulónapra (vagyonmérleg-tervezet és vagyonleltár-tervezet) –, majd az átalakulás napjával (végleges vagyonmérleg és végleges vagyonleltár).
 
@@ -34,8 +34,8 @@ a) kiválás esetében a kiválással létrejövő, valamint a változatlan tár
 
 b) különválás esetében a különválással létrejövő gazdasági társaságok vagyonmérlegére.
 
-(8) A (4) bekezdés a) pontja szerinti könyv szerinti értéket az átalakuló gazdasági társaság e törvény szerinti beszámolója mérlegére vonatkozó előírásoknak megfelelően kell meghatározni azzal, hogy a vagyonmérlegben az értékhelyesbítés és az értékhelyesbítés értékelési tartaléka, valamint az értékelési különbözet és a valós értékelés értékelési tartaléka nem szerepelhet.
+(8) A (4) bekezdés a) pontja szerinti könyv szerinti értéket az átalakuló gazdasági társaság e törvény szerinti beszámolója mérlegére vonatkozó előírásoknak megfelelően kell meghatározni, azzal, hogy a vagyonmérlegben az értékhelyesbítés és az értékhelyesbítés értékelési tartaléka, valamint az értékelési különbözet és a valós értékelés értékelési tartaléka nem szerepelhet, továbbá a mérleg szerinti eredményt az eredménytartalékba át kell vezetni.
 
 (9) A vagyonmérleget (mind a vagyonmérleg-tervezetet, mind a végleges vagyonmérleget) és az azt alátámasztó vagyonleltárt (mind a vagyonleltár-tervezetet, mind a végleges vagyonleltárt) könyvvizsgálóval kell ellenőriztetni. Az átalakulás számviteli bizonylata a könyvvizsgáló által hitelesített vagyonmérleg.
 
-(10) Ha a kiválásra úgy kerül sor, hogy a társaságtól megváló tag(ok) a társasági vagyon egy részével más, már működő társaság(ok)hoz csatlakozik (csatlakoznak), akkor a kiválásban az átvevő társaság(ok) is részt vesz(nek) és e tekintetben a vagyonmérlegek (az azokat alátámasztó vagyonleltárak) elkészítése során a beolvadás szabályait is megfelelően alkalmazni kell.
+(10) Beolvadásos kiválás és beolvadásos különválás esetén a vagyonmérlegek (az azokat alátámasztó vagyonleltárak) elkészítése során a kiválás és a különválás szabályai mellett a beolvadás szabályait is megfelelően alkalmazni kell.

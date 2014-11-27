@@ -6,13 +6,13 @@
 
 a) a tulajdonosnál (a tagnál) a gazdasági társaságba bevitt vagyontárgyak létesítő okiratban, annak módosításában meghatározott értékét;
 
-b) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság jogutód nélküli megszűnése esetén (a felszámolás, a végelszámolás, a kényszertörlési eljárás befejezésekor), az erről szóló határozat jogerőre emelkedésekor a megszűnt részesedés (részvények, üzletrészek, vagyoni betétek) ellenében kapott eszközök vagyonfelosztási javaslat szerinti értékének és az átvett kötelezettségek megállapodás szerinti értékének különbözetét, amennyiben a kapott eszközök értéke a több;
+b) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság jogutód nélküli megszűnése esetén (a felszámolás, a végelszámolás, a kényszertörlési eljárás befejezésekor), az erről szóló határozat jogerőre emelkedésekor a megszűnt részesedés (részvények, üzletrészek, egyéb társasági részesedések) ellenében kapott eszközök vagyonfelosztási javaslat szerinti értékének és az átvett kötelezettségek megállapodás szerinti értékének különbözetét, amennyiben a kapott eszközök értéke a több;
 
-c) az átalakult gazdasági társaság tulajdonosánál (tagjánál) – a gazdasági társaság átalakulása esetén – az átalakulással létrejött gazdasági társaságban szerzett részesedés bekerülési értékeként a megszűnt részesedésre jutó – a jogelőd gazdasági társaság végleges vagyonmérlege szerinti – saját tőke összegét (kiválás esetén a kiválással létrejött gazdasági társaság végleges vagyonmérlege szerinti saját tőke összegét);
+c) a gazdasági társaság tulajdonosánál (tagjánál) – a gazdasági társaság átalakulása, egyesülése, szétválása esetén – az átalakulással, egyesüléssel, szétválással létrejött gazdasági társaságban szerzett részesedés bekerülési értékeként a megszűnt részesedésre jutó – a jogelőd gazdasági társaság végleges vagyonmérlege szerinti – saját tőke összegét (kiválás esetén a kiválással létrejött gazdasági társaság végleges vagyonmérlege szerinti saját tőke összegét);
 
 d) a külső tulajdonosnál (tagnál) – a gazdasági társaság beolvadása esetén – az átvevő (beolvasztó) gazdasági társaságban szerzett részesedés bekerülési értékeként a megszűnt részesedésre jutó – a jogelőd gazdasági társaság végleges vagyonmérlege szerinti – saját tőke összegét;
 
-e) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság jegyzett tőkéjének leszállításakor, ha a tőkeleszállítás tőkekivonás útján valósul meg, a bevont részesedés (részvény, üzletrész, vagyoni betét) névértékének fejében átvett (járó) eszközök értékét;
+e) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság jegyzett tőkéjének leszállításakor, ha a tőkeleszállítás tőkekivonás útján valósul meg, a bevont részesedés (részvény, üzletrész, egyéb társasági részesedés) névértékének fejében átvett (járó) eszközök értékét;
 
 f)
 
@@ -42,13 +42,13 @@ a) a tulajdonosnál (a tagnál) az alapításkor, a jegyzett tőke emelésekor a
 
 b)
 
-c) a tulajdonosnál (a tagnál) a gazdasági társaság jogutód nélküli megszűnése esetén (a felszámolás, a végelszámolás, a kényszertörlési eljárás befejezésekor) – az erről szóló határozat jogerőre emelkedésekor – a jogelőd gazdasági társaságban lévő megszűnt részesedésének (részvényeinek, üzletrészeinek, vagyoni betéteinek) nyilvántartás szerint (könyv szerinti) értékét, valamint a megszűnés miatt – a megszűnt részesedés (részvények, üzletrészek, vagyoni betétek) ellenében – kapott eszközök vagyonfelosztási javaslat szerinti értékének és az átvett kötelezettségek megállapodás szerinti értékének különbözetét, amennyiben a kapott eszközök értéke a kevesebb;
+c) a tulajdonosnál (a tagnál) a gazdasági társaság jogutód nélküli megszűnése esetén (a felszámolás, a végelszámolás, a kényszertörlési eljárás befejezésekor) – az erről szóló határozat jogerőre emelkedésekor – a jogelőd gazdasági társaságban lévő megszűnt részesedésének (részvényeinek, üzletrészeinek, egyéb társasági részesedéseinek) nyilvántartás szerint (könyv szerinti) értékét, valamint a megszűnés miatt – a megszűnt részesedés (részvények, üzletrészek, egyéb társasági részesedések) ellenében – kapott eszközök vagyonfelosztási javaslat szerinti értékének és az átvett kötelezettségek megállapodás szerinti értékének különbözetét, amennyiben a kapott eszközök értéke a kevesebb;
 
-d) az átalakult gazdasági társaság tulajdonosánál (tagjánál) – a gazdasági társaság átalakulása esetén – az átalakult gazdasági társaságban lévő megszűnt részesedésének (részvényeinek, üzletrészeinek, vagyoni betéteinek) nyilvántartás szerinti (könyv szerinti) értékét;
+d) a gazdasági társaság tulajdonosánál (tagjánál) – a gazdasági társaság átalakulása, egyesülése, szétválása esetén – az átalakulással, egyesüléssel, szétválással érintett gazdasági társaságban lévő megszűnt részesedésének (részvényeinek, üzletrészeinek, egyéb társasági részesedéseinek) nyilvántartás szerinti (könyv szerinti) értékét;
 
-e) a külső tulajdonosnál (tagnál) – a gazdasági társaság beolvadása esetén – a jogelőd gazdasági társaságban lévő megszűnt részesedésének (részvényeinek, üzletrészeinek, vagyoni betéteinek) nyilvántartás szerinti (könyv szerinti) értékét;
+e) a külső tulajdonosnál (tagnál) – a gazdasági társaság beolvadása esetén – a jogelőd gazdasági társaságban lévő megszűnt részesedésének (részvényeinek, üzletrészeinek, egyéb társasági részesedéseinek) nyilvántartás szerinti (könyv szerinti) értékét;
 
-f) a tulajdonosnál (a tagnál) a gazdasági társaság jegyzett tőkéjének leszállításakor, ha a tőkeleszállítás tőkekivonás útján valósul meg, a bevont részesedések (részvények, üzletrészek, vagyoni betétek) nyilvántartás szerinti (könyv szerinti) értékét.
+f) a tulajdonosnál (a tagnál) a gazdasági társaság jegyzett tőkéjének leszállításakor, ha a tőkeleszállítás tőkekivonás útján valósul meg, a bevont részesedések (részvények, üzletrészek, egyéb társasági részesedések) nyilvántartás szerinti (könyv szerinti) értékét.
 
 (7) A rendkívüli ráfordítások között kell elszámolni:
 

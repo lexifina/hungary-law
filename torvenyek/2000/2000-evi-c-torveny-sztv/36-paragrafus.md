@@ -2,7 +2,7 @@
 
 a) részvénytársaságnál a részvények kibocsátáskori, ideértve a tőkeemeléskori (jegyzési) ellenértéke és névértéke közötti különbözetet,
 
-b) az a) ponton kívüli egyéb vállalkozónál a tulajdonosok (a tagok) által az alapításkor, illetve a tőkeemeléskor tőketartalékként (a jegyzési érték és a névérték különbözeteként) véglegesen átadott eszközök, pénzeszközök értékét,
+b) az a) ponton kívüli egyéb vállalkozónál a tulajdonosok (a tagok) által az alapításkor az alapítás részeként, illetve a tőkeemeléskor a tőkeemelés részeként tőketartalékba (a jegyzési érték és a névérték különbözeteként) véglegesen átadott eszközök, pénzeszközök értékét,
 
 c) a jegyzett tőke leszállítását a tőketartalékkal szemben,
 

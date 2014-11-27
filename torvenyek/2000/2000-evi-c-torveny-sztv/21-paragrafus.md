@@ -11,3 +11,5 @@
 (5) Amennyiben a vállalkozónál a könyvvizsgálat a 155. § szerint kötelező, a könyvvizsgálati kötelezettség a jogszabály által előírt közbenső mérlegre is vonatkozik.
 
 (6) Ha jogszabály a vállalkozó saját tőkéjének évközi megállapításáról, vagy figyelembe vételéről rendelkezik, eltérő jogszabályi rendelkezés hiányában saját tőke alatt a jogszabály előírásainak megfelelő időpontra, mint mérlegfordulónapra elkészített (1)–(5) bekezdés szerinti közbenső mérlegben kimutatott saját tőkét kell érteni.
+
+(7) A legutolsó beszámolót, vagy ha ilyen készült, a (6) bekezdés szerinti közbenső mérleget – eltérő jogszabályi rendelkezés hiányában – a mérleg fordulónapját követő hat hónapig lehet figyelembe venni a saját tőke alátámasztására.

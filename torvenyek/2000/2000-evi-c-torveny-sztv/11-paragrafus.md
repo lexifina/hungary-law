@@ -2,7 +2,7 @@
 
 11. § (1) Az üzleti év az az időtartam, amelyről a beszámolót kell készíteni. Az üzleti év időtartama megegyezik – a (2)–(13) bekezdésben foglaltak kivételével – a naptári évvel.
 
-(2) Az üzleti év a naptári évtől eltérhet a hitelintézetnek, pénzügyi vállalkozásnak vagy biztosítónak nem minősülő vállalkozónál, a nemzetközi jellegű felsőoktatási intézménynél, amennyiben azt a működés jellemzői (különösen az üzletmenet ciklikussága, illetve konszolidálásba bevont vállalkozás esetén az anyavállalat információs igénye) indokolttá teszik. Annál a vállalkozónál, amely alkalmazza a 9. § (6) bekezdését, valamint annál az egyszerűsített vállalkozói adóról szóló törvény hatálya alá tartozó vállalkozónál, amely nyilvántartásait e törvény szerint vezeti, az üzleti év nem térhet el a naptári évtől.
+(2) Az üzleti év a naptári évtől eltérhet a hitelintézetnek, pénzügyi vállalkozásnak vagy biztosítónak nem minősülő vállalkozónál, a Magyarország területén engedéllyel működő külföldi felsőoktatási intézménynél, amennyiben azt a működés jellemzői (különösen az üzletmenet ciklikussága, illetve konszolidálásba bevont vállalkozás esetén az anyavállalat információs igénye) indokolttá teszik. Annál a vállalkozónál, amely alkalmazza a 9. § (6) bekezdését, valamint annál az egyszerűsített vállalkozói adóról szóló törvény hatálya alá tartozó vállalkozónál, amely nyilvántartásait e törvény szerint vezeti, az üzleti év nem térhet el a naptári évtől.
 
 (3) Az üzleti év mérlegfordulónapjának megváltoztatására – a (2) bekezdésben rögzítettek mellett is – három, beszámolóval lezárt üzleti év után, vagy az anyavállalat személyében bekövetkezett változás esetén van lehetőség, a létesítő okirat ennek megfelelő módosítása mellett.
 
@@ -12,11 +12,11 @@
 
 (6) Az üzleti év 12 naptári hónapnál rövidebb időtartamú lehet az előtársasági időszak, valamint az azt követő üzleti év esetében, továbbá a naptári évről a naptári évtől eltérő üzleti évre, illetve az üzleti évről új üzleti évre történő áttéréskor.
 
-(7) Üzleti év az átalakulás során megszűnő vállalkozónál az előző üzleti év mérlegfordulónapját követő naptól az átalakulás napjáig – mint mérlegfordulónapig – terjedő időszak.
+(7) Üzleti év az átalakulás, egyesülés, szétválás során megszűnő vállalkozónál az előző üzleti év mérlegfordulónapját követő naptól az átalakulás, egyesülés, szétválás napjáig – mint mérlegfordulónapig – terjedő időszak.
 
-(8) Üzleti év az átalakulással létrejövő új vállalkozónál az átalakulás napját követő naptól a vállalkozó által – az (1)–(3) bekezdés szerinti feltételekkel – az üzleti év végeként megjelölt napig – mint mérlegfordulónapig – terjedő időszak.
+(8) Üzleti év az átalakulással, egyesüléssel, szétválással létrejövő új vállalkozónál az átalakulás, egyesülés, szétválás napját követő naptól a vállalkozó által – az (1)–(3) bekezdés szerinti feltételekkel – az üzleti év végeként megjelölt napig – mint mérlegfordulónapig – terjedő időszak.
 
-(9) A beszámolóban rögzített adatoknál forintról devizára, devizáról forintra, illetve devizáról más devizára való áttéréskor, továbbá a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseiben nem szabályozott átalakulásnál az üzleti év az (5)–(8) bekezdésnek megfelelően határozható meg azzal, hogy – értelemszerűen – a mérlegfordulónap az áttérés, az átalakulás napja.
+(9) A beszámolóban rögzített adatoknál forintról devizára, devizáról forintra, illetve devizáról más devizára való áttéréskor, továbbá a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseiben nem szabályozott átalakulásnál, egyesülésnél, szétválásnál az üzleti év az (5)–(8) bekezdésnek megfelelően határozható meg azzal, hogy – értelemszerűen – a mérlegfordulónap az áttérés, az átalakulás, egyesülés, szétválás napja.
 
 (10) Üzleti év a vállalkozó felszámolása, végelszámolása, illetve kényszertörlési eljárása esetén az előző üzleti év mérlegfordulónapját követő naptól a felszámolás, a végelszámolás, illetve kényszertörlési eljárása kezdő időpontját megelőző napig – mint mérlegfordulónapig – terjedő időszak. Amennyiben a felszámolás, a végelszámolás úgy fejeződik be, hogy a vállalkozó nem szűnik meg, az eljárás befejezését követő üzleti év a felszámolási, a végelszámolási eljárás befejezésének napját követő naptól a vállalkozó által – az (1)–(3) bekezdés szerinti feltételekkel – az üzleti év végeként megjelölt napig – mint mérlegfordulónapig – terjedő időszak.
 

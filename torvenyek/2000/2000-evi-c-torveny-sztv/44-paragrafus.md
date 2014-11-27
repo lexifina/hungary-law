@@ -4,7 +4,7 @@ a) a mérleg fordulónapja előtt befolyt, elszámolt bevételt, amely a mérleg
 
 b) a mérleg fordulónapja előtti időszakot terhelő költséget, ráfordítást, amely csak a mérleg fordulónapja utáni időszakban merül fel, kerül számlázásra,
 
-c) mérleg fordulónapja és elkészítésének időpontja között a vállalkozóval szemben érvényesített, benyújtott, ismertté vált, a mérleggel lezárt üzleti évhez kapcsolódó kártérítési igényt, késedelmi kamatot, kártérítést, bírósági költséget,
+c) mérleg fordulónapja és elkészítésének időpontja között a vállalkozóval szemben érvényesített, benyújtott, ismertté vált, a mérleggel lezárt üzleti évhez kapcsolódó kártérítési igényt, kártérítést, bírósági költséget,
 
 d) a mérleggel lezárt üzleti évhez kapcsolódó, a jóváhagyásra jogosult testület által megállapított, kötelezettségként ki nem mutatott prémiumot, jutalmat, azok járulékát.
 

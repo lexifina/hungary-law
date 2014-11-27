@@ -12,6 +12,6 @@ a) az immateriális javak, a tárgyi eszközök könyv szerinti értékének a m
 
 b) az egyéb eszközök átadásával teljesített, ráfordítást eredményező kötelezettségek értékét,
 
-c) az átalakulás kapcsán a részesedés értékében bekövetkezett csökkenést.
+c) az átalakulás, egyesülés, szétválás kapcsán a részesedés értékében bekövetkezett csökkenést.
 
 (6) Az egyéb termelési és kezelési költségeket, ráfordításokat – az egyéb kiadások közé átvezetve – csökkenti a számlával igazolható, elsődlegesen anyagbeszerzési, illetve elsődlegesen személyi jellegű ráfordításként az üzleti évben elszámolt minden olyan pénzkiadás vagy a beszerzés ellentételéül adott eszközkiadás, amely tárgyi eszköz, szellemi termék saját előállítását szolgálta.
