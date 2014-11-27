@@ -1,5 +1,1 @@
-29/D. § (1) A 3. § (1) bekezdés a) pontja szerinti esetben az állami játékszervező kizárólagos tulajdonában álló gazdasági társaságnak vagy az állam többségi részesedésével működő gazdálkodó szervezetnek, a 3. § (1) bekezdés b) pontja szerinti esetben a koncessziós társaságnak vagy a megbízható szerencsejáték szervezőnek legalább 50 millió forintnak megfelelő értékű jegyzett tőkével kell rendelkeznie.
-
-(2) Az (1) bekezdésben meghatározott koncessziós társaság – figyelemmel a koncesszióról szóló 1991. évi XVI. törvény 20. § (1) bekezdésére – külföldi székhelyű gazdasági társaságként is működhet.
-
-(3) Külföldi székhelyű gazdasági társaság esetén a (2) bekezdésben, külföldi székhelyű vagy külföldi szerencsejáték szervezési tevékenységi engedéllyel rendelkező ajánlattevő esetén a 37. § 31. pontban meghatározott összeghatárok átszámítása során a külföldi bíróság, hatóság által kiadott okiratban a jegyzett tőke mértékére, a közteher fennállására vagy végrehajtási eljárásra vonatkozó napon érvényes, az MNB által közzétett hivatalos devizaárfolyamot kell figyelembe venni.
+29/D. § A 3. § (1a) bekezdés a) pontja szerinti esetben az állami játékszervező kizárólagos tulajdonában álló gazdasági társaságnak, a 3. § (1a) bekezdés b) pontja szerinti esetben a koncessziós társaságnak legalább 50 millió forintnak megfelelő értékű jegyzett tőkével kell rendelkeznie.

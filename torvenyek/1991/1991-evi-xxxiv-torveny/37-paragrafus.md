@@ -82,16 +82,8 @@ d) legalább 10 éven keresztül folytatott szerencsejáték szervezésére irá
 
 e) a játékosok személyazonosságának megállapítására, valamint az ahhoz kapcsolódó adatkezelésre vonatkozó szabályokat maradéktalanul betartotta, amennyiben ilyen kötelezettség terhelte.
 
-31. Megbízható szerencsejáték-szervező távszerencsejáték szervezés esetén: az a szerencsejáték-szervező, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
+31. Megbízható szerencsejáték-szervező távszerencsejáték-szervezés esetén: az a szerencsejáték-szervező, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
 
-a) valamennyi, az állami adóhatóság, illetve a szerencsejáték-szervező székhelye szerinti és szerencsejáték szervezési tevékenységi engedélyét kiadó állam adóhatósága által nyilvántartott, 500 000 forintnak megfelelő összeget meghaladó közteherre vonatkozó bevallási- és fizetési kötelezettségének eleget tett, és ilyen kötelezettsége teljesítésével egyszer sem esett 90 napot meghaladó késedelembe,
+a) megfelel az e § 30. pont a)–e) alpontjainak és
 
-b) egyik bankszámláján sem volt 500 000 forintnak megfelelő összeget meghaladó azonnali beszedési megbízás a szerencsejáték-szervező szerencsejáték szervezési tevékenységi engedélyét kiadó állam adóhatósága részéről, illetve működése során a szerencsejáték szervezési tevékenységi engedélyét kiadó államban nem indult ellene 500 000 forintnak megfelelő összeget meghaladó érték tekintetében végrehajtási eljárás,
-
-c) működése során, azzal összefüggésben, a szerencsejáték szervezési tevékenységi engedélyét kiadó államban nem történt olyan jogsértés, amely miatt esetenként öt millió forintnak megfelelő összeget meghaladó bírsággal sújtották volna,
-
-d) a szerencsejáték szervezési tevékenységi engedélyét kiadó államban legalább 3 éven keresztül folytatott szerencsejáték szervezésére irányuló tevékenységet,
-
-e) a játékosok személyazonosságának megállapítására, valamint az ahhoz kapcsolódó adatkezelésre vonatkozó szabályokat a szerencsejáték szervezési tevékenységi engedélyét kiadó államban maradéktalanul betartotta, amennyiben ilyen kötelezettség terhelte.
-
-Ha a szerencsejáték-szervező több államban is rendelkezett vagy rendelkezik szerencsejáték szervezési tevékenységi engedéllyel, akkor az a)–e) pontok szerinti feltételeknek megfelelést ezek közül egy és ugyanazon államra vonatkozóan kell bizonyítania.
+b) a 3. § (1a) bekezdés b) pontja esetén Magyarország területén található játékkaszinó üzemeltetésére szóló koncesszió jogosultja.
