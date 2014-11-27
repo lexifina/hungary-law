@@ -26,6 +26,8 @@
 
 ## Határidő: a 2015., 2016., 2017. és 2018. évi költségvetés tervezési időszaka
 
-## 8. visszavonja a Baranya megyei közlekedésfejlesztés aktuális feladatairól szóló 1270/2013. (V. 17.) Korm. határozatot.
+## 8.[^1]
 
 1. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
