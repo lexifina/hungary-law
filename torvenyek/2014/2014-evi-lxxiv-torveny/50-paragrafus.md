@@ -1,0 +1,1 @@
+50. § Az Eva. törvény 10. § (2) és (4) bekezdésében az „önkormányzati adóhatóságnál nyilvántartott” szövegrész helyébe az „önkormányzati adóhatóságnál ezer forintot meghaladó nyilvántartott” szöveg lép.

@@ -1,0 +1,5 @@
+21. § Az Szja tv. 72. § (4) bekezdés f) pontja helyébe a következő rendelkezés lép:
+
+[A jövedelem megállapításánál – az (1)–(3) bekezdésben foglaltaktól függetlenül – nem kell figyelembe venni a következő jogcímeken és a következő feltételekkel fennálló követelések utáni kamatkedvezményt:]
+
+„f) lakáscélú hitel, ha azt a munkáltató munkavállalójának vagy helyi önkormányzat a magánszemélynek hitelintézet vagy a Magyar Államkincstár útján, annak igazolása alapján olyan lakása építéséhez, vásárlásához, bővítéséhez, korszerűsítéséhez, akadálymentesítéséhez, vagy bármely, az említett célra hitelintézettől, vagy bármely, az említett célra korábbi munkáltatótól felvett hitel visszafizetéséhez, törlesztéséhez nyújtotta, amely lakás nem haladja meg a lakáscélú támogatásokról szóló jogszabályban meghatározott, méltányolható lakásigény mértékét, azzal, hogy korszerűsítésnek, akadálymentesítésnek a lakáscélú állami támogatásokról szóló kormányrendeletben meghatározott korszerűsítés, akadálymentesítés minősül;”

@@ -1,0 +1,3 @@
+127. § Az Áfa tv. a következő 290. §-sal egészül ki:
+
+„290. § Ha a belföldön nyilvántartásba vett adóalany az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény (a továbbiakban: Mód5 törvény) kihirdetését követő napig az állami adóhatóságnak nyilatkozott arról, hogy a 86. § (1) bekezdés j) és k) pontjában említett valamennyi termékértékesítését adókötelessé teszi, nyilatkozatát 2015. február 28-ig a lakóingatlan értékesítésére vonatkozóan – a 88. § (4) bekezdésére tekintettel – megváltoztathatja. A lakóingatlan-értékesítés adó alóli mentességére vonatkozó nyilatkozat 2015. január 1-jétől kezdődően alkalmazandó.”

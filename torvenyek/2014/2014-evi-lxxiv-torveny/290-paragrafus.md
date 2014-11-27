@@ -1,0 +1,3 @@
+290. § Az Szt. 49. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Gazdasági társaságnál alapításkor, tőkeemeléskor a jegyzett tőke fedezeteként, továbbá a jegyzési, a kibocsátási érték és a névérték különbözeteként, a jegyzett tőkén felüli tőke fedezeteként nem pénzbeli (vagyoni) hozzájárulásként, a pótbefizetésként átvett (kapott) eszköz, létesítő okiratban, annak módosításában, illetve a közgyűlési, az alapítói, a taggyűlési határozatban meghatározott értéke bekerülési (beszerzési) értéknek minősül. Átalakulás, egyesülés, szétválás esetén a létesítő okiratban meghatározott értéknek az átalakulással, egyesüléssel, szétválással létrejövő gazdasági társaság végleges vagyonmérlegében szereplő értéket kell tekinteni.”

@@ -1,0 +1,3 @@
+357. § A NAV tv. 33/Y. § (3a) bekezdése helyébe a következő rendelkezés lép:
+
+„(3a) A határozatot az eljárás alá vont személlyel és képviselőjével közölni kell. Ha az eljárás alá vont képviselőt vett igénybe a fegyelmi eljárás során, a határozat bíróság előtti megtámadásának határidejét a határozatnak a képviselővel való közlés időpontjától kell számítani. Ha az eljárás alá vont jogi képviselő mellett egyidejűleg MKK, MRK képviselőjével vagy a NAV-nál működő munkavállalói érdek-képviseleti szerv képviselőjével járt el, a képviselővel való közlés időpontja tekintetében a korábbi közlés időpontja az irányadó.”
