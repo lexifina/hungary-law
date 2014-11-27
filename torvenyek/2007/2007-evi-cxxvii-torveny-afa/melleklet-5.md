@@ -25,3 +25,29 @@ L(H): a levonási hányados, amelynek
 a) a tárgyi eszköz értékesítésének ellenértéke, amelyet az adóalany az értékesítést megelőzően saját vállalkozásában használt;
 
 b) az ingatlan értékesítésének, illetőleg az ingatlanhoz kapcsolódó szolgáltatás nyújtásának ellenértéke, ha a tevékenységet az adóalany eseti jelleggel végzi;
+
+c) a 86. § (1) bekezdésének a)–g) pontjaiban felsorolt szolgáltatások nyújtásának ellenértéke, ha a tevékenységet az adóalany eseti jelleggel végzi.
+
+3/A. Az 1. pont szerinti levonási hányados számításakor az ellenérték helyett a szokásos piaci árat kell figyelembe venni, ha az adó alapjának megállapítására egyébként a 67. § (1) bekezdés a) vagy c) pontját kell alkalmazni.
+
+4. A 3. b) és 3. c) alpont alkalmazásában nem tekinthető eseti jellegűnek, ha az adóalany a tevékenységet – az arra irányadó külön jogszabályi rendelkezések alapján – engedéllyel végzi, vagy kizárólag engedéllyel végezhetné, illetőleg ha a 3. b) és 3. c) alpontban említett tevékenységekből származó ellenérték adó nélkül számított, forintban megállapított és éves szinten összesített összegének részaránya meghaladja az 1. pont szerinti levonási hányados nevezője értékének a 10 százalékát.
+
+5. Az 1. pont szerinti levonási hányadost felfelé kerekítve, 2 tizedesjegy pontossággal kell megállapítani.
+
+6. Az előzetesen felszámított adó arányos megosztását véglegesen a tárgyévre vonatkozó adatokkal a tárgyév utolsó adómegállapítási időszakáról szóló bevallás elkészítésének keretében kell elvégezni.
+
+7. Az előzetesen felszámított adó arányos megosztását ideiglenesen, a tárgyévre vonatkozó évközi adatokkal – a tárgyév utolsó adómegállapítási időszakát megelőzően – a tárgyévi adómegállapítási időszakokról szóló bevallások elkészítésének keretében is el kell végezni.
+
+8. A 7. pont szerinti megosztás alkalmazása során az évközi adatokat az adómegállapítási időszakok között göngyölíteni kell, és azt a levonható előzetesen felszámított adó összeget kell előjelhelyesen megállapítani, amely a tárgyidőszaki és azt megelőző utolsó adómegállapítási időszak eredményének különbözeteként adódik.
+
+9. A 7. pontban említett megosztáshoz az adóalany:
+
+a) választhatja a tárgyévet megelőző évre vonatkozó végleges levonási hányadost, feltéve, hogy ilyen hányadossal rendelkezik; vagy egyebekben
+
+b) azt a levonási hányadost alkalmazhatja, amely a tárgyévre vonatkozó évközi és az adómegállapítási időszakok között göngyölített adatok eredménye.
+
+10. Ha az adóalany élt a 9. a) alpontban említett választási jogával, attól a 7. pont szerinti megosztás egész időszakában nem térhet el. Az adóalany ez esetben a 7. pont szerinti megosztással érintett adómegállapítási időszakaiban az arányosítással megosztandó előzetesen felszámított adó összegét – a 8. ponttól eltérően – a 9. a) alpont szerinti levonási hányados alkalmazásával köteles megosztani.
+
+11. Abban az esetben, ha az adóalanyra a 7. pont szerinti megosztás is vonatkozik, a 6. pont szerinti megosztás során a 8. pontban említett számítási módszert kell megfelelően alkalmazni.
+
+12. Abban az esetben, ha a 6. pontban említett bevallás benyújtását követően a véglegesen levonható előzetesen felszámított adó összegét meghatározó tényezőkben változás következik be, és a számítás eredményeként adódó új összeg a 6. pontban említett bevallásban közölt összeghez képest abszolút értékben legalább 10 000 forintnak megfelelő pénzösszeggel tér el, az adóalany köteles előzetesen felszámított adó arányos megosztását utólag kiigazítani.

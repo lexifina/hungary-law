@@ -74,7 +74,7 @@ b) képesítéshez kötött, és jogszabály – ide nem értve az önkormányza
 
 (4) E § alkalmazásában közszolgáltató:
 
-a) a költségvetési szerv az alapító okiratban megjelölt tevékenysége tekintetében;
+a) a költségvetési szerv az alapító okiratban megjelölt tevékenysége tekintetében, ideértve az önkormányzatot és a társulást is az általa ellátott tevékenység tekintetében;
 
 b) az egyesület, a szövetség, a civil társaság, a köztestület, az országos sportági szakszövetség az alapszabályban (alapító okiratban, társasági szerződésben) megjelölt tevékenységük tekintetében, továbbá az általuk működtetett (fenntartott) intézmény az alapszabályban (alapító okiratban, társasági szerződésben) megjelölt tevékenysége tekintetében;
 

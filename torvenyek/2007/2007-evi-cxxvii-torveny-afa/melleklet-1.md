@@ -16,7 +16,7 @@ b) Finn Köztársaság:
 
 c) Francia Köztársaság:
 
-– tengerentúli megyék;
+- az Európai Unió működéséről szóló szerződés 349. cikkében, valamint 355. cikkének (1) bekezdésében említett francia területek;
 
 d) Görög Köztársaság:
 

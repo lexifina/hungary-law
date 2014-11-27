@@ -22,7 +22,7 @@ b) a 124. § (1) bekezdésének d)–g) pontjaiban említett esetekben igazoltan
 
 c) a 124. § (1) bekezdésének c) pontjában és (4) bekezdésében említett esetekben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű ráfordításként a b) pontban említett szolgáltatásnyújtás adóalapjába épül be;
 
-d) a 124. § (1) bekezdésének h) pontjában említett esetben igazoltan egészben vagy túlnyomó részben úgy hasznosítja, hogy azt bérbe adja, feltéve, hogy a 88. § szerinti választási jogával úgy élt, hogy a bérbeadást adókötelessé tette;
+d) a 124. § (1) bekezdésének h) pontjában említett esetben igazoltan egészben vagy túlnyomó részben úgy hasznosítja, hogy azt bérbe adja, azzal, hogy ha a lakóingatlan a 86. § (1) bekezdés l) pontja alá tartozik, a 88. § szerinti választási jogával úgy élt, hogy a bérbeadást adókötelessé tette
 
 e) a 124. § (1) bekezdésének i) pontjában és (2) bekezdésének c) pontjában említett esetekben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű vagy értékcsökkenési leírás alapjánál figyelembe vehető ráfordításként a d) pontban említett adóköteles szolgáltatásnyújtás adóalapjába épül be;
 
@@ -32,4 +32,6 @@ g) a 124. § (1) bekezdésének j) és k) pontjában említett esetekben igazolt
 
 h) a 124. § (2) bekezdésének e) és f) pontjában említett esetekben igazoltan az általa üzemben tartott, 3,5 tonnát meghaladó legnagyobb össztömegű szárazföldi közlekedési eszköz üzemeltetése érdekében hasznosítja;
 
-i) a 124. § (1) bekezdésének a) pontjában említett esetben – a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 800/2008/EK bizottsági rendelet (HL L 214/3., 2008. 8.9.) 30. cikkének 4. pontjában meghatározott kísérleti fejlesztés keretében – igazoltan a környezetet jobban kímélő motorokkal kapcsolatos technológiai fejlesztéshez használja fel.
+i) a 124. § (1) bekezdésének a) pontjában említett esetben – a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 800/2008/EK bizottsági rendelet (HL L 214/3., 2008. 8.9.) 30. cikkének 4. pontjában meghatározott kísérleti fejlesztés keretében – igazoltan a környezetet jobban kímélő motorokkal kapcsolatos technológiai fejlesztéshez használja fel;
+
+j) a 124. § (1) bekezdés a) pontjában említett esetben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű ráfordításként más termékértékesítés adóalapjába épül be.

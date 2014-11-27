@@ -2,7 +2,7 @@
 
 a) nyilvántartását az egyszeres könyvvezetés szabályai szerint vezeti, vagy csak a bevételeiről köteles nyilvántartást vezetni, vagy
 
-b) nyilvántartási kötelezettségének – a költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló jogszabály szerint – módosított teljesítési szemléletben tesz eleget,
+b) nyilvántartási kötelezettségének az államháztartás számviteléről szóló jogszabály szerint tesz eleget,
 
 a fizetendő adót legkésőbb az ellenérték megfizetésekor állapíthatja meg.
 
