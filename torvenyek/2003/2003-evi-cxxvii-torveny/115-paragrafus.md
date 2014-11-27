@@ -1,4 +1,4 @@
-115. § (1) A zárjegy és a 85. § (2) bekezdése szerinti hivatalos zár hamisítása, a hamis, a hamisított vagy a jogtalanul megszerzett zárjegy, hivatalos zár birtokolása, továbbadása, értékesítése, átvétele, felhasználása a megtalált zárjegy, hivatalos zár darabszámával és
+115. § (1) A zárjegy és a 85. § (3) bekezdése szerinti hivatalos zár hamisítása, a hamis, a hamisított vagy a jogtalanul megszerzett zárjegy, hivatalos zár birtokolása, továbbadása, értékesítése, átvétele, felhasználása a megtalált zárjegy, hivatalos zár darabszámával és
 
 a) az alkoholtermék-zárjegy esetében a 73. § (5) bekezdésében meghatározott értékkel,
 

@@ -12,9 +12,9 @@
 
 a) a fűtőolaj értékesítés céljából történő beszerzése, készletezése és értékesítése,
 
-b) az 52. § (1) bekezdés a), – a 2710 19 21 vámtarifaszámú petróleum kivételével – b), d), – a 0 adómérték alá tartozó termék kivételével – f), g) és h) pontja szerinti jövedéki termékeknek, a biodízelnek, a 2207 vámtarifaszám alá tartozó bioüzemanyagnak, az E85-nek és más, a 3824 90 99 vámtarifaszám alá tartozó, üzemanyag célú, 2207 vámtarifaszámú alkoholterméket tartalmazó ásványolajnak (a továbbiakban: üzemanyag) nem üzemanyagtöltő állomáson, továbbá az 52. § (1) bekezdés c) pontja szerinti gázolajnak nem kiskereskedelmi tárolótelepen vagy nem üzemanyagtöltő állomáson történő értékesítése, a (6) bekezdésében foglalt eltéréssel;
+b) az 52. § (1) bekezdés a), – a 2710 19 21 vámtarifaszámú petróleum kivételével – b), d), – a 0 adómérték alá tartozó és az egyéb motorikus célú termék kivételével – f), g) és h) pontja szerinti jövedéki termékeknek, a biodízelnek, a 2207 vámtarifaszám alá tartozó bioüzemanyagnak, az E85-nek és más, a 3824 90 99 vámtarifaszám alá tartozó, üzemanyag célú, 2207 vámtarifaszámú alkoholterméket tartalmazó ásványolajnak (a továbbiakban: üzemanyag) nem üzemanyagtöltő állomáson, továbbá az 52. § (1) bekezdés c) pontja szerinti gázolajnak nem kiskereskedelmi tárolótelepen vagy nem üzemanyagtöltő állomáson történő értékesítése, a (6) bekezdésében foglalt eltéréssel;
 
-c) a szabadforgalomba bocsátott, az e bekezdés a) és b) pontjában nem említett egyéb jövedéki termék belföldön történő beszerzése, készletezése és továbbforgalmazók részére történő értékesítése, a (3)–(6) bekezdésben foglalt eltéréssel;
+c) a szabadforgalomba bocsátott, az e bekezdés a) és b) pontjában nem említett egyéb jövedéki termék belföldön történő beszerzése, készletezése és továbbforgalmazók részére történő értékesítése, a (3)–(5) és (7) bekezdésben foglalt eltéréssel;
 
 d) a szabadforgalomba bocsátott jövedéki termék bértárolása, kivéve az üzemi motorikusgáztöltő-állomás tárolótartályának az üzemeltetővel egy telephelyen működő személy részére szerződés alapján végzett bértárolást;
 

@@ -36,7 +36,9 @@ o) a cseppfolyósított szénhidrogénnek a külön jogszabály szerint pébég�
 
 p) nemzeti vagy uniós támogatás igénybevételével megvalósuló, a kutatás-fejlesztésről és technológiai innovációról szóló törvény szerinti kísérleti fejlesztés (a továbbiakban: kísérleti fejlesztés) keretében a külön jogszabály szerinti bioüzemanyagnak (a továbbiakban: bioüzemanyag) adózott benzinbe vagy adózott gázolajba adózottan történő bekeverését, amennyiben azt a vámhatóságnak előzetesen bejelentették (a továbbiakban: kísérleti célú előállítás),
 
-q) a 76. § (4) bekezdése szerinti sör, a 80. § (3) bekezdése szerinti bor és a 89. § (3) bekezdése szerinti pezsgő előállítását.
+q) a 76. § (4) bekezdése szerinti sör, a 80. § (3) bekezdése szerinti bor és a 89. § (3) bekezdése szerinti pezsgő előállítását,
+
+r) az ásványolajtermékeknek az adómentes felhasználó telephelyén bekövetkező keveredését;
 
 2. jövedéki termék importálása: jövedéki terméknek harmadik országból közvetlenül vagy más tagállam(ok)on keresztül belföldre történő behozatala azzal, hogy amennyiben a jövedéki termék vámeljárás keretében lép be belföldre, az importálás a vámeljárásnak a jövedéki termék vámjogi szabad forgalomba bocsátását eredményező lezárásával egyidejűleg valósul meg;
 
@@ -48,7 +50,7 @@ a) nem tekintendők a tagállamhoz tartozónak
 
 aa) a Németországi Szövetségi Köztársaság esetében Helgoland szigete és Büsingen területe, az Olasz Köztársaság esetében Livigno és Campione d'Italia területe, valamint a Luganói-tó olasz vizei, a Spanyol Királyság esetében Ceuta és Melilla területei, valamint
 
-ab) a Francia Köztársaság esetében a Francia Köztársaság tengeren túli megyéi, a Spanyol Királyság esetében a Kanári-szigetek, a Nagy-Britannia és Észak-Írország Egyesült Királysága (a továbbiakban: Egyesült Királyság) esetében a Csatorna-szigetek, a Finn Köztársaság esetében az Ĺland-szigetek, a Görög Köztársaság esetében az Athosz-hegy,
+ab) a Francia Köztársaság esetében az Európai Unió működéséről szóló szerződés 349. cikkében, valamint 355. cikkének (1) bekezdésében említett francia területek, a Spanyol Királyság esetében a Kanári-szigetek, a Nagy-Britannia és Észak-Írország Egyesült Királysága (a továbbiakban: Egyesült Királyság) esetében a Csatorna-szigetek, a Finn Köztársaság esetében az Ĺland-szigetek, a Görög Köztársaság esetében az Athosz-hegy,
 
 b) a Monacói Hercegség a Francia Köztársaság területéhez, Jungholz és Mittelberg (Kleines Walsertal) tartományok a Németországi Szövetségi Köztársaság területéhez, a Man sziget az Egyesült Királyság területéhez, San Marino az Olasz Köztársaság területéhez, az Egyesült Királyság ciprusi felségterületei (Akrotiri és Dhekelia) Ciprus területéhez tartozónak tekintendő;
 
