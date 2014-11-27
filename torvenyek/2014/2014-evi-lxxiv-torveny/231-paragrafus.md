@@ -1,7 +1,0 @@
-231. § A Vtv. 7. §-a előtti alcíme és a 7. § helyébe a következő rendelkezés lép:
-
-„Az utólagos ellenőrzés célja
-
-7. § (1) A vámhatóság a közösségi vámjogszabályokban meghatározott kockázatok megfelelő kezelése – különösen a vámok és nem közösségi adók és díjak tekintetében előforduló visszaélések megakadályozása – érdekében a gazdasági esemény, az áru, az engedély, a tanúsítvány kiadása után rendszeresen ellenőrzi a nem közösségi árukkal, illetve a vámellenőrzés alá eső közösségi árukkal folytatott külkereskedelmi tevékenységet végző gazdasági szereplőket és az ezekkel kapcsolatban álló más személyeket (a továbbiakban: utólagos ellenőrzés). Az utólagos ellenőrzés célja a vámjogszabályokban és egyéb jogszabályokban előírt kötelezettségek teljesítésének vagy megsértésének megállapítása. Az utólagos ellenőrzés során a vámhatóság adatot gyűjt, megállapítja a jogszerű eljárást, feltárja és megállapítja azokat a tényeket, körülményeket, adatokat, amelyek megalapozzák a jogsértést és az ezek miatt indított eljárást. Az utólagos ellenőrzés lefolytatható az ügyfélnél, továbbá – ha az ügyfél meghatalmazása alapján a vámhatóság előtti ügyekben a cselekmények és alakiságok elvégzése során képviselő járt el – a közvetett vámjogi képviselőnél is.
-
-(2) Nem minősül utólagos ellenőrzésnek, ha a vámhatóság az áru kiadása után a vámáru-nyilatkozatot ügyféli kérelemre módosítja, anélkül, hogy ezzel összefüggésben a kérelem megalapozottságának vizsgálatán túl további ellenőrzést végezne.”

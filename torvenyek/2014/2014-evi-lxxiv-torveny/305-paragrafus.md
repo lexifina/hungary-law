@@ -2,7 +2,7 @@
 
 1. 44. § (1) bekezdés c) pontjában a „késedelmi kamatot,” szöveg;
 
-2. 74. § (3) bekezdése;
+2.
 
 3. 81. § (4) bekezdés c) pontja;
 

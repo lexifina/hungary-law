@@ -1,3 +1,1 @@
-33. § A Tao. törvény 13/A. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Ha a nonprofit gazdasági társaság két lezárt üzleti év adatai alapján a vállalása ellenére sem teljesíti a közhasznúság az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti feltételeit, a két év vonatkozásában – vagy ha a nonprofit gazdasági társaság e két éven belül jogutód nélkül megszűnik, akkor a működés teljes időtartamára – visszamenőlegesen társasági adófizetési kötelezettsége keletkezik az összes bevételre, mint adóalapra vetítve, függetlenül a bevétel forrásától.”
+33–39. §

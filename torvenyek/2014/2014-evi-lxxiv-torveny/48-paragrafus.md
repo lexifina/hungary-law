@@ -1,6 +1,6 @@
 48. § Hatályát veszti a Tao. törvény
 
-1. 6. § (8) bekezdés a) pontja;
+1.
 
 2. 7. § (17) bekezdésében az „(1) bekezdése” szövegrész;
 

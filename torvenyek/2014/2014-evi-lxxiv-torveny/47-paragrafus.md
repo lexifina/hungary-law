@@ -4,9 +4,7 @@
 
 2. 4. § 23/a. pont a) alpontjában, 6. § (6) bekezdés c) pontjában, 7. § (10) bekezdés a) pontjában, 8. § (1) bekezdés m) pont b) alpontjában, 8. § (1) bekezdés n) pontjában, 10. § (7) bekezdésében, 13/A. § (2) bekezdés b) pontjában, 13/A. § (4) bekezdésében, 16. § (2) bekezdés a), f) és i) pontjában, 16. § (7), (10) és (11) bekezdésében, 17. § (7) és (8) bekezdésében, 26. § (3) és (6) bekezdésében, 1. számú melléklet 2. és 3. pontjában az „átalakulás” szövegrész helyébe az „átalakulás, egyesülés, szétválás” szöveg;
 
-3. 4. § 23/d. pontjában a „Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló a Bizottság 800/2008/EK rendelete (2008. augusztus 6.) 1–13.” szövegrész helyébe a „Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet 1–14. és 17.” szöveg;
-
-4. 4. § 23/e. pontjában az „a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény 4. § 10. pont” szövegrész helyébe az „a tudományos kutatásról, fejlesztésről és innovációról szóló törvény” szöveg;
+3–4.
 
 5. 6. § (6) bekezdés c) alpontjában, 10. § (7) bekezdésében, 13/A. § (4) bekezdés a)–b) pontjaiban, 17. § (9) bekezdésében, 18. § (6) bekezdésében az „átalakulással” szövegrész helyébe az „átalakulással, egyesüléssel, szétválással” szöveg;
 
@@ -32,17 +30,11 @@
 
 16. 16. § (2) bekezdés a) pontjában az „az átalakulás adóévében” szövegrész helyébe az „a kiválás adóévében” szöveg;
 
-17. 17. § (1) bekezdésében az „a következő adóévekben” szövegrész helyébe az „a következő öt adóévben” szöveg, az „a (2)–(9) bekezdésekben” szövegrész helyébe az „a (2)–(9a) bekezdésekben” szöveg;
-
-18. 22/C. § (1) bekezdés c) pont cd) alpontjában a „Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-i 800/2008/EK bizottsági rendelet 8. szakaszával összhangban, általános vagy szakképzési” szövegrész helyébe a „Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet 5. szakaszával összhangban képzési” szöveg;
+17–18.
 
 19. 22/C. § (1) bekezdés c) pont ce) alpontjában az „az Európai Közösséget Létrehozó Szerződés alapján elfogadott, a csekély összegű (de minimis) támogatások alkalmazásáról szóló bizottsági rendelet szerinti csekély összegű (de minimis)” szövegrész helyébe a „csekély összegű (de minimis)” szöveg;
 
-20. 22/C. § (1) bekezdés e) pontjában az „a sport stratégiai fejlesztését szolgáló, a költségvetési törvényben meghatározott állami sportcélú támogatás felhasználásában döntéshozatali jogkörrel rendelkező és a támogatást folyósító sportköztestület” szövegrész helyébe az „a sport stratégiai fejlesztését szolgáló, a költségvetési törvényben meghatározott állami sportcélú támogatás felhasználásában döntéshozatali jogkörrel rendelkező és a támogatást folyósító sportköztestület (a továbbiakban: Magyar Olimpiai Bizottság)” szöveg;
-
-21. 22/C. § (3a) bekezdés b) pontjában a „sportköztestület” szövegrész helyébe a „Magyar Olimpiai Bizottság” szöveg;
-
-22. 22/C. § (4) bekezdés d) pont da) alpontjában az „általános képzés esetén 60 százalékát” szövegrész helyébe az „általános képzés esetén 50 százalékát, ami a 651/2014/EU bizottsági rendelet 31. cikk (4) bekezdésében foglaltaknak megfelelően legfeljebb 70%-os mértékig növelhető” szöveg;
+20–22.
 
 23. 22/C. § (5) bekezdés d) pontjában az „egyesülési jogról szóló törvény” szövegrész helyébe az „egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény” szöveg;
 

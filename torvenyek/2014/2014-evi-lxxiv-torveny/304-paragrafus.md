@@ -16,7 +16,7 @@
 
 8. 27. § (2) bekezdésében a „vagyoni betéteket” szövegrész helyébe az „egyéb társasági részesedéseket” szöveg,
 
-9. 37. § (1) bekezdés d) pontjában, (2) bekezdés e) pontjában, 38. § (4) bekezdésében a „pénzmozgással” szövegrész helyébe a „pénzmozgással, az eszközmozgással” szöveg,
+9.
 
 10. 45. § (4) bekezdésében, 124. § (13) bekezdésében az „átalakuláskor” szövegrész helyébe az „átalakuláskor, egyesüléskor, szétváláskor” szöveg,
 
@@ -32,7 +32,7 @@
 
 16. 73. § (4) bekezdésében és 78. § (8) bekezdésében a „társasági adóról és az osztalékadóról szóló 1996. évi LXXXI.” szövegrész helyébe a „Tao.” szöveg,
 
-17. 77. § (2) bekezdés b) pontjában, 81. § (2) bekezdés b) pontjában a „kártérítések” szövegrész helyébe a „kártérítések, sérelemdíjak” szöveg,
+17.
 
 18. 86. § (3) bekezdés e) pontjában a „vagyoni betét” szövegrész helyébe az „egyéb társasági részesedés” szöveg,
 
