@@ -1,5 +1,5 @@
 135. § Az Áfa tv.
 
-1. 1. számú melléklete az 6. melléklet szerint módosul,
+1.
 
 2–3.

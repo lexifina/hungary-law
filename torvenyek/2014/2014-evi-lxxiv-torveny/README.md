@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-74-00-00
 | --- | --- | --- |
 | 2014-11-27 | 2014. évi LXXIV. törvény | 2014-74-00-00.0 (közlönyállapot) |
 | 2014-11-27 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-74-00-00.1 |
+| 2014-11-28 | 2010. évi CXXX. törvény | 2014-74-00-00.2 |
