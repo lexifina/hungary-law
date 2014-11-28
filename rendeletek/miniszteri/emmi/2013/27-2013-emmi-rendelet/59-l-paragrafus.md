@@ -2,6 +2,6 @@
 
 (2) A Mosonmagyaróvári Sportcsarnok beruházás támogatása előirányzat terhére egyedi döntés alapján nyújtható költségvetési támogatás. A költségvetési támogatás teljes összege támogatási előlegként is nyújtható. A költségvetési támogatás kedvezményezettje helyi önkormányzat, gazdasági társaság és civil szervezet lehet.
 
-20/M. Gabányi László Sportcsarnok fejlesztésének támogatása[^91]
+20/M. Gabányi László Sportcsarnok fejlesztésének támogatása[^95]
 
-[^91]: A 20/M. alcímet (59/M. §) a 39/2014. (V. 5.) EMMI rendelet 24. §-a iktatta be.
+[^95]: A 20/M. alcímet (59/M. §) a 39/2014. (V. 5.) EMMI rendelet 24. §-a iktatta be.

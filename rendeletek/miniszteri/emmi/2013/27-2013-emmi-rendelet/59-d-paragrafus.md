@@ -2,6 +2,6 @@
 
 (2) A Nemzeti Kézilabda Akadémia támogatása előirányzat terhére egyedi döntés alapján nyújtható költségvetési támogatás. A költségvetési támogatás teljes összege támogatási előlegként is nyújtható. A költségvetési támogatás kedvezményezettje az olimpiai központok működtetését és fejlesztését végző központi költségvetési szerv lehet.
 
-20/E. A 16 kiemelt sportág sportlétesítmény-fejlesztésének támogatása[^83]
+20/E. A 16 kiemelt sportág sportlétesítmény-fejlesztésének támogatása[^85]
 
-[^83]: A 20/E. alcímet (59/E. §) a 39/2014. (V. 5.) EMMI rendelet 24. §-a iktatta be.
+[^85]: A 20/E. alcímet (59/E. §) a 39/2014. (V. 5.) EMMI rendelet 24. §-a iktatta be.

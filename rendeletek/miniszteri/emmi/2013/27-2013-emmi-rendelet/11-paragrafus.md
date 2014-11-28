@@ -18,9 +18,9 @@ g) a 60. § alapján nyújtott működési célú költségvetési támogatás e
 
 h) a 60. § alapján nyújtott működési célú költségvetési támogatás kivételével a tervezett program szakmai és költségtervét, a felhasználás részletes leírását,
 
-i) a támogatott tevékenységhez szükséges jogerős hatósági engedélyeket,
+i)[^10] a támogatott tevékenységhez szükséges jogerős hatósági engedélyeket, az építési engedély-köteles tevékenységekhez szükséges jogerős építésügyi hatósági engedély kivételével,
 
-j)[^10]
+j)[^11] építési engedély-köteles tevékenység esetén a tervezési szerződés mellékletét képező tervezési programot,
 
 k) beruházási célú költségvetési támogatás esetén – a támogatási szerződésben foglaltaknak megfelelően – a kedvezményezett nyilatkozatát arról, hogy tizenöt évig biztosítja a létesítmény támogatási szerződésben foglalt célú fenntartását, üzemeltetését,
 
@@ -40,4 +40,5 @@ n) a kedvezményezett nyilatkozatát arról, hogy a nemzeti sportinformációs r
 
 [^8]: A 11. § (1) bekezdés b) pontja a 39/2014. (V. 5.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^9]: A 11. § (1) bekezdés d) pontja a 4. § (2) bekezdésével megállapított szöveg.
-[^10]: A 11. § (1) bekezdés j) pontját a 39/2014. (V. 5.) EMMI rendelet 30. § b) pontja hatályon kívül helyezte.
+[^10]: A 11. § (1) bekezdés i) pontja az 50/2014. (XI. 27.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^11]: A 11. § (1) bekezdés j) pontját a 39/2014. (V. 5.) EMMI rendelet 30. § b) pontja hatályon kívül helyezte, újonnan az 50/2014. (XI. 27.) EMMI rendelet 1. § (2) bekezdése iktatta be.

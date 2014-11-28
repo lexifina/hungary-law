@@ -4,7 +4,7 @@
 
 ## 21. Magyar Olimpiai Bizottság
 
-60. §[^96] (1) A miniszter a Magyar Olimpiai Bizottság előirányzat terhére költségvetési támogatást nyújt a MOB részére:
+60. §[^100] (1) A miniszter a Magyar Olimpiai Bizottság előirányzat terhére költségvetési támogatást nyújt a MOB részére:
 
 a) a MOB;
 
@@ -14,4 +14,4 @@ b) a Magyarországon működő nemzetközi sportszövetségek és -szervezetek
 
 (2) A Magyar Olimpiai Bizottság előirányzat terhére egyedi döntés alapján nyújtható költségvetési támogatás. A költségvetési támogatás teljes összege támogatási előlegként is nyújtható.
 
-[^96]: A 60. § a 39/2014. (V. 5.) EMMI rendelet 25. §-ával megállapított szöveg.
+[^100]: A 60. § a 39/2014. (V. 5.) EMMI rendelet 25. §-ával megállapított szöveg.

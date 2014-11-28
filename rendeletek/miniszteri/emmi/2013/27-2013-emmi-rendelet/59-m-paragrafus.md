@@ -2,6 +2,6 @@
 
 (2) A Gabányi László Sportcsarnok fejlesztésének támogatása előirányzat terhére egyedi döntés alapján nyújtható költségvetési támogatás. A költségvetési támogatás teljes összege támogatási előlegként is nyújtható. A költségvetési támogatás kedvezményezettje helyi önkormányzat, gazdasági társaság és civil szervezet lehet.
 
-20/N. Nyéki Imre Uszoda fejlesztésének támogatása[^92]
+20/N. Nyéki Imre Uszoda fejlesztésének támogatása[^96]
 
-[^92]: A 20/N. alcímet (59/N. §) a 39/2014. (V. 5.) EMMI rendelet 24. §-a iktatta be.
+[^96]: A 20/N. alcímet (59/N. §) a 39/2014. (V. 5.) EMMI rendelet 24. §-a iktatta be.

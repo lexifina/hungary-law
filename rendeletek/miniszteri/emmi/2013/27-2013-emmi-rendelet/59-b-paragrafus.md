@@ -2,6 +2,6 @@
 
 (2) A Nemzeti Olimpiai Központ beruházás támogatása előirányzat terhére egyedi döntés alapján nyújtható költségvetési támogatás. A költségvetési támogatás teljes összege támogatási előlegként is nyújtható. A költségvetési támogatás kedvezményezettje az olimpiai központok működtetését és fejlesztését végző központi költségvetési szerv lehet.
 
-20/C. Tüskecsarnok és új uszodakomplexum beruházás támogatása[^81]
+20/C. Tüskecsarnok és új uszodakomplexum beruházás támogatása[^83]
 
-[^81]: A 20/C. alcímet (59/C. §) a 39/2014. (V. 5.) EMMI rendelet 24. §-a iktatta be.
+[^83]: A 20/C. alcímet (59/C. §) a 39/2014. (V. 5.) EMMI rendelet 24. §-a iktatta be.

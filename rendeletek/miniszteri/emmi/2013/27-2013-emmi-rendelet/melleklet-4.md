@@ -94,6 +94,6 @@
 
 ## a képviseletre jogosult személy aláírása
 
-4. melléklet a 27/2013. (III. 29.) EMMI rendelethez[^100]
+4. melléklet a 27/2013. (III. 29.) EMMI rendelethez[^104]
 
-[^100]: A 4. melléklet a 39/2014. (V. 5.) EMMI rendelet 29. §-a szerint módosított szöveg.
+[^104]: A 4. melléklet a 39/2014. (V. 5.) EMMI rendelet 29. §-a szerint módosított szöveg.

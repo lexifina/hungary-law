@@ -1,4 +1,4 @@
-## 31. §[^30] A 24. § (1) bekezdés b)–d) pontja esetében
+## 31. §[^31] A 24. § (1) bekezdés b)–d) pontja esetében
 
 a) országos sportági szakszövetség, országos sportági szövetség, fogyatékosok országos szövetsége, valamint
 
@@ -20,4 +20,4 @@ f) a MOB,
 
 g) a Magyar Turizmus Zrt.
 
-[^30]: A 31. § a 39/2014. (V. 5.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^31]: A 31. § a 39/2014. (V. 5.) EMMI rendelet 10. §-ával megállapított szöveg.

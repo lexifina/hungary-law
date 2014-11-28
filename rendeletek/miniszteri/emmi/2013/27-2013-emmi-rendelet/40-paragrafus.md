@@ -1,6 +1,6 @@
 40. § (1) A miniszter az Utánpótlás-nevelési feladatok előirányzat terhére támogatja a Sport XXI. Utánpótlás-nevelési programot (a továbbiakban: Sport XXI. program) és a Héraklész Program megvalósítását az olimpiai sportágakban, a sportiskolákat, az egyéb utánpótlás-nevelési feladatok ellátását.
 
-(2) A miniszter az (1) bekezdés szerinti előirányzat terhére költségvetési támogatást nyújt az utánpótlás-neveléssel összefüggő felkészüléshez, versenyeztetéshez, versenyrendezéshez, versenyzési feltételek megteremtéséhez, fejlesztési feladatok ellátásához, és a Duna Kupa versenysorozaton való részvétel, valamint a Duna Kupa versenysorozat magyarországi megrendezése költségeihez, valamint az egyéb utánpótlás-neveléssel összefüggő feladatok ellátásához a (9)–(10) bekezdésben meghatározott kedvezményezettek részére.
+(2)[^40] A miniszter az (1) bekezdés szerinti előirányzat terhére költségvetési támogatást nyújt az utánpótlás-neveléssel összefüggő felkészüléshez, versenyeztetéshez, versenyrendezéshez, versenyzési feltételek megteremtéséhez, fejlesztési feladatok ellátásához, a Központi Sport és Ifjúsági Sportegyesület szakmai feladatainak ellátásához, és a Duna Kupa versenysorozaton való részvétel, valamint a Duna Kupa versenysorozat magyarországi megrendezése költségeihez, valamint az egyéb utánpótlás-neveléssel összefüggő feladatok ellátásához a (9)–(10) bekezdésben meghatározott kedvezményezettek részére.
 
 (3) A Sport XXI. program koordinációs feladatai keretében a MOB az (1) bekezdés szerinti költségvetési támogatást a következő célokra fordítja:
 
@@ -97,3 +97,5 @@ a) helyi önkormányzat,
 b) gazdasági társaság,
 
 c) központi költségvetési szerv
+
+[^40]: A 40. § (2) bekezdése az 50/2014. (XI. 27.) EMMI rendelet 2. §-ával megállapított szöveg.

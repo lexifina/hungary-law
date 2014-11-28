@@ -10,13 +10,13 @@ b) a 21. § (1) bekezdés b) és c) pontja esetén legfeljebb egy év.
 
 (4) A költségvetési támogatás felfüggesztésének időtartama alatt állami sport célú támogatás a sportág szakmai feladatainak ellátásával összefüggésben – az (5) bekezdésben foglaltak kivételével – nem nyújtható.
 
-(5)[^21] A költségvetési támogatás visszavonásáról, illetve felfüggesztéséről való döntés nem veszélyeztetheti a sportszervezet, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány vagy a sportszövetség utánpótlás-nevelési feladatainak ellátását.
+(5)[^22] A költségvetési támogatás visszavonásáról, illetve felfüggesztéséről való döntés nem veszélyeztetheti a sportszervezet, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány vagy a sportszövetség utánpótlás-nevelési feladatainak ellátását.
 
 (6) A visszavont költségvetési támogatást a (7) bekezdésben foglaltakra is figyelemmel a kedvezményezett – a visszavonásról szóló értesítés kézhezvételétől számított tizenöt napon belül – visszafizeti a minisztérium 10032000-01220328-50000005 számú fejezeti kezelésű előirányzat felhasználási keretszámlára az átutalási megbízás közlemény rovatában az Áht. azonosító és a szerződésszám megjelölésével.
 
-(7)[^22] Ha a MOB-nak nyújtott költségvetési támogatás végső felhasználója nem a MOB, a visszavont költségvetési támogatást a költségvetési támogatás végső felhasználója – a visszavonásról szóló értesítés kézhezvételétől számított tizenöt napon belül – a MOB részére fizeti vissza. A MOB a visszafizetett költségvetési támogatást az előirányzat felhasználásával azonos célra a tárgyévet követő év június 30-ig felhasználhatja. A fel nem használt támogatást a MOB a minisztérium számára visszafizeti.
+(7)[^23] Ha a MOB-nak nyújtott költségvetési támogatás végső felhasználója nem a MOB, a visszavont költségvetési támogatást a költségvetési támogatás végső felhasználója – a visszavonásról szóló értesítés kézhezvételétől számított tizenöt napon belül – a MOB részére fizeti vissza. A MOB a visszafizetett költségvetési támogatást az előirányzat felhasználásával azonos célra a tárgyévet követő év június 30-ig felhasználhatja. A fel nem használt támogatást a MOB a minisztérium számára visszafizeti.
 
 (8) A támogató a költségvetési támogatás visszavonásáról vagy felfüggesztéséről a döntés meghozatalát követő öt napon belül értesíti a nemzeti doppingellenes szervezet vezetőjét.
 
-[^21]: A 22. § (5) bekezdése a 39/2014. (V. 5.) EMMI rendelet 28. § b) pontja szerint módosított szöveg.
-[^22]: A 22. § (7) bekezdése a 39/2014. (V. 5.) EMMI rendelet 28. § c) pontja szerint módosított szöveg.
+[^22]: A 22. § (5) bekezdése a 39/2014. (V. 5.) EMMI rendelet 28. § b) pontja szerint módosított szöveg.
+[^23]: A 22. § (7) bekezdése a 39/2014. (V. 5.) EMMI rendelet 28. § c) pontja szerint módosított szöveg.
