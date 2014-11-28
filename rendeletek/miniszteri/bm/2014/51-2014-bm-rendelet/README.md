@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-51-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-11-27 | 2014-51-20-0A.1 | 51/2014. (XI. 26.) BM rendelet |
+| 2014-11-28 | 2014-51-20-0A.2 | 2010: CXXX. törvény |

@@ -1,3 +1,3 @@
-## 6. § Az R. 21. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 3–6. §[^2]
 
-## „(1) Az Árvíz és Belvíz Elleni Védekezésért Emlékérem az országot sújtó árvíz, belvíz elleni védekezésben kiemelkedő teljesítményt nyújtó személyek tevékenységének elismerésére adományozható.”
+[^2]: A 3–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,0 @@
-## „(4a) A pályázati felhívást minden évben az emlékplakett átadása előtt legalább nyolc hónappal a Hivatalos Értesítőben közzé kell tenni. A felhívás közzététele érdekében az 52/B. § (1) bekezdése szerinti szakmai kuratórium intézkedik. A felhívás azonos formában és tartalommal közzétehető bármely szakmai folyóiratban és szakmai portálon is.”
