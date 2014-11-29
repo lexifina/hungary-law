@@ -354,6 +354,6 @@
 
 | FAVI ENG |
 
-2. számú melléklet a 18/2007. (V. 10.) KvVM rendelethez[^8]
+2. számú melléklet a 18/2007. (V. 10.) KvVM rendelethez[^10]
 
-[^8]: A 2. számú melléklet a 25/2007. (VII. 30.) KvVM rendelet 5. §-ával megállapított szöveg.
+[^10]: A 2. számú melléklet a 25/2007. (VII. 30.) KvVM rendelet 5. §-ával megállapított szöveg.
