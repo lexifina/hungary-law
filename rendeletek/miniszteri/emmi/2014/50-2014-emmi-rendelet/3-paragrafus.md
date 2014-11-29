@@ -1,3 +1,0 @@
-## 2. § Az R. 40. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A miniszter az (1) bekezdés szerinti előirányzat terhére költségvetési támogatást nyújt az utánpótlás-neveléssel összefüggő felkészüléshez, versenyeztetéshez, versenyrendezéshez, versenyzési feltételek megteremtéséhez, fejlesztési feladatok ellátásához, a Központi Sport és Ifjúsági Sportegyesület szakmai feladatainak ellátásához, és a Duna Kupa versenysorozaton való részvétel, valamint a Duna Kupa versenysorozat magyarországi megrendezése költségeihez, valamint az egyéb utánpótlás-neveléssel összefüggő feladatok ellátásához a (9)–(10) bekezdésben meghatározott kedvezményezettek részére.”
