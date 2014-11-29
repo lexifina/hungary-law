@@ -1,1 +1,0 @@
-A fogyasztóvédelemről szóló 1997. évi CLV. törvény 56. §-ában foglalt felhatalmazás alapján, a nemzeti fejlesztési és gazdasági miniszter feladat- és hatásköréről szóló 134/2008. (V. 14.) Korm. rendelet 1. § b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
