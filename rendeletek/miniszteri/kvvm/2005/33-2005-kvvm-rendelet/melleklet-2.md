@@ -816,9 +816,9 @@
 
 |  | Az igazgatási szolgáltatási díjköteles környezetvédelmi, természetvédelmi és vízügyi szakhatósági eljárások megnevezése | Igazgatási szolgáltatási díj mértéke (Ft) |
 
-| 1. | Telephely-engedélyezési eljárás [a telepengedély, illetve a telep létesítésének bejelentése alapján gyakorolható egyes termelő és egyes szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről és a bejelentés szabályairól szóló 358/2008. (XII. 31.) Korm. rendelet 4. § b) pont] | 23 000 |
+| 1. | Telephely-engedélyezési eljárás [a telepengedély, illetve a telep létesítésének bejelentése alapján gyakorolható egyes termelő és egyes szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről és a bejelentés szabályairól szóló 57/2013. (II. 27.) Korm. rendelet 4. § b) pont] | 23 000 |
 
-| 2. | Építésügyi hatósági engedélyezési eljárás [az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló 193/2009. (IX. 15.) Korm. rendelet] |  |
+| 2. | Építésügyi hatósági engedélyezési eljárás [az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet] |  |
 
 | 2.1. | Elvi építési, építési, összefoglalt építési, fennmaradási, bontási engedélyezési eljárás | 14 000 |
 
@@ -868,9 +868,9 @@
 
 | 9. | Elektronikus hírközlési nyomvonalas, nyomvonal jellegű építményekkel és egyéb műtárgyakkal kapcsolatos eljárás [a Nemzeti Hírközlési Hatóság eljárásában közreműködő szakhatóságok kijelöléséről, valamint egyes szakhatósági közreműködések megszüntetéséről és módosításáról szóló 362/2008. (XII. 31.) Korm. rendelet 1. számú melléklet] | 7 000 |
 
-| 10. | Régészeti feltárások engedélyezési eljárása, a 2001. évi LXIV. törvény 63. § (2) bekezdés a)–b) és g) pontjában meghatározott tevékenység engedélyezési eljárása [a Kulturális Örökségvédelmi Hivatalról szóló 308/2006. (XII. 23.) Korm. rendelet] | 8 500 |
+| 10. | Régészeti feltárások engedélyezési eljárása, a 2001. évi LXIV. törvény 63. § (2) bekezdés a)–b) és g) pontjában meghatározott tevékenység engedélyezési eljárása [a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló 393/2012. (XII. 20.) Korm. rendelet] | 8 500 |
 
-| 11. | A Sugáregészségügyi Decentrum és az Országos Tisztifőorvosi Hivatal atomenergiával kapcsolatos eljárásai [az Állami Népegészségügyi és Tisztiorvosi Szolgálatról és a gyógyszerészeti államigazgatási szerv kijelöléséről szóló 362/2006. (XII. 28.) Korm. rendelet 18/A. § (5) bekezdés, 4. számú melléklet] |  |
+| 11. | A Sugáregészségügyi Decentrum és az Országos Tisztifőorvosi Hivatal atomenergiával kapcsolatos eljárásai [az Állami Népegészségügyi és Tisztiorvosi Szolgálatról, a népegészségügyi szakigazgatási feladatok ellátásáról, valamint a gyógyszerészeti államigazgatási szerv kijelöléséről szóló 323/2010. (XII. 27.) Korm. rendelet 23. § (5) bekezdés, 4. melléklet] |  |
 
 | 11.1. | A radioaktív anyag tárolása, használata, felhasználása és átalakítása [4. sz. melléklet I.1. pont] | 8 500 |
 
@@ -882,9 +882,9 @@
 
 | 11.5. | Radioaktív hulladék átmeneti tárolójának és végleges hulladéklerakó létesítése, üzemeltetése, átalakítása, megszüntetéséhez, lezárása, és az aktív, valamint a passzív intézményes ellenőrzésre történő áttérés | 23 000 |
 
-| 12. | A Magyar Kereskedelmi Engedélyezési Hivatalról szóló 260/2006. (XII. 20.) Korm. rendelet szerinti eljárások |  |
+| 12. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet szerinti eljárások |  |
 
-| 12.1. | A Magyar Kereskedelmi Engedélyezési Hivatalról szóló 260/2006. (XII. 20.) Korm. rendelet 11/A. § (3) bekezdés a) pontja szerinti sajátos építményfajtákkal kapcsolatos hatósági eljárások | 14 000 |
+| 12.1. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdése szerinti sajátos építményfajtákkal kapcsolatos hatósági eljárások | 14 000 |
 
 | 12.2. | Villamosenergia-ipari építésügyi engedélyezési eljárás [a villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet] | 10 000 |
 
@@ -908,6 +908,6 @@
 
 | 15.4.2. | Kizárólag környezeti hatások jelentőségének vizsgálata | 133 000 |
 
-2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^31]
+2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^36]
 
-[^31]: A 2. melléklet a 131/2013. (XII. 23.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^36]: A 2. melléklet a 131/2013. (XII. 23.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
