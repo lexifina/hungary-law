@@ -206,6 +206,6 @@
 
 ## Az összesen sor adata megegyezik a 43B tábla költségekkel csökkentett bruttó IBNR tartalék adatával.
 
-8. melléklet a 49/2014. (XI. 27.) MNB rendelethez[^5]
+8. melléklet a 49/2014. (XI. 27.) MNB rendelethez[^6]
 
-[^5]: A 8. melléklet a 12. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^6]: A 8. melléklet a 12. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.

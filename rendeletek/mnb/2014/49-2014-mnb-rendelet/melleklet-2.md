@@ -88,6 +88,6 @@
 
 ## 4.3. Az egyes (eszköz- és forrás-, illetve eredménykimutatási) tételek részletezése a Számv. tv., valamint a Bszkr. szerinti előírásoknak megfelelően történik.
 
-2. melléklet a 49/2014. (XI. 27.) MNB rendelethez[^1]
+2. melléklet a 49/2014. (XI. 27.) MNB rendelethez[^2]
 
-[^1]: A 2. melléklet a 12. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^2]: A 2. melléklet a 12. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
