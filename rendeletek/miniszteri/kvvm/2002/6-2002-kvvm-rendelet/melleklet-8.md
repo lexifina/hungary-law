@@ -1,28 +1,28 @@
 ## A halas vizek
 
-| Halas vízként kijelölt felszíni víz | Határoló szelvényszámok (fkm) | Határok megnevezése | Az R. 2. § b) szerinti kategória | Az R. 5. számú melléklete szerinti kategória | Környezetvédelmi Felügyelőség |
+| Halas vízként kijelölt felszíni víz | Határoló szelvényszámok (fkm) | Határok megnevezése | A 2. § b) pontja szerinti kategória | Az 5. számú melléklet szerinti kategória | Vízvédelmi Hatóság |
 
-| Galla-patak | 0+000–11+100 | illetékességi területen teljes hosszban | Pisztrángos víz | KV3 | Észak-dunántúli KöFe |
+| Galla-patak | 0+000–11+100 | a vízvédelmi hatóság illetékességi területen teljes hosszban | Pisztrángos víz | KV3 | Győr-Moson- Sopron Megyei Katasztrófavédelmi Igazgatóság |
 
-| Rába | 0+000–10+550 | Mosoni-Duna torkolat és Marcal torkolat között | Dévéres víz | KV3 | Észak-dunántúli KöFe |
+| Rába | 0+000–10+550 | Mosoni-Duna torkolat és Marcal torkolat között | Dévéres víz | KV3 | Győr-Moson- Sopron Megyei Katasztrófavédelmi Igazgatóság |
 
-| Tapolca patak | 4+500–8+600 | Hegymagas vízmérce és Tapolca vízmérce között | Dévéres víz | KV3 | Közép-dunántúli KöFe |
+| Tapolca-patak | 4+500–8+600 | Hegymagas vízmérce és Tapolca vízmérce között | Dévéres víz | KV3 | Fejér Megyei Katasztrófavédelmi Igazgatóság |
 
-| Tisza | 627+800–569+000 | záhonyi vízmérce és a Lónyay torkolat között | Márnás és dévéres vizek közötti átmenet | KV2 | Felső-Tisza-vidéki KöFe |
+| Tisza | 627+800–569+000 | a záhonyi vízmérce és a Lónyay torkolat között | Márnás és dévéres vizek közötti átmenet | KV2 | Szabolcs-Szatmár- Bereg Megyei Katasztrófavédelmi Igazgatóság |
 
-| Szinva patak | 20+500–14+482 | közúti híd és a papírgyári duzzasztó mű fölötti szelvény között | Pisztrángos víz | KV3 | Észak-magyarországi KöFe |
+| Szinva-patak | 20+500–14+482 | a közúti híd és a papírgyári duzzasztó mű fölötti szelvény között | Pisztrángos víz | KV3 | Borsod-Abaúj- Zemplén Megyei Katasztrófavédelmi Igazgatóság |
 
-| Keleti-főcsatorna | 0+000–98+156 | torkolat és a bakonszegi zsilip között | Dévéres víz | KV3 | Tiszántúli KöFe |
+| Keleti-főcsatorna | 0+000–98+156 | a torkolat és a bakonszegi zsilip között | Dévéres víz | KV3 | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság |
 
-| Hármas-Körös | 42+000–90+270 | illetékességi területen teljes hosszban | Dévéres víz | KV3 | Körös-vidéki KöFe |
+| Hármas-Körös | 42+000–90+270 | a vízvédelmi hatóság illetékességi területen teljes hosszban | Dévéres víz | KV3 | Békés Megyei Katasztrófavédelmi Igazgatóság |
 
-8. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez[^35]
+8. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez[^48]
 
 ## Adatszolgáltatási lap(ok) a felszíni ivóvízbázisokról
 
 1. Az adatszolgáltató és az adatszolgáltatásra vonatkozó információk
 
-| Az adatszolgáltató környezetvédelmi hatóság neve: |  |
+| Az adatszolgáltató vízvédelmi hatóság neve: |  |
 
 | A felszíni ivóvízbázis vizsgálatának kezdete (év/hónap/nap): |  |
 
@@ -144,4 +144,4 @@
 
 | A felszíni víz szennyezését okozta: |  |
 
-[^35]: A 8. számú mellékletet a 24/2004. (XII. 18.) KvVM rendelet 6. §-ának c) pontja iktatta a szövegbe.
+[^48]: A 8. számú mellékletet a 24/2004. (XII. 18.) KvVM rendelet 6. § c) pontja iktatta be, szövege az 52/2014. (XI. 28.) BM rendelet 2. § (2) bekezdés h) pontja szerint módosított szöveg. [A 8. számú mellékletben az 52/2014. (XI. 28.) BM rendelet 2. § (2) bekezdés i) pontjával elrendelt módosítás nem vezethető át.]

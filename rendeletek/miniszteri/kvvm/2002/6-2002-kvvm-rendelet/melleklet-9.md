@@ -1,10 +1,10 @@
-9. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez[^36]
+9. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez[^49]
 
 ## Adatszolgáltatási lap a halas vizekről
 
 1. Az adatszolgáltató és az adatszolgáltatásra vonatkozó információk
 
-| Az adatszolgáltató környezetvédelmi hatóság neve: |  |
+| Az adatszolgáltató vízvédelmi hatóság neve: |  |
 
 | A felszíni víz, mint „halas víz”, vizsgálat kezdete (év/hónap/nap): |  |
 
@@ -20,9 +20,9 @@
 
 | Határok megnevezése: |  |
 
-| Az R. 2. § b) szerinti kategória: |  |
+| A 2. § b) szerinti kategória: |  |
 
-| Az R. 5. számú melléklet szerinti kategória: |  |
+| A 5. számú melléklet szerinti kategória: |  |
 
 | A kijelölésre került folyóvíz hosszúsága (m): |  |
 
@@ -98,4 +98,4 @@
 
 | A felszíni víz szennyezését okozta: |  |
 
-[^36]: A 9. számú mellékletet a 24/2004. (XII. 18.) KvVM rendelet 6. §-ának c) pontja iktatta a szövegbe.
+[^49]: A 9. számú mellékletet a 24/2004. (XII. 18.) KvVM rendelet 6. § c) pontja iktatta be, szövege az 52/2014. (XI. 28.) BM rendelet 2. § (2) bekezdés h) és j) pontja szerint módosított szöveg. [A 9. számú mellékletben az 52/2014. (XI. 28.) BM rendelet 2. § (2) bekezdés k) pontjával elrendelt módosítás nem vezethető át.]

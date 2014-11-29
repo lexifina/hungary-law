@@ -18,7 +18,7 @@ d) mintavételi hely:
 
 da) felszíni ivóvízbázis vízminőségének ellenőrzése esetén: az a hely, ahol a felszíni vízből a vizet ivóvízként való felhasználáshoz kiveszik, illetve kivételét tervezik (felszíni vízkivételi mű) még a tisztítási folyamatba való bevezetés előtt,
 
-db) halas vizek minőségének ellenőrzése esetén: az illetékes környezetvédelmi hatóság által a 13. § (2) bekezdése szerint egyedileg megállapított hely;
+db)[^5] halas vizek minőségének ellenőrzése esetén: az illetékes vízvédelmi hatóság (a továbbiakban: hatóság) által a 13. § (2) bekezdése szerint egyedileg megállapított hely;
 
 e) referencia mérési módszer: valamely vízminőségi jellemző meghatározására szolgáló mérési eljárás, melynek mérési jellemzői (kimutatási határ, precizitás, pontosság) bármely alkalmazni kívánt eljárás esetén minimálisan betartandók;
 
@@ -27,3 +27,4 @@ f) természetes feldúsulás: az a folyamat, amikor egy adott víztömeg a vízg
 [^2]: A 2. § a) pontja a 34/2008. (XII. 31.) KvVM rendelet 6. § (3) bekezdésével megállapított szöveg.
 [^3]: A 2. § b) pontjának ba) alpontja a 17/2007. (V. 10.) KvVM rendelet 8. § (1) bekezdése szerint módosított szöveg.
 [^4]: A 2. § b) pontjának bc) alpontja a 17/2007. (V. 10.) KvVM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § d) pont db) alpontja az 52/2014. (XI. 28.) BM rendelet 2. § (2) bekezdés a) pontja szerint módosított szöveg.
