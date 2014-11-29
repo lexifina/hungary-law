@@ -1,0 +1,5 @@
+## 4. A pénzmaradvány elfogadása
+
+4. § (1) Az Országgyűlés a Hatóság 2013. évi módosított pénzmaradványát az éves mérleg források oldalán szereplő összegével egyezően 14 296,9 M Ft, azaz tizennégymilliárd-kettőszázkilencvenhatmillió-kilencszázezer forint értékben fogadja el.
+
+(2) A pénzmaradvány összegéből 1044,3 M Ft, azaz egymilliárd-negyvennégymillió-háromszázezer forint a 2013. évi kötelezettségek 2014. évre áthúzódó pénzügyi teljesítésének fedezetére, 5858,6 M Ft, azaz ötmilliárd-nyolcszázötvennyolcmillió-hatszázezer forint a következő évek működési tartalékára, a működéshez fel nem használt frekvenciadíjakból 3122,0 M Ft, azaz hárommilliárd-egyszázhuszonkettőmillió forint a Médiaszolgáltatás-támogató és Vagyonkezelő Alapnak (a továbbiakban: MTVA) átadásra, a 2013. évi bírság 190,1 M Ft, azaz egyszázkilencvenmillió-egyszázezer forint összege a médiatudatosság fejlesztésére, 4081,9 M Ft, azaz négymilliárd-nyolcvanegymillió-kilencszázezer forint pedig a digitális földfelszíni hálózatban tervezett technológiai váltás közfeladatának fedezetére használható fel.

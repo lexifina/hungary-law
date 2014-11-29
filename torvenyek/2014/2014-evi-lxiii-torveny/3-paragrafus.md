@@ -1,0 +1,5 @@
+## 3. A kiadások részletezése
+
+3. § (1) A Hatóság általános működési kiadásai összesen 21 873,1 M Ft, azaz huszonegymilliárd-nyolcszázhetvenhárommillió-egyszázezer forint, a pénzeszközátadás 9131,1 M Ft, azaz kilencmilliárd-egyszázharmincegymillió-egyszázezer forint, a felhalmozási kiadás 2050,1 M Ft, azaz kettőmilliárd-ötvenmillió-egyszázezer forint.
+
+(2) A működési kiadásokból 5334,7 M Ft, azaz ötmilliárd-háromszázharmincnégymillió-hétszázezer forint a személyi juttatások, 1445,3 M Ft, azaz egymilliárd-négyszáznegyvenötmillió-háromszázezer forint a munkaadókat terhelő járulék és szociális hozzájárulási adó, 9006,0 M Ft, azaz kilencmilliárd-hatmillió forint a dologi kiadás összege, az általános forgalmiadó-befizetési kötelezettség 6087,1 M Ft, azaz hatmilliárd-nyolcvanhétmillió-egyszázezer forint. A nettó felhalmozási kiadás 1616,9 M Ft, azaz egymilliárd-hatszáztizenhatmillió-kilencszázezer forint, általános forgalmiadó vonzata 431,7 M Ft, azaz négyszázharmincegymillió-hétszázezer forint és 1,5 M Ft, azaz egymillió-ötszázezer forint a lakástámogatás teljesítése.
