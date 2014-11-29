@@ -16,6 +16,7 @@ d) figyelembe vették a vízgyűjtő-gazdálkodás egyes szabályairól szóló 
 
 (4) Ha az 1. melléklet 1. pontjában meghatározott környezetminőségi határérték éves átlagának, vagy a maximálisan megengedhető koncentrációjának túllépése következik be, akkor a higany és vegyületei, a hexaklór-benzol, továbbá a hexaklór-butadién szerinti szennyező anyagok esetében a vízre vonatkozó határértékek helyett az 1. melléklet 3. pontja szerinti környezetminőségi határértékeket kell alkalmazni, és ezzel összefüggésben legalább évi két mérést kell elvégezni a biótában.
 
-(5) Az 1. melléklet 1. pontjában meghatározott elsőbbségi anyagok jelenlétének hosszú távú tendencia elemzéséhez a biótában, illetve üledékben a környezetvédelmi hatóság legalább 3 évente monitoringot folytat le a bennük felhalmozódó anyagokra. A környezetminőségi határérték túllépése esetén intézkedést kell hozni annak biztosítására, hogy ezek a koncentrációk ne emelkedjenek az 1. mellékletben meghatározott határértékek fölé.
+(5)[^2] Az 1. melléklet 1. pontjában meghatározott elsőbbségi anyagok jelenlétének hosszú távú tendencia elemzéséhez a biótában, illetve üledékben a vízvédelmi hatóság legalább 3 évente monitoringot folytat le a bennük felhalmozódó anyagokra. A környezetminőségi határérték túllépése esetén intézkedést kell hozni annak biztosítására, hogy ezek a koncentrációk ne emelkedjenek az 1. mellékletben meghatározott határértékek fölé.
 
 [^1]: A 3. § az 54/2013. (VI. 24.) VM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (5) bekezdése az 52/2014. (XI. 28.) BM rendelet 10. § a) pontja szerint módosított szöveg.

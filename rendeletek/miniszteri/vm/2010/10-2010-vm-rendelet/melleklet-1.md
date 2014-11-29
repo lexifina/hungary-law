@@ -1,6 +1,6 @@
-## 11. §[^6]
+## 11. §[^8]
 
-1. melléklet a 10/2010. (VIII. 18.) VM rendelethez[^7]
+1. melléklet a 10/2010. (VIII. 18.) VM rendelethez[^9]
 
 1. A FELSZÍNI VIZEKRE MEGHATÁROZOTT KÖRNYEZETMINŐSÉGI HATÁRÉRTÉKEK (EQS)
 
@@ -162,5 +162,5 @@ ix A poliaromás szénhidrogének (PAH) elsőbbségi anyagcsoportja (28. sorszá
 
 * Az EQS-ek alapján történő értékelést a halak szervezetét felépítő – az anyagcsoport felhalmozódása szempontjából mérvadó – szövet nedves tömegére vonatkoztatott szennyezőanyag-koncentráció alapján kell elvégezni.
 
-[^6]: A 11. § a (3) bekezdés alapján hatályát vesztette.
-[^7]: Az 1. § melléklet az 54/2013. (VI. 24.) VM rendelet 3. §-a szerint módosított szöveg.
+[^8]: A 11. § a (3) bekezdés alapján hatályát vesztette.
+[^9]: Az 1. § melléklet az 54/2013. (VI. 24.) VM rendelet 3. §-a szerint módosított szöveg.

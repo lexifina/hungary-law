@@ -1,4 +1,4 @@
-2. melléklet a 10/2010. (VIII. 18.) VM rendelethez[^8]
+2. melléklet a 10/2010. (VIII. 18.) VM rendelethez[^10]
 
 1. VIZEKRE VONATKOZÓ HATÁRÉRTÉKEK
 
@@ -84,4 +84,4 @@ Kifejezetten szikes tavak esetében csak vezetőképességre van alsó határér
 
 A felkeveredni képes nyíltvizes tavakra a változó lebegőanyag koncentráció miatt nincs az átlátszóságra határérték.
 
-[^8]: A 2. § melléklet az 54/2013. (VI. 24.) VM rendelet 4. §-a szerint módosított szöveg.
+[^10]: A 2. § melléklet az 54/2013. (VI. 24.) VM rendelet 4. §-a szerint módosított szöveg.
