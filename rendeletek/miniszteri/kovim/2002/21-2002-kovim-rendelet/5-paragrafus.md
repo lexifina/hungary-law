@@ -6,4 +6,4 @@
 
 (4) A hiba elhárítása után csak akkor szabad a vízművet (annak érintett egységét) üzembe helyezni, ha a vízjogi engedélyben, illetve más rendelkezésekben meghatározott feltételek maradéktalanul teljesülnek. Ha a víz szennyezettsége (fertőzöttsége) valószínűsíthető, az ÁNTSZ az újbóli üzembe helyezés feltételéül szabhatja a vízminőségellenőrző vizsgálatok kedvező eredményét.
 
-[^3]: Az 5. § (2) bekezdése a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés f) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: Az 5. § (2) bekezdése a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés f) pontja szerint módosított szöveg. [Az 52/2014. (XI. 28.) BM rendelet 3. § (2) bekezdés a) pontjával elrendelt módosítás, amely szerint az „a vízügyi felügyeletet” szövegrész helyébe az „a vízügyi hatóságot” szöveg lép, nem vezethető át.]

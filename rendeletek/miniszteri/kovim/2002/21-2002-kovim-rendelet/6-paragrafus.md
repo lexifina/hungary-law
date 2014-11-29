@@ -2,13 +2,13 @@
 
 (2) A fogyasztói pontokon végzendő vízminőség-ellenőrzések módszerét, gyakoriságát, helyét, valamint a vizsgálandó jellemzők kiválasztását külön jogszabály[^4] előírásai alapján kell végrehajtani.
 
-(3) Az üzemeltető köteles a víz minőségét valamennyi üzemelő és ideiglenesen üzemen kívül helyezett vízkivételi műnél, és a vízkezelés során is ellenőrizni. A vizsgálatok gyakoriságát és tartalmát (így például az összetevők, komponensek körét) az üzemeltetői szabályzatban és az üzemeltetői utasításban egyaránt rögzíteni kell. Az adatokat nyilván kell tartani. A mért adatok nyilvántartásáról a közlekedési és vízügyi miniszter a minisztérium hivatalos lapjában tájékoztatót tesz közzé.
+(3)[^5] Az üzemeltető köteles a víz minőségét valamennyi üzemelő és ideiglenesen üzemen kívül helyezett vízkivételi műnél, és a vízkezelés során is ellenőrizni. A vizsgálatok gyakoriságát és tartalmát (így például az összetevők, komponensek körét) az üzemeltetői szabályzatban és az üzemeltetői utasításban egyaránt rögzíteni kell. Az adatokat nyilván kell tartani. A mért adatok nyilvántartásáról a vízgazdálkodásért felelős miniszter a minisztérium hivatalos lapjában tájékoztatót tesz közzé.
 
 (4) A vízkezelés során végzendő vizsgálatokra vonatkozó, az üzemeltetési szabályzatban rögzítendő vizsgálati tervnek alkalmasnak kell lennie a technológia irányításához és ellenőrzéséhez szükséges adatok szolgáltatására és rögzítésére. A vizsgálati tervet a területileg illetékes megyei ÁNTSZ intézettel jóvá kell hagyatni.
 
-(5)[^5] Az üzemeltető köteles a (3) bekezdésben megjelölt vízkivételi műnél legalább 6 évenként – a (6) bekezdés figyelembevételével – alapállapot-vizsgálatot, továbbá évente rendszeres alapvizsgálatot, a (7) bekezdés szerinti gyakorisággal ellenőrző vizsgálatot, a (8) bekezdés szerinti gyakorisággal sűrítő bakteriológiai vizsgálatot végezni, és a vizsgálati eredményeket minden tárgyévet követő március 31-ig az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséghez eljuttatni. A felügyelőség a vizsgálati eredményeket április 30-ig továbbítja a Nemzeti Környezetügyi Intézet területi kirendeltségének.
+(5)[^6] Az üzemeltető köteles a (3) bekezdésben megjelölt vízkivételi műnél legalább 6 évenként – a (6) bekezdés figyelembevételével – alapállapot-vizsgálatot, továbbá évente rendszeres alapvizsgálatot, a (7) bekezdés szerinti gyakorisággal ellenőrző vizsgálatot, a (8) bekezdés szerinti gyakorisággal sűrítő bakteriológiai vizsgálatot végezni, és a vizsgálati eredményeket minden tárgyévet követő március 31-ig az illetékes vízügyi hatósághoz eljuttatni. A vízügyi hatóság a vizsgálati eredményeket április 30-ig továbbítja a működési terület szerinti vízügyi igazgatóságnak.
 
-(6) Több felszín alatti vízkivételi művel rendelkező vízbázis esetén az első alapállapot-vizsgálatot, továbbá rétegvízbázisok esetében trícium-vizsgálatot, minden üzemelő és ideiglenesen üzemen kívül helyezett vízkivételi műnél el kell végezni. A trícium-vizsgálatokat 6 év múlva meg kell ismételni. Az ismételt alapállapot-vizsgálatokat csak azoknál a műveknél szükséges elvégezni, melyeket a hatáskörrel rendelkező hatóságok bevonásával az illetékes vízügyi hatóság erre kijelöl. A kijelölt felszín alatti vízkivételi művek köre legalább a következőket magába kell foglalja
+(6)[^7] Több felszín alatti vízkivételi művel rendelkező vízbázis esetén az első alapállapot-vizsgálatot, továbbá rétegvízbázisok esetében trícium-vizsgálatot, minden üzemelő és ideiglenesen üzemen kívül helyezett vízkivételi műnél el kell végezni. A trícium-vizsgálatokat 6 év múlva meg kell ismételni. Az ismételt alapállapot-vizsgálatokat csak azoknál a műveknél szükséges elvégezni, melyeket a hatáskörrel rendelkező hatóságok bevonásával az illetékes vízügyi hatóság erre kijelöl. A kijelölt felszín alatti vízkivételi művek köre legalább a következőket magába kell foglalja
 
 a) a legnagyobb víztermeléssel jellemzett,
 
@@ -44,9 +44,9 @@ c) a gáztalanításon és fertőtlenítésen túlmenő vízkezelés esetében, 
 
 (10) Haladéktalanul el kell készíteni az észlelt problémák feltárását és a további biztonságos ivóvízellátást biztosító részletes vizsgálati tervet az alábbi esetekben:
 
-a) ha a fogyasztói pontokon, a külön jogszabály[^6] szerinti vizsgálatok adatai vagy egyéb helyről származó információk alapján várható a vízkivételi műnél nem vizsgált jellemző megjelenése;
+a) ha a fogyasztói pontokon, a külön jogszabály[^8] szerinti vizsgálatok adatai vagy egyéb helyről származó információk alapján várható a vízkivételi műnél nem vizsgált jellemző megjelenése;
 
-b) ha a vízkivételi műnél, továbbá bármely, a vízmű üzemeltetésével kapcsolatos vízminőségi vizsgálat (így például a figyelőkutak vizsgálata, a vízutánpótlódás területén lévő szennyezés, illetve valószínűsíthető szennyezettség) alapján várható a külön jogszabály[^7] szerinti kockázatos anyag(ok) megjelenése vagy határértéket megközelítő, illetve meghaladó koncentrációja.
+b) ha a vízkivételi műnél, továbbá bármely, a vízmű üzemeltetésével kapcsolatos vízminőségi vizsgálat (így például a figyelőkutak vizsgálata, a vízutánpótlódás területén lévő szennyezés, illetve valószínűsíthető szennyezettség) alapján várható a külön jogszabály[^9] szerinti kockázatos anyag(ok) megjelenése vagy határértéket megközelítő, illetve meghaladó koncentrációja.
 
 (11) A vizsgálati tervnek tartalmaznia kell a vizsgálandó pontokat, komponenseket és azok gyakoriságát. A tervet az üzemeltetési utasításhoz annak módosításával és a szükséges intézkedések kezdeményezésével kell csatolni.
 
@@ -68,16 +68,18 @@ d) amennyiben a mért UV olaj index nagyobb, mint 10 mikrogramm/liter, akkor a r
 
 (15) A vízkivételi mű(vek) sérülékenység szerinti kategorizálását, illetve annak változását az üzemeltetési szabályzat rögzíti.
 
-(16)[^8] Az (5) bekezdés szerint elvégzett vizsgálatok dokumentálása és adatszolgáltatása az eredeti laboratóriumi vizsgálati eredménylapok fénymásolatának beküldésével történik. Az adatszolgáltatás nyomtatványon vagy számítógépes adathordozón teljesíthető.
+(16)[^10] Az (5) bekezdés szerint elvégzett vizsgálatok dokumentálása és adatszolgáltatása az eredeti laboratóriumi vizsgálati eredménylapok fénymásolatának beküldésével történik. Az adatszolgáltatás nyomtatványon vagy számítógépes adathordozón teljesíthető.
 
-(17)[^9] A felszín alatti vizet termelő vízmű üzemeltetője köteles a kitermelt víz mennyiségét, kutankénti üzemi vízhozamát és üzemi víz(nyomás)szintjét, nyugalmi víz(nyomás)szintjét és a termelt víz hőmérsékletét legalább havi gyakorisággal mérni, és az adatokat a tárgyévet követő március 31-ig a Nemzeti Környezetügyi Intézet működési terület szerinti kirendeltségéhez eljuttatni. Az első adatszolgáltatás ideje 2006. március 31.
+(17)[^11] A felszín alatti vizet termelő vízmű üzemeltetője köteles a kitermelt víz mennyiségét, kutankénti üzemi vízhozamát és üzemi víz(nyomás)szintjét, nyugalmi víz(nyomás)szintjét és a termelt víz hőmérsékletét legalább havi gyakorisággal mérni, és az adatokat a tárgyévet követő március 31-ig a működési terület szerinti vízügyi igazgatósághoz eljuttatni. Az első adatszolgáltatás ideje 2006. március 31.
 
-(18)[^10] A figyelő-, tartalék és üzemen kívüli kutak esetében a hatóság által előírt gyakorisággal, de legalább évente egy alkalommal a nyugalmi víz(nyomás)szint mérést is el kell végezni.
+(18)[^12] A figyelő-, tartalék és üzemen kívüli kutak esetében a hatóság által előírt gyakorisággal, de legalább évente egy alkalommal a nyugalmi víz(nyomás)szint mérést is el kell végezni.
 
 [^4]: 201/2001. (X. 25.) Korm. r. az ivóvíz minőségi követelményeiről és ellenőrzési rendjéről.
-[^5]: A 6. § (5) bekezdése a 147/2011. (XII. 23.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^6]: 33/2000. (III. 17.) Korm. r. a felszín alatti vizek minőségét érintő tevékenységekkel összefüggő egyes feladatokról.
-[^7]: 33/2000. (III. 17.) Korm. r. a felszín alatti vizek minőségét érintő tevékenységekkel összefüggő egyes feladatokról.
-[^8]: A 6. § (16) bekezdését a 30/2004. (XII. 30.) KvVM rendelet 18. §-ának (2) bekezdése iktatta a szövegbe.
-[^9]: A 6. § (17) bekezdését a 30/2004. (XII. 30.) KvVM rendelet 18. §-ának (2) bekezdése iktatta be, szövege a 147/2011. (XII. 23.) VM rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^10]: A 6. § (18) bekezdését a 30/2004. (XII. 30.) KvVM rendelet 18. §-ának (2) bekezdése iktatta a szövegbe.
+[^5]: A 6. § (3) bekezdése az 52/2014. (XI. 28.) BM rendelet 3. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 6. § (5) bekezdése a 147/2011. (XII. 23.) VM rendelet 9. § (1) bekezdésével megállapított, az 52/2014. (XI. 28.) BM rendelet 3. § (2) bekezdés c)–e) pontja szerint módosított szöveg.
+[^7]: [A 6. § (6) bekezdésének az 52/2014. (XI. 28.) BM rendelet 3. § (2) bekezdés f) pontjával elrendelt módosítása, amely szerint a „vízügyi felügyelet” szövegrész helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^8]: 33/2000. (III. 17.) Korm. r. a felszín alatti vizek minőségét érintő tevékenységekkel összefüggő egyes feladatokról.
+[^9]: 33/2000. (III. 17.) Korm. r. a felszín alatti vizek minőségét érintő tevékenységekkel összefüggő egyes feladatokról.
+[^10]: A 6. § (16) bekezdését a 30/2004. (XII. 30.) KvVM rendelet 18. §-ának (2) bekezdése iktatta a szövegbe.
+[^11]: A 6. § (17) bekezdését a 30/2004. (XII. 30.) KvVM rendelet 18. §-ának (2) bekezdése iktatta be, szövege az 52/2014. (XI. 28.) BM rendelet 3. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^12]: A 6. § (18) bekezdését a 30/2004. (XII. 30.) KvVM rendelet 18. §-ának (2) bekezdése iktatta a szövegbe.
