@@ -106,7 +106,7 @@
 
 | A tisztítótelep terhelése [LE] | Az önellenőrzési mérések minimális száma egy évben (Az engedélyben és az önellenőrzési tervben meghatározott szennyező anyagokra) |
 
-| 2000–9999 | Az első önellenőrzési év során 12 mérés, a következő években négy mérés, ha kimutatható, hogy az első évben a tisztított víz minősége kielégíti az engedélyben előírt követelményeket. Amennyiben az évi négy mérés közül egy mérés eredménye nem megfelelő, a rákövetkező évben újból 12 mérést kell végezni. Ha a nem megfelelő mérés az év első félévében volt, a mintavételi programot ki kell bővíteni és a mintavételi időpontokat a felügyelőség részére megküldeni. |
+| 2000–9999 | Az első önellenőrzési év során 12 mérés, a következő években négy mérés, ha kimutatható, hogy az első évben a tisztított víz minősége kielégíti az engedélyben előírt követelményeket. Amennyiben az évi négy mérés közül egy mérés eredménye nem megfelelő, a rákövetkező évben újból 12 mérést kell végezni. Ha a nem megfelelő mérés az év első félévében volt, a mintavételi programot ki kell bővíteni és a mintavételi időpontokat a hatóság részére megküldeni. |
 
 | 10 000–49 999 | Minimum 12 mérés/év |
 
@@ -178,7 +178,7 @@
 
 ## b) A nyers szennyvíz mintázását a tisztítótelep hidraulikai terhelésétől függetlenül 3×8 órás, óránként azonos térfogatú pontminták átlagaként kell meghatározni. Amennyiben automata mintavevő áll rendelkezésre, úgy azt 24 órán keresztül vett, óránként legalább 6 részmintából képzett átlagminta vételével kell megoldani úgy, hogy a vizsgálati térfogat rendelkezésre álljon.
 
-## c) A nyers és tisztított szennyvíz mintavételi térfogatát úgy kell kialakítani, hogy az a felügyelőség és közcsatorna esetében a szolgáltató ellenőrző vizsgálata esetén alkalmas legyen osztott minta készítésére.
+## c) A nyers és tisztított szennyvíz mintavételi térfogatát úgy kell kialakítani, hogy az a hatóság és közcsatorna esetében a szolgáltató ellenőrző vizsgálata esetén alkalmas legyen osztott minta készítésére.
 
 ## d) Automata mintavevő alkalmazása esetén a tisztított szennyvízre vonatkozóan is olyan beállításokat kell alkalmazni, mely lehetővé teszi az osztott minták képzését. Átlagminta úgy is képezhető, hogy a mintavevő által vett mintákat a tartósítások előtt megfelelő edényzetben homogenizálják, majd megosztják.
 
