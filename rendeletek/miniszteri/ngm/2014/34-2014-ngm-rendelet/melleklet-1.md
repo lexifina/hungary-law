@@ -1,0 +1,45 @@
+## 14. § Hatályát veszti az aeroszol termékek és aeroszol csomagolások forgalmazásának követelményeiről szóló 1/2010. (I. 8.) NFGM rendelet.
+
+1. melléklet a 34/2014. (X. 30.) NGM rendelethez
+
+## Az egyes vizsgálatok műszaki követelményei
+
+1. A palack deformációs vizsgálata
+
+A különböző anyagú palackok deformációs vizsgálatát hidraulikus nyomáspróba formájában kell végrehajtani. A műszaki követelményeket a 2. melléklet tartalmazza. A vizsgálatkor az egyes palackokat 25 másodpercig kell az előírt nyomásnak kitenni. Amennyiben a véletlenszerűen kiválasztott öt palack bármelyike nem felel meg a vizsgálatnak, további tíz palackot kell kiválasztani véletlenszerűen ugyanabból a tételből és ezeken is el kell végezni a vizsgálatot. Ha e palackok bármelyike nem felel meg a vizsgálatnak, az egész tételt használatra alkalmatlannak kell minősíteni.
+
+Az olyan fém palackot, amely aszimmetrikus vagy jelentősebb eltorzulást, vagy más hasonló sérülést mutat, selejtnek kell minősíteni. Nem minősül jelentősebb eltorzulásnak a palackfal alján vagy a palackfal felső profilján fellépő csekély aszimmetrikus alakváltozás, ha a palack egyébként megfelel a roncsolási vizsgálat követelményeinek.
+
+2. Fém palack roncsolási vizsgálata
+
+A gyártónak biztosítani kell, hogy a fém palack roncsolási nyomása legalább 20%-kal magasabb legyen, mint a fém palack anyagának megfelelő deformációs vizsgálati nyomás.
+
+3. Szilánkvédett üvegpalackos aeroszol csomagolás ejtő vizsgálata
+
+Az aeroszol termék 1,8 m magasságból, 20 °C hőmérsékleten beton alapra ejtésekor nem keletkezhetnek szétrepülő üvegrészecskék. A gyártónak biztosítani kell, hogy a védőbevonattal ellátott üvegpalack e követelménynek megfelel.
+
+4. Mintavétel
+
+A palackok mintavételét a deformációs és roncsolási vizsgálatokhoz véletlenszerűen kiválasztott, 2500 palackból álló homogén tételből kell elvégezni. Homogénnek tekintendő az a tétel, amely azonos anyagokból folyamatosan készül, vagy az egy óra leforgása alatt termelt mennyiség.
+
+5. Az aeroszol termék tömörségi vizsgálata
+
+A töltés során minden aeroszol terméket ellenőrzésnek kell alávetni a 6. pont szerinti, vagy az Európai Gazdasági Térségben elfogadott más vizsgálat szerint.
+
+6. Az aeroszol termék végső vizsgálata
+
+a) Forró vizes (vízfürdős) vizsgálat
+
+Minden egyes aeroszol terméket forró vízfürdőbe kell meríteni.
+
+aa) A vízfürdő hőmérsékletének és a bemerítés időtartamának olyannak kell lennie, hogy a belső nyomás elérje azt az értéket, amelyet a töltet egyenletes 50 °C hőmérsékleten gyakorolna.
+
+ab) Minden olyan aeroszol terméket, amely látható, tartós alakváltozást vagy szivárgást mutat, le kell selejtezni.
+
+b) Végső vizsgálatok hevítéssel
+
+Az aeroszol termék töltetének felhevítésére egyéb módszereket is lehet használni, amennyiben azokkal is minden egyes aeroszol termékben ugyanakkora nyomást és hőmérsékletet el lehet érni, mint amekkorát a forró vizes vizsgálat vált ki, és ha az alakváltozásokat és a szivárgást ugyanolyan pontossággal kimutatják, mint a forró vizes vizsgálat.
+
+c) Hevítés nélküli végső vizsgálatok
+
+Hevítés nélküli alternatív vizsgálatot is lehet alkalmazni, amennyiben az megfelel a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 2013. évi CX. törvény 1. melléklet 6.2.6.3.2. pontjában kifejtett, az aeroszol termékek forró vizes vizsgálatát kiváltó módszerekről szóló rendelkezéseknek. Az olyan aeroszol terméket, amelynek töltete olyan fizikai vagy kémiai átalakuláson megy keresztül, amely megváltoztatja nyomást az aeroszolcsomagolás feltöltése után és az első használat előtt a 9.§ (2) bekezdés c) pontnak megfelelően hevítés nélküli vizsgálatnak kell alávetni.
