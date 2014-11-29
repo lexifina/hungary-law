@@ -1,5 +1,5 @@
 ## 20090N20000006_1
 
-3. melléklet a 6/2009. (IV. 14.) KvVM–EüM–FVM együttes rendelethez[^2]
+3. melléklet a 6/2009. (IV. 14.) KvVM–EüM–FVM együttes rendelethez[^5]
 
-[^2]: A 3. melléklet e rendelet 4. § (2) bekezdése alapján 2010. december 22-én lép hatályba.
+[^5]: A 3. melléklet e rendelet 4. § (2) bekezdése alapján 2010. december 22-én lép hatályba.

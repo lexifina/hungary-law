@@ -18,7 +18,7 @@ b) a talajszemcse és a lebegő anyag.
 
 II. A minták analitikai vizsgálata
 
-1. Az 1–3. mellékletben meghatározott szennyező anyagok, illetve anyagcsoportok analitikai vizsgálata során alkalmazni ajánlott szabványokra, illetve mérési és elemzési módszerekre vonatkozóan a környezetvédelemért felelős miniszter a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közleményt ad ki.
+1.[^6] Az 1–3. mellékletben meghatározott szennyező anyagok, illetve anyagcsoportok analitikai vizsgálata során alkalmazni ajánlott szabványokra, illetve mérési és elemzési módszerekre vonatkozóan a vízvédelemért és a környezetvédelemért felelős miniszter a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közös közleményt ad ki.
 
 2. A minták analitikai vizsgálata során kapott eredmény akkor elfogadható, ha
 
@@ -35,3 +35,5 @@ b) földtani közeg esetén
 ba) az alkalmazott mérési módszer kimutatási határa kisebb, mint a vizsgált anyagra vonatkozó (B) szennyezettségi határérték 25%-a,
 
 bb) a (B) szennyezettségi határérték 90%-át elérő vagy azt meghaladó szennyező anyag koncentrációnál a mérési hiba legfeljebb +/–15%.
+
+[^6]: A 4. melléklet II. pont 1. alpontja az 52/2014. (XI. 28.) BM rendelet 9. § (2) bekezdés c) pontja szerint módosított szöveg.

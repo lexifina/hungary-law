@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-6-20-0N
 | --- | --- | --- |
 | 2009-04-17 | 2009-6-20-0N.1 | 6/2009. (IV. 14.) KvVM–EüM–FVM együttes rendelet |
 | 2014-01-01 | 2009-6-20-0N.2 | 129/2013. (XII. 21.) VM rendelet |
+| 2014-11-29 | 2009-6-20-0N.3 | 52/2014. (XI. 28.) BM rendelet |
