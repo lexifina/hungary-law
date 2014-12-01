@@ -18,8 +18,10 @@ e) tavaszi fagykár,
 
 f) felhőszakadás kár,
 
-g) viharkár, beleértve a homokverés kárt is,
+g)[^10] viharkár,
 
 h) tűzkár.
 
 (4) A biztosító a mezőgazdasági biztosítási szerződésben rögzített biztosítási események bekövetkeztét és az érintett, (2) bekezdés szerinti növénykultúra károsodását káraktával igazolja.
+
+[^10]: A 6. § (3) bekezdés g) pontja a 27/2014. (XI. 25.) FM rendelet 20. § (4) bekezdésével megállapított szöveg.

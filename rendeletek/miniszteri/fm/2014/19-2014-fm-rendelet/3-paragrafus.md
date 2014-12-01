@@ -32,7 +32,7 @@ c) amelyben az „A”, „B” és „C” típusú mezőgazdasági biztosítá
 
 d) amelyben a biztosítási szerződéssel lefedett terület vonatkozásában a kárküszöb
 
-da) egyetlen biztosítás típus esetében sem alacsonyabb a károsodott területre eső biztosítási összeg 30%-ánál,
+da)[^8] minden biztosítás típus esetében meghaladja a károsodással érintett területre eső biztosítási összeg 30%-át,
 
 db) az Mkk. tv. 2. § 10. pontja szerinti felhőszakadáskár és az Mkk. tv. 2. § 19. pontja szerinti mezőgazdasági árvízkár kockázatoknál a károsodott növénytábla biztosítási összegének 40%-a,
 
@@ -83,3 +83,5 @@ j) amely alapján a biztosító a tényleges veszteséget meghaladó kártérít
 (6) A mezőgazdasági termelő a mezőgazdasági biztosítási szerződéshez az 1. melléklet szerinti terület- és hozamadatokat az erre a célra létrehozott elektronikus felületen is jogosult megadni, amely önmagában nem minősül ajánlatkérésnek. A mezőgazdasági termelő által megadott adatok az Mkk. tv. 18. § (1) bekezdése szerinti adatbázisban tárolásra kerülnek.
 
 (7) Az 1. melléklet szerinti adatok elektronikus úton történő megadására meghatalmazott vagy technikai közreműködő igénybevétele esetén a meghatalmazott és a technikai közreműködő eljárására, a vélelmezett örökös eljárására, valamint az elektronikus kapcsolattartásra az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló tárgyévi rendelet rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+
+[^8]: A 3. § (1) bekezdés d) pont da) alpontja a 27/2014. (XI. 25.) FM rendelet 20. § (2) bekezdésével megállapított szöveg.

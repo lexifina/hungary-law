@@ -12,7 +12,7 @@ b) a biztosított mezőgazdasági termelő a biztosítási díjat a szerződő f
 
 (4) A mezőgazdasági biztosítás 3. § (1) bekezdés a) pont af) alpontja szerinti díjához nyújtott támogatás iránti kérelmet az (1)–(3) bekezdésben meghatározott, a biztosító által elektronikus úton szolgáltatott adatok és a beküldött dokumentumok alapján – figyelemmel az Mkk. tv. 16. § (4) bekezdésére – az MVH bírálja el.
 
-(5) A mezőgazdasági biztosítás díjához nyújtott támogatásról az MVH legkésőbb tárgyév december 31-ig hoz döntést.
+(5)[^11] A mezőgazdasági biztosítás díjához nyújtott támogatásról az MVH legkésőbb tárgyév december 10-ig hoz döntést.
 
 (6) A támogatási összeg a tárgyév szeptember 30-ig megküldött díjelőírási adatok alapján, a biztosító 3. § (1) bekezdés a) pont ai) alpontja, illetve a szerződő fél (3) bekezdés b) pontja szerinti díjigazolásában foglaltak figyelembevételével kerül megállapításra.
 
@@ -25,3 +25,5 @@ b) akivel szemben valamely támogatás visszafizetésére kötelező olyan euró
 (8) Amennyiben a biztosító a mezőgazdasági biztosítási szerződés alapján üzemi szinten a növénykultúrában 30%-ot meg nem haladó mértékű hozamcsökkenést okozó egyéb biztosítási események vagy a biztosítási eseményeken kívül más események után is fizet kártérítést, úgy támogatás kizárólag a mezőgazdasági biztosítási szerződés és az ennek alapján kiállított számla egyértelműen elkülönült, 3. § (1) bekezdésnek megfelelő feltételeket tartalmazó része után vehető igénybe.
 
 (9) Az üzemi szinten a növénykultúrában 30%-ot meghaladó mértékű hozamcsökkenést a biztosító saját helyszíni ellenőrzése és nyilvántartása alapján, biztosítói termésadatok hiányában a mezőgazdasági termelő által átadott adatok, tények felhasználásával vagy más, a mezőgazdasági biztosítási szerződésben rögzített módon kell megállapítani.
+
+[^11]: A 7. § (5) bekezdése a 27/2014. (XI. 25.) FM rendelet 20. § (5) bekezdésével megállapított szöveg.

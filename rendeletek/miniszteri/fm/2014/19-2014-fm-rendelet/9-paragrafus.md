@@ -1,4 +1,4 @@
-## 8. § A támogatás forrása a központi költségvetésben a XII. Földművelésügyi Minisztérium fejezetben Folyó kiadások és jövedelemtámogatások előirányzaton tárgyévre vonatkozóan meghatározott összeg.
+## 8. §[^13]
 
 9. § (1) A 4–6. §-ban meghatározott mezőgazdasági biztosítások díjához a nettó biztosítási díj legfeljebb 65%-ának megfelelő mértékű támogatás vehető igénybe. A rendelkezésre álló keret túllépése esetén a támogatás csökkentését az alábbi sorrendben kell végrehajtani:
 
@@ -17,3 +17,5 @@ a) „A” típusú mezőgazdasági biztosítási szerződések,
 b) „B” típusú mezőgazdasági biztosítási szerződések,
 
 c) „C” típusú mezőgazdasági biztosítási szerződések.
+
+[^13]: A 8. §-t a 27/2014. (XI. 25.) FM rendelet 20. § (7) bekezdés b) pontja hatályon kívül helyezte.
