@@ -32,7 +32,13 @@ c) feltünteti természetes személyazonosító adatait.
 
 (8) Ha a fogyasztó a (4) bekezdés c) pontja szerint adott naptári hónap 20-áig nyilatkozatot tesz a pénzforgalmi szolgáltatónál, az (1) bekezdés szerinti, díjtól és költségtől mentes készpénzkifizetésre, illetve Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvételre a következő naptári hónaptól jogosult.
 
-(9) A fogyasztó új nyilatkozat megtételével más fizetési számlát jelölhet meg. A fogyasztó azt követően tehet új nyilatkozatot, hogy a korábbi nyilatkozatát a pénzforgalmi szolgáltató pénzforgalmi szolgáltatás nyújtására szolgáló helyiségében leadott írásbeli, vagy biztonsági azonosítással ellátott internetes szolgáltató rendszerén keresztül megtett nyilatkozattal visszavonta.
+(9) A nyilatkozat a fogyasztó által a pénzforgalmi szolgáltató pénzforgalmi szolgáltatás nyújtására szolgáló helyiségében leadott írásbeli vagy biztonsági azonosítással ellátott internetes szolgáltató rendszerén (internetbankján) keresztül megtett
+
+a) visszavonó rendelkezéssel vagy
+
+b) a korábbi nyilatkozatában megjelölttől eltérő fizetési számlát megjelölő nyilatkozatával
+
+vonható vissza.
 
 (10) Az a pénzforgalmi szolgáltató, amely a készpénzkifizetés, illetve Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel után költséget, díjat azért nem számít fel, mert az ügyfél a (7) és (9) bekezdésben foglaltaknak nem tett eleget vagy a (4) bekezdés c) pontja szerinti nyilatkozatban valótlan tartalmat közölt, jogosult a készpénzkifizetés, illetve Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel díját, költségét visszamenőleg egy összegben érvényesíteni.
 
