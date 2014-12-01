@@ -1,5 +1,5 @@
-## 7/E. §[^48] A társadalmi felzárkózásért felelős miniszter a közfoglalkoztatásért, illetve a foglalkoztatáspolitikáért felelős miniszter kezdeményezésére a Kftv. 1. § (3) bekezdés a)–e) pontjában meghatározott közfoglalkoztatónál folyó közfoglalkoztatási program esetében az irányítása alatt működő állami felnőttképzési intézményt kizárólagos képzést folytató szervezetként jelölheti ki.
+## 7/E. §[^59]
 
 ## Záró rendelkezések
 
-[^48]: A 7/E. §-t a 272/2012. (IX. 28.) Korm. rendelet 15. §-a iktatta be, szövege a 382/2013. (XI. 4.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^59]: A 7/E. §-t a 272/2012. (IX. 28.) Korm. rendelet 15. §-a iktatta be, hatályon kívül helyezte a 296/2014. (XI. 28.) Korm. rendelet 11. §-a.
