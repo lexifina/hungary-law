@@ -1,1 +1,0 @@
-## 14. § Az agrárkár-enyhítési eljárásról szóló 32/2009. (III. 31.) FVM rendelet rendelkezéseit a 2011 májusában fagykárt szenvedett mezőgazdasági termelők hitelhez jutási lehetőségéről szóló 133/2011. (XII. 22.) VM rendelet szerinti eljárásokban alkalmazni kell.
