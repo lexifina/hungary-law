@@ -1,0 +1,3 @@
+3. § (1) Az egységes kérelemben feltüntetett, a mezőgazdasági termelő által bejelentett területre és növénykultúrára vonatkozó adatok alapján megállapított kárenyhítési hozzájárulás összegének tárgyévi módosítására az egységes kérelemre vonatkozó uniós jogi aktusban foglalt késedelmes benyújtási határidőn túl nincs lehetőség, az egységes kérelem módosítása vagy részleges visszavonása esetén sem.
+
+(2) A benyújtott egységes kérelemben az Mkk. tv. 6. § (2) bekezdése alapján tett csatlakozási nyilatkozat visszavonására az Mkk. tv. 6. § (2) bekezdésében meghatározott időtartamon belül nincs lehetőség.

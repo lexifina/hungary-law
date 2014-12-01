@@ -1,0 +1,29 @@
+## 4. A mezőgazdasági káresemény igazolása
+
+5. § (1) Az agrárkár-megállapító szerv a mezőgazdasági káresemény bekövetkezését, annak határidőben történt bejelentését, a mezőgazdasági káresemény és a várható hozamcsökkenés közötti ok-okozati összefüggést ellenőrzi.
+
+(2) Az agrárkár-megállapító szerv a várható hozamcsökkenés mértékét az adott mezőgazdasági káresemény, a károsodással érintett terület, valamint a károsodással érintett területen található növénykultúrák vonatkozásában állapítja meg.
+
+(3) Az agrárkár-megállapító szerv a várható hozamcsökkenés megállapítása során
+
+a) az Országos Meteorológiai Szolgálat (a továbbiakban: OMSZ) internetes honlapján közzétett tájékoztatást és az általa az Mkk. tv. 18. § (1) bekezdése szerinti mezőgazdasági kockázatkezelési adatbázisba (a továbbiakban: mezőgazdasági kockázatkezelési adatbázis) szolgáltatott adatokat,
+
+b) az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF) és a Földmérési és Távérzékelési Intézet (a továbbiakban: FÖMI) által a mezőgazdasági kockázatkezelési adatbázisba szolgáltatott adatokat,
+
+c) a biztosítók által átadott, az Mkk. tv. 17. § (2) bekezdés a) és b) pontja szerinti adatokat,
+
+d) a mezőgazdasági kockázatkezelési adatbázisban található agrometeorológiai növényélettani modell adatait, valamint
+
+e) a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) állapotminősítési, termésbecslési és betakarítási adatait
+
+figyelembe veszi.
+
+(4) A mezőgazdasági káresemény bekövetkezésének ténye és az adott kárenyhítési évben várható hozamcsökkenés mértéke az agrárkár-megállapító szerv által lefolytatott adminisztratív-, illetve helyszíni ellenőrzés, vagy az agrárkár-megállapító szerv által megkeresett Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara megyei ügyintéző szervezetéhez tartozó falugazdász közreműködésével lefolytatott helyszíni ellenőrzés során kerül megállapításra.
+
+(5) Az OMSZ által közzétett, (3) bekezdés a) pontja szerinti tájékoztatás az Mkk. tv. 14. § (4) bekezdése szerinti tájékoztatásnak felel meg.
+
+(6) Az agrárkár-megállapító szerv a (4) bekezdés szerinti ellenőrzés alapján az Mkk. tv. 14. § (1) bekezdésben foglaltakról határozatot hoz.
+
+(7)–(8)[^1]
+
+[^1]: Az 5. § (7)–(8) bekezdése a 17. § (2) bekezdése alapján 2015. április 1-jén lép hatályba.

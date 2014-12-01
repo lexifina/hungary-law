@@ -1,0 +1,1 @@
+## 18. § A 2015. évi kárenyhítési év vonatkozásában a kárbejelentésekről e rendelet hatálybalépése előtt kiállított hatósági bizonyítványokat is figyelembe kell venni a kárenyhítő juttatás iránti kérelemben.

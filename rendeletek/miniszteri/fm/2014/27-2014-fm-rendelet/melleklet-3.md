@@ -1,0 +1,105 @@
+## I. A megkötött mezőgazdasági biztosítási szerződésekről szóló bejelentés adattartalma
+
+## 1. A mezőgazdasági termelő azonosító adatai:
+
+## 1.1. név
+
+## 1.2. ügyfél-azonosító
+
+## 2. A biztosító megnevezése, amellyel a termelő mezőgazdasági biztosítási szerződést kötött
+
+## 3. A mezőgazdasági biztosítási szerződés időbeli hatályának meghatározása (év)
+
+## 4. A növénykultúra megnevezése (az egységes kérelemhez kiadott hasznosítási kódok szerint)
+
+## 5. A biztosításba bevont terület (ha)
+
+## 6. A biztosított hozamérték (Ft)
+
+## 7. A biztosító által káreseményekre kifizetett és a továbbiakban még kifizetni tervezett kártérítés káreseményenkénti bontásban (Ft)
+
+## 8. Ha az ügyfél mezőgazdasági biztosítással nem rendelkezik, akkor az ügyfél erről szóló nyilatkozata
+
+## II. A referencia-időszak három évének meghatározásához szükséges adatok
+
+## 1. A növénykultúra megnevezése (az egységes kérelemhez kiadott hasznosítási kódok szerint)
+
+## 2. Az adott növénykultúra termelési adatai a tárgyévet megelőző 5 évben évenkénti bontásban:
+
+## 2.1. Terület (ha) a tárgyévet megelőző 5 évben, évenkénti bontásban
+
+## 2.2. Termésmennyiség (t) a tárgyévet megelőző 5 évben, évenkénti bontásban
+
+## 2.3. Hozam (t/ha) a tárgyévet megelőző 5 évben évenkénti bontásban
+
+## 3. A mezőgazdasági termelő nyilatkozata a referencia-időszak 3 évének meghatározásáról
+
+## III. A referenciahozam kiszámításához szükséges adatok
+
+## 1. A növénykultúra megnevezése (az egységes kérelemhez kiadott hasznosítási kódok szerint)
+
+## 2. A növénykultúra hozama a referencia-időszak három évében, évenkénti bontásban (t/ha)
+
+## IV. A referencia-átlagár kiszámításához szükséges adatok
+
+## 1. A növénykultúra megnevezése (az egységes kérelemhez kiadott hasznosítási kódok szerint)
+
+## 2. A növénykultúra vonatkozásában meghirdetett, 6. § (1) bekezdés szerinti referenciaárak, vagy a mezőgazdasági termelő értékesítéseinek számlával igazolt, 6. § (4) bekezdés szerinti ár adatai a referencia-időszak három évében (Ft/t)
+
+## V. A kárenyhítő juttatás összegének kiszámításához szükséges adatok
+
+## 1. A növénykultúra megnevezése1 (az egységes kérelemhez kiadott hasznosítási kódok szerint)
+
+## 2. Az elemi káresemény megnevezése
+
+## 3. A növénykultúra tárgyévi területe (ha)
+
+## 3.1. A növénykultúra igazolt károsodással érintett tárgyévi területe (ha)
+
+## 3.2. A növénykultúra igazolt károsodással nem érintett területe (ha)
+
+## 4. A növénykultúra betakarított tárgyévi termésmennyisége (t)
+
+## 5. A növénykultúra betakarított területének aránya (50% feletti, illetve 50% vagy azt meg nem haladó)
+
+## 6. A növénykultúra tárgyévi hozama (t/ha)
+
+## 7. A növénykultúra referencia hozama (t/ha)
+
+## 8. A tárgyévben a növénykultúra meghirdetett referenciaára, vagy a mezőgazdasági termelő értékesítéseinek számlával igazolt, 6. § (4) bekezdés szerinti ár adata (Ft/t)
+
+## 9. A növénykultúra referencia-átlagára (Ft/t)
+
+## 10. A növénykultúra tárgyévi hozamértéke (Ft)
+
+## 11. A növénykultúra referencia hozamértéke (Ft)
+
+## 12. A növénykultúra hozamérték-csökkenése (Ft)
+
+## 13. Növénykultúra szinten számított hozamérték-csökkenés összegéből levonásra kerülő tételek
+
+## 13.1. A hozamcsökkenés miatt keletkezett költségmegtakarítás összege (Ft)
+
+## 13.2. Földbérlet esetén a 12. § (3) bekezdésében meghatározott bérleti díjcsökkenés (Ft)
+
+## 14. A biztosító által kifizetett kártérítés összege (Ft)
+
+## 15. A mezőgazdasági termelő nyilatkozata arról, hogy
+
+## 15.1. az érintett káresemény által okozott kárra a biztosítóval kötött szerződés alapján a biztosító által megállapított összeget az Mkk. tv. által előírt kötelezettség szerint tüntette fel, és tudomásul veszi, hogy a kötelezettség elmulasztásával a kárenyhítő juttatásra való jogosultságot a teljes kárenyhítő juttatás összegére vonatkozóan elveszíti, és kötelezettséget vállal arra, hogy ilyen esetben a felvett összeget a Mezőgazdasági és Vidékfejlesztési Hivatal felszólító határozata szerint visszafizeti;
+
+## 15.2. a kárenyhítő juttatás iránti kérelem benyújtásakor az Mkk. tv. 2. § 7. pont szerinti elemi káreseményen – ide nem értve az üzemi szinten a növénykultúrában 30%-ot meghaladó mértékű hozamcsökkenést okozó mezőgazdasági árvízkárt – alapuló okokon kívüli okokból a 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti nehéz helyzetben lévő vállalkozásnak minősül-e.
+
+## _____________
+
+## 1 Újravetés, újratelepítés, vagy másodvetés esetén meg kell adni az újravetett, újratelepített, vagy másodvetett növénykultúrát is.
+
+3. melléklet a 27/2014. (XI. 25.) FM rendelethez
+
+## A kárenyhítő juttatás meghatározásának számítási módszere
+
+A területi adatokat (ha), a súlyadatokat (t), a termésátlagokat (t/ha) és az ár adatokat (Ft) mértékegységben, két tizedes jegy pontossággal kell kitölteni, és a számított értékeket is két tizedes jegy pontossággal kell kerekíteni és figyelembe venni.
+
+A 6. § (5) bekezdése alapján korábban megadott adatokat az elektronikus felület automatikusan feltölti. A mezőgazdasági termelőnek csak a hiányzó adatokat kell megadnia.
+
+A kárenyhítő juttatás iránti kérelemben valamennyi növénykultúra adatait fel kell tüntetni, amelyeket a mezőgazdasági termelő az adott kárenyhítési évben termesztett, beleértve az újravetett, újratelepített és másodvetett növénykultúrákat. Újravetés, újratelepítés és másodvetés esetén meg kell jelölni az előveteményt vagy előültetvényt és annak területét is.
