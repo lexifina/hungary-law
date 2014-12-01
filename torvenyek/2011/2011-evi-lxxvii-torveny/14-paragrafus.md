@@ -10,7 +10,7 @@ c) a világörökségi kezelési terv készítését, annak tartalmi elemeire vo
 
 d) a világörökségi komplex hatásvizsgálati dokumentáció tartalmi elemeit, valamint az annak elkészítésére vonatkozó különös szabályokat;
 
-e)
+e) a világörökségi terület világörökségi kezelési tervét; valamint
 
 f)
 
