@@ -10,6 +10,10 @@
 
 (4) A költségtérítés megfizetésére irányuló kötelezettséget az országos kamara honlapján közzétett tájékoztatás szerint, az abban megjelölt fizetési számla javára kell teljesíteni.
 
-(5)–(8)[^1]
+(5) Ha a hitelbiztosítéki nyilatkozatban a nyilatkozatot tevő több gépjárművet jelöl meg egyedileg az e célra biztosított mezőben, a (2) bekezdésben meghatározott költségtérítésen felül a második gépjárműtől kezdve gépjárművenként 3500 forint költségtérítést kell megfizetni.
 
-[^1]: A 40. § (5)–(8) bekezdése a 45. § (3) bekezdése alapján 2014. december 1-jén lép hatályba.
+(6) Ha a hitelbiztosítéki nyilatkozatban a nyilatkozatot tevő több vagyontárgyat jelöl meg a 25. § (1) bekezdés b) pontjában meghatározott módon az e célra biztosított mezőben, a (2) bekezdésben meghatározott költségtérítésen felül a második vagyontárgytól kezdve vagyontárgyanként 3500 forint költségtérítést kell megfizetni.
+
+(7) Ha a hitelbiztosítéki nyilatkozatban több vagyontárgy kerül megjelölésre, az erre a célra biztosított mezőben alvázszámmal, illetve a 25. § (1) bekezdés b) pontjában meghatározott módon, a (2) bekezdésben meghatározott költségtérítésen felül a második vagyontárgytól kezdve vagyontárgyanként 3500 forint költségtérítést kell megfizetni.
+
+(8) Ha a hitelbiztosítéki nyilatkozatban a vagyontárgyak megjelölésére a 25. § (3) bekezdése szerinti megjelölés mellett az erre a célra biztosított mezőben alvázszámmal, illetve a 25. § (1) bekezdés b) pontjában meghatározott módon is sor kerül, a (2) bekezdésben meghatározott költségtérítésen felül vagyontárgyanként (gépjárművenként) 3500 forint költségtérítést kell megfizetni.
