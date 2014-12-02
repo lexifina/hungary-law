@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-74-00-00
 | 2014-11-27 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-74-00-00.1 |
 | 2014-11-28 | 2010. évi CXXX. törvény | 2014-74-00-00.2 |
 | 2014-12-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-74-00-00.3 |
+| 2014-12-02 | 2010. évi CXXX. törvény | 2014-74-00-00.4 |
