@@ -1,4 +1,4 @@
-## 21. § Hatályát veszti a kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 21/2012. (III. 9.) VM rendelet.
+## 20–21. §[^2]
 
 1. melléklet a 27/2014. (XI. 25.) FM rendelethez
 
@@ -57,3 +57,5 @@ ____________
 1 Újravetés, újratelepítés, vagy másodvetés esetén meg kell adni az újravetett, újratelepített, vagy másodvetett növénykultúrát is.
 
 2 A 4. § (1) bekezdés szerinti várható hozamcsökkenés a 10. és a 11. pont szerinti várható tárgyévi hozamok különbsége.
+
+[^2]: A 20–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
