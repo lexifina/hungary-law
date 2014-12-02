@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-29-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-12-01 | 2014-29-20-11.1 | 29/2014. (XI. 28.) FM rendelet |
+| 2014-12-02 | 2014-29-20-11.2 | 2010: CXXX. törvény |
