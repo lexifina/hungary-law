@@ -1,0 +1,219 @@
+# A Kormány 1701/2014. (XII. 3.) Korm. határozata
+
+Magyar Közlöny 2014. évi 164. szám, 2014. december 3. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d46e5c804a3c399900b2909bb8fb8e6b32a1666c/dokumentumok/be3e73dc4fddb106e0b21e26564d08b6d750f730/letoltes)
+
+---
+
+A Kormány 1701/2014. (XII. 3.) Korm. határozata
+a Társadalmi Megújulás Operatív Program módosításáról
+A Kormány
+1. elfogadja a 2014. október 28-án a System for Fund Management in the European Community 2007–2013 (SFC2007)
+internet alapú információs rendszerbe feltöltött, a Társadalmi Megújulás Operatív Program (a továbbiakban: TÁMOP)
+módosításáról szóló javaslatot az Európai Bizottsággal történő hivatalos tárgyalások alapjául az 1. melléklet szerint,
+2. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az 1. pont szerinti módosítási javaslat Európai
+Bizottság részére történő benyújtásáról, továbbá a szükséges egyeztetések lefolytatásáról és azokon a kormányzati
+álláspont képviseletéről.
+Felelős: emberi erőforrások minisztere
+Határidő: azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1701/2014. (XII. 3.) Korm. határozathoz
+1. Pénzügyi tábla
+1.1. Prioritási tengelyek forrásfelosztása
+Prioritási tengely
+Közösségi
+finanszírozás
+(a)
+Nemzeti
+önrész
+(b)=(c)+(d)
+A nemzeti önrész indikatív lebontása
+Összes
+finanszírozás
+(e)=(a)+(b)
+Társfinanszí-
+rozás
+aránya
+(f)=(a)/(e)
+Tájékoztatásként
+Közfinanszí-
+rozás
+(c)
+Magánfinanszírozás
+(d)
+Európai
+Beruházási
+Bank
+(EBB)
+hozzájáru-
+lások
+Egyéb
+finanszírozások
+KONVERGENCIA CÉLKITŰZÉS
+A foglalkoztathatóság
+fejlesztése, a
+munkaerőpiacra való
+belépés ösztönzése
+897 038 425 0 0 0 897 038 425 100% n.a. n.a..
+Az alkalmazkodó-
+képesség javítása
+549 739 133 97 012 788 95 881 954 1 130 834 646 751 921 85% n.a. n.a.
+Minőségi oktatás és
+hozzáférés biztosítása
+mindenkinek
+613 460 177 108 257 678 108 257 349 329 721 717 855 85% n.a. n.a.
+A felsőoktatás
+tartalmi és szervezeti
+fejlesztése a
+tudásalapú gazdaság
+kiépítése érdekében
+441 290 688 77 874 827 77 554 236 320 591 519 165 515 85% n.a. n.a.
+Társadalmi
+befogadás, részvétel
+erősítése
+366 924 794 64 751 435 64 746 355 5 080 431 676 229 85% n.a. n.a.
+Egészségmegőrzés és
+egészségügyi
+humánerőforrás
+fejlesztés
+53 530 521 167 747 463 167 747 463 0 221 277 984 24,19% n.a. n.a.
+Technikai
+segítségnyújtás a
+konvergencia
+régiókban
+104 356 160 18 415 793 18 415 793 0 122 771 953 85% n.a. n.a.
+Összesen 3 026 339 898 534 059 984 532 603 150 1 456 834 3 560 399 882
+Euróban, folyó árfolyamon
+
+Prioritási tengely
+Közösségi
+finanszírozás
+(a)
+Nemzeti
+önrész
+(b)=(c)+(d)
+A nemzeti önrész indikatív lebontása
+Összes
+finanszírozás
+(e)=(a)+(b)
+Társfinanszí-
+rozás
+aránya
+(f)=(a)/(e)
+Tájékoztatásként
+Közfinanszí-
+rozás
+(c)
+Magánfinanszírozás
+(d)
+Európai
+Beruházási
+Bank
+(EBB)
+hozzájáru-
+lások
+Egyéb
+finanszírozások
+REGIONÁLIS VERSENYKÉPESSÉG ÉS FOGLALKOZTATÁS CÉLKITŰZÉS
+Az operatív program
+prioritási tengelyeinek
+megvalósítása a Közép-
+magyarországi
+régióban*
+423 871 537 74 800 860 74 163 469 637 391 498 672 397 85% n.a. n.a.
+Technikai
+segítségnyújtás a
+Közép-magyarországi
+régióban*
+14 684 472 2 591 378 2 591 378 0 17 275 850 85% n.a. n.a.
+Összesen 438 556 009 77 392 238 76 754 847 637 391 515 948 247
+TÁMOP összesen 3 464 895 907 611 452 222 609 357 997 2 094 225 4 076 348 129 85% n.a. n.a.
+*Társfinanszírozás módja: A Tanács 1083/2006/EK rendelet 53. cikk (1) bekezdés b) pontja alapján: elszámolható közkiadás összege folyó áron, euró
+Euróban, folyó árfolyamon
+
+1.2. Évek szerinti bontás
+A B C D E
+1. Év
+Európai Szociális
+Alap
+(ESZA)
+Kohéziós
+Alap
+Európai Unió
+összesen
+E=C+D
+2.
+
+Átmeneti támogatás nélküli régióban 415 841 539 415 841 539
+3. Átmenetileg támogatott régióban 150 186 021 150 186 021
+4. Összesen 566 027 560 566 027 560
+5.
+
+Átmeneti támogatás nélküli régióban 403 644 954 403 644 954
+6. Átmenetileg támogatott régióban 117 911 111 117 911 111
+7. Összesen 521 556 065 521 556 065
+8.
+
+Átmeneti támogatás nélküli régióban 384 613 929 384 613 929
+9. Átmenetileg támogatott régióban 84 416 566 84 416 566
+10. Összesen 469 030 495 469 030 495
+11.
+
+Átmeneti támogatás nélküli régióban 398 478 976 398 478 976
+12. Átmenetileg támogatott régióban 45 280 819 45 280 819
+13. Összesen 443 759 795 443 759 795
+14.
+
+Átmeneti támogatás nélküli régióban 441 997 032 441 997 032
+15. Átmenetileg támogatott régióban 13 619 037 13 619 037
+16. Összesen 455 616 069 455 616 069
+17.
+
+Átmeneti támogatás nélküli régióban 477 676 118 477 676 118
+18. Átmenetileg támogatott régióban 13 444 150 13 444 150
+19. Összesen 491 120 268 491 120 268
+20.
+
+Átmeneti támogatás nélküli régióban 504 087 350 504 087 350
+21. Átmenetileg támogatott régióban 13 698 305 13 698 305
+22. Összesen 517 785 655 517 785 655
+23.
+Összesen
+Átmeneti támogatás nélküli régióban 3 026 339 898 3 026 339 898
+24. Átmenetileg támogatott régióban 438 556 009 438 556 009
+25. Mindösszesen 3 464 895 907 3 464 895 907
+Euróban, folyó árfolyamon
+
+2. A Közösség alapjaiból származó források kategóriánkénti hozzájárulása az operatív programhoz
+2.1. 1. dimenzió: Prioritási tengely téma
+A B
+1. Kód Euró
+2. 62 150 583 891
+3. 63 132 198 967
+4. 64 210 226 140
+5. 65 24 594 203
+6. 66 297 128 888
+7. 67 154 417 713
+8. 69 11 282 532
+9. 71 309 060 743
+10. 72 982 908 394
+11. 73 423 752 009
+12. 74 637 451 229
+13. 80 6 095 420
+14. 81 6 155 146
+15. 85 109 699 317
+16. 86 9 341 315
+17. Összesen: 3 464 895 907
+2.2. 2. dimenzió: A finanszírozás formája
+A B
+1. Kód Euró
+2. 1 3 464 895 907
+3. Összesen: 3 464 895 907
+2.3. 3. dimenzió: Területi megoszlás
+A B
+1. Kód Euró
+2. 01 1 852 729 702
+3. 05 1 493 631 018
+4. 00 118 535 187
+5. Összesen: 3 464 895 907
