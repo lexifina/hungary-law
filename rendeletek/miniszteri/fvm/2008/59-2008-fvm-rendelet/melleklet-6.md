@@ -170,7 +170,7 @@
 
 ## Azon trágyatárolóra, melyek típustervek alapján, különböző méretekben készülő ipari gyártmányok, a gyártóknak a teljes hígtrágya tárolóra, mint késztermékre kell Megfelelőségi Nyilatkozatot biztosítania. Ehhez a gyártónak rendelkeznie kell az összes, szabványokban foglalt tulajdonságoknak való megfelelőséget igazoló dokumentumokkal, a megfelelőséget igazoló akkreditált vizsgálati eredményekkel.
 
-6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^22]
+6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^24]
 
 ADATLAP
 
@@ -292,7 +292,7 @@ Dátum:
 
 aláírás
 
-Függelék az 59/2008. (IV. 29.) FVM rendelet 6. számú mellékletéhez[^23]
+Függelék az 59/2008. (IV. 29.) FVM rendelet 6. számú mellékletéhez[^25]
 
 Kitöltési útmutató
 
@@ -306,13 +306,13 @@ Az 1. táblázatot minden adatszolgáltatásra kötelezett gazdálkodónak ki ke
 
 Az adatlapokon a gazdálkodási év utolsó napján érvényes adatokat kell közölni, amelyek a valós helyzetnek megfelelőek, illetve a tevékenységgel kapcsolatos dokumentumokban, okmányokban szereplő adatokkal megegyezők. Az adatlapokon közölt adatok valódiságáért az adatszolgáltató felelős.
 
-A telephely szerint illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága (a továbbiakban: nővény- és talajvédelmi igazgatóság), illetve környezetvédelmi és természetvédelmi felügyelőségek az adatszolgáltatásban foglaltakat ellenőrizhetik. Ennek során az adatszolgáltatásban foglaltakat igazoló, alátámasztó dokumentumokat – az ellenőrzést végző kérésére – be kell mutatni. A hatóság felszólítására az esetleges hiányokat pótolni kell.
+A telephely szerint illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága (a továbbiakban: nővény- és talajvédelmi igazgatóság), illetve vízvédelmi hatóság az adatszolgáltatásban foglaltakat ellenőrizhetik. Ennek során az adatszolgáltatásban foglaltakat igazoló, alátámasztó dokumentumokat – az ellenőrzést végző kérésére – be kell mutatni. A hatóság felszólítására az esetleges hiányokat pótolni kell.
 
 Az adatgyűjtés jogszabály alapján elrendelt hatósági célú adatgyűjtésnek minősül.
 
 Valótlan adatok közlése, az adatszolgáltatás megtagadása és a késedelmes adatszolgáltatás a hatályos jogszabályok szerint bírság kiszabását vonja maga után!
 
-Az adatszolgáltatáshoz szükséges adatlapok beszerezhetők a növény- és talajvédelmi igazgatóságnál, a falugazdászoknál és a hatósági állatorvosoknál vagy letölthetők a Vidékfejlesztési Minisztérium (www.vm.gov.hu) , valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatal (www.nebih.gov.hu) hivatalos honlapjáról.
+Az adatszolgáltatáshoz szükséges adatlapok beszerezhetők a növény- és talajvédelmi igazgatóságnál, a falugazdászoknál és a hatósági állatorvosoknál vagy letölthetők a Belügyminisztérium (www.bm.gov.hu) , valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatal (www.nebih.gov.hu) hivatalos honlapjáról.
 
 Az egyes adatlapokon, ha valamely adat esetében a rendelkezésre álló hely kevésnek bizonyul, szükség szerinti számban ugyanazon lap másolata szolgál pótlapként. Az adatlapokat – az esetleg szükségessé váló pótlapokat is figyelembe véve – egy adatszolgáltatás keretében folyamatos oldalszámmal kell ellátni.
 
@@ -340,7 +340,7 @@ KÜJ (Környezetvédelmi Ügyfél Jel):
 
 Az állattartással foglalkozó gazdálkodóknak az adatszolgáltatás benyújtásakor – az adatszolgáltatás környezetvédelmi vonatkozásai miatt – rendelkeznie kell KÜJ (Környezetvédelmi Ügyfél Jel) számmal, az állattartó telepnek pedig TH-KTJ (Telephelyhez rendelt Környezetvédelmi Területi Jel) számmal. A telepen belüli, eltérő kialakítású (eltérő műszaki védelemmel rendelkező) trágyatárolóknak ezen belül külön EH-KTJ számmal kell rendelkeznie. (Az EH-KTJ szám a 219/2004. (VII. 21.) Korm. rendelet szerinti engedélyköteles tevékenység helyéhez rendelt Környezetvédelmi Területi Jelet jelenti).
 
-Mindhárom azonosítóra vonatkozóan fontos tudnivaló, hogy amennyiben a bejelentéskor ezekkel vagy ezek valamelyikével az állattartással foglalkozó gazdálkodó nem rendelkezik, úgy az(oka)t az ún. KAR adatlapok (környezetvédelmi alapnyilvántartáshoz szükséges adatok adatlapja) benyújtásával kell megkérnie a területileg illetékes környezetvédelmi és természetvédelmi felügyelőségtől. A KAR adatlapok beszerezhetőek a területileg illetékes környezetvédelmi és természetvédelmi felügyelőségtől vagy letölthetőek a Környezetvédelmi és Vízügyi Minisztérium honlapjáról (www.kvvm.hu). A KAR adatlapok KTJ lapja szolgál mind a TH, mind az EH-KTJ-k igénylésére (TH-KTJ esetén a 4. „a bejelentett objektum telephely?” kérdésnél a mezőbe x-szet kell tenni, EH-KTJ esetén a mezőt üresen kell hagyni. A KAR lapok nyilvántartásba vétele során a környezetvédelmi hatóság a bejelentőlapon közölt azonosító adatokhoz rendelten megállapítja a gazdálkodó azonosítóját/azonosítóit, s erről az ügyfelet értesíti. Azt követően, hogy a gazdálkodó az azonosítóról hivatalos értesítést kap, a későbbiekben valamennyi környezetvédelmi vonatkozású adatszolgáltatáskor az azonosítót használnia kell.
+Mindhárom azonosítóra vonatkozóan fontos tudnivaló, hogy amennyiben a bejelentéskor ezekkel vagy ezek valamelyikével az állattartással foglalkozó gazdálkodó nem rendelkezik, úgy az(oka)t az ún. KAR adatlapok (környezetvédelmi alapnyilvántartáshoz szükséges adatok adatlapja) benyújtásával kell megkérnie a területileg illetékes vízvédelmi hatóságtól. A KAR adatlapok beszerezhetőek a területileg illetékes vízvédelmi hatóságtól. A KAR adatlapok KTJ lapja szolgál mind a TH, mind az EH-KTJ-k igénylésére (TH-KTJ esetén a 4. „a bejelentett objektum telephely?” kérdésnél a mezőbe x-szet kell tenni, EH-KTJ esetén a mezőt üresen kell hagyni. A KAR lapok nyilvántartásba vétele során a környezetvédelmi hatóság a bejelentőlapon közölt azonosító adatokhoz rendelten megállapítja a gazdálkodó azonosítóját/azonosítóit, s erről az ügyfelet értesíti. Azt követően, hogy a gazdálkodó az azonosítóról hivatalos értesítést kap, a későbbiekben valamennyi környezetvédelmi vonatkozású adatszolgáltatáskor az azonosítót használnia kell.
 
 Regisztrációs szám: A Mezőgazdasági és Vidékfejlesztési Hivatal által nyilvántartott azonosító szám.
 
@@ -668,5 +668,5 @@ Amennyiben egy állattartó telepen keletkezett trágya nem abban a gazdaságban
 
 A táblázat első két oszlopában kérjük jelezni, hogy trágyaátadásról vagy más gazdálkodótól történő trágyaátvételről van szó. Meg kell adni továbbá az átadott/átvett szervestrágya mennyiségét hígtrágya esetén m3-ben, istállótrágya esetén tonnában. A szervestrágya típusa rovatban a 3.2. pontban megadott táblázat kódjait kérjük, használják.
 
-[^22]: A 6. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^23]: A 6. számú melléklet függeléke a 70/2013. (VII. 31.) VM rendelet 93. § b)–e) pontja, a 132/2013. (XII. 23.) VM rendelet 29. § (2) bekezdés a)–b) pontja szerint módosított szöveg.
+[^24]: A 6. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^25]: A 6. számú melléklet függeléke a 70/2013. (VII. 31.) VM rendelet 93. § b)–e) pontja, a 132/2013. (XII. 23.) VM rendelet 29. § (2) bekezdés a)–b) pontja, a 28/2014. (XI. 25.) FM rendelet 2. § (2) és (3) bekezdése szerint módosított szöveg.
