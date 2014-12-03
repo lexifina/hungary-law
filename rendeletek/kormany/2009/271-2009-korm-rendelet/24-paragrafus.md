@@ -22,7 +22,7 @@ d) 25. §-a 2013. január 2-án,
 
 e)[^36] 3. §-a, 4. § (1) bekezdése, valamint 22. §-a 2019. december 3-án,
 
-f) 24. § (4) bekezdése 2014. december 4-én
+f)[^37] 24. § (4) bekezdése 2019. december 4-én
 
 hatályát veszti.
 
@@ -30,3 +30,4 @@ hatályát veszti.
 [^34]: A 24. § (4) bekezdését ugyanezen bekezdés f) pontja hatályon kívül helyezi 2014. december 4. napjával.
 [^35]: A 24. § (4) bekezdés b) pontját a 328/2013. (IX. 3.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.
 [^36]: A 24. § (4) bekezdés e) pontja a 291/2014. (XI. 26.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^37]: A 24. § (4) bekezdés f) pontja a 297/2014. (XII. 3.) Korm. rendelet 4. §-a szerint módosított szöveg.
