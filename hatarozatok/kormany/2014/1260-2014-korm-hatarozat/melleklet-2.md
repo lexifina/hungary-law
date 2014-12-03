@@ -50,52 +50,6 @@
 
 | * Az Európai Pénzügyi Stabilitási Mechanizmus keretében a támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, amennyiben nem kerül sor költségvetési kompenzációra |
 
-2. melléklet az 1260/2014. (IV. 22.) Korm. határozathoz
+2. melléklet az 1260/2014. (IV. 22.) Korm. határozathoz[^4]
 
-| I. Prioritás bemutatása - 5. prioritás: Hatékony energia-felhasználás |  |  |  |  | Környezet és Energia Operatív Program |
-
-|  |  |  |  |  |  |  | Akcióterv 2011-2013 |
-
-| 1. Prioritás tartalma |  |  |  |  |  |  |  |
-
-| Prioritás rövid tartalma (max. 500 karakter) |  |
-
-| A prioritás célja az épületek (különös tekintettel a központi és helyi költségvetési szervek épületeire és az egyéb középületekre, valamint a vállalkozások üzemi és irodaépületeire), továbbá a távhőszolgáltatók és –termelők energia-takarékosság növelésére, az energia-hatékonyság javítására irányuló beruházásainak elősegítése, támogatása. A prioritás elsősorban kis-közepes méretű projekteket támogat, 10-75% közötti arányban. |  |
-
-| 2. A prioritás ütemezése – kiírások kerete |  |  |  |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 293,1 HUF/EUR árfolyamon) |  |  |  |  |
-
-| 2011 | 2012 | 2013 | Összesen |  |  |  |  |
-
-| 21,37 | 52,74 | 27,83 | 101,94 |  |  |  |  |
-
-| Túlvállalás: 8,365 (Mrd Ft) |  |  |  |  |  |  |
-
-| ESZA tervezett aránya a prioritás keretéből: 0% |  |  |  |  |  |  |
-
-| 3. A prioritás ütemezése – kötelezettségvállalás (IH döntés) |  |  |  |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 293,1 HUF/EUR árfolyamon) |  |  |  |  |
-
-| 2007-2014 | 2014 | 2015 | Összesen |  |  |  |  |
-
-| 139,82 | 23,90 | 0,00 | 163,72 |  |  |  |  |
-
-| II. A támogatási konstrukciók összefoglaló adatai (2011-2013) |  |  |  |  |  |  |
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete (MrdFt)* | A konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
-
-| 2011 | 2012 | 2013 |
-
-| 5.4.0 | Távhő-szektor energetikai korszerűsítése | 21,37 |  | 0,00 | távhőellátás energiahatékonysági korszerűsítése | NFM |  |
-
-| 5.5.0 | Épületenergetikai fejlesztések | 0,00 | 52,74 | 0,00 | épületek hőtechnikai adottságainak javítása, fűtési, hűtési hmv rendszerek korszerűsítése, világítási rendszerek korszerűsítése, megújulókkal történő kombinálás | NFM | BM |
-
-| 5.6.0 | Központi költségvetési szervek energiahatékonysági beruházásai | 0,00 | 0,00 | 27,83 | épületek hőtechnikai adottságainak javítása, fűtési, hűtési hmv rendszerek korszerűsítése, világítási rendszerek korszerűsítése, megújulókkal történő kombinálás | NFM | BM |
-
-| 5. | Prioritás | 21,37 | 52,74 | 27,83 |  |  |  |
-
-| * Az Európai Pénzügyi Stabilitási Mechanizmus keretében a támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra. |  |
-
-| Az 5.4.0 és 5.5.0 konstrukció összesen 8,365 Mrd Ft túlvállalást tartalmaz. |  |  |  |
+[^4]: A 2. mellékletet az 1700/2014. (XII. 3.) Korm. határozat 2. pont b) pontja visszavonta.

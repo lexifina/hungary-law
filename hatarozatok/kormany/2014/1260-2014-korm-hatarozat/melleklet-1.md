@@ -1,7 +1,8 @@
-## 1. megállapítja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének 4. prioritását az 1. melléklet szerint és 5. prioritását a 2. melléklet szerint, az akcióterv 5. prioritásának KEOP-5.4.0 azonosító jelű pályázati konstrukcióján szükséges többletkötelezettség-vállalás jóváhagyásával,
+## 1.[^2] megállapítja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének 4. prioritását az 1. melléklet szerint,
 
-## 2.[^1]
+## 2.[^3]
 
 1. melléklet az 1260/2014. (IV. 22.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont az 1700/2014. (XII. 3.) Korm. határozat 2. pont a) pontja szerint módosított szöveg.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
