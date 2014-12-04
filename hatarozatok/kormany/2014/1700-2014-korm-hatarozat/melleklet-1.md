@@ -1,10 +1,6 @@
 ## 1. megállapítja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 5. prioritását az 1. melléklet szerint,
 
-## 2. visszavonja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 4. és 5. prioritásának módosításáról szóló 1260/2014. (IV. 22.) Korm. határozat
-
-## a) 1. pontjában az „és 5. prioritását a 2. melléklet szerint, az akcióterv 5. prioritásának KEOP-5.4.0 azonosító jelű pályázati konstrukcióján szükséges többletkötelezettség-vállalás jóváhagyásával” szövegrészt, és
-
-## b) 2. mellékletét.
+## 2.[^2]
 
 1. melléklet az 1700/2014. (XII. 3.) Korm. határozathoz
 
@@ -55,3 +51,5 @@
 | * Az Európai Pénzügyi Stabilitási Mechanizmus keretében a támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra. |  |  |
 
 | Az 5.4.0 és 5.5.0 konstrukció összesen 13,365 Mrd Ft túlvállalást tartalmaz. |  |  |  |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
