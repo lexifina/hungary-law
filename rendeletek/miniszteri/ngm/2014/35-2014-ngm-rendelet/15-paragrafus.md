@@ -1,0 +1,9 @@
+15. § (1) A gázpalackot a benne tárolható gáz megjelölésére az MSZ EN 1089-3 [Szállítható gázpalackok. A gázpalackok megjelölése (az LPG kivételével). 3. rész: Színjelölés] szabvány vagy azzal egyenértékű műszaki biztonsági követelmények szerinti színjelzéssel indokolt ellátni, kivéve a cseppfolyósított szénhidrogén-gáz töltetű gázpalackokat és a tűzoltó készülékek gázpalackjait, melyekre az MSZ EN 3 [Hordozható tűzoltó készülékek] szabvány vagy azzal egyenértékű műszaki biztonsági követelmények szerinti sorozat előírásai vonatkoznak.
+
+(2) Alumíniumötvözetből gyártott cseppfolyósított szénhidrogén-gáz töltetű gázpalackot az (1) bekezdésben hivatkozott MSZ EN 1089-3 szabvány vagy azzal egyenértékű műszaki biztonsági követelmények szerint meghatározott méretű két körgyűrűs színjelzéssel kell ellátni, ha a<D/100+c, és egy körgyűrűs színjelöléssel kell ellátni, ha a≥D/100+c; ahol a: a köpeny falvastagsága mm-ben; D: a külső köpenyátmérő mm-ben; c: falvastagságpótlék, értéke 0,5 mm.
+
+(3) A két körgyűrű egymástól való távolsága a körgyűrű szélességével azonos és a gázpalack teljes felülete a színjelzéssel azonos színű festékkel nem festhető be.
+
+(4) Ha a Hatóság a gáztöltet megváltoztatását engedélyezi, akkor a csökkentett nyomás értékére és az új gáztöltetre vonatkozó megjelöléseket be kell ütni, és annak megfelelően a színjelzést meg kell változtatni. A korábbi engedélyezési nyomást, próbanyomást, üres tömeget és táratömeget, valamint az eredetileg engedélyezett töltőgáz nevét és a töltettömegét keresztbehúzott beütéssel kell érvényteleníteni.
+
+(5) Tulajdonosváltozás esetén a korábbi tulajdonosi jelölés betűit az eredetivel azonos mélységű és betűnagyságú 45 fokban megdöntött „l” betű beütésével oly módon kell érvényteleníteni, hogy az eredeti tulajdonos neve továbbra is olvasható legyen. A tulajdonos által adott sorszám csak abban az esetben érvényteleníthető a fenti módon, ha a gázpalack rendelkezik egyedi azonosító jellel.

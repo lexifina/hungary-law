@@ -1,0 +1,1 @@
+## 28. § E rendelet tervezetének a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkeiben előírt egyeztetése megtörtént.
