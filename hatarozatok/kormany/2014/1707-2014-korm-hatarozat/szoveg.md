@@ -94,4 +94,6 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: folyamatos
 
-12. visszavonja a Versenyképes Közép-Magyarország Operatív Program (VEKOP) és a Közép-magyarországi régió területén végrehajtandó fejlesztések forrásai felhasználásának tervezéséről szóló 1323/2013. (VI. 12.) Korm. határozatot.
+12.[^2]
+
+[^2]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
