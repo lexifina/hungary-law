@@ -10,7 +10,7 @@
 
 ## Felelős: közigazgatási és igazságügyi miniszter
 
-## Határidő: 2014. június 30.
+## Határidő:[^2] 2014. december 31.
 
 1. melléklet az 1304/2013. (VI. 7.) Korm. határozathoz
 
@@ -93,3 +93,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^2]: A határozat határideje az 1721/2014. (XII. 5.) Korm. határozat 9. pontja szerint módosított szöveg.
