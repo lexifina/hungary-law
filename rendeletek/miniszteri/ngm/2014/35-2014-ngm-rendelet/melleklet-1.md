@@ -1,4 +1,4 @@
-## 31. § Hatályát veszti a Gázpalack Biztonsági Szabályzatról szóló 14/1998. (XI. 27.) GM rendelet.
+## 31. §[^1]
 
 1. melléklet a 35/2014. (XI. 19.) NGM rendelethez
 
@@ -365,3 +365,5 @@ a korábbi tömeg megjelölést keresztbehúzott beütéssel érvényteleníteni
 |  | 3 | F | 1001 | Acetilén, oldott (korábban: disszugáz) | C2H2 |  |
 
 7.3.1. Az 1001 UN számú gázzal töltött gázpalack időszakos biztonságtechnikai ellenőrzésének ciklusidejét a porózus anyagra érvényes gyártói előírás határozza meg, de nem lehet hosszabb, mint 5 év.
+
+[^1]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
