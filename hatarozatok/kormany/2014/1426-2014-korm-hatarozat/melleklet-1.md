@@ -16,7 +16,7 @@
 
 ## Felelős: Nemzeti Választási Iroda elnöke, Miniszterelnökséget vezető miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, nemzetgazdasági miniszter a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: a Külgazdasági és Külügyminisztérium fejezet részére biztosított összeg tekintetében 2014. november 30., a többi tétel esetében 2015. június 30.
+## Határidő: 2015. június 30.
 
 ## 3. A Kormány az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva engedélyezi
 
@@ -180,5 +180,5 @@ Költségvetési év: 2014.
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 2. pont az 1457/2014. (VIII. 14.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1457/2014. (VIII. 14.) Korm. határozat 11. pontja, az 1721/2014. (XII. 5.) Korm. határozat 8. pontja szerint módosított szöveg.
 [^2]: A 4–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
