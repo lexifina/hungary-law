@@ -1,4 +1,4 @@
-2. melléklet a 2029/2013. (XII. 29.) Korm. határozathoz[^4]
+2. melléklet a 2029/2013. (XII. 29.) Korm. határozathoz[^5]
 
 |  | A | B | C | D | E | F | G |
 
@@ -10,7 +10,7 @@
 
 | 4. | KEOP-1.1.1/B/10-11- 2011-0001 | Miskolc és térsége települési hulladékgazdálkodási rendszerének továbbfejlesztése | Miskolc Térségi Konzorcium | 2 839 435 358 | 3 407 071 847 | 567 636 489 | Kifizetési feltétel: 1. A támogatást igénylőnek a közbeszerzési eljárást eredményesen le kell zárnia. 2. A támogatást igénylőnek el kell fogadnia, hogy ha a közbeszerzési eljárás során alacsonyabb árajánlat kerül nyertesként kihirdetésre, akkor a támogató jogosult a támogatási szerződés módosítása során ezen alacsonyabb összegnek megfelelően csökkentett támogatás támogatási szerződésben történő rögzítésére. 3. A kiviteli közbeszerzési eljárás vonatkozásában rendelkezésre kell állnia a Nemzeti Fejlesztési Ügynökség Közbeszerzési Felügyeleti Főosztálya által kiállított szabályossági tanúsítványnak. 4. A megnövekedett többletforrással arányos önerő rendelkezésre állását igazolni kell. |
 
-| 5. | KEOP-1.1.1/B/10-11- 2013-0004 | Hatvan és térsége települési hulladékgazdálkodási rendszer fejlesztése | Hatvan és Környéke Települési Szilárdhulladék-gazdálkodás Fejlesztése Társulás | 2 300 645 035 | 2 301 151 240 | 506 205 | Kifizetési feltétel: 1. Csatolni kell az építésiengedély-köteles létesítmények elhelyezésére szolgáló ingatlanok 60 napnál nem régebbi tulajdoni lapjainak hiteles másolatát és a Megvalósíthatósági Tanulmány sablon 9. fejezetében előírt, tulajdoni viszonyokat érintő kötelező mellékleteket (az e-hiteles tulajdoni lapok esetén a digitális aláírást tartalmazó fájlt is csatolni kell). 2. Csatolni kell a jogerős építési engedélyeket, valamint a projekt megvalósításához szükséges esetleges további engedélyes terveket, továbbá az egységes környezethasználati engedély birtokában üzemeltethető létesítményeknél a pozitív tartalmú közmeghallgatásról szóló jegyzőkönyvet. |
+| 5. | KEOP-1.1.1/B/10-11- 2013-0004 | Hatvan és térsége települési hulladékgazdálkodási rendszer fejlesztése | Hatvan és Környéke Települési Szilárdhulladék-gazdálkodás Fejlesztése Társulás | 2 300 645 035 | 2 301 151 240 | 506 205 | A záró kifizetési kérelem benyújtásáig a támogatást igénylőnek csatolnia kell a jogerős építési engedélyeket, a projekt megvalósításához esetlegesen szükséges további engedélyes terveket, valamint az egységes környezethasználati engedély birtokában üzemeltethető létesítményeknél a pozitív tartalmú közmeghallgatásról szóló jegyzőkönyvet. |
 
 | 6. | KEOP-1.2.0/2F/09- 2009-0029 | Hidasnémeti, Tornyosnémeti és Hernádszurdok községek szennyvízelvezetésének és szennyvíztisztító telepének kiépítése | Hidasnémeti Községi Önkormányzat | 746 150 581 | 753 418 081 | 7 267 500 | Kifizetési feltétel: A megnövekedett többletforrással arányos önerő rendelkezésre állását igazolni kell. |
 
@@ -82,4 +82,4 @@
 
 | 40. |  |  |  |  |  |  |  |
 
-[^4]: A 2. melléklet az 1592/2014. (X. 21.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^5]: A 2. melléklet az 1592/2014. (X. 21.) Korm. határozat 4. pont a) alpontja, az 1726/2014. (XII. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
