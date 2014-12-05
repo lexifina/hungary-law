@@ -12,7 +12,7 @@
 
 ## Határidő: azonnal
 
-## 2. A Kormány az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva elrendeli
+## 2.[^1] A Kormány az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva elrendeli
 
 ## a) 798,0 millió forint egyszeri átcsoportosítását,
 
@@ -38,7 +38,7 @@
 
 ## emberi erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2014. december 15.
+## Határidő: 2014. december 15., a 2. b) pont szerint átcsoportosított összeg tekintetében 2015. február 16.
 
 ## 3. A Kormány egyetért azzal, hogy a belügyminiszter a Kvtv. helyi önkormányzatok támogatásait tartalmazó költségvetési fejezetéből a Duna-korzó közterület felújítása érdekében nyújtandó támogatás felhasználásának és elszámolásának feltételeiről 2014. február 15-éig támogatási megállapodást köt Budapest Főváros V. kerület Belváros-Lipótváros Önkormányzatával.
 
@@ -56,7 +56,7 @@
 
 ## Határidő: a 2015. évi, a 2016. évi és a 2017. évi központi költségvetés tervezése során
 
-## 8–17.[^1]
+## 8–17.[^2]
 
 1. melléklet az 1025/2014. (I. 30.) Korm. határozathoz
 
@@ -232,4 +232,5 @@
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 8–17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont az 1721/2014. (XII. 5.) Korm. határozat 5. ponja szerint módosított szöveg.
+[^2]: A 8–17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
