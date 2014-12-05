@@ -1,0 +1,250 @@
+# A Kormány 299/2014. (XII. 5.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 166. szám, 2014. december 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/aaacb4371a26afa8995d1441ac7cc5c1a154dc3c/dokumentumok/77af77ddc32a329bba797005fad17fa4aa51002a/letoltes)
+
+---
+
+A Kormány 299/2014. (XII. 5.) Korm. rendelete
+egyes Korm. rendeleteknek a felszámolási eljárásban a világhálón elérhető elektronikus értékesítési
+rendszer bevezetésével összefüggő módosításáról
+A Kormány
+a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 84/A. § (3) bekezdésében,
+a 19. § tekintetében a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 84/A. § (1) bekezdés b) pontjában
+kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva,
+a következőket rendeli el:
+1. A felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló
+17/2014. (II. 3.) Korm. rendelet módosítása
+1. §
+A felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló 17/2014. (II. 3.) Korm. rendelet
+(a továbbiakban: Eér. Korm. r.) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az (1) bekezdés szerinti fejlesztés megvalósításával összefüggésben kiírt közbeszerzési eljárásokban a bíráló
+bizottságba be kell vonni a Nemzeti Biztonsági Felügyelet és az elektronikus ügyintézési felügyelet képviselőjét is.”
+2. §
+Az Eér. Korm. r. 5. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) Az értékesítők a felszámoló szervezetek hatósági nyilvántartásába bejegyzett adataikkal vesznek részt
+az EÉR-ben. A nyilvántartást vezető hatóság az adatokról és azok változásáról elektronikus úton adatszolgáltatást
+teljesít az EÉR működtetője részére.”
+3. § (1) Az Eér. Korm. r. 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az EÉR működtetője Felhasználói Szabályzatot alkot, amelyet az EÉR honlapján közzé kell tenni, legalább
+15 nappal az EÉR működésének megkezdését megelőzően. A Felhasználói Szabályzat elkészítésekor és
+módosításakor – kivéve, ha a módosítás a megváltozott jogszabályi rendelkezéseknek való megfelelést szolgálja –
+ki kell kérni az Országos Bírósági Hivatal, az igazságügyért felelős miniszter, az államháztartásért felelős miniszter,
+továbbá a felszámolók és vagyonfelügyelők országos érdekképviseletének véleményét. A Felhasználói Szabályzat
+módosítását legalább 15 nappal az alkalmazása előtt kell közzétenni.”
+(2) Az Eér. Korm. r. 7. § (2) bekezdés h) pont hb) alpontja helyébe a következő rendelkezés lép:
+(A Felhasználói Szabályzat kötelező tartalmi elemei:
+az értékesítők jegyzékébe történő felvételi eljárása tekintetében)
+„hb) az értékesítők részéről belépni jogosult személyek körének meghatározása, belépésük módja,”
+
+4. § (1) Az Eér. Korm. r. 10. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+(Az EÉR-en a következő értékesítési hirdetmények tehetők közzé magyar nyelven, továbbá – az értékesítő döntésétől
+függően, szakfordításban – idegen nyelven is:)
+„d) ingóságok (különösen: termelőeszközök, járművek, berendezések, nagyobb értékű készletek, állatállomány,
+értékpapírok) értékesítése,”
+(2) Az Eér. Korm. r. 10. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Az EÉR felületén a Cégközlönyben – a Cstv. 49/A. § (1) bekezdése szerinti módon közzétett – értékesítési
+hirdetménnyel azonos tartalmú hirdetményt kell közzétenni, legkésőbb a Cégközlönyben történő közzétételt
+követő munkanap 24 óráig. A hirdetményt az értékesítő hozza létre az EÉR felületén.”
+5. §
+Az Eér. Korm. r. 13. §-a helyébe a következő rendelkezés lép:
+„13. § (1) Az értékesítő az árverés, illetve a pályázatok benyújtására szabott határidő lejártát követően köteles
+elvégezni az EÉR-be bejelentkező licitáló által az azonosítása érdekében megadott adatok ellenőrzését annak
+érdekében, hogy ne szerezhessen tulajdont az értékesítésből jogszabály alapján kizárt személy vagy szervezet
+[ideértve azt is, akinek kizárására a korábbi értékesítési eljárás során történt mulasztása miatt került sor a Cstv.
+49/B. § (5) bekezdése alapján, továbbá akiről megállapításra került, hogy valótlan adatok vagy hamisított, illetve
+érvénytelen dokumentumok megadásával vagy más módon az eljárás eredményét csalárd módon próbálta
+befolyásolni, és ezért kizárták, vagy a Cstv. 49/G. § (3) bekezdése alapján nem vehet részt az értékesítésben].
+(2) A Cstv. és az Ért. Korm. r. szerinti árverési előleg, illetőleg a pályázati biztosíték befizetését az értékesítő
+az eredmény megállapítása érdekében az árverés, illetve a pályázat ajánlattételi határidejének lejártakor ellenőrzi.
+A befizetések és a szabályzatokban előírt feltételek nem teljesülése esetén a szabálytalanul eljáró licitálót
+az értékesítő az értékesítésből kizárja, és részére a megfizetett árverési előleget, illetőleg a pályázati biztosítékot
+visszautalja.”
+6. §
+Az Eér. Korm. r. 16. §-a helyébe a következő rendelkezés lép:
+„16. § (1) A licitáló az értékesítésben személyesen, vagy törvényes képviselője, illetőleg a polgári perrendtartásról
+szóló törvény szerinti meghatalmazottja útján vehet részt. A licitálónak a meghatalmazás szkennelt változatát
+a licitálás folyamatát megelőzően fel kell töltenie az EÉR felületére, melyet az értékesítő az árverés, illetve a pályázat
+ajánlattételi határidejének lejártakor megtekinthet. Az EÉR felületére feltöltött meghatalmazást a szerződés
+aláírásakor eredetben is be kell mutatni az értékesítő részére. A meghatalmazást az értékesítőnél minden önálló
+értékesítési eljárásban igazolni kell.
+(2) A licitálóként történő részvétel feltétele a regisztráció során a Felhasználói Szabályzat elfogadása és
+az értékesítéssel, valamint az elektronikus árveréssel összefüggő jogszabályi feltételek tudomásul vétele.
+A licitálónak az EÉR felületén meg kell adnia az azonosítására szolgáló, következő adatokat:
+a) magánszemély licitáló esetében: név, állampolgárság, lakóhely, anyja neve, személyazonosító okmányának neve
+és száma, levelezési címe, adóazonosító jele, esetleges általános forgalmi adó alanyiság, elektronikus elérhetősége
+(jelszóval védett, kizárólag a licitáló által használt e-mail cím),
+b) más magánszemély képviseletében történő licitálás esetében: a képviselt személy neve, állampolgársága,
+lakóhelye, anyja neve, személyazonosító okmányának neve és száma, levelezési címe, adóazonosító jele, esetleges
+általános forgalmi adó alanyisága, elektronikus elérhetősége (jelszóval védett, kizárólag a képviselt személy által
+használt e-mail cím),
+c) szervezet képviseletében történő licitálás esetében: a képviselt szervezet neve, a szervezet bírósági (hatósági,
+köztestületi) bejegyzésének száma, adószám, általános forgalmi adó alanyiság ténye, székhely, levelezési cím,
+valamint a szervezet jogszabály szerinti képviselőjének neve, személyazonosító okmányának neve és száma,
+levelezési címe, elektronikus elérhetősége (jelszóval védett, kizárólag a képviselt szervezet által használt e-mail cím).
+(3) A licitáló az első bejelentkezésekor az EÉR felületén kitölti az elektronikus űrlapot az adatairól. A licitálónak
+a (2) bekezdésben meghatározott adatok valódiságáról is nyilatkoznia kell, vállalnia kell továbbá, hogy az adataiban
+bekövetkező változást haladéktalanul bejelenti. A licitáló a (2) bekezdés adatai alapján kerül be a licitálók
+elektronikus nyilvántartásába. Az esetleges adatváltozással kapcsolatos bejelentési kötelezettség az EÉR felületén
+regisztrált jogi személyeket is terheli. A bejelentéseket az EÉR Felhasználói Szabályzatában meghatározott módon
+kell megtenni. Az adatváltozás és a nyilvántartásból való törlés az EÉR felületén kezdeményezhető.
+(4) A licitálónak az értékesítési rendszer számára jelszót is meg kell adnia, ezzel léphet be a rendszerbe és végezhet
+eljárási cselekményeket. A jelszó megváltoztatható.
+
+(5) A licitáló az értékesítési eljárás lezárását követően – érvényes és eredményes értékesítés esetén – elektronikus
+értesítést kap arról, hogy nyertes lett-e vagy nem, és hogy sor kerül-e a legjobb ajánlatot tevők között egy
+második értékesítési fordulóra, illetve ártárgyalásra, és ha igen, az ezzel kapcsolatos tudnivalókról. Amennyiben
+a licitáló nyertes lett, de van elővásárlásra jogosult, akkor ennek tényét is tartalmazza az elektronikus értesítés. Ha
+az elővásárlási joggal rendelkezők egyike sem él ezzel a jogával, a felszámoló elektronikus értesítés mellett postai
+úton is értesíti a nyertes licitálót a szerződéskötéssel és a vagyontárgy átvételével kapcsolatos tennivalóiról, a vételár
+még hátralévő részének megfizetéséről, valamint a vevő esetleges mulasztásainak jogkövetkezményeiről.”
+7. §
+Az Eér. Korm. r. 17. §-a helyébe a következő rendelkezés lép:
+„17. § (1) A rendszerkarbantartásra vonatkozó tájékoztatást legalább 30 nappal korábban az EÉR honlapján közzé
+kell tenni.
+(2) A működtető díjmentesen biztosítja az értékesítők számára az EÉR használatával összefüggő oktatást.
+(3) A működtető folyamatosan együttműködik az értékesítőkkel és az értékesítők szakmai szervezeteivel,
+ügyfélszolgálatot tart fenn az EÉR működésével kapcsolatos problémák megszüntetésére, a hibák kijavítására,
+továbbá az EÉR működésével, fejlesztésével összefüggő javaslatok fogadására.
+(4) A működtető együttműködik az auditáló, illetve az állami ellenőrző szervezetekkel, az említett szervezetek
+ellenőrzési tevékenységét tűrni köteles.”
+8. §
+Az Eér. Korm. r. 19. §-a helyébe a következő rendelkezés lép:
+„19. § A működtetőnek az értékesítő részére a rendszerhasználati felhasználói alapdíjról és a sávosan meghatározott
+licitindítási díjról kiállított számlán a licitindítási díjat értékesítési eljárásonként kell feltüntetni.”
+9. § (1) Az Eér. Korm. r. 20. § (2)–(3) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az EÉR számítógépes program a bejelentkezett és nyilvántartásba vett licitáló számára automatikusan egyedi
+azonosítót generál, és erről elektronikus üzenettel tájékoztatja a licitálót. A licitálónak az egyedi azonosítót és
+a jelszavát titkosan kell kezelnie. Az egyedi azonosítót a rendszer minden értékesítési eljárás során újra képezi.
+A program ezeket az adatokat a későbbi ellenőrizhetőség érdekében, az ahhoz szükséges ideig archiválja.
+A program lehetővé teszi a licitálóknak a nekik is szóló rendszerüzenetek megtekintését, a licitnapló megtekintését,
+kinyomtatását, a többi licitáló adatainak megismerhetősége nélkül.
+(3) A működtető az értékesítő részére nem teszi megismerhetővé a licitálók jelszavát. Az értékesítő a licitálóval
+a licitálás lezárásáig kizárólag az értékesítési rendszeren keresztül érintkezik, ezeket a levelezéseket a rendszer
+rögzíti (naplózza) és archiválja. A licitáló az árajánlatát (pályázatának tartalmát), egyedi azonosítóját az EÉR-en kívül,
+közvetlenül az értékesítővel nem közölheti.”
+(2) Az Eér. Korm. r. 20. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A számítógépes program lehetővé teszi a licitálók számára a licitálást, értékesítési pályázat esetén pedig
+a pályázatuk elektronikus úton történő benyújtását, fogadását, tárolását. Az információk, dokumentumok
+továbbítása során biztosítani kell az adatvesztés nélküli, megváltoztathatatlan formában történő továbbítást. A nem
+nyilvános vagy titkos információk a megismerésükre nem jogosítottak számára nem lehetnek hozzáférhetőek.
+A rendszernek el kell végeznie a pályázatok, árverési licitek beérkeztetését, a beérkezés időpontjának rögzítését,
+az eljárási cselekmények megtörténtének naplózását.”
+10. §
+Az Eér. Korm. r. 21. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A teljes licitnapló csak az auditálásra, ellenőrzésre jogosult szervezet, illetve az értékesítő számára ismerhető
+meg, a licitálás határidejének leteltét követően. A teljes licitnapló az (1) bekezdésben foglaltakon kívül
+az értékesítési eljárásban részt vevő összes licitáló azonosítását lehetővé tevő adatot tartalmazza, az értékesítő
+számára megismerhető és kinyomtatható.”
+11. § (1) Az Eér. Korm. r. 24. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Cstv. 49/A. § szerinti értékesítési pályázat esetén a számítógépes rendszer formai vizsgálatot végez arra nézve,
+hogy a pályázat határidőben érkezett-e. A mellékleteket szkennelt formában kell csatolni.”
+(2) Az Eér. Korm. r. 24. § (3)–(4) bekezdése helyébe a következő rendelkezés lép:
+„(3) A pályázati határidő lejártát követően érkezett pályázati ajánlatok regisztrálását a rendszer visszautasítja, erről és
+ennek okáról a pályázót automatikus elektronikus üzenettel értesíti, külön elektronikus levél küldésére ez okból nem
+kerül sor. Az üzenet tájékoztatást ad arról, hogy formai okokból a pályázat nem érvényes.
+
+(4) A pályázati felhívásban meghatározott pályázatbontáskor az értékesítő megvizsgálja, hogy a pályázatok
+megfeleltek-e az értékesítési hirdetményben meghatározott feltételeknek, továbbá minden érvényes pályázatot
+értékel a részletes pályázati feltételekben meghatározott módon, különösen a 12. § (5) bekezdése szerinti
+szempontok szerint. Az értékesítő felállítja a licitálók közötti sorrendet, és megállapítja, hogy a jogszabályi előírások
+alapján szükséges-e online ártárgyalást tartani, elővásárlásra jogosult személyt megkeresni, vagy más eljárási
+cselekményt végezni. A pályázatok értékeléséről szóló jegyzőkönyvet az értékesítő a pályázatbontás időpontjától
+számított 20 napon belül köteles elkészíteni, és a jegyzőkönyv szkennelt változatát feltölteni az EÉR felületére.”
+12. §
+Az Eér. Korm. r. 25. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Meghosszabbodik a licitálásra, illetve a pályázat benyújtására rendelkezésre álló idő az üzemzavar, illetve
+rendszerkarbantartás időtartamával is, oly módon, hogy ha annak időtartama több mint 1 óra, vagy az üzemzavar
+a licitálás, illetve a pályázat ajánlattételi határidejének lezárását megelőző 1 órán belül keletkezik, akkor minimum
+12 óra a meghosszabbítás időtartama. Az üzemzavarra és a rendszerkarbantartásra vonatkozó adatokat
+az üzemeltetőnek meg kell őriznie, és arról az értékesítőket is tájékoztatnia kell annak érdekében, hogy minden
+értékesítő hitelt érdemlő módon meg tudja állapítani, hogy mikor zárult le a licitálás, illetve a pályázat ajánlattételi
+határideje.”
+13. § (1) Az Eér. Korm. r. 26. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Ha a Cstv. 49/A. § (4) bekezdés szerinti pályázati ártárgyalás feltételei fennállnak, akkor a pályázat nyertesének
+azonnali megállapítása helyett az EÉR-nek az elektronikus ártárgyalás lebonyolítását is biztosítania kell oly módon,
+hogy az értékesítő az EÉR által létrehozott üzenet útján a legmagasabb és az ettől legfeljebb 10%-kal alacsonyabb
+árajánlatot adó pályázókat a licitzárást követően értesíti az online ártárgyalási fordulóról, annak kezdő és záró
+időpontjáról, és arról, hogy az eddigi legmagasabb érvényes árajánlatuk azon automatikusan részt vesz, továbbá,
+hogy módjuk van az ártárgyalásra megadott időtartamon belül az árajánlatukat emelni. Az online ártárgyalás
+során alkalmazott licitlépcső legkisebb és legnagyobb értéke a legmagasabb érvényes ajánlathoz képest
+a 22. § (4) bekezdésében meghatározott értékek fele. A licitáló az árajánlatát (pályázatának tartalmát) közvetlenül
+az értékesítővel a pályázati ártárgyalás esetén sem közölheti. Az online ártárgyalás időtartama 5 óra, a megtett
+ajánlatokat a rendszer rögzíti (naplózza) és archiválja. Az online ártárgyalást legkorábban a pályázatok értékeléséről
+szóló jegyzőkönyv feltöltését követő munkanapon, legkésőbb azonban a jegyzőkönyv feltöltését követő
+5 munkanapon belül, 9 és 21 óra között kell megtartani.”
+(2) Az Eér. Korm. r. 26. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Ha a Cstv. 49/E. § (2) bekezdése szerinti újabb licitálás (elektronikus árverés újabb fordulója) feltételei fennállnak,
+akkor az értékesítő az árverés nyertesének azonnali megállapítása helyett az EÉR által létrehozott üzenet útján
+értesíti az érintetteket az újabb licitálásról, annak kezdő és záró időpontjáról, és arról, hogy az eddigi legmagasabb
+érvényes ajánlatuk az újabb licitálásban automatikusan részt vesz, és módjuk van az újabb licitálásra megadott
+időtartamon belül az árajánlatukat emelni. A licitáló az árajánlatát közvetlenül az értékesítővel az újabb licitálás
+során sem közölheti. Az újabb licitálás időtartama 5 óra, a megtett ajánlatokat a rendszer rögzíti (naplózza)
+és archiválja. Az újabb licitálást legkorábban az árverés lejártát követő munkanapon, legkésőbb azonban
+5 munkanapon belül, 9 és 21 óra között kell megtartani. Üzemzavar esetén az értékesítő elektronikus levél útján
+értesíti a résztvevőket és új időpontot jelöl ki az újabb licitálásra.”
+14. §
+Az Eér. Korm. r. 8. alcíme a következő 26/A. §-sal egészül ki:
+„26/A. § Az EÉR-en történő értékesítés esetén, amennyiben az árverésen nem érkezik a becsértéket elérő vételi
+ajánlat, a felszámoló az árverést eredménytelennek nyilvánítja, és újabb árverés tartásáról határoz. Az újabb árverés
+során a felszámoló a minimálárat (kikiáltási árat) – a hitelezői választmány egyetértésével – legfeljebb a becsérték
+feléig leszállíthatja. Ha ezen az áron sem érkezik ajánlat, a felszámoló az újabb árverést is eredménytelennek
+nyilvánítja.”
+15. § (1) Az Eér. Korm. r. 27. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Ha a nyertes licitáló érdekkörében felmerült okból nem történik meg a szerződéskötés, akkor a felszámoló
+a sorrendben következő másodikkal köti meg a szerződést, amennyiben csak egyetlen sorrendben következő
+második licitáló van, akinek az ajánlata érvényes, és összege nem alacsonyabb, mint a korábbi nyertes ajánlat
+licitlépcsővel – pályázat útján történő értékesítés esetén a korábbi nyertes ajánlatra a 22. § (4) bekezdés a)–e) pontja
+szerint irányadó licitlépcső legmagasabb értékével – csökkentett összege. Ugyanezt a szabályt kell alkalmazni, ha
+
+a szerződéskötésre nem kerül sor a sorrendben második licitálóval sem az említett licitáló érdekkörében felmerült
+okból. Amennyiben a szerződéskötés a sorrendben harmadik licitálóval sem történik meg az említett licitáló
+érdekkörében felmerült okból, a felszámoló az elektronikus értékesítést eredménytelennek nyilvánítja. Az értékesítő
+a szerződéskötés meghiúsulását – indokolással együtt – köteles rögzíteni az EÉR-ben.”
+(2) Az Eér. Korm. r. 27. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Az értékesítő az adásvételi szerződés szkennelt változatát – az EÉR-ben való rögzítés céljából – a szerződés
+megkötésétől számított 10 napon belül köteles feltölteni az EÉR felületére. Az adásvételi szerződés az adott
+értékesítési eljárás dokumentumai között kerül rögzítésre az EÉR-ben.”
+(3) Az Eér. Korm. r. 27. §-a a következő (6) bekezdéssel egészül ki:
+„(6) Az értékesítő a vételár megfizetését igazoló bizonylatokat – az EÉR-en való rögzítés céljából – a vételár,
+részletekben történő fizetés esetén pedig az adott vételár részlet megfizetésétől számított 10 napon belül köteles
+feltölteni az EÉR felületére. A bizonylatok az adott értékesítési eljárás dokumentumai között kerülnek rögzítésre
+az EÉR-ben.”
+16. §
+Az Eér. Korm. r. 9. alcíme a következő 27/A. §-sal egészül ki:
+„27/A. § Az EÉR-en történő értékesítés során, ingóság árverezése esetén a nyertes licitáló köteles a szerződéskötést
+követően a vételárat haladéktalanul megfizetni, kivéve, ha a vételár az 1 millió forintot meghaladja. Ez utóbbi
+esetben a felszámoló a kifizetésre legfeljebb 60 napos határidőt állapíthat meg. Ha a nyertes licitáló a vételárat
+a szerződéskötést követően haladéktalanul, vagy az engedélyezett legfeljebb 60 napos határidőn belül nem fizeti
+meg, a felszámoló az ingóság újabb árverezéséről határoz. A fizetést elmulasztó nyertes licitáló az ingóság újabb
+árverezésében nem vehet részt.”
+17. §
+Az Eér. Korm. r.
+a) 6. § (1) bekezdés a) pont ab) alpontjában a „tárhelyhasználat-arányos használati díjat” szövegrész helyébe
+a„sávosan meghatározott licitindítási díjat”szöveg,
+b) 10. § (1) bekezdés b) pontjában az „üzletrészek” szövegrész helyébe a „gazdálkodó szervezetben fennálló
+részesedések”szöveg,
+c) 11. § (1) bekezdésében az„az elektronikus azonosító kártyáját” szövegrész helyébe az„a felhasználói nevét és
+jelszavát”szöveg
+lép.
+18. §
+Hatályát veszti az Eér. Korm. r. 5. § (1) bekezdés d) pontja.
+2. A felszámolási eljárásban az adós vagyontárgyainak nyilvános értékesítésére vonatkozó részletes
+szabályokról, továbbá a felszámolás számviteli feladatairól szóló 225/2000. (XII. 19.) Korm. rendelet
+módosításáról szóló 237/2009. (X. 20.) Korm. rendelet módosítása
+19. §
+A felszámolási eljárásban az adós vagyontárgyainak nyilvános értékesítésére vonatkozó részletes szabályokról,
+továbbá a felszámolás számviteli feladatairól szóló 225/2000. (XII. 19.) Korm. rendelet módosításáról szóló
+237/2009. (X. 20.) Korm. rendelet 2. §-a a következő (7a) bekezdéssel egészül ki:
+„(7a) Ha az árverés eredménytelen, az árverési előleg teljes összegét az eredménytelenség megállapításától
+számított 8 munkanapon belül valamennyi árverező részére vissza kell utalni. Ha az árverés eredményes, az árverési
+előleget az árverés nyertesénél a vételárba be kell számítani, a többi árverezőnek pedig az árverési előleg teljes
+összegét az eredményhirdetés napjától számított 8 munkanapon belül vissza kell utalni. Ha azonban a szerződés
+az árverés nyertesének érdekkörében felmerülő okból nem jön létre, vagy az árverés nyertese a vételárat az előírt
+határidőben nem fizeti meg, az árverési előleget elveszíti, a felszámoló ezt az összeget az értékesítési bevétel
+részeként számolja el.”
+3. Záró rendelkezések
+20. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

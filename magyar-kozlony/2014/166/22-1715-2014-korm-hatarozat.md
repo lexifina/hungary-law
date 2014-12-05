@@ -1,0 +1,121 @@
+# A Kormány 1715/2014. (XII. 5.) Korm. határozata
+
+Magyar Közlöny 2014. évi 166. szám, 2014. december 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/aaacb4371a26afa8995d1441ac7cc5c1a154dc3c/dokumentumok/77af77ddc32a329bba797005fad17fa4aa51002a/letoltes)
+
+---
+
+A Kormány 1715/2014. (XII. 5.) Korm. határozata
+a 2013. évi költségvetési maradványok egy részének felhasználásáról
+A Kormány
+1. az államháztartás központi alrendszerébe tartozó költségvetési szervek és fejezeti kezelésű előirányzatok 2013. évi
+költségvetési maradványának felhasználásáról szóló 1363/2014. (VI. 30.) Korm. határozatban megállapított,
+2013. évi, további intézkedésig fel nem használható kötelezettségvállalással nem terhelt költségvetési
+maradványokból
+a) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban:
+Ávr.) 152. § (5) bekezdésében biztosított jogkörében eljárva engedélyezi a XII. Földművelésügyi Minisztérium
+fejezetnél keletkezett 38 500 ezer forintnak a felhasználását és
+b) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított
+jogkörében eljárva az 1. melléklet szerinti átcsoportosítást rendeli el;
+Felelős: nemzetgazdasági miniszter
+Határidő: azonnal
+2. a 2013. évi költségvetési maradványok felhasználásáról szóló 1562/2014. (X. 2.) Korm. határozatban megállapított,
+2013. évi, további intézkedésig fel nem használható, kötelezettségvállalással terhelt, de meghiúsulás miatt
+kötelezettségvállalással nem terheltté vált költségvetési maradványokból
+a) az Ávr. 153. §-ában biztosított jogkörében eljárva engedélyezi a XI. Miniszterelnökség fejezetnél
+keletkezett 90 000 ezer forintnak, a XII. Földművelésügyi Minisztérium fejezetnél keletkezett 47 066 ezer
+forintnak, valamint a XVII. Nemzeti Fejlesztési Minisztérium fejezetnél keletkezett 473 048 ezer forintnak
+a felhasználását és
+b) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva az 1. melléklet szerinti átcsoportosítást rendeli
+el;
+Felelős: nemzetgazdasági miniszter
+Határidő: azonnal
+3. a kötelezettségvállalással terhelt, de 2014. június 30. után meghiúsulás miatt kötelezettségvállalással nem terheltté
+vált költségvetési maradványokból
+a) az Ávr. 153. §-ában biztosított jogkörében eljárva engedélyezi a XI. Miniszterelnökség fejezetnél keletkezett
+73 717 ezer forintnak, valamint a XVII. Nemzeti Fejlesztési Minisztérium fejezetnél keletkezett 529 938 ezer
+forintnak a felhasználását és
+b) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva az 1. melléklet szerinti átcsoportosítást rendeli el.
+Felelős: nemzetgazdasági miniszter
+Határidő: azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1715/2014. (XII. 5.) Korm. határozathoz
+Ezer forintban
+Fejezet
+szám
+Cím
+szám
+Alcím
+szám
+Jog-
+cím
+csop.
+szám
+Jog-
+cím-
+szám
+Kiemelt előir.-
+szám
+Fejezet
+név
+Cím
+név
+Alcím
+név
+Jog-
+cím
+csop.
+név
+Jog
+cím-
+név
+Kiemelt előirányzat neve Átcsoportosítás (+/-)
+X. Igazságügyi Minisztérium
+3 Igazságügyi Hivatal
+B1 Működési célú támogatások államháztartáson belülről 140 000
+20 Fejezeti kezelésű előirányzatok
+2 Célelőirányzatok
+1 KIM felügyelete alá tartozó szervezetek és szakmai programok támogatása
+B1 Működési célú támogatások államháztartáson belülről 80 000
+XII. Földművelésügyi Minisztérium
+1 Földművelésügyi Minisztérium igazgatása
+B1 Működési célú támogatások államháztartáson belülről 28 769
+20 Fejezeti kezelésű előirányzatok
+2 Környezetvédelmi célelőirányzatok
+8 Víz-, környezeti- és természeti katasztrófa elhárítás
+K5 Egyéb működési célú kiadások -22 100
+5 Nemzeti támogatások
+3 Állattenyésztési feladatok
+K5 Egyéb működési célú kiadások -6 669
+XV. Nemzetgazdasági Minisztérium
+5 Közbeszerzési és Ellátási Főigazgatóság
+B1 Működési célú támogatások államháztartáson belülről 253 048
+XVII. Nemzeti Fejlesztési Minisztérium
+7 Nemzeti Közlekedési Hatóság
+K5 Egyéb működési célú kidások -92 501
+8 Közlekedésfejlesztési Koordinációs Központ
+K5 Egyéb működési célú kidások -89 592
+20 Fejezeti kezelésű előirányzatok
+31 Kiemelt célú beruházások támogatása
+6 Vasúti hidak és acélszerkezetek felújítása
+K8 Egyéb felhalmozási célú kiadások -58 577
+32 Közlekedési ágazati programok
+1 A közösségi közlekedés összehangolása
+K5 Egyéb működési célú kidások -48 669
+K8 Egyéb felhalmozási célú kiadások -189
+33 Hazai fejlesztési programok
+3 Gazdaságfejlesztést szolgáló célelőirányzat
+B1 Működési célú támogatások államháztartáson belülről 422 301
+11 Kis- és középvállalkozói célelőirányzat
+K5 Egyéb működési célú kidások -422 301
+35 Klíma-, energia- és zöldgazdaság-politikai ágazati programok
+3 Épületenergetikai és energiahatékonysági célelőirányzat
+K8 Egyéb felhalmozási célú kiadások -9 341
+B2 Felhalmozási célú támogatások államháztartáson belülről 51 545
+6 Lakóépületek és környezetük felújításának támogatása
+K8 Egyéb felhalmozási célú kiadások -158 075
+36 PPP programok
+2 Oktatási, kulturális és sport PPP programok
+K5 Egyéb működési célú kidások -67 649
+A 2013. évi költségvetési maradványok átcsoportosítása
