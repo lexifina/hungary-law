@@ -18,23 +18,23 @@ b)[^2] évente jelentést készít a Kormány részére a feladatkörébe tartoz
 
 c) folyamatosan figyelemmel kíséri a központi államigazgatási szervek tevékenységét.
 
-4.[^3] A TFCTB elnöke az Emberi Erőforrások Minisztériumának társadalmi felzárkózásért felelős államtitkára.
+4.[^3] A TFCTB elnöke az Emberi Erőforrások Minisztériumának szociális ügyekért és társadalmi felzárkózásért felelős államtitkára. A TFCTB társelnöke a miniszterelnök által kijelölt személy.
 
 5.[^4] A TFCTB további tagjai (a továbbiakban: bizottsági tag):
 
-a) a Nemzetgazdasági Minisztérium foglalkoztatáspolitikáért felelős államtitkára,
+a) a Nemzetgazdasági Minisztérium szakképzésért és munkaerőpiacért felelős államtitkára,
 
-b) a Belügyminisztérium önkormányzati államtitkára, valamint közfoglalkoztatásért és vízügyért felelős helyettes államtitkára,
+b) a Belügyminisztérium önkormányzati államtitkára, valamint közfoglalkoztatási és vízügyi helyettes államtitkára,
 
-c) az Emberi Erőforrások Minisztériumának köznevelésért felelős államtitkára, felsőoktatásért felelős államtitkára, szociális és családügyért felelős államtitkára, kultúráért felelős államtitkára, egészségügyért felelős államtitkára, sportért és ifjúságért felelős államtitkára, valamint az egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkára,
+c) az Emberi Erőforrások Minisztériumának köznevelésért felelős államtitkára, felsőoktatásért felelős államtitkára, család- és ifjúságügyért felelős államtitkára, kultúráért felelős államtitkára, egészségügyért felelős államtitkára, sportért felelős államtitkára, valamint egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkára,
 
-d) a Közigazgatási és Igazságügyi Minisztériumnak a területi közigazgatásért felelős államtitkára,
+d) a Miniszterelnökség területi közigazgatásért felelős államtitkára,
 
-e) a Vidékfejlesztési Minisztérium vidékfejlesztésért felelős államtitkára,
+e) a Miniszterelnökség agrár-vidékfejlesztésért felelős államtitkára,
 
-f) a Központi Statisztikai Hivatal elnöke, és
+f) a Miniszterelnökséget vezető miniszter – mint a kormányzati tevékenység összehangolásért felelős miniszter – által delegált képviselő és
 
-g) a Miniszterelnökség képviselője.
+g) a Központi Statisztikai Hivatal elnöke.
 
 6. A bizottsági tagot akadályoztatása esetén az általa képviselt tárca szervezeti és működési szabályzatában kijelölt helyettes-államtitkár helyettesíti.
 
@@ -44,7 +44,7 @@ g) a Miniszterelnökség képviselője.
 
 9. A TFCTB ülésének napirendjét – a bizottsági tagok javaslatainak figyelembevételével és a TFCTB elnökének jóváhagyásával – a TFCTB Titkársága készíti elő.
 
-10.[^6] A TFCTB titkársági feladatainak ellátásáról az Emberi Erőforrások Minisztériumának társadalmi felzárkózásért felelős államtitkára gondoskodik.
+10.[^6] A TFCTB titkársági feladatainak ellátásáról az Emberi Erőforrások Minisztériumának szociális ügyekért és társadalmi felzárkózásért felelős államtitkára gondoskodik.
 
 11. A TFCTB Titkársága gondoskodik a TFCTB ülése napirendjének, valamint a napirendi pontokhoz kapcsolódó dokumentumok TFCTB tagjai részére történő megküldéséről, legkésőbb a tervezett ülés napját megelőző ötödik munkanapig.
 
@@ -56,8 +56,8 @@ g) a Miniszterelnökség képviselője.
 
 [^1]: A 2. pont a) alpontja az 1683/2012. (XII. 29.) Korm. határozat 5. pontjával megállapított szöveg.
 [^2]: A 3. pont b) alpontja az 1097/2014. (III. 3.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: A 4. pont az 1683/2012. (XII. 29.) Korm. határozat 7. pont a) alpontja szerint módosított szöveg.
-[^4]: Az 5. pont az 1097/2014. (III. 3.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 4. pont az 1722/2014. (XII. 5.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 5. pont az 1722/2014. (XII. 5.) Korm. határozat 1. pontjával megállapított szöveg.
 [^5]: A 8. pont az 1683/2012. (XII. 29.) Korm. határozat 7. pont c) alpontja szerint módosított szöveg.
-[^6]: A 10. pont az 1683/2012. (XII. 29.) Korm. határozat 7. pont d) alpontja szerint módosított szöveg.
+[^6]: A 10. pont az 1683/2012. (XII. 29.) Korm. határozat 7. pont d) alpontja, az 1722/2014. (XII. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^7]: A 12. pont az 1097/2014. (III. 3.) Korm. határozat 3. pontjával megállapított szöveg.
