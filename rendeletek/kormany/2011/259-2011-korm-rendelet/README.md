@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-259-20-
 | 2013-12-20 | 2011-259-20-22.10 | 435/2013. (XI. 19.) Korm. rendelet |
 | 2014-09-05 | 2011-259-20-22.11 | 435/2013. (XI. 19.) Korm. rendelet |
 | 2014-09-13 | 2011-259-20-22.12 | 229/2014. (IX. 5.) Korm. rendelet |
+| 2014-12-06 | 2011-259-20-22.13 | 300/2014. (XII. 5.) Korm. rendelet |
