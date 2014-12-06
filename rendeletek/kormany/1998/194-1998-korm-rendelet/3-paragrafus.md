@@ -102,11 +102,11 @@
 
 ## 2000-ben, amennyiben Magyarországon és a Közösség oldalán a megfelelő költségvetési források rendelkezésre állnak, az 1999-ben érvényes megosztás kerül alkalmazásra a Raphael programban való magyar részvételt illetően.''
 
-3. §[^6] Ez a rendelet a kihirdetése napján lép hatályba, de rendelkezéseit 1998. december 1-jétől kell alkalmazni. Végrehajtásáról a kultúráért felelős miniszter az európai integrációs ügyekért felelős miniszterrel egyetértésben gondoskodik.
+3. §[^6] Ez a rendelet a kihirdetése napján lép hatályba, de rendelkezéseit 1998. december 1-jétől kell alkalmazni. Végrehajtásáról a kultúráért felelős miniszter az európai uniós ügyek koordinációjáért felelős miniszterrel egyetértésben gondoskodik.
 
 [^1]: Európai Közösségek Hivatalos Lapja 1993. 12. 31. L347 sz. 269. oldal.
 [^2]: Európai Közösségek Hivatalos Lapja 1995. 12. 30. L317. sz. 30. oldal.
 [^3]: Európai Közösségek Hivatalos Lapja 1996. 04. 20. L99 sz. 20. oldal.
 [^4]: Európai Közösségek Hivatalos Lapja 1997. 10. 24. L291 sz. 26. oldal.
 [^5]: Európai Közösségek Hivatalos Lapja 1997. 11. 8. L305 sz. 31. oldal.
-[^6]: A 3. § a 221/2014. (IX. 4.) Korm. rendelet 189. §-a szerint módosított szöveg.
+[^6]: A 3. § a 303/2014. (XII. 5.) Korm. rendelet 8. §-a szerint módosított szöveg.
