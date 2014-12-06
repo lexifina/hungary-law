@@ -46,16 +46,15 @@
 
 ## Határidő: azonnal
 
-## 4. Abasár település ivóvízellátását biztosító kutak szennyezettségének feltárásával, valamint a település ivóvízellátásával kapcsolatban szükséges intézkedésekről szóló 1817/2013. (XI. 14.) Korm. határozat 1. pontjában a „2014. június 30.” szövegrész helyébe a „2015. április 30.” szöveg lép.
-
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1025/2014. (I. 30.) Korm. határozat 2. pontjában a „2014. december 15.” szövegrész helyébe a „2014. december 15., a 2. b) pont szerint átcsoportosított összeg tekintetében 2015. február 16.” szöveg lép.
+## 4–5.[^1]
 
 ## 6. A Kormány egyetért azzal, hogy az állami tankönyvfejlesztés és kiadás feltételeinek megteremtése érdekében a rendkívüli kormányzati intézkedésre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1158/2014. (III. 20.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 6. Egyéb oktatási intézmények cím, 2. Oktatáskutató és Fejlesztő Intézet alcím javára átcsoportosított összesen 1 306 369 ezer forintból 450 115 ezer forint a K1. Személyi juttatások kiemelt előirányzat, 123 839 ezer forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat, 338 775 ezer forint a K3. Dologi kiadások kiemelt előirányzat, 393 640 ezer forint a K6. Beruházások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
 ## 7. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1052/2014. (II. 11.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 6. Nemzeti Sírkerthez és Emlékhelyekhez kapcsolódó kiadások jogcímcsoport javára átcsoportosított 250,0 millió forintból 1,9 millió forint a K3. Dologi kiadások, 1,3 millió forint a K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2013. évi kötelezettségvállalással terhelt költségvetési maradványok rendkívüli visszahagyásáról és egyes kormányhatározatok módosításáról szóló 1426/2014. (VII. 28.) Korm. határozat 2. pontjában a „a Külgazdasági és Külügyminisztérium fejezet részére biztosított összeg tekintetében 2014. november 30., a többi tétel esetében 2015. június 30.” szövegrész helyébe a „ 2015. június 30.” szöveg lép.
-
-## 9. A Pekingi Magyar Intézet létrehozásához szükséges a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1304/2013. (VI. 7.) Korm. határozatban a „2014. június 30.” szövegrész helyébe a „2014. december 31.” szöveg lép.
+## 8–9.[^2]
 
 1. melléklet az 1721/2014. (XII. 5.) Korm. határozathoz
+
+[^1]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
