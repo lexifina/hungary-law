@@ -1,1 +1,0 @@
-29. § Az NKFI Alap terhére finanszírozott innovációs pályázatok kiírására, elbírálására, a támogatási döntés meghozatalára, a támogatási szerződés megkötésére a 25. §-t kell alkalmazni azzal, hogy Kollégiumokon az Innovációs Testületet kell érteni.

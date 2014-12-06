@@ -1,3 +1,0 @@
-20. § (1) Költségvetési kutatóhely nemzetközi szerződés alapján, valamint európai uniós forrásból kapott támogatás esetén az előleggel nem finanszírozott költségek fedezésére támogatásban részesülhet.
-
-(2) Ha mikro-, kis- és középvállalkozás vagy nonprofit kutatóhely kutatás-fejlesztési és innovációs projektjéhez nemzetközi szerződés alapján vagy európai uniós forrásból támogatást kap, és ezen projekt végrehajtása érdekében felmerült költségeinek fedezésére kölcsönt vesz fel, akkor – az állami támogatásokra vonatkozó szabályok betartásával – pályázati úton kamattámogatásban részesülhet.

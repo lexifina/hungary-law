@@ -1,0 +1,5 @@
+## VI. Fejezet
+
+## A KUTATÁS-FEJLESZTÉSI TEVÉKENYSÉG MINŐSÍTÉSE
+
+### 36–42. §

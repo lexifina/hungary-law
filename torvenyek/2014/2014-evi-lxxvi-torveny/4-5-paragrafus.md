@@ -1,0 +1,5 @@
+## II. Fejezet
+
+## A KUTATÁS-FEJLESZTÉS ÉS AZ INNOVÁCIÓ KORMÁNYZATI FELADATAI
+
+### 4–5. §
