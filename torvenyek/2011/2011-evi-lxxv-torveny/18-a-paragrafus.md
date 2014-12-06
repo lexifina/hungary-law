@@ -1,0 +1,1 @@
+18/A. § Gyűjtőszámlahitelre vonatkozó új hitelkeretszerződés az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény hatálybalépésének napját követően nem kezdeményezhető.
