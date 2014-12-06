@@ -4,14 +4,9 @@
 
 ## Határidő: azonnal
 
-## 2. A határozat 2. melléklete az 1. melléklet szerint módosul.
+## 2.[^2]
 
-1. melléklet az 1726/2014. (XII. 5.) Korm. határozathoz
+1. melléklet az 1726/2014. (XII. 5.) Korm. határozathoz[^3]
 
-A határozat 2. melléklet G:5 mezője helyébe a következő mező lép:
-
-|  | (G) |
-
-|  | (Támogathatóság feltételei) |
-
-| (5.) | A záró kifizetési kérelem benyújtásáig a támogatást igénylőnek csatolnia kell a jogerős építési engedélyeket, a projekt megvalósításához esetlegesen szükséges további engedélyes terveket, valamint az egységes környezethasználati engedély birtokában üzemeltethető létesítményeknél a pozitív tartalmú közmeghallgatásról szóló jegyzőkönyvet. |
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
