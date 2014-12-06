@@ -4,7 +4,7 @@ a) az értékesítők havonta
 
 aa) rendszerhasználati felhasználói alapdíjat és
 
-ab) tárhelyhasználat-arányos használati díjat,
+ab)[^6] sávosan meghatározott licitindítási díjat,
 
 b) a nyertes licitálók a nettó vételár 1%-át mint jutalékot
 
@@ -15,3 +15,5 @@ b) a nyertes licitálók a nettó vételár 1%-át mint jutalékot
 (3) A licitáló a licitálók nyilvántartásába történő első felvétele alkalmával 7000 Ft regisztrációs díjat fizet.
 
 (4) Az (1) és (3) bekezdésben említett díjakat az EÉR honlapján közzé kell tenni. Ezeket a bevételeket kizárólag az EÉR fejlesztésére és a működtetésével összefüggő kiadásokra (ideértve az auditálást, a rendszer továbbfejlesztését, az archiválást, a működtetés ellenőrzését, a felhasználók oktatását, valamint az üzemeltetés személyi és dologi kiadásait is) lehet fordítani.
+
+[^6]: A 6. § (1) bekezdés a) pont ab) alpontja a 299/2014. (XII. 5.) Korm. rendelet 17. § a) pontjával megállapított szöveg.

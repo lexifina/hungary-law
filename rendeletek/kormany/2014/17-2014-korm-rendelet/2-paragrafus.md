@@ -4,6 +4,7 @@
 
 2. § (1)[^1] Az EÉR létrehozására, működtetésére és üzemeltetésére a Kormány az állami vagyon felügyeletéért felelős minisztert jelöli ki (a továbbiakban: működtető).
 
-(2) Az (1) bekezdés szerinti fejlesztés megvalósításával és a működtetéssel összefüggésben kiírt közbeszerzési eljárásokban a bíráló bizottságba be kell vonni a Nemzeti Biztonsági Felügyelet és az elektronikus ügyintézési felügyelet képviselőjét is.
+(2)[^2] Az (1) bekezdés szerinti fejlesztés megvalósításával összefüggésben kiírt közbeszerzési eljárásokban a bíráló bizottságba be kell vonni a Nemzeti Biztonsági Felügyelet és az elektronikus ügyintézési felügyelet képviselőjét is.
 
 [^1]: A 2. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 801. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdése a 299/2014. (XII. 5.) Korm. rendelet 1. §-ával megállapított szöveg.

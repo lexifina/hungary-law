@@ -1,4 +1,4 @@
-## 29–31. §[^3]
+## 29–31. §[^32]
 
 1. melléklet a 17/2014. (II. 3.) Korm. rendelethez
 
@@ -64,4 +64,4 @@
 
 2.6. biztonsági házirend kialakítása (biztonsági szintek, feladatkörök, e-mail biztonsági rend, rendszerbiztonságot veszélyeztető cselekmények elhárítása – ide értve a tűzfalakat és szűrőszabályokat is – a rendszerbiztonságot veszélyeztető, vagy sértő események megszüntetése, az elkövető azonosíthatóságának biztosítása, ellenőrzési lépések, vészhelyzet-kezelés, biztonsági mentések).
 
-[^3]: A 29–31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 29–31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
