@@ -26,11 +26,14 @@ b) a Cstv. 49/A. § (4) bekezdés szerinti ajánlatot tévő pályázó a felsz�
 
 az ajánlati biztosítékot elveszíti, a felszámoló ezt az összeget az értékesítési bevétel részeként számolja el.
 
-(8)[^6] Az elővásárlási jog gyakorlását [Cstv. 49/C. § (3) bekezdés] nem lehet az ajánlati biztosíték megfizetésétől függővé tenni.
+(7a)[^6] Ha az árverés eredménytelen, az árverési előleg teljes összegét az eredménytelenség megállapításától számított 8 munkanapon belül valamennyi árverező részére vissza kell utalni. Ha az árverés eredményes, az árverési előleget az árverés nyertesénél a vételárba be kell számítani, a többi árverezőnek pedig az árverési előleg teljes összegét az eredményhirdetés napjától számított 8 munkanapon belül vissza kell utalni. Ha azonban a szerződés az árverés nyertesének érdekkörében felmerülő okból nem jön létre, vagy az árverés nyertese a vételárat az előírt határidőben nem fizeti meg, az árverési előleget elveszíti, a felszámoló ezt az összeget az értékesítési bevétel részeként számolja el.
+
+(8)[^7] Az elővásárlási jog gyakorlását [Cstv. 49/C. § (3) bekezdés] nem lehet az ajánlati biztosíték megfizetésétől függővé tenni.
 
 [^1]: A 2. § (3) bekezdése a 40/2012. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (4) bekezdése a 40/2012. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (5) bekezdése a 40/2012. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (6) bekezdését a 40/2012. (III. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^5]: A 2. § (7) bekezdését a 40/2012. (III. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^6]: A 2. § (8) bekezdését a 40/2012. (III. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^6]: A 2. § (7a) bekezdését a 299/2014. (XII. 5.) Korm. rendelet 19. §-a iktatta be.
+[^7]: A 2. § (8) bekezdését a 40/2012. (III. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
