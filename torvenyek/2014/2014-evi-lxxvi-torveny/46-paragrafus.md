@@ -1,0 +1,3 @@
+46. § (1) Az OTKA Iroda 2014. december 31-én foglalkoztatási jogviszonyban álló alkalmazottja közalkalmazotti jogviszonyának kormányzati szolgálati jogviszonnyá való átalakulására a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A–25/C. §-át kell alkalmazni.
+
+(2) A 2014. december 31-én a NIH alkalmazásában álló valamennyi személy, továbbá a Miniszterelnökség alkalmazásában álló, a Kutatási és Technológiai Innovációs Alap működtetésének adminisztratív feladatait ellátó személyek tekintetében a kinevezés módosítására a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 58. §-át kell alkalmazni.
