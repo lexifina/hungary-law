@@ -1,0 +1,5 @@
+14. § (1) A rendelet 1. §-a, 3. §-a, illetve 4. § (1) bekezdése alapján átvett feladatokhoz kapcsolódó vagyoni jogok, ingó és ingatlan állomány ellenérték nélkül, szükség estén a vagyonkezelői jog megváltoztatásával kerül átadásra a Miniszterelnökség, illetve az Igazságügyi Minisztérium részére.
+
+(2) A rendelet 1. §-a, 3. §-a, illetve 4. § (1) bekezdése szerinti feladatok átvételéről, illetve a jogutódlással kapcsolatos feladatok rendezéséről, valamint az ehhez kapcsolódó létszám- és forrásátcsoportosításról, továbbá a hazai és európai uniós pályázatok, projektek és egyéb kötelezettségvállalások tekintetében a Miniszterelnökségnek és a Külgazdasági és Külügyminisztériumnak, illetve az Igazságügyi Minisztériumnak és a Külgazdasági és Külügyminisztériumnak átadás-átvételi megállapodást kell kötni.
+
+(3) A rendelet hatálybalépésétől 2015. január 1-ig terjedő időszakban az Állandó Képviseletre diplomata, szakdiplomata tartós külszolgálatra való kihelyezéséhez, illetve a kihelyezés visszavonásához a Miniszterelnökséget vezető miniszter előzetes egyetértése szükséges.
