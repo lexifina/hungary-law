@@ -1,0 +1,1 @@
+## „(5) Az EÉR felületén a Cégközlönyben – a Cstv. 49/A. § (1) bekezdése szerinti módon közzétett – értékesítési hirdetménnyel azonos tartalmú hirdetményt kell közzétenni, legkésőbb a Cégközlönyben történő közzétételt követő munkanap 24 óráig. A hirdetményt az értékesítő hozza létre az EÉR felületén.”

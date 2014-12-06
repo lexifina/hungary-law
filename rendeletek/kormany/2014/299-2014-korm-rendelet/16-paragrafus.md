@@ -1,0 +1,1 @@
+## „(6) Az értékesítő a vételár megfizetését igazoló bizonylatokat – az EÉR-en való rögzítés céljából – a vételár, részletekben történő fizetés esetén pedig az adott vételár részlet megfizetésétől számított 10 napon belül köteles feltölteni az EÉR felületére. A bizonylatok az adott értékesítési eljárás dokumentumai között kerülnek rögzítésre az EÉR-ben.”
