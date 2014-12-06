@@ -6,7 +6,7 @@
 
 (3) A tudomásszerzés időpontja
 
-a) ha „nem kereste” jelzéssel érkezik vissza: a kézbesítés második megkísérlését követő 5. munkanap,
+a) ha nem kereste jelzéssel érkezik vissza: a kézbesítés megkísérlését követő 10. munkanap,
 
 b) ha „átvételt megtagadta” jelzéssel érkezik vissza: a kézbesítés megkísérlésének napja,
 

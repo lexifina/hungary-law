@@ -8,7 +8,9 @@
 
 (4) A pénzügyi intézménynek akkor is el kell számolnia a fogyasztóval, ha a fogyasztó állítja és a pénzügyi intézmény nem vitatja, hogy a fogyasztó e törvényből eredő követelése nem évült el, vagy az el nem évülés tényét bíróság jogerős ítélete megállapította.
 
-(5) A fogyasztói követelés elszámolását az e törvényben és az MNB rendeletében meghatározott időpontokkal kell elvégezni.
+(5) A 2014. évi XXXVIII. törvény 1. § (1) bekezdése szerinti deviza alapú fogyasztói kölcsönszerződés és az 1. § (1a) bekezdése szerinti fogyasztói kölcsönszerződés esetén a fogyasztói követelés elszámolását 2015. február 1-i elszámolási fordulónappal kell elvégezni. A 2014. évi XXXVIII. törvény 1. § (1) bekezdése szerinti forint alapú fogyasztói kölcsönszerződés esetén a fogyasztói követelés elszámolását 2015. június 30-i elszámolási fordulónappal kell elvégezni.
+
+(5a) Ha a fogyasztói kölcsönszerződésben a fogyasztó személyében változás következett be, a pénzügyi intézményt az elszámolási kötelezettség az elszámolás időpontjában vele szerződéses viszonyban álló fogyasztóval szemben terheli.
 
 (6) A pénzügyi intézmény elszámolási kötelezettségét nem érinti, ha az elszámolás tárgyát képező fogyasztói kölcsönszerződésből eredő követelésekkel összefüggésben a bíróság jogerős ítéletet hozott, kivéve, ha a jogerős ítélet azt állapította meg, hogy a szerződés egésze érvénytelen, és azt a bíróság nem nyilvánította érvényessé vagy a határozathozatalig terjedő időre hatályossá.
 

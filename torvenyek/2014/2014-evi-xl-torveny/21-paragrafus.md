@@ -1,5 +1,7 @@
 21. § (1) A Hpt. 288. § (8) bekezdése nem alkalmazható; a panasz elutasítása esetén a fogyasztónak – ha a panaszban foglaltakat továbbra is fenntartja – a pénzügyi intézmény álláspontjának kézbesítésétől számított 30 napon belül a Pénzügyi Békéltető Testület eljárását kell kezdeményeznie. Ha a kérelem benyújtásában akadályozva volt, akkor az akadály megszűnésétől számított 30 napon belül, de legkésőbb a kézbesítéstől számított 6 hónapon belül kell az eljárást kezdeményezni. Erről a pénzügyi intézmény a válaszában tájékoztatja a fogyasztót, és megadja a Pénzügyi Békéltető Testület levelezési címét.
 
+(1a) A panaszt kizárólag írásban lehet előterjeszteni és azt a pénzügyi intézmény az annak beérkezését követő 60 napon belül köteles megválaszolni.
+
 (2) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB törvény) szerinti Pénzügyi Békéltető Testület eljárására vonatkozó szabályokat az e törvényben foglalt eltéréssel kell alkalmazni.
 
 (3) A Pénzügyi Békéltető Testület eljárásának kezdeményezésekor a fogyasztó kérelmének tartalmaznia kell az arra irányuló határozott kérelmet is, hogy a Pénzügyi Békéltető Testület állapítsa meg, hogy
