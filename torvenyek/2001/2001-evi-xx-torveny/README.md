@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-20-00-00
 | 2014-05-06 | 2012. évi XXXVI. törvény | 2001-20-00-00.39 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 2001-20-00-00.40 |
 | 2014-09-30 | 2014. évi XXXIX. törvény | 2001-20-00-00.41 |
+| 2014-12-06 | 2014. évi LXXIX. törvény | 2001-20-00-00.42 |
