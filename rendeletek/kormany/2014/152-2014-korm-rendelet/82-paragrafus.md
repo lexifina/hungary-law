@@ -14,7 +14,7 @@ ac) összehangolja a tartalmi és technikai deregulációt,
 
 ad) megszervezi és lebonyolítja a minisztériumokban jogi és kodifikációs feladatokat végző személyek képzését,
 
-b)[^34] gondoskodik a jogszabályok és más jogi aktusok kihirdetéséről, illetve közzétételéről, valamint azok módosításokkal egységes szerkezetbe foglalt, hatályos szövegének tartalmilag hiteles, a jogalkotásról szóló törvény előírásainak és a jogszabályszerkesztés szabályainak megfelelő, nyomdakész formában történő megjelentetésről, a Magyar Közlöny szerkesztéséről, és kijelöli a Magyar Közlöny felelős szerkesztőjét és annak helyetteseit,
+b)[^37] gondoskodik a jogszabályok és más jogi aktusok kihirdetéséről, illetve közzétételéről, valamint azok módosításokkal egységes szerkezetbe foglalt, hatályos szövegének tartalmilag hiteles, a jogalkotásról szóló törvény előírásainak és a jogszabályszerkesztés szabályainak megfelelő, nyomdakész formában történő megjelentetésről, a Magyar Közlöny szerkesztéséről, és kijelöli a Magyar Közlöny felelős szerkesztőjét és annak helyetteseit,
 
 c) vezeti és elektronikusan közzéteszi a jogszabályok és más jogi aktusok nyilvántartását és a Magyar Közlöny Lap- és Könyvkiadó Kft. útján gondoskodik a jogalkotásról szóló törvény szerinti elektronikus jogszabálygyűjtemény közzétételéről.
 
@@ -46,7 +46,7 @@ h) fejleszti és felügyeli az igazságügyi informatikai rendszerek működés�
 
 a) ellátja az Európai Unió keretében megvalósuló igazságügyi együttműködéssel kapcsolatos feladatokat,
 
-b)[^35]
+b)[^38]
 
 c) összehangolja az Európai Unió jogának való megfelelés céljából folytatott jogharmonizációs tevékenységet, ennek keretében
 
@@ -58,7 +58,9 @@ cc) jogszabály megalkotására irányuló előterjesztéshez kapcsolódóan nyi
 
 cd) ellátja a kereskedelem, illetve az áruk szabad áramlása akadályaival kapcsolatban jogszabályban meghatározott értesítési és bejelentési eljárásokban az egyes nemzetközi szervezetek, az Európai Unió intézményei és tagállamai felé megteendő, illetve az ezektől érkező értesítések és bejelentések továbbításával összefüggő feladatokat,
 
-ce)[^36] – a Kormány eljárás tárgya szerint felelős tagjával együttműködve – ellátja a Kormány képviseletét az Európai Unió jogának megsértése miatt indult eljárásoknak az Európai Unió Bírósága előtti eljárást megelőző szakaszaiban (ideértve a kötelezettségszegési eljárás megindítása előtti szakaszban az Európai Bizottsággal történő egyeztetést is), koordinálja a képviselet ellátásához szükséges iratok előkészítését, valamint elkészíti és benyújtja a beadványokat,
+ce)[^39] ellátja az Európai Unió egységes belső piacának hatékony működéséhez szükséges belső piaci koordinációval kapcsolatos feladatokat, működteti a belső piaci problémamegoldó központot (SOLVIT), valamint a belső piaci információs rendszert és a Szolgáltatási Notifikációs Központot,
+
+cf)[^40] – a Kormány eljárás tárgya szerint felelős tagjával együttműködve, a Miniszterelnökséget vezető miniszter tájékoztatása mellett – ellátja a Kormány képviseletét az Európai Unió jogának megsértése miatt indult eljárásoknak az Európai Unió Bírósága előtti eljárást megelőző szakaszaiban (ideértve a kötelezettségszegési eljárás megindítása előtti szakaszban az Európai Bizottsággal történő egyeztetést is), koordinálja a képviselet ellátásához szükséges iratok előkészítését, valamint elkészíti és benyújtja a beadványokat,
 
 d) az Európai Unió Bírósága előtti eljáráshoz kapcsolódóan
 
@@ -82,6 +84,7 @@ g) felel a Magyarország által megkötött közjogi, polgári jogi, családjogi
 
 (9) A miniszter a Kormány eseti döntése alapján felel a több miniszter feladatát érintő törvények előkészítéséért.
 
-[^34]: A 82. § (3) bekezdés b) pontja a 167/2014. (VII. 17.) Korm. rendelet 20. §-a szerint módosított szöveg.
-[^35]: A 82. § (8) bekezdés b) pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
-[^36]: A 82. § (8) bekezdés c) pont ce) alpontja a 167/2014. (VII. 17.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^37]: A 82. § (3) bekezdés b) pontja a 167/2014. (VII. 17.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^38]: A 82. § (8) bekezdés b) pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^39]: A 82. § (8) bekezdés c) pont ce) alpontja a 303/2014. (XII. 5.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^40]: A 82. § (8) bekezdés c) pont ce) alpontját a 303/2014. (XII. 5.) Korm. rendelet 4. § (2) bekezdése iktatta be.

@@ -6,6 +6,6 @@ a) kidolgozza a Kormány közfoglalkoztatási politikáját, gondoskodik annak �
 
 b) ellátja a közfoglalkoztatásban részt vevő személyek képzésével kapcsolatos feladatokat,
 
-c)[^15] megszervezi és a munkaügyi központok és kirendeltségeik közreműködésével működteti a közfoglalkoztatás rendszerét, meghatározza a közfoglalkoztatás eszközrendszerét, elemzi és ellenőrzi annak működését, a közfoglalkoztatás tekintetében szakmai irányító szervi jogokat gyakorol a fővárosi és megyei kormányhivatalok tevékenysége felett.
+c)[^18] megszervezi és a munkaügyi központok és kirendeltségeik közreműködésével működteti a közfoglalkoztatás rendszerét, meghatározza a közfoglalkoztatás eszközrendszerét, elemzi és ellenőrzi annak működését, a közfoglalkoztatás tekintetében szakmai irányító szervi jogokat gyakorol a fővárosi és megyei kormányhivatalok tevékenysége felett.
 
-[^15]: A 31. § (2) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 835. § a) pontja szerint módosított szöveg.
+[^18]: A 31. § (2) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 835. § a) pontja szerint módosított szöveg.

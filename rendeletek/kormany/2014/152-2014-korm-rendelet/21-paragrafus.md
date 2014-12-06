@@ -54,7 +54,7 @@
 
 26. terrorizmus elleni küzdelemért,
 
-27.[^11]
+27.[^14]
 
 28. településüzemeltetésért,
 
@@ -66,4 +66,4 @@
 
 felelős tagja.
 
-[^11]: A 21. § 27. pontját a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.
+[^14]: A 21. § 27. pontját a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.

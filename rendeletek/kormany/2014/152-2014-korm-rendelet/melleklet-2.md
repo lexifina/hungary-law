@@ -22,6 +22,8 @@
 
 |  | 8 | Nemzeti Innovációs Hivatal | irányítás |
 
+|  | 8a. | Nemzeti Kommunikációs Hivatal | irányítás |
+
 |  | 9 | Nemzetstratégiai Kutatóintézet | irányítás |
 
 |  | 10 | Nemzeti Örökség Intézete | irányítás |

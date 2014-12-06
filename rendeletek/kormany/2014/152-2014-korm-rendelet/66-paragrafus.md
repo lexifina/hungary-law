@@ -16,17 +16,17 @@ a) jogszabályban meghatározottak szerint – a kifizetések végrehajtásával
 
 b) ellátja a szakmaközi szervezetek elismerésével, valamint a termelői csoportok, a termelői szervezetek és ezek társulásai elismerésével és működési programjával kapcsolatosan jogszabályban meghatározott feladatokat,
 
-c)[^29] gondoskodik a mezőgazdaságot ért rendkívüli és tömeges elemi károk kezeléséről, ellátja a mezőgazdasági vízhasznosítással kapcsolatos kormányzati feladatokat,
+c)[^32] gondoskodik a mezőgazdaságot ért rendkívüli és tömeges elemi károk kezeléséről, ellátja a mezőgazdasági vízhasznosítással kapcsolatos kormányzati feladatokat,
 
 d) ellátja az ágazat finanszírozását végző pénzintézetekkel és kezességvállaló intézményekkel kapcsolatos kormányzati feladatokat,
 
 e) ellátja a nemzetközi és az európai kötelezettségeken alapuló, nemzeti szabványosítással és az akkreditálással összefüggő feladatokat,
 
-f)[^30] ellátja az Európai Unió mezőgazdasági piacok támogatását célzó pénzügyi eszközével kapcsolatos hatósági feladatokat,
+f)[^33] ellátja az Európai Unió mezőgazdasági piacok támogatását célzó pénzügyi eszközével kapcsolatos hatósági feladatokat,
 
 g) felel az agrárpiac működésének szervezéséért,
 
 h) együttműködik a Nemzeti Agrárgazdasági Kamarával.
 
-[^29]: A 66. § (2) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 836. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^30]: A 66. § (2) bekezdés f) pontja a 221/2014. (IX. 4.) Korm. rendelet 827. §-ával megállapított szöveg.
+[^32]: A 66. § (2) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 836. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^33]: A 66. § (2) bekezdés f) pontja a 221/2014. (IX. 4.) Korm. rendelet 827. §-ával megállapított szöveg.

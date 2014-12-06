@@ -6,19 +6,31 @@ b) a köztisztviselők tartós külszolgálatára,
 
 c) a diplomáciai kiváltságokkal és mentességekkel kapcsolatos eljárásra, valamint az ezen kiváltságok és mentességek által érintett eljárásokra,
 
-d) a konzuli védelemre, valamint a tiszteletbeli konzulok megbízásának és fogadásának rendjére
+d) a konzuli védelemre, valamint a tiszteletbeli konzulok megbízásának és fogadásának rendjére,
+
+e)[^43] a humanitárius segítségnyújtásra
 
 vonatkozó jogszabályokat.
 
 (2) A miniszter a külpolitikáért való felelőssége keretében
 
-a) felel a kül- és biztonságpolitikáért, e tekintetben
+a)[^44] felel a kül-, biztonság- és védelempolitikáért, e tekintetben
 
-aa) javaslatot készít a Kormány kül- és biztonságpolitikai tevékenységére és irányítja az ebből eredő kormányzati feladatok előkészítését, koordinálja és ellenőrzi annak végrehajtását,
+aa) javaslatot készít a Kormány kül-, biztonság és védelempolitikai tevékenységére és irányítja az ebből eredő kormányzati feladatok előkészítését, koordinálja és ellenőrzi annak végrehajtását,
 
-ab) tájékoztatja a Kormányt a nemzetközi és biztonságpolitikai helyzetről, valamint Magyarország nemzetközi kapcsolatainak alakulásáról,
+ab) kidolgozza az európai uniós külkapcsolatok, különösen a közös kül- és biztonságpolitika – ennek keretében a szomszédságpolitika – általános kérdéseivel kapcsolatos magyar álláspontot, és közreműködik az európai uniós külpolitika és szomszédságpolitika megvalósításában,
 
-ac) előmozdítja a külpolitika civil kapcsolatainak erősítését,
+ac) ellátja az európai uniós bővítési folyamattal összefüggő feladatok kormányzati szintű koordinációját,
+
+ad) előkészíti és képviseli az Európai Unió bővítésével kapcsolatban az uniós intézményekben képviselendő magyar álláspontot, ennek keretében részt vesz az Európai Unió illetékes munkacsoportjainak munkájában,
+
+ae) képviseli a Kormányt az Európai Unió Külügyek Tanácsa ülésein,
+
+af) tájékoztatja a Kormányt a nemzetközi és biztonságpolitikai helyzetről, valamint Magyarország nemzetközi kapcsolatainak alakulásáról,
+
+ag) előmozdítja a külpolitika civil kapcsolatainak erősítését,
+
+ah) felel az Állandó Képviselet funkcionális működtetéséért a Miniszterelnökséget vezető miniszter szakmai irányítása mellett.
 
 b) felel az egységes kormányzati külpolitika koordinálásáért, e tekintetben
 
@@ -52,13 +64,17 @@ db) javaslatot tesz a Kormánynak a magyar állampolgárok hazatérésének elő
 
 dc) felhatalmazást ad a konzuli tisztviselőknek egyes közjegyzői feladatok végzésére, gondoskodik e konzuli tisztviselők jegyzékének közzétételéről,
 
-e) felel a külföldre utazásról, valamint a külföldiek beutazásáról és tartózkodásáról szóló jogszabályokban meghatározott egyes feladatok ellátásáért, e tekintetben
+e)[^45] felel a külföldre utazásról, valamint a külföldiek beutazásáról és tartózkodásáról szóló jogszabályokban meghatározott egyes feladatok, továbbá az ehhez kapcsolódó egyes európai uniós feladatok ellátásáért, e tekintetben
 
-ea) ellátja a hatáskörébe utalt feladatokat a diplomata- és a külügyi szolgálati útlevelek vonatkozásában,
+ea) ellátja a hatáskörébe utalt feladatokat a diplomata- és a külügyi szolgálati útlevelek vonatkozásában, valamint a magánútlevelek tekintetében a konzuli szolgálat, mint útlevélhatóság által hatáskörébe utalt feladatokat,
 
-eb) megállapítja a diplomáciai, illetve nemzetközi jogon alapuló egyéb mentességet élvező személyeknek Magyarország területére történő be- és kiutazására, tartózkodására, valamint munkavállalására vonatkozó szabályokat, valamint
+eb) megállapítja a diplomáciai, illetve nemzetközi jogon alapuló egyéb mentességet élvező személyeknek Magyarország területére történő be- és kiutazására, tartózkodására, valamint munkavállalására vonatkozó szabályokat,
 
 ec) irányítja az általa vezetett minisztérium és a külképviseletek vízumkiadási tevékenységét, és gondoskodik a vízumdíjak beszedéséről,
+
+ed) kialakítja ez európai uniós vízumpolitikával kapcsolatos magyar álláspontot és képviseli azt az EU illetékes fórumain, valamint
+
+ee) közreműködik az Európai Unió vízumrendészeti és konzuli tárgyú jogalkotásában, ennek érdekében – feladatkörében – eljár az EU illetékes munkacsoportjaiban, illetve a Vízum Munkacsoportban ellátja a Kormány képviseletét,
 
 f) felel a nemzetközi szerződésekkel kapcsolatos eljárás koordinációjáért, e tekintetben
 
@@ -76,7 +92,7 @@ ff) megállapítja a nemzetközi szerződések hatálybalépésének, valamint m
 
 fg) működteti Magyarország szerződéstárát,
 
-g) felel a diplomáciai protokollért,
+g)[^46] felel a diplomáciai protokollért, valamint a külföldi államfők és kormányfők fogadásáért,
 
 h) felel a nemzetközi jogon alapuló viszonosság megállapításáért, valamint egyes jogsegélyügyekért, e tekintetben állást foglal a nemzetközi viszonosság fennállásának kérdésében,
 
@@ -88,4 +104,15 @@ ib) gondoskodik a közigazgatási szervek határon átnyúló együttműködéss
 
 ic) ellátja a közigazgatási szervek nemzetközi együttműködésének koordinálását, részt vesz a közigazgatási szervek nemzetközi képviseletében, elősegíti azok fejlesztését,
 
-id) elősegíti a területi közigazgatási szervek részvételét a nemzetközi fejlesztési együttműködésben.
+id) elősegíti a területi közigazgatási szervek részvételét a nemzetközi fejlesztési együttműködésben,
+
+j)[^47] koordinálja és irányítja a nemzetközi humanitárius segítségnyújtást,
+
+k)[^48] kialakítja az Állandó Képviselet működésére vonatkozó szabályokat.
+
+[^43]: A 89. § (1) bekezdés e) pontját a 303/2014. (XII. 5.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^44]: A 89. § (2) bekezdés a) pontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^45]: A 89. § (2) bekezdés e) pontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^46]: A 89. § (2) bekezdés g) pontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^47]: A 89. § (2) bekezdés j) pontját a 303/2014. (XII. 5.) Korm. rendelet 5. § (6) bekezdése iktatta be.
+[^48]: A 89. § (2) bekezdés k) pontját a 303/2014. (XII. 5.) Korm. rendelet 5. § (7) bekezdése iktatta be.
