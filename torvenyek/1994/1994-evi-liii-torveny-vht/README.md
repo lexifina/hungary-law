@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-53-00-00
 | 2014-05-01 | 2013. évi CCXII. törvény | 1994-53-00-00.102 |
 | 2014-05-16 | 2014. évi XVII. törvény | 1994-53-00-00.103 |
 | 2014-11-26 | 2014. évi LXXIII. törvény | 1994-53-00-00.104 |
+| 2014-12-06 | 2014. évi LXVI. törvény | 1994-53-00-00.105 |
