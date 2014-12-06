@@ -1,6 +1,6 @@
-## 7. §[^3] E rendelet rendelkezéseit – a 2. § a) pontja kivételével – az 1. melléklet 1. pontjában foglalt táblázatnak a szennyvíz-elvezetési és -tisztítási beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 29/2013. (II. 12.) Korm. rendelet módosításáról szóló 231/2014. (IX. 5.) Korm. rendelettel [a továbbiakban: 231/2014. (IX. 5.) Korm. rendelet] megállapított 284. sorában, valamint az 1. melléklet 2. pontjában foglalt táblázatnak a 231/2014. (IX. 5.) Korm. rendelettel megállapított 47–90. sorában meghatározott projektekkel összefüggő, folyamatban lévő ügyekben is alkalmazni kell.
+## 8. §[^5] E rendelet rendelkezéseit – a 2. § a) pontja kivételével – az 1. melléklet 1. pontjában foglalt táblázatnak az egyes ivóvízminőség-javítási, szennyvíz-elvezetési és -tisztítási beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 307/2014. (XII. 5.) Korm. rendelettel megállapított 285–291. sorában meghatározott projektekkel összefüggő, folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 29/2013. (II. 12.) Korm. rendelethez[^4]
+1. melléklet a 29/2013. (II. 12.) Korm. rendelethez[^6]
 
 ## A kiemelt jelentőségű ügyek alapját képező szennyvíz-elvezetési és -tisztítási beruházások
 
@@ -576,6 +576,20 @@
 
 | 284. | NAGYBAJOM VÁROS ÖNKORMÁNYZAT | Nagybajom | – | KEOP-1.2.0/09-11-2012-0003 |
 
+| 285. | BÁTASZÉK VÁROS ÖNKORMÁNYZATA | Bátaszék | Báta | KEOP-7.1.0/11- 2012-0064 |
+
+| 286. | BÖHÖNYE KÖZSÉG ÖNKORMÁNYZATA | Böhönye | – | KEOP-7.1.0/11- 2013-0002 |
+
+| 287. | DÁNY KÖZSÉG ÖNKORMÁNYZATA | Dány | – | KEOP-7.1.0/11- 2013-0003 |
+
+| 288. | BATTONYA VÁROS ÖNKORMÁNYZATA | Battonya | – | KEOP-7.1.0/11- 2013-0004 |
+
+| 289. | TÖRÖKSZENTMIKLÓS VÁROSI ÖNKORMÁNYZAT | Törökszentmiklós | – | KEOP-7.1.0/11- 2013-0005 |
+
+| 290. | MÁNDOK VÁROS ÖNKORMÁNYZATA | Mándok | – | KEOP-7.1.0/11- 2013-0009 |
+
+| 291. | LÉTAVÉRTES VÁROSI ÖNKORMÁNYZAT | Létavértes | – | KEOP-7.1.0/11- 2013-0012 |
+
 * A KEOP azonosítók közlése tájékoztató jellegű, azok a projektek könnyebb beazonosíthatóságát szolgálják. Az előkészítési fázisban levő projektek a megvalósítás szakaszában új azonosítóval rendelkeznek majd.
 
 2. Értékelés alatt álló projektek
@@ -766,5 +780,5 @@
 
 | 90. | BUDAKALÁSZ VÁROS ÖNKORMÁNYZATA | KEOP-1.2.0/09-11-2013-0064 |
 
-[^3]: A 7. §-t a 231/2014. (IX. 5.) Korm. rendelet 1. §-a iktatta be.
-[^4]: Az 1. melléklet a 357/2013. (X. 8.) Korm. rendelet 2. §-a, a 84/2014. (III. 14.) Korm. rendelet 2. §-a, a 231/2014. (IX. 5.) Korm. rendelet 2–3. §-a szerint módosított szöveg.
+[^5]: A 8. §-t a 307/2014. (XII. 5.) Korm. rendelet 5. §-a iktatta be.
+[^6]: Az 1. melléklet a 357/2013. (X. 8.) Korm. rendelet 2. §-a, a 84/2014. (III. 14.) Korm. rendelet 2. §-a, a 231/2014. (IX. 5.) Korm. rendelet 2–3. §-a, a 307/2014. (XII. 5.) Korm. rendelet 6. §-a szerint módosított szöveg.
