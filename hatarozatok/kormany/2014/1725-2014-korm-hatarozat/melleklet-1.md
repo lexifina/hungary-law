@@ -14,6 +14,8 @@
 
 ## Határidő: azonnal
 
-## 5. visszavonja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 1. prioritásának módosításáról, valamint a prioritás keretében megvalósuló projektek támogatásának növeléséről szóló 1530/2014. (IX. 18.) Korm. határozat 1. pontját és 1. mellékletét.
+## 5.[^1]
 
 1. melléklet az 1725/2014. (XII. 5.) Korm. határozathoz
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
