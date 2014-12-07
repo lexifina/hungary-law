@@ -1,7 +1,3 @@
-## 13. § Az R7. a következő 6/B. §-sal egészül ki:
+## 13. §[^10]
 
-## „6/B. § A tűzvédelmi hatósági és szakhatósági eljárásokban, ha az ügyfél kérelme jog megszerzésére irányul és ellenérdekű ügyfél az első fokú eljárásban nem vett részt,
-
-## a) az ügyfelet nem illeti meg a kérelmezett jog gyakorlása, ha a tűzvédelmi hatóság az előírt határidőben nem hoz döntést,
-
-## b) a tűzvédelmi szakhatóság hozzájárulását nem kell megadottnak tekinteni, ha a tűzvédelmi szakhatóság az előírt határidőn belül nem ad ki állásfoglalást.”
+[^10]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
