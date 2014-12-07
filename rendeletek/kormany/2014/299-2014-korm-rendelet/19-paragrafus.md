@@ -1,3 +1,0 @@
-## 18. § Hatályát veszti az Eér. Korm. r. 5. § (1) bekezdés d) pontja.
-
-## 2. A felszámolási eljárásban az adós vagyontárgyainak nyilvános értékesítésére vonatkozó részletes szabályokról, továbbá a felszámolás számviteli feladatairól szóló 225/2000. (XII. 19.) Korm. rendelet módosításáról szóló 237/2009. (X. 20.) Korm. rendelet módosítása
