@@ -1,4 +1,4 @@
-1. melléklet az 1/2014. (III. 4.) MEKH rendelethez
+1. melléklet az 1/2014. (III. 4.) MEKH rendelethez[^11]
 
 Igazgatási szolgáltatási díjak
 
@@ -136,7 +136,7 @@ A) Földgázellátással kapcsolatos hatósági eljárások igazgatási szolgál
 
 | 65 | Pénzügyi biztosíték módosítása iránti kérelem elbírálása |  |
 
-| 66 | a) | a pénzügyi biztosíték időbeli hatálya esetében | 100 |
+| 66 | a) | a pénzügyi biztosíték időbeli hatálya vagy összege esetében | 100 |
 
 | 67 | b) | egyéb esetben | 500 |
 
@@ -175,6 +175,14 @@ A) Földgázellátással kapcsolatos hatósági eljárások igazgatási szolgál
 | 84 | Hatósági ár alkalmazásának ellenőrzésére benyújtott kérelem elbírálása | 100 |
 
 | 85 | Szakhatósági közreműködés területrendezési eljárásban (az energiaellátás biztonságának biztosításához való szükségesség megítélése) | 500 |
+
+| 86 | Engedély visszavonása iránti kérelem elbírálása: |  |
+
+| 87 | a) | földgáz-kereskedelemi engedély esetén | 50 |
+
+| 88 | b) | korlátozott földgáz-kereskedelemi engedély esetén | 50 |
+
+| 89 | Elvi engedély kiadása iránti kérelem korlátozott földgáz-kereskedelmi engedélyezési eljárásban | 2000 |
 
 B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
@@ -294,7 +302,9 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 57 | i) | egyéb esetben | az adott engedély kiadása díjának 20%-a |
 
-| 58 | Engedély visszavonása iránti kérelem elbírálása, kivéve villamosenergia-termelők esetében | az adott engedély kiadása díjának 50%-a |
+| 58 | Engedély visszavonása iránti kérelem elbírálása, kivéve villamosenergia-termelők és villamosenergia-kereskedők esetében | az adott engedély kiadása díjának 50%-a |
+
+| 58/A | Engedély visszavonása iránti kérelem elbírálása villamosenergia-kereskedők esetében | 50 |
 
 | 59 | Üzemi szabályzat, kereskedelmi szabályzat, elosztói szabályzat |  |
 
@@ -462,6 +472,8 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 141 | Szakhatósági közreműködés területrendezési eljárásban (az energiaellátás biztonságának biztosításához való szükségesség megítélése) | 500 |
 
+| 142 | Rendszeres információszolgáltatási kötelezettség alóli mentesség kérelem benyújtása | 10 |
+
 C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
 |  | A | B |
@@ -582,13 +594,13 @@ E) Víziközmű-szolgáltatással kapcsolatos hatósági eljárások igazgatási
 
 | 2 | Hatósági bizonyítvány kiállítása az ellátásért felelős személyének igazolása céljából |  |
 
-| 3 | a) | a Hivatal nyilvántartásában nem szereplő tény, állapot, egyéb adat alapján [a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 83. § (2) bekezdés a)-b) pontja] | 150 |
+| 3 | a) | a Hivatal nyilvántartásában nem szereplő tény, állapot, egyéb adat alapján [a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 83. § (2) bekezdés a)–b) pontja] | 150 |
 
 | 4 | b) | a Hivatal nyilvántartásában szereplő adat alapján [Ket. 83. § (2) bekezdés c) pontja] | 25 |
 
 | 5 | Pályázati kiírás Hivatal általi jóváhagyása | 150 |
 
-| 6 | Üzemeltetési szerződés jóváhagyása |  |
+| 6 | Üzemeltetési szerződés jóváhagyása (szerződésenként) |  |
 
 | 7 | a) | jóváhagyás iránti kérelem elbírálása pályázat esetén | 50 |
 
@@ -598,7 +610,7 @@ E) Víziközmű-szolgáltatással kapcsolatos hatósági eljárások igazgatási
 
 | 10 | Működési engedélyezési eljárás |  |
 
-| 11 | a) | működési engedély iránti kérelem elbírálása | 1 500 |
+| 11 | a) | működési engedély iránti kérelem elbírálása | 1500 |
 
 | 12 | b) | működési engedély módosítása iránti kérelem elbírálása | 325 |
 
@@ -606,27 +618,43 @@ E) Víziközmű-szolgáltatással kapcsolatos hatósági eljárások igazgatási
 
 | 14 | Egyes cégjogi eseményekre vonatkozó hozzájárulás (egyesülés, szétválás, alaptőke/törzstőke legalább egynegyed résszel történő leszállítása, szavazatok huszonöt vagy ötven százalékát meghaladó, illetve hetvenöt százalékát elérő befolyás szerzése) | 75 |
 
-| 15 | A víziközmű-üzemeltetés meghatározott részeinek kiszervezésének engedélyezésére irányuló kérelem elbírálása (tevékenységenként) | 200 |
+| 15 | A víziközmű-üzemeltetés meghatározott részeinek kiszervezése |  |
 
-| 16 | Üzletszabályzat |  |
+| 16 | a) | engedélyezésére irányuló kérelem elbírálása (tevékenységenként) | 200 |
 
-| 17 | a) | jóváhagyására irányuló eljárás | 200 |
+| 17 | b) | kiszervezési engedély módosítására irányuló kérelem | 50 |
 
-| 18 | b) | módosításának jóváhagyására irányuló eljárás | 50 |
+| 18 | Üzletszabályzat |  |
 
-| 19 | Beszerzési szabályzat |  |
+| 19 | a) | jóváhagyására irányuló eljárás | 200 |
 
-| 20 | a) | jóváhagyására irányuló eljárás | 75 |
+| 20 | b) | módosításának jóváhagyására irányuló eljárás | 50 |
 
-| 21 | b) | módosításának jóváhagyására irányuló eljárás | 25 |
+| 21 | Beszerzési szabályzat |  |
 
-| 22 | Hatósági díjtól eltérő díj alkalmazásának előzetes jóváhagyása | 150 |
+| 22 | a) | jóváhagyására irányuló eljárás | 75 |
 
-| 23 | Gördülő fejlesztési terv jóváhagyása |  |
+| 23 | b) | módosításának jóváhagyására irányuló eljárás | 25 |
 
-| 24 | a) | felújítási és pótlási terv jóváhagyása | 325 |
+| 24 | Hatósági díjtól eltérő díj alkalmazásának előzetes jóváhagyása | 150 |
 
-| 25 | b) | beruházási terv jóváhagyása | 175 |
+| 25 | Gördülő fejlesztési terv jóváhagyása |  |
+
+| 26 | a) | felújítási és pótlási terv jóváhagyása | 325 |
+
+| 27 | b) | beruházási terv jóváhagyása | 175 |
+
+| 28 | Víziközművé minősítés | 50 |
+
+| 29 | Nemzeti Víziközmű Nyilvántartásból adatszolgáltatási eljárás |  |
+
+|  | a) | másolat kiadása | 5 |
+
+|  | b) | másolat kiadása, 2. oldaltól megkezdett oldalanként | 0,5 |
+
+|  | c) | kivonat kiadása | 3 |
+
+|  | d) | kivonat kiadása, 2. oldaltól megkezdett oldalanként | 0,5 |
 
 F) Hulladékgazdálkodási közszolgáltatással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
@@ -634,4 +662,6 @@ F) Hulladékgazdálkodási közszolgáltatással kapcsolatos hatósági eljárá
 
 | 1 | Az igazgatási szolgáltatási díj-köteles hatósági eljárás megnevezése | Igazgatási szolgáltatási díj mértéke (ezer forint) |
 
-| 2 | Hatósági díjtól eltérő díj alkalmazásának előzetes jóváhagyása | 150 |
+| 2 | A Ht. 47/B. §-a szerinti hulladékgazdálkodási közszolgáltatási díj megállapítása | 150 |
+
+[^11]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a szerint módosított szöveg.
