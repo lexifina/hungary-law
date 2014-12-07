@@ -54,4 +54,6 @@ egy-egy képviselője.
 
 12. Azok a személyek, akik az e határozat hatálybalépését megelőző napon az Idősügyi Tanács tagjai voltak, a határozat hatálybalépésével a Tanács tagjaivá válnak. Az Idősügyi Tanács jogszabályban meghatározott hatásköreit az Idősek Tanácsa gyakorolja.
 
-13. Hatályát veszti az Idősügyi Tanácsról szóló 1275/2010. (XII. 8.) Korm. határozat.
+13.[^1]
+
+[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
