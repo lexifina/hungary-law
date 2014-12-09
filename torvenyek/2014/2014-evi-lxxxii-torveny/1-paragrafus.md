@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad egyrészről az Európai Unió és tagállamai, másrészről Ukrajna közötti Társulási Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
