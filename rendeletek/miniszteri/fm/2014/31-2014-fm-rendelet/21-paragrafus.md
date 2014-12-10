@@ -1,0 +1,3 @@
+## 20. § Az 50/2012. (V. 25.) VM rendelet 19. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) Ha az MVH az ellenőrzése során megállapítja, hogy a fenntartó nem tett eleget a 4. § (5) és (6) bekezdése szerinti kötelezettségeinek, akkor az érintett köznevelési intézmény 4–6. § szerinti megállapodásra vonatkozó, 7. § szerinti jóváhagyás a 6. § (4) bekezdésben meghatározott, az ellenőrzés napján folyamatban lévő teljesítési időszakot követő teljesítési időszakok vonatkozásában visszavonásra kerül. Az MVH a visszavonásról szóló határozatot annak jogerőre emelkedését követően az érintett fenntartó részére is megküldi.”

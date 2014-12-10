@@ -1,0 +1,5 @@
+## „8. termelő: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés a) pontjában meghatározott természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely az 1. mellékletben – összhangban a tanácsi rendelet I. melléklet IX. részével – szereplő terméket állít elő;
+
+## 9. termelői szervezet: a tanácsi rendelet 152. cikkben meghatározott, valamint a tanácsi rendelet 154. cikkében meghatározott feltételekkel elismert szervezet;
+
+## 10. zöldség-gyümölcs termelői csoport: a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet 125e. cikkében meghatározott szervezet, figyelemmel a 203a. cikk (4) bekezdésében foglaltakra;”
