@@ -1,3 +1,0 @@
-## 13/B. §[^6] E rendelet 9. § (1) bekezdése – a tőkepiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 42/2013. (XII. 29.) MNB rendelet 8. § (1) bekezdésével együtt – az intézmények 575/2013/EU európai parlamenti és tanácsi rendelet szerinti felügyeleti adatszolgáltatása tekintetében végrehajtás-technikai standardok megállapításáról szóló 2014. április 16-i 680/2014/EU bizottsági végrehajtási rendelet 17. cikk (1) bekezdése végrehajtásához szükséges rendelkezéseket állapít meg.
-
-[^6]: A 13/B. §-t a 30/2014. (VII. 30.) MNB utasítás 8. §-a iktatta be.
