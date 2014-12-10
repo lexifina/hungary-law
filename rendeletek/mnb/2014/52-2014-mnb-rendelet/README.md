@@ -1,0 +1,9 @@
+# 52/2014. (XII. 9.) MNB rendelet
+
+a tőkepiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-52-20-2C
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-12-10 | 2014-52-20-2C.1 | 52/2014. (XII. 9.) MNB rendelet |
