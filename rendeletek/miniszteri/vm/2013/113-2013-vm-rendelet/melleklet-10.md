@@ -170,7 +170,7 @@
 
 | 85 | 0315158 | Zsana |
 
-10. melléklet a 113/2013. (XII. 10.) VM rendelethez[^34]
+10. melléklet a 113/2013. (XII. 10.) VM rendelethez[^37]
 
 | Szállító ajánlattevő megnevezése: |  |  |  |  |
 
@@ -226,4 +226,4 @@
 
 | Rangsor: |  |  |  |  |
 
-[^34]: A 10. mellékletet a 8/2014. (IX. 10.) FM rendelet 9. § (4) bekezdése iktatta be.
+[^37]: A 10. mellékletet a 8/2014. (IX. 10.) FM rendelet 9. § (4) bekezdése iktatta be.

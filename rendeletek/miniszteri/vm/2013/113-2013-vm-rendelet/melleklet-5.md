@@ -50,6 +50,6 @@
 
 ## 6. Kérelmező aláírása.
 
-5. melléklet a 113/2013. (XII. 10.) VM rendelethez[^33]
+5. melléklet a 113/2013. (XII. 10.) VM rendelethez[^36]
 
-[^33]: Az 5. melléklet a 8/2014. (IX. 10.) FM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^36]: Az 5. melléklet a 8/2014. (IX. 10.) FM rendelet 9. § (3) bekezdésével megállapított szöveg.

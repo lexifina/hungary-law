@@ -6,6 +6,6 @@
 
 (3) A közösségi támogatás forintban meghatározott értékének kiszámításakor az euróval kapcsolatos agromonetáris rendszernek a mezőgazdaságban való alkalmazására vonatkozó részletes szabályok megállapításáról és egyes rendeletek módosításáról szóló, 2006. december 20-i 1913/2006/EK bizottsági rendelet 5. cikk (4) bekezdésének megfelelően az adott támogatási időszakban annak az időszaknak a kezdő napján érvényes, az Európai Központi Bank által hivatalosan közzétett forint/euró középárfolyamot kell alapul venni, amelyre a támogatási kérelem vonatkozik.
 
-(4)[^21] Az általános iskolák a székhelyük alapján, a 7–9. melléklet szerint kerülnek az igényelhető támogatási mérték tekintetében besorolásra. A támogatási kategóriákba való besorolás a székhely település tárgyévi költségvetési törvény szerinti egy főre jutó iparűzési adóerőképessége összegének, valamint a településnek az adott költségvetési évet megelőző két évben az önkormányzati fejezeti tartalékból való rendkívüli, illetve kiegészítő támogatásban való részesülése figyelembevételével történik.
+(4)[^24] Az általános iskolák a székhelyük alapján, a 7–9. melléklet szerint kerülnek az igényelhető támogatási mérték tekintetében besorolásra. A támogatási kategóriákba való besorolás a székhely település tárgyévi költségvetési törvény szerinti egy főre jutó iparűzési adóerőképessége összegének, valamint a településnek az adott költségvetési évet megelőző két évben az önkormányzati fejezeti tartalékból való rendkívüli, illetve kiegészítő támogatásban való részesülése figyelembevételével történik.
 
-[^21]: A 9. § (4) bekezdése a 8/2014. (IX. 10.) FM rendelet 4. §-ával megállapított szöveg.
+[^24]: A 9. § (4) bekezdése a 8/2014. (IX. 10.) FM rendelet 4. §-ával megállapított szöveg.

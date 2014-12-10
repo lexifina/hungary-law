@@ -1,6 +1,6 @@
 ## 15. § A bizottsági rendelet 16. cikkében foglaltak alapján minden, az óvoda-, és iskolatej programban résztvevő intézménynek – a bizottsági rendelet III. mellékletében meghatározott minimumfeltételeknek megfelelő –, az óvoda-, és iskolatej programot népszerűsítő plakátot kell elhelyeznie az intézmény főbejáratánál.
 
-## 13/A. [^26] Az iskolatej-programot és a tejfogyasztást népszerűsítő kommunikáció támogatása
+## 13/A. [^29] Az iskolatej-programot és a tejfogyasztást népszerűsítő kommunikáció támogatása
 
 15/A. § (1) Köznevelési intézményekben folytatott iskolai edukációs tevékenység – évente – a Magyarország adott évi központi költségvetéséről szóló törvényben iskolatej-programra meghatározott forrás legfeljebb 1%-áig támogatható.
 
@@ -26,4 +26,4 @@ c) tájékoztató és promóciós anyagok készítése.
 
 (9) A kifizetési kérelmet az MVH-hoz kell benyújtani a megvalósítást alátámasztó dokumentumokkal, kifizetési bizonylatokkal. A kifizetési kérelemhez csatolni kell a megbízási/vállalkozási szerződést és a miniszter arról szóló igazolását, hogy a nyertes pályázó által történt megvalósítást teljesítettnek ítéli (teljesítés-igazolás).
 
-[^26]: A 13/A. alcímet (15/A. §) a 8/2014. (IX. 10.) FM rendelet 7. §-a iktatta be.
+[^29]: A 13/A. alcímet (15/A. §) a 8/2014. (IX. 10.) FM rendelet 7. §-a iktatta be.

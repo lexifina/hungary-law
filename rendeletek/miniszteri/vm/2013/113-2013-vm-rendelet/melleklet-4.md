@@ -360,6 +360,6 @@
 
 | 5. | Intézmény-egység neve és címe: Feladatellátási hely kód: □ □ □ |  |  |  |  |  |  |  |  |  |  |
 
-4. melléklet a 113/2013. (XII. 10.) VM rendelethez[^32]
+4. melléklet a 113/2013. (XII. 10.) VM rendelethez[^35]
 
-[^32]: A 4. melléklet a 8/2014. (IX. 10.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^35]: A 4. melléklet a 8/2014. (IX. 10.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.

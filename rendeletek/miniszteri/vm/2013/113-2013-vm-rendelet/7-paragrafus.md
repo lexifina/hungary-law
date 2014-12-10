@@ -1,6 +1,6 @@
 ## 5. A támogatható termékek köre
 
-7. § (1)[^16] Az óvoda-, és iskolatej program keretében a 2. § (1) bekezdés szerinti ellátotti kör részére a nevelési és a tanítási napokon az alábbi termékek kerülhetnek kiszállításra:
+7. § (1)[^17] Az óvoda-, és iskolatej program keretében a 2. § (1) bekezdés szerinti ellátotti kör részére a nevelési és a tanítási napokon az alábbi termékek kerülhetnek kiszállításra:
 
 a) „I/a. teljes/félzsíros tej”,
 
@@ -32,7 +32,7 @@ b) 1 kg kiszállított, az e rendelet előírásainak megfelelő ömlesztett saj
 
 c) 1 kg kiszállított, az e rendelet előírásainak megfelelő natúr joghurt, kefir, valamint a bizottsági rendelet I. melléklet I. kategória c) pontjának megfelelő ízesített joghurt 0,971 liter,
 
-d)[^17] 1 kg kiszállított, a bizottsági rendelet I. melléklet II. kategóriájának megfelelő ízesített joghurt 0,87 liter
+d)[^18] 1 kg kiszállított, a bizottsági rendelet I. melléklet II. kategóriájának megfelelő ízesített joghurt 0,87 liter
 
-[^16]: A 7. § (1) bekezdése a 8/2014. (IX. 10.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^17]: A 7. § (5) bekezdés d) pontja a 8/2014. (IX. 10.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^17]: A 7. § (1) bekezdése a 8/2014. (IX. 10.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^18]: A 7. § (5) bekezdés d) pontja a 8/2014. (IX. 10.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.

@@ -26,6 +26,6 @@
 
 ## 3.5. Nagyobb kiszerelési egységű termék (ún. lédig termék) kiosztását az élelmiszerbiztonság veszélyeztetése nélkül úgy kell elvégezni, hogy a termékben minőségi romlás ne következzék be.
 
-3. melléklet a 113/2013. (XII. 10.) VM rendelethez[^31]
+3. melléklet a 113/2013. (XII. 10.) VM rendelethez[^34]
 
-[^31]: A 3. melléklet a 8/2014. (IX. 10.) FM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^34]: A 3. melléklet a 8/2014. (IX. 10.) FM rendelet 9. § (1) bekezdésével megállapított szöveg.
