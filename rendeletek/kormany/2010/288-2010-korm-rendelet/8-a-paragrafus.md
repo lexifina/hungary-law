@@ -1,4 +1,4 @@
-8/A. §[^31] (1) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, kormányrendeletben meghatározott közigazgatási hatósági ügy (a továbbiakban: kiemelt jelentőségű ügy) intézését a kormányrendeletben kijelölt kormánymegbízott figyelemmel kíséri.
+8/A. §[^32] (1) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, kormányrendeletben meghatározott közigazgatási hatósági ügy (a továbbiakban: kiemelt jelentőségű ügy) intézését a kormányrendeletben kijelölt kormánymegbízott figyelemmel kíséri.
 
 (2) A kiemelt jelentőségű ügyet megállapító kormányrendeletben kijelölt kormánymegbízott
 
@@ -18,7 +18,7 @@ g) a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szerv
 
 h) – a 15. §-ban foglalt ellenőrzési jogkörtől eltérően – kezdeményezésére a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szervnél az irányító, szakmai irányító és felügyeleti szervének vezetője soron kívül törvényességi és hatékonysági ellenőrzést folytat le a kiemelt jelentőségű ügy tekintetében;
 
-i)[^32] a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szervet egyedi vagy rendszeres jelentéstételre vagy beszámolóra kötelezheti – az (4) bekezdésben foglalttól eltérő határidővel –;
+i)[^33] a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szervet egyedi vagy rendszeres jelentéstételre vagy beszámolóra kötelezheti – az (4) bekezdésben foglalttól eltérő határidővel –;
 
 j) a kormányzati szolgálati jogviszonyból eredő kötelezettségeknek a kiemelt jelentőségű ügy intézése során történő megszegésének alapos gyanúja esetén fegyelmi eljárást kezdeményezhet; valamint
 
@@ -32,19 +32,19 @@ k) további, a kiemelt jelentőségű ügyet megállapító kormányrendeletben 
 
 (6) A kormányrendeletben kijelölt kormánymegbízott
 
-a)[^33] minden naptári negyedévet követő hónap 5. napjáig tájékoztatja a közigazgatás-szervezésért felelős miniszter útján a Kormány tagjait a kiemelt jelentőségű ügy intézéséről, valamint intézkedéseiről;
+a)[^34] minden naptári negyedévet követő hónap 5. napjáig tájékoztatja a közigazgatás-szervezésért felelős miniszter útján a Kormány tagjait a kiemelt jelentőségű ügy intézéséről, valamint intézkedéseiről;
 
 b) szükség esetén kezdeményezi a közigazgatás-szervezésért felelős miniszter intézkedését; továbbá
 
 c) a Kormány döntését igénylő kérdésben előterjesztést készít a Kormány részére a közigazgatás-szervezésért felelős miniszter útján;
 
-d)[^34] minden hónap 1. munkanapján tájékoztatja a közigazgatás-szervezésért felelős minisztert a kiemelt jelentőségű ügy állásáról, valamint intézkedéseiről.
+d)[^35] minden hónap 1. munkanapján tájékoztatja a közigazgatás-szervezésért felelős minisztert a kiemelt jelentőségű ügy állásáról, valamint intézkedéseiről.
 
 (7) A (2) bekezdésben meghatározott hatásköröket a kiemelt jelentőségű ügyet megállapító kormányrendeletben kijelölt kormánymegbízott nem gyakorolhatja az önálló szabályozó szervek, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek tekintetében.
 
 (8) A (2) és a (3)–(5) bekezdés szerinti feladatok ellátása során nem alkalmazandó a 6. § (5) és (5a) bekezdése.
 
-[^31]: A 8/A. §-t a 261/2012. (IX. 17.) Korm. rendelet 1. §-a iktatta be.
-[^32]: A 8/A. § (2) bekezdés i) pontja a 252/2013. (VII. 4.) Korm. rendelet 1. § (8) bekezdése szerint módosított szöveg.
-[^33]: A 8/A. § (6) bekezdés a) pontja az 516/2013. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^34]: A 8/A. § (6) bekezdés d) pontját az 516/2013. (XII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^32]: A 8/A. §-t a 261/2012. (IX. 17.) Korm. rendelet 1. §-a iktatta be.
+[^33]: A 8/A. § (2) bekezdés i) pontja a 252/2013. (VII. 4.) Korm. rendelet 1. § (8) bekezdése szerint módosított szöveg.
+[^34]: A 8/A. § (6) bekezdés a) pontja az 516/2013. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^35]: A 8/A. § (6) bekezdés d) pontját az 516/2013. (XII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be.

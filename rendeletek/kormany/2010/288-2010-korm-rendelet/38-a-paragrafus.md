@@ -1,3 +1,3 @@
-## 33–38. §[^92]
+## 33–38. §[^93]
 
-[^92]: A 33–38. §-t az 516/2013. (XII. 30.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.
+[^93]: A 33–38. §-t az 516/2013. (XII. 30.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.

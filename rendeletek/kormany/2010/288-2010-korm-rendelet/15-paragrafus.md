@@ -1,14 +1,14 @@
 ## 8. Ellenőrzés
 
-15. §[^48] (1) A fővárosi és megyei kormányhivatal a Khtv. 16. § (4) bekezdésében meghatározott ellenőrzési jogkörében ellátott ellenőrzési feladat- és hatáskörében
+15. §[^49] (1) A fővárosi és megyei kormányhivatal a Khtv. 16. § (4) bekezdésében meghatározott ellenőrzési jogkörében ellátott ellenőrzési feladat- és hatáskörében
 
 a) ellenőrzi a központi államigazgatási szervek területi szervei vezetőinek a kormánytisztviselői és a közalkalmazotti jogviszonnyal kapcsolatos munkáltatói intézkedései törvényességét, illetve külön jogszabályban meghatározottak szerint kormányzati szolgálati ellenőrzést végez,
 
-b)[^49] ellenőrzi a központi államigazgatási szervek területi szervei tevékenységében a Ket. végrehajtását,
+b)[^50] ellenőrzi a központi államigazgatási szervek területi szervei tevékenységében a Ket. végrehajtását,
 
 c) ellenőrzi – az illetékes közlevéltárral egyeztetett ellenőrzési terv és program szerint – az ügyiratkezelésről, valamint a központi államigazgatási szervek területi szervei által az ügyiratkezeléssel összefüggésben kezelt adatok nyilvántartásáról és védelméről, a közérdekű adatok nyilvánosságáról szóló jogszabályok végrehajtását,
 
-d)[^50] az e-közigazgatásért felelős miniszter irányítása mellett és az általa biztosított feltételek keretei között ellenőrzi a központi államigazgatási szervek területi szervei infokommunikációs rendszereinek üzemeltetését, az üzemmenet-folytonosság biztosításának feltételeit, a megfelelő személyi és szakmai feltételek meglétét, valamint az informatikai üzemeltetés kereteit meghatározó szabályzatok jogszabályoknak való megfelelőségét,
+d)[^51] az e-közigazgatásért felelős miniszter irányítása mellett és az általa biztosított feltételek keretei között ellenőrzi a központi államigazgatási szervek területi szervei infokommunikációs rendszereinek üzemeltetését, az üzemmenet-folytonosság biztosításának feltételeit, a megfelelő személyi és szakmai feltételek meglétét, valamint az informatikai üzemeltetés kereteit meghatározó szabályzatok jogszabályoknak való megfelelőségét,
 
 e) gondoskodik a központi államigazgatási szervek területi szervei ellenőrzési terveinek összehangolásáról, egyeztetett végrehajtásáról, a tapasztalatok közös elemzéséről,
 
@@ -20,6 +20,6 @@ f) gondoskodik a gazdaságos, egymást kiegészítő ellenőrzési módok kialak
 
 (4) A közigazgatás-szervezésért felelős miniszter gondoskodik az ellenőrzések tervezésének és végrehajtásának egységes rendjéről.
 
-[^48]: A 15. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
-[^49]: A 15. § (1) bekezdés b) pontja a 252/2013. (VII. 4.) Korm. rendelet 1. § (7) bekezdése, az 516/2013. (XII. 30.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^50]: A 15. § (1) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 491. §-ával megállapított szöveg.
+[^49]: A 15. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^50]: A 15. § (1) bekezdés b) pontja a 252/2013. (VII. 4.) Korm. rendelet 1. § (7) bekezdése, az 516/2013. (XII. 30.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^51]: A 15. § (1) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 491. §-ával megállapított szöveg.
