@@ -16,7 +16,7 @@ Benyújtás helye:
 
 Mezőgazdasági és Vidékfejlesztési Hivatal Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatósága
 
-H–1476 Budapest 62., Pf. 4071.
+H–1476 Budapest, Pf. 407.
 
 1. Az ügyfél adatai:
 
@@ -101,4 +101,4 @@ kérelmező (cégszerű) aláírása
 5. A 37/2011. (III. 22.) Korm. rendelet 11/A. §-a szerinti nyilatkozatok.
 
 [^26]: A 8. § (2) bekezdése a 18/2014. (X. 29.) FM rendelet 8. §-ával megállapított szöveg.
-[^27]: A Melléklet a 18/2014. (X. 29.) FM rendelet 9. §-ával megállapított szöveg.
+[^27]: A Melléklet a 18/2014. (X. 29.) FM rendelet 9. §-ával megállapított, a 31/2014. (XII. 9.) FM rendelet 27. §-a szerint módosított szöveg.
