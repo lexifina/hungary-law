@@ -1,4 +1,4 @@
-6. § (1)[^13] A támogatás igénybevételének feltétele, hogy a kérelmező és a fenntartó, mint szerződő felek között létrejött, a 4. § (1) bekezdése szerinti megállapodásban rögzítésre kerüljön:
+6. § (1)[^25] A támogatás igénybevételének feltétele, hogy a kérelmező és a fenntartó, mint szerződő felek között létrejött, a 4. § (1) bekezdése szerinti megállapodásban rögzítésre kerüljön:
 
 1. a kérelmező neve, székhelye, adószáma, ügyfél-azonosítója;
 
@@ -14,17 +14,17 @@
 
 7. a szállítandó termék adagban meghatározott tanulónkénti mennyisége időszakonkénti bontásban, amely az összes teljesítési helyszínre vonatkozó összesített adatokat tartalmazza, és amelyről a kérelmező teljesítési időszakonként vagy havonként, a teljesítési időszakra vagy hónapra szóló elszámoláshoz az átadott termék adagját is tartalmazó számlát, vagy gyűjtőszámlát állít ki;
 
-8. a termékek eredete (Magyarország, Európai Unió);
+8.[^26] a termékek termelésének, előállításának helye (Magyarország, Európai Unió);
 
 9. a magas minőségű termékek mennyisége (pl. integrált termesztésből származó termék, ökológiai termesztésből származó termék mennyisége);
 
 10. a támogatott termék kiosztásának ideje;
 
-11.[^14]
+11.[^27]
 
 12. a felek kötelezettségvállalása, hogy a megállapodás teljesítése során az 5. §, a 6. §, a 10 §. és a 11. §-ban foglaltak szerint járnak el;
 
-13. a kérelmező kötelezettségvállalása arra vonatkozóan, hogy a 16. § (1) bekezdésben meghatározott támogatási feltételeket teljesíti;
+13.[^28] a fenntartó kötelezettségvállalása arra vonatkozóan, hogy a 16. § (2) bekezdésben meghatározott támogatási feltételeket teljesíti;
 
 14. a fenntartó kötelezettségvállalása arra vonatkozóan, hogy a fenntartott köznevelési intézmény a 16. § (2) bekezdésben foglaltakat teljesíti;
 
@@ -36,15 +36,17 @@
 
 18. a kérelmező és a fenntartó képviseletére, költségvetési kihatású jogkövetkezmények tekintetében felelősségvállalásra jogosult személyek aláírása.
 
-(2)[^15]
+(2)[^29]
 
 (3) A megállapodás kötelező tartalmi elemeit magában foglaló és az (1) bekezdésnek megfelelő nyomtatványt az MVH a hivatalos honlapján teszi közzé. A nyomtatvány mintáját a 4. melléklet tartalmazza.
 
-(4)[^16] A termékkel való ellátás első időszaka szeptember első tanítási napjától szeptember utolsó vasárnapjáig (a továbbiakban: első teljesítési időszak), a termékkel való ellátás második időszaka szeptember utolsó vasárnapját követő hétfőtől december harmadik vasárnapjáig (a továbbiakban: második teljesítési időszak), a termékkel való ellátás harmadik időszaka január második hétfőjétől március utolsó vasárnapjáig (a továbbiakban: harmadik teljesítési időszak), a termékkel való ellátás negyedik időszaka március utolsó vasárnapját követő hétfőtől április utolsó napját követő vasárnapig (a továbbiakban: negyedik teljesítési időszak) tart.
+(4)[^30] A termékkel való ellátás első időszaka szeptember első tanítási napjától szeptember utolsó vasárnapjáig (a továbbiakban: első teljesítési időszak), a termékkel való ellátás második időszaka szeptember utolsó vasárnapját követő hétfőtől december harmadik vasárnapjáig (a továbbiakban: második teljesítési időszak), a termékkel való ellátás harmadik időszaka január második hétfőjétől március utolsó vasárnapjáig (a továbbiakban: harmadik teljesítési időszak), a termékkel való ellátás negyedik időszaka március utolsó vasárnapját követő hétfőtől április utolsó napját követő vasárnapig (a továbbiakban: negyedik teljesítési időszak) tart.
 
 (5) Tanévenként legalább három teljesítési időszakban kell szállítani. Teljesítési időszakon belül egész heteket kell szállítani úgy, hogy az első és a negyedik teljesítési időszakban legalább három, a második és a harmadik teljesítési időszakban legalább nyolc hétig kell szállítani.
 
-[^13]: A 6. § (1) bekezdése a 31/2013. (V. 2.) VM rendelet 11. §-ával megállapított szöveg.
-[^14]: A 6. § (1) bekezdés 11. pontját az 55/2014. (IV. 29.) VM rendelet 14. §-a hatályon kívül helyezte.
-[^15]: A 6. § (2) bekezdését az 55/2014. (IV. 29.) VM rendelet 14. §-a hatályon kívül helyezte.
-[^16]: A 6. § (4) bekezdése az 55/2014. (IV. 29.) VM rendelet 3. §-ával megállapított szöveg.
+[^25]: A 6. § (1) bekezdése a 31/2013. (V. 2.) VM rendelet 11. §-ával megállapított szöveg.
+[^26]: A 6. § (1) bekezdés 8. pontja a 31/2014. (XII. 9.) FM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^27]: A 6. § (1) bekezdés 11. pontját az 55/2014. (IV. 29.) VM rendelet 14. §-a hatályon kívül helyezte.
+[^28]: A 6. § (1) bekezdés 13. pontja a 31/2014. (XII. 9.) FM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^29]: A 6. § (2) bekezdését az 55/2014. (IV. 29.) VM rendelet 14. §-a hatályon kívül helyezte.
+[^30]: A 6. § (4) bekezdése az 55/2014. (IV. 29.) VM rendelet 3. §-ával megállapított szöveg.

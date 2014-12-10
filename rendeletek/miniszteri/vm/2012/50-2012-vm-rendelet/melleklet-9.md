@@ -24,11 +24,11 @@
 
 ## 5.1. A teljesítési időszakban kiszállított összes támogatott termékről kiállított, havi vagy teljesítési időszakonkénti elszámoló vagy gyűjtőszámlák másolata.
 
-## 5.2[^55]
+## 5.2[^81] A megvalósított kísérő intézkedések elvégzésének a köznevelési intézmény vezetője által kiállított igazolás, amelyben a részt vevő tanulók száma, a megvalósítás időpontja, a kóstoltatott termékek felsorolása, valamint a megvalósított intézkedés leírása kerül feltüntetésre
 
 ## 6. Keltezés, a kérelmező cégszerű aláírása.
 
-9. melléklet az 50/2012. (V. 25.) VM rendelethez[^56]
+9. melléklet az 50/2012. (V. 25.) VM rendelethez[^82]
 
 MEGÁLLAPODÁS-MÓDOSÍTÁS
 
@@ -146,5 +146,5 @@ Jelen megállapodás-módosítás 3 eredeti példányban készült, amelyből 1 
 
 | ............................................. szállító | ............................................. fenntartó |
 
-[^55]: A 8. melléklet 5. pont 5.2 alpontját az 55/2014. (IV. 29.) VM rendelet 14. §-a hatályon kívül helyezte.
-[^56]: A 9. mellékletet az 55/2014. (IV. 29.) VM rendelet 12. § (3) bekezdése iktatta be.
+[^81]: A 8. melléklet 5. pont 5.2 alpontját az 55/2014. (IV. 29.) VM rendelet 14. §-a hatályon kívül helyezte. Újonnan a 31/2014. (XII. 9.) FM rendelet 23. § (3) bekezdése szerint módosított szöveg.
+[^82]: A 9. mellékletet az 55/2014. (IV. 29.) VM rendelet 12. § (3) bekezdése iktatta be.

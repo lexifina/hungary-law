@@ -80,7 +80,13 @@
 
 ## A szállítandó terméknek meg kell felelnie az iskolagyümölcs-program végrehajtásáról szóló 50/2012. (V. 25.) VM rendelet 10. §-a szerinti minőségi feltételeknek.
 
-## A szállítandó termék származási helye: □ Magyarország; □ EU.
+| A szállítandó termék termelésének, előállításának helye: | □ Magyarország; |
+
+| Teljesítési helyszínnel azonos megye:…..adag |
+
+| Teljesítési helyszíntől eltérő megye:….adag |
+
+| □ EU. |
 
 ## Magas minőségű termékek tervezett aránya a szállítandó teljes mennyiség %-ában:
 
@@ -164,7 +170,7 @@
 
 ## A számlán kiszámlázott ellenértéket a szállító által igényelhető támogatás fedezi.
 
-## A Klebelsberg Intézményfenntartó Központ által kötött megállapodások esetében a számlákat a köznevelési intézmény székhelye szerint illetékes tankerület részére kell megküldeni.
+## A Klebelsberg Intézményfenntartó Központ által kötött megállapodások esetében a számlákat a köznevelési intézmény székhelye szerint illetékes járási tankerület részére kell megküldeni.
 
 ## 8. Számviteli elszámolás a fenntartónál, ha az költségvetési szerv
 
@@ -218,8 +224,6 @@
 
 ## A szállító köteles a megállapodás jóváhagyásáról, valamint a megállapodásra vonatkozóan a részére kifizetett támogatás összegéről az átvevőt tájékoztatni.
 
-## A szállító kötelezettséget vállal arra vonatkozóan, hogy az iskolagyümölcs-programot népszerűsítő plakátot a szállítások kezdetét követő tizenöt napon belül a megállapodásban meghatározott teljesítési helyszínek számával egyező számban átadja.
-
 ## 10. Záró rendelkezések
 
 ## A jelen megállapodást a Felek az alul megjelölt napon írták alá azzal a kikötéssel, hogy a megállapodás az azt jóváhagyó határozat közlését követő napon lép hatályba, és a határozatban jóváhagyott termékekre és termékmennyiségekre vonatkozik, valamint a megállapodás teljesítése során az iskolagyümölcs-program végrehajtásáról szóló 50/2012. (V. 25.) VM rendelet 4., 5., 6., 10., és 11. §-ában foglaltak szerint járnak el.
@@ -230,6 +234,6 @@
 
 | ............................................. szállító | ............................................. fenntartó |
 
-5. melléklet az 50/2012. (V. 25.) VM rendelethez[^54]
+5. melléklet az 50/2012. (V. 25.) VM rendelethez[^80]
 
-[^54]: Az 5. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (4) bekezdésével megállapított szöveg.
+[^80]: Az 5. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (4) bekezdésével megállapított szöveg.
