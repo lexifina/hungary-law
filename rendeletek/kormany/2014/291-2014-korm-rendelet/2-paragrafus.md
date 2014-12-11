@@ -1,0 +1,3 @@
+## 1. § A mozgásában korlátozott személy parkolási igazolványáról szóló 218/2003. (XII. 11.) Korm. rendelet (a továbbiakban: R1.) 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az igazolvány meghosszabbítására, cseréjére, pótlására irányuló eljárásban a kérelmet az igazolvány kiadására irányadó szabályok szerint kell benyújtani. Az elveszett, eltulajdonított, valamint megsemmisült okmány pótlása, továbbá – a 7. § (3) bekezdésében meghatározott feltétel fennállása esetén – a mozgásában korlátozott személy állapotának véglegessége esetén az okmány cserével történő meghosszabbítása iránti kérelem elektronikus úton is intézhető.”
