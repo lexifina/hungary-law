@@ -1,32 +1,32 @@
-2. melléklet a 42/2014. (XI. 7.) MNB rendelethez
+2. melléklet a 42/2014. (XI. 7.) MNB rendelethez[^8]
 
 II. számú elszámolási módszertan
 
-1. A II. számú elszámolási módszertan képlete:
+1. A II. számú elszámolási módszertan:
 
-t: a folyósítás időpontja, t+i (ahol i=0,1,…,k) pedig a folyósítást követő i-ik periódus,
+t: a folyósítás időpontja, t+i (ahol i=0,1,…,k) pedig a folyósítást követő i-edik periódus,
 
-k: a folyósítás és az elszámolási fordulónap között eltelt periódusok száma,
+k a folyósítás és az elszámolási fordulónap között eltelt periódusok száma,
 
 etV: deviza alapú fogyasztói kölcsönszerződéseknél a pénzügyi intézmény által a folyósítás értéknapján alkalmazott devizaárfolyam (vételi), az azonos devizanemben nyilvántartott vagy nyújtott és törlesztett fogyasztói kölcsönszerződéseknél és a forint kölcsönszerződéseknél pedig az értéke egy,
 
-etMNB: deviza alapú fogyasztói kölcsönszerződéseknél a folyósítás értéknapján érvényes, az MNВ által közzétett hivatalos devizaárfolyam, az azonos devizanemben nyilvántartott vagy nyújtott és törlesztett fogyasztói kölcsönszerződéseknél és a forint kölcsönszerződéseknél pedig az értéke egy,
+etMNB: deviza alapú fogyasztói kölcsönszerződéseknél a folyósítás értéknapján érvényes, az MNB által közzétett hivatalos devizaárfolyam, az azonos devizanemben nyilvántartott vagy nyújtott és törlesztett fogyasztói kölcsönszerződéseknél és a forint kölcsönszerződéseknél pedig az értéke egy,
 
-eMNBt+i: deviza alapú fogyasztói kölcsönszerződéseknél a t+i. periódusban a törlesztés elszámolásánál, a pénzügyi intézmény által használt árfolyam jegyzési értéknapján érvényes, az MNВ által közzétett hivatalos devizaárfolyam, az azonos devizanemben nyilvántartott vagy nyújtott és törlesztett fogyasztói kölcsönszerződéseknél és a forint kölcsönszerződéseknél, valamint a 2014. évi XXXVIII. törvény 3. § (3) bekezdése szerinti esetben pedig az értéke egy,
+et+iMNB: deviza alapú fogyasztói kölcsönszerződéseknél a t+i. periódusban a törlesztés elszámolásánál, a pénzügyi intézmény által használt árfolyam jegyzési értéknapján érvényes MNB által közzétett hivatalos devizaárfolyam, a 2014. évi XXXVIII. törvény 3. § (3) bekezdése szerinti esetben a pénzügyi intézmény által alkalmazott középárfolyam, az azonos devizanemben nyilvántartott vagy nyújtott és törlesztett fogyasztói kölcsönszerződéseknél és a forint kölcsönszerződéseknél pedig az értéke egy,
 
-eEt+i: a deviza alapú fogyasztói kölcsönszerződéseknél a pénzügyi intézmény által a t+i. periódusban a törlesztéskor alkalmazott devizaárfolyam (eladási), az azonos devizanemben nyilvántartott vagy nyújtott és törlesztett fogyasztói kölcsönszerződéseknél és a forint kölcsönszerződéseknél, valamint a 2014. évi XXXVIII. törvény 3. § (3) bekezdése szerinti esetben pedig az értéke egy,
+eEt+i: a deviza alapú fogyasztói kölcsönszerződéseknél a pénzügyi intézmény által a t+i. periódusban a törlesztéskor alkalmazott devizaárfolyam, az azonos devizanemben nyilvántartott vagy nyújtott és törlesztett fogyasztói kölcsönszerződéseknél és a forint kölcsönszerződéseknél pedig az értéke egy,
 
-rt+i: a fogyasztói kölcsönszerződés kamatlába,
+rt+i: a fogyasztói kölcsönszerződés kamatlába a t+i. periódusban,
 
-∆Trt+i: a kamatláb változása a t+i. periódusban a tisztességes szerződéses kikötés alapján,
+ΔTrt+i: a kamatláb változása a t+i. periódusban a 2014. évi XXXVIII. törvény 4. §-a szerint tisztességes szerződéses kikötés alapján,
 
-∆NTrt+i: a kamatláb változása a t+i. periódusban a tisztességtelen szerződéses kikötés alapján,
+ΔNTrt+i: a kamatláb változása a t+i. periódusban a 2014. évi XXXVIII. törvény 4. §-a szerint tisztességtelen szerződéses kikötés alapján,
 
-rTt+i: a t+i. periódus elején a tisztességes szerződéses kikötés alapján módosított kamatláb mértéke (ha i=1, akkor rtT= rt),
+rTt+i: a t+i. periódus elején a 2014. évi XXXVIII. törvény 4. §-a szerint tisztességes szerződéses kikötés alap-ján módosított kamatláb mértéke (ha i=1, akkor rtT= rt),
 
 rÁt+i: az átszámított fogyasztói kölcsönszerződés kamatlábának mértéke a t+i. periódus elején,
 
-Ft+i: a t+i. periódusban a fogyasztói kölcsön eredeti törlesztőrészletének a rendszeres díjakat és költségeket, folyósításkori jutalékot és előtörlesztési díjat tartalmazó komponense a szerződés devizájában,
+Ft+i: a t+i. periódusban az eredeti fogyasztói kölcsönszerződés törlesztőrészletének díjakat és költségeket tartalmazó komponense a szerződés devizájában,
 
 FNt+i: a t+i. periódusban a fogyasztói kölcsön eredeti törlesztőrészletén belül az abszolút értékben meghatározott díj- és költségtételek,
 
@@ -36,27 +36,25 @@ FSZt+i: a t+i. periódusban a fogyasztói kölcsön eredeti törlesztőrészlet�
 
 j: a fennálló tőke százalékában meghatározott díj- és költségtételek vetítési alapjának megfelelő periódus,
 
-FSZÁt+i: a t+i. periódusban a tisztességes feltételek alapján számított fogyasztói kölcsön törlesztőrészletén belül a fennálló tőke százalékában meghatározott díj- és költségtételek,
+FSZÁt+i: a t+i. periódusban az átszámított feltételek alapján számított fogyasztói kölcsön törlesztőrészletén belül a fennálló tőke százalékában meghatározott díj- és költségtételeknek a tisztességes tőketartozás és gyűjtőszámla egyenlegének különbségére vetített értéke,
 
-∆TFNt+i: az abszolút értékben meghatározott díj- és költségtételek változása a t+i. periódusban a 2014. évi XXXVIII. számú törvény 4. § szerint tisztességes szerződéses kikötés alapján,
+ΔTFNt+i: az abszolút értékben meghatározott díj- és költségtételek változása a t+i. periódusban a 2014. évi XXXVIII. számú törvény 4. § szerint tisztességes szerződéses kikötés alapján,
 
-∆NTFNt+i: az abszolút értékben meghatározott díj- és költségtételek változása a t+i. periódusban a 2014. évi XXXVIII. törvény 4. §-a szerint nem tisztességes szerződéses kikötés alapján,
+ΔNTFNt+i: az abszolút értékben meghatározott díj- és költségtételek változása a t+i. periódusban a 2014. évi XXXVIII. törvény 4. §-a szerint tisztességtelen szerződéses kikötés alapján,
 
 ft+i: a fennálló tőke százalékában meghatározott díjak és költségek százalékos értéke a t+i. periódus elején,
 
-∆Tft+i: a fennálló tőke százalékában meghatározott díjak és költségek változása a t+i. periódusban a 2014. évi XXXVIII. törvény 4. §-a szerint tisztességes szerződéses kikötés alapján,
+ΔTft+i: a fennálló tőke százalékában meghatározott díjak és költségek változása a t+i. periódusban a 2014. évi XXXVIII. törvény 4. §-a szerint tisztességes szerződéses kikötés alapján,
 
-∆NTft+i: a fennálló tőke százalékában meghatározott díjak és költségek változása a t+i. periódusban a 2014. évi XXXVIII. törvény 4. §-a szerint nem tisztességes szerződéses kikötés alapján,
+ΔNTft+i: a fennálló tőke százalékában meghatározott díjak és költségek változása a t+i. periódusban a 2014. évi XXXVIII. törvény 4. §-a szerint tisztességtelen szerződéses kikötés alapján,
 
-fTt+i: a t+i. periódus elején a 2014. évi XXXVIII. törvény 4. §-a szerint tisztességes szerződéses kikötés alapján módosított, a fennálló tőke százalékában meghatározott díjak és költségek mértéke (ha i=1, akkor ftT= ft),
+fTt+i: a t+i. periódus elején a 2014. évi XXXVIII. törvény 4. §-a szerint tisztességes szerződéses kikötés alap-ján módosított, a fennálló tőke százalékában meghatározott díjak és költségek mértéke (ha i=1, akkor ftT= ft),
 
-fÁt+i: a tisztességes feltételek alapján számított fogyasztói kölcsön esetén a fennálló tőke százalékában meghatározott díjak és költségek százalékos mértéke a t+i. periódus elején,
+fÁt+i: az átszámított feltételek alapján számított fogyasztói kölcsön esetén a fennálló tőke százalékában meghatározott díjak és költségek százalékos mértéke a t+i. periódus elején,
 
-FTt+i: a t+i. periódusban a törlesztőrészlet 2014. évi XXXVIII. törvény 4. §-a szerint tisztességes szerződéses kikötés alapján módosított rendszeres díjakat és költségeket, folyósításkori jutalékot és előtörlesztési díjat tartalmazó komponensének a mértéke (ha i=1, akkor FtT= Ft),
+FTt+i: a t+i. periódusban a törlesztőrészlet 2014. évi XXXVIII. törvény 4. §-a szerint tisztességes szerződéses kikötés alapján módosított díjakat és költségeket tartalmazó komponensének a mértéke (ha i=1, akkor FtT= Ft),
 
-FÁt+i: a t+i. periódusban a tisztességes feltételek alapján számított fogyasztói kölcsön esedékes törlesztőrészletének a rendszeres díjakat, költségeket, folyósításkori jutalékot és előtörlesztési díjat tartalmazó komponense, ahol az átszámítás során az egyes díj- és költségtételeket külön kell kezelni,
-
-FSZTt+i: a t+i. periódusban a törlesztőrészlet 2014. évi XXXVIII. törvény 4. §-a szerint tisztességes szerződéses kikötés alapján módosított, a fennálló tőke százalékában meghatározott rendszeres díjakat és költségeket, folyósításkori jutalékot és előtörlesztési díjat tartalmazó komponensének a mértéke,
+FÁt+i: a t+i. periódusban az átszámított fogyasztói kölcsön esedékes törlesztőrészletének a díjakat és költségeket tartalmazó komponense, ahol az átszámítás során az egyes díj- és költségtételeket külön kell ke-zelni,
 
 Ct+igyűjtő: a gyűjtőszámla egyenlege a t+i-edik periódusban,
 
@@ -64,9 +62,9 @@ Xt+i: a t+i. periódusban az eredeti fogyasztói kölcsönszerződés törleszt�
 
 XTt+i: a t+i. periódusban a fogyasztói kölcsönszerződés tisztességes törlesztőrészlete a fogyasztói kölcsönszerződés szerinti devizanemben,
 
-It+i: a t+i. periódusban az eredeti fogyasztói kölcsönszerződés kamattörlesztése, ami Tt+i, nt+i, és rt+i függvénye,
+It+i: a t+i. periódusban az eredeti fogyasztói kölcsönszerződés kamattörlesztése, ami Tt+i és rt+i függvénye,
 
-ITt+i: a t+i. periódusban a fogyasztói kölcsönszerződés tisztességes kamattörlesztése, ami TTt+i, nt+i, és rTt+i függvénye,
+ITt+i: a t+i. periódusban a fogyasztói kölcsönszerződés tisztességes kamattörlesztése, ami TTt+i és rTt+i függvénye,
 
 Tt+i: a t+i. periódusban a fogyasztói kölcsönszerződés szerint fennálló tőketartozás a fogyasztói kölcsönszerződés szerinti devizanemben,
 
@@ -84,25 +82,21 @@ PTt+i: a t+i. periódusban a fogyasztói kölcsönszerződés tisztességes tők
 
 • amennyiben előtörlesztés történt az adott periódusban, akkor a kapcsolódó díj figyelembevétele mellett ehhez a tételhez kell hozzáadni,
 
-nt+i: a t+i. periódus elején a fogyasztói kölcsönszerződés lejártáig hátralévő hónapok száma,
+nt+i: a t+i. periódus elején a fogyasztói kölcsönszerződés lejártáig hátralévő periódusok száma,
 
 – a folyósításkori összeg árfolyamréssel korrigált értéke,
 
-: a fogyasztói kölcsönszerződés eredeti fennálló tőkéje a t+i-edik időpontban, míg
+2. Az árfolyamrésből és az egyoldalú szerződésmódosításból eredő túlfizetés összege t+k-ban, ha a fo-gyasztói kölcsönszerződés még hatályban van:
 
-: a fogyasztói kölcsönszerződés tisztességes feltételek melletti fennálló tőkéje a t+i-edik időpontban.
+Et+k: az elhatárolt kamatok, költségek és díjak értéke az elszámolási fordulónapon,
 
-2. Az árfolyamrésből és az egyoldalú szerződésmódosításból eredő túlfizetés összege t+k-ban, ha a fogyasztói kölcsönszerződés még hatályban van:
-
-Et+k: az elhatárolt kamatok , költségek és díjak értéke az elszámolás időpontjában,
-
-ETt+k: tisztességes feltételek alapján számított fogyasztói kölcsönszerződés esetében az elhatárolt kamatok, költségek és díjak értéke az elszámolás időpontjában.
+ETt+k: tisztességes feltételek alapján számított fogyasztói kölcsönszerződés esetében az elhatárolt kamatok, költségek és díjak értéke az elszámolási fordulónapon.
 
 3. Amennyiben a fogyasztói kölcsönszerződés a 2014. évi XL. törvény 5. § (4) bekezdése szerint megszűnt, vagyis
 
 ha Tt+k = 0,
 
-akkor a kölcsöntartozás nullára csökkenését követően a tartozatlan fizetés (a fogyasztónak visszatérítendő összeg) kiszámítási alapját a jogalap nélküli gazdagodás elve határozza meg. A fogyasztói követelésre a pénzügyi intézmény az érintett naptári félév első napján érvényes jegybanki alapkamattal – devizában meghatározott követelés esetén az adott devizanemre a kibocsátó jegybank által meghatározott alapkamattal, ennek hiányában az adott devizanemre vonatkozó 3 hónapos pénzpiaci kamattal (CHF LIBOR, EURIBOR stb.) – megegyező mértékű késedelmi kamatot köteles fizetni.
+akkor a kölcsöntartozás nullára csökkenését követően a tartozatlan fizetés (a fogyasztónak visszatérítendő összeg) kiszámítási alapját a jogalap nélküli gazdagodás elve határozza meg. A fogyasztói követelésre az elszámolásra köteles pénzügyi intézmény az érintett naptári félév első napján érvényes jegybanki alapkamattal, devizában meghatározott követelés esetén a fogyasztói kölcsönszerződés devizanemére vonatkozó, az adott naptári félév első napján érvényes 3 hónapos pénzpiaci kamattal (CHF LIBOR, EURIBOR, stb.) megegyező mértékű késedelmi kamatot köteles fizetni.
 
 Képlettel:
 
@@ -110,8 +104,8 @@ ahol l az a periódus, ahol a fogyasztói kölcsönszerződés megszűnt,
 
 mi: az i. havi, vagy tört havi periódus hossza napokban kifejezve,
 
-ri: az i. periódusban az adott naptári félév első napján érvényes jegybanki alapkamat, illetve devizában meghatározott követelés esetén az adott devizanemre a kibocsátó jegybank által meghatározott alapkamat, ennek hiányában a fogyasztói kölcsönszerződés devizanemének megfelelő 3 hónapos pénzpiaci kamatláb (CHF LIBOR, EURIBOR stb.) – adott naptári félév első napján érvényes – mértéke.
+ri: az i. periódusban az adott naptári félév első napján érvényes jegybanki alapkamat, illetve devizában meghatározott követelés esetén a fogyasztói kölcsönszerződés devizanemének megfelelő 3 hónapos pénzpiaci kamatláb (CHF LIBOR, EURIBOR stb.) adott naptári félév első napján érvényes mértéke.
 
-4. A már megszűnt fogyasztói kölcsönszerződések esetében az árfolyamrésből és az egyoldalú szerződésmódosításból eredő túlfizetést csak a 2014. évi XXXVIII. törvény szerinti elévülési időn belüli periódusokra kell kiszámolni.
+4. Az elszámolási fordulónapig átszámított fogyasztói követelést az elszámolás fordulónapjától a fogyasztói követelés pénzügyi teljesítéséig az átszámított fogyasztói kölcsönszerződés elszámolási fordulónapján érvényes kamatlába alapján számított összeggel kell megnövelni. Amennyiben a fogyasztói kölcsönszerződés az elszámolási fordulónapon a 2014. évi XL. törvény 5. § (4) bekezdése szerint már meg-szűnt, akkor a fogyasztói követelést az érintett naptári félév első napján érvényes jegybanki alapkamattal, illetve devizában meghatározott követelés esetén a fogyasztói követelés devizanemének megfelelő 3 hónapos pénzpiaci kamattal (CHF LIBOR, EURIBOR stb.) kell megnövelni.
 
-5. Az elszámolás fordulónapjáig átszámított fogyasztói követelést az elszámolás fordulónapjától a fogyasztói követelés pénzügyi teljesítéséig az átszámított fogyasztói kölcsönszerződés elszámolási fordulónapján érvényes kamatlába alapján számított összeggel kell megnövelni. Amennyiben a fogyasztói kölcsönszerződés az elszámolás fordulónapján a 2014. évi XL. törvény 5. § (4) bekezdése szerint már megszűnt, akkor a fogyasztói követelést az érintett naptári félév első napján érvényes jegybanki alapkamattal, illetve devizában meghatározott követelés esetén a fogyasztói követelés devizanemének megfelelő 3 hónapos pénzpiaci kamattal kell megnövelni.
+[^8]: A 2. melléklet az 53/2014. (XII. 10.) MNB rendelet 4. §-ával megállapított szöveg.
