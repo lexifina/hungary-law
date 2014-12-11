@@ -42,38 +42,41 @@
 
 21. az Asociatia Exploratori Transilvaneni (Erdélyi Kutatócsoport Egyesület),
 
-22.[^6] a Magyarországi Jogsértettek Egyesülete,
+22.[^7] a Magyarországi Jogsértettek Egyesülete,
 
-23.[^7] a Szolnoki Fúvósegyüttes és Huszárzenekar,
+23.[^8] a Szolnoki Fúvósegyüttes és Huszárzenekar,
 
-24.[^8] az Asociatia Szentegyházi Hagyományőrző Huszár Egyesület (Szentegyházi Hagyományőrző Huszár Egyesület),
+24.[^9] az Asociatia Szentegyházi Hagyományőrző Huszár Egyesület (Szentegyházi Hagyományőrző Huszár Egyesület),
 
-25.[^9] a Nagy Háború Kutatásáért Közhasznú Alapítvány,
+25.[^10] a Nagy Háború Kutatásáért Közhasznú Alapítvány,
 
-26.[^10] a Magyar Hadisírgondozó Szövetség,
+26.[^11] a Magyar Hadisírgondozó Szövetség,
 
-27.[^11] a Skultéty László Katonai Lovas Hagyományokat Támogató Egyesület,
+27.[^12] a Skultéty László Katonai Lovas Hagyományokat Támogató Egyesület,
 
-28.[^12] a Doni Bajtársi és Kegyeleti Szövetség
+28.[^13] a Doni Bajtársi és Kegyeleti Szövetség,
+
+29.[^14] a Honvéd Hagyományőrző Egyesület
 
 ## működésének és alapszabályában rögzített feladatai végrehajtásának támogatására.
 
 (2) Az egyedi döntés során a kedvezményezett katonai hagyományőrző, honvédelmet népszerűsítő, hadisír-gondozási vagy katonai érdekképviseleti tevékenysége kerül figyelembevételre.
 
-(3)[^13] Az előirányzat támogatási előlegként folyósítható, felhasználása utólagos elszámolás mellett egy összegben – az Ávr. 78. § (3) bekezdése szerinti esetben részletekben – történő, vissza nem térítendő támogatás nyújtásával valósul meg.
+(3)[^15] Az előirányzat támogatási előlegként folyósítható, felhasználása utólagos elszámolás mellett egy összegben – az Ávr. 78. § (3) bekezdése szerinti esetben részletekben – történő, vissza nem térítendő támogatás nyújtásával valósul meg.
 
 (4) A támogatási szerződésben biztosítékként az Ávr. 77. § (2) bekezdése szerinti felhatalmazó nyilatkozatot kell megjelölni.
 
 (5) Ha a külföldi kedvezményezett a (4) bekezdés szerinti felhatalmazó nyilatkozatot nem tudja megadni, a támogatási szerződésben biztosítékként a zálogjog, óvadék, bankgarancia vagy kezesség is megjelölhető.
 
-(6)[^14] Az (1) bekezdés 1., 6., 12., 19., 23. és 24. pontja alapján nyújtott támogatás az Európai Bizottság SA. 34770 (2012/N-2) ügyben hozott 2012. július 27-i határozata szerinti kulturális támogatás.
+(6)[^16] Az (1) bekezdés 1., 6., 12., 19., 23. és 24. pontja alapján nyújtott támogatás az Európai Bizottság SA. 34770 (2012/N-2) ügyben hozott 2012. július 27-i határozata szerinti kulturális támogatás.
 
-[^6]: A 16. § (1) bekezdés 22. pontját a 23/2013. (X. 17.) HM rendelet 1. §-a iktatta be.
-[^7]: A 16. § (1) bekezdés 23. pontját a 23/2013. (X. 17.) HM rendelet 1. §-a iktatta be.
-[^8]: A 16. § (1) bekezdés 24. pontját a 23/2013. (X. 17.) HM rendelet 1. §-a iktatta be.
-[^9]: A 16. § (1) bekezdés 25. pontját az 5/2014. (III. 27.) HM rendelet 4. § (1) bekezdése iktatta be.
-[^10]: A 16. § (1) bekezdés 26. pontját az 5/2014. (III. 27.) HM rendelet 4. § (1) bekezdése iktatta be.
-[^11]: A 16. § (1) bekezdés 27. pontját az 5/2014. (III. 27.) HM rendelet 4. § (1) bekezdése iktatta be.
-[^12]: A 16. § (1) bekezdés 28. pontját az 5/2014. (III. 27.) HM rendelet 4. § (1) bekezdése iktatta be.
-[^13]: A 16. § (3) bekezdése az 5/2014. (III. 27.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^14]: A 16. § (6) bekezdése a 23/2013. (X. 17.) HM rendelet 3. § c) pontja, az 5/2014. (III. 27.) HM rendelet 9. § a) pontja szerint módosított szöveg.
+[^7]: A 16. § (1) bekezdés 22. pontját a 23/2013. (X. 17.) HM rendelet 1. §-a iktatta be.
+[^8]: A 16. § (1) bekezdés 23. pontját a 23/2013. (X. 17.) HM rendelet 1. §-a iktatta be.
+[^9]: A 16. § (1) bekezdés 24. pontját a 23/2013. (X. 17.) HM rendelet 1. §-a iktatta be.
+[^10]: A 16. § (1) bekezdés 25. pontját az 5/2014. (III. 27.) HM rendelet 4. § (1) bekezdése iktatta be.
+[^11]: A 16. § (1) bekezdés 26. pontját az 5/2014. (III. 27.) HM rendelet 4. § (1) bekezdése iktatta be.
+[^12]: A 16. § (1) bekezdés 27. pontját az 5/2014. (III. 27.) HM rendelet 4. § (1) bekezdése iktatta be.
+[^13]: A 16. § (1) bekezdés 28. pontját az 5/2014. (III. 27.) HM rendelet 4. § (1) bekezdése iktatta be.
+[^14]: A 16. § (1) bekezdés 29. pontját a 15/2014. (XII. 10.) HM rendelet 1. §-a iktatta be.
+[^15]: A 16. § (3) bekezdése az 5/2014. (III. 27.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^16]: A 16. § (6) bekezdése a 23/2013. (X. 17.) HM rendelet 3. § c) pontja, az 5/2014. (III. 27.) HM rendelet 9. § a) pontja szerint módosított szöveg.
