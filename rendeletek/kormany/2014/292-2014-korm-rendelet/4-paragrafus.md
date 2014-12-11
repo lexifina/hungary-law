@@ -1,0 +1,3 @@
+## 3. § A Vhr. 19. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A közérdekű üzemeltetői tevékenység befejezésekor, az üzemeltetési feladat átadását szolgáló átadás-átvétel megtörténtéről a közérdekű üzemeltető és az új szerződéses víziközmű-szolgáltató vagy a (2) bekezdés alapján kijelölt új közérdekű üzemeltető jegyzőkönyvet vesz fel. Az átadás-átvételi eljárásban a Hivatal és az ellátásért felelős részt vehet és észrevételt tehet. Ha a Hivatal az átadás-átvételen nem vesz részt, úgy az új szerződéses víziközmű-szolgáltató vagy a (2) bekezdés alapján kijelölt új közérdekű üzemeltető köteles az átadás-átvétel megtörténtét igazoló jegyzőkönyv egy hiteles példányát a Hivatal részére annak felvételétől számított 3 munkanapon belül megküldeni.”
