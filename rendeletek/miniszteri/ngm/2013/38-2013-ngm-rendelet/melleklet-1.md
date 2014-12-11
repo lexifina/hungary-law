@@ -108,7 +108,7 @@ KÖVETELÉSEKKEL, KÖTELEZETTSÉGVÁLLALÁSOKKAL, MÁS FIZETÉSI KÖTELEZETTSÉG
 
 | 572 | F | ― | ― | K |  | T |  | T | 492 |
 
-| 6 | E | ― | ― | T |  | K |  |  | 691-en keresztül átvezetés a 7. számla-osztályba |
+| 6 | E | ― | ― | T |  | K |  |  | 691-en keresztül átvezetés a 7. számla- osztályba |
 
 | 7 | E | ― | ― | T |  | K |  |  | 591 |
 
@@ -130,7 +130,7 @@ KÖVETELÉSEKKEL, KÖTELEZETTSÉGVÁLLALÁSOKKAL, MÁS FIZETÉSI KÖTELEZETTSÉG
 
 | 006 | F | K | 01-04 | K |  | T |  | T | 01-04 |
 
-## B) A példákban a követelések elszámolása azt feltételezi, hogy azok esedékessége – a teljesítés határnapja vagy a teljesítésre rendelkezésre álló határidő kezdő napja – a költségvetési évre esik. Ha ez későbbi időpontra esik, a követelést a költségvetési évet követő években esedékes követelések között kell nyilvántartásba venni, elszámolni:
+## B) A példákban a követelések elszámolása azt feltételezi, hogy azok esedékessége – a teljesítés határnapja vagy a teljesítésre rendelkezésre álló határidő kezdő napja – a költségvetési évre esik. Ha ez későbbi időpontra esik, a követelést a költségvetési évet követően esedékes követelések között kell nyilvántartásba venni, elszámolni:
 
 | 1. Költségvetési évet követően esedékes követelés nyilvántartásba vétele a költségvetési számvitel szerint | T09(2) | – | K0042 |
 
@@ -140,7 +140,7 @@ KÖVETELÉSEKKEL, KÖTELEZETTSÉGVÁLLALÁSOKKAL, MÁS FIZETÉSI KÖTELEZETTSÉG
 
 | Eredményszemléletű bevétel elhatárolása | T9 | – | K441 |
 
-## D) Határozatlan idejű vagy több év előirányzatait érintő követelések (pl. több évre adott, folyamatosan törlesztett visszatérítendő támogatások, kölcsönök) esetén szükséges azokat megosztani a költségvetési évben esedékes követelések és költségvetési évet követő években esedékes követelések között.
+## D) Határozatlan idejű vagy több év előirányzatait érintő követelések (pl. több évre adott, folyamatosan törlesztett visszatérítendő támogatások, kölcsönök) esetén szükséges azokat megosztani a költségvetési évben esedékes követelések és költségvetési évet követően esedékes követelések között.
 
 ## E) A példákban a kötelezettségvállalások, más fizetési kötelezettségek nyilvántartásba vétele (majd annak véglegessége esetén a pénzügyi számvitelben kötelezettségként elszámolása) azt feltételezi, hogy azok esedékessége – a teljesítés határnapja vagy a teljesítésre rendelkezésre álló határidő kezdő napja – a költségvetési évre esik. Ha ez későbbi időpontra esik, azt a 0023. Költségvetési évet követően esedékes kötelezettségvállalás, más fizetési kötelezettség nyilvántartási ellenszámlával vagy 0024. Költségvetési évet követően esedékes végleges kötelezettségvállalás, más fizetési kötelezettség nyilvántartási ellenszámlával szemben kell nyilvántartásba venni:
 
@@ -158,19 +158,19 @@ KÖVETELÉSEKKEL, KÖTELEZETTSÉGVÁLLALÁSOKKAL, MÁS FIZETÉSI KÖTELEZETTSÉG
 
 | Költség, ráfordítás elhatárolása | T372 | – | K5–8 |
 
-## I) Határozatlan idejű vagy több év előirányzatait érintő kötelezettségvállalások, más fizetési kötelezettségek (pl. több éves hitelek, kölcsönök, szolgáltatások, közüzemi díjak, személyi juttatások, ellátások) esetén szükséges azokat megosztani a költségvetési évben esedékes kötelezettségvállalások, más fizetési kötelezettségek és költségvetési évet követő években esedékes kötelezettségvállalások, más fizetési kötelezettségek között a megfelelő nyilvántartási ellenszámlák használatával. A pénzügyi számvitelben a megosztásnak megfelelően kell a követelést, – végleges kötelezettségvállalás, más fizetési kötelezettség esetén a – kötelezettséget elszámolni.
+## I) Határozatlan idejű vagy több év előirányzatait érintő kötelezettségvállalások, más fizetési kötelezettségek (pl. több éves hitelek, kölcsönök, szolgáltatások, közüzemi díjak, személyi juttatások, ellátások) esetén szükséges azokat megosztani a költségvetési évben esedékes kötelezettségvállalások, más fizetési kötelezettségek és költségvetési évet követően esedékes kötelezettségvállalások, más fizetési kötelezettségek között a megfelelő nyilvántartási ellenszámlák használatával. A pénzügyi számvitelben a megosztásnak megfelelően kell a követelést, – végleges kötelezettségvállalás, más fizetési kötelezettség esetén a – kötelezettséget elszámolni.
 
 ## J) Kivételt képeznek az I) pontban foglaltak alól a költségvetési szerv, fejezeti kezelésű előirányzat tárgyévi kiadási előirányzatait terhelő olyan határozott idejű kötelezettségvállalások, más fizetési kötelezettségek, amelyek esetén valamennyi kifizetés a költségvetési évet követő év június 30-áig megtörténik. Ezeket teljes egészében a 0021. Költségvetési évben esedékes kötelezettségvállalás, más fizetési kötelezettség nyilvántartási ellenszámlával vagy 0022. Költségvetési évben esedékes végleges kötelezettségvállalás, más fizetési kötelezettség nyilvántartási ellenszámlával szemben lehet nyilvántartásba venni. A pénzügyi számvitelben ennek megfelelően kell kötelezettséget elszámolni, miután az végleges kötelezettségvállalásnak, más fizetési kötelezettségnek minősül.
 
-## K) Ha a költségvetési évet követő években esedékes követelések vagy kötelezettségvállalások, más fizetési kötelezettségek után kell teljesítést nyilvántartásba venni, azt előbb át kell sorolni a költségvetési évben esedékes követelések vagy kötelezettségvállalások, más fizetési kötelezettsége közé. Ha a követelések, kötelezettségvállalások, más fizetési kötelezettségek esedékességében változás következik be (például a támogatás kedvezményezettje halasztást kap, hogy a következő évben fizesse vissza a támogatást), az átsorolást szintén meg kell tenni. Ha a követelések, kötelezettségvállalások, más fizetési kötelezettségek összegében változás következik be (például a tárgyévre járó személyi juttatás csökkentése szükséges, mivel a legutóbb számfejtett időszakra nem vagy kevesebb összegű illetmény jár), azok összegét kell módosítani. A pénzügyi számvitelben ennek megfelelően kell a követelést, – végleges kötelezettségvállalás, más fizetési kötelezettség esetén a – kötelezettséget elszámolni:
+## K) Ha a költségvetési évet követően esedékes követelések vagy kötelezettségvállalások, más fizetési kötelezettségek után kell teljesítést nyilvántartásba venni, azt előbb át kell sorolni a költségvetési évben esedékes követelések vagy kötelezettségvállalások, más fizetési kötelezettsége közé. Ha a követelések, kötelezettségvállalások, más fizetési kötelezettségek esedékességében változás következik be (például a támogatás kedvezményezettje halasztást kap, hogy a következő évben fizesse vissza a támogatást), az átsorolást szintén meg kell tenni. Ha a követelések, kötelezettségvállalások, más fizetési kötelezettségek összegében változás következik be (például a tárgyévre járó személyi juttatás csökkentése szükséges, mivel a legutóbb számfejtett időszakra nem vagy kevesebb összegű illetmény jár), azok összegét kell módosítani. A pénzügyi számvitelben ennek megfelelően kell a követelést, – végleges kötelezettségvállalás, más fizetési kötelezettség esetén a – kötelezettséget elszámolni:
 
-| 1. Költségvetési évben esedékes követelések átvezetése a költségvetési évet követő években esedékes követelések közé a költségvetési számvitel szerint | T0041 T09(2) | – | K09(2) K0042 |
+| 1. Költségvetési évben esedékes követelések átvezetése a költségvetési évet követően esedékes követelések közé a költségvetési számvitel szerint | T0041 T09(2) | – | K09(2) K0042 |
 
-| 2. Költségvetési évben esedékes követelések átvezetése a költségvetési évet követő években esedékes követelések közé a pénzügyi számvitel szerint | T352 | – | K351 |
+| 2. Költségvetési évben esedékes követelések átvezetése a költségvetési évet követően esedékes követelések közé a pénzügyi számvitel szerint | T352 | – | K351 |
 
-| 3. Költségvetési évben esedékes kötelezettségvállalások, más fizetési kötelezettségek átvezetése a költségvetési évet követő években esedékes kötelezettségvállalások, más fizetési kötelezettségek közé a költségvetési számvitel szerint | T05(2) T0023/0024 | – | K0021/0022 K05(2) |
+| 3. Költségvetési évben esedékes kötelezettségvállalások, más fizetési kötelezettségek átvezetése a költségvetési évet követően esedékes kötelezettségvállalások, más fizetési kötelezettségek közé a költségvetési számvitel szerint | T05(2) T0023/0024 | – | K0021/0022 K05(2) |
 
-| 4. Költségvetési évben esedékes kötelezettségek átvezetése a költségvetési évet követő években esedékes kötelezettségek közé a pénzügyi számvitel szerint | T421 | – | K422 |
+| 4. Költségvetési évben esedékes kötelezettségek átvezetése a költségvetési évet követően esedékes kötelezettségek közé a pénzügyi számvitel szerint | T421 | – | K422 |
 
 ## L) Ha a költségvetési évben esedékes követelések, kötelezettségvállalások, más fizetési kötelezettségek teljesítése a költségvetési évben nem történt meg, a nem teljesített rész a könyvviteli nyitás során változatlanul meg fog jelenni a 3. vagy 4. számlaosztály és a 05. vagy 09. számlacsoport megfelelő nyilvántartási számláin. A költségvetési évet követő évben esedékes követelések, kötelezettségvállalások, más fizetési kötelezettségek (kötelezettségek) közül azonban az adott költségvetési évben esedékes követelések, kötelezettségvállalások, más fizetési kötelezettségek (kötelezettségek) összegét át kell vezetni a költségvetési évben esedékes követelések, kötelezettségvállalások, más fizetési kötelezettségek (kötelezettségek) közé a XIV. Könyvviteli nyitás feladatai fejezetben foglaltak szerint.
 
@@ -234,11 +234,11 @@ IMMATERIÁLIS JAVAK BESZERZÉSÉVEL, ELŐÁLLÍTÁSÁVAL, BERUHÁZÁSOKKAL KAPCS
 
 | 8. Pénzügyi teljesítéskor keletkezett árfolyamveszteség a pénzügyi számvitel szerint |
 
-| a) Kötelezettségként | T853 | – | K4216 |
+| a) Kötelezettségként | T853 | – | K4213 |
 
-| b) Teljesítésként | T4216 | – | K32/33 |
+| b) Teljesítésként | T4213 | – | K32/33 |
 
-| 9. Pénzügyi teljesítéskor keletkezett árfolyamnyereség a költségvetési számvitel szerint: a 3. pont szerintiek fordítottjaként |
+| 9. Pénzügyi teljesítéskor keletkezett árfolyamnyereség a költségvetési számvitel szerint: a 3. pont a) alpontja szerintiek fordítottjaként |
 
 | 10. Pénzügyi teljesítéskor keletkezett árfolyamnyereség a pénzügyi számvitel szerint | T4216 | – | K933 |
 
@@ -394,7 +394,7 @@ IMMATERIÁLIS JAVAKKAL, TÁRGYI ESZKÖZÖKKEL KAPCSOLATOS EGYÉB ELSZÁMOLÁSOK
 
 ## A II. fejezet B) Saját előállítás elszámolása cím szerint, azzal az eltéréssel, hogy a 151. könyvviteli számla helyett a 152. könyvviteli számlát kell használni.
 
-## J) Bérbe adott eszközön a bérlő által bérleti dj fejében végzett felújítás elszámolása
+## J) Bérbe adott eszközön a bérlő által bérleti díj fejében végzett felújítás elszámolása
 
 | 1. Bérleti díj számlázása a felújítás összegével egyezően a költségvetési számvitel szerint | T094022 | – | K0041 |
 
@@ -406,7 +406,7 @@ IMMATERIÁLIS JAVAKKAL, TÁRGYI ESZKÖZÖKKEL KAPCSOLATOS EGYÉB ELSZÁMOLÁSOK
 
 ## K) Bérbe adott, használatba adott eszközön a bérlő, használó által ingyenesen végzett felújítás elszámolása
 
-## Az e fejezet Növekedések A) Térítés nélküli átvett, többletként fellelt immateriális javak, tárgyi eszközök elszámolása cím szerint, azzal az eltéréssel, hogy a 11/121-141. könyvviteli számlák helyett a 152. könyvviteli számlát kell használni.
+| Az e fejezet Növekedések A) Térítés nélkül, ajándékként, hagyatékként kapott, többletként fellelt immateriális javak, tárgyi eszközök elszámolása cím szerint, azzal az eltéréssel, hogy a 11/121-141. könyvviteli számlák helyett a 152. könyvviteli számlát és a K351. rovat helyett a K67. rovatot kell használni. |
 
 ## L) Idegen eszközön végzett felújítások átadásának elszámolása
 
@@ -492,9 +492,9 @@ IMMATERIÁLIS JAVAKKAL, TÁRGYI ESZKÖZÖKKEL KAPCSOLATOS EGYÉB ELSZÁMOLÁSOK
 
 | 1. Az eszköz kivezetésének elszámolása: az E) Apportba adás elszámolása cím 1-3. pontja szerint |
 
-| 2. Általános forgalmi adó elszámolása a pénzügyi számvitel szerint, ha nem hárítja át az átvevőre | T843 | – | K3642 |
+| 2. Általános forgalmi adó elszámolása a pénzügyi számvitel szerint, ha az átadó nem hárítja át az átvevőre | T843 | – | K3642 |
 
-| 3. Általános forgalmi adó elszámolása a költségvetési számvitel szerint, ha áthárítja az átvevőre |
+| 3. Általános forgalmi adó elszámolása a költségvetési számvitel szerint, ha az átadó áthárítja az átvevőre |
 
 | a) Követelésként | T094062 | – | K004 |
 
@@ -512,7 +512,7 @@ IMMATERIÁLIS JAVAKKAL, TÁRGYI ESZKÖZÖKKEL KAPCSOLATOS EGYÉB ELSZÁMOLÁSOK
 
 | 2. Visszanyert érték elszámolása | T21-22 | – | K11/121-151 |
 
-| 3. Eszköz kivezetése a pénzügyi számvitel szerint | T118-158 T119-149 | – | K11/121-141 |
+| 3. Eszköz kivezetése a pénzügyi számvitel szerint | T118-158 T119-149 | – | K11/121-151 |
 
 | 4. Értékhelyesbítés kivezetése a pénzügyi számvitel szerint | T415 | – | K116-146 |
 
@@ -532,7 +532,7 @@ IMMATERIÁLIS JAVAKKAL, TÁRGYI ESZKÖZÖKKEL KAPCSOLATOS EGYÉB ELSZÁMOLÁSOK
 
 | Átminősítés a pénzügyi számvitel szerint | T21-22 | – | K11/151 |
 
-## I) Tárgyévben használatba vett eszköz átminősítése készletté elszámolása
+## I) Használatba vett eszköz átminősítése készletté elszámolása
 
 | 1. Tárgyévben elszámolt terv szerinti értékcsökkenési leírás visszavezetése a pénzügyi számvitel szerint | T139-149 T591 | – | K56 K6/7 |
 
@@ -622,7 +622,7 @@ RÉSZESEDÉSEKKEL, ÉRTÉKPAPÍROKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 1. Kötelezettségvállalás a költségvetési számvitel szerint | T0021 | – | K05652 |
 
-| 2. Vásárlás esedékessé válása a költségvetési számvitel szerint | T05652 K0022 | – | K0021 K05652 |
+| 2. Vásárlás esedékessé válása a költségvetési számvitel szerint | T05652 T0022 | – | K0021 K05652 |
 
 | 3. Vásárlás esedékessé válása a pénzügyi számvitel szerint | T161-163/241 | – | K4216/4219 |
 
@@ -646,45 +646,57 @@ RÉSZESEDÉSEKKEL, ÉRTÉKPAPÍROKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 ## C) Hitelviszonyt megtestesítő értékpapírok vásárlása elszámolása
 
-| 1. Kötelezettségvállalás a költségvetési számvitel szerint | T0021 | – | K059121/ 059123/05921/ 05922(2) |
+| 1. Kötelezettségvállalás a költségvetési számvitel szerint |
+
+| a) A névértékig | T0021 | – | K059121/ 059123/05921/05922(2) |
+
+| b) A névérték és a vételár különbözete | T0021 | – | K053542 |
 
 | 2. Vásárlás esedékessé válása a költségvetési számvitel szerint |
 
-| a) A felhalmozott kamat nélkül | T059121/ 059123/05921/ 05922(2) T0022 | – | K0021 K059121/ 059123/05921/05922(2) |
+| a) A felhalmozott kamat nélkül | T059121/ 059123/05921/05922(2) T0022 | – | K0021 K059121/ 059123/05921/05922(2) |
 
-| b) A vételáron kívüli felhalmozott kamat, ha korábban kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartásba vették | T059121/ 059123/05921/ 05922(2) T0022 | – | K0021 K053532 |
+| b) A névérték és a vételár különbözete a kötelezettségvállalás, más fizetési kötelezettség csökkenésként | T053542 | – | K0021 |
 
-| c) A vételáron kívüli felhalmozott kamat, ha korábban kötelezettségvállalásként, más fizetési kötelezettségként nem vették nyilvántartásba | T0022 | – | K053532 |
+| c) A névérték és a vételár különbözete végleges kötelezettségvállalásként, más fizetési kötelezettségként | T0022 | – | K053542 |
+
+| d) A vételáron kívüli felhalmozott kamat végleges kötelezettségvállalásként, más fizetési kötelezettségként | T0022 | – | K053532 |
 
 | 3. Vásárlás esedékessé válása a pénzügyi számvitel szerint |
 
 | a) A felhalmozott kamat nélkül | T17/24 | – | K4219 |
 
-| b) A vételáron kívüli felhalmozott kamat | T851 | – | K4213 |
+| b) A névérték és a vételár különbözete | T853 | – | K4213 |
+
+| c) A vételáron kívüli felhalmozott kamat | T851 | – | K4213 |
 
 | 4. Értékpapír megvásárlása a költségvetési számvitel szerint |
 
-| a) A felhalmozott kamat nélkül | T059121/ 059123/05921/ 05922(3) | – | K003 |
+| a) A felhalmozott kamat nélkül | T059121/ 059123/05921/05922(3) | – | K003 |
 
-| b) A vételáron kívüli felhalmozott kamat | T053533 | – | K003 |
+| b) A névérték és a vételár különbözete | T053543 | – | K003 |
+
+| c) A vételáron kívüli felhalmozott kamat | T053533 | – | K003 |
 
 | 5. Értékpapír megvásárlása a pénzügyi számvitel szerint |
 
 | a) A felhalmozott kamat nélkül | T4219 | – | K32/33 |
 
-| b) A vételáron kívüli felhalmozott kamat | T4213 | – | K32/33 |
+| b) A névérték és a vételár különbözete | T4213 | – | K32/33 |
+
+| c) A vételáron kívüli felhalmozott kamat | T4213 | – | K32/33 |
 
 | 6. A megvásárolt értékpapír után kapott kamat elszámolása a költségvetési számvitel szerint |
 
-| a) Követelésként | T004 | – | K094082 |
+| a) Követelésként | T094082 | – | K0041 |
 
-| b) Teljesítésként | T094083 | – | K005 |
+| b) Teljesítésként | T005 | – | K094083 |
 
 | 7. A megvásárolt értékpapír után kapott kamat elszámolása a pénzügyi számvitel szerint |
 
 | a) Követelésként | T3514 | – | K932 |
 
-| b) Teljesítésként | T33 | – | K3514 |
+| b) Teljesítésként | T32/33 | – | K3514 |
 
 | 8. A megvásárolt értékpapír után tárgyidőszakot illető, de még nem esedékes kamat elhatárolása a pénzügyi számvitel szerint | T371 | – | K932 |
 
@@ -716,25 +728,33 @@ RÉSZESEDÉSEKKEL, ÉRTÉKPAPÍROKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 2. Értékesítés a költségvetési számvitel szerint |
 
-| a) Értékesítés bevétele (hitelviszonyt megtestesítő értékpapírnál könyv szerinti értékig) követelésként | T0954/098121/ 098123/09821/ 09822(2) | – | K0041 |
+| a) Értékesítés bevétele (legfeljebb a könyv szerinti értékig) követelésként | T0954/098121/098123/09821/ 09822(2) | – | K0041 |
 
-| b) Értékesítés bevétele (hitelviszonyt megtestesítő értékpapírnál könyv szerinti értékig) teljesítésként | T005 | – | K0954/ 098121/ 098123/09821/ 09822(3) |
+| b) Értékesítés bevétele (legfeljebb a könyv szerinti értékig) teljesítésként | T005 | – | K0954/ 098121/ 098123/09821/09822(3) |
 
-| c) Hitelviszonyt megtestesítő értékpapírnál a könyv szerinti érték feletti nyereség jellegű különbözet követelésként | T094092 | – | K0041 |
+| c) Hitelviszonyt megtestesítő értékpapír esetén az eladási árban elismert kamat követelésként | T094082 | – | K0041 |
 
-| d) Hitelviszonyt megtestesítő értékpapírnál a könyv szerinti érték feletti nyereség jellegű különbözet teljesítésként | T005 | – | K094093 |
+| d) Hitelviszonyt megtestesítő értékpapír esetén az eladási árban elismert kamat teljesítésként | T005 | – | K094083 |
+
+| e) A könyv szerinti érték és az eladási árban elismert kamat feletti nyereség jellegű különbözet követelésként | T094092 | – | K0041 |
+
+| f) A könyv szerinti érték és az eladási árban elismert kamat feletti nyereség jellegű különbözet teljesítésként | T005 | – | K094093 |
 
 | 3. Értékesítés a pénzügyi számvitel szerint |
 
-| a) Értékesítés bevétele (hitelviszonyt megtestesítő értékpapírnál könyv szerinti értékig) követelésként | T3515/3518 | – | K16/17/24 |
+| a) Értékesítés bevétele (legfeljebb a könyv szerinti értékig) követelésként | T3515/3518 | – | K16/17/24 |
 
-| b) Értékesítés bevétele (hitelviszonyt megtestesítő értékpapírnál könyv szerinti értékig) teljesítésként | T32/33 | – | K3515/3518 |
+| b) Értékesítés bevétele (legfeljebb a könyv szerinti értékig) teljesítésként | T32/33 | – | K3515/3518 |
 
-| c) Hitelviszonyt megtestesítő értékpapírnál a könyv szerinti érték feletti nyereség jellegű különbözet követelésként | T3514 | – | K933 |
+| c) Hitelviszonyt megtestesítő értékpapír esetén az eladási árban elismert kamat követelésként | T3514 | – | K932 |
 
-| d) Hitelviszonyt megtestesítő értékpapírnál a könyv szerinti érték feletti nyereség jellegű különbözet teljesítésként | T32/33 | – | K3514 |
+| d) Hitelviszonyt megtestesítő értékpapír esetén az eladási árban elismert kamat teljesítésként | T32/33 | – | K3514 |
 
-| e) Hitelviszonyt megtestesítő értékpapírnál a könyv szerinti érték és az értékesítési bevétel közötti veszteség jellegű különbözet elszámolása | T853 | – | K3515/3518 |
+| e) A könyv szerinti érték és az eladási árban elismert kamat feletti nyereség jellegű különbözet követelésként | T3514 | – | K933 |
+
+| f) A könyv szerinti érték és az eladási árban elismert kamat feletti nyereség jellegű különbözet teljesítésként | T32/33 | – | K3514 |
+
+| g) A könyv szerinti érték és az értékesítési bevétel közötti veszteség jellegű különbözet elszámolása | T853 | – | K16/17/24 |
 
 ## B) Részesedés, értékpapír térítés nélküli átadásának elszámolása
 
@@ -770,9 +790,13 @@ RÉSZESEDÉSEKKEL, ÉRTÉKPAPÍROKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 ## C) Külföldi pénzeszközben fennálló részesedések, értékpapírok év végi értékelésének elszámolása
 
-| 1. Árfolyamveszteség a pénzügyi számvitel szerint | T853 | – | K16/17/24 |
+| 1. Árfolyamveszteség a pénzügyi számvitel szerint | T494 | – | K16/17/24 |
 
-| 2. Árfolyamnyereség a pénzügyi számvitel szerint | T16/17/24 | – | K933 |
+| 2. Árfolyamnyereség a pénzügyi számvitel szerint | T16/17/24 | – | K494 |
+
+| 3. Árfolyamveszteség a pénzügyi számvitel szerint, ha a 494. számla egyenlege veszteség jellegű | T853 | – | K494 |
+
+| 4. Árfolyamnyereség a pénzügyi számvitel szerint, ha a 494. számla egyenlege nyereség jellegű | T494 | – | K933 |
 
 ## D) Részesedések után járó, kapott osztalék elszámolása
 
@@ -818,9 +842,17 @@ VÁSÁROLT KÉSZLETEKKEL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | a) Készletre vétel nettó összegben (előleggel együtt) | T211/212 | – | K4213 |
 
-| b) Beszerzéssel egyidejű anyagfelhasználás elszámolása nettó összegben (előleggel együtt) | T51 | – | K4213 |
+| b) Beszerzéssel egyidejű anyagfelhasználás elszámolása nettó összegben (előleggel együtt) | T51 T6/7 | – | K4213 K591 |
 
 | c) Előleg rendezése | T4213 | – | K36513 |
+
+| d) Levonható előzetesen felszámított általános forgalmi adó (előleg utáni általános forgalmi adóval) | T3641 | – | K4213 |
+
+| e) Előleg utáni levonható előzetesen felszámított általános forgalmi adó rendezése | T4213 | – | K3641 |
+
+| f) Le nem vonható előzetesen felszámított általános forgalmi adó (előleg utáni általános forgalmi adóval) | T843 | – | K4213 |
+
+| g) Előleg utáni le nem vonható előzetesen felszámított általános forgalmi adó rendezése | T4213 | – | K843 |
 
 | 5. A számla kiegyenlítése a költségvetési számvitel szerint |
 
@@ -830,13 +862,15 @@ VÁSÁROLT KÉSZLETEKKEL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 6. A számla bruttó összege kiegyenlítése a pénzügyi számvitel szerint (előleg nélkül) | T4213 | – | K32/33 |
 
-| 7. Pénzügyi teljesítéskor keletkezett árfolyam-különbözet a költségvetési és a pénzügyi számvitel szerint: a II. fejezet A) Vásárlás elszámolása 8-10. pontja szerint |
+| 7. Pénzügyi teljesítéskor keletkezett árfolyam-különbözet a költségvetési és a pénzügyi számvitel szerint: a II. fejezet A) Vásárlás elszámolása 7-10. pontja szerint |
 
 ## B) Raktári többlet elszámolása
 
-| 1. Anyagok raktári többlete a pénzügyi számvitel szerint | T211 | – | K923 |
+| 1. Anyagok raktári többlete a pénzügyi számvitel szerint | T211 | – | K9423 |
 
-| 2. Áruk raktári többlete a pénzügyi számvitel szerint | T212 | – | K923 |
+| 2. Áruk raktári többlete a pénzügyi számvitel szerint | T212 | – | K9423 |
+
+| 3. Időbeli elhatárolás a pénzügyi számvitel szerint | T9423 | – | K443 |
 
 ## C) Térítés nélkül átvett, ajándékként, hagyatékként kapott készletek elszámolása
 
@@ -844,7 +878,7 @@ VÁSÁROLT KÉSZLETEKKEL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 2. Időbeli elhatárolás a pénzügyi számvitel szerint (az Szt. 45. § (1) bekezdés c) pontja és az Áhsz. 28. § (4) bekezdése szerint) | T9421/9422 | – | K443 |
 
-## D) Követelés fejében átvett készletek elszámolása
+## D) Követelés fejében átvett készletek elszámolása csődeljárás, felszámolási eljárás, végrehajtási eljárás során
 
 | 1. Követelés kivezetése az átvett készlet bekerülési értékéig a költségvetési számvitel szerint | T0041 | – | K09(2) |
 
@@ -862,7 +896,7 @@ VÁSÁROLT KÉSZLETEKKEL KAPCSOLATOS ELSZÁMOLÁSOK
 
 ## B) Anyag-, áruértékesítés elszámolása
 
-| 1. Könyv szerinti érték kivezetése a pénzügyi számvitel szerint | T51/813 T6/7 | – | K211/212 K591 |
+| 1. Könyv szerinti érték kivezetése a pénzügyi számvitel szerint | T813 | – | K211/212 |
 
 | 2. Számlázott eladási ár a költségvetési számvitel szerint |
 
@@ -932,7 +966,7 @@ SAJÁT TERMELÉSŰ KÉSZLETEKKEL KAPCSOLATOS ELSZÁMOLÁSOK
 
 ## A) Késztermékek értékesítésének elszámolása
 
-| 1. Késztermék kivezetése a pénzügyi számvitel szerint | T571 | – | K232 |
+| 1. Késztermék kivezetése a pénzügyi számvitel szerint | T571 T6/7 | – | K232 K591 |
 
 | 2. További elszámolások: az V. fejezet Csökkenések B) Anyag-, áruértékesítés elszámolása cím 2-5. pontja szerint |
 
@@ -980,29 +1014,27 @@ PÉNZESZKÖZÖKKEL, FINANSZÍROZÁSSAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 ## A) Hosszú lejáratú betétek elszámolása
 
-| 1. Betételhelyezés a költségvetési számvitel szerint |
+| 1. Betételhelyezés a költségvetési számvitel szerint | T059163 | – | K003 |
 
-| a) Végleges kötelezettségvállalásként, más fizetési kötelezettségként | T0022 | – | K059162 |
+| 2. Betételhelyezés a pénzügyi számvitel szerint | T311/312 | – | K32/33 |
 
-| b) Teljesítésként | T059163 | – | K003 |
+| 3. A kamat jóváírása a költségvetési számvitel szerint |
 
-| 2. Betételhelyezés a pénzügyi számvitel szerint |
+| a) Követelésként (amennyiben korábban nem került előírásra) | T094082 | – | K0041 |
 
-| a) Kötelezettségként | T311/312 | – | K4219 |
+| b) Teljesítésként | T005 | – | K094083 |
 
-| b) Teljesítésként | T4219 | – | K32/33 |
+| 4. A kamat jóváírása a pénzügyi számvitel szerint |
 
-| 3. Betét megszüntetés a költségvetési számvitel szerint |
+| a) Követelésként | T3514 | – | K932 |
 
-| a) Követelésként | T098172 | – | K0041 |
+| b) Teljesítésként | T311/312 | – | K3514 |
 
-| b) Teljesítésként | T005 | – | K098173 |
+| 5. A jóváírt és tőkésített kamat könyvelése betétnövekményként: az 1. pont szerint. |
 
-| 4. Betét megszüntetés a pénzügyi számvitel szerint |
+| 6. Betét megszüntetés a költségvetési számvitel szerint | T005 | – | K098173 |
 
-| a) Követelésként | T3518 | – | K311/312 |
-
-| b) Teljesítésként | T32/33 | – | K3518 |
+| 7. Betét megszüntetés a pénzügyi számvitel szerint | T32/33 | – | K311/312 |
 
 ## AB) Rövid lejáratú betétek elszámolása
 
@@ -1096,7 +1128,7 @@ PÉNZESZKÖZÖKKEL, FINANSZÍROZÁSSAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | c) Követelésként | T09811/ 09824(2) | – | K0041 |
 
-| d) Teljesítésként | T005 | – | K09814/ 09824(3) |
+| d) Teljesítésként | T005 | – | K09811/ 09824(3) |
 
 | 3. Hitel, kölcsön jóváírása (eladás valódi penziós ügyletnél) a pénzügyi számvitel szerint |
 
@@ -1104,7 +1136,7 @@ PÉNZESZKÖZÖKKEL, FINANSZÍROZÁSSAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | b) Kamatrész (amennyiben korábban nyilvántartásba vételre került a kamat összege, illetve az eladási és visszavásárlási ár különbsége valódi penziós ügyletnél) | T851 | – | K4213 |
 
-| c) Kamatrész (amennyiben korábban nyilvántartásba vételre került a kamat összegem illetve az eladási és visszavásárlási ár különbsége valódi penziós ügyletnél) elhatárolása | T372 | – | K851 |
+| c) Kamatrész (amennyiben korábban nyilvántartásba vételre került a kamat összege, illetve az eladási és visszavásárlási ár különbsége valódi penziós ügyletnél) elhatárolása | T372 | – | K851 |
 
 | 4. Kamatrész (amennyiben korábban nem került nyilvántartásba vételre) elszámolása a kamat ismertté válásakor (pl. negyedéves, éves kamatperiódus elején a hitelt, kölcsönt nyújtó értesítése alapján) |
 
@@ -1154,11 +1186,13 @@ PÉNZESZKÖZÖKKEL, FINANSZÍROZÁSSAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | a) Lejegyzés névértéken | T32/33 | – | K4219 |
 
-| b) Befolyt összeg és a névérték különbsége | T32/33 | – | K933 |
+| b) Befolyt összeg és a névérték különbsége követelésként | T3514 | – | K933 |
 
-| c) Fizetendő kamat | T851 | – | K4213 |
+| c) Befolyt összeg és a névérték különbsége teljesítésként | T32/33 | – | K3514 |
 
-| d) Kamatrész elhatárolása | T372 | – | K851 |
+| d) Fizetendő kamat | T851 | – | K4213 |
+
+| e) Kamatrész elhatárolása | T372 | – | K851 |
 
 | 4. Lejegyzés, ha a befolyt összeg kisebb a névértéknél a költségvetési számvitel szerint |
 
@@ -1268,7 +1302,13 @@ PÉNZESZKÖZÖKKEL, FINANSZÍROZÁSSAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | b) Teljesítésként | T005 | – | K09(3) |
 
-| 4. Idegen pénzeszközök bevételként történő átvezetésének elszámolása a pénzügyi számvitel szerint | T368 T32/33 | – | K34 K9 |
+| 4. Idegen pénzeszközök bevételként történő átvezetésének elszámolása a pénzügyi számvitel szerint |  |  |  |
+
+| a) Az idegen pénzeszköz kivezetéseként | T368 | – | K34 |
+
+| b) Követelésként | T351 | – | K9 |
+
+| c) Teljesítésként | T32/33 | – | K351 |
 
 ## L) Likviditási célú hitel napi záró egyenlegével kapcsolatos elszámolások
 
@@ -1284,7 +1324,7 @@ PÉNZESZKÖZÖKKEL, FINANSZÍROZÁSSAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 3. A likviditási célú hitel napi záró állománya csökkenésének elszámolása a költségvetési számvitel szerint | T0591123 | – | K003 |
 
-| 4. A likviditási célú hitel napi záró állománya növekedésének elszámolása a pénzügyi számvitel szerint | T4219 | – | K3311 |
+| 4. A likviditási célú hitel napi záró állománya csökkenésének elszámolása a pénzügyi számvitel szerint | T4219 | – | K3311 |
 
 | 5. A likviditási hitel kamatának elszámolása a költségvetési számvitel szerint |
 
@@ -1418,33 +1458,35 @@ SZEMÉLYI JUTTATÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 3. Az elszámoláskor benyújtott szállítói számla a költségvetési számvitel szerint |
 
-| a) Nettó összeg kötelezettségvállalásként, más fizetési kötelezettségként | T0022 | – | K0511132/ 051232 |
+| a) Nettó összeg kötelezettségvállalásként, más fizetési kötelezettségként | T0022 | – | K051232 |
 
 | b) Általános forgalmi adó kötelezettségvállalásként, más fizetési kötelezettségként | T0022 | – | K053512 |
 
 | c) Kifizetőt terhelő közterhek kötelezettségvállalásként, más fizetési kötelezettségként | T0022 | – | K0522 |
 
-| d) Nettó összeg teljesítésként | T0511133/ 051233 | – | K003 |
+| d) Nettó összeg teljesítésként | T051233 | – | K003 |
 
 | e) Általános forgalmi adó teljesítésként | T053513 | – | K003 |
 
 | 4. Az elszámoláskor benyújtott szállítói számla alapján a pénzügyi számvitel szerint |
 
-| a) Nettó összeg kötelezettségként | T54 T6/7 | – | K4211 K591 |
+| a) Nettó összeg kötelezettségként | T54/211 T6/7 | – | K4211 K591 |
 
-| b) Levonható általános forgalmi adó kötelezettségként | T3641 | – | K4211 |
+| b) Levonható általános forgalmi adó kötelezettségként | T3641 | – | K4213 |
 
-| c) Le nem vonható általános forgalmi adó kötelezettségként | T843 | – | K4211 |
+| c) Le nem vonható általános forgalmi adó kötelezettségként | T843 | – | K4213 |
 
 | d) Kifizetőt terhelő közterhek kötelezettségként | T55 T6/7 | – | K4212 K591 |
 
-| e) Teljesítésként (bruttó összeg) | T4211 | – | K32/33 |
+| e) Nettó összeg teljesítésként | T4211 | – | K32/33 |
+
+| f) Általános forgalmi adó teljesítésként | T4213 | – | K32/33 |
 
 | 5. A munkáltatót terhelő közterhek kifizetésének elszámolása a költségvetési számvitel szerint | T0523 | – | K003 |
 
 | 6. A munkáltatót terhelő közterhek kifizetésének elszámolása a pénzügyi számvitel szerint | T4212 | – | K33 |
 
-| 7. Kapcsolódó tétel: az esetleges árfolyam-különbözetek elszámolása és a raktárra vétel |
+| 7. Kapcsolódó tétel: az esetleges árfolyam-különbözetek, készletfelhasználás elszámolása. |
 
 ## F) Az utalványok, bérletek és más hasonló, készpénz-helyettesítő fizetési eszköznek nem minősülő eszközök beszerzésével kapcsolatos elszámolás
 
@@ -1480,7 +1522,7 @@ IX. FEJEZET
 
 | a) Követelésként (teljes összeg) | T0911(2) | – | K0041 |
 
-| b) Teljesítésként (a ténylegesen kiutalt összeg) | T005 | – | K0911(3) |
+| b) Teljesítésként (a ténylegesen kiutalt összeg, amely nem tartalmazza a kifizető által teljesített társadalombiztosítási és családtámogatási ellátások összegét) | T005 | – | K0911(3) |
 
 | 2. Önkormányzatnak járó havi központi támogatás elszámolása a Kincstár értesítése alapján a pénzügyi számvitel szerint |
 
@@ -1510,7 +1552,7 @@ IX. FEJEZET
 
 | 8. Költségvetési szervi törzsszámon számfejtett nettó személyi juttatások átutalása a foglalkoztatottnak az önkormányzat fizetési számlájáról: a VII. fejezet B) Központi, irányító szervi támogatás elszámolása cím 1. és 2. pontja szerint |
 
-| 9. Pénzforgalomban nem jelentkező (nettósított) költségvetési szervi törzsszámon számfejtett személyi juttatások munkavállalót terhelő levonásainak elszámolása a költségvetési számvitel szerint: a VII. fejezet B) Központi, irányító szervi támogatás elszámolása cím 1. pontja szerint |
+| 9. Pénzforgalomban nem jelentkező (nettósított) költségvetési szervi törzsszámon számfejtett személyi juttatások munkavállalót terhelő levonásainak elszámolása a költségvetési számvitel szerint: a VII. fejezet B) Központi, irányító szervi támogatás elszámolása cím 1. pontja és e cím 5. pont b) alpontja szerint |
 
 | 10. Pénzforgalomban nem jelentkező (nettósított) költségvetési szervi törzsszámon számfejtett személyi juttatások munkavállalót terhelő levonásainak elszámolása a pénzügyi számvitel szerint |
 
@@ -1518,15 +1560,21 @@ IX. FEJEZET
 
 | b) A kötelezettség és követelés összevezetéseként | T4219 | – | T3511 |
 
-| 11. Pénzforgalomban nem jelentkező (nettósított) költségvetési szervi törzsszámon számfejtett személyi juttatások munkaadót terhelő közterhei elszámolása a költségvetési számvitel szerint: a VII. fejezet B) Központi, irányító szervi támogatás elszámolása cím 1. pontja szerint |
+| 11. Pénzforgalomban nem jelentkező (nettósított) költségvetési szervi törzsszámon számfejtett személyi juttatások munkaadót terhelő közterhei elszámolása a költségvetési számvitel szerint: a VII. fejezet B) Központi, irányító szervi támogatás elszámolása cím 1. pontja és e cím 5. pont b) alpontja szerint |
 
 | 12. Pénzforgalomban nem jelentkező (nettósított) költségvetési szervi törzsszámon számfejtett személyi juttatások munkaadót terhelő közterhei elszámolása a pénzügyi számvitel szerint: a 10. pont szerint |
+
+| 12a. Pénzforgalomban nem jelentkező (nettósított) költségvetési szervi törzsszámon számfejtett személyi juttatások egyéb befizetési kötelezettségének elszámolása a költségvetési számvitel szerint: a VII. fejezet B) Központi, irányító szervi támogatás elszámolása cím 1. pontja szerint |
+
+| 12b. Pénzforgalomban nem jelentkező (nettósított) költségvetési szervi törzsszámon számfejtett személyi juttatások egyéb befizetési kötelezettségének elszámolása a pénzügyi számvitel szerint: a 10. pont szerint |
 
 | 13. Pénzforgalomban nem jelentkező önkormányzatot terhelő egyéb levonások (befizetési kötelezettségek) elszámolása a költségvetési számvitel szerint |
 
 | a) Kötelezettségvállalásként, más fizetési kötelezettségként | T0022 | – | K05(2) |
 
-| b) Teljesítésként | T05(3) | – | K003 |
+| b) Kiadás teljesítésként | T05(3) | – | K003 |
+
+| c) Bevétel teljesítésként | T005 | – | K0911(3) |
 
 | 14. Pénzforgalomban nem jelentkező önkormányzatot terhelő egyéb levonások (befizetési kötelezettségek) elszámolása a pénzügyi számvitel szerint |
 
@@ -1569,6 +1617,10 @@ IX. FEJEZET
 | a) Követelésként (a kiadás fedezetét szolgáló irányító szervi támogatás) | T3518 | – | K921 |
 
 | b) A kötelezettség és követelés összevezetéseként | T4212 | – | K3518 |
+
+| 8. Pénzforgalomban nem jelentkező (nettósított) költségvetési szervi törzsszámon számfejtett személyi juttatások egyéb befizetési kötelezettségének elszámolása a költségvetési számvitel szerint: a 6. pont szerint azzal, hogy az a) alpontban a K2. helyett a K502. rovat használata szükséges |
+
+| 9. Pénzforgalomban nem jelentkező (nettósított) költségvetési szervi törzsszámon számfejtett személyi juttatások egyéb befizetési kötelezettségének elszámolása a pénzügyi számvitel szerint: a 7. pont szerint |
 
 ## C) Nettó finanszírozás elszámolása
 
@@ -1620,11 +1672,11 @@ IX. FEJEZET
 
 | d) A havi nettósításban a helyi önkormányzatokat megillető támogatásból levont forgótőke visszapótlás elszámolása |
 
-| da) Kötelezettség teljesítéseként | T4211 | – | K3654 |
+| da) Kötelezettség teljesítéseként | T421 | – | K3654 |
 
 | db) Követelés teljesítéseként | T3654 | – | K3511/3518 |
 
-| dc) Kapcsolódó tétel: a forgótőkével fedezett személyi juttatások kötelezettségvállalásként, más fizetési kötelezettségként és annak teljesítéseként történő elszámolása a költségvetési számvitel szerint |
+| dc) Kapcsolódó tétel: a forgótőkével fedezett kiadások kötelezettségvállalásként, más fizetési kötelezettségként és annak teljesítéseként történő elszámolása a költségvetési számvitel szerint |
 
 | e) Év végén a forgótőke Kincstártól történő visszaérkezésének elszámolása | T33 | – | K3654 |
 
@@ -1706,13 +1758,13 @@ TÁMOGATÁSOKKAL, ELLÁTÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | b) Teljesítésként | T005 | – | K0916/0925(3) |
 
-| c) A 4. pont szerint korábban elszámolt végleges kötelezettségvállalások, más fizetési kötelezettségek teljesítéseként | T05(3) | – | K003 |
+| c) Az 5. pont szerint korábban elszámolt végleges kötelezettségvállalások, más fizetési kötelezettségek teljesítéseként | T05(3) | – | K003 |
 
 | 7. A Szállítói finanszírozásnál a szállítói számlák kifizetéséről szóló támogatói értesítést követően a számlák megtérítésének elszámolása a pénzügyi számvitel szerint |
 
 | a) Követelésként | T3511/3512 | – | K922/941 |
 
-| b) Teljesítésként (a 4. pont szerint korábban elszámolt kötelezettségek és a követelés összevezetése) | T421 | – | K3511/3512 |
+| b) Teljesítésként (az 5. pont szerint korábban elszámolt kötelezettségek és a követelés összevezetése) | T421 | – | K3511/3512 |
 
 | 8. Támogatási előlegnél az elszámoláskor az elszámolási kötelezettség kivezetése a költségvetési számvitel szerint | T006 | – | K044 |
 
@@ -1782,11 +1834,11 @@ TÁMOGATÁSOKKAL, ELLÁTÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | b) Adott (a folyósítás) évén túl | T32/33 | – | K3516/3517 |
 
-| 11. Társadalombiztosítás pénzügyi alapjainál a nem társadalombiztosítás pénzügyi alapjai forrásaiból finanszírozott ellátások kifizetéseinek elszámolása a pénzügyi számvitel szerint | T3656 | – | K332 |
+| 11. Társadalombiztosítás pénzügyi alapjainál a nem társadalombiztosítás pénzügyi alapjai forrásaiból finanszírozott ellátások és a társadalombiztosítás pénzügyi alapjai egymás között történő elszámolásnál a nem finanszírozónál kifizetett ellátások kifizetéseinek elszámolása a pénzügyi számvitel szerint | T3656 | – | K332 |
 
-| 12. Társadalombiztosítás pénzügyi alapjainál a nem társadalombiztosítás pénzügyi alapjai forrásaiból finanszírozott ellátások megtérítésének elszámolása a pénzügyi számvitel szerint | T332 | – | K3656 |
+| 12. Társadalombiztosítás pénzügyi alapjainál a nem társadalombiztosítás pénzügyi alapjai forrásaiból finanszírozott ellátások és a társadalombiztosítás pénzügyi alapjai egymás között történő elszámolásnál a nem finanszírozónál kifizetett ellátások megtérítésének elszámolása a pénzügyi számvitel szerint | T332 | – | K3656 |
 
-| 13. Finanszírozó szervezetnél a nem társadalombiztosítás pénzügyi alapjai forrásaiból finanszírozott, de általuk folyósított ellátások elszámolása a költségvetési számvitel szerint |
+| 13. Finanszírozó szervezetnél a nem társadalombiztosítás pénzügyi alapjai forrásaiból finanszírozott, de általuk folyósított ellátások és a társadalombiztosítás pénzügyi alapjai egymás között történő elszámolásnál a finanszírozónál, a másik alap által kifizetett ellátások elszámolása a költségvetési számvitel szerint |
 
 | a) Kötelezettségvállalás (jogosultság megállapítása) a költségvetési számvitel szerint | T0021 | – | K054(2) |
 
@@ -1794,7 +1846,7 @@ TÁMOGATÁSOKKAL, ELLÁTÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | c) A megtérítendő kifizetések elszámolása a társadalombiztosítás pénzügyi alapjai által küldött értesítő alapján teljesítésként | T054(3) | – | K003 |
 
-| 14. Finanszírozó szervezetnél a nem társadalombiztosítás pénzügyi alapjai forrásaiból finanszírozott, de általuk folyósított ellátások elszámolása a pénzügyi számvitel szerint |
+| 14. Finanszírozó szervezetnél a nem társadalombiztosítás pénzügyi alapjai forrásaiból finanszírozott, de általuk folyósított ellátások és a társadalombiztosítás pénzügyi alapjai egymás között történő elszámolásnál a finanszírozónál, a másik alap által kifizetett ellátások elszámolása a pénzügyi számvitel szerint |
 
 | a) Kötelezettségként | T843 | – | K4214 |
 
@@ -1820,7 +1872,7 @@ TÁMOGATÁSOKKAL, ELLÁTÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 3. Önkormányzatnál az utalványok átadásának elszámolása az ellátottaknak a költségvetési számvitel szerint | T054(3) | – | K003 |
 
-| 4. Önkormányzatnál az utalványok átadásának elszámolása az ellátottaknak a pénzügyi számvitel szerint | T4214 | – | 366 |
+| 4. Önkormányzatnál az utalványok átadásának elszámolása az ellátottaknak a pénzügyi számvitel szerint | T4214 | – | K366 |
 
 | 5. Kapcsolódó tételek: az ellátásokkal kapcsolatos további elszámolások (kötelezettségvállalás, stb.) az e fejezet C) Államháztartáson kívüli vissza nem térítendő támogatások, ellátottak pénzbeli juttatásai elszámolásai címe szerint |
 
@@ -1828,7 +1880,7 @@ TÁMOGATÁSOKKAL, ELLÁTÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | a) Pénzügyi teljesítés elszámolása az utalvány forgalmazója felé a pénzügyi számvitel szerint | T366 | – | K32/33 |
 
-| b) Az önkormányzatok részére az utalványok kiadásának elszámolása a költségvetési számvitel szerint | T05506(3) | – | K003 |
+| b) Az önkormányzatok részére az utalványok kiadásának elszámolása a költségvetési számvitel szerint | T055063 | – | K003 |
 
 | c) Az önkormányzatok részére az utalványok kiadásának elszámolása a pénzügyi számvitel szerint | T4215 | – | K366 |
 
@@ -1986,17 +2038,29 @@ TÁMOGATÁSOKKAL, ELLÁTÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 2. Támogatásról való értesítés a pénzügyi számvitel szerint | T3516/3517 | – | K922/941 |
 
-| 3. Támogatás jóváírása a pénzügyi számvitel szerint | T3421 | – | K3516/3517 |
+| 3. Támogatás jóváírása a pénzügyi számvitel szerint | T3421 | – | K368 |
 
 | 4. Időbeli elhatárolás fejlesztési célú támogatás esetén a pénzügyi számvitel szerint (az Szt. 45. § (1) bekezdés a) pontja és az Áhsz. 28. § (4) bekezdése szerint) | T941 | – | K443 |
 
-| 5. Kötelezettségvállalás a kapott támogatás terhére a költségvetési számvitel szerint | T0021/0022 | – | K05(2) |
+| 5. Kötelezettségvállalás, kötelezettség a kapott támogatás terhére |
+
+| a) A költségvetési számvitel szerint kötelezettségvállalás | T0021 | – | K05(2) |
+
+| b) A költségvetési számvitel szerint végleges kötelezettségvállalás, más fizetési kötelezettség | T05(2) T0022 | – | K0021 K05(2) |
+
+| c) A pénzügyi számvitel szerint kötelezettség | T1-8 | – | K42 |
 
 | 6. Támogatás felhasználása (kifizetés) a költségvetési számvitel szerint |
 
 | a) Kiadási előirányzat teljesítéseként | T05(3) | – | K003 |
 
 | b) Bevételi előirányzat teljesítéseként | T005 | – | K0963/0973(3) |
+
+| 6a. Támogatás felhasználása (kifizetés) a pénzügyi számvitel szerint |
+
+| a) A kötelezettség és a követelés összevezetéseként | T42 | – | K3516/3517 |
+
+| b) Az idegen pénzeszközök kivezetéseként | T368 | – | K3421 |
 
 | 7. Visszafizetési kötelezettség előírása a költségvetési számvitel szerint |
 
@@ -2122,8 +2186,6 @@ KÖZHATALMI BEVÉTELEKKEL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 3. Bevétel beérkezése a beszedő szervezet általi átutalást követően | T33 | – | K3653 |
 
-| 4. Egyéb gazdasági események elszámolása a költségvetési és a pénzügyi számvitel szerint: e fejezet A) A beszedő szervezetet megillető közhatalmi bevételek elszámolása cím szerint, azzal az eltéréssel, hogy a könyvelés alapjául a bevételt beszedő szervezet adatszolgáltatása szolgál |
-
 XII. FEJEZET
 
 EGYÉB GAZDASÁGI ESEMÉNYEK ELSZÁMOLÁSAI
@@ -2216,6 +2278,8 @@ EGYÉB GAZDASÁGI ESEMÉNYEK ELSZÁMOLÁSAI
 
 | b) Fizetendő nem levonható általános forgalmi adó | T843 | – | K3642 |
 
+| 9a. Előzetesen felszámított és fizetendő általános forgalmi adó összevezetése | T3642 | – | K3641 |
+
 | 10. Adóbevallás szerint fizetendő általános forgalmi adó a költségvetési számvitel szerint | T0022 | – | K053522 |
 
 | 11. Adóbevallás szerint fizetendő általános forgalmi adó a pénzügyi számvitel szerint | T3642 | – | K4213 |
@@ -2246,11 +2310,15 @@ EGYÉB GAZDASÁGI ESEMÉNYEK ELSZÁMOLÁSAI
 
 | 2. Követelés elengedése a pénzügyi számvitel szerint | T86 | – | K351 |
 
-## F) Követelés értékvesztésének elszámolása
+## F) Követelés értékvesztésének és értékvesztés visszaírásának elszámolása
 
 | 1. Értékvesztés a költségvetési számvitel szerint | T0041 | – | K09(2) |
 
 | 2. Értékvesztés a pénzügyi számvitel szerint | T843 | – | K3581-3586 |
+
+| 3. Értékvesztés visszaírása a költségvetési számvitel szerint | T09(2) | – | K0041 |
+
+| 4. Értékvesztés visszaírása a pénzügyi számvitel szerint | T3581-3586 | – | K923 |
 
 ## G) Utólagos elszámolásra kiadott összeg elszámolása
 
@@ -2266,7 +2334,7 @@ EGYÉB GAZDASÁGI ESEMÉNYEK ELSZÁMOLÁSAI
 
 | 4. A felhasznált összeg a pénzügyi számvitel szerint |
 
-| a) Kötelezettségként | T1-2/5-8 | – | K4213/4215-4218 |
+| a) Kötelezettségként | T1-2/3641/5/8 T6/7 | – | K4213/4215-4218 K591 |
 
 | b) Teljesítésként | T4213/4215-4218 | – | K32/33 |
 
@@ -2276,7 +2344,7 @@ EGYÉB GAZDASÁGI ESEMÉNYEK ELSZÁMOLÁSAI
 
 | 2. Előleg értékvesztésének elszámolása kiadásként a költségvetési számvitel szerint |
 
-| a) Végleges kötelezettségvállalásként, más fizetési kötelezettségként | T053552 T0022 | – | K0021 K053552 |
+| a) Végleges kötelezettségvállalásként, más fizetési kötelezettségként | T0022 | – | K053552 |
 
 | b) Teljesítésként | T053553 | – | K003 |
 
@@ -2392,6 +2460,76 @@ EGYÉB GAZDASÁGI ESEMÉNYEK ELSZÁMOLÁSAI
 
 | d) Teljesítésként | T005 | – | K0981323 |
 
+## O) Kerekítési különbözet elszámolása
+
+| 1. Kerekítési különbözet elszámolása költségvetési számvitel szerint |
+
+| a) Követelésként | T094102 | – | K0041 |
+
+| b) Bevétel teljesítésként | T005 | – | K094103 |
+
+| c) Kötelezettségvállalásként, más fizetési kötelezettségként | T0022 | – | K053552 |
+
+| d) Kiadás teljesítéseként | T053553 | – | K003 |
+
+| 2. Kerekítési különbözet elszámolása pénzügyi számvitel szerint |
+
+| a) Követelésként | T3514 | – | K923 |
+
+| b) Bevétel teljesítésként | T32/33 | – | K3514 |
+
+| c) Kötelezettségként | T843 | – | K4213 |
+
+| d) Kiadás teljesítésként | T4213 | – | K32/33 |
+
+## P) Költségvetési évben nyilvántartásba vett tévesen, hibásan teljesített költségvetési bevételeknek és kiadásoknak a költségvetési évben történő visszatérülésének elszámolása
+
+| 1. Költségvetési bevételek visszatérítésének elszámolása a téves, hibás nyilvántartásba vétel, teljesítés ismertté válásakor a költségvetési számvitel szerint |
+
+| a) Teljesítés csökkentéseként | T09(3) | – | K005 |
+
+| b) Követelés korrigálásaként | T004 | – | K09(2) |
+
+| 2. Költségvetési bevételek visszatérítésének elszámolása a téves, hibás nyilvántartásba vétel, teljesítés ismertté válásakor a pénzügyi számvitel szerint |
+
+| a) Bevétel csökkentésként | T9 | – | K351 |
+
+| b) Követelés átvezetéseként kapott előlegbe | T351 | – | K3671 |
+
+| 3. Visszatérítés pénzforgalmi teljesítése | T3671 | – | K32/22 |
+
+| 4. Költségvetési kiadások visszatérülésének elszámolása a téves, hibás nyilvántartásba vétel, teljesítés ismertté válásakor a költségvetési számvitel szerint |
+
+| a) Teljesítés csökkentéseként | T003 | – | K05(3) |
+
+| b) Kötelezettségvállalás, más fizetési kötelezettség csökkentéseként | T05(2) | – | K0022 |
+
+| 5. Költségvetési kiadások visszatérülésének elszámolása a téves, hibás nyilvántartásba vétel, teljesítés ismertté válásakor a pénzügyi számvitel szerint |
+
+| a) Költség, ráfordítás, eszköz csökkentéseként | T42 T591 | – | K1/2/5/8 K6/7 |
+
+| b) Kötelezettség átvezetéseként | T3651 | – | K42 |
+
+| 6. Visszatérítés pénzforgalmi teljesítése | T32/22 | – | K3651 |
+
+## Q) Költségvetési évben nyilvántartásba vett tévesen, hibásan teljesített költségvetési bevételeknek és kiadásoknak a költségvetési évet követően történő visszatérülésének elszámolása
+
+| 1. Költségvetési bevételek visszatérítésének elszámolása a téves, hibás nyilvántartásba vétel, teljesítés ismertté válásakor a költségvetési számvitel szerint | T0022 | – | K053552 |
+
+| 2. Költségvetési bevételek visszatérítésének elszámolása a téves, hibás nyilvántartásba vétel, teljesítés ismertté válásakor a pénzügyi számvitel szerint | T843 | – | K4213 |
+
+| 3. Költségvetési bevételek pénzforgalmi visszatérítésének elszámolása a költségvetési számvitel szerint | T053553 | – | K003 |
+
+| 4. Költségvetési bevételek pénzforgalmi visszatérítésének elszámolása a pénzügyi számvitel szerint | T4213 | – | K32/33 |
+
+| 5. Költségvetési kiadások visszatérülésének elszámolása a téves, hibás nyilvántartásba vétel, teljesítés ismertté válásakor a költségvetési számvitel szerint | T094102 | – | K004 |
+
+| 6. Költségvetési kiadások visszatérülésének elszámolása a téves, hibás nyilvántartásba vétel, teljesítés ismertté válásakor a pénzügyi számvitel szerint | T3514 | – | K923 |
+
+| 7. Költségvetési kiadások pénzforgalmi visszatérülésének elszámolása a költségvetési számvitel szerint | T005 | – | K094103 |
+
+| 8. Költségvetési kiadások pénzforgalmi visszatérülésének elszámolása pénzügyi számvitel szerint | T32/33 | – | K3514 |
+
 XIII. FEJEZET
 
 ## KÖNYVVITELI ZÁRLAT SAJÁTOS FELADATAI
@@ -2412,9 +2550,9 @@ XIII. FEJEZET
 
 | 8. 9. számlaosztály számláinak zárása | T9 | – | K492 |
 
-| 9. Mérlegszámlák zárása | T493/4 | – | K1-3/493 |
+| 9. 492-es számla átvezetése (egyenlegtől függően) | T416/492 | – | K492/416 |
 
-| 10. 492-es számla átvezetése (egyenlegtől függően) | T416/492 | – | K492/416 |
+| 10. Mérlegszámlák zárása | T493/1-4 | – | K1-4/493 |
 
 | 11. Pénzügyi teljesítés nyilvántartási számláinak zárása | T003 T09(3) | – | K05(3) K005 |
 
@@ -2426,7 +2564,7 @@ XIV. FEJEZET
 
 ## KÖNYVVITELI NYITÁS FELADATAI
 
-| 1. A mérleg számlák nyitása | T1-3/491 | – | K491/4 |
+| 1. A mérleg számlák nyitása | T1-4/491 | – | K491/1-4 |
 
 | 2. Mérleg szerinti eredmény átvezetése (egyenlegtől függően) | T416/414 | – | K414/416 |
 
@@ -2480,7 +2618,7 @@ B) Beolvadás illetve jogutód nélküli megszűnés esetén a jogutód, illetve
 
 | 11 A nemzeti vagyon változása megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495/412 | – | K412/495 |
 
-| 12. Az egyéb eszközök induláskori értéke és változásai megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495 | – | K413 |
+| 12. Az egyéb eszközök induláskori értéke és változásai megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495 T413 | – | K413 K495 |
 
 | 13. A mérleg szerinti eredmény és a felhalmozott eredmény megszűnőnél kimutatott könyv szerinti érétkének nyilvántartásba vétele az egyéb eszközök induláskori értéke és változásaként a pénzügyi számvitel szerint | T495/413 | – | K413/495 |
 
@@ -2570,4 +2708,4 @@ C) Összeolvadás, illetve különválás esetén a jogutód szervnél
 
 | 20. Kapcsolódó tételek: a XII. fejezet N) Maradvány elszámolása cím szerint, annak függvényében, hogy mi az átvétel fordulónapja |
 
-[^1]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4. § (1) bekezdése, 5. §-a, 6. § (1) bekezdése szerint módosított szöveg.
