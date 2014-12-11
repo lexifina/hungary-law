@@ -1,1 +1,0 @@
-## „(4) Amennyiben a kérelmező által a 6. § (4) bekezdésben meghatározott bármely időszakban kiszállított termékek mennyisége az MVH által az adott időszakra és köznevelési intézményre jóváhagyott mennyiség kevesebb, mint 80%-a, úgy a leszállított mennyiségre eső támogatási összeget az MVH a le nem szállított mennyiségre eső támogatás mértékével csökkenti.”
