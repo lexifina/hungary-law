@@ -1,0 +1,3 @@
+1. § (1) E rendeletet – a (2) bekezdésben foglalt kivétellel – azon fogyasztói kölcsönszerződésre kell alkalmazni, amelyre vonatkozóan a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvény (a továbbiakban: 2014. évi XL. törvény) szerinti elszámoláshoz (a továbbiakban: elszámolás) szükséges információk nem állnak teljes körűen a végelszámolás vagy felszámolási eljárás alatt álló pénzügyi intézmény rendelkezésére.
+
+(2) A 10. §-t valamennyi fogyasztói kölcsönszerződésre alkalmazni kell.
