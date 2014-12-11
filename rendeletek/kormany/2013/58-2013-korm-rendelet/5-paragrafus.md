@@ -4,9 +4,9 @@ a) a pályázó azonosítására alkalmas adatok, különösen a neve, a cégjeg
 
 b) a pályázó műszaki, gazdasági, szervezeti alkalmasságának, továbbá a pályázati kiírási dokumentációban foglalt egyéb feltételeknek való megfelelés bemutatása,
 
-c) a pályázati dokumentáció készítésének időpontjában a pályázóra és a megpályázott ellátási területre kiszámított felhasználói egyenérték,
+c)[^24] a pályázati dokumentáció készítésének időpontjában a pályázóra kiszámított felhasználói egyenérték,
 
-d) az ellátási területen korábban nem nyújtott víziközmű-szolgáltatás esetén az alkalmazni kívánt szolgáltatási díj szerkezetére és összegére, valamint az üzemeltetés kezdő időpontjára tett javaslat,
+d)[^25]
 
 e) nyilatkozat a fogyasztóvédelmi szabályoknak megfelelő ügyfélszolgálat kialakításáról, illetve meglétéről, valamint
 
@@ -25,3 +25,6 @@ d) a pályázó arra vonatkozó nyilatkozatát, hogy az üzemeltetést önálló
 e) a pályázónak a pályázati eljárásban történő teljes körű képviseletére jogosultak nevét, valamint a képviseleti jog igazolására alkalmas teljes bizonyító erejű magánokiratot vagy közokiratot,
 
 f) a 4. § (3) bekezdés a)–d), valamint f)–g) pontjában meghatározott követelmények teljesítésére vonatkozó igazolásokat.
+
+[^24]: Az 5. § (1) bekezdés c) pontja a 292/2014. (XI. 26.) Korm. rendelet 38. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^25]: Az 5. § (1) bekezdés d) pontját a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 3. pontja hatályon kívül helyezte.

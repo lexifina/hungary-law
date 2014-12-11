@@ -1,0 +1,7 @@
+## 36. A Terv pénzügyi forrásai
+
+90/E. § (1) A víziközmű-szolgáltatás biztonságát meghatározó felújítások, pótlások és rekonstrukciók fedezetének forrásait elsődlegesen a szolgáltatási díjban érvényesített díjhányad biztosítja.
+
+(2) A víziközművek megvalósításának és a meglévő víziközművek bővítésének pénzügyi fedezetét a vagyonkezelési, koncessziós vagy bérleti-üzemeltetési szerződés alapján elsősorban a fejlesztésre kötelezett ellátásért felelős vagy víziközmű-szolgáltató biztosítja.
+
+(3) A víziközmű-szolgáltató feladata annak alátámasztása, hogy az új víziközművek ráfordítási igényei nem veszélyeztetik a meglévők felújítási és pótlási feladatait.

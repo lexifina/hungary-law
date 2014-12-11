@@ -1,4 +1,4 @@
-86. § (1) A szennyvíz-bekötővezeték létesítését, annak a már üzemeltetett törzshálózatra való bekötését a víziközmű-szolgáltató köteles megrendelő költségére elvégezni, vagy azt hozzájárulásával építés kivitelezési jogosultsággal rendelkező személy is elvégezheti.
+86. § (1)[^165] A szennyvíz-bekötővezeték létesítését, annak a már üzemeltetett törzshálózatra való bekötését a víziközmű-szolgáltató köteles megrendelő költségére elvégezni.
 
 (2) Egy ingatlan ellátására több szennyvíz-bekötővezeték csak műszakilag indokolt okból a víziközmű-szolgáltató hozzájárulásával létesíthető.
 
@@ -9,3 +9,5 @@
 (5) Új üzem esetén a szennyvíz törzshálózatba az ingatlan csak akkor kapcsolható be, ha azzal egyidejűleg a szennyvíz előtisztításához szükséges berendezés üzembe helyezhető, és annak a vízjogi üzemeltetési engedélyezésére irányuló eljárás megindult vagy jogerősen lezárult.
 
 (6) A szennyvízelvezető mű káros szennyezése esetén – megfelelő szennyvíz előtisztító berendezés hiányában, vagy szakszerűtlen üzemeltetése miatt – a hatóság a bebocsátót a szennyvíz előzetes tisztításához szükséges berendezés létesítésére, korszerűsítésére vagy a meglévő berendezés megfelelő üzemeltetésére kötelezi.
+
+[^165]: A 86. § (1) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 38. § (2) bekezdés 8. pontja szerint módosított szöveg.

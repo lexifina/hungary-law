@@ -1,34 +1,43 @@
 ## 33. Az elkülönített vízhasználóra vonatkozó részletes szabályok
 
-84. § (1) Az elkülönített vízhasználó a mellékvízmérővel elkülönített vízhasználatra a víziközmű-szolgáltatóval írásban mellékszolgáltatási szerződést köthet.
+84. § (1)[^151] Az elkülönített vízhasználó a víziközmű-szolgáltatóval írásban mellékszolgáltatási szerződés megkötését kezdeményezheti.
 
-(2) A mellékszolgáltatási szerződésből eredő kötelezettségekért a felhasználó és az ingatlan – társasház esetében az albetét – tulajdonosa egyetemlegesen felel.
+(2)[^152]
 
-(3) Az (1) bekezdés szerinti szerződés megkötését – ha az elkülönített vízhasználó az e rendeletben meghatározott feltételeknek eleget tesz – a víziközmű-szolgáltató nem tagadhatja meg.
+(3)[^153] Az (1) bekezdés szerinti szerződés megkötését – ha az elkülönített vízhasználó az e rendeletben és az üzletszabályzatban meghatározott feltételeket kielégítő vízmérési helyet kialakította és a hiteles mellékvízmérőt beszerelte – a víziközmű-szolgáltató nem tagadhatja meg.
 
 (4) A mellékszolgáltatási szerződés létrejöttének együttes előfeltétele:
 
 a) az elkülönített vízhasználatra vonatkozó írásbeli igénybejelentés,
 
-b) a víziközmű-szolgáltató előzetes hozzájárulása,
+b)[^154]
 
-c) a mellékvízmérőnek a házi ivóvíz-hálózatba történő beépítéséhez a bekötési vízmérő szerinti felhasználó, valamint az ingatlan tulajdonosának hozzájárulása,
+c)[^155] a mellékvízmérőnek a házi ivóvíz-hálózatba történő beépítéséhez a bekötési vízmérő szerinti felhasználó, valamint az ingatlan tulajdonosának hozzájárulása, és ezek alapján mellékvízmérő kialakítása,
 
-d)[^32] a felhasználási hely vízfogyasztásának bekötési vízmérővel történő mérése, és közszolgáltatási szerződés megléte, amelyhez az elkülönített vízhasználat csatlakozni kíván,
+d)[^156] a felhasználási hely vízfogyasztásának bekötési vízmérővel történő mérése, és közszolgáltatási szerződés megléte, amelyhez az elkülönített vízhasználó csatlakozni kíván,
 
-e) új elkülönített vízhasználat létesítése és a meglévő elkülönített felhasználói hely esetén a bekötési vízmérő szerinti felhasználási helynek, és a szerződni kívánó elkülönített vízhasználónak lejárt határidejű számlatartozása a víziközmű-szolgáltató felé nem lehet,
+e)[^157] a bekötési vízmérő szerinti felhasználási helynek és a szerződni kívánó elkülönített vízhasználónak nincs lejárt határidejű számlatartozása a víziközmű-szolgáltató felé,
 
 f) víziközmű-fejlesztési hozzájárulás fizetésére kötelezett felhasználó esetén a hozzájárulás megfizetése és a megfizetés víziközmű-szolgáltató felé történő igazolása.
 
-(5) A bekötési vízmérő szerinti felhasználó, valamint az ingatlan tulajdonosa a hozzájárulást csak az épületgépészeti rendszernek a beépítés miatt szükségessé váló jelentős átalakítási igénye esetén tagadhatja meg.
+(5)[^158] A bekötési vízmérő szerinti felhasználó, valamint az ingatlan tulajdonosa a hozzájárulást csak az épületgépészeti rendszernek a mellékvízmérő beépítése miatt szükségessé váló jelentős átalakítási igénye esetén tagadhatja meg.
 
-(6)[^33] A mellékszolgáltatási szerződés létrejöttére, a csatlakozó vezeték kiépítésére, az ivóvízmérőre – e rendelet eltérő rendelkezése hiányában – a közszolgáltatási szerződés létrejöttére, az ivóvíz bekötővezeték és mérési hely kialakítására, a fogyasztásmérésre, továbbá a felhasználó személyében bekövetkező változásra vonatkozó szabályait kell megfelelően alkalmazni, azzal, hogy a szerződés alatt a mellékszolgáltatási szerződést, felhasználó alatt az elkülönített vízhasználót kell érteni.
+(6)[^159] A mellékszolgáltatási szerződés létrejöttére, a csatlakozó vezeték kiépítésére, az ivóvízmérőre – e rendelet eltérő rendelkezése hiányában – a közszolgáltatási szerződés létrejöttére, az ivóvíz bekötővezeték és mérési hely kialakítására, ellenőrzésére, a fogyasztásmérésre, továbbá a felhasználó személyében bekövetkező változásra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a szerződés alatt a mellékszolgáltatási szerződést, felhasználó alatt az elkülönített vízhasználót kell érteni. A szerződésben a felek rendelkeznek a mellékvízmérő tulajdonjogáról.
 
 (7) A számla kibocsátásának gyakoriságát az elkülönített vízhasználó és víziközmű-szolgáltató közötti mellékszolgáltatási szerződés rögzíti.
 
-(8) A mellékszolgáltatási szerződést az elkülönített vízhasználó 30 napos határidővel, a víziközmű-szolgáltató pedig 60 napot meghaladó díjtartozás esetén további 15 napos határidővel felmondhatja. A mellékszolgáltatási szerződés felmondásáról a bekötési vízmérő felhasználóját a víziközmű-szolgáltató a felmondással egyidejűleg tájékoztatja.
+(8)[^160] A mellékszolgáltatási szerződést az elkülönített vízhasználó 30 napos határidővel, a víziközmű-szolgáltató a fizetési késedelem miatt kezdeményezett fizetési meghagyás kibocsátását követő 15 napos határidővel felmondhatja. A víziközmű-szolgáltató mellékszolgáltatási szerződés felmondásáról a szerződés felmondásával egyidejűleg tájékoztatja a bekötési vízmérő szerinti felhasználót, valamint a 62. § (6) bekezdés a) pontja szerinti képviselőt.
 
-(9) A mellékszolgáltatási szerződés alapját képező mellékvízmérő beépítése (felszerelése), cseréje esetén, azzal egyidejűleg a mellékvízmérőt üzembe kell helyezni és az illetéktelen beavatkozás, leszerelés megakadályozása céljából plombával vagy záró bélyeggel kell ellátni. Az üzembe helyezésről, valamint a plombával vagy záró bélyeggel való ellátásról a víziközmű-szolgáltató gondoskodik. A mellékvízmérő üzembe helyezését, valamint plombával vagy záró bélyeggel való ellátását a szolgáltató üzletszabályzatában meghatározott feltételeknek megfelelő vállalkozó is elvégezheti.
+(9)[^161]
 
-[^32]: A 84. § (4) bekezdés d) pontja az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^33]: A 84. § (6) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^151]: A 84. § (1) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^152]: A 84. § (2) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 19. pontja hatályon kívül helyezte.
+[^153]: A 84. § (3) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 46. pontja szerint módosított szöveg.
+[^154]: A 84. § (4) bekezdés b) pontját a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 20. pontja hatályon kívül helyezte.
+[^155]: A 84. § (4) bekezdés c) pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 47. pontja szerint módosított szöveg.
+[^156]: A 84. § (4) bekezdés d) pontja az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja, a 292/2014. (XI. 26.) Korm. rendelet 37. § 48. pontja szerint módosított szöveg.
+[^157]: A 84. § (4) bekezdés e) pontja a 292/2014. (XI. 26.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^158]: A 84. § (5) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 49. pontja szerint módosított szöveg.
+[^159]: A 84. § (6) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 27. § (3) bekezdésével megállapított szöveg.
+[^160]: A 84. § (8) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 27. § (4) bekezdésével megállapított szöveg.
+[^161]: A 84. § (9) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 21. pontja hatályon kívül helyezte.

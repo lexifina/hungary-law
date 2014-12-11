@@ -1,27 +1,57 @@
-## 54. § A bírság kiszabásáról a Hivatal határozatot hoz.
+## 52–54. §
 
-## VI. Fejezet[^14]
+## VI. Fejezet[^46]
 
 ## A közszolgáltatási SZERZŐDÉS RÉSZLETES SZABÁLYAI
 
-## 16.[^15] A közszolgáltatási szerződés minimális tartalmi követelményei
+## 16. [^47] A bekötés feltételei és a közszolgáltatási szerződés létrejötte
 
-55. § (1) A víziközmű-törzshálózat mentén fekvő ingatlanoknak a víziközmű-hálózatba történő bekötését a víziközmű-szolgáltatónál az ingatlan tulajdonosa vagy egyéb jogcímen használója kezdeményezheti (igénybejelentés).
+55. §[^48] (1) A víziközmű-törzshálózat mentén fekvő ingatlanoknak a víziközmű-hálózatba történő bekötését a víziközmű-szolgáltatónál az ingatlan tulajdonosa vagy egyéb jogcímen használója az ingatlan tulajdonosának írásbeli hozzájárulásának birtokában kezdeményezheti (a továbbiakban: igénybejelentés). Az igénybejelentésben a bejelentő közli:
 
-(2)[^16] A víziközmű-szolgáltató és a felhasználó között létrejött közszolgáltatási szerződés megkötése előtt a víziközmű-szolgáltató vizsgálja:
+a) a felhasználási célt, az igénybe venni tervezett ivóvíz mennyiségét,
 
-a) az adott felhasználási helyre vonatkozó írásbeli igénybejelentés meglétét,
+b) nem lakossági felhasználó esetében az elvezetni tervezett szennyvíz mennyiségét, annak minőségi jellemzőit, különös tekintettel a vízvédelmi hatóság által előírt küszöbértékekre,
 
-b) az adott szolgáltatási pont vonatkozásában a műszakilag elérhető szolgáltatás rendelkezésre állását, és
+c) a bekötéssel érintett ingatlan címét, helyrajzi számát, a tulajdonos személyét, valamint – ha az nem azonos a bejelentővel – az ingatlan tulajdonosának a bejelentéshez mellékelendő írásbeli nyilatkozata alapján az ingatlanhasználat jogcímét és
 
-c) az ingatlan tulajdonosának írásbeli hozzájárulását, ha az igénybejelentő felhasználó az ingatlant egyéb jogcímen használja.
+d) a csatlakozó hálózat, illetve a házi ivóvíz- és szennyvízhálózat kialakításának általános műszaki jellemzőit.
 
-(3) Ha az adott felhasználási helyen lejárt határidejű vagy vitatott számlatartozást tart nyilván a víziközmű-szolgáltató, az igénybejelentést elutasíthatja.
+(2) Az igénybejelentés kézhezvételét követően a víziközmű-szolgáltató vizsgálja:
 
-(4) Ha a törzshálózat műszakilag nem elérhető, a víziközmű-szolgáltató az igénybejelentést elutasítja.
+a) a víziközmű-hálózat igényelt szolgáltatás teljesítésére való alkalmasságát, annak műszaki állapotát,
 
-(5) A (2) bekezdés szerinti feltételeknek megfelelő igénybejelentő részére a víziközmű-szolgáltató az igénybejelentést követő 15 napon belül megküldi szerződéses ajánlatát, amely a víziközmű-fejlesztési hozzájárulás fizetésére kötelezett felhasználó esetén tartalmazza a fizetendő fejlesztési hozzájárulás összegét. A szerződéses ajánlatban foglaltak a víziközmű-szolgáltatót a közléstől számított 30 napig kötik.
+b) a víziközmű-fejlesztési hozzájárulás fizetési kötelezettség fennállását,
 
-[^14]: A VI. fejezet címe az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^15]: A 16. alcím címe az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^16]: Az 55. § (2) bekezdés nyitó szövegrésze az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+c) a műszakilag elérhető szolgáltatás rendelkezésre állását,
+
+d) a bekötővezeték és a vízmérési hely létesítésének műszaki feltételeit,
+
+e) az ingatlanhasználat jogcímét, valamint az ingatlan tulajdonosának írásbeli hozzájárulásának meglétét, ha a bejelentő az ingatlant egyéb jogcímen használja, és
+
+f) üzem esetén a szennyvíz előzetes tisztítását szolgáló berendezés meglétét és a törzshálózatba vezetett szennyvíz minőségi paramétereit.
+
+(3) A víziközmű-szolgáltató az igénybejelentést elutasítja, ha
+
+a) a törzshálózat műszakilag nem elérhető, vagy annak kapacitása nem elegendő az igényelt szolgáltatás biztosítására,
+
+b) bekötővezeték kiépítése vagy átépítése szükséges, és annak költségeit a bejelentő nem vállalja,
+
+c) a víziközmű-fejlesztési hozzájárulás fizetésére kötelezett felhasználó a hozzájárulás fizetési kötelezettségének nem tesz eleget,
+
+d) a bekötővezeték kialakításának nincsenek meg a műszaki feltételei, vagy
+
+e) az adott felhasználási helyen lejárt határidejű vagy vitatott díjtartozás áll fenn.
+
+(4) Az ivóvíz-törzshálózathoz csatlakozó tűzoltásra szolgáló külön ivóvíz-bekötővezeték létesítéséhez a víziközmű-szolgáltató – a katasztrófavédelmi jogszabályok megtartásával – köteles hozzájárulni, ha a tűzoltáshoz szükséges vízmennyiség a házi ivóvízhálózatból és a vízművel össze nem függő más vízvételi helyről nem szerezhető be. A tűzoltásra szolgáló bekötővezetéket külön bekötési vízmérővel kell ellátni.
+
+(5) Az igénybejelentést követő 15 napon belül a víziközmű-szolgáltató tájékoztatja a bejelentőt arról, hogy a (2) bekezdés szerinti feltételek maradéktalan teljesítéséhez milyen további feladatokat és fizetési kötelezettségeket kell teljesítenie. E tájékoztatás keretében a víziközmű-szolgáltató:
+
+a) megállapítja a víziközmű-fejlesztési hozzájárulás összegét,
+
+b) megadja a bekötővezeték tervezéshez szükséges, törzshálózatra vonatkozó műszaki alapadatokat, és
+
+c) meghatározza vízmérési hely kialakításának műszaki feltételeit.
+
+[^46]: A VI. fejezet címe az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^47]: A 16. alcím címe a 292/2014. (XI. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^48]: Az 55. § a 292/2014. (XI. 26.) Korm. rendelet 7. §-ával megállapított szöveg.

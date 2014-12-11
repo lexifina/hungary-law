@@ -1,6 +1,6 @@
 ## A bekötés előfeltételét képező víziközmű-szolgáltatói hozzájáruláshoz szükséges terv
 
-## I. Vízimérnök tervezési (VZ-T), épületgépész-tervezői (G-T), illetve településrendezési víziközmű tervezési (TV-T) jogosultsággal rendelkező személy által elkészített terv.
+## I. Vízgazdálkodási tervezési szakterület (VZ-TEL), illetve Építmények gépészeti tervezési szakterület (G) tervezői jogosultsággal rendelkező személy által elkészített terv.
 
 ## A) Az ivóvíz-törzshálózatba való bekötés iránti hozzájáruláshoz szükséges terv tartalma
 
@@ -80,4 +80,6 @@
 
 ## A locsolási vízmérő telepítése során nem követelmény az önálló mérőakna kialakítása. A mérőeszköz állagának megóvása és a fagyvédelem biztosítása a felhasználó kötelessége.
 
-6. melléklet az 58/2013. (II. 27.) Korm. rendelethez
+6. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^182]
+
+[^182]: A 6. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 25. pontja hatályon kívül helyezte.

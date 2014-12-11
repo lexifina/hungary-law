@@ -60,7 +60,7 @@
 
 ## a) a víziközmű-szolgáltatót terhelő, az ellátásért felelős irányában fennálló pénzügyi kötelezettségeket,
 
-## b) a szolgáltatási díj megállapításhoz javasolt díjkalkulációs sémát, és annak részletes leírását;
+## b)
 
 ## c) a szerződés hatálya alatt megvalósításra kerülő víziközmű-fejlesztések eredményeként létrejött vagyontárgyak üzemeltetésre való átvételének rendjét;
 

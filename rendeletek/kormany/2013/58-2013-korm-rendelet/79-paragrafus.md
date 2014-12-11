@@ -1,7 +1,11 @@
-79. § (1) A felhasználási hely közműves ivóvízellátása érdekében szükséges vízelosztó, nyomásfokozó, nyomáscsökkentő vagy megszakító berendezés létesítéséhez, illetve a katasztrófavédelmi célokat szolgáló külön ivóvíz-bekötővezeték létesítéséhez a víziközmű-szolgáltató hozzájárulása szükséges.
+## 78. §[^140]
 
-(2) A víziközmű-szolgáltató a hozzájárulás megadásával egyidejűleg köteles közölni a bekötés létesítéséhez szükséges munkák, a helyszíni szemle és nyomáspróba várható költségeinek összegét, amelyet a megrendelő köteles megelőlegezni.
+79. § (1)[^141] A felhasználási hely közműves ivóvízellátása érdekében szükséges vízelosztó, nyomásfokozó, nyomáscsökkentő vagy megszakító berendezés létesítéséhez a víziközmű-szolgáltató hozzájárulása szükséges.
 
-(3) Az ivóvíz-törzshálózathoz csatlakozó tűzoltásra szolgáló külön ivóvíz-bekötővezeték létesítéséhez a víziközmű-szolgáltató – a katasztrófavédelmi jogszabályok megtartásával – akkor köteles hozzájárulni, ha a tűzoltáshoz szükséges vízmennyiség a házi ivóvízhálózatból vagy a vízművel össze nem függő más vízvételi helyről nem szerezhető be. A tűzoltásra szolgáló bekötővezetéket külön vízmérővel kell ellátni.
+(2)–(3)[^142]
 
 (4) Az ivóvíz közműhálózatba bekapcsolt házi ivóvízhálózatot saját célú vízkivételi művel összekötni tilos.
+
+[^140]: A 78. §-t a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 15. pontja hatályon kívül helyezte.
+[^141]: A 79. § (1) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^142]: A 79. § (2)–(3) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 16. pontja hatályon kívül helyezte.

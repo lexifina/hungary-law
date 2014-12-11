@@ -1,0 +1,25 @@
+90/G. § (1) A Hivatal a jóváhagyott beruházási tervben, valamint a felújítási és pótlási tervben foglaltak végrehajtását ellenőrzi.
+
+(2) Az elvégzett beruházások, felújítások és pótlások megvalósítását, műszaki, gazdasági és jogi eseményeit, adatait dokumentálni szükséges.
+
+(3) Az elvégzett beruházások, felújítások és pótlások dokumentációjának tartalmaznia kell legalább:
+
+a) eszköz beszerzésére, szolgáltatás elvégzésére vonatkozó eljárás esetén az ajánlattevők adatait és az ajánlatuk tartalmát;
+
+b) ajánlattételi felhívást, illetve dokumentációt;
+
+c) az eszköz, szolgáltatás megrendelésének igazolását;
+
+d) a teljesítés igazolását;
+
+e) a felmerült költséget igazoló számla másolatát;
+
+f) a műszaki átadás-átvétel dokumentumait;
+
+g) a beépítés tényét, szolgáltatás elvégzését igazoló képanyagok dokumentációját;
+
+h) a terv- és megvalósulási dokumentáció eltérését bemutató, indokolással ellátott értékelést;
+
+i) engedélyköteles vízilétesítmény esetén a jogerős vízjogi üzemeltetési vagy vízjogi fennmaradási engedélyt, ennek hiányában legalább az engedély kiadására irányuló eljárás megindításáról szóló igazolást.
+
+(4) A Hivatal az elvégzett fejlesztések értékarányosságát is jogosult ellenőrizni.

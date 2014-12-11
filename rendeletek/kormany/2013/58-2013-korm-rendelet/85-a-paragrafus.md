@@ -1,4 +1,4 @@
-85/A. §[^34] (1) A háztartási szennyvizet a törzshálózatba juttató szivattyúnak, vákuumszelepnek és ezek műtárgyainak, szerelvényeinek (a továbbiakban együtt: szennyvíz beemelő)
+85/A. §[^163] (1)[^164] A lakossági felhasználó háztartási szennyvizét a törzshálózatba juttató szivattyúnak, vákuumszelepnek és ezek műtárgyainak, szerelvényeinek (a továbbiakban együtt: szennyvíz beemelő)
 
 a) a szennyvízelvezető törzshálózattal egyidejű kiépítése – a víziközmű-szolgáltatóval történő eltérő megállapodás hiányában – az ellátásért felelős,
 
@@ -32,4 +32,5 @@ f) egyéb, az átadó vagy az átvevő által lényegesnek tartott megállapít�
 
 (6) Az ellátásért felelős a Vksztv. 11. §-ban előírt beruházási terv alapján gondoskodik a (2) bekezdés b) pontjában rögzített feladat felhasználási helytől független energiahálózattal történő kiváltásáról.
 
-[^34]: A 85/A. §-t a 458/2013. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
+[^163]: A 85/A. §-t a 458/2013. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
+[^164]: A 85/A. § (1) bekezdés nyitó szövegrésze a 292/2014. (XI. 26.) Korm. rendelet 37. § 50. pontja szerint módosított szöveg.

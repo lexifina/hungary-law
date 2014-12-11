@@ -4,19 +4,19 @@
 
 (2) A hirdetmény közzétételén az ellátásért felelős honlapján történő közzététel napját kell érteni.
 
-(3) A hirdetménynek tartalmaznia kell a pályázati kiírási dokumentáció beszerzésének helyét, módját és határidejét, a pályázat kiírójának megnevezését, valamint a pályázat tárgyát.
+(3)[^20] A hirdetménynek tartalmaznia kell a pályázati kiírási dokumentáció beszerzésének helyét, módját és jogvesztő határidejét, a pályázat kiírójának megnevezését, valamint a pályázat tárgyát.
 
 (4) A pályázatot az ellátási területre vonatkozóan víziközmű-szolgáltatási ágazatonként vagy mindkét víziközmű-szolgáltatási ágazatra, illetve víziközmű-rendszerekre lehet kiírni.
 
 (5) A pályázati kiírási dokumentációnak tartalmaznia kell:
 
-1. a pályázati eljárás rendjére vonatkozó alapvető szabályokat (különösen a pályázás feltételeit, módját, a benyújtási határidőket, a pályázati eljárás eredményessé vagy eredménytelenné nyilvánításának feltételeit, a pályázati kiírási dokumentáció módosításának feltételeit),
+1.[^21] a pályázati eljárás rendjére vonatkozó alapvető szabályokat (különösen a pályázás feltételeit, módját, a benyújtási határidőket, a pályázati eljárás eredményessé vagy eredménytelenné nyilvánításának feltételeit, a szerződéskötési kötelezettség esetleges kizárását, a pályázati kiírási dokumentáció módosításának feltételeit),
 
 2. a nyertes pályázó, illetve a nyertes közös pályázók által teljesítendő, a víziközmű-szolgáltatással kapcsolatban jogszabályban, illetve szabványban meghatározott követelményeket,
 
 3. az ellátásért felelős eljárását a pályázat érvénytelensége vagy a pályázati eljárás nyertesének visszalépése esetére,
 
-4. a pályázati hirdetmény közzétételekor alkalmazott szolgáltatási díjak képzésének módját és feltételeit, ideértve a hatósági árakra vonatkozó tájékoztatást is,
+4.[^22] a pályázati hirdetmény közzétételekor alkalmazott hatósági árakra vonatkozó tájékoztatást is,
 
 5. a víziközmű-szolgáltatási ágazat megnevezését és műszaki leírását,
 
@@ -34,7 +34,7 @@
 
 12. a víziközmű-szolgáltató adatszolgáltatási kötelezettségét,
 
-13. a használati díj mértékét, beleértve a Vksztv. alapján a szerződő feleket terhelő járulékos költségeket is,
+13.[^23]
 
 14. a víziközmű-szolgáltatással kapcsolatban harmadik személlyel szemben fennálló kártalanítási, kártérítési és egyéb kötelezettségeket,
 
@@ -45,3 +45,8 @@
 17. koncessziós pályázat esetén a nyertes pályázó, illetve a részvételével alapított koncessziós társaság által finanszírozandó víziközmű-fejlesztésekkel kapcsolatos elvárásokat, és
 
 18. az értékelés – jogszabályi keretek között meghatározott – további részletes szempontjait, valamint az eredmény közzétételének módját.
+
+[^20]: A 3. § (3) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 8. pontja szerint módosított szöveg.
+[^21]: A 3. § (5) bekezdés 1. pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 9. pontja szerint módosított szöveg.
+[^22]: A 3. § (5) bekezdés 4. pontja a 292/2014. (XI. 26.) Korm. rendelet 38. § (2) bekezdés 1. pontja szerint módosított szöveg.
+[^23]: A 3. § (5) bekezdés 13. pontját a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 2. pontja hatályon kívül helyezte.

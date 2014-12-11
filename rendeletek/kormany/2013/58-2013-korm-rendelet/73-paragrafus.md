@@ -18,8 +18,10 @@ f) a javítóintézet alapító okirattal.
 
 (2) A víziközmű-szolgáltató a kivétel biztosítására irányuló kezdeményezés beérkezésétől számított 15 napon belül értesíti az intézményt, hogy az (1) bekezdésében hivatkozott feltételeknek
 
-a) megfelel, valamint arról, hogy a kivételt részére meghatározott időszakra biztosítja vagy
+a)[^126] megfelel, valamint arról, hogy a kivételt részére mely időtartamra biztosítja vagy
 
 b) nem felel meg, és tájékoztatást ad ennek indokáról is.
 
 (3) A (2) bekezdés b) pontja szerinti elutasítás nem akadálya a kivétel ismételt kezdeményezésének.
+
+[^126]: A 73. § (2) bekezdés a) pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 38. pontja szerint módosított szöveg.

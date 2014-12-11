@@ -1,6 +1,6 @@
 ## 19. A fogyasztásmérők leolvasása
 
-61. § (1) Fogyasztásmérő telepítéséhez szükséges víziközmű-szolgáltatói hozzájárulás csak abban az esetben tagadható meg, ha az műszakilag nem megvalósítható és a víziközmű biztonságos működtetését veszélyezteti.
+61. § (1)[^69]
 
 (2) A fogyasztásmérő leolvasásának gyakoriságát a víziközmű-szolgáltató jogosult megállapítani azzal, hogy legalább évente egy alkalommal, a felhasználó kérésére negyedévente – a felhasználó (3) bekezdésben foglalt értesítése mellett – köteles a fogyasztásmérő leolvasására.
 
@@ -12,8 +12,13 @@
 
 (6) Ha az (5) bekezdés szerinti értesítés ellenére a felhasználó nem él az időpont-egyeztetés lehetőségével, vagy nem biztosítja a leolvasás elvégzését, a víziközmű-szolgáltatót a leolvasás elmaradásáért nem terheli felelősség.
 
-(7) A víziközmű-szolgáltató által végzett időszakos vagy eseti leolvasás nem mentesíti a felhasználót az üzletszabályzatban meghatározott rendszeres leolvasás és bejelentés alól.
+(7)[^70] A víziközmű-szolgáltató által végzett időszakos vagy eseti leolvasás nem mentesíti a felhasználót az üzletszabályzatban meghatározott rendszeres mérőleolvasás és annak bejelentése alól.
 
-(8) A felhasználó köteles a víziközmű-szolgáltatóval, illetve a fogyasztásmérő leolvasását végző személlyel együttműködni, a fogyasztásmérőhöz való hozzáférést biztosítani, annak tisztántartásáról, fagy elleni védelméről gondoskodni, továbbá a fogyasztásmérő rendellenes működéséről a víziközmű-szolgáltatót haladéktalanul értesíteni.
+(8)[^71] A felhasználó köteles a víziközmű-szolgáltatóval, illetve a fogyasztásmérő leolvasását végző személlyel együttműködni, a fogyasztásmérőhöz való hozzáférést biztosítani.
 
-(9) A leolvasás alkalmával észlelt, az azt megelőző 12 havi átlagfogyasztást a víziközmű-szolgáltató üzletszabályzatában meghatározott mértéket meghaladó fogyasztásról a felhasználót a leolvasással egyidejűleg tájékoztatni kell. A tájékoztatás tényét a felhasználó aláírásával igazolja.
+(9)[^72] A leolvasás alkalmával észlelt, az azt megelőző 12 havi átlagfogyasztást a víziközmű-szolgáltató üzletszabályzatában meghatározott mértéket meghaladó fogyasztásról a felhasználót a leolvasással egyidejűleg a víziközmű-szolgáltató jelen lévő képviselője vagy az azt követő 15 napon belül a víziközmű-szolgáltató írásban tájékoztatja. A tájékoztatás megtörténtét kétség esetén a víziközmű-szolgáltató bizonyítja.
+
+[^69]: A 61. § (1) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 8. pontja hatályon kívül helyezte.
+[^70]: A 61. § (7) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 22. pontja szerint módosított szöveg.
+[^71]: A 61. § (8) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^72]: A 61. § (9) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 11. §-ával megállapított szöveg.

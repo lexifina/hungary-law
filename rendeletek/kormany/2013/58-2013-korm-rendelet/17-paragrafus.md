@@ -6,7 +6,7 @@
 
 (2) A víziközmű-szolgáltatói működési engedély iránti kérelemben – az (1) bekezdés szerinti kivétellel – a kérelmező nyilatkozik arra vonatkozóan, hogy az engedély megszerzése esetén vállalja-e, hogy a közérdekű üzemeltetőként kijelölhető engedélyesek lajstromába felvételre kerüljön.
 
-(3)[^9] A lajstromba nem vehető fel, vagy onnan törölni kell azt a víziközmű-szolgáltatót, aki a Hivatal nyilvántartása szerint 150 000 felhasználói egyenértéket kitevő közszolgáltatási szerződéses kapcsolattal nem rendelkezik.
+(3)[^28] A lajstromba nem vehető fel, vagy onnan törölni kell azt a víziközmű-szolgáltatót, aki a Hivatal nyilvántartása szerint 150 000 felhasználói egyenértéket kitevő közszolgáltatási szerződéses kapcsolattal nem rendelkezik.
 
 (4) Amennyiben az ellátási területen nyújtott víziközmű-szolgáltatás tekintetében a Vksztv. 32. § (1) bekezdése szerinti körülmények bekövetkezése közvetlenül fenyeget, vagy azok bekövetkeztek, e körülményeket a víziközmű-szolgáltató és az ellátásért felelős a Hivatalnak köteles bejelenteni.
 
@@ -18,7 +18,7 @@
 
 (8) A Hivatal a közérdekű üzemeltető kijelölésére irányuló eljárást (e fejezet alkalmazásában a továbbiakban: kijelölési eljárás) a Vksztv. 32. § (1) bekezdésében meghatározott feltételek fennállása esetén a tudomásszerzést követő három munkanapon belül, hivatalból megindítja.
 
-(9)[^10] A kijelölési eljárás megindításáról a Hivatal – az ellátásért felelősön kívül – értesíti az érintett ellátási terület szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét (a továbbiakban: népegészségügyi szakigazgatási szerv), vízügyi, valamint katasztrófavédelmi hatóságot.
+(9)[^29] A kijelölési eljárás megindításáról a Hivatal – az ellátásért felelősön kívül – értesíti az érintett ellátási terület szerint illetékes, az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendeletben meghatározott népegészségügyi szervet (a továbbiakban: népegészségügyi szerv), vízügyi, valamint katasztrófavédelmi hatóságot.
 
 (10) A kijelölési eljárás során a víziközmű-szolgáltatás fenntartása érdekében a Hivatal mind a víziközmű-szolgáltatót, mind az ellátásért felelőst haladéktalanul intézkedések megtételére kötelezheti, egyidejűleg kísérletet tesz a víziközmű-szolgáltatás zavartalan működésének helyreállítására.
 
@@ -38,9 +38,10 @@ e) a feladatok átvételéhez szükséges előkészület időigényét.
 
 (13) A Hivatal a (12) bekezdés szerinti kijelölési szempontoknak leginkább eleget tevő, a lajstromban szereplő és a kizárólagosan állami tulajdonban álló víziközmű-szolgáltatókkal tárgyalást folytat az ellátandó közérdekű üzemeltetői feladatokról.
 
-(14) Amennyiben a víziközmű-szolgáltatás a (13) bekezdés szerinti víziközmű-szolgáltatókkal nem biztosítható, a Hivatal a (12) bekezdésben foglalt szempontok alapján, bármely, a lajstromban nem szereplő víziközmű-szolgáltatót kijelölheti közérdekű üzemeltetőnek, amelynek a működési engedélyét nem a Vksztv. 84. § (1) bekezdése szerinti bocsátotta ki.
+(14)[^30] Amennyiben a víziközmű-szolgáltatás a (13) bekezdés szerinti víziközmű-szolgáltatókkal nem biztosítható, a Hivatal a (12) bekezdésben foglalt szempontok alapján, bármely, a lajstromban nem szereplő víziközmű-szolgáltatót kijelölheti közérdekű üzemeltetőnek, amelynek a működési engedélyét nem a Vksztv. 84. § (1) bekezdése szerint bocsátotta ki.
 
 (15) A Hivatal a közérdekű üzemeltető kijelölését szükségessé tevő, a Vksztv. 32. § (1) bekezdésében rögzített körülményeket, az addigi víziközmű-szolgáltató és az ellátásért felelős ezzel összefüggő tevékenységét a kijelölési eljárással egyidejűleg megvizsgálja, és ha jogszabálysértést állapít meg, bírságot szab ki.
 
-[^9]: A 17. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^10]: A 17. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 139. § a) pontja szerint módosított szöveg.
+[^28]: A 17. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^29]: A 17. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 139. § a) pontja, a 292/2014. (XI. 26.) Korm. rendelet 37. § 11. pontja szerint módosított szöveg.
+[^30]: A 17. § (14) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 12. pontja szerint módosított szöveg.

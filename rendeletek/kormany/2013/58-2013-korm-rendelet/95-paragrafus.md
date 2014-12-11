@@ -1,3 +1,5 @@
+## 94/E. § A beszerzési eljárás előkészítésével, lefolytatásával és a szerződés teljesítésével kapcsolatban keletkezett összes iratot, ha annak megőrzéséről a közbeszerzésekről szóló törvény másként nem rendelkezik, a közbeszerzési eljárás lezárulásától, illetve a szerződés teljesítésétől számított öt évig kell megőrizni.
+
 ## X. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK

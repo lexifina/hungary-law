@@ -18,4 +18,6 @@ d) a szennyvíziszap környezetvédelmi követelményeknek megfelelő, biztonsá
 
 (5) Elválasztott rendszerű szennyvízelvezető műbe csapadékvizet, egyesített rendszerű szennyvízelvezető műbe a víznyelőn keresztül szennyvizet, továbbá elválasztott rendszer esetén a csapadékvíz-elvezető műbe szennyvizet juttatni tilos.
 
-(6) Amennyiben elválasztott rendszerű szennyvízelvezető hálózatba csapadékvíz bevezetésére kerül sor, a víziközmű-szolgáltató a jogellenes állapotot megszüntető kétszeri felszólítás után jogosult a 6. melléklet szerint számított bevezetett csapadékvíz-mennyiség után kétszeres mértékű díjat kiszámlázni a bekötött ingatlan tulajdonosának.
+(6)[^162] Ha elválasztott rendszerű szennyvízelvezető hálózatba csapadékvíz bevezetésére kerül sor, és ezt a gyakorlatot a felhasználó a víziközmű-szolgáltató felszólítása ellenére tovább folytatja, a víziközmű-szolgáltató a jogellenes állapotot a felhasználó költségére megszüntetheti. A szennyvízelvezető törzshálózatba jogellenesen bevezetett csapadékvíz mennyisége után a víziközmű-szolgáltató üzletszabályzatában meghatározott pótdíjat számolhat fel.
+
+[^162]: A 85. § (6) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 28. §-ával megállapított szöveg.

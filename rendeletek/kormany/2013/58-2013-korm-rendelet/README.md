@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-58-20-2
 | 2013-12-03 | 2013-58-20-22.2 | 458/2013. (XII. 2.) Korm. rendelet |
 | 2014-01-01 | 2013-58-20-22.3 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2014-03-15 | 2013-58-20-22.4 | 53/2014. (III. 3.) Korm. rendelet |
+| 2014-12-11 | 2013-58-20-22.5 | 292/2014. (XI. 26.) Korm. rendelet |
