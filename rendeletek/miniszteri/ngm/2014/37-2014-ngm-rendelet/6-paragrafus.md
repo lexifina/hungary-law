@@ -1,7 +1,9 @@
-## lép.
+## 5. §[^4]
 
-6. § (1) Hatályát veszti az R. 1. melléklet XI. fejezet D) cím 4. pontja.
+6. § (1)[^5]
 
-(2)[^3]
+(2)[^6]
 
-[^3]: A 6. § (2) bekezdése a 3. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^4]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 6. § (2) bekezdése a 3. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
