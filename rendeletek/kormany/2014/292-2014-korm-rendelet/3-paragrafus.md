@@ -1,1 +1,0 @@
-## „(7) A közérdekű üzemeltetés körében a víziközmű-szolgáltató a víziközmű-rendszeren tervszerű felújítást, beruházást kizárólag a Hivatal előzetes engedélye alapján végezhet. Az előre nem tervezhető, halaszthatatlan víziközmű beruházási munkákról a víziközmű-szolgáltatónak a Hivatalt negyedévente tájékoztatnia kell.”

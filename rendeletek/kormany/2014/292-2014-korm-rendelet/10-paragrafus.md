@@ -1,1 +1,0 @@
-## „(3) A felhasználó a tulajdonában lévő házi ivóvíz- és szennyvízhálózatot, illetve a csatlakozó hálózat műszaki állapotát rendszeresen ellenőrzi és az észlelt hibák kijavításáról haladéktalanul gondoskodik.”
