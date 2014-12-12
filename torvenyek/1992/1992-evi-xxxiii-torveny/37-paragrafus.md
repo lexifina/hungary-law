@@ -22,7 +22,7 @@ b) felmentésére a 30. § (4) bekezdése alapján kerül sor.
 
 a) jogutódlás esetén a jogelődnél,
 
-b) a munkáltató egészének vagy egy részének átadása esetén az átadó munkáltatónál munkaviszonyban vagy közalkalmazotti jogviszonyban töltött időt is [25/B. § (6) bekezdés].
+b) a munkáltató egészének vagy egy részének átadása esetén az átadó munkáltatónál munkaviszonyban vagy közalkalmazotti jogviszonyban töltött időt is [25/B. § (5) bekezdés].
 
 (6) A közalkalmazott végkielégítésének mértéke, ha a közalkalmazotti jogviszonyban töltött idő legalább
 

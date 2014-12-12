@@ -4,7 +4,7 @@ a) az e törvény hatálya alá tartozó munkáltatónál munkaviszonyban, köza
 
 b) a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szervnél munkaviszonyban, kormányzati szolgálati, illetve közszolgálati jogviszonyban töltött időt,
 
-c) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, valamint 2010. július 6. és 2012. február 29. között a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény hatálya alá tartozó szervnél munkaviszonyban, kormánytisztviselői jogviszonyban töltött időt,
+c) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, valamint 2010. július 6. és 2012. február 29. között a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) hatálya alá tartozó szervnél munkaviszonyban, kormánytisztviselői jogviszonyban töltött időt,
 
 d) a szolgálati jogviszony időtartamát, továbbá
 
@@ -12,7 +12,7 @@ e) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban
 
 f) a hivatásos nevelő szülői jogviszonyban,
 
-g) az e törvény, a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
+g) az e törvény, a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, a Ktjv., valamint a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
 
 h) az állami vezetői szolgálati jogviszonyban
 
