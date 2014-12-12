@@ -50,7 +50,7 @@ Kb = a Kiegészítő szabályok 1. bbb) alpontja szerinti korrekciós tényező,
 
 Kc = a Kiegészítő szabályok 1. bbc) alpontja szerinti korrekciós tényező.
 
-A közös hivatal esetében a közös hivatalt alkotó nyolcadik és minden további település után, az elismert hivatali létszám településenként 1 fővel nő. A járási székhely önkormányzat, illetve az 5 000 fő lakosságszám feletti község, nagyközség önkormányzata esetében az elismert hivatali létszám 2 fővel emelkedik függetlenül attól, hogy önállóan vagy közös hivatal útján gondoskodik a hivatali feladatok ellátásáról.
+A közös hivatal esetében a közös hivatalt alkotó hetedik és minden további település után, az elismert hivatali létszám településenként 1 fővel nő. A járási székhely önkormányzat, illetve az 5 000 fő lakosságszám feletti község, nagyközség önkormányzata esetében az elismert hivatali létszám 2 fővel emelkedik függetlenül attól, hogy önállóan vagy közös hivatal útján gondoskodik a hivatali feladatok ellátásáról.
 
 b) Település-üzemeltetéshez kapcsolódó feladatellátás támogatása
 
@@ -223,6 +223,10 @@ Főváros, fővárosi kerületek, megyei jogú város
 227 000 Ft/km
 
 A településen lévő belterületi út hosszát a Központi Statisztikai Hivatal 2012. december 31-ei állapotnak megfelelően elkészített Országos Statisztikai Adatgyűjtési Program 1390 „Helyi közutak és hidak adatai” alapján kell figyelembe venni.
+
+be) Közös szabály:
+
+Ha a Központi Statisztikai Hivatal által, 2012. december 31-i állapotnak megfelelően elkészített Országos Statisztikai Adatgyűjtési Programban a bb)–bd) alpont szerinti naturális mutatók tekintetében 2014. december 31-éig korrekció történik és a korrigált adat kisebb, mint a támogatást megalapozó adat, a bb)–bd) alponthoz kapcsolódó támogatásokban történő változásokat az éves költségvetési beszámoló keretében történő elszámolás során kell érvényesíteni.
 
 c) Egyéb önkormányzati feladatok támogatása
 
@@ -1172,7 +1176,7 @@ ELŐIRÁNYZAT:
 
 |
 
-17 853,7 millió forint
+17 912,6 millió forint
 
 Az előirányzat a települési önkormányzatot illeti meg a muzeális intézményekre, a nyilvános könyvtári ellátás biztosítására szolgáló feladatainak ellátására, valamint a közművelődés támogatására.
 
@@ -1814,7 +1818,7 @@ FAJLAGOS ÖSSZEG: 668 300 Ft/település
 
 hb) 1 001 – 1 500 fő lakosságszám közötti település
 
-FAJLAGOS ÖSSZEG: 1 060 076 Ft/település
+FAJLAGOS ÖSSZEG: 1 060 760 Ft/település
 
 hc) 1 501 – 5 000 fő lakosságszám közötti település
 
@@ -4190,7 +4194,7 @@ Sorszám
 
 |
 
-Adat-szolgáltatás időpontja
+Adatszolgáltatás időpontja
 
 |
 
@@ -4216,11 +4220,7 @@ kezdő hónapja
 
 |
 
-I. 2., II. 1., II. 2.
-
-II. 3.,
-
-III. 3., III.4., III.5.
+I. 2., II. 1., II. 2., II. 3., III. 3., III.4., III.5.
 
 |
 
@@ -4230,9 +4230,11 @@ a III.4. és III.5. jogcímnél a becsült éves ellátotti adatok, személyi t�
 
 |
 
-I.2. esetében 2014. november;
+I.2. esetében 2014. november; II.1., II.2., II.3., III.3., III.4. a) és III.5. a) esetében
 
-II.1., II.2., II.3., III.3., III.4. a) és III.5. a) esetében 2014. július; III.4. b) és III.5. b) esetében 2014. augusztus
+2014. július; III.4. b) és III.5. b) esetében
+
+2014. augusztus
 
 |
 
@@ -4244,11 +4246,7 @@ II.1., II.2., II.3., III.3., III.4. a) és III.5. a) esetében 2014. július; II
 
 |
 
-II. 1., II. 2.,
-
-II. 3., III. 3.,
-
-III. 4. a), III.5. a)
+II. 1., II. 2., II. 3., III. 3., III. 4. a), III.5. a)
 
 |
 

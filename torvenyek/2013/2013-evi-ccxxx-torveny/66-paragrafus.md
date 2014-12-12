@@ -1,6 +1,6 @@
 ## 22. Egyes koncessziós díjak
 
-66. § (1) Az Szjtv. 27. § (5) bekezdése szerinti koncessziós díj jogszabályi minimuma az Szjtv. 37. § 11. pontja szerinti egységenként a 2014. tárgyévre a következő:
+66. § (1) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) 27. § (5) bekezdése szerinti koncessziós díj jogszabályi minimuma az Szjtv. 37. § 11. pontja szerinti egységenként a 2014. tárgyévre a következő:
 
 a) Budapesten és Pest megyében I. kategóriájú játékkaszinó esetében 646,3 millió forint, II. kategóriájú játékkaszinó esetében 377,0 millió forint,
 

@@ -10,7 +10,7 @@ a) ha a települési önkormányzat a tárgyévet megelőző év decemberében i
 
 b) ha a települési önkormányzat a tárgyévet megelőző év decemberében nem nyújtott be igénylést, első alkalommal az őt megillető havi összeg legfeljebb kétszeresét igényelheti jogszabályban meghatározott éven belüli elszámolási kötelezettséggel.
 
-(4) A helyi önkormányzatok általános működésének és ágazati feladatainak ellátásához járó támogatás jogtalan igénybevételéhez kapcsolódó kamatfizetési kötelezettség kiszámítása szempontjából a 2. melléklet II. pontja, III. pont 3. alpontja és III. pont 4. alpontja szerinti támogatások együttes összegét kell figyelembe venni.
+(4) A helyi önkormányzatok általános működésének és ágazati feladatainak ellátásához járó támogatás jogtalan igénybevételéhez kapcsolódó kamatfizetési kötelezettség kiszámítása szempontjából a 2. melléklet I. pont 2. alpontja, II. pontja, III. pont 3. alpontja, 4. alpontja és 5. alpontja szerinti támogatások együttes összegét kell figyelembe venni.
 
 (5) Ha az állam a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 74. §-a szerinti hozzájárulás megfizetésére kötelezi a települési önkormányzatot, annak befizetését a települési önkormányzat havonta, minden hónap 5. napjáig köteles teljesíteni. A hozzájárulás összege a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet 5. Költségvetési befizetések cím 3. Köznevelési intézmények működtetésével kapcsolatos önkormányzati befizetések alcím előirányzatának bevételét növeli.
 

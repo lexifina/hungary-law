@@ -28,7 +28,7 @@ c) a 2014. évre várható államadósság
 
 alakulását, továbbá javaslatot tesz az (5) bekezdés szerinti kiadási előirányzat felhasználásának céljára és ütemezésére.
 
-(8) A XI. Miniszterelnökség fejezetet, és a XVIII. Külügyminisztérium fejezetet irányító szervek vezetői a kormányfői protokollal kapcsolatos feladatok ellátása érdekében fejezeti hatáskörben a szükséges előirányzat-átcsoportosításokról intézkedhetnek.
+(8) A XI. Miniszterelnökség fejezetet, és a XVIII. Külgazdasági és Külügyminisztérium fejezetet irányító szervek vezetői a kormányfői protokollal kapcsolatos feladatok ellátása érdekében fejezeti hatáskörben a szükséges előirányzat-átcsoportosításokról intézkedhetnek.
 
 (9) A Köztársasági Elnöki Hivatal főigazgatója
 
@@ -46,9 +46,9 @@ b) az I. Országgyűlés fejezet, 4. cím, 6. Képviselő-testület váltásáva
 
 (12) Az Országos Bírósági Hivatal elnöke a VI. Bíróságok fejezet, 3. Fejezeti kezelésű előirányzatok cím terhére átcsoportosíthat a VI. Bíróságok fejezet, 1. Bíróságok cím javára.
 
-(13) A X. Közigazgatási és Igazságügyi Minisztérium fejezetet irányító szerv vezetője a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 20. cím, 2. alcím, 41. Ludovika Campus jogcímcsoport terhére átcsoportosíthat a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 17. Nemzeti Közszolgálati Egyetem cím javára.
+(13) A X. Igazságügyi Minisztérium fejezetet irányító szerv vezetője a X. Igazságügyi Minisztérium fejezet, 20. cím, 2. alcím, 41. Ludovika Campus jogcímcsoport terhére átcsoportosíthat a X. Igazságügyi Minisztérium fejezet, 17. Nemzeti Közszolgálati Egyetem cím javára.
 
-(14) A XI. Miniszterelnökség fejezetet irányító szerv vezetője és a X. Közigazgatási és Igazságügyi Minisztérium fejezetet irányító szerv vezetője a XI. Miniszterelnökség fejezet, 15. cím, 1. alcím, 3. Konzultációk kiadásai jogcímcsoport fejezeti kezelésű előirányzat felhasználásával kapcsolatban a szükséges előirányzat-átcsoportosításokról fejezeti hatáskörben intézkedhetnek.
+(14) A XI. Miniszterelnökség fejezetet irányító szerv vezetője és a X. Igazságügyi Minisztérium fejezetet irányító szerv vezetője a XI. Miniszterelnökség fejezet, 15. cím, 1. alcím, 3. Konzultációk kiadásai jogcímcsoport fejezeti kezelésű előirányzat felhasználásával kapcsolatban a szükséges előirányzat-átcsoportosításokról fejezeti hatáskörben intézkedhetnek.
 
 (15) A XI. Miniszterelnökség fejezetet irányító szerv vezetője, a XI. Miniszterelnökség fejezet, 15. cím, 1. alcím, 21. A Stipendium Hungaricum ösztöndíjak és ösztöndíjprogram működtetése jogcímcsoport terhére előirányzat-átcsoportosítást hajthat végre a XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím javára.
 
@@ -56,12 +56,16 @@ b) az I. Országgyűlés fejezet, 4. cím, 6. Képviselő-testület váltásáva
 
 (17) A XX. Emberi Erőforrások Minisztériuma fejezet irányító szerv vezetője az államháztartásért felelős miniszter egyetértésével a XX. Emberi Erőforrások Minisztériuma fejezet, 20. cím, 19. alcím, 7. Szociális, gyermekjóléti és gyermekvédelmi feladatok ellátási szerződésekkel történő finanszírozása jogcímcsoport és a 2. cím, 3. Szociális és gyermekvédelmi, gyermekjóléti feladatellátás és irányítás intézményei alcím között az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szervnek a szociális vagy gyermekvédelmi, gyermekjóléti szolgáltatást nyújtó szolgáltatót, intézményt működtető fenntartóval létrejött – a szociális, vagy gyermekvédelmi, gyermekjóléti szolgáltatás nyújtásának átvállalásáról szóló – megállapodásának, illetve ellátási szerződésének év közben bekövetkező változásaira tekintettel átcsoportosíthat.
 
-(18) A Köztársasági Elnöki Hivatal főigazgatója és a XVIII. Külügyminisztérium fejezetet irányító szerv vezetője az államfői protokollal kapcsolatos feladatok ellátásához szükséges előirányzat-átcsoportosításról fejezeti hatáskörben intézkedhetnek.
+(18) A Köztársasági Elnöki Hivatal főigazgatója és a XVIII. Külgazdasági és Külügyminisztérium fejezetet irányító szerv vezetője az államfői protokollal kapcsolatos feladatok ellátásához szükséges előirányzat-átcsoportosításról fejezeti hatáskörben intézkedhetnek.
 
 (19) A Kormány a LXIII. Nemzeti Foglalkoztatási Alap fejezet kiadásai terhére legfeljebb 400,0 millió forint átcsoportosítást hajthat végre a XX. Emberi Erőforrások Minisztériuma fejezet javára az Útravaló Ösztöndíjprogram Út a szakmához alprogramjának megvalósításához.
 
 (20) Az I–VI., a VIII., a XXX., és a XXXIV. fejezetek fejezeti tartalék előirányzatát 2014. szeptember 30-át megelőzően nem lehet felhasználni. A fejezeti tartalék az Országgyűlés határozatban adott jóváhagyásával használható fel.
 
-(21) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) 32. § (5) bekezdése szerinti távszerencsejáték játékadóból származó bevétel sport utánpótlás-nevelési feladatok támogatására fordítandó. A Kormány határozatával a távszerencsejáték játékadóból származó bevétel 2014. évben pénzforgalmilag teljesült mértékéig új kiadási előirányzatot hozhat létre a XX. Emberi Erőforrások Minisztériuma fejezetben, vagy engedélyezheti a XX. Emberi Erőforrások Minisztériuma fejezet, 20. cím, 23. alcím, 5. Országos sportági szakszövetségek akadémia rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása jogcímcsoport előirányzat kiadási előirányzatának növelését. A sportfogadás (TOTÓ) játékadója 2014-ben pénzforgalmilag teljesült bevételével egyező kiadás a 12. § (1) bekezdése szerinti előirányzatok felett a labdarúgás támogatására fordítandó.
+(21) A Kormány határozatával a távszerencsejáték játékadójából, valamint a sportfogadás (TOTÓ) játékadójából származó bevétel 2014. évben pénzforgalmilag teljesült mértékéig a sportról szóló 2004. évi I. törvény 56. § (2) bekezdésében meghatározott célra új kiadási előirányzatot hozhat létre a XX. Emberi Erőforrások Minisztériuma fejezetben, vagy engedélyezheti a XX. Emberi Erőforrások Minisztériuma fejezet, 20. cím, 23. alcím, 5. Országos sportági szakszövetségek akadémia rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása jogcímcsoport előirányzat kiadási előirányzatának növelését.
 
 (22) A legfőbb ügyész a VIII. Ügyészség fejezet 3. Fejezeti kezelésű előirányzatok cím, 7. A termőföld tulajdonjogának megszerzését vagy használatát korlátozó jogszabályi rendelkezések kijátszására irányuló jogügyletek feltárása és megakadályozása alcím terhére átcsoportosítást hajthat végre a VIII. Ügyészség fejezet 1. Ügyészségek cím javára.
+
+(23) A Kormány a LXIII. Nemzeti Foglalkoztatási Alap fejezet kiadásai terhére átcsoportosítást hajthat végre más fejezet javára egyes szakképzési célok megvalósítása céljából.
+
+(24) A 2014. évben az államháztartásért felelős miniszter az állam nevében – az állam szerződéses kötelezettségei teljesítésének biztosítékául – szerződésből eredő fizetési kötelezettség teljesítésére irányuló nyilatkozatot tehet.

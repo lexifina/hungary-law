@@ -52,7 +52,7 @@ Kampányköltségek (10. cím)
 
 |
 
-X. KÖZIGAZGATÁSI ÉS IGAZSÁGÜGYI MINISZTÉRIUM fejezetben
+X. IGAZSÁGÜGYI MINISZTÉRIUM fejezetben
 
 |
 
@@ -122,7 +122,7 @@ Céltartalékok (24. cím)
 
 |
 
-XII. VIDÉKFEJLESZTÉSI MINISZTÉRIUM fejezetben
+XII. FÖLDMŰVELÉSÜGYI MINISZTÉRIUM fejezetben
 
 |
 
@@ -1402,7 +1402,7 @@ Jogerősen megállapított kártérítések célelőirányzata (3. cím, 4. alc�
 
 |
 
-X. KÖZIGAZGATÁSI ÉS IGAZSÁGÜGYI MINISZTÉRIUM fejezetben
+X. IGAZSÁGÜGYI MINISZTÉRIUM fejezetben
 
 |
 
@@ -1442,7 +1442,7 @@ Fővárosi és megyei kormányhivatalok peres ügyei (20. cím, 12. alcím)
 
 |
 
-XII. VIDÉKFEJLESZTÉSI MINISZTÉRIUM fejezetben
+XII. FÖLDMŰVELÉSÜGYI MINISZTÉRIUM fejezetben
 
 |
 
@@ -1564,8 +1564,6 @@ XVII. NEMZETI FEJLESZTÉSI MINISZTÉRIUM fejezetben
 
 |
 
-Beruházás ösztönzési célelőirányzat (20. cím, 33. alcím, 1. jogcímcsoport)
-
 |
 
 110
@@ -1611,6 +1609,30 @@ A helyközi személyszállítási közszolgáltatások költségtérítése (21.
 A vasúti pályahálózat működtetésének költségtérítése (21. cím, 1. alcím,
 
 5. jogcímcsoport)
+
+|
+
+112a
+
+|
+
+|
+
+|
+
+XVIII. KÜLGAZDASÁGI ÉS KÜLÜGYMINISZTÉRIUM fejezetben
+
+|
+
+112b
+
+|
+
+|
+
+|
+
+Beruházás ösztönzési célelőirányzat (5. cím, 50. alcím)
 
 |
 
@@ -1772,8 +1794,6 @@ Ha az európai uniós tagsághoz kapcsolódó támogatások felhasználása érd
 
 |
 
-XII. VIDÉKFEJLESZTÉSI MINISZTÉRIUM fejezetben
-
 |
 
 122
@@ -1785,8 +1805,6 @@ XII. VIDÉKFEJLESZTÉSI MINISZTÉRIUM fejezetben
 |
 
 |
-
-Uniós programok kiegészítő támogatása (20. cím, 4. alcím)
 
 |
 
@@ -1800,8 +1818,6 @@ Uniós programok kiegészítő támogatása (20. cím, 4. alcím)
 
 |
 
-Vidékfejlesztési és halászati programok (20. cím, 11. alcím)
-
 |
 
 124
@@ -1813,8 +1829,6 @@ Vidékfejlesztési és halászati programok (20. cím, 11. alcím)
 |
 
 |
-
-Új Vidékfejlesztési Program (20. cím, 12. alcím)
 
 |
 
@@ -1995,6 +2009,48 @@ Budapest 4-es metróvonal építésének támogatása (2. cím, 7. alcím,
 |
 
 Európai Területi Együttműködés (2014-2020) (2. cím, 10. alcím)
+
+|
+
+137a
+
+|
+
+|
+
+|
+
+|
+
+Vidékfejlesztési és halászati programok (2. cím, 11. alcím)
+
+|
+
+137b
+
+|
+
+|
+
+|
+
+|
+
+Új Vidékfejlesztési Program (2. cím, 12. alcím)
+
+|
+
+137c
+
+|
+
+|
+
+|
+
+|
+
+Uniós Programok ÁFA fedezete (2. cím, 13. alcím)
 
 |
 

@@ -12,9 +12,9 @@ b) az egyedi támogatások, költségtérítések, valamint az egyéb vállalati
 
 c) a 10. § (7) bekezdésében meghatározott – központi költségvetési szervekre vonatkozó – befizetési kötelezettség szabályait,
 
-d) a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. cím, 33. alcím, 1. Beruházás ösztönzési célelőirányzat jogcímcsoport előirányzata felhasználásának részletes szabályait,
+d) a XVIII. Külgazdasági és Külügyminisztérium fejezet, 5. cím, 50. Beruházás ösztönzési célelőirányzat alcím előirányzata felhasználásának részletes szabályait,
 
-e) a XLII. fejezet 32. cím, 1. alcím, 23. Hulladék-közszolgáltatással kapcsolatos kiadások jogcímcsoport előirányzata felhasználásának szabályait.
+e)
 
 (2) Felhatalmazást kap
 

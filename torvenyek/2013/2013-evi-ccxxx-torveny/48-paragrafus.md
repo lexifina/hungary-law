@@ -14,4 +14,4 @@ előirányzataira.
 
 (2) Az (1) bekezdésben megjelölt jogokat és kötelezettségeket a Kormány rendeletében meghatározott személy gyakorolja.
 
-(3) Az I. Országgyűlés fejezet 8–10. és 11. címében, a X. Közigazgatási és Igazságügyi Minisztérium fejezet 24. címében, a XI. Miniszterelnökség fejezet 7. címében, a XX. Emberi Erőforrások Minisztériuma fejezet, 21. címében megjelölt támogatások folyósításáról az államháztartásért felelős miniszter gondoskodik.
+(3) Az I. Országgyűlés fejezet 8–10. és 11. címében, a X. Igazságügyi Minisztérium fejezet 24. címében, a XI. Miniszterelnökség fejezet 7. címében, a XX. Emberi Erőforrások Minisztériuma fejezet, 21. címében megjelölt támogatások folyósításáról az államháztartásért felelős miniszter gondoskodik.

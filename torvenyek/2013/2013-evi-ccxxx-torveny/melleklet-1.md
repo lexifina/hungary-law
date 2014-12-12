@@ -6572,7 +6572,7 @@ IX. fejezet összesen:
 
 |
 
-X. KÖZIGAZGATÁSI ÉS IGAZSÁGÜGYI MINISZTÉRIUM
+X. IGAZSÁGÜGYI MINISZTÉRIUM
 
 |
 
@@ -6596,7 +6596,7 @@ X. KÖZIGAZGATÁSI ÉS IGAZSÁGÜGYI MINISZTÉRIUM
 
 |
 
-Közigazgatási és Igazságügyi Minisztérium igazgatása
+Igazságügyi Minisztérium igazgatása
 
 |
 
@@ -12114,7 +12114,7 @@ Az Országos Közszolgálati Érdekegyeztető Tanács tevékenységében közrem
 
 |
 
-Friends of Hungary Alapítvány támogatása és adomány biztosítása
+The Hungary Initiatives Foundation támogatása és adomány biztosítása
 
 |
 
@@ -12290,6 +12290,38 @@ A Stipendium Hungaricum ösztöndíjak és ösztöndíjprogram működtetése
 
 |
 
+|
+
+22
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Egyetemes postai szolgáltató méltánytalan többletterhének megtérítése
+
+|
+
+9 122,0
+
+|
+
+|
+
+9 122,0
+
+|
+
+|
+
 2
 
 |
@@ -12334,7 +12366,7 @@ Fejezeti általános tartalék
 
 |
 
-33 292,9
+42 414,9
 
 |
 
@@ -12342,7 +12374,7 @@ Fejezeti általános tartalék
 
 |
 
-32 956,1
+42 078,1
 
 |
 
@@ -12668,7 +12700,7 @@ Országvédelmi Alap
 
 |
 
-100 000,0
+52 328,0
 
 |
 
@@ -12692,7 +12724,7 @@ XI. fejezet összesen:
 
 |
 
-247 227,7
+208 677,7
 
 |
 
@@ -12700,7 +12732,7 @@ XI. fejezet összesen:
 
 |
 
-33 887,9
+43 009,9
 
 |
 
@@ -12716,7 +12748,7 @@ XI. fejezet összesen:
 
 |
 
-XII. VIDÉKFEJLESZTÉSI MINISZTÉRIUM
+XII. FÖLDMŰVELÉSÜGYI MINISZTÉRIUM
 
 |
 
@@ -12740,7 +12772,7 @@ XII. VIDÉKFEJLESZTÉSI MINISZTÉRIUM
 
 |
 
-Vidékfejlesztési Minisztérium igazgatása
+Földművelésügyi Minisztérium igazgatása
 
 |
 
@@ -29328,6 +29360,36 @@ Eximbank Zrt. tőkejuttatása
 
 |
 
+51
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Gazdasági Zöldítési Rendszer
+
+|
+
+2 312,5
+
+|
+
+|
+
+2 312,5
+
+|
+
+|
+
 |
 
 |
@@ -29342,7 +29404,7 @@ XV. fejezet összesen:
 
 |
 
-78 787,7
+81 100,2
 
 |
 
@@ -29350,7 +29412,7 @@ XV. fejezet összesen:
 
 |
 
-68 255,2
+70 567,7
 
 |
 
@@ -31580,7 +31642,7 @@ Közlekedésfejlesztési Koordinációs Központ
 
 |
 
-12 980,5
+22 980,5
 
 |
 
@@ -31708,7 +31770,7 @@ Dologi kiadások
 
 |
 
-52 614,0
+62 614,0
 
 |
 
@@ -33758,13 +33820,13 @@ Zöldgazdaság Finanszírozási Rendszer
 
 |
 
-9 250,0
+6 937,5
 
 |
 
 |
 
-9 250,0
+6 937,5
 
 |
 
@@ -34182,7 +34244,7 @@ Szúnyogirtási program támogatása
 
 |
 
-326 109,9
+333 797,4
 
 |
 
@@ -34190,7 +34252,7 @@ Szúnyogirtási program támogatása
 
 |
 
-239 288,7
+246 976,2
 
 |
 
@@ -34432,7 +34494,7 @@ XVII. fejezet összesen:
 
 |
 
-594 708,9
+602 396,4
 
 |
 
@@ -34440,7 +34502,7 @@ XVII. fejezet összesen:
 
 |
 
-239 288,7
+246 976,2
 
 |
 
@@ -34456,7 +34518,7 @@ XVII. fejezet összesen:
 
 |
 
-XVIII. KÜLÜGYMINISZTÉRIUM
+XVIII. KÜLGAZDASÁGI ÉS KÜLÜGYMINISZTÉRIUM
 
 |
 
@@ -34480,7 +34542,7 @@ XVIII. KÜLÜGYMINISZTÉRIUM
 
 |
 
-Külügyminisztérium központi igazgatása
+Külgazdasági és Külügyminisztérium központi igazgatása
 
 |
 
@@ -35756,6 +35818,36 @@ Humanitárius segélyezés
 
 |
 
+52
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Eximbank Zrt. tőkeemelése
+
+|
+
+20 000,0
+
+|
+
+|
+
+20 000,0
+
+|
+
+|
+
 |
 
 |
@@ -35770,7 +35862,7 @@ XVIII. fejezet összesen:
 
 |
 
-63 799,4
+83 799,4
 
 |
 
@@ -35778,7 +35870,7 @@ XVIII. fejezet összesen:
 
 |
 
-56 052,9
+76 052,9
 
 |
 
@@ -64040,7 +64132,7 @@ Az MNV Zrt. tulajdonosi joggyakorlásával kapcsolatos kifizetések
 
 |
 
-20 314,0
+27 814,0
 
 |
 
@@ -64073,6 +64165,126 @@ Az MFB Zrt. tulajdonosi joggyakorlásával kapcsolatos kifizetések
 |
 
 13 450,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3
+
+|
+
+|
+
+|
+
+|
+
+|
+
+A Főgáz Zrt. részesedésének megvásárlásával kapcsolatos kiadások
+
+|
+
+79 186,3
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Az Antenna Hungária Zrt. részesedésének megvásárlásával kapcsolatos kiadások
+
+|
+
+56 000,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+5
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Az AVE Magyarország Kft. részesedésének megvásárlásával kapcsolatos kiadások
+
+|
+
+14 000,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+6
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Az MVM Paks II. Atomerőmű Fejlesztő Zrt. megvásárlásával kapcsolatos kiadások
+
+|
+
+10 157,1
 
 |
 
@@ -64223,6 +64435,36 @@ A Rubik kocka motívuma és gondolatisága által ihletett kiállítási közpon
 |
 
 520,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+10
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer bevezetéséhez szükséges fejlesztések
+
+|
+
+8 550,0
 
 |
 
@@ -65234,7 +65476,7 @@ XLIII. fejezet összesen:
 
 |
 
-160 332,0
+335 725,4
 
 |
 

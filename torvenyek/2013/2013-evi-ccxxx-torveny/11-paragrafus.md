@@ -6,4 +6,4 @@
 
 (4) Az egészségügyi felsőfokú szakirányú szakképzési rendszerről szóló 122/2009. (VI. 12.) Korm. rendelet 6/A. § (1) bekezdése szerinti támogatás összege 100 000 forint/év.
 
-(5) A központi költségvetési szervként működő – köznevelési közfeladatot ellátó intézményt fenntartó – felsőoktatási intézményt az általa ellátott köznevelési feladatok tekintetében a 33. § (9) és (13) bekezdésben megállapított támogatások azonos jogcímen és feltételekkel illetik meg.
+(5) A központi költségvetési szervként működő – köznevelési közfeladatot ellátó intézményt fenntartó – felsőoktatási intézményt az általa ellátott köznevelési feladatok tekintetében a 33. § (7) és (13) bekezdésében megállapított támogatások azonos jogcímen és feltételekkel illetik meg.
