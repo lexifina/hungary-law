@@ -22,6 +22,6 @@ g) más települési önkormányzatnál polgármester, alpolgármester;
 
 h) a helyi önkormányzat által alapított vagy tulajdoni részesedésével működő gazdasági társaság, továbbá a helyi önkormányzat tulajdoni részesedésével működő gazdasági társaság által alapított gazdasági társaság legfőbb szervének – kivéve, ha a gazdasági társaság legfőbb szerve a képviselő-testület –, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja;
 
-i) médiatartalom-szolgáltató természetes személy, továbbá jogi személy, valamint gazdasági társaság legfőbb szervének, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja.
+i) médiatartalom-szolgáltató természetes személy, jogi személy, gazdasági társaság legfőbb szervének, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja.
 
 (2) A települési önkormányzati képviselő nem lehet a megyei közgyűlés elnöke, alelnöke, főpolgármester, főpolgármester-helyettes.
