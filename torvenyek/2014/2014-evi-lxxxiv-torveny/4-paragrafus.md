@@ -1,0 +1,3 @@
+4. § A Kvtv. 23. § (21) bekezdése helyébe a következő rendelkezés lép:
+
+„(21) A Kormány határozatával a távszerencsejáték játékadójából, valamint a sportfogadás (TOTÓ) játékadójából származó bevétel 2014. évben pénzforgalmilag teljesült mértékéig a sportról szóló 2004. évi I. törvény 56. § (2) bekezdésében meghatározott célra új kiadási előirányzatot hozhat létre a XX. Emberi Erőforrások Minisztériuma fejezetben, vagy engedélyezheti a XX. Emberi Erőforrások Minisztériuma fejezet, 20. cím, 23. alcím, 5. Országos sportági szakszövetségek akadémia rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása jogcímcsoport előirányzat kiadási előirányzatának növelését.”
