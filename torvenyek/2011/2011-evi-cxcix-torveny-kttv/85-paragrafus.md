@@ -1,5 +1,13 @@
 85. § (1) A kormánytisztviselő nem lehet helyi önkormányzati, nemzetiségi önkormányzati képviselő annál az önkormányzatnál, amely az őt alkalmazó államigazgatási szerv illetékességi területén működik.
 
+(1a) A központi államigazgatási szerv és a fővárosi és megyei kormányhivatal kormánytisztviselője nem lehet
+
+a) helyi nemzetiségi önkormányzat elnöke, elnökhelyettese,
+
+b) országos nemzetiségi önkormányzat elnöke, elnökhelyettese, továbbá
+
+c) nemzetiségi önkormányzat képviselője.
+
 (2) A kormánytisztviselő további jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével – csak a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet. A gyakorolható tevékenység végzésére irányuló jogviszonyt, valamint a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt, annak létesítését megelőzően a munkáltatói jogkör gyakorlójának írásban be kell jelenteni, ha e jogviszony keretében végzett tevékenység a kormánytisztviselő munkaköri feladataival közvetlenül összefügg.
 
 (3) A kormánytisztviselő a (2) bekezdésben foglaltaktól eltérően a gyakorolható tevékenység, továbbá a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélye alapján létesíthet, ha a munkavégzés időtartama részben azonos a kormánytisztviselő beosztás szerinti munkaidejével.

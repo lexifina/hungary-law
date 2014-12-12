@@ -32,4 +32,4 @@ c) a székhelyén kívül három vagy több község esetén az alapilletményé
 
 (6) A (4) és (5) bekezdés alkalmazása során a jegyző, főjegyző illetménye csökkenhet is.
 
-(7) A kistérségi tárulás székhelytelepülésének jegyzője számára vezetői illetménypótlék állapítható meg, amelynek mértéke nem haladhatja meg az alapilletményének 40%-át.
+(7)

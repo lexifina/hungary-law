@@ -8,6 +8,6 @@
 
 (4) A (3) bekezdésben meghatározott adatfeldolgozást a személyügyi központ az egységes alapokon megvalósuló személyügyi nyilvántartás és integrált emberi erőforrás-gazdálkodási rendszer keretén belül látja el.
 
-(5) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter – a Kormány által meghatározott módon és adatkörben – jogszabályban meghatározott feladatainak ellátása érdekében statisztikai lekérdezéseket végezhet a (4) bekezdésben meghatározott rendszerben tárolt adatokból.
+(5) A közigazgatási minőségpolitikáért és személyzetpolitikáért és a közszolgálati életpálya kidolgozásáért felelős miniszter – a Kormány által meghatározott módon és adatkörben – jogszabályban meghatározott feladatainak ellátása érdekében statisztikai lekérdezéseket végezhet a (4) bekezdésben meghatározott rendszerben tárolt adatokból.
 
 (6) A Kormány által meghatározott államigazgatási szervnél foglalkoztatottak közszolgálati alapnyilvántartására a minisztériumra vonatkozó szabályokat kell alkalmazni.

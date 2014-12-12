@@ -20,6 +20,8 @@ c) a rendőrség, a büntetés-végrehajtás és a hivatásos katasztrófavédel
 
 d) a minisztérium közigazgatási államtitkárának és helyettes államtitkárának kormányzati szolgálati jogviszonyára, valamint
 
-e) a helyi önkormányzat képviselő-testületének polgármesteri hivatala, közterület-felügyelete, a közös önkormányzati hivatala (a továbbiakban: képviselő-testület hivatala) köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára
+e) a helyi önkormányzat képviselő-testületének polgármesteri hivatala, közterület-felügyelete, a közös önkormányzati hivatala (a továbbiakban: képviselő-testület hivatala) köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára,
+
+f) a polgármesterre, alpolgármesterre a VII/A. Fejezet rendelkezései szerint
 
 terjed ki.

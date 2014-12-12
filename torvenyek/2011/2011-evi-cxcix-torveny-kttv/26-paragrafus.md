@@ -20,7 +20,7 @@ b) kidolgozza a közigazgatási személyzetpolitika irányait és elveit és gon
 
 (5) A közszolgálati életpálya kidolgozásáért felelős miniszter felel az egységes alapokon megvalósuló személyügyi nyilvántartás és integrált emberi erőforrás-gazdálkodási rendszer működéséért a minisztériumokban.
 
-(6) A közszolgálati életpálya kidolgozásáért felelős miniszter képviseli a Kormányt a Közszolgálati Érdekegyeztető Fórumban.
+(6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter képviseli a Kormányt a Közszolgálati Érdekegyeztető Fórumban.
 
 (7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki a Kormánytisztviselői Döntőbizottság elnökét és helyettesét, valamint tagjait.
 

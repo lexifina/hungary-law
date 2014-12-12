@@ -24,4 +24,4 @@ b) baleset, elemi csapás, súlyos kár, továbbá az egészséget vagy a körny
 
 (5) A munkaszüneti napra vonatkozó beosztási szabályokat kell megfelelően alkalmazni, ha a munkaszüneti nap vasárnapra esik, továbbá a húsvét- és a pünkösdvasárnap tekintetében.
 
-(6) A foglalkoztatáspolitikáért felelős miniszter által évenként kiadott, az általános munkarendben foglalkoztatott munkavállalók munkaidő-beosztásának a munkaszüneti napok miatti változtatását szabályozó rendelet hatálya kiterjed a kormánytisztviselőkre.
+(6) A foglalkoztatáspolitikáért felelős miniszter által évenként kiadott, az általános munkarendben foglalkoztatott munkavállalók munkaidő-beosztásának a munkaszüneti napok miatti változtatását szabályozó rendeletet a kormánytisztviselőkre is alkalmazni kell.

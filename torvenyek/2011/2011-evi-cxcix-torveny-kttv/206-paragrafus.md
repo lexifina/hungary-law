@@ -24,7 +24,9 @@ g) vezetői kinevezésre (129. §) vonatkozó rendelkezéseket,
 
 h) a teljesítményértékelésre, minősítésre (130. §) vonatkozó rendelkezéseket,
 
-i) az illetményre vonatkozó szabályok közül a 131. § (2) és (3) bekezdését és a (7) bekezdését, a 132–142. §-t
+i) az illetményre vonatkozó szabályok közül a 131. § (2) és (3) bekezdését és a (7) bekezdését, a 132–142. §-t,
+
+j) az összeférhetetlenségre vonatkozó 85. § (1) és (1a) bekezdését
 
 nem lehet alkalmazni.
 

@@ -1,1 +1,1 @@
-225. § A hivatalvesztést a fegyelmi tanács javaslatára a miniszter vagy mondja ki.
+225. § A hivatalvesztést a fegyelmi tanács javaslatára a miniszter mondja ki.

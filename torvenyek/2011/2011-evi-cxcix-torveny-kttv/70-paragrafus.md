@@ -18,7 +18,7 @@ időtartama alatt.
 
 (2) Az (1) bekezdés szerinti védelem alkalmazása szempontjából a felmentés közlésének időpontja az irányadó.
 
-(3) Az (1) bekezdés a) és f) pontjában meghatározott körülményre a kormánytisztviselő csak akkor hivatkozhat, ha erről a munkáltatót a felmentés közlését megelőzően tájékoztatta.
+(3) Az (1) bekezdés a) és f) pontjában meghatározott körülményre a kormánytisztviselő csak akkor hivatkozhat, ha erről a munkáltatót tájékoztatta.
 
 (4) Az (1) bekezdés c) pontja szerinti védelem a fizetés nélküli szabadság igénybevétele nélkül azt a szülőt illeti meg, aki a fizetés nélküli szabadságot utoljára igénybe vette.
 
