@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-152-20-
 | 2013-10-28 | 2009-152-20-82.20 | 50/2013. (VI. 17.) VM rendelet |
 | 2014-03-28 | 2009-152-20-82.21 | 24/2014. (III. 25.) VM rendelet |
 | 2014-09-26 | 2009-152-20-82.22 | 10/2014. (IX. 18.) FM rendelet |
+| 2014-12-13 | 2009-152-20-82.23 | 10/2014. (IX. 18.) FM rendelet |

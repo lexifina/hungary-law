@@ -310,6 +310,4 @@ Meghatározzuk a vizsgált minta törésmutatóját 20 °C hőmérsékleten, és
 
 5. A vizsgálat módja
 
-5.1. Ha a minta kristályokat tartalmaz, oldjuk azokat 1:1 (m/m) arányú hígítással.
-
 [^62]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.
