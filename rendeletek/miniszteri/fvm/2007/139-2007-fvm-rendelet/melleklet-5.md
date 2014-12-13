@@ -1,35 +1,75 @@
+## 1. 2014. III. negyedévre vonatkozó támogatási keret
+
+|  | A | B |
+
+| 1. | Baromfi megnevezése | Támogatási keret (millió Ft) |
+
+| 2. | növendék csirke (vágócsirke) szabadtartásos csirke és gyöngyös | 950 |
+
+| 3. | házi tyúk | 90 |
+
+| 4. | pecsenyeliba növendék liba fiatal liba hízott liba pecsenyekacsa növendék kacsa hízott kacsa | 1048,5 |
+
+| 5. | növendék pulyka | 490 |
+
+| 6. | Összesen: | 2578,5 |
+
+## 2. 2014. IV. negyedévre vonatkozó támogatási keret
+
+|  | A | B |
+
+| 1. | Baromfi megnevezése | Támogatási keret (millió Ft) |
+
+| 2. | növendék csirke (vágócsirke) szabadtartásos csirke és gyöngyös | 1000 |
+
+| 3. | házi tyúk | 95 |
+
+| 4. | pecsenyeliba növendék liba fiatal liba hízott liba pecsenyekacsa növendék kacsa hízott kacsa | 1050 |
+
+| 5. | növendék pulyka | 510 |
+
+| 6. | Összesen: | 2655 |
+
+## 3. 2015. évre vonatkozó támogatási keret
+
 |  | A | B | C |
 
 | 1. | Baromfi megnevezése | Időszak | Támogatási keret (millió Ft) |
 
-| 2. | növendék csirke (vágócsirke) szabadtartásos csirke és gyöngyös | negyedévenként | 950 azzal, hogy a II. negyedévben 1012 |
+| 2. | növendék csirke (vágócsirke) szabadtartásos csirke és gyöngyös | I. negyedév | 1 000 |
 
-| 3. | házi tyúk | I. negyedév | 125,0 |
+| II. negyedév | 1 030 |
 
-|  | II. negyedév | 93,0 |
+| III. negyedév | 1 050 |
 
-|  | III. negyedév | 125,0 |
+| IV. negyedév | 1 000 |
 
-|  | IV. negyedév | 125,0 |
+| 3. | házi tyúk | I. negyedév | 110 |
 
-| 4. | pecsenyeliba |  |  |
+| II. negyedév | 100 |
 
-|  | növendék liba |  |  |
+| III. negyedév | 95 |
 
-|  | fiatal liba | I. negyedév | 260,8 |
+| IV. negyedév | 95 |
 
-|  | hízott liba | II. negyedév | 1361,3 |
+| 4. | pecsenyeliba, növendék liba fiatal liba, hízott liba pecsenyekacsa, növendék kacsa, hízott kacsa | I. negyedév | 850 |
 
-|  | pecsenyekacsa | III. negyedév | 480,0 |
+| II. negyedév | 1 350 |
 
-|  | növendék kacsa | IV. negyedév | 503,9 |
+| III. negyedév | 1 300 |
 
-|  | hízott kacsa |  |  |
+| IV. negyedév | 1 050 |
 
-| 5. | növendék pulyka | negyedévenként | 523,5 azzal, hogy a II. negyedévben 493,5 |
+| 5. | növendék pulyka | I. negyedév | 480 |
 
-| 6. | Összesen: |  | 9000,0 |
+| II. negyedév | 460 |
 
-5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^78]
+| III. negyedév | 520 |
 
-[^78]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
+| IV. negyedév | 510 |
+
+| 6. | Összesen: |  | 11 000 |
+
+5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^81]
+
+[^81]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.

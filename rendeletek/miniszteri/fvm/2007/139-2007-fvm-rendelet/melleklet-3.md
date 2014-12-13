@@ -2,7 +2,7 @@
 
 ## 1. Az ügyfél azonosító-adatai.
 
-## 1.1.[^68] Ügyfél-azonosító.
+## 1.1.[^71] Ügyfél-azonosító.
 
 ## 2. Támogatás jogcíme.
 
@@ -12,13 +12,13 @@
 
 ## 3. Az igénylő nyilatkozata arról, hogy
 
-## 3.1.[^69] csőd-, felszámolási vagy végelszámolási eljárás alatt nem álló jogi személy, jogi személyiséggel nem rendelkező szervezet vagy végrehajtási eljárás alatt nem álló egyéni vállalkozó;
+## 3.1.[^72] csőd-, felszámolási vagy végelszámolási eljárás alatt nem álló jogi személy, jogi személyiséggel nem rendelkező szervezet vagy végrehajtási eljárás alatt nem álló egyéni vállalkozó;
 
 ## 3.2. nincs adó-, vám-, egészség-, nyugdíj-, társadalombiztosítási járuléktartozása;
 
 ## 3.3. az érintett termékpályán működő, olyan államilag elismert termelői csoport, BÉSZ, tenyésztő szervezet, terméktanács vagy szakmai szervezet tagja, amely nyitott tagsággal működik;
 
-## 3.4.[^70]
+## 3.4.[^73]
 
 ## 3.5. megfelel az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában meghatározott rendezett munkaügyi kapcsolatok feltételeinek;
 
@@ -46,30 +46,30 @@
 
 ## 7.3. Takarmány nem kívánatos anyagtartalmának ellenőrzése esetén a 3. § (4) bekezdésében előírt dokumentumok.
 
-## 7.4.[^71] Mechanikai sérülés megelőzése esetén a 4. § (4) és (5) bekezdésében előírt dokumentumok.
+## 7.4.[^74] Mechanikai sérülés megelőzése esetén a 4. § (4) és (5) bekezdésében előírt dokumentumok.
 
-## 7.5.[^72] Kíméletes állatmozgatás és szállítás biztosítása esetén az 5. § (4) és (5) bekezdésében előírt dokumentumok.
+## 7.5.[^75] Kíméletes állatmozgatás és szállítás biztosítása esetén az 5. § (4) és (5) bekezdésében előírt dokumentumok.
 
 ## 7.6. Állati fehérje mentes takarmány használata esetén a 6. § (4) bekezdésében előírt dokumentumok.
 
 ## 7.7. Ivóvíz minőségű víz biztosítása esetén a 7. § (4) bekezdésében előírt dokumentumok.
 
-## 7.8.[^73] A naposkori letelepítés darabszámát és az átminősítéskori állatlétszámot, valamint annak időpontját tartalmazó kezelő állatorvosi igazolás az 1. § (5) bekezdés szerint.
+## 7.8.[^76] A naposkori letelepítés darabszámát és az átminősítéskori állatlétszámot, valamint annak időpontját tartalmazó kezelő állatorvosi igazolás az 1. § (5) bekezdés szerint.
 
-## 7.9.[^74]
+## 7.9.[^77]
 
 ## 7.10. Szakmai Ellenőrzési Lap a 2. § (5) bekezdés szerint.
 
-## 7.11.[^75]
+## 7.11.[^78]
 
-3. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^76]
+3. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^79]
 
-[^68]: A 2. számú melléklet 1. pont 1.1. alpontja a 33/2014. (IV. 4.) VM rendelet 8. §-ával megállapított szöveg.
-[^69]: A 2. számú melléklet 3.1. pontja a 22/2014. (III. 14.) VM rendelet 50. §-a szerint módosított szöveg.
-[^70]: A 2. számú melléklet 3.4. pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
-[^71]: A 2. számú melléklet 7. pont 7.4. alpontja a 33/2014. (IV. 4.) VM rendelet 8. §-ával megállapított szöveg.
-[^72]: A 2. számú melléklet 7. pont 7.5. alpontja a 33/2014. (IV. 4.) VM rendelet 8. §-ával megállapított szöveg.
-[^73]: A 2. számú melléklet 7.8. pontja a 80/2012. (VII. 30.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^74]: A 2. számú melléklet 7.9. pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
-[^75]: A 2. számú melléklet 7.11. pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
-[^76]: A 3. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^71]: A 2. számú melléklet 1. pont 1.1. alpontja a 33/2014. (IV. 4.) VM rendelet 8. §-ával megállapított szöveg.
+[^72]: A 2. számú melléklet 3.1. pontja a 22/2014. (III. 14.) VM rendelet 50. §-a szerint módosított szöveg.
+[^73]: A 2. számú melléklet 3.4. pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^74]: A 2. számú melléklet 7. pont 7.4. alpontja a 33/2014. (IV. 4.) VM rendelet 8. §-ával megállapított szöveg.
+[^75]: A 2. számú melléklet 7. pont 7.5. alpontja a 33/2014. (IV. 4.) VM rendelet 8. §-ával megállapított szöveg.
+[^76]: A 2. számú melléklet 7.8. pontja a 80/2012. (VII. 30.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^77]: A 2. számú melléklet 7.9. pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^78]: A 2. számú melléklet 7.11. pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^79]: A 3. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
