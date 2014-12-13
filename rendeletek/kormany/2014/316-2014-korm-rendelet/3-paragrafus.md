@@ -1,0 +1,3 @@
+## 2. § Az 1938–1945 közötti időszakban faji vagy nemzetiségi hovatartozás, illetőleg a nácizmus elleni magatartásuk miatt deportált, munkaszolgálatot teljesített vagy egyéb személyes szabadság korlátozása alatt állt személyek társadalombiztosítási és munkajogi helyzetének rendezéséről szóló 74/1991. (VI. 10.) Korm. rendelet 1. §-ában az „és a 2. § (1)–(3) bekezdésének” szövegrész helyébe a „ , valamint a 2. §-ának és 2/A. §-ának” szöveg lép.
+
+## 3. A volt nyugati hadifoglyok hitelutalványaival kapcsolatos pénzkövetelésekről és nyugdíjuk kiegészítéséről szóló 51/1992. (III. 18.) Korm. rendelet módosítása
