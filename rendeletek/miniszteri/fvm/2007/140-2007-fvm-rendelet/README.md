@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-140-20-
 | 2013-09-07 | 2007-140-20-82.10 | 111/2012. (X. 29.) VM rendelet |
 | 2014-03-15 | 2007-140-20-82.11 | 22/2014. (III. 14.) VM rendelet |
 | 2014-04-05 | 2007-140-20-82.12 | 33/2014. (IV. 4.) VM rendelet |
+| 2014-12-13 | 2007-140-20-82.13 | 33/2014. (XII. 10.) FM rendelet |

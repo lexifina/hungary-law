@@ -1,8 +1,8 @@
 10. § (1) E rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2)[^39]
+(2)[^40]
 
-(3)[^40] Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló, 2006. december 15-i 1974/2006/EK bizottsági rendelet 27. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
+(3)[^41] Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló, 2006. december 15-i 1974/2006/EK bizottsági rendelet 27. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^39]: A 10. § (2) bekezdését a 19/2010. (III. 11.) FVM rendelet 13. §-a hatályon kívül helyezte.
-[^40]: A 10. § (3) bekezdése a 33/2014. (IV. 4.) VM rendelet 20. §-ával megállapított szöveg.
+[^40]: A 10. § (2) bekezdését a 19/2010. (III. 11.) FVM rendelet 13. §-a hatályon kívül helyezte.
+[^41]: A 10. § (3) bekezdése a 33/2014. (IV. 4.) VM rendelet 20. §-ával megállapított szöveg.

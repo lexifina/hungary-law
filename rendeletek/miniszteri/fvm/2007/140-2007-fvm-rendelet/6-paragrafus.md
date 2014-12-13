@@ -1,6 +1,6 @@
 ## Verekedések, kimarások megelőzése
 
-6. §[^32] (1) E jogcím alapján az az igénylő jogosult támogatásra, aki vagy amely teljesíti a verekedések, kimarások megelőzéséhez szükséges követelményeket, ezen belül gondoskodik a szakszerű apaállat-használatról.
+6. §[^33] (1) E jogcím alapján az az igénylő jogosult támogatásra, aki vagy amely teljesíti a verekedések, kimarások megelőzéséhez szükséges követelményeket, ezen belül gondoskodik a szakszerű apaállat-használatról.
 
 (2) A támogatás mértéke állategységenként egyezerhatszáznyolvanegy forint.
 
@@ -22,4 +22,4 @@ d) tenyészkoca süldők tartása esetén a telepi állatjóléti felelős igazo
 
 (7) Az igazolásokon fel kell tüntetni azok felhasználhatóságának idejét. Az igazolás kiállításának időpontja legfeljebb fél évvel lehet korábbi a támogatási kérelem benyújtásának időpontjánál.
 
-[^32]: A 6. § a 33/2014. (IV. 4.) VM rendelet 16. §-ával megállapított szöveg.
+[^33]: A 6. § a 33/2014. (IV. 4.) VM rendelet 16. §-ával megállapított szöveg.
