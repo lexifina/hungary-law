@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország és az Oroszországi Föderáció között a másik fél területén tervezett egészségügyi ellátás igénybevételének elősegítéséről szóló nemzetközi megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
