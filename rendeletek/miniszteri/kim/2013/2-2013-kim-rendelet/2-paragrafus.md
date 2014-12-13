@@ -8,4 +8,6 @@
 
 3. kezelő szerv: a 15. és a 17. alcím tekintetében az államháztartásról szóló 2011. évi CXVC. törvény (a továbbiakban: Áht.) 18. § (4) bekezdése alapján e rendeletben kijelölt szerv,
 
-4. lebonyolító szerv: a 27. és a 33. alcím tekintetében az Áht. 49. §-a alapján megbízott és a minisztérium részére a kincstárnál – a lebonyolítási céllal rendelkezésre bocsátott fejezeti kezelésű előirányzathoz kapcsolódóan – vezetett lebonyolítási számla felett rendelkező szerv.
+4.[^3]
+
+[^3]: A 2. § 4. pontját a 10/2014. (XII. 12.) IM rendelet 3. § 1. pontja hatályon kívül helyezte.

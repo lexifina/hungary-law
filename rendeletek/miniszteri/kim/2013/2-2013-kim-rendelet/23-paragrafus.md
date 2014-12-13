@@ -1,5 +1,5 @@
-## 12. Nemzeti és kiemelt ünnepek, egyéb rendezvények, események támogatása (20/2/7)
+## 22/A. §
 
-23. § (1) Az előirányzat biztosítja a nemzeti és kiemelt ünnepek, és egyéb – országos jelentőségű – események, évfordulók, világnapok méltó, az ország márkaképe építéséhez hozzájáruló szervezésének, megrendezésének, a rendezvényekhez kapcsolódóan a lakosság széles körű és részletes tájékoztatásának, az ünnepi tájékoztató kiadványok összeállításának, kiadásának, a rendezvényekhez kapcsolódó sajtóesemények lebonyolításának és egyes nemzeti rendezvények lebonyolítását biztonsági szempontból felügyelő és irányító operatív törzs működési költségeinek forrását.
+## 12.[^28]
 
-(2) Az előirányzat felhasználása a nemzeti és a kiemelt ünnepek tekintetében a 21. § (1) bekezdésében meghatározott gazdasági társasággal, egyéb rendezvények, események tekintetében a rendezvény szervezőjével kötött szerződés alapján fejezeti kifizetéssel és előirányzat átcsoportosítással valósul meg.
+[^28]: A 12. alcímet (23. §) a 10/2014. (XII. 12.) IM rendelet 3. § 6. pontja hatályon kívül helyezte.

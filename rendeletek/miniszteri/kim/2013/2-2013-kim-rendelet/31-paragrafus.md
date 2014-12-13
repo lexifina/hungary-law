@@ -1,7 +1,5 @@
 ## 30. §
 
-## 19. Központi informatikai feladatok (20/2/26)
+## 19.[^44]
 
-31. § (1) Az előirányzat biztosítja az informatikai rendszerek bevezetése, fejlesztése és üzemeltetése során felmerülő költségekhez, különös tekintettel a vezetői információs-rendszer gazdálkodással összefüggő fejlesztéseihez, a minisztérium középtávú ágazati stratégiájával összhangban végrehajtandó egyéb informatikai fejlesztésekhez, az IP alapú telefonrendszer működésével kapcsolatos kiadásokhoz, a kormányzati honlapok fejlesztéséhez, működtetéséhez és karbantartásához, az ehhez kapcsolódó eszközbeszerzésekhez, valamint egyéb eseti fejlesztésekhez szükséges költségek forrását.
-
-(2) Az előirányzat maradvány a szolgáltató részére történő kifizetéssel valósul meg.
+[^44]: A 19. alcímet (31. §) a 10/2014. (XII. 12.) IM rendelet 3. § 6. pontja hatályon kívül helyezte.

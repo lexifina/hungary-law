@@ -1,7 +1,3 @@
-## 11/A. [^16] Magyar Kormánytisztviselői Kar működésének támogatása (20/2/2)
+## 11/A.[^27]
 
-22/A. § (1) Az előirányzat a Magyar Kormánytisztviselői Kar működésének támogatására szolgál.
-
-(2) Az előirányzat vissza nem térítendő támogatás formájában, egyedi döntéssel, a kedvezményezettel kötött támogatási szerződés alapján kerül felhasználásra.
-
-[^16]: A 11/A. alcímet (22/A. §) a 9/2014. (II. 12.) KIM rendelet 5. §-a iktatta be.
+[^27]: A 11/A. alcímet (22/A. §) a 9/2014. (II. 12.) KIM rendelet 5. §-a iktatta be, hatályon kívül helyezte a 10/2014. (XII. 12.) IM rendelet 3. § 6. pontja.

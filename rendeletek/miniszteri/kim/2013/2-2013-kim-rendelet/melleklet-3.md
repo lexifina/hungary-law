@@ -2,7 +2,7 @@
 
 ## a közpénzekből nyújtott támogatások átláthatóságáról szóló törvény szerinti érintettségéről
 
-| A pályázó |  |  |  |
+| A pályázó, kérelmező |  |  |  |
 
 | neve vagy |  |  |  |
 
@@ -26,7 +26,7 @@
 
 | nyilvántartásba vételi okirat száma: |  | nyilvántartásba vevő szerv megnevezése: |  |
 
-## Kijelentem, hogy a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény (a továbbiakban: Knytv.) 8. § (1) bekezdés szerinti érintettség személyemmel, illetve a pályázóként megjelölt szervezettel az alábbiakra tekintettel fennáll.
+## Kijelentem, hogy a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény (a továbbiakban: Knytv.) 8. § (1) bekezdés szerinti érintettség személyemmel, illetve a pályázóként, kérelmezőként megjelölt szervezettel az alábbiakra tekintettel fennáll.
 
 ## 1. A pályázati eljárásban döntés-előkészítőként közreműködő vagy döntéshozó szervnél munkavégzésre irányuló jogviszonyban állok
 
@@ -52,7 +52,7 @@
 
 | □ mostoha- vagy neveltgyermek | □ örökbefogadó-, mostoha- vagy nevelőszülő | □ testvér |
 
-## 4. A pályázóként megjelölt szervezet olyan gazdasági társaság, amely az 1–3. pontban megjelölt személy tulajdonában áll.
+## 4. A pályázóként, kérelmezőként megjelölt szervezet olyan gazdasági társaság, amely az 1–3. pontban megjelölt személy tulajdonában áll.
 
 ## A szervezet megnevezése, amellyel munkavégzésre irányuló jogviszony fennáll: ..........................
 
@@ -72,7 +72,7 @@
 
 | □ mostoha- vagy nevelt gyermek | □ örökbefogadó-, mostoha- vagy nevelőszülő | □ testvér |
 
-## 5. A pályázóként megjelölt gazdasági társaság, alapítvány, társadalmi szervezet, egyházi jogi személy vagy szakszervezet tekintetében az érintettség fennáll, mert
+## 5. A pályázóként, kérelmezőként megjelölt gazdasági társaság, alapítvány, társadalmi szervezet, egyházi jogi személy vagy szakszervezet tekintetében az érintettség fennáll, mert
 
 ## □ vezető tisztségviselője,
 

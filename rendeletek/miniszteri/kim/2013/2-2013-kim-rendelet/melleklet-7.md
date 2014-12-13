@@ -4,7 +4,7 @@
 
 ## Alulírott ................................................................................................ (elnök, kuratóriumi elnök, kuratóriumi titkár, képviselő) a .............................................................. (szervezet megnevezése) képviseletében büntetőjogi felelősségem tudatában kijelentem, hogy a támogatási kérelemben foglalt adatok, információk és dokumentumok teljes körűek, hitelesek és valódiak.
 
-## Kijelentem továbbá, hogy a Közigazgatási és Igazságügyi Minisztériumhoz benyújtott támogatási kérelemmel azonos tárgyban a következő szervezetekhez nyújtottam be támogatási igényt:
+## Kijelentem továbbá, hogy az Igazságügyi Minisztériumhoz benyújtott támogatási kérelemmel azonos tárgyban a következő szervezetekhez nyújtottam be támogatási igényt:
 
 | TÁMOGATÁSI IGÉNYT ELBÍRÁLÓ SZERVEZET NEVE | A TÁMOGATÁSI IGÉNY BENYÚJTÁSÁNAK IDŐPONTJA | A TÁMOGATÁSI IGÉNYBEN MEGJELÖLT ÖSSZEG |
 

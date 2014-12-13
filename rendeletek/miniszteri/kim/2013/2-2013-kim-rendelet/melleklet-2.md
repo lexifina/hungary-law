@@ -2,7 +2,7 @@
 
 ## a közpénzekből nyújtott támogatások átláthatóságáról szóló törvény szerinti összeférhetetlenség vagy érintettség fennállásáról vagy hiányáról
 
-| A pályázó |  |  |  |
+| A pályázó, kérelmező |  |  |  |
 
 | neve vagy |  |  |  |
 
@@ -26,7 +26,7 @@
 
 | nyilvántartásba vételi okirat száma: |  | nyilvántartásba vevő szerv megnevezése: |  |
 
-## Kijelentem, hogy személyemmel, illetve a pályázóként megjelölt szervezettel szemben a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény
+## Kijelentem, hogy személyemmel, illetve a pályázóként, kérelmezőként megjelölt szervezettel szemben a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény
 
 ## a) 6. § (1) bekezdése szerinti összeférhetetlenség
 
@@ -58,6 +58,6 @@
 
 ## Aláírás/Cégszerű aláírás
 
-2. melléklet a 2/2013. (III. 6.) KIM rendelethez[^39]
+2. melléklet a 2/2013. (III. 6.) KIM rendelethez[^65]
 
-[^39]: A 2. melléklet a 23/2013. (IX. 30.) KIM rendelet 6. § d) pontja szerint módosított szöveg.
+[^65]: A 2. melléklet a 23/2013. (IX. 30.) KIM rendelet 6. § d) pontja, a 10/2014. (XII. 12.) IM rendelet 2. § 7. pontja szerint módosított szöveg.

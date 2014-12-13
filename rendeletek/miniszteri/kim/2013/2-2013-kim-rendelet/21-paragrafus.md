@@ -1,9 +1,12 @@
+## 20. §
+
 ## 10. Egyes gazdasági társaságok kijelölése
 
-21. § (1) A nemzeti és kiemelt ünnepek szervezését, illetve az ezekhez kapcsolódó műszaki, művészeti, logisztikai és biztosítási feladatok előkészítését, megvalósítását a Hungarofest Nemzeti Rendezvényszervező Nonprofit Kft. látja el.
+21. § (1)[^21]
 
 (2) A miniszter felelősségi körébe tartozó feladatok ellátásához szükséges nyomdai tevékenységet, valamint a Nemzeti Könyvtár kiadványsorozat kiadásával és értékesítésével összefüggő feladatokat a Magyar Közlöny Lap- és Könyvkiadó Kft., a fordítási tevékenységet az Országos Fordító- és Fordításhitelesítő Iroda Zrt. végzi.
 
-(3) A miniszter felelősségi körébe tartozó országkép-stratégia kialakításában és ezzel összefüggésben az ország márkaképét alakító intézmények tevékenységének koordinációjában a Forum Hungaricum Közhasznú Nonprofit Kft. szolgáltatásait veszi igénybe.
+(3)–(4)[^22]
 
-(4) A miniszter felelősségi körébe tartozó közigazgatás-fejlesztés és -korszerűsítés, valamint az e-közigazgatás kormányzati feladatainak ellátásához a Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft. szolgáltatásait veszi igénybe.
+[^21]: A 21. § (1) bekezdését a 10/2014. (XII. 12.) IM rendelet 3. § 7. pontja hatályon kívül helyezte.
+[^22]: A 21. § (3)–(4) bekezdését a 10/2014. (XII. 12.) IM rendelet 3. § 7. pontja hatályon kívül helyezte.
