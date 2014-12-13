@@ -2,6 +2,6 @@
 
 (2) Az (1) bekezdésben felsorolt rendeletek alapján emelt összegű nyugellátásban, baleseti nyugellátásban, nyugdíjszerű rendszeres szociális ellátásban részesülő személyek ellátásában bennfoglalt, de külön nyilvántartott rehabilitációs összegnek a nyugellátás emelésekor (kiegészítésekor) való figyelembevételéről, illetve figyelmen kívül hagyásáról külön jogszabály rendelkezik.
 
-(3)[^25] E rendelet alkalmazásában az egyes, tartós időtartamú szabadságelvonást elszenvedettek részére járó juttatásról szóló 267/2000. (XII. 26.) Korm. rendelet 1. § (1a) bekezdésében meghatározott személy minősül rokkantnak.
+(3)[^27] E rendelet alkalmazásában az egyes, tartós időtartamú szabadságelvonást elszenvedettek részére járó juttatásról szóló 267/2000. (XII. 26.) Korm. rendelet 1. § (1a) bekezdésében meghatározott személy minősül rokkantnak.
 
-[^25]: A 14. § (3) bekezdését a 305/2013. (VII. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^27]: A 14. § (3) bekezdését a 305/2013. (VII. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
