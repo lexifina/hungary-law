@@ -1,0 +1,1 @@
+## 2. § Az Országos Hulladékgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaság által ellátott feladatokat 2015. január 1-jétől az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség látja el.
