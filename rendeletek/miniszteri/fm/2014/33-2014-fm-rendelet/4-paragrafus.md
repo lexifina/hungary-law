@@ -1,5 +1,7 @@
-## 3. § Hatályát veszti a 139/2007. (XI. 28.) FVM rendelet 2. § (2) bekezdés e) pontja.
+## 3. §[^6]
 
 ## 2. A sertés ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 140/2007. (XI. 28.)
 
 ## FVM rendelet módosítása
+
+[^6]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
