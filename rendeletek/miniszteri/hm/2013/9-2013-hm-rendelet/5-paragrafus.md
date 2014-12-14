@@ -20,8 +20,9 @@ b) a százados, az őrnagy vagy az alezredes rendfokozattal rendszeresített szo
 
 (5) Ha a HVKF a HM KÁT-al, vagy ha a HM KÁT a HVKF-el nem ért egyet, indokolt álláspontjának megküldésével – az irat beérkezését követő 15 napon belül – egyeztetést kezdeményez. Az egyeztetés eredménytelensége esetén a (2) és a (3) bekezdés szerinti munkáltatói döntés meghozataláról a miniszter határoz, a (4) bekezdés szerinti javaslatot pedig az egyet nem értés megjelölésével kell felterjeszteni.
 
-(6) A Tábori Lelkészi Szolgálat állománya vonatkozásában a HM KÁT kezdeményezési és előzetes egyetértési jogköreit a HM parlamenti államtitkára gyakorolja.
+(6)[^6] A Tábori Lelkészi Szolgálat állománya vonatkozásában a HM KÁT kezdeményezési és előzetes egyetértési jogköreit a HM társadalmi kapcsolatokért felelős helyettes államtitkára gyakorolja.
 
 [^3]: Az 5. § (2) bekezdése a 24/2013. (XII. 20.) HM rendelet 7. §-ával megállapított szöveg.
 [^4]: Az 5. § (2) bekezdés a) pontja a 6/2014. (IV. 14.) HM rendelet 9. § a) pontja szerint módosított szöveg.
 [^5]: Az 5. § (3) bekezdése a 6/2014. (IV. 14.) HM rendelet 9. § b) pontja szerint módosított szöveg.
+[^6]: Az 5. § (6) bekezdése a 16/2014. (XII. 13.) HM rendelet 7. § a) pontja szerint módosított szöveg.

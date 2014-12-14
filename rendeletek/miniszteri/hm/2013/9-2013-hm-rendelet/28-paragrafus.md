@@ -8,6 +8,6 @@ munkáltatói döntésben mentesítheti annak figyelembevételével, hogy a szol
 
 (2) Az (1) bekezdés b) pontja esetén a mentesítéshez a szakmai felelős előzetes írásbeli engedélye szükséges, kivéve, ha az állományilletékes parancsnoki jogkört a HVKF gyakorolja.
 
-(3)[^10] Az (1) bekezdés szerinti mentesítés legfeljebb a szolgálati beosztás betöltésének időtartamára szólhat.
+(3)[^11] Az (1) bekezdés szerinti mentesítés legfeljebb a szolgálati beosztás betöltésének időtartamára szólhat.
 
-[^10]: A 28. § (3) bekezdése a 24/2013. (XII. 20.) HM rendelet 17. § c) és d) pontja szerint módosított szöveg.
+[^11]: A 28. § (3) bekezdése a 24/2013. (XII. 20.) HM rendelet 17. § c) és d) pontja szerint módosított szöveg.
