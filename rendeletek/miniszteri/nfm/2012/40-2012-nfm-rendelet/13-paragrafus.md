@@ -1,4 +1,4 @@
-13. §[^8] (1) A KKK a miniszterrel kötött szerződésben foglalt feltételek szerint európai uniós források bevonásával az irányító hatóság feladataihoz műszaki szakmai támogatást nyújt, illetve szakmai koordinációs feladatokat lát el a nemzeti és az európai uniós támogatási források felhasználásának műszaki ellenőrzésében, továbbá az állami vagyon védelme érdekében a közlekedési infrastruktúra fejlesztése során a műszaki megvalósítás szakmai koordinációját biztosítja.
+13. §[^10] (1) A KKK a miniszterrel kötött szerződésben foglalt feltételek szerint európai uniós források bevonásával az irányító hatóság feladataihoz műszaki szakmai támogatást nyújt, illetve szakmai koordinációs feladatokat lát el a nemzeti és az európai uniós támogatási források felhasználásának műszaki ellenőrzésében, továbbá az állami vagyon védelme érdekében a közlekedési infrastruktúra fejlesztése során a műszaki megvalósítás szakmai koordinációját biztosítja.
 
 (2) A KKK az európai uniós támogatási források felhasználásának műszaki ellenőrzését ellátó mérnök (a továbbiakban: felügyelő mérnök) munkájának koordinálása során:
 
@@ -16,4 +16,4 @@ f) véleményezi a felügyelő mérnök által javasolt sürgős intézkedéseke
 
 g) javaslatot tesz az irányító hatóság részére a havi ellenőrzési program összeállítására.
 
-[^8]: A 13. § a 18/2014. (IV. 14.) NFM rendelet 2. §-ával megállapított szöveg.
+[^10]: A 13. § a 18/2014. (IV. 14.) NFM rendelet 2. §-ával megállapított szöveg.

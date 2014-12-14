@@ -32,6 +32,9 @@ d) a szerződést biztosító mellékkötelezettségekkel és a kincstári költ
 
 e) a használati díj és pótdíj beszedésének és a használati jogosultság ellenőrzésének költségeire;
 
-f) a NIF Zrt. működési kiadásainak fedezetére.
+f) a NIF Zrt. működési kiadásainak fedezetére;
+
+g)[^2] a közlekedési infrastruktúrával összefüggő állami feladatokhoz kapcsolódóan az elektronikus építési napló bevezetéséhez, üzemeltetéséhez és fenntartásához szükséges feladatok fedezetére.
 
 [^1]: A 6. § a 65/2013. (X. 31.) NFM rendelet 2. §-ával megállapított szöveg.
+[^2]: A 6. § g) pontját az 50/2014. (XII. 11.) NFM rendelet 2. §-a iktatta be.
