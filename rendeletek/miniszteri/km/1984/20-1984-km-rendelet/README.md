@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1984-20-20-2
 | 2012-01-01 | 1984-20-20-20.19 | 2/1999. ( I.10.) KHVM rendelet |
 | 2013-01-01 | 1984-20-20-20.20 | 76/2012. (XII. 22.) NFM rendelet |
 | 2014-03-15 | 1984-20-20-20.21 | 55/2011. (X. 24.) NFM rendelet |
+| 2014-12-14 | 1984-20-20-20.22 | 50/2014. (XII. 11.) NFM rendelet |

@@ -780,7 +780,15 @@ A tilalom bevezetése esetén az átmenő forgalom részére megfelelő tehermen
 
 35.7. Ahol a járművek megállását vagy várakozását az útpadkán is meg kell tiltani, ezt a tilalmat a jelzőtáblával együtt elhelyezett kiegészítő táblával (KRESZ 63/a. ábra) kell jelezni, kivéve, ha a megállási tilalmat autóbusz-, trolibusz-megállóhely vagy taxiállomás miatt nem rendelik el, és a KRESZ 158. ábra szerinti útburkolati jelet oda felfestették.
 
-35.8.[^137] A várakozási tilalom hatálya alól felmentett járművek meghatározott körét feltüntető kiegészítő tábla a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény hatálya alá tartozó szervek első számú vezetői által használt székházainál, az igazságügyi szervek (bíróságok, ügyészségek), a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal, a rendvédelmi szervek (rendőrség, hivatásos katasztrófavédelmi szervek, a polgári nemzetbiztonsági szolgálatok, büntetés-végrehajtási szervezet) országos, továbbá területi vagy helyi szervei, a diplomáciai testületek, a humán egészségügyi feladatokat ellátó szervezetek (kórházak, orvosi rendelőintézetek, mentőállomások, elsősegélynyújtó helyek), valamint a köztestületek tulajdonában álló, azok székhelyéül szolgáló épületeinél azok homlokzatának hosszában helyezhető el e szervek járműveinek a várakozási tilalom hatálya alóli mentesítése érdekében. A kiegészítő táblán egyértelművé kell tenni, ha a mentesítés kiterjed az ott dolgozók vagy az oda ügyintézésre érkezők személygépkocsijaira.
+35.8.[^137] A várakozási tilalom hatálya alól felmentett járművek meghatározott körét feltüntető kiegészítő tábla
+
+a) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény hatálya alá tartozó szervek székhelye homlokzatának hosszában
+
+b) a bíróságok, az Országos Bírósági Hivatal az igazságügyi szakértői intézmények, az ügyészségek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a Nemzeti Adó- és Vámhivatal, a rendvédelmi szervek (rendőrség, hivatásos katasztrófavédelmi szervek, a polgári nemzetbiztonsági szolgálatok, büntetés-végrehajtási szervezet) országos, továbbá területi vagy helyi szervei, a diplomáciai testületek, a humán egészségügyi feladatokat ellátó szervezetek (kórházak, orvosi rendelőintézetek, mentőállomások, elsősegélynyújtó helyek), valamint a köztestületek tulajdonában álló, azok székhelyéül szolgáló épületeinél azok homlokzatának hosszában
+
+c) a nemzeti vagyonról szóló törvény alapján nemzetgazdasági szempontból kiemelt jelentőségű, nemzeti vagyonba tartozó vasúti pálya működtetését ellátó gazdasági társaság és a vasúti személyszállítási közszolgáltatást ellátó gazdasági társaság működtetésébe tartozó vagy használatában álló, Budapest közigazgatási határain belül található vasúti üzemi létesítményeinél, az épület homlokzatának hosszában, vagy az épületet magában foglaló ingatlan hosszában az azt határoló közúton
+
+helyezhető el, e szervek járműveinek a várakozási tilalom hatálya alóli mentesítése érdekében. A kiegészítő táblán egyértelművé kell tenni, ha a mentesítés kiterjed az ott dolgozók, vagy az oda ügyintézésre érkezők személygépkocsijaira.
 
 35.9. A járművek elszállíthatóságára utaló kiegészítő táblát (KRESZ 63/b. ábra) a „Várakozni tilos” jelzőtábla (KRESZ 61. ábra) alá a 35.8. pontban meghatározott helyeken és csupán abban az esetben lehet elhelyezni, ha az intézmény zavartalan ügyfélforgalma érdekében a gépjárműbe történő be- és kiszálláshoz szükséges megállási lehetőséget csak a járművek elszállításával lehet biztosítani.
 
@@ -1253,7 +1261,7 @@ A fénysorompó villogó piros fényre váltásától a – vasúti pályára en
 [^134]: 1988. évi I. törvény a közúti közlekedésről, 33. § (1) bekezdés, továbbá az 1990. évi LXV. törvény a helyi önkormányzatokról, 63/A. § g) bekezdés.
 [^135]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 34.6–34.8 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
 [^136]: A melléklet 35. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
-[^137]: A melléklet 35.8. pontja a 76/2012. (XII. 22.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^137]: A melléklet 35.8. pontja az 50/2014. (XII. 11.) NFM rendelet 1. §-ával megállapított szöveg.
 [^138]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 36.2 pontjának második mondatát a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
 [^139]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 36.3 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
 [^140]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 36.5 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
