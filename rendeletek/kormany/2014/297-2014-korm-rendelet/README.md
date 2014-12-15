@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-297-20-
 | --- | --- | --- |
 | 2014-12-03 | 2014-297-20-22.1 | 297/2014. (XII. 3.) Korm. rendelet |
 | 2014-12-04 | 2014-297-20-22.2 | 2010: CXXX. törvény |
+| 2014-12-15 | 2014-297-20-22.3 | 2010: CXXX. törvény |
