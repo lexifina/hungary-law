@@ -1,7 +1,9 @@
-## 9. §[^10] A 3. §-ban meghatározott szervek döntéseinek a környezetvédelmi azonosító adatokat tartalmazniuk kell.
+## 9. §[^16] A 3. §-ban meghatározott szervek döntéseinek a környezetvédelmi azonosító adatokat tartalmazniuk kell.
 
-10. § (1) A környezetvédelmi alapnyilvántartásban rögzített adatok megváltozását – amennyiben jogszabály másként nem rendelkezik – a változást követő 15 napon belül az ügyfélnek a 8. § (1) bekezdésében meghatározott módon be kell jelentenie.
+10. § (1)[^17] A környezetvédelmi alapnyilvántartásban rögzített adatok megváltozását – amennyiben jogszabály másként nem rendelkezik – a változást követő 15 napon belül az ügyfélnek be kell jelentenie.
 
-(2) Az adatok megváltozásáról szóló bejelentést a 3. §-ban meghatározott szervek felé kell teljesíteni. A változásjelentés feldolgozása után, a nyilvántartásban szereplő adatokról az ügyfél részére új értesítést kell kiküldeni.
+(2)[^18] Az adatok megváltozásáról szóló bejelentést a 3. §-ban meghatározott szervek felé kell teljesíteni. A változásjelentés feldolgozása után, a nyilvántartásban szereplő adatokról az ügyfél részére új döntést kell kiküldeni.
 
-[^10]: A 9. § a Magyar Közlöny 2007. évi 62. számában megjelent helyesbítésnek megfelelő szöveg.
+[^16]: A 9. § a Magyar Közlöny 2007. évi 62. számában megjelent helyesbítésnek megfelelő szöveg.
+[^17]: A 10. § (1) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 10. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^18]: A 10. § (2) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.

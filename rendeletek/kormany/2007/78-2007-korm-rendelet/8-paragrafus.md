@@ -1,3 +1,3 @@
-8. § (1) Az egyedi környezetvédelmi azonosító adatok létrehozásáról – amennyiben azt kérelem alapján hozták létre – a 3. §-ban meghatározott szervek az ügyfeleknek értesítést küldenek, az adat létrehozásától számított 15 napon belül.
+## 7. §[^14]
 
-(2) Az értesítés megküldése annak a szervnek a feladata, amelyik az adott azonosítót létrehozta.
+[^14]: A 7. §-t a 310/2014. (XII. 11.) Korm. rendelet 10. § (1) bek. c) pontja hatályon kívül helyezte.

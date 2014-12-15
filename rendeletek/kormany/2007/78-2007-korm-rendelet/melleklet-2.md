@@ -1,401 +1,313 @@
-| KAR Borítólap | KÖRNYEZETVÉDELMI ALAPNYILVÁNTARTÁSHOZ SZÜKSÉGES ADATOK, VALAMINT AZ ADATOKBAN BEKÖVETKEZETT VÁLTOZÁSOK BEJELENTÉSE |
+## A KAR adatszolgáltatás adattartalma
 
-## Adatszolgáltató adatai
+## 1. A környezetvédelmi alapnyilvántartáshoz szükséges adatok bejelentésére és változására szolgáló borítólap (KAR borítólap)
 
-| 1. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+## 1.1. Címzett szervezet
 
-| 2. KSH statisztikai számjel: ⬜⬜⬜⬜⬜⬜⬜⬜- ⬜⬜⬜⬜- ⬜⬜⬜- ⬜⬜ |
+## 1.1.1. Címzett
 
-| 3. Név: |
+## 1.2. Adatszolgáltató adatai
 
-## Adatszolgáltatásra vonatkozó adatok
+## 1.2.1. KÜJ (Környezetvédelmi Ügyfél Jel)
 
-| 4. Az adatszolgáltatás | ⬜ | db KÜJ lapot, | ⬜ ⬜ ⬜ | db JOGE pótlapot, | ⬜ ⬜ ⬜ | db KTJ lapot, |
+## 1.2.2. Központi Statisztikai Hivatal statisztikai számjel
 
-|  | ⬜ ⬜ ⬜ | db HRSZ pótlapot, | ⬜ ⬜ ⬜ | db POLI lapot, és | ⬜ ⬜ ⬜ | db OBJ lapot tartalmaz. |
+## 1.2.3. Név
 
-| 5. Az adatszolgáltatásban feltüntetett adatok a következő dátumtól érvényesek:3 ⬜ ⬜ ⬜ ⬜.év ⬜ ⬜.hó ⬜ ⬜.nap |
+## 1.3. Adatszolgáltatásra vonatkozó adatok
 
-| 6. KAR adatszolgáltatásért felelős személy neve: | 7. Beosztása: |
+## 1.3.1. Adatszolgáltatáshoz csatolt lapok száma
 
-| 8. Telefon: | 9. Fax-szám: | 10. E-mail: |
+## 1.3.2. Az adatszolgáltatásban feltüntetett adatok érvényességének dátuma
 
-## 3 Érvényességi dátum nélkül az adatszolgáltatás feldolgozhatatlan! Kitöltése minden esetben kötelező!
+## 1.3.3. Az adatszolgáltatásért felelős személy neve
 
-## 11. A kitöltés dátuma: ⬜ ⬜ ⬜ ⬜.év ⬜ ⬜.hó ⬜ ⬜.nap
+## 1.3.4. Beosztása
 
-## P.H.
+## 1.3.5. Telefon
 
-## .........................................................
+## 1.3.6. Fax szám
 
-## Cégszerű aláírás
+## 1.3.7. E-mail
 
-## Az elsőfokú hatóság tölti ki!
+## 1.3.8. Kitöltés dátuma (év/hó/nap)
 
-| 12. Beérkezés dátuma: ⬜ ⬜ ⬜ ⬜.év ⬜ ⬜.hó ⬜ ⬜.nap | 13. Iktatószám: |
+## 2. A Környezetvédelmi Ügyfél Jel nyilvántartásához és változások bejelentésére szolgáló adatlap (KÜJ-A lap)
 
-| 14. Nyilvántartásba vette/módosította a nyilvántartást: | ......................................................... Aláírás |
+## 2.1. Ügyfél azonosító
 
-| KÜJ lap | KÖRNYEZETVÉDELMI ALAPNYILVÁNTARTÁSHOZ SZÜKSÉGES ADATOK, VALAMINT AZ ADATOKBAN BEKÖVETKEZETT VÁLTOZÁSOK BEJELENTÉSE | Lapsorszám ⬜⬜⬜ |
+## 2.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
 
-| Változáskód ⬜ |
+## 2.1.2. Természetes személy
 
-## Ügyfél adatai
+## 2.2. Jogi személyek és jogi személyiséggel nem rendelkező szervezetek esetén
 
-| 1. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 2. KSH statisztikai számjel: ⬜⬜⬜⬜⬜⬜⬜⬜- ⬜⬜⬜⬜- ⬜⬜⬜- ⬜⬜ |
+## 2.2.1. KSH statisztikai számjel
 
-| 3. GLN szervezetazonosító szám: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 4. Természetes személy? | ⬜ | (Jelölje X-szel, ha igen!) |
+## 2.2.2. Rövid név
 
-| 5. Ügyfél neve: | 6. Teljes név: |
+## 2.2.3. Teljes név
 
-## Cím adatok
+## 2.3. Természetes személy esetén
 
-| Ügyfél (székhelyének) címe | Ügyfél értesítési címe (ha eltér a székhely szerinti címtől) |
+## 2.3.1. Viselt név (családi név, első utónév és további utónevek)
 
-|  | 7. Országjel: ⬜⬜⬜ | 8. Település KSH kód: ⬜⬜⬜⬜⬜ |  | 10. Országjel: ⬜⬜⬜ | 11. Település KSH kód: ⬜⬜⬜⬜⬜ |
+## 2.3.2. Születési név (családi név, első utónév és további utónevek)
 
-| 9. Cím: ……………….. ….…………………………………….............................. irányítószám település neve …………………….………………………………….… ……………… utca, út, tér házszám | 12. Értesítési cím: ………………. ………………….……………………………………........................... irányítószám település neve ………………………………….…………………………………….… ……………. utca, út, tér házszám |
+## 2.3.3. Születési országjel
 
-## Jogelőd ügyfél adatai[^14] (Az esetleges további jogelődöket a JOGE lapon kell felsorolni)
+## 2.3.4. Születési település
 
-| 13. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 14. KSH statisztikai számjel: ⬜⬜⬜⬜⬜⬜⬜⬜- ⬜⬜⬜⬜- ⬜⬜⬜- ⬜⬜ |
+## 2.3.5. Születési dátum (év/hó/nap)
 
-| 15. Ügyfél neve: |
+## 2.3.6. Anyja neve (családi, név, első utónév és további utónevek)
 
-| 16. Országjel: | 17. Település KSH kód: | 18. Ügyfél címe: |
+## 2.3.7. E-mail cím
 
-| ⬜⬜⬜ | ⬜⬜⬜⬜⬜ | ……………... | ………………….……………………….......... | ………………….……………………….......... | ………. |
+## 3. A Környezetvédelmi Ügyfél Jel nyilvántartásához és változások bejelentésére szolgáló adatlap (folytatás)(KÜJ-B lap)
 
-| irányítószám | település neve | utca, út, tér | házszám |
+## 3.1. Ügyfél azonosító
 
-| JOGE pótlap5 | KÖRNYEZETVÉDELMI ALAPNYILVÁNTARTÁSHOZ SZÜKSÉGES ADATOK, VALAMINT AZ ADATOKBAN BEKÖVETKEZETT VÁLTOZÁSOK BEJELENTÉSE | Lapsorszám ⬜ ⬜ ⬜ |
+## 3.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
 
-## 5 Új bejelentés esetén a JOGE pótlapot akkor kell kitölteni, ha a KÜJ lap 13. pontja alatt megadott jogelődön túl további jogelődök megnevezése szükséges!
+## 3.2. Ügyfél címe
 
-## Ügyfél azonosító
+## 3.2.1. Ügyfél székhelyének címe
 
-| 1. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+## 3.2.2. Országjel
 
-## Jogelőd ügyfelek adatai
+## 3.2.3. Cím
 
-| 2.Vált. Kód ⬜ | 3. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 4. KSH statisztikai számjel: ⬜⬜⬜⬜⬜⬜⬜⬜-⬜⬜⬜⬜-⬜⬜⬜-⬜⬜ |
+## 3.2.3.1. Település KSH kód
 
-| 5. Ügyfél neve: |
+## 3.2.3.2. Irányítószám
 
-| 6. Országjel: | 7. Település KSH kód: | 8. Ügyfél címe: |
+## 3.2.3.3. Település neve
 
-| ⬜⬜⬜ | ⬜⬜⬜⬜⬜ | ……………….. | ……………….………………………….......... | ………………….……………………….......... | ………. |
+## 3.2.3.4. Közterület
 
-| irányítószám | település neve | utca, út, tér | házszám |
+## 3.2.3.5. Házszám
 
-| 2.Vált. Kód ⬜ | 3. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 4. KSH statisztikai számjel: ⬜⬜⬜⬜⬜⬜⬜⬜-⬜⬜⬜⬜-⬜⬜⬜-⬜⬜ |
+## 3.3.1. Ügyfél értesítési címe
 
-| 5. Ügyfél neve: |
+## 3.3.2. Országjel
 
-| 6. Országjel: | 7. Település KSH kód: | 8. Ügyfél címe: |
+## 3.3.3. Cím
 
-| ⬜⬜⬜ | ⬜⬜⬜⬜⬜ | ……………….. | ……………….………………………….......... | ………………….……………………….......... | ………. |
+## 3.3.3.1. Település KSH kód
 
-| irányítószám | település neve | utca, út, tér | házszám |
+## 3.3.3.2. Irányítószám
 
-| 2.Vált. Kód ⬜ | 3. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 4. KSH statisztikai számjel: ⬜⬜⬜⬜⬜⬜⬜⬜-⬜⬜⬜⬜-⬜⬜⬜-⬜⬜ |
+## 3.3.3.3. Település neve
 
-| 5. Ügyfél neve: |
+## 3.3.3.4. Közterület
 
-| 6. Országjel: | 7. Település KSH kód: | 8. Ügyfél címe: |
+## 3.3.3.5. Házszám
 
-| ⬜⬜⬜ | ⬜⬜⬜⬜⬜ | ……………….. | ………………….……………………….......... | ………………….……………………….......... | ………. |
+## 4. Jogelőd ügyfelek azonosítására szolgáló pótlap (JOGE pótlap)
 
-| irányítószám | település neve | utca, út, tér | házszám |
+## 4.1. Ügyfél azonosító
 
-| KTJ lap | KÖRNYEZETVÉDELMI ALAPNYILVÁNTARTÁSHOZ SZÜKSÉGES ADATOK, VALAMINT AZ ADATOKBAN BEKÖVETKEZETT VÁLTOZÁSOK BEJELENTÉSE | Lapsorszám ⬜⬜⬜ |
+## 4.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
 
-| Változáskód ⬜ |
+## 4.2. Jogelőd ügyfelek azonosítói
 
-## Azonosító adatok
+## 4.2.1. Változáskód
 
-| 1. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 2. KTJ (Környezetvédelmi Területi Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+## 4.2.2. KÜJ (Környezetvédelmi Ügyfél Jel)
 
-| KTJ számmal rendelkező környezetvédelmi objektum adatainak megváltozása esetén kell kitölteni! |
+## 4.2.3. KSH statisztikai számjel
 
-## Környezetvédelmi objektum adatai
+## 4.2.4. Ügyfél neve
 
-| 3. Megnevezés: |
+## 4.2.5. Országjel
 
-| 4. A bejelentett objektum telephely? | ⬜ | (Jelölje X-szel, ha az objektum telephely!) |
+## 4.2.6. Település KSH kód
 
-| 5. Objektum településének KSH kódja:6 | ⬜ ⬜ ⬜ ⬜ ⬜ |
+## 4.2.7 Ügyfél címe
 
-| 6. Postai cím: |
+## 4.2.7.1. Irányítószám
 
-| ⬜ ⬜ ⬜ ⬜ | ………………….…………………………………..................... | ………………….…………………………………..................... | ………. |
+## 4.2.7.2. Település neve
 
-| irányítószám | település neve | utca, út, tér | házszám |
+## 4.2.7.3. Közterület
 
-| 7. Első helyrajzi szám:7 (Csak az 5. pont alatt megadott településre eső helyrajzi szám lehet!) ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
+## 4.2.7.4. Házszám
 
-| 8. EOV koordináták: (A koordináta az 5. pont alatt megadott település területére essen!) X ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ m (dél – észak) Y: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ m (nyugat – kelet) |
+## 5. A Környezetvédelmi Területi Jel nyilvántartásához és a változások bejelentésére szolgáló adatlap (KTJ lap)
 
-## 6 A 6. pont alatt megadott település KSH kódját kell megadni!
+## 5.1. Azonosító adatok
 
-## 7 Amennyiben a telephely vagy objektum egynél több helyrajzi számon található, úgy a további helyrajzi számokat a HRSZ pótlapon kell feltüntetni! Változásjelentés esetén a helyrajzi szám mezőt üresen kell hagyni, és a helyrajzi szám változásokat a HRSZ pótlapon kell bejelenteni!
+## 5.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
 
-| HRSZ pótlap8 | KÖRNYEZETVÉDELMI ALAPNYILVÁNTARTÁSHOZ SZÜKSÉGES ADATOK, VALAMINT AZ ADATOKBAN BEKÖVETKEZETT VÁLTOZÁSOK BEJELENTÉSE | Lapsorszám ⬜ ⬜ ⬜ |
+## 5.1.2. KTJ (Környezetvédelmi Területi Jel)
 
-| Változáskód ⬜ |
+## 5.2. Környezetvédelmi objektum adatai
 
-## 8 Új objektum bejelentése esetén a HRSZ pótlapot akkor kell kitölteni, ha a KTJ lap 7. pontja alatt feltüntetett első helyrajzi számon túl további helyrajzi számok megadása szükséges!
+## 5.2.1. Környezetvédelmi Területi Jel típusa
 
-## Ügyfél azonosító
+## 5.2.2. Telephely / Objektum megnevezése
 
-| 1. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+## 5.2.3. Telephely KTJ (Környezetvédelmi Területi Jel)
 
-## Objektum azonosítás
+## 5.2.4. Település KSH kódja
 
-| 2. KTJ (Környezetvédelmi Terület Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ vagy KTJ lapsorszám: ⬜⬜⬜ |
+## 5.2.5. Telephely címe
 
-## Környezetvédelmi objektum helyrajzi számai
+## 5.2.5.1. Irányítószám
 
-| 3. Helyrajzi szám | 4. Település |
+## 5.2.5.2. Település neve
 
-| KSH kód | Megnevezés |
+## 5.2.5.3. Közterület
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 5.2.5.4. Házszám
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 5.2.6. Első helyrajzi szám
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 5.2.7. EOV koordináták (X, Y)
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 6. Helyrajzi számok bejelentésére szolgáló pótlap (HRSZ pótlap)
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 6.1. Ügyfél azonosító
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 6.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 6.2. Objektum azonosítás
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 6.2.1. KTJ (Környezetvédelmi Területi Jel)
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 6.3. Környezetvédelmi objektum helyrajzi számai
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 6.3.1. Helyrajzi szám
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 6.3.2. Település (KSH kód, megnevezés)
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 7. Az objektum geometriai azonosítására szolgáló adatlap (POLI lap)
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 7.1. Ügyfél azonosító
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 7.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 7.2. Objektum azonosítás
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 7.2.1. KTJ (Környezetvédelmi Területi Jel)
 
-| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜⬜⬜ |  |
+## 7.3. Geometriai adatok
 
-| POLI lap | KÖRNYEZETVÉDELMI ALAPNYILVÁNTARTÁSHOZ SZÜKSÉGES ADATOK, VALAMINT AZ ADATOKBAN BEKÖVETKEZETT VÁLTOZÁSOK BEJELENTÉSE | Lapsorszám ⬜⬜⬜ |
+## 7.3.1. Poligon sorszám
 
-| Változáskód ⬜ |
+## 7.3.2. EOV koordináták (X, Y)
 
-## Ügyfél azonosító
+## 8. A meghatalmazásra szolgáló adatlap (MEGH lap)
 
-| 1. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+## 8.1. Az adatszolgáltató adatai
 
-## Objektum azonosítás
+## 8.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
 
-| 2. KTJ (Környezetvédelmi Terület Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ vagy KTJ lapsorszám: ⬜⬜⬜ |
+## 8.1.2. KSH statisztikai számjel
 
-## Geometriai adatok
+## 8.1.3. Név
 
-| 3. Milyen típusú objektumgeometria? | Vonalas - ⬜ | Poligon - ⬜ (Jelölje X-szel a megfelelőt!) |
+## 8.1.4. Országjel
 
-| 4. Poligon/ Törtsza- kasz sorszám | 5. Pontsorszám | 6. EOV koordináták (m) | 7. Település |
+## 8.1.5. Adatszolgáltató címe
 
-| X (dél-észak) | Y (nyugat-kelet) | KSH kód | Megnevezés |
+## 8.1.5.1. Irányítószám
 
-| ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ |  |
+## 8.1.5.2. Település neve
 
-| ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ |  |
+## 8.1.5.3. Közterület
 
-| ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ |  |
+## 8.1.5.4. Házszám
 
-| ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ |  |
+## 8.2. A meghatalmazott adatai
 
-| ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ |  |
+## 8.2.1. Viselt név (családi név, első utónév és további utónevek)
 
-| ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ |  |
+## 8.2.2. Születési név (családi név, első utónév és további utónevek)
 
-| ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ |  |
+## 8.2.3. Születési országjel
 
-| ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ |  |
+## 8.2.4. Születési hely
 
-| ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ |  |
+## 8.2.5. Születési dátum (év/hónap/nap)
 
-| ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ |  |
+## 8.2.6. Anyja neve (családi, név, első utónév és további utónév)
 
-| ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ |  |
+## 8.2.7. Meghatalmazott címe
 
-| ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ |  |
+## 8.2.7.1. Országjel
 
-| ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ |  |
+## 8.2.7.2. Irányítószám
 
-| ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ |  |
+## 8.2.7.3. Település neve
 
-| ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ ⬜ |  |
+## 8.2.7.4. Közterület
 
-| OBJ lap | KÖRNYEZETVÉDELMI ALAPNYILVÁNTARTÁSHOZ SZÜKSÉGES ADATOK, VALAMINT AZ ADATOKBAN BEKÖVETKEZETT VÁLTOZÁSOK BEJELENTÉSE | Lapsorszám ⬜⬜⬜ |
+## 8.2.7.5. Házszám
 
-## Ügyfél azonosító
+## 8.2.8. E-mail cím
 
-| 1. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+## 8.2.9. Nyilatkozat
 
-## Telephely azonosítás
+## 8.2.10. Kiállítás dátuma (év/hó/nap)
 
-| 2. KTJ (Környezetvédelmi Terület Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ vagy KTJ lapsorszám: ⬜⬜⬜ |
+## 8.2.11. A meghatalmazást elfogadom
 
-## Telephelyen található környezetvédelmi objektumok azonosítói[^15]
+## 9. A meghatalmazás visszavonására szolgáló adatlap (MVV lap)
 
-| 3. Változás kód | 4. KTJ (Környezetvédelmi Terület Jel) | vagy KTJ lapsorszám |
+## 9.1. Az adatszolgáltató adatai
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.1.2. KSH statisztikai számjel
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.1.3. Adatszolgáltató név
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.1.4. Országjel
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.1.5. Adatszolgáltató címe
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.1.5.1. Irányítószám
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.1.5.2 Település neve
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.1.5.3. Közterület
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.1.5.4. Házszám
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.2. A meghatalmazott adatai
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.2.1. Viselt név (családi név, első utónév és további utónevek)
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.2.2. Születési név (családi név, első utónév és további utónevek)
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.2.3. Születési országjel
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.2.4. Születési hely
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.2.5. Születési dátum (év/hó/nap)
 
-| ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
+## 9.2.6. Anyja neve (családi, név, első utónév és további utónevek)
 
-2. melléklet a 78/2007. (IV. 24.) Korm. rendelethez[^16]
+## 9.2.7. Meghatalmazott címe (ország, irányítószám, település neve, közterület, házszám)
 
-| MEGH lap | KÖRNYEZETVÉDELMI ALAPNYILVÁNTARTÁSHOZ SZÜKSÉGES ADATOK, VALAMINT AZ ADATOKBAN BEKÖVETKEZETT VÁLTOZÁSOK BEJELENTÉSE |
+## 9.2.7.1. Országjel
 
-MEGHATALMAZÁS
+## 9.2.7.2. Irányítószám
 
-Környezetvédelmi adatszolgáltatás elektronikus teljesítésére
+## 9.2.7.3. Település neve
 
-Alulírott adatszolgáltató
+## 9.2.7.4. Közterület
 
-| 1. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+## 9.2.7.5. Házszám
 
-| 2. KSH statisztikai számjel: ⬜⬜⬜⬜⬜⬜⬜⬜-⬜⬜⬜⬜-⬜⬜⬜-⬜⬜ |
+## 9.2.8. E-mail cím
 
-| 3. Név: |
+## 9.2.9. Nyilatkozat
 
-| 4. Országjel: | 5. Cím: |
+## 9.2.10. Kiállítás dátuma (év/hó/nap)
 
-| ⬜⬜⬜ | …………... | ………………….……………….......... | ………………….……………….......... | ………. |
+2. melléklet a 78/2007. (IV. 24.) Korm. rendelethez[^24]
 
-| irányítószám | település neve | utca, út , tér | házszám |
-
-meghatalmazom
-
-| 6. Név |
-
-| 7. Születési hely: | 8. Születési dátum: ⬜⬜⬜⬜.év ⬜⬜.hó ⬜⬜.nap |
-
-| 9. Anyja neve: |
-
-| 10. Országjel: | 11. Lakcím: |
-
-| ⬜⬜⬜ | …………….. | ……………….………………….......... | ……………….………………….......... | ………. |
-
-| irányítószám | település neve | utca, út , tér | házszám |
-
-| 12. E-mail cím (bejelentkezéshez): |
-
-hogy az illetékes környezetvédelmi és természetvédelmi felügyelőség, illetve vízvédelmi hatóság felé, a fent nevezett környezetvédelmi adatszolgáltatásait, az adatszolgáltató nevében és helyette eljárva, elektronikus úton teljesítse.
-
-Jelen meghatalmazás a kiállítás dátumától kezdődően visszavonásig érvényes.
-
-13. A kiállítás dátuma: ⬜ ⬜ ⬜ ⬜.év ⬜ ⬜.hó ⬜ ⬜.nap
-
-P. H.
-
-.........................................................
-
-cégszerű aláírás
-
-14. A meghatalmazást elfogadom:
-
-.........................................................
-
-meghatalmazott aláírása
-
-| MVV lap | KÖRNYEZETVÉDELMI ALAPNYILVÁNTARTÁSHOZ SZÜKSÉGES ADATOK, VALAMINT AZ ADATOKBAN BEKÖVETKEZETT VÁLTOZÁSOK BEJELENTÉSE |
-
-Környezetvédelmi adatszolgáltatás elektronikus teljesítésére vonatkozó meghatalmazás VISSZAVONÁSA
-
-Alulírott adatszolgáltató
-
-| 1. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-
-| 2. KSH statisztikai számjel: ⬜⬜⬜⬜⬜⬜⬜⬜-⬜⬜⬜⬜-⬜⬜⬜-⬜⬜ |
-
-| 3. Név: |
-
-| 4. Országjel: | 5. Cím: |
-
-| ⬜⬜⬜ | ………………... | ………………….………………….......... | ………………….………………….......... | ………. |
-
-| irányítószám | település neve | utca, út , tér | házszám |
-
-az alábbi tartalmú meghatalmazást visszavonom.
-
-Meghatalmazott adatai:
-
-| 6. Név |
-
-| 7. Születési hely: | 8. Születési dátum: ⬜⬜⬜⬜.év ⬜⬜.hó ⬜⬜.nap |
-
-| 9. Anyja neve: |
-
-| 10. Országjel: | 11. Cím: |
-
-| ⬜⬜⬜ | ……………... | ………………….………………….......... | ………………….………………….......... | ………. |
-
-| irányítószám | település neve | utca, út , tér | házszám |
-
-| 12. E-mail cím (a bejelentkezéshez használt címet kell megadni): |
-
-Meghatalmazás tárgya:
-
-Az illetékes környezetvédelmi és természetvédelmi felügyelőség, illetve vízvédelmi hatóság felé, a fent nevezett környezetvédelmi adatszolgáltatásainak az adatszolgáltató nevében és helyette eljárva történő teljesítése.
-
-A fenti tartalmú meghatalmazás a kiállítás dátumától kezdődően érvénytelen!
-
-13. A kiállítás dátuma: ⬜ ⬜ ⬜ ⬜.év ⬜ ⬜.hó ⬜ ⬜.nap
-
-P. H.
-
-.........................................................
-
-cégszerű aláírás
-
-[^14]: Változásjelentés esetén a jogelőd ügyfél mezőket üresen kell hagyni! A jogelőd javításához vagy esetleges megváltozásának bejelentéséhez a JOGE pótlapot kell használni!
-[^15]: Az objektum KTJ száma és az objektum KTJ lapsorszáma közül egyszerre csak az egyik lehet kitöltve!
-[^16]: A 2. melléklete az 527/2013. (XII. 30.) Korm. rendelet 47. § (5) bekezdése szerint módosított szöveg.
+[^24]: A 2. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.

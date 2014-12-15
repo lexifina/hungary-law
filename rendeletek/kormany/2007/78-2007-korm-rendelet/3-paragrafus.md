@@ -1,16 +1,15 @@
-3. § (1)[^5] Egyedi környezetvédelmi azonosító adat létrehozása az alábbi szerveknél kezdeményezhető, illetve azokat az alábbi szervek hozzák létre:
+3. § (1)[^7] Egyedi környezetvédelmi azonosító adat létrehozása az alábbi szerveknél kezdeményezhető, illetve azokat az alábbi szervek hozzák létre:
 
-a) a KÜJ azonosítót az a felügyelőség, illetve vízvédelmi ügyekben az a vízvédelmi hatóság hozza létre, amelyhez az ügyfél kérelmével fordul;
+a)[^8] a KÜJ azonosítót az a felügyelőség, illetve az a vízvédelmi hatóság hozza létre, amelyhez az ügyfél kérelmével fordul;
 
-b) ha a KÜJ azonosítóval már rendelkező ügyfél KTJ azonosító(ka)t, vagy a KÜJ azonosítóval még nem rendelkező ügyfél a KÜJ azonosító mellett KTJ azonosító(ka)t is igényel, az azonosítók létrehozását az objektum(ok) jellemző pontja szerint illetékes felügyelőségnél, illetve vízvédelmi ügyekben vízvédelmi hatóságnál kell kezdeményezni.
+b)[^9] ha a KÜJ azonosítóval már rendelkező ügyfél KTJ azonosító(ka)t, vagy a KÜJ azonosítóval még nem rendelkező ügyfél a KÜJ azonosító mellett KTJ azonosító(ka)t is igényel, az azonosítók létrehozását az objektum(ok) jellemző pontja szerint illetékes felügyelőségnél, illetve vízvédelmi hatóságnál kell kezdeményezni.
 
-(2)[^6] Ha az egyedi környezetvédelmi azonosító adat létrehozása a Főfelügyelőség, vagy az Országos Vízügyi Hatóság hatáskörébe tartozó eljáráshoz szükséges, az azonosítókat a Főfelügyelőség vagy az Országos Vízügyi Hatóság hozza létre.
+(2)[^10] Ha az egyedi környezetvédelmi azonosító adat létrehozása a felügyelőség, vagy a vízvédelmi hatóság országos illetékességű szervének elsőfokú hatáskörébe tartozó eljáráshoz szükséges, az azonosítókat e szerv hozza létre.
 
-(3) Egyedi környezetvédelmi azonosítók létrehozását
+(3)[^11]
 
-a) környezetvédelmi adatszolgáltatási kötelezettség esetében az adatszolgáltatást megelőzően,
-
-b) a Kvt. 64/A. §-ban meghatározott esetekben, legkésőbb a kérelemmel együtt
-
-[^5]: A 3. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 47. § (2) bekezdésével megállapított szöveg.
-[^6]: A 3. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 47. § (2) bekezdésével megállapított szöveg.
+[^7]: A 3. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 47. § (2) bekezdésével megállapított szöveg.
+[^8]: A 3. § (1) bekezdés a) pontja a 310/2014. (XII. 11.) Korm. rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 3. § (1) bekezdés b) pontja a 310/2014. (XII. 11.) Korm. rendelet 10. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 3. § (2) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^11]: A 3. § (3) bekezdését a 310/2014. (XII. 11.) Korm. rendelet 10. § (1) bek. b) pontja hatályon kívül helyezte.

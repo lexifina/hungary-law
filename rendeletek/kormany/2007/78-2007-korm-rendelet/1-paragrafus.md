@@ -18,18 +18,22 @@ dc) akiket (amelyeket) a hatóság a környezet szennyezésének és károsodás
 
 dd) akiket (amelyeket) a hatóság a környezet használatával, szennyezésével és károsításával kapcsolatban fizetési kötelezettség teljesítése, ellenőrzése érdekében nyilvántart;
 
-e)[^1] környezetvédelmi objektum: olyan terület, helyhez kötött létesítmény, tárgy, építmény, engedélyköteles tevékenység végzésének helye, amellyel összefüggésben az Országos Környezetvédelmi Információs Rendszerhez (a továbbiakban: OKIR) kapcsolódóan a 4. § (2) bekezdésében felsorolt szervek közigazgatási eljárást folytatnak le, vagy amellyel kapcsolatban környezetvédelmi adatszolgáltatást teljesítenek;
+e)[^1] környezetvédelmi objektum: olyan terület, helyhez kötött létesítmény, tárgy, építmény, engedély-, bejelentés-, vagy nyilvántartásba vétel-köteles tevékenység végzésének helye, amellyel összefüggésben az Országos Környezetvédelmi Információs Rendszerhez (a továbbiakban: OKIR) kapcsolódóan az e rendeletben felsorolt szervek környezetvédelmi közigazgatási hatósági eljárást folytatnak le, vagy amellyel kapcsolatban az ügyfél környezetvédelmi adatszolgáltatást teljesít;
 
-f) Környezetvédelmi Alapnyilvántartó Rendszer (a továbbiakban: KAR): a környezeti alapnyilvántartás informatikai rendszere;
+f)[^2] Környezetvédelmi Alapnyilvántartó Rendszer (a továbbiakban: KAR): az OKIR részét képező szakrendszer-modulok által közösen használt alapadatok regisztrációs rendszere, amely az e rendelet 1. mellékletében meghatározott adatokat, továbbá az OKIR-ral kapcsolatos környezetvédelmi adatszolgáltatások teljesítéséhez szükséges meghatalmazásokat tartalmazza;
 
-g) KAR adatszolgáltatás: az alapadatoknak a környezeti alapnyilvántartás részére történő bejelentése egyedi környezetvédelmi azonosító adatok létrehozása, vagy az alapadatok módosításának bejelentése céljából;
+g)[^3] KAR adatszolgáltatás: az alapadatoknak a környezeti alapnyilvántartás részére történő bejelentése egyedi környezetvédelmi azonosító adatok létrehozása, azok módosítása, valamint a meghatalmazott regisztrációja céljából;
 
 h) objektum jellemző pontja: a környezetvédelmi objektum területére eső pont, amely a térképi ábrázolás során az objektumot reprezentálja. A jellemző pontot az adatszolgáltató határozza meg, amelynek az objektum címe szerinti település közigazgatási területére kell esnie;
 
 i) kódjellegű adat: adatszolgáltatásokban tulajdonságok, jelenségek, fogalmak azonosításához használt adat, amelynek lehetséges értékeit előre meghatározott lista tartalmazza;
 
-j) törzsjellegű adat: környezetvédelmi ügyfeleket és környezetvédelmi objektumokat jellemző, időben közel állandónak tekinthető, nem rendszeresen változó adat;
+j)[^4]
 
-k) leíró adat: környezetvédelmi ügyfeleket és környezetvédelmi objektumokat az azonosítóikon kívül jellemző adat.
+k)[^5]
 
-[^1]: Az 1. § e) pontja a Magyar Közlöny 2007. évi 62. számában megjelent helyesbítésnek megfelelő szöveg.
+[^1]: Az 1. § e) pontja a 310/2014. (XII. 11.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § f) pontja a 310/2014. (XII. 11.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § g) pontja a 310/2014. (XII. 11.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § j) pontját a 310/2014. (XII. 11.) Korm. rendelet 10. § (1) bek. a) pontja hatályon kívül helyezte.
+[^5]: Az 1. § k) pontját a 310/2014. (XII. 11.) Korm. rendelet 10. § (1) bek. a) pontja hatályon kívül helyezte.
