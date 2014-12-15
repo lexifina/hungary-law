@@ -1,4 +1,4 @@
-## köteles benyújtani az NMH-nak.
+## köteles benyújtani az NSZFH-nak.
 
 9. § (1) Az iskola a rendelkezésére bocsátott összeget kizárólag az e rendeletben meghatározott célokra használhatja fel.
 
