@@ -154,6 +154,8 @@
 
 |  | 6 | Nemzetgazdasági Tervezési Hivatal | irányítás |
 
+|  | 7 | Nemzeti Szakképzési és Felnőttképzési Hivatal | irányítás |
+
 ## I) Nemzeti fejlesztési miniszter
 
 |  |  | A | B |
