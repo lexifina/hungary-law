@@ -1,0 +1,57 @@
+## „10. melléklet a 19/2010. (XII. 3.) NFM rendelethez
+
+## A 2/B. § szerinti földgázforrás ára 2015. első negyedévre
+
+## 1. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által a GET 141/C. § (2) bekezdése szerinti földgázkereskedő részére értékesítendő, nem földgáztárolóból beszerzett földgázforrás mennyisége és ára
+
+|  | A | B |
+
+| 1. | Nem földgáztárolóból beszerzett földgázforrás mennyisége (TJ) | Nem földgáztárolóból beszerzett földgázforrás ára (Ft/MJ) |
+
+| 2. | 1635 | 1,897 |
+
+## 2. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által a GET 141/C. § (2) bekezdése szerinti földgázkereskedő részére értékesítendő, földgáztárolóból beszerzett földgázforrás mennyisége és ára
+
+|  | A | B |
+
+| 1. | Földgáztárolóból beszerzett földgázforrás mennyisége (TJ) | Földgáztárolóból beszerzett földgázforrás ára (Ft/MJ) |
+
+| 2. | - | - |
+
+## ”
+
+10. melléklet az 52/2014. (XII. 13.) NFM rendelethez
+
+„2. melléklet a 4/2011. (I. 31.) NFM rendelethez
+
+A minden egyetemes szolgáltató által alkalmazandó árszabások legmagasabb egyetemes szolgáltatási árai (Ft/kWh)
+
+|  | A | B | C | D | E |
+
+| 1 | Árszabások | EDF DÉMÁSZ Zrt. | E.ON Energia- szolgáltató Kft. | ELMŰ Nyrt. | ÉMÁSZ Nyrt. |
+
+| 2 | A1 |  |  |  |  |
+
+| 3 | - lakossági felhasználók esetében 1320 kWh/év fogyasztásig | 15,20 | 14,34 | 15,06 | 14,89 |
+
+| 4 | - lakossági felhasználók esetében az éves fogyasztás 1320 kWh-t meghaladó részére | 16,08 | 16,26 | 16,10 | 15,92 |
+
+| 5 | - nem lakossági felhasználók esetében | 21,77 | 22,02 | 21,80 | 21,56 |
+
+| 6 | A2 |  |  |  |  |
+
+| 7 8 | - lakossági felhasználók esetében - csúcsidőszak | 18,90 | 20,73 | 19,98 | 18,44 |
+
+| 9 10 11 12 | - völgyidőszak - nem lakossági felhasználók esetében - csúcsidőszak - völgyidőszak | 11,00 25,48 15,01 | 12,35 27,92 16,80 | 11,88 26,91 16,18 | 10,95 24,88 14,94 |
+
+| 13 | A3 |  |  |  |  |
+
+| 14 | - csúcsidőszak | 25,69 | 30,26 | 26,86 | 24,83 |
+
+| 15 | - völgyidőszak | 15,13 | 19,02 | 16,13 | 14,89 |
+
+| 16 17 18 | B Alap - lakossági felhasználók esetében - nem lakossági felhasználók esetében | 11,13 12,69 | 11,54 13,08 | 11,25 12,74 | 10,88 12,30 |
+
+| 19 20 21 | H - lakossági felhasználók esetében - nem lakossági felhasználók esetében | 11,13 12,69 | 11,54 13,08 | 11,25 12,74 | 10,88 12,30 |
+
+”
