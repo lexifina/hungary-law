@@ -30,6 +30,6 @@
 
 | 13. | Ebek viselkedésének megítélésében jártas szakértő | Nemzeti Élelmiszerlánc-biztonsági Hivatal | élelmiszerlánc-felügyeletért felelős miniszter |
 
-3. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^29]
+3. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^31]
 
-[^29]: A 3. számú mellékletet a 351/2010. (XII. 30.) Korm. rendelet 205. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § k) pontja.
+[^31]: A 3. számú mellékletet a 351/2010. (XII. 30.) Korm. rendelet 205. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § k) pontja.

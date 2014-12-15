@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-33-20-2
 | 2014-01-01 | 2008-33-20-22.17 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2014-01-19 | 2008-33-20-22.18 | 282/2011. (XII. 21.) Korm. rendelet |
 | 2014-09-05 | 2008-33-20-22.19 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2014-12-15 | 2008-33-20-22.20 | 318/2014. (XII. 13.) Korm. rendelet |
