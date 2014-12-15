@@ -42,7 +42,7 @@
 
 Szakvélemény adására feljogosított szervek
 
-4K12985M_0
+4K24388N_0
 
 | A szakterület és az ahhoz kapcsolódó szakkérdés (vizsgálat) megjelölése | A szakvélemény adására feljogosított szervezet |
 
@@ -122,7 +122,7 @@ Szakvélemény adására feljogosított szervek
 
 |  | 5. |  |
 
-| 6. | Foglalkozási megbetegedés vizsgálata, foglalkozási eredet véleményezése | Nemzeti Munkaügyi Hivatal Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
+| 6. | Foglalkozási megbetegedés vizsgálata, foglalkozási eredet véleményezése | Országos Tisztiorvosi Hivatal Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
 | 7. | Jövedéki termékek adójogi minősítése, termékek áruosztályozása | Nemzeti Adó- és Vámhivatal Szakértői Intézete |
 
@@ -136,4 +136,4 @@ Szakvélemény adására feljogosított szervek
 
 |  |  | 2. | Régészeti örökséggel kapcsolatos szakkérdések | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ |
 
-[^9]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 123. §-a, a 250/2011. (XII. 1.) Korm. rendelet 1. §-a, a 259/2011. (XII. 7.) Korm. rendelet 19. §-a, a 300/2011. (XII. 22.) Korm. rendelet 15. §-a, a 324/2011. (XII. 28.) Korm. rendelet 13. §-a, a 310/2012. (XI. 6.) Korm. rendelet 17. §-a, a 394/2012. (XII. 20.) Korm. rendelet 22. §-a, a 107/2013. (IV. 5.) Korm. rendelet 6. §-a, az 527/2013. (XII. 20.) Korm. rendelet 54. §-a, a 221/2014. (IX. 4.) Korm. rendelet 404. § b) pontja szerint módosított szöveg.
+[^9]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 123. §-a, a 250/2011. (XII. 1.) Korm. rendelet 1. §-a, a 259/2011. (XII. 7.) Korm. rendelet 19. §-a, a 300/2011. (XII. 22.) Korm. rendelet 15. §-a, a 324/2011. (XII. 28.) Korm. rendelet 13. §-a, a 310/2012. (XI. 6.) Korm. rendelet 17. §-a, a 394/2012. (XII. 20.) Korm. rendelet 22. §-a, a 107/2013. (IV. 5.) Korm. rendelet 6. §-a, az 527/2013. (XII. 20.) Korm. rendelet 54. §-a, a 221/2014. (IX. 4.) Korm. rendelet 404. § b) pontja, a 318/2014. (XII. 13.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
