@@ -22,7 +22,7 @@
 
 ## 8. „A javítóvizsgán teljesített vizsgafeladatok, vizsgafeladatrészek alapján ....................................................... részszakképesítést igazoló bizonyítványt kapott.”
 
-4. melléklet a 315/2013. (VIII. 28.) Korm. rendelethez
+4. melléklet a 315/2013. (VIII. 28.) Korm. rendelethez[^8]
 
 EUROPASS BIZONYÍTVÁNY-KIEGÉSZÍTŐ (*)-
 
@@ -76,6 +76,8 @@ A szakember képes:
 
 | Szakmai követelmény modulok: szám megnevezés |
 
-| Jelen bizonyítvány kiegészítő a Nemzeti Referencia- és Koordinálós Pont és a Nemzeti Europass Központ honlapjain közzétett kitöltési útmutató alapján került elkészítésre. Nemzeti Munkaügyi Hivatal/ Szak- és Felnőttképzési Igazgatóság/ Nemzeti Referencia- és Koordinálós Pont: http://nrk.nive.hu |
+| Jelen bizonyítvány kiegészítő a Nemzeti Referencia- és Koordinálós Pont és a Nemzeti Europass Központ honlapjain közzétett kitöltési útmutató alapján került elkészítésre. Nemzeti Szakképzési és Felnőttképzési Hivatal/ Nemzeti Referencia Központ: http://nrk.nive.hu |
 
 | A vizsgaszervező vezetője: Kiállítás dátuma: | P. H. |
+
+[^8]: A 4. melléklet a 318/2014. (XII. 13.) Korm. rendelet 23. §-a szerint módosított szöveg.
