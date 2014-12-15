@@ -100,6 +100,6 @@
 
 ## Ha a szállítói engedélyesnek az összekötő vezeték szállítási kapacitásán felül jelentős hosszú távú kapacitáslekötési igényt jeleznek, akkor az azok kielégítése érdekében végzett többletkapacitásokat biztosító beruházásokkal kapcsolatban a kapacitás díj mértékére a 4. mellékletben meghatározott rendszeres ármegállapításra vonatkozóan a szállítói engedélyes javaslatot tesz a Hivatalnak. A Hivatal az I–IV. pontokban foglalt szabályok alapján dönt a kapacitás díjról.
 
-2. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^19]
+2. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^20]
 
-[^19]: A 2. melléklet a 65/2011. (XI. 30.) NFM rendelet 5. § (6) bekezdése és 6. §-a szerint módosított szöveg.
+[^20]: A 2. melléklet a 65/2011. (XI. 30.) NFM rendelet 5. § (6) bekezdése és 6. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-4. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^21]
+4. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^22]
 
 4A rendszerhasználati díjak megállapításának keretszabályai
 
@@ -6,7 +6,11 @@
 
 1.1. Rendszeres ármegállapítás
 
-A Hivatal rendszeres ármegállapítást gázévente végez a jelen mellékletben meghatározottak szerint. A rendszeres ármegállapítás során figyelemmel kell lenni az előző gázévben megállapított díjak szintjére. A GET 105. § (3) bekezdése szerinti országosan egységes rendszerhasználati díjak számításánál nem kell figyelemmel lenni azon engedélyesekre, amelyekre a 2009. évi eszköz- és költségfelülvizsgálat nem terjedt ki.
+A Hivatal rendszeres ármegállapítást gázévente végez a jelen mellékletben meghatározottak szerint. A rendszeres ármegállapítás során figyelemmel kell lenni az előző gázévben megállapított díjak szintjére.
+
+A GET 105. § (1) bekezdés a) pontja szerinti országosan egységes szállítási rendszerüzemeltetési díj megállapításánál azon engedélyesek esetében, amelyekre a 2009. évi eszköz-és költség-felülvizsgálat nem terjedt ki, a 2. melléklet szerinti eszköz- és költség-felülvizsgálat során alkalmazott elveket kell figyelembe venni.
+
+A GET 105. § (1) bekezdés c) pontja szerinti földgáztárolási díj számításánál nem kell figyelemmel lenni azon engedélyesekre, amelyekre a 2009. évi eszköz- és költség-felülvizsgálat nem terjedt ki.
 
 1.1.1. Inflációs kritérium
 
@@ -50,7 +54,7 @@ HE: a háztartási energia KSH által közzétett éves átlagos árindexe.
 
 1.1.3.2. A földgáz alaprendszeren történő továbbítása érdekében felmerülő költségek (indokolt árbevétel-igény) díjban elismerésre kerülő értéke:
 
-|  |  | A = Ae x zhf |
+|  | A = (Ae+Af) x zhf |  |
 
 1.1.3.3. A földgáz tárolása érdekében felmerülő költségek (indokolt árbevétel-igény) díjban elismerésre kerülő értéke:
 
@@ -86,7 +90,9 @@ a) A szállítást, rendszerirányítást, tárolást és elosztást végző eng
 
 2013-ra: NYK = TK x (1 + CPIX2010/100) 1/4x (1 + CPIX2011/100) x (1 + CPIX2012/100) x (1 + CPIX2013/100)+ TFK + TP
 
-2014-re: NYK = TK2014 x (1 + CPIX2010/100) 1/4x (1 + CPIX2011/100) x (1 + CPIX2012/100) x (1 + CPIX2013/100) x (1 + CPIX2014/100)+ TFK + TP
+2014-re: NYK = TK2014 x (1 + CPIX2010/100)1/4x (1 + CPIX2011/100) x (1 + CPIX2012/100) x (1 + CPIX2013/100) x (1 + CPIX2014/100) + TFK + TP
+
+2015-re: NYK = TK2015 x (1 + CPIX2010/100)1/4x (1 + CPIX2011/100) x (1 + CPIX2012/100) x (1 + CPIX2013/100) x (1 + CPIX2014/100) + (1 + CPIX2015/100) + TFK + TP
 
 ahol:
 
@@ -100,13 +106,13 @@ TK: az adott hatósági áras engedélyes adott tevékenységére kalkulált, a 
 
 - szállítás és tárolás esetében: TK = TIEi x (f x THESZ + g x THV)
 
-TK2014:
+TK2014 és TK2015:
 
 - az elosztás és tárolás esetében megegyezik a TK meghatározásánál írtakkal
 
 - szállítás esetében: TK = TIEi x [i x THSZ_B + (1-i) x THSZ] ahol:
 
-TIEi: a 2009. évi eszköz- és költségfelülvizsgálatba bevont adott hatósági áras engedélyes azon 2008. év végi, valamint a 2009. évben dokumentáltan aktiválásra kerülő tárgyi eszközeinek és immateriális javainak 2010. áprilisi árszintre átszámított (átértékelt) nettó értéke, az 1. mellékletben ismertetett díjképzési módszertan szerint megállapított díjakban elismert eszközök nettó értéke nélkül, amelyeket az eszköz- és költség-felülvizsgálat alapján a Hivatal indokoltnak minősített [meghatározásánál a hatósági áras engedélyes általános működését lehetővé tévő eszközök (például irodaház) értékének arányos részét is figyelembe vette],
+TIEi: a 2009. évi eszköz- és költségfelülvizsgálatba bevont adott hatósági áras engedélyes azon 2008. év végi, valamint a 2009. évben dokumentáltan aktiválásra kerülő tárgyi eszközeinek és immateriális javainak 2010. áprilisi árszintre átszámított (átértékelt) nettó értéke, az 1. mellékletben ismertetett díjképzési módszertan szerint megállapított díjakban elismert eszközök nettó értéke nélkül, amelyeket az eszköz- és költség-felülvizsgálat alapján a Hivatal indokoltnak minősített [meghatározásánál a hatósági áras engedélyes általános működését lehetővé tévő eszközök (például irodaház) értékének arányos részét is figyelembe vette]; a 2009. évi eszköz- és költség-felülvizsgálatba be nem vont hatósági áras engedélyes esetében a 2. melléklet szerinti eszköz-és költség-felülvizsgálat során alkalmazott elvekkel megállapított érték,
 
 THSZ_B: a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló 29/2009. (VI. 25.) KHEM rendelet 6. § (4) bekezdése szerint figyelembe vett reál hozamtényező, százalékban kifejezve,
 
@@ -124,7 +130,9 @@ CPIX2012: Abban az esetben, ha a KSH által közzétett 2012. évi éves átlago
 
 CPIX2013: Abban az esetben, ha a KSH által közzétett 2013. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex mértéke meghaladja az 5%-ot, úgy CPIX2013 megegyezik az 5%-ot meghaladó értékkel, százalékban kifejezve. Egyébként a (1 + CPIX2013/100) kifejezés értéke 1.
 
-CPIX2014: Abban az esetben, ha a KSH által közzétett 2014. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex mértéke meghaladja az 5%-ot, úgy CPIX2014 megegyezik az 5%-ot meghaladó értékkel, százalékban kifejezve. Egyébként a (1 + CPIX2014/100) kifejezés értéke 1.
+CPIX2014: Abban az esetben, ha a KSH által közzétett 2014. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex mértéke meghaladja az 5%-ot, úgy CPIX2014 megegyezik az 5%-ot meghaladó értékkel, százalékban kifejezve. Egyébként (1+ CPIX2014/100) kifejezés értéke 1.
+
+CPIX2015: Abban az esetben, ha a KSH által közzétett 2015. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex mértéke meghaladja az 5%-ot, úgy CPIX2015 megegyezik az 5%-ot meghaladó értékkel, százalékban kifejezve. Egyébként (1+ CPIX2015/100) kifejezés értéke 1.
 
 TFK: a párnagáz elismert tőkefedezeti költsége,
 
@@ -160,7 +168,7 @@ A rendszeres ármegállapítás során utólag elismerhető azon – az induló 
 
 1.1.7.1. A Hivatal az alap-és kapacitásdíjakat, valamint az elosztási átszállítási díjat az indexált árbevétel-tömeg és a legutolsó rendelkezésre álló adatok (naturália, mennyiség) alapján határozza meg, amely díjmeghatározás során a felhasználók érdekeinek figyelembevételével, mérlegeléssel dönt a figyelembe vehető kapacitás-lekötések mértékéről.
 
-1.1.7.2. A forgalmi díjak számítása esetén – a gázfelhasználási költséget tartalmazó díjelemek kivételével – az induló árak megállapításánál figyelembe vett (az elosztási forgalmi díj esetében napfok módszerrel korrigált) mennyiségi adatokat és súlyarányokat kell figyelembe venni. Amennyiben a napfok módszerrel korrigált mennyiség legalább 1,5%-kal változik, akkor az elosztási forgalmi díjak számítása esetén a rendszeres ármegállapítást megelőző naptári évre vonatkozó (napfok módszerrel korrigált) mennyiségi adatokat és súlyarányokat kell alapul venni.
+1.1.7.2. A forgalmi díjak számítása esetén – a gázfelhasználási költséget tartalmazó díjelemek kivételével – az induló árak megállapításánál figyelembe vett (az elosztási forgalmi díj esetében napfok módszerrel korrigált) mennyiségi adatokat és súlyarányokat kell figyelembe venni. Amennyiben a napfok módszerrel korrigált mennyiség legalább 1,5%-kal változik, akkor az elosztási forgalmi díjak számítása esetén a rendszeres ármegállapítást megelőző naptári évre vonatkozó (napfok módszerrel korrigált) mennyiségi adatokat és súlyarányokat kell alapul venni. Szállítási forgalmi díj számítása esetén figyelemmel kell lenni a még felfutó (várható kihasználtságot még el nem érő) rendszerek sajátosságaira.
 
 1.1.7.3. A kapacitásdíjak számításánál a mérlegelés alapján megállapított aktualizált (modellezett) kapacitás-lekötések és a lekötött megszakítható kapacitások azon része kerül figyelembevételre, amely alapján kapacitásdíjat kell fizetni. Ha a díjszámításnál figyelembe vett, az aktualizált (modellezett) kapacitás-lekötéseken felüli, az árbevétel-igényben figyelembe vett eszközre vonatkozó szabad kapacitás értékesítésre kerül, az ezen értékesítésből befolyó, a díjszámításkor rendelkezésre álló tény adatok alapján ismert árbevétellel a díjszámítás alapjául szolgáló indokolt árbevétel-igényt csökkenteni kell.
 
@@ -178,7 +186,9 @@ A rendszeres ármegállapítás során utólag elismerhető azon – az induló 
 
 A: a belföldi felhasználású földgáz alaprendszeren történő továbbításának az árakban elismerésre kerülő költsége (indokolt árbevétel-igénye) a tárgyidőszakban,
 
-Ae: a belföldi felhasználású földgáz alaprendszeren történő továbbításának az árakban elismert (figyelembe vett) költsége (indokolt árbevétel-igénye) a bázisidőszakban,
+„Ae: a belföldi felhasználású földgáz alaprendszeren történő továbbításának az árakban elismert (figyelembe vett) költsége (indokolt árbevétel-igénye) a bázisidőszakban
+
+Af: a belföldi felhasználású földgáz alaprendszeren történő továbbításának a bázisidőszaki árak megállapítása után felmerült indokolt költsége,
 
 B: a belföldi felhasználású földgáz tárolása érdekében felmerülő költségelemek (indokolt árbevétel-igény) árakban elismerésre kerülő értéke a tárgyidőszakban,
 
@@ -202,4 +212,4 @@ zh: a tárgyidőszaki rendszeres ármegállapításnál számított hibakorrekci
 
 zhf: a tárgyidőszaki rendszeres ármegállapításnál figyelembe veendő, hibakorrekciós tényezővel korrigált felülvizsgált inflációkövetési tényező.
 
-[^21]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 25. §-a, a 13/2013. (IV. 3.) NFM rendelet 7. §-a, a 43/2013. (VII. 25.) NFM rendelet 13. § (2) bekezdés d) pontja és (3) bekezdése, az 58/2013. (IX. 27.) NFM rendelet 2. §-a, a 60/2013. (X. 16.) NFM rendelet 1. §-a, a 75/2013. (XII. 16.) NFM rendelet 1. §-a, a 14/2014. (III. 31.) NFM rendelet 6. §-a szerint módosított szöveg.
+[^22]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 25. §-a, a 13/2013. (IV. 3.) NFM rendelet 7. §-a, a 43/2013. (VII. 25.) NFM rendelet 13. § (2) bekezdés d) pontja és (3) bekezdése, az 58/2013. (IX. 27.) NFM rendelet 2. §-a, a 60/2013. (X. 16.) NFM rendelet 1. §-a, a 75/2013. (XII. 16.) NFM rendelet 1. §-a, a 14/2014. (III. 31.) NFM rendelet 6. §-a, az 52/2014. (XII. 13.) NFM rendelet 2. §-a szerint módosított szöveg.
