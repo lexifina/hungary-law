@@ -548,7 +548,7 @@
 
 ## 37.25. légiközlekedés védelmi nemzeti minőségbiztosítási ellenőr
 
-## 38. A Nemzeti Munkaügyi Hivatalnál
+## 38. A Nemzeti Szakképzési és Felnőttképzési Hivatalnál
 
 ## 38.1. az informatikai feladatot ellátó szervezeti egység vezetője és helyettese
 

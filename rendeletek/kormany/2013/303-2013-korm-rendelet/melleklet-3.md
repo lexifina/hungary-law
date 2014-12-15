@@ -20,4 +20,4 @@
 
 3. melléklet a 303/2013. (VII. 31.) Korm. rendelethez[^7]
 
-[^7]: A 3. melléklet a 221/2014. (IX. 4.) Korm. rendelet 749. §-ával megállapított szöveg.
+[^7]: A 3. melléklet a 221/2014. (IX. 4.) Korm. rendelet 749. §-ával megállapított, a 318/2014. (XII. 13.) Korm. rendelet 22. §-a szerint módosított szöveg.
