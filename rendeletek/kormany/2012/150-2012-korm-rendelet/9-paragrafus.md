@@ -4,15 +4,15 @@
 
 (2) Az 1. § (6) bekezdése, valamint a 6. melléklet 2013. szeptember 1-jén lép hatályba.
 
-(3)[^3] Az e rendelettel kiadott OKJ szerinti iskolarendszeren kívüli szakképzés – a (7) bekezdésben foglalt kivétellel – 2013. szeptember 1-jétől indítható.
+(3)[^12] Az e rendelettel kiadott OKJ szerinti iskolarendszeren kívüli szakképzés – a (7) bekezdésben foglalt kivétellel – 2013. szeptember 1-jétől indítható.
 
 (4) A 2012. szeptember 1-jén induló iskolai rendszerű képzések a 2012. augusztus 31-én hatályos OKJ-hoz kiadott szakmai és vizsgakövetelmények szerint is indíthatók.
 
 (5) A nemzeti felsőoktatásról szóló törvény 113. § (4) bekezdése szerinti felsőfokú szakképzés 2012 szeptemberében a 2012. augusztus 31-én hatályos OKJ-hoz kiadott szakmai és vizsgakövetelmények szerint indítható.
 
-(6)[^4] Az iskolarendszeren kívüli képzések 2013. augusztus 31-ig a 2012. augusztus 31-én hatályos OKJ-hoz kiadott szakmai és vizsgakövetelmények szerint indíthatók.
+(6)[^13] Az iskolarendszeren kívüli képzések 2013. augusztus 31-ig a 2012. augusztus 31-én hatályos OKJ-hoz kiadott szakmai és vizsgakövetelmények szerint indíthatók.
 
-(7)[^5] Az 1. melléklet 1. táblázatában szereplő
+(7)[^14] Az 1. melléklet 1. táblázatában szereplő
 
 1. 32 720 01 azonosító számú Egészségfejlesztési segítő,
 
@@ -74,9 +74,19 @@
 
 ## szakképesítés esetében az iskolarendszeren kívüli szakképzés a szakképesítés szakmai és vizsgakövetelményének kiadását követően indítható.
 
-(8)[^6]
+(8)[^15] Az Emberi Erőforrás Fejlesztési Operatív Program 2014. évi kiírásához kapcsolódó „Felzárkóztató egészségügyi ápolói szakképzési program” keretében az 1. melléklet 1. táblázatában foglaltaktól eltérően az
 
-[^3]: A 9. § (3) bekezdése a 84/2013. (III. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^4]: A 9. § (6) bekezdése a 331/2012. (XI. 28.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^5]: A 9. § (7) bekezdését a 84/2013. (III. 21.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^6]: A 9. § (8) bekezdését a 315/2013. (VIII. 28.) Korm. rendelet 66. § (1) bekezdése iktatta be, hatályon kívül helyezte a 11. § (3) bekezdése.
+a) 52 723 01 azonosító számú Gyakorló ápoló szakképesítés megszerzésére irányuló képzést 500–700 óra képzési idővel,
+
+b) 52 723 02 azonosító számú Gyakorló csecsemő és gyermekápoló szakképesítés megszerzésére irányuló képzést 500–700 óra képzési idővel,
+
+c) 55 723 01 azonosító számú Ápoló szakképesítés megszerzésére irányuló képzést 800–1200 óra képzési idővel,
+
+d) 55 723 02 azonosító számú Csecsemő és gyermekápoló szakképesítés megszerzésére irányuló képzést 800–1200 óra képzési idővel
+
+iskolarendszeren kívüli szakképzés keretében is indíthat az egészségügyért felelős miniszter által erre kijelölt intézmény.
+
+[^12]: A 9. § (3) bekezdése a 84/2013. (III. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^13]: A 9. § (6) bekezdése a 331/2012. (XI. 28.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^14]: A 9. § (7) bekezdését a 84/2013. (III. 21.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^15]: A 9. § (8) bekezdését újonnan a 318/2014. (XII. 13.) Korm. rendelet 20. § (1) bekezdése iktatta be.

@@ -38,7 +38,7 @@
 
 | 18 | 54 212 09 | Táncos (szakmairány megjelölésével) |
 
-6. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^13]
+6. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^22]
 
 Az államilag támogatott iskolai rendszerű oktatás tekintetében agrárágazatba tartozó szakképesítések
 
@@ -136,4 +136,4 @@ Az államilag támogatott iskolai rendszerű oktatás tekintetében agrárágaza
 
 | 46 | 35 622 02 | Zöldség- és gyümölcstermesztő |
 
-[^13]: A 6. melléklet a 84/2013. (III. 21.) Korm. rendelet 3. § (5) bekezdése, az 562/2013. (XII. 31.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^22]: A 6. melléklet a 84/2013. (III. 21.) Korm. rendelet 3. § (5) bekezdése, az 562/2013. (XII. 31.) Korm. rendelet 8. §-a szerint módosított szöveg.
