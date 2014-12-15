@@ -1,5 +1,6 @@
-## 8. § Hatályát veszti az R. 15. melléklet 3. pont 3.3–3.5. alpontja és 5. pont 5.8. alpontja.
+## 1–8. §[^1]
 
-## 2.[^1]
+## 2.[^2]
 
-[^1]: A 2. alcím (9–10. §) a 11. § (2) bekezdése alapján 2015. február 1-jén lép hatályba.
+[^1]: Az 1–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. alcím (9–10. §) a 11. § (2) bekezdése alapján 2015. február 1-jén lép hatályba.
