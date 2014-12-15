@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-423-20-
 | 2013-12-15 | 2012-423-20-22.8 | 47/2013. (II. 20.) Korm. rendelet |
 | 2013-12-16 | 2012-423-20-22.9 | 2010: CXXX. törvény |
 | 2013-12-30 | 2012-423-20-22.10 | 502/2013. (XII. 29.) Korm. rendelet |
+| 2014-12-15 | 2012-423-20-22.11 | 47/2013. (II. 20.) Korm. rendelet |

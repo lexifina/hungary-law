@@ -16,6 +16,6 @@ mindhárom esetben az esetleg szerzett érettségi többletpontok és egyéb tö
 
 (4) A felsőoktatási szakképzésre jelentkezők érettségi pontját – ha a felsőoktatási intézmény a 6. § (1) bekezdése alapján másként nem rendelkezik – az érettségi bizonyítványában, illetve a tanúsítványaiban szereplő érettségi vizsgatárgyak közül a két legjobbnak a százalékos eredménye alapján kell megállapítani.
 
-(5)[^34] Felsőoktatási szakképzésre csak az a jelentkező vehető fel, akinek az érettségi többletpontokkal együtt, de a más jogcímen adható többletpontok nélkül számított pontszáma eléri, vagy meghaladja a 220 pontot.
+(5)[^34] Felsőoktatási szakképzésre csak az a jelentkező vehető fel, akinek az érettségi többletpontokkal együtt, de a más jogcímen adható többletpontok nélkül számított pontszáma eléri, vagy meghaladja a 240 pontot.
 
-[^34]: A 14. § (5) bekezdése a 47/2013. (II. 20.) Korm. rendelet 3. §-ával megállapított, a 47. § (4) bekezdése szerint módosított szöveg.
+[^34]: A 14. § (5) bekezdése a 47/2013. (II. 20.) Korm. rendelet 3. §-ával megállapított, a 47. § (5) bekezdése szerint módosított szöveg.

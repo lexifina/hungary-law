@@ -17,4 +17,4 @@ d)[^73] nem nyújtott be jelentkezési kérelmet.
 [^70]: A 44. § (3) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 24. § n) pontja szerint módosított szöveg.
 [^71]: A 44. § (4) bekezdés a) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
 [^72]: A 44. § (4) bekezdés b) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
-[^73]: A 44. § (4) bekezdés d) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
+[^73]: A 44. § (4) bekezdés d) az 502/2013. (XII. 29.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
