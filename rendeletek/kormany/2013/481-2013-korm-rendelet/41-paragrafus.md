@@ -2,9 +2,9 @@
 
 ## 41. § A NeKI alaptevékenysége körében
 
-1–2.[^45]
+1–2.[^46]
 
-3.[^46] ellátja a miniszter által meghatározottak szerint az Országos Környezeti Kármentesítési Programmal kapcsolatos országos jelentőségű szakmai feladatokat, illetve a jogszabályokban a NeKI feladataként nevesített egyedi kármentesítési feladatokat;
+3.[^47] ellátja a miniszter által meghatározottak szerint az Országos Környezeti Kármentesítési Programmal kapcsolatos országos jelentőségű szakmai feladatokat, illetve a jogszabályokban a NeKI feladataként nevesített egyedi kármentesítési feladatokat;
 
 4. részt vesz az ágazati koncepciók szakmai megalapozásában;
 
@@ -44,10 +44,10 @@
 
 22. végzi a környezet állapotának és használatának figyelemmel kísérése céljából működtetett monitoring rendszerek szakmai támogatását, az adatok megbízhatóságának növelését, a környezetvédelmi laboratóriumok tevékenységének szakmai koordinációját;
 
-23.[^47] a természetvédelem területén közreműködik a természeti értékek és természetvédelmi oltalom alatt álló területek monitorozásában, valamint a botanikai, zoológiai kutatásokhoz kapcsolódó, a természetvédelemhez szükséges országos adatgyűjtésben, a megalapozó adatokat és információkat gyűjtő, rendszerező, elemző és szolgáltató tevékenységekben, továbbá más, uniós irányelvek és nemzetközi egyezmények által igényelt tevékenységekben, a jelentések előkészítésében, valamint együttműködik az információs rendszerek adataira támaszkodó elemzések módszereinek fejlesztésében, a modellezések megvalósításában;
+23.[^48] a természetvédelem területén közreműködik a természeti értékek és természetvédelmi oltalom alatt álló területek monitorozásában, valamint a botanikai, zoológiai kutatásokhoz kapcsolódó, a természetvédelemhez szükséges országos adatgyűjtésben, a megalapozó adatokat és információkat gyűjtő, rendszerező, elemző és szolgáltató tevékenységekben, továbbá más, uniós irányelvek és nemzetközi egyezmények által igényelt tevékenységekben, a jelentések előkészítésében, valamint együttműködik az információs rendszerek adataira támaszkodó elemzések módszereinek fejlesztésében, a modellezések megvalósításában;
 
 24. ellátja az egyéb, jogszabály vagy a miniszter által a feladatkörébe utalt feladatokat.
 
-[^45]: A 41. § 1–2. pontját a 221/2014. (IX. 4.) Korm. rendelet 786. § (2) bekezdése hatályon kívül helyezte.
-[^46]: A 41. § 3. pontja a 221/2014. (IX. 4.) Korm. rendelet 782. §-ával megállapított szöveg.
-[^47]: A 41. § 23. pontja a 221/2014. (IX. 4.) Korm. rendelet 785. § f) pontja szerint módosított szöveg.
+[^46]: A 41. § 1–2. pontját a 221/2014. (IX. 4.) Korm. rendelet 786. § (2) bekezdése hatályon kívül helyezte.
+[^47]: A 41. § 3. pontja a 221/2014. (IX. 4.) Korm. rendelet 782. §-ával megállapított szöveg.
+[^48]: A 41. § 23. pontja a 221/2014. (IX. 4.) Korm. rendelet 785. § f) pontja szerint módosított szöveg.

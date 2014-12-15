@@ -8,7 +8,7 @@
 
 ## 4. Dél-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség, Pécs
 
-## 5.[^55] Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség, Veresegyház
+## 5.[^56] Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség, Veresegyház
 
 ## 6. Tiszántúli Környezetvédelmi és Természetvédelmi Felügyelőség, Debrecen
 
@@ -34,7 +34,7 @@
 
 ## 3. Dél-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség, Pécs
 
-## 4.[^56] Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség, Veresegyház
+## 4.[^57] Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség, Veresegyház
 
 ## 5. Tiszántúli Környezetvédelmi és Természetvédelmi Felügyelőség, Debrecen
 
@@ -940,8 +940,8 @@
 
 ## Szeged, Kecskemét, Hódmezővásárhely megyei jogú városok, Csongrád, Bács-Kiskun megye, az illetékességi területén működő települési önkormányzatok és más hatóságok.
 
-2. melléklet a 481/2013. (XII. 17.) Korm. rendelethez[^57]
+2. melléklet a 481/2013. (XII. 17.) Korm. rendelethez[^58]
 
-[^55]: Az 1. melléklet I. pont 5. alpontja a 42/2014. (II. 24.) Korm. rendelet 19. § (4) bekezdése b) pontja szerint módosított szöveg.
-[^56]: Az 1. melléklet III. pont 4. alpontja a 221/2014. (IX. 4.) Korm. rendelet 785. § h) pontja szerint módosított szöveg.
-[^57]: A 2. mellékletet a 221/2014. (IX. 4.) Korm. rendelet 786. § (2) bekezdése hatályon kívül helyezte.
+[^56]: Az 1. melléklet I. pont 5. alpontja a 42/2014. (II. 24.) Korm. rendelet 19. § (4) bekezdése b) pontja szerint módosított szöveg.
+[^57]: Az 1. melléklet III. pont 4. alpontja a 221/2014. (IX. 4.) Korm. rendelet 785. § h) pontja szerint módosított szöveg.
+[^58]: A 2. mellékletet a 221/2014. (IX. 4.) Korm. rendelet 786. § (2) bekezdése hatályon kívül helyezte.

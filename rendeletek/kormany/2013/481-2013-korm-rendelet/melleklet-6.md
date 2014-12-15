@@ -28,7 +28,7 @@
 
 | 12. | Ha a kérelem a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló kormányrendelet szerinti országos vagy térségi jelentőségű műszaki infrastruktúra hálózatok és egyedi építmények megvalósítására, valamint azok jelentős módosítására irányul. | A területrendezési tervekkel való összhang tekintetében. | állami főépítész | területrendezésért felelős miniszter |
 
-6. melléklet a 481/2013. (XI. 17.) Korm. rendelethez[^59]
+6. melléklet a 481/2013. (XI. 17.) Korm. rendelethez[^60]
 
 A felügyelőség nem veszélyes hulladék kereskedelme, közvetítése, szállítása, gyűjtése, előkezelése, tárolása, hasznosítása, ártalmatlanítása engedélyezése iránti eljárásában közreműködő szakhatóságok
 
@@ -46,4 +46,4 @@ A felügyelőség nem veszélyes hulladék kereskedelme, közvetítése, száll�
 
 | 6. | Nyilvántartott ásványi nyersanyag lelőhely, bányatelek érintettsége, ásványi nyersanyag kitermelése és annak használata, értékesítése, hasznosítása esetén | Földtani környezet, földtani veszélyforrások, földtani gátak és az ásványvagyon- védelem értékelése, a fizetendő bányajáradék mértékének meghatározása, az építésföldtani megalapozottság vizsgálata, a földtani veszélyeztetettség vizsgálata, figyelemmel a vízzáró rétegre, a felszínen folyásra alkalmas képződmények meglétére, tektonikai jelenségekre (vetők, csúszásra alkalmas felületek), védelemre érdemes földtani képződményekre, a felszínmozgás veszélyeztetésének vizsgálata. | bányakapitányság | Magyar Bányászati és Földtani Hivatal | NEM | IGEN | IGEN |
 
-[^59]: A 6. melléklet a 221/2014. (IX. 4.) Korm. rendelet 785. § k)–m) pontja szerint módosított szöveg.
+[^60]: A 6. melléklet a 221/2014. (IX. 4.) Korm. rendelet 785. § k)–m) pontja szerint módosított szöveg.

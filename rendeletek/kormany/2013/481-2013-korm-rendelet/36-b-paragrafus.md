@@ -1,0 +1,1 @@
+## felmentés megadása iránti elsőfokú eljárásában – az emberi egészségre gyakorolt hatások megítélése kérdésében – a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetét, a másodfokú eljárásban a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét szakhatóságként jelöli ki.
