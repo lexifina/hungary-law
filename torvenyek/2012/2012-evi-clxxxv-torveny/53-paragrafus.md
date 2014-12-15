@@ -16,6 +16,8 @@ e) a lomtalanítással kapcsolatos adatokat, információkat, valamint
 
 f) az alvállalkozóra vonatkozó közérdekű adatokat – ha a közszolgáltató alvállalkozót alkalmaz –
 
+g) az általa megkötött hulladékgazdálkodási közszolgáltatási szerződést és annak módosítását
+
 az ügyfélszolgálatán és a honlapján mindenki számára ingyenesen hozzáférhetővé teszi.
 
 (3) A közszolgáltató az elkülönített hulladékgyűjtés ösztönzése érdekében a lakosságot az elkülönített hulladékgyűjtés feltételeiről a közszolgáltató hulladékgazdálkodási tevékenységéről és a hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló kormányrendeletben meghatározott módon tájékoztatja.
