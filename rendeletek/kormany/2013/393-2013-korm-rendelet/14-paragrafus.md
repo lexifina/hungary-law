@@ -1,4 +1,4 @@
-14. § (1) A képzési program előzetes minősítését olyan felnőttképzési szakértő vagy felnőttképzési programszakértő (a továbbiakban együtt: szakértő) végezheti, aki szerepel az NMH által vezetett ajánlási listán. Az ajánlási listára az NMH – az FSZB javaslata alapján – a szakértőnek az FSZB előzetes értesítése alapján benyújtott kérelmére azt a szakértőt veszi fel, akinek a felnőttképzési szakértői vagy felnőttképzési programszakértői nyilvántartásban szereplő szakterülete igazodik a képzési program szakmai tartalmához és
+14. § (1)[^25] A képzési program előzetes minősítését olyan felnőttképzési szakértő vagy felnőttképzési programszakértő (a továbbiakban együtt: szakértő) végezheti, aki szerepel az NSZFH által vezetett ajánlási listán. Az ajánlási listára az NSZFH – az FSZB javaslata alapján – a szakértőnek az FSZB előzetes értesítése alapján benyújtott kérelmére azt a szakértőt veszi fel, akinek a felnőttképzési szakértői vagy felnőttképzési programszakértői nyilvántartásban szereplő szakterülete igazodik a képzési program szakmai tartalmához és
 
 a) felnőttképzési minőségbiztosítás területen szerzett 5 éves szakmai gyakorlattal, vagy felnőttképzési oktatási, gyakorlatvezetési, oktatásszervezési, mérési-értékelési területek valamelyikén szerzett 5 éves szakmai gyakorlattal rendelkezik, vagy
 
@@ -23,3 +23,5 @@ cc) az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési kör esetén a fel
 (4) A szakértőnek a képzési program minősítését úgy kell elvégeznie, hogy a képzési program utolsó oldalán fel kell tüntetnie a minősítés helyét, időpontját, a felnőttképzési szakértői vagy a felnőttképzési programszakértői nyilvántartásban szereplő nyilvántartási számát, valamint a képzési program mindegyik oldalát a szignójával, utolsó oldalát az aláírásával kell ellátnia. A képzési program minősítését követően a szakértő a képzési programmal kapcsolatban további – az előzetes minősítést érintő, azt módosító vagy kiegészítő – megállapításokat nem tehet.
 
 (5) Az előzetesen minősített képzési programot a felnőttképzést folytató intézmény képviseletére jogosult személynek és a szakmai vezetőnek – a képzési program utolsó oldalán – alá kell írnia.
+
+[^25]: A 14. § (1) bekezdés nyitó szövegrésze a 318/2014. (XII. 13.) Korm. rendelet 24. § d) pontja szerint módosított szöveg.

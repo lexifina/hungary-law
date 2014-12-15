@@ -6,7 +6,7 @@ b) az Fktv. 1. § (2) bekezdés b) pontja szerinti képzési körben olyan szakm
 
 c) az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körben új általános nyelvi képzésre, az engedélyben szereplő általános nyelvi képzés képzési szintjének bővítésére, vagy olyan egyéb nyelvi képzésre, amelynek célja a képző intézmény általános nyelvi képzésre kiadott engedélyében nem szereplő nyelv oktatása.
 
-(2) A felnőttképzést folytató intézmény bejelentése alapján az NMH az engedélyt kiegészíti, ha a bejelentésben megjelölt,
+(2)[^3] A felnőttképzést folytató intézmény bejelentése alapján az NSZFH az engedélyt kiegészíti, ha a bejelentésben megjelölt,
 
 a) az Fktv. 1. § (2) bekezdés a) pontja szerinti képzési körbe tartozó képzés az engedélyben már szereplő, iskolai rendszerben is folytatható szakképzés szakmacsoportjába tartozó képzés;
 
@@ -15,3 +15,5 @@ b) az Fktv. 1. § (2) bekezdés b) pontja szerinti képzési körbe tartozó ké
 c) az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körbe tartozó képzés olyan egyéb nyelvi képzés, amely annak a nyelvnek az oktatására irányul, amely nyelv általános nyelvi képzése szerepel a felnőttképzést folytató intézmény engedélyében; vagy
 
 d) az Fktv. 1. § (2) bekezdés d) pontja szerinti képzési körbe tartozó képzés esetén a felnőttképzést folytató intézmény a képzési körre vonatkozóan már rendelkezik engedéllyel.
+
+[^3]: A 3. § (2) bekezdés nyitó szövegrésze a 318/2014. (XII. 13.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.

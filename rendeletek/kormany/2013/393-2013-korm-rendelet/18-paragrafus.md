@@ -1,6 +1,6 @@
 ## 4. Vagyoni biztosíték
 
-18. § (1) A felnőttképzést folytató intézménynek vagyoni biztosítékkal kell rendelkeznie az engedélyezett felnőttképzési tevékenysége folytatásának teljes időtartamára és a felnőttképzési tevékenysége megszűnését követő hat hónapig az előlegként befizetett képzési díj azon részének a visszafizetése céljából, amelyre a képzés bármely okból történő ellehetetlenülése miatt az intézmény már nem nyújtott szolgáltatást. A vagyoni biztosíték felhasználásához és megszüntetéséhez az NMH jóváhagyása szükséges.
+18. § (1)[^30] A felnőttképzést folytató intézménynek vagyoni biztosítékkal kell rendelkeznie az engedélyezett felnőttképzési tevékenysége folytatásának teljes időtartamára és a felnőttképzési tevékenysége megszűnését követő hat hónapig az előlegként befizetett képzési díj azon részének a visszafizetése céljából, amelyre a képzés bármely okból történő ellehetetlenülése miatt az intézmény már nem nyújtott szolgáltatást. A vagyoni biztosíték felhasználásához és megszüntetéséhez az NSZFH jóváhagyása szükséges.
 
 (2) A vagyoni biztosíték formája lehet:
 
@@ -14,12 +14,16 @@ b) a felnőttképzést folytató intézmény által hitelintézetnél lekötött
 
 (5) A (4) bekezdés szerinti szerződésnek tartalmaznia kell azt a kikötést, hogy
 
-a) a vagyoni biztosíték felhasználásához vagy megszüntetéséhez az NMH jóváhagyása szükséges, és a vagyoni biztosíték terhére teljesített kifizetés teljesítési időpontját a hitelintézet vagy a biztosító intézet – a kifizetést követő tizenöt napon belül – írásban közli az NMH-val,
+a)[^31] a vagyoni biztosíték felhasználásához vagy megszüntetéséhez az NSZFH jóváhagyása szükséges, és a vagyoni biztosíték terhére teljesített kifizetés teljesítési időpontját a hitelintézet vagy a biztosító intézet – a kifizetést követő tizenöt napon belül – írásban közli az NSZFH-val,
 
-b) ha a felnőttképzést folytató intézmény
+b)[^32] ha a felnőttképzést folytató intézmény
 
 ba) a 20. § (1) bekezdésében foglalt bejelentési kötelezettségének nem tesz eleget,
 
 bb) a bejelentéséhez nem mellékeli a 20. § (2) bekezdése szerinti kimutatást, vagy
 
 bc) a 20. § (6) bekezdésében foglaltak szerint nem tesz eleget a képzési díjnak a vagyoni biztosíték terhére történő visszafizetésére vonatkozó kötelezettségének,
+
+[^30]: A 18. § (1) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^31]: A 18. § (5) bekezdés a) pontja a 318/2014. (XII. 13.) Korm. rendelet 24. § b) és e) pontja szerint módosított szöveg.
+[^32]: A 18. § (5) bekezdés b) pont záró szövegrésze a 318/2014. (XII. 13.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-26. § (1) Az NMH az ellenőrzési eljárás megindításakor – kivéve, ha az ellenőrzés során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 57. § (2) bekezdésének alkalmazására kerül sor – kötelezi az ellenőrzésre kerülő, felnőttképzést folytató intézményt az engedélyezett képzéseihez kidolgozott, az engedély kiadása után megváltoztatott képzési programjai benyújtására, amelyeket az intézménynek a felhívástól számított három napon belül kell az NMH számára megküldenie.
+26. § (1)[^50] Az NSZFH az ellenőrzési eljárás megindításakor – kivéve, ha az ellenőrzés során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 57. § (2) bekezdésének alkalmazására kerül sor – kötelezi az ellenőrzésre kerülő, felnőttképzést folytató intézményt az engedélyezett képzéseihez kidolgozott, az engedély kiadása után megváltoztatott képzési programjai benyújtására, amelyeket az intézménynek a felhívástól számított három napon belül kell az NSZFH számára megküldenie.
 
 (2) A szakértő az ellenőrzési eljárás során a felnőttképzést folytató intézménynél helyszíni szemlét tart. A helyszíni szemle időpontjáról szóló értesítésben a felnőttképzést folytató intézményt fel kell hívni a szakértővel való együttműködés kötelezettségére, valamint az együttműködés hiányának jogkövetkezményeire, kivéve, ha – a Ket. 57. § (2) bekezdésének alkalmazása esetén – a helyszíni szemlét előzetes értesítés nélkül kell lefolytatni.
 
@@ -29,3 +29,5 @@ k) működtet-e ügyfélszolgálati és panaszkezelési rendszert,
 l) rendelkezik-e a felnőttképzési minőségbiztosítási keretrendszerről, valamint a Felnőttképzési Szakértői Bizottság tagjairól, feladatairól és működésének részletes szabályairól szóló miniszteri rendelet szerint működtetett minőségbiztosítási rendszer dokumentumaival, és kétévente elvégeztette-e annak kötelező külső értékelését, valamint
 
 m) rendelkezik-e az e rendeletben foglaltak szerinti vagyoni biztosítékkal.
+
+[^50]: A 26. § (1) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 24. § d) pontja szerint módosított szöveg.

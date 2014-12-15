@@ -2,7 +2,7 @@
 
 17. § (1) A felnőttképzési tevékenység folytatására irányuló engedély kiadása iránti kérelem benyújtása esetén a kérelmezőnek – a (3) bekezdésben foglalt eltéréssel – a minőségcélokat képzésenként és indokolással ellátva az alábbiak szerint kell meghatároznia:
 
-a) OKJ-ban szereplő szakképesítés megszerzésére felkészítő képzés szakmai vizsgáinak éves átlagos vizsgaeredménye szakképesítésenként az Fktv. 15. § (7) bekezdése szerinti, a kérelem benyújtásának évét (a továbbiakban: tárgyév) megelőző, az NMH honlapján nyilvánosságra hozott adatokhoz viszonyítva,
+a)[^29] OKJ-ban szereplő szakképesítés megszerzésére felkészítő képzés szakmai vizsgáinak éves átlagos vizsgaeredménye szakképesítésenként az Fktv. 15. § (7) bekezdése szerinti, a kérelem benyújtásának évét (a továbbiakban: tárgyév) megelőző, az NSZFH honlapján nyilvánosságra hozott adatokhoz viszonyítva,
 
 b) az a) pont szerinti képzések esetén a tárgyévben folyamatban lévő és a tárgyévet követő évben befejezésre kerülő, valamint a tárgyévet követő évben megvalósításra kerülő képzések becsült lemorzsolódási aránya a tárgyévet megelőző évi – az Fktv. 21. § (4) bekezdése szerinti – statisztikai célú adatszolgáltatásban foglaltak figyelembevételével számított, e képzésekre vonatkozó adatokhoz viszonyítva, és
 
@@ -21,3 +21,5 @@ b) az a) pontba nem sorolható képzések vonatkozásában az (1) bekezdés b) �
 foglalt rendelkezéseket kell értelemszerűen alkalmaznia.
 
 (5) A felnőttképzést folytató intézmény az Fktv. 14. § (2) bekezdés szerinti külső értékelését olyan jogi személlyel végeztetheti el, amelynek az FSZB-hez benyújtott minőségbiztosítási rendszere – a felnőttképzési minőségbiztosítási keretrendszerről, valamint a Felnőttképzési Szakértői Bizottság tagjairól, feladatairól és működésének részletes szabályairól szóló miniszteri rendeletben meghatározott keretrendszernek való – megfeleltethetőségéről és a felnőttképzést folytató intézményeknél történő alkalmazhatóságáról a miniszter döntött.
+
+[^29]: A 17. § (1) bekezdés a) pontja a 318/2014. (XII. 13.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
