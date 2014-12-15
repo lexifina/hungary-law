@@ -2,7 +2,7 @@
 
 ## a) M7 autópálya teljes hosszában,
 
-## b) 2. sz. főút Budapesttől Parassapusztáig,
+## b)[^8] 2. sz. főút Budapesttől a 2 sz. főút 39+150 km szelvényéig és az M2 autóút 2. és 12. sz. főúti csomópontjától a 2. sz. főút Parassapusztáig,
 
 ## c) 2/A autóút teljes hosszában,
 
@@ -52,7 +52,7 @@ a nehéz tehergépkocsik közlekedésének korlátozásáról szóló
 
 meghatározott közlekedési korlátozás alóli mentességről
 
-1. A mentesség igénybevételére a rendelet 5. § (2) bekezdés 2., 3., 5., 8., 10. pontjában* meghatározott szállítás alapján kerül sor.
+1. A mentesség igénybevételére a rendelet 5. § (2) bekezdés 2., 3., 5., 9., 12. pontjában* meghatározott szállítás alapján kerül sor.
 
 2. A tehergépkocsi üzemben tartójának neve és címe:
 
@@ -80,4 +80,5 @@ ___________
 
 2. A nyilatkozatot a gépjármű vezetője köteles magánál tartani és az ellenőrzésre jogosult hatóság részére felmutatni.
 
-[^9]: A 4. melléklet a 280/2010. (XII. 15.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^8]: A 3. melléklet b) pontja a 297/2014. (XII. 3.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^9]: A 4. melléklet a 280/2010. (XII. 15.) Korm. rendelet 4. § (3) bekezdése, a 297/2014. (XII. 3.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
