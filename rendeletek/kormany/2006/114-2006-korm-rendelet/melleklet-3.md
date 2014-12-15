@@ -30,7 +30,7 @@
 
 ## 1. A felszámoló szervezet közreműködésével lefolytatott eljárások száma:
 
-## 1.1.[^67] a tárgyidőszak végén folyamatban lévő csődeljárások, felszámolási eljárások és más bírósági nemperes eljárások száma, amelyben a felszámoló szervezetet a bíróság kirendelte,
+## 1.1.[^68] a tárgyidőszak végén folyamatban lévő csődeljárások, felszámolási eljárások és más bírósági nemperes eljárások száma, amelyben a felszámoló szervezetet a bíróság kirendelte,
 
 ## 1.2. a tárgyidőszakban jogerősen befejezett ügyek száma és átlagos időtartama, ezek megoszlása eljárástípusonként
 
@@ -74,7 +74,7 @@
 
 ## 21. A tárgybeli időszakban volt-e a felszámoló szervezetnél jogerősen lezárt adóhatósági vagy más hatósági, törvényességi felügyeleti eljárás, ha igen, ezek megállapítottak-e jogszabálysértést, ezek száma, és az ügyek jellege
 
-## 22.[^68] A tárgybeli időszakban folyamatban lévő csődeljárásokban, felszámolási eljárásokban, kényszervégelszámolási eljárásokban a felszámoló szervezet által a fedezetelvonó ügyletek megtámadása érdekében, csődbűncselekmény vagy más, a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény gyanúja miatt, illetőleg az adós volt vezetői, tulajdonosai ellen indított vagy kezdeményezett eljárások (eljárástípusonként csoportosítva)
+## 22.[^69] A tárgybeli időszakban folyamatban lévő csődeljárásokban, felszámolási eljárásokban, kényszervégelszámolási eljárásokban a felszámoló szervezet által a fedezetelvonó ügyletek megtámadása érdekében, csődbűncselekmény vagy más, a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény gyanúja miatt, illetőleg az adós volt vezetői, tulajdonosai ellen indított vagy kezdeményezett eljárások (eljárástípusonként csoportosítva)
 
 ## 23. A tárgybeli időszakban azon felszámolás alatt álló adós gazdasági társaságok követeléseinek érvényesítésére vagy végrehajtásuk kezdeményezésére irányuló eljárások száma és a követelések behajtásának átlagos hányada, amelyekhez a felszámoló szervezet volt kirendelve
 
@@ -110,8 +110,8 @@
 
 ## 6. Van-e ISO minősítése, és ennek érvényessége.
 
-3. melléklet a 114/2006. (V. 12.) Korm. rendelethez[^69]
+3. melléklet a 114/2006. (V. 12.) Korm. rendelethez[^70]
 
-[^67]: A 2. melléklet II. pont 1.1. alpontja a 68/2014. (III. 13.) Korm. rendelet 4. § (5) bekezdés e) pontja szerint módosított szöveg.
-[^68]: A 2. melléklet II. pont 22. alpontja a 172/2013. (V. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^69]: A 3. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte. A 3. számú melléklet korábbi megjelölését 3. mellékletre változtatta, és újonnan a 169/2012. (VII. 20.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^68]: A 2. melléklet II. pont 1.1. alpontja a 68/2014. (III. 13.) Korm. rendelet 4. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^69]: A 2. melléklet II. pont 22. alpontja a 172/2013. (V. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^70]: A 3. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte. A 3. számú melléklet korábbi megjelölését 3. mellékletre változtatta, és újonnan a 169/2012. (VII. 20.) Korm. rendelet 9. § (3) bekezdése iktatta be.
