@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-323-20-
 | 2014-01-01 | 2011-323-20-22.12 | 445/2013. (XI. 28.) Korm. rendelet |
 | 2014-09-05 | 2011-323-20-22.13 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2014-09-10 | 2011-323-20-22.14 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2014-12-15 | 2011-323-20-22.15 | 318/2014. (XII. 13.) Korm. rendelet |

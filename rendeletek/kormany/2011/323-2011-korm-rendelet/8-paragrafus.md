@@ -1,4 +1,4 @@
-8. §[^26] (1) A munkaügyi központ
+8. §[^28] (1) A munkaügyi központ
 
 a) szakmailag irányítja és szakmailag ellenőrzi a kirendeltségek tevékenységét, ennek keretében közreműködik a munkatársak szakmai képzésében, valamint szakmai ajánlások készítésével segíti a hatósági és szolgáltató tevékenységet,
 
@@ -20,7 +20,7 @@ i) ha kormányrendelet eltérően nem rendelkezik, elbírálja másodfokon a kir
 
 j) feladatainak ellátása érdekében együttműködik a helyi önkormányzatokkal, valamint az országos és helyi nemzetiségi önkormányzatokkal, továbbá más hatóságokkal és egyéb szervezetekkel, ennek keretében szakmailag irányítja és koordinálja a kirendeltségeknek a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényből adódó feladatainak végrehajtását, továbbá adatszolgáltatási feladatokat teljesít a fővárosi és megyei kormányhivatal, valamint az egyes szakigazgatási szervek felé, ideértve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alapján történő megtérítési igények érvényesítéséhez szükséges, havi rendszerességgel esedékes adatszolgáltatást is,
 
-k)[^27]
+k)[^29]
 
 l) ellátja az EURES-sel kapcsolatos szervezési, tanácsadási és koordinációs feladatokat, valamint kapcsolatot tart a munkaerő-piaci szereplőkkel,
 
@@ -28,15 +28,15 @@ m) elkészíti a munkaügyi központ és a kirendeltség belső szakmai szabály
 
 n) illetékességi területén ellátja a munkaerő-piaci ellenőrzéssel kapcsolatos feladatokat,
 
-o)[^28] az álláskeresési ellátások és a foglalkoztatást elősegítő támogatások tekintetében méltányossági jogkört gyakorol,
+o)[^30] az álláskeresési ellátások és a foglalkoztatást elősegítő támogatások tekintetében méltányossági jogkört gyakorol,
 
-p)[^29] a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével összefüggésben befogadja a foglalkoztató által benyújtott munkaerőigényeket.
+p)[^31] a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével összefüggésben befogadja a foglalkoztató által benyújtott munkaerőigényeket.
 
-(1a)[^30] A munkaügyi központ fővárosi szervezete nyilvántartja a csoportos létszámleépítésre vonatkozó bejelentéseket.
+(1a)[^32] A munkaügyi központ fővárosi szervezete nyilvántartja a csoportos létszámleépítésre vonatkozó bejelentéseket.
 
-(2)[^31] A hatósági szerződések megkötése, módosítása és megszüntetése, továbbá a költségvetésből nyújtott támogatás biztosítékául szolgáló zálogjog, garanciaszerződés, óvadék tekintetében a munkaügyi központ vezetője szerződéskötési képességgel rendelkezik.
+(2)[^33] A hatósági szerződések megkötése, módosítása és megszüntetése, továbbá a költségvetésből nyújtott támogatás biztosítékául szolgáló zálogjog, garanciaszerződés, óvadék tekintetében a munkaügyi központ vezetője szerződéskötési képességgel rendelkezik.
 
-(3)[^32] A munkaügyi központ közfoglalkoztatási feladatai körében
+(3)[^34] A munkaügyi központ közfoglalkoztatási feladatai körében
 
 a) szakmailag irányítja és szakmailag ellenőrzi a kirendeltségek tevékenységét, ennek keretében közreműködik a munkatársak szakmai képzésében, valamint szakmai ajánlások készítésével segíti a hatósági és szolgáltató tevékenységet,
 
@@ -78,7 +78,7 @@ la) gondoskodik a rendszer szakmai működtetéséről, valamint koordinálja a 
 
 lb) ellátja azokat a feladatokat, amelyeket nem a kirendeltségek látnak el.
 
-(4)[^33] A munkaügyi központ át nem ruházható hatáskörben a külön jogszabályban meghatározott illetékességi területén első fokú hatósági jogkört gyakorol
+(4)[^35] A munkaügyi központ át nem ruházható hatáskörben a külön jogszabályban meghatározott illetékességi területén első fokú hatósági jogkört gyakorol
 
 a) a munkaerő-piaci program kidolgozásának, megvalósításának megállapításával,
 
@@ -88,13 +88,13 @@ c) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról 
 
 d) a bérgarancia támogatással,
 
-e)[^34] a nem összevont kérelmezési eljárás alapján kiadott tartózkodásra jogosító engedélyt kérelmező harmadik országbeli állampolgár magyarországi foglalkoztatásához szükséges munkavállalási engedély, valamint az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott összevont kérelmezési eljárás alapján kiadott tartózkodási engedélyhez szükséges szakhatósági állásfoglalás kiadásával kapcsolatos ügyekben,
+e)[^36] a nem összevont kérelmezési eljárás alapján kiadott tartózkodásra jogosító engedélyt kérelmező harmadik országbeli állampolgár magyarországi foglalkoztatásához szükséges munkavállalási engedély, valamint az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott összevont kérelmezési eljárás alapján kiadott tartózkodási engedélyhez szükséges szakhatósági állásfoglalás kiadásával kapcsolatos ügyekben,
 
 f) a rendbírsággal, valamint
 
 g) a munkaügyi központ hatáskörébe utalt nyilvántartásba vétellel,
 
-h)[^35] az álláskeresők vállalkozóvá válását elősegítő támogatás tőkejuttatás részével,
+h)[^37] az álláskeresők vállalkozóvá válását elősegítő támogatás tőkejuttatás részével,
 
 ## kapcsolatos ügyekben.
 
@@ -102,18 +102,18 @@ h)[^35] az álláskeresők vállalkozóvá válását elősegítő támogatás t
 
 (6) A munkaügyi központ a szolgáltatási feladatok ellátásának keretében
 
-a)[^36] gondoskodik a szolgáltatási rendszer szakmai működtetéséről, valamint koordinálja a kirendeltségek szolgáltatási tevékenységét, munkaerő-piaci szolgáltatásokat szervez és működteti a szolgáltatások kiépített intézményrendszerét,
+a)[^38] gondoskodik a szolgáltatási rendszer szakmai működtetéséről, valamint koordinálja a kirendeltségek szolgáltatási tevékenységét, munkaerő-piaci szolgáltatásokat szervez és működteti a szolgáltatások kiépített intézményrendszerét,
 
 b) ellátja azokat a munkaerő-piaci szolgáltatásokkal kapcsolatos feladatokat, amelyeket nem a kirendeltség lát el.
 
-[^26]: A 8. § a 174/2012. (VII. 26.) Korm. rendelet 89. § (9) bekezdésével megállapított szöveg.
-[^27]: A 8. § (1) bekezdés k) pontját a 393/2013. (XI. 12.) Korm. rendelet 40. § j) pont ja) alpontja hatályon kívül helyezte.
-[^28]: A 8. § (1) bekezdés o) pontját a 265/2013. (VII. 11.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^29]: A 8. § (1) bekezdés p) pontját a 265/2013. (VII. 11.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^30]: A 8. § (1a) bekezdését a 7/2013. (I. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^31]: A 8. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 612. § b) pontja szerint módosított szöveg.
-[^32]: A 8. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 609. §-ával megállapított szöveg.
-[^33]: A 8. § (4) bekezdése a 103/2013. (IV. 5.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^34]: A 8. § (4) bekezdés e) pontja a 445/2013. (XI. 28.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
-[^35]: A 8. § (4) bekezdés h) pontját a 265/2013. (VII. 11.) Korm. rendelet 4. § (4) bekezdése iktatta be.
-[^36]: A 8. § (6) bekezdés a) pontja a 7/2013. (I. 18.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^28]: A 8. § a 174/2012. (VII. 26.) Korm. rendelet 89. § (9) bekezdésével megállapított szöveg.
+[^29]: A 8. § (1) bekezdés k) pontját a 393/2013. (XI. 12.) Korm. rendelet 40. § j) pont ja) alpontja hatályon kívül helyezte.
+[^30]: A 8. § (1) bekezdés o) pontját a 265/2013. (VII. 11.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^31]: A 8. § (1) bekezdés p) pontját a 265/2013. (VII. 11.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^32]: A 8. § (1a) bekezdését a 7/2013. (I. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^33]: A 8. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 612. § b) pontja szerint módosított szöveg.
+[^34]: A 8. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 609. §-ával megállapított szöveg.
+[^35]: A 8. § (4) bekezdése a 103/2013. (IV. 5.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^36]: A 8. § (4) bekezdés e) pontja a 445/2013. (XI. 28.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^37]: A 8. § (4) bekezdés h) pontját a 265/2013. (VII. 11.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^38]: A 8. § (6) bekezdés a) pontja a 7/2013. (I. 18.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

@@ -1,4 +1,6 @@
-## IV/A. Fejezet[^70]
+## 21–23. §
+
+## IV/A. Fejezet[^54]
 
 ## A KÖZFOGLALKOZTATÁSÉRT FELELŐS MINISZTER FELADATAI
 
@@ -80,4 +82,4 @@ b) az a) pontban meghatározott informatikai rendszerekkel összefüggésben tel
 
 (3) A közfoglalkoztatásért felelős miniszter közreműködik az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes közfoglalkoztatáshoz kapcsolódó képzési programok megvalósításának tervezésében és szervezésében.
 
-[^70]: A IV. Fejezetet (23/A. §) a 221/2014. (IX. 4.) Korm. rendelet 611. §-a iktatta be.
+[^54]: A IV. Fejezetet (23/A. §) a 221/2014. (IX. 4.) Korm. rendelet 611. §-a iktatta be.

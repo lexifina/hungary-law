@@ -1,3 +1,5 @@
+## 12. §
+
 ## 9. A munkavédelmi és munkaügyi igazgatóság munkavédelmi állami feladatai
 
 13. § (1) A munkavédelmi és munkaügyi igazgatóság ellátja a munkavédelem nemzetgazdasági szintű irányításával kapcsolatos feladatokat. A munkavédelmi és munkaügyi igazgatóság saját jogkörében kezdeményezi, előkészíti és elősegíti az Mvt. 14. §-ában meghatározott állami irányítási feladatok végrehajtását.
