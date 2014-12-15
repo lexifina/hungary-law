@@ -1,4 +1,4 @@
-6/A. §[^29] (1)[^30] A GET 141/C. §-a alapján felajánlott forrás esetében az egyetemes szolgáltatási engedéllyel nem rendelkező volt közüzemi nagykereskedő a GET 141/C. § (2) bekezdése szerinti földgázkereskedővel szemben az alábbi díjakat jogosult érvényesíteni – ide nem értve a vámot, adókat, illetékeket, a szerződés szerinti pótdíjakat és szerződésszegési következményeket –:
+6/A. §[^30] (1)[^31] A GET 141/C. §-a alapján felajánlott forrás esetében az egyetemes szolgáltatási engedéllyel nem rendelkező volt közüzemi nagykereskedő a GET 141/C. § (2) bekezdése szerinti földgázkereskedővel szemben az alábbi díjakat jogosult érvényesíteni – ide nem értve a vámot, adókat, illetékeket, a szerződés szerinti pótdíjakat és szerződésszegési következményeket –:
 
 a) a földgázforrásnak a 10. melléklet szerinti árát,
 
@@ -16,5 +16,5 @@ b) az árképzési rendelet 3. § (1) bekezdés d) pontja szerinti díjra vonatk
 
 (3) A GET 141/C. § (2) bekezdése szerinti földgázkereskedő a GET 141/C. § (4) bekezdése szerint ellátott felhasználói tekintetében a MEKH rendelet szerinti földgázelosztási díjjal megegyező földgázelosztási díjat és legfeljebb az árképzési rendelet 2. § (1) bekezdés a) pontja szerinti egyetemes szolgáltatói árréssel megegyező árrést alkalmazhat.
 
-[^29]: A 6/A. §-t újonnan a 14/2014. (III. 31.) NFM rendelet 7. §-a iktatta be.
-[^30]: A 6/A. § (1) bekezdése a 43/2014. (X. 18.) NFM rendelet 6. §-ával megállapított szöveg.
+[^30]: A 6/A. §-t újonnan a 14/2014. (III. 31.) NFM rendelet 7. §-a iktatta be.
+[^31]: A 6/A. § (1) bekezdése a 43/2014. (X. 18.) NFM rendelet 6. §-ával megállapított szöveg.

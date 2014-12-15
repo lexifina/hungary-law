@@ -22,6 +22,6 @@
 
 | 4. | FŐGÁZ Zrt. | 3956 | 2,122 |
 
-3. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^37]
+3. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^38]
 
-[^37]: A 3. melléklet a 39/2014. (IX. 30.) NFM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^38]: A 3. melléklet a 39/2014. (IX. 30.) NFM rendelet 5. § (2) bekezdésével megállapított szöveg.

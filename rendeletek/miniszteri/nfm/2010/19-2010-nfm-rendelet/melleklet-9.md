@@ -4,6 +4,6 @@
 
 | 1. | az árban érvényesíthető legmagasabb szállítási és tárolási fajlagos értékek összege: | 0,157 Ft/MJ |
 
-9. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^43]
+9. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^44]
 
-[^43]: A 9. mellékletet a 39/2014. (IX. 30.) NFM rendelet 5. § (8) bekezdése iktatta be.
+[^44]: A 9. mellékletet a 39/2014. (IX. 30.) NFM rendelet 5. § (8) bekezdése iktatta be.

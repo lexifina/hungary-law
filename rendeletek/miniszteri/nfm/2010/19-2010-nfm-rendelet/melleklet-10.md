@@ -12,7 +12,7 @@
 
 | 4. | GDF SUEZ Energia Magyarország Zrt. | 3385 | 4701 | 11,700 |
 
-10. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^44]
+10. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^45]
 
 A 2/B. § szerinti földgázforrás ára 2014. negyedik negyedévre
 
@@ -32,4 +32,4 @@ A 2/B. § szerinti földgázforrás ára 2014. negyedik negyedévre
 
 |  | 2. | – | – |
 
-[^44]: A 10. mellékletet a 43/2014. (X. 18.) NFM rendelet 7. §-a iktatta be.
+[^45]: A 10. mellékletet a 43/2014. (X. 18.) NFM rendelet 7. §-a iktatta be.
