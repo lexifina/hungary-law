@@ -1,4 +1,4 @@
-## 10. §[^3]
+## 10. §[^5]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 4–10. § 2015. január 1-jén lép hatályba.
 
-[^3]: A 10. § a 11. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^5]: A 10. § a 11. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
