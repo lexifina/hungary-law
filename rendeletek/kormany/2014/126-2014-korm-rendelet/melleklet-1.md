@@ -4,20 +4,20 @@ A 2014–2020-as időszakban a transznacionális és interregionális együttmű
 
 |  | A | B | C | D | E | F | G |
 
-| 1 |  | Duna transznacionális együttműködési program | Közép-európai transznacionális együttműködési program | INTERREG EUROPE interregionális együttműködési program | INTERACT III interregionális együttműködési program | ESPON 2020 interregionális együttműködési program | URBACT III interregionális együttműködési program |
+| 1. |  | Duna transznacionális együttműködési program | Közép-európai transznacionális együttműködési program | INTERREG EUROPE interregionális együttműködési program | INTERACT III interregionális együttműködési program | ESPON 2020 interregionális együttműködési program | URBACT III interregionális együttműködési program |
 
-| 2 | irányító hatóság és közös titkárság | Nemzetgazdasági Tervezési Hivatal önálló szervezeti egysége | – | – | – | – | – |
+| 2. | irányító hatóság és közös titkárság | Nemzetgazdasági Minisztérium szervezeti egysége | – | – | – | – | – |
 
-| 3 | igazoló hatóság | Magyar Államkincstár | – | – | – | – | – |
+| 3. | igazoló hatóság | Magyar Államkincstár | – | – | – | – | – |
 
-| 4 | ellenőrzési hatóság | Európai Támogatásokat Auditáló Főigazgatóság | – | – | – | – | – |
+| 4. | ellenőrzési hatóság | Európai Támogatásokat Auditáló Főigazgatóság | – | – | – | – | – |
 
-| 5 | ellenőri csoport magyar tagja | – | Európai Támogatásokat Auditáló Főigazgatóság | Európai Támogatásokat Auditáló Főigazgatóság | Európai Támogatásokat Auditáló Főigazgatóság | Európai Támogatásokat Auditáló Főigazgatóság | Európai Támogatásokat Auditáló Főigazgatóság |
+| 5. | ellenőri csoport magyar tagja | – | Európai Támogatásokat Auditáló Főigazgatóság | Európai Támogatásokat Auditáló Főigazgatóság | Európai Támogatásokat Auditáló Főigazgatóság | Európai Támogatásokat Auditáló Főigazgatóság | Európai Támogatásokat Auditáló Főigazgatóság |
 
-| 6 | nemzeti kapcsolattartó pont | Nemzetgazdasági Tervezési Hivatal | Nemzetgazdasági Tervezési Hivatal | Nemzetgazdasági Tervezési Hivatal | – | Nemzetgazdasági Tervezési Hivatal | Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
+| 6. | nemzeti kapcsolattartó pont | Nemzetgazdasági Minisztérium | Nemzetgazdasági Minisztérium | Nemzetgazdasági Minisztérium | – | Nemzetgazdasági Minisztérium | Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
-| 7 | hitelesítési tevékenységre kijelölt szervezet | Nemzetgazdasági Tervezési Hivatal | Nemzetgazdasági Tervezési Hivatal | Nemzetgazdasági Tervezési Hivatal | – | – | Nemzetgazdasági Tervezési Hivatal |
+| 7. | hitelesítési tevékenységre kijelölt szervezet | Nemzetgazdasági Minisztérium | Nemzetgazdasági Minisztérium | Nemzetgazdasági Minisztérium | – | – | Nemzetgazdasági Minisztérium |
 
-| 8 | az operatív program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás biztosítója | európai uniós források felhasználásáért felelős miniszter | európai uniós források felhasználásáért felelős miniszter | európai uniós források felhasználásáért felelős miniszter | európai uniós források felhasználásáért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | településfejlesztésért és településrendezésért felelős miniszter |
+| 8. | az operatív program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás biztosítója | európai uniós források felhasználásáért felelős miniszter | európai uniós források felhasználásáért felelős miniszter | európai uniós források felhasználásáért felelős miniszter | európai uniós források felhasználásáért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | településfejlesztésért és településrendezésért felelős miniszter |
 
-[^1]: Az 1. melléklet a 221/2014. (IX. 4.) Korm. rendelet 816. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 326/2014. (XII. 15.) Korm. rendelet 9. §-ával megállapított szöveg.
