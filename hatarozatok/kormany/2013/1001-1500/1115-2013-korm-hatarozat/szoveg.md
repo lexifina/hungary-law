@@ -18,7 +18,7 @@ g) minden operatív programban szükséges érvényesíteni a hátrányos helyze
 
 2. felhívja
 
-a) a nemzetgazdasági minisztert, hogy Nemzetgazdasági Tervezési Hivatal közreműködésével és a Miniszterelnökséget vezető államtitkár bevonásával biztosítsa a megyék számára a felkészüléshez szükséges módszertani útmutatásokat és koordinációt,
+a)[^2] a nemzetgazdasági minisztert, hogy a Miniszterelnökséget vezető államtitkár bevonásával biztosítsa a megyék számára a felkészüléshez szükséges módszertani útmutatásokat és koordinációt,
 
 b) a nemzetgazdasági minisztert és a belügyminisztert, hogy a Miniszterelnökséget vezető államtitkár bevonásával biztosítsa a megyei jogú városok térségei számára a felkészüléshez szükséges módszertani útmutatásokat és koordinációt,
 
@@ -91,3 +91,4 @@ belügyminiszter
 Határidő: 2013. március 31.
 
 [^1]: Az 1. pont a) alpontja az 1831/2013. (XI. 14.) Korm. határozat 13. pontjával megállapított szöveg.
+[^2]: A 2. pont a) alpontja az 1762/2014. (XII. 16.) korm. határozat 4. pontja szerint módosított szöveg.
