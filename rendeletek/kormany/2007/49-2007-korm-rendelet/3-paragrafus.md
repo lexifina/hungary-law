@@ -50,19 +50,19 @@ b)[^26] a nemzeti kapcsolattartó pont: a Széchenyi Programiroda.
 
 a) az ex-ante hozzájárulás biztosítója: a területfejlesztés stratégiai tervezéséért felelős miniszter;
 
-b) a nemzeti kapcsolattartó pont: a Nemzetgazdasági Tervezési Hivatal;
+b)[^28] a nemzeti kapcsolattartó pont: a területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium;
 
-c)[^28] az 1080/2006/EK rendelet 16. cikkében foglalt feladat ellátásával megbízott szerv: a Széchenyi Programiroda;
+c)[^29] az 1080/2006/EK rendelet 16. cikkében foglalt feladat ellátásával megbízott szerv: a Széchenyi Programiroda;
 
 d) az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditáló Főigazgatóság.
 
-(7)[^29] Az 1. § (3) bekezdés m) pontjában meghatározott program vonatkozásában
+(7)[^30] Az 1. § (3) bekezdés m) pontjában meghatározott program vonatkozásában
 
 a) az ex-ante hozzájárulás biztosítója: a településfejlesztésért és településrendezésért felelős miniszter;
 
-b)[^30] a nemzeti kapcsolattartó pont: a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság;
+b)[^31] a nemzeti kapcsolattartó pont: a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság;
 
-c)[^31] az 1080/2006/EK rendelet 16. cikkében foglalt feladat ellátásával megbízott szerv: a Széchenyi Programiroda;
+c)[^32] az 1080/2006/EK rendelet 16. cikkében foglalt feladat ellátásával megbízott szerv: a Széchenyi Programiroda;
 
 d) az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditáló Főigazgatóság.
 
@@ -89,7 +89,8 @@ d) az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditáló Fő
 [^25]: A 3. § (5) bekezdés a) pontja az 550/2013. (XII. 30.) Korm. rendelet 29. § b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 375. § a) pontja szerint módosított szöveg.
 [^26]: A 3. § (5) bekezdés b) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
 [^27]: A 3. § (6) bekezdése a 154/2012. (VII. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^28]: A 3. § (6) bekezdés c) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
-[^29]: A 3. § (7) bekezdését a 154/2012. (VII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^30]: A 3. § (7) bekezdés b) pontja a 107/2013. (IV. 5.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
-[^31]: A 3. § (7) bekezdés c) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
+[^28]: A 3. § (6) bekezdés b) pontja a 326/2014. (XII. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^29]: A 3. § (6) bekezdés c) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^30]: A 3. § (7) bekezdését a 154/2012. (VII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^31]: A 3. § (7) bekezdés b) pontja a 107/2013. (IV. 5.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^32]: A 3. § (7) bekezdés c) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
