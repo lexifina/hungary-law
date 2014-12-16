@@ -30,7 +30,7 @@ A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labd
 
 | összesen | 2014 | 2015–2016 |
 
-| 1. | Budapest Bozsik Stadion labdarúgó sportlétesítmény-fejlesztése | 8 000 | 5 000 | 400 | 4 600 |
+| 1. | Budapest Bozsik Stadion labdarúgó sportlétesítmény-fejlesztése | 8 000 | 5 500 | 400 | 5 100 |
 
 | 2. | Győri ETO Futball Club labdarúgó sportlétesítmény-fejlesztése | 14 000 | 800 | 560 | 240 |
 
@@ -42,9 +42,9 @@ A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labd
 
 | 6. | Budapest Illovszky Rudolf Stadion labdarúgó sportlétesítmény-fejlesztése | 6 000 | 1 000 | 500 | 500 |
 
-| 7. | Zalaegerszeg labdarúgó sportlétesítmény-fejlesztése | 8 000 | 1 000 | 500 | 500 |
+| 7. | Zalaegerszeg labdarúgó sportlétesítmény-fejlesztése | 8 000 | 1 250 | 500 | 750 |
 
-| 8. | Kaposvár labdarúgó sportlétesítmény-fejlesztése | 5 000 | 800 | 560 | 240 |
+| 8. | Kaposvár labdarúgó sportlétesítmény-fejlesztése | 5 000 | 1 061 | 560 | 501 |
 
 | 9. | Kecskemét labdarúgó sportlétesítmény-fejlesztése | 6 000 | 800 | 560 | 240 |
 
@@ -54,13 +54,13 @@ A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labd
 
 | 12. | Pápa labdarúgó sportlétesítmény-fejlesztése | 5 000 | 800 | 560 | 240 |
 
-| 13. | Békéscsaba labdarúgó sportlétesítmény-fejlesztése | 6 000 | 800 | 560 | 240 |
+| 13. | Békéscsaba labdarúgó sportlétesítmény-fejlesztése | 5 100 | 1 125 | 560 | 565 |
 
 | 14. | Mezőkövesd labdarúgó sportlétesítmény-fejlesztése | 4 000 | 400 | 220 | 180 |
 
 | 15. | Siófok labdarúgó sportlétesítmény-fejlesztése | 3 500 | 600 | 600 | – |
 
-| 16. | Dunaújváros labdarúgó sportlétesítmény-fejlesztése | 4 000 | 600 | 600 | – |
+| 16. | Dunaújváros labdarúgó sportlétesítmény-fejlesztése | 6 100 | 3 200 | 600 | 2 600 |
 
 | 17. | Gyirmót labdarúgó sportlétesítmény-fejlesztése | 3 000 | 600 | 600 | – |
 
@@ -72,7 +72,7 @@ A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labd
 
 | 21. | Kozármisleny labdarúgó sportlétesítmény-fejlesztése | 2 000 | 400 | 400 | – |
 
-| 22. | Sopron labdarúgó sportlétesítmény-fejlesztése | 4 000 | 400 | 400 | – |
+| 22. | Sopron labdarúgó sportlétesítmény-fejlesztése | 4 000 | 552 | 400 | 152 |
 
 | 23. | Szolnok labdarúgó sportlétesítmény-fejlesztése | 5 000 | 400 | 400 | – |
 
@@ -84,7 +84,7 @@ A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labd
 
 | 27. | Nemzeti Stadionfejlesztési Program tartalékkerete | – | 753 | 95 | 658 |
 
-| 28. | Összesen | – | 22 193 | 12 035 | 10 158 |
+| 28. | Összesen | – | 26 281 | 12 035 | 14 246 |
 
 [^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1565/2014. (X. 2.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1565/2014. (X. 2.) Korm. határozat 3. pontja, az 1753/2014. (XII. 15.) Korm. határozat 4. pontja szerint módosított szöveg.
