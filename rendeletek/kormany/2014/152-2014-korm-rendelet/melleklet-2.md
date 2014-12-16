@@ -152,7 +152,7 @@
 
 |  | 5 | Nemzeti Adó- és Vámhivatal | felügyelet |
 
-|  | 6 | Nemzetgazdasági Tervezési Hivatal | irányítás |
+|  | 6 |  |  |
 
 |  | 7 | Nemzeti Szakképzési és Felnőttképzési Hivatal | irányítás |
 
