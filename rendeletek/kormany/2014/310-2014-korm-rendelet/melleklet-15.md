@@ -4,7 +4,7 @@
 
 ## 1. A gyártó neve, KÜJ-azonosítója, KSH statisztikai számjele, székhelye;
 
-## 2. A meghatalmazott képviselő (ha van) neve, címe, elérhetősége[^10];
+## 2. A meghatalmazott képviselő (ha van) neve, címe, elérhetősége[^11];
 
 ## 3. A gyártó nemzeti adóazonosító száma, ennek hiányában a közösségi vagy nemzetközi adószáma;
 
@@ -30,4 +30,4 @@
 
 15. melléklet a 310/2014. (XII. 11.) Korm. rendelethez
 
-[^10]: Külföldi székhelyű gyártó esetén kitöltése kötelező, és ahhoz csatolni kell a meghatalmazás elfogadását tartalmazó okiratot.
+[^11]: Külföldi székhelyű gyártó esetén kitöltése kötelező, és ahhoz csatolni kell a meghatalmazás elfogadását tartalmazó okiratot.
