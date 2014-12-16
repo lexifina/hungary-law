@@ -32,7 +32,7 @@ A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labd
 
 | 14. | Békéscsaba labdarúgó sportlétesítmény-fejlesztése |
 
-| 15. | Mezőkövesd labdarúgó sportlétesítmény-fejlesztése |
+| 15. |  |
 
 | 16. | Siófok labdarúgó sportlétesítmény-fejlesztése |
 
@@ -58,4 +58,4 @@ A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labd
 
 | 27. | Kisvárda labdarúgó sportlétesítmény-fejlesztése |
 
-[^6]: A 3. melléklet a 195/2014. (VII. 31.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^6]: A 3. melléklet a 195/2014. (VII. 31.) Korm. rendelet 1. §-a, a 328/2014. (XII. 15.) Korm. rendelet 2. §-a szerint módosított szöveg.

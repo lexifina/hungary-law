@@ -24,6 +24,10 @@
 
 | 11. | Kisvárda labdarúgó sportlétesítmény fejlesztése | Kisvárda Város Önkormányzata | Kisvárda közigazgatási területén fekvő, 945, 0176/1, 0177/1 helyrajzi számú ingatlan |
 
+| 12. | Dunaújváros labdarúgó sportlétesítmény-fejlesztése | Dunaújváros Megyei Jogú Város Önkormányzata | Dunaújváros közigazgatási területén fekvő, 316/7 helyrajzi számú ingatlan |
+
+| 13. | Budapest Bozsik Stadion labdarúgó sportlétesítmény-fejlesztése | Nemzeti Sportközpontok | Budapest közigazgatási területén fekvő, 168207 helyrajzi számú ingatlan |
+
 2. melléklet a 15/2014. (I. 30.) Korm. rendelethez
 
 ## Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
