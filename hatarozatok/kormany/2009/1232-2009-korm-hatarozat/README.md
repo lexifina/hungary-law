@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-1232-30
 | 2012-01-01 | 2009-1232-30-22.2 | 1493/2011. (XII. 27.) Korm. határozat |
 | 2012-12-18 | 2009-1232-30-22.3 | 1608/2012. (XII. 17.) Korm. határozat |
 | 2013-01-01 | 2009-1232-30-22.4 | 1580/2012. (XII. 13.) Korm. határozat |
+| 2014-12-16 | 2009-1232-30-22.5 | 2009/2015. (XII. 29.) Korm. határozat |
