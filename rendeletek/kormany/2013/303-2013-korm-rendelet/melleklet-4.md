@@ -480,7 +480,7 @@
 
 ## 32.4. a koordinációs és a humánpolitikai feladatot ellátó szervezeti egység vezetője és helyettese
 
-## 33. A Nemzetgazdasági Tervezési Hivatalnál a jogi, a gazdálkodási és a kommunikációs feladatot ellátó szervezeti egység vezetője
+## 33.
 
 ## 34. A Nemzeti Befektetési Ügynökségnél
 
