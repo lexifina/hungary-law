@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-31-20-2
 | 2013-05-30 | 2007-31-20-22.13 | 169/2013. (V. 29.) Korm. rendelet |
 | 2014-01-01 | 2007-31-20-22.14 | 65/2010. (III. 18.) Korm. rendelet |
 | 2014-09-05 | 2007-31-20-22.15 | 65/2010. (III. 18.) Korm. rendelet |
+| 2014-12-16 | 2007-31-20-22.16 | 326/2014. (XII. 15.) Korm. rendelet |

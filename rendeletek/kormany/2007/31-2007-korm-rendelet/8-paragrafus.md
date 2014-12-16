@@ -26,7 +26,7 @@ j)[^24] a Magyarország államilag elismert felsőoktatási intézményei terül
 
 k) az Országos Területfejlesztési Tanács tagjai és állandó meghívottjai,
 
-l)[^25] a Nemzetgazdasági Tervezési Hivatal,
+l)[^25]
 
 m) a térségi fejlesztési tanácsok és munkaszervezeteik,
 
@@ -59,7 +59,7 @@ u)[^27] a társadalmi szervezetek országos, regionális, megyei szinten létreh
 [^22]: A 8. § (1) bekezdése a 65/2010. (III. 18.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^23]: A 8. § (2) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 374. § b) pontja szerint módosított szöveg.
 [^24]: A 8. § (2) bekezdés j) pontja a 300/2011. (XII. 22.) Korm. rendelet 18. § (1) bekezdése szerint módosított szöveg. [A 324/2011. (XII. 28.) Korm. rendelet 11. § a) pontjával elrendelet módosítás, amely szerint a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép, nem vezethető át.]
-[^25]: A 8. § (2) bekezdés l) pontja a 67/2012. (IV. 5.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^25]: A 8. § (2) bekezdés l) pontját a 326/2014. (XII. 15.) Korm. rendelet 10. § 1. pontja hatályon kívül helyezte.
 [^26]: A 8. § (2) bekezdés o)–r) pontját a 67/2012. (IV. 5.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
 [^27]: A 8. § (2) bekezdés u) pontja a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^28]: A 8. § (4) bekezdése a 65/2010. (III. 18.) Korm. rendelet 9. §-a szerint módosított szöveg.
