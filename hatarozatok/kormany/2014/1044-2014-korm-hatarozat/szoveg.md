@@ -32,7 +32,7 @@ a) a Kormány
 
 aa) fogyasztóvédelemért,
 
-ab) európai integrációs ügyekért,
+ab)[^1] európai uniós ügyek koordinációjáért,
 
 ac) egészségügyért,
 
@@ -111,3 +111,5 @@ c) lemondással.
 15. Ez a határozat a közzétételét követő 3. napon lép hatályba.
 
 16. A Munkacsoport tagjainak felkéréséről az elnök a határozat hatálybalépését követő 30 napon belül gondoskodik.
+
+[^1]: Az 5. pont a) pont ab) alpontja az 1752/2014. (XII. 15.) Korm. határozat 1. pontjával megállapított szöveg.
