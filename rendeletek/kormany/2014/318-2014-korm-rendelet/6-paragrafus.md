@@ -1,3 +1,5 @@
-## 5. § A felszámolók névjegyzékéről szóló 114/2006. (V. 12.) Korm. rendelet 4. § (2a) bekezdés b) pontjában a „Nemzeti Munkaügyi Hivatalt” szövegrész helyébe a „Nemzeti Szakképzési és Felnőttképzési Hivatalt” szöveg lép.
+## 5. §[^5]
 
 ## 6. A területfejlesztéssel és a területrendezéssel kapcsolatos információs rendszerről és a kötelező adatközlés szabályairól szóló 31/2007. (II. 28.) Korm. rendelet módosítása
+
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
