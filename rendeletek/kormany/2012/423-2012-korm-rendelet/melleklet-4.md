@@ -1,4 +1,4 @@
-4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^91]
+4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^92]
 
 Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámítás szempontjából
 
@@ -50,4 +50,4 @@ Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámít
 
 | 23 | sportkommunikátor; fitness-wellness instruktor; sportedző; személyi edző szakképesítések | sporttudomány |
 
-[^91]: A 4. mellékletet a 47/2013. (II. 20.) Korm. rendelet 10. §-a iktatta be, az 502/2013. (XII. 29.) Korm. rendelet 23. § (4) bekezdése szerint módosított szöveg.
+[^92]: A 4. mellékletet a 47/2013. (II. 20.) Korm. rendelet 10. §-a iktatta be, az 502/2013. (XII. 29.) Korm. rendelet 23. § (4) bekezdése szerint módosított szöveg.
