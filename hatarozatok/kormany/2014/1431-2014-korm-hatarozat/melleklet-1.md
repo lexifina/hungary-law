@@ -104,10 +104,12 @@
 
 10. irányító hatóságonként 1 fő,
 
-11. a Nemzetgazdasági Tervezési Hivatal részéről 1 fő,
+11.[^1] a Nemzetgazdasági Minisztérium részéről 1 fő,
 
 12. a Miniszterelnökség Támogatásokat Vizsgáló Iroda részéről 1 fő,
 
 13. az operatív programok ex-ante értékelésért felelős szervezeti egység részéről 1 fő,
 
 14. a Miniszterelnökség nemzetközi helyettes államtitkára által delegált 1 fő.
+
+[^1]: Az 1. melléklet 11. pontja az 1762/2014. (XII. 16.) Korm. határozat 3. pontjával megállapított szöveg.
