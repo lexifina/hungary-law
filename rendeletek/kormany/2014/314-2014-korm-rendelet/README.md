@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-314-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-12-15 | 2014-314-20-22.1 | 314/2014. (XII. 12.) Korm. rendelet |
+| 2014-12-16 | 2014-314-20-22.2 | 2010: CXXX. törvény |
