@@ -1,1 +1,0 @@
-Az állategészségügyről szóló 1995. évi XCI. törvény 26. §-a (1) bekezdésének k) pontjában, valamint az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 91/A. §-ának (3) bekezdésében kapott felhatalmazás alapján, az Áht. 90. §-a (1) bekezdésének c) pontjában foglaltakra figyelemmel – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
