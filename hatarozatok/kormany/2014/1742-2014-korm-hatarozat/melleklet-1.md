@@ -226,6 +226,8 @@
 
 ## VII. Záró rendelkezés
 
-## 61. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg az Európai Unió döntéshozatali tevékenységében való kormányzati részvétel összehangolásáról és az Európai Koordinációs Tárcaközi Bizottságról szóló 1169/2010. (VIII. 18.) Korm. határozat a hatályát veszti.
+## 61.[^2] Ez a határozat a közzétételét követő napon lép hatályba,
 
 1. melléklet az 1742/2014. (XII. 15.) Korm. határozathoz
+
+[^2]: A 61. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
