@@ -1,0 +1,1 @@
+## „13. § A mentes, illetve a mentesítés alatt álló terület földrajzi határától számított 15 km-es sávon belülre, valamint mentes nagylétszámú állomány köré vont 15 km-es sugarú körön belülre fertőzött vagy ismeretlen státuszú állományból származó sertés nem szállítható be.”
