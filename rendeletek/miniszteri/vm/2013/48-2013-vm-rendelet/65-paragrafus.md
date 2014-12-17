@@ -6,9 +6,9 @@
 
 (3) Az előirányzat kedvezményezettjei tenyésztő szervezetek tagjai, illetve akik tenyésztő szervezetek tenyésztési programjának végrehajtásához adatot szolgáltatnak.
 
-(4)[^107] Az előirányzat pénzeszköz átadás formájában átadásra kerül a kedvezményezettek felé történő végső kifizetést teljesítő lebonyolító szerv részére.
+(4)[^118] Az előirányzat pénzeszköz átadás formájában átadásra kerül a kedvezményezettek felé történő végső kifizetést teljesítő lebonyolító szerv részére.
 
-(5)[^108] Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
+(5)[^119] Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
 
-[^107]: A 65. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 53. §-ával megállapított szöveg.
-[^108]: A 65. § (5) bekezdése a 23/2014. (III. 20.) VM rendelet 53. §-ával megállapított szöveg.
+[^118]: A 65. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 53. §-ával megállapított szöveg.
+[^119]: A 65. § (5) bekezdése a 23/2014. (III. 20.) VM rendelet 53. §-ával megállapított szöveg.

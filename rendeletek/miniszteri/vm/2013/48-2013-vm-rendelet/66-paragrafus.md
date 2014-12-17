@@ -8,9 +8,9 @@
 
 (4) Az előirányzatból – előirányzat-átcsoportosítással – finanszírozandóak a lebonyolításban részt vevő költségvetési szervek feladatellátással összefüggésben felmerült és igazolt költségei is.
 
-(5)[^109] Támogatási előleg indokolt esetben nyújtható.
+(5)[^120] Támogatási előleg indokolt esetben nyújtható.
 
-(6)[^110] Az előirányzatból költségvetési támogatás pályázati úton, illetve egyedi döntéssel nyújtható.
+(6)[^121] Az előirányzatból költségvetési támogatás pályázati úton, illetve egyedi döntéssel nyújtható.
 
-[^109]: A 66. § (5) bekezdése a 23/2014. (III. 20.) VM rendelet 54. §-ával megállapított szöveg.
-[^110]: A 66. § (6) bekezdése a 23/2014. (III. 20.) VM rendelet 54. §-ával megállapított szöveg.
+[^120]: A 66. § (5) bekezdése a 23/2014. (III. 20.) VM rendelet 54. §-ával megállapított szöveg.
+[^121]: A 66. § (6) bekezdése a 23/2014. (III. 20.) VM rendelet 54. §-ával megállapított szöveg.

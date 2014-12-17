@@ -1,4 +1,4 @@
-## 61. [^148] Állat, növény- és GMO-kártalanítás (20/06/00/00)
+## 61. [^159] Állat, növény- és GMO-kártalanítás (20/06/00/00)
 
 75. § (1) Az előirányzat felhasználásának célja az élelmiszerláncról és hatósági felügyeletéről szóló törvényben foglalt feladatok végrehajtásához szükséges források biztosítása.
 
@@ -26,4 +26,4 @@ e) a c) pont szerinti megsemmisítés során harmadik személynek okozott kár m
 
 (8) A GMO-kártalanítás vonatkozásában támogatási előleg indokolt esetben nyújtható.
 
-[^148]: A 61. alcím (75. §) a 23/2014. (III. 20.) VM rendelet 63. §-ával megállapított szöveg.
+[^159]: A 61. alcím (75. §) a 23/2014. (III. 20.) VM rendelet 63. §-ával megállapított szöveg.

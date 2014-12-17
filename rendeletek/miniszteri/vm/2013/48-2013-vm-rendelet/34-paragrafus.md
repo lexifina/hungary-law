@@ -2,6 +2,6 @@
 
 34. § (1) Az előirányzat célja a közhasznú civil szervezetek támogatása a közterületen elhagyott hulladékok felszámolásában, a hulladékelhagyó magatartás visszaszorításában.
 
-(2)[^35] Az előirányzat felhasználása közvetlenül a kedvezményezett szervezet részére történő kifizetéssel valósul meg.
+(2)[^39] Az előirányzat felhasználása közvetlenül a kedvezményezett szervezet részére történő kifizetéssel valósul meg.
 
-[^35]: A 34. § (2) bekezdése a 23/2014. (III. 20.) VM rendelet 22. §-ával megállapított szöveg.
+[^39]: A 34. § (2) bekezdése a 23/2014. (III. 20.) VM rendelet 22. §-ával megállapított szöveg.

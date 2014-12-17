@@ -6,12 +6,12 @@
 
 (3) Az előirányzatból költségvetési szerv, kutatóintézet, gazdasági társaság és civil szervezet részére adható támogatás.
 
-(4)[^37] Az előirányzat felhasználása költségvetési szerv részére előirányzat-átcsoportosítással, nem költségvetési szerv részére közvetlen kifizetéssel, a kedvezményezettel kötött támogatási szerződés alapján történik.
+(4)[^41] Az előirányzat felhasználása költségvetési szerv részére előirányzat-átcsoportosítással, nem költségvetési szerv részére közvetlen kifizetéssel, a kedvezményezettel kötött támogatási szerződés alapján történik.
 
-(5)[^38] Támogatási előleg indokolt esetben nyújtható.
+(5)[^42] Támogatási előleg indokolt esetben nyújtható.
 
-(6)[^39] Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
+(6)[^43] Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
 
-[^37]: A 36. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^38]: A 36. § (5) bekezdése a 23/2014. (III. 20.) VM rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^39]: A 36. § (6) bekezdését a 23/2014. (III. 20.) VM rendelet 24. § (2) bekezdése iktatta be.
+[^41]: A 36. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^42]: A 36. § (5) bekezdése a 23/2014. (III. 20.) VM rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^43]: A 36. § (6) bekezdését a 23/2014. (III. 20.) VM rendelet 24. § (2) bekezdése iktatta be.

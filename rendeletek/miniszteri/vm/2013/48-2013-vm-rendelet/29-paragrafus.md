@@ -1,8 +1,8 @@
-## 28. §[^22] Az előirányzatból a kötelezettségvállalással nem terhelt maradványok pénzügyi rendezésére kerül sor.
+## 28. §[^26] Az előirányzatból a kötelezettségvállalással nem terhelt maradványok pénzügyi rendezésére kerül sor.
 
 ## 15. Természetvédelmi kártalanítás (20/02/09/00)
 
-29. §[^23] (1) Az előirányzatból
+29. §[^27] (1) Az előirányzatból
 
 a) a természetvédelmi érdekből eseti jelleggel elrendelt hatósági korlátozásokból, illetve a védett állat kártételéből adódó kártalanítási igények, és az azokkal összefüggésben felmerülő adminisztratív költségek,
 
@@ -18,5 +18,5 @@ b) a védettségi szint helyreállítása érdekében szükséges, a védett ter
 
 (5) Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
 
-[^22]: A 28. § a 23/2014. (III. 20.) VM rendelet 16. §-ával megállapított szöveg.
-[^23]: A 29. § a 23/2014. (III. 20.) VM rendelet 17. §-ával megállapított szöveg.
+[^26]: A 28. § a 23/2014. (III. 20.) VM rendelet 16. §-ával megállapított szöveg.
+[^27]: A 29. § a 23/2014. (III. 20.) VM rendelet 17. §-ával megállapított szöveg.

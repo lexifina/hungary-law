@@ -4,9 +4,9 @@
 
 (2) Az előirányzat felhasználása az OHÜ-vel kötött támogatási szerződésben foglaltak szerinti kifizetéssel valósul meg.
 
-(3)[^28] Támogatási előleg indokolt esetben nyújtható.
+(3)[^32] Támogatási előleg indokolt esetben nyújtható.
 
-(4)[^29] Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
+(4)[^33] Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
 
-[^28]: A 31. § (3) bekezdése a 23/2014. (III. 20.) VM rendelet 19. §-ával megállapított szöveg.
-[^29]: A 31. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 19. §-ával megállapított szöveg.
+[^32]: A 31. § (3) bekezdése a 23/2014. (III. 20.) VM rendelet 19. §-ával megállapított szöveg.
+[^33]: A 31. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 19. §-ával megállapított szöveg.

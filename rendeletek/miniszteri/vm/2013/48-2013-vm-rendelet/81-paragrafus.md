@@ -1,3 +1,5 @@
+## 80/A. §
+
 ## 67. Peres ügyek (20/13/00/00)
 
 81. § (1) Az előirányzat célja a miniszter által vezetett minisztériummal szembeni peres eljárásokban a jogerős bírósági ítéletek alapján keletkező fizetési kötelezettségek finanszírozása.

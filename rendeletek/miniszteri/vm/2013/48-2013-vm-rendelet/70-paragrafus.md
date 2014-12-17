@@ -1,3 +1,3 @@
-## 56.[^120]
+## 56.[^131]
 
-[^120]: Az 56. alcímet (70. §) a 23/2014. (III. 20.) VM rendelet 70. §-a hatályon kívül helyezte.
+[^131]: Az 56. alcímet (70. §) a 23/2014. (III. 20.) VM rendelet 70. §-a hatályon kívül helyezte.

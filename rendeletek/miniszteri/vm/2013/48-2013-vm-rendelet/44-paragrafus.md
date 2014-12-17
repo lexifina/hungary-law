@@ -1,3 +1,3 @@
-## 30.[^61]
+## 30.[^68]
 
-[^61]: A 30. alcímet (44. §) a 23/2014. (III. 20.) VM rendelet 70. §-a hatályon kívül helyezte.
+[^68]: A 30. alcímet (44. §) a 23/2014. (III. 20.) VM rendelet 70. §-a hatályon kívül helyezte.
