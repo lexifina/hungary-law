@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-111-20-
 | 2012-08-16 | 1992-111-20-22.9 | 225/2012. (VIII. 15.) Korm. rendelet |
 | 2013-07-31 | 1992-111-20-22.10 | 288/2013. (VII. 26.) Korm. rendelet |
 | 2013-08-01 | 1992-111-20-22.11 | 297/2013. (VII. 29.) Korm. rendelet |
+| 2014-12-17 | 1992-111-20-22.12 | 317/2014. (XII. 12.) Korm. rendelet |
