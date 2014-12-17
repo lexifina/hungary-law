@@ -10,6 +10,8 @@
 
 (5) Amennyiben a település kislétszámú állományában a minősítő vizsgálatok során a vizsgált egyedeknek több, mint 5%-a bizonyult pozitívnak, akkor a járási állategészségügyi hivatal a település sertésállományaira vonatkozóan mentesítési tervet készít, amelyet az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság hagy jóvá. Amennyiben a település körül vont 3 km-es zónán belül nagylétszámú mentes állomány található, akkor a pozitív egyedeket és a velük egy udvarban tartott sertéseket vágásra kell értékesíteni.
 
-(6) A fertőzött sertéseket a járási állategészségügyi hivatal határozata alapján vágásra kell bocsátani. Amennyiben a (4) és (5) bekezdésben foglaltak alapján a tenyészállatokat kell vágásra értékesíteni, a tulajdonos a tenyészérték és a vágóérték különbségének mértékében állami kártalanításra jogosult.
+(6)[^2] A fertőzött sertéseket a járási állategészségügyi hivatal határozata alapján vágásra kell bocsátani. Amennyiben a (4) és (5) bekezdésben foglaltak alapján a tenyészállatokat kell vágásra értékesíteni, a tulajdonos a tenyészérték és a vágóérték különbségének mértékében állami kártalanításra jogosult, amennyiben írásbeli kötelezettséget vállal arra, hogy két éven belül valamennyi tenyészállatot pótolja.
 
 (7) A fertőzött vagy fertőzöttségre gyanús sertések elhullása során keletkezett összes hulladékot a nem emberi fogyasztásra szánt állati eredetű melléktermékekre vonatkozó állategészségügyi szabályok megállapításáról szóló miniszteri rendeletben előírt módon ártalmatlanítani kell.
+
+[^2]: A 9. § (6) bekezdése a 32/2014. (XII. 9.) FM rendelet 21. § (1) bekezdésével megállapított szöveg.
