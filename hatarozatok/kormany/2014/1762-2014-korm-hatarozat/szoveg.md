@@ -6,18 +6,6 @@ Felelős: belügyminiszter
 
 Határidő: azonnal
 
-2. A Duna transznacionális együttműködési program közös intézményrendszerének felállításához szükséges feladatokról szóló 1680/2013. (IX. 30.) Korm. határozat 1. pont a) alpontja helyébe a következő rendelkezés lép:
+2–4.[^1]
 
-(a Duna transznacionális együttműködési program partnerországainak közös intézményrendszert érintő döntései magyarországi végrehajtása érdekében)
-
-„a) a közös irányító hatóságot és technikai titkárságot a Nemzetgazdasági Minisztérium szervezeti egységeként,”
-
-(rendeli kialakítani,)
-
-3. Az európai uniós fejlesztési programokkal – különös tekintettel a kifizetésekkel, a nagyprojektekkel, a Partnerségi Megállapodással és a 2014–2020 programozási időszak eljárásrendjével – összefüggő intézkedésekről szóló 1431/2014. (VII. 31.) Korm. határozat 1. melléklet 11. pontja helyébe a következő rendelkezés lép:
-
-(A 8. pontban szereplő Operatív Program Tervezéskoordinációs Munkacsoportba delegált tagok:)
-
-„11. a Nemzetgazdasági Minisztérium részéről 1 fő,”
-
-4. A Kormány visszavonja a 2014–2020 közötti források területi koordinációjának kereteiről szóló 1115/2013. (III. 8.) Korm. határozat 2. pont a) alpontjában a „Nemzetgazdasági Tervezési Hivatal közreműködésével és” szövegrészt.
+[^1]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
