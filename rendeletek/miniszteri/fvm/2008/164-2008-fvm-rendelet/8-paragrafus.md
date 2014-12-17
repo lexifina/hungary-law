@@ -1,22 +1,24 @@
 ## A vadon élő állatokkal kapcsolatos szabályok
 
-8. § (1) A rókák veszettségének megelőzése és a betegség leküzdése érdekében a vadon élő rókapopuláció veszettség elleni ellenállóképességét szájon át történő vakcinázással kell biztosítani. Az immunizálás időpontját és területi kiterjedését az országos főállatorvos határozza meg. Az immunizálás időpontjáról és a beazonosítható terület kijelöléséről, az országos főállatorvos az immunizálás kezdetét tizennégy nappal megelőzően értesíti az országos tisztifőorvost is.
+8. § (1)[^29] A rókák veszettségének megelőzése és a betegség leküzdése érdekében a vadon élő rókapopuláció veszettség elleni ellenálló képességét szájon át történő vakcinázással kell biztosítani. Az immunizálás időpontját és területi kiterjedését az országos főállatorvos határozza meg. Az immunizálás időpontjáról és a beazonosítható terület kijelöléséről, a felhasználásra kerülő vakcina típusáról az országos főállatorvos az immunizálás kezdetét tizennégy nappal megelőzően értesíti az országos tisztifőorvost, az országos katasztrófavédelmi főigazgatóság főigazgatóját, valamint az országhatár menti vakcinázás esetén az érintett környező országok állategészségügyi hatóságait is.
 
-(2)[^19] A rókák szájon át történő vakcinázása végrehajtásának előkészítését az országos főállatorvos irányításával az állat-egészségügyi és élelmiszer-ellenőrző szolgálat a megyei kormányhivatal földművelésügyi igazgatóságának (a továbbiakban: vadászati hatóság) bevonásával végzi.
+(2)[^30] A rókák szájon át történő vakcinázását a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) végzi az élelmiszerlánc-biztonsági és állat-egészségügyi igazgatóság, valamint a megyei kormányhivatal földművelésügyi igazgatóságának (a továbbiakban: vadászati hatóság) bevonásával.
 
 (3) A rókák szájon át történő vakcinázására kizárólag a külön jogszabály szerint Magyarországon forgalomba hozható csalétek vakcinát lehet használni.
 
 (4) A csalétek kihelyezését repülőgépes kiszórás módszerével kell végrehajtani a vakcina használati utasításában előírtak szerint. Azokon a területeken, ahol biztonsági vagy egyéb okból a repülőgépes kiszórás nem valósítható meg, a csalétket kézzel kell kihelyezni.
 
-(5)[^20] A vakcinázás kezdetétől számított tizennégy napig az érintett területeken az illetékes járási főállatorvos ebzárlatot és legeltetési tilalmat köteles elrendelni.
+(5)[^31] A vakcinázás kezdetétől számított huszonegy napig az érintett területeken az illetékes járási főállatorvos ebzárlatot és legeltetési tilalmat rendel el.
 
-(6) Az immunizálással érintett területen a vadászati hatóság felhívására és irányításával a vadászatra jogosultnak jól látható, piros színű, legalább magyar nyelvű, a felhívás megértését szolgáló piktogrammal ellátott figyelemfelhívó plakátokat kell kihelyezni a lakott területekről kivezető utak mentén, bekötőutaknál, kiránduló és parkolóhelyeken, turistaházak és vadászházak mellett. A vadászatra jogosult ezért a tevékenységéért költségtérítésre jogosult.
+(6)[^32] Az immunizálással érintett területen a vadászati hatóság felhívására és irányításával a vadászatra jogosult jól látható, piros színű, kétnyelvű (magyar és angol), a felhívás megértését szolgáló piktogrammal ellátott figyelemfelhívó plakátokat helyez ki a lakott területekről kivezető utak mentén, bekötőutaknál, kiránduló és parkolóhelyeken, turistaházak és vadászházak mellett.
 
-(7)[^21] A (6) bekezdés szerinti tájékoztató plakátokat a járási főállatorvosok a lakosság tájékoztatása érdekében eljuttatják az érintett önkormányzatokhoz is.
+(7)[^33] A (6) bekezdés szerinti tájékoztató plakátokat a vadászatra jogosult a lakosság tájékoztatása érdekében eljuttatja az érintett önkormányzatokhoz is.
 
-(8)[^22] Amennyiben ember érintkezik a csalétekben található vakcinával, azt haladéktalanul jelenteni kell a területileg illetékes járási népegészségügyi intézetnek.
+(8)[^34] Amennyiben ember érintkezik a csalétekben található vakcinával, azt haladéktalanul jelenteni kell a területileg illetékes járási népegészségügyi intézetnek.
 
-[^19]: A 8. § (2) bekezdése a 19/2014. (III. 12.) VM rendelet 29. § (1) bekezdése szerint módosított szöveg.
-[^20]: A 8. § (5) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^21]: A 8. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^22]: A 8. § (8) bekezdése a 70/2013. (VII. 31.) VM rendelet 102. § e) pontja szerint módosított szöveg.
+[^29]: A 8. § (1) bekezdése a 32/2014. (XII. 9.) FM rendelet 11. § (5) bekezdésével megállapított szöveg.
+[^30]: A 8. § (2) bekezdése a 32/2014. (XII. 9.) FM rendelet 11. § (5) bekezdésével megállapított szöveg.
+[^31]: A 8. § (5) bekezdése a 32/2014. (XII. 9.) FM rendelet 11. § (6) bekezdésével megállapított szöveg.
+[^32]: A 8. § (6) bekezdése a 32/2014. (XII. 9.) FM rendelet 11. § (6) bekezdésével megállapított szöveg.
+[^33]: A 8. § (7) bekezdése a 32/2014. (XII. 9.) FM rendelet 11. § (6) bekezdésével megállapított szöveg.
+[^34]: A 8. § (8) bekezdése a 70/2013. (VII. 31.) VM rendelet 102. § e) pontja szerint módosított szöveg.

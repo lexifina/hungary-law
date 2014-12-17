@@ -24,10 +24,10 @@ d) a segítő és terápiás ebek, valamint a látássérült embereket vezető 
 
 (4) Az érvényes veszettség elleni védőoltással rendelkező pásztorebeket szabad állatok terelésére, illetve őrzésére használni, feltéve, hogy az ebzárlat nem a 8. § (5) bekezdése szerint lett elrendelve.
 
-(5)[^25] Az ebzárlat alatt befogott kóbor húsevőket hatósági megfigyelés alá kell helyezni az ebzárlat időtartamára. Az állat hatósági megfigyelése az ebzárlat esetleges meghosszabbítása esetén sem tarthat kilencven napnál tovább. Amennyiben a kóborló eb vagy macska veszettség elleni oltottsága nem állapítható meg, és az állat befogása, illetve hatósági megfigyelése nem oldható meg biztonságosan, az állatot a járási főállatorvos határozatára járványügyi intézkedésként az állatvédelmi előírások megtartásával le kell ölni.
+(5)[^43] Az ebzárlat alatt befogott kóbor húsevőket hatósági megfigyelés alá kell helyezni az ebzárlat időtartamára. Az állat hatósági megfigyelése az ebzárlat esetleges meghosszabbítása esetén sem tarthat kilencven napnál tovább. Amennyiben a kóborló eb vagy macska veszettség elleni oltottsága nem állapítható meg, és az állat befogása, illetve hatósági megfigyelése nem oldható meg biztonságosan, az állatot a járási főállatorvos határozatára járványügyi intézkedésként az állatvédelmi előírások megtartásával le kell ölni.
 
 (6) Az ebzárlat alatt húsevő állatok összevezetésével járó rendezvény nem tartható.
 
 (7) A veszettség miatt elrendelt ebzárlatot fel kell oldani, ha annak időtartama alatt a településen veszettséget vagy veszettség gyanúját újból nem állapították meg.
 
-[^25]: A 12. § (5) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^43]: A 12. § (5) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
