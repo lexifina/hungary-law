@@ -4,12 +4,13 @@
 
 (2) E rendeletet a szalmonella és egyéb meghatározott, élelmiszerből származó zoonózis-kórokozók ellenőrzéséről szóló, 2003. november 17-i 2160/2003/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 2160/2003/EK rendelet) I. mellékletében meghatározott állatfajokra és meghatározott hasznosítású állatállományokra kell alkalmazni.
 
-(3) E rendeletet – a 2160/2003/EK rendelettől eltérve a brojlercsirke- és pulykaállományokból származó, kis mennyiségű friss hússal való közvetlen ellátásra vonatkozó átmeneti intézkedés megállapításáról szóló 2009. március 13-i 199/2009/EK bizottsági rendelettel összhangban – nem kell alkalmazni azon házityúk brojler- és hízópulyka-állományokra, amelyek termelői az állományból származó, az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, 2004. április 29-i 853/2004/EK európai parlamenti és tanácsi rendelet I. mellékletének 1.10. pontjában meghatározott friss hússal a kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló külön jogszabály szerinti kis mennyiségben látják el
+(3)[^1] E rendeletet nem kell alkalmazni az elsődleges termelésre
 
-a) a végső fogyasztókat, vagy
+a) magáncélú magyarországi felhasználás esetén, és
 
-b) a végső fogyasztókat friss hússal közvetlenül ellátó, helyi kiskereskedelmi egységeket.
+b) ha az elsődleges termelés során a termelő a kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló 52/2010. (IV. 30.) FVM rendelet 1. melléklet A. részében meghatározottak szerinti kis mennyiségű alaptermékekkel közvetlenül látja el a végső fogyasztókat vagy az alaptermékekkel a végső fogyasztókat közvetlenül ellátó helyi kiskereskedelmi egységeket.
 
-(4)[^1] Azon állatfajok, állományok, illetve hasznosítási irányok vonatkozásában, melyekre nézve e rendelet nem tartalmaz előírásokat, de a 2160/2003/EK rendelet I. mellékletében szerepelnek, a szalmonellózis elleni védekezést (a továbbiakban: védekezés) az élelmiszeripari vállalkozó, gazdaság, illetve keltető (a továbbiakban: vállalkozó) önkéntesen kezdeményezheti a telephelye szerint illetékes járási állategészségügyi és élelmiszer-ellenőrző hivatalnál (a továbbiakban: járási állategészségügyi hivatal) járványügyi intézkedési terv benyújtásával.
+(4)[^2] Azon állatfajok, állományok, illetve hasznosítási irányok vonatkozásában, melyekre nézve e rendelet nem tartalmaz előírásokat, de a 2160/2003/EK rendelet I. mellékletében szerepelnek, a szalmonellózis elleni védekezést (a továbbiakban: védekezés) az élelmiszeripari vállalkozó, gazdaság, illetve keltető (a továbbiakban: vállalkozó) önkéntesen kezdeményezheti a telephelye szerint illetékes járási állategészségügyi és élelmiszer-ellenőrző hivatalnál (a továbbiakban: járási állategészségügyi hivatal) járványügyi intézkedési terv benyújtásával.
 
-[^1]: Az 1. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 41. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (3) bekezdése a 32/2014. (XII. 9.) FM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 41. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-4. számú melléklet a 180/2009. (XII. 29.) FVM rendelethez[^46]
+4. számú melléklet a 180/2009. (XII. 29.) FVM rendelethez[^69]
 
 | Mentességről szóló hatósági bizonyítvány mintája |
 
@@ -16,16 +16,16 @@
 
 | Salmonella Enteritidis, Salmonella Typhimurium |
 
-| és Salmonella ............................................. |
+| és Salmonella ............................................. |
 
 | mentes |
 
 | ....................., 20..... év ..................... hónap ..... nap |
 
-| ........................................................ kerületi főállatorvos |
+| ........................................................ járási főállatorvos |
 
 | Laboratóriumi vizsgálatok |
 
 | iktatószáma és dátuma: |
 
-[^46]: A 4. számú melléklet a 151/2012. (XII. 29.) VM rendelet 41. § c) pontja szerint módosított szöveg.
+[^69]: A 4. számú melléklet a 151/2012. (XII. 29.) VM rendelet 41. § c) pontja, a 32/2014. (XII. 9.) FM rendelet 18. § b) pontja szerint módosított szöveg.

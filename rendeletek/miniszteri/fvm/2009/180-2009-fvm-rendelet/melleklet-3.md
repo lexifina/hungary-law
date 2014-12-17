@@ -1,20 +1,20 @@
 ## Hatósági mintavételek a házityúk- és pulykaállományokban
 
-| Mintázandó állomány | Mintagyűjtés időpontja | Mintagyűjtés módja | Minták vizsgálata |
+|  | A | B | C | D |
 
-| Keltetők | Az 1003/2005/EK rendelet mellékletének 2.1.2.1. pontja alapján 16 hetente | Az 1003/2005/EK rendelet melléklete 2.2.1. pontjában foglaltak szerint | Az 1003/2005/EK rendelet mellékletének 3. pontjában foglaltak szerint |
+| 1. | Mintázandó állomány | Mintagyűjtés időpontja | Mintagyűjtés módja | Minták vizsgálata |
 
-| Házityúk tenyészállományok | A termelési ciklusban, az 1003/2005/EK rendelet mellékletének 2.1.2.2. pontja szerint | Az 1003/2005/EK rendelet mellékletének 2.2.2.2. pontjában foglaltak szerint | Az 1003/2005/EK rendelet mellékletének 3. pontjában foglaltak szerint |
+| 2. | Keltetők | A 200/2010/EU bizottsági rendelet melléklet 2.1.2.1. pontja alapján 16 hetente | A 200/2010/EU bizottsági rendelet melléklet 2.2.1. pontjában foglaltak szerint | A 200/2010/EU bizottsági rendelet melléklet 3. pontjában foglaltak szerint |
 
-| Tenyészpulyka-állományok | Az 584/2008/EK rendelet melléklete 1. pontjának b) (iii) alpontja szerint a járási állategészségügyi hivatal évente határozza meg2 |
+| 3. | Házityúk tenyész- állományok | A termelési ciklusban, a 200/2010/EU bizottsági rendelet melléklet 2.1.2.2. pontja szerint | A 200/2010/EU bizottsági rendelet melléklet 2.2.2.2. pontjában foglaltak szerint | A 200/2010/EU bizottsági rendelet melléklet 3. pontjában foglaltak szerint |
 
-| Házityúk tojóállományok | Az 1168/2006/EK rendelet mellékletének 2.1. pontja szerint | Az 1168/2006/EK rendelet mellékletének 2.2. pontjában foglaltak szerint | Az 1168/2006/EK rendelet mellékletének 3. pontja szerint |
+| 4. | Tenyészpulyka- állományok | Az 1190/2010/EU bizottsági rendelet melléklet 2.1. b) pontjának i és iii. alpontja alapján. | Az 1190/2012/EU bizottsági rendelet melléklet 2.2.1 és 2.2.2. pontjában foglaltak szerint | Az 1190/2012/EU bizottsági rendelet melléklet 3. pontjában foglaltak szerint |
 
-| Házityúk brojlerállományok | A 646/2007/EK rendelet melléklete 1. b) pontja alapján a járási állategészségügyi hivatal évente határozza meg2 | A 646/2007/EK rendelet melléklete 2. pontjában foglaltak szerint | A 646/2007/EK rendelet mellékletének 3. pontjában foglaltak szerint |
+| 5. | Házityúk tojóállományok | Az 517/2011/EU bizottsági rendelet melléklet 2.1. pontja szerint | Az 517/2011/EU bizottsági rendelet melléklet 2.2.2. pontjában foglaltak szerint | Az 517/2011/EU bizottsági rendelet melléklet 3. pontja szerint |
 
-| Hízópulyka-állományok | Az 584/2008/EK rendelet melléklete 1. pontjának b) (iii) alpontja szerint a járási állategészségügyi hivatal évente határozza meg2 | Az 584/2008/EK rendelet melléklete 2.2.2. pontjában foglaltak szerint | Az 584/2008/EK rendelet mellékletének 3. pontjában foglaltak szerint |
+| 6. | Házityúk brojler-állományok | A 200/2012/EU bizottsági rendelet melléklet 1. b) pontja alapján a járási állategészségügyi hivatal évente határozza meg | A 200/2012/EU bizottsági rendelet melléklet 2.2. pontjában foglaltak szerint | A 200/2012/EU bizottsági rendelet melléklet 3. pontjában foglaltak szerint |
 
-## 2 A járási állategészségügyi hivatal a tervezett mintavételekről tájékoztatja a vállalkozót.
+| 7. | Hízópulyka- állományok | Az 1190/2010/EU bizottsági rendelet melléklet 2.1. b) pontjának ii. és iii. alpontja alapján. | Az 1190/2012/EU bizottsági rendelet melléklet 2.2.1 és 2.2. pontjában foglaltak szerint | Az 1190/2012/EU bizottsági rendelet melléklet 3. pontjában foglaltak szerint |
 
 3. számú melléklet a 180/2009. (XII. 29.) FVM rendelethez
 
