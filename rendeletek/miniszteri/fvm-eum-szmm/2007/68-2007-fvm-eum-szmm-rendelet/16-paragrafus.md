@@ -2,7 +2,7 @@
 
 a) az Európai Parlament és a Tanács 2004/41/EK irányelve (2004. április 21.) az emberi fogyasztásra szánt egyes állati eredetű termékek előállítására és forgalomba hozatalára vonatkozó élelmiszer-higiéniai és állategészségügyi feltételekről szóló egyes irányelvek hatályon kívül helyezéséről, valamint a 89/662/EGK, a 92/118/EGK tanácsi irányelv és a 95/408/EK tanácsi határozat módosításáról,
 
-b) a Bizottság 96/3/EK irányelve (1996. január 26.) a folyékony olajok és zsírok ömlesztett tengeri szállítása tekintetében az élelmiszer-higiéniáról szóló 93/43/EGK irányelv egyes rendelkezéseitől való eltérés engedélyezéséről,
+b)[^17]
 
 c) a Bizottság 2004/4/EK irányelve (2004. január 15.) a folyékony olajok és zsírok ömlesztett tengeri szállítása tekintetében az élelmiszer-higiéniáról szóló 93/43/EGK tanácsi irányelv egyes rendelkezéseitől való eltérés engedélyezéséről szóló 96/3/EK irányelv módosításáról,
 
@@ -225,3 +225,5 @@ Megengedett előző szállítmányok jegyzéke
 | Borseprő (vinasz, vinaccia, borkőüledék, vini, argil-agyag, arcilla-agyag, weinstein, nyers borkőpép, nyers kálium-bitartarát) | 868-14-4 |
 
 | Fehér ásványolajok | 8042-47-5 |
+
+[^17]: A 16. § b) pontját a 32/2014. (XII. 9.) FM rendelet 5. § c) pontja hatályon kívül helyezte.

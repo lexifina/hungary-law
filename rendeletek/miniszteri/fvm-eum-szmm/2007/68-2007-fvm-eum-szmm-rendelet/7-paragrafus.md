@@ -4,9 +4,9 @@
 
 a) a mintavétel időpontját, körülményeit, a vett minta pontos azonosítását, a vizsgálat alá vont tétel mennyiségét, egységárát,
 
-b)[^6] a mintaadó természetes, illetve jogi személy vagy jogi személyiséggel nem rendelkező szervezet nevét és címét (székhelyét, illetve telephelyét),
+b)[^12] a mintaadó természetes, illetve jogi személy vagy jogi személyiséggel nem rendelkező szervezet nevét és címét (székhelyét, illetve telephelyét),
 
-c)[^7] az élelmiszer-előállító vagy élelmiszer-forgalmazó természetes, illetve jogi személy vagy jogi személyiséggel nem rendelkező szervezet nevét és címét (székhelyét, illetve telephelyét), valamint
+c)[^13] az élelmiszer-előállító vagy élelmiszer-forgalmazó természetes, illetve jogi személy vagy jogi személyiséggel nem rendelkező szervezet nevét és címét (székhelyét, illetve telephelyét), valamint
 
 d) ellenminta vételt.
 
@@ -14,5 +14,5 @@ d) ellenminta vételt.
 
 (3) A kérelemre végzett hatósági élelmiszer-ellenőrzés és igazolás kiadása díjköteles, amelyet a kérelmezőnek kell megfizetnie a külön jogszabály szerint.
 
-[^6]: A 7. § (1) bekezdés b) pontja a 22/2014. (III. 14.) VM rendelet 42. §-a szerint módosított szöveg.
-[^7]: A 7. § (1) bekezdés c) pontja a 22/2014. (III. 14.) VM rendelet 42. §-a szerint módosított szöveg.
+[^12]: A 7. § (1) bekezdés b) pontja a 22/2014. (III. 14.) VM rendelet 42. §-a szerint módosított szöveg.
+[^13]: A 7. § (1) bekezdés c) pontja a 22/2014. (III. 14.) VM rendelet 42. §-a szerint módosított szöveg.
