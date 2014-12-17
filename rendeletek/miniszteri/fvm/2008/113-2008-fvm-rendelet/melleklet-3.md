@@ -76,7 +76,7 @@
 
 ## 1. Pisztrángfélék fertőző vérképzőszervi elhalása (Infectious haemapoietic necrosis)
 
-## 2. Lazacok fertőző vérszegénysége (Infectious salmon anaemia)
+## 2.[^26] Lazacok fertőző vérszegénysége: az ISAV vírusnemzetség HPR-deletált genotípusával való fertőzés (Infectious salmon anaemia: infection with genotype HPR- deleted of the genus Isavirus, ISAV)
 
 ## 3. Pisztrángok vírusos vérfertőzése (Viral haemorrhagic septicaemia)
 
@@ -167,3 +167,5 @@ b) a 2. számú melléklet B. részében felsorolt, a víziállatokat érintő m
 1. Az egzotikus betegségek kitörését, valamint a nem egzotikus betegségeknek azon kitöréseit, amelyek a tenyésztett víziállatokra vonatkozó állategészségügyi követelményekről szóló FVM rendelet szerinti, előzetesen betegségtől mentes tagállamokban, övezetekben vagy területi egységekben jelentkeztek, elsődleges kitörésként kell bejelenteni. Az övezet vagy területi egység nevét és leírását a folyó szövegben fel kell tüntetni.
 
 2. Az 1. pontban nem említett betegségkitöréseket másodlagos kitörésnek kell tekinteni, és havi rendszerességgel kell jelenteni.
+
+[^26]: A 2. számú melléklet B. rész 2. pontja a 32/2014. (XII. 9.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
