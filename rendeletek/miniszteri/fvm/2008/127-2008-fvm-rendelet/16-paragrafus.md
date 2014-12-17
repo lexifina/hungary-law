@@ -1,31 +1,33 @@
-## A tenyésztett víziállatok tenyésztési és állománypótlási célú forgalomba hozatalára vonatkozó általános követelmények
+## A tenyésztett víziállatok tenyésztési, továbbtartási és állománypótlási célú forgalomba hozatalára vonatkozó általános követelmények[^36]
 
-16. § (1)[^16] A tenyésztett víziállatokat csak akkor szabad tenyésztési célból forgalomba hozni, ha – az V. fejezetben megállapított rendelkezések betartása mellett – előzetes helyszíni szemle alapján a képesített víziállat-egészségőr:
+16. § (1)[^37] A tenyésztett víziállatok belföldön tenyésztés, továbbtartás és állománypótlás céljából csak akkor hozhatók forgalomba, ha:
 
-a) írásban igazolja, hogy az állatok
+a) az V. fejezetben megállapított rendelkezések betartása mellett, előzetes helyszíni szemle alapján, a képesített víziállat-egészségőr a 8. számú melléklet szerinti víziállat-egészségőri igazolás I–III. részének adattartalmával megegyező igazolást ad ki arról, hogy
 
-aa) betegségre mutató elváltozást nem mutatnak,
+aa) az állatok betegségre mutató elváltozást nem mutatnak,
 
-ab) olyan gazdaságból származnak, ahol nem áll fenn ismeretlen eredetű megnövekedett arányú elhullás,
+ab) az állatok olyan gazdaságból származnak, ahol nem áll fenn ismeretlen eredetű megnövekedett arányú elhullás,
 
-ac) tudomása szerint állományában a koi herpesz-vírus betegség és a pontyfélék tavaszi virémiája vírusát nem mutatták ki és nem állapították meg az ezen kórokozók által okozott betegséget,
+ac) az érintett állományban a KHV vírusát nem mutatták ki, és nem állapítottak meg e kórokozók által okozott betegséget,
 
-b) fogékony fajok esetében a szállítólevélhez csatolja a koi herpesz-vírus betegség és a pontyfélék tavaszi virémiája kimutatására irányuló, az NRL által a víziállat-tenyésztő vállalkozás költségére egy éven belül elvégzett diagnosztikai vizsgálatok negatív eredményét tartalmazó dokumentumnak az általa aláírt másolatát.
+b) fogékony fajok esetében a víziállat-egészségőr a szállítólevélhez és az a) pont szerinti igazoláshoz csatolja a KHV kimutatására irányuló, az NRL által egy éven belül elvégzett diagnosztikai vizsgálatok negatív eredményét tartalmazó dokumentumnak az általa aláírt másolatát.
 
 (2) Az (1) bekezdést a 3. számú mellékletben nem említett betegségekre, valamint az azokra fogékony fajokra is alkalmazni kell.
 
-(3) Az (1) bekezdés b) pontjától eltérve, a hatósági állatorvos – kockázatértékelés alapján – engedélyezheti a forgalomba hozatalt, amennyiben az állatok a gazdaságnak olyan részéről származnak, amely független attól a járványügyi egységtől, ahol a megnövekedett arányú elhullás történt.
+(3)[^38]
 
-(4)[^17] Az V. fejezetben előírt járványvédelmi intézkedésekkel összhangban megsemmisítésre vagy leölésre szánt tenyésztett víziállatok tenyésztési és állománypótlási célból forgalomba nem hozhatók, ebben az esetben a járási állategészségügyi és élelmiszer-ellenőrző hivatal vezetője (a továbbiakban: járási főállatorvos) rendelkezése szerint kell eljárni.
+(4)[^39] Az V. fejezetben előírt járványvédelmi intézkedésekkel összhangban megsemmisítésre vagy leölésre szánt tenyésztett víziállatok tenyésztési és állománypótlási célból forgalomba nem hozhatók, ebben az esetben a járási állategészségügyi és élelmiszer-ellenőrző hivatal vezetője (a továbbiakban: járási főállatorvos) rendelkezése szerint kell eljárni.
 
 (5) A tenyésztett víziállatok állománypótlási célból abban az esetben engedhetők szabadon vagy bérhorgászati területekre, ha
 
 a) teljesítik az (1) bekezdés követelményeit, és
 
-b)[^18] olyan gazdaságból származnak, amelynek – a 2. számú melléklet A. része szerinti – egészségügyi állapota legalább egyenértékű azon vizek egészségügyi állapotával, amelyekbe ezeket kiengedik.
+b)[^40] olyan gazdaságból származnak, amelynek – a 2. számú melléklet A. része szerinti – egészségügyi állapota legalább egyenértékű azon vizek egészségügyi állapotával, amelyekbe ezeket kiengedik.
 
 (6) Az (5) bekezdést kell alkalmazni a 45. §-sal összhangban kialakított és működtetett programokra is.
 
-[^16]: A 16. § (1) bekezdése a 106/2009. (VIII. 14.) FVM rendelet 3. §-ával megállapított szöveg.
-[^17]: A 16. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § a) pontja szerint módosított szöveg.
-[^18]: A 16. § (5) bekezdés b) pontja a 106/2009. (VIII. 14.) FVM rendelet 4. §-ával megállapított szöveg.
+[^36]: A 16. §-t megelőző alcím a 32/2014. (XII. 9.) FM rendelet 8. § (16) bekezdésével megállapított szöveg.
+[^37]: A 16. § (1) bekezdése a 32/2014. (XII. 9.) FM rendelet 8. § (18) bekezdésével megállapított szöveg.
+[^38]: A 16. § (3) bekezdését a 32/2014. (XII. 9.) FM rendelet 10. § b) pontja hatályon kívül helyezte.
+[^39]: A 16. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § a) pontja szerint módosított szöveg.
+[^40]: A 16. § (5) bekezdés b) pontja a 106/2009. (VIII. 14.) FVM rendelet 4. §-ával megállapított szöveg.

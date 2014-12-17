@@ -20,7 +20,7 @@ b) olyan szennyvízkezelő rendszerrel rendelkezik, amely elfogadható szintre c
 
 (5)[^1] E rendeletet
 
-a) a 91/67/EGK tanácsi irányelvnek a tenyésztett víziállatok egyes betegségei elleni intézkedések tekintetében történő végrehajtásáról szóló, 2004. április 29-i 2004/453/EK bizottsági határozattal,
+a)[^2]
 
 b) a 2006/88/EK tanácsi irányelvnek a tenyésztett víziállatok karanténjára vonatkozó követelmények tekintetében történő végrehajtásáról szóló, 2008. december 12-i 2008/946/EK bizottsági határozattal (a továbbiakban: 2008/946/EK határozat),
 
@@ -28,4 +28,8 @@ c) a 2006/88/EK tanácsi irányelvnek a tenyésztett víziállatok és az azokb�
 
 d) a 2006/88/EK tanácsi irányelvnek a felügyeleti és felszámolási programok, valamint a tagállamok, övezetek és területi egységek betegségtől mentes minősítése tekintetében történő végrehajtásáról szóló 2008. október 31-i 2009/177/EK bizottsági határozattal
 
+e)[^3] a 2010/221/EU bizottsági határozattal
+
 [^1]: A 2. § (5) bekezdése a 106/2009. (VIII. 14.) FVM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (5) bekezdés a) pontját a 32/2014. (XII. 9.) FM rendelet 10. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (5) bekezdés e) pontját a 32/2014. (XII. 9.) FM rendelet 8. § (1) bekezdése iktatta be.

@@ -8,7 +8,7 @@
 
 2. Átmosóterület: egyértelműen jelölt határvonalakkal rendelkező és bójákkal, cölöpökkel vagy egyéb rögzített eszközzel jelzett, valamint kizárólag az élő puhatestűek természetes tisztítására használt édesvízi, tengeri, torkolati vagy lagúnaterület;
 
-3. Bérhorgászati terület: olyan mesterséges tó vagy egyéb létesítmény, amelyben a tenyésztett víziállat populációt állománypótlással tartják fenn kizárólag szabadidős horgászat céljából;
+3.[^4] Bérhorgászati terület: olyan mesterséges tó vagy egyéb létesítmény vagy ilyen tevékenységet folytató halgazdálkodási vízterület, amelyben a tenyésztett víziállat populációt állománypótlással tartják fenn kizárólag szabadidős horgászat céljából;
 
 4. Betegség: a víziállatok egy vagy több kórokozó által okozott klinikai vagy nem klinikai fertőzése;
 
@@ -16,7 +16,7 @@
 
 6. Betegségtől mentes övezet vagy területi egység: az 51. vagy az 52. §-sal összhangban betegségtől mentesnek minősített övezet vagy területi egység;
 
-7. Előkészítés: a tenyésztett víziállatoknak az emberi fogyasztást megelőző bármilyen, az anatómiai egészet érintő beavatkozással és technológiával való feldolgozása, például elvéreztetés, kizsigerelés/a szem eltávolítása, a fej eltávolítása, szeletelés és filézés, amelyek hulladék vagy melléktermékek képződésével jár, és amely a betegségek elterjedésének kockázatát okozhatja (a tenyésztett víziállatokra és az azokból származó termékekre vonatkozó állat-egészségügyi követelményekről és a víziállatokban előforduló egyes betegségek megelőzéséről és az azok elleni védekezésről szóló, 2006. október 24-i 2006/88/EK tanácsi irányelv szerinti „további feldolgozás”);
+7.[^5] Előkészítés: a tenyésztett víziállatoknak az emberi fogyasztást megelőző bármilyen, az anatómiai egészet megbontó beavatkozással és technológiával való kezelése (elvéreztetés, kizsigerelés, a szem eltávolítása, a fej eltávolítása, szeletelés és filézés, valamint bármely más további feldolgozás), amely hulladék vagy melléktermékek képződésével jár és betegségek elterjedésének kockázatát okozhatja, valamint a mezőgazdasági haszonállatok tartásának állatvédelmi szabályairól szóló jogszabály szerinti, halak esetében alkalmazható kábítás, amennyiben ez biztosítja, hogy a hal nem nyeri vissza az eszméletét;
 
 8. Elszigetelő terület: fertőzött gazdaságot vagy puhatestű-tenyésztési területet körülvevő terület, ahol a betegség elterjedésének megelőzése céljából járványvédelmi intézkedéseket alkalmaznak;
 
@@ -30,7 +30,7 @@
 
 13. Forgalomba hozatal: a tenyésztett víziállatok értékesítése, beleértve az eladásra történő felkínálást vagy az átruházás bármely más – akár ellenérték fejében történő, akár ingyenes – formáját és a víziállatok gazdaságból vagy puhatestű-tenyésztési területről történő elvitelének bármilyen formáját;
 
-14. Gazdaság: víziállat-tenyésztő vállalkozás által működtetett olyan helyiség, zárt terület vagy létesítmény, ahol tenyésztett víziállatokat forgalomba hozatal céljából tartanak, azok kivételével, ahol emberi fogyasztás céljából lehalászott vagy kifogott vadon élő víziállatokat átmenetileg – leölésig – és etetés nélkül tartanak;
+14.[^6] Gazdaság: víziállat-tenyésztő vállalkozás által működtetett olyan helyiség, zárt terület vagy létesítmény, ahol tenyésztett víziállatokat forgalomba hozatal céljából tartanak, beleértve az ilyen célra használt haltermelési létesítményt és az ilyen tevékenységet folytató halgazdálkodási vízterületet, ahol nem kizárólag vadon élő víziállatot tartanak, az átmeneti tárolók és azon helyiségek, zárt területek vagy létesítmények kivételével, ahol emberi fogyasztás céljából lehalászott vagy kifogott vadon élő víziállatokat átmenetileg, leölésig, és etetés nélkül tartanak;
 
 15. Haltakarmány-előállítás: a víziállatok haltakarmányozási célú feldolgozása, keverése, kezelése és csomagolása;
 
@@ -76,6 +76,14 @@ c) a Crustacea altörzsbe tartozó rákfélék;
 
 33. Víziállat-tenyésztő vállalkozás üzemeltetője: az ellenőrzése alatt álló víziállat-tenyésztő vállalkozásban az e rendelet követelményei betartásának biztosításáért felelős természetes személy.
 
+34.[^7] Áruhal: kiskereskedelmi létesítmény, gazdaság vagy bérhorgászati terület által előkészítés nélkül, emberi fogyasztás céljából forgalomba hozott élőhal;
+
+35.[^8] Átmeneti tároló: előkészítés nélkül, emberi fogyasztás céljából forgalomba hozott halszállítmányok olyan átmeneti tárolására szolgáló engedélyezett, természetes vízzel kapcsolatban nem álló létesítmény, ahonnan a hal élő állapotban kizárólag és közvetlenül kereskedelmi célú létesítménybe szállítható;
+
+36.[^9] Természetes víz: a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény szerinti halgazdálkodási vízterület;
+
+37.[^10] Nyilvántartott feldolgozó-létesítmény: az állati eredetű élelmiszerek forgalomba hozatalának és az értékesítés helyén történő élelmiszer-előállításnak élelmiszer-higiéniai feltételeiről szóló miniszteri rendelet szerinti kiskereskedelmi létesítmények, amelyek élő halat és halászati terméket forgalmaznak, továbbá friss, előkészített és feldolgozott halászati terméket állítanak elő.
+
 (2) E rendelet alkalmazásában
 
 a) az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszer-biztonsági Hatóság létrehozásáról és az élelmiszer-biztonságra vonatkozó eljárások megállapításáról szóló, 2002. január 28-i 178/2002/EK európai parlamenti és tanácsi rendelet 2. és 3. cikke,
@@ -85,3 +93,17 @@ b) az élelmiszer-higiéniáról szóló, 2004. április 29-i 852/2004/EK európ
 c) a 853/2004/EK rendelet 2. cikke, és
 
 d) a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló, 2004. április 29-i 882/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 882/2004/EK rendelet) 2. cikke
+
+e)[^11] a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény,
+
+f)[^12] az állati eredetű élelmiszerek forgalomba hozatalának és az értékesítés helyén történő élelmiszer-előállításnak élelmiszer-higiéniai feltételeiről szóló 64/2007. (VII. 23.) FVM–EüM együttes rendelet
+
+[^4]: A 3. § (1) bekezdés 3. pontja a 32/2014. (XII. 9.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^5]: A 3. § (1) bekezdés 7. pontja a 32/2014. (XII. 9.) FM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^6]: A 3. § (1) bekezdés 14. pontja a 32/2014. (XII. 9.) FM rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^7]: A 3. § (1) bekezdés 34. pontját a 32/2014. (XII. 9.) FM rendelet 8. § (5) bekezdése iktatta be.
+[^8]: A 3. § (1) bekezdés 35. pontját a 32/2014. (XII. 9.) FM rendelet 8. § (5) bekezdése iktatta be.
+[^9]: A 3. § (1) bekezdés 36. pontját a 32/2014. (XII. 9.) FM rendelet 8. § (5) bekezdése iktatta be.
+[^10]: A 3. § (1) bekezdés 37. pontját a 32/2014. (XII. 9.) FM rendelet 8. § (5) bekezdése iktatta be.
+[^11]: A 3. § (2) bekezdés e) pontját a 32/2014. (XII. 9.) FM rendelet 8. § (6) bekezdése iktatta be.
+[^12]: A 3. § (2) bekezdés f) pontját a 32/2014. (XII. 9.) FM rendelet 8. § (6) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 36. § (1) A 3. számú melléklet szerinti betegség jelenlétének megerősítése esetén fertőtleníteni kell
 
-a)[^47] a korlátozó intézkedéssel érintett gazdaságban a tenyésztett víziállatok elhullása, lehalászása és elszállítása után, a víz fertőtlenítését és lebocsátását követően a meder- vagy medencefeneket annak kiszárításával és fertőtlenítésével,
+a)[^78] a korlátozó intézkedéssel érintett gazdaságban a tenyésztett víziállatok elhullása, lehalászása és elszállítása után, a víz fertőtlenítését és lebocsátását követően a meder- vagy medencefeneket annak kiszárításával és fertőtlenítésével,
 
 b) a halászati eszközöket,
 
@@ -10,7 +10,7 @@ d) a gumicsizmákat, vászonneműket és kötényeket.
 
 (2) A fertőtlenítést hatósági állatorvos jelenlétében – külön jogszabályban foglaltak szerint – kell végezni. A halászati eszközöket meleg csersavas konzerválással is lehet fertőtleníteni, ezt követően tiszta csapvízben alaposan öblíteni kell. A vászonneműk és kötények fertőtlenítése kifőzés útján is történhet.
 
-(3)[^48] A járási főállatorvos a mentes övezetekben, területi egységekben vagy gazdaságokban további fertőtlenítés elvégzését rendelheti el, ha ezt a járványügyi helyzet indokolttá teszi.
+(3)[^79] A járási főállatorvos a mentes övezetekben, területi egységekben vagy gazdaságokban további fertőtlenítés elvégzését rendelheti el, ha ezt a járványügyi helyzet indokolttá teszi.
 
-[^47]: A 36. § (1) bekezdés a) pontja a 106/2009. (VIII. 14.) FVM rendelet 10. §-ával megállapított szöveg.
-[^48]: A 36. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.
+[^78]: A 36. § (1) bekezdés a) pontja a 106/2009. (VIII. 14.) FVM rendelet 10. §-ával megállapított szöveg.
+[^79]: A 36. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.

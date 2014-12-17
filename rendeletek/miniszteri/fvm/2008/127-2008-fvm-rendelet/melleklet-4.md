@@ -26,7 +26,7 @@
 
 | Koi herpesz-vírus betegség (KHV) | Közönséges ponty és koi ponty (Cyprinus carpio) |
 
-| Lazacok fertőző vérszegénysége (ISA) | Szivárványos pisztráng (Oncorhynchus mykiss), atlanti-óceáni lazac (Salmo salar) és sebes pisztráng (Salmo trutta) |
+| Lazacok fertőző vérszegénysége: az ISAV vírusnemzetség HPR-deletált genotípusával való fertőzés | Szivárványos pisztráng (Oncorhynchus mykiss), atlanti-óceáni lazac (Salmo salar) és sebes pisztráng (Salmo trutta) |
 
 | PUHATESTŰEK | Marteilia refringens-fertőzés | Ausztrál iszapi osztriga (Ostrea angasi), chilei lapos osztriga (Ostrea chilensis), európai lapos osztriga (Ostrea edulis), argentínai osztriga (Ostrea puelchana), kék éti kagyló (Mytilus edulis) és mediterrán kagyló (Mytilus galloprovincialis) |
 
