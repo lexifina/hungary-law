@@ -1,4 +1,4 @@
-4. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^61]
+4. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^71]
 
 ## A juh és kecske szaporításának részletes állat-egészségügyi feltételei
 
@@ -110,4 +110,4 @@ A mesterséges termékenyítő állomáson egy, az 5. pontban leírt, negatív e
 
 II. A nőivarú állatokra vonatkozó feltételek
 
-[^61]: A 4. számú melléklet a 114/2012. (XI. 13.) VM rendelet 13. §-ával megállapított szöveg.
+[^71]: A 4. számú melléklet a 114/2012. (XI. 13.) VM rendelet 13. §-ával megállapított szöveg.
