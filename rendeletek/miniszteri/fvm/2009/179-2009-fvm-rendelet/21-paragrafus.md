@@ -4,7 +4,7 @@
 
 a) a helyszínre haladéktalanul kiszállni,
 
-b)[^43] az érintett állatot, indokolt esetben a vele együtt tartottakat is – a NÉBIH által kiadott útmutató figyelembevételével – klinikailag megvizsgálni,
+b)[^46] az érintett állatot, indokolt esetben a vele együtt tartottakat is – a NÉBIH által kiadott útmutató figyelembevételével – klinikailag megvizsgálni,
 
 c) a vizsgálatról jegyzőkönyvet felvenni, amely tartalmazza:
 
@@ -20,9 +20,9 @@ ce) más országból történt behozatal esetén annak idejét és a származás
 
 a) elrendelni a TSE gyanús állat elkülönítését és hatósági megfigyelését, illetve kérődző állat esetén az állomány forgalmi korlátozását;
 
-b)[^44] a betegség gyanújáról haladéktalanul jelentést küldeni a járási főállatorvosnak.
+b)[^47] a betegség gyanújáról haladéktalanul jelentést küldeni a járási főállatorvosnak.
 
-(3)[^45] A hatósági állatorvos a járási főállatorvos rendelkezése szerint köteles
+(3)[^48] A hatósági állatorvos a járási főállatorvos rendelkezése szerint köteles
 
 a) intézkedni a TSE-re gyanús állat leöléséről,
 
@@ -48,26 +48,26 @@ b) egyéb esetekben
 
 ba) hatósági megfigyelés alá helyezi az idegrendszeri tünetet mutató állatot,
 
-bb)[^46] a járási főállatorvos felülvizsgálatát kéri az alternatív diagnózis megerősítéséhez.
+bb)[^49] a járási főállatorvos felülvizsgálatát kéri az alternatív diagnózis megerősítéséhez.
 
 (5) Az idegrendszeri tüneteket mutató, TSE gyanús állat elhullása esetén a hatósági állatorvos a kórelőzményi adatok, illetve az általa elvégzett kórbonctani vizsgálat alapján dönt a TSE gyanú megerősítéséről vagy kizárásáról.
 
-(6)[^47] A hatósági megfigyelésnél és forgalmi korlátozásnál alkalmazandó intézkedéseket a hatósági állatorvos addig nem függesztheti fel, amíg a járási főállatorvos ki nem zárja a TSE betegség gyanúját.
+(6)[^50] A hatósági megfigyelésnél és forgalmi korlátozásnál alkalmazandó intézkedéseket a hatósági állatorvos addig nem függesztheti fel, amíg a járási főállatorvos ki nem zárja a TSE betegség gyanúját.
 
 (7) A vágóhidat felügyelő állatorvos a vágóhídi élőállat vizsgálat során történő idegrendszeri tünetek megállapítása esetén
 
-a)[^48] haladéktalanul értesíti a járási főállatorvost;
+a)[^51] haladéktalanul értesíti a járási főállatorvost;
 
 b) az érintett állat levágását megtiltja;
 
 c) az idegrendszeri tünetet mutató állat vizsgálatáról az (1) bekezdés szerint jegyzőkönyvet vesz fel;
 
-d)[^49] alternatív diagnózis felmerülése esetén a járási főállatorvos felülvizsgálatát kéri.
+d)[^52] alternatív diagnózis felmerülése esetén a járási főállatorvos felülvizsgálatát kéri.
 
-[^43]: A 21. § (1) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 115. § d) pontja szerint módosított szöveg.
-[^44]: A 21. § (2) bekezdés b) pontja a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
-[^45]: A 21. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
-[^46]: A 21. § (4) bekezdés b) pont bb) alpontja a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
-[^47]: A 21. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
-[^48]: A 21. § (7) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
-[^49]: A 21. § (7) bekezdés d) pontja a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
+[^46]: A 21. § (1) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 115. § d) pontja szerint módosított szöveg.
+[^47]: A 21. § (2) bekezdés b) pontja a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
+[^48]: A 21. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
+[^49]: A 21. § (4) bekezdés b) pont bb) alpontja a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
+[^50]: A 21. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
+[^51]: A 21. § (7) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
+[^52]: A 21. § (7) bekezdés d) pontja a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.

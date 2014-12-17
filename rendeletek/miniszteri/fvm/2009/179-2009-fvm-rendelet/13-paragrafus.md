@@ -6,4 +6,6 @@
 
 (2) A szarvasmarhák, juhok és kecskék, továbbá embrióik és petesejtjeik, illetve egyéb termékeik harmadik országból történő behozatala esetén a 999/2001/EK rendelet IX. melléklete alapján kell eljárni.
 
-(3) A szarvasmarhák, juhok és kecskék, továbbá embrióik és petesejtjeik, illetve egyéb termékeik harmadik országba történő kivitelekor a 999/2001/EK rendeletben foglaltakon kívül figyelembe kell venni a fogadó ország előírásait is. A feldolgozott állati eredetű fehérjék exportjánál be kell tartani 999/2001/EK rendelet IV. melléklete III. E. pontjában foglaltakat.
+(3)[^25] A szarvasmarhák, juhok és kecskék, továbbá embrióik és petesejtjeik, illetve egyéb termékeik harmadik országba történő kivitelekor a 999/2001/EK rendeletben foglaltakon kívül figyelembe kell venni a fogadó ország előírásait is. A feldolgozott állati eredetű fehérjék exportjánál be kell tartani a 999/2001/EK rendelet IV. melléklete V. fejezet E. szakaszában foglaltakat.
+
+[^25]: A 13. § (3) bekezdése a 32/2014. (XII. 9.) FM rendelet 14. § (1) bekezdésével megállapított szöveg.
