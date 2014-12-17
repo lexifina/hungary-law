@@ -1,8 +1,8 @@
 ## Támogatási kérelem, kifizetés
 
-6. §[^17] (1)[^18] Az engedélyes a tárgyhónapban elvégzett szolgáltatásokról legkésőbb a tárgyhónapot követő hónap 20. napján kiállított számlák másolatát a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített és honlapján közzétett, legalább a 4. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolva a tárgyhónapot követő hónap huszadik napjáig postai úton megküldi a kedvezményezett telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak. A támogatott állat-egészségügyi szolgáltatásra vonatkozó támogatási kérelmeket és számlákat a baromfifélékre, illetve az egyéb állatfajokra vonatkozóan külön kell elkészíteni és benyújtani.
+6. §[^17] (1)[^18] Az engedélyes a tárgyhónapban elvégzett szolgáltatásokról legkésőbb a tárgyhónapot követő hónap 20. napján kiállított számlák másolatát a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített és honlapján közzétett, legalább a 3. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolva a tárgyhónapot követő hónap huszadik napjáig postai úton megküldi a kedvezményezett telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak. A támogatott állat-egészségügyi szolgáltatásra vonatkozó támogatási kérelmeket és számlákat a baromfifélékre, illetve az egyéb állatfajokra vonatkozóan külön kell elkészíteni és benyújtani.
 
-(1a)[^19] Sertés állatfaj esetében elvégzett, a C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás esetén a szolgáltatás elvégzésének hónapja az 5. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és az MVH honlapján közzétett nyilatkozaton szereplő tárgyidőszak. A nem sertés állatfaj esetében elvégzett, a C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás esetén a szolgáltatás elvégzésének hónapja az a hónap, amikor az adott állatfaj kikerült a kedvezményezett telephelyéről.
+(1a)[^19] Sertés állatfaj esetében elvégzett, a C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás esetén a szolgáltatás elvégzésének hónapja a 4. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és az MVH honlapján közzétett nyilatkozaton szereplő tárgyidőszak. A nem sertés állatfaj esetében elvégzett, a C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás esetén a szolgáltatás elvégzésének hónapja az a hónap, amikor az adott állatfaj kikerült a kedvezményezett telephelyéről.
 
 (1b)[^20]
 
@@ -16,7 +16,7 @@
 
 (3a)[^25] Sertés állatfaj (tenyészkoca) kivételével az engedélyesnek az 1. számú mellékletben C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás igényléséhez baromfi állatfaj esetében az 5. számú melléklet, szarvasmarha állatfaj esetében a 6. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és az MVH honlapján közzétett nyilatkozat eredeti példányát kell csatolnia. Az MVH az 5. számú és a 6. számú mellékletben feltüntetett adatokat a Baromfi Információs Rendszer (a továbbiakban: BIR), illetve az Egységes Nyilvántartási és Azonosítási Rendszer (a továbbiakban: ENAR) alapján ellenőrzi. Eltérés esetén az MVH a BIR-ben és az ENAR-ban szereplő adatok alapján hozza meg a döntését.
 
-(4)[^26] Sertés állatfaj (tenyészkoca) esetén az engedélyesnek az 1. számú mellékletben C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás igényléséhez az 5. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és az MVH honlapján közzétett nyilatkozat eredeti példányát kell csatolnia.
+(4)[^26] Sertés állatfaj (tenyészkoca) esetén az engedélyesnek az 1. számú mellékletben C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás igényléséhez a 4. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és az MVH honlapján közzétett nyilatkozat eredeti példányát kell csatolnia.
 
 (5) Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság támogatási összegként a számla szerinti, de legfeljebb az 1. számú mellékletben meghatározott elszámolható szolgáltatási értékeket veszi figyelembe, illetve ellenőrzi a támogatási kérelmen szereplő kedvezményezetteknek a csatolt számlákon feltüntetett szolgáltatások igénybevételére vonatkozó jogosultságát.
 
@@ -47,15 +47,15 @@ az a) és b) pontban foglaltakat az engedélyes támogatási kérelmén igazolja
 (13)[^34] A jóváhagyott támogatási összegről és a kifizetett támogatásról az MVH havonta tájékoztatást küld az agrárpolitikáért felelős miniszternek (a továbbiakban: miniszter) és ezekről az adatokról a NÉBIH elnökét is tájékoztatja.
 
 [^17]: A 6. § a 23/2011. (III. 28.) VM rendelet 4. §-ával megállapított szöveg.
-[^18]: A 6. § (1) bekezdése a 77/2012. (VII. 27.) VM rendelet 2. § (1) bekezdésével megállapított, a 24/2014. (XI. 6.) FM rendelet 10. § c) pontja szerint módosított szöveg.
-[^19]: A 6. § (1a) bekezdését a 93/2011. (X. 12.) VM rendelet 7. §-a iktatta be, szövege a 24/2014. (XI. 6.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^18]: A 6. § (1) bekezdése a 77/2012. (VII. 27.) VM rendelet 2. § (1) bekezdésével megállapított, a 24/2014. (XI. 6.) FM rendelet 10. § c) pontja, a 32/2014. (XII. 9.) FM rendelet 6. § a) pontja szerint módosított szöveg.
+[^19]: A 6. § (1a) bekezdését a 93/2011. (X. 12.) VM rendelet 7. §-a iktatta be, szövege a 24/2014. (XI. 6.) FM rendelet 4. § (1) bekezdésével megállapított, a 32/2014. (XII. 9.) FM rendelet 6. § b) pontja szerint módosított szöveg.
 [^20]: A 6. § (1b) bekezdését a 77/2012. (VII. 27.) VM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 24/2014. (XI. 6.) FM rendelet 11. § a) pontja.
 [^21]: A 6. § (1c) bekezdését a 139/2012. (XII. 22.) VM rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 24/2014. (XI. 6.) FM rendelet 11. § a) pontja.
 [^22]: A 6. § (1d) bekezdését a 139/2012. (XII. 22.) VM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 24/2014. (XI. 6.) FM rendelet 11. § a) pontja.
 [^23]: A 6. § (2) bekezdését a 24/2014. (XI. 6.) FM rendelet 11. § b) pontja hatályon kívül helyezte.
 [^24]: A 6. § (3) bekezdését a 24/2014. (XI. 6.) FM rendelet 11. § b) pontja hatályon kívül helyezte.
 [^25]: A 6. § (3a) bekezdését a 87/2012. (VIII. 27.) VM rendelet 16. §-a iktatta be, szövege a 24/2014. (XI. 6.) FM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^26]: A 6. § (4) bekezdése a 24/2014. (XI. 6.) FM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^26]: A 6. § (4) bekezdése a 24/2014. (XI. 6.) FM rendelet 4. § (2) bekezdésével megállapított, a 32/2014. (XII. 9.) FM rendelet 6. § b) pontja szerint módosított szöveg.
 [^27]: A 6. § (6) bekezdése a 24/2014. (XI. 6.) FM rendelet 4. § (3) bekezésével megállapított szöveg.
 [^28]: A 6. § (6a) bekezdését a 24/2014. (XI. 6.) FM rendelet 4. § (3) bekezdése iktatta be.
 [^29]: A 6. § (7) bekezdése a 24/2014. (XI. 6.) FM rendelet 4. § (4) bekezdésével megállapított szöveg.

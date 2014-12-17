@@ -40,13 +40,13 @@
 
 ## 7.2. Sertés állatfaj (tenyészkoca) kivételével az engedélyesnek az 1. számú mellékletben C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás igényléséhez baromfi állatfaj esetében az 5. számú melléklet, szarvasmarha állatfaj esetében a 6. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és az MVH honlapján közzétett nyilatkozatot kell csatolnia.
 
-## 7.3. A sertés állatfaj (tenyészkoca) esetén a C001 technikai kód alapján történő igényléshez az 5. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és honlapján közzétett nyilatkozat.
+## 7.3.[^57] A sertés állatfaj (tenyészkoca) esetén a C001 technikai kód alapján történő igényléshez a 4. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és honlapján közzétett nyilatkozat.
 
 ## 8. Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság igazolása a támogatási kérelemben megjelölt engedélyes által az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján meghatározott feltételek teljesítéséről és a jogosult támogatási összeg megjelöléséről, illetve a támogatási kérelem postai úton történő beküldésének időpontjáról.
 
 ## 9. Keltezés, a kedvezményezett telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgató főállatorvos (cégszerű) aláírása
 
-4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^57]
+4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^58]
 
 ## Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján tenyészsertés állományokban lévő tenyészállatok számára vonatkozó igazolás adattartalma
 
@@ -72,4 +72,5 @@
 
 6. Keltezés, a kedvezményezett és az engedélyes aláírása
 
-[^57]: A 4. számú melléklet a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés d) pontjával megállapított szöveg.
+[^57]: A 3. számú melléklet 7.3. pontja a 32/2014. (XII. 9.) FM rendelet 6. § b) pontja szerint módosított szöveg.
+[^58]: A 4. számú melléklet a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés d) pontjával megállapított szöveg.

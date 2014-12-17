@@ -1,4 +1,4 @@
-5. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^58]
+5. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^59]
 
 ## Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján vágóhídra szállított baromfilétszámra vonatkozóan
 
@@ -32,4 +32,4 @@
 
 7. Keltezés, a kedvezményezett és az engedélyes aláírása
 
-[^58]: Az 5. számú mellékletet a 23/2011. (III. 28.) VM rendelet 11. § (4) bekezdése iktatta be, szövege a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés e) pontjával megállapított szöveg.
+[^59]: Az 5. számú mellékletet a 23/2011. (III. 28.) VM rendelet 11. § (4) bekezdése iktatta be, szövege a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés e) pontjával megállapított szöveg.
