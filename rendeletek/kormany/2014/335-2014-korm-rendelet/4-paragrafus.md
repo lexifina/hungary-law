@@ -1,0 +1,1 @@
+## „(3) A jelentkezési kérelemnek tartalmaznia kell továbbá legalább egy jelentkezési hely megjelölését a 10. § (2) bekezdés a) pontja szerint, valamint az alap- és kiegészítő díj befizetésének igazolását a készpénz-átutalási megbízás feladóvevényének másolatával vagy a banki átutalás igazolása másolatával.”
