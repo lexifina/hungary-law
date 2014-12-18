@@ -1,1 +1,0 @@
-## „(3) Az élelmiszer-forgalmazó hely rendeltetésű helyiséget tartalmazó építmény építése, illetve ilyen rendeltetésű helyiséget tartalmazó építmény bővítése, átalakítása esetén a használatbavételi engedélyezési eljárás során a szakhatósági állásfoglalás megadásához mellékelni kell az ivóvíz megfelelő minőségét tanúsító, harminc napnál nem régebbi vízvizsgálati eredményt.”
