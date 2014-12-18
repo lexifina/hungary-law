@@ -58,7 +58,7 @@
 
 ## orlati vizsga tartható a következő szakokon:)
 
-## 4.[^89] Osztatlan tanárképzésben, amennyiben a szak, vagy szakpár legalább egyike művészeti jellegű.
+## 4.[^111] Osztatlan tanárképzésben, amennyiben a szak, vagy szakpár legalább egyike művészeti jellegű.
 
 2. melléklet a 423/2012. (XII. 29.) Korm. rendelethez
 
@@ -104,7 +104,7 @@ k) gazdasági ismeretek
 
 l) latin nyelv;
 
-3.[^90] a választható szakmai előkészítő vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
+3.[^112] a választható szakmai előkészítő vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
 
 a) egészségügyi alapismeretek
 
@@ -130,5 +130,5 @@ k) oktatási alapismeretek
 
 l) vendéglátás-idegenforgalom alapismeretek.
 
-[^89]: Az 1. melléklet III. pont 4. alpontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (1) bekezdése iktatta be.
-[^90]: A 2. melléklet 3. pont nyitó szövegrésze a 47/2013. (II. 20.) Korm. rendelet 9. § d) pontjával megállapított szöveg.
+[^111]: Az 1. melléklet III. pont 4. alpontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^112]: A 2. melléklet 3. pont nyitó szövegrésze a 47/2013. (II. 20.) Korm. rendelet 9. § d) pontjával megállapított szöveg.

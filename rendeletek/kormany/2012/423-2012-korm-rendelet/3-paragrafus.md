@@ -20,7 +20,7 @@ a Tájékoztató elektronikus formában történő közzétételéről.
 
 (5) A Hivatal a Tájékoztatóban megjelentetett felvételi hirdetményeket kiegészítő, módosító közleményt – a felsőoktatási intézmények által legkésőbb a jelentkezési határidőt 30 nappal megelőzően közölt adatok alapján – legkésőbb a jelentkezési határidőt 15 nappal megelőzően tehet közzé.
 
-(6)[^4] A miniszter által vezetett minisztérium (a továbbiakban: minisztérium) és a Hivatal a Tájékoztató teljes tartalmát a felsőoktatási felvételi eljárás hivatalos honlapján mindenki számára hozzáférhető formában közzéteszi.
+(6)[^4] Az oktatásért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) és a Hivatal a Tájékoztató teljes tartalmát a felsőoktatási felvételi eljárás hivatalos honlapján mindenki számára hozzáférhető formában közzéteszi.
 
 (7) A minisztérium és a Hivatal a Tájékoztató kiegészítését tartalmazó közleményt – amennyiben ilyen megjelenik – teljes terjedelemben, hivatalos honlapján mindenki számára hozzáférhető formában közzéteszi.
 
@@ -29,4 +29,4 @@ a Tájékoztató elektronikus formában történő közzétételéről.
 (9) A Hivatal gondoskodik arról, hogy a tájékoztató teljes tartalma legalább 10 évig visszakereshető legyen.
 
 [^3]: A 3. § (1) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
-[^4]: A 3. § (6) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (6) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 24. § a) pontja, a 335/2014. (XII. 18.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.

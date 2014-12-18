@@ -1,5 +1,3 @@
-## 35. § Amennyiben a jelentkező adott be jelentkezési lapot a 26. § (3) bekezdésében meghatározott képzésekre is, a felvételi döntés során azok sorrendjét is figyelembe kell venni.
-
 ## 13. Szakirányú továbbképzés
 
 36. § (1) A szakirányú továbbképzést hirdető intézmények, illetve a szakirányú továbbképzésre jelentkezők tekintetében a 3–31. §-t a jelen alcímben foglalt eltérésekkel kell alkalmazni.

@@ -1,3 +1,5 @@
-48. §[^87] A 2014. évi általános felsőoktatási felvételi eljárásban a közigazgatás-szervező alapképzési szakot, illetve a közigazgatási mesterképzési szakot azon intézmények is meghirdethetik, akik a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény egyes rendelkezéseinek végrehajtásáról szóló 363/2011. (XII. 30.) Korm. rendelet 20/A. § (1) bekezdése szerinti szakindítási engedéllyel nem rendelkeznek, de a 2013. évi általános felsőoktatási felvételi eljárásban rendelkeztek szakindítási engedéllyel az igazgatásszervező alapképzési, illetve a közigazgatási mesterképzési szakra.
+48. §[^109] (1) A felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet módosításáról szóló 335/2014. (XII. 18.) Korm. rendelet 6. §-ával módosított 15. § (6) bekezdését először a 2015. évi általános felvételi eljárásban kell alkalmazni.
 
-[^87]: A 48. § az 502/2013. (XII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.
+(2) A 2014. év tekintetében gyakorlatigényesnek minősül a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet 1. és 2. számú mellékletében 2014. április 18-án gyakorlatigényesként megjelölt szak.
+
+[^109]: A 48. § a 335/2014. (XII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.

@@ -1,14 +1,14 @@
-4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^92]
+4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^114]
 
 Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámítás szempontjából
 
-|  | A Az Országos Képzési Jegyzék szerinti emelt szintű és felsőfokú (54-es vagy 55-ös szakmaszámú) szakképesítések | B Szakiránynak megfelelő továbbtanulásnak minősülő képzési területek |
+|  | A Az Országos Képzési Jegyzék szerinti emeltszintű (54-es szakmaszámú) szakképesítések vagy emeltszintű (55-ös szakmaszámú) szakképesítés-ráépülések | B Szakiránynak megfelelő továbbtanulásnak minősülő képzési területek |
 
 | 1 | egészségügy | orvos- és egészségtudomány |
 
 | 2 | szociális szolgáltatások | pedagógusképzés társadalomtudomány |
 
-| 3 | oktatás (oktatás, pedagógia), kivéve: fitness-wellness instruktor; sportedző; személyi edző szakképesítések | bölcsészettudomány pedagógusképzés |
+| 3 | oktatás (oktatás, pedagógia), kivéve: fitness-wellness instruktor; sportedző; személyi edző | bölcsészettudomány pedagógusképzés |
 
 | 4 | művészet, közművelődés, kommunikáció | bölcsészettudomány művészet művészetközvetítés társadalomtudomány |
 
@@ -34,7 +34,7 @@ Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámít
 
 | 15 | közgazdaság | gazdaságtudományok |
 
-| 16 | ügyvitel (kivéve a rendészeti asszisztens szakképesítés) | bölcsészettudomány gazdaságtudományok jogi társadalomtudomány |
+| 16 | ügyvitel (kivéve a rendészeti asszisztens) | bölcsészettudomány gazdaságtudományok jogi társadalomtudomány |
 
 | 17 | kereskedelem-marketing, üzleti adminisztráció | gazdaságtudományok |
 
@@ -46,8 +46,8 @@ Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámít
 
 | 21 | élelmiszeripar | agrár |
 
-| 22 | közszolgálat; egyéb szolgáltatások [az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet hatálybalépése előtti OKJ-rendeletek egyéb szolgáltatások szakmacsoportja szerinti honvéd, rendészeti és privátbiztonsági (pl. személy- és vagyonőr, biztonsági őr) szakképesítések, amelyeket az Oktatási Hivatal a felsőoktatási felvételi eljárás hivatalos honlapján közzétesz] rendészeti asszisztens szakképesítés | jogi közigazgatási, rendészeti és katonai |
+| 22 | közszolgálat; egyéb szolgáltatások [az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet hatálybalépése előtti OKJ-rendeletek egyéb szolgáltatások szakmacsoportja szerinti honvéd, rendészeti és privátbiztonsági (pl. személy- és vagyonőr, biztonsági őr) szakképesítések, amelyeket az Oktatási Hivatal a felsőoktatási felvételi eljárás hivatalos honlapján közzétesz] rendészeti asszisztens | jogi közigazgatási, rendészeti és katonai |
 
-| 23 | sportkommunikátor; fitness-wellness instruktor; sportedző; személyi edző szakképesítések | sporttudomány |
+| 23 | sportkommunikátor; fitness-wellness instruktor; sportedző; személyi edző, rekreációs mozgásprogram- vezető | sporttudomány |
 
-[^92]: A 4. mellékletet a 47/2013. (II. 20.) Korm. rendelet 10. §-a iktatta be, az 502/2013. (XII. 29.) Korm. rendelet 23. § (4) bekezdése szerint módosított szöveg.
+[^114]: A 4. mellékletet a 47/2013. (II. 20.) Korm. rendelet 10. §-a iktatta be, az 502/2013. (XII. 29.) Korm. rendelet 23. § (4) bekezdése, a 335/2014. (XII. 18.) Korm. rendelet 16. § (2) bekezdése, a 17. § o) pontja és 18. § g)–h) pontja szerint módosított szöveg.
