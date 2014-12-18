@@ -1,0 +1,3 @@
+3. § (1) A pénzügyi intézmény a 2014. évi XL. törvény 16. § (3) bekezdésében foglalt közzétételi kötelezettségének az 5. melléklet szerinti tartalommal és formában tesz eleget.
+
+(2) A közzétételt a pénzügyi intézmény az internetes honlapjának főlapján, a figyelem felkeltésére alkalmas módon megjelenített „Elszámolási és forintosítási információk” cím, „Közzétételek elszámolási kötelezettség teljesítéséről” alcím alatt teszi elérhetővé, az ügyfélfogadásra nyitva álló helyiségeiben pedig a figyelem felkeltésére alkalmas módon, a hirdetmények kifüggesztésére szolgáló, jól látható helyen és módon kifüggeszti. A pénzügyi intézmény a közzétételben szereplő adatokat szükség esetén folyamatosan frissíti.
