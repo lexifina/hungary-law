@@ -1,0 +1,65 @@
+# A Kormány 334/2014. (XII. 18.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 179. szám, 2014. december 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/365108c069a4dd05a30e664c9f92c19e897b4da5/dokumentumok/798540b5935c15d4ca1da10a662e655004faceb7/letoltes)
+
+---
+
+A Kormány 334/2014. (XII. 18.) Korm. rendelete
+a közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről szóló
+212/2013. (VI. 19.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről szóló 212/2013.
+(VI. 19.) Korm. rendelet 1. § a) pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„a) gyógyszerész: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint
+a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 74. §
+(1) bekezdés a) és b) pontjában meghatározott, Magyarországon megszerzett gyógyszerész oklevéllel vagy
+a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény (a továbbiakban: Etv.) Harmadik része
+szerinti eljárásban elismert, külföldön megszerzett gyógyszerész oklevéllel rendelkező személyi jogos gyógyszerész,
+a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerész és a gyógyszertárat
+működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerész, továbbá bármely gyógyszerész, aki
+a szakmája, önálló foglalkozása vagy üzleti tevékenysége körében eljárva közforgalmú gyógyszertárat működtető
+vállalkozásban tulajdoni hányadot kíván szerezni;”
+2. §
+A közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről szóló 212/2013.
+(VI. 19.) Korm. rendelet 1. § d) pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„d) Patika Hitelprogram: az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban:
+MFB Zrt.) által az MFB Vállalkozásfinanszírozási Program vagy az MFB Vállalkozásfinanszírozási Program 2020
+(a továbbiakban együtt: Vállalkozásfinanszírozási Program) keretében működtetett, a Gyftv. 74. § (1) bekezdésében
+és 83/A. § (1) bekezdésében említett követelményeknek történő megfelelés elősegítése céljából meghirdetett
+program;”
+3. §
+A közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről szóló 212/2013.
+(VI. 19.) Korm. rendelet 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az általános csekély összegű (de minimis) rendelet 6. cikk (1) bekezdése szerinti kötelezettséget
+a kamattámogatás tekintetében a támogatást nyújtó szerv köteles teljesíteni.”
+4. §
+A közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről szóló 212/2013.
+(VI. 19.) Korm. rendelet 3. melléklete az 1. melléklet szerint módosul.
+
+5. §
+Hatályát veszti a közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről szóló
+212/2013. (VI. 19.) Korm. rendelet 2. melléklet 5. pontja.
+6. §
+Ez a rendelet 2015. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 334/2014. (XII. 18.) Korm. rendelethez
+1. A közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről szóló 212/2013.
+(VI. 19.) Korm. rendelet 3. melléklet 3.2. pontja helyébe a következő rendelkezés lép:
+(Az állami támogatás)
+„3.2. kategóriája [D Csekély összegű támogatás – az Európai Unió működéséről szóló szerződés 107. és 108. cikkének
+a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet
+(Európai Unió Hivatalos Lapja 2013.12.24. L 352. 1–8. oldal)]”
+2. A közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről szóló 212/2013.
+(VI. 19.) Korm. rendelet 3. melléklet 5. pontja helyébe a következő rendelkezés lép:
+„5. A hitelprogram megnevezése (MFB Vállalkozásfinanszírozási Program 2020 Patika Hitelprogram hitelcél)”
+3. A közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről szóló 212/2013.
+(VI. 19.) Korm. rendelet 3. melléklet 8. pontja helyébe a következő rendelkezés lép:
+„8. A támogatást nyújtó szerv által kiállított, keltezéssel és aláírással ellátott nyilatkozat, amelyből kiderül, hogy
+a kedvezményes kölcsön felhasználására az MFB Zrt. által meghirdetett MFB Vállalkozásfinanszírozási Program
+10.3 Patika Hitelprogram hitelcélja, vagy az MFB Vállalkozásfinanszírozási Program 2020 Patika Hitelprogram hitelcél
+keretében kerül sor, melyhez a támogatást nyújtó szerv kamattámogatást biztosított.”
