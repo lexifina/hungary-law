@@ -86,11 +86,13 @@
 
 1.29.[^9] a külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
 
+1.32.[^10] Egységes Kormányzati Ügyiratkezelő Rendszer működéséhez kapcsolódó érkeztető modul szerverei, munkaállomásai, és kapcsolódó informatikai eszközei.
+
 2. A központi szolgáltató a következő informatikai rendszerek fejlesztéséről gondoskodik:
 
 2.1. Az 1.17. pont szerinti önkormányzati ASP központot kiszolgáló informatikai rendszer.
 
-2.2.[^10] A külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
+2.2.[^11] A külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
 
 3. A központi szolgáltató a következő informatikai rendszerek fejlesztésében működik közre:
 
@@ -112,8 +114,12 @@
 
 3.9. Az 1.25. pont szerinti Intézmények közötti integrációt támogató infrastruktúra rendszer;
 
-3.10. Az 1.26. pont szerinti Mentés irányítási rendszer.
+3.10. Az 1.26. pont szerinti Mentés irányítási rendszer;
+
+3.11.[^12] Az 1.32. pont szerinti Egységes Kormányzati Ügyiratkezelő Rendszer.
 
 [^8]: Az 1. melléklet 1.28. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (1) bekezdése iktatta be.
 [^9]: Az 1. melléklet 1.29. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (1) bekezdése iktatta be.
-[^10]: Az 1. melléklet 2.2. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (2) bekezdése iktatta be.
+[^10]: Az 1. melléklet 1. pont 1.32. alpontját a 68/2014. (XII. 17.) BM rendelet 1. §-a iktatta be.
+[^11]: Az 1. melléklet 2.2. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (2) bekezdése iktatta be.
+[^12]: Az 1. melléklet 3. pont 3.11. alpontját a 68/2014. (XII. 17.) BM rendelet 1. §-a iktatta be.
