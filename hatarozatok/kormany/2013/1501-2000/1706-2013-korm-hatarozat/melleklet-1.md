@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében az Isztambuli Magyar Intézet létrehozásához 219,6 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet,
+## 1.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében az Isztambuli Magyar Intézet létrehozásához 219,6 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet,
 
 ## 12. Balassi Intézet cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint;
 
@@ -12,7 +12,7 @@
 
 ## Felelős: közigazgatási és igazságügyi miniszter
 
-## Határidő: 2014. december 31.
+## Határidő: 2015. június 30.
 
 ## 2. felhívja a nemzetgazdasági minisztert, hogy 2014-től évi 496,2 millió forint összegű költségvetési támogatás biztosításáról gondoskodjon a Balassi Intézet költségvetésében.
 
@@ -115,3 +115,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^2]: Az 1. pont az 1812/2014. (XII. 19.) Korm. határozat 22. pontja szerint módosított szöveg.
