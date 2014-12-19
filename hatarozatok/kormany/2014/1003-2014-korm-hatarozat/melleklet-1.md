@@ -1,4 +1,4 @@
-## 1. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján 2233,2 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint.
+## 1.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján 2233,2 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -18,9 +18,9 @@
 
 ## a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2014. december 15.
+## Határidő: 2014. december 15., a Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím részére biztosított összeg, a Balassi Intézet cím részére biztosított összeg és a Miniszterelnökség fejezet Fejezeti általános tartaléka alcímre biztosított összeg tekintetében 2015. június 30.
 
-## 2.[^1]
+## 2.[^2]
 
 1. melléklet az 1003/2014. (I. 17.) Korm. határozathoz
 
@@ -184,4 +184,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1812/2014. (XII. 19.) Korm. rendelet 16. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
