@@ -1,3 +1,3 @@
-## 6. § A Rendelet 15. § (6) bekezdése helyébe a következő rendelkezés lép:
+7. §[^7]
 
-## „(6) A felsőfokú végzettséggel rendelkező jelentkezőket – amennyiben alapképzésre, osztatlan képzésre vagy felsőoktatási szakképzésre jelentkeznek – a felsőoktatási intézmények a Tájékoztatóban közzétett módon a felsőfokú végzettséget tanúsító oklevél alapján, az emelt szintű érettségi követelménytől való eltekintéssel is rangsorolhatják. Ebben az esetben az oklevélért adható pontot az oklevél minősítése szerint a 23. § (1) bekezdésében megállapított ponthatár és 400 pont között arányosan kell megállapítani. Az így kapott pontszámhoz a jelentkező által elért összpontszám meghatározása érdekében hozzá kell adni a 20–21. §-ban és a 24. § (1) bekezdésében meghatározott többletpontokat. A jelentkezési kérelem csak akkor minősül a 11. § (2) bekezdés e) pontja szerint hiányosnak, ha a jelentkező az érettségi bizonyítványa és a középiskolai bizonyítványa alapján is kéri a pontszámítás elvégzését.”
+[^7]: Az 1–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

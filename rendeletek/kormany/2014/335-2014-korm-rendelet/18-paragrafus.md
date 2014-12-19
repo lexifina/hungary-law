@@ -1,21 +1,6 @@
-18. § (1) Hatályát veszti a Rendelet
+18. § (1)[^24]
 
-a) 8. § (3) bekezdés h) pontjában a „vagy az elutasításról” szövegrész,
+(2)[^25]
 
-b) 9. § (6) bekezdése,
-
-c) 10. § (3) bekezdésében a „postai úton vagy” szövegrész,
-
-d) 25. § (1) bekezdésében az „a miniszter,” szövegrész,
-
-e) 29. § (1) bekezdésében az „is” szövegrész,
-
-f) 45. § (2) és (3) bekezdése,
-
-g) 4. melléklet A:3 mezőjében a „szakképesítések” szövegrész és
-
-h) 4. melléklet A:16 és A:22 mezőjében a „szakképesítés” szövegrész.
-
-(2)[^7]
-
-[^7]: A 18. § (2) bekezdése a 19. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^24]: A 18. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 18. § (2) bekezdése a 19. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.

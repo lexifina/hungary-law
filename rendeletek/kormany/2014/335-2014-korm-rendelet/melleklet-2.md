@@ -24,10 +24,6 @@
 
 | 1. | matematika |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: biológia, fizika, földrajz, kémia, matematika.” |
 
-2. melléklet a 335/2014. (XII. 18.) Korm. rendelethez
+2. melléklet a 335/2014. (XII. 18.) Korm. rendelethez[^26]
 
-A Rendelet 4. mellékletében az A:23. mező helyébe a következő mező lép:
-
-|  | [A Az Országos Képzési Jegyzék szerinti emeltszintű (54-es szakmaszámú) szakképesítések vagy emeltszintű (55-ös szakmaszámú) szakképesítés-ráépülések] |
-
-| (23.) | sportkommunikátor; fitness-wellness instruktor; sportedző; személyi edző, rekreációs mozgásprogram-vezető |
+[^26]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „(4) Ha ugyanabból a tárgyból a jelentkező több, különböző eredménnyel is rendelkezik, a számára legelőnyösebb eredményt kell figyelembe venni az (1) bekezdésben foglaltak figyelembevételével.”
+9. §[^9]
+
+[^9]: Az 1–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

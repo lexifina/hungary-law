@@ -1,1 +1,3 @@
-## „(8) A besorolási döntést megelőző 28. napig az adatfeldolgozó az adatokat feldolgozza. Ugyaneddig a határidőig a Hivatal egységes tájékoztatást küld a jelentkezőknek, amelyben értesít a különböző pontszámítási módokhoz szükséges dokumentumokról, és felhívja a jelentkezőket az általuk kívánt pontszámításhoz szükséges mellékletek benyújtásának ellenőrzésére. A tájékoztatást azon jelentkezőknek is meg kell küldeni, akik hiánypótlásra felszólítást kaptak.”
+6. §[^6]
+
+[^6]: Az 1–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
