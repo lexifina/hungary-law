@@ -1,6 +1,6 @@
-## 20/C. §[^51] Adott munkavállaló esetében az egyéni támogatás időtartamát és a támogatás időtartamának kezdetét a rehabilitációs szakigazgatási szerv állapítja meg a munkavállaló komplex minősítésben meghatározott rehabilitációs szükségletei alapján.
+## 20/C. §[^52] Adott munkavállaló esetében az egyéni támogatás időtartamát és a támogatás időtartamának kezdetét a rehabilitációs szakigazgatási szerv állapítja meg a munkavállaló komplex minősítésben meghatározott rehabilitációs szükségletei alapján.
 
-20/D. §[^52] (1) Az egyéni támogatás feltétele az e rendelet szerinti egyéni foglalkoztatási megállapodás megkötése.
+20/D. §[^53] (1) Az egyéni támogatás feltétele az e rendelet szerinti egyéni foglalkoztatási megállapodás megkötése.
 
 (2) Az egyéni foglalkoztatási megállapodás feltétele az e rendelet szerinti éves támogatási szerződés megkötése.
 
@@ -8,5 +8,5 @@
 
 (4) Keretszerződés a rehabilitációs foglalkoztatásra kiírt pályázaton nyertes munkáltatóval köthető, illetve a pályázaton nyertes munkáltatónak hosszabbítható meg a hatályos keretszerződése.
 
-[^51]: A 20/C. §-t a 335/2013. (IX. 20.) Korm. rendelet 15. §-a iktatta be.
-[^52]: A 20/D. §-t a 335/2013. (IX. 20.) Korm. rendelet 15. §-a iktatta be.
+[^52]: A 20/C. §-t a 335/2013. (IX. 20.) Korm. rendelet 15. §-a iktatta be.
+[^53]: A 20/D. §-t a 335/2013. (IX. 20.) Korm. rendelet 15. §-a iktatta be.
