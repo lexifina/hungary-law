@@ -14,7 +14,7 @@
 
 ## Határidő: azonnal
 
-## 2. egyetért azzal, hogy a belügyminiszter a Kvtv. helyi önkormányzatok támogatásait tartalmazó költségvetési fejezetéből egyes székesfehérvári stratégiai jelentőségű vagyontárgyak önkormányzati tulajdonba kerülése érdekében nyújtandó támogatás felhasználásának és elszámolásának feltételeiről 2014. augusztus 31-ig támogatási megállapodást köt Székesfehérvár Megyei Jogú Város Önkormányzatával;
+## 2.[^1] egyetért azzal, hogy a belügyminiszter a Kvtv. helyi önkormányzatok támogatásait tartalmazó költségvetési fejezetéből egyes székesfehérvári stratégiai jelentőségű vagyontárgyak önkormányzati tulajdonba kerülése érdekében nyújtandó támogatás felhasználásának és elszámolásának feltételeiről 2014. december 15-ig támogatási megállapodást köt Székesfehérvár Megyei Jogú Város Önkormányzatával;
 
 ## 3. egyetért azzal, hogy a belügyminiszter a támogatást – a 2. pont szerinti megállapodás megkötését követően, legkésőbb 2015. december 31-ig történő elszámolási kötelezettséggel – folyósítsa Székesfehérvár Megyei Jogú Város Önkormányzata számára.
 
@@ -67,3 +67,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1822/2014. (XII. 19.) Korm. határozat 2. pontja szerint módosított szöveg.
