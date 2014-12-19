@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére 968,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel az 1. melléklet szerint;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére 968,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -14,7 +14,7 @@
 
 ## nemzeti fejlesztési miniszter
 
-## Határidő: 2014. június 30.
+## Határidő: 2014. június 30., a Zselic Katolikus Idősek Otthona kialakítására az Egyházi épített örökség védelme és egyéb beruházások jogcímcsoport javára átcsoportosított 100,0 millió forint tekintetében 2015. március 31.
 
 ## 2. felhívja a nemzetgazdasági minisztert, hogy az emberi erőforrások miniszterének bevonásával a celldömölki bencés kolostor felújításához 2014. évben szükséges 200,0 millió forintnak az Emberi Erőforrások Minisztériuma fejezetben történő biztosításáról gondoskodjanak;
 
@@ -48,7 +48,7 @@
 
 ## Határidő: 2014. március 31.
 
-## 6.[^1]
+## 6.[^2]
 
 1. melléklet az 1936/2013. (XII. 13.) Korm. határozathoz
 
@@ -170,4 +170,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1812/2014. (XII. 19.) Korm. határozat 13. pontja szerint módosított szöveg.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
