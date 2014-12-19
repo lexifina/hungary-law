@@ -6,7 +6,7 @@ a) a „Sikeres Magyarországért” Panel Plusz Hitelprogram elindításáról 
 
 b) a Bérlakás Program elindításáról és a „Sikeres Magyarországért” Bérlakás Hitelprogram meghirdetéséről szóló 1124/2005. (XII. 20.) Korm. határozat alapján meghirdetett „Sikeres Magyarországért” Bérlakás Hitelprogram lezárásával;
 
-c) az MFB Önkormányzati Infrastruktúrafejlesztési Program 100 milliárd forint árfolyam-fedezeti kötelezettségvállalással biztosított keretösszegének biztosításával;
+c)[^2] az MFB Önkormányzati Infrastruktúrafejlesztési Program 40 milliárd forint árfolyam-fedezeti kötelezettségvállalással biztosított keretösszegének biztosításával;
 
 d) Magyarország éves költségvetési törvényeiben meghatározott keret terhére az MFB Zrt. az MFB Önkormányzati Infrastruktúrafejlesztési Program finanszírozásához a derogációs projektek elismerhető költségein belül elvárt megtérülő önrészhez folyósított legfeljebb 50 milliárd forintos közvetlen és refinanszírozási hitelek tőkeösszegére vetítve – legfeljebb az 5 éves türelmi időre – 3 havi EURIBOR + 1%/év kamattámogatást kapjon. Egyetért a Nemzeti Fejlesztési Ügynökség elnöke felhatalmazásával, hogy a nemzetgazdasági miniszterrel egyetértésben az MFB Zrt.-vel a „Sikeres Magyarországért” Önkormányzati Infrastruktúrafejlesztési Hitelprogram keretében biztosított kamattámogatás biztosítására vonatkozó kamattámogatási szerződést kiegészítse;
 
@@ -33,3 +33,5 @@ Felelős: nemzetgazdasági miniszter
 nemzeti fejlesztési miniszter
 
 Határidő: 2012. január 31.
+
+[^2]: Az 1. pont c) alpontja az 1767/2014. (XII. 18.) Korm. határozat 5. pontjával megállapított szöveg.
