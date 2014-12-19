@@ -4,7 +4,7 @@
 
 ## c) fejlesztési célú hitel esetében a hitelt csak az 1. mellékletben szereplő fejlesztésekre lehet fordítani.
 
-1. melléklet az 1670/2014. (XI. 20.) Korm. határozathoz
+1. melléklet az 1670/2014. (XI. 20.) Korm. határozathoz[^1]
 
 | Sorszám | Önkormányzat neve | Ügylet adatai | Fejlesztés adatai | Kormány által engedélyezett fejlesztéshez kapcsolódó ügyletérték | Kormány az ügylethez/ fejlesztéshez hozzájárul (Igen, Nem, Részben) | Jóváhagyott ügylet adatai |
 
@@ -184,13 +184,13 @@
 
 | 29. | DUNAHARASZTI VÁROS ÖNKORMÁNYZATA | HUF | fejlesztés | Hitel | 25 | 100 000 000 | 3 | 2.1. Közoktatási intézmények építése, bővítése, műszaki felújítása és rekonstrukciója | 100 000 000 | 0 | Nem | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-| 30. | EGER MEGYEI JOGÚ VÁROS ÖNKORMÁNYZATA | HUF | fejlesztés | Hitel | 7 | 538 464 000 |  |  | 538 464 000 | 364 643 000 |  | 354 143 000 | 10 500 000 | 0 | 0 | 2 625 573 | 10 502 302 | 73 229 294 | 322 920 703 |
+| 30. | EGER MEGYEI JOGÚ VÁROS ÖNKORMÁNYZATA | HUF | fejlesztés | Hitel | 7 | 538 464 000 |  |  | 538 464 000 | 538 464 000 |  | 538 464 000 | 0 | 0 | 0 | 3 877 152 | 15 508 625 | 108 136 831 | 476 853 178 |
 
 | 30.1 |  |  |  |  |  |  | 1 | 7.13. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 5 000 000 | 5 000 000 | Igen |  |  |  |  |  |  |  |  |
 
 | 30.2 |  |  |  |  |  |  | 2 | 7.6. Közvilágítási és önkormányzati intézmények belső világítási hálózatának fejlesztése, korszerűsítése | 3 206 000 | 3 206 000 | Igen |  |  |  |  |  |  |  |  |
 
-| 30.3 |  |  |  |  |  |  | 3 | 7.7. Önkormányzati tulajdonú létesítmények felújítása | 11 106 000 | 0 | Nem |  |  |  |  |  |  |  |  |
+| 30.3 |  |  |  |  |  |  | 3 | 7.7. Önkormányzati tulajdonú létesítmények felújítása | 11 106 000 | 11 106 000 | Igen |  |  |  |  |  |  |  |  |
 
 | 30.4 |  |  |  |  |  |  | 4 | 7.3. Közbiztonság növelését szolgáló fejlesztések | 19 459 000 | 19 459 000 | Igen |  |  |  |  |  |  |  |  |
 
@@ -204,7 +204,7 @@
 
 | 30.9 |  |  |  |  |  |  | 9 | 1.3. Csapadékvíz-elvezetést szolgáló beruházások | 8 000 000 | 8 000 000 | Igen |  |  |  |  |  |  |  |  |
 
-| 30.10 |  |  |  |  |  |  | 10 | 4.7. Komplex közösségi terek létrehozása, fejlesztése | 3 000 000 | 0 | Nem |  |  |  |  |  |  |  |  |
+| 30.10 |  |  |  |  |  |  | 10 | 4.7. Komplex közösségi terek létrehozása, fejlesztése | 3 000 000 | 3 000 000 | Igen |  |  |  |  |  |  |  |  |
 
 | 30.11 |  |  |  |  |  |  | 11 | 7.7. Önkormányzati tulajdonú létesítmények felújítása | 12 781 000 | 12 781 000 | Igen |  |  |  |  |  |  |  |  |
 
@@ -218,7 +218,7 @@
 
 | 30.16 |  |  |  |  |  |  | 16 | 1.3. Csapadékvíz-elvezetést szolgáló beruházások | 40 136 000 | 40 136 000 | Igen |  |  |  |  |  |  |  |  |
 
-| 30.17 |  |  |  |  |  |  | 17 | 4.6. Egyéb sportcélú beruházások | 18 890 000 | 0 | Nem |  |  |  |  |  |  |  |  |
+| 30.17 |  |  |  |  |  |  | 17 | 4.6. Egyéb sportcélú beruházások | 18 890 000 | 18 890 000 | Igen |  |  |  |  |  |  |  |  |
 
 | 30.18 |  |  |  |  |  |  | 18 | 7.7. Önkormányzati tulajdonú létesítmények felújítása | 23 499 000 | 23 499 000 | Igen |  |  |  |  |  |  |  |  |
 
@@ -230,19 +230,19 @@
 
 | 30.22 |  |  |  |  |  |  | 22 | 7.1. Közutak, hidak építése, felújítása | 6 000 000 | 6 000 000 | Igen |  |  |  |  |  |  |  |  |
 
-| 30.23 |  |  |  |  |  |  | 23 | 7.13. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 6 700 000 | 0 | Nem |  |  |  |  |  |  |  |  |
+| 30.23 |  |  |  |  |  |  | 23 | 7.13. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 6 700 000 | 6 700 000 | Igen |  |  |  |  |  |  |  |  |
 
-| 30.24 |  |  |  |  |  |  | 24 | 7.13. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 5 500 000 | 0 | Nem |  |  |  |  |  |  |  |  |
+| 30.24 |  |  |  |  |  |  | 24 | 7.13. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 5 500 000 | 5 500 000 | Igen |  |  |  |  |  |  |  |  |
 
 | 30.25 |  |  |  |  |  |  | 25 | 7.1. Közutak, hidak építése, felújítása | 15 000 000 | 15 000 000 | Igen |  |  |  |  |  |  |  |  |
 
-| 30.26 |  |  |  |  |  |  | 26 | 7.13. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 120 000 000 | 0 | Nem |  |  |  |  |  |  |  |  |
+| 30.26 |  |  |  |  |  |  | 26 | 7.13. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 120 000 000 | 120 000 000 | Igen |  |  |  |  |  |  |  |  |
 
 | 30.27 |  |  |  |  |  |  | 27 | 7.13. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 18 264 000 | 18 264 000 | Igen |  |  |  |  |  |  |  |  |
 
 | 30.28 |  |  |  |  |  |  | 28 | 7.13. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 22 528 000 | 22 528 000 | Igen |  |  |  |  |  |  |  |  |
 
-| 30.29 |  |  |  |  |  |  | 29 | 2.3. Tornaterem, tornaszoba, játékszoba, tanuszoda, az ezekhez kapcsolódó vizesblokk építése, felújítása | 8 625 000 | 0 | Nem |  |  |  |  |  |  |  |  |
+| 30.29 |  |  |  |  |  |  | 29 | 2.3. Tornaterem, tornaszoba, játékszoba, tanuszoda, az ezekhez kapcsolódó vizesblokk építése, felújítása | 8 625 000 | 8 625 000 | Igen |  |  |  |  |  |  |  |  |
 
 | 30.30 |  |  |  |  |  |  | 30 | 7.13. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 45 000 000 | 45 000 000 | Igen |  |  |  |  |  |  |  |  |
 
@@ -340,11 +340,11 @@
 
 | 50. | SOPRON MEGYEI JOGÚ VÁROS ÖNKORMÁNYZATA | HUF | működés | Halasztott fizetés, részletfizetés | 5 | 130 375 000 | 0 | 0 | 0 | 0 | Nem | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-| 51. | TATA VÁROS ÖNKORMÁNYZATA | HUF | fejlesztés | Hitel | 10 | 650 000 000 |  |  | 650 000 000 | 160 294 000 |  | 146 809 500 | 13 484 500 | 0 | 0 | 4 564 372 | 28 396 008 | 27 212 652 | 156 439 746 |
+| 51 | TATA VÁROS ÖNKORMÁNYZATA | HUF | fejlesztés | Hitel | 10 | 650 000 000 |  |  | 650 000 000 | 650 000 000 | Igen | 650 000 000 | 0 | 0 | 0 | 18 508 750 | 115 147 199 | 110 348 634 | 634 370 811 |
 
-| 51.1 |  |  |  |  |  |  | 1 | 7.9. Város- és település-rehabilitáció | 480 406 000 | 0 | Nem |  |  |  |  |  |  |  |  |
+| 51.1 |  |  |  |  |  |  | 1 | 7.9. Város- és település-rehabilitáció | 480 406 000 | 480 406 000 | Igen |  |  |  |  |  |  |  |  |
 
-| 51.2 |  |  |  |  |  |  | 2 | 7.9. Város- és település-rehabilitáció | 3 000 000 | 0 | Nem |  |  |  |  |  |  |  |  |
+| 51.2 |  |  |  |  |  |  | 2 | 7.9. Város- és település-rehabilitáció | 3 000 000 | 3 000 000 | Igen |  |  |  |  |  |  |  |  |
 
 | 51.3 |  |  |  |  |  |  | 3 | 7.1. Közutak, hidak építése, felújítása | 9 000 000 | 9 000 000 | Igen |  |  |  |  |  |  |  |  |
 
@@ -364,7 +364,7 @@
 
 | 51.11 |  |  |  |  |  |  | 11 | 7.3. Közbiztonság növelését szolgáló fejlesztések | 22 000 000 | 22 000 000 | Igen |  |  |  |  |  |  |  |  |
 
-| 51.12 |  |  |  |  |  |  | 12 | 7.7. Önkormányzati tulajdonú létesítmények felújítása | 6 300 000 | 0 | Nem |  |  |  |  |  |  |  |  |
+| 51.12 |  |  |  |  |  |  | 12 | 7.7. Önkormányzati tulajdonú létesítmények felújítása | 6 300 000 | 6 300 000 | Igen |  |  |  |  |  |  |  |  |
 
 | 51.13 |  |  |  |  |  |  | 13 | 7.7. Önkormányzati tulajdonú létesítmények felújítása | 10 000 000 | 10 000 000 | Igen |  |  |  |  |  |  |  |  |
 
@@ -403,3 +403,5 @@
 | 54. | ZALAEGERSZEG MEGYEI JOGÚ VÁROS ÖNKORMÁNYZATA | HUF | működés | Kezesség-, illetve garanciavállalás | 10 | 240 000 000 | 0 | 0 | 0 | 240 000 000 | Igen | 240 000 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 | 55. | ZALASZENTGRÓT VÁROS ÖNKORMÁNYZATA | HUF | fejlesztés | Hitel | 2 | 42 600 000 | 1 | 7.5. Megújuló energiaforrások hasznosításával kapcsolatos beruházások | 42 600 000 | 0 | Nem | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+[^1]: Az 1. melléklet az 1801/2014. (XII. 19.) Korm. határozat 2. pontja szerint módosított szöveg.
