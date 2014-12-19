@@ -1,4 +1,4 @@
-## 1.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a konzolos kerékpárút átvezetése a Tisza-hídon tervezési díjához 32,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 4. Területfejlesztési célelőirányzat jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére.
+## 1.[^2] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a konzolos kerékpárút átvezetése a Tisza-hídon tervezési díjához 32,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 4. Területfejlesztési célelőirányzat jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére.
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,9 +10,9 @@
 
 ## Felelős: nemzeti fejlesztési miniszter
 
-## Határidő: 2014. június 15.
+## Határidő: 2014. december 15.
 
-## 2.[^2]
+## 2.[^3]
 
 1. melléklet az 1263/2013. (V. 14.) Korm. határozathoz
 
@@ -88,5 +88,5 @@ Millió forintban, egy tizedessel
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: Az 1. pont a 1936/2013. (XII. 13.) Korm. határozat 6. pontja szerint módosított szöveg.
-[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont a 1936/2013. (XII. 13.) Korm. határozat 6. pontja, az 1812/2014. (XII. 19.) Korm. határozat 15. pontja szerint módosított szöveg.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
