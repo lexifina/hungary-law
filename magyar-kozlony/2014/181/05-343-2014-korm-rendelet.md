@@ -1,0 +1,165 @@
+# A Kormány 343/2014. (XII. 19.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 181. szám, 2014. december 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/373156f6dfc5b2af313e09e1f2bc8b74fbd200d0/dokumentumok/280a9fb99a86933b71a635897127527ee1eb806b/letoltes)
+
+---
+
+A Kormány 343/2014. (XII. 19.) Korm. rendelete
+a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről szóló 172/2012. (VII. 26.) Korm. rendelet
+módosításáról
+A Kormány a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 3. pontja d) alpontjában kapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A tartós külszolgálatról és az ideiglenes külföldi kiküldetésről szóló 172/2012. (VII. 26.) Korm. rendelet
+(a továbbiakban: R.) 3. § 2. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„2. külképviselet (állomáshely): a külpolitikáért felelős miniszter által irányított központi államigazgatási szerv hivatali
+szervezetének – a Kormány döntése alapján létrehozott – külföldön működő, következő önálló szervezeti egységei:
+a) Magyarország diplomáciai képviselete,
+b) Magyarország konzuli képviselete,
+c) az előbbiek alá rendelt, a fogadó államban, illetve – nemzetközi szerződés vagy megállapodás alapján – harmadik
+államban működő kereskedelmi képviselet, hivatal és iroda,
+d) nemzetközi szervezet mellett működő állandó képviselet,
+e) külföldi magyar intézet;”
+(2) Az R. 3. § 3. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„3. kihelyező szerv: a külpolitikáért felelős miniszter, illetve Magyarország Európai Unió melletti Állandó Képviselete
+(a továbbiakban: Állandó Képviselet) esetében az európai uniós ügyek koordinációjáért felelős miniszter által
+vezetett minisztérium, amely az általa foglalkoztatott kormánytisztviselőt e rendelet szabályai szerint, tartós
+külszolgálat ellátására, kihelyező okirattal kihelyezi;”
+(3) Az R. 3. §-a a következő 3a. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„3a. kihelyező vezető: a külpolitikáért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője,
+illetve az Állandó Képviselet esetében az európai uniós ügyek koordinációjáért felelős miniszter;”
+(4) Az R. 3. § 5. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„5. diplomata: az a diplomáciai ranggal rendelkező kormánytisztviselő, aki a külpolitikáért felelős miniszter, illetve
+az európai uniós ügyek koordinációjáért felelős miniszter hatáskörébe tartozó feladatokat belföldön a kihelyező
+szervnél, illetve külföldön – Magyarország külképviseletén – végzi;”
+(5) Az R. 3. § 11. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„11. szolgálati érdek: a külpolitikáért felelős miniszter, illetve az európai uniós ügyek koordinációjáért felelős
+miniszter, valamint a szakmai irányítást ellátó központi államigazgatási szerv vezetőjének feladat- és hatásköréről
+szóló kormányrendeletekben megállapított feladatok végrehajtásával kapcsolatos érdek;”
+2. § (1) Az R. 4. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) Az Állandó Képviselet képviselet-vezetője rendkívüli és meghatalmazott nagykövet.”
+(2) Az R. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Képviselet-vezető hiányában, távollétében, illetve akadályoztatása esetén – a képviselet-vezető jogkörében
+és feladatkörében – ideiglenes ügyvivő jár el. Ideiglenes ügyvivő – a következő sorrend szerint – a külpolitikáért
+felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője által kijelölt személy, az első beosztotti
+feladatkört ellátó diplomata, a külképviselet legmagasabb rangú diplomatája, a képviselet-vezető által kijelölt
+szakdiplomata. Az Állandó Képviselet tekintetében a Képviselet-vezető COREPER II. nagykövet hiányában,
+távollétében, illetve akadályoztatása esetén a COREPER I. nagykövet jár el. Utóbbi hiányában, távollétében, illetve
+akadályoztatása esetén pedig az Állandó Képviselet Kül- és Biztonságpolitikai Hivatalát nagyköveti rangban vezető
+diplomatája jár el.”
+3. §
+Az R. 5. §-a helyébe a következő rendelkezés lép:
+„5. § A képviselet-vezető a külképviselet egyszemélyi felelős vezetője.”
+
+4. § (1) Az R. 3. alcímének alcím címe helyébe a következő alcím cím lép:
+„3. A szakdiplomaták, a kihelyezésre kerülő személyek (diplomatát, szakdiplomaták) felkészítése”
+(2) Az R. 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Szakdiplomata álláshely létesítése érdekében a külpolitikáért felelős miniszter, illetve az Állandó Képviselet esetében
+az európai uniós ügyek koordinációjáért felelős miniszter a feladatkörében érintett miniszterrel (a továbbiakban:
+szakminiszter) tesz együttes előterjesztést a Kormánynak. Az előterjesztésnek tartalmaznia kell az álláshely létesítésének
+szakmai indokolását, a létesítés időpontját, az állomáshelyet, a biztosított létszám és pénzügyi előirányzat rendelkezésre
+bocsátásának módját, időpontját és pontos összegét a 2. mellékletben meghatározott tervezési segédlet szerint.”
+5. §
+Az R. 9. §-a helyébe a következő rendelkezés lép:
+„9. § (1) A szakdiplomata kiválasztásának módját a szakminiszter határozza meg. A szakdiplomata álláshelyeket
+a szakminiszter – indokolt esetben – a Kttv. szerinti pályázat útján meghirdeti. A szakdiplomata személyére
+a szakminiszter tesz javaslatot a kihelyező vezetőnek. Kihelyezésre akkor kerül sor, ha a szakminiszter személyi
+javaslatával a kihelyező vezető egyetért.
+(2) A kihelyező vezető (1) bekezdés szerinti egyetértése alapján a kihelyezésre kerülő személyt:
+a) a külügyi-diplomáciai felkészülés, valamint a külszolgálat idejére, illetve
+b) az Állandó Képviseletre való kihelyezés esetén a külügyi-diplomáciai felkészülés, az európai uniós felkészülés,
+valamint a külszolgálat idejére,
+– a Kttv. szerinti határozott idejű áthelyezéssel – a kihelyező szerv állományába kell helyezni.
+(3) A kihelyezésre kerülő személy külügyi-diplomáciai felkészítését a külpolitikáért felelős miniszter által vezetett
+minisztérium végzi.”
+6. §
+Az R. 10. §-a helyébe a következő rendelkezés lép:
+„10. § (1) A szakdiplomata külügyi-diplomáciai felkészítése:
+a) – a külpolitikáért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője döntésétől függően –
+egytől hat hónapig terjedhet,
+b) az a) pontban foglaltaktól eltérően az Állandó Képviseletre kihelyezésre kerülő szakdiplomata esetében legalább
+két hónap.
+(2) A szakdiplomata külügyi-diplomáciai felkészítésének, szakmai irányításának, valamint a szakdiplomata és a szaktárca
+közötti kapcsolattartás részletes szabályait a külpolitikáért felelős miniszter miniszteri utasításban szabályozza.
+(3) A (2) bekezdésben foglaltaktól eltérően az Állandó Képviseletre kihelyezésre kerülő diplomata, szakdiplomata
+külügyi-diplomáciai felkészítésének elvégzése tárgyában a Külgazdasági és Külügyminisztérium és
+a Miniszterelnökség megállapodást köt. Az (1) bekezdés b) pontja szerinti felkészítés pontos időtartamát is
+e megállapodás határozza meg.
+(4) Az (1) bekezdés b) pontja szerinti külügyi-diplomáciai felkészítés szükségessége alól az európai uniós ügyek
+koordinációjáért felelős miniszter indokolt esetben felmentést adhat.
+(5) A (2) bekezdésben foglaltaktól eltérően az Állandó Képviseletre kihelyezésre kerülő szakdiplomata európai uniós
+felkészítésének, illetve a kihelyezett szakdiplomata szakmai irányításának, valamint a szakdiplomata és a szaktárca
+közötti kapcsolattartás részletes szabályait az európai uniós ügyek koordinációjáért felelős miniszter határozza meg
+miniszteri utasításban.
+(6) A szakdiplomata kihelyezésére csak akkor kerülhet sor, ha teljesíti a 17. §-ban foglalt, a külszolgálat ellátásához
+előírt általános és különös feltételeket.
+(7) A szakdiplomata rangját, ellátmányszorzóját, illetve a kihelyezés időpontját a szaktárca javaslata alapján
+a kihelyező vezető állapítja meg. Az Állandó Képviseletre kihelyezésre kerülő szakdiplomata esetében
+a szakdiplomata rangjának meghatározását megelőzően az európai uniós ügyek koordinációjáért felelős miniszter
+a külpolitikáért felelős miniszterrel egyeztet.
+(8) Határozott idejű áthelyezése és külszolgálata időtartama alatt a szakdiplomatára is irányadóak az általános
+rangadományozási és előmeneteli szabályok.”
+7. §
+Az R. 11. §-a helyébe a következő rendelkezés lép:
+„11. § (1) A szakdiplomata irányítását – a képviselet-vezető útján, a szaktárca szakmai kompetenciájába tartozó
+kérdés esetében a szaktárcával egyeztetve – a kihelyező szerv végzi.
+(2) Az Európai Unió tagállamaiban működő, a 3. § 2. pont a) és b) alpontja szerinti külképviseletek esetében
+a munkakörébe tartozó feladatai alapján kizárólag európai uniós ügyekért felelős diplomata európai uniós
+
+ügyekben való szakmai irányítását az európai uniós ügyek koordinációjáért felelős miniszter által vezetett
+minisztérium látja el, a külpolitikáért felelős miniszter által vezetett minisztérium egyidejű tájékoztatása mellett.
+(3) Az Állandó Képviselet Kül- és Biztonságpolitikai Hivatalát nagyköveti rangban vezető diplomatájának
+a külpolitikáért felelős miniszter feladat- és hatáskörében tartozó kérdésekben való szakmai irányítását
+a külpolitikáért felelős miniszter által vezetett minisztérium látja el, az európai uniós ügyek koordinációjáért felelős
+miniszter által vezetett minisztérium egyidejű tájékoztatása mellett.
+(4) A szakdiplomata alaputasítását és munkaköri leírását a szaktárcával egyeztetve a kihelyező szerv készíti el.
+A munkaköri leírás megállapításához a kihelyező vezető egyetértése szükséges.
+(5) A szakdiplomata a külképviselet munkájában a képviselet-vezető utasításai szerint vesz részt. A biztonsági
+szolgálat ellátása a szakdiplomata munkaköri kötelezettsége.”
+8. §
+Az R. 13. §-a helyébe a következő rendelkezés lép:
+„13. § (1) Magyarország külképviseletén diplomáciai vagy hivatásos konzuli feladatokat ellátó kormánytisztviselőnek
+– amennyiben ilyen ranggal még nem rendelkezik – a külpolitikáért felelős miniszter diplomáciai vagy konzuli
+rangot adományoz.
+(2) Az (1) bekezdéstől eltérően az Állandó Képviseleten diplomáciai feladatokat ellátó kormánytisztviselőnek
+az európai uniós ügyek koordinációjáért felelős miniszter adományozza a diplomáciai rangot, a külpolitikáért felelős
+miniszter rangadományozásról kiadott szabályzatának figyelembevételével és a külpolitikáért felelős miniszterrel
+történt egyeztetést követően.
+(3) A kihelyező szerv állományába a szaktárcától határozott időre áthelyezett kormánytisztviselő esetében
+az első rang adományozására – a külpolitikáért felelős miniszter rangadományozásról kiadott szabályzatának
+figyelembevételével – a szakminiszter tesz javaslatot.”
+9. §
+Az R. 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A külpolitikáért felelős miniszter, illetve – az Állandó Képviselet esetében – az európai uniós ügyek
+koordinációjáért felelős miniszter által adományozott diplomáciai rangok:
+a) segédattasé,
+b) attasé,
+c) III., II., illetve I. osztályú titkár,
+d) II., illetve I. osztályú tanácsos.”
+10. § (1) Az R. 24. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az alapellátmány összegét – az Állandó Képviselet diplomatái, szakdiplomatái alapellátmánya kivételével –
+a külpolitikáért felelős miniszter az európai uniós ügyek koordinációjáért felelős miniszter, az igazságügyért felelős
+miniszter, valamint az érintett szakminiszterek egyetértésével állapítja meg.”
+(2) Az R. 24. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Az Állandó Képviselet diplomatái, szakdiplomatái esetében az alapellátmány összegét az európai uniós ügyek
+koordinációjáért felelős miniszter a szakminiszterek egyetértésével állapítja meg.”
+11. §
+Az R.
+a) 17. § (2), (4) és (7) bekezdésében, 19. § (3) bekezdésében, 20. § (4) bekezdésében, 21. § (2) bekezdésében,
+21/A. §-ában 25. § (1) bekezdésében, 31. § (2) bekezdésében, 33. § (4) bekezdésében és 40. §-ában
+az„a kihelyező szerv hivatali szervezetének vezetője”szövegrész helyébe az„a kihelyező vezető”szöveg,
+b) 17. § (5) bekezdésében, 18. § (3) bekezdésében az „a kihelyező szerv hivatali szervezetének vezetője”
+szövegrészek helyébe az„a kihelyező vezető”szöveg,
+c) 17. § (3) és (6) bekezdésében, 27. § (11) bekezdésében és 37. § (2) bekezdésében az„A kihelyező szerv hivatali
+szervezetének vezetője”szövegrész helyébe az„A kihelyező vezető”szöveg
+lép.
+12. §
+Ez a rendelet 2015. január 1-jén lép hatályba.
+ Dr. Semjén Zsolt s. k.,
+ miniszterelnök-helyettes
+
+IX. Határozatok Tára
