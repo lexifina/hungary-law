@@ -2,11 +2,11 @@
 
 ## a) építtetője a Nemzeti Sportközpontok (a továbbiakban: NSK),
 
-## b) a dunakeszi iskola beruházás Dunakeszi közigazgatási területén fekvő, – 2592 helyrajzi számú ingatlanból kiszabályozásra kerülő 2,5 hektár nagyságú területen, míg az izsáki iskola beruházás az Izsák közigazgatási területén fekvő 1817, 1818, 1819, 1920 helyrajzi számú ingatlanon valósul meg,
+## b)[^1] a dunakeszi iskola beruházás Dunakeszi közigazgatási területén fekvő, – 2952 helyrajzi számú ingatlanból kiszabályozásra kerülő 2,5 hektár nagyságú területen, míg az izsáki iskola beruházás az Izsák közigazgatási területén fekvő 1817, 1818, 1819, 1920 helyrajzi számú ingatlanon valósul meg,
 
 ## c) a dunakeszi iskola beruházás 4698 millió forint keretösszegű, míg az izsáki iskola beruházás 4479 millió forint keretösszegű központi költségvetési forrásból valósul meg;
 
-## 2. felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján tegye meg a szükséges intézkedéseket a Dunakeszi közigazgatási területén fekvő, – 2592 helyrajzi számú ingatlanból kiszabályozásra kerülő 2,5 hektár nagyságú terület NSK vagyonkezelésébe kerülése érdekében;
+## 2.[^2] felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján tegye meg a szükséges intézkedéseket a Dunakeszi közigazgatási területén fekvő, – 2952 helyrajzi számú ingatlanból kiszabályozásra kerülő 2,5 hektár nagyságú terület NSK vagyonkezelésébe kerülése érdekében;
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -57,3 +57,6 @@
 ## 7. jóváhagyja, hogy a 3. pont szerint biztosított előirányzat terhére az NSK által lefolytatásra kerülő beszerzések tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
 
 1. melléklet az 1723/2014. (XII. 5.) Korm. határozathoz
+
+[^1]: Az 1. pont b) alpontja az 1768/2014. (XII. 18.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1768/2014. (XII. 18.) Korm. határozat 5. pontja szerint módosított szöveg.
