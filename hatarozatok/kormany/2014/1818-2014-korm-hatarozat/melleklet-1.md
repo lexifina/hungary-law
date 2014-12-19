@@ -1,0 +1,115 @@
+## 1. A Kormány egyetért azzal, hogy az 1368/2014. (VII. 3.) Korm. határozatban foglaltak végrehajtásához, a Szent István Egyetem Alkalmazott Bölcsészeti és Pedagógiai Kar szarvasi telephelyű Pedagógiai Intézete PPP konstrukcióban megvalósult, a Korm. határozatban megjelölt kollégiumait érintően a kapcsolódó szerződések lezárásra kerüljenek, legfeljebb bruttó 894,3 millió forint ellenérték megfizetése mellett, oly módon, hogy a kapcsolódó intézkedéseket a Szent István Egyetem hajtja végre.
+
+## Felelős: emberi erőforrások minisztere
+
+## nemzeti fejlesztési miniszter
+
+## Határidő: azonnal
+
+## 2. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy az 1. pontban meghatározott feladat végrehajtás érdekében nyújtandó támogatás felhasználásának és legkésőbb 2015. április 30-ig történő elszámolásának feltételeiről támogatási megállapodást kössön a Szent István Egyetemmel.
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: 2014. december 31.
+
+## 3. A Kormány a 2. pontban meghatározott támogatási megállapodás fedezetének biztosítása érdekében
+
+## a) az államháztartásról szóló 2011. évi CXCV. törvény. (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva 754,3 millió forint egyszeri átcsoportosítását rendeli el a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 36. PPP programok alcím, 6. Hozzájárulás a Művészetek Palotája működtetéséhez, 7. Hozzájárulás a sportlétesítmények PPP bérleti díjához, 8. Hozzájárulás a felsőoktatási intézmények PPP bérleti díjához jogcímcsoportok terhére, a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 36. PPP-programok alcím, 3. PPP-konstrukcióban létrehozott beruházások megvásárlásával és befejezésével kapcsolatos kiadások jogcímcsoport javára;
+
+## b) az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva 140,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 36. PPP-programok alcím, 3. PPP-konstrukcióban létrehozott beruházások megvásárlásával és befejezésével kapcsolatos kiadások jogcímcsoport javára
+
+## az 1. melléklet szerint.
+
+## Az átcsoportosítás tekintetében:
+
+## Felelős: nemzetgazdasági miniszter
+
+## nemzeti fejlesztési miniszter
+
+## Határidő: azonnal
+
+## Az elszámolás és a visszatérítési kötelezettség tekintetében:
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: 2015. június 30.
+
+1. melléklet az 1818/2014. (XII. 19.) Korm. határozathoz
+
+| XI. Miniszterelnökség XVII. Nemzeti Fejlesztési Minisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2014. Millió forintban, egy tizedessel |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XVII. |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 36 |  |  |  |  |  | PPP programok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 335139 |  |  |  | 3 |  |  |  |  |  | PPP-konstrukcióban létrehozott beruházások megvásárlásával és befejezésével kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 894,3 |  |  |  |
+
+| 256101 |  |  |  | 6 |  |  |  |  |  | Hozzájárulás a Művészetek Palotája működtetéséhez |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | -500,0 |  |  |  |
+
+| 270701 |  |  |  | 7 |  |  |  |  |  | Hozzájárulás a sportlétesítmények PPP bérleti díjához |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | -87,0 |  |  |  |
+
+| 343006 |  |  |  | 8 |  |  |  |  |  | Hozzájárulás a felsőoktatási intézmények PPP bérleti díjához |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | -167,3 |  |  |  |
+
+| 297102 | XI. |  |  |  |  |  | Miniszterlenökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 17 |  |  |  |  |  | Rendkívüli kormányzati intézkedések |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -140,0 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XVII. |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 36 |  |  |  |  |  | PPP programok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 335139 |  |  |  | 3 |  |  |  |  |  | PPP-konstrukcióban létrehozott beruházások megvásárlásával és befejezésével kapcsolatos kiadások |  |  |  |  |  |  |  |  | 894,3 |  |  |  |
+
+| 256101 |  |  |  | 6 |  |  |  |  |  | Hozzájárulás a Művészetek Palotája működtetéséhez |  |  |  |  |  |  |  |  | -500,0 |  |  |  |
+
+| 270701 |  |  |  | 7 |  |  |  |  |  | Hozzájárulás a Sportlétesítmények PPP bérleti díjához |  |  |  |  |  |  |  |  | -87,0 |  |  |  |
+
+| 343006 |  |  |  | 8 |  |  |  |  |  | Hozzájárulás a felsőoktatási intézmények PPP bérleti díjához |  |  |  |  |  |  |  |  | -167,3 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  |  | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár |  | 1 példány |  |  | egyéb: azonnal |  |  | 894,3 |  |  |  |  |  |  |  |  |  |  |  | 894,3 |
+
+| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
