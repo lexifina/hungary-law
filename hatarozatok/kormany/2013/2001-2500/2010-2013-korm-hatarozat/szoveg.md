@@ -6,7 +6,7 @@ A Kormány
 
 a) a megállapodás a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 40. § (3) bekezdése szerinti keretet terheli,
 
-b) az 1. pont szerinti keretemeléssel érintett Program futamideje az árfolyam fedezeti megállapodás szempontjából 17 év,
+b)[^1] az 1. pont szerinti keretemeléssel érintett Program futamideje az árfolyam-fedezeti megállapodás szempontjából 19 év,
 
 c) a megállapodás e kormányhatározat közzétételének napján a Magyar Nemzeti Bank által közölt hivatalos forint/euró devizaösszegre vonatkozik,
 
@@ -15,3 +15,5 @@ c) a megállapodás e kormányhatározat közzétételének napján a Magyar Nem
 Felelős: nemzetgazdasági miniszter
 
 Határidő: 2014. január 31.
+
+[^1]: A 2. pont b) alpontja az 1767/2014. (XII. 18.) Korm. határozat 2. pontjával megállapított szöveg.
