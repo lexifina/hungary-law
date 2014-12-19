@@ -10,7 +10,7 @@ c) a 1041/2005. (V. 5.) Korm. határozat és a 1038/2007. (VI. 18.) Korm. határ
 
 d) az Új Magyarország Vállalkozásfejlesztési Hitelprogram elnevezésének „MFB Vállalkozásfinanszírozási Program”-ra történő megváltoztatásával;
 
-e) az a)–d) pontokban jelzett módosításokat figyelembe véve, a 350 milliárd forint keretösszegű MFB Vállalkozásfinanszírozási Program keretösszegének megemelésével további 100 milliárd forinttal és így az MFB Vállalkozásfinanszírozási Program árfolyam-fedezeti kötelezettségvállalással biztosított keretösszege 450 milliárd forint.
+e)[^1] az a)–d) alpontokban jelzett módosításokat figyelembe véve az MFB Vállalkozásfinanszírozási Program árfolyam-fedezeti kötelezettségvállalással biztosított keretösszege 364 milliárd forint.
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -37,3 +37,5 @@ Az MFB Zrt. a finanszírozási programjai tekintetében a kamatfelár, valamint 
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: első alkalommal 2012. január 31., majd évente november 30.
+
+[^1]: Az 1. pont e) alpontja az 1767/2014. (XII. 18.) Korm. határozat 4. pontjával megállapított szöveg.
