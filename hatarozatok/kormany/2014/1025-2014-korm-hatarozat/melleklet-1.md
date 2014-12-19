@@ -18,7 +18,7 @@
 
 ## b) 693,0 millió forint egyszeri átcsoportosítását, valamint
 
-## c) 910,0 millió forint egyszeri átcsoportosítását elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel
+## c)[^2] 910,0 millió forint egyszeri átcsoportosítását elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel
 
 ## a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint.
 
@@ -38,7 +38,7 @@
 
 ## emberi erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2014. december 15., a 2. b) pont szerint átcsoportosított összeg tekintetében 2015. február 16.
+## Határidő: 2014. december 15., a 2. b) pont szerint átcsoportosított összeg tekintetében 2015. február 16., az Igazságügyi Minisztérium igazgatása részére átcsoportosított 69,0 millió forintot tekintetében „2015. június 30.
 
 ## 3. A Kormány egyetért azzal, hogy a belügyminiszter a Kvtv. helyi önkormányzatok támogatásait tartalmazó költségvetési fejezetéből a Duna-korzó közterület felújítása érdekében nyújtandó támogatás felhasználásának és elszámolásának feltételeiről 2014. február 15-éig támogatási megállapodást köt Budapest Főváros V. kerület Belváros-Lipótváros Önkormányzatával.
 
@@ -56,7 +56,7 @@
 
 ## Határidő: a 2015. évi, a 2016. évi és a 2017. évi központi költségvetés tervezése során
 
-## 8–17.[^2]
+## 8–17.[^3]
 
 1. melléklet az 1025/2014. (I. 30.) Korm. határozathoz
 
@@ -233,4 +233,5 @@
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
 [^1]: A 2. pont az 1721/2014. (XII. 5.) Korm. határozat 5. ponja szerint módosított szöveg.
-[^2]: A 8–17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont c) alpontja az 1812/2014. (XII. 19.) Korm. határozat 25. pontja szerint módosított szöveg.
+[^3]: A 8–17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
