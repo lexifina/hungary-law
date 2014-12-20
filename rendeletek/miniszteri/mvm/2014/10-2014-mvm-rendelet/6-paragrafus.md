@@ -1,0 +1,17 @@
+## „(3) Nem ítélhető meg a 651/2014/EU bizottsági rendelet alapján
+
+## a) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez a 8., 10. és 11. alcím szerinti támogatás,
+
+## b) elsődleges mezőgazdasági termeléshez a 8. és 11. alcím szerinti, valamint a kis- és középvállalkozás vásárokon való részvételéhez kapcsolódó támogatás,
+
+## c) mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny vállalkozás részére támogatás, ha
+
+## ca) a támogatás összege az elsődleges termelőktől beszerzett vagy érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre, illetve
+
+## cb) a támogatás az elsődleges termelőknek történő teljes vagy részleges továbbítástól függ,
+
+## d) támogatás exporttal kapcsolatos tevékenységekhez, ha az az exportált mennyiségekhez, értékesítési hálózat kialakításához és működtetéséhez, vagy az exporttevékenységgel összefüggésben felmerülő egyéb folyó kiadásokhoz közvetlenül kapcsolódik,
+
+## e) támogatás, ha azt import áruk helyett hazai áru használatától teszik függővé, vagy
+
+## f) olyan feltétellel nyújtandó támogatás, amely az uniós jog megsértését eredményezi.”
