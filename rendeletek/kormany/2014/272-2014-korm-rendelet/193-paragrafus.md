@@ -1,3 +1,5 @@
+## 192/F. § A projektek önerejét a konzorciumi tag – ide nem értve a kijelölt szervezetet – köteles biztosítani.
+
 ## XXVIII. Fejezet
 
 ## MONITORING ÉS INFORMÁCIÓS RENDSZER

@@ -1,0 +1,1 @@
+## 192/C. § A projektek végrehajtását lebonyolító konzorcium a támogatási szerződés megkötését követően jogosult – a projektek összes elszámolható költségére vetített – a közbeszerzési eljárások lefolytatására 1%-os, a projektmenedzsment-feladatok ellátására 2,5%-os, a rezsiköltségre 1%-os mértékű támogatást előzetesen, egy összegben lehívni.

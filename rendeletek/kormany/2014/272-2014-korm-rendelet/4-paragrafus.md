@@ -16,4 +16,8 @@ d) az irányító hatóság javaslata és a Nemzeti Fejlesztési Kormánybizotts
 
 e) elfogadja a többéves nemzeti keretet,
 
-f) jóváhagyja az irányító hatóság és a Kormány által kijelölt alapok alapját végrehajtó szervezet közötti finanszírozási megállapodást.
+f) jóváhagyja az irányító hatóság és a Kormány által kijelölt alapok alapját végrehajtó szervezet közötti finanszírozási megállapodást,
+
+g)[^1] külön jogszabályban kijelöli a Környezeti és Energiahatékonysági Operatív Program terhére finanszírozott, szennyvízelvezetési és -tisztítási, hulladékgazdálkodási és az ivóvízminőség-javító projektek határidőben történő megvalósításáért felelős minisztert, valamint ezen projektek menedzsment feladatait ellátó, továbbá a projektek keretében megvalósuló közbeszerzési eljárásokat lebonyolító – a miniszter irányítása alá tartozó – szervezetet, meghatározza annak feladat- és hatáskörét.
+
+[^1]: A 4. § g) pontját a 339/2014. (XII. 19.) Korm. rendelet 18. §-a iktatta be.

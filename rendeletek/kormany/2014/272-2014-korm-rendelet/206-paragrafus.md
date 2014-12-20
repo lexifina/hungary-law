@@ -1,3 +1,3 @@
-## 205. §[^3]
+## 205. §[^5]
 
-[^3]: A 205. § a 200. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^5]: A 205. § a 358/2014. (XII. 29.) Korm. rendelet 9. § b) pontja alapján nem lép hatályba.

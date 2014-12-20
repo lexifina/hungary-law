@@ -1,4 +1,4 @@
-## 206–208. §[^4]
+## 206–208. §[^6]
 
 1. melléklet a 272/2014. (XI. 5.) Korm. rendelethez
 
@@ -808,34 +808,4 @@ amelyről a bejelentés beérkezését követő 10 napon belül írásban, a XII
 
 61.4. Ha a hiánypótlási dokumentumok nem érkeznek be a megadott határidőre, vagy továbbra sem támasztják alá a változást, az irányító hatóság a bejelentést részben vagy egészben elutasítja.
 
-61.5. A bejelentés elutasítása esetén az irányító hatóság kezdeményezi a szerződésszerű állapot helyreállítását, ha szükséges a szerződés módosítását, vagy a szerződés megszüntetését.
-
-61.6. Ha a bejelentés alapján a támogatási szerződés módosítása szükséges, és a módosításra irányuló kérelmet és a szükséges dokumentumokat a kedvezményezett megfelelően nyújtotta be, és a módosítás e rendelet 86-89.§-ában, valamint e fejezetben foglaltaknak megfelel, a módosítási kérelem alapján az irányító hatóság gondoskodik a szerződésmódosítás szövegének elkészítéséről. A szerződés módosítása nem irányulhat az általános szerződési feltételek módosítására.
-
-61.7. A módosítási kérelem elbíráláshoz külső szakértő is igénybe vehető, továbbá helyszíni ellenőrzés is elvégezhető.
-
-61.8. A szerződésmódosítás tervezet IH általi megküldésének határideje – ide nem számítva az esetleges hiánypótlás idejét – a módosítási kérelem beérkezésétől számított legfeljebb 30 nap, amelyet az irányító hatóság egy alkalommal, legfeljebb 30 nappal meghosszabbíthat.
-
-61.9. Az irányító hatóság a szerződésmódosítás-tervezetet a XII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint megküldi a kedvezményezettnek.
-
-61.10. A szerződésmódosítás a támogatási szerződéssel megegyező példányszámban készül.
-
-61.11. Ha a támogatási szerződést az irányító hatóság ellenjegyezte, a szerződésmódosítást is ellenjegyzi.
-
-61.12. A támogatási szerződés módosítása hatályba lépésének napja a módosítást utolsóként aláíró, ellenjegyző személy aláírásának napja. Ha a támogatási szerződést nem minősített elektronikus aláírással írták alá, a támogatási szerződés módosítását 10 napon belül szkennelve, pdf formátumban elérhetővé kell tenni a monitoring és információs rendszer Dokumentumtárban.
-
-61.13. Ha az irányító hatóság a támogatás feltételeinek változását észleli, kezdeményezi a megváltozott feltételek átvezetését, vagy felhívja a kedvezményezettet bejelentés benyújtására, az eltérések megfelelő, alátámasztó dokumentumokkal való tisztázására.
-
-61.14. Ha a kedvezményezett a 61.13. pontban foglalt felhívásnak nem tesz eleget, vagy a szerződésmódosításhoz szükséges alátámasztó dokumentumokat a megadott határidőre nem küldi meg az irányító hatóság részére, az irányító hatóság kezdeményezi a szerződésszerű állapot helyreállítását, ha szükséges a szerződés módosítását, vagy a szerződés megszüntetését, illetve egyéb, a támogatási szerződésben rögzített jogkövetkezményeket is alkalmazhat.
-
-A támogatási szerződés megszüntetése és megszűnése
-
-62.1. A támogatási szerződés a teljesítést (beleértve az ellenőrzés-tűrési, valamint a dokumentum-megőrzési kötelezettséget is) megelőzően csak vis maior, lehetetlenülés, az irányító hatóság vagy a kedvezményezett általi - a támogatási szerződésben meghatározott esetekben és módon történő - elállás, közös megegyezéssel történő felbontás vagy a bíróság határozata alapján szűnik meg.
-
-62.2. Ha e rendeletben, illetve a támogatási szerződésben meghatározott valamely elállási ok bekövetkezik és az irányító hatóság emiatt a szerződéstől eláll, az irányító hatóság az elállásról szóló nyilatkozatot hiteles elektronikus aláírással aláírt szerződés esetén elektronikus aláírással ellátva, egyébként – a Pályázati e-ügyintézés felület rendelkezésre állása esetén is – postai úton is megküldi a kedvezményezettnek.
-
-62.3. Az elállás időpontja az elállásról szóló értesítés kedvezményezett részéről történő átvételének napja.
-
-62.4. A támogatási szerződést felmondani nem lehet.
-
-[^4]: A 206–208. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 206–208. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

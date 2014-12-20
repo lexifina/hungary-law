@@ -1,0 +1,1 @@
+## 192/D. § A konzorcium köteles a 192/B. § (2) bekezdése és a 192/C. § szerint lehívott támogatással legkésőbb a támogatási szerződésben meghatározott határidőig a záró kifizetési igénylésben elszámolni.
