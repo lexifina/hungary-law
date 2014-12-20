@@ -1,6 +1,6 @@
 A Kormány
 
-1. a 2014. évi hiánycél tartásához szükséges intézkedésekről szóló 1381/2014. (VII. 17.) Korm. határozatot (a továbbiakban: Határozat) visszavonja;
+1.[^1]
 
 2. felhívja a fejezetet irányító szervek vezetőit, hogy intézkedjenek a teljesített befizetési kötelezettségek és előirányzat-csökkentések visszarendezésére;
 
@@ -25,3 +25,5 @@ Határidő: 2014. december 31.
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2015. március 31.
+
+[^1]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
