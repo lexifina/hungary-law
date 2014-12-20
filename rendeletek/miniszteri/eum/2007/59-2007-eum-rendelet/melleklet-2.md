@@ -50,6 +50,6 @@
 
 |  |  |  |  | igénylő aláírása |
 
-2. számú melléklet az 59/2007. (XII. 29.) EüM rendelethez[^39]
+2. számú melléklet az 59/2007. (XII. 29.) EüM rendelethez[^46]
 
-[^39]: A 2. számú melléklet a 9/2012. (VII. 13.) EMMI rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^46]: A 2. számú melléklet a 9/2012. (VII. 13.) EMMI rendelet 8. § (2) bekezdésével megállapított szöveg.

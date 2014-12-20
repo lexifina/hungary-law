@@ -4,7 +4,7 @@
 
 (1a)[^33] Az (1) bekezdés szerinti jelentés a 4. § (3) bekezdése alapján benyújtott tételes költségkalkuláció és az annak alapján az Értékelő Bizottság által hozott jóváhagyó döntésben rögzített adatok vonatkozásában a tételes költségkalkulációban és a bizottsági döntésben szereplőkhöz képest eltérő tartalmú adatot kizárólag abban az esetben tartalmazhat, ha az egészségügyi szolgáltatás nyújtása során olyan, előre nem látható körülmény merült fel, amely következtében a költségkalkulációban és a bizottsági döntésben szereplőhöz képest részben vagy egészben más vagy több ellátást, illetve szolgáltatást kellett nyújtani.
 
-(2)[^34] Ha az (1) bekezdés szerinti jelentésben a tételes költségkalkuláció és az annak alapján az Értékelő Bizottság által hozott jóváhagyó döntésben meghatározottól eltérő ellátás elszámolására kerül sor, a támogatás kifizetését az Értékelő Bizottság – erre irányuló utólagos kérelem hiányában is – engedélyezheti, ha annak finanszírozási összege nem magasabb az eredetileg engedélyezett ellátásétól és az ellátás egyébként az e rendeletben foglaltak alapján támogatható.
+(2)[^34] Ha az (1) bekezdés szerinti jelentésben a tételes költségkalkuláció és az annak alapján az Értékelő Bizottság által hozott jóváhagyó döntésben meghatározottól eltérő ellátás elszámolására kerül sor, a támogatás kifizetését az Értékelő Bizottság – erre irányuló utólagos kérelem hiányában is – engedélyezheti, ha a támogatás összege nem magasabb az eredetileg engedélyezett támogatásnál és az ellátás egyébként az e rendeletben foglaltak alapján támogatható.
 
 (3)[^35] Az ellátást elvégző egészségügyi szolgáltató az ellátás után az (1)–(2) bekezdésben foglaltak szerinti jelentés alapján a 3. § (1) bekezdése szerint előzetesen engedélyezett, illetve a 3. § (4a)–(4d) bekezdése szerint utólagosan jóváhagyott, vagy a (2) bekezdés alapján engedélyezett támogatásra jogosult, melynek mértéke legfeljebb
 
@@ -20,6 +20,8 @@ d) az a)–c) pont alá nem tartozó – e rendelet alapján támogatható – a
 
 (3a)[^36] Abban az esetben, ha az (1), az (1a) illetve a (2) bekezdésben foglaltak szerint elszámolt ellátás költsége nem éri el az előzetesen engedélyezett támogatás összegét, a ténylegesen kifizetésre kerülő támogatás – a (3) bekezdésben foglaltak figyelembevételével – nem haladhatja meg az elszámolt ellátás költségét.
 
+(3b)[^37] A (3) bekezdés d) pontja szerinti eszközök és implantátumok beszerzéséről az egészségügyi szolgáltató gondoskodik, az e rendelet alapján támogatott ellátások során nem használhatóak az Egészségbiztosítási Alap terhére beszerzett eszközök és implantátumok. A (3) bekezdés d) pontja szerinti támogatási összeg megállapítása során az eszköznek, illetve implantátumnak a számlával igazolt árát kell alapul venni.
+
 (4) A 3. § (4) bekezdésének a) pontjában meghatározott célra felhasznált támogatásról az Országos Mentőszolgálat – az OEP-pel kötött szerződés alapján – tételesen köteles elszámolni.
 
 (5) Az OEP a magyarországi egészségügyi ellátásra jogosult, határon túli magyarok ellátási eseteiről és a támogatás elszámolásáról elkülönített, naprakész nyilvántartást vezet és az Értékelő Bizottság részére rendszeres adatszolgáltatást teljesít a szolgáltatóktól érkező havi teljesítményjelentések adatai alapján.
@@ -29,6 +31,7 @@ d) az a)–c) pont alá nem tartozó – e rendelet alapján támogatható – a
 (7) A halottszállítás költsége az Értékelő Bizottság döntése alapján, a magyar állampolgárokra irányadó szabályok szerint számolható el.
 
 [^33]: Az 5. § (1a) bekezdését a 9/2012. (VII. 13.) EMMI rendelet 6. § (1) bekezdése iktatta be.
-[^34]: Az 5. § (2) bekezdését a 9/2012. (VII. 13.) EMMI rendelet 10. § d) pontja hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 47. §-a iktatta be.
+[^34]: Az 5. § (2) bekezdését a 9/2012. (VII. 13.) EMMI rendelet 10. § d) pontja hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 47. §-a iktatta be, szövege az 52/2014. (XII. 19.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^35]: Az 5. § (3) bekezdése a 68/2013. (XI. 15.) EMMI rendelet 22. §-ával megállapított, nyitó szövegrésze a 11/2014. (II. 24.) EMMI rendelet 48. § b) pontja szerint módosított szöveg.
 [^36]: Az 5. § (3a) bekezdését a 9/2012. (VII. 13.) EMMI rendelet 6. § (3) bekezdése iktatta be, szövege a 11/2014. (II. 24.) EMMI rendelet 48. § c) pontja szerint módosított szöveg.
+[^37]: Az 5. § (3b) bekezdését az 52/2014. (XII. 19.) EMMI rendelet 6. § (2) bekezdése iktatta be.
