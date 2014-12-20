@@ -20,7 +20,7 @@ i) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény 
 
 j) a Munkavállalói Résztulajdonosi Programról szóló törvény szerint alapított Munkavállalói Résztulajdonosi Program szervezetet,
 
-k) az európai területi együttműködési csoportosulásról szóló törvény szerint alapított európai területi társulást,
+k)
 
 l) a 2013. évi CXXXV. törvénnyel létrehozott Szövetkezeti Hitelintézetek Integrációs Szervezetét és a Szövetkezeti Hitelintézetek Tőkefedezeti Alapját.
 
