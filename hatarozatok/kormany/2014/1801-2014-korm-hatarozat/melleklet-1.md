@@ -6,6 +6,8 @@
 
 ## c) fejlesztési célú hitel esetében a hitelt csak az 1. mellékletben szereplő fejlesztésekre lehet fordítani.
 
-## 2. A helyi önkormányzatok adósságot keletkeztető, valamint kezesség-, illetve garanciavállalásra vonatkozó ügyleteihez történő 2014. októberi előzetes kormányzati hozzájárulásról szóló 1670/2014. (XI. 20.) Korm. határozat (a továbbiakban: Korm. határozat) 1. melléklete a 2. melléklet szerint módosul.
+## 2.[^1]
 
 1. melléklet az 1801/2014. (XII. 19.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
