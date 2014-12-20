@@ -1,6 +1,6 @@
 5. § (1) Az egészségügyi szolgáltató
 
-a)[^21] az egészségügyi alapellátás körében
+a)[^23] az egészségügyi alapellátás körében
 
 aa) háziorvosi, házi gyermekorvosi, háziorvosi ügyeleti, védőnői, iskola- és ifjúság-egészségügyi, foglalkozás-egészségügyi, fogorvosi, valamint rend- és honvédelmi alapellátás körébe tartozó szolgáltatás nyújtása esetén, amennyiben működése az adott alapellátás körébe tartozó valamennyi ellátást felöleli, a szolgálat,
 
@@ -8,7 +8,7 @@ ab) a háziorvosi, házi gyermekorvosi alapellátás elemeként történő ápol
 
 elnevezés használatára jogosult;
 
-b)[^22] a járóbeteg-szakellátás körében
+b)[^24] a járóbeteg-szakellátás körében
 
 ba) a járóbeteg-szakellátás általános szintjén működő egészségügyi szolgáltatás esetén a szakrendelés,
 
@@ -26,13 +26,13 @@ bg) kizárólag a beteg vizsgálati anyagainak feldolgozását végző egészsé
 
 bh) kizárólag a kórisme felállítása, illetve megerősítése céljából speciális vizsgálat végzésére szakosodott egészségügyi szolgáltató esetén a diagnosztikai központ,
 
-bi)[^23] a betegek otthonában a kórházi ellátást kiváltó szakápolási feladatok esetén az otthoni szakápolási szolgálat, a haldokló beteg otthonában történő gondozásával kapcsolatos egészségügyi tevékenység végzése esetén a hospice szolgálat,
+bi)[^25] a betegek otthonában a kórházi ellátást kiváltó szakápolási feladatok esetén az otthoni szakápolási szolgálat, a haldokló beteg otthonában történő gondozásával kapcsolatos egészségügyi tevékenység végzése esetén a hospice szolgálat,
 
 bj) a kizárólag egészségügyi szakdolgozó által nyújtott ellátást végző egészségügyi szolgáltató esetén az adott egészségügyi szakma vagy szakképesítés
 
 elnevezés használatára jogosult;
 
-c)[^24] a fekvőbeteg-szakellátás körében
+c)[^26] a fekvőbeteg-szakellátás körében
 
 ca) krónikus, rehabilitációs vagy folyamatos orvosi felügyeletet nem igénylő ápolási, szakápolási szolgáltatás nyújtása esetén az adott ellátási formában működő intézet,
 
@@ -44,22 +44,22 @@ cd) ha azt az orvostudományi vagy egészségtudományi képzést folytató egye
 
 elnevezés használatára jogosult;
 
-d)[^25] amennyiben egy szakterületen legalább 5 napon keresztül napi 6 órában biztosítja a 4. § (1) bekezdése szerinti feltételeket – azzal, hogy csak a beteg nappali elhelyezésére szolgáló helyiség biztosítása szükséges –, a nappali kórház elnevezés használatára jogosult;
+d)[^27] amennyiben egy szakterületen legalább 5 napon keresztül napi 6 órában biztosítja a 4. § (1) bekezdése szerinti feltételeket – azzal, hogy csak a beteg nappali elhelyezésére szolgáló helyiség biztosítása szükséges –, a nappali kórház elnevezés használatára jogosult;
 
-e)[^26] amennyiben a ritka betegségben szenvedő betegek diagnosztikai és terápiás ellátását végző más, ritka betegségeket ellátó járó- és fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatókkal együttműködik, a betegutak megszervezését biztosítja, speciális, multidiszciplináris szolgáltatást nyújt, a betegellátási tevékenységen túl kutatási és oktatási tevékenységet végez, valamint a ritka betegségben szenvedő betegek és az elérhető szolgáltatások regisztrációját végzi, az egészségügyért felelős miniszter kijelölése alapján a Ritka Betegségek Szakértői Központ elnevezés használatára jogosult.
+e)[^28] amennyiben a ritka betegségben szenvedő betegek diagnosztikai és terápiás ellátását végző más, ritka betegségeket ellátó járó- és fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatókkal együttműködik, a betegutak megszervezését biztosítja, speciális, multidiszciplináris szolgáltatást nyújt, a betegellátási tevékenységen túl kutatási és oktatási tevékenységet végez, valamint a ritka betegségben szenvedő betegek és az elérhető szolgáltatások regisztrációját végzi, az egészségügyért felelős miniszter kijelölése alapján a Ritka Betegségek Szakértői Központ elnevezés használatára jogosult.
 
-(2)[^27]
+(2)[^29]
 
-(3)[^28] Az Eütv. 3. § g) pont ga) alpontja szerinti egészségügyi szolgáltató az (1) bekezdés b) és c) pontja szerinti elnevezése mellett a gyógyintézet elnevezés használatára is jogosult.
+(3)[^30] Az Eütv. 3. § g) pont ga) alpontja szerinti egészségügyi szolgáltató az (1) bekezdés b) és c) pontja szerinti elnevezése mellett a gyógyintézet elnevezés használatára is jogosult.
 
-(4)[^29] Az (1) bekezdés d) pontja tekintetében nappali ellátás keretében egyes – az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendeletben meghatározott – kúraszerű, illetve rehabilitációs ellátások is nyújthatók. A nappali ellátás keretében az étkezés biztosítása az elvégzett beavatkozás időtartamának függvényében, illetve a beteg egészségi állapotának figyelembevételével szükséges.
+(4)[^31] Az (1) bekezdés d) pontja tekintetében nappali ellátás keretében egyes – az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendeletben meghatározott – kúraszerű, illetve rehabilitációs ellátások is nyújthatók. A nappali ellátás keretében az étkezés biztosítása az elvégzett beavatkozás időtartamának függvényében, illetve a beteg egészségi állapotának figyelembevételével szükséges.
 
-[^21]: Az 5. § (1) bekezdés a) pontja a 27/2012. (IX. 18.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^22]: Az 5. § (1) bekezdés b) pontja az 1/2012. (V. 31.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^23]: Az 5. § (1) bekezdés b) pont bi) alpontja a 27/2012. (IX. 18.) EMMI rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^24]: Az 5. § (1) bekezdés c) pontja az 1/2012. (V. 31.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^25]: Az 5. § (1) bekezdés d) pontja a 27/2012. (IX. 18.) EMMI rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^26]: Az 5. § (1) bekezdés e) pontját a 73/2013. (XII. 2.) EMMI rendelet 2. §-a iktatta be.
-[^27]: Az 5. § (2) bekezdését az 1/2012. (V. 31.) EMMI rendelet 11. § c) pontja hatályon kívül helyezte.
-[^28]: Az 5. § (3) bekezdése az 1/2012. (V. 31.) EMMI rendelet 10. § d) pontja szerint módosított szöveg.
-[^29]: Az 5. § (4) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 8. §-a iktatta be, szövege az 1/2012. (V. 31.) EMMI rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^23]: Az 5. § (1) bekezdés a) pontja a 27/2012. (IX. 18.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^24]: Az 5. § (1) bekezdés b) pontja az 1/2012. (V. 31.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^25]: Az 5. § (1) bekezdés b) pont bi) alpontja a 27/2012. (IX. 18.) EMMI rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^26]: Az 5. § (1) bekezdés c) pontja az 1/2012. (V. 31.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^27]: Az 5. § (1) bekezdés d) pontja a 27/2012. (IX. 18.) EMMI rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^28]: Az 5. § (1) bekezdés e) pontját a 73/2013. (XII. 2.) EMMI rendelet 2. §-a iktatta be.
+[^29]: Az 5. § (2) bekezdését az 1/2012. (V. 31.) EMMI rendelet 11. § c) pontja hatályon kívül helyezte.
+[^30]: Az 5. § (3) bekezdése az 1/2012. (V. 31.) EMMI rendelet 10. § d) pontja szerint módosított szöveg.
+[^31]: Az 5. § (4) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 8. §-a iktatta be, szövege az 1/2012. (V. 31.) EMMI rendelet 4. § (2) bekezdése szerint módosított szöveg.

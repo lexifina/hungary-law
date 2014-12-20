@@ -22,7 +22,7 @@
 
 ## b) a fizioterápiás szolgáltatást,
 
-## c) a gyógyszerellátást,
+## c)
 
 ## d) az egészségügyi dokumentációt, nyilvántartást és adatvédelmet,
 
@@ -126,7 +126,7 @@
 
 ## 4.3. Minden fekvőbeteg-ellátó osztálynak rendelkeznie kell a 3. § (1) bekezdés a) és b) pontjában a rendelőre meghatározott feltételeknek megfelelő osztályos vizsgáló helyiséggel.
 
-## 4.4. A felnőtt ellátás keretében gyermekellátást nyújtó egészségügyi szolgáltatónak gyermekek elhelyezésére külön kórtermet, szülői jelenlét lehetőségét és elérhető gyermekgyógyász szakorvosi ellátást biztosítania kell. 18 év alatti gyermek felnőtt osztályon is ellátható a következő szakmákban: fül-orr-gégészet, traumatológia, sebészet, szülészet-nőgyógyászat, szemészet.
+## 4.4. A felnőtt ellátás keretében gyermekellátást nyújtó egészségügyi szolgáltatónak gyermekek elhelyezésére külön kórtermet, szülői jelenlét lehetőségét és elérhető gyermekgyógyász szakorvosi ellátást biztosítania kell. 18 év alatti gyermek felnőtt osztályon is ellátható a következő szakmákban: fül-orr-gégészet, traumatológia, sebészet, szülészet-nőgyógyászat, szemészet, ortopédia.
 
 ## 5. A fekvőbeteg-ellátás speciális működési formái
 
@@ -732,7 +732,7 @@
 
 ## A Központi Sterilizáló Egység az egészségügyi szolgáltató teljes körűen sterilanyag-eszköz előállítást, ellátást végző önálló szervezeti egysége, ahol minőségügyi rendszer alkalmazásával felügyelten a teljes újrafelhasználhatóvá tételi ciklus – a szennyanyag átvételétől a sterilanyag kiadásig – végbemegy.
 
-## 4K10808N_7
+## 4K24797M_7
 
 |  | Kategóriák |
 
@@ -846,7 +846,7 @@
 
 | Autokláv2, 10/hőlégsterilizátor | EL | 111 | 1 | 2 |
 
-| Hőérzékeny anyagok sterilizálására engedélyezett berendezés (ETO12, Formaligáz13, Plazma13) | EL | EL | 1 | 2 |
+| Hőérzékeny anyagok sterilizálására engedélyezett berendezés (ETO12, Formalingáz13, Plazma13, Hidrogénperoxid13) | EL | EL | 1 | 2 |
 
 | Berakodó kocsi | - | - | 2/sterilizáló berendezés | 2/sterilizáló berendezés |
 
@@ -920,7 +920,7 @@
 
 ## X: szükséges
 
-2. melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^50]
+2. melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^52]
 
 A TEVÉKENYSÉGEK VÉGZÉSÉHEZ SZÜKSÉGES MINIMUMFELTÉTELEK
 
@@ -1060,7 +1060,7 @@ Az esetleges aneszteziológiai szövődmények elhárítására megfelelő inten
 
 | Hitelesített mérleg | 1 |
 
-| Ágymérleg | 1 |
+| Ágymérleg | EL |
 
 | Felkar bőrredő mérő | 1 |
 
@@ -1167,8 +1167,6 @@ Ebbe a csoportba tartoznak a multidiszciplináris, nagy betegforgalmú megyei é
 | Vezető: Aneszteziológia és intenzív terápia szakorvos vagy intenzív terápia szakorvos | 1 | 1 |
 
 | Orvos (szakorvos, szakorvos jelölt)-beteg arány | 1:4 | 1:3 |
-
-| Ápoló-beteg arány | 1:3 | 1:2 |
 
 | A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X |
 
@@ -1418,7 +1416,9 @@ AÁSZ: arc-állcsont-szájsebész szakorvos
 
 Jelmagyarázat:
 
-* Dialízis gyakorlattal rendelkező belgyógyász, gyermekgyógyász és aneszteziológia és intenzív terápiás szakorvos felügyelői tevékenységet végezhet dialízis centrumban akkor, ha minimumfeltételként telefonon azonnal elérhető a nefrológus szakorvos. A gyermekgyógyász szakorvos ezt a tevékenységet csak gyermekdialízis centrumban láthatja el. Belgyógyász, gyermekgyógyász (csak gyermekdialízis centrumban) vagy aneszteziológia és intenzív terápia szakorvosjelölt – rezidensi periódusa eredményes lezárása után – azonos telephelyen, megegyező időben jelenlévő nefrológus szakorvos felügyelete mellett tevékenykedhet. ** Az akut kezelőhelyiségben oxigén, szívó, mozgatható vizsgálólámpa, újraélesztő-felszerelés, EKG, defibrillátor szükséges.
+* A dialízis központokban a krónikusan hemodializált betegek ellátását, felügyeletét a dialízis kezelésben igazoltan 1 éves gyakorlattal rendelkező szakorvos is végezheti, nefrológus elérhetőségének biztosításával.
+
+** Az akut kezelőhelyiségben oxigén, szívó, mozgatható vizsgálólámpa, újraélesztő-felszerelés, EKG, defibrillátor szükséges.
 
 | Peritoneális dialízis központok és CAPD ambulanciák működésének szakmai minimumfeltételei |
 
@@ -1664,9 +1664,9 @@ A belgyógyászati szakma alaptevékenységeinek elvégzése aktív osztály ker
 
 | Antidecubitor eszközök: ülőpárna, sarok-, könyök gyűrű, egyéb | X |
 
-| Prevenciós antidecubitor matrac | 6 ágyanként |
+| Prevenciós antidecubitor matrac | 6 ágyanként 1 db |
 
-| Terápiás antidecubitor matrac | 15 ágyanként |
+| Terápiás antidecubitor matrac | 15 ágyanként 1 db |
 
 | Járókeret | X |
 
@@ -1970,7 +1970,7 @@ Minimum ágyszám: 2
 
 | Személyi feltételek: |  |
 
-| Orvos | 5 |
+| Orvos összesen | 5 |
 
 | Vezető orvos* | 1 |
 
@@ -2274,11 +2274,11 @@ Gasztroenterológiai és hepatológiai betegségek ellátása
 
 − Minden 30 óra/hét gasztroenterológia profilú szakrendelésre (endoszkópia, illetve egyéb szubspecialitások) 1 fő gasztroenterológia szakorvos
 
-− Az endoszkópos szakambulanciákra vonatkozó további személyi javaslatok:
+− Az endoszkópos szakambulanciákra vonatkozó további feltételek:
 
-− megfelelően felszerelt endoszkópos vizsgálóegység,
+− felszerelt endoszkópos vizsgálóegység,
 
-− vizsgálóegységenként 1 fő endoszkópos szakasszisztens (endoszkópos tevékenység végzése esetén) vagy 1 fő általános asszisztens biztosítása.
+− vizsgálóegységenként 1 fő endoszkópos szakasszisztens vagy 1 fő általános asszisztens biztosítása.
 
 Fekvőbeteg szakellátás
 
@@ -2454,7 +2454,7 @@ Minimum ágyszám: 15
 
 | Orvos |  | 1 |
 
-| Endoszkópos asszisztens*/általános szakasszisztens | 1 | 1 |
+| Endoszkópos szakasszisztens*/általános asszisztens | 1 | 1 |
 
 | Endoszkópos vizsgálóegység: a rendelő általános feltételei + | 1 | EL |
 
@@ -2752,9 +2752,7 @@ Minimum ágyszám: 15
 
 | Személyi feltételek: |  |  |
 
-| Orvoslétszám összesen: | 1 főorvos, szakorvos + 10 ágyanként 2 orvos | 1 főorvos, szakorvos + 15 ágyanként 4 orvos |
-
-| Ebből: nefrológia szakorvos | 2 | 4 |
+| Orvoslétszám összesen | 1 fő főorvos (nefrológus) 1 fő szakorvos (nefrológus)/10 ágyanként 1 fő orvos | 1 fő főorvos (nefrológus) 2 fő szakorvos (nefrológus)/15 ágyanként 1 fő orvos Graduális és posztgraduális képzést végző ellátóhely esetén 3 fő szakorvos (nefrológus)/15 ágyanként |
 
 | Klinikai és mentálhigiéniai szakpszichológus/ pszichológus | EK | EK |
 
@@ -3084,7 +3082,7 @@ Jelmagyarázat:
 
 Megjegyzés:
 
-A nukleáris medicina munkahelyek progresszivitási szintek szerinti térségi besorolásához:
+* A speciális ambulanciák csak osztályhoz csatoltan alakíthatóak ki, mivel működésükhöz a speciális neurológiai osztályos háttér szükséges.
 
 Az interdiszciplináris jelleg miatt a megfelelő szakmai háttér csak a négy orvosegyetemmel asszociált klinikai intézményekben biztosítható.
 
@@ -3170,7 +3168,7 @@ Kiemelt dialízis központ:
 
 | krónikus ellátásra min. 4 gép | X | X | X |
 
-| anti-HCV pozitív betegek részére elkülönített gép | X | X | X |
+| PCR pozitív (anti-HCV pozitív) betegek részére elkülönített gép | X | X | X |
 
 | HbsAg pozitív betegek részére elkülönített gép |  | X | X |
 
@@ -3200,7 +3198,7 @@ Kiemelt dialízis központ:
 
 Minimum ágyszám: 15
 
-4K10808M_55
+4K24797N_55
 
 | Bőrgyógyászati osztály minimumfeltételei |
 
@@ -3459,8 +3457,6 @@ Gyermek nefrológiai ellátás speciális ellátási formája III. szintű, ami 
 | Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EL |
 
 | A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X |
-
-| Védőnő | EL |
 
 | Tárgyi feltételek: III. szintű csecsemő- és gyermekosztály általános feltételei | X |
 
@@ -3864,7 +3860,7 @@ Immunterápia [allergiás-atopiás (IgE-mediálta) betegségek] végzésének á
 
 | Allergénsorozat epicutan tesztekhez |  | X | X |
 
-| Endoszkópos laboratórium: |  | EL | EL |
+| Endoszkópos laboratórium: |  |  |  |
 
 | Colonoscopia |  | EK | EK |
 
@@ -4130,4 +4126,4 @@ A gyermek szemészeti osztály minimumfeltételei: lásd a 0700 szakmakód alatt
 
 | Könnycsatorna szondázáshoz szondasorozat |  | X |
 
-[^50]: A 2. melléklet a 73/2013. (XII. 2.) EMMI rendelet 3. § (2) bekezdésével megállapított, a 11/2014. (II. 24.) EMMI rendelet 36. §-a, a 41/2014. (VI. 30.) EMMI rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^52]: A 2. melléklet a 73/2013. (XII. 2.) EMMI rendelet 3. § (2) bekezdésével megállapított, a 11/2014. (II. 24.) EMMI rendelet 36. §-a, a 41/2014. (VI. 30.) EMMI rendelet 1. § (1) bekezdése, az 52/2014. (XII. 19.) EMMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
