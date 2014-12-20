@@ -4,7 +4,7 @@
 
 ## Határidő: azonnal
 
-## 2. A Kormány megállapítja, hogy egyes székesfehérvári stratégiai jelentőségű vagyontárgyak önkormányzati tulajdonba kerülése érdekében történő előirányzat-átcsoportosításról szóló 1456/2014. (VIII. 14.) Korm. határozat (a továbbiakban: 1456/2014. Korm. hat.) 2. pontjában a „2014. augusztus 31-ig” szövegrész helyébe „2014. december 15-ig” szöveg lép.
+## 2.[^1]
 
 ## 3. A Kormány egyetért azzal, hogy a belügyminiszter az 1456/2014. Korm. hat. szerinti és az 1. pont szerinti támogatást – az 1456/2014. Korm. hat. 2. pontja szerinti megállapodás megkötését követően, legkésőbb 2015. december 31-ig történő elszámolási kötelezettséggel – egy összegben folyósítsa Székesfehérvár Megyei Jogú Város Önkormányzata számára.
 
@@ -61,3 +61,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
