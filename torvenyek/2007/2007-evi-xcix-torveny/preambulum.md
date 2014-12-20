@@ -1,1 +1,0 @@
-Az Országgyűlés a gazdasági és társadalmi kohézió megerősítése érdekében, és a határokon átnyúló, transznacionális, illetve régiók közötti együttműködés előmozdítása érdekében – összhangban az Európai Közösség jogszabályaival – a következő törvényt alkotja:
