@@ -52,9 +52,9 @@ A közhasznú nonprofit gazdasági társaság és a szociális szövetkezet 1. �
 
 F)
 
-Európai területi együttműködési csoportosulás és foglalkoztatói nyugdíjszolgáltató kedvezményezett tevékenysége
+Európai területi társulás és foglalkoztatói nyugdíjszolgáltató kedvezményezett tevékenysége
 
-Az európai területi együttműködési csoportosulás és a foglalkoztatói nyugdíjszolgáltató intézmény 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
+Az európai területi társulás és a foglalkoztatói nyugdíjszolgáltató intézmény 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
 
 1. az alapszabályban nevesített cél szerinti tevékenység, ideértve az e tevékenységhez kapott támogatást, juttatást is;
 

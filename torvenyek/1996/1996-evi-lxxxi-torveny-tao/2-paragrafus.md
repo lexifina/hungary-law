@@ -20,7 +20,7 @@ g) az alapítvány, a közalapítvány, az egyesület, a köztestület (ideértv
 
 h) a felsőoktatási intézmény (ideértve az általa létrehozott intézményt is), továbbá a diákotthon,
 
-i) európai területi együttműködési csoportosulás,
+i) az európai területi társulás,
 
 j) az egyéni cég,
 
