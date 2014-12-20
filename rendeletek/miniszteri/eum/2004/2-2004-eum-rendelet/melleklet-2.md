@@ -246,17 +246,15 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 2200 | Rehabilitációs medicina alaptevékenységek |
 
-| 2203 | gasztroenterológiai rehabilitáció |
-
 | 2205 | gyermek rehabilitáció |
 
-| 2206 | súlyos agysérültek rehabilitációja |
+| 2206 | súlyos agykárosodottak rehabilitációja |
 
-| 2207 | gerincvelősérültek rehabilitációja |
+| 2207 | gerincvelő károsodottak rehabilitációja |
 
 | 2208 | politraumatizáltak, égésbetegek és szeptikus sebészeti betegek rehabilitációja |
 
-| 2209 | súlyos központi idegrendszeri sérültek, politraumatizáltak és égésbetegek rehabilitációja a gyermekkorban |
+| 2209 | súlyos központi idegrendszeri károsodottak, polytraumatizáltak és égésbetegek rehabilitációja gyermekkorban |
 
 23 Gyermek- és ifjúságpszichiátria
 
@@ -612,4 +610,4 @@ h) 8-as kódot kell alkalmazni, amennyiben a működési engedély az adott egé
 
 II. A működési engedélyek kiadásának alapjául szolgáló ellátási formák jegyzéke
 
-[^21]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a szerint módosított szöveg.
+[^21]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a, az 52/2014. (XII. 19.) EMMI rendelet 4. §-a szerint módosított szöveg.
