@@ -1,4 +1,4 @@
-31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^62]
+31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^65]
 
 A Magyar Élelmiszerkönyv 3-1-79/796 számú előírása a cukortermékek vizsgálati módszereiről
 
@@ -310,4 +310,20 @@ Meghatározzuk a vizsgált minta törésmutatóját 20 °C hőmérsékleten, és
 
 5. A vizsgálat módja
 
-[^62]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.
+5.1. Ha a minta kristályokat tartalmaz, oldjuk azokat 1:1 (m/m) arányú hígítással.
+
+5.2. Olvassuk le a minta törésmutatóját 20 ° C-on refraktométeren.
+
+6. Az eredmények kiszámítása
+
+6.1. A szárazanyagtartalmat a szacharózoldatok 20 °C-ra megadott törésmutatóiból állapítjuk meg (lásd: a táblázatban), és az invertcukortartalomtól függően korrigáljuk úgy, hogy a táblázatból kapott eredményhez minden 1% invertcukor esetén hozzáadunk 0,022 értéket.
+
+6.2. Az 1:1 (m/m) arányú hígítás esetén a kapott értéket 2-vel szorozzuk.
+
+7. Ismételhetőség
+
+Ugyanabból a mintából, azonos vizsgáló által, azonos körülmények között, egy időben vagy közvetlenül egymás után végzett két meghatározás eredménye közötti különbség 100 g mintára vonatkoztatva 0,2 g-nál nagyobb nem lehet.
+
+Törésmutató-cukortartalom táblázat 20 °C-on
+
+[^65]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.
