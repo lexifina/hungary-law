@@ -1,154 +1,228 @@
 ## A fogvatartottak kötelező foglalkoztatása körében előállítandó termékek és szolgáltatások köre
 
-## Tevékenységek Egységes Ágazati Osztályozási Rendszere (TEÁOR'08) szerinti alábbi ágazatokhoz tartozó termékek és szolgáltatások:
+## A Tevékenységek Egységes Ágazati Osztályozási Rendszere (TEÁOR'08) szerinti alábbi ágazatokhoz tartozó foglalkoztatottak kötelező foglalkoztatása körében előállítandó termékek és szolgáltatások:
 
 ## 1. 10 Élelmiszergyártás (kizárólag a büntetés-végrehajtás vonatkozásában)
 
-## Zöldségfélék és gumós növények, tej, tejtermék, hasított félsertés, sertésbelsőségek, hűtött baromfi,
+## Tisztított, konyhakész zöldségek: lilahagyma, vöröshagyma, káposzta, sárgarépa, petrezselyemgyökér, zeller, karalábé, kelkáposzta, fokhagyma valamint burgonya.
 
-## kenyér, péksütemény, finom pékáru.
+## Savanyúságok: savanyú káposzta, csemege uborka, vágott vegyes csalamádé, ecetes cékla saláta.
 
-## 2. 1392 Konfekcionált textiláru gyártása (kivéve: ruházat)
+## Hasított félsertés, sertésbelsőségek.
 
-## Ágynemű, laptextil gyártása, takarók, asztalnemű, fürdőszobai és konyhai textíliák,
+## Hűtött és mélyhűtött baromfi, egészben és darabolva.
 
-## konfekcionált lakástextíliák, konyharuha és hasonló cikk.
+## Kenyér, péksütemény, finom pékáru.
 
-## 3. 1399 Egyéb textiláru gyártása mns
+## 2. 13.92 Konfekcionált textiláru gyártása (kivéve: ruházat)
 
-## 4. 1412 Munkaruházat gyártása
+## Ágynemű, asztalnemű, fürdőszobai és konyhai textíliák.
 
-## Munka, védőruha és egyenruházati termékek gyártása,
+## Konfekcionált lakástextíliák (kivéve: függönyök).
 
-## egészségügyi ruházati termékek és ágytextíliák,
+## Fogvatartotti ágytextília.
 
-## kalocsai népművészeti terítők, kézi szövésű lábtörlők és szőnyegek.
+## Zászló, juta zsák, pénzeszsák, bűnjelzsák, szagmintavevő.
 
-## 5. 1413 Felsőruházat gyártása (kivéve: munkaruházat)
+## Vászon szatyor.
 
-## Felsőruházati termékek tűzése bérmunkában (szabás nélkül),
+## 3. 13.99 Egyéb textiláru gyártása m.n.s.
 
-## felsőruházati termékek gyártása szövött textíliából.
+## Kalocsai hímzett terítő, gépi hímzett termékek, hímzett rendfokozati jelzés, karjelvények, hímzett azonosítók.
 
-## 6. 1414 Alsóruházat gyártása
+## 4. 14.12 Munkaruházat gyártása
 
-## Alsóruházati és hálóruházati termék gyártása szövött textíliából (pl. ing, alsónadrág, pizsama, hálóing és hasonló cikkek).
+## Egyenruházati termékek: nadrág, szoknya, ing/blúz, dzseki, zubbony, gyakorló ruházat, vászon sapka. Kivéve: speciális ruházat.
 
-## 7. 1419 Egyéb ruházat, kiegészítők gyártása
+## Fogvatartotti ruházat.
 
-## Sál, drapéria, sapka és hasonló cikkek.
+## Vízügyi védekezési ruházat, munkaruházat.
 
-## 8. 1512 Táskafélék, szíjazat gyártása
+## Közfoglalkoztatotti ruházat.
 
-## Egyenruházati kiegészítők (taktikai öv, tonfatartó, bilincstartó tok, gyorstok (P9–PC), könnyfakasztó tartó tok, merev bilincstartó (bőr), gyorskötöző tartó, kulcstartó, rádiótartó tok, riasztó tok, málhazsák.
+## Kétrészes munkaruha, dzseki, derekas nadrág, mellesnadrág, téli kabát, munkakabát, téli mellény, overáll, vattakabát, vattamellény.
 
-## 9. 1520 Lábbeligyártás
+## Köpeny, tunika, nadrág, kötény, ing, orvosi blúz.
 
-## Munkavédelmi, utcai és egyenruházati lábbelik gyártása bőr- és textil felsőrésszel, direkt fröccsöntött illetve ragasztott technológiával, cipőtalp-varrás, bőripari termékek varrása.
+## Egészségügyi, műtős ruházat.
 
-## 10. 1610 Fűrészárugyártás
+## Pincérkabát, szakácskabát, szakácsnadrág, szakácssapka.
 
-## Szélezetlen és szélezett deszka, oszlopok és gerendák gyártása és hasonló cikkek.
+## 5. 14.14 Alsóruházat gyártása
 
-## 11. 1623 Épületasztalos-ipari termék gyártása
+## Ing, téli ing, téli alsó, blúz, póló, pizsama, hálóing. Kivéve: gyermek ruházat.
 
-## Borítások, fakeretek, állványok, kis szekrények, egyedi fatermékek (tömör fából is),
+## 6. 14.19 Egyéb ruházat, kiegészítők gyártása
 
-## korlátok, nyílászárók, székek és hasonló cikkek.
+## Munkavédelmi kesztyűk (kivéve: lángálló, vágásbiztos, bélelt, és cérnakesztyű).
 
-## 12. 1624 Tároló fatermékek gyártása
+## 7. 15.12 Táskafélék, szíjazat gyártása
 
-## Ládák, dobozok, raklapok és hasonló cikkek.
+## Egyenruházati kiegészítők: övek bőrből, taktikai öv, tonfatartó, bilincstartó tok, gyorstok (P9-RC), könnyfakasztó tartó tok, merev bilincstartó (bőr), gyorskötöző tartó, kulcstartó, rádiótartó tok, riasztó tok, honvédségi hevederöv, katasztrófavédelmi öv.
 
-## 13. 1629 Egyéb fa-, parafatermék, fonottáru gyártása
+## Málhazsák.
 
-## Fanyelek, képkeretek, fa alkatrészek, kutyaólak.
+## Szolgálati igazolvány tok.
 
-## 14. 1722 Háztartási, egészségügyi papírtermékek gyártása
+## 8. 15.20 Lábbeligyártás
 
-## Háztartási higiéniai papírtermékek (közületi kiszerelésben is), folpackfólia, papírzsebkendő, szalvéta és hasonló cikkek.
+## Munkavédelmi, utcai és egyenruházati lábbelik gyártása bőr- és textil felsőrésszel, direkt fröccsöntött talppal, ragasztott technológiával, cipőtalp varrás, kivéve:
 
-## 15. 1723 Irodai papíráru gyártása
+## a) 1000V-os villanyszerelő lábbeli;
 
-## Egyedi spirálfüzet, átírótömb, felírótömb, konferenciamappa, napló, ajándéktasak,
+## b) lovagló csizma;
 
-## egyedi nyomtatványok, talpas boríték és hasonló cikkek.
+## c) hegesztő bakancs;
 
-## 16. 1812 Nyomás (kivéve: napilap)
+## d) női társasági, alkalmi és divatcipő;
 
-## Könyv, meghívók, céglogós borítékok, egyedi nyomtatványok, formanyomtatványok, névjegy, névjegykártya, öntapadós címkék, plakátok, naplók, üdvözlőlapok és hasonló cikkek.
+## e) speciális díszelgő cipő, csizma;
 
-## 17. 1813 Nyomdai előkészítő tevékenység
+## f) műtős klumpa;
 
-## Kiadványszerkesztés, könyvszedés, könyvszerkesztés.
+## g) hajós félcipő, bakancs;
 
-## 18. 1814 Könyvkötés, kapcsolódó szolgáltatás
+## h) sportcipő;
 
-## Könyvkötés, aranyfeliratozás, díszborító, díszdoboz, kasírozás, keménytáblás kötés, műbőrkötés, oklevélátadó, többkötetes kiadvány tárolódoboza, vendégkönyv és hasonló cikkek.
+## i) gyermek lábbeli.
 
-## 19. 2222 Műanyag csomagolóeszköz gyártása
+## 9. 17.22 Háztartási, egészségügyi papírtermék gyártása
 
-## Homokzsák gyártása.
+## Háztartási toalettpapír, közületi toalettpapír, háztartási kéztörlő, közületi kéztörlő, papír zsebkendő, szalvéta, orvosi lepedő.
 
-## 20. 2511 Fémszerkezet gyártása
+## 10. 17.23 Irodai papíráru gyártása
 
-## Lakatosipari tevékenység.
+## Egyedi spirálfüzet, konferenciamappa, jegyzettömb, kockatömb, felírótömb, átírótömb, dosszié (pólyás, fűzős, szalagos), mappa, futárboríték, talpas boríték, papírtasak.
 
-## 21. 2512 Fém épületelem gyártása
+## 11. 18.12 Nyomás (kivéve: napilap)
 
-## Ajtó, ablakrács, zárkaajtó, lemezajtó, biztonsági rács, büntetés-végrehajtási ajtózárszerkezet (három ponton záródó), kerítés, kerítéselemek, egyedi szerkezetek és hasonló cikkek.
+## Könyv, évkönyv, meghívók, céglogós borítékok, egyedi- és, formanyomtatványok (kivéve: hatósági, szigorú számadású, engedélyköteles nyomtatványok), névjegykártya, B2 méretnél nem nagyobb plakátok, naptárak, tértivevény (kivéve: külföldi tértivevény), iratborító.
 
-## 22. 2521 Központi fűtési kazán, radiátor gyártása
+## 12. 18.13 Nyomdai előkészítő tevékenység
+
+## Kiadványszerkesztés, könyvszedés, könyvszerkesztés, elektronikus tördelés.
+
+## 13. 18.14 Könyvkötés, kapcsolódó szolgáltatás
+
+## Könyvkötés, műbőrkötés, emlékkönyv, vendégkönyv, keménytáblás kötés, oklevélátadó, díszborító, aláírókönyv, prospektustartó, fóliázás, laminálás, kasírozás, arany-feliratozás, feliratozás.
+
+## 14. 22.21 Műanyag lap, lemez, fólia, cső, profil gyártása
+
+## Folpack fólia.
+
+## 15. 22.22 Műanyag csomagolóeszköz gyártása
+
+## Homokzsák.
+
+## 16. 25.11 Fémszerkezet gyártása
+
+## Építőipari állványok és zsaluk, egyedi épület- és csarnokszerkezetek, acél műtárgyak közutakhoz, ipari tartószerkezetek, toronyszerkezetek, expandált lemez, közúti jelzőtáblaoszlopok.
+
+## 17. 25.12 Fém épületelem gyártása
+
+## Ablakrács, biztonsági rács, elválasztó rács, rács, lemezajtó, rácsos ajtó, zárkaajtó, kerítés.
+
+## 18. 25.21 Központi fűtési kazán, radiátor gyártása
 
 ## Radiátor.
 
-## 23. 2561 Fémfelület-kezelés
+## 19. 25.71 Evőeszköz gyártás
 
-## Galvanikus horganyzás kék és sárga passziválással, nikkelezés, kooperációban horganyzás és kikészítés.
+## Fogvatartotti zsebkés.
 
-## 24. 2572 Lakat-, zárgyártás
+## 20. 25.72 Lakat-, zárgyártás
 
-## Kooperációban zár, záralkatrészek gyártása összeszerelés.
+## Zár, záralkatrészek (kivéve: zárbetétek).
 
-## 25. 2599 M.n.s. egyéb fémfeldolgozási termék gyártása
+## Büntetés-végrehajtási ajtózár-szerkezet (3 ponton záródó).
 
-## Kordon, biztonsági elválasztókordon, vaságy, kisszék, zárkaszekrény, állványok és hasonló cikkek.
+## Elektromos ajtózár (szigonyzár).
 
-## 26. 3101 Irodabútor gyártása
+## 21. 25.99 M.n.s. egyéb fémfeldolgozási termék gyártása
 
-## Laminált, tömör,furnér kivitelben egyszerű (ügyintézői kategória).
+## Kordon, biztonsági elválasztókordon.
 
-## 27. 3102 Konyhabútorgyártás
+## Gurulásgátlók, fém létra, fémkitűző.
 
-## Laminált, tömör,furnér kivitelben egyszerű (ügyintézői kategória).
+## Vályogprés gép.
 
-## 28. 3103 Ágybetét gyártása
+## 22. 31.01 Irodabútor gyártása
 
-## Szivacsmatrac.
+## Laminált bútorlapból készült ügyintézői irodabútorok.
 
-## 29. 3109 Egyéb bútor gyártása
+## Lap- és csőlábas asztalok, szekrények.
 
-## Zárkabútorzat, faállvány, iratfakk, homokláda, kulcstartó szekrény, fali ruhafogas, polc, fegyvertároló szekrény, készenléti helyiségek bútorzata, ágy javítása és gyártása, katonaszekrény gyártása és összeszerelése és hasonló cikkek.
+## Forgószékek, vezetői fotel, tárgyalószékek, favázas székek, bankett székek.
 
-## 30. 3319 Egyéb ipari eszköz javítása
+## 23. 31.02 Konyhabútorgyártás
 
-## Raklapfelújítás.
+## Egyszerű kivitelű, egyedi konyhabútor gyártása laminált bútorlapból.
 
-## 31. 38 Hulladékgazdálkodás
+## 24. 31.03 Ágybetét gyártása
 
-## Irodai, nyomdai, irattári papírok gyűjtése és válogatása, hasznosítása, megsemmisítése.
+## Szivacsmatrac (huzattal), ágybetét (MDF lap).
 
-## Elektronikai hulladék gyűjtése, válogatása, bontása,hasznosítása, megsemmisítése.
+## 25. 31.09 Egyéb bútor gyártása
 
-## 32. 3900 Szennyeződésmentesítés, egyéb hulladékkezelés
+## Iskolabútor gyártása.
 
-## Kültéri területrendezés, tereprendezés, szemétszedés, növényzetirtás (biztonsági feltételek előzetes egyeztetése alapján).
+## Gyermek bútorok: szék, asztal, szekrény, kanapé, polc, polcos ülőke.
 
-## 33. 9524 Bútor, lakberendezési tárgy javítása
+## Heverők gyártása és összeszerelése.
 
-## Otthoni és irodabútorok, valamint lakberendezési tárgyak javítása.
+## Tömörfa ülőbútorok.
 
-## 34. 9601 Textil, szőrme mosása, tisztítása
+## Laminált bútorlapból készült kulcstartó szekrény, fali ruhafogas, polc, fegyvertároló szekrény, öltözőszekrény.
+
+## Készenléti helységek laminált bútorlapból készült bútorzatának gyártása és összeszerelése.
+
+## Vaságyak, fém asztalok, zárkaszekrények, fém székek, fém szekrények (kivéve: trezorok).
+
+## Homokláda.
+
+## 26. 32.30. Sportszergyártás
+
+## Iskolai sportszerek: bordásfal, zsámoly, ugrószekrény, tornapad, tornagerenda, gyűrű.
+
+## 27. 32.50 Orvosi eszköz gyártása
+
+## a) Orvosi, egészségügyi és kórházi beépített, illetve mobil bútor, laboratóriumi bútor gyártása.
+
+## b) Elektromos betegápoló ágy.
+
+## c) Vízhatlan, lég- és páraáteresztő, matracvédő, vizsgáló lepedő.
+
+## d) Antiallergén, steppelt, mosható paplan műszál töltettel.
+
+## e) Antiallergén, mosható, steppelt, három rétegű betegalátét.
+
+## f) Vízhatlan, lég- és páraáteresztő, steppelt öt rétegű betegalátét.
+
+## g) Egészségügyi komforthab matrac.
+
+## h) Szuper mikroszálas törlőkendő, törölköző, orvosi műszer törlő.
+
+## i) Sötétítő függöny, szemérem függöny (UV Standard 801).
+
+## j) Egyszer használatos három rétegű sebészeti szájmaszk.
+
+## k) Kórházi textíliák.
+
+## 28. 38 Hulladékgazdálkodás
+
+## Irodai, nyomdai, irattári papírok, valamint műanyag alapú adathordozók gyűjtése és válogatása, hasznosítása, megsemmisítése.
+
+## Elektronikai hulladék gyűjtése, válogatása, bontása, hasznosítása, megsemmisítése.
+
+## 29. 43.32 Épületasztalos-szerkezet szerelése
+
+## Laboratóriumi berendezések bútorainak felszerelése és hasonló cikkek beszerelése.
+
+## 30. 58.11 Könyvkiadás
+
+## Kiadói tevékenység.
+
+## 31. 96.01 Textil, szőrme mosása, tisztítása
 
 ## Normál textíliák mosása, szárítása, kalanderezése, ruházat, ágynemű, egyéb textiltermékek mosása. Egészségügyi textíliák mosása, szárítása, kalanderezése (higiénikus mosodai státusz).
 
@@ -168,7 +242,7 @@
 
 4. Rendészeti Szakközépiskolák
 
-5. Rendészeti Vezetőképző és Kutatóintézet
+5.[^6] Közszolgálati Személyzetfejlesztési Főigazgatóság
 
 6. Nemzetbiztonsági Szakszolgálat
 
@@ -182,16 +256,22 @@
 
 11. Nemzeti Védelmi Szolgálat
 
-12.[^6] Országos Vízügyi Főigazgatóság és a vízügyi igazgatóságok
+12.[^7] Országos Vízügyi Főigazgatóság és a vízügyi igazgatóságok
 
-13. Bevándorlási és Állampolgársági Hivatal
+13.[^8] Bevándorlási és Állampolgársági Hivatal
 
-14. Bevándorlási és Állampolgársági Hivatal Befogadó Állomás, Békéscsaba
+14.[^9] Bevándorlási és Állampolgársági Hivatal Menekültügyi Őrzött Befogadó Központ, Békéscsaba
 
-15. Bevándorlási és Állampolgársági Hivatal Befogadó Állomás, Bicske
+15.[^10] Bevándorlási és Állampolgársági Hivatal Befogadó Állomás, Bicske
 
-16. Bevándorlási és Állampolgársági Hivatal Befogadó Állomás, Debrecen
+16.[^11] Belügyminisztérium Nemzetközi Oktatási Központ
 
-17. Nemzetközi Oktatási és Polgári Válságkezelő Központ
+17.[^12] Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala
 
-[^6]: A 2. melléklet 12. pontja a 34/2012. (VII. 4.) BM rendelet 3. §-ával megállapított szöveg.
+[^6]: A 2. melléklet 5. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^7]: A 2. melléklet 12. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^8]: A 2. melléklet 13. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^9]: A 2. melléklet 14. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^10]: A 2. melléklet 15. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^11]: A 2. melléklet 16. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^12]: A 2. melléklet 17. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
