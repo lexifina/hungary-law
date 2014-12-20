@@ -4,7 +4,7 @@
 
 a) azon szervezet részére, amely az Európai Bizottság támogatás visszafizetésére kötelező határozatának nem tett eleget,
 
-b)[^11] a nehéz helyzetben lévő vállalkozás részére, kivéve az 1407/2013/EU bizottsági rendelet 3. cikke szerinti csekély összegű támogatások esetén,
+b)[^14] csekély összegű támogatás kivételével – figyelembe véve a 14. § (4) bekezdésében foglaltakat – nehéz helyzetben lévő vállalkozás részére,
 
 c) a pályázati felhívás által meghatározott kizáró ok fennállása esetén.
 
@@ -14,4 +14,23 @@ a) a 800/2008/EK bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglalt
 
 b) a 800/2008/EK bizottsági rendelet 1. cikk (4) bekezdésében meghatározott célra.
 
-[^11]: A 16. § (1) bekezdés b) pontja a 3/2014. (X. 1.) MvM rendelet 7. §-ával megállapított szöveg.
+(3)[^15] Nem ítélhető meg a 651/2014/EU bizottsági rendelet alapján
+
+a) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez a 8., 10. és 11. alcím szerinti támogatás,
+
+b) elsődleges mezőgazdasági termeléshez a 8. és 11. alcím szerinti, valamint a kis- és középvállalkozás vásárokon való részvételéhez kapcsolódó támogatás,
+
+c) mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny vállalkozás részére támogatás, ha
+
+ca) a támogatás összege az elsődleges termelőktől beszerzett vagy érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre, illetve
+
+cb) a támogatás az elsődleges termelőknek történő teljes vagy részleges továbbítástól függ,
+
+d) támogatás exporttal kapcsolatos tevékenységekhez, ha az az exportált mennyiségekhez, értékesítési hálózat kialakításához és működtetéséhez, vagy az exporttevékenységgel összefüggésben felmerülő egyéb folyó kiadásokhoz közvetlenül kapcsolódik,
+
+e) támogatás, ha azt import áruk helyett hazai áru használatától teszik függővé, vagy
+
+f) olyan feltétellel nyújtandó támogatás, amely az uniós jog megsértését eredményezi.
+
+[^14]: A 16. § (1) bekezdés b) pontja a 10/2014. (XII. 17.) MvM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^15]: A 16. § (3) bekezdését a 10/2014. (XII. 17.) MvM rendelet 5. § (2) bekezdése iktatta be.

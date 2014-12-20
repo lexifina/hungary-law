@@ -1,4 +1,4 @@
-## 14/C. §[^10] Az innovációs tanácsadó szolgáltatásokhoz és az innovációs támogató szolgáltatásokhoz nyújtott támogatás esetében
+## 14/C. §[^13] Az innovációs tanácsadó szolgáltatásokhoz és az innovációs támogató szolgáltatásokhoz nyújtott támogatás esetében
 
 a) az innovációs tanácsadó szolgáltatások tekintetében – az Sztv. szerint – elszámolható költségnek minősül
 
@@ -30,4 +30,4 @@ bf) a minőség-ellenőrzéssel és tanúsítással kapcsolatos szolgáltatások
 
 bg) a minőséget tanúsító címkék használatával kapcsolatos költségek.
 
-[^10]: A 14/C. §-t a 3/2014. (X. 1.) MvM rendelet 6. §-a iktatta be.
+[^13]: A 14/C. §-t a 3/2014. (X. 1.) MvM rendelet 6. §-a iktatta be.

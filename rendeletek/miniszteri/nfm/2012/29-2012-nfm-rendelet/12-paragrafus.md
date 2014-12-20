@@ -26,6 +26,8 @@ f) a képzésben részt vevők személyes költsége és az elszámolható álta
 
 (7) A támogatási intenzitás nem haladhatja meg speciális képzésnél kis- és középvállalkozás esetében az elszámolható költségek 35%-át, nagyvállalkozások esetében az elszámolható költségek 25%-át.
 
-(8) A (6) és (7) bekezdés szerinti támogatási intenzitást 10 százalékponttal növelni lehet a fogyatékkal élő vagy hátrányos helyzetű munkavállalók képzéséhez nyújtott támogatás esetén.
+(8)[^7] A (6) és (7) bekezdés szerinti támogatási intenzitást 10 százalékponttal növelni lehet a fogyatékossággal élő vagy hátrányos helyzetű munkavállalók képzéséhez nyújtott támogatás esetén.
 
 (9) Ha valamely projektben speciális és általános képzési elemek szerepelnek, amelyek a képzés támogatási intenzitásának kiszámítása szempontjából egymástól nem választhatók el, vagy ha a projektben szereplő képzés speciális vagy általános jellege nem állapítható meg, a (7) bekezdés szerinti támogatási intenzitásokat kell alkalmazni.
+
+[^7]: A 12. § (8) bekezdése a 10/2014. (XII. 17.) MvM rendelet 12. §-a szerint módosított szöveg.

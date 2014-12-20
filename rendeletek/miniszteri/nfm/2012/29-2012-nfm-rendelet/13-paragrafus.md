@@ -4,4 +4,6 @@
 
 (2) A tanácsadáshoz kapcsolódó támogatás esetén az elszámolható költségek a külső tanácsadók által nyújtott szolgáltatások tanácsadói költségei. Az érintett szolgáltatás nem lehet folyamatos vagy időszakosan visszatérő tevékenység, és nem kapcsolódhat a vállalkozás szokásos működési költségeihez, különösen a folyamatos adótanácsadáshoz, rendszeres jogi szolgáltatáshoz vagy hirdetéshez.
 
-(3) A vásárokon való részvételhez kapcsolódó támogatás esetén az elszámolható költségek a vállalkozásnak valamely kiállításon vagy vásáron való első részvétele esetén a kiállító helyiség bérletével, felállításával és működtetésével kapcsolatos költségek.
+(3)[^8] A vásárokon való részvételhez kapcsolódó támogatás esetén az elszámolható költségek a vállalkozásnak valamely kiállításon vagy vásáron való részvétele esetén a kiállító helyiség bérletével, felállításával és működtetésével kapcsolatos költségek.
+
+[^8]: A 13. § (3) bekezdése a 10/2014. (XII. 17.) MvM rendelet 13. § b) pontja szerint módosított szöveg.
