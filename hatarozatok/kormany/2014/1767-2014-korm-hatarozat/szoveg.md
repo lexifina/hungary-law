@@ -10,13 +10,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2014. december 31.
 
-2. Az MFB Közösségi Közlekedésfejlesztés Finanszírozási Program keretösszegének megemelésről szóló 2010/2013. (XII. 29.) Korm. határozat 2. pont b) alpontja helyébe a következő rendelkezés lép:
-
-[A Kormány
-
-egyetért azzal, hogy az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB) által euróban meghatározott éven túli lejáratú hitelfelvételekhez, kötvénykibocsátásokhoz kapcsolódóan az 1111/2012. (IV. 12.) Korm. határozat 1. pont a) alpontjában meghatározott 100 milliárd forint mértékig vállalt árfolyam-fedezeti megállapodáson túl további 50 milliárd forint mértékig a nemzetgazdasági miniszter az MFB-vel árfolyam fedezeti megállapodást kössön a következő feltételekkel:]
-
-„b) az 1. pont szerinti keretemeléssel érintett Program futamideje az árfolyam-fedezeti megállapodás szempontjából 19 év,”
+2.[^1]
 
 3. A Kormány felhívja a nemzetgazdasági minisztert, hogy az MFB Közösségi Közlekedésfejlesztés Finanszírozási Program keretösszegének megemelésről szóló 2010/2013. (XII. 29.) Korm. határozat e kormányhatározat 2. pontja által módosított 2. pont b) alpontjának megfelelően módosítsa az MFB Közösségi Közlekedésfejlesztés Finanszírozási Program árfolyam-fedezeti megállapodását.
 
@@ -26,21 +20,9 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2014. december 31.
 
-4. A Vállalkozásfejlesztési Hitelprogram és az MFB Magyar Fejlesztési Bank Zrt. finanszírozási programjai árazásának átalakításáról szóló 1422/2011. (XII. 6.) Korm. határozat 1. pont e) alpontja helyébe a következő rendelkezés lép:
+4.[^2]
 
-[A Kormány
-
-egyetért az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) által a „Sikeres Magyarországért” Hitelprogramok meghirdetéséről és a fejlesztési tőkefinanszírozási eszközök kiszélesítéséről szóló 1041/2005. (V. 5.) Korm. határozat [a továbbiakban: 1041/2005. (V. 5.) Korm. határozat] alapján meghirdetett Új Magyarország Vállalkozásfejlesztési Hitelprogram átalakításával és az átalakítás keretében]
-
-„e) az a)–d) alpontokban jelzett módosításokat figyelembe véve az MFB Vállalkozásfinanszírozási Program árfolyam-fedezeti kötelezettségvállalással biztosított keretösszege 364 milliárd forint.”
-
-5. Az MFB Önkormányzati Infrastruktúrafejlesztési Program bevezetéséről, az önkormányzati hitelprogramok átalakításáról szóló 1424/2011. (XII. 6.) Korm. határozat 1. pont c) alpontja helyébe a következő rendelkezés lép:
-
-[A Kormány
-
-egyetért az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) által az új gazdaságfejlesztési hitelprogramok meghirdetéséről szóló 2288/2004. (XI. 17.) Korm. határozat alapján meghirdetett „Sikeres Magyarországért” Önkormányzati Infrastruktúrafejlesztési Hitelprogram lezárásával, az MFB Önkormányzati Infrastruktúrafejlesztési Program meghirdetésével és ennek keretében]
-
-„c) az MFB Önkormányzati Infrastruktúrafejlesztési Program 40 milliárd forint árfolyam-fedezeti kötelezettségvállalással biztosított keretösszegének biztosításával;”
+5.[^3]
 
 6. A Kormány felhívja a nemzetgazdasági minisztert, hogy a Vállalkozásfejlesztési Hitelprogram és az MFB Magyar Fejlesztési Bank Zrt. finanszírozási programjai árazásának átalakításáról szóló 1422/2011. (XII. 6.) Korm. határozat e kormányhatározat 4. pontja által módosított 1. pont e) alpontjának, valamint az MFB Önkormányzati Infrastruktúrafejlesztési Program bevezetéséről, az önkormányzati hitelprogramok átalakításáról szóló 1424/2011. (XII. 6.) Korm. határozat e kormányhatározat 5. pontja által módosított 1. pont c) alpontjának megfelelően módosítsa az MFB Vállalkozásfinanszírozási Program és az MFB Önkormányzati Infrastruktúrafejlesztési Program finanszírozásához megkötött árfolyam-fedezeti megállapodásokat.
 
@@ -51,3 +33,7 @@ Miniszterelnökséget vezető miniszter
 Határidő: 2014. december 31.
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
