@@ -1,12 +1,15 @@
-8/A. §[^14] (1)[^15] Az élelmiszerenzimekről, valamint a 83/417/EGK tanácsi irányelv, az 1493/1999/EK tanácsi rendelet, a 2000/13/EK irányelv, a 2001/112/EK tanácsi irányelv és a 258/97/EK rendelet módosításáról szóló, 2008. december 16-i 1332/2008/EK európai parlamenti és tanácsi rendelet 11. cikkében előírt információkat Magyarország területén a nem végső fogyasztóknak történő értékesítésre szánt élelmiszerenzimek és élelmiszerenzim-készítmények csomagolásán magyar nyelven, közérthető módon kell feltüntetni.
+## 7–8. §[^7]
 
-(2)[^16] Az élelmiszer-adalékanyagokról szóló, 2008. december 16-i 1333/2008/EK európai parlamenti és tanácsi rendelet 22. cikkében előírt információkat Magyarország területén a nem végső fogyasztóknak történő értékesítésre szánt élelmiszer-adalékanyagok csomagolásán magyar nyelven, közérthető módon kell feltüntetni.
+8/A. §[^8] (1)[^9] Az élelmiszerenzimekről, valamint a 83/417/EGK tanácsi irányelv, az 1493/1999/EK tanácsi rendelet, a 2000/13/EK irányelv, a 2001/112/EK tanácsi irányelv és a 258/97/EK rendelet módosításáról szóló, 2008. december 16-i 1332/2008/EK európai parlamenti és tanácsi rendelet 11. cikkében előírt információkat Magyarország területén a nem végső fogyasztóknak történő értékesítésre szánt élelmiszerenzimek és élelmiszerenzim-készítmények csomagolásán magyar nyelven, közérthető módon kell feltüntetni.
 
-(3)[^17] Az élelmiszerekben és azok felületén használható aromákról és egyes, aroma tulajdonságokkal rendelkező élelmiszer-összetevőkről, valamint az 1601/91/EGK tanácsi rendelet, a 2232/96/EK és a 110/2008/EK rendelet, valamint a 2000/13/EK irányelv módosításáról szóló, 2008. december 16-i 1334/2008/EK európai parlamenti és tanácsi rendelet 15. cikkében előírt információkat Magyarország területén a nem végső fogyasztóknak történő értékesítésre szánt aromák csomagolásán magyar nyelven, közérthető módon kell feltüntetni.
+(2)[^10] Az élelmiszer-adalékanyagokról szóló, 2008. december 16-i 1333/2008/EK európai parlamenti és tanácsi rendelet 22. cikkében előírt információkat Magyarország területén a nem végső fogyasztóknak történő értékesítésre szánt élelmiszer-adalékanyagok csomagolásán magyar nyelven, közérthető módon kell feltüntetni.
+
+(3)[^11] Az élelmiszerekben és azok felületén használható aromákról és egyes, aroma tulajdonságokkal rendelkező élelmiszer-összetevőkről, valamint az 1601/91/EGK tanácsi rendelet, a 2232/96/EK és a 110/2008/EK rendelet, valamint a 2000/13/EK irányelv módosításáról szóló, 2008. december 16-i 1334/2008/EK európai parlamenti és tanácsi rendelet 15. cikkében előírt információkat Magyarország területén a nem végső fogyasztóknak történő értékesítésre szánt aromák csomagolásán magyar nyelven, közérthető módon kell feltüntetni.
 
 (4) Az (1)–(3) bekezdésben előírtak nem zárják ki a jelölések más nyelveken történő feltüntetését sem.
 
-[^14]: A 8/A. §-t a 105/2009. (VIII. 14.) FVM rendelet 5. §-a iktatta be.
-[^15]: A 8/A. § (1) bekezdése az 5/2012. (II. 10.) VM rendelet 8. § a) pontja szerint módosított szöveg.
-[^16]: A 8/A. § (2) bekezdése az 5/2012. (II. 10.) VM rendelet 8. § a) pontja szerint módosított szöveg.
-[^17]: A 8/A. § (3) bekezdését a 105/2009. (VIII. 14.) FVM rendelet 9. § (2) bekezdése alapján 2011. január 20-tól kell alkalmazni. A 8/A. § (3) bekezdése az 5/2012. (II. 10.) VM rendelet 8. § a) pontja szerint módosított szöveg.
+[^7]: A 7–8. §-t a 36/2014. (XII. 17.) FM rendelet 15. § b) pont ba) alpontja hatályon kívül helyezte.
+[^8]: A 8/A. §-t a 105/2009. (VIII. 14.) FVM rendelet 5. §-a iktatta be.
+[^9]: A 8/A. § (1) bekezdése az 5/2012. (II. 10.) VM rendelet 8. § a) pontja szerint módosított szöveg.
+[^10]: A 8/A. § (2) bekezdése az 5/2012. (II. 10.) VM rendelet 8. § a) pontja szerint módosított szöveg.
+[^11]: A 8/A. § (3) bekezdését a 105/2009. (VIII. 14.) FVM rendelet 9. § (2) bekezdése alapján 2011. január 20-tól kell alkalmazni. A 8/A. § (3) bekezdése az 5/2012. (II. 10.) VM rendelet 8. § a) pontja szerint módosított szöveg.

@@ -1,5 +1,5 @@
-1. számú melléklet a 19/2004. (II. 26.) FVM–ESZCSM–GKM
+1–3. számú melléklet a 19/2004. (II. 26.) FVM–ESZCSM–GKM
 
-együttes rendelethez[^41]
+együttes rendelethez[^34]
 
-[^41]: Az 1. számú melléklet a 167/2004. (XI. 29.) FVM–EüM–GKM együttes rendelet 6. § (3) bekezdésének a) pontja szerint módosított szöveg.
+[^34]: Az 1–3. számú mellékletet a 36/2014. (XII. 17.) FM rendelet 15. § b) pont ba) alpontja hatályon kívül helyezte.

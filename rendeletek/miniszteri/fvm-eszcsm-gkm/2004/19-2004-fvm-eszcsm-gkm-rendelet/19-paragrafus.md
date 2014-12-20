@@ -1,50 +1,44 @@
+## 18. §[^20]
+
 19. § (1) Ez a rendelet a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
 
-(2)[^29]
+(2)[^21]
 
-(3) A rendelet hatálybalépése előtt legyártott, a rendelet előírásainak nem megfelelő jelölésű, de az R. követelményeit teljesítő csomagolás 2005. december 31-ig, a 7. § (5) bekezdése szerinti ,,Összetevők'' szó feltüntetése vonatkozásában 2006. június 30-ig használható fel. Az ilyen csomagolásban lévő élelmiszerek a minőségmegőrzési idejük lejártáig tarthatók forgalomban.
+(3)[^22]
 
-(4)[^30] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+(4)[^23] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) a Tanács 89/396/EGK irányelve (1989. június 14.) az egyes árutételekhez tartozó élelmiszereket azonosító jelzésekről és jelölésekről, valamint az azt módosító 91/238/EGK (1991. április 22.), valamint a 92/11/EGK (1992. március 3.) tanácsi irányelvek,
+a)–f)[^24]
 
-b)[^31] a Bizottság 2008/5/EK irányelve (2008. január 30.) a 2000/13/EK európai parlamenti és tanácsi irányelvben előírtaktól eltérő adatok bizonyos élelmiszerek címkézésén való kötelező feltüntetéséről,
+g)[^25]
 
-c) a Bizottság 1999/10/EK irányelve (1999. március 8.) az élelmiszerek címkézéséről szóló 79/112/EGK irányelv 7. cikkének rendelkezéseitől való eltérésről,
+h)[^26]
 
-d) az Európai Parlament és a Tanács 2000/13/EK irányelve (2000. március 20.) az élelmiszerek címkézésére, kiszerelésére és reklámozására vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 2001/101/EK (2001. november 26.) bizottsági irányelv, továbbá a 2001/101/EK irányelvet módosító 2002/86/EK (2002. november 6.) bizottsági irányelv,
+i)[^27]
 
-e) a Bizottság 2002/67/EK irányelve (2002. július 18.) a kinint és koffeint tartalmazó élelmiszerek címkézéséről,
+j)[^28]
 
-f) az Európai Parlament és a Tanács 2003/89/EK irányelve (2003. november 10.) a 2000/13/EK irányelv élelmiszer-összetevők feltüntetése tekintetében történő módosításáról,
+k)[^29]
 
-g)[^32]
+l)[^30] az Európai Parlament és a Tanács 1332/2008/EK rendelete (2008. december 16.) az élelmiszerenzimekről, valamint a 83/417/EGK tanácsi irányelv, az 1493/1999/EK tanácsi rendelet, a 2000/13/EK irányelv, a 2001/112/EK tanácsi irányelv és a 258/97/EK rendelet módosításáról,
 
-h)[^33]
+m)[^31] az Európai Parlament és a Tanács 1333/2008/EK rendelete (2008. december 16.) az élelmiszer-adalékanyagokról,
 
-i)[^34]
+n)[^32] az Európai Parlament és a Tanács 1334/2008/EK rendelete (2008. december 16.) az élelmiszerekben és azok felületén használható aromákról és egyes, aroma tulajdonságokkal rendelkező élelmiszer-összetevőkről, valamint az 1601/91/EGK tanácsi rendelet, a 2232/96/EK és a 110/2008/EK rendelet, valamint a 2000/13/EK irányelv módosításáról,
 
-j)[^35] a Bizottság 2006/142/EK irányelve (2006. december 22.) a 2000/13/EK európai parlamenti és tanácsi irányelvnek az élelmiszerek címkézésén minden körülmények között megjelölendő összetevők listáját tartalmazó IIIa. melléklete módosításáról,
+o)[^33]
 
-k)[^36] a Bizottság 2007/68/EK irányelve (2007. november 27.) bizonyos élelmiszer összetevők tekintetében a 2000/13/EK európai parlamenti és tanácsi irányelv IIIa. mellékletének módosításáról,
-
-l)[^37] az Európai Parlament és a Tanács 1332/2008/EK rendelete (2008. december 16.) az élelmiszerenzimekről, valamint a 83/417/EGK tanácsi irányelv, az 1493/1999/EK tanácsi rendelet, a 2000/13/EK irányelv, a 2001/112/EK tanácsi irányelv és a 258/97/EK rendelet módosításáról,
-
-m)[^38] az Európai Parlament és a Tanács 1333/2008/EK rendelete (2008. december 16.) az élelmiszer-adalékanyagokról,
-
-n)[^39] az Európai Parlament és a Tanács 1334/2008/EK rendelete (2008. december 16.) az élelmiszerekben és azok felületén használható aromákról és egyes, aroma tulajdonságokkal rendelkező élelmiszer-összetevőkről, valamint az 1601/91/EGK tanácsi rendelet, a 2232/96/EK és a 110/2008/EK rendelet, valamint a 2000/13/EK irányelv módosításáról,
-
-o)[^40] a Bizottság 1266/2010/EU rendelete (2010. december 22.) a 2007/68/EK irányelvnek a borokra vonatkozó címkézési előírások tekintetében történő módosításáról.
-
-[^29]: A 19. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 255. pontja hatályon kívül helyezte.
-[^30]: A 19. § (4) bekezdése a 167/2004. (XI. 29.) FVM–EüM–GKM együttes rendelet 4. §-ával megállapított szöveg.
-[^31]: A 19. § (4) bekezdés b) pontja a 4/2010. (VII. 5.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^32]: A 19. § (4) bekezdés g) pontját a 4/2010. (VII. 5.) VM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
-[^33]: A 19. § (4) bekezdésének h) pontját a 90/2005. (X. 13.) FVM–EüM–GKM együttes rendelet 1. §-a iktatta be, hatályon kívül helyezte a 40/2008. (IV. 3.) FVM–SZMM együttes rendelet 3. § (2) bekezdése.
-[^34]: A 19. § (4) bekezdésének i) pontját az 5/2006. (I. 20.) FVM–EüM–ICSSZEM együttes rendelet 1. §-a iktatta be, hatályon kívül helyezte a 40/2008. (IV. 3.) FVM–SZMM együttes rendelet 3. § (2) bekezdése.
-[^35]: A 19. § (4) bekezdésének j) pontját a 86/2007. (VIII. 17.) FVM–EüM–SZMM együttes rendelet 3. §-a iktatta be, e módosító rendelet 5. § (2) bekezdése alapján 2007. december 23-án lépett hatályba.
-[^36]: A 19. § (4) bekezdésének k) pontját a 40/2008. (IV. 3.) FVM–SZMM együttes rendelet 1. §-a iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést 2007. november 26-tól kell alkalmazni, illetve a 2008. április 3. napján folyamatban lévő eljárásokat – ha az eljárás tárgya kizárólag a 2007. november 25-ig kivételnek minősült allergének jelölésének hiánya – meg kell szüntetni.
-[^37]: A 19. § (4) bekezdés l) pontját a 105/2009. (VIII. 14.) FVM rendelet 6. §-a iktatta be.
-[^38]: A 19. § (4) bekezdés m) pontját a 105/2009. (VIII. 14.) FVM rendelet 6. §-a iktatta be.
-[^39]: A 19. § (4) bekezdés n) pontját a 105/2009. (VIII. 14.) FVM rendelet 6. §-a iktatta be.
-[^40]: A 19. § (4) bekezdés o) pontját a 101/2011. (XI. 5.) VM rendelet 2. §-a iktatta be.
+[^20]: A 18. §-t a 36/2014. (XII. 17.) FM rendelet 15. § b) pont ba) alpontja hatályon kívül helyezte.
+[^21]: A 19. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 255. pontja hatályon kívül helyezte.
+[^22]: A 19. § (3) bekezdését a 36/2014. (XII. 17.) FM rendelet 15. § b) pont ba) alpontja hatályon kívül helyezte.
+[^23]: A 19. § (4) bekezdése a 167/2004. (XI. 29.) FVM–EüM–GKM együttes rendelet 4. §-ával megállapított szöveg.
+[^24]: A 19. § (4) bekezdés a)–f) pontját a 36/2014. (XII. 17.) FM rendelet 15. § b) pont ba) alpontja hatályon kívül helyezte.
+[^25]: A 19. § (4) bekezdés g) pontját a 4/2010. (VII. 5.) VM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^26]: A 19. § (4) bekezdésének h) pontját a 90/2005. (X. 13.) FVM–EüM–GKM együttes rendelet 1. §-a iktatta be, hatályon kívül helyezte a 40/2008. (IV. 3.) FVM–SZMM együttes rendelet 3. § (2) bekezdése.
+[^27]: A 19. § (4) bekezdésének i) pontját az 5/2006. (I. 20.) FVM–EüM–ICSSZEM együttes rendelet 1. §-a iktatta be, hatályon kívül helyezte a 40/2008. (IV. 3.) FVM–SZMM együttes rendelet 3. § (2) bekezdése.
+[^28]: A 19. § (4) bekezdés j) pontját a 86/2007. (VIII. 17.) FVM–EüM–SZMM együttes rendelet 3. §-a iktatta be, hatályon kívül helyezte a 36/2014. (XII. 17.) FM rendelet 15. § b) pont ba) alpontja.
+[^29]: A 19. § (4) bekezdésének k) pontját a 40/2008. (IV. 3.) FVM–SZMM együttes rendelet 1. §-a iktatta be, hatályon kívül helyezte a 36/2014. (XII. 17.) FM rendelet 15. § b) pont ba) alpontja.
+[^30]: A 19. § (4) bekezdés l) pontját a 105/2009. (VIII. 14.) FVM rendelet 6. §-a iktatta be.
+[^31]: A 19. § (4) bekezdés m) pontját a 105/2009. (VIII. 14.) FVM rendelet 6. §-a iktatta be.
+[^32]: A 19. § (4) bekezdés n) pontját a 105/2009. (VIII. 14.) FVM rendelet 6. §-a iktatta be.
+[^33]: A 19. § (4) bekezdés o) pontját a 101/2011. (XI. 5.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 36/2014. (XII. 17.) FM rendelet 15. § b) pont ba) alpontja.
