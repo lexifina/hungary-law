@@ -1,0 +1,1 @@
+34. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 21. § 2. pontjában az „európai területi együttműködési csoportosulás” szövegrész helyébe az „európai területi társulás” szöveg lép.

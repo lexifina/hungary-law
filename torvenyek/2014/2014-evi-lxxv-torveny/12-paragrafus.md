@@ -1,0 +1,1 @@
+12. § A Kormányzati Ellenőrzési Hivatal ellenőrzés lefolytatása céljából megkeresheti a létrehozás helye szerinti tagállam illetékes hatóságát, amennyiben a külföldi székhelyű európai területi társulásban magyar jog szerinti tag vesz részt.

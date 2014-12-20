@@ -1,0 +1,1 @@
+16. § Megszűnik az európai területi társulás, ha az egyezményben meghatározott időtartam eltelt vagy más, az egyezményben meghatározott megszűnési feltétel bekövetkezett, továbbá ha az európai területi társulás a jogutód nélküli megszűnéséről dönt.

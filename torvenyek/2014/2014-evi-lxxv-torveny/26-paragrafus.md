@@ -1,0 +1,1 @@
+26. § A 4. §-tól eltérően az e törvény hatálybalépéséig Magyarországon nyilvántartásba vett európai területi társulás neve az e törvény hatálybalépését követően tartalmazhatja az „európai területi együttműködési csoportosulás” elnevezést az „európai területi társulás” elnevezés helyett.

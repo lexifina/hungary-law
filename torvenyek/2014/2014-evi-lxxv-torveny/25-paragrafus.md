@@ -1,0 +1,1 @@
+25. § Ha e törvény hatálybalépésekor a Fővárosi Törvényszék előtt nyilvántartásba-vételi (változásbejegyzési) eljárás van folyamatban, a bíróság az európai területi társulás nyilvántartási adatait és iratait az eljárás befejezését követően papír alapon 8 napon belül adja át a Hatóságnak.

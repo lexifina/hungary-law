@@ -1,0 +1,1 @@
+30. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 3. § (1) bekezdés a) pontjában az „európai területi együttműködési csoportosulás” szövegrész helyébe az „európai területi társulás” szöveg lép.
