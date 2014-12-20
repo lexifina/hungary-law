@@ -1,7 +1,0 @@
-7/A. §[^2] (1) Az olyan beruházások esetében, amelyek vonatkozásában a Kormány a saját hatáskörben történő megvalósításról döntött és rendelkeznek támogatói döntéssel, de a támogatási szerződés megkötésére az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások megvalósítása érdekében szükséges intézkedésekről és az azokhoz kapcsolódó kiemelt jelentőségű ügyek lefolytatásának elősegítéséről szóló 117/2013. (IV. 23.) Korm. rendelet módosításáról szóló 193/2013. (VI. 12.) Korm. rendelet hatálybalépéséig nem kerül sor, a támogatási szerződést a Társaság konzorciumvezetése mellett létrejött konzorciummal kell megkötni.
-
-(2) A Társaság az (1) bekezdésben meghatározott esetben konzorciumvezetőként vesz részt az egyes beruházási konstrukciók (projektek) megvalósításában és megilleti minden olyan jog, valamint terheli minden olyan kötelezettség, amelyet a támogatási szerződés a konzorciumvezető és a konzorciumi tagok számára meghatároz. A támogatási szerződés kiterjedhet mind az előkészítési, mind a megvalósítási szakaszra.
-
-(3) A Társaság a jelen § szerinti beruházások esetén gondoskodik a közbeszerzési eljárások lebonyolításáról. A közbeszerzési eljárások lebonyolítása mind az előkészítési, mind a megvalósítási szakasz beszerzéseire kiterjedhet.
-
-[^2]: A 7/A. §-t a 193/2013. (VI. 12.) Korm. rendelet 1. §-a iktatta be.
