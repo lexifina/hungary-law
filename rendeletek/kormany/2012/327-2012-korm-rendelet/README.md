@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-327-20-
 | 2014-10-16 | 2012-327-20-22.12 | 261/2014. (X. 15.) Korm. rendelet |
 | 2014-11-21 | 2012-327-20-22.13 | 285/2014. (XI. 20.) Korm. rendelet |
 | 2014-12-19 | 2012-327-20-22.14 | 332/2014. (XII. 18.) Korm. rendelet |
+| 2014-12-20 | 2012-327-20-22.15 | 340/2014. (XII. 19.) Korm. rendelet |
