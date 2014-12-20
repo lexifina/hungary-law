@@ -1,4 +1,4 @@
-4. melléklet a 62/2011. (VI. 30.) VM rendelethez[^13]
+4. melléklet a 62/2011. (VI. 30.) VM rendelethez[^15]
 
 ## Ételminta eltételére vonatkozó előírások
 
@@ -18,4 +18,4 @@
 
 8. Tilos az ételmintán bármilyen utólagos kezelést végezni, amely a mikrobaszámot vagy a minta összetételét megváltoztathatja.
 
-[^13]: A 4. számú melléklet a 23. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
+[^15]: A 4. számú melléklet a 23. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
