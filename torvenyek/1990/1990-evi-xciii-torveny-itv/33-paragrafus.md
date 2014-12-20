@@ -106,7 +106,7 @@ történik a kiállítása;
 
 35. a fogyasztóvédelmi hatóság első fokú fogyasztóvédelmi eljárása;
 
-36. az európai területi együttműködési csoportosulásban történő részvétel jóváhagyására irányuló eljárás;
+36. az európai területi társulásban történő részvétel jóváhagyására irányuló eljárás;
 
 37. a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, közoktatási, felsőoktatási, kulturális közfeladatot ellátó intézmény fenntartója által a központi költségvetésből igénybevett normatív állami hozzájárulások és támogatások megállapítására irányuló eljárás;
 

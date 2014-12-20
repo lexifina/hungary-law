@@ -26,7 +26,7 @@ lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy 
 
 g) értékpapírnak olyan okirat vagy – jogszabályban megjelölt – más módon rögzített, nyilvántartott és továbbított adat tekinthető, amely jogszabályban meghatározott kellékekkel rendelkezik és kiállítását (kibocsátását), illetve ebben a formában történő megjelenítését jogszabály lehetővé teszi;
 
-h) gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi együttműködési csoportosulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó;
+h) gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó;
 
 i) gépjármű: az olyan közúti szállító- vagy vontatóeszköz – a mezőgazdasági vontató, az önjáró vagy vontatott munkagép, a lassú jármű és a segédmotoros kerékpár kivételével –, amelyet beépített erőgép hajt és nyilvántartásba vételét jogszabály írja elő;
 
