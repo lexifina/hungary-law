@@ -20,6 +20,14 @@ h) a meghallgatott, valamint a helyszíni vizsgálat során jelenlévő személy
 
 i) a vizsgálat során megállapított következtetéseket és az azt alátámasztó dokumentumoknak a vizsgálatvezető által hitelesített másolatát.
 
+(2a)[^56] Amennyiben a szabálytalansági vizsgálat során tartott meghallgatás lefolytatásával egyidejűleg nem készül jegyzőkönyv, a szabálytalanság-vizsgálati jelentéshez csatolni kell
+
+a) a jegyzőkönyvtervezetnek a vizsgálatot végző személy aláírásával ellátott példányát és a jegyzőkönyvtervezetnek a meghallgatott személy részére történő megküldését igazoló dokumentumot, továbbá
+
+b) a meghallgatott személynek a jegyzőkönyvtervezet tartalmának megismerésére és egyetértésére vonatkozó, valamint egyet nem értése esetén az erre történő utalást és észrevételeit is tartalmazó, aláírással ellátott nyilatkozatát.
+
+(2b)[^57] A jegyzőkönyvtervezet és a meghallgatott személy nyilatkozata együttesen alkotja a jegyzőkönyv végleges tartalmát.
+
 (3) A szabálytalanság tényének megállapítása esetén a szabálytalanság-vizsgálati jelentésnek tartalmaznia kell továbbá
 
 a) a megsértett rendelkezések pontos hivatkozását;
@@ -47,3 +55,6 @@ b) a támogatás egészének vagy egy részének visszakövetelése; illetve
 c) pénzügyi korrekció megállapítása az Európai Bizottság útmutatói alapján.
 
 (7) Az elrendelt intézkedés a szabálytalanság jellegére és súlyára tekintettel kerül megállapításra.
+
+[^56]: Az 50. § (2a) bekezdését a 70/2014. (XII. 19.) BM rendelet 3. §-a iktatta be.
+[^57]: Az 50. § (2b) bekezdését a 70/2014. (XII. 19.) BM rendelet 3. §-a iktatta be.

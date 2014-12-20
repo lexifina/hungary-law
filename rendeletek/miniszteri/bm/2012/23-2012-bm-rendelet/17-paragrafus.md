@@ -6,12 +6,17 @@
 
 (4)[^26] A Felelős Személy az európai uniós szabályok figyelembe vételével soron kívül dönthet
 
-a) a tartaléklistán szereplő projektek támogatásáról az azonos alap azonos allokációján belüli forrás felszabadulása esetén, vagy
+a)[^27] a tartaléklistán szereplő projektek támogatásáról az azonos alap azonos allokációján belüli forrás felszabadulása esetén,
 
-b) a támogatásra javasolt vagy a tartaléklistán szereplő projektek azonos alapon belüli és különböző allokációk közötti átcsoportosításáról forrás felszabadulása esetén.
+b)[^28] a támogatásra javasolt vagy a tartaléklistán szereplő projektek azonos alapon belüli és különböző allokációk közötti átcsoportosításáról forrás felszabadulása esetén, vagy
 
-(5)[^27] A támogatási kérelem alapján a Felelős Személy dönt a projekt támogatásáról vagy elutasításáról.
+c)[^29] a tartaléklista megszüntetéséről, amennyiben a Felelős Hatóság szerint a tartaléklistán szereplő projektekben vállalt célkitűzések maradéktalan megvalósítása a támogathatósági időszak befejezési időpontjáig nem lehetséges.
+
+(5)[^30] A támogatási kérelem alapján a Felelős Személy dönt a projekt támogatásáról vagy elutasításáról.
 
 [^25]: A 17. § (3) bekezdése a 12/2013. (IV. 23.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^26]: A 17. § (4) bekezdését a 12/2013. (IV. 23.) BM rendelet 6. § (2) bekezdése iktatta be.
-[^27]: A 17. § (5) bekezdését a 3/2014. (I. 31.) BM rendelet 7. §-a iktatta be.
+[^27]: A 17. § (4) bekezdés a) pontja a 70/2014. (XII. 19.) BM rendelet 4. §-a szerint módosított szöveg.
+[^28]: A 17. § (4) bekezdés b) pontja a 70/2014. (XII. 19.) BM rendelet 1. §-ával megállapított szöveg.
+[^29]: A 17. § (4) bekezdés c) pontját a 70/2014. (XII. 19.) BM rendelet 1. §-a iktatta be.
+[^30]: A 17. § (5) bekezdését a 3/2014. (I. 31.) BM rendelet 7. §-a iktatta be.

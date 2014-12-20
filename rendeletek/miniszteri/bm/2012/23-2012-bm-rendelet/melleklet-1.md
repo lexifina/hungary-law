@@ -1,4 +1,4 @@
-## 63. §[^61]
+## 63. §[^70]
 
 1. melléklet a 23/2012. (IV. 26.) BM rendelethez
 
@@ -46,4 +46,4 @@ aláírás
 
 ”
 
-[^61]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^70]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
