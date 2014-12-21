@@ -1,0 +1,1 @@
+A kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (3) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 7. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
