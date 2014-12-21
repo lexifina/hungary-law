@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-339-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-12-20 | 2014-339-20-22.1 | 339/2014. (XII. 19.) Korm. rendelet |
+| 2014-12-21 | 2014-339-20-22.2 | 2010: CXXX. törvény |
