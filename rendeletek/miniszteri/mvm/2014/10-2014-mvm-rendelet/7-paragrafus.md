@@ -1,13 +1,3 @@
-## 6. § Az R. 17. §-a helyébe a következő rendelkezés lép:
+## 1–6. §[^1]
 
-## „17. § (1) A 800/2008/EK bizottsági rendelet és a 651/2014/EU bizottsági rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett a projekt megkezdése előtt a támogatási kérelmét – a 651/2014/EU bizottsági rendelet szerinti támogatás esetén a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemekkel – írásban benyújtotta.
-
-## (2) Ha a kedvezményezett nagyvállalkozás a 800/2008/EK bizottsági rendelet szerinti támogatás esetén köteles igazolni, hogy
-
-## a) a támogatás segítségével lényegesen megnövekszik a projekt mérete,
-
-## b) kiszélesedik a tevékenység köre,
-
-## c) növekszik a kedvezményezett által a projektre fordítandó összeg, vagy
-
-## d) lényegesen felgyorsul a projekt végrehajtási üteme.”
+[^1]: Az 1–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
