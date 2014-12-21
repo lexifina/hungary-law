@@ -1,10 +1,10 @@
-## 8/E. §[^33] Amennyiben a mintavételező szervezet a mintavételezés vagy a vizsgálat során visszaélést, visszaélésre utaló jelet vagy az előírt értékektől való eltérést észlel, értesíti a területi fogyasztóvédelmi felügyelőséget.
+## 8/E. §[^21]
 
 ## Záró rendelkezések
 
 9. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^34]
+(2)[^22]
 
-[^33]: A 8/E. §-t a 68/2006. (IX. 27.) GKM–KvVM–PM együttes rendelet 7. § (2) bekezdése iktatta be.
-[^34]: A 9. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 225. pontja hatályon kívül helyezte.
+[^21]: A 8/E. §-t a 68/2006. (IX. 27.) GKM–KvVM–PM együttes rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte az 53/2014. (XII. 13.) NFM rendelet 26. § 3. pontja.
+[^22]: A 9. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 225. pontja hatályon kívül helyezte.
