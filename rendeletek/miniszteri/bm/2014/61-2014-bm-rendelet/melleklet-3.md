@@ -16,6 +16,6 @@
 
 ## 17. Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala”
 
-3. melléklet a 61/2014. (XII. 12.) BM rendelethez[^2]
+3. melléklet a 61/2014. (XII. 12.) BM rendelethez[^3]
 
-[^2]: A 3. melléklet a 4. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
+[^3]: A 3. melléklet a 4. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
