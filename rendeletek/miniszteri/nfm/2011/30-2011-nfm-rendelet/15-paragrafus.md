@@ -12,7 +12,9 @@ d) a benzinre, a dízelolajra és a gázolajra vonatkozó követelmények, illet
 
 e)[^9] a megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló, 2009. április 23-i 2009/28/EK európai parlamenti és tanácsi irányelv 21. cikk (1) bekezdésének,
 
-f)[^10] a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK európai parlamenti és tanácsi irányelvnek a műszaki fejlődéshez történő hozzáigazítása érdekében történő módosításáról szóló, 2011. június 1-i 2011/63/EU bizottsági irányelvnek
+f)[^10] a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK európai parlamenti és tanácsi irányelvnek a műszaki fejlődéshez történő hozzáigazítása érdekében történő módosításáról szóló, 2011. június 1-i 2011/63/EU bizottsági irányelvnek,
+
+g)[^11] a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK európai parlamenti és tanácsi irányelv I. és II. mellékletének módosításáról szóló, 2014. június 10-i 2014/77/EU bizottsági irányelvnek
 
 ## való megfelelést szolgálja.
 
@@ -21,3 +23,4 @@ f)[^10] a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK euró
 [^8]: A 15. § (1) bekezdés záró szövegrésze az 54/2012. (IX. 17.) NFM rendelet 4. §-ával megállapított szöveg.
 [^9]: A 15. § (1) bekezdés e) pontját az 54/2012. (IX. 17.) NFM rendelet 4. §-a iktatta be.
 [^10]: A 15. § (1) bekezdés f) pontját az 54/2012. (IX. 17.) NFM rendelet 4. §-a iktatta be.
+[^11]: A 15. § (1) bekezdés g) pontját az 53/2014. (XII. 13.) NFM rendelet 27. §-a iktatta be.

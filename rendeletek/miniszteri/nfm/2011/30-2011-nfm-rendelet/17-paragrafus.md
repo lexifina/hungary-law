@@ -1,3 +1,3 @@
-## 16. §[^11]
+## 16. §[^12]
 
-[^11]: A 16. § a 2010: CXXX. törvény 12. §-a alapján hatályát vesztette.
+[^12]: A 16. § a 2010: CXXX. törvény 12. §-a alapján hatályát vesztette.

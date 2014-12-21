@@ -8,7 +8,7 @@
 
 | Motoroktánszám |  | 85 | - |
 
-| Gőznyomás, nyári időszakban | kPa | – | 60,0 |
+| Gőznyomás, május 1. és szeptember 30. közötti nyári időszakban | kPa | – | 60,0 |
 
 | Desztilláció: |  |  |  |
 
@@ -40,7 +40,7 @@
 
 | – Molekulánként öt vagy több szénatomot tartalmazó éterek | % (V/V) | – | 22 |
 
-| – Egyéb oxigenátok [az MSZ EN 228:2008 szabvány szerinti értéknél nem magasabb végforráspontú egyéb monoalkoholok és éterek] | % (V/V) | – | 15 |
+| – Egyéb oxigenátok [az MSZ EN 228:2012 szabvány szerinti értéknél nem magasabb végső forráspontú egyéb monoalkoholok és éterek] | % (V/V) | – | 15 |
 
 | Kéntartalom | mg/kg | – | 10 |
 
