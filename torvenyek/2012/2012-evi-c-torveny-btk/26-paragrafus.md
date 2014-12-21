@@ -4,4 +4,10 @@
 
 (2)
 
-(3) Nem évül el a XIII. és XIV. Fejezetben meghatározott, és az életfogytig tartó szabadságvesztéssel is büntethető bűncselekmények büntethetősége.
+(3) Nem évül el a büntethetősége
+
+a) a XIII. és XIV. Fejezetben meghatározott bűncselekményeknek,
+
+b) az életfogytig tartó szabadságvesztéssel is büntethető bűncselekményeknek, és
+
+c) a XIX. Fejezetben meghatározott, ötévi szabadságvesztésnél súlyosabban büntetendő bűncselekményeknek, ha a bűncselekmény sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét nem töltötte be.

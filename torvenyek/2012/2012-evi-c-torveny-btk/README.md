@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-100-00-00
 | 2014-05-02 | 2014. évi VII. törvény | 2012-100-00-00.10 |
 | 2014-05-06 | 2012. évi CCXXIII. törvény | 2012-100-00-00.11 |
 | 2014-07-01 | 2013. évi CCXLV. törvény | 2012-100-00-00.12 |
+| 2014-12-21 | 2014. évi LXV. törvény | 2012-100-00-00.13 |

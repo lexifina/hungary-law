@@ -23,9 +23,3 @@ ai) mefedron, metilon és 4-MEC esetén az 1,5 gramm,
 aj) kokain esetén a 2 gramm,
 
 ak) BZP esetén a 3 gramm,
-
-b) GHB esetén annak sav formában megadott tiszta hatóanyag-tartalma a 7,5 gramm,
-
-c) tetrahidro-kannabinol (THC) esetén a tiszta és savformában együttesen jelen levő THC-tartalom (totál-THC) a 6 gramm
-
-mennyiséget nem haladja meg.
