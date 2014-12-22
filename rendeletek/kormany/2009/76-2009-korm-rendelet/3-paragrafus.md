@@ -16,7 +16,7 @@ kérelme alapján indul.
 
 (3a)[^22] Ha a kérelem több állami főépítész illetékességi területét érinti, az eljáró főépítészt a területrendezésért felelős miniszter jelöli ki.
 
-(3b)[^23] A (3a) bekezdés szerinti kérelem benyújtását követően az állami főépítész soron kívül kezdeményezi a kijelölést. A területrendezésért felelős miniszter a kijelölés tárgyában nyolc napon belül dönt.
+(3b)[^23] A (3a) bekezdés szerinti kérelem benyújtását megelőzően a területrendezésért felelős miniszternél kell kezdeményezni az eljáró állami főépítész kijelölését. Az 1. § (1) bekezdés e) pontjában foglalt esetben az eljáró állami főépítész kijelölésére vonatkozó kezdeményezés a beruházó, az 1. § (1) bekezdés c) pontjában foglalt esetben az (1) bekezdés a) pontja szerinti önkormányzat feladata. A területrendezésért felelős miniszter a kijelölés tárgyában nyolc napon belül dönt.
 
 (3c)[^24] Amennyiben a területrendezési hatósági eljárás több állami főépítész illetékességi területét érinti, a kijelölt állami főépítész az illetékességi területén kívül is végezhet eljárási cselekményt.
 
@@ -66,11 +66,11 @@ fd) a területi (környezeti, társadalmi és gazdasági) hatásvizsgálatot az 
 
 g)[^33] az 1. § (1) bekezdés a)–d) és f)–g) pontja szerinti eljárások esetén a kérelem benyújtását megerősítő képviselő-testületi (közgyűlési) határozatot, több települési önkormányzat érintettsége esetén az önkormányzatok képviselő-testületi (közgyűlési) határozatát és az érintett települési önkormányzatok nevében eljáró önkormányzat kijelölésére vonatkozó települési önkormányzatok közötti megállapodást.
 
-(4a)[^34] Országos jelentőségű elem beillesztése az Országos Területrendezési Tervbe, valamint egy kiemelt térségi területrendezési tervbe vagy egy megyei területrendezési tervbe egy területrendezési hatósági eljárás keretében is kérelmezhető.
+(4a)[^34] Országos jelentőségű elem beillesztése az Országos Területrendezési Tervbe, az érintett kiemelt térségi területrendezési tervbe vagy tervekbe, valamint az érintett megyei területrendezési tervbe vagy tervekbe egy területrendezési hatósági eljárás keretében is kérelmezhető.
 
 (5)[^35] Amennyiben az ügyfél nem elektronikus úton tart kapcsolatot a hatósággal, akkor a kérelmet – postai úton vagy személyes átadás útján – írásban a (4) bekezdésben meghatározott tartalommal kell benyújtani tíz papíralapú példányban és egy példányban elektronikus adathordozón. Az eltérésre, a beillesztésre, a beépítésre szánt terület kivételes kijelölésére, a területcserére, továbbá az országos jelentőségű elem beillesztésére, továbbá az összhang igazolására vonatkozó tíz papíralapú példányban benyújtott kérelemnek a területi (környezeti, társadalmi és gazdasági) hatásvizsgálat rövid összefoglalóját kell tartalmaznia. Az egyéb tartalmi elemeket teljes körűen kell benyújtani. Az eltérésre, a beillesztésre, a beépítésre szánt terület kivételes kijelölésére, a területcserére, az országos jelentőségű elem beillesztésére, továbbá az összhang igazolására vonatkozó elektronikus adathordozón benyújtott kérelemnek a (4) bekezdésben meghatározott tartalommal kell rendelkeznie, a területi (környezeti, társadalmi és gazdasági) hatásvizsgálatot teljes terjedelmében kell tartalmaznia. Amennyiben a papíralapú kérelem és az elektronikus adathordozón benyújtott kérelem szövege egymástól eltér, a papíralapú kérelem szövegét kell hitelesnek tekinteni.
 
-(6)[^36] A területével érintett fővárosi kerületi, fővárosi, megyei jogú városi és megyei önkormányzat – az (1) bekezdésben foglaltaktól függetlenül – a területrendezési hatósági eljárásban ügyfélnek minősül.
+(6)[^36] A területével érintett fővárosi kerületi, fővárosi, megyei jogú városi és megyei önkormányzat, valamint az illetékes, de a (3b) bekezdés alapján eljáró hatóságként nem kijelölt állami főépítész – az (1) bekezdésben foglaltaktól függetlenül – a területrendezési hatósági eljárásban ügyfélnek minősül.
 
 [^17]: A 3. § (1) bekezdése a 197/2011. (IX. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^18]: A 3. § (1) bekezdés a) pontja a 105/2012. (V. 30.) Korm. rendelet 20. § c) pontja, a 25/2014. (II. 7.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
@@ -78,7 +78,7 @@ g)[^33] az 1. § (1) bekezdés a)–d) és f)–g) pontja szerinti eljárások e
 [^20]: A 3. § (2) bekezdése a 249/2009. (XI. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 20. § d) pontja, a 25/2014. (II. 7.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^21]: A 3. § (3) bekezdése a 105/2012. (V. 30.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^22]: A 3. § (3a) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^23]: A 3. § (3b) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^23]: A 3. § (3b) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 342/2014. (XII. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^24]: A 3. § (3c) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^25]: A 3. § (4) bekezdés nyitó szövegrésze a 25/2014. (II. 7.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
 [^26]: A 3. § (4) bekezdés c) pontja a 197/2011. (IX. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
@@ -89,6 +89,6 @@ g)[^33] az 1. § (1) bekezdés a)–d) és f)–g) pontja szerinti eljárások e
 [^31]: A 3. § (4) bekezdés e) pontját a 249/2009. (XI. 13.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 197/2011. (IX. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^32]: A 3. § (4) bekezdés f) pontját a 197/2011. (IX. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 105/2012. (V. 30.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
 [^33]: A 3. § (4) bekezdés g) pontját a 105/2012. (V. 30.) Korm. rendelet 17. § (2) bekezdése iktatta be.
-[^34]: A 3. § (4a) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^34]: A 3. § (4a) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 342/2014. (XII. 19.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^35]: A 3. § (5) bekezdése a 197/2011. (IX. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
-[^36]: A 3. § (6) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^36]: A 3. § (6) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 342/2014. (XII. 19.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
