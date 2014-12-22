@@ -14,11 +14,11 @@ c) újat készít.
 
 (4) A településszerkezeti terv módosítását igénylő helyi építési szabályzat készítése vagy módosítása esetén a településrendezési eszközök közös megalapozó vizsgálatra alapozva, együtt készíthetők és közös alátámasztó javaslatot is tartalmazhatnak.
 
-(5)[^3] Helyi építési szabályzat – a főváros esetében a kerületi építési szabályzat – készítése vagy módosítása esetén a megalapozó vizsgálatot és az alátámasztó javaslatot – amennyiben korábban készült – az időközben bekövetkező változásokra tekintettel kell aktualizálni. Abban az esetben, ha nem készült korábban e rendelet szerinti megalapozó vizsgálat és alátámasztó javaslat, azt el kell készíteni.
+(5)[^5] Helyi építési szabályzat – a főváros esetében a kerületi építési szabályzat – készítése vagy módosítása esetén a megalapozó vizsgálatot és az alátámasztó javaslatot – amennyiben korábban készült – az időközben bekövetkező változásokra tekintettel kell aktualizálni. Abban az esetben, ha nem készült korábban e rendelet szerinti megalapozó vizsgálat és alátámasztó javaslat, azt el kell készíteni.
 
-(6)[^4] Amennyiben a településrendezési eszköz módosítása nem a település egészére készül, úgy a megalapozó vizsgálatot a településfejlesztés és településrendezés várható hatása szerinti területre kell elvégezni, a szerkezeti összefüggések bemutatásával.
+(6)[^6] Amennyiben a településrendezési eszköz módosítása nem a település egészére készül, úgy a megalapozó vizsgálatot a településfejlesztés és településrendezés várható hatása szerinti területre kell elvégezni, a szerkezeti összefüggések bemutatásával.
 
 (7) Amennyiben a (3) bekezdés szerint a módosítások egységbe foglalása során összeállított jelmagyarázat alkalmazása tartalmi módosítást eredményezne, a településszerkezeti tervet módosítani kell.
 
-[^3]: A 16. § (5) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^4]: A 16. § (6) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^5]: A 16. § (5) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^6]: A 16. § (6) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés d) pontja szerint módosított szöveg.
