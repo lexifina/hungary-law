@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-72-20-2
 | 2014-01-01 | 1996-72-20-22.32 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2014-02-25 | 1996-72-20-22.33 | 82/2011. (V. 18.) Korm. rendelet |
 | 2014-09-10 | 1996-72-20-22.34 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2014-12-23 | 1996-72-20-22.35 | 344/2014. (XII. 22.) Korm. rendelet |
