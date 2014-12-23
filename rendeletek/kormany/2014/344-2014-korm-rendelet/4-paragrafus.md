@@ -1,0 +1,1 @@
+## „(12a) E rendeletnek a vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet módosításáról szóló 344/2014. (XII. 22.) Korm. rendelettel (a továbbiakban: Mód. Kr. 7.) megállapított 11/A. és 11/B. §-át, 12. § a) pontját, valamint 27. § (1) és (1a) bekezdését a Mód. Kr. 7. hatálybalépését követően indult ügyekben kell alkalmazni.”
