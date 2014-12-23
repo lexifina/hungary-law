@@ -1,4 +1,4 @@
-## 5. §[^12] Az Eximbank által garantált exporthitel-, pénzkölcsön- és követelésvásárlási szerződés alapját képezheti azok származására tekintet nélkül a Magyarországon bejegyzett székhellyel rendelkező vállalkozásnál legalább öt éve rendeltetésszerűen használatban lévő gépek, berendezések exportja is, azok származására tekintet nélkül.
+## 5. §[^15] Az Eximbank által garantált exporthitel-, pénzkölcsön- és követelésvásárlási szerződés alapját képezheti azok származására tekintet nélkül a Magyarországon bejegyzett székhellyel rendelkező vállalkozásnál legalább öt éve rendeltetésszerűen használatban lévő gépek, berendezések exportja is, azok származására tekintet nélkül.
 
 ## 3. Az exporthitel garancia nyújtásának feltételei
 
@@ -8,4 +8,4 @@
 
 (3) A (2) bekezdésben meghatározottaknál magasabb hányadra kiterjedő exporthitel garancianyújtás esetén az Eximbank köteles az ilyen esetre az OECD Megállapodásban, illetve az Európai Unió jogszabályaiban előírt eljárásokat lefolytatni.
 
-[^12]: Az 5. § a 140/2014. (IV. 30.) Korm. rendelet 7. § 2. pontja szerint módosított szöveg.
+[^15]: Az 5. § a 140/2014. (IV. 30.) Korm. rendelet 7. § 2. pontja szerint módosított szöveg.

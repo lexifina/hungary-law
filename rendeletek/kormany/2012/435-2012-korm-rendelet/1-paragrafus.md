@@ -20,7 +20,7 @@
 
 9.[^5] kereskedelmi garancia: ajánlattételi (tender)-, előleg-visszafizetési-, teljesítési,- jólteljesítési-, szavatossági- vagy visszatartási garancia és az ezekhez kapcsolódó viszontgarancia;
 
-10.[^6] rövid lejáratú garancia: a finanszírozó hitelintézetnek a Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.) Korm. rendelet (a továbbiakban: 85/1998. Korm. rendelet) 8. § (1) bekezdése alapján nyújtott refinanszírozási hitelből refinanszírozott származékos kölcsönszerződés biztosítékául a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: Eximbank) által vállalt garancia;
+10.[^6] rövid lejáratú garancia: a finanszírozó hitelintézetnek a Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.) Korm. rendelet (a továbbiakban: 85/1998. Korm. rendelet) 8. § (1) bekezdése alapján nyújtott refinanszírozási hitelből refinanszírozott származékos kölcsönszerződés biztosítékául, vagy az EK-Szerződés 87. és 88. cikkének a kezességvállalás formájában nyújtott állami támogatásra való alkalmazásáról szóló bizottsági közlemény (HL C 155., 2008.06.20 10–22.o.) előírásaival összhangban megállapított kamatlábon nyújtott, két évet meg nem meghaladó kölcsönszerződés biztosítékául a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: Eximbank) által vállalt garancia;
 
 11. mezőgazdasági termék: az Európai Unió Működéséről szóló Szerződés I. számú mellékletében felsorolt mezőgazdasági termékek a kezdeti feldolgozási szintig;
 
@@ -30,10 +30,16 @@
 
 14.[^7] versenyképességet javító hitelgarancia: a finanszírozó hitelintézetnek az Eximbank által a 85/1998. Korm. rendelet 1. § (1) bekezdés f) pontjában meghatározott versenyképességet javító refinanszírozási hitelből refinanszírozott származékos kölcsönszerződés biztosítékául az Eximbank által vállalt hitelgarancia.
 
+15.[^8] hitelfedezeti garancia: a legalább két éves, vagy két évet meghaladó futamidejű, az EK-Szerződés 87. és 88. cikkének a kezességvállalás formájában nyújtott állami támogatásra való alkalmazásáról szóló bizottsági közlemény (HL C 155., 2008.06.20 10–22.o.) előírásaival összhangban megállapított kamatlábon nyújtott hitelhez az Eximbank által vállalt garancia;
+
+16.[^9] Növekedési Hitelprogramhoz nyújtott garancia: a Növekedési Hitelprogram keretében nyújtott hitelek biztosítékául az Eximbank által nyújtott garancia.
+
 [^1]: Az 1. § 1. pontja a 184/2013. (VI. 7.) Korm. rendelet 5. §-a, a 80/2014. (III. 14.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^2]: Az 1. § 2. pontja a 80/2014. (III. 14.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^3]: Az 1. § 4. pontja a 80/2014. (III. 14.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^4]: Az 1. § 7. pontja a 80/2014. (III. 14.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^5]: Az 1. § 9. pontja a 184/2013. (VI. 7.) Korm. rendelet 1. §-ával megállapított, a 80/2014. (III. 14.) Korm. rendelet 33. §-a szerint módosított szöveg.
-[^6]: Az 1. § 10. pontja a 140/2014. (IV. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. § 10. pontja a 327/2014. (XII. 15.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^7]: Az 1. § 14. pontját a 140/2014. (IV. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^8]: Az 1. § 15. pontját a 327/2014. (XII. 15.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^9]: Az 1. § 16. pontját a 327/2014. (XII. 15.) Korm. rendelet 13. § (2) bekezdése iktatta be.
