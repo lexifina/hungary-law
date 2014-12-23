@@ -490,6 +490,8 @@
 
 | 52. |  | Az 1–50. pontban foglalt engedélyek módosítása, ha az engedélyes, illetve környezethasználó személyében bekövetkezett változás miatt szükséges | Az 1–50. pontban foglalt díjtétel 25%-a |
 
+|  | 52a | Mezőgazdasági célú vízkivételt biztosító talajvízkút vízjogi üzemeltetési engedélyének egyszerűsített eljárásban történő módosítása [72/1996. (V. 22.) Korm. rendelet 11/A. §] | A 28. pontban foglalt díjtétel 25%-a |
+
 | 53. |  | A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 74. § (2) bekezdésének c) pontja alapján lefolytatott, a működési engedély kiadására vonatkozó eljárás | 750 000 |
 
 | 54. |  | Környezetvédelmi teljesítményértékelés elbírálása [Kvt. 77. §] | 250 000 |
