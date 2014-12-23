@@ -4,10 +4,10 @@
 
 (2) Az adós minősítésekor a Mehib Rt. figyelembe veszi az adós tényleges jogi és pénzügyi státuszát.
 
-(3) A Mehib Rt. igazgatósága az egyes országokat kockázati kategóriába sorolja be. Az országkockázati besorolást a Mehib Rt. igazgatósága legalább félévenként felülvizsgálja. Az igazgatóság az országkockázati besorolást szükség esetén a félévenkénti kötelező felülvizsgálatok között is köteles módosítani. A besorolási rendszer a kockázati kategória megállapításánál figyelembe veszi az OECD országkockázati besorolását.
+(3)[^88] A Mehib Rt. igazgatósága az egyes országokat kockázati kategóriába sorolja be, megállapítja a vonatkozó fedezeti politikát, valamint a központi költségvetési törvényben rögzített biztosítási állomány felső határa és az országkockázati besorolás figyelembe vételével az országlimiteket. A kockázati besorolást, a fedezeti politikát, valamint az országlimiteket a Mehib Rt. igazgatósága legalább évenként felülvizsgálja, szükség esetén az évenkénti kötelező felülvizsgálatok között is módosíthatja.
 
-(4) Az igazgatóság legalább évente meghatározza a következő üzleti évre szóló, az egyes országokra vonatkozó fedezeti politikáját.
-
-(5) A Mehib Rt. igazgatósága a mindenkori éves költségvetési törvényben rögzített biztosítási állomány felső határát és az országkockázati besorolást alapul véve félévenként vagy szükség szerint megállapítja az országlimiteket.
+(4)–(5)[^89]
 
 [^87]: A 10. § a 437/2012. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^88]: A 10. § (3) bekezdése a 327/2014. (XII. 15.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^89]: A 10. § (4)–(5) bekezdését a 327/2014. (XII. 15.) Korm. rendelet 12. §-a hatályon kívül helyezte.
