@@ -1,3 +1,5 @@
+## 49. §[^60]
+
 1. melléklet az 58/2012. (XII. 28.) KIM rendelethez
 
 ## A szervezet adatairól készített kivonat, másolat, bizonyítvány adattartalma
@@ -77,3 +79,5 @@
 3.5. aláírás
 
 3.6. bélyegző lenyomata.
+
+[^60]: A 49. §-t a 20/2014. (XII. 23.) IM rendelet 17. § (7) bekezdése iktatta be. A 49. § a 38. § (5) bekezdése alapján 2016. január 1-jén lép hatályba.

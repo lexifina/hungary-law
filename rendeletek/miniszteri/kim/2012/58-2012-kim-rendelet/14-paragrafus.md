@@ -1,5 +1,5 @@
-## 13. §[^10]
+## 13. §[^15]
 
 ## 11. Az iratok megszövegezése, kijavítás, kiegészítés
 
-[^10]: A 13. § a 38. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^15]: A 13. § a 38. § (5) bekezdése alapján 2016. január 1-jén lép hatályba.

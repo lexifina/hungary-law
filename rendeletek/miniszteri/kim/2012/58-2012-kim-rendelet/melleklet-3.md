@@ -1,4 +1,4 @@
-3. melléklet az 58/2012. (XII. 28.) KIM rendelethez
+3. melléklet az 58/2012. (XII. 28.) KIM rendelethez[^61]
 
 ## A nyilvántartási szám első négy száma
 
@@ -60,8 +60,10 @@ II. Az egyes szervezetek kódszámai (a nyilvántartási szám harmadik és negy
 
 | 05. | Munkavállalói Résztulajdonosi Program szervezet | 05 |
 
-| 06. | európai területi társulás | 06 |
+| 06. |  |  |
 
 | 07. | országos sportági szakszövetség | 07 |
 
 | 08. | egyéb szervezet | 08 |
+
+[^61]: A 3. melléklet a 20/2014. (XII. 23.) IM rendelet 17. § (11) bekezdése szerint módosított szöveg.

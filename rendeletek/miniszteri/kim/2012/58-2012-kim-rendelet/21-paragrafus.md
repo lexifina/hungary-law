@@ -1,4 +1,4 @@
-## 20. §[^12]
+## 20. §[^19]
 
 ## III. Fejezet
 
@@ -6,4 +6,4 @@
 
 ## 13. Általános szabályok
 
-[^12]: A 20. § a 38. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^19]: A 20. § a 38. § (5) bekezdése alapján 2016. január 1-jén lép hatályba.

@@ -16,7 +16,7 @@
 
 ## „8.3. a jogi személy szervezeti egység kiegészítő jellegű gazdasági főtevékenysége és ténylegesen végzett tevékenységi körei azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével”
 
-(5)[^33]
+(5)[^53]
 
 (6) Az R. 2. melléklete a következő 3.3.5. ponttal kiegészülve lép hatályba:
 
@@ -58,13 +58,13 @@
 
 ## 14.2. – jogi személy szervezeti egység esetében – a jogi személy szervezeti egység adóköteles tevékenysége megszüntetésének bejelentése és a jogi személy szervezeti egység adószáma törlése iránti kérelem”
 
-(11)–(12)[^34]
+(11)–(12)[^54]
 
 (13) Az R. 41. melléklet 9.1.3.2. pontja a következő szöveggel lép hatályba:
 
 ## „9.1.3.2. az elnökség hívja össze”
 
-(14)–(16)[^35]
+(14)–(16)[^55]
 
 (17) Az R. 41. melléklet a következő 11.1.3.1. ponttal kiegészülve lép hatályba:
 
@@ -100,7 +100,7 @@
 
 ## 17.1. az egyesületet az elnök önállóan képviseli”
 
-(25)[^36]
+(25)[^56]
 
 (26) Az R. 42. melléklet 4.3.3. pontja a következő szöveggel lép hatályba:
 
@@ -148,7 +148,7 @@
 
 (37) Az R. 43. melléklete a következő IV. és V. ponttal kiegészülve lép hatályba:
 
-[^33]: A 45. § (5) bekezdését a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés a) pontja hatályon kívül helyezte.
-[^34]: A 45. § (11)–(12) bekezdését a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés b) pontja hatályon kívül helyezte.
-[^35]: A 45. § (14)–(16) bekezdését a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés b) pontja hatályon kívül helyezte.
-[^36]: A 45. § (25) bekezdését a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^53]: A 45. § (5) bekezdését a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^54]: A 45. § (11)–(12) bekezdését a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^55]: A 45. § (14)–(16) bekezdését a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^56]: A 45. § (25) bekezdését a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés b) pontja hatályon kívül helyezte.
