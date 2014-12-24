@@ -1,0 +1,5 @@
+9. § Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény 223. §-ának az adózás rendjéről szóló 2003. évi XCII. törvény 205. § (8) bekezdését megállapító rendelkezése a következő szöveggel lép hatályba:
+
+(Az Art. a következő 205. §-sal egészül ki:)
+
+„(8) Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 11. számú melléklet IV. alcím 3. pontja szerinti biztosítékot első alkalommal 2015. január 31-éig kell nyújtani, az eddig az időpontig az EKAER-be rögzített adatok alapján. A biztosíték összegének meghatározása során az annak alapjául szolgáló időszakot 2015. január 1-jétől az első biztosítékadási kötelezettséggel érintett bejelentés időpontjáig kell számolni. Ha az első biztosítékadási kötelezettséggel érintett bejelentésre 2015. március 1-jét követően kerül sor, a biztosíték összegének alapjául szolgáló időszakot a 11. melléklet IV. alcím 3. pontja alapján kell meghatározni.”

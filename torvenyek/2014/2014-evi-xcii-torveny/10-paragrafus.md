@@ -1,0 +1,1 @@
+10. § Az adózás rendjéről szóló 2003. évi XCII. törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény 13. mellékletével megállapított 11. számú melléklete az 1. melléklet szerinti szöveggel lép hatályba.
