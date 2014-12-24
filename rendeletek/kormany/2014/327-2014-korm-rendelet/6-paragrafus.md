@@ -1,3 +1,0 @@
-## 5. § Az R1. 8. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) Az Eximbank csak azzal a belföldi hitelintézettel köthet két éven belüli futamidejű refinanszírozási exporthitel szerződést, egyéb export célú refinanszírozási hitelszerződést, versenyképességet javító hitelt refinanszírozó hitelszerződést, valamint exportkövetelések megvásárlásához nyújtott refinanszírozási hitelszerződést, amely hitelintézetnél e forrás terhére nyújtott két éven belüli futamidejű hitel piaci kamatozású, és az alkalmazott kamatláb eléri vagy meghaladja a kiváló minősítésű ügyfél magas biztosítékkal fedezett ügylete esetén alkalmazandó egyéni referencia kamatláb mértékét.”
