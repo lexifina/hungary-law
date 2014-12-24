@@ -1,1 +1,0 @@
-## 4. § Budapest esetében a fővárosi önkormányzat, és azok a kerületi önkormányzatok jogosultak a Támogatásra, amelyek 2011. évben önállóan szednek be idegenforgalmi adót. A Támogatás mértéke a helyi önkormányzat által 2011. évre tervezett idegenforgalmi adóbevétel összegének 3,333%-a.
