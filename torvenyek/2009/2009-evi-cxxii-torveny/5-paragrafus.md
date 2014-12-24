@@ -1,4 +1,4 @@
-5. § (1)
+5. § (1) A köztulajdonban álló gazdasági társaság munkavállalóját munkaszerződés vagy a munkáltató egyoldalú kötelezettségvállalása alapján megillető alapbéren kívüli teljesítménybér (prémium), valamint alapbéren felüli rendszeres pénzbeli és nem pénzbeli juttatás ki nem fizetéséből eredő felelősség kizárólag a köztulajdonban álló gazdasági társaságot terheli, az igényt a gazdasági társasággal szemben kell érvényesíteni. A köztulajdonban álló gazdasági társaság ezen felelősségével összefüggésben a vezető tisztségviselőjével, a felügyelőbizottsági tagjával és a tulajdonosi jogok gyakorlójával szemben követelést nem érvényesíthet.
 
 (2)
 

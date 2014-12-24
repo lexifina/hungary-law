@@ -3,3 +3,5 @@
 (2) E törvény 5. § (1) bekezdését, valamint 7. § (1)–(3) bekezdését az e törvény hatálybalépését követően kötött vagy a javadalmazásra vonatkozó részében módosított munkaszerződésekre kell alkalmazni.
 
 (3) E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény, valamint a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény módosításáról szóló 2012. évi CXXXV. törvénnyel megállapított 7. § (1) bekezdésében foglaltakat a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+(4) E törvénynek az egyes törvényeknek a nemzeti pénzügyi szolgáltatások hatékonyabb nyújtásával összefüggő módosításáról szóló 2014. évi XCI. törvénnyel megállapított 5. § (1) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
