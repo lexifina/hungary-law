@@ -1,13 +1,23 @@
-10/A. § (1) A koncessziós díjat a miniszter a részvénytársaság közreműködésével szedi be.
+10/A. § (1) A dohánykiskereskedelem-ellátási feladatok elvégzésére vonatkozó koncesszió nyilvános pályázatára a Ktv.-ben előírt szabályokat az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) A miniszter a beszedett koncessziós díjak nettó összegét a kincstár által – a koncessziós díjak központi kezelésű előirányzatként történő elszámolása céljából – vezetett fizetési számlára, a koncessziós díjat terhelő általános forgalmi adót pedig az állami adóhatóságnak utalja át a tárgyhónapot követő hónap huszadik napjáig. A miniszter által vezetett minisztérium költségvetésében a beszedett koncessziós díjat és a kapcsolódó általános forgalmi adót bevételként, azoknak e bekezdés szerinti átutalását kiadásként nem lehet elszámolni.
+(2) A nyilvános pályázatot a miniszter írja ki.
 
-(3) A koncessziós szerződés alapján a koncessziós díjon felül keletkező egyéb bevételek (így különösen a késedelmi pótlék, kártérítés, kötbér) a miniszter által vezetett minisztérium bevételei, amelyeket a miniszter a feladatellátáshoz kapcsolódó tevékenységek indokolt költségeire fordít.
+(3) A nyilvános pályázati felhívást legalább két országos napilapban, vagy a miniszter által vezetett minisztérium honlapján kell meghirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább 10 nappal megelőzően.
 
-## III. Fejezet
+(4) A pályázatok benyújtására nyitva álló időtartam nem lehet kevesebb húsz napnál.
 
-## A DOHÁNYTERMÉK-KISKERESKEDELEM FOLYTATÁSA
+(5) A miniszter a beérkezett pályázatokat a pályázatok benyújtására előírt időtartam lejártát követő 30 napon belül köteles elbírálni.
 
-1. CÍM
+(6) A miniszter, illetve a miniszter által megbízott és a nevében eljáró természetes személy a pályázat nyertesével köti meg a koncessziós szerződést a pályázat eredményének kihirdetését követő 15 napon belül.
 
-A dohánytermékek értékesítési helye
+(7) A pályázatok elbírálásáról a miniszter a koncessziós szerződés megkötésétől számított 60 napon belül emlékeztetőt készít. Az emlékeztetőnek az alábbi lényeges körülményeket kell tartalmaznia:
+
+a) a beérkezett pályázatok adatainak összefoglalását;
+
+b) a legkedvezőbb pályázat elfogadásának részletes indokait;
+
+c) a kikötött biztosítékok megfelelőségének értékelését.
+
+4. CÍM
+
+A koncessziós szerződés alapján keletkező bevételek

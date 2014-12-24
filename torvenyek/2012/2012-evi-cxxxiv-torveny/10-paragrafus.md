@@ -14,4 +14,4 @@ a dohánytermékek kiskereskedelmére vonatkozó jogosultságot az állam a rés
 
 3. CÍM
 
-A koncessziós szerződés alapján keletkező bevételek
+A dohánykiskereskedelem-ellátási koncesszió nyilvános pályázata
