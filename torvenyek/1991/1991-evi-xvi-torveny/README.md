@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-16-00-00
 | 2013-11-15 | 2013. évi CLXXXV. törvény | 1991-16-00-00.36 |
 | 2014-07-15 | 2014. évi XXXII. törvény | 1991-16-00-00.37 |
 | 2014-11-27 | 2014. évi LXXIV. törvény | 1991-16-00-00.38 |
+| 2014-12-24 | 2014. évi XCV. törvény | 1991-16-00-00.39 |
