@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-135-00-00
 | 2014-02-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-135-00-00.9 |
 | 2014-07-04 | 20/2014. (VII. 3.) AB határozat | 2013-135-00-00.10 |
 | 2014-09-30 | 2014. évi XXXIX. törvény | 2013-135-00-00.11 |
+| 2014-12-24 | 2014. évi XCI. törvény | 2013-135-00-00.12 |

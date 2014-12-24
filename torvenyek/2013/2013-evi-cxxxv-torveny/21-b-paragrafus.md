@@ -1,0 +1,1 @@
+21/B. § Felhatalmazást kap a Kormány, hogy a számvitelről szóló 2000. évi C. törvény 178. § (1) bekezdés c) pontjában kapott felhatalmazással összhangban az Integrációs Szervezet mint kötelező intézményvédelmi szervezet beszámolókészítési és könyvvezetési kötelezettségét és sajátosságait kormányrendeletben szabályozza.

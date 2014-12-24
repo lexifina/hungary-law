@@ -1,6 +1,6 @@
 ## 8/I. Jogutód nélküli megszűnés
 
-17/T. § (1) Ha a Felügyelet a szövetkezeti hitelintézet működési engedélyét az e törvényben foglalt bármely esetben visszavonja, a visszavonásról szóló határozatban egyúttal kijelöli a felügyeleti biztost.
+17/T. § (1)
 
 (2)
 
@@ -10,4 +10,4 @@
 
 (5) Amennyiben a Felügyelet a szövetkezeti hitelintézet végelszámolásának elhatározásáról dönt, és a szövetkezeti hitelintézet működési engedélyének visszavonására egyébként a Hpt. 33. § (1) bekezdés a) pontja alapján is helye lett volna, akkor ezt a tényt a Felügyelet a végelszámolást kimondó határozatában feltünteti és a határozatát haladéktalanul megküldi az Országos Betétbiztosítási Alap számára is.
 
-(6) A szövetkezeti hitelintézet végelszámolására vagy felszámolására egyebekben a Hpt. 47-66. §-ainak rendelkezései alkalmazandóak.
+(6) A szövetkezeti hitelintézet végelszámolására az Integrációs Szervezetből kilépni kívánó szövetkezeti hitelintézetre irányadó rendelkezéseket kell megfelelően alkalmazni azzal, hogy a szövetkezeti hitelintézet legfőbb szerve által elhatározott végelszámoláshoz az Integrációs Szervezet igazgatóságának kifejezett előzetes hozzájáruló határozata szükséges. A szövetkezeti hitelintézet végelszámolására vagy felszámolására egyebekben a Hpt. 47–66. §-ának rendelkezéseit kell alkalmazni.
