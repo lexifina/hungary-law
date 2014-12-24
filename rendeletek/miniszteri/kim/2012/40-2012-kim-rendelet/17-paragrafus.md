@@ -22,6 +22,8 @@ fc) elektronikus levelezési cím.
 
 (2) A regisztráció során a kamarának fel kell tölteni a kézbesítési rendszerbe a felhasználó elektronikus aláírói tanúsítványát, titkosító tanúsítványát és hitelesítési tanúsítványát.
 
-(3) A kamara felhasználóként olyan személyt jelölhet meg, aki jogosult a nevében küldemények továbbítására és fogadására, valamit azok adatainak megismerésére. Több felhasználó is megjelölhető.
+(3)[^3] A kamara felhasználóként olyan személyt jelölhet meg, aki jogosult a nevében küldemények továbbítására és fogadására, valamint azok adatainak megismerésére. Több felhasználó is megjelölhető.
 
 (4) A kamara adataiban bekövetkezett változások esetén a kamara e § szerint gondoskodik az adatok változásának átvezetéséről.
+
+[^3]: A 17. § (3) bekezdése a 20/2014. (XII. 23.) IM rendelet 16. § (1) bekezdése szerint módosított szöveg.

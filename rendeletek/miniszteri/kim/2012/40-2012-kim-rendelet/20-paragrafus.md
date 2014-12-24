@@ -48,4 +48,6 @@ a) az aláíró ügyvédi kamarai tagságának fennállását,
 
 b) egyéb meghatalmazott esetében pedig azt, hogy az aláíró jogosult a meghatalmazás alapján képviselt szervezet nevében történő aláírásra.
 
-(5) Az elektronikus kapcsolattartást igénylő szervezet a nevében eljáró felhasználóként olyan személyt jelölhet meg kérelmében, aki jogosult a nevében küldemények továbbítására és fogadására, valamit azok adatainak megismerésére. Több felhasználó is megjelölhető.
+(5)[^4] Az elektronikus kapcsolattartást igénylő szervezet a nevében eljáró felhasználóként olyan személyt jelölhet meg kérelmében, aki jogosult a nevében küldemények továbbítására és fogadására, valamint azok adatainak megismerésére. Több felhasználó is megjelölhető.
+
+[^4]: A 20. § (5) bekezdése a 20/2014. (XII. 23.) IM rendelet 16. § (1) bekezdése szerint módosított szöveg.

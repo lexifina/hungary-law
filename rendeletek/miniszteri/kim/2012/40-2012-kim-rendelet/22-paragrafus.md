@@ -40,4 +40,6 @@ d) kézbesítési megbízottal rendelkező fél esetében a kézbesítési megb�
 
 e) a kérelem előterjesztése során meghatalmazottal eljáró fél esetében a képviseletre adott meghatalmazás elektronikus másolatát.
 
-(3) Ha az elektronikus kapcsolattartást igénylő egyéb fél szervezet, a nevében eljáró felhasználóként olyan személyt jelölhet meg kérelmében, aki jogosult a nevében küldemények továbbítására és fogadására, valamit azok adatainak megismerésére. Több felhasználó is megjelölhető.
+(3)[^5] Ha az elektronikus kapcsolattartást igénylő egyéb fél szervezet, a nevében eljáró felhasználóként olyan személyt jelölhet meg kérelmében, aki jogosult a nevében küldemények továbbítására és fogadására, valamint azok adatainak megismerésére. Több felhasználó is megjelölhető.
+
+[^5]: A 22. § (3) bekezdése a 20/2014. (XII. 23.) IM rendelet 16. § (1) bekezdése szerint módosított szöveg.
