@@ -2,7 +2,11 @@
 
 18. § (1) Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagjaira, alkalmazottaira a Ptk.-ban, a Hpt.-ben és a (2)–(6) bekezdésben meghatározott összeférhetetlenségi szabályokat kell alkalmazni.
 
-(2) Az MFB Zrt. alkalmazottai munkavégzésre irányuló egyéb és további jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, valamint a (4) bekezdésben meghatározott esetek kivételével – nem létesíthetnek.
+(2) Az MFB Zrt. alkalmazottai munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, nevelőszülői foglalkoztatási jogviszony, valamint a (4) bekezdésben meghatározott esetek kivételével – nem létesíthetnek, kivéve ha
+
+a) az MFB Zrt. vagy az állam közvetlen vagy közvetett részesedéssel rendelkezik a gazdasági társaságban,
+
+b) a gazdasági társasággal szemben, javára vagy érdekében az MFB Zrt. – a 4. § (2) vagy (3) bekezdése szerint –kockázatot vállalt.
 
 (3) Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagjai, alkalmazottai pártban tisztséget nem viselhetnek, párt nevében vagy érdekében – az országgyűlési, illetve az önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhatnak.
 

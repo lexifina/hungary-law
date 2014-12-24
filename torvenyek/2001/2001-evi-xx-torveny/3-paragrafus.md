@@ -24,7 +24,7 @@ h) valutával, devizával – ide nem értve a pénzváltási tevékenységet �
 
 i) pénzügyi szolgáltatás közvetítése.
 
-(3) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően – külön jogszabály, illetőleg az érintett minisztériumokkal, vagy más jogi személyekkel kötött szerződés alapján – az elkülönített állami pénzalapokból, a fejezeti kiadási előirányzatokból, illetőleg európai közösségi forrásokból finanszírozott operatív programokhoz kapcsolódó – elsődlegesen a közreműködő szervezetként végzett tevékenység eredményességét növelő – feladatokat láthat el, így különösen:
+(3) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően – jogszabály, vagy az érintett minisztériumokkal, vagy más jogi személyekkel kötött szerződés alapján – az elkülönített állami pénzalapokból, a fejezeti kiadási előirányzatokból és európai uniós forrásokból finanszírozott operatív programokhoz kapcsolódó feladatokat láthat el, így különösen:
 
 a) támogatott pályázatok kezelését;
 
@@ -36,11 +36,11 @@ d) monitoring végzését;
 
 e) a forrásfelhasználás és a támogatott cél megvalósításának vizsgálatát;
 
-f) európai közösségi források jogszabálysértő, nem rendeltetésszerű vagy szerződésellenes felhasználásából származó követelések érvényesítését, ide nem értve az adók módjára történő behajtást;
+f) európai uniós források jogszabálysértő, nem rendeltetésszerű vagy szerződésellenes felhasználásából származó követelések érvényesítését, ide nem értve az adók módjára történő behajtást;
 
 g) tanácsadást; valamint
 
-h) egyéb, az a)–g) pontokban foglaltakhoz kapcsolódó kiegészítő szolgáltatásokat.
+h) egyéb, az a)–g) pontban foglaltakhoz kapcsolódó kiegészítő szolgáltatásokat.
 
 (4) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően befektetési alap által kibocsátott befektetési jegyet és kockázati tőkealap által kibocsátott kockázati tőkealap-jegyet vásárolhat.
 

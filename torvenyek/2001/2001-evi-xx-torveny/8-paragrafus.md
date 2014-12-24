@@ -4,7 +4,7 @@
 
 a) a hitelintézetekkel szembeni – ügyfelenként vagy ügyfélcsoportonként külön számított – kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének kétszáz százalékát,
 
-b) hitelintézetnek nem minősülő egy ügyféllel vagy egy ügyfélcsoport nem hitelintézet tagjaival szembeni együttes kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének harmincöt százalékát.
+b) hitelintézetnek nem minősülő egy ügyféllel vagy egy ügyfélcsoport nem hitelintézet tagjaival szembeni együttes kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének negyvenöt százalékát.
 
 (2) Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 110., 112. és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni.
 
@@ -24,6 +24,6 @@ f) a 2. §-ban meghatározott feladatainak ellátása érdekében, fejlesztési 
 
 (4) Az MFB Zrt. egy gazdasági társaságban – a (3) bekezdés a)–e) pontjában meghatározott társaságok kivételével – közvetlenül, illetőleg közvetetten legfeljebb 50%–1 szavazat mértékű tulajdoni részesedéssel rendelkezhet.
 
-(5)
+(5) A (3) és a (4) bekezdésben foglaltakat az MFB Zrt. közvetett részesedésszerzése esetén csak akkor kell alkalmazni, ha a részesedést olyan gazdasági társaság szerzi meg, amelyben az MFB Zrt. tulajdoni részesedése alapján a szavazatok több mint 50%-ával rendelkezik.
 
 (6) A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül.
