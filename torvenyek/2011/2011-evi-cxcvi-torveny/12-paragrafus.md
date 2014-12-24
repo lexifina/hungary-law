@@ -24,7 +24,7 @@ j) állami tulajdont képező terek, parkok felszíne alatt építmény létreho
 
 k) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló létrehozása és annak működtetése,
 
-l) dohánytermékek kiskereskedelme,
+l) dohánytermékek kiskereskedelme, illetve a dohánykiskereskedelem-ellátási tevékenység,
 
 m) az a)–l) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.
 
