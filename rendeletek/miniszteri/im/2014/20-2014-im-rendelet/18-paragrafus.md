@@ -1,0 +1,1 @@
+## 18. Az egyes cégjogi és civil eljárásjogi rendeleteknek az új Ptk. hatálybalépésével összefüggő módosításáról és egyéb igazságügyi tárgyú rendeletek módosításáról szóló 12/2014. (II. 28.) KIM rendelet módosítása
