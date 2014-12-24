@@ -1,3 +1,5 @@
+## 40. §
+
 ## 35. Magán és egyéb jogi személyek kártérítése (25/46/00)
 
 41. § (1) Az előirányzat a kártérítési polgári peres és peren kívüli eljárásokkal, kártérítési ügyekre vonatkozó jogi tevékenységgel összefüggő költségek finanszírozására szolgál.

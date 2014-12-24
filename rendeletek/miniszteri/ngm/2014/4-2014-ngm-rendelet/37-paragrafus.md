@@ -1,4 +1,4 @@
-## 36. § Az előirányzat felhasználása a Kormány Ávr. 152. § (5) bekezdése szerinti döntése alapján történik.
+## 36. §
 
 ## 31. Teljesítésigazolási Szakértői Szerv működési támogatása (25/39/00)
 

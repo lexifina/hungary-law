@@ -1,12 +1,20 @@
-## 5. § Az előirányzatok tartalmazzák a kezelésükkel és működtetésükkel járó költséget is.
+## 5. §[^2] Az előirányzatok tartalmazhatják a kezelésükkel és működtetésükkel járó költségeket.
 
-6. § (1) Csekély összegű (de minimis) támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: csekély összegű támogatásokról szóló bizottsági rendelet) alapján nyújtható.
+6. §[^3] (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
-(2) A csekély összegű támogatásokról szóló bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást a csekély összegű támogatásokról szóló bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
+(2) A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
 
-(3)[^1] A közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző vállalkozás részére nyújtott csekély összegű támogatás teherszállító jármű vásárlására nem vehető igénybe.
+(3) Az 1407/2013/EU bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az 1407/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
 
-(4)[^2] A csekély összegű támogatásokról szóló bizottsági rendelet 6. cikk (1) bekezdésében meghatározott nyilatkozat szerinti, továbbá az e rendelet alapján odaítélt csekély összegű támogatások bruttó támogatástartalmának együttes összege nem lépheti túl a csekély összegű támogatásokról szóló bizottsági rendeletben meghatározott felső határt.
+(4) Hitel vagy kezességvállalás formájában nyújtott támogatás esetén nem lehet kedvezményezett az a vállalkozás, amelyet kollektív fizetésképtelenségi eljárás alá vontak, vagy hitelezői kérelemre kollektív fizetésképtelenségi eljárás alá lenne vonható, valamint az a nagyvállalkozás, amely B-hitelminősítésnek megfelelő helyzetnél rosszabb helyzetben van.
 
-[^1]: A 6. § (3) bekezdése a 9/2014. (II. 17.) NGM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 6. § (4) bekezdését a 9/2014. (II. 17.) NGM rendelet 2. §-a iktatta be.
+(5) Nem nyújtható támogatás a közúti kereskedelmi árufuvarozást ellenszolgáltatásért végző vállalkozás részére teherszállító jármű vásárlására.
+
+(6) A támogatás a csekély összegű közszolgáltatási támogatással a 360/2012/EU bizottsági rendeletben meghatározott felső határig halmozható. A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott felső határig halmozható.
+
+(7) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+(8) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
+
+[^2]: Az 5. § a 39/2014. (XII. 23.) NGM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 6. § a 39/2014. (XII. 23.) NGM rendelet 3. §-ával megállapított szöveg.

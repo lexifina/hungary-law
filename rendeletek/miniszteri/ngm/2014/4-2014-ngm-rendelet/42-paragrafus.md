@@ -1,7 +1,3 @@
-## 36. Kötött segélyhitelezés (25/47/00)
+## 36.[^14]
 
-42. § (1) Az előirányzat a kötött segélyhitelezési program működtetésének biztosítására szolgál.
-
-(2) Az előirányzat tartalmazza a segélyhitelezéssel összefüggő szakértői tárgyalások dologi kiadásainak, valamint a Magyar Export-Import Bank Zrt. (a továbbiakban: Eximbank) által folyósítható kötött segélyhitelek feltételeiről és a segélyhitelnyújtás részletes szabályairól szóló kormányrendelet alapján a miniszter által teljesítendő egyéb feladatok finanszírozásának összegét is.
-
-(3) Az előirányzat felhasználása közvetlen kifizetéssel az Eximbank részére történik.
+[^14]: A 36. alcímet (42. §) a 39/2014. (XII. 23.) NGM rendelet 16. §-a hatályon kívül helyezte.

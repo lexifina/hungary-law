@@ -1,22 +1,37 @@
-## 15. Nemzetközi befektetéseket támogató célelőirányzat (25/02/51)
+## 15. [^8] Területfejlesztéssel összefüggő feladatok (25/04/01)
 
-21. § (1) Az előirányzat a nemzetközi és a hazai potenciális befektetők felkutatását, munkahelyteremtő beruházások Magyarországon történő megvalósulását, hazai vállalkozások nemzetközi befektetéseinek támogatását, beruházási lehetőségeinek bővítését, a magyar beszállítói háttér fejlesztését, a magyar export növekedését, hazai vállalkozások számára új üzleti lehetőségek felkutatását, a magyar termékek és szolgáltatások versenyképességének javítását, a kis- és középvállalkozások külpiaci értékesítését biztosítja. Az előirányzatból kerül finanszírozásra az e célok megvalósításához szükséges feltételrendszer kialakítása.
+21. § (1) A területfejlesztéssel összefüggő feladatok célelőirányzat terhére a miniszter támogatást biztosíthat
+
+a) területfejlesztési intézményrendszeri feladatokra
+
+aa) a megyei önkormányzatok,
+
+ab) a regionális fejlesztési ügynökségek,
+
+ac) a térségi fejlesztési tanácsok
+
+részére, a területfejlesztésről és a területrendezésről szóló törvényben meghatározott feladatokhoz kapcsolódó tevékenységeikhez és egyes szakmai projektjeik végrehajtásához, kivéve a kiemelt térségek fejlesztési programjainak végrehajtásához kapcsolódó projekteket és feladatokat;
+
+b) területfejlesztési szakmai háttérfeladatokra
+
+ba) a Széchenyi Programiroda Nonprofit Korlátolt Felelősségű Társaság működéséhez és szakmai programjainak megvalósításához, kivéve a kiemelt térségek fejlesztési programjainak végrehajtásához kapcsolódó projekteket és feladatokat,
+
+bb) a Lechner Lajos Tudásközpont Országos Területfejlesztési és Területrendezési Információs Rendszer működéséhez és szakmai feladatai ellátásához,
+
+c) a Magyar Államkincstár korábbi évek területfejlesztési pályázati rendszereivel kapcsolatos tevékenységének finanszírozásához, valamint
+
+d) egyéb területfejlesztési, fejlesztéspolitikai szakmai feladatok ellátásához, kivéve a kiemelt térségek fejlesztési programjainak végrehajtásához kapcsolódó projekteket és feladatokat.
 
 (2) Az előirányzat felhasználása
 
-a) pályázati úton, természetes személlyel, egyéni vállalkozóval, gazdasági társasággal, civil szervezettel, köztestülettel, szövetkezettel kötött támogatási szerződés, vagy támogatói okirat alapján;
+a) helyi önkormányzat, megyei önkormányzat, regionális fejlesztési ügynökség, térségi fejlesztési tanács, gazdasági társaság részére kérelemre, egyedi döntés alapján költségvetési támogatás nyújtásával,
 
-b) kérelemre, egyedi döntés alapján, költségvetési támogatás nyújtásával, egyéni vállalkozóval, gazdasági társasággal, köztestülettel kötött támogatási szerződéssel;
+b) feladat ellátásával megbízott regionális fejlesztési ügynökség, gazdasági társaság, költségvetési szerv részére, a velük kötött visszterhes szerződés alapján
 
-c) közvetlen kifizetéssel, a feladat ellátásával megbízott gazdasági társasággal kötött szerződés alapján történik.
+## történik.
 
-(3) Támogatási előleg folyósítása nem lehetséges.
+(3) Támogatási előleg a 10. § szerinti biztosíték kikötése mellett folyósítható.
 
-(4) A költségvetési támogatás vissza nem térítendő támogatás.
+(4) Az (1) bekezdés a)–c) pontja szerinti feladatokra költségvetési támogatás visszafizetési kötelezettség kikötése nélkül nyújtható. Az (1) bekezdés d) pontja szerinti feladatok esetén a költségvetési támogatás visszafizetési kötelezettség kikötésével és visszafizetési kötelezettség kikötése nélkül is nyújtható.
 
-(5)[^3] A 2012. évi kereskedelemfejlesztési pályázatok támogatására felhasználható, 2013. december 31-én kötelezettségvállalással terhelt költségvetési maradvány lebonyolító szerve a Nemzeti Külgazdasági Hivatal.
-
-(6)[^4]
-
-[^3]: A 21. § (5) bekezdése a 18/2014. (IV. 10.) NGM rendelet 1. §-ával megállapított szöveg.
-[^4]: A 21. § (6) bekezdését a 18/2014. (IV. 10.) NGM rendelet 2. §-a hatályon kívül helyezte.
+[^8]: A 15. alcím (21. §) a 39/2014. (XII. 23.) NGM rendelet 8. §-ával megállapított szöveg.
