@@ -1942,7 +1942,53 @@ szakmai és vizsgakövetelménye
 
 2.1.2. Bemeneti kompetenciák: -
 
-2.2. Szakmai előképzettség: 34 522 03 Elektronikai műszerész vagy 34 522 01 Elektromechanikai műszerész vagy 33 523 02 000 Távközlési és informatikai hálózatszerelő vagy 34 522 04Villanyszerelő megnevezésű szakképesítés
+2.2. Szakmai előképzettség:
+
+− 34 522 03 Elektronikai műszerész,
+
+− 34 522 01 Elektromechanikai műszerész,
+
+− 33 523 02 000 Távközlési és informatikai hálózatszerelő,
+
+− 34 522 04 Villanyszerelő,
+
+− 54 523 01 Automatikai technikus,
+
+− 34 522 02 Elektromos gép- és készülékszerelő,
+
+− 31 522 01 Elektronikai gyártósori műszerész,
+
+− 54 523 02 Elektronikai technikus,
+
+− 54 522 01 Erősáramú elektrotechnikus,
+
+− 32 521 02 Kereskedelmi, háztartási és vendéglátóipari gépszerelő,
+
+− 34 523 01 Mechatronikus-karbantartó,
+
+− 32 521 04 Órás,
+
+− 51 523 01 PLC programozó,
+
+− 54 481 03 Infokommunikációs hálózatépítő és üzemeltető,
+
+− 54 523 05 Távközlési technikus,
+
+− 51 523 02 Távközlési üzemeltető,
+
+− 31 523 01 Távközlési és informatikai hálózatszerelő,
+
+− 35 522 01 Audio- és vizuáltechnikai műszerész,
+
+− 55 523 05 Beszédátviteli rendszerüzemeltető technikus,
+
+− 55 523 01 Elektronikus hozzáférési és magánhálózati rendszerüzemeltető technikus,
+
+− 55 523 02 Elektronikus műsorközlő és tartalomátviteli rendszerüzemeltető technikus,
+
+− 55 523 03 Gerinchálózati rendszerüzemeltető
+
+szakképesítés.
 
 2.3. Előírt gyakorlat: -
 
@@ -2060,13 +2106,49 @@ A szakképesítés-ráépüléssel rendelkező képes:
 
 | 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
 
-| 3.3.3 | 34 522 03 | Elektronikai műszerész | szakképesítés |
+| 3.3.3. | 34 522 03 | Elektronikai műszerész | szakképesítés |
 
 | 3.3.4. | 34 522 01 | Elektromechanikai műszerész | szakképesítés |
 
 | 3.3.5. | 33 523 02 000 | Távközlési és informatikai hálózatszerelő | szakképesítés |
 
 | 3.3.6. | 34 522 04 | Villanyszerelő megnevezésű | szakképesítés |
+
+| 3.3.7. | 54 523 01 | Automatikai technikus | szakképesítés |
+
+| 3.3.8. | 34 522 02 | Elektromos gép- és készülékszerelő | szakképesítés |
+
+| 3.3.9. | 31 522 01 | Elektronikai gyártósori műszerész | szakképesítés |
+
+| 3.3.10. | 54 523 02 | Elektronikai technikus | szakképesítés |
+
+| 3.3.11. | 54 522 01 | Erősáramú elektrotechnikus | szakképesítés |
+
+| 3.3.12. | 32 521 02 | Kereskedelmi, háztartási és vendéglátóipari gépszerelő | szakképesítés |
+
+| 3.3.13. | 34 523 01 | Mechatronikus-karbantartó | szakképesítés |
+
+| 3.3.14. | 32 521 04 | Órás | szakképesítés |
+
+| 3.3.15. | 51 523 01 | PLC programozó | szakképesítés |
+
+| 3.3.16. | 54 481 03 | Infokommunikációs hálózatépítő és üzemeltető | szakképesítés |
+
+| 3.3.17. | 54 523 05 | Távközlési technikus | szakképesítés |
+
+| 3.3.18. | 51 523 02 | Távközlési üzemeltető | szakképesítés |
+
+| 3.3.19. | 31 523 01 | Távközlési és informatikai hálózatszerelő | szakképesítés |
+
+| 3.3.20. | 35 522 01 | Audio- és vizuáltechnikai műszerész | szakképesítés |
+
+| 3.3.21. | 55 523 05 | Beszédátviteli rendszerüzemeltető technikus | szakképesítés |
+
+| 3.3.22. | 55 523 01 | Elektronikus hozzáférési és magánhálózati rendszerüzemeltető technikus | szakképesítés |
+
+| 3.3.23. | 55 523 02 | Elektronikus műsorközlő és tartalomátviteli rendszerüzemeltető technikus | szakképesítés |
+
+| 3.3.24. | 55 523 03 | Gerinchálózati rendszerüzemeltető | szakképesítés |
 
 4. SZAKMAI KÖVETELMÉNYEK
 
@@ -2400,6 +2482,8 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 7.4. Amennyiben a képzésben résztvevő szakmai tevékenysége során műszaki mentő gépek, eszközök illetve vegyi mentő gépek, eszközök taktikai alkalmazásának igénye merül fel, a képző intézmény a képzés során ezen berendezések bemutatásához együttműködési megállapodás keretében is biztosíthatja a szükséges gépeket, eszközöket.
 
+7.5. A kijavított és értékelt írásbeli feladatot, az eredeti írásbeli vizsgafeladat egy példányát, valamint a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt el kell juttatni a vizsgaelnökhöz.
+
 A 13. sorszámú Katasztrófavédelmi főelőadó megnevezésű szakképesítés-ráépülés
 
 szakmai és vizsgakövetelménye
@@ -2611,6 +2695,8 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 | 7.2.2. | azonosító szám | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
 
 | 7.2.3. | 53 861 06 | Katasztrófavédelmi főelőadó | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+
+7.3. A kijavított és értékelt írásbeli feladatot, az eredeti írásbeli vizsgafeladat egy példányát, valamint a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt el kell juttatni a vizsgaelnökhöz.
 
 A 14. sorszámú Katasztrófavédelmi szakelőadó megnevezésű szakképesítés szakmai és vizsgakövetelménye
 
@@ -2863,6 +2949,8 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 | 7.2.2. | 52 861 04 | Katasztrófavédelmi szakelőadó | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 7.3. A képzésben résztvevők és a vizsgázók részére az egyéni védőfelszereléseket a beiskolázó biztosítja.
+
+7.4. A kijavított és értékelt írásbeli feladatot, az eredeti írásbeli vizsgafeladat egy példányát, valamint a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt el kell juttatni a vizsgaelnökhöz.
 
 A 15. sorszámú Katasztrófavédelmi referens megnevezésű szakképesítés-ráépülés szakmai és vizsgakövetelménye
 
@@ -4238,9 +4326,9 @@ Szakmai záró dolgozat elkészítése, amelyet a szakmai vizsga megkezdése el�
 
 | 5.2.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
 
-| 5.2.2. | 10393-12 | Migrációs közszolgálati ismeretek | szóbeli, írásbeli |
+| 5.2.2. | 10393-12 | Migrációs közszolgálati ismeretek | írásbeli |
 
-| 5.2.3. | 10394-12 | Migrációs szakmai ismeretek | szóbeli, írásbeli |
+| 5.2.3. | 10394-12 | Migrációs szakmai ismeretek | írásbeli |
 
 Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
 
@@ -5328,6 +5416,8 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 7.4. A Rendészeti szervező (Iparbiztonsági szervező, Katasztrófavédelmi szervező és Tűzvédelmi szervező) szakmairányok esetén a képzésben részt vevők és a vizsgázók részére az egyéni védőfelszereléseket a beiskolázó biztosítja.
 
+7.5. A Rendészeti szervező (Iparbiztonsági szervező, Katasztrófavédelmi szervező és Tűzvédelmi szervező) szakmairányok vizsgái esetén a kijavított és értékelt írásbeli feladatot, az eredeti írásbeli vizsgafeladat egy példányát, valamint a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt el kell juttatni a vizsgaelnökhöz.
+
 A 23. sorszámú Rendőr tiszthelyettes (a szakmairány megjelölésével) megnevezésű szakképesítés
 
 szakmai és vizsgakövetelménye
@@ -5996,36 +6086,4 @@ Amennyiben a teljesítendő írásbeli feladat eredménye nem éri el az 51%-ot,
 
 7.4.1. A 15/2008. (VII. 28.) IRM rendelet szerinti Határrendészeti-rendőr szakképesítés-elágazás (szakmai követelménymoduljai: 0725-06 Rendészeti alapfeladatok, 0731-06 Általános őr- és járőrszolgálati feladatok, 0732-06 Határrendészeti rendőri feladatok) végzettség tekintetében megegyezik a 3690-11 A rendvédelmi szervek általános feladatai és szabályzói, 3691-11 Őr-járőrtársi feladatok, 3692-11 Csapatszolgálati járőrtársi feladatok, 3693-11 Járőri feladatok, 3695-11 Határrendészeti rendőri feladatok szakmai követelménymodulokat tartalmazó Határrendészeti-rendőr szakképesítés-elágazással, és a jelen szakképesítés szerinti Rendőr tiszthelyettes (határrendészeti rendőr) végzettséggel.
 
-7.4.2. A 15/2008. (VII. 28.) IRM rendelet szerinti Közrendvédelmi-rendőr szakképesítés-elágazás (szakmai követelménymoduljai: 0725-06 Rendészeti alapfeladatok, 0731-06 Általános őr- és járőrszolgálati feladatok, 0738-06 Közrendvédelmi rendőri feladatok) végzettség tekintetében megegyezik a 3690-11 A rendvédelmi szervek általános feladatai és szabályzói, 3691-11 Őr-járőrtársi feladatok, 3692-11 Csapatszolgálati járőrtársi feladatok, 3693-11 Járőri feladatok, 3694-11 Közrendvédelmi rendőri feladatok szakmai követelménymodulokat tartalmazó Közrendvédelmi-rendőr szakképesítés-elágazással és a jelen szakképesítés szerinti Rendőr tiszthelyettes (közrendvédelmi rendőr) végzettséggel.
-
-7.4.3. A 15/2008. (VII. 28.) IRM rendelet szerinti (2011 évben indított) Bűnügyi-rendőr szakképesítés-elágazás (szakmai követelménymoduljai: 3690-11 A rendvédelmi szervek általános feladatai és szabályzói, 3691-11 Őr-járőrtársi feladatok, 3692-11 Csapatszolgálati járőrtársi feladatok, 3693-11 Járőri feladatok, 3697-11 Bűnügyi rendőri feladatok ) végzettség tekintetében megegyezik a jelen szakképesítés szerinti Rendőr tiszthelyettes (bűnügyi rendőr) végzettséggel.
-
-7.4.4. A 15/2008. (VII. 28.) IRM rendelet szerinti (2011 évben indított) Közlekedési-rendőr szakképesítés-elágazás (szakmai követelménymoduljai: 3690-11 A rendvédelmi szervek általános feladatai és szabályzói, 3691-11 Őr-járőrtársi feladatok, 3692-11 Csapatszolgálati járőrtársi feladatok, 3693-11 Járőri feladatok, 3696-11 Közlekedési rendőri feladatok) végzettség tekintetében megegyezik a jelen szakképesítés szerinti Rendőr tiszthelyettes (közlekedési rendőr) végzettséggel.
-
-7.4.5. Beszámíthatósági (szakmai követelménymodul megfeleltethetőségi) táblázat
-
-|  | A | B | C | D | E | F |
-
-| 7.4.5.1. | Korábbi eredményes szakmai követelménymodulok | Jelen szakmai és vizsgakövetelmények szerint megfeleltetett szakmai követelménymodulok |
-
-| 7.4.5.2. | 0725-06 | Rendészeti alapfeladatok | 3690-11 | A rendvédelmi szervek általános feladatai és szabályzói | 10352-12 | Rendvédelmi alapfeladatok |
-
-| 7.4.5.3. | 0734-06, 0735-06 és 0736-06 | Objektumőr-kísérő rendészeti alapfeladatai, Objektumőr-kísérő általános őr- és járőrszolgálati feladatai és Objektumőr-kísérői feladatok | 3690-11 és 3691-11 | A rendvédelmi szervek általános feladatai és szabályzói és Őr-járőrtársi feladatok | 10352-12 és 10370-12 | Rendvédelmi alap-feladatok és Őr-járőrtársi feladatok |
-
-| 7.4.5.4. | 0739-06, 0740-06 és 0741-06 | Kormányőr rendészeti alapfeladatai, Kormányőr általános őr- és járőrszolgálati feladatai és Kormányőri feladatok | 3690-11 és 3691-11 | A rendvédelmi szervek általános feladatai és szabályzói és Őr-járőrtársi feladatok | 10352-12 és 10370-12 | Rendvédelmi alapfeladatok és Őr-járőrtársi feladatok |
-
-| 7.4.5.5. | 0725-06 és 0731-06 | Rendészeti alapfeladatok és Általános őr- és járőrszolgálati feladatok | 3690-11 és 3691-11 | A rendvédelmi szervek általános feladatai és szabályzói és Őr-járőrtársi feladatok | 10352-12 és 10370-12 | Rendvédelmi alapfeladatok és Őr-járőrtársi feladatok |
-
-| 7.4.5.6. | 0725-06, 0731-06 és 0732-06 | Rendészeti alapfeladatok, Általános őr- és járőrszolgálati feladatok és Határrendészeti rendőri feladatok | 3690-11, 3691-11, 3692-11, 3693-11 és 3695-11 | A rendvédelmi szervek általános feladatai és szabályzói, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok, Járőri feladatok és Határrendészeti rendőri feladatok | 10352-12, 10370-12, 10371-12, 10372-12, 10373-12, | Rendvédelmi alap-feladatok, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok, Járőri feladatok, Határrendészeti rendőri feladatok |
-
-| 7.4.5.7. | 0725-06, 0731-06 és 0738-06 | Rendészeti alapfeladatok, Általános őr- és járőrszolgálati feladatok és Közrendvédelmi rendőri feladatok | 3690-11, 3691-11, 3692-11, 3693-11 és 3694-11 | A rendvédelmi szervek általános feladatai és szabályzói, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok, Járőri feladatok és Közrendvédelmi rendőri feladatok | 10352-12, 10370-12, 10371-12, 10372-12, 10374-12, | Rendvédelmi alap-feladatok, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok, Járőri feladatok, Közrendvédelmi rendőri feladatok |
-
-| 7.4.5.8. | - | - | 3690-11, 3691-11 és 3692-11 | A rendvédelmi szervek általános feladatai és szabályzói, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok | 10352-12, 10370-12 és 10371-12 | Rendvédelmi alap-feladatok, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok |
-
-| 7.4.5.9. | - | - | 3690-11, 3691-11, 3692-11 és 3693-11 | A rendvédelmi szervek általános feladatai és szabályzói, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok, Járőri feladatok | 10352-12, 10370-12, 10371-12 és 10372-12 | Rendvédelmi alap-feladatok, Őr-járőrtársi feladatok, Csapatszolgálati járőrtársi feladatok, Járőri feladatok |
-
-7.4.6. Aki a 2006-ban vagy 2011-ben kiadott, e táblázatban meghatározott követelménymodulokat eredményesen teljesítette, az mentesül a 2012-ben kiadott e táblázat szerinti megfelelő szakmai követelménymodulok teljesítése alól.
-
-7.4.7. Aki a 2006-ban vagy 2011-ben kiadott, e táblázatban meghatározott követelménymodulokból sikeres szakmai vizsgát tett, az a jelen szakmai és vizsgakövetelmény szerinti szakmai képzéseket folytathatja.
-
-[^4]: A 2. melléklet a 83/2013. (XII. 31.) BM rendelet 2. § b) pontja, a 23/2014. (III. 14.) BM rendelet 2. § (2) bekezdése, a 25/2014. (VIII. 26.) NGM rendelet 4. § (2) bekezdése, a 43/2014. (VIII. 29.) BM rendelet 2. § (1) bekezdés b) pontja és (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet a 83/2013. (XII. 31.) BM rendelet 2. § b) pontja, a 23/2014. (III. 14.) BM rendelet 2. § (2) bekezdése, a 25/2014. (VIII. 26.) NGM rendelet 4. § (2) bekezdése, a 43/2014. (VIII. 29.) BM rendelet 2. § (1) bekezdés b) pontja és (2) bekezdése, a 65/2014. (XII. 16.) BM rendelet 1. §-a szerint módosított szöveg.
