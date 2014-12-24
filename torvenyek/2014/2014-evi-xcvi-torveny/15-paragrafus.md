@@ -5,11 +5,3 @@
 (3) Az 1. § (2) bekezdése, a 3–10. §, a 13. §, valamint a 14. § (1) bekezdése az e törvény kihirdetését követő tizenötödik napon lép hatályba.
 
 (4) A 11–12. § az e törvény kihirdetését követő negyvenedik napon lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
