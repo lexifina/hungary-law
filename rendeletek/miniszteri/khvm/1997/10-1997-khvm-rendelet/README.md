@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-10-20-6
 | 2011-08-15 | 1997-10-20-6B.8 | 80/2011. (VIII. 3.) VM rendelet |
 | 2012-01-01 | 1997-10-20-6B.9 | 147/2011. (XII. 23.) VM rendelet |
 | 2014-01-01 | 1997-10-20-6B.10 | 132/2013. (XII. 23.) VM rendelet |
+| 2014-12-25 | 1997-10-20-6B.11 | 67/2014. (XII. 17.) BM rendelet |
