@@ -1,4 +1,4 @@
-## 20. §[^22]
+## 20. §[^29]
 
 ## 21. Záró rendelkezések
 
@@ -18,4 +18,4 @@
 
 (8) A 9. §, az 1. melléklet és a 2. melléklet 2015. április 1. napján lép hatályba.
 
-[^22]: A 20. § a 21. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^29]: A 20. § a 21. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.

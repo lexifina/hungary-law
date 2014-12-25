@@ -1,4 +1,4 @@
-## 13. § Hatályát veszti a hagyatéki eljárás egyes cselekményeiről szóló 29/2010. (XII. 31.) KIM rendelet 6/A. alcíme és 24. § (1a) bekezdése.
+## 13. §[^13]
 
 ## 14. A civil szervezetek bírósági eljárásokban alkalmazandó űrlapjairól szóló 11/2012. (II. 29.) KIM rendelet módosítása
 
@@ -89,3 +89,5 @@ dc) 15.1.1. pontja,
 e) 42. melléklet 6. pontja,
 
 f) 43. melléklet V. 1.6.2. pontja.
+
+[^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
