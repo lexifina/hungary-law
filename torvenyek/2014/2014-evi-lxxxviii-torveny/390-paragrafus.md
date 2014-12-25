@@ -1,1 +1,0 @@
-390. § Ha a többes ügynök működése során saját tőkéje a 388. § (1) bekezdésében meghatározott, továbbá részvénytársaság esetében a Ptk. által előírt kötelező minimális alaptőke mértéke alá csökken, a többes ügynök köteles a saját tőkét az előírt minimális tőke mértékéig kiegészíteni.

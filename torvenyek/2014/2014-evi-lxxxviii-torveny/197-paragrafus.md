@@ -1,1 +1,0 @@
-197. § Azon értékpapírokkal kapcsolatos jogok érvényesítésére, amelyek létrejöttéhez vagy átruházásához nyilvántartásba történő bejegyzés vagy számlán történő nyilvántartás szükséges, annak a tagállamnak a joga az irányadó, ahol a nyilvántartást vagy a számlát vezetik.

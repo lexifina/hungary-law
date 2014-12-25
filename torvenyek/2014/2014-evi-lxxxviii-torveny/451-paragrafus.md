@@ -1,1 +1,0 @@
-451. § A 129. §-ban meghatározott rendelkezéseket nem kell alkalmazni az állami, önkormányzati, önkéntes és létesítményi tűzoltóság tűzoltásban, műszaki mentésben részt vevő tagjaira vonatkozóan élet- és balesetbiztosítási szerződés kötésére vonatkozó kötelezettségre.

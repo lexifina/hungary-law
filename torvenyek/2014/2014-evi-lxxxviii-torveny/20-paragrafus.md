@@ -1,1 +1,0 @@
-20. § A kölcsönös biztosító egyesület az engedélyezett biztosítási ágon és ágazaton belül a biztosítási tevékenységet teljeskörűen végezheti, továbbá az engedélyezett biztosítási ágazatokban viszontbiztosítási tevékenységet is végezhet az erre vonatkozó külön engedély nélkül.

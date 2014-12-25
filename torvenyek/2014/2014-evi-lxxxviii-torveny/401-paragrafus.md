@@ -1,1 +1,0 @@
-401. § Ha az alkusz működése során saját tőkéje a 399. § (1) bekezdésében írt, továbbá részvénytársaság esetében a Ptk. által előírt kötelező minimális alaptőke mértéke alá csökken, az alkusz köteles a saját tőkét az előírt minimális tőke mértékéig kiegészíteni.

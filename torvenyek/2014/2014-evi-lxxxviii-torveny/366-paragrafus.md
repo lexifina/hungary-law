@@ -1,5 +1,3 @@
 ## 164. Az Európai Unión kívül székhellyel rendelkező anyavállalatokkal kapcsolatos szintek
 
-366. § (1) Ha a 363. § szerinti anyavállalat maga is a harmadik országban központi irodával rendelkező biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság, illetve harmadik országbeli biztosító vagy viszontbiztosító leányvállalata, a Felügyelet a 363. §-ban előírt ellenőrzést csak az olyan legfőbb anyavállalat szintjén alkalmazza, amely egy harmadik országbeli biztosítói holdingtársaság, harmadik országbeli vegyes pénzügyi holdingtársaság, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító.
-
-(2) A Felügyelet a 363. § szerinti egyenértékű felügyelet hiánya esetén új ellenőrzést végezhet azon az alacsonyabb szinten, ahol a biztosítók vagy viszontbiztosítók anyavállalata található. Ez lehet a harmadik országbeli biztosítói holdingtársaság, harmadik országbeli vegyes pénzügyi holdingtársaság, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító szintje is. Ebben az esetben a Felügyelet, mint a 363. § (2) bekezdése szerint eljáró csoportfelügyeletért felelős hatóság köteles megindokolni a döntését a csoportnak. A 365. § rendelkezései értelemszerűen alkalmazandóak.
+### 366. §

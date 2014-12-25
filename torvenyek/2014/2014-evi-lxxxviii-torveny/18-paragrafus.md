@@ -1,1 +1,0 @@
-18. § A Ptk. biztosítási szerződési szabályok hatályának kiterjesztésére vonatkozó rendelkezését (Ptk. 6:457. §) a kölcsönös biztosító egyesületi tagsági jogviszony keretében létrejött biztosítási szerződéseken alapuló biztosítási jogviszonyokra kell alkalmazni.

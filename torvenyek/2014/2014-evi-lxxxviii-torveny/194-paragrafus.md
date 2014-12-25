@@ -1,1 +1,0 @@
-194. § A biztosító első számú vezetője a matematikai tartalékhoz tartozó és a befektetési egységekhez kötött életbiztosítások tartalékainak fedezetét képező eszközök listáját a felszámolás kezdő időpontjának napjával lezárja és azt a Cstv.-ben meghatározott tevékenységet lezáró mérleg átadásával egyidejűleg a felszámolónak átadja.

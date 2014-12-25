@@ -1,1 +1,0 @@
-158. § A 368. §-ban meghatározott biztosításközvetítést végző természetes személy – ha törvény eltérően nem rendelkezik – csak a 152. § (1) bekezdésében meghatározott adatokról köteles tájékoztatást adni.

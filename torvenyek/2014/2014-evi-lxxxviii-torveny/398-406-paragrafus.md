@@ -1,0 +1,7 @@
+## XXIX. Fejezet
+
+## A FÜGGETLEN BIZTOSÍTÁSKÖZVETÍTŐK MŰKÖDÉSÉRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
+
+## 175. Az alkusz
+
+### 398–406. §

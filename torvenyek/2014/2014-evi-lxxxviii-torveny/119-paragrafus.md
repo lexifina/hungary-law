@@ -1,1 +1,0 @@
-119. § A másik tagállamban székhellyel rendelkező biztosító Magyarország területén lévő fióktelepének biztosítási állománya részben vagy egészben átruházható a másik tagállam felügyeleti hatóságának engedélyével.

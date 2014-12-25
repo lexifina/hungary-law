@@ -1,1 +1,0 @@
-37. § A másik tagállamban székhellyel rendelkező biztosító és viszontbiztosító magyarországi fióktelepe működése során a főbb adataiban bekövetkező változásról legkésőbb a változást megelőző harminc napon belül köteles a Felügyeletet írásban értesíteni.

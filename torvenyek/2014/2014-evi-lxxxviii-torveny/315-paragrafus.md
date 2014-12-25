@@ -1,1 +1,0 @@
-315. § Ha a Felügyelet jóváhagyta a helyreállítási tervet vagy pénzügyi tervet, mindaddig visszautasíthatja a 256. § (3) bekezdésben meghatározott igazolás kiadását, ameddig a szerződők jogai vagy a viszontbiztosító szerződéses kötelezettségei veszélyeztetve vannak.

@@ -1,1 +1,0 @@
-381. § A 137–143. §-ban, és a 145–147. §-ban meghatározott rendelkezéseket alkalmazni kell a biztosításközvetítők esetében is azzal, hogy ahol az adott rendelkezés biztosítót nevesít, azon a biztosításközvetítőt kell érteni.

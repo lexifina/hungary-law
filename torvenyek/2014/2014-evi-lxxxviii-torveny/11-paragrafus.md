@@ -1,1 +1,0 @@
-11. § A biztosító és a viszontbiztosító szövetkezetnek a cégjegyzékbe történő bejegyzésére kizárólag akkor kerülhet sor, ha a bejegyzési kérelem benyújtásáig a pénzbeli vagyoni hozzájárulás teljes egészében befizetésre került.

@@ -1,1 +1,0 @@
-79. § A belső kontrollrendszer legalább az igazgatási és számviteli eljárásokra, belső ellenőrzési keretrendszerre, a vállalkozás minden szintjére kiterjedő megfelelő jelentési és adatszolgáltatási rendszerre, továbbá a megfelelőségi feladatkörre terjed ki.

@@ -1,3 +1,0 @@
-## 186. A másik tagállamban székhellyel rendelkező biztosításközvetítő magyarországi fióktelepének, vagy Magyarországon határon átnyúló szolgáltatás keretében végzett tevékenységének felügyeletével kapcsolatos szabályok
-
-425. § A Felügyelet nem rendszeres tájékoztatást kérhet a másik tagállamban székhellyel rendelkező biztosításközvetítő magyarországi fióktelepétől vagy a Magyarországon határon átnyúló szolgáltatás keretében végzett tevékenységével összefüggésben a másik tagállamban székhellyel rendelkező biztosításközvetítőtől a biztosításközvetítői tevékenységével kapcsolatban annak igazolására, hogy a tevékenysége megfelel a biztosításközvetítői tevékenységre vonatkozó magyarországi jogszabályoknak.
