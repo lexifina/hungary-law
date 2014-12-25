@@ -8,8 +8,8 @@ b) szükség esetén a külföldi szolgálat befejezésekor, a kiköltözés fel
 
 a) 30 napot meghaladó igénybevételét vagy költségeinek megtérítését, ha a kiküldött a kiutazástól számított 30 napon belül a lakóingatlanba neki fel nem róható okból nem tud beköltözni, és
 
-b)[^11] folyamatos felügyeletre szoruló, családi ellátmánypótlékra jogosító hozzátartozóval történő együttes igénybevételét vagy költségeinek megtérítését.
+b)[^20] folyamatos felügyeletre szoruló, családi ellátmánypótlékra jogosító hozzátartozóval történő együttes igénybevételét vagy költségeinek megtérítését.
 
 (3) A Honvédség a kiküldött kiutazása előtt gondoskodik az ideiglenes elhelyezésként szolgáló szállás lefoglalásáról.
 
-[^11]: A 23. § (2) bekezdés b) pontja a 9/2014. (IV. 30.) HM rendelet 8. § h) pontja szerint módosított szöveg.
+[^20]: A 23. § (2) bekezdés b) pontja a 9/2014. (IV. 30.) HM rendelet 8. § h) pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@ b) a kiküldött 14. § (3) bekezdése szerinti vezénylése esetén a vezényl�
 
 c) a kiküldött szolgálati érdekből történő ideiglenes hazarendelésével kapcsolatos utazást,
 
-d) évente egy alkalommal szabadságra történő hazatéréskor a kiküldött és családi ellátmánypótlékra jogosító hozzátartozója haza- és visszautazását, kivéve a külföldi szolgálat megkezdésének és befejezésének naptári évét, ha abban az évben a külföldi szolgálat időtartama nem éri el a 9 hónapot,
+d)[^16] évente egy alkalommal szabadságra történő hazatéréskor a kiküldött és a tárgyév március 1-jén családi ellátmánypótlékra jogosító hozzátartozónak minősülő hozzátartozója haza- és visszautazását, kivéve a külföldi szolgálat megkezdésének és befejezésének naptári évét, ha abban az évben a külföldi szolgálat időtartama nem éri el a 9 hónapot,
 
 e) a kiküldött és a családi ellátmánypótlékra jogosító hozzátartozója haza- és visszautazását a kiküldött szülőjének, gyermekének, házastársának, a házastárs szülőjének, továbbá a kiküldött testvérének elhalálozása miatt,
 
@@ -35,3 +35,5 @@ c) az a) és a b) pont helyett a 48. § és az 51. § szerinti költségtérít�
 (4) A kiküldött az (1) bekezdés d) és g) pontja szerinti utazások alkalmával utazási költségátalányra jogosult.
 
 (5) A kiküldött és a családi ellátmánypótlékra jogosító hozzátartozó hazai egészségügyi kivizsgálásra vagy gyógykezelésre történő utazásának és a kísérő kirendelésének szükségességét a Honvédség egészségügyért felelős szervezete igazolja.
+
+[^16]: A 15. § (1) bekezdés d) pontja a 17/2014. (XII. 17.) HM rendelet 9. § e) pontja szerint módosított szöveg.

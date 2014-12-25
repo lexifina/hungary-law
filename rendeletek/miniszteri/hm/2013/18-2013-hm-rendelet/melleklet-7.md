@@ -12,13 +12,13 @@
 
 |  | 5. | II/I–X. | 10,0 USD | 39,0 USD |
 
-7. melléklet a 18/2013. (IX. 5.) HM rendelethez[^30]
+7. melléklet a 18/2013. (IX. 5.) HM rendelethez[^51]
 
 A tartós külföldi képzésben részt vevők ellátmánya szorzószámainak mértéke
 
 |  | A | B | C | D | E |
 
-| 1. | Hivatásos és szerződéses katonák (a képzés megkezdése előtti besorolási osztály/ beosztási kategória) | Közalkalmazottak (a képzés megkezdése előtti munkakör, fizetési osztály, vezetői megbízás) | Honvéd tisztjelöltek és honvéd altiszt-jelöltek | Kormánytisztviselők (a képzés megkezdése előtti munkakör, besorolási osztály/ fizetési fokozat, vezetői munkakör) | Ellátmány szorzószáma |
+| 1. | Hivatásos és szerződéses katonák (a képzés megkezdése előtti beosztáshoz rendszeresített besorolási osztály/ beosztási kategória) | Közalkalmazottak (a képzés megkezdése előtti munkakör, fizetési osztály, vezetői megbízás) | Honvéd tisztjelöltek és honvéd altiszt-jelöltek | Kormány- tisztviselők (a képzés megkezdése előtti munkakör, besorolási osztály / fizetési fokozat, vezetői munkakör) | Ellátmány szorzószáma |
 
 | 2. | I/X | – | – | – | 2,00 |
 
@@ -60,4 +60,4 @@ A tartós külföldi képzésben részt vevők ellátmánya szorzószámainak m�
 
 | 21. | – | – | – I. évfolyamos tisztjelölt – altiszt-jelölt | – | 1,00 |
 
-[^30]: A 7. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (6) bekezdése szerint módosított szöveg.
+[^51]: A 7. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (6) bekezdése, a 17/2014. (XII. 17.) HM rendelet 8. §-a szerint módosított szöveg.
