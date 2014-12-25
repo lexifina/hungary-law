@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-39-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-12-24 | 2014-39-20-2X.1 | 39/2014. (XII. 23.) NGM rendelet |
+| 2014-12-25 | 2014-39-20-2X.2 | 2010: CXXX. törvény |
