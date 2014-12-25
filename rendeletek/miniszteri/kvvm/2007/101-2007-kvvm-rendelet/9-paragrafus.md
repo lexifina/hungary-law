@@ -1,30 +1,32 @@
 ## Az üzemeltetésre vonatkozó egyes szabályok
 
-9. § (1) A kút a vízügyi hatóság által kiadott vízjogi üzemeltetési engedély és az általa jóváhagyott üzemeltetési szabályzat szerint üzemeltethető, amely a külön jogszabályban előírtak mellett tartalmazza különösen
+9. § (1)[^18] A kút
 
-a) a vízhozam szabályozására,
+a) a vízügyi hatóság által kiadott vízjogi üzemeltetési engedély, és
 
-b) üzemeltetési naplóra,
+b) a hévízművek, a közcélú ivóvízigények kielégítését-, valamint az ásvány- vagy gyógyvízhasznosítást szolgáló létesítmények esetén a vízügyi hatóság által jóváhagyott üzemeltetési szabályzat szerint üzemeltethető, amely a víziközművek üzemeltetéséről szóló miniszteri rendeletben előírtak mellett tartalmazza, különösen
 
-c) a kút védelmére, fenntartására,
+ba) a vízhozam szabályozására,
 
-d) a rendszeres és időszakos üzemi mérésekre, ezek értékelésére,
+bb) az üzemeltetési naplóra,
 
-e) a mérőeszközök rendszeres ellenőrzésére, kalibrálására,
+bc) a kút védelmére, fenntartására,
 
-f) az üzemvitelre,
+bd) a rendszeres és időszakos üzemi mérésekre, ezek értékelésére,
 
-g) a munkakörre és a biztonsági követelményekre,
+be) a mérőeszközök rendszeres ellenőrzésére, kalibrálására,
 
-h) a rendszeres és időszakos mélységi kútvizsgálatokra
+bf) az üzemvitelre,
 
-## vonatkozó rendelkezéseket.
+bg) a munkakörre és a biztonsági követelményekre,
+
+bh) a rendszeres és időszakos kútvizsgálatokra vonatkozó rendelkezéseket.
 
 (2) Szezonális üzem esetén félévenként – a vízjogi üzemeltetési engedélyben meghatározott szezon kezdetekor és végén, időszakos üzem esetén az üzemeltetés kezdetekor és annak végén – mérni kell a nyugalmi kútfejnyomást a kútnak az üzemeltetési szabályzatban előírt, de legalább egy óra időtartamú lezárásával.
 
 (3) Egy hónapot meghaladó üzemszünet esetén a nyugalmi kútfejnyomást a kútfej gáztalanítása után, illetve a nyugalmi vízszintet havonta kell mérni.
 
-(4) A vízkémiára és a gáztartalomra vonatkozó vizsgálatok gyakoriságát és a vizsgálandó komponensek körét összhangban a vonatkozó külön jogszabállyal az üzemeltetési szabályzatban kell meghatározni, ideértve a mérések módját, eszközigényét és a minőség biztosítását.
+(4)[^19] A vízkémiára és a gáztartalomra vonatkozó vizsgálatok gyakoriságát és a vizsgálandó komponensek körét – a vízilétesítmény céljától függően – az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről, a víziközművek üzemeltetéséről, a földtani közeg és a felszín alatti víz szennyezéssel szembeni védelméhez szükséges határértékekről és a szennyezések méréséről, valamint a termelt és szolgáltatott vizek gázmentesítéséről szóló miniszteri rendeletekkel összhangban az üzemeltetési szabályzatban, amennyiben az (1) bekezdés alapján ez nem szükséges, a vízjogi üzemeltetési engedélyben kell meghatározni, ideértve a mérések módját, eszközigényét és a minőség biztosítását is.
 
 (5) Az ásvány-, gyógyvíz minősítésű kutaknál a vizsgálatoknak a minősítés megalapozásához meghatározott komponensekre és azok ellenőrzésének gyakoriságára kell kiterjedni.
 
@@ -59,3 +61,6 @@ m) gázkapacitás mérést és gázmintavétel elemzést a gázos kutaknál.
 (7) A vízügyi hatóság az időszakos vizsgálatok körét indokolt esetben szűkítheti, illetve szélesebb körű vizsgálatokról rendelkezhet. Az időszakos vizsgálatok rendjét az üzemeltetési szabályzatban rögzíteni kell.
 
 (8) Az időszakos vizsgálatok eredményét és az értékelést tartalmazó dokumentációt az engedélyezésre hatáskörrel rendelkező hatóságnak egy hónapon belül meg kell küldeni. Amennyiben az időszakos vizsgálatok értékelése alapján az üzemeltetés módja és a rendszeres, valamint időszakos mérések rendje módosítása válik szükségessé, a megfelelően módosított üzemeltetési szabályzatot a vízügyi hatóságnak meg kell küldeni.
+
+[^18]: A 9. § (1) bekezdése a 67/2014. (XII. 17.) BM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^19]: A 9. § (4) bekezdése a 67/2014. (XII. 17.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.

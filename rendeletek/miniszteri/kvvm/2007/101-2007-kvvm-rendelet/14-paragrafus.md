@@ -6,6 +6,6 @@
 
 (3) A rendelet hatálybalépésétől számított 1 év elteltével csak az e rendeletnek megfelelő képesítési, illetőleg tárgyi és személyi feltételek fennállása esetén végezhető a rendelet hatálya alá tartozó tevékenység.
 
-(4)–(6)[^15]
+(4)–(6)[^26]
 
-[^15]: A 14. § (4)–(6) bekezdése e rendelet 15. §-a alapján hatályát vesztette.
+[^26]: A 14. § (4)–(6) bekezdése e rendelet 15. §-a alapján hatályát vesztette.

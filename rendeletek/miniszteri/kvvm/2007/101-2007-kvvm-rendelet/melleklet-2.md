@@ -1,63 +1,69 @@
-## Geofizikai, kútszerkezeti és hidrodinamikai mérések
+| 1. Mélyfúrás-geofizikai és befejező kútvizsgálati mérések |
 
-## A. Mélyfúrás-geofizikai méréseket kell, illetve ajánlott végezni a következők szerint:
+|  | A | B | C | D | E | F | G |
 
-## a) A mérést minden 30 méternél mélyebb, fúrással történő vízfeltáráskor a talajvíz kizárására beépítendő iránycsőrakat sarujától kell végezni.
+| 1 | Mérések, vizsgálati módszerek | 30–500 | VN, <500 | >500 | 10–50 MF |
 
-## b) Minden 30 m-t meghaladó mélységű öblítéses fúrás esetén a mérést a kezdőrakat alatti furat – keresőfúrással, keresőfúrási szakaszokkal feltárt – teljes hosszában kell végezni. A csőrakatokat tehát csak előzetesen szelvényezett furatban szabad elhelyezni.
+| 2 | Mélyfúrás-geofizikai mérések | fajlagos ellenállás szelvényezés (két különböző behatolású szondával) | A | K | K | A |
 
-## Mérési módszerek:
+| 3 | természetes potenciál szelvényezés | A | K | K | A |
 
-## ba) természetes potenciálszelvényezés,
+| 4 | természetes gamma szelvényezés | A | K | K | K/5 |
 
-## bb) természetes gamma-szelvényezés,
+| 5 | fúrólyuk átmérő szelvényezés | — | K | K | — |
 
-## bc) ellenállás-szelvényezés (két különböző behatolású szondával).
+| 6 | legalább egy porozitásra vonatkozó szelvényezés a szűrőzendő szakaszokon. A kőzet típusától függően akusztikus hullámkép, sűrűség- vagy neutron-porozitás szelvényezés. | — | — | K | — |
 
-## c) Kútfúrások esetén, valamint a fúrások kutatásnak minősített szakaszán kiegészítő mérések:
+| 7 | akusztikus hullámkép szelvényezés a szűrőzendő szakaszokon kemény (mészkő, metamorf, magmás) kőzetekben | A | A | K | — |
 
-## ca) neutronporozitás- (n-n) szelvényezés,
+| 8 | hőmérséklet-szelvényezés | A | A | K | — |
 
-## cb) mikroellenállás-szelvényezés,
+| 9 | fúrólyuk-elhajlás szelvényezés | — | — | K | — |
 
-## cc) talphőmérséklet-mérés,
+| 10 | iszapellenállás szelvényezés | — | — | A | — |
 
-## cd) lyukbőség-szelvényezés.
+| 11 | oldalfal mintavétel | — | — | A | — |
 
-## ce) akusztikus és akusztikus hullámképszelvényezés,
+| 12 | Befejező kútvizsgálatok | Kútszerkezet vizsgálatok | gyűrűstér ellenőrző vizsgálat (a kút kialakításától függően, akusztikus cementpalást szelvényezés, sűrűség, mágneses vagy természetes gamma mérés) | K | K | K | K/5 |
 
-## cf) hőmérséklet-szelvényezés,
+| 13 | lyukátmérő szelvényezés (talp és csőátmérő ellenőrzés) | K | K | K | K/5 |
 
-## cg) fúrólyukelhajlás-szelvényezés,
+| 14 | szűrő(k) helyének ellenőrző vizsgálata (a szűrő anyagától függően elektromos, vagy akusztikus szelvényezés) | K | K | K | K/5 |
 
-## ch) iszapellenállás-szelvényezés,
+| 15 | elkészült kút természetes gamma szelvényezése | K | — | — | — |
 
-## ci) oldalfal-mintavétel,
+| 16 | színes videokamerás felvétel a teljes kútszerkezetről | A | A | A | A |
 
-## cj) mágneses érzékenységen (szuszceptibilitáson) alapuló szelvényezés.
+| 17 | sűrűség, vagy akusztikus hullámkép szelvényezés kavicstető ellenőrzésére | A | A | A | — |
 
-## B. Kútszerkezet vizsgálat
+| 18 | hőmérséklet szelvényezés cement tető ellenőrzésre | A | A | A | — |
 
-## a) Kötelező mérések
+| 19 | Hidrodinamikai mérések | áramlás és hőmérséklet szelvényezés a szűrőknél és a tömszelencéknél, termelés mellett és a kút lezárt állapotában | K | K | K | — |
 
-## – csőpalást zárás vizsgálat (nyomáspróbával, vagy geofizikai módszerekkel)
+| 20 | kútkapacitás mérés 80 / 60 / 40 %-os termelési szinteknél (hévízkutaknál mélységi is) | K | K | K | K/5 |
 
-## – talp és belső átmérő ellenőrzés (lyukátmérő mérés)
+| 21 | visszatöltődés vagy nyomásemelkedés mérés (max. hozam után, hévízkutaknál mélységi is) | K | K | K | K/5 |
 
-## – szűrő(k) helyének ellenőrzése
+| 22 | nyomásgradiens mérés | — | — | K | — |
 
-## b) Ajánlott vizsgálat
+| 2. Jelmagyarázat |  |  |  |  |
 
-## – színes videokamerás felvétel a teljes kútszerkezetről (hidegvizes kutaknál)
+|  | A | B | C |
 
-## C. Hidrodinamikai mérések
+| 1 | K | = | A mérés elvégzése kötelező. |
 
-## – áramlás és hőmérséklet szelvényezés maximális hozamnál (100 m alatt talphő, 500 m alatt hőmérséklet szelvényezés)
+| 2 | A | = | A mérés elvégzése ajánlott. |
 
-## – kútkapacitás (80, 60, 40%-os hozamnál, hévízkutaknál mélységi is)
+| 3 | K/5 | = | 1-5 db kút esetén legalább 1 (a helyes szűrőzés megállapítása érdekében lehetőleg a területen először létesített) kútban, 5 db-ot meghaladó számú kút esetén 5 kutanként legalább 1 kútban az előírt méréseket el kell végezni. Ezen felül a vizsgálatba bevont kutak számát a tervező javaslata alapján úgy kell meghatározni, hogy reprezentálják a kutak geofizikai mérésekkel vizsgálható vízföldtani és műszaki paramétereit. |
 
-## – visszatöltődés/nyomásemelkedés (max. hozam után, hévízkutaknál mélységi is)
+| 4 | — | = | A mérés elvégzése nem szükséges. |
 
-## – nyomásgradiens (csak hévízkutaknál)
+| 5 | 30–500 | = | 30 m és 500 m méter közötti talpmélységű, vízföldtani napló készítési kötelezettség alá nem tartozó kutak esetében. |
+
+| 6 | VN, <500 | = | 500 méter talpmélységet meg nem haladó, vízföldtani napló készítési kötelezettség alá tartozó kutak esetében. |
+
+| 7 | >500 | = | 500 méter talpmélységet meghaladó kutak esetében. |
+
+| 8 | 10–50 MF | = | 10 m és 50 m közötti talpmélységű parti szűrésű-, vagy talajvíz megfigyelő kutak esetében, amennyiben a kút a felszín alatti vizek védelméről szóló kormányrendelet szerinti kármentesítéshez kapcsolódik, vagy a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendelet szerinti megfigyelő hálózat részét képezi. |
 
 2. melléklet a 101/2007. (XII. 23.) KvVM rendelethez
