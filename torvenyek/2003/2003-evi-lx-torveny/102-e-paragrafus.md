@@ -1,1 +1,0 @@
-102/E. § A 102/C. § (2) bekezdése és a 102/D. § alapján történt jogválasztás esetében, ha a jogválasztás időpontjában a biztosítási szerződés csak egy tagállamhoz kapcsolódik, alkalmazni kell e tagállam jogának azokat a rendelkezéseit, amelyektől a felek egyező akarattal sem térhetnek el.

@@ -1,1 +1,0 @@
-102/G. § Biztosítási szerződéskötési kötelezettség esetében, ha a kockázat felmerülésének helye szerinti tagállam joga és a szerződéskötési kötelezettséget előíró tagállam joga nincs összhangban egymással, a szerződésre a szerződéskötési kötelezettséget előíró tagállam joga irányadó.
