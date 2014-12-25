@@ -4,7 +4,7 @@
 
 (2) A rendelet hatálybalépésekor és azt követően a fennálló üzemeltetési szerződés mindaddig hatályban marad, amíg a vízhasználók minimum 51%-a vagy az igazgatóság kezdeményezésére kiírt pályázatot követően új üzemeltetési szerződést kötnek.
 
-(2a)[^7] E rendeletnek a mezőgazdasági vízszolgáltató művek üzemeltetéséről szóló 2/1997. (II. 18.) KHVM rendelet módosításáról szóló 119/2012. (XI. 23.) VM rendelettel (a továbbiakban: Mód. R.) megállapított rendelkezéseit a Mód. R. hatálybalépése[^8] napján fennálló jogviszonyokra is alkalmazni kell azzal, hogy a hatályos szerződéseket a Mód. R. hatályba lépését követő 30 napon belül felül kell vizsgálni, és szükség szerint módosítani kell.
+(2a)[^22] E rendeletnek a mezőgazdasági vízszolgáltató művek üzemeltetéséről szóló 2/1997. (II. 18.) KHVM rendelet módosításáról szóló 119/2012. (XI. 23.) VM rendelettel (a továbbiakban: Mód. R.) megállapított rendelkezéseit a Mód. R. hatálybalépése[^23] napján fennálló jogviszonyokra is alkalmazni kell azzal, hogy a hatályos szerződéseket a Mód. R. hatályba lépését követő 30 napon belül felül kell vizsgálni, és szükség szerint módosítani kell.
 
 (3) E rendelet alkalmazásában:
 
@@ -18,7 +18,7 @@ d) üzemeltetési szerződés: az igazgatóság és az üzemeltető között lé
 
 e) üzemeltető: a vízszolgáltató művek üzemeltetését, fenntartását szerződés alapján, esetleg alapfeladatként végző és megbízás esetén fejlesztését ellátó személy vagy szervezet;
 
-f)[^9] vízhasználó: a vízjogi engedély és szolgáltatási szerződés alapján vizet felhasználó természetes vagy jogi személy, valamint jogi személyiség nélküli szervezet;
+f)[^24] vízhasználó: a vízjogi engedély és szolgáltatási szerződés alapján vizet felhasználó természetes vagy jogi személy, valamint jogi személyiség nélküli szervezet;
 
 g) vízmérés: a víz mennyiségét mérőműszerekkel, hitelesített műtárgyakkal, vagy a vízkivételre alkalmas szivattyúk névleges teljesítménye alapján műszaki becsléssel kell meghatározni;
 
@@ -28,6 +28,6 @@ i) vízszolgáltatási szerződés: az üzemeltető és a vízhasználó közöt
 
 j) záridő: az az időszak, amikor a vízszolgáltatás – karbantartás, fenntartás vagy fejlesztés miatt – szünetel.
 
-[^7]: A 11. § (2a) bekezdését a 119/2012. (XI. 23.) VM rendelet 4. §-a iktatta be.
-[^8]: A hatálybalépés időpontja 2012. december 8.
-[^9]: A 11. § (3) bekezdés f) pontja a 22/2014. (III. 12.) BM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^22]: A 11. § (2a) bekezdését a 119/2012. (XI. 23.) VM rendelet 4. §-a iktatta be.
+[^23]: A hatálybalépés időpontja 2012. december 8.
+[^24]: A 11. § (3) bekezdés f) pontja a 22/2014. (III. 12.) BM rendelet 2. § (1) bekezdése szerint módosított szöveg.
