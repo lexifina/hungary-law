@@ -1,3 +1,0 @@
-16. § A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 17/T. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A szövetkezeti hitelintézet végelszámolására az Integrációs Szervezetből kilépni kívánó szövetkezeti hitelintézetre irányadó rendelkezéseket kell megfelelően alkalmazni azzal, hogy a szövetkezeti hitelintézet legfőbb szerve által elhatározott végelszámoláshoz az Integrációs Szervezet igazgatóságának kifejezett előzetes hozzájáruló határozata szükséges. A szövetkezeti hitelintézet végelszámolására vagy felszámolására egyebekben a Hpt. 47–66. §-ának rendelkezéseit kell alkalmazni.”

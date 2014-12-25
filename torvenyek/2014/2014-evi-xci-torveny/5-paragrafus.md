@@ -1,1 +1,0 @@
-5. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 10/A. § (1) bekezdésében az „ügyfél személyére, az ügylet összegére” szövegrész helyébe az „ügyfél személyének, az ügylet összegének” szöveg lép.
