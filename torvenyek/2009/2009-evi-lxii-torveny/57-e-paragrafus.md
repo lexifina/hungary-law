@@ -1,4 +1,4 @@
-57/E. § (1) A Kártalanítási Alap kezelőjét megilletik mindazon jogok és terhelik mindazon kötelezettségek, amelyek a biztosítási szerződés vonatkozásában a felszámolás alatt álló biztosítót illették meg, illetve terhelték, továbbá az Alap kezelője megtérítést követelhet a felszámolás alatt álló biztosítótól.
+57/E. § (1) A Kártalanítási Alap kezelőjét megilletik mindazon jogok és terhelik mindazon kötelezettségek, amelyek a biztosítási szerződés vonatkozásában a felszámolás alatt álló biztosítót – a felszámolás elrendelését megelőzően – illették meg, illetve terhelték, továbbá az Alap kezelője megtérítést követelhet a felszámolás alatt álló biztosítótól.
 
 (2) Az Alap kezelője és a felszámolás alatt álló biztosító felszámolója a kártérítési igényének rendezése és a biztosítási szerződésekhez kapcsolódó követelések érvényesítése során együttműködnek, amelynek keretében a felszámoló köteles
 
