@@ -1,7 +1,7 @@
-## 13. §[^34] Ez a rendelet
+## 13. §[^37] Ez a rendelet
 
 a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelv 2. és 4. cikkének, valamint II. és III. mellékletének, valamint
 
 b) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 85/337/EGK irányelv módosításáról szóló, 1997. március 3-i 97/11/EK tanácsi irányelv 1. cikkének
 
-[^34]: A 13. §-t a 38/2011. (V. 18.) VM rendelet 3. §-a iktatta be.
+[^37]: A 13. §-t a 38/2011. (V. 18.) VM rendelet 3. §-a iktatta be.

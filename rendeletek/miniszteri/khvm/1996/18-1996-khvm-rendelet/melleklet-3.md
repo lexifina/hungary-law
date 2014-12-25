@@ -354,7 +354,7 @@
 
 ## 7. hidrológiai (egyesített rendszer esetén) hidraulikai és technológiai számítások.
 
-## III/A.[^36] A közműves szennyvízelvezető és tisztítóműbe történő bebocsátást megelőző előtisztítás esetén:
+## III/A.[^39] A közműves szennyvízelvezető és tisztítóműbe történő bebocsátást megelőző előtisztítás esetén:
 
 ## 1. Műszaki leírás
 
@@ -376,7 +376,7 @@
 
 ## f) jogszabályban meghatározott védőtávolságok, illetve az erre vonatkozó adatok;
 
-## g)[^37] a próbaüzemi előírások, a próbaüzemi, kezelési és karbantartási előírások, a próbaüzem alatt keletkező szennyvíz elhelyezésének rendezését is beleértve.
+## g)[^40] a próbaüzemi előírások, a próbaüzemi, kezelési és karbantartási előírások, a próbaüzem alatt keletkező szennyvíz elhelyezésének rendezését is beleértve.
 
 ## 2. Áttekintő helyszínrajz M: 1:5000 vagy 1:1000
 
@@ -434,9 +434,9 @@
 
 ## 5. az öntözőtelep műtárgyainak általános terve;
 
-## 6.[^38] a talajvédelmi terv.
+## 6.[^41] a talajvédelmi terv.
 
-## IV/A.[^39] A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendeletben meghatározott egynyári öntözés esetén:
+## IV/A.[^42] A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendeletben meghatározott egynyári öntözés esetén:
 
 ## 1. műszaki leírás:
 
@@ -770,106 +770,10 @@
 
 ## 6. Pontszerű létesítmények (így például kutak, szikkasztók, zárt gyűjtők, közműpótló létesítmények) esetében a létesítmény részlettervét, a vízgazdálkodási és a létesítményre vonatkozó műszaki paraméterek feltüntetésével.
 
-3. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^40]
+3. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^43]
 
-Szennyezőforrások ismertetése a tervdokumentációban
-
-----------------------
-
-Szennyezőforrás típusa
-
-A dokumentációnak tartalmaznia kell
-
-----------------------
-
-Kommunális
-
-– Csatornázott lakó- és egyéb beépített területek
-
-– Csatornázott területek
-
-A csatornázott terület, lakosszám, szennyvíztisztító, a tisztított szennyvíz befogadója, a szennyvíziszap tárolási és elhelyezési területe A csatornázás nélküli lakó- és egyéb beépített területek, lakosszám, a zárt szennyvíztárolók helye, működésének megbízhatósága, adatok a szennyvíz rendszeres elszállításáról (az összes keletkezett és a tárolóba jutott szennyvíz, valamint az elszállított mennyiség összehasonlítása) A szippantott szennyvíz elhelyezése A szennyvízszikkasztások bemutatása (a szikkasztás helye, módja, az elszikkasztott szennyvíz becsült mennyisége és minősége, a szikkasztóművek állapota)
-
-– Hulladékelhelyezés
-
-A hulladéklerakók helye, az eddig elhelyezett hulladékok mennyiségének közelítő meghatározása, a jelenleg érkező hulladékmennyiség becslése, a lerakó kiterjedése és üzemeltetési módja Építési hulladék lerakásának helye (ha nem a kommunális hulladék lerakóban történik)
-
-– Temető
-
-Helye, kiterjedése
-
-Ipar
-
-– Föld alatti tárolótartályok
-
-Helye, a tárolt anyag mennyiségének és minőségének meghatározása, a tárolók állapota, állapotellenőrzésének rendje, eddigi meghibásodások, kiszivárgott anyag mennyisége
-
-– Folyadékszállító vezetékek
-
-Helyük, szállított anyag, meghibásodások
-
-– Ipari üzemek hulladék elhelyezése (ideértve az ipari szennyvizeket is)
-
-Helye, az elhelyezett hulladék (szennyvíz) mennyisége és minősége, az elhelyezés rendszere, szakszerűsége a vízvédelem szempontjából
-
-– ipari nyersanyagok feldolgozó és tárolóhelyei
-
-Tárolás és feldolgozás módja, a kimutathatóan a felszín alá kerülő anyagveszteség becslése, szállítási útvonalak, a jelenleg vagy korábban észlelt szennyeződések, rendkívüli szennyezések és azok elhárítására tett intézkedések
-
-Mezőgazdaság
-
-– Öntözés
-
-Kiskertekben, mezőgazdasági területen, az öntözővíz eredet (az esetleges szennyvíz- vagy hígtrágyaöntözés részletes bemutatása)
-
-– Vegyszerhasználat
-
-Az érintett területek, a követett gyakorlat ismertetése (ideértve a rendszeresen alkalmazott anyagok, mennyiségük és kiadagolási technológiájuk meghatározását)
-
-– Vegyszerek tárolóhelyei
-
-Tárolás módja, a kimutathatóan a felszín alá kerülő anyagveszteség becslése, szállítási útvonalak, jelenleg vagy korábban észlelt szennyeződések, rendkívüli szennyeződések és azok elhárítására tett intézkedések
-
-– Állattartás, állattenyésztés
-
-Az érintett terület, rendszerek és létesítmények ismertetése, a trágya- és szennyvízelhelyezés módja (beleértve a legeltetést is), különös tekintettel a hígtrágya elhelyezés és tárolás létesítményeinek kialakítására, a veszélyeztetés értékelésére, az esetlegesen elszivárgó anyagok mennyiségének és minőségének becslésére
-
-Közlekedés
-
-Autópályák, utak, parkolók, üzemanyagtöltő állomások, gépkocsimosó-, javító műhelyek, sódepónia, vasút, vasúti létesítmények bemutatása, értékelése. Az alkalmazott technológia, vegyszerhasználatok, -tárolás, jelenleg vagy korábban észlelt szennyeződések, rendkívüli szennyezések és azok elhárítására tett intézkedések
-
-Bányászat
-
-– Bányák (külszíni és mélyművelésű)
-
-= működő bányák
-
-Helye, kiterjedése, művelési technológia, külszíni bányáknál a legmélyebb szint meghatározását a felszín alatti víz szintjéhez képest, a mélyművelésű bányáknál az érintett mélységköz, a műveléshez, illetve a gépek működtetéséhez használt üzemanyagok, különféle vegyi anyagok fajtái, mennyisége
-
-= felhagyott bányák
-
-Helyük, kiterjedésük, állapotuk értékelése, az eddigi rekultiváció módjával együtt, felhagyott külszíni bányáknál a bányatavak állapota, víz- és üledékminőségének meghatározása az esetleges meglévő vagy tervezett hasznosítás módjával együtt A mélyművelésű bányák vízfelengedésének üteme, mennyiségi és minőségi hatásai (a bányában hagyott szennyező anyagok és lehetséges mobilizálódásuk)
-
-Egyéb
-
-– Terepmélyedések, vizenyős területek
-
-Annak felderítésével, hogy nem gyűlik-e össze ilyen területeken szennyezőanyagokat tartalmazó víz
-
-– Vízfolyások
-
-Annak felderítésével, hogy ezekből nem szivároghat-e szennyezett felszíni víz a felszín alá
-
-= állandó
-
-= időszakos
-
-– Használatban lévő és használaton kívüli fúrások, kutak
-
-A műszaki-hidrológiai dokumentációk alapján értékelve a vízzáró képződmények harántolásával okozott veszélyt, különösen állagromlás esetén
-
-[^36]: A 2. számú melléklet III/A. pontját a 39/2001. (XI. 23.) KöViM rendelet 1. §-a iktatta a szövegbe.
-[^37]: A 2. számú melléklet III/A. pontjának 1.g) alpontja a 21/2002. (IV. 25.) KöViM rendelet 14. §-a (7) bekezdésének b) pontjával megállapított szöveg.
-[^38]: A 2. számú melléklet IV. pont 6. alpontja a 109/2012. (X. 15.) VM rendelet 1. §-ával megállapított szöveg.
-[^39]: A 2. számú melléklet IV/A. pontját a 109/2012. (X. 15.) VM rendelet 1. §-a iktatta be.
-[^40]: Az újabb 3. számú melléklet a 123/1997. (VII. 18.) Korm. rendelet 6. számú melléklete alapján került beiktatásra.
+[^39]: A 2. számú melléklet III/A. pontját a 39/2001. (XI. 23.) KöViM rendelet 1. §-a iktatta a szövegbe.
+[^40]: A 2. számú melléklet III/A. pontjának 1.g) alpontja a 21/2002. (IV. 25.) KöViM rendelet 14. §-a (7) bekezdésének b) pontjával megállapított szöveg.
+[^41]: A 2. számú melléklet IV. pont 6. alpontja a 109/2012. (X. 15.) VM rendelet 1. §-ával megállapított szöveg.
+[^42]: A 2. számú melléklet IV/A. pontját a 109/2012. (X. 15.) VM rendelet 1. §-a iktatta be.
+[^43]: Az újabb 3. számú melléklet a 123/1997. (VII. 18.) Korm. rendelet 6. számú melléklete alapján került beiktatásra.
