@@ -1,0 +1,1 @@
+190. § Ha másik tagállam érintett felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy a területén székhellyel rendelkező biztosító ellen felszámolási vagy azzal egy tekintet alá eső eljárás indult, a Felügyelet honlapján tájékoztatót tesz közzé az eljárás megindításáról és annak gyakorlati következményeiről.

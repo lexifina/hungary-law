@@ -1,0 +1,3 @@
+## 115. A másik tagállamban székhellyel rendelkező biztosító magyarországi fióktelepének, vagy Magyarországon határon átnyúló szolgáltatás keretében végzett tevékenységének felügyeletével kapcsolatos szabályok
+
+288. § A Felügyelet nem rendszeres tájékoztatást kérhet a másik tagállamban székhellyel rendelkező biztosító magyarországi fióktelepétől vagy a Magyarországon határon átnyúló szolgáltatás keretében végzett tevékenységével összefüggésben a másik tagállamban székhellyel rendelkező biztosítótól a terjesztett biztosítási szerződési feltételekről és az ezzel összefüggő dokumentumokról annak igazolására, hogy azok megfelelnek a biztosítási szerződésekre vonatkozó jogszabályoknak.

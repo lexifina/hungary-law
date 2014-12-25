@@ -1,0 +1,1 @@
+73. § A biztosító vagy a viszontbiztosító vezető állású személyei, egyéb vezetői mindenkor a beosztásukkal járó fokozott szakmai követelményeknek megfelelően, elvárható gondossággal és szakértelemmel, a biztosító vagy a viszontbiztosító és az ügyfelek érdekeinek figyelembevételével, a jogszabályok szerint járnak el.

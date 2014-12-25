@@ -1,0 +1,1 @@
+386. § A Ptk. 6:298. §-ában meghatározott kártalanítás a biztosítóval fennálló jogviszony alapján biztosításközvetítői tevékenységet végző ügynököt kizárólag az erre irányuló, a biztosítóval írásban megkötött megállapodás esetében illeti meg, a megkötött megállapodás feltételei szerint.

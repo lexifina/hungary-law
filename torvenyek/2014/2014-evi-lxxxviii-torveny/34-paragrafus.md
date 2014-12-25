@@ -1,0 +1,3 @@
+34. § (1) Ha a Bizottság egy harmadik ország szavatolótőke-megfelelési rendszerét egyenértékűnek tekinti a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben meghatározott rendszerrel, akkor az adott harmadik országbeli viszontbiztosítóval kötött viszontbiztosítási szerződéseket ugyanúgy kell kezelni, mint az Európai Unióban székhellyel rendelkező viszontbiztosítóval kötött viszontbiztosítási szerződéseket.
+
+(2) Az (1) bekezdésben foglalttal azonos elbánásban részesülnek az olyan harmadik országbeli viszontbiztosítóval kötött viszontbiztosítási szerződések, amelyek székhelye olyan harmadik országban található, amelynek szavatolótőke-megfelelési rendszerét a Bizottság ideiglenesen egyenértékűnek minősítette.

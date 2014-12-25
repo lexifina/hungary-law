@@ -1,0 +1,3 @@
+330. § (1) A Felügyelet megállapodást köthet egy olyan másik tagállamban lévő tagállami anyavállalat felügyeleti hatóságával, amely a tagállami anyavállalatára alkalmazza a csoportfelügyelet szabályait, ha a Felügyelet által felügyelt és a másik tagállamban székhellyel rendelkező tagállami szintű anyavállalat részesedési viszonyban áll egymással.
+
+(2) Ha a Felügyelet és egy másik felügyeleti hatóság az (1) bekezdésben rögzített megállapodást kötött, akkor a megállapodásban rögzítik, hogy a két tagállami anyavállalat közül melyik esetében végzik el a csoportfelügyeleti feladatokat, figyelemmel a 329. § (3)–(8) bekezdésében foglaltakra.

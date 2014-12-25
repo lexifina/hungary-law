@@ -1,0 +1,21 @@
+## 196. Az Európai Unió jogának való megfelelés
+
+453. § Ez a törvény
+
+1. a pénzügyi konglomerátumhoz tartozó hitelintézetek, biztosítóintézetek és befektetési vállalkozások kiegészítő felügyeletéről, valamint a 73/239/EGK, a 79/267/EGK, a 92/49/EGK, a 92/96/EGK, a 93/6/EGK és a 93/22/EGK tanácsi irányelvek, illetve a 98/78/EK és 2000/12/EK európai parlamenti és tanácsi irányelvek módosításáról szóló 2002. december 16-i 2002/87/EK európai parlamenti és tanácsi irányelvnek,
+
+2. az Európai Gazdasági Közösség és a Svájci Államszövetség között az életbiztosítás körén kívüli közvetlen biztosításokra vonatkozó megállapodás végrehajtásáról szóló 1991. június 20-i 91/371/EGK tanácsi irányelvnek,
+
+3. a biztosítási közvetítésről szóló 2002. december 9-i 2002/92/EK európai parlamenti és tanácsi irányelvnek,
+
+4. a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról szóló 2004. december 13-i 2004/113/EK tanácsi irányelvnek,
+
+5. a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2010. november 24-i 2010/78/EU európai parlamenti és tanácsi irányelvnek,
+
+6. a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról szóló 2011. november 16-i 2011/89/EU európai parlamenti és tanácsi irányelvnek,
+
+7. a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II) szóló 2009. november 25-i 2009/138/EK európai parlamenti és tanácsi irányelvnek,
+
+8. a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 1094/2010/EU és az 1095/2010/EU rendeletnek az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2014. április 16-i 2014/51/EU európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.

@@ -1,0 +1,1 @@
+80. § A belső ellenőrzési feladatkör kivételével minden feladatkör az igazgatóság irányítása alatt működik, és a feladatkört ellátó személy – a szervezeti felépítés sajátosságainak figyelembevételével – az igazgatóságnak számol be, szükség esetén együttműködik a többi feladatkört ellátó személlyel feladatai ellátása érdekében.

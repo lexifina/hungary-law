@@ -1,0 +1,3 @@
+151. § (1) A 150. § (1) bekezdésében meghatározott Adatbázist a biztosítók abban az esetben hozhatják létre, ha a 150. § (1) bekezdésében meghatározott biztosítási ágazatokat művelő biztosítók megállapodást megelőző piaci részesedés szerint számított kétharmada megállapodik az adatbázis létrehozásáról, a működésében történő részvétel feltételeiről és az Adatbázis fenntartásával kapcsolatos költségek fedezetéről.
+
+(2) Az adatbázis létrehozásának további feltétele, hogy az Adatbázisba adatot szolgáltató biztosítók az Adatbázisba továbbított adatok továbbításának és lekérdezésének lehetőségét az érintett szerződések feltételeiben meghatározzák.

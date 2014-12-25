@@ -1,0 +1,1 @@
+246. § Ha a biztosító vagy a viszontbiztosító a szavatolótőke-szükséglet fedezetét biztosító, figyelembe vehető szavatoló tőkét belső modell alkalmazásával számítja ki, a tevékenységi engedély megadására az ügyintézési határidő hat hónap.
