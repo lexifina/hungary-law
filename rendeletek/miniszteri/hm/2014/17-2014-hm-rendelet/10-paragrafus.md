@@ -2,12 +2,9 @@
 
 ## 10. § Hatályát veszti az R.
 
-a) 44/C. § (1) bekezdésében és 44/D. § (1) bekezdésében az „és a 44/B. § szerinti költségtérítés együttes” szövegrész,
+a)–c)[^9]
 
-b) 44/C. § (3) bekezdésében az „ , illetve a 44/B. § szerinti költségtérítés” szövegrész,
+d)[^10]
 
-c) 44/D. § (1) bekezdésében az „és a 44/B. § szerinti költségtérítésre” szövegrész,
-
-d)[^4]
-
-[^4]: A 10. § d) pontja a 11. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^9]: A 10. § a)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 10. § d) pontja a 11. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
