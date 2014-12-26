@@ -4,9 +4,9 @@
 
 ## Nyilvántartások
 
-58. § (1) A szakmai kamarák adatfeldolgozóként vezetik az építészeti-műszaki tervezői, településtervezői, településrendezési szakértői, építésügyi műszaki szakértői, építésügyi igazgatási szakértői, beruházáslebonyolítói, energetikai tanúsítói, építési műszaki ellenőri, felelős műszaki vezetői jogosultsággal rendelkező természetes és jogi személyek egységes elektronikus névjegyzéki hatósági nyilvántartását.
+58. § (1) A szakmai kamarák vezetik az építészeti-műszaki tervezői, településtervezői, településrendezési szakértői, építésügyi műszaki szakértői, energetikai tanúsítói, építési műszaki ellenőri, felelős műszaki vezetői jogosultsággal rendelkező természetes és jogi személyek egységes elektronikus névjegyzéki hatósági nyilvántartását.
 
-(2) A Magyar Kereskedelmi és Iparkamara adatfeldolgozóként vezeti az építőipari kivitelezési tevékenységet folytatók elektronikus regisztrációjának hatósági nyilvántartását az alábbi személyesadat-tartalommal:
+(2) A Magyar Kereskedelmi és Iparkamara vezeti az építőipari kivitelezési tevékenységet folytatók elektronikus regisztrációjának hatósági nyilvántartását az alábbi személyesadat-tartalommal:
 
 a) építőipari kivitelező vállalkozó neve, címe, valamint jogi személy vagy jogi személyiség nélküli szervezet esetén a cég tulajdonosa vagy vezető tisztségviselője vagy képviseletére jogosult természetes személy neve, lakóhelye,
 
@@ -24,7 +24,7 @@ ac) az építési-műszaki ellenőri tevékenység,
 
 ad) a felelős műszaki vezetői tevékenység,
 
-ae) építésügyi igazgatási szakértői tevékenység,
+ae)
 
 af) a településtervezői tevékenység,
 
@@ -50,7 +50,7 @@ da) a jogosultságának igazolását kérő személy,
 
 db) az építőipari kivitelezői névjegyzékbe (elkülönített névjegyzékbe) vételét bejelentő egyéni vállalkozó vagy gazdasági társaság,
 
-dc) a beruházáslebonyolítói tevékenység folytatására bejelentést tevő személy,
+dc)
 
 dd) az energetikai tanúsítói tevékenység folytatására bejelentést tevő személy.
 
@@ -76,7 +76,7 @@ c) az egyéb szakmai feladatok ellátásához, kötelezettségek teljesítéséh
 
 a) építtető, kötelezett,
 
-b) beruházáslebonyolító,
+b)
 
 c) építési műszaki ellenőr,
 
@@ -90,7 +90,7 @@ g) településrendezési szakértő,
 
 h)
 
-i) építésügyi igazgatási szakértő,
+i)
 
 j) építésügyi műszaki szakértő,
 
@@ -127,3 +127,5 @@ tartalmazza.
 (12) A szakmai kamara, továbbá a Magyar Kereskedelmi és Iparkamara a (11) bekezdésben meghatározott értesítés vagy kormányrendeletben meghatározott nemfizetési jelzés alapján – az 52. § (3) bekezdésben foglalt alapelvek figyelembe vétele mellett – a (11) bekezdésben meghatározott jogkövetkezményt alkalmazhat, mely a kamarák nyilvántartásának közérdekből nyilvános részét képezik.
 
 (13) A bíróság a (11) bekezdésben foglalt értesítést az ítélet kihirdetésétől számított 15 napon belül elektronikus úton megküldi a Nyilvántartás számára.
+
+(14) A Nyilvántartás működtetéséhez szükséges állami ingatlan-nyilvántartási térképi adatbázis adatait annak jogszabályban kijelölt szolgáltatója térítésmentesen biztosítja.

@@ -14,6 +14,6 @@ b) amennyiben ennek az információtechnológiai feltételei fennállnak, a tele
 
 c) az egyes ingatlanokkal kapcsolatos településrendezési követelményekről adandó tájékoztatásról.
 
-(5) Az államigazgatási szerv az (1) bekezdés szerinti jogszabályban meghatározott, a településrendezési eszköz elkészítéséhez, illetve megállapításához szükséges adatszolgáltatásért, valamint a (2) bekezdés szerinti jogszabályban meghatározott véleményezési eljárásban a véleményezésért és az egyeztető tárgyaláson való részvételért díjat nem számíthat fel.
+(5) Az államigazgatási szerv az (1) bekezdés szerinti jogszabályban meghatározott, a településfejlesztési koncepció, az integrált településfejlesztési stratégia és a településrendezési eszköz elkészítéséhez, illetve megállapításához szükséges adatszolgáltatásért, valamint a (2) bekezdés szerinti jogszabályban meghatározott véleményezési eljárásban a véleményezésért és a településrendezési eszköz egyeztető tárgyalásán való részvételért díjat nem számíthat fel.
 
 (6) Az államigazgatási szervnek a hatályos jogszabályba foglalt településrendezési eszközöket a hatáskörükbe tartozó ügyekben alkalmazniuk kell.

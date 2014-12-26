@@ -20,8 +20,8 @@ e) az építmény környezetéből az építési tevékenység során keletkezet
 
 f) energetikai tanúsítvány elkészíttetését.
 
-(3) Az építésügyi hatóság megkeresésére az ingatlan-nyilvántartásba az (1)–(2) bekezdés szerint elrendelt jogerős és végrehajtható kötelezettséget be kell jegyezni.
+(3) Az építésügyi vagy építésfelügyeleti hatóság megkeresésére az ingatlan-nyilvántartásba az (1)–(2) bekezdés, valamint a 46. § (3) bekezdés e) pont eb) alpontja szerint elrendelt jogerős és végrehajtható kötelezettséget be kell jegyezni.
 
-(4) Az építésügyi hatóság, amennyiben a végrehajtható kötelezettséget – annak nem teljesítése miatt a kötelezett terhére hatósági úton, a felmerülő költségeket megelőlegezve – maga végezteti el, a költségek erejéig, azok megtérítéséig az érintett ingatlanra jelzálogjogot jegyeztethet be az ingatlan-nyilvántartásba.
+(4) Az építésügyi vagy építésfelügyeleti hatóság, amennyiben a végrehajtható kötelezettséget – annak nem teljesítése miatt a kötelezett terhére hatósági úton, a felmerülő költségeket megelőlegezve – maga végezteti el, a költségek erejéig, azok megtérítéséig az érintett ingatlanra jelzálogjogot jegyeztethet be az ingatlan-nyilvántartásba.
 
 (5)

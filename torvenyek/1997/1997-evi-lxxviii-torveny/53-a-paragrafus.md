@@ -1,6 +1,6 @@
 ## Az építésügyi és építésfelügyeleti hatósági eljárás szabályai
 
-53/A. § (1) az építésügyi hatósági engedélyezési eljárásban az ügyfél az engedély kérelmet elektronikusan is benyújthatja.
+53/A. § (1) A kormányrendeletben meghatározott építésügyi vagy építésfelügyeleti eljárásban az ügyfél a kérelmet elektronikusan is benyújthatja.
 
 (2) Az építésügyi hatósági engedélyezési eljárásban az építésügyi hatóság és az eljáró szakhatóság az eljárást és annak eljárási cselekményeit elektronikus ügyintézés keretében folytatja le. A megkeresett szakhatóság elektronikus úton küldi meg állásfoglalását az építésügyi hatóság számára.
 

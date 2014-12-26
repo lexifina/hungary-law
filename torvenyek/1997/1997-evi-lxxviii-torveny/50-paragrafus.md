@@ -6,7 +6,7 @@ a) az építésfelügyeleti és építésügyi hatósági tevékenységgel kapcs
 
 b) a hatósági végrehajtási eljárás,
 
-c) a településrendezési feladatok,
+c) a településfejlesztési és a településrendezési feladatok,
 
 d) minőségügyi, szabványosítási feladatok,
 
