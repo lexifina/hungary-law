@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-64-00-00
 | 2011-03-30 | 2011. évi XXIX. törvény | 2005-64-00-00.4 |
 | 2011-09-01 | 2011. évi LXXXVIII. törvény | 2005-64-00-00.5 |
 | 2013-01-01 | 2012. évi CLVII. törvény | 2005-64-00-00.6 |
+| 2014-12-26 | 2014. évi XCVIII. törvény | 2005-64-00-00.7 |
