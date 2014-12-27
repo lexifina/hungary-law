@@ -4,14 +4,20 @@
 
 17. § (1) A tanúsító szervezet a gazdasági szereplő tanúsító szervezet váltását nem korlátozhatja.
 
-(2) A gazdasági szereplő a tanúsító szervezet váltása iránti kérelmét egyidejűleg csak egy tanúsító szervezethez nyújthatja be. Az újonnan választott tanúsító szervezethez benyújtott kérelemben meg kell jelölni azt a tanúsító szervezetet, amelynek tanúsítása alatt a gazdasági szereplő áll.
+(2)[^32] A gazdasági szereplő tanúsító szervezet váltásra vonatkozó kérelmét egyidejűleg csak egy tanúsító szervezethez adhatja be.
 
-(3) Tanúsító szervezet váltása érdekében a gazdasági szereplő kérelmezi a tanúsító szervezettől a státuszigazolás kiállítását, amely kérelemben megjelöli az újonnan választott tanúsító szervezetet. A gazdasági szereplő ezzel egyidejűleg megküldi a tanúsító szervezet váltása iránti kérelmét az újonnan választott tanúsító szervezetnek.
+(3)[^33] A gazdasági szereplő a tanúsító szervezet váltására vonatkozó kérelmét megküldi a tanúsító szervezetének és az újonnan választott tanúsító szervezetnek. A tanúsító szervezetnek küldött kérelemben meg kell jelölni az újonnan választott tanúsító szervezetet. Az újonnan választott tanúsító szervezetnek küldött kérelemben meg kell jelölni azt a tanúsító szervezetet, amelynek tanúsítása alatt a gazdasági szereplő áll.
 
-(4) A tanúsító szervezet a státuszigazolást az erre irányuló kérelem kézhezvételétől számított tizenöt napon belül állítja ki a gazdasági szereplő számára a 3. melléklet szerinti adattartalommal. A tanúsító szervezet a státuszigazolás kiállítását megelőzően helyszíni ellenőrzést végez, amennyiben a 834/2007/EK tanácsi rendelet 27. cikke szerinti éves ellenőrzés és a státuszigazolás kiállítására irányuló kérelem benyújtása között hatvan napnál hosszabb idő telt el.
+(4)[^34] A tanúsító szervezet az ellenőrzési dosszié releváns elemeit [így különösen a 889/2008/EK bizottsági rendelet 63. cikk (1) bekezdése szerinti dokumentumokat és (2) bekezdése szerinti nyilatkozatokat, a tanúsító szervezet által az utolsó három évben végzett ellenőrzésekről készült jelentéseket és értékelési jelentéseket, valamint az utolsó három évben kiadott és visszavont tanúsítványokat], továbbá a 889/2008/EK bizottsági rendelet 63. cikk (2) bekezdésében említett jelentéseket a gazdasági szereplő tanúsító szervezet váltására vonatkozó kérelmének kézhezvételétől számított tizenöt napon belül elektronikus és postai úton tértivevényes szolgáltatással megküldi az újonnan választott tanúsító szervezetnek.
 
-(5) A tanúsító szervezet az általa tanúsított gazdasági szereplőtől a státuszigazolás kiállítását kizárólag a tanúsítási szerződésben meghatározott díjak kiegyenlítésének elmaradása, illetve az Öko rendelkezések megsértésének gyanúja miatt folyamatban levő hatósági eljárások esetén tagadhatja meg.
+(5)[^35] A tanúsító szervezet a (4) bekezdésben megállapított határidőn belül díj- és költségmentesen helyszíni ellenőrzést végez a gazdasági szereplőnél, amennyiben a 834/2007/EK tanácsi rendelet 27. cikke szerinti éves ellenőrzés és a tanúsító szervezet váltására vonatkozó kérelem benyújtása között hatvan napnál hosszabb idő telt el. Amennyiben minta vétele esetén a laboratóriumi vizsgálat nem megfelelőséget mutat, a 14. § (3) bekezdését kell alkalmazni.
 
-(6) A státuszigazolást az azt kiállító tanúsító szervezet a kiállítását követően haladéktalanul megküldi elektronikus úton és postai úton tértivevényes szolgáltatással a gazdasági szereplőnek és az újonnan választott tanúsító szervezetnek.
+(6)[^36] A tanúsító szervezet a (4) bekezdés szerinti dokumentumok megküldését kizárólag a tanúsítási szerződésben meghatározott díjak kiegyenlítésének elmaradása, illetve az Öko rendelkezések megsértésének gyanúja miatt folyamatban levő hatósági eljárások esetén tagadhatja meg.
 
 (7) A tanúsító szervezet által a gazdasági szereplő számára kiállított tanúsítvány a tanúsítási szerződés megszűnéséig érvényes.
+
+[^32]: A 17. § (2) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
+[^33]: A 17. § (3) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
+[^34]: A 17. § (4) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
+[^35]: A 17. § (5) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
+[^36]: A 17. § (6) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.

@@ -1,3 +1,5 @@
+## szerinti fogalom-meghatározásokat kell figyelembe venni.
+
 ## 2. A tanúsító szervezet elismerése
 
 3. § (1) Tanúsító szervezetként az működhet, akit a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) a 834/2007/EK tanácsi rendelet 27. cikk (4) bekezdés b) pontjára tekintettel a gazdasági szereplőknél ellenőrzést és tanúsítást végző tanúsító szervezetként elismer.
@@ -8,9 +10,9 @@
 
 a) a tanúsító szervezet Minőségügyi Kézikönyvét és a hozzá tartozó minőségügyi eljárások dokumentumait, amelyeknek tartalmaznia kell legalább
 
-aa) a tanúsító szervezet által a tanúsítási rendszerében részt vevő gazdasági szereplőkkel szemben támasztott követelményrendszert,
+aa)[^4] a tanúsítási rendszerében részt vevő gazdasági szereplőkkel szemben támasztott követelményrendszert, amennyiben a tanúsító szervezet ilyet alkalmaz,
 
-ab) a mintavétel, illetve a laboratóriumi vizsgálat rendjét,
+ab)[^5] a mintavétel rendjét, a minta tárolására vonatkozó előírásokat és a laboratóriumi vizsgálat módját,
 
 ac) az ellenőrzés és a tanúsítás rendjét,
 
@@ -26,8 +28,15 @@ ah) a gazdasági szereplők nyilvántartási rendszerét,
 
 ai) az Öko rendelkezések megsértése esetén a gazdasági szereplőnél alkalmazandó eljárásokat,
 
+aj)[^6] a tanúsító szervezetek közötti információk cseréjére szolgáló eljárásokat,
+
 b) az ellenőrzésért és tanúsításért felelős személyek végzettségének és szakmai gyakorlatának igazolását,
 
-c) az EN 45011 vagy ISO 65 „Terméktanúsítási rendszereket működtető szervezetekre vonatkozó általános követelmények” szabvány (a továbbiakban: EN 45011 vagy ISO 65 szabvány) alapján történő akkreditációról szóló igazolást,
+c)[^7] a terméktanúsítási rendszereket működtető szervezetekre vonatkozó általános követelményeket megállapító szabvány szerinti akkreditált státuszt igazoló dokumentum másolatát,
 
 d) amennyiben a helyszíni ellenőrzés alkalmával vett minták vizsgálatához nem rendelkezik az EN 17025 ISO IEC szabvány szerint akkreditált laboratóriummal, egy arra akkreditált laboratóriummal kötött szerződés másolatát.
+
+[^4]: A 3. § (3) bekezdés a) pont aa) alpontja a 34/2014. (XII. 12.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (3) bekezdés a) pont ab) alpontja a 34/2014. (XII. 12.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (3) bekezdés a) pont aj) alpontját a 34/2014. (XII. 12.) FM rendelet 4. § (2) bekezdése iktatta be.
+[^7]: A 3. § (3) bekezdés c) pontja a 34/2014. (XII. 12.) FM rendelet 4. § (3) bekezdésével megállapított szöveg.

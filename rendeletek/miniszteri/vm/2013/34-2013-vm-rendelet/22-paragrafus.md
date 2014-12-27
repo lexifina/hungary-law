@@ -1,5 +1,3 @@
-22. § (1) A NÉBIH engedélyezi a 21. § (1) bekezdése szerinti termékek behozatalát, amennyiben az adott termék termelése és ellenőrzése megfelel a 834/2007/EK tanácsi rendelet követelményeinek.
+## 21. §[^40]
 
-(2) A harmadik országokból behozott ökológiai termékek szabad forgalomba bocsátásának feltétele az ellenőrzési okirat 17. rovatának hitelesítése.
-
-(3) Az ellenőrzési okirat 17. rovatát a 23. § c) pontja szerint kijelölt szervek hitelesítik, amennyiben Magyarország az Európai Unió területére történő belépés helye.
+[^40]: A 21. §-t a 34/2014. (XII. 12.) FM rendelet 22. § a) pontja hatályon kívül helyezte.

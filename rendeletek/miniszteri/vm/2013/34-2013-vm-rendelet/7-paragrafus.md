@@ -4,16 +4,14 @@
 
 (2) A tanúsító szervezet a többéves terv kockázat alapú megközelítésre vonatkozó alapelveihez igazodó kockázatelemzés és értékelés alapján éves tervet készít.
 
-(3) Az éves terv tartalmazza
+(3)[^15] Az éves terv tartalmazza
 
-a) a kockázatbecslés alapján kijelölt gazdasági szereplő azonosító adatait,
+a) a kockázatbecslés alapján helyszíni ellenőrzésre kijelölt gazdasági szereplő azonosító adatait,
 
 b) a gazdasági szereplő tevékenységi körét,
 
-c) a helyszíni ellenőrzés és mintavétel tervezett időpontját,
-
-d) a mintázandó termékköröket és termékeket, a mintaszámot, és
-
-e) a tervezett laboratóriumi vizsgálati irányokat.
+c) a kockázatbecslés alapján tervezett mintaszámot, a mintázandó termékköröket, termékeket és a tervezett laboratóriumi vizsgálati irányokat.
 
 (4) Az éves tervet a tanúsító szervezet tárgyév január 15-ig megküldi a NÉBIH-nek jóváhagyásra. A jóváhagyott éves terv az Éltv. 32. § (1) bekezdés j) pontja szerinti éves ellenőrzési terv részét képezi.
+
+[^15]: A 7. § (3) bekezdése a 34/2014. (XII. 12.) FM rendelet 6. §-ával megállapított szöveg.

@@ -10,6 +10,9 @@ c) tanúsító szervezet: a 834/2007/EK tanácsi rendelet 2. cikk p) pontja szer
 
 d) tanúsítvány: a 834/2007/EK tanácsi rendelet 29. cikk (1) bekezdése szerinti igazolás,
 
-e)[^1] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+e)[^1] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
+
+f)[^2] régió: Magyarország és a vele határos országok területe.
 
 [^1]: A 2. § e) pontját a 22/2014. (III. 14.) VM rendelet 91. §-a iktatta be.
+[^2]: A 2. § f) pontját a 34/2014. (XII. 12.) FM rendelet 2. §-a iktatta be.

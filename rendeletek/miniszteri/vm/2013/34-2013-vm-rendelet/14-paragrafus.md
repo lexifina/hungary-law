@@ -1,4 +1,4 @@
-## 13. § A tanúsító szervezet a tanúsítási rendszerében elfogadja a gazdálkodó szervezet kérelmére a nem ökológiai termelési módszerrel előállított vetőmag használatát is, amennyiben azok a 889/2008/EK bizottsági rendelet rendelkezéseivel összhangban kerülnek felhasználásra.
+## 13/A. §[^22] Valamennyi ökológiai termelést, feldolgozást, forgalmazást végző gazdasági szereplő köteles a termelés, feldolgozás és forgalmazás minden szakaszában biztosítani az Öko rendelkezések alá tartozó élelmiszerek, takarmányok, vetőmagok, élelmiszertermelésre szánt állatok, továbbá élelmiszerbe, takarmányba bekerülő vagy vélhetően bekerülő egyéb anyagok útjának nyomonkövethetőségét oly módon, hogy azoknak az ökológiai gazdálkodásból történő származása igazolható legyen.
 
 ## 8. Az ellenőrzések rendszere, eljárás az Öko rendelkezések megsértése esetén
 
@@ -8,8 +8,14 @@ a) ellenőrzi a gazdasági szereplőknél az éves tervnek megfelelő gyakorisá
 
 b) az ellenőrzések során levett mintát a 3. § (3) bekezdés a) pont ab) alpontja szerinti laboratóriumi vizsgálati rendben meghatározott, a vizsgálati paramétereknek megfelelő időn, de legfeljebb két napon belül laboratóriumában megvizsgálja, illetve a vele szerződésben álló laboratóriumnak vizsgálat céljára átadja.
 
+(1a)[^23] Ha az (1) bekezdés b) pontja szerinti határidő vége munkaszüneti napra esik, a határidő a legközelebbi munkanapnak a határidő végével megegyező órájában jár le.
+
 (2) A tanúsító szervezetnek az (1) bekezdés szerinti mintavétel esetén a vizsgálati paramétereknek és a minta mátrixnak megfelelő tárolási és szállítási körülményeket biztosítania kell.
 
 (3) A tanúsító szervezet az (1) bekezdés a) pontjában megjelölt mintavételeket és laboratóriumi vizsgálatokat saját költségén végzi. Nem megfelelőség esetén a tanúsító szervezet a mintavétel és a laboratóriumi vizsgálat költségét a gazdasági szereplőre háríthatja.
 
-(4) A tanúsító szervezet az általa végzett ellenőrzések és mintavételek eredményéről a NÉBIH-et elektronikus úton haladéktalanul tájékoztatja.
+(4)[^24] A tanúsító szervezet az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vagy a növény- és talajvédelmi igazgatóság által az Öko rendelkezések megsértése, illetve az ökológiai termelésre utaló kifejezés jogosulatlan használata miatt elrendelt intézkedésekről – az erről szóló határozat kézhezvételét követően – haladéktalanul értesíti írásban (postai vagy elektronikus úton) a Mezőgazdasági és Vidékfejlesztési Hivatalt, amennyiben az ellenőrzési rendszerében részt vevő gazdasági szereplő olyan támogatási konstrukciót vesz igénybe, ahol a támogatás nyújtásának feltétele az Öko rendelkezések betartása.
+
+[^22]: A 13/A. §-t a 34/2014. (XII. 12.) FM rendelet 8. §-a iktatta be.
+[^23]: A 14. § (1a) bekezdését a 34/2014. (XII. 12.) FM rendelet 9. § (2) bekezdése iktatta be.
+[^24]: A 14. § (4) bekezdése a 34/2014. (XII. 12.) FM rendelet 9. § (3) bekezdésével megállapított szöveg.
