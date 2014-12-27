@@ -1,6 +1,6 @@
 ## Az engedélyezett termésnövelő anyag csomagolóeszközén, valamint a 100 kg nettó tömeget meghaladó ömlesztett áru kísérő okmányán feltüntetendő adatok
 
-## 1.[^66] Az engedély száma és hatálya.
+## 1.[^146] Az engedély száma és hatálya.
 
 ## 2. A termésnövelő anyag kereskedelmi neve (feltűnő helyen, egyértelműen, olvashatóan).
 
@@ -22,17 +22,25 @@
 
 ## 11. Tárolási előírások.
 
-## 12. Gyártási idő (év, hónap, nap), eltarthatóság.
+## 12.[^147] Gyártási idő (év, hónap, nap), eltarthatóság a gyártó által adott gyártási számot, vagy a tétel azonosítására alkalmas jelölést.
 
 ## 13. A termésnövelő anyag – kérelmező által megadott – vámtarifaszáma hat számjegyig.
 
-## 14.[^67] Garantált nettó tömeg vagy térfogat.
+## 14.[^148] Garantált nettó tömeg vagy térfogat.
 
 ## 15. Ha a termésnövelő anyag a veszélyes áruk szállításáról szóló (ADR/RID) szabályzatok hatálya alá esik, a termék UN száma és ADR/RID osztálya.
 
 ## 16. Egyéb előírások.
 
-## 4. számú melléklet függeléke[^68]
+## 17.[^149] A címkén feltüntetett kötelező információk legkisebb betűmérete:
+
+|  | A | B | C | D |
+
+| 1. | kiszerelés (kg vagy liter) | 0≤0,5 | 0,5<2 | 2≤ |
+
+| 2. | betűméret minimum | 8 | 10 | 12 |
+
+## 4. számú melléklet függeléke[^150]
 
 ## A tápelemek feltüntetésére vonatkozó előírások
 
@@ -96,6 +104,8 @@ e) kezelések adatai (dózis, koncentráció, fenofázis, kezelés módja, felha
 
 f) értékelési szempontok.
 
-[^66]: A 4. számú melléklet 1. pontja a 10/2010. (II. 4.) FVM rendelet 13. § (4) bekezdése szerint módosított szöveg.
-[^67]: A 4. melléklet 14. pontja a 42/2013. (V. 28.) VM rendelet 1. §-a szerint módosított szöveg.
-[^68]: A 4. számú melléklet függeléke a 72/2012. (VII. 24.) VM rendelet 9. § e) pontja szerint módosított szöveg.
+[^146]: A 4. számú melléklet 1. pontja a 10/2010. (II. 4.) FVM rendelet 13. § (4) bekezdése szerint módosított szöveg.
+[^147]: A 4. számú melléklet 12. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^148]: A 4. melléklet 14. pontja a 42/2013. (V. 28.) VM rendelet 1. §-a szerint módosított szöveg.
+[^149]: A 4. számú melléklet 17. pontját a 37/2014. (XII. 17.) FM rendelet 16. § (4) bekezdése iktatta be.
+[^150]: A 4. számú melléklet függeléke a 72/2012. (VII. 24.) VM rendelet 9. § e) pontja szerint módosított szöveg.

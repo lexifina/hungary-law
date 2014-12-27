@@ -1,13 +1,7 @@
-4/A. §[^10] (1) A veszélyes hulladéknak minősülő anyagok ártalmatlanításával keletkező alapanyagot tartalmazó termésnövelő anyagok esetén az engedélyező hatóság a hulladék minőségétől függő további vizsgálatokat ír elő.
+4/A. §[^24] (1) Hulladékot vagy mellékterméket tartalmazó termésnövelő anyagok esetén az engedélyező hatóság a hulladék és a melléktermék minőségétől függő további vizsgálatokat ír elő.
 
-(2)[^11] Termékcsalád engedélyezése esetén a 2. számú mellékletben előírt fizikai, kémiai és mikrobiológiai minősítő vizsgálatokat, valamint a toxikus elemek, a csírázásgátló és biológiai hatás vizsgálatát valamennyi termék esetében el kell végeztetni. A 2. számú mellékletben felsorolt további vizsgálatokat a közegészségügyi és környezeti kockázatot jelentő összetevőket legnagyobb arányban tartalmazó termék(ek)nél kell elvégeztetni.
+(2) Termékcsalád engedélyezése esetén a 2. számú mellékletben előírt vizsgálatokat az engedélyező hatósággal – a közegészségügyi és környezeti kockázatot jelentő alapanyagok alapján – előzetesen egyeztetett termékekkel kell elvégeztetni. Termékcsalád tagjainak az alapanyag százalékos összetételében el kell térniük egymástól.
 
-(3) Azokból a változó összetételű műtrágya termékcsaládokból, amelyek csak makro- vagy mezoelemeket tartalmaznak, legalább három, amelyek mikroelemeket is tartalmaznak, legalább öt, az engedélyező hatóság által kijelölt jellemző összetételű termék – 2. számú melléklet szerinti – fizikai, kémiai és toxikus elem vizsgálatát kell elvégeztetni.
+(3) Az engedélyezési eljárás során előírt további vizsgálatok esetén az engedélyező hatóság hatósági mintavételt írhat elő vagy mintát vehet.
 
-(4) Az engedélyező hatóság által már engedélyezett termésnövelő anyagokból keveréssel előállított termesztőközegek és műtrágyák esetében elegendő a termékcsalád egy termékének a 2. számú melléklet szerinti vizsgálata.
-
-(5)[^12]
-
-[^10]: A 4/A. §-t a 10/2010. (II. 4.) FVM rendelet 4. §-a iktatta be.
-[^11]: A 4/A. § (2) bekezdése a 72/2012. (VII. 24.) VM rendelet 9. § a) pontja szerint módosított szöveg.
-[^12]: A 4/A. § (5) bekezdését a 72/2012. (VII. 24.) VM rendelet 16. § a) pontja hatályon kívül helyezte.
+[^24]: A 4/A. §-t a 10/2010. (II. 4.) FVM rendelet 4. §-a iktatta be, szövege a 37/2014. (XII. 17.) FM rendelet 5. §-ával megállapított szöveg.

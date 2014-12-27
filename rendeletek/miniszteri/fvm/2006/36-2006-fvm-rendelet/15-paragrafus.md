@@ -1,3 +1,14 @@
-15. § (1) Lejárt szavatosságú készítmény a minőség ellenőrzése nélkül nem hozható forgalomba és nem használható fel. A vizsgálatot a forgalmazónak, illetve a felhasználónak kell elvégeztetnie. Amennyiben a minőség-ellenőrzési vizsgálatok eredményei alapján a készítmény eredeti rendeltetésének megfelelően nem használható fel, a készítményt hulladéknak kell tekinteni.
+## 14. §[^74] Import termékek esetében minden év január 31-ig az engedélyesnek nyilatkozni kell az első magyarországi forgalmazóról és a raktárakról. A nyilatkozatot az engedélyező hatóság részére kell benyújtani.
 
-(2) Az azonosíthatatlanná vált termék kezelésére a veszélyes hulladékokra vonatkozó jogszabály rendelkezéseit kell alkalmazni.
+15. §[^75] (1) Lejárt eltarthatósági idejű készítmény a minőség ellenőrzése nélkül nem hozható forgalomba A vizsgálatot a forgalmazónak, illetve a tétel tulajdonosának az engedélyokiratban előírt paraméterekre, akkreditált mintavételt követően akkreditált laboratóriumban kell elvégeztetnie.
+
+(2) Amennyiben a minőség-ellenőrzési vizsgálatok eredményei alapján a készítmény megfelel az engedélyokirat előírásainak, a megvizsgált tétel további 1 évig hozható forgalomba. A tétel tulajdonosa vagy a forgalmazó köteles a vizsgálattal kapcsolatos dokumentumokat kérésre a vevő vagy a hatósági ellenőrzés során az NTI rendelkezésére bocsátani.
+
+(3) Az engedélyben előírt hatóanyag-tartalom csökkenése esetén a termésnövelő anyag a mért hatóanyag tartalom feltüntetésével legfeljebb fél évig forgalomba hozható.
+
+(4) Ha a termék nem felel meg a 3. számú mellékletben meghatározott határértékeknek, vagy a termék csírázásgátló hatású akkor hulladékként kell kezelni.
+
+(5) Az azonosíthatatlanná vált termék és csomagoló anyag kezelésére a hulladékokra vonatkozó jogszabály rendelkezéseit kell alkalmazni.
+
+[^74]: A 14. § a 37/2014. (XII. 17.) FM rendelet 12. §-ával megállapított szöveg.
+[^75]: A 15. § a 37/2014. (XII. 17.) FM rendelet 12. §-ával megállapított szöveg.

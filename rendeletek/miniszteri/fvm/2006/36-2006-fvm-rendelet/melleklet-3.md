@@ -1,14 +1,14 @@
-3. számú melléklet a 36/2006. (V. 18.) FVM rendelethez[^65]
+3. számú melléklet a 36/2006. (V. 18.) FVM rendelethez[^145]
 
 ## Minőségi előírások a termésnövelő anyagokra
 
 1. MŰTRÁGYÁK
 
-1.1. A hatóanyagokra vonatkozó előírások
+1.1. A hatóanyagokra vonatkozó előírások (tápoldatok esetében az öntözővizekre vonatkozó vizsgálati módszerek alkalmazandók)
 
 A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó által megadott értékeknek.
 
-1.2. A toxikus elemekre vonatkozó előírások
+1.2. A toxikus elemekre vonatkozó előírások (tápoldatok esetében az öntözővizekre vonatkozó vizsgálati módszerek alkalmazandók)
 
 |  | As | Cd | Co | Cr | Hg | Ni | Pb | Se |
 
@@ -74,7 +74,7 @@ Ammónium-nitrát, illetve 80%-nál több ammónium-nitrátot tartalmazó műtr�
 
 – szárazanyag-tartalom (m/m%) legalább 40,0
 
-– szervesanyag-tartalom (m/m%) sz.a. legalább 50,0
+– szervesanyag-tartalom (m/m%) sz.a. legalább 40,0
 
 – szemcseméret eloszlás 25,0 mm alatt legalább 100,0
 
@@ -90,13 +90,13 @@ Ammónium-nitrát, illetve 80%-nál több ammónium-nitrátot tartalmazó műtr�
 
 2.2. A toxikus elemekre vonatkozó előírások
 
-|  | As | Cd | Co | Cr | Cu | Hg | Ni | Pb | Se |
+|  | As | Cd | Co | Cr | Hg | Ni | Pb | Se |
 
 | tartalom legfeljebb mg/kg szárazanyag |
 
-| Szerves trágyák | 10 | 2 | 50 | 100 | 100 | 1 | 50 | 100 | – |
+| Szerves trágyák | 10 | 2 | 50 | 100 | 1 | 50 | 100 | – |
 
-| Hulladékot is tartalmazó szerves trágyák | 10 | 2 | 50 | 100 | 100 | 1 | 50 | 100 | 5 |
+| Hulladékot is tartalmazó szerves trágyák | 10 | 2 | 50 | 100 | 1 | 50 | 100 | 5 |
 
 2.3. Szerves szennyezőkre vonatkozó előírások
 
@@ -120,9 +120,11 @@ Ammónium-nitrát, illetve 80%-nál több ammónium-nitrátot tartalmazó műtr�
 
 – Fekál streptococcus szám < 10 db/g vagy 10 db/ml
 
-– Salmonella sp. 2 × 10 g vagy ml negatív
+– Pseudomonas Aeruginosa szám < 10 db/g vagy < 10 db/ml
 
-– Humán parazita bélféreg peteszám 100 g vagy 100 ml negatív
+– Salmonella sp. negatív / 2 × 10 g vagy ml
+
+– Humán parazita bélféreg peteszám negatív 100 g vagy 100 ml
 
 3. ÁSVÁNYI TRÁGYÁK
 
@@ -132,13 +134,13 @@ A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó álta
 
 3.2. A toxikus elemekre vonatkozó előírások
 
-|  | As | Cd | Co | Cr | Cu | Hg | Ni | Pb | Se |
+|  | As | Cd | Co | Cr | Hg | Ni | Pb | Se |
 
 | tartalom legfeljebb mg/kg szárazanyag |
 
-| Ásványi trágyák | 10 | 2 | 50 | 100 | 100 | 1 | 50 | 100 | – |
+| Ásványi trágyák | 10 | 2 | 50 | 100 | 1 | 50 | 100 | – |
 
-| Hulladékot is tartalmazó ásványi trágyák | 10 | 2 | 50 | 100 | 100 | 1 | 50 | 100 | 5 |
+| Hulladékot is tartalmazó ásványi trágyák | 10 | 2 | 50 | 100 | 1 | 50 | 100 | 5 |
 
 3.3. A biológiai hatékonyság feleljen meg a gyártó által garantált hatásnak.
 
@@ -154,13 +156,15 @@ A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó álta
 
 – szárazanyag-tartalom (m/m%) legalább 50,0
 
-– szervesanyag-tartalom (m/m%) sz.a. legalább 25,0
+– szervesanyag-tartalom (m/m%) sz.a. legalább 25,0 *
 
 – vízben oldható összes sótartalom (m/m%) sz.a. legfeljebb 4,0
 
 – szemcseméret eloszlás 25,0 mm alatt legalább 100,0
 
 – N-tartalom (m/m%) sz.a. legalább 1,0
+
+– gombakomposztok esetében legalább 20 m/m%
 
 – P2O5-tartalom (m/m%) sz.a. legalább 0,5
 
@@ -180,7 +184,7 @@ komposztok N-tartalma (m/m%) sz. a. legalább 0,5
 
 | tartalom legfeljebb mg/kg szárazanyag |
 
-| Komposztok | 10 | 2 | 50 | 100 | 100 | 1 | 50 | 100 | 5 |
+| Komposztok | 10 | 2 | 50 | 100 | 300 | 1 | 50 | 100 | 5 |
 
 4.3. Szerves szennyezőkre vonatkozó előírások
 
@@ -204,9 +208,11 @@ komposztok N-tartalma (m/m%) sz. a. legalább 0,5
 
 – Fekál streptococcus szám < 10 db/g vagy 10 db/ml
 
-– Salmonella sp. 2 × 10 g vagy ml negatív
+– Pseudomonas Aeruginosa szám < 10 db/g vagy < 10 db/ml
 
-– Humán parazita bélféreg peteszám 100 g vagy 100 ml negatív
+– Salmonella sp. negatív / 2 × 10 g vagy ml
+
+– Humán parazita bélféreg peteszám negatív 100 g vagy 100 ml
 
 5. GILISZTAHUMUSZOK
 
@@ -266,9 +272,11 @@ komposztok N-tartalma (m/m%) sz. a. legalább 0,5
 
 – Fekál streptococcus szám < 10 db/g vagy 10 db/ml
 
-– Salmonella sp. 2 × 10 g vagy ml negatív
+– Pseudomonas Aeruginosa szám < 10 db/g vagy < 10 db/ml
 
-– Humán parazita bélféreg peteszám 100 g vagy 100 ml negatív
+– Salmonella sp. negatív / 2 × 10 g vagy ml
+
+– Humán parazita bélféreg peteszám negatív 100 g vagy 100 ml
 
 6. TALAJJAVÍTÓ ANYAGOK
 
@@ -434,7 +442,7 @@ Alginit
 
 | Talajjavító anyagok (mészkő, dolomit, tőzeg kivételével) | 10 | 2 | 50 | 100 | 100 | 1 | 50 | 100 | 5 |
 
-| Tőzeg | 25 | 2 | 50 | 100 | 100 | 1 | 50 | 100 | 5 |
+| Tőzeg | 30 | 2 | 50 | 100 | 100 | 1 | 50 | 100 | 5 |
 
 | Hulladékot tartalmazó talajjavító anyagok | 10 | 2 | 50 | 100 | 100 | 1 | 50 | 100 | 5 |
 
@@ -456,9 +464,11 @@ Alginit
 
 – Fekál streptococcus szám < 10 db/g vagy 10 db/ml
 
-– Salmonella sp. 2 × 10 g vagy ml negatív
+– Pseudomonas Aeruginosa szám < 10 db/g vagy < 10 db/ml
 
-– Humán parazita bélféreg peteszám 100 g vagy 100 ml negatív
+– Salmonella sp. negatív / 2 × 10 g vagy ml
+
+– Humán parazita bélféreg peteszám negatív 100 g vagy 100 ml
 
 6.5. A hatékonyság feleljen meg a gyártó által garantált hatásnak.
 
@@ -520,31 +530,37 @@ A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó álta
 
 – Fekál streptococcus szám < 10 db/g vagy 10 db/ml
 
-– Salmonella sp. 2 × 10 g vagy ml negatív
+– Pseudomonas Aeruginosa szám < 10 db/g vagy < 10 db/ml
 
-– Humán parazita bélféreg peteszám 100 g vagy 100 ml negatív
+– Salmonella sp. negatív / 2 × 10 g vagy ml
+
+– Humán parazita bélféreg peteszám negatív 100 g vagy 100 ml
 
 9. TERMESZTŐKÖZEGEK
 
 9.1. Hatóanyagokra vonatkozó előírások
 
-– pH (10%-os vizes szuszpenzióban) 5,0–7,5
+|  | A | B | C | D | E | F |
+
+| 1. | Paraméterek |  | Magas szervesanyag tartalmú virágföld és palántaföld | Közepes szervesanyag tartalmú virágföld | termesztő föld | tartó közeg |
+
+| 2. | szárazanyag tartalom (m/m%) | legalább | 30 | 45 | 45 | – |
+
+| 3. | szerves anyag tartalom (m/m%) sz.a. | legalább | 70 | 50 | 12 | – |
+
+| 4. | N tartalom (m/m%) sz.a. | legalább | 0,3 | 0,3 | 0,03 | – |
+
+| 5. | P2O5 tartalom (m/m%) sz.a. | legalább | 0,1 | 0,1 | 0,01 | – |
+
+| 6. | K2O tartalom (m/m%) sz.a. | legalább | 0,3 | 0,1 | 0,03 | – |
+
+– pH (10%-os vizes szuszpenzióban) 4,0–8,2
 
 – térfogattömeg (kg/dm3) legfeljebb 0,8
-
-– szárazanyag-tartalom (m/m%) legalább 45,0
-
-– szervesanyag-tartalom (m/m%) sz.a. legalább 12,0
 
 – vízben oldható összes sótartalom (m/m%) sz.a. legfeljebb 2,0
 
 – szemcseméret eloszlás 20,0 mm alatt legalább 100,0
-
-– N-tartalom (m/m%) sz.a. legalább 0,3
-
-– P2O5 tartalom (m/m%) sz.a. legalább 0,1
-
-– K2O tartalom (m/m%) sz.a. legalább 0,3
 
 9.2. A toxikus elemekre vonatkozó előírások
 
@@ -552,7 +568,7 @@ A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó álta
 
 | tartalom legfeljebb mg/kg szárazanyag |
 
-| Tőzeget tartalmazó termesztőközeg | 15 | 2 | 50 | 100 | 100 | 1 | 50 | 100 | – |
+| Tőzeget tartalmazó termesztőközeg | 30 | 2 | 50 | 100 | 100 | 1 | 50 | 100 | – |
 
 | Tőzeget nem tartalmazó termesztőközeg | 10 | 2 | 50 | 100 | 100 | 1 | 50 | 100 | – |
 
@@ -580,9 +596,11 @@ A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó álta
 
 – Fekál streptococcus szám < 10 db/g vagy 10 db/ml
 
-– Salmonella sp. 2 × 10 g vagy ml negatív
+– Pseudomonas Aeruginosa szám < 10 db/g vagy < 10 db/ml
 
-– Humán parazita bélféreg peteszám 100 g vagy 100 ml negatív
+– Salmonella sp. negatív / 2 × 10 g vagy ml
+
+– Humán parazita bélféreg peteszám negatív 100 g vagy 100 ml
 
 10. NÖVÉNYKONDICIONÁLÓ KÉSZÍTMÉNYEK
 
@@ -620,9 +638,11 @@ A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó álta
 
 – Fekál streptococcus szám < 10 db/g vagy 10 db/ml
 
-– Salmonella sp. 2 × 10 g vagy ml negatív
+– Pseudomonas Aeruginosa szám < 10 db/g vagy < 10 db/ml
 
-– Humán parazita bélféreg peteszám 100 g vagy 100 ml negatív
+– Salmonella sp. negatív / 2 × 10 g vagy ml
+
+– Humán parazita bélféreg peteszám negatív 100 g vagy 100 ml
 
 3. számú melléklet függeléke
 
@@ -788,20 +808,28 @@ A tolerancia a deklarált érték egynegyede, de legfeljebb 0,9%.
 
 E. MIKROELEM TARTALMÚ MŰTRÁGYÁK
 
-| Mikroelemtartalom (m/m%) | Tolerancia (m/m%) |
+|  | A | B |
 
-| 2 tömegszázalék felett | ± 0,4 |
+| 1. | Mikroelemtartalom (m/m%) | Tolerancia (m/m%) |
 
-| 2 tömegszázalék alatt | ± a feltüntetett tartalom 20%-a |
+| 2. | 2 tömegszázalék felett | ± 0,4 |
+
+| 3. | 0,05–2,00 tömegszázalék között | ± a feltüntetett tartalom 20%-a |
+
+| 4. | 0,05 tömegszázalék alatt | ± a feltüntetett tartalom 50%-a |
 
 F. EGYÉB MŰTRÁGYÁK
 
-| Hatóanyagtartalom (m/m%) | Tolerancia (m/m%) |
+|  | A | B |
 
-| 2 tömegszázalék alatt | ± a feltüntetett tartalom 20%-a |
+| 1. | Hatóanyagtartalom (m/m%) | Tolerancia (m/m%) |
 
-| 2–10 tömegszázalék között | ± 0,4 |
+| 2. | 0,05 tömegszázalék alatt | ± a feltüntetett tartalom 50%-a |
 
-| 10 tömegszázalék felett | ± 1,1 |
+| 3. | 0,05–2,00 tömegszázalék között | ± a feltüntetett tartalom 20%-a |
 
-[^65]: A 3. számú melléklet a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése, a 42/2013. (V. 28.) VM rendelet 1. §-a szerint módosított szöveg.
+| 4. | 2–10 tömegszázalék között | ± 0,4 |
+
+| 5. | 10 tömegszázalék felett | ± 1,1 |
+
+[^145]: A 3. számú melléklet a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése, a 42/2013. (V. 28.) VM rendelet 1. §-a, a 37/2014. (XII. 17.) FM rendelet 16. § (3) bekezdése szerint módosított szöveg.

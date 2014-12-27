@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-36-20-8
 | 2013-08-01 | 2006-36-20-82.9 | 70/2013. (VII. 31.) VM rendelet |
 | 2014-03-13 | 2006-36-20-82.10 | 10/2010. (II. 4.) FVM rendelet |
 | 2014-03-15 | 2006-36-20-82.11 | 22/2014. (III. 14.) VM rendelet |
+| 2014-12-27 | 2006-36-20-82.12 | 37/2014. (XII. 17.) FM rendelet |
