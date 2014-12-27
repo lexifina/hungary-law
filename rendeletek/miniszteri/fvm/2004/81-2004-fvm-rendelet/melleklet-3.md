@@ -1,4 +1,4 @@
-3. számú melléklet a 81/2004. (V. 4.) FVM rendelethez[^63]
+3. számú melléklet a 81/2004. (V. 4.) FVM rendelethez[^65]
 
 A termelői csoportok működési programjához csatolt adatlap tartalma
 
@@ -46,4 +46,4 @@ A termelői csoportok működési programjához csatolt adatlap tartalma
 
 7. Keltezés, a kérelmező cégszerű aláírása.
 
-[^63]: A 3. számú melléklet a 20/2010. (X. 1.) VM rendelet 8. §-ával megállapított, a 123/2012. (XII. 6.) VM rendelet 10. § j) és k) pontja szerint módosított szöveg.
+[^65]: A 3. számú melléklet a 20/2010. (X. 1.) VM rendelet 8. §-ával megállapított, a 123/2012. (XII. 6.) VM rendelet 10. § j) és k) pontja szerint módosított szöveg.
