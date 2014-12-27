@@ -1,0 +1,3 @@
+## 19. § Az R. a következő 28/A. §-sal egészül ki:
+
+## „28/A. § A termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet, valamint a mezőgazdasági termékek és élelmiszerek ökológiai gazdálkodási követelmények szerinti tanúsításáról, előállításáról, forgalmazásáról, jelöléséről és ellenőrzésének eljárásrendjéről szóló 34/2013. (V. 14.) VM rendelet módosításáról szóló 34/2014. (XII. 12.) FM rendelettel megállapított 3. § (3) bekezdés a) pont ab) alpont szerinti, a Minőségügyi Kézikönyv minta tárolására vonatkozó előírásait a tanúsító szervezeteknek 2015. január 31-ig kell elkészítenie és felülvizsgálat céljára a NÉBIH részére benyújtania.”
