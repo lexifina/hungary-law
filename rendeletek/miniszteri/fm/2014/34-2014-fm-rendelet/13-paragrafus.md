@@ -1,1 +1,0 @@
-## „(3) Az újonnan választott tanúsító szervezettel a tanúsítási szerződést úgy kell megkötni, hogy a gazdasági szereplő az új tanúsítási rendszerbe a korábbi tanúsítási rendszerből való kilépés időpontjával lépjen be.”
