@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-164-20-
 | 2013-08-01 | 2008-164-20-82.7 | 70/2013. (VII. 31.) VM rendelet |
 | 2014-03-13 | 2008-164-20-82.8 | 151/2012. (XII. 29.) VM rendelet |
 | 2014-12-17 | 2008-164-20-82.9 | 32/2014. (XII. 9.) FM rendelet |
+| 2014-12-29 | 2008-164-20-82.10 | 151/2012. (XII. 29.) VM rendelet |

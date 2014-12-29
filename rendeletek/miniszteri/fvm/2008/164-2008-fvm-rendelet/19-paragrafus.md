@@ -22,9 +22,9 @@ b) egyéb háziállatok a hatósági állatorvos engedélyével, meghatározott 
 
 (10)[^55] A megfigyelést végző állatorvos a megfigyelési idő alatt az állaton észlelt, a veszettségre utaló tünetek jelentkezéséről haladéktalanul köteles a járási főállatorvosnak jelentést tenni.
 
-(11)[^56] A járási főállatorvos állami feladat elvégzésére feljogosított szolgáltató állatorvost is kijelölhet az állatok hatósági megfigyelésének végrehajtására.
+(11)[^56] A járási főállatorvos állami feladat elvégzésére feljogosított magánállatorvost is kijelölhet az állatok hatósági megfigyelésének végrehajtására.
 
 [^53]: A 19. § (5) bekezdése a 32/2014. (XII. 9.) FM rendelet 11. § (11) bekezdésével megállapított szöveg.
 [^54]: A 19. § (9) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja, a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés n) pontja szerint módosított szöveg.
 [^55]: A 19. § (10) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^56]: A 19. § (11) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja, a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^56]: A 19. § (11) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
