@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Sport XXI. Létesítményfejlesztési Program keretében PPP konstrukcióban létesült önkormányzati sportlétesítmények kiváltásának érdekében a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kttv.) 1. melléklet
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Sport XXI. Létesítményfejlesztési Program keretében PPP konstrukcióban létesült önkormányzati sportlétesítmények kiváltásának érdekében a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kttv.) 1. melléklet
 
 ## a) IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok által felhasználható központosított előirányzatok cím terhére 2085,1 millió forint,
 
@@ -10,7 +10,7 @@
 
 ## Felelős: nemzetgazdasági miniszter
 
-## Miniszterelnökséget vezető államtitkár
+## Miniszterelnökséget vezető miniszter
 
 ## nemzeti fejlesztési miniszter
 
@@ -18,15 +18,15 @@
 
 ## Határidő: azonnal
 
-## 2. felkéri a Miniszterelnökséget vezető államtitkárt, hogy tegyen javaslatot az 1. pont szerinti kiváltással érintett, PPP konstrukcióban létesült önkormányzati sportlétesítmények támogatással való kiváltását követő hasznosítására,
+## 2.[^2] felkéri a Miniszterelnökséget vezető minisztert, hogy tegyen javaslatot az 1. pont szerinti kiváltással érintett, PPP konstrukcióban létesült önkormányzati sportlétesítmények támogatással való kiváltását követő hasznosítására,
 
-## Felelős: Miniszterelnökséget vezető államtitkár
+## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: 2014. január 31.
 
-## 3. felkéri a Miniszterelnökséget vezető államtitkárt, hogy – az érintett miniszterek bevonásával – az önkormányzatokkal és az érintettekkel egyeztetést folytasson a PPP konstrukcióban létesült önkormányzati sportlétesítmények támogatással való kiváltásáról, melynek eredményeként – lehetőség szerint 2014. február 28-áig – megállapodás szülessen azok kiváltásáról,
+## 3.[^3] felkéri a Miniszterelnökséget vezető minisztert, hogy – az érintett miniszterek bevonásával – az önkormányzatokkal és az érintettekkel egyeztetést folytasson a PPP konstrukcióban létesült önkormányzati sportlétesítmények támogatással való kiváltásáról, melynek eredményeként – lehetőség szerint 2014. február 28-áig – megállapodás szülessen azok kiváltásáról,
 
-## Felelős: Miniszterelnökséget vezető államtitkár
+## Felelős: Miniszterelnökséget vezető miniszter
 
 ## belügyminiszter
 
@@ -36,13 +36,13 @@
 
 ## Határidő: azonnal
 
-## 4. felkéri a Miniszterelnökséget vezető államtitkárt, hogy a 2. pont szerinti hasznosítási koncepció figyelembevételével, valamint a 3. pont szerinti megállapodásban foglaltakra tekintettel, annak megkötését követően a PPP konstrukcióban megvalósult önkormányzati létesítmények tulajdonjoga megszerzése érdekében nyújtandó támogatás felhasználásának és legkésőbb 2014. december 31-ig történő elszámolásának feltételeiről támogatási megállapodást kössön az érintett önkormányzatokkal,
+## 4.[^4] felkéri a Miniszterelnökséget vezető minisztert, hogy a 2. pont szerinti hasznosítási koncepció figyelembevételével, valamint a 3. pont szerinti megállapodásban foglaltakra tekintettel, annak megkötését követően a PPP konstrukcióban megvalósult önkormányzati létesítmények tulajdonjoga megszerzése érdekében nyújtandó támogatás felhasználásának és legkésőbb 2015. március 31-ig történő elszámolásának feltételeiről támogatási megállapodást kössön az érintett önkormányzatokkal,
 
-## 5. egyetért azzal, hogy a Miniszterelnökséget vezető államtitkár a támogatást a 4. pont szerinti megállapodás megkötését követően folyósítsa az érintett önkormányzatok számára,
+## 5.[^5] egyetért azzal, hogy a Miniszterelnökséget vezető miniszter a támogatást a 4. pont szerinti megállapodás megkötését követően folyósítsa az érintett önkormányzatok számára,
 
 ## 6. felhívja a nemzeti fejlesztési minisztert, hogy a 3. pontban foglaltakkal összhangban intézkedjen a PPP konstrukcióban megvalósult önkormányzati létesítmények PPP szolgáltatási szerződéseinek megszüntetése érdekében a megszüntető megállapodások Nemzeti Fejlesztési Minisztérium általi aláírásáról,
 
-## 7.[^1] felkéri a nemzeti fejlesztési minisztert, hogy a Sportlétesítmények PPP konstrukcióban történő fejlesztése előirányzat 2012. évi kötelezettségvállalással terhelt maradványából 54 904 ezer forint átadásáról gondoskodjon a Kttv. 1. melléklet XI. Miniszterelnökség fejezet, 5. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 23. A Sport XXI. Létesítményfejlesztési Program keretében PPP konstrukcióban létesült önkormányzati sportlétesítmények kiváltásának támogatása jogcímcsoport javára.
+## 7.[^6] felkéri a nemzeti fejlesztési minisztert, hogy a Sportlétesítmények PPP konstrukcióban történő fejlesztése előirányzat 2012. évi kötelezettségvállalással terhelt maradványából 54 904 ezer forint átadásáról gondoskodjon a Kttv. 1. melléklet XI. Miniszterelnökség fejezet, 5. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 23. A Sport XXI. Létesítményfejlesztési Program keretében PPP konstrukcióban létesült önkormányzati sportlétesítmények kiváltásának támogatása jogcímcsoport javára.
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -138,4 +138,9 @@
 
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 7. pont a 2047/2013. (XII. 30.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1838/2014. (XII. 29.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1838/2014. (XII. 29.) Korm. határozat 2. pont a) és b) alpontja szerint módosított szöveg.
+[^3]: A 3. pont az 1838/2014. (XII. 29.) Korm. határozat 3. pont a) és b) alpontja szerint módosított szöveg.
+[^4]: A 4. pont az 1838/2014. (XII. 29.) Korm. határozat 4. pont a) és b) alpontja szerint módosított szöveg.
+[^5]: Az 5. pont az 1838/2014. (XII. 29.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^6]: A 7. pont a 2047/2013. (XII. 30.) Korm. határozat 5. pontja szerint módosított szöveg.
