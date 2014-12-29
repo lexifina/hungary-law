@@ -1,0 +1,119 @@
+# A Kormány 354/2014. (XII. 29.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 185. szám, 2014. december 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c35bdf5ec428cddbc092c921040f3925b0e4c5ab/dokumentumok/757842708c899a8f1179d34cfb46fd2fdc5bbcb5/letoltes)
+
+---
+
+A Kormány 354/2014. (XII. 29.) Korm. rendelete
+egyes foglalkoztatási tárgyú kormányrendeletek módosításáról
+A Kormány
+a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 40. § (4) bekezdésében,
+a 3. §, továbbá a 4. § a) és b) pontja tekintetében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV.
+törvény 40. § (5) bekezdésében,
+a 4. § c) pontja tekintetében a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény
+342. § (1) bekezdés q) pontjában, a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 18. pontjában,
+a munka törvénykönyvéről szóló 2012. évi I. törvény 298. § (7) bekezdésében és a honvédek jogállásáról szóló 2012. évi CCV.
+törvény 238. § (1) bekezdés e) pontjában
+kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A munkábajárással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás
+támogatásáról szóló 39/1998. (III. 4.) Korm. rendelet (a továbbiakban: R1.) 2. § a) pontja helyébe a következő
+rendelkezés lép:
+[A munkaadó, valamint az a) pontban meghatározott munkavállaló részére, legfeljebb egyéves időtartamra, egészben
+vagy részben megtéríthető a munkábajárással kapcsolatos utazási költségnek, az őt – a munkábajárással kapcsolatos
+utazási költségtérítésről szóló Korm. rendelet alapján – terhelő része, ha a munkaadó]
+„a) olyan személy foglalkoztatását vállalja, aki a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló
+törvény szerinti álláskereső, és”
+(2) Az R1. 4. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(Lakhatási támogatás nyújtható annak az álláskeresőnek)
+„a) akit legalább egy hónapja álláskeresőként nyilvántartanak,”
+(3) Az R1. 4. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+(Lakhatási támogatás nyújtható annak az álláskeresőnek)
+„d) aki más foglalkoztatóval létesít munkaviszonyt, mint akivel utoljára munkaviszonyban állt, kivéve, ha
+a létesítendő munkaviszonyban a munkavégzés helye eltér az utolsó munkaviszony munkavégzési helyétől,”
+(4) Az R1. 4. § (4) bekezdés d) pontja helyébe a következő rendelkezés lép:
+(A támogatás további feltétele, hogy a támogatásban részesülő)
+„d) az a) pontban meghatározott jogviszonyból származó rendszeres havi bruttó munkabére nem haladja meg
+a kötelező legkisebb munkabér 300 százalékát.”
+(5) Az R1. 4. § (7) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(A lakhatási támogatás folyósítását meg kell szüntetni, ha a támogatásban részesülő személy)
+„c) rendszeres havi bruttó munkabére meghaladja a (4) bekezdés d) pontjában meghatározott mértéket,”
+(6) Az R1. 5. §-a helyébe a következő rendelkezés lép:
+„5. § (1) A támogatás folyósításának időtartama legfeljebb tizenkét hónap.
+(2) A támogatás mértéke ugyanazon lakóingatlanra vonatkozóan – a (3) és a (4) bekezdésben foglalt kivétellel – nem
+haladhatja meg a 100 ezer Ft-ot.
+
+(3) A támogatás mértéke ugyanazon lakóingatlanra vonatkozóan a 150 ezer Ft-ot nem haladhatja meg, ha
+az ingatlant igénybe vevő közeli hozzátartozók közül legalább ketten megfelelnek a támogatás feltételeinek.
+(4) A támogatás mértéke ugyanazon lakóingatlanra vonatkozóan a 200 ezer Ft-ot nem haladhatja meg, ha
+az ingatlant 3 vagy több olyan személy veszi igénybe, aki a támogatás feltételeinek megfelel.
+(5) A támogatásnak a (2)–(4) bekezdésben meghatározott összege egy naptári hónapra irányadó.
+(6) A (3) bekezdés alkalmazásában közeli hozzátartozó a szociális igazgatásról és szociális ellátásokról szóló
+1993. évi III. törvény 4. § (1) bekezdés d) pontjában meghatározott személy azzal az eltéréssel, hogy a fogyatékos
+gyermek tekintetében a fogyatékosság fennállásának időpontjára vonatkozó rendelkezést nem kell alkalmazni.
+(7) A (3) és (4) bekezdésben meghatározott esetben a támogatás a támogatás feltételeinek megfelelő személyek
+között egyenlő arányban oszlik meg.
+(8) A támogatás a bérleti díjjal és közüzemi díjakkal kapcsolatos kiadásokra használható fel.
+(9) A (8) bekezdés alkalmazása szempontjából közüzemi díjként a bérleményhez kapcsolódó víz- és csatornadíj,
+a villamos energia, a távfűtés, a gáz, a hulladékszállítás díja, valamint a közös költség vehető figyelembe.
+(10) A támogatás időtartama alatt a munkavállaló részére egymást követően több ingatlanra kötött bérleti szerződés
+esetében is megállapítható a támogatás, azonban a költségek emelkedése a támogatás összegét nem befolyásolja.
+(11) A támogatás folyósítási időtartamának kimerítését követően újabb támogatás annak lejártát követő 24 hónap
+elteltével állapítható meg.”
+(7) Az R1. 5/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A 2. és 3. §-ban meghatározott támogatások az 1407/2013/EU bizottsági rendelet 3. cikke, valamint
+az 1408/2013/EU bizottsági rendelet 3. cikke szerinti csekély összegű (de minimis) támogatásoknak minősülnek.”
+(8) Az R1. 5/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Az (1) bekezdésben meghatározott támogatások tekintetében támogatási döntés 2021. június 30-ig hozható.”
+(9) Az R1. 7. § (5a) bekezdése helyébe a következő rendelkezés lép:
+„(5a) A 4. §-ban meghatározott támogatásról hatósági szerződést kell kötni.”
+(10) Az R1. 8. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) E rendelet
+a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való
+alkalmazásáról szóló, 2013. december 18-ai 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1–8. o.),
+b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott
+csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-ai 1408/2013/EU bizottsági rendelet
+(HL L 352., 2013.12.24., 9–17. o.),
+hatálya alá tartozó támogatást tartalmaz.”
+2. § (1) A szakképzettséggel rendelkező, pályakezdő álláskeresők munkatapasztalat-szerzésének és a létszámleépítések
+megelőzése érdekében a részmunkaidős foglalkoztatás támogatásáról szóló 70/2009. (IV. 2.) Korm. rendelet
+(a továbbiakban: R2.) 5. §-a a következő (8) bekezdéssel egészül ki:
+„(8) A 2. §-ban meghatározott támogatással kapcsolatos feladatokat a foglalkoztatni kívánt pályakezdő álláskeresőt
+nyilvántartó kirendeltség látja el.”
+(2) Az R2. 5. § (2) bekezdésében az„a (3)–(7) bekezdésben”szövegrész helyébe az„a (3)–(8) bekezdésben”szöveg lép.
+3. § (1) A Társadalmi Megújulás Operatív Program 1. prioritás 1.1.2. konstrukció: „Decentralizált programok a hátrányos
+helyzetűek foglalkoztatásáért”, valamint a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.1. konstrukció:
+„Megváltozott munkaképességű emberek rehabilitációjának és foglalkoztatásának segítése” keretében nyújtható
+támogatásokról szóló 132/2009. (VI. 19.) Korm. rendelet (a továbbiakban: R3.) 17. § (5) és (6) bekezdése helyébe
+a következő rendelkezés lép:
+„(5) Az 5. §-ban meghatározott támogatás a 651/2014/EU bizottsági rendelet alapján nyújtható.
+(6) A 6. §-ban, a 7. § (1)–(3) bekezdésében meghatározott támogatások az 1407/2013/EU bizottsági rendelet 3. cikke,
+valamint az 1408/2013/EU bizottsági rendelet 3. cikke szerinti csekély összegű (de minimis) támogatásoknak minősülnek.”
+(2) Az R3. 17. §-a a következő (8) bekezdéssel egészül ki:
+„(8) Az (5)–(6) bekezdésben meghatározott támogatások esetében támogatási döntés 2021. június 30-ig hozható.”
+(3) Az R3. 18. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) E rendelet
+a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való
+alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1–8. o.),
+
+b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély
+összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (HL L 352.,
+2013.12.24., 9–17. o.), valamint
+c) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal
+összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-ei 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1. o.)
+hatálya alá tartozó támogatást tartalmaz.”
+4. §
+Hatályát veszti
+a) a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.2. konstrukció: „Decentralizált programok
+a hátrányos helyzetűek foglalkoztatásáért”, valamint a Társadalmi Megújulás Operatív Program 1. prioritás
+1.1.1. konstrukció: „Megváltozott munkaképességű emberek rehabilitációjának és foglalkoztatásának
+segítése”keretében nyújtható támogatásokról szóló 132/2009. (VI. 19.) Korm. rendelet II. alcíme,
+b) a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.4. konstrukció „A hátrányos helyzetűek
+foglalkoztatásáért a Közép-magyarországi Régióban” keretében nyújtható támogatásokról szóló 175/2010.
+(V. 13.) Korm. rendelet,
+c) a gyermek születése esetén az apát megillető pótszabadsággal összefüggő költségek megtérítéséről szóló
+420/2012. (XII. 29.) Korm. rendelet.
+5. §
+Ez a rendelet 2015. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

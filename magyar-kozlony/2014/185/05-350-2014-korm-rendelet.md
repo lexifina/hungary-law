@@ -1,0 +1,51 @@
+# A Kormány 350/2014. (XII. 29.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 185. szám, 2014. december 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c35bdf5ec428cddbc092c921040f3925b0e4c5ab/dokumentumok/757842708c899a8f1179d34cfb46fd2fdc5bbcb5/letoltes)
+
+---
+
+A Kormány 350/2014. (XII. 29.) Korm. rendelete
+a gyermek születése esetén az apát megillető pótszabadság igénybevételéről és a pótszabadsággal
+összefüggő költségek megtérítéséről
+A Kormány a munka törvénykönyvéről szóló 2012. évi I. törvény 298. § (7) bekezdésében kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A rendelet hatálya a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkáltatóra és az általa
+foglalkoztatott, gyermek születése esetén járó pótszabadságra jogosultra (a továbbiakban: munkavállaló) terjed ki.
+(2) Az (1) bekezdés szerinti munkáltatók munkavállalói részére a pótszabadság idejére járó távolléti díj és munkáltatói
+közteher összege a munkáltató részére a központi költségvetésből kerül megtérítésre.
+(3) A munkavállaló a pótszabadság igényléséhez a munkáltatójának bemutatja a gyermek eredeti születési anyakönyvi
+kivonatát, illetve halva született gyermek esetén a halottvizsgálati bizonyítvány eredeti példányát, és írásban
+nyilatkozik arról, hogy a szülői felügyeletet gyakorló vér szerinti vagy örökbefogadó apa szülői felügyeleti jogát
+bíróság nem szünetelteti, vagy nem szüntette meg.
+(4) Az igénybevételi jogosultságot ellenőrizhető módon, írásban dokumentálni kell. Ennek során a munkáltató jogosult
+a (3) bekezdés szerint bemutatott okiratokról másolatot készíteni.
+(5) A munkáltató a pótszabadság igénybevételéről nyilvántartást vezet. A nyilvántartás tartalmazza az igénybe vevő
+nevét, a ténylegesen igénybe vett napok számát, időpontját, a távolléti díj kiszámításának módját, összegét és
+a számított közterheket. A nyilvántartás mellékleteként a (3) bekezdés szerinti nyilatkozatnak és a (4) bekezdés
+szerinti dokumentumnak a megőrzése – a számviteli bizonylatokra vonatkozó előírások figyelembevételével –
+a munkáltató feladata.
+(6) Ha a munkavállaló a pótszabadságra jogosító időtartamon belül munkahelyet változtat, az új munkáltatójánál akkor
+jogosult a pótszabadság igénybevételére, ha igazolja, hogy az előző munkáltatónál a pótszabadságot részben vagy
+egészben még nem vette igénybe. Erről – és részleges igénybevétel esetén a már kivett napok számáról – az előző
+munkáltató a munkavállaló kérésére három munkanapon belül köteles igazolást kiadni.
+2. § (1) Az 1. § (1) bekezdés szerinti munkáltatónak az apát megillető pótszabadsággal összefüggő költségek megtérítése
+iránti kérelmet a Magyar Államkincstárnak az igénylő székhelye vagy telephelye szerint illetékes területi szervéhez
+(a továbbiakban: Igazgatóság) kell benyújtania. Az Igazgatóság a kérelem elbírálásától függően folyósítja a kérelem
+szerinti költségeket.
+(2) Az Igazgatóság ellenőrzi az apát megillető pótszabadság alapján járó, kifizetett és elszámolt távolléti díj és közterhei
+nyilvántartását, annak jogszerűségét és elszámolását. Az ellenőrzés a kifizetést megelőzően írásbeli dokumentumok
+alapján, továbbá szükség esetén a helyszínen, kifizetett költségtérítés tekintetében utólagos helyszíni ellenőrzés
+keretében történik.
+(3) A jogosultság hiányában, illetve magasabb összegben elszámolt összeg megtérítéséről az Igazgatóság fizetési
+meghagyással intézkedik. A fizetési meghagyás ellen kereset benyújtásnak van helye. A kereset elbírálásának
+a vitatott összeg erejéig a végrehajtásra halasztó hatálya van.
+3. §
+A munkáltató az apát megillető és részére kifizetett távolléti díj és annak közterhei megtérítését az erre a célra
+rendszeresített nyomtatványon vagy elektronikus űrlapon évente négy alkalommal – március 31-éig, június 30-áig,
+szeptember 30-áig, valamint december 31-éig – kérelmezheti. Az Igazgatóság a benyújtási határidőt követő tizenöt
+napon belül gondoskodik a kimutatott összeg átutalásáról. A munkáltató által kifizetett távolléti díj és annak
+közterhei legkésőbb a kifizetéstől számított három évig számolható el.
+4. §
+Ez a rendelet 2015. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
