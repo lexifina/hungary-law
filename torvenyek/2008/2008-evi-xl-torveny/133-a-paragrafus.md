@@ -4,4 +4,6 @@
 
 2. a csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjakat és alkalmazásuk szabályait,
 
-3. a 104/A. § szerinti árszabályozási ciklus kezdetének időpontját és időtartamát.
+3. a 104/A. § szerinti árszabályozási ciklus kezdetének időpontját és időtartamát,
+
+4. a rendszerüzemeltetési díjból származó árbevétel földgázszállítói engedélyesek, illetve szállítási rendszerüzemeltető engedélyesek közötti megosztására vonatkozó kiegyenlítő fizetések számítási módszerét, a kiegyenlítő fizetések részletes szabályait, összegét és mértékét.

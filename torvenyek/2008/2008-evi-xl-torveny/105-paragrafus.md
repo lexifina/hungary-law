@@ -18,4 +18,4 @@ d) rendszerirányítási díjat
 
 (5) A rendszerhasználati díjakat a hatékonyan működő engedélyes vállalkozások indokolt működési és tőkeköltsége, illetve összehasonlító elemzések alapján a legkisebb költség elvének érvényre juttatásával úgy kell meghatározni, hogy az érintett engedélyeseket rövid- és hosszútávon gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására és az ellátásbiztonság növelésére ösztönözze.
 
-(6)
+(6) A rendszerüzemeltetés díjából származó árbevételt a földgázszállítás indokolt költségei arányában kell megosztani. Ennek érdekében a szállítói rendszerüzemeltetői engedélyesek, illetve a földgázszállítói engedélyesek között kiegyenlítő fizetéseket kell végrehajtani.
