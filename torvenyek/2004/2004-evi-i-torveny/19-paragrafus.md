@@ -28,4 +28,6 @@ e) diák- és főiskolai-egyetemi sport sportszövetségei.
 
 (7) A sportszövetségek a nemzeti sportinformációs rendszerről szóló kormányrendeletben foglaltak szerint adatokat szolgáltatnak a nemzeti sportinformációs rendszerbe.
 
+(7a) A sportszövetség bírósági nyilvántartás szerint képviseletre jogosult vezető tisztségviselői nem minősülnek a Civil tv. 53/A. §-a alkalmazásában kötelezettnek.
+
 (8) Az országos sportági szakszövetségeket megillető, illetve terhelő jogokra és kötelezettségekre vonatkozó szabályokat megfelelően alkalmazni kell a nyári és a téli olimpiai, ifjúsági olimpiai és paralimpiai (e rendelkezés alkalmazásában a továbbiakban: olimpiai) játékok hivatalos időszaka alatt az olimpiai kerettag nemzeti válogatott sportolók, illetve válogatott csapatok (keretek) működése kapcsán a MOB-ra.
