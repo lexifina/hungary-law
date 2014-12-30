@@ -1,6 +1,6 @@
 ## Filmalkotások besorolása a magyar részvételi arányok alapján
 
-26/B. § (1) A Hivatal – a filmelőállító vagy a filmgyártó vállalkozás kérelmére – a közvetlen támogatásra való jogosultság megállapítása érdekében azokat a filmalkotásokat, amelyek előállításához közvetlen támogatást igényelnek, a következő kategóriákba sorolja be:
+26/B. § (1) A Hivatal – a filmelőállító kérelmére – a közvetlen támogatásra való jogosultság megállapítása érdekében azokat a filmalkotásokat, amelyek előállításához közvetlen támogatást igényelnek, a következő kategóriákba sorolja be:
 
 a) magyar filmalkotás,
 

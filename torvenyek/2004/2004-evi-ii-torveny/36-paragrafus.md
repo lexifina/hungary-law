@@ -2,7 +2,7 @@
 
 (2) A Hivatal e törvény szerinti eljárásainak díjai megfizetésének módját és feltételeit, valamint a díjak mértékét és a díjképzés szabályait az Elnök rendeletben állapítja meg.
 
-(3) A törvény hatálybalépésének időpontjában már terjesztés alatt álló filmalkotásokat a korhatárok, illetve az ,,art''-minősítés tekintetében nem kell ismételten, e törvény rendelkezései szerint besorolni, azokra továbbra is a korábbi korhatár-megjelölések, illetve a Magyar Mozgókép Közalapítvány által elismert ,,art''-minősítések alkalmazhatók.
+(3) A törvény hatálybalépésének időpontjában már terjesztés alatt álló filmalkotásokat az ,,art''-minősítés tekintetében nem kell ismételten, e törvény rendelkezései szerint besorolni, azokra továbbra is a Magyar Mozgókép Közalapítvány által elismert ,,art''-minősítések alkalmazhatók.
 
 (4) 2012. január 1-jével a Kulturális Örökségvédelmi Hivatal (a továbbiakban: KÖH) költségvetésén belül a mozgóképszakmai hatóság működését biztosító költségvetési előirányzatai (pénzügyi kerete), valamint a Nemzeti Filmiroda KÖH által 2007. január 1-jével átvett vagyona, tételes elszámolás keretében átadásra kerül az NMHH részére.
 

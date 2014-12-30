@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-2-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2004-2-00-00.24 |
 | 2014-09-30 | 2014. évi XXXIX. törvény | 2004-2-00-00.25 |
 | 2014-11-27 | 2014. évi LXXIV. törvény | 2004-2-00-00.26 |
+| 2014-12-30 | 2014. évi XCIX. törvény | 2004-2-00-00.27 |
