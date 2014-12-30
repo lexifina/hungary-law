@@ -14,7 +14,7 @@ c) jóváhagyja a megyei, fővárosi védelmi bizottságok által tervezett – 
 
 d) meghatározza a katasztrófavédelmi feladatok ellátásában közreműködő, irányítása alá tartozó rendvédelmi szervek katasztrófavédelmi feladatait,
 
-e)[^2] irányítja az állampolgárok és a gazdálkodó szervezetek katasztrófavédelmi felkészítését, tájékoztatását, valamint a lakosság riasztását,
+e)[^5] irányítja az állampolgárok és a gazdálkodó szervezetek katasztrófavédelmi felkészítését, tájékoztatását, valamint a lakosság riasztását,
 
 f) meghatározza a lakosság és az anyagi javak műszaki-technikai és radiológiai, biológiai és vegyi védelmének irányelveit,
 
@@ -44,4 +44,4 @@ r) részt vesz az ágazati miniszterek által előterjesztett potenciális ágaz
 
 s) gondoskodik a kijelölt kritikus infrastruktúra elemek katasztrófák elleni fokozott védelmének megszervezéséről.
 
-[^2]: Az 5. § e) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^5]: Az 5. § e) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés a) pontja szerint módosított szöveg.
