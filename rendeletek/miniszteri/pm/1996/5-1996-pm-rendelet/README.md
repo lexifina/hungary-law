@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-5-20-53
 | 2010-01-01 | 1996-5-20-53.3 | 5/1996. (I. 26.) PM rendelet |
 | 2012-12-21 | 1996-5-20-53.4 | 40/2012. (XII. 20.) NGM rendelet |
 | 2014-01-01 | 1996-5-20-53.5 | 40/2012. (XII. 20.) NGM rendelet |
+| 2014-12-30 | 1996-5-20-53.6 | 40/2012. (XII. 20.) NGM rendelet |
