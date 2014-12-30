@@ -1,4 +1,4 @@
-## 21–22. §[^15]
+## 21–22. §[^16]
 
 ## 12. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 13. § a) pontja 2015. január 31-én lép hatályba.
 
-[^15]: A 21–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 21–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
