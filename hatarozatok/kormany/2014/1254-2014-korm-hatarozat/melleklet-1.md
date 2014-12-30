@@ -1,8 +1,8 @@
 ## 1. megállapítja a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akciótervének 2. prioritását az 1. melléklet szerint,
 
-## 2.[^1]
+## 2.[^2]
 
-1. melléklet az 1254/2014. (IV. 18.) Korm. határozathoz
+1. melléklet az 1254/2014. (IV. 18.) Korm. határozathoz[^3]
 
 | I. Prioritás bemutatása - 2. prioritás: Az alkalmazkodóképesség javítása | Társadalmi Megújulás Operatív Program |
 
@@ -42,9 +42,9 @@
 
 | 2.1.2. | Idegen nyelvi és informatikai kompetenciák fejlesztése |  | 13,00 |  |  | A program célja a felnőtt magyar lakosság tanulási hajlandóságának növelése, az alacsony idegen nyelvi és informatikai tudás fejlesztése révén a felnőttek alkalmazkodóképességének javítása. | nemzetgazdasági miniszter |  |
 
-| 2.1.3. | Munkahelyi képzések támogatása | 1,30 | 27,53 | 7,03 |  | A konstrukció célja, hogy az alkalmazottak szakmai képzésén, foglalkoztathatóságának javítása révén növekedjen a vállalkozások versenyképessége és a támogatás ösztönözze a foglalkoztatókat munkavállalóik tudásának folyamatos fejlesztésére. | nemzetgazdasági miniszter |  |
+| 2.1.3. |  |  |  |  |  |  |  |  |
 
-| 2.1.6. | Újra tanulok |  | 20,10 | 24,00 |  | A program célja, hogy az alacsony iskolai végzettségű felnőttek (munkanélküliek és foglalkoztatottak egyaránt) továbblépjenek képzettség tekintetében. A programban a résztvevők egyéni helyzetüknek, szándékuknak, képzettségüknek, tudásszintjüknek és a munkaerő-piaci igényeknek megfelelően sajátíthatnak el versenyképes, a munkaerő-piaci keresletnek megfelelő ismereteket. | nemzetgazdasági miniszter |  |
+| 2.1.6. |  |  |  |  |  |  |  |  |
 
 | 2.2.1. | A szakképzés és a felnőttképzés minőségének és tartalmának fejlesztése |  | 5,57 |  |  | A képzési rendszer átfogó, összehangolt fejlesztésének célja, hogy hogy a képzés kibocsátása rugalmasan alkalmazkodjon a munkaerő-piaci kereslethez, a képzési rendszer képes legyen igazodni a folyamatos változásokhoz, a foglalkoztathatósághoz szükséges kompetenciák kialakításával és fejlesztésével azokat a naprakész ismereteket adja át, amire a gazdaság, a vállalatok igényt tartanak, és ezzel javuljon a munkaerő alkalmazkodóképessége. A többletforrás a Nemzeti Munkaügyi Hivatal Szakképzési és Felnőttképzési Igazgatóság az új szakképzési törvényből fakadó feladatokra való felkészülését szolgálja. | nemzetgazdasági miniszter |  |
 
@@ -60,9 +60,9 @@
 
 | 2.3.4.B | Gyakorlati oktatók továbbképzése a szakképzésben |  | 1,2 |  |  | A konstrukció célja a gyakorlati képzés oktatói feltételeinek biztosítása és ezáltal a gyakorlati képzés színvonalának emelése, valamint a gyakornoki képzésben résztvevő szakemberek támogatása. | nemzetgazdasági miniszter |  |
 
-| 2.3.6. | Fiatalok vállalkozóvá válásának támogatása |  | 6,94 |  |  | A konstrukció célja a fiatalok vállalkozóvá válásának elősegítése, egyrészt a vállalkozói tudás, vállalkozói készségek megszerzésével, fejlesztésével, másrészt a vállalkozás elindításához szükséges tőkejuttatással, a vállalkozások elindítását követően tanácsadás és mentorálás biztosításával. | nemzetgazdasági miniszter |  |
+| 2.3.6. |  |  |  |  |  |  |  |  |
 
-| 2.4.3.D | Szociális gazdaság fejlesztése |  | 15,00 |  | 0,48 | A konstrukció a szociális gazdaság területén működő /induló vállalkozások, szociális szövetkezetek, stb. támogatását célozza. A szektor erősítése és növekedése hosszú távon a nyílt-munkaerőpiaci foglalkoztatást és így a biztosabb megélhetést teremti meg a munkanélküliek számára. | nemzetgazdasági miniszter |  |
+| 2.4.3.D |  |  |  |  |  |  |  |  |
 
 | 2.4.3.E | Szociális gazdaság és a munkaerő-piaci szolgáltatást nyújtó civil szervezetek kapacitásfejlesztését célzó programok megvalósításával összefüggő szakmai fejlesztések |  | 0,8 |  |  | A kiemelt projekt célja a TÁMOP-2.4.3.D „Szociális gazdaság fejlesztése” című konstrukció keretei között pályázó szervezetek, továbbá a 2.6.2 „Munkaerő-piaci szolgáltatást nyújtó civil szervezetek kapacitásának megerősítése” című konstrukció keretein belül kiválasztott pályázatok szakmai támogatása, továbbá az ehhez kapcsolódó innovációs tevékenységek támogatása. | nemzetgazdasági miniszter |  |
 
@@ -80,4 +80,5 @@
 
 | 2. | Prioritás | 2,20 | 133,813 | 33,98 | 3,480 |  |  |  |
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1865/2014. (XII. 30.) Korm. határozat 3. pont d) alpontja szerint módosított szöveg.
