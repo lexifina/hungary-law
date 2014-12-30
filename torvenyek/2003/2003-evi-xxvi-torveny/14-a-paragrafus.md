@@ -1,11 +1,13 @@
-## Országos jelentőségű tájképvédelmi terület övezete
+## Tájképvédelmi szempontból kiemelten kezelendő terület övezete
 
-14/A. § (1) Az országos jelentőségű tájképvédelmi terület övezetben csak olyan kiemelt térségi és megyei területfelhasználási kategória jelölhető ki, amely a kijelölés alapjául szolgáló tájképi értékek fennmaradását nem veszélyezteti.
+14/A. § (1) A tájképvédelmi szempontból kiemelten kezelendő terület övezete területét a kiemelt térségi és megyei területrendezési terv és annak alapján a településszerkezeti terv pontosítja.
 
-(2) Az övezetbe tartozó település településszerkezeti tervében csak olyan területfelhasználási egység jelölhető ki, továbbá helyi építési szabályzatában és szabályozási tervében csak olyan építési övezet és övezet hozható létre, amely a kijelölés alapjául szolgáló tájképi értékek fennmaradását nem veszélyezteti.
+(2) Az övezet (1) bekezdés szerint pontosított lehatárolása által érintett területre a kiemelt térség és a megye területrendezési tervének megalapozó munkarésze keretében meg kell határozni a tájjelleg helyi jellemzőit, valamint a település teljes közigazgatási területére készülő településrendezési eszköz megalapozó vizsgálata keretében meg kell határozni a tájjelleg megőrzendő elemeit, elemegyütteseit, valamint a tájképi egység és a természeti adottságokhoz igazodó hagyományos tájhasználat helyi jellemzőit.
 
-(3) Az építési övezetre vagy övezetre vonatkozóan meg kell határozni az ott elhelyezett építmények tájba illesztésére vonatkozó szabályokat, ennek ellenőrzéséhez a tájképet jelentősen megváltoztató építmények terveihez külön jogszabályban meghatározott látványtervet is kell készíteni.
+(3) Az övezet (1) bekezdés szerint pontosított lehatárolása által érintett területre a tájképi egység és a hagyományos tájhasználat fennmaradása érdekében a helyi építési szabályzatban meg kell határozni a területhasználatra és az építmények tájba illeszkedésére vonatkozó szabályokat.
 
-(4) Az övezetben bányászati tevékenységet a bányászati szempontból kivett helyekre vonatkozó szabályok szerint lehet folytatni.
+(4) A helyi építési szabályzat az építmények tájba illeszkedésének bemutatására látványterv készítését írhatja elő és a készítésre vonatkozó követelményeket határozhat meg.
 
-(5) Az övezetben közművezetékeket és járulékos közműépítményeket tájba illesztett módon, a tájképvédelmi célok megvalósulását nem akadályozó műszaki megoldások alkalmazásával – beleértve a felszín alatti vonalvezetést is – kell elhelyezni.
+(5) Az övezetben bányászati tevékenységet a bányászati szempontból kivett helyekre vonatkozó szabályok szerint lehet folytatni.
+
+(6) Az övezetben a közlekedési és energetikai infrastruktúra-hálózatokat, erőműveket és kiserőműveket a tájképi egység megőrzését és a hagyományos tájhasználat fennmaradását nem veszélyeztető műszaki megoldások alkalmazásával kell elhelyezni.

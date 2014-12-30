@@ -14,7 +14,7 @@ c) jó termőhelyi adottságú szántóterület,
 
 d) kiváló termőhelyi adottságú erdőterület,
 
-e) országos jelentőségű tájképvédelmi terület,
+e) tájképvédelmi szempontból kiemelten kezelendő terület,
 
 f) világörökségi és világörökségi várományos terület,
 
@@ -42,7 +42,7 @@ g) földtani veszélyforrás területe,
 
 h) honvédelmi terület,
 
-i) térségi jelentőségű tájképvédelmi terület.
+i)
 
 (3) Ajánlott megyei övezetek:
 

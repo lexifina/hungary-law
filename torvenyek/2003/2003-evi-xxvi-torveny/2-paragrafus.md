@@ -52,7 +52,7 @@ tartozik.
 
 21. országos jelentőségű csatorna: olyan csatorna, amelyben az átvezethető vízmennyiség az 1 millió m3/évet meghaladja,
 
-22. országos jelentőségű tájképvédelmi terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe a természeti vagy kulturális örökség adottságai alapján a kilátás-rálátás szempontjából védendő tájképpel, illetve tájképi elemmel rendelkező területek, valamint a védett történeti tájjá nyilvánított területek tartoznak,
+22.
 
 23. országos kerékpárút-törzshálózat: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott műszaki infrastruktúra-hálózat, amelybe az országos jelentőségű turisztikai célpontokat érintő, hálózatként kialakított kerékpáros útvonalak tartoznak,
 
@@ -73,6 +73,10 @@ tartozik.
 31. tanyás térség: ajánlott övezet, amelyet egyes kijelölt megyék területrendezési terve tartalmazhat,
 
 32. tájrehabilitációt igénylő terület: a megyei területrendezési tervekben ajánlott övezet, amelybe jelentős területi kiterjedésű, esetenként több települést érintő felhagyott ipari és bányászati üzemi területek, továbbá az ipari és bányászati tevékenység okozta tájsebek – zagytározók, meddőhányók, ipari hulladéklerakók – tartoznak,
+
+32a. tájképi egység: tájban előforduló és vizuálisan összetartozónak tekinthető természetes és antropogén tájelemek együttese, amely a látvány szempontjából meghatározott karakterrel jellemezhető,
+
+32b. tájképvédelmi szempontból kiemelten kezelendő terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe a természeti adottságok, rendszerek, valamint az emberi tevékenység kölcsönhatása, változása következtében kialakult olyan területek tartoznak, amelyek a táj látványa szempontjából sajátos és megkülönböztetett fontosságú, megőrzésre érdemes esztétikai jellemzőkkel bírnak,
 
 33. települési térség: országos, kiemelt térségi és megyei területrendezési tervben megállapított területfelhasználási kategória, amelybe a település belterülete, valamint a belterületen kívüli beépített és beépítésre szánt területek tartoznak,
 

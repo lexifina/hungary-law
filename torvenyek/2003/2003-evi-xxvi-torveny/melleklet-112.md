@@ -80,7 +80,7 @@ d) Erdőtelepítésre javasolt terület
 
 |
 
-e) Országos jelentőségű tájképvédelmi terület
+e) Tájképvédelmi szempontból kiemelten kezelendő terület
 
 |
 
@@ -161,8 +161,6 @@ h) Honvédelmi terület
 |
 
 |
-
-i) Térségi jelentőségű tájképvédelmi terület
 
 |
 
