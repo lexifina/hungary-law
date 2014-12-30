@@ -1,19 +1,9 @@
 221. § (1) Hatályát veszti a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény
 
-1. 4. § l) pontjában a „ , valamint a korkedvezmény-biztosítási járulék” szövegrész,
+1.
 
-2. 34. § (15) bekezdésében az „A járulékokat a Köztársasági Elnöki Hivatal fizeti meg és vallja be, továbbá teljesíti a biztosítotti bejelentést.” szövegrész,
+2.
 
-3. 44/A. § (2) bekezdés első és második mondatában a „települési önkormányzat jegyzője, illetve a” szövegrész.
+3.
 
-(2) Hatályát veszti a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény
-
-1. 18. § (1) bekezdés e) pontja,
-
-2. 19. § (6) bekezdése,
-
-3. Korkedvezmény-biztosítási járulék alcíme és 20/A. §-a,
-
-4. 27. § (5) bekezdése,
-
-5. 29. § (8) bekezdése.
+(2)

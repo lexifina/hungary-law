@@ -1,5 +1,3 @@
-## 92. Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény módosítása
+## 92.
 
-396. § Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény 6. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A nyugdíjbiztosítási visszautalás során szolgálati időként – a (2) bekezdésben nem említett esetben – az uniós intézmény által igazolt szolgálati időt kell figyelembe venni. Ha az uniós tisztviselő ugyanarra a napra a magyar nyugdíjrendszerben is szerzett szolgálati időt, az adott nap legfeljebb egy nap szolgálati időként vehető figyelembe. Ha az így megállapított szolgálati idővel érintett valamely naptári évben a beszámított jövedelem havi összege nem éri el az adott év január 1-jén érvényes kötelező legkisebb munkabér összegét, szolgálati időként csak az uniós intézmény által igazolt szolgálati idő arányos része vehető figyelembe.”
+396–402. §
