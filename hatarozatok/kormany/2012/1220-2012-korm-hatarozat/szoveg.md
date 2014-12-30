@@ -28,6 +28,14 @@ közigazgatási és igazságügyi miniszter
 
 Határidő: 2012. szeptember 30.
 
+2a.[^1] felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a Közalapítvány iratainak jogszabály szerint kötelező elhelyezéséről, őrzéséről, kezeléséről és selejtezéséről.
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: folyamatos
+
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
 4. Hatályát veszti a Magyar Mozgókép Közalapítvány megszüntetéséről szóló 1069/2012. (III. 20.) Korm. határozat.
+
+[^1]: A 2a. pontot az 1853/2014. (XII. 30.) Korm. határozat iktatta be.
