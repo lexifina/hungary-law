@@ -2,7 +2,7 @@
 
 a)–c)
 
-d)
+d) 3/5. számú melléklete helyébe a 3/5. melléklet,
 
 e)
 

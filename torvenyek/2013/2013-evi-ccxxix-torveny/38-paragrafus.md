@@ -1,17 +1,17 @@
 38. § Hatályát veszti az OTrT.
 
-a)
+a) 2. § 22. pontja,
 
 b)
 
-c)
+c) 12. § (2) bekezdés i) pontja,
 
 d)–g)
 
-h)
+h) 21. §-a és az azt megelőző alcím,
 
 i)–k)
 
-l)
+l) 1/12. mellékletében foglalt táblázat B:16 mezője,
 
 m)
