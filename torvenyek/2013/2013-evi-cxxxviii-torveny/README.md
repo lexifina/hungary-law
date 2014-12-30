@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-138-00-00
 | 2013-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-138-00-00.1 |
 | 2013-11-02 | 2010. évi CXXX. törvény | 2013-138-00-00.2 |
 | 2013-12-31 | 2013. évi CCLI. törvény | 2013-138-00-00.3 |
+| 2014-12-30 | 2014. évi XV. törvény | 2013-138-00-00.4 |
