@@ -10,9 +10,9 @@
 
 ## Határidő: 2012. október 31.
 
-## 4.[^1]
+## 4.[^2]
 
-1. melléklet az 1469/2012. (X. 26.) Korm. határozathoz[^2]
+1. melléklet az 1469/2012. (X. 26.) Korm. határozathoz[^3]
 
 |  | Társadalmi Megújulás Operatív Program |
 
@@ -76,7 +76,7 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 3.1.12. | A matematikai, természettudományos és műszaki kompetenciák fejlesztése a közoktatásban digitális tananyagfejlesztés és képzők képzése révén | 0,00 | 2,30 | 0,00 |  | Konstrukció célja a hazai matematikai és természettudományos oktatás módszertani megújítása, eszközrendszerének fejlesztése, a matematika és fizika tárgyakhoz kapcsolódó modern digitális tananyagok kidolgozása és bevezetése, valamint a képzők képzése, ezáltal a matematikai, természettudományos és műszaki kompetenciák erősítése a közoktatásban. | Emberi Erőforrások Miniszter |  |
 
-| 3.1.13. | A testnevelés új stratégiájának és fizikai állapot új mérési rendszerének kialakítása és az önkéntes részvétel ösztönzése a komplex iskolai testmozgásprogramok szervezésében | 0,00 | 2,20 | 0,00 |  | A kiemelt projekt két komponensben valósul meg: 1. A testnevelés és sport műveltség területén bevezetésre kerülő új tartalmak megalapozása pedagógusok számára és az intézményi eszközök korszerűsítése a nemzetközi és Európai Uniós trendeknek megfelelően. A gyermekek és tanulók fizikai állapotmérésének megújítása, a fittségi és az aktivitási szint mérését egyidejűleg lehetővé tevő tesztbattérián nyugvó bevezetése. (arányosított) 2. Az önkéntesség és az aktív polgárság fizikai aktivitás általi ösztönzése érdekében a testnevelés és sport műveltségterületen, a diáksport egyesületekben (iskolai sportkörökben) és egyéb területi sportszervezetekben dolgozó pedagógusok és sportszakemberek (célcsoport) készségeinek fejlesztésére kerül sor: a formális és informális tudáselemek feltérképezésével, bővítésével, az önkéntes tevékenységek ösztönzését szolgáló, valamint az önkéntes részvétellel zajló mozgásprogram szervezéssel és megvalósítással kapcsolatos, egyúttal a sport általi társadalmi befogadást - felzárkózást - szolg | Emberi Erőforrások Miniszter |  |
+| 3.1.13. |  |  |  |  |  |  |  |  |
 
 | 3.1.14. | A médiaműveltség, médiatudatosság elterjesztése | 0,00 | 0,50 | 0,00 |  | A konstrukció hosszú távú célja, hogy a hazai médiaoktatás, médiaértés-oktatás tudásbázisává válva továbbképzésekkel a pedagógusok munkáját segítse elő, ismeretterjesztő bemutatókkal a szülők felvilágosítását végezze, konferenciákkal a szakmai párbeszédet erősítse.A konstrukció célja továbbá a Média és mozgóképelmélet tárgy korszerű - médiatudatossággal, médiaértéssel, tudatos fogyasztói magatartással együttesen újradefiniált – kulcskompetenciaként való megerősítése a közoktatásban. A médiatudatosság-fejlesztő programokban, modulokban a résztvevők testközelből, szemléletes példákon keresztül ismerjék meg, korszerű infotechnikai környezetben a médiumok működési mechanizmusait a NAT-ban definiált oktatási célokhoz igazodva. | Emberi Erőforrások Miniszter |  |
 
@@ -304,11 +304,11 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 5.3.9. | Tanulási partnerségek a foglalkoztathatóság javításáért | 2,00 | 0,00 | 0,00 | Az aktív korú inaktív, munkanélküli, társadalmi kirekesztődés által sújtott személyek kulcskompetenciáinak fejlesztése társadalmi és munkaerőpicai integrációjuk elősegítése, valamint országos nyitott tanulási központ hálózatának létrehozása és működtetése. | Emberi Erőforrások Miniszter |  |
 
-| 5.3.10. | A leghátrányosabb helyzetű csoportok életviteli kompetenciáinak fejlesztése | 0,00 | 3,30 | 0,00 | Olyan képessé tevő/motiváló képzések, támogató szolgáltatások biztosítása, amelyek lehetővé teszik,hogy később a leghátrányosabb helyzetű csoportok hagyományos képzési/foglalkoztatási programokba sikerrel kapcsolódhassanak be. | Emberi Erőforrások Miniszter |  |
+| 5.3.10. |  |  |  |  |  |  |  |
 
 | 5.3.11. | Elnéptelenedő falvak társadalmi-gazdasági folyamatainak megfordítása | 0,00 | 0,85 | 0,00 | Egyre több településen érzékelhetőek azok a folyamatok, jellemzően az aprófalvas térségekben, hogy a helyi gazdasági lehetőségek híján és az elérhető szolgáltatások hiányosságai okán a települések elnéptelenednek, illetve elöregedik a helyi társadalom. A konstrukció célja egy olyan pilot megvalósítása, amely közösségfejlesztéssel, képzéssel, helyi foglalkoztatási lehetőségek feltárásával, szolgáltatások fejlesztésével, stb. kísérletet tesz ezen folyamatok megállítására, megfordítására. | Emberi Erőforrások Miniszter |  |
 
-| 5.4.1. | Szociális szolgáltatások modernizációja, központi stratégiai tervezési kapacitások megerősítése, szociálpolitikai döntések megalapozása | 1,64 | 0,00 | 0,00 | Szociális szolgáltatások modernizációja, központi stratégiai tervezési kapacitások megerősítése, szociálpolitikai döntések megalapozása | Emberi Erőforrások Miniszter |  |
+| 5.4.1. |  |  |  |  |  |  |  |
 
 | 5.4.2. | Központi szociális információs fejlesztések | 0,00 | 2,11 | 0,00 | A szociális terület informatikai rendszereinek további fejlesztése, az elektronizálás kibővítése új informatikai alkalmazások segítségével, valamint az információáramlás hatékonyságának növelése. | Emberi Erőforrások Miniszter |  |
 
@@ -428,5 +428,5 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | - | - | - | - | - | - |
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1585/2013. (VIII. 28.) Korm. határozat 2. pontja, az 1736/2013. (X. 11.) Korm. határozat 5. pont a) alpontja, az 1111/2014. (III. 6.) Korm. határozat 1. és 2. pont a) pontja, az 1451/2014. (VII. 31.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1585/2013. (VIII. 28.) Korm. határozat 2. pontja, az 1736/2013. (X. 11.) Korm. határozat 5. pont a) alpontja, az 1111/2014. (III. 6.) Korm. határozat 1. és 2. pont a) pontja, az 1451/2014. (VII. 31.) Korm. határozat 4. pont a) alpontja, az 1865/2014. (XII. 30.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
