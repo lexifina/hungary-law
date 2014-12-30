@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-182-00-00
 | 2013-06-30 | 2013. évi CIII. törvény | 2010-182-00-00.8 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 2010-182-00-00.9 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2010-182-00-00.10 |
+| 2014-12-30 | 2014. évi XCIX. törvény | 2010-182-00-00.11 |
