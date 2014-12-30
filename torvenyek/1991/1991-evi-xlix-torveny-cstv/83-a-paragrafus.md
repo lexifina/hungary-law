@@ -12,4 +12,4 @@
 
 (7) A Módtv.-vel beiktatott 83/B. §-t a Módtv. hatálybalépésekor folyamatban lévő közigazgatási hatósági eljárásokban is alkalmazni kell, amennyiben még nem került sor határozathozatalra.
 
-(8) A (2) bekezdést és a 83/C. §-t a Módtv. hatálybalépését megelőzően befejezett felszámolási eljárással érintett vagyontárgyra is alkalmazni kell.
+(8) A (2) bekezdést és a 83/C. §-t a Módtv. hatálybalépésekor folyamatban lévő, továbbá a Módtv. hatálybalépését megelőzően befejezett felszámolási eljárással érintett vagyontárgyra is alkalmazni kell.
