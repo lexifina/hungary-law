@@ -12,7 +12,7 @@
 
 ## 3.1. természeti adottságok (éghajlat, földtan, vízrajz, domborzat, élővilág és egyéb),
 
-## 3.2. a táj jellemzői (tájszerkezet, tájhasználat, tájjelleg, tájkép),
+## 3.2. a táj jellemzői [tájszerkezet, tájhasználat (különös tekintettel a hagyományos tájhasználatra), tájjelleg (tájkarakter), tájkép],
 
 ## 3.3. természet- és tájvédelem,
 
