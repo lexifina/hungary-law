@@ -8,32 +8,34 @@
 
 | 3 | b) jó termőhelyi adottságú szántóterület | Földmérési és Távérzékelési Intézet | Földmérési és Távérzékelési Intézet |
 
-| 4 | c) kiváló termőhelyi adottságú erdőterület | Nemzeti Élelmiszerlánc- biztonsági Hivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 4 | c) kiváló termőhelyi adottságú erdőterület | Nemzeti Élelmiszerlánc-biztonsági Hivatal | megyei kormányhivatal erdészeti igazgatósága |
 
-| 5 | d) világörökségi és világörökségi várományos terület | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ |
+| 5 | d) tájképvédelmi szempontból kiemelten kezelendő terület | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
 
-| 6 | e) országos vízminőség-védelmi terület | Országos Vízügyi Főigazgatóság | Országos Vízügyi Főigazgatóság |
+| 6 | e) világörökségi és világörökségi várományos terület | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ |
 
-| 7 | f) nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkárelhárítási célú szükségtározók területe | Országos Vízügyi Főigazgatóság | Országos Vízügyi Főigazgatóság |
+| 7 | f) országos vízminőség-védelmi terület | Országos Vízügyi Főigazgatóság | Országos Vízügyi Főigazgatóság |
 
-| 8 | g) kiemelt fontosságú honvédelmi terület | honvédelemért felelős miniszter | honvédelemért felelős miniszter |
+| 8 | g) nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkárelhárítási célú szükségtározók területe | Országos Vízügyi Főigazgatóság | Országos Vízügyi Főigazgatóság |
 
-| 9 | 2. Az Országos Területrendezési Tervről szóló törvény szerinti kiemelt térségi és megyei övezetek | a) magterület | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
+| 9 | h) kiemelt fontosságú honvédelmi terület | Honvédelmi Minisztérium Hatósági Hivatal | Honvédelmi Minisztérium Hatósági Hivatal |
 
-| 10 | b) ökológiai folyosó | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
+| 10 | 2. Az Országos Területrendezési Tervről szóló törvény szerinti kiemelt térségi és megyei övezetek | a) magterület | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
 
-| 11 | c) pufferterület | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
+| 11 | b) ökológiai folyosó | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
 
-| 12 | d) erdőtelepítésre javasolt terület | Földmérési és Távérzékelési Intézet | Földmérési és Távérzékelési Intézet |
+| 12 | c) pufferterület | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
 
-| 13 | e) ásványi nyersanyagvagyon terület | Magyar Bányászati és Földtani Hivatal bányakapitánysága | Magyar Bányászati és Földtani Hivatal bányakapitánysága |
+| 13 | d) erdőtelepítésre javasolt terület | Földmérési és Távérzékelési Intézet | Földmérési és Távérzékelési Intézet |
 
-| 14 | f) rendszeresen belvízjárta terület | Országos Vízügyi Főigazgatóság | Országos Vízügyi Főigazgatóság |
+| 14 | e) ásványi nyersanyagvagyon terület | Magyar Bányászati és Földtani Hivatal bányakapitánysága | Magyar Bányászati és Földtani Hivatal bányakapitánysága |
 
-| 15 | g) földtani veszélyforrás területe | Magyar Bányászati és Földtani Hivatal bányakapitánysága | Magyar Bányászati és Földtani Hivatal bányakapitánysága |
+| 15 | f) rendszeresen belvízjárta terület | Országos Vízügyi Főigazgatóság | Országos Vízügyi Főigazgatóság |
 
-| 16 | h) honvédelmi terület | honvédelemért felelős miniszter | honvédelemért felelős miniszter |
+| 16 | g) földtani veszélyforrás területe | Magyar Bányászati és Földtani Hivatal bányakapitánysága | Magyar Bányászati és Földtani Hivatal bányakapitánysága |
 
-2. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^30]
+| 17 | h) honvédelmi terület | Honvédelmi Minisztérium Hatósági Hivatal | Honvédelmi Minisztérium Hatósági Hivatal |
 
-[^30]: A 2. melléklet a 25/2014. (II. 7.) Korm. rendelet 19. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 455. § (1) és (2) bekezdése szerint módosított szöveg.
+2. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^32]
+
+[^32]: A 2. melléklet a 342/2014. (XII. 19.) Korm. rendelet 8. § (3) bekezdés b) pontjával megállapított szöveg.
