@@ -1,0 +1,1 @@
+121. § A 120. § (1) bekezdése szerinti üzletrésznek a Tokaji Borvidék Hegyközségi Tanácsának számviteli nyilvántartásaiba szereplő bekerülési értéke megegyezik az adott vagyonelemre vonatkozó a Magyar Nemzeti Vagyonkezelő Zrt. számviteli nyilvántartásaiban szereplő nyilvántartási értékkel.

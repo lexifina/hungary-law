@@ -1,0 +1,1 @@
+413. § Hatályát veszti a honvédek jogállásáról szóló 2012. évi CCV. törvény 114. § (4) bekezdésében a „ , melynek kifizetése – a központi költségvetés terhére – a Kormány rendelete alapján történik” szövegrész.

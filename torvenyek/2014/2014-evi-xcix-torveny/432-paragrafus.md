@@ -1,0 +1,1 @@
+432. § Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvény 191. § (1) bekezdésében a „(2)–(9)” szövegrész helyébe a „(2)–(10)” szöveg, a „2015. december 31-én” szövegrész helyébe a „2016. január 2-án” szöveg lép.

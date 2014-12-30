@@ -1,0 +1,3 @@
+101. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 137. § (3a) bekezdése helyébe a következő rendelkezés lép:
+
+„(3a) A Kormány által kijelölt szerv az Szt. 18/B. §-a szerint országos nyilvántartást vezet a rendszeres gyermekvédelmi kedvezményről, a gyermektartásdíj megelőlegezésről és az otthonteremtési támogatásról (a továbbiakban együtt: pénzbeli és természetbeni ellátás), valamint a pénzbeli és természetbeni ellátásra jogosult személyről és – az otthonteremtési támogatás kivételével – a pénzbeli és természetbeni ellátásra jogosult személy gondozó családjáról.”

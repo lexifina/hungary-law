@@ -1,0 +1,1 @@
+163. § A helyi adókról szóló 1990. évi C. törvény 1/A. § (5) bekezdésében a „bevétele.” szövegrész helyébe a „bevétele, amelyet fejlesztési célra és a települési önkormányzat képviselő-testületének hatáskörébe tartozó szociális ellátások finanszírozására használhat fel.” szöveg lép.

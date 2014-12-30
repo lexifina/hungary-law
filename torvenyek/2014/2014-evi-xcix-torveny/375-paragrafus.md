@@ -1,0 +1,3 @@
+375. § (1) Hatályát veszti a nemzeti köznevelésről szóló 2011. évi CXC. törvény 7. § (5) bekezdésében az „A vidékfejlesztésért felelős miniszter által fenntartott szakképző iskolában kizárólag az agrárpolitikáért, az élelmiszeriparért, az erdőgazdálkodásért, a halgazdálkodásért, a földügyért és térképészetért, a környezetvédelemért és vízgazdálkodásért, valamint a vadgazdálkodásért felelős miniszter hatáskörébe tartozó szakképesítések oktathatóak, ezen túli szakképzések indításához az állami köznevelési közfeladatellátás keretében állami intézményfenntartásra kijelölt szerv (a továbbiakban: állami intézményfenntartó központ) hozzájárulását ki kell kérni.” szövegrész.
+
+(2) Hatályát veszti a nemzeti köznevelésről szóló 2011. évi CXC. törvény 72. § (3) bekezdése.

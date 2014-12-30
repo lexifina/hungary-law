@@ -1,0 +1,3 @@
+387. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 79. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A víziközmű vagy víziközmű létrehozására irányuló beruházás, amely olyan gazdálkodó szervezet tulajdonában áll, amely felett – ide nem értve a munkavállalói résztulajdont – a tulajdoni részesedés egésze a nemzeti vagyonba tartozik, 2013. január 1-jén az ellátásért felelős tulajdonába kerül. A tulajdonjog e törvény erejénél fogva ingyenesen, víziközmű esetében a tulajdonjog tárgyát képező dologhoz vagy beruházáshoz kötődő jogokkal és az azzal járó vagy kapcsolatos terhekkel együttesen száll át.”

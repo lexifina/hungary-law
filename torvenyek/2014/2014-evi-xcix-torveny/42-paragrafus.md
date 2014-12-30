@@ -1,0 +1,3 @@
+42. § Az államháztartásról szóló 2011. évi CXCV. törvény 91. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A helyi önkormányzat költségvetésének végrehajtására vonatkozó zárszámadási rendelet tervezetét a jegyző készíti elő és a polgármester terjeszti a képviselő-testület elé úgy, hogy az a képviselő-testület elé terjesztését követő harminc napon belül, de legkésőbb a költségvetési évet követő ötödik hónap utolsó napjáig hatályba lépjen. A zárszámadási rendelet tervezetével együtt a képviselő-testület részére tájékoztatásul be kell nyújtani a kincstár 68/A. § szerinti ellenőrzése keretében a helyi önkormányzat éves költségvetési beszámolójával kapcsolatosan elkészített jelentését.”
