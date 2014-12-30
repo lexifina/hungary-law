@@ -6,4 +6,4 @@ b) új intézmény létrehozása esetén csak a 75. § (2) bekezdés a) vagy b) 
 
 formájában lehet létrehozni.
 
-(2) Bentlakásos intézményi ellátás 2014. december 31-éig működtethető lakóotthoni formában.
+(2)
