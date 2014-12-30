@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-100-00-00
 | 2014-09-01 | 2013. évi CCLII. törvény | 2003-100-00-00.51 |
 | 2014-09-30 | 2014. évi XXXIX. törvény | 2003-100-00-00.52 |
 | 2014-10-07 | 2014. évi XLI. törvény | 2003-100-00-00.53 |
+| 2014-12-30 | 2014. évi XCIX. törvény | 2003-100-00-00.54 |
