@@ -20,7 +20,7 @@ db) a 2014. évben történt felvásárlásokhoz kapcsolódóan a vételár megf
 
 e) a meggyfeldolgozó kamarai tagságát igazoló dokumentumot,
 
-f) a meggyfeldolgozó ISO és HACCP, illetve IFS tanúsítványt igazoló dokumentum másolatát,
+f)[^3] a meggyfeldolgozó ISO, HACCP, IFS, BRC tanúsítvány valamelyikét igazoló dokumentum másolatát,
 
 g) a meggyfeldolgozó letevő esetén a meggy származását és fajtáját és a feldolgozás idejét igazoló nyilatkozatot,
 
@@ -47,3 +47,5 @@ a) az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes 
 b) a közraktár által a közraktározási díjról kiállított számla másolatát, és
 
 c) a közraktári díj megfizetését igazoló dokumentum másolatát.
+
+[^3]: Az 5. § (3) bekezdés f) pontja a 43/2014. (XII. 29.) FM rendelet 72. § (2) bekezdés b) pontja szerint módosított szöveg.

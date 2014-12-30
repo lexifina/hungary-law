@@ -8,7 +8,7 @@
 
 3. közraktár: a közraktározásról szóló 1996. évi XLVIII. törvény 1. §-a szerinti részvénytársaság vagy külföldi székhelyű vállalkozás magyarországi fióktelepe;
 
-4. meggyfeldolgozó: a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaránál (a továbbiakban: Kamara) tagsággal rendelkező élelmiszer-feldolgozási tevékenységet végző vállalkozás, amely az élelmiszerek forgalomba hozatalának, valamint előállításának engedélyezéséről, illetve bejelentéséről szóló 57/2010. (V. 7.) FVM rendelet által előírt bejelentési kötelezettségnek eleget tett és ISO tanúsítvány továbbá HACCP illetve IFS tanúsítvánnyal rendelkezik;
+4.[^2] meggyfeldolgozó: a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaránál (a továbbiakban: Kamara) tagsággal rendelkező élelmiszer-feldolgozási tevékenységet végző vállalkozás, amely az élelmiszerek forgalomba hozatalának, valamint előállításának engedélyezéséről, illetve bejelentéséről szóló 57/2010. (V. 7.) FVM rendelet által előírt bejelentési kötelezettségnek eleget tett és ISO, HACCP, IFS, BRC tanúsítványok valamelyikével rendelkezik;
 
 5. mezőgazdasági termelő: a Kamaránál tagsággal rendelkező termelő, aki vagy amely a 2014. évi egységes kérelmében a meggy növénykultúrát azonosító „ULT 16” hasznosítási kódot megjelölt;
 
@@ -19,3 +19,5 @@
 8. termelői értékesítési csoport: a zöldség-gyümölcs termelői csoportokról és termelői csoportokról és szervezetekről szóló 150/2012. (XII. 28.) VM rendelet 1. § o) pontjában meghatározott zöldség-gyümölcs termelői csoport;
 
 9. többlettermés: az 1. pontban megjelölt meggyfajták tekintetében a letevő által a tárgyévet megelőző három éves időszakban megtermelt, illetve számlával vagy felvásárlási jeggyel igazoltan felvásárolt összes termésmennyiségek összegének azon évek figyelembevételével képzett számtani átlaga, amikor termelés vagy felvásárlás történt, valamint a 2014. évben általa megtermelt, illetve számlával vagy felvásárlási jeggyel igazoltan felvásárolt termésmennyiség összegének különbözete.
+
+[^2]: Az 1. § 4. pontja a 43/2014. (XII. 29.) FM rendelet 72. § (2) bekezdés a) pontja szerint módosított szöveg.
