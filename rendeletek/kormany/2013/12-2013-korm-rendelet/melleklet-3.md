@@ -28,7 +28,7 @@
 
 | 13. | erdő igénybevétele és fakitermelés bejelentése | illetékes megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-3. melléklet a 12/2013. (I. 22.) Korm. rendelethez[^5]
+3. melléklet a 12/2013. (I. 22.) Korm. rendelethez[^6]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -68,4 +68,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 16. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-[^5]: A 3. melléklet az 527/2013. (XII. 30.) Korm. rendelet 136. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 112–113. §-a szerint módosított szöveg.
+[^6]: A 3. melléklet az 527/2013. (XII. 30.) Korm. rendelet 136. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 112–113. §-a szerint módosított szöveg.
