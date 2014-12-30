@@ -1,0 +1,7 @@
+A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (3) bekezdés c) pontjában kapott felhatalmazás alapján,
+
+a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 1. pontjában meghatározott feladatkörömben eljárva
+
+a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 4. pontjában meghatározott feladatkörében eljáró belügyminiszterrel egyetértésben
+
+a következőket rendelem el:
