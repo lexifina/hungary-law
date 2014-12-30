@@ -1,3 +1,5 @@
+## 4/A. Az Államadósság Kezelő Központ feladatai
+
 13. § (1) A központi költségvetés költségvetési hiányának finanszírozása érdekében az államháztartásért felelős miniszter az ÁKK Zrt. útján
 
 a) a központi költségvetésről szóló törvény felhatalmazása alapján szervezi az államháztartás központi alrendszere adósságának a 3. § (1) bekezdés a) és b) pontja szerinti adósságot keletkeztető ügyletből származó része terhére elszámolandó állampapír-kibocsátást, hitelfelvételt és adósság-átvállalást,

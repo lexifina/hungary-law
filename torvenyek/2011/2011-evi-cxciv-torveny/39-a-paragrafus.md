@@ -1,3 +1,5 @@
+## 8/C. A Stabilitási Megtakarítási Számla
+
 39/A. § (1) Magyarország külföldi pénznemben fennálló adósságának csökkentése érdekében külön jogszabály szerinti Stabilitás Megtakarítási Számlára befizetett összeg tekintetében e § rendelkezéseit kell alkalmazni. A Stabilitás Megtakarítási Számlára, a számlavezető befektetési vállalkozás és a hitelintézet befektetési szolgáltatási és kiegészítő befektetési szolgáltatási tevékenységére a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.), valamint e törvények felhatalmazása alapján kiadott jogszabályok rendelkezéseit az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályban foglalt eltéréssel kell alkalmazni.
 
 (2) A Stabilitás Megtakarítási Számla befektetési tevékenységet végző hitelintézet által vezetett számla, amely stabilitás megtakarítási értékpapírszámlából és stabilitás megtakarítási pénzszámlából áll.

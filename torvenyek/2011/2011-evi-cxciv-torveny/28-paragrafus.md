@@ -2,6 +2,8 @@
 
 ## A KÖZTEHERVISELÉS ALAPVETŐ SZABÁLYAI
 
+## 8/A. A közterhek
+
 28. § (1) Magyarországon minden természetes személy, jogi személy és más jogalany
 
 a) adó, járulék, hozzájárulás, vagyonszerzési illeték, bírság, pótlék vagy más hasonló – az állam közvetlen ellenszolgáltatása nélküli – rendszeres vagy rendkívüli fizetési kötelezettség, továbbá

@@ -6,4 +6,6 @@
 
 (3) A 36. § 2013. január 1-jén lép hatályba.
 
-(4) A 4. § (2) bekezdése és a 38. § 2015. január 1-jén lép hatályba.
+(4) A 4. § (2) bekezdése 2015. január 1-jén lép hatályba.
+
+(5) A 38. § 2016. január 1-jén lép hatályba.
