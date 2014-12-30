@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-39-20-2
 | 2014-01-01 | 2011-39-20-2Y.7 | 140/2011. (XII. 22.) VM rendelet |
 | 2014-04-05 | 2011-39-20-2Y.8 | 36/2014. (IV. 4.) VM rendelet |
 | 2014-10-30 | 2011-39-20-2Y.9 | 18/2014. (X. 29.) FM rendelet |
+| 2014-12-30 | 2011-39-20-2Y.10 | 140/2011. (XII. 22.) VM rendelet |
