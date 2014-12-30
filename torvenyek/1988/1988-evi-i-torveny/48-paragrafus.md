@@ -14,7 +14,7 @@ a) a Kormány, hogy
 
 4. a közúti közlekedésbiztonság állami feladatainak teljesítéséhez szükséges pénzügyi forrásokat és azok felhasználásának módját,
 
-5. A közúti közlekedési szolgáltatás, a saját számlás áruszállítási és a saját számlás személyszállítási tevékenység, valamint az autómentési tevékenység végzésének a feltételeit, továbbá a járművek üzemeltetésének általános feltételeit,
+5. A közúti közlekedési szolgáltatás, a saját számlás áruszállítási és a saját számlás személyszállítási tevékenység, valamint az autómentési tevékenység végzésének a feltételeit, ezen tevékenységek végzéséhez használható járművek üzemeltetésének általános feltételeit, továbbá az e járművek vezetőinek képzésére vonatkozó feltételeket,
 
 6. a közúti járművek üzemanyag-felhasználása költségtérítésként elszámolható mértékének szabályait,
 
@@ -75,6 +75,8 @@ a) a Kormány, hogy
 34. az országos közutak, valamint az állam tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek vonatkozásában díjfizetési kötelezettséggel érintett várakozási területek kijelölését, azok kategóriáját, várakozási területenként vagy kategóriánként a díjköteles várakozási időszakot, a fizetendő várakozási díj mértékét, a díjköteles várakozás megengedett leghosszabb időtartamát, valamint a díjfizetés alól mentesítettek, valamint a kedvezményes várakozásra jogosultak körét, a kedvezményes várakozási díj mértékét,
 
 35. az Információs Hivatal állományának tagjai, járművei és magánútjai, valamint az általa üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket
+
+36. a 33/A. § szerinti használati díj és pótdíj központi költségvetésbe történő befizetésének rendjét, részletes szabályait, továbbá az elszámolás számviteli szabályait;
 
 b) a miniszter, hogy
 
@@ -191,6 +193,8 @@ m) a közlekedésért felelős miniszterrel egyetértésben
 ma) a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket, valamint
 
 mb) az egyes rendvédelmi szerveket irányító miniszter, hogy – az Információs Hivatal kivételével – a rendvédelmi szervek állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket,
+
+mc) a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter, hogy a Nemzeti Adó- és Vámhivatal állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket;
 
 n) a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti auditori tevékenység engedélyezésére vonatkozó igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
 

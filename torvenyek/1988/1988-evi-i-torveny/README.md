@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2014-01-01 | 2013. évi CC. törvény | 1988-1-00-00.69 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1988-1-00-00.70 |
 | 2014-05-01 | 2013. évi CCXXVIII. törvény | 1988-1-00-00.71 |
+| 2014-12-30 | 2014. évi XCIX. törvény | 1988-1-00-00.72 |
