@@ -1,6 +1,6 @@
 ## A helyi önkormányzatok belső kontrollrendszere
 
-119. § (1) A helyi önkormányzatnak nyújtott európai uniós és az ahhoz kapcsolódó költségvetési támogatások felhasználását az Európai Számvevőszék és az Európai Bizottság illetékes szervezetei, kormányzati ellenőrzési szerv, a fejezetek ellenőrzési szervezetei, a Magyar Államkincstár, az ellenőrzési hatóság, az európai uniós támogatások irányító hatóságai és a közreműködő szervezetek képviselői is ellenőrizhetik.
+119. § (1) A helyi önkormányzatnak nyújtott európai uniós és az ahhoz kapcsolódó költségvetési támogatások felhasználását az Európai Számvevőszék és az Európai Bizottság illetékes szervezetei, kormányzati ellenőrzési szerv, a fejezetek ellenőrzési szervezetei, a kincstár, az ellenőrzési hatóság, az európai uniós támogatások irányító hatóságai és a közreműködő szervezetek képviselői is ellenőrizhetik.
 
 (2) A központi költségvetési, európai uniós vagy egyéb nemzetközi támogatásban részesülő önkormányzat vagy társulás köteles a támogatást nyújtó, a támogatás lebonyolításában részt vevő és a támogatást ellenőrző szervezetekkel együttműködni.
 

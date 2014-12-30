@@ -16,7 +16,7 @@ e) kezdeményezheti a határozathozatali, feladat ellátási kötelezettségét 
 
 f) javasolhatja a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek, hogy kezdeményezze a Kormánynál az Alaptörvénnyel ellentétesen működő képviselő-testület feloszlatását;
 
-g) kezdeményezheti a Magyar Államkincstárnál a központi költségvetésből járó támogatás jogszabályban meghatározott részének visszatartását vagy megvonását;
+g) kezdeményezheti a helyi önkormányzatnak a központi költségvetés terhére nyújtott támogatások felülvizsgálatát a 117. § (1) bekezdés a) pontja szerinti támogatás esetében a kincstárnál, a helyi önkormányzatnak nyújtott költségvetési támogatás esetében a támogatónál;
 
 h) pert indíthat a sorozatos törvénysértést elkövető polgármester tisztségének megszüntetése iránt;
 

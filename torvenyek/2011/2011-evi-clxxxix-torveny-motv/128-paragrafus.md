@@ -10,7 +10,7 @@ d) koordinálja a helyi önkormányzatok rendelkezésére bocsátott fejlesztés
 
 e) közreműködik az önkormányzatok feladatfinanszírozási rendszeréhez szükséges, továbbá kormányzati döntéseket megalapozó önkormányzati adatok gyűjtésében, rendszerezésében;
 
-f) jogosult az államháztartásért felelős miniszter útján a Magyar Államkincstár önkormányzatok gazdálkodását érintő helyszíni vizsgálata elrendelésére;
+f) jogosult az államháztartásért felelős miniszter útján a kincstár önkormányzatok gazdálkodását érintő helyszíni vizsgálata elrendelésére;
 
 g) jogosult az államháztartás információs rendszerének valamennyi, az államháztartás önkormányzati alrendszerére vonatkozó adatának megismerésére, rendszerezésére;
 

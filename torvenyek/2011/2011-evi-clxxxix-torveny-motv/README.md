@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-189-00-00
 | 2014-10-13 | 2010. évi CXXX. törvény | 2011-189-00-00.23 |
 | 2014-11-26 | 2014. évi LXXI. törvény | 2011-189-00-00.24 |
 | 2014-12-12 | 2014. évi LXXXV. törvény | 2011-189-00-00.25 |
+| 2014-12-30 | 2014. évi XCIX. törvény | 2011-189-00-00.26 |
