@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-218-20-
 | 2014-09-05 | 2009-218-20-22.13 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2014-09-10 | 2009-218-20-22.14 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2014-12-22 | 2009-218-20-22.15 | 342/2014. (XII. 19.) Korm. rendelet |
+| 2014-12-30 | 2009-218-20-22.16 | 342/2014. (XII. 19.) Korm. rendelet |

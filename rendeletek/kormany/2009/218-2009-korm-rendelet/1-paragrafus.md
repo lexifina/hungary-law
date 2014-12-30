@@ -26,9 +26,15 @@ k) területi cél: egy-egy, a térségen belüli térségtípusra, rész terüle
 
 l)[^4]
 
-m) területi terv készítése: a területi terv kidolgozásának, egyeztetésének és elfogadásának együttes megnevezése.
+m) területi terv készítése: a területi terv kidolgozásának, egyeztetésének és elfogadásának együttes megnevezése,
+
+n)[^5] hagyományos tájhasználat: egy adott tájrészletre jellemző, a természeti adottságokon alapuló és a helyi gazdálkodási kultúrának megfelelő olyan területhasználati vagy más haszonvételezési mód, amely meghatározza a táj jellegét és biztosítja természeti és kulturális értékeinek fenntartható hasznosítását,
+
+o)[^6] tájjelleg (tájkarakter): a természeti és antropogén tájalkotó tényezők együtthatásából kialakuló, adott tájrészletre jellemző mintázat vagy rendszer, amely egy tájat más tájrészletektől megkülönböztethetővé tesz.
 
 [^1]: Az 1. § d) pontja a 25/2014. (II. 7.) Korm. rendelet 16. § a) pontja és 17. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § g) pontja a 67/2012. (IV. 5.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § h) pontja a 25/2014. (II. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^4]: Az 1. § l) pontját a 25/2014. (II. 7.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^5]: Az 1. § n) pontját a 342/2014. (XII. 19.) Korm. rendelet 6. §-a iktatta be.
+[^6]: Az 1. § o) pontját a 342/2014. (XII. 19.) Korm. rendelet 6. §-a iktatta be.

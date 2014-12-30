@@ -10,7 +10,7 @@
 
 ## 3.1. természeti adottságok (éghajlat, földtan, vízrajz, domborzat, élővilág és egyéb),
 
-## 3.2. a táj jellemzői (tájszerkezet, tájhasználat, tájjelleg, tájkép),
+## 3.2. a táj jellemzői [tájszerkezet, tájhasználat (különös tekintettel a hagyományos tájhasználatra), tájjelleg (tájkarakter), tájkép],
 
 ## 3.3. természet- és tájvédelem,
 
@@ -18,7 +18,7 @@
 
 ## 3.5. épített környezet és a kulturális örökség védelme (építészeti örökség, műemléki értékek, régészeti lelőhelyek, emlékhelyek),
 
-## 3.6 világörökségi és világörökségi várományos területek védelme,
+## 3.6. világörökségi és világörökségi várományos területek védelme,
 
 ## 3.7. a térszerkezet alakulása, a területfelhasználás változásai, tendenciák, valamint a településhálózat értékelése,
 
@@ -158,13 +158,13 @@
 
 | - a Vásárhelyi-terv továbbfejlesztése (VTT) keretében megvalósuló vízkár-elhárítási célú szükségtározó |
 
-| - 10 millió m3-t meghaladó térfogatú vízkár-elhárítási célú tározási fejlesztési lehetőség |
+| - 10 millió m3-t meghaladó térfogatú, vízkár-elhárítási célú tározási fejlesztési lehetőség |
 
 |  | - 1 millió m3-t meghaladó és 10 millió m3-nél kisebb térfogatú vízkár-elhárítási célú tározási fejlesztési lehetőség |
 
-| - kiemelt jelentőségű vízi építmény |
+| - | kiemelt jelentőségű vízi építmény |
 
-| - országos jelentőségű csatorna |
+| - | országos jelentőségű csatorna |
 
 |  | - térségi csatorna |
 
@@ -172,7 +172,7 @@
 
 |  | - másodrendű árvízvédelmi fővédvonal |
 
-| - | veszélyeshulladék-lerakó |
+| - veszélyeshulladék-lerakó |
 
 | - veszélyeshulladék-égetőmű |
 
@@ -198,9 +198,7 @@
 
 |  | - erdőtelepítésre javasolt terület |
 
-| - országos jelentőségű tájképvédelmi terület |
-
-|  | - térségi jelentőségű tájképvédelmi terület |
+| - tájképvédelmi szempontból kiemelten kezelendő terület |
 
 | - világörökségi és világörökségi várományos terület |
 
@@ -266,10 +264,12 @@
 
 ## ea) az ország területrendezési terve: M = 1:500 000,
 
-## eb) régió, kiemelt térség, megye vagy megye egy térségének területrendezési terve: M = 1:50 000-1:100 000.
+## eb) régió, kiemelt térség, megye vagy megye egy térségének területrendezési terve:
 
-8. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^50]
+## M = 1:50 000-1:100 000.
+
+8. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^52]
 
 A MEGYEI TERÜLETRENDEZÉSI TERVEK JELKULCSA
 
-[^50]: A 8. melléklet a 25/2014. (II. 7.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^52]: A 8. melléklet a 25/2014. (II. 7.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
