@@ -1,0 +1,3 @@
+A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés j) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában megállapított feladatkörömben eljárva, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 10. és 15. pontjában meghatározott feladatkörében eljáró belügyminiszterrel, valamint a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. és 6. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben
+
+a következőket rendelem el:
