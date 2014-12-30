@@ -1,6 +1,6 @@
 27. § (1) Az átviteli rendszerirányító és a csatlakozás biztosítására jogosult elosztó hálózati engedélyes köteles a rendszerhasználói igény kielégítésének műszaki, gazdasági feltételeiről tájékoztatást adni, és a legkedvezőbb vételezési vagy betáplálási mód meghatározásában a rendszerhasználóval együttműködni.
 
-(2) A hálózati engedélyesek az átviteli és az elosztó hálózathoz való csatlakozást egy adott csatlakozási pontra a hálózat műszaki jellemzőire tekintettel megtagadhatják.
+(2) A hálózati engedélyes az átviteli vagy az elosztó hálózathoz való csatlakozást egy adott csatlakozási pontra kizárólag a hálózat műszaki jellemzőire tekintettel tagadhatja meg.
 
 (3) A hálózati engedélyesnek az átviteli vagy elosztó hálózathoz való csatlakozás megtagadásakor meg kell határoznia azokat a feltételeket, amelyek teljesülése esetén a csatlakozás biztosítható, és a műszaki lehetőségek fennállása vagy megteremthetősége esetén köteles egy másik csatlakozási pontot kijelölni.
 
@@ -14,4 +14,4 @@ b) az új csatlakozási pont miatt szükséges, csatlakozási pont közelében t
 
 (4) A Hivatal a rendszerhasználó kérelmére felülvizsgálja a csatlakozás megtagadásának jogszerűségét. Amennyiben a csatlakozás megtagadása nem a (2)–(3) bekezdésben meghatározott jogszabályi előírásoknak megfelelően történt, a Hivatal az érintett hálózati engedélyest határozatban kötelezi az átviteli, illetve elosztó hálózathoz való csatlakozás biztosítására.
 
-(5) A (4) bekezdés szerinti határozatnak megfelelő csatlakozás esetén a rendszerhasználó a Hivatal elnökének rendeletében megállapított mértékű csatlakozási díjat fizet
+(5) A rendszerhasználó a csatlakozás biztosítását megelőzően köteles a hálózati engedélyes részére megfizetni a Hivatal elnökének rendeletében megállapított mértékű csatlakozási díjat.

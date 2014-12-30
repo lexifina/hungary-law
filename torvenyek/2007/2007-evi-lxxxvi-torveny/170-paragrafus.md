@@ -136,7 +136,7 @@ rendeletben állapítsa meg.
 
 16. a szélerőmű létesítésére irányuló pályázat kiíróját, kiírásának feltételeit, a pályázati kiírás közzétételének szabályait, minimális tartalmi követelményeit, valamint a pályázati eljárás szabályait,
 
-17. a hálózathoz való csatlakozás lényeges feltételeit,
+17.
 
 18. az elsődleges energiaforrás választásának és felhasználásának az új termelő kapacitások engedélyezése során történő korlátozásának részletes szabályait,
 
