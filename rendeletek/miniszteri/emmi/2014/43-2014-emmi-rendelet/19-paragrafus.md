@@ -1,3 +1,3 @@
-## 18. §[^9]
+## 18. §[^11]
 
-[^9]: A 18. § a 15. § alapján hatályát vesztette.
+[^11]: A 18. § a 15. § alapján hatályát vesztette.
