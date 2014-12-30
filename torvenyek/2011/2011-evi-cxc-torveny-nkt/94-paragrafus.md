@@ -106,7 +106,7 @@ t) – az óvoda kivételével – a nevelési-oktatási intézményekben alkalm
 
 u) a szaktanácsadói névjegyzékbe történő felvételhez szükséges dokumentumok körét,
 
-v) 2014. szeptember 1. és 2017. augusztus 31. között az egyes tanévekre vonatkozóan az illetményalapnak a teljes munkaidőre megállapított kötelező legkisebb alapbér (minimálbér) havi összegének százalékában meghatározott tanévenkénti mértékét
+v) 2015. szeptember 1. és 2017. augusztus 31. között az egyes tanévekre vonatkozóan az illetményalapnak a mindenkori költségvetési törvényben rögzített vetítési alap százalékában meghatározott tanévenkénti mértékét,
 
 w) a pedagógiai szakszolgálati tevékenységek során alkalmazott integrált nyomonkövető rendszer létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét
 
