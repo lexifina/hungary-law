@@ -1,4 +1,4 @@
-## 26. §[^42]
+## 26. §[^43]
 
 ## 8. A vezetendő nyilvántartások tartalma
 
@@ -26,7 +26,7 @@ j) az elszámolás időpontja,
 
 k) a pályázatból kizártak listája.
 
-(2)[^43] Az Alapkezelő a Bgatv. 4. § (2) bekezdése, valamint (4) és (5) bekezdése szerint összesítve is nyilvántartja az Alap éves bevételeit. A bevételek között külön jogcímen tartja nyilván az Alapnak visszafizetett pénzeszközöket, az Alap javára behajtott összeget.
+(2)[^44] Az Alapkezelő a Bgatv. 4. § (2) bekezdése, valamint (4) és (5) bekezdése szerint összesítve is nyilvántartja az Alap éves bevételeit. A bevételek között külön jogcímen tartja nyilván az Alapnak visszafizetett pénzeszközöket, az Alap javára behajtott összeget.
 
-[^42]: A 7. alcímet (26. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
-[^43]: A 27. § (2) bekezdése a 384/2012. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^43]: A 7. alcímet (26. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^44]: A 27. § (2) bekezdése a 384/2012. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.

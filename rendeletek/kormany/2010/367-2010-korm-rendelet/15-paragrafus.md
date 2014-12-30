@@ -1,4 +1,4 @@
-## 14. §[^21] Ha a támogatást gazdasági tevékenységéhez olyan kedvezményezett kapja, amelynek székhelye, telephelye, illetőleg fióktelepe az Európai Unióban, vagy az Európai Unióval előcsatlakozási szerződést kötött államban van, támogatása az EUMSZ 107. cikk szerinti állami támogatásnak minősül, amely az Atr.-rel, valamint e pont rendelkezéseivel összhangban a 15–17. §-ban felsorolt támogatási kategóriák szerint nyújtható.
+## 14. §[^22] Ha a támogatást gazdasági tevékenységéhez olyan kedvezményezett kapja, amelynek székhelye, telephelye, illetőleg fióktelepe az Európai Unióban, vagy az Európai Unióval előcsatlakozási szerződést kötött államban van, támogatása az EUMSZ 107. cikk szerinti állami támogatásnak minősül, amely az Atr.-rel, valamint e pont rendelkezéseivel összhangban a 15–17. §-ban felsorolt támogatási kategóriák szerint nyújtható.
 
 15. § (1) Csekély összegű támogatás nyújtható
 
@@ -48,4 +48,4 @@ h) nehéz helyzetben lévő vállalkozások részére.
 
 (10) A kedvezményezett és a támogatást nyújtó köteles a csekély összegű támogatáshoz kapcsolódó minden iratot az odaítélést követő 10 évig megőrizni és a támogatást nyújtó ilyen irányú felhívása esetén azokat bemutatni.
 
-[^21]: A 14. § a 37/2011. (III. 22.) Korm. rendelet 40. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^22]: A 14. § a 37/2011. (III. 22.) Korm. rendelet 40. § (1) bekezdés e) pontja szerint módosított szöveg.

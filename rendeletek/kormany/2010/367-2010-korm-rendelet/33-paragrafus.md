@@ -2,6 +2,6 @@
 
 ## VI. VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
-## 11.[^51]
+## 11.[^53]
 
-[^51]: A 11. alcímet (33. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^53]: A 11. alcímet (33. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
