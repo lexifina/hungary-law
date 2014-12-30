@@ -1,0 +1,159 @@
+# A Kormány 366/2014. (XII. 30.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 187. szám, 2014. december 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/5bda5cc1717d7ce40e7293ddaa80eff51f77f51e/dokumentumok/a504db71985f99e9f48967d58ca7589d233e4a67/letoltes)
+
+---
+
+A Kormány 366/2014. (XII. 30.) Korm. rendelete
+a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások
+felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (2a) bekezdésében kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának
+rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 3. § (1) bekezdés
+4. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„4. ellenőrzési nyomvonal: a támogatástervezési, pénzügyi irányítási és kontrollrendszer leírása szövegesen,
+táblázatba foglalva vagy folyamatábrával szemléltetve, amely tartalmazza különösen a felelősségi és információs
+szinteket, kapcsolatokat, az irányítási és kontrollfolyamatokat, valamint az ezen kontrollokat alátámasztó
+dokumentumokat, lehetővé téve azok nyomon követését és utólagos ellenőrzését a támogatások felhasználása
+során,”
+2. §
+A 272/2014. (XI. 5.) Korm. rendelet 128. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A támogatás jogosultja a projekt megvalósítás időszakában a megítélt támogatás 90%-áig a kifizetési
+igénylésben szereplő elszámolni kívánt költségeket teljes egészében lehívhatja (halasztott önerő). A megítélt
+támogatási összeg 90%-ának kifizetését követően a felmerült költségeket az önerő arányos teljesítésével, továbbá
+a támogatás teljes összegének kifizetését követően önerőből kell rendezni és arról a kifizetési igénylésben
+elszámolni.”
+3. §
+A 272/2014. (XI. 5.) Korm. rendelet 132. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A tisztázó kérdés megválaszolására rendelkezésre álló határidő a jogszabályban előírt kifizetési határidőt
+felfüggeszti.”
+4. §
+A 272/2014. (XI. 5.) Korm. rendelet 152. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A támogatást igénylő vagy a kedvezményezett a támogatási kérelem benyújtásának időpontjától a támogatási
+jogviszony időtartama alatt elektronikus úton
+
+a) – közreműködő szervezet kijelölése esetén – a közreműködő szervezet döntése ellen, a kifizető ügynökség
+döntése ellen és az irányító hatóság döntése ellen az európai uniós források felhasználásáért felelős miniszternek
+címzett,
+b) a helyi akciócsoport döntése ellen TOP esetén a közreműködő szervezetnek, Vidékfejlesztési Program esetén
+a kifizető ügynökségnek címzett
+kifogást nyújthat be, ha a projekt kiválasztási eljárásra, a támogatási döntés meghozatalára, a támogatói okirat
+kiadására vagy a támogatási szerződés megkötésére, a támogatás folyósítására, visszakövetelésére vonatkozó eljárás
+jogszabálysértő vagy a felhívásba, támogatási szerződésbe ütközik.”
+5. §
+A 272/2014. (XI. 5.) Korm. rendelet 189. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az audit hatóság évente elvégzi az operatív programok esetén az igazoló hatóság által az előző számviteli évben
+az Európai Bizottság felé bejelentett költségek mintavételes ellenőrzését.”
+6. §
+A 272/2014. (XI. 5.) Korm. rendelet 197. § (8) bekezdése helyébe a következő rendelkezés lép:
+„(8) Az elektronikus alkalmazásban használt elektronikus aláírások a belső piacon történő elektronikus
+tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv
+hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet értelmében
+hiteles aláírásnak minősülnek, kiváltják az ahhoz fűződő joghatásokat és bírósági eljárásokban bizonyítékként
+elfogadhatók.”
+7. §
+A 272/2014. (XI. 5.) Korm. rendelet 201. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(E rendelet végrehajtás-tervezés alcímét a 2015. évi éves fejlesztési keretre vonatkozóan a következő eltérésekkel kell
+alkalmazni:)
+„b) a 42. § (1) és (2) bekezdésében foglaltakat úgy kell elvégezni, hogy az éves fejlesztési keretet az NFK 2015. január
+31-ig elfogadhassa.”
+8. §
+A 272/2014. (XI. 5.) Korm. rendelet 66. alcíme a következő 201/A. §-sal egészül ki:
+„201/A. § Ha a 2014–2020 programozási időszakhoz kapcsolódó közbeszerzés tekintetében a 4/2011. (I. 28.)
+Korm. rendelet 39/B–40/A. §-a vagy 44. §-a alkalmazásának lett volna helye, de az eljárás megindítására vagy
+a szerződés módosítására a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból,
+az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló
+4/2011. (I. 28.) Korm. rendelet és az egységes működési kézikönyvről szóló 547/2013. (XII. 30.) Korm. rendelet
+módosításáról szóló 203/2014. (VIII. 14.) Korm. rendelet hatálybalépését megelőzően úgy került sor, hogy a 4/2011.
+(I. 28.) Korm. rendelet 39/B–40/A. §-a vagy 44. §-a rendelkezéseit nem alkalmazták, a támogatást igénylő, illetve
+a kedvezményezett a 109. § (1) bekezdése szerint utólagos ellenőrzésre köteles benyújtani az eljárás, illetve
+módosítás dokumentumait. Ebben az esetben az európai uniós források felhasználásáért felelős miniszter
+a folyamatban lévő közbeszerzési eljárásba megfigyelőt nem jelöl, és nem kerül sor a 106. § szerinti ellenőrzésre.”
+9. §
+A 272/2014. (XI. 5.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
+10. § (1) A 272/2014. (XI. 5.) Korm. rendelet
+a) 56. § (8) bekezdés d) pontjában és 56. § (9) bekezdés c) pontjában a„támogatási kérelem”szövegrész helyébe
+a„projektdokumentáció”szöveg,
+b) 60. § (4) bekezdésében az„az nem”szövegrész helyébe az„a támogatási kérelme nem”szöveg,
+c) 119. § (1) bekezdésében a„szerződés elszámolható” szövegrész helyébe a„szerződés – tartalékkeret nélküli –
+elszámolható”szöveg,
+d) 154. § (1) bekezdés nyitó szövegrészében a „kifogást elbíráló szervezet” szövegrész helyébe a „kifogás
+153. § (3) bekezdés b) pontja szerinti felterjesztéséig az irányító hatóság vagy a közreműködő szervezet,
+a felterjesztést követően az európai uniós források felhasználásáért felelős miniszter vagy helyi akciócsoport
+döntése ellen benyújtott kifogás esetén a közreműködő szervezet vagy a kifizető ügynökség”szöveg,
+e) 187. § (1) bekezdésében az „együtt – az államháztartásért felelős miniszter és az audit hatóság részére”
+szövegrész helyébe az„együtt – az államháztartásért felelős miniszter részére”szöveg,
+
+f) 201. § (1) bekezdésében a „Korm. rendelet” szövegrész helyébe a „Korm. rendelet [a továbbiakban: 4/2011.
+(I. 28.) Korm. rendelet] szöveg
+lép.
+(2) A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet
+a) 25.4. pontjában az„értékelő), , illetve”szövegrész helyébe az„értékelő), illetve”szöveg,
+b) 31.1. b) pontjában az„értékelése”szövegrész helyébe az„értékelési”szöveg,
+c) 112.1. pontjában a„vonatkozó”szövegrész helyébe a„vonatkozó, 133. § (1) bekezdése szerinti”szöveg,
+d) 112.2. pontjában az „az előlegfizetésre vonatkozó 15 napos” szövegrész helyébe az „a 118. § (5) bekezdése
+szerinti”szöveg,
+e) 138.2. c) pontjában az „igazolására” szövegrész helyébe az „igazolására a 128. § (3)–(5) bekezdésének
+figyelembevételével”szöveg,
+f) 138.3. pontjában az„itt”szövegrész helyébe az„ennek keretében”szöveg,
+g) 147.2. pontjában az„1473.1. pont”szövegrész helyébe a„147.1. pont”szöveg,
+h) 201.2. e) pontjában az „a jogosult cégszerű aláírásával ellátott papír alapú dokumentumon” szövegrész
+helyébe az„elektronikus úton”szöveg,
+i) 203.1. pontjában az„– a hatáskörrel rendelkező szervnél vagy szervezeti egységnél – kizárólag írásban teheti
+meg”szövegrész helyébe az„elektronikus úton kell benyújtania”szöveg,
+j) 206.2. pontjában az „önrevízió” szövegrész helyébe az „önrevízió és a felterjesztésig történő eljárás
+megszüntetése”szöveg,
+k) 229.1. c) pont ca) alpontjában a„hatóság”szövegrész helyébe a„hatóság vagy a kedvezményezett”szöveg
+lép.
+11. § (1) Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 115. § (3) bekezdése.
+(2) Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet
+a) 118. § (2) bekezdésében a„maximális összegét a támogatási szerződésben rögzíteni kell, de”szövegrész,
+b) 129. § (2) bekezdésében az„a támogatási összeg 90%-ának kifizetését követően”szövegrész.
+(3) Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 9.5. pontja, 201.2. f) pontja, 201.2. g) pontja,
+204.2. pontja és 204.3. pontja.
+(4) Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 1. melléklet
+a) 8.3. pontjában a„– vagy amennyiben a felhívás erre lehetőséget ad, személyesen –”szövegrész,
+b) 9.1. pontját megelőző címben, 9.1. pont nyitó szövegrészében, 9.1. a) pontjában és 9.7. pontjában a „vagy
+személyesen”szövegrész,
+c) 9.2. pontjában a„postai úton”szövegrész,
+d) 26.5. pontjában az„az európai uniós források felhasználásáért felelős miniszter”szövegrész.
+(5) Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 5. mellékletében a„beépített és beépítetlen föld vásárlása a projekt
+összes elszámolható költségének 10%-át meghaladó mértékben. Parlagon heverő földek, továbbá épületet
+tartalmazó, korábban ipari hasznosítású területek esetén 15% a korlát, továbbá környezetmegőrzést szolgáló
+projekteknél ez a korlát kivételes és indokolt esetben magasabb is lehet.”szövegrész.
+12. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+(2) Hatályát veszti a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai
+Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.)
+Korm. rendelet 1. § (1a) bekezdése és 122/B. §-a.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 366/2014. (XII. 30.) Korm. rendelethez
+1. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 103.2. pontja helyébe a következő rendelkezés lép:
+„103.2. A tisztázó kérdés megválaszolására rendelkezésre álló határidő a 117. § (5) bekezdésében előírt kifizetési
+határidőt felfüggeszti.”
+2. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 176.4. pontja helyébe a következő rendelkezés lép és a 272/2014.
+(XI. 5.) Korm. rendelet 1. melléklete a következő 176.5. ponttal egészül ki:
+„176.4. A pénzügyi zárás során a négy szem elvét megfelelően alkalmazni kell.
+176.5. A pénzügyi zárás folyamata jóváhagyással zárul.”
+3. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 201.3. pontja helyébe a következő rendelkezés lép és a 272/2014.
+(XI. 5.) Korm. rendelet 1. melléklete a következő 201.4. ponttal egészül ki:
+„201.3. A tájékoztatás történhet a 152. § (1) bekezdése szerinti kifogással megtámadható döntés vagy intézkedés
+szövegében a következő szöveg szerepeltetésével:
+„E döntés ellen a támogatást igénylő/kedvezményezett a 272/2014. (XI. 5.) Korm. rendelet 152. § (1) bekezdésében
+foglaltak alapján a döntés kézhezvételétől számított 10 napon belül indokolt, a megsértett jogszabályban,
+felhívásban vagy támogatási szerződésben foglalt rendelkezést egyértelműen megjelölő kifogást nyújthat be
+a Pályázati e-ügyintézés felületen keresztül, ha az eljárás jogszabálysértő, illetve felhívásba vagy támogatási
+szerződésbe ütköző.
+A kifogás beérkezésétől az azt elbíráló döntés közléséig a kifogásban foglaltakkal összefüggő határidők nyugszanak.
+A közreműködő szervezet, a kifizető ügynökség és az irányító hatóság döntése ellen az európai uniós források
+felhasználásáért felelős miniszternek, a helyi akciócsoport döntése ellen TOP esetén a közreműködő szervezetnek,
+Vidékfejlesztési Program esetén a kifizető ügynökségnek címzett kifogás nyújtható be.”
+201.4. Ha a kifogást a támogatási kérelmet költségcsökkentéssel vagy feltételekkel támogató döntés ellen nyújtják
+be, a kifogás benyújtója a kifogással egyidejűleg köteles arról is nyilatkozni, hogy a kifogás elutasítása esetén
+a kifogással támadott költségcsökkentéssel vagy feltételekkel kíván-e támogatási jogviszonyt létesíteni.”
+4. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 204.1. pontja helyébe a következő rendelkezés lép:
+„204.1. Az elektronikus úton benyújtott kifogást a monitoring és információs rendszer iktatja.”

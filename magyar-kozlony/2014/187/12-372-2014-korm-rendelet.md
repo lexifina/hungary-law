@@ -1,0 +1,133 @@
+# A Kormány 372/2014. (XII. 30.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 187. szám, 2014. december 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/5bda5cc1717d7ce40e7293ddaa80eff51f77f51e/dokumentumok/a504db71985f99e9f48967d58ca7589d233e4a67/letoltes)
+
+---
+
+A Kormány 372/2014. (XII. 30.) Korm. rendelete
+a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központról szóló
+199/2014. (VIII. 1.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, valamint a kulturális
+örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés b) és v) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központról szóló 199/2014. (VIII. 1.) Korm. rendelet
+(a továbbiakban: Kormányrendelet) 5. § (1) bekezdése a következő e) ponttal egészül ki:
+[A Nyilvántartási Iroda a Kormány által kijelölt első fokú kulturális örökségvédelmi hatóságként a Kötv. 71. § (1) bekezdése
+szerint ellátja]
+„e) a világörökségi területek és a világörökségi várományosi helyszínek”
+(központi, közhiteles nyilvántartás elektronikus adatkezelésével kapcsolatos hatósági és szakmai feladatokat.)
+(2) A Kormányrendelet 5. § (2) bekezdése helyébe a következő rendelkezés lép, és a § a következő (3) bekezdéssel
+egészül ki:
+„(2) A Nyilvántartási Iroda az Országos Építésügyi Nyilvántartást (a továbbiakban: OÉNy) vezető szervezet,
+az örökségvédelmi hatóság, az építésügyi hatóság, a földhivatalok, a jegyző, a főjegyző, valamint a feltárási
+joggal rendelkező intézmények számára elektronikus hozzáférést biztosít az általa kezelt, a régészeti örökség és
+a műemléki értékek védelmével összefüggő feladataik ellátásához szükséges adatokhoz.
+(3) A Nyilvántartási Iroda az OÉNy felhasználói számára hozzáférést biztosít a régészeti örökség és a műemléki
+érték védelmével kapcsolatos követelményekről és szabályokról szóló kormányrendeletben meghatározott
+dokumentumok elektronikus úton történő benyújtása érdekében.”
+2. §
+A Kormányrendelet 6. §-a helyébe a következő rendelkezés lép:
+„6. § A Központ a Kötv. 7/A. §-ában foglaltak érdekében részt vesz a régészeti örökség védelmével kapcsolatos
+feladatok ellátásában, amelyek körében
+a) közreműködik a régészeti örökség felkutatásában,
+b) gondoskodik – a szerzői jogi rendelkezésekkel összhangban – a régészeti örökséggel összefüggő tudományos
+adatbázis létrehozásáról, fenntartásáról, a tudományos eredmények hozzáférhetővé tételéről,
+c) végzi a lelőhelyek felülvizsgálatát és klasszifikációját,
+
+d) a Kötv. 7. § 20. pontja szerinti nagyberuházás (a továbbiakban: nagyberuházás) esetén a beruházó megbízásából
+előzetes régészeti dokumentációt készít, ennek részeként próbafeltárást végez,
+e) ellátja a nagyberuházáshoz kapcsolódó régészeti előkészítés és koordináció feladatait,
+f) kidolgozza a régészeti feltárások végzésénél alkalmazott szempontrendszereket, szakmai irányelveket,
+protokollokat,
+g) gondoskodik a Kötv. 14. § (1) bekezdése szerint a régészeti lelőhelyek védetté nyilvánításának és a Kötv. 18. §
+(2) bekezdése szerint a védetté nyilvánítás megszüntetésének az előkészítéséről,
+h) intézkedik a Kötv. 74. § (2) bekezdése szerint a védetté nyilvánítás tényének az ingatlan-nyilvántartásba történő
+feljegyzése iránt,
+i) gyakorolja a leletanyag állami tulajdonjogáról történő lemondás jogát,
+j) közreműködik a Kötv. 16. §-a szerint a védetté nyilvánított régészeti lelőhelyek ellenőrzésében,
+k) igazolást ad ki a régészeti korú tárgyak tulajdonjogának átadását megelőző bejelentéséről.”
+3. §
+A Kormányrendelet a következő 8/A. §-sal és 8/B. §-sal egészül ki:
+„8/A. § (1) A Központ szakmai tanácsadó testületként működteti az Ásatási Bizottságot, amely a régészeti örökség
+védelmével kapcsolatos és egyéb szakmai döntések előkészítésében segíti a Központ és az örökségvédelmi
+hatóságok munkáját.
+(2) Az Ásatási Bizottság tizenegy tagú testület, amelynek
+a) egy tagját a Magyar Nemzeti Múzeum (a továbbiakban: MNM),
+b) egy tagját a Budapesti Történeti Múzeum,
+c) három tagját a megyei hatókörű városi múzeumok,
+d) két tagját az egyéb régészeti gyűjtőkörrel rendelkező múzeumok,
+e) egy tagját a régészet szakon mesterképzés folytatására jogosult felsőoktatási intézmények, valamint
+f) egy tagját a Magyar Tudományos Akadémia Bölcsészettudományi Kutatóközpont Régészeti Intézet,
+g) két tagját a miniszter
+javaslata alapján a kimagasló szakmai tapasztalattal rendelkező régész szakemberek közül két évre a Központ
+elnöke kéri fel.
+8/B. § (1) A Központ szakmai tanácsadó testületként működteti a Műemléki Tanácsadó Testületet (a továbbiakban:
+Testület), amely a műemléki érték védelmével kapcsolatos hatósági és egyéb szakmai döntések előkészítésében,
+vagy szakértőként a hatósági eljárás során segíti a Központ munkáját.
+(2) A Testület tizenhárom tagból áll, amelynek
+a) két tagját a Magyar Tudományos Akadémia Bölcsészettudományi Kutatóközpont Művészettörténeti Intézet,
+b) két tagját a műemlékvédelmi szakirányú továbbképzés folytatására jogosult felsőoktatási intézmény,
+c) két tagját a művészettörténet szakon mesterképzés folytatására jogosult felsőoktatási intézmény,
+d) két tagját az okleveles restaurátorművész osztatlan képzés folytatására jogosult felsőoktatási intézmény,
+e) két tagját a Magyar Építész Kamara,
+f) egy tagját az ICOMOS Magyar Nemzeti Bizottság,
+g) két tagját a miniszter
+javaslata alapján a műemléki területen szakértői jogosultsággal és kimagasló elméleti és gyakorlati tapasztalattal
+rendelkező szakemberek közül két évre a Központ elnöke kéri fel.
+(3) A Testület üléseire további szakértőt hívhat meg.”
+4. §
+A Kormányrendelet 9. §-a helyébe a következő rendelkezés lép:
+„9. § (1) A Kormány a Kötv. 86. §-a szerinti elővásárlási jogot gyakorló szervnek a Központot jelöli ki.
+(2) A Központ az (1) bekezdésben meghatározott feladatát a Kötv. 86. § (1) bekezdés b) pontjában meghatározott
+esetben a kultúráért felelős miniszter javaslatára, a Kötv. 7. § 9. pontja szerinti közgyűjtemény bevonásával is
+teljesítheti.
+(3) A (2) bekezdés szerinti esetben a kultúráért felelős miniszter a Központnál írásban előterjesztett kérelmében
+megjelöli a teljesítésben részt vevő közgyűjteményt és igazolja az elővásárlási jog gyakorlásához szükséges fedezet
+meglétét.
+(4) A (2) bekezdés szerinti esetben – a megvásárolt védetté nyilvánított kulturális javak vagyonkezelőjének
+a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény
+38/C. §-a szerinti kijelöléséig – azon közgyűjtemény őrzésébe kerülnek, amely a vételárat rendelkezésre bocsátotta.”
+
+5. §
+A Kormányrendelet a következő 22. §-sal és 23. §-sal egészül ki:
+„22. § Az Eszterháza Kulturális, Kutató- és Fesztiválközpont a fertőrákosi Püspöki palotával kapcsolatos feladatok és
+jogviszonyok tekintetében a Központ jogutódja.
+23. § (1) Az MNM-től a Központhoz került
+a) előzetes régészeti dokumentáció készítése, ennek részeként próbafeltárások végzése,
+b) nagyberuházásokhoz kapcsolódó régészeti előkészítés és koordináció,
+c) a régészeti feltárások végzésénél alkalmazott szempontrendszerek, szakmai irányelvek, protokollok készítése,
+d) műemléki kutatás és tervezés
+feladatok ellátásához szükséges tárgyi eszközökkel, ezek között különösen a feladatok ellátásához szükséges
+ingatlan vagyonkezelésével és az átvett feladatok ellátása során keletkezett szerzői jogokkal kapcsolatos
+jogviszonyokban a Központ az MNM jogutódja.
+(2) Az átvett feladatokat ellátó közalkalmazottak jogviszonya tekintetében a közalkalmazottak jogállásáról szóló
+1992. évi XXXIII. törvény 25/C. § (4)–(13) bekezdése szerint kell eljárni.
+(3) Az átvett feladatokhoz kapcsolódó, hatályában 2015. január 1. napján áthúzódó egyes szerződésekből,
+az előzetes régészeti dokumentáció készítésével kapcsolatos szerződések esetében a beruházóval megkötött,
+hatályában 2015. január 1. napján áthúzódó szerződésekből és az azokhoz kapcsolódó alvállalkozási szerződésekből
+származó jogok és kötelezettségek az MNM-ről a Központra szállnak át, a szerződések átruházásáról a felek a Polgári
+Törvénykönyvről szóló 2013. évi V. törvény 6:208. §-a szerinti megállapodásban rendelkeznek.
+(4) Az átvett feladatokhoz kapcsolódó feltárási engedélyek esetében – hatósági bejelentés és döntés nélkül –
+az MNM mint a feltárási engedély jogosultja helyébe a Központ lép.
+(5) Az MNM a Központ által átvett feladatokhoz kapcsolódó valamennyi iratot és adatot köteles a Központnak
+átadni, és a Központ feladatellátásához szükséges vagy azt előmozdító valamennyi adathoz, adatbázishoz köteles
+a Központ számára hozzáférést biztosítani.
+(6) A Központ által az (1) bekezdés szerint átvett feladatokhoz kapcsolódó egyéb jogviszonyokban jogutódlás nem
+következik be.”
+6. §
+A Kormányrendelet
+a) 5. § (1) bekezdés b) pontjában az „engedélyek,” szövegrész helyébe az „engedélyek és a feltárási
+dokumentációk,”szöveg,
+b) 5. § (1) bekezdés d) pontjában a„műemlékek”szövegrész helyébe„műemléki értékek, a műemlékek”szöveg,
+c) 7. § (1) bekezdés b) pontjában a„bejegyzése iránt, valamint”szövegrész helyébe a„feljegyzés iránt.”szöveg
+lép.
+7. §
+Hatályát veszti a Kormányrendelet
+a) 7. § (1) bekezdés c) pontja,
+b) 7. § (2) bekezdésében a„Kötv. 63. § (6) bekezdésében meghatározott”szövegrész.
+8. §
+Ez a rendelet 2015. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei

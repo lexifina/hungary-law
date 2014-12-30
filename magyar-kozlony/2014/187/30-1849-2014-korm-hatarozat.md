@@ -1,0 +1,119 @@
+# A Kormány 1849/2014. (XII. 30.) Korm. határozata
+
+Magyar Közlöny 2014. évi 187. szám, 2014. december 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/5bda5cc1717d7ce40e7293ddaa80eff51f77f51e/dokumentumok/a504db71985f99e9f48967d58ca7589d233e4a67/letoltes)
+
+---
+
+A Kormány 1849/2014. (XII. 30.) Korm. határozata
+az energiahatékony beszerzésekről
+1. A Kormány elrendeli, hogy a minisztériumok, a kormányhivatalok, a központi hivatalok, a Közbeszerzési és
+Ellátási Főigazgatóság, a Katonai Nemzetbiztonsági Szolgálat, az országos hatáskörrel rendelkező rendvédelmi
+szervek és honvédségi szervezetek az Európai Unió joga által meghatározott közbeszerzési értékhatárt elérő vagy
+meghaladó becsült értékű beszerzéseik során – az 1. mellékletben foglalt körben és az ott előírtaknak megfelelően –
+kizárólag magas energiahatékonyságú termékeket, szolgáltatásokat és épületeket szerezzenek be, amennyiben
+ez összeegyeztethető a költséghatékonysággal, a gazdasági megvalósíthatósággal, a fenntarthatósággal, a műszaki
+alkalmassággal, valamint a verseny megfelelő érvényesülésével. Az e pontban meghatározott szervezetek,
+
+amennyiben úgy ítélik meg, hogy az összeegyeztethetőség nem áll fenn, a fenti beszerzéseik előkészítése
+során írásban kötelesek dokumentálni az összeegyeztethetőség hiányának megállapítását tartalmazó döntést,
+és annak indokait. Az e pontban meghatározott szervezetek az e pont szerint megvalósított beszerzéseik
+energiahatékonysági jellemzőit, valamint azt a tényt, hogy régi termék, épület cseréje vagy új beszerzés történt,
+továbbá – amennyiben ismert – a beszerzéssel elérhető éves energiafelhasználás megtakarítás mértékét – régi
+termék, épület cseréje esetén az e pontnak megfelelő beszerzést megelőző állapothoz, illetve új beszerzés esetén
+az e pontnak nem megfelelő, átlagos energiahatékonyságú beszerzéssel elérhető energiafelhasználáshoz képest –
+írásban kötelesek dokumentálni.
+Felelős: Miniszterelnökséget vezető miniszter
+belügyminiszter
+emberi erőforrások minisztere
+földművelésügyi miniszter
+honvédelmi miniszter
+igazságügyi miniszter
+külgazdasági és külügyminiszter
+nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+Határidő: azonnal
+2. Az 1. pontban előírtak csak olyan mértékben vonatkoznak a Katonai Nemzetbiztonsági Szolgálat és az országos
+hatáskörrel rendelkező rendvédelmi szervek és honvédségi szervezetek 1. pontban meghatározott beszerzéseire,
+amennyiben azok alkalmazása nem eredményez összeütközést ezen szervezetek tevékenységének természetével
+és elsődleges céljával. Az 1. pontban meghatározott előírásokat nem kell alkalmazni, amennyiben a védelem terén
+alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk beszerzésére,
+illetőleg szolgáltatások megrendelésére vonatkozó sajátos szabályokról szóló 228/2004. (VII. 30.) Korm. rendelet
+alapján katonai felszereléseket szereznek be.
+3. A Kormány felhívja a minisztereket, hogy az 1. pont hatálya alá nem tartozó ajánlatkérőket, így különösen a helyi
+önkormányzatokat érintő kormányzati programok megalkotása során dolgozzanak ki olyan intézkedéseket,
+amelyek ösztönzik az ajánlatkérőket, hogy magas energiahatékonyságú termékeket, szolgáltatásokat
+és épületeket vásároljanak, és mérjék fel a hosszú távú energiamegtakarítást eredményező, hosszú távú
+energiahatékonyság-alapú szerződések megkötésének lehetőségét.
+Felelős: Miniszterelnökséget vezető miniszter
+belügyminiszter
+emberi erőforrások minisztere
+földművelésügyi miniszter
+honvédelmi miniszter
+igazságügyi miniszter
+külgazdasági és külügyminiszter
+nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+Határidő: folyamatosan
+4. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy az 1. mellékletben szereplő közösségi és uniós irányelvek
+alapján elfogadott végrehajtási intézkedések, európai parlamenti és tanácsi rendelet, továbbá tanácsi határozat által
+meghatározott terméklistát és pontos műszaki követelményeket tájékoztatásul tegye közzé.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: azonnal, illetve ezt követően évente május 31-ig
+5. A Kormány felhívja a Miniszterelnökséget vezető minisztert, hogy – az igazságügyi miniszter bevonásával – vizsgálja
+meg az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és
+a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és
+tanácsi irányelv 6. cikkének végrehajtása terén további jogszabályalkotás szükségességét, és a vizsgálat eredménye
+alapján, amennyiben szükséges, gondoskodjon a vonatkozó jogszabálytervezet kidolgozásáról és a Kormány elé
+terjesztéséről.
+
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+Határidő: azonnal
+6. Ez a határozat 2015. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1849/2014. (XII. 30.) Korm. határozathoz
+Az egyes termékekre, szolgáltatásokra és épületekre vonatkozó energiahatékonysági követelmények
+Az 1. pontban meghatározott szervezetek abban az esetben, ha az összeegyeztethető a költséghatékonysággal,
+a gazdasági megvalósíthatósággal, a fenntarthatósággal, a műszaki alkalmassággal, valamint a verseny megfelelő
+érvényesülésével:
+a) amennyiben valamely termék az energiával kapcsolatos termékek energia- és egyéb erőforrás-
+fogyasztásának címkézéssel és szabványos termékismertetővel történő jelöléséről szóló, 2010. május 19-i
+2010/30/EU európai parlamenti és tanácsi irányelv alapján elfogadott felhatalmazáson alapuló jogi aktus
+vagy egy kapcsolódó bizottsági végrehajtási irányelv hatálya alá tartozik, csak olyan termékeket szerezhetnek
+be, amelyek megfelelnek a lehető legmagasabb energiahatékonysági osztályba való tartozás kritériumának;
+b) amennyiben valamely, az a) pontba nem tartozó termék az energiahatékonyságról, a 2009/125/EK és
+a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül
+helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv hatálybalépését
+követően az energiával kapcsolatos termékek környezetbarát tervezésére vonatkozó követelmények
+megállapítási kereteinek létrehozásáról szóló, 2009. október 21-i 2009/125/EK európai parlamenti és
+tanácsi irányelv értelmében elfogadott végrehajtási intézkedés hatálya alá tartozik, csak olyan termékeket
+szerezhetnek be, amelyek megfelelnek az említett végrehajtási intézkedésben foglalt energiahatékonysági
+referenciaértékeknek;
+c) csak olyan, az Amerikai Egyesült Államok kormánya és az Európai Közösség közötti, az irodai berendezések
+energiahatékonyságára vonatkozó címkézési programok összehangolásáról szóló megállapodás
+megkötéséről szóló, 2006. december 18-i 2006/1005/EK tanácsi határozat hatálya alá tartozó irodai
+berendezéseket szerezhetnek be, amelyek megfelelnek legalább az e határozathoz csatolt megállapodás
+C. mellékletében felsoroltakkal egyenértékű energiahatékonysági követelményeknek;
+d) csak olyan gumiabroncsokat szerezhetnek be, amelyek megfelelnek a gumiabroncsok üzemanyag-
+hatékonyság és más lényeges paraméterek tekintetében történő címkézéséről szóló, 2009. november
+25-i 1222/2009/EK európai parlamenti és tanácsi rendeletben meghatározott legmagasabb üzemanyag-
+hatékonysági osztályba történő besorolás kritériumainak; ettől az előírástól függetlenül – amennyiben azt
+biztonsági vagy közegészségügyi okok indokolják – az ajánlatkérők a nedves tapadás vagy külső gördülési zaj
+szempontjából a legmagasabb osztályba tartozó gumiabroncsokat szerezhetnek be;
+e) szolgáltatási szerződés megkötésére irányuló beszerzési eljárásaik során szerződéses feltételként előírják,
+hogy az e határozat hatálya alá tartozó szolgáltatások nyújtása céljából a szolgáltatók csak az a)–d) pontban
+említett követelményeknek megfelelő termékeket használhatnak a szolgáltatások nyújtásakor,
+ez a követelmény kizárólag a szolgáltatók által részben vagy egészben az adott szolgáltatás nyújtása céljára
+beszerzett új termékekre vonatkozik;
+f) csak olyan épületeket vásárolhatnak vagy olyan épületek vonatkozásában írhatnak alá új bérleti
+szerződést, amelyek megfelelnek legalább az épületek energetikai jellemzőinek meghatározásáról szóló
+7/2006. (V. 24.) TNM rendeletben (a továbbiakban: Rendelet) foglalt energiahatékonyságra vonatkozó
+minimumkövetelményeknek, kivéve, ha a vásárlás célja
+fa) a Rendelet 6. § (1) bekezdésében előírt követelményeknek megfelelő energia megtakarítási célú
+felújítás vagy lebontás,
+
+fb) az ajánlatkérők esetében az épület viszonteladásra bocsátása anélkül, hogy az ajánlatkérő azt saját
+céljaira használná, vagy
+fc) a műemlék, a helyi védelem alatt álló épület és azok épületelemei védetté nyilvánításának alapjául
+szolgáló műemléki értékek megőrzése.
