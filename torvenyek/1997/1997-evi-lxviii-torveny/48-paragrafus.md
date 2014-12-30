@@ -1,6 +1,6 @@
 ## A szabadság
 
-48. § (1) Az igazságügyi alkalmazottat minden szolgálati viszonyban töltött teljes naptári évben alapszabadságból és az (5) bekezdés szerinti pótszabadságból álló rendes szabadság illeti meg.
+48. § (1) Az igazságügyi alkalmazottat minden szolgálati viszonyban töltött teljes naptári évben alapszabadságból és az (5) és (5a) bekezdés szerinti pótszabadságból álló rendes szabadság illeti meg.
 
 (2) Az alapszabadság mértéke a bírósági titkárnál évi 28 munkanap, a fogalmazónál évi 27 munkanap, a bírósági ügyintézőnél évi 26 munkanap, egyébként évi 25 munkanap.
 
