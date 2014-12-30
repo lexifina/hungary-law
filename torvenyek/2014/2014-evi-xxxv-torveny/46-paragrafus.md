@@ -1,3 +1,0 @@
-## 27. A kulturális javak fegyveres összeütközés esetén való védelméről szóló 1954. évi Hágai Egyezmény Második Kiegészítő Jegyzőkönyvének kihirdetéséről és a Büntető Törvénykönyvről szóló 1978. évi IV. törvény módosításáról szóló 2006. évi XXIX. törvény módosítása
-
-46. §
