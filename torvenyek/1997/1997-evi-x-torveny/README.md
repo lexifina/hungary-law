@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-10-00-00
 | --- | --- | --- |
 | 2007-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1997-10-00-00.7 |
 | 2012-01-01 | 2011. évi CCI. törvény | 1997-10-00-00.8 |
+| 2014-12-30 | 2014. évi XCIX. törvény | 1997-10-00-00.9 |
