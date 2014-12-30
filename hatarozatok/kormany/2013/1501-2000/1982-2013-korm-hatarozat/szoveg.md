@@ -10,7 +10,7 @@ a) az európai uniós forrást tartalmazó előirányzatokra,
 
 b) a NATO finanszírozási programok, illetve a közös finanszírozású NATO programok keretében megvalósuló beszerzésekre,
 
-c) az elkülönített állami pénzalapokból és az Országos Tudományos Kutatási Alapprogramokból pályázat útján elnyert pénzeszközök terhére megvalósuló beruházásokra,
+c)[^2] az elkülönített állami pénzalapokból és az Országos Tudományos Kutatási Alapprogramokból, valamint az Első Világháborús Centenáriumi Bizottság által támogatott és a Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Közalapítványtól pályázat útján elnyert pénzeszközök terhére megvalósuló beruházásokra,
 
 d) az adományokból megvalósuló beruházásokra,
 
@@ -18,15 +18,17 @@ e) a központi költségvetésről szóló törvénynek a Nemzeti Fejlesztési M
 
 f) a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 3. melléklet 38–42. pontban meghatározott, kormányzati nemzeti létfontosságú információs rendszerelemekkel kapcsolatos beszerzésekre.
 
-3. A tilalmak részbeni feloldására – rendkívül indokolt, egyedi esetekben – a Miniszterelnökséget vezető államtitkár jogosult.
+3.[^3] A tilalmak részbeni feloldására – rendkívül indokolt, egyedi esetekben – a Miniszterelnökséget vezető miniszter jogosult.
 
-Felelős: Miniszterelnökséget vezető államtitkár
+Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
 
 4. Ez a határozat 2014. január 1-jén lép hatályba.
 
-5.[^2]
+5.[^4]
 
 [^1]: Az 1. pont az 1025/2014. (I. 30.) Korm. határozat 8. pontjával megállapított szöveg.
-[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont c) alpontja az 1833/2014. (XII. 29.) Korm. határozat 3. pont 3.1. alpontja szerint módosított szöveg.
+[^3]: A 3. pont az 1833/2014. (XII. 29.) Korm. határozat 3. pont 3.2. alpontja szerint módosított szöveg.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
