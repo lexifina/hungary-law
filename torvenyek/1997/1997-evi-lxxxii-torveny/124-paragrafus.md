@@ -1,1 +1,1 @@
-124. § A Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény 25. §-ával megállapított 119. § (3) bekezdés e) pontjában foglalt adatok nyilvántartását 2011. július 30-ig kell kialakítani.
+124. §

@@ -22,13 +22,7 @@ az átadó pénztár az átlépés tényleges költségeinek fedezetére a tag k
 
 (11) A pénztár a függő tételként nyilvántartott tagdíjbefizetéseket és azok hozamait, valamint a visszalépő tagok 2011. május 31-ére mint fordulónapra vonatkozó piaci értékelés szerint számított követeléseinek értékét egy tételben, a tagok portfóliójában a fordulónapon meglévő eszközökben 2011. június 12-ig adja át a Nyugdíjreform és Adósságcsökkentő Alap részére. Az eszközöket – jogszabály ellenkező rendelkezése hiányában – a visszalépő tagok portfólióján belüli eszközök arányának megfelelően kell átadni.
 
-(12) A pénztár
-
-a) a visszalépő tagi kifizetések összegét 2011. július 20-ig,
-
-b) a függő tételekből beazonosított, pénztártagot illető tagdíjbefizetések és ahhoz kapcsolódó hozamok összegét havonta, az adott hónapot követő hónap 8. napjáig
-
-igényli vissza a Nyugdíjreform és Adósságcsökkentő Alaptól.
+(12)
 
 (13) A pénztár 2011. május 31-én jogosult a visszalépő tag egyéni számláját 795 Ft-tal csökkenteni és azt a működési tartalék javára jóváírni. A pénztár a működési tartalék javára jóváírt összeget a 2011. május 30-án meglévő működési és likviditási tartalék kimerülését követően használhatja fel. A pénztár a fel nem használt összeget 2011. szeptember 15-ig átutalja a Nyugdíjreform és Adósságcsökkentő Alap pénzforgalmi számlájára.
 
@@ -51,3 +45,11 @@ kell alkalmazni.
 (19) A tagsági jogviszonyát megszüntető tag jogosult a követelésének részét képező egyéni számla-egyenleg tagdíjbefizetése alapján kiszámított, 4. § (2) bekezdésének zsj) pontjában meghatározott hozamgarantált tőke összege feletti összegének és a pénztártagságának ideje alatt befizetett tagdíjkiegészítés összegének felvételére (visszalépő tagi kifizetés), vagy annak az önkéntes nyugdíjpénztárnál vezetett tagi számláján történő jóváírásra, vagy a társadalombiztosítási nyugdíjrendszerben történő nyilvántartásra. A tag a tagsági jogviszony megszűnésének napjától (2012. május 31.) kérheti a visszalépő tagi kifizetés átutalását. Amennyiben a tag tagsági jogviszonya megszüntetésének időpontjáig nem rendelkezik a visszalépő tagi kifizetésekről, azokat a társadalombiztosítási nyugdíjrendszerben kell nyilvántartani.
 
 (20) Az Mpt. 24. § (15) bekezdése alapján a társadalombiztosítási nyugdíjrendszerbe visszalépő tagok esetében a visszalépő tagi kifizetések megállapításánál a hozamgarantált tőke összegét a 3. számú mellékletben szereplő képlet alkalmazásával kell számítani azzal, hogy 2012. április és május hónapokra a KSH által közzétett, 2012. márciusra vonatkozó inflációs rátát kell alkalmazni.
+
+(21) A társadalombiztosítási nyugdíjrendszerbe 2011. május 31. napjával, illetve 2012. május 31. napjával visszalépő tagok után a magánnyugdíjpénztárak által a Nyugdíjreform és Adósságcsökkentő Alap részére függő tételként átadott és utóbb beazonosított, a pénztártagot illető tagdíjbefizetéseket és ahhoz kapcsolódó hozamok összegét
+
+a) az átadó magánnyugdíjpénztárak (vagy jogutódjuk) havonta, az adott hónapot követő hónap 8. napjáig,
+
+b) az átadó magánnyugdíjpénztár jogutód nélküli megszűnése esetén – a függő tételekből az átadó magánnyugdíjpénztár adatait kezelő szervezet által beazonosított, a pénztártagot illető tagdíjbefizetések és kapcsolódó hozamok összegének hitelt érdemlő igazolásával – a társadalombiztosítási nyugdíjrendszerbe visszalépett tag
+
+legkésőbb 2015. január 10-éig visszaigényelheti a Nyugdíjreform és Adósságcsökkentő Alaptól.
