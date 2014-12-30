@@ -24,15 +24,13 @@
 
 ## a) az Államreform Operatív Program 2011–2013. évekre szóló akciótervét a 2. melléklet szerint,
 
-## b) az Elektronikus Közigazgatás Operatív Program 2011–2013. évekre szóló akciótervét a 4. melléklet szerint;
+## b)[^1]
 
 ## 3. jóváhagyja a 3. mellékletben foglalt táblázat 7., 8., 26., 29. és 32. sorában meghatározott, egymilliárd forintot meghaladó támogatási igényű projekteket;
 
 ## 4. elfogadja a 3. mellékletben meghatározott projektek kiemelt projektként történő nevesítését;
 
-## 5. jóváhagyja az 5. melléklet szerint a mellékletben foglalt táblázat 2., 4., 5., 7., 15., 19–23., 26., 27., 30., 32., 33. és 35–40. sorában meghatározott, egymilliárd forintot meghaladó támogatási igényű projekteket;
-
-## 6. elfogadja az 5. mellékletben meghatározott projektek kiemelt projektként történő nevesítését;
+## 5–6.[^2]
 
 ## 7. felhívja a Miniszterelnökséget vezető minisztert az e határozattal érintett támogatási szerződések módosítására;
 
@@ -40,8 +38,10 @@
 
 ## Határidő: az érintett miniszterek által benyújtott dokumentáció kézhezvételét követően azonnal
 
-## 8.[^1]
+## 8.[^3]
 
 1. melléklet az 1452/2014. (VIII. 1.) Korm. határozathoz
 
-[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont b) alpontját az 1859/2014. (XII. 30.) Korm. határozat 4. pontja visszavonta.
+[^2]: Az 5–6. pontot az 1859/2014. (XII. 30.) Korm. határozat 4. pontja visszavonta.
+[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

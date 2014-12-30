@@ -68,4 +68,6 @@
 
 | 35 | 1 2 23 | A nyugdíjrendszer modellezési, hosszú távú előrejelzési elemeinek fejlesztése, a kiegészítő nyugdíjrendszerek lehetőségeinek feltárása | Államreform Operatív Program | Nemzetgazdasági Minisztérium | 0,150 | A projekt stratégiai célja, hogy a Világbank technikai segítséget és információt nyújtson Magyarország számára olyan kérdésekben, mint nyugdíjelőrejelzések modellezési technikái, nyugdíjmodellek nemzetközi összehasonlítása, kiegészítő nyugdíjrendszerekben az önkéntes részvétel erősítésére vonatkozó lehetőségek. |  |
 
-4. melléklet az 1452/2014. (VIII. 1.) Korm. határozathoz
+4–5. melléklet az 1452/2014. (VIII. 1.) Korm. határozathoz[^5]
+
+[^5]: A 4–5. mellékletet az 1859/2014. (XII. 30.) Korm. határozat 4. pontja visszavonta.
