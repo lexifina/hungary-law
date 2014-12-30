@@ -52,6 +52,6 @@ c) az adópolitikáért felelős miniszterrel egyetértésben rendeletben – a 
 
 d) rendeletben állapítsa meg a felügyeleti szerv nyilvántartás vezetésével kapcsolatos jogaira és kötelezettségeire, valamint a nyilvántartás vezetésére vonatkozó eljárási szabályokat;
 
-e) rendeletben jelölje ki a tanúsító szervet, valamint a tanúsító szerv részletes feladatait és működési feltételeit rendeletben határozza meg;
+e) rendeletben jelölje ki a tanúsító szervet,
 
 f) rendeletben határozza meg az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők-, és a viszonteladók részére fizetendő átalány-költségtérítés mértékét és számításának módját.

@@ -1,6 +1,6 @@
 ## 12. Tanúsító szerv
 
-24. § (1) Az elektronikus díjszedési rendszer átjárhatósági rendszerelemeinek – ideértve az útmenti berendezéseket és kapcsolódási pontjaikat is – megfelelőségi és használati alkalmassági igazolásait a tanúsító szerv állítja ki, vizsgálati tanúsítvány formájában. A tanúsító szerv kijelölését, valamint részletes feladatait és működési feltételeit az e törvény felhatalmazása alapján kiadott rendelet állapítja meg.
+24. § (1) Az elektronikus díjszedési rendszer átjárhatósági rendszerelemeinek – ideértve az útmenti berendezéseket és kapcsolódási pontjaikat is – megfelelőségi és használati alkalmassági igazolásait a tanúsító szerv állítja ki, vizsgálati tanúsítvány formájában. A tanúsító szerv kijelölését, az e törvény felhatalmazása alapján kiadott rendelet állapítja meg.
 
 (2) A tanúsító szerv:
 
