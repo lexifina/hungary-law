@@ -8,7 +8,7 @@
 
 | TÁMOP-3.1.1. | XXI. századi közoktatás (fejlesztés, koordináció) 2. ütem |  |  | 6,86 | A konstrukció célja az új Nemzeti Köznevelési Rendszerről szóló törvény és az új tartalmi szabályozókhoz kapcsolódó központi közoktatás szakmai fejlesztéseinek megvalósítása, a közoktatás fejlesztési konstrukciók megalapozása, koordinálás, támogatása, minőségbiztosítása és nyomonkövetése. | emberi erőforrások minisztere |  |
 
-| TÁMOP-3.1.2.B | Az Új Nemzeti Alaptantervhez illeszkedő tankönyv, taneszköz, és Nemzeti Közoktatási Portál fejlesztése |  |  | 4,60 | A konstrukció keretében elérni kívánt részcélok a következők: 1. A Nemzeti Közoktatási Portál kialakításával az egységes szabályozóknak megfelelő már elkészült és jövőben elkészülő digitális tananyagok és taneszközök elérhetőségének javítása. 2. A Nemzeti Alaptantervhez és a kerettantervekhez illeszkedően a közoktatás tartalmi kínálatának megújítása és széles körű bővítése. 3. Az új taneszközök használatára felkészített és azt alkalmazni képes pedagógusok, oktatási szakemberek körének bővítése. | emberi erőforrások minisztere |  |
+| TÁMOP-3.1.2.B |  |  |  |  |  |  |  |
 
 | TÁMOP-3.1.3. | Természettudományos oktatás módszertanának és eszközrendszerének megújítása a közoktatásban (Öveges Program) |  | 13,9 | 1,95 | A konstrukció célja a természettudományos oktatás színvonalának erősítése a közoktatásban természettudományos laborok korszerűsítése és pedagógus továbbképzés révén. | emberi erőforrások minisztere |  |
 
