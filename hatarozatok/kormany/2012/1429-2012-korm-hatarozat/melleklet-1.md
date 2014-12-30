@@ -2,9 +2,9 @@
 
 ## 2. jóváhagyja az 1. pontban szereplő prioritások vonatkozásában a 2007–2008. közötti időszakra és a 2009–2010. közötti időszakra szóló akciótervek végrehajtása során keletkezett maradványok áttervezését a 2011–2013. közötti időszakra szóló akciótervbe.
 
-## 3.[^1]
+## 3.[^2]
 
-1. melléklet az 1429/2012. (X. 8.) Korm. határozathoz[^2]
+1. melléklet az 1429/2012. (X. 8.) Korm. határozathoz[^3]
 
 | I. Prioritás bemutatása - 1. prioritás: Az oktatási infrastruktúra fejlesztése |  |  |  |  | Társadalmi Infrastruktúra Operatív Program |
 
@@ -46,9 +46,9 @@
 
 | 1.1.2. | Hatékony informatikai infrastruktúra a közoktatásban II. szakasz | 0,00 | 1,20 | 0,00 | A TIOP 1.1.2 első szakaszában kialakított informatikai infrastruktúra bővítése, fejlesztése annak érdekében, hogy a már meglévő és a majd kialakítandó különböző oktatási rendszerek, valamint az oktatás ágazati szintű tervezéséhez és irányításához szükséges rendszerek működtetése az alapinfrastruktúra oldaláról az elkövetkező évekre is biztosított legyen. | Emberi Erőforrások Miniszter |  |
 
-| 1.1.3. | Végponti kapcsolatok fejlesztése a közoktatásban | 0,00 | 1,10 | 0,00 | Intézményi informatikai és adathálózati infrastruktúra fejlesztése a közoktatásban. | Emberi Erőforrások Miniszter |  |
+| 1.1.3. |  |  |  |  |  |  |  |
 
-| 1.2.1.A | Agóra - multifunkcionális közösségi központok és területi közművelődési tanácsadó szolgálat infrastrukturális feltételeinek kialakítása | 0,00 | 2,06 | 0,00 | A program alapvető célja olyan multifunkcionális közösségi központok fejlesztése, amelyek alkalmassá válnak szakmai-tanácsadó és módszertani feladatok elvégzésére, a sajátosan kialakított épített környezetben a közösségi-művelődési, oktatási-felnőttképzési és szolgáltató funkciók mentén gazdag kulturális kínálatot biztosító működésre, a helyi társadalom fejlesztésére. A pályázat területi tanácsadó szerep feltételeinek megteremtésére irányul a 30 ezer főnél nagyobb városokban. | Emberi Erőforrások Miniszter |  |
+| 1.2.1.A |  |  |  |  |  |  |  |
 
 | 1.2.1.B | Nemzeti Kulturális Térinformációs Rendszer Szolgáltató és Tanácsadó Multifunkcionális Módszertani Központ létrehozása | 0,00 | 1,60 | 0,00 | Országos módszertani központ létrehozására irányul a digitális tanulás és tudásszerzés érdekében, a TÁMOP 3.2.14 konstrukcióhoz kapcsolódó rendszer infrastrukturális hátterének biztosítására, az elektronikus oktatási és kulturális adatok iskolarendszeren belüli és kívüli, egyéni és csoportos keretek között történő felhasználásával kapcsolatos oktatási célok ellátására.Különösen fontos, hogy a központ hátrányos helyzetű térségben működjön. | Emberi Erőforrások Miniszter |  |
 
@@ -58,9 +58,9 @@
 
 | 1.2.5. | Infrastrukturális fejlesztések az esélyegyenlőség elvű minőségi oktatás és az egész életen át tartó tanulás támogatása érdekében az LHH kistérségekben | 0,00 | 0,34 | 0,00 | Az élethosszig tartó tanulás kulcskompetenciáinak fejlesztéséhez szükséges egységes alapinformatikai infrastruktúra kialakítása az LHH kistérségek a közoktatási és közművelődési intézményeiben, a kompetencia-alapú oktatás elterjesztése és a területi különbségek mérséklése érdekében. | Emberi Erőforrások Miniszter |  |
 
-| 1.2.6. | "Világsátor" - multifunkcionális közösségi és kulturális központ infrastrukturális feltételeinek kialakítása | 0,00 | 1,70 | 0,00 | A roma kultúra kincseinek összegyűjtésére és hozzáférhetővé tételére, a roma kultúrára építő nem formális és informális képzések, valamint a közösségi tevékenységek és rendezvények és gyermek-és ifjúsági programok lebonyolítására alkalmas intézmény kialakítása. | Emberi Erőforrások Miniszter |  |
+| 1.2.6. |  |  |  |  |  |  |  |
 
-| 1.3.2. | Szuperszámítástechnika (HPC) a felsőoktatásban | 0,00 | 1,56 | 0,00 | Az európai irányelvekkel egyező, a hazai felsőoktatási intézményeket támogató, elosztott számítási, és adattárolási infrastruktúra továbbfejlesztése | Emberi Erőforrások Miniszter |  |
+| 1.3.2. |  |  |  |  |  |  |  |
 
 | 1. | Prioritás | 2,48 | 21,74 | 0,00 |  |  |  |
 
@@ -71,8 +71,6 @@
 | 2012 | 2013 |  |
 
 | Könyvtár és közösségi hely létrehozása | 2,45 | 0,00 | A nyilvános könyvtári ellátással nem rendelkező falvakban (5000 fő alatti községekben) a könyvtári feladatok ellátása céljából könyvtári szolgáltató helyek kialakítása. Meglévő épület vagy helyiségek felújítása, IKT-infrastruktúrájának kialakítása és kisértékű eszközbeszerzés. | Emberi Erőforrások Miniszter |  |  |
-
-| Speciális infrastruktúra fejlesztés és eszközbeszerzés a felsőoktatásban (1.3.1) | 0,00 | 3,23 | Infrastruktúra fejlesztés. Eszközbeszerzés. | Emberi Erőforrások Miniszter |  |  |
 
 | I. Prioritás bemutatása - 2. prioritás: Egészségügyi infrastruktúra fejlesztése |  |  |  |  | Társadalmi Infrastruktúra Operatív Program |
 
@@ -202,5 +200,5 @@
 
 | A közszolgáltatásokhoz való egyenlő esélyű hozzáférés megteremtése: akadálymentesítés | 0,00 | 4,00 | A fogyatékos emberek, továbbá az időskorú, járókerettel, babakocsival közlekedő, nagycsaládos, mozgásukban vagy kommunikációjukban egyéb okból átmenetileg akadályozott személyek életminőségének javítása a közszolgáltatásokhoz való egyenlő esélyű hozzáférés megvalósítása útján. A kormányzati felelősségi körbe tartozó épületek komplex akadálymentesítése, és az abban nyújtott közszolgáltatások egyenlő esélyű hozzáférhetővé tétele. | Emberi Erőforrások Miniszter |  |  |
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1736/2013. (X. 11.) Korm. határozat 5. pont d) alpontja, az 1060/2014. (II. 11.) Korm. határozat 2. pont a) alpontja, az 1112/2014. (III. 6.) Korm. határozat 1. és 2. pontja, az 1357/2014. (VI. 26.) Korm. határozat 2. pont a) pontja szerint módosított szöveg.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1736/2013. (X. 11.) Korm. határozat 5. pont d) alpontja, az 1060/2014. (II. 11.) Korm. határozat 2. pont a) alpontja, az 1112/2014. (III. 6.) Korm. határozat 1. és 2. pontja, az 1357/2014. (VI. 26.) Korm. határozat 2. pont a) pontja, az 1865/2014. (XII. 30.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
