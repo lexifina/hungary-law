@@ -1,4 +1,4 @@
-129. § A helyi önkormányzatok törvényességi felügyeletéért felelős miniszter:
+129. § A helyi önkormányzatok törvényességi felügyeletéért felelős miniszter a helyi önkormányzatokért felelős miniszterrel egyetértésben:
 
 a) irányítja a helyi önkormányzatok törvényességi felügyeletét;
 

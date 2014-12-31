@@ -1,3 +1,5 @@
 ## Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-145. § E törvény 1–83. §-ai, a 84. § (1)–(4) bekezdése, a 85–109. §-ai, a 125–144. §-ai, a 146. §, 146/A. §, a 148. §, a 153–154. §-ai, a 156. §-a, valamint a 158. § b) pontja az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősülnek.
+145. § (1) E törvény 1–83. §-ai, a 84. § (1)–(4) bekezdése, a 85–109. §-ai, a 125–144. §-ai, valamint a 146. § az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősülnek.
+
+(2) E törvény 42. § 16. és 17. pontja, 108. §-a, valamint 143. § (1) bekezdésének f) pontja az Alaptörvény 38. cikk (1) bekezdése alapján is sarkalatosnak minősül.

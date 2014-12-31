@@ -12,7 +12,9 @@ c) a 23. § (4) bekezdésének 1. pontjában meghatározott, a fővárosi önkor
 
 d) a 16. §-ban meghatározott esetekben az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő beruházás megvalósítása érdekében szükséges intézkedéseket, valamint a Kormány által kijelölt miniszter részére, a beruházások figyelemmel kísérésével kapcsolatos feladata ellátásához – a személyes adatok kivételével – rendelkezésre bocsátandó adatok, valamint az adatszolgáltatásra kötelezett szervezetek körét, az adatszolgáltatás gyakoriságát, továbbá az adatok nyilvántartásának vezetésére vonatkozó részletes szabályokat;
 
-e) a helyi önkormányzatok törvényességi felügyeletének részletes szabályait.
+e) a helyi önkormányzatok törvényességi felügyeletének részletes szabályait;
+
+f) a helyi önkormányzat tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén a csereügylet kormányhivatal általi jóváhagyására vonatkozó részletes eljárási szabályokat.
 
 (2) Felhatalmazást kap a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
 
