@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-54-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-12-30 | 2014-54-20-5H.1 | 54/2014. (XII. 29.) EMMI rendelet |
+| 2014-12-31 | 2014-54-20-5H.2 | 2010: CXXX. törvény |
