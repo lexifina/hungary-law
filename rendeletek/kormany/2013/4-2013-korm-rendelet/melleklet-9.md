@@ -1,6 +1,6 @@
-9. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^180]
+9. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^181]
 
-## AZ ESZKÖZÖK ÉRTÉKVESZTÉSÉNEK ALAKULÁSA
+AZ ESZKÖZÖK ÉRTÉKVESZTÉSÉNEK ALAKULÁSA
 
 1. A kimutatásban külön oszlopban kell szerepeltetni a 2. pont szerinti eszközök
 
@@ -46,4 +46,4 @@ m) nem tartós részesedések, és
 
 n) forgatási célú hitelviszonyt megtestesítő értékpapírok.
 
-[^180]: A 9. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 4. pontjával megállapított szöveg.
+[^181]: A 9. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 4. pontjával megállapított szöveg.

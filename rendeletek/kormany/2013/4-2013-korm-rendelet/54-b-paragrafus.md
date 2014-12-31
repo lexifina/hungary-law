@@ -1,5 +1,3 @@
-## a mérlegfordulónapot követő évben elrendelheti az éves költségvetési beszámoló és ezzel összefüggésben a (3) bekezdés szerinti nyilvántartási számlákat érintő hibák javítását.
-
 54/B. § (1) A mérlegkészítés időpontját követően – az 54/A. § szerint az irányító szerv, a Kincstár vagy az államháztartásért felelős miniszter által irányított minisztérium által elrendelt javítások kivételével – a feltárt hibákat a feltárás időszakának könyvelése keretében kell a hibát okozó tétel e rendeletnek megfelelő könyvelésével javítani. A feltárt hiba miatt az előző időszakok éves költségvetési beszámolója nem javítható és nem küldhető meg újra a Kincstárnak.
 
 (2) A költségvetési számvitelben a bevételek és kiadások téves rovaton történő nyilvántartásba vétele a mérlegkészítés időpontját követően – az 54/A. § szerint az irányító szerv, a Kincstár vagy az államháztartásért felelős miniszter által irányított minisztérium által elrendelt javítások kivételével – nem javítható. Egyéb esetben a javítást a 40. § (5) bekezdése szerint kell elvégezni.

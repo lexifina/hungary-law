@@ -14,7 +14,7 @@ b) a nemzeti vagyonba nem tartozó egyéb eszközök 49/A–49/B. § szerinti v�
 
 c) a központi kezelésű előirányzatokhoz kapcsolódó fizetési számlák egyenlegének év végi nullára csökkentését a központi kezelésű előirányzatokkal kapcsolatos beszámolási és könyvvezetési feladatokat ellátó szervezeteknél, valamint a Kincstárban a központi kezelésű előirányzatokhoz és a finanszírozási kiadások, bevételek kezeléséhez kapcsolódóan vezetett technikai, lebonyolítási, beszedési és finanszírozási számlák – a Kincstár belső szabályzatában foglalt rend szerinti – év végi egyenlegének összevezetését
 
-## kell kimutatni.
+kell kimutatni.
 
 (5) A mérlegben felhalmozott eredményként az előző költségvetési évek felhalmozott eredményét kell kimutatni. A mérlegsor a mérlegben negatív előjellel is szerepelhet.
 

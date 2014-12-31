@@ -18,7 +18,7 @@ c) 181–360 napos, és
 
 d) 360 napon túli
 
-## minősítési kategóriákra.
+minősítési kategóriákra.
 
 (7) A követelések működési célú támogatások bevételeire államháztartáson belülről, a követelések felhalmozási célú támogatások bevételeire államháztartáson belülről, és Kincstárnál vezetett fizetési számlák után értékvesztés nem számolható el.
 

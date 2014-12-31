@@ -1,3 +1,3 @@
-5. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^177]
+5. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^178]
 
-[^177]: Az 5. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^178]: Az 5. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 2. pontja szerint módosított szöveg.

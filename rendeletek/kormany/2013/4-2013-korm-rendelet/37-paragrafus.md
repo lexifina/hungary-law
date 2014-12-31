@@ -14,7 +14,7 @@ c) az államháztartás központi alrendszere esetén az államháztartás közp
 
 d) az államháztartás egésze esetén valamennyi éves költségvetési beszámoló
 
-## konszolidálásával készül.
+konszolidálásával készül.
 
 (2) A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény 13. § (2) bekezdés b) pontjában előírt beszámoló esetén a helyi önkormányzat készíti el a helyi önkormányzat összevont (konszolidált) beszámolóját az (1) bekezdés a) pontja szerint.
 

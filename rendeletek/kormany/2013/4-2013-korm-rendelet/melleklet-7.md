@@ -4,7 +4,7 @@
 
 7. melléklet a 4/2013. (I. 11.) Korm. rendelethez
 
-## A költségekről és megtérült költségekről szóló kimutatás
+A költségekről és megtérült költségekről szóló kimutatás
 
 A kimutatásban a használt szakfeladatokra elszámolt költségekről és eredményszemléletű bevételekről szakfeladatonként a következő bontásban kell elszámolni
 
@@ -30,7 +30,7 @@ b) egyéb általános költségek (61–65. számlacsoportokon elszámolt költs
 
 3. Közvetlen önköltség (1. pontban és 2. pont b) alpontjában elszámolt költségek összesen).
 
-4.[^178] Szakfeladatot jellemző mutatószám értéke a szakfeladatrendben meghatározottak szerint (több mutatószám esetén külön-külön).
+4.[^179] Szakfeladatot jellemző mutatószám értéke a szakfeladatrendben meghatározottak szerint (több mutatószám esetén külön-külön).
 
 5. A mutatószám egy egységére jutó közvetlen önköltség a 3. és 4. pontban foglaltak hányadosaként (több mutatószám esetén külön-külön).
 
@@ -46,4 +46,4 @@ c) felhalmozási célú támogatások eredményszemléletű bevételei.
 
 8. A 4. és 5. pont szerinti mutatószám egy egységére jutó megtérült önköltség a 7. és 4. pontban foglaltak hányadosaként (több mutatószám esetén külön-külön).
 
-[^178]: A 7. melléklet 4. pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 34. pontja szerint módosított szöveg.
+[^179]: A 7. melléklet 4. pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 34. pontja szerint módosított szöveg.

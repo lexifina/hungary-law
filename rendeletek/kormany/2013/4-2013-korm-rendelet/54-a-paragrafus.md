@@ -18,4 +18,6 @@ c) az Állami Számvevőszéknek az éves költségvetési beszámolók áttekin
 
 d) saját hatáskörben a benyújtott éves költségvetési beszámolók vizsgálata során
 
+a mérlegfordulónapot követő évben elrendelheti az éves költségvetési beszámoló és ezzel összefüggésben a (3) bekezdés szerinti nyilvántartási számlákat érintő hibák javítását.
+
 [^165]: A 24/A. alcímet (54/A–54/B. §) a 284/2014. (XI. 20.) Korm. rendelet 21. §-a iktatta be.

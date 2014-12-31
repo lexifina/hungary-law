@@ -12,7 +12,7 @@ a) az előirányzatok és a teljesítések tekintetében január 31-éig – az 
 
 b) a követelések, a végleges kötelezettségvállalások, más fizetési kötelezettségek, valamint az Ávr. 134. § c) pontja és 138. § (5) bekezdés c) pontja szerinti adatok tekintetében a mérlegkészítés időpontjáig
 
-## lehet elszámolni.
+lehet elszámolni.
 
 (2)[^108] A költségvetési könyvvezetés a számviteli alapelvek e rendeletben meghatározott sajátosságai figyelembevételével, magyar nyelven, az egységes számlakeret 0-ás számlaosztályán belül a 00. és 03–09. számlacsoportban vezetett nyilvántartási számlák használatával, a kettős könyvvitel szabályai szerint, forintban történik.
 

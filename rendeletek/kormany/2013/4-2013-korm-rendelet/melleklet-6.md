@@ -314,7 +314,7 @@
 
 6. melléklet a 4/2013. (I. 11.) Korm. rendelethez
 
-## Eredménykimutatás/konszolidált eredménykimutatás
+Eredménykimutatás/konszolidált eredménykimutatás
 
 01. Közhatalmi eredményszemléletű bevételek
 

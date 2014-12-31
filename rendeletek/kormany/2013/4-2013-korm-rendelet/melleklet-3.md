@@ -1,5 +1,3 @@
-## A KINCSTÁR BESZÁMOLÁSI ÉS KÖNYVVEZETÉSI KÖRÉBE TARTOZÓ KÖZPONTI KEZELÉSŰ ELŐIRÁNYZATOKKAL KAPCSOLATOS NYILVÁNTARTÁSI FELADATOKAT ELLÁTÓ SZERVEK
-
 | Sor- szám | Címrendi besorolás | Adatszolgáltatásra kötelezett | Adatszolgáltatási kör | Adatszolgáltatás gyakorisága |
 
 | 1. | IX. fejezet | Belügyminisztérium | A biztosított támogatásokról szóló kötelezettségvállalások (támogatói okiratok, támogatási szerződések) adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
@@ -42,7 +40,7 @@
 
 3. melléklet a 4/2013. (I. 11.) Korm. rendelethez
 
-## Maradványkimutatás
+Maradványkimutatás
 
 01. Alaptevékenység költségvetési bevételei
 

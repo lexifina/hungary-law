@@ -6,9 +6,9 @@
 
 ## Források összesen
 
-12. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^205]
+12. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^206]
 
-## A konszolidálás során elvégzendő feladatok
+A konszolidálás során elvégzendő feladatok
 
 1. A helyi önkormányzat, nemzetiségi önkormányzat, társulás összevont (konszolidált) beszámolója elkészítése során el kell végezni az azonos irányító szerv által jóváhagyott éves költségvetési beszámolókban szereplő költségvetési jelentések K915. Központi, irányító szervi támogatás folyósítása rovaton kimutatott kiadások és B816. Központi, irányító szervi támogatás rovatain kimutatott bevételek csökkentését a konszolidált költségvetési jelentésben, a Mérleg szerinti eredmény sor növelését és csökkentését a konszolidált mérlegben, a Központi működési célú támogatások eredményszemléletű bevételei és az Egyéb ráfordítások sorok csökkentését a konszolidált eredménykimutatásban.
 
@@ -72,4 +72,4 @@
 
 4.17. A mérlegekben a Forintszámlák, Devizaszámlák, Idegen pénzeszközök sorokon belül a Kincstárnál vezetett számlák között kimutatott sorok összegével – a Kincstári Egységes Számla kivételével – a Forintszámlák, devizaszámlák és az Idegen pénzeszközök sorok csökkentését a Kincstári számlavezetéssel kapcsolatos elszámolások sorral szemben a konszolidált mérlegben.
 
-[^205]: A 12. melléklet a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 2. pontja szerint módosított szöveg.
+[^206]: A 12. melléklet a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 2. pontja szerint módosított szöveg.
