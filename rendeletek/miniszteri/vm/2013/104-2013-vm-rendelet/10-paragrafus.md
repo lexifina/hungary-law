@@ -32,9 +32,10 @@ b) 2014. május 31. napját követően veszi kézhez, legkésőbb 2015. május 3
 
 (8)[^6] Az árajánlatos tételek módosulása esetén a kifizetési kérelemhez csatolni kell legalább kettő darab, a 9. § (4)–(9) bekezdésének megfelelő, a támogatási határozat jogerőre emelkedését követően kiállított, a teljesítéskor érvényes árajánlatot, és az ügyfélnek meg kell indokolnia, hogy a két árajánlat közül melyiket választja.
 
-(9) A (3) bekezdésben foglalt határidőig, illetve a (4) bekezdésben foglaltak teljesítése esetén 2014. december 31-ig az ügyfél teljes bizonyító erejű magánokiratba foglalt, visszavonhatatlan nyilatkozatában vállalhatja, hogy az intézkedésben való jogosulatlan részvétel jogkövetkezményeinek alkalmazása mellett a támogatás egészéről lemond.
+(9)[^7] A (3) bekezdésben foglalt megvalósítási határidőn belül az ügyfél teljes bizonyító erejű magánokiratba foglalt, visszavonhatatlan nyilatkozatában vállalhatja, hogy az intézkedésben való jogosulatlan részvétel jogkövetkezményeinek alkalmazása mellett a támogatás egészéről lemond.
 
 [^3]: A 10. § (3) bekezdése az 1/2014. (IX. 15.) MvM rendelet 36. § (1) bekezdésével megállapított szöveg.
 [^4]: A 10. § (4) bekezdése az 1/2014. (IX. 15.) MvM rendelet 36. § (1) bekezdésével megállapított szöveg.
 [^5]: A 10. § (5) bekezdését a 121/2013. (XII. 16.) VM rendelet 37. §-a hatályon kívül helyezte.
 [^6]: A 10. § (8) bekezdése a 8/2014. (XI. 19.) MvM rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^7]: A 10. § (9) bekezdése a 12/2014. (XII. 30.) MvM rendelet 18. § (1) bekezdésével megállapított szöveg.

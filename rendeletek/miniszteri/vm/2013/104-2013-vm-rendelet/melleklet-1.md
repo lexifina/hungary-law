@@ -1,4 +1,4 @@
-## 20. §[^18] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 9. § (9) bekezdést, 10. § (8) bekezdést, valamint 16. § (1) és (5)–(7) bekezdést a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^19] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
+## 21. §[^22] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási tárgyú rendeletek módosításáról szóló 12/2014. (XII. 30.) MvM rendelettel [a továbbiakban: 12/2014. (XII. 30.) MvM rendelet] megállapított 10. § (9) bekezdést, 15. § (5a) bekezdést a 12/2014. (XII. 30.) MvM rendelet hatálybalépésekor[^23] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
 1. melléklet a 104/2013. (XI. 14.) VM rendelethez
 
@@ -3420,5 +3420,5 @@ B) Természetes személy esetében
 
 C) Egyéni vállalkozó, mikro-, kis- vagy középvállalkozás esetében
 
-[^18]: A 20. §-t a 8/2014. (XI. 19.) MvM rendelet 23. § (5) bekezdése iktatta be.
-[^19]: A hatálybalépés időpontja 2014. november 20.
+[^22]: A 21. §-t a 12/2014. (XII. 30.) MvM rendelet 18. § (3) bekezdése iktatta be.
+[^23]: A hatálybalépés időpontja 2014. december 31.
