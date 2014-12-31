@@ -12,7 +12,7 @@ b) vasúti közlekedési szolgáltatást nyújtó,
 
 c) vasúti közlekedéssel összefüggő vagy a vasúti alrendszerekre vonatkozó tevékenységet végző személyekre és szervezetekre terjed ki.
 
-(2) E rendelet hatálya a hagyományos transzeurópai vasúti rendszer hálózatát képező következő elemekre terjed ki:
+(2)[^2] E rendelet hatálya a vasúti rendszer hálózatát képező következő elemekre terjed ki:
 
 a) személyszállítási célú vonalak,
 
@@ -28,7 +28,7 @@ f) az a)–e) pontokban meghatározott elemeket összekötő vonalak.
 
 (3) A (2) bekezdésben meghatározott hálózat magában foglalja a forgalomirányítási, helymegállapítási és navigációs rendszereket, valamint a távolsági személyszállítási és árufuvarozási szolgáltatásokat támogató adatfeldolgozási és távközlési műszaki berendezéseket, létesítményeket, amelyek biztosítják a hálózat biztonságos és összehangolt üzemeltetését, továbbá a hatékony forgalomirányítást.
 
-(4) E rendelet hatálya a hagyományos transzeurópai vasúti rendszer hálózatán közlekedő, következő járművekre terjed ki:
+(4)[^3] E rendelet hatálya a vasúti rendszer hálózatán közlekedő, következő járművekre terjed ki:
 
 a) motorvonatok, motorkocsik,
 
@@ -75,3 +75,5 @@ d) szigorúan helyi, történelmi vagy turisztikai célra használt pályaháló
 (10) E rendeletet a (2)–(6) bekezdésben felsorolt rendszerelemek és járművek, a vasúti rendszer részeinek tervezésére, kivitelezésére, hitelesítésére, üzembe helyezésére, korszerűsítésére, felújítására, üzemeltetésére és karbantartására, valamint az üzemeltetésben és karbantartásban részt vevő személyzet képesítésére, egészségügyi és biztonsági körülményeire vonatkozó feltételekre is alkalmazni kell.
 
 [^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 91/2011. (XII. 30.) NFM rendelet 72. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés bevezető szövegrésze az 55/2014. (XII. 23.) NFM rendelet 8. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (4) bekezdésének bevezető szövegrésze az 55/2014. (XII. 23.) NFM rendelet 8. § a) pontja szerint módosított szöveg.

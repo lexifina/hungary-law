@@ -32,7 +32,11 @@
 
 ## 1.4.3. A járműveket és az energiaellátási rendszereket úgy kell tervezni és gyártani, hogy elektromágnesesség szempontjából összeegyeztethetők legyenek azokkal a létesítményekkel, berendezésekkel, köz-, illetve magánhálózatokkal, amelyekkel esetlegesen interferálnának.
 
-## 1.4.4. A vasúti rendszer működtetése során be kell tartani a zajvédelemre vonatkozó hatályos előírásokat.
+## 1.4.4. Avasúti rendszer konstrukciója és működése nem okozhatja az általa keltett zaj meg nem engedett értékű kibocsátását
+
+## a) az egységes európai vasúti térség létrehozásáról szóló 2012. november 21-i 2012/34/EU irányelv 3. cikkében meghatározott vasúti infrastruktúrákhoz közeli területeken, és
+
+## b) a vezetőfülkében.
 
 ## 1.4.5. Előírásszerű karbantartási állapot esetén, a vasúti rendszer üzemeltetése nem okozhat a pálya közelében elhelyezkedő területeken megengedhetetlen mértékű talajrezgést.
 
