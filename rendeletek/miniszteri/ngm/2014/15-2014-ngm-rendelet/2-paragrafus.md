@@ -14,7 +14,7 @@ a) a saját önálló (giro-képes) hitelszámláját,
 
 b) a hitelt nyújtó hitelintézet törlesztéshez használt központi elszámoló számláját, vagy
 
-c) a saját, a hitelt nyújtó hitelintézetnél vezetett folyószámláját
+c)[^1] a saját, a hitel törlesztésére használt folyószámláját
 
 ## jelölheti meg.
 
@@ -25,3 +25,5 @@ c) a saját, a hitelt nyújtó hitelintézetnél vezetett folyószámláját
 (6) A munkáltató megbízásából a támogatást folyósító hitelintézet vagy kincstár az (1) bekezdés szerinti igazolást a támogatásnak a magánszemély részére való átutalásának évét követő év január 31-éig állítja ki a munkáltató részére.
 
 (7) A munkáltató megbízásából a támogatást folyósító hitelintézet vagy kincstár a támogatás magánszemély részére való átutalásának évét követő év január 31-éig az e célra az állami adóhatóság által előírt formában, az ügyfélkapun keresztül adatot szolgáltat az állami adóhatóság részére a magánszemély nevéről, adóazonosító jeléről és a támogatás összegéről.
+
+[^1]: A 2. § (3) bekezdés c) pontja a 48/2014. (XII. 30.) NGM rendelet 8. §-ával megállapított szöveg.

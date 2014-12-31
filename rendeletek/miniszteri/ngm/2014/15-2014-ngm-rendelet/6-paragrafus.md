@@ -18,8 +18,10 @@ a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény 
 
 b) az a hitel- vagy kölcsönszerződés, amelyet lakást terhelő jelzálogjog nem biztosít, de amelyet a hitelszerződésből vagy a hiteligénylésből megállapítható módon az Szja tv. 1. számú melléklet 9. pont 9.3.1. alpontja szerinti lakáscélú felhasználás céljából kötöttek, vagy
 
-c) az a kölcsön- vagy hitelszerződés, amelyet a hitelszerződésből megállapítható módon az a) és b) pontban meghatározott kölcsön- vagy hitelszerződés visszafizetése, törlesztése céljából kötöttek, ideértve a gyűjtőszámlahitel-szerződést is.
+c)[^4] az a kölcsön- vagy hitelszerződés, amelyet a hitelszerződésből megállapítható módon az a) és b) pontban meghatározott kölcsön- vagy hitelszerződés visszafizetése céljából kötöttek, ideértve az ilyen kölcsön- vagy hitelszerződés visszafizetése céljából kötött újabb szerződést, szerződéseket, továbbá a gyűjtőszámlahitel-szerződést is.
 
 (3) Az (1) bekezdés d) pontja szerinti igazolás beszerzése nem szükséges akkor, ha a hitelintézettől lakáscélú felhasználásra felvett hitel visszafizetéséhez, törlesztéséhez, a hitelhez kapcsolódó más kötelezettségek megfizetéséhez nyújtott támogatást a magánszemély önálló (giro-képes) hitelszámlájára, vagy a hitelt nyújtó hitelintézet törlesztéshez használt központi elszámoló számlájára utalják.
 
 (4) Nem vehető figyelembe a további támogatás felhasználásának igazolása során az az (1) bekezdés szerint igazolt azon összeg, amelyet a munkáltató bármely korábban folyósított támogatás felhasználásának igazolása során már figyelembe vett.
+
+[^4]: A 6. § (2) bekezdés c) pontja a 48/2014. (XII. 30.) NGM rendelet 10. §-ával megállapított szöveg.
