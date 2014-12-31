@@ -18,6 +18,7 @@
 
 (9) Ha az induló vállalkozásnak minősülő ügyfél a pénzügyi terv pontozási szempontok tekintetében vállalt kötelezettségének nem teljesítése pontszámvesztést eredményez, az 1–3. mellékletben meghatározott szempontonként a kifizetési kérelmek alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget köteles visszafizetni.
 
-(10) A 11. § (4) bekezdésében foglalt határidőig, illetve a 11. § (4) bekezdésében foglaltak teljesítése esetén 2014. december 31-ig az ügyfél teljes bizonyító erejű magánokiratba foglalt, visszavonhatatlan nyilatkozatában vállalhatja, hogy az intézkedésben való jogosulatlan részvétel jogkövetkezményeinek alkalmazása mellett a támogatás egészéről lemond.
+(10)[^30] A 11. § (4) bekezdésében foglalt határidőig, illetve a 11. § (4) bekezdésében foglaltak teljesítése esetén a megvalósítási határidő utolsó napjáig az ügyfél teljes bizonyító erejű magánokiratba foglalt, visszavonhatatlan nyilatkozatában vállalhatja, hogy az intézkedésben való jogosulatlan részvétel jogkövetkezményeinek alkalmazása mellett a támogatás egészéről lemond.
 
 [^29]: A 13. § (4) bekezdése az 1/2014. (IX. 15.) MvM rendelet 39. § c) pontja szerint módosított szöveg.
+[^30]: A 13. § (10) bekezdése a 12/2014. (XII. 30.) MvM rendelet 19. §-ával megállapított szöveg.
