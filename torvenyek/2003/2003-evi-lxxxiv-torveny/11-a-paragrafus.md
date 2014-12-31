@@ -22,7 +22,7 @@ kell sorolni.
 
 (5) A Kormány által rendeletben meghatározott munkakörben foglalkoztatott egészségügyi szakdolgozó és egészségügyben dolgozó havi alapbére (garantált illetménye) nem lehet kevesebb, mint a 2. melléklet szerint számított összeg.
 
-(6) A Kormány által rendeletben meghatározott munkakörben foglalkoztatott, felsőfokú végzettséggel rendelkező egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a Kjt. szerinti besorolási illetmény és havi 41435 Ft egyösszegű illetmény- vagy bérnövelés együttes összege.
+(6) A Kormány által rendeletben meghatározott munkakörben foglalkoztatott, felsőfokú végzettséggel rendelkező egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) szerinti besorolási illetmény és havi 41435 Ft egyösszegű illetmény- vagy bérnövelés együttes összege.
 
 (6a) A gyógyszerész, szakgyógyszerész munkakörben (a továbbiakban együtt: gyógyszerész munkakörben) foglalkoztatott egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a Kjt. szerinti besorolási illetmény és havi 75 820 Ft egyösszegű illetmény- vagy bérnövelés együttes összege.
 
