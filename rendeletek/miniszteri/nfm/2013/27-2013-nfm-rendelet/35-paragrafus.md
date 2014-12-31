@@ -2,45 +2,16 @@
 
 ## 20. Területfejlesztési célelőirányzat (17-20-33-4, ÁHT: 302735)
 
-35. § (1)[^28] A területfejlesztési célelőirányzat (a továbbiakban: TFC) terhére a miniszter forrást biztosíthat
+35. §[^33] (1) A területfejlesztési célelőirányzat (a továbbiakban: TFC) terhére a miniszter forrást biztosíthat
 
-a) területfejlesztési intézményrendszeri feladatok vonatkozásában
+a) az ELI-HU Nonprofit Korlátolt Felelősségű Társaság részére a szervezet hazai és nemzetközi feladatellátása során, a más támogatási szerződései keretében el nem számolható működési költségeire és egyéb ráfordításaira,
 
-aa) megyei önkormányzat,
+b) a Széchenyi Programiroda Nonprofit Korlátolt Felelősségű Társaság egyes szakmai programjainak megvalósításához,
 
-ab) regionális fejlesztési ügynökség, valamint
+c) egyéb – így különösen európai uniós forrás terhére nem támogatható, a Nemzeti Fejlesztés 2030 – Országos Fejlesztési és Területfejlesztési Koncepcióról szóló 1/2014. (I. 3.) OGY határozat 7. pont b) alpontja szerinti kiemelt térségekre vonatkozó – területfejlesztési, fejlesztéspolitikai szakmai feladatok ellátásához, projektek megvalósításához.
 
-ac) térségi fejlesztési tanács
+(2) A miniszter az (1) bekezdés a) és b) pontja szerinti kedvezményezettekkel támogatási szerződést köt. A támogatás rendelkezésre bocsátására a kedvezményezett részére történő kifizetéssel kerül sor. A kedvezményezett részére nyújtott támogatás a támogatási szerződésben rögzített módon, a részbeszámoló elfogadását követően is folyósítható. A támogatás terhére a támogatási szerződésben rögzített módon támogatási előleg folyósítható. Az (1) bekezdés c) pontja szerinti feladatokra a miniszter egyedi döntése alapján vagy pályázati úton támogatási szerződés, valamint a közbeszerzésekről szóló törvény alapján kiválasztott szervezettel megbízási vagy vállalkozási szerződés is köthető.
 
-## részére a területfejlesztésről és a területrendezésről szóló törvényben meghatározott feladatokhoz kapcsolódó tevékenységeikhez,
+(3) Az (1) bekezdés alapján vissza nem térítendő támogatás biztosítható.
 
-b) területfejlesztési, fejlesztéspolitikai szakmai háttérfeladatok vonatkozásában
-
-ba) a Széchenyi Programiroda Nonprofit Korlátolt Felelősségű Társaság működéséhez és szakmai programjainak megvalósításához,
-
-bb) az Országos Területfejlesztési és Területrendezési Információs Rendszer 2014. évi működéséhez és szakmai feladatok ellátásához,
-
-bc)–bd)[^29]
-
-c) az ELI-HU Nonprofit Korlátolt Felelősségű Társaság részére a szervezet hazai és nemzetközi feladatellátása során, a más támogatási szerződései keretében el nem számolható működési költségeire és egyéb ráfordításaira;
-
-d) a kincstár korábbi évek területfejlesztési pályázati rendszereivel kapcsolatos tevékenységének finanszírozásához,
-
-e) egyéb területfejlesztési, fejlesztéspolitikai szakmai feladatok ellátáshoz.
-
-(2)[^30] A miniszter az (1) bekezdés a)–c) pontja szerinti kedvezményezettekkel támogatási szerződést köt. A támogatás rendelkezésre bocsátására a kedvezményezett részére történő kifizetéssel kerül sor. A kedvezményezett részére nyújtott támogatás a támogatási szerződésben rögzített módon, beszámoló vagy részbeszámoló elfogadását követően folyósítható. A támogatás terhére támogatási előleg folyósítható. Az (1) bekezdés e) alpontja szerinti feladatokra a miniszter egyedi döntése alapján támogatási szerződés, valamint a közbeszerzésekről szóló törvény alapján kiválasztott szervezettel megbízási vagy vállalkozási szerződés is köthető.
-
-(3) Az (1) bekezdés d) pontja alapján megbízási szerződés kerül megkötésre.
-
-(4)[^31] Az (1) bekezdés a)–c) és e) pontja alapján vissza nem térítendő támogatás biztosítható.
-
-(5)[^32] Az (1) bekezdés a) pont ab) alpontja szerinti kedvezményezettekkel kötött támogatási szerződés keretében a területfejlesztésről és a területrendezésről szóló törvényben meghatározott feladatokhoz kapcsolódó tevékenységek körében az európai uniós támogatási konstrukciók közreműködő szervezeti feladatai ellátása kapcsán az SLA szerződés keretében elszámolt tevékenységek költségei nem számolhatóak el.
-
-(6)[^33]
-
-[^28]: A 35. § (1) bekezdése a 16/2014. (IV. 3.) NFM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^29]: A 35. § (1) bekezdés b) pont bc)–bd) alpontját a 18/2014. (IV. 14.) NFM rendelet 12. § b) pontja hatályon kívül helyezte.
-[^30]: A 35. § (2) bekezdése a 16/2014. (IV. 3.) NFM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^31]: A 35. § (4) bekezdése a 16/2014. (IV. 3.) NFM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^32]: A 35. § (5) bekezdése a 18/2014. (IV. 14.) NFM rendelet 12. § a) pontja szerint módosított szöveg.
-[^33]: A 35. § (6) bekezdését a 16/2014. (IV. 3.) NFM rendelet 27. § (1) bekezdése hatályon kívül helyezte.
+[^33]: A 35. § az 58/2014. (XII. 30.) NFM rendelet 5. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 a) intelligens forgalomirányítási és utastájékoztatási rendszerek kialakításával és adatcseréjének biztosításával,
 
-b)[^13] az elektronikus jegy- és bérletrendszer átjárhatósága műszaki követelményeinek kialakításában való közreműködéssel és a vállalati e-ticketing rendszerek együttműködésével, a megvalósult elektronikus jegy- és bérletrendszer ellenőrzésével,
+b)[^15] az elektronikus jegy- és bérletrendszer átjárhatósága műszaki követelményeinek kialakításában való közreműködéssel és a vállalati e-ticketing rendszerek együttműködésével, a megvalósult elektronikus jegy- és bérletrendszer ellenőrzésével,
 
 c) intelligens közlekedési rendszerek kialakításával,
 
@@ -16,7 +16,7 @@ kapcsolatos feladatai finanszírozására.
 
 a) a stratégiai és módszertani előkészítést,
 
-b)[^14] a központi koordinációs szervezet kialakítását és működtetését, ideértve a központi hely-, útvonal-, kedvezmény- és tarifaazonosító rendszer, továbbá a központi háttérrendszer szoftver funkciók kiépítését és működtetését, és
+b)[^16] a központi koordinációs szervezet kialakítását és működtetését, ideértve a központi hely-, útvonal-, kedvezmény- és tarifaazonosító rendszer, továbbá a központi háttérrendszer szoftver funkciók kiépítését és működtetését, és
 
 c) a kapcsolódó technológiai ajánlások és szabványok nyomon követési, hazai és külföldi kapcsolattartási és koordinációs feladatok ellátását.
 
@@ -28,5 +28,5 @@ c) a kapcsolódó technológiai ajánlások és szabványok nyomon követési, h
 
 (6) A kedvezményezett a támogatásról olyan elkülönített elszámolást köteles vezetni, amelyből a (4)–(5) bekezdésben meghatározott követelmények ellenőrizhetőek.
 
-[^13]: A 20. § (1) bekezdés b) pontja a 16/2014. (IV. 3.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^14]: A 20. § (2) bekezdés b) pontja a 16/2014. (IV. 3.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^15]: A 20. § (1) bekezdés b) pontja a 16/2014. (IV. 3.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^16]: A 20. § (2) bekezdés b) pontja a 16/2014. (IV. 3.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.

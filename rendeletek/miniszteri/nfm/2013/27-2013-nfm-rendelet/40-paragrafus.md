@@ -1,4 +1,4 @@
-## 39. § Az előirányzat a 2008. évi terület- és régiófejlesztési célelőirányzat felhasználásának részletes szabályairól szóló kormányrendelet alapján használható fel.
+## 39. §[^39]
 
 ## 24. Nemzeti beruházás ösztönzési célelőirányzat (17-20-33-10, ÁHT: 262845)
 
@@ -47,3 +47,5 @@ t) a befektetésösztönzés elősegítése az országimázskép bemutatását s
 u) a gazdaságstratégiai feladatok megalapozását szolgáló kutatási és szakmai tevékenység támogatása.
 
 (2) Az előirányzat terhére az (1) bekezdésben meghatározott célokra vissza nem térítendő támogatás, illetve kamattámogatás és garanciadíj-támogatás nyújtható.
+
+[^39]: A 39. §-t az 58/2014. (XII. 30.) NFM rendelet 16. §-a hatályon kívül helyezte.

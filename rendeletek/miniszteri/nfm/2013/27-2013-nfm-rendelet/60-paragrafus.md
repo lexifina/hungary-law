@@ -1,5 +1,5 @@
-## 59. §[^65] Az előirányzat a Zöldgazdaság Finanszírozási Rendszer fejezeti kezelésű előirányzat felhasználásáról szóló miniszteri rendelet alapján használható fel.
+## 59. §[^63] Az előirányzat a Zöldgazdaság Finanszírozási Rendszer fejezeti kezelésű előirányzat felhasználásáról szóló miniszteri rendelet alapján használható fel.
 
 ## 37. Energiafelhasználási hatékonyság javítása (17-20-35-5, ÁHT: 236355)
 
-[^65]: Az 59. § a 69/2013. (XI. 28.) NFM rendelet 19. §-a szerint módosított szöveg.
+[^63]: Az 59. § a 69/2013. (XI. 28.) NFM rendelet 19. §-a szerint módosított szöveg.

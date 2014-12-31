@@ -1,1 +1,3 @@
-## 21. Agrármarketing célelőirányzat (17-20-33-5, ÁHT: 333739)
+## 21.[^35]
+
+[^35]: A 21. alcímet az 58/2014. (XII. 30.) NFM rendelet 17. §-a hatályon kívül helyezte.

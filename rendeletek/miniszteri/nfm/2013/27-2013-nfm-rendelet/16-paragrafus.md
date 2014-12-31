@@ -1,12 +1,3 @@
-## 7. M-60 autópálya Pécs–Szentdénes közötti szakasz előkészítési munkálatainak teljes befejezése
+## 7.[^12]
 
-## (17-20-31-11, ÁHT: 285078)
-
-16. § (1) Az előirányzat célja az M60 autópálya Pécs–Szentdénes közötti szakasz előkészítési munkálatainak teljes befejezésének finanszírozása.
-
-(2)[^10] Az előirányzat felhasználására a 14. § (2)–(4) bekezdését kell alkalmazni.
-
-(3)[^11]
-
-[^10]: A 16. § (2) bekezdése a 44/2013. (VII. 25.) NFM rendelet 3. §-ával megállapított szöveg.
-[^11]: A 16. § (3) bekezdését a 44/2013. (VII. 25.) NFM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^12]: A 7. alcímet az 58/2014. (XII. 30.) NFM rendelet 17. §-a hatályon kívül helyezte.

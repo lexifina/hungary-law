@@ -1,6 +1,6 @@
-## 21. §[^15] Az előirányzat biztosítja a fedezetet a 19. §-ban, valamint a 20. § (1) bekezdés a), b), d) és e) pontjában meghatározott feladatok ellátásra, amelynek érdekében a KTI Nonprofit Kft.-vel mint kedvezményezettel a miniszter támogatási, illetve vállalkozási szerződést köt. Az előirányzat biztosítja a fedezetet a 20. § (1) bekezdés c) pontjában meghatározott feladatok finanszírozására, amelyek ellátását a KKK – a KTI Nonprofit Kft. bevonásával – végzi előirányzat átcsoportosításra vonatkozó megállapodás alapján.
+## 21. §[^17] Az előirányzat biztosítja a fedezetet a 19. §-ban, valamint a 20. § (1) bekezdés a), b), d) és e) pontjában meghatározott feladatok ellátásra, amelynek érdekében a KTI Nonprofit Kft.-vel mint kedvezményezettel a miniszter támogatási, illetve vállalkozási szerződést köt. Az előirányzat biztosítja a fedezetet a 20. § (1) bekezdés c) pontjában meghatározott feladatok finanszírozására, amelyek ellátását a KKK – a KTI Nonprofit Kft. bevonásával – végzi előirányzat átcsoportosításra vonatkozó megállapodás alapján.
 
-22. § (1)[^16] Az előirányzat felhasználható a Tisza folyón, valamint a Kőrös, a Sajó és a Szamos folyókon a köteles kompok közlekedésbiztonságot fokozó átalakítására.
+22. § (1)[^18] Az előirányzat felhasználható a Tisza folyón, valamint a Kőrös, a Sajó és a Szamos folyókon a köteles kompok közlekedésbiztonságot fokozó átalakítására.
 
 (2) Az átalakítási feladat finanszírozása pályázati úton történik. A pályázat meghirdetéséről – a pályázati dokumentáció jóváhagyásával – a miniszter dönt.
 
@@ -30,5 +30,5 @@ bb) a kompok és a révek alkalmasságának és megfelelőségének vizsgálata 
 
 (9) Az (1) bekezdésben meghatározott célra nyújtott támogatás a csekély összegű támogatásokról szóló bizottsági rendelet szerinti csekély összegű (de minimis) támogatásnak minősül, és a csekély összegű támogatásokról szóló bizottsági rendelettel összhangban nyújtható.
 
-[^15]: A 21. § a 44/2013. (VII. 25.) NFM rendelet 10. § b) pontja szerint módosított szöveg.
-[^16]: A 22. § (1) bekezdése a 16/2014. (IV. 3.) NFM rendelet 5. §-ával megállapított szöveg.
+[^17]: A 21. § a 44/2013. (VII. 25.) NFM rendelet 10. § b) pontja szerint módosított szöveg.
+[^18]: A 22. § (1) bekezdése a 16/2014. (IV. 3.) NFM rendelet 5. §-ával megállapított szöveg.

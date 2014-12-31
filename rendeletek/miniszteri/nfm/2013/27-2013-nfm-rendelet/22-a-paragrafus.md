@@ -1,4 +1,4 @@
-## 8/A. [^17] UD rendszer működtetése és kapcsolódó feladatok (17-20-32-3, ÁHT: 341573)
+## 8/A. [^19] UD rendszer működtetése és kapcsolódó feladatok (17-20-32-3, ÁHT: 341573)
 
 22/A. § (1) Az előirányzat célja fedezet biztosítása a megtett úttal arányos díjszedési rendszer (a továbbiakban: UD rendszer) működtetésével összefüggésben
 
@@ -20,7 +20,7 @@ h) a KKK UD rendszerrel kapcsolatos többletfeladataival
 
 kapcsolatban felmerülő kiadásokra.
 
-(2)[^18] Az (1) bekezdés a) pontjában meghatározott feladatok elvégzésére a KKK a Nemzeti Útdíjfizetési Szolgáltató Zrt.-vel szolgáltatási szerződést köt.
+(2)[^20] Az (1) bekezdés a) pontjában meghatározott feladatok elvégzésére a KKK a Nemzeti Útdíjfizetési Szolgáltató Zrt.-vel szolgáltatási szerződést köt.
 
 (3) Az (1) bekezdés b–c) pontjában meghatározott feladatok ellátására a KKK az országos közutak kezelőivel vállalkozási vagy megbízási szerződést köt.
 
@@ -32,5 +32,5 @@ kapcsolatban felmerülő kiadásokra.
 
 (7) Az előirányzat kezelő szerve a KKK. Az előirányzat pénzügyi lebonyolítására szolgáló számla felett a KKK rendelkezési joggal bír. Az előirányzatnak a (1) bekezdés g) és h) pontjában meghatározott feladatokra történő felhasználását kivéve a KKK végzi a kötelezettségvállalással kapcsolatos feladatokat, a szakmai teljesítésigazolást, az érvényesítést és az utalványozást, valamint az előirányzattal kapcsolatos könyvvezetési feladatokat és részt vesz a forrás felhasználásának az ellenőrzésében.
 
-[^17]: A 8/A. alcímet (22/A. §) a 44/2013. (VII. 25.) NFM rendelet 4. §-a iktatta be.
-[^18]: A 22/A. § (2) bekezdése a 16/2014. (IV. 3.) NFM rendelet 6. §-ával megállapított szöveg.
+[^19]: A 8/A. alcímet (22/A. §) a 44/2013. (VII. 25.) NFM rendelet 4. §-a iktatta be.
+[^20]: A 22/A. § (2) bekezdése a 16/2014. (IV. 3.) NFM rendelet 6. §-ával megállapított szöveg.
