@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-327-20-
 | 2013-10-01 | 2009-327-20-22.5 | 345/2013. (IX. 30.) Korm. rendelet |
 | 2014-01-01 | 2009-327-20-22.6 | 518/2013. (XII. 30.) Korm. rendelet |
 | 2014-03-15 | 2009-327-20-22.7 | 79/2014. (III. 14.) Korm. rendelet |
+| 2014-12-31 | 2009-327-20-22.8 | 518/2013. (XII. 30.) Korm. rendelet |

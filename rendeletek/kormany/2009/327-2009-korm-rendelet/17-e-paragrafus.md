@@ -2,7 +2,7 @@
 
 a) a pénzügyi szolgáltatás közvetítéséből, és külön a végzett egyéb pénzügyi szolgáltatásból származó(an)
 
-aa)[^26] eszközeit, követelések, értékpapírok, készletek, pénzeszközök, aktív időbeli elhatárolások bontásban, ezekből külön kiemelten bemutatva a hitel és pénzkölcsönügyletből eredő követeléseket, valamint a Hpt. szerint elkülönített letéti számlára helyezett ügyfélpénzek összegét,
+aa)[^26] eszközeit, követelések, értékpapírok, készletek, pénzeszközök, aktív időbeli elhatárolások bontásban, ezekből külön kiemelten bemutatva a hitel és pénzkölcsönügyletből eredő követeléseket, valamint az Fsztv. szerint elkülönített letéti számlára helyezett ügyfélpénzek összegét,
 
 ab) kötelezettségeit, külön kiemelten bemutatva a fizetési számla kapcsán az ügyféllel szemben fennálló tartozást, a céltartalékokat és a passzív időbeli elhatárolásokat,
 
@@ -22,4 +22,4 @@ ai) be nem folyt kamatokat;
 
 b) a Hitkr. 25. §-ának 7., 28., 40., 42., és 43. pontjai szerinti adatokat a pénzügyi szolgáltatást közvetítő vonatkozásában, továbbá, ha az a nemzetközi számviteli standardok szerinti konszolidált beszámolót készítő anyavállalatnak minősül, akkor a Hitkr. 26. §-ának (10) bekezdése szerinti adatokat az elektronikuspénz-kibocsátóra vonatkozóan.
 
-[^26]: A 17/E. § a) pont aa) alpontja az 518/2013. (XII. 30.) Korm. rendelet 63. §-ával megállapított szöveg.
+[^26]: A 17/E. § a) pont aa) alpontja az 518/2013. (XII. 30.) Korm. rendelet 63. §-ával megállapított, a 362/2014. (XII. 30.) Korm. rendelet 51. §-a szerint módosított szöveg.
