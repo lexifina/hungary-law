@@ -1,0 +1,3 @@
+## 2. § Az R1. 13. §-a a következő (5) bekezdéssel egészül ki:
+
+## „(5) E rendeletnek a Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló 16/1998. (V. 20.) PM rendelet és az adómentes munkáltatói lakáscélú támogatás folyósításának szabályairól szóló 15/2014. (IV. 3.) NGM rendelet módosításáról szóló 48/2014. (XII. 30.) NGM rendelettel (a továbbiakban: MódR2.) megállapított rendelkezéseit az Eximbank és a Mehib Zrt. a MódR2. hatálybalépését követően esedékes elszámolásokra, a teljes elszámolási időszakra alkalmazza.”
