@@ -18,7 +18,7 @@ b) az ÚMVP éves jelentéseinek elkészítéséhez szükséges adatok elemzés�
 
 c) a termelői csoportok monitoring és ellenőrzési rendszerének működtetésére vonatkozó adatelemzéssel és adatszolgáltatással kapcsolatos feladatok ellátása.
 
-(6)[^52] Az IH a Vidékfejlesztési Minisztérium Mezőgazdasági Gépesítési Intézet (a továbbiakban: VM MGI) közreműködését veszi igénybe az alábbi feladatok végrehajtása során, amelyet a VM MGI kizárólagosan végez:
+(6)[^52] Az IH a Nemzeti Agrárkutatási és Innovációs Központ Mezőgazdasági Gépesítési Intézet (a továbbiakban: NAIK MGI) közreműködését veszi igénybe az alábbi feladatok végrehajtása során, amelyet a NAIK MGI kizárólagosan végez:
 
 a) a trágyatárolásra, trágyák beltartalmi értékeire vonatkozó elemzések, összefoglalók elkészítése;
 
@@ -37,7 +37,7 @@ d) az ÚMVP egyes intézkedéseinek végrehajtáshoz kapcsolódó szakmai modulo
 [^49]: A 4/A. §-t a 97/2008. (VII. 25.) FVM rendelet 3. §-a iktatta be.
 [^50]: Az 5. § (4) bekezdése az 53/2008. (IV. 24.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^51]: Az 5. § (5) bekezdése a 63/2007. (VII. 13.) FVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 7. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^52]: Az 5. § (6) bekezdését a 63/2007. (VII. 13.) FVM rendelet 3. §-a iktatta be, nyitó szövegrésze a 106/2012. (X. 11.) VM rendelet 4. § c) pontja szerint módosított szöveg.
+[^52]: Az 5. § (6) bekezdését a 63/2007. (VII. 13.) FVM rendelet 3. §-a iktatta be, nyitó szövegrésze a 12/2014. (XII. 30.) MvM rendelet 2. § c)–d) pontja szerint módosított szöveg.
 [^53]: Az 5. § (6) bekezdés b) pontját a 137/2012. (XII. 22.) VM rendelet 15. § (1) bekezdés a) pontja hatályon kívül helyezte.
 [^54]: Az 5. § (6) bekezdésének c) pontja az 53/2008. (IV. 24.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^55]: Az 5. § (7) bekezdését a 63/2007. (VII. 13.) FVM rendelet 3. §-a iktatta be, hatályon kívül helyezte a 124/2011. (XII. 21.) VM rendelet 35. § (1) bekezdés a) pontja.

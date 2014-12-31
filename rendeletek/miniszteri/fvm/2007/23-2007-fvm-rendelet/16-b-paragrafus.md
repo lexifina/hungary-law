@@ -1,6 +1,8 @@
 ## 16/A. §[^101] A kérelem alapján tervezett elszámolható kiadásokra vonatkozó igény meghatározása az MVH által a támogatás alapjára rendszeresített, a tervezett tételeket részletező formanyomtatvány adatai alapján történik.
 
-16/B. §[^102] (1) Jogszabály eltérő rendelkezése hiányában kifizetési kérelmet évente február 1. és május 31., valamint augusztus 1. és december 31. között lehet benyújtani, kivéve a Technikai Segítségnyújtás intézkedést, valamint a 2. § (1) bekezdés a) pont ac) alpontja szerinti intézkedést.
+16/B. §[^102] (1)[^103] Jogszabály eltérő rendelkezése hiányában kifizetési kérelmet évente február 1. és május 31., valamint augusztus 1. és december 31. között, a 2015. évben – az (1a) bekezdésben foglalt kivétellel – kizárólag február 1. és augusztus 31. között lehet benyújtani, kivéve a Technikai Segítségnyújtás intézkedést, valamint a 2. § (1) bekezdés a) pont ac) alpontja szerinti intézkedést.
+
+(1a)[^104] Amennyiben az ügyfélre vonatkozó kifizetési kérelem benyújtási határidő 2015. január 1. és 31. között jár le, a támogatásra jogosult a kifizetési kérelmét 2015. február 1. és március 16. között szankció nélkül benyújthatja, kivéve, ha a támogatás részletes feltételeit megállapító jogszabály kifejezetten 2015. január 1. és 31. közötti benyújtási időszakot határoz meg.
 
 (2) A 8. § (2) bekezdésétől eltérően az (1) bekezdés alapján benyújtott kifizetési kérelmek esetén egy ügyfél egy kifizetési kérelem-benyújtási időszakban több kérelmet is benyújthat, ha
 
@@ -16,3 +18,5 @@ c) az ugyanazon időszakban benyújtott kérelmét legkésőbb az újonnan beny�
 
 [^101]: A 16/A. §-t a 97/2008. (VII. 25.) FVM rendelet 7. §-a iktatta be.
 [^102]: A 16/B. §-t az 57/2011. (VI. 20.) VM rendelet 2. §-a iktatta be, szövege a 137/2012. (XII. 22.) VM rendelet 2. §-ával megállapított szöveg.
+[^103]: A 16/B. § (1) bekezdése a 12/2014. (XII. 30.) MvM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^104]: A 16/B. § (1a) bekezdését a 12/2014. (XII. 30.) MvM rendelet 1. § (1) bekezdése iktatta be.

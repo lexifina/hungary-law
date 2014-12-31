@@ -6,7 +6,7 @@
 
 15. § (1)[^92] Nem terület- és állatlétszám alapú támogatásokra vonatkozó támogatási kérelem akkor nyújtható be és a kérelem akkor hagyható jóvá, ha az ügyfél
 
-a)[^93] szervezet nem áll csőd-, felszámolási, végelszámolási eljárás, adósságrendezés alatt;
+a)[^93] szervezet nem áll csőd-, felszámolási, végelszámolási eljárás alatt;
 
 b) nem áll a SAPARD Program, az Agrár- és Vidékfejlesztési Operatív Program, a Nemzeti Vidékfejlesztési Terv, ÚMVP, a Halászati Operatív Program, illetve a Nemzeti Diverzifikációs Program bármely intézkedése keretében nyújtott támogatásból való kizárás hatálya alatt.
 
@@ -19,7 +19,7 @@ b) nem áll a SAPARD Program, az Agrár- és Vidékfejlesztési Operatív Progra
 (5)[^97]
 
 [^92]: A 15. § eredeti szövegének jelölését az 53/2008. (IV. 24.) FVM rendelet 9. §-a (1) bekezdésre változtatta, szövege a 124/2011. (XII. 21.) VM rendelet 9. § (1) bekezdésével megálapított szöveg.
-[^93]: A 15. § (1) bekezdés a) pontja a 8/2014. (XI. 19.) MvM rendelet 2. § a) pontja szerint módosított szöveg.
+[^93]: A 15. § (1) bekezdés a) pontja a 8/2014. (XI. 19.) MvM rendelet 2. § a) pontja, a 12/2014. (XII. 30.) MvM rendelet 3. §-a szerint módosított szöveg.
 [^94]: A 15. § (2) bekezdését az 53/2008. (IV. 24.) FVM rendelet 9. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. A 15. § (2) bekezdése a 23/2010. (III. 16.) FVM rendelet 1. § (7) bekezdésével megállapított szöveg.
 [^95]: A 15. § (3) bekezdését az 51/2009. (IV. 16.) FVM rendelet 7. §-a iktatta be, szövege a 124/2011. (XII. 21.) VM rendelet 9. § (2) bekezdésével megálapított szöveg.
 [^96]: A 15. § (4) bekezdését a 124/2011. (XII. 21.) VM rendelet 9. § (3) bekezdése iktatta be.

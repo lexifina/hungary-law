@@ -1,20 +1,20 @@
-## 36/B. §[^242] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet módosításáról szóló 11/2011. (II. 18.) VM rendelettel [a továbbiakban: 11/2011. (II. 18.) VM rendelet] megállapított 17. § (3) és 25. § (8) bekezdését a 11/2011. (II. 18.) VM rendelet hatálybalépésekor[^243] folyamatban levő ügyekben is alkalmazni kell.
+## 36/B. §[^245] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet módosításáról szóló 11/2011. (II. 18.) VM rendelettel [a továbbiakban: 11/2011. (II. 18.) VM rendelet] megállapított 17. § (3) és 25. § (8) bekezdését a 11/2011. (II. 18.) VM rendelet hatálybalépésekor[^246] folyamatban levő ügyekben is alkalmazni kell.
 
-36/C. §[^244] (1) E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból társfinanszírozásban megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet módosításáról szóló 17/2011. (III. 4.) VM rendelettel [a továbbiakban: 17/2011. (III. 4.) VM rendelet] megállapított
+36/C. §[^247] (1) E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból társfinanszírozásban megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet módosításáról szóló 17/2011. (III. 4.) VM rendelettel [a továbbiakban: 17/2011. (III. 4.) VM rendelet] megállapított
 
-a) 3. § 39. pontját a 17/2011. (III. 4.) VM rendelet hatálybalépésekor[^245] folyamatban lévő eljárásokra is;
+a) 3. § 39. pontját a 17/2011. (III. 4.) VM rendelet hatálybalépésekor[^248] folyamatban lévő eljárásokra is;
 
 b) 30. § (9) bekezdését 2011. január 1-jétől benyújtott kifizetési kérelmek alapján indult eljárásokra is;
 
-c) 12. § (4)–(6) bekezdéseit a 17/2011. (III. 4.) VM rendelet hatálybalépésekor[^246] folyamatban levő ügyekben is;
+c) 12. § (4)–(6) bekezdéseit a 17/2011. (III. 4.) VM rendelet hatálybalépésekor[^249] folyamatban levő ügyekben is;
 
-d) 20. § (4) bekezdésének és a 24. § (2) bekezdésének rendelkezéseit a 17/2011. (III. 4.) VM rendelet hatálybalépésekor[^247] folyamatban lévő jogorvoslati és folyamatban lévő döntés-felülvizsgálati eljárások kivételével a helyt adó vagy részben helyt adó jogerős támogatási határozattal még le nem zárt eljárásokban is
+d) 20. § (4) bekezdésének és a 24. § (2) bekezdésének rendelkezéseit a 17/2011. (III. 4.) VM rendelet hatálybalépésekor[^250] folyamatban lévő jogorvoslati és folyamatban lévő döntés-felülvizsgálati eljárások kivételével a helyt adó vagy részben helyt adó jogerős támogatási határozattal még le nem zárt eljárásokban is
 
 alkalmazni kell.
 
-[^242]: A 36/B. §-t a 11/2011. (II. 18.) VM rendelet 3. §-a iktatta be.
-[^243]: A hatálybalépés időpontja 2011. február 21.
-[^244]: A 36/C. §-t a 17/2011. (III. 4.) VM rendelet 8. §-a iktatta be.
-[^245]: A hatálybalépés időpontja 2011. március 5.
-[^246]: A hatálybalépés időpontja 2011. március 5.
-[^247]: A hatálybalépés időpontja 2011. március 5.
+[^245]: A 36/B. §-t a 11/2011. (II. 18.) VM rendelet 3. §-a iktatta be.
+[^246]: A hatálybalépés időpontja 2011. február 21.
+[^247]: A 36/C. §-t a 17/2011. (III. 4.) VM rendelet 8. §-a iktatta be.
+[^248]: A hatálybalépés időpontja 2011. március 5.
+[^249]: A hatálybalépés időpontja 2011. március 5.
+[^250]: A hatálybalépés időpontja 2011. március 5.

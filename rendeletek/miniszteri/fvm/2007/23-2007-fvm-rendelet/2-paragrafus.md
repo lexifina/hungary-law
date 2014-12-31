@@ -130,7 +130,7 @@ c) a helyi akciócsoportok működtetési költségei,
 
 d)[^9] a helyi fejlesztési stratégiák megvalósítása (LEADER).
 
-(5)[^10] A technikai segítségnyújtás céljára biztosított forrás kedvezményezettjei: a vidékfejlesztési miniszter, mint Irányító Hatóság (a továbbiakban: IH), a Magyar Nemzeti Vidéki Hálózat, a Mezőgazdasági és Vidékfejlesztési Hivatal; valamint az IH részeként a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI), mint az IH technikai támogató egysége.
+(5)[^10] A technikai segítségnyújtás céljára biztosított forrás kedvezményezettjei: az agrár-vidékfejlesztésért felelős miniszter, mint Irányító Hatóság (a továbbiakban: IH), a Magyar Nemzeti Vidéki Hálózat, a Mezőgazdasági és Vidékfejlesztési Hivatal; valamint az IH részeként a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI), mint az IH technikai támogató egysége.
 
 [^1]: Az 1. § a 124/2011. (XII. 21.) VM rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdése a 97/2008. (VII. 25.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -141,4 +141,4 @@ d)[^9] a helyi fejlesztési stratégiák megvalósítása (LEADER).
 [^7]: A 2. § (2) bekezdés q) pontját a 124/2011. (XII. 21.) VM rendelet 2. § (2) bekezdése iktatta be.
 [^8]: A 2. § (3) bekezdés d) pontja az 57/2011. (VI. 20.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^9]: A 2. § (4) bekezdés d) pontját az 57/2011. (VI. 20.) VM rendelet 1. § (2) bekezdése iktatta be.
-[^10]: A 2. § (5) bekezdése a 124/2011. (XII. 21.) VM rendelet 2. § (3) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 4. § a) pontja szerint módosított szöveg.
+[^10]: A 2. § (5) bekezdése a 124/2011. (XII. 21.) VM rendelet 2. § (3) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 4. § a) pontja, a 12/2014. (XII. 30.) MvM rendelet 2. § a) pontja szerint módosított szöveg.
