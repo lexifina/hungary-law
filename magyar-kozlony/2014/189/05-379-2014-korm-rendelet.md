@@ -1,0 +1,136 @@
+# A Kormány 379/2014. (XII. 31.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 189. szám, 2014. december 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/195cd15c358f94b25e7c9924adb935a6c384a37c/dokumentumok/b36cd5a91cf5009a06391f3ae5ed0876d54e2d56/letoltes)
+
+---
+
+A Kormány 379/2014. (XII. 31.) Korm. rendelete
+a Klebelsberg Intézményfenntartó Központról szóló 202/2012. (VII. 27.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, valamint
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A Klebelsberg Intézményfenntartó Központról szóló 202/2012. (VII. 27.) Korm. rendelet (a továbbiakban: R.) 2. §-a
+helyébe a következő rendelkezés lép:
+„2. § (1) Az Intézményfenntartó Központ központi szervből és területi szervekből áll.
+(2) Az Intézményfenntartó Központ területi szerve a járási és a fővárosi kerületi tankerület, valamint
+a megyeközponti és a fővárosi tankerület.
+(3) A megyeközponti tankerület az illetékességi területén lévő járási tankerületet érintő funkcionális feladatokat lát
+el és gondoskodik a járási tankerületek tevékenységének összehangolásáról.
+(4) A megyeközponti tankerület az illetékességi területén működő szakképző iskolák, gimnáziumok, kollégiumok,
+a pedagógiai szakszolgálati feladatokat és a pedagógiai szakmai szolgáltatást ellátó köznevelési intézmények,
+valamint gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmények és az ilyen feladatokat ellátó
+többcélú intézmények tekintetében ellátja az Intézményfenntartó Központ szervezeti és működési szabályzatában
+számára meghatározott egyes fenntartói feladatokat, valamint a székhelye szerinti járási tankerület tekintetében
+ellátja a járási tankerületi feladatokat.
+(5) A járási tankerület az illetékességi területén működő általános iskolák, alapfokú művészeti iskolák fenntartásával
+kapcsolatosan ellátja az Intézményfenntartó Központ szervezeti és működési szabályzatában számára
+meghatározott egyes fenntartói feladatokat.
+(6) A fővárosi tankerület az illetékességi területén működő szakképző iskolák, kollégiumok, a pedagógiai
+szakszolgálati feladatokat és a pedagógiai szakmai szolgáltatást ellátó köznevelési intézmények, valamint
+gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmények és az ilyen feladatokat ellátó többcélú
+intézmények tekintetében – a (7) bekezdésben foglalt kivételekkel – ellátja az Intézményfenntartó Központ
+szervezeti és működési szabályzatában számára meghatározott egyes fenntartói feladatokat.
+
+(7) A fővárosi kerületi tankerület az illetékességi területén működő általános iskolák, alapfokú művészeti iskolák és
+gimnáziumok, valamint a kizárólag ilyen intézményeket és kollégiumokat megában foglaló többcélú intézmények
+fenntartásával kapcsolatosan ellátja az Intézményfenntartó Központ szervezeti és működési szabályzatában
+számára meghatározott egyes fenntartói feladatokat.
+(8) A járási és fővárosi kerületi tankerület feladatellátása során tevékenységét – az (5) és (7) bekezdésben foglalt
+feladatok kivételével – a megyeközponti és fővárosi tankerület szakmai és koordinációs iránymutatásainak
+megfelelően látja el.
+(9) Pest megyében a megyeközponti tankerület Cegléd székhellyel működik.”
+2. §
+Az R. 4. § (3)–(6) bekezdése helyébe a következő rendelkezések lépnek, egyidejűleg a 4. § a következő
+(7)–(8) bekezdéssel egészül ki:
+„(3) Az elnököt távolléte vagy akadályoztatása esetén az általános elnökhelyettes helyettesíti.
+(4) Általános elnökhelyettesnek az nevezhető ki, aki egyetemi vagy főiskolai szintű közgazdasági vagy műszaki
+képzési területen szerzett szakképzettséggel, vagy egyetemi szintű jogász szakképzettséggel, a központi vagy
+területi közigazgatásban szerzett legalább ötéves vezetői gyakorlattal, valamint közigazgatási szakvizsgával vagy
+jogi szakvizsgával rendelkezik.
+(5) Szakmai elnökhelyettesnek az nevezhető ki, aki a pedagógus munkakör betöltésére jogosító mester (egyetemi
+szintű) felsőfokú végzettséggel és szakképzettséggel, a központi vagy területi közigazgatásban szerzett legalább
+ötéves vezetői gyakorlattal, valamint pedagógus szakvizsgával, közigazgatási szakvizsgával vagy jogi szakvizsgával
+rendelkezik.
+(6) Szakképzési elnökhelyettesnek az nevezhető ki, aki pedagógus munkakör betöltésére jogosító mester (egyetemi
+szintű) felsőfokú végzettséggel és szakképzettséggel, a központi vagy területi közigazgatásban szerzett legalább
+hároméves vezetői gyakorlattal vagy legalább hároméves szakképzőintézmény-vezetői gyakorlattal, valamint
+pedagógus-szakvizsgával, közigazgatási szakvizsgával vagy jogi szakvizsgával rendelkezik.
+(7) Az Intézményfenntartó Központ általános és szakmai elnökhelyettesét, valamint gazdasági vezetőjét – az elnök
+javaslatára – a miniszter nevezi ki és menti fel.
+(8) Az Intézményfenntartó Központ szakképzési elnökhelyettesét – a szakképzésért és felnőttképzésért felelős
+miniszter javaslatára és egyetértésével – a miniszter nevezi ki és menti fel.”
+3. §
+Az R. 5. § (1)–(2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) A járási és fővárosi kerületi tankerületet, valamint a megyeközponti és fővárosi tankerületet a tankerületi
+igazgató vezeti.
+(2) Tankerületi igazgatónak az nevezhető ki, aki felsőfokú végzettséggel és
+a) pedagógus,
+b) jogász vagy
+c) közgazdasági, természettudományi, bölcsészettudományi, társadalomtudományi képzési területen szerzett
+szakképzettséggel, valamint az oktatási igazgatás területén teljesített legalább öt éves gyakorlattal és – pedagógus-
+vagy közigazgatási, illetve jogi – szakvizsgával rendelkezik.”
+4. §
+Az R. 6. §-a helyébe a következő rendelkezés lép:
+„6. § (1) Az elnök – a nemzeti köznevelésről szóló 2011. évi CXC. törvényben (a továbbiakban: Nkt.) 61. § (6) és
+(8) bekezdésében és e rendelet 4. § (5) bekezdésében meghatározott egyes munkáltatói jogok kivételével –
+gyakorolja az Intézményfenntartó Központban foglalkoztatottak felett a munkáltatói jogokat. A munkáltatói
+jogok gyakorlását az elnök vezető beosztású kormánytisztviselőre, magasabb vezetői megbízással rendelkező
+közalkalmazottra átruházhatja, továbbá a köznevelési intézmény magasabb vezetői megbízással rendelkező
+közalkalmazottjára az Nkt.-ban foglaltak szerint átruházza.
+(2) A tankerületi igazgatót – a tankerület székhelye szerint illetékes fővárosi és megyei kormányhivatal
+kormánymegbízottja véleményének kikérésével – a miniszter egyetértésével az elnök nevezi ki és menti fel.”
+5. § (1) Az R. 7. § (1) bekezdés k) pontja helyébe a következő rendelkezés lép:
+(Az Intézményfenntartó Központ a köznevelési közfeladat-ellátásban részt vevő, fenntartásában lévő köznevelési
+intézmények tekintetében)
+„k) ellátja a jogszabályokban meghatározott fenntartói feladatokat,”
+
+(2) Az R. 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az Intézményfenntartó Központ feladatkörében – a miniszter ágazati irányítási feladataihoz kapcsolódóan –
+a) javaslatot tesz a miniszternek a tankerületek illetékességi területe módosításának kezdeményezésére,
+közreműködik a miniszteri kezdeményezés előkészítésében,
+b) elemzi az Intézményfenntartó Központ fenntartásában lévő köznevelési intézményben lefolytatott ellenőrzések
+eredményeit, és ennek alapján javaslatot tesz a miniszternek a köznevelés közép- és hosszú távú fejlesztési terveinek
+kidolgozására, módosítására,
+c) jogszabályban foglalt feladatkörében statisztikai adatokat gyűjt,
+d) közreműködik valamennyi az Országos Képzési Jegyzékben szereplő szakképesítéssel kapcsolatos szakmai vizsga
+központi írásbeli tételeinek, központi gyakorlati feladatainak, valamint azok megoldásainak szétosztásában, mint
+a szakképző intézmények fenntartója, és
+e) ellátja a jogszabályban és az Intézményfenntartó Központ alapító okiratában meghatározott további feladatokat.”
+(3) Az R. 7. § (3b) bekezdése helyébe a következő rendelkezés lép:
+„(3b) A megyeközponti tankerület és a fővárosi tankerület szakképzésért felelős szervezeti egységének vezetője
+a szakképzés-specifikus szakmai feladatok tekintetében a szakképzési elnökhelyettes közvetlen irányítása alatt áll és
+a szakképzési elnökhelyettes egyetértésével az elnök nevezi ki és menti fel.”
+(4) Az R. 7. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) Az Intézményfenntartó Központ biztosítja a szakszervezeti érdekegyeztetés rendszerének működését.
+A közalkalmazottak élet- és munkakörülményeit érintő munkajogi döntések meghozatala előtt egyeztet
+a reprezentatív szakszervezetekkel. Az Intézményfenntartó Központ tevékenysége során együttműködik a szakmai
+és érdekképviseleti szervezetekkel, valamint az országos nemzetiségi önkormányzatokkal. Az Intézményfenntartó
+Központ biztosítja a Nemzeti Pedagógus Kar javaslattevő és véleményezési jogkörét a közjogi szervezetszabályozó
+eszközök, valamint az Intézményfenntartó Központ Szervezeti és Működési Szabályzata kialakítása, kiadása
+vonatkozásában.”
+6. §
+Az R. 8. §-a helyébe a következő rendelkezés lép:
+„8. § E rendelet alkalmazásában:
+1. fővárosi kerületi tankerület: a köznevelési feladatok ellátásának egysége, melynek illetékességi területe megegyezik
+az adott fővárosi kerület közigazgatási területével, székhelye az adott kerületben található,
+2. fővárosi tankerület: a köznevelési feladatok ellátásának egysége, melynek illetékességi területe megegyezik
+Budapest közigazgatási területével, székhelye megegyezik az Intézményfenntartó Központ székhelyével,
+3. funkcionális feladat: a fenntartói funkciók szerinti munkamegosztás alapján kialakított szervezeti egységek által
+ellátott szervi működést szolgáló – nem szakmai feladatellátáshoz kötődő – belső igazgatási feladat, különösen
+a humánpolitikai és humán-erőforrás gazdálkodási, költségvetési gazdálkodási, pénzügyi-számviteli, eszköz-
+és vagyongazdálkodási, iratkezelési, jogi (peres képviseleti), nemzetközi kapcsolatok lebonyolítására szolgáló,
+ellenőrzési, koordinációs, saját szervi működtetését szolgáló informatikai és informatikai rendszerfenntartási,
+kommunikációs feladatok, valamint a személyi, tárgyi, műszaki, pénzügyi feltételek biztosítását szolgáló műveletek,
+4. járási tankerület: a köznevelési feladatok ellátásának egysége, melynek illetékességi területe megegyezik az adott
+járás közigazgatási területével, székhelye megegyezik az adott járási hivatal székhelyével,
+5. megyeközponti tankerület: a köznevelési feladatok ellátásának egysége, melynek illetékességi területe
+megegyezik az adott megye közigazgatási területével, székhelye – Pest megye kivételével – megegyezik az adott
+megyeszékhellyel.”
+7. §
+Hatályát veszti az R.
+a) 3. § (3) bekezdése, és
+b) 7. § (3) bekezdés f) pontja, (5) és (8) bekezdése.
+8. §
+Ez a rendelet 2015. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

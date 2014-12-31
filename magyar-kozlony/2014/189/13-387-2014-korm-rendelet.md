@@ -1,0 +1,61 @@
+# A Kormány 387/2014. (XII. 31.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 189. szám, 2014. december 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/195cd15c358f94b25e7c9924adb935a6c384a37c/dokumentumok/b36cd5a91cf5009a06391f3ae5ed0876d54e2d56/letoltes)
+
+---
+
+A Kormány 387/2014. (XII. 31.) Korm. rendelete
+az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet módosításáról
+A Kormány az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 11. pontjában kapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet (a továbbiakban: R.) 1. §
+(1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) E rendeletet a (3) bekezdésben meghatározott esetekben − a (2) bekezdés szerinti kivételekkel − épületek és
+az épület önálló rendeltetési egységei energetikai jellemzőinek tanúsítási eljárására kell alkalmazni.
+(2) A rendelet hatálya nem terjed ki:
+a) az önálló, más épülethez nem csatlakozó, 50 m2-nél kisebb hasznos alapterületű épületre;
+b) az évente 4 hónapnál rövidebb használatra szánt lakhatás és pihenés céljára használt épületre;
+c) a legfeljebb 2 évi használatra szánt felvonulási épületre, fólia- vagy sátorszerkezetre;
+d) hitéleti célra használt épületre;
+e) a nem lakás céljára használt alacsony energiaigényű olyan mezőgazdasági épületre, amelyben a levegő
+hőmérséklete a fűtési rendszer üzemideje alatt nem haladja meg a 12 °C-ot vagy négy hónapnál rövidebb ideig
+kerül fűtésre és két hónapnál rövidebb ideig kerül hűtésre;
+f) műhelyre vagy az ipari területen lévő épületre, ha abban a technológiából származó belső hőnyereség
+a rendeltetésszerű használat időtartama alatt nagyobb, mint 20 W/m2, vagy a fűtési idényben több, mint húszszoros
+légcsere szükséges, illetve alakul ki.”
+
+2. §
+Az R. 2. §-a a következő a) ponttal egészül ki:
+(E rendelet alkalmazásában)
+„a) épület: falakkal ellátott, fedett építmény, amelyben energiát használnak a beltéri légállapot szabályozására;”
+3. § (1) Az R. 4. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A tanúsítvány kiállítható
+a) önálló rendeltetési egység esetén
+aa) az épület egészére vonatkozó tanúsítvány alapján, a tanúsítandó önálló rendeltetési egység épületben levő
+helyzetének, tájolásának és eltérő adottságainak figyelembevételével, vagy
+ab) ugyanabban az épületben található, azonos rendeltetésű, elrendezésű, azonos méretű és azonos energetikai
+jellemzőjű épületelemekkel rendelkező önálló rendeltetési egység tanúsítványa alapján,
+b) különálló családi ház esetén azonos méretű és energiahatékonyságú, azonos épületelemekkel rendelkező családi
+ház tanúsítványa alapján, ha a tanúsító az azonosságról meggyőződött.”
+(2) Az R. 4. §-a következő (7) bekezdéssel egészül ki:
+„(7) Az 1. melléklet szerinti energetikai minőségtanúsítványon feltüntetett követelményértéket és az energetikai
+minőség szerinti besoroláshoz felhasznált referencia értéket az épületek energetikai jellemzőinek meghatározásáról
+szóló 7/2006. (V. 24.) TNM rendelet 4. §-a szerint kell meghatározni.”
+4. §
+Az R. 7. §-a következő (8) bekezdéssel egészül ki:
+„(8) Energia-megtakarításra irányuló javaslat vagy az energiahatékonyságra vonatkozó minimumkövetelmények
+betartása a műemléki vagy a helyi védettséget megalapozó érték megváltoztatását nem eredményezheti.”
+5. §
+Az R. 11. § (3) bekezdés c) pontja helyébe a következő rendelkezés:
+(Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+„c) az épületek energiahatékonyságáról szóló, 2010. május 19-i 2010/31/EU európai parlamenti és tanácsi irányelv
+2. cikk 1. és 14. pontja, 11., 12., 13., 18. cikke, 20. cikk (1) és (2) bekezdése, továbbá II. melléklete.”
+6. §
+Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
+7. §
+Ez a rendelet az épületek energiahatékonyságáról szóló, 2010. május 19-i 2010/31/EU európai parlamenti és tanácsi
+irányelv 2. cikk 1. pontjának, 11. cikk (6) és (7) bekezdésének, valamint 12. cikk (6) bekezdésének való megfelelést
+szolgálja.
+ Orbán Viktor s. k.,
+ miniszterelnök

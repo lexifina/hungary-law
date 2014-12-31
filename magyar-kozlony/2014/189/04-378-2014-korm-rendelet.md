@@ -1,0 +1,265 @@
+# A Kormány 378/2014. (XII. 31.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 189. szám, 2014. december 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/195cd15c358f94b25e7c9924adb935a6c384a37c/dokumentumok/b36cd5a91cf5009a06391f3ae5ed0876d54e2d56/letoltes)
+
+---
+
+A Kormány 378/2014. (XII. 31.) Korm. rendelete
+a közszolgálati tisztviselők továbbképzéséről szóló 273/2012. (IX. 28.) Korm. rendelet módosításáról
+A Kormány a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 17. pont c) alpontjában kapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A közszolgálati tisztviselők továbbképzéséről szóló 273/2012. (IX. 28.) Korm. rendelet (a továbbiakban: R.) 2. §
+(1) bekezdése helyébe a következő rendelkezés lép:
+„(1) E rendelet alkalmazásában:
+a) felnőttképzési intézmény: a felnőttképzésről szóló törvényben szabályozott feltételeknek megfelelő, engedéllyel
+rendelkező, felnőttképzést folytató intézmény;
+b) belső továbbképzés: közigazgatási szerv, felsőoktatási vagy felnőttképzési intézmény által folytatott szakmai
+továbbképzés, amely a megrendelő közigazgatási szerv számára speciális intézményi vagy munkaköri ismereteket,
+illetve képességeket közvetít;
+c) egyéni továbbképzési terv: a közszolgálati tisztviselő tárgyévre meghatározott tanulmányi kötelezettségeinek és
+egyéni fejlesztési igényeinek teljesítését biztosító képzési terv;
+d) egyszerűsített nyilvántartásba vétel: a belső továbbképzési program és az azt megvalósító közigazgatási szerv,
+felsőoktatási vagy felnőttképzési intézmény nyilvántartásba vétele, amelynek eredményeként a továbbképzési
+program felkerül a továbbképzési programjegyzékre;
+e) éves továbbképzési terv: a munkáltatónál foglalkoztatott kormánytisztviselők, köztisztviselők egyéni
+továbbképzési terveinek összessége;
+f) képzésfejlesztés: a közszolgálati továbbképzési programokban felhasznált szakanyagok létrehozása, a képzés
+során alkalmazott oktatásmódszertan, a képzések követelményrendszerének megfelelő tanmenet és a képzésekben
+felhasznált tananyagok, oktatási segédanyagok fejlesztése;
+
+g) közszolgálati továbbképzési program: általános közigazgatási, szakmai és vezetői ismeretek megszerzésére
+irányuló, a közigazgatási szakvizsgára való felkészülést moduláris rendszerben szolgáló, továbbá a jogalkalmazás
+javítására irányuló továbbképzések, melyek fejlesztéséről és megvalósításáról a Nemzeti Közszolgálati Egyetem
+(a továbbiakban: NKE) gondoskodik;
+h) minőségirányítási szabályzat: a továbbképzés minőségirányítási szempontból történő vezetésére és
+szabályozására szolgáló szabályzat, amely irányítási kézikönyvként tartalmazza a továbbképzés tervezésének,
+fejlesztésének, szervezésének, végrehajtásának és ellenőrzésének eljárásait;
+i) tanulmányi pont: a közszolgálati továbbképzésben végzett tanulmányi munka mértékegysége, amely
+a továbbképzési programok, illetve az egyes kurzusok vonatkozásában arányaiban kifejezi azt a tanulmányi
+munkaórát, amely meghatározott ismeretek elsajátításához, a követelmények teljesítéséhez szükséges;
+j) továbbképzési időszak: a továbbképzési kötelezettségek teljesítésére rendelkezésre álló négy éves időszak;
+k) továbbképzési modul: a továbbképzési rendszerben meghatározott programot alkotó, logikailag összetartozó
+ismeretanyagok, önállóan is elsajátítható tanulási egységek;
+l) továbbképzési programjegyzék: a közszolgálati továbbképzési és belső továbbképzési programokat tartalmazó,
+az NKE által vezetett nyilvántartás;
+m) továbbképzési programminősítés: továbbképzési programok megfelelőségének vizsgálata a minőségirányítási
+szabályzat és a szakmai követelményrendszer feltételei alapján.”
+2. §
+Az R. 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A miniszter irányítási és felügyeleti jogkörében különösen:
+a) irányítja a továbbképzés intézményrendszerét, kialakítja és működteti – az NKE közreműködésével –
+a továbbképzés minőségirányítási rendszerét;
+b) felügyeli az NKE továbbképzési tervezéssel összefüggő, valamint módszertani és minőségirányítási
+tevékenységét;
+c) felügyeli – az NKE bevonásával – a közigazgatási szervek éves továbbképzési tervezési tevékenységét, a tervek
+végrehajtását;
+d) az e rendelet alapján minősített továbbképzési programot központilag előírt továbbképzési programnak
+nyilváníthat;
+e) egyetértési jogot gyakorol minősített továbbképzési program – ágazati miniszter által az adott ágazatban
+dolgozó közszolgálati tisztviselők számára – kötelezően előírt továbbképzési programmá nyilvánításával
+kapcsolatban;
+f) jóváhagyja a megvalósított közszolgálati továbbképzésekről és az éves továbbképzési tervek végrehajtásáról
+szóló, az NKE által elkészített jelentést;
+g) kiadja a továbbképzés minőségirányítási szabályzatát az NKE – Közigazgatási Továbbképzési Kollégium
+(a továbbiakban: KTK) által véleményezett – javaslata alapján, és az NKE bevonásával ellenőrzi a továbbképzési
+programok minőségét;
+h) 15 munkanapon belül elbírálja a programminősítési, illetve nyilvántartásba vételi eljárással kapcsolatban
+benyújtott panaszt.”
+3. § (1) Az R. 4. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A KTK feladatai:
+a) meghatározza a minősített továbbképzési programok tartalmával kapcsolatos szakmai követelményeket és dönt
+a továbbképzési programminősítésről;
+b) véleményezi a megvalósított közszolgálati továbbképzésekről és az éves továbbképzési tervek végrehajtásáról
+szóló, az NKE által elkészített jelentést;
+c) dönt a továbbképzési programok programjegyzékébe való nyilvántartásba vételéről, felfüggesztéséről vagy
+törléséről;
+d) dönt a programminősítési szakértői névjegyzékbe való felvételről, illetve a névjegyzékből való törlésről.”
+(2) Az R. 4. §-a a következő (4a) bekezdéssel egészül ki:
+„(4a) A KTK – a miniszter, az ágazati irányítást, illetve felügyeletet ellátó intézmények, valamint a közigazgatási
+szervek által meghatározott képzési igények alapján – képzésfejlesztési feladatot határoz meg az NKE számára.”
+(3) Az R. 4. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A KTK Titkárság feladatait – az NKE bevonásával – a miniszter által vezetett minisztérium látja el.”
+
+4. §
+Az R. 6. §-a helyébe a következő rendelkezés lép:
+„6. § Az NKE a közszolgálati továbbképzési rendszer működtetése során az alábbi feladatokat látja el:
+a) a továbbképzési programok fejlesztésével összefüggő feladata körében kifejleszti, minősítésre benyújtja és
+fenntartja a KTK által meghatározott követelményrendszer szerinti közszolgálati továbbképzési programokat;
+b) a továbbképzési tervezéssel összefüggő feladatai körében:
+ba) működteti a közszolgálati tisztviselők továbbképzésének országos tervezési rendszerét,
+bb) kialakítja és működteti a továbbképzésekkel összefüggő tervkészítési feladatok ellátását támogató informatikai
+alkalmazást,
+bc) kidolgozza a tervkészítéshez és az értékeléshez szükséges módszertani eljárásokat,
+bd) elvégzi a továbbképzési tervek összesítését,
+be) a tervek végrehajtása alapján éves összefoglaló jelentést készít a miniszter részére a tárgyévet követő év
+április 30-áig;
+c) a közszolgálati továbbképzési programok megvalósításával összefüggő feladatai körében:
+ca) az éves továbbképzési tervek alapján kialakítja oktatási programját, meghirdeti és megszervezi
+a továbbképzéseket,
+cb) a továbbképzések megvalósításáról nyilvántartást vezet, statisztikai célú adatszolgáltatást végez a miniszter
+részére,
+cc) éves összefoglaló jelentést készít a miniszter részére a tárgyévet követő év április 30-áig a megvalósított
+közszolgálati továbbképzésekről, valamint az ezek megvalósításához felhasznált pénzügyi forrásokról;
+d) a továbbképzési programok minőségügyi követelményeinek biztosítása érdekében:
+da) fejleszti és működteti a továbbképzés minőségirányítási rendszerét a miniszter által kiadott továbbképzés
+minőségirányítási szabályzata alapján,
+db) a továbbképzési programok minőségének megfelelősége érdekében minőségügyi ellenőrzéseket végez,
+dc) biztosítja a továbbképzésekkel összefüggő képzésmenedzsment feladatokhoz szükséges informatikai
+alkalmazást, valamint fejleszti és működteti az elektronikus képzési programok és vizsgák igénybevételéhez
+szükséges központi oktatásinformatikai rendszert,
+dd) a továbbképzési programok minőségügyi követelményeinek biztosítása érdekében módszertani irányelveket
+határoz meg, előkészíti a továbbképzés minőségirányítási szabályzatát;
+e) tervszerűen és rendszeresen gondoskodik a továbbképzések során közreműködő oktatók és vizsgáztatók
+szakmai, oktatás-módszertani és felnőtt-oktatói továbbképzéséről;
+f) közreműködik a továbbképzési programok minősítésében.”
+5. §
+Az R. 7. §-a helyébe a következő rendelkezés lép:
+„7. § (1) Belső továbbképzési program folytatásának feltétele, hogy azt a KTK egyszerűsített nyilvántartásba vételi
+eljárás keretében felvegye a továbbképzési programjegyzékre.
+(2) A nyilvántartásba vételt a képzést igénylő közigazgatási szerv kezdeményezi. A kérelem elutasításával szemben
+a kezdeményező részéről a 14. § (4) és (5) bekezdésében foglalt panasznak van helye.
+(3) Ha a képzés szolgáltatója felsőoktatási vagy felnőttképzési intézmény, a nyilvántartás a képzés szolgáltatójának
+adatait is tartalmazza.
+(4) A nyilvántartásba vett belső továbbképzési programot más közigazgatási szerv a (2) bekezdésben meghatározott
+nyilvántartásba vételi eljárás nélkül veheti igénybe. A közigazgatási szerv jogosult az általa megvalósított belső
+továbbképzést másik közigazgatási szervnél foglalkoztatott számára belső továbbképzésként nyújtani, feltéve, hogy
+a belső továbbképzési program a kormánytisztviselő, köztisztviselő egyéni továbbképzési tervében szereplő képzési
+igényhez illeszkedik.
+(5) A képzést igénylő közigazgatási szerv kezdeményezheti a belső továbbképzési program e rendelet szerinti
+minősítését (a továbbiakban: minősített belső továbbképzés).”
+6. §
+Az R. 8. §-a helyébe a következő rendelkezés lép:
+„8. § (1) A közigazgatási szerv elkészíti a kormánytisztviselő, köztisztviselő éves egyéni továbbképzési tervét,
+valamint az egyéni tervek összesítésével elkészíti az intézmény éves továbbképzési tervét.
+(2) A közigazgatási szerv gondoskodik a kormánytisztviselő, köztisztviselő munkaköri feladataihoz illeszkedő belső,
+választható továbbképzésekről
+a) saját vagy más közigazgatási szerv, illetve a szervezetrendszert kiszolgáló belső képzőintézmény által
+nyilvántartásba vett, vagy minősített belső továbbképzés lebonyolításával,
+
+b) felsőoktatási vagy felnőttképzési intézmény által biztosított képzési szolgáltatással.
+(3) A közigazgatási szerv a belső továbbképzési programok megvalósításával összefüggő feladatai körében
+a belső továbbképzésekről nyilvántartást vezet, a képzések eredményét rögzíti az NKE által biztosított informatikai
+alkalmazásban.”
+7. § (1) Az R. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A kormánytisztviselő, köztisztviselő továbbképzési kötelezettsége a közszolgálati, valamint belső továbbképzési
+programokkal teljesíthető.”
+(2) Az R. 9. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A továbbképzési kötelezettségek teljesítésébe – legfeljebb az előírt kötelezettség 25%-áig – beszámíthatóak
+a kormánytisztviselő, köztisztviselő által teljesített belső továbbképzési programok.”
+(3) Az R. 9. § (7) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A tanúsítványnak tartalmaznia kell különösen:)
+„a) a kormánytisztviselő, köztisztviselő nevét és születési nevét, születési helyét, idejét és anyja születési nevét,”
+8. §
+Az R. 10. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) A kormánytisztviselő, köztisztviselő a továbbképzési időszak egyes éveiben köteles megszerezni
+a továbbképzési időszakban teljesítendő összes továbbképzési pont legalább 15%-át úgy, hogy a továbbképzési
+időszak harmadik évének végére a továbbképzési időszakban teljesítendő összes továbbképzési pont legalább
+75%-át elérje.”
+9. § (1) Az R. 12. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A közigazgatási szerv közszolgálati továbbképzési vagy közigazgatási szakvizsga igényei az év folyamán
+intézményi szinten legfeljebb 25%-kal haladhatják meg a továbbképzési kötelezettség időarányos teljesítéséhez
+szükséges tanulmányi pontszámot.”
+(2) Az R. 12. § (8) bekezdése helyébe a következő rendelkezés lép:
+„(8) A munkakörhöz kapcsolódó speciális szakmai továbbképzési igényeket a közigazgatási szerv
+a programjegyzékre felvett belső továbbképzésekkel teljesíti.”
+(3) Az R. 12. §-a a következő (9) és (10) bekezdéssel egészül ki:
+„(9) Minősített belső továbbképzés esetén a minősítést kérő közigazgatási szerv, valamint a 7. § (4) bekezdése
+szerinti esetben más közigazgatási szerv is jogosult arra, hogy a képzés megvalósítását követően, költségelszámolás
+alapján az adott képzés lebonyolításának költségeit visszaigényelje az NKE-től a közigazgatási szerv által befizetett
+normatíva 15%-ának erejéig. Az NKE az igénylés benyújtásától számított 60 napon belül köteles a visszaigénylésnek
+eleget tenni.
+(10) A költségek megtérítése kizárólag olyan mértékben igényelhető az NKE-től, amely megfelel a közszolgálati
+programok minősítését, a képzésfejlesztést, a képzések megvalósítását és ellenőrzését szolgáló díjaknak.
+Amennyiben az NKE vitatja a költségek mértékét, egyeztetést folytat az érintett közigazgatási szervvel.”
+10. §
+Az R. 14. §-a helyébe a következő rendelkezés lép:
+„14. § (1) A közszolgálati továbbképzési program, illetve a 7. § (5) bekezdése szerinti belső továbbképzési
+program programminősítési eljárás alapján kerül a programjegyzékben nyilvántartásba vételre – az NKE által –
+a beérkezéstől számított 60 napon belül. E határidő a KTK döntése alapján egy alkalommal, legfeljebb 30 nappal
+meghosszabbítható.
+(2) Az e rendelet szerinti szakértő a KTK-nak javaslatot tesz a program minősítésére és ennek részeként
+a továbbképzési programmal teljesíthető tanulmányi pontértékre vonatkozóan.
+(3) A KTK dönt a program minősítéséről, illetve annak elutasításáról. A minősített program a döntéssel válik
+a továbbképzési programjegyzék részévé.
+(4) Az elutasító döntéssel szemben a kérelmező a 7. § (5) bekezdése szerinti eljárásban a döntés közlésétől számított
+5 munkanapon belül – jogsértésre hivatkozással – panasszal élhet. A panaszt a miniszternek címezve a KTK
+Titkárságához kell benyújtani, amely 15 napon belül javaslatot tesz a miniszternek a döntés megalapozottságáról.
+(5) A panasz megalapozottsága esetén a miniszter a KTK-t a panaszban foglaltaknak megfelelő intézkedésre utasítja.
+A miniszter a panasz megalapozatlansága esetén a panaszt elutasítja, a döntés ellen további jogorvoslatnak nincs
+helye.
+
+(6) A KTK jogosult a továbbképzési program programjegyzékről való törlésére, amennyiben a továbbképzési
+program nem felel meg a minőségirányítási szabályzatban előírt feltételeknek.”
+11. §
+Az R. 15. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+„(4) A továbbképzési program akkor vehető nyilvántartásba, ha
+a) a nyilvántartásba vételt az arra jogosult intézmény kezdeményezi és
+b) a nyilvántartásba vételi kérelem megfelel a minőségirányítási szabályzat vonatkozó rendelkezéseinek.
+(5) Ha a belső továbbképzési program nyilvántartásba vételére irányuló eljárásban a KTK megállapítja, hogy
+a továbbképzési program nem felel meg a (4) bekezdésben foglaltaknak, a nyilvántartásba vételt elutasítja.”
+12. §
+Az R. 17. §-a helyébe a következő rendelkezés lép:
+„17. § (1) A minősített továbbképzések minőségi megfelelőségének biztosítása érdekében minőségirányítási
+rendszert kell működtetni.
+(2) A minősített továbbképzési programok minőségirányítási folyamatairól, így különösen a képzésfejlesztés,
+a képzésmegvalósítás folyamatáról, az ellenőrzés módjáról, az ellenőrzés végzésére jogosult személyekről,
+az ellenőrzési megállapítások következményeiről, a minőség értékelésének módjáról, a panaszkezelési eljárásról és
+az ellenőrzési jelentésről a minőségirányítási szabályzat rendelkezik.
+(3) A közszolgálati továbbképzés minőségirányítási szabályzatát – az NKE és a KTK közreműködésével – a miniszter
+adja ki.”
+13. § (1) Az R. 18. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A továbbképzési tervek tartalmazzák a tanulmányi kötelezettség teljesítésének alapjául szolgáló közszolgálati és
+belső továbbképzési programokat.”
+(2) Az R. 18. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Az éves továbbképzési tervet az NKE által működtetett informatikai rendszer útján módosíthatja a munkáltatói
+jogkör gyakorlója.”
+14. §
+Az R. 19. §-a helyébe a következő rendelkezés lép:
+„19. § (1) Az egyéni továbbképzési tervek elkészítéséről a munkáltatói jogkör gyakorlója gondoskodik az éves
+teljesítményértékelés figyelembevételével, az NKE által biztosított informatikai alkalmazás használatával, tárgyév
+február 1-je és március 15-e között. Az egyéni továbbképzési terv elkészítéséhez szükséges útmutatót az NKE adja ki
+és teszi közzé.
+(2) Az egyéni továbbképzési tervben a közigazgatási szerv köteles szerepeltetni mindazon továbbképzéseket,
+amelyeket
+a) az adott munkakört betöltő kormánytisztviselő, köztisztviselő munkaköréhez és fejlesztéséhez a munkáltató
+szükségesnek ítél,
+b) a Kormány, a miniszter vagy az ágazati miniszter elrendel.”
+15. §
+Az R. 21. §-a helyébe a következő rendelkezés lép:
+„21. § (1) A közigazgatási szerv éves továbbképzési tervét tárgyév március 15-éig megküldi az NKE részére.
+(2) Az NKE tárgyév március 31-éig elvégzi az országos szintű tervösszesítést, amelynek eredményeit megküldi a KTK
+részére, továbbá nyilvánosságra hozza az összesített országos terveket.
+(3) A közigazgatási szervek az éves tervek végrehajtásának eredményeiről, tapasztalatairól, adatairól szóló értékelő
+jelentésüket a tárgyévet követő március 15-éig megküldik az NKE részére. Az értékelő jelentést a közigazgatási
+szervek az NKE által kiadott útmutató alapján állítják össze. Az NKE a beérkezett jelentések alapján a tárgyévet
+követő év április 30-áig a miniszternek jelentést készít.”
+16. §
+Az R. a következő 27. §-sal egészül ki:
+„27. § (1) A 2014. évben teljesített közszolgálati továbbképzés, vezetőképzés és az NKE által nyújtott minősített
+szakmai továbbképzés egységesen közszolgálati továbbképzésnek, a 2014. évben teljesített belső továbbképzés,
+illetve felnőttképző vagy az NKE-n kívüli felsőoktatási intézmény által nyújtott minősített szakmai továbbképzés
+egységesen belső továbbképzésnek tekintendő.
+
+(2) Amennyiben a 2014. évben teljesített belső, illetve minősített szakmai továbbképzések tanulmányi pontértéke
+meghaladja a tanulmányi pontkötelezettség 25%-át, az ezen felüli részt közszolgálati továbbképzésként kell
+figyelembe venni a képzési kötelezettség teljesítésének kiszámításánál.”
+17. §
+Az R.
+a) 4. § (1) bekezdésében a „Közigazgatási Továbbképzési Kollégium (a továbbiakban: KTK)” szövegrész helyébe
+a„KTK”,
+b) 7. §-át megelőző alcímben a„minősített”szövegrész helyébe a„belső”,
+c) 11. § (2) bekezdésében a„szabadságot”szövegrész helyébe a„szabadságot vagy táppénz ellátást”,
+d) 16. § (3) bekezdésében a„felkészítőkön”szövegrészek helyébe a„továbbképzéseken”,
+e) 22. § (2) bekezdésében a „programjait” szövegrész helyébe a „programjait a közszolgálati továbbképzési
+programkínálaton belül”
+szöveg lép.
+18. §
+Hatályát veszti az R.
+a) 5. §-a és az azt megelőző alcím,
+b) 12. § (2) bekezdésében az„a vezetőképzés,”szövegrész,
+c) 13. § (2) bekezdése.
+19. §
+Ez a rendelet 2015. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

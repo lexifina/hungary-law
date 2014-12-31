@@ -1,0 +1,273 @@
+# A Kormány 386/2014. (XII. 31.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 189. szám, 2014. december 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/195cd15c358f94b25e7c9924adb935a6c384a37c/dokumentumok/b36cd5a91cf5009a06391f3ae5ed0876d54e2d56/letoltes)
+
+---
+
+A Kormány 386/2014. (XII. 31.) Korm. rendelete
+a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény végrehajtásáról szóló
+343/2011. (XII. 29.) Korm. rendelet módosításáról
+A Kormány a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 38. § (1) bekezdés a), e) és g) pontjában kapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény végrehajtásáról szóló 343/2011. (XII. 29.)
+Korm. rendelet (a továbbiakban: Korm. rendelet) 2/B. §-a helyébe a következő rendelkezés lép:
+„2/B. § (1) A termékdíj raktár engedélyezése feltételeinek fennállását az állami adó- és vámhatóság előzetesen
+a helyszínen is megvizsgálja.
+(2) A termékdíj raktár engedély iránti kérelem elektronikus úton, az állami adóhatóság által közzétett
+– a (3) bekezdésben meghatározott tartalmú – elektronikus formanyomtatvány alkalmazásával nyújtható be.
+(3) A termékdíj raktár engedély iránti kérelemnek tartalmaznia kell:
+a) a kérelmező nevét, címét, adószámát,
+b) ipari termékdíj raktár esetén a tevékenység megnevezését (feldolgozás, előállítás, újbóli felhasználásra
+előkészítés) és a feldolgozni, előállítani, újbóli felhasználásra előkészíteni kívánt, kereskedelmi termékdíj raktár
+esetén a tárolni kívánt termékdíjköteles termékek termék- és anyagáramának megnevezését,
+c) a nyilvántartási és bizonylati rend bemutatását,
+d) a termékdíj raktár címét, helyrajzi számát, helyszínrajzát,
+e) a kérelmező nyilatkozatát arról, hogy
+ea) a termékdíj raktár működésére szolgáló terület, épület jogszerű használója,
+eb) ipari termékdíj raktár üzemeltetése esetén vállalja az engedély kiadását követő évtől a Ktdt. 9/A. §
+(1) bekezdés e) pontjában meghatározott mérleg-hitelesítési kötelezettséget, és
+f) a termékdíj ügyintéző szakképesítéssel rendelkező foglalkoztatott vagy képviselő nevét, adóazonosító jelét,
+bizonyítványának számát.
+(4) Az állami adó- és vámhatóság a termékdíj raktár engedélyezésére vonatkozó kérelmet 30 napon belül bírálja el.
+(5) A termékdíj raktár engedélyese a tevékenység, a termék- és anyagáram bővítését vagy szűkítését az engedély
+módosítására irányuló kérelem útján, a (2) bekezdésben meghatározott módon kezdeményezheti.
+(6) Az engedély módosítására irányuló (5) bekezdés szerinti kérelmet az állami adó- és vámhatóság 30 napon belül
+bírálja el. Az állami adó- és vámhatóság a kérelem elbírálása során az (1) bekezdésben meghatározott helyszíni
+vizsgálatot végezhet.”
+2. §
+A Korm. rendelet 2/E. §-a helyébe a következő rendelkezés lép:
+„2/E. § (1) A termékdíj raktárban tárolt, feldolgozás, előállítás vagy újbóli felhasználásra előkészítés alatt álló,
+készletezett termékdíjköteles termékeket elektronikus úton kell nyilvántartani. A termékdíj raktár nyilvántartásának
+naprakésznek, eseményszerűnek kell lennie, amelyet az engedélyes a termékdíj raktár helyszínén vezet, vagy
+elektronikus úton történő elérhetőségét a raktár üzemeltetésének teljes időtartama alatt, ellenőrzés céljából
+folyamatosan biztosítja.
+(2) A termékdíj raktár nyilvántartásának adattartalmát, továbbá a termékdíj raktár üzemeltetésének rendjét,
+a termékdíj raktárban végezhető szokásos kezelések megnevezését a 7. melléklet tartalmazza. A termékdíj raktár
+nyilvántartásának a termékdíj raktár engedélyese felelőssége körébe tartozó aktuális raktárkészletet kell mutatnia.
+(3) A termékdíj raktár nyilvántartásának vezetését azzal a programmal kell végezni, amelyet a termékdíj raktár
+engedélyese az engedélyezési eljárás során az adóhatóságnak bemutatott.
+(4) A nyilvántartó programnak a következő követelményeknek kell megfelelnie:
+a) felhasználókat és azok jogosultságát, továbbá az ezekben bekövetkezett változásokat nyilvántartsa (naplózza);
+b) a felhasználó által végzett munkafolyamatokat (tevékenységeket/műveleteket) bármely időszakra vonatkozóan
+rögzítse (naplózza);
+c) a program biztosítsa a nyilvántartás hatályos jogszabályi rendelkezéseknek megfelelő adattartalommal való
+vezetését;
+d) a nyilvántartás adatainak utólagos módosítását a program naplózza;
+e) a program mentett adatainak visszatöltése bármikor ellenőrizhető legyen az alábbi adattartalommal:
+ea) a visszatöltés időpontja,
+eb) a visszatöltés indoka,
+
+ec) a visszatöltést végző felhasználó neve, jogosultsága,
+ed) a visszatöltött adatok archiválásának időpontja;
+f) a program tegye lehetővé, hogy a felsorolt paraméterek bármikor lekérdezhetőek és kinyomtathatóak legyenek.
+(5) A termékdíj raktárba a tárgyhónap alatt betárolt és kitárolt termékdíjköteles termékekről, továbbá
+a raktárkészletről a 7. mellékletben meghatározott adattartalommal elektronikus úton adatot kell szolgáltatni
+az állami adó- és vámhatóság részére, a tárgynegyedévet követő hónap 20. napjáig.
+(6) A termékdíjköteles termékek tulajdonjog változás nélküli termékdíj raktárak között történő mozgatása esetén
+a kitárolás és a betárolás – e rendeletben meghatározott – szabályait kell alkalmazni (áttárolás).”
+3. §
+A Korm. rendelet 9. § (5) bekezdés e) pontja helyébe a következő rendelkezés lép:
+(Az átvállaló az átvállalt kötelezettség teljesítését)
+„e) a Ktdt. 14. § (5) bekezdés e) pontja esetén a csomagolószer csomagolás részeként történő forgalomba hozatalát
+vagy felhasználását igazoló bizonylattal, vagy”
+(igazolja.)
+4. § (1) A Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
+(2) A Korm. rendelet 4. melléklete a 2. melléklet szerint módosul.
+(3) A Korm. rendelet 7. melléklete a 3. melléklet szerint módosul.
+5. §
+A Korm. rendelet
+a) 2/C. § (3) bekezdésében a „végezhető tevékenység” szövegrész helyébe a „végezni kívánt, technológiailag
+indokolt tevékenység (tevékenységek)”,
+b) 9. § (5) bekezdés f) pontjában a „csomagolóeszköz mennyiségét” szövegrész helyébe a „csomagolóanyag,
+csomagolóeszköz, illetve csomagolási segédanyag mennyiségét”
+szöveg lép.
+6. §
+Ez a rendelet 2015. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 386/2014. (XII. 31.) Korm. rendelethez
+1. A Korm. rendelet 1. melléklet A) cím Csomagolószer Katalógus II. Csomagolószer Katalógus kódjai alcím CsK kód
+1. karaktere: csomagolóeszközként, csomagolóanyagként, csomagolási segédanyagként is felhasználható terméket
+jelölő kódok táblázata helyébe a következő rendelkezés lép:
+(CsK kód 1. karaktere: csomagolóeszközként, csomagolóanyagként, csomagolási segédanyagként is felhasználható
+terméket jelölő kódok)
+„
+Kód (1.) Megnevezés
+E Csomagolóeszköz vagy csomagolóeszközként is felhasználható termék
+B Az eladótérben megtöltésre tervezett, megtöltésre szánt, felhasználásra kerülő (eladótéri)
+műanyag zsák, zacskó
+K Kereskedelmi csomagolószer
+M Műanyag bevásárló reklámtáska
+A Csomagolóanyag vagy csomagolóanyagként is felhasználható termék
+S Csomagolási segédanyag vagy csomagolási segédanyagként is felhasználható termék
+”
+
+2. A Korm. rendelet 1. melléklet A) cím Csomagolószer Katalógus II. Csomagolószer Katalógus kódjai alcím CsK kód
+4–5. karaktere: pénzügyi státuszkód, amely a csomagolószerek esetében a kötelezettség keletkezését vagy annak
+hiányát jelöli című táblázata a következő sorokkal egészül ki:
+(CsK kód 4–5. karaktere: pénzügyi státuszkód, amely a csomagolószerek esetében a kötelezettség keletkezését vagy annak
+hiányát jelöli)
+(Belföldi előállítású csomagolószer)
+„
+1E a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés e) pontja szerint adott
+nyilatkozata alapján
+1F a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés f) pontja szerint adott
+nyilatkozata alapján
+”
+(Külföldről behozott csomagolószer)
+„
+3E a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés e) pontja szerint adott
+nyilatkozata alapján
+3F a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés f) pontja szerint adott
+nyilatkozata alapján
+”
+3. A Korm. rendelet 1. melléklet A) cím Csomagolószer Katalógus II. Csomagolószer Katalógus kódjai alcím CsK kód
+4–5. karaktere: pénzügyi státuszkód, amely a csomagolószerek esetében a kötelezettség keletkezését vagy annak
+hiányát jelöli című táblázata 1R kódja helyébe a következő rendelkezés lép:
+(CsK kód 4–5. karaktere: pénzügyi státuszkód, amely a csomagolószerek esetében a kötelezettség keletkezését vagy annak
+hiányát jelöli)
+(Belföldi előállítású csomagolószer)
+„
+1R a termékdíj nem kerül megfizetésre a termékdíj raktárba beszállító vevő nyilatkozata alapján
+”
+4. A Korm. rendelet 1. melléklet A) cím Csomagolószer Katalógus II. Csomagolószer Katalógus kódjai alcím CsK kód
+4–5. karaktere: pénzügyi státuszkód, amely a csomagolószerek esetében a kötelezettség keletkezését vagy annak
+hiányát jelöli című táblázata 3R kódja helyébe a következő rendelkezés lép:
+(CsK kód 4–5. karaktere: pénzügyi státuszkód, amely a csomagolószerek esetében a kötelezettség keletkezését vagy annak
+hiányát jelöli)
+(Külföldről behozott csomagolószer)
+„
+3R a termékdíj nem kerül megfizetésre a termékdíj raktárba beszállító vevő nyilatkozata alapján
+”
+5. A Korm. rendelet 1. melléklet A) cím Csomagolószer Katalógus II. Csomagolószer Katalógus kódjai alcím CsK kód
+4–5. karaktere: pénzügyi státuszkód, amely a csomagolószerek esetében a kötelezettség keletkezését vagy annak
+hiányát jelöli című táblázata 5R kódja helyébe a következő rendelkezés lép:
+(CsK kód 4–5. karaktere: pénzügyi státuszkód, amely a csomagolószerek esetében a kötelezettség keletkezését vagy annak
+hiányát jelöli)
+(Külföldről behozott csomagolás részét képező csomagolószer)
+„
+5R a termékdíj nem kerül megfizetésre a termékdíj raktárba beszállító vevő nyilatkozata alapján
+„
+6. A Korm. rendelet 1. melléklet B) cím Környezetvédelmi Termékdíj Kódok (KT kódok) 1. pont 1.6. alpontja helyébe
+a következő rendelkezés lép:
+„1.6. Egyéb műanyagtermékek környezetvédelmi termékdíj kódjai
+Termék megnevezése KT kód
+Műanyag művirág, levél- és gyümölcsutánzat és ezek részei; ezekből készült áru 301
+”
+
+7. A Korm. rendelet 1. melléklet B) cím Környezetvédelmi Termékdíj Kódok (KT kódok) 1. pont 1.7. alpontja helyébe
+a következő rendelkezés lép:
+„1.7. Egyéb vegyipari termékek környezetvédelmi termékdíj kódjai
+Termék megnevezése KT kód
+Szappanok, szerves felületaktív anyagok, mosószerek 701
+Szépség- vagy testápoló készítmények 702
+”
+8. A Korm. rendelet 1. melléklet B) cím Környezetvédelmi Termékdíj Kódok (KT kódok) 1. pontja a következő
+1.8. alponttal egészül ki:
+„1.8. Irodai papírok környezetvédelmi termékdíj kódjai
+Termék megnevezése KT kód
+Irodai papír 801
+”
+9. A Korm. rendelet 1. melléklet B) cím Környezetvédelmi Termékdíj Kódok (KT kódok) 1. pontja a következő
+1.9. alponttal egészül ki:
+„1.9. A termékdíj visszaigénylés esetén alkalmazható környezetvédelmi termékdíj kódok
+A 2010. és a 2011. évben alkalmazott kereskedelmi csomagolás környezetvédelmi termékdíj kódjai
+Csomagolás típusa KT kód
+Műanyag [kivéve műanyag (bevásárló-reklám) táska] 4MA
+Műanyag (bevásárló-reklám) táska 4MT
+Üveg 4ÜV
+Társított csomagolás
+Rétegzett italcsomagolás 4RI
+Egyéb 4TE
+Fém (kivéve alumínium) 4FM
+Alumínium 4LU
+Egyéb anyagok 4EG
+Gyűjtő kód újrahasználható csomagolás levonásához 4ÚL
+Gyűjtő kód nem újrahasználható csomagolás a környezetvédelmi termékdíjról,
+továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi
+LVI. törvény 5/E. § (1) bekezdés szerinti levonásához
+4OC
+”
+2. melléklet a 386/2014. (XII. 31.) Korm. rendelethez
+A Korm. rendelet 4. melléklet VIII. pont 3. alpontja a következő g)–h) alpontokkal egészül ki:
+(3. Az átadott mennyiség jogcímek szerint:)
+„g) a Ktdt. 3. § (6) bekezdés e) pontja alapján átadott mennyiség,
+h) a Ktdt. 3. § (6) bekezdés f) pontja alapján átadott mennyiség.”
+
+3. melléklet a 386/2014. (XII. 31.) Korm. rendelethez
+1. A Korm. rendelet 7. melléklet 1. pont 1.3. alpontja helyébe a következő rendelkezés lép:
+(1. A termékdíj raktár nyilvántartásának adattartalma
+A termékdíj raktár nyilvántartásának legalább az alábbi adatokat kell tartalmaznia:
+A termékdíjköteles termék:)
+„1.3. kiszállításának adatai:”
+2. A Korm. rendelet 7. melléklet 1. pont 1.3.1. alpontja helyébe a következő rendelkezés lép:
+(1. A termékdíj raktár nyilvántartásának adattartalma
+A termékdíj raktár nyilvántartásának legalább az alábbi adatokat kell tartalmaznia:
+A termékdíjköteles termék:)
+„1.3.1. kiszállítás napja;”
+3. A Korm. rendelet 7. melléklet 1. pontja a következő 1.4. alponttal egészül ki:
+(1. A termékdíj raktár nyilvántartásának adattartalma
+A termékdíj raktár nyilvántartásának legalább az alábbi adatokat kell tartalmaznia:
+A termékdíjköteles termék:)
+„1.4. ideiglenes kiadásának adatai:
+1.4.1. ideiglenes kiadás napja;
+1.4.2. ideiglenes kiadás oka;
+1.4.3. a termék
+1.4.3.1. megnevezése,
+1.4.3.2. vámtarifaszáma,
+1.4.3.3. CsK vagy KT kódja,
+1.4.3.4. mennyisége (db), egységnyi tömege (kg/db), tömege (kg).”
+4. A Korm. rendelet 7. melléklet 2. pontja a következő 2.3. alponttal egészül ki:
+(2. A termékdíj raktári beszállítás és kiszállítás rendje)
+„2.3. Egyik termékdíj raktárból egy másik termékdíj raktárba történő áttárolás abban az esetben végezhető, ha
+az áttárolás során a tulajdonjogban változás nem következik be.”
+5. A Korm. rendelet 7. melléklet 4. pont 4.3.5. alpontja helyébe a következő rendelkezés lép:
+(4. A termékdíj raktárba történő be- és kiszállításról, továbbá a raktárkészletről szóló adatszolgáltatás adattartalma)
+„4.3.5. a kiszállítás oka jogcíme:
+B01 belföldi forgalomba hozatal termékdíj megfizetésével
+B10 belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés a) pontja
+szerint adott nyilatkozata alapján
+B11 belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés b) pontja
+szerint adott nyilatkozata alapján
+B12 belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés c) pontja
+szerint adott nyilatkozata alapján
+B13 belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés d) pontja
+szerint adott nyilatkozata alapján
+B14 belföldi forgalomba hozatal, a termékdíjat az egyéb kőolajtermék alapanyagként történő felhasználása
+esetén nem kell megfizetni
+B15 belföldi forgalomba hozatal, a termékdíjat az egyéb kőolajtermék R9 eljárással történő előállítása
+esetén nem kell megfizetni
+B16 belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés e) pontja
+szerint adott nyilatkozata alapján
+B17 belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés f) pontja
+szerint adott nyilatkozata alapján
+B20 belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés a) pontja alapján
+szerződéssel átvállalásra került
+
+B21 belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés b) pontja alapján
+szerződéssel átvállalásra került
+B22 belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés c) pontja alapján
+szerződéssel átvállalásra került
+B23 belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés d) pontja alapján
+szerződéssel átvállalásra került
+B24 belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés e) pontja alapján
+szerződéssel átvállalásra került
+B25 belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés f) pontja alapján
+szerződéssel átvállalásra került
+B26 belföldi forgalomba hozatal, a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés g) pontja alapján
+szerződéssel átvállalásra került
+B30 belföldi forgalomba hozatal, a termékdíj korábban, a beszállítás előtt már megfizetésre került
+I00 ideiglenes kiadás
+K00 külföldre történő kiszállítás
+S01 saját célú felhasználás
+T00 áttárolás másik termékdíj raktárba a tulajdonjog megváltozása nélkül
+U10 újrahasználható csomagolószer bérbe adása a Ktdt. 3/A. § szerinti engedélyezett bérleti rendszer
+keretében
+”
+6. A Korm. rendelet 7. melléklet
+a) 1. pont 1.2.4. alpontjában a „feldolgozáshoz közvetlen anyagként” szövegrész helyébe a „feldolgozáshoz,
+újbóli felhasználásra előkészítéshez közvetlen anyagként”,
+b) 1.3.2. alpontjában az„a kiszállítás, ideiglenes kiadás oka”szövegrész helyébe az„a kiszállítás oka”,
+c) 3.8. alpontjában a„csomagolás, kicsomagolás,”szövegrész helyébe a„csomagolás létrehozása, kicsomagolás,”
+szöveg lép.
