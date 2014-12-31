@@ -28,15 +28,14 @@ b) 2014. év második projektterv időszakára vonatkozóan 2014. március 31.
 
 (9)[^9] A projektterv teljesítési időszakok:
 
-a)[^10] az első projekttervre vonatkozóan 2014. március 1. és 2014. október 31. között,
+a) az első projekttervre vonatkozóan 2014. március 1. és 2015. január 31. között,
 
-b) a második projekttervre vonatkozóan 2014. július 1. és 2014. december 31. között.
+b) a második projekttervre vonatkozóan 2014. július 1. és 2015. január 31. között.
 
-(10)[^11] A Bemutató Üzem az adott teljesítési időszakban – az eredetileg megjelölt témakörtől való eltérés nélkül – módosíthatja a projekttervét a programok témáját illetően a még meg nem valósított programokra vonatkozóan. A módosítási kérelmet írásban, a módosítás szükségességét megfelelő indokolással alátámasztva, postai úton kell megküldeni a NAKVI részére, amely jóváhagyása esetén a jóváhagyást követő két napon belül továbbítja azt az MVH részére.
+(10)[^10] A Bemutató Üzem az adott teljesítési időszakban – az eredetileg megjelölt témakörtől való eltérés nélkül – módosíthatja a projekttervét a programok témája, illetve időpontja tekintetében a még meg nem valósított programokra vonatkozóan. A módosítási kérelmet írásban, a módosítás szükségességét megfelelő indokolással alátámasztva, postai úton kell megküldeni a NAKVI részére, amely jóváhagyása esetén a jóváhagyást követő két napon belül továbbítja azt az MVH részére.
 
 [^6]: A 4. § (4) bekezdése az 53/2014. (IV. 29.) VM rendelet 17. § (2) bekezdésével megállapított szöveg.
 [^7]: A 4. § (6) bekezdése az 53/2014. (IV. 29.) VM rendelet 17. § (3) bekezdésével megállapított szöveg.
 [^8]: A 4. § (8) bekezdése az 53/2014. (IV. 29.) VM rendelet 17. § (4) bekezdésével megállapított szöveg.
-[^9]: A 4. § (9) bekezdését az 53/2014. (IV. 29.) VM rendelet 17. § (5) bekezdése iktatta be.
-[^10]: A 4. § (9) bekezdés a) pontja az 1/2014. (IX. 15.) MvM rendelet 32. § (2) bekezdésével megállapított szöveg.
-[^11]: A 4. § (10) bekezdését az 1/2014. (IX. 15.) MvM rendelet 32. § (3) bekezdése iktatta be.
+[^9]: A 4. § (9) bekezdését az 53/2014. (IV. 29.) VM rendelet 17. § (5) bekezdése iktatta be, szövege a 12/2014. (XII. 30.) MvM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^10]: A 4. § (10) bekezdését az 1/2014. (IX. 15.) MvM rendelet 32. § (3) bekezdése iktatta be, szövege a 12/2014. (XII. 30.) MvM rendelet 17. § (1) bekezdésével megállapított szöveg.
