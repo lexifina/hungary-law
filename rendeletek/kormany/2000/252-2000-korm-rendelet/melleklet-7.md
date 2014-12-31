@@ -436,7 +436,7 @@
 
 ## 4649. Egyéb befizetési kötelezettség
 
-## 465.[^68] Nemzeti Adó- és Vámhivatallal, mint vámhatósággal szembeni kötelezettség
+## 465.[^71] Nemzeti Adó- és Vámhivatallal, mint vámhatósággal szembeni kötelezettség
 
 ## 466. Levonható előzetesen felszámított általános forgalmi adó
 
@@ -644,7 +644,7 @@
 
 ## 552. Kiegészítő vállalkozási tevékenységgel kapcsolatos egyéb kiadások
 
-## 553.[^69] Fedezeti alapot terhelő jogosulatlan kifizetések
+## 553.[^72] Fedezeti alapot terhelő jogosulatlan kifizetések
 
 ## 56. PÉNZÜGYI MŰVELETEK RÁFORDÍTÁSAI
 
@@ -884,8 +884,8 @@
 
 ## 09. ÉVES PÉNZÜGYI TERV BEVÉTELEI NYILVÁNTARTÁSI SZÁMLA
 
-7. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^70]
+7. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^73]
 
-[^68]: A 6. számú melléklet 465. pontja a 273/2010. (XII. 9.) Korm. rendelet 93. §-ával megállapított szöveg. E módosító rendelet 64. § (4) bekezdése alapján rendelkezéseit első ízben a 2011. évi üzleti évről készített éves pénztári beszámolóra kell alkalmazni.
-[^69]: A 6. számú melléklet 5. Számlaosztály részének 55. számlacsoport 553. főkönyvi számláját a 285/2005. (XII. 20.) Korm. rendelet 31. §-a iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^70]: A 7. számú mellékletet a 358/2006. (XII. 27.) Korm. rendelet 52. § (2) bekezdése hatályon kívül helyezte.
+[^71]: A 6. számú melléklet 465. pontja a 273/2010. (XII. 9.) Korm. rendelet 93. §-ával megállapított szöveg. E módosító rendelet 64. § (4) bekezdése alapján rendelkezéseit első ízben a 2011. évi üzleti évről készített éves pénztári beszámolóra kell alkalmazni.
+[^72]: A 6. számú melléklet 5. Számlaosztály részének 55. számlacsoport 553. főkönyvi számláját a 285/2005. (XII. 20.) Korm. rendelet 31. §-a iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^73]: A 7. számú mellékletet a 358/2006. (XII. 27.) Korm. rendelet 52. § (2) bekezdése hatályon kívül helyezte.

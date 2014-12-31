@@ -6,7 +6,7 @@
 
 (3) A pénztár a (2) bekezdés szerinti minősítését saját hatáskörben dönti el, pénztári tevékenységének és szolgáltatásainak figyelembevételével.
 
-(4)[^13] A pénztárnak a mérlegében szereplő összes eszközt – az aktív és passzív pénzügyi elszámolások kivételével – e rendeletben, valamint az Ögr.-ben foglaltakra figyelemmel a következő fő csoportokba kell besorolni, és az analitikus nyilvántartásban kimutatni:
+(4)[^16] A pénztárnak a mérlegében szereplő összes eszközt – az aktív és passzív pénzügyi elszámolások kivételével – e rendeletben, valamint az Ögr.-ben foglaltakra figyelemmel a következő fő csoportokba kell besorolni, és az analitikus nyilvántartásban kimutatni:
 
 a) működési alap eszközei;
 
@@ -14,4 +14,4 @@ b) fedezeti alap eszközei;
 
 c) likviditási alap eszközei.
 
-[^13]: A 13. § (4) bekezdése a 358/2006. (XII. 27.) Korm. rendelet 52. § (3) bekezdése szerint módosított szöveg.
+[^16]: A 13. § (4) bekezdése a 358/2006. (XII. 27.) Korm. rendelet 52. § (3) bekezdése szerint módosított szöveg.
