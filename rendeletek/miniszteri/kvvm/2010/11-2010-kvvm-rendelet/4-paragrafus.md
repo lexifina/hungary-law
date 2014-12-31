@@ -1,1 +1,0 @@
-## 3. § Ha vízjogi engedélyezési kötelezettség alá nem tartozó létesítményt a mértékadó árvízszintek figyelmen kívül hagyásával valósítottak meg, és az az árvízvédelmi biztonságot csökkenti, a vízügyi igazgatási szerv intézkedések megtételét kezdeményezi a hatáskörrel és illetékességgel rendelkező hatóságnál.
