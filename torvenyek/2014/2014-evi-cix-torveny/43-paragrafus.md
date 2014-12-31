@@ -1,1 +1,0 @@
-43. § A Mavtv. 10. § (3) bekezdésében a „kiállításától számított” szövegrész helyébe a „nemzetbiztonsági ellenőrzésről készült kockázatmentes biztonsági szakvélemény kiállításától számított” szöveg lép.
