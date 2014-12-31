@@ -8,7 +8,7 @@
 
 3. részes fél: a Keretegyezmény I. mellékletében felsorolt azon részes állam, amely a Jegyzőkönyvet megerősítette;
 
-4. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluorozott szénhidrogének (HFC-k), a perfluorkarbonok (PFC-k), a kén-hexafluorid (SF6), és a nitrogén-trifluorid (NF3);
+4. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluortartalmú üvegházhatású gázok, a perfluorkarbonok (PFC-k), a kén-hexafluorid (SF6) és a nitrogén-trifluorid (NF3);
 
 5. széndioxid-egyenérték: egy tonna szén-dioxid vagy azzal megegyező globális éghajlat-módosító potenciálnak (GWP) megfelelő mennyiségű üvegházhatású gáz;
 
@@ -44,4 +44,6 @@
 
 21. más EGT-államban feljogosított hitelesítő: az együttes végrehajtásban résztvevő, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területén az együttes végrehajtással kapcsolatos hitelesítői tevékenység végzésére az adott EGT-állam által feljogosított független hitelesítő;
 
-22. kibocsátási jogosultság: a kiotói egység, valamint az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti ÜHG-egység és ESD-egység.
+22. kibocsátási jogosultság: a kiotói egység, valamint az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti ÜHG-egység és ESD-egység;
+
+23. klímavédelmi bírság: a fluortartalmú üvegházhatású gázokkal kapcsolatos jogszabály, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa vagy hatósági határozat előírásainak megsértése esetére az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság a fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek végzése, valamint az ilyen fajta gázokkal működtetett berendezések és létesítmények üzemeltetése kapcsán.

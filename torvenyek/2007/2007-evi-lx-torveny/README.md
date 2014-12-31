@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-60-00-00
 | 2013-06-30 | 2013. évi CI. törvény | 2007-60-00-00.8 |
 | 2013-12-26 | 2013. évi CCXXVIII. törvény | 2007-60-00-00.9 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 2007-60-00-00.10 |
+| 2014-12-31 | 2014. évi LXXXIX. törvény | 2007-60-00-00.11 |

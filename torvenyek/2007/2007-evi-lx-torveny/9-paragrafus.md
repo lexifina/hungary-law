@@ -12,6 +12,6 @@
 
 (6) A kibocsátható mennyiséget, illetve a kibocsátható mennyiségi egységeknek a Jegyzőkönyvnek és az azt követő döntéseknek megfelelően megállapított számát, megállapításukat követően a miniszter közleményben teszi közzé.
 
-(7) A kibocsátható mennyiségi egységek kincstári vagyonkörbe való kerülésének tényéről, illetve azok teljes mennyiségéről a forgalmi jegyzékben való bejegyzésüket követő 21 napon belül a miniszter tájékoztatja az államháztartásért felelős minisztert és a kincstári vagyon kezeléséért felelős szervet.
+(7) A kibocsátható mennyiségi egységek kincstári vagyonkörbe való kerülésének tényéről és azok teljes mennyiségéről a forgalmi jegyzékbe való bejegyzésüket követő 21 napon belül az államháztartásért felelős miniszter tájékoztatja a minisztert és a kincstári vagyon kezeléséért felelős szervet.
 
-(8) A kibocsátható mennyiségi egységek kincstári vagyonkörből történő kikerüléséről, illetve törléséről a miniszter évente tájékoztatja az államháztartásért felelős minisztert és a kincstári vagyon kezeléséért felelős szervet.
+(8) A kibocsátható mennyiségi egységek kincstári vagyonkörből történő kikerüléséről és törléséről az államháztartásért felelős miniszter évente tájékoztatja a minisztert és a kincstári vagyon kezeléséért felelős szervet.
