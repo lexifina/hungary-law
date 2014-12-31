@@ -30,10 +30,6 @@ Határidő: a költségek felmerülésével összhangban
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. A Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéséről szóló 1982/2013. (XII. 29.) Korm. határozat
+3.[^1]
 
-3.1. 2. pont c) alpontjában a „pályázat útján elnyert pénzeszközök” szövegrész helyébe a „ , valamint az Első Világháborús Centenáriumi Bizottság által támogatott és a Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Közalapítványtól pályázat útján elnyert pénzeszközök” szöveg,
-
-3.2. 3. pontjában a „Miniszterelnökséget vezető államtitkár” szövegrészek helyébe a „Miniszterelnökséget vezető miniszter” szöveg
-
-lép.
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
