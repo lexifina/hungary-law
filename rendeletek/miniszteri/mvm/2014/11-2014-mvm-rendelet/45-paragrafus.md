@@ -1,0 +1,1 @@
+## „(6) A támogatásból beszerzett tárgyi eszköz rendeltetésében az amortizációs időszak végéig változás nem történhet, használatából bármely szervezetnek az uniós állami támogatási szabályokkal összeegyeztethetetlen gazdasági előnye nem származhat.”

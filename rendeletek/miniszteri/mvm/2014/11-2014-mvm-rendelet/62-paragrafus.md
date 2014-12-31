@@ -1,0 +1,1 @@
+## 7. A Társadalmi Megújulás Operatív Program prioritásaira rendelt források felhasználásának részletes szabályairól és egyes támogatási jogcímeiről szóló 32/2012. (VI. 8.) NFM rendelet módosításáról szóló 5/2014. (X. 31.) MvM rendelet egyes rendelkezéseinek hatályba nem lépéséről
