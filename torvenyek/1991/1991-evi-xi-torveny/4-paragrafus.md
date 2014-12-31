@@ -14,7 +14,15 @@ e) az oktató, nevelő és gondozó intézmények és tevékenységek közegész
 
 (3) Az egészségügyi államigazgatási szerv kémiai biztonsággal összefüggő tevékenysége körében ellátja a veszélyes anyagokkal és készítményekkel kapcsolatos külön jogszabály által előírt eljárás szerinti engedélyezési és ellenőrzési feladatokat, a veszélyes anyagok, veszélyes készítmények egészségügyi toxikológiai nyilvántartását és tájékoztató szolgálat működtetését.
 
-(4)
+(4) Az egészségügyi államigazgatási szerv munkaegészségügyi tevékenysége körében
+
+a) kimunkálja az egészséget nem veszélyeztető munkavégzés (munkakörülmények) személyi és tárgyi feltételeit, a munkavégzésből származó megterhelések, munkakörnyezeti kóroki tényezők megengedhető mértékeit (a továbbiakban: munkahigiénés határértékek), továbbá a foglalkozással összefüggő megbetegedések, mérgezések, fokozott expozíciók megelőzésére vonatkozó előírásokat (a továbbiakban: munkaegészségügyi előírások);
+
+b) szakhatóságként, illetve szakértőként közreműködik a munkaegészségügyi előírások ellenőrzésében és érvényesítésében, a munkahigiénés határértékek vizsgálatának elrendelésében, továbbá vizsgálja a munkahigiénés határértékek betartását;
+
+c) kivizsgálja a foglalkozással összefüggő megbetegedéseket, mérgezéseket, fokozott expozíciós eseteket;
+
+d) együttműködik a foglalkozás-egészségügyi szolgálattal az egészséges munkakörnyezet kialakításával, egészségkárosodások megelőzésével kapcsolatos feladatokban.
 
 (5) Az élelmezés- és táplálkozásegészségügy keretében az egészségügyi államigazgatási szerv
 
