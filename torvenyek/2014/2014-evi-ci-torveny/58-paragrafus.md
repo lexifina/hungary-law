@@ -1,3 +1,0 @@
-58. § Az Stv. Hatályba léptető és átmeneti rendelkezések alcíme a következő 78/B. §-sal egészül ki:
-
-„78/B. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény, a sportról szóló 2004. évi I. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2014. évi CI. törvénnyel megállapított 23. § (6) bekezdése szerinti rendelkezések versenyszabályzatban rögzítésére az országos sportági szakszövetség és az országos sportági szövetség a rendelkezés hatálybalépésétől számított 45 napon belül köteles.”

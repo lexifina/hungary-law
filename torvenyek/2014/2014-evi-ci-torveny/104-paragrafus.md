@@ -25,11 +25,3 @@ alapján sarkalatosnak minősül.
 (2) E törvény 103. § (3) bekezdése az (1) bekezdés a)–j) pontjaiban foglaltak alapján sarkalatosnak minősül.
 
 (3) E törvény 95. §-a és 103. § (4) bekezdése az Alaptörvény 5. cikk (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

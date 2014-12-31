@@ -1,1 +1,0 @@
-94. § A Kttv. 6. § 4. pontjában a „jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony” szövegrész helyébe a „jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony” szöveg lép.

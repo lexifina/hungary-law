@@ -1,3 +1,0 @@
-11. § Az Szt. 94/D. §-a helyébe a következő rendelkezés lép:
-
-„94/D. § Ha az egyházi fenntartó vagy a nem állami fenntartó a helyi önkormányzattal, társulással vagy állami szervvel ellátási szerződést kötött, és az ellátási szerződés hatálya alá tartozó esetben a szociális szolgáltatásra irányuló kérelmet elutasítja, az ellátást igénylőt és törvényes képviselőjét írásban köteles erről értesíteni. Ebben az esetben az ellátást igénylő és törvényes képviselője a döntés ellen a közléstől számított nyolc napon belül az ellátási szerződést megkötő helyi önkormányzathoz, társuláshoz vagy állami szervhez fordulhat. A helyi önkormányzat, a társulás vagy állami szerv dönt az ellátás iránti kérelemről. A döntés felülvizsgálata bíróságtól kérhető.”
