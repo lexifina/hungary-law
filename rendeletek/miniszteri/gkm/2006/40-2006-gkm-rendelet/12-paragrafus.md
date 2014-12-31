@@ -16,17 +16,19 @@ c) a Vtv.-vel, továbbá annak 88. § (1) bekezdés g) pontja, valamint 88. § (
 
 (3)[^30] Ez a rendelet a 2004/49/EK európai parlamenti és tanácsi irányelvnek a közös biztonsági mutatók és a balesetek költségeinek számítására szolgáló közös módszerek tekintetében történő módosításáról szóló, 2009. november 27-i 2009/149/EK bizottsági irányelvnek való megfelelést szolgálja.
 
-(4)[^31] Ez a rendelet
+(3a)[^31] Ez a rendelet a 2004/49/EK európai parlamenti és tanácsi irányelvnek a közös biztonsági mutatók és a balesetek költségeinek számítására szolgáló közös módszerek tekintetében történő módosításáról szóló, 2014. július 9-i 2014/88/EU bizottsági irányelvnek való megfelelést szolgálja.
+
+(4)[^32] Ez a rendelet
 
 a) a vasútbiztonsági tanúsítvány megszerzéséhez szükséges követelményeknek való megfelelés értékelésére szolgáló közös biztonsági módszerről szóló, 2010. december 9-i 1158/2010/EU európai bizottsági rendelet,
 
 b) a vasútbiztonsági engedély megszerzéséhez szükséges követelményeknek való megfelelés teljesítésének értékelésére szolgáló közös biztonsági módszerről szóló, 2010. december 10-i 1169/2010/EU európai bizottsági rendelet,
 
-c)[^32] a hagyományos transzeurópai vasúti rendszer energiaellátás alrendszerének átjárhatósági műszaki előírásairól szóló, 2011. április 26-i 2011/274/EU bizottsági határozat,
+c)[^33] a hagyományos transzeurópai vasúti rendszer energiaellátás alrendszerének átjárhatósági műszaki előírásairól szóló, 2011. április 26-i 2011/274/EU bizottsági határozat,
 
-d)[^33] a hagyományos transzeurópai vasúti rendszer „infrastruktúra” alrendszerének átjárhatósági műszaki előírásairól szóló, 2011. április 26-i 2011/275/EU bizottsági határozat,
+d)[^34] a hagyományos transzeurópai vasúti rendszer „infrastruktúra” alrendszerének átjárhatósági műszaki előírásairól szóló, 2011. április 26-i 2011/275/EU bizottsági határozat,
 
-e)[^34] a hagyományos transzeurópai vasúti rendszer „mozdonyok és személyszállító járművek” jármű- alrendszerére vonatkozó átjárhatósági műszaki előírásokról szóló,
+e)[^35] a hagyományos transzeurópai vasúti rendszer „mozdonyok és személyszállító járművek” jármű- alrendszerére vonatkozó átjárhatósági műszaki előírásokról szóló,
 
 2011. április 26-i 2011/291/EU bizottsági határozat
 
@@ -36,7 +38,8 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 [^28]: A 12. § a 104/2007. (XII. 22.) GKM rendelet 4. §-ával megállapított szöveg.
 [^29]: A 12. § (2) bekezdése a 20/2011. (V. 10.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^30]: A 12. § (3) bekezdését a 23/2010. (XII. 20.) NFM rendelet 3. §-a iktatta be.
-[^31]: A 12. § (4) bekezdését a 20/2011. (V. 10.) NFM rendelet 5. § (2) bekezdése iktatta be.
-[^32]: A 12. § (4) bekezdés c) pontját a 71/2012. (XII. 20.) NFM rendelet 2. §-a iktatta be.
-[^33]: A 12. § (4) bekezdés d) pontját a 71/2012. (XII. 20.) NFM rendelet 2. §-a iktatta be.
-[^34]: A 12. § (4) bekezdés e) pontját a 71/2012. (XII. 20.) NFM rendelet 2. §-a iktatta be.
+[^31]: A 12. § (3a) bekezdését az 55/2014. (XII. 23.) NFM rendelet 1. §-a iktatta be.
+[^32]: A 12. § (4) bekezdését a 20/2011. (V. 10.) NFM rendelet 5. § (2) bekezdése iktatta be.
+[^33]: A 12. § (4) bekezdés c) pontját a 71/2012. (XII. 20.) NFM rendelet 2. §-a iktatta be.
+[^34]: A 12. § (4) bekezdés d) pontját a 71/2012. (XII. 20.) NFM rendelet 2. §-a iktatta be.
+[^35]: A 12. § (4) bekezdés e) pontját a 71/2012. (XII. 20.) NFM rendelet 2. §-a iktatta be.

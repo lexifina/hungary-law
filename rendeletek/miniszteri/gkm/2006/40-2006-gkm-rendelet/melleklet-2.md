@@ -24,17 +24,17 @@
 
 ## g) eljárások és alakiságok kidolgozása a vasútbiztonsági információk dokumentálására, valamint eljárások a döntő fontosságú vasútbiztonsági információk összeállítására;
 
-## h)[^35] az illetékes hatóságokkal egyeztetett módon a balesetek és a váratlan vasúti események haladéktalan bejelentésére, valamint vizsgálatának végrehajtására létrehozott, folyamatos ügyeletet és készenlétet ellátó biztonsági szervezet, továbbá a balesetek és váratlan vasúti események kivizsgálása és elemezése alapján a szükséges megelőző intézkedések meghozatalát biztosító rendszer kialakítása;
+## h)[^36] az illetékes hatóságokkal egyeztetett módon a balesetek és a váratlan vasúti események haladéktalan bejelentésére, valamint vizsgálatának végrehajtására létrehozott, folyamatos ügyeletet és készenlétet ellátó biztonsági szervezet, továbbá a balesetek és váratlan vasúti események kivizsgálása és elemezése alapján a szükséges megelőző intézkedések meghozatalát biztosító rendszer kialakítása;
 
 ## i) a balesetek és váratlan vasúti események következményeinek elhárításához szükséges riasztási, bevetési és mindezzel összefüggő tájékoztatási intézkedések rendszere;
 
 ## j) a biztonságirányítási rendszer belső ellenőrzési rendszere;
 
-## k)[^36] az országos működési engedéllyel rendelkező vasúti társaság esetében a vasúti járművezetői tanúsítvány kiadása és megújítása során követendő eljárás, valamint a tanúsítvány megszerzéséhez szükséges alapvizsga, és megújításához az időszakos vizsgák gyakoriságának meghatározása, továbbá a tanúsítvány kiállítására, megújítására, felfüggesztésére vagy visszavonására vonatkozó munkáltatói döntés felülvizsgálatára irányuló, a vasúti járművezető kérelmére indítható eljárás ismertetése; valamint
+## k)[^37] az országos működési engedéllyel rendelkező vasúti társaság esetében a vasúti járművezetői tanúsítvány kiadása és megújítása során követendő eljárás, valamint a tanúsítvány megszerzéséhez szükséges alapvizsga, és megújításához az időszakos vizsgák gyakoriságának meghatározása, továbbá a tanúsítvány kiállítására, megújítására, felfüggesztésére vagy visszavonására vonatkozó munkáltatói döntés felülvizsgálatára irányuló, a vasúti járművezető kérelmére indítható eljárás ismertetése; valamint
 
-## l)[^37] a vasúti járművezetők ellenőrzésére hivatott rendszer, vagy a vasúti járművezetőnek a munkakör betöltésére vonatkozó feltételeknek való meg nem felelésére utaló körülmény felmerülése esetén megteendő intézkedések meghatározása.
+## l)[^38] a vasúti járművezetők ellenőrzésére hivatott rendszer, vagy a vasúti járművezetőnek a munkakör betöltésére vonatkozó feltételeknek való meg nem felelésére utaló körülmény felmerülése esetén megteendő intézkedések meghatározása.
 
-2. melléklet a 40/2006. (VI. 26.) GKM rendelethez[^38]
+2. melléklet a 40/2006. (VI. 26.) GKM rendelethez[^39]
 
 Közös biztonsági mutatók
 
@@ -42,327 +42,337 @@ Az 1. pontban említett balesetekre vonatkozó mutatószámokra a vasúti közle
 
 Amennyiben az Ügynökséghez történt benyújtást követően a biztonsági jelentésben leírtaktól eltérő új tények merülnek fel, a vasúti közlekedési hatóság a lehető legrövidebb időn belül, de legkésőbb a következő éves beszámolóban köteles a helyesbítő vagy módosító adatokat megküldeni az Ügynökségnek.
 
-1. A balesetekre vonatkozó mutatók
+1. Balesetekre vonatkozó mutatók
 
-1.1. Az összes baleset száma és annak a vonatkilométerre vonatkoztatott átlaga és lebontása a következő balesettípusokra:
+1.1. A jelentős balesetek abszolút és relatív (vonatkilométerre vonatkoztatott) száma, a következő balesettípusok szerinti bontásban is:
 
-1.1.1. vonatok összeütközése, beleértve az űrszelvényen belüli akadályokkal való ütközést is;
+– a) vonat ütközése vasúti járművel,
 
-1.1.2. vonatok kisiklása;
+– b) vonat ütközése űrszelvényen belüli akadállyal,
 
-1.1.3. balesetek a vasúti átjárókban, beleértve a gyalogosokat érintő baleseteket is;
+– c) vonatkisiklás,
 
-1.1.4. mozgó vasúti járművek által okozott személyi sérülések, kivéve az öngyilkosságot;
+– d) vasúti átjáróban bekövetkezett baleset, a gyalogosokat érintő baleseteket is beleértve, a vasúti átjárók 6.2. pontban meghatározott öt típusa szerinti további bontásban is,
 
-1.1.5. vasúti járművekben keletkezett tűzesetek;
+– e) mozgó vasúti járműhöz köthető, személyeket érintő baleset, kivéve az öngyilkosságot és az öngyilkossági kísérletet,
 
-1.1.6. egyéb.
+– f) vasúti járműben keletkezett tűz,
 
-Minden balesetet az eredeti baleset típusa szerint kell számításba venni, még akkor is, ha a másodlagos baleset következményei súlyosabbak (pl. kisiklást követő tűzeset).
+– g) egyéb.
 
-1.2. A következő kategóriákba sorolható baleseti típusoknál a súlyosan sérült személyek és a halálos áldozatok száma, továbbá ezek vonatkilométerre vonatkoztatott száma:
+Minden jelentős balesetről az eredeti baleset típusa szerint kell beszámolni, akkor is, ha a másodlagos baleset következményei súlyosabbak (például egy vonatkisiklást követő tűz esetében).
 
-1.2.1. utasbaleset (az összes utaskilométerre és a személyszállító vonatok összes vonatkilométerére vonatkoztatva is);
+1.2. A súlyos sérülést szenvedett személyek és a halálos áldozatok abszolút és relatív (vonatkilométerre vonatkoztatott) száma a baleset típusa és a következő kategóriák szerinti bontásban:
 
-1.2.2. vasúti munkavállalókat ért baleset, beleértve a szerződéses felek személyi állományát is;
+– a) utas (az összes utaskilométerre és a személyszállító vonatok összes vonatkilométerére vonatkoztatva is),
 
-1.2.3. vasúti átjárókat használókat ért balesetek;
+– b) alkalmazott vagy vállalkozó,
 
-1.2.4. a vasúti létesítményekben illetéktelenül tartózkodó személyeket ért balesetek;
+– c) vasúti átjárók igénybe vevője,
 
-1.2.5. egyéb balesetek.
+– d) illetéktelen személy,
+
+– e) a peronon tartózkodó egyéb személy,
+
+– f) nem a peronon tartózkodó egyéb személy.
 
 2. Veszélyes árukra vonatkozó mutatók
 
-A veszélyesáru-szállítás körében bekövetkezett balesetek abszolút és relatív (vonatkilométerre vonatkoztatott) száma a következő kategóriák szerinti bontásban:
+A vasúti veszélyesáru-szállításhoz kapcsolódó balesetek abszolút és relatív (vonatkilométerre vonatkoztatott) száma a következő kategóriák szerinti bontásban:
 
-2.1. legalább egy olyan vonatot érintő baleset, amely veszélyes árut szállított, a 9. pont szerinti fogalom-meghatározások szerint,
+– a) legalább egy olyan vonatot érintő baleset, amely veszélyes árut szállított, a függelék fogalom-meghatározása szerint,
 
-2.2. azon balesetek száma, amelyek következtében veszélyes áruk a környezetbe jutottak.
+– b) azon balesetek száma, amelyek következtében veszélyes áruk a környezetbe jutottak.
 
 3. Öngyilkosságokra vonatkozó mutatók
 
-Az öngyilkosságok abszolút és vonatkilométerre vonatkoztatott száma.
+Az öngyilkosságok és az öngyilkossági kísérletek abszolút és relatív (vonatkilométerre vonatkoztatott) száma.
 
-4. A váratlan vasúti eseményekre vonatkozó mutatók
+4. Baleset előidézésére alkalmas körülményekre vonatkozó mutatók
 
-Itt kell figyelembe venni a súlyos vasúti baleseten és a vasúti baleseten kívül minden olyan eseményt, amely a vonatok üzemeltetését és az üzemeltetés biztonságát károsan érinti.
+Baleset előidézésére alkalmas körülmények abszolút és relatív (vonatkilométerre vonatkoztatott) száma, a következő, baleset előidézésére alkalmas körülmények szerinti bontásban is:
 
-4.1. Síntörések, vágánykivetődések és jelző- és biztosítóberendezések biztonságot veszélyeztető hibáinak száma, valamint ezek vonatkilométerre vonatkoztatott átlaga.
+– a) síntörés,
 
-4.2. Jelzőmeghaladások száma és ezek vonatkilométerre vonatkoztatott átlaga.
+– b) vágánykivetődés és egyéb sínillesztési hiba,
 
-4.3. Közlekedő járműveknél a kerék- és tengelytörések összes és a vonatkilométerekhez viszonyított száma.
+– c) a biztonságot veszélyeztető jelzési hibák,
 
-5. A balesetek következményeire vonatkozó mutatók
+– d) a „Megállj” állású jelző meghaladása a jelző melletti tényleges elhaladással,
 
-5.1. A balesetek euróban megadott teljes és vonatkilométerre vonatkoztatott átlagos költsége. A következő költségeket kell kiszámítani és megadni:
+– e) a „Megállj” állású jelző meghaladása a jelző melletti tényleges elhaladás nélkül,
 
-5.1.1. halálesetek és sérülések költségei;
+– f) üzemben lévő jármű keréktörése,
 
-– az utasok, a vasúti munkavállalók vagy harmadik felek javaiban bekövetkezett veszteségek és károk megtérítésének költségei; beleértve a környezetet ért károk költségeit is;
+– g) üzemben lévő jármű tengelytörése.
 
-5.1.2. a megsérült járművek és vasúti berendezések cseréjének vagy javításának költségei;
+Minden olyan körülményről be kell számolni, amely balesetet idézhetett volna elő, függetlenül attól, hogy okozott-e balesetet vagy sem. (Azt a körülményt, amely jelentős balesethez vezetett, a körülményekre vonatkozó mutatókkal kapcsolatban is jelenteni kell; azon körülményt, amely nem vezetett jelentős balesethez, nem kell jelenteni a körülményekre vonatkozó mutatókkal kapcsolatban).
 
-5.1.3. késések, forgalmi zavarok és a forgalom elterelése által okozott költségek, beleértve a személyzeti többletköltségeket és a jövőbeli bevételkiesést is.
+5. Mutatók a balesetek gazdasági hatásainak számításához
 
-5.2. Ezekből a költségekből le kell vonni a harmadik felek, mint például a vasúti átjárókban bekövetkezett balesetekben érintett gépjármű-tulajdonosok által megtérített vagy várhatóan megtérítendő kártalanítást vagy kompenzációt. A vasúti társaságok biztosítása által fedezett kártalanítást nem kell levonni.
+A következő paraméterek abszolút és relatív (vonatkilométerre vonatkoztatott) összege euróban:
 
-5.3. A baleset következtében a vasutas munkavállalókat vagy a szerződéses viszonyban álló vállalkozókat érintő kiesett munkaórák száma és a vonatkilométerre vonatkoztatott átlaga.
+– a) a halálesetek és a súlyos sérülések száma, megszorozva a balesetmegelőzési értékkel,
 
-6. Az infrastruktúra műszaki biztonságára és annak megvalósítására vonatkozó mutatók
+– b) a környezetkárosítás költsége,
 
-6.1. Az önműködő vonatbiztosítással felszerelt, üzemben levő vágányok százalékos aránya, valamint a vonatkilométerek százalékos aránya az önműködő vonatbiztosítással ellátott vágányokon.
+– c) a vasúti jármű és az infrastruktúra fizikai károsodásának költsége,
 
-6.2. A vasúti átjárók száma összesen és egy vonalkilométerre, valamint vágánykilométerre viszonyítva az alábbi típusok szerinti bontásban:
+– d) a baleset miatti késések költsége.
 
-6.2.1. biztosított vasúti átjáró:
+A biztonsági hatóság beszámol a jelentős balesetek gazdasági hatásáról.
 
-6.2.1.1. automatikus működésű (vonat által vezérelt, vagy jelzővel függésben működő) figyelmeztető jelzéssel (fénysorompóval);
+A balesetmegelőzési érték a személyi sérüléssel járó baleset megelőzéséhez a társadalom által társított értéket jelenti, ennélfogva a balesetben részes személyek kártérítési kötelezettségének megállapítására nem használható fel.
 
-6.2.1.2. automatikus működésű, közúti védelemmel;
+6. Az infrastruktúra műszaki biztonságára és az ennek érdekében hozott intézkedésekre vonatkozó mutatók
 
-6.2.1.3. automatikus működésű figyelmeztető jelzéssel (fénysorompóval) és védelemmel (sorompóval, vagy félsorompóval);
+6.1. Vonatbiztosítási rendszerrel üzemelő vágányok százalékos aránya, valamint fedélzeti vonatbiztosítási rendszer mellett megtett vonatkilométerek százalékos aránya, ahol e rendszerek a következőket biztosítják:
 
-6.2.1.4. automatikus működésű figyelmeztető jelzéssel (fénysorompóval) és közúti védelemmel (sorompóval, vagy félsorompóval), továbbá vasútoldali védelemmel;
+– a) figyelmeztető jelzés,
 
-6.2.1.5. kézi működtetésű, vagy felhívásos figyelmeztető jelzéssel (fénysorompóval);
+– b) figyelmeztető jelzés és automatikus megállítás,
 
-6.2.1.6. kézi működtetésű, védelemmel (teljes sorompó, kapuval elzárt útátjáró közúti fényjelzés, csengetőmű nélkül);
+– c) figyelmeztető jelzés és automatikus megállítás, valamint diszkrét sebességfelügyelet,
 
-6.2.1.7. kézi működtetésű, figyelmeztető jelzéssel és védelemmel (teljes sorompó közúti fényjelzéssel, vagy előcsengetővel);
+– d) figyelmeztető jelzés és automatikus megállítás, valamint folyamatos sebességfelügyelet.
 
-6.2.2. biztosítás nélküli vasúti átjáró.
+6.2. Vasúti átjárók abszolút és relatív (vonalkilométerre és vágánykilométerre vonatkoztatott) száma a következő öt típus szerinti bontásban:
 
-7. A biztonságirányításra vonatkozó mutatók
+a) biztosítás nélküli vasúti átjáró,
 
-A vasúti társaságok által végzett, a biztonságirányítási rendszer dokumentációjában meghatározott belső ellenőrzések. Az elvégzett ellenőrzések összes és az előírt (és/vagy tervezett) ellenőrzések százalékában kifejezett száma.
+b) biztosított vasúti átjáró:
 
-8. Az ebben a mellékletben szereplő adatok esetében a 4. § (3) bekezdésben leírt éves összefoglaló dokumentum mellékletében a közlekedési hatóság köteles minden alkalmazott meghatározáshoz és számítási módszerhez magyarázatot fűzni.
+ba) manuális;
 
-9. Fogalommeghatározások
+bb) automatikus, igénybevevő-oldali figyelmeztető jelzéssel;
 
-Fogalommeghatározások e rendelet alkalmazásában a közös biztonsági mutatók és a balesetek gazdasági hatásainak számítására szolgáló módszerek értelmezéséhez.
+bc) automatikus, igénybevevő-oldali védelemmel;
 
-9.1. Balesetekre vonatkozó mutatók
+bd) vasútoldali védelemmel.
 
-9.1.1. „Jelentős baleset”: minden olyan baleset, amely legalább egy mozgásban lévő vasúti járművet érint, és legalább egy személy halálát vagy súlyos sérülését idézi elő, vagy jelentős kárt okoz a járműállományban, a pályában, egyéb berendezésekben vagy a környezetben, vagy jelentős forgalmi zavart okoz. Nem tartoznak ide a műhelyekben, a raktárakban és a járműtelephelyeken bekövetkező balesetek.
+Függelék
 
-9.1.2. „Jelentős kár a járműállományban, a vasúti pályában, egyéb berendezésekben vagy a környezetben”: legalább 150.000 EUR értékű kár.
+Fogalom-meghatározások a közös biztonsági mutatók és a balesetek gazdasági hatásainak számítására szolgáló módszerek értelmezéséhez
 
-9.1.3. „Jelentős forgalmi zavar”: olyan forgalmi zavar, amelynek következtében valamely vasúti fővonalon a vonatforgalom legalább hat órán át szünetel.
+1. Balesetekre vonatkozó mutatók
 
-9.1.4. „Vonat”: egy vagy több mozdony vagy vasúti motorkocsi által vontatott egy vagy több olyan vasúti jármű, továbbá önállóan közlekedő olyan vasúti motorkocsi, amely egy meghatározott szám vagy egyedi elnevezés alatt egy meghatározott kiindulási ponttól egy meghatározott rendeltetési pontig közlekedik.
+1.1. Jelentős baleset: minden olyan baleset, amely legalább egy mozgásban lévő vasúti járművet érint, és legalább egy személy halálát vagy súlyos sérülését idézi elő, vagy jelentős kárt okoz a járműállományban, a pályában, egyéb berendezésekben vagy a környezetben, vagy jelentős forgalmi zavart okoz, kivéve a műhelyekben, a raktárakban és a járműtelephelyeken bekövetkező baleseteket;
 
-Vonatnak minősül a gépmenet, vagyis az önmagában közlekedő mozdony is.
+1.2. jelentős kár a járműállományban, a pályában, egyéb berendezésekben vagy a környezetben: a 150 000 EUR összeget elérő vagy meghaladó mértékű kár;
 
-9.1.5. „Vonatok ütközése, az űrszelvényen belüli akadályokkal való ütközést is beleértve”: vonat valamely része és másik vonat valamely része vagy a következő objektumok közötti frontális ütközés, ráfutásos ütközés vagy oldalütközés:
+1.3. jelentős forgalmi zavar: olyan forgalmi zavar, amelynek következtében valamely vasúti fővonalon a vonatforgalom legalább hat órán át szünetel;
 
-9.1.5.1. tolatásban részt vevő vasúti jármű;
+1.4. vonat: egy vagy több mozdony vagy vasúti motorkocsi által vontatott egy vagy több olyan vasúti jármű, továbbá önállóan közlekedő olyan vasúti motorkocsi, amely egy meghatározott szám vagy egyedi elnevezés alatt egy meghatározott kiindulási ponttól egy meghatározott rendeltetési pontig közlekedik, ideértve az üres mozdonymenetet, vagyis az önmagában közlekedő mozdonyt is;
 
-9.1.5.2. a vasúti pályán vagy annak közelében lévő, oda rögzített vagy ott ideiglenesen jelen lévő tárgy (a vasúti átjáróban az átkelő jármű vagy az átjáró igénybe vevője által elhagyott tárgy kivételével).
+1.5. vonat ütközése vasúti járművel: vonat valamely részének frontális ütközése, ráfutásos ütközése vagy oldalütközése másik vonat vagy vasúti jármű valamely részével vagy tolatásban részt vevő vasúti járművel;
 
-9.1.6. „Vonatkisiklás”: minden olyan esemény, amelynek során a vonat legalább egy kereke a vasúti sínt elhagyja.
+1.6. vonat ütközése űrszelvényen belüli akadállyal: vonat valamely részének ütközése a vasúti pályán vagy annak közelében lévő, oda rögzített vagy ott ideiglenesen jelen lévő tárggyal (a vasúti átjáróban az átkelő jármű vagy az átjáró igénybe vevője által elhagyott tárgy kivételével), ideértve a felsővezetékkel való ütközést is;
 
-9.1.7. „Vasúti átjáróban bekövetkezett baleset”: szintbeli vasúti átjáróban bekövetkező olyan baleset, amelyben legalább egy vasúti jármű, valamint egy vagy több átkelő jármű, az átjáró más igénybe vevője (például gyalogos), vagy átkelő jármű vagy az átjáró valamely igénybe vevője által a vasúti pályán vagy annak közelében elhagyott, ideiglenesen ott lévő más tárgy vesz részt.
+1.7. vonatkisiklás: minden olyan esemény, amelynek során a vonatnak legalább egy kereke a vasúti sínt elhagyja;
 
-9.1.8. „Mozgó vasúti jármű által okozott, személyeket érintő baleset”: egy vagy több személyt érintő olyan baleset, amelynek során az adott személyt vagy személyeket a vasúti jármű elüti, vagy a vasúti járműhez rögzített vagy arról leváló valamely tárgy megüti. Ide tartozik a vasúti járműről leeső személy, valamint a vasúti járművön utazó olyan személy is, aki a jármű belsejében elesik vagy akit szabaddá váló tárgy megüt.
+1.8. vasúti átjáróban bekövetkezett baleset: szintbeni vasúti átjáróban bekövetkező olyan baleset, amelynek résztvevője legalább egy vasúti jármű, valamint egy vagy több áthaladó jármű, az átjáró más igénybe vevője (például gyalogos), vagy áthaladó jármű vagy az átjáró valamely igénybe vevője által a vasúti pályán vagy annak közelében elhagyott, ideiglenesen ott lévő más tárgy;
 
-9.1.9. „Vasúti járműben keletkezett tűzeset”: a vasúti járműben (beleértve rakományát is) a kiindulási állomás és a rendeltetési állomás közötti közlekedése közben (beleértve a kiindulási állomáson, a közbenső állomásokon és megállóhelyeken, valamint a rendeltetési állomáson való tartózkodását is) vagy vonatrendezés közben bekövetkező tűzeset vagy robbanás.
+1.9. mozgó vasúti járműhöz köthető, személyeket érintő baleset: egy vagy több személyt érintő olyan baleset, amelynek során az adott személyt vagy személyeket a vasúti jármű elüti, vagy a vasúti járműhöz rögzített vagy arról leváló valamely tárgy megüti; ide tartozik a vasúti járműről leeső személy, valamint a vasúti járművön utazó olyan személy is, aki a jármű belsejében elesik vagy egy nem rögzített tárgy eltalál;
 
-9.1.10. „Egyéb baleset”: az említetteken (vonatok ütközése, vonatkisiklás, vasúti átjáróban bekövetkezett baleset, mozgó vasúti jármű által okozott, személyeket érintő baleset, vasúti járműben keletkezett tűzeset) kívül valamennyi típusú baleset.
+1.10. vasúti járműben keletkezett tűz: a vasúti járműben (beleértve rakományát is) a kiindulási állomás és a rendeltetési állomás közötti közlekedése közben (beleértve a kiindulási állomáson, a közbenső állomásokon és megállóhelyeken, valamint a rendeltetési állomáson való tartózkodását is) vagy vonatrendezés közben bekövetkező tűz vagy robbanás;
 
-9.1.11. „Utas”: olyan személy, aki vasúton utazik, a vonatszemélyzet tagját nem beleértve. A balesetekre vonatkozó statisztikai kimutatásokban a mozgó vonatra való felszállást vagy a mozgó vonatról való leszállást megkísérlő utast is számításba kell venni.
+1.11. egyéb baleset: valamennyi baleset, kivéve a következőket: vonat ütközése vasúti járművel, vonat ütközése űrszelvényen belüli akadállyal, vonatkisiklás, vasúti átjáróban bekövetkezett baleset, mozgó vasúti járműhöz köthető, személyeket érintő baleset és vasúti járműben keletkezett tűz;
 
-9.1.12. „Alkalmazott (a vállalkozó személyzetét és az önálló vállalkozót is beleértve)”: olyan személy, akinek foglalkoztatása a vasúttal kapcsolatos, és a baleset időpontjában munkáját végzi. A fogalom magában foglalja a vonatszemélyzet tagját, valamint a vasúti járművek és a vasúti infrastruktúra kezelését végző személyt is.
+1.12. utas: vasúton utazó, nem a vonat személyzetéhez tartozó személy; a baleseti statisztikák vonatkozásában a mozgó vonatra való felszállást vagy a mozgó vonatról való leszállást megkísérlő utas is;
 
-9.1.13. „Vasúti átjáró igénybe vevője”: olyan személy, aki vasútvonalon való átkelés céljából bármilyen közlekedési eszközön vagy gyalogosan szintbeli vasúti átjárót vesz igénybe.
+1.13. alkalmazott vagy vállalkozó: minden olyan személy, akinek foglalkoztatása a vasúttal kapcsolatos, és a baleset időpontjában a munkáját végzi, ideértve a vállalkozó által foglalkoztatott személyzetet, az önálló vállalkozókat, a vonatszemélyzet tagjait, valamint a vasúti járművek és a vasúti infrastruktúra kezelését végző személyeket is;
 
-9.1.14. „Vasúti létesítményen illetéktelenül tartózkodó személy”: olyan személy, aki olyan vasúti létesítményen tartózkodik, ahol tilos volna tartózkodnia, kivéve a vasúti átjáró igénybe vevőjét.
+1.14. vasúti átjáró igénybe vevője: minden olyan személy, aki vasútvonalon való átkelés céljából bármilyen közlekedési eszközön vagy gyalogosan szintbeni vasúti átjárót vesz igénybe;
 
-9.1.15. „Mások (harmadik személyek)”: minden olyan személy, aki a fenti fogalommeghatározások értelmében nem „utas”, nem „alkalmazott, a vállalkozó személyzetét is beleértve”, nem „vasúti átjáró igénybe vevője” és nem „vasúti létesítményen illetéktelenül tartózkodó személy”.
+1.15. illetéktelen személy: minden olyan személy, aki olyan vasúti létesítményen tartózkodik, ahol tilos volna tartózkodnia, kivéve a vasúti átjáró igénybe vevőjét;
 
-9.1.16. „Halálos áldozat (haláleset)”: olyan személy, aki a baleset következtében a helyszínen vagy a balesetet követően 30 napon belül elhunyt, kivéve az öngyilkosságot elkövető személyt.
+1.16. a peronon tartózkodó egyéb személy: a vasúti peronon lévő minden olyan személy, aki nem az utas, az alkalmazott vagy vállalkozó, a vasúti átjáró igénybe vevője, az illetéktelen személy vagy a nem a peronon tartózkodó egyéb személy meghatározások alá tartozik;
 
-9.1.17. „Súlyos sérülést szenvedett személy (súlyos sérülés)”: olyan sérült, aki baleset következtében 24 óránál hosszabb ideig kórházi kezelésre szorult, kivéve az öngyilkossági kísérletet elkövető személyt.
+1.17. nem a peronon tartózkodó egyéb személy: minden olyan, nem a vasúti peronon lévő személy, aki nem az »utas«, az »alkalmazott vagy vállalkozó«, a »vasúti átjáró igénybe vevője«, »a peronon tartózkodó egyéb személy« vagy az »illetéktelen személy« meghatározások alá tartozik;
 
-9.2. Veszélyes árukra vonatkozó mutatók
+1.18. halálos áldozat (haláleset): minden olyan személy, aki a baleset következtében a helyszínen vagy a balesetet követő 30 napon belül elhunyt, kivéve az öngyilkosságot elkövető személyt;
 
-9.2.1. „A veszélyesáru-szállítás körében bekövetkezett baleset”: olyan baleset vagy váratlan esemény, amely a RID [1]/ADR 1.8.5. szakasza értelmében bejelentési kötelezettség alá esik.
+1.19. súlyos sérülést szenvedett személy (súlyos sérülés): olyan sérült, aki baleset következtében 24 óránál hosszabb ideig kórházi kezelésre szorult, kivéve az öngyilkossági kísérletet elkövető személyt.
 
-9.2.2. „Veszélyes áru”: olyan anyag vagy tárgy, amelynek fuvarozása a RID értelmében tilos vagy csak az ott előírt feltételekkel engedélyezett.
+2. Veszélyes árukra vonatkozó mutatók
 
-9.3. Öngyilkosságokra vonatkozó mutatók
+2.1. Veszélyesáru-szállításhoz kapcsolódó baleset: olyan baleset vagy váratlan esemény, amely a RID/ADR 1.8.5. szakasza értelmében bejelentési kötelezettség alá esik;
 
-9.3.1. „Öngyilkosság”: az illetékes nemzeti hatóság regisztrációja és minősítése alapján halállal végződő olyan cselekmény, amelynek során a személy önszántából saját magán testi sérülést idéz elő.
+2.2. veszélyes áru: olyan anyag vagy tárgy, amelynek fuvarozása a RID értelmében tilos vagy csak az abban előírt feltételekkel engedélyezett.
 
-9.4. Baleset előidézésére alkalmas körülményekre vonatkozó mutatók
+3. Öngyilkosságokra vonatkozó mutatók
 
-9.4.1. „Síntörés”: az a jelenség, amelynek során egy sín két vagy több darabra válik szét vagy egy sínről fémdarab válik le oly módon, hogy a sínben hosszirányban 50 mm-nél, a futófelületre merőleges értelemben 10 mm-nél nagyobb folytonossági hiány keletkezik.
+3.1. Öngyilkosság: az illetékes nemzeti hatóság regisztrációja és minősítése alapján halállal végződő olyan cselekmény, amelynek során a személy önszántából saját magán testi sérülést idéz elő;
 
-9.4.2. „Vágánykivetődés”: a vágány folytonosságával vagy geometriájával összefüggő olyan meghibásodás, amely a biztonság meghatározott szintjének fenntartása érdekében vágányzár alkalmazását vagy sebességkorlátozás azonnali bevezetését teszi szükségessé.
+3.2. öngyilkossági kísérlet: súlyos sérüléssel végződő olyan cselekmény, amelynek során a személy önszántából saját magán testi sérülést idéz elő.
 
-9.4.3. „Biztonságot veszélyeztető jelzési hiba”: jelzőrendszer olyan meghibásodása, amelynek következtében a kiadott jelzés (akár az infrastruktúra, akár a vasúti jármű felé) a szükségesnél enyhébb mértékű korlátozásra utasít.
+4. Baleset előidézésére alkalmas körülményekre vonatkozó mutatók
 
-9.4.4 „Jelzőmeghaladás”: olyan alkalom, amikor a vonat bármely része a számára engedélyezetten túli mozgást végez.
+4.1. Síntörés: az a jelenség, amelynek során egy sín két vagy több darabra válik szét, vagy egy sínről fémdarab válik le oly módon, hogy a sínben hosszirányban 50 mm-nél, a futófelületre merőleges értelemben 10 mm-nél nagyobb folytonossági hiány keletkezik;
 
-9.4.5 „Engedélyezetten túli mozgás”: a következő objektumok melletti elhaladás:
+4.2. vágánykivetődés vagy egyéb sínillesztési hiba: a vágány folytonosságával vagy geometriájával összefüggő olyan meghibásodás, amely vágányzár alkalmazását vagy sebességkorlátozás azonnali bevezetését teszi szükségessé;
 
-9.4.5.1. a pálya menti színes fényjelző vagy alakjelző, ha veszélyt jelez vagy megállj jelzést ad, és automatikus vonatbefolyásoló rendszer (ATCS-rendszer) vagy ATP-rendszer nem üzemel,
+4.3. biztonságot veszélyeztető jelzési hiba: jelzőrendszer olyan műszaki meghibásodása, amelynek következtében a kiadott jelzés (akár az infrastruktúra, akár a vasúti jármű felé) a szükségesnél enyhébb mértékű korlátozásra utasít;
 
-9.4.5.2. az ATCS- vagy az ATP-rendszer által a biztonsággal összefüggésben adott menetengedély végpontja,
+4.4. a „Megállj” állású jelző meghaladása a jelző melletti tényleges elhaladással: minden olyan alkalom, amikor a vonat bármely része a számára engedélyezetten túli mozgást végez és a „Megállj” állású jelzőt meghaladja;
 
-9.4.5.3. a szabályzat értelmében szóbeli vagy írásbeli engedélyben megjelölt pont,
+4.5. a „Megállj” állású jelző meghaladása a jelző melletti tényleges elhaladás nélkül: minden olyan alkalom, amikor a vonat bármely része a számára engedélyezetten túli mozgást végez anélkül, hogy meghaladná a „Megállj” állású jelzőt.
 
-9.4.5.4. a „megállás helye” jelző (az ütközőbakot nem beleértve) és a kézi jelzés.
+A 4.4. és 4.5. pontban leírt engedélyezetten túli mozgás a következő objektumok melletti elhaladást jelenti:
 
-9.4.5.5. Nem tartozik ide az az eset, amikor vontatójármű nélküli vasúti jármű vagy felügyelet nélkül hagyott vonat fut túl tilos jelzést. Nem tartozik ide az az eset sem, amikor a jelzőt bármely okból nem állítják kellő időben tilosra ahhoz, hogy a vonat a jelző előtt megállítható legyen.
+– a) a pálya menti színes fényjelző vagy alakjelző, ha veszélyt jelez vagy „Megállj” jelzést ad, és a vonatbiztosítási rendszer nem üzemel,
 
-9.4.5.6. A nemzeti biztonsági hatóság a négy mutatóról külön-külön is beszámolhat, de minden esetben be kell számolnia legalább a négy mutató mindegyikét tartalmazó összesített mutatóról.
+– b) a vonatbiztosítási rendszer által a biztonsággal összefüggésben adott menetengedély végpontja,
 
-9.4.6. „Kerék- vagy tengelytörés”: kerék vagy tengely alapvető alkotóelemében bekövetkező olyan törés, amely baleset (kisiklás vagy ütközés) kockázatát hordozza magában.
+– c) az előírásoknak megfelelő, szóbeli vagy írásbeli engedélyezéssel megjelölt pont,
 
-9.5. Közös módszertan a balesetek gazdasági hatásainak számításához
+– d) a „megállás helye” jelző (az ütközőbakot nem beleértve) és a kézi jelzés.
 
-9.5.1. A balesetmegelőzési értéket a következő összetevők alkotják:
+Nem tartozik ide az az eset, amikor vontatójármű nélküli vasúti jármű vagy felügyelet nélkül hagyott vonat fut túl tilos jelzést. Nem tartozik ide az az eset sem, amikor a jelzőt bármely okból nem állítják kellő időben tilosra ahhoz, hogy a vonat a jelző előtt megállítható legyen.
 
-9.5.1.1. a biztonság önmagában vett értéke: az alkalmazás szerinti országban elvégzett kikérdezéses (közvetlen) preferenciamérésekből a fizetési hajlandóságra vonatkozóan származtatott értékek;
+A biztonsági hatóságok az engedélyezetten túli mozgás felsorolt négy mutatójáról külön-külön is beszámolhatnak, de minden esetben be kell számolniuk legalább a négy kategóriára vonatkozó adatokat tartalmazó összesített mutatóról.
 
-9.5.1.2. a közvetlen és a közvetett gazdasági költség, vagyis az adott tagállamban becsült olyan költségértékek, amelyek magukban foglalják:
+4.6. Üzemben lévő jármű keréktörése: a kerékben bekövetkezett olyan törés, amely baleset (kisiklás vagy ütközés) kockázatát hordozza magában.
 
-9.5.1.2.1. az orvosi és a rehabilitációs költségeket,
+4.7. Üzemben lévő jármű tengelytörése: a tengelyben bekövetkezett olyan törés, amely baleset (kisiklás vagy ütközés) kockázatát hordozza magában.
 
-9.5.1.2.2. a bírósági eljárás költségeit, a rendőrség, a baleset kivizsgálásában részt vevő magánszervezetek és a mentőszolgálat költségeit, valamint a biztosítási ügyintézési költségeket,
+5. Közös módszertan a balesetek gazdasági hatásainak számításához
 
-9.5.1.2.3. a termeléskiesést, vagyis azon áruk és szolgáltatások társadalmi értékét, amelyeket az adott személy előállíthatott volna, ha a baleset nem következett volna be.
+5.1. A balesetmegelőzési értéket a következő összetevők alkotják:
 
-9.5.2. A biztonság önmagában vett értéke és a közvetlen és a közvetett gazdasági költségek felvételének közös elvei.
+1. a biztonság önmagában vett értéke: az alkalmazás szerinti országban elvégzett kikérdezéses (közvetlen) preferenciamérésekből a fizetési hajlandóságra vonatkozóan származtatott értékek;
 
-9.5.2.1. A biztonság önmagában vett értéke vonatkozásában azt, hogy a rendelkezésre álló becslések megfelelőek-e, a következő megfontolások alapján kell megítélni:
+2. a közvetlen és a közvetett gazdasági költség, vagyis az adott tagállamban becsült olyan költségértékek, amelyek magukban foglalják:
 
-9.5.2.1.1. a becsléseknek olyan értékelési rendszerhez kell illeszkedniük, amely a közlekedési ágazatban bekövetkező halálesetek kockázatának csökkentésére vonatkozik, és kikérdezéses (közvetlen) preferenciamérések felhasználásával kell törekedniük a fizetési hajlandóság meghatározására,
+– a) az orvosi és a rehabilitációs költségeket,
 
-9.5.2.1.2. a válaszadói mintának az érintett populációra nézve reprezentatívnak kell lennie. A mintának – a populáció más lényeges társadalmi-gazdasági és demográfiai jellemzőinek eloszlásán túlmenően – reprezentatívnak kell lennie különösen a populáció kor és jövedelem szerinti megoszlására nézve,
+– b) a bírósági eljárás költségeit, a rendőrség, a baleset kivizsgálásában részt vevő magánszervezetek és a mentőszolgálat költségeit, valamint a biztosítási ügyintézési költségeket,
 
-9.5.2.1.3. a fizetési hajlandóság meghatározásához a kérdőíveket úgy kell összeállítani, hogy a rajtuk szereplő kérdések a válaszadók számára egyértelműek és tartalmasak legyenek.
+– c) a termeléskiesést, vagyis azon áruk és szolgáltatások társadalmi értékét, amelyeket az adott személy előállíthatott volna, ha a baleset nem következett volna be.
 
-9.5.2.2. A közvetlen és a közvetett gazdasági költségeket a társadalomra háruló valós költségekből kiindulva kell felvenni.
+A balesetekhez kapcsolódó költségek kiszámításakor külön kell kezelni a halálos áldozatot követelő és a súlyos sérüléseket okozó baleseteket (a halálos áldozatot követelő és a súlyos sérüléseket okozó balesetekre különböző balesetmegelőzési értékek vonatkoznak).
 
-9.5.3. „A környezetkárosítás költsége”: a károsodott területnek a vasúti balesetet megelőző állapotra való helyreállításához a vasúttársaság, illetve az infrastruktúra működtetője által viselendő költség, melynek összegét a vasúttársaság, illetve az infrastruktúra működtetője korábbi tapasztalataiból kiindulva kell felvenni.
+5.2. A biztonság önmagában vett értéke és a közvetlen és a közvetett gazdasági költségek felvételének közös elvei:
 
-9.5.4. „A vasúti jármű és az infrastruktúra fizikai károsodásának költsége”: ha a vasúti jármű vagy infrastruktúra javításra alkalmatlan, akkor az azonos funkciók ellátására képes és azonos műszaki paraméterekkel rendelkező vasúti járművel vagy infrastruktúrával való helyettesítés költsége; ha nem, akkor a javítható vasúti jármű vagy infrastruktúra baleset előtti állapota helyreállításának költsége. A költségbecslést mindkét esetben a vasúttársaság, illetve az infrastruktúra működtetője végzi el saját korábbi tapasztalataiból kiindulva. A fogalom magában foglalja a vasúti jármű haszonbérbe vételének költségét is abban az esetben, ha a károsodott jármű helyettesítésére új járművet kell igénybe venni.
+A biztonság önmagában vett értéke vonatkozásában azt, hogy a rendelkezésre álló becslések megfelelőek-e, a következő megfontolások alapján kell megítélni:
 
-9.5.5. „A baleset miatti késések költsége”: a vasút igénybe vevőinél (az utasoknál és a teherfuvarozási szolgáltatás igénybe vevőinél) a baleset következtében jelentkező késések pénzben kifejezett értéke, amelyet a következő modell alapján kell számítani:
+– a) a becsléseknek olyan értékelési rendszerhez kell illeszkedniük, amely a közlekedési ágazatban bekövetkező halálesetek kockázatának csökkentésére vonatkozik, és kikérdezéses (közvetlen) preferenciamérések felhasználásával kell törekedniük a fizetési hajlandóság meghatározására,
 
-9.5.5.1. VT = az utazási időben elért megtakarítás pénzben kifejezett értéke
+– b) a válaszadói mintának az érintett populációra nézve reprezentatívnak kell lennie. A mintának – a populáció más lényeges társadalmi-gazdasági és demográfiai jellemzőinek eloszlásán túlmenően – reprezentatívnak kell lennie, különösen a populáció kor és jövedelem szerinti megoszlására nézve,
 
-9.5.5.2. A vonaton utazó utas idejének pénzben kifejezett értéke (egy órára vonatkoztatva)
+– c) a fizetési hajlandóság meghatározásához a kérdőíveket úgy kell összeállítani, hogy a rajtuk szereplő kérdések a válaszadók számára egyértelműek és tartalmasak legyenek.
 
-VTP = [Hivatásforgalmú utasok VT-je]*[Hivatásforgalmú utasok százalékos aránya éves átlagban] + [Nem hivatásforgalmú utasok VT-je]*Nem hivatásforgalmú utasok százalékos aránya éves átlagban]
+A közvetlen és a közvetett gazdasági költségeket a társadalomra háruló valós költségekből kiindulva kell felvenni.
 
-A VT értékét EUR/utas/óra egységben kell kifejezni.
+5.3. Fogalom-meghatározások
 
-9.5.5.3. A tehervonat idejének pénzben kifejezett értéke (egy órára vonatkoztatva)
+5.3.1. A környezetkárosítás költsége: a károsodott területnek a vasúti balesetet megelőző állapotra való helyreállításához a vasúttársaság és az infrastruktúra működtetője által viselendő költség, melynek összegét a vasúttársaság, illetve az infrastruktúra működtetője korábbi tapasztalataiból kiindulva kell felvenni.
 
-VTF = [a tehervonatok VT-je]*[tonnakilométer/vonatkilométer]
+5.3.2. A vasúti jármű és az infrastruktúra fizikai károsodásának költsége: ha a vasúti jármű vagy infrastruktúra javításra alkalmatlan, akkor az azonos funkciók ellátására képes és azonos műszaki paraméterekkel rendelkező vasúti járművel vagy infrastruktúrával való helyettesítés költsége; ha nem, akkor a javítható vasúti jármű vagy infrastruktúra baleset előtti állapota helyreállításának költsége, amelyeknek költségbecslését a vasúttársaság, illetve az infrastruktúra működtetője végzi el saját korábbi tapasztalataiból kiindulva, ideértve a vasúti jármű haszonbérbe vételének költségét is abban az esetben, ha a károsodott jármű helyettesítésére új járművet kell igénybe venni.
 
-9.5.5.4. A VT értékét EUR/tonna/óra egységben kell kifejezni
+5.3.3. Baleset miatti késések költsége: a vasút igénybe vevőinél (az utasoknál és a teherfuvarozási szolgáltatás igénybe vevőinél) a baleset következtében jelentkező késések pénzben kifejezett értéke, amelyet a következő modell alapján kell számítani:
 
-Vonatonként szállított áru mennyisége tonnában, éves átlagban = tonnakilométer/vonatkilométer
+VT = az utazási időben elért megtakarítás pénzben kifejezett értéke
 
-9.5.5.5. CM = a vonat 1 perces késésének költsége
+A vonaton utazó utas idejének pénzben kifejezett értéke (egy órára vonatkoztatva)
 
-9.5.5.5.1. Személyszállító vonat
+VTP = [Üzleti céllal utazók VT-je] * [Üzleti céllal utazók százalékos aránya éves átlagban] + [Nem üzleti céllal utazók VT-je]*[Nem céllal utazók százalékos aránya éves átlagban]
 
-CMP = K1*(VTP/60)*[utaskilométer/vonatkilométer]
+A VTP értékét EUR/utas/óra egységben kell kifejezni.
 
-Vonatonként szállított utasok száma éves átlagban = utaskilométer/vonatkilométer
+üzleti céllal utazó: olyan utas, aki munkához kapcsolódó tevékenységeiből kifolyólag utazik, az ingázást nem ideértve.
 
-9.5.5.5.2. Tehervonat
+A tehervonat idejének pénzben kifejezett értéke (egy órára vonatkoztatva)
 
-CMF = K2* (VTF/60)
+VTF = [a tehervonatok VT-je]*[(tonnakilométer)/(vonatkilométer)]
 
-9.5.6. A K1 és a K2 tényező az idő pénzben kifejezett értéke és a késés pénzben kifejezett értéke közötti összefüggést fejezi ki, és értékét kikérdezéses (közvetlen) preferenciamérések alapján kell felvenni, figyelemmel arra, hogy a késés miatt elvesztegetett időt az emberek sokkal negatívabban értékelik, mint az eleve utazásra szánt időt.
+A VTF értékét EUR/tonna/óra egységben kell kifejezni.
 
-9.5.7. A baleset miatti késések költsége = CMP*(A személyszállító vonat késése percben kifejezve) + CMF*(A tehervonat késése percben kifejezve)
+Vonatonként szállított áru mennyisége tonnában, éves átlagban = (tonnakilométer)/(vonatkilométer)
 
-9.5.8. A modell alkalmazási tartománya
+CM = a vonat 1 perces késésének költsége
 
-A késések költségét valamennyi – jelentős és nem jelentős – balesetre ki kell számítani.
+Személyszállító vonat
 
-9.5.9. A késéseket a következők szerint kell számításba venni:
+CMP = K1 * (VTP/60) * [(utaskilométer)/(vonatkilométer)]
 
-9.5.9.1. valós késések azon a vasútvonalon, ahol a baleset bekövetkezett,
+Vonatonként szállított utasok száma éves átlagban = (utaskilométer)/(vonatkilométer)
 
-9.5.9.2. valós – vagy ha ez nem lehetséges, becsült – késések a többi érintett vonalon.
+Tehervonat
 
-9.6. Az infrastruktúra műszaki biztonságára és az ennek érdekében hozott intézkedésekre vonatkozó mutatók
+CMF = K2 * (VTF/60)
 
-9.6.1. „Automatikus vonatbiztosítás (ATP)”: olyan rendszer, amely a jelzéseknek és a sebességkorlátozásoknak a sebesség felügyelete révén szerez érvényt, és a jelzéseknél automatikusan megállítja a vonatot.
+A K1 és a K2 tényező az idő pénzben kifejezett értéke és a késés pénzben kifejezett értéke közötti összefüggést fejezi ki, és értékét kikérdezéses (közvetlen) preferenciamérések alapján kell felvenni, figyelemmel arra, hogy a késés miatt elvesztegetett időt az emberek sokkal negatívabban értékelik, mint az eleve utazásra szánt időt.
 
-9.6.2. „Vasúti átjáró”: a vasút és valamely közlekedőút közötti, az infrastruktúra működtetője által elismert, a nagyközönség vagy egyes igénybe vevők számára nyitva álló szintbeni kereszteződés. A fogalom nem terjed ki az állomás peronjai közötti átjárókra, sem a vágányokon átvezető, kizárólag az alkalmazottak által használható átkelőkre.
+A baleset miatti késések költsége = CMP * (A személyszállító vonat késése percben kifejezve) + CMF * (A tehervonat késése percben kifejezve)
 
-9.6.3. „Közlekedőút”: a közút, a magántulajdonban lévő út, az utca, a főközlekedési út, a gyalogosok és a kerékpárosok számára fenntartott út, valamint az emberek, állatok, járművek vagy gépek közlekedésére szolgáló egyéb út.
+A modell alkalmazási tartománya
 
-9.6.4. „Biztosított vasúti átjáró”: olyan vasúti átjáró, amelyben az átjáró igénybe vevői a közeledő vonattal szemben védelemben részesülnek vagy a közeledő vonatról figyelmeztetést kapnak oly módon, hogy bizonyos eszközök vagy készülékek aktiválódnak, amikor a közúti igénybe vevő számára az átjárón való átkelés nem biztonságos.
+A késések költségét a jelentős balesetek esetében a következő módon kell kiszámítani:
 
-9.6.4.1. Védelem fizikai eszközökkel:
+– a) a baleset által érintett vasútvonalak végállomásán mért valós késések,
 
-9.6.4.1.1. fél- vagy teljes sorompóval,
+– b) valós – vagy ha ez nem lehetséges, becsült – késések a többi érintett vonalon.
 
-9.6.4.1.2. kapuval.
+6. Az infrastruktúra műszaki biztonságára és az ennek érdekében hozott intézkedésekre vonatkozó mutatók
 
-9.6.4.2. Figyelmeztetés a vasúti átjáróban elhelyezett helyhez között készülékkel:
+6.1. Vonatbiztosítási rendszer: a jelzések és a sebességkorlátozások betartásának biztosítását segítő rendszer.
 
-9.6.4.2.1. látható jelzéssel: fénysorompóval,
+6.2. Fedélzeti rendszerek: a mozdonyvezetőt a pálya menti jelzőknek és a vezetőfülke jelzőinek figyelésében segítő, és ezáltal a »Megállj« állású jelzők figyelembevételét és a sebességkorlátozások betartását elősegítő rendszerek. A fedélzeti vonatbiztosítási rendszerek a következőkre terjednek ki:
 
-9.6.4.2.2. hangjelzéssel: csengővel, kürttel, dudával stb.,
+a) figyelmeztető jelzés, automatikus figyelmeztető jelzést adva a mozdonyvezetőnek;
 
-9.6.4.2.3. fizikai eszközzel, például a közútba beépített bukkanó okozta rezgések útján.
+b) figyelmeztető jelzés és automatikus megállítás, automatikus figyelmeztető jelzést adva a mozdonyvezetőnek és automatikus megállítás a „Megállj” állású jelző meghaladása esetén;
 
-9.6.4.3. A biztosított vasúti átjárók a következő osztályokba sorolhatók:
+c) figyelmeztető jelzés és automatikus megállítás, valamint diszkrét sebességfelügyelet a „Megállj” állású jelző figyelembevételének biztosítása érdekében, ahol a diszkrét sebességfelügyelet a sebességnek a jelzőhöz közeledve bizonyos helyeken (sebességcsapdák) történő felügyeletét jelenti;
 
-9.6.4.3.1. „Vasúti átjáró automatikus közúti (felhasználó-oldali) védelemmel és/vagy figyelmeztető jelzéssel”: olyan vasúti átjáró, amelyben az átjáróban működő védelmet és/vagy figyelmeztető jelzést a közeledő vonat aktiválja.
+d) figyelmeztető jelzés és automatikus megállítás, valamint folyamatos sebességfelügyelet, a „Megállj” állású jelző figyelembevételének biztosítására és a sebességkorlátozások folyamatos felügyeletére egy adott vasútvonalon, ahol a folyamatos sebességfelügyelet a vasútvonal valamennyi szakaszán megengedett maximális célsebesség folyamatos kijelzését jelenti.
 
-Ezek a vasúti átjárók a következő osztályokba sorolhatók:
+A d) típus automatikus vonatbiztosítási rendszernek tekintendő.
 
-9.6.4.3.1.1. automatikus közúti (felhasználó-oldali) figyelmeztető jelzéssel ellátott átjáró;
+6.3. Vasúti átjáró: valamely út vagy közlekedőút és a vasút közötti, az infrastruktúra működtetője által elismert, a nagyközönség vagy egyes igénybe vevők számára nyitva álló szintbeni kereszteződés. A fogalom nem terjed ki az állomás peronjai közötti átjárókra, sem a vágányokon átvezető, kizárólag az alkalmazottak által használható átkelőkre.
 
-9.6.4.3.1.2. automatikus közúti (felhasználó-oldali) védelemmel ellátott átjáró;
+6.4. Út: a vasúti balesetekre vonatkozó statisztikák céljából minden közút és magántulajdonban lévő út, utca, főközlekedési út, a hozzájuk tartozó gyalogosutat és kerékpárosutat is ideértve.
 
-9.6.4.3.1.3. automatikus közúti (felhasználó-oldali) figyelmeztető jelzéssel és védelemmel ellátott átjáró;
+6.5. Közlekedőút: minden, emberek, állatok, járművek vagy gépek áthaladására szolgáló, az »út« fogalmát ki nem merítő út.
 
-9.6.4.3.1.4. automatikus közúti (felhasználó-oldali) figyelmeztető jelzéssel és védelemmel, továbbá vasútoldali védelemmel ellátott átjáró.
+6.6. Biztosítás nélküli vasúti átjáró: olyan vasúti átjáró, amelyben az átjáró igénybe vevői semmiféle figyelmeztető jelzést nem kapnak, sem védelemben nem részesülnek, amikor számukra az átjárón való átkelés nem biztonságos.
 
-9.6.5. „Vasútoldali védelem”: olyan jelző vagy más vonatbiztosító rendszer, amely a vonat továbbhaladását csak akkor engedi, ha a vasúti átjáró igénybevevő-oldali védelme aktiválva van és a vasúti átjáróban nem tartózkodik senki; a rendszer ez utóbbit kamerás megfigyelés útján és/vagy akadályfelismerő készülékkel állapítja meg.
+6.7. Biztosított vasúti átjáró: olyan vasúti átjáró, amelyben az átjáró igénybe vevői a közeledő vonattal szemben védelemben részesülnek vagy a közeledő vonatról figyelmeztető jelzést kapnak oly módon, hogy bizonyos eszközök vagy készülékek aktiválódnak, amikor az igénybe vevő számára az átjárón való átkelés nem biztonságos.
 
-9.6.6. „Vasúti átjáró kézi működtetésű igénybevevő-oldali védelemmel és/vagy figyelmeztető jelzéssel”: olyan vasúti átjáró, amelyben az átjáróban működő védelem és/vagy figyelmeztető jelzés aktiválása kézi úton történik, és a vonat nem kap automatikusan külön jelzést arról, hogy a vasúti átjáróban működő védelem és/vagy figyelmeztető jelzés aktiválása megtörtént.
+– a) A fizikai eszközökkel biztosított védelem eszközei:
 
-Ezek a vasúti átjárók a következő osztályokba sorolhatók:
+– aa) fél- vagy teljes sorompó,
 
-9.6.6.1. kézi működtetésű igénybevevő-oldali figyelmeztető jelzéssel ellátott átjáró;
+– ab) kapu.
 
-9.6.6.2. kézi működtetésű igénybevevő-oldali védelemmel ellátott átjáró;
+– b) A vasúti átjáróban elhelyezett, helyhez kötött készülékkel történő figyelmeztetés eszközei:
 
-9.6.6.3. kézi működtetésű igénybevevő-oldali figyelmeztető jelzéssel és védelemmel ellátott átjáró.
+ba) látható jelzés: fénysorompó,
 
-9.6.7. „Biztosítás nélküli vasúti átjáró”: olyan vasúti átjáró, amelyben az átjáró igénybe vevői semmiféle figyelmeztető jelzést nem kapnak, sem védelemben nem részesülnek, amikor számukra az átjárón való átkelés nem biztonságos.
+bb) hangjelző készülékek: csengő, kürt, duda stb.
 
-9.7. A biztonságirányításra vonatkozó mutatók
+A biztosított vasúti átjárók osztályai a következők:
 
-9.7.1. „Ellenőrzés”: olyan módszeres, független és dokumentált folyamat, amelynek célja auditinformációk gyűjtése, valamint az összegyűjtött információk tárgyilagos értékelése útján az auditkritériumok teljesülési fokának meghatározása.
+a) Kézi működtetésű: olyan vasúti átjáró, ahol az igénybevevő-oldali védelmet vagy figyelmeztető jelzést kézi úton egy vasúti alkalmazott aktiválja.
 
-9.8. Fogalommeghatározások a relatív mennyiségek viszonyítási alapjának felvételéhez
+b) Automatikus, igénybevevő-oldali figyelmeztető jelzéssel: olyan vasúti átjáró, ahol az igénybevevő-oldali figyelmeztető jelzést a közeledő vonat aktiválja.
 
-9.8.1. „Vonatkilométer”: egy vonat mozgása egy kilométer távolságon. Távolságként a ténylegesen megtett távolságot, ha ez rendelkezésre áll, egyébként pedig a kiindulási és a rendeltetési hely közötti standard hálózati távolságot kell figyelembe venni. Csak az adatszolgáltató ország saját területén megtett távolságot kell figyelembe venni.
+c) Automatikus, igénybevevő-oldali védelemmel: olyan vasúti átjáró, ahol az igénybevevő-oldali védelmet a közeledő vonat aktiválja. Ebbe a kategóriába sorolandók az igénybevevő-oldali figyelmeztető jelzéssel és védelemmel egyaránt rendelkező vasúti átjárók.
 
-9.8.2. „Utaskilométer”: egy utas vasúti szállítása egy kilométer távolságon. Csak az adatszolgáltató ország saját területén megtett távolságot kell figyelembe venni.
+d) vasútoldali védelem: olyan vasúti átjáró, ahol egy jelző vagy egy más vonatvédelmi rendszer a vonat továbbhaladását csak akkor engedi, ha a vasúti átjáró igénybevevő-oldali védelme teljes, és a vasúti átjáróban nem tartózkodik senki.
 
-9.8.3. „Vonalkilométer”: a 2004/49/EK irányelv 2. cikke hatálya alá tartozó tagállami vasúthálózaton mért hossz kilométer mértékegységben. Többvágányú vonal esetében a kiindulási és a rendeltetési hely közötti távolságot csak egyszeresen kell figyelembe venni.
+7. Fogalom-meghatározások a relatív mennyiségek viszonyítási alapjának felvételéhez
 
-9.8.4. „Vágánykilométer”: a 2004/49/EK irányelv 2. cikke hatálya alá tartozó tagállami vasúthálózaton mért hossz kilométer mértékegységben. Többvágányú vonal esetében mindegyik vágányt figyelembe kell venni.
+7.1. Vonatkilométer: egy vonat egy kilométer távolságon történő mozgására vonatkozó mértékegység. Távolságként – ha rendelkezésre áll – a ténylegesen megtett távolságot, egyébként a kiindulási és a rendeltetési hely közötti standard hálózati távolságot kell figyelembe venni. Csak az adatszolgáltató ország saját területén megtett távolságot kell figyelembe venni.
 
-[^35]: Az 1. melléklet 2. pont h) alpontja az 56/2012. (IX. 18.) NFM rendelet 3. § h) pontja szerint módosított szöveg.
-[^36]: Az 1. melléklet 2. pont k) alpontját a 20/2011. (V. 10.) NFM rendelet 6. §-a iktatta be.
-[^37]: Az 1. melléklet 2. pont l) alpontját a 20/2011. (V. 10.) NFM rendelet 6. §-a iktatta be.
-[^38]: A 2. melléklet a 23/2010. (XII. 20.) NFM rendelet 4. §-ával megállapított szöveg.
+7.2. Utaskilométer: egy utas egy kilométer távolságon történő vasúti szállítására vonatkozó mértékegység. Csak az adatszolgáltató ország saját területén megtett távolságot kell figyelembe venni.
+
+7.3. Vonalkilométer: a 2004/49/EK irányelv 2. cikk hatálya alá tartozó tagállami vasúthálózat kilométerben számított hossza. Többvágányú vonal esetében a kiindulási és a rendeltetési hely közötti távolságot csak egyszeresen kell figyelembe venni.
+
+7.4. Vágánykilométer: a 2004/49/EK irányelv 2. cikk hatálya alá tartozó tagállami vasúthálózat kilométerben számított hossza. Többvágányú vonal esetében minden egyes vágányt figyelembe kell venni.
+
+[^36]: Az 1. melléklet 2. pont h) alpontja az 56/2012. (IX. 18.) NFM rendelet 3. § h) pontja szerint módosított szöveg.
+[^37]: Az 1. melléklet 2. pont k) alpontját a 20/2011. (V. 10.) NFM rendelet 6. §-a iktatta be.
+[^38]: Az 1. melléklet 2. pont l) alpontját a 20/2011. (V. 10.) NFM rendelet 6. §-a iktatta be.
+[^39]: A 2. melléklet az 55/2014. (XII. 23.) NFM rendelet 2. §-ával megállapított szöveg.
