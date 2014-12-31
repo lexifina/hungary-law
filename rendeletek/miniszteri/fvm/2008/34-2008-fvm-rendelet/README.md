@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-34-20-8
 | 2014-03-15 | 2008-34-20-82.21 | 77/2008. (VI. 14.) FVM rendelet |
 | 2014-04-30 | 2008-34-20-82.22 | 53/2014. (IV. 29.) VM rendelet |
 | 2014-09-16 | 2008-34-20-82.23 | 1/2014. (IX. 15.) MvM rendelet |
+| 2014-12-31 | 2008-34-20-82.24 | 12/2014. (XII. 30.) MvM rendelet |

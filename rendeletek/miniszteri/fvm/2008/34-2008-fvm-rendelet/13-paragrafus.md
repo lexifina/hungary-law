@@ -1,6 +1,6 @@
-## 12/D. §[^78] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 1/2014. (IX. 15.) MvM rendelet [a továbbiakban: 1/2014. (IX. 15.) MvM rendelet] által megállapított 4. § (6) bekezdést és 9. § (4) bekezdést az 1/2014. (IX. 15.) MvM rendelet hatálybalépésekor[^79] folyamatban levő ügyekben is alkalmazni kell.
+## 12/E. §[^82] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási tárgyú rendeletek módosításáról szóló 12/2014. (XII. 30.) MvM rendelettel [a továbbiakban: 12/2014. (XII. 30.) MvM rendelet] megállapított 4. § (1) bekezdés h) pontját, 4. § (4) bekezdés d) pontját, 5/A. §-t, 10. § (3) bekezdését a 12/2014. (XII. 30.) MvM rendelet hatálybalépésekor[^83] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^78]: A 12/D. §-t az 1/2014. (IX. 15.) MvM rendelet 3. § (3) bekezdése iktatta be.
-[^79]: A hatálybalépés időpontja 2014. szeptember 16.
+[^82]: A 12/E. §-t a 12/2014. (XII. 30.) MvM rendelet 6. § (4) bekezdése iktatta be.
+[^83]: A hatálybalépés időpontja 2014. december 31.
