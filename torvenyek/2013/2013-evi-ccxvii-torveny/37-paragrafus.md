@@ -6,4 +6,4 @@
 
 (3) A 16. § 2014. március 15. napján lép hatályba.
 
-(4) A 2. § (1) bekezdése 2017. január 1. napján lép hatályba.
+(4) A 2. § (1) bekezdése 2015. január 1. napján lép hatályba.
