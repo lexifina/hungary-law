@@ -1,4 +1,4 @@
-3. § (1)[^13] A rendelet 2. §-ának (1) bekezdése szerinti egyéb szervezetek közül az ügyvédi irodának, a szabadalmi ügyvivő irodának, a végrehajtói irodának, a közjegyzői irodának, a Műsorszolgáltatás Támogató és Vagyonkezelő Alapnak, a víziközmű társulatnak, a Pénz- és Tőkepiaci Állandó Választottbíróságnak, valamint a Hallgatói Önkormányzatok Országos Konferenciájának, továbbá a közhasznú besorolással nem rendelkező európai területi együttműködési csoportosulásnak és az európai kutatási infrastruktúráért felelős konzorciumnak a beszámolókészítési és könyvvezetési kötelezettsége megállapításánál a Tv. előírásait kell alkalmaznia.
+3. § (1)[^13] A rendelet 2. §-ának (1) bekezdése szerinti egyéb szervezetek közül az ügyvédi irodának, a szabadalmi ügyvivő irodának, a végrehajtói irodának, a közjegyzői irodának, a Médiaszolgáltatás-támogató és Vagyonkezelő Alapnak, a víziközmű társulatnak, a Pénz- és Tőkepiaci Állandó Választottbíróságnak, valamint a Hallgatói Önkormányzatok Országos Konferenciájának, továbbá a közhasznú besorolással nem rendelkező európai területi együttműködési csoportosulásnak és az európai kutatási infrastruktúráért felelős konzorciumnak a beszámolókészítési és könyvvezetési kötelezettsége megállapításánál a Tv. előírásait kell alkalmaznia.
 
 (2)[^14] A viziközmű társulatnak beszámoló készítési és könyvvezetési kötelezettsége megállapításánál a Tv. előírásait kell alkalmazni azzal, hogy e rendelet 16. §-ának (8) bekezdését is figyelembe kell vennie.
 
@@ -14,7 +14,7 @@
 
 (8)[^20] A 2. § (1) bekezdés l) pontja szerinti szervezet beszámolókészítési és könyvvezetési kötelezettségére az azt létrehozó, 2. § (1) bekezdés c)–e) pont szerinti szervezet beszámolókészítési és könyvvezetési kötelezettségét szabályozó előírások vonatkoznak.
 
-[^13]: A 3. § (1) bekezdése a 345/2010. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^13]: A 3. § (1) bekezdése a 345/2010. (XII. 28.) Korm. rendelet 35. §-ával megállapított, a 362/2014. (XII. 30.) Korm. rendelet 26. § 3. pontja szerint módosított szöveg.
 [^14]: A 3. § új (2) bekezdését a 289/2002. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2)–(5) bekezdés számozását (3)–(6) bekezdésre változtatva. A 3. § (2) bekezdése a 237/2003. (XII. 17.) Korm. rendelet 2. §-ával megállapított szöveg, e módosító rendelet 12. §-ának (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^15]: A 3. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 289/2002. (XII. 23.) Korm. rendelet 1. § (2) bekezdése. A 3. § (3) bekezdését a 357/2006. (XII. 27.) Korm. rendelet 25. § (3) bekezdése hatályon kívül helyezte.
 [^16]: A 3. § új (4) bekezdését a 357/2006. (XII. 27.) Korm. rendelet 19. §-a iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (7) bekezdésre változtatva. A 3. § (4) bekezdése a 342/2011. (XII. 29.) Korm. rendelet 25. §-ával megállapított szöveg.

@@ -6,7 +6,7 @@ a) a lakás, a nyugdíjasház, az üdülő, a személygépkocsi-tároló, a műh
 
 b) a társasházra,
 
-c)[^1] az egyesületre (ide értve a sportszövetségeket), az alapítványra (a továbbiakban együtt: civil szervezet),
+c)[^1] az egyesületre (ide értve a sportszövetségeket is), az alapítványra (a továbbiakban együtt: civil szervezet),
 
 d) a köztestületre,
 
@@ -16,7 +16,7 @@ f)[^3] az ügyvédi irodára, a szabadalmi ügyvivő irodára, a végrehajtói i
 
 g)[^4]
 
-h)[^5] a Műsorszolgáltatás Támogató és Vagyonkezelő Alapra,
+h)[^5] a Médiaszolgáltatás-támogató és Vagyonkezelő Alapra,
 
 i) a Munkavállalói Résztulajdonosi Program keretében létrejött szervezetre,
 
@@ -44,11 +44,11 @@ b) vállalkozási tevékenység alatt az Ectv.-ben meghatározott gazdasági-vá
 
 c) közszolgáltatási bevétel alatt az Ectv.-ben meghatározott közszolgáltatási szerződés alapján végzett tevékenységből származó bevételt kell érteni.
 
-[^1]: A 2. § (1) bekezdés c) pontja a 342/2011. (XII. 29.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^1]: A 2. § (1) bekezdés c) pontja a 342/2011. (XII. 29.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 362/2014. (XII. 30.) Korm. rendelet 26. § 1. pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés e) pontja a 342/2011. (XII. 29.) Korm. rendelet 24. § (2) bekezdésével megállapított szöveg.
 [^3]: A 2. § (1) bekezdésének f) pontja a 350/2004. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg, e módosító rendelet 7. §-ának (1) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^4]: A 2. § (1) bekezdésének g) pontját a 357/2006. (XII. 27.) Korm. rendelet 25. § (3) bekezdése hatályon kívül helyezte.
-[^5]: A 2. § (1) bekezdés h) pontja a 345/2010. (XII. 28.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés h) pontja a 345/2010. (XII. 28.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg, a 362/2014. (XII. 30.) Korm. rendelet 26. § 2. pontja szerint módosított szöveg.
 [^6]: A 2. § (1) bekezdés l) pontját a 357/2006. (XII. 27.) Korm. rendelet 18. §-a iktatta be, hatályon kívül helyezte a 398/2007. (XII. 27.) Korm. rendelet 12. § (1) bekezdése, újonnan az 518/2013. (XII. 30.) Korm. rendelet 13. § (1) bekezdése iktatta be.
 [^7]: A 2. § (1) bekezdésének m) pontját a 357/2006. (XII. 27.) Korm. rendelet 18. §-a iktatta be, hatályon kívül helyezte a 398/2007. (XII. 27.) Korm. rendelet 12. § (1) bekezdése.
 [^8]: A 2. § új (2) bekezdését a 398/2007. (XII. 27.) Korm. rendelet 1. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatta. A 2. § (2) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 16. §-ával megállapított, az 518/2013. (XII. 30.) Korm. rendelet 19. § 1. pontja szerint módosított szöveg.
