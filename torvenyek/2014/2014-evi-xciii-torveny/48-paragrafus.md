@@ -1,0 +1,3 @@
+48. § Az Interop. tv. 14. alcíme a következő 18/A. §-sal kiegészülve lép hatályba:
+
+„18/A. § A számítógépes ingatlan-nyilvántartási rendszer kezelésére, működtetésére feladat- és hatáskörrel rendelkező földmérési és térinformatikai államigazgatási szerv a központi címregiszter felállítása érdekében az ahhoz szükséges 2014. december 31. napján hatályos ingatlanadatok, az ingatlan-nyilvántartási azonosító kód és a címkoordináták egyszeri – szükség szerint ütemezetten történő – ingyenes átadására köteles a központi címregiszter működtetéséért felelős szerv részére. Az adatátadásnak legkésőbb 2015. december 31. napjáig kell megtörténnie.”
