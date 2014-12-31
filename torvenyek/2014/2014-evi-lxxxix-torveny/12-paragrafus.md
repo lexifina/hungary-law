@@ -1,0 +1,3 @@
+12. § Az Ügkr. 10. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha a légi jármű üzembentartó térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását kérelmezi, az (1) bekezdésben foglaltakon túl a tonnakilométer-adatokat is nyomon követi a 601/2012/EU bizottsági rendelet, e törvény és a végrehajtására kiadott jogszabályok, a jóváhagyott nyomon követési terv, valamint a légi jármű üzembentartó belső eljárásrendje szerint, és arról a hatóság részére – a (3) bekezdésben foglalt kivétellel – hitelesített tonnakilométer-adatokat tartalmazó jelentést tesz az ellenőrzési évet követő év március 31-ig.”
