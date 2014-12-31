@@ -1,0 +1,3 @@
+## 10. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet [a továbbiakban: 61/2009. (V. 14.) FVM rendelet] Záró rendelkezés alcíme a következő 82. §-sal egészül ki:
+
+## „82. § Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási tárgyú rendeletek módosításáról szóló 12/2014. (XII. 30.) MvM rendelettel [a továbbiakban: 12/2014. (XII. 30.) MvM rendelet] hatályon kívül helyezett 45. § (8) és (9) bekezdést a 12/2014. (XII. 30.) MvM rendelet hatálybalépésekor folyamatban lévő ügyekben sem kell alkalmazni.”
