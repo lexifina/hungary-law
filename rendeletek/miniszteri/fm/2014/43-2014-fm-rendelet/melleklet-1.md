@@ -1,4 +1,4 @@
-## 73. §[^1]
+## 73. § Hatályát veszti az R.
 
 1. melléklet a 43/2014. (XII. 29.) FM rendelethez
 
@@ -155,5 +155,3 @@
 | A. Sorszám | B | C | D |
 
 | 1. | Teljesítményvizsgálat végzése | Végtermék és fajtatesztek | Vizsgálati költségek 70%-a |
-
-[^1]: A 73. § a 66. § (2) bekezdése alapján 2014. december 31-én lép hatályba.
