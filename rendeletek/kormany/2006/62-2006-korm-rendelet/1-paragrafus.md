@@ -10,7 +10,7 @@
 
 (2)[^7] Az (1) bekezdés szerinti ellátások kifizetésére az önkormányzatot – a (3) bekezdésben foglalt kivétellel – havonta előleg illeti meg. A tárgyév december hónapjában előleg nem igényelhető.
 
-(2a)[^8] A tárgyév második munkanapjáig a Kincstár a települési önkormányzat részére külön igénylés nélkül, előlegként folyósítja az (1) bekezdés szerinti ellátások tárgyévet megelőző év december havi kifizetése után járó térítés szerinti összeget. A folyósított összeg felhasználásáról az önkormányzat a tárgyévi első igénylés keretében értesíti az Igazgatóságot.
+(2a)[^8] A települési önkormányzatot a tárgyévet követő évi előirányzata terhére előleg illeti meg az (1) bekezdés szerinti ellátások tárgyév december havi kifizetése után járó térítés szerinti összegben, amelyet a Kincstár – tárgyév december 20-át követően – a települési önkormányzat részére külön igénylés nélkül a Kincstári Egységes Számla terhére megelőlegez. A megelőlegezett összeget a Kincstár a tárgyévet követő évi előirányzat terhére a tárgyévet követő év második munkanapján visszapótolja a Kincstári Egységes Számlára. Az előleg felhasználásáról az önkormányzat a tárgyévet követő évi első igénylés keretében értesíti az Igazgatóságot.
 
 (2b)[^9] Az az önkormányzat, amely a tárgyévet megelőző év december hónapjában az (1) bekezdés szerinti ellátásra igénylést nem nyújtott be, de a tárgyév folyamán erre az ellátásra igénylést nyújt be, első alkalommal a tárgyhavi térítés kétszeresét igényelheti.
 
@@ -53,7 +53,7 @@ szerinti adatlap felhasználásával történik.
 [^5]: Az 1. § (1c) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 316. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § (1d) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 316. § b) pontja szerint módosított szöveg.
 [^7]: Az 1. § (2) bekezdése a 331/2011. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^8]: Az 1. § (2a) bekezdését a 331/2011. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^8]: Az 1. § (2a) bekezdését a 331/2011. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 397/2014. (XII. 31.) Korm. rendelet 53. §-ával megállapított szöveg.
 [^9]: Az 1. § (2b) bekezdését a 331/2011. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^10]: Az 1. § (3) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^11]: Az 1. § (4) bekezdés a) pontját a 352/2012. (XII. 13.) Korm. rendelet 2. § (8) bekezdés a) pontja hatályon kívül helyezte.

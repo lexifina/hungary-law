@@ -1,3 +1,3 @@
-## 8/B. §[^40]
+8/C. §[^41]
 
-[^40]: A 8/B. §-t a 171/2011. (VIII. 24.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 317. §-a.
+[^41]: A 8/C. §-t a 331/2011. (XII. 29.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 317. §-a.

@@ -1,5 +1,3 @@
-## Adatlap a lakásfenntartási támogatás címén igénybe vehető támogatás igényléséhez
-
 | Adatlap a lakásfenntartási támogatás címén igénybe vehető támogatás igényléséhez |
 
 | ......... év ........... tárgyhónap |
