@@ -16,6 +16,12 @@
 
 (8)[^276] A hitelintézet az általános kockázati céltartalék eredménytartalékba való átvezetésével kapcsolatban teljesítendő, az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény 4/C. §-a szerinti egyszeri hitelintézeti hozzájárulást a Tv. 87. § (2) bekezdése szerinti adófizetési kötelezettségként számolja el.
 
+(10)[^277] Egyéb céltartalékként kell kimutatni a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvény, valamint a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvény előírásai alapján képzett céltartalékot.
+
+(11)[^278] A (10) bekezdés szerinti céltartalék összegének meghatározásánál csökkentő tételként figyelembe lehet venni a társasági adóról és osztalékadóról szóló 1996. évi LXXXI. törvény 29/ZS. §-a alapján a 2015. évi, illetve a későbbi évek fizetendő társasági adóját várhatóan csökkentő összeget, amennyiben valószínű, hogy azt a pénzügyi intézmény a 2015. évben, illetve az azt követő években érvényesíteni tudja. Amennyiben a pénzügyi intézmény él ezzel a lehetőséggel, úgy az ezzel kapcsolatos jövőbeni elképzeléseit a 2014. üzleti évi beszámoló kiegészítő mellékletében be kell mutatnia.
+
+(12)[^279] A pénzügyi intézmények a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvény, valamint a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvény hatálya alá tartozó devizaköveteléseiket, az azokhoz kapcsolódó értékvesztések, céltartalékok és elhatárolt kamatok összegeit 2014. december 31-én, az erre vonatkozó döntésük alapján – a számvitelről szóló 2000. évi C. törvény 60. §-ában rögzített szabályoktól eltérően – értékelhetik az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény 10. §-a szerinti árfolyamon is.
+
 [^269]: A 32. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendeet 1. § 1108. pontja hatályon kívül helyezte.
 [^270]: A 33. §-t a 345/2010. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
 [^271]: A 33. § (3) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 45. §-a iktatta be.
@@ -24,3 +30,6 @@
 [^274]: A 33. § (6) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 32. § (1) bekezdése iktatta be.
 [^275]: A 33. § (7) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 32. § (1) bekezdése iktatta be.
 [^276]: A 33. § (8) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 32. § (2) bekezdése iktatta be.
+[^277]: A 33. § (10) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^278]: A 33. § (11) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^279]: A 33. § (12) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 35. § (2) bekezdése iktatta be.
