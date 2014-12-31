@@ -6,6 +6,6 @@ a) közszolgáltatások ellátását biztosító infrastruktúra fejlesztése,
 
 b) közszolgáltatások ellátását biztosító járművek beszerzése,
 
-c)[^1] a KözOP 4. prioritás 5. konstrukciójában megvalósíthatósági tanulmány készítése, további előkészítés és kivitelezés.
+c)[^5] a KözOP 4. prioritás 5. konstrukciójában megvalósíthatósági tanulmány készítése, további előkészítés és kivitelezés.
 
-[^1]: A 3. § c) pontja az 1/2013. (XII. 30.) ME rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § c) pontja az 1/2013. (XII. 30.) ME rendelet 9. § (1) bekezdésével megállapított szöveg.

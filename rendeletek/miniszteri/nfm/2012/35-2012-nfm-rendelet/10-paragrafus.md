@@ -1,11 +1,21 @@
+## 9. §
+
 ## 10. A csekély összegű támogatásokra vonatkozó szabályok
 
-10. § (1) A csekély összegű támogatás odaítélésének feltétele, hogy a kedvezményezett nyilatkozik, hogy az előző három pénzügyi évben általa igénybe vett csekély összegű támogatások támogatástartalma nem haladja meg a 200 000 eurónak, közúti szállítási ágazatban a 100 000 eurónak megfelelő forintösszeget.
+10. §[^11] (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetében a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
-(2) A több részletben fizetendő támogatást az odaítélése időpontjában érvényes értékre kell diszkontálni az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 3. pontja szerinti diszkont kamatláb alkalmazásával.
+(2) A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
 
-(3) Minden egyes új csekély összegű támogatás odaítélésekor az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatás teljes összegét figyelembe kell venni.
+(3) Az 1407/2013/EU bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az 1407/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
 
-(4) Az 1998/2006/EK bizottsági rendelet 3. cikk 1. pontja szerinti kötelezettséget a támogatást nyújtó köteles teljesíteni.
+(4) Hitel vagy kezességvállalás formájában nyújtott támogatás esetén nem lehet kedvezményezett az a vállalkozás, amelyet kollektív fizetésképtelenségi eljárás alá vontak vagy hitelezői kérelemre kollektív fizetésképtelenségi eljárás hatálya alá lenne vonható, valamint az a nagyvállalkozás, amely B-hitelminősítésnek megfelelő helyzetnél rosszabb helyzetben van.
 
-(5) Nem ítélhető meg csekély összegű támogatás az 1998/2006/EK bizottsági rendelet 1. cikkében meghatározottakhoz.
+(5) Nem nyújtható támogatás a közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző vállalkozás részére teherszállító jármű vásárlására.
+
+(6) A támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendeletnek (a továbbiakban: 360/2012/EU bizottsági rendelet) megfelelően nyújtott csekély összegű támogatással a 360/2012/EU bizottsági rendeletben meghatározott felső határig halmozható. A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott felső határig halmozható.
+
+(7) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+(8) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembe vételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
+
+[^11]: A 10. § a 11/2014. (XII. 30.) MvM rendelet 45. §-ával megállapított szöveg.
