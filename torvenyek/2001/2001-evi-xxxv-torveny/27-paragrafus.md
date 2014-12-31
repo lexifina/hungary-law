@@ -22,6 +22,6 @@ a) azoknak a jogviszonyoknak a körét, melyekkel kapcsolatos államigazgatási 
 
 b) az elektronikusan aláírt elektronikus dokumentumok és elektronikus aláírás alkalmazásával történő ügyintézés sajátos szabályait.
 
-(4) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter egyetértésével kiadott rendeletben szabályozza a kormányzati elektronikus aláírás-rendszer megvalósítására és üzemeltetésére vonatkozó részletes követelményeket.
+(4)
 
 (5) Felhatalmazást kapnak a helyi önkormányzatok, hogy rendeletben szabályozzák azoknak a lakossági szolgáltatásoknak a körét, illetve azoknak az államigazgatási eljárásoknak a körét, amelyekben – az eljárásra irányadó magasabb szintű jogszabályban foglaltak figyelembevételével – illetékességi körükben lehetőséget adnak a kizárólag elektronikusan aláírt elektronikus dokumentumokkal történő ügyintézésre.

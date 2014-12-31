@@ -4,7 +4,7 @@
 
 (2) Ha az elektronikusan aláírt elektronikus dokumentumon minősített elektronikus aláírás szerepel és az aláírás ellenőrzésének eredményéből más nem következik, vélelmezni kell, hogy a dokumentum tartalma az aláírás óta nem változott.
 
-(3) A fokozott biztonságú, illetve minősített elektronikus aláírással ellátott elektronikusan aláírt elektronikus dokumentum kinyomtatott változatához nem fűződnek az ugyanezen dokumentum elektronikus változatának bizonyító ereje tekintetében előírt szabályok.
+(3)
 
 (4) Amennyiben az elektronikus aláírási termék rendelkezik az informatikáért felelős miniszter (a továbbiakban: miniszter) által kijelölt, illetve a laboratóriumok, a tanúsító és ellenőrző szervezetek akkreditálásáról szóló 1995. évi XXIX. törvény szerinti szakmai akkreditáló bizottságok által akkreditált és tanúsításra jogosult szervezetek, illetőleg a 7. § (3) bekezdése szerinti tanúsító szervezet által kiadott igazolással, az ellenkező bizonyításáig vélelmezni kell, hogy az elektronikus aláírási termék biztonságos, továbbá megfelel az igazolásban megjelölt egyéb követelményeknek.
 
