@@ -1,5 +1,3 @@
-## 5. §[^3]
+## 5. § A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény végrehajtásáról szóló 145/1999. (X. 1.) Korm. rendelet, valamint az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 379/2013. (X. 25.) Korm. rendelet 33. § (2) bekezdésében a „2015. január 1-jén” szövegrész helyébe a „2016. január 1-jén” szöveg lép.
 
 ## 6. A vízügyi igazgatási és a vízügyi, valamint vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló 223/2014. (IX. 4.) Korm. rendelet módosítása
-
-[^3]: Az 5. § a 7. § (2) bekezdése alapján 2014. december 31-én lép hatályba.

@@ -1,4 +1,4 @@
-## 6. §[^4]
+## 6. §[^5]
 
 ## 7. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1. §, a 2. §, valamint a 6. § 2015. január 1-jén lép hatályba.
 
-[^4]: A 6. § a 7. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^5]: A 6. § a 7. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
