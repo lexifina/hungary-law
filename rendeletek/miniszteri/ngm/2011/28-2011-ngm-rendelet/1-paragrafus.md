@@ -4,34 +4,47 @@
 
 a)[^1] ÁBPE: Államháztartási belső pénzügyi ellenőrzés, ami az államháztartási kontrollrendszer része az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 62. §-ának megfelelően;
 
-b) ÁBPE-továbbképzés I.: a belső ellenőrök kötelező szakmai továbbképzése keretében az „ÁBPE-továbbképzés I.” elnevezésű képzés, melynek tematikáját az Éves Továbbképzési Tájékoztató tartalmazza;
+b)[^2] ÁBPE-továbbképzés I.: a belső ellenőrök kötelező hatósági jellegű szakmai továbbképzése keretében szervezett hatósági jellegű képzés;
 
-c) ÁBPE-továbbképzés I. a költségvetési szervek vezetői és gazdasági vezetői részére: a költségvetési szervek vezetői és a gazdasági vezetők kötelező szakmai továbbképzése keretében az „ÁBPE-továbbképzés I. a költségvetési szervek vezetői és gazdasági vezetői részére” elnevezésű képzés, melynek tematikáját az Éves Továbbképzési Tájékoztató tartalmazza;
+c)[^3] ÁBPE-továbbképzés I. a költségvetési szervek vezetői és gazdasági vezetői részére: a költségvetési szervek vezetői és a gazdasági vezetők kötelező hatósági jellegű szakmai továbbképzése keretében szervezett hatósági jellegű képzés;
 
-d)[^2] ÁBPE-továbbképzés II.: a belső ellenőrök, a költségvetési szervek vezetői és a gazdasági vezetők kötelező szakmai továbbképzése keretében, az ÁBPE-továbbképzés I. képzésre, valamint az ÁBPE-továbbképzés I. a költségvetési szervek vezetői és gazdasági vezetői részére elnevezésű képzésekre épülő, az Éves Továbbképzési Tájékoztatóban található listában szereplő, a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Bkr.) 12. § (1)–(3) bekezdése és 24. § (7) bekezdése alapján továbbképzésre kötelezett személy (a továbbiakban: továbbképzésre kötelezett) által választott képzés;
+d)[^4] ÁBPE-továbbképzés II.: a belső ellenőrök, a költségvetési szervek vezetői és a gazdasági vezetők kötelező hatósági jellegű szakmai továbbképzése keretében, az ÁBPE-továbbképzés I. képzésre, valamint az ÁBPE-továbbképzés I. a költségvetési szervek vezetői és gazdasági vezetői képzésekre épülő, az Éves Továbbképzési Tájékoztatóban meghirdetett választható képzés;
 
-e)[^3] belső ellenőr: a Bkr. 2. § a) pontjában meghatározott fogalom;
+e)[^5] belső ellenőr: a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Bkr.) 2. § a) pontjában meghatározott fogalom;
 
 f) e-learning: olyan számítógépes hálózaton elérhető képzési forma, amely a tanítási, tanulási folyamatot megszervezve hatékony, optimális ismeretátadási, tanulási módszerek birtokában a tananyagot a továbbképzésre kötelezett számára hozzáférhetővé teszi;
 
-g)[^4] Éves Továbbképzési Tájékoztató: az államháztartásért felelős miniszter (a továbbiakban: miniszter) által a belső ellenőrök kötelező szakmai továbbképzésével és a vizsga letételével, valamint a költségvetési szervek vezetőinek és gazdasági vezetőinek belső kontrollrendszer témájú továbbképzésével kapcsolatban az Államháztartási Belső Pénzügyi Ellenőrzési Módszertani és Képzési Központ (a továbbiakban: Központ) és a miniszter által vezetett minisztérium honlapján, valamint a Hivatalos Értesítőben minden év január 15-ig közzétett tájékoztató;
+g)[^6] Éves Továbbképzési Tájékoztató: az államháztartásért felelős miniszter (a továbbiakban: miniszter) által a belső ellenőrök kötelező szakmai továbbképzésével és a vizsga letételével, valamint a költségvetési szervek vezetőinek és gazdasági vezetőinek belső kontrollrendszer témájú továbbképzésével kapcsolatban az Államháztartási Belső Pénzügyi Ellenőrzési Módszertani és Képzési Központ (a továbbiakban: Központ) és a miniszter által vezetett minisztérium honlapján, valamint a Hivatalos Értesítőben minden év január 15-ig közzétett tájékoztató;
 
-h)[^5] képzési költség: az e-learning szolgáltatás költsége, vizsgával záruló képzés esetén a vizsga költsége, továbbá a kontakt formában szervezett képzés esetén felmerülő térítési díj;
+h)–i)[^7]
 
-i)[^6] kötelező szakmai továbbképzésben közreműködő szervezet: a Nemzeti Adó- és Vámhivatal Képzési, Egészségügyi és Kulturális Intézete;
+j)[^8] központi költségvetésből támogatott képzés: költségvetési szervnél munkajogi, közszolgálati, hivatásos szolgálati, szolgálati vagy közalkalmazotti jogviszonyban foglalkoztatott továbbképzésre kötelezett részére a továbbképzési kötelezettség teljesítéséhez előírt képzés, amelynek – szervezési formájától függetlenül – az e-learning szolgáltatási költségét, továbbá – vizsgával záruló képzés esetén – a vizsga költségét a központi költségvetés finanszírozza az Éves Továbbképzési Tájékoztatóban meghatározott mértékig;
 
-j)[^7] központi költségvetésből támogatott képzés: költségvetési szervnél munkajogi, közszolgálati, hivatásos szolgálati, szolgálati vagy közalkalmazotti jogviszonyban foglalkoztatott továbbképzésre kötelezett részére a továbbképzési kötelezettség teljesítéséhez előírt képzés, amelynek – szervezési formájától függetlenül – az e-learning szolgáltatási költségét, továbbá – vizsgával záruló képzés esetén – a vizsga költségét a központi költségvetés finanszírozza az Éves Továbbképzési Tájékoztatóban meghatározott mértékig;
+k)[^9] térítési díj: az Éves Továbbképzési Tájékoztatóban közölt díj, amely mértékének meghatározása önköltségszámítás alapján történik. A térítési díj formái lehetnek:
 
-k)[^8] térítési díj: a kontakt formában szervezett képzés esetén a központi költségvetésből finanszírozott összegen felül felmerülő, az Éves Továbbképzési Tájékoztatóban közölt költség.
+ka) az e-learning szolgáltatás költsége, vizsgával záruló képzés esetén a vizsga költsége, továbbá a kontakt vagy tréning formában szervezett képzés esetén felmerülő díja,
 
-l–m)[^9]
+kb) az előzetes tudásszint-felmérő vizsga díja,
+
+kc) a szintvizsga díja, valamint
+
+kd) a pótvizsga díja;
+
+l)[^10] hatósági jellegű képzés: a felnőttképzésről szóló 2013. évi LXXVII. törvény 2. § 16. pontja szerinti hatósági képzés;
+
+m)[^11] szintvizsga: a továbbképzési kötelezettséget elmulasztók számára biztosított választható tudásszint felmérő vizsga, amelyen a továbbképzésre kötelezett az ÁBPE továbbképzés I. tananyag ismeretére vonatkozó teszt jellegű vizsga alapján bizonyítja szakmai tudását a nyilvántartásból való törlés elkerülése érdekében,
+
+n)[^12] továbbképzésre kötelezett: az a természetes személy, akinek a Bkr. 12. § (1)–(3) bekezdése és 24. § (7) bekezdése alapján továbbképzési kötelezettsége áll fenn.
 
 [^1]: Az 1. § a) pontja a 23/2012. (VIII. 6.) NGM rendelet 9. § 1. pontja szerint módosított szöveg.
-[^2]: Az 1. § d) pontja a 23/2012. (VIII. 6.) NGM rendelet 9. § 2. pontja szerint módosított szöveg.
-[^3]: Az 1. § e) pontja a 23/2012. (VIII. 6.) NGM rendelet 9. § 3. pontja szerint módosított szöveg.
-[^4]: Az 1. § g) pontja a 23/2012. (VIII. 6.) NGM rendelet 9. § 4. és 5. pontja szerint módosított szöveg.
-[^5]: Az 1. § h) pontja a 23/2012. (VIII. 6.) NGM rendelet 1. §-ával megállapított szöveg.
-[^6]: Az 1. § i) pontja a 23/2012. (VIII. 6.) NGM rendelet 1. §-ával megállapított szöveg.
-[^7]: Az 1. § j) pontja a 23/2012. (VIII. 6.) NGM rendelet 1. §-ával megállapított szöveg.
-[^8]: Az 1. § k) pontja a 23/2012. (VIII. 6.) NGM rendelet 1. §-ával megállapított szöveg.
-[^9]: Az 1. § l)–m) pontját a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^2]: Az 1. § b) pontja a 44/2014. (XII. 30.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § c) pontja a 44/2014. (XII. 30.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § d) pontja a 44/2014. (XII. 30.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § e) pontja a 44/2014. (XII. 30.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. § g) pontja a 23/2012. (VIII. 6.) NGM rendelet 9. § 4. és 5. pontja szerint módosított szöveg.
+[^7]: Az 1. § h)–i) pontját a 44/2014. (XII. 30.) NGM rendelet 17. §-a hatályon kívül helyezte.
+[^8]: Az 1. § j) pontja a 23/2012. (VIII. 6.) NGM rendelet 1. §-ával megállapított szöveg.
+[^9]: Az 1. § k) pontja a 44/2014. (XII. 30.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^10]: Az 1. § l) pontját a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2014. (XII. 30.) NGM rendelet 1. § (3) bekezdése iktatta be.
+[^11]: Az 1. § m) pontját a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2014. (XII. 30.) NGM rendelet 1. § (3) bekezdése iktatta be.
+[^12]: Az 1. § n) pontját a 44/2014. (XII. 30.) NGM rendelet 1. § (3) bekezdése iktatta be.

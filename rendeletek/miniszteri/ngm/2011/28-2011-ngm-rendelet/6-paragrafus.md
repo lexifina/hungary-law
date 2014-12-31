@@ -14,6 +14,8 @@ c) a 3. § szerinti adatváltozás bejelentése díjmentes.
 
 (5) A többlet visszatérítését hivatalból kell elrendelni, és annak teljesítéséről a többlet megállapításától számított 30 napon belül a befizetés módjával megegyező módon intézkedni kell.
 
-(6) A díj nyilvántartására, kezelésére és elszámolására az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló 249/2000. (XII. 24.) Korm. rendelet előírásait kell alkalmazni.
+(6)[^34] A díj nyilvántartására, kezelésére és elszámolására az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet előírásait kell alkalmazni.
 
 (7) A díjfizetés vonatkozásában az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2)–(3) bekezdésében foglaltakat, valamint az Itv. 73/A. §-ában foglaltakat, a mulasztási bírságra az Itv. 82. §-ában foglaltakat kell alkalmazni azzal az eltéréssel, hogy az ott nevesített illeték helyett díjat kell érteni.
+
+[^34]: A 6. § (6) bekezdése a 44/2014. (XII. 30.) NGM rendelet 4. §-ával megállapított szöveg.

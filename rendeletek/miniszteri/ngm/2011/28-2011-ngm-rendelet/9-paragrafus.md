@@ -1,25 +1,23 @@
 ## köteles a szakmai továbbképzésben közreműködő szervezet részére az Éves Továbbképzési Tájékoztatóban közzétett központi költségvetési támogatás összegét utólag megfizetni.
 
-9. § (1) Az „ÁBPE-továbbképzés I.”-hez vizsga kapcsolódik.
+9. §[^47] (1) Az ÁBPE-továbbképzés I. képzéshez vizsga kapcsolódik. Az ÁBPE-továbbképzés I. képzés programzáró vizsgájára az bocsátható, aki a képzés tananyagát teljes terjedelmében feldolgozta. A képzés tananyaga akkor tekinthető teljes terjedelmében feldolgozottnak, ha a továbbképzésre kötelezett
 
-(2) A vizsga eredményét a kötelező szakmai továbbképzésben közreműködő szervezet a vizsga napján
+a) kontakt képzés esetén részt vett a képzéshez kapcsolódó előadások óráin és aláírta a jelenléti ívet,
 
-a) kiválóan megfelelt,
+b) e-learning képzés esetén sikeresen kitöltötte a tananyaghoz kapcsolódó önellenőrző tesztet.
 
-b) megfelelt,
+(2) A vizsga eredményének minősítését a képzési program tartalmazza.
 
-c) nem felelt meg
+(3) A vizsgaeredménnyel kapcsolatos panasz kezelését a továbbképzésben közreműködő szervezet vizsgaszabályzata szabályozza, amely a Központ honlapján kerül közzétételre.
 
-minősítéssel értékeli.
+(4) Sikertelen vizsga esetén a tárgyév év december 15-éig legfeljebb 3 alkalommal van lehetőség pótvizsgát tenni. A pótvizsga térítési díjköteles.
 
-(3) A vizsgaeredménnyel kapcsolatos panasz kezelését a kötelező szakmai továbbképzésben közreműködő szervezet vizsgaszabályzata szabályozza, amelyet a kötelező szakmai továbbképzésben közreműködő szervezet a honlapján tesz közzé.
+(5) Az ÁBPE-továbbképzés II. – Belső ellenőrök részére képzés zárásának feltétele
 
-(4)[^30] Sikertelen vizsga esetén az adott év december 15-éig 3 alkalommal van lehetőség pótvizsgát tenni. A pótvizsga térítési díjköteles, melynek mértéke az Éves Továbbképzési Tájékoztatóban kerül meghatározásra.
+a) – kontakt képzés esetében – a belső ellenőrök részére szervezett képzésen való részvétel, és a programzáró önellenőrző teszt legalább 60%-os eredménnyel történő teljesítése az e-learning keretrendszerben, legkésőbb a képzés zárónapjáig,
 
-(5)–(6)[^31]
+b) – e-learning képzési forma esetében – a programzáró önellenőrző teszt legalább 60%-os eredménnyel történő teljesítése legkésőbb a képzés zárónapjáig,
 
-(7)[^32] Az előzetes tudásszint-felmérés térítési díjköteles, melynek mértéke az Éves Továbbképzési Tájékoztatóban kerül meghatározásra.
+c) – tréning képzési forma esetében – a képzésen való részvétel.
 
-[^30]: A 9. § (4) bekezdése a 23/2012. (VIII. 6.) NGM rendelet 9. § 19. pontja szerint módosított szöveg.
-[^31]: A 9. § (5)–(6) bekezdését a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
-[^32]: A 9. § (7) bekezdése a 23/2012. (VIII. 6.) NGM rendelet 9. § 19. pontja szerint módosított szöveg.
+[^47]: A 9. § a 44/2014. (XII. 30.) NGM rendelet 9. §-ával megállapított szöveg.
