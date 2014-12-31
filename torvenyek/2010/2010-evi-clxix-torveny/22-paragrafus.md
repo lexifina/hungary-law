@@ -1,5 +1,0 @@
-22. § (1) Az Egészségbiztosítási Alap fejezet, 2. cím, 3. alcím, 1. Gyógyító-megelőző ellátás jogcím-csoporton belül az 1–18. jogcímek között, az 5. Gyógyászati segédeszköz támogatás jogcím-csoporton belül a jogcímek között, valamint a 4. Gyógyszertámogatás jogcím-csoport 1–2. és 6. jogcímei között az egészségbiztosításért felelős miniszter az államháztartásért felelős miniszter egyetértésével átcsoportosíthat.
-
-(2) Az Országgyűlés felhatalmazza az egészségbiztosításért felelős minisztert, hogy az E. Alap kezelőjének javaslatára a 26. §-ban a pénzbeli ellátások körében meghatározott méltányossági keretösszegek között átcsoportosítson.
-
-(3) Az Egészségbiztosítási Alap fejezetnél a fejezetet irányító szerv hatáskörében eljáró egészségbiztosításért felelős miniszter tervezési, az e törvényben említettek kivételével az előirányzat-módosítási, valamint az előirányzat-felhasználási, beszámolási, információszolgáltatási kötelezettségét és jogát az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) főigazgatója gyakorolja.

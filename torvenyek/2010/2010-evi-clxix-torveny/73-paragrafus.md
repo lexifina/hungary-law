@@ -1,1 +1,0 @@
-73. § A mozgóképről szóló 2004. évi II. törvény 13. §-ának (2) bekezdésében meghatározott gyártási költségvetési értékhatár a 2011. évben magyar filmalkotás esetén 282,0 millió forint, magyar részvételű koprodukciós filmalkotás esetén 522,0 millió forint.

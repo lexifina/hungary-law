@@ -1,1 +1,0 @@
-28. § Az Egészségbiztosítási Alap fejezet, 2. cím, 4. alcím, 4. jogcím-csoport, 6. GYED-ben részesülők utáni nyugdíjbiztosítási járulék címen az Ny. Alapnak átadott pénzeszköz jogcím előirányzatból az OEP havonta utalást teljesít az Ny. Alap részére az éves előirányzat havi időarányos mértékének megfelelően a tárgyhó 15. napjáig.

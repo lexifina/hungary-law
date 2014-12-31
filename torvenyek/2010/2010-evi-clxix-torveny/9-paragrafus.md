@@ -1,9 +1,0 @@
-9. § (1) Az állami tulajdonú gazdasági társaságoktól 2011. évben elvont osztalék a központi költségvetés központosított bevétele, amelyet Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetben kell elszámolni.
-
-(2) Az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló 2005. évi XV. törvény (a továbbiakban: Üht.) által létrehozott kibocsátási egységek értékesítéséből 2011. évben várható költségvetési bevétel Kormány által meghatározott hányada hazai, illetve harmadik országokban megvalósuló, üvegházhatású gázkibocsátás csökkentésével kapcsolatos intézkedésekre, valamint hazai és harmadik országokban bekövetkező éghajlatváltozás kezelésére felhasználható. 2011. évben a bevételből 560,0 millió forint kerül átcsoportosításra a fejlődő országok részére nyújtandó klímafinanszírozásra a Külügyminisztérium fejezetben az 5. cím 22. Nemzetközi fejlesztési együttműködés és humanitárius segélyezés alcímen belül az átcsoportosításkor létrehozandó Üvegházhatású gázkibocsátás csökkentésével, valamint az éghajlatváltozás kezelésével kapcsolatos támogatások jogcím-csoportra.
-
-(3) Az Üht. által létrehozott kibocsátási egységek értékesítéséből származó bevételt Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 1. cím, 1. Értékesítési bevételek alcímen, külön jogcím-csoportként kell elszámolni.
-
-(4) Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény (a továbbiakban: Éhvt.) alapján létrehozott kiotói egységek átruházásából befolyó bevételt a Nemzeti Fejlesztési Minisztérium fejezet bevételeként kell elszámolni.
-
-(5) Az Országgyűlés felhatalmazza az energiapolitikáért felelős minisztert, hogy az Éhvt. alapján létrehozott kiotói egységek átruházásából befolyt bevételnek az Éhvt. 10. § (3) és (4) bekezdésében meghatározott célok szerinti felhasználására nyitott előirányzatot az értékesítésből befolyt teljes bevétellel megnövelje.
