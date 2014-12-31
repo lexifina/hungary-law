@@ -1,0 +1,1 @@
+Az európai területi társulásról szóló 2014. évi LXXV. törvény 20. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 85. § 3. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
