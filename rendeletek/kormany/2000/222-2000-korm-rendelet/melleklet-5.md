@@ -160,6 +160,6 @@
 
 ## Összesen:
 
-5–6. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^235]
+5–6. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^239]
 
-[^235]: Az 5–6. számú mellékletet a 345/2010. (XII. 28.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^239]: Az 5–6. számú mellékletet a 345/2010. (XII. 28.) Korm. rendelet 11. §-a hatályon kívül helyezte.

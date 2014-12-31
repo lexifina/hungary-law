@@ -268,6 +268,6 @@
 
 | 3. Halasztott bevételek |
 
-2. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^232]
+2. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^236]
 
-[^232]: A 2. számú melléklet a 114/2012. (VI. 8.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^236]: A 2. számú melléklet a 114/2012. (VI. 8.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
