@@ -16,7 +16,7 @@ b) a zálogjegy birtokosa részére kifizetett, zálogjegyen szereplő pénzöss
 
 c) a közraktári szerződésből eredő egyéb szolgáltatások díjai összegével, valamint a közraktári tevékenységből eredően a letevővel szemben fennálló, a közraktárat megillető egyéb (pl. értékesítési és biztosítási költségek összegére vonatkozó) követeléssel,
 
-d) az árujegy birtokosát megillető – részére kifizetett, illetve bírói letétbe helyezett – pénzösszeggel.
+d)[^2] az árujegy birtokosát megillető – részére kifizetett, illetve bírósági vagy közjegyzői letétbe helyezett – pénzösszeggel.
 
 (6) A Kt. 28. §-ának (4) bekezdése szerinti – kölcsönönkénti – fedezetminősítés során, amennyiben
 
@@ -29,3 +29,5 @@ b) a közraktárnál elhelyezett áru értéke nagyobb, mint a zálogkölcsönt 
 (8) Ha a zálogkölcsön követelés összegét és annak kamatát nem fedezi a közraktárnál elhelyezett áru értékesítése során befolyt ellenérték, a fennmaradó követelés összege után a letevő (adós) minősítése alapján a Tv. 55. §-a szerint értékvesztést kell elszámolni.
 
 (9) A (7) bekezdés szerinti elszámolást megelőzően a zálogjegy után a (6) bekezdés szerint korábban elszámolt értékvesztést vissza kell írni.
+
+[^2]: A 4. § (5) bekezdés d) pontja a 362/2014. (XII. 30.) Korm. rendelet 28. §-a szerint módosított szöveg.
