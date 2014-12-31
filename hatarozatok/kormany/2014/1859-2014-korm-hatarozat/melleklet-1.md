@@ -4,6 +4,8 @@
 
 ## 3. elfogadja a 4. mellékletben meghatározott projektek kiemelt projektként történő nevesítését,
 
-## 4. visszavonja az Államreform Operatív Program és az Elektronikus Közigazgatás Operatív Program keretében végrehajtásra kerülő projektek jogutódlásáról, az Államreform Operatív Program 2011–2013. évekre szóló akciótervének módosításáról, valamint az Elektronikus Közigazgatás Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló 1452/2014. (VIII. 1.) Korm. határozat 2. pont b) alpontját, 5. és 6. pontját, valamint 4. és 5. mellékletét.
+## 4.[^2]
 
 1. melléklet az 1859/2014. (XII. 30.) Korm. határozathoz
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
