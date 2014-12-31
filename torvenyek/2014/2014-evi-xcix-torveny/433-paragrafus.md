@@ -1,3 +1,3 @@
 ## 106. Az egyes törvényeknek a kormányzati szerkezetalakítással összefüggő módosításáról szóló 2014. évi XXXV. törvény hatályon kívül helyezése
 
-433. § Hatályát veszti az egyes törvényeknek a kormányzati szerkezetalakítással összefüggő módosításáról szóló 2014. évi XXXV. törvény.
+433. §
