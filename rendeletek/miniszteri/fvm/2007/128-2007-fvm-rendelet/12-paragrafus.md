@@ -1,8 +1,8 @@
-## 11/D. §[^27] E rendeletnek a föld használatával összefüggő egyes agrártámogatásokra vonatkozó miniszteri rendeletek módosításáról szóló 11/2014. (II. 17.) VM rendelettel [a továbbiakban: 11/2014. (II. 17.) VM rendelet] megállapított 6/A. § (2) bekezdés a) pontját a 11/2014. (II. 17.) VM rendelet hatálybalépésekor[^28] folyamatban lévő bírósági felülvizsgálati ügyekben is alkalmazni kell.
+## 11/E. §[^30] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási tárgyú rendeletek módosításáról szóló 12/2014. (XII. 30.) MvM rendelettel [a továbbiakban: 12/2014. (XII. 30.) MvM rendelet] megállapított 6. § b) pontot a 12/2014. (XII. 30.) MvM rendelet hatálybalépésekor[^31] folyamatban lévő ügyekben, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
 12. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 38. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^27]: A 11/D. §-t a 11/2014. (II. 17.) VM rendelet 2. § (2) bekezdése iktatta be.
-[^28]: A hatálybalépés időpontja 2014. február 18.
+[^30]: A 11/E. §-t a 12/2014. (XII. 30.) MvM rendelet 4. §-a iktatta be.
+[^31]: A hatálybalépés időpontja 2014. december 31.
