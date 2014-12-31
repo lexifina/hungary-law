@@ -4,7 +4,7 @@
 
 (2) A házipénztárból felvett készpénzelőleggel a készpénzt felvevőnek el kell számolnia a költségvetési szerv belső szabályzatában meghatározottak szerint.
 
-(3)[^373] Az államháztartás központi alrendszerébe tartozó költségvetési szerv
+(3)[^382] Az államháztartás központi alrendszerébe tartozó költségvetési szerv
 
 a) a közfoglalkoztatásban résztvevők bére, valamint munkába járáshoz kapcsolódó közlekedési költségtérítései,
 
@@ -26,4 +26,4 @@ i) az a)–h) pont szerinti kiadásokra a foglalkoztatottaknak elszámolási kö
 
 készpénzben történő teljesítésére igényelheti – a költségvetési szerv pénzkezelési szabályzatában meghatározott házipénztári keret nagyságára is figyelemmel – készpénz felvételét a Kincstártól, és teljesíthet készpénzben kifizetést.
 
-[^373]: Az Ávr. 148. § (3) bekezdése a 159/2014. (VI. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^382]: Az Ávr. 148. § (3) bekezdése a 159/2014. (VI. 30.) Korm. rendelet 3. §-ával megállapított szöveg.

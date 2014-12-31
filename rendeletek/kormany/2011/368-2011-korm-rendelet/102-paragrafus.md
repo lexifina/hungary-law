@@ -1,4 +1,4 @@
-102. § (1)[^233] A központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásról az igénylés évében történő lemondás esetén a költségvetési támogatás módosítására irányuló kérelmet a Kincstárnak kell megküldeni. A kérelemhez csatolni kell a visszafizetés teljesítéséről szóló pénzügyi szolgáltatói igazolást, kivéve
+102. § (1)[^242] A központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásról az igénylés évében történő lemondás esetén a költségvetési támogatás módosítására irányuló kérelmet a Kincstárnak kell megküldeni. A kérelemhez csatolni kell a visszafizetés teljesítéséről szóló pénzügyi szolgáltatói igazolást, kivéve
 
 a) a nettó finanszírozás keretében folyósított költségvetési támogatásokról történő lemondás esetén, vagy
 
@@ -8,7 +8,7 @@ b) ha a kötelezett a lemondással egyidejűleg részletfizetés iránti kérelm
 
 (3) A helyi önkormányzatokért felelős miniszter a kérelmet – a (4) bekezdésben foglalt kivétellel – harminc napon belül, a Kincstáron keresztül igazolja vissza.
 
-(4)[^234] A tárgyév november 30-a után benyújtott kérelmekben szereplő módosítási igény nem kerül átvezetésére. A kérelem benyújtója az éves költségvetési beszámolójában visszafizetési kötelezettségként köteles kimutatni a kérelemben szereplő összeget.
+(4)[^243] A tárgyév november 30-a után benyújtott kérelmekben szereplő módosítási igény nem kerül átvezetésére. A kérelem benyújtója az éves költségvetési beszámolójában visszafizetési kötelezettségként köteles kimutatni a kérelemben szereplő összeget.
 
-[^233]: Az Ávr. 102. § (1) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 12. §-ával megállapított, nyitó szövegrésze a 153/2014. (VI. 18.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^234]: Az Ávr. 102. § (4) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 30. § (2) bekezdés 4. pontja szerint módosított szöveg.
+[^242]: Az Ávr. 102. § (1) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 12. §-ával megállapított, nyitó szövegrésze a 153/2014. (VI. 18.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^243]: Az Ávr. 102. § (4) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 30. § (2) bekezdés 4. pontja szerint módosított szöveg.
