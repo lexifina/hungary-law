@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-37-20-0
 | 2012-03-20 | 2004-37-20-0M.9 | 24/2010. (V. 7.) EüM rendelet |
 | 2013-02-08 | 2004-37-20-0M.10 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2014-04-21 | 2004-37-20-0M.11 | 24/2010. (V. 7.) EüM rendelet |
+| 2014-12-31 | 2004-37-20-0M.12 | 118/2008. (V. 8.) Korm. rendelet |
