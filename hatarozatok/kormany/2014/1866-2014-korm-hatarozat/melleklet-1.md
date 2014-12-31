@@ -14,6 +14,8 @@
 
 ## Határidő: azonnal
 
-## 4. visszavonja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról szóló 1578/2014. (X. 13.) Korm. határozatot.
+## 4.[^1]
 
 1. melléklet az 1866/2014. (XII. 30.) Korm. határozathoz
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
