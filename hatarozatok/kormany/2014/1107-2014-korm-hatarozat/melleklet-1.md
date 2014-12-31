@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető államtitkár, nemzeti fejlesztési miniszter, Magyar Tudományos Akadémia elnöke a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2014. december 15.
+## Határidő: 2014. december 15., a Miniszterelnökség fejezet, 4. Magyar Nemzeti Digitális Archívum és Filmintézet cím javára átcsoportosított 80,7 millió forint tekintetében 2015. június 30.[^1]
 
 1. melléklet az 1107/2014. (III. 6.) Korm. határozathoz
 
@@ -97,3 +97,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1868/2014. (XII. 31.) Korm. határozat 3. pontja szerint módosított szöveg.
