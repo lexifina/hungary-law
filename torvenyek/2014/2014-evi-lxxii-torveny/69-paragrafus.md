@@ -1,0 +1,3 @@
+69. § A Bnytv. 85. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A szakértői nyilvántartó szerv a nyomozó hatóság, az ügyészség vagy a bíróság rendelkezésére, egyedi ügyben a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett ujj- és tenyérnyomatot, valamint DNS-profilt automatikus találati adathozzáférés útján összehasonlítja az együttműködő tagállam nyilvántartásaiban kezelt ujj- és tenyérnyomatokkal, valamint DNS-profilokkal. Egyedi ügyben kizárólag bűnmegelőzési célból a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett ujj- és tenyérnyomatnak az automatikus találati adathozzáférés útján történő összehasonlítását kérheti a bűnüldözési feladatot ellátó szerv is.”

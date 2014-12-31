@@ -1,0 +1,5 @@
+## 13. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
+
+46. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény (a továbbiakban: Bnytv.) 5. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Ha a bűnügyi nyilvántartó szerv EGT-állam, harmadik ország vagy nemzetközi szervezet tájékoztatása alapján arról értesül, hogy a személyiadat- és lakcímnyilvántartás hatálya alá nem tartozó érintett személyazonosító adatai a személyazonosító adatok és fényképek nyilvántartásában szereplő adatoktól eltérnek, akkor a személyazonosító adatok változását haladéktalanul átvezeti a személyazonosító adatok és fényképek nyilvántartásában.”

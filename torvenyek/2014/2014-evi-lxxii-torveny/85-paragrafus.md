@@ -1,0 +1,3 @@
+85. § A Btk. 97. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A büntetőjogi felelősség megállapítására, a kiszabott büntetésre és az alkalmazott intézkedésre vonatkozó adatokat közhiteles hatósági nyilvántartás tartalmazza a törvényben meghatározott időpontig, ezt követően hátrányos jogkövetkezmény az elítélés miatt már nem állapítható meg az elítélttel szemben. A visszaesés és az ahhoz fűződő, e törvényben meghatározott hátrányos jogkövetkezmények a büntetőeljárásról szóló 1998. évi XIX. törvény 178/A. § (2) bekezdése szerint, az újabb bűncselekmény elkövetéséhez legközelebbi időpontban a bűnügyi nyilvántartásból beszerzett adatok alapján akkor is megállapítandók, ha utóbb ezek az adatok törlésre kerültek.”
