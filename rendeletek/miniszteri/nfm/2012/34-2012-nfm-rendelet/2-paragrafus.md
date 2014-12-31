@@ -4,15 +4,19 @@
 
 ## 2. § E rendelet alkalmazásában:
 
-1. állami támogatás: az Európai Unió működéséről szóló Szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti támogatás és az EK Szerződés 87. és 88. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet (a továbbiakban: 1998/2006/EK bizottsági rendelet) 2. cikke szerinti csekély összegű támogatás,
+1.[^1] állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás,
 
 2. áruforgalmat bonyolító kikötő: az úszólétesítmények kikötésére kijelölt legalább 2 hektáros partterület, amely alkalmas a vízi közlekedéssel, árukezeléssel, áruátrakással és -elosztással kapcsolatos tevékenység végzésére,
 
+2a.[^2] átlátható formában nyújtott támogatás: olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom,
+
 3. beruházási támogatás: az e rendelet szerinti induló beruházáshoz nyújtott, európai uniós forrásból finanszírozott támogatás,
 
-4. bérköltség: az EK-Szerződés 87. és 88. cikkének a foglalkoztatásra nyújtott állami támogatásra történő alkalmazásáról szóló, 2002. december 5-i 2204/2002/EK bizottsági rendelet 2. cikkének i) pontja szerinti bérköltség,
+4.[^3] diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb,
 
-5. elszámolható költség: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 6. pontja szerinti költség,
+4a.[^4] egy és ugyanazon vállalkozás: az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
+
+5.[^5] elszámolható költség: az Atr. 2. § 6. pontja szerinti költség,
 
 6. fenntartási időszak: a beruházás üzembe helyezésének időpontjától számított 5 év, kis- és középvállalkozás esetében 3 év,
 
@@ -26,7 +30,7 @@ b) a létesítmény tevékenységében a közlekedési módot váltó árumennyi
 
 9. ipari park: az ipari parkokról szóló 297/2011. (XII. 22.) Korm. rendelet szerint „Ipari Park” címet elnyert szervezet,
 
-10.[^1]
+10.[^6]
 
 11. kapcsolódó vállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 4. § (3)–(6) bekezdése szerinti vállalkozások,
 
@@ -38,7 +42,7 @@ b) a létesítmény tevékenységében a közlekedési módot váltó árumennyi
 
 15. regionális logisztikai központ: árutovábbítási célú létesítmény, amely területének összes fedett raktári kapacitása a pályázat benyújtását megelőző üzleti évben legalább 5 ezer m2,
 
-16. saját forrás: a kedvezményezett által a projekthez igénybe vett állami támogatásnak nem minősülő forrás,
+16.[^7] saját forrás: a kedvezményezett által a projekthez igénybe vett, állami támogatást nem tartalmazó forrás,
 
 17. szinten tartást szolgáló eszköz: a kedvezményezett által már használt tárgyi eszközt, immateriális javakat anélkül kiváltó eszköz, hogy a kiváltás a nyújtott szolgáltatás, illetve a szolgáltatási folyamat alapvető változását eredményezné,
 
@@ -48,4 +52,10 @@ b) a létesítmény tevékenységében a közlekedési módot váltó árumennyi
 
 20. TEU (twenty-foot equivalent unit): a nemzetközi szabványügyi szervezet ISO IC(C) típusú konténeregysége.
 
-[^1]: A 2. § 10. pontját az 1/2013. (XII. 30.) ME rendelet 8. § (6) bekezdése hatályon kívül helyezte.
+[^1]: A 2. § 1. pontja a 11/2014. (XII. 30.) MvM rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 2a. pontját a 11/2014. (XII. 30.) MvM rendelet 35. § (2) bekezdése iktatta be.
+[^3]: A 2. § 4. pontja a 11/2014. (XII. 30.) MvM rendelet 35. § (3) bekezdésével megállapított szöveg.
+[^4]: A 2. § 4a. pontját a 11/2014. (XII. 30.) MvM rendelet 35. § (3) bekezdése iktatta be.
+[^5]: A 2. § 5. pontja a 11/2014. (XII. 30.) MvM rendelet 35. § (3) bekezdésével megállapított szöveg.
+[^6]: A 2. § 10. pontját az 1/2013. (XII. 30.) ME rendelet 8. § (6) bekezdése hatályon kívül helyezte.
+[^7]: A 2. § 16. pontja a 11/2014. (XII. 30.) MvM rendelet 35. § (4) bekezdésével megállapított szöveg.

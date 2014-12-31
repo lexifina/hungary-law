@@ -1,6 +1,6 @@
-## 22. §[^4]
+## 22. §[^17]
 
-1. melléklet a 34/2012. (VI. 8.) NFM rendelethez[^5]
+1. melléklet a 34/2012. (VI. 8.) NFM rendelethez[^18]
 
 ## Támogatási intenzitások
 
@@ -44,5 +44,5 @@
 
 | 8. | Budapest | 10% | 45% | 45% | 45% |
 
-[^4]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet az 1/2013. (XII. 30.) ME rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^17]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: Az 1. melléklet az 1/2013. (XII. 30.) ME rendelet 8. § (5) bekezdésével megállapított szöveg.
