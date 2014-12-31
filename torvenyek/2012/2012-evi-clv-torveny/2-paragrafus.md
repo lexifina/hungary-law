@@ -1,1 +1,0 @@
-2. § A központi alrendszer kiadási és bevételi előirányzatainak teljesítését az 1. melléklet költségvetési fejezetenként, címenként, alcímenként, jogcím-csoportonként, jogcímenként, előirányzat-csoportonként és kiemelt előirányzatonként tartalmazza a 2011. december 31-én fennálló besorolási rendnek megfelelően.

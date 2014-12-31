@@ -1,5 +1,0 @@
-9. § (1) Az Országgyűlés jóváhagyja, hogy a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) – az állami vagyon felügyeletéért felelős miniszter és az államháztartásért felelős miniszter döntése alapján – 2011. év folyamán 9 275,6 millió forint összegű tulajdonosi kölcsönt nyújtott állami tulajdonú gazdasági társaságok részére.
-
-(2) Az Országgyűlés jóváhagyja, hogy az MNV Zrt. 2011. évben a Malév Magyar Légiközlekedési Zrt. tőkerendezéséből 9 978,9 millió forint összeget pénzforgalommal nem járó, tulajdonosi kölcsönnyújtásból származó tőke- és kamatkövetelés beszámításával teljesítette.
-
-(3) Az Országgyűlés jóváhagyja, hogy 2011. évben 2 521,5 millió forint bruttó forgalmi értékű ingyenes vagyonátruházásról történt döntés, amelyből a Kötv. 6. § (3) bekezdés d) pontja szerinti ingyenes vagyonátruházás 2 148,3 millió forint volt. A 2011. évben megvalósult ingyenes vagyonátruházás bruttó forgalmi értéke 729,1 millió forintot tett ki, amelyből a Kötv. 6. § (3) bekezdés d) pontja szerinti ingyenes vagyonátruházás 355,9 millió forint volt.
