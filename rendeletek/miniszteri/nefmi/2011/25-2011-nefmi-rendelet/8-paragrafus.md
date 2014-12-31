@@ -1,5 +1,0 @@
-8. § (1) Az AJKP-ban részt vevő igénylő az általa fenntartott középiskola kilencedik előkészítő évfolyamos tanulói után támogatást (a továbbiakban: középiskolai támogatás) igényelhet, ha a középiskola az 5. § (1) bekezdésében meghatározott középiskolai kollégiummal vagy kollégiumi intézményegységet is működtető középfokú intézménnyel a 17/2004. (V. 20.) OM rendelet 3. számú melléklete szerinti partneri együttműködésről szóló megállapodással rendelkezik és vállalja, hogy a 11/1994. (VI. 8.) MKM rendelet 39/H. §-ában és a 17/2004. (V. 20.) OM rendelet 3. számú mellékletében meghatározott követelmények szerint szervezi meg a tanulók nevelését, oktatását.
-
-(2) A középiskolai támogatás összege legfeljebb 315 000 Ft/fő/év a 2011/2012. tanévben időarányosan 4 hónapra, a 2011. szeptember 1. és 2011. december 31. közötti időszakra.
-
-(3) A középiskolai támogatás a 17/2004. (V. 20.) OM rendeletben meghatározott többlet-tevékenységekre, emberi erőforrásokkal kapcsolatos költségekre, a célcsoport számára biztosított programokra és támogatásokra, eszközbeszerzésre, kiegészítő szakmai szolgáltatás nyújtására fordítható.
