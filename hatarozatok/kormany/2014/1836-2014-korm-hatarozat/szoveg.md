@@ -66,6 +66,6 @@ Határidő: folyamatos
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8. Hatályát veszti a nukleáris energia hazai alkalmazásával, annak fejlesztésével kapcsolatos stratégiai kérdéseket vizsgáló Nukleáris Energia Kormánybizottság létrehozásáról, összetételének és feladatainak meghatározásáról szóló 1195/2012. (VI. 18.) Korm. határozat.
+8–9.[^1]
 
-9. A Kormány visszavonja a Paksi Atomerőmű telephelyén létesülő új atomerőművi blokkal (blokkokkal) kapcsolatos további feladatok meghatározásáról szóló 1194/2012. (VI. 18.) Korm. határozatot.
+[^1]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
