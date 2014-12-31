@@ -32,7 +32,7 @@ ec) a közműellátás
 
 ## a használatbavételi engedély megkéréséig biztosítható-e,
 
-f)[^19] a tervezőként megjelölt személy (ideértve a társtervezőt, szakági tervezőt is), vállalkozás jogosult-e a kérelemben megjelölt építési tevékenységgel kapcsolatos építészeti-műszaki tervezésre,
+f)[^20] a tervezőként megjelölt személy (ideértve a társtervezőt, szakági tervezőt is), vállalkozás jogosult-e a kérelemben megjelölt építési tevékenységgel kapcsolatos építészeti-műszaki tervezésre,
 
 g) az építésügyi hatósági engedélykérelem jogszabályban előírt mellékletei rendelkezésre állnak-e és tartalmuk megfelel-e az a)–e) pont előírásainak,
 
@@ -54,10 +54,10 @@ c) engedélyezését a polgármester a településképi véleményében nem java
 
 (5) Az építési engedély iránti kérelemmel egy időben előterjesztett, a 17. § (4) bekezdése szerinti kérelmek esetén, a rájuk vonatkozó eljárási szabályokat az e fejezetben szabályozott eltérésekkel kell alkalmazni.
 
-(6)[^20] Az építésügyi hatóság azt a személyt, aki tervezői jogosultság nélkül, vállalkozás nyilvántartási jelölés nélkül végzett építési engedélyhez kötött építészeti-műszaki tervezési tevékenységet, 100 000 forintig terjedő közigazgatási bírsággal sújtja.
+(6)[^21] Az építésügyi hatóság azt a személyt, aki tervezői jogosultság nélkül, vállalkozás nyilvántartási jelölés nélkül végzett építési engedélyhez kötött építészeti-műszaki tervezési tevékenységet, 100 000 forintig terjedő közigazgatási bírsággal sújtja.
 
-(7)[^21] Az építésügyi hatóság a Ket. alapján az eljárást felfüggeszti, ha az eljárásban a környezetvédelmi és természetvédelmi felügyelőség szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek. A felfüggesztésről szóló végzésnek tartalmaznia kell a szakhatóságként eljáró környezetvédelmi és természetvédelmi felügyelőség megnevezését, valamint állásfoglalása rendelkező részét és indokolását.
+(7)[^22] Az építésügyi hatóság a Ket. alapján az eljárást felfüggeszti, ha az eljárásban a környezetvédelmi és természetvédelmi felügyelőség szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek. A felfüggesztésről szóló végzésnek tartalmaznia kell a szakhatóságként eljáró környezetvédelmi és természetvédelmi felügyelőség megnevezését, valamint állásfoglalása rendelkező részét és indokolását.
 
-[^19]: A 18. § (1) bekezdés f) pontja a 266/2013. (VII. 11.) Korm. rendelet 53. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^20]: A 18. § (6) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 53. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^21]: A 18. § (7) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 123. § a) pontja szerint módosított szöveg.
+[^20]: A 18. § (1) bekezdés f) pontja a 266/2013. (VII. 11.) Korm. rendelet 53. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^21]: A 18. § (6) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 53. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^22]: A 18. § (7) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 123. § a) pontja szerint módosított szöveg.

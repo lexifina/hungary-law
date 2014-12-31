@@ -14,7 +14,7 @@ c) az országos építési követelményektől való eltérés engedélyezési e
 
 a) a telepítési engedélyben tett kikötés, feltétel teljesítésének igazolását,
 
-b)[^38] az építési beruházás megvalósításához még szükséges a 29. § (1) bekezdés c)–g) pontja szerinti önálló eljárásban kiadott jogerős engedély megnevezését, iktatószámát és keltét, vagy az ÉTDR ügy- és iratazonosítóját,
+b)[^41] az építési beruházás megvalósításához még szükséges a 29. § (1) bekezdés c)–g) pontja szerinti önálló eljárásban kiadott jogerős engedély megnevezését, iktatószámát és keltét, vagy az ÉTDR ügy- és iratazonosítóját,
 
 c) az Étv. 53/F. § (1) bekezdésében meghatározott kereskedelmi építmény létesítése esetén az Étv. 53/F. § (2) bekezdése szerinti felmentést,
 
@@ -98,7 +98,7 @@ d) az eljáró ingatlanügyi hatósággal, ha a THSZ-ben telekalakítási enged�
 
 a) a jogerős döntést követően haladéktalanul tájékoztatást ad az ÉTDR mindenki által látható felületén a jogerős engedély tárgyáról és típusáról, továbbá
 
-b)[^39] jogerőre emelkedésére tekintet nélkül a Ket. szabályai szerint nyilvánosan közzéteszi azt az integrált építési engedély tárgyában hozott határozatot a telepítési engedély tárgyában hozott végzéssel együtt, valamint a felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást, amit az építésügyi hatósági engedély iránti kérelem tárgyában olyan eljárásban hozott, amelyben a szakhatóságként eljáró környezetvédelmi és természetvédelmi felügyelőség a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
+b)[^42] jogerőre emelkedésére tekintet nélkül a Ket. szabályai szerint nyilvánosan közzéteszi azt az integrált építési engedély tárgyában hozott határozatot a telepítési engedély tárgyában hozott végzéssel együtt, valamint a felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást, amit az építésügyi hatósági engedély iránti kérelem tárgyában olyan eljárásban hozott, amelyben a szakhatóságként eljáró környezetvédelmi és természetvédelmi felügyelőség a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
 
-[^38]: A 35. § (3) bekezdés b) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (7) bekezdés f) pontja szerint módosított szöveg.
-[^39]: A 35. § (13) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 123. § a) pontja szerint módosított szöveg.
+[^41]: A 35. § (3) bekezdés b) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (7) bekezdés f) pontja szerint módosított szöveg.
+[^42]: A 35. § (13) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 123. § a) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@ c) a már ismert ügyfelet.
 
 (4) A másodfokú hatóság a jogorvoslati eljárásban, amennyiben a jogorvoslati kérelem az első fokú hatóság határozatába foglalt szakhatósági állásfoglalás tartalma ellen irányul, az eljárás megindulását követően öt napon belül megkeresi a 6. melléklet szerinti, másodfokon eljáró szakhatóságot az állásfoglalásának beszerzése érdekében.
 
-(5)[^104] A másodfokú építésügyi hatóság az eljárás megindulását követően öt napon belül, amennyiben a fellebbezés tartalma
+(5)[^108] A másodfokú építésügyi hatóság az eljárás megindulását követően öt napon belül, amennyiben a fellebbezés tartalma
 
 a) érinti a települési önkormányzat polgármesterének az első fokú határozatba beépült településképi véleményét, és amennyiben
 
@@ -24,7 +24,7 @@ b) érinti a területi építészeti-műszaki tervtanácsnak az első fokú hat�
 
 véleményét, aki, illetve amely azt tizenöt napon belül köteles megadni.
 
-(6)[^105] A másodfokú építésügyi hatóság az állami főépítész, illetve az országos főépítész (5) bekezdés a) és b) pontja szerinti véleményt az eljárásában bizonyítékként veszi figyelembe.
+(6)[^109] A másodfokú építésügyi hatóság az állami főépítész, illetve az országos főépítész (5) bekezdés a) és b) pontja szerinti véleményt az eljárásában bizonyítékként veszi figyelembe.
 
 (7) Ha a döntés meghozatalához szükséges adat nem áll rendelkezésre, a másodfokú hatóság legfeljebb nyolcnapos teljesítési határidő kitűzésével, egy alkalommal az eljárás megindulásától számított öt napon belül hiánypótlásra hívja fel a fellebbezőt.
 
@@ -34,5 +34,5 @@ a) a jogorvoslati eljárás megindulásától számított harminc napon belül h
 
 b) az utolsó szakhatósági állásfoglalás vagy dokumentum beérkezésétől számított tizenöt napon belül hozza meg, ha az eljárásba a (4) bekezdés szerinti szakhatóságot be kell vonni.
 
-[^104]: A 71. § (5) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (4) bekezdésével megállapított szöveg.
-[^105]: A 71. § (6) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 16. pontja szerint módosított szöveg. [E módosító rendelet ugyanezen pontjával elrendelt módosítás, amely szerint a „hatóság, az állami főépítész, illetve az országos főépítész” szövegrész helyébe a „hatóság az” szöveg lép, nem vezethető át.]
+[^108]: A 71. § (5) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (4) bekezdésével megállapított szöveg.
+[^109]: A 71. § (6) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 16. pontja szerint módosított szöveg. [E módosító rendelet ugyanezen pontjával elrendelt módosítás, amely szerint a „hatóság, az állami főépítész, illetve az országos főépítész” szövegrész helyébe a „hatóság az” szöveg lép, nem vezethető át.]

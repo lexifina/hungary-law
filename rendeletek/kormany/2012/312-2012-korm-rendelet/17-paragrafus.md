@@ -40,7 +40,7 @@ aa) a települési önkormányzat polgármesterének településképi vélemény
 
 ab)[^18] a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményét,
 
-b) az Étv. 53/F. § (1) bekezdésében meghatározott kereskedelmi építmény létesítése esetén az Étv. 53/F. § (2) bekezdése szerinti felmentést,
+b)[^19]
 
 c) az eljárási illeték, igazgatási szolgáltatási díj befizetésének igazolását.
 
@@ -72,3 +72,4 @@ b) a 4. § (4) bekezdése szerinti nyilatkozatokat, illetve az ügyben érintett
 
 [^17]: A 17. § (1a) bekezdését a 67/2013. (III. 8.) Korm. rendelet 18. § (1) bekezdése iktatta be.
 [^18]: A 17. § (6) bekezdés a) pont ab) alpontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 9. pontja szerint módosított szöveg.
+[^19]: A 17. § (6) bekezdés b) pontját a 77. § hatályon kívül helyezte.

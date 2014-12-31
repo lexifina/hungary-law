@@ -34,9 +34,9 @@ a) jogszabályban előírt esetekben
 
 aa) a települési önkormányzat polgármesterének településképi véleményét vagy
 
-ab)[^49] a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményét,
+ab)[^52] a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményét,
 
-b) az Étv. 53/F. § (1) bekezdésében meghatározott kereskedelmi építmény létesítése esetén az Étv. 53/F. § (2) bekezdése szerinti felmentést,
+b)[^53]
 
 c) az eljárási illeték, igazgatási szolgáltatási díj befizetésének igazolását.
 
@@ -62,4 +62,5 @@ a) ha a kérelem benyújtásakor rendelkezésre áll, az ügyben érintett szakh
 
 b) a 4. § (4) bekezdése szerinti nyilatkozatokat, és az ügyben érintett összes ismert ügyfélnek a fellebbezési jogról lemondó nyilatkozatát.
 
-[^49]: A 42. § (4) bekezdés a) pont ab) alpontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 7. pontja szerint módosított szöveg.
+[^52]: A 42. § (4) bekezdés a) pont ab) alpontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 7. pontja szerint módosított szöveg.
+[^53]: A 42. § (4) bekezdés b) pontját a 77. § hatályon kívül helyezte.

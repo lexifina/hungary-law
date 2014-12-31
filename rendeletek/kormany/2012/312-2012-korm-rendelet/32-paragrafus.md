@@ -14,7 +14,7 @@ d) az előzetes régészeti dokumentációt és a földmunkákat bemutató terve
 
 e) ha a kérelem benyújtásakor rendelkezésre áll a 29. § (1) bekezdése szerinti eljárásokban hozott döntések megnevezését, iktatószámát és keltét, vagy az ÉTDR ügy- és iratazonosítóját,
 
-f) az Étv. 53/F. § (1) bekezdésében meghatározott kereskedelmi építmény létesítése esetén az Étv. 53/F. § (2) bekezdése szerinti felmentést,
+f)[^40]
 
 g) az eljárási illeték, igazgatási szolgáltatási díj megfizetésének igazolását,
 
@@ -23,3 +23,5 @@ h) a településrendezési szerződés másolatát és a településrendezési e
 (3) A THSZ-ben a hatóságon kívül a szakhatóságok szakhatósági eljárásukban a Ket. szerinti egyszeri tartalmi hiánypótlási felhívást bocsáthatnak ki a szakterületükre vonatkozó dokumentáció hiányossága esetén a szakhatósági megkeresésétől számított öt napon belül.
 
 (4) A THSZ-ben a településrendezési eszköz módosításának, elfogadásának egyeztetési szakaszát a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet szerint e fejezetben foglalt eltérésekkel kell lefolytatni.
+
+[^40]: A 32. § (2) bekezdés f) pontját a 77. § hatályon kívül helyezte.
