@@ -1,25 +1,21 @@
-10. § (1) A támogatás akkor vehető igénybe, ha a kedvezményezett kötelezettséget vállal arra, hogy a beruházást annak befejezésétől számított legalább öt évig, kis- és középvállalkozás esetében legalább három évig fenntartja az érintett régióban.
+## 10. § Nem nyújtható támogatás
 
-(2) Az (1) bekezdésben megfogalmazott követelmény nem akadályozza a gyors technológiai változások miatt a meghatározott fenntartási időszak alatt korszerűtlenné vált eszköz cseréjét, ha a fenntartási időszak alatt a gazdasági tevékenység fenntartása az érintett régióban biztosított. A korszerűtlenné vált üzem, illetve eszköz cseréjét követő fenntartási időszakban a kedvezményezett az üzem vagy a fejlesztés cseréjére támogatásban nem részesülhet.
+a) acélipari tevékenységhez,
 
-(3) A támogatás akkor vehető igénybe, ha a kedvezményezett a tárgyi eszközök és az immateriális javak beszerzésekor, illetve felvásárlás esetén az elszámolható költségek legalább 25%-át saját forrásból biztosítja.
+b) hajógyártási tevékenységhez,
 
-(4) Az elszámolható költséget a szokásos piaci áron kell figyelembe venni, ha az a kedvezményezett és a vele kapcsolt vállalkozási viszonyban lévő személy között a szokásos piaci ártól eltérő áron kötött szerződés alapján merült fel.
+c) szénipari tevékenységhez,
 
-(5) A beruházáshoz kapcsolódóan csak az annak megvalósításához feltétlenül szükséges ingatlan megvásárlásának költsége számolható el.
+d) szintetikusszál-ipari tevékenységhez,
 
-(6) A vissza nem térítendő támogatás igénybevételével beszerzett tárgyi eszközök a fenntartási időszak végéig kizárólag a támogatási szerződésben és a pályázatban meghatározott céloknak megfelelően hasznosíthatók.
+e) ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához, vagy a kapcsolódó infrastruktúrához,
 
-(7) Regionális beruházási és foglalkoztatási támogatás nem nyújtható e rendelet alapján azon projektekhez, amelyek esetében (az előkészítő tanulmányok kivételével) a pályázati program közzététele előtt merültek fel költségek.
+f) energiatermelési, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
 
-(8) Nem nyújtható támogatás a következő költségekre:
+g) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) meghatározott akvakultúra-termékek termelését, feldolgozását és értékesítését szolgáló beruházáshoz,
 
-a) a szinten tartást szolgáló tárgyi eszközök bekerülési értéke, illetve vételára létesítmény felvásárlásakor,
+h) ha a beruházó a kérelem benyújtását megelőző két évben azonos vagy hasonló tevékenységet szüntetett meg az EGT területén, vagy a támogatási kérelem benyújtásakor – egyidejűleg benyújtott nyilatkozat alapján – tervezi, hogy azonos vagy hasonló tevékenységet szüntet meg az EGT területén a támogatási kérelemben szereplő beruházás befejezését követő két éven belül,
 
-b) a korábban már használatba vett olyan tárgyi eszköz bekerülési értéke, amelynek alapján a kedvezményezett, más gazdasági társaság vagy egyéni vállalkozó támogatást vett igénybe,
+i) szélessávú internet-szolgáltatást szolgáló beruházáshoz,
 
-c) olyan tárgyi eszköz bekerülési értéke, amelyet a kedvezményezett csődeljárás vagy felszámolás alatt álló társaságtól szerzett be,
-
-d) személygépkocsi bekerülési értéke,
-
-e) szállítási ágazatban a szállító berendezések (gördülőeszközök) bekerülési értéke.
+j) a 651/2014/EU bizottsági rendelet 2. cikk 91. pontja szerinti kutatási infrastruktúrához.

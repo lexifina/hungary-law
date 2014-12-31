@@ -1,21 +1,17 @@
-## 9. A vállalkozások számára a közösségi környezetvédelmi szabványok túlteljesítését, illetve közösségi szabványok hiányában a környezetvédelem szintjének emelését lehetővé tevő beruházási támogatás
+## azzal, hogy nem tekintendő a beruházás megkezdésének a földterület megvásárlása, ha az nem képezi a beruházás elszámolható költségét, valamint az előkészítő munka költségének felmerülése.
 
-11. § (1) A támogatott beruházásnak meg kell felelnie a következő feltételek egyikének:
+## 9. [^13] Az uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás
 
-a) a beruházás a közösségi szabványok túlteljesítése révén lehetővé teszi a kedvezményezett számára a tevékenységeiből eredő környezetvédelmi szint emelését, függetlenül az alkalmazandó közösségi szabványoknál szigorúbb kötelező nemzeti szabványok meglététől,
+11. § (1) Az uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) akkor nyújtható, ha a beruházás
 
-b) a beruházás lehetővé teszi a kedvezményezett számára a tevékenységeiből eredő környezetvédelmi szint emelését a közösségi szabványok hiányában.
+a) az uniós szabvány túlteljesítése révén lehetővé teszi a kedvezményezett számára a tevékenységéből eredő környezetvédelmi szint emelését, függetlenül az alkalmazandó uniós szabványoknál szigorúbb, kötelező nemzeti szabványok meglététől,
 
-(2) Nem nyújtható támogatás, ha a tervezett fejlesztések annak biztosítására irányulnak, hogy a társaság megfeleljen a már elfogadott, de még hatályban nem lévő közösségi szabványoknak.
+b) uniós szabvány hiányában lehetővé teszi a kedvezményezett számára a tevékenységéből eredő környezetvédelmi szint emelését,
 
-(3) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 35%-át. A támogatási intenzitás 20 százalékponttal növelhető a kisvállalkozásoknak, illetve 10 százalékponttal a középvállalkozásoknak nyújtott támogatások esetén.
+c) az elfogadott uniós szabványnak megfelelő új közúti, vasúti, belvízi vagy tengeri járművek beszerzésére irányul, feltéve, hogy a beszerzés a vonatkozó uniós szabvány hatálybalépése előtt történik, és annak kötelezővé válásakor nem válnak alkalmazandóvá a hatálybalépést megelőzően már megvásárolt járművekre, vagy
 
-(4) Az elszámolható költségek a vonatkozó közösségi szabványok által előírtnál magasabb szintű környezetvédelem eléréséhez szükséges többletköltségek, a működési előnyök és működési költségek figyelembevétele nélkül.
+d) meglévő közúti, vasúti, belvízi vagy tengeri jármű felújítására irányul, feltéve, hogy az uniós szabvány a jármű forgalomba helyezésekor még nem volt hatályban, és kötelezővé válásakor nem válik visszamenőleges hatállyal alkalmazandóvá az érintett járműre.
 
-(5) A (4) bekezdés alkalmazása szempontjából a beruházásnak a környezetvédelemhez közvetlenül kapcsolódó költségeit a 800/2008/EK bizottsági rendelet 18. cikk (6) bekezdése szerinti alternatív helyzetből kiindulva kell meghatározni.
+(2) Az (1) bekezdés a) és b) pontja szerinti támogatás nem nyújtható már elfogadott, de még hatályba nem lépett uniós szabványnak való megfelelés érdekében megvalósított beruházáshoz.
 
-(6) A támogatható beruházást tárgyi eszközökbe, illetve immateriális javakba történő beruházás formájában kell megvalósítani.
-
-(7) A közösségi szabványok hiányában a magasabb környezetvédelemi szint megvalósítását célzó beruházások esetében az alternatív helyzetet a 800/2008/EK bizottsági rendelet 18. cikk (8) bekezdése szerint kell meghatározni.
-
-(8) Más vállalkozás hulladéka gazdálkodásával kapcsolatos beruházásokhoz támogatás nem adható.
+[^13]: A 9. alcím (11–11/B. §) a 11/2014. (XII. 30.) MvM rendelet 54. §-ával megállapított szöveg.

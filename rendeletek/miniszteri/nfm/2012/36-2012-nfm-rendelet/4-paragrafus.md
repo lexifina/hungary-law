@@ -6,4 +6,6 @@ a) a pályázó működési támogatásának nem minősülő visszafizetési kö
 
 b) a pályázóknak nyújtott visszatérítendő támogatás.
 
-(2) A 800/2008/EK bizottsági rendelet, valamint az 1998/2006/EK bizottsági rendelet alapján kizárólag átlátható formában nyújtott támogatás nyújtható.
+(2)[^2] A 651/2014/EU bizottsági rendelet, valamint az 1407/2013/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+
+[^2]: A 4. § (2) bekezdése a 11/2014. (XII. 30.) MvM rendelet 51. §-ával megállapított szöveg.

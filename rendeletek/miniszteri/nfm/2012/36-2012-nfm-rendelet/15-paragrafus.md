@@ -1,11 +1,19 @@
-## 13. Nagy hatásfokú kapcsolt energiatermelésbe történő beruházáshoz nyújtott környezetvédelmi beruházási támogatás
+## 13. [^17] A nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás
 
-15. § (1) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 45%-át.
+15. § (1) Az újonnan létrehozott vagy modernizált kapacitásokhoz kapcsolódó nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 45%-át.
 
-(2) A támogatási intenzitás 20 százalékponttal növelhető a kisvállalkozásoknak, illetve 10 százalékponttal a középvállalkozásoknak nyújtott támogatások esetében.
+(2) A támogatási intenzitás a 11/A. § (2) és (3) bekezdése szerint növelhető.
 
-(3) Az elszámolható költségek a nagy hatásfokú kapcsolt-energiatermelő egység megvalósításához szükséges, a referencia-beruházáshoz viszonyított beruházási többletköltségek.
+(3) A támogatás abban az esetben nyújtható, ha
 
-(4) Az elszámolható költségek kiszámításához a 800/2008/EK bizottsági rendelet 18. cikk (6) és (7) bekezdésében meghatározott módszert kell alkalmazni a működési előnyök és működési költségek figyelmen kívül hagyása mellett.
+a) az új kapcsoltenergia-termelő egység az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelvben foglaltaknak megfelelően a nem kapcsolt energiatermeléshez viszonyítva összességében primerenergia-megtakarítást ér el,
 
-(5) Egy új kapcsoltenergia-termelő egységnek összességében primerenergia-megtakarítást kell elérnie a hasznos hőigényen alapuló kapcsolt energiatermelés belső energiapiacon való támogatásáról és a 92/42/EGK irányelv módosításáról szóló, 2004. február 11-i 2004/8/EK európai parlamenti és tanácsi irányelv és a 2004/8/EK európai parlamenti és tanácsi irányelv alkalmazásában a külön hő- és villamosenergia-termelésre vonatkozó egységes hatásfok-referenciaértékek megállapításáról szóló 2007/74/EK bizottsági határozat által meghatározott nem kapcsolt energiatermeléshez viszonyítva. Egy meglévő kapcsoltenergia-termelő egység fejlesztésének vagy egy meglévő erőművi egység kapcsoltenergia-termelő egységgé történő átalakításának az eredeti helyzethez viszonyítva primerenergia-megtakarítást kell eredményeznie.
+b) a beruházás egy meglévő kapcsoltenergia-termelő egység fejlesztésével vagy egy meglévő erőművi egység kapcsoltenergia-termelő egységgé történő átalakításával primerenergia-megtakarítást eredményez az erőművi egység fejlesztés vagy átalakítás előtti eredményéhez viszonyítva.
+
+(4) A támogatás keretében
+
+a) a támogatott beruházás költségének és egy azonos kapacitású hagyományos hő- vagy energiatermelő létesítmény beruházási költségének a különbsége,
+
+7 b) a nagy hatásfokú létesítmény hatásfokának növeléséhez szükséges beruházási költség
+
+[^17]: A 13. alcím (15. §) a 11/2014. (XII. 30.) MvM rendelet 55. §-ával megállapított szöveg.

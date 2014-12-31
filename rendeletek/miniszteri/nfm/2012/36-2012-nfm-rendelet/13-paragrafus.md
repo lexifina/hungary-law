@@ -1,11 +1,17 @@
-## 11. A kis- és középvállalkozások jövőbeli közösségi szabványokhoz idő előtt történő alkalmazkodásához nyújtott támogatásra vonatkozó szabályok
+## 12. §
 
-13. § (1) A kis- és középvállalkozások jövőbeli közösségi szabványokhoz idő előtt történő alkalmazkodásához nyújtott támogatás a kis- és középvállalkozások számára olyan beruházáshoz nyújtható, amely lehetővé teszi, hogy a kis- és középvállalkozás megfeleljen a környezetvédelem szintjét emelő, de még nem hatályos új közösségi szabványoknak.
+## 11. [^15] A jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás
 
-(2) Az (1) bekezdés szerinti beruházást a közösségi szabványok hatálybalépése előtt legalább egy évvel kell befejezni.
+13. § (1) A jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) olyan beruházáshoz nyújtható, amely lehetővé teszi, hogy a vállalkozás megfeleljen a környezetvédelem szintjét emelő, de még nem hatályos uniós szabványnak.
 
-(3) A támogatás során elszámolható költségnek a közösségi szabvány hatálybalépése előtti környezetvédelemi szinthez viszonyítva, a közösségi szabvány által előírt környezetvédelmi szint megvalósításához szükséges beruházási többletköltség minősül.
+(2) Az (1) bekezdés szerinti beruházást az uniós szabvány hatálybalépése előtt legalább egy évvel be kell fejezni.
 
-(4) Az elszámolható költségek kiszámításához a 800/2008/EK bizottsági rendelet 18. cikk (6) és (7) bekezdésében meghatározott módszert kell alkalmazni a működési előnyök és működési költségek figyelmen kívül hagyása mellett.
+(3) Ha a beruházás befejezése több mint három évvel az uniós szabvány hatálybalépése előtt történik, a támogatási intenzitás nem haladhatja meg kisvállalkozás esetén az elszámolható költségek 20%-át, középvállalkozás esetén az elszámolható költségek 15%-át, nagyvállalkozás esetén az elszámolható költségek 10%-át.
 
-(5) A támogatás támogatási intenzitása – ha a beruházás befejezése több mint három évvel a közösségi szabvány hatálybalépése előtt történik – a kisvállalkozások esetében nem haladhatja meg az elszámolható költségek 15%-át, a középvállalkozások esetében az elszámolható költségek 10%-át. Ha a beruházás befejezése a közösségi szabvány hatálybalépését megelőző három évben történik, a támogatás támogatási intenzitása kisvállalkozások esetében az elszámolható költség 10%-a.
+(4) Ha a beruházás befejezése legalább egy, de legfeljebb három évvel az uniós szabvány hatálybalépése előtt történik, a támogatási intenzitás nem haladhatja meg kisvállalkozás esetén az elszámolható költségek 15%-át, középvállalkozás esetén az elszámolható költségek 10%-át, nagyvállalkozás esetén az elszámolható költségek 5%-át.
+
+(5) A (3) és (4) bekezdés szerinti támogatási intenzitás a 11/A. § (3) bekezdése szerint növelhető.
+
+(6) A támogatás keretében a jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz közvetlenül kapcsolódó, a 11/B. § (2) és (3) bekezdése szerinti beruházási költség számolható el.
+
+[^15]: A 11. alcím (13. §) a 11/2014. (XII. 30.) MvM rendelet 55. §-ával megállapított szöveg.

@@ -1,19 +1,21 @@
-## 8. Regionális beruházási és foglalkoztatási támogatásra vonatkozó szabályok
+## 7. §
 
-8. § (1) E rendelet alapján regionális beruházási és foglalkoztatási támogatás csak abban az esetben nyújtható, ha a beruházás költségei a következő költségekből tevődnek össze:
+## 8. [^12] A regionális beruházási támogatás
 
-a) tárgyi eszközbe vagy immateriális javakba történő beruházás, amely új létesítmény létrehozásához, meglévő létesítmény bővítéséhez, egy létesítmény termelésének további új termékekkel történő diverzifikációjához vagy egy meglévő létesítmény termelési folyamatának alapvető megváltoztatásához kapcsolódik, vagy
+8. § (1) A regionális beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) igénybevételének feltétele, hogy a tervezett beruházás
 
-b) egy létesítményhez közvetlenül kapcsolódó befektetett eszközök beszerzése, ha a létesítmény bezárásra került vagy felvásárlás hiányában bezárásra került volna, és az eszközöket független beruházó vásárolja meg.
+a) olyan induló beruházásnak minősüljön, amelyet
 
-(2) A támogatási intenzitást a tárgyi eszközökbe és immateriális javakba történő beruházás elszámolható költségeinek hányadaként vagy közvetlenül a beruházási projekttel létrehozott munkahelyek esetén az új munkavállaló két éves becsült bérköltségének hányadaként vagy a két módszer együttes alkalmazásával – feltéve, hogy a támogatás nem lépi túl a kétfajta számítás alkalmazásából eredő kedvezőbb értéket – kell kiszámítani.
+aa) az Atr. 25. § (1) bekezdés a)–c) pontja szerinti régióban kis- és középvállalkozás vagy nagyvállalkozás, vagy
 
-(3) Az egyes, azonos elszámolható költségekkel rendelkező projektekhez nyújtható, bármely államháztartási forrásból származó összes támogatás – ideértve a projekthez nyújtott csekély összegű támogatásokat is – támogatási intenzitása nem haladhatja meg az Atr. 25. §-ában, valamint a (4) bekezdésben meghatározott mértékeket.
+ab) az Atr. 25. § (1) bekezdés d) pontja szerinti településen kis- és középvállalkozás, vagy
 
-(4) Ha egy vállalkozás a kis- és középvállalkozásokba történő kockázatitőke-befektetések előmozdítását célzó állami támogatásokról szóló közösségi iránymutatás alapján részesül állami támogatásnak minősülő kockázati tőkejuttatásban, a támogatási intenzitást az Atr. 5. § (2) bekezdése figyelembevételével kell meghatározni.
+b) olyan új gazdasági tevékenység végzésére irányuló induló beruházásnak minősüljön, amelyet az Atr. 25. § (1) bekezdés d) pontja szerinti településen nagyvállalkozás
 
-(5) A mezőgazdasági termékek feldolgozásához és forgalmazásához kapcsolódó beruházások esetében a maximális támogatási intenzitások a következők:
+## valósít meg.
 
-a) ha a kedvezményezett kis- és középvállalkozás, a támogatási intenzitás a nem a Közép-Magyarországi régióban megvalósuló projektek elszámolható költségeinek 50%-a, a Közép-Magyarországi régióban megvalósuló projektek elszámolható költségeinek pedig 40%-a lehet,
+(2) A termelési folyamat alapvető megváltozását eredményező beruházás esetén a támogatás akkor vehető igénybe, ha az elszámolható költségek összege meghaladja az alapvetően megváltoztatandó eredeti termelési folyamathoz kapcsolódó eszközökre a kérelem benyújtásának adóévét megelőző három adóévben elszámolt terv szerinti értékcsökkenés összegét.
 
-b) ha a kedvezményezett által a 800/2008/EK bizottsági rendelet I. mellékletének megfelelően számított foglalkoztatottak száma kevesebb, mint 750 fő és árbevétele kevesebb, mint 200 millió eurónak megfelelő forintösszeg, a támogatási intenzitás a nem a Közép-Magyarországi régióban megvalósuló projektek elszámolható költségeinek 25%-a, a Közép-Magyarországi régióban megvalósuló projektek elszámolható költségeinek pedig 20%-a lehet.
+(3) Meglévő létesítmény tevékenységének új tevékenységgel történő bővítését eredményező beruházáshoz a támogatás akkor vehető igénybe, ha az elszámolható költségek legalább 200%-kal meghaladják az eredeti tevékenység keretében használt és az új tevékenység keretében is használni tervezett eszközöknek a beruházás megkezdése előtti adóévben nyilvántartott könyv szerinti értékét.
+
+[^12]: A 8. alcím (8–10/C. §) a 11/2014. (XII. 30.) MvM rendelet 54. §-ával megállapított szöveg.

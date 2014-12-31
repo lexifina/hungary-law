@@ -1,17 +1,11 @@
-## 12. Az energia-megtakarítási intézkedésekhez nyújtott környezetvédelmi beruházási támogatás
+## 12. [^16] Az energiahatékonysági intézkedéshez nyújtott beruházási támogatás
 
-14. § (1) Az energia-megtakarítási intézkedésekhez nyújtott környezetvédelmi beruházási támogatás célja, hogy a vállalkozások energia-megtakarítást érjenek el.
+14. § (1) A vállalkozások energia-megtakarítást eredményező beruházásaihoz kapcsolódó energiahatékonysági intézkedéshez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 30%-át.
 
-(2) Elszámolható költségnek minősül a vállalkozás energia-megtakarítását növelő
+(2) Nem nyújtható támogatás már elfogadott, de még nem hatályos uniós szabványnak való megfelelés érdekében megvalósított beruházáshoz.
 
-a) beruházás többletköltsége, vagy
+(3) Az (1) bekezdés szerinti támogatási intenzitás a 11/A. § (2) és (3) bekezdése szerint növelhető.
 
-b) olyan beruházás többletköltsége, amely a közösségi szabványok által előírtnál magasabb szintű energia-megtakarítás megvalósításához szükséges.
+(4) A támogatás keretében a magasabb energiatakarékossági szint eléréséhez közvetlenül kapcsolódó, a 11/B. § (2) és (3) bekezdése szerinti beruházási költség számolható el.
 
-(3) Az elszámolható költségek kiszámításához a 800/2008/EK bizottsági rendelet 18. cikk (6) és (7) bekezdésében meghatározott módszert kell alkalmazni, valamint a (2) bekezdés b) pontja szerinti esetben a 800/2008/EK bizottsági rendelet 21. cikk (3) bekezdését kell figyelembe venni.
-
-(4) A támogatás támogatási intenzitása a (2) bekezdés a) pontja szerinti esetben nem haladhatja meg az elszámolható költségek 20%-át.
-
-(5) A támogatás támogatási intenzitása a (2) bekezdés b) pontja szerinti esetben nem haladhatja meg az elszámolható költségek 60%-át.
-
-(6) A (4) és (5) bekezdésben meghatározott támogatási intenzitás kisvállalkozások esetében 20 százalékponttal, középvállalkozások esetében 10 százalékponttal növelhető.
+[^16]: A 12. alcím (14. §) a 11/2014. (XII. 30.) MvM rendelet 55. §-ával megállapított szöveg.
