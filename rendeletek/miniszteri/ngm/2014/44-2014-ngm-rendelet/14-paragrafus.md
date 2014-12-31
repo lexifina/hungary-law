@@ -1,0 +1,3 @@
+## 13. § Az R. 12. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) A kötelező szakmai továbbképzésben közreműködő szervezet köteles a képzés szervezése, lebonyolítása során alkalmazott jelentkezési lapot, munkáltatói-, adatkezelői-, kijelölési nyilatkozatot, képzési szerződést, haladási naplót, jelenléti ívet, a tanúsítvány hitelesített másolatát, kontaktképzés, illetve tréning esetén az oktató résztvevői értékelését és az Országos Statisztikai Adatgyűjtési Program statisztikai célú adatszolgáltatását a képzés tárgyévét követő 10 évig az ÁBPE-továbbképzés térítési díj központi költségvetésből történő megtérítése jogszerűségének ellenőrzése céljából megőrizni.”

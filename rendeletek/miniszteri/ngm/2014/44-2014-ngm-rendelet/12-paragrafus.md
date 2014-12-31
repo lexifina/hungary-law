@@ -1,0 +1,1 @@
+## „(3) A (2) bekezdésben meghatározott oklevéllel rendelkező oktatók minden évben részt vesznek az ÁBPE-továbbképzés I., az ÁBPE-továbbképzés I. a költségvetési szervek vezetői és gazdasági vezetői részére és az ÁBPE-továbbképzés II. témakörben szervezett oktatói továbbképzésen.”
