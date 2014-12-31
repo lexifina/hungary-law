@@ -38,4 +38,6 @@ ce) biztosítja az Európai Vidékfejlesztési Hálózattal (a továbbiakban: EV
 
 (2) Az MNVH (1) bekezdésben foglalt feladatait a cselekvési terv részletezi. A cselekvési terv tartalmazza a legjobb gyakorlatok elemzését, valamint az ezzel kapcsolatos információkra vonatkozó rendelkezéseket, a hálózat irányítását, a tapasztalat- és a know-how csere megszervezését, a képzési programok készítését a helyi akciócsoportok számára, valamint a segítségnyújtás feltételeit a nemzetközi és térségközi együttműködések számára.
 
-(3) Az MNVH éves cselekvési tervére vonatkozó javaslatot a Főtitkár közreműködésével az Elnökség készíti elő és az ÚMVP Irányító Hatóság (a továbbiakban: IH) vezetője hagyja jóvá.
+(3)[^3] Az MNVH éves cselekvési tervére vonatkozó javaslatot a Főtitkár közreműködésével az Elnökség készíti elő és az Irányító Hatóság (a továbbiakban: IH) vezetője hagyja jóvá.
+
+[^3]: A 3. § (3) bekezdése a 12/2014. (XII. 30.) MvM rendelet 14. §-a szerint módosított szöveg.

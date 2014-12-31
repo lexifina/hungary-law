@@ -1,4 +1,4 @@
-## 1. §[^1] A Magyar Nemzeti Vidéki Hálózat (a továbbiakban: MNVH) célja a vidékfejlesztésben érintett kormányzati és önkormányzati intézmények, társadalmi szervezetek, szakmai testületek, gazdálkodó tevékenységet végző szervezetek információs és együttműködési hálózatba szervezése, és tevékenységük összehangolása a vidék társadalmi-gazdasági fejlődése, a felzárkóztatás, valamint a támogatási források hatékony felhasználása érdekében, továbbá az MNVH szolgáltatásainak széles körben történő hozzáférhetővé tétele.
+## 1. §[^2] A Magyar Nemzeti Vidéki Hálózat (a továbbiakban: MNVH) célja a vidékfejlesztésben érintett kormányzati és önkormányzati intézmények, társadalmi szervezetek, szakmai testületek, gazdálkodó tevékenységet végző szervezetek információs és együttműködési hálózatba szervezése, és tevékenységük összehangolása a vidék társadalmi-gazdasági fejlődése, a felzárkóztatás, valamint a támogatási források hatékony felhasználása érdekében, továbbá az MNVH szolgáltatásainak széles körben történő hozzáférhetővé tétele.
 
 ## Fogalommeghatározás
 
@@ -8,4 +8,4 @@ a) cselekvési terv: az MNVH-nak, az Európai Mezőgazdasági Vidékfejlesztési
 
 b) legjobb gyakorlatok: az Európai Unió tagállamainak, az általuk kidolgozott vidékfejlesztési programok végrehajtása során szerzett tapasztalatai.
 
-[^1]: Az 1. § a 22/2014. (III. 14.) VM rendelet 76. §-a szerint módosított szöveg.
+[^2]: Az 1. § a 22/2014. (III. 14.) VM rendelet 76. §-a szerint módosított szöveg.

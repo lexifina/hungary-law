@@ -8,7 +8,7 @@ b) közvetít a vidékfejlesztésben érintett személyek és szervezetek, valam
 
 c) ellátja az Elnök általános helyettesítését,
 
-d) a vidékfejlesztésért felelős minisztérium javaslatait, szakmai anyagait az Elnökség elé terjeszti,
+d)[^10] a miniszter javaslatait, szakmai anyagait az Elnökség elé terjeszti,
 
 e) elfogadásra előterjeszti az IH vezetőjének az MNVH Elnökség által jóváhagyott cselekvési tervét,
 
@@ -16,7 +16,7 @@ f) évente elfogadásra előterjeszti az IH vezetőjének az Elnökség által k
 
 g) javaslatot tesz az IH vezetőjének az MNVH-ba regisztráltak és a résztvevők részére nyújtandó szolgáltatások körére, valamint az MNVH éves költségvetésére,
 
-h)[^7] a NAKVI vezetőjével egyeztetve kialakítja az Állandó Titkárság szervezeti felépítését és személyi összetételét,
+h)[^11] a NAKVI vezetőjével egyeztetve kialakítja az Állandó Titkárság szervezeti felépítését és személyi összetételét,
 
 i) képviseli az MNVH-t a nemzetközi kapcsolatokban,
 
@@ -30,4 +30,5 @@ k) gondoskodik az MNVH képviseletéről EVH koordinációs bizottságának LEAD
 
 (4) A Főtitkárt a miniszter nevezi ki öt évre. A miniszter a Főtitkárt a kinevezésének időtartama alatt bármikor, indokolás nélkül visszahívhatja.
 
-[^7]: A 9. § (1) bekezdése a 106/2012. (X. 11.) VM rendelet 11. § b) pontja szerint módosított szöveg.
+[^10]: A 9. § (1) bekezdés d) pontja a 12/2014. (XII. 30.) MvM rendelet 13. § f) pontja szerint módosított szöveg.
+[^11]: A 9. § (1) bekezdése a 106/2012. (X. 11.) VM rendelet 11. § b) pontja szerint módosított szöveg.

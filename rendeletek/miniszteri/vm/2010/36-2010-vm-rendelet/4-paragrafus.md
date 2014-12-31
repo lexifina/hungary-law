@@ -16,7 +16,7 @@ f) érdekképviseleti szervezet,
 
 g) szakmai és gazdasági kamara,
 
-h)[^2] egyházi jogi személy;
+h)[^4] egyházi jogi személy;
 
 i) a vidékfejlesztéssel foglalkozó országos hatáskörű közigazgatási szerv,
 
@@ -30,15 +30,15 @@ m) a regionális fejlesztési ügynökség,
 
 n) egyéb vidékfejlesztésben érintett szereplő.
 
-(2)[^3] Regisztrálni az MNVH honlapján közzétett, az 1. melléklet szerinti adattartalmú regisztrációs adatlap kitöltésével és a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézethez (a továbbiakban: NAKVI) való beküldésével lehet. A regisztrációs adatlap beküldésére postai vagy elektronikus úton van lehetőség.
+(2)[^5] Regisztrálni az MNVH honlapján közzétett, az 1. melléklet szerinti adattartalmú regisztrációs adatlap kitöltésével és az IH-hoz való beküldésével lehet. A regisztrációs adatlap beküldésére postai vagy elektronikus úton van lehetőség.
 
 (3) A regisztrált személyekről és szervezetekről az Állandó Titkárság elektronikus adatbázist készít.
 
-(4)[^4] A regisztráció létrejöttéről a regisztráltakat a NAKVI írásban értesíti.
+(4)[^6] A regisztráció létrejöttéről a regisztráltakat az IH írásban értesíti.
 
-(5)[^5] A regisztrált személy vagy szervezet az MNVH honlapján közzétett, a 2. melléklet szerinti adattartalommal rendelkező írásbeli nyilatkozat benyújtásával törölheti regisztrációját a nyilatkozat NAKVI-hoz való beküldésével.
+(5)[^7] A regisztrált személy vagy szervezet az MNVH honlapján közzétett, a 2. melléklet szerinti adattartalommal rendelkező írásbeli nyilatkozat benyújtásával törölheti regisztrációját a nyilatkozat IH-hoz való beküldésével.
 
-[^2]: A 4. § (1) bekezdés h) pontja a 121/2013. (XII. 16.) VM rendelet 15. §-ával megállapított szöveg.
-[^3]: A 4. § (2) bekezdése a 106/2012. (X. 11.) VM rendelet 11. § a) pontja szerint módosított szöveg.
-[^4]: A 4. § (4) bekezdése a 106/2012. (X. 11.) VM rendelet 11. § b) pontja szerint módosított szöveg.
-[^5]: A 4. § (5) bekezdése a 106/2012. (X. 11.) VM rendelet 11. § c) pontja szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdés h) pontja a 121/2013. (XII. 16.) VM rendelet 15. §-ával megállapított szöveg.
+[^5]: A 4. § (2) bekezdése a 12/2014. (XII. 30.) MvM rendelet 13. § a) pontja szerint módosított szöveg.
+[^6]: A 4. § (4) bekezdése a 12/2014. (XII. 30.) MvM rendelet 13. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § (5) bekezdése a 12/2014. (XII. 30.) MvM rendelet 13. § c) pontja szerint módosított szöveg.
