@@ -1,5 +1,5 @@
-## 82–85. §[^202]
+## 83–85. §[^203]
 
 ## Európai Unió jogának való megfelelés
 
-[^202]: A 82–85. §-t a 68/2013. (VII. 29.) VM rendelet 6. § (5) bekezdése hatályon kívül helyezte.
+[^203]: A 83–85. §-t a 68/2013. (VII. 29.) VM rendelet 6. § (5) bekezdése hatályon kívül helyezte.

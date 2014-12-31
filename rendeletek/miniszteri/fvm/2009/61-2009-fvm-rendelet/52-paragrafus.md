@@ -2,9 +2,9 @@
 
 (2) Amennyiben a támogatásra jogosult nem tesz eleget a 18. § (1) bekezdésében foglalt, a gazdálkodási napló vezetésére vonatkozó kötelezettségének, a támogatásra jogosult az intézkedésből az adott gazdálkodási évre kizárásra kerül.
 
-(3)[^110] Ha a támogatásra jogosult nem tesz eleget a 15. § (5) bekezdésben előírt, a tápanyag-gazdálkodási terv 20. számú mellékletben foglalt adattartalmának benyújtására vonatkozó kötelezettségének, úgy a célprogramra az előző gazdálkodási évre jutó támogatási összeg 15%-ára nem jogosult.
+(3)[^109] Ha a támogatásra jogosult nem tesz eleget a 15. § (5) bekezdésben előírt, a tápanyag-gazdálkodási terv 20. számú mellékletben foglalt adattartalmának benyújtására vonatkozó kötelezettségének, úgy a célprogramra az előző gazdálkodási évre jutó támogatási összeg 15%-ára nem jogosult.
 
-(4)[^111] Ha a támogatásra jogosult nem tesz eleget a 18. § (7) bekezdésében előírt, a gazdálkodási napló meghatározott adatainak benyújtására vonatkozó kötelezettségének, úgy az intézkedésre az előző gazdálkodási évre jutó támogatási összeg 15%-ára nem jogosult.
+(4)[^110] Ha a támogatásra jogosult nem tesz eleget a 18. § (7) bekezdésében előírt, a gazdálkodási napló meghatározott adatainak benyújtására vonatkozó kötelezettségének, úgy az intézkedésre az előző gazdálkodási évre jutó támogatási összeg 15%-ára nem jogosult.
 
 (5) A (3) és (4) bekezdésben foglalt esetekben, amenynyiben a támogatásra jogosult részére már kifizetésre került a támogatási összeg, annak jogosulatlanul igénybe vett részét vissza kell fizetnie.
 
@@ -14,8 +14,8 @@
 
 (8) Amennyiben a (7) bekezdésben foglaltak egy adott kötelezettségvállalással érintett egybefüggő terület vagy célprogram vonatkozásában állnak fenn, a támogatásra jogosult a kötelezettségvállalással érintett egybefüggő terület vagy a célprogram vonatkozásában az adott célprogram támogatási időszakának lejáratáig kizárásra kerül és a célprogramra vonatkozóan már igénybe vett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.
 
-(9)[^112] Az általános kötelezettségeknek való meg nem felelés jogkövetkezményei összeadódnak.
+(9)[^111] Az általános kötelezettségeknek való meg nem felelés jogkövetkezményei összeadódnak.
 
-[^110]: Az 52. § (3) bekezdése a 139/2012. (XII. 22.) VM rendelet 8. §-ával megállapított szöveg.
-[^111]: Az 52. § (4) bekezdése a 139/2012. (XII. 22.) VM rendelet 8. §-ával megállapított szöveg.
-[^112]: Az 52. § (9) bekezdését a 77/2009. (VI. 30.) FVM rendelet 10. §-a iktatta be. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^109]: Az 52. § (3) bekezdése a 139/2012. (XII. 22.) VM rendelet 8. §-ával megállapított szöveg.
+[^110]: Az 52. § (4) bekezdése a 139/2012. (XII. 22.) VM rendelet 8. §-ával megállapított szöveg.
+[^111]: Az 52. § (9) bekezdését a 77/2009. (VI. 30.) FVM rendelet 10. §-a iktatta be. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

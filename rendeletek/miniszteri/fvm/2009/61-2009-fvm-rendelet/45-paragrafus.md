@@ -28,12 +28,9 @@ c) helyszíni ellenőrzést
 
 (7)[^97] Az illetékes ökológiai ellenőrző szervezet évente, az adott gazdálkodási év május 15-ig az MVH részére tájékoztatást nyújt arról, hogy a 3. § (1) bekezdés a) pont ac) alpontjában, a 3. § (1) bekezdés b) pont bb) alpontjában és a 3. § (1) bekezdés c) pont cb) alpontjában meghatározott célprogramokban támogatott ügyfelek kötelezettségvállalással érintett egybefüggő területei az ökológiai ellenőrző szervezet nyilvántartásában szerepelnek vagy azok ökológiai státusza a gazdálkodási év folyamán megszüntetésre vagy visszaminősítésre került.
 
-(8)[^98] A 13. § (2) bekezdés d) pontja szerinti laboratóriumok az MVH részére a rendelkezésükre álló adatok alapján, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben foglaltak figyelembevételével 2014. október 15-ig adatot szolgáltatnak a kötelezően előírt talajvizsgálatok elvégeztetéséről.
-
-(9)[^99] A 14. § (3) bekezdés szerinti laboratóriumok az MVH részére a rendelkezésükre álló adatok alapján, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben foglaltak figyelembevételével 2014. október 15-ig adatot szolgáltatnak a kötelezően előírt levélanalízis elvégeztetéséről.
+(8)–(9)[^98]
 
 [^95]: A 45. § (1) bekezdése a 31/2010. (III. 30.) FVM rendelet 18. §-ával megállapított szöveg.
 [^96]: A 45. § (1) bekezdés c) pontját a 68/2013. (VII. 29.) VM rendelet 6. § (2) bekezdése iktatta be.
 [^97]: A 45. § (7) bekezdése a 44/2012. (V. 3.) VM rendelet 8. §-ával megállapított szöveg.
-[^98]: A 45. § (8) bekezdése a 35/2010. (XI. 30.) VM rendelet 11. §-ával megállapított szöveg.
-[^99]: A 45. § (9) bekezdése a 35/2010. (XI. 30.) VM rendelet 11. §-ával megállapított szöveg.
+[^98]: A 45. § (8)–(9) bekezdését a 12/2014. (XII. 30.) MvM rendelet 11. §-a hatályon kívül helyezte.
