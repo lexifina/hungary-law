@@ -30,7 +30,7 @@ k) a megvalósítási időszakra az a kedvezményezett, aki a támogatás kifize
 
 l) társasház és lakásszövetkezet a szociális célú városrehabilitációra vonatkozó felhívás keretében,
 
-m)[^2]
+m)[^6]
 
 (2) A felhívás eltérő rendelkezése hiányában nem köteles biztosítékot nyújtani a kedvezményezett, ha a támogatás
 
@@ -38,4 +38,4 @@ a) nem beruházási célú, vagy
 
 b) kutatás-fejlesztésre vagy innovációra irányul.
 
-[^2]: A 84. § (1) bekezdés m) pontja a 358/2014. (XII. 29.) Korm. rendelet 9. § a) pontja alapján nem lép hatályba.
+[^6]: A 84. § (1) bekezdés m) pontja a 358/2014. (XII. 29.) Korm. rendelet 9. § a) pontja alapján nem lép hatályba.

@@ -10,7 +10,7 @@
 
 3. csalás: az Európai Unióról szóló Szerződés K.3. cikke alapján létrejött, az Európai Közösségek pénzügyi érdekeinek védelméről szóló Egyezmény és az azt kiegészítő jegyzőkönyvek, valamint az Európai Unióról szóló Szerződés 35. Cikkének (2) bekezdése alapján megtett nyilatkozat kihirdetéséről szóló 2009. évi CLIX. törvénnyel kihirdetett, az Európai Közösségek pénzügyi érdekeinek védelméről szóló egyezmény 1. cikk (1) bekezdése szerinti fogalom, valamint a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 396. §-a szerinti költségvetési csalás,
 
-4. ellenőrzési nyomvonal: a támogatástervezési, pénzügyi irányítási és kontrollrendszerének leírása szövegesen vagy táblázatba foglalva, vagy folyamatábrával szemléltetve, amely tartalmazza különösen a felelősségi és információs szinteket és kapcsolatokat, továbbá irányítási és kontrollfolyamatokat, lehetővé téve azok nyomon követését és utólagos ellenőrzését a támogatások felhasználása során,
+4.[^1] ellenőrzési nyomvonal: a támogatástervezési, pénzügyi irányítási és kontrollrendszer leírása szövegesen, táblázatba foglalva vagy folyamatábrával szemléltetve, amely tartalmazza különösen a felelősségi és információs szinteket, kapcsolatokat, az irányítási és kontrollfolyamatokat, valamint az ezen kontrollokat alátámasztó dokumentumokat, lehetővé téve azok nyomon követését és utólagos ellenőrzését a támogatások felhasználása során,
 
 5. elszámoló bizonylat vagy bizonylat: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) 166. § (1) bekezdése szerinti számviteli bizonylat, ideértve az rendeletben meghatározott összesítőt is. Elektronikus számla elszámolásra kizárólag elektronikus formában nyújtható be, feltéve, hogy a záradékolás követelményeinek megfelel,
 
@@ -149,3 +149,5 @@ d) a Bizottság b) és c) pont szerinti rendeletek felhatalmazása alapján kiad
 ## szerint kell értelmezni.
 
 (3) E rendeletet az e rendelet hatálya alá tartozó programok támogatásokra vonatkozó, kötelezően alkalmazandó európai uniós jogi aktusokban foglalt eltérésekre figyelemmel kell alkalmazni és értelmezni.
+
+[^1]: A 3. § (1) bekezdés 4. pontja a 366/2014. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.

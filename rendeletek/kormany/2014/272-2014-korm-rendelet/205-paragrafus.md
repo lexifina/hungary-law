@@ -1,3 +1,3 @@
-## 203–204. §[^4]
+## 203–204. §[^22]
 
-[^4]: A 203–204. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 203–204. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

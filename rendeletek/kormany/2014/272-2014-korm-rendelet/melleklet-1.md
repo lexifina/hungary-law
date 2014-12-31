@@ -1,6 +1,6 @@
-## 206–208. §[^6]
+## 206–208. §[^24]
 
-1. melléklet a 272/2014. (XI. 5.) Korm. rendelethez
+1. melléklet a 272/2014. (XI. 5.) Korm. rendelethez[^25]
 
 EGYSÉGES MŰKÖDÉSI KÉZIKÖNYV
 
@@ -126,21 +126,21 @@ b) ki kell nyomtatnia, aláírással kell ellátnia és digitalizálnia kell, ma
 
 a lezárt támogatási kérelemmel együtt az Elektronikus kapcsolattartás fejezet szabályai szerint a monitoring és információs rendszeren keresztül elektronikusan kell benyújtania az irányító hatóság részére.
 
-8.3. A mennyiben a támogatást igénylő a nyilatkozatot nem minősített elektronikus aláírással látta el, a kinyomtatott és aláírt nyilatkozatot postai úton tértivevénnyel – vagy amennyiben a felhívás erre lehetőséget ad, személyesen – szintén be kell nyújtania az irányító hatóság részére a támogatási kérelem elektronikus úton történt benyújtásától számított 3 napon belül.
+8.3. A mennyiben a támogatást igénylő a nyilatkozatot nem minősített elektronikus aláírással látta el, a kinyomtatott és aláírt nyilatkozatot postai úton tértivevénnyel szintén be kell nyújtania az irányító hatóság részére a támogatási kérelem elektronikus úton történt benyújtásától számított 3 napon belül.
 
 8.4. A támogatási kérelem benyújtásának időpontja a támogatási kérlelem és a nyilatkozat elektronikus úton történő együttes benyújtásának időpontja. A támogatási kérelem beérkezésének időpontja a támogatási kérlelem és a nyilatkozat elektronikus úton történő együttes beérkezésének időpontja.
 
 8.5. A beérkezett támogatási kérelmet és a nyilatkozatot a monitoring és információs rendszer automatikusan iktatja és a támogatást igénylő részére visszajelzést küld a dokumentumok beérkezéséről és arról, hogy az intézményrendszer a támogatási kérelem jogosultsági vizsgálatát megkezdi.
 
-A postai úton vagy személyesen benyújtott nyilatkozat érkeztetése és iktatása
+A postai úton benyújtott nyilatkozat érkeztetése és iktatása
 
-9.1. Amennyiben a pályázó a nyilatkozatot nem minősített elektronikus aláírással látta el, és az eredeti dokumentumot postai úton vagy személyesen benyújtotta, az irányító hatóság a nyilatkozat érkeztetése során
+9.1. Amennyiben a pályázó a nyilatkozatot nem minősített elektronikus aláírással látta el, és az eredeti dokumentumot postai úton benyújtotta, az irányító hatóság a nyilatkozat érkeztetése során
 
-a) a nyilatkozatot tartalmazó küldeményt postai úton vagy személyesen átveszi,
+a) a nyilatkozatot tartalmazó küldeményt postai úton átveszi,
 
 b) a küldeményt iktatja.
 
-9.2. A postai úton beérkező nyilatkozat átvétele során az irányító hatóság ellenőrzi az ajánlati ragszámlistán és az egyéb csatolt postai formanyomtatványokon szereplő adatok (feladó neve, címe, a nyomtatvány száma), valamint a beérkezett küldeményen lévő adatok egyezőségét.
+9.2. A beérkező nyilatkozat átvétele során az irányító hatóság ellenőrzi az ajánlati ragszámlistán és az egyéb csatolt postai formanyomtatványokon szereplő adatok (feladó neve, címe, a nyomtatvány száma), valamint a beérkezett küldeményen lévő adatok egyezőségét.
 
 9.3. Ha az adatok megfelelnek, az irányító hatóság az ajánlati ragszámlistán aláírásával és lepecsételésével átveszi a küldeményt, továbbá a küldemény csomagolásán érkeztető pecséttel feltünteti a beérkezés dátumát.
 
@@ -150,11 +150,11 @@ a) év, hónap, nap részletezettségű érkeztető pecséttel látja el a küld
 
 b) 2 eredeti példányos átvételi elismervényt készít, amelyen szerepel a feladó, a csomagszám, a csomag állapota és a benyújtás pontos időpontja.
 
-9.5. Az átvételi elismervényt az irányító hatóság képviselője és a támogatást igénylő kézbesítője is aláírja. Az átvételi elismervény egyik példányát a kézbesítő kézhez kapja, a másik példányt a küldemény átvételéért felelős munkatárs beérkezési sorrendben, napi rendszerességgel lefűzi.
+9.5.
 
 9.6. A nyilatkozatot az irányító hatóság iktatja a monitoring és információs rendszerbe a korábban benyújtott támogatási kérelemhez és a nyilatkozat beérkezéséről a támogatást igénylőt értesíti.
 
-9.7. Postai úton vagy személyesen benyújtott nyilatkozat esetén az irányító hatóság jogosultsági feltételek vizsgálata során ellenőrzi, hogy a dokumentum az elektronikusan korábban benyújtott nyilatkozattal egyezik–e.
+9.7. Postai úton benyújtott nyilatkozat esetén az irányító hatóság jogosultsági feltételek vizsgálata során ellenőrzi, hogy a dokumentum az elektronikusan korábban benyújtott nyilatkozattal egyezik–e.
 
 9.8. Amennyiben a dokumentum nem érkezik meg az irányító hatósághoz, vagy az elektronikusan korábban benyújtott nyilatkozattal nem egyezik, hiánypótlásnak nincs helye, az irányító hatóság a támogatási kérelmet elutasítja.
 
@@ -312,7 +312,7 @@ A tartalmi értékelés megkezdése és az értékelők kiválasztása
 
 25.3. A támogatási kérelmek értékelését az irányító hatóság vezetője döntésének megfelelő számú és az irányító hatóság vezetője által kijelölt értékelő(k) végzi(k).
 
-25.4. Az értékelést az irányító hatóság munkatársa (a továbbiakban: belső értékelő), , illetve az európai uniós források felhasználásáért felelős miniszter előzetes engedélye esetén a megfelelő szakértelemmel rendelkező személy (a továbbiakban: külső értékelő) végzi.
+25.4. Az értékelést az irányító hatóság munkatársa (a továbbiakban: belső értékelő), illetve az európai uniós források felhasználásáért felelős miniszter előzetes engedélye esetén a megfelelő szakértelemmel rendelkező személy (a továbbiakban: külső értékelő) végzi.
 
 25.5. Az értékelők az adott felhívás vonatkozásában titoktartási és összeférhetetlenségi nyilatkozatot kötelesek tenni.
 
@@ -326,7 +326,7 @@ A tartalmi értékelés megkezdése és az értékelők kiválasztása
 
 26.4. Ha az irányító hatóság vezetője a támogatási kérelem újraértékelését rendelete el, az adott támogatási kérelemhez hozzárendelt új értékelőt az irányító hatóság vezetőnek a monitoring és információs rendszerben jóvá kell hagynia.
 
-26.5. Az irányító hatóság vezetőjének a monitoring és információs rendszerben rendszeresen felül kell vizsgálnia a külső értékelők jóváhagyott státuszát és gondoskodnia kell a nem jóváhagyott státusszal rendelkező értékelők monitoring rendszerből való törléséről. az európai uniós források felhasználásáért felelős miniszter
+26.5. Az irányító hatóság vezetőjének a monitoring és információs rendszerben rendszeresen felül kell vizsgálnia a külső értékelők jóváhagyott státuszát és gondoskodnia kell a nem jóváhagyott státusszal rendelkező értékelők monitoring rendszerből való törléséről.
 
 27.1. Külső értékelők esetén az irányító hatóság vezető által jóváhagyott értékelőkkel az irányító hatóság szerződést köt, ellenőrzi az érvényes titoktartási és összeférhetetlenségi nyilatkozatot, annak megléte hiányában az adott felhívásra vonatkozó titoktartási és összeférhetetlenségi nyilatkozatot kér az értékelőktől és a monitoring és információs rendszeren keresztül történő értékeléshez szükséges jelszót részükre eljuttatja.
 
@@ -372,7 +372,7 @@ Az értékelő lap
 
 a) a támogatást igénylő és a projekt azonosításához szükséges adatokat,
 
-b) az értékelése szempontok szerinti szöveges értékelést,
+b) az értékelési szempontok szerinti szöveges értékelést,
 
 c) a felhívásban foglalt értékelési szempontrendszernek megfelelő pontozást technikai segítségnyújtás projektek kivételével, illetve a projekt-kiválasztási szempontoknak való megfelelőség minősítését,
 
@@ -790,22 +790,5 @@ A támogatási szerződés módosítása
 
 61.1. Ha a kedvezményezett e rendelet 86. § (1) bekezdése szerint a támogatás feltételeinek változásáról értesíti az irányító hatóságot, az irányító hatóság
 
-a) a bejelentést elfogadja, és a feltételeknek a nyilvántartásban történő átvezetéséről gondoskodik,
-
-b) a bejelentést, ha több adat vonatkozásában tartalmaz változást, részben elfogadja, vagy
-
-c) a bejelentést elutasítja,
-
-d) a bejelentés alapján a támogatási szerződés módosítását kezdeményezi, vagy
-
-e) a bejelentés alapján elállást, a jogosulatlanul igénybe vett támogatás visszakövetelését, vagy más szükséges eljárás lefolytatására irányuló intézkedést kezdeményez,
-
-amelyről a bejelentés beérkezését követő 10 napon belül írásban, a XII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint értesíti a kedvezményezettet.
-
-61.2. Ha a bejelentett változást a benyújtott dokumentumok nem teljes körűen támasztják alá, az irányító hatóság a változás bejelentéséhez kapcsolódóan megfelelő, de legfeljebb 30 napos határidő tűzésével automatikus értesítéssel a XII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint hiánypótlásra hívja fel a kedvezményezettet.
-
-61.3. A hiánypótlás során a dokumentumokat a XII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint kell benyújtani.
-
-61.4. Ha a hiánypótlási dokumentumok nem érkeznek be a megadott határidőre, vagy továbbra sem támasztják alá a változást, az irányító hatóság a bejelentést részben vagy egészben elutasítja.
-
-[^6]: A 206–208. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 206–208. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: Az 1. melléklet a 366/2014. (XII. 30.) Korm. rendelet 9. §-a, a 10. § (2) bekezdése és a 11. § (3)–(4) bekezdése szerint módosított szöveg.

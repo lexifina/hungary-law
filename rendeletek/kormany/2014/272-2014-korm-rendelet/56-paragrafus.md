@@ -40,7 +40,7 @@ b) a támogatási szerződésben meghatározott mérföldkövek teljesülését 
 
 c) a felhívásban meghatározott szakmai kritériumok teljesítésének ellenőrzése,
 
-d) a támogatási kérelem elkészítésének szakmai támogatása,
+d)[^3] a projektdokumentáció elkészítésének szakmai támogatása,
 
 e) indokolt esetben konzultáció biztosítása az adott szakpolitikai felelős szervezeti egységével.
 
@@ -50,7 +50,7 @@ a) együttműködni az irányító hatósággal,
 
 b) a konzultáció keretében szervezett személyes egyeztetéseken személyesen vagy hivatalos képviselő útján részt venni,
 
-c) az irányító hatóság által a rendelkezésére bocsátott dokumentumokat, segédleteket felhasználni a támogatási kérelem kidolgozásához,
+c)[^4] az irányító hatóság által a rendelkezésére bocsátott dokumentumokat, segédleteket felhasználni a projektdokumentáció kidolgozásához,
 
 d) a mérföldkövekhez kapcsolódó, az irányító hatóság által kért dokumentumokat elkészíteni,
 
@@ -61,3 +61,6 @@ f) a támogatási szerződésben meghatározott időpontban a projektdokumentác
 (10) A konzultáció folyamatát – ideértve az elektronikus úton történt egyeztetéseket – dokumentálni kell. A konzultáció során történt személyes egyeztetésekről az irányító hatóság és a kedvezményezett aláírásával ellátott emlékeztetőt kell készíteni.
 
 (11) A (6) bekezdés c) pontja szerinti határidőben benyújtott projektdokumentációt az irányító hatóság a felhívásban előírt értékelési szempontok szerint megvizsgálja. Ha a projektdokumentáció az értékelési szempontoknak megfelel, az irányító hatóság az (5) bekezdés szerinti szerződést módosítja a projekt megvalósításának érdekében.
+
+[^3]: Az 56. § (8) bekezdés d) pontja a 366/2014. (XII. 30.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^4]: Az 56. § (9) bekezdés c) pontja a 366/2014. (XII. 30.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
