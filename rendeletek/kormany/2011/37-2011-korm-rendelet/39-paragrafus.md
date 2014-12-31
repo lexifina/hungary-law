@@ -1,1 +1,5 @@
 ## 19. Módosító rendelkezések
+
+39. §[^148]
+
+[^148]: A 39-40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

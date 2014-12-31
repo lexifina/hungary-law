@@ -52,6 +52,8 @@
 
 ## Első lépcsőben az egyes kamatfizetések esetén ki kell számítani 1) a valós kamatfizetést, valamint 2) azt az elvi kamatfizetést, amely a számított egyéni referencia kamatláb (elvi piaci kamatláb) alapján adódna. A különbségük [1)–2)] az adott periódusra meg nem fizetett kamat, vagyis a támogatástartalom.
 
+## 4K10788N_0
+
 ## Ahol:
 
 ## Qn: az „n” év időpontban történő kamatfizetéskor fennálló tőketartozás összege („n” lehet tört is)
@@ -64,6 +66,8 @@
 
 ## Mivel ezek a támogatási elemek különböző időpontokban merülnek fel, ezeknek az egy időpontra vonatkozó jelenértékeit kell összegezni. A jelenérték-számítás a diszkont kamatláb segítségével történik.
 
+## 4K10788N_1
+
 ## Ahol
 
 ## i: diszkont kamatláb a támogatás odaítélésének napján
@@ -71,6 +75,8 @@
 ## b) Egylépcsős számítás:
 
 ## Sok elemből álló sorozatok esetén, amennyiben a – tőketörlesztést és kamatfizetést is tartalmazó – törlesztő-részletek egyenlő nagyságúak és azonos időközönként követik egymást, a támogatást nyújtó döntése szerint használható az alábbi – annuitások számításából levezetett – összevont képlet. Amennyiben a tőketartozás nagysága minden kamatfizetési időpontban ismert, a támogatást nyújtó döntése szerint ilyen hitelek esetében is alkalmazható a többlépcsős módszer.
+
+## 4K10788N_2
 
 ## Ahol:
 
@@ -200,9 +206,9 @@
 
 ## Támogatástartalom: a piaci ár és a fizetett ár különbözetének jelenértéke.
 
-3. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^152]
+3. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^154]
 
-## A 2012/21/EU bizottsági határozat alapján nyújtott állami támogatásokról készítendő beszámoló kötelező adattartalma
+A 2012/21/EU bizottsági határozat alapján nyújtott állami támogatásokról készítendő beszámoló kötelező adattartalma
 
 1. Egyedi támogatás esetében:
 
@@ -254,4 +260,4 @@
 
 2.10. Megjegyzések
 
-[^152]: A 3. melléklet a 158/2014. (VI. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^154]: A 3. melléklet a 158/2014. (VI. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
