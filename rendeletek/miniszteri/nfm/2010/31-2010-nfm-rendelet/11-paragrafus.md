@@ -1,4 +1,4 @@
-11. § (1)[^19] A hatóság a típusengedély iránti kérelmet egyszerűsített típusengedélyezési eljárásban bírálja el azon járműtípus esetében, amely az EGT-államok valamelyikében már típusengedélyt kapott. Az egyszerűsített típusengedélyezési eljárásban csak az ÁME-k szerinti nemzeti sajátosságoknak való megfelelőséget vizsgálja.
+11. § (1)[^20] A hatóság valamely EGT-államban már engedélyezett típusnak megfelelő járművet a kérelmező által benyújtott típus-megfelelőségi nyilatkozat alapján egyszerűsített típusengedélyezési eljárásban engedélyezi, további ellenőrzés nélkül. A magyarországi vasúti pályahálózat kölcsönös átjárhatóságára vonatkozó, ÁME-ban meghatározott nemzeti sajátosságokat a hatóság az üzembehelyezési engedély kiadása iránti eljárás során vizsgálja.
 
 (2) Egyszerűsített típusengedélyezési eljárásban vizsgálandó járműtípusra vonatkozóan a típusengedély iránti kérelmet
 
@@ -8,4 +8,4 @@ b) EGT-államok valamelyikében érvényes üzembehelyezési engedéllyel rendel
 
 nyújthatja be.
 
-[^19]: A 11. § (1) bekezdése a 9/2012. (II. 15.) NFM rendelet 15. § (2) bekezdése szerint módosított szöveg.
+[^20]: A 11. § (1) bekezdése az 55/2014. (XII. 23.) NFM rendelet 10. §-ával megállapított szöveg.

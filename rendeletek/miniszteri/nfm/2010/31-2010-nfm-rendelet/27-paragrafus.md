@@ -2,7 +2,7 @@
 
 (2) Az időszakos vizsga során a hatóság az (1) bekezdésben meghatározott dokumentumok, valamint a vasúti járművek időszakos vizsgálatát végző vizsgahely műhelyi vizsgálata alapján
 
-a)[^42] vizsgálja, hogy a jármű üzemben tartója és a karbantartásért felelős szervezet teljesíti-e a jármű típusengedélyében, a jogszabályokban meghatározott követelményeket,
+a)[^47] vizsgálja, hogy a jármű üzemben tartója és a karbantartásért felelős szervezet teljesíti-e a jármű típusengedélyében, a jogszabályokban meghatározott követelményeket,
 
 b) ellenőrzi, hogy a jármű megfelel-e az üzembehelyezési engedélyben meghatározott típusazonosító adatoknak,
 
@@ -20,4 +20,4 @@ c) a vasúti jármű javításának vagy átalakításának végrehajtásáig a 
 
 d) a közlekedés biztonságát veszélyeztető hiányosság, valamint ha a vasúti jármű tényleges és nyilvántartott pályaszámában vagy alvázszámában eltérés vagy azokon megváltoztatásra vagy olvashatatlanná tételre irányuló beavatkozás észlelhető, a vasúti járművet a forgalomból azonnal kivonja.
 
-[^42]: A 27. § (2) bekezdés a) pontja a 82/2013. (XII. 29.) NFM rendelet 15. §-ával megállapított szöveg.
+[^47]: A 27. § (2) bekezdés a) pontja a 82/2013. (XII. 29.) NFM rendelet 15. §-ával megállapított szöveg.

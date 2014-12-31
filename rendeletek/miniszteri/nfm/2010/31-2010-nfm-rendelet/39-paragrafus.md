@@ -1,3 +1,3 @@
-39. §[^64]
+39. §[^70]
 
-[^64]: A 39. § a (2) bekezdés alapján hatályát vesztette.
+[^70]: A 39. § a (2) bekezdés alapján hatályát vesztette.

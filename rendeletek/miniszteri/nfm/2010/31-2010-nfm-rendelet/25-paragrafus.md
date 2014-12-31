@@ -1,4 +1,4 @@
-## 13. [^40] Karbantartásért felelős szervezet
+## 13. [^45] Karbantartásért felelős szervezet
 
 25. § (1) Az üzembehelyezés vagy a hálózaton való használat előtt valamennyi járműnek rendelkeznie kell egy karbantartásért felelős szervezettel, amelyet a nemzeti vasúti járműnyilvántartásban nyilvántartásba kell venni.
 
@@ -16,4 +16,4 @@ A karbantartást a karbantartásért felelős szervezet saját maga, vagy a vas�
 
 (5) Amennyiben a karbantartásért felelős szervezet változik, erről az üzembentartó az 5. melléklet szerinti űrlapon tájékoztatja a hatóságot a nemzeti vasúti járműnyilvántartásban szereplő adatok módosításáról. A karbantartásért felelős előző szervezetet a hatóság a nemzeti vasúti járműnyilvántartásból való törlését követően mentesíti a felelősségei alól.
 
-[^40]: A 13. alcím (25. §) a 82/2013. (XII. 29.) NFM rendelet 14. §-ával megállapított szöveg.
+[^45]: A 13. alcím (25. §) a 82/2013. (XII. 29.) NFM rendelet 14. §-ával megállapított szöveg.

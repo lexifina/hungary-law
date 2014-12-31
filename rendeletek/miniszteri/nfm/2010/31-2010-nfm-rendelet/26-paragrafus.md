@@ -12,6 +12,6 @@ kérelmezi a hatóságtól (vizsgaciklus).
 
 (3) Az (1) bekezdés szerinti határidő elmulasztása esetén – ha az üzembentartó nem kérte az üzembehelyezési engedély felfüggesztését – a vasúti jármű az időszakos vizsga elvégzéséig vasúti pályahálózaton nem közlekedhet.
 
-(4)[^41] Az (1) bekezdés a) pontjától eltérően a csak saját célú pályahálózaton közlekedő vontatójárművek esetében az időszakos vizsgaciklus 6 év.
+(4)[^46] Az (1) bekezdés a) pontjától eltérően a csak saját célú pályahálózaton közlekedő vontatójárművek esetében az időszakos vizsgaciklus 6 év.
 
-[^41]: A 26. § (4) bekezdését a 9/2012. (II. 15.) NFM rendelet 8. §-a iktatta be.
+[^46]: A 26. § (4) bekezdését a 9/2012. (II. 15.) NFM rendelet 8. §-a iktatta be.

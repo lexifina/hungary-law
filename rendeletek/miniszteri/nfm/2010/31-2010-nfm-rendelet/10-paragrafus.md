@@ -10,4 +10,7 @@
 
 (5) Teljes körű típusengedélyezési eljárás megindítása iránti kérelmet a 7. § (2) bekezdése szerinti kell benyújtani.
 
+(6)[^19] Ha a kérelmező egyidejűleg több EGT-államban típusengedély iránti kérelmet terjeszt elő, akkor a közlekedési hatóság az eljárás egyszerűsítése érdekében a többi EGT-állam nemzeti vasútbiztonsági hatóságával együttműködni köteles.
+
 [^18]: A 10. § (2) bekezdése a 82/2013. (XII. 29.) NFM rendelet 23. § d) pontja szerint módosított szöveg.
+[^19]: A 10. § (6) bekezdését az 55/2014. (XII. 23.) NFM rendelet 9. §-a iktatta be.
