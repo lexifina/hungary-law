@@ -1,0 +1,1 @@
+## 5. § Ha vízjogi engedélyezési kötelezettség alá nem tartozó létesítményt a mértékadó árvízszintek figyelmen kívül hagyásával valósítottak meg, és az az árvízvédelmi biztonságot csökkenti, a működési terület szerinti vízügyi igazgatóság intézkedések megtételét köteles kezdeményezni a hatáskörrel és illetékességgel rendelkező hatóságnál.

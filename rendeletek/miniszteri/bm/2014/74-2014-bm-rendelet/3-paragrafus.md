@@ -1,0 +1,1 @@
+## 2. § A mértékadó árvízszinteket soron kívül felül kell vizsgálni az érintett folyószakaszokon, ha a mértékadó árvízszintet vagy a korábbi legmagasabb vízszintet az árvizek meghaladják. A mértékadó árvízszint módosítását a működési terület szerinti vízügyi igazgatóság kezdeményezi az Országos Vízügyi Főigazgatóságnál.
