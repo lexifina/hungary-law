@@ -1,4 +1,4 @@
-## 11. §[^20] Nem nyújtható támogatás
+## 11. §[^21] Nem nyújtható támogatás
 
 a) acélipari tevékenységhez,
 
@@ -16,6 +16,12 @@ g) a halászati és akvakultúra-termékek piacának közös szervezéséről, a
 
 h) ha a beruházó a kérelem benyújtását megelőző két évben azonos vagy hasonló tevékenységet szüntetett meg az EGT területén, vagy a támogatási kérelem benyújtásakor – egyidejűleg benyújtott nyilatkozat alapján – tervezi, hogy azonos vagy hasonló tevékenységet szüntet meg az EGT területén a támogatási kérelemben szereplő beruházás befejezését követő két éven belül, vagy
 
-i) ha a beruházáshoz igényelt összes állami támogatás – figyelembe véve a nagyberuházásra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat.
+i) ha a beruházáshoz igényelt összes állami támogatás – figyelembe véve a nagyberuházásra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat,
 
-[^20]: A 11. § az 5/2014. (X. 31.) MvM rendelet 7. §-ával megállapított szöveg.
+j)[^22] szélessávú internet-szolgáltatást szolgáló beruházáshoz,
+
+k)[^23] a 651/2014/EU bizottsági rendelet 2. cikk 91. pontja szerinti kutatási infrastruktúrához.
+
+[^21]: A 11. § az 5/2014. (X. 31.) MvM rendelet 7. §-ával megállapított szöveg.
+[^22]: A 11. § j) pontját a 11/2014. (XII. 30.) MvM rendelet 20. §-a iktatta be.
+[^23]: A 11. § k) pontját a 11/2014. (XII. 30.) MvM rendelet 20. §-a iktatta be.

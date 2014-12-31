@@ -4,7 +4,7 @@
 
 a) azon szervezet részére, amely az Európai Bizottság támogatás visszafizetésére kötelező határozatának nem tett eleget,
 
-b)[^48] a 7. és 17. alcím szerinti támogatás kivételével – figyelembe véve a 7. § (4) bekezdésében foglaltakat – nehéz helyzetben lévő vállalkozás részére,
+b)[^51] a 7. és 17. alcím szerinti támogatás kivételével – figyelembe véve a 7. § (4) bekezdésében foglaltakat – nehéz helyzetben lévő vállalkozás részére,
 
 c) a pályázati felhívás által meghatározott kizáró ok fennállása esetén.
 
@@ -14,7 +14,7 @@ a) a 800/2008/EK bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglalt
 
 b) a 800/2008/EK bizottsági rendelet 1. cikk (4) bekezdésében meghatározott célra.
 
-(3)[^49] Nem ítélhető meg a 651/2014/EU bizottsági rendelet alapján
+(3)[^52] Nem ítélhető meg a 651/2014/EU bizottsági rendelet alapján
 
 a) az 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez a 9. és 16. alcím szerinti támogatás,
 
@@ -32,5 +32,5 @@ e) támogatás, ha azt import áruk helyett hazai áru használatától teszik f
 
 f) olyan feltétellel nyújtandó támogatás, amely az uniós jog megsértését eredményezi.
 
-[^48]: A 23. § (1) bekezdés b) pontja az 5/2014. (X. 31.) MvM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^49]: A 23. § (3) bekezdését az 5/2014. (X. 31.) MvM rendelet 14. § (2) bekezdése iktatta be.
+[^51]: A 23. § (1) bekezdés b) pontja az 5/2014. (X. 31.) MvM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^52]: A 23. § (3) bekezdését az 5/2014. (X. 31.) MvM rendelet 14. § (2) bekezdése iktatta be.

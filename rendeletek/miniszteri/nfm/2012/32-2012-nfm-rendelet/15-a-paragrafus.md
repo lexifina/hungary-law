@@ -1,4 +1,4 @@
-## 12/A. [^35] A hátrányos helyzetű munkavállaló segítésével foglalkozó személy költségeinek ellentételezéséhez nyújtott támogatás
+## 12/A. [^38] A hátrányos helyzetű munkavállaló segítésével foglalkozó személy költségeinek ellentételezéséhez nyújtott támogatás
 
 15/A. § (1) A hátrányos helyzetű munkavállaló segítésével foglalkozó személy költségeinek ellentételezéséhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
 
@@ -16,4 +16,4 @@ b) segítséget nyújt a társadalmi és adminisztratív eljárásokhoz,
 
 c) megkönnyíti a munkáltatóval való kommunikációt és a konfliktusok kezelését.
 
-[^35]: A 12/A. alcímet (15/A. §) az 5/2014. (X. 31.) MvM rendelet 9. §-a iktatta be.
+[^38]: A 12/A. alcímet (15/A. §) az 5/2014. (X. 31.) MvM rendelet 9. §-a iktatta be.

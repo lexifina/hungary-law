@@ -1,4 +1,4 @@
-12. §[^21] (1) A támogatási intenzitás legmagasabb mértéke az egyes régiókban az Atr. 25. § (1) bekezdésében meghatározott mérték, figyelemmel a (2)–(6) bekezdésben foglaltakra.
+12. §[^24] (1) A támogatási intenzitás legmagasabb mértéke az egyes régiókban az Atr. 25. § (1) bekezdésében meghatározott mérték, figyelemmel a (2)–(6) bekezdésben foglaltakra.
 
 (2) A támogatási intenzitás – nagyberuházás kivételével – kisvállalkozás esetén 20 százalékponttal, középvállalkozás esetén 10 százalékponttal növelhető, ha a beruházó a kérelem benyújtásakor, valamint a döntés meghozatalakor is megfelel az adott vállalkozási méret feltételeinek.
 
@@ -10,4 +10,4 @@
 
 (6) Annak kiszámításakor, hogy egy nagyberuházás elszámolható költsége eléri-e a jelenértéken ötvenmillió eurónak megfelelő forintösszeget, a beruházás elszámolható költségeibe tartozó tételek vagy a létrehozott új munkahelyek személyi jellegű ráfordításai közül a nagyobb értékűt kell elszámolható költségként figyelembe venni.
 
-[^21]: A 12. § az 5/2014. (X. 31.) MvM rendelet 7. §-ával megállapított szöveg.
+[^24]: A 12. § az 5/2014. (X. 31.) MvM rendelet 7. §-ával megállapított szöveg.

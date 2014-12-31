@@ -1,4 +1,4 @@
-12/A. §[^22] (1) A támogatás keretében elszámolható
+12/A. §[^25] (1) A támogatás keretében elszámolható
 
 a) a beruházás érdekében felmerült tárgyi eszközök és immateriális javak költsége,
 
@@ -60,4 +60,4 @@ b) a munkahelyeket a beruházás befejezésétől számított három éven belü
 
 c) a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számítva kis- és középvállalkozás esetén legalább három éven, nagyvállalkozás esetén legalább öt éven keresztül az érintett területen fenntartja.
 
-[^22]: A 12/A. §-t az 5/2014. (X. 31.) MvM rendelet 7. §-a iktatta be.
+[^25]: A 12/A. §-t az 5/2014. (X. 31.) MvM rendelet 7. §-a iktatta be.

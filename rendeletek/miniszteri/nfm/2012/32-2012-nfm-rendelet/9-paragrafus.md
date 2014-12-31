@@ -4,7 +4,7 @@
 
 a) olyan induló beruházásnak minősüljön, amelyet
 
-aa) az Atr. 25. § (1) bekezdés a)–c) pontja szerinti régióban kis- és középvállalkozás,vagy
+aa)[^19] az Atr. 25. § (1) bekezdés a)–c) pontja szerinti régióban kis- és középvállalkozás vagy nagyvállalkozás, vagy
 
 ab) az Atr. 25. § (1) bekezdés d) pontja szerinti településen kis- és középvállalkozás, vagy
 
@@ -18,3 +18,4 @@ b) olyan új gazdasági tevékenység végzésére irányuló induló beruházá
 
 [^17]: A 9. alcím címe az 5/2014. (X. 31.) MvM rendelet 21. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^18]: A 9. § az 5/2014. (X. 31.) MvM rendelet 7. §-ával megállapított szöveg.
+[^19]: A 9. § (1) bekezdés a) pont aa) alpontja a 11/2014. (XII. 30.) MvM rendelet 22. §-a szerint módosított szöveg.
