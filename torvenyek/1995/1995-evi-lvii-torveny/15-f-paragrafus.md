@@ -1,8 +1,8 @@
 ## Mezőgazdasági vízszolgáltatási díj
 
-15/F. § (1) Aki mezőgazdasági célú vízszolgáltatást vesz igénybe, a mezőgazdasági vízszolgáltató részére mezőgazdasági vízszolgáltatási díjat fizet.
+15/F. § (1) Aki mezőgazdasági vízszolgáltatást vesz igénybe, a szolgáltató részére mezőgazdasági vízszolgáltatási díjat fizet. Az állam az öntözési, rizstermelési és halgazdasági vízhasználat vízszolgáltatási díját kormányrendeletben meghatározottak szerint átvállalhatja.
 
-(2) A mezőgazdasági vízszolgáltatási díjat a mezőgazdasági vízszolgáltató határozza meg.
+(2)
 
 (3) A mezőgazdasági vízszolgáltatási díjat a rendelkezésre állást biztosító alapdíjból és a felhasznált vízmennyiséggel arányos díjból álló kéttényezős díjként, vízszolgáltatási idényre, időarányosan kell megállapítani.
 

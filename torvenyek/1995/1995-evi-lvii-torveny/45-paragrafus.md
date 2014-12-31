@@ -72,7 +72,7 @@ rendeletben történő megállapítására.
 
 a) a vízgazdálkodás általános szakmai követelményeinek, képesítési előírásainak, a vízrajzi feladatoknak és a vízkészletekbe történő beavatkozás szabályainak;
 
-b)
+b) a folyók mértékadó árvízszintjeinek;
 
 c) a vízgazdálkodás országos és területi rendjének;
 
@@ -92,7 +92,7 @@ j) egyes kiemelt jelentőségű vízilétesítmények rendszeres műszaki megfig
 
 k) a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó részletes szabályoknak;
 
-l)
+l) a vízkészletjárulék kiszámításának, a számításnál alkalmazandó szorzószámoknak és a befizetés rendjének;
 
 m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben;
 
