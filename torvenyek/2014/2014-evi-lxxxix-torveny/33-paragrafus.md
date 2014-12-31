@@ -7,11 +7,3 @@ a) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belü
 b) a fluortartalmú üvegházhatású gázokról és a 842/2006/EK rendelet hatályon kívül helyezéséről szóló, 2014. április 16-i 517/2014/EU európai parlament és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
