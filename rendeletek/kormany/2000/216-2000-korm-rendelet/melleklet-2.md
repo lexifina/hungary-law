@@ -20,11 +20,11 @@ Ebből: visszaírt értékvesztés
 
 Ebből: értékvesztés
 
-07.[^33] Pénzügyi műveletek bevételei
+07.[^32] Pénzügyi műveletek bevételei
 
 Ebből: értékelési különbözet
 
-08.[^34] Pénzügyi műveletek ráfordításai
+08.[^33] Pénzügyi műveletek ráfordításai
 
 Ebből: értékvesztés
 
@@ -50,5 +50,5 @@ Ebből: értékvesztés
 
 15. Mérleg szerinti eredmény (13–14)
 
-[^33]: A 2. számú melléklet „07. Pénzügyi műveletek bevételei” szövegrésze a 239/2003. (XII. 17.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 5. §-a alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell, a 2003. évi üzleti évről készített beszámolóra lehet alkalmazni.
-[^34]: A 2. számú melléklet „08. Pénzügyi műveletek ráfordításai Ebből: értékvesztés” szövegrésze a 239/2003. (XII. 17.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 5. §-a alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell, a 2003. évi üzleti évről készített beszámolóra lehet alkalmazni.
+[^32]: A 2. számú melléklet „07. Pénzügyi műveletek bevételei” szövegrésze a 239/2003. (XII. 17.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 5. §-a alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell, a 2003. évi üzleti évről készített beszámolóra lehet alkalmazni.
+[^33]: A 2. számú melléklet „08. Pénzügyi műveletek ráfordításai Ebből: értékvesztés” szövegrésze a 239/2003. (XII. 17.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 5. §-a alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell, a 2003. évi üzleti évről készített beszámolóra lehet alkalmazni.
