@@ -1,0 +1,3 @@
+## 1. § A vasútbiztonsági tanúsítványra, a biztonsági engedélyre, a biztonságirányítási rendszerekre, a biztonsági jelentésre, valamint az egyes hatósági engedélyezési eljárásokra vonatkozó részletes szabályokról szóló 40/2006. (VI. 26.) GKM rendelet (a továbbiakban: R1.) 12. §-a a következő (3a) bekezdéssel egészül ki:
+
+## „(3a) Ez a rendelet a 2004/49/EK európai parlamenti és tanácsi irányelvnek a közös biztonsági mutatók és a balesetek költségeinek számítására szolgáló közös módszerek tekintetében történő módosításáról szóló, 2014. július 9-i 2014/88/EU bizottsági irányelvnek való megfelelést szolgálja.”
