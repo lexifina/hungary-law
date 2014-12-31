@@ -26,7 +26,7 @@ b)[^55] nem kell feltüntetni a Vhr. 19. § (6) bekezdésében szereplő támoga
 
 (5)[^57] A szerződés hatálybalépésének napja nem lehet korábbi a szerződés megkötésének napjánál.
 
-(6)[^58] Az egyesített támogatási és kifizetési kérelmet a felnőttképzési szerződés megkötésének dátumától számított 24 hónapon belül, de legkésőbb 2015. január 31-ig lehet benyújtani.
+(6)[^58] Az egyesített támogatási és kifizetési kérelmet a felnőttképzési szerződés megkötésének dátumától számított 24 hónapon belül, de legkésőbb 2015. június 30-ig lehet benyújtani.
 
 (7)[^59] Az MVH és a NAKVI helyszíni ellenőrzés keretében is ellenőrizheti a Képző Szervezeteket, valamint a képzéseket, beleértve például a képzésen vezetett, a 3. számú melléklet szerinti jelenléti ívet.
 
@@ -46,13 +46,13 @@ bb) szeptember 1-jétől szeptember 30-ig;
 
 c)[^61] 2015. évben
 
-ca) március 1-jétől március 31-ig,
+ca) január 15-től február 13-ig,
 
 cb) június 1-jétől június 30-ig.
 
 (9)[^62] Az egyesített támogatási és kifizetési kérelmet a 3. melléklet szerinti adattartalommal kell benyújtani. Az egyesített támogatási és kifizetési kérelem elektronikus űrlapját az MVH rendszeresíti, és azt közzé kell tenni az MVH honlapján.
 
-(10)[^63] Az erdőgazdálkodó ügyfélnek az egyesített támogatási-kifizetési kérelmének benyújtásakor meg kell felelnie az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
+(10)[^63] Az erdőgazdálkodó ügyfélnek az egyesített támogatási-kifizetési kérelmének benyújtásakor meg kell felelnie az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
 
 [^44]: A 6/A. §-t és az azt megelőző alcímet a 4/2013. (II. 4.) VM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 47/2013. (VI. 7.) VM rendelet 2. § (13) bekezdés c) pontja.
 [^45]: A 7. §-t megelőző alcím a 47/2013. (VI. 7.) VM rendelet 2. § (8) bekezdésével megállapított szöveg.
@@ -68,9 +68,9 @@ cb) június 1-jétől június 30-ig.
 [^55]: A 7. § (3) bekezdés b) pontja a 23/2010. (III. 16.) FVM rendelet 18. § (3) bekezdésével megállapított szöveg.
 [^56]: A 7. § (4) bekezdése az 50/2009. (IV. 16.) FVM rendelet 4. § (1) bekezdésével megállapított, a 90/2011. (X. 3.) VM rendelet második (3) bekezdése szerint módosított szöveg.
 [^57]: A 7. § (5) bekezdése a 18/2010. (IX. 30.) VM rendelet 9. §-a szerint módosított szöveg.
-[^58]: A 7. § (6) bekezdése a 86/2013. (IX. 27.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^58]: A 7. § (6) bekezdése a 12/2014. (XII. 30.) MvM rendelet 8. § (4) bekezdésével megállapított szöveg.
 [^59]: A 7. § (7) bekezdése a 6/2010. (II. 2.) FVM rendelet 5. § (3) bekezdésével megállapított, a 90/2011. (X. 3.) VM rendelet 7. § (1) bekezdése, a 106/2012. (X. 11.) VM rendelet 8. § b) pontja szerint módosított szöveg.
 [^60]: A 7. § (8) bekezdését az 50/2009. (IV. 16.) FVM rendelet 4. § (3) bekezdése iktatta be, szövege a 86/2013. (IX. 27.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^61]: A 7. § (8) bekezdés c) pontja a 8/2014. (XI. 19.) MvM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^61]: A 7. § (8) bekezdés c) pontja a 12/2014. (XII. 30.) MvM rendelet 8. § (5) bekezdésével megállapított szöveg.
 [^62]: A 7. § (9) bekezdését a 6/2010. (II. 2.) FVM rendelet 5. § (3) bekezdése iktatta be, szövege a 47/2013. (VI. 7.) VM rendelet 2. § (11) bekezdésével megállapított szöveg.
-[^63]: A 7. § (10) bekezdését a 90/2011. (X. 3.) VM rendelet 3. § (4) bekezdése iktatta be, szövege a 36/2014. (IV. 4.) VM rendelet 43. §-ával megállapított szöveg.
+[^63]: A 7. § (10) bekezdését a 90/2011. (X. 3.) VM rendelet 3. § (4) bekezdése iktatta be, szövege a 12/2014. (XII. 30.) MvM rendelet 8. § (6) bekezdésével megállapított szöveg.

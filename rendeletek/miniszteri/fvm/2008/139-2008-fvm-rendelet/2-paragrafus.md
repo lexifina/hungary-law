@@ -14,7 +14,13 @@ d)[^4] erdőgazdálkodó: az a természetes vagy jogi személy,, akit vagy amely
 
 e)[^5] kölcsönös megfeleltetés előírásai: a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendeletben foglaltak szerint;
 
-f)[^6] tárgyév: az a naptári év, amelyre vonatkozóan az ÚMVP Képző Szervezet elkészíti a képzési projektjének tervét;
+f)[^6] tárgyév:
+
+fa) az a naptári év, vagy
+
+fb) a 2014. január 1. és 2015. május 31. közötti időszak,
+
+amelyre vonatkozóan az ÚMVP Képző Szervezet elkészíti a képzési projektjének tervét;
 
 g)[^7] mezőgazdasági termelő: az a természetes személy, jogi személy,, aki/amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet I. Melléklete szerinti – az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (3) bekezdés d) pontja alapján az állami adóhatósághoz bejelentett – 01.1, 01.2, 01.3, 01.4, 01.5, 01.6 és 01.7 alágazatba tartozó tevékenységet folytat, valamint minden őstermelői igazolvánnyal rendelkező személy;
 
@@ -27,7 +33,7 @@ i)[^9] az ÚMVP Képző Szervezetek integrált elektronikus rendszere: valamenny
 [^3]: A 2. § c) pontja a 32/2014. (IV. 3.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § d) pontja a 22/2014. (III. 14.) VM rendelet 66. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § e) pontja a 18/2010. (IX. 30.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § f) pontját a 6/2010. (II. 2.) FVM rendelet 1. §-a iktatta be.
+[^6]: A 2. § f) pontját a 6/2010. (II. 2.) FVM rendelet 1. §-a iktatta be, szövege a 12/2014. (XII. 30.) MvM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § g) pontját a 18/2010. (IX. 30.) VM rendelet 1. § (2) bekezdése iktatta be, szövege a 22/2014. (III. 14.) VM rendelet 66. § b) pontja szerint módosított szöveg.
 [^8]: A 2. § h) pontját a 90/2011. (X. 3.) VM rendelet 1. § (2) bekezdése iktatta be, szövege a 36/2014. (IV. 4.) VM rendelet 42. §-ával megállapított szöveg.
 [^9]: A 2. § i) pontját a 4/2013. (II. 4.) VM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 47/2013. (VI. 7.) VM rendelet 2. § (13) bekezdés a) pontja. Újonnan a 32/2014. (IV. 3.) VM rendelet 3. § (2) bekezdése iktatta be.

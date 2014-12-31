@@ -18,7 +18,7 @@ b) a konzorcium vezető partnere felel az ÚMVP Képző Szervezet e rendeletből
 
 (4)[^29] Az ÚMVP Képző Szervezet e rendelet alapján támogatható képzések szolgáltatására akkor jogosult, ha
 
-a)[^30] a 2. számú melléklet szerinti formában évenként képzési projekt tervet készít, amelyet felülvizsgálatra benyújt a NAKVI-hoz tárgyévet megelőző év szeptember 1-jéig, 2009. évre vonatkozóan e rendelet hatálybalépését követő 30 napon belül;
+a)[^30] a 2. számú melléklet szerinti formában évenként képzési projekt tervet készít, amelyet felülvizsgálatra benyújt a NAKVI-hoz tárgyévet megelőző év szeptember 1-jéig;
 
 b) a gyakorlati képzés időtartamának 100%-át – az OKJ szerinti szakképesítések esetében legalább 50%-át – az általa biztosított képzési helyszínen és oktató közreműködésével teljesíti;
 
@@ -56,7 +56,7 @@ f)[^33] a képzési projekt megvalósítására a NAKVI-val kötött hatályos m
 [^27]: A 6. § (1) bekezdés c) pontja a 86/2013. (IX. 27.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^28]: A 6. § (3) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (27) bekezdése, a 90/2011. (X. 3.) VM rendelet 7. § (1) bekezdése, a 106/2012. (X. 11.) VM rendelet 8. § b) pontja, a 32/2014. (IV. 3.) VM rendelet 3. § (8) bekezdése szerint módosított szöveg.
 [^29]: A 6. § (4) bekezdése a 18/2010. (IX. 30.) VM rendelet 3. §-ával megállapított szöveg.
-[^30]: A 6. § (4) bekezdés a) pontja a 90/2011. (X. 3.) VM rendelet 7. § (3) bekezdés a) pontja, a 106/2012. (X. 11.) VM rendelet 8. § c) pontja szerint módosított szöveg.
+[^30]: A 6. § (4) bekezdés a) pontja a 12/2014. (XII. 30.) MvM rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^31]: A 6. § (4) bekezdés d) pontja a 90/2011. (X. 3.) VM rendelet 2. § (1) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 8. § b) pontja, a 32/2014. (IV. 3.) VM rendelet 3. § (8) bekezdése szerint módosított szöveg.
 [^32]: A 6. § (4) bekezdés e) pontja a 86/2013. (IX. 27.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^33]: A 6. § (4) bekezdés f) pontja a 90/2011. (X. 3.) VM rendelet 7. § (3) bekezdés b) pontja, a 106/2012. (X. 11.) VM rendelet 8. § d) pontja szerint módosított szöveg.
