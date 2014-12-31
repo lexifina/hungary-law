@@ -4,12 +4,27 @@
 
 a) azon szervezet részére, amely az Európai Bizottság támogatás visszafizetésére kötelező határozatának nem tett eleget,
 
-b) – a közszolgáltatás ellentételezése kivételével – a nehéz helyzetben lévő vállalkozás részére,
+b)[^15] – a közszolgáltatás ellentételezése formájában nyújtható támogatás és a csekély összegű támogatás kivételével, figyelembe véve a 7. § (4) bekezdésében foglaltakat – nehéz helyzetben lévő vállalkozás részére,
 
 c) a pályázati felhívás által meghatározott kizáró ok fennállása esetén.
 
-(2) Nem ítélhető meg a 800/2008/EK bizottsági rendelet szerinti támogatás
+(2)[^16] Nem ítélhető meg a 651/2014/EU bizottsági rendelet alapján
 
-a) a 800/2008/EK bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglalt tevékenységekhez,
+a) az 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez a 8. és 10. alcím szerinti támogatás,
 
-b) a 800/2008/EK bizottsági rendelet 1. cikk (4) bekezdésében meghatározott célra.
+b) elsődleges mezőgazdasági termeléshez a 8. alcím szerinti, valamint a kis- és középvállalkozás vásárokon való részvételéhez kapcsolódó támogatás,
+
+c) mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny vállalkozás részére támogatás, ha
+
+ca) a támogatás összege az elsődleges termelőktől beszerzett vagy érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre,
+
+cb) a támogatás az elsődleges termelőknek történő teljes vagy részleges továbbítástól függ,
+
+d) támogatás exporttal kapcsolatos tevékenységekhez, ha az az exportált mennyiségekhez, értékesítési hálózat kialakításához és működtetéséhez, vagy az exporttevékenységgel összefüggésben felmerülő egyéb folyó kiadásokhoz közvetlenül kapcsolódik,
+
+e) támogatás, ha azt import áruk helyett hazai áru használatától teszik függővé,
+
+f) olyan feltétellel nyújtandó támogatás, amely az uniós jog megsértését eredményezi.
+
+[^15]: A 20. § (1) bekezdés b) pontja a 11/2014. (XII. 30.) MvM rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^16]: A 20. § (2) bekezdése a 11/2014. (XII. 30.) MvM rendelet 30. § (2) bekezdésével megállapított szöveg.

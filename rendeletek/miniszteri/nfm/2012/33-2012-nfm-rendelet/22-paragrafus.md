@@ -1,3 +1,10 @@
-22. § (1) A 800/2008/EK bizottsági rendelet hatálya alá tartozó támogatási jogcímen nyújtott támogatás különböző elszámolható költségek esetében halmozható más, a 800/2008/EK bizottsági rendelet hatálya alá tartozó támogatási jogcímen nyújtott támogatással. Azonos vagy részben azonos elszámolható költségek esetében a 800/2008/EK bizottsági rendelet hatálya alá tartozó támogatási jogcímen nyújtott támogatás abban az esetben halmozható más, a 800/2008/EK bizottsági rendelet hatálya alá tartozó támogatási jogcímen nyújtott támogatással, vagy csekély összegű támogatással, ha az nem vezet a 800/2008/EK bizottsági rendelet szerinti legmagasabb támogatási intenzitás, vagy támogatási összeg túllépéséhez.
+## 21. §[^17] A 651/2014/EU bizottsági rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
 
-(2) Egy projekthez igénybe vett összes állami támogatás – függetlenül attól, hogy annak finanszírozása uniós, országos, regionális vagy helyi forrásból történik – támogatási intenzitása nem haladhatja meg az irányadó uniós állami támogatási szabályokban meghatározott támogatási intenzitást.
+22. §[^18] (1) Azonos vagy részben azonos azonosítható elszámolható költségek esetén az e rendelet szerinti támogatás abban az esetben halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással, ha az nem vezet a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás túllépéséhez.
+
+(2) Az e rendelet szerinti támogatás különböző azonosítható elszámolható költségek esetén halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással.
+
+(3) Az egy projekthez igénybe vett összes támogatás – függetlenül attól, hogy annak finanszírozása uniós, országos, regionális vagy helyi forrásból történik – támogatási intenzitása nem haladhatja meg az irányadó uniós állami támogatási szabályokban meghatározott támogatási intenzitást vagy támogatási összeget.
+
+[^17]: A 21. § a 11/2014. (XII. 30.) MvM rendelet 31. §-ával megállapított szöveg.
+[^18]: A 22. § a 11/2014. (XII. 30.) MvM rendelet 31. §-ával megállapított szöveg.

@@ -4,4 +4,6 @@
 
 5. § (1) Az előirányzat forrásaiból a 3. §-ban meghatározott jogcímek alapján támogatásban részesíthető jogalanyok részére működési támogatásnak nem minősülő, vissza nem térítendő támogatás nyújtható.
 
-(2) A 800/2008/EK bizottsági rendelet, valamint az 1998/2006/EK bizottsági rendelet alapján kizárólag átlátható formában nyújtott támogatás nyújtható.
+(2)[^3] A 651/2014/EU bizottsági rendelet és az 1407/2013/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+
+[^3]: Az 5. § (2) bekezdése a 11/2014. (XII. 30.) MvM rendelet 26. §-ával megállapított szöveg.

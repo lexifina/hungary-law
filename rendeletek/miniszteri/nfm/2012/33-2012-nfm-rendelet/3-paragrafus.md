@@ -20,4 +20,8 @@
 
 9. kulturális közösségi létesítmények kialakítása, fejlesztése,
 
-10. közgyűjtemények iskolabarát fejlesztése, a kulturális örökség értékeinek hozzáférhetővé tétele.
+10. közgyűjtemények iskolabarát fejlesztése, a kulturális örökség értékeinek hozzáférhetővé tétele,
+
+11.[^2] képzés.
+
+[^2]: A 3. § 11. pontját a 11/2014.(XII. 30.) MvM rendelet 25. §-a iktatta be.

@@ -1,13 +1,21 @@
-## 10. § Nem nyújtható támogatás a következő költségekre:
+## 10. § Nem nyújtható támogatás
 
-a) szinten tartást szolgáló tárgyi eszközök bekerülési értéke, illetve vételára létesítmény felvásárlásakor,
+a) acélipari tevékenységhez,
 
-b) a korábban már használatba vett olyan tárgyi eszköz bekerülési értéke, amelynek alapján az 4. § szerinti kedvezményezett, más társaság vagy egyéni vállalkozó állami támogatást vett igénybe,
+b) hajógyártási tevékenységhez,
 
-c) olyan tárgyi eszköz bekerülési értéke, amelyet a kedvezményezett csődeljárás vagy felszámolás alatt álló társaságtól szerzett be,
+c) szénipari tevékenységhez,
 
-d) szállítási ágazatban a szállító berendezések (gördülőeszközök) bekerülési értéke,
+d) szintetikusszál-ipari tevékenységhez,
 
-e) személygépkocsi bekerülési értéke,
+e) ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához, vagy a kapcsolódó infrastruktúrához,
 
-f) nagyvállalkozásnál a korábban már használatba vett tárgyi eszköz bekerülési értéke, kivéve létesítmény felvásárlásakor beszerzett tárgyi eszköz vételárát, valamint a földterület, telek bekerülési értékét.
+f) energiatermelési, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
+
+g) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) meghatározott akvakultúra-termékek termelését, feldolgozását és értékesítését szolgáló beruházáshoz,
+
+h) ha a beruházó a kérelem benyújtását megelőző két évben azonos vagy hasonló tevékenységet szüntetett meg az Európai Gazdasági Térség, vagy a támogatási kérelem benyújtásakor – egyidejűleg benyújtott nyilatkozat alapján – tervezi, hogy azonos vagy hasonló tevékenységet szüntet meg az Európai Gazdasági Térség területén a támogatási kérelemben szereplő beruházás befejezését követő két éven belül,
+
+i) szélessávú internet-szolgáltatást szolgáló beruházáshoz,
+
+j) a 651/2014/EU bizottsági rendelet 2. cikk 91. pontja szerinti kutatási infrastruktúrához.
