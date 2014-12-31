@@ -7,3 +7,5 @@
 (3) Az (1) és (2) bekezdés szerinti kötelezettség teljesítése során az üvegházhatású gáz kibocsátások elszámolása évente, a Kormány rendeletében és az üvegházhatást okozó gázok kibocsátásának nyomon követésére és bejelentésére, valamint az éghajlatváltozással kapcsolatos egyéb információknak a nemzeti és uniós szintű bejelentésére szolgáló rendszerről szóló EU rendeletben meghatározott módon történik.
 
 (4) Az (1) és (2) bekezdés szerinti kötelezettség teljesítése során a 2009/406/EK európai parlamenti és tanácsi határozat 3. és 5. cikkében meghatározott rugalmas éves elszámolási szabályok vehetők igénybe.
+
+(5) Az Európai Unió 2030-as klíma- és energiapolitikai keretrendszerének végrehajtásáért, alap- és kompenzációs elemeinek szakmai kidolgozásáért és megvalósításáért az energiapolitikáért felelős miniszter felel.

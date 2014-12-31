@@ -32,4 +32,8 @@ h) a magyar energiaágazat korszerűsítését célzó, az EU ETS-irányelv 10c.
 
 i) a Magyarország által a 2003/87/EK parlamenti és tanácsi irányelv 10.c cikkének (5) bekezdése alapján benyújtott, a villamosenergia-termelés korszerűsítése céljából átmenetileg ingyenes kibocsátási egységek kiosztására vonatkozó kérelemről szóló, 2012. november 30-i C(2012) 8675 számú bizottsági határozat
 
+j) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK irányelvnek egy egységes globális piacalapú intézkedés nemzetközi légi közlekedésből származó kibocsátásokra való alkalmazásáról rendelkező nemzetközi megállapodás 2020-ig történő végrehajtására tekintettel történő módosításáról szóló, 2014. április 16-i, 421/2014/EU európai parlamenti és tanácsi rendelet,
+
+k) a nemzetközi jóváírási jogosultságoknak a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében történő meghatározásáról szóló, 2013. november 8-i 1123/2013/EU bizottsági rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.

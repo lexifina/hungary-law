@@ -2,4 +2,4 @@
 
 (2) Az egyes kereskedési időszak kezdete után négy hónappal az érvényességét vesztett, és a jelentési időszakokat követően vissza nem adott és nem törölt ÜHG-egység forgalmi jegyzékből történő törlése iránt a jegyzékkezelő intézkedik. A törléssel az ÜHG-egység megszűnik.
 
-(3) A (2) bekezdés szerint megszűnt ÜHG-egység helyett – a törléssel egyidejűleg – a kibocsátási egység jogosultjának forgalmi jegyzékben vezetett számláján a jegyzékkezelő a folyó időszakra érvényes ÜHG-egységet ír jóvá.
+(3) A (2) bekezdés szerint megszűnt ÜHG-egység helyett – a törléssel egyidejűleg – az ÜHG-egység jogosultjának forgalmi jegyzékben vezetett számláján a jegyzékkezelő a folyó időszakra érvényes ÜHG-egységet ír jóvá.

@@ -90,8 +90,20 @@ c) a közösségi rendszer egyoldalú kiterjesztése folytán került a törvén
 
 32. villamosenergia-termelő: olyan létesítmény, amely 2005. január 1-jén vagy azt követően harmadik fél számára történő értékesítésre szánt villamos energiát termelt, és amelyben az 1. mellékletben felsorolt tevékenységek közül kizárólag tüzelőanyagok égetését végzik,
 
-33. visszaadás: ÜHG-egység elszámolása az üzemeltető vagy légi jármű üzembentartó által saját létesítménye vagy légi járműve hitelesített kibocsátási adatainak terhére,
+33. visszaadás: ÜHG-egység elszámolása az üzemeltető vagy légi jármű üzembentartó által saját létesítménye vagy légi járműve hitelesített kibocsátási adatainak terhére a jegyzékkezelő felé,
 
 34. derogációs kérelem: a 2003/87/EK európai parlamenti és tanácsi irányelv 10c. cikke alapján az Európai Bizottság által a magyar energiaágazat korszerűsítését célzó, az EU ETS-irányelv 10c. cikke szerinti beruházásokról szóló SA.34086 (2012/N). számú bizottsági határozattal, és a C(2012) 8675 bizottsági határozattal (a továbbiakban: Európai Bizottság határozatai) jóváhagyott magyar derogációs kérelem,
 
 35. derogációs kiosztás: a derogációs kérelem alapján, a jelen törvény 6/A. alcímének megfelelően történő, egyszeri kiosztás egyes magyarországi villamosenergia-termelők részére.
+
+36. kereskedelmi légiközlekedési üzembentartó: olyan légi jármű üzembentartó, amely díjazás ellenében menetrendszerűen vagy nem menetrendszerűen utasok, áru vagy postai küldemények szállítására irányuló légiközlekedési szolgáltatást nyújt a nagyközönség számára,
+
+37. készenléti- vagy tartalék üzemmód: az alkalmankénti vagy kizárólag speciális körülmények megléte esetén történő üzemeltetés céljából létrehozott létesítmény működési jellemzője,
+
+38. kezdeti (múltbeli) tevékenységi szint: a létesítményrésznek kiosztott mennyisége kiszámításához használt, a 2011/278/EU bizottsági határozat 9. cikkének vagy adott esetben a 18. cikkének megfelelően kiszámított tevékenységi szint,
+
+39. mérvadó létesítményrész: olyan létesítményrész, amely legalább 30%-kal hozzájárul a létesítménynek ingyenesen kiosztott kibocsátási egységek végleges éves mennyiségéhez vagy több mint 50 000 kibocsátási egységnek a létesítmény részére történő kiosztásához,
+
+40. részleges működésbeszüntetés: ha egy mérvadó létesítményrész tevékenységi szintjét egy adott naptári évben a létesítményrésznek kiosztott mennyiség kiszámításához használt kezdeti tevékenységi szinthez képest az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint legalább 50%-kal, vagy legalább 75%-kal vagy 90%-kal csökkenti,
+
+41. részleges működésbeszüntetést követő újraindítás: olyan jelentős változás, amikor a működését beszüntetett létesítményrész tevékenységi szintje ismét meghaladja az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerinti kezdeti tevékenységi szintjének 25%-át, illetve 50%-át kitevő küszöbértéket.

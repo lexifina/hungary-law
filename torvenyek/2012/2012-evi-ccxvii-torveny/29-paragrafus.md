@@ -1,9 +1,23 @@
-## 10. A kibocsátáscsökkentési egység és az igazolt kibocsátás-csökkentési egység beszámítása a harmadik kereskedési időszakban
+## 10. A kibocsátás-csökkentési egység és az igazolt kibocsátás-csökkentési egység felhasználása a harmadik kereskedési időszakban
 
-29. § (1) Az üzemeltető és a légi jármű üzembentartó a 2008–2012 közötti kereskedési időszakban a részükre engedélyezett, de fel nem használt, illetve a korábbi kereskedési időszakban be nem számított, az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvényben (a továbbiakban: Éhvt.) meghatározott kibocsátás-csökkentési egység (a továbbiakban: ERU) és az igazolt kibocsátás-csökkentési egység (a továbbiakban: CER) 2013–2020 közötti időszakra érvényes kibocsátási egységre történő átváltását kérelmezhetik az energiapolitikáért felelős miniszternél. A kérelmet legkésőbb 2014. június 30-ig kell benyújtani. Az energiapolitikáért felelős miniszter 2015. március 31-ig gondoskodik az átváltásról és a kibocsátási egységeknek az üzemeltető, a légi jármű üzembentartó forgalmi jegyzékben vezetett számláján történő jóváírásáról.
+29. § (1) A 2013–2020 közötti kereskedési időszakban az üzemeltető és a légi jármű üzembentartó az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvényben (a továbbiakban: Éhvt.) meghatározott kibocsátás-csökkentési egységet (a továbbiakban: ERU) és az igazolt kibocsátás-csökkentési egységet (a továbbiakban: CER) (ERU és CER a továbbiakban együtt: nemzetközi jóváírási jogosultságok) felhasználhatja a (2)–(5) bekezdésben meghatározottak szerint.
 
-(2) Az üzemeltető a 2008–2020 közötti időszakban legfeljebb a számára a második kereskedési időszakra (2008–2012) – új belépők esetében a számára új belépőként történő kiosztást is figyelembe véve – engedélyezett mennyiség erejéig, vagy ha az magasabb, a számára a második kereskedési időszakban (2008–2012) térítésmentesen kiosztott kibocsátási egységek 11%-áig beszámíthat ERU és CER egységeket a visszaadási kötelezettsége teljesítéséhez.
+(2) Az üzemeltetők és légi jármű üzembentartók 2015. március 31-ig kérhetik a 2008 és 2012 közötti időszak során a közösségi rendszerben felhasználható projekttípusok tekintetében a 2012-ig elért kibocsátáscsökkentés alapján kiadott nemzetközi jóváírási jogosultságok ÜHG-egységre történő átváltását az alábbiak figyelembevételével, mindig a magasabb érték szerint:
 
-(3) A légi jármű üzembentartó a 2013–2020 közötti kereskedési időszakban a hitelesített kibocsátása 1,5%-ának megfelelő mennyiségig számíthat be ERU és CER egységeket a visszaadási kötelezettsége teljesítéséhez.
+a) a 2008 és 2012 közötti időszakra vonatkozóan a részükre felhasználásra engedélyezett, de fel nem használt nemzetközi jóváírási jogosultságok erejéig, vagy
 
-(4) Az (1) szerinti átváltás, valamint a (2) és (3) bekezdés szerinti beszámítás során nem használható fel olyan egység, amely nukleáris létesítményekkel kapcsolatban, földhasználat, a földhasználat megváltozása vagy az erdőgazdálkodási tevékenység eredményeire tekintettel került kiadásra, valamint amelyre uniós szinten elfogadott korlátozás vonatkozik.
+b) a 2008 és 2012 közötti időszakban a számukra kiosztott kibocsátási egység erejéig, amelynek aránya nem lehet magasabb 11%-nál.
+
+(3) Az üzemeltetők és légi jármű üzembentartók 2020. december 31-ig kérhetik a 2008-tól 2012-ig terjedő időszak során a közösségi rendszerben felhasználható projekttípusok tekintetében a 2013 előtt bejegyzett projektek esetében 2013-tól elérendő kibocsátáscsökkentés alapján kiadott nemzetközi jóváírási jogosultságok ÜHG-egységre történő átváltását:
+
+a) a 2008 és 2012 közötti időszakra vonatkozóan a részükre felhasználásra engedélyezett, de fel nem használt nemzetközi jóváírási jogosultságok erejéig, vagy
+
+b) a 2008 és 2012 közötti időszakban a számukra kiosztott kibocsátási egység erejéig, amelynek aránya nem lehet magasabb 11%-nál.
+
+(4) Az üzemeltetők és légi jármű üzembentartók a legkevésbé fejlett országokban 2013 után megkezdendő projektjeikben 2013-tól elért kibocsátáscsökkentés alapján kiadott CER-ek ÜHG-egységre történő átváltását a közösségi rendszerben a 2008-tól 2012-ig terjedő időszak során felhasználható projekttípusok vonatkozásában az alábbiakban meghatározott mennyiségek erejéig addig kérelmezhetik, ameddig a projektben érintett országok erre vonatkozó megállapodást nem ratifikálnak a Közösséggel, de legkésőbb 2020. december 31-ig:
+
+a) a 2008 és 2012 közötti időszakra vonatkozóan a részükre felhasználásra engedélyezett, de fel nem használt nemzetközi jóváírási jogosultságok erejéig, vagy
+
+b) a 2008 és 2012 közötti időszakban a számukra kiosztott kibocsátási egység erejéig, amelynek aránya nem lehet magasabb 11%-nál.
+
+(5) Az Európai Bizottság által ellenőrzött és jóváhagyott nemzetközi jóváírási jogosultságok (1)–(4) bekezdés szerinti felhasználására vonatkozó jogosultsági tábláját a nemzeti tisztviselő kezeli.
