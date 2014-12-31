@@ -20,6 +20,8 @@ b) külföldön indított utalás esetében HU62 11707000-22222222-00000000, SWI
 
 (8) Az Alap bevételei kizárólag az államadósság csökkentésére használhatók fel.
 
-(9) Az (8) bekezdés szerinti felhasználás a Nyugdíjreform és Adósságcsökkentő Alap eszközeinek felhasználásával megegyező módon történik. Ennek érdekében az Alap bevételeit – a bevétel megérkezését követő 3 napon belül – át kell utalni a Nyugdíjreform és Adósságcsökkentő Alap javára.
+(9)[^2] Az Alap bevételeit – a bevétel megérkezését követő 3 napon belül – át kell utalni a központi költségvetés javára, amelyet a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 4. Egyéb költségvetési bevételek cím, 1. Vegyes bevételek alcímen belül önálló jogcímcsoportként kell elszámolni. Az államadósság-csökkentési cél megvalósulása érdekében az Államadósság Kezelő Központ Zrt. (a továbbiakban: ÁKK Zrt.) az átutalt összeggel egyező összegű államadósság-csökkentési műveletet hajt végre. A kincstár az említett bevételek összegéről azok beérkezését követő hónap 15. napjáig írásos tájékoztatást küld az ÁKK Zrt. részére.
 
 (10) Az Alap vállalkozási tevékenységet nem végezhet.
+
+[^2]: A 2. § (9) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 70. §-ával megállapított szöveg.
