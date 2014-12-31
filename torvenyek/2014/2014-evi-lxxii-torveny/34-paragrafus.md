@@ -1,3 +1,0 @@
-34. § A Be. 574. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az összbüntetési eljárást a bíróság hivatalból vagy indítványra folytatja le. Az összbüntetési eljárás lefolytatását az elítélt, a védő vagy az ügyész indítványozhatja. Az összbüntetési eljárás lefolytatásához – kivéve ha azt az elítélt indítványozta – az elítélt hozzájárulását minden esetben be kell szerezni. Az elítélt az indítványát vagy a hozzájárulását az első fokú ítélet meghozataláig visszavonhatja, ebben az esetben a bíróság az eljárást megszünteti. A bíróság az összbüntetésbe foglalást ítélettel, az erre irányuló indítvány elutasítását végzéssel mondja ki. Az ítéletben a bíróság az 556. és 557. §-ban foglaltakról is rendelkezhet.”
