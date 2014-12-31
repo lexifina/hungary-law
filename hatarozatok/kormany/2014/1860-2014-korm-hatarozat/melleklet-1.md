@@ -8,6 +8,8 @@
 
 ## Határidő: azonnal
 
-## 4. visszavonja az Észak-Magyarországi Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról és a Magyar Nemzeti Digitális Archívum, Nemzeti Filmtörténeti Élménypark kialakítását célzó fejlesztésének támogathatósága céljából kiemelt projekt felhívás biztosításáról szóló 1555/2014. (X. 1.) Korm. határozat 1. pontját és 1. mellékletét.
+## 4.[^1]
 
 1. melléklet az 1860/2014. (XII. 30.) Korm. határozathoz
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
