@@ -176,7 +176,7 @@ Alulírott .....................................................................
 
 járó adót ................................-ban fizetem meg. (az ország neve)
 
-Kijelentem továbbá, hogy adóazonosító jellel rendelkezem/nem rendelkezem Magyarországon.[^1]
+Kijelentem továbbá, hogy adóazonosító jellel rendelkezem/nem rendelkezem Magyarországon.[^9]
 
 Amennyiben Magyarországon rendelkezem adóazonosító jellel, úgy az a következő: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
@@ -222,4 +222,4 @@ Kelt:
 
 Aláírás
 
-[^1]: A megfelelő aláhúzandó, illetve kitöltendő.
+[^9]: A megfelelő aláhúzandó, illetve kitöltendő.
