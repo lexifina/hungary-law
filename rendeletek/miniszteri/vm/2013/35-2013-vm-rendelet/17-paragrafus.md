@@ -1,6 +1,6 @@
 ## 8. A kifizetési kérelem benyújtása
 
-17. § (1)[^16] A kifizetési kérelmet a Vhr. 16/B. § (1) bekezdésében meghatározott időszakoktól eltérően január 1. és június 30., valamint augusztus 1. és december 31. között elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül kell benyújtani. A kérelemhez csatolandó dokumentumokat szkennelés útján előállított formában kell csatolni a kérelemhez. A kifizetési kérelem benyújtása és a kifizetési kérelem alapján indult eljárás során a 15. § (2)–(9) bekezdés rendelkezéseit megfelelően alkalmazni kell.
+17. § (1)[^16] A kifizetési kérelmet elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül kell benyújtani. A kérelemhez csatolandó dokumentumokat szkennelés útján előállított formában kell csatolni a kérelemhez. A kifizetési kérelem benyújtása és a kifizetési kérelem alapján indult eljárás során a 15. § (2)–(9) bekezdés rendelkezéseit megfelelően alkalmazni kell.
 
 (2) Természetes személy ügyfél esetén az első kifizetési kérelemhez csatolni kell az adóbejelentkezési lap másolatát.
 
@@ -10,7 +10,7 @@
 
 (5)[^19] Kifizetési kérelem legkésőbb 2015. május 31. napjáig nyújtható be.
 
-[^16]: A 17. § (1) bekezdése a 32/2014. (IV. 3.) VM rendelet 4. § (1) bekezdésével megállapított, a 8/2014. (XI. 19.) MvM rendelet 17. § a) pontja szerint módosított szöveg.
+[^16]: A 17. § (1) bekezdése a 12/2014. (XII. 30.) MvM rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^17]: A 17. § (3) bekezdését a 121/2013. (XII. 16.) VM rendelet 31. § (2) bekezdése iktatta be, hatályon kívül helyezte a 8/2014. (XI. 19.) MvM rendelet 17. § b) pontja.
 [^18]: A 17. § (4) bekezdését a 32/2014. (IV. 3.) VM rendelet 4. § (2) bekezdése iktatta be, szövege az 1/2014. (IX. 15.) MvM rendelet 28. § (2) bekezdésével megállapított szöveg.
 [^19]: A 17. § (5) bekezdését az 1/2014. (IX. 15.) MvM rendelet 28. § (3) bekezdése iktatta be.
