@@ -1,27 +1,19 @@
-## 15. Kockázati tőke formájában nyújtott támogatásokra vonatkozó szabályok
+## 15. [^17] A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatásra vonatkozó szabályok
 
-20. § (1) A 6. § i) pontja alapján a (2)–(7) bekezdésben szereplő feltételek teljesülése esetén nyújtható támogatás.
+20. § (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás)
 
-(2) A befektetési alap által nyújtandó beruházási részösszegek bármely tizenkét hónap alatt vállalkozásonként nem haladhatják meg a 1,5 millió eurónak megfelelő forintösszeget.
+a) beruházási támogatásként sportlétesítmény és multifunkcionális szabadidős létesítmény építéséhez, bővítéséhez vagy korszerűsítéséhez,
 
-(3) A kockázati tőkejuttatás magvető tőke, indulótőke, illetve növekedési tőke formájában történhet.
+b) működési támogatásként sportlétesítmény működéséhez
 
-(4) A befektetési alap a kis- és középvállalkozásokba fektetett teljes költségvetésének legalább 70%-át sajáttőke- és kvázi-sajáttőke formájában nyújtja.
+## nyújtható.
 
-(5) A befektetési alap a kis- és középvállalkozásokba kizárólag abban az esetben fektet be, ha befektetésével egyidejűleg legalább az összbefektetés 30%-áig független magánbefektető is befektet ugyanabba a vállalkozásba.
+(2) A támogatott sportlétesítmény, multifunkcionális szabadidős létesítmény építésével, bővítésével, korszerűsítésével, működtetésével, üzemeltetésével történő megbízás odaítélése során átlátható és megkülönböztetés-mentes módon, a vonatkozó jogszabályok figyelembe vételével kell eljárni.
 
-(6) A kockázati tőkejuttatás feltétele, hogy
+(3) A támogatott sportlétesítményhez, multifunkcionális szabadidős létesítményhez a felhasználók számára átlátható és megkülönböztetés-mentes módon kell hozzáférést biztosítani. A beruházási költséget legalább 30%-ban finanszírozó vállalkozás a támogatott létesítményt kedvezőbb feltételek mellett használhatja, ha e feltételeket nyilvánossá teszik.
 
-a) a befektetésre vonatkozóan üzleti terv készül, amely részletes információkat tartalmaz a termékről, az értékesítésről, valamint a jövedelmezőség alakulásáról, és megállapítja a projekt előzetes életképességét, és
+(4) A támogatott sportlétesítmény nem állhat egyetlen hivatásos sportoló vagy hivatásos csapat kizárólagos használatában. A létesítményt az éves időbeli kapacitás legalább 20%-ában más hivatásos vagy amatőr sportolónak vagy csapatnak kell használnia.
 
-b) minden befektetésre vonatkozóan világos és reális kilépési stratégia áll rendelkezésre.
+(5) Ha a támogatott sportlétesítményt hivatásos csapat használja, a hivatásos csapat esetén alkalmazott díjszámítási feltételeket nyilvánossá kell tenni.
 
-(7) A befektetési alap üzleti alapon történő irányításának biztosítása érdekében a következő feltételeknek kell teljesülniük:
-
-a) a szakmai alapkezelő és az alapban résztvevők közötti megállapodás előírja, hogy a vezetők javadalmazása teljesítményhez kötött,
-
-b) a szakmai alapkezelő és az alapban résztvevők közötti megállapodás meghatározza az alap célkitűzéseit és a befektetések javasolt időzítéseit,
-
-c) a magánbefektetők képviseltetik magukat a döntéshozatalban, és
-
-d) az alapkezelés a legjobb gyakorlatok alkalmazásával és prudenciális felügyelet mellett zajlik.
+[^17]: A 15. alcím (20–20/B. §) a 11/2014. (XII. 30.) MvM rendelet 8. §-ával megállapított szöveg.

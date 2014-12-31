@@ -1,11 +1,11 @@
-12. § (1) Elszámolható költségek a kisvállalkozás létrehozásához közvetlenül kapcsolódó jogi, tanácsadói, konzultációs és adminisztratív költségek, valamint – ha a vállalkozás létrehozását követő első öt évben merülnek fel – a következő költségek:
+## 11. § Az induló vállalkozásnak nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) azon tőzsdén nem jegyzett kisvállalkozás részére nyújtható, amely legfeljebb öt éve került bejegyzésre, nem összefonódás útján jött létre és még nem osztott fel nyereséget. Azon vállalkozás esetén, amely nem kerül hivatalos bejegyzésre, az öt éves periódus kezdete a gazdasági tevékenység megkezdésének az időpontja vagy a gazdasági tevékenységre vonatkozó adófizetés kezdő időpontja.
 
-a) a külső finanszírozás kamata és a saját tőkére jutó osztalék, ha a referencia-kamatlábbal számolt osztalékot nem haladja meg,
+12. § (1) Ha a támogatás formája nem piaci kamatozású, legfeljebb tízéves futamidőre nyújtott hitel, annak névértéke nem haladhatja meg
 
-b) a termelési létesítmény, felszerelés bérleti díja,
+a) az 1 millió eurót,
 
-c) energia-, víz- és fűtési díj, adók – az általános forgalmi adó és a társasági adó kivételével – és adminisztratív díjak,
+b) az Atr. 25. § (1) bekezdés d) pontja szerinti településen letelepedett vállalkozás esetén az 1,5 millió eurót,
 
-d) a termelési létesítmény, felszerelés lízingdíja, az értékcsökkenés, valamint a bérköltségek, ha az alapul szolgáló beruházás vagy a munkahely-teremtési és a munkaerő-felvételi intézkedések nem részesültek egyéb támogatásban.
+c) az Atr. 25. § (1) bekezdés a)–c) pontja szerinti régióban letelepedett vállalkozás esetén a 2 millió eurót.
 
-(2) Azon kisvállalkozások, amelyeket a támogatási döntés meghozatalát megelőző 12 hónapban bezárt vállalkozások résztulajdonosai irányítanak, nem részesülhetnek támogatásban, ha az érintett vállalkozások ugyanazon az érintett piacokon vagy szomszédos piacokon tevékenykednek.
+(2) Az 5 és 10 év közötti futamidővel rendelkező hitel esetén a névérték legmagasabb összege az (1) bekezdésben meghatározott összeg, valamint a 10 év és a hitel tényleges futamideje hányadosának szorzataként határozható meg. Az 5 évnél rövidebb futamidejű hitel esetén a legmagasabb összeg megegyezik az 5 éves futamidejű hitelre vonatkozó legmagasabb összeggel.

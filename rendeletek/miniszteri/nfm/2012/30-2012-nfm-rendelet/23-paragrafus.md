@@ -1,13 +1,13 @@
-23. § (1) A 800/2008/EK bizottsági rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett még a projekt megkezdése előtt a támogatás iránti kérelmét benyújtja.
+23. §[^21] (1) A 800/2008/EK bizottsági rendelet és a 651/2014/EU bizottsági rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett a projekt megkezdése előtt a támogatási kérelmét – a 651/2014/EU bizottsági rendelet szerinti támogatás esetén a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemekkel írásban – benyújtotta.
 
-(2) Nagyvállalkozások esetében a kedvezményezettek kötelesek igazolni, hogy
+(2) Ha a kedvezményezett nagyvállalkozás, a 800/2008/EK bizottsági rendelet szerinti támogatás esetén köteles igazolni, hogy
 
 a) a támogatás segítségével lényegesen megnövekszik a projekt mérete,
 
 b) kiszélesedik a tevékenység köre,
 
-c) növekszik a kedvezményezett által a projektre fordítandó összeg,
+c) növekszik a kedvezményezett által a projektre fordítandó összeg, vagy
 
-d) lényegesen felgyorsul a projekt végrehajtási üteme, vagy
+d) lényegesen felgyorsul a projekt végrehajtási üteme.
 
-e) regionális beruházási és foglalkoztatási támogatás esetében a projekt a támogatás hiányában nem az érintett támogatott régióban valósult volna meg.
+[^21]: A 23. § a 11/2014. (XII. 30.) MvM rendelet 10. §-ával megállapított szöveg.

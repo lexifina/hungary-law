@@ -1,27 +1,21 @@
-9. § (1) A támogatás akkor vehető igénybe, ha a kedvezményezett kötelezettséget vállal arra, hogy a beruházást annak befejezésétől számított legalább öt évig – kis- és középvállalkozás esetében legalább három évig – fenntartja az érintett régióban.
+## 9. § Nem nyújtható támogatás
 
-(2) Az (1) bekezdésben meghatározott követelmény nem akadályozza a gyors technológiai változások miatt a meghatározott fenntartási időszak alatt korszerűtlenné vált eszköz cseréjét, ha a fenntartási időszak alatt a gazdasági tevékenység fenntartása az érintett régióban biztosított. A gyors technológiai változások miatt a meghatározott fenntartási időszak alatt korszerűtlenné vált üzem, illetve eszköz cseréjét követő fenntartási időszakban a kedvezményezett a gyors technológiai változások miatt a fenntartási időszak alatt korszerűtlenné vált üzem, illetve eszköz cseréjére támogatásban nem részesülhet.
+a) acélipari tevékenységhez,
 
-(3) A támogatás akkor vehető igénybe, ha a kedvezményezett a tárgyi eszközök és az immateriális javak beszerzésekor, illetve felvásárlás esetén az elszámolható költségek legalább 25%-át saját forrásból biztosítja.
+b) hajógyártási tevékenységhez,
 
-(4) Az elszámolható költséget a szokásos piaci áron kell figyelembe venni, ha az a kedvezményezett és a vele kapcsolt vállalkozási viszonyban lévő személy között a szokásos piaci ártól eltérő áron kötött szerződés alapján merült fel.
+c) szénipari tevékenységhez,
 
-(5) Az immateriális eszközök költségként csak akkor számolhatóak el, ha
+d) szintetikusszál-ipari tevékenységhez,
 
-a) kizárólag a regionális támogatásban részesülő létesítményben használják fel,
+e) ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához, vagy a kapcsolódó infrastruktúrához,
 
-b) amortizálható eszköznek minősülnek,
+f) energiatermelési, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
 
-c) piaci feltételek mellett olyan társaságtól szerezték be, amely felett a kedvezményezettnek külön jogszabály szerinti sem közvetlen, sem közvetett befolyása nincs,
+g) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) meghatározott akvakultúra-termékek termelését, feldolgozását és értékesítését szolgáló beruházáshoz,
 
-d) a kedvezményezett immateriális eszközként tartja nyilván azokat, a kedvezményezett tulajdonát képezik nagyvállalatok esetén legalább öt, kis- és középvállalkozás esetében legalább három éven keresztül.
+h) ha a beruházó a kérelem benyújtását megelőző két évben azonos vagy hasonló tevékenységet szüntetett meg az Európai Gazdasági Térség, vagy a támogatási kérelem benyújtásakor – egyidejűleg benyújtott nyilatkozat alapján – tervezi, hogy azonos vagy hasonló tevékenységet szüntet meg az Európai Gazdasági Térség területén a támogatási kérelemben szereplő beruházás befejezését követő két éven belül,
 
-(6) Nagyvállalatok esetében az immateriális javak aránya nem haladhatja meg az elszámolható költségek 50%-át.
+i) szélessávú internet-szolgáltatást szolgáló beruházáshoz,
 
-(7) A beruházáshoz kapcsolódóan csak az annak megvalósításához feltétlenül szükséges ingatlan megvásárlásának költsége számolható el.
-
-(8) A költségvetésből nyújtott támogatás igénybevételével megvalósult beruházások a fenntartási időszak végéig kizárólag a támogatási szerződésben és a pályázatban meghatározott céloknak megfelelően hasznosíthatók. A költségvetésből támogatott beruházással létrehozott vagyon – ha az a kedvezményezett tulajdonába, illetve vagyonkezelésébe kerül – az államháztartásról szóló törvény végrehajtásáról szóló kormányrendeletben (a továbbiakban: Ávr.) meghatározott feltételek mellett, a támogatási szerződésben foglalt kötelezettségek lejártáig csak a támogató előzetes jóváhagyásával idegeníthető el, adható bérbe vagy más használatába, illetve terhelhető meg.
-
-(9) Ha az elidegenítéshez a támogató hozzájárult, a kedvezményezett mentesül a támogatási összeg visszafizetésének kötelezettsége alól. Hozzájárulás hiányában a kedvezményezett köteles a tárgyi eszköz értékére eső támogatást az Ávr. szerint visszafizetni.
-
-(10) Ha a támogatás kiszámítása a bérköltségek alapján történik, a támogathatóság feltétele, hogy a munkahelyeket közvetlenül a beruházási projekt hozza létre, valamint a munkahelyeket a beruházás befejezésétől számított 3 éven belül létre kell hozni és a munkahelyeket legalább öt évig, kis- és középvállalkozások esetében legalább 3 évig fenn kell tartani.
+j) a 651/2014/EU bizottsági rendelet 2. cikk 91. pontja szerinti kutatási infrastruktúrához.

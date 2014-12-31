@@ -20,4 +20,6 @@ f) kedvezményes lízing
 
 (2) Az (1) bekezdésben meghatározott támogatási formák egy kedvezményezett tekintetében együttesen és egy időben is alkalmazhatók.
 
-(3) A 800/2008/EK bizottsági rendelet, valamint az 1998/2006/EK bizottsági rendelet alapján kizárólag átlátható formában nyújtott támogatás nyújtható.
+(3)[^3] A 800/2008/EK bizottsági rendelet, a 651/2014/EU bizottsági rendelet, valamint az 1407/2013/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+
+[^3]: Az 5. § (3) bekezdése a 11/2014. (XII. 30.) MvM rendelet 3. §-ával megállapított szöveg.

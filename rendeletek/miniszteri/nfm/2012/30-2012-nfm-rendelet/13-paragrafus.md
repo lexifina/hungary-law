@@ -1,17 +1,11 @@
-## 9. Az energia-megtakarítási intézkedéshez nyújtott környezetvédelmi beruházási támogatásra vonatkozó szabályok
+## 9. [^13] Az energiahatékonysági intézkedéshez nyújtott beruházási támogatásra vonatkozó szabályok
 
-13. § (1) Energia-megtakarítási intézkedésekhez nyújtott környezetvédelmi beruházási támogatás célja, hogy a vállalkozások energia-megtakarítást érjenek el.
+13. § (1) A vállalkozások energia-megtakarítást eredményező beruházásaihoz kapcsolódó energiahatékonysági intézkedéshez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 30%-át.
 
-(2) Elszámolható költségnek minősül a vállalkozás energia-megtakarítását növelő
+(2) Nem nyújtható támogatás már elfogadott, de még nem hatályos uniós szabványnak való megfelelés érdekében megvalósított beruházáshoz.
 
-a) beruházás többletköltsége, vagy
+(3) A támogatási intenzitás középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal növelhető.
 
-b) olyan beruházás többletköltsége, amely a közösségi szabványok által előírtnál magasabb szintű energia-megtakarítás megvalósításához szükséges.
+(4) A támogatási intenzitás – a (2) bekezdésben meghatározott mértéken túl – az Atr. 25. § (1) bekezdés a)–c) pontja szerinti régióban megvalósuló beruházás esetén 15 százalékponttal, az Atr. 25. § (1) bekezdés d) pontja szerinti településen megvalósuló beruházás esetén 5 százalékponttal növelhető.
 
-(3) Az elszámolható költségek kiszámításához a 800/2008/EK bizottsági rendelet 18. cikk (6) és (7) bekezdésében meghatározott módszert kell alkalmazni, valamint a (2) bekezdés b) pontja szerinti esetben a 800/2008/EK bizottsági rendelet 21. cikk (3) bekezdését kell figyelembe venni.
-
-(4) A támogatás támogatási intenzitása a (2) bekezdés a) pontja szerinti esetben nem haladhatja meg az elszámolható költségek 20%-át.
-
-(5) A támogatás támogatási intenzitása a (2) bekezdés b) pontja szerinti esetben nem haladhatja meg az elszámolható költségek 60%-át.
-
-(6) A (4) és (5) bekezdésben meghatározott támogatási intenzitás kisvállalkozások esetében 20 százalékponttal, középvállalkozások esetében 10 százalékponttal növelhető.
+[^13]: A 9. alcím (7–10/B. §) a 11/2014. (XII. 30.) MvM rendelet 5. §-ával megállapított szöveg.
