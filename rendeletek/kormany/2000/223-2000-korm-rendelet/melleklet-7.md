@@ -6,7 +6,7 @@
 
 ## A) Fedezeti tartalék
 
-## I.[^200] Egyéni számlákon
+## I.[^204] Egyéni számlákon
 
 ## 01. Nyitó állomány
 
@@ -36,7 +36,7 @@
 
 ## 13. Egyéni számlák záró állománya
 
-## II.[^201] Szolgáltatási tartalékon
+## II.[^205] Szolgáltatási tartalékon
 
 ## 01. Nyitó állomány
 
@@ -92,7 +92,7 @@
 
 ## 11. .... céltartalék záró állománya
 
-## C)[^202] Céltartalékok állománya összesen
+## C)[^206] Céltartalékok állománya összesen
 
 ## ---------------
 
@@ -130,9 +130,9 @@
 
 ## Összesen:
 
-7–8. számú melléklet a 223/2000. (XII. 19.) Korm. rendelethez[^203]
+7–8. számú melléklet a 223/2000. (XII. 19.) Korm. rendelethez[^207]
 
-[^200]: A 6. számú melléklet A) pontjának I. része a 288/2002. (XII. 23.) Korm. rendelet 27. §-ának (2) bekezdése szerint kiegészített szöveg, e módosító rendelet 28. §-ának (1) bekezdése alapján rendelkezéseit először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
-[^201]: A 6. számú melléklet A) pontjának II. része a 288/2002. (XII. 23.) Korm. rendelet 27. §-ának (2) bekezdése szerint kiegészített szöveg, e módosító rendelet 28. §-ának (1) bekezdése alapján rendelkezéseit először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
-[^202]: A 6. számú melléklet C) pontja a 288/2002. (XII. 23.) Korm. rendelet 27. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 28. §-ának (1) bekezdése alapján rendelkezéseit először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
-[^203]: A 7–8. számú mellékletet a 345/2010. (XII. 28.) Korm. rendelet 17. §-a hatályon kívül helyezte.
+[^204]: A 6. számú melléklet A) pontjának I. része a 288/2002. (XII. 23.) Korm. rendelet 27. §-ának (2) bekezdése szerint kiegészített szöveg, e módosító rendelet 28. §-ának (1) bekezdése alapján rendelkezéseit először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
+[^205]: A 6. számú melléklet A) pontjának II. része a 288/2002. (XII. 23.) Korm. rendelet 27. §-ának (2) bekezdése szerint kiegészített szöveg, e módosító rendelet 28. §-ának (1) bekezdése alapján rendelkezéseit először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
+[^206]: A 6. számú melléklet C) pontja a 288/2002. (XII. 23.) Korm. rendelet 27. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 28. §-ának (1) bekezdése alapján rendelkezéseit először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
+[^207]: A 7–8. számú mellékletet a 345/2010. (XII. 28.) Korm. rendelet 17. §-a hatályon kívül helyezte.

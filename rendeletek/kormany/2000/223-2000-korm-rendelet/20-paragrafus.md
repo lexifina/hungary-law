@@ -2,8 +2,8 @@
 
 (2) Az elkülönített betétszámlán a vagyonkezelő, illetve letétkezelő vállalkozás részére befektetés céljára rendelkezésre bocsátott, még fel nem használt pénzeszközök összegét kell kimutatni.
 
-(3)[^38] A pénzeszközök értékelési különbözeteként kell kimutatni a deviza- és a forintbetét számlákon lévő pénzeszköz időarányos kamatát, továbbá a valuta- és devizakészlet választott hitelintézet által az értékelés napjára vonatkozóan meghirdetett devizavételi és devizaeladási árfolyamának átlagán, vagy a Magyar Nemzeti Bank által közzétett, hivatalos devizaárfolyamán átszámított forintértéke és a könyv szerinti értéke közötti különbözet összegét.
+(3)[^42] A pénzeszközök értékelési különbözeteként kell kimutatni a deviza- és a forintbetét számlákon lévő pénzeszköz időarányos kamatát, továbbá a valuta- és devizakészlet választott hitelintézet által az értékelés napjára vonatkozóan meghirdetett devizavételi és devizaeladási árfolyamának átlagán, vagy a Magyar Nemzeti Bank által közzétett, hivatalos devizaárfolyamán átszámított forintértéke és a könyv szerinti értéke közötti különbözet összegét.
 
 (4) A magánnyugdíjpénztárat működtető önkéntes nyugdíjpénztár a pénzeszközök között elkülönítetten köteles kimutatni a magánnyugdíjpénztári elszámolási betétszámláját és az önkéntes nyugdíjpénztári elszámolási számláját.
 
-[^38]: A 20. § (3) bekezdése a 288/2002. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg, e módosító rendelet 28. §-ának (1) bekezdése alapján rendelkezéseit először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
+[^42]: A 20. § (3) bekezdése a 288/2002. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg, e módosító rendelet 28. §-ának (1) bekezdése alapján rendelkezéseit először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.

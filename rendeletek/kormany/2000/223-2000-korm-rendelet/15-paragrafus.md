@@ -12,10 +12,10 @@ b) tartós befektetési célú ingatlanok és kapcsolódó vagyoni értékű jog
 
 (5) Beruházásra adott előlegként kell kimutatni a pénztár működési és kiegészítő vállalkozási tevékenységét szolgáló tárgyi eszközök, valamint a tartós befektetési célú ingatlanok beszerzésére, felújítására a beruházási szállítónak ilyen címen átutalt – a levonható előzetesen felszámított általános forgalmi adót nem tartalmazó – összegeket.
 
-(6)[^25] Tárgyi eszközök értékelési különbözeteként kell kimutatni a (2) bekezdés b) pontjában meghatározott tartós befektetési célú ingatlanok mérleg fordulónapjára vonatkozóan meghatározott, könyvvizsgáló által hitelesített piaci értéke, illetve a negyedév utolsó napjára vonatkozóan meghatározott piaci értéke és a könyv szerinti értéke közötti különbözet összegét. Az ingatlanok értékelésénél az Öbr. 3. számú mellékletének II. Értékelési szabályok 11. pontjában foglaltakat kell figyelembe venni.
+(6)[^28] Tárgyi eszközök értékelési különbözeteként kell kimutatni a (2) bekezdés b) pontjában meghatározott tartós befektetési célú ingatlanok mérleg fordulónapjára vonatkozóan meghatározott, könyvvizsgáló által hitelesített piaci értéke, illetve a negyedév utolsó napjára vonatkozóan meghatározott piaci értéke és a könyv szerinti értéke közötti különbözet összegét. Az ingatlanok értékelésénél az Öbr. 3. számú mellékletének II. Értékelési szabályok 11. pontjában foglaltakat kell figyelembe venni.
 
 (7) Tárgyi eszközök értékhelyesbítéseként kell kimutatni a (2) bekezdés a) pontjában és a (3) bekezdésben meghatározott tárgyi eszközök esetében a mérleg fordulónapjára vonatkozóan meghatározott, könyvvizsgáló által hitelesített piaci értéknek a – terven felüli értékcsökkenés visszaírása utáni – könyv szerinti értéket meghaladó összegét.
 
 (8) Azokat a forgalomképes ingatlanokat, amelyeket a pénztár továbbértékesítési céllal, árfolyamnyereség elérése céljából vásárolt és ténylegesen nem hasznosít, nem a tárgyi eszközök között, hanem a forgóeszközök között áruként kell kimutatni.
 
-[^25]: A 15. § (6) bekezdése a 288/2002. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 28. §-ának (1) bekezdése alapján rendelkezéseit először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
+[^28]: A 15. § (6) bekezdése a 288/2002. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 28. §-ának (1) bekezdése alapján rendelkezéseit először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
