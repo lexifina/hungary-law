@@ -1,5 +1,0 @@
-## Tenyészérték megállapítása
-
-67. § (1) Tenyészérték megállapítására (tenyészértékbecslés) támogatást igényelhet a tenyésztő szervezet az értékelésben részt vevő és tenyészértéket kapott tenyészkancák és mének után.
-
-(2) A tevékenység elvégzését a tenyésztési hatóság a tenyésztő szervezet által kiadott kimutatás alapján – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a támogatási kérelem záradékkal történő ellátásával igazolja.

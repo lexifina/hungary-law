@@ -1,5 +1,0 @@
-## Ellenőrzés, nyilvántartás
-
-7. § (1) A támogatás igénybevételével kapcsolatos ellenőrzéseket – az eljárási törvény 46–54. §-ában foglaltak értelmében – az MVH végzi. A jogosulatlanul igénybe vett támogatás visszafizetését az MVH rendeli el.
-
-(2) A kérelmező az e rendelet szerint kérelmezett támogatásokra vonatkozóan a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló, 2006. december 15-i 1857/2006/EK bizottsági rendelet 20. cikk (2) bekezdése szerinti részletes nyilvántartást vezet, amely tartalmazza a 6. § (6) bekezdésében meghatározott kimutatás szerinti adatokat, valamint a támogatás kedvezményezettjének azon nyilatkozatát, miszerint a 4. §-ban foglaltaknak megfelel. A nyilvántartást, valamint a tenyésztési hatóság által záradékolt támogatási kérelmet a kérelmező az e rendelet alapján részére folyósított legutolsó támogatás odaítélésétől számított öt évig köteles megőrizni.
