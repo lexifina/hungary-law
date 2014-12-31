@@ -1,0 +1,3 @@
+## 11. Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény módosítása
+
+54. § Hatályát veszti az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény 3. § (5) bekezdésében az „a minősített vagy a védelmi beszerzési eljárásnak megfelelő szintű” szövegrész.
