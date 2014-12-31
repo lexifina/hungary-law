@@ -1,0 +1,1 @@
+137. § Nem lép hatályba az egyes törvényeknek a gyermekgondozási ellátások átalakításával, valamint a szociális hozzájárulási adó megfizetése alóli kedvezmény bővítésével összefüggő módosításáról szóló 2013. évi CCXXIV. törvény 7. §-a és a 15. § (2) bekezdése.

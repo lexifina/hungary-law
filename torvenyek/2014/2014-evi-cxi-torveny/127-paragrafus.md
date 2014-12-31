@@ -1,0 +1,3 @@
+127. § A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 3. § (3a) bekezdése helyébe a következő rendelkezés lép:
+
+„(3a) A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény 13. §-a, illetve az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 1/B. §-a alapján az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) tulajdonosi joggyakorlásába tartozó egészségügyi intézményekhez tartozó ingatlanok esetében a tulajdonosi jogokat a miniszter az egészségügyért felelős miniszterrel, az NFA és az ÁEEK útján a (3) bekezdés a)–c) pontjában meghatározott módon gyakorolja.”
