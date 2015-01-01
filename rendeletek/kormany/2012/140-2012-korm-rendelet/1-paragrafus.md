@@ -1,4 +1,4 @@
-1. §[^1] (1) A Nemzeti Fejlesztési Kormánybizottság (a továbbiakban: NFK) a Kormány ügydöntő jogkörű, a fejlesztéspolitikai kormányzati feladatok összehangolt irányítását végző szerve.
+1. §[^2] (1) A Nemzeti Fejlesztési Kormánybizottság (a továbbiakban: NFK) a Kormány ügydöntő jogkörű, a fejlesztéspolitikai kormányzati feladatok összehangolt irányítását végző szerve.
 
 (2) Az NFK
 
@@ -20,4 +20,4 @@ h) a fejlesztések végrehajtásáért felelős szervezetektől beszámolót ké
 
 i) a fejlesztési célú uniós és hazai pénzügyi források tekintetében egyes végrehajtás-felügyeleti feladatokat lát el.
 
-[^1]: Az 1. § a 272/2014. (XI. 5.) Korm. rendelet 206. §-ával megállapított szöveg.
+[^2]: Az 1. § a 272/2014. (XI. 5.) Korm. rendelet 206. §-ával megállapított szöveg.
