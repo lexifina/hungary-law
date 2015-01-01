@@ -1,183 +1,41 @@
-## Hulladéklerakási járulékfizetési kötelezettség bejelentő lap
+## A hulladéklerakási járulékfizetési kötelezettség bejelentéséhez szükséges adatok
 
-| E nyomtatvány kitöltését a hulladéklerakási járulék megfizetéséről és felhasználásának céljairól szóló 318/2013. (VIII. 28.) Korm. rendelet írja elő |
+## A kötelezett nyilvántartásba vételi bejelentéséhez vagy megszűnés bejelentéséhez szükséges adatok:
 
-|  | Bejelentőlap hulladéklerakási járulék megfizetésének kötelezettségére |  |
+## a) a kötelezett neve, székhelyének címe, KÜJ-azonosítója, KSH statisztikai számjele;
 
-| Adatszolgáltató: |  |  |
+## b) a kötelezett telephelyének neve, címe, KTJ-azonosítója;
 
-| Neve: |
+## c) a fizetési kötelezettség keletkezésének vagy megszűnésének dátuma;
 
-| KÜJ-azonosító, (Környezetvédelmi Ügyfél Jel) ha van: | KSH törzsszám (statisztikai számjel): - - |
+## d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége;
 
-| Cím: |
+## e) a bejelentés kitöltésének dátuma.
 
-| .......................................................................................................................................................................................... |
-
-| ............................ |
-
-| .................................................................................... város, község |
-
-| irányítószám |  |  |
-
-| .......................................................................................................................................................... ......................... |
-
-| utca, út, tér, |  | házszám |
-
-| HRSZ: .................................................... |  |  |
-
-|  | Cégjegyzékszáma: □□.□□.□□□□□□ |
-
-|  | Adószám: □□□□□□□□.□.□□ |
-
-| Telephely*: |  |  |
-
-| Neve: | ártalmatlanítási művelet: |
-
-| KTJ-azonosító, (Környezetvédelmi Területi Jel) ha van: |  |
-
-| Település azonosító: |  |
-
-| Cím: |
-
-| .......................................................................................................................................................................................... |
-
-| ............................................................... |
-
-| ................................................................................... város, község |
-
-| irányítószám |  |  |
-
-| .............................................................................................................................................................. ......................... |
-
-| utca, út, tér, |  | házszám |
-
-| HRSZ: .................................................... |  |  |
-
-| Tevékenység végzésének engedély száma: |
-
-| A fizetési kötelezettség keletkezésének dátuma (év, hónap, nap): |  |
-
-| Felelős személy neve: | Beosztása: |
-
-| * Minden, hulladéklerakási járulékfizetési kötelezettséget keletkeztető telephelyre, helyszínre ki kell tölteni. |
-
-| Az adatszolgáltatásért felelős: |
-
-| Neve: |  | Beosztása: |
-
-| Telefonszám: | Faxszám: | E-mail: |
-
-| A kitöltés dátuma: |
-
-| Valótlan adatok közlése, a bejelentkezés elmulasztása, a késedelmes bejelentkezés – a Ht. 69. § (4) bekezdés értelmében az adózás rendjéről szóló törvény alapján – mulasztási bírság kiszabását vonja maga után. |
-
-## P. H.
-
-| ..................................... cégszerű aláírás |
-
-| Küldendő: 1 példányban, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséghez (1539 Budapest, Pf. 675). Beküldési határidő: a hulladéklerakási járulék fizetési kötelezettség keletkezésétől számított 15 napon belül. |
-
-2. melléklet a 318/2013. (VIII. 28.) Korm. rendelethez[^6]
+2. melléklet a 318/2013. (VIII. 28.) Korm. rendelethez[^8]
 
 Hulladéklerakási járulék adatszolgáltatási lap
 
-| E nyomtatvány kitöltését a hulladéklerakási járulék megfizetéséről és felhasználásának céljairól szóló 318/2013. (VIII. 28.) Korm. rendelet írja elő |
+A kötelezett adatszolgáltatása során beküldendő adatok:
 
-|  | Adatszolgáltatás hulladéklerakási járulék fizetésének kötelezettsége szerint | Iktató szám: |
+a) beszámolási időszak (év, negyedév);
 
-| Adatszolgáltató: |  |  |
+b) a kötelezett neve, székhelyének címe, KÜJ-azonosítója, KSH számjele;
 
-| Neve: |
+c) a hulladéklerakási járulék fizetési kötelezettség telephelyenként összesített összege;
 
-| KÜJ-azonosító, (Környezetvédelmi Ügyfél Jel) ha van: | KSH törzsszám (statisztikai számjel): - - |
+d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége;
 
-| Település azonosító: |
+e) a kötelezett telephelyének neve, címe, KTJ-azonosítója;
 
-| Cím: |
+f) az ártalmatlanítási művelet azonosító kódja;
 
-| .......................................................................................................................................................................................... |
+g) hulladékgazdálkodási engedély száma;
 
-| ............................................................... |
+h) a hulladéklerakási járulékfizetési kötelezettséggel érintett hulladékra vonatkozó adatok (hulladékjegyzék szerinti azonosító kód, típusonkénti besorolás a Ht. 5. melléklet 2. pontja alapján, mennyiség (t), egységár (Ft/t), hulladék lerakási járulék összege (Ft);
 
-| .................................................................................... város, község |
+i) az adatszolgáltatás kitöltésének dátuma;
 
-| irányítószám |  |  |
+j) fizetendő hulladéklerakási járulék az adott telephelyen összesen (Ft).
 
-| ............................................................................................................................................................................ ......................... |
-
-| utca, út, tér, |  | házszám |
-
-| HRSZ: .................................................... |  |  |
-
-|  | Cégjegyzékszáma: □□.□□.□□□□□□ |
-
-|  | Adószám: □□□□□□□□.□.□□ |
-
-| Telephely*: |  |  |
-
-| Neve: | ártalmatlanítási művelet: |
-
-| KTJ-azonosító (Környezetvédelmi Területi Jel): ha van |  |
-
-| Település azonosító: |  |
-
-| Cím: |
-
-| .......................................................................................................................................................................................... |
-
-| ............................................................... |
-
-| .................................................................................... város, község |
-
-| irányítószám |  |  |
-
-| ............................................................................................................................................................................ ......................... |
-
-| utca, út, tér, |  | házszám |
-
-| HRSZ: .................................................... |  |  |
-
-| Engedély száma: |
-
-| Felelős személy neve: | Beosztása: |
-
-|  | Adatszolgáltatás hulladéklerakási járulék fizetésének kötelezettsége szerint □□□□. év □. negyedév KÜJ-azonosító: □□□□□□□□□ KTJ-azonosító: □□□□□□□□□ |  |
-
-|  | Cégjegyzékszáma: □□.□□.□□□□□□ |
-
-|  | Adószám: □□□□□□□□.□.□□ |
-
-| A bejelentési időszak első napján a telephelyen lévő tényleges hulladékmennyiség (t): |
-
-| A lerakott, illetve elhelyezett – hulladéklerakási járulékfizetési kötelezettséggel érintett – hulladékra vonatkozó adatok (Telephelyenként külön-külön lapon) |
-
-| típusa (EWC kód) | jellege (veszélyes vagy nem) I/N | fajtája (A Ht. 5. melléklet 2. pontjában szereplő, a hulladék fajtánkénti egységárára vonatkozó besorolás, 1-5-ig) | mennyisége (t) (egy tizedes jegyig kerekítve) | egységára (Ft/tonna) | a megfizetett hulladéklerakási járulék összege (Ft) |
-
-| Telephely összesen: |
-
-|  | Adatszolgáltatás hulladéklerakási járulék fizetésének kötelezettsége szerint □□□□. év □. negyedév KÜJ-azonosító: □□□□□□□□□ |  |
-
-| A lerakott, illetve elhelyezett hulladék után megfizetett hulladéklerakási járulék összegére vonatkozó adatok Telephelyenkénti összesítés |
-
-| KTJ azonosító: | Adatszolgáltatással egy időben fizetendő hulladéklerakási járulék összege (Ft) |
-
-| Mindösszesen: | ..............................Ft, azaz......................................... forint |
-
-| Az adatszolgáltatásért felelős: |
-
-| Neve: | Beosztása: |
-
-| Telefonszám: | Faxszám: | E-mail: |
-
-| A kitöltés dátuma: |  |
-
-| Valótlan adatok közlése, az adatszolgáltatás megtagadása, a késedelmes adatszolgáltatás – a Ht. 69. § (4) bekezdés értelmében az adózás rendjéről szóló törvény alapján – mulasztási bírság kiszabását vonja maga után. Felhívjuk a figyelmet, hogy a hulladéklerakási járulék megfizetéséről szóló bizonylatot az adatszolgáltatáshoz kötelező mellékelni! |
-
-P. H.
-
-| ..................................... cégszerű aláírás |
-
-| Küldendő: 1 példányban az OKTF részére. Beadási határidő: a tárgynegyedévet követő hónap 20. napjáig, a hulladéklerakási járulék befizetésével egyidejűleg. |
-
-[^6]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 152. § c) pontja szerint módosított szöveg.
+[^8]: A 2. melléklet a 310/2014. (XII. 11.) Korm. rendelet 18. § (5) bekezdésével megállapított szöveg.
