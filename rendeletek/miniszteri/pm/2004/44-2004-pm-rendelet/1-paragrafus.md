@@ -8,7 +8,7 @@ b)[^2] a Nemzeti Adó- és Vámhivatal Központi Hivatalára, az Informatikai In
 
 c) a Magyar Államkincstárra (a továbbiakban: Kincstár),
 
-d)[^3] mindazon közigazgatási hatóságokra, amelyeknél közigazgatási hatósági ügy elektronikus úton történő elintézésére lehetőség van, továbbá
+d)[^3] mindazon, az a)–c) pontba nem tartozó szervezetre, amely az Itv. szerinti illetékköteles közigazgatási hatósági eljárásokat folytat le,
 
 e) a bírósági eljárási illetéket utólagos elszámolással megfizető gazdálkodó szervezetekre,
 
@@ -28,7 +28,7 @@ b) az első fokú adóhatóságnál kezdeményezett olyan első fokú illetékk�
 
 c)[^8] az adóhatóság első fokú döntése, intézkedése elleni olyan jogorvoslati eljárások, melyeknél az illetéket nem illetékbélyegben kell leróni,
 
-d)[^9] az elektronikus úton kezdeményezett eljárások,
+d)[^9] az olyan a)–c) pontba nem tartozó eljárások, amelyeknél az illeték átutalással is megfizethető,
 
 e)[^10] a közjegyző által a fizetési meghagyásos eljárásban, és a fizetési meghagyás alapján indult végrehajtási eljárásban hozott határozat ellen elektronikus úton kezdeményezett fellebbezés,
 
@@ -36,12 +36,12 @@ f)[^11] továbbá az Elektronikus Fizetési és Elszámolási Rendszer igénybev
 
 [^1]: Az 1. § (1) bekezdés a) pontja a 77/2013. (XII. 31.) NGM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pontja az 5/2011. (II. 11.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (1) bekezdés d) pontja a 17/2009. (IX. 29.) PM rendelet 89. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^3]: Az 1. § (1) bekezdés d) pontja az 54/2014. (XII. 31.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés f) pontját az 5/2011. (II. 11.) NGM rendelet 1. § (2) bekezdése iktatta be, szövege az 52/2011. (XII. 29.) NGM rendelet 6. §-a szerint módosított szöveg.
 [^5]: Az 1. § (1) bekezdés g) pontját az 5/2011. (II. 11.) NGM rendelet 1. § (2) bekezdése iktatta be, szövege a 46/2012. (XII. 27.) NGM rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § (1) bekezdés h) pontját a 52/2011. (XII. 29.) NGM rendelet 1. § (1) bekezdése iktatta be.
 [^7]: Az 1. § (2) bekezdés a) pontja a 77/2013. (XII. 31.) NGM rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^8]: Az 1. § (2) bekezdés c) pontja a 17/2009. (IX. 29.) PM rendelet 39. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^9]: Az 1. § (2) bekezdésének d) pontja a 44/2005. (XII. 22.) PM rendelet 1. §-ával megállapított szöveg.
+[^9]: Az 1. § (2) bekezdés d) pontja az 54/2014. (XII. 31.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^10]: Az 1. § (2) bekezdés e) pontját az 5/2011. (II. 11.) NGM rendelet 1. § (3) bekezdése iktatta be, szövege a 46/2012. (XII. 27.) NGM rendelet 2. §-ával megállapított szöveg.
 [^11]: Az 1. § (2) bekezdés f) pontját a 52/2011. (XII. 29.) NGM rendelet 1. § (2) bekezdése iktatta be.
