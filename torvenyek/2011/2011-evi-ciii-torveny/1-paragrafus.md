@@ -47,3 +47,11 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 13. beszerzés: terméknek az Áfa törvény szerinti Közösségen belüli beszerzése, importja.
 
 14. szörp: A Magyar Élelmiszerkönyv szerinti gyümölcsszörp, valamint a Magyar Élelmiszerkönyv szerinti víz- és kivonat alapú szörp, valamint a 2106 VTSZ szám alá tartozó, ital előállítására használatos, víz- és kivonatalapú, a megnevezésére jellemző ízű és illatú készítmény, amelyet cukorból vagy cukorszirupból, ízesítő és adalékanyagok hozzáadásával állítottak elő.
+
+15. adalékanyag: a Magyar Élelmiszerkönyv szerinti adalékanyag és aroma, ide nem értve a színezőanyagként használt karamellt,
+
+16. gyógynövény: az a növény, melynek valamely szervét, gyökerét, levelét, virágját, termését vagy bármely más részét a benne lévő hatóanyaga miatt a gyógyászatban alkalmazzák,
+
+17. méz: az Apis mellifera méhek által a növényi nektárból vagy élőnövényi részek nedvéből, illetve növényi nedveket szívó rovarok által az élő növényi részek kiválasztott anyagából gyűjtött természetes édes anyag, amelyet a méhek begyűjtenek, saját anyagaik hozzáadásával átalakítanak, raktároznak, dehidrálnak és lépekben érlelnek,
+
+18. gyümölcspárlat: a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: EK rendelet) II. számú melléklete 6. vagy 9. kategóriája szerint készített, EK rendelet szerinti szeszes ital.

@@ -18,7 +18,13 @@ bb) metil-xantin-tartalma meghaladja a 15 milligramm metil-xantin/100 milliliter
 
 (a továbbiakban: energiaital);
 
-c) a 1704, 1905, 2105 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 25 gramm cukor/100 gramm mennyiséget, továbbá az 1806 VTSZ szám alá tartozó termék a legalább 50%-ban tejalapanyag felhasználásával készült termékek kivételével, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 40 gramm cukor/100 gramm mennyiséget és kakaótartalma 40 gramm/100 gramm terméknél alacsonyabb (a továbbiakban együtt: előrecsomagolt cukrozott készítmény);
+c) a hozzáadott cukrot tartalmazó
+
+ca) 1704, 1905, 2105 VTSZ szám alá tartozó termék, ha cukortartalma meghaladja a 25 gramm cukor/100 gramm mennyiséget, ide nem értve azt a terméket, amely legalább 20 gramm méz/100 gramm mennyiséget tartalmaz, feltéve, hogy cukortartalma nem haladja meg a 40 gramm cukor/100 gramm mennyiséget,
+
+cb) 1806 VTSZ szám alá tartozó termék a legalább 50%-ban tejalapanyag felhasználásával készült termékek kivételével, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 40 gramm cukor/100 gramm mennyiséget és kakaótartalma 40 gramm/100 gramm terméknél alacsonyabb
+
+[a ca) és cb) alpont a továbbiakban együtt: előrecsomagolt cukrozott készítmény];
 
 d) a c) pont hatálya alá nem tartozó 1905, 2005 20 20, 2008 VTSZ szám alá tartozó, gabona, burgonya vagy olajos magvak felhasználásával készült, sütött, extrudált vagy pörkölt, ízesített és azonnali fogyasztásra alkalmas termék, ha sótartalma meghaladja az 1 gramm só/100 gramm mennyiséget, ide nem értve a kenyeret és a Magyar Élelmiszerkönyv szerinti, legfeljebb 2 gramm só/100 gramm sótartalmú sütőipari terméket (a továbbiakban: sós snack);
 
@@ -28,4 +34,6 @@ f) az a) pont hatálya alá nem tartozó olyan ital, amely sört és hozzáadott
 
 g) a 2208 VTSZ szám alá tartozó olyan ital, amely üdítőitalt tartalmaz, feltéve, hogy a termék cukortartalma meghaladja az 5 gramm cukor/100 milliliter mennyiséget (a továbbiakban: alkoholos frissítő);
 
-h) a 2007 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 35 gramm cukor/100 gramm mennyiséget, a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével (a továbbiakban: gyümölcsíz).
+h) a 2007 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 35 gramm cukor/100 gramm mennyiséget, a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével (a továbbiakban: gyümölcsíz);
+
+i) a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) szerinti alkoholterméknek minősülő ital, ide nem értve a gyümölcspárlatot, a Jöt. 68. § (1) bekezdése hatálya alá tartozó italokat, továbbá az adalékanyagot nem tartalmazó, legalább hét különböző gyógynövény felhasználásával előállított italokat (a továbbiakban: alkoholos ital).
