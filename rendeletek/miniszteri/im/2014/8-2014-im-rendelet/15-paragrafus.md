@@ -1,0 +1,3 @@
+15. § (1) A kegyelmi eljárásban a Bv. tv. 46. § (1) bekezdése szerint elrendelt szakorvosi vizsgálat időpontjáról a Központi Kórház vagy az IMEI értesíti a szabadlábon lévő elítéltet, a vizsgálat eredményéről vagy az elítélt távolmaradásáról tájékoztatja az igazságügyért felelős minisztert. A szakorvosi vizsgálat elrendelőjének haladéktalanul jelezni kell, ha olyan vizsgálatra van szükség, amely a Központi Kórházban vagy az IMEI-ben nem végezhető el.
+
+(2) A büntetés egészségügyi okból történő félbeszakítására vagy kegyelemre irányuló kérelmet (javaslatot) a bv. orvos vagy az illetékes egészségügyi intézet kijelölt orvosa írásban véleményezi.
