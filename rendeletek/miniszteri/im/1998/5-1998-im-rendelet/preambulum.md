@@ -1,1 +1,0 @@
-A büntetések és az intézkedések végrehajtásáról szóló, többször módosított 1979. évi 11. törvényerejű rendelet 127. §-ának (1) bekezdésében kapott felhatalmazás alapján a fogvatartottak egészségügyi ellátásáról – a népjóléti miniszterrel és a legfőbb ügyésszel egyetértésben – a következőket rendelem el:
