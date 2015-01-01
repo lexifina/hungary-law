@@ -1,1 +1,0 @@
-24. § A Magyarországon végzett kutatás-fejlesztési és technológiai innovációs tevékenységhez szükséges magas vagy speciális képzettségű külföldi ösztöndíjasok, illetve munkavállalók beáramlásának támogatására pályázati úton közfinanszírozású támogatás nyújtható.

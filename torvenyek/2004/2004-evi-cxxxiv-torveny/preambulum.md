@@ -1,1 +1,0 @@
-Az Országgyűlés annak érdekében, hogy elősegítse a magyar gazdaság versenyképességének és jövedelemtermelő képességének a tudásra, valamint a technológiai innovációra épülő és a fenntartható fejlődést szolgáló növekedését, a következő törvényt alkotja.

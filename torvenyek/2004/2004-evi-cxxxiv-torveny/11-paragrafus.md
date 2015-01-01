@@ -1,3 +1,0 @@
-11. § (1) Amennyiben kis- és középvállalkozás vagy non-profit kutatóhely kutatás-fejlesztési, illetve technológiai innovációs projektjéhez nemzetközi szerződés alapján, illetve európai uniós forrásból támogatást kap, és ezen projekt végrehajtása érdekében felmerült költségeinek fedezésére kölcsönt vesz fel, akkor pályázati úton kamattámogatásban részesülhet.
-
-(2) Az (1) bekezdés szerinti kamattámogatás a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott teljes hiteldíj részbeni vagy teljes fedezésére terjedhet ki. A kamattámogatás mértékét és feltételeit a pályázati kiírás határozza meg.

@@ -1,1 +1,0 @@
-8. § Az államháztartás alrendszereiből folyósított támogatás a támogatási szerződésben – az irányadó jogszabályi rendelkezésekkel összhangban – rögzített, a projekt végrehajtásának erőforrás-igényével összhangban álló pénzügyi és időbeli ütemezésben vehető igénybe.
