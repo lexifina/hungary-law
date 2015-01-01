@@ -166,7 +166,8 @@
 
 (3) A Megállapodás, illetve e rendelet 2. és 3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^3]
 
-(4) A Megállapodás végrehajtásáról az oktatási miniszter gondoskodik.
+(4)[^4] A Megállapodás végrehajtásáról a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke gondoskodik.
 
 [^2]: A Megállapodás hatálybalépésének naptári napját e rendelet 4. § (3) bekezdése alapján a külügyminiszter annak ismertté válását követően a Magyar Közlönyben közzétett egyedi határozatával állapítja meg. A 24/2006. (XI. 20.) KüM határozat alapján a hatálybalépés időpontja 2006. szeptember 15. napja.
 [^3]: Lásd a 24/2006. (XI. 20.) KüM határozatot.
+[^4]: A 4. § (4) bekezdése a 381/2014. (XII. 31.) Korm. rendelet 11. §-a szerint módosított szöveg.
