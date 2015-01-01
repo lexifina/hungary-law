@@ -142,15 +142,7 @@
 
 rendelettel állapítsa meg.
 
-(1a) Felhatalmazást kap a Kormány, hogy
-
-a) a 300 m2-nél nagyobb alapterületű kereskedelmi építményekre a fenntartható kereskedelemmel összefüggő építésügyi és környezetvédelmi, valamint kereskedelmi követelményeket,
-
-b) az 53/F. § (2) bekezdésében meghatározott Bizottság összetételét és működését, továbbá
-
-c) az 53/F. § (3) bekezdése szerinti felmentés iránti eljárás sajátos szabályait
-
-rendeletben állapítsa meg.
+(1a)
 
 (1b) Felhatalmazást kap a Kormány arra, hogy az építmények építészeti-műszaki tervezése során végezhető feladatok körét, valamint az építészeti-műszaki tervezési tevékenység ellátásáért felszámítható tervezési díj tartalmát rendeletben állapítsa meg.
 

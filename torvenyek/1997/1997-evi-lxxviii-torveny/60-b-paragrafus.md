@@ -1,0 +1,1 @@
+60/B. § Az 57/D. § (1) bekezdésében meghatározott Bizottságot 2015. január 15-ig létre kell hozni. A miniszter 2015. január 8-ig felkéri a Bizottság tagjait kijelölni jogosult minisztereket, hogy jelöljenek tagokat a Bizottságba.
