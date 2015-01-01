@@ -1,0 +1,3 @@
+## 1. § A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet (a továbbiakban: Tbj. vhr.) 4. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) Az előadó (művész) biztosítási kötelezettsége elbírálásánál figyelembe vehető időtartam a felhasználási szerződés megkötésétől, írásbeli szerződés hiányában az előadásra történő felkérés elfogadásától az előadás tartása napjáig áll fenn, azonban szerződésenként (előadásonként) legfeljebb 7 nap vehető figyelembe.”
