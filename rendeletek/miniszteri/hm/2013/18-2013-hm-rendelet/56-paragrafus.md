@@ -2,8 +2,8 @@
 
 56. § (1) Az ideiglenes külföldi képzésben részt vevő kiküldött a VI. Fejezetben meghatározottak szerint külföldi napidíjra jogosult.
 
-(2)[^40] A tartós külföldi képzésben részt vevő kiküldött külszolgálati ellátmányra jogosult, amely ellátmányból és családi ellátmánypótlékból áll. A kiküldött ellátmányát a 7. § szerinti alapellátmány és a 7. melléklet szerinti szorzószámok alapján kell megállapítani.
+(2)[^41] A tartós külföldi képzésben részt vevő kiküldött külszolgálati ellátmányra jogosult, amely ellátmányból és családi ellátmánypótlékból áll. A kiküldött ellátmányát a 7. § szerinti alapellátmány és a 7. melléklet szerinti szorzószámok alapján kell megállapítani.
 
 (3) A 7. melléklet szerinti szorzószámot a fogadó fél által térítésmentesen vagy kedvezményesen biztosított étkezés esetén – az ellátás mértékének figyelembevételével – csökkenteni kell. A csökkentés mértéke nem haladhatja meg a szorzószám 25%-át.
 
-[^40]: Az 56. § (2) bekezdése a 9/2014. (IV. 30.) HM rendelet 8. § m) pontja szerint módosított szöveg.
+[^41]: Az 56. § (2) bekezdése a 9/2014. (IV. 30.) HM rendelet 8. § m) pontja szerint módosított szöveg.

@@ -38,6 +38,6 @@
 
 | 18. | II/I–IV | „A”–„B” fizetési osztály | kormányzati ügykezelő | 1,3 |
 
-2. melléklet a 18/2013. (IX. 5.) HM rendelethez[^47]
+2. melléklet a 18/2013. (IX. 5.) HM rendelethez[^51]
 
-[^47]: A 2. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^51]: A 2. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (2) bekezdése szerint módosított szöveg.

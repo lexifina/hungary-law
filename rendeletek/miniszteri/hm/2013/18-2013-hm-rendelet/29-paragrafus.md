@@ -12,10 +12,10 @@ b) a 28. § (1) bekezdés b) pontja szerinti ellátmányelőlegre legfeljebb 36 
 
 (4) A (3) bekezdéstől eltérően, ha előre nem látható okok miatt a külföldi szolgálat az ellátmányelőleg visszafizetése előtt fejeződik be, a visszafizetésre a 24. § (4) bekezdését kell alkalmazni.
 
-(5)[^24] A kiküldött köteles legkésőbb a 28. § (4) bekezdésében meghatározott igazolások benyújtását követő 8. napig a Honvédség részére egy összegben visszatéríteni
+(5)[^25] A kiküldött köteles legkésőbb a 28. § (4) bekezdésében meghatározott igazolások benyújtását követő 8. napig a Honvédség részére egy összegben visszatéríteni
 
 a) a 28. § (1) bekezdés b) pontja alapján felvett ellátmányelőleg teljes összegét, ha annak felhasználására a 28. §-ban meghatározott feltételektől eltérő módon került sor – ideértve azt is, ha a gépkocsi az állomáshely szerinti országon kívül került beszerzésre –, és
 
 b) a 28. § (1) bekezdés b) pontja alapján felvett ellátmányelőleg fel nem használt részét, ha a gépkocsi vételára nem éri el a felvett ellátmányelőleg összegét.
 
-[^24]: A 29. § (5) bekezdését a 17/2014. (XII. 17.) HM rendelet 4. §-a iktatta be.
+[^25]: A 29. § (5) bekezdését a 17/2014. (XII. 17.) HM rendelet 4. §-a iktatta be.
