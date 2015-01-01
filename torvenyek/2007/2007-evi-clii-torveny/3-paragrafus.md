@@ -20,9 +20,9 @@ b) fegyveres szerv hivatásos állományú tagjainak szolgálati viszonyáról s
 
 c) politikai tanácsadó és főtanácsadó, kormány- vagy miniszteri tanácsadó vagy főtanácsadó,
 
-d) vezetői megbízással rendelkező köztisztviselő,
+d) vezetői munkakört betöltő köztisztviselő vagy kormánytisztviselő,
 
-e) jogszabály alapján „C” típusú nemzetbiztonsági ellenőrzésre köteles fontos és bizalmas köztisztviselői munkakört tölt be,
+e) jogszabály alapján nemzetbiztonsági ellenőrzés alá eső köztisztviselői vagy kormánytisztviselői munkakört tölt be,
 
 f) ügyész vagy
 
