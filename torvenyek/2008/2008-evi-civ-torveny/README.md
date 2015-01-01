@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-104-00-00
 | 2014-01-01 | 2013. évi CCXXXVI. törvény | 2008-104-00-00.13 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2008-104-00-00.14 |
 | 2014-07-21 | 2014. évi XXXVII. törvény | 2008-104-00-00.15 |
+| 2015-01-01 | 2014. évi CIV. törvény | 2008-104-00-00.16 |
