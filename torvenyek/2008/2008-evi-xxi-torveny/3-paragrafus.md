@@ -20,17 +20,17 @@
 
 9. archivált gyűjtemény: olyan biológiai mintagyűjtemény, amely esetében a mintavétel eredeti célja már megvalósult, és amelyben a tárolt minták klinikai genetikai vizsgálatára vagy genetikai szűrővizsgálatára kizárólag a mintát szolgáltató személy beleegyezése esetén, továbbá kutatási célú genetikai vizsgálatra engedélyezett orvostudományi kutatás keretében kerülhet sor;
 
-10. genetikai teszt: az egészséget károsan befolyásoló hatásokkal társuló vagy azokat előre jelző, csírasejt eredetű (örökölt) vagy a magzati élet korai szakaszában kialakult, veleszületett genetikai variáns kimutatására irányuló, emberi mintán végzett laboratóriumi vizsgálat;
+10.
 
-11. humángenetikai vizsgálat: a 12–14. pont szerinti, genetikai teszt elvégzését is magában foglaló eljárás;
+11. humángenetikai vizsgálat: az egészséget károsan befolyásoló hatásokkal társuló vagy azokat előre jelző, csírasejt eredetű (örökölt) vagy a magzati élet korai szakaszában kialakult, a genom (gének, kromoszómák) veleszületett – genetikai betegséget okozó vagy arra hajlamosító – variánsainak kimutatására irányuló, genetikai mintán végzett laboratóriumi analízis, amely a vizsgálat célja szerint lehet klinikai genetikai vizsgálat genetikai szűrővizsgálat és kutatási célú genetikai vizsgálat;
 
-12. klinikai genetikai vizsgálat: olyan humángenetikai vizsgálat, amelynél a genetikai mintát szolgáltató érintett személy betegség tüneteit mutatja, vagy amelynél a genetikai mintát szolgáltató az érintett személy vérszerinti rokona, aki saját egészsége, illetve gyermekvállalása szempontjából fokozott kockázatnak van kitéve;
+12. klinikai genetikai vizsgálat: olyan humángenetikai vizsgálat, amelynél a genetikai mintát szolgáltató érintett személy betegség tüneteit mutatja (diagnosztikus genetikai teszt), vagy amelynél a genetikai mintát szolgáltató tünetmentes személy vér szerinti rokona genetikai betegségben szenved és a személy saját egészsége, illetve gyermekvállalása szempontjából fokozott kockázatnak van kitéve;
 
-13. genetikai szűrővizsgálat: olyan, szűrés keretében végzett humángenetikai vizsgálat, amelynek célja a genetikai mintát szolgáltató tünetmentes személyek köréből a veszélyeztetettek beazonosítása genetikai jellemzőik feltárásával;
+13. genetikai szűrővizsgálat: meghatározott populáció tagjainak válogatás nélküli, szűrőprogram keretében végzett humángenetikai vizsgálata, amelynek célja a genetikai mintát szolgáltató tünetmentes személyek köréből a veszélyeztetettek beazonosítása genetikai jellemzőik feltárásával;
 
-14. kutatási célú genetikai vizsgálat: olyan humángenetikai vizsgálat, amelynél a genetikai mintát szolgáltató érintett tünetmentes vagy olyan beteg, akinek betegségét klinikai genetikai vizsgálattal már megállapították, és az engedélyezett kutatási terv keretében végzett kutatás célja emberi betegségek genetikai hátterének vagy kezelési lehetőségeinek jobb megismerése;
+14. kutatási célú genetikai vizsgálat: olyan humángenetikai vizsgálat, amelynél a genetikai mintát szolgáltató egyén tünetmentes vagy olyan beteg, akinek betegségét klinikai diagnosztikus genetikai teszttel már megállapították, és az engedélyezett kutatási terv keretében végzett kutatás célja emberi betegségek genetikai hátterének vagy kezelési lehetőségeinek jobb megismerése;
 
-15. genetikai tanácsadás: olyan konzultációs eljárás, amely során külön jogszabály szerint erre jogosult személy tájékoztatást ad a humángenetikai vizsgálatok előnyeiről vagy kockázatairól, feltárja a humángenetikai vizsgálatok eredményeinek lehetséges következményeit, és segíti a betegség természetének megértését;
+15. genetikai tanácsadás: olyan konzultációs eljárás, amely során erre jogszabály alapján jogosult személy tájékoztatást ad a klinikai genetikai vizsgálatok előnyeiről vagy kockázatairól, feltárja a humángenetikai vizsgálatok eredményeinek lehetséges következményeit, és segíti a betegség természetének megértését;
 
 16. harmadik ország: minden olyan ország, amely nem EGT-állam;
 
