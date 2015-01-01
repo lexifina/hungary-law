@@ -8,8 +8,8 @@
 
 (4) Ha az Európai Bizottság az (1)–(3) bekezdésnek megfelelően benyújtott nemzeti ellenőrzési stratégia kézhezvételét követő 3 hónapon belül észrevételt tesz a benyújtott stratégiára vonatkozóan, az ellenőrzési hatóság – az államháztartásért felelős miniszter véleményének kikérésével – köteles az Európai Bizottság által a válaszadásra meghatározott időn belül a nemzeti ellenőrzési stratégiát felülvizsgálni, és az észrevételekre vonatkozó válaszokat az Európai Bizottságnak megküldeni.
 
-(5)[^477] Az ellenőrzési hatóság az Európai Bizottság által elfogadott nemzeti ellenőrzési stratégiát megküldi az irányító hatóság és a központi koordinációs szerv részére.
+(5)[^480] Az ellenőrzési hatóság az Európai Bizottság által elfogadott nemzeti ellenőrzési stratégiát megküldi az irányító hatóság és a központi koordinációs szerv részére.
 
 (6) Az ellenőrzési hatóság évente felülvizsgálja a nemzeti ellenőrzési stratégiát.
 
-[^477]: A 107. § (5) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 203. pontja szerint módosított szöveg.
+[^480]: A 107. § (5) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 203. pontja szerint módosított szöveg.

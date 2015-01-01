@@ -1,17 +1,17 @@
-54. § (1)[^286] A forráslehívási folyamat során az irányító hatóság vagy az általa kijelölt közreműködő szervezet összeállítja a monitoring és információs rendszerben a forráslehívási dokumentációt, amely a rendszerben rögzített és ki nem fizetett támogatásra jogosult számlák vagy egyéb, az egységes működési kézikönyvben meghatározott, az elszámolást alátámasztó dokumentumok adatainak összesítését jelenti.
+54. § (1)[^288] A forráslehívási folyamat során az irányító hatóság vagy az általa kijelölt közreműködő szervezet összeállítja a monitoring és információs rendszerben a forráslehívási dokumentációt, amely a rendszerben rögzített és ki nem fizetett támogatásra jogosult számlák vagy egyéb, az egységes működési kézikönyvben meghatározott, az elszámolást alátámasztó dokumentumok adatainak összesítését jelenti.
 
-(2)[^287] Közreműködő szervezet bevonása esetén a forráslehívási dokumentáció elkészültéről és a közreműködő szervezet általi jóváhagyásáról a közreműködő szervezet haladéktalanul tájékoztatja az irányító hatóságot.
+(2)[^289] Közreműködő szervezet bevonása esetén a forráslehívási dokumentáció elkészültéről és a közreműködő szervezet általi jóváhagyásáról a közreműködő szervezet haladéktalanul tájékoztatja az irányító hatóságot.
 
-(3)[^288] Ha közreműködő szervezet bevonásra került, az irányító hatóság a közreműködő szervezet elektronikus értesítése és elektronikus dokumentációja, vagy a közreműködő szervezet aláírásával igazolt nyomtatott dokumentációja alapján hagyja jóvá a forráslehívást. A forráslehívási dokumentációt az irányító hatóság jóváhagyását követően ki kell nyomtatni, alá kell írni, vagy elektronikus aláírással kell ellátni.
+(3)[^290] Ha közreműködő szervezet bevonásra került, az irányító hatóság a közreműködő szervezet elektronikus értesítése és elektronikus dokumentációja, vagy a közreműködő szervezet aláírásával igazolt nyomtatott dokumentációja alapján hagyja jóvá a forráslehívást. A forráslehívási dokumentációt az irányító hatóság jóváhagyását követően ki kell nyomtatni, alá kell írni, vagy elektronikus aláírással kell ellátni.
 
-(4)[^289] A forráslehívási dokumentáció beérkezésének jelzését követő 7 napon belül az irányító hatóság intézkedik a jóváhagyott támogatási összeg előirányzat-felhasználási keretszámláról az adott prioritás pénzforgalmi lebonyolítási számlájára történő utalásáról.
+(4)[^291] A forráslehívási dokumentáció beérkezésének jelzését követő 7 napon belül az irányító hatóság intézkedik a jóváhagyott támogatási összeg előirányzat-felhasználási keretszámláról az adott prioritás pénzforgalmi lebonyolítási számlájára történő utalásáról.
 
-(5)[^290] A forráslehívás jóváhagyása után a fejezeti kezelésű előirányzat-felhasználási keretszámláról csak akkor lehet átutalást kezdeményezni, ha az ahhoz szükséges eljárási cselekmények megtörténtek, és az adatok a monitoring és információs rendszerben rögzítésre és jóváhagyásra kerültek.
+(5)[^292] A forráslehívás jóváhagyása után a fejezeti kezelésű előirányzat-felhasználási keretszámláról csak akkor lehet átutalást kezdeményezni, ha az ahhoz szükséges eljárási cselekmények megtörténtek, és az adatok a monitoring és információs rendszerben rögzítésre és jóváhagyásra kerültek.
 
 (6) A forráslehívás jóváhagyott, aláírt bizonylatának egy – ha rendelkezésre áll, elektronikus aláírással ellátott elektronikus – példányát az azt jóváhagyó szervezet a jóváhagyást követő 7 napon belül megküldi a kincstárnak.
 
-[^286]: Az 54. § (1) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 93. pontja szerint módosított szöveg.
-[^287]: Az 54. § (2) bekezdése a 127/2014. (IV. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^288]: Az 54. § (3) bekezdése a 127/2014. (IV. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^289]: Az 54. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^290]: Az 54. § (5) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 96. pontja szerint módosított szöveg.
+[^288]: Az 54. § (1) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 93. pontja szerint módosított szöveg.
+[^289]: Az 54. § (2) bekezdése a 127/2014. (IV. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^290]: Az 54. § (3) bekezdése a 127/2014. (IV. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^291]: Az 54. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^292]: Az 54. § (5) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 96. pontja szerint módosított szöveg.

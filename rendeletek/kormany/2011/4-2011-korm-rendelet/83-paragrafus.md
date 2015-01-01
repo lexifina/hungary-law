@@ -1,4 +1,4 @@
-## 82/B. §[^403] Ha a forráshiány miatt elutasított pályázat a kifogást elbíráló döntés meghozataláig támogatásban részesül, a kifogás elbírálására jogosult szervezet az eljárást megszünteti.
+## 82/B. §[^405] Ha a forráshiány miatt elutasított pályázat a kifogást elbíráló döntés meghozataláig támogatásban részesül, a kifogás elbírálására jogosult szervezet az eljárást megszünteti.
 
 ## 34. Szabálytalanságkezelés
 
@@ -10,11 +10,11 @@ a) a kedvezményezett, a vele együtt jogosított vagy kötelezett személy, tov
 
 b) az a) pont alá tartozó személy vagy szervezet képviselője, vagy olyan volt képviselője, aki a szabálytalansági eljárás tárgyát illetően érintett volt,
 
-c)[^404] az a) vagy a b) pont alá tartozó személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa,
+c)[^406] az a) vagy a b) pont alá tartozó személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa,
 
 d) aki az érintett projektkiválasztási eljárásában, illetve a támogatói döntés előkészítésében részt vett,
 
-e)[^405] a d) pontban meghatározott személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa.
+e)[^407] a d) pontban meghatározott személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa.
 
 (3) A jogorvoslati eljárásban nem járhat el, aki a szabálytalansági ügy elintézésében részt vett.
 
@@ -28,9 +28,9 @@ e)[^405] a d) pontban meghatározott személynek a Ptk. 8:1. § (1) bekezdés 1.
 
 (8) A szabálytalansági eljárás a szabálytalansági eljárást lefolytató szervezet, a jogorvoslati eljárás a jogorvoslati eljárást lefolytató szervezet vezetőjének döntésével zárul.
 
-(9)[^406] A finanszírozási keret terhére megvalósuló intézkedések során a forráskezelő szervezet által elkövetett jogszabálysértés, a finanszírozási szerződés megszegése, valamint a pénzügyi programra vonatkozó előírások megsértése vonatkozásában felmerült – a 66. § (3) bekezdése szerinti – szabálytalansági gyanút az irányító hatóság vizsgálja ki. A finanszírozási keret terhére megvalósuló intézkedések során a (2)–(8) bekezdésben, a 84. §-ban, a 86–99. §-ban, valamint a 100. § (2)–(7) bekezdésében foglaltakat kell alkalmazni azzal, hogy kedvezményezett alatt forráskezelő szervezetet, támogatási szerződés alatt finanszírozási szerződést kell érteni. A finanszírozási keret terhére megvalósuló intézkedések során a pénzügyi közvetítő és a kedvezményezett által elkövetett jogosulatlan forrásfelhasználásra e fejezet rendelkezései nem alkalmazhatók.
+(9)[^408] A finanszírozási keret terhére megvalósuló intézkedések során a forráskezelő szervezet által elkövetett jogszabálysértés, a finanszírozási szerződés megszegése, valamint a pénzügyi programra vonatkozó előírások megsértése vonatkozásában felmerült – a 66. § (3) bekezdése szerinti – szabálytalansági gyanút az irányító hatóság vizsgálja ki. A finanszírozási keret terhére megvalósuló intézkedések során a (2)–(8) bekezdésben, a 84. §-ban, a 86–99. §-ban, valamint a 100. § (2)–(7) bekezdésében foglaltakat kell alkalmazni azzal, hogy kedvezményezett alatt forráskezelő szervezetet, támogatási szerződés alatt finanszírozási szerződést kell érteni. A finanszírozási keret terhére megvalósuló intézkedések során a pénzügyi közvetítő és a kedvezményezett által elkövetett jogosulatlan forrásfelhasználásra e fejezet rendelkezései nem alkalmazhatók.
 
-[^403]: A 82/B. §-t a 302/2013. (VII. 29.) Korm. rendelet 38. §-a iktatta be.
-[^404]: A 83. § (2) bekezdés c) pontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 10. pontja szerint módosított szöveg.
-[^405]: A 83. § (2) bekezdés e) pontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 10. pontja szerint módosított szöveg.
-[^406]: A 83. § (9) bekezdését a 86/2011. (V. 31.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 25/2012. (II. 29.) Korm. rendelet 48. §-ával megállapított, az 548/2013. (XII. 30.) Korm. rendelet 43. § 156. pontja szerint módosított szöveg.
+[^405]: A 82/B. §-t a 302/2013. (VII. 29.) Korm. rendelet 38. §-a iktatta be.
+[^406]: A 83. § (2) bekezdés c) pontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 10. pontja szerint módosított szöveg.
+[^407]: A 83. § (2) bekezdés e) pontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 10. pontja szerint módosított szöveg.
+[^408]: A 83. § (9) bekezdését a 86/2011. (V. 31.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 25/2012. (II. 29.) Korm. rendelet 48. §-ával megállapított, az 548/2013. (XII. 30.) Korm. rendelet 43. § 156. pontja szerint módosított szöveg.

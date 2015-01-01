@@ -56,13 +56,17 @@ i)[^191] a szociális szövetkezet,
 
 j) a megvalósítási időszakra az a kedvezményezett, aki a támogatás kifizetését a projekt megvalósítását követően, egy összegben kérelmezi
 
-k) társasház és lakásszövetkezet a szociális célú városrehabilitáció támogatási konstrukciók keretében.
+k) társasház és lakásszövetkezet a szociális célú városrehabilitáció támogatási konstrukciók keretében,
 
-(9)[^192] A pályázati felhívás eltérő rendelkezése hiányában nem köteles biztosítékot nyújtani a kedvezményezett, ha a támogatás
+l)[^192] kérelemre az a kedvezményezett, amely rendelkezik legalább egy lezárt, teljes (12 naptári hónapot jelentő) üzleti évvel, és szerepel az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 32. pontja szerint közzétett köztartozásmentes adózói adatbázisban.
+
+(9)[^193] A pályázati felhívás eltérő rendelkezése hiányában nem köteles biztosítékot nyújtani a kedvezményezett, ha a támogatás
 
 a) nem beruházási célú, vagy
 
 b) kutatás-fejlesztésre vagy innovációra irányul.
+
+(10)[^194] Ha a kedvezményezett a köztartozásmentes adózói adatbázisban nem szerepel, úgy köztartozás-mentességét 30 napnál nem régebben kiállított együttes adóigazolással is igazolhatja.
 
 [^176]: A 33. § (1) bekezdése a 176/2012. (VII. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^177]: A 33. § (1) bekezdés a) pontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 7. pontjával megállapított szöveg.
@@ -80,4 +84,6 @@ b) kutatás-fejlesztésre vagy innovációra irányul.
 [^189]: A 33. § (8) bekezdés f) pontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 8. pontja szerint módosított szöveg.
 [^190]: A 33. § (8) bekezdés h) pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 13. pontja hatályon kívül helyezte, újonnan a 115/2013. (IV. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 203/2014. (VIII. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^191]: A 33. § (8) bekezdés i) pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 13. pontja hatályon kívül helyezte, újonnan a 469/2013. (XII. 11.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^192]: A 33. § (9) bekezdését a 25/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^192]: A 33. § (8) bekezdés l) pontját a 358/2014. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^193]: A 33. § (9) bekezdését a 25/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^194]: A 33. § (10) bekezdését a 358/2014. (XII. 29.) Korm. rendelet 2. §-a iktatta be.

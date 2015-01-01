@@ -8,6 +8,6 @@
 
 (2) Abban az esetben, ha a támogatói okiratban vagy a támogatási szerződésben a kedvezményezett részelszámolási kötelezettségét is előírták, annak elmulasztása, illetve nem megfelelő teljesítése esetén a támogatás folyósítója a további költségvetésből nyújtott támogatás folyósítását felfüggeszti, amíg a kedvezményezett a kötelezettségének nem tesz eleget.
 
-(3)[^473] A központi koordinációs szerv éves ellenőrzési terv alapján, valamint az európai uniós források felhasználásáért felelős miniszter felkérésére ellenőrzést végez a támogatások lebonyolításában részt vevő szervezeteknél és kedvezményezetteknél, valamint koordinálja az egyes operatív programok végrehajtására vonatkozó külső ellenőrzéseket, auditokat.
+(3)[^476] A központi koordinációs szerv éves ellenőrzési terv alapján, valamint az európai uniós források felhasználásáért felelős miniszter felkérésére ellenőrzést végez a támogatások lebonyolításában részt vevő szervezeteknél és kedvezményezetteknél, valamint koordinálja az egyes operatív programok végrehajtására vonatkozó külső ellenőrzéseket, auditokat.
 
-[^473]: A 105. § (3) bekezdését az 548/2013. (XII. 30.) Korm. rendelet 34. §-a iktatta be, szövege a 203/2014. (VIII. 14.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^476]: A 105. § (3) bekezdését az 548/2013. (XII. 30.) Korm. rendelet 34. §-a iktatta be, szövege a 203/2014. (VIII. 14.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.

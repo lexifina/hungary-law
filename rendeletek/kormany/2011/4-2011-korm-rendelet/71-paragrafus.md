@@ -1,4 +1,4 @@
-## 70. §[^356] Az elkülönített számviteli nyilvántartásnak biztosítania kell, hogy az Európai Bizottság részére küldendő évközi adatszolgáltatások, pénzügyi zárások számviteli nyilvántartásból, beszámolóból nyerhető adatai, valamint az éves pénzügyi jelentések elkészítéséhez szükséges számviteli adatok megfelelő részletességgel rendelkezésre álljanak. E követelmény teljesítéséért a kincstár és az irányító hatóság vezetői felelősek az ellenőrzési nyomvonalban meghatározottak szerint.
+## 70. §[^358] Az elkülönített számviteli nyilvántartásnak biztosítania kell, hogy az Európai Bizottság részére küldendő évközi adatszolgáltatások, pénzügyi zárások számviteli nyilvántartásból, beszámolóból nyerhető adatai, valamint az éves pénzügyi jelentések elkészítéséhez szükséges számviteli adatok megfelelő részletességgel rendelkezésre álljanak. E követelmény teljesítéséért a kincstár és az irányító hatóság vezetői felelősek az ellenőrzési nyomvonalban meghatározottak szerint.
 
 ## 71. § Az elkülönített számviteli nyilvántartás vezetése során a kincstár a következő információk biztosításáért felelős:
 
@@ -22,7 +22,7 @@ i) az adott operatív programhoz tartozó prioritásonkénti pénzforgalmi lebon
 
 j) előleg címén a kedvezményezettek részére jóváhagyott összegek a költségvetéssel szemben fennálló követelésként, valamint a kedvezményezetteknek nyújtott előleg, a kedvezményezettektől visszajáró támogatások, illetve egyéb címen behajtandó összegek, a kedvezményezettekkel szemben fennálló követelésként, valamint az elszámolt előlegek, követelés csökkenésként, alapok, operatív programok és prioritások szerint,
 
-k)[^357] az irányító hatóság által jóváhagyott, engedélyezett, a kedvezményezettek, szállítók, illetve engedményesek számára fizetendő összegek, valamint a kedvezményezettektől behajtott, a fejezeti kezelésű előirányzat-felhasználási keretszámlára visszautalandó összegek a költségvetéssel szembeni kötelezettségként, alapok, operatív programok és prioritások szerint.
+k)[^359] az irányító hatóság által jóváhagyott, engedélyezett, a kedvezményezettek, szállítók, illetve engedményesek számára fizetendő összegek, valamint a kedvezményezettektől behajtott, a fejezeti kezelésű előirányzat-felhasználási keretszámlára visszautalandó összegek a költségvetéssel szembeni kötelezettségként, alapok, operatív programok és prioritások szerint.
 
-[^356]: A 70. § az 548/2013. (XII. 30.) Korm. rendelet 43. § 136. pontja szerint módosított szöveg.
-[^357]: A 71. § k) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 137. pontja szerint módosított szöveg.
+[^358]: A 70. § az 548/2013. (XII. 30.) Korm. rendelet 43. § 136. pontja szerint módosított szöveg.
+[^359]: A 71. § k) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 137. pontja szerint módosított szöveg.

@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-22
 | 2014-08-15 | 2011-4-20-22.23 | 203/2014. (VIII. 14.) Korm. rendelet |
 | 2014-11-06 | 2011-4-20-22.24 | 272/2014. (XI. 5.) Korm. rendelet |
 | 2014-12-31 | 2011-4-20-22.25 | 203/2014. (VIII. 14.) Korm. rendelet |
+| 2015-01-01 | 2011-4-20-22.26 | 358/2014. (XII. 29.) Korm. rendelet |
