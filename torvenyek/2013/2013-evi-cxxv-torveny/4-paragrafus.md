@@ -28,7 +28,7 @@ a) a hulladékgazdálkodási közszolgáltatási engedély alapját képező, a 
 
 b) a közszolgáltatási területre vonatkozó hatályos hulladékgazdálkodási közszolgáltatási engedélyt,
 
-c) a közszolgáltatói hulladékgazdálkodási tervet, valamint
+c)
 
 d) az igazgatási szolgáltatási díj megfizetését igazoló bizonylatot.
 

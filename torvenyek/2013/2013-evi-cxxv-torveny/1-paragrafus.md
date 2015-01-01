@@ -2,7 +2,7 @@
 
 1. § E törvény hatálya
 
-a) az Országos Hulladékgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaságra,
+a) a környezetvédelmi hatóságra (a továbbiakban: minősítő),
 
 b) a minősítést kérelmező hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező gazdálkodó szervezetre,
 
