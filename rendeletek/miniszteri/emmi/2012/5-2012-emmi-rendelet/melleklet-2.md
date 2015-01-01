@@ -1,10 +1,8 @@
-2. melléklet az 5/2012. (VI. 15.) EMMI rendelethez[^1]
+2. melléklet az 5/2012. (VI. 15.) EMMI rendelethez[^2]
 
 1. Kiemelt minősítésű színházművészeti szervezet:
 
-1.1. Önkormányzati fenntartású kiemelt szervezet:
-
-Bárka Józsefvárosi Színházi- és Kulturális Nonprofit Kft. (Budapest)
+1.1 Önkormányzati fenntartású kiemelt szervezet:
 
 Bartók Kamaraszínház és Művészetek Háza (Dunaújváros)
 
@@ -14,9 +12,9 @@ Békéscsabai Napsugár Bábszínház (Békéscsaba)
 
 Bóbita Bábszínház Nonprofit Kft. (Pécs)
 
-Budaörsi Játékszín (Budaörs)
+Budaörsi Latinovits Színház (Budaörs)
 
-Budapest Bábszínház Kiemelkedően Közhasznú Nonprofit Kft. (Budapest)
+Budapest Bábszínház Közhasznú Kft. (Budapest)
 
 Centrál Színház Színházművészeti Nonprofit Kft. (Budapest)
 
@@ -32,17 +30,15 @@ Harlekin Bábszínház (Eger)
 
 Hevesi Sándor Színház (Zalaegerszeg)
 
-Jászai Mari Színház, Népház (Tatabánya)
-
 József Attila Színház Nonprofit Kft. (Budapest)
 
 Kabóca Bábszínház és Gyermek Közművelődési Intézmény (Veszprém)
 
-Katona József Színház Kiemelkedően Közhasznú Nonprofit Kft. (Budapest)
+Katona József Közhasznú Nonprofit Kft. (Budapest)
 
 Katona József Színház (Kecskemét)
 
-Kolibri Gyermek- és Ifjúsági Színház Kiemelkedően Közhasznú Nonprofit Kft. (Budapest)
+Kolibri Gyermek- és Ifjúsági Színház Közhasznú Nonprofit Kft. (Budapest)
 
 Kövér Béla Bábszínház (Szeged)
 
@@ -56,11 +52,15 @@ Móricz Zsigmond Színház Nonprofit Kft. (Nyíregyháza)
 
 Örkény István Színház Nonprofit Kft. (Budapest)
 
-Pro Kultúra Sopron Nonprofit Kft. – Petőfi Színház (Sopron)
+Pécsi Harmadik Színház Nonprofit Kft. (Pécs)
 
-Radnóti Miklós Színház Kiemelkedően Közhasznú Nonprofit Kft. (Budapest)
+Pro Kultúra Sopron Nonprofit Kft. (Petőfi Színház) (Sopron)
+
+Radnóti Miklós Színház Nonprofit Kft. (Budapest)
 
 Szigligeti Színház (Szolnok)
+
+Tatabánya Megyei Jogú Város Jászai Mari Színház, Népház, Tatabánya
 
 Thália Színház Nonprofit Kft. (Budapest)
 
@@ -80,13 +80,13 @@ Vörösmarty Színház (Székesfehérvár)
 
 Weöres Sándor Színház Nonprofit Kft. (Szombathely)
 
-1.2. Önkormányzattal közszolgáltatási szerződést kötött kiemelt szervezet:
+1.2 Önkormányzattal közszolgáltatási szerződést kötött kiemelt szervezet:
 
 Karinthy és Karinthy Kulturális Szolgáltató Nonprofit Kft. (Budapest)
 
 2. Kiemelt minősítésű táncművészeti szervezet:
 
-2.1. Önkormányzattal közszolgáltatási szerződést kötött kiemelt szervezet:
+2.1 Önkormányzattal közszolgáltatási szerződést kötött kiemelt szervezet:
 
 Bozsik Yvette Alapítvány (Budapest)
 
@@ -94,11 +94,11 @@ Előadó és Alkotóművészetért Alapítvány (Budapest)
 
 Rivalda Stúdió Művészeti Iroda Közhasznú Nonprofit Kft. (Budapest)
 
-Univers’Art Művészeti Egyesület (Budapest)
+Univers'Art Művészeti Egyesület (Budapest)
 
 3. Kiemelt minősítésű zeneművészeti szervezet:
 
-3.1. Önkormányzati fenntartású kiemelt szervezet:
+3.1 Önkormányzati fenntartású kiemelt szervezet:
 
 Budafoki Dohnányi Ernő Szimfonikus Zenekar Közhasznú Nonprofit Kft. (Budapest)
 
@@ -110,7 +110,7 @@ Szolnoki Szimfonikus Zenekar Nonprofit Kft. (Bartók Béla Kamarakórus) (Szolno
 
 Zuglói Filharmónia Nonprofit Kft. (Budapest)
 
-3.2. Önkormányzattal közszolgáltatási szerződést kötött kiemelt szervezet:
+3.2 Önkormányzattal közszolgáltatási szerződést kötött kiemelt szervezet:
 
 Budapesti Vonósok Alapítványa (Budapest)
 
@@ -118,12 +118,4 @@ MÁV Szimfonikusok Zenekari Alapítvány (Budapest)
 
 Mendelssohn Kamarazenekar Közhasznú Egyesület (Veszprém)
 
-Sysart Kft. Orfeo Zenei Alapítvány (Budapest)
-
-Sysart Kft. Orfeo Zenei Alapítvány Purcell Kórus (Budapest)
-
-Szent Efrém Közhasznú Alapítvány (Budapest)
-
-Zenei Alapítvány (Budapest)
-
-[^1]: A 2. melléklet a 64/2013. (IX. 10.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. melléklet a 48/2014. (X. 30.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
