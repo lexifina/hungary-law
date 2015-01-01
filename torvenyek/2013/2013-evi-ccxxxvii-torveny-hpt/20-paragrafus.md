@@ -30,7 +30,7 @@ l) a hitelintézet likviditását, fizetőképességét (szolvenciáját) súlyo
 
 m) a szervezeti felépítését, az irányítási, döntési és ellenőrzési rendjét és a szervezeti és működési szabályzatát, ha ezeket az alapító okirat részletesen nem tartalmazza,
 
-n) szövetkezeti hitelintézet esetében a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló törvényben (a továbbiakban: Szhitv.) meghatározott Integrációs Szervezethez benyújtott, csatlakozásról szóló nyilatkozatot, valamint
+n) szövetkezeti hitelintézet esetében a Szhitv.-ben meghatározott Integrációs Szervezethez benyújtott, csatlakozásról szóló nyilatkozatot,
 
 o) harmadik országbeli hitelintézet fióktelepe esetén, ha az a Felügyelet e törvény szerinti engedélye alapján nem csatlakozik az OBA-hoz,
 

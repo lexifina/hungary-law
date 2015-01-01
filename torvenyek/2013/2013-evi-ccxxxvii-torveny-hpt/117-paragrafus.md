@@ -8,7 +8,7 @@
 
 (4) A hitelintézet a javadalmazási politikára vonatkozó szabályokat összevont alapon minden olyan vállalkozás tekintetében alkalmazza, amelyekre az összevont alapú felügyelet a hitelintézettel együttesen kiterjed.
 
-(5) A javadalmazási politika elveit a felügyeleti jogkörrel rendelkező vezető testület fogadja el, hajtja végre és vizsgálja felül, az irányítási jogkörrel rendelkező vezető testület felel annak ellenőrzéséért, és a javadalmazási politika végrehajtását legalább évente a hitelintézet belső ellenőrzése is ellenőrzi.
+(5) A javadalmazási politika elveit a felügyeleti jogkörrel rendelkező vezető testület fogadja el és vizsgálja felül, az irányítási jogkörrel rendelkező vezető testület felel annak végrehajtásáért, amelyet legalább évente a hitelintézet belső ellenőrzése is ellenőriz.
 
 (6) A mérlegfőösszeg tekintetében legalább öt százalék piaci részesedéssel rendelkező hitelintézetek javadalmazási bizottságot állítanak fel, amely felügyeli a kockázatkezelésért és a jogszabályoknak történő megfelelésért felelős vezető – ideértve a belső kontroll feladatkört ellátó munkavállalókat is – javadalmazását, valamint előkészíti a javadalmazásra vonatkozó döntéseket a részvényesek, a befektetők és a hitelintézetben érdekelt egyéb felek hosszú távú érdekeinek figyelembevételével.
 

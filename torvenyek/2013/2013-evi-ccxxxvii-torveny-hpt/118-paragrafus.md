@@ -28,7 +28,7 @@ d) a hitelintézet stabil tőkehelyzetének fenntartására vonatkozó követelm
 
 (5) A hitelintézet igazolja a Felügyelet felé, hogy a javasolt magasabb alapjavadalmazás-teljesítményjavadalmazás arány nem ütközik a hitelintézet e törvényben, továbbá a prudens működésre vonatkozó jogszabályokban, és az 575/2013/EU rendeletben meghatározott követelményekkel.
 
-(6) A hitelintézet a teljesítményjavadalmazás legfeljebb 25 százaléka esetében egy legalább ötéves időszakra kiterjesztett kifizetéskor az összeg meghatározására a Felügyelet rendeletében foglalt diszkontrátát alkalmazza.
+(6) A hitelintézet az (1) és (2) bekezdés alkalmazásakor a teljesítmény-javadalmazás legfeljebb 25 százalékáig diszkontált értéken veszi figyelembe a (11) bekezdésben meghatározott instrumentumokban nyújtott, legalább öt éves halasztási időszakkal juttatott teljesítmény-javadalmazási eszközöket.
 
 (7) Az (1) és a (2) bekezdésben rögzített korlátozásokat figyelembe véve az alapjavadalmazás és a teljesítményjavadalmazás aránya kiegyensúlyozott. Ezen belül az alapjavadalmazás olyan mértékű, hogy rugalmas javadalmazási politika érvényesüljön, és lehetőség legyen arra, hogy adott esetben a teljes javadalmazás kizárólag alapjavadalmazásból álljon.
 

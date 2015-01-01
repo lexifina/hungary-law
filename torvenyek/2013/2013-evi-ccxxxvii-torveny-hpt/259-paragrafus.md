@@ -2,4 +2,4 @@
 
 (2) A 3. § (2) bekezdés a) és c) pontjában meghatározott kiegészítő pénzügyi szolgáltatásokat végző jogi személy könyvvezetésére és könyvvizsgálatára a 258-264. § rendelkezéseit nem kell alkalmazni.
 
-(3) Magyarországon fiókteleppel rendelkező harmadik országbeli pénzügyi intézmény a saját joga alapján elkészített és könyvvizsgálóval hitelesített mérlegének és eredménykimutatásának hivatalos magyar nyelvű fordítását a jóváhagyását követő harminc napon belül két országos napilapban köteles közzétenni.
+(3) Magyarországon fiókteleppel rendelkező harmadik országbeli pénzügyi intézmény a saját joga alapján elkészített és könyvvizsgálóval hitelesített mérlegének és eredménykimutatásának hivatalos magyar nyelvű fordítását a jóváhagyását követő harminc napon belül a fióktelep honlapján közzéteszi.

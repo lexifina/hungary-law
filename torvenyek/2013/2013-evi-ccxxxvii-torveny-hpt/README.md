@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-237-00-00
 | 2014-09-16 | 2014. évi XXXVII. törvény | 2013-237-00-00.9 |
 | 2014-09-30 | 2014. évi XXXIX. törvény | 2013-237-00-00.10 |
 | 2014-11-27 | 2014. évi LXXIV. törvény | 2013-237-00-00.11 |
+| 2015-01-01 | 2014. évi CIV. törvény | 2013-237-00-00.12 |

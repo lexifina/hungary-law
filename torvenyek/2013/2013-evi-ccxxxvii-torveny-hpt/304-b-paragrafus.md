@@ -1,0 +1,1 @@
+304/B. § A hitelintézet 2015. március 31-éig tájékoztatja a közösségi betéttel és a hitelintézet által kibocsátott hitelviszonyt megtestesítő értékpapírral rendelkező betéteseket a betétbiztosítás tekintetében 2015. július 3-án hatályba lépő változásokról.

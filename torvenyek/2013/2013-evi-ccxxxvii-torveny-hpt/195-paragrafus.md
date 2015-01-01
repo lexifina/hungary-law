@@ -1,3 +1,5 @@
-195. § (1) A felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig hozott döntésekért a hitelintézet igazgatósági tagjának a gazdasági társaságokra, illetve a szövetkezetekre vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.
+195. § (1) Ha a felügyeleti biztos részben veszi át a pénzügyi intézmény irányítási jogkörrel rendelkező vezető testületének jogkörét, a kirendeléséről rendelkező határozatban a Felügyelet meghatározza a pénzügyi intézménynél betöltött szerepét, feladatait és hatáskörét.
 
-(2) Ha nincs lehetőség a hitelintézet ügyeinek átvételére, a felügyeleti biztos közjegyző vagy rendőrség közreműködését veheti igénybe.
+(2) A pénzügyi intézmény irányítási jogkörrel rendelkező vezető testületének teljes jogkörét átvevő felügyeleti biztos kirendelésére kizárólag akkor kerülhet sor, ha a pénzügyi intézmény helyzete jelentősen megromlik vagy súlyosan megsérti a prudens működésre vonatkozó jogszabályi előírásokat és a Felügyelet nem látja biztosítottnak, hogy a pénzügyi intézmény működésének irányítása az irányítási jogkört részben átvevő felügyeleti biztos kirendelésével vagy a vezető testület leváltását követően egy új vezető testület útján megoldott lehet.
+
+(3) A (2) bekezdés szerinti felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig hozott döntésekért a pénzügyi intézmény irányítási jogkörrel rendelkező vezető testülete tagjának a gazdasági társaságokra, illetve a szövetkezetekre vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.

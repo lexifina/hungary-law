@@ -16,7 +16,7 @@ induló tőkével alapítható.
 
 (5) Harmadik országbeli hitelintézet fióktelepe – ha törvény másként nem rendelkezik – legalább kétmilliárd forint dotációs tőkével alapítható.
 
-(6) Fióktelep formájában működő pénzügyi intézmény esetében az induló tőke alatt a dotációs tőke értendő.
+(6)
 
 (7) Pénzügyi holding társaság legalább kettőmilliárd forint induló tőkével alapítható.
 
