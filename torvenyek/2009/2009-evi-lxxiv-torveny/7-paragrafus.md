@@ -6,7 +6,7 @@ aa) az adott ágazatban legalább tíz munkáltatónál, alapszabálya szerint k
 
 ab) legalább három munkáltatónál, ahol az érdekképviselet alapszabálya szerint képviseletére jogosult szervet működtet, illetőleg tisztségviselővel rendelkezik, az érdekképviseleti tagok száma eléri az ágazatban munkaviszonyban állók létszámának tíz százalékát, vagy
 
-ac)
+ac) az Ágazati Részvételt Megállapító Bizottsághoz intézett kérelem benyújtása időpontjában azon munkáltatók működő telephelyein, ahol alapszabálya szerint képviseletére jogosult szervet működtet, vagy tisztségviselővel rendelkezik, a megelőző öt éven belüli utolsó üzemi tanácsi választásokon a jelöltjei által együttesen megszerzett redukált szavazatok száma eléri az ágazatban munkaviszonyban foglalkoztatottak számának öt százalékát. E feltétel szempontjából figyelmen kívül kell hagyni az olyan munkáltatóknál munkaviszonyban foglalkoztatottak létszámát, ahol üzemi tanácsot, illetve megbízottat jogszabályi előírás szerint nem lehet választani;
 
 b) az a munkáltatói érdekképviselet (a továbbiakban: ágazati munkáltatói érdekképviselet),
 

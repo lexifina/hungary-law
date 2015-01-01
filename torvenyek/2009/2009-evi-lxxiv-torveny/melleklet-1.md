@@ -4,7 +4,13 @@ A munkavállalói érdekképviseletek döntési jogosultságának, valamint repr
 
 ## Az ÁPB munkavállalói oldala az egyes szempontok alapján legfeljebb 100 pontot érhet el. Az egyes kritériumok alapján megszerezhető maximális pontszámot az adott kritériumnak megfelelő szervezetek között normatív módon, a szervezet 1–5. pontban meghatározott jellemzőivel arányosan kell felosztani.
 
-1.
+1. Az adott ágazat területén a legutóbbi üzemi tanácsi választásokon elért eredmény
+
+Az adott ágazat területén a legutóbbi üzemi tanácsi választásokon elért eredmény arányában 40 pont osztható fel, ha a választásra jogosultak 30%-a részt vett a választáson. Ha a részvétel 30%-nál alacsonyabb volt, a 40 pont arányosan csökkentve vehető figyelembe.
+
+A számításban az ágazatba főtevékenység alapján besorolt, 15 fő felett foglalkoztató munkáltatóknál megtartott legutóbbi üzemi tanácsi választáson leadott összes redukált szavazatot kell figyelembe venni.
+
+A szakszervezetek, illetve szakszervezeti szövetségek a legutóbbi üzemi tanácsi választáson elért eredménynek megfelelő arányban részesednek a felosztható pontszámból.
 
 2. Az aktív szakszervezeti tagok létszáma
 
