@@ -8,7 +8,9 @@
 
 (3) A magasabb vezető állású és a vezető állású ügyész évi öt munkanap pótszabadságra jogosult. Az alapszabadság és a vezetői pótszabadság együttes mértéke évente a negyven munkanapot nem haladhatja meg.
 
-(4) Az ügyészt az (1)–(3) bekezdésben meghatározott szabadságon felül megilleti a Munka Törvénykönyvében meghatározott pótszabadság is.
+(3a) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+
+(4) Az ügyészt az (1)–(3a) bekezdésben meghatározott szabadságon felül megilleti a munka törvénykönyvéről szóló törvényben meghatározott pótszabadság is.
 
 (5) Az ügyésznek az (1)–(4) bekezdésben meghatározott szabadság időtartamára a Munka Törvénykönyve szabályai szerinti díjazás jár.
 

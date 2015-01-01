@@ -1,4 +1,4 @@
-45. § (1) Az ügyész a tisztsége ellátásán kívül nem folytathat kereső tevékenységet, kivéve tudományos és oktatói (edzői, versenybírói, játékvezetői), művészi, szerzői jogi védelemben részesülő, továbbá lektori és szerkesztői, műszaki alkotó munkát, feltéve, hogy ezzel nem veszélyezteti függetlenségét és pártatlanságát, valamint nem akadályozza hivatali kötelezettségei teljesítését.
+45. § (1) Az ügyész a tisztsége ellátásán kívül nem folytathat kereső tevékenységet, kivéve a tudományos és oktatói (edzői, versenybírói, játékvezetői), művészi, szerzői jogi védelemben részesülő, továbbá a lektori és szerkesztői, műszaki alkotó munkát és a nevelőszülői foglalkoztatási jogviszony létesítését, feltéve, hogy ezzel nem veszélyezteti függetlenségét és pártatlanságát, valamint nem akadályozza hivatali kötelezettségei teljesítését.
 
 (2) Az ügyész nem lehet gazdasági társaság, kooperációs társaság, szövetkezet vezető tisztségviselője vagy személyes közreműködésre kötelezett tagja, gazdasági társaság, kooperációs társaság, szövetkezet felügyelő bizottságának tagja, továbbá gazdasági társaság, kooperációs társaság korlátlanul felelős tagja, valamint egyéni cég tagja.
 
