@@ -1095,21 +1095,3 @@ T= Plsz * Kjtvhr. 5 számú melléklete szerinti pótlék összege fizetési fok
 Plsz= az ágazati pótlékra jogosult foglalkoztatottak száma, amely a támogatás igénylésekor az ágazati pótlékra jogosult foglalkoztatottak éves becsült átlaglétszáma fizetési fokozatonként és fizetési osztályonként; a támogatás elszámolásakor a foglalkoztatottak éves tényleges átlaglétszáma fizetési fokozatonként és fizetési osztályonként.
 
 Az ágazati pótlék igénylésére, elszámolására és ellenőrzésére az egyházi és nem állami fenntartású szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok állami támogatásáról szóló 489/2013. (XII. 18.) Korm. rendelet 1-5. §-át, 10. § (3) bekezdését, 11. §-át és 14-26. §-át kell alkalmazni.
-
-Kiegészítő rendelkezések:
-
-1. A nem állami szociális fenntartó a támogatásra akkor jogosult, ha a Kjtvhr. 15/A. §-a szerinti ágazati pótlék teljes összege tényleges bérnövekedésként jelenik meg a foglalkoztatott számára.
-
-2. Nem nyújtható támogatás az ágazati pótléknak a Kjtvhr. 5. számú mellékletében meghatározott összegén felül nyújtott összege és annak közterhei kifizetéséhez.
-
-3. A támogatás kizárólag a 2015. évben ágazati pótlékra kifizetett, továbbá annak ténylegesen megfizetett közterheire használható fel. A támogatás terhére más jogcímen kifizetés nem teljesíthető.
-
-4. A tárgyévet megelőző évben támogatásban részesült nem állami szociális fenntartó a szociális ágazati pótlék iránti igényét 2015. január 6-ig nyújthatja be a kincstárnak.
-
-5. Ha a fenntartó 2015-ben válik jogosulttá a támogatásra, a támogatás iránti kérelmét az azt követő harminc napon belül nyújthatja be, hogy a támogatásra jogosulttá vált.
-
-6. Támogatási kérelem a tárgyév végéig az igénylési határidő elmulasztása esetén is benyújtható.
-
-7. A kincstár azon nem állami fenntartóknak, melyek részére a szociális, gyermekjóléti és gyermekvédelmi ágazati pótlék kifizetéséhez kapcsolódó támogatásról szóló 34/2014. (II. 18.) Korm. rendelet alapján 2014. december hónapban támogatást folyósít – külön igénylés nélkül –, azzal azonos összegű támogatási előleget biztosít havonta 2015. január és február hónapban. A folyósított előleg és a fenntartót ténylegesen megillető támogatás különbözetének rendezésére a március hónapban folyósítandó támogatás utalásával egyidejűleg kerül sor. A különbözet után kamat nem számítható fel.
-
-8. A kincstár a támogatási kérelemről
