@@ -86,7 +86,7 @@ b) a jövedéki jogszabályokban meghatározott jövedéki ügyekkel
 
 kapcsolatos feladatokat.
 
-(7) A NAV a bűnüldözési és nyomozóhatósági jogkörében végzi a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) által hatáskörébe utalt bűncselekmények megelőzését, felderítését és nyomozását, valamint nem nyomozóhatósági jogkörében eljárva ellátja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, a bíróság, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv törvényben meghatározott feladatai elősegítése érdekében.
+(7) A NAV a bűnüldözési és nyomozóhatósági jogkörében végzi a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) által hatáskörébe utalt bűncselekmények megelőzését, felderítését, megszakítását és nyomozását, valamint nem nyomozóhatósági jogkörében eljárva ellátja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, a bíróság, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv törvényben meghatározott feladatai elősegítése érdekében.
 
 (8) A NAV rendészeti és igazgatási jogkörében
 

@@ -1,0 +1,1 @@
+35/G. § E fejezet alkalmazásában magánlakásnak a lakás (üdülő, nyaraló vagy a lakás céljára használt egyéb helyiség, létesítmény, tárgy), az ahhoz tartozó nem lakás céljára szolgáló helyiség, létesítmény, bekerített terület minősül.

@@ -1,4 +1,4 @@
-33/D. § (1) A 33/C. § alkalmazása során nem engedélyezhető a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő részére a 33/C. § szerinti engedélyköteles jogviszony létesítése, illetve tevékenység folytatása, ha
+33/D. § (1) A 33/C. § alkalmazása során nem engedélyezhető a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő részére a 33/C. § szerinti engedélyköteles jogviszony létesítése, illetve tevékenység folytatása, különösen ha
 
 a) az a 33/B. § (2) bekezdésébe ütközik,
 

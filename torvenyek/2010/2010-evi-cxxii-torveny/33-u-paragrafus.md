@@ -4,7 +4,7 @@ a) legfeljebb a fegyelmi határozat kihirdetéséig, illetve ha az eljárás al�
 
 b) azokban az esetekben, amelyekben a törvény szerint nem a fegyelmi tanács hozza meg az érdemi döntést, legfeljebb a fegyelmi határozat közléséig
 
-az állásából felfüggesztheti, ha jelenléte a tényállás tisztázását gátolná vagy a kötelezettségszegés súlya és jellege a munkahelytől való távoltartást indokolja. A hivatalvesztés, a hivatásos szolgálati jogviszony megszüntetése, a lefokozás fegyelmi büntetéssel – az erről szóló határozat végrehajtásáig – a felfüggesztés együtt jár; erről a fegyelmi határozatban rendelkezni kell.
+az állásából felfüggesztheti, ha jelenléte a tényállás tisztázását gátolná vagy a kötelezettségszegés súlya és jellege a munkahelytől való távoltartást indokolja. A hivatalvesztés, a hivatásos szolgálati jogviszony megszüntetése, a lefokozás fegyelmi büntetéssel – az erről szóló határozat kihirdetésétől, illetve ennek hiányában a közlésétől kezdve, annak végrehajtásáig – a felfüggesztés együtt jár; erről a fegyelmi határozatban rendelkezni kell.
 
 (2) Haladéktalanul meg kell szüntetni a felfüggesztést, ha annak indoka már nem áll fenn.
 
@@ -17,3 +17,5 @@ az állásából felfüggesztheti, ha jelenléte a tényállás tisztázását g
 (6) A teljes illetményt vissza kell tartani a hivatalvesztést, a hivatásos szolgálati jogviszony megszüntetését, a lefokozást kimondó fegyelmi határozat kihirdetésétől, illetve ennek hiányában a közlésétől kezdve, annak végrehajtásáig.
 
 (7) Aki az állásából felfüggesztés hatálya alatt áll, a felfüggesztés napjától hatósági jogkörét, vezetői, szolgálati elöljárói/felettesi jogait nem gyakorolhatja, szolgálati igazolványát, emellett a pénzügyőr a szolgálati jelvényét és fegyverét beszolgáltatni köteles, továbbá a munkavégzési helyére, szolgálatteljesítési helyére csak a munkáltatói jogkör gyakorlójának előzetes engedélyével léphet be.
+
+(8) Ha az eljárás alá vont képviselővel, vagy jogi képviselő mellett egyidejűleg MKK, MRK képviselőjével vagy a NAV-nál működő munkavállalói érdek-képviseleti szerv képviselőjével járt el, az (1) és a (6) bekezdés alkalmazásában a közlés időpontja tekintetében az eljárás alá vonttal, illetve képviselőjével, képviselőivel való közlés időpontjai közül a legkorábbi közlés időpontja az irányadó.

@@ -22,4 +22,6 @@ c) ha a kötelezettségszegés valamely jogellenes állapot fenntartásában val
 
 (8) A felfüggesztés idejére illetmény jár, ennek azonban 50%-át a felfüggesztés megszüntetéséig vissza kell tartani. A visszatartott illetményt a visszatartás időpontjától számított, Ptk. szerinti kamatával növelten utólag ki kell fizetni, ha a méltatlanság nem állapítható meg. A kifizetést az erről szóló döntés közlését követő 15 napon belül kell teljesíteni.
 
+(8a) A 33/U. § (7) bekezdését azzal szemben is alkalmazni kell, aki az (5) bekezdés szerinti eljárásban állásból felfüggesztés hatálya alatt áll.
+
 (9) Amennyiben a méltatlanság nem állapítható meg, de a munkáltatói jogkör gyakorlója a fegyelmi eljárás lefolytatását indokoltnak tartja, a méltatlansági eljárás befejezését követő 15 napon belül fegyelmi eljárást indíthat.

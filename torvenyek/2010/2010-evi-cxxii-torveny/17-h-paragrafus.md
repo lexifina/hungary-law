@@ -2,7 +2,7 @@
 
 (2) A Hszt. 75. § (4)–(5) bekezdését a NAV hivatásos állománya tekintetében azzal az eltéréssel kell alkalmazni, hogy ha a pénzügyőr az előírt egészségi, pszichikai és fizikai alkalmassági követelményeknek nem felel meg, úgy a Hszt. 75. § (4) bekezdés szerinti ismételt ellenőrzés mellőzésével a 17/C. § szerint kell eljárni.
 
-(3)
+(3) A Hszt. 36. § (4)–(5) bekezdését azzal az eltéréssel kell alkalmazni, hogy az ott említett fegyelmi fenyítéseken a rendfokozatban való visszavetés, a hivatásos szolgálati jogviszony megszüntetése, illetve a lefokozás fenyítést kell érteni.
 
 (4)
 

@@ -16,7 +16,7 @@ a) azt a kárt, amellyel kapcsolatban a munkáltató bizonyítja, hogy bekövetk
 
 b) a kárnak azt a részét, amelyet a károsult vétkes magatartása idézett elő, vagy amely abból származott, hogy a károsult a kárenyhítési kötelezettségének nem tett eleget.
 
-(5) A foglalkoztatottnak kell bizonyítania, hogy a károkozás a kormányzati szolgálati jogviszonyával, hivatásos szolgálati jogviszonyával, munkaviszonyával okozati összefüggésben következett be.
+(5) A foglalkoztatottnak kell bizonyítania a kár bekövetkeztét és mértékét, valamint azt, hogy a károkozás a kormányzati szolgálati jogviszonyával, hivatásos szolgálati jogviszonyával, munkaviszonyával okozati összefüggésben következett be.
 
 (6) A kár megtérítésére a 34/J. § (1)–(2) bekezdésében foglalt rendelkezéseket megfelelően alkalmazni kell.
 

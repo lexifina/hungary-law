@@ -1,6 +1,6 @@
 82/A. § (1) Felhatalmazást kap a kijelölt miniszter, hogy rendeletben állapítsa meg:
 
-a) azokat a munkaköröket, amelyeket az ellátandó feladatok szolgálati jellegére tekintettel kizárólag pénzügyőr tölthet be;
+a) azokat a munkaköröket, amelyeket az ellátandó feladatok szolgálati jellegére tekintettel kizárólag pénzügyőr tölthet be, továbbá azokat a munkaköröket, amelyek betöltéséhez a pénzügyőrnek rendészeti szakvizsgával kell rendelkeznie;
 
 b)
 
@@ -14,6 +14,6 @@ f) a NAV humánerőforrás-fejlesztési feladatokat ellátó intézete keretébe
 
 g) a pénzügyőrök részére szolgálati és kiegészítő igazolványok, valamint a szolgálati azonosító jelvény rendszeresítésével összefüggő szabályokat;
 
-h) azokat a végzettségeket, amelyeket az alap- és középfokú szaktanfolyami végzettséggel egyenértékűnek kell tekinteni.
+h) azokat a végzettségeket, amelyeket az alap- és középfokú szaktanfolyami végzettséggel egyenértékűnek kell tekinteni, valamint azon munkaköröket, amelyek tekintetében a szaktanfolyam elvégzésének kötelezettsége nem áll fenn.
 
 (2) Felhatalmazást kap a kijelölt miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg azon fertőző betegségek körét, amelyek esetében – egyes szolgálati feladatokhoz kapcsolódóan – védőoltás elrendelésének van helye, továbbá a kötelező védőoltás elrendelésének, az igénybevétel elhalasztásának, továbbá a kötelező védőoltás alóli mentesítésnek a részletes szabályait.

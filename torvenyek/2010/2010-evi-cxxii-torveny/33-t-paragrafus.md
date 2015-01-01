@@ -1,6 +1,6 @@
 ## A vizsgálat, a póteljárás, a tárgyalás nélkül alkalmazható fegyelmi büntetés
 
-33/T. § (1) A vizsgálat a fegyelmi eljárás első szakasza, amelynek lefolytatására a fegyelmi jogkör gyakorlója az eljárás megindításától számított 3 munkanapon belül írásban vizsgálóbiztost jelöl ki. A vizsgálóbiztos személye a fegyelmi eljárás alá vont személynek a fegyelmi eljárás megindításának időpontjában betöltött munkaköréhez (vezetői munkakör, illetve nem vezetői munkakör) és besorolásához, nem vezetői munkakört betöltő pénzügyőr esetében emellett – ha a vizsgálóbiztos pénzügyőr – a fegyelmi eljárás megindításának időpontja szerinti rendfokozatához igazodik.
+33/T. § (1) A vizsgálat a fegyelmi eljárás első szakasza, amelynek lefolytatására a fegyelmi jogkör gyakorlója az eljárás megindításától számított 3 munkanapon belül írásban vizsgálóbiztost jelöl ki. A vizsgálóbiztos személye a fegyelmi eljárás alá vont személynek a fegyelmi eljárás megindításának időpontjában betöltött munkaköréhez (vezetői munkakör, illetve nem vezetői munkakör) és besorolásához, nem vezetői munkakört betöltő pénzügyőr esetében emellett – ha a vizsgálóbiztos nem vezetői munkakört betöltő pénzügyőr – a fegyelmi eljárás megindításának időpontja szerinti rendfokozatához igazodik.
 
 (2) Vizsgálóbiztosként
 

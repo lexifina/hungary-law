@@ -3,3 +3,5 @@
 (2) Pénzügyőr vezénylése esetén a vezénylés időtartama alatt bekövetkezett kár esetében az (1) bekezdés szerinti felhívást és nyilatkozatot az a szerv teszi meg, illetve a kárigényt ahhoz a szervhez kell benyújtani, amelynél a kár keletkezett.
 
 (3) Munkáltatók egyetemleges felelőssége esetén a munkáltatók haladéktalanul tájékoztatják egymást a károkozásról, annak mértékéről, körülményeiről és a kártérítési igénnyel kapcsolatos álláspontjukról.
+
+(4) A foglalkoztatott írásban bejelentett sérelemdíj iránti igényére a munkáltató 15 napon belül – indokai közlése mellett – írásban nyilatkozik.

@@ -1,13 +1,9 @@
-## Bilincs alkalmazása
+## Útzár telepítése, megállásra kényszerítés
 
-44. § (1) A pénzügyőr bilincset alkalmazhat a személyi szabadságában korlátozni kívánt vagy korlátozott személy:
+44. § (1) A NAV – autópálya és autóút kivételével – közút vagy közforgalom elől el nem zárt magánút forgalmának korlátozását vagy lezárását rendelheti el a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetésével megalapozottan gyanúsítható személy, valamint a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetőjének elfogására, ennek során – a közlekedés biztonságát is figyelembe véve, külön jogszabályban meghatározott feltételekkel – útzárat telepíthet.
 
-a) támadásának megakadályozására,
+(2) Útzár alkalmazása során a NAV járművek áthaladását torlaszszerűen vagy más módon lassító, megakadályozó építményt, technikai berendezést vagy ezek hiányában bármilyen eszközt telepíthet, amellyel az intézkedés foganatosítása elől járművel menekülő személyek feltartóztatása, elfogása elérhető.
 
-b) tettleges ellenszegülésének megtörésére,
+(3) A NAV az (1) bekezdésben meghatározott célból autópályán és autóúton útzár telepítését az illetékes rendőrhatóságtól kérheti.
 
-c) szökésének megakadályozására,
-
-d) önkárosításának megakadályozására.
-
-(2) A bilincs használata alkalmával kerülni kell a testi sérülés és egészségromlás okozását. A bilincs használatáról készült jelentésben utalni kell arra, hogy a bilincs alkalmazására milyen okból került sor, és a bilincselés következtében történt-e sérülés. Ha a megbilincseltet más hatóságnak átadják, a jelentés egy példányát e hatóságnak meg kell küldeni.
+(4) A NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetésével megalapozottan gyanúsítható személy, illetve a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetőjének elfogása érdekében – ha járművel menekül – a pénzügyőr mások személyét és biztonságát nem veszélyeztetve a járművet követheti és – a NAV-nál rendszeresített technikai eszköz felhasználásával is – megállásra kényszerítheti.

@@ -6,7 +6,7 @@
 
 (3) A fegyelmi tanács elnöke – a 33/Y. § (3) bekezdés szerinti esetet kivéve – a vizsgálóbiztos előterjesztésétől számított 3 munkanapon belül írásban kijelöli a tanács tagjait.
 
-(4) A fegyelmi tanács tagjainak személye a fegyelmi eljárás alá vont személynek a fegyelmi eljárás megindításának időpontjában betöltött munkaköréhez (vezetői munkakör, illetve nem vezetői munkakör) és besorolásához, nem vezetői munkakört betöltő pénzügyőr esetében emellett – ha a fegyelmi tanács tagja pénzügyőr – a fegyelmi eljárás megindításának időpontja szerinti rendfokozatához igazodik.
+(4) A fegyelmi tanács tagjainak személye a fegyelmi eljárás alá vont személynek a fegyelmi eljárás megindításának időpontjában betöltött munkaköréhez (vezetői munkakör, illetve nem vezetői munkakör) és besorolásához, nem vezetői munkakört betöltő pénzügyőr esetében emellett – ha a fegyelmi tanács tagja nem vezetői munkakört betöltő pénzügyőr – a fegyelmi eljárás megindításának időpontja szerinti rendfokozatához igazodik.
 
 (5) Nem vezetői munkakört betöltő eljárás alá vont esetén a fegyelmi tanács tagjainak kijelölése során a 33/T. § (2)–(4) bekezdés rendelkezéseit kell megfelelően alkalmazni.
 

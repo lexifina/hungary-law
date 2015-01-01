@@ -8,7 +8,7 @@
 
 (4) A kiküldetésben lévő kormánytisztviselőnek, pénzügyőrnek, ügykezelőnek az élelmezésével kapcsolatos többletköltségei fedezetére a kiküldetés tartamára élelmezési költségtérítés (napidíj) jár.
 
-(5) A napidíj mértéke az illetményalap egy munkanapra eső összegének 25%-a. A napidíj átalányként is elszámolható, ha a kormánytisztviselő, a pénzügyőr, az ügykezelő havonta, rendszeresen kiküldetésben végez munkát. Az átalányt a napidíj és a havi átlagban kiküldetésben töltött naptári napok figyelembevételével kell meghatározni.
+(5) A napidíj mértéke a költségvetési törvényben meghatározott, kormánytisztviselőkre vonatkozó illetményalap (a továbbiakban: illetményalap) 1 munkanapra eső összegének 25%-a. A napidíj átalányként is elszámolható, ha a kormánytisztviselő, a pénzügyőr, az ügykezelő havonta, rendszeresen kiküldetésben végez munkát. Az átalányt a napidíj és a havi átlagban kiküldetésben töltött naptári napok figyelembevételével kell meghatározni.
 
 (6) A napidíj kiszámításánál havonta huszonegy munkanapot lehet figyelembe venni és annak összegét tíz forintra felkerekítve kell megállapítani. Nem számolható el napidíj, ha a kiküldetésben töltött idő a négy órát nem éri el. A napidíj fele számolható el, ha a kiküldetésben töltött idő a nyolc órát nem éri el.
 

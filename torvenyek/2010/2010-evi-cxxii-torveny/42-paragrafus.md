@@ -1,7 +1,9 @@
-## Szolgálati kutya alkalmazása
+## Vegyi eszköz, sokkoló eszköz, rendőrbot, illetve más eszköz alkalmazása
 
-42. § (1) A pénzügyőr szájkosárral ellátott szolgálati kutyát – pórázon vagy anélkül – kényszerítő eszközként alkalmazhat, ha a testi kényszer alkalmazásának feltételei fennállnak.
+42. § (1) A pénzügyőr a szolgálatban kényszerítő eszközként rendszeresített vegyi eszközt, sokkoló eszközt, illetve rendőrbotot alkalmazhat:
 
-(2) A pénzügyőr szájkosár nélküli szolgálati kutyát pórázon vezetve alkalmazhat az intézkedése elleni tettleges ellenállás leküzdéséhez.
+a) a mások vagy a saját életét, testi épségét, illetve az őrzésére bízott vagyon biztonságát közvetlenül veszélyeztető támadás elhárítására,
 
-(3) A pénzügyőr szájkosár és póráz nélküli szolgálati kutyát alkalmazhat a személye ellen intézett támadás vagy az életét, testi épségét közvetlenül fenyegető magatartás elhárítására.
+b) a jogszerű intézkedéssel szembeni ellenszegülés megtörésére.
+
+(2) A pénzügyőr rendszeresített pirotechnikai eszközt alkalmazhat a mások vagy saját élete, testi épsége közvetlen veszélyeztetésének elhárítására, illetve a szándékos bűncselekmény elkövetésén tetten ért személy elfogása alkalmával, vagy ha a lőfegyverhasználat feltételei fennállnak.

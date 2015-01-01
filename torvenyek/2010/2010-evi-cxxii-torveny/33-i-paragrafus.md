@@ -4,15 +4,15 @@
 
 a) a 33/G. § (3) bekezdés b)–c) pontjában meghatározott büntetésnél a várakozási idő meghosszabbításának ideje alatt;
 
-b) a 33/G. § (3) bekezdés d) és f) pontjában meghatározott büntetésnél a visszavetés időtartamának elteltéig;
+b) a 33/G. § (3) bekezdés d), f) és h)–i) pontjában meghatározott büntetésnél a visszavetés időtartamának elteltéig;
 
-c) a 33/G. § (3) bekezdés e) és g)–h) pontjában meghatározott büntetésnél 2 évig;
+c) a 33/G. § (3) bekezdés e), g) és j) pontjában meghatározott büntetésnél 2 évig;
 
-d) a 33/G. § (4)–(5) bekezdésben meghatározott büntetésnél 2 évig;
+d) a 33/G. § (4) és (5) bekezdésben meghatározott büntetésnél 2 évig;
 
-e) a 33/G. § (3) bekezdés i) pontjában meghatározott büntetésnél 3 évig;
+e) a 33/G. § (3) bekezdés k) pontjában meghatározott büntetésnél 3 évig;
 
-f) a 33/G. § (3) bekezdés j)–k) pontjában meghatározott büntetésnél 5 évig.
+f) a 33/G. § (3) bekezdés l)–m) pontjában meghatározott büntetésnél 5 évig.
 
 (3) Ha a kormányzati szolgálati jogviszony hivatalvesztés miatt szűnt meg, a volt kormánytisztviselő, ügykezelő államigazgatási szervnél három évig nem alkalmazható.
 

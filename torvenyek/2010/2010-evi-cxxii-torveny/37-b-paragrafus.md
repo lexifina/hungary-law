@@ -1,6 +1,6 @@
 ## A Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása
 
-37/B. § (1) Ha a pénzügyőr az intézkedés során megállapítja, hogy az intézkedéssel érintett személy vagy tárgy azonos a Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés szerinti személlyel vagy tárggyal, a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása során a 36. § (1) bekezdésében meghatározott intézkedéseket foganatosíthatja.
+37/B. § (1) Ha a pénzügyőr az intézkedés során megállapítja, hogy az intézkedéssel érintett személy vagy tárgy azonos a Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés szerinti személlyel vagy tárggyal, a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása során a 36/A–36/H. §-ban, illetve a 36/N. §-ban meghatározott intézkedéseket foganatosíthatja.
 
 (2) A pénzügyőr a rejtett ellenőrzésre történő utalás és a rejtett ellenőrzés céljának veszélyeztetése nélkül – kizárólag annak az intézkedésnek a tényét és célját közölheti, amelynek során a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtására sor kerül.
 

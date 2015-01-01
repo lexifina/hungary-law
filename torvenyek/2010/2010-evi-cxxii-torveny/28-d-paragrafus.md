@@ -1,4 +1,4 @@
-28/D. § (1) Az illetményből való levonásnak – a levonásmentes illetményrészig – jogszabály, végrehajtható határozat alapján van helye.
+28/D. § (1) Az illetményből való levonásnak – a levonásmentes illetményrészig – jogszabály, végrehajtható határozat alapján van helye. A levonásmentes illetményrész a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó illetményrész.
 
 (2) A munkáltató a követelését az érintett hozzájárulása alapján, illetve, ha az előlegnyújtásból ered – a levonásmentes illetményrészig – az illetményből levonhatja.
 
@@ -14,4 +14,8 @@
 
 (8) A kormánytisztviselő, pénzügyőr, ügykezelő az illetményére vonatkozó igényéről – az egyezséget kivéve – előre nem mondhat le.
 
-(9) A levonásmentes illetményrész nem engedményezhető.
+(9) Engedményezésnek pénzkövetelés esetén van helye. A levonásmentes illetményrész nem engedményezhető.
+
+(10) Tartozásátvállalásnak pénzkövetelés esetén van helye. Munkáltatói tartozást a kormánytisztviselő, pénzügyőr, ügykezelő nem vállalhat át.
+
+(11) A kormánytisztviselő és a munkáltató, a pénzügyőr és a munkáltató, illetve az ügykezelő és a munkáltató megállapodása alapján pénztartozás után kamat köthető ki, feltéve, hogy annak mértéke nem haladja meg a Ptk. 6:47. §-a szerinti mértéket.

@@ -1,6 +1,6 @@
 ## Szülési szabadság
 
-32/S. § (1) Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult.
+32/S. § (1) Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult azzal, hogy ebből két hetet köteles igénybe venni.
 
 (2) A szülési szabadság annak a nőnek is jár, aki a gyermeket örökbefogadási szándékkal nevelésbe vette.
 

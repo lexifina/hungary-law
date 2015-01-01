@@ -12,4 +12,4 @@ a) általános teljes napi munkaidő esetén: 174 órával,
 
 b) általánostól eltérő teljes napi vagy részmunkaidő esetén: 174 óra időarányos részével.
 
-(5) A munkakör betöltéséhez szükséges szakirányú felsőfokú iskolai végzettségű kormánytisztviselőt, valamint pénzügyőrt az I., a középiskolai végzettségű kormánytisztviselőt, valamint pénzügyőrt a II. osztályba kell besorolni (a továbbiakban: besorolási osztály). A besorolási osztály fizetési fokozatokból áll.
+(5) A felsőfokú iskolai végzettséget igénylő munkakört betöltő, szakirányú felsőfokú iskolai végzettséggel rendelkező kormánytisztviselőt, valamint pénzügyőrt az I., a felsőfokú iskolai végzettséget nem igénylő munkakört betöltő kormánytisztviselőt, valamint pénzügyőrt a II. osztályba kell besorolni (a továbbiakban: besorolási osztály). A besorolási osztály fizetési fokozatokból áll.

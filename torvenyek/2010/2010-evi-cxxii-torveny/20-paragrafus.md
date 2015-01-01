@@ -1,6 +1,6 @@
 20. § (1) A pályakezdő kormánytisztviselő és pénzügyőr gyakornoki besorolást kap.
 
-(2) A munkakör betöltéséhez szükséges szakirányú felsőfokú iskolai végzettségű kormánytisztviselő és pénzügyőr
+(2) A felsőfokú iskolai végzettséget igénylő munkakört betöltő, szakirányú felsőfokú iskolai végzettséggel rendelkező kormánytisztviselő és pénzügyőr
 
 a) egy év jogviszonyban töltött idő után fogalmazó,
 
@@ -14,7 +14,7 @@ e) huszonöt év jogviszonyban töltött idő után vezető-főtanácsos,
 
 besorolást kap.
 
-(3) A középiskolai végzettségű kormánytisztviselő és pénzügyőr
+(3) A felsőfokú iskolai végzettséget nem igénylő munkakört betöltő kormánytisztviselő és pénzügyőr
 
 a) két év jogviszonyban töltött idő után előadó,
 
@@ -26,7 +26,7 @@ besorolást kap.
 
 (4) A kormánytisztviselő és a pénzügyőr – a jogviszony időtartamától függetlenül – magasabb besorolási fokozatba, fizetési fokozatba sorolható, amennyiben "kiválóan megfelelt" minősítést kap, és kimagasló munkát végez.
 
-(5) Azt a kormánytisztviselőt, illetve pénzügyőrt, aki jogász, igazgatásszervező, okleveles közgazdász szakképzettséget, illetve a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán oklevelet szerzett, valamint azt aki egyébként jeles minősítésű oklevéllel rendelkezik, a fogalmazó besorolási fokozat 2-es fizetési fokozatába kell sorolni, akkor is, ha a kormányzati szolgálati jogviszonyban, illetve a hivatásos szolgálati jogviszonyban töltött ideje az e besorolási fokozathoz előírt időtartamot nem éri el.
+(5) Azt a pályakezdő kormánytisztviselőt, illetve pénzügyőrt, aki jogász, igazgatásszervező, okleveles közgazdász szakképzettséget, illetve a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán oklevelet szerzett, a fogalmazó besorolási fokozat 2-es fizetési fokozatába kell sorolni, akkor is, ha a kormányzati szolgálati jogviszonyban, illetve a hivatásos szolgálati jogviszonyban töltött ideje az e besorolási fokozathoz előírt időtartamot nem éri el.
 
 (6) Az (1) bekezdéstől eltérően azt a pályakezdő kormánytisztviselőt, illetve pénzügyőrt, aki bizonyítványát, oklevelét kiváló vagy annak megfelelő minősítéssel szerezte meg, a fogalmazó besorolási fokozat 2-es fizetési fokozatába, illetve előadó besorolási fokozat 2-es fizetési fokozatába kell sorolni.
 

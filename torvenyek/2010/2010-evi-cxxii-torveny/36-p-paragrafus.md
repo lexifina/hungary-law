@@ -1,0 +1,9 @@
+36/P. § (1) A 36/O. § (4) bekezdésében meghatározott határidőn belül a 36/O. § (1) bekezdése szerint rögzített felvételből – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági feladatok ellátása céljából – a nyomozó hatóságok, a szabálysértési hatóságok, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, a rendőrség terrorizmust elhárító szerve, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
+
+(2) A NAV a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
+
+(3) Az, akinek jogát vagy jogos érdekét a felvétel rögzítése érinti, a 36/O. § (3) bekezdésében megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb cél érdekében kérheti, hogy az adatot annak kezelője az adat továbbításáig, de legfeljebb 30 napig ne törölje.
+
+(4) A (3) bekezdés szerinti kérelem benyújtására a felvétel rögzítésétől számított, a 36/O. § (4) bekezdésében meghatározottak szerinti 30 napon belül, a jog vagy jogos érdek valószínűsítésével van lehetőség.
+
+(5) Bíróság vagy más hatóság megkeresésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a (3) bekezdés szerinti kérelem benyújtásától számított 30 napon belül nem kerül sor megkeresésre, a rögzített felvételt haladéktalanul törölni kell.

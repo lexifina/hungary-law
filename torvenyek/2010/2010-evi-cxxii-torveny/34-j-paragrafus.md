@@ -1,4 +1,10 @@
-34/J. § (1) A kárért felelős a munkáltató vagyoni és nem vagyoni kárát köteles megtéríteni. Kártérítés címén a károkozó körülmény folytán a munkáltató vagyonában beállott értékcsökkenést és az elmaradt vagyoni előnyt, továbbá azt a kárpótlást vagy költséget kell megtéríteni, amely a munkáltatót ért vagyoni és nem vagyoni hátrány csökkentéséhez vagy kiküszöböléséhez szükséges.
+34/J. § (1) Kártérítés címén a károkozó foglalkoztatott – a 34/F. § figyelembevételével – köteles megtéríteni
+
+a) a munkáltató vagyonában beállott értékcsökkenést,
+
+b) az elmaradt vagyoni előnyt, és
+
+c) a munkáltatót ért vagyoni hátrányok kiküszöböléséhez szükséges költségeket.
 
 (2) A kárt pénzben kell megtéríteni, kivéve, ha a körülmények a kár természetben való megtérítését indokolják.
 

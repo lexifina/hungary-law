@@ -4,11 +4,11 @@
 
 (3) Amennyiben az eljárás alá vont a kötelezettségszegést a vizsgálat során elismerte és lemondott a tárgyalásról, továbbá a tényállás megítélése egyszerű, a fegyelmi jogkör gyakorlója a vizsgálóbiztos előterjesztésétől számított 8 napon belül meghozott határozattal, tárgyalás nélkül
 
-a) a 33/G. § (3) bekezdés a)–h) pontjai, illetve a 33/G. § (4) bekezdés vagy a 33/G. § (5) bekezdés szerinti fegyelmi büntetést is kiszabhat, illetve
+a) a 33/G. § (3) bekezdés a)–j) pontjai, illetve a 33/G. § (4) bekezdés vagy a 33/G. § (5) bekezdés szerinti fegyelmi büntetést is kiszabhat, illetve
 
 b) a fegyelmi vétség megállapítása mellett a fegyelmi büntetés kiszabását mellőzheti, ha a legenyhébb fegyelmi büntetés is indokolatlan.
 
-(3a) A határozatot az eljárás alá vont személlyel és képviselőjével közölni kell. Ha az eljárás alá vont képviselőt vett igénybe a fegyelmi eljárás során, a határozat bíróság előtti megtámadásának határidejét a határozatnak a képviselővel való közlés időpontjától kell számítani.
+(3a) A határozatot az eljárás alá vont személlyel és képviselőjével közölni kell. Ha az eljárás alá vont képviselőt vett igénybe a fegyelmi eljárás során, a határozat bíróság előtti megtámadásának határidejét a határozatnak a képviselővel való közlés időpontjától kell számítani. Ha az eljárás alá vont jogi képviselő mellett egyidejűleg MKK, MRK képviselőjével vagy a NAV-nál működő munkavállalói érdek-képviseleti szerv képviselőjével járt el, a képviselővel való közlés időpontja tekintetében a korábbi közlés időpontja az irányadó.
 
 (4) A (3) bekezdés nem alkalmazható, ha a 33/J. § (5) bekezdés, 33/J. § (6) bekezdés d) pontja, illetve a 33/K. §-a alapján az adott fegyelmi büntetést a fegyelmi jogkör gyakorlójának vezetésével eljáró fegyelmi tanács sem szabhatná ki. Ilyen esetben a fegyelmi tanács tagjait ki kell jelölni és a tárgyalásra vonatkozó szabályokat alkalmazni kell.
 

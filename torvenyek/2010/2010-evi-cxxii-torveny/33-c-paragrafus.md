@@ -1,10 +1,10 @@
-33/C. § (1) A tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével a kormánytisztviselő, a pénzügyőr, az ügykezelő munkavégzésre irányuló további jogviszonyt [20/A. § (1) bekezdés], illetve munkavégzésre irányuló egyéb jogviszonyt [20/A. § (3) bekezdése, ideértve a (2a) bekezdés a) és c)–h) pontját is], valamint a gazdasági társaságokról szóló törvény szerinti üzletvezetési, cégvezetői, képviseleti tevékenységet – ide nem értve a vezető tisztségviselői tevékenységet –, továbbá mezőgazdasági őstermelői tevékenységet csak a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet, illetve folytathat.
+33/C. § (1) A tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével a kormánytisztviselő, a pénzügyőr, az ügykezelő munkavégzésre irányuló további jogviszonyt [20/A. § (1) bekezdés], illetve munkavégzésre irányuló egyéb jogviszonyt [20/A. § (3) bekezdése, ideértve a (2a) bekezdés a) és c)–h) pontját is], valamint gazdasági társaságnál cégvezetői, képviseleti tevékenységet – ide nem értve a vezető tisztségviselői tevékenységet –, továbbá mezőgazdasági őstermelői tevékenységet csak a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet, illetve folytathat.
 
 (2) Vezetői munkakört betöltő kormánytisztviselő, pénzügyőr – a (2a) és a (3) bekezdés kivételével – további, illetve egyéb jogviszonyt csak az (1) bekezdés szerinti gyakorolható tevékenységre vonatkozóan létesíthet, továbbá az (1) bekezdésben külön említett engedélyköteles tevékenységet nem végezhet, illetve arra irányuló jogviszonyt nem létesíthet.
 
 (2a) Vezetői munkakört betöltő kormánytisztviselő, illetve pénzügyőr a munkáltatói jogkör gyakorlójának az előzetes engedélye alapján
 
-a) viselhet egyesületben, érdekképviseleti szervezetben, valamint szövetkezetben tisztséget,
+a) viselhet egyesületben, a 33/B. § (8) bekezdésben említett szervezetek kivételével érdek-képviseleti szervezetben, valamint szövetkezetben tisztséget,
 
 b) folytathat közérdekű önkéntes tevékenységet,
 

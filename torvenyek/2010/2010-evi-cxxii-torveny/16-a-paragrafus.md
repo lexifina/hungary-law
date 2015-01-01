@@ -6,4 +6,4 @@
 
 (4) A kormánytisztviselői állásra meghirdetett pályázatot kiíró szerv a pályázati kiírást az egységes hozzáférést biztosító informatikai rendszeren keresztül elektronikus úton megküldi a kormányzati személyügyi igazgatási feladatokat ellátó szerv részére, amely azt közzéteszi. A közzététel napjától a pályázatot kiíró szerv a pályázati kiírást egyéb módon is közzéteheti.
 
-(5) A pályázati eljárás lefolytatásának részletes szabályait a NAV foglalkoztatási szabályzata határozza meg.
+(5) A pályázati eljárás lefolytatásának részletes szabályait a NAV foglalkoztatási szabályzata (a továbbiakban: foglalkoztatási szabályzat) határozza meg.

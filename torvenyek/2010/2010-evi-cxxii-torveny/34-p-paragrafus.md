@@ -2,9 +2,9 @@
 
 (2) A kormányzati szolgálati jogviszonyon, hivatásos szolgálati jogviszonyon, munkaviszonyon kívül elmaradt jövedelemként a sérelem folytán elmaradt egyéb rendszeres, jogszerűen megszerzett jövedelmet kell megtéríteni.
 
-(3) Meg kell téríteni a dologi kárt, továbbá azt a kárt is, amelyet a foglalkoztatott a sérelemből eredő jelentős fogyatékossága ellenére, rendkívüli munkateljesítménnyel hárít el, valamint a foglalkoztatott nem vagyoni kárát, továbbá a sérelemmel, illetve ennek elhárításával összefüggésben felmerült indokolt költségeit.
+(3) Meg kell téríteni a dologi kárt, továbbá azt a kárt is, amelyet a foglalkoztatott a sérelemből eredő jelentős fogyatékossága ellenére, rendkívüli munkateljesítménnyel hárít el, továbbá a sérelemmel, illetve ennek elhárításával összefüggésben felmerült indokolt költségeit.
 
-(4) Nem kell megtéríteni azon juttatások értékét, amelyek rendeltetésük szerint csak munkavégzés esetén járnak, továbbá a költségtérítés címén kapott összeget.
+(4) Nem kell megtéríteni azon juttatások értékét, amelyek rendeltetésük szerint csak munkavégzés esetén járnak, továbbá a költségtérítés címén juttatható összeget.
 
 (5) A természetbeni juttatások értékét, valamint a dologi kár összegét a kártérítés megállapításakor érvényes fogyasztói ár alapján kell meghatározni.
 

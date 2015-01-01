@@ -8,4 +8,4 @@
 
 (4) Amennyiben a rendelkezésre álló adatok az érintett méltatlanná válásának a megállapítását megalapozzák, a kormánytisztviselő, az ügykezelő Kttv. 63. § (2) bekezdés a) pontja szerinti méltatlanná válását, a pénzügyőr Hszt. 56. § (2) bekezdés e) pontja szerinti méltatlanná válását a büntetőeljárás jogerős befejezése előtt is meg lehet állapítani.
 
-(5) A (4) bekezdés szerinti esetben a 33/P. § (7)–(8) bekezdés alkalmazásának helye van.
+(5) A (4) bekezdés szerinti esetben a 33/P. § (7)–(8a) bekezdés alkalmazásának helye van.

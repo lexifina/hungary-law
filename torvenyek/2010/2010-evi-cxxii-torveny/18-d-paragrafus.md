@@ -4,9 +4,9 @@
 
 (2) Átirányítás esetén az érintettet helyettesítési díj illeti meg, kivéve, ha az (1) bekezdésben meghatározott feladatot eredeti munkaköre helyett látja el.
 
-(3) Amennyiben az érintett eredeti munkaköre helyett átirányítással 22 munkanapot meghaladóan pénzügyi nyomozói munkakört lát el, az átirányítás idejére a pénzügyi nyomozói munkakörre irányadó illetményre jogosult, kivéve ha az kevesebb az eredeti illetményénél. Amennyiben a pénzügyi nyomozó eredeti munkaköre helyett átirányítással 22 munkanapot meghaladóan nem pénzügyi nyomozói munkakört lát el, az átirányítás idejére az ellátott munkakörre irányadó illetményre jogosult.
+(3) Amennyiben az érintett az eredeti munkaköre helyett átirányítással 22 munkanapot meghaladóan pénzügyi nyomozói munkakört lát el, az átirányítás idejére a besorolási fokozatának megfelelő pénzügyi nyomozói munkakörre irányadó illetményre jogosult, kivéve, ha az kevesebb az eredeti illetményénél. Amennyiben a pénzügyi nyomozó eredeti munkaköre helyett átirányítással 22 munkanapot meghaladóan nem pénzügyi nyomozói munkakört lát el, az átirányítás idejére az ellátott munkakör szerint irányadó, a besorolási fokozatának megfelelő illetményre jogosult.
 
-(4) A helyettesítési díj mértéke időarányosan a helyettesítő kormánytisztviselő, pénzügyőr, ügykezelő illetményének 10–50%-áig terjedhet. A helyettesítési díj mértékét a munkáltatói jogkör gyakorlója állapítja meg a NAV foglalkoztatási szabályzatában meghatározottak figyelembevételével. A helyettesítési díj a helyettesítés első napjától jár.
+(4) A helyettesítési díj mértéke időarányosan a helyettesítő kormánytisztviselő, pénzügyőr, ügykezelő illetményének 10–50%-áig terjedhet. A helyettesítési díj mértékét a munkáltatói jogkör gyakorlója állapítja meg a foglalkoztatási szabályzatban meghatározottak figyelembevételével. A helyettesítési díj a helyettesítés első napjától jár.
 
 (5) Nem jár helyettesítési díj, ha
 

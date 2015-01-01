@@ -26,9 +26,9 @@ c) főmunkatárs besorolásnál 10 munkanap.
 
 a) 2–10 éves jogviszony esetén 2 munkanap,
 
-b) 11–20 éves jogviszonytól 3 munkanap,
+b) 11–20 éves jogviszony esetén 3 munkanap,
 
-c) 21–30 éves jogviszonytól 4 munkanap,
+c) 21–30 éves jogviszony esetén 4 munkanap,
 
 d) 30 éves jogviszony felett 5 munkanap.
 

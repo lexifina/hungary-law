@@ -1,0 +1,5 @@
+36/G. § (1) A pénzügyőr a 36/E. § és 36/F. § (1) bekezdés szerinti esetben és célból – jogszabály eltérő rendelkezése hiányában – magánlakásnak nem minősülő egyéb helyre, helyiségbe is beléphet, illetve – az ott tartózkodók akarata ellenére, továbbá a birtokos távollétében is – behatolhat.
+
+(2) Ha a pénzügyőr a magánlakásnak nem minősülő egyéb helyre, illetve helyiségbe a 36/F. § (1) bekezdés szerinti esetben és célból lép be vagy hatol be, az intézkedésről jegyzőkönyvet kell felvenni, ha pedig a birtokos távollétében hatol be, az intézkedésnél két hatósági tanúnak is jelen kell lennie.
+
+(3) Ha a magánlakásnak nem minősülő egyéb helyre, helyiségbe való belépésre, illetve behatolásra a 36/F. § (1) bekezdés szerinti esetben és célból került sor, és az intézkedést a vámhatóság hatáskörébe tartozó egyéb hatósági eljárás követi, a belépés, behatolás ellen panasznak nincs helye, az, és az intézkedés során tanúsított pénzügyőri tevékenység az adott hatósági eljárásban biztosított, az ügy érdemét érintő jogorvoslati kérelemben támadható.

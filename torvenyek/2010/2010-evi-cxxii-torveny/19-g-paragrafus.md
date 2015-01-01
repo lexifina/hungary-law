@@ -1,1 +1,1 @@
-19/G. § A kormánytisztviselőt, illetve a pénzügyőrt az e törvényben foglaltak szerint iskolai végzettségének és a 20/A. § (1) bekezdése szerinti jogviszonyban eltöltött idejének megfelelően kell besorolni.
+19/G. § A kormánytisztviselőt, illetve a pénzügyőrt a munkaköre betöltéséhez szükséges iskolai végzettségének és a 20/A. § (1) bekezdése szerinti jogviszonyban eltöltött idejének megfelelően kell besorolni.

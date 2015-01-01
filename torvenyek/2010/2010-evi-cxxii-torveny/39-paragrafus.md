@@ -1,11 +1,9 @@
-39. § (1) Testi kényszer kivételével kényszerítő eszköz nem alkalmazható – a jogos védelem esetét kivéve – a láthatóan terhes nővel és a gyermekkorúval szemben.
+39. § (1) Testi kényszer és bilincs kivételével kényszerítő eszköz nem alkalmazható – a jogos védelem esetét kivéve – a láthatóan terhes nővel és a gyermekkorúval szemben.
 
 (2) A kényszerítő eszköz alkalmazásáról a pénzügyőr a szolgálati elöljárójának jelentést tesz.
 
 (3) A pénzügyőr kényszerítő eszközt saját elhatározásából vagy utasításra használhat.
 
-(4) A 40. §–50. §-okban meghatározott kényszerítő eszközök alkalmazása miatt panasznak, mint jogorvoslatnak van helye. A panasz előterjesztésére az jogosult, akinek az intézkedés jogát vagy jogos érdekét sértette.
+(4) Ha a rendszeresített kényszerítő eszköz nem áll rendelkezésre, vagy a használatára nincs lehetőség, a pénzügyőr a bilincs, a rendőrbot vagy az útzár helyett más eszközt is igénybe vehet, ha a helyettesített eszköz alkalmazásának törvényi feltételei fennállnak és az igénybe vett eszköz az elérni kívánt törvényes cél megvalósítására alkalmas.
 
-(5) A panaszt az intézkedést követő 8 napon belül az intézkedést foganatosító vámszervnél (kirendeltségnél), illetve nyomozó szervnél lehet előterjeszteni. A panaszt a beérkezéstől számított 15 napon belül az intézkedést foganatosító vámszerv vezetője (az intézkedést foganatosító kirendeltség operatív vezetését ellátó vezetője), illetve nyomozó szerv vezetője indokolással ellátott határozattal bírálja el, amely ellen a közléstől számított 8 napon belül a határozatot hozó vámszervnél (kirendeltségnél), illetve nyomozó szervnél benyújtandó, de az elbírálásra jogosult felettes szervhez címzett fellebbezéssel lehet élni. A fellebbezést az ügy összes iratával a fellebbezési határidő leteltétől számított nyolc napon belül kell felterjeszteni, kivéve, ha a panaszt elbíráló határozatot hozó vámszerv (kirendeltség), illetve nyomozó szerv a határozatát visszavonja, vagy a fellebbezésnek megfelelően módosítja, kijavítja vagy kiegészíti.
-
-(6) A felettes szerv a fellebbezés beérkezésétől számított 15 napon belül, indokolással ellátott határozatában az elsőfokú határozatot helybenhagyja, megváltoztatja vagy megsemmisíti. Ha az érdemi határozat hozatalához nincs elég adat, vagy a tényállás további tisztázása szükséges, a felettes szerv maga intézkedik a tényállás kiegészítése iránt, vagy a határozat megsemmisítése mellett az elsőfokú határozatot hozó vámszervet (kirendeltséget), illetve nyomozó szervet új eljárásra utasíthatja. A felettes szerv határozatát írásban, a panaszt elbíráló határozatot hozó vámszerv (kirendeltség), illetve nyomozó szerv útján kell közölni a fellebbezővel. A felettes szerv határozata közigazgatási határozat, amelynek bírósági felülvizsgálatát – a közigazgatási határozatok bírósági felülvizsgálatára vonatkozó szabályok szerint – kérheti az, aki a (4) bekezdés szerint panasz előterjesztésére jogosult.
+(5)–(6)

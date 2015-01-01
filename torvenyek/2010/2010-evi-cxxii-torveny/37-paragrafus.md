@@ -1,1 +1,1 @@
-37. § A NAV a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény, az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény, a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló törvény, valamint a vonatkozó nemzetközi szerződések és az Európai Unió jogi aktusai alapján együttműködik a külföldi és a nemzetközi rendvédelmi szervekkel.
+### 37. §

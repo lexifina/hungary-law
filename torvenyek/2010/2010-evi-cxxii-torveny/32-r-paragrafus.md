@@ -10,7 +10,7 @@
 
 (6) A gyermek ápolása, illetve gondozása céljára kapott illetmény nélküli szabadság megszűnését követően, ha a kormánytisztviselő, a pénzügyőr, az ügykezelő a gyermek ápolása, gondozása miatt kapott illetmény nélküli szabadság első 6 hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani.
 
-(7) Ha a kormánytisztviselő, a pénzügyőr, az ügykezelő a kormányzati szolgálati jogviszonya, illetve a hivatásos szolgálati jogviszonya megszűnéséig több szabadságot vett igénybe annál, mint ami a NAV-nál töltött időre megilletné, a különbözetre kifizetett illetményt köteles visszafizetni.
+(7) Ha a kormánytisztviselő, a pénzügyőr, az ügykezelő a kormányzati szolgálati jogviszonya, illetve a hivatásos szolgálati jogviszonya megszűnéséig több szabadságot vett igénybe annál, mint ami a NAV-nál töltött időre megilletné, a kormánytisztviselő, az ügykezelő a különbözetre kifizetett illetményt, illetve a pénzügyőr a különbözetre kifizetett távolléti díjat köteles visszafizetni.
 
 (8) Nem követelhető vissza a túlfizetés, ha a kormányzati szolgálati jogviszony, hivatásos szolgálati jogviszony a kormánytisztviselő, a pénzügyőr, az ügykezelő nyugdíjasnak minősülése, vagy halála miatt szűnt meg.
 

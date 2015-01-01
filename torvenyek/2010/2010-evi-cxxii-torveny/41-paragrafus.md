@@ -1,9 +1,13 @@
-## Vegyi eszközök, elektromos sokkoló eszköz, rendőrbot, illetve más eszköz alkalmazása
+## Bilincs alkalmazása
 
-41. § (1) A pénzügyőr a szolgálatban kényszerítő eszközként rendszeresített vegyi vagy elektromos sokkoló eszközt, rendőrbotot, ezek hiányában más e célra alkalmas eszközt alkalmazhat:
+41. § (1) A pénzügyőr bilincset alkalmazhat a személyi szabadságában korlátozni kívánt vagy korlátozott személy:
 
-a) a saját testi épségét, illetve az őrzésére bízott vagyon biztonságát közvetlenül veszélyeztető támadás elhárítására,
+a) támadásának megakadályozására,
 
-b) a jogszerű intézkedésével szembeni ellenszegülés megtörésére.
+b) ellenszegülésének megtörésére,
 
-(2) A pénzügyőr által alkalmazható vegyi, elektromos sokkoló eszköz rendszeresítéséről a kijelölt miniszter a rendészetért felelős miniszterrel egyetértésben rendelkezik.
+c) szökésének megakadályozására,
+
+d) önkárosításának megakadályozására.
+
+(2) A bilincs használata alkalmával kerülni kell a testi sérülés és egészségromlás okozását. A bilincs használatáról készült jelentésben utalni kell arra, hogy a bilincs alkalmazására milyen okból került sor, és a bilincselés következtében történt-e sérülés. Ha a megbilincseltet más hatóságnak átadják, a jelentés egy példányát e hatóságnak meg kell küldeni.

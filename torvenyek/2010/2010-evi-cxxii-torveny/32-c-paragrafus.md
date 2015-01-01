@@ -30,9 +30,9 @@ A fenti adatokban bekövetkezett változásokról az érintett haladéktalanul k
 
 (6) Amennyiben az érintett
 
-a) kormányzati szolgálati jogviszonya a Kttv. 42. § (8) bekezdése, 60. § (1) bekezdés c), i) pontja, (2) bekezdés c) pontja, 63. § (2) bekezdés a)–b) pontja, illetve e törvény 33/F. § (1) bekezdése alapján,
+a) kormányzati szolgálati jogviszonya a Kttv. 39. § (4) bekezdése, 42. § (8) bekezdése, 60. § (1) bekezdés c), i) pontja, (2) bekezdés c) pontja, 63. § (2) bekezdés a)–b) pontja, illetve e törvény 33/F. § (1) bekezdése alapján,
 
-b) hivatásos szolgálati jogviszonya a Hszt. 53. § b), f)–g) pontja, az 56. § (2) bekezdés a) pontja alapján – ez esetben az egészségi, pszichikai vagy fizikai állapota miatti megszűnés kivételével –, b), e) vagy g) pontja, az 59. § (1) bekezdés b) pontja, illetve e törvény 33/F. § (1) bekezdése alapján
+b) hivatásos szolgálati jogviszonya a Hszt. 53. § b), f)–g) pontja, az 56. § (2) bekezdés a) pontja alapján – ez esetben az egészségi, pszichikai vagy fizikai állapota miatti megszűnés kivételével –, b), e) vagy g) pontja, illetve e törvény 17/A. § (1) bekezdése vagy 33/F. § (1) bekezdése alapján
 
 szűnik meg, a még fennálló állami kezességvállalás után a központi költségvetés javára – a hitelintézet útján – egyszeri kezességvállalási díjat kell fizetnie. A kezességvállalási díj mértéke a kezességgel biztosított kötelezettség összegének 2%-a.
 

@@ -14,6 +14,6 @@ kormányzati szolgálati jogviszonyát felmentéssel meg kell szüntetni.
 
 (5) A pszichikai alkalmassági vizsgálat rendjét a kijelölt miniszter rendeletben határozza meg.
 
-(6) A pszichikai állapotra vonatkozó vizsgálati adatokat, a vizsgálatok teljes egészségügyi dokumentációját kizárólag az alkalmasság megállapításában részt vevő pszichológus, a vizsgálat lefolytatásában részt vevő asszisztens, valamint orvosi bizottság kezelheti, illetve kizárólag részére továbbítható.
+(6) A pszichikai állapotra vonatkozó vizsgálati adatokat, a vizsgálatok teljes egészségügyi dokumentációját kizárólag az alkalmasság megállapításában részt vevő pszichológus, a vizsgálat lefolytatásában részt vevő asszisztens, az alkalmassági vizsgálatot végző szerv vezetője, valamint orvosi bizottság kezelheti, illetve kizárólag részére továbbítható.
 
 (7) A munkáltatói jogkör gyakorlója és a személyügyi igazgatási feladatokat ellátó szervezeti egység részére kizárólag a pszichikai alkalmassági vizsgálat minősítése továbbítható a kormányzati szolgálati jogviszony létesítése, illetve fenntartása feltételeinek megállapítása érdekében.

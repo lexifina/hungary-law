@@ -1,6 +1,6 @@
 48. § (1) A lőfegyverhasználatot a következő sorrendben meg kell előznie:
 
-a) felhívásnak, hogy a személy a támadással hagyjon fel,
+a) felhívásnak, hogy a felhívott az intézkedésnek engedelmeskedjen,
 
 b) más kényszerítő eszköz alkalmazásának,
 

@@ -70,4 +70,8 @@ g) a fegyelmi és a kártérítési felelősségre,
 
 h) a kormányzati szolgálati jogviszonnyal, hivatásos szolgálati jogviszonnyal össze nem függő bűncselekménnyel kapcsolatos eljárás keretében való állásból való felfüggesztésre
 
+i) a jogviszony jogellenes megszüntetésére
+
 vonatkozó rendelkezések alkalmazásában.
+
+(9) A (8) bekezdés alkalmazásában rendszeres pótlék alatt a vezetői pótlékot, továbbá amennyiben megállapításának feltételei egyébként fennállnak, az idegennyelv-tudási pótlékot és a veszélyességi pótlékot kell érteni.

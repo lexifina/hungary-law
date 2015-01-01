@@ -1,4 +1,4 @@
-71. § (1) A NAV nyomozó hatósága a bűnüldözési feladatok ellátásához – a NAV saját nyilvántartásain túl – különösen az alábbi forrásokból gyűjt személyes, illetve egyéb adatokat:
+71. § (1) A NAV nyomozó hatósága a bűnüldözési feladatok, illetve a 77. § szerinti feladatok ellátásához – a NAV saját nyilvántartásain túl – különösen az alábbi forrásokból gyűjt személyes, illetve egyéb adatokat:
 
 a) állampolgár bejelentése, kérelme, valamint feljelentés, panasz,
 
@@ -14,7 +14,7 @@ f) a jogszerűen, nyilvánosságra hozatal céljából készített és nyilváno
 
 g) a természetes személy, jogi személy és egyéb szervezet által saját magáról – például írott vagy elektronikus sajtóban, internetes oldalakon – nyilvánosságra hozott, bárki által hozzáférhető adat.
 
-(2) A NAV nyomozó hatósága a bűnüldözési feladatok ellátása érdekében térítés nélkül kérhet adatokat az alábbi nyilvántartásokból:
+(2) A NAV nyomozó hatósága a bűnüldözési feladatok, illetve a 77. § szerinti feladatok ellátása érdekében térítés nélkül kérhet adatokat az alábbi nyilvántartásokból:
 
 1. a polgárok személyi adatainak és lakcímének nyilvántartásából,
 

@@ -6,4 +6,4 @@
 
 (4) Az engedélyhez kötött jogviszony megszűnését vagy lényeges, utóbb bekövetkező változását a 33/C. § szerinti engedélyezőhöz írásban, pénzügyőr esetében szolgálati úton haladéktalanul be kell jelenteni.
 
-(5) A kérelem kötelező minimális tartalmi elemeit, továbbá az összeférhetetlenséggel kapcsolatos iratok kezelésének szabályait a NAV foglalkoztatási szabályzata határozza meg.
+(5) A kérelem kötelező minimális tartalmi elemeit, továbbá az összeférhetetlenséggel kapcsolatos iratok kezelésének szabályait a foglalkoztatási szabályzat határozza meg.

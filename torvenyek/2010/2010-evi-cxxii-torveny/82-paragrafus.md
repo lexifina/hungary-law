@@ -1,10 +1,10 @@
 82. § Felhatalmazást kap a kijelölt miniszter, hogy rendeletben állapítsa meg:
 
-a)
+a) a NAV személyi állományának képzését szolgáló továbbképzési rendszer szabályait,
 
 b) a váminformációs rendszerrel kapcsolatos részletszabályokat,
 
-c) a rendészetért felelős miniszterrel egyetértésben a kényszerítő eszközök alkalmazásának részletes eljárási szabályait,
+c) a rendészetért felelős miniszterrel egyetértésben az e törvény szerinti pénzügyőri intézkedések és a kényszerítő eszközök alkalmazásának részletes eljárási szabályait,
 
 d) a rendészetért felelős miniszterrel egyetértésben a NAV-nál alkalmazásra kerülő kényszerítő eszközök rendszeresítésére vonatkozó eljárási szabályokat és a NAV-nál rendszeresíthető kényszerítő eszközök típusait és fajtáit,
 

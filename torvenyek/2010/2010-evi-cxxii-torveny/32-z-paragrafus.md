@@ -12,7 +12,7 @@ a) a továbbképzést önhibájából elmulasztja, illetve az előírt követelm
 
 aa) kormányzati szolgálati jogviszonya a Kttv. 39. § (4) bekezdése, 60. § (1) bekezdés i) pontja, (2) bekezdés c) pontja, 63. § (2) bekezdés a) pontja, 118. § (5) bekezdése, 122. § (2) bekezdése, 210. § (1) bekezdése, illetve e törvény 33/F. § (1) bekezdése alapján,
 
-ab) hivatásos szolgálati jogviszonya a Hszt. 53. § b), f)–g) pontja, 56. § (2) bekezdés b), e) vagy g) pontja vagy az 59. § (1) bekezdésének b) és f) pontja, illetve e törvény 33/F. § (1) bekezdése alapján
+ab) hivatásos szolgálati jogviszonya a Hszt. 53. § b), f)–g) pontja, 56. § (2) bekezdés b), e) vagy g) pontja vagy az 59. § (1) bekezdésének f) pontja, illetve e törvény 17/A. § (1) bekezdése vagy 33/F. § (1) bekezdése alapján
 
 a továbbképzés befejezésétől számított 2 éven belül, vagy a kormányzati szolgálati jogviszony, illetve a hivatásos szolgálati jogviszony NAV-val történt létesítésétől számított 6 éven belül megszűnik. A 4 évet meghaladó NAV-val fennálló jogviszony esetén a költségeknek a le nem töltött évekre eső hányadát kell megfizetni.
 
