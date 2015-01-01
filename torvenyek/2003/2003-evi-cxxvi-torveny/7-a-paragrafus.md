@@ -1,13 +1,5 @@
-7/A. § Kötelező az utólagos ellenőrzést lefolytatni az ügyfélnél:
+7/A. § (1) A 7/C. § (1) bekezdés c) pontja szerinti utólagos ellenőrzés lefolytatásának szükségességét, gyakoriságát a célszerűség, a költségkímélés és az ellenőrzött működőképességére tekintettel évente az állami adó- és vámhatóság vezetője által jóváhagyott ellenőrzési tervben kell meghatározni.
 
-a) ha vámtartozása áll fenn és felszámolását, végelszámolását rendelték el,
+(2) Az utólagos ellenőrzés hatékonyságának növelése és ezzel együtt az ügyfelek adminisztrációs terheinek mérséklése érdekében a vámhatóság a hatáskörébe tartozó ügyekben más hatóságokkal együttesen, egyidejűleg is folytathat ellenőrzést.
 
-b) az Állami Számvevőszék elnökének felhívására,
-
-c) a az adópolitikáért felelős miniszter utasítására,
-
-d) Nemzeti Adó- és Vámhivatal vezetőjének rendelkezése alapján,
-
-e) ha a 485/2008/EK tanácsi rendelet szerinti vizsgálatot a Különleges Szolgálat vezetője elrendeli,
-
-f) ha azt a külföldi vámhatóság nemzetközi megállapodáson alapuló megkeresésének teljesítése teszi szükségessé.
+(3) Az állami adó- és vámhatóság vezetőjének rendelkezése szerint a vámhatóság az állami adóhatóságot az utólagos ellenőrzési tevékenységébe bevonhatja.

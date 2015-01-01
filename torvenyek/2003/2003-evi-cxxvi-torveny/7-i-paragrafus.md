@@ -1,5 +1,11 @@
-7/I. § (1) Az utólagos ellenőrzés során az ügyfél köteles különösen: a bizonyítékokat – ideértve szükség esetén azok hitelesített magyar nyelvű fordítását is – a vámhatóság által meghatározott időpontra az ellenőrzést végzők rendelkezésére bocsátani, illetve az utólagos ellenőrzéshez szükséges tények, körülmények és egyéb feltételek megismerését biztosítani, szóban vagy írásban tájékoztatást, magyarázatot adni, és a dokumentációs anyagokba a betekintést lehetővé tenni.
+## Felülellenőrzés
 
-(2) Az (1) bekezdésben rögzített kötelezettségek megszegése esetén a vámhatóság végzéssel, határidő megjelölésével kötelezheti az utólagos ellenőrzés alá vont ügyfelet kötelezettségei teljesítésére. Amennyiben az ellenőrzés alá vont ügyfél a kötelezettségét határidőn belül nem teljesíti, az utólagos ellenőrzést végző vámszerv intézkedik az e törvény 61/A. §-ában meghatározott vámigazgatási bírság kiszabása iránt, illetve a vámigazgatási bírság kiszabásával egyidejűleg az utólagos ellenőrzést felfüggesztheti és – az ellenőrzött ügyfél költségére – a nyilvántartásokat, elszámolásokat szakértővel elkészíttetheti.
+7/I. § (1) A vámhatóság külön jogszabályban meghatározott szerve a 7/C. § (1) bekezdés b) és c) pontja szerinti utólagos ellenőrzés lefolytatását követően felülellenőrzést folytathat le, ha
 
-(3) A vámhatóság az utólagos ellenőrzést a bizonyítékok beszerzéséig – a külföldi megkeresések kivételével – legfeljebb 90 napra felfüggesztheti, ha az ellenőrzött szervezet, illetve személy javára vagy terhére történő megállapítások alapjául szolgáló bizonyíték beszerzése előreláthatólag a vizsgálatra rendelkezésre álló időn belül nem lehetséges.
+a) azt az adópolitikáért felelős miniszter rendelte el vagy az Állami Számvevőszék elnöke felhívással élt,
+
+b) az állami adó- és vámhatóság vezetője erre utasítást ad, amelynek alapján a vámhatóság külön jogszabályban meghatározott szerve ellenőrzi az utólagos ellenőrzést lefolytató vámszerv által korábban lefolytatott vizsgálat szakszerűségét és törvényességét,
+
+c) a vámhatóságnak olyan, a vámtartozást befolyásoló új tény, adat, bizonyíték jut a tudomására, amely a korábbi utólagos ellenőrzéskor nem volt ismert, és a felülellenőrzés lefolytatására az állami adó- és vámhatóság vezetője utasítást ad.
+
+(2) Az (1) bekezdés c) pontjában meghatározott felülellenőrzés nem indítható, ha az elrendelés feltételeinek tudomásra jutásától számított 6 hónap eltelt.

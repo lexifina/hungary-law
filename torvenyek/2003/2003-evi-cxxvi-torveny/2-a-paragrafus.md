@@ -1,10 +1,10 @@
-2/A. § (1) A vámjogszabályok alkalmazása során az ügyfelet a számára hátrányos döntés meghozatala előtt megilleti a meghallgatáshoz való jog, az ügy érdemében hozott döntés alapjául szolgáló okok megismerésének és nyilatkozattétel kifejezésének lehetősége, kivéve ha törvény eltérően rendelkezik.
+2/A. § (1) A vámjogszabályok alkalmazása során az ügyfelet a számára hátrányos határozat meghozatala előtt megilleti a meghallgatáshoz való jog, az ügy érdemében hozott határozat alapjául szolgáló okok megismerésének és nyilatkozattétel kifejezésének lehetősége, kivéve ha törvény eltérően rendelkezik.
 
-(2) Az ügyfelet nem illeti meg az (1) bekezdés szerinti jog gyakorlása, ha a vámhatóság az ügyfél kérelmének megfelelő döntést hoz.
+(2) Az ügyfelet nem illeti meg az (1) bekezdés szerinti jog gyakorlása, ha a vámhatóság az ügyfél kérelmének megfelelő döntést hoz, vagy ha a meghallgatáshoz való jog gyakorlása a vámkódex 221. cikk (3) bekezdése alapján az Európai Unió pénzügyi érdekeit vagy a közteherviselési kötelezettség teljesítését veszélyezteti.
 
-(3) A várhatóan hátrányos döntés alapjául szolgáló adatokról és a meghallgatáshoz való jogról az ügyfelet a számára hátrányos döntés meghozatala előtt tájékoztatni kell. A tájékoztatásnak tartalmaznia kell a meghallgatáshoz való jog gyakorlására nyitva álló határidőt.
+(3) A várhatóan hátrányos határozat alapjául szolgáló adatokról és a meghallgatáshoz való jogról az ügyfelet a számára hátrányos határozat meghozatala előtt tájékoztatni kell. A tájékoztatásnak tartalmaznia kell a meghallgatáshoz való jog gyakorlására nyitva álló határidőt.
 
-(4) A vámhatóság a meghallgatáshoz való jog gyakorlásához – az ügy bonyolultságától függően – legfeljebb egyszeri 30 napos határidőt állapít meg.
+(4) A vámhatóság a meghallgatáshoz való jog gyakorlásához – az ügy bonyolultságától függően – egyszeri, legfeljebb 30 napos határidőt állapít meg.
 
 (5) A vámhatóság ügyintézési határidejébe a meghallgatáshoz való jog gyakorlásának időtartama nem számít bele.
 
@@ -12,7 +12,7 @@
 
 a) az áruk vám elé állításának ellenőrzési eredményével kapcsolatos,
 
-b) a vámáru-nyilatkozat ellenőrzési eredményével kapcsolatos,
+b) a vámáru-nyilatkozat ellenőrzési eredményével kapcsolatos, ide nem értve a 7/C. § (1) bekezdés b) és c) pontja szerinti utólagos ellenőrzés eseteit;
 
 c) olyan áruk ellenőrzésével kapcsolatos, amelyekre sem gyűjtő vámáru-nyilatkozatot, sem vámáru-nyilatkozatot nem nyújtottak be,
 
@@ -20,22 +20,26 @@ d) az áruk származása vagy vámjogi helyzete vámhatóság általi igazolás�
 
 e) az áruk utólagos ellenőrzésével kapcsolatos, ha az áruk még vámfelügyelet alatt állnak.
 
-(7) A meghallgatáshoz való jogot az alábbi döntések esetén nem kell biztosítani:
+(7) A meghallgatáshoz való jogot az alábbi határozatok esetén nem kell biztosítani:
 
-a) ha a döntés meghozatalára irányuló ügyféli kérelem nem fogadható be,
+a) a vámkódex 12. cikk (1) bekezdése szerinti felvilágosítások adásához kapcsolódóan,
 
-b) a vámkódex 12. cikk (1) bekezdése szerinti felvilágosítások adásához kapcsolódóan,
+b) a vámkontingenshez kapcsolódó előny megtagadása esetén akkor, ha az adott vámkontingens behozatali vagy kiviteli mennyiséget elérték,
 
-c) a vámkontingenshez kapcsolódó előny megtagadása esetén akkor, ha az adott vámkontingens behozatali vagy kiviteli mennyiséget elérték,
+c) ha az Európai Unió vagy polgárai biztonságát, az emberi, állati, növényi élet vagy a környezet védelmét veszélyezteti,
 
-d) ha az Európai Unió vagy polgárai biztonságát, az emberi, állati, növényi élet vagy a környezet védelmét veszélyezteti,
+d) ha a határozat célja más olyan határozat végrehajtásának biztosítása, amely tekintetében alkalmazták a meghallgatáshoz való jogot,
 
-e) ha a döntés célja más olyan döntés végrehajtásának biztosítása, amely tekintetében alkalmazták a meghallgatáshoz való jogot,
+e) ha a csalás elleni küzdelem tekintetében folyó nyomozás érdekeit veszélyezteti,
 
-f) az áruk belépésével kapcsolatos, a gyűjtő vámáru-nyilatkozat vagy a vámáru-nyilatkozat alapján történő kockázatelemzésen alapuló döntés,
+f) az utólagos ellenőrzést követő hatósági eljárásban hozott határozat, ha
 
-g) ha a csalás elleni küzdelem tekintetében folyó nyomozás érdekeit veszélyezteti,
+fa) az ügyfél az utólagos ellenőrzést lezáró jegyzőkönyvben foglaltakhoz képest új bizonyítási indítványt az észrevételében vagy a hatósági eljárás során nem terjeszt elő, vagy a hatóság új bizonyítékot nem tárt fel,
 
-h) a vámhatósági ellenőrzés megkezdéséről szóló döntés,
+fb) hivatalból vagy ügyféli észrevétel nyomán kiegészítő ellenőrzésre nem kerül sor, vagy
 
-i) az árukiadást követően végzett utólagos jellegű ellenőrzésekről szóló döntés, amely meghozatala előtt jegyzőkönyv készül.
+fc) a hatósági eljárásban eljáró vámszerv az utólagos ellenőrzés lezárásáról szóló jegyzőkönyvhöz képest eltérő tényállást nem állapít meg,
+
+g) az új eljárást elrendelő határozat esetén,
+
+h) a vámigazgatási bírságot kiszabó, valamint pótlékot megállapító határozat esetében.

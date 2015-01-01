@@ -2,19 +2,23 @@
 
 ## VÁMIGAZGATÁSI BÍRSÁG
 
-61/A. § (1) A vámkódexben, valamint az EK végrehajtási rendeletében, illetve e törvényben és e törvény végrehajtásának részletes szabályairól szóló rendeletben meghatározott,
+61/A. § (1) Az 1. § (2) bekezdésében meghatározott jogszabályokban, továbbá az e törvényben, illetve a 82. § (1) és (3) bekezdése szerinti felhatalmazás alapján alkotott rendeletekben meghatározott,
 
-a) gyűjtő vámáru-nyilatkozat benyújtási, vám elé állítási, vámáru-nyilatkozat benyújtási kötelezettségek megszegése,
+a) gyűjtő vámáru-nyilatkozat benyújtási kötelezettség megszegése
 
-b) átmeneti megőrzésre, a vámfelügyeletre, a vámeljárásra vonatkozó kötelezettségek megszegése,
+b) vám elé állítási, vámáru-nyilatkozat benyújtási kötelezettségek megszegése,
 
-c) más, a vámhatóság által jogszabályi felhatalmazás alapján végzett ellenőrzés feltételeinek biztosítására vonatkozó kötelezettségek megszegése,
+c) átmeneti megőrzésre, a vámfelügyeletre, a vámeljárásra vonatkozó kötelezettségek megszegése,
 
-d) vámszabad területtel, vámraktárral és tranzitterülettel összefüggő kötelezettségek megszegése,
+d) más, a vámhatóság által jogszabályi felhatalmazás alapján végzett ellenőrzés feltételeinek biztosítására vonatkozó kötelezettségek megszegése,
 
-e) a 33/A. § (5) bekezdése szerinti adatszolgáltatási kötelezettség hibás, hiányos, késedelmes teljesítése, illetve teljesítésének elmulasztása, továbbá
+e) vámszabad területtel, vámraktárral és tranzitterülettel összefüggő kötelezettségek megszegése,
 
-f) ellenőrzés akadályozása
+f) vámmentességekkel összefüggő kötelezettségek megszegése,
+
+g) a 33/A. § (5) bekezdése szerinti adatszolgáltatási kötelezettség hibás, hiányos, késedelmes teljesítése, illetve teljesítésének elmulasztása, továbbá
+
+h) ellenőrzés akadályozása
 
 esetén az eljáró vámszerv vámigazgatási bírságot szab ki.
 
@@ -32,13 +36,21 @@ b) ha vámhiány nem keletkezik, a (7) bekezdésben
 
 meghatározott vámigazgatási bírságot köteles fizetni. Hosszú távú beszállítói nyilatkozat esetében a mindenkori maximálisan kiszabható bírságot kell megállapítani.
 
-(6) Ha a mulasztás vagy tevékenység következtében vámhiány keletkezik, vámigazgatási bírságként – a (8) bekezdésben foglaltak kivételével – a vámhiány ötven százalékát kell kiszabni.
+(6) Ha a mulasztás vagy tevékenység következtében vámhiány keletkezik, vámigazgatási bírságként – a (6b)–(6c) és a (8) bekezdésben foglaltak kivételével – a vámhiány száz százalékát kell kiszabni.
 
-(6a) Amennyiben a (6) bekezdés szerint kiszámított bírság összege nem éri el az EK végrehajtási rendelet 868. cikkében meghatározott értékhatárt, a fizetendő vámigazgatási bírság összege 3000 forint.
+(6a) Amennyiben a (6) bekezdés szerint kiszámított bírság összege nem éri el az EK végrehajtási rendelet 868. cikkében meghatározott értékhatárt, a fizetendő vámigazgatási bírság összege 4000 forint.
 
-(7) Amennyiben a mulasztás vagy tevékenység következtében vámhiány nem keletkezik, a vámigazgatási bírság szervezet esetében egymillió forintig, természetes személy esetében százezer forintig terjedhet. Ez esetben a bírság kiszabásánál a vámhatóság mérlegeli az eset összes körülményét, az ügyfél jogellenes magatartásának (tevékenységének vagy mulasztásának) súlyát, gyakoriságát, továbbá azt, hogy az ügyfél, illetve intézkedő képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el.
+(6b) Amennyiben az (1) bekezdés b) pontjában meghatározott kötelezettség megszegését jövedéki termékre követik el, akkor a vámigazgatási bírság mértéke a vámhiány kétszáz százalékával megegyező összeg, de legalább 40 000 forint.
 
-(8) A vámigazgatási bírságot nem lehet kiszabni, ha természetes személy esetében a kötelezettségszegés következtében büntető- vagy szabálysértési eljárás indult, továbbá a 61/B. § (7)–(8) bekezdésének alkalmazása esetén.
+(6c) Amennyiben az (1) bekezdés b) pontjában meghatározott kötelezettség megszegése esetén a vámhiány a 30 000 forintot nem haladja meg, az eljáró vámszerv gyorsított eljárás keretében a helyszínen vámigazgatási bírságot szabhat ki és szedhet be, amennyiben a nem közösségi áru birtokosa, szállítója a jogsértés tényét elismeri, továbbá a jogkövetkezményekről szóló tájékoztatást tudomásul veszi és jogorvoslati jogáról lemond. A gyorsított eljárás csak akkor alkalmazható, ha a kiszabott bírságot a helyszínen megfizetik. A (6)–(6a) bekezdésben foglaltaktól eltérően a vámigazgatási bírság összege ebben az esetben a vámhiány hetvenöt százaléka, de legalább 4000 forint, a jövedéki termékre elkövetett jogsértés esetén legalább 25 000 forint.
+
+(6d) A gyorsított eljárás során, a magyar nyelvet nem beszélő, külföldi állampolgár esetén a tolmács alkalmazása mellőzhető, ha az érintett a NAV elnöke által kiadott tájékoztatásban szereplő idegen nyelvű tájékoztató átvételét követően, írásban lemond a tolmács igénybevételéről.
+
+(6e) Amennyiben a vámáru-nyilatkozat benyújtási kötelezettség megszegése a (3) bekezdésben foglaltak szerint valósul meg, a (6b)–(6c) bekezdésben foglaltak nem alkalmazhatók.
+
+(7) Amennyiben a mulasztás vagy tevékenység következtében vámhiány nem keletkezik, a vámigazgatási bírság szervezet esetében egymillió forintig, természetes személy esetében százezer forintig terjedhet. Ez esetben a bírság kiszabásánál a vámhatóság mérlegeli az eset összes körülményét, az ügyfél, illetve eljáró képviselője magatartásának (tevékenységének vagy mulasztásának) súlyát, gyakoriságát, továbbá azt, hogy az ügyfél, illetve intézkedő képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el.
+
+(8) A vámigazgatási bírságot nem lehet kiszabni a 61/B. § (7) és (8) bekezdésének alkalmazása esetén.
 
 (9)
 

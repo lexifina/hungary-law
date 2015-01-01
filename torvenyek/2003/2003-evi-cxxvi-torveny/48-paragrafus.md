@@ -1,12 +1,12 @@
 48. § (1) A nem közösségi adókat és díjakat a vám biztosítására vonatkozó szabályok szerint, a (2)–(4) bekezdésekben meghatározott eltérésekkel kell biztosítani.
 
-(2) A vámhatóság kérelemre engedélyezi az áfa biztosítása alóli mentességet a vámigazgatási eljárásban annak az adóalanynak,
+(2) A vámhatóság kérelemre engedélyezi az áfa biztosítása alóli mentességet a vámigazgatási eljárásban annak a saját nevében eljáró adóalanynak,
 
 a) aki megbízható vámadós, és
 
 b) akinek folyamatos működés mellett a tárgyévet megelőző kettő egymást követő naptári éven belül nem keletkezett az állami adóhatóságnál áfa jogcímen tartozása, illetőleg a vámhatóságnál tartozása.
 
-(3) A vámhatóság kérelemre engedélyezi, hogy az áfa összegének ötven százalékát kell biztosítania a vámigazgatási eljárásban annak az adóalanynak, akire folyamatos működés mellett csak a tárgyévet megelőző naptári évre teljesül a (2) bekezdésben előírt feltétel.
+(3) A vámhatóság kérelemre engedélyezi, hogy az áfa összegének ötven százalékát kell biztosítania a vámigazgatási eljárásban annak a saját nevében eljáró adóalanynak, akire folyamatos működés mellett csak a tárgyévet megelőző naptári évre teljesül a (2) bekezdésben előírt feltétel.
 
 (4) A (2)–(3) bekezdésben meghatározott mentesség, illetve kedvezmény vonatkozik az energiaadó biztosítására is.
 

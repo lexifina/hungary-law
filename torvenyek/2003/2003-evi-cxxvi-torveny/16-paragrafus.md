@@ -46,7 +46,7 @@ o) a fizetési mérleg összeállítása céljából a Magyar Nemzeti Bankot,
 
 p) az e célra nyilvántartásba vett közös jogkezelést végző szervezeteket, a szerzői jogi törvényben meghatározott igény érvényesítésével összefüggő feladatok ellátása céljából,
 
-q) a Magyar Energetikai és Közmű-szabályozási Hivatalt a nála engedélyesként nyilvántartott gazdálkodók adatairól, hatósági feladatai ellátása érdekében.
+q) a Magyar Energetikai és Közmű-szabályozási Hivatalt az energiastatisztikai adatok összeállítása érdekében, valamint a nála engedélyesként nyilvántartott gazdálkodók adatairól, hatósági feladatai ellátása érdekében.
 
 r) megkeresésre a hagyatéki eljárásban eljáró közjegyzőt a közjegyzői hatáskörbe tartozó eljárás során és annak céljára,
 

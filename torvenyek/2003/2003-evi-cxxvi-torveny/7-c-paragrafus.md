@@ -1,15 +1,19 @@
-## Ismételt ellenőrzés
+## Az utólagos ellenőrzés típusai
 
-7/C. § (1) Az ellenőrzéssel lezárt időszakra végzett ellenőrzést (ismételt ellenőrzés) kell lefolytatni:
+7/C. § (1) A vámhatóság az utólagos ellenőrzés célját
 
-a) ha a vámhatóság a korábban lefolytatott, utólagos ellenőrzés megállapításának végrehajtását vizsgálja,
+a) az adatok gyűjtésére irányuló,
 
-b) az ellenőrzött ügyfél kérelmére, ha az általa feltárt új tény, körülmény tisztázása vélelmezhetően a korábbi ellenőrzés megállapításainak megváltoztatását eredményezné,
+b) a vámáru-nyilatkozatok egyedi felülvizsgálatára irányuló,
 
-c) ha azt a külföldi vámhatóság nemzetközi megállapodáson alapuló megkeresésének teljesítése teszi szükségessé,
+c) a vámellenőrzés alá eső külkereskedelmi tevékenység felülvizsgálatára irányuló,
 
-d) felülellenőrzés keretében.
+d) audit típusú,
 
-(2) Az (1) bekezdés b) pontja alapján ismételt ellenőrzésnek az utólagos ellenőrzést lefolytató szerv vezetőjének, vagy ha az utólagos ellenőrzés eredményeként hozott határozatot a külön jogszabályban kijelölt szerv felülvizsgálta, a felügyeleti szerv vezetőjének rendelkezésére van helye.
+e) ismételt
 
-(3) Az (1) bekezdés a)–c) pontjában meghatározott ismételt ellenőrzést az utólagos ellenőrzést végző vámszerv folytatja le, míg a felülellenőrzésre a külön jogszabályban meghatározott vámszerv jogosult.
+ellenőrzéssel valósítja meg.
+
+(2) Az (1) bekezdés b) pontja szerinti utólagos ellenőrzés a vizsgált tárgykör tekintetében ellenőrzéssel lezárt vámeljárást keletkeztet, így az érintett vámáru-nyilatkozatot – ha e törvény eltérően nem rendelkezik – nem lehet újra utólagos ellenőrzés alá vonni az adott ellenőrzési tárgykörben.
+
+(3) Az (1) bekezdés c) pontja szerinti utólagos ellenőrzés a vizsgált tárgykör tekintetében ellenőrzéssel lezárt időszakot keletkeztet, így az érintett időszak valamennyi, érintett tevékenységét és vámáru-nyilatkozatát a vizsgált tárgykör tekintetében – ha e törvény eltérően nem rendelkezik – nem lehet újra ellenőrzés alá vonni.

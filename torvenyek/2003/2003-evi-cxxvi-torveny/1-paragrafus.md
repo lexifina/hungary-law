@@ -10,7 +10,11 @@ b) a Bizottság 2454/93/EGK rendelete a Közösségi Vámkódexet létrehozó 29
 
 c) a Tanács 1186/2009/EK rendelete a vámmentességek közösségi rendszerének létrehozásáról (a továbbiakban: vámmentességi rendelet),
 
-d) a Tanács 2658/87/EGK rendelete a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról
+d) a Tanács 2658/87/EGK rendelete a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról,
+
+e) a vámmentességi rendelet egyes cikkeinek végrehajtására vonatkozó rendelkezések megállapításáról szóló 1224/2011/EU bizottsági végrehajtási rendelet és 1225/2011/EU bizottsági végrehajtási rendelet (a továbbiakban együtt: bizottsági vámmentességi végrehajtási rendeletek);
+
+f) a Bizottság 80/2012/EU rendelete a vámmentességek közösségi rendszerének létrehozásáról szóló 1186/2009/EK tanácsi rendelet 53. cikke (1) bekezdésének b) pontjában előírt biológiai vagy vegyi anyagok jegyzékének megállapításáról
 
 a módosításaikkal együtt.
 
@@ -30,7 +34,7 @@ a módosításaikkal együtt.
 
 a) akinek a kérelem elbírálása vagy a vámhatóság ellenőrzése időpontjában nincs a magyar állami adó- és vámhatóságnál nyilvántartott tartozása, továbbá valamely tagállam vámhatósága által végrehajtani kért vámtartozása, és
 
-b) nem áll csődeljárás, felszámolási eljárás, végelszámolási eljárás, kényszervégelszámolási eljárás vagy kényszertörlési eljárás alatt;
+b) nem áll csődeljárás, felszámolási eljárás, végelszámolási eljárás, kényszertörlési eljárás alatt;
 
 4. integrált posta: olyan postai szolgáltatás, amely a postai küldeménynek a feladó által is nyomon követhető kezelése és – a címzett ellenkező rendelkezése hiányában – személyes kézbesítése mellett kiegészül az igénybevevő választása esetén és választása szerint a következő postai különszolgáltatások legalább egyikével: a küldemények a feladó által megjelölt helyen történő felvétele; garantált kézbesítési idejű szolgáltatás; a címzett megváltoztatása esetén a küldemény új címre történő kézbesítése; a kézbesítés igazolása; személyre szabott szolgáltatás. A szolgáltató biztosítja a küldemény vámkezelését, továbbá azt, hogy tevékenysége alatt az mindvégig a felügyelete alatt marad, és a küldeménnyel kapcsolatos információk és a kézbesítés igazolása bármikor visszakereshető;
 
@@ -42,9 +46,9 @@ a) közvetlen vámfelügyelet: az áru őrzése – ideértve a vámhatóság á
 
 b) közvetett vámfelügyelet: a vámszervezet által gyakorolt minden egyéb felügyeleti forma;
 
-7. utólagos ellenőrzés: az ügyfél nem közösségi termékekkel, illetve a vámellenőrzés alá eső közösségi termékekkel folytatott külkereskedelmi – ideértve az Európai Mezőgazdasági Garanciaalap finanszírozási rendszerébe tartozó ügyletek tagállamok által végzett vizsgálatáról szóló 485/2008/EK rendelet (a továbbiakban: 485/2008/EK tanácsi rendelet) szerinti – tevékenységére irányuló felülvizsgálat, amelynek célja annak megállapítása, hogy az ügyfél a jogszabályokban előírt kötelezettségeinek eleget tett-e. Az utólagos ellenőrzés során a vámhatóság vizsgálja különösen: az áru vámellenőrzés alá helyezésének megtörténtét, a vámérték kimunkálásának, az áru tarifális besorolásának, valamint a vámkedvezmények vagy vámmentességek igénybevételének jogszerűségét, és az ezek alkalmazásához előírt feltételek kedvezményezett által történő betartását, a vámtartozás rendezésének megtörténtét, valamint a kötelező felvilágosítás vámkezelések, vámeljárások során történt felhasználásának jogszerűségét. Az utólagos ellenőrzés lefolytatható a külkereskedelmi tevékenységet végző ügyfélnél, továbbá – ha az ügyfél meghatalmazása alapján a vámhatóság előtti ügyekben a cselekmények és alakiságok elvégzése során képviselő járt el – a közvetett vámjogi képviselőnél is;
+7.
 
-8. jövedéki termék: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény (a továbbiakban: jövedéki törvény) hatálya alá tartozó áru, ha annak a jövedéki törvény szerinti kereskedelméhez engedély szükséges és/vagy azt jövedéki adófizetési kötelezettség terheli;
+8. jövedéki termék: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény (a továbbiakban: jövedéki törvény) hatálya alá tartozó áru.
 
 9. ügyfél: akit a közösségi vámjog és/vagy e törvény alapján jogok illetnek meg, és/vagy kötelezettségek terhelnek. Ügyfélnek kell tekinteni továbbá e feladata ellátása során a vagyonfelügyelőt, a felszámolót és a végelszámolót is;
 
@@ -68,7 +72,7 @@ b) a házi szemle helye, ahol a vámhatóság a házi szemlét kérő írásbeli
 
 13.
 
-14. vámhiány: a jogszerűen kiszabható vám és nem közösségi adók és díjak és az annál kisebb értékben tévesen közölt vám és nem közösségi adók és díjak különbözete, továbbá a jogszerűen kiszabható, nem közölt vám és nem közösségi adók és díjak összege, ha az nem abból eredt, hogy a vámhatóság jogszabályt sértett, vagy a rendelkezésre álló adatokat helytelenül értékelte, ide nem értve az ellenőrzés nélküli elfogadás esetét;
+14. vámhiány: a jogszerűen kiszabható vám és nem közösségi adók és díjak és az annál kisebb értékben tévesen közölt vám és nem közösségi adók és díjak különbözete, továbbá a jogszerűen kiszabható, nem közölt vám és nem közösségi adók és díjak összege, ha az nem abból eredt, hogy a vámhatóság jogszabályt sértett, vagy a rendelkezésre álló adatokat helytelenül értékelte, ide nem értve az ellenőrzés nélküli elfogadás esetét. A vámigazgatási bírság kiszabása szempontjából vámhiánynak minősül továbbá a jogellenes bejuttatás során lefoglalt és elkobzott termékek esetében a kiszámított behozatali vámok, valamint a kapcsolódó nem közösségi adók és díjak összege;
 
 15. közeli hozzátartozó: házastárs, egyeneságbeli rokon, örökbefogadott, mostoha és nevelt gyermek, örökbefogadó, mostoha és nevelőszülő, testvér, élettárs.;
 
