@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-364-20-
 | 2012-01-01 | 2010-364-20-22.2 | 325/2011. (XII. 28.) Korm. rendelet |
 | 2013-01-01 | 2010-364-20-22.3 | 376/2012. (XII. 19.) Korm. rendelet |
 | 2014-01-01 | 2010-364-20-22.4 | 376/2012. (XII. 19.) Korm. rendelet |
+| 2015-01-01 | 2010-364-20-22.5 | 376/2012. (XII. 19.) Korm. rendelet |
