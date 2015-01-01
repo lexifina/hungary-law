@@ -1,3 +1,3 @@
-2. §[^6]
+2. §[^2]
 
-[^6]: Az Ávr. 2. §-át a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^2]: Az Ávr. 2. §-át a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 2. pontja hatályon kívül helyezte.

@@ -1,29 +1,15 @@
-90. § (1) Törvény vagy kormányrendelet eltérő rendelkezése hiányában a nem közigazgatási hatósági határozattal államháztartáson kívüli kedvezményezettnek pályázati úton biztosított költségvetési támogatás esetén a támogatás igénylője vagy a kedvezményezett a fejezetet irányító szerv vezetőjénél kifogást nyújthat be, ha a pályázati eljárásra, a támogatási döntés meghozatalára, a támogatói okiratok kiadására vagy a támogatási szerződések megkötésére, a költségvetési támogatás folyósítására, visszakövetelésére vonatkozó eljárás véleménye szerint jogszabálysértő.
+## [Az Áht. 51. § (2) és (3) bekezdéséhez]
 
-(2) A kifogás benyújtására a pályázati kiírásban a kifogásolt intézkedéshez vagy mulasztáshoz kapcsolódóan megállapított határidőn belül írásban van lehetőség.
+90. §[^178] (1) A köztartozás fennállásáról és annak összegéről az állami adó- és vámhatóság a Kincstár, illetve a mezőgazdasági és vidékfejlesztési támogatási szerv elektronikus úton történő megkeresésére adatot szolgáltat. A (2) bekezdésben meghatározott kivétellel az adatszolgáltatásban szereplő köztartozás, de legfeljebb a költségvetési támogatás kifizetésére irányuló átutalási megbízás összegét a Kincstár, illetve a mezőgazdasági és vidékfejlesztési támogatási szerv kedvezményezettenként és adónemenként – ha valamennyi köztartozásra nem biztosít fedezetet adónemenként, a fennálló köztartozás arányaiban – utalja át az állami adó- és vámhatóságnak. A visszatartott költségvetési támogatásnak megfelelő összegű köztartozás az átutalással megfizetettnek minősül.
 
-(3) Ha a költségvetési támogatás biztosítására lebonyolító szerven keresztül kerül sor, a támogatás igénylője vagy a kedvezményezett a kifogást a lebonyolító szervhez nyújtja be, amely azt a kifogás kézhezvételétől számított öt napon belül – a kifogás elbírálásához szükséges dokumentumokkal együtt – a fejezetet irányító szerv vezetőjének továbbítja.
+(2) Ha az Áht. 51. § (3) bekezdése szerinti nem állami intézmény fenntartójának vagy az általa fenntartott intézménynek az állami adó- és vámhatóság adatszolgáltatása alapján köztartozása van, és a fenntartó előzetesen benyújtott kérelme alapján a fejezetet irányító szerv vezetője a Kincstárnak – legkésőbb a költségvetési támogatás fenntartó részére történő folyósításának jogszabályban meghatározott határidejének leteltét megelőző ötödik napig – úgy nyilatkozik, hogy a köztartozás levonása a nem állami intézmény fenntartója vagy az általa fenntartott intézmény közfeladatai ellátását súlyosan veszélyeztetné, a költségvetési támogatást a Kincstár a köztartozás levonása nélkül utalja át a kedvezményezettnek. A köztartozással terhelt nem állami intézmény fenntartókról a Kincstár a költségvetési támogatás folyósítását követő öt napon belül értesíti a fejezetet irányító szerv vezetőjét.
 
-(4) A kifogás tartalmazza
+(3) A Kincstár által végzett köztartozás-vizsgálathoz a költségvetési támogatások kifizetésére irányuló átutalási megbízásokon a Kincstár által meghatározott jelölést kell alkalmazni. Az átutalási megbízás ilyen esetben csoportos megbízásként nem nyújtható be.
 
-a) a kifogást tevő nevét, székhelyét vagy lakcímét, a nem természetes személy kifogást tevő képviselője nevét,
+(4) A költségvetési támogatás visszatartásáról a Kincstár tájékoztatja a kedvezményezettet és a támogatót, illetve a mezőgazdasági és vidékfejlesztési támogatási szerv a kedvezményezettet. A visszatartás a kedvezményezett – a költségvetési támogatás megszerzése érdekében vállalt – kötelezettségeit nem érinti.
 
-b) a kifogással érintett pályázat vagy támogatói okirat, támogatási szerződés azonosításához szükséges adatokat,
+(5) Ha a Kincstár által kiküldött tájékoztatás a kedvezményezett címének megváltozása vagy bármely más okból nem kézbesíthető, a Kincstár erről tájékoztatja a támogatót.
 
-c) a kifogásolt intézkedés vagy mulasztás meghatározását,
+(6) Az állami adó- és vámhatóság adatszolgáltatásának alapja a kedvezményezett adóazonosító száma, amelyet a Kincstár, illetve a mezőgazdasági és vidékfejlesztési támogatási szerv megkeresése tartalmaz.
 
-d) a kifogás alapjául szolgáló tényeket és a kifogásolt vagy elmaradt intézkedéssel megsértett jogszabályi rendelkezés pontos megjelölését, és
-
-e)[^221] nem elektronikus úton történő kapcsolattartás esetén a kifogást tevő aláírását.
-
-(5) A kifogás kivizsgálásában – a fejezetet irányító szerv vezetője kivételével – nem vehet részt az, aki a kifogással érintett eljárásban részt vett.
-
-(6) Az elkésett, a kifogás benyújtására nem jogosult személytől származó, a korábbival azonos tartalmú és az elbírálásra alkalmatlan kifogást a fejezetet irányító szerv vezetője elutasítja, és erről az elutasítás indokainak megjelölésével a kifogást tevőt írásban értesíti.
-
-(7) A fejezetet irányító szerv vezetője a kifogást annak kézhezvételétől számított harminc napon belül – a (6) bekezdésben meghatározott kivétellel – érdemben elbírálja.
-
-(8) Ha a kifogás alapos, a fejezetet irányító szerv vezetője elrendeli a kifogásban sérelmezett helyzet megszüntetéséhez szükséges intézkedést, egyébként azt elutasítja, és döntéséről – elutasítás esetén az elutasítás indokainak megjelölésével – a kifogást tevőt írásban értesíti.
-
-(9) Az európai uniós forrásból biztosított költségvetési támogatással kapcsolatos kifogás benyújtására, annak elbírálási rendjére az e költségvetési támogatásokat szabályozó jogszabályokban foglaltakat kell alkalmazni.
-
-[^221]: Az Ávr. 90. § (4) bekezdés e) pontja a 307/2013. (VIII. 14.) Korm. rendelet 29. § 7. pontja szerint módosított szöveg.
+[^178]: Az Ávr. 90. §-át megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 25. § (2) bekezdés 8. pontja hatályon kívül helyezte.

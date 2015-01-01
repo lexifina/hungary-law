@@ -1,5 +1,5 @@
-## [Az Áht. 55. §-ához]
+## [Az Áht. 51. § (1) bekezdéséhez]
 
-86. §[^216] A támogató a költségvetési támogatásokkal kapcsolatos valamennyi dokumentumot köteles a kedvezményezett beszámolójának támogató általi jóváhagyásától számított legalább tíz évig megőrizni.
+86. § (1) A költségvetési támogatás folyósítására a beszámoló vagy – ha e rendelet szerint előírásra került – a részbeszámoló elfogadását követően kerülhet sor. A költségvetési támogatás Áht. 51. § (1) bekezdése szerinti rendelkezésre bocsátásának módjára vonatkozó döntés meghozatala során figyelemmel kell lenni a költségvetési támogatás céljára, a támogatott tevékenység megvalósítási időszakának hosszára, a kedvezményezett saját forrásának mértékére. E §-t a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásra nem kell alkalmazni.
 
-[^216]: Az Ávr. 86. §-a a 497/2013. (XII. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
+(2) A beszámoló, részbeszámoló hibáinak, hiányosságainak pótlására a 70. § (3) bekezdését kell alkalmazni.

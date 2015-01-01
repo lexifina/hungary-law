@@ -2,11 +2,27 @@
 
 ## A GAZDÁLKODÁS SAJÁTOS SZABÁLYAI
 
-## [Az Áht. 44. § (2) és (3) bekezdéséhez]
+## [Az Áht. 44. §-ához][^163]
 
-62. § (1)[^136] A helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás, valamint az általa irányított költségvetési szerv tekintetében az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 31. § (2) bekezdése szerinti bevallási kötelezettséget az Igazgatóság teljesíti.
+62. §[^164] (1) A központosított illetményszámfejtés keretében
 
-(2)–(4)[^137]
+a) a személyi juttatások számfejtése,
 
-[^136]: Az Ávr. 62. § (1) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 39. § 19. pontja szerint módosított szöveg.
-[^137]: Az Ávr. 62. § (2)–(4) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 40. § (1) bekezdés 8. pontja hatályon kívül helyezte.
+b) az adók és járulékok megállapítása,
+
+c) a személyi jövedelemadózással összefüggő foglalkoztatói, kifizetői feladatok ellátása, valamint az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 16. § (4) bekezdése szerint teljesített biztosítotti bejelentések és 31. § (2) bekezdése és 50. § (1) bekezdése szerinti bevallások elkészítése,
+
+d) a személyi juttatásokat terhelő levonások, letiltások érvényesítése, az önkéntes kölcsönös biztosító pénztári számlákat érintő fizetési kötelezettségek megállapítása,
+
+e) a társadalombiztosítási kifizetőhelyi feladatok ellátása, az ezzel kapcsolatos nyilvántartások vezetése,
+
+f) a nettó finanszírozáshoz szükséges adatszolgáltatások teljesítése,
+
+g) a foglalkoztatót terhelő munkaügyi statisztikai és más adatszolgáltatások teljesítése
+
+a Kincstár által biztosított, fejlesztett és működtetett számítógépes programon (a továbbiakban: illetményszámfejtő program) keresztül valósul meg.
+
+(2) A személyi juttatások számfejtése nem terjed ki a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 8.19. pont b) alpontja szerinti adómentes reprezentációs és üzleti ajándék kiadásokra.
+
+[^163]: Az Ávr. 62. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^164]: Az Ávr. 62. §-a a 397/2014. (XII. 31.) Korm. rendelet 24. §-ával megállapított szöveg.

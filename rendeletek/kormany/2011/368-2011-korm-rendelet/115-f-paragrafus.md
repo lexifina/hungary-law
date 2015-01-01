@@ -1,0 +1,27 @@
+115/F. §[^186] (1) A Kincstár a kincstári ellenőrzésről jelentést (a továbbiakban: ellenőrzési jelentés) készít.
+
+(2) Az ellenőrzési jelentés tartalmazza
+
+a) az ellenőrzött szerv megnevezését és a kincstári ellenőrzéssel érintett időszakban az ellenőrzött szervnél hivatalban lévő, az ellenőrzött területekért felelős vezetők nevét, beosztását,
+
+b) a kincstári ellenőrzést végző vizsgálatvezető és kincstári ellenőrök nevét,
+
+c) a kincstári ellenőrzésre vonatkozó jogszabályi felhatalmazás megjelölését, a kincstári ellenőrzés tárgyát és a kincstári ellenőrzéssel érintett időszakot,
+
+d) a kincstári ellenőrzés során alkalmazott ellenőrzési módszereket és eljárásokat,
+
+e) az ellenőrzési megállapításokat és javaslatokat, ennek keretében a kincstári ellenőrzés során a 115/D. § (1) bekezdés d) pontja szerinti javaslatokat, megtett intézkedéseket vagy azok elmulasztásának okát,
+
+f) az ellenőrzési jelentés elkészítésének dátumát és a Kincstár elnökének aláírását.
+
+(3) Az ellenőrzési jelentésben lényegre törő, az eredményeket és a hiányosságokat összefoglaló, rövid, tömör értékelést kell adni, továbbá javaslatokat kell megfogalmazni a hiányosságok felszámolása és a folyamatok hatékonyabb, eredményesebb működése érdekében.
+
+(4) A Kincstár az ellenőrzési jelentés tervezetének az ellenőrzött szervre vonatkozó megállapításait és a javaslatokat tartalmazó kivonatát egyeztetés céljából megküldi azon ellenőrzött szerv vezetőjének, akire vonatkozóan az ellenőrzési jelentéstervezet javaslatot tartalmaz.
+
+(5) Ha az egyeztetéssel érintett ellenőrzött szerv vagy az, akire az ellenőrzési jelentés vagy annak kivonatának tervezete megállapításokat vagy javaslatokat tartalmaz, az ellenőrzési jelentés vagy annak kivonatának tervezetében szereplő megállapításokat vagy javaslatokat vitatja, az azokkal kapcsolatos észrevételeit az ellenőrzési jelentés vagy annak kivonata tervezetének kézhezvételétől számított 8 napon belül a Kincstárnak írásban nyújthatja be. Az észrevételben meg kell jelölni azokat a jogszabályhelyeket vagy mellékelni kell azokat a dokumentumokat, amelyek az észrevételben foglaltakat alátámasztják. Ha az e bekezdésben meghatározott határidőben az ellenőrzött szerv részéről nem érkezik az ellenőrzési jelentésre észrevétel, azt akként kell tekintetni, hogy az ellenőrzött szerv az ellenőrzési jelentés vagy annak kivonatának tervezetében szereplő megállapításokkal és javaslatokkal egyetért.
+
+(6) Az észrevétel elfogadása esetén a Kincstár az ellenőrzési jelentés vagy annak kivonatának tervezetét az elfogadott észrevételnek megfelelően módosítja, és erről vagy az észrevétel elutasításáról az ellenőrzött szervet tájékoztatja.
+
+(7) A Kincstár a lezárt ellenőrzési jelentést a kincstári ellenőrzés befejezésétől számított három munkanapon belül megküldi az ellenőrzött szerv vezetőjének, az államháztartásért felelős miniszternek és az Állami Számvevőszéknek.
+
+[^186]: Az Ávr. 115/F. §-át a 397/2014. (XII. 31.) Korm. rendelet 27. §-a iktatta be.

@@ -1,3 +1,3 @@
-53/A. §[^111] Az Áht. 32. §-a szerinti előirányzatok terhére történő kötelezettségvállalás esetén a pénzügyi ellenjegyzés során kizárólag arról kell meggyőződni, hogy a kötelezettségvállalás nem sérti a gazdálkodásra vonatkozó szabályokat, valamint az Áht. 32. § d) pontja szerinti esetben arról, hogy a kötelezettségvállalás megfelel a Kormány egyedi határozatában foglaltaknak.
+53/A. §[^131] Az Áht. 32. §-a szerinti előirányzatok terhére történő kötelezettségvállalás esetén a pénzügyi ellenjegyzés során kizárólag arról kell meggyőződni, hogy a kötelezettségvállalás nem sérti a gazdálkodásra vonatkozó szabályokat, valamint az Áht. 32. § d) pontja szerinti esetben arról, hogy a kötelezettségvállalás megfelel a Kormány egyedi határozatában foglaltaknak.
 
-[^111]: Az Ávr. 53/A. §-át a 497/2013. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
+[^131]: Az Ávr. 53/A. §-át a 497/2013. (XII. 29.) Korm. rendelet 23. §-a iktatta be.

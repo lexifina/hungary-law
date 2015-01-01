@@ -1,3 +1,3 @@
-167/F. §[^424] A Kincstár a bejegyzési kérelmet, a törlési kérelmet, a változás-bejelentési kérelmet és azok mellékleteit megvizsgálja, és ha azok nem felelnek meg az Áht.-ban, a kormányzati funkciók, államháztartási szakfeladatok és szakágazatok osztályozási rendjéről szóló miniszteri rendeletben, a törzskönyvi jogi személy működéséről rendelkező jogszabályban vagy határozatban, illetve e rendeletben foglaltaknak, hiánypótlási felhívást bocsát ki.
+167/F. §[^337]
 
-[^424]: Az Ávr. 167/F. §-a a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 58. pontja szerint módosított szöveg.
+[^337]: Az Ávr. 167/F. §-át a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 21. pontja hatályon kívül helyezte.

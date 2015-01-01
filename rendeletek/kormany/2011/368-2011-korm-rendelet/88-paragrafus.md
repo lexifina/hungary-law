@@ -1,13 +1,19 @@
-88. § (1)[^217] Ha a támogatott tevékenység után általános forgalmi adó fizetési kötelezettség keletkezik, a költségvetési támogatás összegének fedezetet kell biztosítania a támogatott tevékenység rendeltetésszerű elvégzése során a kedvezményezettre áthárított, vagy az általa fizetendő általános forgalmi adó teljes összegére nézve, kivéve, ha a kedvezményezett az előzetesen felszámított, vagy a termék beszerzése, a szolgáltatás igénybevétele után általa fizetendő általános forgalmi adó levonására jogosult.
+88. § (1) A költségvetési támogatás folyósítása
 
-(2) A kedvezményezett a támogatott tevékenységgel kapcsolatban nyilatkozik az (1) bekezdésben foglalt feltételekről.
+a) a kedvezményezett fizetési számlájára,
 
-(3) Ha a kedvezményezett a jogállása változása miatt, vagy más okból a (2) bekezdés szerinti nyilatkozata ellenére a költségvetési támogatás felhasználása során
+b) az Áht. 51. § (2) bekezdésének hatálya alá nem tartozó költségvetési támogatás esetén
 
-a) a fizetendő adójából rá áthárított, vagy az általa megállapított adót levonta, vagy
+ba) a kedvezményezett által megjelölt engedményes fizetési számlájára, vagy
 
-b) a keletkező adóterhet másra áthárította,
+bb) a támogatói okiratban, támogatási szerződésben megjelölt személy által benyújtott, a támogatott tevékenységgel kapcsolatban felmerült beszerzéseket igazoló számlák összegének közvetlenül a szállító vagy a szállító által megjelölt engedményes fizetési számlájára, vagy
 
-a levonásba helyezett, illetve áthárított és a támogató által is támogatott általános forgalmi adó összegének megfelelő költségvetési támogatást köteles a jogosulatlanul igénybe vett támogatásokra vonatkozó szabályok szerint visszatéríteni.
+c) kamattámogatás vagy kezességi díjtámogatás pénzügyi intézmény által történő megelőlegezése esetén a költségvetési támogatást megelőlegező pénzügyi intézmény részére
 
-[^217]: Az Ávr. 88. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 42. §-ával megállapított szöveg.
+történő kifizetéssel lehetséges.
+
+(2) Az (1) bekezdés b) pont bb) alpontja szerinti esetben a kifizetés feltétele, hogy a kedvezményezett a számla költségvetési támogatáson felüli összege kifizetését igazolja.
+
+(3) Fel kell függeszteni a költségvetési támogatás folyósítását, ha azt a támogatási szerződés megkötését követően a kedvezményezett olyan nyilatkozatot tesz, vagy a támogatás folyósítója olyan körülményről szerez tudomást, amely a költségvetési támogatás visszavonását, a támogatási szerződés felmondását vagy az attól történő elállást teheti szükségessé. A felfüggesztésről és annak okáról a kedvezményezettet haladéktalanul tájékoztatni kell.
+
+(4) E §-t a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásra akkor kell alkalmazni, ha a 140–142. § és a 144. § eltérően nem rendelkezik.

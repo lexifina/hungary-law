@@ -1,6 +1,22 @@
-## A fejezetet irányító szerv és annak vezetője
+## Az irányító szerv, a fejezetet irányító szerv, valamint annak vezetője
 
-## 1. a központi költségvetés I. fejezeténél az Országgyűlés Hivatala és annak főigazgatója, a Közbeszerzési Hatóság tekintetében a Közbeszerzési Hatóság és annak elnöke, a Nemzeti Adatvédelmi és Információszabadság Hatóság tekintetében a Nemzeti Adatvédelmi és Információszabadság Hatóság és annak elnöke, az Egyenlő Bánásmód Hatóság tekintetében az Egyenlő Bánásmód Hatóság és annak elnöke, a 8–10. cím tekintetében a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet (a továbbiakban: Ktfr.) 90. §-a szerinti tagja, a Magyar Energetikai és Közmű-szabályozási Hivatal tekintetében a Magyar Energetikai és Közmű-szabályozási Hivatal és annak elnöke, a Nemzeti Választási Iroda tekintetében a Nemzeti Választási Iroda és annak elnöke,
+## I. Az államháztartás központi alrendszerében
+
+## 1. a központi költségvetés I. fejezeténél – az a)–g) alpontban meghatározott kivétellel – az Országgyűlés Hivatala és annak főigazgatója,
+
+## a) a 8–10. cím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet (a továbbiakban: Ktfr.) 90. §-a szerinti tagja,
+
+## b) a Közbeszerzési Hatóság tekintetében a Közbeszerzési Hatóság és annak elnöke,
+
+## c) a Nemzeti Adatvédelmi és Információszabadság Hatóság tekintetében a Nemzeti Adatvédelmi és Információszabadság Hatóság és annak elnöke,
+
+## d) az Egyenlő Bánásmód Hatóság tekintetében az Egyenlő Bánásmód Hatóság és annak elnöke,
+
+## e) a Magyar Energetikai és Közmű-szabályozási Hivatal tekintetében a Magyar Energetikai és Közmű-szabályozási Hivatal és annak elnöke,
+
+## f) a Nemzeti Választási Iroda tekintetében a Nemzeti Választási Iroda és annak elnöke,
+
+## g) a Nemzeti Emlékezet Bizottságának Hivatala tekintetében a Nemzeti Emlékezet Bizottságának Hivatala és annak főigazgatója,
 
 ## 2. a központi költségvetés II. fejezeténél a Köztársasági Elnöki Hivatal és annak főigazgatója,
 
@@ -14,29 +30,41 @@
 
 ## 7. a központi költségvetés VIII. fejezeténél a Legfőbb Ügyészség és a legfőbb ügyész,
 
-## 8. a központi költségvetés IX. fejezeténél a Kormánynak a Ktfr. 21. §-a szerinti tagja,
+## 8. a központi költségvetés IX. fejezeténél a Belügyminisztérium és a Kormánynak a Ktfr. 21. §-a szerinti tagja,
 
-## 9. a központi költségvetés X. fejezeténél a Kormánynak a Ktfr. 79. §-a szerinti tagja, a Szellemi Tulajdon Nemzeti Hivatala tekintetében a Szellemi Tulajdon Nemzeti Hivatala és annak elnöke, a 24. cím tekintetében a Ktfr. 90. §-a szerinti tagja,
+## 9. a központi költségvetés X. fejezeténél az Igazságügyi Minisztérium és a Kormánynak a Ktfr. 79. §-a szerinti tagja, a Szellemi Tulajdon Nemzeti Hivatala tekintetében a Szellemi Tulajdon Nemzeti Hivatala és annak elnöke,
 
-## 10. a központi költségvetés XI. fejezeténél a Kormánynak a Ktfr. 4. §-a szerinti tagja, a Kormányzati Ellenőrzési Hivatal tekintetében a Kormányzati Ellenőrzési Hivatal és annak elnöke, a 17. és 18. cím tekintetében a Kormánynak a Ktfr. 90. §-a szerinti tagja,
+## 10. a központi költségvetés XI. fejezeténél – az a) és b) alpontban meghatározott kivétellel – a Miniszterelnökség és a Kormánynak a Ktfr. 4. §-a szerinti tagja,
 
-## 11. a központi költségvetés XII. fejezeténél a Kormánynak a Ktfr. 65. §-a szerinti tagja,
+## a) a Kormányzati Ellenőrzési Hivatal tekintetében a Kormányzati Ellenőrzési Hivatal és annak elnöke,
 
-## 12. a központi költségvetés XIII. fejezeténél a Kormánynak a Ktfr. 77. §-a szerinti tagja,
+## b) a 32–34. cím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
-## 13. a központi költségvetés XIV. fejezeténél a Kormánynak a Ktfr. 21. §-a szerinti tagja,
+## 11. a központi költségvetés XII. fejezeténél a Földművelésügyi Minisztérium és a Kormánynak a Ktfr. 65. §-a szerinti tagja,
 
-## 14. a központi költségvetés XV. fejezeténél a Kormánynak a Ktfr. 90. §-a szerinti tagja,
+## 12. a központi költségvetés XIII. fejezeténél a Honvédelmi Minisztérium és a Kormánynak a Ktfr. 77. §-a szerinti tagja,
+
+## 13. a központi költségvetés XIV. fejezeténél a Belügyminisztérium és a Kormánynak a Ktfr. 21. §-a szerinti tagja, a 21. cím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
+
+## 14. a központi költségvetés XV. fejezeténél a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
 ## 15. a központi költségvetés XVI. fejezeténél a Nemzeti Adó- és Vámhivatal és annak elnöke,
 
-## 16. a központi költségvetés XVII. fejezeténél a Kormánynak a Ktfr. 109. §-a szerinti tagja, az Országos Atomenergia Hivatal tekintetében az Országos Atomenergia Hivatal és annak főigazgatója,
+## 16. a központi költségvetés XVII. fejezeténél – az a) és b) alpontban meghatározott kivétellel – a Nemzeti Fejlesztési Minisztérium és a Kormánynak a Ktfr. 109. §-a szerinti tagja,
 
-## 17. a központi költségvetés XVIII. fejezeténél a Kormánynak a Ktfr. 85. §-a szerinti tagja,
+## a) az Országos Atomenergia Hivatal tekintetében az Országos Atomenergia Hivatal és annak főigazgatója,
 
-## 18. a központi költségvetés XIX. fejezeténél a Kormánynak a Ktfr. 4. §-a szerinti tagja,
+## b) a 21. és 25. cím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
-## 19. a központi költségvetés XX. fejezeténél a Kormánynak a Ktfr. 48. §-a szerinti tagja, a 21. cím tekintetében a Kormánynak a Ktfr. 90. §-a szerinti tagja,
+## 17. a központi költségvetés XVIII. fejezeténél a Külgazdasági és Külügyminisztérium és a Kormánynak a Ktfr. 85. §-a szerinti tagja,
+
+## 18. a központi költségvetés XIX. fejezeténél a Miniszterelnökség és a Kormánynak a Ktfr. 4. §-a szerinti tagja,
+
+## 19. a központi költségvetés XX. fejezeténél – az a) és b) alpontban meghatározott kivétellel – az Emberi Erőforrások Minisztériuma és a Kormánynak a Ktfr. 48. §-a szerinti tagja,
+
+## a) a 21. és 22. cím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
+
+## b) a 26. és 27. cím tekintetében az Országos Egészségbiztosítási Pénztár és annak vezetője,
 
 ## 20. a központi költségvetés XXX. fejezeténél a Gazdasági Versenyhivatal és annak elnöke,
 
@@ -46,28 +74,50 @@
 
 ## 23. a központi költségvetés XXXIV. fejezeténél a Magyar Művészeti Akadémia és annak elnöke,
 
-## 24. a központi költségvetés XLI–XLII. fejezeténél a Kormánynak a Ktfr. 90. §-a szerinti tagja,
+## 24. a központi költségvetés XXXV. fejezeténél a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal és annak elnöke,
 
-## 25. a központi költségvetés XLIII. fejezeténél a Kormánynak a Ktfr. 109. §-a szerinti tagja,
+## 25. a központi költségvetés XLI. fejezeténél a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
-## 26. a központi költségvetés XLIV. fejezeténél a Kormánynak a Ktfr. 65. §-a szerinti tagja,
+## 26. a központi költségvetés XLII. fejezeténél a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
-## 27. a központi költségvetés LXXI. fejezeténél a Nyugdíjbiztosítási Alap tekintetében a Kormánynak a Ktfr. 48. §-a szerinti tagja, az Országos Nyugdíjbiztosítási Főigazgatóság és az igazgatási szervek tekintetében az Országos Nyugdíjbiztosítási Főigazgatóság vezetője,
+## 27. a központi költségvetés XLIII. fejezeténél a Nemzeti Fejlesztési Minisztérium és a Kormánynak a Ktfr. 109. §-a szerinti tagja,
 
-## 28. a központi költségvetés LXXII. fejezeténél az Egészségbiztosítási Alap tekintetében a Kormánynak a Ktfr. 48. §-a szerinti tagja, az Országos Egészségbiztosítási Pénztár tekintetében az Országos Egészségbiztosítási Pénztár vezetője,
+## 28. a központi költségvetés XLIV. fejezeténél a Földművelésügyi Minisztérium és a Kormánynak a Ktfr. 65. §-a szerinti tagja,
 
-## 29. az elkülönített állami pénzalapok tekintetében az alappal való rendelkezésre jogosult, a felhasználásért felelős miniszter.
+## 29. a központi költségvetés LXII. fejezeténél a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal és annak elnöke,
 
-2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^461]
+## 30. a központi költségvetés LXIII. fejezeténél a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
-Fejezetek megnevezése:
+## 31. a központi költségvetés LXV. fejezeténél a Miniszterelnökség és a Kormánynak a Ktfr. 4. §-a szerinti tagja,
 
-ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+## 32. a központi költségvetés LXVI. fejezeténél a Nemzeti Fejlesztési Minisztérium és a Kormánynak a Ktfr. 109. §-a szerinti tagja,
 
-a Kormány hatáskörében
+## 33. a központi költségvetés LXVII. fejezeténél az Emberi Erőforrások Minisztériuma és a Kormánynak a Ktfr. 48. §-a szerinti tagja,
 
-Költségvetési év: ……..
+## 34. a központi költségvetés LXVIII. fejezeténél a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
-| Millió forintban |
+## 35. a központi költségvetés LXXI. fejezeténél a Nyugdíjbiztosítási Alap tekintetében az Emberi Erőforrások Minisztériuma és a Kormánynak a Ktfr. 48. §-a szerinti tagja, az 5. cím tekintetében az Országos Nyugdíjbiztosítási Főigazgatóság és annak vezetője,
 
-[^461]: Az Ávr. 2. melléklete a 23/2014. (II. 6.) Korm. rendelet 4. §-ával megállapított szöveg.
+## 36. a központi költségvetés LXXII. fejezeténél az Egészségbiztosítási Alap tekintetében az Emberi Erőforrások Minisztériuma és a Kormánynak a Ktfr. 48. §-a szerinti tagja, az 5. cím tekintetében az Országos Egészségbiztosítási Pénztár és annak vezetője.
+
+## II. Az államháztartás önkormányzati alrendszerében
+
+## 1. a helyi önkormányzati költségvetési szerv tekintetében
+
+## a) – a közös önkormányzati hivatal kivételével – a helyi önkormányzat által irányított költségvetési szerv esetében a képviselő-testület, közgyűlés és a polgármester, főpolgármester, megyei közgyűlés elnöke,
+
+## b) a közös önkormányzati hivatal esetében a közös önkormányzati hivatal székhelye szerinti helyi önkormányzat képviselő-testülete, közgyűlése és a polgármester, főpolgármester, megyei közgyűlés elnöke,
+
+## c) a társulás által irányított költségvetési szerv esetében a társulási tanács és annak elnöke,
+
+## d) a területfejlesztésről és a területrendezésről szóló törvény szerinti térségi fejlesztési tanács által irányított költségvetési szerv esetében a térségi fejlesztési tanács és a térségi fejlesztési tanács elnöke,
+
+## 2. a nemzetiségi önkormányzati költségvetési szerv tekintetében
+
+## a) a helyi nemzetiségi önkormányzati költségvetési szerv esetében a helyi nemzetiségi önkormányzat képviselő-testülete és a képviselő-testület elnöke,
+
+## b) az országos nemzetiségi önkormányzat esetében az országos nemzetiségi önkormányzat képviselő-testülete és a képviselő-testület elnöke.
+
+2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^375]
+
+[^375]: Az Ávr. 2. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 2. pontjával megállapított szöveg.

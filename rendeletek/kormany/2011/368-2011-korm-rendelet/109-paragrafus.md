@@ -1,19 +1,25 @@
-109. §[^280] (1) Ha az Áht. 58. § (1) bekezdése szerinti ellenőrzésre helyszíni ellenőrzés keretében kerül sor, a Kincstár arról jegyzőkönyvet vesz fel, amelyet az Áht. 58. § (2) bekezdése szerinti, Kincstár álláspontját alátámasztó bizonyítékok ismertetése során ad át vagy küld meg az ellenőrzöttnek.
+## [Az Áht. 59. §-ához]
 
-(2) A jegyzőkönyv tartalmazza
+109. § (1) Az Áht. 59. §-a szerinti felülvizsgálatot az Igazgatóság területére vonatkozó munkaterv alapján kell megszervezni. A munkatervet a következő négy évre vonatkozóan minden év december 31-éig kell elkészíteni. A munkatervnek tartalmaznia kell az Igazgatóság illetékességi területéhez tartozó valamennyi helyi önkormányzat elszámolásai helyszíni ellenőrzésének tervezett időpontját negyedéves ütemezés szerint, valamint az első évre vonatkozóan a felülvizsgálatba bevont főbb támogatások jogcímeit.
 
-a)[^281] az eljáró közigazgatási szerv nevét, a jegyzőkönyv készítésének helyét és idejét, a vizsgált helyi önkormányzat, költségvetési szerv nevét, székhelyét, a felülvizsgálat alapjául szolgáló dokumentumok felsorolását, az ügyre vonatkozó lényeges nyilatkozatokat és megállapításokat,
+(2) A felülvizsgálatot a költségvetési évet követő év december 31-éig kell megkezdeni.
 
-b)[^282] a helyi önkormányzat által jelzett érintett mutatószámokat jogcímenként,
+(3) A felülvizsgálat során a Kincstár figyelembe veszi az Állami Számvevőszék ellenőrzése alapján készült jelentésben a tárgyévre és az azt megelőző, a Polgári Törvénykönyv szerinti általános elévülési időn belüli évekre megállapított, az ellenőrzöttet megillető pótlólagos támogatásokat, illetve az ellenőrzött által jogosulatlanul igénybe vett és az Állami Számvevőszék megállapítására vissza nem fizetett támogatásokat is.
 
-c) a Kincstár által megállapított mutatószámokat és az ezeket megalapozó adatokat,
+(4) Felülvizsgálatot nem végezhet az a személy, aki
 
-d) a b) és c) pontban foglaltak közötti eltérés indokait,
+a) az ügy elintézésében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) kizárásra vonatkozó szabályai alapján nem járhat el,
 
-e) az ellenőrök nevét, aláírását és
+b) az adott felülvizsgálatot megelőző három naptári évben, illetve a felülvizsgálattal érintett időszakban az ellenőrzött szerv polgármestere, jegyzője, képviselő testületének tagja, közgyűlésének tagja, az önkormányzati hivatal vezető megbízással rendelkező közszolgálati tisztviselője, közszolgálati tisztviselője, közalkalmazottja, munkavállalója volt, vagy az ellenőrzött szervnél egyéb foglalkoztatásra irányuló jogviszonyban állt,
 
-f) ha a helyszíni ellenőrzés befejezésével nem kerül sor a jegyzőkönyv átadására, a Kincstár illetékes vezetőjének aláírását.
+c) az ellenőrzött szervnél a felülvizsgálat megkezdését megelőző három naptári évben, illetve a felülvizsgálattal érintett időszakban rendszeres vagy tartós megbízási vagy vállalkozási jogviszonyban állt, vagy a felülvizsgálattal érintett támogatási igény elkészítésében részt vett,
 
-[^280]: Az Ávr. 109. §-át újonnan a 307/2013. (VIII. 14.) Korm. rendelet 16. §-a iktatta be.
-[^281]: Az Ávr. 108. § (2) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
-[^282]: Az Ávr. 108. § (2) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
+d) az ellenőrzött szervnél bármilyen munkavégzésre irányuló tevékenységet végez, vagy a felülvizsgált időszakban ilyen tevékenységet végzett,
+
+e) az ellenőrzött szerv vezetőjének a Polgári Törvénykönyv szerinti közeli hozzátartozója,
+
+f) vagyonnyilatkozati kötelezettségének nem tett eleget vagy azt megtagadta.
+
+(5) A felülvizsgálat keretében végzett hatósági ellenőrzés ügyintézési határideje két hónap, amely szükség esetén egy alkalommal, legfeljebb harminc nappal meghosszabbítható. A másodfokú döntés meghozatalára a fellebbezés kézhezvételét követően hatvan nap áll rendelkezésre.
+
+(6) A Kincstár az Áht. 59. §-a szerinti felülvizsgálatok tapasztalatait és számszaki összegzéseit május 31-éig megküldi az államháztartásért felelős miniszternek, a helyi önkormányzatokért felelős miniszternek és az Állami Számvevőszék elnökének.

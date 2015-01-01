@@ -1,5 +1,3 @@
-## [Az Áht. 17. §-ához]
+20. §[^58]
 
-20. §[^56] A központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok, elkülönített állami pénzalapok, társadalombiztosítás pénzügyi alapjai jogi személyiséggel nem bírnak, munkáltatóként munkaerőt nem foglalkoztathatnak, saját tulajdonnal nem rendelkezhetnek.
-
-[^56]: Az Ávr. 20. §-a a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^58]: Az Ávr. 20. §-át és az azt megelőző alcímet a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 7. pontja hatályon kívül helyezte.

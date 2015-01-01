@@ -1,53 +1,45 @@
-66. § (1)[^141] A pályázati kiírást a támogató internetes honlapján, a jogszabály által előírt, továbbá a szükségesnek tartott egyéb helyen – jogszabály eltérő rendelkezése hiányában – január 31-éig, illetve – a forrás év közben történő biztosítása esetén – a forrás biztosításától számított harminc napon belül közzéteszi.
+66. § (1) A pályázati kiírást a támogató internetes honlapján és az általa szükségesnek tartott egyéb helyen teszi közzé. Az előirányzat kezelő szerve a pályázati kiírás közzétételét megelőzően a Kincstár részére megküldi a pályázati kiírás tervezetét.
 
-(2)[^142] A pályázati kiírás tartalmazza
+(2) A pályázati kiírás tartalmazza
 
-a) a pályázat címét és célját,
+1. a pályázat címét és célját,
 
-b) a támogató megnevezését,
+2. a támogató megnevezését,
 
-c) a pályázat nyílt vagy meghívásos jellegét,
+3. a pályázat benyújtására jogosult és – szükség szerint – a pályázatból kizárt természetes és jogi személyek, valamint jogi személyiséggel nem rendelkező egyéb szervezetek meghatározását,
 
-d) a pályázat benyújtására jogosult, és – szükség szerint – a pályázatból kizárt természetes és jogi személyek, valamint jogi személyiséggel nem rendelkező egyéb szervezetek meghatározását,
+4. a pályázat tartalmi és formai követelményeit, nem elektronikus kapcsolattartás esetén a benyújtandó pályázatok példányszámát,
 
-e) a pályázat tartalmi és formai követelményeit, nem elektronikus kapcsolattartás esetén a benyújtandó pályázatok példányszámát,
+5. a támogató rendelkezésére álló forrás megnevezését és összegét,
 
-f) a támogató rendelkezésére álló forrás megnevezését és összegét,
+6. a költségvetési támogatásból elszámolható és el nem számolható költségek körét,
 
-g) a költségvetési támogatásból elszámolható és el nem számolható költségek körét,
+7. szükség szerint az elnyerhető költségvetési támogatás mértékének alsó és felső határát,
 
-h) szükség szerint az elnyerhető költségvetési támogatás mértékének alsó és felső határát,
+8. több részletben történő folyósítás lehetőségét,
 
-i) több részletben történő folyósítás lehetőségét,
+9. a maximális támogatási intenzitás mértékét,
 
-j) a támogatási intenzitást,
+10. a szükséges saját forrás mértékét,
 
-k) a saját forrás mértékét,
+11. a pályázat benyújtásának határidejét, helyét és módját, az esetleges pályázati díj összegét és megfizetésének módját,
 
-l) a pályázat benyújtásának határidejét, helyét és módját, az esetleges pályázati díj összegét és megfizetésének módját,
+12. a pályázattal kapcsolatos hiánypótlás lehetőségét és feltételeit,
 
-m) a pályázattal kapcsolatos hiánypótlás lehetőségét és feltételeit,
+13. a támogatási döntés elleni jogorvoslatra, kifogás benyújtásának lehetőségére vonatkozó tájékoztatást, a jogorvoslat benyújtásának határidejét és módját,
 
-n) a támogatási döntés elleni jogorvoslatra vonatkozó tájékoztatást, a jogorvoslat benyújtásának határidejét és módját,
+14. a pályázatok elbírálásának határidejét, főbb szempontjait, a pályázat eredményéről történő értesítés módját és határidejét,
 
-o) a pályázatok elbírálásának határidejét, főbb szempontjait, a pályázat eredményéről történő értesítés módját és határidejét,
+15. a költségvetési támogatás felhasználására vonatkozó feltételeket, ideértve a támogatási szerződés feltételeit, a jogosulatlanul igénybe vett támogatás visszafizetésének elvárt biztosítékait, valamint az esetleges közbeszerzési eljárás lefolytatására irányuló kötelezettségre történő utalást is,
 
-p) a költségvetési támogatás felhasználására vonatkozó feltételeket, ideértve a kiadandó támogatói okirat vagy a megkötésre kerülő támogatási szerződés feltételeit, a jogosulatlanul igénybe vett támogatás visszafizetésének elvárt biztosítékait, valamint az esetleges közbeszerzési eljárás lefolytatására irányuló kötelezettségre történő utalást is,
+16. tájékoztatást arra nézve, hogy a pályázók hol kaphatnak felvilágosítást a pályázattal kapcsolatban,
 
-q) tájékoztatást arra nézve, hogy a pályázók hol kaphatnak felvilágosítást a pályázattal kapcsolatban,
+17. arra történő utalást, hogy a költségvetési támogatás visszatérítendő vagy nem visszatérítendő,
 
-r) arra történő utalást, hogy a költségvetési támogatás visszatérítendő vagy nem visszatérítendő,
+18. a támogató által indokoltnak tartott egyéb információkat.
 
-s) a jogszabály vagy támogató által a pályázat részeként előírt egyéb információkat.
+(3) A pályázati kiírásban a pályázat benyújtásának határidejét úgy kell meghatározni, hogy arra a pályázati kiírás közzétételétől számítva legalább harminc nap álljon rendelkezésre. E rendelkezéstől a támogató, ha a pályázat céljára tekintettel indokolt, kivételesen eltérhet, a pályázat benyújtásának határidejét ez esetben úgy kell meghatározni, hogy az ne legyen aránytalanul rövid és biztosítsa a pályázatról való értesülés lehetőségét és a pályázat megfelelő elkészítéséhez objektíven szükséges időt.
 
-(3)[^143] A pályázati kiírásban a pályázat benyújtásának határidejét úgy kell meghatározni, hogy arra a pályázati kiírás közzétételétől számítva legalább harminc nap álljon rendelkezésre.
+(4) A pályázati kiírásban jogszabály által nem rendezett kérdésekről is lehet rendelkezni. A pályázati kiírás és a megkötött támogatási szerződés ellentmondása esetén a támogatási szerződés rendelkezései irányadóak.
 
-(4)[^144] A pályázati kiírásban jogszabály által nem rendezett kérdésekről is lehet rendelkezni. A pályázati kiírás és a megkötött támogatási szerződés ellentmondása esetén a támogatási szerződés rendelkezései irányadóak.
-
-(5)[^145] Jogszabály eltérő rendelkezése hiányában a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetének előirányzatai terhére biztosított költségvetési támogatás az Áht. 48. § (1) bekezdése szerinti egyedi elbírálás útján nyújtott költségvetési támogatásnak minősül, amelyek esetén támogató a költségvetési támogatás felhasználására vonatkozó részletszabályok megalkotásáért felelős miniszter.
-
-[^141]: Az Ávr. 66. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^142]: Az Ávr. 66. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^143]: Az Ávr. 66. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^144]: Az Ávr. 66. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^145]: Az Ávr. 66. § (5) bekezdése a 153/2014. (VI. 18.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+(5) A támogató a pályázati kiírás közzététele és a pályázat benyújtásának határideje között köteles biztosítani a pályázók ésszerű időn belüli tájékoztatását.

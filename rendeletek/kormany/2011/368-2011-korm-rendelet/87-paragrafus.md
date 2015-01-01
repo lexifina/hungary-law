@@ -1,3 +1,27 @@
-87. § (1) Ha a támogatott tevékenység beruházás, a beruházással létrehozott vagyon – ha az a kedvezményezett tulajdonába vagy vagyonkezelésébe kerül – jogszabályban, támogatói okiratban, támogatási szerződésben meghatározott időpontig csak a támogató előzetes jóváhagyásával és a foglalkoztatási, a szolgáltatási és az egyéb kötelezettségek átvállalásával, átruházásával idegeníthető el, adható bérbe vagy más használatába, illetve terhelhető meg. A támogató a jóváhagyás feltételeként kikötheti, hogy a kötelezettségek átvállalásának biztosítása érdekében a beruházással létrehozott vagyon elidegenítése esetén az új tulajdonos a kedvezményezett helyébe – részleges elidegenítés esetén a kedvezményezett mellé –, bérbe vagy más módon történő használatba adás esetén – e jogviszony fennállásának idejére – a kedvezményezett mellé a támogatási szerződésbe lépjen be, vagy a kötelezettségek átvállalásáról egyoldalú nyilatkozatot tegyen.
+87. § (1) A költségvetési támogatás a beszámoló vagy a részbeszámoló elfogadását megelőzően is folyósítható (a továbbiakban: támogatási előleg). A támogatási előleg, ha jogszabály vagy a pályázati kiírás eltérően nem rendelkezik,
 
-(2) A támogató előzetes jóváhagyásával a szolgáltatási és az egyéb kötelezettségek átvállalása nélkül is lehetséges az idő előtt elhasználódott vagy elavult vagyontárgyak pótlással együtt járó teljes vagy részleges elidegenítése vagy selejtezése.
+a) működési célú költségvetési támogatás esetén legfeljebb a költségvetési támogatás 100%-a lehet,
+
+b) fejlesztési célú költségvetési támogatás esetén nem haladhatja meg a költségvetési támogatás
+
+ba) 25%-át, de legfeljebb háromszázmillió forintot,
+
+bb) 50%-át, de legfeljebb háromszázmillió forintot, ha a kedvezményezett belföldi természetes személy, mikro-, kis- és középvállalkozás vagy civil szervezet,
+
+bc) 75%-át, de legfeljebb négyszázötvenmillió forintot, ha a támogatott tevékenység kutatási, fejlesztési vagy innovációs fejlesztésre irányul.
+
+(2) A 76. § (1) bekezdés d) pontja szerinti költségterv szerint részletekben kell folyósítani azt a támogatási előleget, amely az ötmillió forintot meghaladja. E rendelkezést nem kell alkalmazni
+
+a) az olyan költségvetési támogatásokra, amelyek esetén a támogatott tevékenység időtartama a hatvan napot nem haladja meg,
+
+b) a kincstári körbe tartozó kedvezményezettek részére nyújtott költségvetési támogatásokra, valamint a Kincstárnál vezetett fizetési számlára folyósított költségvetési támogatásokra,
+
+c) a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásokra.
+
+(3) A támogatási előleget vagy annak első részletét a támogatási szerződésben meghatározott határidőn belül kell folyósítani.
+
+(4) Az európai uniós forrásból nyújtott költségvetési támogatás esetén a támogató az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 142. §-ában meghatározott feltételek teljesülése esetén a Kbt. 6. § (1) bekezdés a)–h) pontja alapján ajánlatkérőnek minősülő kedvezményezettnek legfeljebb a keletkező fizetendő adó mértékéig támogatási előleget nyújthat.
+
+(5) A Szolidaritási programok keretében nyújtott költségvetési támogatások esetén támogatási előleg részletekben – de legfeljebb három részletben – nyújtható. A támogatási előleg első részletének legmagasabb mértéke a költségvetési támogatás összegének 37,5%-a, az ezt követő két további részlet legmagasabb mértéke a költségvetési támogatás összegének 25%-a, illetve 22,5%-a azzal, hogy a költségvetési támogatás fennmaradó része csak a korábban kifizetett támogatási előleggel való elszámolás után biztosítható. Költségvetési szerv részére a 15 millió forint alatti költségvetési támogatás teljes összege támogatási előlegként nyújtható.
+
+(6) A Belügyi alapok keretében nyújtott költségvetési támogatások esetén a támogatási előleg nem haladhatja a költségvetési támogatás 40%-át. A költségvetési támogatást teljesítésarányosan kell kifizetni, a költségvetési támogatás kifizetésének a támogatási előleggel való elszámolás hiánya nem akadálya.

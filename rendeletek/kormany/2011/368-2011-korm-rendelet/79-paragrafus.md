@@ -1,16 +1,11 @@
-## [Az Áht. 52. § (3) és (4) bekezdéséhez]
+## [Az Áht. 49. §-ához]
 
-79. § (1)[^194] A köztartozás fennállásáról és annak összegéről az állami adóhatóság a Kincstár, illetve a mezőgazdasági és vidékfejlesztési támogatási szerv elektronikus úton történő megkeresésére adatot szolgáltat. A (2) bekezdésben foglalt kivétellel az adatszolgáltatásban szereplő köztartozás, de legfeljebb a költségvetési támogatás kifizetésére irányuló átutalási megbízás összegét a Kincstár, illetve a mezőgazdasági és vidékfejlesztési támogatási szerv kedvezményezettenként és adónemenként – ha valamennyi köztartozásra nem biztosít fedezetet adónemenként, a fennálló köztartozás arányaiban – utalja át az állami adóhatóságnak. A kedvezményezettet a köztartozással csökkentett összeg illeti meg, a visszatartott költségvetési támogatásnak megfelelő összegű köztartozás az átutalással megfizetettnek minősül.
+79. § (1) Az Áht. 49. §-a szerinti lebonyolító szervvel a fejezetet irányító szerv megállapodást köt. A megállapodásban rögzíteni kell az e rendeletben foglalt kötelezettségek megtartását biztosító feltételeket, így különösen a feladat konkrét meghatározását, a felhasználás határidejét, valamint az elszámolással kapcsolatos szabályokat.
 
-(2)[^195] Ha az Áht. 52. § (4) bekezdése szerinti nem állami intézmény fenntartójának vagy az általa fenntartott intézménynek az állami adóhatóság adatszolgáltatása alapján köztartozása van, és a fenntartó előzetesen benyújtott kérelme alapján a fejezetet irányító szerv vezetője a Kincstárnak – legkésőbb a költségvetési támogatás fenntartó részére történő folyósításának jogszabályban meghatározott határidejének leteltét megelőző 5. napig – úgy nyilatkozik, hogy a köztartozás levonása a nem állami intézmény fenntartója vagy az általa fenntartott intézmény közfeladatai ellátását súlyosan veszélyeztetné, a költségvetési támogatást a Kincstár a köztartozás levonása nélkül utalja át a kedvezményezettnek. A köztartozással terhelt nem állami intézmény fenntartókról a Kincstár a költségvetési támogatás folyósítását követő három munkanapon belül értesíti a fejezetet irányító szerv vezetőjét.
+(2) A fejezetet irányító szerv a lebonyolítás céljából a lebonyolító szerv Kincstárnál vezetett lebonyolítási számlájára átutalja a megállapodásban meghatározott feladatok ellátásához szükséges összeget, amely felett a lebonyolító szerv rendelkezik. A lebonyolítási számla kizárólag a költségvetési támogatások kifizetésére vehető igénybe.
 
-(3) A Kincstár által végzett köztartozás-vizsgálathoz a költségvetési támogatások kifizetésére irányuló átutalási megbízásokon a Kincstár által meghatározott jelölést kell alkalmazni. Az átutalási megbízás ilyen esetben csoportos megbízásként nem nyújtható be.
+(3) A lebonyolítás céljából rendelkezésre bocsátott összeg felhasználására nézve elkülönített nyilvántartást kell előírni a lebonyolító szervnek.
 
-(4) A költségvetési támogatás visszatartásáról a Kincstár tájékoztatja a kedvezményezettet és a támogatót, illetve a mezőgazdasági és vidékfejlesztési támogatási szerv a kedvezményezettet. A visszatartás a kedvezményezett – a költségvetési támogatás megszerzése érdekében vállalt – kötelezettségeit nem érinti.
+(4) A lebonyolító szerv további lebonyolító szervet nem bízhat meg, a lebonyolítási számla feletti rendelkezési jogát nem ruházhatja át.
 
-(5) Ha a Kincstár által kiküldött tájékoztatás a kedvezményezett címének megváltozása vagy bármely más okból nem kézbesíthető, a Kincstár erről tájékoztatja a támogatót.
-
-(6) Az állami adóhatóság adatszolgáltatásának alapja a kedvezményezett adóazonosító száma, melyet a Kincstár, illetve a mezőgazdasági és vidékfejlesztési támogatási szerv megkeresése tartalmaz.
-
-[^194]: Az Ávr. 79. § (1) bekezdése az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
-[^195]: Az Ávr. 79. § (2) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
+(5) A feladat elvégzésének határidejét követően a lebonyolító szerv a lebonyolítás céljából rendelkezésére bocsátott összeggel elszámol. Az elszámolás során a lebonyolítási számla egyenlegét, továbbá a lebonyolítás céljából rendelkezésre bocsátott, nem rendeltetésszerűen felhasznált összeget vissza kell utalni a forrást biztosító fizetési számlára.

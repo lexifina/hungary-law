@@ -1,3 +1,6 @@
-## [Az Áht. 9. § (4) bekezdéséhez]
+## [Az Áht. 9/A. §-ához][^9]
 
-6. § Az Áht. 9. § (4) bekezdésében foglalt esetben utasításban vagy azon központi költségvetési szerv alapító okiratában, amely tekintetében a középirányító szerv az átruházott irányítói jogokat gyakorolja, meg kell határozni az egyes irányítói jogok gyakorlására jogosultat.
+6. §[^10] A fejezetet irányító szervet, a helyi önkormányzati költségvetési szerv irányító szervét és a nemzetiségi önkormányzati költségvetési szerv irányító szervét és annak vezetőjét az 1. melléklet határozza meg.
+
+[^9]: Az Ávr. 6. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^10]: Az Ávr. 6. §-a a 397/2014. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.

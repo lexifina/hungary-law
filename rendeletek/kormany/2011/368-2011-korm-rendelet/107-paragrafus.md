@@ -1,21 +1,3 @@
-107. § (1)[^272] A 105. és 106. § alkalmazásában jegybanki alapkamaton, ha a helyi önkormányzat visszafizetési kötelezettségének
+## [Az Áht. 57. § (5) bekezdéséhez]
 
-a) az igénybevétel évében tesz eleget, a megelőző év átlagos jegybanki alapkamatát,
-
-b) az igénybevétel évét követően tesz eleget, az igénybevétel éve átlagos jegybanki alapkamatát
-
-kell érteni.
-
-(2)[^273] A 105. § (1) bekezdése szerinti igénybevételi kamat összegét a Kincstár állapítja meg. Az igénybevételi kamat összegéről és annak kiszámítása módjáról, ha az igénybevételi kamat
-
-a)[^274] a helyi önkormányzat éves költségvetési beszámolójában szereplő adatok alapján keletkezik, az éves költségvetési beszámoló elkészítését követő tizenöt napon belül,
-
-b) az Áht. 60. §-a alapján folytatott felülvizsgálat során keletkezik vagy a felülvizsgálat következtében módosul az a) pont szerint keletkezett kamatösszeg, az Áht. 60. § (10) bekezdésében meghatározott határozatban vagy az Áht. 60. § (6) bekezdésében meghatározott felhívás elfogadását követő tizenöt napon belül
-
-értesíti a kamatfizetésre kötelezettet.
-
-(3) A kamatfizetésre kötelezett állapítja meg a 105. § (4) bekezdése és a 106. § (1) bekezdése szerinti kamat összegét, amelyet a Kincstár felülvizsgál. Ha a Kincstár a megállapított összeget vitatja, a kamatfizetésre kötelezettet felhívja a megállapított kamat módosítására.
-
-[^272]: Az Ávr. 107. § (1) bekezdés nyitó szövegrésze a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 12. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
-[^273]: Az Ávr. 107. § (2) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^274]: Az Ávr. 107. § (2) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
+107. § A helyi önkormányzat a számára megállapított támogatás módosítását, valamint az önkormányzati körön belüli és körön kívüli átadását a költségvetési év során legfeljebb két alkalommal a 105. §-ban meghatározott módon kezdeményezheti, a központi költségvetésről szóló törvényben foglaltak szerint. Ha a módosítás az államháztartás önkormányzati alrendszerén kívüli feladat, illetve intézmény átadásához kapcsolódik, a hiánytalan kérelmet a benyújtást vagy a hiánypótlás teljesítését követő öt napon belül a Kincstár a helyi önkormányzatokért felelős miniszternek megküldi.

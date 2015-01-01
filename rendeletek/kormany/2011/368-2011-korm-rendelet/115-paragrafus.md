@@ -1,31 +1,13 @@
-## [Az Áht. 60. § (10) bekezdéséhez]
+## [Az Áht. 60/A. § (3) és (4) bekezdéséhez]
 
-115. §[^303] Az Áht. 60. § (10) bekezdése szerinti határozatnak tartalmaznia kell
+115. § (1) Az Áht. 60/A. § (3) bekezdése szerinti részletfizetés iránti kérelem
 
-a) a rendelkező részben
+a) az éves költségvetési beszámolóban kimutatott visszafizetési kötelezettség esetén április 30-áig,
 
-aa)[^304] jogcímenként a helyi önkormányzatot megillető, és az általa visszafizetendő támogatások összegét,
+b) lemondás esetén a lemondás benyújtásával egyidejűleg, jogosulatlanul igénybe vett költségvetési támogatás visszafizetése esetén a 99. § (2) bekezdése szerinti határidőig,
 
-ab) a 105. § (1) bekezdése szerint fizetendő igénybevételi kamat összegét,
+c) az Áht. 59. §-a szerinti felülvizsgálat esetén a határozat jogerőre emelkedésétől számított tizenöt napon belül,
 
-ac) a 105. § (4) bekezdése szerinti fizetendő késedelmi kamat mértékét és napi összegét,
+terjeszthető elő.
 
-ad) a 106. § (1) bekezdése szerinti kamat mértékét és napi összegét,
-
-ae) az aa)–ad) alpontban meghatározott fizetési kötelezettségek teljesítésének határidejét,
-
-b) az indoklásban
-
-ba) jogcímenként a benyújtott elszámolás adataitól való eltéréseket,
-
-bb) jogcímenként a ba) alpont szerinti eltérés indokait,
-
-bc) az eltérés indokait,
-
-bd)[^305] a helyi önkormányzat jegyzőkönyvre tett észrevételeiről kialakított véleményt, az észrevételek esetleges el nem fogadásának indokait, és
-
-be) az igénybevételi kamat, kiegészítő kamat fizetésének jogalapját, az ab)–ae) alpont szerinti kamatok alapját.
-
-[^303]: Az Ávr. 115. § a 413/2012. (XII. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^304]: Az Ávr. 115. § a) pont aa) alpontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 11. pontja szerint módosított szöveg.
-[^305]: Az Ávr. 115. § b) pont bd) alpontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
+(2) Részletfizetés engedélyezése esetén a jogosulatlanul igénybe vett támogatási összegre vonatkozóan engedélyezett részleteket az utolsó részlet visszafizetés napjáig terheli késedelmi kamat.

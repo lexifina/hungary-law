@@ -1,11 +1,13 @@
-74. § (1) Pályázati úton nyújtott költségvetési támogatás esetén, ha
+74. § (1) A támogató a pályázati kiírásban meghatározott határidőn belül írásban tájékoztatja a pályázat benyújtóját a támogatási döntésről. A tájékoztatás tartalmazza a támogatási döntést, a pályázatban megjelöltnél alacsonyabb költségvetési támogatás biztosítása, a költségvetési támogatás feltételekhez kötése vagy elutasítása esetén ennek indokait, a kedvezményezett által teljesítendő feltételeket és annak határidejét, a támogatási szerződés megkötésére megállapított megfelelő – legfeljebb harminc napos – határidőre utalást és a kifogás benyújtásának lehetőségét és módját. Támogatói okirattal biztosított költségvetési támogatás esetén a tájékoztatás a támogatói okirat kiadásával valósul meg.
 
-a) a kedvezményezett a támogatási szerződés megkötésétől visszalép,
+(2) Támogatási szerződés alkalmazása esetén, ha a kedvezményezett mulasztásából a támogató által meghatározott határidőtől számított további harminc napon belül nem kerül sor a szerződéskötésre, a támogatási döntés hatályát veszti. Ha a kedvezményezett mulasztása a támogató megítélése szerint méltányolható okból származik, a szerződéskötésre az általa megállapított határidőt követő harminc napon belül az eredeti határidőnél nem hosszabb időtartamú új határidőt állapíthat meg.
 
-b) a támogatási döntés hatályát veszti, a támogató a támogatói okiratot visszavonja, vagy
+(3) Ha a támogató a támogatási szerződés megkötésének feltételéül közbeszerzési eljárás megindítását vagy más egyéb feltétel teljesítését írta elő, a támogatási szerződés hatálya e feltétel teljesítésével áll be.
 
-c) a felek a támogatási szerződést egyoldalúan vagy közös megegyezéssel felbontják, megszüntetik,
+(4) A támogató a támogatási döntés Áht. alapján közérdekből nyilvános adatait a támogatási döntést követő hét napon belül továbbítja a Kincstárnak. A támogató a Kincstárt hét napon belül értesíti, ha
 
-a támogató a felszabaduló összegig a szakmailag megfelelő pályázatok rangsorában a következő helyen álló pályázók részére lehetővé teheti a költségvetési támogatás igénybevételét.
+a) a Kincstár részére továbbított adatokban változás történik,
 
-(2) Ha a pályázók az (1) bekezdés szerinti eljárás során felkínált lehetőséggel élni kívánnak, a 68. § (4) bekezdése szerinti döntési listát az új kedvezményezettek tekintetében módosítani kell. A költségvetési támogatás biztosítására irányuló eljárás lefolytatása a továbbiakban az általános szabályok szerint történik.
+b) a támogatási döntés hatályát veszti, vagy
+
+c) a támogató a támogatói okirat kiadásáról, módosításáról, visszavonásáról, vagy a támogatási szerződés megkötéséről, módosításáról, felbontásáról, megszüntetéséről dönt.

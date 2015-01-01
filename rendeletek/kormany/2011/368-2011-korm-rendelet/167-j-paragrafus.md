@@ -8,7 +8,7 @@
 
 4. a törzskönyvi jogi személy államháztartási egyedi azonosító száma,
 
-5–6.[^425]
+5–6.[^340]
 
 7. az államháztartás központi alrendszerébe tartozó költségvetési szerv esetében annak fejezetrend szerinti besorolása;
 
@@ -36,4 +36,4 @@
 
 19. a költségvetési szerv módosításokkal egységes szerkezetbe foglalt alapító okirata vagy megszüntető okirata szkennelt formában.
 
-[^425]: Az Ávr. 167/J. § 5–6. pontját a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 23. pontja hatályon kívül helyezte.
+[^340]: Az Ávr. 167/J. § 5–6. pontját a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 23. pontja hatályon kívül helyezte.

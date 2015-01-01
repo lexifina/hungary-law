@@ -1,34 +1,23 @@
-## [Az Áht. 59. §-ához][^283]
+## [Az Áht. 60. §-ához]
 
-110. §[^284] (1) Az Áht. 59. § (1) és (2) bekezdése szerinti vizsgálat lefolytatására a 108. § (1)–(3) bekezdését és a 109. §-t az e §-ban foglalt eltérésekkel kell alkalmazni.
+110. § (1) Ha a felülvizsgálat keretében végezett hatósági ellenőrzés során a Kincstár jogosulatlan igénybevételt nem állapít meg, a hatósági ellenőrzést a Ket. 93. § (3) bekezdése szerinti egyszerűsített jegyzőkönyv felvételével és a helyi önkormányzatnak történő átadásával vagy megküldésével zárja le. Az egyszerűsített jegyzőkönyvre a 106. § (2) bekezdését alkalmazni kell.
 
-(2) A Kincstár az Áht. 59. § (1) bekezdése alapján a hiányok pótlására és módosításra – az igénylés feltételeit tartalmazó jogszabályban meghatározott igénylési rendhez igazodóan – legfeljebb nyolcnapos határidőt állapít meg. Ha a felhívás címzettje a hiánypótlásnak nem tesz eleget vagy azt nem megfelelően teljesíti, és emiatt a támogatási igény az elbírálásra jogosult szervnek nem továbbítható, a támogatási igény dokumentációját – egy másolati példány megtartásával – az ok megjelölésével a Kincstár visszaküldi a benyújtónak.
+(2) A felülvizsgálat keretében végzett hatósági ellenőrzés során megállapított jogosulatlan igénybevétel esetén az Áht. 60. §-a szerinti határozat tartalmazza
 
-(3) A hiánypótlásra történő felhívás tartalmazza
+a) a rendelkező részben
 
-a) a felhívással érintett költségvetési támogatással kapcsolatosan benyújtott támogatási igény adatait,
+aa) jogcímenként a helyi önkormányzatot megillető és az általa visszafizetendő támogatások összegét,
 
-b) a hiánypótlás teljesítésének határidejét,
+ab) a fizetendő ügyleti kamat összegét, késedelmi kamat mértékét és napi összegét,
 
-c) a hiányok, módosítandó adatok, dokumentumok megjelölésével a hiánypótlásra való felhívást,
+ac) az aa) és ab) alpontban meghatározott fizetési kötelezettségek teljesítésének határidejét,
 
-d) az eltérés indokait, és
+b) az indoklásban
 
-e) a felhívásban foglaltak elmulasztásának jogkövetkezményeiről szóló tájékoztatást.
+ba) jogcímenként a benyújtott elszámolás adataitól való eltéréseket,
 
-(4) A helyszíni ellenőrzésről készített jegyzőkönyv tartalmazza:
+bb) jogcímenként a ba) alpont szerinti eltérés indokait,
 
-a)[^285] az eljáró közigazgatási szerv nevét, a jegyzőkönyv készítésének helyét és idejét, a vizsgált helyi önkormányzat, költségvetési szerv nevét, székhelyét, a felülvizsgálat alapjául szolgáló dokumentumok felsorolását, az ügyre vonatkozó lényeges nyilatkozatokat és megállapításokat,
+bc) a helyi önkormányzat jegyzőkönyvre tett észrevételeiről kialakított véleményt, az észrevételek esetleges el nem fogadásának indokait, és
 
-b) a (3) bekezdés a) pontjában foglaltakat, illetve a megállapított költségvetési támogatás összegét,
-
-c)[^286] a Kincstár által szabályszerűnek tartott támogatási igényt, illetve költségvetési támogatás összegét, a helyi önkormányzat adataitól való eltérés indokait,
-
-d) az ellenőrök nevét, aláírását és
-
-e) – ha a helyszíni ellenőrzés befejezésével nem kerül sor a jegyzőkönyv átadására – a Kincstár illetékes vezetőjének aláírását.
-
-[^283]: Az Ávr. 110. § előtti alcím címe a 413/2012. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^284]: Az Ávr. 110. §-a a 307/2013. (VIII. 14.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^285]: Az Ávr. 110. § (4) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
-[^286]: Az Ávr. 110. § (4) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
+bd) az ügyleti kamat, késedelmi kamat fizetésének jogalapját, az a) pont ab) alpontja szerinti kamatok alapját.

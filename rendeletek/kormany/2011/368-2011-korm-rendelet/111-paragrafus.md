@@ -1,19 +1,15 @@
-111. §[^287] (1) Ha az Áht. 59. § (2) bekezdése szerinti ellenőrzésre helyszíni ellenőrzés keretében kerül sor, a Kincstár arról jegyzőkönyvet vesz fel, amelyet az ellenőrzés befejezésétől számított tizenöt napon belül átad vagy megküld az ellenőrzöttnek. A jegyzőkönyvre az átvételt követő tizenöt napon belül, írásban lehet észrevételt tenni.
+## [Az Áht. 60/A. § (2) bekezdéséhez]
 
-(2) A jegyzőkönyvnek a következőket kell tartalmaznia:
+111. § A visszafizetési kötelezettség, illetve a helyi önkormányzatot megillető pótlólagos támogatás átutalásra kerülő összegének megállapítása és teljesítése során
 
-a)[^288] az eljáró közigazgatási szerv nevét, a jegyzőkönyv készítésének helyét és idejét, a vizsgált helyi önkormányzat, költségvetési szerv nevét, székhelyét, a felülvizsgálat alapjául szolgáló dokumentumok felsorolását, az ügyre vonatkozó lényeges nyilatkozatokat és megállapításokat,
+a) a b)–d) pontban meghatározott kivétellel a támogatások egyenlegét,
 
-b) az ellenőrök és a Kincstár illetékes vezetőjének aláírását, és
+b) a pénzbeli szociális ellátások kiegészítése összegének egyenlegét,
 
-c)[^289] a 110. § (4) bekezdés b) pontjában foglaltakat.
+c) a könyvtári, közművelődési és múzeumi feladatok támogatása összegének egyenlegét,
 
-(3)[^290] Az ellenőrzöttnek a jegyzőkönyv megállapításaira tett észrevételeit részletesen, jogcímenként alá kell támasztania. A beérkezett észrevételek alapján a jegyzőkönyv megállapításait a Kincstár felülvizsgálja, és azokat szükség esetén határozatában módosítja.
+d) a települési önkormányzatok által fenntartott, illetve támogatott előadó-művészeti szervezetek támogatása összegének egyenlegét és
 
-(4)[^291] Ha a vizsgálatra kizárólag a helyszínen kerül sor, elegendő az Áht. 59. § (3) bekezdése szerinti határozatot meghozni, azzal, hogy a 110. § (4) bekezdésében meghatározottakon túl annak tartalmaznia kell a (2) bekezdésben foglaltakat.
+e) a költségvetési támogatások és a vis maior támogatások összegét jogcímenként
 
-[^287]: Az Ávr. 111. § előtti alcímet hatályon kívül helyezte és a 111. §-t megállapította a 413/2012. (XII. 29.) Korm. rendelet 27. §-a.
-[^288]: Az Ávr. 111. § (2) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
-[^289]: Az Ávr. 111. § (2) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 14. pontja szerint módosított szöveg.
-[^290]: Az Ávr. 111. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (2) bekezdés 2. pontja szerint módosított szöveg.
-[^291]: Az Ávr. 111. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (2) bekezdés 3. pontja szerint módosított szöveg.
+kell figyelembe venni.

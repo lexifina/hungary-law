@@ -1,15 +1,11 @@
-103. §[^244] (1)[^245] A társulás által ellátott feladatokhoz kapcsolódó, a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított támogatást az intézmény székhelye szerinti vagy a társulási megállapodásban meghatározott helyi önkormányzat igényelheti. A támogatással való elszámolás az igénylésre jogosult feladata.
+## VII. Fejezet[^179]
 
-(2)[^246] A központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított támogatások igénylése, a folyósítás évében, vis maior támogatás esetén az igénylés évében történő módosítása papír alapon és elektronikus úton történik a következők szerint:
+## A HELYI ÖNKORMÁNYZATOK ÁLTALÁNOS MŰKÖDÉSÉNEK ÉS ÁGAZATI FELADATAINAK TÁMOGATÁSA
 
-a)[^247] a helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások, továbbá a helyi önkormányzatokért felelős miniszter szabályozási jogkörébe tartozó költségvetési támogatások, a vis maior támogatás – az egyes jövedelempótló támogatások kiegészítése és a települési önkormányzatok muzeális intézményi feladatainak támogatása kivételével – igénylésére, igénylés évében történő módosítására a helyi önkormányzatokért felelős miniszter által – az államháztartásért felelős miniszterrel együttműködve, a Kincstár útján – kiadott információs rendszert,
+## [Az Áht. 57. § (1) és (2) bekezdéséhez]
 
-b)[^248] az a) pontban nem nevesített költségvetési támogatások és az egyes jövedelempótló támogatások kiegészítésének igénylésére, igénylés évében történő módosítására, a települési önkormányzatok muzeális intézményi feladatainak támogatása igénylésére a Kincstár által működtetett rendszert
+103. § (1) A központi költségvetésről szóló törvényjavaslat alapján a helyi önkormányzatok általános működéséhez és ágazati feladatainak ellátásához igényelhető, feladatmutatók szerint járó támogatásra (e Fejezet alkalmazásában a továbbiakban: támogatás) való jogosultság feltételeiről és az igénylés lebonyolításának rendjéről az államháztartásért felelős miniszter – a helyi önkormányzatokért felelős miniszterrel és az ágazati miniszterekkel együttműködve, a Kincstár útján – tájékoztatót tesz közzé.
 
-kell használni.
+(2) A helyi önkormányzat, társult feladatellátás esetében a társulás székhelye szerinti vagy a társulási megállapodásban meghatározott helyi önkormányzat a támogatás folyósításához szükséges, tájékoztatóban meghatározott adatokat a tájékoztatóban meghatározott határnapig közli a Kincstárral.
 
-[^244]: Az Ávr. 103. § a 413/2012. (XII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^245]: Az Ávr. 103. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja, a 153/2014. (VI. 18.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^246]: Az Ávr. 103. § (2) bekezdés nyitó szövegrésze a 307/2013. (VIII. 14.) Korm. rendelet 29. § 11. pontja, a 153/2014. (VI. 18.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^247]: Az Ávr. 103. § (2) bekezdés a) pontja a 307/2013. (VIII. 14.) Korm. rendelet 29. § 12. pontja, a 497/2013. (XII. 29.) Korm. rendelet 62. § (2) bekezdés 1. pontja, a 63. § (3) bekezdés 12. pontja szerint módosított szöveg.
-[^248]: Az Ávr. 103. § (2) bekezdés b) pontja a 307/2013. (VIII. 14.) Korm. rendelet 29. § 13. pontja szerint módosított szöveg.
+[^179]: Az Ávr. VII. fejezete (103–115. §) a 397/2014. (XII. 31.) Korm. rendelet 26. §-ával megállapított szöveg.

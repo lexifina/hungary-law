@@ -1,15 +1,11 @@
-## [Az Áht. 60. § (8) bekezdéséhez]
+114. § Az Áht. 60/A. § (2) bekezdése szerinti beszedési megbízást a Kincstár akkor nyújtja be, ha a helyi önkormányzat
 
-114. §[^300] (1)[^301] Az Áht. 60. § (8) bekezdése szerinti jegyzőkönyv tartalmazza
+a) a támogatások igénylés évében történő módosításához kapcsolódó fizetési kötelezettségét a központi költségvetésről szóló törvényben meghatározott határidő leteltét,
 
-a) a 109. § (2) bekezdés a) pontja szerinti adatokat,
+b) az Áht. 58. §-a szerinti
 
-b) a 112. § (6) bekezdés a)–c) pontja szerinti adatokat, valamint
+ba) elszámolásban megállapított fizetési kötelezettségét a 113. § (2) bekezdésében meghatározott határidő leteltét, vagy
 
-c) a jegyzőkönyvben foglaltak elmulasztásának jogkövetkezményeiről szóló tájékoztatást.
+bb) felülvizsgálat keretében megállapított fizetési kötelezettségét a határozat jogerőre emelkedését
 
-(2)[^302] A helyi önkormányzatnak az (1) bekezdés szerinti jegyzőkönyv megállapításaira tett észrevételeiben részletesen alá kell támasztania az általa érvényesíteni kívánt adatok jogszerűségét.
-
-[^300]: Az Ávr. 114. § a 413/2012. (XII. 29.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^301]: Az Ávr. 114. § (1) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^302]: Az Ávr. 114. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 15. pontja szerint módosított szöveg.
+követő kilencven napon belül nem teljesítette.

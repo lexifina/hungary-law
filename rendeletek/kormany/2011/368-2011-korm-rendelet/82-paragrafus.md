@@ -1,29 +1,41 @@
-## [Az Áht. 53. § (2) és (3) bekezdéséhez][^199]
+82. § (1) Nem felel meg a rendezett munkaügyi kapcsolatok követelményének az, akit
 
-82. § A támogató jogszabályban vagy a támogatói okiratban, támogatási szerződésben meghatározott egyéb esetek mellett jogosult a támogatási szerződéstől elállni, azt felmondani, támogatói okirat alkalmazása esetén a támogatás visszavonásáról rendelkezni, ha az alábbiakban foglalt feltételek közül legalább egy bekövetkezik:
+a) az Art. 16. § (4) bekezdés a) pontjában vagy 16. § (4a) bekezdésében, illetve az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 11. §-ában foglalt, a foglalkoztatásra irányuló jogviszony létesítésével összefüggő bejelentési kötelezettség elmulasztása,
 
-a) a jogszabályban vagy a támogatói okiratban, támogatási szerződésben meghatározott megvalósítási időszak kezdő időpontjától számított három hónapon – jogszabályban meghatározott esetben nyolc hónapon – belül a támogatott tevékenység nem kezdődik meg, vagy a kedvezményezett a költségvetési támogatás igénybevételét neki felróható okból nem kezdeményezi, és késedelmét ezen idő alatt írásban sem menti ki,
+b) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 34. §-ában meghatározott, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre (ideértve a gyermekmunka tilalmát is) vonatkozó rendelkezések megsértése,
 
-b) hitelt érdemlően bebizonyosodik, hogy a kedvezményezett a támogatási döntést érdemben befolyásoló valótlan, hamis adatot szolgáltatott a támogatási igény benyújtásakor,
+c) jogszabályban, kollektív szerződésben vagy a miniszter által az ágazatra, alágazatra kiterjesztett kollektív szerződésben megállapított munkabér mértékére és a kifizetés határidejére vonatkozó rendelkezések megsértése,
 
-c) a 76. § (1) bekezdésében meghatározott valamely körülmény a támogatási döntés meghozatalát követően következik be, vagy jut a támogató tudomására,
+d) a munkaerő-kölcsönzésre vonatkozó, az Mt. 215. § (1) bekezdésének a nyilvántartásba vétellel kapcsolatos szabályainak megsértése, vagy
 
-d) a támogatott tevékenység megvalósítása meghiúsul, tartós akadályba ütközik, vagy a jogszabályban, támogatói okiratban, támogatási szerződésben foglalt ütemezéshez képest jelentős késedelmet szenved,
+e) az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény (a továbbiakban: Ebktv.) alapján az egyenlő bánásmód követelményének megsértése
 
-e) a kedvezményezett neki felróható okból megszegi a jogszabályban vagy a támogatói okiratban, támogatási szerződésben foglalt kötelezettségeit, így különösen nem tesz eleget ellenőrzéstűrési kötelezettségének, és ennek következtében a költségvetési támogatás szabályszerű felhasználását nem lehet ellenőrizni,
+miatt hatóság, illetve bíróság a költségvetési támogatás igénylésének időpontját megelőző két éven belül – a korábbival azonos jogsértés elkövetése miatt – jogerős és végrehajtható bírsággal sújtott vagy a központi költségvetésbe történő befizetésre kötelezett.
 
-f) a kedvezményezett a 72. § alapján adott nyilatkozatok bármelyikét visszavonja,
+(2) Nem felel meg a rendezett munkaügyi kapcsolatok követelményének az, akit harmadik országbeli állampolgár munkavállalási engedély, vagy a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti keresőtevékenység folytatása céljából összevont engedélyezési eljárás keretében kiadott összevont engedély nélkül történő foglalkoztatása miatt hatóság, illetve bíróság a költségvetési támogatás igénylésének időpontját megelőző két éven belül jogerős és végrehajtható bírsággal sújtott vagy a központi költségvetésbe történő befizetésre kötelezett.
 
-g)[^200] a kedvezményezett a 80. § (6) bekezdése szerinti határidőig sem teljesítette vagy nem megfelelően teljesítette a részbeszámolási, beszámolási kötelezettségét,
+(3) Az (1) bekezdés alkalmazásában több telephellyel rendelkező munkáltató esetében a jogsértést megállapító közigazgatási határozat jogerőre emelkedésétől és végrehajthatóvá válásától számított két éven belül elkövetett ismételt jogsértésen az ugyanazon telephelyen kétéves időszakon belül jogerős és végrehajtható határozattal megállapított azonos jogsértést kell érteni.
 
-h)[^201] a biztosíték megszűnik, megsemmisül vagy értéke egyébként számottevően csökken, és a kedvezményezett megfelelő új biztosíték, vagy a biztosíték értéke csökkenésének megfelelő további biztosíték nyújtásáról a támogató által megszabott ésszerű határidőn belül nem intézkedik,
+(4) A rendezett munkaügyi kapcsolatok feltételei teljesülésének megállapítása alapjául a következő dokumentumok szolgálnak:
 
-i)[^202] a kedvezményezett a támogatott tevékenységhez szükséges hatósági engedéllyel nem rendelkezik, vagy
+a) az (1) bekezdés a)–d) pontjában és a (2) bekezdésben meghatározott feltételek tekintetében
 
-j)[^203] a kedvezményezett a 76. § (1a) bekezdése szerinti kötelezettségét a 72. § (2) bekezdés d) pont da) alpontja szerinti nyilatkozatában meghatározott határidőre nem teljesíti.
+aa) a munkaügyi hatóság és
 
-[^199]: Az Ávr. 82. §-át megelőző jogszabályi hivatkozás a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 30. pontja szerint módosított szöveg.
-[^200]: Az Ávr. 82. § g) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 31. pontja szerint módosított szöveg.
-[^201]: Az Ávr. 82. § h) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 32. pontja, a 153/2014. (VI. 18.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^202]: Az Ávr. 82. § i) pontját a 497/2013. (XII. 29.) Korm. rendelet 38. § (1) bekezdése iktatta be, szövege a 153/2014. (VI. 18.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^203]: Az Ávr. 82. § j) pontját a 153/2014. (VI. 18.) Korm. rendelet 3. §-a iktatta be.
+ab) a bányászatról szóló 1993. évi XLVIII. törvény hatálya alá tartozó munkáltató esetén a bányahatóság
+
+által a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény alapján nyilvánosságra hozott adatokat tartalmazó, továbbá
+
+b) az (1) bekezdés a) pontja tekintetében az állami adóhatóság által az Art. alapján nyilvánosságra hozott adatokat tartalmazó, és
+
+c) az (1) bekezdés e) pontjában meghatározott feltétel tekintetében az egyenlő bánásmód követelményének érvényesülését ellenőrző hatóság által az Ebktv. alapján vezetett nyilvántartásból nyilvánosságra hozott adatokat tartalmazó
+
+irat.
+
+(5) A (4) bekezdésben meghatározott dokumentumok helyett a rendezett munkaügyi kapcsolatok megállapításának alapjául
+
+a) a rendőrség esetében a rendészetért felelős miniszter, a büntetés-végrehajtási szervezet esetében a büntetés-végrehajtásért felelős miniszter, a hivatásos katasztrófavédelmi szerv esetében a katasztrófák elleni védekezésért felelős miniszter, a polgári nemzetbiztonsági szolgálatok esetében a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter,
+
+b) a honvédelmi szervezetek esetében a Honvédelmi Minisztérium Hatósági Hivatal
+
+által kiállított igazolás szolgál.

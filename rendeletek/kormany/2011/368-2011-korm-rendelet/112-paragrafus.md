@@ -1,30 +1,27 @@
-## [Az Áht. 60. § (1)–(6) bekezdéséhez]
+112. § (1) A helyi önkormányzat ügyleti kamatot fizet a jogosulatlanul igénybe vett támogatás teljes összege után, ha az igénybe vett támogatás legalább 3%-kal meghaladja a jogszerűen igénybe vehető támogatás mértékét. Az ügyleti kamat mértéke, ha
 
-112. §[^292] (1)[^293] Az Áht. 60. §-a szerinti felülvizsgálatot az Igazgatóság területére vonatkozó munkaterv alapján kell megszervezni. A munkatervet a következő négy évre vonatkozóan minden év december 31-ig kell elkészíteni. A munkatervnek tartalmaznia kell az Igazgatóság illetékességi területéhez tartozó valamennyi helyi önkormányzat elszámolásai helyszíni ellenőrzésének tervezett időpontját negyedéves ütemezés szerint, valamint a helyszíni vizsgálatba bevont főbb támogatások jogcímeit.
+a) a helyi önkormányzat a központi költségvetésről szóló törvényben meghatározott első időpontig lemond a támogatás jogosulatlanul igénybe vett részéről, a jegybanki alapkamat 50%-a,
 
-(2) Az Áht. 60. §-a szerinti felülvizsgálatot a Kincstár a felhívás Áht. 60. § (1) bekezdése szerinti határidőig történő kibocsátásával, vagy a helyszíni ellenőrzésről szóló értesítés ugyanezen határidőig történő megküldésével kezdi meg.
+b) a helyi önkormányzat a központi költségvetésről szóló törvényben meghatározott második időpontig lemond a támogatás jogosulatlanul igénybe vett részéről, a jegybanki alapkamat,
 
-(3)[^294] A felülvizsgálat során a Kincstár figyelembe veszi az Állami Számvevőszék ellenőrzése alapján készült jelentésben a tárgyévre és az azt megelőző, a Ptk. szerinti általános elévülési időn belüli évekre megállapított, az ellenőrzöttet megillető pótlólagos támogatásokat, illetve az ellenőrzött által jogosulatlanul igénybe vett és az Állami Számvevőszék megállapítására vissza nem fizetett támogatásokat is.
+c) a visszafizetési kötelezettség az éves költségvetési beszámolóban való elszámolás során keletkezik, illetve azt a Kincstár az Áht. 59. §-a szerinti felülvizsgálat során vagy az Állami Számvevőszék állapítja meg, a jegybanki alapkamat kétszerese.
 
-(4)[^295] Az Áht. 60. § (5) bekezdése szerinti helyszíni ellenőrzésről készített jegyzőkönyv a 109. § (2) bekezdése, illetve a 110. § (4) bekezdése szerinti adatokat tartalmazza.
+(2) A helyi önkormányzatok egymás közötti, illetve az államháztartás önkormányzati alrendszerén kívüli feladat-, illetve intézmény átadásához kapcsolódó lemondást kamatfizetési kötelezettség nem terheli.
 
-(5)[^296] A helyszíni ellenőrzésről készített jegyzőkönyv nem tartalmaz felhívást az elszámolás módosítására, annak megállapításait – a helyszíni ellenőrzés időpontjától függően – az Áht. 60. § (6) bekezdése szerinti felhívásban, (8) bekezdése szerinti jegyzőkönyvben vagy (10) bekezdése szerinti határozatban kell szerepeltetni.
+(3) Ha a jogosulatlanul igénybe vett támogatás összege nem haladja meg az ötszázezer forintot, az (1) bekezdés szerinti kamat 50%-át kell megfizetni.
 
-(6)[^297] Az Áht. 60. § (6) bekezdése szerinti felhívás tartalmazza
+(4) A helyi önkormányzat a 111. § a) és b) pontjában meghatározott egyenleggel kapcsolatban késedelmi kamatot fizet
 
-a) a 109. § (2) bekezdés b)–d) pontja szerinti adatokat, illetve a támogatások összegét,
+a) az éves költségvetési beszámolójában kimutatott visszafizetési kötelezettség összege után, ha azt a beszámoló Kincstárhoz történő benyújtási határidejének leteltét követő tizenöt napon belül nem teljesíti, és
 
-b) a 110. § (4) bekezdés b) és c) pontja szerinti adatokat,
+b) az Áht. 59. §-a szerinti felülvizsgálat során vagy az Állami Számvevőszék által megállapított visszafizetési kötelezettség összege után.
 
-c) az Állami Számvevőszék által a felhívás címzettje vonatkozásában megállapított, (3) bekezdés szerinti eltéréseket,
+(5) A késedelmi kamat fizetési kötelezettség kezdő napja az államháztartási számviteli kormányrendelet által az éves költségvetési beszámoló Kincstárhoz történő benyújtására előírt határidőt követő 16. nap, zárónapja a teljesítés napja. A késedelmi kamat mértéke a jegybanki alapkamat kétszerese. A késedelmi kamatot a helyi önkormányzat állapítja meg. Ha a Kincstár a megállapított késedelmi kamat összegét vitatja, a helyi önkormányzatot határozatban kötelezi késedelmi kamatkülönbözet megfizetésére.
 
-d) az elszámolás módosítására és annak határidejére vonatkozó felhívást, és
+(6) E § alkalmazásában jegybanki alapkamaton, ha a helyi önkormányzat visszafizetési kötelezettségének
 
-e) a felhívásban foglaltak elmulasztásának jogkövetkezményeiről szóló tájékoztatást.
+a) az igénybevétel évében tesz eleget, a megelőző év átlagos jegybanki alapkamatát,
 
-[^292]: Az Ávr. 112. § a 413/2012. (XII. 29.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^293]: Az Ávr. 112. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
-[^294]: Az Ávr. 112. § (3) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 29. § 17. pontja szerint módosított szöveg.
-[^295]: Az Ávr. 112. § (4) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^296]: Az Ávr. 112. § (5) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^297]: Az Ávr. 112. § (6) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 18. §-ával megállapított szöveg.
+b) az igénybevétel évét követően tesz eleget, az igénybevétel éve átlagos jegybanki alapkamatát
+
+kell érteni.

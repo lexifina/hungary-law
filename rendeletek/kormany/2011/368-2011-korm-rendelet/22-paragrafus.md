@@ -1,1 +1,3 @@
-22. § A központi költségvetés XLIII. fejezetébe sorolt központi kezelésű előirányzatok esetén a kezelő szerv a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) és a Magyar Fejlesztési Bank Zrt.
+22. §[^60]
+
+[^60]: Az Ávr. 22. §-át és az azt megelőző alcímet a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 8. pontja hatályon kívül helyezte.

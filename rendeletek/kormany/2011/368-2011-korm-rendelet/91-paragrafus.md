@@ -1,3 +1,1 @@
-91. §[^222]
-
-[^222]: Az Ávr. 91–100. §-át a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 17. pontja hatályon kívül helyezte.
+91. § A költségvetési támogatást, ha annak jogszabályban, támogatási szerződésben meghatározott feltételei fennállnak, a részbeszámoló, beszámoló elfogadásától számított negyvenöt, szállítói finanszírozás esetén harminc napon belül ki kell fizetni.

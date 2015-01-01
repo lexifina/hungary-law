@@ -1,34 +1,34 @@
-## [Az Áht. 8. § (4) bekezdéséhez]
+## [Az Áht. 8/A. § (1) bekezdéséhez][^7]
 
-5. § (1) Az alapító okirat tartalmazza a költségvetési szerv
+5. §[^8] (1) Az alapító okirat tartalmazza a költségvetési szerv
 
-a) nevét, székhelyét, esetleges telephelyeit,
+a) megnevezését magyar nyelven és idegen nyelven, továbbá rövidített nevét,
 
-b) az alapításáról rendelkező jogszabály teljes megjelölését, ha az alapításról jogszabály rendelkezett,
+b) székhelyét, telephelyeit,
 
-c)[^11] közfeladatát és szakmai alaptevékenységeit, továbbá ezek kormányzati funkció szerinti megjelölését, és főtevékenységének államháztartási szakágazati besorolását,
+c) alapításáról rendelkező jogszabály teljes megjelölését, ha az alapításról jogszabály rendelkezett,
 
-d) illetékességét, működési körét,
+d) irányító szervének vagy felügyeleti szervének megnevezését, székhelyét,
 
-e) irányító szervének nevét, székhelyét,
+e) illetékességét, működési területét,
 
-f)[^12]
+f) közfeladatát, alaptevékenységét, ezek kormányzati funkció szerinti megjelölését és főtevékenységének államháztartási szakágazati besorolását,
 
 g) vezetőjének megbízási rendjét, és
 
-h) a foglalkoztatottjaira vonatkozó foglalkoztatási jogviszonyok megjelölését.
+h) alkalmazásában álló személyek jogviszonyának megjelölését.
 
 (2) Az alapító okirat – az (1) bekezdésben foglaltakon túl – az alábbiak fennállása esetén tartalmazza a költségvetési szerv
 
 a) jogelődjének megnevezését, székhelyét,
 
-b) vállalkozási tevékenysége felső határát a módosított kiadási előirányzatok arányában, és
+b) vállalkozási tevékenysége felső határát a módosított kiadási előirányzatok arányában,
 
-c) megszűnésének időpontját vagy pontos feltételét, ha határozott időre vagy bizonyos feltétel bekövetkeztéig hozzák létre.
+c) megszűnésének időpontját vagy pontos feltételét, ha a költségvetési szerv határozott időre vagy bizonyos feltétel bekövetkeztéig jön létre.
 
-(3) Ha az alapítói jogok és az irányítási jogok gyakorlására jogosult személye eltér, az alapító okiratban mindkettőt meg kell jelölni. Ha a költségvetési szervnek felügyeleti szerve van, ezt kell felügyeleti szerv elnevezéssel megjelölni az alapító okiratban.
+(3) Ha az Áht. 9. § a) pontja szerinti hatáskörök gyakorlására jogosult és az irányító szerv személye nem azonos, az alapító okiratban mindkettőt meg kell jelölni.
 
-(4) Az alapító okirat módosítása esetén el kell készíteni és a módosító okirathoz csatolni az egységes szerkezetbe foglalt alapító okiratot is.
+(4) Az alapító okirat módosítása esetén el kell készíteni és a módosító okirathoz csatolni a módosításokkal egységes szerkezetbe foglalt alapító okiratot is.
 
-[^11]: Az Ávr. 5. § (1) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^12]: Az Ávr. 5. § (1) bekezdés f) pontját a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 3. pontja hatályon kívül helyezte.
+[^7]: Az Ávr. 5. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^8]: Az Ávr. 5. §-a a 397/2014. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.

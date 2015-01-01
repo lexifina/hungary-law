@@ -1,3 +1,5 @@
-92. §[^223]
+## [Az Áht. 53. §-ához]
 
-[^223]: Az Ávr. 91–100. §-át a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 17. pontja hatályon kívül helyezte.
+92. § (1) A kedvezményezett a támogatott tevékenységről és a támogatott tevékenység megvalósításával kapcsolatban felmerült valamennyi költségről a támogatási szerződésben rögzített határidőig készíti el az Áht. 53. §-a szerinti beszámolót. A támogatási szerződés az egyes finanszírozási időszakok lezárásaként részbeszámoló benyújtását írhatja elő.
+
+(2) A központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatások esetén az éves költségvetési beszámolóban a költségvetési évben nyújtott valamennyi költségvetési támogatásnak az éves költségvetési beszámoló által érintett időszakban felhasznált részéről a Kincstár által az Áht. 107. § (2) bekezdése alapján kiadott űrlap szerinti tartalommal kell beszámolni. Az ilyen tartalmú beszámolás nem érinti a kedvezményezett támogatási szerződésben előírt, e § szerinti beszámolási kötelezettségét. Az éves költségvetési beszámoló Kincstár általi felülvizsgálatára az Áht. 59–60/B. §-át kell alkalmazni.

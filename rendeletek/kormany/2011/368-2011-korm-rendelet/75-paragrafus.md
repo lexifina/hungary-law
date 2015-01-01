@@ -1,16 +1,47 @@
-## [Az Áht. 49. §-ához]
+## [Az Áht. 48/A. § (1) bekezdéséhez]
 
-75. § (1)[^168] Az Áht. 49. §-a szerinti lebonyolító szervvel a fejezetet irányító szerv megállapodást köt. A megállapodásban rögzíteni kell az e rendeletben foglalt kötelezettségek megtartását biztosító feltételeket, így különösen a feladat konkrét meghatározását, a felhasználás határidejét, valamint az elszámolással kapcsolatos szabályokat.
+75. § (1) A támogatási szerződés megkötéséhez a kedvezményezettnek be kell nyújtania a (2) bekezdés szerinti nyilatkozatokat, dokumentumokat. A nyilatkozatok, dokumentumok benyújtásának határideje a támogatói okirattal biztosított költségvetési támogatás esetén a támogatói okirat kiadásának, támogatási szerződéssel biztosított költségvetési támogatás esetén a támogatási szerződés megkötésének napja. Támogatási szerződés alkalmazása esetén nem szükséges a (2) bekezdés szerinti nyilatkozatok benyújtása, ha a kedvezményezett a nyilatkozatokat a támogatási szerződés szövegébe foglalva teszi meg.
 
-(2)[^169]
+(2) A kedvezményezettől írásbeli nyilatkozatot kell kérni arra vonatkozóan, hogy
 
-(3) A lebonyolítás céljából rendelkezésre bocsátott összeg felhasználására nézve elkülönített nyilvántartást kell előírni a lebonyolító szervnek.
+a) a támogatási igényben foglalt adatok, információk és dokumentumok teljeskörűek, valósak és hitelesek, valamint arra vonatkozóan, hogy az adott tárgyban támogatási igényt korábban vagy egyidejűleg mikor és hol nyújtott be,
 
-(4) A lebonyolítás céljából rendelkezésre bocsátott összeget a fejezetet irányító szerv Kincstárnál vezetett lebonyolítási számláján kell elkülöníteni, amely felett a lebonyolító szerv rendelkezik. A lebonyolítási számla kizárólag a költségvetési támogatások kifizetésére vehető igénybe.
+b) nem áll jogerős végzéssel elrendelt végelszámolás, felszámolás alatt, ellene jogerős végzéssel elrendelt csődeljárás vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárás nincs folyamatban,
 
-(5) A lebonyolító szerv további lebonyolító szervet nem bízhat meg, a lebonyolítási számla feletti rendelkezési jogát nem ruházhatja át.
+c) a saját forrás rendelkezésre áll,
 
-(6) A feladat elvégzésének határidejét követően a lebonyolító szerv a lebonyolítás céljából rendelkezésére bocsátott összeggel elszámol. Az elszámolás során a lebonyolítási számla egyenlegét, továbbá a lebonyolítás céljából rendelkezésre bocsátott, nem rendeltetésszerűen felhasznált összeget vissza kell utalni a forrást biztosító fizetési számlára.
+d) megfelel az Áht. 50. §-ában meghatározott követelményeknek, kivéve, ha erről a Kormány az Áht. 50. § (2) bekezdése szerint egyedi határozatban döntött,
 
-[^168]: Az Ávr. 75. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 34. §-ával megállapított szöveg.
-[^169]: Az Ávr. 75. § (2) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 12. pontja hatályon kívül helyezte.
+e) nem áll fenn harmadik személy irányában olyan kötelezettsége, amely a költségvetési támogatás céljának megvalósulását meghiúsíthatja,
+
+f) – a biztosítékmentesség kivételével – a támogató által előírt biztosítékokat rendelkezésre bocsátja legkésőbb a 85. § (3) bekezdésében meghatározott időpontig,
+
+g) a költségvetési támogatás tekintetében adólevonási joggal rendelkezik-e,
+
+h) ha a támogatott tevékenység hatósági engedélyhez kötött, annak megvalósításához szükséges hatósági engedélyekkel rendelkezik.
+
+(3) Az államháztartáson kívüli kedvezményezett a támogatási szerződés megkötéséhez vagy – ha a pályázati kiírás lehetővé teszi – legkésőbb a költségvetési támogatás folyósítását megelőzően a kedvezményezett a támogató rendelkezésére bocsátja
+
+a) a nevében aláírásra jogosult személy vagy személyek pénzügyi intézmény által igazolt, ügyvéd által ellenjegyzett vagy közjegyző által hitelesített aláírás mintáját és
+
+b) a létesítő okiratát vagy jogszabályban meghatározott nyilvántartásba vételét igazoló okiratát.
+
+(4) A (2) bekezdés c) pontja szerinti nyilatkozaton
+
+a) helyi önkormányzat, nemzetiségi önkormányzat, társulás esetén a képviselő-testületi, társulási tanácsi határozatot, vagy a képviselő-testület költségvetési rendeletbe, határozatba foglalt – a tartalék feletti rendelkezési jogot átruházó – felhatalmazása alapján a polgármester, nemzetiségi önkormányzat elnöke, illetve társulási tanács elnöke nyilatkozatát,
+
+b) költségvetési szerv esetén a költségvetési szerv vezetőjének nyilatkozatát,
+
+c) az a) és b) pont alá nem tartozó esetben – a pályázati kiírás szerint – a kedvezményezett nyilatkozatát vagy a saját forrás rendelkezésre állásának a számlavezető intézmény igazolásával, hitelszerződéssel, tagi kölcsönszerződéssel, magánkölcsönre vonatkozó szerződéssel, pénztári kiadási bizonylattal, engedményezési okirattal, tőkeemelésre vonatkozó igazolással, zárt végű pénzügyi lízingre vonatkozó szerződéssel, értékpapír banki igazolás másolatával vagy a pályázati kiírás által előírt egyéb okirattal való igazolását
+
+kell érteni.
+
+(5) A (2) és (3) bekezdés alapján benyújtott dokumentumok kiállításának dátuma nem lehet a támogatási igény benyújtásának napjától számított harminc napnál régebbi.
+
+(6) Költségvetési szerv, helyi önkormányzat, nemzetiségi önkormányzat, egyházi jogi személy, közalapítvány, illetve az állam 100%-os tulajdonában álló gazdálkodó szervezet támogatási igénye esetén – ideértve azt az esetet is, ha a támogató a gazdálkodó szervezet felett alapítói, tulajdonosi (tagsági, részvényesi) jogokat gyakorol – nem kell csatolni a (2) és (3) bekezdés szerinti olyan nyilatkozatokat, dokumentumokat, illetve nem kell a támogatási szerződésben megtenni azokat a nyilatkozatokat, amelyek olyan tények fennállását tanúsítják, amelyekről a támogatónak egyébként hivatalos tudomása van.
+
+(7) Külföldi kedvezményezett esetén – ha jogszabály másként nem rendelkezik – a (2) bekezdés d) és h) pontja a magyarországi munkaügyi kapcsolatok és forgalmi adó tekintetében alkalmazandóak, a (2) bekezdés b) pontjában meghatározott megszüntetésre irányuló eljárás a kedvezményezett személyes jogának szabályai alapján értelmezendő.
+
+(8) Ha a (2) és (3) bekezdés szerinti nyilatkozatokat, dokumentumokat a támogatási igényhez csatolták, és a nyilatkozat, dokumentum tartalma a befogadást követően további vizsgálatot nem igényel, azok ismételt benyújtása a támogatási szerződés megkötéséhez nem szükséges.
+
+(9) A támogató nem írhatja elő tulajdoni lap másolatának a támogatási igényhez történő csatolását. Szükség esetén a támogatási igény elbírálásához elektronikus tulajdoni lap másolatot kell felhasználni, amelynek költségét – ha jogszabály eltérően nem rendelkezik – a támogatási igény benyújtójának kell viselnie.

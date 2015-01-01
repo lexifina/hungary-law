@@ -1,6 +1,6 @@
-## [Az Áht. 78. § (4) bekezdéséhez][^317]
+## [Az Áht. 78. § (4) bekezdéséhez][^201]
 
-122/A. §[^318] (1) A Kincstár a Kincstári Egységes Számla terhére díj és kamat felszámítása nélkül megelőlegezheti
+122/A. §[^202] (1) A Kincstár a Kincstári Egységes Számla terhére díj és kamat felszámítása nélkül megelőlegezheti
 
 a) az agrártámogatások Európai Unió által finanszírozott része, valamint az Európai Unió részére történő cukorágazati hozzájárulás-fizetési kötelezettség teljesítéséhez szükséges forrás,
 
@@ -28,5 +28,5 @@ e) a Nemzeti Foglalkoztatási Alapból finanszírozott álláskeresési és kere
 
 f) a helyi önkormányzatokat a tárgyévet követő évben a nettó finanszírozás keretében megillető támogatások összegének 4%-át, amelyből levonásra kerül a tárgyév december 20-án fennálló lemondás miatti visszafizetési kötelezettség, forgótőke-visszapótlás és jogszabály alapján érvényesített egyéb levonási kötelezettség.
 
-[^317]: Az Ávr. 122/A. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^318]: Az Ávr. 122/A. §-át a 397/2014. (XII. 31.) Korm. rendelet 29. §-a iktatta be.
+[^201]: Az Ávr. 122/A. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^202]: Az Ávr. 122/A. §-át a 397/2014. (XII. 31.) Korm. rendelet 29. §-a iktatta be.

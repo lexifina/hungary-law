@@ -1,5 +1,3 @@
-## [Az Áht. 24. § (1) bekezdéséhez]
+26. §[^72]
 
-26. §[^64]
-
-[^64]: Az Ávr. 26. §-át a 260/2014. (X. 15.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^72]: Az Ávr. 26. §-át a 260/2014. (X. 15.) Korm. rendelet 11. §-a hatályon kívül helyezte.

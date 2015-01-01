@@ -1,9 +1,15 @@
-## [Az Áht. 54. §-ához]
+85. § (1) Ha jogszabály vagy a pályázati kiírás eltérően nem rendelkezik, biztosíték legfeljebb a költségvetési támogatás összegét elérő biztosítéki értékig kérhető. A 84. § (2) bekezdés a) pontja szerinti biztosíték kivételével a megvalósítást követő időszakra (a továbbiakban: fenntartási időszak)
 
-85. §[^215] (1) A támogatási igény jogosságát, a költségvetési támogatás és a saját forrás felhasználását a jogszabályban, pályázati kiírásban, támogatói okiratban, támogatási szerződésben meghatározott szervek ellenőrizhetik.
+a) a húszmillió forintot meghaladó, de ötvenmillió forintot meg nem haladó költségvetési támogatással megvalósuló fejlesztési célú költségvetési támogatás esetében biztosítékot nem kell nyújtani,
 
-(2) Az ellenőrzés során a kedvezményezettnek a Kincstár által működtetett monitoring rendszerben nyilvántartott adataihoz a költségvetési támogatás utalványozója, folyósítója, a XIX. Uniós fejlesztések fejezetből biztosított költségvetési támogatás esetén a közreműködő szervezet, ennek hiányában az irányító hatóság (a továbbiakban együtt: a támogatás folyósítója), az Állami Számvevőszék, a kormányzati ellenőrzési szerv, az európai támogatásokat ellenőrző szerv, az állami adóhatóság, a csekély összegű támogatások nyilvántartásában érintett szervek, valamint jogszabályban, pályázati kiírásban, támogatói okiratban, támogatási szerződésben meghatározott más jogosultak hozzáférhetnek.
+b) az ötvenmillió forintot meghaladó költségvetési támogatással megvalósuló fejlesztési célú költségvetési támogatások esetében a kifizetett költségvetési támogatás 50%-ának megfelelő mértékben kell biztosítékot nyújtani,
 
-(3) Az ellenőrzések lefolytatására a támogatási döntés meghozatalát, a támogatói okirat kiadását vagy a támogatási szerződés megkötését megelőzően, a költségvetési támogatás igénybevétele alatt, a támogatott tevékenység befejezésekor, illetve lezárásakor, valamint a beszámoló elfogadását követő öt évig kerülhet sor.
+c) annak a kedvezményezettnek, aki a támogatási szerződésben a fenntartási időszakra a pályázatban vállalt indikátorokat a támogatási szerződésben meghatározott határidőben teljesítette, és a projekt megvalósítása alatt az arra jogosult szerv a projekttel kapcsolatban szabálytalanságot nem állapított meg, a költségvetési támogatás 10%-ának megfelelő mértékű biztosítékot kell nyújtania.
 
-[^215]: Az Ávr. 85. §-a a 497/2013. (XII. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
+(2) Zálogjog biztosítékként történő alkalmazásánál első ranghelyű jelzálogjogot kell előírni. Második vagy további ranghelyre történő bejegyzés akkor fogadható el, ha a korábbi ranghelyű bejegyzések teljesítése esetén a vagyontárgy értéke még fedezetet nyújt a költségvetési támogatás összegére.
+
+(3) A kikötött biztosíték rendelkezésre állását legkésőbb a költségvetési támogatás folyósítását megelőzően kell biztosítani. A biztosítéknak a támogatási jogviszony alapján fennálló kötelezettségek megszűnéséig rendelkezésre kell állnia.
+
+(4) Ha az adott biztosíték a vonatkozó jogszabályok szerint valamely nyilvántartásba való bejegyzéssel jön létre, a bejegyzés a költségvetési támogatás folyósításának feltétele.
+
+(5) A kedvezményezett számára a biztosítékcserét lehetővé kell tenni, ha az új biztosíték végrehajthatósága, illetve az általa fedezett érték megfelel a biztosítékokra vonatkozó feltételeknek.

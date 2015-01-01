@@ -4,7 +4,7 @@
 
 ## [Az Áht. 13. § (2) bekezdéséhez]
 
-15. § (1)[^45] A központi költségvetési tervezésnek a legvalószínűbb makrogazdasági és költségvetési forgatókönyvön vagy egy annál óvatosabb forgatókönyvön kell alapulnia. A központi költségvetés fejezeteinek Áht. 13. § (2) bekezdése szerint tervezett kiadásait az Áht. 29. § (1) bekezdése alapján az adott fejezetre megállapított összes kiadás szerkezeti változásokkal és a szintrehozásokkal módosított összegeként kell megállapítani.
+15. § (1)[^46] A központi költségvetési tervezésnek a legvalószínűbb makrogazdasági és költségvetési forgatókönyvön vagy egy annál óvatosabb forgatókönyvön kell alapulnia. A központi költségvetés fejezeteinek Áht. 13. § (2) bekezdése szerint tervezett kiadásait az Áht. 29. § (1) bekezdése alapján az adott fejezetre megállapított összes kiadás szerkezeti változásokkal és a szintrehozásokkal módosított összegeként kell megállapítani.
 
 (2) Szerkezeti változásként kell szerepeltetni
 
@@ -16,7 +16,7 @@ d) a bevételi előirányzatok tartós változásait.
 
 (3) Szintrehozásként kell számításba venni a költségvetési évet megelőző évben nem teljes éven át ellátott, szerkezeti változásként beépült közfeladatok egész évi bevételi és kiadási előirányzatának megfelelő összegű kiegészítését.
 
-(4)[^46] A fejezetet irányító szervi jogállással bíró költségvetési szerv tervezett kiadásait az Áht. 13. § (2) bekezdése szerint tervezett kiadások között külön meg kell jelölni.
+(4)[^47] A fejezetet irányító szervi jogállással bíró költségvetési szerv tervezett kiadásait az Áht. 13. § (2) bekezdése szerint tervezett kiadások között külön meg kell jelölni.
 
-[^45]: Az Ávr. 15. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^46]: Az Ávr. 15. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^46]: Az Ávr. 15. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^47]: Az Ávr. 15. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 7. pontja szerint módosított szöveg.
