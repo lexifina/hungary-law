@@ -122,7 +122,9 @@ j) a telek ára,
 
 20.[^12] nem támogatott személy hiteladós: az e rendelet szerinti kamattámogatással érintett kölcsönszerződés olyan adóstársa, aki a támogatott személyek legalább egyikének a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti közeli hozzátartozója és a (7) bekezdés szerinti feltételeket teljesíti,
 
-21.[^13] igénylő: olyan támogatott személy, aki az e rendelet szerinti kamattámogatás igénybevétele iránt kérelmet nyújtott be a hitelintézethez, azonban a kamattámogatással érintett kölcsönszerződésének megkötésére még nem került sor.
+21.[^13] igénylő: olyan támogatott személy, aki az e rendelet szerinti kamattámogatás igénybevétele iránt kérelmet nyújtott be a hitelintézethez, azonban a kamattámogatással érintett kölcsönszerződésének megkötésére még nem került sor,
+
+22.[^14] lakás: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel.
 
 (3) Az e rendeletben meg nem határozott fogalmakat a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvényben, illetve az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben meghatározottak szerint kell értelmezni.
 
@@ -136,7 +138,7 @@ b) az a) pont hatálya alá nem tartozó esetekben a Magyar Államkincstár (a t
 
 (5) Nem minősül új lakás felépítésének meglévő épület, épületrész vagy építmény átalakítása.
 
-(6)[^14] Az e rendeletben meghatározott feltételekkel a központi költségvetésből kamattámogatást igényelhet:
+(6)[^15] Az e rendeletben meghatározott feltételekkel a központi költségvetésből kamattámogatást igényelhet:
 
 a) a magyar állampolgár,
 
@@ -148,7 +150,7 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 
 e) menekült vagy oltalmazott, ha a menedékjogról szóló törvényben foglaltak szerint menekült vagy oltalmazott jogállással rendelkezik.
 
-(7)[^15] Nem támogatott személy hiteladós az e rendelet szerinti kamattámogatással érintett kölcsönben adóstársként abban az esetben szerepelhet, ha teljes bizonyító erejű magánokiratban
+(7)[^16] Nem támogatott személy hiteladós az e rendelet szerinti kamattámogatással érintett kölcsönben adóstársként abban az esetben szerepelhet, ha teljes bizonyító erejű magánokiratban
 
 a) nyilatkozik és vállalja az 5. § (1) bekezdésben foglaltakat és
 
@@ -171,5 +173,6 @@ bb) az e rendelet szerinti kamattámogatásos kölcsönnel érintett lakásban l
 [^11]: A 1. § (2) bekezdés 19. pontját a 379/2012. (XII. 19.) Korm. rendelet 13. § (3) bekezdése iktatta be.
 [^12]: Az 1. § (2) bekezdés 20. pontját az 537/2013. (XII. 30.) Korm. rendelet 46. § (1) bekezdése iktatta be.
 [^13]: Az 1. § (2) bekezdés 21. pontját az 537/2013. (XII. 30.) Korm. rendelet 46. § (1) bekezdése iktatta be.
-[^14]: Az 1. § (6) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^15]: Az 1. § (7) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 46. § (2) bekezdése iktatta be.
+[^14]: Az 1. § (2) bekezdés 22. pontját a 331/2014. (XII. 18.) Korm. rendelet 10. §-a iktatta be.
+[^15]: Az 1. § (6) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^16]: Az 1. § (7) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 46. § (2) bekezdése iktatta be.

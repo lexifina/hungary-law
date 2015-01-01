@@ -25,3 +25,7 @@ b) lakás korszerűsítése esetén legfeljebb 5 millió forint
 lehet, azonban a kölcsönösszeg nem haladhatja meg az igénylő, annak házastársa, bejegyzett élettársa, élettársa, az eltartott gyermekek és családtagok együttes tulajdoni hányadával arányos építési költségeket (vételárat), korszerűsítési költséget.
 
 (3) A (2) bekezdés szerinti kölcsön kamatainak megfizetéséhez az állam – ha e rendelet eltérően nem rendelkezik – a kölcsön futamidejének lejártáig, de legfeljebb húsz évig nyújt támogatást.
+
+(4)[^30] A kamattámogatott kölcsönnel érintett lakást a kölcsön kamattámogatással érintett összegének erejéig, a (3) bekezdés szerinti időtartamra, a kamattámogatással érintett kölcsönszerződés alapján a hitelintézet javára jelzálogjog, valamint annak biztosítására elidegenítési és terhelési tilalom terheli.
+
+[^30]: A 4. § (4) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 12. §-a iktatta be.

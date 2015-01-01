@@ -4,7 +4,7 @@
 
 (2) A támogatásra való jogosultságot a kérelem benyújtásakor fennálló körülmények alapján kell megállapítani.
 
-(3)[^28] A kamattámogatásra való jogosultság megállapítását és mértékének meghatározását új lakás vásárlása esetén a lakásra vonatkozó adásvételi szerződés megkötését követő 120 napon belül, építés esetén a végleges használatbavételi engedély kiadása vagy a használatbavétel tudomásulvétele előtt, korszerűsítés esetén a hitelcél megvalósulása előtt kell kérni a hitelintézettől.
+(3)[^33] A kamattámogatásra való jogosultság megállapítását és mértékének meghatározását új lakás vásárlása esetén a lakásra vonatkozó adásvételi szerződés megkötését követő 120 napon belül, építés esetén a végleges használatbavételi engedély kiadása vagy a használatbavétel tudomásulvétele előtt, korszerűsítés esetén a hitelcél megvalósulása előtt kell kérni a hitelintézettől.
 
 (4) Ha a kérelmező a (3) bekezdésben említett időpontig nem élt a kamattámogatás igénylésének lehetőségével, erre később már nem tarthat igényt.
 
@@ -28,9 +28,11 @@ h) a bejelentett lakóhelyet a lakcímet igazoló hatósági igazolvánnyal, a b
 
 i) a személyazonosságot személyazonosító igazolvánnyal vagy érvényes úti okmánnyal,
 
-j)[^29] a 2. § (2) bekezdés c) pontjában foglaltakat az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatával,
+j)[^34] a 2. § (2) bekezdés c) pontjában foglaltakat az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatával,
 
-k)[^30] saját és gyermeke adóazonosító jelét adóigazolvánnyal.
+k)[^35] saját és gyermeke adóazonosító jelét adóigazolvánnyal,
+
+l)[^36] több lakásból álló, osztatlan közös tulajdon esetén, amennyiben az ingatlan-nyilvántartásból a kamattámogatott kölcsönnel érintett lakásra vonatkozóan a támogatott személy tulajdonszerzésének mértéke nem állapítható meg, közokiratba vagy ügyvéd által ellenjegyzett magánokiratba foglalt használati megosztási megállapodással.
 
 (6) Az 5. § (4) bekezdés szerinti gyermekszám-növekedésről
 
@@ -40,19 +42,20 @@ b) az adós a személyazonosító igazolvány vagy a születési anyakönyvi kiv
 
 ## a folyósító hitelintézetet.
 
-(7)[^31] Ha
+(7)[^37] Ha
 
 a) a kamattámogatások igénybevételének alapját képező építési munkák a szerződésben meghatározott, legfeljebb három évben – vagy ezt indokolt esetben két évvel meghosszabbított időtartamban – megszabott meghatározott határidőig nem készülnek el,
 
 b) az építtető az építési szándékától elállt,
 
-c)[^32] a használatbavételi engedély megszerzése vagy a használatbavétel tudomásulvétele előtt a szerződés teljesítése más, az építtetőnek felróható okból hiúsul meg, vagy
+c)[^38] a használatbavételi engedély megszerzése vagy a használatbavétel tudomásulvétele előtt a szerződés teljesítése más, az építtetőnek felróható okból hiúsul meg, vagy
 
-d)[^33] a használatbavételi engedély megszerzése vagy a használatbavétel tudomásulvétele előtt az építtető e rendelet szerint támogatott és már igénybe vett kölcsönt visszafizeti,
+d)[^39] a használatbavételi engedély megszerzése vagy a használatbavétel tudomásulvétele előtt az építtető e rendelet szerint támogatott és már igénybe vett kölcsönt visszafizeti,
 
-[^28]: A 6. § (3) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 17. § c) pontja, a 128/2013. (IV. 30.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
-[^29]: A 6. § (5) bekezdés j) pontját a 379/2012. (XII. 19.) Korm. rendelet 15. §-a iktatta be.
-[^30]: A 6. § (5) bekezdés k) pontját az 537/2013. (XII. 30.) Korm. rendelet 47. §-a iktatta be.
-[^31]: A 6. § (7) bekezdés záró szövegrésze a 80/2014. (III. 14.) Korm. rendelet 21. §-a szerint módosított szöveg.
-[^32]: A 6. § (7) bekezdés c) pontja a 128/2013. (IV. 30.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
-[^33]: A 6. § (7) bekezdés d) pontja a 128/2013. (IV. 30.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^33]: A 6. § (3) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 17. § c) pontja, a 128/2013. (IV. 30.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^34]: A 6. § (5) bekezdés j) pontját a 379/2012. (XII. 19.) Korm. rendelet 15. §-a iktatta be.
+[^35]: A 6. § (5) bekezdés k) pontját az 537/2013. (XII. 30.) Korm. rendelet 47. §-a iktatta be.
+[^36]: A 6. § (5) bekezdés l) pontját a 331/2014. (XII. 18.) Korm. rendelet 13. §-a iktatta be.
+[^37]: A 6. § (7) bekezdés záró szövegrésze a 80/2014. (III. 14.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^38]: A 6. § (7) bekezdés c) pontja a 128/2013. (IV. 30.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^39]: A 6. § (7) bekezdés d) pontja a 128/2013. (IV. 30.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
