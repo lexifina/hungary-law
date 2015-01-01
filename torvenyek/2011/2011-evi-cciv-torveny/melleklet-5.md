@@ -12,7 +12,7 @@
 
 ## d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra vonatkozó adatai,
 
-## e) terhességi-gyermekágyi segély folyósításának időtartamára vonatkozó adatai,
+## e) csecsemőgondozási díj folyósításának időtartamára vonatkozó adatai,
 
 ## f) gyermekgondozási segély folyósításának időtartamára vonatkozó adatai,
 
@@ -70,7 +70,7 @@
 
 ## c) a kincstár a gyermekgondozási segélynek a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
 
-## d) az egészségbiztosítási szerv a terhességi-gyermekágyi segélynek és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
+## d) az egészségbiztosítási szerv a csecsemőgondozási díjnak és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
 
 ## e) a felsőoktatási információs rendszer működéséért felelős szerv a (volt) magyar állami ösztöndíjas hallgató természetes személyazonosító adataira, adóazonosító jelére, társadalombiztosítási azonosító jelére, elektronikus levelezési címére, felsőoktatási képzésére, a hallgatói jogviszonyára, a jelentkező természetes személyazonosító adataira, felsőoktatási képzésére, lakcímére,
 

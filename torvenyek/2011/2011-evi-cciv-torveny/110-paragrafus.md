@@ -6,7 +6,7 @@
 
 2. a ciklusokra bontott, osztott és az osztatlan képzések szerkezetét,
 
-3. a felsőoktatási intézmény, valamint az egyházi fenntartó vagy alapítvány által fenntartott diákotthonok minimális, létesítési és működési feltételeit, az alapítással kapcsolatos eljárás rendjét és díját, a gyakorló köznevelési intézmény, a nem Magyarország területén folytatott székhelyen kívüli képzés létesítésének feltételeit
+3. a felsőoktatási intézmény, valamint a diákotthon minimális, létesítési és működési feltételeit, az alapítással kapcsolatos eljárás rendjét, a gyakorló köznevelési intézmény, a nem Magyarország területén folytatott székhelyen kívüli képzés létesítésének feltételeit
 
 4. a képesítési keretet, a doktori képzés szabályait,
 
@@ -26,7 +26,7 @@ b) a doktori iskola létesítésének eljárási rendjét és feltételeit, a do
 
 a) hátrányos helyzetű hallgatói (jelentkezői) csoport,
 
-b) gyermekük gondozása céljából fizetés nélküli szabadságon lévők, terhességi-gyermekágyi segélyben, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesülők,
+b) gyermekük gondozása céljából fizetés nélküli szabadságon lévők, csecsemőgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesülők,
 
 c) fogyatékossággal élő jelentkezők csoportjához tartozók,
 

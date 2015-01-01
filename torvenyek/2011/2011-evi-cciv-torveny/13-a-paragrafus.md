@@ -12,7 +12,7 @@ d) gyakorolja az intézmények részvételével működő gazdasági társaságo
 
 e) a 13. § (2) bekezdésében meghatározott kivétellel munkáltatói jogot gyakorol a felsőoktatási intézményben foglalkoztatott alkalmazottak felett, gondoskodik a jogszabályoknak megfelelő pénzügyi-szakmai kompetencia biztosításáról,
 
-f) gondoskodik a gazdasági vezetői feladatok ellátásáról,
+f) gondoskodik a gazdasági vezetői feladatok ellátásáról, megbízza a gazdasági vezetőt, visszavonja a gazdasági vezető megbízását,
 
 g) feladatai ellátása során a rektor tekintetében fennálló együttműködési kötelezettségének köteles eleget tenni.
 

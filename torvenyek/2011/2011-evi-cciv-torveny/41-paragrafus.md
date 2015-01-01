@@ -2,7 +2,7 @@
 
 a) hátrányos helyzetű hallgatói csoport,
 
-b) gyermekük gondozása céljából fizetés nélküli szabadságon lévők, terhességi-gyermekágyi segélyben, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesülők,
+b) gyermekük gondozása céljából fizetés nélküli szabadságon lévők, csecsemőgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesülők,
 
 c) fogyatékossággal élő jelentkezők csoportjához tartozók,
 

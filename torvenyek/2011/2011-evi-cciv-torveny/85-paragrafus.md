@@ -4,4 +4,4 @@
 
 (2) Az ösztöndíj odaítélésének, feltételeinek rendjét a Kormány határozza meg.
 
-(3) Gyakorlatigényes szaknak minősül a Kormány által a többciklusú képzés rendjét, a képzés indításának eljárását meghatározó jogszabályban megjelölt – képzési és kimeneti követelményei alapján legalább hat hétig tartó szakmai gyakorlatot is tartalmazó – szak.
+(3) Gyakorlatigényes szaknak minősül a jogszabályban meghatározott képzési és kimeneti követelményei alapján legalább hat hétig tartó szakmai gyakorlatot is tartalmazó szak.
