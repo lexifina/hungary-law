@@ -4,7 +4,7 @@
 
 ## ELOSZTÁSI DÍJRENDSZER
 
-24. § (1)[^77] A földgázelosztási díj részeként
+24. § (1)[^79] A földgázelosztási díj részeként
 
 a) elosztási átalánydíjat,
 
@@ -18,7 +18,7 @@ e) elosztási átszállítási díjat
 
 ## kell fizetni a földgázelosztó részére.
 
-(2)[^78] A földgázelosztási díj nyújt fedezetet az elosztóvezeték indokolt értékcsökkenésére, működési és tőkeköltségére.
+(2)[^80] A földgázelosztási díj nyújt fedezetet az elosztóvezeték indokolt értékcsökkenésére, működési és tőkeköltségére.
 
 (3) A földgázelosztási díj és alkalmazási feltételei belföldi földgázforgalom esetén a 2. § (1) bekezdés a) pont ab) alpontja szerinti átadási-átvételi pontra vonatkoznak.
 
@@ -26,7 +26,7 @@ e) elosztási átszállítási díjat
 
 (5) Ha egy átadási-átvételi pont több elosztóvezetéken keresztül látható el, az átadási-átvételi pont után kapott földgázelosztási díj megosztása vonatkozásában az elosztóvezeték-tulajdonosok megállapodása az irányadó.
 
-(6)[^79] Az elosztóvezeték igénybevétele esetén a földgázelosztó részére a földgázelosztási díjat
+(6)[^81] Az elosztóvezeték igénybevétele esetén a földgázelosztó részére a földgázelosztási díjat
 
 a) a földgázkereskedő,
 
@@ -42,9 +42,9 @@ d) a földgáztermelő
 
 (8) Az elosztási díjrendszer díjtételeit – felhasználói kategóriánként – a 2. melléklet III.1. és IV.1. pontja és az 1. melléklet, áralkalmazási feltételeit a 25–37. §, az újonnan beépíthető gázmérők meghatározását a 4. melléklet tartalmazza.
 
-(9)[^80] Ha a földgázelosztó 2011. december 1-jéig nem kezdte meg elosztóvezeték üzemeltetését, és olyan vezetéket fog üzemeltetni, amelyet korábban másik földgázelosztó üzemeltetett, akkor a rá vonatkozó elosztási díj a következő árszabályozási ciklus kezdetéig a korábbi földgázelosztóra vonatkozó eszköz- és költség-felülvizsgálat, valamint árkorrekció figyelembevételével kerül meghatározásra.
+(9)[^82] Ha a földgázelosztó 2011. december 1-jéig nem kezdte meg elosztóvezeték üzemeltetését, és olyan vezetéket fog üzemeltetni, amelyet korábban másik földgázelosztó üzemeltetett, akkor a rá vonatkozó elosztási díj a következő árszabályozási ciklus kezdetéig a korábbi földgázelosztóra vonatkozó eszköz- és költség-felülvizsgálat, valamint árkorrekció figyelembevételével kerül meghatározásra.
 
-[^77]: A 24. § (1) bekezdés záró szövegrésze a 6/2013. (XII. 16.) MEKH rendelet 25. § j) pontja szerint módosított szöveg.
-[^78]: A 24. § (2) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 28. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^79]: A 24. § (6) bekezdés nyitó szövegrésze a 6/2013. (XII. 16.) MEKH rendelet 25. § j) pontja szerint módosított szöveg.
-[^80]: A 24. § (9) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § j) pontja szerint módosított szöveg.
+[^79]: A 24. § (1) bekezdés záró szövegrésze a 6/2013. (XII. 16.) MEKH rendelet 25. § j) pontja szerint módosított szöveg.
+[^80]: A 24. § (2) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 28. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^81]: A 24. § (6) bekezdés nyitó szövegrésze a 6/2013. (XII. 16.) MEKH rendelet 25. § j) pontja szerint módosított szöveg.
+[^82]: A 24. § (9) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § j) pontja szerint módosított szöveg.

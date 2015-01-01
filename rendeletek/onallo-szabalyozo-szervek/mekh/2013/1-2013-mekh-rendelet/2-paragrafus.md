@@ -62,7 +62,7 @@ d) betárolási időszak: a földgáztárolói engedélyes által a honlapján k
 
 e) betárolási kapacitás: szerződésben rögzített, a tárolási kapacitást lekötő számára a gáznapon maximálisan betárolható hőmennyiség (MJ),
 
-f)[^14] elosztási alapdíj: az a díj, amelyet a 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználót és a 20 m3/h vagy 20 m3/h-nál nagyobb névleges (össz)kapacitású gázmérővel rendelkező felhasználót ellátó földgázkereskedőnek, az egyetemes szolgáltatónak, illetve a 20–100 m3/h névleges (össz)kapacitású gázmérővel rendelkező, kapacitás-lekötést nem igénylő felhasználót ellátó földgázkereskedőnek, és az ilyen gázmérővel rendelkező rendszerhasználóként eljáró felhasználónak a szerződési időszakra vonatkozóan kell fizetnie,
+f)[^14] elosztási alapdíj: az a díj, amelyet a 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználót és a 20 m3/h vagy 20 m3/h-nál nagyobb névleges (össz)kapacitású gázmérővel rendelkező felhasználót ellátó földgázkereskedőnek, az egyetemes szolgáltatónak, illetve a 20–100 m3/h névleges (össz)kapacitású gázmérővel rendelkező felhasználót ellátó földgázkereskedőnek, és az ilyen 100 m3/h névleges kapacitású gázmérővel rendelkező és 2015. január 31-ig a kapacitás-lekötési szándékát be nem jelentő rendszerhasználóként eljáró felhasználónak a szerződési időszakra vonatkozóan kell fizetnie,
 
 g) elosztási átalánydíj: az a díj, amelyet a gázmérővel nem rendelkező rendszerhasználóként eljáró felhasználónak, és a gázmérővel nem rendelkező felhasználót ellátó földgázkereskedőnek és az egyetemes szolgáltatónak a szerződési időszakra vonatkozóan az elosztóvezeték használatáért az 1. melléklet szerinti földgáz hőmennyisége (MJ) alapján kell fizetnie,
 
@@ -149,7 +149,7 @@ zs)[^23] utólagos kapacitásdíj: az a díj, amelyet a 9. § (4) bekezdés a)�
 [^11]: A 2. § (1) bekezdés a) pont aa) alpont aal) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^12]: A 2. § (1) bekezdés a) pont aa) alpont aam) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^13]: A 2. § (1) bekezdés b) pontját a 8/2014. (IX. 15.) MEKH rendelet 15. § a) pontja hatályon kívül helyezte.
-[^14]: A 2. § (1) bekezdés f) pontja a 8/2014. (IX. 15.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^14]: A 2. § (1) bekezdés f) pontja a 12/2014. (XII. 13.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^15]: A 2. § (1) bekezdés gy) pontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (5) bekezdésével megállapított szöveg.
 [^16]: A 2. § (1) bekezdés ny) pontját a 6/2013. (XII. 16.) MEKH rendelet 2. § (6) bekezdése iktatta be, szövege a 8/2014. (IX. 15.) MEKH rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^17]: A 2. § (1) bekezdés o) pontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (7) bekezdésével megállapított szöveg.
