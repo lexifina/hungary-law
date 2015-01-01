@@ -1,4 +1,4 @@
-5. § (1)[^6] Az ÁRMB a kérelem beérkezésétől számított 8 napon belül felhívja a kérelmezőt az elbíráláshoz szükséges, a rendelet 1., illetve 2. számú mellékletében szereplő adatok szolgáltatására. A kérelmező az adatszolgáltatást elektronikus úton, a Hivatal honlapján biztosított internetes felületen teljesíti. Az adatszolgáltatás teljesítésére nyitva álló határidő 30 nap.
+5. § (1)[^6] Az ÁRMB a kérelem beérkezésétől számított 8 napon belül felhívja a kérelmezőt az elbíráláshoz szükséges, a rendelet 1., illetve 2. számú mellékletében szereplő adatok szolgáltatására. A kérelmező az adatszolgáltatást elektronikus úton, a Minisztérium honlapján biztosított internetes felületen teljesíti. Az adatszolgáltatás teljesítésére nyitva álló határidő 30 nap.
 
 (2) Az elektronikus úton történő adatszolgáltatás érdekében az ÁRMB az adatszolgáltatásra kötelezettet elektronikusan, az internetes felület felhasználására jogosító, 8 számjegyből álló, véletlenszerűen generált belépési azonosító kóddal látja el. Koalíció esetén az abban részt vevő minden érdekképviselet részére külön kódot kell biztosítani, az elektronikus adatszolgáltatást a koalícióban részt vevő minden érdekképviselet külön teljesíti.
 
@@ -40,7 +40,7 @@ d) költségvetési szervként működő szociális foglalkoztatókról a szoci�
 
 e)[^9] az üzemi tanács választáson elért eredményekkel kapcsolatos adatokat az üzemi tanács választási eredményeket nyilvántartó szervtől.
 
-[^6]: Az 5. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 18. § (4) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 18. § (4) bekezdésével megállapított, az 55/2014. (XII. 31.) NGM rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^7]: Az 5. § (5) bekezdés a) pontja a 17/2012. (VII. 5.) NGM rendelet 5. § (14) bekezdés a) pontja szerint módosított szöveg.
 [^8]: Az 5. § (5) bekezdés c) pontját a 3/2012. (II. 10.) NGM rendelet 18. § (7) bekezdése hatályon kívül helyezte, újonnan a 17/2012. (VII. 5.) NGM rendelet 5. § (3) bekezdése iktatta be.
 [^9]: Az 5. § (8) bekezdés e) pontját a 17/2012. (VII. 5.) NGM rendelet 5. § (4) bekezdse iktatta be.

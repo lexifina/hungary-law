@@ -6,7 +6,7 @@ b) az Ágazati Részvételt Megállapító Bizottságra (a továbbiakban: ÁRMB)
 
 c) a társadalmi párbeszédért felelős miniszterre (a továbbiakban: miniszter)
 
-d)[^1] a Nemzeti Munkaügyi Hivatalra (a továbbiakban: Hivatal)
+d)[^1]
 
 kell alkalmazni.
 
@@ -24,5 +24,5 @@ tekintetében kiterjed az ágazatban működő munkáltatói és munkavállalói
 
 (5) Ahol e rendelet ÁPB-t említ, azon RPB-t is érteni kell.
 
-[^1]: A 2. § (1) bekezdés d) pontját a 3/2012. (II. 10.) NGM rendelet 18. § (1) bekezdése iktatta be.
+[^1]: A 2. § (1) bekezdés d) pontját a 3/2012. (II. 10.) NGM rendelet 18. § (1) bekezdése iktatta be, hatályon kívül helyezte az 55/2014. (XII. 31.) NGM rendelet 9. § (3) bekezdés a) pontja.
 [^2]: A 2. § (4) bekezdése a 17/2012. (VII. 5.) NGM rendelet 5. § (1) bekezdésével megállapított szöveg.
