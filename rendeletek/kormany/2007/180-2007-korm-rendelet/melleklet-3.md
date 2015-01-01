@@ -44,7 +44,7 @@
 
 |  | D-kód / R-kód (1): |
 
-|  | 15. Exportáló/bejelentő - származási hely/termelő (4) nyilatkozata: Igazolom, hogy a fenti adatok hiánytalanok és legjobb tudásom szerint megfelelnek a valóságnak. Továbbá igazolom, hogy jogilag végrehajtható, szerződésben foglalt kötelezettségek és megfelelő biztosítás vagy egyéb pénzügyi garanciák vannak, illetve lesznek érvényben az országhatárokon át történő szállítások fedezésére és az érintett országok illetékes hatóságainak összes szükséges hozzájárulásával rendelkezem. |
+|  | 15. Exportáló/bejelentő – származási hely/hulladéktermelő (4) nyilatkozata Igazolom, hogy a fenti adatok hiánytalanok és legjobb tudásom szerint megfelelnek a valóságnak. Továbbá igazolom, hogy jogilag végrehajtható, szerződésben foglalt kötelezettségek és megfelelő biztosítás vagy egyéb pénzügyi garanciák vannak, illetve lesznek érvényben az országhatárokon át történő szállítások fedezésére és az érintett országok illetékes hatóságainak összes szükséges hozzájárulásával rendelkezem. |
 
 |  | Név: |  | Aláírás: |
 
@@ -240,7 +240,7 @@
 
 ## Further information, in particular related to waste identification (block 14), i.e. on Basel Annexes VIII and IX codes, OECD codes and Y-codes, can be found in a Guidance/Instruction Manual available from the OECD and the Secretariat of the Basel Convention.
 
-3. számú melléklet a 180/2007. (VII. 3.) Korm. rendelethez
+3. számú melléklet a 180/2007. (VII. 3.) Korm. rendelethez[^20]
 
 ## A HULLADÉKSZÁLLÍTMÁNYOKAT KÍSÉRŐ INFORMÁCIÓK AZ R. 3. CIKK (2) ÉS (4) BEKEZDÉSEIBEN FOGLALTAK SZERINT
 
@@ -254,11 +254,11 @@ Sorszám: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ /HU
 
 | 5.(a) 1. szállító(2): Név: Cím: Ügyintéző: Tel: Fax: E-mail: Szállítás módja: Átadás kelte: Aláírás: | 5.(b) 2. szállító: Név: Cím: Ügyintéző: Tel: Fax: E-mail: Szállítás módja: Átadás kelte: Aláírás: | 5.(c) 3. szállító: Név: Cím: Ügyintéző: Tel: Fax: E-mail: Szállítás módja: Átadás kelte: Aláírás: |
 
-| 6. A hulladék származási helye (3): Eredeti termelő(i)je, új termelő(i)je, vagy begyűjtője: Név: Cím: Ügyintéző: Tel: Fax: E-mail: | 8. Hasznosítási művelet (vagy adott esetben ártalmatlanítási művelet, a 3. cikk (4) bekezdésben említett hulladék esetén): R-kód / D-kód: |
+| 6. A hulladék származási helye (3): Eredeti hulladéktermelő, másodlagos hulladéktermelő vagy gyűjtő Név: Cím: Ügyintéző: Tel: Fax: E-mail: | 8. Hasznosítási művelet (vagy adott esetben ártalmatlanítási művelet, a 3. cikk (4) bekezdésben említett hulladék esetén): R-kód / D-kód: |
 
 | 9. A hulladék szokásos megnevezése: |
 
-| 7. Hasznosító létesítmény ⬜ Laboratórium ⬜ Név: Cím: Ügyintéző: Tel: Fax: E-mail: | 10. Hulladék azonosítója (írja be a vonatkozó kódokat): (i) A bázeli egyezmény IX. melléklete: (ii) OECD kód [ha eltér (i)-től]: (iii) EK hulladékjegyzék: (iv) Nemzeti kód: |
+| 7. Hasznosító létesítmény ⬜ Laboratórium ⬜ Név: Cím: Ügyintéző: Tel: Fax: E-mail: | 10. Hulladék azonosítója (írja be a következő kódokat): (i) A bázeli egyezmény IX. melléklete: (ii) OECD kód [ha eltér (i)-től]: (iii) IIIA. melléklet:(4) (iv) IIIB. melléklet:(5) (v) EK hulladékjegyzék: (vi) Nemzeti kód: |
 
 | 11. Érintett országok/állam(ok): |
 
@@ -272,8 +272,14 @@ Sorszám: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ /HU
 
 | 14. A szállítmány beérkezése a hasznosító létesítménybe ⬜ vagy laboratóriumba: ⬜ Érkezett mennyiség : kg: liter: Név: Dátum: Aláírás: |
 
-(1) A zöldlistás és hasznosítási vagy laboratóriumi analízis célú rendeltetéssel küldött szállítmányokat kísérő információ a 1013/2006/EK rendelet értelmében.
+(1) A zöldlistás és hasznosítási vagy laboratóriumi analízis célú rendeltetéssel küldött szállítmányokat kísérő információ az 1013/2006/EK rendelet értelmében. A dokumentum kitöltésével kapcsolatban lásd még az 1013/2006/EK rendelet IC. mellékletében szereplő külön utasításokat.
 
-(2) Ha 3-nál több fuvarozó van, a szükséges információt az 5. (a, b, c) blokkokban kell szolgáltatni.
+(2) Háromnál több szállító esetén az 5. a), b), c) rovat szerinti információkat kell csatolni.
 
-(3) Ha a szállítmányt szervező személy nem a termelő vagy a begyűjtő, információt kell szolgáltatni a termelőről vagy a begyűjtőről.
+(3) Ha a szállítmányt szervező személy nem a hulladéktermelő vagy a gyűjtő, a hulladéktermelőről vagy a gyűjtőről információt kell szolgáltatni.
+
+(4) Az 1013/2006/EK rendelet III A. mellékletének megfelelően megadott vonatkozó kódot/kódokat adott esetben egymást követően kell alkalmazni. A bázeli egyezmény egyes sorai, például a B1100, B3010 és B3020 sor csak bizonyos hulladékokra korlátozódnak a III A. mellékletnek megfelelően.
+
+(5) Az 1013/2006/EK rendelet III B. mellékletében felsorolt BEU-kódokat kell alkalmazni.
+
+[^20]: A 3. számú melléklet a 370/2014. (XII. 30.) Korm. rendelet 1. § (2) bekezdése és 2. § (1) bekezdése szerint módosított szöveg.
