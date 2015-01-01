@@ -444,6 +444,90 @@
 
 | 56 | 5-IT | 5-(2-aminopropyl)indole |
 
+| 57. | 1- naphyrone (1-nafiron) | 1-(naphthalen-1-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
+
+| 58. | 2-aminoindane (2-aminoindán) | 2,3-dihydro-1H-inden-2-amine |
+
+| 59. | 2-DPMP, Desoxypipradrol (dezoxipipradrol) | 2-(diphenylmethyl)piperidine |
+
+| 60. | 2-naphyrone (2-nafiron) | 1-(naphthalen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
+
+| 61. | 3-MeO-PCE | N-ethyl-1-(3-methoxyphenyl)cyclohexanamine |
+
+| 62. | 4-MeO-PCP | 1-[1-(4-methoxyphenyl)cyclohexyl]piperidine |
+
+| 63. | 5-IAI | 5-iodo-2,3-dihydro-1H-inden-2-amine |
+
+| 64. | 5-MeO-AMT | 1-(5-methoxy-1H-indol-3-yl)propan-2-amine |
+
+| 65. | α- Pyrrolidinovalerophenone, α-PVP | 1-phenyl-2-(1-pyrrolidinyl)-1-pentanone |
+
+| 66. | AM-2201 | 1-[(5-fluoropentyl)-1H-indol-3-yl]-(naphthalen-1-yl)methanone |
+
+| 67. | AMT (alfa-metiltriptamin) | 1-(lH-indol-3-yl)propan-2-amine |
+
+| 68. | Camfetamine (kamfetamin) | N-methyl-3-phenylbicyclo[2.2.1]heptan-2-amine |
+
+| 69. | CP 47,497 C8-homológ | 2-(3-hydroxycyclohexyl)-5-(2-methylnonan-2-yl)phenol |
+
+| 70. | CRA 13 | naphthalen-1-yl [4-(pentyloxy)naphthalen-1-yl]methanone |
+
+| 71. | D2PM, Diphenylprolinol (difenilprolinol) | diphenyl(pyrrolidin-2-yl)methanol |
+
+| 72. | DBZP | 1,4-dibenzylpiperazine |
+
+| 73. | Desoxy-D2PM (dezoxi-D2PM) | 2-(diphenylmethyl)pyrrolidine |
+
+| 74. | Dimethocaine (dimetokain) | 3-(diethylamino)-2,2-dimethylpropyl-4-aminobenzoate |
+
+| 75. | DMAA | 4-methylhexan-2-amine |
+
+| 76. | Etaqualone (etakvalon) | 3-(2-ethylphenyl)-2-methylquinazolin-4(3H)-one |
+
+| 77. | Ethylphenidate (etilfenidát) | ethyl phenyl(piperidin-2-yl)acetate |
+
+| 78. | GBL, gamma- butyrolactone (gamma-butirolakton) | dihydrofuran-2(3H)-one |
+
+| 79. | HU-210 | 9-(hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10, 10a-tetrahydrobenzo [c]chromen-1-ol |
+
+| 80. | Ibogain | (6R,6aS,7S,9R)-7-ethyl-2-methoxy-6,6a,7,8,9,10,12, 13-octahydro-5H-6,9-methanopyrido[10,20:1,2]azepino[4,5-b]indole |
+
+| 81. | MDAI | 6,7-dihydro-5H-indeno[5,6-d][1,3]dioxol-6-amine |
+
+| 82. | Methoxetamine (metoxetamin) | 2-(ethylamino)-2-(3-methoxyphenyl)cyclohexanone |
+
+| 83. | MPA, Methylthienylpropamine (metiltienil-propamin) | N-methyl-1-(thiophen-2-yl)propan-2-amine |
+
+| 84. | ODT, O-desmethyltramadol (O-dezmetiltramadol) | 3-{2-[(dimethylamino)methyl]-1-hydroxycyclohexyl}phenol |
+
+| 85. | para-methyl-4-methylaminorex (para-metil-4-metilaminorex) / 4,4’-DMAR | 4-methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine, illetve 4-methyl-5-(4-methylphenyl)-1,3-oxazolidin-2-imine tautomerek |
+
+| 86. | Pentedron, β-ethyl-methcathinone (β-etil-metkatinon) | 2-methylamino-1-phenyl-1-pentanone |
+
+| 87. | MBZP | 1-benzyl-4-methylpiperazine |
+
+| 88. | pFBT, 4-fluorotropacocaine (fluortropakokain) | 8-methyl-8-azabicyclo[3.2.1]oct-3-yl 4-fluorobenzoate |
+
+| 89. | pFPP | 1-(4-fluorophenyl)piperazine |
+
+| 90. | Phenazepam (fenazepam) | 7-bromo-5-(2-chlorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one |
+
+| 91. | Salvinorin A (Szalvinorin A) | (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3 furanyl)dodecahydro-6a, 10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester |
+
+| 92. | TFMPP | 1-[3-(trifluoromethyl)phenyl]piperazine |
+
+| 93. | β- Me-PEA | 2-phenylpropan-1-amine |
+
+| 94. | 3-MeO-PCP | 1-[1-(3-methoxyphenyl)cyclohexyl]-piperidine |
+
+| 95. | Homoamphetamine | 3-amino-1-phenyl-butane |
+
+| 96. | AH-7921 | 3,4-diklór-N-[[1-(dimetil-amino)ciklohexil]metil]benzamid |
+
+| 97. | 25I-NBOMe | 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin |
+
+| 98. | AB-CHMINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3- carboxamide |
+
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
 
 ## – és az ebben a jegyzékben felsorolt anyagok sói, beleértve a fent említett sztereoizomerek sóit, amennyiben ilyen sók léteznek.
@@ -688,285 +772,9 @@
 
 ## A P4 jegyzék a Pszichotróp Egyezmény aktualizált IV. listája alapján készült.
 
-## C) ÚJ PSZICHOAKTÍV ANYAGOK JEGYZÉKE
+## C)
 
-## Az alábbi szerkezeti leírásoknak megfelelő vegyületek, amennyiben azok e melléklet A) és B) jegyzékén nem szerepelnek:
-
-## 1. Azok
-
-## 1.1. az indolil-naftil-keton (1H-indol-3-il(naftalin-1-il)metanon, 1H-indol-3-il(naftalin-2-il)metanon) vagy
-
-## 1.2. a fenil-indolil-keton (fenil(1H-indol-3-il)metanon) vagy
-
-## 1.3. a benzil-indolil-keton (2-fenil-1-(1H-indol-3-il)etanon) vagy
-
-## 1.4. az indazolil-naftil-keton (1H-indazol-3-il(naftalin-1-il)metanon, 1H-indazol-3-il(naftalin-2-il)metanon) vagy
-
-## 1.5. a fenil-indazolil-keton (fenil(1H-indazol-3-il)metanon) vagy
-
-## 1.6. a benzil-indazolil-keton (2-fenil-1-(1H-indazol-3-il)etanon) vagy
-
-## 1.7. a naftil-pirrolil-keton (naftalin-1-il(1H-pirrol-3-il)metanon, naftalin-2-il(1H-pirrol-3-il)metanon) vagy
-
-## 1.8. a (ciklusos alkil)-indolil-keton (mono- vagy policikloalkil(1H-indol-3-il)metanon) vagy
-
-## 1.9. a (ciklusos alkil)-indazolil-keton (mono- vagy policikloalkil(1H-indazol-3-il)metanon) vagy
-
-## 1.10. a (ciklusos alkil)-pirrolil-keton (mono- vagy policikloalkil(1H-pirrol-3-il)metanon) vagy
-
-## 1.11. az indol-3-karboxilát (1H-indol-3-karbonsav észterszármazék) vagy
-
-## 1.12. az indol-3-karboxamid (1H-indol-3-karboxamid) vagy
-
-## 1.13. az indazol-3-karboxilát(1H-indazol-3-karbonsav észterszármazék) vagy
-
-## 1.14. az indazol-3-karboxamid (1H-indazol-3-karboxamid)
-
-## szerkezeti részt tartalmazó vegyületek, amelyekben
-
-## 1.15. az indol-, indazol-, illetve pirrolváz 1-es helyzetű nitrogénatomjához
-
-## 1.15.1. legfeljebb 7 szénatomos alkil-, alkenil- vagy alkinilcsoport, illetve
-
-## 1.15.2. az 1.15.1 szerinti csoport ciano-, hidroxi-, alkoxi-, alkilszulfanil-, cikloalkil-, halogénezett cikloalkil-, cikloalkenil-, fenil-, (halogénfenil)-, tetrahidrofuranil-, tetrahidropiranil-, morfolinil-, N-metilpirrolidinil- vagy N-metilpiperidinilcsoportot, vagy egy, illetve több halogénatomot tartalmazó származéka kapcsolódik.
-
-## 1.16. az indolváz
-
-## 1.16.1. 2-es helyzetben lévő szénatomja metil- vagy etilcsoportot tartalmazhat, illetve
-
-## 1.16.2. 4-es, 5-ös, 6-os, illetve 7-es helyzetben lévő szénatomjai – tetszőleges kombinációban – halogénatomot, metil-, metoxi- vagy nitrocsoportot tartalmazhatnak.
-
-## 1.17. a pirrolváz a 2-es, 4-es, illetve 5-ös helyzetű szénatomjához kapcsolódóan, tetszőleges kombinációban egy vagy több
-
-## 1.17.1. halogénatomot vagy
-
-## 1.17.2. fenil-, (halogénfenil)-, naftil- vagy 1-2 szénatomos alkilcsoportot tartalmazhat.
-
-## 1.18. az 1.11. és az 1.13. szerinti karboxilátok oxigénatomjához, illetve az 1.12. és az 1.14. szerinti karboxamidok nitrogénatomjához
-
-## 1.18.1. (ciklusos alkil)-, fenil-, benzil-, naftil- vagy kinolincsoport kapcsolódik.
-
-## 1.19. az 1.1–1.7. szerinti fenil- és naftilcsoport, illetve az 1.18.1. szerinti fenil-, benzil-, naftil- és kinolincsoport
-
-## 1.19.1. 1-4 szénatomos alkilcsoportot vagy
-
-## 1.19.2. metoxi- vagy etoxicsoportot vagy
-
-## 1.19.3. azido-, dimetilamino-, fenil-, hidroxi-, hidroximetil-, nitro- vagy cianocsoportot, vagy egy, illetve több halogénatomot
-
-## tartalmazhat.
-
-## 1.20. az 1.12. és 1.14. szerinti karboxamidok nitrogénatomja tagja lehet
-
-## 1.20.1. egy olyan piperazingyűrűnek, amely egy vagy több metil-, illetve etilcsoportot tartalmaz, vagy
-
-## 1.20.2. egy olyan részlegesen vagy teljesen telített biciklusos gyűrűrendszernek, amely 7-10 szénatomból és egy vagy két nitrogénatomból áll.
-
-## 1.21. az 1.8., 1.9., 1.10. és 1.18.1. szerinti (ciklusos alkil)-csoport egy vagy több 3-10 szénatomos gyűrűből áll és egy vagy több 1-3 szénatomos alkilcsoportot vagy halogénatomot tartalmazhat.
-
-## 2. Azok a katinon (2-amino-1-fenilpropán-1-on) szerkezeti részt tartalmazó vegyületek, a bupropion kivételével, amelyekben
-
-## 2.1. a propán-1-on szerkezeti egység 3-as helyzetű szénatomja
-
-## 2.1.1. legfeljebb 3 szénatomos alkilcsoportot tartalmazhat
-
-## 2.2. a fenilcsoport egy vagy – tetszőleges kombinációban – több
-
-## 2.2.1. halogénatomot, metilcsoportot, etilcsoportot, metoxicsoportot, metiléndioxicsoportot tartalmazhat
-
-## 2.3. a nitrogénatom
-
-## 2.3.1. 1-4 szénatomos alkilcsoportot vagy alkilcsoportokat tartalmazhat vagy
-
-## 2.3.2. benzilcsoportot tartalmazhat vagy
-
-## 2.3.3. pirrolidin vagy piperidin gyűrű tagja.
-
-## 3. Azok a triptamin (2-(1H-indol-3-il)etánamin) szerkezeti részt tartalmazó vegyületek, amelyekben
-
-## 3.1. az aminocsoport nitrogénje
-
-## 3.1.1. legfeljebb 4 szénatomos alkil-, vagy alkenilcsoportot, illetve csoportokat tartalmaz
-
-## 3.2. az indolil csoport 4-es vagy 5-ös helyzetben
-
-## 3.2.1. hidroxi-, metoxi- vagy acetoxicsoportot tartalmazhat.
-
-## 4. Azok a fenetilamin (2-feniletánamin) szerkezeti részt tartalmazó vegyületek – ideértve a 2-feniletánamint is –, amelyekben
-
-## 4.1. az aminocsoport egy vagy – tetszőleges kombinációban – több
-
-## 4.1.1. legfeljebb 4 szénatomos alkil-, alkenil-, cikloalkil-, halogénalkil-, hidroxialkil-, cianoalkil- vagy metoxialkil-csoportot,
-
-## 4.1.2. acetil-, hidroxi-, metoxi-, ciklopropilmetil-, benzil-, metoxibenzil- vagy furilmetil-csoportot
-
-## tartalmazhat.
-
-## 4.2. az aminocsoport azetidin, pirrolidin vagy piperidin gyűrű tagja lehet.
-
-## 4.3. az etánamin szerkezeti rész 1-es helyzetű szénatomja
-
-## 4.3.1. legfeljebb 4 szénatomos alkilcsoportot tartalmazhat.
-
-## 4.4. a fenilcsoport egy vagy – tetszőleges kombinációban – több
-
-## 4.4.1. legfeljebb 5 szénatomos alkil-, (cikloalkil)alkil-, alkoxi-, (cikloalkil)alkoxi-, (alkoxi)alkil-, alkilszulfanil-, alkilamino-, halogénalkil-csoportot, illetve
-
-## 4.4.2. halogénatomot, benzil-, benziloxi-, amino-, ciano-, nitro-, trimetilén-, metiléndioxi-, etiléndioxi-, etilénoxi-, etendiiloxi-, etilénimino-, etendiilimino-csoportot
-
-## tartalmazhat.
-
-## 5. Továbbá az alábbi vegyületek:
-
-|  | A | B |
-
-| 1 | Hivatalos elnevezés /illetve más név vagy rövidítés, illetve külföldön gyakran használt más írásmód/ | Kémiai név |
-
-| 2 | 2-aminoindane (2-aminoindán) | 2,3-dihydro-1H-inden-2-amine |
-
-| 3 | AMT (alfa-metiltriptamin) | 1-(1H-indol-3-yl)propan-2-amine |
-
-| 4 | Camfetamine (kamfetamin) | N-methyl-3-phenylbicyclo[2.2.1]heptan-2-amine |
-
-| 5 | 2C-B-BZP | 1-(4-bromo-2,5-dimethoxybenzyl)-4-methylpiperazine |
-
-| 6 | CP 47,497 C8-homológ | 2-(3-hydroxycyclohexyl)-5-(2-methylnonan-2-yl)phenol |
-
-| 7 | CPCPP, Gelbes | 1-(3-chlorophenyl)-4-(3-chloropropyl)piperazine |
-
-| 8 | CRA13 | naphthalen-1-yl[4-(pentyloxy)naphthalen-1-yl]methanone |
-
-| 9 | D2PM, Diphenylprolinol (difenilprolinol) | diphenyl(pyrrolidin-2-yl)methanol |
-
-| 10 | DBZP | 1,4-dibenzylpiperazine |
-
-| 11 | Desoxy-D2PM (dezoxi-D2PM) | 2-(diphenylmethyl)pyrrolidine |
-
-| 12 | Dichlorophenyl-piperazine (diklórfenil-piperazin) | 1-(2,3-dichlorophenyl)piperazine |
-
-| 13 | Dimethocaine (dimetokain) | 3-(diethylamino)-2,2-dimethylpropyl-4-aminobenzoate |
-
-| 14 | DMAA | 4-methylhexan-2-amine |
-
-| 15 | 2-DPMP, Desoxypipradrol (dezoxipipradrol) | 2-(diphenylmethyl)piperidine |
-
-| 16 | Etaqualone (etakvalon) | 3-(2-ethylphenyl)-2-methylquinazolin-4(3H)-one |
-
-| 17 | Ethylphenidate (etilfenidát) | ethyl phenyl(piperidin-2-yl)acetate |
-
-| 18 | GBL, gamma-butyrolactone (gamma-butirolakton) | dihydrofuran-2(3H)-one |
-
-| 19 | Harmin | 7-methoxy-1-methyl-9H-β-carboline |
-
-| 20 | HU-210 | 9-(hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a-tetrahydrobenzo[c]chromen-1-ol |
-
-| 21 | 5-IAI | 5-iodo-2,3-dihydro-1H-inden-2-amine |
-
-| 22 | Ibogain | (6R,6aS,7S,9R)-7-ethyl-2-methoxy-6,6a,7,8,9,10,12,13-octahydro-5H-6,9-methanopyrido[10,20:1,2]azepino[4,5-b]indole |
-
-| 23 |  |  |
-
-| 24 | MBZP | 1-benzyl-4-methylpiperazine |
-
-| 25 | MDAI | 6,7-dihydro-5H-indeno[5,6-d][1,3]dioxol-6-amine |
-
-| 26 | 5-MeO-AMT | 1-(5-methoxy-1H-indol-3-yl)propan-2-amine |
-
-| 27 | 3-MeO-PCE | N-ethyl-1-(3-methoxyphenyl)cyclohexanamine |
-
-| 28 | 4-MeO-PCP | 1-[1-(4-methoxyphenyl)cyclohexyl]piperidine |
-
-| 29 | 5-MeO-triptamin | 2-(5-methoxy-1H-indol-3-yl)ethanamine |
-
-| 30 | β-Me-PEA | 2-phenylpropan-1-amine |
-
-| 31 | Methoxetamine (metoxetamin) | 2-(ethylamino)-2-(3-methoxyphenyl)cyclohexanone |
-
-| 32 | MPA, Methylthienylpropamine (metiltienil-propamin) | N-methyl-1-(thiophen-2-yl)propan-2-amine |
-
-| 33 | 1-naphyrone (1-nafiron) | 1-(naphthalen-1-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
-
-| 34 | 2-naphyrone (2-nafiron) | 1-(naphthalen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
-
-| 35 | N-benzyl-1-PEA (N-benzil-1-PEA) | N-benzyl-1-phenylethanamine |
-
-| 36 | ODT, O-desmethyltramadol (O-dezmetiltramadol) | 3-{2-[(dimethylamino)methyl]-1-hydroxycyclohexyl}phenol |
-
-| 37 | pCPP | 1-(4-chlorophenyl)piperazine |
-
-| 38 | pFBT, 4-fluorotropacocaine (fluortropakokain) | 8-methyl-8-azabicyclo[3.2.1]oct-3-yl 4-fluorobenzoate |
-
-| 39 | pFPP | 1-(4-fluorophenyl)piperazine |
-
-| 40 | Phenazepam (fenazepam) | 7-bromo-5-(2-chlorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one |
-
-| 41 | 1-phenyl-propyl-amine (fenilpropilamin) | 1-phenylpropan-1-amine |
-
-| 42 | pMeOPP | 1-(4-methoxyphenyl)piperazine |
-
-| 43 | Salvinorin A (Szalvinorin A) | (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3-furanyl)dodecahydro-6a,10b-dimethyl-4,10- dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester |
-
-| 44 | TFMPP | 1-[3-(trifluoromethyl)phenyl]piperazine |
-
-| 45. |  |  |
-
-| 46. |  |  |
-
-| 47. |  |  |
-
-| 48. |  |  |
-
-| 49 | 3-MeO-PCP | 1-[1-(3-methoxyphenyl)cyclohexyl]-piperidine |
-
-| 50 | Homoamphetamine | 3-amino-1-phenyl-butane |
-
-| 51 | URB-754 | 6-methyl-2-[(4-methylphenyl)amino]-1-benzoxazin-4-one |
-
-| 52. | para-methyl-4-methylaminorex (para-metil-4- metilaminorex) / 4,4’-DMAR | 4-methyl-5-(4-methylphenyl)–4,5-dihydro- 1,3-oxazol-2-amine, illetve 4-methyl-5-(4- methylphenyl)–1,3-oxazolidin-2-imine tautomerek |
-
-| 53 | RH-34 | 3-[2-(2-methoxybenzylamino)ethyl]-1H-quinazoline-2,4-dione |
-
-| 54 | MTP, methcathinone thiophen analog | 2-(methylamino)-1-(thiophen-2-yl)propan-1-one |
-
-| 55 | N-ethylnorketamine | 2-(2-chlorophenyl)-2-(ethylamino)cyclohexanone |
-
-| 56 | AM-1248 azepane isomer | adamant-1-yl[1-(1-methylazepan-3-yl)-1H-indol-3-yl]methanone |
-
-| 57 | 4-benzylpiperidine | 4-(phenylmethyl)piperidine |
-
-| 58 | 3,4-dichloromethylphenidate/ 3,4-CTMP | methyl-2-(3,4-dichlorophenyl)-2-[piperidin-2-yl]acetate |
-
-| 59 | AB-FUBINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide |
-
-| 60 | 5F-AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide |
-
-| 61 | AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide |
-
-| 62 | AH-7921 | (3,4-dichloro-N-[[1-(dimethylamino)cyclohexyl]methyl]benzamide) |
-
-| 63 | α-PVT | 2-(pyrrolidin-1-yl)-1-(thiophen-2-yl)pentan-1-one |
-
-| 64 | A-836,339 | N-[3-(2-methoxyethyl)-4,5-dimethyl-1,3-thiazol-2-ylidene]-2,2,3,3-tetramethylcyclopropane-carboxamide |
-
-| 65. | AB-CHMINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)–1-(cyclohexylmethyl)–1H-indazole-3-carboxamide |
-
-| 66. | α-PEP, alfa-PHPP, PV8 | 1-phenyl-2-(pyrrolidin-1-yl)heptan-1-one |
-
-| 67. |  | N-(2-methoxyethyl)–N-(1-methylethyl)–2-(1-pentyl-1H-indol-3-yl)–4-thiazol-methanamine |
-
-| 68. |  | N,N-diethyl-2-(1-pentyl-1H-indol-3-yl)–4-thiazol-methanamine |
-
-| 69. | 5F-AMP, 5F-AMB, 5-fluoro AMB, 5-fluoro AMP | Methyl 2-({[1-(5-fluoropentyl)-1H-indazol-3-yl]carbonyl}amino)-3-methylbutanoate |
-
-| 70. | MXP, methoxyphenidine, 2-MeO-diphenidine | 1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine |
-
-| 71. | 3F-phenmetrazine, meta-fluoro-phenmetrazine, meta-F-phenmetrazine | 2-(3-fluorophenyl)-3-methylmorpholine |
-
-## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek;
-
-## – az ebben a jegyzékben felsorolt anyagok sói, beleértve a fent említett sztereoizomerek sóit, amennyiben ilyen sók léteznek.
-
-## D) A C) JEGYZÉKRŐL ÁTHELYEZETT ANYAGOK JEGYZÉKE
+## D) AZ ÚJ PSZICHOAKTÍV ANYAGGÁ MINŐSÍTETT ANYAGOKRÓL VAGY VEGYÜLETCSOPORTOKRÓL SZÓLÓ MINISZTERI RENDELETBŐL ÁTHELYEZETT ANYAGOK JEGYZÉKE
 
 2. melléklet a 66/2012. (IV. 2.) Korm. rendelethez
 
