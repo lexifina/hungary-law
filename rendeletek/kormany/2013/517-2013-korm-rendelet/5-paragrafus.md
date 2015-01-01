@@ -1,10 +1,9 @@
 ## 5. § A Kjtvhr.
 
-a)–b)[^6]
+a)–b)[^5]
 
-c)[^7]
+c) 15. § (7), (8) és (9) bekezdésében a „(2)–(6f)” szövegrész helyébe a „(2)–(6e)” szöveg
 
 lép.
 
-[^6]: Az 5. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 5. § c) pontja a 6. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^5]: Az 5. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
