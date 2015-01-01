@@ -102,7 +102,7 @@ II. rész
 
 | 5. | Csongrád | Szeged | az 1. § (2) bekezdésében meghatározott feladatok tekintetében: Csongrádi, Kisteleki, Mórahalmi, Szegedi járás az 1. § (3) bekezdésében meghatározott feladatok tekintetében: a megye |
 
-| 6. | Fejér | Székesfehérvár | az 1. § (2) bekezdésében meghatározott eladatok tekintetében: Móri, Bicskei, Székesfehérvári, Gárdonyi, Polgárdi, Enyingi járás az 1. § (3) bekezdésében meghatározott feladatok tekintetében: a megye |
+| 6. | Fejér | Székesfehérvár | az 1. § (2) bekezdésében meghatározott eladatok tekintetében: Móri, Bicskei, Székesfehérvári, Gárdonyi, Enyingi járás az 1. § (3) bekezdésében meghatározott feladatok tekintetében: a megye |
 
 | 7. | Győr-Moson-Sopron | Győr | az 1. § (2) bekezdésében meghatározott feladatok tekintetében: Győri, Téti, Pannonhalmi járás az 1. § (3) bekezdésében meghatározott feladatok tekintetében: a megye |
 
@@ -136,4 +136,4 @@ II. rész
 
 III. rész
 
-[^69]: Az 1. mellékletet a 69/2007. (IV. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 322/2012. (XI. 16.) Korm. rendelet 41. § a) pontja iktatta be, szövege a 394/2012. (XII. 20.) Korm. rendelet 66. § (2) és (5) bekezdése, a 487/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^69]: Az 1. mellékletet a 69/2007. (IV. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 322/2012. (XI. 16.) Korm. rendelet 41. § a) pontja iktatta be, szövege a 394/2012. (XII. 20.) Korm. rendelet 66. § (2) és (5) bekezdése, a 487/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdése, a 308/2014. (XII. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.
