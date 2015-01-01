@@ -2,7 +2,7 @@
 
 (2) Az ellátás folyósításáról az igényelbíráló szerv gondoskodik.
 
-(3) Az ellátást – a (4) bekezdésben szabályozott eltéréssel – utólag, a tárgyhónapot követő hónap 10. napjáig, fizetési számlára utalás esetében 3. napjáig kell folyósítani.
+(3) Az ellátást – a (4) bekezdésben szabályozott eltéréssel – utólag, a tárgyhónapot követő hónap 10. napjáig, fizetési számlára utalás esetében 3. napjáig kell folyósítani. A folyósított és át nem vett ellátás ismételt folyósítását az igényelbíráló szerv a jogosult kérelme alapján, – ha a folyósítás sikertelensége a jogosult érdekkörében fennálló okra vezethető vissza – az ellátás ismételt folyósításával kapcsolatos költségek legfeljebb jogszabályban meghatározott mértékének ellátásból történő levonásával teljesíti.
 
 (4) Az anyasági támogatás iránti kérelmet az igényelbíráló szerv a kérelem megérkezését követő naptól számított nyolc napon belül elbírálja, a jogosultság megállapítása esetén a támogatást fizetési számlára vagy kifizetési utalványon kiutalja.
 
@@ -14,4 +14,4 @@
 
 (8) Ha az iskoláztatási támogatás szüneteltetését elrendelő döntés jogerőre emelkedésének hónapja május, június vagy július, úgy a folyósítás szüneteltetése az augusztus hónapra járó ellátással indul.
 
-(9) Az iskoláztatási támogatás szüneteltetésének megszüntetése esetén az ellátást első alkalommal a gyámhatóság iskoláztatási támogatás szüneteltetésének megszüntetésére irányuló kezdeményezésének hónapjára kell ismételten folyósítani. Ebben az esetben a folyósításra visszamenőlegesen, a kincstárnak a szüneteltetést megszüntető döntése meghozatalát követően kerül sor.
+(9) Az iskoláztatási támogatás szüneteltetésének megszüntetése esetén az ellátást első alkalommal a gyámhatóság iskoláztatási támogatás szüneteltetésének megszüntetésére irányuló kezdeményezésben megjelölt hónapra, ennek hiányában a kezdeményezés hónapjára kell ismételten folyósítani. Ebben az esetben a folyósításra visszamenőlegesen, a kincstárnak a szüneteltetést megszüntető döntése meghozatalát követően kerül sor.
