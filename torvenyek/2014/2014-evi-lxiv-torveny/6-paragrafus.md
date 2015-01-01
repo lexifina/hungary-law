@@ -1,0 +1,1 @@
+6. § A digitális műsorterjesztés fejlesztésére és a digitális átállás költségeire az Alapban elkülönített forrást e célra vagy az Mttv. 136. § (1) bekezdése szerinti támogatási tevékenységek ellátásának finanszírozására lehet felhasználni a Médiatanács döntésében foglaltak szerint.
