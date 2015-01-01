@@ -1,7 +1,0 @@
-1. § (1) Az e rendelet 1. számú mellékletében – régiónkénti bontásban – felsorolt intézmények jogosultak iskolarendszeren kívüli szakmai vizsga szervezésére a (2)–(4) bekezdésekben meghatározottak figyelembevételével.
-
-(2) A szakmai vizsga szervezésére feljogosított intézmény a 2. számú mellékletben megjelölt szakképesítés, szakképesítés-elágazás és szakképesítés-ráépülés tekintetében és az ott meghatározott régióban jogosult 2010. július 31-éig szakmai vizsga szervezésére.
-
-(3) A szakmai vizsga szervezésére feljogosított intézmény a 3. számú mellékletben megjelölt szakképesítés, szakképesítés-elágazás, ezek részszakképesítése(i), szakképesítés-ráépülés, valamint részszakképesítés tekintetében és az ott meghatározott régióban jogosult 2012. június 30-ig szakmai vizsga szervezésére.
-
-(4) A 2. számú mellékletben és a 3. számú mellékletben nevesített szakképesítések tekintetében elnyert vizsgaszervezési jogosultságok a szociális és munkaügyi miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló szociális és munkaügyi miniszteri rendeletnek a külön jogszabályokban megállapított jogosultságok a 37/2003. (XII. 27.) OM rendelettel (a továbbiakban: R.) és az 1/2006. (II. 17.) OM rendelettel kiadott Országos Képzési Jegyzékben szereplő szakképesítések közötti megfeleltetését szabályozó mellékletében megjelöltek szerint érvényesek, az R. 2006. március 31-én hatályos rendelkezései és az ahhoz illeszkedő szakmai és vizsgakövetelmények szerint szervezett képzések esetén.
