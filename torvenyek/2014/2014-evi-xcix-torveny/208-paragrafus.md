@@ -1,0 +1,1 @@
+208. § A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 192/A. § (2) bekezdésében a „magánnyugdíjpénztárhoz” szövegrész helyébe a „magánnyugdíjpénztárhoz, önkéntes nyugdíjpénztárhoz, önkéntes egészségpénztárhoz” szöveg lép.

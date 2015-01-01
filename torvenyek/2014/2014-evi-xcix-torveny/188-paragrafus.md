@@ -1,0 +1,1 @@
+188. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 41. § (5) bekezdésében a „kutatás-fejlesztésről és a technológiai innovációról szóló törvény” szövegrész helyébe a „tudományos kutatásról, fejlesztésről és innovációról szóló törvény” szöveg lép.

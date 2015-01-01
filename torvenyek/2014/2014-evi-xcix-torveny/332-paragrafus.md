@@ -1,0 +1,1 @@
+332. § A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 1. § (4) bekezdés b) pontjában az „1991. évi IV. törvény” szövegrész helyébe, az „1991. évi IV. törvény (a továbbiakban: Flt.)” szöveg lép.

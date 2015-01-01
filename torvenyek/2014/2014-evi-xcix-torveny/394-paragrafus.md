@@ -1,3 +1,3 @@
-## 91.
+## 91. A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény módosítása
 
-394–395. §
+394. § A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény 12. §-ában az „engedélyezett” szövegrész helyébe az „éves átlagos statisztikai állományi” szöveg, a „közigazgatásért és igazságügyért” szövegrész helyébe a „közigazgatási minőségpolitikáért és személyzetpolitikáért” szöveg lép.

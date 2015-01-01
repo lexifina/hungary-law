@@ -1,1 +1,5 @@
-368. §
+368. § A szakképzésről szóló 2011. évi CLXXXVII. törvény 55. alcíme a következő 92/B. §-sal egészül ki:
+
+„92/B. § (1) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 5/A. § (1) bekezdésében meghatározottak megvalósításához szükséges szakképzési feladat- és intézményátadást 2015. július 1-jei hatállyal kell végrehajtani. Az átadásra kerülő szakképzési feladatot szolgáló humán erőforrást, ingatlant, ingóságot és vagyoni értékű jogot a szakképzésért és felnőttképzésért felelős miniszternek az állami intézményfenntartó központ a kezelésében lévő eszköz esetén átadja, a használatában lévő eszköz esetén rendelkezésére bocsátja az átadás napjától, legalább a 2015. január 1-jei állapot szerint.
+
+(2) Az állami intézményfenntartó központ által fenntartott intézmény esetében az oktatásért felelős miniszter a nemzeti köznevelésről szóló 2011. évi CXC. törvény 84. § (7) bekezdése szerinti, szakképzési feladatellátást érintő döntést kizárólag a szakképzésért és felnőttképzésért felelős miniszter egyetértésével hozhat.”
