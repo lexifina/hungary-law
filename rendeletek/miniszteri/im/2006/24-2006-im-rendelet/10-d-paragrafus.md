@@ -1,4 +1,4 @@
-10/D. §[^23] (1) A vagyonfelmérési űrlap a következő adatokat és tartalmi elemeket tartalmazza:
+10/D. §[^24] (1) A vagyonfelmérési űrlap a következő adatokat és tartalmi elemeket tartalmazza:
 
 a) a kényszertörlés alatt álló cég cégneve, cégjegyzékszáma, székhelye, adószáma, közösségi adószáma, statisztikai számjele;
 
@@ -36,4 +36,4 @@ b) természetes személy esetében a neve, a születési neve, a születési ide
 
 (6) Az űrlapot a cégbíróság az (1) bekezdés a) pontja szerinti adatok kitöltésével küldi meg. A megkeresett szervezet az (1) bekezdés b)–e) pontjaiban és a (3) bekezdésben meghatározott adatok közül azokkal egészíti ki az űrlapot, amelyek a nyilvántartásában rendelkezésére állnak. Az űrlap azon a részeit, amelyekkel kapcsolatban a nyilvántartása adatot nem tart nyilván, a megkeresett szervezet üresen hagyja.
 
-[^23]: A 10/D. §-t a 21/2014. (III. 13.) KIM rendelet 19. § (1) bekezdése iktatta be.
+[^24]: A 10/D. §-t a 21/2014. (III. 13.) KIM rendelet 19. § (1) bekezdése iktatta be.
