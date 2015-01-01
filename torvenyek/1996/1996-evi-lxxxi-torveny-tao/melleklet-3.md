@@ -18,7 +18,7 @@ A 8. § (1) bekezdésének d) pontja alkalmazásában nem a vállalkozási tevé
 
 4. az általános forgalmi adó nélkül 200 ezer forintot meghaladó szolgáltatás ellenértéke (vagy annak egy része), ha a körülmények (így különösen az adózó vállalkozási tevékenysége, árbevétele, a szolgáltatás jellege, a szolgáltatás ellenértéke) alapján egyértelműen megállapítható, hogy a szolgáltatás igénybevétele ellentétes az ésszerű gazdálkodás követelményeivel; az adóévben ugyanazon személytől ugyanazon jogcímen igénybe vett szolgáltatások ellenértékét együttesen kell figyelembe venni;
 
-5. a hiányzó eszköz könyv szerinti értéke (immateriális jószág, tárgyi eszköz számított nyilvántartási értéke), ha egyértelműen megállapítható, hogy a hiány (különös tekintettel az eszköz fizikai jellemzőire, értékére, a tárolás körülményeire) megfelelő gondosság mellett nem merült volna fel, vagy ha az adózó – az ésszerű gazdálkodás követelményeit figyelembe véve – nem tett meg mindent a hiányból eredő veszteség mérséklésére;
+5. a hiányzó eszköz könyv szerinti értéke (immateriális jószág, tárgyi eszköz számított nyilvántartási értéke), ha egyértelműen megállapítható, hogy a hiány (különös tekintettel az eszköz fizikai jellemzőire, értékére, a tárolás fizikai körülményeire és szerződéses feltételeire, a tevékenység iparági sajátosságaira) megfelelő gondosság mellett nem merült volna fel, és az adózó az ésszerű gazdálkodás követelményeit figyelembe véve (különös tekintettel a hiányból eredő veszteség megtérülésére, a felmerülés ismétlődésére) nem tett meg mindent a hiányból eredő veszteség mérséklésére;
 
 6. az értékkel nyilvántartott tárgyi eszköz selejtezésekor az eszköz könyv szerinti értéke, ha a selejtezés ténye, oka nincs dokumentumokkal megfelelően alátámasztva;
 
@@ -46,7 +46,13 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 
 15. a kutatás-fejlesztési tevékenység közvetlen költsége, ha az adózó vállalkozási, bevételszerző tevékenységéhez nem kapcsolódik.
 
-16. a reklámadóról szóló törvény szerinti reklám közzétételével összefüggésben elszámolt költség (így különösen a reklám közzétevőjének vagy a reklám közzétételében közreműködőnek járó ellenérték), de legalább a reklám közzétételének szokásos piaci értéke, ha az adóalany nem rendelkezik a reklámadó alanyának olyan nyilatkozatával, miszerint a reklám közzétételével összefüggésben felmerült reklámadó kötelezettségét teljesíti vagy reklámadó-kötelezettség teljesítésre nem kötelezett.
+16. a reklámadóról szóló törvény (a továbbiakban e pont alkalmazásában: Rtv.) szerinti reklám közzétételével összefüggésben elszámolt költség (így különösen a reklám közzétevőjének vagy a reklám közzétételében közreműködőnek járó ellenérték), de legalább a reklám közzétételének szokásos piaci értéke, ha annak összege az adóévben összesen a 30 millió forintot meghaladja és
+
+a) az adóalany nem rendelkezik a reklámadó alanyának olyan nyilatkozatával, miszerint a reklám közzétételével összefüggésben felmerült reklámadó kötelezettségét teljesíti vagy nincs reklámadó-fizetési kötelezettsége és
+
+b) az adóalany nem igazolja, hogy az a) pont szerint nyilatkozat kiadását a reklámadó alanyától ő vagy a reklám közzétételnek az Rtv. 3. § (2) bekezdés szerinti megrendelője kérte és
+
+c) a reklámadó alanya a reklám-közzététel megrendelésének időpontjában nem szerepelt az állami adóhatóság honlapján az Rtv. 7/A. § szerint közzétett nyilvántartásban.
 
 B)
 
@@ -99,3 +105,5 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 21. éttermi szolgáltatás igénybevétele esetén a bankkártyával, hitelkártyával történő fizetésre tekintettel kapott nyugta alapján elszámolt költség, ráfordítás, feltéve, hogy a szolgáltatás igénybevétele a személyi jövedelemadóról szóló törvény szerinti reprezentáció céljából történik.
 
 22. a vagyonrendelőnél a bizalmi vagyonkezelési szerződés alapján a bizalmi vagyonkezelésbe adott eszközök könyv szerinti értékére, valamint a kezelt vagyon részbeni vagy teljes kiadásakor a kezelt vagyonra szóló tartós követelés kezelt vagyon csökkenésével arányos, kivezetett összegére tekintettel elszámolt ráfordítás.
+
+23. felsőoktatási támogatási megállapodás alapján az adóévben felsőoktatási intézménynek visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke;

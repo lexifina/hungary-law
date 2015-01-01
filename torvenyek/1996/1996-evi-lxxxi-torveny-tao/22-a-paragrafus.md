@@ -10,11 +10,13 @@ b) a 2013. december 31-ét követően megkötött szerződés alapján igénybe 
 
 (3) Az adózó az adókedvezményt abban az adóévben – utoljára abban az adóévben, amelyben a hitelt az eredeti szerződés szerint vissza kell fizetnie – veheti igénybe, amelynek utolsó napján a tárgyi eszköz nyilvántartásában szerepel.
 
-(4) Az e § alapján igénybe vett adókedvezmény adóévenként nem haladhatja meg a 6 millió forintot. Az adózó által igénybe vett adókedvezmény összege az állami támogatásokra vonatkozó rendelkezések alkalmazásában, ha a beruházás elsődleges mezőgazdasági termelést szolgál, az Európai Közösséget Létrehozó Szerződés 107. és 108. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásra történő alkalmazásáról szóló rendeletben foglalt támogatásként vehető igénybe, minden más esetben az adózó választása szerint
+(4) Az e § alapján igénybe vett adókedvezmény adóévenként nem haladhatja meg a 6 millió forintot. Az adózó által igénybe vett adókedvezmény összege az állami támogatásokra vonatkozó rendelkezések alkalmazásában,
 
-a) az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül, vagy
+a) ha a beruházás elsődleges mezőgazdasági termelést szolgál, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló rendeletben foglalt támogatásnak minősül,
 
-b) a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak tekintendő.
+b) ha a beruházás mezőgazdasági termék feldolgozását vagy mezőgazdasági termék forgalmazását szolgálja az adózó választása szerint, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló rendeletben foglalt támogatásnak vagy az adóévben igénybe vett csekély összegű (de minimis) támogatásnak vagy a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak minősül;
+
+c) minden más esetben az adózó választása szerint, az adóévben igénybe vett csekély összegű (de minimis) támogatásnak, vagy a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak minősül.
 
 (5) Az adózónak az igénybe vett adókedvezményt késedelmi pótlékkal növelten vissza kell fizetnie, ha
 

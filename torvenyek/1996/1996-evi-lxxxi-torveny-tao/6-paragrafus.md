@@ -28,7 +28,7 @@ d) ha a 2. § (6) bekezdése alapján adóalany.
 
 (8) A jövedelem-(nyereség-)minimum meghatározásakor az összes bevételt csökkenti
 
-a) az eladott áruk beszerzési értéke és az eladott közvetített szolgáltatás értéke;
+a)
 
 b) a jogelőd tagjánál, részvényesénél – a kedvezményezett átalakulással létrejött adózóban szerzett részesedés bekerülési értékeként – az adóévben elszámolt bevétel;
 

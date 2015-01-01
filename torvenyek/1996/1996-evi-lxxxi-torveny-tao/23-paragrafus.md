@@ -10,4 +10,6 @@
 
 (5) A külföldi vállalkozó az e törvényben meghatározott adókedvezményekkel a belföldi telephelyén megvalósított beruházás, foglalkoztatottak éves átlagos állományi létszáma, illetve a belföldi telephelye útján elért árbevétel alapján élhet.
 
-(6) Ha törvény az adókedvezmény igénybevételének utolsó évét meghatározza, akkor azt utoljára abban az adóévben lehet érvényesíteni, amelynek utolsó napja a törvényben megjelölt évben van
+(6) Ha törvény az adókedvezmény igénybevételének utolsó évét meghatározza, akkor azt utoljára abban az adóévben lehet érvényesíteni, amelynek utolsó napja a törvényben megjelölt évben van.
+
+(7) Ugyanazon adóév tekintetében a 22. § (1) bekezdésében és a 22/C. § (2) bekezdésében meghatározott adókedvezmény együttesen nem alkalmazható a 24/A. § szerinti felajánlással és a 24/B. § szerinti jóváírással.

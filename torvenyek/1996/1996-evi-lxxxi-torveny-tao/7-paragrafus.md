@@ -118,11 +118,13 @@ a) abban az adóévben alkalmazhatja, amely adóév egészében valamennyi tagja
 
 b) nem alkalmazhatja az üzemkörön kívüli ingatlan, az ültetvény bekerülési értékére, az üzemkörön kívüli ingatlan, az ültetvény bekerülési értékét növelő adóévi felújítás, bővítés, rendeltetés-változtatás, átalakítás értékére, valamint a hibás teljesítés miatt a jótállási időn belül cserébe kapott tárgyi eszköz, szoftvertermékek felhasználási joga, szellemi termék bekerülési értékére, ha a cserére visszaadott tárgyi eszközre, szoftvertermékek felhasználási jogára, szellemi termékre az adózó alkalmazta az (1) bekezdés zs) pontjának előírását.
 
-(12) Az (1) bekezdés zs) pontja szerinti összeg nem haladhatja meg az adózás előtti eredményt, és nem lehet több 30 millió forintnál. Ennek az összegnek a 19. § (1) bekezdése szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában, ha a beruházás elsődleges mezőgazdasági termelést szolgál, az Európai Közösséget Létrehozó Szerződés 107. és 108. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásra történő alkalmazásáról szóló rendeletben foglalt támogatásként vehető igénybe, minden más esetben az adózó választása szerint
+(12) Az (1) bekezdés zs) pontja szerinti összeg nem haladhatja meg az adózás előtti eredményt, és nem lehet több 30 millió forintnál. Ennek az összegnek a 19. § szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában,
 
-a) az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül, vagy
+a) ha a beruházás elsődleges mezőgazdasági termelést szolgál, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló rendeletben foglalt támogatásnak minősül,
 
-b) a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak tekintendő.
+b) ha a beruházás mezőgazdasági termék feldolgozását vagy mezőgazdasági termék forgalmazását szolgálja az adózó választása szerint, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló rendeletben foglalt támogatásnak, vagy az adóévben igénybe vett csekély összegű (de minimis) támogatásnak vagy a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak minősül;
+
+c) minden más esetben az adózó választása szerint, az adóévben igénybe vett csekély összegű (de minimis) támogatásnak, vagy a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak minősül.
 
 (13)
 

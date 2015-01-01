@@ -136,6 +136,8 @@ d) a külföldi vállalkozó és belföldi telephelye, valamint a külföldi vá
 
 e) az adózó és külföldi telephelye, továbbá az adózó külföldi telephelye és az a személy, amely az adózóval az a)–c) alpontban meghatározott viszonyban áll;
 
+f) az adózó és más személy, ha köztük az ügyvezetés egyezőségére tekintettel az üzleti és pénzügyi politikára vonatkozó döntő befolyásgyakorlás valósul meg;
+
 23/a. kedvezményezett átalakulás: az olyan átalakulás (a továbbiakban ideértve az egyesülést, a szétválást is), amelyben jogelődként és jogutódként is csak társaság (32/a. pont) vesz részt, ha
 
 a) a jogügylet révén a jogelőd tagja, részvényese az átalakulás, egyesülés, szétválás keretében a jogutódban részesedést és legfeljebb a megszerzett részesedés együttes névértéke (névérték hiányában a jegyzett tőke arányában meghatározott értéke) 10 százalékának megfelelő pénzeszközt szerez, valamint
@@ -148,9 +150,9 @@ c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be;
 
 23/c. kedvezményezett részesedéscsere: az a jogügylet, amelynek alapján egy társaság (a megszerző társaság) a szavazati jogok többségét biztosító vagy azt tovább növelő részesedést szerez egy másik társaság (a megszerzett társaság) jegyzett tőkéjében annak ellenében, hogy a megszerzett társaság tagja (tagjai), részvényese (részvényesei) a megszerző társaságban részesedést, valamint – szükség esetén – a részesedés névértékének (névérték hiányában arányos könyv szerinti értékének) a 10 százalékát meg nem haladó pénzeszközt szerez, feltéve, hogy a részesedéscserét valós gazdasági, kereskedelmi okok alapozzák meg, azzal, hogy a valós gazdasági, kereskedelmi okok fennállását az adózó köteles bizonyítani, ha a megszerző társaság ellenőrzött külföldi társaságnak minősül;
 
-23/d. kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatás: a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló a Bizottság 800/2008/EK rendelete (2008. augusztus 6.) 1–13. cikkei alapján megillető támogatás;
+23/d. kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatás: a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet 1–14. és 17. cikkei alapján megillető támogatás;
 
-23/e. kutatás-fejlesztési megállapodás: a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény 4. § 10. pont szerinti kutatás-fejlesztési megállapodás;
+23/e. kutatás-fejlesztési megállapodás: a tudományos kutatásról, fejlesztésről és innovációról szóló törvény szerinti kutatás-fejlesztési megállapodás;
 
 24. mikro-, kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvényben ilyenként meghatározott vállalkozás, ideértve az említett törvényben előírt feltételeknek megfelelő ügyvédi irodát, végrehajtói irodát, szabadalmi ügyvivői irodát, és közjegyzői irodát is azzal, hogy kisvállalkozásnak minősül az említett törvény szerinti mikrovállalkozás is;
 
@@ -186,7 +188,7 @@ c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be;
 
 31/c. személygépkocsi: négy, illetve három gumiabroncskerékkel felszerelt olyan gépjármű, amely a vezetővel együtt legfeljebb nyolc felnőtt személy szállítására alkalmas, azzal, hogy idetartozik a benzinüzemű, a dízelüzemű, az elektromos üzemű, a gázüzemű személygépkocsi, a versenyautó, az önjáró lakóautó; személygépkocsinak minősül továbbá az a vegyes használatú, 2500 kg-ot meg nem haladó megengedett együttes tömegű olyan gépjármű (nagy rakodóterű személygépkocsi), amelynek rakodótere gyárilag kialakítva kettőnél több utas szállítására alkalmas, de kézzel egyszerűen oldható ülésrögzítése révén a teherszállításra bármikor átalakítható a válaszfal mögötti rakodótér, ideértve azt az esetet is, ha az ülés eltávolítására visszafordíthatatlan műszaki átalakítással került sor;
 
-32. saját tevékenységi körében végzett K+F tevékenység: az adózó saját eszközeivel és alkalmazottaival a saját eredményére és kockázatára végzett K+F tevékenység, illetve az a K+F tevékenység, amelyet az adózó a saját eszközeivel és alkalmazottaival más személy megrendelésére teljesít; saját tevékenységi körben végzett alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költségének minősül a kutatásfejlesztési megállapodás alapján, közös kutatás-fejlesztési tevékenység keretében egymás között megosztva végzett kutatás-fejlesztés tevékenység közvetlen költsége is;
+32. saját tevékenységi körében végzett K+F tevékenység: az adózó saját eszközeivel és alkalmazottaival a saját eredményére és kockázatára végzett K+F tevékenység, illetve az a K+F tevékenység, amelyet az adózó a saját eszközeivel és alkalmazottaival más személy megrendelésére teljesít, továbbá a kutatásfejlesztési megállapodás alapján végzett (közös) kutatás-fejlesztési tevékenység;
 
 32/a. társaság: a gazdasági társaság (ideértve a szabályozott ingatlanbefektetési elővállalkozást, a szabályozott ingatlanbefektetési társaságot és a szabályozott ingatlanbefektetési projekttársaságot is), az egyesülés, a szövetkezet, továbbá a 2003. évi uniós csatlakozási szerződést kihirdető törvény hatálybalépésének napjától az Európai Unió tagállamának adóra vonatkozó jogszabályai szerint ott belföldi illetőséggel bíró olyan társaság, amely
 
@@ -202,7 +204,7 @@ b) az építkezés vagy az összeszerelő tevékenység (a továbbiakban együtt
 
 c) a külföldi személyt telephellyel rendelkezőnek kell tekinteni belföldön lévő természeti erőforrás közvetlen hasznosítása esetén,
 
-d) a külföldi személyt telephellyel rendelkezőnek kell tekinteni ingatlan és természeti erőforrás térítés ellenében történő hasznosítása, ingatlanhoz és természeti erőforráshoz kapcsolódó vagyoni értékű jog térítés ellenében történő átadása, értékesítése, apportálása (a továbbiakban együtt: ingatlan hasznosítása), továbbá ingatlan értékesítése esetén,
+d) a külföldi személyt (kivéve az olyan jogi személyiséggel rendelkező, EGT államban alapított ingatlanbefektetési alapot, amely az alapítása szerinti államban nem alanya a társasági adónak megfelelő nyereségadónak) telephellyel rendelkezőnek kell tekinteni ingatlan és természeti erőforrás térítés ellenében történő hasznosítása, ingatlanhoz és természeti erőforráshoz kapcsolódó vagyoni értékű jog térítés ellenében történő átadása, értékesítése, apportálása (a továbbiakban együtt: ingatlan hasznosítása), továbbá ingatlan értékesítése esetén,
 
 e) a külföldi személyt telephellyel rendelkezőnek kell tekinteni – kivéve, ha csak a g) pontban említett tevékenységet végzi – azon tevékenységek esetében, amelyeket más személy a külföldi személy nevében vállal, ha a külföldi személy nevében szerződést köthet belföldön – és e jogával rendszeresen él –, illetve áru- vagy termékkészletet tart fenn, amelyből rendszeresen szállít a külföldi személy nevében,
 
@@ -253,6 +255,10 @@ Több látvány-csapatsportban több jogi személy szervezeti egységgel (szakos
 43/a. látvány-csapatsport fejlesztése érdekében létrejött közhasznú alapítvány: minden olyan, a sportról szóló törvényben meghatározott szabályok szerint működő utánpótlás-nevelés fejlesztését végző alapítvány, amelyik közhasznúnak minősül;
 
 44. látvány-csapatsport támogatása: az adóévben visszafizetési kötelezettség nélkül nyújtott támogatás, juttatás, véglegesen átadott pénzeszköz és térítés nélkül átadott eszköz könyv szerinti értéke, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke az e törvényben meghatározott jogcímeken;
+
+44/a. általános képzés: olyan oktatást tartalmazó képzés, amely nem kizárólag vagy nem elsődlegesen a munkavállalónak a vállalkozásnál jelenleg betöltött vagy későbbiekben betöltendő állásában alkalmazható, hanem olyan képesítést ad, amely nagy mértékben hasznosítható más vállalkozásoknál vagy munkaterületeken;
+
+44/b. szakképzés: olyan oktatást tartalmazó képzés, amely közvetlenül és elsődlegesen a munkavállalónak a vállalkozásnál jelenleg betöltött vagy a jövőben betöltendő állásában alkalmazható, és olyan képesítést ad, amely nem vagy csak csekély mértékben hasznosítható más vállalkozásoknál vagy más munkaterületeken;
 
 45. termőföld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező-, erdőgazdasági hasznosítású föld;
 

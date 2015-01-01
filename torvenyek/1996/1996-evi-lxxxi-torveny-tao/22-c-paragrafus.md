@@ -38,7 +38,7 @@ cb) a cc) alpontban foglaltakra is figyelemmel tárgyi eszköz beruházásra, fe
 
 cc) a sportrendezvények biztonságáról szóló külön jogszabályban meghatározott biztonsági követelmények teljesülését szolgáló infrastruktúra-fejlesztésre,
 
-cd) képzéssel összefüggő feladatokra – azzal, hogy az ilyen jogcímen nyújtott támogatás az Európai Közösséget létrehozó Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-i 800/2008/EK bizottsági rendelet 8. szakaszával összhangban, általános vagy szakképzési támogatásként nyújtható –,
+cd) képzéssel összefüggő feladatokra – azzal, hogy az ilyen jogcímen nyújtott támogatás az Európai Közösséget létrehozó Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet 5. szakaszával összhangban képzési támogatásként nyújtható –,
 
 ce) a személyi jellegű ráfordításaira – azzal, hogy az ilyen jogcímen nyújtott támogatás csekély összegű (de minimis) támogatásként nyújtható –;
 
@@ -56,7 +56,7 @@ de) képzéssel összefüggő feladatokra;
 
 df) versenyeztetéssel összefüggő költségek támogatására.
 
-e) a sport stratégiai fejlesztését szolgáló, a költségvetési törvényben meghatározott állami sportcélú támogatás felhasználásában döntéshozatali jogkörrel rendelkező és a támogatást folyósító sportköztestület részére
+e) a sport stratégiai fejlesztését szolgáló, a költségvetési törvényben meghatározott állami sportcélú támogatás felhasználásában döntéshozatali jogkörrel rendelkező és a támogatást folyósító sportköztestület (a továbbiakban: Magyar Olimpiai Bizottság) részére
 
 ea) a személyi jellegű ráfordításaira – azzal, hogy a sportról szóló törvény szerinti hivatásos sportoló részére, valamint az amatőr sportoló részére a sportról szóló törvény szerint díjazásnak nem minősülő, de pénzben kifejezhető vagyoni értékkel bíró támogatásként személyi jellegű ráfordítás nem nyújtható –,
 
@@ -74,7 +74,7 @@ b) a támogatás és a kiegészítő sportfejlesztési támogatás átutalásán
 
 a) az (1) bekezdés a)–d) pontja hatálya alá tartozó támogatás esetén – az adózó döntése szerint – vagy a támogatási igazolás szerint támogatásban részesített látvány-csapatsport országos sportági szakszövetsége részére, vagy az e látvány-csapatsport keretében vagy érdekében az (1) bekezdés b)–d) pontjában meghatározottak szerint működő sportszervezet (sportiskola), közhasznú alapítvány részére,
 
-b) az (1) bekezdés e) pontjában meghatározott támogatás esetén a támogatásban részesített sportköztestület részére
+b) az (1) bekezdés e) pontjában meghatározott támogatás esetén a támogatásban részesített Magyar Olimpiai Bizottság részére
 
 a támogatás adóévében megfizetni.
 
@@ -104,7 +104,7 @@ c) személyi jellegű ráfordítása 50 százalékát,
 
 d) képzési feladataival összefüggő kiadásainak
 
-da) általános képzés esetén 60 százalékát,
+da) általános képzés esetén 50 százalékát, ami a 651/2014/EU bizottsági rendelet 31. cikk (4) bekezdésében foglaltaknak megfelelően legfeljebb 70%-os mértékig növelhető,
 
 db) szakképzés esetén 25 százalékát,
 

@@ -1,6 +1,6 @@
 ## Veszteségelhatárolás
 
-17. § (1) Amennyiben a 6. § (1)–(4) bekezdése szerinti adóalap bármely adóévben negatív, ezzel az összeggel az adózó a következő adóévekben – a (2)–(9) bekezdésekben foglaltakat figyelembe véve – döntése szerinti megosztásban csökkentheti az adózás előtti eredményét, feltéve, hogy a negatív adóalap a rendeltetésszerű joggyakorlás elvének betartásával keletkezett (a továbbiakban: elhatárolt veszteség).
+17. § (1) Amennyiben a 6. § (1)–(4) bekezdése szerinti adóalap bármely adóévben negatív, ezzel az összeggel az adózó a következő öt adóévben – a (2)–(9a) bekezdésekben foglaltakat figyelembe véve – döntése szerinti megosztásban csökkentheti az adózás előtti eredményét, feltéve, hogy a negatív adóalap a rendeltetésszerű joggyakorlás elvének betartásával keletkezett (a továbbiakban: elhatárolt veszteség).
 
 (2) A korábbi adóévek elhatárolt vesztesége legfeljebb a felhasználása (az adózás előtti eredmény csökkentéseként történő elszámolása) nélkül számított adóévi adóalap 50 százalékáig számolható el az adózás előtti eredmény csökkentéseként.
 
@@ -20,6 +20,8 @@ a) az átalakulás, egyesülés, szétválás során benne – a Ptk. rendelkez�
 
 b) a jogutód társaság az átalakulást, egyesülést, szétválást követő két adóévben a jogelőd által folytatott legalább egy tevékenységből bevételt, árbevételt szerez. Nem kell e feltételt teljesíteni, ha az adózó az átalakulást, egyesülést, szétválást követő két adóéven belül jogutód nélkül megszűnik, továbbá, ha a jogelőd tevékenysége kizárólag vagyonkezelésre irányult.
 
+(8a) A jogutód társaság az átalakulás (egyesülés, szétválás) útján átvett elhatárolt veszteséget adóévenként legfeljebb olyan arányban használhatja fel, amilyen arányt a jogutód társaságnál a jogelőd által folytatott tevékenység folytatásából származó adóévi bevétel, árbevétel a jogelőd ugyanezen tevékenységből származó bevételének, árbevételének az átalakulást (egyesülést, szétválást) megelőző három adóév átlagában számított összegében képvisel. Nem kell ezt a rendelkezést alkalmazni, ha a jogelőd tevékenysége kizárólag vagyonkezelésre irányult.
+
 (9) Az adózó nem jogosult az adóévben és az azt megelőző bármely adóévben keletkezett elhatárolt veszteség felhasználására, ha benne olyan adózó szerez – a Ptk. rendelkezéseinek megfelelő alkalmazásával megállapított – közvetlen vagy közvetett többségi befolyást (ide nem értve az átalakulással, egyesüléssel, szétválással történő részesedés szerzést), amely e befolyása megszerzését megelőző két adóévben (a jogelődje tagi, részvényesi jogviszonyát is figyelembe véve) nem állt folyamatosan az adózóval vagy jogelődjével kapcsolt vállalkozási viszonyban. E rendelkezés hatálya nem terjed ki az adózóra
 
 a) ha a többségi befolyás megszerzését megelőzően az általa vagy a többségi befolyást megszerző társaság által kibocsátott részvényeknek legalább egy részét a tőkepiacról szóló törvényben meghatározott szabályozott piacra már bevezették, vagy
@@ -29,6 +31,8 @@ b) ha a társaság a tevékenységét a többségi befolyás megszerzését köv
 ba) annak természete jelentősen nem tér el a többségi befolyás megszerzését megelőzően végzett tevékenységtől, azzal, hogy a tevékenység jelentős változását jelenti különösen az üzleti tevékenység során nyújtott szolgáltatások, értékesített termékek, kezelt vagyon, értékesítési piac, ügyfélkapcsolatok körének az alapvető változása, ideértve, ha a kereskedelmi, termelői, szolgáltatói tevékenységet vagyonkezelői tevékenység váltja fel,
 
 bb) a tevékenységből mindkét adóévben bevételt, árbevételt szerez.
+
+(9a) Az elhatárolt veszteség felhasználására a (9) bekezdés értelmében jogosult adózó az elhatárolt veszteségét adóévenként legfeljebb olyan arányban érvényesítheti, amilyen arányt a többségi befolyásszerzést megelőzően folytatott tevékenység továbbfolytatásából származó adóévi bevétel, árbevétel a többségi befolyás megszerzését megelőzően folytatott tevékenységből származó bevétel, árbevétel a befolyásszerzést megelőző három adóév átlagában számított összegében képvisel.
 
 (10) A külföldi vállalkozó tevékenységét folytató európai részvénytársaság, európai szövetkezet a külföldi vállalkozónál, illetve az európai részvénytársaság, az európai szövetkezet tevékenységét folytató külföldi vállalkozó az európai részvénytársaságnál, az európai szövetkezetnél keletkezett és az adózás előtti eredmény csökkentéseként még el nem számolt elhatárolt veszteségre az (1)–(6) bekezdés rendelkezéseit alkalmazza.
 

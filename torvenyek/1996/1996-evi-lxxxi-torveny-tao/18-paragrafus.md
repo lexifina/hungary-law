@@ -41,3 +41,5 @@ b) az adózónak az állam vagy helyi önkormányzat részére történő, jogsz
 (7) Az (1)–(6) bekezdésben foglaltakat megfelelően alkalmazni kell a külföldi vállalkozó és belföldi telephelye, illetve az adózó és külföldi telephelye közötti ügyletekre is.
 
 (8) Az (1), továbbá az (5) bekezdésben foglalt rendelkezést nem kell alkalmazni a belföldi illetőségű adózó külföldi telephelye és kapcsolt vállalkozása közötti ügyletre, ide nem értve a (7) bekezdés szerinti ügyletet, ha a belföldi illetőségű adózó nemzetközi szerződés rendelkezése alapján a társasági adóalapját úgy módosítja, hogy az ne tartalmazza a külföldön adóztatható jövedelmet.
+
+(9) Amennyiben a (2) bekezdésben meghatározott módszerek alkalmazása során indokolt (különös tekintettel a funkcióelemzésre, a minta elemszámára vagy a szélsőértékekre), az adózó azon középső tartomány alkalmazásával, amelybe a minta elemeinek fele esik (interkvartilis tartomány) további szűkítést végez, figyelembe véve az e törvény felhatalmazása alapján kiadott, a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló miniszteri rendelet előírásait.
