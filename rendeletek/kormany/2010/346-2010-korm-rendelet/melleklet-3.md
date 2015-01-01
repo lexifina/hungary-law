@@ -34,6 +34,14 @@ I. Központi finanszírozásúak
 
 |  | 1.8. A kormányzati célú hírközlési szolgáltatóknál és az elkülönült hírközlési tevékenység végzésére jogosultaknál e tevékenységgel kapcsolatos készenléti feladatot ellátó szervezeti egységek | X |
 
+|  | 1.9. Országgyűlési Őrség | X |
+
+|  | 1.10. Belügyminisztérium Nemzetközi Oktatási Központ | X |
+
+|  | 1.11. Rendészeti szakközépiskolák | X |
+
+|  | 1.12. Bevándorlási és Állampolgársági Hivatal | X |
+
 |  | 2. Országos Katasztrófavédelmi Főigazgatóság /OKF VPN/ | X | 2.1. Hivatásos katasztrófavédelmi szerv központi szerve |  |
 
 |  | 2.2. Hivatásos katasztrófavédelmi szerv területi szervei | X |
@@ -109,4 +117,4 @@ II. Egyedi finanszírozásúak
 [^116]: A 2. melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § a) pontja szerint módosított szöveg.
 [^117]: A 2. melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § b) pontja szerint módosított szöveg.
 [^118]: A 2. melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § c) pontja szerint módosított szöveg.
-[^119]: A 3. melléklet a 169/2013. (V. 29.) Korm. rendelet 31. § (3) bekezdésével megállapított, a 98/2014. (III. 25.) Korm. rendelet 10. §-a, a 221/2014. (IX. 4.) Korm. rendelet 531. § d)–h) pontja szerint módosított szöveg.
+[^119]: A 3. melléklet a 169/2013. (V. 29.) Korm. rendelet 31. § (3) bekezdésével megállapított, a 98/2014. (III. 25.) Korm. rendelet 10. §-a, a 221/2014. (IX. 4.) Korm. rendelet 531. § d)–h) pontja, a 382/2014. (XII. 31.) Korm. rendelet 1. §-a szerint módosított szöveg.
