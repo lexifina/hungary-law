@@ -8,7 +8,7 @@ b) az erőművet vagy távhőtermelő létesítményt üzemeltető személy, aki
 
 c) az a távhőtermelő létesítményt üzemeltető személy (ideértve a külön rendelet szerint központi fűtést és melegvíz-szolgáltatást végző személyt is), aki lakosságnak szolgáltatott hő előállítására energiát használ fel;
 
-d) az a személy, aki kémiai redukcióban, elektrolitikus és kohászati folyamatban energiát használ fel;
+d) az a személy, aki kémiai redukcióban, ásványtani, elektrolitikus és kohászati folyamatban energiát használ fel;
 
 e) az a személy, aki vegyipari alapanyagként használ fel földgázt;
 
@@ -26,7 +26,7 @@ a) a vételárban megfizetett adót,
 
 b) kivetéses adózás esetén a kivetett és megfizetett adót,
 
-c) a 3. § (1) bekezdés c) és d) pontja szerint megállapított adó esetében a bevallott adót
+c) a 3. § (1) bekezdés c), d) és h) pontja szerint megállapított adó esetében a bevallott adót
 
 igényelheti vissza vagy helyezheti levonásba.
 

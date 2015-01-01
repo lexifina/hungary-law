@@ -8,8 +8,8 @@ c) a szén mennyisége ezer kg-ban mérve.
 
 (2) Az adó mértéke
 
-a) villamos energiára megawattóránként 295 forint,
+a) villamos energiára megawattóránként 310,50 forint,
 
-b) a földgázra gigajoule-onként 88,50 forint,
+b) a földgázra gigajoule-onként 93,50 forint,
 
-c) a szénre ezer kg-onként 2390 forint.
+c) a szénre ezer kg-onként 2516 forint.

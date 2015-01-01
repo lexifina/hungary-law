@@ -2,7 +2,9 @@
 
 2. § E törvény alkalmazásában:
 
-1. átviteli hálózat: a villamos energia átvitelére szolgáló vezetékrendszer;
+1. ásványtani folyamat: a gazdasági tevékenységek statisztikai osztályozásáról szóló 1990. október 9-i 3037/90/EGK tanácsi rendelet DI 26 „egyéb nemfém ásványi termék gyártása” kód alá besorolt folyamat;
+
+1/A. átviteli hálózat: a villamos energia átvitelére szolgáló vezetékrendszer;
 
 2. elektrolitikus folyamat: minden olyan folyamat, amelynél elektromos energia felhasználása mellett oxidáció és redukció megy végbe az elektrolitoldat és az elektródok érintkezési felületén;
 
