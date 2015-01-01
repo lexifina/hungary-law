@@ -1,6 +1,6 @@
 14. § Az egészségügyi államigazgatási szervnek
 
-a) a környezet- és település-egészségügy – ideértve különösen a vizekkel, az ivó-, gyógy- és ásványvizekkel, a gyógy- és közfürdőkkel, valamint a természetes fürdőhelyekkel kapcsolatos feladatokat –,
+a) a környezet- és település-egészségügy – ideértve különösen a vizekkel, az ivó-, gyógy- és ásványvizekkel, a gyógy- és közfürdőkkel, valamint a természetes fürdőhelyekkel és természetes fürdővizekkel kapcsolatos feladatokat –,
 
 b) az élelmezés- és táplálkozás-egészségügy,
 

@@ -6,9 +6,9 @@
 
 (3) Az ellenőrzésről jegyzőkönyvet kell készíteni, amelynek a ténymegállapításokon kívül tartalmaznia kell a felelős személy ezekre vonatkozó nyilatkozatát is.
 
-(4) Ha az ellenőrzésen a felelős személy nem volt jelen, a jegyzőkönyv másolati példányát meg kell küldeni részére azzal, hogy nyilatkozatát a kézbesítéstől számított tizenöt napon belül megteheti.
+(4) Ha az ellenőrzésen a felelős személy nem volt jelen, a jegyzőkönyv másolati példányát meg kell küldeni részére azzal, hogy nyilatkozatát a kézbesítéstől számított nyolc napon belül megteheti.
 
-(5) Az egészségügyi államigazgatási szerv jogosult az ellenőrzéshez szükséges vizsgálatokat elvégezni, illetve külön jogszabályban meghatározottak szerint elvégeztetni.
+(5) Az egészségügyi államigazgatási szerv jogosult az ellenőrzéshez szükséges vizsgálatokat elvégezni vagy jogszabályban meghatározottak szerint elvégeztetni. Az ellenőrzéshez szükséges vizsgálatokhoz az egészségügyi államigazgatási szerv jogosult térítésmentesen mintát venni.
 
 (6) Az egészségügyi államigazgatási szerv a hatósági ellenőrzés során próbavásárlást – ideértve az interneten történő vásárlást is – végezhet.
 

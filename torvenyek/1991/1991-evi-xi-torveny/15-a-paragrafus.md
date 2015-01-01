@@ -2,7 +2,7 @@
 
 (2) Az egészségügyi államigazgatási szerv az (1) bekezdés alapján megtett bejelentésekre tekintettel 2014. december 31-ig gondoskodik
 
-a) az Eütv. 108/A. § (2) bekezdésében meghatározott feltételeknek megfelelő és az (1) bekezdés szerinti bejelentésben feltüntetett közreműködő működési engedélyének visszavonásáról, vagy – ha az egészségügyi szolgáltató működési engedélye nem kizárólag közreműködésre szól – a működési engedély közreműködésre irányuló tartalmának hatályon kívül helyezésével a működési engedély hivatalból történő módosításáról,
+a) az Eütv. 108/A. § (2) bekezdésében meghatározott feltételeknek megfelelő és az (1) bekezdés szerinti bejelentést tevő közreműködő működési engedélyének visszavonásáról, vagy – ha az egészségügyi szolgáltató működési engedélye nem kizárólag közreműködésre szól – a működési engedély közreműködésre irányuló tartalmának hatályon kívül helyezésével a működési engedély hivatalból történő módosításáról,
 
 b) a közreműködőnek vagy a szabadfoglalkozású jogviszonyban álló személynek vagy szervezetnek a 6/A. § (1) bekezdés szerinti nyilvántartásba vételéről,
 

@@ -10,7 +10,7 @@ d) véleményezi az egészségügyi intézmények szervezetével és feladatáva
 
 e) engedélyezi – ha jogszabály másként nem rendelkezik – az egészségügyi szolgáltató tevékenységének végzését, ellenőrzi a tevékenységet, valamint nyilvántartást vezet az egészségügyi szolgáltatókról, az egészségügyi szolgáltatók szervezeti egységeiről, az általuk végezhető, engedélyezett szakmákról, valamint az egy szakmán belül végezhető egyes tevékenységekről, az egészségügyi szolgáltatás nyújtására jogosító működési engedélyekről, valamint az egészségügyi szolgáltatók nevében és felelősségére egészségügyi tevékenységet végző egészségügyi dolgozóknak az egészségügyi tevékenység végzésével összefüggő adatairól;
 
-f) az egészségügyi szolgáltatók bejelentése alapján nyilvántartja, szükség esetén összehangolja, illetőleg az érintett egészségügyi szolgáltatók és fenntartóik véleményének kikérése után megállapítja és közzéteszi a megye (főváros) ügyeleti, készenléti ellátásának és betegbeutalásának területi rendjét, ideértve a gyógyszertári ügyeletet és készenlétet is ;
+f) az egészségügyi szolgáltatók bejelentése alapján nyilvántartja, szükség esetén összehangolja, illetőleg az érintett egészségügyi szolgáltatók és fenntartóik véleményének kikérése után megállapítja és közzéteszi a megye (főváros) ügyeleti, készenléti ellátásának és betegbeutalásának területi rendjét;
 
 g) ellátja a gyógyhelyek, gyógyfürdő intézmények és a természetes gyógytényezők vonatkozásában a külön jogszabályban meghatározott feladatokat;
 
@@ -34,7 +34,9 @@ n) tanácskozási joggal
 
 o) gyakorolja a külön törvényben meghatározottak szerint a lakossági gyógyszerellátással kapcsolatos hatósági feladatokat;
 
-p) ellenőrzi, hogy az egészségügyi szolgáltató térítési díjszabályzata megfelel-e a jogszabályban foglaltaknak, valamint hogy az egészségügyi szolgáltató a térítési díjszabályzatában foglaltaknak megfelelően jár-e el.
+p) ellenőrzi, hogy az egészségügyi szolgáltató térítési díjszabályzata megfelel-e a jogszabályban foglaltaknak, valamint hogy az egészségügyi szolgáltató a térítési díjszabályzatában foglaltaknak megfelelően jár-e el;
+
+q) megállapítja, összehangolja, nyilvántartja és közzéteszi a gyógyszertári ügyeletet és készenlétet.
 
 (2) Az egészségügyi államigazgatási szerv az (1) bekezdés h), i) és o) pontjaiban foglalt feladatokat külön jogszabályban foglaltak szerint látja el.
 

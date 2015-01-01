@@ -4,15 +4,23 @@ a) A kémiai és biológiai légszennyezettség (immisszió) egészségügyi hat
 
 b) az emberi használatra (üdülés, fürdés, vízi sport, ivóvízkivétel) szolgáló felszíni vizekre, valamint medencés fürdőkre vonatkozó közegészségügyi követelmények, valamint az ivóvíz és fürdésre használt vizek higiénés határértékeinek kimunkálása, az ivóvíz, ásvány- és gyógyvizek, palackozott vizek minőségének, a közegészségügyi követelmények betartásának, illetve érvényesülésének a rendszeres ellenőrzése;
 
-c) a talajjal, a szilárd és folyékony települési hulladékokkal, egyéb szennyvizekkel, veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények, normák kimunkálása, érvényesülésének ellenőrzése;
+c) a talajjal, a közszolgáltatás körébe tartozó hulladékokkal, szennyvizekkel és szennyvíziszapokkal, valamint a veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények, normák kimunkálása, érvényesülésének ellenőrzése;
 
 d) a belső terekben érvényesülő zaj és rezgés határértékek kimunkálása és ellenőrzése, illetőleg a környezeti immissziós zaj és rezgés határértékek kimunkálásában és ellenőrzésében való közreműködés;
 
-e) az oktató, nevelő és gondozó intézmények és tevékenységek közegészségügyi követelményeinek kimunkálása és érvényesítése.
+e) az oktató, nevelő és gondozó intézmények és tevékenységek közegészségügyi követelményeinek kimunkálása és érvényesítése;
+
+f) klíma-egészségügyi intézkedések megtétele, a hőségriasztás országos rendszerének működtetése,
+
+g) az építmények tervezése, létesítése és üzemeltetése közegészségügyi és egészségvédelmi követelményeinek kimunkálása, érvényesülésének ellenőrzése,
+
+h) az egészségügyi kockázattal járó, nem egészségügyi tevékenységek egészségügyi kockázatainak csökkentésére irányuló szakmai szabályok kimunkálása, érvényesülésének ellenőrzése,
+
+i) a környezeti eredetű kórokozók által okozott fertőzési kockázat csökkentésére, illetve megelőzésére irányuló előírások kimunkálása, érvényesülésének ellenőrzése.
 
 (2) Az egészségügyi államigazgatási szerv sugáregészségügyi tevékenysége keretében kimunkálja, ellenőrzi és érvényesíti a sugárzó anyagokkal, a sugárzást kibocsátó berendezésekkel, a nem ionizáló sugárzással, valamint az elektromos és mágneses erőterekkel kapcsolatos munkahelyi és környezeti sugárvédelmi normákat, közegészségügyi követelményeket.
 
-(3) Az egészségügyi államigazgatási szerv kémiai biztonsággal összefüggő tevékenysége körében ellátja a veszélyes anyagokkal és készítményekkel kapcsolatos külön jogszabály által előírt eljárás szerinti engedélyezési és ellenőrzési feladatokat, a veszélyes anyagok, veszélyes készítmények egészségügyi toxikológiai nyilvántartását és tájékoztató szolgálat működtetését.
+(3) Az egészségügyi államigazgatási szerv kémiai biztonsággal összefüggő tevékenysége körében ellátja a veszélyes anyagokkal és keverékekkel kapcsolatos külön jogszabály által előírt eljárás szerinti engedélyezési és ellenőrzési feladatokat, a veszélyes anyagok, veszélyes keverékek egészségügyi toxikológiai nyilvántartását és tájékoztató szolgálat működtetését.
 
 (4) Az egészségügyi államigazgatási szerv munkaegészségügyi tevékenysége körében
 
@@ -26,7 +34,11 @@ d) együttműködik a foglalkozás-egészségügyi szolgálattal az egészséges
 
 (5) Az élelmezés- és táplálkozásegészségügy keretében az egészségügyi államigazgatási szerv
 
-a) kimutatja a kozmetikai készítményekben, valamint az ezek készítéséhez használt anyagok összetevőiben előforduló vagy kezelésük során belekerülő vegyi, fizikai illetve biológiai egészségkárosító anyagokat, kimunkálja az ezekre vonatkozó közegészségügyi határértékeket és követelményeket, ellenőrzi és érvényesíti ezeket a termelés, feldolgozás, tárolás és forgalmazás során;
+a) a kozmetikai termékekkel kapcsolatos feladatkörében
+
+aa) kimutatja a kozmetikai termékekben, valamint az ezek készítéséhez használt anyagok összetevőiben előforduló vagy kezelésük során belekerülő vegyi, fizikai és biológiai egészségkárosító anyagokat, ellenőrzi és érvényesíti ezeket a termelés, feldolgozás, tárolás és forgalmazás során, hatáskörében ellátja a kozmetikai termékek és azok gyártásának, forgalmazásának hatósági ellenőrzését,
+
+ab) kidolgozza az aa) alpont szerinti körbe tartozó közegészségügyi követelményeket, jogszabály alapján ellátja az Európai Unió közvetlenül alkalmazandó jogi aktusa szerinti egyes eljárásokban a tagállami feladatokat, kijelölés alapján szakmai kapcsolatot tart az Európai Unió kozmetikai termékek szakterületen illetékes szerveivel, kijelölt nemzeti hatóságként kezeli a súlyos nemkívánatos hatások bejelentését, ellenőrzi a Magyarországon elhelyezett termékinformációs dokumentációt, valamint kozmetikai toxikológiai központot működtet,
 
 b) táplálkozás-egészségügy szakterületen
 

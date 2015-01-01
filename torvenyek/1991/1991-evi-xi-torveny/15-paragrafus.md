@@ -66,7 +66,17 @@ eb) mikrobiológiai tisztasági követelményeire,
 
 ec) használata során felmerülő nemkívánatos hatásokat értékelő méregellenőrző központ feladataira, valamint a méregellenőrző központnak megtett bejelentésekkel kapcsolatos követelményekre,
 
-ed) piacfelügyeleti ellenőrzésére kijelölt szervek feladatkörének megosztására
+ed) piacfelügyeleti ellenőrzésére kijelölt szervek feladatkörének megosztására,
+
+f) a használatimelegvíz-ellátásra vonatkozó közegészségügyi követelményeket,
+
+g) a használati meleg vízzel érintkező anyagok, technológiák vonatkozásában
+
+ga) a minőségi követelményeket,
+
+gb) az engedélyezési eljárás részletes szabályait,
+
+gc) a nyilvántartás vezetésének részletes szabályait.
 
 vonatkozó szabályokat.
 

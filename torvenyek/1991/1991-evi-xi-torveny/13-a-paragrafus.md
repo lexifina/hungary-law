@@ -56,15 +56,11 @@ e) az egészségügyi közszolgáltatásért felelős szerv nem teljesíti az eg
 
 (6) Az egészségügyi bírság összegét az eset összes körülményeire, így különösen a kötelezettségszegés (hiányosság, mulasztás) súlyára, az okozott sérelemmel érintettek körére, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértőnek való felróhatóság mértékére tekintettel kell meghatározni.
 
-(7) Az egészségügyi bírság kiszabása mellőzendő, ha az egészségügyi államigazgatási szerv a jogsértőt a fokozatosság elvének érvényesítése érdekében, az adott tényállással összefüggő magatartása miatt első alkalommal, írásban figyelmezteti a jogszabályok betartására, vagy bírság kiszabása nélkül tiltja el a jogsértéstől, illetve kötelezi a jogszerű állapot helyreállítására.
+(7)
 
-(8) A (7) bekezdésben foglaltaktól eltérően az egészségügyi államigazgatási szerv az egészségügyi bírság kiszabását nem mellőzheti, ha
+(8)
 
-a) az egészségügyi államigazgatási szervnek a jogsértést megállapító jogerős határozatában előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követően a kötelezett ismételten megsértett valamely, a bírság kiszabására okot adó jogszabályi rendelkezést, illetve jogellenes állapotot fenntartott, vagy
-
-b) a jogsértés a lakosság széles körének egészségét sérti vagy veszélyezteti.
-
-(9) A kiszabott bírságot az eljáró hatóság kérelemre mérsékelheti vagy elengedheti, ha az a fizetésre kötelezett számára méltánytalanul súlyos hátrányt jelent, amennyiben vele szemben a bírság kiszabását megelőző 2 éven belül egészségügyi bírság kiszabására nem került sor.
+(9)
 
 (10) A bírság többszörös jogsértés esetén ismételten is kiszabható.
 
