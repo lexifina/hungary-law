@@ -12,24 +12,24 @@
 
 | 4. | GDF SUEZ Energia Magyarország Zrt. | 3385 | 4701 | 11,700 |
 
-10. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^45]
+10. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^46]
 
-A 2/B. § szerinti földgázforrás ára 2014. negyedik negyedévre
+A 2/B. § szerinti földgázforrás ára 2015. első negyedévre
 
-1. A Magyar Földgázkereskedő Zrt., mint volt közüzemi nagykereskedő által a GET 141/C. § (2) bekezdése szerinti földgázkereskedő részére értékesítendő, nem földgáztárolóból beszerzett földgázforrás mennyisége és ára
+1. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által a GET 141/C. § (2) bekezdése szerinti földgázkereskedő részére értékesítendő, nem földgáztárolóból beszerzett földgázforrás mennyisége és ára
 
-|  |  | A | B |
+|  | A | B |
 
-|  | 1. | Nem földgáztárolóból beszerzett földgázforrás mennyisége (TJ) | Nem földgáztárolóból beszerzett földgázforrás ára (Ft/MJ) |
+| 1. | Nem földgáztárolóból beszerzett földgázforrás mennyisége (TJ) | Nem földgáztárolóból beszerzett földgázforrás ára (Ft/MJ) |
 
-|  | 2. | 1168 | 1,904 |
+| 2. | 1635 | 1,897 |
 
-2. A Magyar Földgázkereskedő Zrt., mint volt közüzemi nagykereskedő által a GET 141/C. § (2) bekezdése szerinti földgázkereskedő részére értékesítendő, földgáztárolóból beszerzett földgázforrás mennyisége és ára
+2. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által a GET 141/C. § (2) bekezdése szerinti földgázkereskedő részére értékesítendő, földgáztárolóból beszerzett földgázforrás mennyisége és ára
 
-|  |  | A | B |
+|  | A | B |
 
-|  | 1. | Földgáztárolóból beszerzett földgázforrás mennyisége (TJ) | Földgáztárolóból beszerzett földgázforrás ára (Ft/MJ) |
+| 1. | Földgáztárolóból beszerzett földgázforrás mennyisége (TJ) | Földgáztárolóból beszerzett földgázforrás ára (Ft/MJ) |
 
-|  | 2. | – | – |
+| 2. | - | - |
 
-[^45]: A 10. mellékletet a 43/2014. (X. 18.) NFM rendelet 7. §-a iktatta be.
+[^46]: A 10. mellékletet a 43/2014. (X. 18.) NFM rendelet 7. §-a iktatta be, szövege az 52/2014. (XII. 13.) NFM rendelet 7. § (8) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## A termelő által a 3. és 4. melléklet alapján átadott földgázmennyiség után fizetendő hozzájárulások mértéke 2014. negyedik negyedévére
+## A termelő által a 3. és 4. melléklet alapján átadott földgázmennyiség után fizetendő hozzájárulások mértéke 2015. első negyedévére
 
 |  | A | B |
 
@@ -6,6 +6,6 @@
 
 | 2. | kiegyenlítő hozzájárulás | 0 forint/MJ |
 
-7. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^42]
+7. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^43]
 
-[^42]: A 7. mellékletet a 34/2013. (VI. 27.) NFM rendelet 1. § (7) bekezdése iktatta be, szövege a 39/2014. (IX. 30.) NFM rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^43]: A 7. mellékletet a 34/2013. (VI. 27.) NFM rendelet 1. § (7) bekezdése iktatta be, szövege az 52/2014. (XII. 13.) NFM rendelet 7. § (6) bekezdésével megállapított szöveg.

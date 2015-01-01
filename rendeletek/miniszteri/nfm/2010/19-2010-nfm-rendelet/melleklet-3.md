@@ -1,14 +1,18 @@
-## A 2. § szerinti földgázforrás ára és mennyisége 2014. negyedik negyedévre, valamint a felek köre
+## A 2. § szerinti földgázforrás ára és mennyisége 2015. első negyedévre, valamint a felek köre
 
-## 1. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által értékesítendő, hazai termelésből származó földgázforrás legmagasabb hatósági ára és mennyisége:
+## 1. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által értékesítendő, nem földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége:
 
-|  | A | B | C |
+|  | A | B | C | D |
 
-| 1. | Szerződött egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Hazai termelésből beszerzett földgázforrás ára (forint/MJ) |
+|  | Szerződött egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Nem hazai termelésből beszerzett földgázforrás ára (USD/GJ) | Hazai termelésből beszerzett földgázforrás ára (forint/MJ) |
 
-| 2. | E.ON Energiaszolgáltató Kft. | 1378 | 0,907 |
+| 1. | E.ON Energiaszolgáltató Kft. | 1103 | 10,376 | - |
 
-| 3. | GDF SUEZ Energia Magyarország Zrt. | 1530 | 0,907 |
+| 2. | E.ON Energiaszolgáltató Kft. | 672 | - | 0,907 |
+
+| 3. | GDF SUEZ Energia Magyarország Zrt. | 674 | 10,376 | - |
+
+| 4. | GDF SUEZ Energia Magyarország Zrt. | 1700 | - | 0,907 |
 
 ## 2. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által értékesítendő, földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége:
 
@@ -16,12 +20,12 @@
 
 | 1. | Szerződött egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Földgázforrás ára (forint/MJ) |
 
-| 2. | E.ON Energiaszolgáltató Kft. | 4175 | 1,780 |
+| 2. | E.ON Energiaszolgáltató Kft. | 5716 | 1,780 |
 
-| 3. | GDF SUEZ Energia Magyarország Zrt. | 4470 | 1,846 |
+| 3. | GDF SUEZ Energia Magyarország Zrt. | 6323 | 1,846 |
 
-| 4. | FŐGÁZ Zrt. | 3956 | 2,122 |
+| 4. | FŐGÁZ Zrt. | 3603 | 1,752 |
 
-3. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^38]
+3. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^39]
 
-[^38]: A 3. melléklet a 39/2014. (IX. 30.) NFM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^39]: A 3. melléklet az 52/2014. (XII. 13.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.
