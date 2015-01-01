@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-124-00-00
 | 2013-01-01 | 2012. évi CCXII. törvény | 1997-124-00-00.16 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1997-124-00-00.17 |
 | 2014-01-01 | 2013. évi CCXXXVI. törvény | 1997-124-00-00.18 |
+| 2015-01-01 | 2014. évi XCIX. törvény | 1997-124-00-00.19 |
