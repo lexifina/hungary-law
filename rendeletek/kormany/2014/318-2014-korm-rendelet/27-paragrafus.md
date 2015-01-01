@@ -1,4 +1,4 @@
-## 26. §[^27]
+## 26. §[^12]
 
 ## 27. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. §, a 3–4. §, 6–7. §, 8. § (1) bekezdése, a 10–12. §, a 14–17. §, a 19. §, a 21. §, a 25. § és az 1–3., valamint 5–6. melléklet 2015. január 1-jén lép hatályba.
 
-[^27]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
