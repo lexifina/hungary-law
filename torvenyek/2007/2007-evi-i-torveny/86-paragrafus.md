@@ -20,7 +20,7 @@ f) a kitoloncolási őrizetbe vett, valamint a kijelölt helyen tartózkodásra 
 
 g) a kijelölt helyen tartózkodásra kötelezett személyre vonatkozó kötelező magatartási szabályokat;
 
-h) az EGT-állampolgár és a családtag magyarországi tartózkodásának részletes közegészségügyi szabályait, valamint az egészségügyi ellátás anyagi fedezetének mértékét és igazolásának szabályait,
+h) az EGT-állampolgár és a családtag egészségügyi ellátását, az egészségügyi ellátás anyagi fedezetének mértékét és igazolását;
 
 i) az idegenrendészeti kiutasítás kezdeményezésére, valamint a beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket.
 

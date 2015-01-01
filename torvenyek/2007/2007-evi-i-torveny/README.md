@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-1-00-00
 | 2013-09-01 | 2013. évi XCIII. törvény | 2007-1-00-00.23 |
 | 2013-11-29 | 2013. évi CXCVIII. törvény | 2007-1-00-00.24 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2007-1-00-00.25 |
+| 2015-01-01 | 2014. évi LXXII. törvény | 2007-1-00-00.26 |

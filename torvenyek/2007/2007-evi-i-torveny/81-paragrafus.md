@@ -2,6 +2,10 @@
 
 (2) A munkaügyi hatóság csak arra a személyre vonatkozó adatot igényelhet a 75. § (1) bekezdés a)–c) és g) pontjában foglalt résznyilvántartásokból, akit Magyarország más elbánásban részesít, mint amit a munkavállalók Közösségen belüli szabad mozgásáról szóló 1612/68/EGK rendelet 1–6. cikke előír.
 
+(2a) Az eljáró hatóság a 75. § (1) bekezdésében meghatározott résznyilvántartásokból a szervezett bűnözés elleni koordinációs központnak az utasadatok kockázatelemzéséhez szolgáltathat adatot.
+
+(2b) Az eljáró hatóság a kegyelmi eljárás során a legfőbb ügyész, illetve az igazságügyért felelős miniszter részére a 75. § (1) bekezdés d) és e) pontjában foglalt résznyilvántartásokból szolgáltathat adatot.
+
 (3) Nemzetközi szerződés vagy az Európai Unió közvetlenül alkalmazandó európai közösségi jogi aktusa alapján az abban meghatározott adatátvételre jogosult szerv részére szolgáltatható adat.
 
 (4) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és azokról személyazonosításra alkalmatlan módon a központi idegenrendészeti nyilvántartást kezelő szerv statisztikai célra adatokat szolgáltathat. A 75. § (1) bekezdés a)–c) és g) pontjában foglalt adatokból a Központi Statisztikai Hivatal részére statisztikai célú adatkezelés érdekében az adatok személyazonosításra alkalmas módon is átadhatók.
