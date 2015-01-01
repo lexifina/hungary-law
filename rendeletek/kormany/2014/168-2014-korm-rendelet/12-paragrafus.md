@@ -1,1 +1,3 @@
-## 11. § A 2007–2013-as programozási időszakra vonatkozóan nemzeti vidéki hálózat titkársági feladatait az agrár-vidékfejlesztésért felelős miniszterrel, mint irányító hatósággal kötött megállapodásban foglaltak szerint a Nemzeti Agrárszaktanácsadási Képzési és Vidékfejlesztési Intézet látja el.
+## 11. §[^1] A nemzeti vidéki hálózat titkársági feladatait az agrár-vidékfejlesztésért felelős miniszter, mint irányító hatóság látja el.
+
+[^1]: A 11. § a 373/2014. (XII. 31.) Korm. rendelet 55. §-ával megállapított szöveg.
