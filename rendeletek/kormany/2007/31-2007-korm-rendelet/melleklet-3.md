@@ -38,9 +38,9 @@
 
 | 20. | FÖMI | Parlagfű-veszélyeztetettség | 4.5. | évente | település | március 1. |
 
-| 21. | NMH | Munkanélküliség adatok | 1.1.4. | negyedévente | település | frissítést követő 30. nap |
+| 21. | NGM | Munkanélküliségi adatok | 1.1.4 | negyedévente | település | frissítést követő 30. nap |
 
-| 22. | NMH | Járási foglalkoztatottsági és munkanélküliségi információs rendszer | 1.1.4. | negyedévente | járás | frissítést követő 30. nap |
+| 22. | NGM | Járási foglalkoztatottsági és munkanélküliségi információs rendszer | 1.1.4 | negyedévente | járás | frissítést követő 30. nap |
 
 | 23. | FM | Nitrát-érzékenységi térkép | 4.5. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
@@ -324,7 +324,7 @@
 
 | 39. | Országos Meteorológiai Szolgálat | Meteorológia |
 
-| 40. | Nemzeti Munkaügyi Hivatal | NMH |
+| 40. |  |  |
 
 | 41. | Országos Nyugdíjbiztosítási Főigazgatóság | ONYF |
 
