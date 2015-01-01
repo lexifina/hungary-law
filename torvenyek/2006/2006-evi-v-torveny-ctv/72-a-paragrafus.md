@@ -2,7 +2,7 @@
 
 (2) A törvényességi felügyeleti eljárás iránti elektronikus kérelmet, illetve a törvényességi felügyeleti eljárás során benyújtandó egyéb beadványt, valamint azok mellékleteit (a továbbiakban e § alkalmazásában együttesen: kérelem) a céginformációs szolgálathoz kell megküldeni. A kérelem a kormányzati portálon keresztül is benyújtható. A kérelemhez elektronikus űrlapot kell mellékelni. A kérelem és az űrlap informatikai feltételeire – a (4) bekezdésben foglalt kivétellel – a cégbejegyzési eljárásban benyújtható okiratokra vonatkozó szabályokat kell alkalmazni.
 
-(3) Ha a kérelmező cég, kérelmét kizárólag elektronikus úton nyújthatja be.
+(3) A cég a törvényességi felügyeleti eljárásban kérelmét kizárólag elektronikus úton nyújthatja be.
 
 (4) A (3) bekezdés szerinti cég, továbbá az elektronikus kapcsolattartást vállaló, a 77. § (1) bekezdés c) pontja szerinti, cégnek nem minősülő kérelmező a kérelmét legalább fokozott biztonságú elektronikus aláírással és minősített időbélyegzővel ellátva köteles benyújtani. Az elektronikus kapcsolattartásról a papír alapú kapcsolattartásra történő áttérést csak a 77. § (1) bekezdés c) pontja szerinti, cégnek nem minősülő kérelmező kezdeményezheti.
 
