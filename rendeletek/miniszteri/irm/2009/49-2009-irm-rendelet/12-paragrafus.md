@@ -1,16 +1,17 @@
-## 11. §[^3]
+## 11. §[^6]
 
-12. § (1)[^4]
+12. § (1)[^7]
 
 (2) Hatályát veszti az R.
 
-a)–c)[^5]
+a)–c)[^8]
 
-d) 15. § (3) és (4) bekezdése.
+d)[^9]
 
-(3)[^6]
+(3)[^10]
 
-[^3]: A 11. §-t a 13. § (1) bekezdése hatályon kívül helyezte.
-[^4]: A 12. § (1) bekezdését a 13. § (1) bekezdése hatályon kívül helyezte.
-[^5]: A 12. § (2) bekezdés a)–c) pontját a 13. § (1) bekezdése hatályon kívül helyezte.
-[^6]: A 12. § (3) bekezdését a 13. § (1) bekezdése hatályon kívül helyezte.
+[^6]: A 11. §-t a 13. § (1) bekezdése hatályon kívül helyezte.
+[^7]: A 12. § (1) bekezdését a 13. § (1) bekezdése hatályon kívül helyezte.
+[^8]: A 12. § (2) bekezdés a)–c) pontját a 13. § (1) bekezdése hatályon kívül helyezte.
+[^9]: A 12. § (2) bekezdés d) pontját a 13. § (2) bekezdése hatályon kívül helyezte.
+[^10]: A 12. § (3) bekezdését a 13. § (1) bekezdése hatályon kívül helyezte.

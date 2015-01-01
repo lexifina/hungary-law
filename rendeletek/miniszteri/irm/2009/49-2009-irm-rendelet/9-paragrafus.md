@@ -1,8 +1,9 @@
-## 1–8. §[^1]
+## 1–8. §[^2]
 
-9. § (1)[^2]
+9. § (1)[^3]
 
-(2) A 12. § (2) bekezdésének d) pontja 2009. december 31. napján lép hatályba.
+(2)[^4]
 
-[^1]: Az 1–8. §-t a 13. § (1) bekezdése hatályon kívül helyezte.
-[^2]: A 9. § (1) bekezdését a 13. § (1) bekezdése hatályon kívül helyezte.
+[^2]: Az 1–8. §-t a 13. § (1) bekezdése hatályon kívül helyezte.
+[^3]: A 9. § (1) bekezdését a 13. § (1) bekezdése hatályon kívül helyezte.
+[^4]: A 9. § (2) bekezdését a 13. § (2) bekezdése hatályon kívül helyezte.
