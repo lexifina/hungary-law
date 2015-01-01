@@ -1,3 +1,1 @@
-## 7. §[^11]
-
-[^11]: A 7. § a 10. § (3) bekezdése alapján 2015. január 1. napjával lép hatályba.
+## 7. § Az R. 2. számú melléklete a 2. melléklet szerint módosul.

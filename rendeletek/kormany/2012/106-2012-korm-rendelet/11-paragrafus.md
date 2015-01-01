@@ -1,14 +1,12 @@
 ## 11. § Hatályát veszti az R.
 
-a)[^17]
+a) 6. § (9) bekezdés b) pontja és (10) bekezdése,
 
-b)[^18]
+b) 7. § (1)–(4) és (6)–(9) bekezdése, valamint 8. §-a,
 
-c)[^19]
+c)[^16]
 
-d)[^20]
+d)[^17]
 
-[^17]: A 11. § a) pontja a 10. § (3) bekezdése alapján 2015. január 1. napjával lép hatályba.
-[^18]: A 11. § b) pontja a 10. § (3) bekezdése alapján 2015. január 1. napjával lép hatályba.
-[^19]: A 11. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 11. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 11. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 11. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
