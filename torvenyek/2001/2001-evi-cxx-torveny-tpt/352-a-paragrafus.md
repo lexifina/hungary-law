@@ -1,6 +1,6 @@
 ## Kiszervezés
 
-352/A. § (1) A központi értéktár, az elszámolóházi tevékenységet végző szervezet és a központi szerződő fél (a 352/A–352/C. § alkalmazásában a továbbiakban: vállalkozás) – a (2)–(5) bekezdésben, valamint a 352/B. és 352/C. §-ban foglaltakra figyelemmel – tevékenységét vagy szolgáltatását kiszervezheti.
+352/A. § (1) A központi értéktár, az elszámolóházi tevékenységet végző szervezet és a központi szerződő fél (a 352/A–352/C. § alkalmazásában a továbbiakban: vállalkozás) – a 648/2012/EU rendeletben, a 909/2014/EU rendeletben, a (2)–(5) bekezdésben, valamint a 352/B. §-ban és a 352/C. §-ban foglaltakra figyelemmel – tevékenységét vagy szolgáltatását kiszervezheti.
 
 (2) A kiszervezés
 
@@ -12,7 +12,7 @@ ba) nem eredményezhet változást az ügyfél és a vállalkozás közötti sze
 
 bb) nem eredményezhet változást az e törvény szerinti tevékenység végzésére jogosító engedély megszerzéséhez szükséges feltételek teljesítésében.
 
-(3) Ha a vállalkozás e törvényben szabályozott tevékenységet, vagy kritikus funkcióját szervezi ki, a kiszervezésről szóló megállapodás megkötését megelőzően meggyőződik arról, hogy a leendő szerződő fél
+(3) Ha a vállalkozás – a (4a) és (4b) bekezdésben foglaltakat nem érintve – e törvényben szabályozott tevékenységét vagy kritikus funkcióját szervezi ki, a kiszervezésről szóló megállapodás megkötését megelőzően meggyőződik arról, hogy a leendő szerződő fél
 
 a) rendelkezik-e a kiszervezésről szóló megállapodás tárgyát képező tevékenység vagy funkció ellátásához szükséges valamennyi jogszabályban meghatározott személyi, tárgyi, technikai feltételekkel, illetve a szükséges hatósági bejelentési kötelezettségének eleget tett-e,
 
@@ -24,9 +24,11 @@ d) rendelkezik-e mindazokkal a szervezeti megoldásokkal, működési és eljár
 
 e) rendelkezik-e olyan vészforgatókönyvvel, amely a vészhelyzetek megoldására és a biztonsági eszközök rendszeres felülvizsgálatára vonatkozó szabályokat tartalmazza.
 
-(4) A vállalkozás kritikus funkció kiszervezéséről szóló megállapodást csak azzal köthet, aki megfelel a (3) bekezdésben foglaltaknak, valamint a központi szerződő fél esetén a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendeletben foglaltaknak.
+(4) A vállalkozás kritikus funkció kiszervezéséről szóló megállapodást csak azzal köthet, aki megfelel a (3) bekezdésben foglaltaknak, a 648/2012/EU rendeletben foglaltaknak, valamint központi értéktár esetén a 909/2014/EU rendeletben foglaltaknak.
 
-(4a) A központi szerződő fél a kockázatkezeléshez kapcsolódó főbb tevékenységének kiszervezéséhez a Felügyelet engedélye szükséges.
+(4a) A központi szerződő fél főtevékenységének, valamint a kockázatkezeléshez kapcsolódó tevékenységének kiszervezéséhez a Felügyelet engedélye szükséges.
+
+(4b) A központi értéktár főtevékenységének kiszervezéséhez a Felügyelet engedélye szükséges a 909/2014/EU rendelet 19. cikkében foglaltak szerint.
 
 (5) A vállalkozás az (1) bekezdésben meghatározott tevékenysége vagy szolgáltatása kiszervezésére harmadik országban székhellyel rendelkező személlyel vagy szervezettel akkor köthet megállapodást, ha a leendő szerződő megfelel a (3) bekezdésben foglaltaknak, valamint:
 

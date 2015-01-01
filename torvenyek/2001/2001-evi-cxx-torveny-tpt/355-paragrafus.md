@@ -8,7 +8,7 @@
 
 355. § (1) A befektetési vállalkozás, részvénytársasági formában működő árutőzsdei szolgáltató, befektetési alapkezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, központi szerződő fél, illetve központi értéktár részvényeiről és a részvények tulajdonosairól olyan részvénykönyvet köteles a befektetési vállalkozás igazgatósága vezetni, amely legalább a következő adatokat tartalmazza:
 
-a) a részvénytulajdonos nevét, természetes személy esetén lakcímét, anyja nevét, állampolgárságát, jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság esetén székhelyét;
+a) a részvénytulajdonos nevét, természetes személy esetén lakcímét, anyja nevét, állampolgárságát, jogi személy esetén székhelyét;
 
 b) ha a részvénynek több tulajdonosa van, akkor a tulajdonosok és a közös képviselő a) pontban meghatározott adatait;
 

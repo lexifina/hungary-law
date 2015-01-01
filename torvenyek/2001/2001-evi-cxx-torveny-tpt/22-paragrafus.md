@@ -12,7 +12,7 @@ e) az értékpapírt a kibocsátó, annak kapcsolt vállalkozása bármelyikük 
 
 ea) a kibocsátó létesítő okirat szerinti székhelye az Európai Unió területén található, és az értékpapírok számára és jellegére, valamint az értékesítés, juttatás indokaira és részleteire vonatkozó információk rendelkezésre állnak, vagy
 
-eb) a harmadik országban székhellyel rendelkező kibocsátó valamely értékpapírja szabályozott piacra, Bszt.-ben meghatározott elismert tőzsdére már be van vezetve és az értékpapírok számára és jellegére, valamint az értékesítés, juttatás indokaira és részleteire vonatkozó információk rendelkezésre állnak.
+eb) a harmadik országban székhellyel rendelkező kibocsátó valamely értékpapírja szabályozott piacra vagy az Európai Bizottság által azzal egyenértékűnek minősített piacra már be van vezetve és az értékpapírok számára és jellegére, valamint az értékesítés, juttatás indokaira és részleteire vonatkozó információk legalább a nemzetközi pénzügyi piacokon általában használt nyelven rendelkezésre állnak.
 
 (2) Az (1) bekezdés b)–c) pontjában foglalt esetben akkor nincs szükség tájékoztató és hirdetmény közzétételére, ha a felajánlott értékpapírra, illetve annak kibocsátójára vonatkozóan a Felügyelet által a tájékoztatóban foglalt információkkal egyenértékűnek elfogadott információkat tartalmazó dokumentum az érintett befektetők rendelkezésére áll.
 

@@ -32,9 +32,11 @@ n) az Országos Betétbiztosítási Alap számára,
 
 o) a Befektető-védelmi Alap számára;
 
-p) pénzforgalmi intézménynek és
+p) pénzforgalmi intézménynek;
 
-q) elektronikuspénz-kibocsátó intézménynek
+q) elektronikuspénz-kibocsátó intézménynek és
+
+r) a Szanálási Alap számára
 
 nyújthat.
 

@@ -26,7 +26,7 @@ g) a központi értéktár vagy az elszámolóház által kiszervezett tevékeny
 
 (5) A központi szerződő fél tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. A Felügyelet engedélye meghatározza a pénzügyi eszközök kategóriáit, amelyek vonatkozásában a központi szerződő fél tevékenysége végezhető. Az (1) bekezdésben meghatározott tevékenység végzéséhez szükséges, továbbá a (2) bekezdésben foglalt tevékenységek végzésére, valamint a (3) bekezdésben foglaltak szerint a szakosított hitelintézetként való működésre jogosító engedély a (6) bekezdésben foglalt engedélyezéssel egy eljárásban is megadható.
 
-(6) A központi szerződő fél tevékenységek végzésére jogosító engedélyt a Felügyelet azon Magyarország területén székhellyel rendelkező, jogi személyiséggel rendelkező gazdasági társaság részére adja meg, amely a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendeletben meghatározott előírásoknak való megfelelésen túl rendelkezik:
+(6) A központi szerződő fél tevékenységek végzésére jogosító engedélyt a Felügyelet azon Magyarország területén székhellyel rendelkező részvénytársaság részére adja meg, amely a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendeletben meghatározott előírásoknak való megfelelésen túl rendelkezik:
 
 a) káreseményenként legalább százmillió forint, és évente összesen legalább százötvenmillió forint összegű felelősségbiztosítással,
 

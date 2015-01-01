@@ -32,7 +32,7 @@ b) biztosítani kell, hogy a befektető az értékpapír megszerzésére vonatko
 
 (5) Az alaptájékoztató a kibocsátási program egészére, az adagolt kibocsátás keretében történő minden forgalomba hozatal összességére, valamint a tizenkét hónapon belül tervezett több forgalomba hozatalra együttesen vonatkozó összes információt egyetlen dokumentumban tartalmazza.
 
-(6) Amennyiben a forgalomba hozatal végleges feltételeit (így különösen: a forgalomba hozatal össznévértéke, az értékpapír futamideje, lejárata, kamata vagy egyéb járulékai, a forgalomba hozatal módja és helye, továbbá az új értékpapír-sorozat értékpapírkódja) sem az alaptájékoztató, sem a 32. § szerinti kiegészítés nem tartalmazza, az egyes részkibocsátásokra vonatkozóan a kibocsátó a forgalomba hozatal kezdő napját megelőzően a forgalomba hozatal végleges feltételeiről a Felügyeletet és a fogadó tagállam hatáskörrel rendelkező hatóságát tájékoztatja, és a forgalomba hozatal végleges feltételeit közzéteszi.
+(6) Amennyiben a forgalomba hozatal végleges feltételeit (így különösen: a forgalomba hozatal össznévértékét, az értékpapír futamidejét, lejáratát, kamatát vagy egyéb járulékait, a forgalomba hozatal módját és helyét, továbbá az új értékpapír-sorozat értékpapírkódját) sem az alaptájékoztató, sem a 32. § szerinti kiegészítés nem tartalmazza, az egyes részkibocsátásokra vonatkozóan a kibocsátó a forgalomba hozatal kezdő napját megelőzően a forgalomba hozatal végleges feltételeit közzéteszi, és azokról tájékoztatja a Felügyeletet. A Felügyelet a fogadó tagállam hatáskörrel rendelkező hatóságát és az Európai Értékpapír-piaci Hatóságot ezt követően tájékoztatja a forgalomba hozatal végleges feltételeiről.
 
 (7) A Felügyelet engedélyezheti valamely információnak a tájékoztatóból való elhagyását, ha:
 
@@ -41,5 +41,7 @@ a) az információ nyilvánosságra hozatala közérdeket sértene;
 b) az információ nyilvánosságra hozatala súlyosan veszélyeztetné a kibocsátó érdekeit és annak elhagyása nem félrevezető a kibocsátó, az ajánlattevő, az értékpapírban foglalt kötelezettség teljesítéséért kezességet (garanciát) vállaló személy, illetőleg az értékpapír által megtestesített jogok megítélése szempontjából;
 
 c) az információ a forgalomba hozatal szempontjából lényegtelen és nem befolyásolja a kibocsátó, az értékpapírban foglalt kötelezettség teljesítéséért kezességet (garanciát) vállaló személy pénzügyi helyzetének megítélését.
+
+(7a) Ha az értékpapírban foglalt kötelezettség teljesítéséért valamely EGT-állam vállal kezességet (garanciát), akkor a kibocsátó, az ajánlattevő vagy a szabályozott piacra bevezetést kérő személy elhagyhatja a kezesre vonatkozó információkat a tájékoztatóból.
 
 (8) Ha valamely jogszabály által megkövetelt információ a kibocsátó tevékenységi körére, vagy az értékpapírra való tekintettel nem értelmezhető, a tájékoztatóban a kibocsátó vagy az értékpapír sajátosságainak megfelelő hasonló információt kell feltüntetni.

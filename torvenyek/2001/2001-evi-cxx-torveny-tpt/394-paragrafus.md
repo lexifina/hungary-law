@@ -38,7 +38,7 @@ m) a piacfelügyeleti eljárás során az eljárás alá vont ügyfélre vonatko
 
 (2) Az (1) bekezdés, a 391. § (2) bekezdése vonatkozásában a Felügyelet az érintett természetes személyazonosító adatait, állampolgárságát és lakcímét, valamint az engedélyezési és ellenőrzési célú adatkezelés során a befektetés, tulajdoni részesedés, szakképzettség, szakmai gyakorlat, választott tisztség, beosztás, munkaviszony, büntetlenség és a 357. §-ban meghatározott kizáró okok megállapításához szükséges adatokat kezeli.
 
-(3) A jogi személy vagy jogi személyiséggel nem rendelkező más gazdasági társaság azonosító adatai:
+(3) A jogi személy azonosító adatai:
 
 a) név, rövidített név;
 

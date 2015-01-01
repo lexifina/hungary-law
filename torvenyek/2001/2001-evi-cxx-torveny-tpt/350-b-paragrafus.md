@@ -1,6 +1,6 @@
 ## A központi értéktári tevékenységhez szükséges szabályzatok
 
-350/B. § (1) A 336. § (1) bekezdésében foglalt központi értéktári tevékenységek, a 336. § (2) bekezdésében meghatározott kiegészítő befektetési szolgáltatási, illetve az ott felsorolt egyéb tevékenységek a Felügyelet által jóváhagyott, (2) bekezdésben foglaltak szerinti szabályzatok alapján végezhetők. A szabályzat módosítása esetén a szabályzat készítésére vonatkozó szabályokat kell megfelelően alkalmazni.
+350/B. § (1) A 909/2014/EU rendeletben foglalt központi értéktári tevékenységek a Felügyelet által jóváhagyott, a (2) bekezdésben foglaltak szerinti szabályzatok alapján végezhetők. A szabályzat módosítása esetén a szabályzat készítésére vonatkozó szabályokat kell megfelelően alkalmazni.
 
 (2) A központi értéktár szabályzata tartalmazza
 
@@ -22,15 +22,7 @@ g) az értékpapír kölcsönzés szabályait.
 
 (4) Az üzletszabályzatnak és a szabályzatoknak a központi értéktár ügyfeleire nézve biztosítania kell az egyenlő bánásmód követelményének megtartását.
 
-(5) A (2) bekezdésben foglalt szabályzatok alkalmazhatóságához szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdéseket a Felügyelet vizsgálja.
-
-(6) A Felügyelet az engedély megadását megtagadja, ha
-
-a) a szabályzat nem felel meg e törvény vagy más jogszabály rendelkezéseinek,
-
-b) a szabályzat nincs összhangban más szabályzat rendelkezéseivel,
-
-c)
+(5)–(6)
 
 (7) A Felügyelet engedélyét követően a központi értéktár a (2) bekezdésben meghatározott szabályzatokat a Felügyelet által üzemeltetett honlapon és a saját honlapján közzéteszi.
 

@@ -10,11 +10,11 @@ ac) legalább egy – azonos elszámolási rendszerbe tartozó – befektetési 
 
 ad) szervezeti felépítésének, irányítási, döntési és ellenőrzési rendjének bemutatását, ha ezeket a létesítő okirat nem tartalmazza,
 
-b) külföldi központi értéktári tevékenységet végző szervezet magyarországi fióktelepének a 340/A. § (5) bekezdésében foglaltaknak való megfelelést igazoló dokumentumokat,
+b)
 
-c) a 340/A. § (2) bekezdésének b) pontjában foglalt rendelkezések teljesítését szolgáló, rendelkezésre álló vagy beszerezni kívánt tárgyi, technikai eszközök részletes leírását, melyből megállapítható, hogy a kérelmező
+c) a 340/A. § (2) bekezdés b) pontjában foglalt rendelkezések teljesítését szolgáló, rendelkezésre álló vagy beszerezni kívánt tárgyi, technikai eszközök részletes leírását, amelyből megállapítható, hogy a kérelmező
 
-ca) a 336. § (1) bekezdésének a) és c) pontjában szereplő központi értékpapír-nyilvántartás vezetését, valamint a dematerializált értékpapír-előállítást, -törlést és -nyilvántartást pontos, megbízható és átlátható módon valósítja meg,
+ca) a 909/2014/EU rendelet melléklet A. szakasz 1. és 2. pontjában meghatározott tevékenységek végzését pontos, megbízható és átlátható módon valósítja meg,
 
 cb) adatkezelése megfelel a biztonságos adatvédelem (tárolás, mentés, visszakereshetőség) feltételeinek,
 
@@ -24,6 +24,6 @@ e) a működés első három évére vonatkozó üzleti tervet,
 
 f) a felelősségbiztosításról szóló szerződést,
 
-g) a kérelmező nyilatkozatát arra vonatkozóan, hogy a központi értéktári tevékenységét mikor kívánja megkezdeni és
+g) a kérelmező nyilatkozatát arra vonatkozóan, hogy a központi értéktár milyen tevékenységet kíván folytatni, és azt mikor kívánja megkezdeni,
 
-h) a vezető állású személyek megnevezését.
+h) a vezető állású személyek megnevezését, feladat- és felelősségi körét.

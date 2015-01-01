@@ -12,11 +12,11 @@ b) a 334. § a), c) és d) pontjaiban meghatározott tevékenységet tőzsdei te
 
 (3) Az elszámolóház elszámolóházi tevékenységen kívül kizárólag
 
-a) a központi értéktári tevékenységet,
+a)
 
 b) a Bszt. 5. §-a (2) bekezdésének a) és b) pontjaiban meghatározott kiegészítő szolgáltatást,
 
-c) a 336. § (2) bekezdésének c) pontjában meghatározott tevékenységet,
+c)
 
 d)
 

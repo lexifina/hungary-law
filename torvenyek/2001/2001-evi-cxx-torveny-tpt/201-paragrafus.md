@@ -14,9 +14,9 @@ d) bármely személynek az a)–c) pontban leírt cselekménye, amennyiben tudta
 
 a) a kibocsátó vezető tisztségviselője és felügyelőbizottsági tagja;
 
-b) az a jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, illetve ezek ügyvezetője, vezető tisztségviselője és felügyelőbizottsági tagja, amelyben a kibocsátó huszonöt százalékot elérő vagy azt meghaladó közvetlen, illetőleg közvetett részesedéssel vagy szavazati joggal rendelkezik;
+b) az a jogi személy, illetve ennek ügyvezetője, vezető tisztségviselője és felügyelőbizottsági tagja, amelyben a kibocsátó huszonöt százalékot elérő vagy azt meghaladó közvetlen, illetőleg közvetett részesedéssel vagy szavazati joggal rendelkezik;
 
-c) az a jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, illetve ennek ügyvezetője, vezető tisztségviselője, felügyelőbizottsági tagja, amely a kibocsátóban tíz százalékot elérő vagy azt meghaladó közvetlen, illetőleg közvetett részesedéssel vagy szavazati joggal rendelkezik;
+c) az a jogi személy, illetve ennek ügyvezetője, vezető tisztségviselője, felügyelőbizottsági tagja, amely a kibocsátóban tíz százalékot elérő vagy azt meghaladó közvetlen, illetőleg közvetett részesedéssel vagy szavazati joggal rendelkezik;
 
 d) a forgalomba hozatal, illetve a VII. Fejezet szerinti nyilvános vételi ajánlat szervezésében közreműködő bármely szervezet, illetve ennek érdemi ügyintézője, vezető tisztségviselője, felügyelőbizottsági tagja, továbbá ezen szervezetnek és a kibocsátónak a kibocsátásban és a forgalomba hozatalban közreműködő más alkalmazottja, aki munkavégzésével kapcsolatosan bennfentes információhoz jutott, a forgalomba hozatalt követő egy évig;
 
@@ -30,7 +30,7 @@ h) aki a bennfentes információt bűncselekmény útján szerezte;
 
 i) az a)–h) pontban felsorolt természetes személlyel közös háztartásban élő személy, illetőleg közeli hozzátartozója;
 
-j) az a jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, és ezek nevében eljáró személy, amelyben az a)–i) pontokban megjelölt bennfentes személy minősített befolyással bír.
+j) az a jogi személy, és ennek nevében eljáró személy, amelyben az a)–i) pontokban megjelölt bennfentes személy minősített befolyással bír.
 
 (3) Bennfentes információ:
 

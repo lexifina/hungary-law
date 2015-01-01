@@ -192,6 +192,8 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 80. központi értékpapírszámla: a központi értéktár által a dematerializált értékpapírról sorozatonként vezetett összesített nyilvántartás,
 
+80a. központi értéktár: az Európai Parlament és a Tanács 909/2014/EU rendelete (2014. július 23.) az Európai Unión belüli értékpapír-kiegyenlítés javításáról és a központi értéktárakról, valamint a 98/26/EK és a 2014/65/EU irányelv, valamint a 236/2012/EU rendelet módosításáról (a továbbiakban: 909/2014/EU rendelet) 2. cikk (1) bekezdés 1. pontjában meghatározott fogalom,
+
 81. központi hitelinformációs rendszer: a központi hitelinformációs rendszerről szóló törvényben meghatározott rendszer,
 
 82. központi szerződő fél: a központi szerződő fél tevékenység végzésére jogosító engedéllyel rendelkező gazdasági társaság,
