@@ -12,7 +12,7 @@
 
 5–6.
 
-7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás, befektetési vállalkozás, tőzsde, árutőzsdei szolgáltató, kockázati tőkealap-kezelő, befektetési alapkezelő;
+7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás, befektetési vállalkozás, tőzsde, árutőzsdei szolgáltató, kockázati tőkealap-kezelő;
 
 8. pénzügyi vállalkozás: a Hpt. szerinti pénzügyi vállalkozás, ide nem értve a Tanács 1083/2006/EK rendeletének 44. cikk b) pont (ii) alpontja alapján felmerülő feladatok ellátására létrejött pénzügyi vállalkozást, továbbá a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást;
 
@@ -22,9 +22,9 @@
 
 11. árutőzsdei szolgáltató: a Bszt. szerinti árutőzsdei szolgáltató;
 
-12. kockázati tőkealap-kezelő: a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény szerinti kockázati tőkealap-kezelő;
+12. kockázati tőkealap-kezelő: Kbftv. szerinti kockázati tőkealap-kezelő;
 
-13. befektetési alapkezelő: a Tpt. szerinti befektetési alapkezelő;
+13. befektetési alapkezelő: a Kbftv. szerinti befektetési alapkezelő;
 
 14. módosított mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege (a mérlegfőösszeg), csökkentve
 
@@ -68,7 +68,11 @@ n) a j) pont szerinti nyilatkozat hibájából eredő adóhiány és az ahhoz ka
 
 15. mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege;
 
-16–18.
+16. értékpapírszámla: a Tpt. szerinti értékpapírszámla;
+
+17. kollektív befektetési értékpapír: a Kbftv. szerinti kollektív befektetési értékpapír;
+
+18.
 
 19. korrigált nettó árbevétel:
 

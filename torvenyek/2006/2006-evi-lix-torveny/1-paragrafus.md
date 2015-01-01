@@ -1,6 +1,6 @@
 ## Általános rendelkezések
 
-1. § (1) A 4. §-ban meghatározott személy járadék fizetésére, a 4/A. §-ban meghatározott személy különadó fizetésére kötelezett.
+1. § (1) A 4. §-ban meghatározott személy járadék fizetésére, a 4/A. §-ban, 4/B. §-ban és a 4/D. §-ban meghatározott személy különadó fizetésére kötelezett.
 
 (2) A járadékból és a különadóból származó bevétel a központi költségvetést illeti meg.
 

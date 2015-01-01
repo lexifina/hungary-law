@@ -1,10 +1,10 @@
 ## Pénzügyi szervezetek különadója
 
-4/A. § (1) A pénzügyi szervezet 2014-ben különadó megállapítására, bevallására és fizetésére kötelezett.
+4/A. § (1) A pénzügyi szervezet 2015-ben különadó megállapítására, bevallására és fizetésére kötelezett.
 
-(2) A pénzügyi szervezet a különadót 2014. március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
+(2) A pénzügyi szervezet a különadót 2015. március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
 
-(3) A 2010–2013. között jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó a különadót az utolsó rendelkezésre álló beszámolóval lezárt üzleti év adatai alapján 2014. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – szeptember 10-éig és december 10-éig – megfizeti.
+(3) A 2010–2014. között jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó a különadót az utolsó rendelkezésre álló beszámolóval lezárt üzleti év adatai alapján 2015. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – szeptember 10-éig és december 10-éig – megfizeti.
 
 (4) A különadó alapja
 
@@ -28,7 +28,7 @@ c) tőzsdénél a tőzsdék és az elszámolóházi tevékenységet végző szer
 
 d) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél a 2009. évi éves beszámoló adataiból számított korrigált nettó árbevétel,
 
-e) befektetési alapkezelőnél az általa kezelt alapok 2009. december 31-i nettó eszközértékének, valamint az általa kezelt pénztári, illetőleg egyéb portfolió vagyon 2009. december 31-i értékének együttes összege.
+e)
 
 (5)
 
@@ -48,7 +48,7 @@ cc) tőzsdénél 5,6 százalék,
 
 cd) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél 5,6 százalék,
 
-ce) befektetési alapkezelőnél 0,028 százalék.
+ce)
 
 (7) A hitelintézet által az üzleti évre (adóévre) fizetendő különadónak a (6) bekezdés a) pontja szerint, a (11)–(37) bekezdésben foglaltak figyelembevételével kiszámított összegét, legfeljebb annak mértékéig csökkenti az általa az üzleti évre (adóévre) hitelintézetek különadója címén fizetett (fizetendő) összeg.
 
@@ -62,7 +62,7 @@ a) a hitelintézet az adóalap meghatározásakor számításba vett, a beszámo
 
 b) a pénzügyi vállalkozás az adóalap meghatározásakor számításba vett, a beszámoló adataiból számított kamateredményt, valamint díj- és jutalékeredményt tartalmazó kimutatást,
 
-c) a befektetési alapkezelő az adóalap meghatározásakor számításba vett, általa kezelt alapok megnevezését és nettó eszközértékét, valamint az általa kezelt pénztári, illetőleg egyéb portfolió vagyon értékének összegét,
+c)
 
 d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltató az éves beszámolóban szereplő értékesítés nettó árbevételéből az árutőzsdei szolgáltatásból származó árbevételt tartalmazó kimutatást,
 
