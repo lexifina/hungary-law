@@ -1,4 +1,4 @@
-## 15/A. [^18] A helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatásra vonatkozó szabályok
+## 15/A. [^20] A helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatásra vonatkozó szabályok
 
 20/C. § (1) Helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) helyi infrastruktúra építéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható, ha ezen infrastruktúra helyi szinten hozzájárul az üzleti és a fogyasztói környezet korszerűsítéséhez és ipari bázisok fejlesztéséhez.
 
@@ -8,4 +8,4 @@
 
 (4) Az infrastruktúra működtetését koncesszióba adni vagy azzal harmadik felet megbízni csak nyílt, átlátható és megkülönböztetés-mentes módon, a vonatkozó jogszabályok betartásával lehet.
 
-[^18]: A 15/A. alcímet (20/C–20/D. §) a 11/2014. (XII. 30.) MvM rendelete iktatta be.
+[^20]: A 15/A. alcímet (20/C–20/D. §) a 11/2014. (XII. 30.) MvM rendelete iktatta be.

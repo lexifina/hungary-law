@@ -1,4 +1,4 @@
-## 7. [^11] A regionális beruházási támogatásra vonatkozó szabályok
+## 7. [^13] A regionális beruházási támogatásra vonatkozó szabályok
 
 7. § (1) A regionális beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) igénybevételének feltétele, hogy a tervezett beruházás
 
@@ -16,4 +16,4 @@ b) olyan új gazdasági tevékenység végzésére irányuló induló beruházá
 
 (3) Meglévő létesítmény tevékenységének új tevékenységgel történő bővítését eredményező beruházáshoz a támogatás akkor vehető igénybe, ha az elszámolható költségek legalább 200%-kal meghaladják az eredeti tevékenység keretében használt és az új tevékenység keretében is használni tervezett eszközöknek a beruházás megkezdése előtti adóévben nyilvántartott könyv szerinti értékét.
 
-[^11]: A 7. alcím (7–10/B. §) a 11/2014. (XII. 30.) MvM rendelet 5. §-ával megállapított szöveg.
+[^13]: A 7. alcím (7–10/B. §) a 11/2014. (XII. 30.) MvM rendelet 5. §-ával megállapított szöveg.

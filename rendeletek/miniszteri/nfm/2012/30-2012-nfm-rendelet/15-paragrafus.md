@@ -1,41 +1,31 @@
 ## 11. A képzési támogatásra vonatkozó szabályok
 
-15. § (1) Képzési célú támogatást a kedvezményezettel munkaviszonyban álló munkavállaló általános és speciális képzéséhez lehet nyújtani.
+15. §[^17] (1) A képzési támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
 
-(2) A képzési támogatás keretében elszámolható költségek:
+(2) A támogatási intenzitás
 
-a) az oktatók személyi jellegű költségei,
+a) megváltozott munkaképességű munkavállaló vagy hátrányos helyzetű munkavállaló részére nyújtott képzés esetén 10 százalékponttal,
 
-b) az oktatók és a képzésben résztvevők utazási költségei, ideértve a szállásköltségeket,
+b) középvállalkozásnak nyújtott támogatás esetén 10 százalékponttal,
 
-c) egyéb költségek (pl. a projekthez közvetlenül kapcsolódó anyagok, fogyó eszközök),
+c) kisvállalkozásnak nyújtott támogatás esetén 20 százalékponttal
 
-d) az eszközök és felszerelések amortizációja olyan mértékben, amilyen mértékben azokat kizárólag a képzési projekt céljaira használják,
+## növelhető.
 
-e) a képzési projekttel kapcsolatos tanácsadói szolgáltatások költségei,
+(3) A támogatási intenzitás legfeljebb az elszámolható költségek 70%-áig növelhető.
 
-f) a képzésben részt vevők személyes költségei az a)–e) pontban felsorolt egyéb elszámolható költségek összegével egyező összegig.
+(4) A támogatás keretében elszámolható
 
-(3) A képzésben részt vevők személyes költségei csak a képzésben ténylegesen eltöltött idő mértékéig – a termelésben töltött idő levonása után – vehetők számításba.
+a) az oktatók személyi jellegű költsége, azokra az órákra vonatkozóan, amikor az oktatók részt vesznek a képzésen,
 
-(4) Az elszámolható költségeket dokumentált bizonyítékokkal kell alátámasztani, áttekinthetően és tételesen részletezve.
+b) az oktatók és a képzésben résztvevők közvetlenül a képzési projekthez kapcsolódó működési költsége (pl. útiköltség, közvetlenül a projekthez kapcsolódó anyagok és fogyóeszközök költsége, valamint az eszközök és berendezések értékcsökkenése kizárólag a képzési projekt keretében történő használatuk mértékéig),
 
-(5) Az egyes – azonos elszámolható költségekkel rendelkező – projektekhez nyújtható, bármely támogatás intenzitása nem haladhatja meg a (6)–(8) bekezdésben meghatározott mértékeket.
+c) a képzési projekthez kapcsolódó tanácsadás költsége,
 
-(6) A támogatási intenzitás nem haladhatja meg:
+d) a képzésben résztvevők személyi jellegű ráfordításai és az általános közvetett költségek (pl. adminisztrációs költségek, bérleti díj, rezsi költségek) azokra az órákra vonatkozóan, amikor a képzésben résztvevők részt vesznek a képzésen,
 
-a) általános képzés esetén az elszámolható költségek 60%-át,
+e) a képzésben résztvevő megváltozott munkaképességű munkavállalók minimálisan szükséges szállásköltsége.
 
-b) speciális képzés esetén az elszámolható költségek 25%-át.
+(5) Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez.
 
-(7) A (6) bekezdés szerinti támogatási intenzitás legfeljebb az elszámolható költségek 80%-áig növelhető a következők szerint:
-
-a)[^15] 10%-kal a fogyatékkal élő vagy 800/2008/EK bizottsági rendelet szerinti hátrányos helyzetű munkavállalók képzéséhez nyújtott támogatás esetén,
-
-b) 10%-kal a középvállalkozásoknak nyújtott támogatás esetén,
-
-c) 20%-kal a kisvállalkozásnak nyújtott támogatás esetén.
-
-(8) Ha valamely projektben speciális és általános képzési elemek szerepelnek, amelyek a képzés támogatási intenzitásának kiszámítása szempontjából egymástól nem választhatók el, vagy ha a projektben szereplő képzés speciális vagy általános jellege nem állapítható meg, a (6) bekezdés b) pontja szerinti támogatási intenzitást kell alkalmazni.
-
-[^15]: A 15. § (7) bekezdés a) pontja a 11/2014. (XII. 30.) MvM rendelet 17. §-a szerint módosított szöveg.
+[^17]: A 15. § a 11/2014. (XII. 30.) MvM rendelet 6. §-ával megállapított szöveg.

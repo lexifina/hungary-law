@@ -8,7 +8,7 @@
 
 3. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás,
 
-4. általános képzés: olyan oktatást tartalmazó képzés, amely olyan képesítést ad, ami nem kizárólag vagy nem elsődlegesen a munkavállalónak a vállalkozásnál betöltött vagy későbbiekben betöltendő állásában alkalmazható, hanem nagymértékben hasznosítható más vállalkozásnál vagy munkaterületen (pl. a különböző független harmadik felek által együttesen szervezett képzések, a különböző vállalkozások munkavállalói számára nyitott képzések, vagy a Felnőttképzési Akkreditációs Testület és a Nemzeti Munkaügyi Hivatal által engedélyezett képzések),
+4.[^2]
 
 5. átlátható formában nyújtott támogatás: olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom,
 
@@ -94,7 +94,7 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 
 44. sajáttőke-befektetés: közvetlen vagy pénzügyi közvetítőn keresztül történő közvetett tőkejuttatás egy vállalkozás számára a vállalkozásban a megfelelő arányú részesedés megszerzése ellenében,
 
-45. speciális képzés: a 800/2008/EK bizottsági rendelet 38. cikk 1. pontja szerinti képzés,
+45.[^3] speciális képzés: a 800/2008/EK bizottsági rendelet 38. cikk 1. pontja szerinti képzés,
 
 46. súlyosan hátrányos helyzetű munkavállaló: a 651/2014/EU bizottsági rendelet 2. cikk 99. pontja szerinti munkavállaló,
 
@@ -125,3 +125,5 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 (3) Pénzügyi előzményekkel nem rendelkező induló vállalkozás esetén az (1) bekezdés 24. pont b) alpontja szerinti arányt a folyó pénzügyi időszak független könyvvizsgáló által hitelesített pénzügyi kimutatásában kell kimutatni.
 
 [^1]: A 2. § a 11/2014. (XII. 30.) MvM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § 4. pontját a 11/2014. (XII. 30.) MvM rendelet 19. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § 45. pontját a 11/2014. (XII. 30.) MvM rendelet 19. § a) pontja hatályon kívül helyezte.

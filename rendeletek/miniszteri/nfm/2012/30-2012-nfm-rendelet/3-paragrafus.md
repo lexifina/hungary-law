@@ -74,6 +74,6 @@
 
 36. közszolgáltatások fejlesztése.
 
-37.[^2] helyi infrastruktúra fejlesztése.
+37.[^4] helyi infrastruktúra fejlesztése.
 
-[^2]: A 3. § 37. pontját a 11/2014. (XII. 30.) MvM rendelet 2. §-a iktatta be.
+[^4]: A 3. § 37. pontját a 11/2014. (XII. 30.) MvM rendelet 2. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 15. [^17] A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatásra vonatkozó szabályok
+## 15. [^19] A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatásra vonatkozó szabályok
 
 20. § (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás)
 
@@ -16,4 +16,4 @@ b) működési támogatásként sportlétesítmény működéséhez
 
 (5) Ha a támogatott sportlétesítményt hivatásos csapat használja, a hivatásos csapat esetén alkalmazott díjszámítási feltételeket nyilvánossá kell tenni.
 
-[^17]: A 15. alcím (20–20/B. §) a 11/2014. (XII. 30.) MvM rendelet 8. §-ával megállapított szöveg.
+[^19]: A 15. alcím (20–20/B. §) a 11/2014. (XII. 30.) MvM rendelet 8. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 9. [^13] Az energiahatékonysági intézkedéshez nyújtott beruházási támogatásra vonatkozó szabályok
+## 9. [^15] Az energiahatékonysági intézkedéshez nyújtott beruházási támogatásra vonatkozó szabályok
 
 13. § (1) A vállalkozások energia-megtakarítást eredményező beruházásaihoz kapcsolódó energiahatékonysági intézkedéshez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 30%-át.
 
@@ -8,4 +8,4 @@
 
 (4) A támogatási intenzitás – a (2) bekezdésben meghatározott mértéken túl – az Atr. 25. § (1) bekezdés a)–c) pontja szerinti régióban megvalósuló beruházás esetén 15 százalékponttal, az Atr. 25. § (1) bekezdés d) pontja szerinti településen megvalósuló beruházás esetén 5 százalékponttal növelhető.
 
-[^13]: A 9. alcím (7–10/B. §) a 11/2014. (XII. 30.) MvM rendelet 5. §-ával megállapított szöveg.
+[^15]: A 9. alcím (7–10/B. §) a 11/2014. (XII. 30.) MvM rendelet 5. §-ával megállapított szöveg.
