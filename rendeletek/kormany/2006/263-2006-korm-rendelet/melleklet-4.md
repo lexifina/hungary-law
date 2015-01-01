@@ -12,7 +12,7 @@
 
 | 2.3. | Helyi közutak esetében | rendőrkapitányság | Rendőr-főkapitányság |
 
-| 3. | Ha ugyanezen szakkérdést a hatóság korábban önálló eljárásban vagy szakhatóságként nem vizsgálta az eljárás termőföldön megvalósuló út vagy tevékenység engedélyezésére irányul. | A termőföld mennyiségi védelme követelményei kérdésében. | járási földhivatal, több járási földhivatal illetékességi területét érintő esetekben a megyei (fővárosi) kormányhivatal földhivatala | megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala, ha első fokon a fővárosi és megyei kormányhivatal földhivatala járt el, akkor a földügyért felelős miniszter |
+| 3. | Ha ugyanezen szakkérdést a hatóság korábban önálló eljárásban vagy szakhatóságként nem vizsgálta az eljárás termőföldön megvalósuló út vagy tevékenység engedélyezésére irányul. | A termőföld mennyiségi védelme követelményei kérdésében. | járási földhivatal, több járási földhivatal illetékességi területét érintő esetekben a megyeszékhely szerinti járási földhivatal, Pest megyében a Budakeszi Járási Hivatal Budakörnyéki Járási Földhivatala, a fővárosban a Budapesti 1. Számú Földhivatal | megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala |
 
 | 4.1. | Ha az eljárás termőföldön megvalósuló út vagy tevékenység engedélyezésére irányul. | A termőföld minőségi védelme. | fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
@@ -56,6 +56,6 @@
 
 | 13. | A vasúti pálya szélső vágányának tengelyétől számított 100 méteren belüli építmény építése, elhelyezése, megszüntetése esetén, ha az építtető a vasúti pályahálózat működtetője hozzájárulásának a megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | A vasúti pálya területének igénybevétele a kérelemben foglaltak szerint vagy további feltételek mellett – a tervezett igénybevétel a vasút állagára, a vasúti forgalom biztonságára, a vasút kezelő fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján – engedélyezhető-e. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | – |
 
-4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^252]
+4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^253]
 
-[^252]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 13. §-a, a 259/2011. (XII. 7.) Korm. rendelet 18. § (4)–(5) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 17. § (2) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 22. § f) pontja, a 86/2013. (III. 21.) Korm. rendelet 3. § (2) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^253]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 13. §-a, a 259/2011. (XII. 7.) Korm. rendelet 18. § (4)–(5) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 17. § (2) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 22. § f) pontja, a 86/2013. (III. 21.) Korm. rendelet 3. § (2) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdés b) pontja szerint módosított szöveg.
