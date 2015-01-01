@@ -1,0 +1,3 @@
+31. § A Be. 262. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A határozatot azzal kell közölni, akire rendelkezése vonatkozik; a vádlottal közölt határozatot a védővel is, az ügydöntő határozatot a sértettel is közölni kell. Az ügydöntő határozat közlésével egyidejűleg az 51. § (4) bekezdésében foglalt jogáról a sértettet tájékoztatni kell. A tárgyalás vezetése és rendjének fenntartása körében hozott határozat kivételével a határozatot közölni kell az ügyésszel, a pótmagánvádlóval, az ügy áttételéről, a bíróság kijelöléséről és az eljárás felfüggesztéséről hozott határozatot közölni kell a sértettel is.”

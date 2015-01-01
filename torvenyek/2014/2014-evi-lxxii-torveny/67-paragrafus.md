@@ -1,1 +1,3 @@
-67–71. §
+67. § A Bnytv. 83. § (1) bekezdésének nyitó szövegrésze helyébe a következő rendelkezés lép:
+
+„(1) A szakértői nyilvántartó szerv erre irányuló adatigénylése alapján a bűncselekmények felderítése, a büntetőeljárás lefolytatása, valamint bűnügyi jogsegélykérelem teljesítése céljából a nyomozó hatóság vagy az ügyészség, a bűnügyi jogsegélykérelem teljesítése céljából a bíróság, továbbá bűnügyi jogsegélykérelem teljesítése, valamint a bűnüldöző szervek nemzetközi együttműködése keretében végzett információcsere céljából a rendőrség és a Nemzeti Adó- és Vámhivatal bűnmegelőzési és bűnüldözési feladatot ellátó szervei (a továbbiakban: bűnüldözési feladatot ellátó szerv) részére”
