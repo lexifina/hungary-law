@@ -26,7 +26,7 @@ a) a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlát
 
 b) az Mttv. szerinti kereskedelmi közlemény,
 
-8. reklám közzététele: a Reklámtv. szerinti közzététel,
+8. reklám közzététele: a Reklámtv. szerinti közzététel, függetlenül attól, hogy a reklám közzétételére irányuló szerződés meghatározza-e a reklám megjelenésének a helyét, az idejét vagy a módját,
 
 9. sajtótermék: az Mttv. szerinti sajtótermék,
 

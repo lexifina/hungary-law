@@ -6,4 +6,6 @@
 
 (3) Az (1)–(2) bekezdés szerinti számítások végrehajtása érdekében az egymással kapcsolt vállalkozási viszonyban álló adóalanyok kötelesek együttműködni. A számítások dokumentálását (ideértve az elkészítést és a megőrzést is) az egymással kapcsolt vállalkozási viszonyban álló adóalanyok mindegyike köteles elvégezni. A számítások dokumentációját az adóhatóság kérésére be kell mutatni.
 
-(4) Az (1)–(3) bekezdés szerinti számításnál a 4. § (2) bekezdés szerinti adóalapot figyelmen kívül kell hagyni.
+(4) Ha a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozási viszony nem áll fenn az adóév egészében, az (1)–(2) bekezdés alkalmazása során csak a kapcsolt vállalkozási viszony fennállásának időtartamára jutó – napi időarányosítással számított – a 4. § (1) bekezdése szerint megállapított adóalapot kell figyelembe venni.
+
+(5) Az (1)–(4) bekezdés szerinti számításnál a 4. § (2) bekezdés szerinti adóalapot figyelmen kívül kell hagyni.

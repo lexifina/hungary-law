@@ -12,7 +12,7 @@ b) ha az adóalany adóévet megelőző adóéve 12 hónapnál rövidebb, akkor 
 
 c) az adóköteles tevékenységet az adóévben jogelőd nélkül kezdő adóalany esetében az adóévre várható adó összege,
 
-d) átalakulással létrejött adóalany esetén a jogelőd által az adóévben az átalakulás napjáig elért, adóköteles tevékenységből származó adóalap alapulvételével, az 5. § szerinti adómértékkel számított összeg olyan aránya, amilyen arányban az átalakulással létrejött adóalany (ide értve kiválás esetén a fennmaradó társaságot is) a jogelőd vagyonából részesült.
+d) átalakulással, egyesüléssel, szétválással létrejött adóalany esetén a jogelőd által az adóévben az átalakulás, egyesülés, szétválás napjáig elért, adóköteles tevékenységből származó adóalap alapulvételével, az 5. § szerinti adómértékkel számított összeg olyan aránya, amilyen arányban az átalakulással, egyesüléssel, szétválással létrejött adóalany (ideértve kiválás esetén a fennmaradó társaságot is) a jogelőd vagyonából részesült.
 
 (4) Az adóalany az adófizetési kötelezettségét a bevallás benyújtására előírt határnapig, az adóelőleg-fizetési kötelezettségét a (3) bekezdés a)–b) pontja szerinti esetben két egyenlő részletben, az adóév hetedik hónapjának 20. napjáig és tizedik hónapjának 20. napjáig, a (3) bekezdés c)–d) pontja szerinti esetben két egyenlő részletben a tevékenység megkezdését követő 15 napon belül és az adóév utolsó hónapjának 20. napjáig teljesíti.
 
