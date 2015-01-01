@@ -168,7 +168,7 @@ bd) minden egyéb olyan esetben, amely nem tartozik kifejezetten az előző ba),
 
 65.
 
-66. üzletszerű tevékenység: ellenérték fejében nyereség, illetve vagyonszerzés végett rendszeresen folytatott gazdasági tevékenység;
+66. üzletszerű tevékenység: ellenérték fejében nyereség, illetve vagyonszerzés végett – előre egyedileg meg nem határozott ügyletek megkötésére irányuló – rendszeresen folytatott gazdasági tevékenység;
 
 67. vagyoni biztosíték: hitelintézetnél lekötött és elkülönítetten kezelt pénzösszeg (pénzbeli letét, illetve az állam vagy hitelintézet által kibocsátott vagy garantált, a letétbe helyezéstől számított 180 napnál hosszabb hátralévő futamidejű, azonnal beváltható vagy értékesíthető, hitelviszonyt megtestesítő értékpapír) vagy hitelintézet által vállalt garancia;
 
@@ -226,7 +226,7 @@ c) harmadik országbeli biztosító fióktelepe formájában működő biztosít
 
 93. közeli hozzátartozó: a a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.) meghatározott fogalom és az élettárs;
 
-94. kapcsolt vállalkozás: a Tpt.-ben meghatározott fogalom;
+94. járadékszolgáltatás: a jogosult részére szerződés alapján meghatározott pénzösszeg időszakonként visszatérő szolgáltatása;
 
 95. Kártalanítási Alap: a Gfbt.-ben meghatározott fogalom;
 
