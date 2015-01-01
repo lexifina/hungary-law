@@ -1,3 +1,0 @@
-5. § (1) Különösen indokolt esetben, ha a szolgálati érdek megkívánja, az országos parancsnok a 3. § (3) bekezdésben meghatározott úton kezdeményezheti a nemzeti szakértőként történő foglalkoztatás azonnali hatállyal történő megszüntetését. A megszüntetéssel kapcsolatos többletköltségeket a Vám- és Pénzügyőrség fedezi.
-
-(2) A nemzeti szakértő szolgálati jogviszonya a nemzeti szakértőként történő foglalkoztatás ideje alatt – a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 56. § (2) bekezdésében foglalt kivétellel – felmentéssel nem szüntethető meg.

@@ -1,1 +1,0 @@
-## Záró rendelkezések
