@@ -1,3 +1,5 @@
+## 88/E. § A védendő felhasználó köteles a védelemre jogosultságot adó körülmény megváltozását vagy megszűnését 15 napon belül bejelenteni a víziközmű-szolgáltatónál. A víziközmű-szolgáltató köteles a bejelentést követő 8 napon belül a változást a nyilvántartáson átvezetni, vagy a védendő felhasználót a nyilvántartásból törölni.
+
 ## VII. Fejezet
 
 ## Az ÜZLETSZABÁLYZATRA VONATKOZÓ RENDELKEZÉSEK

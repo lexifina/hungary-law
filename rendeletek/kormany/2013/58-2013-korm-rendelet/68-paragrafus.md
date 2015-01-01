@@ -1,6 +1,6 @@
 ## 26. Ellenőrzés
 
-68. §[^115] (1) A felhasználási helyen, illetve az elkülönített felhasználói helyen (a továbbiakban együtt: ellenőrzött vízhasználó) az elszámolás alapjául szolgáló fogyasztásmérő, a házi ivóvíz- és szennyvízhálózat, továbbá a csatlakozó hálózat ellenőrzéséről jegyzőkönyvet kell készíteni. A jegyzőkönyv egy példányát az ellenőrzött vízhasználó rendelkezésére kell bocsátani.
+68. §[^118] (1) A felhasználási helyen, illetve az elkülönített felhasználói helyen (a továbbiakban együtt: ellenőrzött vízhasználó) az elszámolás alapjául szolgáló fogyasztásmérő, a házi ivóvíz- és szennyvízhálózat, továbbá a csatlakozó hálózat ellenőrzéséről jegyzőkönyvet kell készíteni. A jegyzőkönyv egy példányát az ellenőrzött vízhasználó rendelkezésére kell bocsátani.
 
 (2) Az ellenőrzés csak az ellenőrzött vízhasználó vagy a képviselője jelenlétében folytatható le.
 
@@ -18,4 +18,4 @@
 
 (9) Az ellenőrzött vízhasználónak vagy a képviselőjének az ellenőrzéssel, annak körülményeivel és eredményével kapcsolatos észrevételeit, az ellenőrzés részéről történő meghiúsításának vagy korlátozásának indokait, továbbá az ellenőrzés lefolytatásával és annak megállapításaival összefüggő víziközmű-szolgáltatói tájékoztatás tudomásul vételét a jegyzőkönyvben fel kell tüntetni.
 
-[^115]: A 68. § a 292/2014. (XI. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^118]: A 68. § a 292/2014. (XI. 26.) Korm. rendelet 17. §-ával megállapított szöveg.

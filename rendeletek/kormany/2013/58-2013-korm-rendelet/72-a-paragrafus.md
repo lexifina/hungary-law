@@ -1,4 +1,4 @@
-72/A. §[^125] (1) Ha a közműves ivóvízellátás előre tervezetten 12 órán át, üzemzavar esetén 6 órát meghaladóan, de kevesebb, mint 12 órán át szünetel, a víziközmű-szolgáltató az ivóvízszükséglet kielégítéséről legalább 10 liter/fő/nap mennyiségben köteles gondoskodni. A 12 órát meghaladó, de 24 óránál rövidebb szünetelés esetén legalább 20 liter/fő/nap, 24 órát meghaladóan legalább 30 liter/fő/nap ivóvízmennyiséget biztosít a víziközmű-szolgáltató.
+72/A. §[^128] (1) Ha a közműves ivóvízellátás előre tervezetten 12 órán át, üzemzavar esetén 6 órát meghaladóan, de kevesebb, mint 12 órán át szünetel, a víziközmű-szolgáltató az ivóvízszükséglet kielégítéséről legalább 10 liter/fő/nap mennyiségben köteles gondoskodni. A 12 órát meghaladó, de 24 óránál rövidebb szünetelés esetén legalább 20 liter/fő/nap, 24 órát meghaladóan legalább 30 liter/fő/nap ivóvízmennyiséget biztosít a víziközmű-szolgáltató.
 
 (2) Az országos tisztifőorvos által elrendelt hőségriasztás időtartama alatt, az ellátásért felelős igénybejelentése esetén 50 liter/fő/nap mennyiségben, változatlan feltételekkel biztosítja az ivóvizet a víziközmű-szolgáltató.
 
@@ -10,4 +10,4 @@
 
 (6) A közműves ivóvíz-szolgáltatás korlátozása, illetve szünetelése akkor közérdekű, ha azt a víziközmű biztonságos működtetésével összefüggő közegészségügyi helyzet, hálózatfenntartás és -fejlesztés vagy üzemzavar-elhárítás teszi indokolttá.
 
-[^125]: A 72/A. §-t a 292/2014. (XI. 26.) Korm. rendelet 21. §-a iktatta be.
+[^128]: A 72/A. §-t a 292/2014. (XI. 26.) Korm. rendelet 21. §-a iktatta be.

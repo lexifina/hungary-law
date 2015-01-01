@@ -1,4 +1,4 @@
-## IX/A. Fejezet[^172]
+## IX/A. Fejezet[^176]
 
 ## A VÍZIKÖZMŰ-SZOLGÁLTATÓ KÖTELEZETTSÉGE TELJESÍTÉSÉVEL KAPCSOLATOS BESZERZÉSEINEK KÖVETELMÉNYEI
 
@@ -8,4 +8,4 @@
 
 (3) Az (1) bekezdésben meghatározott feladatok végrehajtása érdekében a víziközmű-szolgáltató a beszerzési szabályzatát (a továbbiakban: Szabályzat) úgy készíti el, hogy az a nem közbeszerzés útján megvalósuló beszerzéseit is tartalmazza.
 
-[^172]: A IX/A. fejezetet (94/A–94/E. §) a 292/2014. (XI. 26.) Korm. rendelet 32. §-a iktatta be.
+[^176]: A IX/A. fejezetet (94/A–94/E. §) a 292/2014. (XI. 26.) Korm. rendelet 32. §-a iktatta be.

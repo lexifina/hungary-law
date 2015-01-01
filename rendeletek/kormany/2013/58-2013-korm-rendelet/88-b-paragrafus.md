@@ -1,0 +1,39 @@
+88/B. § (1) E rendelet alkalmazásában szociálisan rászoruló felhasználónak azt a természetes személyt kell tekinteni, aki, vagy akinek a háztartásában élő személy:
+
+a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
+
+b) a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
+
+c) a Szoctv. 38. §-a szerinti lakásfenntartási támogatásban részesül,
+
+d) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
+
+e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 19. §-a szerinti rendszeres gyermekvédelmi kedvezményben részesül,
+
+f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül,
+
+g) a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett átmeneti vagy tartós nevelésbe vett gyermeket, vagy
+
+h) a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelővel bérleti jogviszonyban áll.
+
+(2) E Fejezet alkalmazásában a háztartás fogalmát a Szoctv. 4. § (1) bekezdés f) pontja szerint kell értelmezni.
+
+(3) A szociálisan rászoruló felhasználó az (1) bekezdésnek való megfelelését
+
+a) a 9. melléklet szerinti, 30 napnál nem régebbi, kitöltött és aláírt nyomtatvány, vagy
+
+b) a szociálisan rászoruló felhasználói státuszt megállapító szerv által kibocsátott, a jogosultság fennállását igazoló, 30 napnál nem régebbi igazolás, illetve határozat
+
+## eredeti példányának bemutatásával igazolhatja a víziközmű-szolgáltató felé.
+
+(4) A víziközmű-szolgáltató az igazolás céljára bemutatott iratok másolatát a jogosultság megszűnését követő 5 évig megőrzi.
+
+(5) A víziközmű-szolgáltató a szociálisan rászoruló felhasználót a rászorultság igazolását követő 8 napon belül nyilvántartásba veszi, és a nyilvántartásba vételről a felhasználót a Vksztv. 61/A. § (3) bekezdése szerint tájékoztatja.
+
+(6) Ha a nyilvántartásba vétel alapjául szolgáló körülmény határozott ideig áll fenn, és annak meghosszabbítását a védendő felhasználó – a határidő lejártát 30 nappal megelőzően a víziközmű-szolgáltató által a részére megküldött írásbeli figyelemfelhívás ellenére – nem igazolja, a határozott idő lejártát követő 8 napon belül a víziközmű-szolgáltató az érintett védendő felhasználót törli a nyilvántartásból. A víziközmű-szolgáltató értesíti az érintett felhasználót a nyilvántartásból való törlésről.
+
+(7) A víziközmű-szolgáltató a védendő felhasználókról vezetett nyilvántartásában a tárgyév február 15-én szociálisan rászoruló személyként nyilvántartott felhasználót a tárgyév március 1-jéig a Vksztv. 61/A. § (7) bekezdése szerinti kötelezettségéről közérthetően, írásban tájékoztatja, egyúttal megküldi részére a 9. melléklet szerinti adatlapot.
+
+(8) Ha a védendő felhasználók nyilvántartásában nem szereplő lakossági felhasználó díjtartozásával 45 napot meghaladó késedelembe esett, a víziközmű-szolgáltató további 15 napon belül írásban, közérthető módon és áttekinthető formában tájékoztatja a lakossági felhasználót a szociálisan rászoruló felhasználókat megillető kedvezményekről, a védendő felhasználók nyilvántartásába történő felvétel kérelmezésének módjáról, valamint megküldi részére a 9. melléklet szerinti adatlapot.
+
+(9) Ha a felhasználó kérte a védendő felhasználók nyilvántartásába történő felvételt, annak elbírálásáig a Vksztv. 58. § (1) bekezdés szerinti intézkedést a víziközmű-szolgáltató nem foganatosíthatja.

@@ -1,4 +1,4 @@
-100. §[^176] (1) A Vksztv. 83. § (4) bekezdésének maradéktalan végrehajtása érdekében a víziközmű-szolgáltató az ellátásért felelős bevonásával ütemtervet készít, amelyben határidők hozzárendelésével meghatározza valamennyi érintett felhasználóra és víziközmű-szolgáltatóra, illetve ellátásért felelősre vonatkozó feladatokat. Az ütemtervet a víziközmű-szolgáltató 2015. január 31-ig a Hivatal és az ellátásért felelős részére megküldi.
+100. §[^180] (1) A Vksztv. 83. § (4) bekezdésének maradéktalan végrehajtása érdekében a víziközmű-szolgáltató az ellátásért felelős bevonásával ütemtervet készít, amelyben határidők hozzárendelésével meghatározza valamennyi érintett felhasználóra és víziközmű-szolgáltatóra, illetve ellátásért felelősre vonatkozó feladatokat. Az ütemtervet a víziközmű-szolgáltató 2015. január 31-ig a Hivatal és az ellátásért felelős részére megküldi.
 
 (2) Az (1) bekezdésben meghatározott ütemterv végrehajtása során a vízmérési hely előzetes kialakítása a felhasználó, a bekötési vízmérő beszerelése és plombával vagy leszerelést megakadályozó zárral történő ellátása, továbbá a bekötővezeték esetleges cseréje a víziközmű-szolgáltató feladata.
 
@@ -18,4 +18,4 @@ b) a Vksztv. 83. § (4) bekezdésében meghatározott időpontig, a víziközmű
 
 (8) A Vksztv. 83. § (4) bekezdésének végrehajtása során új szerződés megkötésével egyenértékű, ha bekötési vízmérő felszerelésével egyidejűleg a hatályos közszolgáltatási szerződést az érintett felek a mért mennyiségen alapuló elszámolásra történő áttérés vonatkozásában módosítják.
 
-[^176]: A 100. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 292/2014. (XI. 26.) Korm. rendelet 34. §-a iktatta be.
+[^180]: A 100. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 292/2014. (XI. 26.) Korm. rendelet 34. §-a iktatta be.
