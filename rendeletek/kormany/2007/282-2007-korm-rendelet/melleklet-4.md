@@ -34,7 +34,11 @@
 
 | 9. | Állategészségügyi vizsgálatok: a) állat- és takarmánymérgezésnél állati hullarész, takarmány-, és méregmaradvány vizsgálata, b) állatok oltási balesetei, állatgyógyászati oltó- és kórjelző anyagok vizsgálata c) állat és takarmányféleség bakteriológiai vizsgálata | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 10. | Munkabiztonsági vizsgálatok: a) súlyos munkabalesetek vizsgálata b) az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 18/2008. (XII. 3.) SZMM rendelet 4. § (3) és (4) bekezdése alapján a 2. és 3. kategóriába tartozó egyéni védőeszközök megfelelőségének vizsgálata | Nemzeti Munkaügyi Hivatal |
+| 10. | Munkabiztonsági vizsgálatok: | Nemzetgazdasági Minisztérium |
+
+|  | a) súlyos munkabalesetek vizsgálata |  |
+
+|  | b) az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 18/2008. (XII. 3.) SZMM rendelet 4. § (3) és (4) bekezdése alapján a 2. és 3. kategóriába tartozó egyéni védőeszközök megfelelőségének vizsgálata |  |
 
 | 11. | Gyógyszerek vizsgálata | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (GYEMSZI) |
 
