@@ -10,7 +10,7 @@
 
 3. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás,
 
-4. általános képzés: olyan oktatást tartalmazó képzés, amely olyan képesítést ad, ami nem kizárólag vagy nem elsődlegesen a munkavállalónak a vállalkozásnál betöltött vagy későbbiekben betöltendő állásában alkalmazható, hanem nagymértékben hasznosítható más vállalkozásnál vagy munkaterületen (pl. a különböző független harmadik felek által együttesen szervezett képzések, a különböző vállalkozások munkavállalói számára nyitott képzések, vagy a Felnőttképzési Akkreditációs Testület és a Nemzeti Munkaügyi Hivatal által engedélyezett képzések),
+4.[^2]
 
 5. átlátható formában nyújtott támogatás: olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom,
 
@@ -26,11 +26,11 @@
 
 11. foglalkoztatottak számának nettó növekedése: a 651/2014/EU bizottsági rendelet 2. cikk 32. pontja szerinti növekedés,
 
-12. fogyatékossággal élő munkavállaló: a 800/2008/EK bizottsági rendelet 2. cikk 20. pontja szerinti munkavállaló,
+12.[^3]
 
 13. független harmadik fél: olyan vállalkozás, amely nem minősül egy másik meghatározott vállalkozás vonatkozásában a 651/2014/EU bizottsági rendelet I. melléklet 3. cikk (2) bekezdése szerinti partnervállalkozásnak vagy (3) bekezdése szerinti kapcsolt vállalkozásnak,
 
-14. hátrányos helyzetű munkavállaló: a 800/2008/EK bizottsági rendelet 2. cikk 18. pontja szerinti munkavállaló,
+14.[^4]
 
 15. immateriális javak: a 651/2014/EU bizottsági rendelet 2. cikk 30. pontja szerinti javak,
 
@@ -42,7 +42,7 @@
 
 19. közvetlenül a beruházási projekt által létrehozott munkahely: a 651/2014/EU bizottsági rendelet 2. cikk 62. pontja szerinti munkahely,
 
-20. kvázi-sajáttőke: a 800/2008/EK bizottsági rendelet 28. cikk 2. pontja szerinti tőke,
+20.[^5]
 
 21. létesítmény: funkcionálisan megbonthatatlan egészet képező termelő vagy szolgáltató egység,
 
@@ -64,7 +64,7 @@
 
 30. saját forrás: a kedvezményezett által a projekthez igénybe vett, állami támogatást nem tartalmazó forrás,
 
-31. speciális képzés: a 800/2008/EK bizottsági rendelet 38. cikk 1. pontja szerinti képzés,
+31.[^6]
 
 32. személyi jellegű ráfordítás: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 79. § (1) bekezdése szerinti ráfordítás,
 
@@ -85,3 +85,8 @@
 40. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő kibővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek.
 
 [^1]: A 2. § a 10/2014. (XII. 17.) MvM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § 4. pontját a 10/2014. (XII. 17.) MvM rendelet 14. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^3]: A 2. § 12. pontját a 10/2014. (XII. 17.) MvM rendelet 14. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^4]: A 2. § 14. pontját a 10/2014. (XII. 17.) MvM rendelet 14. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^5]: A 2. § 20. pontját a 10/2014. (XII. 17.) MvM rendelet 14. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^6]: A 2. § 31. pontját a 10/2014. (XII. 17.) MvM rendelet 14. § (1) bekezdés a) pontja hatályon kívül helyezte.

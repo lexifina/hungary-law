@@ -4,17 +4,13 @@
 
 a) azon szervezet részére, amely az Európai Bizottság támogatás visszafizetésére kötelező határozatának nem tett eleget,
 
-b)[^14] csekély összegű támogatás kivételével – figyelembe véve a 14. § (4) bekezdésében foglaltakat – nehéz helyzetben lévő vállalkozás részére,
+b)[^18] csekély összegű támogatás kivételével – figyelembe véve a 14. § (4) bekezdésében foglaltakat – nehéz helyzetben lévő vállalkozás részére,
 
 c) a pályázati felhívás által meghatározott kizáró ok fennállása esetén.
 
-(2) Nem ítélhető meg a 800/2008/EK bizottsági rendelet szerinti támogatás
+(2)[^19]
 
-a) a 800/2008/EK bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglalt tevékenységekhez,
-
-b) a 800/2008/EK bizottsági rendelet 1. cikk (4) bekezdésében meghatározott célra.
-
-(3)[^15] Nem ítélhető meg a 651/2014/EU bizottsági rendelet alapján
+(3)[^20] Nem ítélhető meg a 651/2014/EU bizottsági rendelet alapján
 
 a) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez a 8., 10. és 11. alcím szerinti támogatás,
 
@@ -32,5 +28,6 @@ e) támogatás, ha azt import áruk helyett hazai áru használatától teszik f
 
 f) olyan feltétellel nyújtandó támogatás, amely az uniós jog megsértését eredményezi.
 
-[^14]: A 16. § (1) bekezdés b) pontja a 10/2014. (XII. 17.) MvM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^15]: A 16. § (3) bekezdését a 10/2014. (XII. 17.) MvM rendelet 5. § (2) bekezdése iktatta be.
+[^18]: A 16. § (1) bekezdés b) a 10/2014. (XII. 17.) MvM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^19]: A 16. § (2) bekezdését a 10/2014. (XII. 17.) MvM rendelet 14. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^20]: A 16. § (3) bekezdését a 10/2014. (XII. 17.) MvM rendelet 5. § (2) bekezdése iktatta be.
