@@ -16,7 +16,7 @@ e) támogatást nyújthat már támogatott, egyedi méretvétel alapján gyárto
 
 (3) A méltányossági jogkör gyakorlása nem terjed ki
 
-a) a 23. § b), d)–e) és a 23/A. § a)–b) pontjai alapján, valamint
+a) a 23/A. § b) pontja alapján, valamint
 
 b) a szakmai szempontok figyelembevételével összeállított várólista alapján
 

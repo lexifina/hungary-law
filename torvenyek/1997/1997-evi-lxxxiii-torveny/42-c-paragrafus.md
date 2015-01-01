@@ -1,15 +1,25 @@
-42/C. § Nem jár a gyermekgondozási díj, ha
+42/C. § (1) Nem jár a gyermekgondozási díj, ha
 
-a) a jogosult a gyermek 1 éves kora előtt bármilyen jogviszonyban díjazás – ide nem értve a szerzői jog védelme alatt álló alkotásért járó díjazást és a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díjazását – ellenében munkát végez vagy hatósági engedélyhez kötött keresőtevékenységét személyesen folytatja;
+a) a jogosult a gyermek 1 éves kora előtt bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenységet – keresőtevékenységet folytat;
 
-b) a jogosult a gyermek 1 éves kora előtt – munkavégzés nélkül – megkapja a teljes keresetét, ha a keresetét részben kapja meg, csak az elmaradt kereset után jár gyermekgondozási díj;
+b) a jogosult a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontjában meghatározott egyéb rendszeres pénzellátásban részesül, ide nem értve a táppénzt, a baleseti táppénzt, a csecsemőgondozási díjat, a gyermekgondozási díjat, a gyermekgondozási támogatást, az álláskeresési járadékot és segélyt, a vállalkozói és a munkanélküli járadékot, valamint az álláskeresést ösztönző juttatást, vagy ha a jogosult rendszeres pénzellátásban részesül és a csecsemőgondozási díjra vagy a gyermekgondozási díjra való jogosultság kezdő napján pénzbeli egészségbiztosítási járulék fizetésére kötelezett;
 
-c) a jogosult egyéb rendszeres pénzellátásban – ide nem értve a táppénzt, a baleseti táppénzt, a terhességi-gyermekágyi segélyt, a gyermekgondozási díjat, a gyermekgondozási támogatást, az álláskeresési járadékot és segélyt, a vállalkozói és a munkanélküli járadékot, valamint az álláskeresést ösztönző juttatást – részesül;
+c) a gyermeket ideiglenes hatállyal elhelyezték, nevelésbe vették, továbbá ha harminc napot meghaladóan bentlakásos szociális intézményben helyezték el;
 
-d) a gyermeket ideiglenes hatállyal elhelyezték, nevelésbe vették, továbbá ha harminc napot meghaladóan bentlakásos szociális intézményben helyezték el;
+d) a gyermeket napközbeni ellátást biztosító intézményben (bölcsőde, családi napközi, házi gyermekfelügyelet) helyezték el, kivéve ha a gyermek 1 éves kora után a jogosult keresőtevékenységet folytat, továbbá ide nem értve a rehabilitációs, habilitációs foglalkozást nyújtó intézményi elhelyezést;
 
-e) a gyermeket napközbeni ellátást biztosító intézményben (bölcsőde, családi napközi, házi gyermekfelügyelet) helyezték el, kivéve, ha a gyermek 1 éves kora után a jogosult keresőtevékenységet folytat, továbbá ide nem értve a rehabilitációs, habilitációs foglalkozást nyújtó intézményi elhelyezést;
+e) a jogosult előzetes letartóztatásban van vagy szabadságvesztés-, elzárásbüntetését tölti;
 
-f) a jogosult előzetes letartóztatásban van vagy szabadságvesztés, elzárás büntetését tölti;
+f) a gyermekgondozási díj első igénybevétele a gyermek egy éves kora után kezdődik, az első igénybevétel első napjától számított 60 napig, ha a jogosult bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenységet – keresőtevékenységet folytat, kivéve ha az igénylő a gyermekre tekintettel csecsemőgondozási díjat vett igénybe, vagy a gyermekgondozási díjban részesülő meghal;
 
-g) a gyermekgondozási díj első igénybevétele a gyermek egy éves kora után kezdődik, az első igénybevétel első napjától számított 60 napig, ha a jogosult bármilyen jogviszonyban díjazás – ide nem értve a szerzői jog védelme alatt álló alkotásért járó díjazást és a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díjazását – ellenében munkát végez vagy hatósági engedélyhez kötött keresőtevékenységet személyesen folytat, kivéve, ha az igénylő a gyermekre tekintettel terhességi-gyermekágyi segélyt vett igénybe, vagy a gyermekgondozási díjban részesülő meghal.
+g) a gyermek a gyermekgondozási díjra való jogosultság ideje alatt meghal, az elhalálozás időpontját követő hónap első napjától, vagy ha addig a halál időpontjától számítva 15 napnál kevesebb van hátra, akkor az elhalálozást követő 16. naptól;
+
+h) ikergyermekek esetében valamelyik gyermek
+
+ha) a gyermekgondozási díjra való jogosultság ideje alatt meghal, azonos várandósságból született egynél több testvér hiányában a 42/B. § (1) bekezdésében meghatározott időpontot követően,
+
+hb) a 42/B. § (1) bekezdésében meghatározott időtartamot követő 1 éven belül meghal, azonos várandósságból született egynél több testvér hiányában az elhalálozás időpontját követő hónap első napjától, vagy ha addig a halál időpontjától számítva 15 napnál kevesebb van hátra, akkor az elhalálozást követő 16. naptól.
+
+(2) Az (1) bekezdés a) és f) pontja alkalmazásában nem minősül keresőtevékenységnek az ellátásra való jogosultság kezdőnapját megelőzően végzett tevékenységből származó jövedelem – ideértve a szerzői jog védelme alatt álló alkotásért járó díjazást és a személyi jövedelemadó-mentes tiszteletdíjat is –, ha az az ellátás folyósításának ideje alatt kerül kifizetésre.
+
+(3) A gyermekgondozási díj az (1) bekezdés g) pontja szerinti esetben legfeljebb a 42/B. § (1) bekezdésében meghatározott időpontig, az (1) bekezdés h) pontja szerinti esetben pedig legfeljebb a 42/B. § (1a) bekezdésében meghatározott időpontig jár.

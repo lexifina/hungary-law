@@ -6,7 +6,7 @@
 
 a)
 
-b) a 23/A. § a) pontja tekintetében a vizsgálati és terápiás rend szerinti és az attól eltérő ellátáshoz szükséges diagnosztikus és terápiás anyag- és gyógyszerköltség különbözetét, valamint fekvőbeteg-gyógyintézeti ellátás esetén az ebből eredő többlet ápolási időt is, az ápolási naponkénti étkezési és elhelyezési költséggel,
+b)
 
 c) a 24. § (4) bekezdésben foglalt egyéni igény szerinti étkezés tekintetében az intézeti nyersanyagnorma és a többlet-nyersanyagköltség különbözetét
 
@@ -16,7 +16,7 @@ kell alapul venni.
 
 (5) A részleges térítési díjat a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló kormányrendelet állapítja meg a 23. § a), c), i) és k) pontjában és a 23/A. § c) pontjában foglalt ellátások tekintetében.
 
-(6) A biztosított által a 23. § b), d) és e) pontja alapján fizetendő részleges térítési díj mértéke annak az összegnek a 30 százaléka, ami az adott ellátásért a külön jogszabályban foglaltak szerint az egészségbiztosító felé elszámolható, azzal, hogy a biztosított által fizetendő összeg nem haladhatja meg a külön jogszabályban meghatározott összeget.
+(6)
 
 4. CÍM
 

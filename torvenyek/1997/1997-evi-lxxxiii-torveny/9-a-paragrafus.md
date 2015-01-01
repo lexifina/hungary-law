@@ -3,11 +3,3 @@
 a) a pénztartozás teljesítésére a Ptk. 6:130. § (1) és (2) bekezdésében meghatározott határidő hatvan nap,
 
 b) a pénztartozás teljesítésére szerződésben kikötött határidő a hatvan napot meghaladó részében semmis.
-
-## II. Fejezet
-
-## AZ EGÉSZSÉGBIZTOSÍTÁS EGÉSZSÉGÜGYI SZOLGÁLTATÁSAI
-
-1. CÍM
-
-Térítésmentesen, igénybe vehető egészségügyi szolgáltatások

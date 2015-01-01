@@ -30,7 +30,7 @@ b) a mesterképzésben, egységes, osztatlan képzésben vagy doktori képzésbe
 
 70 százaléka.
 
-(6) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult személy a szülés napján biztosított és rendelkezik legalább 180 naptári napi jövedelemmel, az ellátás összegét a 48. § (3) bekezdése alapján kell kiszámítani azzal, hogy az ellátás összege nem lehet kevesebb az (5) bekezdés a), illetve b) pontjában meghatározott összegnél, valamint nem lehet magasabb havonta a minimálbér kétszeresének 70 százalékánál.
+(6) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult személy a szülés napján biztosított és a számítási időszakban rendelkezik legalább 120 naptári napi jövedelemmel, az ellátás összegét a 48. § (1) és (2) bekezdése alapján kell kiszámítani azzal, hogy az ellátás összege nem lehet kevesebb az (5) bekezdés a), illetve b) pontjában meghatározott összegnél, valamint nem lehet magasabb havonta a minimálbér kétszeresének 70 százalékánál.
 
 (7) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult biztosított nem rendelkezik legalább 180 naptári napi jövedelemmel, az ellátás összegét az (5) bekezdés szerint kell megállapítani.
 

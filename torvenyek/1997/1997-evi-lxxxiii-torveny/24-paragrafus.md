@@ -1,6 +1,6 @@
 24. § (1) A biztosított által is csak részleges vagy kiegészítő térítési díj megfizetése mellett igénybe vehető egészségügyi szolgáltatások díját arra tekintettel kell megállapítani, hogy az adott ellátás keretében a biztosított részére nyújtanak-e olyan szolgáltatást, amelyre a biztosított térítésmentesen jogosult.
 
-(2) Az e fejezetben foglaltak szerint megállapított részleges és kiegészítő térítési díjak az egészségügyi szolgáltató bevételét képezik azzal, hogy a szolgáltató a finanszírozási szerződés alapján nem számolhatja el a részleges térítési díj ellenében nyújtott szolgáltatás részleges térítési díjjal fedezett részét. A 23. § b) pontja alapján fizetett részleges térítési díjból az egészségügyi szolgáltató a térítési díj ellenében végzett ellátásban közreműködő személyeket a szabályzatában meghatározott módon külön juttatásban részesítheti.
+(2) Az e fejezetben foglaltak szerint megállapított részleges és kiegészítő térítési díjak az egészségügyi szolgáltató bevételét képezik azzal, hogy a szolgáltató a finanszírozási szerződés alapján nem számolhatja el a részleges térítési díj ellenében nyújtott szolgáltatás részleges térítési díjjal fedezett részét.
 
 (3)
 

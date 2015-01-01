@@ -26,7 +26,7 @@ j) a szolgálati viszonyban álló személyek, a Magyar Honvédség állományá
 
 k) a pénzbeli ellátások, továbbá a baleseti ellátások megállapítására és folyósítására vonatkozó részletes szabályok,
 
-l) a kifizetőhellyel nem rendelkező munkáltatóknak a táppénz igénybejelentésével kapcsolatos kötelezettségei, továbbá a kifizetőhelyeknek a terhességi-gyermekágyi segély, a gyermekgondozási díj, a táppénz, a baleseti táppénz megállapítására, folyósítására és elszámolására vonatkozó feladatai,
+l) a kifizetőhellyel nem rendelkező munkáltatóknak a táppénz igénybejelentésével kapcsolatos kötelezettségei, továbbá a kifizetőhelyeknek a csecsemőgondozási díj, a gyermekgondozási díj, a táppénz, a baleseti táppénz megállapítására, folyósítására és elszámolására vonatkozó feladatai,
 
 m) a foglalkoztatóknak és egyéb szerveknek az egészségbiztosítási ellátások megállapításához szükséges nyilvántartási és adatszolgáltatási feladatainak,
 

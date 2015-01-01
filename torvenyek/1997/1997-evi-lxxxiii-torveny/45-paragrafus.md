@@ -4,4 +4,6 @@
 
 (3) A keresőképtelenség a vizsgálatra jelentkezés időpontjától eltérően, legfeljebb öt napra visszamenőleg is igazolható.
 
+(3a) Ha az orvosi dokumentáció alapján indokoltnak tartja, az ellenőrző (fő)orvos – a (3) bekezdésben foglaltaktól eltérően – 30 napra visszamenőleg igazolhatja a keresőképtelenséget.
+
 (4) Kivételesen indokolt esetben – a (3) bekezdésben foglaltaktól eltérően – az orvosszakértői szerv a keresőképtelenséget a vizsgálatra jelentkezés időpontjától legfeljebb hat hónapra visszamenőleg is igazolhatja.

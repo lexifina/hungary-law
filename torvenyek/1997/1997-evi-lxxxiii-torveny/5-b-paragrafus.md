@@ -20,7 +20,7 @@ d) gyógyszer: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a g
 
 e) gyógyászati segédeszköz: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (továbbiakban: Gyftv.) 3. §-ának 6. pontja szerinti eszköz,
 
-f)
+f) helyi utazás: a település közigazgatási határán belül történő utazás,
 
 g) gyógyászati ellátás: az orvosi rehabilitáció céljából társadalombiztosítási támogatással igénybe vehető gyógyászati ellátásokról szóló rendeletben meghatározott ellátás,
 
@@ -68,6 +68,6 @@ sa) a Magyarországon vagy magyar egészségügyi szolgáltató által uniós be
 
 sb) a biztosított által – ide nem értve a megállapodás alapján egészségügyi ellátásra jogosultakat – az Európai Unió más tagállamában vagy az ott letelepedett szolgáltatónál igénybevett egészségügyi ellátás, amelyet a biztosított nem az uniós rendeletek alapján vesz igénybe.
 
-t) jövedelem: az egészségbiztosítás pénzbeli ellátásai összegének kiszámításánál az e törvényben meghatározott időszakban a biztosított által elért, a Tbj. 19. § (3) bekezdése szerint fizetendő pénzbeli egészségbiztosítási járulék alapját képező jövedelem,
+t)
 
 u) intézményi előjegyzési lista: a fekvőbeteg-szakellátást végző egészségügyi szolgáltatónál adott ellátások tekintetében az intézményi várólistától elkülönítetten vezetett lista, amelyen a biztosított kérésére a betegellátás tervezett időpontja legalább 14 nappal későbbi, mint az intézményi várólista alapján meghatározható legkorábbi időpont.

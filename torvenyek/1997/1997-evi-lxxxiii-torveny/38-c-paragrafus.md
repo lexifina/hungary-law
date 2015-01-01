@@ -2,7 +2,7 @@
 
 38/C. § (1) Ha az egészségügyi szolgáltató 30. § (1)–(2) bekezdése szerinti szerződése megszűnik, az egészségbiztosító záró ellenőrzést végezhet, amelyet a szerződés megszűnését követő kilencven napon belül indít meg.
 
-(2) A záró ellenőrzés tekintetében a 35. § (2) és (6) bekezdése, a 36. §, a 37. § (1)–(8) és (12)–(14) bekezdése, a 38. § (1)–(3) és (6)–(7) bekezdése, a 38/A. § és a 38/B. § szerinti, a szerződés teljesítésének ellenőrzésére vonatkozó szabályok alkalmazandók. Amennyiben az ellenőrzött egészségügyi szolgáltató nem biztosítja az ellenőrzés elvégzéséhez az e törvény és a végrehajtására kiadott jogszabály szerint szükséges adatokat, a szolgáltató köteles az ellenőrzés tárgyát képező időszak alatt részére folyósított finanszírozási összeget visszatéríteni.
+(2) A záró ellenőrzés tekintetében a 35. § (2) és (6) bekezdése, a 36. §, a 37. § (1)–(8) és (12)–(14) bekezdése, a 38. § (1)–(3) és (6)–(7) bekezdése, a 38/A. § és a 38/B. § szerinti, a szerződés teljesítésének ellenőrzésére vonatkozó szabályok alkalmazandók. Amennyiben az ellenőrzött egészségügyi szolgáltató nem biztosítja az ellenőrzés elvégzéséhez az e törvény és a végrehajtására kiadott jogszabály szerint szükséges adatokat, a szolgáltató köteles az ellenőrzés tárgyát képező időszak alatt részére folyósított finanszírozási összeg egészségbiztosító által meghatározott részét visszatéríteni.
 
 (3) Ha a záró ellenőrzés megállapítja, hogy az egészségügyi szolgáltató az E. Alapból kapott összeget nem a megszűnt finanszírozási szerződésében meghatározott egészségügyi szolgáltatásokra használta fel vagy azt nem használta fel, köteles a kapott összeget – a szerződésszegés esetére kikötött egyéb jogkövetkezmények mellett – az E. Alap számára megtéríteni.
 

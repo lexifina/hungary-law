@@ -2,13 +2,11 @@
 
 a) 18 éves életkor alatt fogszabályozó készülékre;
 
-b) a külön jogszabály szerinti terhesgondozás és a szülészeti ellátás kivételével az ellátást végző orvos 19. § (3) bekezdésében foglaltak szerinti megválasztására;
+b)
 
 c) a rágóképesség helyreállítása érdekében jogszabályban meghatározott típusú fogpótlásra;
 
-d) a fekvőbeteg-gyógyintézeti ellátásra, ha azt a biztosított beutaló nélkül veszi igénybe, kivéve az Eütv. 3. §-ának i) pontja szerinti sürgős szükség körébe tartozó – külön jogszabályban megnevezett – ellátásokat;
-
-e) a fekvőbeteg-gyógyintézeti ellátásnak a beutalási rendtől eltérő igénybevételére, ide nem értve az Eütv. 3. §-ának i) pontja szerinti sürgős szükség körébe tartozó – külön jogszabályban megnevezett – ellátásokat;
+d)–e)
 
 f)
 

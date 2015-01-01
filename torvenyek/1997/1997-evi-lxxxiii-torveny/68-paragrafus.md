@@ -4,4 +4,4 @@
 
 (3) A 66. § (3)–(6) bekezdése, a 67. § és az (1)–(2) bekezdés alapján megállapított 5000 forintot meg nem haladó megtérítési kötelezettség esetén a megtérítésre irányuló eljárást nem kell lefolytatni.
 
-(4) A 66. § (1), (2) és (4) bekezdése alapján megállapított, 1000 forintot meg nem haladó visszafizetési kötelezettség esetén a visszafizetésre irányuló eljárást nem kell lefolytatni.
+(4) A 66. § (1), (1a), (2), (2a) és (4) bekezdése alapján megállapított, 1000 forintot meg nem haladó visszafizetési kötelezettség esetén a visszafizetésre irányuló eljárást nem kell lefolytatni.

@@ -1,6 +1,6 @@
 23/A. § A biztosított kiegészítő térítési díj mellett jogosult
 
-a) saját kezdeményezésére az ellátás 19. § (1) bekezdésében foglaltaktól – többletköltséget okozó – eltérő tartalommal történő igénybevételére,
+a)
 
 b) az egészségügyi ellátás keretében saját kezdeményezésére igénybe vett egyéb kényelmi szolgáltatásokra, és
 

@@ -1,6 +1,8 @@
 ## Baleseti járadék
 
-57. § (1) Baleseti járadékra az jogosult, akinek üzemi baleset következtében tizenhárom százalékot meghaladó egészségkárosodása keletkezett, de a megváltozott munkaképességű személyek ellátásai nem illetik meg.
+57. § (1) Baleseti járadékra az jogosult, akinek üzemi baleset következtében 13%-ot meghaladó egészségkárosodása keletkezett, de a megváltozott munkaképességű személyek ellátásai nem illetik meg, valamint nem a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 31. §-a, továbbá 32. § (4) bekezdése alapján részesül öregségi nyugdíjban.
+
+(1a) Az (1) bekezdésben meghatározott kizáró rendelkezést nem kell alkalmazni, ha a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 31. §-a és 32. § (4) bekezdése alapján öregségi nyugdíjban részesülő személy üzemi balesete az öregségi nyugdíjkorhatár elérését követően fennálló biztosítási jogviszonya alatt következett be.
 
 (2) Ha az egészségkárosodás mértéke a húsz százalékot nem haladja meg, a baleseti járadék legfeljebb két éven át, ha meghaladja, az egészségkárosodás tartamára időbeli korlátozás nélkül jár.
 
