@@ -1,0 +1,37 @@
+## 1. Általános rendelkezések
+
+1. § (1) E rendelet hatálya kiterjed a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény (a továbbiakban: Fttv.) 3. § (1) bekezdés a)–f), h) és i) pontjában meghatározott állami alapadatbázisokkal kapcsolatos és az előállításukkor keletkezett iratokra (a továbbiakban: állami alapadatok iratai).
+
+(2) E rendelet alkalmazásában állami alapadatok iratainak tekintendő minden olyan analóg és digitális dokumentum, ami az állami alapadatok adatbázisainak készítésével, minőségellenőrzésével, felújításával vagy forgalomból történő kivonásával kapcsolatos. Így különösen:
+
+a) az újfelmérést vagy térképfelújítást elrendelő,
+
+b) a közbeszerzési eljárás során keletkezett,
+
+c) az újfelmérési vagy térkép-felújítási műszaki,
+
+d) a távérzékelési adatok minőségellenőrzésével kapcsolatos,
+
+e) a közszemlére és forgalomba adási vagy helyezési,
+
+f) az állami átvételi eljárással kapcsolatos,
+
+g) a forgalomból történő kivonási,
+
+h) a selejtezési
+
+## iratok.
+
+(3) E rendelet alkalmazásában iratkezelő:
+
+a) a Fővárosi és Megyei Kormányhivatal Földhivatala (a továbbiakban: megyei földhivatal);
+
+b) a fővárosi és megyei kormányhivatal járási hivatalának járási földhivatala, a fővárosban a Budapesti 1. és 2. Számú Földhivatal (a továbbiakban együtt: járási földhivatal);
+
+c) a Földmérési és Távérzékelési Intézet (a továbbiakban: FÖMI);
+
+d) a Nemzeti Kataszteri Program végrehajtására alapított Nemzeti Kataszteri Program Nonprofit Kft. (a továbbiakban: NKP Nonprofit Kft.).
+
+(4) Az (1) bekezdés szerinti állami alapadatbázisok eredeti felmérési munkarészei, mérési és számítási dokumentációi, térképei és felvételi rajzai, valamint a földmérési és térképészeti célú távérzékelési adatok (a továbbiakban együtt: munkarészek) – forgalomból történő kivonásuktól függetlenül – nem selejtezhetők, azokat határidő nélkül az iratokat kezelő szerv térképtárában kell megőrizni.
+
+(5) Nem selejtezhetők az állami átvételi eljárás lefolytatására a megyei, illetve a járási földhivatalnak átadott állami földmérési alaptérképi adatbázis tartalmát érintő munkarészek, továbbá az állami ingatlan-nyilvántartási térképi adatbázis tartalmában változást eredményező változási vázrajzok és azok munkarészei, azokat határidő nélkül az iratokat kezelő szerv térképtárában kell megőrizni.
