@@ -1,9 +1,8 @@
-## 8–14. §[^4]
+## 8–14. §[^3]
 
-15. § (1)[^5]
+15. § (1) Az R. 18. melléklete helyébe az 1. melléklet lép.
 
-(2)–(3)[^6]
+(2)–(3)[^4]
 
-[^4]: A 8–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 15. § (1) bekezdése a 18. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^6]: A 15. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 15. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
