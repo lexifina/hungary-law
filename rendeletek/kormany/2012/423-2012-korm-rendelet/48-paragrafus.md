@@ -1,5 +1,6 @@
-48. §[^109] (1) A felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet módosításáról szóló 335/2014. (XII. 18.) Korm. rendelet 6. §-ával módosított 15. § (6) bekezdését először a 2015. évi általános felvételi eljárásban kell alkalmazni.
+48. §[^106] (1) A felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet módosításáról szóló 335/2014. (XII. 18.) Korm. rendelet 6. §-ával módosított 15. § (6) bekezdését először a 2015. évi általános felvételi eljárásban kell alkalmazni.
 
-(2) A 2014. év tekintetében gyakorlatigényesnek minősül a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet 1. és 2. számú mellékletében 2014. április 18-án gyakorlatigényesként megjelölt szak.
+(2)[^107]
 
-[^109]: A 48. § a 335/2014. (XII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^106]: A 48. § a 335/2014. (XII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^107]: A 48. § (2) bekezdését a 335/2014. (XII. 18.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.

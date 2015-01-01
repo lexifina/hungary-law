@@ -36,7 +36,7 @@ A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű ére
 
 |  | 9. | ókori nyelvek és kultúrák (önálló szakképzettséget eredményező szakirányok: klasszika filológia, asszíriológia, egyiptológia) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, francia nyelv, latin nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, újgörög nyelv. |
 
-|  | 10. | keleti nyelvek és kultúrák (önálló szakképzettséget eredményező szakirányok: altajisztika, arab, indológia, iranisztika, tibeti, mongol, hebraisztika, japán, kínai, koreai, török, újgörög) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, francia nyelv, latin nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, újgörög nyelv. |
+|  | 10. | keleti nyelvek és kultúrák (önálló szakképzettséget eredményező szakirányok: altajisztika, arab, indológia, iranisztika, tibeti, mongol, hebraisztika, japán, kínai, koreai, török, újgörög) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, francia nyelv, latin nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, újgörög nyelv, arab nyelv, héber nyelv, japán nyelv, kínai nyelv. |
 
 |  | 11. | andragógia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, biológia, francia nyelv, magyar nyelv és irodalom, matematika, német nyelv, orosz nyelv, történelem. |
 
@@ -88,7 +88,13 @@ A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű ére
 
 |  | 3. |  | gyógyszerész | Emelt szinten kell teljesíteni: biológia és fizika vagy kémia. |
 
-7. Társadalomtudomány képzési terület
+7. Sporttudomány képzési terület
+
+|  |  | A Alapképzési szakok | B Osztatlan mester-képzési szakok | C Emelt szintű érettségi követelmény |
+
+|  | 1. | testnevelő-edző |  | Emelt szinten kell teljesíteni: testnevelés |
+
+8. Társadalomtudomány képzési terület
 
 |  |  | A | B | C |
 
@@ -112,4 +118,4 @@ A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű ére
 
 |  | 9. | társadalmi tanulmányok |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
 
-[^113]: A 3. melléklet a 47/2013. (II. 20.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^113]: A 3. melléklet a 47/2013. (II. 20.) Korm. rendelet 11. §-a, az 502/2013. (XII. 29.) Korm. rendelet 23. § (3) bekezdése szerint módosított szöveg.

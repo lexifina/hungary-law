@@ -2,11 +2,11 @@
 
 24. § (1) Az esélyegyenlőség biztosítása érdekében
 
-a)[^65] a hátrányos helyzetű jelentkező minden jelentkezési helyén 40 többletpontra;
+a)[^61] a hátrányos helyzetű jelentkező minden jelentkezési helyén 40 többletpontra;
 
 b) a fogyatékossággal élő jelentkező minden jelentkezési helyén 40 többletpontra;
 
-c) az a jelentkező, aki a jelentkezési határidő és a felvételi döntés közötti időszakban gyermeke gondozása céljából fizetés nélküli szabadságon lévő, terhességi-gyermekágyi segélyben, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesül, minden jelentkezési helyén 40 többletpontra
+c)[^62] az a jelentkező, aki a jelentkezési határidő és a felvételi döntés közötti időszakban gyermeke gondozása céljából fizetés nélküli szabadságon lévő, csecsemőgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesül, minden jelentkezési helyén 40 többletpontra
 
 jogosult.
 
@@ -20,4 +20,5 @@ jogosult.
 
 (6) A (3)–(5) bekezdés alapján nyújtott kedvezménynek vagy mentesítésnek a fogyatékosság jellegéhez kell igazodnia, és nem vezethet a felvételhez szükséges alapvető tanulmányi követelmények alóli teljes felmentéshez.
 
-[^65]: A 24. § (1) bekezdés a) pontja az 502/2013. (XII. 29.) Korm. rendelet 25. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^61]: A 24. § (1) bekezdés a) pontja az 502/2013. (XII. 29.) Korm. rendelet 25. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^62]: A 24. § (1) bekezdés c) pontja a 335/2014. (XII. 18.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.

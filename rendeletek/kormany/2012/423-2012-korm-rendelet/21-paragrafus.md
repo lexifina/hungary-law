@@ -30,7 +30,7 @@ cd) az Ifjúsági Olimpián
 
 elért legalább 3. helyezésért 20 többletpontra,
 
-d)[^59] az adott sportág országos sportági szakszövetségének igazolása alapján, a Nemzetközi Olimpiai Bizottság által elismert sportágban az országos sportági szakszövetség által – a szakszövetségnek a jelentkezési határidő napján hatályos versenyszabályzatában meghatározottak szerinti, a Magyar Olimpiai Bizottság által igazoltan – felnőtt és felnőtt alatti első utánpótlás korosztály részére szervezett országos bajnokságon elért legalább 3. helyezésért 15 többletpontra,
+d)[^55] az adott sportág országos sportági szakszövetségének igazolása alapján, a Nemzetközi Olimpiai Bizottság által elismert sportágban az országos sportági szakszövetség által – a szakszövetségnek a jelentkezési határidő napján hatályos versenyszabályzatában meghatározottak szerinti, a Magyar Olimpiai Bizottság által igazoltan – felnőtt és felnőtt alatti első utánpótlás korosztály részére szervezett országos bajnokságon elért legalább 3. helyezésért 15 többletpontra,
 
 e) a Magyar Diáksport Szövetség igazolása alapján, a Nemzetközi Olimpiai Bizottság által elismert sportágban a Magyar Diáksport Szövetség által, vagy közreműködésével szervezett Diákolimpia országos döntőjében elért legalább 3. helyezésért 10 többletpontra
 
@@ -46,7 +46,7 @@ h) az Ifjúsági Tudományos Innovációs Tehetségkutató Versenyen elért lega
 
 i) egyéb, a g) pont alá nem tartozó tantárgyból Országos Középiskolai Tanulmányi Versenyen elért eredményért, ha olyan tárgyból érte el, amelynek elfogadásáról az érintett intézmények előzetesen megegyeztek, az 1–10 helyezés esetén 20 többletpontra;
 
-j)[^60] az 1993 után szerzett, az Országos Képzési Jegyzékben szereplő emeltszintű (54-es szakmaszámú) szakképesítésért vagy emeltszintű (55-ös szakmaszámú) szakképesítés-ráépülésért a 4. melléklet szerinti szakiránynak megfelelő továbbtanulás esetén 24 többletpontra;
+j)[^56] az 1993 után szerzett, az Országos Képzési Jegyzékben szereplő emeltszintű (54-es szakmaszámú) szakképesítésért vagy emeltszintű (55-ös szakmaszámú) szakképesítés-ráépülésért a 4. melléklet szerinti szakiránynak megfelelő továbbtanulás esetén 24 többletpontra;
 
 k) a szakképzésről szóló 2011. évi CLXXXVII. törvény 73. § (2) bekezdés h) pontja szerint a szakképesítésért felelős miniszter által szervezett országos szakmai tanulmányi versenyen elért helyezése alapján a szakmai vizsga egésze (minden része) alól felmentést kapott jelentkező szakiránynak megfelelő továbbtanulás esetén 30 többletpontra
 
@@ -56,8 +56,8 @@ jogosult.
 
 (3) Az (1) bekezdés ga) alpontja alkalmazása során a döntőbe jutott, de azon részt nem vevő jelentkezőt – a verseny szervezőjének igazolása alapján – a döntőben elvileg elérhető utolsó helyezést elérőnek kell tekinteni.
 
-(4)[^61] Az (1) bekezdés alkalmazása során jogcímenként legfeljebb egy-egy többletpontra jogosító eredmény alapján jogosult többletpontra a jelentkező. Az (1) bekezdés a)–e) pontjaiban meghatározott jogcímek közül csak a pontszámítás szempontjából legkedvezőbb jogcím után kaphat többletpontot a jelentkező.
+(4)[^57] Az (1) bekezdés alkalmazása során jogcímenként legfeljebb egy-egy többletpontra jogosító eredmény alapján jogosult többletpontra a jelentkező. Az (1) bekezdés a)–e) pontjaiban meghatározott jogcímek közül csak a pontszámítás szempontjából legkedvezőbb jogcím után kaphat többletpontot a jelentkező.
 
-[^59]: A 21. § (1) bekezdés d) pontja az 502/2013. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^60]: A 21. § (1) bekezdés j) pontja a 47/2013. (II. 20.) Korm. rendelet 9. § c) pontja, a 335/2014. (XII. 18.) Korm. rendelet 17. § i) pontja szerint módosított szöveg.
-[^61]: A 21. § (4) bekezdése a 47/2013. (II. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^55]: A 21. § (1) bekezdés d) pontja az 502/2013. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^56]: A 21. § (1) bekezdés j) pontja a 47/2013. (II. 20.) Korm. rendelet 9. § c) pontja, a 335/2014. (XII. 18.) Korm. rendelet 17. § i) pontja szerint módosított szöveg.
+[^57]: A 21. § (4) bekezdése a 47/2013. (II. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
