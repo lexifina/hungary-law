@@ -20,7 +20,7 @@ a) a közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatás 
 
 b) az Egyetemre történő felvétel különös feltételeit, valamint
 
-c) a külföldi hallgatók Egyetemre történő felvételének, jogállásának és tanulmányainak részletes szabályait,
+c) a 33/A. § hatálya alá nem tartozó külföldi hallgatók Egyetemre történő felvételének, jogállásának és tanulmányainak részletes szabályait,
 
 d) a közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában az alap- és mesterképzések képzési és kimeneti követelményeit.
 
