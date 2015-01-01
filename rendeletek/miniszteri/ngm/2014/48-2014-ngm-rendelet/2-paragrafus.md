@@ -1,1 +1,0 @@
-## „(4a) A Növekedési Hitelprogramhoz nyújtott garancia esetén az Eximbank a (4) bekezdésben előírt táblázatokhoz mellékeli nyilatkozatát arról, hogy a garanciát a KR. 13/A. § b) vagy c) pontja közül melyik szerint nyújtotta.”
