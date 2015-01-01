@@ -12,6 +12,8 @@ kamattal növelt összegben történő megfizetésére.
 
 (4) Ha a járulékfizetésre kötelezett a bejelentési, a nyilvántartási, az adatszolgáltatási, valamint a hulladéklerakási járulék- és pótlékbefizetési kötelezettségének nem tesz eleget, az adózás rendjéről szóló törvényt kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon környezetvédelmi hatóságot kell érteni.
 
+(4a) A környezetvédelmi hatóság megkeresésére a hulladéklerakási járulék adók módjára való behajtása érdekében az adóhatóság jár el.
+
 (5) A járulékfizetésre kötelezettnek nem kell hulladéklerakási járulékot fizetni, ha
 
 a) a környezetvédelmi hatóság által engedélyezett rekultiváció vagy kármentesítés során a rekultivációval vagy kármentesítéssel érintett hulladéklerakóból hulladékot helyeznek át egy másik hulladéklerakóba,

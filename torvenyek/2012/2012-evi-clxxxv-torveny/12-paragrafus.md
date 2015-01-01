@@ -14,4 +14,4 @@
 
 (4) A hulladékbirtokos a hulladékot a kezelésre történő elszállítás érdekében – amennyire az műszaki, környezetvédelmi és gazdasági szempontból megvalósítható – az ingatlanon, telephelyen elkülönítetten gyűjti. Az elkülönítetten gyűjtött hulladékot más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal összekeverni nem lehet.
 
-(5) Törvény, kormányrendelet vagy miniszteri rendelet a hulladékbirtokost kötelezheti a hulladék meghatározott anyagfajta – így különösen a papír, fém, műanyag, üveg, biológiailag lebomló – vagy hulladéktípusok szerinti elkülönített gyűjtésére, a hulladék jellegének megfelelő csomagolására és megjelölésére, továbbá arra, hogy az ilyen módon előzetesen válogatott hulladékot a gyűjtőnek, a közszolgáltatónak vagy hulladékkezelőnek átadja.
+(5) Törvény, kormányrendelet vagy miniszteri rendelet a hulladékbirtokost kötelezheti a hulladék meghatározott anyagfajta vagy hulladéktípusok szerinti elkülönített gyűjtésére, a hulladék jellegének megfelelő csomagolására és megjelölésére, továbbá arra, hogy az ilyen módon előzetesen válogatott hulladékot a gyűjtőnek, a közszolgáltatónak vagy a hulladékkezelőnek átadja.

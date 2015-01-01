@@ -6,6 +6,6 @@ a) a települési önkormányzat a hulladékgazdálkodási közszolgáltatási s
 
 b) a hulladékgazdálkodási közszolgáltatási szerződés megkötését követően hatályba lépett jogszabály a hulladékgazdálkodási közszolgáltatási szerződés tartalmi elemeit úgy változtatja meg, hogy az a közszolgáltatónak a hulladékgazdálkodási közszolgáltatás szerződésszerű teljesítése körébe tartozó lényeges és jogos érdekeit jelentős mértékben sérti.
 
-(3) A hulladékgazdálkodási közszolgáltatási szerződés megszűnése vagy megszüntetése esetén, továbbá ha a közszolgáltató nem rendelkezik hulladékgazdálkodási közszolgáltatási engedéllyel és az OHÜ által kiállított minősítő okirattal, a közszolgáltató az új közszolgáltató kiválasztásáig, de legfeljebb 6 hónapig a hulladékgazdálkodási közszolgáltatást változatlanul ellátja.
+(3) A hulladékgazdálkodási közszolgáltatási szerződés megszűnése vagy megszüntetése esetén, továbbá ha a közszolgáltató nem rendelkezik hulladékgazdálkodási közszolgáltatási engedéllyel és minősítő okirattal, a közszolgáltató az új közszolgáltató kiválasztásáig, de legfeljebb 6 hónapig a hulladékgazdálkodási közszolgáltatást változatlanul ellátja.
 
 (4) Ha a hulladékgazdálkodási szerződést a közszolgáltató felmondja, a települési önkormányzat haladéktalanul gondoskodik az új közszolgáltató kiválasztásáról.

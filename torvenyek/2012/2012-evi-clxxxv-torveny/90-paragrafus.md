@@ -6,13 +6,11 @@
 
 (3) A törvény hatálybalépésekor működő gazdálkodó szervezet, amely mellékterméket állít elő, vagy tevékenysége során melléktermék képződik, és az előállított vagy képződött anyagot, tárgyat melléktermékként használja fel, tárolja vagy forgalmazza, a melléktermék 8. § szerinti feltételeknek való megfeleléséről a melléktermék képződését vagy előállítását követő 6 hónapon belül tájékoztatja a környezetvédelmi hatóságot.
 
-(4) A törvény hatálybalépésekor működő hulladékgazdálkodási közszolgáltatást ellátó gazdálkodó szervezet a hulladékgazdálkodási közszolgáltatási engedélyt e törvény hatálybalépését követő 6 hónapon belül beszerzi.
-
-(5) Ha a törvény hatálybalépésekor működő hulladékgazdálkodási közszolgáltatást ellátó gazdálkodó szervezet hulladékgazdálkodási közszolgáltatási engedéllyel a (4) bekezdésben meghatározott határidőn belül nem rendelkezik, a települési önkormányzat a (4) bekezdésben meghatározott határidőt követő 30 napon belül a hulladékgazdálkodási közszolgáltatási szerződést 6 hónapos határidővel felmondja. A települési önkormányzat e kötelezettségét a fővárosi és megyei kormányhivatal törvényességi felügyeleti eljárás keretében vizsgálja.
+(4)–(5)
 
 (6)–(7)
 
-(8) Az e törvény szerinti hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat a hulladékgazdálkodási közszolgáltatási engedéllyel és az OHÜ által kiállított minősítő okirattal rendelkező gazdálkodó szervezettel legkésőbb 2014. július 1-ig megköti. Hulladékgazdálkodási közszolgáltatást 2014. július 1-jétől csak az a nonprofit gazdasági társaság végezhet, amely hulladékgazdálkodási közszolgáltatási engedéllyel és az OHÜ által kiállított minősítő okirattal rendelkezik, valamint a települési önkormányzattal – az e törvény hatálybalépését követően és az OHÜ által kiállított minősítő okirat birtokában – hulladékgazdálkodási közszolgáltatási szerződést kötött.
+(8) Az e törvény szerinti hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat a hulladékgazdálkodási közszolgáltatási engedéllyel és minősítő okirattal rendelkező gazdálkodó szervezettel legkésőbb 2014. július 1-ig megköti. Hulladékgazdálkodási közszolgáltatást 2014. július 1-jétől csak az a nonprofit gazdasági társaság végezhet, amely hulladékgazdálkodási közszolgáltatási engedéllyel és minősítő okirattal rendelkezik, valamint a települési önkormányzattal – az e törvény hatálybalépését követően és minősítő okirat birtokában – hulladékgazdálkodási közszolgáltatási szerződést kötött.
 
 (9)
 

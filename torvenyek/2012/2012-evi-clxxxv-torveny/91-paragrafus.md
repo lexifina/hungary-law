@@ -1,4 +1,4 @@
-91. § (1) A hulladékgazdálkodási közszolgáltatási díj legmagasabb mértékét 2013. július 1-jétől 2014. december 31-éig az e §-ban foglalt eltérésekkel kell megállapítani.
+91. § (1) A hulladékgazdálkodási közszolgáltatási díj legmagasabb mértékét a 88. § (3) bekezdés b) pont bb) alpontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig az e §-ban meghatározott eltérésekkel kell megállapítani.
 
 (2) A természetes személy ingatlanhasználó részére kiállított számlában meghatározott hulladékgazdálkodási közszolgáltatásért fizetendő szolgáltatási egységre jutó összeg (beleértve az alapdíjat) nem haladhatja meg a 2012. április 14. napján alkalmazott díj legfeljebb 4,2 százalékkal megemelt összegének 90 százalékát.
 
@@ -44,4 +44,4 @@ közszolgáltatási díjat kell tekinteni.
 
 (12)
 
-(13) A Hivatal a 47/A. § (2) bekezdése szerinti javaslatát első alkalommal 2014. szeptember 30-ig küldi meg.
+(13)

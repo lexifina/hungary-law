@@ -4,13 +4,13 @@
 
 (2) A közszolgáltató az ügyfélszolgálat keretében az Fgytv.-ben meghatározottakon túlmenően
 
-a) az OHÜ által kiállított minősítő okiratot,
+a) a minősítő okiratot,
 
 b) az alkalmazott hulladékgazdálkodási közszolgáltatási díjakat,
 
 c) a közszolgáltatási területre vonatkozó adatokat,
 
-d) a közszolgáltatói hulladékgazdálkodási tervet,
+d)
 
 e) a lomtalanítással kapcsolatos adatokat, információkat, valamint
 
