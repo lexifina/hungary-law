@@ -10,7 +10,9 @@ b) rendeletet alkosson a foglalkozás-egészségügyi szolgálatról;
 
 c) rendeletben állapítsa meg a munkavédelmi szakértői szakterületeket, a munkavédelmi szakértői tevékenység folytatásának, a tevékenységre jogosító engedély kiadásának a részletes szabályait, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, továbbá a nyilvántartás vezetésére vonatkozó eljárás részletes szabályait;
 
-d) rendeletben állapítsa meg a munkavédelmi bírság mértékére és kiszabására vonatkozó részletes szabályokat.
+d) rendeletben állapítsa meg a munkavédelmi bírság mértékére és kiszabására vonatkozó részletes szabályokat;
+
+e) rendeletben jelölje ki a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkavédelmi hatóságot.
 
 (3) Felhatalmazást kap a feladatkörében érintett miniszter, hogy
 
@@ -76,11 +78,11 @@ dm) az egyes egészségkárosító kockázatok között foglalkoztatott munkavá
 
 dn) a mentési terv készítésének és a mentéshez szükséges személyek kijelölésének;
 
-do) a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatának és véleményezésének;
+do)
 
 dp) az egyéni védőeszköz használata feltételeinek, ideértve a juttatás rendje belső szabályozásának;
 
-dq) a foglalkozás-egészségügyi szolgálat működésének és feladatainak;
+dq)
 
 dr) a munkavállaló foglalkoztatásának az egészséget nem veszélyeztető és biztonságos munkavégzéssel kapcsolatos feltételei és a munkavállalók kötelezettségei;
 
@@ -90,15 +92,27 @@ dt) a tengeri halászhajók fedélzetén dolgozók munkavédelmi követelményei
 
 du) a potenciálisan robbanásveszélyes környezetben levő munkahelyek minimális munkavédelmi követelményeinek;
 
-dv) a munkahelyi elsősegélynyújtás célját, tárgyi és szervezési feltételeinek, a személyek kijelölésének, kiképzésének és továbbképzésének, valamint az elsősegélynyújtás szakmai irányításának és ellenőrzésének
+dv)
 
 e) az adópolitikáért felelős miniszterrel egyetértésben, rendeletben határozza meg a munkabiztonsági szakértői tevékenység folytatására irányuló engedélyezési eljárásra vonatkozó igazgatási szolgáltatási díjfizetési kötelezettségnek, az igazgatási szolgáltatási díj mértékének, valamint megfizetésének
+
+részletes szabályait.
+
+(4a) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a foglalkoztatáspolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg
+
+a) a foglalkozás-egészségügyi szolgálat működésének és feladatainak,
+
+b) a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatának és véleményezésének,
+
+c) a munkahelyi elsősegélynyújtás célját, tárgyi és szervezési feltételeinek, a személyek kijelölésének, kiképzésének és továbbképzésének, valamint az elsősegélynyújtás szakmai irányításának és ellenőrzésének
 
 részletes szabályait.
 
 (5) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a munkahelyi kémiai biztonság részletes szabályait.
 
 (5a) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Országgyűlés elnöke véleménye kikérésével rendeletben határozza meg az Országgyűlési Őrség tekintetében a munkavégzésre irányuló jogviszonyban, szolgálati viszonyban kifejtett munkatevékenységre vonatkozóan e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
+
+(5b) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy az igazságügyért felelős miniszterrel és a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtási intézetekben fogvatartottak tekintetében az e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 
 (6) Ez a törvény a következő közösségi jogi aktusoknak való megfelelést szolgálja:
 
