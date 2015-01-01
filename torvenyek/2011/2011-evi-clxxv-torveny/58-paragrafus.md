@@ -20,4 +20,12 @@ g) egyéb bevételek.
 
 (3) Az Alap bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető – az előző évek kötelezettségvállalásainak fedezeteként – a kiadási és bevételi előirányzat egyidejű módosításával.
 
-(4) Az Alapra vonatkozóan zárolási vagy maradványtartási kötelezettség nem írható elő.
+(4)
+
+(5) Az (1) bekezdés d) pontja szerinti összeg megegyezik az adott költségvetési évet megelőző második évben az Szftv. 4. § (1) bekezdés szerinti kedvezményezetteknek felajánlható és az Szftv. alapján adózói rendelkezéseknek megfelelően az adott költségvetési évet megelőző második évben az Szftv. 4. § (1) bekezdés szerinti kedvezményezetteknek ténylegesen kiutalt összeg különbségével.
+
+(6) Az adóhatóság minden év február 1-jéig adatot szolgáltat a miniszter, valamint az államháztartásért felelős miniszter számára az (5) bekezdésben foglaltak teljesítése céljából
+
+a) a tárgyév január 1-jei állapot szerint a tárgyévet megelőző évben az Szftv. 4. § (1) bekezdés szerinti kedvezményezetteknek potenciálisan felajánlható összegről,
+
+b) a tárgyév január 1-jei állapot szerint a tárgyévet megelőző évben az Szftv. 4. § (1) bekezdés szerinti kedvezményezetteknek ténylegesen kiutalt összegről.

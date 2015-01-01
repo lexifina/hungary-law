@@ -22,7 +22,9 @@ i) adományosztó szervezeteknek szóló juttatás a Nemzeti Együttműködési 
 
 j) civil érdek-képviseleti tevékenység támogatása;
 
-k) az Alap működtetésével kapcsolatos költségek fedezete.
+k) az Alap működtetésével kapcsolatos költségek fedezete;
+
+l) civil információs centrumok működésének támogatása.
 
 (2) Az Alap rendelkezésére álló tárgyévi támogatási forrás
 
