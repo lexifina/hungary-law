@@ -312,8 +312,9 @@
 
 ## Az egyeztetés a következő pénzügyi évre vonatkozó második befizetés időpontjában történik, az utolsó pénzügyi évre vonatkozóan pedig 2007 júliusában. A további egyeztetésekre évente kerül sor egészen 2010 júliusáig.''
 
-3. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba, az egyetértési megállapodásban foglaltakat azonban 2002. október 29-étől kell alkalmazni. Végrehajtásáról az oktatási miniszter, az érintett tárcákkal egyetértésben gondoskodik.
+3. §[^4] Ez a rendelet a kihirdetését követő 8. napon lép hatályba, az egyetértési megállapodásban foglaltakat azonban 2002. október 29-étől kell alkalmazni. Végrehajtásáról a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke az érintett tárcákkal egyetértésben gondoskodik.
 
 [^1]: HL L 46. szám, 2002. 02. 16., 37. o.
 [^2]: HL L 232. szám, 2002. 08. 29., 1. o.
 [^3]: HL L 232. szám, 2002. 08. 29., 34. o.
+[^4]: A 3. § a 381/2014. (XII. 31.) Korm. rendelet 8. §-a szerint módosított szöveg.
