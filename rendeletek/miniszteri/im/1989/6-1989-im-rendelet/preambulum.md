@@ -1,1 +1,0 @@
-Az egyes minisztertanácsi rendeletek egyesülési joggal kapcsolatos rendelkezéseinek módosításáról szóló 41/1989. (V. 7.) MT rendelet 3. §-ában kapott felhatalmazás alapján — a Legfelsőbb Bíróság elnökével egyetértésben — a következőket rendelem:
