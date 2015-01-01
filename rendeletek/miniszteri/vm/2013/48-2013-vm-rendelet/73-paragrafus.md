@@ -6,12 +6,12 @@
 
 (3) Az előirányzat pénzeszköz átadás formájában átadásra kerül a kedvezményezettek felé történő végső kifizetést teljesítő lebonyolító szerv részére.
 
-(4)[^152] Az előirányzatból előirányzat-átcsoportosítással, vagy közvetlen kifizetéssel finanszírozandóak az agrár-kárenyhítési rendszerben résztvevő költségvetési szervek és köztestületek feladatellátással összefüggésben felmerült és igazolt költségei is.
+(4)[^154] Az előirányzatból előirányzat-átcsoportosítással, vagy közvetlen kifizetéssel finanszírozandóak az agrár-kárenyhítési rendszerben résztvevő költségvetési szervek és köztestületek feladatellátással összefüggésben felmerült és igazolt költségei is.
 
-(5)[^153] Támogatási előleg indokolt esetben nyújtható.
+(5)[^155] Támogatási előleg indokolt esetben nyújtható.
 
-(6)[^154] Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
+(6)[^156] Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
 
-[^152]: A 73. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 61. §-ával megállapított szöveg.
-[^153]: A 73. § (5) bekezdése a 23/2014. (III. 20.) VM rendelet 61. §-ával megállapított szöveg.
-[^154]: A 73. § (6) bekezdése a 23/2014. (III. 20.) VM rendelet 61. §-ával megállapított szöveg.
+[^154]: A 73. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 61. §-ával megállapított szöveg.
+[^155]: A 73. § (5) bekezdése a 23/2014. (III. 20.) VM rendelet 61. §-ával megállapított szöveg.
+[^156]: A 73. § (6) bekezdése a 23/2014. (III. 20.) VM rendelet 61. §-ával megállapított szöveg.

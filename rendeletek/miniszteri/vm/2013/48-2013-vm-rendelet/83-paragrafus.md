@@ -1,3 +1,3 @@
-## 69.[^165]
+## 69.[^167]
 
-[^165]: A 69. alcímet (83. §) a 23/2014. (III. 20.) VM rendelet 70. §-a hatályon kívül helyezte.
+[^167]: A 69. alcímet (83. §) a 23/2014. (III. 20.) VM rendelet 70. §-a hatályon kívül helyezte.

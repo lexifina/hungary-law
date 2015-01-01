@@ -4,12 +4,12 @@
 
 (2) Az előirányzat felhasználására a Hegyközségek Nemzeti Tanácsa és a miniszter közötti együttműködési megállapodás alapján kerül sor.
 
-(3)[^99] A Hegyközségek Nemzeti Tanácsával kötött együttműködési megállapodás alapján a támogatás átadására ütemezetten kerül sor.
+(3)[^101] A Hegyközségek Nemzeti Tanácsával kötött együttműködési megállapodás alapján a támogatás átadására ütemezetten kerül sor.
 
-(4)[^100] Támogatási előleg indokolt esetben nyújtható.
+(4)[^102] Támogatási előleg indokolt esetben nyújtható.
 
-(5)[^101] Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
+(5)[^103] Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
 
-[^99]: Az 54. § (3) bekezdése a 23/2014. (III. 20.) VM rendelet 41. § (1) bekezdésével megállapított szöveg.
-[^100]: Az 54. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 41. § (1) bekezdésével megállapított szöveg.
-[^101]: Az 54. § (5) bekezdését a 23/2014. (III. 20.) VM rendelet 41. § (2) bekezdése iktatta be.
+[^101]: Az 54. § (3) bekezdése a 23/2014. (III. 20.) VM rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^102]: Az 54. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^103]: Az 54. § (5) bekezdését a 23/2014. (III. 20.) VM rendelet 41. § (2) bekezdése iktatta be.

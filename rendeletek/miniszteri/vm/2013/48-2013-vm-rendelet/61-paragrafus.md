@@ -1,6 +1,6 @@
 ## 47. Egyes állatbetegségek megelőzésének és felszámolásának támogatása (20/04/09/00)
 
-61. §[^115] (1) Az előirányzat az Európai Unió jogi aktusaiban meghatározott állatbetegségek, illetve zoonózisok felszámolását, ellenőrzését és megfigyelését segítő programok, továbbá a méhcsaládok pusztulásával kapcsolatos önkéntes felügyeleti tanulmányi programok finanszírozására fordítható.
+61. §[^117] (1) Az előirányzat az Európai Unió jogi aktusaiban meghatározott állatbetegségek, illetve zoonózisok felszámolását, ellenőrzését és megfigyelését segítő programok, továbbá a méhcsaládok pusztulásával kapcsolatos önkéntes felügyeleti tanulmányi programok finanszírozására fordítható.
 
 (2) Az előirányzatból kerül finanszírozásra közvetlen kifizetéssel az ezen előirányzat felhasználásával kapcsolatos szabálytalanság miatt az Európai Unió által megállapított visszafizetési kötelezettség vagy közvetlen levonás teljesítése.
 
@@ -8,4 +8,4 @@
 
 (4) Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
 
-[^115]: A 61. § a 23/2014. (III. 20.) VM rendelet 50. §-ával megállapított szöveg.
+[^117]: A 61. § a 23/2014. (III. 20.) VM rendelet 50. §-ával megállapított szöveg.

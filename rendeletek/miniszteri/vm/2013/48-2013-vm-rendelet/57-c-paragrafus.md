@@ -1,4 +1,4 @@
-## 43/C. [^109]Állami erdőgazdasági társaságok támogatása (20/03/32/00)
+## 43/C. [^111]Állami erdőgazdasági társaságok támogatása (20/03/32/00)
 
 57/C. § (1) Az előirányzatból az állami erdőgazdasági társaságok közjóléti fejlesztéseihez támogatás nyújtható.
 
@@ -12,4 +12,4 @@
 
 (6) A költségvetési támogatás vissza nem térítendő támogatás.
 
-[^109]: A 43/C. almcímet (57/C. §) a 35/2014. (XII. 16.) FM rendelet 3. §-a iktatta be.
+[^111]: A 43/C. almcímet (57/C. §) a 35/2014. (XII. 16.) FM rendelet 3. §-a iktatta be.
