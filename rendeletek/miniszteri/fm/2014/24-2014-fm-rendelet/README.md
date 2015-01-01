@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-24-20-1
 | --- | --- | --- |
 | 2014-11-09 | 2014-24-20-11.1 | 24/2014. (XI. 6.) FM rendelet |
 | 2014-11-10 | 2014-24-20-11.2 | 2010: CXXX. törvény |
+| 2015-01-01 | 2014-24-20-11.3 | 2010: CXXX. törvény |
