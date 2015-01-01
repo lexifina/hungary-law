@@ -28,4 +28,6 @@ e)
 
 a)
 
-b)–c)
+b) 2/A. § (3) bekezdés b) pontja, valamint
+
+c) 134/B. § (2) bekezdése.
