@@ -1,0 +1,1 @@
+## 5. § Az a település, amely e rendelet hatálybalépését megelőző napon kedvezményezett kistérséghez tartozott, de területileg már nem szerepel a 3. mellékletben, a fejlesztési célú támogatásokhoz való hozzáférés tekintetében 2016. január 1-ig átmenetileg kedvezményezettnek minősül. Az átmenetileg kedvezményezett települések listáját a 4. melléklet tartalmazza.
