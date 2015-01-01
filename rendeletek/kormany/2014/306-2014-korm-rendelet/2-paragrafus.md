@@ -1,0 +1,1 @@
+## 1. § A büntetés-végrehajtási intézetekben fogvatartottak büntetés-végrehajtási jogviszony keretében történő munkáltatása esetén munkavédelmi hatóságként első fokon a büntetés-végrehajtás országos parancsnoka jár el.
