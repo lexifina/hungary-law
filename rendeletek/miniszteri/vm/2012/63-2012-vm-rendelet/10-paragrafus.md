@@ -1,3 +1,5 @@
+## 9. §
+
 ## 6. A vadászati igazgatási szolgáltatási díjakra vonatkozó külön szabályok
 
 10. § (1) A fel nem használt vadászati engedély nem váltható vissza.

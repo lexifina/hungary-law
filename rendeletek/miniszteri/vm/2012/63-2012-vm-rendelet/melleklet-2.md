@@ -1178,17 +1178,17 @@
 
 | 14. | HALGAZDÁLKODÁSI DÍJAK |  |
 
-| 14.1. | Halászvizsga díja | 7000 |
+| 14.1. |  |  |
 
-| 14.2. | Horgászvizsga díja | 3500 |
+| 14.2. |  |  |
 
-| 14.3. | Turista állami horgászjegy díja | 2000 |
+| 14.3. |  |  |
 
-| 14.4. | Állami halász és horgász fogási napló díja | 200 |
+| 14.4. |  |  |
 
 | 14.5. | Halászati engedély kiadásának díja | 10 000 |
 
-| 14.5.1. | Fogási tanúsítvány nyomtatvány tömb díja | 1000 |
+| 14.5.1. |  |  |
 
 | 14.6. | Halászati őr és társadalmi halőr vizsgáztatásának díja | 5000 |
 
@@ -2858,7 +2858,7 @@
 
 | 20.1. | Hatósági konzultáció, szakértői tevékenység, szaktanácsadás óradíja megkezdett óránként, az ügyfél kérelmére induló eljárás esetén | 12 000 |
 
-2. melléklet a 63/2012. (VII. 2.) VM rendelethez[^18]
+2. melléklet a 63/2012. (VII. 2.) VM rendelethez[^17]
 
 1. A Nemzeti Élelmiszerlánc-biztonsági Hivatal fizetési számlája:
 
@@ -3056,4 +3056,4 @@
 
 | Zala Megyei Kormányhivatal Erdészeti Igazgatóság | 10049006-00302986-00000000 |
 
-[^18]: A 2. melléklet a 87/2013. (X. 1.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^17]: A 2. melléklet a 87/2013. (X. 1.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
