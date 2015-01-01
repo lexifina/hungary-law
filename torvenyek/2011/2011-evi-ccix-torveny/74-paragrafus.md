@@ -32,7 +32,7 @@
 
 13. a számviteli szétválasztásra vonatkozó részletes szabályokat;
 
-14.
+14. a víziközmű-fejlesztési hozzájárulás meghatározásának alapelveit, szempontjait és a díjak elemeit;
 
 15. a víziközmű-szolgáltatás díjainak szerkezetét;
 
