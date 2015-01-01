@@ -82,6 +82,8 @@
 
 | Ha várólistán nyilvántartott eljárás, a legkisebb várakozási idő a beutaló orvos tájékozódása alapján, a SOR-REND rendszer szerint: tájékozódás időpontja: szolgáltató megnevezése, kódja: várakozási sor hossza: várakozási idő várható hossza a szolgáltatónál az utolsó kiadott, halasztható várakozási eset szerint: |  |
 
+| A beteg kezelőorvosa szerint a külföldi gyógykezelés sürgős: igen nem. Egyéb releváns, egyedi körülmények leírása: …………………………………….. |  |
+
 | II. Nem befogadott ellátás esetén az ellátástól várható eredmény: |  |
 
 | A beteg állapotára Magyarországon a befogadott egészségügyi szolgáltatásokkal biztosítható legkorszerűbb ellátás jelenleg: |  |

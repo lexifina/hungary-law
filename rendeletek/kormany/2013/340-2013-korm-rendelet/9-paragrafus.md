@@ -16,9 +16,9 @@ b) így a költségek hatékonyabb felhasználását eredményezi, vagy
 
 c) így reális egészségnyereség-többletet eredményez.
 
-(6) Ha a GYEMSZI-nek a Tagozat szakmai javaslatával kapcsolatban fenntartása van vagy a Tagozat véleménye nem egyértelmű, akkor azt a GYEMSZI felülvizsgálat céljából 3 napon belül megküldi az Egészségügyi Szakmai Kollégium elnökségének és erről egyidejűleg értesíti az OEP-et. Az Egészségügyi Szakmai Kollégium elnöksége az 5. melléklet alapján új javaslatot készít, amelyben 5 napon belül előadja orvosszakmai véleményét, és azt egyidejűleg megküldi a GYEMSZI-nek. Az Egészségügyi Szakmai Kollégium elnöksége a megadott határidőben nyilatkozhat arról is, hogy a Tagozat szakmai javaslatával egyetért. A GYEMSZI a javaslatot 3 napon belül továbbítja az OEP-nek.
+(6)[^4] Ha a GYEMSZI-nek a Tagozat szakmai javaslatával kapcsolatban fenntartása van vagy a Tagozat véleménye nem egyértelmű, akkor ezek tisztázása érdekében azt a GYEMSZI felülvizsgálat céljából 3 napon belül megküldi az Egészségügyi Szakmai Kollégium elnökségének és erről egyidejűleg értesíti az OEP-et. Az Egészségügyi Szakmai Kollégium elnöksége – ha indokoltnak tartja a felülvizsgálati eljárás során további információ bekérését, akkor annak tartalmát és módját meghatározva és dokumentálva – az 5. melléklet alapján új javaslatot készít, amelyben 5 napon belül előadja orvosszakmai véleményét, és azt egyidejűleg megküldi a GYEMSZI-nek. Az Egészségügyi Szakmai Kollégium elnöksége a megadott határidőben nyilatkozhat arról is, hogy a Tagozat szakmai javaslatával egyetért. A GYEMSZI a javaslatot 3 napon belül továbbítja az OEP-nek.
 
-(7) Az OEP – ha hiánypótlás nem szükséges – a GYEMSZI által megküldött, az 5. mellékletnek megfelelően kiadott javaslat beérkezésétől számított 8 napon belül dönt a külföldi gyógykezelés engedélyezéséről és a finanszírozás mértékéről az eset valamennyi körülményének figyelembevételével, valamint kiadja a 6. melléklet szerinti bírálati lapot. Az utazás és szükség esetén kísérő költségei tekintetében az OEP – a beteg kérésének és a kezelőorvos javaslatának a figyelembevételével – méltányosságból támogatást nyújthat.
+(7)[^5] Az OEP – ha hiánypótlás nem szükséges – a GYEMSZI által megküldött, az 5. mellékletnek megfelelően kiadott javaslat beérkezésétől számított 8 napon belül dönt a külföldi gyógykezelés engedélyezéséről és a finanszírozás mértékéről az eset valamennyi körülményének figyelembevételével, valamint kiadja a 6. melléklet szerinti bírálati lapot. Az utazás és szükség esetén kísérő utazási költségei tekintetében az OEP – a beteg kérésének és a kezelőorvos javaslatának a figyelembevételével – méltányosságból támogatást nyújthat.
 
 (8) Az OEP a külföldi szakember meghívásos közreműködésével megvalósuló gyógykezeléseknél a támogatás megállapításakor a következő költségeket vállalhatja részben vagy egészben át:
 
@@ -32,6 +32,8 @@ c) a hazai, finanszírozási szerződéssel rendelkező egészségügyi szolgál
 
 (10) Ha a gyógykezelést végző külföldi egészségügyi szolgáltató igényli, a valamely EGT tagállam vagy Svájc területén letelepedett egészségügyi szolgáltatónál teljes térítéssel engedélyezett külföldi gyógykezelések esetén az OEP kiadja az uniós rendeletek szerinti jogosultság-igazolást.
 
-(11)[^1] Az e § szerinti eljárásban a 3. § (1) bekezdésében foglaltaktól sürgős szükség fennállása esetén akkor lehet eltérni, ha a külföldi gyógykezelésre jogosult személy, törvényes képviselője vagy az adott ellátásra beutalási jogosultsággal rendelkező kezelőorvosa a kérelmet a beavatkozás időpontja előtt benyújtotta.
+(11)[^6] Az e § szerinti eljárásban a 3. § (1) bekezdésében foglaltaktól sürgős szükség fennállása esetén akkor lehet eltérni, ha a külföldi gyógykezelésre jogosult személy, törvényes képviselője vagy az adott ellátásra beutalási jogosultsággal rendelkező kezelőorvosa a kérelmet a beavatkozás időpontja előtt benyújtotta.
 
-[^1]: A 9. § (11) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 105. §-a iktatta be.
+[^4]: A 9. § (6) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 116. §-ával megállapított szöveg.
+[^5]: A 9. § (7) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 118. §-a szerint módosított szöveg.
+[^6]: A 9. § (11) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 105. §-a iktatta be.

@@ -14,4 +14,6 @@
 
 | 5. | Az R. 18. számú mellékletében felsorolt ellátások. |
 
-2. melléklet a 340/2013. (IX. 25.) Korm. rendelethez
+2. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^9]
+
+[^9]: A 2. melléklet a 364/2014. (XII. 30.) Korm. rendelet 117. §-a szerint módosított szöveg.
