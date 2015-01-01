@@ -184,7 +184,7 @@
 
 | 6. | Dunaegyháza | II. |
 
-| 7. | Dunavecse | II. |
+| 7. | Dunavecse | I. |
 
 | 8. | Felsőlajos | III. |
 
@@ -202,7 +202,7 @@
 
 | 15. | Kerekegyháza | III. |
 
-| 16. | Kiskunfélegyháza | II. |
+| 16. | Kiskunfélegyháza | I. |
 
 | 17. | Kunadacs | III. |
 
@@ -236,7 +236,7 @@
 
 | 32. | Tass | II. |
 
-| 33. | Tiszaalpár | II. |
+| 33. | Tiszaalpár | III. |
 
 | 34. | Tiszakécske | II. |
 
@@ -284,7 +284,7 @@
 
 | 18. | Kiskőrös | II. |
 
-| 19. | Kiskunhalas | II. |
+| 19. | Kiskunhalas | I. |
 
 | 20. | Kiskunmajsa | III. |
 
@@ -1028,7 +1028,7 @@
 
 | 9. | Kaszaper | III. |
 
-| 10. | Kevermes | III. |
+| 10. | Kevermes | II. |
 
 | 11. | Kisdombegyház | III. |
 
@@ -1038,9 +1038,9 @@
 
 | 14. | Magyardombegyház | III. |
 
-| 15. | Medgyesbodzás | III. |
+| 15. | Medgyesbodzás | II. |
 
-| 16. | Medgyesegyháza | III. |
+| 16. | Medgyesegyháza | II. |
 
 | 17. | Mezőhegyes | II. |
 
@@ -2588,7 +2588,7 @@
 
 | 3. | Debrecen | I. |
 
-| 4. | Derecske | II. |
+| 4. | Derecske | I. |
 
 | 5. | Ebes | II. |
 
@@ -2968,7 +2968,7 @@
 
 | 36. | Nagykökényes | III. |
 
-| 37. | Nagyréde | II. |
+| 37. | Nagyréde | I. |
 
 | 38. | Pálosvörösmart | III. |
 
@@ -3704,7 +3704,7 @@
 
 | 9. | Dömsöd | III. |
 
-| 10. | Dunaharaszti | II. |
+| 10. | Dunaharaszti | I. |
 
 | 11. | Dunavarsány | III. |
 
@@ -3756,7 +3756,7 @@
 
 | 35. | Szigetcsép | I. |
 
-| 36. | Szigethalom | III. |
+| 36. | Szigethalom | II. |
 
 | 37. | Szigetszentmárton | II. |
 
@@ -4220,7 +4220,7 @@
 
 | 38. | Kisgyalán | III. |
 
-| 39. | Kiskorpád | III. |
+| 39. | Kiskorpád | I. |
 
 | 40. | Kőkút | III. |
 
@@ -4382,7 +4382,7 @@
 
 | Sor- szám | Település | Katasztrófavédelmi osztály |
 
-| 1. | Ádánd | III. |
+| 1. | Ádánd | II. |
 
 | 2. | Andocs | II. |
 
@@ -4744,7 +4744,7 @@
 
 | 18. | Lövőpetri | III. |
 
-| 19. | Mándok | II. |
+| 19. | Mándok | I. |
 
 | 20. | Mezőladány | II. |
 
@@ -4830,7 +4830,7 @@
 
 | 17. | Máriapócs | II. |
 
-| 18. | Mátészalka | I. |
+| 18. | Mátészalka | II. |
 
 | 19. | Mérk | II. |
 
@@ -4948,7 +4948,7 @@
 
 | 16. | Nagycserkesz | II. |
 
-| 17. | Nagykálló | II. |
+| 17. | Nagykálló | I. |
 
 | 18. | Napkor | III. |
 
@@ -4962,7 +4962,7 @@
 
 | 23. | Nyírtét | II. |
 
-| 24. | Nyírtura | II. |
+| 24. | Nyírtura | I. |
 
 | 25. | Rakamaz | II. |
 
@@ -4994,7 +4994,7 @@
 
 | 39. | Újfehértó | II. |
 
-| 40. | Vasmegyer | II. |
+| 40. | Vasmegyer | I. |
 
 ## TOLNA MEGYE
 
@@ -5946,7 +5946,7 @@
 
 | 38. | Nyárád | III. |
 
-| 39. | Pápa | II. |
+| 39. | Pápa | I. |
 
 | 40. | Pápadereske | III. |
 
@@ -6110,7 +6110,7 @@
 
 | 69. | Vászoly | III. |
 
-| 70. | Veszprém | II. |
+| 70. | Veszprém | I. |
 
 | 71. | Veszprémfajsz | III. |
 
@@ -6120,7 +6120,7 @@
 
 | 74. | Zánka | II. |
 
-| 75. | Zirc | II.” |
+| 75. | Zirc | II. |
 
 ## ZALA MEGYE
 
