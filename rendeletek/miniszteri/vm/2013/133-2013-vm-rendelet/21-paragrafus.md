@@ -44,12 +44,13 @@ j) a horgászrendi szabályozások szerepéről, valamint
 
 k) a horgászetikáról.
 
-(10)[^9] A sikeres állami horgászvizsgát követően, a kormányhivatal földművelésügyi igazgatósága, vagy az általa vizsgáztatásra feljogosított szervezet az 5. mellékletben foglalt tartalmú állami horgászvizsga bizonyítványt állít ki, amelyet a vizsgáztató ad át a vizsgázónak.
+(10)[^13] A sikeres állami horgászvizsgát követően, a kormányhivatal földművelésügyi igazgatósága, vagy az általa vizsgáztatásra feljogosított szervezet az 5. mellékletben foglalt tartalmú állami horgászvizsga bizonyítványt állít ki, amelyet a vizsgáztató ad át a vizsgázónak.
 
 (11) A kiadott állami horgászvizsga bizonyítványok adatait a kormányhivatal földművelésügyi igazgatósága a NÉBIH által meghatározott forma szerint rögzíti.
 
 (12) Elvesztett vagy megsemmisült állami horgászvizsga bizonyítvány pótlására állami horgászvizsga bizonyítványt a kormányhivatal földművelésügyi igazgatósága jól olvasható másolat bemutatása vagy állami horgászjegy bemutatása esetén megismételt vizsga nélkül is kiállíthat.
 
-(13) A (2) bekezdés szerint horgászvizsgáztatásban közreműködő szervezetet költségei fedezésére a vizsgadíjból vizsgázónként 1500 Ft részesedés illeti meg.
+(13)[^14] A (2) bekezdés szerint a horgászvizsgáztatásban közreműködő szervezetet költségei fedezésére a 12. melléklet 5. pont szerinti vizsgadíjból vizsgázónként 1500 Ft, a 12. melléklet 6. pont szerinti vizsgadíjból vizsgázónként 500 Ft részesedés illeti meg.
 
-[^9]: A 21. § (10) bekezdése a 44/2014. (IV. 14.) VM rendelet 25. § b) pontja szerint módosított szöveg.
+[^13]: A 21. § (10) bekezdése a 44/2014. (IV. 14.) VM rendelet 25. § b) pontja szerint módosított szöveg.
+[^14]: A 21. § (13) bekezdése a 41/2014. (XII. 23.) FM rendelet 4. §-ával megállapított szöveg.
