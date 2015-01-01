@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-344-20-
 | --- | --- | --- |
 | 2012-12-07 | 2012-344-20-22.1 | 344/2012. (XII. 6.) Korm. rendelet |
 | 2012-12-28 | 2012-344-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2015-01-01 | 2012-344-20-22.3 | 381/2014. (XII. 31.) Korm. rendelet |

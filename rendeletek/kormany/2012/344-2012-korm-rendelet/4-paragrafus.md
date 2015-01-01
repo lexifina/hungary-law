@@ -210,8 +210,9 @@
 
 (3) A Megállapodás, illetve a 2. § és a 3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
 
-(4) E rendelet végrehajtásához szükséges intézkedésekről a kutatás-fejlesztésért és technológiai innovációért felelős miniszter gondoskodik.
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke gondoskodik.
 
 [^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 12. Cikkében meghatározott időpontban lép hatályba. A 4/2013. (I. 21.) KüM közlemény alapján a hatálybalépés időpontja 2012. december 28.
 [^3]: A 4/2013. (I. 21.) KüM közlemény alapján a hatálybalépés időpontja 2012. december 28.
 [^4]: Lásd a 4/2013. (I. 21.) KüM közleményt.
+[^5]: A 4. § (4) bekezdése a 381/2014. (XII. 31.) Korm. rendelet 24. §-a szerint módosított szöveg.
