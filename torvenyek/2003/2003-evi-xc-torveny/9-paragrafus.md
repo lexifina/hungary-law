@@ -1,1 +1,0 @@
-9. § Az Alap a magyar gazdaság versenyképességének és innovációs teljesítményének javítását szolgálja. Az Alap pénzeszközeit a gazdasági társaságok által közvetve vagy közvetlenül megvalósított kutatási és technológiai innovációs tevékenységekre kell fordítani.

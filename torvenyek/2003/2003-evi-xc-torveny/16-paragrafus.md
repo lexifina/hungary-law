@@ -1,1 +1,0 @@
-16. § E törvénynek az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvénnyel (a továbbiakban: Módtv.) megállapított 8. § (5) bekezdés b) pontját és (5a) bekezdését a Módtv. hatálybalépését megelőzően nyújtott támogatásokra is alkalmazni kell.
