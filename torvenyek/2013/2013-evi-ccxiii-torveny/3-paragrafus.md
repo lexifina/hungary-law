@@ -2,7 +2,7 @@
 
 a)–e)
 
-f)
+f) 5/C. § (3) bekezdés b) pontjában a „2. § (3) bekezdésében” szövegrész helyébe a „2. § (3) bekezdésében, 6/A. § (6) bekezdésében”,
 
 g)–i)
 
@@ -14,4 +14,4 @@ a)
 
 b)
 
-c)
+c) 4. § (3) és (5) bekezdése.
