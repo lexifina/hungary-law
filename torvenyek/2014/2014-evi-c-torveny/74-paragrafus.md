@@ -1,0 +1,5 @@
+## 21. Tartozásátvállalás
+
+74. § (1) Az állam legkésőbb 2015. december 31-ei hatállyal ellenérték nélkül átvállalja a MÁV Magyar Államvasutak Zrt. (a továbbiakban: MÁV Zrt.) legfeljebb 3,6 millió euró és legfeljebb 12 330,3 millió forint tőkeösszegű, a Gst. 3. § (1) bekezdés a) pontja szerinti adósságelemeit és azok járulékainak összegét, valamint legfeljebb 10 000,0 millió forint tőkeösszegű, a Gst. 3. § (1) bekezdés b) pontja szerinti adósságot keletkeztető ügyletből eredő, hitelviszonyt megtestesítő értékpapír lejárat előtti visszaváltásából származó fizetési kötelezettségét. Az átvállalás nem érinti az átvállalásra kerülő adósságelemek alapján fennálló, fizetési jogokon és kötelezettségeken kívüli egyéb jogokat és kötelezettségeket. A MÁV Zrt.-t ezen tartozásátvállalás tekintetében nem terheli illetékkötelezettség. Az államot az átvállalás során az államháztartásért felelős miniszter képviseli.
+
+(2) Az Országgyűlés jóváhagyja, hogy a Nemzeti Munkaügyi Hivatalnak a már megszűnt Oktatásért Közalapítványhoz kapcsolódó, a Nemzeti Foglalkoztatási Alap jogelődjének, a Munkaerőpiaci Alap képzési alaprész terhére nyújtott követelése törlésre kerüljön.

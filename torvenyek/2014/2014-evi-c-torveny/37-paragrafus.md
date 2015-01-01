@@ -1,0 +1,1 @@
+37. § A helyi önkormányzatokért felelős miniszter az államháztartásért felelős miniszter, illetve a támogatás jellegétől függően a feladatkörrel rendelkező miniszter egyetértésével a IX. Helyi önkormányzatok támogatásai fejezetben – az 1. mellékletben szereplő címek, valamint a 2. és 3. mellékletben szereplő jogcímek között és azokon belül – átcsoportosíthat.
