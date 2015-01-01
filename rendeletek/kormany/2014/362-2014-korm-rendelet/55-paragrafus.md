@@ -1,1 +1,3 @@
-## 54. § A Mikr. 12. §-át megelőző alcímében az „Átalakulás” szövegrész helyébe az „Átalakulás, egyesülés, szétválás” szöveg lép.
+## 54. §[^12]
+
+[^12]: Az 54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

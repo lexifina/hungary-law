@@ -1,0 +1,5 @@
+## 24. § A számviteli törvény szerinti egyes egyéb szervezetek beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 224/2000. (XII. 19.) Korm. rendelet (a továbbiakban: Eszkr.) 17. § (3) és (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az egyszeres könyvvitelt vezető civil szervezetnek a pénzügyileg rendezett bevételeit legalább tagdíj, alapítótól kapott befizetés, kapott támogatások, valamint egyéb bevételek, illetve pénzbevételt nem jelentő bevételek csoportosításban kell bemutatnia.
+
+## (4) A kettős könyvvitelt vezető civil szervezetnek, közalapítványnak a bevételeit legalább az értékesítés nettó árbevétele, az aktivált saját teljesítmények értéke, egyéb bevétel, pénzügyi műveletek bevétele és rendkívüli bevételek bontásban kell bemutatnia. Az egyéb bevételeken belül részletezni kell a tagdíj, az alapítótól kapott befizetések, valamint a kapott támogatások összegét, illetve a rendkívüli bevételeken belül az alapítótól kapott befizetések, valamint a kapott támogatások összegét.”

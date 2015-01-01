@@ -1,13 +1,3 @@
-## 37–38. §[^14]
+## 38. § Az Öpkr. a következő 44. §-sal egészül ki:
 
-## 39. § Az Öpkr.
-
-1. 5. § (3) bekezdés b) pontjában az „átalakulás” szövegrész helyébe az „egyesülés, szétválás” szöveg,
-
-2. 5. § (3) bekezdés c) pontjában az „átalakulással” szövegrész helyébe az „egyesüléssel, szétválással” szöveg,
-
-3. 5. § (3) bekezdés d) pontjában az „illetve végelszámolása” szövegrész helyébe a „végelszámolása, illetve kényszertörlési eljárása” szöveg,
-
-4. 31/E. § (6) bekezdésében, 36. § (1) bekezdésében a „Pénzügyi Közlönyben” szövegrész helyébe a „Nemzetgazdasági Közlönyben” szöveg
-
-[^14]: A 37–38. § az 57. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## „44. § A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 362/2014. (XII. 30.) Korm. rendelet 37. §-ával megállapított 2. § b) pontját először a 2015. évben induló üzleti évről készített beszámolóra kell alkalmazni, de az már a 2014. évben induló üzleti évről készített beszámolóra is alkalmazható.”

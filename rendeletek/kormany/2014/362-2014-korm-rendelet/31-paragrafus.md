@@ -1,0 +1,3 @@
+## 30. § A Hitkr. 9. § (18) bekezdése helyébe a következő rendelkezés lép:
+
+## „(18) A saját és a vásárolt követelések könyv szerinti értékén túl befolyt (a bekerülési értéket meg nem haladó, legfeljebb a korábban elszámolt értékvesztésnek megfelelő) összegét értékvesztés visszaírásaként kell elszámolni a befolyás időpontjára, de legkésőbb az azt követő értékelés időpontjára vonatkozóan. Amennyiben egy követelés az értékesítéstől eltérő más ok miatt kerül ki az állományból (például behajthatatlanság miatti leírás, a követelés egészének vagy egy részének elengedése), akkor a pénzügyi intézmény számviteli politikájában dönthet úgy, hogy a korábban elszámolt értékvesztést a visszaírás szabályai szerint számolja el.”

@@ -1,0 +1,3 @@
+## 52. § A mikrogazdálkodói egyszerűsített éves beszámolóról szóló 398/2012. (XII. 20.) Korm. rendelet (a továbbiakban: Mikr.) 11. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az Szt. 60. § (2) bekezdésétől eltérően a valutapénztárban lévő valutakészlet, a devizaszámlán lévő deviza, továbbá a külföldi pénzértékre szóló minden követelés – ideértve a követelés jellegű aktív időbeli elhatárolásokat is –, befektetett pénzügyi eszköz, értékpapír, illetve kötelezettség – ideértve a kötelezettség jellegű passzív időbeli elhatárolásokat is – forintértékét az üzleti év mérlegfordulónapjára vonatkozóan nem lehet átszámítani.”

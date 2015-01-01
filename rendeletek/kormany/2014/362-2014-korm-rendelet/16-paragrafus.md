@@ -1,18 +1,14 @@
-## 13–15. §[^3]
+## 15. § Az Mnykr. a következő 59. §-sal egészül ki:
+
+## „59. § A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 362/2014. (XII. 30.) Korm. rendelet 13. §-ával megállapított 2. § b) pontját először a 2015. évben induló üzleti évről készített beszámolóra kell alkalmazni, de az már a 2014. évben induló üzleti évről készített beszámolóra is alkalmazható.”
 
 ## 16. § Az Mnykr.
 
-1. 5. § (3) bekezdés b) pontjában az „átalakulás” szövegrész helyébe az „egyesülés, szétválás” szöveg,
+1–4.[^3]
 
-2. 5. § (3) bekezdés c) pontjában az „átalakulással” szövegrész helyébe az „egyesüléssel, szétválással” szöveg,
+5. 34. § (1) bekezdés i) pontjában, 34. § (3) bekezdés e) pontjában a „kártérítések” szövegrész helyébe a „kártérítések, sérelemdíjak” szöveg,
 
-3. 5. § (3) bekezdés d) pontjában az „illetve végelszámolása” szövegrész helyébe „végelszámolása, illetve kényszertörlési eljárása” szöveg,
+6.[^4]
 
-4. 16. § (2) bekezdésében a „vagyoni betéteket” szövegrész helyébe az „egyéb társasági részesedéseket” szöveg,
-
-5.[^4]
-
-6. 41. § (6) bekezdésében, 41/A. § (4) bekezdésében, 50. § (1) bekezdésében a „Pénzügyi Közlönyben” szöveg helyébe „Nemzetgazdasági Közlönyben” szöveg
-
-[^3]: A 13–15. § az 57. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^4]: A 16. § 5. pontja az 57. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^3]: A 16. § 1–4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 16. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,0 +1,5 @@
+## 19. § Az önkéntes nyugdíjpénztárak beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 223/2000. (XII. 19.) Korm. rendelet (a továbbiakban: Önykr.) 2. § c) pontja helyébe a következő rendelkezés lép:
+
+## (E rendelet alkalmazásában)
+
+## „c) ellenőrzés megállapítása: az ellenőrzés során feltárt, az eszközöket-forrásokat, a pénztári befektetéseket, a működés eredményét, a saját tőkét, a nyugdíj-szolgáltatási, illetve likviditási célú tartalékokat, a pénztártagokkal kapcsolatos kötelezettségeket érintő hibák és hibahatások, amelyek a beszámolóval lezárt üzleti évvel (évekkel) kapcsolatosak, a hatályos jogszabályi előírások nem vagy nem megfelelő alkalmazásából, helytelen értelmezéséből, vagy nem megengedett, tiltott cselekmény elkövetéséből származnak. Ilyen hibának és hibahatásnak minősül a szerződésmódosítással, a számviteli bizonylatok módosításával dokumentált, beszámolóval lezárt üzleti évet, éveket érintő gazdasági események könyvviteli elszámolásban rögzítendő jellemzőinek utólagos módosítása is;”
