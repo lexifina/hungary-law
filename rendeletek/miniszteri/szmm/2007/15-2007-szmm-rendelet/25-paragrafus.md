@@ -1,6 +1,6 @@
-25. § (1)[^17] A keretből nyújtott támogatásokra vonatkozó szerződést – a (2) bekezdésben, valamint a 27. § (4) bekezdésben meghatározott kivétellel – az NMH köti meg.
+25. § (1)[^17] A keretből nyújtott támogatásokra vonatkozó szerződést – a (2) bekezdésben, valamint a 27. § (4) bekezdésben meghatározott kivétellel – az NSZFH köti meg.
 
-(2)[^18] A 11. § (1) bekezdésében és a 20. §-ban meghatározott támogatásra vonatkozóan a szerződést a Minisztérium köti meg. A 10. § és a 11. § (2) bekezdése alapján nyújtott támogatásra vonatkozóan – miniszter döntése alapján – a Minisztérium vagy az NMH köti meg a szerződést.
+(2)[^18] A 11. § (1) bekezdésében és a 20. §-ban meghatározott támogatásra vonatkozóan a szerződést a Minisztérium köti meg. A 10. § és a 11. § (2) bekezdése alapján nyújtott támogatásra vonatkozóan – miniszter döntése alapján – a Minisztérium vagy az NSZFH köti meg a szerződést.
 
 (3) Nem nyújtható támogatás annak,
 
@@ -48,10 +48,10 @@ k) a támogatott nyilatkozatát arról, hogy nincs lejárt határidejű, az áll
 
 (5) A támogatott a program lezárását követően a támogatás felhasználásáról – a támogatási szerződésben meghatározottak szerint – köteles elszámolni az (1) és (2) bekezdésében meghatározott szervnek. Az elszámolás kiterjed a támogatás felhasználásának pénzügyi és szakmai szempontú bemutatására egyaránt.
 
-(6)[^21] Az NMH e rendelet alapján ellátandó feladatai ellátásához, illetve a támogatási programhoz szükséges forrás biztosítására a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény végrehajtásáról szóló 13/2004. (IV. 27.) OM rendelet [a továbbiakban: 13/2004. (IV. 27.) OM rendelet] 12. §-ának (4)–(5) bekezdéseiben foglaltakat megfelelően alkalmazni kell.
+(6)[^21] Az NSZFH e rendelet alapján ellátandó feladatai ellátásához, illetve a támogatási programhoz szükséges forrás biztosítására a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény végrehajtásáról szóló 13/2004. (IV. 27.) OM rendelet [a továbbiakban: 13/2004. (IV. 27.) OM rendelet] 12. §-ának (4)–(5) bekezdéseiben foglaltakat megfelelően alkalmazni kell.
 
-[^17]: A 25. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 13. § (3) bekezdés f) pontja szerint módosított szöveg.
-[^18]: A 25. § (2) bekezdése a 3/2012. (II. 10.) NGM rendelet 13. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^17]: A 25. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 13. § (3) bekezdés f) pontja, az 55/2014. (XII. 31.) NGM rendelet 7. § c) pontja szerint módosított szöveg.
+[^18]: A 25. § (2) bekezdése a 3/2012. (II. 10.) NGM rendelet 13. § (3) bekezdés f) pontja, az 55/2014. (XII. 31.) NGM rendelet 7. § c) pontja szerint módosított szöveg.
 [^19]: A 25. § (3) bekezdés b) pontja a 3/2012. (II. 10.) NGM rendelet 13. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^20]: A 25. § (3) bekezdésének d) pontja a 3/2012. (II. 10.) NGM rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^21]: A 25. § (6) bekezdése a 3/2012. (II. 10.) NGM rendelet 13. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^21]: A 25. § (6) bekezdése a 3/2012. (II. 10.) NGM rendelet 13. § (3) bekezdés f) pontja, az 55/2014. (XII. 31.) NGM rendelet 7. § c) pontja szerint módosított szöveg.
