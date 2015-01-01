@@ -1,4 +1,4 @@
-## 12/B. §[^26] A beruházás megkezdésének napja
+## 12/B. §[^30] A beruházás megkezdésének napja
 
 a) építési munka esetén az építési naplóba történő első bejegyzés vagy az építésre vonatkozó első visszavonhatatlan kötelezettségvállalás időpontja,
 
@@ -14,4 +14,4 @@ c) létesítmény felvásárlása esetén a felvásárlás időpontja,
 
 d) az a)–c) pont közül bármelyik két pont együttes megvalósulása esetén a korábbi időpont
 
-[^26]: A 12/B. §-t az 5/2014. (X. 31.) MvM rendelet 7. §-a iktatta be.
+[^30]: A 12/B. §-t az 5/2014. (X. 31.) MvM rendelet 7. §-a iktatta be.

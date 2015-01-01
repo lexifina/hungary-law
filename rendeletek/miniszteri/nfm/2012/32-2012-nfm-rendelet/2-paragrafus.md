@@ -12,7 +12,7 @@
 
 4. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás,
 
-5. általános képzés: olyan oktatást tartalmazó képzés, amely olyan képesítést ad, ami nem kizárólag vagy nem elsődlegesen a munkavállalónak a vállalkozásnál betöltött vagy későbbiekben betöltendő állásában alkalmazható, hanem nagymértékben hasznosítható más vállalkozásnál vagy munkaterületen (pl. a különböző független harmadik felek által együttesen szervezett képzések, a különböző vállalkozások munkavállalói számára nyitott képzések, vagy a Felnőttképzési Akkreditációs Testület és a Nemzeti Munkaügyi Hivatal által engedélyezett képzések),
+5.[^2]
 
 6. átlátható formában nyújtott támogatás: olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom,
 
@@ -30,7 +30,7 @@
 
 13. foglalkoztatottak számának nettó növekedése: a 651/2014/EU bizottsági rendelet 2. cikk 32. pontja szerinti növekedés,
 
-14. fogyatékossággal élő munkavállaló: a 800/2008/EK bizottsági rendelet 2. cikk 20. pontja szerinti munkavállaló,
+14.[^3]
 
 15. független harmadik fél: olyan vállalkozás, amely nem minősül egy másik meghatározott vállalkozás vonatkozásában a 651/2014/EU bizottsági rendelet I. melléklet 3. cikk (2) bekezdése szerinti partnervállalkozásnak vagy (3) bekezdése szerinti kapcsolt vállalkozásnak,
 
@@ -94,7 +94,7 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 
 43. sajáttőke-befektetés: közvetlen vagy pénzügyi közvetítőn keresztül történő közvetett tőkejuttatás egy vállalkozás számára a vállalkozásban a megfelelő arányú részesedés megszerzése ellenében,
 
-44. speciális képzés: a 800/2008/EK bizottsági rendelet 38. cikk 1. pontja szerinti képzés,
+44.[^4]
 
 45. súlyosan hátrányos helyzetű munkavállaló: a 651/2014/EU bizottsági rendelet 2. cikk 99. pontja szerinti munkavállaló,
 
@@ -118,6 +118,10 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 
 55. védett foglalkoztatás: a 651/2014/EU bizottsági rendelet 2. cikk 100. pontja szerinti foglalkoztatás,
 
-56. 800/2008/EK bizottsági rendelet szerinti hátrányos helyzetű munkavállaló: a 800/2008/EK bizottsági rendelet 2. cikk 18. pontja szerinti munkavállaló.
+56.[^5]
 
 [^1]: A 2. § az 5/2014. (X. 31.) MvM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § 5. pontját az 5/2014. (X. 31.) MvM rendelet 21. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^3]: A 2. § 14. pontját az 5/2014. (X. 31.) MvM rendelet 21. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^4]: A 2. § 44. pontját az 5/2014. (X. 31.) MvM rendelet 21. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^5]: A 2. § 56. pontját az 5/2014. (X. 31.) MvM rendelet 21. § (2) bekezdés a) pontja hatályon kívül helyezte.

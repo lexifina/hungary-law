@@ -1,4 +1,4 @@
-10. §[^20] (1) A támogatás akkor vehető igénybe, ha a támogatott vállalkozás kötelezettséget vállal arra, hogy a beruházással létrehozott tevékenységet az üzembe helyezés időpontjától számított legalább öt évig, kis- és középvállalkozás esetén legalább három évig fenntartja.
+10. §[^24] (1) A támogatás akkor vehető igénybe, ha a támogatott vállalkozás kötelezettséget vállal arra, hogy a beruházással létrehozott tevékenységet az üzembe helyezés időpontjától számított legalább öt évig, kis- és középvállalkozás esetén legalább három évig fenntartja.
 
 (2) A beszerzett eszköznek újnak kell lennie, kivéve a felvásárlás esetét, vagy azt az esetet, ha a beruházó kis- és középvállalkozásnak minősül.
 
@@ -6,4 +6,4 @@
 
 (4) A támogatás akkor vehető igénybe, ha a beruházó az elszámolható költségek legalább 25%-át saját forrásból biztosítja, továbbá a teljes beruházás megvalósításához szükséges költségek forrását a támogató számára bemutatja.
 
-[^20]: A 10. § az 5/2014. (X. 31.) MvM rendelet 7. §-ával megállapított szöveg.
+[^24]: A 10. § az 5/2014. (X. 31.) MvM rendelet 7. §-ával megállapított szöveg.

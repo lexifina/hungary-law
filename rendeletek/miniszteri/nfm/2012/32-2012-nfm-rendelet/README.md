@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-32-20-2
 | 2013-12-31 | 2012-32-20-2W.3 | 1/2013. (XII. 30.) ME rendelet |
 | 2014-11-01 | 2012-32-20-2W.4 | 5/2014. (X. 31.) MvM rendelet |
 | 2014-12-31 | 2012-32-20-2W.5 | 11/2014. (XII. 30.) MvM rendelet |
+| 2015-01-01 | 2012-32-20-2W.6 | 5/2014. (X. 31.) MvM rendelet |

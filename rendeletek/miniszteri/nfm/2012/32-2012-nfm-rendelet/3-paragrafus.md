@@ -82,8 +82,8 @@
 
 40. projekt-előkészítés támogatása,
 
-41.[^2] a nevelést-oktatást, az egész életen át tartó tanulást, valamint a társadalmi felzárkózást támogató kulturális tevékenységek,
+41.[^6] a nevelést-oktatást, az egész életen át tartó tanulást, valamint a társadalmi felzárkózást támogató kulturális tevékenységek,
 
 42. eszközbeszerzés.
 
-[^2]: A 3. § 41. pontja az 5/2014. (X. 31.) MvM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 3. § 41. pontja az 5/2014. (X. 31.) MvM rendelet 2. §-ával megállapított szöveg.

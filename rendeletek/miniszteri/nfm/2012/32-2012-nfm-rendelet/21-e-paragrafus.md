@@ -1,4 +1,4 @@
-## 18/A. [^50] A kultúrát és a kulturális örökség megőrzését előmozdító támogatásra vonatkozó szabályok
+## 18/A. [^54] A kultúrát és a kulturális örökség megőrzését előmozdító támogatásra vonatkozó szabályok
 
 21/E. § (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) beruházási, működési vagy zenei és irodalmi alkotások kiadásához nyújtott támogatásként nyújtható.
 
@@ -16,4 +16,4 @@ e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezés
 
 f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
 
-[^50]: A 18/A. alcímet (21/E–21/I. §) az 5/2014. (X. 31.) MvM rendelet 13. §-a iktatta be.
+[^54]: A 18/A. alcímet (21/E–21/I. §) az 5/2014. (X. 31.) MvM rendelet 13. §-a iktatta be.
