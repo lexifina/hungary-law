@@ -22,12 +22,12 @@ nevezi ki és menti fel.
 
 (5) A Budapest Főváros Önkormányzata által fenntartott levéltár
 
-a) stratégiai terve, éves szakmai feladatainak meghatározása,
+a)
 
 b) munkatervének, beszámolójának elfogadása,
 
-c) költségvetésének feladatalapú tervezése, és
+c)
 
-d) fejlesztési és beruházási feladatainak meghatározása
+d)
 
 során a kultúráért felelős miniszter véleményezési jogot gyakorol.

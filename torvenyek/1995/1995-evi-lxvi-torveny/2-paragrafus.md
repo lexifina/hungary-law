@@ -4,7 +4,7 @@
 
 a) a közfeladatot ellátó szervek irattári anyagára;
 
-b) a tartós állami tulajdonú társasági részesedéssel működő gazdasági társaságok irattári anyagára;
+b) a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet I. pontjában meghatározott gazdasági társaságok irattári anyagára;
 
 c) a közlevéltárakban őrzött levéltári anyagra;
 

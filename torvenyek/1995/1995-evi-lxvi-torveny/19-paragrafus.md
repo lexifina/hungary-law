@@ -1,6 +1,6 @@
 ## Állami szaklevéltárak
 
-19. § (1) Állami szaklevéltár a Hadtörténeti Levéltár, a Földügyi és Távérzékelési Levéltár, a Környezetvédelmi és Vízügyi Levéltár, az Állambiztonsági Szolgálatok Történeti Levéltára, valamint az állam által fenntartott felsőoktatási, tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény levéltára.
+19. § (1) Állami szaklevéltár a Hadtörténelmi Levéltár, a Földügyi és Távérzékelési Levéltár, a Környezetvédelmi és Vízügyi Levéltár, az Állambiztonsági Szolgálatok Történeti Levéltára, valamint az állam által fenntartott felsőoktatási, tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény levéltára.
 
 (2) A szaklevéltár illetékességi köre – az Állambiztonsági Szolgálatok Történeti Levéltára kivételével –
 

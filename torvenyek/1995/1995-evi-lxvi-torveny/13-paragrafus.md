@@ -14,7 +14,7 @@ c) az átvett és a gyűjtött levéltári anyagot nyilvántartja, szakszerűen 
 
 d) az őrizetében lévő levéltári anyagról hiteles másolatot vagy tartalmi kivonatot ad ki;
 
-e) a levéltári anyag védelme érdekében ellenőrzi a közfeladatot ellátó szervek, valamint a tartós állami tulajdonú társasági részesedéssel működő gazdasági társaságok irattári selejtezését és iratkezelésének rendjét;
+e) a levéltári anyag védelme érdekében ellenőrzi a közfeladatot ellátó szervek, valamint a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet I. pontjában meghatározott gazdasági társaságok irattári selejtezését és iratkezelésének rendjét;
 
 f) megrongált vagy pusztulásnak indult levéltári anyagának konzerválásáról és restaurálásáról gondoskodik, ezekről és a különösen jelentős levéltári anyagáról biztonsági másolatot készít vagy készíttet, és annak egy példányát – ha jogszabály másként nem rendelkezik – a Magyar Nemzeti Levéltárnak átadja;
 

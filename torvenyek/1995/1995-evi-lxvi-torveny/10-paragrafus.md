@@ -22,7 +22,7 @@ c) az igazságügyért felelős miniszter a közjegyzők és bírósági végreh
 
 (5) Az önkormányzati hivatal számára a helyi önkormányzatokért felelős miniszter a köziratok kezelésének szakmai irányításáért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben egységes irattári tervet ad ki.
 
-(6) A jogi személyiséggel rendelkező önkormányzati társulás, az önkormányzatok többcélú kistérségi társulása (a továbbiakban együtt: önkormányzati társulások) a társulási megállapodásban foglalt esetben rendelkezik az iratkezelés szabályozásáról.
+(6) Az önkormányzati társulás a társulási megállapodásban foglalt esetben rendelkezik az iratkezelés szabályozásáról.
 
 (7) A Magyar Nemzeti Levéltár, az illetékes közlevéltár és a kultúráért felelős miniszter egyetértési joga az irattári tételek kialakításával és a nem selejtezhető irattári tételek kijelölésével, továbbá a nem selejtezhető iratok levéltári használatát befolyásoló előírásokkal összefüggő kérdésekre terjed ki.
 
