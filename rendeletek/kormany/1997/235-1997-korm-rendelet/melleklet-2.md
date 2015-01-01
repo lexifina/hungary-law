@@ -118,115 +118,121 @@
 
 ## II. számú adatlap
 
-## A védelembe vett gyermekről
+## A védelembe vett, a megelőző pártfogás alatt álló gyermekről
 
 ## [Gyvt. 138. § (2) bek.]
 
 ## (Gyámhivatal tölti ki.)
 
-| A nyilvántartásba vétel időpontja: |  |
+| 1. A nyilvántartásba vétel időpontja: | .......................................................................................................................... |
 
-| 1. | A gyermek személyi adatai: |  |
+| 2. | A gyermek személyi adatai: |  |
 
-|  | Név: |  |
+| 2.1. | Név: | ......................................................................................................................... |
 
-|  | Születési hely, idő: |  |
+| 2.2. | Születési hely, idő: | ......................................................................................................................... |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+| 2.3. | Állampolgárság (menekült, bevándorolt, letelepedett): | ......................................................................................................................... |
 
-|  | Anyja neve: |  |
+| 2.4. | Anyja neve: | ......................................................................................................................... |
 
-|  | Lakóhely: |  |
+| 2.5. | Lakóhely: | ......................................................................................................................... |
 
-|  | Tartózkodási hely: |  |
+| 2.6. | Tartózkodási hely: | ......................................................................................................................... |
 
-| 2. | A törvényes képviselő személyi adatai: |
+| 3. | A törvényes képviselő személyi adatai: |  |
 
-|  | Név: |  |
+| 3.1. | Név: | ......................................................................................................................... |
 
-|  | Születési hely, idő: |  |
+| 3.2. | Születési hely, idő: | ......................................................................................................................... |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+| 3.3. | Állampolgárság (menekült, bevándorolt, letelepedett): | ......................................................................................................................... |
 
-|  | Anyja neve: |  |
+| 3.4. | Anyja neve: | ......................................................................................................................... |
 
-|  | Lakóhely: |  |
+| 3.5. | Lakóhely: | ......................................................................................................................... |
 
-|  | Tartózkodási hely: |  |
+| 3.6. | Tartózkodási hely: | ......................................................................................................................... |
 
-| 3. | A szülők személyi adatai: |
+| 4. | A szülők személyi adatai: |  |
 
-|  | Anya neve: |  |
+| 4.1. | Anya neve: | ......................................................................................................................... |
 
-|  | Születési hely, idő: |  |
+| 4.2. | Születési hely, idő: | ......................................................................................................................... |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+| 4.3. | Állampolgárság (menekült, bevándorolt, letelepedett) | ......................................................................................................................... |
 
-|  | Anyja neve: |  |
+| 4.4. | Anyja neve: | ......................................................................................................................... |
 
-|  | Lakóhely: |  |
+| 4.5. | Lakóhely: | ......................................................................................................................... |
 
-|  | Tartózkodási hely: |  |
+| 4.6. | Tartózkodási hely: | ......................................................................................................................... |
 
-|  | Apa neve: |  |
+| 4.7. | Apa neve: | ......................................................................................................................... |
 
-|  | Születési hely, idő: |  |
+| 4.8. | Születési hely, idő: | ......................................................................................................................... |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) | ............................................................................................................. |
+| 4.9. | Állampolgárság (menekült, bevándorolt, letelepedett) | ......................................................................................................................... |
 
-|  | Anyja neve: |  |
+| 4.10. | Anyja neve: | ......................................................................................................................... |
 
-|  | Lakóhely: |  |
+| 4.11. | Lakóhely: | ......................................................................................................................... |
 
-|  | Tartózkodási hely: |  |
+| 4.12. | Tartózkodási hely: | ......................................................................................................................... |
 
-| 4. | Határozat: |  |
+| 5. | Határozat: |  |
 
-|  | Határozatot hozó gyámhivatal megnevezése: |  |
+| 5.1. | Határozatot hozó gyámhivatal megnevezése: | ......................................................................................................................... |
 
-|  | Száma: |  |
+| 5.2. | Száma: | ......................................................................................................................... |
 
-|  | Kelte: |  |
+| 5.3. | Kelte: | ......................................................................................................................... |
 
-|  | Jogerős: |  |
+| 5.4. | Jogerős: | ......................................................................................................................... |
 
-| 5. | A családgondozó személyi adatai: |
+| 6. | A családgondozó személyi adatai: |  |
 
-|  | Név: |  |
+| 6.1. | Név: | ......................................................................................................................... |
 
-|  | Tartózkodási hely: |  |
+| 6.2. | Tartózkodási hely: | ......................................................................................................................... |
 
-| 6. | A gyermek egészségi állapota: |  |
+| 7. | A megelőző pártfogó személyi adatai: |  |
 
-|  | A gyermek tanulmányi eredménye, előmenetele: |  |
+| 7.1. | Név: | ......................................................................................................................... |
 
-| 7. | A felülvizsgálatok adatai: |  |
+| 7.2. | Munkahelye: | ......................................................................................................................... |
 
-|  | Határozat száma: |  |
+| 8. | A gyermek egészségi állapota: | ......................................................................................................................... |
 
-|  | Kelte: |  |
+| 8.1. | A gyermek tanulmányi eredménye, előmenetele: | ......................................................................................................................... |
 
-|  | Eredménye: |  |
+| 9. | A felülvizsgálatok adatai: | ......................................................................................................................... |
 
-|  | Határozat száma: |  |
+| 9.1. | Határozat száma: | ......................................................................................................................... |
 
-|  | Kelte: |  |
+| 9.2. | Kelte: | ......................................................................................................................... |
 
-|  | Eredménye: |  |
+| 9.3. | Eredménye: | ......................................................................................................................... |
 
-|  | Határozat száma: |  |
+| 9.4. | Határozat száma: | ......................................................................................................................... |
 
-|  | Kelte: |  |
+| 9.5. | Kelte: | ......................................................................................................................... |
 
-|  | Eredménye: |  |
+| 9.6. | Eredménye: | ......................................................................................................................... |
 
-| 8. | A megszűnés adatai: |  |
+| 9.7. | Határozat száma: | ......................................................................................................................... |
 
-|  | Határozat száma: |  |
+| 9.8. | Kelte: | ......................................................................................................................... |
 
-|  | Kelte: |  |
+| 9.9. | Eredménye: | ......................................................................................................................... |
 
-|  | Eredménye: |  |
+| 10. | A megszűnés, megszüntetés adatai: |  |
+
+| 10.1. | Határozat száma: | ......................................................................................................................... |
+
+| 10.2. 10.3. | Kelte: Eredménye: | ......................................................................................................................... ......................................................................................................................... |
+
+| 11. | Annak megjelölése, ha a védelembe vétel a nevelésbe vétel elrendelésével, a megelőző pártfogás fenntartása mellett szűnt meg: | ........................................................................................................................ |
 
 ## III. számú adatlap
 
@@ -622,193 +628,201 @@
 
 ## (Gyámhivatal tölti ki.)
 
-| A nyilvántartásba vétel időpontja: |  |
+| 1. A nyilvántartásba vétel időpontja: | .......................................................................................................................... |
 
-| 1. | A gyermek személyi adatai: |  |
+| 2. | A gyermek személyi adatai: |  |
 
-|  | Név: |  |
+| 2.1. | Név: | .......................................................................................................................... |
 
-|  | Születési hely, idő: |  |
+| 2.2. | Születési hely, idő: | .......................................................................................................................... |
 
-|  | Anyja neve: |  |
+| 2.3. | Anyja neve: | .......................................................................................................................... |
 
-|  | Lakóhely: |  |
+| 2.4. | Lakóhely: | .......................................................................................................................... |
 
-|  | Tartózkodási hely: |  |
+| 2.5. | Tartózkodási hely: | .......................................................................................................................... |
 
-## 2. A törvényes képviselő személyi adatai:
+| 3. | A törvényes képviselő személyi adatai: |  |
 
-## a) Gyermekvédelmi gyám:
+| 3.1. | Gyermekvédelmi gyám: |  |
 
-## Név:
+| 3.1.1. | Név: | .......................................................................................................................... |
 
-## Születési hely, idő:
+| 3.1.2. | Születési hely, idő: | .......................................................................................................................... |
 
-## Anyja neve:
+| 3.1.3. | Anyja neve: | .......................................................................................................................... |
 
-## Értesítési címe:
+| 3.1.4. | Értesítési címe: | .......................................................................................................................... |
 
-## Elérhetősége (telefon, e-mail):
+| 3.1.5. | Elérhetősége (telefon, e-mail): | .......................................................................................................................... |
 
-## A gyermekvédelmi gyámot foglalkoztató területi gyermekvédelmi szakszolgálat megnevezése:
+| 3.1.6. | A gyermekvédelmi gyámot foglalkoztató területi gyermekvédelmi szakszolgálat megnevezése: | .......................................................................................................................... |
 
-## b) Egyes gyámi feladatok ellátására gyámként kirendelt nevelőszülő:
+| 3.2. | Egyes gyámi feladatok ellátására gyámként kirendelt nevelőszülő: |
 
-## Név:
+| 3.2.1. | Név: | .......................................................................................................................... |
 
-## Születési hely, idő:
+| 3.2.2. | Születési hely, idő: | .......................................................................................................................... |
 
-## Anyja neve:
+| 3.2.3. | Anyja neve: | .......................................................................................................................... |
 
-## Értesítési címe:
+| 3.2.4. | Értesítési címe: | .......................................................................................................................... |
 
-## Elérhetősége (telefon, e-mail):
+| 3.2.5. | Elérhetősége (telefon, e-mail): | .......................................................................................................................... |
 
-## A nevelőszülőt foglalkoztató nevelőszülői hálózat megnevezése:
+| 3.2.6. | A nevelőszülőt foglalkoztató nevelőszülői hálózat megnevezése: | .......................................................................................................................... |
 
-| 3. | A szülők személyi adatai: |  |
+| 4. | A megelőző pártfogó személyi adatai: |  |
 
-|  | Anya neve: |  |
+| 4.1. | Név: | .......................................................................................................................... |
 
-|  | Születési hely, idő: |  |
+| 4.2. | Munkahelye: | .......................................................................................................................... |
 
-|  | Anyja neve: |  |
+| 5. | A szülők személyi adatai: |  |
 
-|  | Lakóhely: |  |
+| 5.1. | Anya neve: | .......................................................................................................................... |
 
-|  | Tartózkodási hely: |  |
+| 5.1.1. | Születési hely, idő: | .......................................................................................................................... |
 
-|  | Apa neve: |  |
+| 5.1.2. | Anyja neve: | .......................................................................................................................... |
 
-|  | Születési hely, idő: |  |
+| 5.1.3. | Lakóhely: | .......................................................................................................................... |
 
-|  | Anyja neve: |  |
+| 5.1.4. | Tartózkodási hely: | .......................................................................................................................... |
 
-|  | Lakóhely: |  |
+| 5.2. | Apa neve: | .......................................................................................................................... |
 
-|  | Tartózkodási hely: |  |
+| 5.2.1. | Születési hely, idő: | .......................................................................................................................... |
 
-## 4. Határozat:
+| 5.2.2. | Anyja neve: | .......................................................................................................................... |
 
-## Határozatot hozó gyámhivatal neve:
+| 5.2.3. | Lakóhely: | .......................................................................................................................... |
 
-## Határozat száma:
+| 5.2.4. | Tartózkodási hely: | .......................................................................................................................... |
 
-## Határozat kelte:
+| 6. | Határozat: |  |
 
-## Jogerős:
+| 6.1. | Határozatot hozó gyámhivatal neve: | .......................................................................................................................... |
 
-## Döntés jellege:
+| 6.2. | Határozat száma: | .......................................................................................................................... |
 
-## – nevelésbe vétel ideiglenes gondozási hellyel
+| 6.3. | Határozat kelte: | .......................................................................................................................... |
 
-## – nevelésbe vétel gondozási hely meghatározásával
+| 6.4. | Jogerős: | .......................................................................................................................... |
 
-## A gyermek ellátási szükséglete:
+| 6.5. | Döntés jellege: |  |
 
-## – átlagos
+|  | - nevelésbe vétel ideiglenes gondozási hellyel |
 
-## – különleges
+|  | - nevelésbe vétel gondozási hely meghatározásával - nevelésbe vétel megelőző pártfogás fenntartásával (az első két eset közül az egyik megjelölése mellett) |
 
-## – speciális
+| 6.6. | A gyermek ellátási szükséglete: |  |
 
-## Gyermek elhelyezése:
+|  | - általános |  |
 
-## – nevelőszülőnél:
+|  | - különleges |  |
 
-## – nevelőszülő
+|  | - speciális |  |
 
-## – különleges nevelőszülő
+|  | - kettős |  |
 
-## – speciális nevelőszülő
+| 6.7. | Gyermek elhelyezése: |  |
 
-## – gyermekotthonban, lakásotthonban:
+| 6.7.1. | - nevelőszülőnél |  |
 
-## – gyermekotthon
+|  | - nevelőszülő |  |
 
-## – központi speciális gyermekotthon
+|  | - különleges nevelőszülő |  |
 
-## – központi speciális gyermekotthonnak nem minősülő speciális gyermekotthon
+|  | - speciális nevelőszülő |  |
 
-## – különleges gyermekotthon
+| 6.7.2. | - gyermekotthonban, lakásotthonban: |  |
 
-## – lakásotthon
+|  | - gyermekotthon |  |
 
-## – speciális lakásotthon
+|  | - központi speciális gyermekotthon |
 
-## – különleges lakásotthon
+|  | - központi speciális gyermekotthonnak nem minősülő speciális gyermekotthon |
 
-## – kizárólag kísérő nélküli kiskorúakat ellátó gyermekotthon
+|  | - különleges gyermekotthon |  |
 
-## – fogyatékosok vagy pszichiátriai betegek otthonában
+|  | - lakásotthon |  |
 
-## Vagyonnal rendelkezik-e:
+|  | - speciális lakásotthon |  |
 
-## – igen
+|  | - különleges lakásotthon |  |
 
-## – nem
+|  | - kizárólag kísérő nélküli kiskorúakat ellátó gyermekotthon |
 
-| 5. | A számadásra vonatkozó adatok: |
+| 6.7.3. | - fogyatékosok vagy pszichiátriai betegek otthonában |
 
-|  | A számadás módja: |
+| 6.8. | Vagyonnal rendelkezik-e: |  |
 
-|  |  | határideje: |
+|  | - igen |  |
 
-|  | A számadást elfogadó gyámhivatal neve: |
+|  | - nem |  |
 
-|  | A számadást elfogadó határozat |
+| 7. | A számadásra vonatkozó adatok: |  |
 
-|  | Száma: |
+| 7.1. | A számadás módja: | .......................................................................................................................... |
 
-|  | Kelte: |
+| 7.2. | határideje: | .......................................................................................................................... |
 
-|  | Eredménye: |
+| 7.3. | A számadást elfogadó gyámhivatal neve: | .......................................................................................................................... |
 
-| 6. | A gondozási díjak adatai: |
+| 7.4. | A számadást elfogadó határozat |  |
 
-|  | Anya: |  | Ft |
+| 7.4.1. | Száma: | .......................................................................................................................... |
 
-|  | Díjfizetés kezdete: |  |
+| 7.4.2. | Kelte: | .......................................................................................................................... |
 
-|  | Vége: |  |
+| 7.4.3. | Eredménye: | .......................................................................................................................... |
 
-|  | Apa: |  |
+| 8. | A gondozási díjak adatai: |  |
 
-|  | Díjfizetés kezdete: |  |
+| 8.1. | Anya: | .......................................................................................................................Ft |
 
-|  | Vége: |  |
+| 8.1.1. | Díjfizetés kezdete: | .......................................................................................................................... |
 
-| 7. | A felülvizsgálatok adatai: |
+| 8.1.2. | Vége: | .......................................................................................................................... |
 
-|  | Határozat száma: |  |
+| 8.2. | Apa: | .......................................................................................................................Ft |
 
-|  | Kelte: |  |
+| 8.2.1. | Díjfizetés kezdete: | .......................................................................................................................... |
 
-|  | Eredménye: |  |
+| 8.2.2. | Vége: | .......................................................................................................................... |
 
-|  | Határozat száma: |  |
+| 9. | A felülvizsgálatok adatai: |  |
 
-|  | Kelte: |  |
+| 9.1. | Határozat száma: | .......................................................................................................................... |
 
-|  | Eredménye: |  |
+| 9.2. | Kelte: | .......................................................................................................................... |
 
-|  | Határozat száma: |  |
+| 9.3. | Eredménye: | .......................................................................................................................... |
 
-|  | Kelte: |  |
+| 9.4. | Határozat száma: | .......................................................................................................................... |
 
-|  | Eredménye: |  |
+| 9.5. | Kelte: | .......................................................................................................................... |
 
-| 8. | A megszűnés vagy megszüntetés adatai: |
+| 9.6. | Eredménye: | .......................................................................................................................... |
 
-|  | Határozat száma: |  |
+| 9.7. | Határozat száma: | .......................................................................................................................... |
 
-|  | Kelte: |  |
+| 9.8. | Kelte: | .......................................................................................................................... |
 
-|  | Jogerős: |  |
+| 9.9. | Eredménye: | .......................................................................................................................... |
+
+| 10. | A megszűnés vagy megszüntetés adatai: |  |
+
+| 10.1. | Határozat száma: | .......................................................................................................................... |
+
+| 10.2. | Kelte: | .......................................................................................................................... |
+
+| 10.3. | Jogerős: | ........................................................................................................................” |
 
 ## V/A. számú adatlap
 
-## A gyámhatóság által kirendelt támogatókról és támogatott személyeikről [a támogatott döntéshozatalról szóló 2013. évi CLV. törvény 11. §][^24]
+## A gyámhatóság által kirendelt támogatókról és támogatott személyeikről [a támogatott döntéshozatalról szóló 2013. évi CLV. törvény 11. §][^25]
 
 ## (Gyámhivatal tölti ki)
 
@@ -1870,7 +1884,9 @@
 
 ## A „B” adatlapból mindig újat kell kitölteni, ha újabb nevelési felügyeletet rendeltek el.
 
-2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^25]
+2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^26]
+
+A „Gyermekeink védelmében” elnevezésű adatlaprendszer
 
 A „Gyermekeink védelmében” elnevezésű adatlaprendszer
 
@@ -1916,7 +1932,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely25 | Változás1: |
+| Bejelentett tartózkodási hely27 | Változás1: |
 
 |  | Változás2: |
 
@@ -1928,7 +1944,7 @@ I. számú adatlap
 
 | Beszélt nyelve: | Van-e szüksége tolmácsra? igen – milyenre: nem |
 
-25 Korábban „ideiglenes”.
+27 Korábban „ideiglenes”.
 
 | A szülők/törvényes képviselő személyi adatai |
 
@@ -1944,7 +1960,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely26: | Változás1: |
+| Bejelentett tartózkodási hely28: | Változás1: |
 
 |  | Változás2: |
 
@@ -1972,7 +1988,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely27: | Változás1: |
+| Bejelentett tartózkodási hely29: | Változás1: |
 
 |  | Változás2: |
 
@@ -1998,7 +2014,7 @@ I. számú adatlap
 
 |  | Változás2: |
 
-| Bejelentett tartózkodási hely28: | Változás1: |
+| Bejelentett tartózkodási hely30: | Változás1: |
 
 |  | Változás2: |
 
@@ -2012,11 +2028,11 @@ I. számú adatlap
 
 | Jogcím/rokonsági fok: |
 
-26 Korábban „ideiglenes”.
-
-27 Korábban „ideiglenes”.
-
 28 Korábban „ideiglenes”.
+
+29 Korábban „ideiglenes”.
+
+30 Korábban „ideiglenes”.
 
 | Nevelésbe vett gyermek esetében |
 
@@ -2382,7 +2398,7 @@ Az adatlap továbbítása:
 
 2. amennyiben a gyermekjóléti szolgálat tesz javaslatot gyermekvédelmi intézkedés alkalmazására, úgy a javaslat részeként az illetékes hatóságnak, amely nevelésbe vétel esetén azt továbbküldi a területi gyermekvédelmi szakszolgálatnak, aki az elhelyezési értekezlet előtt továbbítja majd a lehetséges gyermekvédelmi gyámnak,
 
-3. ha a gyermek előzmény nélkül került ideiglenes hatályú elhelyezésbe, a gyámhivatal felkérése szerint a gyermekjóléti szolgálat továbbítja az adatlapot (a gondozási terv és a gondozási folyamat összegzése nélkül) a gyámhivatalnak, és azon keresztül a területi gyermekvédelmi szakszolgálatnak, aki továbbítja majd a gyermekvédelmi gyámnak.
+3. ha a gyermek előzmény nélkül került ideiglenes hatályú elhelyezésbe, a gyámhivatal felkérése szerint a gyermekjóléti szolgálat továbbítja az adatlapot (a gondozási terv és a gondozási folyamat összegzése nélkül) a gyámhivatalnak, és azon keresztül a területi gyermekvédelmi szakszolgálatnak, aki továbbítja majd a gyermekvédelmi gyámnak. A pártfogói felügyelő szolgálat részére akkor kell továbbítani, ha a gyámhivatal a megelőző pártfogás elrendelésével kapcsolatban megkeresi a gyermekjóléti szolgálatot.
 
 V. számú adatlap
 
@@ -2526,6 +2542,8 @@ Az adatlap továbbítása:
 
 1. védelembe vétel során a határozatot hozó gyámhivatalnak,
 
+2. pártfogói felügyelő szolgálat részére, amennyiben a gyámhivatal a megelőző pártfogás elrendelésével kapcsolatban megkeresi a gyermekjóléti szolgálatot.
+
 VIII. számú adatlap
 
 „GYSZ-6” – Helyzetértékelés
@@ -2625,6 +2643,8 @@ A kitöltés ideje: a felülvizsgálatot megelőző 15 nap.
 Az adatlap továbbítása: a védelembe vételt elrendelő gyámhivatalnak, 10 nappal a kitűzött felülvizsgálat időpontja előtt.
 
 Nevelésbe vételi javaslat esetén a javaslattevő gyermekjóléti szolgálat megküldi a gyámhivatalnak.
+
+A pártfogó felügyelői szolgálat részére, amennyiben a gyámhivatal a megelőző pártfogás elrendelésével kapcsolatban megkeresi a gyermekjóléti szolgálatot.”
 
 IX. számú adatlap
 
@@ -2894,11 +2914,11 @@ XI. számú adatlap
 
 | Feladatmegosztás a szülők és szakemberek között: |
 
-| f) Etnikai, nyelvi szempontok:29 |
+| f) Etnikai, nyelvi szempontok:31 |
 
 | Amennyiben az etnikai hovatartozásból feladatok adódnak, azok megnevezése: | Igény: |
 
-29A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+31A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | Feladatmegosztás a szülők és szakemberek között: |
 
@@ -2906,7 +2926,7 @@ XI. számú adatlap
 
 |  | szülő, más törvényes képviselő aláírása |
 
-| g) Vallás – pl.: vallási ünnepek, szokások:30 |
+| g) Vallás – pl.: vallási ünnepek, szokások:32 |
 
 | Igény: | Feladatmegosztás a szülők és szakemberek között: |
 
@@ -2928,7 +2948,7 @@ XI. számú adatlap
 
 | Célok, megállapodások: |
 
-30 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+32 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | j) A szülő/törvényes képviselő és a gyermek kapcsolatának jellemzése: |
 
@@ -3058,7 +3078,7 @@ XII. számú adatlap
 
 | Milyen feladatokat ad a gyermek esetleges munkába állásának elősegítése? | Milyen segítséget nyújt az intézmény a szülőnek a feladatok ellátásához? |
 
-| Etnikai, nyelvi, kulturális szempontok31 |
+| Etnikai, nyelvi, kulturális szempontok33 |
 
 | Amennyiben etnikai hovatartozásából a gyermeknek és/vagy szüleinek igényei adódnak, azok megnevezése: | Milyen segítséget nyújt az intézmény a felmerült igények teljesítéséhez? |
 
@@ -3068,9 +3088,9 @@ XII. számú adatlap
 
 |  | szülő, más törvényes képviselő aláírása |
 
-31 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+33 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
-| Vallás – pl.: rendszeres vallásgyakorlás, ünnepek, szokások32 |
+| Vallás – pl.: rendszeres vallásgyakorlás, ünnepek, szokások34 |
 
 | Amennyiben vallási hovatartozásából a gyermeknek és/vagy szüleinek igényei adódnak, azok részletezése: | Milyen segítséget nyújt az intézmény a felmerült igények teljesítéséhez? |
 
@@ -3096,7 +3116,7 @@ XII. számú adatlap
 
 | Igényel-e az intézménytől segítséget a kapcsolattartás biztosítása? |
 
-32 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+34 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | 3. Van-e hatályban a gyermekre vonatkozó/gyermekkel kapcsolatos gyermekvédelmi hatósági intézkedés, illetve büntetőeljárás? Ha igen, ismertesse! |
 
@@ -4168,5 +4188,5 @@ Az adatlap továbbítása: felülvizsgálat esetén a gyámhivatal és a gyermek
 
 XXII. számú adatlap
 
-[^24]: Ha a támogatott személynek több támogatója van, az adatlapot minden támogató tekintetében külön-külön ki kell tölteni.
-[^25]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 14. § f)–k) pontjai, a 93. § (1) bekezdés f) pont fb) és fc) alpontja, a 71/2014. (III. 13.) Korm. rendelet 8. § (2) és (4) bekezdése, a 10. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^25]: Ha a támogatott személynek több támogatója van, az adatlapot minden támogató tekintetében külön-külön ki kell tölteni.
+[^26]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 14. § f)–k) pontjai, a 93. § (1) bekezdés f) pont fb) és fc) alpontja, a 71/2014. (III. 13.) Korm. rendelet 8. § (2) és (4) bekezdése, a 10. § (1) bekezdés d) pontja, a 353/2014. (XII. 29.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
