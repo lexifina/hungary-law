@@ -36,14 +36,4 @@ e) a befektetők tájékoztatására szolgáló azon információkról, amelyeke
 
 (7) Az ABAK a tevékenységi engedély kézhezvételét követően, de legkorábban az (1) bekezdés f) pontjában és a (3) bekezdésének a) és b) pontjában említett, esetleg hiányzó információk benyújtását követő egy hónap elteltével kezdheti meg tevékenységét.
 
-(8) Az ABAK a tevékenységi engedélyére vonatkozó feltételek fennállását érintő lényeges változtatás végrehajtásához a Felügyelet előzetes jóváhagyását kéri.
-
-(9) A Felügyelet a (8) bekezdésben foglalt kérelmet megvizsgálja, és amennyiben az (1) bekezdésben foglalt feltételek az ABAK esetében továbbra is fennállnak, a tevékenységi engedélyt hatályában fenntartja.
-
-(10) Amennyiben a Felügyelet szerint az ABAK által tervezett változtatás következtében az (1) bekezdésben meghatározott feltételek nem teljesülnek, az ABAK-ot megfelelő határidő kitűzésével felhívja a feltételeknek való megfelelésre.
-
-(11) Amennyiben a Felügyelet szerint az ABAK által tervezett változtatás következtében az (1) bekezdésben meghatározott feltételek nem teljesülnek, és az azoknak való megfelelésre nem lát lehetőséget, a Felügyelet a tervezett változtatást nem engedélyezi.
-
-(12) A Felügyelet a (9)–(11) bekezdés szerinti határozatát a (8) bekezdésben foglalt kérelem kézhezvételétől számított egy hónapon belül hozza meg. A Felügyelet a tervezett változtatás vizsgálatát – az ABAK egyidejű értesítése mellett – további legfeljebb egy hónappal meghosszabbíthatja.
-
-(13) A Felügyelet hozzájárulását megadottnak kell tekinteni, amennyiben a (12) bekezdésben előírt határidőn belül nem hoz határozatot.
+(8)–(13)

@@ -8,7 +8,9 @@ b) a Bizottság 2010. július 1-jei 2010/43/EK irányelve a 2009/65/EK európai 
 
 c) a Bizottság 2010. július 1-jei 2010/44/EK irányelve a 2009/65/EK európai parlamenti és tanácsi irányelvnek az alapok egyesülésére, a master-feeder struktúrákra és a bejelentési eljárásokra vonatkozó különös rendelkezései tekintetében történő végrehajtásáról,
 
-d) az Európai Parlament és a Tanács 2011. június 8-án kelt 2011/61/EU irányelve az alternatív befektetésialap-kezelőkről, valamint a 2003/41/EK és a 2009/65/EK irányelv, továbbá az 1060/2009/EK és az 1095/2010/EU rendelet módosításáról.
+d) az Európai Parlament és a Tanács 2011. június 8-án kelt 2011/61/EU irányelve az alternatív befektetésialap-kezelőkről, valamint a 2003/41/EK és a 2009/65/EK irányelv, továbbá az 1060/2009/EK és az 1095/2010/EU rendelet módosításáról,
+
+e) az Európai Parlament és a Tanács 2013/14/EU irányelve (2013. május 21.) a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló 2003/41/EK irányelvnek, az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek és az alternatív befektetésialap-kezelőkről szóló 2011/61/EU irányelvnek a hitelminősítések túlzott figyelembevétele tekintetében történő módosításáról.
 
 (2) E törvény
 

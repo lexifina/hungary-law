@@ -2,7 +2,7 @@
 
 83. § (1) Kockázati, illetve magántőkealapok egyesüléshez az egyesülésben részt vevő kockázati, illetve magántőkealapok befektetési jegy tulajdonosainak írásbeli, egyhangú jóváhagyó nyilatkozata szükséges.
 
-(2) A jogutód kockázati, illetve magántőkealapot kezelő kockázati, illetve magántőkealap-kezelő az egyesülés indokát, napját és feltételeit tartalmazó tájékoztatót a Felügyeletnek jóváhagyásra benyújtja.
+(2) A jogutód kockázati, illetve magántőkealapot kezelő kockázati tőkealap-kezelő az egyesülés indokát, napját és feltételeit tartalmazó tájékoztatót a Felügyeletnek jóváhagyásra benyújtja.
 
 (3) Az egyesülés értéknapján meg kell állapítani az egyesülésben részt vevő kockázati, illetve magántőkealapok egy befektetési jegyre jutó nettó eszközértékét.
 

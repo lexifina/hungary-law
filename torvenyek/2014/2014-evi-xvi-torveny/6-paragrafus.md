@@ -24,7 +24,7 @@ bi) nyilvántartások vezetése;
 
 c) az ÁÉKBV-alapkezelő által kezelt kollektív befektetési értékpapír forgalomba hozatala és folyamatos forgalmazása.
 
-(2) Az ÁÉKBV-alapkezelő a kollektív portfóliókezelési tevékenység mellett kizárólag az alábbi tevékenységeket végezheti rendszeres gazdasági tevékenysége keretében, az a)–c) pontokban meghatározott tevékenységek esetén az adott tevékenységre előírt engedély birtokában és figyelemmel a (4) bekezdésre:
+(2) Az ÁÉKBV-alapkezelő a kollektív portfóliókezelési tevékenység mellett kizárólag az alábbi tevékenységeket végezheti rendszeres gazdasági tevékenysége keretében, az a)–c) pontban meghatározott tevékenységek esetén az adott tevékenységre előírt engedély birtokában és figyelemmel a (3) bekezdésre:
 
 a) portfóliókezelés,
 
@@ -32,7 +32,7 @@ b) befektetési tanácsadás,
 
 c) kollektív befektetési értékpapírok letéti őrzése, letétkezelése és az ezzel kapcsolatos adminisztratív szolgáltatások, amely dematerializált értékpapírok esetében az értékpapírszámla vezetését is tartalmazza, valamint a végzett tevékenység jellegétől függően ügyfélszámla vezetését is magában foglalja.
 
-(3) Az ÁÉKBV-alapkezelő az (1) bekezdés a) pontjában meghatározott tevékenység végzésére köteles. Az ÁÉKBV-alapkezelő önmagában a (2) bekezdésben meghatározott tevékenységek végzésére, az (1) bekezdésben meghatározott tevékenységek végzésére vonatkozó engedély nélkül nem kaphat engedélyt, míg a (2) bekezdés b) és c) pontjában meghatározott tevékenység végzésére vonatkozó engedélyt kizárólag a (2) bekezdés a) pontjában meghatározott tevékenység végzésére jogosító engedély birtokában kaphat. Az ÁÉKBV-alapkezelő az (1) bekezdés c) pontjában meghatározott tevékenységet közvetítőként is végezheti, ebben az esetben nem köteles a (2) bekezdés c) pontjában meghatározott feladatok ellátására.
+(3) Az ÁÉKBV-alapkezelő az (1) bekezdés a) pontjában meghatározott tevékenység végzésére köteles. Az ÁÉKBV-alapkezelő önmagában a (2) bekezdésben meghatározott tevékenységek végzésére, az (1) bekezdésben meghatározott tevékenységek végzésére vonatkozó engedély nélkül nem kaphat engedélyt, míg a (2) bekezdés b) és c) pontjában meghatározott tevékenység végzésére vonatkozó engedélyt kizárólag a (2) bekezdés a) pontjában meghatározott tevékenység végzésére jogosító engedély birtokában kaphat. Az ÁÉKBV-alapkezelő az (1) bekezdés c) pontjában meghatározott tevékenységet közvetítőként is végezheti.
 
 (4) Az ÁÉKBV-alapkezelő az 5. §-ban meghatározott kollektív portfóliókezelési tevékenységet – részére történő kiszervezés útján vagy határon átnyúló szolgáltatás keretén belül – belföldi és külföldi befektetési alapkezelő részére is végezheti. A határon átnyúló szolgáltatás végzését a Felügyeletnek be kell jelenteni.
 

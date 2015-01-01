@@ -4,6 +4,8 @@
 
 (2) Az ABAK-nak megfelelő kockázatkezelési rendszereket kell működtetnie az egyes ABA befektetési stratégiája szempontjából releváns, valamint az egyes ABA-val kapcsolatban ténylegesen vagy potenciálisan fennálló minden kockázat azonosítása, mérése és megfelelő nyomon követése érdekében. Az ABAK-nak évente legalább egyszer felül kell vizsgálnia, és szükség esetén ki kell igazítania a kockázatkezelési rendszerét.
 
+(2a) Az ABAK a kockázatkezelés során – különösen az ABA eszközei hitelminőségének értékelésekor – nem hagyatkozhat kizárólagosan vagy automatikusan a hitelminősítő intézetekről szóló, 1060/2009/EK Európai Parlamenti és Tanácsi rendelet 3. cikke (1) bekezdése b) pontjában meghatározott hitelminősítő intézetek által kiadott hitelminősítésekre. A Felügyelet az ABA tevékenységének jellegét, körét és összetettségét figyelembe véve értékeli az ABAK-ok hitelminősítési eljárásainak megfelelőségét.
+
 (3) Az ABAK kockázatkezelésére vonatkozó minimum-követelmények:
 
 a) megfelelő, dokumentált és rendszeres átvilágítás végrehajtása az ABA nevében történő befektetés esetén, az ABA befektetési stratégiájával, célkitűzéseivel és kockázati profiljával összhangban;

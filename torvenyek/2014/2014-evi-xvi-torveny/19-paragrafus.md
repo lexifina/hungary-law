@@ -12,7 +12,9 @@ d) igazolja, hogy vele szemben a (10) bekezdésében meghatározott kizáró oko
 
 (3) A befektetési alapkezelő ügyvezetőjének, igazgatósága, valamint felügyelőbizottsága elnökének a (2) bekezdésben meghatározott feltételeken kívül az nevezhető ki, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját 30 nappal megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta.
 
-(4) A vezető állású személy és a befektetési alapkezelő köteles a Felügyeletnek haladéktalanul bejelenteni, ha a vezető állású személlyel kapcsolatban az engedély megadását követően kizárási ok merül fel. A vezető állású személy megválasztásához vagy kinevezéséhez megadott engedélyt a Felügyelet visszavonhatja, illetve felfüggesztheti, ha az engedély alapjául szolgáló feltétel az engedély megadását követően megszűnik, illetve ha az engedély megadását követően merül fel kizárási ok. A felfüggesztés időtartama legfeljebb 60 nap lehet, amelynek ideje alatt a vezető állású személy tisztségéhez kötődő jogait nem gyakorolhatja.
+(4) A vezető állású személy és a befektetési alapkezelő köteles a Felügyeletnek haladéktalanul bejelenteni, ha a vezető állású személlyel kapcsolatban az engedély megadását követően kizárási ok merül fel. A vezető állású személy megválasztásához vagy kinevezéséhez megadott engedélyt a Felügyelet visszavonhatja, illetve felfüggesztheti, ha az engedély alapjául szolgáló feltétel az engedély megadását követően megszűnik, illetve ha az engedély megadását követően merül fel kizárási ok.
+
+(4a) Ha a vezető állású személy kinevezésére vagy megválasztására az engedély megszerzésétől számított három hónapon belül nem kerül sor, a vezető állású személy csak ismételt engedélyezést követően nevezhető ki vagy választható meg. Az ismételt engedélyezési eljárásra a (3) bekezdésben meghatározott szabályok alkalmazandók.
 
 (5) A befektetési alapkezelő teljes tevékenységét irányító személy az lehet, aki a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítvány, vagy a személyes joga szerinti ennek megfelelő okirat útján igazolja –, legalább ötéves szakmai gyakorlattal rendelkezik, amelyből legalább 2 év magyarországi szakmai gyakorlat, és nem áll a tevékenységének megfelelő foglalkozástól eltiltó jogerős bírói ítélet hatálya alatt.
 
@@ -52,4 +54,4 @@ c) lakóhelye (tartózkodási helye) vagy székhelye szerinti ország hatósága
 
 (12) A befektetési alapkezelő az (1) és (5)–(7) bekezdésben meghatározott személyek kinevezését, a személyükben bekövetkezett változást a kinevezést vagy a változást követően haladéktalanul, de legkésőbb a kinevezést vagy a változást követő 5 napon belül a Felügyeletnek köteles bejelenteni.
 
-(13) A 2. § (2) bekezdés szerinti kockázati tőkealap-kezelő, illetve magántőkealap-kezelő felügyelő-bizottságának elnökére és tagjára a (2) bekezdés c) pontja nem alkalmazandó.
+(13) A 2. § (2) bekezdés szerinti kockázati tőkealap-kezelő felügyelő-bizottságának elnökére és tagjára a (2) bekezdés c) pontja nem alkalmazandó.

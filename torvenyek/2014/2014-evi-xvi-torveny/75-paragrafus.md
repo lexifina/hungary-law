@@ -30,4 +30,4 @@ c) zárt végű alap esetében az összes befektetési jegy a kezelési szabály
 
 (5) A (2) bekezdés c) és d) pontja szerinti megszűnési eljárást a letétkezelő folytatja le.
 
-(6) Az (5) bekezdéstől eltérően a 2. § (2) bekezdés szerinti ABAK által kezelt kockázati és magántőkealap megszűnésekor felmerülő feladatokat a kockázati, illetve magántőkealap-kezelő, a kockázati, illetve magántőkealap-kezelő akadályoztatása, vagy felszámolása esetén az MNBtv.-ben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság végzi.
+(6) Az (5) bekezdéstől eltérően a 2. § (2) bekezdés szerinti ABAK által kezelt kockázati és magántőkealap megszűnésekor felmerülő feladatokat a kockázati tőkealap-kezelő, a kockázati tőkealap-kezelő akadályoztatása, vagy felszámolása esetén az MNBtv.-ben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság végzi.

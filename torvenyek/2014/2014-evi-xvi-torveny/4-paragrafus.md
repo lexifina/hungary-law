@@ -156,9 +156,9 @@ b) amelyet az éves jelentésében vagy más hivatalos dokumentumban bizonyítot
 
 58. kiemelt befektetői információ: az ÁÉKBV-ről és az egyéb nyilvános nyílt végű befektetési alapról készített, a befektetőknek adandó legfontosabb információkat tartalmazó rövid dokumentum;
 
-59. kockázati tőkealap: olyan zártvégű ABA, melyet vállalkozás-fejlesztés finanszírozásának céljából hoztak létre és befektetési politikája szerint az összesített tőke-hozzájárulása és a le nem hívott tőkéje legalább 70%-át a vállalati fejlődés kezdeti szakaszában lévő kisvállalkozásokba fekteti, amelynek kollektív befektetési értékpapírjait zártkörűen kizárólag szakmai befektetők részére hozzák forgalomba, és amely nem tőkeáttétellel finanszírozott;
+59. kockázati tőkealap: olyan zártvégű ABA, amelyet vállalkozásfejlesztés finanszírozásának céljából hoztak létre és befektetési politikája szerint az összesített tőke-hozzájárulása és a le nem hívott tőkéje legalább 70%-át a vállalati fejlődés kezdeti szakaszában lévő vállalkozásokba fekteti, amelynek kollektív befektetési értékpapírjait zártkörűen kizárólag szakmai befektetők részére hozzák forgalomba, és amely nem tőkeáttétellel finanszírozott;
 
-60. kockázati tőkealap-kezelő: rendszeres gazdasági tevékenységként kizárólag kockázati tőkealapot kezelő ABAK;
+60. kockázati tőkealap-kezelő: rendszeres gazdasági tevékenységként kizárólag kockázati tőkealapot, illetve magántőkealapot kezelő ABAK;
 
 61. kollektív befektetési értékpapír: a kollektív befektetési forma által forgalomba hozott értékpapír, továbbá a kollektív befektetési forma által forgalomba hozott, a kollektív befektetési formában való részvételt tanúsító egyéb okirat;
 
@@ -202,9 +202,9 @@ bc) egyéb intézmény, amelyre prudenciális szabályozás vonatkozik, és foly
 
 69. likvid eszköz: a pénz, a hitelintézettel állampapírra kötött, felmondhatóságában nem korlátozott repó, az átruházhatóságában nem korlátozott, nyilvános árjegyzéssel rendelkező állampapír, a felmondhatóságában nem korlátozott betét, továbbá az átruházhatóságában nem korlátozott, nyilvános árjegyzéssel rendelkező, legfeljebb egyéves hátralévő futamidejű, nyilvánosan forgalomba hozott hitelviszonyt megtestesítő értékpapír;
 
-70. magántőkealap: olyan zártvégű ABA, melyet vállalatok, vállalatrészek felvásárlása finanszírozásának céljából hoztak létre, kollektív befektetési értékpapírjait zártkörűen kizárólag szakmai befektetők részére hozzák forgalomba, és mely nem tőkeáttétellel finanszírozott, valamint az eredeti befektetés időpontját követő öt éven belül nem gyakorolhatók visszaváltási jogok;
+70. magántőkealap: olyan zártvégű ABA, amelyet vállalatok, vállalatrészek megszerzésének finanszírozása (ideértve az akvizíciót is) céljából hoztak létre, kollektív befektetési értékpapírjait zártkörűen kizárólag szakmai befektetők részére hozzák forgalomba, és amely nem tőkeáttétellel finanszírozott, valamint az eredeti befektetés időpontját követő öt éven belül nem gyakorolhatók visszaváltási jogok;
 
-71. magántőkealap-kezelő: rendszeres gazdasági tevékenységként kizárólag magántőkealapot kezelő ABAK;
+71.
 
 72. másodlagos értékpapír: a Tpt.-ben meghatározott fogalom;
 
