@@ -6,7 +6,7 @@
 
 (3) A fenntartó jár el, és hoz másodfokú döntést
 
-a) a jogszabálysértésre hivatkozással benyújtott kérelem, továbbá
+a) a jogszabálysértésre vagy az intézmény belső szabályzatának megsértésére hivatkozással benyújtott kérelem, továbbá
 
 b) az óvodai felvétellel és az óvodából való kizárással, a tanulói jogviszony, valamint a kollégiumi tagsági viszony létesítésével, megszüntetésével, a tanulói fegyelmi ügyekkel kapcsolatban érdeksérelemre hivatkozással benyújtott kérelem
 

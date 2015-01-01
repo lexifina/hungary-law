@@ -1,4 +1,4 @@
-44. § (1) A köznevelés információs rendszere (a továbbiakban: KIR) központi nyilvántartás keretében a nemzetgazdasági szintű tervezéshez szükséges fenntartói, intézményi, foglalkoztatási, gyermek- és tanulói adatokat tartalmazza. A KIR keretében folyó adatkezelés tekintetében az adatkezelő a hivatal.
+44. § (1) A KIR központi nyilvántartás keretében a nemzetgazdasági szintű tervezéshez szükséges fenntartói, intézményi, foglalkoztatási, gyermek- és tanulói adatokat tartalmazza. A KIR keretében folyó adatkezelés tekintetében az adatkezelő a hivatal.
 
 (2) A köznevelési feladatokat ellátó intézmény, a jegyző, a közneveléssel összefüggő igazgatási, ellenőrzési tevékenységet végző közigazgatási szerv és az e törvényben meghatározott feladatok végrehajtásában közreműködő intézményfenntartók, az intézmények és az intézményi tanácsok adatokat szolgáltatnak a KIR-be.
 

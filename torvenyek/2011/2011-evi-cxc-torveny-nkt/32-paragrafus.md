@@ -14,7 +14,7 @@ f) SZMSZ-ében és házirendjében a vallási közösség tanításával összef
 
 g) az f) pont szerint meghatározott kötelességek megszegése, elmulasztása miatt a gyermek, tanuló és a pedagógus ellen fegyelmi eljárás indítható,
 
-h) ha az iskola tananyagában a hittan mint tantárgy szerepel, az állami intézményekre megállapított pedagógus létszámon felül alkalmazott hitoktatónak, hittantanárnak egyházi felsőoktatási intézményben vagy a vallási tevékenységet végző szervezet által fenntartott felsőoktatási intézményben szerzett hitoktatói, hittantanári vagy a hitélettel kapcsolatos felsőfokú képesítéssel és a bevett egyház belső szabálya alapján illetékes egyházi jogi személy vagy a vallási tevékenységet végző szervezet általi megbízással kell rendelkeznie,
+h) és az iskola tananyagában a hittan mint tantárgy szerepel, az állami intézményekre megállapított pedagóguslétszámon felül alkalmazott hitoktatónak, hittantanárnak egyházi felsőoktatási intézményben vagy a vallási tevékenységet végző szervezet által fenntartott felsőoktatási intézményben szerzett hitoktatói, hittantanári vagy a hitélettel kapcsolatos felsőfokú képesítéssel vagy pedagógus szakképzettséggel és az egyházi jogi személy által kibocsátott hitoktatói képesítéssel, továbbá a bevett egyház belső szabálya alapján illetékes egyházi jogi személy vagy a vallási tevékenységet végző szervezet általi megbízással kell rendelkeznie,
 
 i) a nevelési-oktatási intézmény SZMSZ-e, házirendje, valamint a nevelési-oktatási intézmény pedagógiai programja a fenntartó jóváhagyásával válik érvényessé,
 

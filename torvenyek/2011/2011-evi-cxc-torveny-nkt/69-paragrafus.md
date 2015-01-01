@@ -24,7 +24,7 @@ d) önálló költségvetéssel rendelkező intézmény esetében a rendelkezés
 
 e) a nemzeti és iskolai ünnepek munkarendhez igazodó, méltó megszervezéséért,
 
-f) a gyermek- és ifjúságvédelmi feladatok megszervezéséért és ellátásáért,
+f) a gyermek- és ifjúságvédelmi feladatok megszervezéséért és ellátásáért, a gyermekvédelmi jelzőrendszernek a köznevelési intézményhez kapcsolódó feladatai koordinálásáért,
 
 g) a nevelő és oktató munka egészséges és biztonságos feltételeinek megteremtéséért,
 

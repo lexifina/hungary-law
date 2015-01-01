@@ -10,13 +10,13 @@ b) iskolai osztályt, kollégiumi csoportot, óvodai csoportot nem szerveztethet
 
 c) az iskola, kollégium, óvoda feladatait nem változtathatja meg.
 
-(4) A fenntartói jog átadásának tilalmára vonatkozó rendelkezéseket nem kell alkalmazni a fenntartó jogutódlással történő megszűnésekor, az önkormányzatok szétválásával összefüggő vagyonmegosztáskor, az egyéni vállalkozó halálakor, ha van, aki a tevékenység folytatására jogosult.
+(4) A fenntartói jog átadásának tilalmára vonatkozó rendelkezéseket nem kell alkalmazni a fenntartó személyében jogutódlással bekövetkező változás, a fenntartói jog jogszabály alapján történő átadása esetén, az önkormányzatok szétválásával összefüggő vagyonmegosztáskor, az egyéni vállalkozó halálakor, ha van, aki a tevékenység folytatására jogosult.
 
 (5) Az átszervezés tilalmára vonatkozó rendelkezést nem kell alkalmazni, ha a székhely, telephely megváltoztatására azért kerül sor tanítási évben, nevelési évben, mert a már meglévő épületet, helyiséget, területet megfelelő időben nem lehetett birtokba venni, vagy a nevelési-oktatási intézmény által használt épület, helyiség, terület váratlanul alkalmatlanná vált a rendeltetésszerű használatra.
 
 (6) A kormányhivatal engedélyezi a működési engedéllyel rendelkező intézmények fenntartói számára a székhely, telephely változását tanítási évben, nevelési évben más, előre nem látható okból is. Ha a fenntartó három éven belül másodszor kéri előre nem látható okból a székhely-, telephelyváltozás engedélyezését, a kormányhivatalnak le kell folytatnia a 34. § (2) bekezdésében szabályozott törvényességi ellenőrzést.
 
-(7) A fenntartó, az állami intézményfenntartó központ által fenntartott intézmény esetében az oktatásért felelős miniszter legkésőbb az intézkedés tervezett végrehajtása éve májusának utolsó munkanapjáig hozhat döntést
+(7) A fenntartó, az állami intézményfenntartó központ, valamint az állami felsőoktatási intézmény által fenntartott intézmény esetében az oktatásért felelős miniszter legkésőbb az intézkedés tervezett végrehajtása éve májusának utolsó munkanapjáig hozhat döntést
 
 a) a nevelési-oktatási intézmény fenntartói jogának átadásával,
 

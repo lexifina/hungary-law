@@ -1,6 +1,6 @@
 ## 26. A köznevelési intézményekben nyilvántartott és kezelt személyes és különleges adatok
 
-41. § (1) A köznevelési intézmény és a köznevelési feladatot ellátó nem köznevelési intézmény (a továbbiakban: köznevelési feladatokat ellátó intézmény) köteles a jogszabályban előírt nyilvántartásokat vezetni, a köznevelés információs rendszerébe bejelentkezni, valamint az Országos statisztikai adatgyűjtési program keretében előírt adatokat szolgáltatni.
+41. § (1) A köznevelési intézmény és a köznevelési feladatot ellátó nem köznevelési intézmény (a továbbiakban: köznevelési feladatokat ellátó intézmény) köteles a jogszabályban előírt nyilvántartásokat vezetni, a köznevelés információs rendszerébe bejelentkezni, valamint az Országos statisztikai adatgyűjtési program keretében előírt, valamint a lemorzsolódással veszélyeztetett tanulókról összesített adatokat szolgáltatni.
 
 (2) Az egyházi köznevelési intézményben és a magán köznevelési intézményben nyilván kell tartani a közalkalmazotti alapnyilvántartás szerinti adatokat a közalkalmazottak jogállásáról szóló törvényben foglaltak megfelelő alkalmazásával. Minden köznevelési intézmény nyilvántartja a pedagógus oktatási azonosító számát, pedagógusigazolványának számát, a jogviszonya időtartamát és heti munkaidejének mértékét.
 

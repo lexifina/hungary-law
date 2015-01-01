@@ -1,4 +1,4 @@
-57. § (1) A tanuló az iskola magasabb évfolyamába akkor léphet, ha az előírt tanulmányi követelményeket sikeresen teljesítette. Az iskola igazgatója a szülő kérésére legfeljebb egy alkalommal engedélyezheti az iskola első évfolyamának megismétlését, akkor is, ha a tanuló az előírt tanulmányi követelményeket sikeresen teljesítette. Ebben az esetben a megismétlésre kerülő évfolyamról nem kap bizonyítványt a tanuló. A szülő kérésére az iskola magasabb évfolyama is megismételhető legfeljebb egy alkalommal.
+57. § (1) A tanuló az iskola magasabb évfolyamába akkor léphet, ha az előírt tanulmányi követelményeket sikeresen teljesítette. Az iskola igazgatója a szülő kérésére legfeljebb egy alkalommal engedélyezheti az iskola első évfolyamának megismétlését, akkor is, ha a tanuló az előírt tanulmányi követelményeket sikeresen teljesítette. Ebben az esetben csak a megismételt évfolyamról kap bizonyítványt a tanuló.
 
 (2) Az alapfokú művészeti iskola alapfokú évfolyamáról a továbbképző évfolyamba az léphet, aki – jogszabályban meghatározottak szerint szervezett – művészeti alapvizsgát tett.
 

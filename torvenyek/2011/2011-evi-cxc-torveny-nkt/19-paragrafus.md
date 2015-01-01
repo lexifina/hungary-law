@@ -16,7 +16,9 @@ e) a pedagógusok képzésének, továbbképzésének és önképzésének segí
 
 f) a tanulmányi, sport- és tehetséggondozó versenyek szervezése, összehangolása,
 
-g) tanulótájékoztató, -tanácsadó szolgálat.
+g) tanulótájékoztató, -tanácsadó szolgálat,
+
+h) a lemorzsolódással veszélyeztetett tanulók támogatásához kapcsolódó korai jelző- és pedagógiai támogató rendszer működtetése.
 
 (3) A pedagógiai-szakmai szolgáltatás országosan egységes szakmai irányítás mellett
 
@@ -24,7 +26,7 @@ a) az állami köznevelési közfeladat-ellátás keretében,
 
 b) a 2. § (3) bekezdés b) pontjában meghatározott, nevelési-oktatási intézményt fenntartó személy által fenntartott pedagógiai intézetben, továbbá
 
-c) jogszabályban meghatározott feltételek esetén az abban meghatározott eljárási rendben az oktatásért felelős miniszter engedélyével nem köznevelési intézményfenntartóként, illetve nem köznevelési intézményként működő gazdasági társaság szervezet vagy költségvetési szerv által
+c) jogszabályban meghatározott feltételek esetén az abban meghatározott eljárási rendben az oktatásért felelős miniszter engedélyével nem köznevelési intézményfenntartóként, illetve nem köznevelési intézményként működő költségvetési szerv által
 
 nyújtható.
 
@@ -32,4 +34,6 @@ nyújtható.
 
 (5) Az állami köznevelési közfeladat-ellátás keretében a pedagógiai-szakmai szolgáltatásokat az oktatásért felelős miniszter által kijelölt intézmény nyújtja. Az állami fenntartású nevelési-oktatási intézmény a pedagógiai-szakmai szolgáltatásokat az oktatásért felelős miniszter által kijelölt intézménytől veszi igénybe, amely a pedagógiai-szakmai szolgáltatási feladatok ellátásába bevonhatja a (3) bekezdés c) pontjában meghatározott jogi személyeket.
 
-(6) A pedagógiai-szakmai szolgáltatás ellátásának részletes szabályait az oktatásért felelős miniszter rendeletben állapítja meg.
+(5a) Az egyházi és magán köznevelési intézmény a pedagógiai-szakmai szolgáltatást térítésmentesen veheti igénybe olyan pedagógiai-szakmai szolgáltatást nyújtó köznevelési intézménytől, amelynek fenntartója az oktatásért felelős miniszterrel e célból köznevelési szerződést kötött.
+
+(6) A pedagógiai-szakmai szolgáltatás ellátásának részletes szabályait, a térítésmentesen nyújtott pedagógiai-szakmai szolgáltatások ellátásának szintjét az oktatásért felelős miniszter rendeletben állapítja meg.

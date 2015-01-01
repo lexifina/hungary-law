@@ -22,6 +22,8 @@ h) értékeli a nevelési-oktatási intézmény pedagógiai programjában meghat
 
 i) ellenőrzi a pedagógiai programot, a házirendet, valamint a SZMSZ-t.
 
+(2a) Az állami és önkormányzati fenntartású köznevelési intézményekben a Kar által elfogadott Etikai Kódex alkalmazása kötelező. A magán köznevelési intézmény fenntartója a Kar által elfogadott Etikai Kódex általános etikai alapelveinek figyelembevételével megalkotja az általa fenntartott köznevelési intézményekben foglalkoztatott pedagógusokra vonatkozó intézményi etikai kódexet. Az egyházi köznevelési intézmény ajánlásként veszi figyelembe a Kar által elfogadott Etikai Kódex alapelveit.
+
 (3) A fenntartó
 
 a) a köznevelési intézmény megszüntetésével,
@@ -55,6 +57,8 @@ g) az állami fenntartású szakképző iskola esetén a szakképzésért és fe
 h) a működtető önkormányzat
 
 véleményét.
+
+(4a) Ha a fenntartóváltás a települési önkormányzat működtetési kötelezettségét érinti, vagy működtetési kötelezettséget keletkeztet, az érintett települési önkormányzatot egyetértési jog illeti meg a döntés meghozatalakor, kivéve, ha az adott köznevelési intézmény fenntartói jogának az állami intézményfenntartó központ részéről történő átvétele a köznevelési közfeladat-ellátás biztonságos megszervezéséhez elengedhetetlen, vagy annak hiányában a gyermekekre, tanulókra aránytalan teher hárulna.
 
 (5) A (3)–(4) bekezdésben meghatározott vélemény kialakításához minden olyan információt hozzáférhetővé kell tenni a véleményezési joggal rendelkezők részére, amely a fenntartói döntés meghozatalához rendelkezésére áll. A vélemény kialakításához – az információk hozzáférhetővé tételének napjától számítva – legalább tizenöt napot kell biztosítani az érdekeltek részére.
 

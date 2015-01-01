@@ -34,7 +34,7 @@ a) természetes személyazonosító és lakcímadatát,
 
 b) munkahelyét,
 
-c) jogszabályban meghatározott szakterületét,
+c) jogszabályban meghatározott vizsgaterületét,
 
 d) nyilvántartásba-vételi számát,
 

@@ -8,7 +8,7 @@ c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáró
 
 (2) A feltételek meglétét a tanuló nevelési-oktatási intézménybe történő felvételénél igazolni kell.
 
-(3) A nem magyar állampolgár mindaddig, ameddig megfelel az (1) bekezdésben meghatározott feltételeknek, az óvodai nevelést, és – ha a magyar jog szerinti tanköteles kort eléri – az iskolai nevelés-oktatást, a kollégiumi nevelést, a pedagógiai szakszolgálatokat a tankötelezettség fennállása, továbbá a tankötelezettség ideje alatt megkezdett és a tankötelezettség megszűnése után folytatott tanulmányok alatt a magyar állampolgárokkal azonos feltételekkel veheti igénybe.
+(3) A Magyarországon tartózkodó nem magyar állampolgár mindaddig, ameddig megfelel az (1) bekezdésben meghatározott feltételeknek az óvodai nevelést, a kollégiumi ellátást, a pedagógiai szakszolgálatokat, továbbá – ha a magyar jog szerinti tanköteles kort eléri – az iskolai nevelést-oktatást a tankötelezettség fennállása, továbbá a tankötelezettség ideje alatt megkezdett és a tankötelezettség megszűnése után folytatott tanulmányok alatt a magyar állampolgárokkal azonos feltételekkel veheti igénybe.
 
 (4) Az (1) bekezdés a) pontjában felsoroltak az elismerés iránti kérelem benyújtásától kezdődően gyakorolhatják a (3) bekezdésben meghatározott jogokat.
 

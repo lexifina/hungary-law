@@ -12,7 +12,7 @@ b) általános iskolában felvételi vizsga.
 
 (5) Sport- és művészeti emelt szintű oktatás esetében az iskola pedagógiai programja szerint alkalmassági vizsga szervezhető általános iskolában is.
 
-(6) Az általános iskola köteles felvenni, átvenni azt a tanköteles tanulót, akinek lakóhelye, ennek hiányában tartózkodási helye a körzetében található (a továbbiakban: kötelező felvételt biztosító iskola). Ha a településen több általános iskola működik, az egyes általános iskolai körzetet úgy kell meghatározni, hogy kialakíthatóvá váljon a hátrányos helyzetű gyermekek egyenletes aránya a nevelési-oktatási intézményekben.
+(6) Az általános iskola köteles felvenni, átvenni azt a tanköteles tanulót, aki életvitelszerűen az általános iskola körzetében lakik (a továbbiakban: kötelező felvételt biztosító iskola). Ha a településen több általános iskola működik, az egyes általános iskolai körzetet úgy kell meghatározni, hogy kialakíthatóvá váljon a hátrányos helyzetű gyermekek egyenletes aránya a nevelési-oktatási intézményekben.
 
 (7) Az iskolába a tanköteles tanulókat az első évfolyamra - az állami intézményfenntartó központ véleményének kikérésével – a kormányhivatal által meghatározott időszakban kell beíratni. A beiratkozásra meghatározott időt a helyben szokásos módon közzé kell tenni.
 

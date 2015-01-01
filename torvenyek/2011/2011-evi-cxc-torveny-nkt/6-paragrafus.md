@@ -16,7 +16,11 @@ e) kötelezően választandó vizsgatárgy.
 
 (3) A kötelező és a kötelezően választandó mellett további vizsgatárgyakból is tehető érettségi vizsga.
 
-(4) Az érettségi bizonyítvány kiadásának feltétele ötven óra közösségi szolgálat elvégzésének igazolása. A felnőttoktatás keretében szervezett érettségi vizsga esetében közösségi szolgálat végzésének igazolása nélkül is meg lehet kezdeni az érettségi vizsgát. A sajátos nevelési igényű tanulók esetében a szakértői bizottság ez irányú javaslata alapján a közösségi szolgálat mellőzhető.
+(4) A középiskola elvégzését közvetlenül követő érettségi vizsgaidőszakban az érettségi vizsgák megkezdésének feltétele ötven óra közösségi szolgálat elvégzésének igazolása, kivéve
+
+a) a felnőttoktatásban részt vevő tanulókat és
+
+b) azon sajátos nevelési igényű tanulókat, akiket a szakértői bizottság javaslata alapján a közösségi szolgálat alól az igazgató határozatban mentesített.
 
 (5) A szakképző iskolában az Országos Képzési Jegyzékben meghatározott szakképesítések megszerzésére szervezett szakmai vizsga állami vizsga. A tanuló a szakképzés utolsó évfolyama követelményeinek teljesítése után tehet szakmai vizsgát.
 

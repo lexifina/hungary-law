@@ -2,13 +2,15 @@
 
 67. § (1) Nevelési-oktatási intézményben az intézményvezetői megbízás feltétele:
 
-a) az adott nevelési-oktatási intézményben pedagógus-munkakör betöltéséhez szükséges – a 3. mellékletben felsorolt – felsőfokú iskolai végzettség és szakképzettség, középiskolában mesterfokozat,
+a) az adott nevelési-oktatási intézményben pedagógus-munkakör betöltéséhez szükséges – a 3. mellékletben felsorolt – felsőfokú iskolai végzettség és szakképzettség, középiskolában az e törvényben foglaltak szerint pedagógus-munkakör betöltésére jogosító mesterképzésben szerzett szakképzettség,
 
 b) pedagógus-szakvizsga keretében szerzett intézményvezetői szakképzettség,
 
-c) legalább öt év pedagógus-munkakörben szerzett szakmai gyakorlat,
+c) legalább öt év pedagógus-munkakörben vagy heti tíz tanóra vagy foglalkozás megtartására vonatkozó óraadói megbízás ellátása során szerzett szakmai gyakorlat,
 
 d) a nevelési-oktatási intézményben pedagógus-munkakörben fennálló, határozatlan időre, teljes munkaidőre szóló alkalmazás vagy a megbízással egyidejűleg pedagógus-munkakörben történő, határozatlan időre teljes munkaidőre szóló alkalmazás.
+
+(1a) Az (1) bekezdés c) pontja szerinti óraadói megbízás ellátása során szerzett szakmai gyakorlat megállapításakor az egy időben több köznevelési intézménnyel fennálló óraadói megbízási jogviszony keretében ellátott tanórák, foglalkozások számát össze kell adni.
 
 (2) Nem lehet a köznevelési intézmény vezetője a köznevelési intézmény fenntartója, továbbá a köznevelési intézmény fenntartójánál vezető állású munkavállaló vagy vezetői megbízással rendelkező köztisztviselő, közalkalmazott. Ha a köznevelési intézmény fenntartója a nemzetiségi önkormányzat vagy az óvoda fenntartója a települési önkormányzat, ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló képviselő-testület tagjaira. Az egyházi és magánintézmények esetében ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló testület tagjaira.
 
