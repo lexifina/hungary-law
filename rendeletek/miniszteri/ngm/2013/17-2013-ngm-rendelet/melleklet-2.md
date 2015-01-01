@@ -116,9 +116,9 @@
 
 ## a szervezet képviselője
 
-2. melléklet a 17/2013. (VI. 4.) NGM rendelethez
+2. melléklet a 17/2013. (VI. 4.) NGM rendelethez[^5]
 
-NEMZETI MUNKAÜGYI HIVATAL
+Nemzetgazdasági Minisztérium
 
 Szám: ............../20...............
 
@@ -143,3 +143,5 @@ Budapest, 20............................................
 .....................................................
 
 kijelölő
+
+[^5]: A 2. melléklet az 55/2014. (XII. 31.) NGM rendelet 13. § (2) bekezdése szerint módosított szöveg.
