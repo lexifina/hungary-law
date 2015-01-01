@@ -1,6 +1,6 @@
 ## Végleges vagyonmérleg
 
-41. § (1)[^158] Az átalakulás (a jogutód pénztár alapszabálya hatálybalépésének időpontja) napját követő 90 napon belül végleges vagyonleltárral alátámasztott végleges vagyonmérleget kell készíteni és a Felügyeletnek megküldeni mind az átalakuló, mind az átalakulással létrejövő pénztár(ak)ra vonatkozóan.
+41. § (1)[^161] Az átalakulás (a jogutód pénztár alapszabálya hatálybalépésének időpontja) napját követő 90 napon belül végleges vagyonleltárral alátámasztott végleges vagyonmérleget kell készíteni és a Felügyeletnek megküldeni mind az átalakuló, mind az átalakulással létrejövő pénztár(ak)ra vonatkozóan.
 
 (2) A végleges vagyonmérleget és végleges vagyonleltárt a (3)–(4) bekezdések szerinti eltéréssel a 38–40. §-ban foglaltaknak megfelelően kell elkészíteni.
 
@@ -10,10 +10,10 @@
 
 (5) Az az átalakuló pénztár, amely az átalakulás során nem szűnik meg (beolvadásnál az átvevő, kiválásnál a továbbműködő pénztár), a végleges vagyonmérlegét a folyamatos könyvelés adatai alapján készíti el, analitikus és főkönyvi nyilvántartásait nem zárja le, azokat folyamatosan köteles vezetni, az átvett-átadott eszközöket, kötelezettségeket (ideértve a céltartalékokat és az időbeli elhatárolásokat is), ezek különbözeteként a saját tőkét a folyamatos könyvelés keretében rendezi.
 
-(6)[^159] Az átalakulás során megszűnő pénztár a (3) bekezdés szerinti beszámolója mérlegét és eredménykimutatását a közgyűlés jóváhagyását követő 30 napon belül a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt a Nemzetgazdasági Közlönyben köteles közzétenni.
+(6)[^162] Az átalakulás során megszűnő pénztár a (3) bekezdés szerinti beszámolója mérlegét és eredménykimutatását a közgyűlés jóváhagyását követő 30 napon belül a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt a Nemzetgazdasági Közlönyben köteles közzétenni.
 
-(7)[^160] Az internetes honlappal rendelkező pénztár a (3) bekezdés szerinti beszámolóját a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt a közgyűlés jóváhagyását követő 30 napon belül az internetes honlapján is köteles közzétenni.
+(7)[^163] Az internetes honlappal rendelkező pénztár a (3) bekezdés szerinti beszámolóját a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt a közgyűlés jóváhagyását követő 30 napon belül az internetes honlapján is köteles közzétenni.
 
-[^158]: A 41. § (1) bekezdése a 396/2007. (XII. 27.) Korm. rendelet 22. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
-[^159]: A 41. § (6) bekezdését a 236/2003. (XII. 17.) Korm. rendelet 2. §-a iktatta be, szövege a 362/2014. (XII. 30.) Korm. rendelet 16. § 6. pontja szerint módosított szöveg.
-[^160]: A 41. § (7) bekezdését a 236/2003. (XII. 17.) Korm. rendelet 2. §-a iktatta a szövegbe, e módosító rendelet 19. §-ának (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolókra kell alkalmazni.
+[^161]: A 41. § (1) bekezdése a 396/2007. (XII. 27.) Korm. rendelet 22. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
+[^162]: A 41. § (6) bekezdését a 236/2003. (XII. 17.) Korm. rendelet 2. §-a iktatta be, szövege a 362/2014. (XII. 30.) Korm. rendelet 16. § 6. pontja szerint módosított szöveg.
+[^163]: A 41. § (7) bekezdését a 236/2003. (XII. 17.) Korm. rendelet 2. §-a iktatta a szövegbe, e módosító rendelet 19. §-ának (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolókra kell alkalmazni.

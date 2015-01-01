@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-222-20-
 | 2014-01-01 | 2000-222-20-22.19 | 285/2005. (XII. 20.) Korm. rendelet |
 | 2014-09-05 | 2000-222-20-22.20 | 297/2010. (XII. 23.) Korm. rendelet |
 | 2014-12-31 | 2000-222-20-22.21 | 362/2014. (XII. 30.) Korm. rendelet |
+| 2015-01-01 | 2000-222-20-22.22 | 362/2014. (XII. 30.) Korm. rendelet |

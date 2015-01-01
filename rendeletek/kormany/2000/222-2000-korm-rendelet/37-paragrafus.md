@@ -1,5 +1,5 @@
-## 36/A. §[^154]
-
 ## A pénzügyi teljesítmény alakulása kimutatás tagolása, tartalma
 
-[^154]: A 36/A. §-t a 396/2007. (XII. 27.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 342/2011. (XII. 29.) Korm. rendelet 22. § 11. pontja.
+37. §[^158]
+
+[^158]: A 37. §-t a 345/2010. (XII. 28.) Korm. rendelet 11. §-a hatályon kívül helyezte.
