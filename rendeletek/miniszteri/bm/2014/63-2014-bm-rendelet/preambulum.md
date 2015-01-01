@@ -1,0 +1,5 @@
+A munkavédelemről szóló 1993. évi XCIII. törvény 88. § (5b) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 4. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 1. pontjában meghatározott feladatkörében eljáró igazságügyi miniszterrel és a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 6. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben –,
+
+a IV. Fejezet tekintetében a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 9. § (6) bekezdés c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 4. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 1. pontjában meghatározott feladatkörében eljáró igazságügyi miniszterrel egyetértésben –
+
+a következőket rendelem el:

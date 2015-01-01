@@ -1,0 +1,1 @@
+## 9. § A bv. szerv által, a más gazdálkodó szervezetnél történő munkáltatás tárgyában megkötött szerződésben az egészséget nem veszélyeztető és biztonságos munkavégzés feltételeit és a foglalkozás-egészségügyi feladatokat az e rendeletben foglaltak szerint kell rögzíteni.
