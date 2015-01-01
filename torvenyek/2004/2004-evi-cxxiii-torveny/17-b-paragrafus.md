@@ -1,0 +1,1 @@
+17/B. § 2015. január 1-jét követően az ezt megelőző időszakra utólag kifizetett, juttatott jövedelem tekintetében – amennyiben a törvényi feltételek fennálltak – a 2–7/A. §-ban meghatározott kedvezmények érvényesíthetőek.

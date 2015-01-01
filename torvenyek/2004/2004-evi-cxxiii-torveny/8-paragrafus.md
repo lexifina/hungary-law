@@ -14,7 +14,7 @@ III. fejezet
 
 A részmunkaidős foglalkoztatáshoz kapcsolódó kedvezmény
 
-8/B. § (1) A munkaadót a (2)–(6) bekezdésben meghatározottak szerint szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg, ha a gyermekgondozási szabadságról [Mt. 128. §] visszatérő munkavállaló munkakörét – feltéve, hogy e munkavállaló annak időtartama alatt terhességi-gyermekágyi segélyben, gyermekgondozási segélyben vagy gyermekgondozási díjban részesült – közvetlenül a visszatérését követően
+8/B. § (1) A munkaadót a (2)–(6) bekezdésben meghatározottak szerint szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg, ha a gyermekgondozási szabadságról [Mt. 128. §] visszatérő munkavállaló munkakörét – feltéve, hogy e munkavállaló annak időtartama alatt csecsemőgondozási díjban, gyermekgondozási segélyben vagy gyermekgondozási díjban részesült – közvetlenül a visszatérését követően
 
 a) a gyermekgondozási szabadságról visszatérő munkavállaló és emellett
 
