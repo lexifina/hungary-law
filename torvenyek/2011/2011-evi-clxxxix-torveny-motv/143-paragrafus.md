@@ -14,7 +14,9 @@ d) a 16. §-ban meghatározott esetekben az Európai Unió vagy más nemzetközi
 
 e) a helyi önkormányzatok törvényességi felügyeletének részletes szabályait;
 
-f) a helyi önkormányzat tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén a csereügylet kormányhivatal általi jóváhagyására vonatkozó részletes eljárási szabályokat.
+f) a helyi önkormányzat tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén a csereügylet kormányhivatal általi jóváhagyására vonatkozó részletes eljárási szabályokat;
+
+g) a 14/A. § (2) bekezdés b) pontjában foglalt – ennek keretében a közterületek elnevezésénél használható közterületjellegekre vonatkozó – követelményeket és a 14/A. § (2) bekezdés c) pontja szerinti technikai feltételeket.
 
 (2) Felhatalmazást kap a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
 

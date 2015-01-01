@@ -18,4 +18,4 @@ b) annak okát, hogy a kormányhivatal miért tartja a határozathozatali, felad
 
 (5) Ha a helyi önkormányzat a közigazgatási és munkaügyi bíróság által megadott határidőn belül nem tesz eleget határozathozatali kötelezettségének, a kormányhivatal a határidő leteltét követő harminc napon belül kezdeményezheti a közigazgatási és munkaügyi bíróságnál a mulasztás kormányhivatal által történő pótlásának az elrendelését az önkormányzat költségére.
 
-(6) A kormányhivatal kezdeményezésére a közigazgatási és munkaügyi bíróság soron kívüli eljárás keretében pótolja a kormányhivatal vezetője által kijelölt közös önkormányzati hivatalhoz tartozó települések közös önkormányzati hivatalának létrehozására vonatkozó megállapodását.
+(6)

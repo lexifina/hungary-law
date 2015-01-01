@@ -6,7 +6,7 @@ a) ha a jegyző a kormányhivatal felhívása ellenére a megadott határidőn b
 
 b) ha az érintett határidőben nem tesz eleget a kormányhivatal információkérésre irányuló megkeresésének;
 
-c) ha a közigazgatási és munkaügyi bíróság megállapítja, hogy a helyi önkormányzat jogalkotási, határozathozatali, feladat-ellátási (közszolgáltatási) kötelezettségének nem tett eleget és a bíróság által tűzött határidő eredménytelenül eltelt;
+c) ha bíróság megállapítja, hogy a helyi önkormányzat jogalkotási, határozathozatali, feladat-ellátási (közszolgáltatási) kötelezettségének nem tett eleget és a bíróság által tűzött határidő eredménytelenül eltelt;
 
 d) ha a kormányhivatal kezdeményezése alapján a képviselő-testület nem folytatja le határidőben a polgármester, valamint a polgármester a jegyző ellen a fegyelmi eljárást;
 
@@ -14,7 +14,7 @@ e) ha az érintett ugyanazon jogszabályi kötelezettségét ismételten megsér
 
 (2) A törvényességi felügyeleti bírság legkisebb összege esetenként a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap, legmagasabb összege esetenként a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap tízszerese.
 
-(3) A törvényességi felügyeleti bírság ugyanazon kötelezettség ismételt megszegése vagy más kötelezettségszegés esetén ismételten is kiszabható.
+(3) A törvényességi felügyeleti bírság a törvényességi felügyeleti eljárás során többször, vagy ugyanazon kötelezettség ismételt megszegése esetén ismételten is kiszabható. Ugyanazon kötelezettség ismételt megszegésének tekintendő a jogszabálysértő állapot folyamatos fenntartása is.
 
 (4) A törvényességi felügyeleti bírság kiszabásánál a kormányhivatal figyelembe veszi:
 
