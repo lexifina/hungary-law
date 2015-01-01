@@ -1,4 +1,4 @@
-1/C. §[^29] (1) Ha az egészségügyi szakellátási intézményműködtetési kötelezettség nem teljesítése miatt a szakellátási feladat a Tv. 1/A. § (11) bekezdése alapján az állam egészségügyi szakellátási kötelezettségének részévé válik és ezzel egyidejűleg az államra száll a Tv. 1/B. § (1) bekezdésében meghatározott intézmény és egyéb vagyon, az intézmény és a vagyon átvételének lebonyolítását (a továbbiakban: átadás-átvétel) a GYEMSZI végzi.
+1/C. §[^31] (1) Ha az egészségügyi szakellátási intézményműködtetési kötelezettség nem teljesítése miatt a szakellátási feladat a Tv. 1/A. § (11) bekezdése alapján az állam egészségügyi szakellátási kötelezettségének részévé válik és ezzel egyidejűleg az államra száll a Tv. 1/B. § (1) bekezdésében meghatározott intézmény és egyéb vagyon, az intézmény és a vagyon átvételének lebonyolítását (a továbbiakban: átadás-átvétel) a GYEMSZI végzi.
 
 (2) Az átadás-átvételi eljárás levezetője a GYEMSZI főigazgatója által megbízott képviselő (a továbbiakban: átvevő), aki – az érintettekkel egyeztetve – dönt az átadás-átvétel pontos helyéről, időpontjáról, továbbá az átadás-átvétel végrehajtását segítő jelenlévőkről, az átadás-átvétel módjáról, adott esetben a nevében és helyette eljáró meghatalmazott személyről. Az átadás-átvételi eljárás lefolytatása érdekében az önkormányzat képviselője, valamint a Tv. 1/B. § (1) bekezdése alapján átvételre kerülő intézmény képviselője az átvevővel együttműködni, az átvevő által igényelt adatszolgáltatást teljesíteni köteles.
 
@@ -20,4 +20,4 @@ d) a vitás kérdések rögzítése.
 
 (7) A jegyzőkönyv alapjául az átadás-átvétel előkészítése során összeállított dokumentumok szolgálnak. A jegyzőkönyv tartalmi követelményeit a 7. számú melléklet határozza meg, azzal, hogy az átvevő feladatainak ellátása érdekében ezen túlmenő adatok és információk szolgáltatását igényelheti. A jegyzőkönyv mellékletei egy eredeti példányban készülnek, amely tőpéldányok az átvevőnél maradnak, az átadó másolati példányt kap.
 
-[^29]: Az 1/C. §-t a 125/2013. (IV. 26.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^31]: Az 1/C. §-t a 125/2013. (IV. 26.) Korm. rendelet 9. § (3) bekezdése iktatta be.

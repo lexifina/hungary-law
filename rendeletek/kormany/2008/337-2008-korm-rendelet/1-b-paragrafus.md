@@ -1,4 +1,4 @@
-1/B. §[^28] (1) Az egészségügyi szakellátási intézményműködtetési kötelezettségét nem teljesítő önkormányzat (a továbbiakban: önkormányzat), illetve a Tv. 1/A. § (1) bekezdés c) pontja szerinti egészségügyi közszolgáltatásért felelős szerv az egészségügyi szakellátási intézményműködtetési kötelezettség, illetve a szakellátási feladat újbóli teljesítésének, illetve ellátásának tényéről és kezdő időpontjáról legalább 15 nappal korábban tájékoztatja az OTH-t, azzal, hogy a tájékoztatásban meg kell jelölni a teljesítés ismételt megkezdésének időpontját.
+1/B. §[^30] (1) Az egészségügyi szakellátási intézményműködtetési kötelezettségét nem teljesítő önkormányzat (a továbbiakban: önkormányzat), illetve a Tv. 1/A. § (1) bekezdés c) pontja szerinti egészségügyi közszolgáltatásért felelős szerv az egészségügyi szakellátási intézményműködtetési kötelezettség, illetve a szakellátási feladat újbóli teljesítésének, illetve ellátásának tényéről és kezdő időpontjáról legalább 15 nappal korábban tájékoztatja az OTH-t, azzal, hogy a tájékoztatásban meg kell jelölni a teljesítés ismételt megkezdésének időpontját.
 
 (2) Az OTH az (1) bekezdés szerinti tájékoztatás kézhezvételétől számított 5 napon belül ellenőrzi, hogy az egészségügyi szakellátási intézményműködtetési kötelezettség, illetve a szakellátási feladat teljesítése ismételt megkezdésének feltételei biztosítottak-e.
 
@@ -12,4 +12,4 @@
 
 (7) Az OTH a (4)–(6) bekezdés alapján hozott határozatát – annak meghozatalától számított 5 napon belül – megküldi a GYEMSZI-nek és az OEP-nek, valamint tájékoztatja az egészségügyért felelős minisztert.
 
-[^28]: Az 1/B. §-t a 125/2013. (IV. 26.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^30]: Az 1/B. §-t a 125/2013. (IV. 26.) Korm. rendelet 9. § (3) bekezdése iktatta be.

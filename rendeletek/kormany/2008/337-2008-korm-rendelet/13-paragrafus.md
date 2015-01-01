@@ -1,14 +1,14 @@
 ## Többletkapacitás-befogadási eljárás
 
-13. §[^169] (1) A 12. § alapján előzetesen be nem fogadott többletkapacitás befogadására a (2)–(6) bekezdés és a 14–15/A. § alapján lefolytatott eljárás során kerülhet sor.
+13. §[^175] (1) A 12. § alapján előzetesen be nem fogadott többletkapacitás befogadására a (2)–(6) bekezdés és a 14–15/A. § alapján lefolytatott eljárás során kerülhet sor.
 
 (2) A többletkapacitás befogadása iránti kérelmet az egészségügyi szolgáltató fenntartója – egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója esetén a felsőoktatási intézmény vezetője – nyújthatja be az OEP-hez. Ha a fenntartó nem azonos az egészségügyi közszolgáltatásért felelős szervvel, a kérelemhez az egészségügyi közszolgáltatásért felelős szerv ellenjegyzése is szükséges.
 
-(3) A kérelmet két nyomtatott és aláírt példányban, valamint egy elektronikus példányban kell az OEP-hez benyújtani.
+(3)[^176] A kérelmet egy nyomtatott és aláírt példányban, valamint egy elektronikus példányban kell az OEP-hez benyújtani.
 
 (4) A kérelemhez mellékelni kell:
 
-a) az egészségügyi szolgáltató érvényes működési engedélyét, és ha a kérelem tárgyát képező egészségügyi tevékenységre még nem terjed ki a működési engedélye, akkor az egészségügyi szolgáltatónak a fenntartója által jóváhagyott nyilatkozatát arról, hogy a többletkapacitás befogadását követő 15 napon belül benyújtja a működési engedély módosítása iránti kérelmet az egészségügyi államigazgatási szervhez,
+a)[^177] az egészségügyi szolgáltató nyilatkozatát arról, hogy a kérelem tárgyát képező egészségügyi tevékenységre működési engedéllyel már rendelkezik, vagy ha az a kérelem tárgyát képező tevékenységre még nem terjed ki, akkor az egészségügyi szolgáltatónak a nyilatkozatát arról, hogy a többletkapacitás befogadását követő 15 napon belül benyújtja a működési engedély módosítása iránti kérelmet az egészségügyi államigazgatási szervhez,
 
 b) a befogadás szükségességének részletes szakmai indoklását,
 
@@ -22,6 +22,9 @@ d) az Egészségügyi Szakmai Kollégium szakmailag érintett tagozatának véle
 
 (7) Ha a kérelem jogszabályban meghatározott rehabilitációs fekvőbeteg-szakellátások súlyozási szorzójának 3,8 vagy 6,6 mértékre történő emelésére, illetve pszichiátriai és addiktológiai gyermek és felnőtt rehabilitációs ellátás befogadására irányul, az OEP – a (6) bekezdés szerinti előkészítés keretében – megkeresi az OTH-t a jogszabályban meghatározott feltételek fennállásának megállapítása érdekében.
 
-(8) Az OEP a beérkezett kérelmeket véleményezi és azokat a véleményével, az Egészségügyi Szakmai Kollégium érintett tagozatának a véleményével, valamint a (6) bekezdés alapján készített összefoglalóval, továbbá az OTH által a (7) bekezdés szerinti megkeresésre adott állásfoglalással együtt – a TBB soron következő ülését megelőző 5 napon belül – megküldi a TBB tagjainak.
+(8)[^178] Az OEP a beérkezett kérelmeket, a (6) bekezdés alapján készített összefoglalót, továbbá az OTH által a (7) bekezdés szerinti megkeresésre adott állásfoglalást – a TBB soron következő ülését legalább 10 nappal megelőzően – megküldi a TBB tagjainak.
 
-[^169]: A 13. § az 520/2013. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^175]: A 13. § az 520/2013. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^176]: A 13. § (3) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 73. § a) pontja szerint módosított szöveg.
+[^177]: A 13. § (4) bekezdés a) pontja a 364/2014. (XII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^178]: A 13. § (8) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg.
