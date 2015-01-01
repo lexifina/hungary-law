@@ -1,3 +1,0 @@
-48. § (1) A támogatás összege, a támogatási szerződéstől való elállás esetén alkalmazott kamat, valamint a késedelmi kötbér megfizetésére irányuló követelés érvényesítése beszedési megbízás alkalmazásával történik, ha a fizetési felszólítás megküldését követően, az abban foglalt határidőn belül a kedvezményezett nem teljesíti fizetési kötelezettségét.
-
-(2) A 30. § (5) bekezdésében meghatározott kedvezményezettek esetében (a természetes személyek kivételével) a fejezetet irányító szervének, illetve fenntartójának vezetője intézkedik a jogosulatlanul igénybe vett támogatás visszautalásáról vagy visszarendezéséről.
