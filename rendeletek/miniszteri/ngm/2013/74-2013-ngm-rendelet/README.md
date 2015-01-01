@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-74-20-2
 | --- | --- | --- |
 | 2014-01-01 | 2013-74-20-2X.1 | 74/2013. (XII. 30.) NGM rendelet |
 | 2014-01-02 | 2013-74-20-2X.2 | 2010: CXXX. törvény |
+| 2015-01-01 | 2013-74-20-2X.3 | 47/2014. (XII. 30.) NGM rendelet |
