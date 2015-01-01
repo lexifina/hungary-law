@@ -4,9 +4,7 @@
 
 (2) 2018. január 1-jét követően az 5/B. § szerinti rendelkezés megsértése esetén a kereskedelmi hatóság elrendeli az (1) bekezdés hatálya alá eső, jogsértő üzlet azonnali bezárását.”
 
-(2) A Kertv. a következő 11/C. §-sal egészül ki:
-
-„11/C. § A 7/A. §-t a 2016. január 1-je után megvalósuló gazdasági erőfölénnyel való visszaélések fennállása tekintetében kell alkalmazni.”
+(2)
 
 (3) A Kertv. a következő 11/D. §-sal egészül ki:
 
