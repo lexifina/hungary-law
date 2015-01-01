@@ -412,7 +412,7 @@
 
 41. SAJÁT TŐKE
 
-411.[^19] Jegyzett tőke
+411.[^21] Jegyzett tőke
 
 412. Tőketartalék
 
@@ -658,11 +658,9 @@
 
 8672. Költségek (ráfordítások) ellentételezésére adott támogatás, juttatás
 
-8673. Tao által elismert bírságok, kötbérek, késedelmi kamatok, pótlékok, kártérítések
+8673.[^22] Tao által elismert bírságok, kötbérek, késedelmi kamatok, pótlékok, kártérítések, sérelemdíjak
 
-8674. Tao által el nem ismert bírságok, kötbérek, késedelmi kamatok, pótlékok, kártérítések
-
-868. Terven felüli értékcsökkenések, értékvesztések
+8674.[^23] Tao által el nem ismert bírságok, kötbérek, késedelmi kamatok, pótlékok, kártérítések, sérelemdíjak
 
 8681. Immateriális javak terven felüli értékcsökkenése
 
@@ -692,9 +690,9 @@
 
 876. Külföldi pénzértékre szóló eszközök és kötelezettségek árfolyamveszteségei
 
-8761.[^20] Deviza- és valutakészletek forintra átváltásának árfolyamvesztesége
+8761.[^24] Deviza- és valutakészletek forintra átváltásának árfolyamvesztesége
 
-8762.[^21] Külföldi pénzértékre szóló eszközök és kötelezettségek pénzügyileg rendezett árfolyamvesztesége
+8762.[^25] Külföldi pénzértékre szóló eszközök és kötelezettségek pénzügyileg rendezett árfolyamvesztesége
 
 877. Egyéb értékpapír ügyletek veszteségei
 
@@ -812,9 +810,9 @@
 
 976. Külföldi pénzértékre szóló eszközök és kötelezettségek árfolyamnyereségei
 
-9761.[^22] Deviza- és valutakészletek forintra átváltásának árfolyamnyeresége
+9761.[^26] Deviza- és valutakészletek forintra átváltásának árfolyamnyeresége
 
-9762.[^23] Külföldi pénzértékre szóló eszközök és kötelezettségek pénzügyileg rendezett árfolyamnyeresége
+9762.[^27] Külföldi pénzértékre szóló eszközök és kötelezettségek pénzügyileg rendezett árfolyamnyeresége
 
 977. Egyéb értékpapír ügyletek nyereségei
 
@@ -840,8 +838,10 @@
 
 989. Egyéb, vagyonnövekedéssel járó rendkívüli bevételek
 
-[^19]: A 3. melléklet 411. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
-[^20]: A 3. melléklet 8761. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
-[^21]: A 3. melléklet 8762. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
-[^22]: A 3. melléklet 9761. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
-[^23]: A 3. melléklet 9762. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^21]: A 3. melléklet 411. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^22]: A 3. számú melléklet 8673. pontja a 362/2014. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^23]: A 3. számú melléklet 8674. pontja a 362/2014. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^24]: A 3. melléklet 8761. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^25]: A 3. melléklet 8762. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^26]: A 3. melléklet 9761. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^27]: A 3. melléklet 9762. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.

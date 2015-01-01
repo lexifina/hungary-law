@@ -6,7 +6,7 @@
 
 (3) Aktív időbeli elhatárolásként kell kimutatni az olyan költségeket, ráfordításokat, amelyek a mérleg fordulónapját követő két, vagy kettőnél több üzleti évet terhelnek, de a mérleggel lezárt időszakban – illetve az ezt megelőző időszakokban – kerültek költségként, ráfordításként elszámolásra. Ezeket a költségeket, ráfordításokat arra az időszakra kell elszámolni, amelyik időszakhoz kapcsolódnak.
 
-(3a)[^6] Aktív időbeli elhatárolásként kell kimutatni – a (2) bekezdés szerinti kamatbevételek kivételével – az olyan járó bevételeket, amelyek csak a mérleg fordulónapját követő két, vagy kettőnél több év múlva esedékesek, de a mérleggel lezárt időszakra számolandók el. Ezeket a bevételeket arra az időszakra kell elszámolni, amelyik időszakhoz kapcsolódnak.
+(3a)[^7] Aktív időbeli elhatárolásként kell kimutatni – a (2) bekezdés szerinti kamatbevételek kivételével – az olyan járó bevételeket, amelyek csak a mérleg fordulónapját követő két, vagy kettőnél több év múlva esedékesek, de a mérleggel lezárt időszakra számolandók el. Ezeket a bevételeket arra az időszakra kell elszámolni, amelyik időszakhoz kapcsolódnak.
 
 (4) Az aktív időbeli elhatárolások között halasztott ráfordításként kell kimutatni az Szt. 33. § (1) bekezdése szerinti átvállalt kötelezettséget, ha annak összege meghaladja az 1 millió forintot.
 
@@ -16,9 +16,9 @@
 
 (7) Passzív időbeli elhatárolásként kell kimutatni az olyan bevételeket, amelyek a mérleg fordulónapját követő két, vagy kettőnél több üzleti évet illetnek, de a mérleggel lezárt időszakban – illetve az ezt megelőző időszakokban – kerültek bevételként elszámolásra. Ezeket a bevételeket arra az időszakra kell elszámolni, amelyik időszakhoz kapcsolódnak.
 
-(7a)[^7] Passzív időbeli elhatárolásként kell kimutatni – a (2) bekezdés szerinti kamatráfordítások kivételével – az olyan, a mérleg fordulónapja előtti időszakot terhelő költségeket, ráfordításokat, amelyek a mérleg fordulónapját követő két, vagy kettőnél több év múlva merülnek fel. Ezeket a költségeket, ráfordításokat arra az időszakra kell elszámolni, amelyik időszakhoz kapcsolódnak.
+(7a)[^8] Passzív időbeli elhatárolásként kell kimutatni – a (2) bekezdés szerinti kamatráfordítások kivételével – az olyan, a mérleg fordulónapja előtti időszakot terhelő költségeket, ráfordításokat, amelyek a mérleg fordulónapját követő két, vagy kettőnél több év múlva merülnek fel. Ezeket a költségeket, ráfordításokat arra az időszakra kell elszámolni, amelyik időszakhoz kapcsolódnak.
 
 (8) A passzív időbeli elhatárolások között halasztott bevételként kell kimutatni az Szt. 45. § (1) bekezdése szerinti tételt, ha annak rendkívüli bevételként elszámolt összege az 1 millió forintot meghaladja.
 
-[^6]: A 6. § (3a) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 69. § (1) bekezdése iktatta be.
-[^7]: A 6. § (7a) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 69. § (2) bekezdése iktatta be.
+[^7]: A 6. § (3a) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 69. § (1) bekezdése iktatta be.
+[^8]: A 6. § (7a) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 69. § (2) bekezdése iktatta be.

@@ -14,14 +14,15 @@
 
 (8) Jövőbeni költségekre az Szt. 41. § (2) bekezdése szerinti céltartalék nem képezhető.
 
-(9) A magyar határállomás és a külföldi rendeltetési hely közötti útszakaszra jutó szállítási és rakodási-raktározási költséggel az Szt. 74. § (3) bekezdésétől elérően nem lehet csökkenteni az exportértékesítés árbevételét, azt igénybe vett szolgáltatások értékeként kell elszámolni.
+(9)[^5]
 
 (10) A hitelviszonyt megtestesítő értékpapírok eladásakor, beváltásakor az eladási, beváltási árban lévő kamatot az Szt. 84. § (3) bekezdés a) pontjától és (5) bekezdés a) pontjától eltérően nem kell külön, kapott kamatként kimutatni.
 
 (11) A kapcsolt vállalkozásokkal, egyéb részesedési viszonyban lévő vállalkozásokkal kapcsolatos információkat – a 4. § (3) bekezdés c) pontjában meghatározott kivétellel – a mikrogazdálkodói beszámolóban nem kell külön bemutatni.
 
-(12)[^5] Az Szt. 86. § (5) bekezdésének második mondata szerinti halasztott bevétel-megszüntetés nem alkalmazható.
+(12)[^6] Az Szt. 86. § (5) bekezdésének második mondata szerinti halasztott bevétel-megszüntetés nem alkalmazható.
 
 [^3]: Az 5. § (1) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 76. § 1. pontja szerint módosított szöveg.
 [^4]: Az 5. § (3) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 5. § (12) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 68. § (2) bekezdése iktatta be.
+[^5]: Az 5. § (9) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 56. §-a hatályon kívül helyezte.
+[^6]: Az 5. § (12) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 68. § (2) bekezdése iktatta be.
