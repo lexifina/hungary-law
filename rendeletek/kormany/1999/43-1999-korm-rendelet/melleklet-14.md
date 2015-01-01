@@ -1,4 +1,4 @@
-14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^555]
+14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^553]
 
 „ADATLAP kórházi (osztályos) ápolási esetről
 
@@ -120,4 +120,64 @@ Annak a szakmának a kódja, amelyen a beteg ellátása történik
 
 4. Térítési kategória
 
-[^555]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a, a 447/2012. (XII. 29.) Korm. rendelet 27. § (4) bekezdése és 29. § i) pontja, a 254/2013. (VII. 5.) Korm. rendelet 26. § (2) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (3) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.
+1. magyar biztosítás alapján végzett térítésmentes ellátás
+
+2. magyar biztosítással nem rendelkező menekült ellátása
+
+3. államközi szerződés alapján végzett sürgős ellátás
+
+4. egyéb, magyar biztosítással nem rendelkező vagy más hatályos rendelkezés alapján az egészségbiztosítás terhére el nem számolható ellátást igénybe vevő személyek térítésköteles ellátása
+
+5. magyar biztosítással nem rendelkező menedékes ellátása
+
+9. külföldön élő magyarok központi költségvetésből támogatott ellátása
+
+A. befogadott külföldi állampolgár
+
+D. menekült, menedékes státuszt kérelmező
+
+E. elszámoláson alapuló nemzetközi szerződés alapján történő ellátás, Közösségi szabály alapján történő ellátás
+
+F. magyar biztosítással rendelkező betegnek az Ebtv. 18. § (6) bekezdésének l) pontja szerinti, kizárólag orvosbiológiai kutatás keretében végzett beavatkozást is tartalmazó ellátása
+
+G. magyar biztosítással rendelkező betegnek az Ebtv. 18. § (6) bekezdésének l) pontja szerinti, kizárólag orvosbiológiai kutatás keretében végzett beavatkozása miatt bekövetkezett szövődmény ellátása
+
+H. harmadik országbeli állampolgárnak a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 140. §-a szerinti ellátása
+
+K. külföldi donor ellátása
+
+M. magyar biztosítás alapján méltányosságból átvállalt térítés ellenében végzett ellátás
+
+R. magyar biztosítás alapján, az Ebtv. 23. §-a szerint részleges térítés ellenében végzett ellátás
+
+S. Magyarország területén tartózkodó beteg 4. § (10) és (11) bekezdése szerinti, más forrásból meg nem térülő sürgősségi ellátása
+
+T. uniós beteg részére magyar egészségügyi szolgáltató által határon átnyúló egészségügyi ellátás keretében végzett ellátás
+
+V. magyar biztosított külföldi ellátása a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alapján
+
+Y. magyar biztosított külföldi ellátása a határon átnyúló egészségügyi ellátás keretében
+
+W. magyar biztosítás alapján magyarországi szolgáltató által a külföldön történő gyógykezelések részletes szabályairól szóló 340/2013. (IX. 25.) Korm. rendelet 5. § (3) bekezdése szerint végzett ellátás
+
+0. élsportoló speciális ellátása
+
+4/A. Részleges térítés jogcíme
+
+Az alábbi nyolc közül amelyik jogcímek fennállnak, azoknak a mezőjébe kell az adott kódot beírni:
+
+A. az ellátást végző orvos megválasztása
+
+B. biztosított beutaló nélküli ellátása
+
+C. beutalási rendtől eltérő igénybevétel
+
+H. külsődleges nemi jellegek megváltoztatása
+
+4/B. Részleges térítési díj összege (Ft)
+
+R térítési kategória esetén a maximum érték eléréséig kitöltése kötelező
+
+5. Személyazonosító típusa
+
+[^553]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a, a 447/2012. (XII. 29.) Korm. rendelet 27. § (4) bekezdése és 29. § i) pontja, a 254/2013. (VII. 5.) Korm. rendelet 26. § (2) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (3) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.

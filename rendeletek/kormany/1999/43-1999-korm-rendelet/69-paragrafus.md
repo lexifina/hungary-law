@@ -1,6 +1,3 @@
-69. §[^518] (1) Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 447/2012. (XII. 29.) Korm. rendelettel megállapított 27. § (9a) bekezdését az annak hatálybalépésekor[^519] folyamatban lévő ügyekre is alkalmazni kell, azzal, hogy az ügy folyamatban lévőnek minősül annak a hónapnak a végéig, amelyik hónapban az átcsoportosított TVK terhére elszámolt teljesítmény az érintett szolgáltató részére kifizetésre került.
+## 68. §[^514]
 
-(2) Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 447/2012. (XII. 29.) Korm. rendelettel megállapított 35. § (13) bekezdése szerinti díjak első alkalommal a 2012. november havi teljesítmények alapján 2013 januárjában kerülnek kifizetésre.
-
-[^518]: A 69. §-t a 447/2012. (XII. 29.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^519]: A hatálybalépés napja: 2012. december 30.
+[^514]: A 68. §-t a 338/2012. (XII. 4.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § i) pontja.

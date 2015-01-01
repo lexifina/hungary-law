@@ -1,3 +1,3 @@
-## 65. §[^514] Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 259/2012. (IX. 14.) Korm. rendelettel megállapított 23. § (1) és (3)–(4) bekezdésében foglaltakat a 2012. november havi kifizetésektől kell alkalmazni.
+## 65. §[^511]
 
-[^514]: A 65. §-t a 259/2012. (IX. 14.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^511]: A 65. §-t a 259/2012. (IX. 14.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § h) pontja.

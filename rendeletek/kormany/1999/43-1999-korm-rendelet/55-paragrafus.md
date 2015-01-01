@@ -1,3 +1,3 @@
-## 54. §[^485] Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 166/2010. (V. 11.) Korm. rendelet 2. §-ával megállapított 12/A. § szerinti díjat első alkalommal a 2010. október havi kifizetéseknél kell utalványozni.
+## 54. §[^493]
 
-[^485]: Az 54. §-t a 166/2010. (V. 11.) Korm. rendelet 9. §-a iktatta be.
+[^493]: Az 54. §-t a 166/2010. (V. 11.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § e) pontja.

@@ -22,7 +22,7 @@
 
 ## ** FTE = teljes 40 órás munkaidőre számított heti munkaidő aránya
 
-## *** 4/A. pont szerinti szakdolgozónak minősül: dietetikus, egészségtan tanár, ergoterapeuta, gyógytestnevelő, gyógytornász, humánkineziológus, konduktor, logopédus, mentálhigiénikus, pszichológus, okleveles rehabilitációs szakember, szociális munkás, szociálpedagógus, szomatopedagógus, egyéb gyógypedagógus, fizioterápiás szakasszisztens, kardiológiai szakasszisztens a kardiológiai és légzés rehabilitáció esetében, diabetológiai szakápoló a belgyógyászati és gastroenterológiai rehabilitáció esetében.
+## *** 4/A. pont szerinti szakdolgozónak minősül: dietetikus, egészségtan tanár, ergoterapeuta, gyógytestnevelő, gyógytornász, humánkineziológus, konduktor, logopédus, mentálhigiénikus, pszichológus, okleveles rehabilitációs szakember, szociális munkás, szociálpedagógus, szomatopedagógus, egyéb gyógypedagógus, fizioterápiás szakasszisztens, kardiológiai szakasszisztens a kardiológiai és légzés rehabilitáció esetében.
 
 ## **** Az igazolt 5 éves szakmai gyakorlat a szakvizsga megszerzésétől számított idő, illetve rehabilitációs osztályon folytatott szakmai tevékenység alapján állapítható meg.
 
@@ -72,6 +72,6 @@
 
 ## A halálozás és az átlagos ápolási idő tekintetében az november 1. és október 31. közötti időszak tekintendő a finanszírozási év adatának.
 
-9. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^549]
+9. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^546]
 
-[^549]: A 9. számú melléklet a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (8) bekezdésével megállapított, valamint a 112/2004. (IV. 28.) Korm. rendelet 14. §-ának (8) bekezdése, a 329/2005. (XII. 29.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^546]: A 9. számú melléklet a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (8) bekezdésével megállapított, valamint a 112/2004. (IV. 28.) Korm. rendelet 14. §-ának (8) bekezdése, a 329/2005. (XII. 29.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg.

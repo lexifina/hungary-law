@@ -1,3 +1,3 @@
-8. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^547]
+8. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^544]
 
-[^547]: A 8. számú melléklet a 365/2010. (XII. 30.) Korm. rendelet 13. § (4) bekezdésével megállapított, a 227/2011. (X. 28.) Korm. rendelet 6. § (1) bekezdése, a 137/2012. (VI. 29.) Korm. rendelet 21. § (2) bekezdése, a 254/2013. (VII. 5.) Korm. rendelet 26. § (1) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (4) bekezdése, a 40/2014. (II. 24.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^544]: A 8. számú melléklet a 365/2010. (XII. 30.) Korm. rendelet 13. § (4) bekezdésével megállapított, a 227/2011. (X. 28.) Korm. rendelet 6. § (1) bekezdése, a 137/2012. (VI. 29.) Korm. rendelet 21. § (2) bekezdése, a 254/2013. (VII. 5.) Korm. rendelet 26. § (1) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (4) bekezdése, a 40/2014. (II. 24.) Korm. rendelet 10. § (2) bekezdése, a 364/2014. (XII. 30.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg.

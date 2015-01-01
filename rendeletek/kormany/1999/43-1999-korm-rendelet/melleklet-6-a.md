@@ -1,28 +1,28 @@
-| millió forint |
+|  |  |  | millió forint |
 
-|  | Megnevezés | 2014. évi Módosított előirányzat |
+|  | Megnevezés | 2015. évi |
+
+|  | előirányzat |
 
 |  | Háziorvosi, háziorvosi ügyeleti ellátás |  |
 
-|  | Praxisfinanszírozás | 86 292,0 |
+|  |  | Praxisfinanszírozás | 86 292,0 |
 
-|  | Eseti ellátás díjazása | 649,3 |
+|  |  | Eseti ellátás díjazása | 649,3 |
 
-|  | Ügyeleti szolgálat | 10 106,2 |
+|  |  | Ügyeleti szolgálat | 10 106,2 |
 
 | 1. | Háziorvosi, háziorvosi ügyeleti ellátás összesen | 97 047,5 |
 
-|  | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem |  |
+|  |  | Iskolaegészségügyi ellátás | 2 217,1 |
 
-|  | Iskolaegészségügyi ellátás | 2 217,1 |
+|  |  | Védőnői ellátás | 19 529,8 |
 
-|  | Védőnői ellátás | 19 529,8 |
+|  |  | Anya-, gyermek- és csecsemővédelem | 483,4 |
 
-|  | Anya-, gyermek- és csecsemővédelem | 483,4 |
+|  |  | MSZSZ: gyermekgyógyászat | 121,6 |
 
-|  | MSZSZ: gyermekgyógyászat | 121,6 |
-
-|  | MSZSZ: nőgyógyászat | 96,3 |
+|  |  | MSZSZ: nőgyógyászat | 96,3 |
 
 | 2. | Védőnő, anya-, gyermek- és ifjúságvédelem összesen | 22 448,2 |
 
@@ -32,57 +32,59 @@
 
 | 8. | Művesekezelés | 23 171,1 |
 
-| 9. | Otthoni szakápolás | 4 479,8 |
+| 9. | Otthoni szakápolás | 4 596,8 |
 
 | 11. | Működési költségelőleg | 2 000,0 |
 
 |  | Célelőirányzatok |  |
 
-|  | Bázisfinanszírozott fekvőbeteg szakellátás | 8,9 |
+|  |  | Bázisfinanszírozott fekvőbeteg szakellátás | 8,9 |
 
-|  | Méltányossági alapon történő térítések | 5 611,3 |
+|  |  | Méltányossági alapon történő térítések | 5 611,3 |
 
-|  | Alapellátási vállalkozás támogatási átalánydíj | 3 160,8 |
+|  |  | Alapellátási vállalkozás támogatási átalánydíj | 60,0 |
 
-|  | Tartósan betöltetlen háziorvosi körzetek betöltésének, valamint háziorvosi szolgálatok együttműködésének támogatása | 750,0 |
+|  |  | Tartósan betöltetlen háziorvosi körzetek betöltésének, valamint háziorvosi szolgálatok együttműködésének támogatása | 750,0 |
 
-|  | Tervezett külföldi ellátások orvosi felülvizsgálata | 100,0 |
+|  |  | Tervezett külföldi ellátások orvosi felülvizsgálata | 20,0 |
 
-|  | Egészségügyi dolgozók béremelésének fedezete | 53 486,9 |
+|  |  | Egészségügyi dolgozók béremelésének fedezete | 53 486,9 |
 
-|  | Az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése | 7 800,0 |
+|  |  | Az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése | 7 800,0 |
 
-|  | Működési támogatás | 11 835,5 |
+| 13. | Célelőirányzatok összesen | 67 737,1 |
 
-| 13. | Célelőirányzatok összesen | 82 753,4 |
+| 15. | Mentés | 29 471,2 |
 
-| 15. | Mentés | 29 238,3 |
-
-| 17. | Laboratóriumi ellátás | 21 118,5 |
+| 17. | Laboratóriumi ellátás | 21 191,3 |
 
 |  | Összevont szakellátás |  |
 
-|  | Járóbeteg-szakellátás | 123 254,2 |
+|  |  | Járóbeteg szakellátás | 123 419,1 |
 
-| Fekvőbeteg-szakellátás | 422 470,2 |
+|  |  | Fekvőbeteg szakellátás | 428 835,5 |
 
-| – aktív fekvőbeteg-szakellátás | 358 823,9 |
+|  |  | – aktív fekvőbeteg szakellátás | 359 986,3 |
 
-| – krónikus fekvőbeteg-szakellátás | 62 646,3 |
+|  |  | – krónikus fekvőbeteg szakellátás | 62 849,2 |
 
-| – bázis finanszírozású szakellátás (BvOP) | 1 000,0 |
+|  |  | – bázis finanszírozású szakellátás (BVOP) | 1 000,0 |
 
-| Extrafinanszírozás | 500,0 |
+|  |  | – várólista csökkentés és egyéb szakmapolitikai célok fedezete | 5 000,0 |
 
-| Speciális finanszírozású szakellátás | 75 045,3 |
+|  |  | Extrafinanszírozás | 500,0 |
 
-| 18. | Összevont szakellátás összesen | 621 269,7 |
+|  |  | Speciális finanszírozású szakellátás | 76 069,1 |
 
-| 21. | Gyógyító-megelőző ellátás céltartalék | 0,0 |
+| 18. | Összevont szakellátás összesen | 628 823,7 |
 
-| Összesen | 935 670,2 |
+| 21. | Gyógyító-megelőző ellátás céltartalék | 10 000,0 |
 
-6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^543]
+| 22. | Háziorvosi ellátórendszer megújításának I. üteme | 10 000,0 |
+
+| Összesen | 948 630,6 |
+
+6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^540]
 
 ## Ambuláns adatlap
 
@@ -552,4 +554,4 @@ A felírt gyógyászati ellátás vények számát kell megadni
 
 39.
 
-[^543]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdése és 19. § (1) bekezdés e) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (1) bekezdése, a 106/2011. (VI. 30.) Korm. rendelet 7. § (1) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (1) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés i) pontja, a 447/2012. (XII. 29.) Korm. rendelet 27. § (2) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (1) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^540]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdése és 19. § (1) bekezdés e) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (1) bekezdése, a 106/2011. (VI. 30.) Korm. rendelet 7. § (1) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (1) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés i) pontja, a 447/2012. (XII. 29.) Korm. rendelet 27. § (2) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (1) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
