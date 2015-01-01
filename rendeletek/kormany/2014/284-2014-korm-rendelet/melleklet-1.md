@@ -1,3 +1,3 @@
-1–3. melléklet a 284/2014. (XI. 20.) Korm. rendelethez[^17]
+1. melléklet a 284/2014. (XI. 20.) Korm. rendelethez[^10]
 
-[^17]: Az 1–3. melléklet a 25. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^10]: Az 1. melléklet 5. és 7. pontja a 397/2014. (XII. 31.) Korm. rendelet 50. § 1. pontja alapján nem lép hatályba.

@@ -1,6 +1,7 @@
-24. § (1)[^15]
+## lép.
 
-(2)[^16]
+24. § (1)[^9]
 
-[^15]: A 24. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 24. § (2) bekezdése a 25. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+(2) Hatályát veszti az Áhsz. 48. § (11) bekezdése és 49. § (1)–(3) bekezdése.
+
+[^9]: A 24. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
