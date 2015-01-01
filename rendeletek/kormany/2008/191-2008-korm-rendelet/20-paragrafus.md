@@ -1,5 +1,9 @@
-20. § (1)[^139] A fenntartó a visszafizetendő működési támogatás összege után – a (2) bekezdés szerinti kivétellel – a folyósítás időpontjától a visszafizetés időpontjáig – részletfizetési kedvezmény vagy részletekben történő levonás engedélyezése esetén az engedélyezés napjáig – terjedő időre kamatot fizet. A kamat éves mértéke a jegybanki alapkamat kétszerese. A fizetendő kamat számításakor az érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamat irányadó az adott naptári félév teljes idejére.
+20. §[^144] (1) A működési támogatás visszakövetelésére és a kamat követelésére a Hivatal jogosult. A követelést a fenntartóval írásban kell közölni, egyidejűleg a fenntartót figyelmeztetni kell a jogkövetkezményekre.
 
-(2) Nem kell kamatot fizetni a 19. § (2) bekezdése szerinti esetben, ha a teljesített feladatmutató eléri a vállalt feladatmutató 90 százalékát és a kötelezően teljesítendő feladatmutatót.
+(2) Ha a visszafizetendő támogatás és a fizetendő kamat együttes összege nem éri el az ezer forintot, a tartozást nem kell nyilvántartani és megfizetni.
 
-[^139]: A 20. § (1) bekezdése a 140/2011. (VII. 21.) Korm. rendelet 12. §-a szerint módosított szöveg.
+(3) A Hivatal a visszafizetésre kötelezett írásban benyújtott, részletes indokolást tartalmazó kérelmére fizetési kedvezményt engedélyezhet. A fizetési kedvezmény időtartama a 12 hónapot nem haladhatja meg. Ha a fenntartó a Hivatal által meghatározott feltételeket nem teljesíti, a Hivatal a fizetési kedvezményt visszavonja.
+
+(4) A működési támogatás visszaköveteléséről, a követelt kamatról, valamint a fizetési kedvezmény engedélyezéséről és visszavonásáról a Hivatal haladéktalanul értesíti a folyósító igazgatóságot.
+
+[^144]: A 20. § a 353/2014. (XII. 29.) Korm. rendelet 56. §-ával megállapított szöveg.

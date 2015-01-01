@@ -1,52 +1,52 @@
 ## A finanszírozási szerződés megkötése
 
-10. § (1)[^68] A finanszírozási szerződést a Hivatal és a fenntartó köti meg. A finanszírozási szerződésben
+10. § (1)[^71] A finanszírozási szerződést a Hivatal és a fenntartó köti meg. A finanszírozási szerződésben
 
-a)[^69] a Hivatal kötelezettséget vállal arra, hogy a fenntartónak a szolgáltatás működési kiadásaihoz működési támogatást biztosít,
+a)[^72] a Hivatal kötelezettséget vállal arra, hogy a fenntartónak a szolgáltatás működési kiadásaihoz működési támogatást biztosít,
 
 b) a fenntartó kötelezettséget vállal arra, hogy a szolgáltatást a jogszabályokban és a finanszírozási szerződésben meghatározottaknak megfelelően biztosítja.
 
-(2)[^70] A finanszírozási szerződés megkötésének feltétele az alábbi iratok benyújtása:
+(2)[^73] A finanszírozási szerződés megkötésének feltétele az alábbi iratok benyújtása:
 
-a)[^71] a pályázó és – ha a szolgáltató jogi személy – a szolgáltató nyilatkozata arról, hogy nincs köztartozása;
+a)[^74] a pályázó és – ha a szolgáltató jogi személy – a szolgáltató nyilatkozata arról, hogy nincs köztartozása;
 
-b)[^72]
+b)[^75]
 
-c)[^73] a fenntartó – a (2a) bekezdés kivételével – írásbeli képviseletére jogosult személy, illetve az egyéni vállalkozó fenntartó közjegyzői aláírás-hitelesítéssel ellátott címpéldányát, vagy pénzforgalmi szolgáltató által hitelesített pénzforgalmi szolgáltatói aláírási címpéldány;
+c)[^76] a fenntartó – a (2a) bekezdés kivételével – írásbeli képviseletére jogosult személy, illetve az egyéni vállalkozó fenntartó közjegyzői aláírás-hitelesítéssel ellátott címpéldányát, vagy pénzforgalmi szolgáltató által hitelesített pénzforgalmi szolgáltatói aláírási címpéldány;
 
 d) állami fenntartó esetén a fenntartót képviselő személy képviseleti jogosultságának igazolása;
 
-e)[^74] a társulási szerződés másolata, ha a fenntartó önkormányzati társulás;
+e)[^77] a társulási szerződés másolata, ha a fenntartó önkormányzati társulás;
 
-f)[^75]
+f)[^78]
 
-g)[^76] a fenntartó bírósági nyilvántartásba bejegyzett hatályos adatairól kiadott, három hónapnál nem régebbi kivonat, ha a fenntartó egyesület, alapítvány vagy közalapítvány;
+g)[^79] a fenntartó bírósági nyilvántartásba bejegyzett hatályos adatairól kiadott, három hónapnál nem régebbi kivonat, ha a fenntartó egyesület, alapítvány vagy közalapítvány;
 
-h)[^77] egyházi fenntartó esetén az egyházi jogi személy nyilvántartásba vételéről szóló igazolást vagy nyilvántartásba nem vett belső egyházi jogi személyről a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolást;
+h)[^80] egyházi fenntartó esetén az egyházi jogi személy nyilvántartásba vételéről szóló igazolást vagy nyilvántartásba nem vett belső egyházi jogi személyről a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolást;
 
-i)[^78] egyéni vállalkozó fenntartó esetén az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, három hónapnál nem régebbi hatósági bizonyítvány;
+i)[^81] egyéni vállalkozó fenntartó esetén az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, három hónapnál nem régebbi hatósági bizonyítvány;
 
-j)[^79] azon magyarországi vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező pénzforgalmi szolgáltató által vezetett fizetési számla szerződése vagy annak közjegyző által hitelesített, illetve a pénzintézet által ellenjegyzett másolata, amelyre a fenntartó a működési támogatás folyósítását kéri;
+j)[^82] azon magyarországi vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező pénzforgalmi szolgáltató által vezetett fizetési számla szerződése vagy annak közjegyző által hitelesített, illetve a pénzintézet által ellenjegyzett másolata, amelyre a fenntartó a működési támogatás folyósítását kéri;
 
-k)[^80] a fenntartó nyilatkozata arról, hogy nem áll csőd-, felszámolási, végelszámolási, kényszer-végelszámolási, törlési, kényszertörlési, adósságrendezési, illetve a működését ellehetetlenítő végrehajtási eljárás alatt;
+k)[^83] a fenntartó nyilatkozata arról, hogy nem áll csőd-, felszámolási, végelszámolási, kényszer-végelszámolási, törlési, kényszertörlési, adósságrendezési, illetve a működését ellehetetlenítő végrehajtási eljárás alatt;
 
-l)[^81]
+l)[^84]
 
-m)[^82] a fenntartó nyilatkozata a számlavezető pénzforgalmi szolgáltatóiról, továbbá beszedési megbízás benyújtására vonatkozó felhatalmazás, valamint a pénzforgalmi szolgáltatók, illetve kincstári számlavezetés esetén a Magyar Államkincstár igazolása arról, hogy a fenntartótól befogadták a jogszabályban foglaltaknak megfelelő felhatalmazó levelet, amelyben a fenntartó elismeri, hogy a Hivatal jogosult a fizetési számlája terhére beszedési megbízást benyújtani;
+m)[^85] a fenntartó nyilatkozata a számlavezető pénzforgalmi szolgáltatóiról, továbbá beszedési megbízás benyújtására vonatkozó felhatalmazás, valamint a pénzforgalmi szolgáltatók, illetve kincstári számlavezetés esetén a Magyar Államkincstár igazolása arról, hogy a fenntartótól befogadták a jogszabályban foglaltaknak megfelelő felhatalmazó levelet, amelyben a fenntartó elismeri, hogy a Hivatal jogosult a fizetési számlája terhére beszedési megbízást benyújtani;
 
-n)[^83]
+n)[^86]
 
 o) a fenntartó nyilatkozata arról, hogy a tárgyévet megelőző 5 évben kapott állami támogatásokkal elszámolt, vagy határidőre el fog számolni;
 
 p) a fenntartó nyilatkozata az elszámolás alapjául szolgáló dokumentumok fellelhetőségéről, illetve annak változása esetén a változás bejelentésének kötelezettségéről;
 
-q)[^84]
+q)[^87]
 
-r)[^85]
+r)[^88]
 
-(2a)[^86] Ha a fenntartó cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hivatal az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(2a)[^89] Ha a fenntartó cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hivatal az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(3)[^87] A (2) bekezdés szerinti dokumentumokat a pályázati döntésről szóló értesítés tárhelyre érkezését, a szolgáltatói nyilvántartásba nem vagy nem a döntésnek megfelelően bejegyzett szolgáltató esetén – a Biztos Kezdet Gyerekház kivételével – a bejegyzés, illetve az adatmódosítás jogerőre emelkedését követő 20 napon belül kell a Hivatalnak megküldeni.
+(3)[^90] A (2) bekezdés szerinti dokumentumokat a pályázati döntésről szóló értesítés tárhelyre érkezését, a szolgáltatói nyilvántartásba nem vagy nem a döntésnek megfelelően bejegyzett szolgáltató esetén – a Biztos Kezdet Gyerekház kivételével – a bejegyzés, illetve az adatmódosítás jogerőre emelkedését követő 20 napon belül kell a Hivatalnak megküldeni.
 
 (4) A finanszírozási szerződést általános pályázat esetén a teljes finanszírozási időszakra, egyéb esetben a pályázati kiírásban meghatározott időponttól a finanszírozási időszak végéig terjedő időre kell megkötni.
 
@@ -56,13 +56,13 @@ r)[^85]
 
 a) a fenntartó nevét, székhelyét, adószámát és annak a számlájának a számát, amelyre a működési támogatás folyósítását kéri,
 
-b)[^88] a szolgáltató nevét, székhelyét, illetve telephelyét és ágazati azonosítóját,
+b)[^91] a szolgáltató nevét, székhelyét, illetve telephelyét és ágazati azonosítóját,
 
 c) a működési támogatás alapjául szolgáló ellátási területet,
 
-d)[^89] a szolgáltatás megnevezését, krízisközpont esetén a szolgáltatás tartalmát,
+d)[^92] a szolgáltatás megnevezését, krízisközpont esetén a szolgáltatás tartalmát,
 
-e)[^90] támogató szolgáltatás és közösségi alapellátások esetén a kötelezően teljesítendő és az első költségvetési évre vállalt feladatmutatót, a feladatmutató számításának módját,
+e)[^93] támogató szolgáltatás és közösségi alapellátások esetén a kötelezően teljesítendő és az első költségvetési évre vállalt feladatmutatót, a feladatmutató számításának módját,
 
 f) az első költségvetési évre meghatározott működési támogatás összegét,
 
@@ -76,7 +76,7 @@ j) a finanszírozási szerződés kezdetének és megszűnésének időpontját,
 
 k) a finanszírozási szerződés módosításának és felmondásának eseteit és módját,
 
-l)[^91] a fenntartó bejelentési kötelezettségét, a krízisközpont és a Biztos Kezdet Gyerekház kivételével ideértve az országos jelentési rendszerbe történő adatszolgáltatási kötelezettséget,
+l)[^94] a fenntartó bejelentési kötelezettségét, a krízisközpont és a Biztos Kezdet Gyerekház kivételével ideértve az országos jelentési rendszerbe történő adatszolgáltatási kötelezettséget,
 
 m) a kötelezően vezetendő dokumentumok körét és a dokumentálás módját,
 
@@ -86,30 +86,30 @@ o) a fenntartónak és a szolgáltatónak a 18. § (4) bekezdése szerinti köte
 
 p) a szerződésszegés következményeit,
 
-q)[^92] a térítési díj megállapításának módját a térítésmentes szolgáltatások kivételével.
+q)[^95] a térítési díj megállapításának módját a térítésmentes szolgáltatások kivételével.
 
-[^68]: A 10. § (1) bekezdés nyitó szövegrésze a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^69]: A 10. § (1) bekezdés a) pontja a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^70]: A 10. § (2) bekezdésének bevezető szövegrésze a 279/2009. (XII. 9.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^71]: A 10. § (2) bekezdés a) pontja a 140/2011. (VII. 21.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^72]: A 10. § (2) bekezdés b) pontját a 140/2011. (VII. 21.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
-[^73]: A 10. § (2) bekezdés c) pontja a 355/2012. (XII. 13.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
-[^74]: A 10. § (2) bekezdés e) pontja a 349/2012. (XII. 12.) Korm. rendelet 51. §-a szerint módosított szöveg.
-[^75]: A 10. § (2) bekezdés f) pontját a 355/2012. (XII. 13.) Korm. rendelet 33. §-a hatályon kívül helyezte.
-[^76]: A 10. § (2) bekezdés g) pontja a 317/2012. (XI. 13.) Korm. rendelet 26. § d) pontja szerint módosított szöveg.
-[^77]: A 10. § (2) bekezdés h) pontja a 297/2013. (VII. 29.) Korm. rendelet 46. §-ával megállapított szöveg.
-[^78]: A 10. § (2) bekezdés i) pontja a 279/2009. (XII. 9.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^79]: A 10. § (2) bekezdésének j) pontja a 174/2009. (VIII. 29.) Korm. rendelet 36. § (4) bekezdésének cb) alpontja, a 314/2009. (XII. 28.) Korm. rendelet 55. § (3) bekezdése szerint módosított szöveg.
-[^80]: A 10. § (2) bekezdés k) pontja a 317/2012. (XI. 13.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^81]: A 10. § (2) bekezdésének l) pontját a 114/2009. (V. 29.) Korm. rendelet 9. § (5) bekezdésének e) pontja hatályon kívül helyezte.
-[^82]: A 10. § (2) bekezdés m) pontja a 314/2009. (XII. 28.) Korm. rendelet 55. § (1) bekezdésével megállapított, a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja, a 140/2011. (VII. 21.) Korm. rendelet 14. § m) pontja szerint módosított szöveg.
-[^83]: A 10. § (2) bekezdés n) pontját a 140/2011. (VII. 21.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
-[^84]: A 10. § (2) bekezdés q) pontját a 140/2011. (VII. 21.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
-[^85]: A 10. § (2) bekezdés r) pontját a 369/2013. (X. 24.) Korm. rendelet 56. § (6) bekezdés b) pontja hatályon kívül helyezte.
-[^86]: A 10. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 32. § (2) bekezdése iktatta be.
-[^87]: A 10. § (3) bekezdése a 369/2013. (X. 24.) Korm. rendelet 56. § (3) bekezdésével megállapított szöveg.
-[^88]: A 10. § (6) bekezdés b) pontja a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés c) pont ce) alpontja aszerint módosított szöveg.
-[^89]: A 10. § (6) bekezdés d) pontja a 140/2011. (VII. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^90]: A 10. § (6) bekezdés e) pontja a 89/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^91]: A 10. § (6) bekezdés l) pontja a 140/2011. (VII. 21.) Korm. rendelet 14. § n) pontja, a 322/2013. (VIII. 28.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
-[^92]: A 10. § (6) bekezdés q) pontját a 317/2012. (XI. 13.) Korm. rendelet 23. § (3) bekezdése iktatta be.
+[^71]: A 10. § (1) bekezdés nyitó szövegrésze a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^72]: A 10. § (1) bekezdés a) pontja a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^73]: A 10. § (2) bekezdésének bevezető szövegrésze a 279/2009. (XII. 9.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^74]: A 10. § (2) bekezdés a) pontja a 140/2011. (VII. 21.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^75]: A 10. § (2) bekezdés b) pontját a 140/2011. (VII. 21.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^76]: A 10. § (2) bekezdés c) pontja a 355/2012. (XII. 13.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^77]: A 10. § (2) bekezdés e) pontja a 349/2012. (XII. 12.) Korm. rendelet 51. §-a szerint módosított szöveg.
+[^78]: A 10. § (2) bekezdés f) pontját a 355/2012. (XII. 13.) Korm. rendelet 33. §-a hatályon kívül helyezte.
+[^79]: A 10. § (2) bekezdés g) pontja a 317/2012. (XI. 13.) Korm. rendelet 26. § d) pontja szerint módosított szöveg.
+[^80]: A 10. § (2) bekezdés h) pontja a 297/2013. (VII. 29.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^81]: A 10. § (2) bekezdés i) pontja a 279/2009. (XII. 9.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^82]: A 10. § (2) bekezdésének j) pontja a 174/2009. (VIII. 29.) Korm. rendelet 36. § (4) bekezdésének cb) alpontja, a 314/2009. (XII. 28.) Korm. rendelet 55. § (3) bekezdése szerint módosított szöveg.
+[^83]: A 10. § (2) bekezdés k) pontja a 317/2012. (XI. 13.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^84]: A 10. § (2) bekezdésének l) pontját a 114/2009. (V. 29.) Korm. rendelet 9. § (5) bekezdésének e) pontja hatályon kívül helyezte.
+[^85]: A 10. § (2) bekezdés m) pontja a 314/2009. (XII. 28.) Korm. rendelet 55. § (1) bekezdésével megállapított, a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja, a 140/2011. (VII. 21.) Korm. rendelet 14. § m) pontja szerint módosított szöveg.
+[^86]: A 10. § (2) bekezdés n) pontját a 140/2011. (VII. 21.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^87]: A 10. § (2) bekezdés q) pontját a 140/2011. (VII. 21.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^88]: A 10. § (2) bekezdés r) pontját a 369/2013. (X. 24.) Korm. rendelet 56. § (6) bekezdés b) pontja hatályon kívül helyezte.
+[^89]: A 10. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 32. § (2) bekezdése iktatta be.
+[^90]: A 10. § (3) bekezdése a 369/2013. (X. 24.) Korm. rendelet 56. § (3) bekezdésével megállapított szöveg.
+[^91]: A 10. § (6) bekezdés b) pontja a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés c) pont ce) alpontja aszerint módosított szöveg.
+[^92]: A 10. § (6) bekezdés d) pontja a 140/2011. (VII. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^93]: A 10. § (6) bekezdés e) pontja a 89/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^94]: A 10. § (6) bekezdés l) pontja a 140/2011. (VII. 21.) Korm. rendelet 14. § n) pontja, a 322/2013. (VIII. 28.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
+[^95]: A 10. § (6) bekezdés q) pontját a 317/2012. (XI. 13.) Korm. rendelet 23. § (3) bekezdése iktatta be.
