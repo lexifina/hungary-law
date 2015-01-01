@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-88-00-00
 | 2014-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-88-00-00.3 |
 | 2014-01-02 | 2010. évi CXXX. törvény | 2013-88-00-00.4 |
 | 2014-01-12 | 2013. évi CCXVII. törvény | 2013-88-00-00.5 |
+| 2015-01-01 | 2014. évi LXXII. törvény | 2013-88-00-00.6 |
