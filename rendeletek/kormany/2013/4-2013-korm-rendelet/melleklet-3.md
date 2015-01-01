@@ -1,8 +1,10 @@
+## A KINCSTÁR BESZÁMOLÁSI ÉS KÖNYVVEZETÉSI KÖRÉBE TARTOZÓ KÖZPONTI KEZELÉSŰ ELŐIRÁNYZATOKKAL KAPCSOLATOS NYILVÁNTARTÁSI FELADATOKAT ELLÁTÓ SZERVEK
+
 | Sor- szám | Címrendi besorolás | Adatszolgáltatásra kötelezett | Adatszolgáltatási kör | Adatszolgáltatás gyakorisága |
 
 | 1. | IX. fejezet | Belügyminisztérium | A biztosított támogatásokról szóló kötelezettségvállalások (támogatói okiratok, támogatási szerződések) adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
 
-| 2. | XVII. fejezet 24. cím | Nemzeti Fejlesztési Minisztérium | A cím terhére vállalt kötelezettségek adatai, a kifizetésekkel kapcsolatos követelések | Havonta egyszer, a Kincstár által megállapított időpontban |
+| 2. | XIV. fejezet 21. cím | Belügyminisztérium | A cím terhére vállalt kötelezettségek adatai, a kifizetésekkel kapcsolatos követelések | Havonta egyszer, a Kincstár által megállapított időpontban |
 
 | 3. | XLI. fejezet | Államadósság Kezelő Központ Zrt. | A kincstári, elemi költségvetés elkészítéséhez szükséges adatok | A kincstári, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
 
@@ -34,13 +36,13 @@
 
 | 17. | nincs címrendhez kötve | Igazságügyi Hivatal | Kibocsátott kárpótlási jegyek be nem váltott állománya adatai | Negyedévente egyszer, a Kincstár által megállapított időpontban |
 
-| 18. |  |  |  |  |
+| 18. | nincs címrendhez kötve | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Az Európai Uniós támogatásokhoz kapcsolódó követelések és kötelezettségek adatai A központi költségvetés által korábban megelőlegezett, lezárt EU-s támogatási konstrukciókhoz kapcsolódó átadásra kerülő Európai Unióval szembeni követelések devizában és forintban | Negyedévente egyszer, a Kincstár által megállapított időpontban |
 
 | 19. | nincs címrendhez kötve | Európai Uniós támogatások pénzügyi lebonyolításában, illetve ehhez kapcsolódó beszámolási és könyvvezetési kötelezettség teljesítésében részt vevő szervezetek | Az Európai Uniós támogatásokhoz kapcsolódó követelések és kötelezettségek adatai A központi költségvetés által korábban megelőlegezett, lezárt EU-s támogatási konstrukciókhoz kapcsolódó átadásra kerülő Európai Unióval szembeni követelések adatai | Negyedévente egyszer, a Kincstár által megállapított időpontban |
 
 3. melléklet a 4/2013. (I. 11.) Korm. rendelethez
 
-Maradványkimutatás
+## Maradványkimutatás
 
 01. Alaptevékenység költségvetési bevételei
 

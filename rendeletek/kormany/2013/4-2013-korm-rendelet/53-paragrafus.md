@@ -4,7 +4,7 @@
 
 53. § (1) A könyvviteli zárlat során a (3) bekezdés szerinti elszámolási időszakokat követően el kell végezni a folyamatos könyvelés teljessé tétele érdekében szükséges kiegészítő, helyesbítő, egyeztető, összesítő könyvelési munkákat, a könyvviteli, valamint a költségvetési könyvvitel során vezetett nyilvántartási számlák lezárását, és – a (3) bekezdés b) és c) pontja szerinti könyvviteli zárlat alátámasztására – a főkönyvi kivonat elkészítését.
 
-(2)[^157] A bevételi és kiadási előirányzatokat, a követeléseket, kötelezettségvállalásokat, más fizetési kötelezettségeket, valamint ezek teljesítését érintő gazdasági események bizonylatainak adatait a költségvetési könyvvitel során vezetett nyilvántartási számlákon, a sajátos elszámolásokat érintő gazdasági események bizonylatainak adatait a pénzügyi könyvvitel során vezetett könyvviteli számlákon a bizonylatok keletkezését, beérkezését követően haladéktalanul nyilvántartásba kell venni, el kell számolni. Az egyéb gazdasági események bizonylatainak adatait – ha a (4)–(6) bekezdés másként nem rendelkezik – a negyedéves könyvviteli zárlat során kell a könyvviteli számlákon elszámolni.
+(2)[^190] A bevételi és kiadási előirányzatokat, a követeléseket, kötelezettségvállalásokat, más fizetési kötelezettségeket, valamint ezek teljesítését érintő gazdasági események bizonylatainak adatait a költségvetési könyvvitel során vezetett nyilvántartási számlákon, a sajátos elszámolásokat érintő gazdasági események bizonylatainak adatait a pénzügyi könyvvitel során vezetett könyvviteli számlákon a bizonylatok keletkezését, beérkezését követően haladéktalanul nyilvántartásba kell venni, el kell számolni. Az egyéb gazdasági események bizonylatainak adatait – ha a (4)–(6) bekezdés másként nem rendelkezik – a negyedéves könyvviteli zárlat során kell a könyvviteli számlákon elszámolni.
 
 (3) A könyvviteli zárlatot a (4)–(7) bekezdés szerinti tartalommal kell elvégezni
 
@@ -12,7 +12,7 @@ a) havonta, a tárgyhót követő hónap 15. napjáig,
 
 b) negyedévente, a tárgynegyedévet követő hónap 15. napjáig, és
 
-c)[^158] évente, a mérlegkészítés időpontjáig.
+c)[^191] évente, a mérlegkészítés időpontjáig.
 
 (4) A havi, negyedéves és éves könyvviteli zárlat keretében 17. mellékletben meghatározott egyezőségek vizsgálatával el kell végezni a költségvetési és a pénzügyi könyvvezetés helyességének ellenőrzését.
 
@@ -54,7 +54,7 @@ j) a főkönyvi kivonat alapján a könyvelés helyességének ellenőrzését.
 
 (8) Az éves könyvviteli zárlat keretében el kell végezni
 
-a)[^159] az (5) és (6) bekezdésben, valamint a 48. § (7) bekezdésében foglalt feladatokat,
+a)[^192] az (5) és (6) bekezdésben, valamint a 48. § (7) bekezdésében foglalt feladatokat,
 
 b) a leltári különbözetek elszámolását, az eltérések okainak kivizsgálását,
 
@@ -68,7 +68,7 @@ f) az időbeli elhatárolások elszámolását,
 
 g) a záró befejezetlen termelés készletre vételét,
 
-h)[^160] az 5. számlaosztály 51–56. számlacsoport könyvviteli számláinak átvezetését a 8. számlaosztály könyvviteli számláira,
+h)[^193] az 5. számlaosztály 51–56. számlacsoport könyvviteli számláinak átvezetését a 8. számlaosztály könyvviteli számláira,
 
 i) az 571. Saját termelésű készletek állományváltozása és 572. Saját előállítású eszközök aktivált értéke könyvviteli számláinak átvezetését a 492. Mérleg szerinti eredmény elszámolása könyvviteli számlára,
 
@@ -76,15 +76,15 @@ j) a 8. és 9. számlaosztály könyvviteli számláinak lezárását a 492. Mé
 
 k) a 6-os számlaosztály könyvviteli számláinak lezárását a 691. Általános költségek átvezetési számla könyvviteli számlával, a 7. számlaosztály könyvviteli számláinak lezárását az 591. Költségnem átvezetési számla könyvviteli számlával szemben,
 
-l)[^161] a 492. Mérleg szerinti eredmény elszámolása könyvviteli számla átvezetését a 416. Mérleg szerinti eredmény könyvviteli számlára,
+l)[^194] a 492. Mérleg szerinti eredmény elszámolása könyvviteli számla átvezetését a 416. Mérleg szerinti eredmény könyvviteli számlára,
 
-m)[^162] az 1–4. számlaosztály könyvviteli számlák lezárását a 493. Zárómérleg számla könyvviteli számlával szemben,
+m)[^195] az 1–4. számlaosztály könyvviteli számlák lezárását a 493. Zárómérleg számla könyvviteli számlával szemben,
 
 n) az egységes rovatrend rovataihoz kapcsolódóan az előirányzatok nyilvántartási számláinak lezárását a 001. Előirányzat nyilvántartási ellenszámla nyilvántartási számlával szemben, valamint a teljesítés nyilvántartási számláinak lezárását és – ezzel egyező összegben – a követelések vagy kötelezettségvállalások, más fizetési kötelezettségek nyilvántartási számláinak korrigálását a megfelelő nyilvántartási ellenszámlával szemben.
 
-[^157]: Az 53. § (2) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 40. § 19. pontja szerint módosított szöveg.
-[^158]: Az 53. § (3) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 33. pontja szerint módosított szöveg.
-[^159]: Az 53. § (8) bekezdés a) pontja a 307/2013. (VIII. 14.) Korm. rendelet 40. § 20. pontja szerint módosított szöveg.
-[^160]: Az 53. § (8) bekezdés h) pontja a 307/2013. (VIII. 14.) Korm. rendelet 40. § 21. pontja szerint módosított szöveg.
-[^161]: Az 53. § (8) bekezdés l) pontja a 284/2014. (XI. 20.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^162]: Az 53. § (8) bekezdés m) pontja a 284/2014. (XI. 20.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^190]: Az 53. § (2) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 40. § 19. pontja szerint módosított szöveg.
+[^191]: Az 53. § (3) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 33. pontja szerint módosított szöveg.
+[^192]: Az 53. § (8) bekezdés a) pontja a 307/2013. (VIII. 14.) Korm. rendelet 40. § 20. pontja szerint módosított szöveg.
+[^193]: Az 53. § (8) bekezdés h) pontja a 307/2013. (VIII. 14.) Korm. rendelet 40. § 21. pontja szerint módosított szöveg.
+[^194]: Az 53. § (8) bekezdés l) pontja a 284/2014. (XI. 20.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^195]: Az 53. § (8) bekezdés m) pontja a 284/2014. (XI. 20.) Korm. rendelet 20. §-ával megállapított szöveg.

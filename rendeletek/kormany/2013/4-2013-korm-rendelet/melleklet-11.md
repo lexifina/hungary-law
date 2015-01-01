@@ -1,6 +1,6 @@
-11. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^205]
+11. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^240]
 
-Konszolidált mérleg
+## Konszolidált mérleg
 
 ## Eszközök
 
@@ -22,13 +22,11 @@ II. Értékpapírok
 
 ## C) Pénzeszközök
 
-I. Hosszú lejáratú betétek
+I. Lekötött bankbetétek
 
 II. Pénztárak, csekkek, betétkönyvek
 
 ## III–IV. Forintszámlák, devizaszámlák
-
-V. Idegen pénzeszközök
 
 ## D) Követelések
 
@@ -48,7 +46,7 @@ III. Követelés jellegű sajátos elszámolások
 
 ## G) Saját tőke
 
-## I–III. Nemzeti vagyon és egyéb eszközök induláskori értéke és változásai
+## I-III. Nemzeti vagyon és egyéb eszközök induláskori értéke és változásai
 
 IV. Felhalmozott eredmény
 
@@ -64,4 +62,4 @@ II. Költségvetési évet követően esedékes kötelezettségek
 
 III. Kötelezettség jellegű sajátos elszámolások
 
-[^205]: A 11. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^240]: A 11. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 4. pontja, a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 4. pontja szerint módosított szöveg.

@@ -10,9 +10,9 @@
 
 ## G) Vállalkozási tevékenység felhasználható maradványa (B–F)
 
-4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^177]
+4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^210]
 
-ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOTT EGYES ELLÁTÁSOK ÉS TÁMOGATÁSOK TERVEZETT ÖSSZEGEIRŐL ÉS TELJESÍTÉSÉRŐL
+## ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOTT EGYES ELLÁTÁSOK ÉS TÁMOGATÁSOK TERVEZETT ÖSSZEGEIRŐL ÉS TELJESÍTÉSÉRŐL
 
 1. A LXXI. Nyugdíjbiztosítási Alap 2. Nyugdíjbiztosítási ellátások kiadásai cím, 1. Nyugellátások alcím, 1. Öregségi nyugdíj jogcímcsoport tekintetében a kifizetett ellátások közül:
 
@@ -86,4 +86,4 @@ ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOT
 
 - speciális finanszírozású szakellátás.
 
-[^177]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított szöveg.
+[^210]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított szöveg.

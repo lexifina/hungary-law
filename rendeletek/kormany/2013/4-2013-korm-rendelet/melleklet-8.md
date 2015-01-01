@@ -1,6 +1,6 @@
-8. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^180]
+8. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^213]
 
-KIMUTATÁS AZ IMMATERIÁLIS JAVAK, TÁRGYI ESZKÖZÖK, KONCESSZIÓBA, VAGYONKEZELÉSBE ADOTT ESZKÖZÖK ÁLLOMÁNYÁNAK ALAKULÁSÁRÓL
+## KIMUTATÁS AZ IMMATERIÁLIS JAVAK, TÁRGYI ESZKÖZÖK, KONCESSZIÓBA, VAGYONKEZELÉSBE ADOTT ESZKÖZÖK ÁLLOMÁNYÁNAK ALAKULÁSÁRÓL
 
 A kimutatásban az immateriális javak, az ingatlanok és kapcsolódó vagyoni értékű jogok, a gépek, berendezések, felszerelések, járművek, a tenyészállatok, a beruházások és felújítások és – a 02–05. és 09–11. pont kivételével – a koncesszióba, vagyonkezelésbe adott eszközök alakulásáról a következő bontásban kell elszámolni:
 
@@ -56,4 +56,4 @@ A kimutatásban az immateriális javak, az ingatlanok és kapcsolódó vagyoni �
 
 26. Teljesen (0-ig) leírt eszközök bruttó értéke
 
-[^180]: A 8. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 3. pontjával megállapított, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 36. pontja szerint módosított szöveg.
+[^213]: A 8. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 3. pontjával megállapított, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 36. pontja szerint módosított szöveg.

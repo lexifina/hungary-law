@@ -14,7 +14,7 @@
 
 ## II. Tárgyi eszközök
 
-## 1. Ingatlanok és a kapcsolódó vagyoni értékű jogok
+## 1. Ingatlanok és kapcsolódó vagyoni értékű jogok
 
 ## 2. Gépek, berendezések, felszerelések, járművek
 
@@ -28,21 +28,33 @@
 
 ## 1. Tartós részesedések
 
-## – ebből: tartós részesedések jegybankban
+## - ebből: tartós részesedések jegybankban
 
-## – ebből: tartós részesedések társulásban
+## - ebből: tartós részesedések nem pénzügyi vállalkozásban
+
+## - ebből: tartós részesedések pénzügyi vállalkozásban
+
+## - ebből: tartós részesedések társulásban
+
+## - egyéb tartós részesedések
 
 ## 2. Tartós hitelviszonyt megtestesítő értékpapírok
 
-## – ebből: államkötvények
+## - ebből: államkötvények
 
-## – ebből: helyi önkormányzatok kötvényei
+## - ebből: helyi önkormányzatok kötvényei
 
 ## 3. Befektetett pénzügyi eszközök értékhelyesbítése
 
 ## IV. Koncesszióba, vagyonkezelésbe adott eszközök
 
 ## 1. Koncesszióba, vagyonkezelésbe adott eszközök
+
+## - ebből: immateriális javak
+
+## - ebből: tárgyi eszközök
+
+## - ebből: tartós részesedések, tartós hitelviszonyt megtestesítő értékpapírok
 
 ## 2. Koncesszióba, vagyonkezelésbe adott eszközök értékhelyesbítése
 
@@ -78,101 +90,239 @@
 
 ## C) Pénzeszközök
 
-## I. Hosszú lejáratú betétek
+## I. Lekötött bankbetétek
+
+## 1. Éven túli lejáratú forint lekötött bankbetétek
+
+## 2. Éven túli lejáratú deviza lekötött bankbetétek
 
 ## II. Pénztárak, csekkek, betétkönyvek
 
+## 1. Forintpénztár
+
+## 2. Valutapénztár
+
+## 3. Betétkönyvek, csekkek, elektronikus pénzeszközök
+
 ## III. Forintszámlák
+
+## 1. Kincstáron kívüli forintszámlák
+
+## 2. Kincstárban vezetett forintszámlák
 
 ## IV. Devizaszámlák
 
-## V. Idegen pénzeszközök
+## 1. Kincstáron kívüli devizaszámlák
+
+## 2. Kincstárban vezetett devizaszámlák
 
 ## D) Követelések
 
-## I. Költségvetési évben esedékes követelések
+## I. Költségvetési évben esedékes követelések
 
-## 1. Költségvetési évben esedékes követelések működési célú támogatások bevételeire államháztartáson belülről
+## 1. Költségvetési évben esedékes követelések működési célú támogatások bevételeire államháztartáson belülről
 
 ## – ebből: költségvetési évben esedékes követelések működési célú visszatérítendő támogatások, kölcsönök visszatérülésére államháztartáson belülről
 
-## 2. Költségvetési évben esedékes követelések felhalmozási célú támogatások bevételeire államháztartáson belülről
+## 2. Költségvetési évben esedékes követelések felhalmozási célú támogatások bevételeire államháztartáson belülről
 
 ## – ebből: költségvetési évben esedékes követelések felhalmozási célú visszatérítendő támogatások, kölcsönök visszatérülésére államháztartáson belülről
 
-## 3. Költségvetési évben esedékes követelések közhatalmi bevételre
+## 3. Költségvetési évben esedékes követelések közhatalmi bevételre
 
-## 4. Költségvetési évben esedékes követelések működési bevételre
+## – ebből: költségvetési évben esedékes követelések jövedelemadókra
 
-## 5. Költségvetési évben esedékes követelések felhalmozási bevételre
+## – ebből: költségvetési évben esedékes követelések szociális hozzájárulási adóra és járulékokra
 
-## 6. Költségvetési évben esedékes követelések működési célú átvett pénzeszközre
+## – ebből: költségvetési évben esedékes követelések bérhez és foglalkoztatáshoz kapcsolódó adókra
+
+## – ebből: költségvetési évben esedékes követelések vagyoni típusú adókra
+
+## – ebből: költségvetési évben esedékes követelések termékek és szolgáltatások adóira
+
+## – ebből: költségvetési évben esedékes követelések egyéb közhatalmi bevételekre
+
+## 4. Költségvetési évben esedékes követelések működési bevételre
+
+## – ebből: költségvetési évben esedékes követelések készletértékesítés ellenértékére, szolgáltatások ellenértékére, közvetített szolgáltatások ellenértékére
+
+## – ebből: költségvetési évben esedékes követelések tulajdonosi bevételekre
+
+## – ebből: költségvetési évben esedékes követelések ellátási díjakra
+
+## – ebből: költségvetési évben esedékes követelések kiszámlázott általános forgalmi adóra
+
+## – ebből: költségvetési évben esedékes követelések általános forgalmi adó visszatérítésére
+
+## – ebből: költségvetési évben esedékes követelések kamatbevételekre
+
+## – ebből: költségvetési évben esedékes követelések egyéb pénzügyi műveletek bevételeire
+
+## – ebből: költségvetési évben esedékes követelések biztosító által fizetett kártérítésre
+
+## – ebből: költségvetési évben esedékes követelések egyéb működési bevételekre
+
+## 5. Költségvetési évben esedékes követelések felhalmozási bevételre
+
+## – ebből: költségvetési évben esedékes követelések immateriális javak értékesítésére
+
+## – ebből: költségvetési évben esedékes követelések ingatlanok értékesítésére
+
+## – ebből: költségvetési évben esedékes követelések egyéb tárgyi eszközök értékesítésére
+
+## – ebből: költségvetési évben esedékes követelések részesedések értékesítésére
+
+## – ebből: költségvetési évben esedékes követelések részesedések megszűnéséhez kapcsolódó bevételekre
+
+## 6. Költségvetési évben esedékes követelések működési célú átvett pénzeszközre
+
+## – ebből: költségvetési évben esedékes követelések működési célú visszatérítendő támogatások, kölcsönök visszatérülése az Európai Uniótól
+
+## – ebből: költségvetési évben esedékes követelések működési célú visszatérítendő támogatások, kölcsönök visszatérülése kormányoktól és más nemzetközi szervezetektől
 
 ## – ebből: költségvetési évben esedékes követelések működési célú visszatérítendő támogatások, kölcsönök visszatérülésére államháztartáson kívülről
 
-## 7. Költségvetési évben esedékes követelések felhalmozási célú átvett pénzeszközre
+## 7. Költségvetési évben esedékes követelések felhalmozási célú átvett pénzeszközre
+
+## – ebből: költségvetési évben esedékes követelések felhalmozási célú visszatérítendő támogatások, kölcsönök visszatérülése az Európai Uniótól
+
+## – ebből: költségvetési évben esedékes követelések felhalmozási célú visszatérítendő támogatások, kölcsönök visszatérülése kormányoktól és más nemzetközi szervezetektől
 
 ## – ebből: költségvetési évben esedékes követelések felhalmozási célú visszatérítendő támogatások, kölcsönök visszatérülésére államháztartáson kívülről
 
-## 8. Költségvetési évben esedékes követelések finanszírozási bevételekre
+## 8. Költségvetési évben esedékes követelések finanszírozási bevételekre
+
+## – ebből: költségvetési évben esedékes követelések forgatási célú belföldi értékpapírok beváltásából, értékesítéséből
+
+## – ebből: költségvetési évben esedékes követelések befektetési célú belföldi értékpapírok beváltásából, értékesítéséből
 
 ## – ebből: költségvetési évben esedékes követelések államháztartáson belüli megelőlegezések törlesztésére
 
-## II. Költségvetési évet követően esedékes követelések
+## – ebből: költségvetési évben esedékes követelések hosszú lejáratú tulajdonosi kölcsönök bevételeire
 
-## 1. Költségvetési évet követően esedékes követelések működési célú támogatások bevételeire államháztartáson belülről
+## – ebből: költségvetési évben esedékes követelések rövid lejáratú tulajdonosi kölcsönök bevételeire
+
+## – ebből: költségvetési évben esedékes követelések forgatási célú külföldi értékpapírok beváltásából, értékesítéséből
+
+## – ebből: költségvetési évben esedékes követelések befektetési célú külföldi értékpapírok beváltásából, értékesítéséből
+
+## II. Költségvetési évet követően esedékes követelések
+
+## 1. Költségvetési évet követően esedékes követelések működési célú támogatások bevételeire államháztartáson belülről
 
 ## – ebből: költségvetési évet követően esedékes követelések működési célú visszatérítendő támogatások, kölcsönök visszatérülésére államháztartáson belülről
 
-## 2. Költségvetési évet követően esedékes követelések felhalmozási célú támogatások bevételeire államháztartáson belülről
+## 2. Költségvetési évet követően esedékes követelések felhalmozási célú támogatások bevételeire államháztartáson belülről
 
 ## – ebből: költségvetési évet követően esedékes követelések felhalmozási célú visszatérítendő támogatások, kölcsönök visszatérülésére államháztartáson belülről
 
-## 3. Költségvetési évet követően esedékes követelések közhatalmi bevételre
+## 3. Költségvetési évet követően esedékes követelések közhatalmi bevételre
 
-## 4. Költségvetési évet követően esedékes követelések működési bevételre
+## – ebből: költségvetési évet követően esedékes követelések jövedelemadókra
 
-## 5. Költségvetési évet követően esedékes követelések felhalmozási bevételre
+## – ebből: költségvetési évet követően esedékes követelések szociális hozzájárulási adóra és járulékokra
 
-## 6. Költségvetési évet követően esedékes követelések működési célú átvett pénzeszközre
+## – ebből: költségvetési évet követően esedékes követelések bérhez és foglalkoztatáshoz kapcsolódó adókra
+
+## – ebből: költségvetési évet követően esedékes követelések vagyoni típusú adókra
+
+## – ebből: költségvetési évet követően esedékes követelések termékek és szolgáltatások adóira
+
+## – ebből: költségvetési évet követően esedékes követelések egyéb közhatalmi bevételekre
+
+## 4. Költségvetési évet követően esedékes követelések működési bevételre
+
+## – ebből: költségvetési évet követően esedékes követelések készletértékesítés ellenértékére, szolgáltatások ellenértékére, közvetített szolgáltatások ellenértékére
+
+## – ebből: költségvetési évet követően esedékes követelések tulajdonosi bevételekre
+
+## – ebből: költségvetési évet követően esedékes követelések ellátási díjakra
+
+## – ebből: költségvetési évet követően esedékes követelések kiszámlázott általános forgalmi adóra
+
+## – ebből: költségvetési évet követően esedékes követelések általános forgalmi adó visszatérítésére
+
+## – ebből: költségvetési évet követően esedékes követelések kamatbevételekre
+
+## – ebből: költségvetési évet követően esedékes követelések egyéb pénzügyi műveletek bevételeire
+
+## – ebből: költségvetési évet követően esedékes követelések biztosító által fizetett kártérítésre
+
+## – ebből: költségvetési évet követően esedékes követelések egyéb működési bevételekre
+
+## 5. Költségvetési évet követően esedékes követelések felhalmozási bevételre
+
+## – ebből: költségvetési évet követően esedékes követelések immateriális javak értékesítésére
+
+## – ebből: költségvetési évet követően esedékes követelések ingatlanok értékesítésére
+
+## – ebből: költségvetési évet követően esedékes követelések egyéb tárgyi eszközök értékesítésére
+
+## – ebből: költségvetési évet követően esedékes követelések részesedések értékesítésére
+
+## – ebből: költségvetési évet követően esedékes követelések részesedések megszűnéséhez kapcsolódó bevételekre
+
+## 6. Költségvetési évet követően esedékes követelések működési célú átvett pénzeszközre
+
+## – ebből: költségvetési évet követően esedékes követelések működési célú visszatérítendő támogatások, kölcsönök visszatérülése az Európai Uniótól
+
+## – ebből: költségvetési évet követően esedékes követelések működési célú visszatérítendő támogatások, kölcsönök visszatérülése kormányoktól és más nemzetközi szervezetektől
 
 ## – ebből: költségvetési évet követően esedékes követelések működési célú visszatérítendő támogatások, kölcsönök visszatérülésére államháztartáson kívülről
 
-## 7. Költségvetési évet követően esedékes követelések felhalmozási célú átvett pénzeszközre
+## 7. Költségvetési évet követően esedékes követelések felhalmozási célú átvett pénzeszközre
+
+## – ebből: költségvetési évet követően esedékes követelések felhalmozási célú visszatérítendő támogatások, kölcsönök visszatérülése az Európai Uniótól
+
+## – ebből: költségvetési évet követően esedékes követelések felhalmozási célú visszatérítendő támogatások, kölcsönök visszatérülése kormányoktól és más nemzetközi szervezetektől
 
 ## – ebből: költségvetési évet követően esedékes követelések felhalmozási célú visszatérítendő támogatások, kölcsönök visszatérülésére államháztartáson kívülről
 
-## 8. Költségvetési évet követően esedékes követelések finanszírozási bevételekre
+## 8. Költségvetési évet követően esedékes követelések finanszírozási bevételekre
 
-## – ebből: költségvetési évet követően esedékes követelések államháztartáson belüli megelőlegezések törlesztésére
+## – ebből: költségvetési évet követően esedékes követelések befektetési célú belföldi értékpapírok beváltásából, értékesítéséből
 
-## III. Követelés jellegű sajátos elszámolások
+## – ebből: költségvetési évet követően esedékes követelések hosszú lejáratú tulajdonosi kölcsönök bevételeire
 
-## 1. Adott előlegek
+## – ebből: költségvetési évet követően esedékes követelések befektetési célú külföldi értékpapírok beváltásából, értékesítéséből
 
-## - ebből: immateriális javakra adott előlegek
+## III. Követelés jellegű sajátos elszámolások
 
-## - ebből: beruházásokra adott előlegek
+## 1. Adott előlegek
 
-## - ebből: készletekre adott előlegek
+## – ebből: immateriális javakra adott előlegek
 
-## - ebből: foglalkoztatottaknak adott előlegek
+## – ebből: beruházásokra adott előlegek
 
-## – ebből: egyéb adott előlegek
+## – ebből: készletekre adott előlegek
 
-## 2. Továbbadási célból folyósított támogatások, ellátások elszámolása
+## – ebből: igénybe vett szolgáltatásra adott előlegek
 
-## 3. Más által beszedett bevételek elszámolása
+## – ebből: foglalkoztatottaknak adott előlegek
 
-## 4. Forgótőke elszámolása
+## – ebből: túlfizetések, téves és visszajáró kifizetések
 
-## 5. Vagyonkezelésbe adott eszközökkel kapcsolatos visszapótlási követelés elszámolása
+## 2. Továbbadási célból folyósított támogatások, ellátások elszámolása
 
-## 6. Nem társadalombiztosítás pénzügyi alapjait terhelő kifizetett ellátások megtérítésének elszámolása
+## 3. Más által beszedett bevételek elszámolása
 
-## 7. Folyósított, megelőlegezett társadalombiztosítási és családtámogatási ellátások elszámolása
+## 4. Forgótőke elszámolása
+
+## 5. Vagyonkezelésbe adott eszközökkel kapcsolatos visszapótlási követelés elszámolása
+
+## 6. Nem a társadalombiztosítás pénzügyi alapjait terhelő kifizetett ellátások megtérítésének elszámolása
+
+## 7. Folyósított, megelőlegezett társadalombiztosítási és családtámogatási ellátások elszámolása
+
+## 8. Gazdasági társaság alapítása, jegyzett tőkéjének emelése esetén a társaságnak ténylegesen átadott pénzeszközök
+
+## 9. Letétre, megőrzésre, fedezetkezelésre átadott pénzeszközök, biztosítékok
 
 ## E) Egyéb sajátos eszközoldali elszámolások
+
+## I. December havi illetmények, munkabérek elszámolása
+
+## II. Utalványok, bérletek és más hasonló, készpénz-helyettesítő fizetési eszköznek nem minősülő eszközök elszámolásai
 
 ## F) Aktív időbeli elhatárolások
 
@@ -202,89 +352,113 @@
 
 ## H) Kötelezettségek
 
-## I. Költségvetési évben esedékes kötelezettségek
+## I. Költségvetési évben esedékes kötelezettségek
 
-## 1. Költségvetési évben esedékes kötelezettségek személyi juttatásokra
+## 1. Költségvetési évben esedékes kötelezettségek személyi juttatásokra
 
-## 2. Költségvetési évben esedékes kötelezettségek munkaadókat terhelő járulékokra és szociális hozzájárulási adóra
+## 2. Költségvetési évben esedékes kötelezettségek munkaadókat terhelő járulékokra és szociális hozzájárulási adóra
 
-## 3. Költségvetési évben esedékes kötelezettségek dologi kiadásokra
+## 3. Költségvetési évben esedékes kötelezettségek dologi kiadásokra
 
-## 4. Költségvetési évben esedékes kötelezettségek ellátottak pénzbeli juttatásaira
+## 4. Költségvetési évben esedékes kötelezettségek ellátottak pénzbeli juttatásaira
 
-## 5. Költségvetési évben esedékes kötelezettségek egyéb működési célú kiadásokra
+## 5. Költségvetési évben esedékes kötelezettségek egyéb működési célú kiadásokra
 
 ## – ebből: költségvetési évben esedékes kötelezettségek működési célú visszatérítendő támogatások, kölcsönök törlesztésére államháztartáson belülre
 
-## 6. Költségvetési évben esedékes kötelezettségek beruházásokra
+## – ebből: költségvetési évben esedékes kötelezettségek működési célú támogatásokra az Európai Uniónak
 
-## 7. Költségvetési évben esedékes kötelezettségek felújításokra
+## 6. Költségvetési évben esedékes kötelezettségek beruházásokra
 
-## 8. Költségvetési évben esedékes kötelezettségek egyéb felhalmozási célú kiadásokra
+## 7. Költségvetési évben esedékes kötelezettségek felújításokra
+
+## 8. Költségvetési évben esedékes kötelezettségek egyéb felhalmozási célú kiadásokra
 
 ## – ebből: költségvetési évben esedékes kötelezettségek felhalmozási célú visszatérítendő támogatások, kölcsönök törlesztésére államháztartáson belülre
 
-## 9. Költségvetési évben esedékes kötelezettségek finanszírozási kiadásokra
+## – ebből: költségvetési évben esedékes kötelezettségek felhalmozási célú támogatásokra az Európai Uniónak
+
+## 9. Költségvetési évben esedékes kötelezettségek finanszírozási kiadásokra
+
+## – ebből: költségvetési évben esedékes kötelezettségek hosszú lejáratú hitelek, kölcsönök törlesztésére pénzügyi vállalkozásnak
+
+## – ebből: költségvetési évben esedékes kötelezettségek rövid lejáratú hitelek, kölcsönök törlesztésére pénzügyi vállalkozásnak
+
+## – ebből: költségvetési évben esedékes kötelezettségek kincstárjegyek beváltására
+
+## – ebből: költségvetési évben esedékes kötelezettségek éven belüli lejáratú belföldi értékpapírok beváltására
+
+## – ebből: költségvetési évben esedékes kötelezettségek belföldi kötvények beváltására
+
+## – ebből: költségvetési évben esedékes kötelezettségek éven túli lejáratú belföldi értékpapírok beváltására
 
 ## – ebből: költségvetési évben esedékes kötelezettségek államháztartáson belüli megelőlegezések visszafizetésére
 
-## – ebből: költségvetési évben esedékes kötelezettségek hosszú lejáratú hitelek, kölcsönök törlesztésére
-
-## – ebből: költségvetési évben esedékes kötelezettségek likviditási célú hitelek, kölcsönök törlesztésére pénzügyi vállalkozásnak
-
-## – ebből: költségvetési évben esedékes kötelezettségek rövid lejáratú hitelek, kölcsönök törlesztésére
-
-## – ebből: költségvetési évben esedékes kötelezettségek külföldi hitelek, kölcsönök törlesztésére
-
-## – ebből: költségvetési évben esedékes kötelezettségek forgatási célú belföldi értékpapírok beváltására
-
-## – ebből: költségvetési évben esedékes kötelezettségek befektetési célú belföldi értékpapírok beváltására
+## – ebből: költségvetési évben esedékes kötelezettségek pénzügyi lízing kiadásaira
 
 ## – ebből: költségvetési évben esedékes kötelezettségek külföldi értékpapírok beváltására
 
-## II. Költségvetési évet követően esedékes kötelezettségek
+## – ebből: költségvetési évben esedékes kötelezettségek hitelek, kölcsönök törlesztésére külföldi kormányoknak és nemzetközi szervezeteknek
 
-## 1. Költségvetési évet követően esedékes kötelezettségek személyi juttatásokra
+## – ebből: költségvetési évben esedékes kötelezettségek hitelek, kölcsönök törlesztésére külföldi pénzintézeteknek
 
-## 2. Költségvetési évet követően esedékes kötelezettségek munkaadókat terhelő járulékokra és szociális hozzájárulási adóra
+## – ebből: költségvetési évben esedékes kötelezettségek váltókiadásokra
 
-## 3. Költségvetési évet követően esedékes kötelezettségek dologi kiadásokra
+## II. Költségvetési évet követően esedékes kötelezettségek
 
-## 4. Költségvetési évet követően esedékes kötelezettségek ellátottak pénzbeli juttatásaira
+## 1. Költségvetési évet követően esedékes kötelezettségek személyi juttatásokra
 
-## 5. Költségvetési évet követően esedékes kötelezettségek egyéb működési célú kiadásokra
+## 2. Költségvetési évet követően esedékes kötelezettségek munkaadókat terhelő járulékokra és szociális hozzájárulási adóra
+
+## 3. Költségvetési évet követően esedékes kötelezettségek dologi kiadásokra
+
+## 4. Költségvetési évet követően esedékes kötelezettségek ellátottak pénzbeli juttatásaira
+
+## 5. Költségvetési évet követően esedékes kötelezettségek egyéb működési célú kiadásokra
 
 ## – ebből: költségvetési évet követően esedékes kötelezettségek működési célú visszatérítendő támogatások, kölcsönök törlesztésére államháztartáson belülre
 
-## 6. Költségvetési évet követően esedékes kötelezettségek beruházásokra
+## – ebből: költségvetési évet követően esedékes kötelezettségek működési célú támogatásokra az Európai Uniónak
 
-## 7. Költségvetési évet követően esedékes kötelezettségek felújításokra
+## 6. Költségvetési évet követően esedékes kötelezettségek beruházásokra
 
-## 8. Költségvetési évet követően esedékes kötelezettségek egyéb felhalmozási célú kiadásokra
+## 7. Költségvetési évet követően esedékes kötelezettségek felújításokra
+
+## 8. Költségvetési évet követően esedékes kötelezettségek egyéb felhalmozási célú kiadásokra
 
 ## – ebből: költségvetési évet követően esedékes kötelezettségek felhalmozási célú visszatérítendő támogatások, kölcsönök törlesztésére államháztartáson belülre
 
-## 9. Költségvetési évet követően esedékes kötelezettségek finanszírozási kiadásokra
+## – ebből: költségvetési évet követően esedékes kötelezettségek felhalmozási célú támogatásokra az Európai Uniónak
 
-## – ebből: költségvetési évet követően esedékes kötelezettségek államháztartáson belüli megelőlegezések visszafizetésére
+## 9. Költségvetési évet követően esedékes kötelezettségek finanszírozási kiadásokra
 
-## – ebből: költségvetési évet követően esedékes kötelezettségek hosszú lejáratú hitelek, kölcsönök törlesztésére
+## – ebből: költségvetési évet követően esedékes kötelezettségek hosszú lejáratú hitelek, kölcsönök törlesztésére pénzügyi vállalkozásnak
 
-## – ebből: költségvetési évet követően esedékes kötelezettségek likviditási célú hitelek, kölcsönök törlesztésére pénzügyi vállalkozásnak
+## – ebből: költségvetési évet követően esedékes kötelezettségek kincstárjegyek beváltására
 
-## – ebből: költségvetési évet követően esedékes kötelezettségek rövid lejáratú hitelek, kölcsönök törlesztésére
+## – ebből: költségvetési évet követően esedékes kötelezettségek belföldi kötvények beváltására
 
-## – ebből: költségvetési évet követően esedékes kötelezettségek külföldi hitelek, kölcsönök törlesztésére
+## – ebből: költségvetési évet követően esedékes kötelezettségek éven túli lejáratú belföldi értékpapírok beváltására
 
-## – ebből: költségvetési évet követően esedékes kötelezettségek forgatási célú belföldi értékpapírok beváltására
-
-## – ebből: költségvetési évet követően esedékes kötelezettségek befektetési célú belföldi értékpapírok beváltására
+## – ebből: költségvetési évet követően esedékes kötelezettségek pénzügyi lízing kiadásaira
 
 ## – ebből: költségvetési évet követően esedékes kötelezettségek külföldi értékpapírok beváltására
+
+## – ebből: költségvetési évet követően esedékes kötelezettségek hitelek, kölcsönök törlesztésére külföldi kormányoknak és nemzetközi szervezeteknek
+
+## – ebből: költségvetési évet követően esedékes kötelezettségek külföldi hitelek, kölcsönök törlesztésére külföldi pénzintézeteknek
+
+## – ebből: költségvetési évet követően esedékes kötelezettségek váltókiadásokra
 
 ## III. Kötelezettség jellegű sajátos elszámolások
 
 ## 1. Kapott előlegek
+
+## – ebből: túlfizetés a jövedelemadókban
+
+## – ebből: túlfizetés az általános forgalmi adóban
+
+## – ebből: egyéb túlfizetések, téves és visszajáró befizetések, egyéb kapott előlegek
 
 ## 2. Továbbadási célból folyósított támogatások, ellátások elszámolása
 
@@ -298,23 +472,21 @@
 
 ## 7. Munkáltató által korengedményes nyugdíjhoz megfizetett hozzájárulás elszámolása
 
-## I) Egyéb sajátos forrásoldali elszámolások
+## 8. Letétre, megőrzésre, fedezetkezelésre átvett pénzeszközök, biztosítékok
 
-## J) Kincstári számlavezetéssel kapcsolatos elszámolások
+## 9. Nemzetközi támogatási programok pénzeszközei
 
-## K) Passzív időbeli elhatárolások
+## 10. Államadósság Kezelő Központ Zrt.-nél elhelyezett fedezeti betétek
 
-## 1. Eredményszemléletű bevételek passzív időbeli elhatárolása
+## I) Kincstári számlavezetéssel kapcsolatos elszámolások
 
-## 2. Költségek, ráfordítások passzív időbeli elhatárolása
-
-## 3. Halasztott eredményszemléletű bevételek
+## J) Passzív időbeli elhatárolások
 
 ## Források összesen
 
 6. melléklet a 4/2013. (I. 11.) Korm. rendelethez
 
-Eredménykimutatás/konszolidált eredménykimutatás
+## Eredménykimutatás/konszolidált eredménykimutatás
 
 01. Közhatalmi eredményszemléletű bevételek
 

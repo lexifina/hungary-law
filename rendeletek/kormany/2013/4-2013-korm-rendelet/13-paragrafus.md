@@ -1,14 +1,16 @@
 13. § (1) A mérlegben a 10–12. §-ban foglaltakon kívül az eszközök között kell kimutatni a pénzeszközöket, a követeléseket, a 48. § (9) bekezdése szerinti egyéb sajátos eszközoldali elszámolásokat és az aktív időbeli elhatárolásokat.
 
-(2) A mérlegben a pénzeszközök között kell kimutatni a hosszú lejáratú – a mérleg fordulónapját követő költségvetési éven túl lejáró – betéteket, a pénztárakat, csekkeket, betétkönyveket, a forintban és devizában vezetett számlákat, továbbá a 49. § szerinti idegen pénzeszközöket.
+(2)[^44] A mérlegben a pénzeszközök között kell kimutatni a lekötött bankbetéteket, a pénztárakat, csekkeket, betétkönyveket, valamint a forintszámlákat és a devizaszámlákat.
 
-(3) A mérlegben a pénztárak, csekkek, betétkönyvek között kell kimutatni a készpénzforgalmat, valamint a pénzforgalmi betétkönyvekben kezelt pénzeszközök állományát és azok változásait, valamint az elektronikus pénzt.
+(2a)[^45] A mérlegben a lekötött bankbetéteken belül kell kimutatni a betét elhelyezésének évén túli lejáratú forint és deviza lekötött bankbetéteket és az éven belüli lejáratú forint és deviza lekötött bankbetéteket.
 
-(4)[^36] A mérlegben a forintszámlák és a devizaszámlák között kell kimutatnia a számlatulajdonosnak a Kincstárban és a Kincstáron kívül forintban és devizában vezetett, olyan fizetési számlák – ide értve az Ávr. 145. § (3) bekezdése szerinti alszámlákat és a Kincstár által a társadalombiztosítási támogatásokhoz, európai uniós vagy más nemzetközi forrásból finanszírozott támogatási programokhoz vagy más lebonyolítási, fejezeti elszámolási, technikai feladatokhoz, illetve a finanszírozási bevételek és kiadások teljesítéséhez vezetett számlákat is – egyenlegét, amelyek változását a költségvetési számvitelben költségvetési vagy finanszírozási bevételként vagy kiadásként kell nyilvántartani. Itt kell kimutatni továbbá a Kincstári Egységes Számla egyenlegét is.
+(3)[^46] A mérlegben a pénztárak, csekkek, betétkönyvek között kell kimutatni a forint- és valutapénztárakban kezelt készpénzt, valamint a pénzforgalmi betétkönyvekben kezelt pénzeszközöket, a csekkeket és az elektronikus pénzt.
+
+(4)[^47] A mérlegben a forintszámlák és a devizaszámlák között kell a számlatulajdonosnak kimutatnia a Kincstárban és a Kincstáron kívül forintban és devizában vezetett fizetési és más bankszámlái – ideértve az Ávr. 145. § (3) bekezdése szerinti alszámlákat és a Kincstár által a társadalombiztosítási támogatásokhoz, európai uniós vagy más nemzetközi forrásból finanszírozott támogatási programokhoz vagy más lebonyolítási, fejezeti elszámolási, technikai feladatokhoz, illetve a finanszírozási bevételek és kiadások teljesítéséhez vezetett számlákat is – egyenlegét.
 
 (5) A mérlegben a követelések között az egységes rovatrend szerinti rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon nyilvántartott követeléseket kell kimutatni mindaddig, amíg azokat pénzügyileg vagy egyéb módon nem rendezték, az Áht. 97. §-a szerint el nem engedték vagy behajthatatlan követelésként le nem írták.
 
-(6)[^37] A mérlegben a követeléseket költségvetési évben esedékes követelések és költségvetési évet követően esedékes követelések, ezen belül a költségvetési bevételek kiemelt előirányzatai és finanszírozási bevételek szerinti tagolásban kell kimutatni. A mérleg a követelések között tartalmazza a 48. § (8) bekezdése szerinti követelés jellegű sajátos elszámolásokat is.
+(6)[^48] A mérlegben a követeléseket költségvetési évben esedékes követelések és költségvetési évet követően esedékes követelések, ezen belül a költségvetési bevételek kiemelt előirányzatai és finanszírozási bevételek szerinti tagolásban kell kimutatni. A mérleg a követelések között tartalmazza a 48. § (8) bekezdése szerinti követelés jellegű sajátos elszámolásokat is.
 
 (7) A mérlegben az aktív időbeli elhatárolásokon belül kell kimutatni az eredményszemléletű bevételek aktív időbeli elhatárolását, a költségek, ráfordítások aktív időbeli elhatárolását és a halasztott ráfordításokat.
 
@@ -18,5 +20,8 @@
 
 (10) A mérlegben a halasztott ráfordítások között az Szt. 33. § (1) bekezdése szerintieket kell kimutatni.
 
-[^36]: A 13. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 11. pontja szerint módosított szöveg.
-[^37]: A 13. § (6) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 12. pontja szerint módosított szöveg.
+[^44]: A 13. § (2) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^45]: A 13. § (2a) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^46]: A 13. § (3) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^47]: A 13. § (4) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^48]: A 13. § (6) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 12. pontja szerint módosított szöveg.

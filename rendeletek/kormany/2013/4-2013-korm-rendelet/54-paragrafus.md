@@ -1,6 +1,6 @@
-## 24. [^163] A nyitó tételek, a nyitás utáni feladatok
+## 24. [^196] A nyitó tételek, a nyitás utáni feladatok
 
-54. §[^164] (1) A költségvetési év kezdetére – a 7. § (5) bekezdése szerinti esetben az alapítás időpontjára – el kell végezni az 1–4. számlaosztály könyvviteli számláinak megnyitását a 491. Nyitómérleg számla könyvviteli számlával szemben.
+54. §[^197] (1) A költségvetési év kezdetére – a 7. § (5) bekezdése szerinti esetben az alapítás időpontjára – el kell végezni az 1–4. számlaosztály könyvviteli számláinak megnyitását a 491. Nyitómérleg számla könyvviteli számlával szemben.
 
 (2) A könyvviteli számlák megnyitását követően haladéktalanul – a folyó könyvelésben – el kell végezni:
 
@@ -14,5 +14,5 @@ c) a költségvetési évben esedékes és költségvetési évet követően ese
 
 (4) Az előző évi maradványt bevételként az előző évi beszámoló elkészültét követően kell nyilvántartásba venni.
 
-[^163]: A 24. alcím a 497/2013. (XII. 29.) Korm. rendelet 108. §-ával megállapított szöveg.
-[^164]: Az 54. § a 497/2013. (XII. 29.) Korm. rendelet 108. §-ával megállapított szöveg.
+[^196]: A 24. alcím a 497/2013. (XII. 29.) Korm. rendelet 108. §-ával megállapított szöveg.
+[^197]: Az 54. § a 497/2013. (XII. 29.) Korm. rendelet 108. §-ával megállapított szöveg.

@@ -1,16 +1,16 @@
 11. § (1) A mérlegben a nemzeti vagyonba tartozó befektetett eszközök között kell kimutatni az immateriális javakat, a tárgyi eszközöket, a befektetett pénzügyi eszközöket és a koncesszióba, vagyonkezelésbe adott eszközöket.
 
-(2)[^24] A mérlegben az immateriális javakon belül kell kimutatni az Szt. 25. § (6), (7) és (10) bekezdésében foglaltakkal megegyező tartalommal a vagyoni értékű jogokat és a szellemi termékeket, továbbá az immateriális javak értékhelyesbítését.
+(2)[^26] A mérlegben az immateriális javakon belül kell kimutatni az Szt. 25. § (6), (7) és (10) bekezdésében foglaltakkal megegyező tartalommal a vagyoni értékű jogokat és a szellemi termékeket, továbbá az immateriális javak értékhelyesbítését.
 
 (3) A mérlegben a tárgyi eszközökön belül kell kimutatni
 
 a) az Szt. 26. § (2) és (3) bekezdésében foglaltakkal megegyező tartalommal az ingatlanokat és a kapcsolódó vagyoni értékű jogokat,
 
-b)[^25] az Szt. 26. § (4) és (5) bekezdésében foglaltakkal megegyező tartalommal a (4) bekezdés szerinti gépeket, berendezéseket, felszereléseket, járműveket,
+b)[^27] az Szt. 26. § (4) és (5) bekezdésében foglaltakkal megegyező tartalommal a (4) bekezdés szerinti gépeket, berendezéseket, felszereléseket, járműveket,
 
 c) az Szt. 26. § (6) bekezdésében foglaltakkal megegyező tartalommal a tenyészállatokat,
 
-d)[^26] az (5) és (6) bekezdés szerinti beruházásokat, felújításokat, és
+d)[^28] az (5) és (6) bekezdés szerinti beruházásokat, felújításokat, és
 
 e) a tárgyi eszközök értékhelyesbítését.
 
@@ -18,33 +18,50 @@ e) a tárgyi eszközök értékhelyesbítését.
 
 a) a rendeltetésszerűen használatba vett, üzembe helyezett, a tevékenységet szolgáló – így különösen egészségügyi, oktatási, híradás-technikai, környezetvédelmi, kutatási célú számítás- és ügyvitel-technikai – eszközöket,
 
-b)[^27] a rendeltetésszerűen használatba vett, üzembe helyezett forgalmi rendszámmal ellátott közúti járműveket, a vízi és légi személy- és áruszállító eszközöket, és
+b)[^29] a rendeltetésszerűen használatba vett, üzembe helyezett forgalmi rendszámmal ellátott közúti járműveket, a vízi és légi személy- és áruszállító eszközöket, és
 
-c)[^28] az a) és b) pont szerinti eszközökön végzett és aktivált beruházásokat, felújításokat.
+c)[^30] az a) és b) pont szerinti eszközökön végzett és aktivált beruházásokat, felújításokat.
 
-d)[^29]
+d)[^31]
 
-(5)[^30] A mérlegben a beruházások között kell kimutatni a rendeltetésszerűen használatba nem vett, üzembe nem helyezett tárgyi eszközök bekerülési értékét, továbbá a már használatba vett, valamint a mérlegben nem szerepeltethető tárgyi eszközök bővítésével, rendeltetésének megváltoztatásával, átalakításával, élettartamának, teljesítőképességének közvetlen növelésével összefüggő munkák – még nem aktivált – bekerülési értékét.
+(5)[^32] A mérlegben a beruházások között kell kimutatni a rendeltetésszerűen használatba nem vett, üzembe nem helyezett tárgyi eszközök bekerülési értékét, továbbá a már használatba vett, valamint a mérlegben nem szerepeltethető tárgyi eszközök bővítésével, rendeltetésének megváltoztatásával, átalakításával, élettartamának, teljesítőképességének közvetlen növelésével összefüggő munkák – még nem aktivált – bekerülési értékét.
 
-(6)[^31] A mérlegben a felújítások között kell kimutatni a mérlegben szereplő és a mérlegben nem szerepeltethető tárgyi eszközökön végzett, az Szt. 3. § (4) bekezdés 8. pontja szerinti felújítások bekerülési értékét.
+(6)[^33] A mérlegben a felújítások között kell kimutatni a mérlegben szereplő és a mérlegben nem szerepeltethető tárgyi eszközökön végzett, az Szt. 3. § (4) bekezdés 8. pontja szerinti felújítások bekerülési értékét.
 
-(7)[^32]
+(7)[^34]
 
 (8) A mérlegben a befektetett pénzügyi eszközökön belül kell kimutatni a tartós részesedéseket, a tartós hitelviszonyt megtestesítő értékpapírokat és a befektetett pénzügyi eszközök értékhelyesbítését.
 
-(9) A mérlegben a tartós részesedések között az olyan gazdasági társaságokban lévő tulajdoni részesedést jelentő befektetéseket kell kimutatni, amelyeket abból a célból szereztek, hogy tartós jövedelemre (osztalékra, kamatra) tegyenek szert, vagy befolyásolási, irányítási, ellenőrzési lehetőséget érjenek el. A tartós részesedések között kell kimutatni továbbá az állam jegybankban, a helyi önkormányzatok, nemzetiségi önkormányzatok társulásokban való részesedéseit, valamint a nem gazdasági társaságban lévő más tartós befolyásolási, irányítási, ellenőrzési lehetőséget biztosító részesedéseket.
+(9)[^35] A mérlegben a tartós részesedések között az olyan tulajdoni részesedést jelentő befektetéseket kell kimutatni, amelyeket abból a célból szereztek, hogy tartós jövedelemre (osztalékra, kamatra) tegyenek szert, vagy befolyásolási, irányítási, ellenőrzési lehetőséget érjenek el. A tartós részesedéseken belül el kell különíteni az állam jegybanki részesedéseit (tartós részesedések jegybankban), a tartós részesedéseket nem pénzügyi vállalkozásban, a tartós részesedéseket pénzügyi vállalkozásban, a helyi önkormányzatok, nemzetiségi önkormányzatok társulásokban való részesedéseit (tartós részesedések társulásokban), valamint az egyéb tartós részesedéseket.
 
-(10) A mérlegben a tartós hitelviszonyt megtestesítő értékpapírok között kell kimutatni az olyan hitelviszonyt megtestesítő értékpapírokat, amelyek lejárata, beváltása a mérleg fordulónapját követő költségvetési évben még nem esedékes, és azokat a mérleg fordulónapját követő költségvetési évben nem szándékoznak értékesíteni.
+(9a)[^36] A mérlegben a tartós részesedések nem pénzügyi vállalkozásban között kell kimutatni a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaságban, valamint az Nvt. 2. mellékletében meghatározott nem nonprofit, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény hatálya alá nem tartozó gazdasági társaságokban fennálló tartós részesedéseket (törvény alapján tartós állami részesedések nem pénzügyi vállalkozásban) és az egyéb nem nonprofit, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény hatálya alá nem tartozó gazdasági társaságokban fennálló részesedéseket (tartós részesedések saját alapítású nem pénzügyi vállalkozásban).
 
-(11)[^33] A mérlegben a koncesszióba, vagyonkezelésbe adott eszközök között a tulajdonosnak – az állami vagyon esetén a törvényben kijelölt tulajdonosi joggyakorló szervezetnek – azokat a nemzeti vagyonba tartozó befektetett eszközöket és azok értékhelyesbítését kell kimutatnia, amelyek üzemeltetését államháztartáson kívüli szervezetnek, személynek koncessziós szerződéssel átadta, vagy amelyekre államháztartáson kívüli szervezettel, személlyel vagyonkezelői szerződést kötött. A koncesszióba, vagyonkezelésbe adott eszközök között el kell különíteni a koncesszióba, vagyonkezelésbe adott immateriális javakat, tárgyi eszközöket és tartós részesedéseket, tartós hitelviszonyt megtestesítő értékpapírokat.
+(9b)[^37] A mérlegben a tartós részesedések pénzügyi vállalkozásban között kell kimutatni az Nvt. 2. mellékletében meghatározott nem nonprofit, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény hatálya alá tartozó gazdasági társaságokban fennálló tartós részesedéseket (törvény alapján tartós állami részesedések pénzügyi vállalkozásban) és az egyéb nem nonprofit, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény hatálya alá tartozó gazdasági társaságokban fennálló részesedéseket (tartós részesedések saját alapítású pénzügyi vállalkozásban).
 
-[^24]: A 11. § (2) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 40. § 5. pontja szerint módosított szöveg.
-[^25]: A 11. § (3) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 9. pontja szerint módosított szöveg.
-[^26]: A 11. § (3) bekezdés d) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 10. pontja szerint módosított szöveg.
-[^27]: A 11. § (4) bekezdés b) pontja a 307/2013. (VIII. 14.) Korm. rendelet 40. § 6. pontja szerint módosított szöveg.
-[^28]: A 11. § (4) bekezdés c) pontja a 307/2013. (VIII. 14.) Korm. rendelet 40. § 7. pontja, a 497/2013. (XII. 29.) Korm. rendelet 113. § 2. pontja szerint módosított szöveg.
-[^29]: A 11. § (4) bekezdés d) pontja a 307/2013. (VIII. 14.) Korm. rendelet 41. § 1. pontja alapján nem lép hatályba.
-[^30]: A 11. § (5) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 87. §-ával megállapított, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^31]: A 11. § (6) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 87. §-ával megállapított, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^32]: A 11. § (7) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 113. § 3. pontja alapján nem lép hatályba.
-[^33]: A 11. § (11) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 10. pontja szerint módosított szöveg.
+(9c)[^38] Az egyéb tartós részesedések között kell kimutatni
+
+a) a nonprofit gazdasági társaságban fennálló tartós részesedéseket,
+
+b) az olyan nemzetközi szervezetekben fennálló tartós részesedéseket, amely szervezetekhez Magyarország tőke-hozzájárulást teljesített, és
+
+c) – a befektetési jegyek kivételével – a nem gazdasági társaságban, társulásban, nemzetközi szervezetben fennálló tulajdoni részesedést jelentő tartós befektetéseket.
+
+(10)[^39] A mérlegben a tartós hitelviszonyt megtestesítő értékpapírok között kell kimutatni az olyan hitelviszonyt megtestesítő értékpapírokat, amelyek lejárata, beváltása a mérleg fordulónapját követő költségvetési évben még nem esedékes, és azokat a mérleg fordulónapját követő költségvetési évben nem szándékoznak értékesíteni. A tartós hitelviszonyt megtestesítő értékpapírok között el kell különíteni az államkötvényeket és a helyi önkormányzatok kötvényeit.
+
+(11)[^40] A mérlegben a koncesszióba, vagyonkezelésbe adott eszközök között a tulajdonosnak, tulajdonosi joggyakorló szervezetnek azokat a nemzeti vagyonba tartozó befektetett eszközöket és azok értékhelyesbítését kell kimutatnia, amelyek üzemeltetését államháztartáson kívüli szervezetnek, személynek koncessziós szerződéssel átadta, vagy amelyekre államháztartáson kívüli szervezettel, személlyel vagyonkezelői szerződést kötött. Az átadáskor az eszköz bruttó értékét és elszámolt értékcsökkenését, értékvesztését, értékhelyesbítését a koncesszióba, vagyonkezelésbe adott eszközök közé kell átvezetni. A koncesszióba, vagyonkezelésbe adott eszközök között el kell különíteni a koncesszióba, vagyonkezelésbe adott immateriális javakat, tárgyi eszközöket és tartós részesedéseket, tartós hitelviszonyt megtestesítő értékpapírokat.
+
+[^26]: A 11. § (2) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 40. § 5. pontja szerint módosított szöveg.
+[^27]: A 11. § (3) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 9. pontja szerint módosított szöveg.
+[^28]: A 11. § (3) bekezdés d) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 10. pontja szerint módosított szöveg.
+[^29]: A 11. § (4) bekezdés b) pontja a 307/2013. (VIII. 14.) Korm. rendelet 40. § 6. pontja szerint módosított szöveg.
+[^30]: A 11. § (4) bekezdés c) pontja a 307/2013. (VIII. 14.) Korm. rendelet 40. § 7. pontja, a 497/2013. (XII. 29.) Korm. rendelet 113. § 2. pontja szerint módosított szöveg.
+[^31]: A 11. § (4) bekezdés d) pontja a 307/2013. (VIII. 14.) Korm. rendelet 41. § 1. pontja alapján nem lép hatályba.
+[^32]: A 11. § (5) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 87. §-ával megállapított, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^33]: A 11. § (6) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 87. §-ával megállapított, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^34]: A 11. § (7) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 113. § 3. pontja alapján nem lép hatályba.
+[^35]: A 11. § (9) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^36]: A 11. § (9a) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^37]: A 11. § (9b) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^38]: A 11. § (9c) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^39]: A 11. § (10) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^40]: A 11. § (11) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

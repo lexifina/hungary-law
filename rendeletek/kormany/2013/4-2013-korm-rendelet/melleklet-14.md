@@ -1,6 +1,6 @@
-14. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^208]
+14. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^243]
 
-A részletező nyilvántartások tartalma
+## A részletező nyilvántartások tartalma
 
 I. Előirányzatok nyilvántartása
 
@@ -182,7 +182,7 @@ j) az eszköz nettó értékét és annak változásait,
 
 k) az eszköz alap- vagy vállalkozási tevékenység szerinti besorolását,
 
-l) a nemzeti vagyonról szóló törvény szerinti besorolását, és
+l) az Nvt. szerinti besorolását, és
 
 m) a leltározással kapcsolatos feljegyzéseket.
 
@@ -230,7 +230,7 @@ n) az eszköz alap- vagy vállalkozási tevékenység szerinti besorolását,
 
 o) személyre kiadott eszközök esetén a használó személy azonosításához szükséges adatokat,
 
-p) a nemzeti vagyonról szóló törvény szerinti besorolását,
+p) az Nvt. szerinti besorolását,
 
 q) a leltározással kapcsolatos feljegyzéseket.
 
@@ -288,7 +288,7 @@ g) értékpapír értékeléséhez szükséges adatokat,
 
 h) a követelések és a kötelezettségvállalások, más fizetési kötelezettségek nyilvántartásával való kapcsolatok leírását,
 
-i) az értékpapír nemzeti vagyonról szóló törvény szerinti besorolását, és
+i) az értékpapír Nvt. szerinti besorolását, és
 
 j) a biztonságos őrzési hely, a letéti hely megnevezését, a letéti szerződés számát.
 
@@ -310,7 +310,7 @@ g) a követelések és a kötelezettségvállalások, más fizetési kötelezett
 
 h) gazdasági társaság esetén a társaság piaci megítélésének főbb mutatóit, és
 
-i) a részesedés nemzeti vagyonról szóló törvény szerinti besorolását.
+i) a részesedés Nvt. szerinti besorolását.
 
 3. Részvénytársaság esetén a részesedés nyilvántartásának tartalmaznia kell a részvények mint értékpapírok azonosításához szükséges adatokat is, így különösen a részvény típusát, a forgalmazó megnevezését, a jegyzési adatokat, a részvény esetleges tőzsdei kategóriáját, a letéti helyet és a letéti igazolás sorszámát, az értékpapírszámla számát, megnevezését, a számlavezető nevét, valamint a részvénykönyvet vezető megnevezését.
 
@@ -340,4 +340,4 @@ e) a leltározással kapcsolatos feljegyzéseket.
 
 4. Az átsorolt, követelés fejében átvett készletekről olyan nyilvántartást kell vezetni, amelyet e rendelet az eszköz jellemzője szerint megkövetelne abban az esetben, ha azt nem értékesítenék.
 
-[^208]: A 14. melléklet a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés d) pontja, a 497/2013. (XII. 29.) Korm. rendelet 113. § 14. pontja, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 2. és 37. pontja szerint módosított szöveg.
+[^243]: A 14. melléklet a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés d) pontja, a 497/2013. (XII. 29.) Korm. rendelet 113. § 14. pontja, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 2. és 37. pontja, és 23. § (2) bekezdés 21–22. pontja szerint módosított szöveg.

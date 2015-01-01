@@ -1,6 +1,6 @@
-9. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^181]
+9. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^214]
 
-AZ ESZKÖZÖK ÉRTÉKVESZTÉSÉNEK ALAKULÁSA
+## AZ ESZKÖZÖK ÉRTÉKVESZTÉSÉNEK ALAKULÁSA
 
 1. A kimutatásban külön oszlopban kell szerepeltetni a 2. pont szerinti eszközök
 
@@ -18,32 +18,24 @@ f) értékvesztésének záró értékét.
 
 2. A kimutatásban a következő eszközöket kell szerepeltetni:
 
-a) immateriális javakra adott előlegek,
+a) adott előlegek,
 
-b) beruházásra adott előlegek,
+b) tartós részesedések,
 
-c) készletekre adott előlegek, foglalkoztatottaknak adott előlegek, egyéb adott előlegek,
+c) tartós hitelviszonyt megtestesítő értékpapírok,
 
-d) tartós részesedések,
+d) készletek,
 
-e) tartós hitelviszonyt megtestesítő értékpapírok,
+e) lekötött bankbetétek,
 
-f) készletek,
+f) Kincstáron kívüli forintszámlák,
 
-g) hosszú lejáratú betétek,
+g) Kincstáron kívül devizaszámlák,
 
-h) Kincstáron kívüli forintszámlák,
+h) követelések a követelés jellegű sajátos elszámolások kivételével,
 
-i) Kincstáron kívül devizában vezetett fizetési számlák,
+i) nem tartós részesedések, és
 
-j) belföldi idegen pénzeszközök,
+j) forgatási célú hitelviszonyt megtestesítő értékpapírok.
 
-k) nemzetközi támogatási programok idegen pénzeszközei,
-
-l) követelések,
-
-m) nem tartós részesedések, és
-
-n) forgatási célú hitelviszonyt megtestesítő értékpapírok.
-
-[^181]: A 9. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 4. pontjával megállapított szöveg.
+[^214]: A 9. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 4. pontjával megállapított, a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 2. pontja szerint módosított szöveg.

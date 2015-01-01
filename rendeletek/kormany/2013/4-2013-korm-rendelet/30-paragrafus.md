@@ -6,8 +6,10 @@
 
 (3) A vagyonkimutatás a mérlegben szereplő eszközökön és kötelezettségeken kívül tartalmazza:
 
-a) a „0”-ra leírt eszközök, a használatban lévő kisértékű immateriális javak, tárgyi eszközök, készletek, a 01–02. számlacsoportban nyilvántartott eszközök, és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 1. § (2) bekezdés g) és h) pontja szerinti kulturális javak és régészeti leletek állományát, és
+a)[^106] a „0”-ra leírt eszközök, a használatban lévő kisértékű immateriális javak, tárgyi eszközök, készletek, a 01–02. számlacsoportban nyilvántartott eszközök, és az Nvt. 1. § (2) bekezdés g) és h) pontja szerinti kulturális javak és régészeti leletek állományát, és
 
 b) a függő követeléseket és kötelezettségeket, a biztos (jövőbeni) követeléseket.
 
 (4) A vagyonkimutatásban szereplő ingatlanvagyon számviteli nyilvántartás szerinti bruttó értékének és az ingatlan vagyonkataszteri nyilvántartásban szereplő ingatlanvagyon bruttó értékének egyezőségét biztosítani kell.
+
+[^106]: A 30. § (3) bekezdés a) pontja a 284/2014. (XI. 20.) Korm. rendelet 23. § (2) bekezdés 7. pontja szerint módosított szöveg.
