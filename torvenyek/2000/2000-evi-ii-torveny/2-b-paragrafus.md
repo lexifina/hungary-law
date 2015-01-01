@@ -35,3 +35,5 @@ b) a háziorvos önálló egészségügyi tevékenység végzésére való jogos
 (6) A feladat-ellátási szerződést a feladatot ellátó háziorvosi szolgáltató is megkötheti.
 
 (7) A közalkalmazotti jogviszonyban álló, praxisjoggal rendelkező háziorvos esetében az (1) bekezdésben foglaltakat – a közalkalmazotti jogviszonyra vonatkozó szabályokkal összhangban – megfelelően alkalmazni kell.
+
+(8) A feladat-ellátási szerződés megkötésekor felmerülő vitás kérdések rendezésében a praxisjog engedélyezésére jogosult egészségügyi államigazgatási szerv – a felek által meghatározott kérdések eldöntésében – segítséget nyújt.
