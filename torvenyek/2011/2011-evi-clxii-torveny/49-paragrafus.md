@@ -24,6 +24,6 @@ b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztá
 
 a) a kérelem szerinti időpontig, de
 
-b) legfeljebb a gyermek hároméves koráig
+b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő bíró esetén a gyermek ötéves koráig
 
 köteles foglalkoztatni. Ezt követően a bíró munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.

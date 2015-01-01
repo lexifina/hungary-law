@@ -1,0 +1,1 @@
+29/A. § A Kúria elnöke által törvényben meghatározottak szerint eseti jelleggel létrehozott Kegyelmi Bizottság tagjává kijelölt bíró e feladatát az ítélkezési vagy igazgatási munkája mellett látja el.

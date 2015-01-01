@@ -6,6 +6,8 @@
 
 (3) A bírósági vezetők évi 5 munkanap pótszabadságra jogosultak. Az évi alapszabadság és a vezetői pótszabadság együttes mértéke a 40 munkanapot nem haladhatja meg.
 
+(3a) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+
 (4) A szabadság kiadásának az időpontját – a bíró előzetes meghallgatása után – a munkáltatói jogkör gyakorlója határozza meg. A szabadságok kiadására a bíróságokon szabadságolási tervet kell készíteni.
 
 (5) A rendes szabadság egynegyedét – a bírói szolgálati viszony első 3 hónapját kivéve – a bíró kérésének megfelelő időpontban kell kiadni. A bírónak az erre vonatkozó igényét a szabadság kezdete előtt legalább 15 nappal be kell jelentenie, kivételes méltányolást érdemlő körülmény esetén ettől el lehet tekinteni.
