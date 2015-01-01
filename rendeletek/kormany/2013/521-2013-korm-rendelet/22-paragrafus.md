@@ -1,5 +1,5 @@
 ## 21. § Ez a rendelet 2014. január 1-jén lép hatályba.
 
-22. §[^6]
+22. §[^14]
 
-[^6]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
