@@ -10,4 +10,4 @@
 
 (5) Azonos tényállású, három éven belüli ismételt jogsértés esetén a bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de nem haladhatja meg a kiszabható bírság legmagasabb mértékét.
 
-(6) A bírság összege a mezőgazdasági igazgatási szervet illeti meg.
+(6)
