@@ -8,7 +8,7 @@
 
 a) egyéni hulladékkezelés,
 
-b) az Országos Hulladékgazdálkodási Ügynökségen (a továbbiakban: OHÜ) keresztül történő kollektív teljesítés vagy
+b)[^5] az állami hulladékgazdálkodást közvetítő szervezeten keresztül történő kollektív teljesítés vagy
 
 c) átalánytermékdíj-fizetés
 
@@ -18,10 +18,14 @@ c) átalánytermékdíj-fizetés
 
 a) megállapodás alapján részben vagy együttesen a 7. § szerinti átvevőre,
 
-b) az OHÜ vagy
+b)[^6] az állami hulladékgazdálkodást közvetítő szervezetre vagy
 
-c) növényvédő szerrel szennyezett csomagolóeszköz esetén közvetítő szervezetre
+c)[^7] növényvédő szerrel vagy gyógyszerhulladékkal szennyezett csomagolóeszköz esetén közvetítő szervezetre
 
 ## átruházhatja.
 
 (5) A hasznosítási kötelezettséget – a (2) és (3) bekezdésben foglaltak kivételével – a Ktdt. 3. melléklete szerint meghatározott országos teljesítési hányadnak megfelelő hasznosítási arányok szerint kell teljesíteni.
+
+[^5]: A 6. § (3) bekezdés b) pontja a 368/2014. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^6]: A 6. § (4) bekezdés b) pontja a 368/2014. (XII. 30.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^7]: A 6. § (4) bekezdés c) pontja a 370/2014. (XII. 30.) Korm. rendelet 14. §-a szerint módosított szöveg.
