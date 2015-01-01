@@ -14,4 +14,4 @@ b) a 2011. december 31-én hatályos kötelező legkisebb munkabért említik, a
 
 kell érteni.
 
-(3) Az 5. § (4) és (5) bekezdésében foglalt rendelkezéseket az ezen alcímben foglaltak alapján megállapított szolgálati járandóságra is alkalmazni kell.
+(3) Az 5. § (3) bekezdés c) pontjában, (4), (5) és (7) bekezdésében foglalt rendelkezéseket az ezen alcímben foglaltak alapján megállapított szolgálati járandóságra is alkalmazni kell.

@@ -29,3 +29,5 @@ b) a Hjt. szerinti esetben az 52. életév betöltésétől kezdődően,
 c) a fegyveres erők és fegyveres testületek hivatásos állományú tagjainak nyugdíjáról szóló 22/1971. (VI. 1.) Korm. rendelet szerinti esetben az 55. életév betöltésétől kezdődően
 
 a 2012. január 1-jét megelőzően hatályos szabályok szerinti csökkentések nélkül kell folyósítani, és a (2) bekezdés szerinti csökkentést ennek megfelelően kell módosítani.
+
+(7) A (3) bekezdés c) pontja szerinti szerződés megkötéséről, megszűnéséről a szolgálati járandóság összegének pontos meghatározása érdekében a Honvédség központi személyügyi nyilvántartó szerve minden hónap 20. napjáig értesíti a nyugdíjfolyósító szervet. A szerződés megkötéséről szóló értesítés alapján a nyugdíjfolyósító szerv az önkéntes tartalékos katona részére megállapított és folyósított szolgálati járandóság összegét, és annak változását a szolgálati járandóság összegének pontos meghatározása érdekében közli a Honvédség katonai igazgatási és központi adatfeldolgozó szervével.
