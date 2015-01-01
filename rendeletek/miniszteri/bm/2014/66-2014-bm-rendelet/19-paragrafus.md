@@ -1,0 +1,3 @@
+## 18. § A RUSZ 56. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A hivatásos állományból nyugállományba helyezett személyek egyenruha viselésének jogosultságáról a nyugállományba helyezési állományparancs intézkedik. A nyugállományba helyezett személy csak társasági egyenruházat viselésére jogosult, a hivatásos állománykategóriát kifejező jelvény nélkül. A Nemzeti Közszolgálati Egyetem Fenntartói Testületében szolgálatot ellátó, illetve az Egyetemen oktatói, kutatói és tudományos tevékenységet végzők – a hivatásos állománykategóriát kifejező jelvény nélkül – egyetemi munkavégzésük időtartama alatt, illetve azzal összefüggésben jogosultak szolgálati és gyakorló ruházat viselésére is. Ennek beszerzési költsége a nyugállományba helyezett személyt terheli.”
