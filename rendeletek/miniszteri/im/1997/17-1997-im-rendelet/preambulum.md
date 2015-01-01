@@ -1,1 +1,0 @@
-A büntetések és intézkedések végrehajtásáról szóló, többször módosított 1979. évi 11. törvényerejű rendelet (a továbbiakban: Bv. tvr.) 127. §-ának (1) bekezdésében foglalt felhatalmazás alapján – a legfőbb ügyésszel egyetértésben – a következőket rendelem el:
