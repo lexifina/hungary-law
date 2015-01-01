@@ -8,7 +8,9 @@ a) a védendő fogyasztók szerződéseinek kivételével – a polgári jog sze
 
 b) a védendő fogyasztók külön jogszabályban meghatározott szerződésszegése esetén;
 
-c) ha a vele szerződéses viszonyban álló felhasználó a villamosenergia-vételezését a felhasználási helyen megszüntette.
+c) ha a vele szerződéses viszonyban álló felhasználó a villamosenergia-vételezését a felhasználási helyen megszüntette;
+
+d) ha a rendszerhasználó nem rendelkezik érvényes villamosenergia-vásárlási szerződéssel.
 
 (4) A hálózati engedélyes részéről szerződésszegésnek minősül különösen, ha
 
