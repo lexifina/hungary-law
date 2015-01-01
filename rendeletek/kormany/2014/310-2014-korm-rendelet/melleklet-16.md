@@ -32,11 +32,11 @@
 
 ## i) a 13. § (1) bekezdés szerinti tárgyévi vagyoni biztosíték összege és típusa.”
 
-16. melléklet a 310/2014. (XII. 11.) Korm. rendelethez
+16. melléklet a 310/2014. (XII. 11.) Korm. rendelethez[^12]
 
 „8. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez
 
-A közvetítő szervezet, az OHÜ és az átvállaló adatszolgáltatási kötelezettségének teljesítéséhez szükséges adatok
+A közvetítő szervezet, az állami hulladékgazdálkodást közvetítő szervezet és az átvállaló adatszolgáltatási kötelezettségének teljesítéséhez szükséges adatok
 
 1. A közvetítő szervezet:
 
@@ -60,19 +60,19 @@ c) HEE-6 adatlap: a tárgyévet megelőző évben hasznosított hulladékká vá
 
 d) HEE-8 adatlap: a tárgyévet megelőző évben ártalmatlanított hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezés-kategóriánként, átvállalónként bontva), feltüntetve az égetéssel ártalmatlanított mennyiséget, a lerakással ártalmatlanított mennyiséget.
 
-2. Az OHÜ:
+2. Az állami hulladékgazdálkodást közvetítő szervezet:
 
-2.1. Az OHÜ-re vonatkozó adatok:
+2.1. Az állami hulladékgazdálkodást közvetítő szervezetre vonatkozó adatok:
 
-a) az OHÜ neve, KÜJ-azonosítója, KSH statisztikai számjele, székhelye;
+a) az állami hulladékgazdálkodást közvetítő szervezet neve, KÜJ-azonosítója, KSH statisztikai számjele, székhelye;
 
 b) a felelős vezető neve, beosztása, elérhetősége;
 
-c) az OHÜ nemzeti adóazonosító száma;
+c) az állami hulladékgazdálkodást közvetítő szervezet nemzeti adóazonosító száma;
 
 d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége.
 
-2.2. Az OHÜ tevékenységére vonatkozó adatok:
+2.2. Az állami hulladékgazdálkodást közvetítő szervezet tevékenységére vonatkozó adatok:
 
 a) HEE-4 adatlap: a tárgyévet megelőző évben átvett, gyűjtött elektromos, elektronikus berendezés hulladékának mennyisége (tömeg szerint, berendezés-kategóriánként, típusonként bontva);
 
@@ -95,3 +95,5 @@ c) az átvállaló nemzeti adóazonosító száma;
 d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége.
 
 3.2. HEE-10 adatlap: a tárgyévet megelőző évben átvett, gyűjtött hulladékká vált elektromos és elektronikus berendezés hulladéka (tömeg szerint, berendezés-kategóriánként, gyártónként bontva).”
+
+[^12]: A 16. melléklet a 368/2014. (XII. 30.) Korm. rendelet 12. § (7) és (8) bekezdése szerint módosított szöveg.

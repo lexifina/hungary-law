@@ -52,4 +52,6 @@
 
 ## d) telephely címe (település, utca, házszám).”
 
-11. melléklet a 310/2014. (XII. 11.) Korm. rendelethez
+11. melléklet a 310/2014. (XII. 11.) Korm. rendelethez[^9]
+
+[^9]: A 11. melléklet a 368/2014. (XII. 30.) Korm. rendelet 12. § (3) és (4) bekezdése szerint módosított szöveg.

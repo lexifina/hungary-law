@@ -1,6 +1,6 @@
 ## „4. melléklet a 445/2012. (XII. 29.) Korm. rendelethez
 
-## A gyártó, az átvállaló, a közvetítő szervezet és az OHÜ adatszolgáltatási kötelezettsége során közölt adatok
+## A gyártó, az átvállaló, a közvetítő szervezet és az állami hulladékgazdálkodást közvetítő szervezet adatszolgáltatási kötelezettsége során közölt adatok
 
 ## 1. A gyártó adatszolgáltatási kötelezettsége:
 
@@ -68,9 +68,9 @@
 
 ## b) a tárgyévben kezelt elem- és akkumulátorhulladék mennyisége (kilogramm) típusonkénti és teljesítési segédenkénti bontásban, újrafeldolgozási hatékonysági mutatóval, Magyarország területén kívüli hulladékkezelés esetén a kiviteli engedély száma.
 
-## 4. Az OHÜ adatszolgáltatási kötelezettsége:
+## 4. Az állami hulladékgazdálkodást közvetítő szervezet adatszolgáltatási kötelezettsége:
 
-## 4.1. Az OHÜ-re vonatkozó adatok:
+## 4.1. Az állami hulladékgazdálkodást közvetítő szervezetre vonatkozó adatok:
 
 ## a) neve,
 
@@ -80,7 +80,7 @@
 
 ## d) a hatósággal való kapcsolattartásért felelős személy neve, beosztása, elérhetősége.
 
-## 4.2. Az OHÜ tevékenységére vonatkozó adatok:
+## 4.2. Az állami hulladékgazdálkodást közvetítő szervezet tevékenységére vonatkozó adatok:
 
 ## a) az átvett, gyűjtött elem és akkumulátorhulladék mennyisége (kilogramm) típusonkénti és teljesítési segédenkénti bontásban;
 

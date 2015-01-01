@@ -22,7 +22,7 @@
 
 ## c) átvállalóra átruházás útján,
 
-## d) OHÜ-n keresztül történő kollektív vagy közvetítő szervezeten keresztül történő teljesítés;
+## d) állami hulladékgazdálkodást közvetítő szervezeten keresztül történő kollektív vagy közvetítő szervezeten keresztül történő teljesítés;
 
 ## 8. A rendeletben meghatározott kötelezettségeinek teljesítésére a gyártó által vállalt pénzügyi biztosíték típusa;
 

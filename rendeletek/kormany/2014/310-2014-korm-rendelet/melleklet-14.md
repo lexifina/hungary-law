@@ -24,4 +24,6 @@
 
 ## j) fizetendő hulladéklerakási járulék az adott telephelyen összesen (Ft).”
 
-14. melléklet a 310/2014. (XII. 11.) Korm. rendelethez
+14. melléklet a 310/2014. (XII. 11.) Korm. rendelethez[^10]
+
+[^10]: A 14. melléklet a 368/2014. (XII. 30.) Korm. rendelet 12. § (6) bekezdés c) pontja szerint módosított szöveg.

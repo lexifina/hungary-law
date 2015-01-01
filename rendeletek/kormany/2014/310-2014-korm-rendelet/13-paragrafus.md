@@ -1,5 +1,3 @@
-## 12. §[^6]
+## 7.[^3]
 
-## 7. A hulladékká vált gépjárművekről szóló 444/2012. (XII. 29.) Korm. rendelet módosítása
-
-[^6]: A 12. § a 21. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^3]: A 7. alcím (13–14. §) a 369/2014. (XII. 30.) Korm. rendelet 26. §-a alapján nem lép hatályba.
