@@ -34,4 +34,4 @@ c) megadni a felhasználási időszak kezdő napján meglevő gázolaj-nyitóké
 
 (5) Az adó-visszaigénylésre az 56. § rendelkezéseit kell értelemszerűen alkalmazni azzal, hogy a gázolaj földgáz helyett történő felhasználását belső bizonylatokkal kell dokumentálni.
 
-(6) Az adó-visszaigénylés a csoportmentességi rendelet 25. cikke alapján környezeti adók csökkentése formájában nyújtott támogatásnak minősül.
+(6) Az adó-visszaigénylés a csoportmentességi rendelet 44. cikke alapján a 2003/96/EK irányelv szerinti környezetvédelmi adókedvezmény formájában nyújtható támogatás.

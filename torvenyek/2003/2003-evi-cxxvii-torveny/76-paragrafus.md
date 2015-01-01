@@ -18,4 +18,4 @@ c) az előállítás címét, ha az a lakcímtől eltér, és
 
 d) az előállítani kívánt sör mennyiségét.
 
-(6) A (3) bekezdés szerinti alacsonyabb adómérték érvényesítése az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül.
+(6) A (3) bekezdés szerinti alacsonyabb adómérték érvényesítése az adóévben igénybe vett csekély összegű (de minimis) támogatásként nyújtható.

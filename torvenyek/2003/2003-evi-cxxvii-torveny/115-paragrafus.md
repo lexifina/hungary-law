@@ -24,4 +24,4 @@ c) a vámhatóság által nyilvántartásba nem vett személy, ha szárított do
 
 (6a) A Jöt. 110/B. §-ban foglaltak megsértése esetén a jogellenesen értékesített cigarettapapír-hüvely, illetve cigarettapapír-lap minden darabja (lapja) után 500 forint, a dohánylevél-töltő minden darabja után 15 ezer forint jövedéki bírság szabható ki.
 
-(7) A 67/A. § (1) bekezdés szerinti bejelentésben az adó megállapításához szükséges adatok tekintetében valótlan adatok megadása, valamint a 67/A. § (2) bekezdés szerint tett valótlan nyilatkozat megtétele legalább 20 ezer forint összegű, de legfeljebb 200 ezer forintig terjedő jövedéki bírsággal büntetendő.
+(7) A 67/A. § (1) bekezdés szerinti bejelentésben az adó megállapításához szükséges adatok tekintetében valótlan adatok megadása legalább 20 ezer forint összegű, de legfeljebb 200 ezer forintig terjedő jövedéki bírsággal büntetendő.

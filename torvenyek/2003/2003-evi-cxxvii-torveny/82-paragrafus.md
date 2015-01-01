@@ -1,6 +1,6 @@
 ## Egyszerűsített adóraktári engedély
 
-82. § (1) Egyszerűsített adóraktári engedélyre jogosult az a személy, aki (amely) szőlőbort állít elő, palackoz (kiszerel), tárol, raktároz, továbbá aki (amely) – a 91. § (1) és (2) bekezdésben foglaltaktól eltérően – saját előállítású szőlőborból évente legfeljebb 10 000 liter palackos erjesztésű pezsgőt állít elő, tárol, raktároz.
+82. § (1) Egyszerűsített adóraktári engedélyre jogosult az a személy, aki (amely) szőlőbort vagy a 80. § (2a) bekezdése szerinti terméket állít elő, palackoz (kiszerel), tárol, raktároz, továbbá aki (amely) – a 91. § (1) és (2) bekezdésben foglaltaktól eltérően – saját előállítású szőlőborból évente legfeljebb 10 000 liter palackos erjesztésű pezsgőt állít elő, tárol, raktároz.
 
 (2) A kérelmező az (1) bekezdésben foglalt esetben akkor kaphat egyszerűsített adóraktári engedélyt, ha nyilatkozik arról, hogy
 
@@ -28,6 +28,6 @@ e) a kérelmező nyilatkozatát az (1) bekezdésben foglalt feltételek teljesü
 
 (6) A szőlőterületet művelő azon Polgári Törvénykönyv szerinti közeli hozzátartozók, valamint az élettársak (a továbbiakban: családtagok közössége), akik a saját művelésükben lévő szőlőterületen termelt szőlőből a szőlőbor előállítását, tárolását ugyanazon a közösen használt, adóraktárnak minősíthető helyen (a továbbiakban: közös adóraktár) végzik, e tevékenységüket egy egyszerűsített adóraktári engedéllyel folytathatják. Adóalanynak a családtagok közössége minősül. Az adóalanyisághoz fűződő kötelezettségeket és jogokat a családtagok közössége – a családtagok egyetemleges felelőssége mellett – az általa kijelölt képviselő útján gyakorolja.
 
-(7) Az egyszerűsített adóraktárban kizárólag szőlőbort, valamint az (1) bekezdés szerinti pezsgőt lehet előállítani, palackozni (kiszerelni), tárolni, raktározni.
+(7) Az egyszerűsített adóraktárban kizárólag szőlőbort, valamint az (1) bekezdés szerinti egyéb terméket lehet előállítani, palackozni (kiszerelni), tárolni, raktározni.
 
-(8) Az egyszerűsített adóraktár engedélyese a minőségi kifogás vagy lejárt szavatosság miatt szabadforgalomból visszaszállított (visszáru) szőlőbor, valamint az (1) bekezdés szerinti pezsgő általa megfizetett adóját visszaigényelheti (levonhatja), amennyiben a szőlőbort, valamint az (1) bekezdés szerinti pezsgőt az adóraktárában újrafeldolgozza vagy megsemmisíti. Az adólevonás joga a megsemmisítési jegyzőkönyv birtokában érvényesíthető, és a megsemmisítés napjától esedékes, újrafeldolgozás esetén pedig a 47. § (5) bekezdés a) pontjának, illetve (9) bekezdés a) pontjának rendelkezését kell alkalmazni.
+(8) Az egyszerűsített adóraktár engedélyese a minőségi kifogás vagy lejárt szavatosság miatt szabadforgalomból visszaszállított (visszáru) szőlőbor, valamint az (1) bekezdés szerinti egyéb termék általa megfizetett adóját visszaigényelheti (levonhatja), amennyiben a szőlőbort, valamint az (1) bekezdés szerinti egyéb terméket az adóraktárában újrafeldolgozza vagy megsemmisíti. Az adólevonás joga a megsemmisítési jegyzőkönyv birtokában érvényesíthető, és a megsemmisítés napjától esedékes, újrafeldolgozás esetén pedig a 47. § (5) bekezdés a) pontjának, illetve (9) bekezdés a) pontjának rendelkezését kell alkalmazni.

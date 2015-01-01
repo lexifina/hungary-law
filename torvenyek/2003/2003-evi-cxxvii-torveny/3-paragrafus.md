@@ -18,4 +18,4 @@ f) a köztes alkoholtermék,
 
 g) a dohánygyártmány.
 
-(3) Az (1) bekezdésben meghatározott adókból származó bevétel a központi költségvetést illeti meg.
+(3) Az (1) bekezdésben meghatározott adókból származó bevétel a központi költségvetést illeti meg, kivéve a 64. § (6) bekezdésében meghatározott adóból származó bevételt, amely a magánfőző lakóhelye szerinti önkormányzatnak a bevétele.

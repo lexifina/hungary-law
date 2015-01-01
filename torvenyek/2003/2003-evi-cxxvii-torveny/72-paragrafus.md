@@ -62,8 +62,10 @@ nem kell alkalmazni.
 
 (11) Kérelemre – a külön jogszabályban foglaltak szerint – engedélyezhető az E85 előállítása a legalább 250 ezer hektoliter éves etilalkohol-gyártó kapacitású szeszüzemben is, az ásványolajtermékekre meghatározott külön jövedéki biztosíték nyújtása nélkül.
 
-(12) Az italgyár és a szeszpalackozó engedélyesének a palackozás céljára betárolt és lepalackozott szőlőbor tekintetében a 83. § rendelkezéseit kell értelemszerűen alkalmaznia.
+(12) Az italgyár és a szeszpalackozó engedélyesének a palackozás céljára betárolt és lepalackozott szőlőbor, valamint a 80. § (2a) bekezdése szerinti termék tekintetében a 83. § rendelkezéseit kell értelemszerűen alkalmaznia.
 
 (13) A 64. § (10) bekezdés szerinti esetben nem kell adóraktári engedéllyel rendelkezni.
 
 (14) Az (1) bekezdés b) pontja szerinti adóraktárban a vámhatóság engedélyezheti a Kertv. szerinti közvetlen értékesítés folytatását. A közvetlen értékesítés keretében az adóraktárból elvitelre vagy kóstolás céljából helyben fogyasztásra kitárolt összes napi alkoholtermék-mennyiségről – a kiállított számviteli bizonylatok alapján – a nap végén egy, az adópolitikáért felelős miniszter rendeletében meghatározott adattartalmú egyszerűsített kísérő okmányt kell kiállítani, amelynek másolatát az adóraktár engedélyese a kiállítással egyidejűleg, a 40. § (13) bekezdésében meghatározott módon megküldi a vámhatóságnak. A napközbeni készletcsökkenést az egyszerűsített kísérő okmány kiállításáig az értékesítésről kiállított számviteli bizonylat igazolja.
+
+(15) A magánfőzőnek nem kell adóraktári engedéllyel rendelkeznie.

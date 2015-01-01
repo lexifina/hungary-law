@@ -34,7 +34,7 @@ n) a 63. § (1) bekezdés c) pontja szerinti alkoholtermékek közül a 64. § (
 
 o) a cseppfolyósított szénhidrogénnek a külön jogszabály szerint pébégázpalackból turistahasználatú, legfeljebb 3 kg töltettömegű palackba történő átfejtését,
 
-p) nemzeti vagy uniós támogatás igénybevételével megvalósuló, a kutatás-fejlesztésről és technológiai innovációról szóló törvény szerinti kísérleti fejlesztés (a továbbiakban: kísérleti fejlesztés) keretében a külön jogszabály szerinti bioüzemanyagnak (a továbbiakban: bioüzemanyag) adózott benzinbe vagy adózott gázolajba adózottan történő bekeverését, amennyiben azt a vámhatóságnak előzetesen bejelentették (a továbbiakban: kísérleti célú előállítás),
+p) nemzeti vagy uniós támogatás igénybevételével megvalósuló, a tudományos kutatásról, fejlesztésről és innovációról szóló törvény szerinti kísérleti fejlesztés (a továbbiakban: kísérleti fejlesztés) keretében a külön jogszabály szerinti bioüzemanyagnak (a továbbiakban: bioüzemanyag) adózott benzinbe vagy adózott gázolajba adózottan történő bekeverését, amennyiben azt a vámhatóságnak előzetesen bejelentették (a továbbiakban: kísérleti célú előállítás),
 
 q) a 76. § (4) bekezdése szerinti sör, a 80. § (3) bekezdése szerinti bor és a 89. § (3) bekezdése szerinti pezsgő előállítását,
 
@@ -184,7 +184,7 @@ b) egyébként a Bizottság 2587/91/EGK rendeletével módosított, 1992. októb
 
 49. fenntarthatósági bizonyítvány: a bioüzemanyagok fenntartható előállításának szabályairól szóló jogszabályban foglaltak szerint kiállított, a bioüzemanyag fenntartható módon történt előállítását igazoló okmány.
 
-50. motorfejlesztés: a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 800/2008/EK bizottsági rendelet (HL L 214/3., 2008.8.9.) (a továbbiakban: csoportmentességi rendelet) 30. cikk 4. pontja szerinti kísérleti fejlesztés keretében a környezetet jobban kímélő motorokkal kapcsolatos technológiai fejlesztés;
+50. csoportmentességi rendelet: a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-ei 651/2014/EU bizottsági rendelet;
 
 51. kereskedelmi gázolaj: az 52. § (1) bekezdés d) pontja alá tartozó gázolaj, amelyet
 
@@ -196,11 +196,11 @@ használnak fel.
 
 52. légiutas-ellátási tevékenység: a gazdasági célú légi közlekedési tevékenységet végző, a nemzetközi légi forgalomban részt vevő légi járművek fedélzetéről, az utasok részére felszolgálásra vagy értékesítésre szánt, a 3. § (2) bekezdés b)–g) pontja szerinti jövedéki termékek utántöltési célú levétele, ideiglenes tárolása, illetve 15 napon belül gazdasági célú légi közlekedési tevékenységet végző, a nemzetközi légi forgalomban részt vevő légi jármű fedélzetére történő felvitele, amennyiben a levételt, a tárolást és a felvitelt a jövedéki engedélyes kereskedő miniszteri rendeletben előírt módon igazolja.
 
-53. regionális beruházási támogatás: a 2007–2013 közötti időszakra vonatkozó nemzeti regionális támogatásokról szóló iránymutatás (2006/C 54/08), valamint a csoportmentességi rendelet 13. cikke szerinti támogatás;
+53. motorfejlesztés: a csoportmentességi rendelet 2. cikk 86. pontja szerinti kísérleti fejlesztés keretében a környezetet jobban kímélő motorokkal kapcsolatos technológiai fejlesztés;
 
-54. környezetvédelmi beruházási támogatás: a környezetvédelem állami támogatásáról szóló közösségi iránymutatás (2008/C 82/01) 3.1.6.1 pontja szerinti támogatás, valamint a csoportmentességi rendelet 23. cikke szerinti támogatás;
+54. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 1. pontja szerinti támogatás;
 
-55. mezőgazdasági beruházási támogatás: az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló közösségi iránymutatások, 2007–2013 (2006/C 319/1) IV.A és IV.B pontja szerinti támogatás;
+55. csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet szerinti támogatás;
 
 56. szárított dohány: a tőről leszakított nyersdohány, valamint a 2401 vámtarifaszámú feldolgozatlan dohány, továbbá a dohányhulladék;
 

@@ -2,7 +2,7 @@
 
 (2) A jövedéki engedélyre jogosult az a személy,
 
-a) aki – az (5) és (8)–(11) bekezdésben foglalt eltéréssel – az ásványolajtermékek esetében 120 millió Ft, az egyéb jövedéki termékek esetében 22 millió Ft jövedéki biztosítékot nyújt,
+a) aki – az (5) és (8)–(11) bekezdésben foglalt eltéréssel – az ásványolajtermékek esetében 600 millió Ft, dohánygyártmányok esetében 22 millió Ft, az egyéb jövedéki termékek esetében 150 millió Ft jövedéki biztosítékot nyújt,
 
 b) aki könyvvezetési kötelezettségének a kettős könyvvezetés szabályai, illetve az egyéni vállalkozó és az Szja törvény szerinti mezőgazdasági őstermelő esetében az Szja törvény rendelkezései szerint tesz eleget, és olyan nyilvántartási, bizonylati rendszert alkalmaz, hogy annak alapján a forgalmazott jövedéki termék mennyiségi számbavétele ellenőrizhető,
 
@@ -34,7 +34,7 @@ is rendelkezzen.
 
 (6) Amennyiben az importáló az importált jövedéki termékét jövedéki engedélyes kereskedelmi tevékenység keretében értékesíti, vagy a jövedéki engedélyes kereskedő a jövedéki termékét exportálja, vagy ha a jövedéki engedélyes kereskedő a légiutas-ellátási tevékenység keretében jövedéki engedélyes kereskedelmi tevékenységet és importtevékenységet is folytat, a (2) bekezdés a) pontja szerinti jövedéki biztosítékot csak az egyik tevékenysége után kell nyújtania.
 
-(7) Ha a jövedéki engedélyes kereskedő, az exportáló és az importáló ásványolajat és egyéb jövedéki terméket egyaránt forgalmaz, exportál, importál, a (2) bekezdés a) pontjában meghatározott jövedéki biztosítékot 142 millió forint összegben kell teljesíteni.
+(7) Ha a jövedéki engedélyes kereskedő, az exportáló és az importáló ásványolajat, dohánygyártmányt és egyéb jövedéki terméket egyaránt vagy ezekből többet forgalmaz, exportál, importál, a (2) bekezdés a) pontjában meghatározott jövedéki biztosítékot az ásványolajra, dohánygyártmányra és az egyéb jövedéki termékre külön-külön kell teljesíteni.
 
 (8) Nem kell jövedéki biztosítékot nyújtania annak a jövedéki engedélyes kereskedelmi, export- és importtevékenységet folytató, az Áht. szerint az államháztartás központi alrendszerébe tartozó költségvetési szervnek.
 
@@ -42,7 +42,7 @@ is rendelkezzen.
 
 (10) Jövedéki engedélyes tevékenységet
 
-a) kizárólag szőlőborral folytató személynek a jövedéki engedély megszerzéséhez nem kell,
+a) kizárólag szőlőborral, valamint a 80. § (2a) bekezdése szerinti termékkel folytató személynek a jövedéki engedély megszerzéséhez nem kell,
 
 b) kizárólag 5 liter/5 kilogramm vagy annál kisebb kiszerelésű, az 52. § (1) bekezdés h) pontja szerinti termékkel folytató személynek 1 millió Ft összegben kell,
 
@@ -56,7 +56,11 @@ db) egyéb esetben 10 millió forint összegben kell,
 
 e) kizárólag 2901 10 vámtarifaszámú cseppfolyósított szénhidrogénnel folytató személynek 1 millió Ft összegben kell,
 
-f) kizárólag a 62/A. § (1) bekezdése szerinti kenőolajjal folytató személynek 5 millió Ft összegben kell
+f) kizárólag a 62/A. § (1) bekezdése szerinti kenőolajjal folytató személynek 5 millió Ft összegben kell,
+
+g) kizárólag a b) és f) pont szerinti termékekkel folytató személynek 6 millió Ft összegben kell,
+
+h) kizárólag az 52. § (1) bekezdés f)–g) és – a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogén kivételével – i) pontja szerinti ásványolajjal, valamint az 50. § (4) bekezdés szerinti megfigyelt termékkel és repülőgép üzemanyaggal – akár külön akár egyszerre többel – folytató személynek 120 millió Ft összegben kell
 
 jövedéki biztosítékot nyújtania.
 

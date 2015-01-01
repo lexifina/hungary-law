@@ -10,7 +10,9 @@ d) a dohánygyártmány-adóraktár, valamint az adóraktár-engedélyes haszná
 
 e) a Magyarország területére szárított dohányt és fermentált dohányt behozó (a továbbiakban: dohányimportáló),
 
-f) az a jogi személy, jogi személyiség nélküli szervezet és belföldön nyilvántartásba vett gazdálkodó, aki regisztrációra kötelezettől – kivéve dohánykereskedőtől – szárított dohányt és fermentált dohányt vásárol regisztrációra kötelezett részére történő továbbértékesítési céllal (a továbbiakban: dohánykereskedő).
+f) az a jogi személy, jogi személyiség nélküli szervezet és belföldön nyilvántartásba vett gazdálkodó, aki regisztrációra kötelezettől – kivéve dohánykereskedőtől – szárított dohányt és fermentált dohányt vásárol regisztrációra kötelezett részére történő továbbértékesítési céllal (a továbbiakban: dohánykereskedő),
+
+g) az a gazdálkodó, aki szárított dohány vagy fermentált dohány felhasználásával gazdasági tevékenység keretében nem dohánygyártmányt állít elő.
 
 (2) Szárított dohány és fermentált dohány csak a vámhatóság által nyilvántartásba vett regisztrációra kötelezettek között értékesíthető és adható át közvetlenül vagy írásbeli szerződésben megbízott fuvarozó, szállítmányozó igénybevételével.
 
@@ -19,3 +21,5 @@ f) az a jogi személy, jogi személyiség nélküli szervezet és belföldön ny
 (4) Az e §-ban foglalt rendelkezések teljesítése, annak ellenőrzése és felügyelete, továbbá az ezzel kapcsolatos hatósági eljárás jövedéki ügynek minősül.
 
 (5) Az e §-ban előírt regisztrációs és bejelentési kötelezettségnek elektronikus úton kell eleget tenni.
+
+(6) Az (1) bekezdés g) pontja szerinti gazdálkodó kérelmében köteles részletesen leírni a gyártási folyamatot, amelyben szárított dohányt vagy fermentált dohányt használ fel. A kérelmet a vámhatóság 30 napon belül bírálja el és az abban foglaltakat szükség szerint helyszíni ellenőrzés keretében ellenőrizheti.

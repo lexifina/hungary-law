@@ -28,13 +28,13 @@ gc) az engedélyezett csapatmozgások, nemzeti és nemzetközi gyakorlatok eset�
 
 h) – amennyiben 2710 11 31, 2710 11 41, 2710 11 45 vagy 2710 11 49 vámtarifaszámú ólmozatlan benzin a szállított termék – a kőolaj-finomító adóraktárból vagy finomítói ásványolajraktárból, illetve ásványolaj-tárolóból a 72. § (11) bekezdés szerinti szeszüzembe, E85 előállítása céljára.
 
-(2) A jövedéki termék – kivéve szőlőbor – adófelfüggesztéssel történő szállításának e fejezet alkalmazásában az a szállítás minősül, amelyet a (3) bekezdés szerinti okmánnyal végeznek.
+(2) A jövedéki termék – kivéve a szőlőbort, a 80. § (2a) bekezdése szerinti terméket, valamint a 82. § (1) bekezdése szerinti pezsgőt – adófelfüggesztéssel történő szállításának e fejezet alkalmazásában az a szállítás minősül, amelyet a (3) bekezdés szerinti okmánnyal végeznek.
 
 (3) Az e fejezet szerinti adófelfüggesztéses szállításhoz alkalmazható okmányok
 
-a) – a b) pontban foglalt eltéréssel – az adóraktárból, az adómentes felhasználó üzeméből, raktárából kitárolt, valamint az importálás helyéről a 10. § (3) bekezdés b) pont szerint szállított jövedéki termékre – kivéve a szőlőbort – az e-TKO, illetve – a 20/A. § szerinti üzemszünet időtartama alatt – az üzemszüneti TKO,
+a) – a b) pontban foglalt eltéréssel – az adóraktárból, az adómentes felhasználó üzeméből, raktárából kitárolt, valamint az importálás helyéről a 10. § (3) bekezdés b) pont szerint szállított jövedéki termékre – kivéve a szőlőbort, a 80. § (2a) bekezdése szerinti terméket, valamint a 82. § (1) bekezdése szerinti pezsgőt – az e-TKO, illetve – a 20/A. § szerinti üzemszünet időtartama alatt – az üzemszüneti TKO,
 
-b) az ásványolaj csővezetékes szállítása esetén, valamint a 11. § (1) bekezdés g) pont gb) és gc) alpont szerinti esetben a külön jogszabály szerint e célra elfogadható egyéb okmány, bizonylat (a továbbiakban a)–b) pontok együtt: termékkísérő okmány).
+b) az ásványolaj csővezetékes szállítása esetén, valamint a 11. § (1) bekezdés g) pont gb) és gc) alpont szerinti esetben a külön jogszabály szerint e célra elfogadható egyéb okmány, bizonylat [a továbbiakban a)–b) pontok együtt: termékkísérő okmány]
 
 (4) A termékkísérő okmányt a jövedéki terméket kitároló adóraktár-engedélyes, adómentes felhasználó, az importáló adóraktár-engedélyes, adómentes felhasználó vagy a bejegyzett feladó állítja ki, az e-TKO és az üzemszüneti TKO esetében a (7) bekezdésben foglaltak szerint, az egyéb okmány, bizonylat alkalmazása esetén a külön jogszabályban foglaltak szerint.
 

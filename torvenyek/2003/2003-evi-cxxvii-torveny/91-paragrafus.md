@@ -22,4 +22,4 @@ d) a kiszerelt pezsgő önálló tárolását, raktározását végző raktárra
 
 (7) A pezsgőtároló adóraktárban a pezsgőn kívül adózatlan, a 73. § (9)–(10) bekezdés szerint kiszerelt alkoholtermék, sör, bor és köztes alkoholtermék tárolása is megengedett.
 
-(8) A pezsgőüzem és a pezsgőpalackozó engedélyesének a palackozás céljára betárolt és lepalackozott szőlőbor tekintetében a 83. § rendelkezéseit kell értelemszerűen alkalmaznia.
+(8) A pezsgőüzem és a pezsgőpalackozó engedélyesének a palackozás céljára betárolt és lepalackozott szőlőbor, valamint a 80. § (2a) bekezdése szerinti termék tekintetében a 83. § rendelkezéseit kell értelemszerűen alkalmaznia.

@@ -8,11 +8,11 @@ c) a 2710 19 41, a 2710 19 45, a 2710 19 49 vámtarifaszám alatti, tüzelő-, f
 
 d) a 2710 19 41 vámtarifaszám alatti, üzemanyag célú gázolajra 110 350 Ft/ezer liter,
 
-e) a 2710 19 61 vámtarifaszámú fűtőolajok közül azokra, amelyek viszkozitása 40 °C hőmérsékleten nagyobb, mint 4,5 mm2/s és a desztillációs vizsgálatnál a 250 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 25%-ot és a 350 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 80%-ot és 15 °C-on mért sűrűsége nagyobb 860 kg/m3-nél, 4425 Ft/ezer kg, egyébként – ideértve az üzemanyagkénti kínálást, felhasználást, értékesítést is – 116 000 Ft/ezer kg; a 2710 19 63, a 2710 19 65 és a 2710 19 69 vámtarifaszám alá tartozó fűtőolajok közül azokra, amelyek viszkozitása 40 °C hőmérsékleten nagyobb, mint 4,5 mm2/s és a desztillációs vizsgálatnál a 250 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 25%-ot és a 350 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 80%-ot és 15 °C-on mért sűrűsége nagyobb 860 kg/m3-nél, 40 000 Ft/ezer kg, egyébként – ideértve az üzemanyagkénti kínálást, felhasználást, értékesítést is – 116 000 Ft/ ezer kg,
+e) a 2710 19 61 vámtarifaszámú fűtőolajok közül azokra, amelyek viszkozitása 40 °C hőmérsékleten nagyobb, mint 4,5 mm2/s és a desztillációs vizsgálatnál a 250 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 25%-ot és a 350 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 80%-ot és 15 °C-on mért sűrűsége nagyobb 860 kg/m3-nél, 4 655 Ft/ezer kg, egyébként – ideértve az üzemanyagkénti kínálást, felhasználást, értékesítést is – 116 000 Ft/ezer kg; a 2710 19 63, a 2710 19 65 és a 2710 19 69 vámtarifaszám alá tartozó fűtőolajok közül azokra, amelyek viszkozitása 40 °C hőmérsékleten nagyobb, mint 4,5 mm2/s és a desztillációs vizsgálatnál a 250 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 25%-ot és a 350 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 80%-ot és 15 °C-on mért sűrűsége nagyobb 860 kg/m3-nél, 40 000 Ft/ezer kg, egyébként – ideértve az üzemanyagkénti kínálást, felhasználást, értékesítést is – 116 000 Ft/ezer kg,
 
-f) a 2711 12, a 2711 13, a 2711 14 00, a 2711 19 00 vámtarifaszám alatti gáz termékekből arra a cseppfolyósított szénhidrogénre, amelyet közúti járművek üzemanyagaként értékesítenek, importálnak vagy használnak fel, 95 800 Ft/ezer kg, egyéb motorikus célú értékesítés, importálás vagy felhasználás esetén 12 095 Ft/ezer kg, egyébként 0 Ft/ezer kg,
+f) a 2711 12, a 2711 13, a 2711 14 00, a 2711 19 00 vámtarifaszám alatti gáztermékekből arra a cseppfolyósított szénhidrogénre, amelyet közúti járművek üzemanyagaként értékesítenek, importálnak vagy használnak fel, 95 800 Ft/ezer kg, egyéb motorikus célú értékesítés, importálás vagy felhasználás esetén 12 725 Ft/ezer kg, egyébként 0 Ft/ezer kg,
 
-g) a 2711 21 00 és a 2711 29 00 vámtarifaszám alatti gáz termékekből arra a sűrített gáz halmazállapotú szénhidrogénre, amelyet közúti járművek üzemanyagaként értékesítenek, importálnak vagy használnak fel, 0 Ft/nm3,
+g) a 2711 21 00 és a 2711 29 00 vámtarifaszám alatti gáztermékekből arra a sűrített gáz halmazállapotú szénhidrogénre, amelyet közúti járművek üzemanyagaként értékesítenek, importálnak vagy használnak fel, 28 Ft/nm3,
 
 h) az 50. § (3) bekezdés f) pontja szerinti termékek közül az ólmozatlan benzin adalékanyagára, hígítóanyagára az a) pont szerinti adómérték, az üzemanyag célú gázolaj adalékanyagára, hígítóanyagára a d) pont szerinti adómérték, egyébként 0 Ft/ezer liter,
 
@@ -24,7 +24,7 @@ a) – figyelemmel a (3) bekezdés rendelkezésére is – a biodízel esetében
 
 b) – figyelemmel a (3) bekezdés rendelkezésére is – az E85 esetében a termék bioetanolon kívüli komponenseinek térfogatra számított mennyiségi részaránya (a százalékérték századrészében kifejezve) és az (1) bekezdés a) pont szerinti adómérték szorzatának, valamint a termék bioetanol tartalmának térfogatra számított mennyiségi részaránya és 70 000 Ft/ezer liter szorzatának együttes összege,
 
-c) az a) és b) pontban nem említett bioüzemanyag esetében az üzemanyagkénti felhasználásnak megfelelően az (1) bekezdés a), d), f) vagy g) pont szerinti ásványolajok közül a hozzá legközelebb álló ásványolajra meghatározott adómérték, illetve a 2207 vámtarifaszám alá tartozó alkoholtermék bioüzemanyag esetében a 64. § (2) bekezdés szerinti alacsonyabb adómérték,
+c) az a) és b) pontban nem említett bioüzemanyag esetében az üzemanyagkénti felhasználásnak megfelelően az (1) bekezdés a), d), f) vagy g) pont szerinti ásványolajok közül a hozzá legközelebb álló ásványolajra meghatározott adómérték, illetve a 2207 vámtarifaszám alá tartozó alkoholtermék bioüzemanyag esetében a 64. § (2) bekezdés szerinti adómérték,
 
 d) a tiszta növényiolaj-gyártó adóraktárban előállított és a 129. § (1) bekezdés a) pontjában meghatározott mennyiségben és célra felhasznált ásványolaj esetében az (1) bekezdés d) pont szerinti adómérték 18%-a,
 
@@ -36,8 +36,10 @@ f) az a)–e) pont alá nem eső ásványolaj esetében – az üzemanyagkénti 
 
 (4) A (3) bekezdés rendelkezését nem kell alkalmazni a külön jogszabály szerinti hulladékból a külön jogszabály szerinti hulladékkezelés során egyébásványolaj-gyártó adóraktárban előállított egyéb ellenőrzött ásványolajra és olajtermékre, ide nem értve az üzemanyagként előállított terméket.
 
-(5) A (2) bekezdés b) és d) pontja szerinti adómérték a csoportmentességi rendelet 25. cikke alapján környezeti adók csökkentése formájában nyújtott támogatásnak minősül.
+(5) A (2) bekezdés b) és d) pontja szerinti adómérték a csoportmentességi rendelet 44. cikke alapján a 2003/96/EK irányelv szerinti környezetvédelmi adókedvezmény formájában nyújtható támogatás.
 
-(6) Az adó mértéke az E85 esetében – a (2) bekezdés b) pontjától eltérően – az (1) bekezdés a) pont szerinti adómérték, amennyiben az E85-öt olyan adóraktár-engedélyes bocsátja szabadforgalomba, aki regionális beruházási támogatásban, környezetvédelmi beruházási támogatásban vagy mezőgazdasági beruházási támogatásban részesült és az (1) bekezdés a) pont szerinti adómérték, valamint a (2) bekezdés b) pont szerinti adómérték különbségének és az (1) bekezdés a) pont szerinti adómérték alkalmazásával szabadforgalomba bocsátott E85 mennyiségének szorzata nem éri el a kapott regionális beruházási támogatás, a környezetvédelmi beruházási támogatás vagy a mezőgazdasági beruházási támogatás összegét.
+(6) Az E85 bioüzemanyag kedvezményes jövedéki adója az Európai Bizottság SA.35676. számú határozata hatálya alá tartozó állami támogatást tartalmaz.
 
-(7) Az E85-öt szabadforgalomba bocsátó adóraktár-engedélyes külön jogszabály szerint nyilatkozik arról, hogy részesült-e regionális beruházási támogatásban, környezetvédelmi beruházási támogatásban vagy mezőgazdasági beruházási támogatásban.
+(7) Az adó mértéke az E85 esetében – a (2) bekezdés b) pontjától eltérően – az (1) bekezdés a) pont szerinti adómérték, amennyiben az E85-öt olyan adóraktár-engedélyes bocsátja szabadforgalomba, aki állami támogatásban részesült és az (1) bekezdés a) pont szerinti adómérték, valamint a (2) bekezdés b) pont szerinti adómérték különbségének és az (1) bekezdés a) pont szerinti adómérték alkalmazásával szabadforgalomba bocsátott E85 mennyiségének szorzata nem éri el a kapott állami támogatás összegét.
+
+(8) Az E85-öt szabadforgalomba bocsátó adóraktár-engedélyes külön jogszabály szerint nyilatkozik arról, hogy részesült-e állami támogatásban.

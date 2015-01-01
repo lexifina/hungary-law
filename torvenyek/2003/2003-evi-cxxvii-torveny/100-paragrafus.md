@@ -8,7 +8,7 @@ b) a dohánygyártmányok előállítását végző – az a) pontba nem tartoz�
 
 c) a dohánygyárnak és a dohányüzemnek a gyártóüzeme területén és a gyártóüzeme területén kívül található, dohánygyártmány tárolására alkalmas, saját tulajdonú vagy bérelt, illetve egyéb használati jogon működtetett raktárára (a továbbiakban: üzemi dohánygyártmányraktár),
 
-d) a fogyasztói csomagolású, adójegy nélküli, a 96. § (1) bekezdésének b)–c) pontja szerinti szivar és a 96. § (1) bekezdésének f)–g) pontja szerinti fogyasztási dohány önálló tárolását, raktározását végző raktárra (a továbbiakban: dohánytároló adóraktár)
+d) a fogyasztói csomagolású, adójegy nélküli, a 96. § (1) bekezdésének b)–c) pontja szerinti szivar, szivarka és a 96. § (1) bekezdésének f)–g) pontja szerinti fogyasztási dohány önálló tárolását, raktározását végző raktárra (a továbbiakban: dohánytároló adóraktár)
 
 adható.
 

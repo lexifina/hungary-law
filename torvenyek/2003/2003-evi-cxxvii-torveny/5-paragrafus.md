@@ -1,6 +1,6 @@
 ## Hatáskör, illetékesség
 
-5. § (1) Jövedéki ügyben – a (7)–(8) bekezdésben meghatározott kivétellel – a vámhatóság jár el.
+5. § (1) Jövedéki ügyben – a (7)–(9) bekezdésben meghatározott kivétellel – a vámhatóság jár el.
 
 (2) A jövedéki termékek és az abból előállított termékek 48. § (20) bekezdés szerinti kötelező érvényű vámtarifa-besorolásával kapcsolatos ügyekben a Nemzeti Adó- és Vámhivatal Kormány által kijelölt szerve (a továbbiakban: vegyvizsgáló szerv) jár el.
 
@@ -15,3 +15,5 @@
 (7) A végrehajtási eljárás lefolytatására az adóhatóság jogosult.
 
 (8) Az e törvény hatálya alá tartozó személyek vámazonosító szám megállapításával összefüggő nyilvántartásba vétellel és nyilvántartással kapcsolatos ügyben az állami adó- és vámhatóság jár el. Az említett eljárásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény (a továbbiakban: Art.) tartalmazza.
+
+(9) A magánfőző desztillálóberendezésének bejelentésével kapcsolatban és a magánfőzésnél az adóbevallással és az adó megfizetésével kapcsolatos eljárásban az önkormányzati adóhatóság jár el.

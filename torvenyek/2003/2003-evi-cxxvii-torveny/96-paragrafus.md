@@ -8,13 +8,11 @@
 
 a) a dohányrúd, amely meglévő állapotában dohányzásra alkalmas, és e bekezdés szerint nem minősül szivarnak vagy szivarkának, továbbá az a dohányrúd, amelyet egy egyszerű, nem ipari eljárással cigarettapapír-hüvelybe tolnak, vagy cigarettapapír-lappal körbevesznek (a továbbiakban együtt: cigaretta),
 
-b) a dohányrúd, amely teljes egészében természetes dohányból készült,
+b) a természetes dohánylevelekből álló külső borítékkal rendelkező dohányrúd,
 
-c) a dohányrúd természetes dohányból készült borítékkal,
+c) a kocsányozott dohánykeverékből készült szivarbélből, valamint a szivar szokásos színével megegyező színű, regenerált dohánylevélből készült, és a terméket – adott esetben a füstszűrőt is beleértve, a szopókával ellátott szivaroknál azonban a szopóka kivételével – teljesen körülölelő, külső borítékból álló dohányrúd, amelynek tömege – füstszűrő vagy szopóka nélkül – legalább 2,3 gramm és legfeljebb 10 gramm, valamint amely hosszának legalább egyharmadánál mért kerülete eléri a 34 millimétert [a továbbiakban a b)–c) pont együtt: szivar, szivarka],
 
-d) a dohányrúd kocsányozott kevert töltettel és a szivar szokásos színével megegyező külső borítékkal, amely teljesen befedi a terméket, beleértve a filtert is, amennyiben van, kivéve a szopókával ellátott terméket. A burok és a boríték dohányfóliából készült, és egy termék tömege – a filter és a szopóka nélkül – nem lehet kevesebb 1,2 g-nál, és a borítékot a dohányrúd hossztengelyével minimum 30 fokos hegyes szöget bezáróan, spirálisan tekerték fel,
-
-e) a dohányrúd kocsányozott kevert töltettel és a szivar szokásos színével megegyező dohányfóliából készült külső borítékkal, amely teljesen befedi a terméket, beleértve a filtert is, amennyiben van, kivéve a szopókával ellátott terméket, ahol a külső boríték nem fedi a szopókát. Egy termék tömege – filter vagy szopóka nélkül – nem kevesebb 2,3 g-nál és a kerülete a dohányrúd hosszának legalább egyharmadán nem kevesebb 34 mm-nél [a továbbiakban a b)–e) pont együtt: szivar, szivarka],
+d)–e)
 
 f) olyan, további ipari feldolgozás nélkül dohányzásra alkalmas kész dohányvágat, amelyben a dohányrészecskék tömegének több mint 25 százaléka kisebb mint 1,5 milliméter szélességűre vágott (a továbbiakban: finomra vágott fogyasztási dohány),
 
@@ -34,4 +32,4 @@ kell tekinteni.
 
 (4) Nem lehet dohánygyártmánynak tekinteni azt a kizárólag gyógyászati célra használt, gyógyhatású anyagot tartalmazó terméket, amely nem tartalmaz dohányt és a külön jogszabályban meghatározott hatóság által kiadott érvényes forgalomba hozatali engedéllyel rendelkezik.
 
-(5) Az olyan terméket, amely részben tartalmaz dohánytól eltérő anyagot is, de egyébként megfelel az (1) bekezdés b)–e) pontjában foglalt kritériumoknak, szivarnak, szivarkának kell tekinteni.
+(5) Az olyan terméket, amely részben tartalmaz dohánytól eltérő anyagot is, de egyébként megfelel az (1) bekezdés b)–c) pontjában foglalt kritériumoknak, szivarnak, szivarkának kell tekinteni.

@@ -32,7 +32,7 @@ c) a 2206 vámtarifaszám alá tartozó terméket – a sör kivételével –, 
 
 3. kizárólagos erjedés: a bor tényleges alkoholtartalmának a külön jogszabály rendelkezései szerinti kialakulása;
 
-4. borkísérő okmány: a szőlőbor, valamint a 82. § (1) bekezdése szerinti pezsgő szállításához alkalmazandó, a vámhatóság által kiadott, vagy a vámhatóság engedélyével formanyomtatványként, illetve számítógéppel előállított, szigorú számadású bizonylat;
+4. borkísérő okmány: a szőlőbor, a 80. § (2a) bekezdése szerinti termék, valamint a 82. § (1) bekezdése szerinti pezsgő szállításához alkalmazandó, a vámhatóság által kiadott vagy a vámhatóság engedélyével formanyomtatványként, illetve számítógéppel előállított, szigorú számadású bizonylat;
 
 5–6.
 

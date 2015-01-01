@@ -30,7 +30,7 @@ i) a jelölt gázolajat, ha azt áru- vagy személyszállítást gazdasági tev�
 
 j) azt az alkoholterméket, amelyből a teljes denaturáláshoz felhasznált anyagokat részben vagy egészben kivonták, vagy olyan anyagot adtak hozzá, amely a teljesen denaturált alkohol hatását ízre vagy szagra megváltoztatta, vagy azt a teljesen vagy részlegesen denaturált alkoholterméket, amelyet az e törvény hatálya alá tartozó adóköteles ital előállításához használtak fel, illetve amelyet az előbbiek szerint az élvezeti célra szolgáló termékben hoztak forgalomba, értékesítettek vagy tartanak birtokban;
 
-k) azt a párlatot, amelyet a bérfőzető a 67. § (2) bekezdésének, a magánfőző a 67. § (2) bekezdés b) pontjának rendelkezését megsértve értékesít, valamint azt az alkoholterméket, amelyet a 74. § (1b) bekezdés előírásait megsértve állítanak elő, használnak fel vagy értékesítenek,
+k) azt a párlatot, amelyet a bérfőzető a 67. § (2) bekezdésének, a magánfőző a 67/A. § (7) bekezdés rendelkezését megsértve értékesít, valamint azt az alkoholterméket, amelyet a 74. § (1b) bekezdés előírásait megsértve állítanak elő, használnak fel vagy értékesítenek,
 
 l) a 76. § (4) bekezdésben előírtak megsértésével előállított, értékesített vagy a 76. § (5) bekezdés szerint bejelenteni elmulasztott sört, a 80. § (3) bekezdés c) pontjában előírtak megsértésével előállított, értékesített vagy a 80. § (4) bekezdés szerint bejelenteni elmulasztott egyéb bort és a 89. § (3) bekezdésben előírtak megsértésével előállított, értékesített vagy a 89. § (4) bekezdés szerint bejelenteni elmulasztott pezsgőt [a továbbiakban az a)–l) pontban megjelölt termék: adózás alól elvont termék].
 
@@ -40,7 +40,7 @@ a) az adózás alól elvont
 
 aa) szőlőbor literben,
 
-ab) – a 74. § (1b) bekezdés előírásainak megsértésével előállított – alkoholterméknek, ha az adózás alól elvont termék előállításához felhasznált alapanyag mennyisége, fajtája ismert és az adózás alól elvont termék mennyisége más módon nem állapítható meg, a 3. számú melléklet alkalmazásával,
+ab) – a 74. § (1b) bekezdés előírásainak megsértésével előállított – alkoholterméknek, ha az adózás alól elvont termék előállításához felhasznált alapanyag mennyisége, fajtája ismert és az adózás alól elvont termék mennyisége más módon nem állapítható meg, a 3. számú mellékletben meghatározott kihozatali arányszám alkalmazásával,
 
 ac) – az aa) és ab) pontban nem említett – terméknek az adó alapjaként meghatározott mennyiségi egységben
 
@@ -56,7 +56,9 @@ bc) – a ba), bb) és c) pontban nem említett – egyéb termék esetében a t
 
 adómérték, vagy
 
-c) szőlőbor esetében 30 forint
+c) szőlőbor esetében 30 forint,
+
+d) a 80. § (2a) bekezdése szerinti termék esetében 10 000 forint
 
 szorzatának kétszerese, de legalább 30 ezer forint.
 
@@ -64,7 +66,7 @@ szorzatának kétszerese, de legalább 30 ezer forint.
 
 (5) A felhasználói engedélyes az egyéb ellenőrzött ásványolajnak, a megfigyelt terméknek vagy a teljesen denaturált alkoholnak, az adóraktár-engedélyes az 50. § (4) bekezdése szerinti megfigyelt terméknek vagy a teljesen denaturált alkoholnak a 60. § (3) bekezdés szerinti elszámolással megállapított, nem engedélyezett célra történt felhasználása (készlethiánya) esetén az ilyen felhasználásként kimutatott mennyiség és a bírság megállapításakor hatályos,
 
-a) az 50. § (4) bekezdés e) pontja szerinti megfigyelt termék, továbbá a teljesen denaturált alkohol esetén a 64. § (2) bekezdésében meghatározott alacsonyabb,
+a) az 50. § (4) bekezdés e) pontja szerinti megfigyelt termék, továbbá a teljesen denaturált alkohol esetén a 64. § (2) bekezdésében meghatározott,
 
 b) a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogén esetén az 52. § (1) bekezdés f) pontja szerinti legmagasabb,
 

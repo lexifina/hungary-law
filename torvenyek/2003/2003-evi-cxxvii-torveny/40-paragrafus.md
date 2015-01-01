@@ -1,12 +1,12 @@
 ## Az adóraktár bizonylatolási, nyilvántartási és elszámolási kötelezettsége
 
-40. § (1) Adóraktárból a jövedéki termék – kivéve a szőlőbort, valamint a 82. § (1) bekezdése szerinti pezsgőt –
+40. § (1) Adóraktárból a jövedéki termék – kivéve a szőlőbort, a 80. § (2a) bekezdése szerinti terméket, valamint 82. § (1) bekezdése szerinti pezsgőt –
 
-a) adófelfüggesztés mellett [ideértve a 13. § (1) bekezdés e)–g) pont szerinti célra történő kitárolást is]
+a) adófelfüggesztés mellett (ideértve a 13. § (1) bekezdés e)–g) pont szerinti célra történő kitárolást is)
 
 aa) belföldi rendeltetéssel vagy harmadik országba belföldről történő kiléptetés céljára e-TKO-val (az üzemszünet időtartama alatt üzemszüneti TKO-val),
 
-ab) ásványolaj-adóraktárból csővezetékes szállítás esetén, illetve a repülőtéri adóraktárból, valamint a 11. § (1) bekezdés g) pont gb) és gc) alpont szerinti esetben a külön jogszabályban meghatározott egyéb okmánnyal, bizonylattal tárolható ki,
+ab) ásványolaj-adóraktárból csővezetékes szállítás esetén, illetve a repülőtéri adóraktárból, valamint a 11. § (1) bekezdés g) pont gb) és gc) alpont szerinti esetben az adópolitikáért felelős miniszter rendeletében meghatározott egyéb okmánnyal, bizonylattal tárolható ki,
 
 b) szabad forgalomba – kivéve a sűrítettgáz-töltő adóraktárból történő kiszállítást és a cseppfolyósítottgáz-töltő adóraktárból a cseppfolyósított gáz 25 kilogramm vagy annál kisebb palackban történő kiszállítását, valamint a 13. § (1) bekezdés c) pontjának ca) alpontja és a 72. § (14) bekezdése szerinti esetet – az eredet igazolására alkalmas bizonylat (a továbbiakban: egyszerűsített kísérő okmány) egyidejű kiállításával, és a szállítást végző részére történő átadásával bocsátható.
 
@@ -34,6 +34,6 @@ b) szabad forgalomba – kivéve a sűrítettgáz-töltő adóraktárból tört�
 
 (13) A (9) bekezdésben előírt adatszolgáltatási kötelezettséget – a sörfőzde kivételével – a 20. § (1) bekezdés szerinti elektronikus úton kell teljesíteni.
 
-(14) Adóraktárból a szőlőbor, valamint a 82. § (1) bekezdése szerinti pezsgő belföldi rendeltetéssel vagy harmadik országba belföldről történő kiléptetés céljára adófelfüggesztés mellett történő kitárolása, valamint – a külön jogszabályban foglalt eltéréssel – szabadforgalomba bocsátása borkísérő okmány [79. § (2) bekezdés 4. pont] kiállítása mellett történhet.
+(14) Adóraktárból a szőlőbor, a 80. § (2a) bekezdése szerinti termék, valamint a 82. § (1) bekezdése szerinti pezsgő belföldi rendeltetéssel vagy harmadik országba belföldről történő kiléptetés céljára adófelfüggesztés mellett történő kitárolása, valamint – jogszabályban foglalt eltéréssel – szabadforgalomba bocsátása borkísérő okmány [79. § (2) bekezdés 4. pont] kiállítása mellett történhet.
 
 (15) A sörfőzde adóraktár engedélyese olyan nyilvántartást köteles vezetni, amelyből megállapítható a felhasznált alapanyag mennyisége, az előállított sör mennyisége és az adó alapját képező alkoholfoka, valamint a szabadforgalomba bocsátott sör mennyisége. A nyilvántartást úgy kell kialakítani, hogy az megfeleljen a számviteli törvényben előírt számviteli bizonylati fegyelemre vonatkozó előírásoknak. Az alapbizonylatokon rögzített termelési, készletezési és értékesítési műveletek során bekövetkező változásokat, eseményeket a nyilvántartásba folyamatosan, az események sorrendiségének megfelelően rögzíteni kell. A vezetett nyilvántartást havonta le kell zárni, meg kell állapítani a tárgyhavi készletváltozásokat és a zárókészlet mennyiségét.

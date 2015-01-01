@@ -32,7 +32,7 @@ g)
 
 h) ellenőrizheti a jármű üzemanyagtartályában, kiegészítő üzemanyagtartályában lévő hajtóanyagot.
 
-(3) A (2) bekezdés a) pontjában foglalt esetben a helyiségbe való belépést és az ott folytatott ellenőrzést két hatósági tanú jelenlétében, magánlakás esetén továbbá az ellenőrzött személy kíméletével, lehetőleg nappal kell végrehajtani. A vámhatóság az intézkedésről jegyzőkönyvet vesz fel. A jegyzőkönyvben rögzíti az intézkedés során megállapított tényeket, illetve a hatósági tanúk azonosításához szükséges adatokat.
+(3)
 
 (4) A vámhatóság a felhasználói engedélyes és a nyilvántartásba vett felhasználó telephelyén a felhasználás jogszerűségének megállapítása céljából
 

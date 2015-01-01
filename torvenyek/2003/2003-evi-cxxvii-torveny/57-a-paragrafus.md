@@ -1,6 +1,6 @@
 57/A. § (1) A motorfejlesztést megvalósító személy az e tevékenységéhez helyhez kötött, próbapadon tesztelt motorokban felhasznált 52. § (1) bekezdés a), d), f) pont szerinti ásványolajok, az E85, valamint az egyéb bioetanol tartalmú üzemanyagok és a biodízel után a beszerzéskor megfizetett adót a (2) bekezdésben foglalt mértékig visszaigényelheti.
 
-(2) Az adó-visszaigénylés legfeljebb a motorfejlesztés (4) bekezdés szerinti időszakban ténylegesen felmerült költsége 25%-ának megfelelő összegéig érvényesíthető, feltéve, hogy ez a költség a csoportmentességi rendelet 31. cikk (5) bekezdése szerint támogatható költségnek minősül.
+(2) Az adó-visszaigénylés legfeljebb a motorfejlesztés (4) bekezdés szerinti időszakban ténylegesen felmerült költsége 25%-ának megfelelő összegéig érvényesíthető, feltéve, hogy ez a költség a csoportmentességi rendelet 25. cikk (3) bekezdése szerint elszámolható költség.
 
 (3) Az adó-visszaigénylés feltétele, hogy az adó-visszaigénylésre jogosult
 

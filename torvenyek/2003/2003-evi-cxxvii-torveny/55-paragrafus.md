@@ -27,3 +27,5 @@ közúti forgalomban nem használt gépek és mechanikus berendezések üzemelte
 (5) A visszaigénylésre a (4) bekezdés a) pont szerinti esetben a bányászatról szóló 1993. évi XLVIII. törvény szerinti hatósági engedéllyel rendelkező azon bányavállalkozó jogosult, amelynek (akinek) a bányatörvény szerint megállapított bányatelekre jogosultsága van, és ott a bányafelügyelet által jóváhagyott műszaki üzemi terv alapján bányászati tevékenységet folytat.
 
 (6) A visszaigénylésre a (4) bekezdés b) pont szerinti esetben az ott megjelölt tevékenységet végző állami vagy önkormányzati szerv és a vízgazdálkodási társulat, illetve megbízásukból ilyen tevékenységet végző személy jogosult.
+
+(7) A közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott M2 járműkategóriába és M3 járműkategóriába tartozó autóbuszokat a helyi és helyközi közlekedésében üzemeltető személy az e tevékenységéhez felhasznált, adózottan beszerzett 52. § (1) bekezdés g) pontja szerinti termék beszerzéskor megfizetett adóját visszaigényelheti.

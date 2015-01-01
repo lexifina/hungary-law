@@ -20,13 +20,13 @@ g) a termékek, a zárjegy felhasználására, tárolására és szállításár
 
 h) a magánfőzésre használt desztillálóberendezést [e fejezet alkalmazásában az e)–h) pontokban meghatározottak a továbbiakban: eszközök], ha
 
-ha) a magánfőző a 67/A. § (1) bekezdés szerinti bejelentésében az adó megállapításához szükséges adatok tekintetében valótlan adatokat ad meg,
+ha) a magánfőző a 67/A. § (1) bekezdés szerinti bejelentésében a desztillálóberendezés jogszerű birtoklása megállapításához szükséges adatok tekintetében valótlan adatokat ad meg,
 
-hb) a 67/A. § (2) bekezdés szerinti nyilatkozattétel során a magánfőző valótlan nyilatkozatot tesz,
+hb)
 
 hc) a magánfőző a desztillálóberendezést a párlattól eltérő alkoholtermék előállítására használja,
 
-hd) a magánfőző a párlatot a 67. § (2) bekezdés b) pontját megsértve értékesíti,
+hd) a magánfőző a párlatot a 67/A. § (7) bekezdését megsértve értékesíti,
 
 i) a 110/A. § megsértésével birtokolt szárított dohányt vagy fermentált dohányt, illetve a 110/B. § megsértésével értékesített cigarettapapír-lapot, cigarettapapír-hüvelyt, illetve dohánylevél-töltőt
 
