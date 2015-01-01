@@ -98,13 +98,13 @@
 
 89. a gépjárművek kibocsátásai által okozott levegőszennyezés elleni intézkedésekről és a 70/220/EGK tanácsi irányelv módosításáról szóló, 1998. október 13-i 98/69/EK európai parlamenti és tanácsi irányelvnek;
 
-90. a mezőgazdasági vagy erdészeti traktorok hajtására szánt motorok gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátása elleni intézkedésről, valamint a 74/150/EGK tanácsi irányelv módosításáról szóló, 2000. május 22-i 2000/25/EK európai parlamenti és tanácsi irányelv, valamint a 74/150/EGK tanácsi irányelv módosításáról, továbbá az azt módosító 2005/13/EK bizottsági, 2006/96/EK tanácsi és 2010/22/EU bizottsági, valamint a 2011/72/EU és 2011/87/EU európai parlamenti és tanácsi irányelveknek;
+90.[^216] a mezőgazdasági vagy erdészeti traktorok hajtására szánt motorok gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátása elleni intézkedésről, valamint a 74/150/EGK tanácsi irányelv módosításáról szóló, 2000. május 22-i 2000/25/EK európai parlamenti és tanácsi irányelvnek, továbbá az azt módosító 2005/13/EK bizottsági, 2006/96/EK tanácsi és 2010/22/EU bizottsági, valamint a 2011/72/EU és 2011/87/EU európai parlamenti és tanácsi, továbbá 2014/43/EU bizottsági irányelveknek;
 
-91–93.[^216]
+91–93.[^217]
 
-94.[^217] az elhasználódott járművekről szóló, 2000. szeptember 18-i 2000/53/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének, 8. cikk (1) bekezdésének és II. mellékletének, továbbá az azt módosító 2010/115/EU bizottsági határozatnak, a 2011/37/EU bizottsági irányelvnek, valamint a 2013/28/EU bizottsági irányelvnek;
+94.[^218] az elhasználódott járművekről szóló, 2000. szeptember 18-i 2000/53/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének, 8. cikk (1) bekezdésének és II. mellékletének, továbbá az azt módosító 2010/115/EU bizottsági határozatnak, a 2011/37/EU bizottsági irányelvnek, valamint a 2013/28/EU bizottsági irányelvnek;
 
-95.[^218]
+95.[^219]
 
 96. a kerekes mezőgazdasági vagy erdészeti traktorokra vonatkozó tagállami jogszabályok közelítéséről szóló irányelvek módosításáról szóló, 1982. december 17-i 82/890/EGK tanácsi irányelvnek;
 
@@ -120,11 +120,11 @@
 
 102. a Közösségben nyilvántartásba vett nehéz tehergépjárművek visszapillantó tükrökkel való utólagos felszereléséről szóló, 2007. július 11-i 2007/38/EK európai parlamenti és tanácsi irányelvnek;
 
-103.[^219] a 3,5 tonnánál könnyebb járművekben a biztonsági öv kötelező használatára vonatkozó tagállami jogszabályok közelítéséről szóló 91/671/EK tanácsi irányelv módosításáról szóló, 2003. április 8-i 2003/20/EK európai parlamenti és tanácsi irányelv 1. cikk 2., 3. pontjának és az 2014. február 27-i 2014/37/EU bizottsági végrehajtási irányelv 1. cikk 1–2. pontjának;
+103.[^220] a 3,5 tonnánál könnyebb járművekben a biztonsági öv kötelező használatára vonatkozó tagállami jogszabályok közelítéséről szóló 91/671/EK tanácsi irányelv módosításáról szóló, 2003. április 8-i 2003/20/EK európai parlamenti és tanácsi irányelv 1. cikk 2., 3. pontjának és az 2014. február 27-i 2014/37/EU bizottsági végrehajtási irányelv 1. cikk 1–2. pontjának;
 
 104. a Közösségen belül közlekedő egyes közúti járművek nemzeti és a nemzetközi forgalomban megengedett legnagyobb méreteiről, valamint a nemzetközi forgalomban megengedett legnagyobb össztömegének megállapításáról szóló, 1996. június 25-i 96/53/EK tanácsi irányelvnek, valamint annak a 2002/7/EK európai parlamenti és tanácsi irányelvvel történt módosításának;
 
-105.[^220] a 70/157/EGK, 86/298/EGK és 87/402/EGK tanácsi irányelvet, a 2000/25/EK, 2009/57/EK, 2009/64/EK és 2009/144/EK európai parlamenti és tanácsi irányelvet módosító, az áruk szabad mozgása területén elfogadott egyes irányelveknek a Horvát Köztársaság csatlakozására tekintettel történő kiigazításáról szóló, 2013 május 13-i 2013/15/EU tanácsi irányelvnek
+105.[^221] a 70/157/EGK, 86/298/EGK és 87/402/EGK tanácsi irányelvet, a 2000/25/EK, 2009/57/EK, 2009/64/EK és 2009/144/EK európai parlamenti és tanácsi irányelvet módosító, az áruk szabad mozgása területén elfogadott egyes irányelveknek a Horvát Köztársaság csatlakozására tekintettel történő kiigazításáról szóló, 2013 május 13-i 2013/15/EU tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -139,8 +139,9 @@ való megfelelést szolgálja.
 [^213]: A 120. § 61. pontja a 31/2014. (VI. 27.) NFM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^214]: A 120. § 85. pontja a 72/2013. (XII. 2.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^215]: A 120. § 88. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
-[^216]: A 120. § 91–93. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
-[^217]: A 120. § 94. pontja a 72/2013. (XII. 2.) NFM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^218]: A 120. § 95. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
-[^219]: A 120. § 103. pontja a 31/2014. (VI. 27.) NFM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^220]: A 120. § 105. pontját a 72/2013. (XII. 2.) NFM rendelet 11. § (3) bekezdése iktatta be, szövege a 44/2014. (X. 31.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^216]: A 120. § 90. pontja a 44/2014. (X. 31.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^217]: A 120. § 91–93. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
+[^218]: A 120. § 94. pontja a 72/2013. (XII. 2.) NFM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^219]: A 120. § 95. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
+[^220]: A 120. § 103. pontja a 31/2014. (VI. 27.) NFM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^221]: A 120. § 105. pontját a 72/2013. (XII. 2.) NFM rendelet 11. § (3) bekezdése iktatta be, szövege a 44/2014. (X. 31.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.

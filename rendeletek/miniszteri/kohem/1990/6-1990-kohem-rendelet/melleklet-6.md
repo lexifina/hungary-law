@@ -128,6 +128,6 @@
 
 ## (12) Az Euro-VI. kibocsátási határértéket az 582/2011/EU bizottsági rendelet XV. mellékletével (2011.06.25. L167/163) módosított, a nehéz tehergépjárművek kibocsátásai (Euro-VI) tekintetében a gépjárművek és motorok típusjóváhagyásáról, a járművek javítására és karbantartására vonatkozó információkhoz való hozzáférésről szóló 595/2009/EK európai parlamenti és tanácsi rendelet I. melléklete határozza meg.
 
-6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^239]
+6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^240]
 
-[^239]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
+[^240]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.

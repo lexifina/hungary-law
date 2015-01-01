@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-6-20-5E
 | 2013-12-31 | 1990-6-20-5E.77 | 72/2013. (XII. 2.) NFM rendelet |
 | 2014-06-30 | 1990-6-20-5E.78 | 31/2014. (VI. 27.) NFM rendelet |
 | 2014-11-01 | 1990-6-20-5E.79 | 44/2014. (X. 31.) NFM rendelet |
+| 2015-01-01 | 1990-6-20-5E.80 | 44/2014. (X. 31.) NFM rendelet |
