@@ -10,7 +10,7 @@ d) a szolgálati jogviszony időtartamát, továbbá
 
 e) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban, valamint
 
-f) a hivatásos nevelő szülői jogviszonyban,
+f) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban,
 
 g) az e törvény, a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, a Ktjv., valamint a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
 

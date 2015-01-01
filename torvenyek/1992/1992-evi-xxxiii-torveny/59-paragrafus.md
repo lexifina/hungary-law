@@ -1,6 +1,6 @@
 59. § (1) A közalkalmazotti jogviszony tekintetében
 
-a) az Mt. munka- és pihenőidőről szóló rendelkezései (XI. fejezet) közül a 92. § (4) bekezdés, a 116–117. §, a 119. § (2) bekezdés, a 123. § (6) bekezdés és a 135. § (4)–(6) bekezdés nem alkalmazható;
+a) az Mt. munka- és pihenőidőről szóló rendelkezései (XI. Fejezet) közül a 92. § (4) bekezdése, a 116–117. §, a 118. § (4) bekezdése, a 119. § (2) bekezdése, a 123. § (6) bekezdése és a 135. § (4)–(6) bekezdése nem alkalmazható;
 
 b) jogszabály vagy kollektív szerződés – ágazati, szakmai sajátosságokra tekintettel – az Mt. 86. § (3) bekezdés a) pontjától a közalkalmazott javára eltérhet.
 
@@ -27,3 +27,5 @@ a) az 57. § (1) bekezdés szerinti, a fizetési fokozat alapján, és
 b) az 57. § (2) bekezdés szerinti, a magasabb vezetői vagy vezetői megbízás alapján
 
 megállapított pótszabadságot az esedékesség évét követő év végéig adja ki.
+
+(5) A közalkalmazotti jogviszony tekintetében az Mt. 298. § (7) bekezdése nem alkalmazható.
