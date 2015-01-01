@@ -36,10 +36,10 @@ b) a (2) bekezdésben meghatározott mértékű díj ellenében közreműködhet
 
 c) közreműködhet az Országos Betétbiztosítási Alap és a Szanálási Alap szabad pénzeszközeinek kezelésében, valamint annak hitelfelvételével, kölcsönfelvételével, hitelviszonyt megtestesítő értékpapírjainak kibocsátásával kapcsolatos feladatok – ideértve az üzleti stratégiával kapcsolatos tanácsadást is – ellátásában,
 
-d) közreműködik a Nyugdíjreform és Adósságcsökkentő Alap eszközeinek kezelésében és értékesítésében,
+d)
 
 e) közreműködhet a Befektető-védelmi Alap pénzeszközeinek kezelésében.
 
 (5) Az ÁKK Zrt. (1) bekezdés szerinti tevékenysége körében az állam által kibocsátott, vagy állami kezességgel, állami garanciával biztosított, hitelviszonyt megtestesítő értékpapírok, továbbá a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 6. § a)-d), h), i), j) és k) pontjában meghatározott pénzügyi eszközök tekintetében a Bszt. 5. § (1) bekezdésében meghatározott befektetési szolgáltatási tevékenységet, valamint a Bszt. 5. § (2) bekezdés a), b), d), g) és h) pontjában meghatározott befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást végezhet.
 
-(6) Az ÁKK Zrt. (1) bekezdés, (4) bekezdés d) pontja és az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében végzett (5) bekezdés szerinti tevékenysége államadósság-kezelésnek minősül. Az ÁKK Zrt. államadósság-kezelésen kívüli befektetési szolgáltatási tevékenységére és befektetési szolgáltatási tevékenységet kiegészítő szolgáltatására a Bszt. rendelkezéseit kell alkalmazni.
+(6) Az ÁKK Zrt. (1) bekezdés, és az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében végzett (5) bekezdés szerinti tevékenysége államadósság-kezelésnek minősül. Az ÁKK Zrt. államadósság-kezelésen kívüli befektetési szolgáltatási tevékenységére és befektetési szolgáltatási tevékenységet kiegészítő szolgáltatására a Bszt. rendelkezéseit kell alkalmazni.

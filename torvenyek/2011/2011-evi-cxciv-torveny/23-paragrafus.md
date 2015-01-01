@@ -1,4 +1,4 @@
-## 6. A Költségvetési Tanács feladata, hatásköre, működésének szabályai
+## 6. A Költségvetési Tanács feladatai
 
 23. § (1) A Tanács
 

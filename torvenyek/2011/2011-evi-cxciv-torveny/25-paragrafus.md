@@ -1,4 +1,4 @@
-## 7. A Tanács eljárása az államadósság mértékének vizsgálatában
+## 7. A Költségvetési Tanács eljárása az államadósság mértékének vizsgálatában
 
 25. § (1) A központi költségvetésről szóló törvényjavaslat tárgyalása során a Tanács az Országgyűlés elnökének a házszabályi rendelkezésekben meghatározottak szerinti tájékoztatása alapján vizsgálja a központi költségvetésről szóló törvényjavaslat az Alaptörvény 36. cikk (4) és (5) bekezdésének (a továbbiakban: államadósság-szabály) való megfelelését.
 

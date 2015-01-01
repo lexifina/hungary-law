@@ -6,7 +6,7 @@
 
 (4) A Tanács elnöke az elődje megbízatásának megszűnésekor, illetve ha elődje megbízatásának megszűnését követően nevezték ki, a kinevezésével lép hivatalba.
 
-(5) A Tanács elnöke más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, az oktatói, a művészeti, a lektori, a szerzői jogi védelem alá eső, továbbá a lektori és szerkesztői tevékenységet kivéve – díjazást nem fogadhat el.
+(5) A Tanács elnöke más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, szerzői jogi védelem alá eső és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el.
 
 (6) A Tanács elnöke feladatai ellátásáért illetményre és más juttatásokra jogosult. A Tanács elnökének a tárgyév március 1-jétől a következő év február utolsó napjáig terjedő időszakra megállapított havi illetménye a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset kilencszerese. Egyebekben a Tanács elnöke a minisztert megillető juttatásokra jogosult.
 

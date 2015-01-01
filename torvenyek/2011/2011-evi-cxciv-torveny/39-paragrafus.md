@@ -1,1 +1,1 @@
-39. § A 32–36. §, valamint a 38. § rendelkezéseitől csak különleges jogrend idején, az azt kiváltó körülmények okozta következmények enyhítéséhez szükséges mértékben, vagy a nemzetgazdaság tartós és jelentős visszaesése esetén, a nemzetgazdasági egyensúly helyreállításához szükséges mértékben lehet eltérni.
+### 39. §

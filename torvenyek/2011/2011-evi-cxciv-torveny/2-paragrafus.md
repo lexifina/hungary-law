@@ -14,6 +14,6 @@ e törvény szerinti értéke szerepel.
 
 (2) Az államháztartás központi alrendszerének adóssága az államháztartás központi alrendszerébe tartozó jogi személyek által vállalt adósságot keletkeztető ügyletek konszolidált értéke a számbavétel fordulónapján.
 
-(3) Az államháztartás önkormányzati alrendszerének adóssága a helyi önkormányzatok, a nemzetiségi önkormányzatok, a területfejlesztésről és a területrendezésről szóló törvény szerinti térségi fejlesztési tanácsok, a többcélú kistérségi társulások és az egyéb, jogi személyiséggel rendelkező társulások (a továbbiakban együtt: önkormányzat) által vállalt adósságot keletkeztető ügyletek konszolidált értéke a számbavétel fordulónapján.
+(3) Az államháztartás önkormányzati alrendszerének adóssága a helyi önkormányzatok, a nemzetiségi önkormányzatok, a területfejlesztésről és a területrendezésről szóló törvény szerinti térségi fejlesztési tanácsok, az önkormányzati társulások (a továbbiakban együtt: önkormányzat) által vállalt adósságot keletkeztető ügyletek konszolidált értéke a számbavétel fordulónapján.
 
 (4) A kormányzati szektorba sorolt egyéb szervezetek adóssága az általuk, saját nevükben vállalt adósságot keletkeztető ügyletek konszolidált értéke a számbavétel fordulónapján.
