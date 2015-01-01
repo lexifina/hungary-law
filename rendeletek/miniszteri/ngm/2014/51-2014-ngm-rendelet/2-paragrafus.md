@@ -1,0 +1,1 @@
+## 1. § A kockázatos élelmiszerek körét az 1. melléklet, az egyéb kockázatos termékek körét – az „ex.” jelzéssel ellátott vámtarifaszámok alá tartozó termékek kivételével – a 2. melléklet szerint az adópolitikáért felelős miniszter határozza meg.

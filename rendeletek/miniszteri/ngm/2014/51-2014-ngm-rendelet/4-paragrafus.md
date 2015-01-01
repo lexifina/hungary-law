@@ -1,0 +1,1 @@
+## 3. § E rendelet alkalmazásában a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87 EGK tanácsi rendelet I. számú mellékletének (a Kombinált Nómenklatúrának) a bejelentéskor hatályos besorolási rendjét kell alkalmazni.
