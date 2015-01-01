@@ -4,7 +4,7 @@
 
 ## Általános rendelkezések
 
-61/B. § (1) E fejezet hatálya kiterjed a történelmi emlékhelyekre, a nemzeti emlékhelyekre és a kiemelt nemzeti emlékhelyekre, az ezekkel kapcsolatos tevékenységekre, a feladatellátásban közreműködő szervezetekre, személyekre, valamint az emlékhellyé nyilvánítással érintett ingatlanok tulajdonosaira.
+61/B. § (1) E fejezet hatálya kiterjed a történelmi emlékhelyekre, a nemzeti emlékhelyekre és a kiemelt nemzeti emlékhelyekre, az ezekkel kapcsolatos tevékenységekre, a feladatellátásban közreműködő szervezetekre, személyekre, valamint az emlékhellyé nyilvánítással érintett ingatlanok tulajdonosaira, vagyonkezelőire, használóira.
 
 (2) A történelmi emlékhelyek, a nemzeti emlékhelyek és a kiemelt nemzeti emlékhelyek (a továbbiakban együtt: emlékhely) e törvény szerinti szabályozása az azokon e törvény vagy más jogszabályok alapján fennálló védettséget nem érinti.
 

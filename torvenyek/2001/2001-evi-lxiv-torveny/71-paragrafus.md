@@ -1,18 +1,20 @@
 ## Nyilvántartások
 
-71. § (1) A kormányrendeletben meghatározott szerv vezeti
+71. § (1) A Hivatal vezeti
 
 a) a régészeti lelőhelyek,
 
-b) a régészeti feltárási engedélyek,
+b) a régészeti feltárási engedélyek és a feltárási dokumentációk,
 
 c) a védetté nyilvánított régészeti lelőhelyek,
 
-d) a műemlékek, műemléki jelentőségű területek, műemléki környezetek és történeti tájak
+d) a műemléki értékek, a műemlékek, a műemléki jelentőségű területek, a műemléki környezetek és a történeti tájak,
 
-központi, közhiteles nyilvántartását, amely tartalmazza az a)–d) pontokban meghatározottakkal összefüggő, az örökségvédelem szempontjából fontos adatokat.
+e) a világörökségi és a világörökségi várományosi helyszínek
 
-(2) A miniszter szakmai irányítása alatt álló hatóság központi nyilvántartást vezet
+központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban meghatározottakkal összefüggő adatokat.
+
+(2) A Hivatal központi nyilvántartást vezet
 
 a) a védetté nyilvánított kulturális javakról,
 

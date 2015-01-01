@@ -1,9 +1,13 @@
-23/C. § (1) Nagyberuházás, valamint a kisajátításról szóló törvény szerinti közérdekű cél megvalósítása esetén az előzetes régészeti dokumentációt – kormányrendeletben meghatározott esetekben – próbafeltárás alkalmazásával kell elkészíteni. A próbafeltárást a feltárást végző szerv a beruházóval – az erről szóló, általuk kötött szerződés megküldésével – bejelenti a hatóságnak. A hatóság a szerződés alapján végzett próbafeltárást a hatósági ellenőrzésre irányadó szabályok szerint ellenőrzi. A próbafeltárás időtartama a beruházótól a földmunkával járó változással érintett munkaterületnek régészeti munkavégzésre alkalmas állapotban, állapotrögzítő jegyzőkönyvvel történő átvételétől számított legfeljebb 30 – miniszteri rendeletben meghatározott – régészeti feltárás végzésére alkalmas nap, kivéve, ha a beruházó és a feltárást végző szerv ennél hosszabb időtartamban állapodnak meg. A próbafeltáráshoz kapcsolódó gépi földmunka időtartama legfeljebb 10 nap, amely a próbafeltárás időtartamába nem számít bele.
+## Előzetes régészeti dokumentáció
 
-(2) Az előzetes régészeti dokumentációnak szakmai javaslatot kell tartalmaznia arra vonatkozóan, hogy mely területek esetén és milyen módszerű megelőző feltárás elvégzésére van szükség, illetve mely területek elfedése indokolt és ez alapján a javasolt további régészeti feladatellátásra. A feltárást végző szerv és a beruházó az előzetes régészeti dokumentáció szakmai javaslata alapján, ha végeztek próbafeltárást, kérelmet nyújt be a hatósághoz, ha a régészeti szolgáltatás és a kapcsolódó régészeti földmunka költsége
+23/C. § (1) Nagyberuházás esetén előzetes régészeti dokumentációt kell készíteni.
 
-a) nem lépi túl a 23/E. § (1) bekezdésben meghatározott összeget és a szakmai javaslat engedélyhez kötött feltárási tevékenységet tartalmaz, akkor a teljes felületű feltárás engedélyezése iránt,
+(2) Előzetes régészeti dokumentációnak minősül az öt évnél nem régebbi örökségvédelmi hatástanulmány, ha a tartalmát és az elkészítéséhez alkalmazott módszereket tekintve megfelel az előzetes régészeti dokumentáció fogalmi feltételeinek, és alkalmas az elvégzendő régészeti feladatellátás módjának, valamint idő- és költségvonzatának meghatározására.
 
-b) túllépi a 23/E. § (1) bekezdésben meghatározott összeget, akkor a további régészeti feladatellátás meghatározása iránt.
+(3) Az előzetes régészeti dokumentációt a beruházóval kötött írásbeli szerződés alapján a Hivatal készíti el.
 
-(3) A (2) bekezdés b) pontja szerinti esetben a további régészeti feladatellátásról – a 23/E. §-ban foglalt költségkorlát figyelembevételével – a hatóság 15 napon belül dönt. A döntés ellen fellebbezésnek nincs helye.
+(4) Az előzetes régészeti dokumentáció adattartalmának meghatározásához a Hivatal megkeresésére a gyűjtőterületén érintett múzeum köteles a szakmai adatbázisában szereplő adatot ingyenesen, teljességi nyilatkozattal nyolc napon belül a Hivatal rendelkezésére bocsátani.
+
+(5) Az előzetes régészeti dokumentáció készítése során – a jogszabályban meghatározott kivételekkel – próbafeltárást kell végezni, amely nem a megelőző feltárás része.
+
+(6) A Hivatal az előzetes régészeti dokumentáció keretében végzett régészeti feladatellátás jogszabályban meghatározottak szerinti elvégzésébe más feltárásra jogosult intézményt, és – kizárólag alvállalkozóként – akkreditált szervezetet vonhat be.

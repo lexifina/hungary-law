@@ -1,4 +1,4 @@
-64. § A hatóság a kulturális örökségvédelem körében
+64. § A Hivatal a kulturális örökségvédelem körében
 
 a) ellátja a Magyarország területén jogellenesen eltulajdonított, valamint a Magyarországról jogtalanul kivitt vagy ilyen módon behozott kulturális javak visszakövetelésével, továbbá visszaadásával kapcsolatos teendőket;
 
@@ -8,6 +8,6 @@ c) gyakorolja az állam e törvényben, vagy e törvény felhatalmazása alapjá
 
 d) vita esetén dönt arról, hogy valamely tárgy vagy jelenség a kulturális örökség körébe tartozik-e;
 
-e) a természetvédelmi őrszolgálat közreműködésével gondoskodik a régészeti örökség védelmével kapcsolatos feladatokról;
+e)
 
 f) ellátja a miniszter által – eseti vagy állandó jelleggel – meghatározott egyéb feladatokat.

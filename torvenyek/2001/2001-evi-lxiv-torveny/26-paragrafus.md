@@ -1,1 +1,1 @@
-26. § A korábban ismeretlen, régészeti nyilvántartásban nem szereplő régészeti lelőhely, illetve lelet feltáráson kívüli felfedezője vagy bejelentője anyagi elismerésben részesíthető.
+26. § A korábban ismeretlen, régészeti nyilvántartásban nem szereplő régészeti lelőhely, illetve lelet feltáráson kívüli felfedezője vagy bejelentője jogszabályban meghatározottak szerint elismerésben részesíthető.

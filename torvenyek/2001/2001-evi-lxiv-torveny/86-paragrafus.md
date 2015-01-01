@@ -6,7 +6,9 @@ a) ingatlanok esetében akkor, ha ezt a védetté nyilvánító, illetőleg a v�
 
 b) védetté nyilvánított kulturális javak ellenérték mellett történő tulajdonátruházása esetében.
 
-(2) Az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzése érdekében a hatóság megkeresi az ingatlanügyi hatóságot.
+(1a) Az államot megillető elővásárlási jog a nyilvántartott műemléki értéken nem állhat fenn.
+
+(2) Az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzése érdekében a Hivatal megkeresi az ingatlanügyi hatóságot.
 
 (3) Az állam elővásárlási jogát a kormányrendeletben kijelölt szerv gyakorolja.
 

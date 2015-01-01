@@ -1,1 +1,1 @@
-16. § A védetté nyilvánított régészeti lelőhelyeket a hatóság kormányrendeletben meghatározottak szerint ellenőrzi.
+16. § A védetté nyilvánított régészeti lelőhelyek állapotát a hatóság legalább ötévente jogszabályban meghatározottak szerint ellenőrzi. A miniszter az ellenőrzést ettől eltérő időpontban is elrendelheti.

@@ -1,27 +1,61 @@
 ## Megelőző feltárás
 
-22. § (1) A régészeti lelőhelynek a beruházással kapcsolatos földmunkával érintett részén a (2) bekezdésben meghatározott, az örökségvédelmi hatóság által előírt módszerekkel megelőző régészeti feltárást kell végezni.
+22. § (1) A nyilvántartott régészeti lelőhelynek a beruházással kapcsolatos földmunkával érintett részén megelőző régészeti feltárást kell végezni.
 
-(2) A nyilvántartási adatok és – amennyiben rendelkezésre áll – az előzetes régészeti dokumentáció adatai, valamint a beruházás régészeti örökségre gyakorolt hatásának egybevetése alapján készült javaslatai, továbbá a védettségi fokozat figyelembevételével – kormányrendeletben meghatározottak szerint – a megelőző feltárás keretében az alábbi és kormányrendeletben meghatározott egyéb esetekben
+(2) A földmunkával járó beruházások előkészítése során előzetes régészeti dokumentáció készíthető, különösen a földterület-kiválasztáshoz és nyomvonal-kijelöléshez. Nem nagyberuházás esetén a beruházó az előzetes régészeti dokumentáció készítésével a feltárásra jogosult intézményt bízhat meg.
 
-a) régészeti megfigyelést kell előírni, ha a régészeti örökségi elemek előfordulása szórványos, vagy ha a beruházással kapcsolatos földmunka mélysége nem éri el a régészeti örökségi elemek jelentkezési szintjét, vagy a régészeti lelőhely korábbi bolygatása esetén;
+(3) A nyilvántartási adatok és – ha rendelkezésre áll – az előzetes régészeti dokumentáció adatai, valamint a beruházás régészeti örökségre gyakorolt hatása alapján a védettségi fokozat figyelembevételével a hatóság – jogszabályban meghatározottak szerint – a megelőző feltárás keretében
 
-b) próbafeltárást kell előírni, ha előzetes régészeti dokumentáció nem áll rendelkezésre, vagy annak készítéséhez nem végeztek próbafeltárást;
+a) régészeti megfigyelést ír elő, ha
 
-c) teljes felületű feltárást kell előírni, ha a beruházással érintett lelőhely vagy lelőhelyrész hazánk múltjának nagy jelentőségű, egyedi vagy pótolhatatlan forrása.
+aa) a tervezett tevékenység nem vagy csak csekély mértékben érinti a nyilvántartott régészeti lelőhelyet és a régészeti örökség elemeit,
 
-(3) A hatóság a (2) bekezdés a)–c) pontjaiban meghatározott régészeti feladatokat a lelőhely különböző részei vonatkozásában eltérően is meghatározhatja.
+ab) a régészeti örökség elemeinek előfordulása szórványos,
 
-(4) A próbafeltárásra és a teljes felületű feltárásra vonatkozóan a feltárásra jogosult szerv és a beruházó írásbeli szerződést köt. A szerződés tartalmazza a feltárás időtartamát, a feltárásra jogosult szerv által végzendő régészeti szolgáltatás és a beruházó által végzendő kapcsolódó régészeti földmunka költségét, valamint a kormányrendeletben meghatározott egyéb szakmai feltételeket.
+ac) a beruházással kapcsolatos földmunka mélysége nem éri el a régészeti örökség elemeinek jelentkezési szintjét,
 
-(5) A (4) bekezdés szerinti szerződést a feltárásra jogosult szerv ajánlattételéhez szükséges – kormányrendeletben meghatározott – adattartalomnak a beruházó által történő rendelkezésre bocsátásától számított 15 napon belül kell megkötni. Ha a szerződés e határidőn belül – a feltárásra jogosult szervnek felróható okból – nem jön létre, a hatóság határozatban jelöli ki a feltárást elvégző szervet.
+ad) a nyilvántartott régészeti lelőhely beruházással érintett területét korábban földmunkával bolygatták, vagy
 
-(6) A hatóság az (5) bekezdés szerinti kijelöléssel egyidejűleg hivatalból lefolytatja a feltárás engedélyezési eljárását is.
+ae) a beruházás műszaki jellege miatt a régészeti feladatellátás más módon nem végezhető el,
 
-(7) A (6) bekezdés szerinti eljárásban hozott határozat tartalmazza
+b) próbafeltárást ír elő – jogszabályban meghatározott kivételekkel –, ha
 
-a) a feltárási engedély jogszabályban meghatározott tartalmi elemeit,
+ba) előzetes régészeti dokumentáció nem áll rendelkezésre, vagy annak készítéséhez jogszabályban meghatározottak szerint nem végeztek próbafeltárást,
 
-b) a beruházó kötelezését a feltárás költségeinek viselésére.
+bb) földkiemeléssel nem járó alapozási technikával tervezett beruházás valósul meg,
 
-(8) A hatóság a (7) bekezdés b) pontjával kapcsolatos döntését a feltárás költségeire vonatkozóan jogszabályban meghatározott tartalmú költségbecslésre alapozza.
+bc) a nyilvántartott régészeti lelőhely jellege, intenzitása, térbeli kiterjedése vagy rétegsora nem ismert,
+
+c) teljes felületű feltárást ír elő, ha
+
+ca) a beruházással érintett lelőhely vagy lelőhelyrész hazánk múltjának kiemelkedő fontosságú forrása,
+
+cb) a beruházás történeti városmag területén valósul meg,
+
+d) teljes felületű feltárást írhat elő, ha a feltárás a tudományos ismereteket várhatóan jelentős új eredményekkel gazdagítja.
+
+(4) A hatóság a (3) bekezdés a)–d) pontjában meghatározott régészeti feladatokat a lelőhely különböző részei vonatkozásában eltérően is meghatározhatja.
+
+(5) Megelőző feltárást végezhet
+
+a) a régészeti gyűjtőkörrel és a feltárás helye szerinti gyűjtőterülettel rendelkező területi múzeum (a továbbiakban: területi múzeum), Budapesten a Budapesti Történeti Múzeum, ha a beruházással érintett terület nem lépi túl a területi múzeum gyűjtőterületét;
+
+b) a gyűjtőterületén érintett megyei hatókörű városi múzeum, ha
+
+ba) nincs területi múzeum a beruházással érintett területen,
+
+bb) a területi múzeum kapacitása nem teszi lehetővé az önálló feladatellátást,
+
+bc) a beruházással érintett terület túllépi a területi múzeum gyűjtőterületét.
+
+(6) Az (5) bekezdés b) pont bb) alpontja szerinti kapacitás rendelkezésre állásáról a területi múzeum a beruházó megkeresésére nyolc napon belül nyilatkozni köteles.
+
+(7) Az (5) bekezdés b) pont bb)–bc) alpontja esetében a megelőző feltárás elvégzésébe a területi múzeumot kapacitása erejéig kötelezően be kell vonni.
+
+(8) Régészeti feladatellátás jogszabályban meghatározottak szerinti elvégzésébe más feltárásra jogosult intézmény és – kizárólag alvállalkozóként – jogszabályban meghatározott eljárás szerint akkreditált, feltárásra nem jogosult szervezet (a továbbiakban: akkreditált szervezet) vonható be.
+
+(9) A megelőző feltárás költségei magukba foglalják a régészeti feltárás terepi munkavégzésén túl – beleértve a feltárás munkafeltételei biztosítását is – a jogszabályban meghatározott tartalmú dokumentálás és az elsődleges leletfeldolgozás költségeit. A feltárást végző intézmény köteles a tényleges felhasználásról jogszabályban meghatározott módon elszámolni.
+
+(10) A megelőző feltárásra vonatkozóan a feltárásra jogosult intézmény és a beruházó írásbeli szerződést köt. A szerződés tartalmazza a feltárás módját, időtartamát, a feltárásra jogosult intézmény által végzendő régészeti feladatellátás költségét, valamint a jogszabályban meghatározott egyéb szakmai feltételeket.
+
+(11) A (10) bekezdés szerinti szerződést a feltárásra jogosult intézménynek és a beruházónak a jogszabályban meghatározott adattartalomnak a beruházó által történő rendelkezésre bocsátásától számított 15 napon belül kell megkötni.

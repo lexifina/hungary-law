@@ -1,7 +1,9 @@
-## Előzetes régészeti dokumentáció
+20/A. § (1) Fémkereső műszer használata – a hivatás gyakorlásához jogszabályban meghatározott módon szükséges használat kivételével – hatósági engedély alapján végezhető tevékenység.
 
-20/A. § (1) Nagyberuházás, valamint a kisajátításról szóló törvény szerinti közérdekű cél megvalósítása esetén előzetes régészeti dokumentációt kell készíteni. Egyéb esetekben előzetes régészeti dokumentáció készíthető különösen a földterület-kiválasztás során, a hatósági engedélyezési eljárásokat megelőzően. Kormányrendelet előzetes régészeti dokumentáció készítését kötelezővé teheti.
+(2) A hivatás gyakorlásához szükséges használatot jogszabályban meghatározott módon be kell jelenteni.
 
-(2) Az előzetes régészeti dokumentáció – ha kormányrendelet eltérően nem rendelkezik – nem pótolja a 22. § (2) bekezdése szerinti próbafeltárást.
+(3) A hatóság jogszabályban meghatározottak szerint megtilthatja a fémkereső műszer használatát.
 
-(3) Az előzetes régészeti dokumentáció elkészítéséhez szükséges régészeti feltárások költségei – nemzetgazdasági szempontból indokolt esetekben – a központi költségvetésből fedezhetőek.
+(4) Fémkereső műszer nyilvántartott régészeti lelőhelyen történő használata régészeti feltárási tevékenységnek minősül.
+
+(5) Ha a fémkereső műszerrel végzett bármilyen tevékenység során régészeti lelet vagy annak tűnő tárgy kerül elő, a 24. § (1)–(2) bekezdése szerint kell eljárni.

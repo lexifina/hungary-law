@@ -1,3 +1,1 @@
-92/A. § (1) E törvénynek a kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosításáról szóló 2011. évi CXLIX. törvénnyel megállapított 23/B–23/E. §-aiban foglaltaknak megfelelően a törvény hatályba lépésekor már megkötött szerződéseket a törvény hatályba lépésétől számított 30 napon belül módosítani szükséges azzal, hogy a beruházó köteles az addig elvégzett régészeti feladatok ellenértékét megtéríteni, a feltárást végző intézmény köteles a megkezdett próbafeltárást befejezni, valamint a 23/C. § (2) bekezdése szerinti kérelmet 2011. december 31-ig benyújtani.
-
-(2) A feltárást végző intézmény a hatóság 23/C. § (3) bekezdésében írt döntésének kézhezvételétől számított 15 napon belül köteles a feltárási engedély módosítása iránti kérelmet benyújtani.
+### 92/A. §

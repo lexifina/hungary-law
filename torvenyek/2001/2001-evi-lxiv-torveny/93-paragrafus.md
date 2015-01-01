@@ -2,9 +2,9 @@
 
 93. § (1) Felhatalmazást kap a Kormány, hogy rendeletben:
 
-a) szabályozza az örökségvédelmi bírsággal kapcsolatos részletes szabályokat, a bírság legmagasabb összegét, valamint a bírság megállapításának alapjául szolgáló értékhatárokat;
+a) szabályozza az örökségvédelmi bírsággal, a műemlékek kategóriába sorolásával kapcsolatos részletes szabályokat, a bírság legmagasabb összegét, valamint a bírság megállapításának alapjául szolgáló értékhatárokat;
 
-b) jelölje ki az e törvényben meghatározott feladatok tekintetében hatáskörrel rendelkező hatóságokat és feladatkörrel rendelkező egyéb szerveket, és állapítsa meg az azok eljárására vonatkozó szabályokat, beleértve a hatóságok eljárásaiban vizsgálandó szempontokat;
+b) jelölje ki az e törvényben meghatározott feladatok tekintetében hatáskörrel rendelkező hatóságokat és feladatkörrel rendelkező egyéb szerveket, és állapítsa meg az azok eljárására és szolgáltatásaira vonatkozó szabályokat, beleértve a hatóságok eljárásaiban vizsgálandó szempontokat, az eljárások alóli mentesség feltételeit;
 
 c) szabályozza a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékos személyek esélyegyenlőségének előmozdítására,
 
@@ -16,33 +16,41 @@ f) szabályozza a nemzeti emlékhelyek – köznapi, ünnepi, idegenforgalmi és
 
 g) határozza meg a történelmi emlékhelyeket,
 
-h) szabályozza a nagyberuházásokkal, valamint a kisajátításról szóló törvény szerinti közérdekű cél megvalósításával összefüggő régészeti feladatok ellátásának szabályait, valamint azokat az eseteket, amelyekben az előzetes régészeti dokumentációt próbafeltárás alkalmazásával kell elkészíteni;
+h) szabályozza a nagyberuházásokkal kapcsolatos régészeti feladatellátás szabályait, a nagyberuházás régészeti szakaszolásának szempontjait, a nagyberuházás kivitelezése során ellátandó régészeti megfigyelés és az elfedés szabályait, valamint a régészeti feltárás költségeire vonatkozó hatósági árképzés módját és a hatósági árat;
 
-i) meghatározza a régészeti feltárás végzésére jogosult szerveket, meghatározza a régészeti feltárásra vonatkozó szerződésre irányuló múzeumi ajánlattétel adattartalmát, a régészeti feltárásra irányuló szerződés kötelező elemeit, valamint a megelőző feltárás módszerei alkalmazásának eseteit és szabályait;
+i) meghatározza a régészeti feltárásra vonatkozó szerződésre irányuló múzeumi ajánlattétel adattartalmát, a régészeti feltárásra irányuló szerződés kötelező elemeit, valamint a megelőző feltárás módszerei alkalmazásának eseteit és szabályait;
 
-j) meghatározza a védetté nyilvánított régészeti lelőhelyek ellenőrzésének szabályait;
+j) meghatározza a védetté nyilvánított régészeti lelőhelyek és a műemlékek ellenőrzésének szabályait;
 
-k) meghatározza azokat a régészeti lelőhelyeket, amelyeket a földmunkával járó fejlesztésekkel, beruházásokkal el kell kerülni;
+k) meghatározza azokat a nyilvántartott régészeti lelőhelyeket, amelyeket a földmunkával járó fejlesztésekkel, beruházásokkal el kell kerülni, a régészeti feltárások részletes szabályait, a régészeti feltárásra alkalmas nap fogalmát, valamint az elektronikus lelőhely-bejelentés szabályait;
 
-l) meghatározza a feltáráson előkerülő, a helyszínen meg nem őrizhető régészeti leletek elhelyezésének szabályait;
+l) meghatározza a feltáráson előkerülő, a helyszínen meg nem őrizhető régészeti emlékek, valamint a műemléktől elvált alkotórészek, tartozékok, berendezési tárgyak elhelyezésének szabályait;
 
 m) meghatározza a régészeti feltárásra vonatkozó jogszabályi vagy a feltárási engedélyben foglalt előírások megszegése esetén alkalmazandó jogkövetkezmények szabályait;
 
-n) szabályozza az örökségvédelemmel kapcsolatos szakértői tevékenységek szakmagyakorlási feltételeit, ennek keretében a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
+n) szabályozza az örökségvédelemmel kapcsolatos szakértői tevékenységek szakmagyakorlási feltételeit, ennek keretében a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 
 o) meghatározza a védelem alá vonni tervezett lelőhelyen, a lelőhely régészeti övezetéhez tartozó területen, a műemléki jelentőségű területen, továbbá a műemléki környezetben és történeti táj területén álló ingatlanok, a műemlék ingatlanok tulajdonosai és az egyéb érintett személyek vonatkozásában az értesítési kötelezettséget;
 
-p) meghatározza a régészeti lelőhely és a műemléki érték ideiglenes védelme meghosszabbításának feltételeit;
+p)
 
 q) meghatározza, hogy mely ingatlanok minősülnek, illetve jelölhetők ki műemléki környezetnek;
 
 r) meghatározza az örökségvédelmi engedélyhez kötött tevékenységeket és az e tevékenységekkel kapcsolatos követelményeket;
 
-s) meghatározza az építéstörténeti kutatási dokumentáció kötelező tartalmi elemeit;
+s) meghatározza a műemlékek tudományos kutatásának, értékvizsgálatának szabályait, az építéstörténeti kutatási dokumentáció kötelező tartalmi elemeit;
 
 t) állapítsa meg a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzését akadályozó tevékenység megelőzésének és az ellenőrzés rendjét,
 
 u) állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság véleményének kikérésével – a kiemelt nemzeti emlékhely területére vonatkozó közterület-használat szabályait és díjait.
+
+v) meghatározza az örökségvédelmi tanácsadó testületek működtetésével kapcsolatos feladatokat;
+
+w) szabályozza a fémkereső műszer használatát;
+
+x) állapítsa meg a nyilvántartott műemléki érték, a műemlék, a műemléki terület fenntartására és méltó használatára, a műemléki értéket érintő tevékenységek támogatására vonatkozó szabályokat;
+
+y) állapítsa meg a műemléki értéket érintő engedélyhez kötött tevékenységek végzésének szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
@@ -50,19 +58,19 @@ a) az örökségvédelem körében a védetté nyilvánítás részletes szabál
 
 b)
 
-c) a régészeti lelőhelyek védetté nyilvánítására vonatkozó szabályokat;
+c) a régészeti lelőhely és a műemléki érték nyilvántartásba vételének, a nyilvántartott régészeti lelőhely és a nyilvántartott műemléki érték ideiglenes védetté nyilvánításának, valamint a védetté nyilvánításnak részletes szabályait;
 
-d) a régészeti feltárások részletes szabályait, a régészeti feltárás költségeire vonatkozó költségbecslés tartalmát, az elfedést megvalósító műszaki megoldásokat, a régészeti feltárásra alkalmas nap fogalmát, és a környezetvédelemért felelős miniszterrel egyetértésben a régészeti szempontból jelentős barlangok körét;
+d) a feltárás végzésére jogosult intézmények és a feltárásban alvállalkozóként résztvevő szervezetek akkreditálásának szabályait és eljárásrendjét;
 
-e) a régészeti lelőhelyek fenntartható használatát;
+e) a nyilvántartott és a védetté nyilvánított régészeti lelőhelyek fenntartható használatát;
 
 f) a régészeti lelőhely, a lelet megtalálójának anyagi elismerésére vonatkozó részletes szabályokat;
 
-g) a műemlékvédelem eljárási rendjére és sajátos tárgyaira – beleértve az azok használatát szabályozó kezelési tervre – vonatkozó szabályokat;
+g) a műemlékvédelem sajátos tárgyaira – beleértve az azok használatát szabályozó kezelési tervre – vonatkozó szabályokat;
 
-h) a műemléken történő reklámelhelyezés szabályait;
+h)
 
-i) a régészeti lelőhelyek védetté nyilvánítását és a védettség megszüntetését;
+i) a nyilvántartott régészeti lelőhelyek védetté nyilvánítását és a védettség megszüntetését;
 
 j) az örökségvédelem körében a hatósági és egyéb nyilvántartás szabályait és a hatósági nyilvántartással összefüggő igazgatási szolgáltatási díj mértékét és a fizetésre vonatkozó egyéb szabályokat;
 
@@ -72,7 +80,7 @@ l)
 
 m)
 
-n) a műemléki értékek védetté nyilvánítását és a védettség megszüntetését;
+n) a nyilvántartott műemléki értékek műemlékké nyilvánítását és a műemléki védettség megszüntetését;
 
 o) kulturális javak védetté nyilvánítására és a védettség megszüntetésére vonatkozó szabályokat,
 
@@ -99,3 +107,13 @@ a)–c)
 d) a könyvtárakban levő muzeális dokumentumok kezelésével és nyilvántartásával kapcsolatos külön szabályokat,
 
 e)–f)
+
+g) a miniszterrel egyetértésben az elsődleges leletfeldolgozásra, a leletanyag végleges befogadására vonatkozó szabályokat,
+
+h) meghatározza a műemléktől elvált vagy elválasztani engedélyezett alkotórészek, tartozékok, berendezési tárgyak közgyűjteményi elhelyezésének, nyilvántartásának, védelmének szabályait.
+
+(7) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben rendeletben megállapítsa:
+
+a) a hadtörténeti örökség kutatására és védetté nyilvánítására vonatkozó szabályokat, valamint
+
+b) a hadtörténeti örökség védetté nyilvánítását és a védettség megszüntetését.

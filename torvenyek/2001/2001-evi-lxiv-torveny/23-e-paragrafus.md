@@ -1,5 +1,19 @@
-23/E. § (1) A beruházó a teljes próbafeltárás, a teljes felületű feltárás és az elfedés, valamint az ezekhez kapcsolódó régészeti földmunka költségei – ide értve a hatóság által előírt régészeti megfigyelés eredményeként felmerült teljes felületű feltárás költségét is – de legfeljebb a beruházás teljes bruttó bekerülési költsége 1 százalékának megfelelő összeg viselésére köteles, amely összeg – a (2) bekezdésben foglaltak kivételével – nem haladhatja meg a bruttó 200 millió forintot.
+## Nagyberuházáshoz kapcsolódó megelőző feltárás és elfedés
 
-(2) A feltárást végző intézmény kezdeményezése alapján az (1) bekezdésben meghatározott összeg – a hatóság javaslatára, a miniszter előterjesztésére – a Kormány döntése szerint magasabb értékben is megállapítható, ha az előzetes régészeti dokumentáció, a próbafeltárás vagy a megelőző feltárás eredményeként megállapítható, hogy a beruházással érintett lelőhely hazánk múltjának kiemelkedő jelentőségű, egyedi vagy pótolhatatlan forrása, vagy az elfedés a beruházás jellege miatt műszakilag lehetetlen, vagy az a lelőhely fizikai állapotromlását eredményezné.
+23/E. § (1) A nagyberuházást megelőző feltárás elvégzésére csak a terület rendelkezésre állása esetén köthető szerződés.
 
-(3) A próbafeltárás költségei az (1) bekezdésben meghatározott összeg 50 százalékát nem haladhatják meg.
+(2) A nagyberuházást megelőző feltárást csak akkreditált, feltárásra jogosult intézmény (a továbbiakban: akkreditált intézmény) vagy a Hivatal végezheti jogszabályban meghatározottak szerint.
+
+(3) A megelőző feltárás elvégzésébe az akkreditált intézmény vagy a Hivatal a területi múzeumot – annak kapacitása erejéig – bevonhatja.
+
+(4) Régészeti feladatellátás jogszabályban meghatározottak szerinti elvégzésébe kizárólag akkreditált intézmény vagy akkreditált szervezet vonható be. Akkreditált szervezet a megelőző feltárás elvégzésében csak az akkreditált intézmény vagy a Hivatal alvállalkozójaként vehet részt.
+
+(5) Nagyberuházás megvalósítása esetén a kivitelezés földmunkái régészeti megfigyelés mellett végezhetőek.
+
+(6) A nagyberuházáshoz kapcsolódó régészeti megfigyelést akkreditált intézménynek kell végezni a feltárás vezetőjének irányításával.
+
+(7) A régészeti megfigyelés során előkerülő régészeti lelőhelyek feltárási módjáról és feltételeiről jogszabályban meghatározottak szerint a hatóság dönt.
+
+(8) Ha a nagyberuházás esetén végzett régészeti feladatellátás idő- és költséghatára a teljes felületű feltárást nem teszi lehetővé, és a beruházó nyilatkozata alapján az elfedés műszakilag megvalósítható, a lelőhely jogszabályban meghatározott módon elfedhető. A nyilvántartott régészeti lelőhely elfedése a lelőhely fizikai állapotromlását nem eredményezheti.
+
+(9) Ha a beruházó nyilatkozata alapján az elfedés műszakilag nem valósítható meg, akkor a régészeti megfigyelés keretében régészeti bontómunkát kell végezni.

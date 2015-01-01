@@ -182,13 +182,17 @@ cím: 1088 Budapest, Múzeum krt. 14–16.
 
 |
 
-Budapest X. kerület, Rákoskeresztúri Újköztemető, 298., 300. és 301. parcella
+Budapest X. kerület, Rákoskeresztúri Újköztemető, 298., 300. és 301. parcella és a Kisfogház Emlékhely
 
 |
 
 A parcellák, kivéve a Nemzeti Sírkert részévé nem nyilvánított temetési helyeket
 
 cím: 1108 Budapest, Kozma u. 8–10.
+
+A Kisfogház Emlékhely által felölelt terület
+
+cím: 1108 Budapest, Újhegyi út 55.
 
 |
 
@@ -264,7 +268,7 @@ cím: 6767 Ópusztaszer, Szoborkert 68.
 
 |
 
-Pannonhalma, Bencés Főapátság
+Pannonhalmi Bencés Főapátság
 
 |
 
@@ -315,3 +319,17 @@ Székesfehérvár, Romkert
 |
 
 cím: 8000 Székesfehérvár, Koronázó tér
+
+|
+
+|
+
+13.
+
+|
+
+Egri Vár
+
+|
+
+cím: 3300 Eger, Vár 1.

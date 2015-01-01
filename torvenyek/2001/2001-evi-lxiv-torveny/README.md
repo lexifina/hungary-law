@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2014-03-04 | 2014. évi XIV. törvény | 2001-64-00-00.31 |
 | 2014-03-15 | 2013. évi CCXVII. törvény | 2001-64-00-00.32 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 2001-64-00-00.33 |
+| 2015-01-01 | 2014. évi CVI. törvény | 2001-64-00-00.34 |

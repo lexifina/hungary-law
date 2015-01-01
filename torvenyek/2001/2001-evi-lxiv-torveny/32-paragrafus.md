@@ -1,15 +1,15 @@
-## A védettség létrejötte
+## A műemléki védettség létrejötte
 
-32. § A műemléki értékeket a miniszter rendeletben nyilvánítja védetté. A rendeletnek tartalmaznia kell:
+32. § A nyilvántartott műemléki értékeket a miniszter rendeletben nyilvánítja műemlékké, aminek tartalmaznia kell:
 
 a) a védetté nyilvánítás tényét,
 
-b) a védetté nyilvánított műemléki értékeket, a védelem célját,
+b) a védetté nyilvánított műemléki érték meghatározását, a védelem célját,
 
-c) a védelem fajtáját (műemlék, védett műemléki terület),
+c) a védelem fajtáját (műemlék, műemléki terület),
 
 d) az egyedileg védett ingatlanra (ingatlanrészre) vonatkozó, elővásárlási joggal kapcsolatos rendelkezést,
 
-e) a műemléknek a műemlékvédelmi bírság szerinti számítási kategóriájába sorolását,
+e) a műemléknek az örökségvédelmi bírság szerinti számítási kategóriájába és a védelem kormányrendeletben meghatározott további szempontjai szerinti kategóriába sorolását,
 
 f) a műemlék ingatlan (ingatlanrész) és a műemléki terület meghatározását, az azonosításához szükséges helyrajzi adatokkal.
