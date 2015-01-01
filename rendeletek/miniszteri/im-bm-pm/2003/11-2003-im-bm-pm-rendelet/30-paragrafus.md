@@ -6,13 +6,15 @@
 
 a) értékének és minőségének megállapításával megbízott szakértő részére költségtérítés és munkadíj címén,
 
-b)[^32] szakszerű kezelésével megbízott gazdálkodó szervezet részére őrzési és kezelési díj (költség) címén, továbbá állagának megóvásával és karbantartásával megbízott gazdálkodó szervezet részére költségtérítés és munkadíj címén,
+b)[^44] szakszerű kezelésével megbízott gazdálkodó szervezet részére őrzési és kezelési díj (költség) címén, továbbá állagának megóvásával és karbantartásával megbízott gazdálkodó szervezet részére költségtérítés és munkadíj címén,
 
-c)[^33] megfelelő fuvarköltség (szállítási díj) ellenében történő szállításával, illetve a bűnjel magyar pénz átutalásával,
+c)[^45] megfelelő fuvarköltség (szállítási díj) ellenében történő szállításával, illetve a bűnjel magyar, illetve külföldi pénz átutalásával,
 
 d) megsemmisítésével kapcsolatban,
 
-e)[^34] szakszerű kezelésével, állagának megóvásával és karbantartásával összefüggésben költségtérítés címén a hatóság saját tulajdonú vagy a kezelésében lévő ingatlanon történő tárolás kapcsán
+e)[^46] szakszerű kezelésével, állagának megóvásával és karbantartásával összefüggésben költségtérítés címén a hatóság saját tulajdonú vagy a kezelésében lévő ingatlanon történő tárolás kapcsán,
+
+f)[^47] értékesítésével kapcsolatban
 
 ## merül fel és fizetik ki.
 
@@ -22,6 +24,7 @@ e)[^34] szakszerű kezelésével, állagának megóvásával és karbantartásá
 
 (4) Az (1) bekezdés c) pontja alapján nincs helye bűnügyi költség bejegyzésének, ha a bűnjelet a hatóság saját gépkocsijával vagy más eszközével szállítják, illetőleg, ha a bűnjel szállításával kapcsolatban a hatóság a költségvetése terhére fuvarköltséget (szállítási díjat) másnak nem fizet.
 
-[^32]: A 30. § (1) bekezdés b) pontja a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^33]: A 30. § (1) bekezdés c) pontja a 47/2009. (IX. 28.) IRM–PM együttes rendelet 10. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^34]: A 30. § (1) bekezdés e) pontját a 18/2011. (VI. 24.) KIM rendelet 5. §-a iktatta be.
+[^44]: A 30. § (1) bekezdés b) pontja a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^45]: A 30. § (1) bekezdés c) pontja a 47/2009. (IX. 28.) IRM–PM együttes rendelet 10. §-ával megállapított, a 17/2014. (XII. 19.) IM rendelet 26. § 2. pontja szerint módosított szöveg.
+[^46]: A 30. § (1) bekezdés e) pontját a 18/2011. (VI. 24.) KIM rendelet 5. §-a iktatta be.
+[^47]: A 30. § (1) bekezdés f) pontját a 17/2014. (XII. 19.) IM rendelet 13. §-a iktatta be.

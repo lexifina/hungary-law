@@ -1,4 +1,4 @@
-## 87. § A hatóság a jogosult által át nem vett közokiratot a kiállító hatóságnak küldi meg, az ilyen magánokiratot pedig megsemmisítheti.
+## 87. §[^120] A hatóság a jogosult által át nem vett közokiratot a kiállító hatóságnak küldi meg, az ilyen magánokiratot pedig – a magánokiratra vonatkozó más jogszabályban előírt iratőrzési kötelezettség figyelembevételével – megsemmisítheti.
 
 ## Okmány, hatósági jelzés és úti okmány
 
@@ -11,3 +11,5 @@
 (4) A bűnjelként, bűnjelre vonatkozó okmányként, továbbá hatósági jelzésként lefoglalt eredeti dolgot a hatóság az eljárás befejezése után – a határozat egy példányával – a kiállító hatóság részére küldi meg.
 
 (5) A 43. § (1) bekezdésében szabályozott esetben a bűnjelként lefoglalt úti okmányt a hatóság az eljárás befejezése után, a vonatkozó nemzetközi egyezmények rendelkezései szerint, ezek hiányában a Külügyminisztérium Konzuli Főosztálya útján küldi meg az úti okmányt kiállító hatóság részére.
+
+[^120]: A 87. § a 17/2014. (XII. 19.) IM rendelet 25. §-ával megállapított szöveg.

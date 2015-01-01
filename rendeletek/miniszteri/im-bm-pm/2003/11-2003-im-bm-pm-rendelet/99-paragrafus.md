@@ -6,6 +6,6 @@
 
 99. § (1) Ez a rendelet 2003. július 1. napján lép hatályba, rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 
-(2)[^109]
+(2)[^133]
 
-[^109]: A 99. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 79. pontja hatályon kívül helyezte.
+[^133]: A 99. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 79. pontja hatályon kívül helyezte.

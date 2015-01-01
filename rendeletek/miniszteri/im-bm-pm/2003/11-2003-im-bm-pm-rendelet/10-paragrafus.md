@@ -6,13 +6,13 @@
 
 10. § (1) Ha a büntetőügyben eljáró hatóság lefoglalásról határoz, a foganatosításáról jegyzőkönyvet készít.
 
-(2)[^18] A bűnjelről a jegyzőkönyv a következő adatokat tartalmazza:
+(2)[^25] A bűnjelről a jegyzőkönyv a következő adatokat tartalmazza:
 
 a) a bűnjel megjelölése, elektronikus adat lefoglalása esetén ideértve a lefoglalás során az adathordozón rögzített adatok, programok megjelölését is, oly módon, hogy az adathordozó tartalma egyértelműen azonosítható legyen,
 
 b) a bűnjel mennyisége,
 
-c) a bűnjel értéke,
+c)[^26] a bűnjel értéke, ha az a büntetőügy szempontjából releváns,
 
 d) a bűnjel minőségi állapota,
 
@@ -38,4 +38,5 @@ j) a bűnjel megőrzésének módja és helye.
 
 (7) A hatóság a jegyzőkönyv két példányát az iratokhoz csatolja, egy-egy példányt pedig átad az érdekelteknek.
 
-[^18]: A 10. § (2) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 5. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^25]: A 10. § (2) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 5. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^26]: A 10. § (2) bekezdés c) pontja a 17/2014. (XII. 19.) IM rendelet 9. §-ával megállapított szöveg.

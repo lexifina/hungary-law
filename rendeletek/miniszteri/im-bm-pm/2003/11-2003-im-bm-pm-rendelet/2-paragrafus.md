@@ -1,6 +1,6 @@
 ## A bűnjelnek az érdekelt őrizetében hagyása
 
-2. § (1) Ha a bűnjel hatósági letétbe helyezésre nem alkalmas, a hatóság azt a lefoglalást szenvedő birtokos, tulajdonos, használó, ezek megbízottja vagy képviselője (a továbbiakban együtt: érdekelt) őrizetében hagyhatja.
+2. § (1)[^7] Ha a bűnjel hatósági letétbe helyezése nem indokolt és megfelelő őrzése biztosítható, a hatóság azt a lefoglalást szenvedő birtokos, tulajdonos, használó, ezek megbízottja vagy képviselője (a továbbiakban együtt: érdekelt) őrizetében hagyhatja, vagy ha további vizsgálata nem szükséges, őrizetébe kiadhatja.
 
 (2) Ha a hatóság a bűnjelet az érdekelt őrizetében hagyja, őt a kötelezettségeire és jogaira figyelmezteti. A figyelmeztetést feltünteti a lefoglalásról készített jegyzőkönyvben.
 
@@ -9,3 +9,5 @@
 (4) A használatot engedélyezni kell, ha az a bűnjel fennmaradása érdekében szükséges.
 
 (5) Az érdekelt a bűnjel átvételét és a (2)–(3) bekezdésben írt figyelmeztetés tudomásul vételét a lefoglalásról készített jegyzőkönyvben aláírt nyilatkozatával ismeri el.
+
+[^7]: A 2. § (1) bekezdése a 17/2014. (XII. 19.) IM rendelet 4. §-ával megállapított szöveg.

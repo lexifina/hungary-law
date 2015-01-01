@@ -2,6 +2,6 @@
 
 (2) A bűnjel őrzése során a bűnjelkezelő gondoskodik arról, hogy a bűnjel változatlan (sérülésmentes) maradjon, a bűncselekmény esetleges nyoma róla el ne tűnjön, kicserélni ne lehessen és azonossága könnyen megállapítható legyen.
 
-(3)[^17] A bűnjelkezelő, ha a bűnjel jellege szükségessé teszi, a bűnjel szakszerű kezeléséről is gondoskodik, illetőleg a 7. § (5) bekezdése szerinti megbízás érdekében a BGH, illetőleg a nyomozó hatóság vezetőjének vagy az ügyésznek előterjesztést tesz.
+(3)[^24] A bűnjelkezelő az érdekelt 7. § (5a) bekezdése szerinti tájékoztatása alapján, vagy ha a bűnjel jellege egyébként szükségessé teszi, a bűnjel szakszerű kezeléséről is gondoskodik, vagy a 7. § (5) bekezdése szerinti megbízás érdekében a BGH, a nyomozó hatóság vezetőjének vagy az ügyésznek előterjesztést tesz.
 
-[^17]: A 9. § (3) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 4. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^24]: A 9. § (3) bekezdése a 17/2014. (XII. 19.) IM rendelet 8. §-ával megállapított szöveg.
