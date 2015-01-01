@@ -1,0 +1,1 @@
+5/B. § A világörökségről szóló 2011. évi LXXVII. törvényben meghatározott világörökségi terület nagyvárosias lakóterületén tilos diszkontot, nagyméretű szupermarketet és hipermarketet létesíteni vagy üzemeltetni.

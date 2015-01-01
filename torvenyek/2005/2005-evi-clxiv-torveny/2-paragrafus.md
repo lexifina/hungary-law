@@ -77,3 +77,11 @@
 a) amely az üzemeltető, foglalkoztatott tudomásával vagy közreműködésével valósul meg, vagy
 
 b) amelyet az üzemeltetőtől, a foglalkoztatottól elvárható, a rendes üzletmenet biztosítása érdekében szükséges intézkedés elmulasztása tesz lehetővé, feltéve, hogy az üzemeltető tud, vagy a tőle elvárható gondosság tanúsítása esetén tudhatott volna a foglalkoztatott mulasztásáról.
+
+32. hipermarket: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 5000 négyzetméternél nagyobb bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet;
+
+33. nagyméretű szupermarket: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 2500–5000 négyzetméter közötti bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet;
+
+34. szupermarket: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 400–2500 négyzetméter közötti bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet;
+
+35. diszkont: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 400 négyzetméternél nagyobb bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet, amely nem rendelkezik friss hús, húskészítmény és tejtermékek kimérésére szolgáló pulttal.
