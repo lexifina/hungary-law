@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-33-20-1
 | --- | --- | --- |
 | 2014-12-13 | 2014-33-20-11.1 | 33/2014. (XII. 10.) FM rendelet |
 | 2014-12-14 | 2014-33-20-11.2 | 2010: CXXX. törvény |
+| 2015-01-01 | 2014-33-20-11.3 | 2010: CXXX. törvény |

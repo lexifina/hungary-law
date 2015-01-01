@@ -1,4 +1,4 @@
-## 5. §[^8]
+## 5. §[^6]
 
 ## 3. Záró rendelkezés
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. § (2) bekezdése, 2. §-a, valamint a 4. §-a 2015. január 1-jén lép hatályba.
 
-[^8]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
