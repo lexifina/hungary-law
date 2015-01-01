@@ -46,8 +46,9 @@ b) munkahelyi tevékenység és beosztás.
 
 7. Nyelvismeretre vonatkozó adatok.
 
-8. A kérelmező hozzájárulása, illetve a hozzájárulás megtagadása arra vonatkozóan, hogy a kérelemben megadott személyes és végzettségre vonatkozó adatokat az OMMF nyilvántartásba vegye, illetve az szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatait (név, lakcím, az engedélyezett szolgáltatási tevékenység megnevezése) a munkavédelmi hatóság a honlapján közzétegye.
+8.[^5] A kérelmező hozzájárulása, illetve a hozzájárulás megtagadása arra vonatkozóan, hogy a kérelemben megadott személyes és végzettségre vonatkozó adatokat a foglalkoztatáspolitikáért felelős miniszter nyilvántartásba vegye, illetve az szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatait (név, lakcím, az engedélyezett szolgáltatási tevékenység megnevezése) a munkavédelmi hatóság a honlapján közzétegye.
 
 9. A kérelem benyújtásának kelte, a kérelmező aláírása.
 
 [^4]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
+[^5]: A 2. számú melléklet 8. pontja a 318/2014. (XII. 13.) Korm. rendelet 14. §-a szerint módosított szöveg.
