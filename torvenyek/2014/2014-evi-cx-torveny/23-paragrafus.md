@@ -1,0 +1,3 @@
+23. § A NAK tv. a következő 57. §-sal egészül ki:
+
+„57. § Az agrárkamarával munkavállalói, megbízási, tisztségviselői jogviszonyban állók tekintetében a saját tulajdonú jármű, saját tulajdonú személygépkocsi alatt kell érteni a munkavégzéshez, munkába járáshoz használt más személy tulajdonában álló, de az érintett személy által jogszerűen használt járművet. E rendelkezést a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosításáról szóló 2014. évi CX. törvény (a továbbiakban: 2014. évi CX. törvény) hatálybalépése napjáig elszámolt kiadásokra is alkalmazni kell.”

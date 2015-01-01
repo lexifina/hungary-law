@@ -1,0 +1,9 @@
+2. § A NAK tv. I. Fejezete a következő 2/A. §-sal egészül ki:
+
+„2/A. § (1) E törvény alkalmazásában agrárgazdasági tevékenység folytatásának kell tekinteni, ha az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek az e törvény alapján az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási nyilvántartási feladatokat ellátó szervnek, vagy a cégbíróságnak az érintett személyről vezetett nyilvántartásában szerepelnek.
+
+(2) Amennyiben a tevékenység folytatásának feltétele az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységeknek az e törvény alapján az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási szerv felé való bejelentése, úgy a tevékenység folytatása kezdőnapjának a bejelentés napja minősül.
+
+(3) E törvény alkalmazásában az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek folytatása megszűnésének minősül, ha az érintett tevékenységet a közigazgatási nyilvántartási feladatokat ellátó szerv által az érintett személyről vezetett nyilvántartásból törlik vagy onnan kivezetésre kerül. Ebben az esetben az érintett tevékenység folytatása megszűnése időpontjának a nyilvántartásból való törlés vagy kivezetés hatályának időpontját kell tekinteni, amely azonban nem lehet korábbi annál a napnál, amikor a gazdálkodó szervezet vagy az egyéni vállalkozó a törlés iránti kérelmét benyújtotta.
+
+(4) Amennyiben az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenység folytatásának feltétele a tevékenység az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási szerv felé való bejelentése, a tevékenység folytatása megszűnésének az a nap minősül, amikor az érintett személy a tevékenység folytatásának megszüntetését az érintett közigazgatási szerv felé bejelenti.”
