@@ -41,5 +41,3 @@ X. Rendkívüli ráfordítások
 09. Értékcsökkenési leírás
 
 XI. Működési költségek (07+08+09)
-
-A. Mérleg szerinti eredmény (I+II+III+IV+V–VI–VII–VIII–IX–X–XI)
