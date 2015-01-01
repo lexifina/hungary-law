@@ -1,6 +1,5 @@
-6. § (1)[^9]
+6. § (1) Az R. az 1. melléklet szerinti 5. melléklettel egészül ki.
 
-(2)–(3)[^10]
+(2)–(3)[^7]
 
-[^9]: A 6. § (1) bekezdése a 9. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^10]: A 6. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 6. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

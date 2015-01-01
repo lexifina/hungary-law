@@ -1,12 +1,19 @@
-## 3. §[^3]
+## 3. §[^2]
 
-4. § (1)[^4]
+4. § (1) Az R. a következő 6/A. §-sal egészül ki:
 
-(2)[^5]
+## „6/A. § Az energia-megtakarítási célú hazai vagy uniós pályázati forrás vagy a központi költségvetésből származó támogatás igénybevételével megvalósuló bármilyen rendeltetésű
 
-(3)[^6]
+## a) meglévő épület nem jelentős mértékű felújítása esetén az építési-szerelési munkával érintett épületelemek energetikai jellemzőinek meg kell felelniük az 1. melléklet V. részében és az 5. melléklet I. részében,
 
-[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 4. § (1) bekezdése a 9. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^5]: A 4. § (2) bekezdése a 9. § (4) bekezdése alapján 2018. december 31-én lép hatályba.
-[^6]: A 4. § (3) bekezdése a 9. § (5) bekezdése alapján 2020. december 31-én lép hatályba.
+## b) új épület építése vagy meglévő épület jelentős mértékű felújítása esetén az épület energetikai jellemzőinek meg kell felelniük az 1. melléklet IV. és V. részében és az 5. melléklet I–III. részében
+
+## meghatározott követelményeknek.”
+
+(2)[^3]
+
+(3)[^4]
+
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. § (2) bekezdése a 9. § (4) bekezdése alapján 2018. december 31-én lép hatályba.
+[^4]: A 4. § (3) bekezdése a 9. § (5) bekezdése alapján 2020. december 31-én lép hatályba.
