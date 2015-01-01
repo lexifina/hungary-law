@@ -1,4 +1,4 @@
-## 12. §[^62] Az ideiglenes hatállyal elhelyezett, nem magyar állampolgárságú (külföldi) gyermek érdekében való intézkedésre kijelölt gyámhivatal [Gyvt. 72–73. §] feladatait a fővárosi kormányhivatal V. kerületi gyámhivatala látja el.
+## 12. §[^62] Az ideiglenes hatállyal elhelyezett, nem magyar állampolgárságú (külföldi) gyermek érdekében való intézkedésre kijelölt gyámhivatal [Gyvt. 72–73. §] feladatait a Budapest Főváros Kormányhivatala V. Kerületi Gyámhivatala látja el.
 
 ## A szociális és gyámhivatal feladat- és hatásköre
 
@@ -12,7 +12,7 @@ c)[^65] másodfokú hatósági jogkört gyakorol a települési önkormányzat j
 
 d) ellátja a jogszabályokban hatáskörébe utalt egyéb feladatokat.
 
-[^62]: A 12. § a 174/2012. (VII. 26.) Korm. rendelet 42. § (13) bekezdés b) pontja, a 97/2013. (III. 29.) Korm. rendelet 75. § (1) bekezdése szerint módosított szöveg.
+[^62]: A 12. § a 174/2012. (VII. 26.) Korm. rendelet 42. § (13) bekezdés b) pontja, a 97/2013. (III. 29.) Korm. rendelet 75. § (1) bekezdése, a 353/2014. (XII. 29.) Korm. rendelet 53. § b) pontja szerint módosított szöveg.
 [^63]: A 13. § a) pontja a 174/2012. (VII. 26.) Korm. rendelet 42. § (13) bekezdés a) pontja szerint módosított szöveg.
 [^64]: A 13. § b) pontja a 369/2013. (X. 24.) Korm. rendelet 55. § (2) bekezdésével megállapított szöveg.
 [^65]: A 13. § c) pontja a 237/2010. (IX. 13.) Korm. rendelet 18. §-ával megállapított, a 360/2010. (XII. 30.) Korm. rendelet 55. § b) pontja, a 174/2012. (VII. 26.) Korm. rendelet 42. § (13) bekezdés a) pontja szerint módosított szöveg.

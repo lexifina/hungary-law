@@ -28,7 +28,7 @@ l)[^32] dönt az ideiglenes hatállyal elhelyezett és nevelésbe vett, speciál
 
 m) közreműködik a bírósági végrehajtási eljárásban,
 
-n)[^33] dönt a gyermek védelembe vételéről és annak megszüntetéséről,
+n)[^33] dönt a gyermek védelembe vételéről, a megelőző pártfogás elrendeléséről és ezek megszüntetéséről,
 
 o)[^34] dönt a családi pótlék természetbeni formában történő nyújtásáról, felülvizsgálatáról, a kirendelt eseti gondnok elszámolásának elfogadásáról,
 
@@ -51,7 +51,7 @@ r)[^37] a gyermek gondozási helyére vonatkozó javaslat kialakítása érdeké
 [^30]: A 4. § i) pontja a 97/2013. (III. 29.) Korm. rendelet 68. § (3) bekezdésével megállapított szöveg.
 [^31]: A 4. § k) pontja a 97/2013. (III. 29.) Korm. rendelet 76. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^32]: A 4. § l) pontja a 173/2009. (VIII. 29.) Korm. rendelet 48. §-ával megállapított, a 97/2013. (III. 29.) Korm. rendelet 76. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^33]: A 4. § n) pontját a 173/2009. (VIII. 29.) Korm. rendelet 48. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdésével megállapított szöveg.
+[^33]: A 4. § n) pontját a 173/2009. (VIII. 29.) Korm. rendelet 48. §-a iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 51. §-ával megállapított szöveg.
 [^34]: A 4. § o) pontját a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdése iktatta be.
 [^35]: A 4. § p) pontját a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdése iktatta be.
 [^36]: A 4. § q) pontját a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdése iktatta be.
