@@ -28,7 +28,7 @@ c) – az engedélyesre vonatkozó létesítési, használati és üzemeltetési
 
 d) – az engedélyesre vonatkozó építéshatósági követelmények érvényesítésének kérdésében – első fokú eljárásban az engedélyes címe szerint illetékes építésügyi hatóságot, másodfokú eljárásban a másodfokú építésügyi hatóságot szakhatóságként jelöli ki.
 
-(6) A Kormány az engedélyes bejegyzése iránti eljárásban a befogadás kérdésében az első fokú eljárásban a Hivatalt, a másodfokú eljárásban a minisztert szakhatóságként jelöli ki, ha a fenntartó az engedélyest költségvetési támogatással kívánja működtetni, és ehhez az Szt., illetve a Gyvt. a befogadást előírja.
+(6)[^14] A Kormány az engedélyes bejegyzése iránti eljárásban a befogadás kérdésében az első fokú eljárásban a Hivatalt, a másodfokú eljárásban a minisztert szakhatóságként jelöli ki, ha a fenntartó az engedélyest költségvetési támogatással kívánja működtetni, és ehhez az Szt., illetve a Gyvt. a befogadást előírja. A működést engedélyező szerv nem keresi meg szakhatóságként első fokú eljárásban a Hivatalt, és másodfokú eljárásban a minisztert, ha a kérelmező nem állami fenntartó a szervezeti formája alapján, a tárgyévi költségvetésről szóló törvény szerint nem jogosult költségvetési támogatásra.
 
 (7) A működést engedélyező szerv nem keresi meg szakhatóságként első fokú eljárásban az építésügyi hatóságot és másodfokú eljárásban a másodfokú építésügyi hatóságot, ha a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre, a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki. A működést engedélyező szerv mérlegelésén múlik, hogy megkeresi-e szakhatóságként első fokú eljárásban az építésügyi hatóságot és másodfokú eljárásban a másodfokú építésügyi hatóságot, ha a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre, a kérelem benyújtását megelőző hat hónapnál régebben használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki.
 
@@ -47,3 +47,5 @@ c) a korábbi engedélyest nem e szakhatóságok feladat- és hatáskörébe tar
 (11) A szakhatóságok ügyintézési határideje időszakos férőhelybővítés esetén öt munkanap, egyéb esetben harminc nap. Időszakos férőhelybővítés esetén a szakhatóságok ügyintézési határideje legfeljebb öt munkanappal hosszabbítható meg.
 
 (12) Ha a szakhatóság a hozzájárulását határozott időre adta meg, a működést engedélyező szerv a lakhatási szolgáltatást biztosító adott ingatlant, egyéb esetben a szolgáltatást a szakhatósági állásfoglalásban meghatározott időre ideiglenes hatállyal jegyzi be.
+
+[^14]: A 19. § (6) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 70. §-a szerint módosított szöveg.

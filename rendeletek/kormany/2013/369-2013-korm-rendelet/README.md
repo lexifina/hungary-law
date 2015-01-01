@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-369-20-
 | 2013-12-02 | 2013-369-20-22.2 | 2010: CXXX. törvény |
 | 2014-03-15 | 2013-369-20-22.3 | 69/2014. (III. 13.) Korm. rendelet |
 | 2014-09-05 | 2013-369-20-22.4 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2015-01-01 | 2013-369-20-22.5 | 353/2014. (XII. 29.) Korm. rendelet |

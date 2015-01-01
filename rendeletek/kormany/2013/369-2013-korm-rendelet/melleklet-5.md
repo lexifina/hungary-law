@@ -1,4 +1,4 @@
-5. melléklet a 369/2013. (X. 24.) Korm. rendelethez
+5. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^28]
 
 ## Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működést engedélyező szervnek bemutatandó iratok
 
@@ -51,6 +51,8 @@
 2.1.5. csatolni kell a biztosító igazolását arról, hogy a szolgáltatás körében okozott kár megtérítésére felelősségbiztosítási szerződéssel rendelkeznek, ha jogszabály a felelősségbiztosítási szerződés megkötését előírja,
 
 2.1.6. csatolni kell az ellátási szerződés másolatát, ha az egyházi fenntartó, illetve a nem állami fenntartó az engedélyes által nyújtandó szolgáltatásra ellátási szerződést kötött.
+
+2.1.7. csatolni kell az Szt. 90. § (4) bekezdése szerinti megállapodás, illetve a Gyvt. szerinti ellátási szerződés másolatát, ha az állami fenntartó az engedélyes által nyújtandó szolgáltatásra az Szt. 90. § (4) bekezdése alapján megállapodást, illetve a Gyvt. alapján ellátási szerződést kötött.
 
 2.2. Falugondnoki, tanyagondnoki és támogató szolgáltatás esetén a 2.1. pontban foglaltakon túl
 
@@ -156,7 +158,7 @@
 
 2.14.3. csatolni kell a külső férőhelyet biztosító lakásról (lakrészről) készített környezettanulmányt.
 
-2.15. Csatolni kell a Hivatal előzetes szakhatósági hozzájárulását, ha a fenntartó az engedélyest költségvetési támogatással kívánja működtetni, az Szt. vagy a Gyvt. a befogadást előírja, és a fenntartó az előzetes szakhatósági hozzájárulást beszerezte. Ha a fenntartó az előzetes szakhatósági hozzájárulást nem szerezte be, de az Szt. 58/A. § (2e) bekezdés b) pontja, illetve a Gyvt. 145. § (2c) bekezdés b) pontja szerinti feltételek fennállnak, csatolni kell a pályázat elnyerését igazoló dokumentumot.
+2.15. Csatolni kell a Hivatal előzetes szakhatósági hozzájárulását, ha a fenntartó az engedélyest költségvetési támogatással kívánja működtetni, az Szt. vagy a Gyvt. a befogadást előírja, és a fenntartó az előzetes szakhatósági hozzájárulást beszerezte. Ha a fenntartó az előzetes szakhatósági hozzájárulást nem szerezte be, de az Szt. 58/A. § (2c) bekezdés b) pontja, illetve a Gyvt. 145. § (2c) bekezdés b) pontja szerinti feltételek fennállnak, csatolni kell a pályázat elnyerését igazoló dokumentumot.
 
 3. Kiegészítő szabályok:
 
@@ -175,3 +177,5 @@
 3.3.4. a 2.1.6. pont szerinti iratot abban az esetben kell csatolni, ha az engedélyes által nyújtott szolgáltatásra megkötött ellátási szerződés az időszakos férőhelyekre nem terjedt ki,
 
 3.3.5. a 2.5. pont szerinti iratokat abban az esetben kell csatolni, ha az időszakos férőhelyeket nem az engedélyes épületében alakítják ki, vagy adatmódosítás esetén a szakhatóságok bevonása a 31. § (4) bekezdése alapján szükséges.
+
+[^28]: Az 5. melléklet a 353/2014. (XII. 29.) Korm. rendelet 75. § (2) bekezdése szerint módosított szöveg.

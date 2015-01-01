@@ -6,7 +6,7 @@
 
 a) adatmódosítás: az engedélyesnek a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásába (a továbbiakban: szolgáltatói nyilvántartás) bejegyzett adatainak módosítása, ideértve a bejegyzett engedélyes egyes új adatainak a szolgáltatói nyilvántartásba történő bejegyzését és a bejegyzett engedélyes egyes adatainak a szolgáltatói nyilvántartásból történő törlését is;
 
-b) befogadás: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 58/A. § (2), (2a) és (2e) bekezdése, illetve a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 145. § (2), (2a) és (2c) bekezdése szerinti, a szociális szolgáltatások és a gyermekjóléti szolgáltató tevékenységek területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadás;
+b)[^1] befogadás: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.), illetve a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) szerinti, a szociális szolgáltatások és a gyermekjóléti szolgáltató tevékenységek területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadás;
 
 c) ellátási kötelezettséget teljesítő állami fenntartó: a Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: Főigazgatóság), valamint a helyi önkormányzat, illetve azok társulása az általa fenntartott engedélyes által nyújtott olyan szolgáltatás tekintetében, amelyet az állam vagy a helyi önkormányzat, illetve a társulás valamelyik tagja az Szt., illetve a Gyvt. alapján biztosítani köteles;
 
@@ -30,10 +30,13 @@ j) szolgáltató: az Szt. szerinti szociális szolgáltatást nyújtó szociáli
 
 k) szolgáltató székhelye: a szolgáltató központi ügyintézésének helye, függetlenül attól, hogy használják-e szolgáltatás nyújtására;
 
-l) telephely: az a szolgáltató székhelyétől különböző, a szolgáltató használatában álló
+l)[^2] telephely: az a szolgáltató székhelyétől különböző, a szolgáltató használatában álló
 
-la) hely, ahol a szolgáltató nappali szociális ellátást, bentlakásos szociális intézményi ellátást, bölcsődei ellátást, hetes bölcsődei ellátást, családi napközi ellátást vagy alternatív napközbeni ellátást nyújt, illetve gyermekek átmeneti otthonát, családok átmeneti otthonát, gyermekotthont vagy utógondozó otthont működtet, kivéve a külső férőhelyeket, a támogatott lakhatást biztosító ingatlant és a félutas házat,
+la) hely, ahol a szolgáltató nappali szociális ellátást, bentlakásos szociális intézményi ellátást, bölcsődei ellátást, hetes bölcsődei ellátást, családi napközi ellátást vagy alternatív napközbeni ellátást nyújt, illetve gyermekek átmeneti otthonát, családok átmeneti otthonát, gyermekotthont vagy utógondozó otthont működtet, kivéve a külső férőhelyeket, a támogatott lakhatás lakhatási szolgáltatását (a továbbiakban: lakhatási szolgáltatás) biztosító ingatlant és a félutas házat,
 
-lb) az la) alpontban nem említett szolgáltatáshoz használt, az ellátottak számára nyitva álló helyiség vagy jelzőrendszeres házi segítségnyújtás esetén szakmai központ, amelynek telephelyként történő bejegyzését a fenntartó kéri;
+lb) az la) alpont hatálya alá nem tartozó szolgáltatáshoz használt, az ellátottak számára nyitva álló helyiség, támogatott lakhatás esetén a lakhatási szolgáltatást biztosító ingatlan, illetve jelzőrendszeres házi segítségnyújtás esetén szakmai központ, amelynek telephelyként történő bejegyzését a fenntartó kéri;
 
 m) téli időszak: a november 1-je és április 30-a közötti időszak.
+
+[^1]: Az 1. § b) pontja a 353/2014. (XII. 29.) Korm. rendelet 77. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § l) pontja a 353/2014. (XII. 29.) Korm. rendelet 66. §-ával megállapított szöveg.

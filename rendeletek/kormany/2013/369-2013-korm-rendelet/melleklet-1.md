@@ -1,6 +1,6 @@
-## 57. §[^7]
+## 57. §[^24]
 
-1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^8]
+1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^25]
 
 ## A szolgáltatói nyilvántartás adatai
 
@@ -16,11 +16,13 @@
 
 1.5. a szolgáltató neve, székhelye és a székhely ágazati azonosítója, ha az engedélyes telephely,
 
-1.6. – ha a fenntartóétól különböző adószámmal rendelkezik – a szolgáltató adószáma,
+1.6. a szolgáltató neve, ha az engedélyes székhely, és a szolgáltató különböző névvel rendelkezik,
 
-1.7. a költségvetési szerv szolgáltató törzskönyvi azonosító száma, valamint – ha az engedélyes telephely – a telephely törzskönyvi azonosító alszáma,
+1.7. – ha a fenntartóétól különböző adószámmal rendelkezik – a szolgáltató adószáma,
 
-1.8. az Szt.-ben és a Gyvt.-ben meghatározott adatok.
+1.8. a költségvetési szerv szolgáltató törzskönyvi azonosító száma,
+
+1.9. az Szt.-ben és a Gyvt.-ben meghatározott adatok.
 
 2. Az engedélyes fenntartójának az Szt.-ben és a Gyvt.-ben meghatározott adatai.
 
@@ -148,7 +150,7 @@
 
 3.1.15.7. támogatott lakhatás szenvedélybetegek részére az Szt. 75. § (2) bekezdése szerinti forma megjelölésével: férőhelyszám,
 
-3.1.15.8. támogatott lakhatás hajléktalan személyek részére az Szt. 75. § (2) bekezdése szerinti forma megjelölésével: férőhelyszám,
+3.1.15.8.
 
 3.1.16. egyéb speciális szociális intézményi ellátás: férőhelyszám,
 
@@ -164,9 +166,17 @@
 
 3.1.20. családi napközi:
 
-3.1.20.1. önálló családi napközi: férőhelyszám,
+3.1.20.1. önálló családi napközi:
 
-3.1.20.2. hálózatban működtetett családi napközi: férőhelyszám,
+3.1.20.1.1. az ellátotti csoport a Gyvt. 43. § (6a) bekezdése alapján,
+
+3.1.20.1.2. férőhelyszám,
+
+3.1.20.2. hálózatban működtetett családi napközi:
+
+3.1.20.2.1. az ellátotti csoport a Gyvt. 43. § (6a) bekezdése alapján,
+
+3.1.20.2.2. férőhelyszám,
 
 3.1.21. családi gyermekfelügyelet,
 
@@ -302,7 +312,7 @@
 
 3.7. valamennyi szolgáltatás esetén az ellátási terület,
 
-3.8. az Szt. vagy a Gyvt. alapján befogadásra köteles szolgáltatás, illetve ellátotti létszám, férőhelyszám esetén a szolgáltatás befogadására és a befogadott ellátotti létszámra, férőhelyszámra vonatkozó adatok, illetve az arra a szolgáltatásra, ellátotti létszámra, férőhelyszámra vonatkozó adat, amely után a fenntartó az Szt. vagy a Gyvt. alapján befogadás nélkül jogosult költségvetési támogatásra,
+3.8. az Szt. vagy a Gyvt. alapján befogadásra köteles szolgáltatás, illetve ellátotti létszám, férőhelyszám esetén a szolgáltatás befogadására és a befogadott ellátotti létszámra, férőhelyszámra vonatkozó adatok, illetve az arra a szolgáltatásra, ellátotti létszámra, férőhelyszámra vonatkozó adat, amely után a fenntartó az Szt. vagy a Gyvt. alapján befogadás nélkül jogosult költségvetési támogatásra azzal, hogy a befogadott és befogadás nélkül költségvetési támogatásra jogosító ellátotti létszám, férőhelyszám összesen nem lehet magasabb a bejegyzett ellátotti létszámnál, férőhelyszámnál,
 
 3.9. egyházi fenntartó és nem állami fenntartó esetén – ha a fenntartó az engedélyes által nyújtott szolgáltatásra ellátási szerződést kötött – az ellátási szerződést megkötő helyi önkormányzat, társulás, illetve állami szerv neve, székhelye, valamint az a szolgáltatás és – olyan szolgáltatás esetén, amelynél a szolgáltatói nyilvántartás ezt az adatot tartalmazza – ellátotti létszám, jelzőkészülékszám, férőhelyszám, amelyre az ellátási szerződés kiterjed, továbbá az ellátási szerződés megszűnésének időpontja, ha az ellátási szerződést határozott időre kötötték.
 
@@ -330,9 +340,9 @@
 
 6.3.1. falugondnoki szolgáltatás és tanyagondnoki szolgáltatás esetén település vagy településrész megnevezésével,
 
-6.3.2. szociális étkeztetés, házi segítségnyújtás, családsegítés, támogató szolgáltatás, közösségi ellátások, utcai szociális munka és gyermekjóléti szolgáltatás esetén település, fővárosi kerület, kistérség vagy járás megnevezésével,
+6.3.2. szociális étkeztetés, házi segítségnyújtás, családsegítés, támogató szolgáltatás, közösségi ellátások, utcai szociális munka és gyermekjóléti szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület vagy járás megnevezésével,
 
-6.3.3. a 6.3.1. és a 6.3.2. pontban nem említett szolgáltatás esetén település, fővárosi kerület, kistérség, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
+6.3.3. a 6.3.1. és a 6.3.2. pontban nem említett szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
 
-[^7]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^24]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése szerint módosított szöveg.
