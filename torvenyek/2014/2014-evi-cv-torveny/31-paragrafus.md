@@ -4,14 +4,6 @@
 
 (3) A 30. § 2015. június 15-én lép hatályba.
 
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2014. évi CV. törvényhez
 
 Az Nkt. 5. melléklet Az intézményvezető-helyettes, tagintézmény-vezető, intézményegység-vezető, tagintézményvezető-helyettes, intézményegységvezető-helyettes heti tanóráinak száma (óvodapedagógus esetén óvodai foglalkozásainak száma) alcímében foglalt táblázat 6. sora helyébe a következő rendelkezés lép:
