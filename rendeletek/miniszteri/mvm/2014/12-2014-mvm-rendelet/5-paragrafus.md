@@ -1,3 +1,0 @@
-## 4. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a Natura 2000 gyepterületeken történő gazdálkodáshoz nyújtandó kompenzációs támogatás részletes szabályairól szóló 128/2007. (X. 31.) FVM rendelet [a továbbiakban: 128/2007. (X. 31.) FVM rendelet] Záró rendelkezések alcíme a következő 11/E. §-sal egészül ki.
-
-## „11/E. § Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási tárgyú rendeletek módosításáról szóló 12/2014. (XII. 30.) MvM rendelettel [a továbbiakban: 12/2014. (XII. 30.) MvM rendelet] megállapított 6. § b) pontot a 12/2014. (XII. 30.) MvM rendelet hatálybalépésekor folyamatban lévő ügyekben, valamint jogorvoslati eljárásokban is alkalmazni kell.”

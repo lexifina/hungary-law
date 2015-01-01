@@ -1,3 +1,0 @@
-## „21. § Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási tárgyú rendeletek módosításáról szóló 12/2014. (XII. 30.) MvM rendelettel [a továbbiakban: 12/2014. (XII. 30.) MvM rendelet] megállapított 10. § (9) bekezdést, 15. § (5a) bekezdést a 12/2014. (XII. 30.) MvM rendelet hatálybalépésekor folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.”
-
-## 12. Az Európai Mezőgazdasági Vidékfejlesztési Alapból egyes jogcímek esetében technológiai berendezések korszerűsítés céljából történő beszerzéséhez nyújtandó támogatások részletes feltételeiről szóló 116/2013. (XII. 12.) VM rendelet módosítása
