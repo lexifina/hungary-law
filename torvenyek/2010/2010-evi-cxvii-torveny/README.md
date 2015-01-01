@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-117-00-00
 | 2013-06-22 | 2013. évi CI. törvény | 2010-117-00-00.9 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 2010-117-00-00.10 |
 | 2013-08-01 | 2013. évi CI. törvény | 2010-117-00-00.11 |
+| 2015-01-01 | 2014. évi XCIX. törvény | 2010-117-00-00.12 |
