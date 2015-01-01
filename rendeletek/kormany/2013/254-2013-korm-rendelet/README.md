@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-254-20-
 | 2013-10-26 | 2013-254-20-22.8 | 2010: CXXX. törvény |
 | 2014-01-01 | 2013-254-20-22.9 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-01-02 | 2013-254-20-22.10 | 2010: CXXX. törvény |
+| 2015-01-01 | 2013-254-20-22.11 | 364/2014. (XII. 30.) Korm. rendelet |

@@ -1,3 +1,3 @@
-## 8. §[^10]
+## 8. §[^11]
 
-[^10]: A 8. § a 64. § (6) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^11]: A 8. § a 364/2014. (XII. 30.) Korm. rendelet 133. §-a alapján nem lép hatályba.

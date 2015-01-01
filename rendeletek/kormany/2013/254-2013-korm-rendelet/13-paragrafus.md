@@ -1,9 +1,9 @@
-## 12. §[^12]
+## 12. §[^13]
 
-13. § (1)[^13]
+13. § (1)[^14]
 
-(2)[^14]
+(2)[^15]
 
-[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 13. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 13. § (2) bekezdése a 64. § (6) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 13. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 13. § (2) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 133. §-a alapján nem lép hatályba.
