@@ -1,3 +1,5 @@
+## 12/F. §[^22] A BETFR használatához az ügyfelek képviselői által megadott természetes személyes azonosító adatokat tartalmazó iratokat az iroda kigyűjtve, az egyéb iratoktól elkülönítetten, a 41. § megfelelő alkalmazásával, zártan kezeli.
+
 ## Másolatok készítése, mellékletek kiadása
 
 13. § (1) A külön jogszabályban megjelölt azon személyek, akik az ügyben iratbetekintési joggal rendelkeznek, az ügy iratairól – kivéve, ha az iratról másolat adását jogszabály kizárja – hiteles vagy nem hiteles másolatot kaphatnak.
@@ -11,3 +13,5 @@
 (5) Az ügy iratairól kiadott nem hiteles másolat nem tartalmazza a (4) bekezdésben foglaltakat.
 
 (6) A külföldi felhasználásra szánt hiteles másolatot – ha nemzetközi szerződés alapján vagy nemzetközi szerződés hiányában azt felülhitelesíteni kell – a bíróság elnöke vagy elnökhelyettese az aláírásával, a hitelesítés időpontjának feltüntetésével és a bíróság bélyegzőlenyomatával hitelesíti. A hitelesítési záradék szövege a következő: ,,… (név) aláírását és a bíróság bélyegzőjének lenyomatát hitelesítem.''
+
+[^22]: A 12/F. §-t a 20/2014. (XII. 23.) IM rendelet 7. § (2) bekezdése iktatta be.

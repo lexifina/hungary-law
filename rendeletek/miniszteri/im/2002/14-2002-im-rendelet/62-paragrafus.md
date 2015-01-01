@@ -1,6 +1,6 @@
 ## A gazdasági ügyek ügyvitele
 
-## 62. §[^103] A gazdasági ügyek ügycsoportjai a következők:
+## 62. §[^110] A gazdasági ügyek ügycsoportjai a következők:
 
 a) felszámolási nemperes ügy,
 
@@ -38,25 +38,25 @@ q) vagyonrendezési nemperes ügy,
 
 r) fellebbezett vagyonrendezési nemperes ügy,
 
-s)[^104] felterjesztett kifogás az eljárás elhúzódása miatt,
+s)[^111] felterjesztett kifogás az eljárás elhúzódása miatt,
 
-t)[^105] jogutód nélkül megszűnt gazdálkodó szervezet javára bejegyzett jog vagy tény törlésével összefüggő nemperes ügy,
+t)[^112] jogutód nélkül megszűnt gazdálkodó szervezet javára bejegyzett jog vagy tény törlésével összefüggő nemperes ügy,
 
-u)[^106] a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény alapján indult ügyben kifogás,
+u)[^113] a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény alapján indult ügyben kifogás,
 
-v)[^107] a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény alapján indult ügyben fellebbezett kifogás,
+v)[^114] a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény alapján indult ügyben fellebbezett kifogás,
 
-z)[^108] vagyonrendezési nemperes ügyben kifogás,
+z)[^115] vagyonrendezési nemperes ügyben kifogás,
 
-zs)[^109] vagyonrendezési nemperes ügyben fellebbezett kifogás,
+zs)[^116] vagyonrendezési nemperes ügyben fellebbezett kifogás,
 
-x)[^110] jogutód nélkül megszűnt gazdálkodó szervezet javára bejegyzett jog vagy tény törlésével összefüggő fellebbezett nemperes ügy.
+x)[^117] jogutód nélkül megszűnt gazdálkodó szervezet javára bejegyzett jog vagy tény törlésével összefüggő fellebbezett nemperes ügy.
 
-[^103]: A 62. § a 22/2004. (V. 18.) IM rendelet 13. §-ával megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^104]: A 62. § s) pontját a 26/2006. (V. 18.) IM rendelet 14. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^105]: A 62. § t) pontját a 12/2012. (III. 1.) KIM rendelet 5. §-a iktatta be.
-[^106]: A 62. § u) pontját a 12/2012. (III. 1.) KIM rendelet 5. §-a iktatta be.
-[^107]: A 62. § v) pontját a 12/2012. (III. 1.) KIM rendelet 5. §-a iktatta be.
-[^108]: A 62. § z) pontját a 12/2012. (III. 1.) KIM rendelet 5. §-a iktatta be.
-[^109]: A 62. § zs) pontját a 12/2012. (III. 1.) KIM rendelet 5. §-a iktatta be.
-[^110]: A 62. § x) pontját a 21/2014. (III. 13.) KIM rendelet 12. § (16) bekezdése iktatta be.
+[^110]: A 62. § a 22/2004. (V. 18.) IM rendelet 13. §-ával megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^111]: A 62. § s) pontját a 26/2006. (V. 18.) IM rendelet 14. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^112]: A 62. § t) pontját a 12/2012. (III. 1.) KIM rendelet 5. §-a iktatta be.
+[^113]: A 62. § u) pontját a 12/2012. (III. 1.) KIM rendelet 5. §-a iktatta be.
+[^114]: A 62. § v) pontját a 12/2012. (III. 1.) KIM rendelet 5. §-a iktatta be.
+[^115]: A 62. § z) pontját a 12/2012. (III. 1.) KIM rendelet 5. §-a iktatta be.
+[^116]: A 62. § zs) pontját a 12/2012. (III. 1.) KIM rendelet 5. §-a iktatta be.
+[^117]: A 62. § x) pontját a 21/2014. (III. 13.) KIM rendelet 12. § (16) bekezdése iktatta be.

@@ -2,6 +2,6 @@
 
 (2) A cégkivonaton és a cégmásolaton a cégbíróság feltünteti, hogy a módosítás (egyéb adat) bejegyzése iránt kérelem érkezett és annak jogerős, érdemi elbírálása még nem történt meg. A cégbíróság a cégbizonyítványon az említett adatokat csak akkor tünteti fel, ha a kérelem a tanúsított bejegyzésre vonatkozik.
 
-(3)[^80] A cég nyilvános iratairól (pl. tagjegyzékről, elfogadó nyilatkozatról, jegyzőkönyvről) hiteles és nem hiteles másolat adható ki; a nem nyilvános cégiratokról történő felvilágosításra a 10–12. § rendelkezéseit kell alkalmazni.
+(3)[^87] A cég nyilvános iratairól (pl. tagjegyzékről, elfogadó nyilatkozatról, jegyzőkönyvről) hiteles és nem hiteles másolat adható ki; a nem nyilvános cégiratokról történő felvilágosításra a 10–12. § rendelkezéseit kell alkalmazni.
 
-[^80]: A 61. § (3) bekezdése a 21/2014. (III. 13.) KIM rendelet 12. § (10) bekezdésével megállapított szöveg.
+[^87]: A 61. § (3) bekezdése a 21/2014. (III. 13.) KIM rendelet 12. § (10) bekezdésével megállapított szöveg.
