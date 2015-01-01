@@ -100,7 +100,7 @@
 
 5. számú melléklet a 28/2004. (XII. 25.) KvVM rendelethez[^8]
 
-## A befogadóba való közvetlen bevezetésre a hatóság által megállapítható egyedi határértékek szennyezőanyagok szerinti legkisebb és legnagyobb értékei
+A befogadóba való közvetlen bevezetésre a hatóság által megállapítható egyedi határértékek szennyezőanyagok szerinti legkisebb és legnagyobb értékei
 
 1. Koncentrációban, illetve a laboratóriumi gyakorlatban hagyományosan használatos mértékegységben megadott határértékek:
 

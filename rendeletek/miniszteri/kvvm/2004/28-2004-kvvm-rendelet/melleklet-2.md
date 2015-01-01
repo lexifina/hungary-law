@@ -8,7 +8,7 @@
 
 | Szakágazat: | TEÁOR besorolás: |
 
-| Szennyvízelvezetés, -kezelés | 90.01 |
+| Szennyvíz gyűjtése, kezelése | 3700 |
 
 ## Ezen rész előírásai a 38/1995. (IV. 5.) Korm.rendelet 2. § 27. pontja szerinti szennyvíztisztító telep, illetőleg a 2000 LE-nél kisebb szennyvízelvezetési agglomerációk esetén a természet közeli szennyvíztisztítás[^*,] a kis szennyvíztisztító telepen végzett, illetve egyedi szennyvíztisztító kisberendezéssel végzett szennyvíztisztítás után kibocsátott tisztított szennyvíz minőségére vonatkoznak.
 
@@ -39,6 +39,8 @@
 ## 3. Természetközeli szennyvíztisztítás esetén a technológiai határértékek csak az V. 1. és XI. 15. közötti időszakban vonatkoznak a szennyvíztisztító telepről távozó szennyvízre. A XI. 15. és V. 1. közötti időszakban, új létesítmények esetén, a hatóság a befogadó védelme érdekében előírhatja a keletkező szennyvizek tározóban történő gyűjtését, megtilthatja a befogadóba való vezetését.
 
 ## 4. A kibocsátott tisztított szennyvízre vonatkozó követelmények a befogadóba történő bevezetés előtti helyen:
+
+## 4K25227N_1
 
 | Kiépített terhelési kapacitás [Leé] | Szennyező komponensek határértékei(1) koncentrációban (mg/l) vagy minimális eltávolítási hatásfokban (%) megadva |
 
@@ -198,9 +200,9 @@
 
 | Szakágazat: | TEÁOR besorolás: |
 
-| Feketeszén tisztítása, osztályozása | 10.10 |
+| Feketeszén tisztítása, osztályozása | 0510 |
 
-| Barnaszén és lignit mosása | 10.20 |
+| Barnaszén és lignit mosása | 0520 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében kőszén előkészítésből származnak.
 
@@ -226,15 +228,15 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Építőkő, díszítőkő fejtése | 14.11 |
+| Építőkő, díszítőkő fejtése | 0811 |
 
-| Mészkő, gipsz, kréta bányászata | 14.12 |
+| Mészkő, gipsz, kréta bányászata | 0811 |
 
-| Kavics-, homokbányászat | 14.21 |
+| Kavics-, homok-, agyagbányászat | 0812 |
 
-| Máshová nem sorolt egyéb bányászat | 14.5 |
+| Egyéb bányászati szolgáltatás | 0990 |
 
-| Beton-, gipsz-, cementtermék-gyártás | 26.6 |
+| Egyéb beton-, gipsz-, cementtermék-gyártás | 2369 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak – beleértve a termelés által szennyezett csapadékvizet is –, melynek szennyező anyagai lényegében a következő tevékenységi körökből származnak:
 
@@ -306,11 +308,11 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Húsfeldolgozás, -tartósítás | 15.11 |
+| Húsfeldolgozás, -tartósítás | 1011 |
 
-| Baromfihús-feldolgozás, -tartósítás | 15.12 |
+| Baromfihús-feldolgozása, -tartósítása | 1012 |
 
-| Hús-, baromfihús-készítmény gyártása | 15.13 |
+| Hús-, baromfihús-készítmény gyártása | 1013 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyaga lényegében a vágásból, húsfeldolgozásból, a bél kikészítésből, a túlnyomórészt húsalapú készételek előállításából származik.
 
@@ -350,7 +352,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Halfeldolgozás | 15.20 |
+| Halfeldolgozás, -tartósítás | 1020 |
 
 ## Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében halfeldolgozásból, továbbá házi halfeldolgozásból származnak, ha a szennyvíz KOIk terhelésének rendszerint több mint kétharmada halfeldolgozásból ered, és a BOI5 terhelés legalább 600 kg/nap.
 
@@ -386,7 +388,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Burgonyafeldolgozás | 15.31 |
+| Burgonyafeldolgozás, -tartósítás | 1031 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében emberi táplálkozás céljára végzett burgonyafeldolgozásból
 
@@ -426,9 +428,9 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Gyümölcs-, zöldséglégyártás | 15.32 |
+| Gyümölcs-, zöldséglé gyártása | 1032 |
 
-| Egyéb gyümölcs- és zöldségfeldolgozás | 15.33 |
+| Egyéb gyümölcs- és zöldségfeldolgozás, -tartósítás | 1039 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében gyümölcs és zöldség termékek gyártásából erednek, továbbá olyan készétel gyártásából, melynek tartalma túlnyomórészt gyümölcs és zöldség.
 
@@ -468,11 +470,11 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Nyersolaj gyártása | 15.41 |
+| Nyersolaj gyártása | 1041 |
 
-| Finomított olaj gyártása | 15.42 |
+| Finomított olaj gyártása | 1041 |
 
-| Margarin gyártása | 15.43 |
+| Margarin gyártása | 1042 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében olajos magvak előkészítéséből, étkezési zsír és étkezési olaj finomításából származnak.
 
@@ -516,9 +518,9 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Tejtermék gyártása | 15.51 |
+| Tejtermék gyártása | 1051 |
 
-| Jégkrém gyártása | 15.52 |
+| Jégkrém gyártása | 1052 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében tej- és tejtermékek begyűjtéséből, átfejtéséből, feldolgozásából erednek, és tejüzemekben, fejőházakban, sajtüzemekben és más ezekhez hasonló üzemekben keletkeznek.
 
@@ -558,9 +560,9 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Cukorgyártás | 15.83 |
+| Cukorgyártás | 1081 |
 
-| Keményítő- és izocukorgyártás | 15.62 |
+| Keményítő, keményítőtermék gyártása | 1062 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében a cukorrépából és cukornádból előállított szilárd és folyékony cukor és szörp, valamint a kukoricából előállított keményítő és izocukor gyártásából származnak.
 
@@ -604,9 +606,9 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Desztillált szeszes ital gyártása | 15.91 |
+| Desztillált szeszes ital gyártása | 1101 |
 
-| Etilalkohol gyártása | 15.92 |
+| Etilalkohol gyártása | 1101 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai jogszabályban megengedett alapanyagból történő alkohol előállításból, feldolgozásból és kiszerelésből származnak, továbbá alkoholtartalmú italok előállításából, feldolgozásából és kiszereléséből.
 
@@ -648,7 +650,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Sörgyártás | 15.96 |
+| Sörgyártás | 1105 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében a sörgyártásból származnak. A sörgyár saját szükségletét kielégítő, integrált malátaüzem szennyvizére is vonatkozik.
 
@@ -688,7 +690,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Malátagyártás | 15.97 |
+| Malátagyártás | 1106 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében gabonán alapuló malátakészítésből származnak.
 
@@ -718,7 +720,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Üdítőital-gyártás | 15.98 |
+| Üdítőital, ásványvíz gyártás | 1107 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében üdítőitalok, csomagolt víz előállításából, a természetes ásványvizek, forrásvizek, gyógyvizek kitermeléséből és palackozásából, továbbá mindenféle üdítőital palackozásából származnak, amennyiben a palackozás szennyvizét nem keverték össze az italok alapanyagainak, az üdítőitalok esszenciáinak gyártási szennyvizével.
 
@@ -752,7 +754,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Gyapjúfonás | 17.12 |
+| Gyapjúfonás | 1310 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai főleg nyersgyapjú mosásból és karbonizálásból, továbbá a fésűsgyapjú szál filceltávolításából és kikészítéséből erednek.
 
@@ -818,7 +820,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Textilkikészítés | 17.30 |
+| Textilkikészítés | 1330 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében fonott és szövött anyagok kezeléséből, feldolgozásából, továbbá textilkikészítésből erednek.
 
@@ -866,11 +868,11 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Nyersbőr, tímáripari bőr, gyapjú gyártása | 15.11 |
+| Nyersbőr, tímáripari bőr, gyapjú gyártása | 1411 |
 
-| Szőrmekikészítés, szőrme cikk gyártása | 18.30 |
+| Szőrmecikk gyártása | 1420 |
 
-| Bőrkikészítés | 19.10 |
+| Bőr kikészítés | 1511 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében bőrkikészítésből, prémkikészítésből, bőrrost-anyag előállításból, továbbá bőr és nyersbőr konzerválásából származnak.
 
@@ -936,7 +938,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Papíripari rostanyag gyártása | 21.11 |
+| Papíripari rostanyag gyártása | 1711 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízkibocsátásra vonatkoznak, melynek szennyező anyagai lényegében a papíripari rostos féltermékek gyártásának a következő csoportjaiból származnak:
 
@@ -980,7 +982,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Papírgyártás | 21.12 |
+| Papírgyártás | 1712 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében a papír- és kartongyártás következő csoportjaiból származnak:
 
@@ -1038,7 +1040,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Koksz gyártás | 23.10 |
+| Kokszgyártás | 1910 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében a kőszén kokszolásából származnak.
 
@@ -1096,7 +1098,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Kőolaj-feldolgozás | 23.20 |
+| Kőolaj-feldolgozás | 1920 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízkibocsátásra vonatkoznak, melynél a szennyvíz szennyezőanyag-terhelése lényegében ásványolaj (nyersolaj) vagy finomított olajtermékektől származik. Ide számítanak a részben, vagy kizárólag kenőolajat előállító finomítók is.
 
@@ -1156,7 +1158,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Színezék, pigment gyártása | 24.12 |
+| Színezék, pigment gyártása | 2012 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai főleg az alábbi szervetlen pigmentek gyártásából származnak:
 
@@ -1254,7 +1256,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Szervetlen vegyi alapanyag gyártása | 24.13 |
+| Szervetlen vegyi alapanyag gyártása | 2013 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai főleg alkáli-klorid elektrolízisből származnak.
 
@@ -1326,7 +1328,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Szénhidrogének gyártása | 24.14 |
+| Szénhidrogének gyártása | 2014 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében a szénhidrogének gyártásának alábbi területeiből származnak:
 
@@ -1390,7 +1392,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Műtrágya nitrogénvegyület gyártása | 24.15 |
+| Műtrágya nitrogénvegyület gyártása | 2015 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyezőanyag-terhelése főleg ásványi műtrágyák gyártásából származik.
 
@@ -1444,19 +1446,19 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Szerves vegyi alapanyagok gyártása | 24.14 |
+| Szerves vegyi alapanyag gyártása | 2014 |
 
-| Műanyag alapanyag gyártása | 24.16 |
+| Műanyag alapanyag gyártása | 2016 |
 
-| Mezőgazdasági vegyitermék gyártása | 24.20 |
+| Mezőgazdasági vegyitermék gyártása | 2020 |
 
-| Festék bevonóanyag gyártása | 24.30 |
+| Festék bevonóanyag gyártása | 2030 |
 
-| Gyógyszeralapanyag gyártása | 24.41 |
+| Gyógyszeralapanyag gyártása | 2110 |
 
-| Gyógyszerkészítmények gyártása | 24.42 |
+| Gyógyszerkészítmények gyártása | 2120 |
 
-| Tisztítószer, testápolócikk gyártása | 24.5 |
+| Tisztítószer gyártása | 2041 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében kémiai, biokémiai vagy fizikai eljárással történő anyagok előállítása során keletkeznek, beleértve a hozzá tartozó elő-, közbenső- és utókezelő technológiákat is.
 
@@ -1562,7 +1564,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Ragasztószer gyártás | 24.62 |
+| Ragasztószer gyártás | 2052 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai állatvágási melléktermékek és a bőrfeldolgozási hulladékok feldolgozása, bőrenyv, zselatin vagy csontenyv előállítása során keletkeznek.
 
@@ -1600,7 +1602,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Vegyi szál gyártása | 24.70 |
+| Vegyi szál gyártása | 2060 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében a következő gyártási eljárások valamelyikéből származnak, beleértve a hozzá tartozó előkészítő technológiai fázisokat is.
 
@@ -1692,7 +1694,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Üveg, üvegtermék gyártása | 26.1 |
+| Üveg, üvegtermék gyártása | 2319 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében üveg és mesterséges ásványi rostok gyártásából és feldolgozásából származnak.
 
@@ -1800,21 +1802,21 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Háztartási kerámia gyártása | 26.21 |
+| Háztartási kerámia gyártása | 2341 |
 
-| Egészségügyi kerámia gyártása | 26.22 |
+| Egészségügyi kerámia gyártása | 2342 |
 
-| Kerámiaszigetelők gyártása | 26.23 |
+| Kerámiaszigetelő gyártása | 2343 |
 
-| Műszaki kerámia gyártása | 26.24 |
+| Műszaki kerámia gyártása | 2344 |
 
-| Egyéb kerámiatermék gyártása | 26.25 |
+| Egyéb kerámiatermék gyártása | 2349 |
 
-| Tűzálló kerémiatermék gyártása | 26.26 |
+| Tűzálló termék gyártása | 2320 |
 
-| Kerámiacsempe, -lap gyártása | 26.30 |
+| Kerámiacsempe, -lap gyártása | 2331 |
 
-| Égetett agyag építőanyag gyártása | 26.40 |
+| Égetett agyag építőanyag gyártása | 2332 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyezőanyagai főleg kerámiatermékek előállításából származnak.
 
@@ -1868,11 +1870,9 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Vas, acél, vasötvözet-alapanyag gyártása | 27.1 |
+| Vas, acél, vasötvözet-alapanyag gyártása | 2410 |
 
-| Csőgyártás | 27.2 |
-
-| Vas, acél egyéb feldolgozása | 27.3 |
+| Csőgyártás | 2420 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében az alábbi gyártási technológiákból származnak:
 
@@ -2018,9 +2018,9 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Vasöntés | 27.51 |
+| Vasöntés | 2451 |
 
-| Acélöntés | 27.52 |
+| Acélöntés | 2452 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai a vas-, acél- és temperöntés alábbiakban felsorolt területének valamelyikéből származnak:
 
@@ -2112,15 +2112,17 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Alumíniumgyártás | 27.42 |
+| Alumíniumgyártás | 2442 |
 
-| Ólom, cink gyártása | 27.43 |
+| Ólom, cink ón gyártása | 2443 |
 
-| Réz gyártása | 27.44 |
+| Réz gyártása | 2444 |
 
-| Egyéb nem vas fém gyártása | 27.45 |
+| Egyéb nem vas fém gyártása | 2445 |
 
-| Könnyűfém öntés és egyéb nem vas fém öntés | 27.53 és 27.54 |
+| Könnyűfémöntés | 2453 |
+
+| Egyéb nem vas fém öntés | 2454 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai döntően ólom, réz, cink, alumínium előállításából és keletkező melléktermékeiből, továbbá félkész anyagaik gyártásából származnak.
 
@@ -2244,9 +2246,9 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Fém felület kezelése | 28.51 |
+| Fémfelület kezelése | 2561 |
 
-| Fémmegmunkálás | 28.52 |
+| Fémmegmunkálás | 2562 |
 
 ## (1) Ezen fejezet olyan szennyvizekre vonatkozik, amelyek szennyező anyagai a következő technológiákból származnak, beleértve a hozzájuk tartozó elő-, közbenső- és utókezeléseket is:
 
@@ -2412,15 +2414,15 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Melegvízellátás | 40.30 |
+| Melegvízellátás | 3530 |
 
-| Uszodai szennyvízkezelés | 90.01 |
+| Uszodai szennyvízkezelés | 3700 |
 
-| Uszoda működtetése | 92.61 |
+| Uszoda működtetése | 9311 |
 
-| Strandszolgáltatás | 92.72 |
+| Strandszolgáltatás | 9329 |
 
-| Gyógyfürdő | 93.04 |
+| Gyógyfürdő | 9604 |
 
 ## Ezen fejezet előírásai olyan szennyvízre vonatkoznak, amelyek szennyező anyagai lényegében a termálvíz hasznosítás alábbi területeiről származnak:
 
@@ -2470,7 +2472,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Hulladék ártalmatlanítása | 90.02 |
+| Hulladék ártalmatlanítása | 3821 |
 
 ## Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai a külön jogszabály szerinti hulladéklerakó telepen való hulladéklerakásból keletkezik.
 
@@ -2662,7 +2664,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Elhullott állatok és állati hulladékok ártalmatlanítása | 90.02 |
+| Elhullott állatok és állati hulladékok ártalmatlanítása | 3822 |
 
 ## (1) Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyező anyagai lényegében állati testek, testrészek, vágóhídi hulladékok (állati hulladékok) összegyűjtéséből, átrakásából, tárolásából és feldolgozásából származnak. Az állati hulladék ártalmatlanító és hasznosító üzemek az állat-egészségügyi jogszabályok szerint működhetnek.
 
@@ -2706,7 +2708,7 @@
 
 | Szakágazat: | TEÁOR besorolás |
 
-| Szennyeződés mentesítés | 90.03 |
+| Szennyeződésmentesítés, egyéb hulladékkezelés | 3900 |
 
 ## Ezen fejezet előírásai olyan szennyvízre vonatkoznak, melynek szennyezőanyag-terhelése lényegében ásványolajjal, illetve származékaival szennyezett területek kármentesítése során keletkezik.
 
@@ -2726,7 +2728,7 @@
 
 2. számú melléklet a 28/2004. (XII. 25.) KvVM rendelethez[^6]
 
-## A szennyvizek befogadóba való közvetlen bevezetésére vonatkozó, vízminőségvédelmi területi kategóriák szerint meghatározott kibocsátási határértékek
+A szennyvizek befogadóba való közvetlen bevezetésére vonatkozó, vízminőségvédelmi területi kategóriák szerint meghatározott kibocsátási határértékek
 
 |  |  | Területi kategóriák |
 
