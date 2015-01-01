@@ -1,12 +1,12 @@
-16. § (1) A saját jogú ellenőrzés lefolytatására az OHÜ-vel munkaviszonyban álló személy, az ellenőrzésben közreműködésre – egyedi meghatalmazás alapján – az OHÜ-vel szerződéses jogviszonyban álló személy jogosult. A közreműködő önálló ellenőrzési cselekményt nem végezhet.
+16. § (1)[^54] A saját jogú ellenőrzés lefolytatására az állami hulladékgazdálkodást közvetítő szervezettel munkaviszonyban álló személy, az ellenőrzésben közreműködésre – egyedi meghatalmazás alapján – az állami hulladékgazdálkodást közvetítő szervezettel szerződéses jogviszonyban álló személy jogosult. A közreműködő önálló ellenőrzési cselekményt nem végezhet.
 
-(2) Az OHÜ a saját jogú ellenőrzéshez – az egyedi megállapodásban meghatározottak szerint – kérheti hatóság, illetve szakértő közreműködését.
+(2)[^55] Az állami hulladékgazdálkodást közvetítő szervezet a saját jogú ellenőrzéshez – az egyedi megállapodásban meghatározottak szerint – kérheti hatóság, illetve szakértő közreműködését.
 
-(3) Az OHÜ saját jogú ellenőrzésére való jogosultságot az (1) bekezdés szerinti ellenőrzést végző személyazonosításra alkalmas okmánnyal és megbízólevéllel, a közreműködő pedig személyazonosításra alkalmas okmánnyal és az egyedi megbízólevéllel igazolja.
+(3)[^56] Az állami hulladékgazdálkodást közvetítő szervezet saját jogú ellenőrzésére való jogosultságot az (1) bekezdés szerinti ellenőrzést végző személyazonosításra alkalmas okmánnyal és megbízólevéllel, a közreműködő pedig személyazonosításra alkalmas okmánnyal és az egyedi megbízólevéllel igazolja.
 
 (4) A megbízólevél legalább az alábbi adatokat tartalmazza:
 
-a) az OHÜ megnevezését, az ellenőrzés elrendelésére jogosult aláírását, valamint az OHÜ adatait, bélyegzőlenyomatát,
+a)[^57] az állami hulladékgazdálkodást közvetítő szervezet megnevezését, az ellenőrzés elrendelésére jogosult aláírását, valamint az állami hulladékközvetítő szervezet adatait, bélyegzőlenyomatát,
 
 b) az ellenőrzött szervezet megnevezését, székhelyét, adóazonosító számát,
 
@@ -19,3 +19,8 @@ e) a megbízólevél általános jellegét,
 f) a megbízólevél érvényességi idejét,
 
 g) a megbízólevél keltét.
+
+[^54]: A 16. § (1) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^55]: A 16. § (2) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^56]: A 16. § (3) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^57]: A 16. § (4) bekezdés a) pontja a 368/2014. (XII. 30.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.

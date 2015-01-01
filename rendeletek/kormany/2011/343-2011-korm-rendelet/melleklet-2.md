@@ -24,11 +24,11 @@
 
 | E | Csomagolóeszköz vagy csomagolóeszközként is felhasználható termék |
 
-| B | Az eladótérben megtöltésre tervezett, szánt, felhasználásra kerülő (eladótéri) műanyag zsák, zacskó |
+| B | Az eladótérben megtöltésre tervezett, megtöltésre szánt, felhasználásra kerülő (eladótéri) műanyag zsák, zacskó |
 
-| K | Kereskedelmi csomagolóeszköz – a műanyag bevásárló reklámtáska kivételével |
+| K | Kereskedelmi csomagolószer |
 
-| M | Kereskedelmi csomagolóeszköz – műanyag bevásárló reklámtáska |
+| M | Műanyag bevásárló reklámtáska |
 
 | A | Csomagolóanyag vagy csomagolóanyagként is felhasználható termék |
 
@@ -176,7 +176,7 @@
 
 | 19 | a termékdíj-kötelezettséget a Ktdt. 14. § (5) bekezdés c) pontja szerinti termelői szerveződés szerződéssel átvállalta |
 
-| 1R | a termékdíj nem kerül megfizetésre a termékdíj raktár engedélyes vevő nyilatkozata alapján |
+| 1R | a termékdíj nem kerül megfizetésre a termékdíj raktárba beszállító vevő nyilatkozata alapján |
 
 | 20 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés d) pontja alapján szerződéssel átvállalta |
 
@@ -210,6 +210,10 @@
 
 | 2V | a csomagolószer termékdíja ipari termékdíj raktárba történő beszállítása alapján visszaigénylésre kerül |
 
+| 1E | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés e) pontja szerint adott nyilatkozata alapján |
+
+| 1F | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés f) pontja szerint adott nyilatkozata alapján |
+
 | Külföldről behozott csomagolószer |
 
 | 30 | teljes díjtétel, a Ktdt. 2. melléklete alapján (kollektív teljesítés) |
@@ -238,7 +242,7 @@
 
 | 39 | a termékdíj-kötelezettséget a Ktdt. 14. § (5) bekezdés c) pontja szerinti termelői szerveződés szerződéssel átvállalta |
 
-| 3R | a termékdíj nem kerül megfizetésre a termékdíj raktár engedélyes vevő nyilatkozata alapján |
+| 3R | a termékdíj nem kerül megfizetésre a termékdíj raktárba beszállító vevő nyilatkozata alapján |
 
 | 40 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés d) pontja alapján szerződéssel átvállalta |
 
@@ -270,6 +274,10 @@
 
 | 4V | a csomagolószer termékdíja ipari termékdíj raktárba történő beszállítás alapján visszaigénylésre kerül |
 
+| 3E | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés e) pontja szerint adott nyilatkozata alapján |
+
+| 3F | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés f) pontja szerint adott nyilatkozata alapján |
+
 | Külföldről behozott csomagolás részét képező csomagolószer |
 
 | 50 | teljes díjtétel, a Ktdt. 2. melléklete alapján (kollektív teljesítés) |
@@ -284,7 +292,7 @@
 
 | 5A | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont ab) alpontja alapján szerződéssel átvállalta |
 
-| 5R | a termékdíj nem kerül megfizetésre a termékdíj raktár engedélyes vevő nyilatkozata alapján |
+| 5R | a termékdíj nem kerül megfizetésre a termékdíj raktárba beszállító vevő nyilatkozata alapján |
 
 | 55 | a termékdíj a Ktdt. 25. § (1) bekezdés a) pontja alapján visszaigénylésre kerül |
 
@@ -380,13 +388,19 @@
 
 | Reklámhordozó papírok | 900 |
 
-## 1.6. Termékdíjelőleg visszatérítés környezetvédelmi termékdíj kódjai
+## 1.6. Egyéb műanyagtermékek környezetvédelmi termékdíj kódjai
 
-| Megnevezése | KT kód |
+| Termék megnevezése | KT kód |
 
-| Termékdíjelőleg visszatérítés a Ktdt. 12/A. § (5) bekezdése alapján | V99 |
+| Műanyag művirág, levél- és gyümölcsutánzat és ezek részei; ezekből készült áru | 301 |
 
-## 1.7. A termékdíj visszaigénylése esetén alkalmazható környezetvédelmi termékdíj kódok
+## 1.7. Egyéb vegyipari termékek környezetvédelmi termékdíj kódjai
+
+| Termék megnevezése | KT kód |
+
+| Szappanok, szerves felületaktív anyagok, mosószerek | 701 |
+
+| Szépség- vagy testápoló készítmények | 702 |
 
 ## 1.7.1. Csomagolás környezetvédelmi termékdíj kódjai (ide nem értve a kereskedelmi csomagolást)
 
@@ -505,6 +519,40 @@
 | Termék megnevezése | KT kód |
 
 | Hűtőközeg | 809 |
+
+## 1.8. Irodai papírok környezetvédelmi termékdíj kódjai
+
+| Termék megnevezése | KT kód |
+
+| Irodai papír | 801 |
+
+## 1.9. A termékdíj visszaigénylés esetén alkalmazható környezetvédelmi termékdíj kódok
+
+## A 2010. és a 2011. évben alkalmazott kereskedelmi csomagolás környezetvédelmi termékdíj kódjai
+
+| Csomagolás típusa | KT kód |
+
+| Műanyag [kivéve műanyag (bevásárló-reklám) táska] | 4MA |
+
+| Műanyag (bevásárló-reklám) táska | 4MT |
+
+| Üveg | 4ÜV |
+
+| Társított csomagolás |  |
+
+| Rétegzett italcsomagolás | 4RI |
+
+| Egyéb | 4TE |
+
+| Fém (kivéve alumínium) | 4FM |
+
+| Alumínium | 4LU |
+
+| Egyéb anyagok | 4EG |
+
+| Gyűjtő kód újrahasználható csomagolás levonásához | 4ÚL |
+
+| Gyűjtő kód nem újrahasználható csomagolás a környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény 5/E. § (1) bekezdés szerinti levonásához | 4OC |
 
 ## 2. A KT kód 4-5. jegye:
 
@@ -628,6 +676,6 @@
 
 |  | 600 | – kenőolaj hulladéka |
 
-2. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^94]
+2. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^115]
 
-[^94]: A 2. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^115]: A 2. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
