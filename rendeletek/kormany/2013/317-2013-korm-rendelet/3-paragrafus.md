@@ -6,4 +6,6 @@ b) olyan felszerelésekkel és eszközökkel, amelyek a közszolgáltatás keret
 
 c) a közszolgáltatás ellátásához szükséges létszámú – és a vonatkozó jogszabályok előírásainak megfelelően képzett – szakemberrel;
 
-d) a hulladékgazdálkodási közszolgáltatási engedéllyel és az Országos Hulladékgazdálkodási Ügynökség (a továbbiakban: OHÜ) által kiállított minősítő okirattal.
+d)[^1] a hulladékgazdálkodási közszolgáltatási engedéllyel és a környezetvédelmi hatóság által kiállított minősítő okirattal.
+
+[^1]: A 3. § d) pontja a 368/2014. (XII. 30.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
