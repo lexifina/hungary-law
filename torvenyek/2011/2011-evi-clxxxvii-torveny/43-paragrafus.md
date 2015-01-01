@@ -14,7 +14,7 @@ ac) ab) alpontban meghatározottak fenntartásában működő intézmény, tová
 
 b) a Mezőgazdaság, a Kertészet és parképítés, valamint az Élelmiszeripar ágazatba tartozó gyakorlati képzést szervező őstermelő,
 
-c) az agrárpolitikáért felelős miniszter az általa fenntartott szakképző iskola tanulója tekintetében, amennyiben a tanuló a szakképző iskola termelői tevékenységet folytató saját tangazdaságában, tanüzemében – az 5. § (14) bekezdése szerinti szakképesítésre történő felkészítés keretében – vesz részt gyakorlati képzésen.
+c) az 5. § (14) bekezdése szerinti miniszter az általa fenntartott szakképző iskola tanulója tekintetében, amennyiben a tanuló a szakképző iskola termelői tevékenységet folytató saját tangazdaságában, tanüzemében – az 5. § (14) bekezdése szerinti szakképesítésre történő felkészítés keretében – vesz részt gyakorlati képzésen.
 
 (3) A nyilvántartást a tanuló gyakorlati képzését vállaló kérelmező telephelye szerinti területileg illetékes gazdasági kamara vezeti (a továbbiakban: nyilvántartást vezető szerv).
 

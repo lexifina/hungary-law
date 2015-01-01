@@ -22,7 +22,7 @@
 
 (12)–(13)
 
-(14) Az OKJ-ban meghatározott, agrárágazathoz tartozó szakképesítésben államilag támogatott iskolai rendszerű szakképzés kizárólag az agrárpolitikáért felelős miniszter által alapított és fenntartott szakképző iskolában, vagy nem állami fenntartó esetén – az agrárpolitikáért felelős miniszter egyetértésével kötött – szakképzési megállapodás alapján folyhat.
+(14) Az OKJ-ban meghatározott, agrárágazathoz tartozó szakképesítésben államilag támogatott iskolai rendszerű szakképzés kizárólag az agrárpolitikáért felelős miniszter, az élelmiszerlánc-felügyeletért felelős miniszter, az élelmiszeriparért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a földügyért felelős miniszter, a halgazdálkodásért felelős miniszter, az ingatlan-nyilvántartásért felelős miniszter, a környezetvédelemért felelős miniszter, a természetvédelemért felelős miniszter, a térképészetért felelős miniszter vagy a vadgazdálkodásért felelős miniszter által alapított és fenntartott szakképző iskolában folyhat.
 
 (15) A szakképző iskola (14) bekezdés szerinti fenntartója szakképzési feladatait egyetlen szakképző iskola fenntartásával látja el, kivéve, ha a szakképző iskolai tanulói létszám az adott fenntartó esetében meghaladja a tízezret. Ebben az esetben az állami fenntartó több szakképző iskola fenntartásával is elláthatja a szakképzési feladatokat úgy, hogy valamennyi szakképző iskola tanulói létszáma az ötezer főt meghaladja. A létszám számítására a (3) bekezdés rendelkezéseit kell alkalmazni.
 

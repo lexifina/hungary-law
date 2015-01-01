@@ -20,7 +20,7 @@ b) egy vagy több nem állami, nem önkormányzati fenntartó és az általa fen
 
 (8) A (3) bekezdés a) pontja szerinti azonos térségi integrált szakképző központ tagja lehet egy vagy több állami fenntartó és egy vagy több állami fenntartónak az 5. § (1)–(4) bekezdése szerint, a fővárosban és Pest megyében működő legalább kettő szakképző iskolája.
 
-(9) Az 5. § (1)–(3) bekezdése szerinti feltételek teljesítéséhez szükséges döntést a szakképző iskola fenntartója 2015. május 31-ig hozza meg azzal, hogy a döntés alapján a szakképző iskola legkésőbb 2015. szeptember 1-jétől kizárólag az 5. § (1)–(3) bekezdése szerint működhet.
+(9) Az 5. § (1)–(3) bekezdése szerinti feltételek teljesítéséhez szükséges döntést a szakképző iskola fenntartója 2015. július 31-éig hozza meg azzal, hogy a döntés alapján a szakképző iskola legkésőbb 2015. szeptember 1-jétől kizárólag az 5. § (1)–(3) bekezdése szerint működhet.
 
 (10) Az e törvény hatálybalépése előtti napot megelőzően az Szt. 2. § (5)–(6) bekezdése szerint megalakult térségi integrált szakképző központ 2013. augusztus 31-ig az Szt. e törvény hatálybalépése előtti napon hatályos 2. § (5)–(6) bekezdése és a Kt. e törvény hatálybalépése napján hatályos 89/B. §-a szerint működhet tovább, de 2013. szeptember 1-jét követően csak abban az esetben minősül térségi integrált szakképző központnak,
 
