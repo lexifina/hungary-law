@@ -1,1 +1,0 @@
-## 10. § A fogvatartott jogosult az e rendelet mellékletében felsorolt tárgyakat magánál tartani. Ha e tárgyakkal rendkívüli eseménynek minősülő cselekményt (20. §) követ el, vagy kísérel meg, akkor ezeket a további fogvatartás során letétként kell kezelni, és használatra kiadni kizárólag felügyelet mellett lehet.
