@@ -128,6 +128,8 @@
 
 3. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1998. március hó 19. napjától kell alkalmazni.
 
-(2) E rendelet végrehajtásáról az Országos Műszaki Fejlesztési Bizottság (OMFB) gondoskodik.
+(2)[^1] E rendelet végrehajtásáról a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke gondoskodik.
 
 Budapest, 1998. február 26.
+
+[^1]: A 3. § (2) bekezdése a 381/2014. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.

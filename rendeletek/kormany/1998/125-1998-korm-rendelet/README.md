@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-125-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1998-07-04 | 1998-125-20-22.1 | 125/1998. (VI. 26.) Korm. rendelet |
+| 2015-01-01 | 1998-125-20-22.2 | 381/2014. (XII. 31.) Korm. rendelet |
