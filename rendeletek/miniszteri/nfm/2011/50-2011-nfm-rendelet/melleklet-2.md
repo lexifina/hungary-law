@@ -58,7 +58,7 @@
 
 | 27. | Debrecen | Debreceni Hőszolgáltató Zrt. | DotEnergo Energetikai és Épületgépészeti Zrt. | 6 412 | 3 606 |
 
-| 28. | Debrecen | E.ON Energiatermelő Kft. | Debreceni Hőszolgáltató Zrt. | 3 982 | 3 606 |
+| 28. | Debrecen | E.ON Energiatermelő Kft. | Debreceni Hőszolgáltató Zrt. | 3 982 | 3 697 |
 
 | 29. | Dorog | Dorogi Erőmű Kft. | PROMTÁVHŐ Szolgáltató Kft. | 14 190 | 2 727 |
 
@@ -118,7 +118,7 @@
 
 | 57. | Nagykőrös | Perkons Kft. | Kőrösi Vagyonkezelő Zrt. | 0 | 4 260 |
 
-| 58. | Nyíregyháza | E.ON Energiatermelő Kft. | NYÍRTÁVHŐ Nyíregyházi Távhőszolgáltató Kft. | 4 808 | 4 169 |
+| 58. | Nyíregyháza | E.ON Energiatermelő Kft. | NYÍRTÁVHŐ Nyíregyházi Távhőszolgáltató Kft. | 4 808 | 4 235 |
 
 | 59. | Oroszlány | Vértesi Erőmű Zrt. | Oroszlányi Szolgáltató Zrt. | 2 841 | 1 520 |
 
@@ -148,7 +148,7 @@
 
 | 72. | Sopron | Soproni Erőmű Kft. | Sopron Holding Zrt. | 4 432 | 5 090 |
 
-| 73. | Százhalombatta | Dunamenti Hőtermelő Kft. | „SZÁKOM” Kft. | 2 679 | 3 339 |
+| 73. | Százhalombatta | Dunai Hőtermelő Kft. | „SZÁKOM” Kft. | 2 679 | 3 339 |
 
 | 74. | Szeged | ALFA-NOVA Kft. – 6723 Szeged, Erős János u. 1. | Szegedi Hőszolgáltató Kft. | 0 | 4 311 |
 
@@ -187,6 +187,8 @@
 | 91. | Vasvár | Vasi Triász Kft. | RÉGIÓHŐ Regionális Hőszolgáltató Kft. | 0 | 2 486 |
 
 | 92. | Veszprém | Veszprém-Kogeneráció Energiatermelő Zrt. | „VKSZ” Veszprémi Közüzemi Szolgáltató Zrt. | 0 | 4 309 |
+
+| 93 | Miskolc | Kuala Kft. | Miskolci Hőszolgáltató Kft. | 0 | 2 450 |
 
 2. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^18]
 
