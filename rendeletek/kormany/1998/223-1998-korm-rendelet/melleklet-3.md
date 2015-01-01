@@ -58,9 +58,9 @@
 
 ## 3.1 a kérelmező magánnyugdíj-pénztári tagságára vonatkozó adat;
 
-## 3.2 nyilatkozat arról, hogy a kérelmező részesül-e táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban vagy egyéb rendszeres pénzellátásban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására;
+## 3.2[^187] nyilatkozat arról, hogy a kérelmező részesül-e táppénzben, terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban vagy egyéb rendszeres pénzellátásban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására;
 
-## 3.3 nyilatkozat arról, hogy a közös háztartásban élő másik szülő vagy más személy részesül-e terhességi-gyermekágyi segélyben, gyermekgondozási díjban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására; amennyiben igen, az ellátásban részesülő (kérelmező) neve, Társadalombiztosítási Azonosító Jele, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
+## 3.3[^188] nyilatkozat arról, hogy a közös háztartásban élő másik szülő vagy más személy részesül-e terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására; amennyiben igen, az ellátásban részesülő (kérelmező) neve, Társadalombiztosítási Azonosító Jele, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
 
 ## 3.4 nyilatkozat arról, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjban részesülő kérelmező a nyugdíjfolyósító szervhez benyújtott nyilatkozatban vállalta-e a gyermekgondozási segély összege után nyugdíjjárulék (tagdíj) fizetését;
 
@@ -74,6 +74,8 @@
 
 ## 3.9 a kérelmező vagy a törvényes képviselő aláíróhelye.
 
-3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^186]
+3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^189]
 
-[^186]: A 3. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § b) pontjával megállapított szöveg.
+[^187]: A 2. számú melléklet 3.2 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § c) pontja szerint módosított szöveg.
+[^188]: A 2. számú melléklet 3.3 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § c) pontja szerint módosított szöveg.
+[^189]: A 3. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § b) pontjával megállapított szöveg.

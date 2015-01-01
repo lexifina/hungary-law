@@ -34,7 +34,7 @@ bd) ha a gyermekgondozási segélyre jogosult nagyszülő a gyermek hároméves 
 
 be) ha a gyermekgondozási segélyre a Cst. 20/B. §-a alapján jogosult személy heti 30 órát meghaladó időtartamban folytat keresőtevékenységet,
 
-bf) ha az ellátásra jogosult a Cst. 27. § (1) bekezdés a) pontjában megjelölt rendszeres pénzellátás valamelyikében részesül, vagy ha házastársa, élettársa terhességi-gyermekágyi segélyben vagy gyermekgondozási díjban részesül,
+bf)[^21] ha az ellátásra jogosult a Cst. 27. § (1) bekezdés a) pontjában megjelölt rendszeres pénzellátás valamelyikében részesül, vagy ha házastársa, élettársa terhességi-gyermekágyi segélyben, csecsemőgondozási díjban vagy gyermekgondozási díjban részesül,
 
 bg) a gyermek napközbeni ellátását biztosító intézményben történő elhelyezését, ide nem értve a 22. § (1)–(4) bekezdésében megjelölt eseteket,
 
@@ -61,3 +61,4 @@ cb) a gyermek – méltányossági gyermekgondozási segély megállapítására
 [^18]: A 3. § a) pontja a 236/2010. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^19]: A 3. § b) pontja a 359/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^20]: A 3. § b) pont bc) alpontját az 509/2013. (XII. 29.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^21]: A 3. § b) pont bf) alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § a) pontja szerint módosított szöveg.

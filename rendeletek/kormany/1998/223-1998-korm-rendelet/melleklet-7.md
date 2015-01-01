@@ -20,9 +20,9 @@
 
 ## 1.3.4. vezetőjének neve;
 
-## 1.4.[^190]
+## 1.4.[^196]
 
-## 1.5.[^191]
+## 1.5.[^197]
 
 ## 1.6. a családi pótlék megállapításának kérelmezett kezdő időpontja;
 
@@ -46,8 +46,8 @@
 
 ## 2.3. a kérelmező aláíróhelye.
 
-7. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^192]
+7. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^198]
 
-[^190]: A 6. számú melléklet 1. pont 1.4. pontját a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés h) pontja hatályon kívül helyezte.
-[^191]: A 6. számú melléklet 1. pont 1.5. pontját a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés h) pontja hatályon kívül helyezte.
-[^192]: A 7. számú mellékletet a 21/2004. (II. 13.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, újból hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 18. § (2) bekezdés c) pontja.
+[^196]: A 6. számú melléklet 1. pont 1.4. pontját a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés h) pontja hatályon kívül helyezte.
+[^197]: A 6. számú melléklet 1. pont 1.5. pontját a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés h) pontja hatályon kívül helyezte.
+[^198]: A 7. számú mellékletet a 21/2004. (II. 13.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, újból hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 18. § (2) bekezdés c) pontja.
