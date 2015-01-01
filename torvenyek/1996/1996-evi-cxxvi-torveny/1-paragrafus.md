@@ -21,3 +21,5 @@ b) további egy százalékáról pedig a 4/A. §-ban
 meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 
 (5) A befizetett adó egy-egy százalékáról csak teljes egészében lehet rendelkezni.
+
+(6) Az adózó a rendelkező nyilatkozaton rendelkezhet úgy, hogy nevét és postai, illetve elektronikus levelezési címét a 4. § (1) bekezdése szerinti kedvezményezettel közöljék.

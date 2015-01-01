@@ -8,7 +8,7 @@ c) a rendelkező nyilatkozat nem tartalmaz adószámot, illetve technikai számo
 
 d) a rendelkező nyilatkozat vagy a boríték, illetve annak továbbítása nem felel meg az 5. § (1)–(5) bekezdésének,
 
-e) az arra kötelezett kedvezményezett a 4. § (1) bekezdése szerinti feltételek meglétét a 4. § (5) bekezdése szerinti eljárásban nem igazolja.
+e) az arra kötelezett kedvezményezett a 4. § (1) bekezdése szerinti feltételek meglétét a 4. § (6) bekezdése szerinti eljárásban nem igazolja.
 
 (2) Ha az adóhatóság megállapítja a rendelkező nyilatkozatban foglalt rendelkezésnek – a magánszemély saját érdekkörébe tartozó – érvénytelenségét, erről a magánszemélyt a rendelkező nyilatkozat évének november 30-áig elektronikus úton, ügyfélkapu hiányában postai úton értesíti. Ha az adóhatóság a rendelkező nyilatkozat évének november 30-áig nem állapítja meg a rendelkező magánszemély saját érdekkörébe tartozó érvénytelenségét, és az általa megjelölt kedvezményezett a 6/A. § (3) bekezdése alapján az adóhatóság honlapján közzétett tájékoztatóban szerepel, a rendelkezést teljesíti.
 

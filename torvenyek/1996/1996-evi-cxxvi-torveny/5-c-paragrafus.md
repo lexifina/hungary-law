@@ -12,7 +12,7 @@ a rendelkező nyilatkozatot tartalmazó boríték, illetve az adóbevallást, eg
 
 a) a rendelkező nyilatkozattal összefüggésben indított peres eljárás esetén annak befejezéséig az abban eljáró személynek, és
 
-b) a 2. § (1) bekezdésében meghatározott többlet kiutalásakor, a 2. § (3) bekezdésében, az 5/A. § (5) bekezdésében, valamint a 6/A. § (5) bekezdésében meghatározott eljárás során
+b) a 2. § (1) bekezdésében meghatározott többlet kiutalásakor, a 2. § (3) bekezdésében, 6/A. § (6) bekezdésében, az 5/A. § (5) bekezdésében, valamint a 6/A. § (5) bekezdésében meghatározott eljárás során
 
 engedélyezheti az egymástól az (1) és (2) bekezdés szerint elkülönített adatok kódjel alapján történő összekapcsolását.
 

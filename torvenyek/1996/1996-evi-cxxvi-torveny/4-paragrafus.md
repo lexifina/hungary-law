@@ -12,7 +12,7 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 
 b) a Magyar Tudományos Akadémia;
 
-c) az Országos Tudományos Kutatási Alapprogramok (OTKA);
+c)
 
 d) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 3. számú mellékletében szereplő országos közgyűjtemény és a következőkben felsorolt egyéb kulturális intézmény:
 
@@ -40,11 +40,11 @@ i) a Magyar Művészeti Akadémia.
 
 (2a)
 
-(3) Ha az (1) bekezdés szerinti kedvezményezett az (5) bekezdésben megjelölt határidőben nem igazolja a kedvezményezetti feltételek fennállását, nem jogosult a felajánlott összegre. Az utalás akkor teljesíthető, ha a kedvezményezett késedelmét igazolási kérelemmel kimenti, vagy kivételes méltányosságot érdemlő körülmények fennállása esetén. Kivételes méltányosságot érdemel különösen, ha a rendelkezett összeg átutalásának meghiúsulása a kedvezményezett alapvető céljának elérését súlyosan veszélyezteti. A kivételes méltányosság gyakorlása esetén a 6. § (1) bekezdése szerinti átutalást – legkésőbb a rendelkező nyilatkozat éve utolsó napját követő egy éven belül – az adóhatóság akkor teljesítheti, ha ezt megelőzően a kedvezményezett az (5) bekezdés szerinti igazolási kötelezettségének eleget tett.
+(3)
 
 (4) A jogutódlással megszűnt kedvezményezett javára felajánlott adóösszegek – a 4. § (1) bekezdésében előírt követelmények teljesítése esetén – a kedvezményezett jogutódját illetik meg. A jogutód nélkül megszűnt kedvezményezett javára felajánlott adóösszegek az (1) bekezdés h) pontja szerinti kedvezményezettet illetik meg.
 
-(5) Az adóhatóság a magánszemélyek saját érdekkörébe tartozóan érvényes rendelkező nyilatkozatai alapján minden év szeptember 1-éig felhívja az (1) bekezdés szerinti kedvezményezettet az (1) bekezdésben meghatározottak 30 napon belüli igazolására. A felhívást a kedvezményezett levelezési címére, ennek hiányában székhelyére kell megküldeni. A határidő elmulasztása esetén a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az igazolási kérelemre vonatkozó rendelkezéseit kell alkalmazni.
+(5)
 
 (6) A magánszemély rendelkező nyilatkozatában felajánlásra kerülő összegre igényt tartó szervezetnek az adóhatóságnál kell előzetesen – elektronikus úton – regisztrálnia és igazolnia a kedvezményezetté válás 4. § (1) bekezdésében foglalt feltételeit, valamint bejelenteni a kiutaláshoz szükséges adatokat. A regisztrációs kérelem benyújtásának határideje a rendelkező évet megelőző év szeptember 30-a, amely határidő jogvesztő. A szervezet a nyilvántartásba vételt követő évben válik kedvezményezetté, a regisztráció visszavonásig érvényes.
 
