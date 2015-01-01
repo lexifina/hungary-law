@@ -1,9 +1,7 @@
-5. §[^7] (1) A miniszter a Kötv. 61/E. § (2) bekezdése alapján – a használati terv 2. § (4) bekezdésében meghatározott közzétételétől számított 60 napon belül – támogatási szerződést köt a tulajdonossal, melynek célja a használati terv 3. § f) és g) pontjában foglaltak szerinti tartalmának megvalósítása.
+5. §[^8] (1) A miniszter az általa vezetett minisztérium (a továbbiakban: minisztérium) honlapján minden év január 15-éig közzéteszi a Kötv. 61/D. § (1) bekezdés d) pontja szerinti, a nemzeti emlékhelyek fenntartható használatát elősegítő tárgyévi támogatásokra rendelkezésre álló keretösszeget.
 
-(2) Amennyiben a nemzeti emlékhelynek több tulajdonosa van, az (1) bekezdés szerinti támogatási szerződést a tulajdonosok által maguk közül írásban kijelölt tulajdonossal (a továbbiakban: kijelölt tulajdonos) kell megkötni.
+(2) A Kötv. 61/D. § (1) bekezdés d) pontja alapján nyújtott támogatás (a továbbiakban: támogatás) a nemzeti emlékhelyek védelmével, megóvásával, fenntartásával, bemutatásával, fejlesztésével kapcsolatosan felmerülő működési vagy felhalmozási jellegű kiadások fedezetét biztosító, nem visszatérítendő támogatás.
 
-(3) Állami tulajdonban lévő ingatlan esetén a támogatási szerződést a vagyonkezelővel, ennek hiányában – a tulajdonosi jogkör gyakorlójának egyetértésével – a használatra jogosulttal kell megkötni.
+(3) A rendelet alapján kizárólag az Európai Bizottság SA. 34770 (2012/N-2) számú, a minisztérium költségvetési fejezetének fejezeti kezelésű előirányzataiból és a Nemzeti Kulturális Alapból nyújtott támogatás tárgyában hozott határozatával összhangban nyújtható támogatás.
 
-(4) Nem állami tulajdonban lévő ingatlan esetében – amennyiben bármelyik tulajdonos az ingatlanra vonatkozóan vagyonkezelői szerződést kötött –, a támogatási szerződés érvényességéhez szükséges a vagyonkezelő beleegyezése.
-
-[^7]: Az 5. § a 145/2013. (V. 14.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 5. § a 104/2014. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.

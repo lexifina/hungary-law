@@ -1,4 +1,4 @@
-## 3. §[^6] A használati terv a következő elemeket tartalmazza:
+## 3. §[^7] A használati terv a következő elemeket tartalmazza:
 
 a) a nemzeti emlékhely és a hozzá fűződő nemzeti érték ismertetése és annak bemutatása, hogy mely tényezők indokolták a nemzeti emlékhellyé nyilvánítást;
 
@@ -24,4 +24,4 @@ h) a nemzeti emlékhely fenntartható használata, fejlesztése és bemutatása 
 
 i) a rendkívüli eseményekkel kapcsolatban követendő, jogszabályban rögzített intézkedések és védelmi előírások ismertetése.
 
-[^6]: A 3. § a 104/2014. (III. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 3. § a 104/2014. (III. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
