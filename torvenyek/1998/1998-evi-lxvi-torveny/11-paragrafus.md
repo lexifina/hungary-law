@@ -2,6 +2,8 @@
 
 (2) A kifizetőt, valamint a magánszemélyt terhelő százalékos mértékű egészségügyi hozzájárulást a kifizető havonta állapítja meg, vonja le, a jövedelem kifizetését (juttatását) követő hónap 12. napjáig fizeti meg és az Art. 31. § (2) bekezdésében meghatározottak szerint vallja be az állami adóhatóságnak. Ha a jövedelem nem kifizetőtől származik vagy az egészségügyi hozzájárulás levonására nincs lehetőség, az egészségügyi hozzájárulást a magánszemély állapítja meg, fizeti meg és vallja be a (8) bekezdés rendelkezéseinek megfelelő alkalmazásával.
 
+(2a) A természetes személy a 3/B. §-ban meghatározott egészségügyi hozzájárulást a személyi jövedelemadóval egyidejűleg állapítja meg, vallja be és fizeti meg.
+
 (3) A magánszemély legkésőbb a kifizetés időpontjáig nyilatkozik a kifizetőnek arról, hogy a több kifizetőtől és/vagy magánszemélytől származó ingatlan bérbeadásból keletkező jövedelme a naptári évben meghaladja az egymillió forintot.
 
 (4) Az adóév során az ingatlan bérbeadásából származó jövedelem utáni egészségügyi hozzájárulást a kifizető, illetve a magánszemély előlegként az adóelőlegalap-számításnál figyelembe vett jövedelem alapulvételével állapítja meg.

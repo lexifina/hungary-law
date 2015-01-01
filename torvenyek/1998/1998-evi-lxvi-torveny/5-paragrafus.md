@@ -1,12 +1,12 @@
 5. § (1) Nem kell megfizetni a százalékos mértékű egészségügyi hozzájárulást a következő jogcímeken keletkező jövedelmek után:
 
-a) táppénz, baleseti táppénz, terhességi-gyermekágyi segély, gyermeknevelési támogatás, gyermekgondozási díj,
+a) táppénz, baleseti táppénz, csecsemőgondozási díj, gyermeknevelési támogatás, gyermekgondozási díj,
 
 b) a magánnyugdíjpénztár és az önkéntes kölcsönös biztosítópénztár által szolgáltatásként kifizetett összeg, a kedvezményezett részére az Mpt. 28. § (1) bekezdésének a) pontja alapján fizetett összeg, az önkéntes kölcsönös biztosítópénztár megszűnése esetén a tag részére teljesített adóköteles pénztári kifizetés, valamint a volt pénztártagnak a társadalombiztosítási nyugdíjrendszerbe történő visszalépése miatt visszafizetett magán-nyugdíjpénztári tagdíjkiegészítés,
 
 c) a kifizető által megállapított és folyósított társadalombiztosítási ellátás, valamint a szociális ellátásnak nem a kifizetőt terhelő összege,
 
-d)
+d) az egyes bányászati dolgozók társadalombiztosítási kedvezményeiről szóló kormányrendelet alapján nyújtott keresetkiegészítés.
 
 e) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 51/C. §-ában meghatározott szolgáltatás,
 
