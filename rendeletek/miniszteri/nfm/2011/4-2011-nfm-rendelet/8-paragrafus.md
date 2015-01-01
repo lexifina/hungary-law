@@ -4,7 +4,7 @@
 
 (2) A piaci alapú villamosenergia-beszerzés szolgáltatónkénti átlagos összehasonlító árát a (3)–(4) bekezdésekben foglaltaknak megfelelően – a 10. § (3) bekezdésében foglaltakra figyelemmel – kell meghatározni.
 
-(3)[^5] A piaci alapú villamosenergia-beszerzés tárgyévi országos összehasonlító ára 13,27 Ft/kWh.
+(3)[^5] A piaci alapú villamosenergia-beszerzés tárgyévi országos összehasonlító ára 14 Ft/kWh.
 
 (4) Az egyes egyetemes szolgáltatók piaci alapú villamosenergia-beszerzésének az egyetemes szolgáltatási ár képzésénél figyelembe vehető összehasonlító árát úgy kell számszerűsíteni, hogy a (3) bekezdés szerinti országos összehasonlító árat az egyes egyetemes szolgáltatók tárgyévben érvényesülő fajlagos piaci vásárlási költségeinek az egyetemes szolgáltatók összességének fajlagos, ugyanezen időszakra vonatkozó piaci vásárlási költségétől való eltérésével egyező mértékben kell korrigálni.
 
@@ -26,7 +26,7 @@ b) az egyetemes szolgáltatók által egyetemes szolgáltatás céljára vásár
 
 (10)–(11)[^8]
 
-[^5]: A 8. § (3) bekezdése a 83/2011. (XII. 29.) NFM rendelet 2. § (1) bekezdésével megállapított, a 37/2014. (VIII. 26.) NFM rendelet 1. §-a szerint módosított szöveg.
+[^5]: A 8. § (3) bekezdése a 83/2011. (XII. 29.) NFM rendelet 2. § (1) bekezdésével megállapított, az 52/2014. (XII. 13.) NFM rendelet 9. §-a szerint módosított szöveg.
 [^6]: A 8. § (8) bekezdését a 64/2013. (X. 30.) NFM rendelet 13. §-a hatályon kívül helyezte.
 [^7]: A 8. § (9) bekezdése a 83/2011. (XII. 29.) NFM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^8]: A 8. § (10)–(11) bekezdését a 64/2013. (X. 30.) NFM rendelet 13. §-a hatályon kívül helyezte.
