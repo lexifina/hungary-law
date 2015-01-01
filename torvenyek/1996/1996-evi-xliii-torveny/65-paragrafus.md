@@ -14,7 +14,7 @@ a) sporttal vagy ismeretterjesztéssel összefüggő munkavégzésre irányuló 
 
 b) gazdasági társaságban – munkavégzésre irányuló egyéb jogviszonynak nem minősülő – személyes közreműködési kötelezettséggel járó tagsági, felügyelő bizottsági tagsági vagy a gazdasági társaságban vezető tisztségviselői viszony létesítését, továbbá a gazdasági társaságban vagyonával közvetlenül érdekeltté válását, ide nem értve a nem meghatározó arányú részvényt és kisebbségi üzletrésztulajdont.
 
-(4) Nem kell engedélyeztetni a szolgálati időn kívül végzett tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenység folytatását.
+(4) Nem kell engedélyeztetni a szolgálati időn kívül végzett tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenység folytatását és a nevelőszülői foglalkoztatási jogviszony létesítését.
 
 (5) Nem adható engedély, ha a munkavégzéssel járó egyéb jogviszony, a civil szervezetben való részvétel vagy tisztségviselés ellentétes a fegyveres szerv feladataival, vagy a szolgálat kötelességszerű, pártatlan és befolyástól mentes ellátását, illetve a fegyveres szerv tekintélyét veszélyezteti.
 

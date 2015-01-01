@@ -26,6 +26,6 @@ b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztá
 
 (6) A (4) bekezdés szerinti időponttól az illetmény, valamint a szolgálati viszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatás tekintetében e törvény erejénél fogva az időarányosság elve alkalmazandó, ha az arra való jogosultság a szolgálatteljesítési idő mértékével összefügg. A hivatásos állomány rész-szolgálatteljesítési időben foglalkoztatott tagjára a 49. §, az 50. §, a 87. § és a 88. § nem alkalmazható.
 
-(7) Az (1) bekezdés szerinti kérelem alapján a rész-szolgálatteljesítési időt a fegyveres szerv a hivatásos állomány tagjának a kérelemben megjelölt időpontig, de legfeljebb a gyermek hároméves koráig engedélyezi. Ezt követően a hivatásos állomány tagjának szolgálatteljesítési idejét a 84. § szerint kell meghatározni, és az illetményét újra meg kell állapítani.
+(7) Az (1) bekezdés szerinti kérelem alapján a rész-szolgálatteljesítési időt a fegyveres szerv a hivatásos állomány tagjának a kérelemben megjelölt időpontig, de legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő a hivatásos állomány tag esetén a gyermek ötéves koráig engedélyezi. Ezt követően a hivatásos állomány tagjának szolgálatteljesítési idejét a 84. § szerint kell meghatározni, és az illetményét újra meg kell állapítani.
 
 (8) Vezető beosztás betöltésére rész-szolgálatteljesítési idő nem engedélyezhető.

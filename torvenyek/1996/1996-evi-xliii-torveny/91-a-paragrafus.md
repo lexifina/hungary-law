@@ -4,4 +4,4 @@
 
 (3) Az (1) bekezdés alkalmazása során apa alatt a szülői felügyeleti jogot gyakorló vér szerinti vagy örökbe fogadó apát kell érteni.
 
-(4) A pótszabadság tartamára járó távolléti díj kifizetése – a központi költségvetés terhére – kormányrendelet alapján történik.
+(4)
