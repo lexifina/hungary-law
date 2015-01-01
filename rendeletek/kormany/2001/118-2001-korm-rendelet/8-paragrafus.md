@@ -22,7 +22,7 @@ e)[^27] a kölcsönzési tevékenység belföldre vagy külföldre irányultság
 
 f)[^28] a nyilvántartásból való törlést, illetve a tevékenység folytatásától való eltiltást elrendelő határozat számát, keltét, a törlés, illetve eltiltás indokát.
 
-(6)[^29] A Nemzeti Munkaügyi Hivatal a magán-munkaközvetítőkről, valamint a kölcsönbeadókról nyilvánosan hozzáférhető nyilvántartást (a továbbiakban: országos nyilvántartás) vezet a honlapján az (5) bekezdésben meghatározott adattartalommal. A munkaügyi központ gondoskodik az illetékességi területén nyilvántartásba vett kölcsönbeadók és bejelentett magán-munkaközvetítők adatainak az országos nyilvántartásban való rögzítéséről.
+(6)[^29] A foglalkoztatáspolitikáért felelős miniszter a magán-munkaközvetítőkről, valamint a kölcsönbeadókról nyilvánosan hozzáférhető nyilvántartást (a továbbiakban: országos nyilvántartás) vezet a honlapján az (5) bekezdésben meghatározott adattartalommal. A munkaügyi központ gondoskodik az illetékességi területén nyilvántartásba vett kölcsönbeadók és bejelentett magán-munkaközvetítők adatainak az országos nyilvántartásban való rögzítéséről.
 
 (7)[^30]
 
@@ -32,5 +32,5 @@ f)[^28] a nyilvántartásból való törlést, illetve a tevékenység folytatá
 [^26]: A 8. § (5) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 232. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^27]: A 8. § (5) bekezdés e) pontja a 285/2009. (XII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^28]: A 8. § (5) bekezdés f) pontja a 285/2009. (XII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^29]: A 8. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 231. § (5) bekezdésével megállapított, a 324/2011. (XII. 28.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^29]: A 8. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 231. § (5) bekezdésével megállapított, a 318/2014. (XII. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^30]: A 8. § (7) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 233. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
