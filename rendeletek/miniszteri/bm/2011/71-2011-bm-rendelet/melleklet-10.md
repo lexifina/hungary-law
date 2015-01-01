@@ -1,3 +1,3 @@
-10. melléklet a 71/2011. (XII. 31.) BM rendelethez[^59]
+10. melléklet a 71/2011. (XII. 31.) BM rendelethez[^72]
 
-[^59]: A 10. melléklet a 35/2012. (VII. 13.) BM rendelet 13. § e) pontjával megállapított, a 27/2014. (III. 31.) BM rendelet 4. §-a és 6. § f) pontja szerint módosított szöveg.
+[^72]: A 10. melléklet a 66/2014. (XII. 16.) BM rendelet 22. §-ával megállapított szöveg.

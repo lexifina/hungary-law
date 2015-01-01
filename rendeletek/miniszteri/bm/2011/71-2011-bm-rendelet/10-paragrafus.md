@@ -1,4 +1,4 @@
-## 9. §[^9] Az egyenruházati normákat az 1. melléklet, a 4–6. melléklet, valamint a 10. melléklet tartalmazza.
+## 9. §[^13] Az egyenruházati normákat az 1. melléklet, a 4–6. melléklet, valamint a 10. melléklet tartalmazza.
 
 ## II. Fejezet
 
@@ -10,4 +10,4 @@
 
 (2) A ruházati szakszolgálat gazdálkodási körébe tartozó ruházati termékek és felszerelési cikkek felsorolását részletes ruházati cikkjegyzék tartalmazza.
 
-[^9]: A 9. § a 35/2012. (VII. 13.) BM rendelet 12. §-a szerint módosított szöveg.
+[^13]: A 9. § a 35/2012. (VII. 13.) BM rendelet 12. §-a szerint módosított szöveg.

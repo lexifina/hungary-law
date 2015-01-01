@@ -1,6 +1,6 @@
 ## 22. A szükségletek kielégítése, a járandóságok rendelkezésre bocsátása
 
-36. § (1)[^44] Az igényjogosultak akkor válnak a 29. § (1) bekezdésben meghatározott ellátásra jogosulttá, ha szerződés, kinevezés, áthelyezés vagy vezénylés folytán juttatásra jogosító munkakörbe lépnek.
+36. § (1)[^54] Az igényjogosultak akkor válnak a 29. § (1) bekezdésben meghatározott ellátásra jogosulttá, ha szerződés, kinevezés, áthelyezés vagy vezénylés folytán juttatásra jogosító munkakörbe lépnek.
 
 (2) Az igényjogosultak ellátását a szolgálati helyük szerint illetékes ruházati szakszolgálat a hatályos normák figyelembevételével, a ruházat természetbeni kiadása útján teljesíti.
 
@@ -12,4 +12,4 @@
 
 (6) A munkaruha kiadásakor az igényjogosulttal közölni kell a ruházat viselési idejét, illetve az utánpótlás időpontját, továbbá azt, hogy a munkaruházat mosatása, karbantartása az igényjogosult kötelessége. A ruházat a viselési idő lejártáig az önálló szerv, ezt követően a használó tulajdonát képezi.
 
-[^44]: A 36. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 31. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^54]: A 36. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 31. § (1) bekezdés e) pontja szerint módosított szöveg.

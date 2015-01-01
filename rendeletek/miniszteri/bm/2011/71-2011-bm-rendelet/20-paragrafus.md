@@ -4,9 +4,9 @@
 
 (2) Az alapellátási norma az új felszerelők első ellátásához szükséges ruházati termékek és felszerelési cikkek körét, valamint mennyiségét határozza meg. A normában előírt termékek és cikkek beszerzése minden igényjogosult részére kötelező.
 
-(3)[^23] Az igényjogosultak alapellátási normába való besorolása a szolgálati beosztás alapján történik. A ruházati normába történő besorolásról mindig az érvényes állománytáblázat alapján kell határozni. Eltérő beosztásban történő foglalkoztatás esetében a ruházati normába történő besorolásról az állományilletékes parancsnok határoz. A ruházati normába történő besorolásról, átsorolásról, átminősítésről az állományilletékes parancsnok állományparancsban intézkedik.
+(3)[^30] Az igényjogosultak alapellátási normába való besorolása a szolgálati beosztás alapján történik. A ruházati normába történő besorolásról mindig az érvényes állománytáblázat alapján kell határozni. Eltérő beosztásban történő foglalkoztatás esetében a ruházati normába történő besorolásról az állományilletékes parancsnok határoz. A ruházati normába történő besorolásról, átsorolásról, átminősítésről az állományilletékes parancsnok állományparancsban intézkedik.
 
-(4)[^24] Az alapellátást a kinevezési állományparancs alapján kell kiadni. Ettől eltérni csak az állományilletékes parancsnok írásbeli engedélye alapján lehet.
+(4)[^31] Az alapellátást a kinevezési állományparancs alapján kell kiadni. Ettől eltérni csak az állományilletékes parancsnok írásbeli engedélye alapján lehet.
 
 (5) Az alapellátásra való igényjogosultság kezdő időpontja az új kinevezés esetén az állományparancsban meghatározott időpont.
 
@@ -18,11 +18,11 @@ a) új felvétel esetén a hivatásos állományba kinevezett a (9) bekezdés fi
 
 b) az az áthelyezett, aki a fogadó szervnél rendszerben lévő egyik ruházati termékkel sem került előzőleg ellátásra.
 
-(8)[^25] Ha az új felszerelők a ruházati utalványfüzetben, vagy felszerelési lapon jóváírt forintösszeg felhasználásáról a ruházati szakszolgálat felé – az erre kijelölt időn belül a vásárlást, anyagkiadást bizonyító dokumentum bemutatásával – nem számolnak el, abban az esetben az el nem számolt összeg forintértékét túlellátásként kell számukra előjegyezni és azt az esedékessé váló ruházati utánpótlási ellátmányból le kell vonni.
+(8)[^32] Ha az új felszerelők a ruházati utalványfüzetben, vagy felszerelési lapon jóváírt forintösszeg felhasználásáról a ruházati szakszolgálat felé – az erre kijelölt időn belül a vásárlást, anyagkiadást bizonyító dokumentum bemutatásával – nem számolnak el, abban az esetben az el nem számolt összeg forintértékét túlellátásként kell számukra előjegyezni és azt az esedékessé váló ruházati utánpótlási ellátmányból le kell vonni.
 
-(9)[^26] A teljes alapellátásra igényjogosult egyen- és vegyes ruhás állomány, a terhelés időpontjától számított 12 hónapon belül csökkentett alapellátási normában részesül. Az alapellátás kiegészítést a 12 hónap letöltését követően kell biztosítani. Az ettől való eltérésre az önálló szerv vezetőjének írásos engedélye alapján kerülhet sor.
+(9)[^33] A teljes alapellátásra igényjogosult egyen- és vegyes ruhás állomány, a terhelés időpontjától számított 12 hónapon belül csökkentett alapellátási normában részesül. Az alapellátás kiegészítést a 12 hónap letöltését követően kell biztosítani. Az ettől való eltérésre az önálló szerv vezetőjének írásos engedélye alapján kerülhet sor.
 
-[^23]: A 20. § (3) bekezdése a 81/2012. (XII. 28.) BM rendelet 31. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^24]: A 20. § (4) bekezdése a 35/2012. (VII. 13.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^25]: A 20. § (8) bekezdése a 76/2013. (XII. 18.) BM rendelet 4. § d) pontja szerint módosított szöveg.
-[^26]: A 20. § (9) bekezdése a 35/2012. (VII. 13.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^30]: A 20. § (3) bekezdése a 81/2012. (XII. 28.) BM rendelet 31. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^31]: A 20. § (4) bekezdése a 35/2012. (VII. 13.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^32]: A 20. § (8) bekezdése a 76/2013. (XII. 18.) BM rendelet 4. § d) pontja szerint módosított szöveg.
+[^33]: A 20. § (9) bekezdése a 35/2012. (VII. 13.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.

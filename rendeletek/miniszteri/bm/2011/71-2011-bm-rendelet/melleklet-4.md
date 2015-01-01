@@ -1,3 +1,3 @@
-4. melléklet a 71/2011. (XII. 31.) BM rendelethez[^55]
+4. melléklet a 71/2011. (XII. 31.) BM rendelethez[^68]
 
-[^55]: A 4. melléklet a 35/2012. (VII. 13.) BM rendelet 13. § b) pontjával megállapított, a 76/2013. (XII. 18) BM rendelet 5. §-a, a 6. § (2) bekezdése, a 7. § b) pontja szerint módosított szöveg.
+[^68]: A 4. melléklet a 66/2014. (XII. 16.) BM rendelet 20. §-ával megállapított szöveg.

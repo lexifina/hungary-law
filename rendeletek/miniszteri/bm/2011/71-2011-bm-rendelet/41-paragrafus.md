@@ -1,4 +1,4 @@
-## 40. §[^45] A használatra – természetben vagy készpénzben – kiadott munkaruházatot, továbbá a természetben kiadott egyéni védőeszközt, vagy védőruházatot – mennyiségben és értékben – kell nyilvántartani. A nyilvántartás vezethető nyilvántartó lap, felszerelési lap, vagy elektronikus nyilvántartás alkalmazásával.
+## 40. §[^55] A használatra – természetben vagy készpénzben – kiadott munkaruházatot, továbbá a természetben kiadott egyéni védőeszközt, vagy védőruházatot – mennyiségben és értékben – kell nyilvántartani. A nyilvántartás vezethető nyilvántartó lap, felszerelési lap, vagy elektronikus nyilvántartás alkalmazásával.
 
 ## V. Fejezet
 
@@ -24,4 +24,4 @@
 
 (9) Az igényjogosult a ruházati utánpótlási ellátmányra, a hallgatói jogviszony megszűnését és a beosztásba történő kinevezést követő 13. hónap első napjától jogosult.
 
-[^45]: A 40. § a 76/2013. (XII. 18.) BM rendelet 3. §-ával megállapított szöveg.
+[^55]: A 40. § a 76/2013. (XII. 18.) BM rendelet 3. §-ával megállapított szöveg.

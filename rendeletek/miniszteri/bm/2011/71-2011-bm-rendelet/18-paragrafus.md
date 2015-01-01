@@ -1,6 +1,6 @@
-18. § (1) A ruházati alap- és utánpótlási ellátmány – készpénzben kifizetett részének – felhasználását igazoló számlával az igényjogosultnak tárgyév október 31-ig kell elszámolnia.
+18. § (1)[^23] A ruházati alap- és utánpótlási ellátmány – készpénzben kifizetett részének – felhasználását igazoló számlával az igényjogosultnak tárgyév november 15-ig kell elszámolnia.
 
-(2) Amennyiben az időarányos ruházati utánpótlási ellátmány kifizetésére tárgyév október 1. és december 1. között kerül sor, az igényjogosultnak a kifizetett összeggel 30 napon belül el kell számolnia. Az igényjogosult elhalálozása esetén a 27. § (5) bekezdése szerint kell eljárni.
+(2)[^24] Ha az időarányos ruházati utánpótlási ellátmány kifizetésére tárgyév november 1-je és december 1-je között kerül sor, az igényjogosultnak a kifizetett összeggel, a kifizetés napjától számított 30 napon belül el kell számolnia. Az igényjogosult elhalálozása esetén a 27. § (5) bekezdése szerint kell eljárni.
 
 (3) Amennyiben az igényjogosult részére történő kifizetés dátuma december hónapra esik, tájékoztatni kell az igényjogosultat a tárgyévben történő elszámolási kötelezettségéről.
 
@@ -13,3 +13,6 @@
 (7) Ha az igényjogosult a ruházati utánpótlási ellátmánnyal nem vagy csak részben számol el, a ruházati utánpótlási ellátmányt biztosító szervezeti egység a számla benyújtására nyitva álló határidő elteltét követő 30 napon belül értesíti az illetményt folyósító szervet az igényjogosultnak az elszámolás után fennálló adó- és járulékfizetési kötelezettségéről. Adó- és járulékfizetési kötelezettség fennmaradása esetén az illetményfolyósító szerv gondoskodik a megfizetendő adó és járulék következő havi illetményből történő levonásáról.
 
 (8) Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Szervezett Bűnözés Elleni Koordinációs Központ és a Nemzeti Védelmi Szolgálat hivatásos állományú tagjának, a ruházati ellátmány jogszerű felhasználását az igényjogosult nevére és címére kiállított számlával kell igazolnia.
+
+[^23]: A 18. § (1) bekezdése a 66/2014. (XII. 16.) BM rendelet 10. §-ával megállapított szöveg.
+[^24]: A 18. § (2) bekezdése a 66/2014. (XII. 16.) BM rendelet 10. §-ával megállapított szöveg.
