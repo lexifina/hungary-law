@@ -8,7 +8,7 @@
 
 6. § (1) Az NVI a választások hivatalos honlapján folyamatosan tájékoztatja a választópolgárokat a központi névjegyzékkel összefüggő kérelmekkel kapcsolatos tudnivalókról, és elérhetővé teszi a kérelemnyomtatványokat.
 
-(2)[^1]
+(2) A magyarországi lakcímmel rendelkező választópolgárok számára a választási iroda a szavazóköri névjegyzékbe vételről szóló értesítő megküldésével egyidejűleg eljuttatja a Ve. 85. § (1) bekezdésében foglalt kérelmek benyújtásával kapcsolatos tudnivalókról szóló tájékoztatót, továbbá a kérelemnyomtatvány egy példányát.
 
 (3) Az NVI – a külképviseleti választási iroda (a továbbiakban: KÜVI) közreműködésével – a külképviseleteken elhelyezett hirdetmények, szórólapok útján folyamatosan tájékoztatja a választópolgárokat a központi névjegyzékbe vétel iránti kérelem benyújtásával, valamint a választással kapcsolatos egyéb tudnivalókról, és elérhetővé teszi a kérelemnyomtatványokat.
 
@@ -25,5 +25,3 @@ a magyarországi lakcímmel nem rendelkező választópolgár részére átadja,
 (5) Az NVI – a KÜVI közreműködésével – a helyi médiaszolgáltatás útján is tájékoztathatja a magyarországi lakcímmel nem rendelkező választópolgárokat a központi névjegyzékbe vétel iránti kérelem benyújtásával kapcsolatos tudnivalókról.
 
 (6) Az NVI az Európai Parlament tagjai választásának évében január 31-ig a központi névjegyzékben szereplő valamennyi magyarországi lakcímmel rendelkező uniós állampolgárnak megküldi a Ve. 334. §-ában foglalt kérelem benyújtásával kapcsolatos tudnivalókat, valamint a kérelemnyomtatvány egy példányát.
-
-[^1]: A 6. § (2) bekezdése a 21. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
