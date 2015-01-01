@@ -20,6 +20,6 @@
 
 (9) A (7) és (8) bekezdés rendelkezéseit a lakásszövetkezet esetén is megfelelően alkalmazni kell.
 
-(9a) Az ingatlan közigazgatási címének közterület-név változás miatt történő átvezetése iránti megkeresés alapján indult eljárás díja közterületenként 2 600 forint.
+(9a)
 
 (10) Az ingatlan-nyilvántartási eljárásért fizetett díj a fővárosi, megyei kormányhivatalok saját bevételét képezi, amely az ingatlan-nyilvántartásért felelős miniszter által az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben kiadott rendeletben meghatározott számlaszámra fizetendő meg. Az ingatlan-nyilvántartási eljárásért fizetendő díjból származó bevétel 25%-át a fővárosi, megyei kormányhivatal irányítására kijelölt miniszter a földügyi szakigazgatással kapcsolatos bevételi különbségek fővárosi, megyei kormányhivatalok közötti kiegyenlítésére használhatja fel.
