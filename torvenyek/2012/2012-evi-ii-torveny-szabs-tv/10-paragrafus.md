@@ -2,7 +2,7 @@
 
 a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvényben meghatározott fogyatékos személy, illetve kórházi fekvőbeteg-ellátásban részesül,
 
-b) a várandósság negyedik hónapját elérő nő,
+b) a várandósság tizenkettedik hetét elérő nő,
 
 c) tizennegyedik életévét be nem töltött gyermekét egyedül nevelő szülő,
 

@@ -6,7 +6,7 @@
 
 250. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-a) kijelölje a szabálysértési elzárás végrehajtását foganatosító büntetés-végrehajtási intézeteket,
+a)
 
 b) kijelölje a szabálysértési nyilvántartási rendszer tekintetében az adatkezelői feladatokat ellátó szervet,
 
@@ -22,7 +22,7 @@ c) a szabálysértési nyilvántartó szerv által teljesített adatszolgáltat�
 
 d) az adópolitikáért felelős miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter, a közlekedésért felelős miniszter, a halgazdálkodásért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a természetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter egyetértésével a helyszíni bírságolás végrehajtásának, a helyszíni bírságolást igazoló nyomtatvány kialakításának,
 
-e) a büntetés-végrehajtásért felelős miniszter egyetértésével és a legfőbb ügyész véleményének kikérésével a szabálysértési elzárás végrehajtásának
+e)
 
 f) az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével a szabálysértési eljárásban elrendelt elővezetés végrehajtásával felmerült költség megtérítésének,
 

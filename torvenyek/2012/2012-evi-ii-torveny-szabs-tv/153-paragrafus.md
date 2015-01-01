@@ -54,7 +54,7 @@ c) a (2) bekezdés j) pontja esetén a szabálysértési szabályozásért felel
 
 d) a (2) bekezdés k) pontja esetén az engedélyező szerv,
 
-e) a (2) bekezdés l) pontja esetén a büntetés-végrehajtási intézet,
+e) a (2) bekezdés l) pontja esetén a büntetés-végrehajtási intézet, valamint a szabálysértési elzárás rendőrségi fogdán történő végrehajtása esetén az előkészítő eljárást lefolytató szerv,
 
 f) a (2) bekezdés o) pontja esetén az a szerv vagy személy, amelyik vagy aki a helyszíni bírságot kiszabta,
 

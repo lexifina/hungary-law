@@ -20,6 +20,8 @@ c) a fiatalkorúnak nincs törvényes képviselője, vagy nem állapítható meg
 
 (6) Ha az eljárás alapján a szabálysértési hatóság indokoltnak tartja, a fiatalkorú védelembe vételét kezdeményezheti az erre hatáskörrel rendelkező szervnél.
 
+(6a) Elzárással is sújtható szabálysértés elkövetése miatt eljárás alá vont fiatalkorú, vagy elzárással is sújtható szabálysértési tényállást megvalósított gyermekkorú esetében a szabálysértési hatóság a fiatalkorú, illetve gyermekkorú védelembe vételét kezdeményezi az erre hatáskörrel rendelkező szervnél.
+
 (7) Fiatalkorúval szemben a 102. § (1) bekezdése, valamint a 118. § (1) bekezdése szerinti eljárás alapján csak intézkedés alkalmazható.
 
 (8) A tizennegyedik életévét be nem töltött, valamint fiatalkorú személyt törvényes képviselőjének jelenlétében és csak akkor lehet szembesíteni, ha a szembesítés benne nem kelt félelmet.
