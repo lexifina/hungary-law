@@ -1,8 +1,6 @@
-7. melléklet a 306/2010. (XII. 23.) Korm. rendelethez
+7. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^18]
 
-A levegőtisztaság-védelmi éves jelentés adattartalma
-
-(LM lap)
+## A levegőtisztaság-védelmi éves jelentés adattartalma (LM lap)
 
 1. Az adatszolgáltató adatai
 
@@ -16,150 +14,204 @@ A levegőtisztaság-védelmi éves jelentés adattartalma
 
 1.5. Cím
 
-1.6. Adatszolgáltatásért felelős neve
+1.6. Adatszolgáltatásért felelős személy neve, elérhetőségei
 
-1.7. Statisztikai törzsszám
+2. Telephely adatai
 
-2. Technológia ellenőrző adatai
+2.1. KTJ
 
-2.1. Technológia üzemideje
+2.2. Megnevezés
 
-2.2. Anyag azonosító
+2.3. Település neve
 
-2.3. Megnevezés
+2.4. Cím
 
-2.4. Mennyiség
+2.5. Nyilatkozat a 26/2014. (III. 25.) VM rendelet szerinti telephelyi terheléskiegyenlítés alkalmazásáról
 
-3. Technológia ellenőrző adati folyamatos mérés esetére
+3. Technológia ellenőrző adatai
 
-3.1. Technológia üzemideje (üzemóra/hó)
+3.1. Technológia üzemideje (üzemóra/negyedév)
 
 3.2. Anyagazonosító
 
-3.3. Mennyiség
+3.3. Megnevezés
 
-4. Anyagfelhasználási és termelési adatlap
+3.4. Mennyiség
 
-4.1. Technológia azonosító
+3.5. Mértékegység
 
-4.2. Azonosító adat (tüzelőanyag lista, EWC-kód, VOC-lista, vagy nemzetközi besorolási lista)
+4. Technológia ellenőrző adatai folyamatos mérés esetére
 
-4.3. Megnevezés
+4.1. Technológia üzemideje (üzemóra/hónap)
 
-4.4. Mennyiség
+4.2. Anyagazonosító
 
-5. Tüzelőanyag felhasználási adatok
+4.3. Mennyiség
 
-5.1. Berendezés üzemideje
+4.4. Mértékegység
 
-5.2. Tüzelőanyag. kód
+5. Anyagfelhasználási és termelési adatok
 
-5.3. Tüzelőanyag megnevezés
+5.1. Technológia azonosítója
 
-5.4. Felhasznált mennyiség
+5.2. Azonosító adat (tüzelőanyag lista, EWC-kód, VOC-lista, vagy nemzetközi besorolási lista)
 
-5.5. Fűtőérték
+5.3. Megnevezés
 
-6. Tüzelőanyag felhasználás adatok folyamatos mérés esetén
+5.4. Mennyiség
 
-6.1. Berendezés üzemideje
+5.5. Mértékegység
 
-6.2. Tüzelőanyag megnevezése
+6. Tüzelőanyag felhasználás adatok
 
-6.3. Felhasznált mennyiség
+6.1. Berendezés üzemideje (üzemóra/negyedév)
 
-6.4. Fűtőérték
+6.2. Tüzelőanyag kód
 
-7. Tüzelőanyagok minőségi adatai
+6.3. Tüzelőanyag megnevezés
 
-7.1. Tüzelőanyag kód
+6.4. Felhasznált mennyiség
 
-7.2. Tüzelőanyag megnevezése
+6.5. Fűtőérték
 
-7.3. Karbon tartalom
+7. Tüzelőanyag felhasználás adatok folyamatos mérés esetén
 
-7.4. Éghető kén tartalom
+7.1. Berendezés üzemideje (üzemóra/hónap)
 
-7.5. Hamutartalom
+7.2. Tüzelőanyag kód
 
-7.6. Összes toxikus elem tartalom
+7.3. Tüzelőanyag megnevezés
 
-7.7. Összes halogén tartalom
+7.4. Felhasznált mennyiség
 
-8. Pontforrás üzemelési adatai
+7.5. Fűtőérték
 
-8.1. Forrás üzemideje (óra)
+8. Tüzelőanyagok minőségi adatai
 
-8.2. Füstgáz/véggáz átl. térfogatárama (Nm3/h)
+8.1. Tüzelőanyag kód
 
-8.3. Füstgáz/véggáz átl.
+8.2. Tüzelőanyag megnevezés
 
-O2 tartalma (térfogat%)
+8.3. Karbontartalom
 
-8.4. Füstgáz/véggáz átl.
+8.4. Éghető kén tartalom
 
-hőmérséklete (K)
+8.5. Hamutartalom
 
-9. Pontforrás kibocsátási adatlap
+8.6. Összes toxikus elem tartalom
 
-9.1. Szennyező anyag azonosító
+8.7. Összes halogén tartalom
 
-9.2. Megnevezés
+9. Pontforrás üzemeltetési adatai
 
-9.3. Átlagos koncentráció (mg/Nm3), (ng/Nm3), g/Nm3)
+9.1. Forrás üzemideje (óra)
 
-10. Diffúz forrás adatok
+9.2. Füstgáz/véggáz átlagos térfogatárama (m3/h)
 
-10.1. Szennyező anyag azonosító
+9.3. Füstgáz/véggáz átlagos O2 tartalma (térfogat%)
 
-10.2. Szennyező anyag megnevezése
+9.4. Füstgáz/véggáz átlagos hőmérséklete (K)
 
-10.3. Levegőterhelés időtartama (h/év)
+10. Pontforrás kibocsátási adatok
 
-10.4. Igénybe vett terület, vagy felület (m2)
+10.1. Szennyező anyag azonosítója
 
-11. VOC adatok
+10.2. Megnevezés
 
-11.1. Szennyező anyag azonosító
+10.3. Átlagos koncentráció (negyedévenként)
 
-11.2. Szennyező anyag megnevezése
+10.4. Mértékegység
 
-11.3. Az oldószerek folyamatba bevitt és folyamatból kilépő mennyiségei a 10/2001. (IV. 19.) KöM rendelet 3. melléklete alapján
+11. Pontforrás kibocsátási adatok folyamatos mérés esetén
 
-12. Leválasztott anyagok adatai
+11.1. Szennyező anyag azonosítója
 
-12.1. Szennyező anyag azonosító
+11.2. Megnevezés
 
-12.2. Szennyező anyag megnevezése
+11.3. Átlagos koncentráció (havonta)
 
-12.3. Leválasztott összes anyag mennyisége
+11.4. Mértékegység
 
-12.4. Telephelyen technológiába visszaforgatott anyag
+12. Diffúz forrás adatok
 
-12.5. Értékesített, vagy telephelyen kívül hasznosított anyag
+12.1. Szennyező anyag azonosítója
 
-12.6. Hulladékként lerakott, vagy másként ártalmatlanított anyag (telephelyen belül, illetve kívül)
+12.2. Szennyező anyag megnevezés
 
-13. Diffúz forrás (E-PRTR) adatok
+12.3. Levegőterhelés időtartama (h/év)
 
-13.1. Szennyező anyag azonosító,
+12.4. Igénybevett terület, vagy felület (m2)
 
-13.2. Szennyező anyag megnevezés
+13. Diffúz és pontforrás (E)PRTR adatok
 
-13.3. Kibocsátás (kg/év)
+13.1. Szennyező anyag azonosítója
 
-13.4. Az adatmeghatározás módja
+13.2. Szennyező anyag megnevezése
 
-13.5. Használt elemzési módszer
+13.3. Kibocsátás (kg/év, g/év)
 
-14. Rendkívüli szennyezés kibocsátási adatok (E-PRTR)
+13.4. Forrás azonosítója
 
-14.1. Szennyező anyag azonosító
+13.5. Adatmeghatározás módja
+
+13.6. Használt elemzési vagy számítási módszer
+
+14. Diffúz forrás (E)PRTR adatok állattartó telepek részére
+
+14.1. Szennyező anyag azonosítója
 
 14.2. Szennyező anyag megnevezés
 
-14.3. Kibocsátott mennyiség (kg)
+14.3. Állat azonosító kód
 
-14.4. Az adatmeghatározás módszere
+14.4. Állatok létszáma (db/turnus)
 
-14.5. Használt elemzési/számítási módszer
+14.5. Csökkentési faktor
+
+14.6. Kibocsátás (kg/év)
+
+14.7. Adatmeghatározás módja
+
+14.8. Használt elemzési vagy számítási módszer
+
+15. VOC adatok
+
+15.1. Szennyező anyag azonosítója
+
+15.2. Szennyező anyag megnevezés
+
+15.3. Az oldószerek folyamatba bevitt és folyamatból kilépő mennyiségei a 26/2014. (III. 25.) VM rendelet 5. melléklete alapján
+
+15.4. Mértékegység
+
+16. Leválasztott anyagok adatai
+
+16.1. Leválasztó berendezés üzemideje (üzemóra)
+
+16.2. Szennyező anyag azonosítója
+
+16.3. Szennyező anyag megnevezés
+
+16.4. Leválasztott összes anyag mennyisége
+
+16.5. Telephelyen technológiába visszaforgatott anyag mennyisége
+
+16.6. Értékesített, vagy telephelyen kívül hasznosított anyag mennyisége
+
+16.7. Hulladékként lerakott, vagy más módon ártalmatlanított anyag mennyisége (telephelyen belül, illetve kívül)
+
+17. Rendkívüli szennyezés kibocsátási adatok
+
+17.1. Szennyező anyag azonosítója
+
+17.2. Szennyező anyag megnevezés
+
+17.3. Kibocsátott mennyiség
+
+17.4. Mértékegység
+
+17.5. Adatmeghatározás módja
+
+17.6. Használt elemzési vagy számítási módszer
+
+[^18]: A 7. melléklet a 310/2014. (XII. 11.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.

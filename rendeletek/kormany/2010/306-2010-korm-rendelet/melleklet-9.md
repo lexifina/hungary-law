@@ -2,7 +2,7 @@
 
 ## a) a veszélyes hulladékégetésről szóló 94/67/EK tanácsi irányelv végrehajtásáról szóló tagállami jelentések alapjául szolgáló kérdőívről szóló, 1998. február 25-i 98/184/EK bizottsági határozat;
 
-## b)–c)[^16]
+## b)–c)[^20]
 
 ## d) a nagy tüzelőberendezésekből származó egyes szennyező anyagok levegőbe történő kibocsátásának korlátozásáról szóló, 2001. október 23-i 2001/80/EK európai parlamenti és tanácsi irányelv 4. cikk (1)–(3) és (6) bekezdése, valamint 15. és 16. cikke;
 
@@ -10,11 +10,11 @@
 
 ## f) a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a nyilvánosság részvételéről, valamint a nyilvánosság részvétele és az igazságszolgáltatáshoz való jog tekintetében a 85/337/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. május 26-i 2003/35/EK európai parlamenti és tanácsi irányelv 6. cikke;
 
-## g)[^17]
+## g)[^21]
 
 ## h) a környezeti levegőben található arzénről, kadmiumról, higanyról, nikkelről és policiklusos aromás szénhidrogénekről szóló, 2004. december 15-i 2004/107/EK európai parlamenti és tanácsi irányelv 4. cikk (14) bekezdése, valamint 5. cikk (1) és (2) bekezdése;
 
-## i)[^18]
+## i)[^22]
 
 ## j) a környezeti levegő minőségéről és a Tisztább levegőt Európának elnevezésű programról szóló, 2008. május 21-i 2008/50/EK európai parlamenti és tanácsi irányelv 6. cikk (5) bekezdése, 11. cikk (2) bekezdése, 19. cikke, 20. cikk (1) és (2) bekezdése, 21. cikk (2) és (3) bekezdése, 22. cikk (4) bekezdése, 23. cikk (1) bekezdése, valamint 27. cikke;
 
@@ -24,7 +24,7 @@
 
 ## m) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése és csökkentése) című, 2010. november 24-i 2010/75/EU európai parlamenti és tanácsi irányelv 30. cikk (5) és (6) bekezdése, 32. cikk (5) és (6) bekezdése, 33. cikk (2) bekezdése, 35. cikk (2) bekezdése, 51. cikk (4) bekezdése, 59. cikk (1) és (4) bekezdése, valamint 72. cikk (3) és (4) bekezdése.
 
-9. melléklet a 306/2010. (XII. 23.) Korm. rendelethez
+9. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^23]
 
 A levegővédelmi követelmények megsértéséhez kapcsolódó levegőtisztaság-védelmi bírságok mértéke
 
@@ -82,6 +82,9 @@ A levegővédelmi követelmények megsértéséhez kapcsolódó levegőtisztasá
 
 | 26. | Nem gazdasági tevékenység keretében végzett, lakosságot zavaró bűzhatást okozó tevékenység folytatása, technológia vagy berendezés üzemeltetése; | 50 000 Ft |
 
-[^16]: A 8. melléklet b)–c) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
-[^17]: A 8. melléklet g) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
-[^18]: A 8. melléklet i) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+| 27. | Az éves levegőtisztaság-védelmi jelentés kötelezettségének, vagy a levegőtisztaság-védelmi alapbejelentés változás-bejelentési kötelezettségének nem, vagy nem megfelelő teljesítése; | 300 000 Ft |
+
+[^20]: A 8. melléklet b)–c) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^21]: A 8. melléklet g) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+[^22]: A 8. melléklet i) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+[^23]: A 9. melléklet a 310/2014. (XII. 11.) Korm. rendelet 11. § (5) bekezdése szerint módosított szöveg.

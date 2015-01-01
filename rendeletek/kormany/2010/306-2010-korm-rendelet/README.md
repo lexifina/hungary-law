@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-306-20-
 | 2014-01-01 | 2010-306-20-22.6 | 378/2013. (X. 25.) Korm. rendelet |
 | 2014-01-07 | 2010-306-20-22.7 | 378/2013. (X. 25.) Korm. rendelet |
 | 2014-09-05 | 2010-306-20-22.8 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2015-01-01 | 2010-306-20-22.9 | 310/2014. (XII. 11.) Korm. rendelet |

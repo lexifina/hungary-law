@@ -6,4 +6,6 @@
 
 (3) A felügyelőség a légszennyező forrás levegőterhelését befolyásoló műszaki, technológiai sajátosságai miatt e §-ban előírtaktól eltérő tartalmú, illetve gyakoriságú jelentéstételt engedélyezhet.
 
-(4) Az adatszolgáltatásra köteles légszennyező forrás üzemeltetője a levegőtisztaság-védelmi alapbejelentésben bekövetkező változásokat a változás bekövetkezésétől számított 30 napon belül bejelenti a felügyelőség részére.
+(4)[^8] Az adatszolgáltatásra köteles légszennyező forrás üzemeltetője a levegőtisztaság-védelmi alapbejelentésben bekövetkező változásokat – beleértve a tevékenység megszűntetését is – a változás bekövetkezésétől számított 30 napon belül bejelenti a felügyelőség részére.
+
+[^8]: A 31. § (4) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
