@@ -1,4 +1,4 @@
-60/A. §[^341] (1) Az érettségi írásbeli feladatlapjait – amennyiben azokat az erre jogosult minősítő korlátozott terjesztésűvé minősítette – a minősítés érvényességi idejéig a korlátozott terjesztésű minősítésű adatok védelmére vonatkozó rendelkezések szerint kell kezelni.
+60/A. §[^335] (1) Az érettségi írásbeli feladatlapjait – amennyiben azokat az erre jogosult minősítő korlátozott terjesztésűvé minősítette – a minősítés érvényességi idejéig a korlátozott terjesztésű minősítésű adatok védelmére vonatkozó rendelkezések szerint kell kezelni.
 
 (2) A vizsgabizottságot működtető intézmény vezetője felel a minősített adatok védelmére vonatkozó rendelkezések megtartásáért az érettségi írásbeli feladatlapok tekintetében. A vizsgabizottságot működtető intézmény vezetője az intézmény iratkezelési szabályzatának részeként meghatározza a minősített adatok védelmével kapcsolatos intézményi feladatokat.
 
@@ -6,4 +6,4 @@
 
 (4) A vizsgabizottságot működtető intézmény igazgatójának biztosítania kell a Hivatal által működtetett elektronikus üzenetküldő rendszer folyamatos figyelemmel kísérését minden vizsgahelyszínen, minden vizsganapon. Az intézményben folyó írásbeli, gyakorlati érettségi vizsgák alkalmával a figyelemmel kísérést a vizsga kezdete előtt legalább 30 perccel meg kell kezdeni és az írásbeli, gyakorlati vizsgára a részletes vizsgakövetelményekben meghatározott időtartam letelte után 30 percig kell biztosítani. Az intézményben folyó szóbeli vizsgák időtartama alatt az elektronikus üzenetküldő rendszert legalább kétóránként kell megtekinteni (vagy ellenőrizni).
 
-[^341]: A 60/A. §-t a 233/2004. (VIII. 6.) Korm. rendelet 52. §-a hatályon kívül helyezte, újonnan a 256/2005. (XII. 7.) Korm. rendelet 25. §-a iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 40. § (15) bekezdésével megállapított szöveg.
+[^335]: A 60/A. §-t a 233/2004. (VIII. 6.) Korm. rendelet 52. §-a hatályon kívül helyezte, újonnan a 256/2005. (XII. 7.) Korm. rendelet 25. §-a iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 40. § (15) bekezdésével megállapított szöveg.

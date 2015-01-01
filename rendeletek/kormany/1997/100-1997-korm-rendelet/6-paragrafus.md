@@ -30,17 +30,9 @@ e)[^17] idegen nyelv, a nemzetiségi oktatásban résztvevők kivételével.
 
 a) a központi vizsgakövetelményekre épülő, a kötelező vizsgatárgyak közé nem tartozó vizsgatárgy, beleértve a második idegen nyelvet,
 
-b) a pedagógiai programban, helyi tantervben meghatározott követelményekre épülő és akkreditált vizsgatárgy (a továbbiakban: akkreditált vizsgatárgy).
+b)[^23]
 
-(10)[^23] Az akkreditált vizsgatárgy lehet
-
-a) a középiskola helyi tantervében található általános műveltséget megalapozó, érettségi vizsgára és felsőfokú tanulmányokra felkészítő ismeretekre épülő,
-
-b)[^24] a gimnázium helyi tantervében található munkába állást előkészítő, illetve segítő ismeretekre épülő,
-
-c) a szakközépiskolai helyi tanterv követelményeire vagy a szakmai tantárgy központi programjára (tantervére) épülő szakmai előkészítő,
-
-d) a fenntartó által készített tantervben lévő ismeretekre épülő
+(10)[^24]
 
 [^11]: A 6. §-t megelőző alcím a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének d) pontja szerint módosított szöveg.
 [^12]: A 6. § (1) bekezdése a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének c) pontja szerint módosított szöveg.
@@ -54,5 +46,5 @@ d) a fenntartó által készített tantervben lévő ismeretekre épülő
 [^20]: A 6. § eredeti (6) bekezdésének számozását a 111/2001. (VI. 22.) Korm. rendelet 2. §-a (7) bekezdésre változtatta, szövege a 106/2012. (VI. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^21]: A 6. § eredeti (7) bekezdésének számozását a 111/2001. (VI. 22.) Korm. rendelet 2. §-a (8) bekezdésre változtatta, hatályon kívül helyezte a 253/2006. (XII. 7.) Korm. rendelet 26. § (5) bekezdése.
 [^22]: A 6. § eredeti (8) bekezdésének számozását a 111/2001. (VI. 22.) Korm. rendelet 2. §-a (9) bekezdésre változtatta, szövege a 78/2002. (IV. 13.) Korm. rendelet 41. § (2) bekezdés b) pontja és a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének c) pontja szerint módosított szöveg.
-[^23]: A 6. § eredeti (9) bekezdésének számozása a 111/2001. (VI. 22.) Korm. rendelet 2. §-ában foglalt módosítás folytán (10) bekezdésre változott. A 6. § (10) bekezdése a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének c) pontja szerint módosított szöveg.
-[^24]: A 6. § (10) bekezdésének b) pontja a 233/2004. (VIII. 6.) Korm. rendelet 53. §-a szerint módosított szöveg.
+[^23]: A 6. § (9) bekezdés b) pontját a 106/2012. (VI. 1.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^24]: A 6. § eredeti (9) bekezdésének számozása a 111/2001. (VI. 22.) Korm. rendelet 2. §-ában foglalt módosítás folytán (10) bekezdésre változott. A 6. § (10) bekezdését a 106/2012 (VI. 1.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.

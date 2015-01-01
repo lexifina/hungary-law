@@ -1,4 +1,4 @@
-20. §[^139] (1)[^140] Az írásbeli vizsgán részt vevő vizsgázókat vizsgacsoportba kell beosztani. Minden vizsgacsoportot vizsgatárgyanként egytől kiindulva, folyamatosan, arab számok alkalmazásával meg kell jelölni.
+20. §[^133] (1)[^134] Az írásbeli vizsgán részt vevő vizsgázókat vizsgacsoportba kell beosztani. Minden vizsgacsoportot vizsgatárgyanként egytől kiindulva, folyamatosan, arab számok alkalmazásával meg kell jelölni.
 
 (2) Az írásbeli vizsgát olyan épületrészben kell megszervezni, amelynek felügyelete megfelelő módon biztosítható. Az írásbeli vizsga időtartama alatt a vizsgázók részére elkülönített épületrészbe a vizsgázókon és a vizsgabizottság elnökén, a felügyelő tanárokon, valamint az írásbeli vizsga ellenőrzésére érkező hivatalos szervek képviselőin kívül csak az igazgató engedélyével lehet belépni. Gyakorlati vizsga és technikai berendezés igénybevételével készített írásbeli vizsga esetében az elkülönített épületrészben – amennyiben ez a vizsga biztonságos lebonyolításának érdekében szükséges – az igazgató engedélyével jelen lehet olyan személy, aki a technikai feltételek folyamatos biztosításáért felelős.
 
@@ -10,7 +10,7 @@
 
 (6) A vizsgateremben és a folyosón gondoskodni kell az állandó felügyeletről. A felügyelő tanárok az igazgató által előre megállapított sorrendben, óránként váltják egymást. A felügyelő tanár feladata annak megakadályozása, hogy a vizsgázó meg nem engedett segédeszközt használjon, társaitól vagy más személytől segítséget vegyen igénybe.
 
-(7)[^141] A 6. § (7) bekezdése szerint a vizsgázó kérelmére, az igazgató engedélye alapján
+(7)[^135] A 6. § (7) bekezdése szerint a vizsgázó kérelmére, az igazgató engedélye alapján
 
 a) a 19. § (1) bekezdésben meghatározott időt legfeljebb egy órával (60 perc) meg kell növelni,
 
@@ -18,9 +18,9 @@ b) lehetővé kell tenni, hogy az iskolai tanulmányok során alkalmazott segéd
 
 c) engedélyezni kell, hogy az írásbeli vizsga helyett szóbeli beszámolót tegyen, vagy a szóbeli vizsgát írásban teljesítse,
 
-d)[^142] a tanuló a vizsgán mentesülhet az értékelés egy vagy több része alól, amennyiben a középiskolában a megfelelő tantárgyból nem mentesítették az értékelés, minősítés egésze alól.
+d)[^136] a tanuló a vizsgán mentesülhet az értékelés egy vagy több része alól, amennyiben a középiskolában a megfelelő tantárgyból nem mentesítették az értékelés, minősítés egésze alól.
 
-[^139]: A 20. § a 256/2005. (XII. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^140]: A 20. § (1) bekezdése a 253/2006. (XII. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^141]: A 20. § (7) bekezdés nyitó szövegrésze a 106/2012. (VI. 1.) Korm. rendelet 9. § j) pontja szerint módosított szöveg.
-[^142]: A 20. § (7) bekezdésének d) pontját a 253/2006. (XII. 7.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^133]: A 20. § a 256/2005. (XII. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^134]: A 20. § (1) bekezdése a 253/2006. (XII. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^135]: A 20. § (7) bekezdés nyitó szövegrésze a 106/2012. (VI. 1.) Korm. rendelet 9. § j) pontja szerint módosított szöveg.
+[^136]: A 20. § (7) bekezdésének d) pontját a 253/2006. (XII. 7.) Korm. rendelet 6. § (2) bekezdése iktatta be.
