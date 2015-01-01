@@ -6,7 +6,13 @@
 
 ## A közigazgatási hatósági eljárási illeték megfizetése
 
-73. § (1) A közigazgatási hatósági eljárási illetéket az eljárás megindításakor illetékbélyeggel az eljárást kezdeményező iraton kell megfizetni a (2)–(4), a (4a), a (7) és (8), valamint a (11) bekezdésben foglaltak kivételével.
+73. § (1) A közigazgatási hatósági eljárási illetéket
+
+a) az eljárás megindításakor az eljárást kezdeményező iraton illetékbélyeggel vagy
+
+b) az ügyszám megjelölésével, az eljáró hatóság felhívásában szereplő határidőn belül banki átutalással
+
+kell megfizetni a (2)–(4), a (4a), a (7) és (8), valamint a (11) bekezdésben foglaltak kivételével.
 
 (2) A járási hivatalnál és a kormányablaknál nem elektronikus úton kezdeményezett közigazgatási hatósági eljárás illetékét – ha jogszabály másként nem rendelkezik –
 
@@ -18,7 +24,9 @@ ba) elektronikus fizetési és elszámolási rendszeren keresztül,
 
 bb) bankkártyával vagy
 
-bc) házipénztárba készpénzzel
+bc) házipénztárba készpénzzel, vagy
+
+c) az eljárás megindítását megelőzően átutalással
 
 kell megfizetni az adópolitikáért felelős miniszter rendeletében megjelölt számla javára azzal, hogy a házipénztárba fizetett illetéket készpénz-átutalási megbízással a járási hivatal és a kormányablak naponta fizeti meg az említett számla javára.
 
@@ -26,9 +34,9 @@ kell megfizetni az adópolitikáért felelős miniszter rendeletében megjelölt
 
 (3) Az elsőfokú adóhatóságnál és vámhatóságnál (a továbbiakban: adóhatóság) indított eljárás – ideértve az elektronikus úton kezdeményezett eljárást is – illetékét – a másolat, kivonat illetékének kivételével –, valamint az adóhatóság határozata, végzése és végrehajtási cselekménye ellen kezdeményezett jogorvoslati eljárás illetékét az illetékes adóhatóság illetékbevételi számlája javára kell megfizetni. A 73/A. § (1) bekezdésében foglaltaktól eltérően az esedékességkor meg nem fizetett eljárási illeték és a mulasztási bírság összegét az adóhatóság határozatban közli az ügyféllel, azzal, hogy az eljárási illetéket a határozat közlésétől számított 8 napon belül az adóhatóság illetékbevételi számlájára mulasztási bírság nélkül fizetheti meg. Az így meg nem fizetett illetéket és a mulasztási bírságot az adóhatóság hajtja be.
 
-(3a) Az adózás rendjéről szóló törvény szerinti felügyeleti intézkedés iránti kérelem illetékét illetékbélyeggel kell megfizetni, ha az eljárást az adópolitikáért felelős miniszter vagy a NAV felügyeletére kijelölt miniszter folytatja le.
+(3a)
 
-(4) Elektronikus úton kezdeményezett közigazgatási hatósági eljárás esetén az eljárási illetéket az eljárás megindítását megelőzően banki átutalással vagy – a technikai feltételek megléte esetén – az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel kell megfizetni, az elektronikus kapcsolattartás részletes eljárási szabályairól szóló külön jogszabály szerint.
+(4) Elektronikus úton kezdeményezett közigazgatási hatósági eljárás esetén az eljárási illetéket az eljárás megindítását megelőzően banki átutalással vagy – a technikai feltételek megléte esetén – az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel kell megfizetni.
 
 (4a) Az elektronikus úton kezdeményezett építésügyi hatósági, valamint az azokban szükséges szakhatósági eljárások illetékét készpénz átutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – ha erre lehetőség van – elektronikus fizetési és elszámolási rendszeren keresztül, az eljárás megindítását megelőzően vagy azt követően kell megfizetni. Az eljárási illeték megfizetését az átutalási megbízás elfogadásáról szóló nyilatkozat másolatával kell igazolni.
 

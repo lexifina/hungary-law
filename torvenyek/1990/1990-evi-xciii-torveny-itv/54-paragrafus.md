@@ -8,8 +8,8 @@ b) a pénzbüntetés, az államot illető bűnügyi költség vagy rendbírság 
 
 esetében.
 
-(2) A kegyelmi, valamint a bírósági mentesítés iránti kérelem illetéke 5000 forint.
+(2) A kegyelmi kérelem, valamint a bírósági mentesítés iránti kérelem illetéke 5000 forint.
 
-(3) Vagyoni jellegű joghátrány elengedése iránt az igazságügyért felelős miniszterhez előterjesztett kérelem illetéke az elengedni kért tartozás 1%-a, de legalább 5000 forint, legfeljebb 20 000 forint.
+(3) A bűnügyi költség és a rendbírság elengedése iránt az igazságügyért felelős miniszterhez előterjesztett kérelem illetéke az elengedni kért tartozás 1%-a, de legalább 5000 forint, legfeljebb 20 000 forint.
 
 (4) Ha az e §-ban és az 52. §-ban említett illetéket a kérelmező, illetve a magánvádló felhívás ellenére nem fizeti meg, a bíróság leletet készít.

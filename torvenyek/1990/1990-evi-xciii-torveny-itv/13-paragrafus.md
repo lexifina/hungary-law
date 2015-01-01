@@ -14,4 +14,4 @@
 
 (7) Az önálló orvosi tevékenység praxisjogának ajándékozása esetén az illeték alapja a praxisjognak – terhekkel nem csökkentett – értéke.
 
-(8) Ha adott ingatlan ajándékozása ugyanannak a megajándékozottnak a javára 5 éven belül több szerződéssel történik, az illetéket az újabb tulajdoni hányaddal együtt a tulajdonában álló ingatlanrész tiszta értékének figyelembevételével kell megállapítani, feltéve, hogy az ingatlan tiszta értéke a 18 millió forintot meghaladja. A tiszta érték kiindulópontjául szolgáló forgalmi érték megállapításánál a korábbi tulajdoni hányad megszerzése óta elvégzett beruházások értéknövelő hatását figyelmen kívül kell hagyni. A fentiek szerint megállapított illeték összegéből le kell vonni azt az összeget, amelyet az ingatlan korábban megszerzett tulajdoni hányada (hányadai) után akkor kellene megfizetni, ha annak (azoknak) megszerzésére az újabb tulajdoni hányad megszerzésének időpontjában került volna sor.
+(8)

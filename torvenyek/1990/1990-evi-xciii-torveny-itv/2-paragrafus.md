@@ -4,7 +4,7 @@
 
 (2) Az ajándékozási és visszterhes vagyonátruházási illetékre vonatkozó rendelkezéseket az ingó, a vagyoni értékű jog, a belföldi ingatlan és a belföldi ingatlanvagyonnal rendelkező társaság vagyoni betétje tekintetében kell alkalmazni, kivéve, ha nemzetközi szerződés másként rendelkezik. Gépjármű és pótkocsi tulajdonjogának, vagyoni értékű jogának megszerzése tekintetében az ajándékozási és visszterhes vagyonátruházási illetékre vonatkozó rendelkezéseket akkor kell alkalmazni, ha a gépjárművet, pótkocsit belföldön vették, veszik nyilvántartásba, kivéve, ha nemzetközi szerződés másként rendelkezik.
 
-(3) Ingónak vagy ingóhoz kapcsolódó vagyoni értékű jognak jogügyleten alapuló szerzése esetében – a belföldön már nyilvántartásba vett gépjármű és pótkocsi, illetve az ezekhez kapcsolódó vagyoni értékű jogok, továbbá a belföldi ingatlanvagyonnal rendelkező társaság vagyoni betétje kivételével – e törvényt akkor kell alkalmazni, ha az ingó átadása, illetve a vagyoni értékű jog megszerzése belföldön történt.
+(3) Ingónak vagy ingóhoz kapcsolódó vagyoni értékű jognak jogügyleten alapuló szerzése esetében – a belföldi ingatlanvagyonnal rendelkező társaság vagyoni betétje kivételével – e törvényt akkor kell alkalmazni, ha az ingó átadása, illetve a vagyoni értékű jog megszerzése belföldön történt.
 
 (4) Követelés elengedése, engedményezés, tartozásátvállalás útján vagy más hasonló módon történő vagyonszerzés esetében e törvényt akkor kell alkalmazni, ha a vagyonszerző a személyi jövedelemadóról szóló törvény szerinti belföldi illetőségű magánszemély, illetve belföldön bejegyzett szervezet.
 

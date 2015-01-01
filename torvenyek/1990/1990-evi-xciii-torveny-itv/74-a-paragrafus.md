@@ -4,6 +4,8 @@
 
 (2) Az eljárást kezdeményező iratra ragasztott illetékbélyeget az ügyfélnek átírnia vagy azon bármiféle megjelölést alkalmaznia nem szabad. A bélyeget az eljáró hatóság értékteleníti felülbélyegezéssel, amelynél az eljárást kezdeményezték.
 
+(2a) Ha az illetékbélyeget tartalmazó iratot jogszabály rendelkezése alapján nem az eljáró hatóság veszi át és érkezteti, az illetékbélyeget az irat átvételére és érkeztetésére jogosult szerv értékteleníti.
+
 (3) A 73. § (2) bekezdés b) pontjában szabályozott illetékfizetés esetén az eljárási illetéket megfizetettnek kell tekinteni, a bizonylatot pedig az ügyirathoz kell csatolni.
 
 (4) Átutalási megbízással történő fizetés esetén az eljárási illeték megfizetésének ellenőrzésére vonatkozó szabályokat az adópolitikáért felelős miniszter rendeletben szabályozza.

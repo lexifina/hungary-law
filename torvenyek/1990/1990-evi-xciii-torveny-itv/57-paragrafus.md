@@ -48,7 +48,7 @@ a) az 52. § (1) bekezdésében megjelölt eljárásban a terhelt és a védő f
 
 b) az 52. § (2) bekezdésében megjelölt eljárás, ha az eljárást a személyes meghallgatás megkezdése előtt a bíróság megszünteti, illetve ha az eljárás megszüntetésére kegyelem folytán kerül sor;
 
-c) az 54. § (2) bekezdésében említett kérelem, ha azt az elítélt vagy a védő nyújtotta be;
+c) az 54. § (2) bekezdésében említett kérelem, ha azt a terhelt, a törvényes képviselője vagy a védő nyújtotta be;
 
 d) a személyes költségmentesség engedélyezése iránti eljárás;
 

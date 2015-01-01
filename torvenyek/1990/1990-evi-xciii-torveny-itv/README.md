@@ -61,3 +61,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2014-07-18 | 2014. évi XXX. törvény | 1990-93-00-00.142 |
 | 2014-09-16 | 2014. évi XXXVII. törvény | 1990-93-00-00.143 |
 | 2014-12-20 | 2014. évi LXXV. törvény | 1990-93-00-00.144 |
+| 2015-01-01 | 2014. évi LXXIV. törvény | 1990-93-00-00.145 |

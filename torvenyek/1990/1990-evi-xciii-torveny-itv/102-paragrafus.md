@@ -42,7 +42,7 @@ m) termőföld: az a földrészlet, amelyet a település külterületén az ing
 
 n) nettó árbevétel: a helyi adókról szóló 1990. évi C. törvény szerinti nettó árbevétel;
 
-o) belföldi ingatlanvagyonnal rendelkező társaság: olyan gazdálkodó szervezet (megszerzett gazdálkodó szervezet), melynek a mérlegében kimutatott eszközök (ide nem értve a pénzeszközöket és a pénzköveteléseket) mérleg szerinti értékének összegéből a belföldön fekvő ingatlan(ok), mérleg szerinti értéke több mint 75 százalék, vagy olyan gazdálkodó szervezetben (ingatlantulajdonnal rendelkező gazdálkodó szervezetben) rendelkezik legalább 75 százalékos – közvetett, vagy közvetlen – részesedéssel, melynek a mérlegében kimutatott eszközök (ide nem értve a pénzeszközöket és a pénzköveteléseket) mérleg szerinti értékének összegéből a belföldön fekvő ingatlan(ok) mérleg szerinti értéke több mint 75 százalék azzal, hogy
+o) belföldi ingatlanvagyonnal rendelkező társaság: olyan gazdálkodó szervezet (megszerzett gazdálkodó szervezet), melynek a mérlegében kimutatott eszközök (ide nem értve a pénzeszközöket, pénzköveteléseket, aktív időbeli elhatárolásokat és kölcsönöket) mérleg szerinti értékének összegéből a belföldön fekvő ingatlan(ok), mérleg szerinti értéke több mint 75 százalék, vagy olyan gazdálkodó szervezetben (ingatlantulajdonnal rendelkező gazdálkodó szervezetben) rendelkezik legalább 75 százalékos – közvetett, vagy közvetlen – részesedéssel, melynek a mérlegében kimutatott eszközök (ide nem értve a pénzeszközöket, pénzköveteléseket, aktív időbeli elhatárolásokat és kölcsönöket) mérleg szerinti értékének összegéből a belföldön fekvő ingatlan(ok) mérleg szerinti értéke több mint 75 százalék azzal, hogy
 
 oa) mérleg alatt a vagyonszerzést megelőzően rendelkezésre álló utolsó beszámolóban elfogadott mérleget, ennek hiányában a nyitó mérleget kell érteni,
 
@@ -78,7 +78,7 @@ b) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáró
 
 c) külön jogszabály értelmében menekültnek minősül.
 
-(3) Az (1) bekezdés f) és l)—m), továbbá s) pontjaiban foglaltak alkalmazásakor a vagyontárgy minősítése tekintetében az illetékkötelezettség keletkezésekor fennálló állapot az irányadó.
+(3) Az (1) bekezdés alkalmazásakor a vagyontárgy minősítése tekintetében az illetékkötelezettség keletkezésekor fennálló állapot az irányadó.
 
 (4) A 26. § (1) bekezdésének f) pontja alkalmazásában új lakásnak minősül a lakástulajdon a használatbavételi engedély kiadását vagy a használatbavétel tudomásul vételét követő első – illetve, ha a lakást a használatbavételi engedély kiadását vagy a használatbavétel tudomásul vételét követően a vállalkozótól a 23/A. § (1), (2) és (4) bekezdésében meghatározott ingatlanforgalmazó vásárolja meg akkor második – megvásárlásáig.
 
