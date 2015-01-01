@@ -20,7 +20,7 @@ g) a Nemzeti Fogyasztóvédelmi Hatóság (a továbbiakban: NFH) és a főváros
 
 h) a Nemzeti Közlekedési Hatóság (a továbbiakban: NKH) és a fővárosi és megyei kormányhivatalok közlekedési felügyelőségei,
 
-i) a Nemzeti Munkaügyi Hivatal Munkavédelmi és Munkaügyi Igazgatósága (a továbbiakban: NMH) és a fővárosi és megyei kormányhivatalok munkavédelmi és munkaügyi szakigazgatási szervei,
+i)[^3] a foglalkoztatáspolitikáért felelős miniszter, valamint a fővárosi és megyei kormányhivatalok munkavédelmi és munkaügyi szakigazgatási szervei,
 
 j) a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH),
 
@@ -34,3 +34,4 @@ l) a Rendőrség szervei (a továbbiakban: Rendőrség).
 
 [^1]: A 2. § (1) bekezdés c) pontját a 146/2014. (V. 5.) Korm. rendelet 37. § b) pontja hatályon kívül helyezte.
 [^2]: A 2. § (1) bekezdés e) pontja az 559/2013. (XII. 31.) Korm. rendelet 73. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdés i) pontja a 318/2014. (XII. 13.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
