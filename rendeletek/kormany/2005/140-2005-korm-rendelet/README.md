@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-140-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2005-07-28 | 2005-140-20-22.1 | 140/2005. (VII. 27.) Korm. rendelet |
+| 2015-01-01 | 2005-140-20-22.2 | 381/2014. (XII. 31.) Korm. rendelet |

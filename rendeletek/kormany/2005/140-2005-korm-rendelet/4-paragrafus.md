@@ -162,4 +162,6 @@
 
 (3) A Megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-(4) E rendelet végrehajtásához szükséges intézkedésekről az oktatási miniszter gondoskodik.
+(4)[^1] E rendelet végrehajtásához szükséges intézkedésekről a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke gondoskodik.
+
+[^1]: A 4. § (4) bekezdése a 381/2014. (XII. 31.) Korm. rendelet 10. §-a szerint módosított szöveg.
