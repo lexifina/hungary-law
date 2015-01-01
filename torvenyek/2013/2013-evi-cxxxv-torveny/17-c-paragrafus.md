@@ -1,6 +1,6 @@
 ## 8/C. Tőkekövetelmények
 
-17/C. § (1) Szövetkezeti formában működő szövetkezeti hitelintézet legalább háromszázmillió forint induló részjegytőkével alapítható. Működési formájától függetlenül a szövetkezeti hitelintézet szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről-időre megállapított szint alá. Az Integrációs Szervezet szabályzatban határozza meg az egyedi alapon megállapított szavatoló tőke meghatározásának elveit és folyamatát.
+17/C. § (1) Működési formájától függetlenül a szövetkezeti hitelintézet szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről időre megállapított szint alá. Az Integrációs Szervezet szabályzatban határozza meg az egyedi alapon megállapított szavatoló tőke meghatározásának elveit és folyamatát.
 
 (2) Amennyiben a szövetkezeti hitelintézet szavatoló tőkéje az (1) bekezdésben meghatározott szint alá süllyed, az Integrációs Szervezet jogosult – a Felügyelet jogait, feladatait és hatásköreit nem érintve, és amennyiben a Felügyelet ilyen intézkedést még nem tett –, a Felügyeletet előzetesen értesítve az alábbi kivételes intézkedésekkel élni:
 

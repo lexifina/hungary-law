@@ -22,7 +22,7 @@ A fenti kérdésekben a Felügyelet ügyintézésére 8 munkanapos határidő á
 
 (6) Nem jogosult „C” típusú elsőbbségi részvényre és nem csatlakozhat az Integrációs Szervezethez a Takarékbank Zrt. azon részvényese, amely a 12. § (2) bekezdésben meghatározottakon túl a jelen törvény hatálybalépésekor a Takarékbank Zrt. részvényese.
 
-(7) Amennyiben a Felügyelet a szövetkezeti hitelintézet működési engedélyét bármely okból visszavonja, akkor a Felügyelet egyidejűleg kezdeményezi a a Hpt. 48. §-a szerint a szövetkezeti hitelintézet végelszámolását vagy a Hpt. 51. §-a szerint a felszámolását és a Hpt. 189. § (1) bekezdés e) pontja alapján a Hpt. 184. § (3) bekezdés szerinti feltételek teljesülése nélkül is felügyeleti biztost rendel ki. Ebben az esetben a Takarékbank Zrt. köteles az érintett szövetkezeti hitelintézet betéteseinek védelmében a betétállományokat 60 napon belül e törvény 17. §-a rendelkezései szerint átvenni.
+(7)
 
 (8) Az Integrációs Szervezet – szabályzatában meghatározottak szerint – a szövetkezeti hitelintézetek egyes csoportjai (pl. hitelszövetkezet, takarékszövetkezet, zártkörűen működő részvénytársaság, nyilvánosan működő részvénytársaság, szakosított hitelintézet, nagy vagy kis tulajdonosi létszámmal működő intézmények) számára a formájukból, tevékenységükből adódó működési jellegzetességeik által indokolt esetben átmenetileg vagy véglegesen az e törvényből fakadó egyes kötelezettségek vagy azok csoportjának a teljesítése alól felmentést adhat, és ezen belül különösen mentesítheti a szövetkezeti hitelintézetet a 15. § (9) és (19) bekezdése, a 17/K. § (1) bekezdése, a 17/Q. § (3) bekezdése és a 19. § (2) bekezdése szerinti kötelezettség teljesítése alól.
 
