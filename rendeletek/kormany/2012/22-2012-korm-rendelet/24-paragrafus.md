@@ -1,8 +1,8 @@
 ## 7. A talajvédelmi hatósági eljárásokban közreműködő szakhatóságok
 
-24. § (1)[^47] A Kormány a hígtrágya nitrátérzékeny területen történő mezőgazdasági felhasználása engedélyezésére irányuló másodfokú eljárásban – a felszín alatti vizek minőségének védelme kérdésében – az országos vízügyi hatóságot szakhatóságként jelöli ki.
+24. § (1)[^48] A Kormány a hígtrágya nitrátérzékeny területen történő mezőgazdasági felhasználása engedélyezésére irányuló másodfokú eljárásban – a felszín alatti vizek minőségének védelme kérdésében – az országos vízügyi hatóságot szakhatóságként jelöli ki.
 
-(2)[^48] A Kormány a szennyvíz és szennyvíziszap mezőgazdasági felhasználásának engedélyezése és az engedély meghosszabbítása iránti másodfokú eljárásban, továbbá a nem mezőgazdasági eredetű nem veszélyes hulladék mezőgazdasági felhasználásának engedélyezési és az engedély meghosszabbítása iránti másodfokú eljárásban,
+(2)[^49] A Kormány a szennyvíz és szennyvíziszap mezőgazdasági felhasználásának engedélyezése és az engedély meghosszabbítása iránti másodfokú eljárásban, továbbá a nem mezőgazdasági eredetű nem veszélyes hulladék mezőgazdasági felhasználásának engedélyezési és az engedély meghosszabbítása iránti másodfokú eljárásban,
 
 a) – a vizek minőségét, egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők vizsgálatával kapcsolatos szakkérdésben – a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét,
 
@@ -26,5 +26,5 @@ b) a tereprendezés során kitermelt ásványi nyersanyag felhasználása, ért�
 
 kapcsolatos szakkérdésben a Magyar Bányászati és Földtani Hivatalt szakhatóságként jelöli ki.
 
-[^47]: A 24. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 638. §-ával megállapított szöveg.
-[^48]: A 24. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 638. §-ával megállapított szöveg.
+[^48]: A 24. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 638. §-ával megállapított szöveg.
+[^49]: A 24. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 638. §-ával megállapított szöveg.

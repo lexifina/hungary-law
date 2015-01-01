@@ -1,4 +1,4 @@
-9. § (1)[^19]
+9. § (1)[^20]
 
 (2) A NÉBIH:
 
@@ -36,10 +36,10 @@ j) az adatszolgáltatás keretében adatokat gyűjt és elemez az élelmiszerek 
 
 (9) Az élelmiszerlánc termékek ellenőrzése tekintetében a Nemzeti Adó- és Vámhivatal köteles a NÉBIH-hel szorosan együttműködni, és minden elvárható segítséget és információt megadni, a NÉBIH hatékony élelmiszerlánc felügyeleti tevékenységének elősegítése érdekében. A Nemzeti Adó- és Vámhivatal ennek keretében különösen a NÉBIH rendelkezésére bocsátja a feladatkörében tudomására jutott, az élelmiszerlánc szempontjából jelentős áruforgalmi és határellenőrzési adatokat.
 
-(10)[^20] A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 21. § t) pontja tekintetében a Kormány élelmiszerlánc-felügyeleti szervként a NÉBIH-et jelöli ki.
+(10)[^21] A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 21. § t) pontja tekintetében a Kormány élelmiszerlánc-felügyeleti szervként a NÉBIH-et jelöli ki.
 
-(11)[^21] A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 64/A. § (3) bekezdésének tekintetében a Kormány élelmiszerlánc-felügyeleti szervként és talajvédelmi hatóságként a NÉBIH-et jelöli ki.
+(11)[^22] A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 64/A. § (3) bekezdésének tekintetében a Kormány élelmiszerlánc-felügyeleti szervként és talajvédelmi hatóságként a NÉBIH-et jelöli ki.
 
-[^19]: A 9. § (1) bekezdését a 68/2013. (III. 8.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
-[^20]: A 9. § (10) bekezdését a 98/2014. (III. 25.) Korm. rendelet 11. § (4) bekezdése iktatta be.
-[^21]: A 9. § (11) bekezdését a 98/2014. (III. 25.) Korm. rendelet 11. § (4) bekezdése iktatta be.
+[^20]: A 9. § (1) bekezdését a 68/2013. (III. 8.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
+[^21]: A 9. § (10) bekezdését a 98/2014. (III. 25.) Korm. rendelet 11. § (4) bekezdése iktatta be.
+[^22]: A 9. § (11) bekezdését a 98/2014. (III. 25.) Korm. rendelet 11. § (4) bekezdése iktatta be.
