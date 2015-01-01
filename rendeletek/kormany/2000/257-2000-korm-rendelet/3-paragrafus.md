@@ -20,6 +20,7 @@ c) az (1) bekezdés a) pontja szerinti intézmény gazdasági vezetője, a vezet
 
 d) az Intézet igazgatóhelyettese, főosztályvezetője, osztályvezetője és csoportvezetője.
 
-(3) A magasabb vezető beosztásra történő megbízás feltétele az (1) bekezdés c) pontja szerinti megbízás kivételével legalább öt év felsőfokú végzettséget vagy felsőfokú szakmai képesítést igénylő, a gyermekvédelem, a szociális ellátás, az egészségügyi ellátás, illetve a közoktatás területén betöltött munkakörben szerzett szakmai gyakorlat.
+(3)[^25] A magasabb vezető beosztásra történő megbízás feltétele az (1) bekezdés b) és c) pontja szerinti megbízás kivételével legalább öt év felsőfokú végzettséget vagy felsőfokú szakmai képesítést igénylő, a gyermekvédelem, a szociális ellátás, az egészségügyi ellátás, illetve a közoktatás területén betöltött munkakörben szerzett szakmai gyakorlat.
 
 [^24]: A 3. § a 60/2011. (IV. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^25]: A 3. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 31. § (2) bekezdése szerint módosított szöveg.
