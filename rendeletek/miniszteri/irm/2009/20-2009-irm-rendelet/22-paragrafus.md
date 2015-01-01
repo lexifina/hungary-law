@@ -2,7 +2,7 @@
 
 ## Adatközlés a kényszerintézkedés hatálya alatt állók nyilvántartása részére
 
-22. §[^29] (1) A bíróság a 9. számú adatlap megküldésével közli a kényszerintézkedés hatálya alatt állók nyilvántartása részére azon tényt, hogy az érintett személy érvényes úti okmánnyal rendelkezik-e, valamint
+22. §[^55] (1) A bíróság a 9. számú adatlap megküldésével közli a kényszerintézkedés hatálya alatt állók nyilvántartása részére azon tényt, hogy az érintett személy érvényes úti okmánnyal rendelkezik-e, valamint
 
 a) a Bnytv. 28. § b)–d) pontjában meghatározott adatokat, ha előzetes letartóztatást, lakhelyelhagyási tilalmat, házi őrizetet, távoltartást, ideiglenes kényszergyógykezelést (a továbbiakban együtt: kényszerintézkedés) rendelt el, vagy ha a terhelt előzetes letartóztatása óvadék letétele miatt szűnt meg,
 
@@ -14,4 +14,4 @@ bb) a kényszerintézkedés elrendeléséről határozatot hozó bíróság megn
 
 (2) Az (1) bekezdésben meghatározott adatközlést a kényszerintézkedést elrendelő határozat keltének, az óvadék letételének, és a kényszerintézkedést megszüntető határozat jogerőre emelkedésének napjától számított három munkanapon belül kell teljesíteni.
 
-[^29]: A 22. § a 60/2012. (XII. 28.) KIM rendelet 6. §-ával megállapított szöveg.
+[^55]: A 22. § a 60/2012. (XII. 28.) KIM rendelet 6. §-ával megállapított szöveg.

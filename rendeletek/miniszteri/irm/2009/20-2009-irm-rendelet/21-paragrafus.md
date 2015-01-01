@@ -1,4 +1,4 @@
-## az erről szóló külön értesítés (átirat) megküldésével közli a büntetőeljárás hatálya alatt állók nyilvántartása részére.
+## az erről szóló külön értesítés megküldésével közli a büntetőeljárás hatálya alatt állók nyilvántartása részére.
 
 ## 21. § A 18–20. §-ban meghatározott adatközlést
 

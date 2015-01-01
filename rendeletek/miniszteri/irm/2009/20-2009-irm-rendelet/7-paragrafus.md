@@ -1,4 +1,4 @@
-## meghatározott adatokat az erről szóló külön értesítés (átirat) megküldésével közli a büntetőeljárás hatálya alatt állók nyilvántartása részére.
+## meghatározott adatokat az erről szóló külön értesítés megküldésével közli a büntetőeljárás hatálya alatt állók nyilvántartása részére.
 
 ## 7. § A 4–6. §-ban meghatározott adatközlést
 

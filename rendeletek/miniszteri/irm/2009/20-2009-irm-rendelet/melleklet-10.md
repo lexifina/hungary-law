@@ -1,73 +1,79 @@
-10. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^50]
+10. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^87]
 
-10. számú adatlap
+10. adatlap
 
 ADATKÖZLÉS A KÜLFÖLDRE UTAZÁSI KORLÁTOZÁS HATÁLYA ALATT ÁLLÓK NYILVÁNTARTÁSA RÉSZÉRE
 
-⬜ PÓTLAP IGÉNYBEVÉTELE
-
-AZ ÉRINTETT SZEMÉLY ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK
-
-⬜ IGEN ⬜ NEM (kitöltése kötelező)
+□ PÓTLAP IGÉNYBEVÉTELE
 
 | 1. Az érintett személy személyazonosító adatai: |
 
-| 1.1. Személyi azonosító: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 1.1. Személyi azonosító: □□□□□□□□□□□ |
 
-| 1.2. Családi és utónév: ................................................................................................................................................... |
+| 1.2. Családi és utónév: |
 
-| 1.3. Születési családi és utónév: .................................................................................................................................... |
+| 1.3. Születési családi és utónév: |
 
-| 1.4. Előző születési családi és utónév: ............................................................................................................................................ |
+| 1.4. Előző születési családi és utónév: |
 
-| 1.5. Születési hely: ..................................................................................................... idő: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. |
+| 1.5. Születési hely: .............................................................................. idő: □□□□ év □□ hó □□ nap. |
 
-| 1.6. Anyja születési családi és utóneve: ........................................................................................................................ |
+| 1.6. Anyja születési családi és utóneve: |
 
-| 1.7. Anyja előző születési családi és utóneve |
+| 1.7. Anyja előző születési családi és utóneve: |
 
-| 1.8. Neme: ⬜ férfi vagy ⬜ nő 1.9. Állampolgárság: ............................ Előző állampolgárság: .................................... |
+| 1.8. Neme: □ férfi □ nő 1.9. Állampolgárság: ........................................................ 1.10. Előző állampolgárság: ............................................. |
 
-| 1.10. Lakóhely: ………………………………………………………………………………………………... |
+| 1.11. Lakóhely: |
 
-| 1.11. Előző lakóhely: ................................................................................................................................................................... |
+| 1.12. Előző lakóhely: |
 
-| 2. A korlátozás elrendelésének adatai: |
+| 2. Az érintett személy érvényes úti okmánnyal rendelkezik (kitöltése kötelező): | □ IGEN □ NEM |
 
-| 2.1. Az eljáró bíróság megnevezése: .................................................................................................... |
+| 3. A korlátozás elrendelésének adatai: |
 
-| 2.2. határozatának száma: ...................................................................... és kelte: | ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. |
+| 3.1. Az eljáró bíróság megnevezése: |
 
-| 2.3. A korlátozás lejáratának napja: | ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. |
+| 3.2. határozatának száma: ...................................................................... és kelte: | □□□□ év □□ hó □□ nap. |
 
-| 2.4. Az elrendelt korlátozás típusa: |
+| 3.3. A korlátozás lejáratának napja: | □□□□ év □□ hó □□ nap. |
 
-| ⬜KIADATÁSI LETARTÓZTATÁS | ⬜IDEIGLENES KIADATÁSI LETARTÓZTATÁS |
+| 3.4. Az elrendelt korlátozás típusa: |  |
 
-| ⬜ÁTADÁSI LETARTÓZTATÁS | ⬜IDEIGLENES ÁTADÁSI LETARTÓZTATÁS |
+| □ KIADATÁSI LETARTÓZTATÁS | □ IDEIGLENES KIADATÁSI LETARTÓZTATÁS |
 
-| ⬜IDEIGLENES VÉGREHAJTÁSI LETARTÓZTATÁS | ⬜MAGYARORSZÁG TERÜLETÉNEK ELHAGYÁSA TILOS |
+| □ ÁTADÁSI LETARTÓZTATÁS | □ IDEIGLENES ÁTADÁSI LETARTÓZTATÁS |
 
-| 3. A korlátozás megszüntetésének adatai: |
+| □ IDEIGLENES VÉGREHAJTÁSI LETARTÓZTATÁS | □ MAGYARORSZÁG TERÜLETÉNEK ELHAGYÁSA TILOS |
 
-| 3.1. Az eljáró bíróság megnevezése: .................................................................................................... |
+| 4. □ Az érintett személy a kiadatási letartóztatás elrendelésekor ideiglenes kiadatási letartóztatást tölt. |
 
-| 3.2. határozatának száma: ...................................................................... és kelte: | ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. |
+| 5. □ Az érintett személy az átadási letartóztatás elrendelésekor ideiglenes átadási letartóztatást tölt. |
 
-| 3.3. A korlátozás lejáratának napja: | ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. |
+| 6. A korlátozás megszüntetésének adatai: |
 
-| 3.4. Az elrendelt korlátozás típusa: |
+| 6.1. Az eljáró bíróság megnevezése: |
 
-| ⬜ KIADATÁSI LETARTÓZTATÁS | ⬜ IDEIGLENES KIADATÁSI LETARTÓZTATÁS |
+| 6.2. határozatának száma: ...................................................................... és kelte: | □□□□ év □□ hó □□ nap. |
 
-| ⬜ ÁTADÁSI LETARTÓZTATÁS | ⬜ IDEIGLENES ÁTADÁSI LETARTÓZTATÁS |
+| 6.3. A korlátozás lejáratának napja: | □□□□ év □□ hó □□ nap. |
 
-| ⬜ IDEIGLENES VÉGREHAJTÁSI LETARTÓZTATÁS | ⬜ MAGYARORSZÁG TERÜLETÉNEK ELHAGYÁSA TILOS |
+| 6.4. Az elrendelt korlátozás típusa: |  |
+
+| □ KIADATÁSI LETARTÓZTATÁS | □ IDEIGLENES KIADATÁSI LETARTÓZTATÁS |
+
+| □ ÁTADÁSI LETARTÓZTATÁS | □ IDEIGLENES ÁTADÁSI LETARTÓZTATÁS |
+
+| □ IDEIGLENES VÉGREHAJTÁSI LETARTÓZTATÁS | □ MAGYARORSZÁG TERÜLETÉNEK ELHAGYÁSA TILOS |
+
+| 7. Külföldi hatóságok részére átadás adatai: 7.1. Az ügyirat száma:…………………………………………… 7.2. Az átadás napja: □□□□ év □□ hó □□ nap. |
 
 | Kelt: ................................, ........... év .......... hó ........ nap. |
 
 | P. H. |
 
-| ........................................................ Az eljáró szerv képviselője |
+| ........................................................ |
 
-[^50]: A 10. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be.
+| Az eljáró szerv képviselője |
+
+[^87]: A 10. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.

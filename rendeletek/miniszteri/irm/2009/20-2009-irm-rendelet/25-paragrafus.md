@@ -1,4 +1,4 @@
-25. § (1) A javítóintézet a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása részére a 8. számú adatlapon közli a Bnytv. 4. § (2) bekezdés d) pontjában, a Bnytv. 16. § (1) bekezdés e) pontjában és a Bnytv. 16. § (2) bekezdés e)–g) pontjában meghatározott adatokat, ha a javítóintézeti nevelés alá vont
+25. § (1)[^69] A javítóintézet a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása részére a 8. adatlapon közli a Bnytv. 4. § (2) bekezdés d) pontjában, a Bnytv. 16. § (1) bekezdés e) pontjában és a Bnytv. 16. § (2) bekezdés e)–g) pontjában meghatározott adatokat, ha a javítóintézeti nevelésre utalt
 
 a) személy javítóintézeti nevelését foganatba vette vagy a javítóintézeti nevelésből elbocsátotta,
 
@@ -8,6 +8,10 @@ c) személy a javítóintézeti nevelés végrehajtásának időtartama alatt me
 
 (2) Az (1) bekezdésben meghatározott adatközlést
 
-a) a terhelt javítóintézeti nevelésének megkezdésétől, javítóintézetből történő elbocsátásától, ideiglenes elbocsátásától vagy az ideiglenes elbocsátás megszüntetése napjától,
+a)[^70] a javítóintézeti nevelésre utalt javítóintézeti nevelésének megkezdésétől, javítóintézetből történő elbocsátásától, ideiglenes elbocsátásától vagy az ideiglenes elbocsátás megszüntetése napjától,
 
-b) a terhelt halálának napjától
+b)[^71] a javítóintézeti nevelésre utalt halálának napjától
+
+[^69]: A 25. § (1) bekezdés nyitó szövegrésze a 17/2014. (XII. 19.) IM rendelet 35. § 11. pontja, 36. § 2. pontja szerint módosított szöveg.
+[^70]: A 25. § (2) bekezdés a) pontja a 17/2014. (XII. 19.) IM rendelet 35. § 12. pontja szerint módosított szöveg.
+[^71]: A 25. § (2) bekezdés b) pontja a 17/2014. (XII. 19.) IM rendelet 35. § 12. pontja szerint módosított szöveg.

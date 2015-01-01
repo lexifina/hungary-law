@@ -1,77 +1,93 @@
-2. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^42]
+2. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^79]
 
-2. számú adatlap
+Eljáró hatóság megnevezése:
 
-ADATKÖZLÉS VÁDEMELÉSRŐL VAGY VÁDEMELÉS ELHALASZTÁSÁRÓL
+Eljáró hatóság ügyszáma:
 
-Az 1., 2. és 3. pont kitöltése minden esetben kötelező!
+2. adatlap
+
+ADATKÖZLÉS VÁDEMELÉSRŐL, VÁDMÓDOSÍTÁSRÓL VAGY VÁDEMELÉS ELHALASZTÁSÁRÓL
 
 □ PÓTLAP IGÉNYBEVÉTELE
 
 | 1. Terhelt személyazonosító adatai: (kitöltése kötelező) |
 
-| 1.1. Személyi azonosító: □ □ □ □ □ □ □ □ □ □ □ |
+| 1.1. Személyi azonosító: □□□□□□□□□□□ |
 
-| 1.2. Családi és utónév: ............................................................................................................................................................ |
+| 1.2. Családi és utónév: |
 
-| 1.3. Születési családi és utónév: ............................................................................................................................................. |
+| 1.3. Születési családi és utónév: |
 
-| 1.4. Előző születési családi és utónév: .................................................................................................................................................. |
+| 1.4. Előző születési családi és utónév: |
 
-| 1.5. Születési hely: ....................................................................................................... idő: □ □ □ □ év □ □ hó □ □ nap. |
+| 1.5. Születési hely: .............................................................................. idő: □□□□ év □□ hó □□ nap. |
 
-| 1.6. Anyja születési családi és utóneve: ................................................................................................................................. |
+| 1.6. Anyja születési családi és utóneve: |
 
-| 1.7. Anyja előző születési család és utóneve: ............................................................................................................................... |
+| 1.7. Anyja előző születési családi és utóneve: |
 
-| 1.8. Neme: □ férfi □ nő | 1.9. Állampolgárság: .............................. Előző állampolgárság: ....................................... |
+| 1.8. Neme: □ férfi □ nő 1.9. Állampolgárság: ............................................. 1.10. Előző állampolgárság: .................................. |
 
-| 1.10. Lakóhely: ........................................................................................................................................................................ |
+| 1.11. Lakóhely: |
 
-| 1.11. Előző lakóhely: ..................................................................................................................................................................... |
+| 1.12. Előző lakóhely: |
 
 | 2. Megalapozott gyanú közlésével kapcsolatos adatok: (kitöltése kötelező) |
 
-| 2.1. A megalapozott gyanút közlő szerv kódja és megnevezése: □ □ □ □ □ □ □ ............................................................................................................................................................................................... |
+| 2.1. A megalapozott gyanút közlő szerv kódja és megnevezése: □□□□□□□ |
 
-| 2.2. A megalapozott gyanú közlésének időpontja: □ □ □ □ év □ □ hó □ □ nap. |
+| 2.2. A megalapozott gyanú közlésének időpontja: □□□□ év □□ hó □□ nap. |
 
-| 2.3. A büntetőügy iktatószáma: ............................................................................................................................................ |
+| 2.3. A büntetőügy iktatószáma: |
 
 | 3. A vád tárgyává tett bűncselekmény adatai: (kitöltése kötelező) |
 
 |  | Kód és megnevezés | Btk. szerinti minősítés | Rendbeliség | Elkövetési hely | Elkövetési idő |  |
 
-|  | □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ ..................................... |  |  |  |  |  |
+|  | □□□□□□□□□□□□□□□□□ .............................. |  |  |  |  |  |
 
-|  | □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ ..................................... |  |  |  |  |  |
+|  | □□□□□□□□□□□□□□□□□ .............................. |  |  |  |  |  |
 
-|  | □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ ..................................... |  |  |  |  |  |
+|  | □□□□□□□□□□□□□□□□□ .............................. |  |  |  |  |  |
 
 | 4. Vádemelés adatai: |
 
-| 4.1. Az eljáró ügyészség kódja és megnevezése: □ □ □ □ □ □ □ ................................................................................................. |
+| 4.1. Az eljáró ügyészség kódja és megnevezése: □□□□□□□ |
 
-| 4.2. A vádirat száma: ........................................................................................................................................................ |
+| 4.2. A vádirat száma: |
 
-| 4.3. A vádemelés időpontja: □ □ □ □ év □ □ hó □ □ nap. |
+| 4.3. A vádemelés időpontja: □□□□ év □□ hó □□ nap. |
 
-| 4.4. A vádirat kelte: □ □ □ □ év □ □ hó □ □ nap. |
+| 4.4. A vádirat kelte: □□□□ év □□ hó □□ nap. |
 
-| 5. Vádemelés elhalasztása adatai: |
+| 5. A módosított vád adatai: 5.1. Az eljáró ügyészség kódja és megnevezése: □□□□□□□ 5.2. A módosított vádirat száma: 5.3. A vádmódosítás időpontja: □□□□ év □□ hó □□ nap. |
 
-| 5.1. Az eljáró ügyészség kódja és megnevezése: □ □ □ □ □ □ □ ................................................................................................. |
+| 6. A módosított vád tárgyává tett bűncselekmény adatai: (kitöltése kötelező) |
 
-| 5.2. A vádemelés elhalasztása leteltének napja: □ □ □ □ év □ □ hó □ □ nap. |
+|  | Kód és megnevezés | Btk. szerinti minősítés | Rendbeliség | Elkövetési hely | Elkövetési idő |  |
 
-| 5.3. Az eljárásban hozott határozat száma: ............................................................ kelte: □ □ □ □ év □ □ hó □ □ nap. |
+|  | □□□□□□□□□□□□□□□□□ …............................ |  |  |  |  |  |
 
-| 5.4. A vádemelés elhalasztásának oka: ............................................................................................................................. |
+|  | □□□□□□□□□□□□□□□□□ …............................ |  |  |  |  |  |
+
+|  | □□□□□□□□□□□□□□□□□ …............................ |  |  |  |  |  |
+
+| 7. Vádemelés elhalasztása adatai: |
+
+| 7.1. Az eljáró ügyészség kódja és megnevezése: □□□□□□□ |
+
+| 7.2. A vádemelés elhalasztása leteltének napja: □□□□ év □□ hó □□ nap. |
+
+| 7.3. Az eljárásban hozott határozat száma: ............................................................ kelte: □□□□ év □□ hó □□ nap. |
+
+| 7.4. A vádemelés elhalasztásának oka: |
 
 | Kelt: ................................, ........... év .......... hó ........ nap. |
 
 | P. H. |
 
-|  | ........................................................ Az eljáró szerv képviselője |
+| ........................................................ |
 
-[^42]: A 2. melléklet a 35/2013. (XII. 23.) KIM rendelet 14. § (2) bekezdésével megállapított szöveg.
+| Az eljáró szerv képviselője |
+
+[^79]: A 2. melléklet a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.
