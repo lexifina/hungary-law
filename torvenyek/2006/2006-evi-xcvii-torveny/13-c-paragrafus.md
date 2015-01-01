@@ -1,8 +1,8 @@
-13/C. § (1) A kamarai választás első fordulója a szakmai kamara döntése szerint a 13/B. § (2) bekezdés a)–c) pontja szerinti eljárások bármelyike szerint történhet.
+13/C. § (1) A kamarai választás a szakmai kamara döntése szerint a 13/B. § (2) bekezdés a)–c) pontja szerinti eljárások bármelyike szerint történhet.
 
-(2) A kamarai választás első fordulója érvényes, ha a választásra jogosult kamarai tagok több mint a fele szavazott. A kamarai választás eredményességi feltételeit a szakmai kamara alapszabálya tartalmazza.
+(2) A kamarai választás első fordulója érvényes, ha a választásra jogosult kamarai tagok több mint huszonöt százaléka szavazott. A kamarai választás eredményességi feltételeit a szakmai kamara alapszabálya tartalmazza.
 
-(3) A második választási forduló érvényes, ha a választásra jogosult kamarai tagok legalább huszonöt százaléka szavazott.
+(3) A kamarai választás első fordulójának érvénytelensége vagy eredménytelensége esetén a szakmai kamara második választási fordulót tart. A szakmai kamara a második fordulót az első forduló napjától – vagy a 13/B. § (2) bekezdés b) vagy c) pontjának alkalmazása esetén a választás első fordulójának utolsó napjától – számítva legkorábban tizenöt napon túl, de legkésőbb negyvenöt napon belül tartja meg. A második forduló a szavazatot leadó tagok számára tekintet nélkül érvényes. Az alapszabály a második forduló érvényességéhez szükséges részvételi arányt a szavazatot leadó választásra jogosultak arányának meghatározásával e törvényben foglaltaknál szigorúbban is megállapíthatja.
 
 (4) Ha a második forduló érvénytelen vagy eredménytelen, négy hónapon belül megismételt választást kell tartani, azzal, hogy az eredménytelen második forduló, illetve annak utolsó napja és a megismételt választás, illetve annak első napja között harminc napnál kevesebb nem telhet el. Ha a megismételt választás második fordulója is érvénytelen vagy eredménytelen, a tisztség, mandátum a soron következő általános választásig betöltetlen marad.
 
