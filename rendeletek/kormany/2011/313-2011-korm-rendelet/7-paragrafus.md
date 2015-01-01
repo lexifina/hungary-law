@@ -1,4 +1,4 @@
-## 6. §[^5] A praxisengedélyre vonatkozó határozatot közölni kell az Országos Alapellátási Intézettel (a továbbiakban: OALI), az Országos Egészségbiztosítási Pénztárral és az állami adóhatósággal.
+## 6. §[^7] A praxisengedélyre vonatkozó határozatot közölni kell az Országos Alapellátási Intézettel (a továbbiakban: OALI), az Országos Egészségbiztosítási Pénztárral és az állami adóhatósággal.
 
 7. § (1) A praxisengedélyt vissza kell vonni, ha
 
@@ -6,11 +6,11 @@ a) a praxisjog jogosultja a jog elnyerése iránti eljárás során az ügy érd
 
 b) a praxisjog jogosultja a 4. § (1) bekezdésében meghatározott feltételekkel már nem rendelkezik,
 
-c)[^6] az engedélyező szerv három éven belül legalább két alkalommal jogszabálysértés miatt intézkedett, és a háziorvos a határozatban foglaltaknak nem tett eleget,
+c)[^8] az engedélyező szerv három éven belül legalább két alkalommal jogszabálysértés miatt intézkedett, és a háziorvos a határozatban foglaltaknak nem tett eleget,
 
-d)[^7] az engedélyező szerv ismételt figyelmeztetése ellenére a háziorvos az ellátást nem, illetve – a helyettesítés kivételével – nem személyesen nyújtja,
+d)[^9] az engedélyező szerv ismételt figyelmeztetése ellenére a háziorvos az ellátást nem, illetve – a helyettesítés kivételével – nem személyesen nyújtja,
 
-e)[^8] a praxisjog elidegenítésére nyitva álló határidő eredménytelenül telik el, a határidő leteltét követő nappal.
+e)[^10] a praxisjog elidegenítésére nyitva álló határidő eredménytelenül telik el, a határidő leteltét követő nappal.
 
 (2) Az (1) bekezdés a) pontjának alkalmazása szempontjából rosszhiszeműnek minősül különösen az a személy, aki az eljárás során valamely, az engedély megadása szempontjából fontos tényt, adatot, körülményt elhallgat, adatot meghamisít, vagy más módon a hatóságot megtéveszti.
 
@@ -22,7 +22,7 @@ e)[^8] a praxisjog elidegenítésére nyitva álló határidő eredménytelenül
 
 (6) A praxisengedély visszavonásáról szóló határozatot közölni kell az önkormányzattal és azokkal a szervekkel, amelyekkel a praxisengedélyre vonatkozó határozatot közölték.
 
-[^5]: A 6. § a 447/2012. (XII. 29.) Korm. rendelet 77. § a) pontja szerint módosított szöveg.
-[^6]: A 7. § (1) bekezdés b) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
-[^7]: A 7. § (1) bekezdés d) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
-[^8]: A 7. § (1) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^7]: A 6. § a 447/2012. (XII. 29.) Korm. rendelet 77. § a) pontja szerint módosított szöveg.
+[^8]: A 7. § (1) bekezdés b) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
+[^9]: A 7. § (1) bekezdés d) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
+[^10]: A 7. § (1) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 77. §-ával megállapított szöveg.
