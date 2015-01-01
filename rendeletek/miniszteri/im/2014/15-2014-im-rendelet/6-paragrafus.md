@@ -1,0 +1,3 @@
+6. § (1) A bv. intézet a befogadástól a szabadulásig végzi a fogvatartott letéti pénzét érintő könyvelési, előjegyzési, zárolási feladatokat, a munkáltatásban résztvevő fogvatartottak bérkönyvelését, a pénzbeli térítés, jutalom, továbbá a kártérítések és letiltások nyilvántartását és kezelését, a levonások átutalását és a szabadulással összefüggő pénzügyi feladatokat.
+
+(2) A letéti pénzek között elkülönítetten kell kezelni a fogvatartott részére telefonálásra, személyes szükségletre fordítható pénzösszegeket, valamint az ilyen jogcímen a fogvatartott javára beérkezett pénzküldeményt vagy befizetést.

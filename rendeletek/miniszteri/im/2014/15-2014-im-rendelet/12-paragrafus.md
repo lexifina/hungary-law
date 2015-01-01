@@ -1,0 +1,5 @@
+12. § (1) A fogvatartott a bv. intézetet is meghatalmazhatja, hogy a megőrzésre átadott konvertibilis pénznemű külföldi fizetőeszközt, a devizaszámláján fennálló követelést, valamint – ha a forintra történő átváltás lehetséges – a nem konvertibilis pénznemű külföldi fizetőeszközt forintra átváltsa. Az átváltással járó, okmányokkal igazolt költséget a fogvatartott viseli és köteles azt a bv. intézet részére megtéríteni.
+
+(2) A devizaszámlán elhelyezett vagy a megőrzésre átvett külföldi fizetőeszköz forintra történő átváltását a fogvatartottnak írásban kell kérelmeznie. Az átváltást követően, annak bizonylatát a fogvatartottal alá kell íratni.
+
+(3) A devizaszámla nyitásáról és a számlával való rendelkezésről szóló, illetve a külföldi fizetőeszköz átváltásakor kapott – a pénzváltási tevékenységről szóló a 297/2001. (XII. 27.) Korm. rendelet 20. §-a szerinti –, továbbá a bv. intézet által a megőrzésről kiállított bizonylatokat a fogvatartottnak be kell mutatni, aki ezek tudomásulvételét az aláírásával igazolja.
