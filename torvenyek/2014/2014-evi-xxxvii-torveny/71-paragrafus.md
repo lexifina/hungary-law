@@ -1,6 +1,6 @@
 ## 31. A hitelezői feltőkésítést követő helyreállítás és reorganizáció
 
-71. § (1) Ha a szanálási feladatkörében eljáró MNB a hitelezői feltőkésítést alkalmazta egy intézmény vagy 1. § szerinti pénzügyi vállalkozás esetében, akkor a szanálási feladatkörében eljáró MNB hitelezői feltőkésítésre vonatkozó döntésének hatályba lépését követő 30 nappal ezen intézmény vagy pénzügyi vállalkozás reorganizációs tervet készít és benyújtja a szanálási feladatkörében eljáró MNB részére.
+71. § (1) Ha a szanálási feladatkörében eljáró MNB a hitelezői feltőkésítést alkalmazta egy intézmény vagy 1. § szerinti pénzügyi vállalkozás esetében, akkor a szanálási feladatkörében eljáró MNB hitelezői feltőkésítésre vonatkozó döntésének hatálybalépését követő 30 nappal ezen intézmény vagy pénzügyi vállalkozás igazgatósága reorganizációs tervet készít és benyújtja a szanálási feladatkörében eljáró MNB részére.
 
 (2) A reorganizációs terv készítésére és az abban foglaltak megvalósítására a szanálási feladatkörében eljáró MNB kijelölhet egy vagy több természetes személyt, gazdasági társaságot vagy a szanálási biztost. A reorganizációs terv készítőjére is a szanálási biztosra vonatkozó szakmai és összeférhetetlenségi követelményeket kell alkalmazni.
 
@@ -12,7 +12,7 @@ b) az Európai Unió működéséről szóló szerződés 107–109. cikk szerin
 
 közül a hosszabb időtartamot jelöli meg.
 
-(4) Ha a szanálási célok eléréséhez szükséges, akkor az (1) bekezdésben meghatározott határidőt a szanálási feladatkörében eljáró MNB az intézmény vagy az 1. §-ban meghatározott pénzügyi vállalkozás kérelmére 60 nappal meghosszabbíthatja.
+(4) Ha a szanálási célok eléréséhez szükséges, akkor az (1) bekezdésben meghatározott határidőt a szanálási feladatkörében eljáró MNB az intézmény vagy az 1. §-ban meghatározott pénzügyi vállalkozás kérelmére két hónappal meghosszabbíthatja.
 
 (5) Ha a hitelezői feltőkésítést az 57. § (1) bekezdés a) pontja szerint a csoporthoz tartozó két vagy több vállalkozásra alkalmazzák, akkor a reorganizációs tervet az EU-szintű anyavállalatnak kell elkészítenie, amelynek ki kell terjednie a csoport minden tagjára, és azt az EU-szintű anyavállalatnak be kell nyújtania a szanálási hatóságának. Ha az EU-szintű anyavállalat szanálási hatósága a szanálási feladatkörében eljáró MNB, akkor a szanálási feladatkörében eljáró MNB az EU-szintű anyavállalat által benyújtott reorganizációs tervet megküldi a többi érintett szanálási hatóságnak és az EBH-nak.
 

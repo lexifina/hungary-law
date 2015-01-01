@@ -14,11 +14,11 @@ d) áthidaló intézmény vagy eszközelkülönítés alkalmazása esetén infor
 
 e) a szanálási feladatkörében eljáró MNB számára piaci feltétel megállapításához nyújtandó információ a vagyonértékesítés alkalmazása esetén az átruházandó eszközökre, forrásokra, jogokra és kötelezettségekre vagy az intézményben lévő tagsági részesedésekre vonatkozó döntéshez;
 
-f) annak biztosítása, hogy az intézmény eszközeiben bekövetkezett esetleges veszteségeket a szanálási eszközök alkalmazásakor vagy a tőkeelemek leírására vagy átalakítására vonatkozó jogosultság gyakorlása előtt teljes körűen elszámolják.
+f) annak biztosítása, hogy az intézmény eszközeivel kapcsolatos esetleges veszteségeket a szanálási eszközök alkalmazásakor vagy a tőkeelemek leírására vagy átalakítására vonatkozó jogosultság gyakorlása előtt teljes körűen elszámolják.
 
 (3) A független értékelésnek prudens feltételezéseken kell alapulnia, ideértve az eszközök nemteljesítési arányának és a várható veszteségek mértékének meghatározását is.
 
-(4) A független értékeléskor nem tételezhető fel, hogy az intézmény a jövőben rendkívüli állami pénzügyi támogatásban részesül a szanálási intézkedés időpontját követően, illetve azt követően, hogy a tőkeelemek leírására vagy átalakítására vonatkozó jogosultság alkalmazására sor kerül. Ha az intézmény a független értékelést megelőző három hónapban rendkívüli állami támogatásban részesült, akkor annak esetleges értéknövelő hatását figyelmen kívül kell hagyni.
+(4) A független értékeléskor nem tételezhető fel, hogy az intézmény a jövőben rendkívüli állami pénzügyi támogatásban részesül a szanálási intézkedés időpontját követően, illetve azt követően, hogy a tőkeelemek leírására vagy átalakítására vonatkozó jogosultság alkalmazására sor kerül. Ha az intézmény a független értékelést megelőző három hónapban rendkívüli állami pénzügyi támogatásban részesült, akkor annak esetleges értéknövelő hatását figyelmen kívül kell hagyni.
 
 (5) A független értékeléskor figyelembe kell venni, hogy bármelyik szanálási eszköz alkalmazása esetén
 

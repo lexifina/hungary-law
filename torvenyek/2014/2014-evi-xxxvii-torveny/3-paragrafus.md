@@ -144,7 +144,7 @@ f) az a)–e) pontban említett szerződések vagy ügyletek bármelyikére vona
 
 55. szabályozott piac: a tőkepiacról szóló 2001. évi CXX. törvény 5. § (1) bekezdés 114. pontjában meghatározott piac;
 
-56. szanálás alatt álló intézmény: olyan intézmény, amelynek szanálását határozattal elrendelte a szanálási feladatkörében eljáró Magyar Nemzeti Bank vagy valamely más szanálási hatóság;
+56. szanálás alatt álló intézmény: olyan intézmény, amelynek szanálását határozattal elrendelte a szanálási feladatkörében eljáró MNB vagy valamely más szanálási hatóság;
 
 57. szanálási hatóság: szanálási intézkedéseknek megfelelő intézkedés alkalmazására feljogosított EGT-állambeli hatóság;
 
@@ -156,7 +156,7 @@ f) az a)–e) pontban említett szerződések vagy ügyletek bármelyikére vona
 
 61. ügyvezető: a Hpt. 6. § (1) bekezdésében meghatározott fogalom;
 
-62. vagyonértékesítés: a szanálás alatt álló intézmény által kibocsátott tagsági részesedés, illetve a szanálás alatt álló intézmény eszközeinek, forrásainak, jogainak és kötelezettségeinek e törvény szerinti, a szanálási feladatkörében eljáró Magyar Nemzeti Bank általi, áthidaló intézménynek nem minősülő átvevőre történő átruházása;
+62. vagyonértékesítés: a szanálás alatt álló intézmény által kibocsátott tagsági részesedés, illetve a szanálás alatt álló intézmény eszközeinek, forrásainak, jogainak és kötelezettségeinek e törvény szerinti, a szanálási feladatkörében eljáró MNB általi, áthidaló intézménynek nem minősülő átvevőre történő átruházása;
 
 63. vállalkozás: a gazdasági tevékenységet folytató jogi személy, az egyéni cég és az egyéni vállalkozó;
 

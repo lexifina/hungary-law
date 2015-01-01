@@ -14,7 +14,7 @@ a) olyan mértékben megsérti a tevékenységi engedélye fenntartásának a fe
 
 b) vagyona (eszközei) az ismert hitelezők követelésének kielégítésére nem nyújtana fedezetet vagy a rendelkezésre álló, számszerűsíthető adatok (tőkemegfelelőség, jövedelmezőség és portfolióminőség) alapján a közeljövőben, de legkésőbb 12 hónapon belül, valószínűsíthetően ez bekövetkezne, amely miatt a tevékenységi engedélye visszavonásának lenne helye;
 
-c) az intézmény nem vitatott és a pénzügyi szolgáltatásához, kiegészítő pénzügyi szolgáltatásához, a befektetési szolgáltatási tevékenységéhez vagy a befektetési szolgáltatási tevékenységét kiegészítő szolgáltatásához kapcsolódó kötelezettségét nem egyenlíti ki, vagy a rendelkezésre álló, számszerűsíthető adatok (betétfedezeti mutató, mérlegfedezeti mutató, devizafinanszírozási mutató) alapján a közeljövőben, de legkésőbb 12 hónapon belül, valószínűsíthetően ez bekövetkezne; vagy
+c) az intézmény nem vitatott és a pénzügyi szolgáltatásához, kiegészítő pénzügyi szolgáltatásához, a befektetési szolgáltatási tevékenységéhez vagy a befektetési szolgáltatási tevékenységét kiegészítő szolgáltatásához kapcsolódó kötelezettségét nem egyenlíti ki, vagy a rendelkezésre álló, számszerűsíthető adatok (hitelintézetnél betétfedezeti mutató, mérlegfedezeti mutató, devizafinanszírozási mutató) alapján a közeljövőben, de legkésőbb 12 hónapon belül, valószínűsíthetően ez bekövetkezne; vagy
 
 d) az intézmény rendkívüli állami pénzügyi támogatást igényel vagy ilyenben részesül, kivéve, ha ez az állami támogatás az ország gazdaságában keletkező súlyos zavarok kezelését és a pénzügyi stabilitás megőrzését célozza és azt az alábbi formák valamelyikében nyújtják:
 
@@ -28,7 +28,7 @@ dc) piaci magánbefektető elv alapján megvalósuló, állam általi saját tő
 
 a) kizárólag szolvens intézményeknek,
 
-b) az európai uniós versenyjogi előírások szerinti jóváhagyást követően,
+b) az Európai Unió állami támogatásokra vonatkozó keretrendszere szerinti jóváhagyást követően,
 
 c) elővigyázatossági, megelőző jelleggel,
 

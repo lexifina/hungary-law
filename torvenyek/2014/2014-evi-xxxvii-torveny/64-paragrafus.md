@@ -8,7 +8,7 @@ c) ha a szanálási terv alapján bizonyos leírható vagy átalakítható köte
 
 d) az intézmény mérete, tevékenysége, finanszírozási modellje és kockázati profilja figyelembevételével,
 
-e) az OBA hozzájárulási kötelezettségére a szanálási célú felhasználás tekintetében,
+e) az OBA szanálási célú hozzájárulási kötelezettségének lehetséges mértéke,
 
 f) az intézménynek a pénzügyi közvetítőrendszer stabilitását veszélyeztető mértékére tekintettel.
 

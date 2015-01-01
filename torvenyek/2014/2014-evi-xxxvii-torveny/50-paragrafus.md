@@ -10,7 +10,7 @@ c) tulajdonosi jogait az áthidaló intézmény alapítója gyakorolja, és
 
 d) megalapításáról a szanálási feladatkörében eljáró MNB (1) bekezdés szerinti tájékoztatását követő legfeljebb tíz munkanapon belül a Szanálási Alap vagy – a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter javaslatára – a Kormány dönt.
 
-(3) Az áthidaló intézmény akkor kérelmezheti a Felügyelettől a tevékenysége megkezdésének engedélyezését, ha ennek érdekében a szanálási feladatkörében eljáró MNB az áthidaló intézmény
+(3) Az áthidaló intézmény akkor kérelmezheti a Felügyelettől a alapításának engedélyezését, ha ennek érdekében a szanálási feladatkörében eljáró MNB az áthidaló intézmény
 
 a) alapító okiratát jóváhagyta,
 
@@ -22,7 +22,15 @@ d) vezetésének javadalmazását jóváhagyta,
 
 e) stratégiáját és kockázati profilját jóváhagyta.
 
-(4) A (2) bekezdésben meghatározott áthidaló intézmény alapítására adott engedély birtokában az áthidaló intézmény külön engedély nélkül megkezdheti a tevékenységét. Az áthidaló intézmény alapítására adott engedély a vezető állású személyek megválasztásához, kinevezéséhez szükséges engedélyt is tartalmazza.
+(3a) Az áthidaló intézmény alapításakor az alapító nevében
+
+a) a Szanálási Alap nevében a Szanálási Alap képviseletére jogosult személy,
+
+b) az állam nevében a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter
+
+jár el.
+
+(4) A (2) bekezdésben meghatározott áthidaló intézmény alapítására adott engedély birtokában megkezdheti a tevékenységét. Az áthidaló intézmény alapítására adott engedély a vezető állású személyek megválasztásához, kinevezéséhez szükséges engedélyt is tartalmazza.
 
 (5) A (4) bekezdésben meghatározott engedélyére vonatkozó kérelem elbírálásakor a Felügyelet kizárólag az engedélyezés feltételeként meghatározott induló tőke teljes befizetésének megtörténtét, a személyi feltételeket és az üzleti tervet vizsgálja.
 

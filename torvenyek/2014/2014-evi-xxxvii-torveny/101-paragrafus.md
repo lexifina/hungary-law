@@ -14,4 +14,4 @@ d) a biztosítéki megállapodás kiegészítő jogosultságok alkalmazása rév
 
 a) átruházhatja az (1) bekezdésben meghatározott megállapodások részét képező kártalanítási összeghatár alá tartozó betétállományt ugyanazon megállapodás részét képező egyéb eszközök, jogok és kötelezettségek átruházása nélkül, vagy
 
-b) eszközöket, jogokat és kötelezettségeket ruházat át, módosíthat vagy szüntethet meg a betétállomány átruházása nélkül.
+b) eszközöket, jogokat és kötelezettségeket ruházat át, módosíthat vagy szüntethet meg a biztosított betét kártalanítási összeghatár alá eső betétrész-állomány átruházása nélkül.

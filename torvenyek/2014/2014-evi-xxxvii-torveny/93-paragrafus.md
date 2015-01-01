@@ -12,9 +12,9 @@ b) gazdasági társaság.
 
 (4) A (3) bekezdés b) pontja szerinti szanálási biztos kijelöli azt a természetes személyt, aki főfelelősként képviseli a gazdasági társaságot a szanálási biztosi teendők ellátása során.
 
-(5) A szanálási biztos – az MNB előzetes jóváhagyásával – közreműködőt vehet igénybe.
+(5) A szanálási biztos – a szanálási feladatkörében eljáró MNB előzetes jóváhagyásával – közreműködőt vehet igénybe.
 
-(6) A szanálási biztos az MNB által utasítható, és tevékenysége során a szanálási célokat kell érvényre juttatnia.
+(6) A szanálási biztos a szanálási feladatkörében eljáró MNB által utasítható, és tevékenysége során a szanálási célokat kell érvényre juttatnia.
 
 (7) Ha az intézményhez már felügyeleti biztos került kirendelésre, akkor a Felügyelet legkésőbb a szanálási biztos kirendelésével egyidejűleg visszahívja a felügyeleti biztost azzal, hogy a szanálási feladatkörében eljáró MNB ugyanazt a gazdasági társaságot vagy természetes személyt is kirendelheti szanálási biztosnak.
 

@@ -24,15 +24,21 @@
 
 ## 12. a terv által a csoport más intézményeire gyakorolt hatás elemzése;
 
-## 13. a kifizetésekhez, elszámolási szolgáltatásokhoz és egyéb infrastruktúrákhoz történő hozzáférés folytonosságát biztosító lehetőségek leírása;
+## 13. a kifizetésekhez, elszámolási szolgáltatásokhoz és egyéb infrastruktúrákhoz történő hozzáférés folytonosságát biztosító lehetőségek leírása, valamint az ügyfélpozíciók hordozhatóságának értékelése;
 
 ## 14. szanálás esetén a médiával és az állampolgárokkal folytatandó kommunikációt bemutató terv;
 
 ## 15. az intézmény működési eljárásainak folyamatos fenntartását szolgáló lényeges műveletek és rendszerek bemutatása;
 
-## 16. a terv végrehajtásának a munkavállalókra gyakorolt hatása, beleértve a velejáró költségek felmérését;
+## 16. a terv végrehajtásának a munkavállalókra gyakorolt hatása, beleértve a velejáró költségek felmérését, valamint a szanálási eljárás során a munkavállalókkal történő konzultációt szolgáló tervezett eljárások leírása;
 
-## 17. a szanálási intézkedések milyen hatást gyakorolnak az érintett EGT-államokban a pénzügyi közvetítőrendszer stabilitására.
+## 17. a szanálási intézkedések milyen hatást gyakorolnak az érintett EGT-államokban a pénzügyi közvetítőrendszer stabilitására;
+
+## 18. a szavatoló tőkére, leírható vagy átalakítható kötelezettségre vonatkozó minimumkövetelmény, és adott esetben a minimumkövetelmény teljesítésének határideje;
+
+## 19. adott esetben a szavatoló tőkére és a hitelezői feltőkésítésbe szerződéses kikötés alapján bevonható eszközökre vonatkozó minimumkövetelmény, és adott esetben a minimumkövetelmény teljesítésének határideje;
+
+## 20. adott esetben az intézmény szanálási tervvel kapcsolatos véleménye.
 
 ## B) A csoportszintű szanálási tervben:
 

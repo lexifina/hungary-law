@@ -12,7 +12,7 @@
 
 (2) A szanálási célok a következők:
 
-a) az állam által bármilyen formában nyújtható rendkívüli pénzügyi támogatás szükségességének és felhasználásának minimalizálása révén a közpénzek védelme;
+a) a bármilyen formában nyújtható rendkívüli állami pénzügyi támogatás szükségességének és felhasználásának minimalizálása révén a közpénzek védelme;
 
 b) a kritikus funkciók ellátásbeli folytonosságának biztosítása;
 

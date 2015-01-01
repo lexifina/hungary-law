@@ -1,4 +1,4 @@
-139. § (1) A hitelintézetek által fizetendő alapdíjat a hitelintézet a tárgyévet megelőző év december 31-én fennálló biztosított betétekkel csökkentett (szavatoló tőke nélküli) kötelezettségei összegének és a magyarországi székhelyű intézmények összesített (aggregált), biztosított betétekkel csökkentett (szavatoló tőke nélküli) kötelezettsége összegének az aránya alapján kell megállapítani.
+139. § (1) A hitelintézetek által fizetendő alapdíjat a hitelintézet a tárgyévet megelőző év december 31-én fennálló kártalanítási összeghatár alá eső betétekkel csökkentett (szavatoló tőke nélküli) kötelezettségei összegének és a magyarországi székhelyű intézmények összesített (aggregált), biztosított betétek kártalanítási összeghatár alá eső betétrészekkel csökkentett (szavatoló tőke nélküli) kötelezettsége összegének az aránya alapján kell megállapítani.
 
 (2) A hitelintézetek esetében a kockázat alapú változó díj megállapításakor az alábbi szempontokra kell figyelemmel lenni:
 

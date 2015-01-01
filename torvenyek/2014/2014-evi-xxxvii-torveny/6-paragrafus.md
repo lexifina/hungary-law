@@ -1,4 +1,4 @@
-6. § (1) Az intézmény – adatszolgáltatás keretében – a szanálási feladatkörében eljáró MNB rendelkezésére bocsátja a szanálási terv készítéséhez szükséges adatokat.
+6. § (1) Az intézmény – adatszolgáltatás keretében – a szanálási feladatkörében eljáró MNB rendelkezésére bocsátja a szanálási terv készítéséhez, valamint felülvizsgálatához szükséges adatokat.
 
 (2) A szanálási feladatkörében eljáró MNB az intézménytől nem kérhet olyan adatot, amely a Felügyelet, a jegybanki feladatkörében eljáró MNB vagy a makroprudenciális feladatkörében eljáró MNB rendelkezésére áll.
 

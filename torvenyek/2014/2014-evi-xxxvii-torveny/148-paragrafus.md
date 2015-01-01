@@ -18,4 +18,4 @@ készíti el, amely kötelezettség teljesítése nem érinti azt a jogát, hogy
 
 (5) A független értékelők névjegyzékének (4) bekezdés szerinti létrejöttéig a 24. § szerinti értékelő az lehet, aki megfelel a független értékelőkre vonatkozó szakmai és összeférhetetlenségi feltételeknek.
 
-(6) A 62. §-tól eltérően 2015. június 15-ig terjedő időszakra az MNB elnöke rendeletben határozza meg a 4. § (1) bekezdése szerinti intézmények vonatkozásában a szavatoló tőkére, leírható és átalakítható kötelezettségekre vonatkozó minimumkövetelményeket.
+(6)

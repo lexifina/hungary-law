@@ -30,6 +30,8 @@ g) a tulajdonosoknak vagy a hitelezőknek a 98. §-sal összhangban fizetendő k
 
 h) a fiskális semlegesség 128. § szerinti teljesülésének biztosítása;
 
-i) az a)–h) pontban említett intézkedések bármely kombinációja.
+i) az a)–h) pontban említett intézkedések bármely kombinációja;
+
+j) az Alap működtetésével közvetlenül összefüggő költségek.
 
 (4) Az Alap a vagyonértékesítési eszköz alkalmazása során a (3) bekezdés a)–d) pontban említett intézkedésekhez az átvevő tekintetében is igénybe vehető.

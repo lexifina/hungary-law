@@ -8,6 +8,8 @@ b) a szanálási feladatkörében eljáró MNB elnöke által kijelölt két sze
 
 c) az OBA ügyvezető igazgatója.
 
+(1a) Az igazgatótanács tagja – az igazgatótanács jóváhagyásával – írásban állandó helyettest nevezhet ki, aki a tag távollétében teljes döntési joggal vesz részt az igazgatótanács ülésein.
+
 (2) Az igazgatótanácsban az elnöki jogokat a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által kijelölt személy gyakorolja.
 
 (3) A Beva ügyvezető igazgatója meghívottként, tanácskozási joggal részt vesz az igazgatótanácsi üléseken.

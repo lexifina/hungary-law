@@ -14,7 +14,7 @@ bb) vagyonértékesítési vagy eszközelkülönítési eljárás keretében.
 
 a) a szanálás alatt álló intézménynél alkalmazott hitelezői feltőkésítés teljesíti a szanálási célokat és az intézkedéstől várható az intézmény pénzügyi helyzetének rendeződése, valamint
 
-b) a reorganizációs tervvel összhangban biztosítottá válik az intézmény szolvenciájának (mindenkori fizetőképességének) teljesülése, pénzügyi stabilitása és hosszú távú működési képessége.
+b) ésszerűen valószínűsíthető, hogy egy reorganizációs terv végrehajtásával biztosítottá válhat az intézmény szolvenciájának (mindenkori fizetőképességének) teljesülése, pénzügyi stabilitása és hosszú távú működési képessége.
 
 (3) Ha a (2) bekezdésben foglalt feltételek nem teljesülnek, akkor a szanálási feladatkörében eljáró MNB kizárólag a 34. § (1) bekezdés a)–c) pontja szerinti szanálási eszközt alkalmazhatja, vagy az (1) bekezdés b) pontja szerinti intézkedéssel élhet.
 

@@ -14,7 +14,9 @@ e) az azonos hitelezői osztályba tartozó hitelezők azonos elbánásban rész
 
 f) egyetlen tulajdonos vagy hitelező sem viselhet annál nagyobb – a szanálási intézkedések alkalmazásával közvetlenül összefüggő – veszteséget, mint amelyet akkor viselt volna, ha az intézményt felszámolják; és
 
-g) a szanálási intézkedést az e törvényben foglalt biztosítékokkal összhangban kell alkalmazni.
+g) a szanálási intézkedést az e törvényben foglalt biztosítékokkal összhangban kell alkalmazni;
+
+h) a biztosított betét kártalanítási összeghatár alá eső betétrészének teljes védelemben kell részesülnie.
 
 (2) Az intézmény vezetése és könyvvizsgálója köteles együttműködni a szanálási feladatkörében eljáró MNB-vel a szanálási célok elérése érdekében.
 

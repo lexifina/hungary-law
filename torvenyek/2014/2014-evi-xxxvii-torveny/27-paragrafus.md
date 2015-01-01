@@ -70,6 +70,6 @@ d) az f) pont tekintetében a pénz-, tőke- és biztosítási piac szabályozá
 
 e) a g) pont tekintetében az OBA, ha az a)–d) pont valamelyike tekintetében a szanálási feladatkörében eljáró MNB a szanálási hatóság.
 
-(6) Ha a csoporthoz tartozik olyan leányvállalat vagy jelentős fióktelep, amelynek székhelye harmadik országban van vagy amelyet harmadik országban létesítettek, akkor ezen leányvállalat vagy jelentős fióktelep szanálási hatóságait – kérelmükre – a szanálási feladatkörében eljáró MNB, ha ő a csoportszintű szanálási hatóság meghívja megfigyelőnek a szanálási kollégium megbeszéléseire, ha a 125. § szerinti feltételek teljesülnek.
+(6) Ha a csoporthoz tartozik olyan leányvállalat vagy jelentős fióktelep, amelynek székhelye harmadik országban van vagy amelyet harmadik országban létesítettek, akkor ezen leányvállalat vagy jelentős fióktelep érintett harmadik országbeli hatóságát – kérelmére – a szanálási feladatkörében eljáró MNB, ha ő a csoportszintű szanálási hatóság, meghívja megfigyelőnek a szanálási kollégium megbeszéléseire, ha a 125. § szerinti feltételek teljesülnek.
 
 (7) A szanálási kollégium üléseire a szanálási feladatkörében eljáró MNB, ha ő a csoportszintű szanálási hatóság, meghívja az EBH-t azzal, hogy az EBH szavazati jog nélkül javaslatokat tehet a szanálási kollégium hatékony, eredményes és következetes működése érdekében.

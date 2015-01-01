@@ -20,6 +20,6 @@ a) legalább évenkénti rendszerességgel, vagy
 
 b) a csoportban lévő bármely vállalkozásban, annak tevékenységében vagy pénzügyi helyzetében bekövetkezett, szanálási terv szempontjából jelentős változás esetén.
 
-(5) A (4) bekezdésben meghatározott eljárás során a szanálási feladatkörében eljáró MNB bevonja a konzultációba a harmadik országban székhellyel rendelkező leányvállalat, 1. § (1) bekezdés szerinti pénzügyi vállalkozás vagy jelentős fióktelep szanálási hatóságát, ha a harmadik országbeli szanálási hatóság tekintetében teljesülnek a 105. § szerinti feltételek.
+(5) A (4) bekezdésben meghatározott eljárás során a szanálási feladatkörében eljáró MNB bevonja a konzultációba a harmadik országban székhellyel rendelkező leányvállalat, 1. § (1) bekezdés szerinti pénzügyi vállalkozás vagy jelentős fióktelep szanálási hatóságát, ha az érintett harmadik országbeli hatóság tekintetében teljesülnek a 125. § szerinti feltételek.
 
 (6) Ha a csoportszintű szanálási hatóság nem a szanálási feladatkörében eljáró MNB, de az illetékességébe tartozik olyan intézmény, 1. § (1) bekezdése szerinti pénzügyi vállalkozás vagy jelentős fióktelep, amely a csoportszintű szanálási terv tekintetében érintett, akkor a szanálási feladatkörében eljáró MNB együttműködik a csoportszintű szanálási hatósággal.
