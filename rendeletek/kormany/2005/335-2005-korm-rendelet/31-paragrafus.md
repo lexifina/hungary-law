@@ -1,6 +1,6 @@
 ## 30. § A küldemény felbontásakor ellenőrizni kell a jelzett mellékletek meglétét és olvashatóságát. Az esetlegesen felmerülő problémák tényét rögzíteni kell, és erről tájékoztatni kell a küldőt is.
 
-31. §[^44] (1) Az elektronikusan érkezett küldeményt megnyithatóság (olvashatóság) szempontjából ellenőrizni kell.
+31. §[^46] (1) Az elektronikusan érkezett küldeményt megnyithatóság (olvashatóság) szempontjából ellenőrizni kell.
 
 (2) Ha az elektronikus irat benyújtása kizárólag a közfeladatot ellátó szerv által az elektronikus tájékoztatásra vonatkozó szabályok alapján közzétett formátumban lehetséges, és a benyújtott elektronikus irat:
 
@@ -42,4 +42,4 @@ c) egyéb esetben papír alapon
 
 (9) A (4) és (6)–(7) bekezdés szerinti küldeményeket nem kell iktatni.
 
-[^44]: A 31. § a 196/2013. (VI. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^46]: A 31. § a 196/2013. (VI. 13.) Korm. rendelet 17. §-ával megállapított szöveg.

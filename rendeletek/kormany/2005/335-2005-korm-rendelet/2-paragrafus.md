@@ -12,6 +12,12 @@
 
 5. csatolás: iratok, ügyiratok átmeneti jellegű összekapcsolása;
 
+5a.[^5] egységes kormányzati ügyiratkezelő rendszer: az iratkezelés e rendeletben meghatározott egyes fázisainak elvégzésére irányuló szolgáltatások, informatikai, technológiai és személyi feltételek összessége, amelyben a Kormány által arra kijelölt működtető szerv és szolgáltató biztosítja:
+
+a) a postai úton érkező, papíralapú küldemények átvételét, felbontását, érkeztető azonosítóval történő ellátását, a küldemények hiteles elektronikus irattá történő átalakítását, érkeztető nyilvántartásba való bevezetését, a címzett részére elektronikus úton történő megküldését,
+
+b) elektronikus irat hiteles papíralapú irattá történő alakítására irányuló szolgáltatást;
+
 6. elektronikus archiválás: elektronikus iktatókönyvek és adatállományaik, valamint elektronikus dokumentumok hosszú távú biztonságos és olvashatóságát biztosító megőrzése elektronikus adathordozón;
 
 7. elektronikus érkeztető nyilvántartás: elektronikus iratkezelés esetén az iratkezelési szoftver azon szolgáltatás-együttese, amely az érkeztetési információk rögzítését, megőrzését és visszakereshetőségét biztosítja;
@@ -109,3 +115,4 @@
 53. ügykör: a szerv vagy személy feladat- és hatáskörébe tartozó ügyek meghatározott csoportja.
 
 [^4]: A 2. § a 196/2013. (VI. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. § 5a. pontját a 323/2014. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
