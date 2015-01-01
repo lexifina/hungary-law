@@ -12,4 +12,4 @@ c) tulajdonjoga az életjáradékra jogosultaktól megvásárolt valamennyi inga
 
 d) az életjáradék nyújtójának piaci értékét független, nemzetközileg elismert könyvvizsgáló értékelő meghatározta, és a vételár ezt az értéket nem haladja meg.
 
-(2) Ha a lakóingatlanban életjáradékra jogosult lakik, a Nemzeti Eszközkezelő vagyonkezelése során a bentlakó részére az életjáradéki szerződés szabályai szerinti ingyenes lakáshasználatot köteles biztosítani és csak e használat megszűnését követően jogosult a 7. § (2) bekezdése szerinti jogosultságait gyakorolni.
+(2)
