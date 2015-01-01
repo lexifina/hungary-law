@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-86-00-00
 | 2013-08-01 | 2013. évi CIII. törvény | 2012-86-00-00.6 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2012-86-00-00.7 |
 | 2014-07-01 | 2013. évi CCXLV. törvény | 2012-86-00-00.8 |
+| 2015-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-86-00-00.9 |
