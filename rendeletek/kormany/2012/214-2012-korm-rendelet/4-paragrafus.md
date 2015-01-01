@@ -12,7 +12,7 @@ c) akivel szemben nem áll fenn kizáró ok.
 
 (3) Jogvédelmi képviselő lehet
 
-a) jogász, általános orvos, pszichológus, szociális munkás, gyógypedagógus, teológus, illetve kommunikációs szakon szerzett szakképzettségű személy,
+a)[^10] jogász, általános orvos, pszichológus, szociális munkás, gyógypedagógus, teológus, illetve kommunikációs szakon szerzett szakképzettségű, továbbá az okleveles közgazdász végzettséggel rendelkező személy,
 
 továbbá az a) pontban foglaltakon túl
 
@@ -20,7 +20,7 @@ b) betegjogi képviselő lehet fogorvos, gyógyszerész, egyetemi szintű okleve
 
 c) ellátottjogi képviselő lehet szociológus, szociálpolitikus, szociális szervező, szociálpedagógus, államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettségű, egészségügyi felsőoktatásban szerzett szakképzettségű személy, hittan tanár, hittanár, bölcsész, andragógus,
 
-d) gyermekjogi képviselő lehet pedagógus, gyermek- és ifjúságvédelmi szakokleveles vagy jogi szakokleveles családvédelmi tanácsadó oklevéllel rendelkező védőnő, pszichopedagógus, bölcsész, szociológus, szociálpolitikus, szociálpedagógus, szociális szervező szakképzettségű személy, hittan tanár és hittanár.
+d)[^11] gyermekjogi képviselő lehet pedagógus, gyermek- és ifjúságvédelmi szakokleveles vagy jogi szakokleveles családvédelmi tanácsadó oklevéllel rendelkező védőnő, pszichopedagógus, bölcsész, szociológus, szociálpolitikus, szociálpedagógus, szociális szervező szakképzettségű személy, hittan tanár és hittanár, továbbá az államigazgatási és szociális igazgatási felsőoktatásban szakképzettséget szerzett személy.
 
 (4) A (2) bekezdés a) pontjának alkalmazásában szakmai gyakorlaton
 
@@ -50,6 +50,8 @@ f) a pályázati eljárásra, a pályázat elbírálásának módjára és hatá
 
 g) a pályázathoz csatolandó dokumentumok felsorolását.
 
-(7)[^10]
+(7)[^12]
 
-[^10]: A 4. § (7) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^10]: A 4. § (3) bekezdés a) pontja a 364/2014. (XII. 30.) Korm. rendelet 104. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § (3) bekezdés d) pontja a 364/2014. (XII. 30.) Korm. rendelet 104. § b) pontja szerint módosított szöveg.
+[^12]: A 4. § (7) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 4. §-a hatályon kívül helyezte.

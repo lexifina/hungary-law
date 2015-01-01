@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-214-20-
 | 2013-11-13 | 2012-214-20-22.8 | 393/2013. (XI. 12.) Korm. rendelet |
 | 2014-01-01 | 2012-214-20-22.9 | 520/2013. (XII. 30.) Korm. rendelet |
 | 2014-09-05 | 2012-214-20-22.10 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2015-01-01 | 2012-214-20-22.11 | 364/2014. (XII. 30.) Korm. rendelet |
