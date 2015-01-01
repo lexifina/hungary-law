@@ -10,7 +10,7 @@ a) a 8. § (1) bekezdése szerinti gyakorlati képzési normatívák mértékét
 
 b) a szakiskolai tanulmányi ösztöndíjjal, az ösztöndíj folyósításával kapcsolatban felmerült költségek térítésével, valamint az ösztöndíjban részesülő és tanulási nehézségekkel küzdő tanulók felzárkóztató oktatását végző tanárok díjazásával kapcsolatos szabályokat,
 
-c) az alaprészből a 14. § alapján nyújtott támogatások mértékére, feltételeire, folyósítására, elszámolására és ellenőrzésére vonatkozó szabályokat.
+c)
 
 (2) Felhatalmazást kap a szakképzésért és felnőttképzésért felelős miniszter, hogy – az államháztartásért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben, az oktatásért felelős miniszter és a szakképesítésért felelős miniszter véleményének kikérésével – rendeletben állapítsa meg
 
@@ -20,4 +20,6 @@ b) az alaprészből felnőttképzési célra nyújtott támogatások részletes 
 
 c) a 31. § (2) bekezdése szerinti adatszolgáltatás részletes szabályait,
 
-d) a saját munkavállalók képzésére vonatkozó költségek elszámolásának részletes szabályait.
+d) a saját munkavállalók képzésére vonatkozó költségek elszámolásának részletes szabályait,
+
+e) az alaprészből a 14. § alapján nyújtott támogatások mértékére, feltételeire, folyósítására, elszámolására és ellenőrzésére vonatkozó szabályokat.

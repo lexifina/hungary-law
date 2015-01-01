@@ -4,7 +4,7 @@
 
 12. § A Nemzeti Foglalkoztatási Alap képzési alaprészének (a továbbiakban: alaprész) éves költségvetési törvényben meghatározott „Szakképzési és felnőttképzési támogatások” elnevezésű eredeti kiadási előirányzata tartalmazza:
 
-a) a Kormány döntésén alapuló,
+a) a szakképzésért és felnőttképzésért felelős miniszter döntésén alapuló,
 
 aa) a 14. § szerinti támogatásra,
 

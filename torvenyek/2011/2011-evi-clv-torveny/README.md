@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-155-00-00
 | 2013-07-01 | 2013. évi CIII. törvény | 2011-155-00-00.7 |
 | 2014-01-01 | 2013. évi CC. törvény | 2011-155-00-00.8 |
 | 2014-01-02 | 2010. évi CXXX. törvény | 2011-155-00-00.9 |
+| 2015-01-01 | 2014. évi XCIX. törvény | 2011-155-00-00.10 |
