@@ -15,3 +15,5 @@ d) az eljárás folytatására a tanács megítélése szerint bármely okból �
 (4) A tanács az ügy érdemében szótöbbséggel dönt.
 
 (5) A tanács az eljárást az annak megindulását követő kilencven napon belül befejezi, indokolt esetben ezt a határidőt a Pénzügyi Békéltető Testület elnöke legfeljebb harminc nappal meghosszabbíthatja.
+
+(6) A Pénzügyi Békéltető Testület évente két alkalommal, július, illetve augusztus, valamint december hónapban 8–15 munkanap eljárási szünetet tart, amely időtartam az eljárási határidőkbe nem számítható be. Az eljárási szünet pontos idejét a Pénzügyi Békéltető Testület elnöke évente határozza meg és a Pénzügyi Békéltető Testület honlapján közzéteszi.

@@ -1,1 +1,1 @@
-123. § A Pénzügyi Békéltető Testület eljárására vonatkozó, a törvény keretei között kialakított részletes szabályokat a Pénzügyi Békéltető Testület működési rendje tartalmazza.
+123. § A Pénzügyi Békéltető Testület döntéseihez az adott ügyben független, jogi egyetemi diplomával és szakvizsgával rendelkező jogász vagy közgazdasági egyetemi diplomával rendelkező közgazdász állásfoglalását szerezheti be, az eljárására vonatkozó részletes szabályokat az e törvény keretei között kialakított működési rendje tartalmazza.

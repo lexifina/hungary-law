@@ -14,7 +14,7 @@ d) a felügyeleti munka hatékonyságának növelését;
 
 e) a tagállamok esetleges eltérő szabályozására is figyelemmel, a prudenciális követelmények következetes alkalmazását mindazon vállalkozások tekintetében, amelyekre az összevont alapú felügyelet együttesen kiterjed;
 
-f) a Hpt. 96/C. § (11) bekezdése szerinti együttműködést.
+f) a Hpt. 176. § (4) bekezdése szerinti együttműködést.
 
 (3) A felügyeleti kollégium az MNB és a többi érintett tagállam hatáskörrel rendelkező pénzügyi felügyeleti hatóságainak konzultációját követően, az MNB által kidolgozott írásbeli megállapodás alapján jön létre és működik. Az MNB a felügyeleti kollégiumban való részvételre az érintett EU-szintű hitelintézeti anyavállalat, EU-szintű befektetési vállalkozás anyavállalat, EU-szintű biztosítói anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalatát felügyelő hatóságokat, az érintett – külön törvényben meghatározott – rendszerszinten jelentős fióktelepeket felügyelő hatáskörrel rendelkező hatóságokat, szükség szerint az érintett központi bankokat és az összevont alapú vagy pénzügyi konglomerátum szintű kiegészítő felügyeléshez kapcsolódóan adott esetben a harmadik érintett ország hatáskörrel rendelkező hatóságait kérheti fel.
 

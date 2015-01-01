@@ -6,7 +6,7 @@
 
 (4) A Monetáris Tanács 9. § (4) bekezdésének c) pontja szerinti tagja bejelentési kötelezettség mellett létesíthet olyan további munkaviszonyt vagy munkavégzésre irányuló további jogviszonyt, amely nem eredményez összeférhetetlenséget a monetáris tanácsi tagságával.
 
-(5) A Monetáris Tanács tagja létesíthetnek tudományos, oktatási, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet jelentő munkavégzésre irányuló egyéb jogviszonyt, amelyet annak létesítése előtt kötelesek bejelenteni.
+(5) A Monetáris Tanács tagjai létesíthetnek tudományos, oktatási, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet jelentő munkavégzésre irányuló egyéb jogviszonyt és nevelőszülői foglalkoztatási jogviszonyt, amelyet annak létesítése előtt kötelesek bejelenteni.
 
 (6) A Monetáris Tanács 9. § (4) bekezdés a) és b) pontja szerinti tagja a 152. §-ban és az (5) bekezdésben foglalt bejelentési, és nyilatkozattételi kötelezettségének a köztársasági elnöknél, a Monetáris Tanács 9. § (4) bekezdés c) pontja szerinti tagja a 152. §-ban, valamint a (4) és (5) bekezdésben foglalt bejelentési és nyilatkozattételi kötelezettségének az Országgyűlés elnökénél tesz eleget.
 

@@ -24,7 +24,9 @@ d) (4) bekezdése a Közösségben történő határokon átnyúló fizetésekr�
 
 e) (5) bekezdése a hitelminősítő intézetekről szóló 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése és 25a. cikke,
 
-f) (8) bekezdése a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelete
+f) (8) bekezdése a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelete,
+
+g) (16) bekezdése a 909/2014/EU rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 

@@ -1,4 +1,4 @@
-154. § (1) Az MNB-nek a 9. § hatálya alá nem tartozó alkalmazottja munkaviszonyt, munkavégzésre irányuló egyéb jogviszonyt csak az MNB elnökének előzetes engedélyével létesíthet vagy tarthat fenn, kivéve a tudományos, oktatási, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet, amelyet köteles bejelenteni.
+154. § (1) Az MNB-nek a 9. § hatálya alá nem tartozó alkalmazottja munkaviszonyt, munkavégzésre irányuló egyéb jogviszonyt csak az MNB elnökének előzetes engedélyével létesíthet vagy tarthat fenn, kivéve a tudományos, oktatási, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet és a nevelőszülői foglalkoztatási jogviszonyt, amelyet köteles bejelenteni.
 
 (2) Az MNB-nek a 152. és a 153. § hatálya alá nem tartozó alkalmazottja
 
