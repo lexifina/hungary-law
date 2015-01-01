@@ -1,4 +1,4 @@
-## 9. §[^16]
+## 9. § A megelőző év közszolgáltatásáról a közszolgáltató a 6. mellékletben meghatározott statisztikai adatlapot, az ott meghatározott tartalommal, minden év március 31-ig a településüzemeltetésért felelős miniszternek megküldi.
 
 ## 8. Az ingatlan tulajdonosára és használójára vonatkozó, a közszolgáltató feladatainak ellátását biztosító feltételek
 
@@ -17,5 +17,3 @@ e) az égéstermék-elvezető kiégetése alkalmával az alsó tisztítónyílá
 f) az 5. § (4) bekezdésében meghatározott dokumentumokat,
 
 g) a CO méréshez szükséges mérőnyílás hiányában annak kialakítását vagy kialakításának lehetőségét.
-
-[^16]: A 9. § a 12. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
