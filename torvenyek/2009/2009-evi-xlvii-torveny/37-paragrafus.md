@@ -12,6 +12,6 @@ d) a büntetés-végrehajtási intézetbe, valamint a rendőrségi fogdába befo
 
 e) a személyazonosság igazolásának megtagadása esetén az igazoltatott, valamint
 
-f) a 33/A. § (3) bekezdésében meghatározott feltételek fennállása esetén a külföldi bíróság által elítélt
+f) a 33/A. § (6) bekezdésében meghatározott feltételek fennállása esetén a külföldi bíróság által elítélt
 
 személy azonosítása.

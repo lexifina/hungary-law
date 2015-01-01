@@ -28,6 +28,6 @@ a) a rendőrség a személyazonosság igazolásának megtagadása esetén az iga
 
 b) a büntetés-végrehajtási intézet a befogadás során a befogadott személy azonosítása,
 
-c) a bűnügyi nyilvántartó szerv a 33/A. § (3) bekezdésében meghatározott esetben, külföldi bíróság által elítélt személy személyazonosságának megállapítása
+c) a bűnügyi nyilvántartó szerv a 33/A. § (6) bekezdésében meghatározott esetben, külföldi bíróság által elítélt személy személyazonosságának megállapítása
 
 céljából jogosult.

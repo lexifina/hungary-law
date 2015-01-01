@@ -14,4 +14,4 @@ c) akinek katonai bűncselekménye miatt a katonai ügyész a feljelentést elut
 
 (3) Az érintett arcképmását az a nyomozó hatóság vagy ügyészség küldi meg a bűnügyi nyilvántartó szervnek, amelyik a gyanúsítottat büntetőeljárás alá vonta.
 
-(4) Akivel szemben magánvádas bűncselekmény miatt előterjesztett magánindítvány alapján vagy pótmagánvádló vádindítványa alapján indult eljárásban a bíróság végrehajtandó szabadságvesztés büntetést szabott ki, és az ítélet jogerőre emelkedett, annak az arcképmását a büntetés-végrehajtási intézet az érintett befogadását követően haladéktalanul megküldi a bűnügyi nyilvántartó szervnek.
+(4) A bűncselekmény miatt jogerősen végrehajtandó szabadságvesztés büntetésre ítélt személy arcképmását az elítéltet befogadó büntetés-végrehajtási intézet az érintett befogadását követően megküldi a bűnügyi nyilvántartó szervnek.

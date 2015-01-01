@@ -52,13 +52,13 @@ m) a szakrendszeri azonosító kódot.
 
 (2) A büntetés-végrehajtási adatok közül a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása tartalmazza
 
-a) a szabadságvesztés vagy az elzárás előjegyzett kezdő napját, foganatba vételének (a befogadásnak, illetve a szabadságvesztés vagy az elzárás megkezdésének) napját, valamint a szabadságvesztés vagy az elzárás előjegyzett utolsó napját,
+a) a szabadságvesztés vagy az elzárás előjegyzett kezdő napját, a befogadás napját, illetve a szabadságvesztés vagy az elzárás végrehajtása megkezdésének napját, a szabadságvesztés vagy az elzárás kitöltésének előjegyzett utolsó napját, a szabadságvesztés vagy az elzárás kitöltésének utolsó napját,
 
-b) a feltételes szabadságra bocsátás napját, a feltételes szabadság leteltének napját, a feltételes szabadság megszüntetésének tényét, pártfogó felügyelet elrendelése esetén az eljárt bíróság megnevezését, határozatának számát és keltét, a pártfogó felügyelet időtartamát,
+b) a feltételes szabadságra bocsátás legkorábbi időpontját vagy azt a tényt, hogy a feltételes szabadságra bocsátás kizárt, a feltételes szabadság kezdőnapját és leteltének napját, a feltételes szabadság megszüntetésének tényét, napját és az eljárt bíróság megnevezését, határozatának számát, keltét és jogerőre emelkedésének napját, pártfogó felügyelet elrendelése esetén az eljárt bíróság megnevezését, határozatának számát, keltét és jogerőre emelkedésének napját, a pártfogó felügyelet időtartamát,
 
-c) a büntetés félbeszakítása esetén az eljárt hatóság megnevezését, határozatának számát és keltét, a félbeszakítás időtartamát, a jogellenesen a büntetés-végrehajtási intézeten kívül töltött időtartamot,
+c) a büntetés félbeszakítása esetén az engedélyező megnevezését, határozatának számát és keltét, a félbeszakítás kezdő napját, a félbeszakítás leteltének napját, a félbeszakítás meghosszabbítása esetén a meghosszabbítás leteltének napját, a jogellenesen büntetés-végrehajtási intézeten kívül töltött időtartam kezdőnapját és leteltének napját, a büntetés végrehajtása megszakításának kezdő és folytatásának kezdő napját,
 
-d) a szabadon bocsátás napját,
+d) a szabadon bocsátás és a büntetés-végrehajtási intézetből történő tényleges és végleges távozás napját,
 
 e) a javítóintézeti nevelés megkezdésének napját,
 
@@ -72,7 +72,7 @@ i) a pénzbüntetés teljesítésének napját,
 
 j) a közérdekű munka vagy a pénzbüntetés szabadságvesztésre, valamint a pénzbüntetés közérdekű munkára történő átváltoztatásáról szóló határozat számát és jogerőre emelkedésének napját, az eljárt bíróság megnevezését és az így kiszabott büntetés mértékét,
 
-k) a közügyektől eltiltás, a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kiutasítás, a kitiltás, a sportrendezvények látogatásától való eltiltás leteltének napját, e büntetések végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát,
+k) a közügyektől eltiltás, a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kiutasítás, a kitiltás, a sportrendezvények látogatásától való eltiltás leteltének napját, a járművezetéstől eltiltás végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát,
 
 l) a jóvátételi munka igazolásának napját,
 

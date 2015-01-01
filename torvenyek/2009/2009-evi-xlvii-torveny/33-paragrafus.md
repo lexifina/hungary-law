@@ -16,7 +16,7 @@ b) az ítélet ügyiratszámát,
 
 c) a bűncselekmény elkövetésének helyét,
 
-d) az érintett személyi azonosítóját, ennek hiányában személyazonosító okmánya típusát és számát,
+d) az érintett külföldi személyi azonosítóját, ennek hiányában személyazonosító okmánya típusát és számát,
 
 e) az érintett ujjnyomatát,
 

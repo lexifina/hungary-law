@@ -2,9 +2,9 @@
 
 68. § (1) Elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) a bűnügyi nyilvántartási rendszerben kezelt adatok teljes körét jogosult átvenni
 
-a) a bíróság büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
+a) a bíróság büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából,
 
-b) a nyomozó hatóság és az ügyészség bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása,
+b) a nyomozó hatóság és az ügyészség bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából,
 
 c) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 
@@ -12,7 +12,9 @@ d) a rendőrségről szóló törvényben meghatározott terrorizmust elhárít�
 
 e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése és felderítése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából,
 
-f) a Nemzetközi Bűnügyi Együttműködési Központ a 84. § b) pontjában meghatározott feladatai ellátása céljából.
+f) a Nemzetközi Bűnügyi Együttműködési Központ a 84. § b) pontjában meghatározott feladatai ellátása céljából,
+
+g) a szervezett bűnözés elleni koordinációs központ az utasadatok kockázatelemzése céljából.
 
 (2) A rendőrség jogosult közvetlen hozzáféréssel átvenni a következő adatokat:
 
@@ -32,57 +34,63 @@ bb) a 16. § (1) bekezdés c), f), i) pontjában, a 16. § (2) bekezdés k) pont
 
 c) a közrendvédelmi, valamint határrendészeti feladatainak ellátása során a kényszerintézkedések végrehajtása ellenőrzése céljából a 28. § b) és c) pontjában meghatározott adatok;
 
-d) a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
+d) a vagyonvédelmi rendszert tervező és szerelő tevékenység, valamint a magánnyomozói tevékenység ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
 
-da) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
+da) a 11. § (1) bekezdés ca), cb), cf) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
-db) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
+db) a 16. § (1) bekezdés ca), cb), cf) alpontjában, f), g), i), k) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
 
 dc) a 23. § c), f) és g) pontjában meghatározott adatok;
 
-e) a légi közlekedés biztonságának ellenőrzése céljából
+e) a rendészeti feladatokat ellátó személyek és a személy- és vagyonvédelmi tevékenység ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
 
-ea) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
+ea) a 11. § (1) bekezdés c) pont ca), cb), cf) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok, valamint
 
-eb) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
+eb) a 16. § (1) bekezdés c) pont ca), cb), cf) alpontjában, f), g), i), k) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok;
 
-ec) a 23. § c), f) és g) pontjában meghatározott adatok;
+f) a légi közlekedés biztonságának ellenőrzése céljából
 
-f) külön törvényben meghatározott nukleáris létesítményben, továbbá a nukleáris létesítmény hatósági ellenőrzésével, a létesítmény tervezésével, építésével, üzemeltetésével, átalakításával, a nukleáris berendezések karbantartásával, a nukleáris anyag felhasználásával, tárolásával, szállításával és a szállítmányok kísérésével összefüggő munkakörökben történő foglalkoztatás közbiztonsági feltételeinek ellenőrzésére irányuló eljárás során
+fa) a 11. § (1) bekezdés c) pont ca), cb) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
-fa) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában meghatározott adatok,
-
-fb) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában meghatározott adatok, valamint
+fb) a 16. § (1) bekezdés c) pont ca), cb) alpontjában, f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
 
 fc) a 23. § c), f) és g) pontjában meghatározott adatok;
 
-g) a fegyveres biztonsági őr tevékenységének ellátását kizáró közbiztonsági feltételek ellenőrzése céljából
+g) külön törvényben meghatározott nukleáris létesítményben, továbbá a nukleáris létesítmény hatósági ellenőrzésével, a létesítmény tervezésével, építésével, üzemeltetésével, átalakításával, a nukleáris berendezések karbantartásával, a nukleáris anyag felhasználásával, tárolásával, szállításával és a szállítmányok kísérésével összefüggő munkakörökben történő foglalkoztatás közbiztonsági feltételeinek ellenőrzésére irányuló eljárás során
 
-ga) a 11. § (1) bekezdés ca), cb), e), h), i) pontjában meghatározott adatok,
+ga) a 11. § (1) bekezdés c) pont ca), cb), cf) alpontjában, e), f), h), i) pontjában meghatározott adatok,
 
-gb) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában meghatározott adatok, valamint
+gb) a 16. § (1) bekezdés c) pont ca), cb), cf) alpontjában, f), g), i) pontjában meghatározott adatok, valamint
 
 gc) a 23. § c), f) és g) pontjában meghatározott adatok;
 
-h) a külföldiek idegenrendészeti ellenőrzése céljából
+h) a fegyveres biztonsági őr tevékenységének ellátását kizáró közbiztonsági feltételek ellenőrzése céljából
 
-ha) a 11. § (1) bekezdés c), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
+ha) a 11. § (1) bekezdés c) pont ca), cb), cf) alpontjában, e), h), i) pontjában meghatározott adatok,
 
-hb) a 16. § (1) bekezdés c), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
+hb) a 16. § (1) bekezdés c) pont ca), cb), cf) alpontjában, f), g), i) pontjában meghatározott adatok, valamint
 
 hc) a 23. § c), f) és g) pontjában meghatározott adatok;
 
-i) a szakszolgálati engedély kiadására irányuló eljárásban szakhatósági jogkörben eljárva, valamint a repülőtér zárt területére való belépés ellenőrzésekor a közbiztonsági feltételek vizsgálata céljából
+i) a külföldiek idegenrendészeti ellenőrzése céljából
 
-ia) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
+ia) a 11. § (1) bekezdés c), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
-ib) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
+ib) a 16. § (1) bekezdés c), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
 
 ic) a 23. § c), f) és g) pontjában meghatározott adatok;
 
-j) befogadás során a terhelt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pontjában foglalt adatok,
+j) a szakszolgálati engedély kiadására irányuló eljárásban szakhatósági jogkörben eljárva, valamint a repülőtér zárt területére való belépés ellenőrzésekor a közbiztonsági feltételek vizsgálata céljából
 
-k) határellenőrzési feladatai ellátása során a külföldre utazás jogát korlátozó feltételek fennállásának helyszínen történő ellenőrzése céljából a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.
+ja) a 11. § (1) bekezdés c) pont ca), cb) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
+
+jb) a 16. § (1) bekezdés c) pont ca), cb) alpontjában, f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
+
+jc) a 23. § c), f) és g) pontjában meghatározott adatok;
+
+k) befogadás során a terhelt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pontjában foglalt adatok;
+
+l) határ-ellenőrzési feladatai ellátása során a külföldre utazás jogát korlátozó feltételek fennállásának helyszínen történő ellenőrzése céljából a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.
 
 (3) A választójoggal nem rendelkező polgárok nyilvántartását vezető szerv közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
@@ -92,7 +100,7 @@ b) a 16. § (1) bekezdés f) és i) pontjában, a 16. § (2) bekezdés a), d) é
 
 (4) A köztársasági elnök döntésének előkészítése céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
-a) az igazságügyért felelős miniszter a kegyelmi kérelem felterjesztésének előkészítése során a bűntettesek nyilvántartásában, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában, valamint a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatok,
+a) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során a bűntettesek nyilvántartásában, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában, valamint a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatok,
 
 b) az állampolgársági ügyekért felelős miniszter és az állampolgársági ügyekben eljáró szerv az állampolgársági eljárásban a honosítás és visszahonosítás törvényi feltételeinek vizsgálata során a bűntettesek nyilvántartásában és a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatok.
 
@@ -140,7 +148,7 @@ b) a büntetőügy iktatószámának és a jogerős bírói határozat számána
 
 (9) Az útlevélhatóság a külföldre utazás jogát korlátozó feltételek fennállásának ellenőrzése céljából közvetlen hozzáféréssel jogosult átvenni a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.
 
-(10) A szakértői nyilvántartó szerv az e törvényben meghatározott találati adattovábbítás teljesítése, valamint szakvélemény elkészítése céljából közvetlen hozzáféréssel jogosult a 4. § (2) bekezdés a) pontjában foglalt adatokat átvenni.
+(10) A szakértői nyilvántartó szerv az e törvényben meghatározott találati adattovábbítás és automatikus találati adathozzáférést követő adattovábbítás teljesítése, valamint szakvélemény elkészítése céljából közvetlen hozzáféréssel jogosult a 4. § (2) bekezdés a) pontjában foglalt adatokat átvenni.
 
 (11) Az Országgyűlési Őrség törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátásához közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 

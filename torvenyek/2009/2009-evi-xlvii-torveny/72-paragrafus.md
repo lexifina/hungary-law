@@ -1,4 +1,6 @@
-72. § (1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet az erre a célra rendszeresített űrlapon papír alapon vagy ügyfélkapun keresztül egyedi informatikai alkalmazás igénybevételével, elektronikus úton kell benyújtani.
+72. § (1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet az erre a célra rendszeresített űrlapon papír alapon, a bűnügyi nyilvántartó szerv által működtetett ügyfélszolgálaton személyesen szóban vagy ügyfélkapun keresztül egyedi informatikai alkalmazás igénybevételével, elektronikus úton kell előterjeszteni.
+
+(1a) A kérelmező elektronikus azonosítását követően és az információ megőrzését biztosító módon történő hangrögzítés mellett, a kérelem telefonon is előterjeszthető.
 
 (2) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelemnek tartalmaznia kell
 

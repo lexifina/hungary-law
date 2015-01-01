@@ -10,7 +10,7 @@ a) kijelölje a bűnügyi nyilvántartó szervet,
 
 b) kijelölje a szakértői nyilvántartó szervet, valamint a büntetőeljárás alá vont és az elítélt személy DNS-profiljának meghatározásában közreműködő szervet,
 
-c) meghatározza a szakértői nyilvántartó szerv és a nyomozó hatóság, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, az ügyészség vagy a bíróság 85. § (4)–(8) bekezdése szerinti együttműködésének részletes szabályait.
+c) állapítsa meg a 86/A–86/D. §-ban meghatározott adattovábbítási eljárások során alkalmazott formanyomtatványokat.
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
@@ -22,10 +22,10 @@ c) az arcképmás, az ujj- és tenyérnyomat, a DNS-profil meghatározásra alka
 
 rendeletben állapítsa meg.
 
-(3) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter, hogy rendeletben állapítsa meg
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg
 
 a) a bűnügyi nyilvántartásokban kezelt adatok igazolására kiállított hatósági bizonyítvány kiadásának részletes eljárási rendjét,
 
 b) a bűnügyi nyilvántartó szerv által teljesített adatszolgáltatás rendjét.
 
-(4) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint megfizetésének szabályait rendeletben állapítsa meg.
+(4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint megfizetésének szabályait rendeletben állapítsa meg.
