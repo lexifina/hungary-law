@@ -6,10 +6,24 @@
 
 (3)[^14] A Hivatal központi szervből és a Hivatal területi szerveként a mellékletben meghatározott illetékességi területen működő igazgatóságokból áll.
 
-(4)[^15]
+(4)[^15] A Hivatal a befogadó állomás és a menekültügyi őrzött befogadó központ középirányító szerveként
+
+a) jóváhagyja a befogadó állomás és a menekültügyi őrzött befogadó központ szervezeti és működési szabályzatát,
+
+b) gyakorolja a befogadó állomás és a menekültügyi őrzött befogadó központ vezetője tekintetében a kinevezés, felmentés, megbízás vagy megbízás visszavonásának jogát és az egyéb munkáltatói jogköröket,
+
+c) gyakorolja a befogadó állomás és a menekültügyi őrzött befogadó központ gazdasági vezetője tekintetében a kinevezés, felmentés, megbízás vagy megbízás visszavonásának jogkörét,
+
+d) jogszabályban meghatározott esetekben gyakorolja a befogadó állomás és a menekültügyi őrzött befogadó központ döntéseinek előzetes egyetértése vagy utólagos jóváhagyása jogkörét,
+
+e) egyedi utasítást adhat feladat elvégzésére vagy mulasztás pótlására,
+
+f) a befogadó állomást és a menekültügyi őrzött befogadó központot jelentéstételre vagy beszámolóra kötelezheti,
+
+g) kezeli a befogadó állomás és a menekültügyi őrzött befogadó központ kezelésében lévő közérdekű adatokat és közérdekből nyilvános adatokat, valamint a b)–f) pont szerinti irányítási jogkörök gyakorlásához szükséges, törvényben meghatározott személyes adatokat.
 
 [^11]: Az 5. § a 278/2004. (X. 12. ) Korm. rendelet 18. §-ával megállapított szöveg.
 [^12]: Az 5. § (1a) bekezdését a 167/2014. (VII. 17.) Korm. rendelet 2. §-a iktatta be.
 [^13]: Az 5. § új (2) bekezdését a 115/2007. (V. 24.) Korm. rendelet 12. §-a iktatta be, egyidejűleg az eredeti (2)–(3) bekezdésének számozását (3)–(4) bekezdésre változtatta. Az 5. § (2) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 207. § (2) bekezdése hatályon kívül helyezte.
 [^14]: Az 5. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 115/2007. (V. 24.) Korm. rendelet 12. §-a. Az 5. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 205. §-ával megállapított szöveg.
-[^15]: Az 5. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 115/2007. (V. 24.) Korm. rendelet 12. §-a. Az 5. § (4) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 207. § (2) bekezdése hatályon kívül helyezte.
+[^15]: Az 5. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 115/2007. (V. 24.) Korm. rendelet 12. §-a. Az 5. § (4) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 207. § (2) bekezdése hatályon kívül helyezte, újonnan a 352/2014. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
