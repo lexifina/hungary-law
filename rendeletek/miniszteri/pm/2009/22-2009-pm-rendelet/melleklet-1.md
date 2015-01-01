@@ -1,6 +1,6 @@
 ## 11. § E rendelet az 1998. évi XV. törvénnyel kihirdetett, a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) Konvenciójának, az ahhoz kapcsolódó jegyzőkönyveknek és a csatlakozási nyilatkozatoknak megfelelően a nemzetközi vállalkozások és az adóhatóságok részére készült, a kapcsolt vállalkozások közötti árak módosítására vonatkozó iránymutatás, valamint a Tanácsnak és a tagállamok kormányainak a Tanács keretében ülésező képviselőinek állásfoglalása (2006. június 27.) az Európai Unióban található kapcsolt vállalkozások transzferár-képzési dokumentációjára (EU TPD) vonatkozó magatartási kódexről (2006/C 176/01) figyelembevételével készült szabályozást tartalmaz.
 
-1. melléklet a 22/2009. PM rendelethez[^17]
+1. melléklet a 22/2009. PM rendelethez[^21]
 
 Alacsony hozzáadott értékű csoporton belüli szolgáltatások
 
@@ -58,4 +58,4 @@ VII. Egyéb
 
 3. Őrző-védő szolgáltatás (TESZOR 80.10.12)
 
-[^17]: Az 1. számú mellékletet az 54/2011. (XII. 29.) NGM rendelet 2. §-a iktatta be, megjelölését 1. mellékletre változtatta és szövegét megállapította a 20/2013. (VI. 18.) NGM rendelet 7. §-a.
+[^21]: Az 1. számú mellékletet az 54/2011. (XII. 29.) NGM rendelet 2. §-a iktatta be, megjelölését 1. mellékletre változtatta és szövegét megállapította a 20/2013. (VI. 18.) NGM rendelet 7. §-a.

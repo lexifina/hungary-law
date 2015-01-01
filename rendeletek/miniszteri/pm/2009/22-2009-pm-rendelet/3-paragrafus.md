@@ -1,6 +1,6 @@
 ## A nyilvántartási kötelezettség teljesítése
 
-3. § (1)[^5] Az adózó a nyilvántartást – választása szerint a 4–6. §-ban foglaltak alapján – ellenőrzött ügyletenként készíti el.
+3. § (1)[^6] Az adózó a nyilvántartást – választása szerint a 4–7/B. §-ban foglaltak alapján – ellenőrzött ügyletenként készíti el.
 
 (2) A nyilvántartási kötelezettség – az (1) bekezdéstől eltérően – összevontan is teljesíthető, ha az összevonás az összehasonlíthatóságot nem veszélyezteti, és a szerződések
 
@@ -14,7 +14,7 @@ b) egymással szorosan összefüggnek.
 
 (5) Az adózó az (1) bekezdés szerinti választásáról a társasági adóbevallásában nyilatkozik, azzal, hogy ez nem érinti a 6. §-ban foglaltak alkalmazását.
 
-(6)[^6] A nyilvántartás, illetve az azt alátámasztó dokumentációk nem magyar nyelven is elkészíthetőek. Az Art. 95. § (2) bekezdésének megfelelő alkalmazásával az adózó köteles azokat vagy azok egy részét az adóhatóság felhívására – a megjelölt határidőn belül – magyar nyelven is rendelkezésre bocsátani.
+(6)[^7] A nyilvántartás, illetve az azt alátámasztó dokumentációk nem magyar nyelven is elkészíthetőek. Az Art. 95. § (2) bekezdésének megfelelő alkalmazásával az adózó köteles azokat vagy azok egy részét az adóhatóság felhívására – a megjelölt határidőn belül – magyar nyelven is rendelkezésre bocsátani.
 
-[^5]: A 3. § (1) bekezdése az 54/2011. (XII. 29.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: A 3. § (6) bekezdése az 54/2011. (XII. 29.) NGM rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdése az 54/2011. (XII. 29.) NGM rendelet 1. § (2) bekezdésével megállapított, az 54/2014. (XII. 31.) NGM rendelet 20. § 1. pontja szerint módosított szöveg.
+[^7]: A 3. § (6) bekezdése az 54/2011. (XII. 29.) NGM rendelet 1. § (3) bekezdése szerint módosított szöveg.

@@ -10,6 +10,6 @@ tevékenységek (például kutatás és fejlesztés, tervezés, gyártás, rekl�
 
 c) vállalatcsoport: kapcsolt vállalkozások és/vagy telephelyek csoportja.
 
-d)[^14] alacsony hozzáadott értékű, csoporton belüli szolgáltatás: a Tao. szerinti kapcsolt vállalkozások közötti, 1. mellékletben felsorolt, TESZOR kód szerint meghatározott szolgáltatás, amelyre teljesül, hogy azt a csoport egyik tagja a csoport másik, vagy több tagjának, vagy a vállalatcsoport valamennyi tagjának nem főtevékenysége keretében nyújtja.
+d)[^17] alacsony hozzáadott értékű, csoporton belüli szolgáltatás: a Tao. szerinti kapcsolt vállalkozások közötti, 1. mellékletben felsorolt, TESZOR kód szerint meghatározott szolgáltatás, amelyre teljesül, hogy azt a csoport egyik tagja a csoport másik, vagy több tagjának, vagy a vállalatcsoport valamennyi tagjának nem főtevékenysége keretében nyújtja.
 
-[^14]: A 8. § d) pontját az 54/2011. (XII. 29.) NGM rendelet 1. § (5) bekezdése iktatta be, szövege a 20/2013. (VI. 18.) NGM rendelet 5. §-ával megállapított szöveg.
+[^17]: A 8. § d) pontját az 54/2011. (XII. 29.) NGM rendelet 1. § (5) bekezdése iktatta be, szövege a 20/2013. (VI. 18.) NGM rendelet 5. §-ával megállapított szöveg.
