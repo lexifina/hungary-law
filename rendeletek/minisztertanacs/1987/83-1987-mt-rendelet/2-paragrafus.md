@@ -2,6 +2,7 @@
 
 (2) Nem állapítható meg, illetőleg nem folyósítható a rokkantsági járadék annak, aki térítés nélkül van intézményben elhelyezve.
 
-(3) A rokkantsági járadék összege havi 2200 forint.
+(3)[^5] A rokkantsági járadék havi összege 2015. január 1-jétől 33 930 forint.
 
 [^4]: A 2. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdése a 348/2014. (XII. 29.) Korm rendelet 5. §-ával megállapított szöveg.
