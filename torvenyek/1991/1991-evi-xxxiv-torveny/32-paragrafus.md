@@ -9,3 +9,5 @@
 (4) A 16. § szerinti sorsolásos játék, valamint a 23. § szerinti ajándéksorsolás, a lóversenyfogadás a játékadó fizetési kötelezettség alól mentes.
 
 (5) A távszerencsejáték havi gyakorisággal teljesítendő játékadója a 37. § 2.1. pontja szerint meghatározott tiszta játékbevétel 15%-a.
+
+(6) A szerencsejáték-szervező a sorsolásos játékok, a fogadások és a távszerencsejátékok esetén a játékadó megállapításához, bevallásához és megfizetéséhez kiszámítja az (1)–(5) bekezdés szerinti játékadó összegét, majd a külön jogszabályokban előírt fizetési kötelezettségek teljesítése után fennmaradó, (1)–(5) bekezdés szerint fizetendő játékadók együttes összegéből jogosult levonni az általa megfizetett – a sportról szóló törvényben meghatározott – vagyoni értékű jog felhasználási szerződés szerinti ellenértékének időarányos összegét.

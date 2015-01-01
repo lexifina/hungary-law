@@ -1,6 +1,6 @@
 6. § (1) A koncesszióköteles tevékenység folytatására a koncessziós szerződést aláírónak e törvény különös rendelkezéseiben meghatározott olyan gazdasági társaságot kell alapítania, amelyben a társaság megalakulásakor és tevékenysége alatt is a részvények, üzletrészek, illetőleg a szavazatok többségével rendelkezik és kötelezettséget kell vállalnia arra, hogy a koncessziós szerződésben meghatározott követelményeket a gazdasági társaságban tulajdonosként érvényesíteni fogja.
 
-(2)
+(2) A koncessziós díjat a koncessziós szerződés aláírója vagy az (1) bekezdés szerinti koncessziós társaság, illetve a koncesszióba adó hozzájárulásával harmadik fél teljesíti. A koncessziós társaság a koncessziós díj 35. § (3) bekezdés szerinti levonására a koncessziós díjnak a koncessziós társaság, a koncessziós szerződés aláírója, illetve a harmadik fél általi teljesítése esetén is jogosult.
 
 (3) A szerencsejátékokkal kapcsolatos koncessziós eljárásra – az e törvényben foglalt eltérésekkel – a Ktv. rendelkezéseit kell alkalmazni.
 

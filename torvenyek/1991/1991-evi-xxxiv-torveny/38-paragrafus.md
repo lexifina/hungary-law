@@ -20,7 +20,7 @@ g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért
 
 h)
 
-i) a távszerencsejáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,
+i) a távszerencsejáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, a távszerencsejátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,
 
 j) a díjfizetés módjának meghatározása kivételével a felügyeleti díj fizetésével és nyilvántartásával
 
