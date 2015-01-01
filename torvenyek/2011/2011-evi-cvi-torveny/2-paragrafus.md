@@ -14,6 +14,8 @@
 
 (3b) A közfoglalkoztatott számára várandóssága idejére egészségi állapotának megfelelő munkakört kell felajánlani, ha a munkaköri alkalmasságára vonatkozó orvosi vélemény alapján a munkakörében nem foglalkoztatható.
 
+(3c) A közfoglalkoztatott mentesül a rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól az Flt. szerinti munkaviszony – ide nem értve a közfoglalkoztatási jogviszonyt – létesítése céljából történő állásinterjún való részvételhez szükséges időtartamra. A közfoglalkoztatottat az igazolt távollét tartamára az állásidő szabályai szerint illeti meg díjazás.
+
 (4) A közfoglalkoztatottat megillető munkabér összege megegyezik a teljesítményhez kötött tevékenységek kivételével a közfoglalkoztatási bérrel, a legalább középfokú iskolai végzettséget, szakképesítést igénylő munkakör betöltése esetén a közfoglalkoztatási garantált bérrel, azzal, hogy
 
 a) a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér el kell, hogy érje a közfoglalkoztatott számára a közfoglalkoztatást közvetlenül megelőzően folyósított álláskeresési járadék, rehabilitációs ellátás, illetve a foglalkoztatást helyettesítő támogatás havi összegét, és

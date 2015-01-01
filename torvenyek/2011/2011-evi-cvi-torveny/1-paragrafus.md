@@ -64,7 +64,7 @@ k) a kötelező önkormányzati feladat ellátásában közreműködő, törvén
 
 a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezései szerint munkaviszonyt létesíthet, kivéve azt, aki 16. életévét nem töltötte be, valamint
 
-b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény szerinti álláskereső, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti rehabilitációs ellátásban részesül.
+b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) szerinti álláskereső, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti rehabilitációs ellátásban részesül.
 
 (4a) Az álláskeresőt három hónap időtartamra ki kell zárni a közfoglalkoztatásból, ha
 
@@ -74,7 +74,9 @@ aa)
 
 ab) e szabálysértés elkövetéséért három hónapon belül jogerősen elmarasztalták, vagy
 
-b) önkormányzati rendeletben előírt, a lakókörnyezet (kert, udvar, jogszabályban meghatározott, az ingatlanhoz kapcsolódó közterület) rendezettségének biztosítására vonatkozó kötelezettségét nem teljesíti.
+b) önkormányzati rendeletben előírt, a lakókörnyezet (kert, udvar, jogszabályban meghatározott, az ingatlanhoz kapcsolódó közterület) rendezettségének biztosítására vonatkozó kötelezettségét nem teljesíti, vagy
+
+c) a számára az Flt. alapján felajánlott az álláskeresőkre vonatkozó rendelkezések szerint megfelelő munkahelyet nem fogadja el.
 
 (4b) A hivatalból folytatott közigazgatási eljáráshoz megkeresésre a (4a) bekezdés b) pontja szerinti esetben az álláskereső lakóhelye szerint illetékes jegyző 3 napon belül adatot szolgáltat az állami foglalkoztatási szerv járási szerve (a továbbiakban: járási foglalkoztatási szerv) részére.
 
