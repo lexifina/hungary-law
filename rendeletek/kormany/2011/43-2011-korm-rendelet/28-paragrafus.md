@@ -1,11 +1,13 @@
-28. § (1) A doppingvétségért egyébként alkalmazandó eltiltás időtartama legfeljebb 4 év időtartamra növelhető, amennyiben a versenyző vagy a sportszakember a doppingvétséget – kivéve a 12. § (1) bekezdés g)–h) pontjában és a 12. § (2) bekezdés b)–c) és e) pontjában szereplő doppingvétségeket, vagy ha a versenyző, sportszakember a doppingvétség elkövetését beismeri – olyan módon követte el, amely különösen alkalmas a tisztességes játék elvének megsértésére, valamint egyes sportágakra vagy a sportmozgalomra különösen káros hatású, így különösen, ha
+28. § (1) A versenyző vagy a sportszakember által második alkalommal elkövetett doppingvétségért alkalmazandó eltiltás időtartama a 27. § (4)–(7) bekezdésében foglalt csökkentések figyelembe vétele nélkül
 
-a) a doppingvétséget doppingterv vagy -rendszer részeként, önállóan vagy másokkal szervezetten követte el,
+a) a b) és c) pontban meghatározott esetek kivételével legalább 6 hónap,
 
-b) a doppingvétséget többféle tiltott anyaggal vagy módszerrel, vagy több alkalommal követte el,
+b) az első doppingvétségre kiszabott eltiltási időszak időtartamának fele, amennyiben meghaladja az a) pontban meghatározott időtartamot; vagy
 
-c) a tiltott teljesítményfokozás hatását az eltiltás időtartamát követően is élvezheti, vagy
+c) azon eltiltás időtartamának a kétszerese, amely alkalmazandó lenne abban az esetben, ha a második doppingvétséget úgy tekintenék, mintha első doppingvétség lenne, amennyiben meghaladja az a) pontban meghatározott időtartamot.
 
-d) a doppingeljárás során csalárd, rosszhiszemű magatartást tanúsít.
+(2) Az (1) bekezdésben meghatározott eltiltás időtartama a 27. § (4)–(7) bekezdésének alkalmazásával tovább csökkenthető.
 
-(2) A doppingeljárás során nem fogadható el a versenyző arra való hivatkozása, hogy tiltólistán szereplő valamely szer, módszer nem tiltott szer elfedését szolgálja, nincs teljesítménynövelő vagy káros egészségügyi hatása, vagy nem ellentétes a sport szellemiségével.
+(3) Azonos doppingvétséget megalapozó magatartások elkövetése esetén második doppingvétségnek minősül a 18. § (1) bekezdése szerinti értesítés, valamint a sportfegyelmi felelősség szabályairól szóló kormányrendeletben meghatározott, a doppingeljárás megindításáról szóló értesítés időpontja után elkövetett doppingvétség. E rendelkezést kell alkalmazni akkor is, ha a szabályszerű értesítésre az eljáró doppingbizottság, illetve dopping fellebbviteli bizottság érdekkörén kívüli okból nem került sor.
+
+(4) Ha az eljáró dopping bizottság, illetve dopping fellebbviteli bizottság nem tudja igazolni, hogy az értesítés szabályszerűen történt, a versenyző, sportszakember által elkövetett doppingvétségeket – az (1) bekezdésben és a 29. § (1) bekezdésében foglaltak alkalmazása helyett – együttesen kell egy doppingvétségnek tekinteni és a büntetés meghatározása során a súlyosabbnak minősülő doppingvétség büntetését kell alapul venni.

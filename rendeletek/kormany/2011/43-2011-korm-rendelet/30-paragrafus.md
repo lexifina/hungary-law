@@ -1,9 +1,15 @@
-30. § (1) A versenyző, sportszakember által harmadik alkalommal elkövetett doppingvétségért – a (2) bekezdésben foglalt kivétellel – végleges eltiltás alkalmazandó.
+30. § (1) Az eltiltás időtartama – a (2)–(4) bekezdésben foglalt kivételekkel – az azt megállapító első fokú határozat meghozatalának napján kezdődik.
 
-(2) A harmadik alkalommal elkövetett doppingvétség esetén az eltiltás 8 évtől végleges időtartamú, amennyiben
+(2) Amennyiben a doppingeljárás alá vont személy a doppingeljárásban
 
-a) a tiltólista szerinti meghatározott szernek a versenyző szervezetében való jelenléte esetén a versenyző bizonyítja, hogy azokat nem a teljesítménye fokozására vagy tiltott szer használatának leplezésére alkalmazta, vagy
+a) a tárgyalás tartásáról lemond, vagy
 
-b) a harmadik alkalommal elkövetett doppingvétség a 12. § (1) bekezdés d) pontja szerinti doppingvétség.
+b) egyéb okból nem történik meghallgatás
 
-(3) A 29. § és az (1)–(2) bekezdés szerinti többszöri doppingvétségekre vonatkozó rendelkezések akkor alkalmazhatók, ha az egyes doppingvétségeket 8 éven belül követték el.
+## és az eltiltást elfogadja, az eltiltás az eltiltás elfogadása vagy egyéb módon történő kiszabása napján kezdődik.
+
+(3) Amennyiben a doppingeljárás alá vont személy önhibáján kívüli okból a doppingeljárás megindítása és a tárgyalás között jelentős késedelem következik be vagy a doppingeljárás egyébként elhúzódik, az eljáró doppingbizottság, illetve dopping fellebbviteli bizottság az eltiltás időtartamának kezdetét a mintavétel vagy a doppingvétséget megalapozó egyéb magatartás tanúsításának napjával is meghatározhatja. Az eltiltási időszakban – ideértve a visszamenőleges hatályú eltiltást is – a versenyző által elért összes eredmény érvénytelenítésre kerül. Amennyiben a versenyző a sporteredmény eléréséért díjazást vagy egyéb juttatást, elismerést kapott, azokat köteles visszaszolgáltatni.
+
+(4) Amennyiben a versenyző vagy a sportszakember a doppingvétség elkövetését a doppingvétség elkövetéséről szóló értesítést követően haladéktalanul beismeri – és ezen időpontot követően a versenyző nem vesz részt további versenyen vagy a sportszakember nem gyakorolja sportszakmai tevékenységét –, az eltiltás időtartamának kezdetét az eljáró doppingbizottság, illetve dopping fellebbviteli bizottság a mintavétel vagy a doppingvétséget megalapozó egyéb magatartás elkövetésének napjával is meghatározhatja azzal, hogy a doppingeljárás alá vont személy az eltiltás büntetés időtartamának legalább felét letölti. Ez a rendelkezés nem alkalmazható abban az esetben, ha az eltiltás időtartamát a 27. § (6) bekezdése alapján már csökkentették.
+
+(5) Az eltiltás időtartamába a versenyengedély sportág nemzetközi szövetsége vonatkozó szabályzatának és a nemzetközi követelményeknek megfelelő felfüggesztésének időtartamát be kell számítani.

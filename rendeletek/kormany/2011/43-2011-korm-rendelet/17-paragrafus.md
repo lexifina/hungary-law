@@ -6,8 +6,11 @@
 
 (3) A versenyző előzetes írásbeli beleegyezése nélkül a doppingellenőrzés során levett minta kutatási tevékenység céljára nem használható fel.
 
-(4) A doppingellenőrzés vizelet-mintavétellel történik. Ha az adott sportág nemzetközi szövetsége azt elfogadta, vérvétel útján is lehet mintát venni doppingellenőrzés céljából.
+(4)[^34] A doppingellenőrzés vizelet-, illetve vérmintavétellel történik.
 
-(5) A mintavétel és -kezelés részletes szabályait a 2. melléklet, valamint nemzetközi követelmények tartalmazzák. A mintavétel és -kezelés e rendeletben és a vonatkozó nemzetközi követelményekben meghatározottak szerinti lefolytatását a HUNADO ellenőrző nyomtatvány kitöltésével igazolja.
+(5)[^35] A mintavétel és -kezelés részletes szabályait a 2. melléklet, valamint nemzetközi követelmények tartalmazzák.
 
 (6) A versenyzők mintájának 3. § b) pontjában meghatározott analízisét WADA által akkreditált laboratórium végzi.
+
+[^34]: A 17. § (4) bekezdése a 324/2014. (XII. 15.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^35]: A 17. § (5) bekezdése a 324/2014. (XII. 15.) Korm. rendelet 13. §-ával megállapított szöveg.

@@ -1,5 +1,11 @@
-29. § (1) A versenyző, sportszakember által második alkalommal elkövetett doppingvétségért alkalmazandó eltiltás időtartamát az 1. melléklet tartalmazza.
+29. § (1) A versenyző, sportszakember által harmadik alkalommal elkövetett doppingvétségért – a (2) bekezdésben foglalt kivétellel – végleges eltiltás alkalmazandó.
 
-(2) Azonos doppingvétséget megalapozó magatartások elkövetése esetén második doppingvétségnek minősül a 18. § (1) bekezdése szerinti értesítés, valamint a sportfegyelmi felelősség szabályairól szóló kormányrendeletben meghatározott, a doppingeljárás megindításáról szóló értesítés időpontja után elkövetett doppingvétség. E rendelkezést kell alkalmazni akkor is, ha a szabályszerű értesítésre az eljáró doppingbizottság, illetve dopping fellebbviteli bizottság érdekkörén kívüli okból nem került sor.
+(2) A harmadik alkalommal elkövetett doppingvétség esetén az eltiltás 8 évtől végleges időtartamú, amennyiben
 
-(3) Ha az eljáró doppingbizottság, illetve dopping fellebbviteli bizottság nem tudja igazolni, hogy az értesítés szabályszerűen történt, a versenyző, sportszakember által elkövetett doppingvétségeket – az 1. mellékletben foglaltak alkalmazása helyett – együttesen kell egy doppingvétségnek tekinteni és a büntetés meghatározása során a súlyosabbnak minősülő doppingvétség büntetését kell alapul venni és a doppingvétségért egyébként alkalmazandó eltiltás időtartama – a 12. § (1) bekezdés g)–h) és (2) bekezdés b)–c) és e) pontja kivételével – legfeljebb 4 év időtartamra növelhető.
+a) a versenyző által harmadik alkalommal elkövetett doppingvétség a 12. § (1) bekezdés d) pontja szerinti doppingvétség, vagy a versenyző által harmadik alkalommal elkövetett doppingvétség a 24. § (3) bekezdésében, vagy a 27. § (2) bekezdésében foglalt feltételeknek megfelel, vagy
+
+b) a sportszakember által harmadik alkalommal elkövetett doppingvétség a 25. § (3) bekezdésében foglalt feltételeknek megfelel.
+
+(3) A 28. § és az (1)–(2) bekezdés szerinti többszöri doppingvétségekre vonatkozó rendelkezések akkor alkalmazhatók, ha az egyes doppingvétségeket 10 éven belül követték el.
+
+(4) A 28. § és e § alkalmazása során nem tekinthető korábban elkövetett doppingvétségnek az a doppingvétség, amely esetében a versenyző vagy a sportszakember bizonyította a szándékosság hiányát.
