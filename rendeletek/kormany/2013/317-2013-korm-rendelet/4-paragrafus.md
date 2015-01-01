@@ -2,7 +2,7 @@
 
 4. § (1) A hulladékgazdálkodási közszolgáltatási szerződés a Ht. 34. § (5) bekezdésében foglaltakon túlmenően a következőket tartalmazza:
 
-a) a közszolgáltatás minőségi ismérveit, az OHÜ által meghatározott minősítési osztályt;
+a)[^2] a közszolgáltatás minőségi ismérveit, a környezetvédelmi hatóság által meghatározott minősítési osztályt;
 
 b) a közszolgáltatás finanszírozásának elveit és módszereit;
 
@@ -18,7 +18,7 @@ a) a közszolgáltatás folyamatos és teljes körű ellátását;
 
 b) a közszolgáltatás meghatározott rendszer, módszer és gyakoriság szerinti teljesítését, ideértve az évenkénti lomtalanítás és az elkülönített gyűjtés teljesítését is, ha a települési önkormányzat rendelete ezt előírja;
 
-c) az OHÜ által meghatározott minősítési osztály szerinti követelmények biztosítását, és a minősítő okirat hulladékgazdálkodási közszolgáltatási szerződés hatályosságának ideje alatti folyamatos meglétét;
+c)[^3] a környezetvédelmi hatóság által meghatározott minősítési osztály szerinti követelmények biztosítását, és a minősítő okirat hulladékgazdálkodási közszolgáltatási szerződés hatályosságának ideje alatti folyamatos meglétét;
 
 d) a közszolgáltatás teljesítéséhez szükséges mennyiségű és minőségű jármű, gép, eszköz, berendezés biztosítását, valamint a szükséges létszámú és képzettségű szakember alkalmazását;
 
@@ -45,3 +45,6 @@ c) a közszolgáltatásnak a településen végzett más közszolgáltatásokkal
 d) a települési igények kielégítésére alkalmas hulladék gyűjtésére, szállítására, kezelésére szolgáló helyek és létesítmények meghatározását; valamint
 
 e) a közszolgáltató kizárólagos közszolgáltatási jogának biztosítását az önkormányzati tulajdonban lévő hulladékgazdálkodási létesítmények vonatkozásában.
+
+[^2]: A 4. § (1) bekezdés a) pontja a 368/2014. (XII. 30.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^3]: A 4. § (2) bekezdés c) pontja a 368/2014. (XII. 30.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
