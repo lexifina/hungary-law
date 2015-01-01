@@ -12,17 +12,9 @@
 
 ## Határidő: 2015. június 30.
 
-## 2. A Kormány a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, az Országvédelmi Alapból történő előirányzat-átcsoportosításról, a pártalapítványok tartalékának átcsoportosításáról, az Összevont szakellátás jogcím előirányzatának megemeléséről és egyes kormányhatározatok módosításáról szóló 1812/2014. (XII. 19.) Korm. határozat (a továbbiakban: Határozat) 3. pont a) alpontját visszavonja.
+## 2.[^1]
 
-## 3. Hatályát veszti a Határozat
-
-## a) 1. pontjában az „a 35. Mezőkövesd Város Önkormányzata sportfejlesztésének támogatása címmel,”,
-
-## b) 6. pontjában a „Mezőkövesd Város Önkormányzatával,”,
-
-## c) 7. pontjában a „Mezőkövesd Város Önkormányzata”
-
-## szövegrész.
+## 3.[^2]
 
 ## 4. A Kormány egyetért azzal, hogy a Határozat 2. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a IX. Helyi önkormányzatok támogatásai fejezet, 35. Mezőkövesd Város Önkormányzata sportfejlesztésének támogatása cím, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 500,0 millió forint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 11. Sportlétesítmények fejlesztése és fenntartása jogcímcsoport, 2. Állami, önkormányzati és egyéb sportlétesítmények fejlesztése, fenntartása jogcím, K6. Beruházások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
@@ -99,3 +91,6 @@ Költségvetési év: 2014.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
