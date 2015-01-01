@@ -22,6 +22,8 @@ d) a nemzetbiztonsági szolgálatok törvényben meghatározott feladataik ellá
 
 e) a szervezett bűnözés elleni fellépés koordinációjáért felelős szerv az elemző-értékelő tevékenysége céljából,
 
-f) a Nemzeti Adó- és Vámhivatal a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott állami adó- és vámhatósági feladataihoz kapcsolódó ellenőrző tevékenysége céljából.
+f) a Nemzeti Adó- és Vámhivatal a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott állami adó- és vámhatósági feladataihoz kapcsolódó ellenőrző tevékenysége, az adózók ellenőrzésre történő kiválasztása céljából,
+
+g) a közlekedési hatóság törvényben meghatározott ellenőrzési tevékenysége céljából.
 
 (5) Az (4) bekezdésben felsoroltakon kívül az elektronikus ellenőrző rendszerből adatigénylésre jogosult az is, akit a hatáskörébe tartozó feladat ellátása érdekében törvény feljogosít az elektronikus díjellenőrző rendszer adatainak megismerésére.
