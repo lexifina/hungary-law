@@ -1,3 +1,3 @@
-## 7. §[^2]
+## 7. § Az R. 17. §-a helyébe a következő rendelkezés lép:
 
-[^2]: A 7. § a 15. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## „17. § A 651/2014/EU bizottsági rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.”
