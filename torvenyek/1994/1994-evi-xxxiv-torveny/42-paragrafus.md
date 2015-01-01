@@ -14,11 +14,15 @@
 
 (5b) A rendőrség a segélyhívások fogadásával összefüggésben, a segítségnyújtási kötelezettség teljesítése, a segélyhívás alapján szükséges intézkedések megtétele céljából a fogadott segélyhívásokról felvételt készíthet.
 
+(5c) A rendőrség az előállító egység előterében és a rendőrségi fogda területén – a zárka, a WC és a tisztálkodásra szolgáló helyiség kivételével – a fogvatartás rendjének biztosítása, bűncselekmények, szabálysértések és fegyelmi vétségek megelőzése, továbbá a fogvatartott életének, testi épségének megóvása céljából elektronikus formában kép, hang vagy kép és hang együttes felvételére, továbbítására és rögzítésére alkalmas elektronikus megfigyelési eszközt helyezhet el, amellyel felvételt készíthet.
+
+(5d) Ha a fogvatartott korábban öngyilkosságot kísérelt meg, a saját testi épsége elleni önkárosító cselekményt követett el, vagy a fogvatartással összefüggésben észlelt körülmények alapján megalapozottan feltehető, hogy a fogvatartott ilyen cselekményt fog elkövetni, ezért a fogvatartott életének, testi épségének megóvása érdekében viselkedésének folyamatos nyomon követése szükséges, a rendőrség az előállító helyiségben, valamint a rendőrségi fogda zárkájában kép vagy kép és hang továbbítására alkalmas, felvételt nem rögzítő megfigyelési eszközt helyezhet el.
+
 (6) Az
 
 a) (1), (2) és (5) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során, körözött személy vagy tárgy azonosítása vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
 
-b) (5a) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
+b) (5a) és (5c) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés vagy fegyelmi vétség miatt indult büntető-, szabálysértési vagy fegyelmi eljárás során, vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
 
 c) (5b) bekezdés alapján készített felvétel, illetve az abban szereplő személyes adat a segélyhívó számon fogadott hívással összefüggésben elkövetett, a segélyhívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a segélyhívást követő intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
 
@@ -30,7 +34,7 @@ a) az (1) bekezdés alapján rögzített felvételt a rögzítést követő harm
 
 b) a (2) bekezdés alapján rögzített felvételt a rögzítést követő öt munkanap elteltével,
 
-c) az (5) és (5a) bekezdés alapján rögzített felvételt a rögzítést követő három munkanap elteltével,
+c) az (5), (5a) és (5c) bekezdés alapján rögzített felvételt a rögzítést követő három munkanap elteltével,
 
 d) az (5b) bekezdés alapján rögzített felvételt a rögzítést követő egy év elteltével
 

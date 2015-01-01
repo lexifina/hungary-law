@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-34-00-00
 | 2014-05-06 | 2014. évi XIV. törvény | 1994-34-00-00.68 |
 | 2014-07-01 | 2013. évi LXXVI. törvény | 1994-34-00-00.69 |
 | 2014-10-11 | 2010. évi XL. törvény | 1994-34-00-00.70 |
+| 2015-01-01 | 2014. évi LXXII. törvény | 1994-34-00-00.71 |

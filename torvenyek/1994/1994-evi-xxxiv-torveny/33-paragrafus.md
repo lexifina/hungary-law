@@ -12,7 +12,9 @@ d) aki az őrizetbe vétel, az előzetes letartóztatás, az ideiglenes kiadatá
 
 e) akinek előállítását külön törvényben meghatározott feltételek alapján elrendelik;
 
-f) aki az ország területén jogellenesen tartózkodik.
+f) aki az ország területén jogellenesen tartózkodik;
+
+g) akinek a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 38. § (5) bekezdése alapján büntetés-végrehajtási őrizetbe vétele szükséges.
 
 (2) A rendőr a hatóság vagy az illetékes szerv elé állíthatja azt,
 
