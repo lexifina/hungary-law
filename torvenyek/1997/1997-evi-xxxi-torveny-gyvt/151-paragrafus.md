@@ -6,7 +6,7 @@ b) az óvodában,
 
 c) a nyári napközis otthonban,
 
-d) az általános és középiskolai diákotthonban, kollégiumban, illetve az itt szervezett externátusi ellátásban,
+d) az általános és középiskolai kollégiumban, illetve az itt szervezett externátusi ellátásban,
 
 e) az általános iskolai, továbbá – ha külön jogszabály másképpen nem rendelkezik – középfokú iskolai menzai ellátás keretében,
 
@@ -40,7 +40,11 @@ biztosítja a déli meleg főétkezést és két további étkezést.
 
 (3) A gyermekétkeztetés intézményi térítési díjának alapja az élelmezés nyersanyag költségének egy ellátottra jutó napi összege.
 
+(3a) Ha a fenntartó vagy a települési önkormányzat a gyermekétkeztetést vásárolt szolgáltatás útján biztosítja, az intézményi térítési díj megállapítása érdekében az étkeztetést biztosító szolgáltató köteles elkülönítetten kimutatni a gyermekétkeztetéssel összefüggésben felmerülő nyersanyagköltséget.
+
 (4) A gyermekétkeztetés személyi térítési díját az intézményvezető a (3) bekezdés szerinti napi összeg általános forgalmi adóval növelt összegének és az igénybe vett étkezések számának, valamint az (5) bekezdésben megjelölt normatív kedvezményeknek a figyelembevételével állapítja meg. Ha a fenntartó kizárólag a bölcsődei ellátás keretében biztosított gyermekétkeztetésre állapít meg személyi térítési díjat, a személyi térítési díj meghatározásánál a 150. § (1)–(3) bekezdését nem kell alkalmazni.
+
+(4a) Ha az étkeztetési feladatot települési önkormányzat látja el, a (4) bekezdés alkalmazásában intézményvezető alatt a települési önkormányzat azon intézményének vezetőjét kell érteni, amely a gyermekétkeztetést biztosítja. Ha a kötelezett a személyi térítési díjat vitatja, illetve annak csökkentését vagy elengedését kéri, a személyi térítési díj összegéről történő értesítés kézhezvételétől számított nyolc napon belül a települési önkormányzathoz fordulhat. Ha a települési önkormányzat intézmény közreműködése nélkül biztosítja a gyermekétkeztetést, a személyi térítési díj megállapítására, annak vitatására, csökkentésére és elengedésére vonatkozó szabályokat rendeletében állapítja meg.
 
 (5) Gyermekétkeztetés esetén
 
@@ -72,15 +76,15 @@ kedvezményként kell biztosítani [az a)–e) pont a továbbiakban együtt: nor
 
 (9) A gyermek lakóhelye szerint illetékes önkormányzat, illetve – ha a gyermek nem állami fenntartású nevelési-oktatási intézményben részesül étkezésben – a nevelési-oktatási intézmény vezetője – a nem állami fenntartó által megállapított szabályok keretei között – a gyermek egyéni rászorultsága alapján további gyermekenkénti kedvezményt állapíthat meg.
 
-(10) Az (5) bekezdés szerinti normatív kedvezmény megállapításához közös háztartásban élőként kell figyelembe venni
+(10) Az (5) bekezdés c) pontja szerinti normatív kedvezmény megállapításához közös háztartásban élőként kell figyelembe venni
 
 a) a tizennyolc éven aluli,
 
-b) a huszonöt évesnél fiatalabb, közoktatásban nappali rendszerű oktatásban részt vevő, illetve felsőoktatásban nappali tagozaton tanuló, valamint
+b) a huszonöt évesnél fiatalabb, köznevelési intézményben nappali rendszerű oktatásban részt vevő vagy felsőoktatási intézményben nappali képzésben tanuló, és
 
 c) életkortól függetlenül a tartósan beteg vagy súlyos fogyatékos
 
-gyermekeket.
+gyermeket, kivéve a nevelőszülőnél ideiglenes hatállyal elhelyezett gyermeket, valamint a nevelőszülőnél elhelyezett nevelésbe vett gyermeket és utógondozói ellátásban részesülő fiatal felnőttet.
 
 (11) A normatív kedvezményt a tanuló után a nappali rendszerű oktatásban való részvétele befejezéséig kell biztosítani.
 

@@ -1,6 +1,14 @@
 ## Családi napközi
 
-43. § (1) Családi napköziben – nem nevelési-oktatási céllal – ellátható a bölcsődei és óvodai ellátásban nem részesülő gyermek, továbbá az iskolai oktatásban részesülő gyermek az iskola nyitvatartási idején kívül, valamint az Nktv. rendelkezései szerint az általános iskolában a tizenhat óra előtt megszervezett egyéb foglalkozás alól felmentett gyermek, valamint a magántanuló.
+43. § (1) Családi napköziben – nem nevelési-oktatási céllal – ellátható
+
+a) a bölcsődei ellátásban, óvodai nevelésben nem részesülő gyermek,
+
+b) az óvodai nevelésben részesülő gyermek a kötelező óvodai nevelésben való részvételének idején kívül,
+
+c) az iskolai oktatásban részesülő tanuló, ideértve a magántanulót is, az iskola nyitvatartási idején kívül, és
+
+d) az Nktv. rendelkezései szerint az általános iskolában a tizenhat óra előtt megszervezett egyéb foglalkozás alól felmentett gyermek.
 
 (2) A családi napközi a családban nevelkedő gyermekek számára nyújt életkoruknak megfelelő nappali felügyeletet, gondozást, nevelést, étkeztetést és foglalkoztatást. A fogyatékos gyermekek számára sajátos szükségleteikhez igazodó ellátást kell nyújtani.
 
@@ -15,6 +23,16 @@ b) a külön jogszabályban meghatározott tanfolyamon eredménnyel részt vett,
 (5) A családi napközi működhet az ellátást nyújtó saját otthonában vagy más e célra kialakított helyiségben.
 
 (6) A családi napköziben húszhetestől tizennégy éves korig gondozható gyermek.
+
+(6a) Családi napközi a (6) bekezdésben foglaltakon belül
+
+a) a húszhetes életkorukat betöltött, de harmadik életévüket még be nem töltött gyermekek számára,
+
+b) az Nktv. 8. § (5) bekezdésében meghatározott gyermekek számára, vagy
+
+c) a húszhetes életkorukat betöltött, de tizennegyedik életévüket még be nem töltött gyermekek számára – ideértve az Nktv. alapján az óvodai nevelésben való részvétel és az általános iskolában a tizenhat óra előtt megszervezett egyéb foglalkozás alól felmentett gyermekeket is –
+
+szervezhető meg.
 
 (7) A családi napköziben – a saját, napközbeni ellátást máshol igénybe nem vevő gyermeket is beszámítva – legfeljebb öt gyermek gondozható. Ha a családi napköziben egy fogyatékos gyermeket is gondoznak, akkor a gondozható gyermekek száma legfeljebb négy fő. Ha a családi napköziben gondozott valamennyi gyermek fogyatékos, akkor a gondozható gyermekek száma legfeljebb három fő.
 

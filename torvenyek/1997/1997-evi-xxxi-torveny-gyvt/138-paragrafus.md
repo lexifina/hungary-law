@@ -8,7 +8,9 @@ c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vo
 
 d) az ellátással kapcsolatos döntéseket, pénzbeli és természetbeni ellátás esetén a pénzbeli és természetbeni ellátás megnevezését, jogcímét, összegét és az ellátás megállapítására, megváltoztatására, megszüntetésére vonatkozó adatokat, a megszüntetés jogcímét, valamint az ellátásra való jogosultsággal összefüggő érdemi döntés jogerőre emelkedésének időpontját,
 
-e) a jogosultság megállapításához szükséges jövedelmi adatokat.
+e) a jogosultság megállapításához szükséges jövedelmi adatokat,
+
+f) a gyermek, a nagykorúvá vált gyermek, a fiatal felnőtt hátrányos vagy halmozottan hátrányos helyzetének megállapítását, megjelölve a hátrányos, halmozottan hátrányos helyzet megállapításának okát.
 
 (1a) Az (1) bekezdés szerinti – a 140. § (1) bekezdés a) pontjába tartozó ellátások tekintetében vezetett – nyilvántartás az (1) bekezdés d) pontja szerinti adatkör tekintetében közhiteles hatósági nyilvántartásnak minősül.
 

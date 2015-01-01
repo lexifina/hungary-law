@@ -4,7 +4,7 @@ a) a gyermek számára családbafogadó gyám rendelésére nem kerülhet sor, �
 
 aa) a gyermek fejlődését családi környezete veszélyezteti, és veszélyeztetettségét az alapellátás keretében biztosított szolgáltatásokkal, valamint a védelembe vétellel nem lehetett megszüntetni, illetve attól eredmény nem várható, továbbá, ha a gyermek megfelelő gondozása a családján belül nem biztosítható, vagy
 
-ab) a szülő vagy mindkét szülő szülői felügyeleti jogát a bíróság megszüntette, vagy
+ab) a szülő vagy mindkét szülő szülői felügyeleti jogának megszüntetése iránt a gyámhatóság pert indított, vagy a szülő vagy mindkét szülő szülői felügyeleti jogát a bíróság megszüntette, vagy
 
 ac) a szülő vagy mindkét szülő elhalálozott, vagy
 

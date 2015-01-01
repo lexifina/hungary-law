@@ -4,7 +4,15 @@
 
 a) gyermek: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 2:10. § (1) bekezdése szerinti kiskorú,
 
-b) fiatalkorú: az a személy, aki a szabálysértés elkövetésekor 14. évét, bűncselekmény elkövetésekor 12. évét – illetve 2013. június 30-át megelőzően elkövetett bűncselekmény esetén a 14. évét – betöltötte, de 18. évét még nem,
+b) fiatalkorú: az a személy, aki
+
+ba) a szabálysértés elkövetésekor a 14. életévét,
+
+bb) a 2013. július 1-jét megelőzően elkövetett bűncselekmény elkövetésekor a 14. életévét,
+
+bc) a 2013. június 30-át követően elkövetett bűncselekmény elkövetésekor a 12. életévét
+
+betöltötte, azonban a 18. – javítóintézetben történő nevelése esetén a 21. – életévét még nem töltötte be,
 
 c) fiatal felnőtt: az a nagykorú személy, aki a 24. évét nem töltötte be,
 
@@ -18,7 +26,7 @@ g) gyermekjóléti és gyermekvédelmi szolgáltató tevékenység: a gyermekjó
 
 h) gyermeki jogok: az Alaptörvényben, a Gyermek jogairól szóló, New Yorkban, 1989. november 20-án kelt Egyezmény kihirdetéséről szóló 1991. évi LXIV. törvényben és más törvényekben megfogalmazott, a gyermeket megillető jogok összessége,
 
-i) ellátás: jogszabályban meghatározott pénzbeli, természetbeni, illetve személyes gondoskodást nyújtó alapellátás és szakellátás,
+i) ellátás: a jogszabályban meghatározott pénzbeli, természetbeni, valamint személyes gondoskodást nyújtó alapellátás és szakellátás, továbbá a javítóintézeti ellátás,
 
 j) természetbeni ellátás: olyan támogatás, amellyel a gyermeket alapvető szükségleteinek kielégítésében az állam (önkormányzat) anyagi javak biztosításával, szolgáltatások kifizetésével és nyújtásával segíti,
 
@@ -58,13 +66,17 @@ se) az Európai Gazdasági Térségről szóló megállapodásban részes valame
 
 ha az e törvényben és más jogszabályban meghatározott feltételek szerint, gondoskodik a gyermekjóléti és gyermekvédelmi szolgáltató tevékenység biztosításához szükséges feltételekről. Ha jogszabály másképp nem rendelkezik, az egyházi fenntartóra a nem állami fenntartóra vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
-sz) családbafogadó gyám: az a gyámként kirendelt személy, akinél a gyámhatóság a gyermeket ideiglenes hatállyal elhelyezte, vagy akinél a bíróság a gyermeket elhelyezte, vagy aki a gyermeket a gyámhatóság hozzájárulásával családba fogadta, kivéve ha a gyermeket ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezték el,
+sz) családbafogadó gyám: az a gyámként kirendelt személy, akinél a gyámhatóság a gyermeket ideiglenes hatállyal elhelyezte, vagy akinél a bíróság a gyermeket elhelyezte, vagy aki a gyermeket a gyámhatóság hozzájárulásával családba fogadta, kivéve, ha a gyermeket ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezték el, vagy akit a gyámhatóság a Ptk. 4:226. és 4:227. §-a szerint más okból rendelt ki gyámként a gyermekvédelmi gyámság alatt nem álló gyermek számára,
 
 t) személyazonosító adat: az érintett személy természetes személyazonosító adatai, neme, állampolgársága, bevándorolt, letelepedett, oltalmazott vagy menekült jogállása, lakó- és tartózkodási helye,
 
-u) intézmény: az e törvényben meghatározott gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végző szervezet vagy annak szakmailag önálló szervezeti egysége, amely a rá vonatkozó külön jogszabályban foglaltak alapján jön létre, legalább három főt foglalkoztat teljes munkaidőben. Ha e törvény másképp nem rendelkezik, az intézmény fogalmát kell megfelelően alkalmazni a helyettes szülői, illetve nevelőszülői hálózatra is,
+ty) megelőző pártfogó felügyelő: az a pártfogó felügyelő, akit a bűnmegelőzés érdekében a szabálysértés vagy bűncselekmény elkövetése miatt indult gyámhatósági eljárás során a pártfogó felügyelői szolgálat kijelölt a védelembe vett vagy nevelésbe vett gyermek részére.
+
+u) intézmény: az e törvényben meghatározott gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végző szervezet vagy annak szakmailag önálló szervezeti egysége, amely a rá vonatkozó külön jogszabályban foglaltak alapján jön létre, legalább három főt foglalkoztat teljes munkaidőben, valamint a javítóintézet. Ha e törvény másképp nem rendelkezik, az intézmény fogalmát kell megfelelően alkalmazni a helyettes szülői, illetve nevelőszülői hálózatra is,
 
 v) működtető: az a természetes személy, jogi személy, illetve ezek jogi személyiség nélküli szervezete, aki, illetve amely a fenntartó által biztosított működési feltételek között a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet szervezi,
+
+w) szolgáltató: gyermekjóléti, illetve gyermekvédelmi szolgáltató tevékenységet végző személy vagy szervezet, amely nem minősül intézménynek vagy helyettes szülői, nevelőszülői hálózatnak,
 
 x) államilag támogatott lakás-előtakarékossági programban való részvétel: a lakástakarékpénztárakról szóló 1996. évi CXIII. törvény szerinti lakás-előtakarékossági szerződés megkötése és teljesítése,
 

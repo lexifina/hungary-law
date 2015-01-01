@@ -1,18 +1,22 @@
-135. § (1) A 15. § (1)–(4) bekezdéseiben meghatározott ellátások és intézkedések nyújtása és megtétele, azok ellenőrzése, valamint biztosítása során az e törvényben meghatározott jogok érvényesülésének elősegítése céljából a (2) bekezdésben meghatározott adatok kezelésére az alábbi szervek és személyek jogosultak:
+135. § (1) A 15. § (1)–(5) bekezdésében meghatározott ellátások, intézkedések nyújtása és megtétele, mindezek ellenőrzése, valamint biztosítása során az e törvényben meghatározott jogok érvényesülésének elősegítése céljából a (2) bekezdésben meghatározott adatok kezelésére jogosult
 
-a) a gyermekek védelmét biztosító hatósági feladat- és hatásköröket gyakorló szervek és személyek (16. §),
+a) a gyermekek védelmét biztosító hatósági feladat- és hatásköröket gyakorló szerv vagy személy,
 
-b)
+b) a gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó szolgáltatás, intézmény fenntartója, vezetője, szakmai munkakörben foglalkoztatott munkatársa,
 
-c) a gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó szolgáltatás, intézmény fenntartója, vezetője,
+c) a befogadó szülő,
 
-d) a befogadó szülő,
+d) a gyermekjogi képviselő, továbbá a betegjogi képviselő és az ellátottjogi képviselő, ha a gyermek panaszának orvoslása érdekében ez feltétlenül szükséges,
 
-e) a gyermekjogi képviselő, illetve amennyiben a gyermek panaszának orvoslása érdekében feltétlenül szükséges a betegjogi képviselő, illetve az ellátottjogi képviselő,
+e) az áldozatsegítés és a kárenyhítés feladatait ellátó szervezet,
 
-f) az áldozatsegítés és a kárenyhítés feladatait ellátó szervezetek,
+f) a gyermekvédelmi szakértői bizottság,
 
-g) a gyermekvédelmi szakértői bizottság.
+g) a gyermekvédelmi gyám,
+
+h) a pártfogó felügyelői szolgálat, a megelőző pártfogó felügyelő,
+
+i) a javítóintézet.
 
 (2) Az (1) bekezdés szerinti szervek jogosultak
 
@@ -62,15 +66,35 @@ cd) lakóhelyén életvitelszerűen tartózkodó személyek személyazonosító 
 
 ce) sorsának megtervezése szempontjából jelentőséggel bíró személyek, így különösen a korábbi gondozók, szomszédok elérhetőségére vonatkozó,
 
-cf) háziorvosának, védőnőjének, amennyiben óvodai, iskolai nevelésben részesül, a nevelési-oktatási intézmény vezetőjének elérhetőségére vonatkozó
+cf) háziorvosának, védőnőjének, amennyiben óvodai, iskolai nevelésben részesül, a nevelési-oktatási intézmény vezetőjének elérhetőségére vonatkozó,
+
+d) a javítóintézetben ellátott fiatalkorúnak, és a vele a javítóintézetben együttesen elhelyezett gyermekének
+
+da) személyazonosító, valamint a társadalombiztosítási azonosító jelére vonatkozó,
+
+db) anyanyelvére vonatkozó,
+
+dc) megfelelő javítóintézeti ellátásához, neveléséhez szükséges és elégséges adatainak, így különösen a személyiségére, magatartására, személyes kapcsolataira, szokásaira, tanulmányi eredményeire, neveltségi állapotára vonatkozó,
+
+dd) egészségi állapotára vonatkozó,
+
+de) büntetlen előéletére, valamint a vele kapcsolatos hatósági, bírósági eljárásokra, határozatokra vonatkozó,
+
+df) kóros szenvedélyére vonatkozó,
+
+dg) áldozattá válásának körülményeire vonatkozó, az Ást. 16. § (2) bekezdés a)–c) pontjában meghatározott,
+
+dh) a kapcsolattartáshoz való jogának biztosítása érdekében a vele kapcsolattartásra jogosult személyek személyazonosító,
+
+di) a javítóintézet utógondozó részlegén történő ellátás biztosítása érdekében szükséges és elégséges adatainak, így különösen vagyoni helyzetére, környezetére, élelmezésére, ruházatára, lakhatási viszonyaira vonatkozó
 
 adatainak a kezelésére.
 
 (3) A személyes gondoskodást nyújtó (1) bekezdésben meghatározott szervek és személyek a gyermek nevelkedésének megtervezését az (1) és (2) bekezdésben meghatározott adattartalmú – külön jogszabályban meghatározott – környezettanulmány, elhelyezési javaslat, egyéni elhelyezési terv, egyéni gondozási-nevelési terv alapján végzik. A (2) bekezdésben meghatározott adatkörök pontos tartalmát a külön jogszabály szerinti gyermekvédelmi nyilvántartás rögzíti.
 
-(4) A gyermekjóléti szolgálat, és a gyámhatóság a 15. § (2)–(4) bekezdésben meghatározott ellátások nyújtása, illetve intézkedések alkalmazása során a (2) bekezdésben meghatározott adatokon túl
+(4) A gyermekjóléti szolgálat, a gyámhatóság, a pártfogó felügyelői szolgálat, a megelőző pártfogó felügyelő a 15. § (2)–(4) bekezdésében meghatározott ellátások nyújtása vagy intézkedések alkalmazása során a (2) bekezdésben meghatározott adatokon túl
 
-a) a gyermek, illetve a fiatalkorú által elkövetett bűncselekményre,
+a) a gyermek által megvalósított, a fiatalkorú által elkövetett bűncselekményre és szabálysértésre,
 
 b) a szülő vagy más törvényes képviselő által a gyermek sérelmére elkövetett bűncselekményre,
 
@@ -132,7 +156,7 @@ ek) ea)–ej) alpontba tartozó adatain kívül a vele kapcsolatos gyámhatósá
 
 (6) Az (1) bekezdésben felsorolt szervek, illetve személyek az érintett személyazonosító adatait, valamint a gyermek (2) bekezdésben meghatározott adatait a 15. § (1)–(4) bekezdései szerinti célból egymásnak átadhatják.
 
-(7) Gyámhatóság, a gyermekjóléti szolgálat vezetője és a területi gyermekvédelmi szakszolgálat vezetője kezelheti a 135. § (2) bekezdés ai) és bf) alpontjában meghatározott adatokat. Ezeket a felsorolt szervek és személyek a 15. § (1)–(4) bekezdésében meghatározott szolgáltatások nyújtása és intézkedések megtétele vagy azok ellenőrzése, illetve az áldozatsegítő szolgálat tevékenységének elősegítése céljából egymásnak, illetve az áldozatsegítő szolgálatnak átadhatják.
+(7) Gyámhatóság, a gyermekjóléti szolgálat vezetője és a területi gyermekvédelmi szakszolgálat vezetője kezelheti a (2) bekezdés ai) és bf) alpontjában meghatározott adatokat. Ezeket a felsorolt szervek és személyek a 15. § (1)–(5) bekezdésében meghatározott szolgáltatások, ellátások nyújtása és intézkedések megtétele vagy azok ellenőrzése, illetve az áldozatsegítő szolgálat tevékenységének elősegítése céljából egymásnak, illetve az áldozatsegítő szolgálatnak átadhatják.
 
 (8) Az országos örökbefogadást elősegítő szerv a gyermek belföldön történő örökbefogadásának elősegítése, a nevelésbe vett gyermek belföldi örökbefogadására tett intézkedések eredménytelenségének megállapítása és a származás megismeréséhez való jog érvényesülésének biztosítása céljából kezeli
 

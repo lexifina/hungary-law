@@ -10,7 +10,7 @@ továbbíthatók.
 
 a) a szociális hatáskört gyakorló szervnek a szociális ellátás megállapítása,
 
-b) a rendőrségnek, az ügyészségnek, a bíróságnak, az igazságügyi szakértőnek bűnüldözés és bűnmegelőzés, illetve bírósági eljárás lefolytatása,
+b) a rendőrségnek, az ügyészségnek, a bíróságnak, az igazságügyi szakértőnek a bűnüldözés és bűnmegelőzés, valamint bírósági eljárás lefolytatása, továbbá a pártfogó felügyelőnek a büntetőeljárásról szóló törvény szerinti környezettanulmány, pártfogó felügyelői vélemény és összefoglaló pártfogó felügyelői vélemény elkészítése,
 
 c) a külföldi hatóságnak, illetve bíróságnak családi jogállás, gyermektartás, kapcsolattartás, gyámság, örökbefogadás, a gyermek érdekében tett ideiglenes intézkedés, valamint a gyermek jogellenes külföldre vitelének megszüntetése
 
@@ -24,9 +24,9 @@ a) az egészségbiztosítási szervnek a gyermek társadalombiztosítási azonos
 
 b) egészségügyi intézménynek az egészségi állapotra vonatkozó adatok gyógykezelés céljából,
 
-c) a közoktatási és felsőoktatási intézménynek a tanulmányi eredményre vonatkozó adatok,
+c) a köznevelési és felsőoktatási intézménynek a tanulmányi eredményre vonatkozó adatok,
 
-d) a közoktatási és felsőoktatási intézménynek a rendszeres gyermekvédelmi kedvezményre való jogosultságra vonatkozó adatok a gyermeknek, fiatal felnőttnek járó természetbeni ellátások és kedvezmények igénybevétele céljából
+d) a köznevelési és felsőoktatási intézménynek a rendszeres gyermekvédelmi kedvezményre való jogosultságra vonatkozó adatok a gyermeknek, fiatal felnőttnek járó természetbeni ellátások és kedvezmények igénybevétele céljából
 
 továbbíthatók.
 

@@ -20,7 +20,7 @@ c) a gyermekotthon telephelye vagy a nevelőszülő lakóhelye megváltozik,
 
 a) kórházi kezelés alatt áll,
 
-b) diákotthonban, kollégiumban van,
+b) kollégiumban van,
 
 c) tanulmányai folytatása, illetve üdülés céljából harminc napot meghaladóan külföldön tartózkodik,
 

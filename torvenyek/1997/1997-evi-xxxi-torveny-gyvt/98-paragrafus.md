@@ -8,7 +8,7 @@ a) a fenntartó nevét, székhelyét, adószámát és típusát,
 
 b) a fenntartó és a szolgáltató, intézmény, hálózat (székhely, telephely) telefonszámát, telefaxszámát, elektronikus levélcímét, honlapjának címét, valamint kapcsolattartójának nevét, beosztását, telefonszámát és elektronikus levélcímét,
 
-c) helyettes szülői és nevelőszülői ellátás esetén a helyettes szülők, nevelőszülők nevét, az ellátás helyét, az egyes helyettes szülőknél, nevelőszülőknél elhelyezhető gyermekek és fiatal felnőttek számát, speciális vagy különleges hivatásos nevelőszülő esetén az erre vonatkozó adatot, és
+c) helyettes szülői és nevelőszülői ellátás esetén a helyettes szülők, nevelőszülők nevét, az ellátás helyét, az egyes helyettes szülőknél, nevelőszülőknél elhelyezhető gyermekek és fiatal felnőttek számát, speciális vagy különleges nevelőszülő esetén az erre vonatkozó adatot, és
 
 d) a szolgáltató, intézmény, hálózat (székhely, telephely) és az általa végzett gyermekjóléti és gyermekvédelmi szolgáltató tevékenység kormányrendeletben meghatározott adatait.
 

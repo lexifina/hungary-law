@@ -2,7 +2,7 @@
 
 ## A fenntartó feladat- és jogköre
 
-104. § (1) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet ellátó állami és nem állami intézmény fenntartója
+104. § (1) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet ellátó állami és nem állami intézmény, valamint a javítóintézeti ellátást nyújtó állami intézmény fenntartója
 
 a) dönt az intézmény alapító okiratáról, gazdálkodási köréről, átszervezéséről, megszüntetéséről, tevékenységi körének módosításáról, nevének megállapításáról,
 

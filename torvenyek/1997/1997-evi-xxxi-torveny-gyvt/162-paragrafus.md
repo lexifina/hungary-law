@@ -40,6 +40,8 @@ r) a védelembe vételhez kapcsolódóan a családi pótlék természetbeni form
 
 s) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető, központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait,
 
+sz) a gyámhatósági eljárásnak a megelőző pártfogás elrendelésére, felülvizsgálatára, az azzal kapcsolatos döntések meghozatalára és végrehajtására irányuló szabályait,
+
 t) az egyházi kiegészítő támogatás megtérítésére irányuló eljárás részletes szabályait,
 
 u) a gyermekvédelmi igazgatási bírság megállapítására és megfizetésére irányuló eljárás részletes szabályait,
@@ -66,7 +68,7 @@ c) az egyes gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújt�
 
 d) a 102. §-ban és a 137. § (2) bekezdésében meghatározott eljárás részletes szabályait,
 
-e) a családi napközi, helyettes szülői és nevelőszülői képzés szakmai és vizsgakövetelményeit,
+e) a családi napközi, helyettes szülői és nevelőszülői képzés szakmai és vizsgakövetelményeit, valamint a nevelőszülők számára szervezett központi oktatási program szervezésére, szakmai és vizsgakövetelményeire vonatkozó részletes szabályokat,
 
 f) az e törvény szerinti gyermekvédelmi és szociálpolitikai szakértői szakterületeket, a gyermekvédelmi és szociálpolitikai szakértői tevékenység folytatásának, a tevékenységre jogosító engedély kiadásának a részletes szabályait, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, a névjegyzék vezetésére vonatkozó eljárás részletes szabályait, továbbá – az adópolitikáért felelős miniszter egyetértésével – az országos szakértői névjegyzékkel összefüggő eljárásokban fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait,
 
@@ -87,3 +89,5 @@ l) a Biztos Kezdet Gyerekház szakmai feladatait és működési feltételeit.
 (4) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
 
 (5) Felhatalmazást kap a nevelési-oktatási intézményt fenntartó helyi önkormányzat, hogy rendeletben határozza meg azokat a szabályokat, amelyek keretei között a nevelési-oktatási intézmény vezetője egyéni rászorultság alapján kedvezményt állapít meg a gyermekétkeztetés térítési díjának megfizetésére.
+
+(6) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a gyermekek és az ifjúság védelméért felelős miniszterrel egyetértésben rendeletben szabályozza a megelőző pártfogásnak a pártfogó felügyelői tevékenységre vonatkozó szabályait.

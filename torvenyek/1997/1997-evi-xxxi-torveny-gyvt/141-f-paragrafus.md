@@ -22,7 +22,9 @@ cd) az egységes örökbefogadási nyilvántartásnak az örökbe fogadó szül�
 
 ce) az egységes örökbefogadási nyilvántartásnak a válsághelyzetben lévő várandós anyára, a vér szerinti szülőre vonatkozó adataihoz,
 
-d) a központi hatóság az egységes örökbefogadási nyilvántartásba általa szolgáltatott adatokhoz, valamint az egységes örökbefogadási nyilvántartásnak azon örökbe fogadható gyermekekről vezetett adataihoz, amelyekhez az országos örökbefogadást elősegítő szerv a gyermek külföldre történő örökbefogadásának előkészítése céljából számára hozzáférést biztosít.
+d) a központi hatóság az egységes örökbefogadási nyilvántartásba általa szolgáltatott adatokhoz, valamint az egységes örökbefogadási nyilvántartásnak azon örökbe fogadható gyermekekről vezetett adataihoz, amelyekhez az országos örökbefogadást elősegítő szerv a gyermek külföldre történő örökbefogadásának előkészítése céljából számára hozzáférést biztosít,
+
+e) az örökbefogadás utánkövetését végző közhasznú szervezet az egységes örökbefogadási nyilvántartásba általa szolgáltatott adatokhoz.
 
 (2) A területi gyermekvédelmi szakszolgálat – a gyermek örökbe fogadhatónak nyilvánítása érdekében – az egységes örökbefogadási nyilvántartás adataiból tájékoztatást nyújt a gyámhatóság vagy a gyermekvédelmi gyám megkeresésére a nevelésbe vett gyermek örökbefogadásának várható esélyéről. Ha a területi gyermekvédelmi szakszolgálat az egységes örökbefogadási nyilvántartás általa hozzáférhető adatai alapján nem talál a gyermek számára örökbefogadó szülőt, haladéktalanul megkeresi az országos örökbefogadást elősegítő szervet.
 

@@ -14,6 +14,6 @@ a) mulasztott, megállapítja, hogy az iskoláztatási támogatás szüneteltet�
 
 b) nem mulasztott, kezdeményezi a kincstárnál az iskoláztatási támogatás szüneteltetésének megszüntetését.
 
-(4) A gyámhatóság a (3) bekezdés b) pontjában foglaltakon túl kezdeményezi a kincstárnál az iskoláztatási támogatás szüneteltetésének megszüntetését, ha a gyermek (fiatal felnőtt) nevelőszülőnél, hivatásos nevelőszülőnél, gyermekotthonban, szociális intézményben történő elhelyezésére került sor, vagy a gyermekvédelmi gondoskodás alatt álló gyermek (fiatal felnőtt) javítóintézetbe, büntetés-végrehajtási intézetbe került.
+(4) A gyámhatóság a (3) bekezdés b) pontjában foglaltakon túl kezdeményezi a kincstárnál az iskoláztatási támogatás szüneteltetésének megszüntetését, ha a gyermek (fiatal felnőtt) nevelőszülőnél, gyermekotthonban, szociális intézményben történő elhelyezésére került sor, vagy a gyermekvédelmi gondoskodás alatt álló gyermek (fiatal felnőtt) javítóintézetbe, büntetés-végrehajtási intézetbe került.
 
 (5) A gyámhatóságnak a (3) bekezdés b) pontja és (4) bekezdés szerinti intézkedése ellen nincs helye fellebbezésnek.

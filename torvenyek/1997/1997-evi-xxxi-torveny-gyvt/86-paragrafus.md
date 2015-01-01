@@ -22,7 +22,9 @@ g) a gondozási helyről történő engedély nélküli távozás esetén a gyer
 
 h) szükség szerint, de legalább félévente jelentést készít a gyámhatóságnak a gyermek helyzetéről,
 
-i) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben meghatározottak szerint részt vesz a gyermek egyéni gondozási-nevelési tervének elkészítésében.
+i) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben meghatározottak szerint részt vesz a gyermek egyéni gondozási-nevelési tervének elkészítésében,
+
+j) együttműködik a gyermek megelőző pártfogó felügyelőjével és a gyermek gondozási helyével a bűnismétlés megelőzése érdekében, ha a gyámhatóság fenntartotta az ideiglenes hatállyal elhelyezett vagy nevelésbe vett gyermek megelőző pártfogását.
 
 (2) Ha a gyermekvédelmi gyám mellett a gyámhatóság egyes gyámi feladatok ellátására gyámként kirendeli a nevelőszülőt, a gyermekvédelmi gyám és a nevelőszülő köteles egymással együttműködni.
 

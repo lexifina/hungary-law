@@ -53,3 +53,5 @@ d) aki a szakmai gyakorlata meglétének vizsgálata során figyelembe veendő f
 e) akinek szülői felügyeleti jogát a bíróság jogerős ítéletével megszüntette, valamint – ha külön jogszabály másképp rendelkezik – akinek szülői felügyeleti joga a gyermek nevelésbe vétele miatt szünetel.
 
 (9) Megszűnik a gyermekjogi képviselő megbízatása, ha vele szemben a (8) bekezdésben meghatározott kizáró okok valamelyike fennáll, vagy ha a gyermekjogi képviselő a 11/B. § (3) bekezdésben meghatározott igazolási kötelezettségének ismételt szabályszerű felhívásra sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívülálló ok következménye.
+
+(10) A gyermekjogi képviselő a gyermekjogi képviselői feladatainak ellátása során hivatalból jár el, és e tevékenységével kapcsolatban a büntetőjogi védelem szempontjából közfeladatot ellátó személynek minősül.

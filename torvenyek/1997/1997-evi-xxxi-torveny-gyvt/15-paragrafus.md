@@ -42,19 +42,21 @@ f) a nevelési felügyelet elrendelése,
 
 g) az utógondozás elrendelése,
 
-h) az utógondozói ellátás elrendelése.
+h) az utógondozói ellátás elrendelése,
 
-(5) A gyermekvédelmi rendszer része a bíróság által javítóintézeti nevelésre utalt, illetve előzetes letartóztatásba helyezett fiatalkorúak intézeti ellátása. A fiatalkorúak javítóintézeti neveléséről külön törvény rendelkezik.
+i) a megelőző pártfogás elrendelése.
+
+(5) A gyermekvédelmi rendszer része a bíróság által javítóintézeti nevelésre utalt, illetve előzetes letartóztatásba helyezett fiatalkorúak javítóintézeti ellátása. A fiatalkorúak javítóintézeti neveléséről külön törvény rendelkezik.
 
 (6) A gyermekjóléti és gyermekvédelmi rendszerben foglalkoztatottakat – a külön jogszabályban meghatározott munkakörükkel összefüggésben – megilleti az a jog, hogy személyüket megbecsüljék, emberi méltóságukat és személyiségi jogaikat tiszteletben tartsák, tevékenységüket értékeljék és elismerjék.
 
 (7) A gyermekvédelmi rendszerben foglalkoztatott
 
-a) nevelő, gyermekfelügyelő, gondozó, csecsemő- és gyermekgondozó, befogadó szülő, családgondozó, utógondozó, gyermekjóléti és gyermekvédelmi intézmény vezetője, a gyermek, illetve a fiatal felnőtt közvetlen gondozása, családgondozása és utógondozása során,
+a) nevelő, gyermekfelügyelő, szakgondozó, gondozó, segédgondozó, gyermekgondozó, családi napközi szolgáltatást nyújtó személy, családi napközis koordinátor, helyettes szülő, nevelőszülő, családgondozó, utógondozó, családgondozó asszisztens, kisgyermeknevelő, gyermekvédelmi asszisztens, pszichológus, pszichológiai tanácsadó, szaktanácsadó, tanácsadó, jogász, elhelyezési ügyintéző, gyermekvédelmi ügyintéző, növendékügyi előadó, gyógypedagógus, fejlesztő pedagógus, gyógytornász, konduktor, gyógypedagógiai asszisztens, orvos, gyermekszakorvos, pszichiáter, örökbefogadási tanácsadó, javítóintézeti rendész, iskolai tanár, tanító, szakoktató, munkaoktató, ápolónő, gyermekjóléti, gyermekvédelmi intézmény vagy javítóintézet vezetője, vezető beosztású vagy vezető munkakörű dolgozója a gyermek, a fiatal felnőtt és a fiatalkorú közvetlen gondozása, ügyeinek intézése, családgondozása és utógondozása során,
 
-b) befogadó szülői tanácsadó, gyám a gyermek közvetlen gondozásának ellenőrzése, illetve törvényes képviseletének ellátása során
+b) helyettes szülői tanácsadó, nevelőszülői tanácsadó és gyermekvédelmi gyám a gyermek közvetlen gondozásának ellenőrzése, illetve törvényes képviseletének ellátása során
 
-hivatalból jár el, és e tevékenységével kapcsolatban a büntetőjogi védelem szempontjából közfeladatot ellátó személynek minősül.
+hivatalból jár el, e tevékenységével kapcsolatban a büntetőjogi védelem szempontjából közfeladatot ellátó személynek minősül.
 
 (8) A gyermekvédelmi rendszerben a külön jogszabályban meghatározott munkakörben, valamint önkéntes jogviszonyban nem foglalkoztatható az a személy, akivel szemben a 11/A. § (8) bekezdésben meghatározott kizáró okok valamelyike fennáll, vagy aki e törvényben meghatározott igazolási kötelezettségének ismételt szabályszerű felhívásra sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívülálló ok következménye.
 
@@ -71,3 +73,11 @@ hivatalból jár el, és e tevékenységével kapcsolatban a büntetőjogi véde
 (14) A pedagógus-munkakörben foglalkoztatott személyt és a pedagógus-munkakörből nyugdíjba vonult személyt az Nktv. szerinti pedagógusigazolvány illeti meg.
 
 (15) A pedagógus-munkakörben foglalkoztatott személyt a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint pótszabadság illeti meg.
+
+(16) A (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézmény és az (5) bekezdésben meghatározott javítóintézeti ellátást nyújtó intézmény vezetője
+
+a) bejelenti az intézményt a köznevelés információs rendszerébe, és
+
+b) a köznevelés információs rendszere alkalmazotti nyilvántartásába (a továbbiakban: alkalmazotti nyilvántartás) a pedagógus-munkakörben foglalkoztatottakról a pedagógus előmeneteli rendszer működtetésével összefüggésben adatot rögzít.
+
+(17) Az alkalmazotti nyilvántartás a pedagógiai-szakmai ellenőrzés időpontjának és megállapításainak kivételével tartalmazza az Nktv. 44. § (7) bekezdésében foglalt adatokat, valamint a szociális szakvizsga megszerzésének idejét.

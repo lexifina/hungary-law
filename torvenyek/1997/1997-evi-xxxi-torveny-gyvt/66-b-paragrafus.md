@@ -6,9 +6,9 @@
 
 (3) A nevelőszülői foglalkoztatási jogviszony az írásbeli keretmegállapodás alapján attól az időponttól jön létre, amelytől kezdve a gyámhatóság a határozatában a gyermek gondozási helyeként a nevelőszülő háztartását határozta meg.
 
-(4) Az (5) bekezdésben foglalt eset kivételével a nevelőszülő nevelőszülői foglalkoztatási jogviszonya mellett – a működtetővel kötött megállapodásban foglaltak szerint – időkorlátozás nélkül folytathat a Cst. 4. § d) pontjában meghatározott keresőtevékenységet, feltéve, hogy az a nála elhelyezett gyermek, fiatal felnőtt ellátását nem veszélyezteti.
+(4) A nevelőszülő nevelőszülői foglalkoztatási jogviszonya mellett – a működtetővel kötött megállapodásban foglaltak szerint – időkorlátozás nélkül folytathat a Cst. 4. § d) pontjában meghatározott keresőtevékenységet, feltéve, hogy az a nála elhelyezett gyermek, fiatal felnőtt ellátását nem veszélyezteti.
 
-(5) Ha a nevelőszülő a saját gyermekeit is beszámítva négy vagy annál több gyermek ellátását biztosítja, keresőtevékenységet heti húsz órát meg nem haladó időtartamban folytathat vagy időkorlátozás nélkül, feltéve, hogy a munkavégzés otthonában történik. A munkavégzésre a működtetővel kötött megállapodásban foglaltak szerint akkor kerülhet sor, ha a nevelőszülő ezzel nem veszélyezteti a nála elhelyezett gyermek, fiatal felnőtt ellátását.
+(5) A nevelőszülői foglalkoztatási jogviszonyból fakadó kötelezettségek teljesítése nem érinti a nevelőszülői foglalkoztatási jogviszony mellett létesített, munkavégzésre irányuló jogviszony munkaidejét.
 
 (6) A nevelőszülői foglalkoztatási jogviszony határozatlan időre jön létre. Kivételesen – helyettesítés vagy egyéb méltányolható ok esetén – a jogviszony határozott időre is létesíthető. A határozott idejű nevelőszülői foglalkoztatási jogviszonyra az Mt. 192. § (1), (2) és (4) bekezdését alkalmazni kell.
 

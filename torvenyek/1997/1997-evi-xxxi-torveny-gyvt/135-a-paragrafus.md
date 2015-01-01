@@ -44,7 +44,7 @@ dd) vagyoni helyzetére vonatkozó adatokat;
 
 e) a gyermek törvényes képviselőjének, a válsághelyzetben lévő várandós anya törvényes képviselőjének, a vér szerinti szülő törvényes képviselőjének személyazonosító adatait.
 
-(1a) Az örökbefogadás utánkövetését végző közhasznú szervezet az örökbefogadás utánkövetése érdekében kezelheti az örökbe fogadó szülő személyazonosító adatait, családi helyzetére, egészségi állapotára, vagyoni helyzetére vonatkozó adatokat, valamint a gyermek örökbefogadó családjába történő beilleszkedésére, nevelésére és fejlődésére vonatkozó adatokat.
+(1a) Az örökbefogadás utánkövetését végző közhasznú szervezet az örökbefogadás utánkövetése érdekében kezelheti az örökbefogadó szülő személyazonosító adatait, családi helyzetére, egészségi állapotára, vagyoni helyzetére vonatkozó adatokat, az örökbefogadott gyermek személyazonosító adatait, társadalombiztosítási azonosító jelét, valamint az örökbefogadó családjába történő beilleszkedésére, nevelésére és fejlődésére vonatkozó adatokat.
 
 (2) Ha az örökbefogadást elősegítő közhasznú szervezet szolgáltatása megszűnik, e tényről 8 napon belül tájékoztatja a szolgáltatást igénybe vevőt. A tájékoztatásban 30 napos határidő megjelölésével felhívja a szolgáltatást igénybe vevőt a hozzá benyújtott dokumentumok átvételére. Ha a szolgáltatást igénybe vevő a dokumentumokat nem veszi át, úgy ezeket és a tevékenysége során keletkezett iratokat megküldi a szolgáltatást engedélyező szervnek.
 

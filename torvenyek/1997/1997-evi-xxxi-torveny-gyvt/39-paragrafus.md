@@ -24,6 +24,8 @@ c) az a) pontban, valamint a 17. § (1) bekezdésében meghatározott személyek
 
 d) tájékoztatás az egészségügyi intézményeknél működő inkubátorokból, illetve abba a gyermek örökbefogadáshoz való hozzájárulás szándékával történő elhelyezésének lehetőségéről.
 
+(3a) A gyermekjóléti szolgáltatás a gyermek veszélyeztetettségének megelőzése érdekében iskolai szociális munkát biztosíthat.
+
 (4) A gyermekjóléti szolgáltatás feladata a kialakult veszélyeztetettség megszüntetése érdekében
 
 a) a gyermekkel és családjával végzett szociális munkával (a továbbiakban: családgondozás) elősegíteni a gyermek problémáinak rendezését, a családban jelentkező működési zavarok ellensúlyozását,
@@ -48,7 +50,11 @@ da) a gyermek védelembe vételére, illetve a családi pótlék természetbeni 
 
 db) a gyermek tankötelezettsége teljesítésének előmozdítására,
 
-dc) a gyermek családjából történő kiemelésére, a leendő gondozási helyére vagy annak megváltoztatására.
+dc) a gyermek családjából történő kiemelésére, a leendő gondozási helyére vagy annak megváltoztatására,
+
+dd) a gyermek megelőző pártfogásának mellőzésére, elrendelésére, fenntartására, megszüntetésére.
+
+e) együttműködés a pártfogó felügyelői szolgálattal és a megelőző pártfogó felügyelővel a bűnismétlés megelőzése érdekében, ha a gyámhatóság elrendelte a gyermek megelőző pártfogását.
 
 (5) A gyermekjóléti szolgáltatás feladata a családjából kiemelt gyermek visszahelyezése érdekében
 

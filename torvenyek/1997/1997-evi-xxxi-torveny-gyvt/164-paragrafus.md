@@ -1,0 +1,1 @@
+164. § A 2014. január 1-jét megelőzően nevelésbe vett gyermek gondozási helyét kizárólag a nevelőszülői vagy a hivatásos nevelőszülői jogviszonynak nevelőszülői foglalkoztatási jogviszonnyá történő átalakulása miatt nem lehet megváltoztatni.

@@ -10,6 +10,8 @@ b) száznegyven százaléka, ha a nevelt gyermek tartósan beteg, fogyatékos va
 
 (3) A nevelőszülő a nevelési díj mellett külön ellátmányban is részesül a gyermek, fiatal felnőtt élelmezésének és a lakásfenntartás költségeinek kiegészítésére. Az ellátmány éves összege nem lehet kevesebb – gyermekenként, fiatal felnőttenként – az éves nevelési díj 25%-ánál.
 
+(3a) A külön ellátmányból a kizárólagosan a gyermek, fiatal felnőtt ellátására szolgáló nevelési díj, külön ellátmány és családi pótlék fogadása érdekében létesített bankszámla és az ahhoz kapcsolódó bankkártya költségei is fedezhetők.
+
 (4) A (3) bekezdésben meghatározott külön ellátmányt elsősorban pénzben biztosítják, és a nevelési díjjal együtt havonta folyósítják.
 
 (5) A nevelőszülő az (1)–(3) bekezdésben meghatározott juttatásokat kizárólag a gyermek, fiatal felnőtt megfelelő ellátására fordíthatja.
