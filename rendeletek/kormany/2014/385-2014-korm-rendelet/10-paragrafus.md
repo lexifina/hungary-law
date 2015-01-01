@@ -1,0 +1,5 @@
+10. § (1) Ha a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék közszolgáltató által történő átvételekor, összegyűjtésekor, elszállításakor a hulladék a gyűjtőedényből kiesik vagy kiszóródik, a hulladék felszedéséről és elszállításáról, valamint a terület megtisztításáról a közszolgáltató gondoskodik.
+
+(2) A hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék ingatlanhasználótól történő átvételét, összegyűjtését és elszállítását végző közszolgáltató gyűjtőjárművén munkát végző alkalmazottak közül legalább egy jelenlévőnek a hulladék átvételére, összegyűjtésére vonatkozó alapfokú szakirányú képesítéssel kell rendelkeznie.
+
+(3) Ha az ingatlanhasználó kérésére a közszolgáltató áru- vagy hulladékszállítás céljára használatos fémkonténert helyez el közterületen, annak érdekében, hogy abban az ingatlanhasználó a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékot helyezhessen el, a fémkonténer kizárólag annak hulladékkal való megtöltéséig tartható közterületen, azt követően a közszolgáltatónak haladéktalanul el kell szállítania.

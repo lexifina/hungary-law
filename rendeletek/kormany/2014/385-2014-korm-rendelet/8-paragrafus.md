@@ -1,0 +1,3 @@
+8. § (1) A közszolgáltató a települési hulladék elkülönített gyűjtésére szolgáló gyűjtőedényt – a (2) bekezdésben foglalt kivétellel – a gyűjtőedényben elhelyezhető hulladékfajtára és -jellegre vagy -típusra utaló, egyértelműen felismerhető és megkülönböztethető színnel, valamint jelzéssel vagy felirattal látja el. A feliratnak tartósnak, jól láthatónak és olvashatónak kell lennie.
+
+(2) Ha a települési hulladékot hulladékgyűjtő zsákban gyűjtik, a zsákot olyan színnel, jelzéssel vagy felirattal kell ellátni, amelyből egyértelműen kiderül, hogy a zsák milyen hulladékot tartalmaz.

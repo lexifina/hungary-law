@@ -1,0 +1,3 @@
+5. § (1) Az ingatlanhasználó a települési hulladék gyűjtésére szolgáló gyűjtőedényt az ingatlanon belül tartja, azt közterületen tartósan csak a közterület használatára vonatkozó önkormányzati rendeletben meghatározottak szerint helyezheti el. Nem tekinthető tartós közterület használatnak a gyűjtőedény ürítési célból történő közterületre helyezése.
+
+(2) Az ingatlanhasználó gondoskodik arról, hogy a települési hulladék közszolgáltatónak történő átadása, továbbá az ingatlanhasználó által gyűjtőhelyre történő elszállítása biztonságosan, a környezet veszélyeztetését, szennyezését, károsítását, valamint a hulladék kiszóródását kizáró módon történjen.
