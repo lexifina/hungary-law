@@ -2,7 +2,7 @@
 
 a) a szakmai önéletrajzot,
 
-b)[^19] a nevelő-oktató munka alap- és szabadon választható dokumentumait,
+b)[^21] a nevelő-oktató munka alap- és szabadon választható dokumentumait,
 
 c) a pedagógiai szakmai és egyéb tevékenységek bemutatását, dokumentumait,
 
@@ -36,7 +36,7 @@ h) elkötelezettség és szakmai felelősségvállalás a szakmai fejlődésért
 
 (5) A minősítő vizsga és minősítési eljárás során használt kérdőívek, értékelőlapok, megfigyelési, önértékelési szempontok, feldolgozási segédletek és szempontsorok (a továbbiakban együtt: pedagógusértékelési eszközök) egységesek és nyilvánosak.
 
-(6)[^20] A portfólió részletes követelményeit, a tartalmi elemekhez tartozó alap- és szabadon választható dokumentumok listáját az OH dolgozza ki, és teszi közzé az OH honlapján. A pedagógusértékelési eszközöket az OH dolgozza ki, és a miniszter hagyja jóvá.
+(6)[^22] A portfólió részletes követelményeit, a tartalmi elemekhez tartozó alap- és szabadon választható dokumentumok listáját az OH dolgozza ki, és teszi közzé az OH honlapján. A pedagógusértékelési eszközöket az OH dolgozza ki, és a miniszter hagyja jóvá.
 
-[^19]: A 8. § (1) bekezdés b) pontja a 268/2014. (XI. 3.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^20]: A 8. § (6) bekezdése a 268/2014. (XI. 3.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
+[^21]: A 8. § (1) bekezdés b) pontja a 268/2014. (XI. 3.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^22]: A 8. § (6) bekezdése a 268/2014. (XI. 3.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.

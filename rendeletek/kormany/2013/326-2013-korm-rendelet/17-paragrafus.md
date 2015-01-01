@@ -1,6 +1,6 @@
 ## 7. A pedagógusok munkaidejének beosztása
 
-17. § (1)[^39] Nevelési-oktatási intézményben a pedagógus számára a kötött munkaidőnek neveléssel-oktatással le nem kötött részében
+17. § (1)[^50] Nevelési-oktatási intézményben a pedagógus számára a kötött munkaidőnek neveléssel-oktatással le nem kötött részében
 
 1. foglalkozások, tanítási órák előkészítése,
 
@@ -40,13 +40,13 @@
 
 19. hangszerkarbantartás megszervezése,
 
-20.[^40] különböző feladatellátási helyekre történő alkalmazás esetében a köznevelési intézmény telephelyei közötti utazás,
+20.[^51] különböző feladatellátási helyekre történő alkalmazás esetében a köznevelési intézmény telephelyei közötti utazás,
 
-21.[^41] a pedagógiai program célrendszerének megfelelő, az éves munkatervben rögzített, tanórai vagy egyéb foglalkozásnak nem minősülő feladat ellátása, valamint
+21.[^52] a pedagógiai program célrendszerének megfelelő, az éves munkatervben rögzített, tanórai vagy egyéb foglalkozásnak nem minősülő feladat ellátása, valamint
 
-22.[^42] a gyakornok felkészülése a minősítő vizsgára,
+22.[^53] a gyakornok felkészülése a minősítő vizsgára,
 
-23.[^43] pedagógus-továbbképzésben való részvétel
+23.[^54] pedagógus-továbbképzésben való részvétel
 
 ## rendelhető el.
 
@@ -80,7 +80,7 @@ m) az iskola pedagógiai programjában rögzített, a tanítási órák keretéb
 
 ## lehet.
 
-(2a)[^44] Pedagógiai szakszolgálati intézményben a pedagógus számára a kötött munkaidőnek neveléssel-oktatással le nem kötött részében
+(2a)[^55] Pedagógiai szakszolgálati intézményben a pedagógus számára a kötött munkaidőnek neveléssel-oktatással le nem kötött részében
 
 1. foglalkozások, vizsgálatok, szűrések, egyéb közvetlen foglalkozások előkészítése,
 
@@ -122,7 +122,7 @@ m) az iskola pedagógiai programjában rögzített, a tanítási órák keretéb
 
 (3) A pedagógus a kötött munkaidőben köteles a nevelési-oktatási intézményben, pedagógiai szakszolgálati intézményben tartózkodni, kivéve, ha kizárólag az intézményen kívül ellátható feladatot lát el. A kollektív szerződés, ennek hiányában a munkáltató határozza meg, hogy melyek azok a feladatok, amelyeket a pedagógusnak a nevelési-oktatási intézményben, pedagógiai szakszolgálat intézményében, és melyek azok a feladatok, amelyeket az intézményen kívül lehet teljesítenie.
 
-(4)[^45] A neveléssel-oktatással lekötött munkaidejét meghaladóan a pedagógusnak további tanórai és egyéb foglalkozás, pedagógiai szakszolgálati közvetlen foglalkozás megtartása akkor rendelhető el, ha
+(4)[^56] A neveléssel-oktatással lekötött munkaidejét meghaladóan a pedagógusnak további tanórai és egyéb foglalkozás, pedagógiai szakszolgálati közvetlen foglalkozás megtartása akkor rendelhető el, ha
 
 a) a munkakör nincs betöltve, a pályázati eljárás idejére,
 
@@ -130,7 +130,7 @@ b) a munkakör nincs betöltve, és az álláshelyre kiírt nyilvános pályáza
 
 c) a betöltött munkakör feladatainak ellátása betegség, baleset vagy egyéb ok miatt váratlanul lehetetlenné vált.
 
-(5)[^46] A (4) bekezdésben meghatározottak alapján az egy pedagógusnak elrendelhető tanórai és egyéb foglalkozások, pedagógiai szakszolgálati közvetlen foglalkozások száma egy tanítási napon a kettő, egy tanítási héten a hat órát nem haladhatja meg. A neveléssel-oktatással lekötött munkaidő, óvodapedagógus esetében a kötött munkaidő felső határa felett eseti helyettesítés a (4) bekezdésben foglaltak alapján rendelhető el, egy pedagógus számára tanítási évenként legfeljebb harminc tanítási napra, óvoda esetében egy nevelési éven belül legfeljebb harminc napra.
+(5)[^57] A (4) bekezdésben meghatározottak alapján az egy pedagógusnak elrendelhető tanórai és egyéb foglalkozások, pedagógiai szakszolgálati közvetlen foglalkozások száma egy tanítási napon a kettő, egy tanítási héten a hat órát nem haladhatja meg. A neveléssel-oktatással lekötött munkaidő, óvodapedagógus esetében a kötött munkaidő felső határa felett eseti helyettesítés a (4) bekezdésben foglaltak alapján rendelhető el, egy pedagógus számára tanítási évenként legfeljebb harminc tanítási napra, óvoda esetében egy nevelési éven belül legfeljebb harminc napra.
 
 (6) Azokban a kollégiumokban, amelyekben a pedagógiai felügyelői munkakör nem került bevezetésre, a pedagógus neveléssel-oktatással lekötött munkaideje heti harminc, gyakorló kollégiumban és fogyatékos tanulók kollégiumában heti huszonhat óra, amely teljesíthető az iskolai vagy kollégiumi foglalkozáson részt nem vevő tanulók – étkezési, alvási és a heti pihenőnapon, munkaszüneti napon teljesített ügyeleti időn kívüli – folyamatos pedagógiai felügyeletének ellátásával is. Ebben az esetben a kollégiumi pedagóguslétszám meghatározásánál figyelembe kell venni a tanulók nemenként és épületenként megadott létszámát, a kollégiumi foglalkozási időn kívül nemenként és épületenként átlagosan 100, legfeljebb 120 fős tanulói csoporthoz egy pedagógussal számolva.
 
@@ -138,11 +138,11 @@ c) a betöltött munkakör feladatainak ellátása betegség, baleset vagy egyé
 
 (8) Az állami intézményfenntartó központ által fenntartott iskola intézményvezetője az iskolai tantárgyfelosztást a területileg illetékes tankerület vezetőjével egyeztetve készíti el.
 
-[^39]: A 17. § (1) bekezdés nyitó szövegrésze a 268/2014. (XI. 3.) Korm. rendelet 20. § h) pontja szerint módosított szöveg.
-[^40]: A 17. § (1) bekezdés 20. pontja a 99/2014. (III. 25.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
-[^41]: A 17. § (1) bekezdés 21. pontja a 99/2014. (III. 25.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^42]: A 17. § (1) bekezdés 22. pontját a 99/2014. (III. 25.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^43]: A 17. § (1) bekezdés 23. pontját a 268/2014. (XI. 3.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^44]: A 17. § (2a) bekezdését a 268/2014. (XI. 3.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^45]: A 17. § (4) bekezdés nyitó szövegrésze a 268/2014. (XI. 3.) Korm. rendelet 20. § i) pontja szerint módosított szöveg.
-[^46]: A 17. § (5) bekezdése a 99/2014. (III. 25.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 268/2014. (XI. 3.) Korm. rendelet 20. § j) pontja szerint módosított szöveg.
+[^50]: A 17. § (1) bekezdés nyitó szövegrésze a 268/2014. (XI. 3.) Korm. rendelet 20. § h) pontja szerint módosított szöveg.
+[^51]: A 17. § (1) bekezdés 20. pontja a 99/2014. (III. 25.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^52]: A 17. § (1) bekezdés 21. pontja a 99/2014. (III. 25.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^53]: A 17. § (1) bekezdés 22. pontját a 99/2014. (III. 25.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^54]: A 17. § (1) bekezdés 23. pontját a 268/2014. (XI. 3.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^55]: A 17. § (2a) bekezdését a 268/2014. (XI. 3.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^56]: A 17. § (4) bekezdés nyitó szövegrésze a 268/2014. (XI. 3.) Korm. rendelet 20. § i) pontja szerint módosított szöveg.
+[^57]: A 17. § (5) bekezdése a 99/2014. (III. 25.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 268/2014. (XI. 3.) Korm. rendelet 20. § j) pontja szerint módosított szöveg.
