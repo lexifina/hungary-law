@@ -8,7 +8,7 @@ a) az 50/B. § (1) bekezdésének a) pontjában meghatározott ellátások köz�
 
 aa) a magzat (orvos által igazolt) fogantatásának 91. napjától megszületéséig nyújtható szolgáltatás, a várandóssággal összefüggő orvosi ellátás igazolt költségének támogatására, valamint a magzat 91. napos korától a megszületéséig nyújtható, a gyermek megszületése, illetve örökbefogadása esetén nyújtható egyszeri, egyösszegű támogatás;
 
-ab) a terhességi-gyermekágyi segély, a gyermekgondozási díj kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
+ab) a csecsemőgondozási díj, a gyermekgondozási díj kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
 
 ac) a gyermekgondozási segély és a gyermeknevelési támogatás összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátással megegyező mértékben;
 

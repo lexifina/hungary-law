@@ -1,6 +1,6 @@
 ## Az egészségpénztárak által nyújtható kiegészítő egészségbiztosítási szolgáltatások köre
 
-51/B. § (1) Az egészségpénztár kiegészítő egészségbiztosítási szolgáltatásként a következő, az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) által nem, vagy csak részben finanszírozott szolgáltatásokat nyújthatja:
+51/B. § (1) Az egészségpénztár kiegészítő egészségbiztosítási szolgáltatásként a következő, az egészségbiztosítási szerv által nem, vagy csak részben finanszírozott szolgáltatásokat nyújthatja:
 
 a) egészségügyi szolgáltatás, mely a társadalombiztosítási ellátás keretében igénybe vehető egészségügyi szolgáltatások kiegészítése, vagy helyettesítése az egészségügyi szolgáltatónál megkötött szerződés alapján;
 
@@ -24,7 +24,7 @@ j) pénzbeli kiegészítő egészségbiztosítási szolgáltatások, amely a pé
 
 k) hátramaradottak segélyezése: a pénztártag halála esetén;
 
-l) OÉTI által nyilvántartásba vett, gluténmentes speciális élelmiszerek vásárlásának támogatása.
+l) az egészségügyi államigazgatási szerv által nyilvántartásba vett, gluténmentes speciális élelmiszerek vásárlásának támogatása.
 
 m) szolgáltatást finanszírozó egészségbiztosítások (betegség biztosítások) díjának fizetése.
 

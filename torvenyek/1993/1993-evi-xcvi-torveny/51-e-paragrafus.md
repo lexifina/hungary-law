@@ -26,7 +26,7 @@ f) a d) pont alapján készült életvezetési javaslat, amely kiterjed
 
 (4) A személyes egészségterv alapján indokolt, az egészség megőrzését és a megbetegedések megelőzését elősegítő – az orvosi javaslat alapján – igénybe vehető szolgáltatások közül az 51/B. § (1) bekezdésének d) pontjában felsorolt szolgáltatások prevenciós szolgáltatásnak minősülnek.
 
-(5) Prevenciós szolgáltatásnak minősülnek az elkerülhető megbetegedések korai felismerésére irányuló, az 51/B. § (1) bekezdésének a) pontjában foglaltaknak megfelelő orvosi javaslatra igénybe vett szűrővizsgálatok, ideértve az OEP által nem finanszírozott, működési engedéllyel rendelkező szakorvos által végzett szűrést, így különösen
+(5) Prevenciós szolgáltatásnak minősülnek az elkerülhető megbetegedések korai felismerésére irányuló, az 51/B. § (1) bekezdésének a) pontjában foglaltaknak megfelelő orvosi javaslatra igénybe vett szűrővizsgálatok, ideértve az egészségbiztosítási szerv által nem finanszírozott, működési engedéllyel rendelkező szakorvos által végzett szűrést, így különösen
 
 a) méhnyakrákszűrés;
 

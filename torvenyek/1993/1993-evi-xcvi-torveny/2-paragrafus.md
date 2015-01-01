@@ -102,7 +102,7 @@ g) gyógyszer és gyógyászati segédeszköz árának támogatása:
 
 5. az anyatej-helyettesítő és anyatej-kiegészítő tápszerekről szóló jogszabályban meghatározott tápszerek megvásárlásának támogatása;
 
-6. a speciális gyógyászati célra szánt tápszerekről szóló jogszabályban meghatározott tápszerek, és az Országos Élelmezés- és Táplálkozástudományi Intézet által nyilvántartásba vett, gluténmentes speciális élelmiszerek megvásárlásának támogatása;
+6. a speciális gyógyászati célra szánt tápszerekről szóló jogszabályban meghatározott tápszerek, és az egészségügyi államigazgatási szerv által nyilvántartásba vett, gluténmentes speciális élelmiszerek megvásárlásának támogatása;
 
 7. társadalombiztosítási támogatással rendelhető, illetve kölcsönözhető gyógyászati segédeszközökről, a támogatás összegéről és mértékéről szóló jogszabályban meghatározott gyógyászati segédeszközök megvásárlásának, kölcsönzésének támogatása, a társadalombiztosítás által nem finanszírozott részre, vagy e támogatás igénybevétele nélküli megvásárlásának, valamint javításának támogatása;
 
@@ -112,7 +112,7 @@ g) gyógyszer és gyógyászati segédeszköz árának támogatása:
 
 10. gyógyvizek és gyógyiszap megvásárlásának támogatása;
 
-11. Az Országos Gyógyszerészeti Intézet által kiadott engedélyszámmal és forgalomba hozatali engedéllyel rendelkező, gyógyszernek nem minősülő gyógyhatású termékek;
+11. Az egészségügyi államigazgatási szerv által kiadott engedélyszámmal és forgalomba hozatali engedéllyel rendelkező, gyógyszernek nem minősülő gyógyhatású termékek;
 
 12. az 1–11. pontokban felsorolt termékek házhoz szállítása;
 
