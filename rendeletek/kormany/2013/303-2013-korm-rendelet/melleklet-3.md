@@ -18,6 +18,6 @@
 
 ## h) Dátum, aláírás
 
-3. melléklet a 303/2013. (VII. 31.) Korm. rendelethez[^7]
+3. melléklet a 303/2013. (VII. 31.) Korm. rendelethez[^8]
 
-[^7]: A 3. melléklet a 221/2014. (IX. 4.) Korm. rendelet 749. §-ával megállapított, a 318/2014. (XII. 13.) Korm. rendelet 22. §-a, a 326/2014. (XII. 15.) Korm. rendelet 10. § 3. pontja szerint módosított szöveg.
+[^8]: A 3. melléklet a 221/2014. (IX. 4.) Korm. rendelet 749. §-ával megállapított, a 318/2014. (XII. 13.) Korm. rendelet 22. §-a, a 326/2014. (XII. 15.) Korm. rendelet 10. § 3. pontja, a 381/2014. (XII. 31.) Korm. rendelet 26–27. §-a szerint módosított szöveg.

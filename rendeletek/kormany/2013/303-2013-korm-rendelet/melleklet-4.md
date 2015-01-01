@@ -258,6 +258,14 @@
 
 ## 13.3. a nemzetbiztonsági ellenőrzéssel kapcsolatban kijelölt biztonsági megbízotti, ügyintézői, adminisztratív feladatokat ellátó munkakör
 
+## 13a. Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal
+
+## 13a.1. gazdasági vezető
+
+## 13a.2. Támogatáskezelési főosztály vezetője
+
+## 13a.3. tudományos és technológiai szakdiplomatának jelölt személy
+
 ## C) Központi hivatalok
 
 ## 14. A Balassi Intézetnél
@@ -490,11 +498,7 @@
 
 ## 35. A Nemzeti Fogyasztóvédelmi Hatóságnál a gazdasági vezető
 
-## 36. A Nemzeti Innovációs Hivatalnál
-
-## 36.1. a főosztályvezető és helyettese
-
-## 36.2. a TéT attaséi munkakör
+## 36.
 
 ## 37. A Nemzeti Közlekedési Hatóságnál
 
@@ -920,6 +924,6 @@
 
 ## 74.10. a titkárságvezető
 
-4–11. melléklet a 303/2013. (VII. 31.) Korm. rendelethez[^8]
+4–11. melléklet a 303/2013. (VII. 31.) Korm. rendelethez[^9]
 
-[^8]: A 4–11. mellékletet a 221/2014. (IX. 4.) Korm. rendelet 751. §-a hatályon kívül helyezte.
+[^9]: A 4–11. mellékletet a 221/2014. (IX. 4.) Korm. rendelet 751. §-a hatályon kívül helyezte.
