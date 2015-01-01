@@ -1,3 +1,3 @@
-7. melléklet a 320/2010. (XII. 27.) Korm. rendelethez[^62]
+7. melléklet a 320/2010. (XII. 27.) Korm. rendelethez[^63]
 
-[^62]: A 7. mellékletet a 7/2013. (I. 18.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
+[^63]: A 7. mellékletet a 7/2013. (I. 18.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
