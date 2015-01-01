@@ -8,7 +8,7 @@
 
 (4) A háznagyot mentelmi jog illeti meg. A mentelmi jogra a képviselők mentelmi jogára vonatkozó szabályokat kell alkalmazni.
 
-(5) A háznagy – a képviselői megbízatás kivételével – más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve – díjazást nem fogadhat el.
+(5) A háznagy – a képviselői megbízatás kivételével – más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenységet és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el.
 
 (6) A képviselői megbízatással rendelkező háznagy javadalmazása megegyezik az alelnök javadalmazásával.
 
