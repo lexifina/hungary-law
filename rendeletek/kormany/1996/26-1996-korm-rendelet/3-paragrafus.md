@@ -88,6 +88,6 @@
 
 3. § (1) E rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1995. szeptember 8. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a művelődési és közoktatási miniszter[^1] gondoskodik.
+(2)[^1] A rendelet végrehajtásáról az oktatásért felelős miniszterrel és a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnökével egyetértésben a kultúráért felelős miniszter gondoskodik.
 
-[^1]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének a) pontját.
+[^1]: A 3. § (2) bekezdése a 381/2014. (XII. 31.) Korm. rendelet 1. §-a szerint módosított szöveg.
