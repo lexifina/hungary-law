@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-121-00-00
 | 2013-09-01 | 2013. évi LXXVII. törvény | 1999-121-00-00.21 |
 | 2014-01-01 | 2013. évi CCXLIII. törvény | 1999-121-00-00.22 |
 | 2014-06-06 | 2014. évi XXI. törvény | 1999-121-00-00.23 |
+| 2015-01-01 | 2014. évi XCIX. törvény | 1999-121-00-00.24 |
