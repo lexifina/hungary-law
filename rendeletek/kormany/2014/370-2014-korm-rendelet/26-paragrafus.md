@@ -1,12 +1,16 @@
-## 21–25. §[^8]
+## szöveg lép.
 
-26. § (1)[^9]
+26. § (1)[^3]
 
-(2)[^10]
+(2)[^4]
 
-(3)[^11]
+(3) Hatályát veszti a 445/2012. Korm. rendelet
 
-[^8]: A 21–25. § a 41. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^9]: A 26. § (1) bekezdése a 41. § (4) bekezdése alapján 2015. október 2-án lép hatályba.
-[^10]: A 26. § (2) bekezdése a 41. § (5) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^11]: A 26. § (3) bekezdése a 41. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+a) 5. § (2) bekezdésében az „és” szövegrész.
+
+b) 5. § (3) bekezdésében az „és gyűjtési” szövegrész.
+
+c) 20. § (1) bekezdésében a „ , vagy a jogosultnak átadja”
+
+[^3]: A 26. § (1) bekezdése a 41. § (4) bekezdése alapján 2015. október 2-án lép hatályba.
+[^4]: A 26. § (2) bekezdése a 41. § (5) bekezdése alapján 2017. január 1-jén lép hatályba.

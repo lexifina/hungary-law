@@ -1,0 +1,1 @@
+## „c) az adott hulladékgazdálkodási tevékenységgel érintett éves maximális hulladékmennyiséget (tonnában kifejezve), szilárd és folyékony hulladék szállítása esetén a hulladékmennyiséget külön-külön is megadva.”

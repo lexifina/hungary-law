@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-370-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-12-31 | 2014-370-20-22.1 | 370/2014. (XII. 30.) Korm. rendelet |
+| 2015-01-01 | 2014-370-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |

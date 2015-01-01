@@ -1,3 +1,3 @@
-## 20. §[^7]
+## 20. §[^2]
 
-[^7]: A 20. § a 41. § (3) bekezdése alapján 2015. január 2-án lép hatályba.
+[^2]: A 20. § a 41. § (3) bekezdése alapján 2015. január 2-án lép hatályba.
