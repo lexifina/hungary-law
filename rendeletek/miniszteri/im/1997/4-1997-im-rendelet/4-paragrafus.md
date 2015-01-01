@@ -1,3 +1,0 @@
-4. § (1) Az intézet megőrzésében lévő külföldi fizetőeszközt, továbbá a 3. § (2) bekezdése szerinti bizonylatokat – a fogvatartott jelenlétében – zárt borítékban kell elhelyezni. A borítékon fel kell tüntetni a külföldi fizetőeszköz pénznemét, névértékét, címletét, azok sorszámát, illetve a bizonylatok azonosítására vonatkozó adatokat. A borítékon feltüntetett adatok valódiságát és a boríték lezárásának a megtörténtét az intézet képviselője és a fogvatartott együttes aláírása igazolja.
-
-(2) A külföldi fizetőeszköz megőrzéséről, átváltásáról, a devizaszámla nyitásáról és a fogvatartott ezekkel kapcsolatos rendelkezéseiről az intézet nyilvántartást vezet. A nyilvántartás egy példányát a fogvatartott részére át kell adni.

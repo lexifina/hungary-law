@@ -1,1 +1,0 @@
-A büntetések és intézkedések végrehajtásáról szóló, többször módosított 1979. évi 11. törvényerejű rendelet 127. §-ának (1) bekezdésében kapott felhatalmazás alapján – a legfőbb ügyésszel, a pénzügyminiszterrel és a Magyar Nemzeti Bank (a továbbiakban: MNB) elnökével egyetértésben – a következőket rendelem el:

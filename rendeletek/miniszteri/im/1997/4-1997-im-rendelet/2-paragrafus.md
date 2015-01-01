@@ -1,5 +1,0 @@
-2. § (1) Ha a fogvatartottnál az intézetbe történő befogadáskor külföldi fizetőeszköz van, vagy az később kerül a birtokába, az intézet köteles tájékoztatást adni a devizajogszabályokban meghatározott legfontosabb jogokról és kötelezettségekről. A tájékoztatás arra is kiterjed, hogy az intézetben a fogvatartott külföldi fizetőeszközt nem tarthat magánál.
-
-(2) A fogvatartottat – ha a külföldi fizetőeszköz tekintetében a devizajogszabályok és az intézetben elhelyezett fogvatartottakra vonatkozó jogszabályok keretei között másként nem rendelkezik – írásban nyilatkoztatni kell, hogy a konvertibilis fizetőeszközének a megőrzését az intézetre bízza, vagy felhatalmazza az intézetet, hogy azt a nevére nyitott devizaszámlán a devizaműveletek végzésére felhatalmazott hitelintézetnél helyezze el.
-
-(3) Ha a fogvatartott a birtokában lévő nem konvertibilis, de forgalomban lévő külföldi fizetőeszköz tekintetében a (2) bekezdés szerinti jogszabályok keretei között másként nem rendelkezik, azt az intézet megőrzésre veszi át.
