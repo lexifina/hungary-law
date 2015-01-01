@@ -1,0 +1,3 @@
+## 88. § Az Nszr. a következő 31/A. §-sal egészül ki:
+
+## „31/A. § Az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 353/2014. (XII. 29.) Korm. rendelettel megállapított 11. § (1) bekezdés n) és p) pontjában foglaltakat a nevelőszülő és a működtető által 2014. december 31-ét követően kötött keretmegállapodásra kell alkalmazni. A 2014. december 31-én fennálló keretmegállapodást az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 353/2014. (XII. 29.) Korm. rendelettel megállapított 11. § (1) bekezdés n) és p) pontjában foglaltaknak megfelelően a 2014. december 31-ét követő első módosítás alkalmával, de legkésőbb 2015. június 30-áig záradékolás útján kell kiegészíteni.”

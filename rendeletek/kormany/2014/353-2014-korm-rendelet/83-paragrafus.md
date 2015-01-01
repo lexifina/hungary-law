@@ -1,0 +1,1 @@
+## „p) a működtető hozzájárulását a nevelőszülő Gyvt. 66/B. § (4) bekezdésében foglaltak szerinti időkorlátozás nélküli keresőtevékenységéhez, indokolt esetben megjelölve azokat a feltételeket, amelyek biztosítják, hogy a keresőtevékenység a nála elhelyezett gyermek, fiatal felnőtt ellátását nem veszélyezteti,”

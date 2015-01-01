@@ -1,0 +1,1 @@
+## „(2a) Az időszakos jelentési kötelezettséget a (2) bekezdésben nem említett, adatszolgáltatási kötelezettséggel érintett szolgáltatások esetén legalább havonta, az adott hónap minden napjára, az adott hónap utolsó napját követő harmadik munkanap 24 óráig kell teljesíteni.”
