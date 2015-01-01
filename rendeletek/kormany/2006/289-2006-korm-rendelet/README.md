@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-289-20-
 | 2013-04-29 | 2006-289-20-22.16 | 123/2013. (IV. 26.) Korm. rendelet |
 | 2013-06-01 | 2006-289-20-22.17 | 123/2013. (IV. 26.) Korm. rendelet |
 | 2014-09-05 | 2006-289-20-22.18 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2015-01-01 | 2006-289-20-22.19 | 353/2014. (XII. 29.) Korm. rendelet |

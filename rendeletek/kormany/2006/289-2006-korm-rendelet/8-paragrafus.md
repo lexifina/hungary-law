@@ -1,7 +1,6 @@
-8. §[^32] A társadalombiztosítási nyugellátással összefüggő egyes kormányrendeletek módosításáról szóló 152/2011. (VIII. 10.) Korm. rendelettel megállapított 3. §-t a társadalombiztosítási nyugellátással összefüggő egyes kormányrendeletek módosításáról szóló 152/2011. (VIII. 10.) Korm. rendelet hatálybalépését[^33] követően indult eljárásokban kell alkalmazni.
+8. §[^37] Az ONYF 2015. január 1-jétől költségvetési szervként a Nyugdíjfolyósító Igazgatóság jogutódja.
 
-Melléklet a 289/2006. (XII. 23.) Korm. rendelethez[^34]
+Melléklet a 289/2006. (XII. 23.) Korm. rendelethez[^38]
 
-[^32]: A 8. §-t a 152/2011. (VIII. 10.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^33]: A hatálybalépés napja: 2011. augusztus 11.
-[^34]: A mellékletet a 318/2010. (XII. 27.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^37]: A 8. §-t a 152/2011. (VIII. 10.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^38]: A mellékletet a 318/2010. (XII. 27.) Korm. rendelet 6. §-a hatályon kívül helyezte.
