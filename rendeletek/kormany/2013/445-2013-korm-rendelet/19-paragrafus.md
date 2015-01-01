@@ -18,7 +18,7 @@ c) hatvan napnál régebben nyújtott be, de azt legalább a kérelem benyújtá
 
 ## és az (5) bekezdésben foglalt kivétellel az előzetes megállapodást kötő foglalkoztató a munkaerőigényt a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának annál a munkaügyi kirendeltségénél jelentette be, amelynek területén a harmadik országbeli állampolgár foglalkoztatása történik.
 
-(3)[^12] Ha a harmadik országbeli állampolgár foglalkoztatásának helye több különböző megye területén található, az (1) bekezdés b) és c) pontjában meghatározott feltételnek – a (4) bekezdésben meghatározott kivétellel – a foglalkoztató székhelye szerinti megyében kell fennállnia. Ezen túlmenően a támogató szakhatósági állásfoglalás kiadásának az is feltétele, hogy a munkavégzéssel érintett többi megye területén ne álljon rendelkezésre olyan kiközvetíthető munkaerő, aki a tevékenység ellátására rendelkezik a jogszabályban előírt, valamint a foglalkoztató munkaerőigényében megjelölt alkalmazási feltételekkel. A támogató szakhatósági állásfoglalás azonban kiadható azon munkavégzéssel érintett többi megye területére is, ahol megfelelő munkaerő nem áll rendelkezésre.
+(3)[^14] Ha a harmadik országbeli állampolgár foglalkoztatásának helye több különböző megye területén található, az (1) bekezdés b) és c) pontjában meghatározott feltételnek – a (4) bekezdésben meghatározott kivétellel – a foglalkoztató székhelye szerinti megyében kell fennállnia. Ezen túlmenően a támogató szakhatósági állásfoglalás kiadásának az is feltétele, hogy a munkavégzéssel érintett többi megye területén ne álljon rendelkezésre olyan kiközvetíthető munkaerő, aki a tevékenység ellátására rendelkezik a jogszabályban előírt, valamint a foglalkoztató munkaerőigényében megjelölt alkalmazási feltételekkel. A támogató szakhatósági állásfoglalás azonban kiadható azon munkavégzéssel érintett többi megye területére is, ahol megfelelő munkaerő nem áll rendelkezésre.
 
 (4) Ha a munkavégzés a munka természetéből adódóan több megye területére terjedhet ki, az (1) bekezdés b) és c) pontjában meghatározott feltételeknek a munkavégzés megkezdésének helye szerinti megye vonatkozásában kell fennállnia.
 
@@ -30,4 +30,4 @@ b) ha a harmadik országbeli állampolgárt a foglalkoztató több – különb�
 
 jelentse be.
 
-[^12]: A 19. § (3) bekezdése a 89/2014. (III. 20.) Korm. rendelet 7. § (9) bekezdésével megállapított szöveg.
+[^14]: A 19. § (3) bekezdése a 89/2014. (III. 20.) Korm. rendelet 7. § (9) bekezdésével megállapított szöveg.

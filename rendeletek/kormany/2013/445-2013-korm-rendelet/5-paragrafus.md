@@ -18,7 +18,7 @@ h) a szolgáltatás kizárólagos tárgya a külföldi munkáltatóval kötött 
 
 i) a harmadik országbeli állampolgár állandó lakóhelye szerinti ország illetékes hatósága a magyar állampolgárok adott országban történő munkavállalásának engedélyezését más országok állampolgáraira irányadó általános feltételekhez képest indokolatlanul nehezebb feltételhez köti (viszonosság hiánya),
 
-j)[^5] a harmadik országbeli állampolgár magyarországi foglalkoztatására a kérelmezett foglalkoztatás időtartamát érintően érvényes engedély van hatályban,
+j)[^6] a harmadik országbeli állampolgár magyarországi foglalkoztatására a kérelmezett foglalkoztatás időtartamát érintően érvényes engedély van hatályban,
 
 k) a foglalkoztató a harmadik országbeli állampolgár foglalkoztatása érdekében hamis vagy hamisított szakképzettséget, iskolai végzettséget igazoló okiratot nyújtott be.
 
@@ -32,7 +32,7 @@ c) érvényes munkaerőigénnyel rendelkezett, de abban közvetítést nem kért
 
 (3) Az (1) bekezdés i) pontjában meghatározott körülmény fennállásáról a munkaügyi központot a miniszter tájékoztatja.
 
-(4)[^6] Az (1) bekezdés j) pontjának alkalmazásában nem minősül érvényes engedélynek, ha a másik érvényes engedéllyel rendelkező foglalkoztató a munkavállalási engedély elbírálásáig kezdeményezi az engedély visszavonását.
+(4)[^7] Az (1) bekezdés j) pontjának alkalmazásában nem minősül érvényes engedélynek, ha a másik érvényes engedéllyel rendelkező foglalkoztató a munkavállalási engedély elbírálásáig kezdeményezi az engedély visszavonását.
 
-[^5]: Az 5. § (1) bekezdés j) pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^6]: Az 5. § (4) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^6]: Az 5. § (1) bekezdés j) pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (4) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (4) bekezdése iktatta be.
