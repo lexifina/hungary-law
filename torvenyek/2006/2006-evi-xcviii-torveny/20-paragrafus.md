@@ -10,7 +10,17 @@ ha valószínűsíthető, hogy az adott helyszínen a 14–15. § rendelkezései
 
 (3) A gyógyszerészeti államigazgatási szerv – a 14–15. §-okban foglaltak megtartásának ellenőrzésével összefüggésben – jogosult megismerni és kezelni az ügyfél és az ügyféllel kapcsolatba hozható személyek személyes adatait. Ha a bizonyítási eszköz az eljárás tárgyával össze nem függő személyes adatot is tartalmaz, és az adatok elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, a bizonyítási eszközzel érintett minden személyes adat kezelésére jogosult a gyógyszerészeti államigazgatási szerv, azonban a vizsgálat tárgyát képező jogsértéssel össze nem függő személyes adatok megvizsgálására csak addig a mértékig jogosult, ameddig meggyőződik arról, hogy az adat nem függ össze a vizsgálat tárgyát képező jogsértéssel.
 
-(4) A gyógyszerészeti államigazgatási szerv a tényállás tisztázása érdekében jogosult a gyógyszer forgalomba hozatali engedélyének jogosultja és az általa megbízott ismertetési tevékenységet folytató közötti, az ismertetési tevékenységet folytató és a vele szerződéses jogviszonyban álló, gyógyszer rendelésére és forgalmazására jogosult személy közötti, továbbá az ismertetési tevékenységet folytató érdekében szerződés alapján eljáró más személy és a gyógyszer rendelésére és forgalmazására jogosult személy közötti jogviszonyt és a ténylegesen megvalósuló tevékenységet vizsgálni. Ehhez a jogviszony, illetve a tevékenység alanyainak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a ténylegesen végzett tevékenység a létrejött jogviszonyok tartalmának megfelel, illetve nem minősül jogellenes kereskedelmi gyakorlatnak.
+(4) A gyógyszerészeti államigazgatási szerv a tényállás tisztázása érdekében jogosult
+
+a) a gyógyszer forgalomba hozatali engedélyének jogosultja, illetve a gyógyászati segédeszköz gyártója vagy forgalmazója és az általa megbízott ismertetési tevékenységet folytató közötti,
+
+b) az ismertetési tevékenységet folytató és a vele szerződéses jogviszonyban álló, gyógyszer, illetve gyógyászati segédeszköz rendelésére és forgalmazására jogosult személy közötti,
+
+c) az ismertetési tevékenységet folytató érdekében szerződés alapján eljáró más személy és a gyógyszer, illetve gyógyászati segédeszköz rendelésére és forgalmazására jogosult személy közötti
+
+jogviszonyt és a ténylegesen megvalósuló tevékenységet vizsgálni.
+
+(4a) A (4) bekezdés szerinti vizsgálathoz a jogviszony, illetve a tevékenység alanyainak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a ténylegesen végzett tevékenység a létrejött jogviszonyok tartalmának megfelel, illetve nem minősül jogellenes kereskedelmi gyakorlatnak.
 
 (5) Az ügyfél és megbízott ügyvédje közötti kommunikáció során, illetve ilyen kommunikációs célból való felhasználás érdekében keletkezett adat vagy az azt rögzítő irat a gyógyszerészeti államigazgatási szerv eljárásában bizonyítékként nem használható fel, illetve nem vizsgálható meg, nem foglalható le, szemle során a birtokos az ilyen irat felmutatására nem kötelezhető.
 
@@ -23,3 +33,5 @@ ha valószínűsíthető, hogy az adott helyszínen a 14–15. § rendelkezései
 (9) A (8) bekezdésben meghatározott vizsgálati cselekményről az érintetteket a vizsgálati cselekmény megkezdésével egyidejűleg szóban kell értesíteni, és lehetőleg az érintettek jelenlétében kell elvégezni. A vizsgálati cselekmény megkezdése előtt közölni kell a bírói határozatot és a vizsgálati cselekmény célját.
 
 (10) A gyógyszerészeti államigazgatási szerv – amennyiben a tényállás tisztázása érdekében szükségesnek tartja – elrendelheti az általa meghallgatott tanú adatainak zártan kezelését.
+
+(11) A 14. §-ban és a 15. § szerinti jogszabályban foglaltak végrehajtásának ellenőrzésével összefüggésben indított eljárások során az ügyintézési határidő 60 nap, amely indokolt esetben egy alkalommal legfeljebb 21 nappal meghosszabbítható.

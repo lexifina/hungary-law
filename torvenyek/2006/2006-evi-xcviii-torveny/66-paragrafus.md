@@ -1,4 +1,4 @@
-66. § (1) Hatósági vezetőnek gyógyszertár vezetésére jogosult közforgalmú gyógyszertárat nem vezető gyógyszerész rendelhető ki.
+66. § (1) Hatósági vezetőnek a 61. § (2)–(4) bekezdése szerint gyógyszertár vezetésére jogosult közforgalmú gyógyszertárat nem vezető gyógyszerész rendelhető ki.
 
 (2) A kirendelt hatósági vezető köteles a közforgalmú gyógyszertár fenntartásához és működéséhez szükséges intézkedéseket megtenni.
 

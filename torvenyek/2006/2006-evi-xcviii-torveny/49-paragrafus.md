@@ -22,7 +22,7 @@ b) hivatalból, amennyiben a 49/A. § (1)–(2) bekezdésében foglaltak felülv
 
 (7) A pályázati kiírás tartalmazza
 
-a) az új gyógyszertár létesítésének helyét (település/településrész/kerület),
+a) az új gyógyszertár létesítésének helyét (település/kerület),
 
 b) a gyógyszertár megnyitásának legkésőbbi időpontját,
 
@@ -40,7 +40,9 @@ ec) gazdasági társaság esetén a cég nevét, cégjegyzékszámát, a képvis
 
 ed) a gyógyszertárnak helyet adó épületre vonatkozó hatályos tulajdoni lapot, illetve amennyiben a gyógyszertárat a kérelmező nem saját tulajdonában lévő ingatlanban kívánja működtetni, a tulajdonos nevét, székhelyét, az ingatlan (ingatlanrész) használatának jogcímét,
 
-ee) a gyógyszertár működtetőjének nyilatkozatát arról, hogy a törvényben meghatározott feltételek fennállása esetén ő, illetve az ingatlan tulajdonosa hozzájárul a hatósági vezető kirendeléséhez.
+ee) a gyógyszertár működtetőjének nyilatkozatát arról, hogy a törvényben meghatározott feltételek fennállása esetén ő, illetve az ingatlan tulajdonosa hozzájárul a hatósági vezető kirendeléséhez,
+
+f) a pályázat benyújtásának határnapját.
 
 (7a) Ha a cég a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az egészségügyi államigazgatási szerv az iratot és a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
@@ -60,7 +62,7 @@ bb) folyamatos ügyeletet,
 
 bc) – amennyiben az adott településen vagy kerületben nincs ügyelet – folyamatos készenlétet,
 
-bd) a pályázati kiírásban előírt szolgálati rendhez képest nyújtott nyitvatartást
+bd) a pályázati kiírásban előírt szolgálati rendhez képest nyújtott, a többi pályázóhoz képest hosszabb nyitva tartást
 
 vállal a gyógyszertár megnyitását követő legalább öt éven keresztül,
 

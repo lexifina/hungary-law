@@ -12,7 +12,11 @@ vonatkozó előírásokat ismételten és súlyosan megsérti.
 
 (2) A működési engedélyt az (1) bekezdésben foglaltakon túl – a (3) bekezdésben és az 58. § (2) bekezdésében foglalt kivétellel – a létesítési engedéllyel egyidejűleg a működési engedély visszavonására okot adó körülményekről való tudomásszerzéstől számított tizenöt napon belül vissza kell vonni akkor is, ha
 
-a) fiókgyógyszertár esetén működési engedélyében megjelölt településen közforgalmú gyógyszertár kezdi meg működését;
+a) fiókgyógyszertár esetén
+
+aa) a működési engedélyében megjelölt településen közforgalmú gyógyszertár kezdi meg működését,
+
+ab) a létesítési engedélye jogerőre emelkedését követő 6 hónapon belül nem kezdte meg működését;
 
 b) a kézigyógyszertár
 
@@ -32,7 +36,9 @@ g) a gyógyszertár működtetője azt kéri,
 
 h) a gyógyszertár működtetője jogutód nélkül megszűnik,
 
-i) a gyógyszertár a működését a pályázatban meghatározott határidőben a nyertes pályázónak felróható okból nem kezdte meg.
+i) a gyógyszertár a működését a pályázatban meghatározott határidőben a nyertes pályázónak felróható okból nem kezdte meg,
+
+j) a pályázatban vállalt többletszolgáltatást a pályázat nyertese nem teljesíti.
 
 (3) A működési engedélyt a (2) bekezdés
 

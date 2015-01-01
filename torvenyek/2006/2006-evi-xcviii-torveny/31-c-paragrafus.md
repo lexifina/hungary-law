@@ -2,6 +2,10 @@
 
 (2) Az egészségbiztosítási szerv akkor fogadhat be gyógyszert kedvezményezetti státusszal a társadalombiztosítási támogatásba, ha a gyógyszer megfelel a 31/B. § (2) bekezdésében foglaltaknak, továbbá a gyógyszer forgalomba hozatali engedélyének jogosultja, a kérelméhez csatolt nyilatkozatában vállalja öt évre az egészségbiztosítási szervvel a 26. § (5) bekezdés b) pontja szerinti – termelői áron számított évi 30 millió forint – határértékre szóló támogatásvolumen szerződés megkötését az indikációban használt gyógyszer(ek)re.
 
+(2a) A (2) bekezdéstől eltérően az egészségbiztosítási szerv akkor fogadhat be gyógyszert támogatási érték nélküli támogatási kategóriába kedvezményezetti státusszal, ha a gyógyszer megfelel a 31/B. § (2) bekezdésében foglaltaknak, továbbá a gyógyszer éves forgalma várhatóan nem haladja meg a – termelői áron számított – 30 millió forintot.
+
+(2b) Az egészségbiztosítási szerv a (2a) bekezdés szerint befogadott gyógyszer forgalmi adatainak felülvizsgálatát évente elvégzi és ha a gyógyszer forgalma a (2a) bekezdésben meghatározott értéket meghaladja, az egészségbiztosítási szerv dönthet a kedvezményezetti státusz megszüntetéséről a (3) bekezdés szerinti ötéves időtartam lejártát megelőzően is.
+
 (3) A kedvezményezetti státusz öt évre adható meg, annak megújítását a forgalomba hozatali engedély jogosultja az ötéves időtartam lejárta előtt hat hónappal kérheti. Ezen határidő elmulasztása esetén az egészségbiztosítási szerv az (5) bekezdés szerinti felülvizsgálatot követően hivatalból dönt a kedvezményezetti státusz megszüntetéséről és a gyógyszer társadalombiztosítási támogatásból való kizárásáról.
 
 (4) A kedvezményezetti státusszal rendelkező gyógyszerrel azonos hatóanyagú, beviteli módú és azonos indikációban alkalmazott más gyógyszer kedvezményezetti státuszt nem szerezhet.

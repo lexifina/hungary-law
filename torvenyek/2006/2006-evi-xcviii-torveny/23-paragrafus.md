@@ -24,6 +24,8 @@ d) a gyógyszer társadalombiztosítási támogatásba való befogadási kérelm
 
 (5) A kérelmező a (3)–(4) bekezdés szerinti eljárásért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat fizet. Nem kell igazgatási szolgáltatási díjat fizetni a kedvezményezetti státusszal rendelkező gyógyszerekkel kapcsolatos eljárásokért.
 
+(5a) Ha a 31/B. § (1) bekezdése szerinti kérelem benyújtását követően az egészségbiztosítási szerv a kedvezményezetti státuszt megítéli, visszatéríti a forgalomba hozatali engedély jogosultjának az általa befizetett igazgatási szolgáltatási díjat.
+
 (6) Az egészségbiztosítási szerv folyamatosan felülvizsgálja a támogatott gyógyszerek körét a (7) bekezdésben foglalt szempontok szerint.
 
 (7) Az egészségbiztosítási szerv a (6) bekezdés szerinti felülvizsgálat keretében hivatalból eljárást indít, ha

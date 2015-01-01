@@ -32,7 +32,9 @@ b) a szerződéses időszakban folyósított egy vagy több termékre kifizetett
 
 c) a kezeléstől várt és szerződésben vállalt terápiaeredményességi mutató nem teljesülése esetén az eredményesség elmaradásának hatására előálló becsült költség alapján,
 
-d) a kezeléshez kapcsolódóan biztosított, beteg-együttműködést fokozó tevékenység szerződésben rögzített kritériumainak elmaradása esetén
+d) a kezeléshez kapcsolódóan biztosított, beteg-együttműködést fokozó tevékenység szerződésben rögzített kritériumainak elmaradása esetén,
+
+e) a szerződésben rögzített, a költséghatékonyság szempontjából meghatározó adagolástól, alkalmazott dózistól való eltérés alapján, az adott gyógyszer alkalmazási előírásának megfelelően
 
 kerülhet megállapításra.
 

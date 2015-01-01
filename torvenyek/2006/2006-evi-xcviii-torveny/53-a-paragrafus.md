@@ -1,5 +1,7 @@
 53/A. § (1) A gyógyszertár működtetője minden olyan tervezett változást, amely érinti a működési engedély kiadásának feltételeit, illetve a működési engedélyben szereplő adatokat, köteles előzetesen írásban bejelenteni az egészségügyi államigazgatási szervnek. Az előre nem tervezhető eseményeket azok észlelését követő öt munkanapon belül kell bejelenteni. Amennyiben a változás érinti a működési engedély előírt kötelező tartalmát, a bejelentéssel egyidejűleg – ide nem értve a (4a) bekezdésben foglaltakat, továbbá a gyógyszertár működtetője felelősségi körén kívül eső, előre nem látható, elháríthatatlan külső okból eredő eseteket – kérni kell a működési engedély módosítását.
 
+(1a) Fiók- és kézigyógyszertár esetén az egészségügyi államigazgatási szerv az ellátó közforgalmú gyógyszertár nevének vagy pontos címének megváltoztatása esetén a gyógyszertár működési engedélyét hivatalból módosítja.
+
 (2) Az (1) bekezdés szerinti bejelentés alapján az engedélyező egészségügyi államigazgatási szerv – helyszíni szemle lefolytatásával, illetve amennyiben a bejelentés jellegéből adódóan az nem szükséges, annak mellőzésével – az 53. § (6) bekezdésében foglalt adatok változása esetén a működési engedélyt módosítja.
 
 (2a) Az egészségügyi államigazgatási szerv a létesítési engedélyt és a működési engedélyt visszavonja, ha a személyi jogos személyében bekövetkező változás nem a 60/B–60/D. §-okban, illetőleg a 65. § b) pontja alapján következett be.
@@ -10,6 +12,6 @@
 
 (4a) A település gyógyszerellátását egyedül biztosító gyógyszertár, továbbá a jogszabályon alapuló munkaszüneti napok miatti változtatással összefüggésben bármely gyógyszertár működtetője a gyógyszertár szolgálati rendjétől a nyitvatartási idő tekintetében naptári évente legfeljebb 10 napon térhet el. Az e bekezdés szerinti szolgálati rendtől történő eltérést előzetesen két munkanappal, illetve az előre nem tervezhető eltérés esetén az arra okot adó körülményről való tudomásszerzést követően haladéktalanul, de legkésőbb a szolgálati rend szerinti következő munkanapon be kell jelenteni az egészségügyi államigazgatási szervnek.
 
-(5) Az egészségügyi államigazgatási szerv határidő tűzésével felfüggeszti a gyógyszertár működését, ha a gyógyszertár ellenőrzése során megállapítja, hogy egyes személyi, tárgyi feltételek átmenetileg hiányoznak. Ha a gyógyszertár működtetője az előírt határidőn belül a hiányt nem pótolta az egészségügyi államigazgatási szerv a működési engedélyt visszavonja.
+(5) Az egészségügyi államigazgatási szerv határidő tűzésével felfüggeszti a gyógyszertár működését, ha a gyógyszertár ellenőrzése során megállapítja, hogy egyes személyi, tárgyi feltételek átmenetileg hiányoznak. Ha a gyógyszertár működtetője az előírt határidőn belül a hiányt nem pótolta az egészségügyi államigazgatási szerv a működési engedélyt a létesítési engedéllyel egyidejűleg visszavonja.
 
 (6) Az egészségügyi államigazgatási szerv (5) bekezdés szerinti felfüggesztő végzése fellebbezésre tekintet nélkül végrehajtható.

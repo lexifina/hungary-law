@@ -1,0 +1,1 @@
+87/G. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2014. évi CXI. törvény hatálybalépéséig engedélyezett fiókgyógyszertár működtetését legkésőbb 2015. július 1-jéig kell megkezdeni.
