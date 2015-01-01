@@ -1,11 +1,10 @@
-## 1–7. §[^1]
+## 1–7. §[^2]
 
 ## 8. § Hatályát veszti az R.
 
-a)[^2]
+a)[^3]
 
-b)[^3]
+b) 16. §-a.
 
-[^1]: Az 1–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 8. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 8. § b) pontja a 9. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^2]: Az 1–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
