@@ -1308,7 +1308,7 @@
 
 ## Szemere
 
-## 4.4.[^18] Gönci Járási Hivatal
+## 4.4.[^22] Gönci Járási Hivatal
 
 ## Székhely: Gönc
 
@@ -1748,7 +1748,7 @@
 
 ## Vilyvitány
 
-## 4.13.[^19] Szerencsi Járási Hivatal
+## 4.13.[^23] Szerencsi Járási Hivatal
 
 ## Székhely: Szerencs
 
@@ -2050,7 +2050,7 @@
 
 ## 6. Fejér megye
 
-## 6.1. Bicskei Járási Hivatal
+## 6.1.[^24] Bicskei Járási Hivatal
 
 ## Székhely: Bicske
 
@@ -2067,6 +2067,8 @@
 ## Etyek
 
 ## Felcsút
+
+## Gánt
 
 ## Mány
 
@@ -2118,7 +2120,7 @@
 
 ## Rácalmás
 
-## 6.3. Enyingi Járási Hivatal
+## 6.3.[^25] Enyingi Járási Hivatal
 
 ## Székhely: Enying
 
@@ -2126,11 +2128,19 @@
 
 ## Enying
 
+## Kisláng
+
 ## Lajoskomárom
+
+## Lepsény
+
+## Mátyásdomb
 
 ## Mezőkomárom
 
-## Szabadhídvég
+## Mezőszentgyörgy
+
+## Szabadhidvég
 
 ## 6.4. Gárdonyi Járási Hivatal
 
@@ -2176,7 +2186,7 @@
 
 ## Vál
 
-## 6.6. Móri Járási Hivatal
+## 6.6.[^26] Móri Járási Hivatal
 
 ## Székhely: Mór
 
@@ -2196,6 +2206,8 @@
 
 ## Kincsesbánya
 
+## Magyaralmás
+
 ## Mór
 
 ## Nagyveleg
@@ -2204,27 +2216,7 @@
 
 ## Söréd
 
-## 6.7. Polgárdi Járási Hivatal
-
-## Székhely: Polgárdi
-
-## Füle
-
-## Jenő
-
-## Kisláng
-
-## Kőszárhegy
-
-## Lepsény
-
-## Mátyásdomb
-
-## Mezőszentgyörgy
-
-## Nádasdladány
-
-## Polgárdi
+## 6.7.[^27]
 
 ## 6.8. Sárbogárdi Járási Hivatal
 
@@ -2254,7 +2246,7 @@
 
 ## Vajta
 
-## 6.9. Székesfehérvári Járási Hivatal
+## 6.9.[^28] Székesfehérvári Járási Hivatal
 
 ## Székhely: Székesfehérvár
 
@@ -2266,19 +2258,25 @@
 
 ## Csősz
 
-## Gánt
+## Füle
 
 ## Iszkaszentgyörgy
 
+## Jenő
+
 ## Káloz
+
+## Kőszárhegy
 
 ## Lovasberény
 
-## Magyaralmás
-
 ## Moha
 
+## Nádasdladány
+
 ## Pátka
+
+## Polgárdi
 
 ## Sárkeresztes
 
@@ -2448,9 +2446,11 @@
 
 ## Vének
 
-## 7.3. Kapuvári Járási Hivatal
+## 7.3.[^29] Kapuvári Járási Hivatal
 
 ## Székhely: Kapuvár
+
+## Agyagosszergény
 
 ## Babót
 
@@ -2584,11 +2584,9 @@
 
 ## Veszprémvarsány
 
-## 7.6. Soproni Járási Hivatal
+## 7.6.[^30] Soproni Járási Hivatal
 
 ## Székhely: Sopron
-
-## Agyagosszergény
 
 ## Ágfalva
 
@@ -4022,7 +4020,7 @@
 
 ## Ócsa
 
-## 13.9.[^20] Monori Járási Hivatal
+## 13.9.[^31] Monori Járási Hivatal
 
 ## Székhely: Monor
 
@@ -4050,7 +4048,7 @@
 
 ## Vasad
 
-## 13.10.[^21] Nagykátai Járási Hivatal
+## 13.10.[^32] Nagykátai Járási Hivatal
 
 ## Székhely: Nagykáta
 
@@ -4706,7 +4704,7 @@
 
 ## Tarany
 
-## 14.7.[^22] Siófoki Járási Hivatal
+## 14.7.[^33] Siófoki Járási Hivatal
 
 ## Székhely: Siófok
 
@@ -6056,7 +6054,7 @@
 
 ## Városlőd
 
-## 18.2.[^23] Balatonalmádi Járási Hivatal
+## 18.2.[^34] Balatonalmádi Járási Hivatal
 
 ## Székhely: Balatonalmádi
 
@@ -7046,12 +7044,19 @@
 
 ## Zalavég
 
-2. melléklet a 218/2012. (VIII. 13.) Korm. rendelethez[^24]
+2. melléklet a 218/2012. (VIII. 13.) Korm. rendelethez[^35]
 
-[^18]: Az 1. melléklet 4.4. pontja a 147/2014. (V. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^19]: Az 1. melléklet 4.13. pontja a 147/2014. (V. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^20]: Az 1. melléklet 13.9. pontja a 147/2014. (V. 5.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^21]: Az 1. melléklet 13.10. pontja a 147/2014. (V. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^22]: Az 1. melléklet 14.7. pontja a 391/2012. (XII. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^23]: Az 1. melléklet 18.2. pontja a 391/2012. (XII. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 262/2014. (X. 15.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^24]: A 2. mellékletet a 221/2014. (IX. 4.) Korm. rendelet 687. §-a hatályon kívül helyezte.
+[^22]: Az 1. melléklet 4.4. pontja a 147/2014. (V. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^23]: Az 1. melléklet 4.13. pontja a 147/2014. (V. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^24]: Az 1. melléklet 6. pont 6.1. alpontja a 308/2014. (XII. 9.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^25]: Az 1. melléklet 6. pont 6.3. alpontja a 308/2014. (XII. 9.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^26]: Az 1. melléklet 6. pont 6.6. alpontja a 308/2014. (XII. 9.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^27]: Az 1. melléklet 6. pont 6.7. alpontját a 308/2014. (XII. 9.) Korm. rendelet 5. § (9) bekezdése hatályon kívül helyezte.
+[^28]: Az 1. melléklet 6. pont 6.9. alpontja a 308/2014. (XII. 9.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^29]: Az 1. melléklet 7. pont 7.3. alpontja a 308/2014. (XII. 9.) Korm. rendelet 5. § (7) bekezdésével megállapított szöveg.
+[^30]: Az 1. melléklet 7. pont 7.6. alpontja a 308/2014. (XII. 9.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^31]: Az 1. melléklet 13.9. pontja a 147/2014. (V. 5.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^32]: Az 1. melléklet 13.10. pontja a 147/2014. (V. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^33]: Az 1. melléklet 14.7. pontja a 391/2012. (XII. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^34]: Az 1. melléklet 18.2. pontja a 391/2012. (XII. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 262/2014. (X. 15.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^35]: A 2. mellékletet a 221/2014. (IX. 4.) Korm. rendelet 687. §-a hatályon kívül helyezte.

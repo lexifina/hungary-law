@@ -10,8 +10,8 @@ c) biztosítja – a kormánymegbízott által meghatározott keretek között �
 
 d) gondoskodik a kormánymegbízott által meghatározott belső szabályzatok elkészítéséről,
 
-e)[^7]
+e)[^11]
 
 f) ellátja a járási hivatal üzemeltetésével összefüggő feladatokat.
 
-[^7]: Az 5. § e) pontja a 414/2012. (XII. 29.) Korm. rendelet 16. §-a alapján nem lépett hatályba.
+[^11]: Az 5. § e) pontja a 414/2012. (XII. 29.) Korm. rendelet 16. §-a alapján nem lépett hatályba.
