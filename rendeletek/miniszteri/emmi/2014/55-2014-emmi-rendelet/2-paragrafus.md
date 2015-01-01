@@ -1,0 +1,1 @@
+## 1. § A kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet 27. § (5) bekezdése szerinti jelzés alapján az 1. melléklet tartalmazza az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat.
