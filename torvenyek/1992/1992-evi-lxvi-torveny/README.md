@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-66-00-00
 | 2014-07-01 | 2013. évi LXXVI. törvény | 1992-66-00-00.68 |
 | 2014-07-11 | 2014. évi XXXI. törvény | 1992-66-00-00.69 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 1992-66-00-00.70 |
+| 2015-01-01 | 2014. évi XCIII. törvény | 1992-66-00-00.71 |

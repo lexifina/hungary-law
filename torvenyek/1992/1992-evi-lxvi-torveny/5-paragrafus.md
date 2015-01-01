@@ -39,3 +39,5 @@ b) csoportos adatszolgáltatás: az adatigénylő által vagy jogszabályban meg
 (15) Címjogosult: az a személy, aki az értesítési címként megadott címhely tekintetében az (5a) bekezdés értelmében szállásadónak minősül.
 
 (16) Értesítési cím bejelentése: az értesítési cím nyilvántartásba vételének első alkalommal történő igénylése, a bejelentett értesítési cím megújítása, megváltoztatásának vagy törlésének kérése.
+
+(17) Központi címregiszter: az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló törvényben meghatározott nyilvántartás.

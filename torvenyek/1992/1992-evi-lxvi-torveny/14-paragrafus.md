@@ -14,9 +14,9 @@ e) a konzuli szolgálat konzuli tisztviselőjének az értesítése;
 
 f)
 
-g) a területszervezési intézkedést kihirdető jogszabály;
+g) a címek tekintetében a központi címregiszterből automatikus adatátvétel;
 
-h) a helyi önkormányzat jegyzője (főjegyzője) által küldött értesítés (az illetékes önkormányzat hatáskörébe tartozó területszervezési, közterület-elnevezési és házszámváltozási döntésekről);
+h) a helyi önkormányzat jegyzője (főjegyzője) által küldött értesítés a g) pontba nem tartozó, de a címnyilvántartás részét képező adatok vonatkozásában;
 
 i) a polgár értesítési címének bejelentése;
 

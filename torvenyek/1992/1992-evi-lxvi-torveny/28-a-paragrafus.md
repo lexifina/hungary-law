@@ -1,6 +1,6 @@
 ## Címnyilvántartás
 
-28/A. § (1) A nyilvántartás szervei a lakcímbejelentés feltételeinek vizsgálata, a szállásadónak a lakcímbejelentéssel összefüggő jogosultságai érvényesítésének biztosítása, valamint a címhez kapcsolódó állami feladatellátás szervezésének megkönnyítése céljából kezelik a települési önkormányzatok jegyzői által megállapított és nyilvántartásba vett települési címek, valamint a lakcímbejelentéssel összefüggő szállásadói nyilatkozatok nyilvántartását (továbbiakban: címnyilvántartás).
+28/A. § (1) A nyilvántartás központi szerve a lakcímbejelentés feltételeinek vizsgálata, a szállásadónak a lakcímbejelentéssel összefüggő jogosultságai érvényesítésének biztosítása, valamint a címhez kapcsolódó állami feladatellátás szervezésének megkönnyítése céljából kezeli a települési címek, valamint a lakcímbejelentéssel összefüggő szállásadói nyilatkozatok nyilvántartását (a továbbiakban: címnyilvántartás).
 
 (2) A címnyilvántartás tartalmazza
 
@@ -14,7 +14,7 @@ d) a közterület nevét és jellegét;
 
 e) a ház számát, ezen belül az épület, lépcsőház, szint, emelet és ajtó számát, illetve megjelölését;
 
-f) az ingatlan helyrajzi számát;
+f) az ingatlan elhelyezkedését leíró címkoordinátát, valamint a 2015. január 1. napját megelőzően keletkezett címek esetén a helyrajzi számot;
 
 g) az ingatlan jellegét, technikai azonosítóját;
 
@@ -40,6 +40,8 @@ n) a szállásadó nyilatkozatát arról, hogy a lakcímbejelentésről a lakcí
 
 (6) A járási hivatal a szállásadó nyilatkozattételi jogosultságának fennállását az ingatlan-nyilvántartásba történő betekintéssel ellenőrzi.
 
-(7) A jegyző állapítja meg az illetékességi területén lévő települési címeket.
+(7) A (2) bekezdés a)–f) pontjában meghatározott címelemek a központi címregiszterből történő, folyamatos, automatikus adatátvétel útján a nyilvántartás részévé válnak.
 
-(8) A címmegállapítást a jegyző a közterület elnevezéséről, valamint a települések szétválásáról és egyesüléséről, továbbá a területátcsatolásról hozott helyi önkormányzati képviselő-testületi határozat és a telekalakítási eljárás lefolytatására hatáskörrel rendelkező ingatlanügyi hatóság vagy építésügyi hatóság ezen eljárásában hozott határozata alapján végzi.
+(8) A (2) bekezdés g) pontjában foglalt adatok címnyilvántartásba vételéről a jegyző gondoskodik.
+
+(9) A (2) bekezdés h)–n) pontjában foglalt adatok tekintetében a nyilvántartásba vételről a járási hivatal gondoskodik.
