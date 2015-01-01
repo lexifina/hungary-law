@@ -1,0 +1,3 @@
+3. § Az Nkt. 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A köznevelési intézmény több különböző típusú köznevelési intézmény feladatait is elláthatja, valamint nem köznevelési feladatot ellátó intézménnyel is összevonható az e törvényben meghatározott esetben, formában és eljárás megtartásával (a továbbiakban: többcélú intézmény). Nevelési-oktatási intézmény elláthatja a konduktív pedagógiai ellátás, gyógytestnevelés, kiemelten tehetséges gyermekek, tanulók gondozása pedagógiai szakszolgálati feladatot, jogszabályban meghatározott egyes pedagógiai-szakmai szolgáltatási feladatot, továbbá a gyermekétkeztetés feladatát anélkül is, hogy többcélú intézmény formájában működne.”

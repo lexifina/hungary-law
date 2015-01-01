@@ -1,0 +1,7 @@
+# 2014. évi CV. törvény a nemzeti köznevelésről szóló 2011. évi CXC. törvény módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-105-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2015-01-01 | 2014. évi CV. törvény | 2014-105-00-00.0 (közlönyállapot) |
