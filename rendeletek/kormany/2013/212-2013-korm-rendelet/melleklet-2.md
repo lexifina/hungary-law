@@ -26,6 +26,8 @@
 
 4. A gyógyszerész nyilatkozata arról, hogy kamattámogatást kíván igénybe venni
 
-5. A gyógyszerész nyilatkozata arról, hogy a kamattámogatást engedményezi az MFB Zrt. részére
+5.[^9]
 
 6. Keltezés, aláírás
+
+[^9]: A 2. melléklet 5. pontját a 334/2014. (XII. 18.) Korm. rendelet 5. §-a hatályon kívül helyezte.
