@@ -6,12 +6,12 @@
 
 (4) Az EK-típustanúsítvány kiadásával egyidejűleg a tanúsító szervezet hozzájárul az EK-jelölés, illetve a jelkép védőeszközön való elhelyezéséhez.
 
-(5)[^4] Az EK-típustanúsítvány kiállításáról a tanúsító szervezet egy magyar nyelvű másolati példány megküldésével tájékoztatja a Nemzeti Munkaügyi Hivatal munkavédelmi és munkaügyi igazgatóságát (a továbbiakban: munkavédelmi és munkaügyi igazgatóság).
+(5)[^4] Az EK-típustanúsítvány kiállításáról a tanúsító szervezet egy magyar nyelvű másolati példány megküldésével tájékoztatja a foglalkoztatáspolitikáért felelős minisztert.
 
-(6)[^5] Az EK-típustanúsítvány visszavonásáról a tanúsító szervezet – a munkavédelmi és munkaügyi igazgatóság egyidejű tájékoztatása mellett – az Európai Bizottság tájékoztatása érdekében értesíti a Nemzeti Fogyasztóvédelmi Hatóságot a Központi Piacfelügyeleti Információs Rendszeren keresztül.
+(6)[^5] Az EK-típustanúsítvány visszavonásáról a tanúsító szervezet – a foglalkoztatáspolitikáért felelős miniszter egyidejű tájékoztatása mellett – az Európai Bizottság tájékoztatása érdekében értesíti a Nemzeti Fogyasztóvédelmi Hatóságot a Központi Piacfelügyeleti Információs Rendszeren keresztül.
 
 (7) Az EK-típustanúsítvány kiadásának elutasításáról a kérelmezőt és az egyéni védőeszközök megfelelőségét tanúsító, ellenőrző szervezetek kijelölésének és bejelentésének részletes szabályairól szóló jogszabályban meghatározott kijelölőt (a továbbiakban: kijelölő), az EK-típustanúsítvány visszavonásáról a tanúsíttatót és a kijelölőt a tanúsító szervezet haladéktalanul értesíti, megjelölve a döntés indokait és a döntés elleni jogorvoslati lehetőségeket.
 
 [^3]: A 9. § (2) bekezdése a 17/2013. (VI. 4.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^4]: A 9. § (5) bekezdése a 3/2012. (II. 10.) NGM rendelet 17. § a) pontja szerint módosított szöveg.
-[^5]: A 9. § (6) bekezdése a 3/2012. (II. 10.) NGM rendelet 17. § b) pontja, a 17/2013. (VI. 4.) NGM rendelet 10. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 9. § (5) bekezdése a 3/2012. (II. 10.) NGM rendelet 17. § a) pontja, az 55/2014. (XII. 31.) NGM rendelet 8. § a) pontja szerint módosított szöveg.
+[^5]: A 9. § (6) bekezdése a 3/2012. (II. 10.) NGM rendelet 17. § b) pontja, a 17/2013. (VI. 4.) NGM rendelet 10. § (4) bekezdés a) pontja, az 55/2014. (XII. 31.) NGM rendelet 8. § b) pontja szerint módosított szöveg.
