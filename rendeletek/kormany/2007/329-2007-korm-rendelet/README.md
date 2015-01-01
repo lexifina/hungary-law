@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-329-20-
 | 2013-08-01 | 2007-329-20-22.22 | 286/2013. (VII. 26.) Korm. rendelet |
 | 2013-12-30 | 2007-329-20-22.23 | 512/2013. (XII. 29.) Korm. rendelet |
 | 2014-01-01 | 2007-329-20-22.24 | 447/2013. (XI. 28.) Korm. rendelet |
+| 2015-01-01 | 2007-329-20-22.25 | 352/2014. (XII. 29.) Korm. rendelet |
