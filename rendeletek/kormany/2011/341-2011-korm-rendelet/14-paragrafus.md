@@ -28,14 +28,20 @@ m)[^90] a 4. § (1) bekezdés f) pont fa) alpontjában foglaltakat a megyei korm
 
 n)[^91] a 4. § (1) bekezdés h) pontjában foglaltakat az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatáva,
 
-o)[^92] a saját és gyermeke adóazonosító jelét adóigazolvánnyal.
+o)[^92] a saját és gyermeke adóazonosító jelét adóigazolvánnyal,
+
+p)[^93] több lakásból álló, osztatlan közös tulajdon esetén, amennyiben az ingatlan-nyilvántartásból az otthonteremtési kamattámogatással érintett lakásra vonatkozóan a támogatott személy tulajdonszerzésének mértéke nem állapítható meg, közokiratba vagy ügyvéd által ellenjegyzett magánokiratba foglalt használati megosztási megállapodással,
+
+q)[^94] annak tényét, hogy a 4. § (1d) bekezdése szerinti saját jogú öregségi vagy özvegyi nyugdíjas, a nyugellátás megállapításáról szóló határozattal.
 
 (2) Házaspárok esetében, ha a házastársak egyike magyar állampolgár az (1) bekezdés f)–k) pontjában foglaltak igazolására nincs szükség.
 
-(3)[^93] Ha az igénylő a hitelintézetnek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott az otthonteremtési kamattámogatáshoz, akkor a folyósított összeget az igénybevétel napjától, a Ptk. szerint számított késedelmi kamataival együtt köteles a hitelintézeten keresztül visszafizetni.
+(3)[^95] Ha az igénylő a hitelintézetnek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott az otthonteremtési kamattámogatáshoz, akkor a folyósított összeget az igénybevétel napjától, a Ptk. szerint számított késedelmi kamataival együtt köteles a hitelintézeten keresztül visszafizetni.
 
 [^89]: A 14. § (1) bekezdés l) pontja a 379/2012. (XII. 19.) Korm. rendelet 39. § (1) bekezdésével megállapított, a 128/2013. (IV. 30.) Korm. rendelet 21. § j) pontja szerint módosított szöveg.
 [^90]: A 14. § (1) bekezdés m) pontját a 71/2012. (IV. 12.) Korm. rendelet 9. §-a iktatta be, szövege a 379/2012. (XII. 19.) Korm. rendelet 43. § l) pontja szerint módosított szöveg.
 [^91]: A 14. § (1) bekezdés n) pontját a 379/2012. (XII. 19.) Korm. rendelet 39. § (2) bekezdése iktatta be.
 [^92]: A 14. § (1) bekezdés o) pontját az 537/2013. (XII. 30.) Korm. rendelet 73. §-a iktatta be.
-[^93]: A 14. § (3) bekezdése a 80/2014. (III. 14.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^93]: A 14. § (1) bekezdés p) pontját a 331/2014. (XII. 18.) Korm. rendelet 41. §-a iktatta be.
+[^94]: A 14. § (1) bekezdés q) pontját a 331/2014. (XII. 18.) Korm. rendelet 41. §-a iktatta be.
+[^95]: A 14. § (3) bekezdése a 80/2014. (III. 14.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.

@@ -4,31 +4,17 @@ a) új lakás építéséhez, vásárlásához,
 
 b)[^19] használt lakás vásárlásához, korszerűsítéséhez, valamint legalább komfortos, használt lakás bővítéséhez,
 
-c)[^20] késedelmes jelzáloghitellel vagy felmondott kölcsönnel terhelt lakóingatlan vásárlásához,
+c)–e)[^20]
 
-d)[^21] a hátralékos adós által kisebb lakás vásárlásához vagy
-
-e)[^22] lakóingatlan fedezetű késedelmes deviza jelzáloghitel kiváltására,
-
-f)[^23] a Nemzeti Eszközkezelő Zrt. vagyonkezelésébe tartozó lakóingatlan visszavásárlásához
+f)[^21] a Nemzeti Eszközkezelő Zrt. vagyonkezelésébe tartozó lakóingatlan visszavásárlásához
 
 felvett hitelintézeti kölcsön (a továbbiakban: kölcsön) kamatainak megfizetéséhez.
 
-(2)[^24] Az otthonteremtési kamattámogatás iránti kérelem írásban nyújtható be a 15. § (2) bekezdése szerinti szerződéssel rendelkező hitelintézethez
-
-a) az (1) bekezdés a) és b) pontja szerinti kamattámogatás esetén 2014. december 31-éig,
-
-b)[^25] az (1) bekezdés c) pontja szerinti kamattámogatás esetén 2012. december 31-éig,
-
-c)[^26] az (1) bekezdés d) pontja szerinti kamattámogatás esetén 2013. december 31-éig, vagy
-
-d)[^27] az (1) bekezdés e) pontja szerinti kamattámogatás esetén 2013. december 31-éig,
-
-e)[^28] az (1) bekezdés f) pontja szerinti kamattámogatás esetén a visszavásárlási jog gyakorlására biztosított határidő lejártát követő 30 napon belül.
+(2)[^22] Az otthonteremtési kamattámogatás iránti kérelem írásban nyújtható be a 15. § (2) bekezdése szerinti szerződéssel rendelkező hitelintézethez.
 
 (3) A kölcsön kamatainak megfizetéséhez az állam a kölcsön futamidejének első öt évében nyújt otthonteremtési kamattámogatást.
 
-(4)[^29] Az otthonteremtési kamattámogatásra megszerzett jogosultság a kamattámogatás időtartama alatt változatlan feltételekkel fennmarad, függetlenül attól, hogy a kölcsön fedezetét képező lakás helyett fedezetül másik lakás kerül bevonásra.
+(4)[^23] Az otthonteremtési kamattámogatásra megszerzett jogosultság a kamattámogatás időtartama alatt változatlan feltételekkel fennmarad, függetlenül attól, hogy a kölcsön fedezetét képező lakás helyett fedezetül másik lakás kerül bevonásra.
 
 (5) Az otthonteremtési kamattámogatás kizárólag forint alapú kölcsönhöz vehető igénybe, a kamat, a költség, valamint a tőke törlesztése is csak forintban történhet.
 
@@ -36,7 +22,7 @@ e)[^28] az (1) bekezdés f) pontja szerinti kamattámogatás esetén a visszavá
 
 a) a lakástakarékpénztárakról szóló törvény szerint megkötött lakás-előtakarékossági szerződés alapján folyósított lakáskölcsönre és áthidaló kölcsönre,
 
-b)[^30] a meglévő kölcsöntartozás kiegyenlítésére szolgáló kölcsönhöz és
+b)[^24] a meglévő kölcsöntartozás kiegyenlítésére szolgáló kölcsönhöz és
 
 c) lejárt tőketartozás esetén.
 
@@ -46,15 +32,12 @@ c) lejárt tőketartozás esetén.
 
 (9) Az otthonteremtési kamattámogatás olyan hitelintézet által folyósított kölcsönhöz nyújtható, amely a 15. § (2) bekezdése szerinti szerződést köt, valamint e szerződés alapján teljesíti az e rendeletben foglalt kötelezettségeit.
 
+(10)[^25] Az otthonteremtési kamattámogatás igénybevételével érintett kölcsönszerződés megkötésének feltétele, hogy – új lakás építése, bővítés vagy korszerűsítés esetén – az igénylő által benyújtott bekerülési költséget tartalmazó költségvetést a hitelintézet elfogadja.
+
 [^19]: A 3. § (1) bekezdés b) pontja a 379/2012. (XII. 19.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
-[^20]: A 3. § (1) bekezdés c) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
-[^21]: A 3. § (1) bekezdés d) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
-[^22]: A 3. § (1) bekezdés e) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
-[^23]: A 3. § (1) bekezdés f) pontját a 379/2012. (XII. 19.) Korm. rendelet 33. § (2) bekezdése iktatta be.
-[^24]: A 3. § (2) bekezdése a 26/2012. (III. 6.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^25]: A 3. § (2) bekezdés b) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
-[^26]: A 3. § (2) bekezdés c) pontja a 379/2012. (XII. 19.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
-[^27]: A 3. § (2) bekezdés d) pontja a 379/2012. (XII. 19.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
-[^28]: A 3. § (2) bekezdés e) pontját a 379/2012. (XII. 19.) Korm. rendelet 33. § (3) bekezdése iktatta be.
-[^29]: A 3. § (4) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 70. §-ával megállapított szöveg.
-[^30]: A 3. § (6) bekezdés b) pontja a 26/2012. (III. 6.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^20]: A 3. § (1) bekezdés c)–e) pontját a 331/2014. (XII. 18.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
+[^21]: A 3. § (1) bekezdés f) pontját a 379/2012. (XII. 19.) Korm. rendelet 33. § (2) bekezdése iktatta be.
+[^22]: A 3. § (2) bekezdése a 331/2014. (XII. 18.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^23]: A 3. § (4) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 70. §-ával megállapított szöveg.
+[^24]: A 3. § (6) bekezdés b) pontja a 26/2012. (III. 6.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^25]: A 3. § (10) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 35. § (2) bekezdése iktatta be.

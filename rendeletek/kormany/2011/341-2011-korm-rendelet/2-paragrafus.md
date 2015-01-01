@@ -1,4 +1,4 @@
-## 2. Az otthonteremtési kamattámogatás igénybevételének feltételei
+## 2. [^17] Az otthonteremtési kamattámogatás igénylésének feltételei
 
 2. § (1) Az e rendeletben meghatározott feltételekkel a központi költségvetésből otthonteremtési kamattámogatást igényelhet:
 
@@ -26,4 +26,5 @@ bb) nem támogatott személy hiteladósként további otthonteremtési kamattám
 
 bc) az otthonteremtési kamattámogatásos kölcsönnel érintett lakásban lakóhelyet nem létesít.
 
+[^17]: A 2. alcím címe a 331/2014. (XII. 18.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
 [^18]: A 2. § (3) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 69. §-a iktatta be.
