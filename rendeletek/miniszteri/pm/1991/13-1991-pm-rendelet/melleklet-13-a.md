@@ -148,6 +148,6 @@
 
 | 27. ÖSSZESÍTETT CSOPORTSZINTŰ ADÓALAP [20-(23+24+25+26)] |  |  |
 
-13/a. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^85]
+13/a. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^86]
 
-[^85]: A 13/a. számú mellékletet a 41/2006. (XII. 25.) PM rendelet 3. § (5) bekezdése hatályon kívül helyezte.
+[^86]: A 13/a. számú mellékletet a 41/2006. (XII. 25.) PM rendelet 3. § (5) bekezdése hatályon kívül helyezte.

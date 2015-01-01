@@ -22,6 +22,6 @@
 
 | 7. FIZETENDŐ KOMMUNÁLIS ADÓ [4-(5+6)] |  |  |  |
 
-9. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^78]
+9. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^79]
 
-[^78]: A 9. számú melléklet a 44/2007. (XII. 29.) PM rendelet 6. § (4) bekezdésének f) pontjával megállapított szöveg.
+[^79]: A 9. számú melléklet a 44/2007. (XII. 29.) PM rendelet 6. § (4) bekezdésének f) pontjával megállapított szöveg.

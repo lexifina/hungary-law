@@ -1,3 +1,3 @@
-3. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^68]
+3. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^69]
 
-[^68]: A 3. számú melléklet a 42/2005. (XII. 22.) PM rendelet 7. § (5) bekezdésével megállapított, a 77/2013. (XII. 31.) NGM rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^69]: A 3. számú melléklet a 42/2005. (XII. 22.) PM rendelet 7. § (5) bekezdésével megállapított, a 77/2013. (XII. 31.) NGM rendelet 1. § (1) bekezdése szerint módosított szöveg.

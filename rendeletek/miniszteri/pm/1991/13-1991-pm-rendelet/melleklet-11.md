@@ -34,6 +34,6 @@
 
 |  | darab | összes adó (Ft) |  |
 
-11. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^82]
+11. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^83]
 
-[^82]: A 11. számú melléklet a 45/2012. (XII. 27.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^83]: A 11. számú melléklet a 45/2012. (XII. 27.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.

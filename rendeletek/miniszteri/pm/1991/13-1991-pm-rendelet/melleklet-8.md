@@ -54,6 +54,6 @@
 
 | T | 22. FIZETENDŐ ADÓ [20-21] |  |  |  |  |  |  |  |  |
 
-8. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^77]
+8. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^78]
 
-[^77]: A 8. számú melléklet a 44/2007. (XII. 29.) PM rendelet 6. § (4) bekezdésének e) pontjával megállapított szöveg.
+[^78]: A 8. számú melléklet a 44/2007. (XII. 29.) PM rendelet 6. § (4) bekezdésének e) pontjával megállapított szöveg.

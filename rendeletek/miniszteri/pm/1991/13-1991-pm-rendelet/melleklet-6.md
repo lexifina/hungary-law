@@ -80,6 +80,6 @@
 
 |  | 34. ÖSSZES FIZETENDŐ ADÓ (9+16+29) |  |  |  |  |  |  |  |  |
 
-6. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^75]
+6. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^76]
 
-[^75]: A 6. számú melléklet a 77/2013. (XII. 31.) NGM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^76]: A 6. számú melléklet a 77/2013. (XII. 31.) NGM rendelet 1. § (3) bekezdésével megállapított szöveg.

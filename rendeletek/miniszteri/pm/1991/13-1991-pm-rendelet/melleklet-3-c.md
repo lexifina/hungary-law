@@ -50,6 +50,6 @@
 
 | Számla egyenleg |  |
 
-3/c. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^71]
+3/c. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^72]
 
-[^71]: A 3/c. számú mellékletet az 54/2004. (XII. 29.) PM rendelet 10. §-ának (3) bekezdése iktatta a szövegbe.
+[^72]: A 3/c. számú mellékletet az 54/2004. (XII. 29.) PM rendelet 10. §-ának (3) bekezdése iktatta be, szövege az 54/2014. (XII. 31.) NGM rendelet 8. § (1) bekezdése szerint módosított szöveg.

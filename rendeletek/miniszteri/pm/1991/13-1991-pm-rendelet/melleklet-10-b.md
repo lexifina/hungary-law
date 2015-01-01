@@ -134,6 +134,6 @@
 
 ## * Az „összes adó” oszlop rovataiba az adókedvezmény és a fizetendő adó együttes összegét kell beírni.
 
-10/b. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^81]
+10/b. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^82]
 
-[^81]: A 10/a. számú mellékletet a 42/2003. (XII. 29.) PM rendelet 8. §-ának (3) bekezdése iktatta be, számozását 10/b. számú mellékletre változtatta a 41/2006. (XII. 25.) PM rendelet 3. § (4) bekezdése.
+[^82]: A 10/a. számú mellékletet a 42/2003. (XII. 29.) PM rendelet 8. §-ának (3) bekezdése iktatta be, számozását 10/b. számú mellékletre változtatta a 41/2006. (XII. 25.) PM rendelet 3. § (4) bekezdése.

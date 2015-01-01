@@ -16,6 +16,6 @@
 
 | Összesen |  |  |  |  |  |  |  |  |  |  |
 
-20. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^97]
+20. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^98]
 
-[^97]: A 20. számú mellékletet a 42/2005. (XII. 22.) PM rendelet 7. § (5) bekezdése iktatta be, hatályon kívül helyezte a 35/2008. (XII. 31.) PM rendelet 3. §-a.
+[^98]: A 20. számú mellékletet újonnan az 54/2014. (XII. 31.) NGM rendelet 8. § (5) bekezdése iktatta be.

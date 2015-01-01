@@ -1,4 +1,4 @@
-## Adatszolgáltatás a bevezetett helyi adókról[^90]
+## Adatszolgáltatás a bevezetett helyi adókról[^91]
 
 | A d a t s z o l g á l t a t á s a b e v e z e t e t t h e l y i a d ó k r ó l 199 . január 1-i állapot |
 
@@ -18,7 +18,7 @@
 
 |  | Az egyes adónemeket bevezető önkormányzatok száma |  |  |  |  |  |  |  |  |  |  |  |
 
-15/a. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^91]
+15/a. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^92]
 
-[^90]: Lásd MK 1995. 34. szám 1646. oldal. A 15. számú melléklet a 44/2007. (XII. 29.) PM rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^91]: A 15/a. számú mellékletet az 52/2002. (XII. 29.) PM rendelet 4. § (2) bekezdésének l) pontja iktatta be, a 42/2003. (XII. 29.) PM rendelet 8. §-ának (2) bekezdése hatályon kívül helyezte.
+[^91]: Lásd MK 1995. 34. szám 1646. oldal. A 15. számú melléklet a 44/2007. (XII. 29.) PM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^92]: A 15/a. számú mellékletet újonnan az 54/2014. (XII. 31.) NGM rendelet 8. § (2) bekezdése iktatta be.

@@ -10,6 +10,6 @@
 
 | 3. Összesen |  |  |  |  |
 
-14. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^88]
+14. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^89]
 
-[^88]: A 14. számú melléklet a 42/1997. (XII. 30.) PM rendelet 6. §-ának (3) bekezdésével és 7. számú mellékletével megállapított szöveg. A rendelet egyidejűleg az eredeti 14. számú mellékletet 15. számú mellékletre változtatta.
+[^89]: A 14. számú melléklet a 42/1997. (XII. 30.) PM rendelet 6. §-ának (3) bekezdésével és 7. számú mellékletével megállapított szöveg. A rendelet egyidejűleg az eredeti 14. számú mellékletet 15. számú mellékletre változtatta.

@@ -102,6 +102,6 @@
 
 | Számla egyenleg |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-3/a. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^69]
+3/a. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^70]
 
-[^69]: A 3/a. számú mellékletet a 41/1998. (XII. 27.) PM rendelet 8. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 42/2005. (XII. 22.) PM rendelet 7. § (4) bekezdése.
+[^70]: A 3/a. számú mellékletet a 41/1998. (XII. 27.) PM rendelet 8. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 42/2005. (XII. 22.) PM rendelet 7. § (4) bekezdése.

@@ -54,6 +54,6 @@
 
 | *** | A gépjárműadóról szóló 1991. évi LXXXII. törvény (a továbbiakban: gépjárműadó törvény) |
 
-10/a. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^80]
+10/a. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^81]
 
-[^80]: Az új 10/a. számú mellékletet a 41/2006. (XII. 25.) PM rendelet 3. § (4) bekezdése iktatta be, egyidejűleg az eredeti 10/a. számú melléklet számozását 10/b. számú mellékletre változtatta, szövege a 77/2013. (XII. 31.) NGM rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^81]: Az új 10/a. számú mellékletet a 41/2006. (XII. 25.) PM rendelet 3. § (4) bekezdése iktatta be, egyidejűleg az eredeti 10/a. számú melléklet számozását 10/b. számú mellékletre változtatta, szövege a 77/2013. (XII. 31.) NGM rendelet 1. § (5) bekezdésével megállapított szöveg.

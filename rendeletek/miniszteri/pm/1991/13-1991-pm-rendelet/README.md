@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-13-20-5
 | 2012-01-01 | 1991-13-20-53.22 | 54/2011. (XII. 29.) NGM rendelet |
 | 2013-01-01 | 1991-13-20-53.23 | 45/2012. (XII. 27.) NGM rendelet |
 | 2014-01-01 | 1991-13-20-53.24 | 42/2005. (XII. 22.) PM rendelet |
+| 2015-01-01 | 1991-13-20-53.25 | 54/2014. (XII. 31.) NGM rendelet |

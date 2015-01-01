@@ -36,6 +36,6 @@
 
 | 12. KORRIGÁLT FORG.ÉRTÉK UTÁN FIZETENDŐ ADÓ [10-11] |  |  |  |  |  |  |  |  |
 
-7. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^76]
+7. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^77]
 
-[^76]: A 7. számú melléklet a 77/2013. (XII. 31.) NGM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^77]: A 7. számú melléklet a 77/2013. (XII. 31.) NGM rendelet 1. § (4) bekezdésével megállapított szöveg.

@@ -1,3 +1,5 @@
+## havi rendszerességgel történő megküldésével teljesíti.
+
 ## Záró rendelkezések
 
 15. § (1) Ez a rendelet 1991. június 1-jén lép hatályba.

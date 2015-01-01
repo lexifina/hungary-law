@@ -1,4 +1,4 @@
-## A magánszemély termőföld bérbeadásából származó jövedelemadójáról készült bevallás[^89]
+## A magánszemély termőföld bérbeadásából származó jövedelemadójáról készült bevallás[^90]
 
 | A magánszemély termőföld bérbeadásából származó jövedelemadójáról készült bevallás ............ évi feldolgozási összesítője |
 
@@ -18,4 +18,4 @@
 
 15. számú melléklet a 13/1991. (V. 21.) PM rendelethez
 
-[^89]: Lásd 1997. MK 121. szám 10084. oldal.
+[^90]: Lásd 1997. MK 121. szám 10084. oldal.

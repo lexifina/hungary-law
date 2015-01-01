@@ -14,6 +14,6 @@
 
 | 6. Összesen [3-(4+5)] |  |  |  |  |
 
-10. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^79]
+10. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^80]
 
-[^79]: A 10. számú melléklet a 44/2007. (XII. 29.) PM rendelet 6. § (4) bekezdésének g) pontjával megállapított szöveg.
+[^80]: A 10. számú melléklet a 44/2007. (XII. 29.) PM rendelet 6. § (4) bekezdésének g) pontjával megállapított szöveg.

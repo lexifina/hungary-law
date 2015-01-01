@@ -2,6 +2,10 @@
 
 ## (államigazgatási eljárási illeték számlán szereplő adatok összesítéséhez)
 
+## Z á r á s i ö s s z e s í t ő I.
+
+## (közigazgatási hatósági eljárási eljárási illeték számlán szereplő adatok összesítéséhez)
+
 ## ( év hó nap)
 
 | Megnevezés | Adózók száma | Nyitó | Követelés | Befizetés | Záró |
@@ -12,7 +16,7 @@
 
 | 1. | 2. | 3. | 5. | 7. | 8. | 9. | 10. | 17. | 18. | 19. | 21. |
 
-| Államigazgatási eljárási illeték |  |  |  |  |  |  |  |  |  |  |  |
+| Közigazgatási hatósági eljárási eljárási illeték |  |  |  |  |  |  |  |  |  |  |  |
 
 | Mulasztási bírság |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -56,6 +60,6 @@
 
 | Számla egyenleg |  |  |  |  |  |  |  |  |  |  |  |
 
-4. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^72]
+4. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^73]
 
-[^72]: A 4. számú mellékletet a 42/2005. (XII. 22.) PM rendelet 7. § (4) bekezdése hatályon kívül helyezte.
+[^73]: A 4. számú mellékletet a 42/2005. (XII. 22.) PM rendelet 7. § (4) bekezdése hatályon kívül helyezte.
