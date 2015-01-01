@@ -1,6 +1,6 @@
 4. § (1) Az OEP ellátja a jogszabályokban meghatározott feladatait, ennek keretében
 
-a)[^6] végzi az E. Alap kezelésével – ideértve a finanszírozással és az ártámogatás-elszámolással kapcsolatos feladatokat –, a nyilvántartások vezetésével, a pénzügyi elszámolásokkal és az adatszolgáltatási kötelezettséggel kapcsolatos feladatokat,
+a)[^7] végzi az E. Alap kezelésével – ideértve a finanszírozással és az ártámogatás-elszámolással kapcsolatos feladatokat –, a nyilvántartások vezetésével, a pénzügyi elszámolásokkal és az adatszolgáltatási kötelezettséggel kapcsolatos feladatokat,
 
 b) részt vesz az E. Alap költségvetésének tervezésében és a zárszámadás elkészítésében,
 
@@ -60,9 +60,19 @@ v) ellátja az E. Alap ellátási és működési vagyonával – ideértve a va
 
 w) ellátja mindazon további feladatokat, amelyeket jogszabály vagy az alapító okirat a hatáskörébe utal,
 
-x)[^7] vezeti az országos várólista nyilvántartást és ellátja az országos várólista nyilvántartással kapcsolatban külön jogszabályban meghatározott feladatokat,
+x)[^8] vezeti az országos várólista nyilvántartást és ellátja az országos várólista nyilvántartással kapcsolatban külön jogszabályban meghatározott feladatokat,
 
-y)[^8] működteti és vezeti az implantátum beültetésével, kivételével és cseréjével kapcsolatos beavatkozáson átesett érintetteknek az egészségügyről szóló 1997. évi CLIV. törvény 101/C. § (1) bekezdése szerinti, az egészségügyi szolgáltatói nyilvántartáshoz kapcsolódó informatikai felületet és az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 22/B. §-a szerinti központi implantátumregisztert.
+y)[^9] működteti és vezeti az implantátum beültetésével, kivételével és cseréjével kapcsolatos beavatkozáson átesett érintetteknek az egészségügyről szóló 1997. évi CLIV. törvény 101/C. § (1) bekezdése szerinti, az egészségügyi szolgáltatói nyilvántartáshoz kapcsolódó informatikai felületet és az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 22/B. §-a szerinti központi implantátumregisztert.
+
+(1a)[^10] Az OEP – az (1) bekezdésben foglaltakon túl – a jogszabályokban meghatározott feladatai keretében
+
+a) meghatározza a területi egészségügyi ellátás megszervezésének módszertanát, és irányítja a területi egészségügyi ellátás megszervezését,
+
+b) részt vesz az egészségügyi szakellátási kapacitásokkal és ellátási területekkel kapcsolatos eljárásokban,
+
+c) ellátja az egészségüggyel, az egészségügy finanszírozásával kapcsolatos fejlesztési, elemzési és értékelési, kutatási, szakértői és szakmai támogatási feladatokat,
+
+d) szakértőként eljár a Kormány által meghatározott szakkérdésekben.
 
 (2) Az egészségbiztosítási pénztári szakigazgatási szerv ellátja a jogszabályokban meghatározott feladatait, ennek keretében
 
@@ -92,14 +102,15 @@ ag) jelzi az OEP, mint szakmai irányító szerv felé az aa)–af) pontban fels
 
 ah) az egészségbiztosítási nyilvántartáshoz kapcsolódó adatkezelési, és adatszolgáltatási feladatokat az OEP szakmai irányítása alatt,
 
-ai)[^9] a közgyógyellátással kapcsolatban hatáskörébe utalt feladatokat,
+ai)[^11] a közgyógyellátással kapcsolatban hatáskörébe utalt feladatokat,
 
 b) ellátja mindazon további feladatokat, amelyeket jogszabály vagy az alapító okirat a hatáskörébe utal.
 
-(3)[^10] A fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 6. § (5) bekezdésében foglaltakra figyelemmel az OEP – ideértve kihelyezett területi szervezeti egységeit is – és az egészségbiztosítási pénztári szakigazgatási szervek szakfeladataik költségtakarékos és hatékony ellátása érdekében egymással elektronikus levélben is tarthatnak kapcsolatot.
+(3)[^12] A fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 6. § (5) bekezdésében foglaltakra figyelemmel az OEP – ideértve kihelyezett területi szervezeti egységeit is – és az egészségbiztosítási pénztári szakigazgatási szervek szakfeladataik költségtakarékos és hatékony ellátása érdekében egymással elektronikus levélben is tarthatnak kapcsolatot.
 
-[^6]: A 4. § (1) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 513. §-a szerint módosított szöveg.
-[^7]: A 4. § (1) bekezdés x) pontját a 92/2012. (IV. 27.) Korm. rendelet 30. §-a iktatta be.
-[^8]: A 4. § (1) bekezdés y) pontját a 254/2013. (VII. 5.) Korm. rendelet 58. § (1) bekezdése iktatta be.
-[^9]: A 4. § (2) bekezdés a) pont ai) alpontját a 139/2011. (VII. 21.) Korm. rendelet 24. § (1) bekezdése iktatta be.
-[^10]: A 4. § (3) bekezdését a 139/2011. (VII. 21.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^7]: A 4. § (1) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 513. §-a szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdés x) pontját a 92/2012. (IV. 27.) Korm. rendelet 30. §-a iktatta be.
+[^9]: A 4. § (1) bekezdés y) pontját a 254/2013. (VII. 5.) Korm. rendelet 58. § (1) bekezdése iktatta be.
+[^10]: A 4. § (1a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 85. §-a iktatta be.
+[^11]: A 4. § (2) bekezdés a) pont ai) alpontját a 139/2011. (VII. 21.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^12]: A 4. § (3) bekezdését a 139/2011. (VII. 21.) Korm. rendelet 24. § (2) bekezdése iktatta be.

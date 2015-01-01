@@ -44,7 +44,8 @@ s) Zala Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatás
 
 (3)[^5] Az egészségbiztosítási pénztári szakigazgatási szerv a 4. § (2) bekezdés a) pont ae) alpont 1. pontjában és af) alpontjában meghatározott hatáskörét országos illetékességgel gyakorolja.
 
-(4) Az egészségbiztosítási pénztári szakigazgatási szervek tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 6. § (4) bekezdésében, valamint a 7. §-ában meghatározott hatáskörök – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés h)–i) pontja szerinti hatáskört is beleértve – gyakorlására jogosult szakmai irányító szerv vezetője az OEP főigazgatója.
+(4)[^6] Az egészségbiztosítási pénztári szakigazgatási szervek tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 6. § (4) bekezdésében, valamint a 7. §-ában meghatározott hatáskörök – az államháztartásról szóló 2011. évi CXCV. törvény 9. § i) pontja szerinti hatáskört is beleértve – gyakorlására jogosult szakmai irányító szerv vezetője az OEP főigazgatója.
 
 [^4]: A 2/B. §-t a 221/2014. (IX. 4.) Korm. rendelet 510. §-a iktatta be.
 [^5]: A 3. § (3) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 24. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 3. § (4) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 60. §-a szerint módosított szöveg.
