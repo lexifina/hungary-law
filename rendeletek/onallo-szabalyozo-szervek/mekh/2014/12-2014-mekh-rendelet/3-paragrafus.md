@@ -1,0 +1,3 @@
+## 2. § Az R. 3/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Szabványos kapacitástermék a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 715/2009/EK európai parlamenti és tanácsi rendelet kiegészítéséről szóló 984/2013/EU bizottsági rendelet (a továbbiakban: 984/2013/EU bizottsági rendelet) szerinti 2015. szeptember 30-ig terjedő időszakra vonatkozóan kapcsolt módon történő értékesítésére – a csatlakozó rendszerüzemeltetők előterjesztése alapján – a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) jóváhagyása esetén kerülhet sor.”

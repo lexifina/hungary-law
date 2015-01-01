@@ -1,0 +1,3 @@
+## 4. § Az R. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Ha a szabad kapacitást egy adott átadási-átvételi ponton a rendszerhasználók teljes mértékben lekötötték, vagy egy adott átadási-átvételi ponton a rendszerhasználók 2015. október 1-től kezdődően a szabad kapacitás legalább 95%-át szabványos kapacitástermékek formájában lekötötték, vagy amennyiben műszaki okokból indokolt, akkor a szállítási rendszerüzemeltető megszakítható kapacitást köteles felajánlani. Ez alapján a rendszerhasználó a megszakítható szállítási kapacitást a szállítási rendszerüzemeltetővel kötött szerződésben meghatározott feltételekkel és mértékben veheti igénybe.”
