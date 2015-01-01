@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-221-20-
 | 2014-10-02 | 2014-221-20-22.6 | 2010: CXXX. törvény |
 | 2014-10-05 | 2014-221-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-10-06 | 2014-221-20-22.8 | 2010: CXXX. törvény |
+| 2015-01-01 | 2014-221-20-22.9 | Nemzeti Jogszabálytár (egységes szerkezet) |

@@ -1,7 +1,7 @@
-## 740. §[^491]
+## 740. §[^490]
 
 ## 476. Az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló
 
 ## 266/2013. (VII. 11.) Korm. rendelet módosítása
 
-[^491]: A 740. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^490]: A 740. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

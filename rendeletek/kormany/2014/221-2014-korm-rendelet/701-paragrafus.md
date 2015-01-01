@@ -1,3 +1,3 @@
-## 700. §[^469]
+## 700. §[^468]
 
-[^469]: A 700. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^468]: A 700. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
