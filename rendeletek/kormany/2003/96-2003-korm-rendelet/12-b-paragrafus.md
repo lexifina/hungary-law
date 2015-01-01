@@ -1,4 +1,4 @@
-12/B. §[^65] (1) A személyes közreműködői szerződés tartalmazza:
+12/B. §[^69] (1) A személyes közreműködői szerződés tartalmazza:
 
 a) a személyes közreműködést igénybe vevő és a személyesen közreműködő egészségügyi szolgáltató egyértelmű azonosításához szükséges név- és címadatai közül a nevét – természetes személy esetén a születési nevét is –, székhelyét vagy természetes személy esetén a lakcímét,
 
@@ -20,4 +20,4 @@ i) a vitás kérdések rendezésének eljárási szabályait.
 
 (2) Ha az (1) bekezdés g) pontja szerinti személy több vagy több fajta jogviszony keretében végez egészségügyi tevékenységet, a személyes közreműködői szerződés megkötésekor ahhoz mellékelni kell az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 5. § (6) bekezdése szerinti nyilatkozatot vagy nyilatkozatokat is.
 
-[^65]: A 12/B. §-t az 520/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
+[^69]: A 12/B. §-t az 520/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
