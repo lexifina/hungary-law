@@ -1,0 +1,3 @@
+52. § A Gyvt. a következő 171. §-sal egészül ki:
+
+„171. § A családi napközi a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény, a sportról szóló 2004. évi I. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2014. évi CI. törvénnyel megállapított 43. § (6a) bekezdés b) pontja szerinti ellátotti csoportnak 2015. szeptember 1-jétől nyújt szolgáltatást.”
