@@ -1,0 +1,3 @@
+## 11. § A 11/2003. (V. 8.) IM–BM–PM együttes rendelet 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A bűnjelkezelő a bűnjelnyilvántartó könyvet minden év október hónapjában átvizsgálja, és minden olyan bűnjelről, amely egy évnél hosszabb ideje van a bűnjelraktárban, írásban tájékoztatást kér attól a hatóságtól, amelynél az eljárás a rendelkezésre álló adatok szerint folyamatban van, illetve befejeződött. Ha a lefoglalás feltételei továbbra is fennállnak, erről a büntetőügyben eljáró bíró, ügyész 15 napon belül írásban, az azt megalapozó jogszabályi rendelkezés megjelölésével tájékoztatja a bűnjelkezelőt. Ellenkező esetben 15 napon belül rendelkezést kell hozni a bűnjellel kapcsolatban.”
