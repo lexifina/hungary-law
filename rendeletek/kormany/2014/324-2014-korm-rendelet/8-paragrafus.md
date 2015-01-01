@@ -1,0 +1,5 @@
+## 7. § Az R. 9. §-a helyébe a következő rendelkezés lép:
+
+## „9. § (1) A doppingbizottság, illetve a dopping fellebbviteli bizottság tagjaként a MOB 1-1 személyt jelöl ki, akik tisztségüket 4 évig töltik be. A doppingbizottság és a dopping fellebbviteli bizottság tagja csak olyan személy lehet, aki jogász, orvos, más egészségügyi felsőfokú, vagy a sport területén képesítéshez kötött tevékenységek gyakorlásáról szóló kormányrendeletben meghatározott felsőfokú szakirányú végzettséggel és a doppingellenes tevékenység területén legalább hároméves szakmai tapasztalattal rendelkezik. A MOB a kijelölést – új személy egyidejű kijelölése mellett – a 7. § (5) bekezdésében meghatározott esetekben visszavonhatja, és a tagok e tisztségükről bármikor, a lemondási szándék bejelentésétől számított 30 napos határidővel lemondhatnak.
+
+## (2) A HUNADO a doppingeljárás előkészítése során felkéri a MOB-ot, hogy a konkrét doppingeljárásban a doppingbizottság, illetve a dopping fellebbviteli bizottság tagjaként eljáró személyt jelölje ki.”

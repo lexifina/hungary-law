@@ -1,0 +1,1 @@
+## „d) a doppingellenőrzést manipulálja vagy azt megkísérli, különösen, ha a doppingellenőrt szándékosan akadályozza, vagy azt megkísérli, megtéveszti a doppingellenes tevékenységben részt vevő szervezetek képviselőit, vagy befolyásolja a doppingellenőrzés során a vonatkozó nemzetközi követelmény alapján hivatalosan részt vevő személyeket, vagy azt megkísérli,”
