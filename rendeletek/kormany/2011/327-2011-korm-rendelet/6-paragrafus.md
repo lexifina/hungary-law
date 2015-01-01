@@ -2,7 +2,7 @@
 
 6. § (1) A megváltozott munkaképességű személyek ellátásainak megállapítása – az Mmtv. 32. (1) bekezdésében és 33. § (1) bekezdésében foglalt kivétellel – kérelemre történik.
 
-(2)[^10] A Hivatal által rendszeresített, a kérelem benyújtására szolgáló adatlapot és elektronikus űrlapot a Hivatal, valamint a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni.
+(2)[^11] A Hivatal által rendszeresített, a kérelem benyújtására szolgáló adatlapot és elektronikus űrlapot a Hivatal, valamint a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni.
 
 (3) Az adatlap és az elektronikus űrlap tartalmazza a kérelmező
 
@@ -12,7 +12,7 @@ b) társadalombiztosítási azonosító jelét és
 
 c) adóazonosító jelét, amennyiben a kérelmező Rehabilitációs kártyát igényel,
 
-d)[^11] erre vonatkozó igénye esetén a közlekedőképességének vizsgálatára vonatkozó kérelmet.
+d)[^12] erre vonatkozó igénye esetén a közlekedőképességének vizsgálatára vonatkozó kérelmet.
 
 (4) A kérelemhez csatolni kell
 
@@ -26,11 +26,11 @@ d) a kérelmező nyilatkozatát arról, hogy az Mmtv. szerinti rendszeres pénze
 
 e) a kérelmező nyilatkozatát arról, hogy a jogosultsági feltételek fennállása esetén a Rehabilitációs kártya kiállítását igényli-e és
 
-f)[^12] a kérelmező egészségi állapotával kapcsolatos, a Nemzeti Rehabilitációs és Szociális Hivatalról, valamint a szakmai irányítása alá tartozó rehabilitációs szakigazgatási szervek feladat- és hatásköréről szóló 95/2012. (V. 15.) Korm. rendelet 18. § (1) bekezdése szerinti dokumentumokat,
+f)[^13] a kérelmező egészségi állapotával kapcsolatos, a Nemzeti Rehabilitációs és Szociális Hivatalról, valamint a szakmai irányítása alá tartozó rehabilitációs szakigazgatási szervek feladat- és hatásköréről szóló 95/2012. (V. 15.) Korm. rendelet 18. § (1) bekezdése szerinti dokumentumokat,
 
-g)[^13] a közlekedőképesség vizsgálatára vonatkozó kérelem esetén a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat.
+g)[^14] a közlekedőképesség vizsgálatára vonatkozó kérelem esetén a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat.
 
-[^10]: A 6. § (2) bekezdése a 95/2012. (V. 15.) Korm. rendelet 46. § (11) bekezdés b) és c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
-[^11]: A 6. § (3) bekezdés d) pontját a 61/2012. (III. 30.) Korm. rendelet 17. § (1) bekezdése iktatta be.
-[^12]: A 6. § (4) bekezdés f) pontja a 95/2012. (V. 15.) Korm. rendelet 46. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
-[^13]: A 6. § (4) bekezdés g) pontját a 61/2012. (III. 30.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^11]: A 6. § (2) bekezdése a 95/2012. (V. 15.) Korm. rendelet 46. § (11) bekezdés b) és c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
+[^12]: A 6. § (3) bekezdés d) pontját a 61/2012. (III. 30.) Korm. rendelet 17. § (1) bekezdése iktatta be.
+[^13]: A 6. § (4) bekezdés f) pontja a 95/2012. (V. 15.) Korm. rendelet 46. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
+[^14]: A 6. § (4) bekezdés g) pontját a 61/2012. (III. 30.) Korm. rendelet 17. § (2) bekezdése iktatta be.

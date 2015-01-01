@@ -1,3 +1,3 @@
-## 8. §[^15]
+## 8. §[^16]
 
-[^15]: A 8. §-t a 95/2012. (V. 15.) Korm. rendelet 46. § (12) bekezdés c) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 23. §-át.
+[^16]: A 8. §-t a 95/2012. (V. 15.) Korm. rendelet 46. § (12) bekezdés c) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 23. §-át.
