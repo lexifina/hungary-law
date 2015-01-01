@@ -1,4 +1,4 @@
-10. §[^18] (1) Az országos nemzetiségi önkormányzat az országos nemzetiségi önkormányzat alakuló ülését követő 30 napon belül benyújtja a támogatónak eredeti vagy hitelesített másolati példányban
+10. §[^25] (1) Az országos nemzetiségi önkormányzat az országos nemzetiségi önkormányzat alakuló ülését követő 30 napon belül benyújtja a támogatónak eredeti vagy hitelesített másolati példányban
 
 a) az országos nemzetiségi önkormányzat közgyűlése alakuló ülésének jegyzőkönyvét,
 
@@ -38,4 +38,4 @@ e) egyéb – az a)–d) pont szerinti költségnembe nem sorolható – a támo
 
 (7) Az országos nemzetiségi önkormányzat a beszámoló benyújtásával egyidejűleg nyilatkozik arról, hogy a beszámoló teljes körű, a valóságnak megfelel és az abban feltüntetett adatokat alátámasztó dokumentumok az országos nemzetiségi önkormányzatnál rendelkezésre állnak.
 
-[^18]: A 10. § a 437/2013. (XI. 19.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^25]: A 10. § a 437/2013. (XI. 19.) Korm. rendelet 7. §-ával megállapított szöveg.
