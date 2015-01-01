@@ -12,17 +12,17 @@ ad) hozzájárulás a képzés időtartama alatt igénybe vett gyermekfelügyele
 
 ae) hozzájárulás a képzés időtartama alatt a hozzátartozó ápolásával, gondozásával felmerült költségekhez;
 
-b)[^15] elhelyezkedést segítő támogatások:
+b)[^12] elhelyezkedést segítő támogatások:
 
 ba) a bértámogatás,
 
-bb)[^16] a munkakipróbálás, munkatapasztalat-szerzés és munkagyakorlat-szerzés (a továbbiakban együtt: munkatapasztalat-szerzés) céljából nyújtható bérköltség-támogatás,
+bb)[^13] a munkakipróbálás, munkatapasztalat-szerzés és munkagyakorlat-szerzés (a továbbiakban együtt: munkatapasztalat-szerzés) céljából nyújtható bérköltség-támogatás,
 
 bc) a munkába járáshoz, munkatapasztalat-szerzéshez kapcsolódó utazási költségekhez nyújtott támogatás,
 
 bd) a munkába járáshoz, munkatapasztalat-szerzéshez kapcsolódó csoportos személyszállítás támogatása,
 
-be)[^17] lakhatási támogatás;
+be)[^14] lakhatási támogatás;
 
 c) az önfoglalkoztatás támogatása;
 
@@ -42,6 +42,6 @@ e) a foglalkozás-egészségügyi vizsgálatok költségének megtérítése;
 
 f) a képzéssel kapcsolatos alkalmassági vizsgálat költségének megtérítése.
 
-[^15]: A 3. § b) pontja a 359/2009. (XII. 30.) Korm. rendelet 9. § (6) bekezdés c) pontja szerint módosított szöveg.
-[^16]: A 3. § b) pont bb) alpontja a 324/2011. (Xii. 28.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg.
-[^17]: A 3. § b) pont be) alpontját a 272/2012. (IX. 28.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^12]: A 3. § b) pontja a 359/2009. (XII. 30.) Korm. rendelet 9. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^13]: A 3. § b) pont bb) alpontja a 324/2011. (Xii. 28.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg.
+[^14]: A 3. § b) pont be) alpontját a 272/2012. (IX. 28.) Korm. rendelet 7. § (4) bekezdése iktatta be.
