@@ -70,7 +70,7 @@ g)[^20] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságn
 
 (9)[^22] Az MVH a támogatási évet követő évben, a szükséges forrás igazolt rendelkezésre állását követően intézkedik a támogatás kifizetéséről.
 
-(9a)[^23] A (9) bekezdéstől eltérően a 2014. év I., II. és – a 2014. évben elsőfokú döntéssel lezárt – III. negyedévére vonatkozó jogos igények kifizetésére 2014. évben kerül sor.
+(9a)[^23] A (9) bekezdéstől eltérően a 2015. év I., II. és – a 2015. évben elsőfokú döntéssel lezárt – III. negyedévre vonatkozó jogos igények kifizetésére 2015. évben kerül sor.
 
 (10)[^24] A beérkezett összes igényről, a jóváhagyott igényekről és a kifizetett támogatásról az MVH havonta tájékoztatást küld az agrárpolitikáért felelős miniszternek.
 
@@ -90,6 +90,6 @@ g)[^20] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságn
 [^20]: A 2. § (7) bekezdés g) pontja a 70/2013. (VII. 31.) VM rendelet 82. § c) pontja szerint módosított szöveg.
 [^21]: A 2. § (8) bekezdését az 56/2009. (IV. 29.) FVM rendelet 2. § (2) bekezdése iktatta be, szövege a 19/2010. (III. 11.) FVM rendelet 9. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
 [^22]: A 2. § (9) bekezdését az 56/2009. (IV. 29.) FVM rendelet 2. § (2) bekezdése iktatta be, szövege a 111/2012. (X. 29.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^23]: A 2. § (9a) bekezdését a 111/2012. (X. 29.) VM rendelet 6. § (2) bekezdése iktatta be, szövege a 33/2014. (IV. 4.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^23]: A 2. § (9a) bekezdését a 111/2012. (X. 29.) VM rendelet 6. § (2) bekezdése iktatta be, szövege a 33/2014. (XII. 10.) FM rendelet 4. §-ával megállapított szöveg.
 [^24]: A 2. § (10) bekezdését az 56/2009. (IV. 29.) FVM rendelet 2. § (2) bekezdése iktatta be.
 [^25]: A 2. § (11) bekezdését a 19/2010. (III. 11.) FVM rendelet 9. § (3) bekezdése iktatta be. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
