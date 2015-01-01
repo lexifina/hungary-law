@@ -18,4 +18,6 @@ d) az ellenőrzés zavartalan elvégzéséhez szükséges egyéb feltételeket m
 
 (6) Az ellenőrzésre kijelöltnek joga van az ellenőrzés során keletkezett iratokba betekinteni, a megállapításokkal kapcsolatban felvilágosítást kérni, azokra észrevételt tenni, a jegyzőkönyvet megismerni, és a jegyzőkönyv átadását, kézbesítését követő 15 napon belül észrevételt tenni.
 
-(7) Az ellenőrzésekről, a foganatosított intézkedésekről és azok eredményéről az NMH a minisztert, valamint az oktatásért felelős minisztert legkésőbb a tárgyévet követő év február 15. napjáig összefoglaló jelentésben tájékoztatja.
+(7)[^52] Az ellenőrzésekről, a foganatosított intézkedésekről és azok eredményéről az NSZFH a minisztert, valamint az oktatásért felelős minisztert legkésőbb a tárgyévet követő év február 15. napjáig összefoglaló jelentésben tájékoztatja.
+
+[^52]: A 32. § (7) bekezdése az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-26. § (1) Az NMH – a támogatás valamennyi feltételének fennállása esetén – a gyakorlati képzést végző egyéb szervezettel az adott tanévre vonatkozóan támogatási szerződést köt.
+26. § (1)[^37] Az NSZFH – a támogatás valamennyi feltételének fennállása esetén – a gyakorlati képzést végző egyéb szervezettel az adott tanévre vonatkozóan támogatási szerződést köt.
 
 (2) Hiányosan benyújtott vagy pontatlanul kitöltött adatlap esetén, a támogatási megállapodás megkötésére – az (1) bekezdéstől eltérően – a hiánypótlási felhívás teljesítésének időpontjától számított 30 napon belül kerül sor.
 
@@ -26,4 +26,7 @@ c) a támogatott OKJ-s képzések megnevezését, azonosító számát;
 
 d) a támogatott képzésekben részt vevő tanulószerződéses tanulók létszámát, továbbá
 
-e) az NMH-nak a képzések támogatására vonatkozó kötelezettségvállalását azzal, hogy a támogatás folyósítása az alaprészben e célra meghatározott támogatási előirányzat erejéig, valamint a központi költségvetési törvényben meghatározott alapnormatíva és az Nr. szerinti támogatási mértékek figyelembevételével történik.
+e)[^38] az NSZFH-nak a képzések támogatására vonatkozó kötelezettségvállalását azzal, hogy a támogatás folyósítása az alaprészben e célra meghatározott támogatási előirányzat erejéig, valamint a központi költségvetési törvényben meghatározott alapnormatíva és az Nr. szerinti támogatási mértékek figyelembevételével történik.
+
+[^37]: A 26. § (1) bekezdése az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^38]: A 26. § (4) bekezdés e) pontja az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés d) pontja szerint módosított szöveg.

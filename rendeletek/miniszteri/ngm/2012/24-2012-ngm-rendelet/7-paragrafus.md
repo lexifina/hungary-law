@@ -1,6 +1,6 @@
 ## 6. § Pályázatot az Szht. szerinti célokra a szakképzési hozzájárulási kötelezettségét gyakorlati képzés szervezésével teljesítő hozzájárulásra kötelezett, valamint a költségvetési hozzájárulásban részesített szakképző intézmények, felsőoktatási intézmények, továbbá az Szht. 19.§ (9) bekezdése szerinti szervezetek nyújthatnak be.
 
-7. § (1) A pályázatot papír alapon és elektronikusan az NMH-hoz kell benyújtani.
+7. § (1)[^10] A pályázatot papír alapon és elektronikusan az NSZFH-hoz kell benyújtani.
 
 (2) A pályázati kiírás az Ávr. 66. § (2) bekezdésében foglaltakon túlmenően tartalmazza a támogatási szerződés mintát.
 
@@ -21,3 +21,5 @@ b) a társasági adóról és az osztalékadóról szóló törvény hatálya al
 c) a szakképző iskola, illetve a nem állami felsőoktatási intézmény esetén a fenntartó támogató nyilatkozatát,
 
 d) a pályázati kiírásban meghatározott egyéb, kötelezettséget vállaló nyilatkozatot.
+
+[^10]: A 7. § (1) bekezdése az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés e) pontja szerint módosított szöveg.

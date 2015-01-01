@@ -8,7 +8,7 @@ a) a szakképesítésért felelős miniszter az Szht. 19. § (5) bekezdés szeri
 
 b) az oktatásért felelős miniszter az Szht. 18. § (2) bekezdés szerinti támogatással összefüggésben,
 
-c) az NMH,
+c)[^30] az NSZFH,
 
 d) a gazdasági kamarák,
 
@@ -25,3 +25,5 @@ b) amennyiben a kérelmező költségvetési szerv, arra vonatkozó nyilatkozat�
 c) a kérelmező arra vonatkozó nyilatkozatát, hogy vele szemben a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény 6. § (1) bekezdésében foglalt kizáró ok egyike sem áll fenn,
 
 d) a támogatás megítélése szempontjából a kérelmező által relevánsnak tartott egyéb dokumentumokat, számításokat.
+
+[^30]: A 19. § (2) bekezdés c) pontja az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.

@@ -12,4 +12,6 @@ c) a kedvezményezett megszűnik
 
 ## a jelzett időszak hátralévő hónapjaira időarányosan eső támogatási összegnek azt a hányadát kell az EFK számlára visszafizetni, amilyen arányban a tárgyi eszköz beszerzése a támogatás terhére elszámolásra került.
 
-(3) A támogatás hasznosulásának vizsgálatához a kedvezményezett köteles a támogatás évétől számítva 5 éven keresztül évente minden év október 15. napjáig monitoring jelentést küldeni az NMH részére a támogatással érintett gyakorlati képzésekben résztvevők létszámáról és a tárgyi eszközök használatának időtartamáról. Amennyiben a kedvezményezettnél a gyakorlati képzésben résztvevők létszáma nullára csökken, a (2) bekezdés szerint kell eljárni.
+(3)[^18] A támogatás hasznosulásának vizsgálatához a kedvezményezett köteles a támogatás évétől számítva 5 éven keresztül évente minden év október 15. napjáig monitoring jelentést küldeni az NSZFH részére a támogatással érintett gyakorlati képzésekben résztvevők létszámáról és a tárgyi eszközök használatának időtartamáról. Amennyiben a kedvezményezettnél a gyakorlati képzésben résztvevők létszáma nullára csökken, a (2) bekezdés szerint kell eljárni.
+
+[^18]: A 16. § (3) bekezdése az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.

@@ -14,8 +14,12 @@ e) a pályázó szervezetben tulajdoni részesedéssel – kivéve a nyilvánosa
 
 f) más, ismert okból tőle tárgyilagos értékelés nem várható.
 
-(3) A szakértő és a bizottság tagja köteles haladéktalanul bejelenteni az NMH-nak, ha vele szemben a (2) bekezdésben meghatározott kizáró ok áll fenn. A bizottság tagja a bejelentéstől kezdve nem vehet részt a pályázat vonatkozásában a pályázati döntés előkészítésének folyamatában.
+(3)[^15] A szakértő és a bizottság tagja köteles haladéktalanul bejelenteni az NSZFH-nak, ha vele szemben a (2) bekezdésben meghatározott kizáró ok áll fenn. A bizottság tagja a bejelentéstől kezdve nem vehet részt a pályázat vonatkozásában a pályázati döntés előkészítésének folyamatában.
 
-(4) A pályázó, a szakértő és a bizottság tagja – a pályázat elbírálásához, a szakértői, illetve a bizottsági tevékenység ellátásához feltétlenül szükséges – személyes adatát az NMH kezeli az érintetteknek az adatkezeléshez történő előzetes, írásbeli hozzájárulását követően.
+(4)[^16] A pályázó, a szakértő és a bizottság tagja – a pályázat elbírálásához, a szakértői, illetve a bizottsági tevékenység ellátásához feltétlenül szükséges – személyes adatát az NSZFH kezeli az érintetteknek az adatkezeléshez történő előzetes, írásbeli hozzájárulását követően.
 
-(5) Az NMH biztosítja a szakértők és a bizottság tagjainak anonimitását.
+(5)[^17] Az NSZFH biztosítja a szakértők és a bizottság tagjainak anonimitását.
+
+[^15]: A 12. § (3) bekezdése az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^16]: A 12. § (4) bekezdése az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^17]: A 12. § (5) bekezdése az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.

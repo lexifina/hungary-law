@@ -20,7 +20,7 @@ i) a kedvezményezett általános működési költségéből a program végreha
 
 j) a program végrehajtásával kapcsolatos feladatellátással összefüggésben a kedvezményezett felhalmozási kiadásai.
 
-(3) Az NMH és jogelődjei által megkötött támogatási szerződés esetén a miniszter hatáskörébe tartozik a kedvezményezettnek egyedi miniszteri döntéssel nyújtott támogatási program esetén
+(3)[^33] Az NSZFH és jogelődjei által megkötött támogatási szerződés esetén a miniszter hatáskörébe tartozik a kedvezményezettnek egyedi miniszteri döntéssel nyújtott támogatási program esetén
 
 a) a miniszteri döntéstől fél éven túl eltérő végrehajtásának, beszámolási és elszámolási határideje módosításának,
 
@@ -30,4 +30,7 @@ c) a kedvezményezettek számára biztosított működési célú támogatás ki
 
 ## engedélyezése.
 
-(4) Az NMH jogelődjei által megkötött támogatási szerződések esetén az NMH jogkörébe tartozik a programot érintő minden egyéb, a (3) bekezdésben nem szabályozott szerződésmódosítás engedélyezése.
+(4)[^34] Az NSZFH jogelődjei által megkötött támogatási szerződések esetén az NSZFH jogkörébe tartozik a programot érintő minden egyéb, a (3) bekezdésben nem szabályozott szerződésmódosítás engedélyezése.
+
+[^33]: A 22. § (3) bekezdés nyitó szövegrésze az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^34]: A 22. § (4) bekezdése az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés c) pontja szerint módosított szöveg.

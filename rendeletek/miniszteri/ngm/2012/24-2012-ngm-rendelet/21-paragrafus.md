@@ -8,6 +8,9 @@ c) az adott programhoz kapcsolódóan a kedvezményezett által elvégzett ellen
 
 d) teljességi nyilatkozatot.
 
-(2) Amennyiben az NMH kötötte meg a támogatási szerződést, a szerződésszerű teljesítést az NMH, a szakmai teljesítést – a (3) bekezdésben foglalt kivétellel – a miniszter a Nemzeti Szakképzési és Felnőttképzési Tanács véleményének figyelembe vételével igazolja. Amennyiben a miniszter kötötte meg a támogatási szerződést, a teljes körű teljesítést a miniszter igazolja.
+(2)[^31] Amennyiben az NSZFH kötötte meg a támogatási szerződést, a szerződésszerű teljesítést az NSZFH, a szakmai teljesítést – a (3) bekezdésben foglalt kivétellel – a miniszter a Nemzeti Szakképzési és Felnőttképzési Tanács véleményének figyelembe vételével igazolja. Amennyiben a miniszter kötötte meg a támogatási szerződést, a teljes körű teljesítést a miniszter igazolja.
 
-(3) Az oktatásért felelős miniszter szakképzéssel összefüggő feladatai ellátásához biztosított támogatás tekintetében a szerződésszerű teljesítést az NMH, a szakmai teljesítést az oktatásért felelős miniszter igazolja.
+(3)[^32] Az oktatásért felelős miniszter szakképzéssel összefüggő feladatai ellátásához biztosított támogatás tekintetében a szerződésszerű teljesítést az NSZFH, a szakmai teljesítést az oktatásért felelős miniszter igazolja.
+
+[^31]: A 21. § (2) bekezdése az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^32]: A 21. § (3) bekezdése az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.

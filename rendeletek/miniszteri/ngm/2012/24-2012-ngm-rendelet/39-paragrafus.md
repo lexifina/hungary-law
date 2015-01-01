@@ -8,8 +8,11 @@
 
 (4) A (3) bekezdés szerinti eszközátadást 2013. szeptember 1. napjától teljesíteni lehet olyan nem állami szakképző iskola részére is, amelynek fenntartójánál az eszköz használata költségvetési hozzájárulásban részesített szakképesítés megszerzése érdekében folytatott gyakorlati képzési célt szolgál.
 
-(5) Amennyiben az (1)–(4) bekezdésben foglaltak valamelyike bekövetkezik, a támogatásban részesített köteles a 36. § (1) bekezdése szerinti működtetési kötelezettségekkel érintett tárgyi eszközről, ingatlanról a 10. melléklet szerinti Adatlapon történő elszámolást és adatszolgáltatást teljesíteni az NMH részére az (1) bekezdésben foglaltak bekövetkezése, illetve a (3)–(4) bekezdésben foglaltak teljesülését követő 15 napon belül.
+(5)[^58] Amennyiben az (1)–(4) bekezdésben foglaltak valamelyike bekövetkezik, a támogatásban részesített köteles a 36. § (1) bekezdése szerinti működtetési kötelezettségekkel érintett tárgyi eszközről, ingatlanról a 10. melléklet szerinti Adatlapon történő elszámolást és adatszolgáltatást teljesíteni az NSZFH részére az (1) bekezdésben foglaltak bekövetkezése, illetve a (3)–(4) bekezdésben foglaltak teljesülését követő 15 napon belül.
 
-(6) Az NMH az elszámolást 30 napon belül ellenőrzi. Az elszámolásban feltüntetett, vagy az NMH által megállapított visszafizetendő összeget a fejlesztési támogatásban részesített az elszámolással egyidejűleg, illetve az NMH visszafizetési megállapítása esetén az NMH erről szóló írásos értesítés kézhezvételét követő 60 napon belül köteles befizetni az EFK számlára.
+(6)[^59] Az NSZFH az elszámolást 30 napon belül ellenőrzi. Az elszámolásban feltüntetett, vagy az NSZFH által megállapított visszafizetendő összeget a fejlesztési támogatásban részesített az elszámolással egyidejűleg, illetve az NSZFH visszafizetési megállapítása esetén az NSZFH erről szóló írásos értesítés kézhezvételét követő 60 napon belül köteles befizetni az EFK számlára.
 
 (7) Amennyiben az (1)–(4) bekezdésekben foglaltak valamelyike bekövetkezik és a támogatásban részesített nem, vagy csak részben tesz eleget az (5) bekezdés szerinti elszámolási kötelezettségének, az elszámolással érintett, illetve az elszámolásban nem szereplő tárgyi eszközre, ingatlanra fordított fejlesztési támogatás mértékével egyező befizetési kötelezettség terheli a fejlesztési támogatásban részesítettet.
+
+[^58]: A 39. § (5) bekezdése az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^59]: A 39. § (6) bekezdése az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés c) pontja szerint módosított szöveg.
