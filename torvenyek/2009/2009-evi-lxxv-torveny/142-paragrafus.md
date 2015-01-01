@@ -1,3 +1,0 @@
-142. § (1) E törvény hatálybalépését megelőzően az igazságügyi szakértőkről szóló 2/1988. (V. 19.) IM rendelet alapján kiadott módszertani leveleket (a továbbiakban e §-ban: korábbi módszertani levél) a Magyar Igazságügyi Szakértői Kamara elnöksége (a továbbiakban e §-ban: elnökség) 2011. január 1-jéig felülvizsgálja. A felülvizsgálatra a Szaktv. 30/A–30/C. §-ait megfelelően alkalmazni kell.
-
-(2) Az elnökség a felülvizsgálat során a korábbi módszertani levelet változatlan tartalommal szakértői módszertani levélként fenntartja vagy visszavonja. Amennyiben a korábbi módszertani levél módosítása vagy kiegészítése szükséges, az elnökség a korábbi módszertani levelet visszavonja és új szakértői módszertani levelet ad ki.
