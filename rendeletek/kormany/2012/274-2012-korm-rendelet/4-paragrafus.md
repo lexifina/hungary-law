@@ -10,10 +10,14 @@ d) rendvédelmi oktatási intézményben rendészeti tárgyú szakképesítést 
 
 e) jogszabály – az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat hivatásos állománya esetében jogszabály vagy miniszteri utasítás – alapján rendészeti végzettségként elismert, a Hszt. hatálya alá tartozó fegyveres szerv képzési rendszerében 1996. szeptember 1-jét követően szerzett – szakképzettségnek nem minősülő – rendészeti végzettséggel rendelkezik,
 
-f) rendészeti oktatási intézményben 2010. június 1-jét követően rendészeti tárgyú rész-szakképesítést szerzett.
+f) rendészeti oktatási intézményben 2010. június 1-jét követően rendészeti tárgyú rész-szakképesítést szerzett,
+
+g)[^2] a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja és a Nemzeti Adó- és Vámhivatalról szóló törvényben előírt alapfokú szaktanfolyami végzettséggel rendelkezik vagy annak letétele alól jogszabály mentesíti.
 
 (2) A hivatásos állomány közigazgatási alap- vagy szakvizsgával, továbbá jogi szakvizsgával rendelkező tagjának csak a rendészeti alapismeretekből kell vizsgát tennie, a szolgálati viszony létesítését követő egy éven belül. Mentesül a rendészeti alapismeretek vizsgarész letételének kötelezettsége alól az, aki közigazgatási alapvizsgával, közigazgatási szakvizsgával vagy jogi szakvizsgával rendelkezik és legalább három éve – megszakítás nélkül – hivatásos szolgálati viszonyban áll.
 
 (3) Az (1) bekezdés e) pontja alapján a rendészeti alapvizsga letételének kötelezettsége alóli mentesítést más, kormánytisztviselői vagy köztisztviselői jogviszony létesítésekor keletkező közigazgatási alapvizsga-tételi kötelezettség szempontjából figyelmen kívül kell hagyni.
 
 (4) A rendészeti alapvizsgával rendelkező személy a jogszabályban meghatározott közigazgatási alapvizsga-kötelezettség teljesítése alól mentesül.
+
+[^2]: A 4. § (1) bekezdés g) pontját a 325/2014. (XII. 15.) Korm. rendelet 18. §-a iktatta be.

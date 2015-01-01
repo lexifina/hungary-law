@@ -140,7 +140,7 @@ VI. Kriminálpedagógia és a büntetés-végrehajtás
 
 ## A vizsgázó ismerje meg a kriminálpedagógia kialakulásának hazai történetét, tudományközi kapcsolatainak áttekintése során tudja megkülönböztetni a társtudományoktól (a bűnügyi, nevelési tudományoktól). Tudása terjedjen ki a kriminálpedagógiai törekvések nemzetközi tendenciáira. Tudja értelmezni a személyiséget kriminálpedagógiai szempontból. Határozza meg e téma központi célkategóriáját, jellemezze a korrekciós nevelési rendszereket.
 
-## VII.[^5] Büntetés-végrehajtási nevelés
+## VII.[^8] Büntetés-végrehajtási nevelés
 
 ## A tárgy oktatása általános ismereteket nyújt a szabadságvesztés céljáról, feladatáról, a nevelés helyéről és szerepéről. A vizsgázó sajátítsa el a büntetés-végrehajtási nevelés fogalmát, folyamatát, tudja definiálni a büntetés-végrehajtási nevelő szerepét és feladatrendszerét a szabadságvesztés folyamatában.
 
@@ -188,7 +188,7 @@ III. Az államháztartás rendszere
 
 ## Szerezzen ismereteket az államháztartás alrendszereinek finanszírozási és számlavezetési rendjéről, a kincstári rendszerről, a Kincstári Egységes Számláról, a likviditáskezelésről, a kincstár által vezetett számlákról, a költségvetési szervek finanszírozásáról. Ismerje az államháztartás információs rendszerét, ezen belül ennek feladatait, szerkezetét, a törzskönyvi nyilvántartást, a kincstári adatkezelést, az adatszolgáltatási kötelezettségeket.
 
-## IV.[^6] Költségvetési szervek
+## IV.[^9] Költségvetési szervek
 
 ## A vizsgázó tudja a költségvetési szerv fogalmát, tevékenységét, a költségvetési szerv alapítására, működésére, illetve megszüntetésére vonatkozó szabályokat. Rendelkezzen ismeretekkel az alapító okirat tartalmáról, a költségvetési szerv irányításával, felügyeletével kapcsolatos szabályozásról. Rendelkezzen ismeretekkel a gazdasági szervezet és a gazdasági vezető feladatairól, a költségvetési szerv szervezeti és működési szabályzatának tartalmáról.
 
@@ -512,5 +512,5 @@ IV. Áruosztályozás és áruismereti feladatok
 
 V. Büntető- és szabálysértési jogi feladatok
 
-[^5]: A 2. melléklet II.1. pont VII. alpontja a 297/2013. (VII. 29.) Korm. rendelet 82. §-a szerint módosított szöveg.
-[^6]: A 2. melléklet II.3. pont IV. alpontja a 221/2014. (IX. 4.) Korm. rendelet 693. §-a szerint módosított szöveg.
+[^8]: A 2. melléklet II.1. pont VII. alpontja a 297/2013. (VII. 29.) Korm. rendelet 82. §-a szerint módosított szöveg.
+[^9]: A 2. melléklet II.3. pont IV. alpontja a 221/2014. (IX. 4.) Korm. rendelet 693. §-a szerint módosított szöveg.
