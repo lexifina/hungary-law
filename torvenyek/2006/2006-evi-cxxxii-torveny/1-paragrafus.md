@@ -40,7 +40,13 @@ ia) a járóbeteg-szakellátásban a szakorvosi és nem szakorvosi órák száma
 
 ib) a fekvőbeteg-ellátásban az aktív és krónikus ellátási ágyak száma,
 
-ic) az ia) és az ib) alá nem tartozó esetben az e törvény végrehajtásáról szóló rendeletben foglaltak szerinti eljárásban meghatározott egység;
+ic) művesekezelés esetén a kezelésszám,
+
+id) nappali kórházi ellátásban a beteglétszám,
+
+ie) egynapos ellátásban a súlyszám,
+
+if) az ia)–ie) alpont alá nem tartozó esetben az e törvény végrehajtásáról szóló rendeletben foglaltak szerinti eljárásban meghatározott egység;
 
 j) egészségügyi szakellátási felelősség: az államnak az a kötelezettsége, hogy gondoskodjon a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti egészségügyi szakellátásoknak az l), az o), illetve a p) pontban meghatározott módon, valamint a 2. § (2) bekezdése szerinti esetben az ott meghatározott módon történő biztosításáról;
 

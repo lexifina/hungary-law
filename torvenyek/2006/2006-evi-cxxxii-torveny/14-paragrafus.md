@@ -2,7 +2,7 @@
 
 14. § (1)
 
-(2) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel megállapított 4. §-t 2011. január 1-jét követően első alkalommal 2015-ben kell alkalmazni.
+(2) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2014. évi CXI. törvénnyel megállapított 4. §-t 2011. január 1-jét követően első alkalommal 2015-ben kell alkalmazni.
 
 (3)
 

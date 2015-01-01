@@ -18,7 +18,7 @@ c) települési önkormányzatok.
 
 (4) Az egészségügyi államigazgatási szerv hivatalból állapítja meg, illetve módosítja az ellátási területet, ha az jogszabályváltozás, vagy a kapacitást érintő e törvény szerinti módosulás miatt, illetve ellátási érdekből szükséges.
 
-(5) Az egészségügyi államigazgatási szerv az (1) bekezdés alapján indult eljárásban amennyiben az érintett egészségügyi szolgáltató fenntartójával nem azonos, a Kormány által kijelölt szerv szakértői véleményének és a (6) bekezdésben foglaltak, továbbá
+(5) Az egészségügyi államigazgatási szerv az (1) bekezdés alapján indult eljárásban egészségbiztosító véleményének és a (6) bekezdésben foglaltak, továbbá
 
 a) a járóbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területek esetében az 5/A. § (2)–(6), (9) és (10) bekezdésében,
 
