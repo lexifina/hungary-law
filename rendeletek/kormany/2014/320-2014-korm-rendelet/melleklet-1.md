@@ -1,4 +1,4 @@
-## 24. §[^21]
+## 24. § Hatályát veszti a Nemzeti Munkaügyi Hivatalról és a szakmai irányítása alá tartozó szakigazgatási szervek feladat- és hatásköréről szóló 323/2011. (XII. 28.) Korm. rendelet.
 
 1. melléklet a 320/2014. (XII. 13.) Korm. rendelethez
 
@@ -83,5 +83,3 @@ székhelye: Veszprém
 20. Zala Megyei Kormányhivatal Munkaügyi Központja
 
 székhelye: Zalaegerszeg
-
-[^21]: A 24. § a 17. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
