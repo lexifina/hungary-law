@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-37-20-2
 | 2011-08-02 | 2011-37-20-2V.4 | 2010: CXXX. törvény |
 | 2012-01-01 | 2011-37-20-2V.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-01-02 | 2011-37-20-2V.6 | 2010: CXXX. törvény |
+| 2015-01-01 | 2011-37-20-2V.7 | 54/2014. (XII. 29.) EMMI rendelet |
