@@ -1,5 +1,0 @@
-## 25. § A kincstár külön adatszolgáltatással adja át a számfejtési körébe tartozó intézmények jogelődi, illetve jogutódi kapcsolatára vonatkozó adatokat abban az esetben, ha az érintett költségvetési szerv más államháztartási alrendszerbe kerül átsorolásra, irányító szerv változás történik, továbbá, ha két költségvetési szerv között szervezeti egység átadásra kerül sor. Az adóhatóság a kincstár adatszolgáltatása alapján jegyzi be nyilvántartásába a jogelődi, illetve jogutódi kapcsolatra vonatkozó adatokat.
-
-26. § (1) A központosított illetmény-számfejtési körbe tartozó szervek munkaügyi statisztikai és egyéb jogszabályban meghatározott adatszolgáltatásait – a statisztikáról szóló törvény, a végrehajtásáról rendelkező kormányrendelet, valamint a beszámolási időszakra vonatkozó Országos Statisztikai Adatgyűjtési Programot jóváhagyó kormányrendelet alapján a kincstár központilag teljesíti.
-
-(2) Az illetményszámfejtő hely az általa teljesített adatszolgáltatásokat a munkáltató, valamint az önkormányzati szervek részére tájékoztatás céljából – teljes adattartalommal – elektronikus úton megküldi.
