@@ -2,7 +2,7 @@
 
 (2) Kormányzati hitelesítés-szolgáltatás nyújtójaként csak állami szerv vagy kizárólag állami tulajdonban lévő szervezet jelölhető ki.
 
-(3)[^63] A kormányzati hitelesítés-szolgáltatóra a közfeladat ellátása céljából kiadott tanúsítványok és egyéb szolgáltatások tekintetében – a 114. § (2) bekezdése szerinti szolgáltatásokra kiterjedően is – nem vonatkoznak a hitelesítés-szolgáltatókra irányadó pénzügyi követelmények és nem köteles felelősségbiztosítást kötni.
+(3)[^64] A kormányzati hitelesítés-szolgáltatóra a közfeladat ellátása céljából kiadott tanúsítványok és egyéb szolgáltatások tekintetében – a 114. § (2) bekezdése szerinti szolgáltatásokra kiterjedően is – nem vonatkoznak a hitelesítés-szolgáltatókra irányadó pénzügyi követelmények és nem köteles felelősségbiztosítást kötni.
 
 (4) Amennyiben a kormányzati hitelesítés-szolgáltatást állami szerv nyújtja, az informatikai rendszerért általánosan felelős vezető és a biztonsági felelős csak közszolgálati tisztviselő lehet.
 
@@ -10,4 +10,4 @@
 
 (6) Az informatikai rendszerért általánosan felelős munkakör betöltése szempontjából szakirányú felsőfokú végzettségnek kell tekinteni minden felsőfokú informatikai végzettséget, függetlenül attól, hogy azt műszaki tudományterületre tartozó mérnöki szakon szerezték-e meg.
 
-[^63]: A 115. § (3) bekezdése az 515/2013. (XII. 30.) Korm. rendelet 30. § (15) bekezdésével megállapított szöveg.
+[^64]: A 115. § (3) bekezdése az 515/2013. (XII. 30.) Korm. rendelet 30. § (15) bekezdésével megállapított szöveg.

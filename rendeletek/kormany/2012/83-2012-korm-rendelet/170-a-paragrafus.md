@@ -1,4 +1,4 @@
-## 47/A. [^72] Interaktív virtuális ügyfélszolgálat
+## 47/A. [^74] Interaktív virtuális ügyfélszolgálat
 
 170/A. § (1) Az interaktív virtuális ügyfélszolgálat szolgáltatás szabályozott elektronikus ügyintézési szolgáltatás.
 
@@ -16,4 +16,4 @@ d) a szolgáltatás igénybevételéhez szükséges előzetes időpontfoglalás 
 
 (4) Az interaktív virtuális ügyfélszolgálat szolgáltatás a Kormány által kötelezően nyújtandó SZEÜSZ. A szolgáltatást a jogszabályban kijelölt szolgáltató kizárólagos jelleggel nyújtja.
 
-[^72]: A 47/A. alcímet (170/A. §) a 252/2013. (VII. 4.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^74]: A 47/A. alcímet (170/A. §) a 252/2013. (VII. 4.) Korm. rendelet 2. § (2) bekezdése iktatta be.
