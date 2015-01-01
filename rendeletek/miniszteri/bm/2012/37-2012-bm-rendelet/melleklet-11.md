@@ -1,6 +1,6 @@
 11. melléklet a 37/2012. (VIII. 2.) BM rendelethez
 
-## Szent Adorján Érdemjel leírása és viselési rendje
+Szent Adorján Érdemjel leírása és viselési rendje
 
 1. A Szent Adorján Érdemjel 42x42 milliméter átmérőjű, püspöklila zománcozott, élére állított, enyhén befelé ívelő szárú, négyszög alakú, melynek közepén Magyarország 18 milliméter nagyságú zománcozott címere helyezkedik el. A címert kifelé keskenyedő sugarak díszítik. A kitüntetés anyaga tombak.
 

@@ -20,7 +20,7 @@
 
 23. melléklet a 37/2012. (VIII. 2.) BM rendelethez
 
-## A miniszteri emléktárgyak leírása
+A miniszteri emléktárgyak leírása
 
 Az aranygyűrű miniszteri emléktárgy leírása
 

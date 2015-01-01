@@ -1,6 +1,6 @@
 9. melléklet a 37/2012. (VIII. 2.) BM rendelethez
 
-## A Szent György Érdemjel leírása és viselési rendje
+A Szent György Érdemjel leírása és viselési rendje
 
 1. A „Szent György Érdemjel” 42x42 milliméter átmérőjű, királykékre zománcozott, élére állított, enyhén befelé ívelő szárú, négyszög alakú, melynek közepén Magyarország 18 milliméter nagyságú zománcozott címere helyezkedik el. A címert kifelé keskenyedő sugarak díszítik. A kitüntetés anyaga tombak.
 

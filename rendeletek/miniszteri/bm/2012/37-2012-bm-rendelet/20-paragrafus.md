@@ -14,6 +14,6 @@ b) ezüst fokozatában legfeljebb 150,
 
 c) bronz fokozatában legfeljebb 200
 
-## fő részesíthető évente.
+fő részesíthető évente.
 
 (5) Az (1) bekezdés szerinti elismerés leírásának és viselési rendjének meghatározását a 14. melléklet tartalmazza.

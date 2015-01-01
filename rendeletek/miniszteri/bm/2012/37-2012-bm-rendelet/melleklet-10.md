@@ -1,6 +1,6 @@
 10. melléklet a 37/2012. (VIII. 2.) BM rendelethez
 
-## A Szent Flórián Érdemjel leírása és viselési rendje
+A Szent Flórián Érdemjel leírása és viselési rendje
 
 1. A Szent Flórián Érdemjel élére állított, enyhén befelé ívelő szárú, négyszög alakú, rézötvözetből készült, átmérője 42 milliméter, vastagsága 3 milliméter, bordó színűre zománcozott, melynek közepén Magyarország 18 mm nagyságú zománcozott címere helyezkedik el. A címert kifelé keskenyedő sugarak díszítik.
 

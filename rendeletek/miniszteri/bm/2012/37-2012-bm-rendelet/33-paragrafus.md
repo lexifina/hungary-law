@@ -20,7 +20,7 @@ f) önkéntes és köteles polgári védelmi szervezetek,
 
 g) az önkormányzati tűzoltóságok és az önkéntes tűzoltó egyesületek
 
-## részére.
+részére.
 
 (3) Az adományozásra jogosult a (2) bekezdésben fel nem sorolt, a belügyminiszter irányítása alatt álló szerv részére egyedi elbírálás alapján adományozhat csapatzászlót.
 

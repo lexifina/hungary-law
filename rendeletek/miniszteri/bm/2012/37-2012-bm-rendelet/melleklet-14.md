@@ -1,6 +1,6 @@
 14. melléklet a 37/2012. (VIII. 2.) BM rendelethez
 
-## A Rendkívüli Helytállásért Érdemjel kitüntető cím leírása és viselési rendje
+A Rendkívüli Helytállásért Érdemjel kitüntető cím leírása és viselési rendje
 
 1. A Rendkívüli Helytállásért Érdemjel elülső lapján egy 40 milliméter átmérőjű kör alapon egy élére állított, enyhén befelé ívelő szárú, 40x40 milliméter négyszög alakú rátét, melynek közepén Magyarország 18 milliméter nagyságú – műgyanta színezéssel készülő – címere helyezkedik el. A címert kifelé keskenyedő sugarak díszítik. A hátoldalon „RENDKÍVÜLI HELYTÁLLÁSÉRT” felirat látható babérkoszorú szárai között. A felső ívben a vésés szövege utal az elismert tevékenységre. A kitüntetés anyaga tombak.
 

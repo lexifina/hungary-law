@@ -1,6 +1,6 @@
 8. melléklet a 37/2012. (VIII. 2.) BM rendelethez
 
-## A Köz Szolgálatáért Érdemjel leírása és viselési rendje
+A Köz Szolgálatáért Érdemjel leírása és viselési rendje
 
 1. A Köz Szolgálatáért Érdemjel élére állított, enyhén befelé ívelő szárú, négyszög alakú, rézötvözetből készült, átmérője 42 milliméter, vastagsága 3 milliméter, világoskékre zománcozott, melynek közepén Magyarország 18 milliméter nagyságú zománcozott címere helyezkedik el. A címert kifelé keskenyedő sugarak díszítik. A befelé ívelő szárakat babérkoszorú fonja körül.
 
