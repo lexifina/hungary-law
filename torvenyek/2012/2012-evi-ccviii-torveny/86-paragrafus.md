@@ -4,10 +4,10 @@ a)
 
 b)
 
-c)
+c) a Vtv. 87/A. §-a,
 
 d)
 
-e)
+e) az Sztv. 51. § (9) bekezdése,
 
 f)
