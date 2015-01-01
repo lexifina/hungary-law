@@ -1,12 +1,12 @@
-46. §[^210] (1)[^211] Ha a közgyógyellátásra való jogosultságot megállapító hatóság a közgyógyellátásra való jogosultságot jogosulatlan és rosszhiszemű igénybevétel miatt szüntette meg, akkor intézkedik közgyógyellátás keretében igénybe vett ellátás megtérítéséről.
+46. §[^212] (1)[^213] Ha a közgyógyellátásra való jogosultságot megállapító hatóság a közgyógyellátásra való jogosultságot jogosulatlan és rosszhiszemű igénybevétel miatt szüntette meg, akkor intézkedik közgyógyellátás keretében igénybe vett ellátás megtérítéséről.
 
-(2)[^212] Megtérítés címén a jogosulatlan és rosszhiszemű igénybevétel időpontjától felhasznált gyógyszerkeret összegének visszafizetését kell elrendelni. A megtérítés összegét a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve költségvetési elszámolási számlájának javára kell teljesíteni.
+(2)[^214] Megtérítés címén a jogosulatlan és rosszhiszemű igénybevétel időpontjától felhasznált gyógyszerkeret összegének visszafizetését kell elrendelni. A megtérítés összegét a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve költségvetési elszámolási számlájának javára kell teljesíteni.
 
-(3)[^213] A megtérítést elrendelő jogerős határozatot a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szervével is közölni kell.
+(3)[^215] A megtérítést elrendelő jogerős határozatot a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szervével is közölni kell.
 
 (4) A megtérítést nem lehet elrendelni, ha az igénybe vevőt a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény alapján megtérítésre már írásban kötelezték.
 
-[^210]: A 46. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
-[^211]: A 46. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés q) pontja szerint módosított szöveg.
-[^212]: A 46. § (2) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja szerint módosított szöveg.
-[^213]: A 46. § (3) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 38. § (6) bekezdésével megállapított szöveg.
+[^212]: A 46. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^213]: A 46. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés q) pontja szerint módosított szöveg.
+[^214]: A 46. § (2) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^215]: A 46. § (3) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 38. § (6) bekezdésével megállapított szöveg.

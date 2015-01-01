@@ -1,4 +1,4 @@
-## 33. §[^142] Ha a kérelmező szociális körülményei indokolttá teszik, az önkormányzati segély a temetés költségeinek kifizetésére előre is adható. Ilyen esetben a határozatban meg kell jelölni azt a határidőt, ameddig a kérelmező köteles a temetés igazoló számláit bemutatni.
+## 33. §[^143] Ha a kérelmező szociális körülményei indokolttá teszik, az önkormányzati segély a temetés költségeinek kifizetésére előre is adható. Ilyen esetben a határozatban meg kell jelölni azt a határidőt, ameddig a kérelmező köteles a temetés igazoló számláit bemutatni.
 
 ## Köztemetés
 
@@ -8,4 +8,4 @@
 
 (3) A köztemetés költsége magában foglalja az egészségügyi intézményben végzett halottkezelési tevékenység és a halottszállítás díját is.
 
-[^142]: A 33. § a 197/2013. (VI. 13.) Korm. rendelet 1. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^143]: A 33. § a 197/2013. (VI. 13.) Korm. rendelet 1. § (1) bekezdés f) pontja szerint módosított szöveg.

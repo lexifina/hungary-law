@@ -10,11 +10,10 @@ b) a kiemelt ápolási díjra való jogosultságot megalapozó körülményekrő
 
 (2) Ha az ügyfél a kérelmében a kiemelt ápolási díjra való jogosultság megállapítását nem kéri, a hatóságnak a kiemelt ápolási díjra való jogosultság kérdésében bizonyítást nem kell lefolytatnia.
 
-(3) A kiemelt ápolási díjra való jogosultság fennáll, ha a kiemelt ápolási díjban részesülő személy az Szt. 42. § (4) bekezdés a)–g) pontjában meghatározott ellátásban részesül és a kiemelt ápolási díjat az Szt. 42. § (4) bekezdés a)–g) pontja szerinti ellátásra való jogosultság keletkezésének időpontjában több mint tíz éve folyósítják.
-
-(4) A (3) bekezdés alkalmazása során a kiemelt ápolási díj folyósításának időtartamába az Szt. 41. § (1) bekezdés a) pontja szerinti ápolási díj folyósításának időtartamát is bele kell számítani.
+(3)–(4)[^121]
 
 [^117]: A 25/A. §-t az 509/2013. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
 [^118]: A 25/A. § (1) bekezdése a 69/2014. (III. 13.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^119]: A 25/A. § (1a) bekezdését a 69/2014. (III. 13.) Korm. rendelet 10. § (2) bekezdése iktatta be.
 [^120]: A 25/A. § (1b) bekezdését a 69/2014. (III. 13.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^121]: A 25/A. § (3)–(4) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 38. § a) pontja hatályon kívül helyezte.

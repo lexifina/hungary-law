@@ -1,4 +1,4 @@
-3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^250]
+3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^253]
 
 ## KÉRELEM
 
@@ -94,7 +94,7 @@ aktív korúak ellátásának megállapítására
 
 ## * Ebben az oszlopban kell feltüntetni:
 
-a) ha a gyermekre tekintettel gyermekgondozási segélyt, gyermeknevelési támogatást, gyermekgondozási díjat vagy terhességi gyermekágyi segélyt folyósítanak,
+a) ha a gyermekre tekintettel gyermekgondozási segélyt, gyermeknevelési támogatást, gyermekgondozási díjat, terhességi-gyermekágyi segélyt vagy csecsemőgondozási díjat folyósítanak,
 
 b) ha a 20 évesnél fiatalabb gyermek nem jár oktatási intézménybe, de önálló keresettel még nem rendelkezik, vagy
 
@@ -268,7 +268,7 @@ kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
 5.2.8.2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni a jogdíjat, továbbá a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 
-5.2.8.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
+5.2.8.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
 
 5.2.8.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, özvegyi és szülői nyugdíj, árvaellátás, baleseti hozzátartozói nyugellátások, korhatár előtti ellátás, szolgálati járandóság, a balettművészeti életjáradék, az átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
 
@@ -328,4 +328,4 @@ d) az 5.3.3. pont d) és e) alpontjában meghatározott esetben: a korábban meg
 
 a törvényes képviselője jogosult az aláírásra.
 
-[^250]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított, a 69/2014. (III. 13.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^253]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított, a 69/2014. (III. 13.) Korm. rendelet 13. § a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § c) pontja szerint módosított szöveg.

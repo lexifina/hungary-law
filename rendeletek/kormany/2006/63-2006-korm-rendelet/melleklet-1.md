@@ -1,6 +1,6 @@
-## 64. §[^246] A szociális, valamint a gyermekvédelmi és gyermekjóléti tárgyú kormányrendeleteknek az új Polgári Törvénykönyvvel összefüggő és egyéb módosításáról szóló 69/2014. (III. 13.) Korm. rendelettel megállapított 25/A. § (1)–(1b) bekezdését azokban a kiemelt ápolási díjra való jogosultság megállapítására irányuló ügyekben is alkalmazni kell, amelyek 2014. március 15-én folyamatban vannak.
+## 65. §[^249] Az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 353/2014. (XII. 29.) Korm. rendelettel megállapított 39. § (4) bekezdésének rendelkezéseit a 2014. december 31-ét követően kezdeményezett felülvizsgálat során kell alkalmazni.
 
-1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^247]
+1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^250]
 
 ## Vagyonnyilatkozat
 
@@ -76,5 +76,5 @@ __________
 
 ** Becsült forgalmi értékként a jármű kora és állapota szerinti értékét kell feltüntetni.
 
-[^246]: A 64. §-t a 69/2014. (III. 13.) Korm. rendelet 11. §-a iktatta be.
-[^247]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^249]: A 65. §-t a 353/2014. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
+[^250]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

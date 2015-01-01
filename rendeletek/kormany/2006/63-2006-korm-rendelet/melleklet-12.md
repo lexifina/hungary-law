@@ -16,6 +16,6 @@
 
 ## Figyelem! A szakhatósági megkereséséhez zárt borítékban csatolni kell a háziorvosi igazolást.
 
-12. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^258]
+12. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^261]
 
-[^258]: A 12. számú mellékletet a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés a) pont ae) alpontja hatályon kívül helyezte, újonnan a 331/2011. (XII. 29.) Korm. rendelet 16. § a) pontja iktatta be, szövege a 392/2013. (XI. 12.) Korm. rendelet 14. § f) pontjával megállapított szöveg.
+[^261]: A 12. számú mellékletet a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés a) pont ae) alpontja hatályon kívül helyezte, újonnan a 331/2011. (XII. 29.) Korm. rendelet 16. § a) pontja iktatta be, szövege a 392/2013. (XI. 12.) Korm. rendelet 14. § f) pontjával megállapított szöveg.

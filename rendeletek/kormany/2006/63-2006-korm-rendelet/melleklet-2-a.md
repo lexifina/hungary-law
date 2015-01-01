@@ -112,7 +112,7 @@
 
 ## Kelt: …………………………………………………., ……………………………………….
 
-## 3K88140M_1
+## 4K26317M_1
 
 | kérelmező aláírása | kérelmező |
 
@@ -160,7 +160,7 @@
 
 ## 4.2.7.2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni a jogdíjat, továbbá a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 
-## 4.2.7.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
+## 4.2.7.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
 
 ## 4.2.7.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, özvegyi és szülői nyugdíj, árvaellátás, baleseti hozzátartozói nyugellátások, korhatár előtti ellátás, szolgálati járandóság, a balettművészeti életjáradék, az átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
 
@@ -170,7 +170,7 @@
 
 ## 4.2.8. A jövedelemről – a Magyar Államkincstár területileg illetékes Igazgatósága által a családtámogatási törvény szerint folyósított családtámogatási ellátás, vagy a fogyatékossági támogatás kivételével – a kérelemhez mellékelni kell a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-2/A. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^249]
+2/A. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^252]
 
 ## Adatlap
 
@@ -284,7 +284,7 @@ Felelősségem tudatában kijelentem, hogy
 
 Kelt: ,......................................................
 
-## 3K80596_1
+## 4K26317N_1
 
 | kérelmező aláírása | kérelmező |
 
@@ -334,7 +334,7 @@ kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
 4.2.8.2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni a jogdíjat, továbbá a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 
-4.2.8.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
+4.2.8.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
 
 4.2.8.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, özvegyi és szülői nyugdíj, árvaellátás, baleseti hozzátartozói nyugellátások, korhatár előtti ellátás, szolgálati járandóság, a balettművészeti életjáradék, az átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
 
@@ -344,4 +344,4 @@ kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
 4.2.9. A jövedelemről a kérelemhez mellékelni kell – a családtámogatási törvény szerint folyósított családtámogatási ellátás kivételével – a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-[^249]: A 2/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 392/2013. (XI. 12.) Korm. rendelet 14. § b) pontjával megállapított szöveg.
+[^252]: A 2/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 392/2013. (XI. 12.) Korm. rendelet 14. § b) pontjával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 125. § b) pontja szerint módosított szöveg.

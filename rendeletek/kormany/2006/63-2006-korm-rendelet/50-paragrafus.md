@@ -1,4 +1,4 @@
-## 49. §[^227] Az igazolványok előállításának feltételeiről, valamint a háziorvosok 10. számú melléklet szerinti nyomtatvánnyal történő ellátásáról a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve gondoskodik.
+## 49. §[^229] Az igazolványok előállításának feltételeiről, valamint a háziorvosok 10. számú melléklet szerinti nyomtatvánnyal történő ellátásáról a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve gondoskodik.
 
 ## Egészségügyi szolgáltatásra való jogosultság
 
@@ -6,7 +6,7 @@
 
 (2) A kérelem elbírálása során meg kell vizsgálni, hogy a kérelmező az egészségügyi szolgáltatás igénybevételére más jogcímen valóban nem jogosult.
 
-(3)[^228] Ha a kérelmező nem rendelkezik Társadalombiztosítási Azonosító Jellel, a bizonyítványban a „Társadalombiztosítási Azonosító Jellel nem rendelkezik” szöveget kell feltüntetni.
+(3)[^230] Ha a kérelmező nem rendelkezik Társadalombiztosítási Azonosító Jellel, a bizonyítványban a „Társadalombiztosítási Azonosító Jellel nem rendelkezik” szöveget kell feltüntetni.
 
-[^227]: A 49. § a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja szerint módosított szöveg.
-[^228]: Az 50. § (3) bekezdését a 392/2013. (XI. 12.) Korm. rendelet 12. §-a iktatta be.
+[^229]: A 49. § a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^230]: Az 50. § (3) bekezdését a 392/2013. (XI. 12.) Korm. rendelet 12. §-a iktatta be.

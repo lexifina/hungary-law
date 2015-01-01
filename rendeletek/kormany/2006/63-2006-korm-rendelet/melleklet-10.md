@@ -206,9 +206,7 @@
 
 ## 5.2.4.1. a házastárs, az élettárs;
 
-## 5.2.4.2. a 18. életévét be nem töltött gyermek vonatkozásában a vér szerinti és az örökbe fogadó szülő, illetve a szülő
-
-## házastársa vagy élettársa;
+## 5.2.4.2. a 18. életévét be nem töltött gyermek vonatkozásában a vér szerinti és az örökbe fogadó szülő, illetve a szülő házastársa vagy élettársa; valamint az 5.2.4.3. pontban meghatározott feltételeknek megfelelő testvér;
 
 ## 5.2.4.3. az a vér szerinti gyermek, örökbe fogadott gyermek, mostohagyermek vagy nevelt gyermek – a Polgári
 
@@ -274,7 +272,7 @@
 
 ## 5.2.8.2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni a jogdíjat, továbbá a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 
-## 5.2.8.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
+## 5.2.8.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
 
 ## 5.2.8.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi nyugdíj, özvegyi és szülői nyugdíj, árvaellátás és baleseti hozzátartozói nyugellátások; korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék, átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
 
@@ -284,7 +282,7 @@
 
 ## 5.2.9. A jövedelemről a kérelemhez mellékelni kell a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^256]
+10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^259]
 
 ## Háziorvosi igazolás
 
@@ -342,4 +340,4 @@ II. A társadalombiztosítás által támogatott, tartósan alkalmazott gyógyí
 
 III. Háziorvosra (intézményi orvosra) vonatkozó adatok, a háziorvos nyilatkozata
 
-[^256]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^259]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

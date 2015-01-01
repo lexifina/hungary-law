@@ -14,15 +14,15 @@ d) arról, hogy vállalja az adósságkezelési programba bevont adósság és a
 
 e) arról, hogy vállalja az adósságkezelési tanácsadáson való részvételt,
 
-f)[^229] arról, hogy amennyiben részére készüléket [22. § (1) bek.] biztosítanak, vállalja a készülék legalább egyéves időtartamban történő rendeltetésszerű használatát.
+f)[^231] arról, hogy amennyiben részére készüléket [22. § (1) bek.] biztosítanak, vállalja a készülék legalább egyéves időtartamban történő rendeltetésszerű használatát.
 
 (3) Az adósságkezelési szolgáltatás iránti kérelemhez csatolni kell
 
 a) a háztartás tagjainak jövedelméről tett nyilatkozatot,
 
-b)[^230] a hitelező által kiállított iratot az adósság jogcíméről és összegéről, vagy a közszolgáltatás kikapcsolásának tényéről,
+b)[^232] a hitelező által kiállított iratot az adósság jogcíméről és összegéről, vagy a közszolgáltatás kikapcsolásának tényéről,
 
 c) az adósságkezelési tanácsadó javaslatát a kérelmező adósságkezelési szolgáltatásba történő bevonására.
 
-[^229]: Az 51. § (2) bekezdésének f) pontja e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
-[^230]: Az 51. § (3) bekezdés b) pontja a 69/2014. (III. 13.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^231]: Az 51. § (2) bekezdésének f) pontja e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^232]: Az 51. § (3) bekezdés b) pontja a 69/2014. (III. 13.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
