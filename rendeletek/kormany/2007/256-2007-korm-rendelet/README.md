@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-256-20-
 | 2014-07-19 | 2007-256-20-22.21 | 168/2014. (VII. 18.) Korm. rendelet |
 | 2014-07-31 | 2007-256-20-22.22 | 168/2014. (VII. 18.) Korm. rendelet |
 | 2014-09-05 | 2007-256-20-22.23 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2015-01-01 | 2007-256-20-22.24 | 168/2014. (VII. 18.) Korm. rendelet |
