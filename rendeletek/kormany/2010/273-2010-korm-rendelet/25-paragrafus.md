@@ -1,4 +1,4 @@
-## 25. §[^64] A Szakértői Intézet országos illetékességgel:
+## 25. §[^70] A Szakértői Intézet országos illetékességgel:
 
 a) kötelező tarifális és származás felvilágosítást ad ki,
 
@@ -16,4 +16,4 @@ g) jogszabályban előírt esetekben szakértőként jár el,
 
 h) mobil laboratóriumi szolgálatot lát el.
 
-[^64]: A 25. § nyitó szövegrésze a 479/2013. (XII. 17.) Korm. rendelet 17. § 4. pontjával megállapított szöveg.
+[^70]: A 25. § nyitó szövegrésze a 479/2013. (XII. 17.) Korm. rendelet 17. § 4. pontjával megállapított szöveg.

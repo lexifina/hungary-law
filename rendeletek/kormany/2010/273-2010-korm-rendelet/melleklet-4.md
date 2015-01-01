@@ -6,6 +6,6 @@
 
 ## b) a Nemzeti Adó- és Vámhivatal Kiemelt Adózók Adóigazgatósága, valamint a Nemzeti Adó- és Vámhivatal Kiemelt Ügyek és Adózók Vám- és Pénzügyőri Igazgatósága hatáskörébe tartozó kiemelt adózók tekintetében Budapest és Pest megye közigazgatási területe.
 
-4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelethez[^232]
+4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelethez[^258]
 
-[^232]: A 4. számú melléklet a 269/2011. (XII. 20.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^258]: A 4. számú melléklet a 269/2011. (XII. 20.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.

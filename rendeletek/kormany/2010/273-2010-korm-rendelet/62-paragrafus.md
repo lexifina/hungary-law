@@ -1,6 +1,6 @@
-## 61. §[^179]
+## 61. §[^204]
 
-## A nyomozó szervek illetékességi szabályai[^180]
+## A nyomozó szervek illetékességi szabályai[^205]
 
 62. § (1) A Be. 36. § (2) bekezdésében meghatározott bűncselekmények nyomozására az a regionális bűnügyi igazgatóság illetékes, amelynek a területén a bűncselekményt elkövették.
 
@@ -10,10 +10,10 @@
 
 (4) Ha az elkövető több regionális bűnügyi igazgatóság illetékességi területén követett el bűncselekményt, az a regionális bűnügyi igazgatóság illetékes, amely az ügyben korábban intézkedett (megelőzésen alapuló illetékesség).
 
-(4a)[^181] A Bűnügyi Főigazgatóság főigazgatója a nyomozás lefolytatására azt a regionális bűnügyi igazgatóságot is kijelölheti, amelynek eljárása a területén végzendő nyomozási cselekmények többsége miatt vagy a hatékonyabb bűnüldözés érdekében indokolt.
+(4a)[^206] A Bűnügyi Főigazgatóság főigazgatója a nyomozás lefolytatására azt a regionális bűnügyi igazgatóságot is kijelölheti, amelynek eljárása a területén végzendő nyomozási cselekmények többsége miatt vagy a hatékonyabb bűnüldözés érdekében indokolt.
 
 (5) A regionális bűnügyi igazgatóságok közötti illetékességi összeütközés esetén a Bűnügyi Főigazgatóság dönt.
 
-[^179]: A 61. §-t a 269/2011. (XII. 20.) Korm. rendelet 19. § 15. pontja hatályon kívül helyezte.
-[^180]: A 62. §-t megelőző alcím a 366/2012. (XII. 17.) Korm. rendelet 30. § (22) bekezdése szerint módosított szöveg.
-[^181]: A 62. § (4a) bekezdését a 479/2013. (XII. 17.) Korm. rendelet 15. §-a iktatta be.
+[^204]: A 61. §-t a 269/2011. (XII. 20.) Korm. rendelet 19. § 15. pontja hatályon kívül helyezte.
+[^205]: A 62. §-t megelőző alcím a 366/2012. (XII. 17.) Korm. rendelet 30. § (22) bekezdése szerint módosított szöveg.
+[^206]: A 62. § (4a) bekezdését a 479/2013. (XII. 17.) Korm. rendelet 15. §-a iktatta be.

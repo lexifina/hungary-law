@@ -1,12 +1,12 @@
-28. § (1)[^77] A KAVIG jogszabályban meghatározott azon kiemelt adózók tekintetében, akiknek a székhelye Budapest, illetve Pest megye közigazgatási területén található, első fokon ellátja a vámhatóság hatáskörébe utalt feladatokat, kivéve
+28. § (1)[^84] A KAVIG jogszabályban meghatározott azon kiemelt adózók tekintetében, akiknek a székhelye Budapest, illetve Pest megye közigazgatási területén található, első fokon ellátja a vámhatóság hatáskörébe utalt feladatokat, kivéve
 
-a) a Vtv.-ben meghatározott vámigazgatási feladatokat, ide nem értve a Vtv. szerinti utólagos ellenőrzést, valamint az e rendelet alapján a hatáskörébe utalt vámigazgatási feladatokat,
+a)[^85] a Vtv.-ben meghatározott vámigazgatási feladatokat, ide nem értve a Vtv. 7/C. § (1) bekezdés c) pontja szerinti utólagos ellenőrzést, a Vtv. 7/U. § (1) bekezdése szerinti EMGA utólagos ellenőrzést, valamint az e rendelet alapján a hatáskörébe utalt vámigazgatási feladatokat,
 
 b) a NAV tv. 13. § (8) bekezdés e) pontja szerinti mélységi ellenőrzést,
 
 c) a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvényben a vámhatóság részére meghatározott feladatokat,
 
-d) a hatósági felügyeletet és a jövedéki ellenőrzést,
+d)[^86] a hatósági felügyeletet – ide nem értve az adó-visszaigénylési (adó-visszatérítési) kérelem elbírálása során végzett, Jöt. 49. § (5) bekezdése szerinti kiutalás előtti ellenőrzést – és a jövedéki ellenőrzést,
 
 e) a fémkereskedelmi ellenőrzést.
 
@@ -14,7 +14,9 @@ e) a fémkereskedelmi ellenőrzést.
 
 (3) Ha az adózó jogutódlással jött létre – ide nem értve a szétválást –, akkor is a KAVIG hatáskörébe tartozik, ha jogelődje megfelelt a KAVIG hatáskörét megalapozó jogszabályban meghatározott feltételeknek.
 
-(4)[^78]
+(4)[^87]
 
-[^77]: A 28. § (1) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^78]: A 28. § (4) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 31. § 12. pontja hatályon kívül helyezte.
+[^84]: A 28. § (1) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^85]: A 28. § (1) bekezdés a) pontja a 325/2014. (XII. 15.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^86]: A 28. § (1) bekezdés d) pontja a 325/2014. (XII. 15.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^87]: A 28. § (4) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 31. § 12. pontja hatályon kívül helyezte.

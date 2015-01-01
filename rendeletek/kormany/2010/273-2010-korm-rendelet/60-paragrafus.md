@@ -4,6 +4,6 @@
 
 (3) Az egységes engedélyek kiadására a kérelmező számviteli nyilvántartásának helye szerint illetékes megyei (fővárosi) vám- és pénzügyőri igazgatóság, illetve az 1. számú Repülőtéri Igazgatóság jogosult.
 
-(4)[^178] A TIR rendelet 4. §-a szerinti feladat ellátására a nemzetközi áruforgalom számára megnyitott határátkelőhelyeken, illetve az ország belterületén működő valamennyi megyei (fővárosi) vám- és pénzügyőri igazgatóság, illetve az 1. számú Repülőtéri Igazgatóság jogosult.
+(4)[^203] A TIR rendelet 4. §-a szerinti feladat ellátására a nemzetközi áruforgalom számára megnyitott határátkelőhelyeken, illetve az ország belterületén működő valamennyi megyei (fővárosi) vám- és pénzügyőri igazgatóság, illetve az 1. számú Repülőtéri Igazgatóság jogosult.
 
-[^178]: A 60. § (4) bekezdése a 479/2013. (XII. 17.) Korm. rendelet 17. § 14. pontja szerint módosított szöveg.
+[^203]: A 60. § (4) bekezdése a 479/2013. (XII. 17.) Korm. rendelet 17. § 14. pontja szerint módosított szöveg.

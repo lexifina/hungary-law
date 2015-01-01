@@ -1,5 +1,5 @@
 6. § (1) A regionális adó főigazgatóság felettes szerve az illetékességi területén működő megyei (fővárosi) adóigazgatóságoknak.
 
-(2)[^15]
+(2)[^16]
 
-[^15]: A 6. § (2) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 31. § 2. pontja hatályon kívül helyezte.
+[^16]: A 6. § (2) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 31. § 2. pontja hatályon kívül helyezte.
