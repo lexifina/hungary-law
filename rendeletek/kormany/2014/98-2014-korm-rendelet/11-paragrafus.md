@@ -6,11 +6,10 @@
 
 (10) Az NKr.
 
-a)[^13]
+a) 8. § (1) bekezdésében a „38/B. §-ában, 38/D. § (1) és (3) bekezdésében” szövegrész helyébe a „38/B. §-ában, 38/C. §-ában, 38/D. § (1) és (3) bekezdésében” szöveg,
 
-b)[^14]
+b)[^13]
 
 [^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^12]: A 11. § (1)–(9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 11. § (10) bekezdés a) pontja a 17. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^14]: A 11. § (10) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 11. § (10) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-98-20-2
 | 2014-03-29 | 2014-98-20-22.4 | 2010: CXXX. törvény |
 | 2014-04-25 | 2014-98-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-04-26 | 2014-98-20-22.6 | 2010: CXXX. törvény |
+| 2015-01-01 | 2014-98-20-22.7 | 222/2014. (IX. 4.) Korm. rendelet |
