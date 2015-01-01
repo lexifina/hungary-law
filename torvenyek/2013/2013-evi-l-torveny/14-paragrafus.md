@@ -4,7 +4,7 @@
 
 ## 7. Az elektronikus információs rendszerek biztonságának felügyelete
 
-14. § (1) Az e törvény hatálya alá tartozó elektronikus információs rendszerek biztonságának felügyeletét – a 2. § (3) és (4) bekezdésben meghatározott kivétellel – az informatikáért felelős miniszter látja el a hatóság útján, amely az informatikáért felelős miniszter által vezetett minisztérium szervezeti keretében önálló feladatkörrel és hatósági jogkörrel rendelkező szervezeti egység.
+14. § (1) Az e törvény hatálya alá tartozó elektronikus információs rendszerek biztonságának felügyeletét – a 2. § (3) és (4) bekezdésében meghatározott kivétellel – a Kormány által kijelölt hatóság látja el.
 
 (2) A hatóság feladata:
 
@@ -38,4 +38,4 @@ n) éves és egyedi jelentések készítése a Kormány részére az elektroniku
 
 (3) A hatóság (2) bekezdés a), b) és e) pontjában meghatározott feladatának ellátása során a Nemzeti Biztonsági Felügyelet szakhatóságként jár el.
 
-(4) A (2) bekezdés a) és b) pontjában foglalt feladatok ellátása körében a hatóság javaslatára az informatikáért felelős miniszter az e-közigazgatásért felelős miniszter egyetértésével, valamint a minősített adatok védelmének szakmai felügyeletéért felelős miniszter és a katasztrófák elleni védekezésért felelős miniszter javaslatainak figyelembevételével éves ellenőrzési tervet (a továbbiakban: éves ellenőrzési terv) készít.
+(4) A (2) bekezdés a) és b) pontjában foglalt feladatok ellátása körében a hatóság javaslatára az e-közigazgatásért felelős miniszter az informatikáért felelős miniszter egyetértésével, valamint a minősített adatok védelmének szakmai felügyeletéért felelős miniszter és a katasztrófák elleni védekezésért felelős miniszter javaslatainak figyelembevételével éves ellenőrzési tervet (a továbbiakban: éves ellenőrzési terv) készít.

@@ -18,13 +18,15 @@ e) a kormányzati eseménykezelő központ és az ágazati eseménykezelő közp
 
 f) a 21. § szerinti Tanács, Fórum és a kiberbiztonsági ágazati munkacsoportok létrehozásával, működtetésével kapcsolatos szabályokat, feladat- és hatáskörüket.
 
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a hatóságot.
+
 (2) Felhatalmazást kap
 
 a) az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel és a minősített adatok védelmének szakmai felügyeletéért felelős miniszterrel egyetértésben meghatározza az 5. § és 6. §-ban előírt technológiai biztonsági, valamint a biztonságos információs eszközökre, termékekre vonatkozó követelményeket, továbbá a 7–8. § szerinti biztonsági osztályba sorolás és a szervezetek 9–10. § szerinti biztonsági szintbe sorolásának követelményeit,
 
-b) a közigazgatás-fejlesztésért felelős miniszter, hogy az informatikáért felelős miniszterrel egyetértésben az e törvényben meghatározott vezetői, az elektronikus információs rendszer biztonságáért felelős személyek képzésének és továbbképzésének tartalmát,
+b) a közigazgatás-fejlesztésért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben az e törvényben meghatározott vezetői, az elektronikus információs rendszer biztonságáért felelős személyek képzésének és továbbképzésének tartalmát,
 
-c) az informatikáért felelős miniszter, hogy a szervezetek hatósági nyilvántartásba vételének, a biztonsági események jelentésének és közzétételének rendjét
+c) az e-közigazgatásért felelős miniszter, hogy a szervezetek hatósági nyilvántartásba vételének, a biztonsági események jelentésének és közzétételének rendjét
 
 rendeletben határozza meg.
 
