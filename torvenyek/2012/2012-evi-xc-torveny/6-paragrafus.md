@@ -4,7 +4,9 @@ a) az égéstermék-elvezető ellenőrzését, szükség szerinti tisztítását
 
 b) az égéstermék-elvezető műszaki felülvizsgálatát,
 
-c)–d)
+c) a tüzelőberendezés biztonságos működéséhez szükséges levegő utánpótlásának ellenőrzését, figyelembe véve a levegő utánpótlást befolyásoló műszaki berendezések, beavatkozások hatását is, valamint
+
+d) az égéstermék paramétereinek ellenőrzését,
 
 e) a vonatkozó műszaki követelményeknek megfelelő szén-monoxid érzékelő felszerelésére és működtetésére vonatkozó kötelezettség teljesítésének, valamint az érzékelő működőképességének ellenőrzését.
 

@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-90-00-00
 | 2014-01-01 | 2013. évi CLXXXVIII. törvény | 2012-90-00-00.7 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2012-90-00-00.8 |
 | 2014-11-05 | 2014. évi XLI. törvény | 2012-90-00-00.9 |
+| 2015-01-01 | 2013. évi XCIII. törvény | 2012-90-00-00.10 |
