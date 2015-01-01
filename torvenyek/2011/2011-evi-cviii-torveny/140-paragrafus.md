@@ -4,7 +4,7 @@ a) a Közbeszerzési Hatóság elnöke;
 
 b) az Állami Számvevőszék;
 
-c) a Kormány által kijelölt belső ellenőrzési szerv;
+c) a kormányzati ellenőrzési szerv;
 
 d) a helyi önkormányzatok törvényességi felügyeletéért felelős szerv;
 
@@ -18,7 +18,7 @@ h) a központosított közbeszerzés során ajánlatkérésre feljogosított sze
 
 i) a Gazdasági Versenyhivatal;
 
-j) a kormány által az európai uniós és egyéb nemzetközi támogatások ellenőrzésére kijelölt szerv;
+j) az európai támogatásokat auditáló szerv;
 
 k) az állami vagyon felügyeletéért felelős miniszter;
 
@@ -26,11 +26,15 @@ l) az ügyész;
 
 m) a közbeszerzésekért felelős miniszter.
 
-(2) A Közbeszerzési Döntőbizottság hivatalból való eljárását
+(2) A Közbeszerzési Döntőbizottság hivatalból való eljárását az (1) bekezdés szerinti személy vagy szervezet a jogsértés tudomásra jutásától számított hatvan napon belül, de
 
-a) az (1) bekezdés a), d)–i), k) és m) pontja szerinti szervezet a jogsértés tudomásra jutásától, közbeszerzési eljárás mellőzése esetén a szerződés megkötéséről, vagy – ha ez nem állapítható meg – teljesítésének bármelyik fél általi megkezdéséről történt tudomásszerzéstől számított harminc napon belül, de legkésőbb a jogsértés megtörténtétől számított egy éven belül, illetve – a közbeszerzési eljárás mellőzése estén – három éven belül,
+a) legkésőbb a jogsértés megtörténtétől számított három éven belül,
 
-b) az (1) bekezdés b), c), j) és l) pontja szerinti szervezet a jogsértés tudomásra jutásától számított harminc napon belül, de legfeljebb a jogsértés megtörténtétől számított három éven belül, közbeszerzési eljárás mellőzésével történő beszerzés esetén a szerződés megkötésének időpontjától, vagy ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történő megkezdésétől számított három éven belül kezdeményezheti.
+b) közbeszerzési eljárás mellőzésével történt beszerzés esetén az a) ponttól eltérően a szerződés megkötésének időpontjától, vagy ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történt megkezdésétől számított legfeljebb öt éven belül,
+
+c) a támogatásból megvalósuló beszerzés esetén az a) és b) ponttól eltérően az adott támogatás folyósítására és felhasználására vonatkozó külön jogszabályban előírt iratmegőrzési kötelezettség időtartamán belül, de legalább a jogsértés megtörténtétől – közbeszerzési eljárás mellőzésével történt beszerzés esetén a szerződés megkötésének időpontjától, vagy ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történt megkezdésétől – számított öt éven belül
+
+kezdeményezheti.
 
 (3) A Közbeszerzési Döntőbizottság hivatalból való eljárását kezdeményező iratban meg kell jelölni a 138. § (1) bekezdésének a)–d) és g) pontjában szereplő adatokat és javaslatot lehet tenni az e) és f) pontjában foglaltakra. A kezdeményező irathoz csatolni kell a jogsértéssel érintett beszerzéssel (közbeszerzéssel) kapcsolatban rendelkezésre álló iratok másolatát.
 

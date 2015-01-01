@@ -10,7 +10,7 @@ a) a szerződésnek védett munkahely vagy szociális foglalkoztatási engedéll
 
 b) álláskeresők, valamint munkanélküliek vagy fogvatartottak foglalkoztatása;
 
-c) gyermekgondozási segélyben, valamint gyermeknevelési támogatásban részesülő személynek az ellátás folyósítása alatt, illetve az ellátás megszűnését követően, terhességi-gyermekágyi segélyben és gyermekgondozási díjban részesülő személynek az ellátás megszűnését követően részmunkaidőben történő foglalkoztatása;
+c) gyermekgondozási segélyben, valamint gyermeknevelési támogatásban részesülő személynek az ellátás folyósítása alatt, illetve az ellátás megszűnését követően, csecsemőgondozási díjban és gyermekgondozási díjban részesülő személynek az ellátás megszűnését követően részmunkaidőben történő foglalkoztatása;
 
 d) az egyenlő bánásmód követelményének biztosítása érdekében teendő intézkedések előírása.
 

@@ -30,4 +30,6 @@ m) kulturális javak körébe tartozó tárgyak vételére és a rájuk vonatkoz
 
 n) az Országgyűlésről szóló 2012. évi XXXVI. törvény 113. §-ában és 114. § (3) bekezdésében meghatározott keret terhére történő beszerzések vonatkozásában;
 
-o) olyan szolgáltatás megrendelése esetében, amely a pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványokról szóló 2003. évi XLVII. törvény 1. §-a alapján létrehozott alapítvány alapító okiratában meghatározott tudományos, ismeretterjesztő, kutatási vagy oktatási tevékenység végzésére irányul, vagy azt közvetlenül segíti.
+o) olyan szolgáltatás megrendelése esetében, amely a pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványokról szóló 2003. évi XLVII. törvény 1. §-a alapján létrehozott alapítvány alapító okiratában meghatározott tudományos, ismeretterjesztő, kutatási vagy oktatási tevékenység végzésére irányul, vagy azt közvetlenül segíti;
+
+p) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap és a Duna Médiaszolgáltató Zártkörűen Működő Nonprofit Részvénytársaság által a médiatartalmak elkészítéséhez szükséges technikai eszközök és szolgáltatások beszerzésére.
