@@ -34,7 +34,7 @@ cc) székhelye az Európai Unió tagállamában, az Európai Gazdasági Térség
 
 6. korlátozottan forgalomképes vagyon: az 1. § (2) bekezdés a) pontja hatálya alá és nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonba nem tartozó azon nemzeti vagyon, amelyről törvényben, illetve – a helyi önkormányzat tulajdonában álló vagyon esetében – törvényben vagy a helyi önkormányzat rendeletében meghatározott feltételek szerint lehet rendelkezni;
 
-7. közfeladat: jogszabályban meghatározott állami vagy önkormányzati feladat, amit az arra kötelezett közérdekből, jogszabályban meghatározott követelményeknek és feltételeknek megfelelve végez, ideértve a lakosság közszolgáltatásokkal való ellátását, továbbá az állam nemzetközi szerződésekben vállalt kötelezettségeiből adódó közérdekű feladatokat, valamint e feladatok ellátásához szükséges infrastruktúra biztosítását is;
+7.
 
 8. közvetett tulajdon, illetve közvetett befolyás: a tőkepiacról szóló törvényben meghatározott fogalom;
 
