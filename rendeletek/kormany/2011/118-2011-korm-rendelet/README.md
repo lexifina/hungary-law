@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-118-20-
 | 2013-07-06 | 2011-118-20-22.6 | 218/2013. (VI. 21.) Korm. rendelet |
 | 2014-03-15 | 2011-118-20-22.7 | 53/2014. (III. 3.) Korm. rendelet |
 | 2014-05-01 | 2011-118-20-22.8 | 139/2014. (IV. 30.) Korm. rendelet |
+| 2015-01-01 | 2011-118-20-22.9 | 357/2014. (XII. 29.) Korm. rendelet |

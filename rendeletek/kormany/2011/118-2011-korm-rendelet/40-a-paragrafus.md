@@ -1,4 +1,4 @@
-40/A. §[^43] (1) A 2012. március 31-én vagy korábban, a rendelet 40. § (1) és (5) bekezdése alapján indult eljárásokat meg kell szüntetni.
+40/A. §[^67] (1) A 2012. március 31-én vagy korábban, a rendelet 40. § (1) és (5) bekezdése alapján indult eljárásokat meg kell szüntetni.
 
 (2) Az atomenergiával kapcsolatos egyes kormányrendeletek módosításáról szóló 37/2012. (III. 9.) Korm. rendelet hatálybalépésekor üzemelő nukleáris létesítmény engedélyese az e rendelet hatálybalépését követő 3. hónap első napján jelentést nyújt be a nukleáris biztonsági hatóságnak.
 
@@ -14,7 +14,7 @@ c) 2011. augusztus 9-én hatályos szabályozás szerint nem estek hatósági en
 
 (5) Az engedélyes jelentésében értékeli a követelményektől való eltérés biztonsági kockázatát, javaslatot terjeszt elő a részben vagy egészben nem teljesülő követelmények – ideértve a biztonsági osztályba sorolásra vonatkozó, e rendelettel megállapított rendelkezéseket is – teljesítésének időpontjára, és az egyes teljesítéshez szükséges intézkedések megvalósítására javasolt időpontokig felmentési kérelmet nyújt be a nukleáris biztonsági hatósághoz. A teljesítés javasolt időpontja nem lehet későbbi, mint a jelentés tárgyát képező nukleáris létesítmény (atomerőmű esetében a blokk) soron következő Időszakos Biztonsági Felülvizsgálatának időpontja.
 
-(6)[^44] A nukleáris biztonsági hatóság a 21/B. § (1) bekezdés b) pontja szerinti ügyintézési határidő megtartásával a következő szempontok figyelembevételével határozatban dönt a felmentésről és annak engedélyezett időtartamáról:
+(6)[^68] A nukleáris biztonsági hatóság a 21/B. § (1) bekezdés b) pontja szerinti ügyintézési határidő megtartásával a következő szempontok figyelembevételével határozatban dönt a felmentésről és annak engedélyezett időtartamáról:
 
 a) a követelménytől való eltérés által okozott kockázatnövekedés mértéke alapján;
 
@@ -26,5 +26,5 @@ c) annak figyelembevételével, hogy egy telephelyen belül ne különbözzenek 
 
 (8) A rendelet az atomenergiával kapcsolatos egyes kormányrendeletek módosításáról szóló 37/2012. (III. 9.) Korm. rendelet 10. § (2) bekezdésével és 2. mellékletével megállapított 3. melléklet 3.1.1.0200. pont c) alpontjában felsorolt rendelkezéseket az üzemelő atomerőművi blokk rendszereinek, rendszerelemeinek azon átalakítására kell első ízben alkalmazni, melyek esetében az 1. melléklet 1.4.1.0300. pontja szerinti Átalakítás formalap benyújtására az e rendelet hatálybalépését követő negyedik hónap első napját követően kerül sor.
 
-[^43]: A 40/A. §-t a 37/2012. (III. 9.) Korm. rendelet 9. §-a iktatta be.
-[^44]: A 40/A. § (6) bekezdés nyitó szövegrésze a 139/2014. (IV. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^67]: A 40/A. §-t a 37/2012. (III. 9.) Korm. rendelet 9. §-a iktatta be.
+[^68]: A 40/A. § (6) bekezdés nyitó szövegrésze a 139/2014. (IV. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.

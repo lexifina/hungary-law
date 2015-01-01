@@ -1,4 +1,4 @@
-21/B. §[^25] (1) A nukleáris biztonsági hatóság ügyintézési határideje
+21/B. §[^37] (1) A nukleáris biztonsági hatóság ügyintézési határideje
 
 a) hatvan nap
 
@@ -26,4 +26,4 @@ a) az (1) bekezdés a) pontjában meghatározott ügyekben legfeljebb harminc na
 
 b) az (1) bekezdés b) pontjában meghatározott ügyekben legfeljebb kilencven nappal
 
-[^25]: A 21/B. §-t a 139/2014. (IV. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^37]: A 21/B. §-t a 139/2014. (IV. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.

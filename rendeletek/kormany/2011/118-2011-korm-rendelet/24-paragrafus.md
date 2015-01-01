@@ -10,6 +10,9 @@ b) jelentősebb biztonsági jelentőséggel bíró jogszabálysértés vagy hat�
 
 c) lényeges biztonsági jelentőséggel bíró jogszabálysértés vagy hatósági előírás megszegése esetén az engedélyezett tevékenység korlátozása, leállítása, az engedély visszavonása; vagy
 
-d) bírság kiszabása az Atv. 15. § (2)–(3) bekezdése és a nukleáris biztonsági hatóság által kiszabható bírság mértékét megállapító jogszabály szerint.
+d)[^42]
 
-(3) A nukleáris biztonsági hatóság minden esetben megköveteli az engedélyestől az azonosított eltérések átfogó kivizsgálását, a szükséges intézkedések megtételét az eltérés kezelésére, és ismételt bekövetkezésének megakadályozására.
+(3)[^43] A nukleáris biztonsági hatóság minden esetben kötelezi az engedélyest az azonosított eltérések kezelésére és a szükséges intézkedések megtételére, a feltárt eltérések felszámolására, hogy események bekövetkezését megelőzzék vagy az ismételt bekövetkezését megakadályozzák.
+
+[^42]: A 24. § (2) bekezdés d) pontját a 357/2014. (XII. 29.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^43]: A 24. § (3) bekezdése a 357/2014. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.

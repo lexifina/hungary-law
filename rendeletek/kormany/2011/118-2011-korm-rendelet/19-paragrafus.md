@@ -1,4 +1,4 @@
-19. § (1)[^22] A telephely vizsgálati és értékelési engedély iránti kérelmet és az engedélyes személyének megváltoztatására irányuló szándék bejelentését a leendő engedélyes, minden más engedély iránti kérelmet az engedélyes nyújtja be a nukleáris biztonsági hatósághoz. A kérelem és az azt megalapozó dokumentáció ügyfélkapun keresztül is benyújtható.
+19. § (1)[^34] A telephely vizsgálati és értékelési engedély iránti kérelmet és az engedélyes személyének megváltoztatására irányuló szándék bejelentését a leendő engedélyes, minden más engedély iránti kérelmet az engedélyes nyújtja be a nukleáris biztonsági hatósághoz. A kérelem és az azt megalapozó dokumentáció ügyfélkapun keresztül is benyújtható.
 
 (2) A kérelmet megalapozó dokumentáció tartalmára vonatkozó követelményeket az 1–8. mellékletek tartalmazzák, az erre vonatkozó további ajánlásokat a nukleáris biztonsági hatóság által kiadott útmutatók foglalják magukban. A kérelmet megalapozó dokumentációt olyan részletességgel és mélységben kell elkészíteni, hogy annak alapján a nukleáris biztonsági hatóság a követelmények és előírások teljesülésének, továbbá a teljesüléshez szükséges műszaki és adminisztratív tevékenységek megfelelőségének független felülvizsgálatát és értékelését el tudja végezni.
 
@@ -12,4 +12,4 @@
 
 (7) Az engedélyt megalapozó, a nukleáris biztonsági hatóságnál tárolt dokumentációban foglaltaktól eltérni, amennyiben az eltérés engedélyezési kötelezettség alá tartozik, csak a nukleáris biztonsági hatóság engedélye alapján lehet.
 
-[^22]: A 19. § (1) bekezdése a 218/2013. (VI. 21.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^34]: A 19. § (1) bekezdése a 218/2013. (VI. 21.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.

@@ -14,8 +14,8 @@ a) a nukleáris biztonságért viselt felelőssége új engedélyesre száll át
 
 b) az adott nukleáris létesítményre nézve jogerős és végrehajtható határozat mondja ki a nukleáris biztonsági hatóság hatáskörének megszűnését.
 
-(4)[^30] Az engedélyes – az 1. és a 4–6. mellékletben foglaltaknak megfelelően – független műszaki szakértői értékelések rendszerével biztosítja, hogy a nukleáris létesítményben végzett átalakítások megfelelnek a nukleáris és a műszaki biztonsági szabályoknak, és teljesülnek a nukleáris biztonsági követelmények.
+(4)[^47] Az engedélyes – az 1. és a 4–6. mellékletben foglaltaknak megfelelően – független műszaki szakértői értékelések rendszerével biztosítja, hogy a nukleáris létesítményben végzett átalakítások megfelelnek a nukleáris és a műszaki biztonsági szabályoknak, és teljesülnek a nukleáris biztonsági követelmények.
 
 (5) A (3) bekezdés szerinti előírásokat kell érvényesíteni a nukleáris létesítmény végleges leállítását követően is, amikor a jogszabályban foglaltaknak megfelelően a nukleáris létesítmény megszüntetésével kapcsolatos tevékenységek végzésének engedélyesévé a radioaktív hulladékok és a kiégett üzemanyag elhelyezésére a Kormány által kijelölt szerv válik.
 
-[^30]: A 27. § (4) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 12. pontja szerint módosított szöveg.
+[^47]: A 27. § (4) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 12. pontja szerint módosított szöveg.

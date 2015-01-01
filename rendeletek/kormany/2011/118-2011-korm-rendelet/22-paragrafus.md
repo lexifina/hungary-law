@@ -1,12 +1,12 @@
-## 21/D. §[^27] Az atomenergia-felügyeleti szerv a közmeghallgatás helyéről és időpontjáról a közmeghallgatást megelőzően legalább tizenöt nappal értesíti az Atv. 11/A. § (5) bekezdésében meghatározott személyeket és szerveket.
+## 21/D. §[^39] Az atomenergia-felügyeleti szerv a közmeghallgatás helyéről és időpontjáról a közmeghallgatást megelőzően legalább tizenöt nappal értesíti az Atv. 11/A. § (5) bekezdésében meghatározott személyeket és szerveket.
 
 ## 12. Ellenőrzés és érvényesítés
 
-22. § (1)[^28] A nukleáris biztonsági hatóság a nukleáris biztonság fennmaradása érdekében a nukleáris létesítmények életciklusának valamennyi szakaszában az 1. mellékletben meghatározott módon rendszeresen és tervszerűen legalább az alábbiakat ellenőrzi:
+22. § (1)[^40] A nukleáris biztonsági hatóság a nukleáris biztonság fennmaradása érdekében a nukleáris létesítmények életciklusának valamennyi szakaszában az 1. mellékletben meghatározott módon rendszeresen és tervszerűen legalább az alábbiakat ellenőrzi:
 
 a) a nukleáris létesítmények, azok rendszerei, rendszerelemei, építményei megfelelnek az engedélyekben, jogszabályokban előírt követelményeknek;
 
-b)[^29] a nukleáris létesítmény tervezése, telephelyének vizsgálata és értékelése, létesítése, üzembe helyezése, üzemeltetése, átalakítása és megszüntetése megfelel a nukleáris biztonsági követelményeknek, a hatósági engedélyek alapjául szolgáló feltételeknek és körülményeknek, valamint az engedélyekben előírtaknak; továbbá
+b)[^41] a nukleáris létesítmény tervezése, telephelyének vizsgálata és értékelése, létesítése, üzembe helyezése, üzemeltetése, átalakítása és megszüntetése megfelel a nukleáris biztonsági követelményeknek, a hatósági engedélyek alapjául szolgáló feltételeknek és körülményeknek, valamint az engedélyekben előírtaknak; továbbá
 
 c) az engedélyes irányítási rendszere megfelel az e rendeletben előírt követelményeknek legalább a következők tekintetében:
 
@@ -50,6 +50,6 @@ b) a technológiai folyamatba beépített ellenőrző rendszerekből.
 
 (9) A nukleáris biztonsági hatóság éves ellenőrzési tervet készít. A tervben szereplő ellenőrzések tervezett idejéről és tartalmáról a nukleáris biztonsági hatóság az ellenőrzéssel érintetteket tájékoztatja.
 
-[^27]: A 21/D. §-t a 139/2014. (IV. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^28]: A 22. § (1) bekezdése a 37/2012. (III. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^29]: A 22. § (1) bekezdés b) pontja a 218/2013. (VI. 21.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^39]: A 21/D. §-t a 139/2014. (IV. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^40]: A 22. § (1) bekezdése a 37/2012. (III. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^41]: A 22. § (1) bekezdés b) pontja a 218/2013. (VI. 21.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
