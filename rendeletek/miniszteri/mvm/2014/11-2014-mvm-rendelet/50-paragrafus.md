@@ -1,3 +1,5 @@
-## 49. § Hatályát veszti a 35/2012. (VI. 8.) NFM rendelet 9. alcíme.
+## 43–49. §[^8]
 
 ## 6. A Környezet és Energia Operatív Program prioritásaira rendelt források felhasználásának részletes szabályairól és egyes támogatási jogcímeiről szóló 36/2012. (VI. 8.) NFM rendelet módosítása
+
+[^8]: A 43–49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
