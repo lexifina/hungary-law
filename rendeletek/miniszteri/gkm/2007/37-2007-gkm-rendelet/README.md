@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-37-20-0
 | 2008-09-23 | 2007-37-20-0L.4 | 37/2007. (III. 26.) GKM rendelet |
 | 2010-05-14 | 2007-37-20-0L.5 | 42/2010. (V. 13.) KHEM rendelet |
 | 2013-07-01 | 2007-37-20-0L.6 | 25/2013. (V. 31.) NFM rendelet |
+| 2015-01-01 | 2007-37-20-0L.7 | 57/2014. (XII. 30.) NFM rendelet |
