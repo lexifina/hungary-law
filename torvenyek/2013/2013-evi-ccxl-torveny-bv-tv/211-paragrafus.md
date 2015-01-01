@@ -1,0 +1,1 @@
+211. § A külföldi elítélt és az illetékes külképviselet tagja a konzuli kapcsolatokról szóló nemzetközi egyezmény, valamint az érintett államok által kötött szerződésekben foglaltak szerint, az e törvényben foglaltak figyelembevételével tartanak kapcsolatot. A kapcsolat felvétele csak a külföldi elítélt beleegyezésével történhet.

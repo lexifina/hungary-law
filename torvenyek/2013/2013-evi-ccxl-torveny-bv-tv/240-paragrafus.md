@@ -1,0 +1,1 @@
+240. § Az iskolai tanulmányokat folytató vagy szakképzésben részt vevő elítélt munkaidő-beosztását úgy kell meghatározni, hogy – figyelemmel az oktatásban résztvevők munkaidő-kedvezményének szabályaira is – az iskolai oktatásban, képzésben részt tudjon venni.

@@ -1,0 +1,1 @@
+162. § Az elítélt a 160. §-ban foglaltaktól eltérő egészségügyi intézmény térítésköteles szolgáltatását csak akkor veheti igénybe, ha azt a bv. intézet parancsnoka engedélyezi, az elítélt a várható költségeket – ideértve a szállítás költségeit is – megelőlegezi, és az egészségügyi intézmény a szolgáltatást vállalja.

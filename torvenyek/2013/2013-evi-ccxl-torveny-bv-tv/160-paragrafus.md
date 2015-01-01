@@ -1,0 +1,1 @@
+160. § A büntetések és intézkedések végrehajtása során az elítélt egészségi állapotának megfelelő gyógyító-megelőző ellátását elsősorban a fogva tartó bv. intézet, illetve a Központi Kórház, annak a Szegedi Fegyház és Börtönben működő Krónikus Utókezelő Részlege, valamint az IMEI biztosítja, és az elítélt ezt az ellátást köteles igénybe venni.

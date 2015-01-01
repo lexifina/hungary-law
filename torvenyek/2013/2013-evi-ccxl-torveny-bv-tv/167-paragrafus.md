@@ -1,0 +1,1 @@
+167. § A látogató bv. intézeten kívüli fogadása, a jutalom kimaradás és a jutalom eltávozás időtartama a szabadságvesztésbe beszámít. A jutalom kimaradásra és a jutalom eltávozásra egyebekben a kimaradás és az eltávozás szabályait kell alkalmazni.

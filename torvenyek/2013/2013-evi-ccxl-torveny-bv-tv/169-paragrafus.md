@@ -1,0 +1,25 @@
+169. § (1) A magánelzárás fegyházban huszonöt, börtönben húsz, fogházban tíz napig terjedhet, amelynek időtartama alatt engedélyezhető, hogy az elítélt dolgozzon vagy iskolába járjon. A magánelzárás, ha az elítélt dolgozik, fegyházban húsz, börtönben tizenöt és fogházban öt napig terjedhet.
+
+(2) Magánelzárás várandós és kisgyermekes nővel szemben nem alkalmazható.
+
+(3) A magánelzárás végrehajtása alatt az elítélt
+
+a) kimaradásra és eltávozásra nem mehet,
+
+b) a védőjével való kapcsolattartást kivéve nem telefonálhat és nem levelezhet,
+
+c) nem küldhet, és nem kaphat csomagot,
+
+d) nem fogadhat látogatót, kivéve a lelkészt, valamint a szabadulás előkészítése érdekében a leendő munkáltatóját, a pártfogó felügyelőt és a karitatív szervezet megbízottját,
+
+e) a személyes szükségleteire nem vásárolhat,
+
+f) nem veheti igénybe a bv. intézet művelődési és sportolási lehetőségeit, sajtóterméket nem olvashat,
+
+g) a munkáltatásban nem vehet részt.
+
+(4) Az elítélt a magánelzárás végrehajtása alatt is érintkezhet a védővel, a bv. intézet parancsnokának engedélyével, felügyelettel meglátogathatja a súlyos beteg közeli hozzátartozóját, részt vehet a közeli hozzátartozója temetésén.
+
+(5) A magánelzárás végrehajtása folytán elmaradt látogatás, csomagküldemény és az elítélt személyes szükségleteire szolgáló vásárlás a magánelzárás végrehajtása után engedélyezhető.
+
+(6) Ha az orvos vagy a pszichológus az elítélt egészségi állapota miatt a magánelzárás végrehajtásának megkezdését, vagy folytatását nem javasolja, a magánelzárás végrehajtását félbe kell szakítani.

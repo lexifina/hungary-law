@@ -1,0 +1,1 @@
+208. § A külföldi elítélt kérelmére szabadságvesztése alatt biztosítani kell a bv. intézet lehetőségeihez mérten a magyar nyelv oktatását, illetve olyan programokat kell biztosítani számára, amelyek megismertetik azokkal a nemzeti, történelmi és erkölcsi értékekkel, amelyek köré a magyar társadalom szerveződik.

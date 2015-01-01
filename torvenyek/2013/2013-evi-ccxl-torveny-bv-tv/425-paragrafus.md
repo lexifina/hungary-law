@@ -1,0 +1,1 @@
+425. § Az ideiglenes kényszergyógykezelés indokoltságának időszakos felülvizsgálata esetén a kórrajzkivonatot a felülvizsgálat indítványozására köteles ügyésznek kell megküldeni az ideiglenes kényszergyógykezelés határidejének lejártát megelőző legalább tizenöt nappal.

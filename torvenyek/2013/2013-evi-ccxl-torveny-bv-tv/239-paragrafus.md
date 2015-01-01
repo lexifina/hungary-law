@@ -1,0 +1,1 @@
+239. § A munkáltató a munkáltatási szabályzatban a napi munkaidőt legfeljebb két részletben is beoszthatja (a továbbiakban: osztott napi munkaidő). A beosztás szerinti napi munkaidők között legalább két óra pihenőidőt kell biztosítani.

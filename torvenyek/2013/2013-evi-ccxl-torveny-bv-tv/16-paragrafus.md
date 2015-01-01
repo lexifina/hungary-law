@@ -1,0 +1,1 @@
+16. § A büntetés, az intézkedés és a szabálysértési elzárás végrehajtását a Be.-ben és az e törvényben meghatározott feltételek szerint, kérelemre vagy hivatalból a bíróság, az igazságügyért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, valamint a gyermekek és az ifjúság védelméért felelős miniszter felfüggesztheti, elhalaszthatja vagy félbeszakíthatja.

@@ -1,0 +1,1 @@
+161. § Ha az elítélt megfelelő egészségügyi ellátása a büntetés-végrehajtási szervezet keretein belül nem lehetséges, a bv. orvos vagy a bv. egészségügyi szerv gondoskodik arról, hogy az elítélt egészségügyi intézményben részesüljön a megfelelő és kötelező ellátásban.

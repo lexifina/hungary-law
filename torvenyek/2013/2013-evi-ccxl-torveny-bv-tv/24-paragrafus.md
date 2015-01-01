@@ -1,0 +1,13 @@
+## Bírósági felülvizsgálat
+
+24. § (1) A végrehajtásért felelős szerv határozata ellen, ha e törvény így rendelkezik, a büntetés-végrehajtási bíróhoz címzett bírósági felülvizsgálati kérelemnek van helye. Felülvizsgálati kérelem benyújtására – ha e törvény eltérően nem rendelkezik – az elítélt, az egyéb jogcímen fogvatartott, a védő, a fiatalkorú törvényes képviselője, valamint a kényszergyógykezelt törvényes képviselője, házastársa és élettársa jogosult. A jogosultságot, ha ez az iratokból nem állapítható meg, hitelt érdemlően igazolni kell.
+
+(2) A bírósági felülvizsgálati kérelmet – e törvény eltérő rendelkezése hiányában – a határozat közlésétől számított nyolc napon belül lehet a határozatot hozó végrehajtásért felelős szervhez, illetve szervezeti egységhez írásban benyújtani. Ha e törvény úgy rendelkezik, hogy az elítéltnek vagy az egyéb jogcímen fogvatartottnak a határozat közlésekor nyomban nyilatkoznia kell a jogorvoslatról, akkor azt jegyzőkönyvbe kell foglalni.
+
+(3) Ha a jogosult a bírósági felülvizsgálati kérelem megtételében akadályoztatva volt, a bírósági felülvizsgálati kérelmet az akadály megszűnésétől számított tizenöt napon belül lehet igazolási kérelemmel együtt előterjeszteni. Az igazolási kérelemben elő kell adni a mulasztás okát és azokat a körülményeket, amelyek a mulasztás vétlenségét valószínűsítik. A határozat meghozatalától számított három hónapon túl igazolási kérelem nem terjeszthető elő.
+
+(4) A bírósági felülvizsgálati kérelem benyújtásra nyitva álló határidő lejártát követően a végrehajtásért felelős szerv, illetve szervezeti egység vezetője haladéktalanul felterjeszti az iratokat a bírósághoz.
+
+(5) A bírósági felülvizsgálati kérelmet a határozatot hozó végrehajtásért felelős szerv, illetve szervezeti egység székhelye szerint illetékes büntetés-végrehajtási bíró bírálja el.
+
+(6) A bírósági felülvizsgálati kérelemben új tények és bizonyítékok is felhozhatók. A büntetés-végrehajtási bíró bírósági felülvizsgálati eljárásban hozott határozata ellen fellebbezésnek nincs helye.

@@ -1,0 +1,63 @@
+## Az előzetes letartóztatás végrehajtásának rendje
+
+392. § (1) Az előzetesen letartóztatottakat a zárkában egyedül vagy közösen lehet elhelyezni. Az együttes elhelyezésnél figyelembe kell venni a rendelkezési jogkör gyakorlójának rendelkezését, az előzetesen letartóztatott előéletét és a bűncselekményt, amely miatt ellene büntetőeljárás van folyamatban.
+
+(2) Az előzetesen letartóztatott
+
+a) életrendje a rendelkezési jogkör gyakorlója rendelkezéseinek figyelembevételével meghatározott, őrzés, felügyelet és ellenőrzés alatt áll,
+
+b) külső munkáltatásban nem vehet részt,
+
+c) a bv. intézet kijelölt részén csak munkáltatás céljából járhat szabadon,
+
+d) zárkáját zárva kell tartani, kivéve a munkáltatásban részt vevő esetén, a rá vonatkozó eltérő szabályok szerint,
+
+e) magánál tartható tárgyainak köre és mennyisége korlátozható.
+
+(3) Az előzetes letartóztatást az általános szabályok szerint kell végrehajtani, de a parancsnok a rendelkezési jogkör gyakorlójának egyetértésével az enyhébb vagy szigorúbb szabályok alkalmazását is elrendelheti.
+
+(4) Ha a BFB az előzetesen letartóztatottat kérelmére oktatásban, képzésben, illetve speciális programban való részvételre osztotta be, az elhelyezés kivételesen zárt körleten lévő lakóhelyiségben is biztosítható. A rendelkezési jogkör gyakorlója rendelkezését ebben az esetben is be kell tartani.
+
+(5) Az általános rezsimszabályok alkalmazása során az előzetesen letartóztatott
+
+a) őrzését és felügyeletét fokozott gondossággal kell megvalósítani,
+
+b) a fogva tartó intézet területén csak engedéllyel és felügyelet mellett mozoghat, zárkáját zárva kell tartani,
+
+c) látogatóját az erre kijelölt helyiségben alkalmanként hatvan perc időtartamban fogadhatja,
+
+d) az előzetesen letartóztatottak csoportos programjain kivételesen vehet részt,
+
+e) magánál tartható tárgyainak köre és mennyisége korlátozható,
+
+f) saját ruháját viselheti.
+
+(6) Az enyhébb rezsimszabályok alkalmazása során az előzetesen letartóztatott
+
+a) fogvatartását őrzéssel és felügyelettel kell biztosítani,
+
+b) engedélyezhető, hogy a fogva tartó intézet kijelölt területén felügyelet nélkül mozogjon, ez esetben zárkáját nappal nyitva lehet tartani,
+
+c) részére engedélyezhető, hogy látogatóját az erre kijelölt helyiségben alkalmanként legalább hatvan perc, de legfeljebb kilencven perc időtartamban fogadja,
+
+d) részére – a rendelkezési jogkör gyakorlójának rendelkezéseit figyelembe véve – engedélyezhető, hogy részt vegyen az előzetesen letartóztatottak csoportos szabadidős, sport- és kulturális programjain,
+
+e) magánál tartható tárgyainak köre és mennyisége a fogva tartó intézet rendjének megtartásával és biztonságának megőrzésével bővíthető,
+
+f) saját ruháját viselheti.
+
+(7) A szigorúbb rezsimszabályok alkalmazása során az előzetes letartóztatott
+
+a) fogvatartását a fokozott őrzés szabályira is figyelemmel, őrzéssel kell biztosítani,
+
+b) a fogva tartó intézet területén csak engedéllyel és felügyelet mellett mozoghat, zárkáját zárva kell tartani,
+
+c) látogatójával biztonsági beszélőfülkében vagy biztonságtechnikai eszközökön keresztül harminc perc időtartamban érintkezhet,
+
+d) részére – a rendelkezési jogkör gyakorlójának rendelkezéseit figyelembe véve – kivételesen engedélyezhető, hogy részt vegyen az előzetesen letartóztatottak csoportos szabadidős, sport- és kulturális programjain,
+
+e) magánál tartható tárgyainak köre és mennyisége a fogva tartó intézet rendjének megtartásával és biztonságának megőrzésével korlátozható,
+
+f) saját ruházata viselésének joga a fogva tartó intézet területén biztonsági szempontból korlátozható.
+
+(8) A fogva tartó intézet az előzetes letartóztatás lejártának idejét nyilvántartja.

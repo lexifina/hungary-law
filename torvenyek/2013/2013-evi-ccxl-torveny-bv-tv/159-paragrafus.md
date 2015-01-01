@@ -1,0 +1,1 @@
+159. § Az elítélt a beavatkozás elvégzéséhez való beleegyezését bármikor visszavonhatja. A beleegyezés alapos ok nélküli visszavonása esetén azonban kötelezhető az ennek következtében felmerült és indokolt költségek megtérítésére.

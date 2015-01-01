@@ -1,0 +1,1 @@
+400. § Ha a Be. 114. §-a szerint a büntetőeljárásban tolmács alkalmazása kötelező, a tolmács intézetbe történő belépését – a rendelkezési jogkör gyakorlójának előírásait figyelembe véve – engedélyezni kell.

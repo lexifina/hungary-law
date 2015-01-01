@@ -1,0 +1,1 @@
+215. § A külföldi elítélt szabadításáról, vagy a más államnak történő átadásáról a bv. intézet értesíti az illetékes külképviseletet és a BVOP-t, szabadítás esetén – a szabadulás előtt legalább három nappal – az útlevelet őrző szervet. Az illetékes külképviseletet a bv. intézet nem értesíti, ha azt a külföldi elítélt az írásbeli nyilatkozatában kifejezetten kérte.

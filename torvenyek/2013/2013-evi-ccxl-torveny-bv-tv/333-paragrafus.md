@@ -1,0 +1,1 @@
+333. § Az elítélt vallásgyakorlását szabályozó rendelkezéseket a betegre azzal a kiegészítéssel kell alkalmazni, hogy a beteg vallásos szertartáson való részvétele akkor is korlátozható vagy megtiltható, ha jelenléte a saját vagy mások életére, testi épségére vagy egészségére jelentős veszélyt jelent.

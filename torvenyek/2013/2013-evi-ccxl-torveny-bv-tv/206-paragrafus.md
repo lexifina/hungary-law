@@ -1,0 +1,1 @@
+206. § A katonai fogdában biztosítani kell az elítéltek szakmai ismereteinek szinten tartását vagy fejlesztését, továbbá azt, hogy az elítéltek az alakulatukkal való kapcsolatukat fenntartsák és fejlesszék.

@@ -1,0 +1,23 @@
+## XXIII. Fejezet
+
+## AZ ELKOBZÁS VÉGREHAJTÁSA
+
+## Általános szabályok
+
+318. § (1) Az elkobzást a bíróság értesítése vagy a jogerős és végrehajtási záradékkal, valamint eredeti aláírással ellátott határozata alapján
+
+a) a törvényszék gazdasági hivatala,
+
+b) jövedéki termék, vagy nem közösségi áru esetén a Nemzeti Adó- és Vámhivatal,
+
+c) ingatlan esetén a bírósági végrehajtó
+
+hajtja végre.
+
+(2) Ingatlan elkobzása esetén a vagyonelkobzás végrehajtásának szabályai szerint kell eljárni.
+
+(3) Ha az egyéb érdekelt az ítélet jogerőre emelkedését követően hatvan napon belül tulajdonjogi igényét egyéb törvényes úton érvényesítette, az elkobzás végrehajtását a polgári perben eljáró bíróság határozatának jogerőre emelkedéséig el kell halasztani.
+
+(4) Ha az elkobzott dolog – külön jogszabály alapján – közérdekű felhasználásra alkalmas, az ezzel kapcsolatos döntés meghozatala érdekében a közérdekű felhasználás kezdeményezésére jogosult Karitatív Tanácsot kell megkeresni. Az elkobzás végrehajtását a Karitatív Tanács döntésének beérkezéséig nem lehet megkezdeni.
+
+(5) Az elkobzás végrehajtásának részletes és az egyedi jellegű elkobzott dolgok végrehajtásának különleges szabályairól külön jogszabály rendelkezik.

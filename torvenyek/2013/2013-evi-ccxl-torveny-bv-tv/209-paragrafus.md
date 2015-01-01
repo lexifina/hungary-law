@@ -1,0 +1,1 @@
+209. § A külföldi elítélt elhelyezésénél lehetőség szerint biztosítani kell, hogy a vele együtt elhelyezett elítéltek között legyen az általa használt nyelvet, továbbá a magyar nyelvet ismerő és beszélő személy. Nem lehet együttesen elhelyezni azokat a külföldi elítélteket, akik között nemzeti, nemzetiségi, etnikai vagy vallási ellentét áll fenn.

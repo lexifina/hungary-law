@@ -1,0 +1,1 @@
+197. § Megkezdett tanulmányok esetén a fiatalkorú kérelmére, vizsgakötelezettség teljesítése érdekében a bv. intézet gondoskodik az előállításáról, ha ehhez az oktatási intézmény vezetője és a bv. intézet parancsnoka együttesen hozzájárul.

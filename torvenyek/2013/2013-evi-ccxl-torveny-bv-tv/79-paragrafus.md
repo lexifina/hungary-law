@@ -1,0 +1,1 @@
+79. § Ha törvény eltérően nem rendelkezik, a 76–78. § alapján kezelt személyes adatokat a büntetés, az intézkedés, a kényszerintézkedés, vagy a szabálysértési elzárás végrehajtása befejezésekor vagy végrehajthatósága megszűnésekor törölni kell.

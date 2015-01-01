@@ -1,0 +1,1 @@
+81. § Az elítéltek, az egyéb jogcímen fogvatartottak, a vádemelés elhalasztása során pártfogó felügyelet alatt állók és az utógondozottak adatai – személyazonosításra alkalmatlan módon – statisztikai és tudományos célra felhasználhatók.
