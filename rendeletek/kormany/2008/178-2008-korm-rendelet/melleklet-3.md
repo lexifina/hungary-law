@@ -1,4 +1,4 @@
-3. számú melléklet a 178/2008. (VII. 3.) Korm. rendelethez[^43]
+3. számú melléklet a 178/2008. (VII. 3.) Korm. rendelethez[^44]
 
 A kisajátítási változás vázrajzhoz tartozó területkimutatás
 
@@ -12,4 +12,4 @@ A kisajátítási változás vázrajzhoz tartozó területkimutatás
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 
-[^43]: A 3. számú melléklet a 154/2013. (V. 24.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^44]: A 3. számú melléklet a 154/2013. (V. 24.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.

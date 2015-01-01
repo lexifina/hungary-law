@@ -40,8 +40,9 @@ d) a záradékoló személyének aláírása és ingatlanrendező földmérői m
 
 e) a készítő olvasható aláírása és kék színű bélyegző lenyomata, földmérő igazolványának száma, vagy ha van, ingatlanrendező földmérői minősítésének száma;
 
-f) ha a készítőnek nincs ingatlan rendező minősítése, akkor a minőségtanúsító aláírása, kékszínű bélyegző lenyomata és az ingatlanrendezői földmérői, valamint geodéziai tervezői minősítésének száma;
+f)[^43] ha a készítőnek nincs ingatlan rendező minősítése, akkor a minőségtanúsító aláírása, kékszínű bélyegző lenyomata és az ingatlanrendezői földmérői minősítésének száma;
 
 g) a készítés dátuma.
 
 [^42]: A 2. számú melléklet a 154/2013. (V. 24.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^43]: A 2. számú melléklet 3. pont f) alpontja a 373/2014. (XII. 31.) Korm. rendelet 49. §-a szerint módosított szöveg.
