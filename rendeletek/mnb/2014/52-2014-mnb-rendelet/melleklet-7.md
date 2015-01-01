@@ -166,6 +166,6 @@ A táblában az egyes fizetési sávokba tartozó kockázati profilra lényeges 
 
 A táblában annyi sort kell szerepeltetni, amennyi különböző fizetési sávban van egymillió euro vagy azt meghaladó összegű javadalmazásban részesülő, kockázati profilra lényeges hatást gyakorló személy.
 
-8 melléklet az 52/2014. (XII. 9.) MNB rendelethez[^3]
+8 melléklet az 52/2014. (XII. 9.) MNB rendelethez
 
-[^3]: A 8. melléklet a 11. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+20142C20000052_4
