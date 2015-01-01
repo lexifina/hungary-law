@@ -1,0 +1,1 @@
+## foglaltak figyelembevételével kell biztosítani.

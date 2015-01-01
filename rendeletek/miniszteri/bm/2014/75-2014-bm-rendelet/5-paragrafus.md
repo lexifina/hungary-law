@@ -1,0 +1,1 @@
+## 4. § A hivatásos állomány részére a 2015. évi ruházati utánpótlási ellátmány kötelezettséggel nem terhelt maradványrészét – az 5. §-ban foglaltak figyelembevételével – 2015. szeptember 15-ig kell kifizetni.

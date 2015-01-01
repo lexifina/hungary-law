@@ -1,3 +1,1 @@
-## 13. §[^2]
-
-[^2]: A 13. § a 12. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## 13. § Hatályát veszti a belügyminiszter irányítása alá tartozó költségvetési szervek hivatásos állományú tagjainak 2014. évi ruházati utánpótlási ellátmánya felhasználási rendjéről szóló 37/2014. (VI. 11.) BM rendelet.
