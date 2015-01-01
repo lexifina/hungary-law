@@ -7,3 +7,5 @@
 (4) Az alapvető jogok biztosa közreműködik a feladat- és hatáskörét érintő nemzetközi szerződések alapján készülő nemzeti jelentések előkészítésében, figyelemmel kíséri és értékeli e szerződések magyar joghatóság alá tartozó érvényesülését.
 
 (5) Az alapvető jogok biztosa elősegíti az emberi jogok érvényesülését és védelmét. Ennek során társadalmi tudatformáló, felvilágosító tevékenységet végez és együttműködik azon szervezetekkel és nemzeti intézményekkel, amelyek célja az alapvető jogok védelmének előmozdítása.
+
+(6) Az alapvető jogok biztosa ellátja a 2011. évi CXLIII. törvénnyel kihirdetett, a kínzás és más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés elleni egyezmény fakultatív jegyzőkönyve 3. cikke szerinti nemzeti megelőző mechanizmus feladatait.

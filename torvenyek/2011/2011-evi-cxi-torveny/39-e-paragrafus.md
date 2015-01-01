@@ -1,0 +1,1 @@
+39/E. § Az alapvető jogok biztosa részére és a nemzeti megelőző mechanizmus feladatainak teljesítésére általa felhatalmazott munkatársa részére történő információközlés miatt senkit sem érhet hátrány.
