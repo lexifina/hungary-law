@@ -24,8 +24,7 @@ fel kell szerelni automata monitoring rendszerrel.
 
 A rendszernek automatikusan észlelni kell a II. fázisú benzingőz-visszanyerő rendszer megfelelő működésében és az automatikus monitoring rendszerben bekövetkezett meghibásodásokat, jeleznie kell a hibákat a töltőállomás üzemeltetőjének, és automatikusan le kell állítania a benzinkiszolgálást a meghibásodott kútoszlopból, amennyiben a meghibásodást hét napon belül nem javítják ki.
 
-8.[^22]
+8. A 7. pont hatálya alá nem tartozó kútoszlopot fel kell szerelni olyan kijelző berendezéssel, amely jól látható módon és elektronikusan jelzi, hogy a kútoszlopon a benzingőz-visszavezető rendszer működik-e.
 
 [^20]: A 4. melléklet 3. pontja a 38/2014. (IV. 4.) VM rendelet 6. § (3) bekezdésével megállapított szöveg.
 [^21]: A 4. melléklet 7. pontja a 38/2014. (IV. 4.) VM rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^22]: A 4. melléklet 8. pontja a 9. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
