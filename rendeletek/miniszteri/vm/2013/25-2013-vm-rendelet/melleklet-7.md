@@ -218,6 +218,12 @@
 
 | 3. | jelkulcs beszúrási pontja | 52 | terepen nem jelölt | 1 |  | 6 |  |
 
+| 4. | címkoordináta | 54 |  |  |  |  |  |
+
+| 4.1. |  |  | terepen nem jelölt | 1 | generált pont | 1 |  |
+
+| 4.2. |  |  |  |  | mérésből levezetett | 2 |  |
+
 | 2.2. Magassági részletpontok |
 
 | 2.2.1. Mért részletpontok |

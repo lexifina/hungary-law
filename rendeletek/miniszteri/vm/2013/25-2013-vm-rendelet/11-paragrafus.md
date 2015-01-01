@@ -7,3 +7,19 @@
 (4) A 15. § (2) bekezdésében meghatározott esetekben a változási vázrajzon a földrészlet változással érintett részét, valamint ennek környezetében a szomszédos földrészletek határvonalát a változási vázrajzon mért legalább 2 cm hosszúságban kell ábrázolni. A változási állománynak azonban a teljes földrészletet tartalmaznia kell.
 
 (5) A változási vázrajz méret adatot nem tartalmazhat. Ez alól kivételt képeznek a szolgalmi és a vezetékjogi védőtávolságok, és a kitűzési vázrajzon a kitűzött földrészlet határára vonatkozó méretek.
+
+(6)[^5] Az épület feltüntetési vázrajznak és a változási állománynak tartalmaznia kell az újonnan létesített, valamint a már meglévő épületek főbejáratainak az épület objektumán belüli címkoordinátáját.
+
+(7)[^6] A telekalakítási vázrajznak és a változási állománynak tartalmaznia kell az újonnan kialakított ingatlanok címkoordinátáit. Amennyiben az ingatlan nem beépített, vagy a közterület felöli bejárat egyértelműen nem határozható meg, akkor a helyrajzi szám beszúrási pontját kell címkoordinátaként megadni.
+
+(8)[^7] A (7) bekezdés szerint nem kell címkoordinátát adni a beépítetlen mezőgazdasági rendeltetésű földrészleteknek.
+
+(9)[^8] A címkoordinátát a változási vázrajzon fel kell tüntetni.
+
+(10)[^9] A 4. § szerinti változási vázrajzok készítése esetén, a földrészleten belül minden önálló épületnek címkoordinátát kell képezni.
+
+[^5]: A 11. § (6) bekezdését a 39/2014. (XII. 18.) FM rendelet 12. § (3) bekezdése iktatta be.
+[^6]: A 11. § (7) bekezdését a 39/2014. (XII. 18.) FM rendelet 12. § (3) bekezdése iktatta be.
+[^7]: A 11. § (8) bekezdését a 39/2014. (XII. 18.) FM rendelet 12. § (3) bekezdése iktatta be.
+[^8]: A 11. § (9) bekezdését a 39/2014. (XII. 18.) FM rendelet 12. § (3) bekezdése iktatta be.
+[^9]: A 11. § (10) bekezdését a 39/2014. (XII. 18.) FM rendelet 12. § (3) bekezdése iktatta be.

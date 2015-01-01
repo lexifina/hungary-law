@@ -6,9 +6,9 @@
 
 (4) Külterületi földrészletek változási állománya esetén amennyiben a hatályos állami ingatlan-nyilvántartási térképi adatbázissal hibahatáron belül egyezik, akkor a területi eltérést községi területi gyűjtőben kell lekezelni.
 
-(5)[^1] Amennyiben a vezetékjog vagy szolgalmi jog bejegyzéséhez a jogosult korábbi bemérések eredményeként vagy tervezési állapotként biztosítja a létesítmény adatait, akkor az ingatlan-nyilvántartási térképbe történő beillesztéshez szükséges ellenőrző méréseket kell az alaphálózati pontokra elvégeznie a munkát készítőnek. Az ellenőrző méréseket megfelelően dokumentálni kell, és a beillesztéshez alkalmazott transzformációt a földhivatal ellenőrzi.
+(5)[^3] Amennyiben a vezetékjog vagy szolgalmi jog bejegyzéséhez a jogosult korábbi bemérések eredményeként vagy tervezési állapotként biztosítja a létesítmény adatait, akkor az ingatlan-nyilvántartási térképbe történő beillesztéshez szükséges ellenőrző méréseket kell az alaphálózati pontokra elvégeznie a munkát készítőnek. Az ellenőrző méréseket megfelelően dokumentálni kell, és a beillesztéshez alkalmazott transzformációt a földhivatal ellenőrzi.
 
-(6)[^2] A 2004. év előtt épült létesítmények vezetékjog vagy szolgalmi jog külön jogszabályban biztosított legalizációjához az alaphálózati pontokra történő ellenőrző mérések nem szükségesek, amennyiben a jogosult nyilatkozik arról, hogy a létesítmények adatai korábbi numerikus bemérés alapján kerültek meghatározásra.
+(6)[^4] A 2004. év előtt épült létesítmények vezetékjog vagy szolgalmi jog külön jogszabályban biztosított legalizációjához az alaphálózati pontokra történő ellenőrző mérések nem szükségesek, amennyiben a jogosult nyilatkozik arról, hogy a létesítmények adatai korábbi numerikus bemérés alapján kerültek meghatározásra.
 
-[^1]: Az 5. § (5) bekezdését az 54/2014. (IV. 29.) VM rendelet 9. § (1) bekezdése iktatta be.
-[^2]: Az 5. § (6) bekezdését az 54/2014. (IV. 29.) VM rendelet 9. § (1) bekezdése iktatta be.
+[^3]: Az 5. § (5) bekezdését az 54/2014. (IV. 29.) VM rendelet 9. § (1) bekezdése iktatta be.
+[^4]: Az 5. § (6) bekezdését az 54/2014. (IV. 29.) VM rendelet 9. § (1) bekezdése iktatta be.
