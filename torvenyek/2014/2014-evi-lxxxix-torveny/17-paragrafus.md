@@ -1,3 +1,0 @@
-17. § Az Ügkr. 18/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A Kormány (2) bekezdés szerinti rendelete alapján a miniszter a (6) bekezdésben foglaltakra figyelemmel elkészíti a nemzeti kiosztási táblára vonatkozó javaslatát és jóváhagyásra megküldi azt az Európai Bizottságnak. Az Európai Bizottság által jóváhagyott nemzeti kiosztási tábla alapján a nemzeti tisztviselő a (6) bekezdésben foglaltakra figyelemmel a nemzeti kiosztási tábla Európai Bizottság általi jóváhagyását követő 15 napon belül gondoskodik a kibocsátási egységeknek a derogációs kiosztásra jogosult villamosenergia-termelők forgalmi jegyzékben vezetett számláin történő jóváírásáról.”
