@@ -4,9 +4,15 @@
 
 (2) E § (3)–(6) bekezdése a kihirdetést követő 3. napon lép hatályba.
 
-(3)[^54] E rendelet a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+(3)[^52] E rendelet
 
-(4)—(7)[^55]
+a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-ai 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1–8. o.),
 
-[^54]: A 8. § (3) bekezdését a 139/2006. (VI. 29.) Korm. rendelet 28. §-a hatályon kívül helyezte, újonnan a 166/2008. (VI. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 37/2011. (III. 22.) Korm. rendelet 40. § (21) bekezdés b) pontja szerint módosított szöveg.
-[^55]: A 8. § (4)–(7) bekezdését a 139/2006. (VI. 29.) Korm. rendelet 28. §-a hatályon kívül helyezte.
+b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-ai 1408/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 9–17. o.),
+
+## hatálya alá tartozó támogatást tartalmaz.
+
+(4)—(7)[^53]
+
+[^52]: A 8. § (3) bekezdését a 139/2006. (VI. 29.) Korm. rendelet 28. §-a hatályon kívül helyezte, újonnan a 166/2008. (VI. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 354/2014. (XII. 29.) Korm. rendelet 1. § (10) bekezdésével megállapított szöveg.
+[^53]: A 8. § (4)–(7) bekezdését a 139/2006. (VI. 29.) Korm. rendelet 28. §-a hatályon kívül helyezte.
