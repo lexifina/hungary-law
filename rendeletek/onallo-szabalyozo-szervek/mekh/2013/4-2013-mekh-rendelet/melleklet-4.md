@@ -50,7 +50,7 @@
 
 ## 2.5. A részszámlákon a fogyasztásarányos rendszerhasználati díjak a tételenkénti feltüntetés helyett összevontan is szerepeltethetők.
 
-4. melléklet a 4/2013. (X. 16.) MEKH rendelethez
+4. melléklet a 4/2013. (X. 16.) MEKH rendelethez[^3]
 
 Az átviteli rendszerirányító által végrehajtott, elosztók közötti kiegyenlítő fizetések
 
@@ -70,12 +70,14 @@ szorzata alapján realizál, utólag adott árengedmény jogcímen a következő
 
 | 3. | ELMŰ Hálózati Kft. | 0,0% |
 
-| 4. | ÉMÁSZ Hálózati Kft. | 21,8% |
+| 4. | ÉMÁSZ Hálózati Kft. | 22,2% |
 
-| 5. | E.ON Dél-dunántúli Áramhálózati Zrt. | 21,1% |
+| 5. | E.ON Dél-dunántúli Áramhálózati Zrt. | 21,3% |
 
-| 6. | E.ON Észak-dunántúli Áramhálózati Zrt. | 22,0% |
+| 6. | E.ON Észak-dunántúli Áramhálózati Zrt. | 21,6% |
 
-| 7. | E.ON Tiszántúli Áramhálózati Zrt. | 19,0% |
+| 7. | E.ON Tiszántúli Áramhálózati Zrt. | 18,8% |
 
 | 8. | Összesen | 100,0% |
+
+[^3]: A 4. melléklet a 11/2014. (XII. 13.) MEKH rendelet 1. § (2) bekezdése szerint módosított szöveg.
