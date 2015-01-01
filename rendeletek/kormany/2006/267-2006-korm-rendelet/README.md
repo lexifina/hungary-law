@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-267-20-
 | 2014-02-25 | 2006-267-20-22.26 | 195/2011. (IX. 22.) Korm. rendelet |
 | 2014-09-05 | 2006-267-20-22.27 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2014-09-10 | 2006-267-20-22.28 | 362/2008. (XII. 31.) Korm. rendelet |
+| 2015-01-01 | 2006-267-20-22.29 | 362/2008. (XII. 31.) Korm. rendelet |
