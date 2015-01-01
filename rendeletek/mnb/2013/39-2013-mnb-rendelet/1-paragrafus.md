@@ -10,11 +10,11 @@ d) a biztosítóra,
 
 e) a független biztosításközvetítőre,
 
-f) a befektetési alapkezelőre és a befektetési alapkezelőkről és a kollektív befektetési formákról szóló törvényben meghatározott fióktelepre (a továbbiakban: befektetési alapkezelő fióktelepe),
+f)[^2] a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló törvényben meghatározott fióktelepre (a továbbiakban: befektetési alapkezelő fióktelepe),
 
 g) a központi szerződő félre,
 
-h) a kockázati tőkealap-kezelőre,
+h)[^3]
 
 i) a foglalkoztatói nyugdíjszolgáltató intézményre,
 
@@ -29,3 +29,6 @@ m) a magánnyugdíjpénztárra,
 n) az elektronikuspénz-kibocsátó intézményre, a pénzforgalmi intézményre, továbbá az Európai Unió másik tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező elektronikuspénz-kibocsátó intézmény és pénzforgalmi intézmény magyarországi fióktelepére (a továbbiakban: elektronikuspénz-kibocsátó intézmény és pénzforgalmi intézmény fióktelepe), valamint
 
 o) a Posta Elszámoló Központot működtető intézményre (a továbbiakban: PEKMI)
+
+[^2]: Az 1. § f) pontja a 60/2014. (XII. 23.) MNB rendelet 3. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § h) pontját a 60/2014. (XII. 23.) MNB rendelet 4. § (1) bekezdése hatályon kívül helyezte.

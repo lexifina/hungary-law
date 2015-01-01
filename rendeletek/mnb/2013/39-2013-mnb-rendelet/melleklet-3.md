@@ -28,7 +28,7 @@
 
 |  | Változás esetén | V |
 
-| Bejelentésre kötelezett | Kockázati tőkealap-kezelő | TAK |
+| Bejelentésre kötelezett |  |  |
 
 |  | Befektetési alapkezelő | BAK |
 
@@ -114,7 +114,7 @@
 
 ## HPTPK1xxxx262 Közvetítő státusza
 
-## HPTPK1xxxx263 Függő közvetítő (függő ügynök vagy kiemelt közvetítő) által végzett tevékenység(ek)
+## HPTPK1xxxx263 Függő közvetítő által végzett tevékenység(ek)
 
 ## HPTPK1xxxx2631 Hpt. 6. § 120. pont a) alpont
 
@@ -160,7 +160,7 @@
 
 ## HPTPK1000362 Közvetítő státusza
 
-## HPTPK1000363 Függő közvetítő (függő ügynök vagy kiemelt közvetítő) által végzett tevékenység(ek)
+## HPTPK1000363 Függő közvetítő által végzett tevékenység(ek)
 
 ## HPTPK10003631 Hpt. 6. § 120. pont a) alpont
 
@@ -536,9 +536,15 @@
 
 ## KTHPV202 Bankszövetség (éééé.hh.nn.)
 
-## KTHPV203 Integrációs Szervezet
+## KTHPV203 Integrációs Szervezet (éééé.hh.nn)
 
-## (éééé.hh.nn)
+## KTHPV3 Ideiglenes jogalany-azonosító [pre-LEI, a továbbiakban: (LEI-kód) (csak HIT esetén töltendő ki)]
+
+## KTHPV301 LEI kód kibocsátója
+
+## KTHPV302 LEI kód beszerzésének dátuma
+
+## KTHPV303 LEI kód lejáratának dátuma
 
 ## 9. KTPI Elektronikuspénz-kibocsátó intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény és pénzforgalmi intézmény fióktelepe, valamint a PEKMI speciális törzsadatai
 

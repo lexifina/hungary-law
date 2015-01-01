@@ -4,15 +4,15 @@
 
 |  | Adatkör kódja | Adatkör megnevezése | Bejelentésre kötelezett | B. | Bejelentési gyakoriság | Bejelentési határidő |
 
-| 1 | KTA1 | Intézményi alapadatok | TAK, BAK, BAKF, BV, BVF, FNYSZI, HIT, HITF, PV, PVF, EP, SP, E, PI, PEKMI, F, BIZ, BK, KISEGY, NAGYEGY, OP, MP, KSZF | V | É |  |  | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 15 munkanapon belül az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig |
+| 1 | KTA1 | Intézményi alapadatok | BAK, BAKF, BV, BVF, FNYSZI, HIT, HITF, PV, PVF, EP, SP, E, PI, PEKMI, F, BIZ, BK, KISEGY, NAGYEGY, OP, MP, KSZF | V | É |  |  | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 15 munkanapon belül az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig |
 
-| 2 | KTA2 | Vezető állású személyek, vezető tisztségviselők és kötelező alkalmazottak | TAK, BAK, BAKF, BV, BVF, FNYSZI, HIT, HITF, PV, PVF, EP, SP, E, PI, PEKMI, F, BIZ, BK, KISEGY, NAGYEGY, OP, MP, KSZF | V | É |  |  | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 15 munkanapon belül az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig |
+| 2 | KTA2 | Vezető állású személyek, vezető tisztségviselők és kötelező alkalmazottak | BAK, BAKF, BV, BVF, FNYSZI, HIT, HITF, PV, PVF, EP, SP, E, PI, PEKMI, F, BIZ, BK, KISEGY, NAGYEGY, OP, MP, KSZF | V | É |  |  | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 15 munkanapon belül az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig |
 
 | 3 | KTA3 | Befolyással rendelkezők | BAK, BAKF, BV, BVF | V | É | FÉ |  | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 15 munkanapon belül az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig a féléves bejelentési kötelezettség tekintetében: a tárgyév december 31-re vonatkozóan, a tárgyévet követő év január 15. napjáig |
 
 |  |  |  | FNYSZI, HIT, PV, PVF, E, PI, PEKMI, F, BIZ, KSZF | V | É |  |  | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott MNB hatósági döntés eltérő rendelkezése hiányában a változást követő 15 munkanapon belül az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig |
 
-| 4 | KTA4 | Könyvvizsgáló adatai | TAK, BAK, BV, FNYSZI, HIT, HITF, PV, PVF, EP, SP, E, PI, PEKMI, F, BIZ, KISEGY, NAGYEGY, OP, MP, KSZF | V | É |  |  | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 15 munkanapon belül; az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig |
+| 4 | KTA4 | Könyvvizsgáló adatai | BAK, BV, FNYSZI, HIT, HITF, PV, PVF, EP, SP, E, PI, PEKMI, F, BIZ, KISEGY, NAGYEGY, OP, MP, KSZF | V | É |  |  | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 15 munkanapon belül; az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig |
 
 | 5 | KTA5 | Kiszervezés/megbízás adatok | BAK, BV, FNYSZI, HIT, HITF, PV, PVF, EP, SP, E, PI, PEKMI, F, OP, MP, KISEGY | V | É |  |  | változás esetén: a bejelentésre irányadó szakágazati törvény vagy az annak alapján meghozott hatósági döntés eltérő rendelkezése hiányában a változást követő 15 munkanapon belül; az éves bejelentési kötelezettség tekintetében: a tárgyév június 30-ra vonatkozóan, a tárgyév július 20. munkanapjáig |
 
@@ -28,7 +28,7 @@
 
 |  | Változás esetén | V |
 
-| Bejelentésre kötelezett | Kockázati tőkealap-kezelő | TAK |
+| Bejelentésre kötelezett |  |  |
 
 |  | Befektetési alapkezelő | BAK |
 
@@ -138,7 +138,7 @@
 
 ## KTA129 E-mail címe
 
-## KTA130 Fogyasztóvédelmi kapcsolattartó (mandátumának kezdete, vége) (TAK esetén nem töltendő ki)
+## KTA130 Fogyasztóvédelmi kapcsolattartó (mandátumának kezdete, vége)
 
 ## KTA131 Neve
 
@@ -170,17 +170,17 @@
 
 ## KTA206 Születési ideje (éééé.hh.nn)
 
-## KTA207 Személyi igazolvány száma (BV, BVF, BAK, BAKF, TAK esetén nem töltendő ki)
+## KTA207 Személyi igazolvány száma (BV, BVF, BAK, BAKF esetén nem töltendő ki)
 
-## KTA208 Útlevélszám (BV, BVF, BAK, BAKF, TAK estén nem töltendő ki)
+## KTA208 Útlevélszám (BV, BVF, BAK, BAKF estén nem töltendő ki)
 
-## KTA209 Egyéb azonosító dokumentum megnevezése (BV, BVF, BAK, BAKF, TAK esetén nem töltendő ki)
+## KTA209 Egyéb azonosító dokumentum megnevezése (BV, BVF, BAK, BAKF esetén nem töltendő ki)
 
-## KTA210 Egyéb azonosító dokumentum száma (BV, BVF, BAK, BAKF, TAK esetén nem töltendő ki)
+## KTA210 Egyéb azonosító dokumentum száma (BV, BVF, BAK, BAKF esetén nem töltendő ki)
 
 ## KTA211 Állampolgársága
 
-## KTA212 Legmagasabb iskolai végzettsége (csak BIZ, NAGYEGY, KISEGY, BK TAK esetén töltendő ki)
+## KTA212 Legmagasabb iskolai végzettsége (csak BIZ, NAGYEGY, KISEGY, BK esetén töltendő ki)
 
 ## KTA213 Lakcíme
 
@@ -214,7 +214,7 @@
 
 ## KTA 228 Tisztségviselő telefonos elérhetősége
 
-## 3. KTA3 Befolyással rendelkezők (NAGYEGY, KISEGY, BK, OP, SP, MP, EP, TAK, HITF esetén nem töltendő ki)
+## 3. KTA3 Befolyással rendelkezők (NAGYEGY, KISEGY, BK, OP, SP, MP, EP, HITF esetén nem töltendő ki)
 
 ## KTA3A Befolyásoló adatai (ha a befolyásoló természetes személy)
 
@@ -478,15 +478,15 @@
 
 ## KTA4B03 Megbízás vége (éééé.hh.nn)
 
-## KTA4B04 Születési név (BV, BVF, BAK, BAKF, TAK esetén nem töltendő ki)
+## KTA4B04 Születési név (BV, BVF, BAK, BAKF esetén nem töltendő ki)
 
-## KTA4B05 Anyja neve (BV, BVF, BAK, BAKF, TAK esetén nem töltendő ki)
+## KTA4B05 Anyja neve (BV, BVF, BAK, BAKF esetén nem töltendő ki)
 
-## KTA4B06 Születési helye (BV, BVF, BAK, BAKF, TAK esetén nem töltendő ki)
+## KTA4B06 Születési helye (BV, BVF, BAK, BAKF esetén nem töltendő ki)
 
-## KTA4B07 Születési ideje (BV, BVF, BAK, BAKF, TAK esetén nem töltendő ki)
+## KTA4B07 Születési ideje (BV, BVF, BAK, BAKF esetén nem töltendő ki)
 
-## KTA4B08 Lakcím (BV, BVF, BAK, BAKF, TAK esetén nem töltendő ki)
+## KTA4B08 Lakcím (BV, BVF, BAK, BAKF esetén nem töltendő ki)
 
 ## KTA4B09 Kamarai tagság száma (OP, MP, SP, EP, FNYSZI esetén nem töltendő ki)
 
@@ -512,15 +512,15 @@
 
 ## KTA4C03 Megbízás vége (éééé.hh.nn)
 
-## KTA4C04 Születési név (BV, BVF, BAK, BAKF, TAK esetén nem töltendő ki)
+## KTA4C04 Születési név (BV, BVF, BAK, BAKF esetén nem töltendő ki)
 
-## KTA4C05 Anyja neve (BV, BVF, BAK, BAKF, TAK esetén nem töltendő ki)
+## KTA4C05 Anyja neve (BV, BVF, BAK, BAKF esetén nem töltendő ki)
 
-## KTA4C06 Születési helye (BV, BVF, BAK, BAKF, TAK esetén nem töltendő)
+## KTA4C06 Születési helye (BV, BVF, BAK, BAKF esetén nem töltendő)
 
-## KTA4C07 Születési ideje (BV, BVF, BAK, BAKF, TAK esetén nem töltendő ki)
+## KTA4C07 Születési ideje (BV, BVF, BAK, BAKF esetén nem töltendő ki)
 
-## KTA4C08 Lakcím (BV, BVF, BAK, BAKF, TAK esetén nem töltendő ki)
+## KTA4C08 Lakcím (BV, BVF, BAK, BAKF esetén nem töltendő ki)
 
 ## KTA4C09 Kamarai tagság száma
 
@@ -540,7 +540,7 @@
 
 ## KTA4C17 Kamarai tagság vége (éééé.hh.nn) (csak BV esetén töltendő ki)
 
-## 5. KTA5 Kiszervezés/Megbízás (BVF, BAKF, TAK, BK esetén nem töltendő ki)
+## 5. KTA5 Kiszervezés/Megbízás (BVF, BAKF, BK esetén nem töltendő ki)
 
 ## KTA5A01 Kiszervezés/Megbízás (OP, MP, EP, SP, FNYSZI esetében töltendő ki)
 
@@ -584,4 +584,6 @@
 
 ## KTA5B10 Megbízás/kiszervezés vége (éééé.hh.nn)
 
-2. melléklet a 39/2013. (XII. 29.) MNB rendelethez
+2. melléklet a 39/2013. (XII. 29.) MNB rendelethez[^7]
+
+[^7]: A 2. melléklet a 60/2014. (XII. 23.) MNB rendelet 2. §-a, 4. § (2) bekezdés f) pontja, (3) bekezdés c) pontja szerint módosított szöveg.
