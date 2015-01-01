@@ -2,7 +2,9 @@
 
 7. § (1) A civil szervezetek nyilvántartásával összefüggésben a bírósági eljárásokban érvényesülő ügyviteli és iratkezelési szabályokról szóló 58/2012. (XII. 28.) KIM rendelet (a továbbiakban: R2.)
 
-a)–b)[^16]
+a) 37. § (1) és (2) bekezdésében az „ötjegyű” szövegrész a „hétjegyű” szöveggel,
+
+b) 37. § (1) bekezdésében a „(pl.01-01-12345) szövegrész a „(pl. 01-01-1234567)” szöveggel,
 
 c) 39. § (1) bekezdésében a „2014. július 1.” szövegrész a „2015. január 1.” szöveggel,
 
@@ -10,7 +12,6 @@ d) 40. § (2) bekezdésében a „2014. július 1.” szövegrész a „2015. ja
 
 ## lép hatályba.
 
-(2)–(3)[^17]
+(2)–(3)[^12]
 
-[^16]: A 7. § (1) bekezdés a)–b) pontja a 8. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^17]: A 7. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 7. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
