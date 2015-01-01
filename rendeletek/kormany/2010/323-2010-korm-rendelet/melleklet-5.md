@@ -30,15 +30,11 @@
 
 | 3. | Nyitott sugárforrás esetén. | A lakosságra való veszélyesség megítélése. | megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Polgári Védelmi Igazgatóság; ha az OTH jár el első fokon, a szakhatóság az első fokú eljárásban az Országos Katasztrófavédelmi Főigazgatóság | ha nem az OTH jár el első fokon: Országos Katasztrófavédelmi Főigazgatóság |
 
-## IV. Az ionizáló sugárzást létrehozó berendezés előállítására, átalakítására, üzemeltetésére, üzemeltetésének megszüntetésére, valamint a berendezés előállítását, üzemeltetését szolgáló létesítmény létesítésére, üzemeltetésére, átalakítására, megszüntetésére vonatkozó engedélyezési eljárásban
-
-|  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
-
-| 1. | Minden esetben. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi és természetvédelmi felügyelőség részére adandó jelentések rendszerének a meghatározása. | környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+## IV.
 
 ## V.
 
-5. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^125]
+5. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^129]
 
 ADATLAP
 
@@ -164,4 +160,4 @@ Name (in capital letters)
 
 of the person acting on behalf of the Hungarian National Blood Transfusion Service
 
-[^125]: Az 5. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 85. § (3) bekezdése iktatta be.
+[^129]: Az 5. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 85. § (3) bekezdése iktatta be.
