@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-223-20-
 | 2014-09-05 | 2014-223-20-22.1 | 223/2014. (IX. 4.) Korm. rendelet |
 | 2014-09-10 | 2014-223-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-09-11 | 2014-223-20-22.3 | 2010: CXXX. törvény |
+| 2015-01-01 | 2014-223-20-22.4 | 352/2014. (XII. 29.) Korm. rendelet |

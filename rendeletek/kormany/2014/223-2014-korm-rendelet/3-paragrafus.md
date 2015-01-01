@@ -4,7 +4,7 @@
 
 a) irányítja, koordinálja és ellenőrzi a területi vízügyi igazgatóságok szakmai tevékenységét, és részt vesz a területi vízügyi igazgatóságok stratégiai céljainak kialakításában,
 
-b) ellátja az államháztartásról szóló 2011. évi CXCV. törvény 9. § (1) bekezdés f), g) és h) pontjában meghatározott irányítási hatásköröket, amelyekre tekintettel a területi vízügyi igazgatóságok ügyvezetési jellegű feladatai vonatkozásában teljes körű ellenőrzési joggal rendelkezik,
+b)[^1]
 
 c) ellátja a vizek kártételei elleni védelemmel, és ennek részeként az Országos Műszaki Irányító Törzs vezetésével kapcsolatos feladatokat,
 
@@ -75,3 +75,5 @@ l) ellátja a Duna-menti országok nemzetközi vízminőségi riasztórendszer �
 m) közreműködik a vízgazdálkodási szakterületi feladatok ellátását támogató hatástanulmányok, vizsgálatok elvégzésében, jelentések készítésében, illetve alkalmazott kutatások folytatásában, alapozó kutatási tevékenységek koordinációjában és monitorozásában,
 
 n) háttéranyagokat, helyzetelemzéseket, felméréseket és statisztikai elemzéseket készít szakterületi stratégiák és tervek kialakításához, valamint egyedi döntésekhez.
+
+[^1]: A 3. § (1) bekezdés b) pontját a 352/2014. (XII. 29.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
