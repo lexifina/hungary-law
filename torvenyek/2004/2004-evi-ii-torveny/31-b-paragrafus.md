@@ -24,9 +24,9 @@ b) megrendelésre készülő filmalkotás esetében a gyártásban részt vevő 
 
 c) nem megrendelésre készülő filmalkotás esetében a közvetlen filmgyártási költségek fedezetét igazoló okiratokat és a filmalkotás teljes költségvetését,
 
-d) a filmalkotás közvetlen filmgyártási költségeire vonatkozó költségvetését (valamennyi társelőállító és a közvetett támogatás forrását biztosító szervezet által ellenjegyezve), pénzügyi tervét és finanszírozási tervét, és
+d) a filmalkotás közvetlen filmgyártási költségeire vonatkozó költségvetését (valamennyi társelőállító és támogató által ellenjegyezve), pénzügyi tervét és finanszírozási tervét, és
 
-e) a filmelőállító, illetve a filmgyártó vállalkozás arra vonatkozó nyilatkozatát, hogy milyen ütemezésben kéri a támogatási igazolás kiállítását.
+e) a filmelőállító, illetve a filmgyártó vállalkozás arra vonatkozó nyilatkozatát, hogy milyen ütemezésben kéri a támogatási igazolás vagy a költségellenőrzésre irányuló eljárást lezáró határozat kiállítását.
 
 (3) Az (1) bekezdés szerinti kérelem a terjesztésre kerülő filmalkotások nyilvántartásba vételére irányuló, továbbá a 26/A. §-ban és a 26/B. §-ban meghatározott eljárásban előterjesztett kérelemmel együtt is benyújtható. Ebben az esetben a Hivatal a kérelmeket egy eljárás keretében bírálja el.
 
