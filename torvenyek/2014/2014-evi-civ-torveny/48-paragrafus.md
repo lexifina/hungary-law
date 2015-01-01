@@ -1,0 +1,3 @@
+48. § Az MNB tv. a következő 28/A. §-sal egészül ki:
+
+„28/A. § Az MNB 4. § (5) bekezdés szerinti feladatkörében eljárva az Európai Unión belüli értékpapír-kiegyenlítés javításáról és a központi értéktárakról, valamint a 98/26/EK és a 2014/65/EU irányelv, valamint a 236/2012/EU rendelet módosításáról szóló 2014. július 23-i 909/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 909/2014/EU rendelet) 2. cikk (1) bekezdés 18. pontja szerinti érintett hatóságként ellátja a 909/2014/EU rendelet végrehajtásából eredő feladatokat.”

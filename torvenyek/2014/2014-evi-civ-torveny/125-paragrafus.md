@@ -1,0 +1,3 @@
+125. § A Szantv. 59. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Egy intézménynél egy kötelezettséget – így különösen a természetes személyek, a mikro-, kis- és középvállalkozások kártalanítási összeghatárt meghaladó biztosított betétrészeit – részben vagy egészben ki kell zárni a hitelezői feltőkésítés keretében gyakorolt leírás vagy átalakítás alkalmazása alól, ha ez szükséges és arányos azon célhoz, hogy egy negatív folyamat (fertőzés) széles körű továbbterjedése elkerülhető legyen, mivel rontaná a pénzügyi piacok működését, ezáltal súlyos zavart idézne elő Magyarországon vagy bármely más EGT-államban.”
