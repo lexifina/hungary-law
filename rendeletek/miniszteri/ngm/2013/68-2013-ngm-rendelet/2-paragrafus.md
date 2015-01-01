@@ -2,7 +2,7 @@
 
 ## 1. A kormányzati funkciók
 
-2. § (1) A költségvetési szerv az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 1. § (2) bekezdése szerint ellátott közfeladatait, szakmai alaptevékenységeit az 1. mellékletben foglalt kormányzati funkciókba – funkciószámmal és -megnevezéssel – be kell sorolni, és az alapító okiratában – a (2) bekezdésben foglaltak figyelembevételével – fel kell tüntetni.
+2. § (1)[^1] A költségvetési szerv közfeladatait, szakmai alaptevékenységeit az 1. mellékletben foglalt kormányzati funkciókba – funkciószámmal és -megnevezéssel – be kell sorolni, és az alapító okiratában – a (2) bekezdésben foglaltak figyelembevételével – fel kell tüntetni.
 
 (2) A költségvetési szerv alapító okiratában nem kell feltüntetni:
 
@@ -12,4 +12,7 @@ b) a támogatási célok kormányzati funkcióit,
 
 c) a technikai funkciókat és
 
-d) a költségvetési szerv közfeladata ellátására rendelkezésre álló kapacitásának kihasználását célzó, nem haszonszerzés céljából végzett és vállalkozási tevékenységeinek, valamint a befektetési céloknak megfelelő kormányzati funkciókat.
+d)[^2] a költségvetési szerv vállalkozási tevékenységeinek megfelelő kormányzati funkciókat.
+
+[^1]: A 2. § (1) bekezdése a 43/2014. (XII. 30.) NGM rendelet 4. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdés d) pontja a 43/2014. (XII. 30.) NGM rendelet 1. §-ával megállapított szöveg.

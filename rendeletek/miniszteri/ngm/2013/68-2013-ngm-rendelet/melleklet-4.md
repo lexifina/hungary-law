@@ -364,111 +364,149 @@
 
 ## 853222 Sajátos nevelési igényű tanulók szakképesítés megszerzésére felkészítő nappali rendszerű szakmai gyakorlati oktatása a szakképző évfolyamokon
 
-## 12. Felsőoktatás
+## 12. FELSŐSZINTŰ KÉPZÉS, FELSŐOKTATÁS
+
+## Felsőoktatási szakképzés
+
+## 854121 Felsőoktatási szakképzés - Agrár képzési terület
+
+## 854122 Felsőoktatási szakképzés - Informatika képzési terület
+
+## 854123 Felsőoktatási szakképzés - Műszaki képzési terület
+
+## 854124 Felsőoktatási szakképzés - Orvos- és egészségtudomány képzési terület
+
+## 854125 Felsőoktatási szakképzés - Természettudomány képzési terület
+
+## 854131 Felsőoktatási szakképzés - Bölcsészettudomány képzési terület
+
+## 854132 Felsőoktatási szakképzés - Gazdaságtudományok képzési terület
+
+## 854133 Felsőoktatási szakképzés - Jogi képzési terület
+
+## 854134 Felsőoktatási szakképzés - Művészet képzési terület
+
+## 854135 Felsőoktatási szakképzés - Művészetközvetítés képzési terület
+
+## 854136 Felsőoktatási szakképzés - Pedagógusképzés
+
+## 854137 Felsőoktatási szakképzés - Sporttudomány képzési terület
+
+## 854138 Felsőoktatási szakképzés - Társadalomtudomány képzési terület
+
+## 854139 Felsőoktatási szakképzés - Közigazgatási, rendészeti és katonai képzési terület
+
+## Egyéb felsőszintű képzés
+
+## 854161 Szakirányú továbbképzés
+
+## 854162 Egészségügyi szakmai képzés
+
+## 854163 Felsőoktatásba felvettek felzárkóztató képzése
 
 ## Alapképzés
 
-## 854221 Alapképzés – Agrár képzési terület
+## 854221 Alapképzés - Agrár képzési terület
 
-## 854222 Alapképzés – Informatika képzési terület
+## 854222 Alapképzés - Informatika képzési terület
 
-## 854223 Alapképzés – Műszaki képzési terület
+## 854223 Alapképzés - Műszaki képzési terület
 
-## 854224 Alapképzés – Orvos- és egészségtudomány képzési terület
+## 854224 Alapképzés - Orvos- és egészségtudomány képzési terület
 
-## 854225 Alapképzés – Természettudomány képzési terület
+## 854225 Alapképzés - Természettudomány képzési terület
 
-## 854231 Alapképzés – Bölcsészettudomány képzési terület
+## 854231 Alapképzés - Bölcsészettudomány képzési terület
 
-## 854232 Alapképzés – Gazdaságtudományok képzési terület
+## 854232 Alapképzés - Gazdaságtudományok képzési terület
 
-## 854233 Alapképzés – Jogi képzési terület
+## 854233 Alapképzés - Jogi képzési terület
 
-## 854234 Alapképzés – Művészet képzési terület
+## 854234 Alapképzés - Művészet képzési terület
 
-## 854235 Alapképzés – Művészetközvetítés képzési terület
+## 854235 Alapképzés - Művészetközvetítés képzési terület
 
-## 854236 Alapképzés – Pedagógusképzés
+## 854236 Alapképzés - Pedagógusképzés
 
-## 854237 Alapképzés – Sporttudomány képzési terület
+## 854237 Alapképzés - Sporttudomány képzési terület
 
-## 854238 Alapképzés – Társadalomtudomány képzési terület
+## 854238 Alapképzés - Társadalomtudomány képzési terület
 
-## 854239 Alapképzés – Közigazgatási, rendészeti és katonai képzési terület
+## 854239 Alapképzés - Közigazgatási, rendészeti és katonai képzési terület
 
 ## Mesterképzés
 
-## 854241 Mesterképzés – Agrár képzési terület
+## 854241 Mesterképzés - Agrár képzési terület
 
-## 854242 Mesterképzés – Informatika képzési terület
+## 854242 Mesterképzés - Informatika képzési terület
 
-## 854243 Mesterképzés – Műszaki képzési terület
+## 854243 Mesterképzés - Műszaki képzési terület
 
-## 854244 Mesterképzés – Orvos- és egészségtudomány képzési terület
+## 854244 Mesterképzés - Orvos- és egészségtudomány képzési terület
 
-## 854245 Mesterképzés – Természettudomány képzési terület
+## 854245 Mesterképzés - Természettudomány képzési terület
 
-## 854251 Mesterképzés – Bölcsészettudomány képzési terület
+## 854251 Mesterképzés - Bölcsészettudomány képzési terület
 
-## 854252 Mesterképzés – Gazdaságtudományok képzési terület
+## 854252 Mesterképzés - Gazdaságtudományok képzési terület
 
-## 854253 Mesterképzés – Jogi képzési terület
+## 854253 Mesterképzés - Jogi képzési terület
 
-## 854254 Mesterképzés – Művészet képzési terület
+## 854254 Mesterképzés - Művészet képzési terület
 
-## 854255 Mesterképzés – Művészetközvetítés képzési terület
+## 854255 Mesterképzés - Művészetközvetítés képzési terület
 
-## 854256 Mesterképzés – Pedagógusképzés
+## 854256 Mesterképzés - Pedagógusképzés
 
-## 854257 Mesterképzés – Sporttudomány képzési terület
+## 854257 Mesterképzés - Sporttudomány képzési terület
 
-## 854258 Mesterképzés – Társadalomtudomány képzési terület
+## 854258 Mesterképzés - Társadalomtudomány képzési terület
 
-## 854259 Mesterképzés – Közigazgatási, rendészeti és katonai képzési terület
+## 854259 Mesterképzés - Közigazgatási, rendészeti és katonai képzési terület
 
 ## Osztatlan képzés
 
-## 854261 Osztatlan képzés – Agrár képzési terület
+## 854261 Osztatlan képzés - Agrár képzési terület
 
-## 854262 Osztatlan képzés – Jogi képzési terület
+## 854262 Osztatlan képzés - Jogi képzési terület
 
-## 854263 Osztatlan képzés – Műszaki képzési terület
+## 854263 Osztatlan képzés - Műszaki képzési terület
 
-## 854264 Osztatlan képzés – Művészet képzési terület
+## 854264 Osztatlan képzés - Művészet képzési terület
 
-## 854265 Osztatlan képzés – Orvos- és egészségtudomány képzési terület
+## 854265 Osztatlan képzés - Orvos- és egészségtudomány képzési terület
 
-## 854265 Osztatlan képzés – Pedagógusképzés
+## 854266 Osztatlan képzés - Pedagógusképzés
 
 ## Doktori képzés
 
-## 854271 Doktori képzés – Agrár képzési terület
+## 854271 Doktori képzés - Agrár képzési terület
 
-## 854272 Doktori képzés – Informatika képzési terület
+## 854272 Doktori képzés - Informatika képzési terület
 
-## 854273 Doktori képzés – Műszaki képzési terület
+## 854273 Doktori képzés - Műszaki képzési terület
 
-## 854274 Doktori képzés – Orvos- és egészségtudomány képzési terület
+## 854274 Doktori képzés - Orvos- és egészségtudomány képzési terület
 
-## 854275 Doktori képzés – Természettudomány képzési terület
+## 854275 Doktori képzés - Természettudomány képzési terület
 
-## 854281 Doktori képzés –Bölcsészettudomány képzési terület
+## 854281 Doktori képzés - Bölcsészettudomány képzési terület
 
-## 854282 Doktori képzés – Gazdaságtudományok képzési terület
+## 854282 Doktori képzés - Gazdaságtudományok képzési terület
 
-## 854283 Doktori képzés – Jogi képzési terület
+## 854283 Doktori képzés - Jogi képzési terület
 
-## 854284 Doktori képzés – Művészet képzési terület
+## 854284 Doktori képzés - Művészet képzési terület
 
-## 854285 Doktori képzés – Művészetközvetítés képzési terület
+## 854285 Doktori képzés - Művészetközvetítés képzési terület
 
-## 854286 Doktori képzés – Pedagógusképzés
+## 854286 Doktori képzés - Pedagógusképzés
 
-## 854287 Doktori képzés – Sporttudomány képzési terület
+## 854287 Doktori képzés - Sporttudomány képzési terület
 
-## 854288 Doktori képzés – Társadalomtudomány képzési terület
+## 854288 Doktori képzés - Társadalomtudomány képzési terület
 
-## 854289 Doktori képzés – Közigazgatási, rendészeti és katonai képzési terület
+## 854289 Doktori képzés - Közigazgatási, rendészeti és katonai képzési terület
 
 ## Kifutó rendszerben főiskolai és egyetemi képzések
 
@@ -476,13 +514,33 @@
 
 ## 854292 Kifutó rendszerben egyetemi képzés
 
-## 13. Egyéb oktatás
+## Duális képzés
+
+## 854293 Duális képzés - Agrár képzési terület
+
+## 854294 Duális képzés - Informatika képzési terület
+
+## 854295 Duális képzés - Műszaki képzési terület
+
+## 854296 Duális képzés - Természettudomány képzési terület
+
+## 854297 Duális képzés - Gazdaságtudományok képzési terület
+
+## 854298 Duális képzés - Társadalomtudomány képzési terület
+
+## 13. EGYÉB OKTATÁS
 
 ## 855100 Sport, szabadidős képzés
 
 ## 855200 Kulturális képzés
 
 ## 855300 Járművezető-oktatás
+
+## 855400 Kötelező szakmai továbbképzés
+
+## 855500 Ismeretterjesztő, prevenciós képzés
+
+## 855900 Iskolarendszeren kívüli egyéb oktatás
 
 ## Iskolarendszeren kívüli OKJ-s végzettséget biztosító képzések
 
@@ -565,6 +623,8 @@
 ## 869036 Vér-, szövet- és egyéb kapcsolódó szövetbank
 
 ## 869037 Fizikoterápiás szolgáltatás
+
+## 869038 Terápiás célú gyógyfürdő- és kapcsolódó szolgáltatások
 
 ## 15. Szociális ellátások
 
@@ -661,6 +721,8 @@
 ## 889101 Bölcsődei ellátás
 
 ## 889102 Családi napközi
+
+## 889103 Gyermekétkeztetés bölcsődében és fogyatékosok nappali intézményében
 
 ## Egyéb gyermekjóléti, gyermekvédelmi ellátások
 
@@ -792,7 +854,7 @@
 
 ## 999000 Szakfeladatra el nem számolt tételek
 
-4. melléklet a 68/2013. (XII. 29.) NGM rendelethez
+4. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^14]
 
 Tartalmi meghatározások az államháztartási szakfeladatokhoz
 
@@ -1322,38 +1384,4 @@ Tartalmi meghatározások az államháztartási szakfeladatokhoz
 
 9. Egyéb szolgáltatások
 
-|  | A | B |
-
-| 1 | 750000 Állat-egészségügyi ellátás |
-
-| 2 |  | Itt kell elszámolni: - a mezőgazdasági haszonállatokkal, hobbiállatokkal és egyéb állatokkal kapcsolatos állatgyógyászati és betegségmegelőző tevékenység önköltségét és eredményszemléletű bevételét. |
-
-| 3 | 770000 Kölcsönzés |
-
-| 4 |  | Itt kell elszámolni: - a gépek, berendezések, állatok, járművek, irodai és egyéb tárgyi eszközök kölcsönzésének önköltségét és eredményszemléletű bevételét. |
-
-| 5 | 790000 Utazásközvetítés, utazásszervezés, egyéb foglalás |
-
-| 6 |  | Itt kell elszámolni: - az utazással, üdültetéssel kapcsolatos szervezési és egyéb szolgáltatások önköltségét és eredményszemléletű bevételét. |
-
-| 7 | 811000 Építményüzemeltetés |
-
-| 8 |  | Itt kell elszámolni: - a szolgáltatásvásárlás keretében építményen belül végzett összetett kombinált kisegítő szolgáltatások önköltségét és eredményszemléletű bevételét (magában foglalja a létesítményben elvégzendő általános belső takarítást, a kisebb javítást, a karbantartást, a szemételszállítást, őrző és biztonsági szolgáltatást, postázást, recepciós tevékenységet, mosodai és egyéb kapcsolódó szolgáltatásokat); |
-
-| 9 | 812000 Takarítás |
-
-| 10 |  | Itt kell elszámolni: - a szolgáltatásvásárlás keretében belül végzett takarítási tevékenységek önköltségét és eredményszemléletű bevételét. |
-
-| 11 | 813000 Zöldterület-kezelés |
-
-| 12 |  | Itt kell elszámolni: - a lakóházaknál, középületeknél, közterületen, sportpályákon parkok és kertek telepítésének, kiépítésének és kezelésének önköltségét és eredményszemléletű bevételét. Ide tartozik: - a kertek, parkok, sportolási és hasonló célú zöldterületek és zöldfelületek létesítése, gondozása az alábbiak számára: = magán- és köztulajdonok, = köz- és középületszerű épületek (iskolák, kórházak, irodaházak, templomépületek), = lakóhelyi területek (parkok, zöldövezetek, temetők), = főútvonalak zöldterületei (utak, vasút, villamos, vízi utak, kikötők), = ipari és kereskedelmi egységek, épületek parkosítása (tetőkertek, homlokzat beültetése, belsőkertek), - a sport-, játék- és egyéb területek, pihenőparkok, napozók, golfpályák gyepesítése, - az álló és folyóvizek (medencék, locsolók, mesterséges tavak, úszómedencék, csatornák, vízforgatók szennyvízelvezető rendszerek) parkosítása, - a zaj, szél, erózió és napsütés elleni növénytelepítés, - a környezet- és természetvédelmi tájkertészet és annak karbantartása (visszaállítás, rekultiváció, területek értéknövelése, területmegőrzés, ártér-kialakítás), - az arborétum kultúrák kialakítása, gondozása, fakezelés (beleértve a metszést, sövénynyírást), fák újraültetése, - a fák, sövények nyesése, metszése. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 13 | 821000 Adminisztratív kiegészítő szolgáltatás |
-
-| 14 |  | Itt kell elszámolni: - a mások számára végzett, összetett napi irodai adminisztrációs szolgáltatások önköltségét és eredményszemléletű bevételét. |
-
-| 15 | 823000 Konferencia, kereskedelmi bemutató szervezése |
-
-| 16 |  | Itt kell elszámolni: - a rendezvények szervezése, reklámozása. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-10. Közigazgatás, védelem
+[^14]: A 4. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § d) pontja szerint módosított szöveg.

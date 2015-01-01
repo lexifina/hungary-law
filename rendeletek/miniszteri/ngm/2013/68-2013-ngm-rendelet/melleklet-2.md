@@ -842,8 +842,6 @@
 
 ## 094260 Hallgatói és oktatói ösztöndíjak, egyéb juttatások
 
-## 094270 Egyéb felsőoktatási feladatok
-
 ## 094280 Hallgatók lakhatásának biztosítása
 
 ## 094290 Iskolarendszeren kívüli ISCED 6 szintű OKJ-s képzés
@@ -860,9 +858,9 @@
 
 ## 0960 Oktatást kiegészítő szolgáltatások
 
-## 096010 Óvodai intézményi étkeztetés
+## 096015 Gyermekétkeztetés köznevelési intézményben
 
-## 096020 Iskolai intézményi étkeztetés
+## 096025 Munkahelyi étkeztetés köznevelési intézményben
 
 ## 096030 Köznevelési intézményben tanulók lakhatásának biztosítása
 
@@ -970,6 +968,10 @@
 
 ## 104030 Gyermekek napközbeni ellátása
 
+## 104035 Gyermekétkeztetés bölcsődében, fogyatékosok nappali intézményében
+
+## 104036 Munkahelyi étkeztetés bölcsődében
+
 ## 104041 Területi gyermekvédelmi szakszolgáltatás
 
 ## 104042 Gyermekjóléti szolgáltatások
@@ -1060,8 +1062,8 @@
 
 ## 900070 Fejezeti és általános tartalékok elszámolása
 
-## 900080 Szabad kapacitás terhére végzett, nem haszonszerzési célú tevékenységek kiadásai és bevételei
-
 ## 900090 Vállalkozási tevékenységek kiadásai és bevételei
 
-2. melléklet a 68/2013. (XII. 29.) NGM rendelethez
+2. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^12]
+
+[^12]: A 2. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § b) pontja szerint módosított szöveg.

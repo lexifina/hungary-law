@@ -164,7 +164,7 @@
 
 | 80 |  | 018030 | Támogatási célú finanszírozási műveletek |
 
-| 81 |  |  | Ide tartozik: - a költségvetési maradvány, vállalkozási maradvány igénybevétele, az államháztartás központi alrendszerében a központi támogatás, az önkormányzat alrendszerében az irányító szerv által nyújtott támogatás. Technikai- pénzforgalmi funkció, alapító okiratban nem szerepeltethető. |
+| 81 |  |  | Ide tartozik: - a költségvetési maradvány, vállalkozási maradvány igénybevétele, az államháztartás központi alrendszerében a központi támogatás, az önkormányzat alrendszerében az irányító szerv által nyújtott támogatás. - a kormányzati funkciót a felsőoktatási intézmények nem használhatják, finanszírozási bevételeiket a felhasználás célja szerinti kormányzati funkción kell elszámolniuk. Technikai- pénzforgalmi funkció, alapító okiratban nem szerepeltethető. |
 
 | 82 |  | 018040 | Elkülönített állami pénzalapok bevételei államháztartáson belülről |
 
@@ -1500,7 +1500,7 @@
 
 | 76 |  | 094210 | Felsőfokú oktatás |
 
-| 77 |  |  | Ide tartozik: - a felsőoktatási intézmény hallgatójának alapfokozat, mesterfokozat, osztatlan mesterfokozat, valamint doktori fokozat megszerzésére felkészítő képzésével, - az egyházi fenntartású, az alapítványi/magán felsőoktatási intézmények által folytatott alapképzés, mesterképzés, osztatlan mesterképzés, valamint doktori képzés támogatásával, - az alapképzéshez, mesterképzéshez, osztatlan mesterképzéshez, valamint doktori képzéshez kapcsolódó felvételi előkészítő szervezésével összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 854211–722033 szakfeladatokon el kell számolni. Feladatmutató: felsőfokú oktatásban részt vevő hallgatók száma tárgyév október 30-án (fő) |
+| 77 |  |  | Ide tartozik: - a felsőoktatási intézmény hallgatójának alapfokozat, mesterfokozat, osztatlan mesterfokozat, valamint doktori fokozat megszerzésére felkészítő képzésével, - az egyházi fenntartású, az alapítványi/magán felsőoktatási intézmények által folytatott alapképzés, mesterképzés, osztatlan mesterképzés, valamint doktori képzés támogatásával, - az alapképzéshez, mesterképzéshez, osztatlan mesterképzéshez, valamint doktori képzéshez kapcsolódó felvételi előkészítő szervezésével, - a felsőoktatás-fejlesztési célú programokkal, kisszakokkal, a tehetséggondozó programokkal, valamint - a felsőoktatási szakértői testületek működésével és más felsőoktatás-szervezési tevékenységekkel összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 854211-854292 szakfeladatokon el kell számolni. Feladatmutató: felsőfokú oktatásban részt vevő hallgatók száma tárgyév október 30-án (fő) |
 
 | 78 |  | 094250 | Tankönyv- és jegyzettámogatás |
 
@@ -1510,9 +1510,9 @@
 
 | 81 |  |  | Ide tartozik: - a kimagasló teljesítményt nyújtó, alap- vagy mesterképzésben részt vevő hallgatóknak az oktatásért felelős miniszter által adományozott ösztöndíjjal (köztársasági ösztöndíj), - a kétoldalú nemzetközi szerződés alapján államilag elismert felsőoktatási intézményben államilag támogatott képzésben részt vevő hallgató részére - az államilag támogatott doktori képzésben részt vevő hallgatót kivéve - az oktatásért felelős miniszter által adományozott ösztöndíjjal (miniszteri ösztöndíjak), - a felsőoktatási intézmény államilag támogatott teljes idejű képzésében részt vevő hallgatóinak akár tanulmányi ösztöndíj, akár intézményi szakmai, tudományos ösztöndíj formájában nyújtott pénzbeli juttatással (tanulmányi ösztöndíj), - a felsőoktatási intézmény államilag támogatott teljes idejű képzésében részt vevő hallgatóinak szociális alapon, akár rendszeres, rendkívüli szociális ösztöndíj formájában, akár Bursa Hungarica Ösztöndíj vagy alaptámogatás formájában nyújtott pénzbeli juttatásával, - az államilag támogatott teljes idejű képzésben részt vevő doktorandusz hallgató pénzbeli juttatásával (doktorandusz ösztöndíj), - minden egyéb, a hallgatóknak hallgatói jogviszonyukra tekintettel nyújtott pénzbeli juttatásával (intézményi ösztöndíjak, nemzetközi ösztöndíjak), valamint - a felsőoktatási intézmény oktatóinak oktatási, oktatásfejlesztési tevékenységére tekintettel kifizetett ösztöndíj jellegű pénzbeli juttatásával összefüggő kifizetések teljesítése. Támogatási típusú funkció, az alapító okiratban alaptevékenységként nem szerepelhet. |
 
-| 82 |  | 094270 | Egyéb felsőoktatási feladatok |
+| 82 |  |  |
 
-| 83 |  |  | Ide tartozik: - a felsőoktatás-fejlesztési célú programokkal, kisszakokkal, a tehetséggondozó programokkal, valamint - a felsőoktatási szakértői testületek működésével és más felsőoktatás-szervezési tevékenységekkel összefüggő feladatok ellátása. |
+| 83 |  |  |  |
 
 | 84 |  | 094280 | Hallgatók lakhatásának biztosítása |
 
@@ -1542,13 +1542,13 @@
 
 | 97 | 0960 Oktatást kiegészítő szolgáltatások |
 
-| 98 |  | 096010 | Óvodai intézményi étkeztetés |
+| 98 |  | 096015 | Gyermekétkeztetés köznevelési intézményben |
 
-| 99 |  |  | Ide tartozik: - az óvodai ellátottak részére az intézményi étkeztetés keretében biztosított étkezéssel összefüggő feladatok ellátása. Nem ebbe a funkcióba tartozik: - a gyermekek részére rászorultsági alapon nyújtott étkezési támogatás (104053). Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 562912 szakfeladaton el kell számolni. |
+| 99 |  |  | Ide tartozik: - az óvodai ellátottak és a köznevelési intézményben tanuló ellátottak részére biztosított étkezéssel összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 562912 és 562913 szakfeladaton el kell számolni. |
 
-| 100 |  | 096020 | Iskolai intézményi étkeztetés |
+| 100 |  | 096025 | Munkahelyi étkeztetés köznevelési intézményben |
 
-| 101 |  |  | Ide tartozik: - a köznevelési intézményben tanuló ellátottak részére az intézményi étkeztetés keretében biztosított étkezéssel összefüggő feladatok ellátása. Nem ebbe a funkcióba tartozik: - a gyermekek részére rászorultsági alapon nyújtott étkezési támogatás (104053). Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 562913 szakfeladaton el kell számolni. |
+| 101 |  |  | Ide tartozik: - a köznevelési intézményben a pedagógusok és más munkavállalók részére biztosított étkezéssel összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 562917 szakfeladaton el kell számolni. |
 
 | 102 |  | 096030 | Köznevelési intézményben tanulók lakhatásának biztosítása |
 
@@ -1746,7 +1746,15 @@
 
 | 76 |  | 104030 | Gyermekek napközbeni ellátása |
 
-| 77 |  |  | Ide tartozik: - a bölcsődei ellátással, a családi napközibe felvettek ellátásával, a házi gyermekfelügyeletben részesülők ellátásával, a Gyvt. hatálya alá tartozó alternatív napközbeni ellátásokkal, valamint - a bölcsőde és a családi napközi alapellátáson túl nyújtott szolgáltatásaival, így az időszakos gyermekfelügyelettel, a játszóházzal, baba-mama klubbal, játékkölcsönzéssel, speciális tanácsadással vagy más gyermeknevelő szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az ott meghatározott tevékenységek tekintetében 889101–889102 szakfeladatokon el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 77 |  |  | Ide tartozik: - a bölcsődei ellátással, a családi napközibe felvettek ellátásával, a házi gyermekfelügyeletben részesülők ellátásával, a Gyvt. hatálya alá tartozó alternatív napközbeni ellátásokkal, valamint - a bölcsőde és a családi napközi alapellátáson túl nyújtott szolgáltatásaival, így az időszakos gyermekfelügyelettel, a játszóházzal, baba-mama klubbal, játékkölcsönzéssel, speciális tanácsadással vagy más gyermeknevelő szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. Nem itt kell elszámolni: - a bölcsődei gyermekétkeztetéssel kapcsolatos f eladatok bevételeit és kiadásait. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az ott meghatározott tevékenységek tekintetében 889101-889102 szakfeladatokon el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+
+| 77/A |  | 104035 | Gyermekétkeztetés bölcsődésben, fogyatékosok nappali intézményében |
+
+| 77/B |  |  | Ide tartozik: - a bölcsődei ellátottak és a fogyatékosok nappali intézményében elhelyezett gyermekek részére nyújtott gyermekétkeztetéssel összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 889103 szakfeladaton el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+
+| 77/C |  | 104036 | Munkahelyi étkeztetés bölcsődében |
+
+| 77/D |  |  | Ide tartozik: - a bölcsődei ellátással, a családi napközibe felvettek ellátásával, a házi gyermekfelügyeletben részesülők ellátásával, a Gyvt. hatálya alá tartozó alternatív napközbeni ellátásokkal, valamint - a bölcsőde és a családi napközi alapellátáson túl nyújtott szolgáltatásaival, így az időszakos gyermekfelügyelettel, a játszóházzal, baba-mama klubbal, játékkölcsönzéssel, speciális tanácsadással vagy más gyermeknevelő szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 562917 szakfeladaton el kell számolni. |
 
 | 78 |  | 104041 | Területi gyermekvédelmi szakszolgáltatás |
 
@@ -1916,12 +1924,14 @@
 
 | 15 |  |  | Ide tartozik: - a funkcióhoz időlegesen nem köthető központi, fejezeti és más tartalékok elszámolása azzal, hogy felhasználáskor a cél szerinti funkcióra át kell vezetni. Technikai- pénzforgalmi funkció, alapító okiratban nem szerepeltethető. |
 
-| 16 |  | 900080 | Szabad kapacitás terhére végzett, nem haszonszerzési célú tevékenységek kiadásai és bevételei |
+| 16 |  |  |
 
-| 17 |  |  | Ide tartozik: - a szabad kapacitás terhére végzett, nem haszonszerzési célú tevékenységek kiadásainak és bevételeinek összesített elszámolása. Technikai- pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Az e funkcióban elszámolt tevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az egyes tevékenységek szakfeladatrendi besorolása szerint a megfelelő szakfeladatokon el kell számolni. |
+| 17 |  |  |  |
 
 | 18 |  | 900090 | Vállalkozási tevékenységek kiadásai és bevételei |
 
 | 19 |  |  | Ide tartozik: - a vállalkozási tevékenységek kiadásainak és bevételeinek összesített elszámolása. Technikai- pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Az e funkcióban elszámolt tevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az egyes tevékenységek szakfeladatrendi besorolása szerint a megfelelő szakfeladatokon el kell számolni. |
 
-3. melléklet a 68/2013. (XII. 29.) NGM rendelethez
+3. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^13]
+
+[^13]: A 3. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § c) pontja szerint módosított szöveg.
