@@ -1,0 +1,3 @@
+## 13. § A Kossuth-díj, a Széchenyi-díj adományozásának rendjéről, valamint a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja díj alapításáról és adományozásáról szóló 271/2008. (XI. 18.) Korm. rendelet 9. § (3) bekezdés b) pontjában és 12. § (2) bekezdésében a „kutatás-fejlesztésért és technológiai innovációért felelős miniszter” szövegrész helyébe a „Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke” szöveg lép.
+
+## 10. A Magyar Köztársaság Kormánya és Izrael Állam Kormánya közötti a magánszektorban megvalósuló ipari kutatás-fejlesztésben történő kétoldalú együttműködésről szóló Megállapodás kihirdetéséről szóló 11/2009. (I. 27.) Korm. rendelet módosítása

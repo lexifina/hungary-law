@@ -1,0 +1,9 @@
+## 17. § Az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló 288/2009. (XII. 15.) Korm. rendelet 1. mellékletében a „Nemzeti Innovációs Hivatal” szövegrészek helyébe a „Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal” szöveg lép.
+
+## 14. A Magyar Köztársaság Kormánya, a Dán Királyság Kormánya, az Egyesült Királyság Kormánya, a Francia Köztársaság Kormánya, a Görög Köztársaság Kormánya, a Lengyel Köztársaság Kormánya, a Németországi Szövetségi Köztársaság Kormánya, az Olasz Köztársaság Kormánya, az Orosz Föderáció Kormánya, a Szlovák Köztársaság Kormánya, a Spanyol Királyság Kormánya, a Svájci Konföderáció Kormánya és a Svéd Királyság Kormánya között az Európai Röntgen-szabadelektronlézer Létesítmény (European X-Ray Free-Electron Laser, XFEL) építéséről és üzemeltetéséről szóló Egyezmény kihirdetéséről szóló 35/2010. (II. 26.) Korm. rendelet módosítása
+
+## 18. § A Magyar Köztársaság Kormánya, a Dán Királyság Kormánya, az Egyesült Királyság Kormánya, a Francia Köztársaság Kormánya, a Görög Köztársaság Kormánya, a Lengyel Köztársaság Kormánya, a Németországi Szövetségi Köztársaság Kormánya, az Olasz Köztársaság Kormánya, az Orosz Föderáció Kormánya, a Szlovák Köztársaság Kormánya, a Spanyol Királyság Kormánya, a Svájci Konföderáció Kormánya és a Svéd Királyság Kormánya között az Európai Röntgen-szabadelektronlézer Létesítmény (European X-Ray Free-Electron Laser, XFEL) építéséről és üzemeltetéséről szóló Egyezmény kihirdetéséről szóló 35/2010. (II. 26.) Korm. rendelet
+
+a) 5. § (5) bekezdésében a „kutatás-fejlesztésért és technológiai innovációért felelős miniszter” szövegrész helyébe a „Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke”,
+
+b) 5. § (6) bekezdésében a „Nemzeti Innovációs” szövegrész helyébe a „Nemzeti Kutatási, Fejlesztési és Innovációs”
