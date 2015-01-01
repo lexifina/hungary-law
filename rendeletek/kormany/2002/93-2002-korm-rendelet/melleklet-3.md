@@ -46,6 +46,6 @@
 
 ## ** Budapesti Közgazdaságtudományi és Államigazgatási Egyetem.
 
-3. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^135]
+3. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^151]
 
-[^135]: A 3. számú melléklet a 357/2012. (XII. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg. [A 3. számú mellékletnek a 226/2013. (VI. 24.) Korm. rendelet 10. § b) pontjával elrendelt módosítása, amely szerint a „nemzetgazdasági minisztérium” szövegrész helyébe a „Nemzetgazdasági Minisztérium” szöveg lép, nem vezethető át.]
+[^151]: A 3. számú melléklet a 357/2012. (XII. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított, a 362/2014. (XII. 30.) Korm. rendelet 49. § (2) bekezdése szerint módosított szöveg.

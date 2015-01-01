@@ -98,13 +98,31 @@
 
 ## – szakmai gyakorlat.”
 
-## d) „Kijelentem, hogy az eljárás ............................ Ft, azaz ....................................... Ft összegű igazgatási szolgáltatási díját megfizettem/helyettem és nevemben, a köztünk fennálló megállapodás alapján ................................ fizette meg[^7.] Kijelentem továbbá, hogy a befizetést igazoló .................................. számú fizetési számlák közötti átutalási/fizetési számlára postai úton történő készpénz-átutalási megbízás7 másolatát a jelen kérelemhez csatolom.”
+## d) „Kijelentem, hogy az eljárás ............................ Ft, azaz ....................................... Ft összegű igazgatási szolgáltatási díját megfizettem/helyettem és nevemben, a köztünk fennálló megállapodás alapján ................................ fizette meg.”
+
+## e) „Kijelentem továbbá, hogy jelen kérelmemhez csatolom:
+
+## – az eljárás igazgatási szolgáltatási díjának befizetését igazoló .................................. számú fizetési számlák közötti átutalási/fizetési számlára postai úton történő készpénz-átutalási megbízás másolatát,
+
+## – a szakképesítést, a képesítést igazoló oklevél, bizonyítvány másolatát,
+
+## – 90 napnál nem régebbi erkölcsi bizonyítványt,
+
+## – 1 db 6 hónapnál nem régebbi 2,5×3,2 cm méretű, jó minőségű igazolványképet,
+
+## – a szakképesítés megszerzését követően megszerzett, legalább 3 éves számviteli, pénzügyi, vagy ellenőrzési gyakorlatot igazoló dokumentumokat,
+
+## – a jelen kérelem benyújtását megelőző 12 hónapban (a kérelemben megjelölt szakterületre előírt) továbbképzési kötelezettség teljesítéséről szóló igazolásokat,
+
+## – az adatváltozást igazoló dokumentumokat,
+
+## – eredeti, fényképes igazolványt.”
 
 ## 5. Dátum[^8.]
 
 ## 6. A kérelmező aláírása8
 
-2. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^134]
+2. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^150]
 
 [^1.]: Az adatlap letölthető az egységes Kormányzati Portálról.
 [^2.]: Nyilvántartásba történő felvétel kérelmezése esetén – a 3. pontban foglaltak kivétel – az adatlap valamennyi adatát kötelező megadni. A 3. pontban szereplő adatok önkéntes adatszolgáltatás alapján kerülnek a nyilvántartásba.
@@ -112,6 +130,5 @@
 [^4.]: A nyilvántartásból való törlés kérelmezésének esetén a 2. pont a), b) és h) alpontja szerinti adatok megadása kötelező az adatok azonosításához.
 [^5.]: Akkor kötelező megadni, amennyiben a kérelmező a nyilvántartásban már szerepel/szerepelt.
 [^6.]: Hozzájárulás esetén a megfelelő személyes adatok külön-külön egyértelműen megjelölendők.
-[^7.]: A megfelelő szövegrész aláhúzandó.
 [^8.]: Akkor kötelező kitölteni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
-[^134]: A 2. számú mellékletet a 329/2008. (XII. 30.) Korm. rendelet – 182/2009. (IX. 10.) Korm. rendelet 272. §-ával megállapított – 13. § (2) bekezdése hatályon kívül helyezte 2013. január 1. napjával, azzal, hogy a hatályon kívül helyezett rendelkezés alapján már engedéllyel rendelkező és nyilvántartásba vett személyek továbbra is jogosultak a könyvviteli szolgáltatási tevékenység végzésére, amennyiben a számviteli törvényben és a 93/2002. (V. 5.) Korm. rendeletben foglalt feltételeknek megfelelnek.
+[^150]: A 2. számú mellékletet a 329/2008. (XII. 30.) Korm. rendelet – 182/2009. (IX. 10.) Korm. rendelet 272. §-ával megállapított – 13. § (2) bekezdése hatályon kívül helyezte 2013. január 1. napjával, azzal, hogy a hatályon kívül helyezett rendelkezés alapján már engedéllyel rendelkező és nyilvántartásba vett személyek továbbra is jogosultak a könyvviteli szolgáltatási tevékenység végzésére, amennyiben a számviteli törvényben és a 93/2002. (V. 5.) Korm. rendeletben foglalt feltételeknek megfelelnek.

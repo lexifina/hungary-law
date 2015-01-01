@@ -1,4 +1,4 @@
-11. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^148]
+11. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^179]
 
 ## IGAZOLÁS
 
@@ -28,25 +28,31 @@ b) székhelye
 
 c) akkreditációs száma
 
-6. A továbbképzés
+6.[^180] A továbbképzés
 
 a) formája (előadás, e-learning, online)
 
-b) helyszíne (ha nem elektronikus a képzés)
+b) időtartama (perc, szünetek nélkül)
 
-c) időpontja (év, hónap, nap)
+c) szakterülete (vállalkozási, pénzügyi, egyéb szervezeti, államháztartási, IFRS)
 
-d) időtartama (perc)
+d) témaköre (számvitel, nem számvitel)
 
-7. A teljesített továbbképzési program
+e) helyszíne (ha nem elektronikus a képzés)
+
+f) időpontja (év, hónap, nap)
+
+g) kezdés és befejezés időpontja (óra, perc)
+
+7.[^181] A teljesített továbbképzési program
 
 a) címe
 
 b) kreditpont-minősítési határozatának száma
 
-c) témaköre (számvitel, nem számvitel)
+c) elszámolhatósági időszaka
 
-d) szakterülete (vállalkozási, pénzügyi, egyéb szervezeti, államháztartási, IFRS)
+d) kreditpont-értéke a megjelölt szakterületen
 
 8. Az igazolt kreditpontok száma
 
@@ -56,4 +62,6 @@ d) szakterülete (vállalkozási, pénzügyi, egyéb szervezeti, államháztart�
 
 11. Cégszerű aláírás, bélyegző
 
-[^148]: A 11. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 51. § (5) bekezdésével megállapított szöveg.
+[^179]: A 11. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 51. § (5) bekezdésével megállapított szöveg.
+[^180]: A 11. számú melléklet 6. pontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (7) bekezdésével megállapított szöveg.
+[^181]: A 11. számú melléklet 7. pontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (7) bekezdésével megállapított szöveg.

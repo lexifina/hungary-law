@@ -1,35 +1,37 @@
 ## JELENLÉTI ÍV
 
-## A továbbképzésben közreműködő szervezet sorszáma:
+## A továbbképző szervezet akkreditációs sorszáma:
 
-| A TOVÁBBKÉPZÉSBEN KÖZREMŰKÖDŐ SZERVEZET NEVE, CÍME: |
+## A továbbképző szervezet neve, címe:
 
-| KÉPZÉS HELYE: (PONTOS CÍM) |
+## A továbbképzés helye (pontos címe):
 
-|  | OKTATÁS IDŐPONTJA |
+## A továbbképzési program címe:
 
-| TÉMAKÖR | Év, hónap | Nap | Kezdési idő (óra, perc) | Befejezés (óra, perc) | Előadó neve |
+## A továbbképzési program kreditpont-minősítési határozatának száma:
 
-| 1. |  |  |  |  |  |
+## A továbbképzési program témaköre: □ számvitel □ nem számvitel
 
-| 2. |  |  |  |  |  |
+## A továbbképzési program szakterülete: □ vállalkozási □ államháztartási □ pénzügyi □ egyéb szervezeti (nonprofit) □ IFRS
 
-| 3. |  |  |  |  |  |
+## Előadó(k), oktató(k) neve:
 
-| 4. |  |  |  |  |  |
+## RÉSZTVEVŐK:
 
-| SZAKTERÜLET: □vállalkozási □ államháztartási □ pénzügyi □ egyéb szervezeti (nonprofit) □ IFRS |
+| Kezdési idő (év, hónap, nap, óra, perc) |
 
-## RÉSZTVEVŐK
+| Sorszám | Regisztrálási szám | Résztvevő neve | Aláírás |
 
-| Sorszám | Regisztrálási szám | Hallgató neve | Aláírás |
+| Befejezési idő (év, hónap, nap, óra, perc) |
 
-## Dátum
+| Sorszám | Regisztrálási szám | Résztvevő neve | Aláírás |
+
+## Dátum (jelenléti ív lezárásának időpontja):
 
 ## Bélyegző
 
 ## Cégszerű aláírás
 
-7. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^144]
+7. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^175]
 
-[^144]: A 7. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, hatályon kívül helyezte a 357/2012. (XII. 13.) Korm. rendelet 17. § k) pontja.
+[^175]: A 7. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, hatályon kívül helyezte a 357/2012. (XII. 13.) Korm. rendelet 17. § k) pontja.

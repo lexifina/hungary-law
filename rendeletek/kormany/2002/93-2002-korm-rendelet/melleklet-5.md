@@ -2,7 +2,7 @@
 
 ## a szakmai továbbképzés szervezésére
 
-## és lebonyolítására jelentkező szervezetek (a továbbiakban: szervezet) akkreditáció iránti kérelméhez, valamint az akkreditációs nyilvántartás adataiban történt változás átvezetésének kérelméhez[^137]
+## és lebonyolítására jelentkező szervezetek (a továbbiakban: szervezet) akkreditáció iránti kérelméhez, valamint az akkreditációs nyilvántartás adataiban történt változás átvezetésének kérelméhez[^153]
 
 ## Az adatlap kötelező tartalmi elemei a következők:
 
@@ -22,19 +22,23 @@
 
 ## g) szervezet felelős vezetőjének elérhetősége (telefonszám, elektronikus elérhetőség),
 
-## h) a szervezet által vállalt továbbképzés szervezése (szakok megnevezése, azon belül csoportok száma),
+## h)[^154] a továbbképzéssel összefüggő kapcsolattartásra kijelölt személy vagy oktatásszervező neve, beosztása, elérhetősége,
 
-## i) a szervezet által az oktatásszervezés területén alkalmazott minőségirányítási rendszer leírása[^138],
+## i)[^155] a szervezet által vállalt továbbképzés szervezése (szakok megnevezése, azon belül csoportok száma),
 
-## j) a szervezet elmúlt 3 éves szakmai (ezen belül külön kiemelve a pénzügyi-számviteli oktatási) tevékenységének rövid bemutatása,
+## j)[^156] a szervezet által az oktatásszervezés területén alkalmazott minőségirányítási rendszer leírása,
 
-## k) a szervezet oktatóinak szakmai és oktatói tevékenységének bemutatása,
+## k)[^157] a szervezet elmúlt 3 éves szakmai (ezen belül külön kiemelve a pénzügyi-számviteli oktatási) tevékenységének rövid bemutatása,
 
-## l) az oktatás lebonyolításához szükséges tárgyi, technikai feltételek részletes bemutatása,
+## l)[^158] a szervezet oktatói (vállalt továbbképzéseknek megfelelő) létszáma,
 
-## m) a tervezett továbbképzés paramétereinek részletes bemutatása (ár, helyszín, egyéb szolgáltatás stb.),
+## m)[^159] a szervezet oktatóinak név szerinti felsorolása, valamint szakmai és oktatói tevékenységének bemutatása,
 
-## n) a továbbképzés tervezett/meglévő nyilvántartási rendszerének bemutatása.
+## n)[^160] az oktatás lebonyolításához szükséges tárgyi, technikai feltételek részletes bemutatása,
+
+## o)[^161] a tervezett továbbképzés paramétereinek részletes bemutatása (ár, helyszín, egyéb szolgáltatás stb.),
+
+## p)[^162] a továbbképzés tervezett vagy meglévő nyilvántartási rendszerének bemutatása.
 
 ## 2. Nyilatkozatok:
 
@@ -58,13 +62,13 @@
 
 ## „Kijelentem, hogy a fenti adatváltozás az akkreditáció feltételeit nem érinti.”
 
-## 4. Dátum[^139]
+## 4. Dátum[^163]
 
-## 5. Bélyegző[^140]
+## 5. Bélyegző[^164]
 
-## 6. Cégszerű aláírás[^141]
+## 6. Cégszerű aláírás[^165]
 
-5. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^142]
+5. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^166]
 
 ## ADATLAP
 
@@ -72,7 +76,7 @@ könyvviteli szolgáltatást végzők továbbképzésének indításáról
 
 Az adatlap kötelező tartalmi elemei a következők:
 
-1. A könyvviteli szolgáltatást végzők továbbképzésének indításáról a továbbképzésben közreműködő szervezetnek (a továbbiakban: szervezet) a következő adatokat kell megadnia:
+1.[^167] A könyvviteli szolgáltatást végzők továbbképzésének indításáról a továbbképzés szervezésére és lebonyolítására akkreditációval rendelkező szervezetnek (a továbbiakban: szervezet) a következő adatokat kell megadnia:
 
 a) Szervezet sorszáma
 
@@ -80,7 +84,7 @@ b) Szervezet neve
 
 c) Szervezet címe
 
-d) Képzés helye (pontos címe)
+d)[^168] Továbbképzés helye (pontos címe)
 
 e) Továbbképzési program címe
 
@@ -90,13 +94,13 @@ g) Témafelelős telefonszáma
 
 h) Témakör megnevezése (számvitel, nem számvitel)
 
-i) Oktatás időpontja (év, hónap, nap)
+i)[^169] Továbbképzés időpontja (év, hónap, nap)
 
-j) Oktatás időpontja (kezdési idő: óra, perc)
+j)[^170] Továbbképzés időpontja (kezdési idő: óra, perc)
 
-k) Oktatás időpontja (befejezés ideje: óra, perc)
+k)[^171] Továbbképzés időpontja (befejezés ideje: óra, perc)
 
-l) Előadó neve
+l)[^172] Előadó (oktató) neve
 
 m) Szakterület megnevezése
 
@@ -112,15 +116,32 @@ m) Szakterület megnevezése
 
 n) A továbbképzésre vonatkozóan kibocsátott kreditpont-minősítési határozat száma
 
+o)[^173] Várható (tervezett) létszám (fő)
+
 2. Dátum
 
 3. Bélyegző
 
 4. Cégszerű aláírás
 
-[^137]: Az adatlap letölthető: www.pm.gov.hu, www.magyarorszag.hu
-[^138]: Minőségirányítási tanúsítvánnyal rendelkező szervezet esetén annak másolatát szükséges mellékelni a kérelemhez.
-[^139]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
-[^140]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
-[^141]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
-[^142]: Az 5. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 51. § (3) bekezdésével megállapított szöveg.
+[^153]: Az adatlap letölthető: www.pm.gov.hu, www.magyarorszag.hu
+[^154]: A 4. számú melléklet 1. pont h) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^155]: A 4. számú melléklet 1. pont i) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^156]: A 4. számú melléklet 1. pont j) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^157]: A 4. számú melléklet 1. pont k) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^158]: A 4. számú melléklet 1. pont l) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^159]: A 4. számú melléklet 1. pont m) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^160]: A 4. számú melléklet 1. pont n) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^161]: A 4. számú melléklet 1. pont o) alpontját a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdése iktatta be.
+[^162]: A 4. számú melléklet 1. pont p) alpontját a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdése iktatta be.
+[^163]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
+[^164]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
+[^165]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
+[^166]: Az 5. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 51. § (3) bekezdésével megállapított szöveg.
+[^167]: Az 5. számú melléklet 1. pont nyitó szövegrésze a 362/2014. (XII. 30.) Korm. rendelet 49. § (4) bekezdése szerint módosított szöveg.
+[^168]: Az 5. számú melléklet 1. pont d) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (4) bekezdése szerint módosított szöveg.
+[^169]: Az 5. számú melléklet 1. pont i) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (4) bekezdése szerint módosított szöveg.
+[^170]: Az 5. számú melléklet 1. pont j) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (4) bekezdése szerint módosított szöveg.
+[^171]: Az 5. számú melléklet 1. pont k) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (4) bekezdése szerint módosított szöveg.
+[^172]: Az 5. számú melléklet 1. pont l) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (4) bekezdése szerint módosított szöveg.
+[^173]: Az 5. számú melléklet 1. pont o) alpontját a 362/2014. (XII. 30.) Korm. rendelet 49. § (4) bekezdése iktatta be.
