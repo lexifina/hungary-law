@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-5-00-00
 | 2014-06-06 | 2014. évi XXI. törvény | 2012-5-00-00.18 |
 | 2014-07-01 | 2013. évi CCXLV. törvény | 2012-5-00-00.19 |
 | 2014-12-12 | 2014. évi LXXXV. törvény | 2012-5-00-00.20 |
+| 2015-01-01 | 2014. évi XCIX. törvény | 2012-5-00-00.21 |

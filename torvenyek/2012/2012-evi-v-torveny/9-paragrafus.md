@@ -22,4 +22,4 @@ c) javaslatot tesz az Alapszabályra.
 
 (9) Az Előkészítő Bizottság által elkészített Ideiglenes Választási Szabályzat az MKK Területi Közgyűlés tisztségviselőinek és bizottságainak megválasztását követő 30. napon hatályát veszti.
 
-(10) Az MKK megalakulásával kapcsolatos költségeket a Közigazgatási és Igazságügyi Minisztérium fejezete tartalmazza.
+(10)
