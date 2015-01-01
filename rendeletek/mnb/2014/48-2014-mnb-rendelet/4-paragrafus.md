@@ -1,0 +1,1 @@
+## 3. § A 2014. évre mint tárgyidőszakra vonatkozó, 2015. január 1-jét követően teljesítendő adatszolgáltatásokra a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 23/2013. (XI. 6.) MNB rendelet szabályait kell alkalmazni.
