@@ -4,6 +4,6 @@ a) a társadalombiztosítás ellátásaira jogosultak, valamint az ellátások f
 
 b) a társadalombiztosítási nyugellátás vonatkozásában, ideértve az öregségi, rokkantsági és a baleseti rokkantsági nyugdíjat, valamint a hozzátartozói nyugellátásokat, a nyugdíjak évenkénti emelését, a nyugellátási iránti igény érvényesítését, az ezekkel összefüggő felelősségi szabályokat, a nyilvántartási és adatszolgáltatási kötelezettséget, a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényt,
 
-c) az egészségbiztosítási ellátások – ideértve az egészségügyi szolgáltatásokat és a pénzbeli ellátásokat, ezen belül a terhességi-gyermekágyi segélyt, a táppénzt; továbbá a baleseti ellátásokat, ezen belül a baleseti egészségügyi szolgáltatást, a baleseti táppénzt és a baleseti járadékot – vonatkozásában a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény, valamint
+c) az egészségbiztosítási ellátások – ideértve az egészségügyi szolgáltatásokat és a pénzbeli ellátásokat, ezen belül a csecsemőgondozási díjat, a táppénzt; továbbá a baleseti ellátásokat, ezen belül a baleseti egészségügyi szolgáltatást, a baleseti táppénzt és a baleseti járadékot – vonatkozásában a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény, valamint
 
 d) az a)–c) pontokban említett törvények felhatalmazása alapján kiadott szabályokat kell érteni.
