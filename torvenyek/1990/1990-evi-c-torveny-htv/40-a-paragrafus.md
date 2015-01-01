@@ -1,4 +1,4 @@
-## A települési adó csökkentése
+## Az adó csökkentése
 
 40/A. § (1) A székhely, illetőleg a telephely szerinti önkormányzathoz az adóévre fizetendő adóból, legfeljebb azonban annak összegéig terjedően – a (2) bekezdésben meghatározott módon – levonható az adóalany által
 

@@ -6,7 +6,7 @@
 
 ## Az adómegállapítás joga és az adókötelezettség
 
-1. § (1) E törvény felhatalmazása és rendelkezései szerint a települési (községi, városi, fővárosi és kerületi) önkormányzat képviselőtestülete (a továbbiakban: önkormányzat) rendelettel az illetékességi területén helyi adókat (a továbbiakban: adót) vezethet be.
+1. § (1) E törvény felhatalmazása és rendelkezései szerint a települési (községi, városi, fővárosi és kerületi) önkormányzat képviselőtestülete (a továbbiakban: önkormányzat) rendelettel az illetékességi területén helyi adókat (a továbbiakban: adót), valamint települési adókat vezethet be.
 
 (2) A főváros esetében az építményadót, a telekadót, a magánszemély kommunális adóját és az idegenforgalmi adót a (3) bekezdés kivételével a kerületi önkormányzat, a helyi iparűzési adót a fővárosi önkormányzat jogosult bevezetni.
 

@@ -6,7 +6,7 @@
 
 (2) Az előlegfizetési időszak – a (3) bekezdésben foglaltak kivételével – a bevallás-benyújtás esedékességét követő második naptári hónap első napjával kezdődő 12 hónapos időszak.
 
-(3) Az adóköteles tevékenységét az önkormányzat illetékességi területén az adóév közben kezdő, valamint az átalakulással létrejött vállalkozó esetén, továbbá ha az önkormányzat az adót első alkalommal vagy év közben vezeti be, az előlegfizetési időszak az adókötelezettség, átalakulás, adóbevezetés kezdő napjától az azt követő adóév első félévének utolsó napjáig terjedő időtartam.
+(3) Az adóköteles tevékenységét az önkormányzat illetékességi területén az adóév közben kezdő, valamint az átalakulással, egyesüléssel, szétválással létrejött vállalkozó esetén, továbbá ha az önkormányzat az adót első alkalommal vagy év közben vezeti be, az előlegfizetési időszak az adókötelezettség, átalakulás, egyesülés, szétválás, adóbevezetés kezdő napjától az azt követő adóév első félévének utolsó napjáig terjedő időtartam.
 
 (4) Nem kell adóelőleget bejelenteni, bevallani:
 

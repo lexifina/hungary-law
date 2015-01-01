@@ -1,14 +1,16 @@
-## Tájékoztatás a bevezetett helyi adók szabályairól
+## Tájékoztatás a bevezetett helyi adók és települési adók szabályairól
 
-42/B. § (1) Az önkormányzati adóhatóság az önkormányzati adórendelet, valamint annak módosítása kihirdetésétől számított 5 napon belül – a kincstár elektronikus rendszerén keresztül – adatot szolgáltat a kincstár számára:
+42/B. § (1) Az önkormányzati adóhatóság az önkormányzati adórendelet, valamint annak módosítása hatályba lépését megelőző hónap ötödik napjáig – a kincstár elektronikus rendszerén keresztül – adatot szolgáltat a kincstár számára:
 
-a) a helyi adónem bevezetésének napjáról,
+a) a helyi adónem, a települési adónem bevezetésének napjáról,
 
-b) az önkormányzat által megállapított adómérték, adókedvezmény, adómentesség szövegéről,
+b) az önkormányzat által megállapított adóalap, adómérték, adókedvezmény, adómentesség szövegéről,
 
 c) a b) pontban említett rendelkezések hatályba lépésének napjáról,
 
-d) az önkormányzat honlapjának címéről, valamint legalább egy adóügyi információs telefonszámról, elektronikus levélcímről, és az önkormányzati adóhatóság levelezési címéről (a továbbiakban: elérhetőségi információk).
+d) az önkormányzat honlapjának címéről, valamint legalább egy adóügyi információs telefonszámról, elektronikus levélcímről, és az önkormányzati adóhatóság levelezési címéről (a továbbiakban: elérhetőségi információk),
+
+e) a helyi adónem, a települési adónem pénzforgalmi jelzőszámáról.
 
 (2) A kincstár a hozzá beérkezett adatokat és elérhetőségi információkat feldolgozza és a honlapján – települések szerinti bontásban – első alkalommal 2013. január 1-jéig közzéteszi. A kincstár a honlapján közzétett adatokat az önkormányzati adóhatóságoktól az (1) bekezdés szerint beérkezett adatokkal havonta, az önkormányzati adóhatóság adatszolgáltatását követő hónap 5. napjáig módosítja.
 
