@@ -24,6 +24,6 @@
 
 | 1. | matematika |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: biológia, fizika, földrajz, kémia, matematika.” |
 
-2. melléklet a 335/2014. (XII. 18.) Korm. rendelethez[^26]
+2. melléklet a 335/2014. (XII. 18.) Korm. rendelethez[^22]
 
-[^26]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

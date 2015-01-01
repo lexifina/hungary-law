@@ -1,19 +1,18 @@
 ## 17. § A Rendelet
 
-a)–f)[^19]
+a)–f)[^17]
 
-g)–h)[^20]
+g)–h)[^18]
 
-i)[^21]
+i)[^19]
 
-j)[^22]
+j) 24. § (1) bekezdés c) pontjában a „terhességi-gyermekágyi segélyben” szövegrész helyébe a „csecsemőgondozási díjban”,
 
-k)–o)[^23]
+k)–o)[^20]
 
 szöveg lép.
 
-[^19]: A 17. § a)–f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 17. § g)–h) pontja a 19. § (4) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^21]: A 17. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 17. § j) pontja a 19. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^23]: A 17. § k)–o) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 17. § a)–f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 17. § g)–h) pontja a 19. § (4) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^19]: A 17. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 17. § k)–o) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
