@@ -4,4 +4,4 @@
 
 ## 4. Az NKFI Hivatal jogállása
 
-### 6–7. §
+6. § Az NKFI Hivatal kormányhivatalként működő központi költségvetési szerv.
