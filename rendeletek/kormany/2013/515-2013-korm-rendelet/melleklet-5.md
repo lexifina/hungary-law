@@ -1,6 +1,6 @@
 ## A kormányablak kizárólag tájékoztatást nyújt az alábbi esetekben
 
-## 1. Terhességi-gyermekágyi segély iránti kérelem
+## 1.[^20] Csecsemőgondozási díj iránti kérelem
 
 ## 2. Gyermekgondozási díj iránti kérelem
 
@@ -43,3 +43,5 @@
 ## 21. A második magánútlevél kiállítása iránt elektronikus úton benyújtott kérelemre induló eljárás
 
 5. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
+
+[^20]: A 4. melléklet 1. pontja a 397/2014. (XII. 31.) Korm. rendelet 93. § 3. pontja szerint módosított szöveg.

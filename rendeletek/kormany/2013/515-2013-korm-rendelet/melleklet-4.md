@@ -40,7 +40,7 @@
 
 ## 20. Építésügyi hatósági szolgáltatás iránti kérelem
 
-## 21.[^16] Műemlékre kiterjedő, az államot megillető elővásárlási jognyilatkozat iránti kérelem
+## 21.[^17] Műemlékre kiterjedő, az államot megillető elővásárlási jognyilatkozat iránti kérelem
 
 ## 22. Az építőipari vállalkozói kivitelezői tevékenység bejelentése
 
@@ -114,7 +114,7 @@
 
 ## 57. Az Egészségbiztosítási Alap terhére méltányosságból adható egyszeri segély iránti kérelem
 
-## 58. Táppénz, gyermekápolási táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj megállapítása iránti méltányossági kérelem
+## 58.[^18] Táppénz, gyermekápolási táppénz, csecsemőgondozási díj, gyermekgondozási díj megállapítása iránti méltányossági kérelem
 
 ## 59. Nevelési ellátásra való jogosultság megállapítása iránti kérelem (családi pótlék)
 
@@ -124,7 +124,7 @@
 
 ## 62. Vándortábor útvonalának több népegészségügyi szolgálat területi illetékességét érintő bejelentése
 
-## 63.[^17]
+## 63.[^19]
 
 ## 64. Gyermek családi és utónevének megállapítása iránti kérelem
 
@@ -284,5 +284,6 @@
 
 4. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
-[^16]: A 3. melléklet 21. pontja a 221/2014. (IX. 4.) Korm. rendelet 791. § d) pontja szerint módosított szöveg.
-[^17]: A 3. melléklet 63. pontját a 131/2014. (IV. 18.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^17]: A 3. melléklet 21. pontja a 221/2014. (IX. 4.) Korm. rendelet 791. § d) pontja szerint módosított szöveg.
+[^18]: A 3. melléklet 58. pontja a 397/2014. (XII. 31.) Korm. rendelet 93. § 2. pontja szerint módosított szöveg.
+[^19]: A 3. melléklet 63. pontját a 131/2014. (IV. 18.) Korm. rendelet 4. §-a hatályon kívül helyezte.
