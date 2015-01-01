@@ -1,6 +1,6 @@
 ## 3. A felnőttképzési szakértői és a felnőttképzési programszakértői tevékenység folytatásának engedélyezése
 
-5. § (1) A felnőttképzési szakértői tevékenység folytatására irányuló engedély kiadása iránti kérelmet az NMH-hoz, felnőttképzési programszakértői tevékenység folytatására irányuló engedély kiadása iránti kérelmet a Magyar Kereskedelmi és Iparkamarához (a továbbiakban: Kamara) kell benyújtani (a továbbiakban együtt: engedélyező hatóság).
+5. § (1)[^4] A felnőttképzési szakértői tevékenység folytatására irányuló engedély kiadása iránti kérelmet az NSZFH-hoz, felnőttképzési programszakértői tevékenység folytatására irányuló engedély kiadása iránti kérelmet a Magyar Kereskedelmi és Iparkamarához (a továbbiakban: Kamara) kell benyújtani (a továbbiakban együtt: engedélyező hatóság).
 
 (2) Az (1) bekezdés szerinti kérelem tartalmazza
 
@@ -47,3 +47,5 @@ d) az illetékekről szóló törvény szerinti általános tételű eljárási 
 (5) A (3) bekezdés c) pontjában foglaltaktól eltérően, ha a kérelem benyújtásának időpontjában a kérelmező olyan munkakört tölt be, amelynek feltétele a büntetlen előélet igazolása, a (3) bekezdés c) pontjában foglaltak helyett a kérelmező a munkáltató ilyen tartalmú igazolását is mellékelheti kérelméhez.
 
 (6) Az (1) bekezdés szerinti kérelem több – az 1. § (1)–(3) bekezdése szerinti – szakterületre és rész-szakterületre is benyújtható.
+
+[^4]: Az 5. § (1) bekezdése az 55/2014. (XII. 31.) NGM rendelet 18. § c) pontja szerint módosított szöveg.

@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-14-20-2
 | 2014-05-01 | 2014-14-20-2X.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-05-02 | 2014-14-20-2X.4 | 2010: CXXX. törvény |
 | 2014-09-01 | 2014-14-20-2X.5 | 25/2014. (VIII. 26.) NGM rendelet |
+| 2015-01-01 | 2014-14-20-2X.6 | 55/2014. (XII. 31.) NGM rendelet |

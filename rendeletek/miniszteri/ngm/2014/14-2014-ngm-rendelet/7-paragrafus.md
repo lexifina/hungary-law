@@ -8,7 +8,7 @@ b) továbbképzése teljesítésének tényét a teljesítést igazoló tanúsí
 
 c) tevékenysége felfüggesztésének vagy szünetelésének tényét, és annak kezdő és befejező időpontját.
 
-(2) A szakértő a névjegyzékben szereplő adataiban bekövetkezett változást, valamint a tevékenysége végzéséhez az Fktv.-ben és e rendeletben meghatározott feltételek hiányát az adatváltozás keletkezésétől számított nyolc napon belül köteles bejelenteni a nyilvántartást vezető NMH-hoz vagy a Kamarához, amely a bejelentéstől számított öt munkanapon belül intézkedik
+(2)[^5] A szakértő a névjegyzékben szereplő adataiban bekövetkezett változást, valamint a tevékenysége végzéséhez az Fktv.-ben és e rendeletben meghatározott feltételek hiányát az adatváltozás keletkezésétől számított nyolc napon belül köteles bejelenteni a nyilvántartást vezető NSZFH-hoz vagy a Kamarához, amely a bejelentéstől számított öt munkanapon belül intézkedik
 
 a) a nyilvántartás adatainak bejelentés szerinti módosításáról, vagy
 
@@ -19,3 +19,5 @@ ba) a szakértői engedély módosításáról,
 bb) a szakértői engedély visszavonásáról és a szakértő névjegyzékből való törléséről.
 
 (3) A felnőttképzési programszakértő – a (2) bekezdésben foglaltakon túlmenően – a 3. § (1) bekezdésben előírt továbbképzési kötelezettsége teljesítését a továbbképzést záró vizsga időpontjától számított nyolc napon belül köteles bejelenteni a Kamarának.
+
+[^5]: A 7. § (2) bekezdése az 55/2014. (XII. 31.) NGM rendelet 18. § c) pontja szerint módosított szöveg.

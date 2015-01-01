@@ -1,6 +1,6 @@
-## 13. §[^2]
+## 13. §[^8]
 
-14–15. §[^3]
+14–15. §[^9]
 
 Melléklet a 14/2014. (III. 31.) NGM rendelethez
 
@@ -264,5 +264,5 @@ III. Felnőttképzési programszakértők
 
 4.4. Konfliktuskezelés
 
-[^2]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
