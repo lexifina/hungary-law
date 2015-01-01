@@ -6,7 +6,7 @@
 
 2. behajtási jogsegély: az információkérés, a kézbesítés, a behajtás és a biztosítási intézkedés iránti megkereséssel kapcsolatos, 22–41. §-ban szabályozott eljárás;
 
-3. kettős adóztatás elkerüléséről szóló egyezmény: Magyarország és más állam között a kettős adóztatás elkerülése tárgyában létrejött, jogszabályban kihirdetett nemzetközi szerződés;
+3. nemzetközi adóegyezmény: Magyarország által a kettős adóztatás elkerülése tárgyában más állammal kötött, továbbá két- vagy többoldalú adóügyi információcserét, valamint adóügyi együttműködést szabályozó, jogszabályban kihirdetett nemzetközi szerződés;
 
 4. Választottbírósági Egyezmény: a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló, 1990. július 23-án Brüsszelben aláírt Egyezmény, az Osztrák Köztársaságnak, a Finn Köztársaságnak és a Svéd Királyságnak a társult vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv, a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló 1990. július 23-i egyezmény módosításáról szóló Jegyzőkönyv, valamint a Cseh Köztársaságnak, az Észt Köztársaságnak, a Ciprusi Köztársaságnak, a Lett Köztársaságnak, a Litván Köztársaságnak, a Magyar Köztársaságnak, a Máltai Köztársaságnak, a Lengyel Köztársaságnak, a Szlovén Köztársaságnak és a Szlovák Köztársaságnak a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló Egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv kihirdetéséről szóló 2006. évi XXXVI. törvény (a továbbiakban: Vtv.) 3–6. §-a szerinti egyezmény;
 
@@ -28,7 +28,7 @@
 
 1. bevált gyakorlatok és tapasztalatok megosztása iránti eljárás: az Európai Bizottság és az Európai Unió tagállamai hatáskörrel rendelkező hatóságainak együttműködése az adózás területén való közigazgatási együttműködésről és a 77/799/EK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU irányelv 15. cikke szerint;
 
-2. formanyomtatvány: az adózás területén való közigazgatási együttműködésről és a 77/799/EK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU irányelv 26. cikk (2) bekezdése szerinti eljárással összhangban az Európai Bizottság által elfogadott formanyomtatvány;
+2. formanyomtatvány, egységes számítógépes formátum: az adózás területén való közigazgatási együttműködésről és a 77/799/EK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU tanácsi irányelv 20. cikk (4) bekezdése, illetve a 26. cikk (2) bekezdése szerinti eljárással összhangban az Európai Bizottság által elfogadott formanyomtatvány, egységes számítógépes formátum;
 
 3. információcsere iránti megkeresés esetén alkalmazott formanyomtatvány: olyan formanyomtatvány, amely legalább a következő információkat tartalmazza:
 
@@ -48,13 +48,15 @@ A formanyomtatványban olyan személy neve és címe is megjelölhető, aki a me
 
 8. központi kapcsolattartó iroda: az adómegállapítási jogsegély területén elsődlegesen felelős szerv, szervezeti egység, amely ellátja az Európai Unió más tagállamával és az Európai Bizottsággal való kapcsolattartási feladatokat. A központi kapcsolattartó iroda ellátja az egyidejű ellenőrzések koordinációjával kapcsolatos feladatokat és a kijelölt illetékes tisztviselőkről nyilvántartást vezet. Egyidejűleg kizárólag egy központi kapcsolattartó iroda jelölhető ki;
 
-9. megkeresett hatóság: az Európai Unió tagállamának központi kapcsolattartó irodája, kapcsolattartó szerve vagy illetékes tisztviselője, aki (amely) a hatáskörrel rendelkező hatóság nevében az adómegállapítási jogsegéllyel kapcsolatos megkeresést, spontán információcserét fogadja;
+9. megkeresett hatóság: az Európai Unió tagállamának központi kapcsolattartó irodája, kapcsolattartó szerve vagy illetékes tisztviselője, aki (amely) a hatáskörrel rendelkező hatóság nevében az adómegállapítási jogsegéllyel kapcsolatos megkeresést, spontán, valamint automatikus információcserét fogadja;
 
 10. megkeresésre történő információcsere: egy adott esetben a megkereső hatóság megkeresett hatósághoz intézett megkeresésén alapuló információcsere;
 
-11. megkereső hatóság: az Európai Unió tagállamának központi kapcsolattartó irodája, kapcsolattartó szerve vagy illetékes tisztviselője, aki (amely) a hatáskörrel rendelkező hatóság nevében az adómegállapítási jogsegéllyel kapcsolatban megkeresést, spontán információcserét teljesít;
+11. megkereső hatóság: az Európai Unió tagállamának központi kapcsolattartó irodája, kapcsolattartó szerve vagy illetékes tisztviselője, aki (amely) a hatáskörrel rendelkező hatóság nevében az adómegállapítási jogsegéllyel kapcsolatban megkeresést, spontán, valamint automatikus információcserét teljesít;
 
 12. spontán információcsere: az információ bármely időpontban történő, előzetes megkeresés nélküli nem rendszeres közlése az Európai Unió más tagállamának hatáskörrel rendelkező hatóságával;
+
+12a. automatikus információcsere: meghatározott információ előre meghatározott időszakonként történő, előzetes megkeresés nélküli rendszeres közlése az Európai Unió más tagállamának hatáskörrel rendelkező hatóságával;
 
 13. statisztikai adatok jegyzéke: az adózás területén való közigazgatási együttműködésről és a 77/799/EK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU irányelv 26. cikk (2) bekezdése szerinti eljárással összhangban az Európai Bizottság által meghatározott formában, tartalommal és eljárásrendben teljesítendő statisztikai jellegű tájékoztatási kötelezettség;
 
@@ -68,7 +70,13 @@ c) a magyar jogszabályok alkalmazásában, valamint ha a más tagállam jogszab
 
 d) egyéb, bármely jellegű és formájú, jogi személyiséggel rendelkező vagy nem rendelkező jogi konstrukció, amely olyan eszközöket birtokol vagy kezel, amelyekre – az eszközökből származó jövedelmet is ideértve – az 5. § (1) bekezdés szerinti adókat kivetik, vagy
 
-e) a magyar jogszabályok alkalmazásában az a)–d) pont hatálya alá nem tartozó adózó.
+e) a magyar jogszabályok alkalmazásában az a)–d) pont hatálya alá nem tartozó adózó;
+
+15. életbiztosítás: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 3. § 92. pontjában meghatározott személybiztosítás;
+
+16. nyugdíj: az Szja tv. 3. § 23. pontjában meghatározott jövedelem (ide nem értve a 23. pont c) alpontja szerinti nyugdíjszolgáltatást);
+
+17. ingatlan hasznosításából származó jövedelem: az ingatlan birtoklásának, használatának átengedéséből és hasznainak szedéséből, az ingatlan feletti rendelkezési jog gyakorlásából származó jövedelem (így különösen az ingatlan értékesítéséből, bérbeadásából, haszonbérbe adásából, az ingatlanra vonatkozó vagyoni értékű jog ellenérték fejében történő alapításából, az arról való lemondásból, illetve a joggyakorlás átengedéséből származó jövedelem).
 
 (4) E törvény III. Fejezete alkalmazásában
 

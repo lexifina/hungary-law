@@ -5,3 +5,5 @@
 (3) Az adómegállapítási jogsegély keretében közölt információt lehetőség szerint a CCN-hálózat alkalmazásával, elektronikus úton kell továbbítani.
 
 (4) Az adómegállapítási jogsegély keretében küldött megkeresés és egyéb nyilatkozat, valamint az előbbiekhez mellékelt okirat bármely, a megkereső hatóság és a megkeresett hatóság megállapodása szerinti nyelven továbbítható. A megkeresett hatóság indokolt kérelmére a megkereséshez a megkeresett hatóság tagállamának valamely hivatalos nyelvén készített fordítást kell mellékelni.
+
+(5) Az automatikus információcsere keretében továbbított információt egységes számítógépes formátum használatával kell továbbítani.

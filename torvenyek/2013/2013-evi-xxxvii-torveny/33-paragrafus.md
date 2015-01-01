@@ -2,7 +2,7 @@
 
 33. § (1) A magyar megkeresett hatóság a 22–32. § szerinti megkeresést elutasítja, ha
 
-a) a megkeresés olyan követelésre vonatkozik, amelynek a megkereső tagállam joga szerinti esedékességi napja és a megkeresés beérkezésének napja között több mint öt naptári év telt el, vagy
+a) a megkeresés olyan követelésre vonatkozik, amelynek a megkereső tagállam joga szerinti esedékességi napja és a megkeresés – ismételt megkeresés esetén az eredeti megkeresés – beérkezésének napja között több mint öt naptári év telt el, vagy
 
 b) a (3) és (4) bekezdésben foglalt esetekben a követelés esedékességének a megkeresés tagállambeli időpontjától számított több mint tíz naptári év eltelt, vagy
 
