@@ -10,4 +10,22 @@ c) azonnal a gyermekkel és a fiatal felnőttel kapcsolatos rendkívüli esemén
 
 d) azonnal a gyermeknek a nevelőszülőtől történő huszonnégy órát meghaladó engedély nélküli eltávozásáról, és
 
-e) azonnal a saját életkörülményeiben bekövetkezett vagy várható lényeges változásról, valamint olyan tényről, mely lényeges változást eredményezhet az általa nevelt gyermek életében, így különösen a Gyvt. 15. § (8) bekezdésében meghatározott kizáró ok bekövetkeztéről, a nevelőszülő családi állapotának megváltozásáról, a családstruktúrában történt változásról, a nevelőszülői tevékenysége mellett folytatott keresőtevékenysége megszűnéséről, anyagi helyzetében bekövetkezett rendkívül kedvezőtlen változásról, lakóhely megváltoztatásának szándékáról, harminc napnál hosszabb időre történő külföldre utazás szándékáról, egészségi állapotában beálló olyan romlásról, melynek következtében a későbbiekben feltételezhetően hosszabb ideig nem lesz képes ellátni a gyermeket.
+e)[^7] azonnal a saját életkörülményeiben bekövetkezett vagy várható lényeges változásról, valamint olyan tényről, mely lényeges változást eredményezhet az általa nevelt gyermek életében, így különösen
+
+ea) a Gyvt. 15. § (8) bekezdésében meghatározott kizáró ok bekövetkeztéről,
+
+eb) a nevelőszülő családi állapotának megváltozásáról, a családstruktúrában történt változásról,
+
+ec) a nevelőszülői tevékenysége mellett folytatott keresőtevékenysége megszűnéséről,
+
+ed) az anyagi helyzetében bekövetkezett rendkívül kedvezőtlen változásról,
+
+ee) a vele szemben megindított végrehajtási eljárásról,
+
+ef) a lakóhely megváltoztatásának szándékáról,
+
+eg) a harminc napnál hosszabb időre történő külföldre utazás szándékáról,
+
+eh) az egészségi állapotában beálló olyan romlásról, melynek következtében a későbbiekben feltételezhetően hosszabb ideig nem lesz képes ellátni a gyermeket.
+
+[^7]: A 14. § e) pontja a 353/2014. (XII. 29.) Korm. rendelet 84. §-ával megállapított szöveg.

@@ -1,5 +1,3 @@
-## 7. § A nevelőszülőnek jelentkező személy vagy a nevelőszülő kérheti az Országos Képzési Jegyzékben szereplő nevelőszülő szakképzést szervező képzőintézménytől felsőfokú végzettségének, felsőfokú szakképzésben szerzett szakképzettségének és előzetes munkatapasztalatának a nevelőszülő szakképzés szakmai és vizsgakövetelményei teljesítésébe való beszámítását.
-
 8. § (1) Határozott idejű nevelőszülői foglalkoztatási jogviszony kivételesen létesíthető a nevelőszülő beleegyezésével,
 
 a) helyettesítés céljából, ha a helyettesítendő nevelőszülőt előreláthatólag legalább egy hónap időtartamra helyettesíteni kell, továbbá

@@ -6,4 +6,6 @@
 
 (3) A működtető környezettanulmányt készít annak megállapítása érdekében, hogy a befogadó szülőnek jelentkező személy körülményei alkalmasak-e a gyermek fogadására.
 
-(4) A befogadó szülőnek jelentkező személy háziorvosi véleménnyel igazolja a működtető felé, hogy a vele egy háztartásban élő személy egészségi állapota nem veszélyezteti az ellátandó gyermeket.
+(4)[^1] A befogadó szülőnek jelentkező személy háziorvosi véleménnyel igazolja a működtető felé, hogy a saját és vele egy háztartásban élő személy egészségi állapota nem veszélyezteti az ellátandó gyermeket.
+
+[^1]: A 2. § (4) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 89. §-a szerint módosított szöveg.

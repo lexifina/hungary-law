@@ -10,7 +10,7 @@ b) a nevelőszülő élethelyzetének megváltozása,
 
 c) a nevelőszülő egészségi állapotának, személyiségállapotának romlása, vagy
 
-d) a nevelőszülő magatartása, így különösen a Gyvt. 66/D. § (8) bekezdésében meghatározott magatartás
+d)[^2] a nevelőszülő magatartása
 
 ## szükségessé teszi.
 
@@ -21,3 +21,5 @@ d) a nevelőszülő magatartása, így különösen a Gyvt. 66/D. § (8) bekezd�
 (5) Ha a működtető arról tájékoztatja a nevelőszülőnek jelentkező személyt vagy a nevelőszülőt, hogy pszichológiai szempontból nem tartja alkalmasnak a nevelőszülői feladat ellátására, a nevelőszülő a Nemzeti Család- és Szociálpolitikai Intézetnél kérelmezheti pszichológiai alkalmasságának ismételt vizsgálatát. A pszichológiai alkalmasság ismételt vizsgálatának költségei a nevelőszülőt terhelik.
 
 (6) A pszichológiai alkalmasság ismételt vizsgálatát a Nemzeti Család- és Szociálpolitikai Intézet felkérésére két, az Országos Gyermekvédelmi Szakértői Névjegyzék „Gyermekek, illetve a gyámhatósági eljárásban érintett személyek személyiségvizsgálata” szakterületére felvett pszichológus szakértő végzi. A működtető a pszichológus szakértők írásbeli véleményének figyelembevételével ismételten dönt az alkalmasságról, amelynek eredményéről írásban értesíti a nevelőszülőnek jelentkező személyt vagy a nevelőszülőt.
+
+[^2]: A 6. § (2) bekezdés d) pontja a 353/2014. (XII. 29.) Korm. rendelet 90. § a) pontja szerint módosított szöveg.
