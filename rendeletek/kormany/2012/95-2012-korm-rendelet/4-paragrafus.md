@@ -24,6 +24,6 @@ j) a Jelnyelvi Tolmácsok Országos Névjegyzékével,
 
 k) a Foglalkozási Rehabilitációs Szakértői Névjegyzékkel
 
-l)[^5] a Rehabilitációs Orvosszakértői Névjegyzékkel
+l)[^6] a Rehabilitációs Orvosszakértői Névjegyzékkel
 
-[^5]: A 4. § l) pontját a 317/2012. (XI. 13.) Korm. rendelet 44. §-a iktatta be.
+[^6]: A 4. § l) pontját a 317/2012. (XI. 13.) Korm. rendelet 44. §-a iktatta be.

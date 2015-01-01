@@ -1,4 +1,4 @@
-## 25–46. §[^23]
+## 25–46. §[^27]
 
 1. melléklet a 95/2012. (V. 15.) Korm. rendelethez
 
@@ -42,4 +42,4 @@ A rehabilitációs szakigazgatási szervek
 
 19. Zala Megyei Kormányhivatal Rehabilitációs Szakigazgatási Szerve
 
-[^23]: A 25–46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 25–46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
