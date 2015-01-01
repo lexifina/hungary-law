@@ -90,13 +90,13 @@
 
 3. melléklet a 34/2013. (V. 14.) EMMI rendelethez[^3]
 
-Az előadó-művészeti tevékenységre kapott társaságiadó-kedvezményre jogosító támogatás elszámolása
+Az előadó-művészeti tevékenységre kapott társaságiadó-kedvezmény igénybevételére jogosító támogatás, valamint a támogatáshoz kapcsolódóan kapott kiegészítő támogatás elszámolása
 
 I. Költségvetési szervként működő előadó-művészeti szervezet
 
 | Pénzügyi elszámolás Adatok ezer Ft-ban |
 
-| Sorszám | Megnevezés | Tárgyév december 31-ig ténylegesen kifizetett kiadások/költségek | Tárgyév december 31-ig ki nem fizetett, tárgyévet követő év június 30-ig felhasznált kiadások és költségek | Összesen |
+| Sorszám | Megnevezés | Tárgyév december 31-ig felhasznált támogatás (ténylegesen kifizetett kiadások/költségek) | Tárgyév december 31-ig ki nem fizetett, tárgyévet követő év június 30-ig felhasznált támogatás | Összesen |
 
 | I. | Előadó-művészeti tevékenységhez, produkció/előadás/koncert létrehozásához, fenntartásához kapcsolódó kiadások összesen (1+2+3+4) |  |  |  |
 
@@ -120,11 +120,13 @@ I. Költségvetési szervként működő előadó-művészeti szervezet
 
 | III. | Kiadások mindösszesen (I+II) |  |  |  |
 
-| IV. | Bevételek |  |  |
+| IV. Bevételek |
 
-| IV/1. | Az EGT-tagállamokban a tárgyévet megelőző évben realizált, általános forgalmi adóval csökkentett, tényleges jegy- és bérletbevétel |  |
+| IV/1. | Az EGT-tagállamokban a tárgyévet megelőző évben realizált, általános forgalmi adóval csökkentett, tényleges jegy- és bérletbevétel |  |  |
 
-| IV/2. | Az előadó-művészeti tevékenységre kapott, társaságiadó-kedvezményre jogosító támogatás |  |
+| IV/2. | Az előadó-művészeti tevékenységhez kapott, társaságiadó-kedvezmény igénybevételére jogosító támogatás |  |
+
+| IV/3. | Az előadó-művészeti tevékenységhez kapott, társaságiadó-kedvezmény igénybevételére jogosító támogatáshoz kapcsolódóan befogadott kiegészítő támogatás |  |
 
 | V. Tájékoztató adatok |
 
@@ -134,13 +136,19 @@ I. Költségvetési szervként működő előadó-művészeti szervezet
 
 | V/3. | Tárgyévi, általános forgalmi adóval csökkentett tényleges jegy- és bérletbevétel |  |
 
+Büntetőjogi felelősségem tudatában nyilatkozom, hogy a fenti adatokhoz kapcsolódó bizonylatok az előadó-művészeti szervezet könyvelésében megtalálhatóak, továbbá igazolom a támogatás jogszabályban előírt módon történő felhasználását. Az elszámolásban feltüntetett és csatolt bizonylat másolatainak érvénytelenítése (a vonatkozó, társaságiadó-kedvezményre jogosító támogatás támogatójának neve, illetve a felhasználni kívánt összeg feltüntetése) megtörtént. Igazolom továbbá, hogy az itt elszámolt tételeket más elszámolásban nem szerepeltetem/nem szerepeltettem és a jövőben sem szerepeltetem. Nyilatkozom, hogy a feltüntetett költségek kifizetése előtt azok jogosságáról és összegszerűségéről, ellenszolgáltatás teljesítését igénylő kifizetés előtt az ellenszolgáltatás teljesítéséről is előzetesen meggyőződtem.
+
+.................................................................. ..........................................................
+
+Előadó-művészeti szervezet Fenntartó
+
 II. Gazdasági társaságként vagy civil szervezetként működő előadó-művészeti szervezet
 
 | Pénzügyi elszámolás Adatok ezer Ft-ban |
 
-| Sorszám | Megnevezés | Tárgyév december 31-ig ténylegesen kifizetett kiadások/költségek | Tárgyév december 31-ig ki nem fizetett, tárgyévet követő év június 30-ig felhasznált kiadások és költségek | Összesen |
+| Sorszám | Megnevezés | Tárgyév december 31-ig felhasznált támogatás (ténylegesen kifizetett kiadások/költségek) | Tárgyév december 31-ig ki nem fizetett, tárgyévet követő év június 30-ig felhasznált támogatás | Összesen |
 
-| I. | Előadó-művészeti tevékenységhez, produkció/ előadás/koncert létrehozásához, fenntartásához kapcsolódó kiadások összesen (1+2+3+4) |  |  |  |
+| I. | Előadó-művészeti tevékenységhez, produkció/előadás/koncert létrehozásához, fenntartásához kapcsolódó kiadások összesen (1+2+3+4) |  |  |  |
 
 | I/1. | Előadó-művészeti tevékenységhez kapcsolódó, bérjellegű ráfordítások között elszámolt bérköltség és személyi jellegű egyéb kifizetések (munkabérek, megbízási díjak) |  |  |  |
 
@@ -162,22 +170,26 @@ II. Gazdasági társaságként vagy civil szervezetként működő előadó-műv
 
 | III. | Kiadások mindösszesen (I+II) |  |  |  |
 
-| IV. | Bevételek |  |  |
+| IV. Bevételek |
 
-| IV/1. | Az EGT-tagállamokban a tárgyévet megelőző évben realizált, általános forgalmi adóval csökkentett, tényleges jegy- és bérletbevétel |  |
+| IV/1. | Az EGT-tagállamokban a tárgyévet megelőző évben realizált, általános forgalmi adóval csökkentett, tényleges jegy- és bérletbevétel |  |  |  |
 
-| IV/2. | Az előadó-művészeti tevékenységre kapott, társaságiadó-kedvezményre jogosító támogatás |  |
+| IV/2. | Az előadó-művészeti tevékenységhez kapott, társaságiadó-kedvezmény igénybevételére jogosító támogatás |  |
+
+| IV/3. | Az előadó-művészeti tevékenységhez kapott, társaságiadó-kedvezmény igénybevételére jogosító támogatáshoz kapcsolódóan befogadott kiegészítő támogatás |  |  |
 
 | V. Tájékoztató adatok |
 
-| V/1. | Tárgyévi fenntartói támogatás |  |  |
+| V/1. | Tárgyévi fenntartói támogatás |  |  |  |
 
 | V/2. | Tárgyévi saját bevétel |  |
 
-| V/3. | Tárgyévi, általános forgalmi adóval csökkentett tényleges jegy-és bérletbevétel |  |
+| V/3. | Tárgyévi, általános forgalmi adóval csökkentett tényleges jegy- és bérletbevétel |  |
 
 Büntetőjogi felelősségem tudatában nyilatkozom, hogy a fenti adatokhoz kapcsolódó bizonylatok az előadó-művészeti szervezet könyvelésében megtalálhatóak, továbbá igazolom a támogatás jogszabályban előírt módon történő felhasználását. Az elszámolásban feltüntetett és csatolt bizonylat másolatainak érvénytelenítése (a vonatkozó, társaságiadó-kedvezményre jogosító támogatás támogatójának neve, illetve a felhasználni kívánt összeg feltüntetése) megtörtént. Igazolom továbbá, hogy az itt elszámolt tételeket más elszámolásban nem szerepeltetem/nem szerepeltettem és a jövőben sem szerepeltetem. Nyilatkozom, hogy a feltüntetett költségek kifizetése előtt azok jogosságáról és összegszerűségéről, ellenszolgáltatás teljesítését igénylő kifizetés előtt az ellenszolgáltatás teljesítéséről is előzetesen meggyőződtem.
 
-| .................................................................. .......................................................... Előadó-művészeti szervezet Fenntartó |
+.......................................................... ..................................................................
 
-[^3]: A 3. melléklet az 52/2013. (VII. 15.) EMMI rendelet 16. §-a szerint módosított szöveg.
+Előadó-művészeti szervezet Fenntartó
+
+[^3]: A 3. melléklet a 27/2014. (IV. 8.) EMMI rendelet 6. §-ával megállapított szöveg.
