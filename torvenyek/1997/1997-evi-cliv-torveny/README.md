@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 1997-154-00-00.66 |
 | 2014-07-23 | 24/2014. (VII. 22.) AB határozat | 1997-154-00-00.67 |
 | 2014-12-31 | 2014. évi CXI. törvény | 1997-154-00-00.68 |
+| 2015-01-01 | 2014. évi CXI. törvény | 1997-154-00-00.69 |

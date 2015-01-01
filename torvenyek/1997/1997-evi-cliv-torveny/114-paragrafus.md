@@ -6,7 +6,7 @@
 
 a) a 111. § (3) bekezdése és a 112. § (4) bekezdése szerinti adatokat,
 
-b) a 116/C. § (2) bekezdése szerinti adatokat,
+b) a 116/C. § (2) bekezdés a) és f) pontja szerinti adatokat,
 
 c) a szakképzésről szóló törvény alapján egészségügyi szakképesítést, valamint a nem konvencionális eljárások körébe tartozó szakképesítést szerzettek, illetve a képzésben részt vevők számára és szakképesítés szerinti megoszlására vonatkozó adatokat,
 
@@ -32,7 +32,7 @@ m) az Ehi. 6. § (4) bekezdése, valamint a 6/A. § (2) bekezdése szerinti nyil
 
 n) az egészségbiztosítási államigazgatási szervvel közvetlenül fennálló finanszírozási szerződés alapján az alapellátás körébe tartozó egészségügyi tevékenységet végző egészségügyi szolgáltatók egészségügyi tevékenység végzésére vonatkozó miniszteri rendeletben meghatározott adatait,
 
-o) a vényírási szerződéssel rendelkező orvosok természetes személyazonosító adatait, alapnyilvántartási számát és ezen orvosok által felírt vények, illetve pro familia vények számára vonatkozó adatokat,
+o) a vényírási szerződéssel rendelkező orvosok alapnyilvántartási számát és ezen orvosok által felírt vények, beleértve a pro familia vények számára vonatkozó adatokat,
 
 p) az Eütev. 16/B. §-a alapján jövedelemkiegészítésben részesíthető egészségügyi dolgozók természetes személyazonosító adatait, valamint a részükre megállapított, az Eütev. 16/A. § szerinti pénzellátás típusára vonatkozó adatokat
 
@@ -46,7 +46,7 @@ aa) a (2) bekezdés a) pontja szerinti adatokat az alap- és működési nyilvá
 
 ab) a (2) bekezdés b) pontja szerinti adatokat a továbbképzési pontok nyilvántartását végző szerv,
 
-ac) a (2) bekezdés e) pontja szerinti adatok közül a szakképzést a 2010. évet követően megkezdőkre vonatkozó adatokat a szakorvos képzés költségvetési forrásának kezelésére kijelölt egészségügyi államigazgatási szerv, a szakképzést a 2010. évet megelőzően megkezdett személyekre vonatkozó adatokat az egészségügyi felsőfokú szakirányú szakképzést folytató egészségügyi felsőoktatási intézmények,
+ac) a (2) bekezdés e) pontja szerinti adatok közül a szakképzést a 2010. évet követően megkezdőkre vonatkozó adatokat a szakorvos képzés költségvetési forrásának kezelésére kijelölt egészségügyi államigazgatási szerv, a szakképzést a 2010. évet megelőzően megkezdett személyekre vonatkozó adatokat az egészségügyi felsőfokú szakirányú szakképzést folytató egészségügyi felsőoktatási intézmények, a szakvizsgát tett személyek 117. § (6) bekezdés a) és d) pontja szerinti adatait az egészségügyi államigazgatási szerv,
 
 ad) a (2) bekezdés f) és g) pontja szerinti adatokat az egészségügyi felsőfokú szakirányú szakképzést folytató egészségügyi felsőoktatási intézmények,
 

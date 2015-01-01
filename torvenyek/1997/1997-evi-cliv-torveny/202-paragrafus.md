@@ -4,15 +4,7 @@
 
 202. § (1) E fejezet alkalmazásában
 
-a) sejt: különálló emberi sejt vagy kötőszövet által össze nem kapcsolt emberi sejtek egy csoportja;
-
-b) szövet: az emberi test sejtekből álló valamennyi alkotórésze, ide nem értve
-
-ba) az embriót és a magzatot,
-
-bb) a vért és a véralkotórészt;
-
-c) szerv: az emberi test olyan része, amely szövetek meghatározott szerkezetű egysége, és amely megtartja szerkezetét, erezettségét és azt a képességét, hogy jelentős önállósággal élettani funkciókat tartson fenn, valamint a szerv egy része, amennyiben működése az emberi szervezetben ugyanazt a célt szolgálja, mint az egész szerv, ideértve a szerkezet és erezettség követelményét is;
+a)–c)
 
 d) szerv- és szövetátültetés: szerv és szövet eltávolítása emberi testből, valamint annak más élő személy testébe történő beültetése az emberi test bizonyos funkcióinak helyreállítása céljából;
 

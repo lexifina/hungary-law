@@ -87,7 +87,3 @@ ya) egészségügyi szakképesítés vagy
 yb) egészségügyi szakképesítéssel rendelkező személy szakmai felügyelete;
 
 z) fenntartói jogkör gyakorlója: a 155. § (1) bekezdésében meghatározott fenntartói jogok egy részét vagy összességét gyakorló szerv.
-
-4. CÍM
-
-A törvény hatálya

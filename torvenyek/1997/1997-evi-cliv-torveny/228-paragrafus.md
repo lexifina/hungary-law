@@ -10,7 +10,7 @@ a) minden – rendszerint váratlanul bekövetkező – esemény, amely a polgá
 
 b) az a) pontban meghatározott eseteken kívül bármely olyan körülmény kialakulása, amely a gyógyintézet külön jogszabály szerinti ellátási területéhez tartozó lakosság egészségügyi ellátását súlyosan és közvetlenül akadályozza, feltéve, hogy az ellátási területéhez tartozó lakosság más gyógyintézet általi ellátása aránytalan nehézséggel járna.
 
-(3) Különleges jogrend bevezetésekor az egészségügyi válsághelyzeti ellátásra vonatkozó rendelkezéseket kell alkalmazni, azonban ez esetben nem szükséges az egészségügyi válsághelyzet kihirdetése.
+(3) Különleges jogrend bevezetésekor az egészségügyi válsághelyzeti ellátásra vonatkozó rendelkezéseket kell alkalmazni az egész országra kiterjedően, azonban ez esetben nem szükséges az egészségügyi válsághelyzet kihirdetése.
 
 (4) Különleges jogrenden kívüli eseményt
 

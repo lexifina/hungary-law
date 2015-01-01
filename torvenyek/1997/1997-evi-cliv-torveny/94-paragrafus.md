@@ -20,11 +20,11 @@ g) veszélyeztető állapot vagy annak gyanúja esetén.
 
 (3) A (2) bekezdésben foglalt esetekben bárki jogosult a mentés kezdeményezésére.
 
-(4) Az (1) és (2) bekezdésben foglaltakon túl mentésnek minősül – a sürgősség igényétől függetlenül – az orvos által rendelt
+(4) Az (1) és (2) bekezdésben foglaltakon túl mentésnek minősül az orvos által kezdeményezett
 
-a) olyan mentőfeladat, amely során a beteget legalább mentőápolói felügyelettel a feltalálási helyéről egészségügyi intézménybe szállítják (mentőszállítás), vagy
+a) mentőszállítás, amely olyan mentőfeladat, amely során a beteget legalább mentőápolói felügyelettel a feltalálási helyéről egészségügyi intézménybe szállítják, és
 
-b) a beteg legalább mentőápolói felügyeletét igénylő – gyógyintézetből gyógyintézetbe történő – őrzött szállítása annak érdekében, hogy a beteg szállítása közben szükség esetén azonnali egészségügyi ellátásban részesülhessen.
+b) őrzött betegszállítás, amely a beteg legalább mentőápolói felügyeletét igénylő – gyógyintézetből gyógyintézetbe történő –, őrzött szállítása annak érdekében, hogy a beteg szállítása közben szükség esetén azonnali egészségügyi ellátásban részesülhessen.
 
 (5) Mentésnek minősül továbbá
 

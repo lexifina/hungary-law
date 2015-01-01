@@ -3,7 +3,3 @@
 (2) Fokozott sugárterhelés vagy sugárártalom, továbbá sugárzó anyaggal történt szennyezettség gyanúját az egészségügyi államigazgatási szervnek jelenteni kell.
 
 (3) A sugárzó anyaggal szennyezett területet, anyagokat és személyeket a szennyezettségtől mentesíteni kell, illetve a szennyezett anyagok használatát az egészségügyi államigazgatási szerv megtilthatja, vagy a szennyezett anyag ártalmatlanítását, illetve a szennyezett létesítmény lebontását rendelheti el.
-
-5. CÍM
-
-Munkaegészségügy

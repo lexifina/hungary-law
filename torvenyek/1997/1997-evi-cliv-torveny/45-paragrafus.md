@@ -8,4 +8,6 @@
 
 a) meg kell ismertetni a lakossággal azokat a környezetszennyező tevékenységeket, amelyekkel a saját és mások egészségét veszélyeztethetik, továbbá azokat az egészséges környezetet veszélyeztető körülményeket, illetve tényeket, amelyek felismerése általánosan elvárható, és ezek bejelentésének módját,
 
-b) ki kell alakítani a környezeti hatásokkal összefüggő egészségkárosodások illetve megbetegedések bejelentési rendszerét.
+b) ki kell alakítani a környezeti hatásokkal összefüggő egészségkárosodások illetve megbetegedések bejelentési rendszerét,
+
+c) ki kell dolgozni a lakosság egészségségére ártalmas szintet elérő hő- vagy hideghullámok, vagy napsugárzás fennállása idején bevezetendő klíma-egészségügyi intézkedéseket, valamint országos hőségriasztási rendszert kell működtetni.
