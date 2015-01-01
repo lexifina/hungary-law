@@ -1,6 +1,6 @@
-## 10. §[^46] A szakigazgatási szerv számára jogszabályban megállapított feladat- és hatáskörök és az ahhoz kapcsolódó jogviszonyok tekintetében 2011. január 1-jét megelőzően az NFH területi szerveként működő fogyasztóvédelmi felügyelőség jogutódjának az alapító okiratban foglaltak szerint az a korábbi illetékességi területén működő megyei (fővárosi) kormányhivatal tekintendő, amelynek a szakigazgatási szervévé a megyei (fővárosi) illetékességi területet alapul véve 2011. január 1-jén válik.
+## 10. §[^49] A szakigazgatási szerv számára jogszabályban megállapított feladat- és hatáskörök és az ahhoz kapcsolódó jogviszonyok tekintetében 2011. január 1-jét megelőzően az NFH területi szerveként működő fogyasztóvédelmi felügyelőség jogutódjának az alapító okiratban foglaltak szerint az a korábbi illetékességi területén működő megyei (fővárosi) kormányhivatal tekintendő, amelynek a szakigazgatási szervévé a megyei (fővárosi) illetékességi területet alapul véve 2011. január 1-jén válik.
 
-## 11. §[^47] Ez a rendelet
+## 11. §[^50] Ez a rendelet
 
 a) az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet, és
 
@@ -8,8 +8,8 @@ b) a textilszál-elnevezésekről és a textiltermékek szálösszetételének e
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-Melléklet a 225/2007. (VIII. 31.) Korm. rendelethez[^48]
+Melléklet a 225/2007. (VIII. 31.) Korm. rendelethez[^51]
 
-[^46]: A 10. §-t a 316/2010. (XII. 27.) Korm. rendelet 5. §-a iktatta be.
-[^47]: A 11. §-t a 245/2012. (VIII. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 7/2013. (I. 18.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^48]: A Mellékletet a 316/2010. (XII. 27.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^49]: A 10. §-t a 316/2010. (XII. 27.) Korm. rendelet 5. §-a iktatta be.
+[^50]: A 11. §-t a 245/2012. (VIII. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 7/2013. (I. 18.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^51]: A Mellékletet a 316/2010. (XII. 27.) Korm. rendelet 6. §-a hatályon kívül helyezte.
