@@ -8,7 +8,7 @@
 
 (2) A kedvezményezett – szállítói előleg esetén a felhívásban, illetve támogatási szerződésben meghatározott feltételek fennállása esetén a szállító vagy a kedvezményezett – az előleg folyósítását elektronikusan, az elektronikus alkalmazások használatának szabályai szerint igényli. Előleg kifizetése kérelemre történik.
 
-(3)[^7]
+(3)[^12]
 
 (4) Bármely előleget folyósítani akkor lehet, ha
 
@@ -30,4 +30,4 @@ e) a kedvezményezett legkésőbb az előleg-igénylés benyújtásakor benyújt
 
 (8) Előleg, a folyósítást követően – elszámolási határidőig kamatmentes – követelésként kerül nyilvántartásra. Ha a kifizetett előleg visszafizetését rendelték el, a XXIII. fejezet szabályait kell megfelelően alkalmazni.
 
-[^7]: A 115. § (3) bekezdését a 366/2014. (XII. 30.) Korm. rendelet 11. § (1) bekezdése hatályon kívül helyezte.
+[^12]: A 115. § (3) bekezdését a 366/2014. (XII. 30.) Korm. rendelet 11. § (1) bekezdése hatályon kívül helyezte.

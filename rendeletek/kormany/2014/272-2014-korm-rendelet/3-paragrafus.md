@@ -46,7 +46,7 @@
 
 21. kötelezettségvállalás: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 2. § (1) bekezdés o) pontjában meghatározott fogalom,
 
-22. közfeladat: jogszabályban meghatározott állami vagy önkormányzati feladat, amit a feladat címzettje közérdekből, haszonszerzési cél nélkül, jogszabályban meghatározott követelményeknek és feltételeknek megfelelve végez, ideértve a lakosság közszolgáltatásokkal való ellátását, valamint e feladatok ellátásához szükséges infrastruktúra biztosítását is,
+22.[^2]
 
 23. közszféra szervezet: a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 6. § (1) bekezdés a)–f) pontja alapján ajánlatkérőnek minősülő szervezet, valamint a nevelési-oktatási, kulturális, felsőoktatási, szociális, egészségügyi, gyermek- és ifjúságvédelmi intézményt érintő projektje vonatkozásában az egyházi jogi személy,
 
@@ -151,3 +151,4 @@ d) a Bizottság b) és c) pont szerinti rendeletek felhatalmazása alapján kiad
 (3) E rendeletet az e rendelet hatálya alá tartozó programok támogatásokra vonatkozó, kötelezően alkalmazandó európai uniós jogi aktusokban foglalt eltérésekre figyelemmel kell alkalmazni és értelmezni.
 
 [^1]: A 3. § (1) bekezdés 4. pontja a 366/2014. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdés 22. pontját a 397/2014. (XII. 31.) Korm. rendelet 96. §-a hatályon kívül helyezte.

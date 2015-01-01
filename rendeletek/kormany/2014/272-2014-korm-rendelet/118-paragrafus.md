@@ -2,7 +2,7 @@
 
 118. § (1) Szállítói finanszírozás esetén a fordított áfa-tartalmat a központi költségvetés a közszféra szervezet kedvezményezettek számára megelőlegezheti, ha a kedvezményezett bruttó támogatásra jogosult közszféra szervezet és az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: ÁFA-törvény) 142. §-ában – külföldi szállító esetén a 139–140. § és 143. §-ában – foglalt feltételek teljesülnek.
 
-(2)[^8] A fordított áfa-előleg legfeljebb a fordított áfával érintett nettós számlák elszámolható nettó összegére jutó áfa támogatástartalmának 100%-a lehet. A fordított áfa előleg kizárólag a megjelölt célra használható fel.
+(2)[^13] A fordított áfa-előleg legfeljebb a fordított áfával érintett nettós számlák elszámolható nettó összegére jutó áfa támogatástartalmának 100%-a lehet. A fordított áfa előleg kizárólag a megjelölt célra használható fel.
 
 (3) A fordított áfa előleget az adóval érintett elszámoló bizonylat elszámolásra benyújtásával egyidejűleg lehet igényelni.
 
@@ -12,4 +12,4 @@
 
 (6) A fordított áfa előleget a kedvezményezett a folyósítást követő harminc napon belül köteles az adó befizetésére fordítani, kivéve, ha az ÁFA-törvény ennél rövidebb határidőt állapít meg, továbbá köteles azzal a befizetését követő öt munkanapon belül az irányító hatóság felé elszámolni. A megelőlegezett fordított áfa adóhatósággal történő rendezésének a projekt megvalósítási időszakán belül kell megtörténnie.
 
-[^8]: A 118. § (2) bekezdése a 366/2014. (XII. 30.) Korm. rendelet 11. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^13]: A 118. § (2) bekezdése a 366/2014. (XII. 30.) Korm. rendelet 11. § (2) bekezdés a) pontja szerint módosított szöveg.

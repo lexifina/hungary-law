@@ -14,8 +14,8 @@
 
 (7) A (6) bekezdés szerinti postai benyújtás lehetőségét az irányító hatóság felhívásonként felfüggesztheti.
 
-(8)[^18] Az elektronikus alkalmazásban használt elektronikus aláírások a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet értelmében hiteles aláírásnak minősülnek, kiváltják az ahhoz fűződő joghatásokat és bírósági eljárásokban bizonyítékként elfogadhatók.
+(8)[^24] Az elektronikus alkalmazásban használt elektronikus aláírások a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet értelmében hiteles aláírásnak minősülnek, kiváltják az ahhoz fűződő joghatásokat és bírósági eljárásokban bizonyítékként elfogadhatók.
 
 (9) A támogatást igénylő, illetve a kedvezményezett rendelkezésére bocsátott elektronikus alkalmazást egyedi jelszóval kell védeni. A jelszó biztonságáért, a jelszó használatával az alkalmazásban elvégzett műveletekért a támogatást igénylő, illetve a kedvezményezett felelős.
 
-[^18]: A 197. § (8) bekezdése a 366/2014. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^24]: A 197. § (8) bekezdése a 366/2014. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 48. § Az irányító hatóság köteles a felhívást legalább 30 nappal az éves fejlesztési keretben meghatározott meghirdetési időpont előtt elektronikus formában megküldeni véleményezés céljából a Miniszterelnökség részére.
+## 48. §[^5] Az irányító hatóság köteles a felhívást legalább 30 nappal az éves fejlesztési keretben meghatározott meghirdetési időpont előtt elektronikus formában megküldeni véleményezés céljából az európai uniós források felhasználásáért felelős miniszternek.
 
 49. § (1) Az európai uniós források felhasználásáért felelős miniszter az egységes formai és tartalmi követelmények, a felhívások közötti összhang biztosítása, valamint az állami támogatási szabályoknak való megfelelés céljából minőségbiztosítás keretében megvizsgálja a felhívást. Ha az irányító hatóság a felhívást és az ahhoz tartozó mellékleteket nem
 
@@ -19,3 +19,5 @@ f) vonatkozó egyéb jogszabályokkal, valamint kötelezően alkalmazandó euró
 (2) Az európai uniós források felhasználásáért felelős miniszter egyetértése esetén, illetve a felhívás átdolgozását követően az irányító hatóságot tájékoztatja, és a megküldött felhívást – kivéve a technikai segítségnyújtási projektek felhívását – az éves fejlesztési keretben foglalt meghirdetési időpontban közzéteszi a www.szechenyi2020.hu honlapon.
 
 (3) A végleges dokumentáció megjelentetése előtt az irányító hatóság köteles az európai uniós források felhasználásáért felelős miniszter ügyfélszolgálati feladatait ellátó szervezeti egységét a megjelenő felhívással kapcsolatban felmerülő lehetséges kérdések megválaszolására felkészíteni.
+
+[^5]: A 48. § a 397/2014. (XII. 31.) Korm. rendelet 95. § 2. pontja szerint módosított szöveg.

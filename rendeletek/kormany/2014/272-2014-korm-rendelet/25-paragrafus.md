@@ -10,7 +10,7 @@ a) felelős a kifizető ügynökség akkreditációjáért, e feladatkörében �
 
 b) folyamatosan figyelemmel kíséri a kifizető ügynökségnél az akkreditációs feltételek teljesítését,
 
-c) a kifizető ügynökség tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés c), valamint g) és h) pontjai szerinti irányítási jogköröket gyakorolja.
+c)[^4] a kifizető ügynökség tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 9. § e), h) és i) pontja szerinti irányítási jogköröket gyakorolja.
 
 (2) A szakmai támogató
 
@@ -23,3 +23,5 @@ c) adatot szolgáltat az irányító hatóságnak az éves fejlesztési keret el
 d) részt vesz az intézkedések szakmai tartalmának meghatározásában, programot érintő értékelési tevékenységben,
 
 e) az irányító hatóság megkeresése esetén részt vesz az éves fejlesztési keret alapján a felhívás elkészítésében, a felhívás módosításában vagy visszavonásában.
+
+[^4]: A 25. § (1) bekezdés c) pontja a 397/2014. (XII. 31.) Korm. rendelet 95. § 1. pontja szerint módosított szöveg.

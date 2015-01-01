@@ -1,6 +1,6 @@
-## 206–208. §[^24]
+## 206–208. §[^30]
 
-1. melléklet a 272/2014. (XI. 5.) Korm. rendelethez[^25]
+1. melléklet a 272/2014. (XI. 5.) Korm. rendelethez[^31]
 
 EGYSÉGES MŰKÖDÉSI KÉZIKÖNYV
 
@@ -790,5 +790,15 @@ A támogatási szerződés módosítása
 
 61.1. Ha a kedvezményezett e rendelet 86. § (1) bekezdése szerint a támogatás feltételeinek változásáról értesíti az irányító hatóságot, az irányító hatóság
 
-[^24]: A 206–208. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: Az 1. melléklet a 366/2014. (XII. 30.) Korm. rendelet 9. §-a, a 10. § (2) bekezdése és a 11. § (3)–(4) bekezdése szerint módosított szöveg.
+a) a bejelentést elfogadja, és a feltételeknek a nyilvántartásban történő átvezetéséről gondoskodik,
+
+b) a bejelentést, ha több adat vonatkozásában tartalmaz változást, részben elfogadja, vagy
+
+c) a bejelentést elutasítja,
+
+d) a bejelentés alapján a támogatási szerződés módosítását kezdeményezi, vagy
+
+e) a bejelentés alapján elállást, a jogosulatlanul igénybe vett támogatás visszakövetelését, vagy más szükséges eljárás lefolytatására irányuló intézkedést kezdeményez,
+
+[^30]: A 206–208. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: Az 1. melléklet a 358/2014. (XII. 29.) Korm. rendelet 8. §-a, a 366/2014. (XII. 30.) Korm. rendelet 9. §-a, a 10. § (2) bekezdése és a 11. § (3)–(4) bekezdése szerint módosított szöveg.
