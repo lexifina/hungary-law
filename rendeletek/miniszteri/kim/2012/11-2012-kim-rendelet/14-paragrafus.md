@@ -1,4 +1,4 @@
-## 14. §[^13] A papír alapú űrlapot 2014. december 31. napjáig úgy kell kialakítani, hogy az ne tartalmazzon mezőt
+## 14. §[^18] A papír alapú űrlapot 2014. december 31. napjáig úgy kell kialakítani, hogy az ne tartalmazzon mezőt
 
 a) az 1. melléket 5.3.5., 6.3.4., 6.3.5., 8.1.–8.7. pontjában,
 
@@ -6,7 +6,7 @@ b) a 2. melléklet 3.3.5., 3.4.3., 3.5.3. pontjában és
 
 c) a 13. melléklet 8.5., 13., 13.1.–13.7., és 14., 14.1., 14.2. pontjában,
 
-d)[^14] a 36/A–36/C. melléklet 11. pontjaiban
+d)[^19] a 36/A–36/C. melléklet 11. pontjaiban
 
-[^13]: A 14. § az 58/2012. (XII. 28.) KIM rendelet 44. § (4) bekezdésével megállapított, nyitó szövegrésze a 12/2014. (II. 28.) KIM rendelet 6. § (34) bekezdés c) pontja szerint módosított szöveg.
-[^14]: A 14. § d) pontját a 12/2014. (II. 28.) KIM rendelet 6. § (3) bekezdése iktatta be.
+[^18]: A 14. § az 58/2012. (XII. 28.) KIM rendelet 44. § (4) bekezdésével megállapított, nyitó szövegrésze a 12/2014. (II. 28.) KIM rendelet 6. § (34) bekezdés c) pontja szerint módosított szöveg.
+[^19]: A 14. § d) pontját a 12/2014. (II. 28.) KIM rendelet 6. § (3) bekezdése iktatta be.
