@@ -22,7 +22,7 @@ b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztá
 
 a) a kérelem szerinti időpontig, de
 
-b) legfeljebb a gyermek hároméves koráig
+b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő igazságügyi alkalmazott esetén a gyermek ötéves koráig
 
 köteles foglalkoztatni. Ezt követően az igazságügyi alkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
 

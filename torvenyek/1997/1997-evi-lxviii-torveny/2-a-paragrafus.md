@@ -12,6 +12,6 @@ alkalmazni kell.
 
 a) a 35/A. §, valamint
 
-b) a 93–94. §
+b)
 
 rendelkezéseit.

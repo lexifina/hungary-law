@@ -10,6 +10,8 @@
 
 (5) A (2)–(4) bekezdések alapján járó szabadságon felül a magasabb beosztású vezetőt évente 5, a többi vezető beosztású igazságügyi alkalmazottat 3 munkanap pótszabadság illeti meg.
 
+(5a) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig, öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+
 (6) A (2)–(5) bekezdésekben meghatározott szabadság az igazságügyi alkalmazottat abban az évben illeti meg először, amikor az adott fizetési fokozatba besorolták, amikor a fizikai alkalmazott a (4) bekezdésben meghatározott időt elérte, illetve amely évben magasabb vezetői vagy vezetői beosztás ellátására kapott megbízást.
 
 (7) Az igazságügyi alkalmazott – a bírósági fogalmazó és a fizikai alkalmazott kivételével – alacsonyabb fizetési fokozatba való sorolása alapszabadságát nem érinti, de annak növelésére csak az alacsonyabb fizetési fokozatot követő második fizetési fokozat elérésekor kerül sor.

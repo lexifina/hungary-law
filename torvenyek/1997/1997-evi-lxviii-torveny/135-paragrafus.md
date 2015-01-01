@@ -2,6 +2,8 @@
 
 (2) Felhatalmazást kap a Kormány, hogy az egyéb igazságügyi szerv esetében meghatározza a beosztási pótlék megállapítására jogosító szervezeti egységeket.
 
+(2a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
+
 (3) Felhatalmazást kap a miniszter, hogy
 
 a)
