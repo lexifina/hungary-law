@@ -67,3 +67,5 @@ b) etikai intézkedésként a külön jogszabályban meghatározottak szerint te
 (6) A kamarát a törvényben, illetve alapszabályban meghatározott feladatai ellátása érdekében a fogyasztóvédelemre vonatkozó szabályok fogyasztói érdekek képviseletét ellátó egyesületetekre vonatkozó szabályok megfelelő alkalmazása mellett közérdekű keresetindítási jog illeti meg.
 
 (7) Az agrárkamara külön jogszabályban meghatározott egyes igazgatási feladatait a falugazdász hálózat útján látja el.
+
+(8) Az őstermelők nyilvántartásba vételével, az igazolvány kiállításával, érvényesítésével és visszaadásával kapcsolatos hatósági feladatokat – kormányrendeletben meghatározottak szerint – az agrárkamara látja el. Az agrárkamara jogosult ezen feladatával összefüggésben tudomására jutott adatok kezelésére, valamint azoknak a tagjegyzékbe, illetve a gazda-ságszerkezeti nyilvántartásba történő átvételére és ezen nyilvántartásokban való kezelésére. Az őstermelői igazolvány visszavonásáról – az agrárkamara egyidejű értesítése mellett – a kormány által rendeletben meghatározott szerv határoz.

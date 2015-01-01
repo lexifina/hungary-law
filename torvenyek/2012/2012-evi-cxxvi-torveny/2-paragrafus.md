@@ -1,18 +1,26 @@
 2. § E törvény alkalmazásában
 
-a) gazda: Magyarország területén lakóhellyel, tartózkodási hellyel, illetve székhellyel vagy telephellyel rendelkező agrárgazdasági tevékenységet folytató őstermelő vagy egyéni vállalkozó;
+a) gazda: Magyarország területén lakóhellyel, tartózkodási hellyel, székhellyel vagy telephellyel rendelkező
 
-b) gazdálkodó szervezet: Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező
+aa) őstermelő,
 
-ba) élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott és agrárgazdasági tevékenységet folytató,
+ab) az agrárgazdasági tevékenységet folytató egyéni vállalkozó, továbbá
 
-bb) a ba) pont szerinti feltételek hiányában agrárgazdasági tevékenységet főtevékenységként folytató,
+ac) az aa) és ab) pont szerinti feltételek hiányában a földművesként nyilvántartott személy;
 
-Polgári Törvénykönyv szerinti vállalkozás;
+b) gazdálkodó szervezet: Magyarországon székhellyel, telephellyel, kereskedelmi képvi-selettel vagy fiókteleppel rendelkező
+
+ba) agrárgazdasági tevékenységet főtevékenységként folytató,
+
+bb) a ba) pont szerinti feltételek hiányában az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott és agrárgazdasági tevékenységet folytató
+
+bc) a ba) és bb) pont szerinti feltételek hiányában mezőgazdasági termelőszervezetként nyilvántartott,
+
+a polgári perrendtartásról szóló 1952. évi III. törvény 396. § szerinti gazdálkodó szervezet, kivéve az egyéni vállalkozót;
 
 c) agrárkamara tagja: a kamarai tagjegyzékbe bejegyzett gazda, gazdálkodó szervezet;
 
-d) agrárgazdasági tevékenység: az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek, a mezőgazdasági termelés, a mezőgazdasági termékek feldolgozása, a szőlő termelése, feldolgozása, az erdőgazdálkodás, a halgazdálkodás, a vadgazdálkodás, az élelmiszer feldolgozása, valamint az ezekhez kapcsolódó, közvetlen ipari, kereskedelmi, szolgáltató tevékenységek, amelyekre vonatkozóan közigazgatási szerv nyilvántartási kötelezettsége kiterjed;
+d) agrárgazdasági tevékenység: az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek;
 
 e) gazdasági kamara: a kereskedelmi és iparkamara és az agrárkamara;
 

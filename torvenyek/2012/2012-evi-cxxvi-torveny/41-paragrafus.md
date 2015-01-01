@@ -12,15 +12,15 @@ c) az agrárkamara szolgáltatásaiért fizetett díjakból;
 
 d) az agrárkamara által alapított gazdasági társaság tevékenységéből származó bevételből;
 
-e) a költségvetési törvényben megállapított támogatásból;
+e) központi költségvetésből származó bevételekből;
 
 f) egyéb bevételekből, ideértve az önkéntesen felajánlott hozzájárulásokat is.
 
 (2) Az agrárkamara alanyi adó- és illetékmentességet élvez.
 
-(3) Az (1) bekezdés e) pontjában megállapított, az agrárkamara közfeladatainak ellátásához kapcsolódó költségvetési támogatást a miniszter által vezetett minisztérium költségvetési fejezetében kell megtervezni.
+(3) Az agrárkamara közfeladatai ellátásához kapcsolódó költségvetési támogatást az érintett közfeladat szakmai irányításáért, felügyeletéért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell megtervezni.
 
-(4) A költségvetési támogatás felhasználásáról az agrárkamara évente beszámol a miniszternek.
+(4) Az agrárkamara a 12. § (2a) bekezdésben meghatározott megállapodásban foglaltak szerint számol be a részére nyújtott támogatás vagy díjazás felhasználásáról.
 
 (5) A Kormány döntésével a kamara részére közhasznú feladatai ellátásához szükséges állami ingatlan tulajdonjoga ingyenesen átruházható, továbbá ingatlan tulajdonjogának vagy használatának megszerzéséhez támogatás nyújtható.
 

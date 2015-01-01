@@ -1,6 +1,6 @@
-37. § (1) Ha e törvény eltérően nem rendelkezik, országos-, illetve megyei küldöttnek az választható, aki
+37. § (1) Ha e törvény eltérően nem rendelkezik, országos, illetve megyei küldöttnek az választható, aki
 
-a) nagykorú;
+a) nagykorú, és
 
 b) az agrárkamara tagja vagy gazdálkodó szervezet tag esetén annak törvényes képviselője.
 

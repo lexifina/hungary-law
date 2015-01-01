@@ -2,7 +2,7 @@
 
 42. § (1) Az agrárkamara a (2) bekezdésben foglalt kivétellel üzletszerűen – nyereség és vagyonszerzés céljából – termelő, kereskedelmi vagy szolgáltató tevékenységet nem folytathat, gazdasági társaságnak nem lehet tagja és ilyen társaságban nem szerezhet részesedést.
 
-(2) Az agrárkamara – gazdasági tevékenységet is igénylő közfeladatainak ellátása érdekében – 100%-os tulajdonában álló gazdasági társaságot alapíthat, a gazdasági tevékenység során elért adózott eredményét azonban kizárólag csak az agrárkamara feladatkörébe tartozó célokra fordíthatja.
+(2) Az agrárkamara – gazdasági tevékenységet is igénylő közfeladatainak ellátása érdekében – gazdasági társaságot alapíthat, továbbá részesedést szerezhet gazdasági társaságban azzal, hogy az érintett gazdasági társaságban az agrárkamarát megillető adózott eredményt kizárólag az agrárkamara feladatkörébe tartozó célokra fordíthatja.
 
 (3) Az agrárkamara közfeladatainak ellátása érdekében csak olyan gazdasági társaságnak lehet tagja, illetve olyan társaságban szerezhet részesedést, amelyben felelőssége vagyoni hozzájárulásának mértékét nem haladja meg.
 

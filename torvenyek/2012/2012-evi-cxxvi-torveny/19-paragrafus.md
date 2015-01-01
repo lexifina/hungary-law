@@ -10,7 +10,7 @@ b) az agrárkamarán belüli szervezeti egységek létrehozására, azok feladat
 
 c) az agrárkamara más szervezetekhez való kapcsolódása és működési rendjének meghatározása;
 
-d) a részben vagy egészben agrárkamarai tulajdonban lévő gazdasági vállalkozások beszámolójának, mérlegének és üzleti tervének elfogadása;
+d)
 
 e) a választott tisztségviselők díjazásának jóváhagyása;
 

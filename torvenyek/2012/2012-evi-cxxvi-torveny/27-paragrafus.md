@@ -1,6 +1,6 @@
 ## A főigazgató és a kamara ügyintéző szervezete
 
-27. § (1) A főigazgató az agrárkamara országos ügyintéző szervezetének, az igazgató az agrárkamara megyei (fővárosi) ügyintéző szervezetének vezetője, az agrárkamarával munkaviszonyban állnak. Főigazgató és igazgató csak az lehet, aki a közszolgálati tisztviselők jogállásáról szóló törvény szerint kormányzati szolgálati viszonyba kinevezhető. A főigazgató kinevezését megelőzően annak személyéről a miniszter véleményét ki kell kérni.
+27. § (1) A főigazgató az agrárkamara országos ügyintéző szervezetének, az igazgató az agrárkamara megyei (fővárosi) ügyintéző szervezetének vezetője, akik az agrárkamarával munkaviszonyban állnak. A főigazgatót az elnök irányítja. Főigazgató és igazgató csak az lehet, aki a közszolgálati tisztviselők jogállásáról szóló törvény szerint kormányzati szolgálati viszonyba kinevezhető. A főigazgató kinevezését megelőzően annak személyéről az agrárpolitikáért, az agrár-vidékfejlesztésért felelős miniszter véleményt nyilvánít.
 
 (2) A főigazgató az agrárkamara megyei szervezete elnökével történt előzetes egyeztetés alapján gyakorolja az igazgatók és az agrárkamara ügyintéző szervezetében dolgozó munkavállalók felett a munkáltatói jogokat.
 

@@ -1,8 +1,8 @@
 7/A. § (1) A tagjegyzék, valamint a gazdaságszerkezeti nyilvántartás adatállománya a kamara kizárólagos tulajdona, azon más személy részére kizárólagos rendelkezési jog nem engedhető, továbbá a kamarának az informatikai rendszerben tárolt adatokhoz való hozzáférési joga, valamint ezen adatoknak a kamara részére elektronikus úton való átadása korlátozására, feltételhez kötésére megállapodás nem köthető.
 
-(2) A kamara a tagról a tagjegyzékben, valamint a gazdaságszerkezeti nyilvántartásban rögzített adatokat a tagsági viszony megszűnését követően akkor kezelheti, ha a tagnak a tagsági viszony megszűnésének időpontjában tagdíjhátraléka marad fenn. Ebben az esetben a kamara az adatokat a tagdíjhátralék kiegyenlítéséig vagy behajtásáig, de legfeljebb öt évig kezelheti.
+(2)
 
-(3) A kamara köteles a tagjegyzékben, valamint a gazdaságszerkezeti nyilvántartásban szereplő adatok fogadására és kezelésére alkalmas nyilvántartási rendszert működtetni.
+(3)
 
 (4) A kamara az általa kezelt adatokat kizárólag
 

@@ -1,1 +1,1 @@
-15. § A tagok széles körét érintő jogszabályok, szabályozási koncepciók tárgyában az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) és az agrárkamara elnöke szükség szerint, de legalább évente kétszer szakmai konzultációt tart.
+15. § A tagok széles körét érintő jogszabályok, szabályozási koncepciók tárgyában az agrárpolitikáért, valamint az agrár-, vidékfejlesztésért felelős miniszter és az agrárkamara elnöke szükség szerint, de legalább évente kétszer szakmai konzultációt tart.

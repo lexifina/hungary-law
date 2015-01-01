@@ -14,7 +14,7 @@ e) az e törvényben meghatározottakon túl a tagok jogait és kötelezettsége
 
 f) a választási névjegyzék és a tagjegyzék vezetésének részletes szabályait,
 
-g) a kamarai tagdíj fizetésének módját,
+g) a kamarai tagdíj mértékét, valamint a tagdíj fizetésének módját, feltételeit,
 
 h) a küldöttválasztás részletes szabályait;
 

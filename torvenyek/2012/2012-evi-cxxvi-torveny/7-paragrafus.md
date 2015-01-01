@@ -14,31 +14,41 @@ a) gazda esetében
 
 aa) a nevét,
 
-ab) a lakcímét, elektronikus levelezési címét,
+ab) a lakcímét,
 
-ac) a születési helyét és idejét,
+ac) értesítési címét,
 
-ad) az anyja nevét,
+ad) elektronikus levelezési címét,
 
-ae) adóazonosító jelét és az egyéni vállalkozói nyilvántartási számát,
+ae) a születési helyét és idejét,
 
-af) az őstermelői igazolványa számát, annak érvényét,
+af) az anyja nevét,
 
-ag) a családi gazdálkodói nyilvántartási számát,
+ag) adóazonosító jelét, adószámát,
 
-ah) egyéni cég esetén a cégnevét, székhelyét, elektronikus levelezési címét,
+ah) az egyéni vállalkozói nyilvántartási számát,
 
-telephelyét és fióktelepét, cégjegyzékszámát, adószámát, törvényes képviselője nevét és lakcímét,
+ai) az őstermelői igazolványa számát, annak hatályossági időtartamát,
 
-ai) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
+aj) a családi gazdálkodói nyilvántartási számát,
 
-aj) a kamarai nyilvántartási számát,
+ak) közös őstermelői igazolványban szereplő családtagjainak aa), ab), ac), ae), af) ag), al), am), as) alpontok szerinti adatait,
 
-ak) az általa folytatott agrárgazdasági tevékenység körét,
+al) egyéni cég esetén a cégnevét, székhelyét, elektronikus levelezési címét, telephelyét és fióktelepét, cégjegyzékszámát, adószámát, törvényes képviselője nevét és lakcímét,
 
-al) a bankszámla számát,
+am) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
 
-am) a tagsági viszony kezdetét;
+an) az agrárkamarai nyilvántartási számát,
+
+ao) az általa folytatott agrárgazdasági tevékenységek körét,
+
+ap) a bankszámla számát,
+
+aq) a tagsági viszony kezdetét,
+
+ar) élelmiszerlánc-felügyeleti szerv által nyilvántartott FELÍR azonosítót,
+
+as) személyi azonosítóját;
 
 b) gazdálkodó szervezet esetében:
 
@@ -56,13 +66,17 @@ bf) a statisztikai azonosítóját,
 
 bg) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
 
-bh) a kamarai nyilvántartási számát,
+bh) az agrárkamarai nyilvántartási számát,
 
-bi) az általa folytatott agrárgazdasági tevékenység körét,
+bi) az általa folytatott agrárgazdasági tevékenységek körét,
 
 bj) a bankszámla számát,
 
-bk) a tagsági viszony kezdetét.
+bk) a tagsági viszony kezdetét,
+
+bl) élelmiszerlánc-felügyeleti szerv által nyilvántartott FELÍR azonosítót,
+
+bm) értesítési címét;
 
 (3) A gazdaságszerkezeti nyilvántartás tartalmazza a tag által
 
@@ -78,10 +92,10 @@ e) az a)–d) pontban foglaltakon kívüli, a vállalkozás gazdaságszerkezeté
 
 vonatkozó adatokat.
 
-(4) A kamara a törvény alapján jogosult a tagra vonatkozó, a (2) bekezdés aa)–ag) és ba)–be) pontjai, valamint a (3) bekezdésben foglaltak szerinti adatok kezelésére.
+(4) Az agrárkamara a tagjegyzékben, valamint a gazdaságszerkezeti nyilvántartásban szereplő, tagra vonatkozó adatokat kezeli.
 
-(5) A tag a (2) bekezdés szerinti adatokról a tagsági viszony létesítésével egyidejűleg, változás esetén pedig a változást követő harminc napon belül köteles nyilatkozni.
+(5) A tag a (2) bekezdés szerinti adatokról – a (2) bekezdés a) pont an) és aq) alpontja, valamint a b) pont bh) és bk) alpontja kivételével – a tagsági viszony létrejöttét – változás esetén a változást – követő harminc napon belül köteles nyilatkozni.
 
-(6) A kamara a (2) bekezdés aa)–ag) pontjaiban meghatározott adatokat a Központi Statisztikai Hivatal és az élelmiszerlánc felügyeleti szerv részére egyedi azonosításra alkalmas módon, statisztikai célra, térítésmentesen, évente legkésőbb február 15-ig átadja.
+(6) Az agrárkamara a (2) bekezdés aa)–ah) pontjaiban meghatározott adatokat az élelmiszerlánc felügyeleti szerv részére annak kérelmére egyedi azonosításra alkalmas módon, statisztikai célra, térítésmentesen, évente legkésőbb április 15-ig átadja. Az agrárkamara a Központi Statisztikai Hivatal számára statisztikai célból a (2) bekezdésében foglalt tagjegy-zékéhez hozzáférést biztosít, vagy kérelmére egyedi azonosításra alkalmas módon adatot ad át.
 
 (7) A tag által a (3) bekezdésben foglaltak szerint szolgáltatandó adatok körét – a tevékenység jellegétől függően – a küldöttgyűlés által elfogadott adatszolgáltatási szabályzat határozza meg.

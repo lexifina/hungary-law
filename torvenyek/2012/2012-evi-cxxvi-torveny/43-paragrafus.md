@@ -2,7 +2,7 @@
 
 ## AZ AGRÁRKAMARA ÁLLAMI FELÜGYELETE ÉS ÖNKORMÁNYZATI HATÁROZATAINAK BÍRÓSÁGI FELÜLVIZSGÁLATA
 
-43. § (1) Az agrárkamara felett az ügyészség az – e törvényben foglalt kivételekkel – az ügyészségről szóló törvény rendelkezései szerint ellenőrzést gyakorol. Az ellenőrzés nem terjed ki az állandó választottbíróságra, továbbá az olyan ügyekre, amelyekben egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
+43. § (1) Az agrárkamara felett az ügyészség – az e törvényben foglalt kivételekkel – az ügyészségről szóló törvény rendelkezései szerint ellenőrzést gyakorol. Az ellenőrzés nem terjed ki az állandó választottbíróságra, továbbá az olyan ügyekre, amelyekben egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
 
 (2) Az ügyészség ellenőrzi, hogy az agrárkamara
 

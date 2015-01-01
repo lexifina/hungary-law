@@ -6,7 +6,7 @@ a) országos szaktanácsadói hálózatot működtet;
 
 b) tájékoztatást nyújt a gazdasággal összefüggő magyar és külföldi jogszabályokról, valamint a gazdálkodó szervezetek tevékenységét érintő gazdaságpolitikai döntésekről és intézkedésekről, előmozdítja a gazdasági együttműködés fejlődését;
 
-c) a szakképzésről szóló törvényben és végrehajtási rendeletében foglaltak szerint ellátja a tanulószerződés és hallgatói szerződés szervezésével kapcsolatos feladatokat, a gyakorlati képzőhelyek ellenőrzését, felügyeletét, segíti a szakképzés képzési és beiskolázási szerkezetének, a hiány-szakképesítések körének meghatározását, a fiatalok pályaválasztását, pályaorientációját, továbbá szervezi és végzi a mesterképzést és mestervizsgáztatást.
+c) az országos szakmai gazdasági érdek-képviseleti szervezetekkel együttműködve ellátja a szakképzésről szóló törvényben és végrehajtási rendeletében, valamint a felnőttképzésről szóló törvényben és végrehajtási rendeletében meghatározott feladatait, szervezi és végzi a mesterképzést és a mestervizsgáztatást.
 
 (2) A kamara tagjai részére térítésmentes alapszolgáltatásként
 
@@ -35,3 +35,5 @@ g) általános gazdasági és szakmai tájékoztatókat tart.
 (7) A kamara együttműködik a határon túli magyar gazdaszervezetekkel.
 
 (8) A kamara jogszabályban meghatározott esetekben nyilvántartást vezet, továbbá az agrárgazdaság területén szükséges igazolásokat, bizonyítványokat és okmányokat állít ki, illetve hitelesít.
+
+(9) Az agrárkamara részt vesz a közösségi forrásból is támogatott tanácsadási, tájékoztatási feladatok ellátásában.
