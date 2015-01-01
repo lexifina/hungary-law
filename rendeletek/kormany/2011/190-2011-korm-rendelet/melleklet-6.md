@@ -414,6 +414,82 @@
 
 ## *Tárgyévben betöltött
 
-6–7. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^82]
+6. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^103]
 
-[^82]: A 6–7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+Nukleáris létesítményben alkalmazott programozható rendszerek tervezésére, létesítésére, módosítására vonatkozó védelmi követelmények
+
+1. A programozható rendszerek tervezése során el kell készíteni a programozható rendszerek védelmi zónamodelljét. A programozható rendszereket, azok nukleáris biztonsági funkciója, fizikai védelmi funkciója, nukleáris biztosítéki funkciója, radioaktív anyag nyilvántartási funkciója rendelkezésre állási fontossága és a bennük tárolt adatok és információk bizalmassága szerint védelmi zónákba kell sorolni. A különböző zónákhoz a fontosság szerint eltérő védelmi követelményeket kell meghatározni.
+
+2. A zónamodellt a 20. § (2) bekezdés szerinti tervben kell szerepeltetni. Be kell mutatni a programozható rendszerek védelmi zónák, a nukleáris biztonsági osztályok és a fizikai védelmi zónák illesztettségét.
+
+3. Programozható rendszerek védelmére tervet kell készíteni az ember okozta szándékos vagy szándékolatlan károkozás megelőzését, észlelését, a téves működések vagy meghibásodások negatív hatásainak korlátozását és a biztonságos üzemeltetés helyreállítását szolgáló előírásokkal.
+
+4. A programozható rendszerek védelmi tervében meg kell határozni mindazokat a műszaki, és adminisztratív védelmi intézkedéseket, amelyek alkalmazása biztosítja a programozható rendszerek védelmét a szándékolatlan károkozás és a tervezési alapfenyegetettségben meghatározott kibertámadásokkal szemben.
+
+5. A programozható rendszerek védelmi tervének meg kell alapoznia és fenn kell tartania a mélységi védelem stratégiáját, hogy minden esetben biztosított legyen a szándékolatlan károkozások vagy a tervezési alapfenyegetettségben meghatározott kibertámadások mielőbbi érzékelése, kezelése és a normál működés helyreállítása.
+
+6. A programozható rendszerek védelmi tervének tartalmaznia kell mindazon eljárásokat és intézkedéseket, amelyeket a szándékolatlan károkozások vagy a tervezési alapfenyegetettségben meghatározott kibertámadások felismerésére, kezelésére és elhárítására alakítottak ki. A tervben le kell írni, hogy hogyan kerülnek biztosításra a következők:
+
+6.1. a szándékolatlan károkozások vagy a kibertámadások időben történő felismerése és kezelése,
+
+6.2. a szándékolatlan károkozások vagy a kibertámadások következményeinek csökkentése,
+
+6.3. a programozható rendszerek sérülékenységének időben történő kijavítása és
+
+6.4. a szándékolatlan károkozások vagy a kibertámadások által érintett programozható rendszerek, hálózatok és eszközök normál működésének helyreállítása.
+
+7. A programozható rendszerek védelmi tervének legalább az alábbiakra kell kitérnie:
+
+7.1. fizikai és logikai hozzáférések kontrollálása,
+
+7.2. konfigurációkezelés,
+
+7.3. azonosító- és jelszókezelés,
+
+7.4. jogosultságkezelés,
+
+7.5. biztonsági javítások és szoftverfrissítések kezelése,
+
+7.6. hordozható eszközök és mobil adathordozók használata,
+
+7.7. vezeték nélküli készülékek és hálózatok,
+
+7.8. távoli hozzáférés, adminisztrálás és karbantartás,
+
+7.9. eseménykezelés, incidenskezelés, mentés és helyreállítás,
+
+7.10. a fenyegetettségek és sérülékenységek felderítésére, elemzésére, dokumentálására és ezek kezelésére vonatkozó eljárások, valamint
+
+7.11. rendszeres auditok és felülvizsgálatok.
+
+8. Felülvizsgálatot kell tartani a programozható rendszerek életciklusának valamennyi fázisában a potenciális sérülékenységek azonosítására. Az üzemeltetési fázisban ezeket a felülvizsgálatokat rendszeresen el kell végezni.
+
+9. A programozható rendszerekre kockázatelemzést kell készíteni az OAH általi jóváhagyás céljából
+
+9.1. a létesítési engedélykérelem részeként,
+
+9.2. az üzemeltetési engedélykérelem részeként,
+
+9.3. az üzemeltetési engedélyben előírt gyakorisággal, és
+
+9.4. az OAH felhívására.
+
+10. A programozható rendszereket úgy kell tervezni, létesíteni és üzemeltetni, hogy a mélységi védelem egymást követő vonalai biztosítsák a tervezett funkcionalitás megváltoztatására alkalmas szándékolatlan vagy szándékos beavatkozások elleni hatékony védelmet. A mélységi védelem megvalósításának igazolására elemzést kell készíteni.
+
+11. Diverzitás alkalmazása a nukleáris biztonság és a fizikai védelem szempontjából is fontos. A kibertámadás szempontjából két programozható rendszer akkor tekinthető diverznek, ha informatikai szempontból elkülönülnek.
+
+12. A programozható rendszerekkel kapcsolatos üzemeltetési és karbantartási műveletek eljárásait tartalmazó dokumentumban be kell mutatni a programozható rendszerek védelmi elvárásait is.
+
+13. Biztosítani kell, hogy a programozható rendszerek életciklusa (tervezés, kivitelezés, üzemeltetés, karbantartás) során folyamatosan igazolt legyen, hogy a tárgyi rendszerek és rendszerelemek mentesek a szükségtelen hozzáférési lehetőségektől, nyitott portoktól.
+
+14. A programozható rendszerek biztonsági frissítésére vonatkozó eljárásrend a teljes életciklusban álljon rendelkezésre.
+
+15. A nukleáris létesítményben végrehajtott, programozható rendszereket érintő átalakításokhoz a programozható rendszerek védelmére vonatkozó kockázatelemzést kell készíteni.
+
+16. A programozható rendszereket érintő bármilyen módosítás esetében a fejlesztésre és az átalakításra vonatkozó előírásokat alkalmazni kell. A programozható rendszerkomponensek funkcióinak, konfigurációjának vagy működésének megváltoztatása, módosítása vagy átalakítása - a hozzájuk kapcsolódó eredeti dokumentumokkal vagy termékekkel együtt - csak a megfelelő verifikálási, validálási, jóváhagyási vagy engedélyezési eljárás végrehajtásával történhet.
+
+17. A programozható rendszerek védelmi követelményeinek való megfelelést konfigurációkezelés keretében kell fenntartani.
+
+18. A programozható rendszerek működőképességét és funkcionalitását hatékonyan meg kell védeni a nagyon gyors elektromágneses impulzusok ellen. Az engedélyesnek be kell mutatni, hogy milyen kiegészítő intézkedésekkel elégíti ki ezt a követelményt.
+
+[^103]: A 6. mellékletet újonnan a 357/2014. (XII. 29.) Korm. rendelet 4. § (13) bekezdése iktatta be.

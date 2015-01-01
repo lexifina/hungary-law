@@ -2,7 +2,7 @@
 
 ## NEMZETI FENYEGETETTSÉG FELMÉRÉSE, TERVEZÉSI ALAPFENYEGETETTSÉGEK MEGHATÁROZÁSA
 
-## 3. [^9] Tervezési alapfenyegetettség
+## 3. [^13] Tervezési alapfenyegetettség
 
 3. § (1) Az Országos Atomenergia Hivatal (a továbbiakban: OAH) a nemzeti fenyegetettség és a tervezési alapfenyegetettség vonatkozásában:
 
@@ -26,15 +26,20 @@ a) Országos Rendőr-főkapitányság,
 
 b) Katonai Nemzetbiztonsági Szolgálat,
 
-c) Alkotmányvédelmi Hivatal, és
+c)[^14] Alkotmányvédelmi Hivatal,
 
-d) Terrorelhárítási Központ.
+d)[^15] Terrorelhárítási Központ, és
+
+e)[^16] Nemzeti Biztonsági Felügyelet.
 
 (3) Az OAH a (2) bekezdés szerinti határozatot megküldi a kötelezett és az egyeztetésben részt vevő szervek részére.
 
 (4) Az emelt szintű fizikai védelem bevezetését és megszüntetését az OAH-nál a (2) bekezdésben meghatározott szerv is kezdeményezheti.
 
-(5)[^10] Az OAH ügyintézési határideje a tervezési alapfenyegetettség első alkalommal történő megállapítására irányuló eljárásban hat hónap. Az OAH vezetője az ügyintézési határidőt indokolt esetben egy alkalommal, legfeljebb kilencven nappal meghosszabbíthatja. Az ügyintézési határidő meghosszabbításáról az atomenergia-felügyeleti szerv értesíti az ügyfelet és mindazokat, akiket az eljárás megindításáról értesített.
+(5)[^17] Az OAH ügyintézési határideje a tervezési alapfenyegetettség első alkalommal történő megállapítására irányuló eljárásban hat hónap. Az OAH vezetője az ügyintézési határidőt indokolt esetben egy alkalommal, legfeljebb kilencven nappal meghosszabbíthatja. Az ügyintézési határidő meghosszabbításáról az atomenergia-felügyeleti szerv értesíti az ügyfelet és mindazokat, akiket az eljárás megindításáról értesített.
 
-[^9]: A 3. alcím (3. §) a 217/2013. (VI. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^10]: A 3. § (5) bekezdését a 139/2014. (IV. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^13]: A 3. alcím (3. §) a 217/2013. (VI. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^14]: A 3. § (2) bekezdés c) pontja a 357/2014. (XII. 29.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^15]: A 3. § (2) bekezdés d) pontja a 357/2014. (XII. 29.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^16]: A 3. § (2) bekezdés e) pontját a 357/2014. (XII. 29.) Korm. rendelet 4. § (5) bekezdése iktatta be.
+[^17]: A 3. § (5) bekezdését a 139/2014. (IV. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be.

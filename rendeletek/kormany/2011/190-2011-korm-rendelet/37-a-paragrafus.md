@@ -1,4 +1,4 @@
-## 37/A. §[^33] A rendelet az atomenergiával kapcsolatos egyes kormányrendeletek módosításáról szóló 37/2012. (III. 9.) Korm. rendelet:
+## 37/A. §[^46] A rendelet az atomenergiával kapcsolatos egyes kormányrendeletek módosításáról szóló 37/2012. (III. 9.) Korm. rendelet:
 
 a) 13. §-ával megállapított 1. § (3) bekezdését,
 
@@ -24,4 +24,4 @@ k) 22. §-ával megállapított 7. § (4) bekezdés b) pontját, 7. § (5) bekez
 
 l) 23. §-át
 
-[^33]: A 37/A. §-t a 37/2012. (III. 9.) Korm. rendelet 20. §-a iktatta be.
+[^46]: A 37/A. §-t a 37/2012. (III. 9.) Korm. rendelet 20. §-a iktatta be.

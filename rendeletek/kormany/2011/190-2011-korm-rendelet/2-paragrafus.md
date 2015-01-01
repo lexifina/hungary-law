@@ -10,6 +10,8 @@
 
 4. besugárzott nukleáris anyag: olyan nukleáris anyag, amely reaktorban be volt sugározva, és a sugárzási szintje 1 méteres távolságban árnyékolás nélkül 1 Gy/h-nél nagyobb;
 
+4a.[^7] diverzitás: olyan rendszerek vagy rendszerelemek alkalmazása, amelyek ugyanazon funkció teljesítését látják el, azonban e szempontból valamely fontos paraméter, így különösen működési elv, kialakítás, elrendezés, gyártó tekintetében eltérnek egymástól, csökkentve ezzel a közös okú vagy azonos módon történő meghibásodások előfordulásának valószínűségét;
+
 5. kivonuló szolgálat: a helyszíni őrszemélyzettől vagy a detektáló eszközöktől kapott riasztást követően a helyszínre érkező, a helyszíni őrszemélyzetet segítő szervezet;
 
 6. egyszeres hibatűrés követelménye: egy funkcióval szemben támasztott olyan követelmény, miszerint a funkciót redundáns rendszerelemek teljesítik, és egyetlen, valamelyik redundáns rendszerelemben bekövetkező egyszeres meghibásodás esetében a funkció még teljesíthető;
@@ -26,17 +28,29 @@
 
 12. helyszíni őrszemélyzet: meghatározott helyszíni járőrözési, megfigyelési, észlelési feladatokat ellátó, személyek és szállítmányok kísérését, a beléptetési rendszer felügyeletét végző, valamint az elhárítás első fázisát adó szervezet;
 
-12a.[^7] Hordozható eszköz: olyan tartó vagy tároló, amelyet kifejezetten arra terveztek, hogy a benne elhelyezett zárt sugárforrás a különböző helyeken történő használathoz könnyen, kézi erővel mozgatható legyen.
+12a.[^8] Hordozható eszköz: olyan tartó vagy tároló, amelyet kifejezetten arra terveztek, hogy a benne elhelyezett zárt sugárforrás a különböző helyeken történő használathoz könnyen, kézi erővel mozgatható legyen.
 
 13. képességek: eszközök, fegyverek birtoklása és alkalmazása, szakmai és taktikai ismeretek, fizikai erőnlét;
 
-14.[^8] kötelezett: a nukleáris létesítmény engedélyese, az átmeneti és végleges radioaktívhulladék-tároló engedélyese, a radioaktív sugárforrás birtokosa, a radioaktív hulladék birtokosa és a nukleáris anyag birtokosa, valamint létesíteni tervezett átmeneti és végleges radioaktívhulladék-tároló esetében az, aki a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója telepítéséhez és tervezéséhez szükséges földtani és bányászati követelményekről szóló rendelet szerint engedélyezett földtani kutatási programot valamennyi kutatási fázisra végrehajtotta és a földtani kutatási zárójelentést jóváhagyó hatósági határozattal rendelkezik;
+14.[^9] kötelezett: a nukleáris létesítmény engedélyese, az átmeneti és végleges radioaktívhulladék-tároló engedélyese, a radioaktív sugárforrás birtokosa, a radioaktív hulladék birtokosa és a nukleáris anyag birtokosa, valamint létesíteni tervezett átmeneti és végleges radioaktívhulladék-tároló esetében az, aki a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója telepítéséhez és tervezéséhez szükséges földtani és bányászati követelményekről szóló rendelet szerint engedélyezett földtani kutatási programot valamennyi kutatási fázisra végrehajtotta és a földtani kutatási zárójelentést jóváhagyó hatósági határozattal rendelkezik;
 
 15. külső elhárító erők: a rendőrség, a kivonuló szolgálat;
 
 16. nem besugárzott nukleáris anyag: olyan nukleáris anyag, amely nem volt reaktorban besugározva, vagy be volt sugározva, de a sugárzási szintje 1 méteres távolságban árnyékolás nélkül 1 Gy/h vagy alacsonyabb;
 
 17. nukleáris anyag birtokosa: aki nukleáris anyagot alkalmaz, tárol vagy szállít;
+
+17a.[^10] programozható rendszer: olyan funkcionális eszköz vagy struktúra, amely alkalmas számítási, kommunikációs, automatizálási, vezérlési, ellenőrzési feladatok ellátására, ezen belül:
+
+a) a létesítmény technológiájához kapcsolódó irányítástechnikai rendszerek,
+
+b) a fizikai védelmi rendszerek,
+
+c) a nukleáris biztosítéki rendszerek,
+
+d) a radioaktív anyag nyilvántartási rendszerek, valamint
+
+e) a létesítmény technológiájához közvetlenül nem csatlakozó olyan nukleáris biztonsági, fizikai védelmi, nukleáris biztosítéki és radioaktív anyag nyilvántartási rendszerek, amelyekhez, valamint az azokban tárolt, kezelt adatokhoz, információkhoz engedélyesi felelősség kapcsolódik;
 
 18. radioaktív hulladék birtokosa: aki radioaktív hulladékot feldolgoz, tárol vagy szállít;
 
@@ -48,11 +62,19 @@
 
 22. speciális eszközök: nagyméretű kéziszerszámok, különösen létra, csapszegvágó, feszítővágó, továbbá nagy teljesítményű villamos szerszámok, így különösen vágó, fúrógép, gépi fűrész, sarokköszörű;
 
+22a.[^11] validálás: annak ellenőrző vizsgálata, hogy a rendszer, rendszerelem, szolgáltatás, módszer, számítási eszköz, számítógép program megfelel-e a funkcionális, a teljesítmény- és interfész követelményeknek az előre meghatározott és írásban rögzített feltételek mellett;
+
+22b.[^12] verifikálás: ellenőrző folyamat, mely során megvizsgálják, hogy a rendszer, rendszerelem szolgáltatás, módszer, számítási eszköz, számítógép program, fejlesztési-, gyártási folyamat minden egyes fázisának terméke kielégíti-e az előző fázis által meghatározott összes követelményt;
+
 23. veszélytudatossági tájékoztatás: az atomenergia alkalmazói, valamint a lakosság részére nyújtott tájékoztatás, amelynek célja a nukleáris védettség és ezen belül a fizikai védelem célkitűzéseinek megértése, és a célkitűzések teljesítését szolgáló tevékenységek megismerése;
 
 24. video megfigyelő rendszer: olyan, minimálisan képérzékelőből, képátviteli eszközből és képmegjelenítőből álló rendszer, amely alkalmas egy meghatározott terület figyelésére.
 
 (2) Az (1) bekezdésben nem definiált fogalmak tekintetében az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 2. §-ában meghatározott definíciókat kell alkalmazni.
 
-[^7]: A 2. § (1) bekezdés 12a. pontját a 37/2012. (III. 9.) Korm. rendelet 14. §-a iktatta be.
-[^8]: A 2. § (1) bekezdés 14. pontja a 217/2013. (VI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^7]: A 2. § (1) bekezdés 4a. pontját a 357/2014. (XII. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^8]: A 2. § (1) bekezdés 12a. pontját a 37/2012. (III. 9.) Korm. rendelet 14. §-a iktatta be.
+[^9]: A 2. § (1) bekezdés 14. pontja a 217/2013. (VI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^10]: A 2. § (1) bekezdés 17a. pontját a 357/2014. (XII. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^11]: A 2. § (1) bekezdés 22a. pontját a 357/2014. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^12]: A 2. § (1) bekezdés 22b. pontját a 357/2014. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
