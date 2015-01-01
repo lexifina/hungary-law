@@ -22,6 +22,8 @@ f) a munkaviszony nélküli igazgatósági és felügyelőbizottsági tagság,
 
 g) a kuratóriumi tagság és tisztségviselés,
 
-h) az önkéntes tartalékos szolgálati viszony.
+h) az önkéntes tartalékos szolgálati viszony,
+
+i) a nevelőszülői foglalkoztatási jogviszony.
 
 (3) Az ügyvéd az összeférhetetlenségi okot a bekövetkezésétől számított 15 napon belül köteles az ügyvédi kamarának bejelenteni.

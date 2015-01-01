@@ -2,7 +2,7 @@
 
 88. § (1) Az alkalmazott ügyvédek névjegyzékéből törölni kell azt,
 
-a) aki a 13. § (3) bekezdés a)–c) és g) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában írt feltételeknek nem felel meg,
+a) aki a 13. § (3) bekezdés a)–c) és g) pontjában írt feltételeknek nem felel meg,
 
 b) akinek a munkaviszonya megszűnt és a munkaviszony megszűnésétől számított három hónapon belül más ügyvéddel, ügyvédi irodával nem létesített alkalmazott ügyvédi munkaviszonyt,
 

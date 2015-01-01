@@ -2,7 +2,7 @@
 
 99. § (1) Az ügyvédjelöltek névjegyékéből törölni kell azt,
 
-a) aki a 13. § (3) bekezdés a), b) és g) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában írt feltételeknek nem felel meg,
+a) aki a 13. § (3) bekezdés a), b) és g) pontjában írt feltételeknek nem felel meg,
 
 b) akinek a munkaviszonya megszűnt vagy az őt foglalkoztató ügyvédnek a 96/A. § szerinti jogosultságát törölték, és a munkaviszony (jogosultság) megszűnésétől (törlésétől) számított három hónapon belül a 96. § (1) bekezdés b) pontja szerinti ügyvéddel, ügyvédi irodával nem létesített ügyvédjelölti munkaviszonyt,
 
