@@ -502,6 +502,8 @@
 
 | 251. | Püspökladányi Egészségügyi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Püspökladány |
 
+| 252. | Kumánia Gyógyfürdő Kft. | Kisújszállás |
+
 3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez
 
 ## Igénylő lap az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vehető támogatáshoz
