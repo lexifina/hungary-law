@@ -1,0 +1,3 @@
+## 5. § Az R2. 4/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Amennyiben a GET 141/C. § (2) bekezdése szerinti földgázkereskedő az adott negyedévben a Hivatalnak bejelentett, a 4. § (10) bekezdésben foglalt földgáz forrásait átvette, és – a Hivatal felé igazolt módon – az egyetemes szolgáltatásra jogosult, a GET 141/C. § (4) bekezdése szerint ellátott felhasználók ellátása érdekében vásárol többlet földgáz mennyiséget a volt közüzemi nagykereskedőtől, akkor annak az ára a 2. mellékletben szereplő, nem földgáztárolóból származó, a volt közüzemi nagykereskedő által a nem hazai termelésből beszerzett földgázforrás árával egyezik meg.”
