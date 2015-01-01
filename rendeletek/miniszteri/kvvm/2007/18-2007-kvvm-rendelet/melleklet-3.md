@@ -1,115 +1,67 @@
-## „EÉ éves jelentés”
+## „Egyszerűsített bejelentőlap a felszín alatti víz és a földtani közeg veszélyeztetéséről, terheléséről” adattartalma
 
-## („Éves jelentés a felszín alatti víz és a földtani közeg veszélyeztetéséről, terheléséről” megnevezésű éves jelentés adatlapok)
+## 1. Adatszolgáltató ügyfél adatai
 
-## 7M07617_0
+## 1.1. KÜJ
 
-|  | Éves jelentés borítólap a felszín alatti víz és földtani közeg veszélyeztetéséről, terheléséről |  |
+## 1.2. Ügyfél neve
 
-| Vonatkoztatási év: . Adatszolgáltatás típusa: |
+## 2. Telephely adatai
 
-## Adatszolgáltató ügyfél adatai
+## 2.1. TH KTJ
 
-## 7M07617_1
+## 2.2. Megnevezés
 
-| 1. KÜJ (Környezetvédelmi Ügyfél Jel): | 2. Ügyfél neve: |
+## 2.3. Cím (irányítószám, település, helyrajzi szám, közterület neve, száma)
 
-## Adatszolgáltatásra vonatkozó adatok
+## 3. Adatszolgáltatásra vonatkozó adatok
 
-| 3. Benyújtott lapok összegzése: |
+## 3.1. Kapcsolattartó adatai (név, telefonszám, fax szám, e-mail cím)
 
-|  | Lapjel: | ÉJ-1 | ÉJ-2 |  |
+## 3.2. Cégszerű aláírásra jogosult személy neve, beosztása
 
-| db: |  |  |  |
+## 4. Az engedélyköteles tevékenységi hely adatai
 
-| 4. Adatszolgáltatás teljesítésének módja (A, S, I): |
+## 4.1. EH KTJ
 
-| 5. Cégszerű aláírásra jogosult személy neve: | 6. Cégszerű aláírásra jogosult személy beosztása: |
+## 4.2. Név, funkció, tevékenység rövid leírása
 
-| Valótlan adatok közlése, az adatszolgáltatás megtagadása és a késedelmes adatszolgáltatás az érvényes jogszabályok szerint bírság kiszabását vonja maga után! |
+## 4.3. Horizontális, vertikális kiterjedés (m2, m)
 
-## 7. Kitöltés dátuma: . év . hó . nap
+## 4.4. A helyhez kapcsolódó tevékenység TEÁOR besorolása
 
-## ____ ––––––––––––––––––––––––––––
+## 5. Elhelyezés adatai
 
-## P.H.
+## 5.1. Elhelyezés típusa
 
-## Cégszerű aláírás(ok)
+## 5.2. Elhelyezés jellemzői
 
-## Az elsőfokú hatóság tölti ki!
+## 5.2.1. Halmazállapot
 
-## 7M07617_3
+## 5.2.2. Tárolás
 
-| Beérkezés dátuma: ⎕⎕⎕⎕. év ⎕⎕. hó ⎕⎕. nap | Iktatószám: |
+## 5.2.3. Csomagolás
 
-| Szakmai ellenőrzést végző neve: ……………………………………………………… aláírása: ……………………………………………………… | Szakmai ellenőrzés utáni állásfoglalás: Megfelelő / Nem megfelelő |
+## 5.2.4. Vízadó típusa
 
-## 7M07617_4
+## 5.3. Elhelyezés maximális kapacitása/anyagárama
 
-| KÜJ |  |  |  |  |  |  |  |  |  |  | EHKTJ |  |  |  |  |  |  |  |  |  |  | Oldalszám |  |  |  |  | FAVI–ENG ÉJ-1 |
+## 6. Környezetvédelmi megelőző intézkedések adatai
 
-|  |  | Adatszolgáltatás a felszín alatti víz és földtani közeg veszélyeztetéséről, terheléséről Éves jelentés |  |
+## 6.1. Műszaki védelem jellemzői
 
-## 1. Vonatkoztatási év:
+## 6.2. Műszaki védelem szöveges ismertetése
 
-## 2. a helyen történő bevezetések, elhelyezések éves mennyisége, illetve a felhalmozott anyagok év végi mennyisége
+## 7. Elhelyezett anyag és szennyezőanyag adatai
 
-| 2.1 Anyag KAJ kódja a 3. függelék szerint | 2.2 Szennyezőanyag KAJ kódja a 3. függelék szerint | 2.3 Bevezetett, elhelyezett szennyező anyag | 2.4 Mérték- Egység kódja | 2.5 Mérés kód | 2.6 Használt elemzési/ számítási módszer kódja |
+## 7.1. Anyag KAJ kódja
 
-| 2.3.1 Nyitó mennyisége a bejelentési év elején | 2.3.2 Beérkezett mennyisége a bejelentési évben | 2.3.3 Kimenő mennyisége a bejelentési évben | 2.3.4 Záró mennyisége a bejelentési év végén |
+## 7.2. Anyag megnevezése
 
-| KAJ kód: Anyag megnevezése: | KAJ kód: Anyag megnevezése: | , | , | , | , |  |  |  |
+## 7.3. Anyag mennyisége
 
-| KAJ kód: Anyag megnevezése: | KAJ kód: Anyag megnevezése: | , | , | , | , |  |  |  |
+## 7.4. Az anyagban B szennyezettségi határértéket meghaladó mennyiségben található szennyező anyag KAJ kódja
 
-| KAJ kód: Anyag megnevezése: | KAJ kód: Anyag megnevezése: | , | , | , | , |  |  |  |
+3. számú melléklet a 18/2007. (V. 10.) KvVM rendelethez[^15]
 
-| KAJ kód: Anyag megnevezése: | KAJ kód: Anyag megnevezése: | , | , | , | , |  |  |  |
-
-## 7M07617_6
-
-| KÜJ |  |  |  |  |  |  |  |  |  |  | EHKTJ |  |  |  |  |  |  |  |  |  |  | Oldalszám |  |  |  |  | FAVI–ENG ÉJ-1 |
-
-|  |  | Adatszolgáltatás a felszín alatti víz és földtani közeg veszélyeztetéséről, terheléséről Éves jelentés |  |
-
-## 1. Vonatkoztatási év:
-
-## 2. a helyen történő bevezetések, elhelyezések éves mennyisége, illetve a felhalmozott anyagok év végi mennyisége
-
-| 2.1 Anyag KAJ kódja a 3. függelék szerint | 2.2 Szennyezőanyag KAJ kódja a 3. függelék szerint | 2.3 Bevezetett, elhelyezett szennyező anyag | 2.4 Mérték- Egység kódja | 2.5 Mérés kód | 2.6 Használt elemzési/ számítási módszer kódja |
-
-| 2.3.1 Nyitó mennyisége a bejelentési év elején | 2.3.2 Beérkezett mennyisége a bejelentési évben | 2.3.3 Kimenő mennyisége a bejelentési évben | 2.3.4 Záró mennyisége a bejelentési év végén |
-
-| KAJ kód: Anyag megnevezése: | KAJ kód: Anyag megnevezése: | , | , | , | , |  |  |  |
-
-| KAJ kód: Anyag megnevezése: | KAJ kód: Anyag megnevezése: | , | , | , | , |  |  |  |
-
-| KAJ kód: Anyag megnevezése: | KAJ kód: Anyag megnevezése: | , | , | , | , |  |  |  |
-
-| KAJ kód: Anyag megnevezése: | KAJ kód: Anyag megnevezése: | , | , | , | , |  |  |  |
-
-## 7M07617_8
-
-| KÜJ |  |  |  |  |  |  |  |  |  |  | EHKTJ |  |  |  |  |  |  |  |  |  |  | Oldalszám |  |  |  |  | FAVI–ENG ÉJ-1 |
-
-|  |  | Adatszolgáltatás a felszín alatti víz és földtani közeg veszélyeztetéséről, terheléséről Éves jelentés |  |
-
-## 1. Vonatkoztatási év:
-
-## 2. Rendkívüli események miatti szennyező anyag tárgyévi bevezetése/elhelyezése
-
-| 2.1 Esemény időpontja | 2.2 Szennyező anyag KAJ kódja a 3. függelék szerint | 2.3 Környezeti elem kód | 2.4 Bevezetett/elhelyezett szennyezőanyag mennyisége | 2.5 Mértékegység kódja | 2.6 Bevezetés/elhelyezés oka | 2.7 Szenny. anyag sorsa az esemény után kód |
-
-| 2.6.1 Bevezetés/ elhelyezés kódja | 2.6.2 Bevezetés/elhelyezés megnevezése |  |
-
-| - |  |  | , |  |  |  |  |
-
-| - |  |  | , |  |  |  |  |
-
-| - |  |  | , |  |  |  |  |
-
-| - |  |  | , |  |  |  |  |
-
-| - |  |  | , |  |  |  |  |
-
-3. számú melléklet a 18/2007. (V. 10.) KvVM rendelethez
+[^15]: A 3. számú melléklet a 38/2014. (XII. 17.) FM rendelet 6. § (3) bekezdésével megállapított szöveg.

@@ -1,13 +1,11 @@
-## 3. §[^2] A Kr. 35. § (1) bekezdés c) pontja szerinti környezeti monitoring rendszerek adatszolgáltatását a külön jogszabály[^3] szerinti környezethasználati monitorozást végző a Kr. 29. § (1) bekezdés szerinti kármentesítési monitoring esetében a felügyelőség, egyéb esetekben a vízvédelmi hatóság részére, az általa határozatban – a környezeti állapot figyelembevételével – megjelölt határidőre a FAVI Monitoring információs alrendszerben e rendelet 6. melléklete szerinti „Monitoring információs rendszer, környezethasználati monitoring” megnevezésű adatlapon nyújtja be.
+## 3. §[^7] A Kr. 35. § (1) bekezdés c) pontja szerinti környezeti monitoring rendszerek adatszolgáltatását a felszín alatti vizek vizsgálatának egyes szabályairól szóló miniszteri rendelet szerinti környezethasználati monitorozást végző a vízvédelmi hatóság, illetve a Kr. 29. § (1) bekezdése szerinti kármentesítési monitoring esetében a felügyelőség részére, az általa határozatban – a környezeti állapot figyelembevételével – megjelölt határidőre a FAVI Monitoring információs alrendszerébe e rendelet 7. melléklete szerinti „Monitoring információs rendszer, környezethasználati monitoring” megnevezésű adatlapon nyújtja be.
 
-4. § (1) Az adatszolgáltatás nyomtatványon vagy elektronikus adathordozón (így például: CD, floppy lemez) vagy a külön jogszabályban[^4] meghatározottak szerinti fokozott biztonságú elektronikus aláírással ellátott elektronikus dokumentum útján, valamint a külön jogszabály[^5] szerinti ügyfélkapu igénybevételével teljesíthető. A nyomtatványon és az elektronikus adathordozón benyújtott adatszolgáltatás hitelesítése az 1. § esetében az 1., a 2. § esetében a 3., valamint a 3. § esetében a 6. melléklet szerinti borítólap aláírásával történik.
+4. § (1)[^8] A Kr. 35. § szerinti adatszolgáltatásokat – a Kr. 16. és 35/A–D. §-ában meghatározottak figyelembevételével – elektronikus úton kell benyújtani.
 
-(2)[^6] Az e rendeletben előírt alaki és tartalmi előírásoknak nem megfelelő adatot szolgáltató, illetve az adatszolgáltatást elmulasztó kötelezettet a felügyelőség vagy a vízvédelmi hatóság az adatszolgáltatás legfeljebb harminc napon belüli helyesbítésére, illetve az adatszolgáltatás teljesítésére szólítja fel.
+(2)[^9] Az e rendeletben előírt alaki és tartalmi előírásoknak nem megfelelő adatot szolgáltató, illetve az adatszolgáltatást elmulasztó kötelezettet a felügyelőség vagy a vízvédelmi hatóság az adatszolgáltatás legfeljebb harminc napon belüli helyesbítésére, illetve az adatszolgáltatás teljesítésére szólítja fel.
 
 (3) Az (1) bekezdés szerinti dokumentáció 5 évig nem selejtezhető.
 
-[^2]: A 3. § az 52/2014. (XI. 28.) BM rendelet 8. § a) pontja szerint módosított szöveg.
-[^3]: 30/2004. (XII. 30.) KvVM rendelet a felszín alatti vizek vizsgálatának egyes szabályairól.
-[^4]: 2001. évi XXXV. törvény az elektronikus aláírásról, 3/2005. (III. 18.) IHM rendelet az elektronikus aláírással kapcsolatos szolgáltatásokra és ezek szolgáltatóira vonatkozó részletes követelményekről.
-[^5]: 2004. évi CXL. törvény a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól.
-[^6]: A 4. § (2) bekezdése az 52/2014. (XI. 28.) BM rendelet 8. § b) pontja szerint módosított szöveg.
+[^7]: A 3. § a 38/2014. (XII. 17.) FM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 4. § (1) bekezdése a 38/2014. (XII. 17.) FM rendelet 3. §-ával megállapított szöveg.
+[^9]: A 4. § (2) bekezdése az 52/2014. (XI. 28.) BM rendelet 8. § b) pontja szerint módosított szöveg.

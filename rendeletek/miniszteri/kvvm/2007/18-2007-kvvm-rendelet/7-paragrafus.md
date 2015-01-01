@@ -1,8 +1,8 @@
 7. § (1) E rendelet 2007. július 1-jén lép hatályba.
 
-(2)[^8] Az éves adatszolgáltatásra kötelezetteknek az e rendelet 1. számú melléklete szerinti Alap-adatlapot a 2008. évi éves adatszolgáltatással egyidejűleg kell benyújtaniuk.
+(2)[^11] Az éves adatszolgáltatásra kötelezett a 2014. évi adatokról az e rendeletnek az Országos Környezetvédelmi Információs Rendszer továbbfejlesztésével összefüggésben a felszín alatti víz és a földtani közeg környezetvédelmi nyilvántartási rendszer (FAVI) adatszolgáltatásáról szóló 18/2007. (V. 10.) KvVM rendelet módosításáról szóló 38/2014. (XII. 17.) FM rendelettel módosított rendelkezései szerint szolgáltat adatot.
 
-(3)[^9] Ez a rendelet a vízvédelmi politika területén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 5. cikkének való megfelelést szolgálja.
+(3)[^12] Ez a rendelet a vízvédelmi politika területén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 5. cikkének való megfelelést szolgálja.
 
-[^8]: A 7. § új (2) bekezdését a 25/2007. (VII. 30.) KvVM rendelet 4. §-a iktatta be, egyidejűleg az eredeti (2) bekezdésének számozását (3) bekezdésre változtatta.
-[^9]: A 7. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 25/2007. (VII. 30.) KvVM rendelet 4. §-a.
+[^11]: A 7. § új (2) bekezdését a 25/2007. (VII. 30.) KvVM rendelet 4. §-a iktatta be, egyidejűleg az eredeti (2) bekezdésének számozását (3) bekezdésre változtatta. A 7. § (2) bekezdése a 38/2014. (XII. 17.) FM rendelet 4. §-ával megállapított szöveg.
+[^12]: A 7. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 25/2007. (VII. 30.) KvVM rendelet 4. §-a.

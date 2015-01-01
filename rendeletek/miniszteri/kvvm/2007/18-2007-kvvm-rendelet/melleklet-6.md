@@ -1,661 +1,263 @@
-## „B3 adatlap”
+## TÉNYFELTÁRÁS UTÁNI ADATOK ADATLAPJA (B2)
 
-## (Műszaki beavatkozás utáni adatok adatlapja)
+## FŐLAP
 
-## 7M03713_0
-
-|  | ADATSZOLGÁLTATÁS |  |
-
-|  | PONTSZERŰ SZENNYEZŐFORRÁSOK / SZENNYEZETT TERÜLETEK ORSZÁGOS SZÁMBAVÉTELE MŰSZAKI BEAVATKOZÁS UTÁNI ADATOK ADATLAPJA BORÍTÓLAP ADATSZOLGÁLTATÁS TÍPUSA: ⬜ |  |
+## Adatszolgáltatás típusa
 
 ## Adatszolgáltató ügyfél adatai
 
-| 0.1 KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 0.2 Ügyfél neve: |
+## 0.1 KÜJ (Környezetvédelmi Ügyfél Jel)
+
+## 0.2 Ügyfél neve
 
 ## Szennyezett terület adatai
 
-## 7M03713_2
+## 0.3 KTJ (Környezetvédelmi Területi Jel)
 
-| 0.3 KTJ (Környezetvédelmi Terület Jel): ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | 0.4 A szennyezett terület megnevezése: |
+## 0.4 A szennyezett terület megnevezése
 
-| 0.5 Cím: | .......……………………. | ………. |
+## Tartozik a területhez B1 adatlap?
 
-| ⬜ ⬜ ⬜ ⬜ | ………………….………………………… |
+## Ha igen, a B1 adatlaphoz tartozó KTJ
 
-| irányítószám | település neve | utca, út, tér | házszám |
+## 0.5 Cím (Irányítószám, Település, Közterület neve, Közterület típusa, Házszám)
 
-| 0.6 Helyrajzi szám: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
+## 0.6 Helyrajzi szám
 
-| 0.7. A műszaki beavatkozást elrendelő határozat száma: |  |  |
+## 0.7 A tényfeltárást elrendelő határozat száma
 
 ## Kapcsolattartó személy adatai
 
-| 0.8 Név: | 0.9 Beosztás: |
+## 0.8 Név
 
-| 0.10 Értesítési cím: |  |  |
+## 0.9 Értesítési cím (Irányítószám, Település, Közterület neve, Közterület típusa, Házszám)
 
-| ⬜⬜⬜⬜ | ………………….……………………… | ......…………………………. | ………. |
+## 0.10 Telefon
 
-| irányítószám | település neve | utca, út, tér | házszám |
-
-| 0.11 Telefonszám: | 0.12 Fax-szám: | 0.13 E-mail: |
+## 0.11 E-mail
 
 ## Adatszolgáltatásra vonatkozó adatok
 
-## 7M03713_4
+## 0.12 Benyújtott lapok száma
 
-| 0.14 Benyújtott lapok száma: |
+## 0.14 Cégszerű aláírásra jogosult személy neve
 
-|  | Lapjel: | B3AL | B3KA | B3V | B3HV | B3EA | B3TI | B3KT | Melléklet: |
+## 0.15 Cégszerű aláírásra jogosult személy beosztása
 
-| Db: |  |  |  |  |  |  |  |  |
+## 0.16 Kitöltés dátuma
 
-| 0.15 Adatszolgáltatás teljesítésének módja (A, S, I): ⬜ |  |
+## SZENNYEZŐFORRÁSOK ADATLAPJA (B2FO)
 
-| 0.16 Cégszerű aláírásra jogosult személy neve: | 0.17 Cégszerű aláírásra jogosult személy beosztása: |
+## KÜJ (Környezetvédelmi Ügyfél Jel)
 
-| Valótlan adatok közlése, az adatszolgáltatás megtagadása és a késedelmes adatszolgáltatás az érvényes jogszabályok szerint bírság kiszabását vonja maga után! |
+## KTJ (Környezetvédelmi Területi Jel)
 
-| 0.18 Kitöltés dátuma: ⬜ ⬜ ⬜ ⬜.év ⬜ ⬜.hó ⬜ ⬜.nap | PH. | …………………………................. |
+## 1. A feltárt szennyezőforrás jellemzése
 
-| Az elsőfokú hatóság tölti ki! | Cégszerű aláírás(ok) |
+## 1.1 A szennyezőforrás jellege
 
-| Beérkezés dátuma: ⬜ ⬜ ⬜ ⬜.év ⬜ ⬜.hó ⬜ ⬜.nap | Iktatószám: …………………………………… |
+## 1.2 A szennyezőforrás elhelyezkedése
 
-| Szakmai ellenőrzést végző neve: ……………………………… aláírása: ……………………………… | Szakmai ellenőrzés állásfoglalása: Megfelelő Nem megfelelő |
+## 1.2.1 a földtani közeg felszínén
 
-| KÜJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | KTJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | Oldalszám: ⬜⬜/ ⬜⬜. | FAVI- KÁRINFO B3 |
+## 1.2.2 felszín alatt
 
-| A MŰSZAKI BEAVATKOZÁST ELRENDELŐ HATÁROZAT SZÁMA: |  |  |
+## 1.3 A szennyező anyag bevezetésének módja (csak működő szennyezőforrás és bevezetés esetén)
 
-| B3 – Alap adatlap | B3AL |
+## 1.3.1 közvetett bevezetés a felszín alatti vizekbe
 
-## 7M03713_7
+## 1.3.2 közvetlen bevezetés a felszín alatti vizekbe
 
-| A kérdés száma | K É R D É S | V Á L A S Z |
+## 1.4 Ha a szennyezőforrás engedélyes tevékenység, akkor az engedélyes telephely KTJ száma (EH KTJ)
 
-| 1.1 | A műszaki beavatkozás eredményessége | 1. Eredményes: a (D) kármentesítési célállapot határértékének elérése valamennyi környezeti elemben minden szennyező anyagra megtörtént 2. Eredménytelen: a (D) kármentesítési célállapot határértékének elérése nem minden környezeti elemben, illetve nem minden szennyező anyagra történt meg. Írja be a választ jelölő számot ⬜ |
+## 1.5 A szennyezőforrás területi kiterjedése (m2)
 
-| 1.2 | A visszamaradt szennyezettség terjedésének jellemzése | 1. a szennyező anyag csóva összehúzódó fázisban van 2. a szennyező anyag csóva stabil fázisban van 3. a szennyező anyag csóva terjedő fázisban van Írja be a választ jelölő számot ⬜ |
+## 1.6 A szennyezőforrásban feltárt valamennyi szennyezőanyagszáma
 
-| 1.3 | Felhasznált dokumentumok jegyzéke | …………………………………………………………………… …………………………………………………………………… …………………………………………………………………… ………………….. |
+## 1.7 A szennyezőforrásban feltárt szennyezőanyagok összmennyisége (m3)
 
-| 1.4 | Megjegyzés | …………………………………………………………………… …………………………………………………………………… …………………………………………………………………… ………………….. |
+## A SZENNYEZŐFORRÁSBAN FELTÁRT SZENNYEZŐ ANYAGOK ADATLAPJA (B2FA)
 
-## FAVI-KÁRINFO B3
+## KÜJ (Környezetvédelmi Ügyfél Jel)
 
-| KÜJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | KTJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | Oldalszám: ⬜⬜/ ⬜⬜. | FAVI- KÁRINFO B3 |
+## KTJ (Környezetvédelmi Területi Jel)
 
-| A MŰSZAKI BEAVATKOZÁST ELRENDELŐ HATÁROZAT SZÁMA: |  |  |
+## 2. A feltárt szennyezőanyagok jellemzése
 
-| B3 – Szennyezettséget okozó szennyező anyagok adatlapjaA szennyező anyag KAJ kódja: ⬜⬜⬜⬜⬜⬜(A 3. számú függelék szerint) | B3KA |
+## 2.1 Sorszám
 
-## 7M03713_10
+## 2.2 A szennyező anyag megnevezése
 
-| A kérdés száma | K É R D É S | V Á L A S Z |
+## 2.3 A szennyező anyag KAJ száma
 
-| 2. | A szennyező anyag jellemzése |
+## SZENNYEZETTSÉGET OKOZÓ SZENNYEZŐ ANYAGOK ADATLAPJA (B2KA)
 
-| 2.1 | A szennyező anyag megnevezése | …………………………………………… |
+## KÜJ (Környezetvédelmi Ügyfél Jel)
 
-| 3. | A szennyező anyag mennyiségi jellemzése környezeti elemenként |
+## KTJ (Környezetvédelmi Területi Jel)
 
-| 3.1 | A műszaki beavatkozás után a szennyező anyag maximális koncentrációja földtani közegben | 3.1.1 Koncentráció ⬜ ⬜ ⬜ ⬜ ⬜ ⬜,⬜ ⬜ ⬜ ⬜ |
+## 3. A szennyező anyag jellemzése
 
-| 3.1.2 Mértékegység kódja ⬜ ⬜ ⬜ ⬜ |
+## 3.1 A szennyező anyag KAJ kódja
 
-| 3.1.3 Mérés dátuma ⬜ ⬜ ⬜ ⬜.⬜ ⬜.⬜ ⬜. |
+## A szennyező anyag megnevezése
 
-| 3.2 | A műszaki beavatkozás után a szennyező anyag maximális koncentrációja felszín alatti vízben | 3.2.1 Koncentráció ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜,⬜ ⬜ ⬜ ⬜ |
+## 4. A szennyező anyag mennyiségi jellemzése környezeti elemenként
 
-| 3.2.2 Mértékegység kódja ⬜ ⬜ ⬜ ⬜ |
+## 4.1 A szennyező anyag maximális koncentrációja felszín alatti vizekben
 
-| 3.2.3 Mérés dátuma ⬜ ⬜ ⬜ ⬜.⬜ ⬜.⬜ ⬜. |
+## 4.1.1 Koncentráció
 
-| 3.3 | (D) kármentesítési célállapot határérték a földtani közegben | 3.3.1 Koncentráció ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜,⬜ ⬜ ⬜ ⬜ |
+## 4.1.2 Mértékegység
 
-| 3.3.2 Mértékegység kódja ⬜ ⬜ ⬜ ⬜ |
+## 4.2 A szennyező anyag maximális koncentrációja a földtani közegben
 
-| 3.4 | (D) kármentesítési célállapot határérték a felszín alatti vízben | 3.4.1 Koncentráció ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜,⬜ ⬜ ⬜ ⬜ |
+## 4.2.1 Koncentráció
 
-| 3.4.2 Mértékegység kódja ⬜ ⬜ ⬜ ⬜ |
+## 4.2.2 Mértékegység
 
-| 3.5 | A 3.4 pontban szereplő felszín alatti víz típusa | 1. talajvíz 2. partiszűrésű víz 3. rétegvíz 4. nyílt karsztvíz 5. fedett karsztvíz Írja be a választ jelölő számot ⬜ |
+## 4.2.3 A szennyező anyaggal szennyezett felszín alatti víz típusa
 
-## FAVI-KÁRINFO B3
+## 4.3 A szennyező anyag mennyisége a földtani közegben
 
-| KÜJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | KTJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | Oldalszám: ⬜⬜/ ⬜⬜. | FAVI- KÁRINFO B3 |
+## 4.3.1 Mennyiség
 
-| A MŰSZAKI BEAVATKOZÁST ELRENDELŐ HATÁROZAT SZÁMA: |  |  |
+## 4.3.2 Mértékegység
 
-| B3 – Visszamaradt szennyezettség adatlapja | B3V |
+## 4.4 A szennyező anyag mennyisége a felszín alatti vizekben
 
-## 7M03713_13
+## 4.4.1 Mennyiség
 
-| A kérdés száma | K É R D É S | V Á L A S Z |
+## 4.4.2 Mértékegység
 
-| 4. | A visszamaradt szennyezettség jellemzése |
+## SZENNYEZETTSÉG ÉS TERMÉSZETES VÉDELEM ADATLAPJA (B2SZ)
 
-| 4.1 | A (D) kármentesítési célállapot határérték fölött szennyezett földtani közeg mennyisége (m3) | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
+## KÜJ (Környezetvédelmi Ügyfél Jel)
 
-| 4.2 | A (D) kármentesítési célállapot határérték fölött szennyezett felszín alatti víz mennyisége (m3) | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
+## KTJ (Környezetvédelmi Területi Jel)
 
-| 4.3 | A (B) szennyezettségi határérték fölött szennyezett földtani közeg mennyisége (m3) | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
+## 4.5 A szennyezett felszín alatti víz dinamikus kapcsolatban van-e a felszíni vízzel?
 
-| 4.4 | A (B) szennyezettségi határérték fölött szennyezett felszín alatti víz mennyisége (m3) | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
+## 4.6 Fennáll-e kapcsolat a felszín alatti víztől közvetlenül függő ökoszisztémák és a szennyezett felszín alatti víz között?
 
-| 5. | Természetes védettség |
+## 4.7 A szennyezett terület okoz-e felszíni víz szennyezettséget?
 
-| 5.1 | A visszamaradt szennyezettséggel terhelt felszín alatti víz típusa | 1. nem érint felszín alatti vizet 2. talajvíz 3. partiszűrésű víz 4. rétegvíz 5. nyílt karszt 6. fedett karsztvíz Írja be a választ jelölő számot ⬜ |
+## 4.8 A szennyezett terület okoz-e levegőszennyezettséget?
 
-| 5.2 | A visszamaradt szennyezettséggel terhelt földtani közeg szivárgási tényezője (k-tényező) | 1. k<10-7 m/s 2. 10-7<k<10-5 m/s 3. 10-5<k<10-3 m/s 4. k≥10-3 m/s Írja be a választ jelölő számot ⬜ |
+## 4.9 A (B) szennyezettségi határérték felett szennyezett földtani közeg mennyisége (m3)
 
-## FAVI-KÁRINFO B3
+## 4.10 A (B) szennyezettségi határérték felett szennyezett felszín alatti víz mennyisége (m3)
 
-| KÜJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | KTJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | Oldalszám: ⬜⬜/ ⬜⬜. | FAVI- KÁRINFO B3 |
+## 4.11 A (B) szennyezettségi határérték felett szennyezett felszín alatti víz horizontális kiterjedésének felszíni vetülete (m2)
 
-| A MŰSZAKI BEAVATKOZÁST ELRENDELŐ HATÁROZAT SZÁMA: |  |  |
+## 4.12 A (B) szennyezettségi határérték felett szennyezett földtani közeg horizontális kiterjedésének felszíni vetülete (m2)
 
-| B3 – Hatásviselők adatlap | B3HV |
+## 4.13 A (D) kármentesítési célállapot határérték felett szennyezett földtani közeg mennyisége (m3)
 
-## 7M03713_16
+## 4.14 A (D) kármentesítési célállapot határérték felett szennyezett felszín alatti víz mennyisége (m3)
 
-| A kérdés száma | K É R D É S | V Á L A S Z |
+## 4.15 A (D) kármentesítési célállapot határérték felett szennyezett földtani közeg horizontális kiterjedésének felszíni vetülete (m2)
 
-| 6. | Hatásviselők |
+## 4.16 A (D) kármentesítési célállapot határérték felett szennyezett felszín alatti víz horizontális kiterjedésének felszíni vetülete (m2)
 
-| 6.1 | Lakott terület jelenléte és népessége a szennyezett terület 500 m-es körzetében | 1. nincs érintett népesség 2. kevésbé érzékeny 500 fő alatt 3. kevésbé érzékeny 500 fő fölött 4. érzékeny 500 fő alatt 5. érzékeny 500 fő fölött Írja be a választ jelölő számot ⬜ |
+## 5. Természetes védettség
 
-| 6.2 | Épített környezet jellege a szennyezett terület 1000 m-es körzetében | 1. nincs építmény 2. egyéb építmények 3. kiemelt jelentőségű/értékű építmények 4. műemlék Írja be a választ jelölő számot ⬜ |
+## 5.1 A szennyezett területről eredő szennyezés milyen felszín alatti víztípust érhet el 10 éven belül
 
-| 6.3 | Mezőgazdasági és erdőgazdasági területhasználat a szennyezett terület 1000 m-es körzetében | 1. nincs mező- / erdőgazdasági területhasználat 2. erdő és egyéb mezőgazdasági területhasználat 3. rét, legelő, szántó 4. kertészet, gyümölcsös, halastó/halgazdaság Írja be a választ jelölő számot ⬜ |
+## 5.2 A szennyezett területről eredő szennyezés 10 éven belül a felszín alatti vizeken keresztül milyen felszíni víztípust érhet el
 
-| 6.4 | Természetvédelmi szempontból kiemelten kezelendő terület a szennyezett terület 2000 m-es körzetében | 1. nincs 2. 2.a, 2.b 3. 3.a, 3.b 4. 4.a, 4.b, 4.c, 4.d Írja be a választ jelölő számot ⬜ |
+## 6. A felszín alatti vízáramlási rendszer
 
-| 6.5 | Érzékeny felszín alatti vizek a szennyezett terület 1000 m-es körzetében | 1. kevésbé érzékeny 2. érzékeny 3. fokozottan/kiemelten érzékeny Írja be a választ jelölő számot ⬜ |
+## 6.1 A felszín alatti vízáramlási rendszer jellemzése
 
-## FAVI-KÁRINFO B3
+## HATÁSVISELŐK ADATLAPJA (B2HV)
 
-| KÜJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | KTJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | Oldalszám: ⬜⬜/ ⬜⬜. | FAVI- KÁRINFO B3 |
+## KÜJ (Környezetvédelmi Ügyfél Jel)
 
-| A MŰSZAKI BEAVATKOZÁST ELRENDELŐ HATÁROZAT SZÁMA: |  |  |
+## KTJ (Környezetvédelmi Területi Jel)
 
-## 7M03713_18
+## 7. Hatásviselők
 
-| A kérdés száma | K É R D É S | V Á L A S Z |
+## 7.1 A szennyezettség 10 éven belül mekkora népességű és milyen érzékenységű lakott területet veszélyeztet?
 
-| 6.6 | Felszíni víz típusa | 1. csatorna, árok, ér 2. folyó 3. állandó kis vízfolyás, állóvíz 50 ha vízfelület fölött 4. állóvíz 50 ha vízfelület alatt, időszakos vízfolyás Írja be a választ jelölő számot ⬜ |
+## 7.2 A szennyezés 10 éven belül milyen jellegű épített környezetet veszélyeztet?
 
-| 6.7 | Felszíni vizek érzékenysége a szennyezéssel szemben a szennyezett terület 1000 m-es körzetében | 1. nagy tavak (Balaton, Fertő tó, Velencei-tó) 2. 240/2000. (XII. 23.) Korm. rendelet szerinti nagy tavak vízgyűjtője 3. egyéb terület Írja be a választ jelölő számot ⬜ |
+## 7.3 A szennyezettség 10 éven belül milyen mezőgazdasági területhasználatot veszélyeztet?
 
-| 6.8 | A szennyezett terület kijelölt hidrogeológiai védőterületre esik-e, amennyiben igen, milyen típusúra | 1. nem 2. "C" hidrogeológiai védőterületen van 3. "B" hidrogeológiai védőterületen van 4. "A" hidrogeológiai védőterületen van Írja be a választ jelölő számot ⬜ |
+## 7.4 A szennyezettség 10 éven belül milyen természetvédelmi szempontból kiemelten kezelendő területet veszélyeztet?
 
-| 6.9 | Vízbázis/kút távolsága a szennyezett területtől, ha nincs kijelölve védőterület | 1. nincs vízbázis/kút 4000 m-en belül 2. 1001-4000 m 3. 101-1000 m 4. <100 m Írja be a választ jelölő számot ⬜ |
+## 7.5 A szennyezettség 10 éven belül milyen érzékeny felszín alatti vizet veszélyeztet?
 
-## FAVI-KÁRINFO B3
+## 7.6 A szennyezettség 10 éven belül, a felszín alatti vízen keresztül, milyen típusú érzékeny felszíni vizet veszélyeztet?
 
-| KÜJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | KTJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | Oldalszám: ⬜⬜/ ⬜⬜. | FAVI- KÁRINFO B3 |
+## 7.7 A szennyezettség 10 éven belül milyen típusú védőterületet veszélyeztet?
 
-| A MŰSZAKI BEAVATKOZÁST ELRENDELŐ HATÁROZAT SZÁMA: |  |  |
+## 7.8 A szennyezettség 5 éven belül veszélyeztet-e vízbázist?
 
-| B3 - Eltávolított szennyező anyag adatlapjaA szennyező anyag KAJ kódja: ⬜⬜⬜⬜⬜⬜ | B3EA |
+## 7.9 Ivóbázisból ellátott lakosok száma, ha a szennyezettség 10 éven belül veszélyezteti a vízbázist
 
-## (A 3. számú függelék szerint)
+## KÖLTSÉG ADATLAP (B2KT)
 
-## 7M03713_21
+## KÜJ (Környezetvédelmi Ügyfél Jel)
 
-| A kérdés száma | K É R D É S | V Á L A S Z |
+## KTJ (Környezetvédelmi Területi Jel)
 
-| 7. | Az eltávolított szennyező anyag mennyiségének becsült értéke |
+## 8. A tényfeltárás költségadatai
 
-| 7.1 | A földtani közegből eltávolított szennyező anyag becsült mennyisége | 7.1.1 Becsült mennyiség ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
+## 8.1 A tényfeltárás előtti összköltség
 
-| 7.1.2 Mértékegység kódja ⬜ ⬜ |
+## 8.1.1 Tényfeltárás előtti költségek a korábban végzett tényfeltárások költségei nélkül (ezer Ft)
 
-| 7.2 | A felszín alatti vízből eltávolított szennyező anyag becsült mennyisége | 7.2.1 Becsült mennyiség ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
+## 8.1.2 A korábban kiadott hatósági határozatok alapján végzett tényfeltárások összes költsége (ezer Ft)
 
-| 7.2.2 Mértékegység kódja ⬜ ⬜ |
+## 8.1.3 Tényfeltárás előtti költségek összesen (ezer Ft)
 
-## FAVI-KÁRINFO B3
+## 8.1.4 A korábban kiadott tényfeltárást elrendelő hatósági határozatok számai
 
-| KÜJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | KTJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | Oldalszám: ⬜⬜/ ⬜⬜. | FAVI- KÁRINFO B3 |
+## 8.2 A tényfeltárás költség adatai
 
-| A MŰSZAKI BEAVATKOZÁST ELRENDELŐ HATÁROZAT SZÁMA: |  |  |
+## 8.2.1 A tényfeltárás összköltsége (ezer Ft)
 
-| B3 – Technológiai információs adatlap | B3TI |
+## 8.2.2 A tényfeltárási szakasz időtartama (hó)
 
-## 7M03713_24
+## 8.3 A 8.1 és 8.2 pontok alatti költségek összesítése
 
-| A kérdés száma | K É R D É S | V Á L A S Z |
+## 8.3.1 A tényfeltárások költsége összesen (ezer Ft)
 
-| 8. | A műszaki beavatkozás során kezelt talaj mennyisége (az egyik érték megadása kötelező) | 8.1 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜,⬜ t |
+## 8.3.2 Ráfordítások összesen (ezer Ft)
 
-| 8.2 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜,⬜ m3 |
+## 8.3.3 A költségszámítási árszint viszonyítási éve
 
-| 9. | A műszaki beavatkozás során kezelt felszín alatti víz mennyisége | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜,⬜ m3 |
+## 8.4 A műszaki beavatkozás becsült költsége
 
-| 10. | További, feltárt (D) kármentesítési célállapot határértékkel nem rendelkező, (B) szennyezettségi határértéket meghaladó koncentrációjú szennyező anyagok előfordulása | 1. igen 2. nem Írja be a választ jelölő számot ⬜ |
+## 8.4.1 A műszaki beavatkozási költségek becslésének éve
 
-| 10.1 | A szennyező anyag KAJ kódja a 3. számú függelék szerint | A szennyező anyag megnevezése |
+## 8.4.2 A műszaki beavatkozás becsült költsége (ezer Ft)
 
-| 10.1.1 | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | .…………………………………………... |
+## 8.4.3 A műszaki beavatkozás becsült költségének árszint viszonyítási éve
 
-| 10.1.2 | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | .…………………………………………... |
+## 8.4.4 A műszaki beavatkozási szakasz várható időigénye (hó)
 
-| 10.1.3 | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | .…………………………………………... |
+## 8.4.5 A javasolt műszaki beavatkozásnál alkalmazott technológiák kódja a 6. számú függelék szerint
 
-| 10.1.4 | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ | .…………………………………………... |
+## 8.4.5.1 Alkalmazott technológiák megnevezése
 
-| 11. | Alkalmazott kármentesítési technológia |
+## 8.5 A tényfeltárás utáni kármentesítési monitoring becsült költsége
 
-| 11.1 | A műszaki beavatkozásnál alkalmazott technológiák kódja a 6. számú függelék szerint | 11.1.1 ⬜ ⬜ ⬜ ⬜ |
+## 8.5.1 A monitoring költségek becslésének éve
 
-| 11.1.2 ⬜ ⬜ ⬜ ⬜ |
+## 8.5.2 A monitoring becsült költsége (ezer Ft)
 
-| 11.1.3 ⬜ ⬜ ⬜ ⬜ |
+## 8.5.3 A monitoring becsült költségének árszint viszonyítási éve
 
-| 11.1.4 ⬜ ⬜ ⬜ ⬜ |
+## 8.5.4 A monitoring szakasz várható időigénye (hónap)
 
-## FAVI-KÁRINFO B3
+## 9. A szennyezett területen monitoring rendszer működik?
 
-| KÜJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | KTJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | Oldalszám: ⬜⬜/ ⬜⬜. | FAVI- KÁRINFO B3 |
+## 10. Felhasznált dokumentumok jegyzéke
 
-| A MŰSZAKI BEAVATKOZÁST ELRENDELŐ HATÁROZAT SZÁMA: |  |  |
+## 11. Megjegyzés
 
-## 7M03713_26
+6. számú melléklet a 18/2007. (V. 10.) KvVM rendelethez[^18]
 
-| A kérdés száma | K É R D É S | V Á L A S Z |
-
-| 11.2 | A kóddal nem rendelkező, alkalmazott technológiák felsorolása | …………………………………………… …………………………………………… …………………………………………… …………………………………………… |
-
-| 12. | A záródokumentációban bemutatott műszaki beavatkozás után javasolt területhasználat a 2. számú függelék alapján | 12.1 ⬜ ⬜ ⬜ ⬜ |
-
-| 12.2 ⬜ ⬜ ⬜ ⬜ |
-
-## FAVI-KÁRINFO B3
-
-| KÜJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | KTJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | Oldalszám: ⬜⬜/ ⬜⬜. | FAVI- KÁRINFO B3 |
-
-| A MŰSZAKI BEAVATKOZÁST ELRENDELŐ HATÁROZAT SZÁMA: |  |  |
-
-| B3 – Költség adatlap | B3KT |
-
-## 7M03713_29
-
-| A kérdés száma | K É R D É S | V Á L A S Z |
-
-| 13. | A tényfeltárás költség adatai |
-
-| 13.1 | A tényfeltárás előtti összköltség |
-
-| 13.1.1 | A tényfeltárás előtti költségek (ezer Ft) | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
-
-| 13.1.2 | A tényfeltárás előtti költségek árszint viszonyítási éve | ⬜ ⬜ ⬜ ⬜ |
-
-| 13.2 | A tényfeltárás költség adatai |
-
-| 13.2.1 | A tényfeltárás összköltsége (ezer Ft) | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
-
-| 13.2.2 | A tényfeltárási költségek árszint viszonyítási éve | ⬜ ⬜ ⬜ ⬜ |
-
-| 13.2.3 | A tényfeltárási szakasz időtartama (hó) | ⬜ ⬜ ⬜ |
-
-| 13.3 | A műszaki beavatkozás előtti monitoring összköltsége |
-
-| 13.3.1 | A kármentesítési monitoring összköltsége (ezer Ft) | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
-
-| 13.3.2 | A kármentesítési monitoring árszint viszonyítási éve | ⬜ ⬜ ⬜ ⬜ |
-
-| 13.3.3 | A kármentesítési monitoring szakasz időtartama (hó) | ⬜ ⬜ ⬜ |
-
-| 13.4 | A műszaki beavatkozás összköltsége |
-
-| 13.4.1 | A műszaki beavatkozás összköltségeinek (ezer Ft) | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
-
-| 13.4.2 | A műszaki beavatkozási költségek árszint viszonyítási éve | ⬜ ⬜ ⬜ ⬜ |
-
-| 13.4.3 | A műszaki beavatkozási szakasz tényleges időtartama (hó) | ⬜ ⬜ ⬜ |
-
-| 13.5 | A műszaki beavatkozás utáni monitoring költségeinek becsült adatai |
-
-| 13.5.1 | A kármentesítési monitoring becsült költsége (ezer Ft) | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
-
-| 13.5.2 | A kármentesítési monitoring költségek árszint viszonyítási éve | ⬜ ⬜ ⬜ ⬜ |
-
-| 13.5.3 | A kármentesítési monitoring szakasz várható időigénye (hó) | ⬜ ⬜ ⬜ |
-
-## FAVI-KÁRINFO B3
-
-| KÜJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | KTJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | Oldalszám: ⬜⬜/ ⬜⬜. | FAVI- KÁRINFO B3 |
-
-| A MŰSZAKI BEAVATKOZÁST ELRENDELŐ HATÁROZAT SZÁMA: |  |  |
-
-## 7M03713_31
-
-| A HATÓSÁG TÖLTI KI! A B3TH ADATLAP A MŰSZAKI BEAVATKOZÁS ZÁRÓDOKUMENTÁCIÓJÁT ELFOGADÓ JOGERŐS HATÁROZAT UTÁN TÖLTENDŐ KI! |
-
-| B3 –A területen szükséges beavatkozások és területhasználatok adatlapja | B3TH |
-
-## 7M03713_33
-
-| A kérdés száma | K É R D É S | V Á L A S Z |
-
-| 14. | A műszaki beavatkozási záródokumentációt elfogadó határozat száma | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
-
-| 15. | Hatósági állásfoglalás: |
-
-| 15.1 | a kármentesítés befejeződött | 1. igen 2. nem Írja be a választ jelölő számot ⬜ |
-
-| 15.2 | további tényfeltárás szükséges | 1. igen 2. nem Írja be a választ jelölő számot ⬜ |
-
-| 15.3 | műszaki beavatkozás folytatása szükséges | 1. igen 2. nem Írja be a választ jelölő számot ⬜ |
-
-| 15.4 | kármentesítési monitoring szükséges | 1. igen 2. nem Írja be a választ jelölő számot ⬜ |
-
-| 15.5 | egyéb államigazgatási eljárás indítása szükséges | 1. igen 2. nem Írja be a választ jelölő számot ⬜ |
-
-## FAVI-KÁRINFO B3
-
-| KÜJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | KTJ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | Oldalszám: ⬜⬜/ ⬜⬜. | FAVI- KÁRINFO B3 |
-
-| A MŰSZAKI BEAVATKOZÁST ELRENDELŐ HATÁROZAT SZÁMA: |  |  |
-
-## 7M03713_35
-
-| A HATÓSÁG TÖLTI KI! A B3TK ADATLAP A MŰSZAKI BEAVATKOZÁS ZÁRÓDOKUMENTÁCIÓJÁT ELFOGADÓ JOGERŐS HATÁROZAT UTÁN TÖLTENDŐ KI! |
-
-| B3 –Tartós környezetkárosodás adatlapja | B3TK |
-
-## 7M03713_37
-
-| A kérdés száma | K É R D É S | V Á L A S Z |
-
-| 16. | Indokolt-e a tartós környezetkárosodásnak az ingatlan-nyilvántartásba való feljegyzése | 1. igen 2. nem Írja be a választ jelölő számot ⬜ |
-
-| 17. | A tartós környezetkárosodás szerepel-e az ingatlan-nyilvántartásban? | 1. igen 2. nem Írja be a választ jelölő számot ⬜ |
-
-| 18. | Van-e hatósági határozat a tartós környezetkárosodásnak az ingatlan-nyilvántartásba történő feljegyzésére? | 1. igen 2. nem Írja be a választ jelölő számot ⬜ |
-
-| 19. | A tartós környezetkárosodás feljegyzését előíró hatósági határozat száma | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-
-| 20. | A tartós környezetkárosodás tényét visszavonó hatósági határozat száma | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-
-## FAVI-KÁRINFO B3
-
-6. számú melléklet a 18/2007. (V. 10.) KvVM rendelethez
-
-„Monitoring információs rendszer, környezethasználati monitoring”
-
-megnevezésű MIR-K adatlap
-
-FAVI-MIR-K
-
-7M03725_0
-
-|  | Borítólap MONITORING ADATOK BEJELENTÉSÉRŐL |  |
-
-| MIR-K |
-
-|  | Vonatkozás dátuma: |  |
-
-|  |  |  |  |  | . |  |  | . |  |  | . | -tól | - |  |  |  |  | . |  |  | . |  |  | . | -ig |
-
-|  | Adatszolgáltatás típusa: |  |  |  |
-
-Adatszolgáltató ügyfél adatai
-
-| 1. KÜJ (Környezetvédelmi Ügyfél Jel): | 2. Ügyfél neve |
-
-Kapcsolattartó személy adatai
-
-| 3. Név: |  |  | 4. Beosztás |  |  |
-
-| 5. Értesítési cím: |  |  |  |  |  |  |  |  |
-
-| irányítószám |  | település neve |  |  | utca, út , tér | házszám |
-
-| 6. Telefon: | 7. Fax-szám: | 8. E-mail: |
-
-Adatszolgáltatásra vonatkozó adatok
-
-| 9. Adatszolgáltatás teljesítésének módja (A,S,I): |  |  |
-
-| 10. Aláíró személy neve: |  |  | 11. Aláíró személy beosztása: |  |  |
-
-| 12. Kitöltés dátuma: |  |  |  |  | . |  |  | . |  |  | . |
-
-| Valótlan adatok közlése, az adatszolgáltatás megtagadása és a késedelmes adatszolgáltatás az érvényes jogszabályok szerint bírság kiszabását vonja maga után! |
-
-|  |  |  |  |  |  |  |  |  | P.H. |  |  |  |  |  |  |  |
-
-| Cégszerű aláírás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Cégszerű aláírás |
-
-Környezetvédelmi hatóság tölti ki!
-
-7M03725_7
-
-| I/a. Beérkezés dátuma: | I/b. Iktatószám |
-
-|  |  |  |  |  |  | . |  |  | . |  |  | . |
-
-| I/c. Szakmai ellenőrzést végző neve: | I/d. Szakmai ellenőrzés utáni állásfoglalás: |
-
-| aláírása: |  |  |  | Megfelelő |  |  | Nem megfelelő |
-
-FAVI-MIR-K
-
-Monitoring rendszerazonosító ⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-7M03725_8
-
-|  | Adatlap A BENYÚJTOTT ADATLAPOK ÖSSZEGZÉSÉRŐL |  |
-
-|  | MIR-K-2 |
-
-| Lapnév | Lapok száma (db) | Mellékletek (db) |
-
-| MR |  |  |  |  |  |  |
-
-| MR-2 |  |  |  |  |  |  |
-
-| MO |  |  |  |  |  |  |
-
-| MO-Fa |  |  |  |  |  |  |
-
-| MO-Fa-2 |  |  |  |  |  |  |
-
-| MO-F |  |  |  |  |  |  |
-
-| MO-E |  |  |  |  |  |  |
-
-| MM |  |  |  |  |  |  |
-
-| HM |  |  |  |  |  |  |
-
-| L |  |  |  |  |  |  |
-
-| MA |  |  |  |  |  |  |
-
-| É |  |  |  |  |  |  |
-
-FAVI-MIR-K
-
-Monitoring rendszerazonosító ⬜⬜⬜⬜⬜⬜⬜⬜⬜ oldalszám ⬜⬜⬜
-
-7M03725_10
-
-|  | Adatlap MONITORING RENDSZERRŐL |  |
-
-|  | MR |
-
-Adatszolgáltatás jellege: ⬜⬜
-
-| A kérdés száma | KÉRDÉS | Változás kód | VÁLASZ |
-
-| 1 | Adatbejelentés típusa | ⬜ | ⬜⬜⬜⬜ |
-
-| 2 | Adatbejelentés típusának megnevezése | ⬜ | ________________________________ |
-
-| 3 | Monitoring rendszer elnevezése | ⬜ | ________________________________ ________________________________ |
-
-| 4 | Az expedíciós mérés célja | ⬜ | ________________________________ |
-
-FAVI-MIR-K
-
-Monitoring rendszerazonosító ⬜⬜⬜⬜⬜⬜⬜⬜⬜ oldalszám ⬜⬜⬜
-
-7M03725_12
-
-|  | Adatlap MONITORING RENDSZER ÁLTAL MEGFIGYELT KÖRNYEZETHASZNÁLAT |  |
-
-|  | MR-2 |
-
-Adatszolgáltatás jellege: ⬜⬜
-
-| 1 Sorszám | 2 Változás kód | 3 monitoring rendszer által megfigyelt környezethasználat KTJ azonosítója | 4 A monitoring rendszer által megfigyelt környezethasználat megnevezése |
-
-| ⬜⬜⬜ | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ………………………………………………………….. |
-
-| ⬜⬜⬜ | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ………………………………………………………….. |
-
-| ⬜⬜⬜ | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ………………………………………………………….. |
-
-| ⬜⬜⬜ | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ………………………………………………………….. |
-
-| ⬜⬜⬜ | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ………………………………………………………….. |
-
-| ⬜⬜⬜ | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ………………………………………………………….. |
-
-| ⬜⬜⬜ | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ………………………………………………………….. |
-
-| ⬜⬜⬜ | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ………………………………………………………….. |
-
-| ⬜⬜⬜ | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ………………………………………………………….. |
-
-| ⬜⬜⬜ | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ………………………………………………………….. |
-
-| ⬜⬜⬜ | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ………………………………………………………….. |
-
-| ⬜⬜⬜ | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ………………………………………………………….. |
-
-| ⬜⬜⬜ | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ………………………………………………………….. |
-
-| ⬜⬜⬜ | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ………………………………………………………….. |
-
-| ⬜⬜⬜ | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ………………………………………………………….. |
-
-FAVI-MIR-K
-
-Monitoring rendszerazonosító ⬜⬜⬜⬜⬜⬜⬜⬜⬜ oldalszám ⬜⬜⬜
-
-7M03725_14
-
-|  | Adatlap MÉRŐPONTRA VONATKOZÓ ADATOK (MÉRŐPONTONKÉNT) |  |
-
-|  | MO |
-
-Adatszolgáltatás jellege: ⬜⬜
-
-| A kérdés száma | KÉRDÉS | Változás kód | VÁLASZ |
-
-| 1 | Mérőpont helyi elnevezése |  | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-
-| 2 | Mérőpont típusa | ⬜ | ⬜⬜⬜⬜ |
-
-| 3 | Mérőpont típusának megnevezése | ⬜ | ____________________________________________________________ |
-
-| 4 | Mérőpont helye (településkód) | ⬜ | ⬜⬜⬜⬜⬜ |
-
-| 5 | Mérőpont helyének helyrajzi száma | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-
-| 6 | Területhasználat | ⬜ | ⬜⬜⬜⬜ |
-
-| 7 | Területhasználat megnevezése | ⬜ | ____________________________________________________________ |
-
-| 8 | Mérőpont KTJ száma | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-
-| 9 | Mérőpont EOV X koordinátája (m) | ⬜ | ⬜⬜⬜⬜⬜⬜ |
-
-| 10 | Mérőpont EOV Y koordinátája (m) | ⬜ | ⬜⬜⬜⬜⬜⬜ |
-
-| 11 | Meghatározás módja | ⬜ | ⬜⬜ |
-
-| 12 | Mérőpont Balti alapszint feletti magassága (m) | ⬜ | ⬜⬜⬜⬜, ⬜ |
-
-| 13 | Meghatározás módja | ⬜ | ⬜⬜ |
-
-| 14 | Tulajdonjog kódja | ⬜ | ⬜ |
-
-| 15 | Tulajdonos neve | ⬜ | ____________________________________________________________ |
-
-| 16 | Tulajdonos címe | ⬜ | ⬜⬜⬜⬜________________________________________ |
-
-| 17 | Engedély típusa | ⬜ | ⬜ |
-
-| 18 | Engedély száma | ⬜ | ⬜⬜⬜⬜__________________________________________ |
-
-| 19 | Kataszteri szám | ⬜ | ⬜⬜⬜⬜⬜⬜/ ⬜ |
-
-| 20 | Település kód | ⬜ | ⬜⬜⬜⬜⬜ |
-
-| 21 | VIFIR-kód | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-
-FAVI-MIR-K
-
-Monitoring rendszerazonosító ⬜⬜⬜⬜⬜⬜⬜⬜⬜ oldalszám ⬜⬜⬜
-
-Mérőpont helyi elnevezése ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-Mérőpont KTJ száma ⬜⬜⬜⬜⬜⬜⬜⬜⬜ MO lap oldalszáma ⬜⬜⬜
-
-7M03725_16
-
-|  | Adatlap MÉRŐPONTRA VONATKOZÓ ADATOK FELSZÍN ALATTI VÍZ MONITOROZÁSA ESETÉN (MÉRŐPONTONKÉNT) |  |
-
-|  | MO-Fa |
-
-Adatszolgáltatás jellege: ⬜⬜
-
-| A kérdés száma | KÉRDÉS | Változás kód | VÁLASZ |
-
-| 1 | Feltárt/megfigyelt víztípus kódja | ⬜ | ⬜⬜ |
-
-| 2 | Létesítés éve | ⬜ | ⬜⬜⬜⬜ |
-
-| 3 | Kialakítás módja | ⬜ | ⬜⬜ |
-
-| 4 | Kialakítás módjának megnevezése | ⬜ | _________________________________________________ |
-
-| 5 | Kútfej kiképzés történt-e, módja | ⬜ | 1 - igen 2 - nem | ⬜ |
-
-| 6 | Kútfej terephez viszonyított helyzete | ⬜ | 1 - pozitív 2 - negatív | ⬜⬜⬜, ⬜⬜⬜ |
-
-| 7 | Szűrőzés sorszáma | ⬜ | ⬜ |
-
-| 8 | Talpmélység (m) | ⬜ | ⬜⬜⬜⬜, ⬜ |
-
-| 9 | Cső anyaga | ⬜ | ⬜⬜ |
-
-| 10 | Cső anyagának megnevezése | ⬜ | _________________________________________________ |
-
-| 11 | Szűrőcső átmérője (mm) | ⬜ | ⬜⬜⬜⬜⬜⬜ |
-
-| 12 | Szűrőcső anyaga | ⬜ | ⬜⬜ |
-
-| 13 | Szűrőcső anyagának megnevezése | ⬜ | _________________________________________________ |
-
-FAVI-MIR-K
-
-Monitoring rendszerazonosító ⬜⬜⬜⬜⬜⬜⬜⬜⬜ oldalszám ⬜⬜⬜
-
-Mérőpont helyi elnevezése ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-Mérőpont KTJ száma ⬜⬜⬜⬜⬜⬜⬜⬜⬜ MO lap oldalszáma ⬜⬜⬜
-
-7M03725_18
-
-|  | Adatlap MÉRŐPONTRA VONATKOZÓ ADATOK FELSZÍN ALATTI VÍZ MONITOROZÁSA ESETÉN (MÉRŐPONTONKÉNT) |  |
-
-|  | MO-Fa-2 |
-
-Adatszolgáltatás jellege: ⬜⬜
+[^18]: A 6. számú melléklet a 38/2014. (XII. 17.) FM rendelet 6. § (6) bekezdésével megállapított szöveg.
