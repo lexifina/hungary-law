@@ -4,7 +4,7 @@
 
 (3)[^22] A tanácsadó Családvédelmi Szolgálatnál 2001. március 1-jét követően a tanácsadás teljes időtartama alatt legalább egy olyan személy részvétele szükséges, aki az ÁNTSZ által szervezett szakirányú tanfolyamot elvégezte.
 
-(4)[^23] A főiskolai végzettségű védőnők számára évente legalább két alkalommal az ÁNTSZ a szakirányú tanfolyamot meghirdeti, és a bekerülési költségének megtérítése esetén azt megszervezi. A szakirányú tanfolyamot végzettekről az ÁNTSZ Országos Tisztifőorvosi Hivatala nyilvántartást vezet. A nyilvántartásba a rendelet hatálybalépése napját megelőzően szakirányú tanfolyamot elvégzett személyeket is fel kell venni.
+(4)[^23] A főiskolai végzettségű védőnők számára az ÁNTSZ a szakirányú tanfolyamot évente meghirdeti, és a bekerülési költségének megtérítése esetén azt megszervezi. A szakirányú tanfolyamot végzettekről az ÁNTSZ Országos Tisztifőorvosi Hivatala nyilvántartást vezet. A nyilvántartásba a rendelet hatálybalépése napját megelőzően szakirányú tanfolyamot elvégzett személyeket is fel kell venni.
 
 Melléklet a 232/2000. (XII. 23.) Korm. rendelethez
 
@@ -51,4 +51,4 @@ c) szemléltető, ismeretterjesztő anyagok tárolására alkalmas bútorzat (am
 3. WC (kézmosási lehetőséggel).
 
 [^22]: A 8. § (3) bekezdés második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1116. pontja hatályon kívül helyezte.
-[^23]: A 8. § (4) bekezdése a 12/2005. (I. 26.) Korm. rendelet 6. § (2) bekezdésének c) pontja szerint módosított szöveg.
+[^23]: A 8. § (4) bekezdése a 12/2005. (I. 26.) Korm. rendelet 6. § (2) bekezdés c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 41. §-a szerint módosított szöveg.
