@@ -4,10 +4,15 @@
 
 a) a társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás során az egyes naptári évekre figyelembevételre kerülő szolgálati időt és keresetet, jövedelmet,
 
-b) a társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás összegét,
+b)[^3] a társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalásnak – a kérelem uniós intézménynél történő benyújtásának évére, de legkorábban a 2012. évre számított – összegét,
 
 c) a T. 2. § (3) bekezdésében foglaltakról történő tájékoztatást.
+
+(1a)[^4] Ha az átutalásnak az uniós intézmény által megjelölt időpontja a kérelem uniós intézménynél történő benyújtásának időpontját követő naptári évben van, a nyugdíjbiztosítási átutalás összegét hivatalból újra meg kell állapítani.
 
 (2) A határozat végrehajthatóvá válásáról az uniós intézményt is értesíteni kell.
 
 (3) Magánnyugdíjpénztárból történő nyugdíjbiztosítási átutalás esetén a határozatot közölni kell a magánnyugdíjpénztárral, és értesíteni kell a határozat végrehajthatóvá válásáról. A határozat végrehajthatóvá válásáról szóló értesítésben fel kell tüntetni azt az időpontot, amelyet az uniós intézmény a nyugdíjbiztosítási átutalásra történő felhívásában a nyugdíjbiztosítási átutalás teljesítésének időpontjaként megjelölt.
+
+[^3]: A 3. § (1) bekezdés b) pontja a 353/2014. (XII. 29.) Korm. rendelet 62. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (1a) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 62. § (2) bekezdése iktatta be.
