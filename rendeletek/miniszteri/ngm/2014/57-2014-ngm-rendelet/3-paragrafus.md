@@ -1,0 +1,5 @@
+## 2. § Az R. 54. §-a helyébe a következő rendelkezés lép:
+
+## „54. § (1) A közölt vámösszeg és nem közösségi adók és díjak megfizetésének időpontja az a nap, amikor a teljes összeg az előírásnak megfelelően a NAV által kezelt államháztartási számlán jóváírásra került. A fizetési szolgáltató és a NAV megállapodást köthet a készpénzben megfizetett vámbiztosíték, a vám és a nem közösségi adók és díjak Magyar Államkincstáron át történő összevont átutalásának teljesítéséről.
+
+## (2) A vámhatóság hatáskörébe tartozó közvetlen közösségi bevételi számlát érintő nyilvántartás vezetése során a Vtv. 52. § (1) bekezdése szerinti átutalással történő teljesítésnek kell érteni a vámhatósághoz teljesítendő befizetések vonatkozásában jogszabályban meghatározott elektronikus fizetéseket és elszámolásokat biztosító alrendszeren keresztül átutalással történő elektronikus fizetést is, valamint bankkártya felhasználásával történő teljesítésnek kell érteni a jogszabályban meghatározott, az elektronikus fizetéseket és elszámolásokat biztosító alrendszeren keresztül POS terminál útján történő bankkártyás fizetést.”
