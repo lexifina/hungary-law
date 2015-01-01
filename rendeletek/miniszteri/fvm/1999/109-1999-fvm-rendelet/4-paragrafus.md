@@ -36,7 +36,7 @@ ténye az ügyszám megjelölésével,
 
 4. bírósági ítéleten alapuló tulajdoni korlátozás,
 
-5. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelésének ténye, valamint egyéb építésügyi korlátozás ténye, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés ténye, valamint önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség ténye,
+5.[^13] bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelésének ténye, valamint egyéb építésügyi korlátozás ténye, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés ténye, a kulturális örökség védelméről szóló törvényben meghatározott örökségvédelmi hatósági kötelezés ténye, valamint önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség ténye,
 
 6. kisajátítási eljárás megindításának ténye,
 
@@ -138,7 +138,7 @@ g) törölt bejegyzésre való utalás,
 
 h) kiegészítő szöveges bejegyzés.
 
-(3a)[^13] Az illetékességi terület-változásból eredő átcsatolás esetén a tulajdoni lap III. része – ideértve az egyidejűleg megszüntetett tulajdoni lapot is – önálló sorszám alatt tartalmazza a változásra történő utalást, annak dátumát, valamint az átadó, illetve az átvevő földhivatal 4/A. § (6) bekezdése szerinti rövidített nevének megjelölését.
+(3a)[^14] Az illetékességi terület-változásból eredő átcsatolás esetén a tulajdoni lap III. része – ideértve az egyidejűleg megszüntetett tulajdoni lapot is – önálló sorszám alatt tartalmazza a változásra történő utalást, annak dátumát, valamint az átadó, illetve az átvevő földhivatal 4/A. § (6) bekezdése szerinti rövidített nevének megjelölését.
 
 (4) A tulajdoni lap természetes személy jogosult esetén tartalmazza a személyi azonosítót, a statisztikai számjelről szóló jogszabály hatálya alá tartozó szervezet esetén annak statisztikai számjelét.
 
@@ -149,4 +149,5 @@ h) kiegészítő szöveges bejegyzés.
 [^10]: A 4. § (1) bekezdés g) pontja a 21/2014. (III. 14.) VM rendelet 28. § b) pontja szerint módosított szöveg.
 [^11]: A 4. § (1) bekezdés h) pontját a 148/2012. (XII. 28.) VM rendelet 1. § (1) bekezdése iktatta be.
 [^12]: A 4. § (2) bekezdése a 13/2014. (IX. 25.) FM rendelet 1. §-ával megállapított szöveg.
-[^13]: A 4. § (3a) bekezdését a 148/2012. (XII. 28.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^13]: A 4. § (2) bekezdés 5. pontja a 39/2014. (XII. 18.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^14]: A 4. § (3a) bekezdését a 148/2012. (XII. 28.) VM rendelet 1. § (3) bekezdése iktatta be.

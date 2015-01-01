@@ -1,3 +1,3 @@
-## 38.[^113] Rét
+## 38.[^116] Rét
 
-[^113]: A 38. alcím a 48/2010. (IV. 27.) FVM rendelet 45. §-ával megállapított szöveg.
+[^116]: A 38. alcím a 48/2010. (IV. 27.) FVM rendelet 45. §-ával megállapított szöveg.

@@ -1,8 +1,8 @@
 ## 39. § A jogerős hatósági vagy bírósági határozattal megállapított tartós környezetkárosodás tényét, mértékét és jellegét egész ingatlanra, illetőleg annak természetben kijelölt vagy területi mértékben meghatározott részére lehet bejegyezni.
 
-## 35.[^105] Jogi jelleg
+## 35.[^106] Jogi jelleg
 
-39/A. §[^106] (1) Az ingatlan jogi jellegeként feljegyezhető
+39/A. §[^107] (1) Az ingatlan jogi jellegeként feljegyezhető
 
 a) a társasház;
 
@@ -10,11 +10,11 @@ b) szövetkezeti ház;
 
 c) bányatelek;
 
-d) műemlék;
+d)[^108] műemlék, vagy nyilvántartott műemléki érték;
 
 e) műemléki terület (műemléki jelentőségű terület, történeti táj, műemléki környezet);
 
-f) régészeti lelőhely (törvény erejénél fogva védett és rendeletben védetté nyilvánított, fokozottan vagy kiemelten védett régészeti lelőhely);
+f)[^109] régészeti lelőhely (törvény erejénél fogva védett és rendeletben védetté nyilvánított, fokozottan vagy kiemelten védett régészeti lelőhely), vagy régészeti védőövezet;
 
 g) tanya;
 
@@ -36,5 +36,7 @@ l) olyan egyéb, a tulajdonjog közérdekű korlátozásával járó tény, amel
 
 (5) Az Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg az 1 hektárnál kisebb belterületi földrészleten csak az egész ingatlanra jegyezhető fel.
 
-[^105]: A 39/A. §-t megelőző alcímet a 117/2005. (XII. 19.) FVM rendelet 15. §-a iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 42. §-ával megállapított szöveg.
-[^106]: A 39/A. §-t a 117/2005. (XII. 19.) FVM rendelet 15. §-a iktatta be, szövege a 148/2012. (XII. 28.) VM rendelet 6. §-ával megállapított szöveg.
+[^106]: A 39/A. §-t megelőző alcímet a 117/2005. (XII. 19.) FVM rendelet 15. §-a iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 42. §-ával megállapított szöveg.
+[^107]: A 39/A. §-t a 117/2005. (XII. 19.) FVM rendelet 15. §-a iktatta be, szövege a 148/2012. (XII. 28.) VM rendelet 6. §-ával megállapított szöveg.
+[^108]: A 39/A. § (1) bekezdés d) pontja a 39/2014. (XII. 18.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^109]: A 39/A. § (1) bekezdés f) pontja a 39/2014. (XII. 18.) FM rendelet 11. § (3) bekezdésével megállapított szöveg.

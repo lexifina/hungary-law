@@ -1,4 +1,4 @@
-18. §[^53] (1) A jelzálogjogi bejegyzésben fel kell tüntetni a jelzálogjog jogosultját, meg kell jelölni a zálogjoggal biztosított követelést, az alapul szolgáló egy vagy több jogviszonyra utalással és az összeg meghatározásával vagy a bejegyzés alapjául szolgáló okiratra történő utalással. Fogyasztói zálogszerződés esetén a bejegyzésnek tartalmaznia kell a jelzálogjoggal biztosított összeg megjelölését is.
+18. §[^54] (1) A jelzálogjogi bejegyzésben fel kell tüntetni a jelzálogjog jogosultját, meg kell jelölni a zálogjoggal biztosított követelést, az alapul szolgáló egy vagy több jogviszonyra utalással és az összeg meghatározásával vagy a bejegyzés alapjául szolgáló okiratra történő utalással. Fogyasztói zálogszerződés esetén a bejegyzésnek tartalmaznia kell a jelzálogjoggal biztosított összeg megjelölését is.
 
 (2) Ha a felek meghatározták azt az összeget, amelynek erejéig a zálogjogosult kielégítést kereshet a zálogtárgyból, a bejegyzésben ezt az összeget fel kell tüntetni.
 
@@ -6,4 +6,4 @@
 
 (4) Ha a személyes kötelezett (adós) nem a jelzálogjoggal terhelt ingatlan tulajdonosa, a bejegyzésben a személyes adóst is fel kell tüntetni.
 
-[^53]: A 18. § a 21/2014. (III. 14.) VM rendelet 8. §-ával megállapított szöveg.
+[^54]: A 18. § a 21/2014. (III. 14.) VM rendelet 8. §-ával megállapított szöveg.
