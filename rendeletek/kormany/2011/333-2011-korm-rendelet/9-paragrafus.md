@@ -16,7 +16,7 @@ b) az (1) bekezdés szerinti kérelemben az ellátásban részesülővel közös
 
 c) az a) és b) pontban meghatározott személyek személyi jövedelemadóról szóló bevallásában kedvezményezett eltartottként megjelölt személyek természetes személyazonosító adatait és lakóhelyét, illetve a várandósságról szóló nyilatkozat tényét, valamint
 
-d)[^8] az a) és b) pontban megjelölt személyek által az adóévben igénybe vett családi kedvezmény és családi járulékkedvezmény összegét.
+d)[^9] az a) és b) pontban megjelölt személyek által az adóévben igénybe vett családi kedvezmény és családi járulékkedvezmény összegét.
 
 (4) A családi pótlékot folyósító szerv az ellátásban részesülőnek vagy vele közös háztartásban élő házastársának, élettársának – az adóévet követően benyújtott – kérelmére igazolást állít ki a családi pótlék adóévi jogosultságáról. Az igazolás tartalmazza
 
@@ -26,13 +26,13 @@ b) azoknak a kedvezményezett eltartottaknak a természetes személyazonosító 
 
 c) azoknak az Szja. tv. 29/A. § (5) bekezdés b) pontja szerinti eltartottaknak a természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét és Társadalombiztosítási Azonosító Jelét, akiket a családok támogatásáról szóló törvény szerint a családi pótlék összegének megállapítása szempontjából az adóévben figyelembe vettek, valamint azoknak a hónapoknak a számát, amelyekben az egyes eltartottakat a családi pótlék összegének megállapítása szempontjából az adóévben figyelembe vették.
 
-(5) A T. 4. § (4) bekezdése, illetve 5. § (5) bekezdése alapján igényelhető összeg folyósítása iránti kérelmet az ONYF által e célra rendszeresített, és az ONYF, valamint a nyugdíjbiztosítási igazgatási szervek honlapján, továbbá a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon a Nyugdíjfolyósító Igazgatósághoz kell benyújtani. Az adatlap és az elektronikus űrlap tartalmazza
+(5)[^10] A T. 4. § (4) bekezdése, illetve 5. § (5) bekezdése alapján igényelhető összeg folyósítása iránti kérelmet az ONYF főigazgatója által e célra rendszeresített, és az ONYF, valamint a nyugdíjbiztosítási igazgatási szervek honlapján, továbbá a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon a Nyugdíjfolyósító Igazgatósághoz kell benyújtani. Az adatlap és az elektronikus űrlap tartalmazza
 
 a) az ellátásban részesülő, vele közös háztartásban élő házastársa, élettársa és az eltartottak természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét és Társadalombiztosítási Azonosító Jelét,
 
-b)[^9] a nyilatkozatot a családi kedvezmény, családi járulékkedvezmény jogcíméről,
+b)[^11] a nyilatkozatot a családi kedvezmény, családi járulékkedvezmény jogcíméről,
 
-c)[^10] a nyilatkozatot a családi kedvezmény, családi járulékkedvezmény feltételeinek való megfelelésről, és
+c)[^12] a nyilatkozatot a családi kedvezmény, családi járulékkedvezmény feltételeinek való megfelelésről, és
 
 d) a T. 4. § (4) bekezdése, illetve 5. § (5) bekezdése alapján igényelt összeget.
 
@@ -48,6 +48,7 @@ c) az Szja. tv. 29/A. § (4) bekezdés b) pontja szerinti kedvezményezett eltar
 
 (8) Az (5) bekezdés szerinti kérelemről a Nyugdíjfolyósító Igazgatóság dönt. Az ellátásban részesülőnek a T. 4. § (4) bekezdése, illetve 5. § (5) bekezdése alapján megállapított összeget a Nyugdíjfolyósító Igazgatóság a határozat végrehajthatóvá válásától számított tíz munkanapon belül folyósítja.
 
-[^8]: A 9. § (3) bekezdés d) pontja az 500/2013. (XII. 29.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^9]: A 9. § (5) bekezdés b) pontja az 500/2013. (XII. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^10]: A 9. § (5) bekezdés c) pontja az 500/2013. (XII. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^9]: A 9. § (3) bekezdés d) pontja az 500/2013. (XII. 29.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^10]: A 9. § (5) bekezdés nyitó szövegrésze a 353/2014. (XII. 29.) Korm. rendelet 60. § a) pontja szerint módosított szöveg.
+[^11]: A 9. § (5) bekezdés b) pontja az 500/2013. (XII. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^12]: A 9. § (5) bekezdés c) pontja az 500/2013. (XII. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
