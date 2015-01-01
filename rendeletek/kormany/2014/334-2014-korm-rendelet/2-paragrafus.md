@@ -1,0 +1,5 @@
+## 1. § A közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről szóló 212/2013. (VI. 19.) Korm. rendelet 1. § a) pontja helyébe a következő rendelkezés lép:
+
+## (E rendelet alkalmazásában)
+
+## „a) gyógyszerész: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 74. § (1) bekezdés a) és b) pontjában meghatározott, Magyarországon megszerzett gyógyszerész oklevéllel vagy a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény (a továbbiakban: Etv.) Harmadik része szerinti eljárásban elismert, külföldön megszerzett gyógyszerész oklevéllel rendelkező személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerész és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerész, továbbá bármely gyógyszerész, aki a szakmája, önálló foglalkozása vagy üzleti tevékenysége körében eljárva közforgalmú gyógyszertárat működtető vállalkozásban tulajdoni hányadot kíván szerezni;”
