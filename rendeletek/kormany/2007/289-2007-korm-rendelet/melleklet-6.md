@@ -46,6 +46,6 @@
 
 ## szolgáltató (cégszerű aláírás)
 
-6. számú melléklet a 289/2007. (X. 31.) Korm. rendelethez[^58]
+6. számú melléklet a 289/2007. (X. 31.) Korm. rendelethez[^59]
 
-[^58]: A 6. számú mellékletet a 238/2008. (IX. 29.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 290/2009. (XII. 18.) Korm. rendelet 6. § (7) bekezdés d) pontja. Ez utóbbi módosító rendelet 6. § (3) bekezdése alapján a 2009. december 31-éig felhasznált hőmennyiségre tekintettel a 2009. december 31-éig hatályos rendelkezések alapján járó távhődíj-juttatás érvényesítésére és elszámolására a 2009. december 31-én hatályos rendelkezéseket kell alkalmazni.
+[^59]: A 6. számú mellékletet a 238/2008. (IX. 29.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 290/2009. (XII. 18.) Korm. rendelet 6. § (7) bekezdés d) pontja. Ez utóbbi módosító rendelet 6. § (3) bekezdése alapján a 2009. december 31-éig felhasznált hőmennyiségre tekintettel a 2009. december 31-éig hatályos rendelkezések alapján járó távhődíj-juttatás érvényesítésére és elszámolására a 2009. december 31-én hatályos rendelkezéseket kell alkalmazni.

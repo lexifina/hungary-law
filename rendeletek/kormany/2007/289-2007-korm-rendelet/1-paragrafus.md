@@ -1,6 +1,6 @@
 ## 1. § E rendelet alkalmazásában
 
-a)[^1] háztartás: az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező személyek közössége;
+a)[^2] háztartás: az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező személyek közössége;
 
 b) jövedelem: az elismert költségekkel és a befizetési kötelezettséggel csökkentett
 
@@ -20,7 +20,7 @@ Nem minősül jövedelemnek
 
 3. az anyasági támogatás,
 
-4.[^2] a tizenharmadik havi nyugdíj és a szépkorúak jubileumi juttatása,
+4.[^3] a tizenharmadik havi nyugdíj és a szépkorúak jubileumi juttatása,
 
 5. a személyes gondoskodásért fizetendő személyi térítési díj megállapítása kivételével a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményei, a vakok személyi járadéka és a fogyatékossági támogatás,
 
@@ -32,7 +32,7 @@ Nem minősül jövedelemnek
 
 9. az energiafelhasználáshoz nyújtott támogatás;
 
-c)[^3] havi jövedelem:
+c)[^4] havi jövedelem:
 
 ca) havi rendszerességgel járó – nem vállalkozásból, illetve őstermelői tevékenységből (a továbbiakban együtt: vállalkozás) származó – jövedelem esetén a kérelem benyújtását megelőző hónapban megszerzett jövedelem,
 
@@ -70,7 +70,7 @@ gc) azon egyéb lakóépület, amely műszakilag, illetőleg az ingatlan-nyilvá
 
 gd) azon önálló ingatlan, amely műszakilag elkülönült lakást tartalmaz. Műszakilag önállónak kell tekinteni a lakást, ha az a lakás használatbavételi engedélyéből egyértelműen kiderül;
 
-h)[^4] szolgáltató: a lakosság energiafelhasználásának szociális támogatásáról szóló 231/2006. (XI. 22.) Korm. rendelet (a továbbiakban: R.), illetőleg az e rendelet alapján nyújtott támogatás érvényesítésére és elszámolására a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztériummal (a továbbiakban: minisztérium) megállapodást kötött
+h)[^5] szolgáltató: a lakosság energiafelhasználásának szociális támogatásáról szóló 231/2006. (XI. 22.) Korm. rendelet (a továbbiakban: R.), illetőleg az e rendelet alapján nyújtott támogatás érvényesítésére és elszámolására a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztériummal (a továbbiakban: minisztérium) megállapodást kötött
 
 ha) gázszolgáltató, gázkereskedő, távhőszolgáltató, valamint a távhőszolgáltatásról szóló 2005. évi XVIII. törvény hatálya alá nem tartozó központi hőellátó rendszert üzemben tartó gazdálkodó szervezet (a továbbiakban: hőtermelő), továbbá
 
@@ -92,17 +92,17 @@ jc) a szolgáltatás díját díjszétosztás nélkül fizető társasházi fogy
 
 k) fogyasztási időszak: a számlán feltüntetett hőmennyiség felhasználásának időszaka;
 
-l)[^5] jogosultsági időszak: a 2009. január 1-je és 2011. augusztus 31-e közötti időszak;
+l)[^6] jogosultsági időszak: a 2009. január 1-je és 2011. augusztus 31-e közötti időszak;
 
-m)[^6] elszámolási időszak: havonta elszámolási céllal végzett fogyasztás-megállapítás (leolvasás) esetén a 2008. december 31-én vagy azt közvetlenül megelőzően történő leolvasástól a 2011. augusztus 31-én történő vagy az azt követő első leolvasás közötti időszak; évente egyszer végzett elszámolási célú fogyasztás-megállapítás (leolvasás) esetén az évente elvégzett leolvasási időpontok közötti időszak;
+m)[^7] elszámolási időszak: havonta elszámolási céllal végzett fogyasztás-megállapítás (leolvasás) esetén a 2008. december 31-én vagy azt közvetlenül megelőzően történő leolvasástól a 2011. augusztus 31-én történő vagy az azt követő első leolvasás közötti időszak; évente egyszer végzett elszámolási célú fogyasztás-megállapítás (leolvasás) esetén az évente elvégzett leolvasási időpontok közötti időszak;
 
 n) fogyasztási jelleggörbe: az éves gázfogyasztás naptári hónapokra eső részének százalékos arányát tartalmazó adatsor;
 
 o) közös képviselő: a társasház szolgáltató felé történő képviseletével a társasház szervezeti-működési szabályzatában, alapszabályában, illetve megállapodás alapján feljogosított személy vagy szervezet.
 
-[^1]: Az 1. § a) pontja a 286/2008. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § b) pontjának 4. alpontja a 286/2008. (XI. 28.) Korm. rendelet 11. § (2) bekezdésének a) pontja szerint módosított szöveg. E módosító rendelet 10. § (3) bekezdése alapján a 2008. november 30-án folyamatban lévő ügyekre a 2008. november 29-én hatályos rendelkezésket kell alkalmazni.
-[^3]: Az 1. § c) pontja a 286/2008. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 1. § h) pontja a 221/2014. (IX. 4.) Korm. rendelet 405. § a) pontja szerint módosított szöveg.
-[^5]: Az 1. § l) pontja a 85/2011. (V. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^6]: Az 1. § m) pontja a 85/2011. (V. 26.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § a) pontja a 286/2008. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § b) pontjának 4. alpontja a 286/2008. (XI. 28.) Korm. rendelet 11. § (2) bekezdésének a) pontja szerint módosított szöveg. E módosító rendelet 10. § (3) bekezdése alapján a 2008. november 30-án folyamatban lévő ügyekre a 2008. november 29-én hatályos rendelkezésket kell alkalmazni.
+[^4]: Az 1. § c) pontja a 286/2008. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 1. § h) pontja a 221/2014. (IX. 4.) Korm. rendelet 405. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § l) pontja a 85/2011. (V. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: Az 1. § m) pontja a 85/2011. (V. 26.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

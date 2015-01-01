@@ -220,7 +220,7 @@
 
 ## Keresőtevékenységből származó jövedelemnek minősül minden olyan bevétel, amely munkavégzésből származik, például: munkabér, megbízási díj, vállalkozásból származó jövedelem.
 
-## A gyermek neveléséhez, gondozásához kapcsolódó ellátások: terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
+## A gyermek neveléséhez, gondozásához kapcsolódó ellátások: terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
 
 ## Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, rokkantsági, baleseti rokkantsági nyugdíj, rehabilitációs járadék, özvegyi és szülői nyugdíj, árvaellátás és baleseti hozzátartozói nyugellátások, bányásznyugdíj, a korengedményes nyugdíj, egyes művészeti tevékenységet folytatók öregségi nyugdíja, a szolgálati nyugdíj, előnyugdíj, a mezőgazdasági szövetkezeti járadék, a mezőgazdasági szakszövetkezeti járadék és a mezőgazdasági szakszövetkezeti tagok növelt összegű járadéka; rendszeres szociális járadék, átmeneti járadék, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, nemzeti gondozási díj, nemzeti helytállásért pótlék, házastársi pótlék, házastárs után járó jövedelempótlék, hadigondozotti pénzellátások.
 
