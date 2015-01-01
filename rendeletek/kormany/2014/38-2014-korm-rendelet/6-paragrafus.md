@@ -8,12 +8,16 @@ b) az eredeti vagy közjegyző által hitelesített aláírási címpéldányt.
 
 (3) Az (1) bekezdésben foglaltakon túl a szervezetnek mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelméhez csatolnia kell
 
-a)[^4] az adóhatóság által kiállított olyan igazolást, amely szerint a kérelmezőnek a kérelem benyújtását megelőzően három évben értékesítésből nettó árbevétele származott és a szervezet vezető tisztségviselőjének vagy a cégvezetőjének cégszerű írásbeli nyilatkozatát arról, hogy az éves értékesítése – az eladott mező- és erdőgazdasági áruk beszerzési értékével és a közvetített mező- és erdőgazdasági szolgáltatások értékével csökkentett – nettó árbevételének – ide értve a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokat is – több mint a fele a mezőgazdasági tevékenysége folytatásából származott,
+a)[^6] az adóhatóság által kiállított olyan igazolást, amely szerint a kérelmezőnek a kérelem benyújtását megelőző öt évből legalább három évben értékesítésből nettó árbevétele származott és a szervezet vezető tisztségviselőjének vagy a cégvezetőjének cégszerű írásbeli nyilatkozatát arról, hogy az éves értékesítése – az eladott mező- és erdőgazdasági áruk beszerzési értékével és a közvetített mező- és erdőgazdasági szolgáltatások értékével csökkentett – nettó árbevételének – ide értve a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokat, valamint a saját feldolgozású termékek értékét is – több mint a fele a mezőgazdasági tevékenysége folytatásából származott,
 
 b) a szervezet legalább egy vezető tisztségviselőjének vagy a cégvezetőjének cégszerű írásbeli nyilatkozatát arról, hogy a szervezetben a fennálló tagsági viszonyához kapcsolódóan folytatja a szervezet főtevékenysége szerinti mezőgazdasági tevékenységet, és
 
-c) a b) pontban meghatározott személy nevére kiállított, az 5. § (1) bekezdés a) pontjában meghatározott okiratot, vagy
+c)[^7] a b) pontban meghatározott személy nevére kiállított, az 5. § (1) bekezdés a) pontjában, illetve az 5/A. §-ban meghatározott okiratot, vagy
 
 d) a c) pontban meghatározottak hiányában a Kamara igazolását arról, hogy a b) pontban meghatározott személy – a 2. §-ban foglaltak figyelembevételével – 3 éves üzemi gyakorlattal rendelkezik.
 
-[^4]: A 6. § (3) bekezdés a) pontja a 188/2014. (VII. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+(4)[^8] A (3) bekezdés c) és d) pontjában foglalt feltételek fennállását jogi személy vezető tisztségviselő esetében a nevében eljárásra kijelölt személy vonatkozásában kell igazolni.
+
+[^6]: A 6. § (3) bekezdés a) pontja a 373/2014. (XII. 31.) Korm. rendelet 54. § (3) bekezdésével megállapított szöveg.
+[^7]: A 6. § (3) bekezdés c) pontja a 373/2014. (XII. 31.) Korm. rendelet 54. § (4) bekezdésével megállapított szöveg.
+[^8]: A 6. § (4) bekezdését a 373/2014. (XII. 31.) Korm. rendelet 54. § (5) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 2/A. §[^1] Ahol e rendelet őstermelőről rendelkezik, ott a közös őstermelői igazolvány esetén az igazolványon szereplő természetes személyek bármelyikét érteni kell.
+## 2/A. §[^2] Ahol e rendelet őstermelőről rendelkezik, ott a közös őstermelői igazolvány esetén az igazolványon szereplő természetes személyek bármelyikét érteni kell.
 
 ## 2. A nyilvántartás tartalma
 
@@ -16,4 +16,4 @@ c) a nyilvántartásban szereplő egyes adatok módosítása (ide értve a kieg�
 
 (4) Ha a nyilvántartásba vételi kérelemben a természetes személy, illetve a szervezet azt jelöli meg, hogy a mezőgazdasági üzemközpontja azonos a lakóhelyével, illetve a székhelyével, vagy telephelyével, akkor ezen ingatlanok adatait kell mezőgazdasági üzemközpontként nyilvántartásba venni. E rendelkezést nem lehet alkalmazni a (3) bekezdésben meghatározott esetben.
 
-[^1]: A 2/A. §-t a 121/2014. (IV. 8.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^2]: A 2/A. §-t a 121/2014. (IV. 8.) Korm. rendelet 4. § (1) bekezdése iktatta be.
