@@ -80,6 +80,6 @@
 
 | _____________________________ helység | ⬜⬜⬜⬜ év | ⬜⬜ hó | ⬜⬜ nap | _________________________________________ a bevallásbenyújtó vagy képviselője (meghatalmazottja) aláírása |
 
-18. melléklet a 35/2008. (XII. 31.) PM rendelethez[^21]
+18. melléklet a 35/2008. (XII. 31.) PM rendelethez[^23]
 
-[^21]: A 18. mellékletet a 21/2010. (XII. 31.) NGM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 77/2013. (XII. 31.) NGM rendelet 11. § e) pontja.
+[^23]: A 18. mellékletet a 21/2010. (XII. 31.) NGM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 77/2013. (XII. 31.) NGM rendelet 11. § e) pontja.

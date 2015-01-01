@@ -12,10 +12,16 @@ d) a gépjárműadó bevallására, bejelentésére a 13. és 14. mellékletek,
 
 e) a távhőszolgáltatásról más hőellátásra áttérő által felhasznált hőmennyiség és annak előállítása során kibocsátott széndioxid bevallására a 21. melléklet,
 
-f) a helyi iparűzési adókötelezettség és az idegenforgalmi adó beszedési kötelezettség bejelentésére (változás-bejelentésre) a 22. melléklet
+f) a helyi iparűzési adókötelezettség és az idegenforgalmi adó beszedési kötelezettség bejelentésére (változás-bejelentésre) a 22. melléklet,
+
+g)[^4] a desztillálóberendezés tulajdonjogának megszerzéséről szóló bejelentésre a 11. melléklet,
+
+h)[^5] az előállított magánfőzött párlat utáni adóra a 12. melléklet
 
 szerinti adattartalmú nyomtatványt rendszeresítheti.
 
 [^1]: Az 1. § (1) bekezdése a 29/2009. (XII. 4.) PM rendelet 1. §-ával megállapított, a 21/2010. (XII. 31.) NGM rendelet 3. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 21/2010. (XII. 31.) NGM rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § (2) bekezdés b) pontja a 77/2013. (XII. 31.) NGM rendelet 9. §-ával megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés g) pontját az 54/2014. (XII. 31.) NGM rendelet 16. §-a iktatta be.
+[^5]: Az 1. § (2) bekezdés h) pontját az 54/2014. (XII. 31.) NGM rendelet 16. §-a iktatta be.

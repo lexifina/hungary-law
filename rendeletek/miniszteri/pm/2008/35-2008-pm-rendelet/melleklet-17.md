@@ -166,6 +166,6 @@
 
 | _____________________________ helység | □□□□ év | □□ hó | □□ nap | _________________________________________ a bevallásbenyújtó vagy képviselője (meghatalmazottja) aláírása |
 
-17. melléklet a 35/2008. (XII. 31.) PM rendelethez[^20]
+17. melléklet a 35/2008. (XII. 31.) PM rendelethez[^22]
 
-[^20]: A 17. mellékletet a 29/2009. (XII. 4.) PM rendelet 3. §-a iktatta be.
+[^22]: A 17. mellékletet a 29/2009. (XII. 4.) PM rendelet 3. §-a iktatta be.
