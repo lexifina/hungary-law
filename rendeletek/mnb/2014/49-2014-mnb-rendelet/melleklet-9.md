@@ -1,3 +1,3 @@
-9. melléklet a 49/2014. (XI. 27.) MNB rendelethez[^7]
+## 20142C20000049_4
 
-[^7]: A 9. melléklet a 12. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+9. melléklet a 49/2014. (XI. 27.) MNB rendelethez

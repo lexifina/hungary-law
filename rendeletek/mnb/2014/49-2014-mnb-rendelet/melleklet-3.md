@@ -1,3 +1,3 @@
-3. melléklet a 49/2014. (XI. 27.) MNB rendelethez[^3]
+## 20142C20000049_1
 
-[^3]: A 3. melléklet a 12. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+3. melléklet a 49/2014. (XI. 27.) MNB rendelethez
