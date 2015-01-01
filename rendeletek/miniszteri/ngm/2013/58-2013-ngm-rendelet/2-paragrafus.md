@@ -1,6 +1,6 @@
 ## 2. A felnőttképzési minőségbiztosítási keretrendszer
 
-2. § (1)[^1] A felnőttképzési minőségbiztosítási keretrendszer (a továbbiakban: keretrendszer) alapján a felnőttképzést folytató intézmény létrehozza saját minőségbiztosítási rendszerét, melynek során
+2. § (1)[^2] A felnőttképzési minőségbiztosítási keretrendszer (a továbbiakban: keretrendszer) alapján a felnőttképzést folytató intézmény létrehozza saját minőségbiztosítási rendszerét, melynek során
 
 a) átfogó minőségpolitikát és ehhez kapcsolódó stratégiát alakít ki képzési tevékenysége minőségének biztosítása érdekében;
 
@@ -84,4 +84,4 @@ g) az intézmény tevékenységének önértékelésére vonatkozó eljárást t
 
 (4) A felnőttképzést folytató intézmény önértékelésének gyakoriságáról maga dönt.
 
-[^1]: A 2. § (1) bekezdés nyitó szövegrésze a 14/2014. (III. 31.) NGM rendelet 14. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdés nyitó szövegrésze a 14/2014. (III. 31.) NGM rendelet 14. §-ával megállapított szöveg.
