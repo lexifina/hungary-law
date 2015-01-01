@@ -1,0 +1,5 @@
+## 5. Záró rendelkezések
+
+45. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2015. január 1-jén lép hatályba.
+
+(2) A 17–33. § 2015. július 1-jén lép hatályba.
