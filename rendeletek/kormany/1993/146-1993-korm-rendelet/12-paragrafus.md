@@ -32,7 +32,7 @@ l)[^50] dönt a külföldön élő magyar állampolgárok külföldi lakóhely v
 
 (3)[^52] A központi szerv gondoskodik a törvényben előírt feladatok végrehajtásához szükséges rendszertechnikai fejlesztések végrehajtásáról, ezen belül olyan rendszerek kidolgozásáról és az illetékes szervekhez történő eljuttatásáról, amelyek lehetővé teszik az adatállomány számítástechnikai módszerrel történő karbantartását.
 
-(4)[^53] A központi szerv a területszervezési döntés kihirdetését követően gondoskodik a közigazgatási változásoknak a nyilvántartáson történő átvezetéséről.
+(4)[^53] A központi szerv gondoskodik a települési szintet meghaladó területszervezési döntés kihirdetését követően a közigazgatási változásoknak a nyilvántartáson történő átvezetéséről.
 
 (5)[^54] A fővárosi és megyei kormányhivatalnak másodfokú eljárása során hozott elsőfokú végzése elleni fellebbezés elbírálására a központi szerv jogosult.
 
@@ -49,5 +49,5 @@ l)[^50] dönt a külföldön élő magyar állampolgárok külföldi lakóhely v
 [^50]: A 12. § (1) bekezdés l) pontját az 515/2013. (XII. 30.) Korm. rendelet 16. § (1) bekezdése iktatta be.
 [^51]: Az 12. § (2) bekezdése a 230/2000. (XII. 23.) Korm. rendelet 8. §-ával megállapított és a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
 [^52]: Az R. 12. §-ának (3) bekezdése a 9/2004. (I. 31.) Korm. rendelet 2. §-ával megállapított és a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^53]: Az R. 12. §-ának (4) bekezdése a 13/1999. (II. 1.) Korm. rendelet 34. §-ának (1) bekezdése és a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^53]: Az R. 12. § (4) bekezdése a 345/2014. (XII. 23.) Korm. rendelet 23. §-ával megállapított szöveg.
 [^54]: Az R. 12. § (5) bekezdését újonnan a 282/2011. (XII. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 40. § k) pontja szerint módosított szöveg.

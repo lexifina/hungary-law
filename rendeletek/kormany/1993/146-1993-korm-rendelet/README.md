@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-146-20-
 | 2014-03-01 | 1993-146-20-22.32 | 515/2013. (XII. 30.) Korm. rendelet |
 | 2014-03-15 | 1993-146-20-22.33 | 56/2014. (III. 4.) Korm. rendelet |
 | 2014-09-05 | 1993-146-20-22.34 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2015-01-01 | 1993-146-20-22.35 | 345/2014. (XII. 23.) Korm. rendelet |
