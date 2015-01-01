@@ -1,1 +1,0 @@
-## 18. § Az e rendelet szerint rendszeres adatszolgáltatásra kötelezettek a 2012. évi adatokról a 2012. december 31-én hatályos, a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló 164/2003. (X. 18.) Korm. rendeletben meghatározottak szerint szolgáltatnak adatot.
