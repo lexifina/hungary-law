@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-116-00-00
 | 2009-11-17 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-116-00-00.1 |
 | 2011-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-116-00-00.2 |
 | 2011-01-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-116-00-00.3 |
+| 2015-01-01 | 2014. évi LXXIV. törvény | 2009-116-00-00.4 |
