@@ -8,12 +8,12 @@
 
 a) a jogelőd nélkül – év közben – alapított pénztárnál;
 
-b)[^4] az egyesülés, szétválás során megszűnő pénztárnál;
+b)[^6] az egyesülés, szétválás során megszűnő pénztárnál;
 
-c)[^5] az egyesüléssel, szétválással létrejövő új pénztárnál;
+c)[^7] az egyesüléssel, szétválással létrejövő új pénztárnál;
 
-d)[^6] a pénztár felszámolása, végelszámolása, illetve kényszertörlési eljárása esetén.
+d)[^8] a pénztár felszámolása, végelszámolása, illetve kényszertörlési eljárása esetén.
 
-[^4]: Az 5. § (3) bekezdés b) pontja a 362/2014. (XII. 30.) Korm. rendelet 39. § 1. pontja szerint módosított szöveg.
-[^5]: Az 5. § (3) bekezdés c) pontja a 362/2014. (XII. 30.) Korm. rendelet 39. § 2. pontja szerint módosított szöveg.
-[^6]: Az 5. § (3) bekezdés d) pontja a 362/2014. (XII. 30.) Korm. rendelet 39. § 3. pontja szerint módosított szöveg.
+[^6]: Az 5. § (3) bekezdés b) pontja a 362/2014. (XII. 30.) Korm. rendelet 39. § 1. pontja szerint módosított szöveg.
+[^7]: Az 5. § (3) bekezdés c) pontja a 362/2014. (XII. 30.) Korm. rendelet 39. § 2. pontja szerint módosított szöveg.
+[^8]: Az 5. § (3) bekezdés d) pontja a 362/2014. (XII. 30.) Korm. rendelet 39. § 3. pontja szerint módosított szöveg.

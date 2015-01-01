@@ -1,5 +1,5 @@
 ## A pénzforgalmi jelentés, a pénztár által finanszírozott szolgáltatások adatait tartalmazó kimutatás
 
-## tagolása és tartalma[^47]
+## tagolása és tartalma[^49]
 
-[^47]: A 30. § előtti alcím a 352/2004. (XII. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^49]: A 30. § előtti alcím a 352/2004. (XII. 22.) Korm. rendelet 12. §-ával megállapított szöveg.

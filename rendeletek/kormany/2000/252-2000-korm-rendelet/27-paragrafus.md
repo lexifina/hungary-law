@@ -24,7 +24,7 @@ kivéve: számítástechnikai és ügyviteltechnikai eszközök 33%
 
 (5) Az üzemeltetésre, kezelésre átadott eszközök után az értékcsökkenést a pénztárnak a (2)–(4) bekezdésben foglaltak szerint kell elszámolnia.
 
-(6)[^22] A 100 ezer forint egyedi bekerülési (beszerzési, előállítási) érték alatti (kis értékű) vagyoni értékű jogok, szellemi termékek, tárgyi eszközök bekerülési értéke – a pénztár döntésétől függően – a használatbavételkor folyó kiadásként egy összegben elszámolható.
+(6)[^24] A 100 ezer forint egyedi bekerülési (beszerzési, előállítási) érték alatti (kis értékű) vagyoni értékű jogok, szellemi termékek, tárgyi eszközök bekerülési értéke – a pénztár döntésétől függően – a használatbavételkor folyó kiadásként egy összegben elszámolható.
 
 (7) Az (1) bekezdés szerinti eszközök terven felüli értékcsökkenésének elszámolásánál a Tv. 53. §-a (1)–(2) bekezdésében foglaltakat kell figyelembe venni.
 
@@ -32,4 +32,4 @@ kivéve: számítástechnikai és ügyviteltechnikai eszközök 33%
 
 (9) Amennyiben a pénztár az (1) bekezdés szerinti eszközeit az alaptevékenységéhez is és a kiegészítő vállalkozási tevékenységéhez is használja (vegyes használatú eszközök), akkor az értékcsökkenési leírást a (2)–(7) bekezdésben foglaltak szerinti kell elszámolni, és az így elszámolt értékcsökkenési leírást a két tevékenység között a bevételek arányában kell megosztani.
 
-[^22]: A 27. § (6) bekezdése a 285/2005. (XII. 20.) Korm. rendelet 35. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^24]: A 27. § (6) bekezdése a 285/2005. (XII. 20.) Korm. rendelet 35. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
