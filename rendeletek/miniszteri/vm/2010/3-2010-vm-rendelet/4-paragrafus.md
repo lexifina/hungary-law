@@ -2,7 +2,15 @@
 
 (2) Az olyan élelmiszer-vállalkozónak, aki első magyarországi tárolási helyet üzemeltet – ideértve a bértárolási tevékenységet is –:
 
-a)[^6] tevékenységét be kell jelentenie a létesítmény helye szerinti járási állategészségügyi és élelmiszer-ellenőrző hivatalhoz (a továbbiakban: járási állategészségügyi hivatal), elsődleges termelésből származó, nem állati eredetű alaptermék esetében a megyei kormányhivatal növény- és talajvédelmi igazgatóságánál (a továbbiakban: növény- és talajvédelmi igazgatóság),
+a)[^6] be kell jelentenie a létesítmény helye szerinti járási állategészségügyi és élelmiszer-ellenőrző hivatalhoz (a továbbiakban: járási állategészségügyi hivatal), elsődleges termelésből származó, nem állati eredetű alaptermék esetében a megyei kormányhivatal növény- és talajvédelmi igazgatóságánál (a továbbiakban: növény- és talajvédelmi igazgatóság):
+
+aa) természetes személy esetén a természetes személyazonosító adatokat, lakcímet, telephelyet, elérhetőséget, adóazonosító jelet,
+
+ab) jogi személy esetén a (cég)nevet, adószámot, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget,
+
+ac) a tevékenységet,
+
+ad) a tevékenység végzésének helyét,
 
 b) a szállítmányokról nyilvántartást kell vezetnie,
 
@@ -28,19 +36,22 @@ b)[^8] a Mellékletben nem szereplő, első magyarországi tárolási helyre ér
 
 c) a Melléklet 6., 7., 8. és 9. pontjában meghatározott élelmiszerek esetében, amennyiben az élelmiszer-vállakozónak előzetesen nincs információja a beérkező szállítmány fogyaszthatósági vagy minőség megőrzési idejéről, az a) pontban meghatározott adatokat a szállítmány beérkezésekor is bejelentheti;
 
-d)[^9] az Éltv. 42. §-ának (4) bekezdése és a a Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet 8. §-ának (11) bekezdése alapján, az országos főállatorvos által hozott határozatban rögzített és hivatalos úton közzétett élelmiszerek esetében, adatszolgáltatási kötelezettség terheli az első magyarországi tárolási helyet élelmiszer-vállalkozót az a) pontban szabályozottak szerint.
+d)[^9] az Éltv. 42. §-ának (4) bekezdése és a Nemzeti Élelmiszerlánc-biztonsági Hivatalról 22/2012. (II. 29.) Korm. rendelet 8. §-ának (11) bekezdése alapján, az országos főállatorvos által hozott határozatban rögzített és hivatalos úton közzétett élelmiszerek esetében, adatszolgáltatási kötelezettség terheli az első magyarországi tárolási helyet üzemeltető élelmiszer-vállalkozót az a) pontban szabályozottak szerint.
 
-(4)[^10] A kockázatbecsléshez szolgáltatott adatok alapján felmerült gyanú, illetve az élelmiszer-vállalkozónál tapasztalt nem megfelelősség esetén, a járási állategészségügyi hivatal, illetve elsődleges termelésből származó, nem állati eredetű alaptermék esetén a növény- és talajvédelmi igazgatóság elrendelheti, hogy – az elrendeléstől számított legfeljebb 60 nap időtartamig – az első magyarországi tárolási helyet üzemeltető élelmiszer-vállalkozó minden élelmiszer tételt az érkezés előtt 2 munkanappal jelentsen be. A jelentésben a (3) bekezdés a) pontjában meghatározott adatokat kell szolgáltatni.
+(3a)[^10] Az első magyarországi tárolási helyet üzemeltető élelmiszer-vállalkozónak a (3) bekezdés a)–d) pontjában előírt jelentést nem kell megküldenie a tagállamok közötti kereskedelemből származó azon szállítmányról, amire vonatkozóan a bejelentési kötelezettséget az Elektronikus Közúti Áruforgalom Ellenőrző Rendszerben teljesítette.
 
-(5)[^11] A járási állategészségügyi hivatal – a hatósági ellenőrzések kedvező eredménye alapján – előírhatja, hogy a melléklet 1–7. és 10., 11. pontjában meghatározott élelmiszereket rendszeresen felhasználó vagy forgalmazó élelmiszervállalkozó, a (3) bekezdés b) pontja alapján havi összesítő jelentést küldjön a járási állategészségügyi hivatalnak.
+(4)[^11] A kockázatbecsléshez szolgáltatott adatok alapján felmerült gyanú, illetve az élelmiszer-vállalkozónál tapasztalt nem megfelelősség esetén, a járási állategészségügyi hivatal, illetve elsődleges termelésből származó, nem állati eredetű alaptermék esetén a növény- és talajvédelmi igazgatóság elrendelheti, hogy – az elrendeléstől számított legfeljebb 60 nap időtartamig – az első magyarországi tárolási helyet üzemeltető élelmiszer-vállalkozó minden élelmiszer tételt az érkezés előtt 2 munkanappal jelentsen be. A jelentésben a (3) bekezdés a) pontjában meghatározott adatokat kell szolgáltatni.
 
-(6)[^12] A járási állategészségügyi hivatal, illetve elsődleges termelésből származó, nem állati eredetű alaptermék esetén a növény- és talajvédelmi igazgatóság másodlagos élelmiszer-vizsgálat keretében ellenőrizheti a bejelentett élelmiszer tételeket, a 3. § rendelkezései szerint.
+(5)[^12] A járási állategészségügyi hivatal – a hatósági ellenőrzések kedvező eredménye alapján – előírhatja, hogy a melléklet 1–7. és 10., 11. pontjában meghatározott élelmiszereket rendszeresen felhasználó vagy forgalmazó élelmiszervállalkozó, a (3) bekezdés b) pontja alapján havi összesítő jelentést küldjön a járási állategészségügyi hivatalnak.
+
+(6)[^13] A járási állategészségügyi hivatal, illetve elsődleges termelésből származó, nem állati eredetű alaptermék esetén a növény- és talajvédelmi igazgatóság másodlagos élelmiszer-vizsgálat keretében ellenőrizheti a bejelentett élelmiszer tételeket, a 3. § rendelkezései szerint.
 
 [^5]: A 4. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 120. § d) pontja szerint módosított szöveg.
-[^6]: A 4. § (2) bekezdés a) pontja 151/2012. (XII. 29.) VM rendelet 42. § a)–b) pontja, a 70/2013. (VII. 31.) VM rendelet 120. § e) pontja szerint módosított szöveg.
+[^6]: A 4. § (2) bekezdés a) pontja a 36/2014. (XII. 17.) FM rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^7]: A 4. § (3) bekezdés a) pont nyitó szövegrésze 151/2012. (XII. 29.) VM rendelet 42. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 120. § f) pontja szerint módosított szöveg.
 [^8]: A 4. § (3) bekezdés b) pontja 151/2012. (XII. 29.) VM rendelet 42. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 120. § f) pontja szerint módosított szöveg.
-[^9]: A 4. § (3) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 120. § g) pontja szerint módosított szöveg.
-[^10]: A 4. § (4) bekezdése 151/2012. (XII. 29.) VM rendelet 42. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 120. § h) pontja szerint módosított szöveg.
-[^11]: A 4. § (5) bekezdése 151/2012. (XII. 29.) VM rendelet 42. § b) pontja szerint módosított szöveg.
-[^12]: A 4. § (6) bekezdése 151/2012. (XII. 29.) VM rendelet 42. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 120. § h) pontja szerint módosított szöveg.
+[^9]: A 4. § (3) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 120. § g) pontja, a 36/2014. (XII. 17.) FM rendelet 13. § (3) bekezdése szerint módosított szöveg.
+[^10]: A 4. § (3a) bekezdését a 36/2014. (XII. 17.) FM rendelet 13. § (2) bekezdése iktatta be.
+[^11]: A 4. § (4) bekezdése 151/2012. (XII. 29.) VM rendelet 42. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 120. § h) pontja szerint módosított szöveg.
+[^12]: A 4. § (5) bekezdése 151/2012. (XII. 29.) VM rendelet 42. § b) pontja szerint módosított szöveg.
+[^13]: A 4. § (6) bekezdése 151/2012. (XII. 29.) VM rendelet 42. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 120. § h) pontja szerint módosított szöveg.
