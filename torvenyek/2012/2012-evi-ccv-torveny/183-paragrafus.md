@@ -1,4 +1,4 @@
-183. § (1) A határozatot hozó munkáltatói jogkört gyakorló a határozatot
+183. § (1) A határozatot hozó a határozatot
 
 a) kérelemre a név-, szám- vagy számítási hiba és más hasonló elírás esetén kijavítja, vagy kicseréli,
 

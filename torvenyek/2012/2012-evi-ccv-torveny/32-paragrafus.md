@@ -6,7 +6,9 @@ b) a honvéd altiszt-jelölttel,
 
 c) a legénységi állomány azon tagjával, aki a Honvédség által szervezett, kizárólag katonai munkakör betöltésére jogosító honvéd altiszt-képzést eredményesen befejezte, vagy
 
-d) a legalább 5 év szerződéses tiszti vagy altiszti szolgálati viszonnyal rendelkező személlyel, feltéve, hogy az állománycsoport-váltással nem jár.
+d) a legalább 5 év szerződéses tiszti vagy altiszti szolgálati viszonnyal rendelkező személlyel, feltéve, hogy az állománycsoport-váltással nem jár,
+
+e) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alatt álló fegyveres szervtől áthelyezésre kerülő személlyel.
 
 (2) Az (1) bekezdés szerinti korlátozást nem kell alkalmazni akkor, ha törvény a szolgálati viszony létesítését és fenntartását a hivatásos állományba vételhez köti.
 

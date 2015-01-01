@@ -4,7 +4,7 @@
 
 a) az állampolgári kötelezettsége teljesítésének idejére,
 
-b) a bíróság vagy a hatóság felhívására, vagy az eljárásban való személyes részvételhez szükséges időtartamra,
+b) a bíróság vagy a hatóság idézésére, értesítésére, vagy az eljárásban való személyes részvételhez szükséges időtartamra,
 
 c) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét időtartamára,
 

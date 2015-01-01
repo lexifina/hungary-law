@@ -6,7 +6,7 @@ a) a szolgálati helye szerinti állománytáblában vagy munkaköri jegyzékben
 
 b) a viselt rendfokozatának megfelelő honvédelmi pótlékra,
 
-c) az iskolai végzettségének és a szolgálati helyének függvényében illetménykiegészítésre, és
+c) az iskolai végzettségének és a szolgálati helyének függvényében illetménykiegészítésre, valamint a szolgálati járandóságban nem részesülő önkéntes tartalékos katona a 122. § (5) bekezdése szerinti összegű illetmény biztosításához szükséges kiegészítő illetményre, és
 
 d) miniszteri rendeletben meghatározottak szerint laktanyai elhelyezésre, térítésmentes élelmezési és ruházati ellátásra, továbbá egyes szociális támogatásra és helyközi utazási költségeinek a megtérítésére
 
@@ -16,10 +16,10 @@ jogosult. Az illetményt a hivatalos magyar pénznemben kell megállapítani és
 
 a) a 60 napot nem haladja meg, akkor illetményre és díjra nem jogosult,
 
-b) a 60 napot meghaladja, akkor a 60 napot meghaladó időtartamra az önkéntes tartalékos katonát illetményként a besorolási illetményének és az irányadó időszakra folyósított szolgálati járandóságának különbözete illeti meg.
+b) a 60 napot meghaladja, akkor a 60 napot meghaladó időtartamra az önkéntes tartalékos katonát a személyi jövedelemadó és a járulékok levonása után számított illetményként az irányadó időszakra vonatkozó, a személyi jövedelemadó és a járulékok levonása után számított, (1) bekezdés szerinti illetményének és szolgálati járandóságának különbözete illeti meg.
 
 (3) Az önkéntes tartalékos katona illetményéről és díjáról írásban lemondhat.
 
 (4) Az önkéntes védelmi tartalékos katona egyszeri alkalommal az illetményalap 45%-ában megállapított szerződéskötési díjra jogosult.
 
-(5) Az önkéntes műveleti tartalékos katona évente rendelkezésre állási díjra jogosult, melynek összege a mindenkori minimálbér 50%-a.
+(5) Az önkéntes műveleti tartalékos katona évente rendelkezésre állási díjra jogosult, melynek összege a minimálbér 50%-a.

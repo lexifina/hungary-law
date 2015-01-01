@@ -24,7 +24,11 @@ B. A munkáltatói jogkör megnevezése
 
 |
 
-1.3. Előterjesztés a köztársasági elnökhöz tábornok hivatásos állományba visszavételére
+1.3. Előterjesztés a köztársasági elnökhöz tábornok szolgálaton kívüli állományba vételére és annak megszüntetésére
+
+|
+
+1.4. Előterjesztés a köztársasági elnökhöz tábornok hivatásos állományba visszavételére
 
 |
 
@@ -32,7 +36,7 @@ B. A munkáltatói jogkör megnevezése
 
 |
 
-2.1. Előterjesztés a köztársasági elnökhöz első tábornoki rendfokozatba történő kinevezésre, ideértve a határozott időre szóló kinevezést is
+2.1. Előterjesztés a köztársasági elnökhöz első tábornoki rendfokozatba történő kinevezésre, ideértve a határozott időre szóló és a kötelező várakozási idő letelte előtti kinevezést is
 
 |
 

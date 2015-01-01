@@ -29,3 +29,5 @@ f) jogszabály alapján meghatározott esetekben kiegészítő illetményből
 (5) Az illetményt a munkáltatói jogkört gyakorló állapítja meg, valamint az illetmény-megállapításnak nem minősülő illetményváltozásról értesítést készít. Az (1) bekezdés a)–d) és f) pontja szerinti illetményelemek együttes összege nem lehet kevesebb a jogszabályban meghatározott, a betöltött munkakörhöz szükséges iskolai végzettség, szakképesítés szintjétől függő garantált bérminimumnál.
 
 (6) Az (1) bekezdéstől eltérően a továbbfoglalkoztatás megkezdéséig az állomány 46. § (1) bekezdés j) pontja alá tartozó tagja illetményre nem jogosult.
+
+(7) Rész-szolgálatteljesítés engedélyezése esetén a 99. § (4) bekezdése szerinti időponttól az állomány tagja a rész-szolgálatteljesítési idő alapján arányosított illetményre jogosult azzal, hogy az (1) bekezdés a)–d) és f) pontja szerinti illetményelemek együttes összege nem lehet kevesebb a jogszabályban meghatározott, a betöltött munkakörhöz szükséges iskolai végzettség, szakképesítés szintjétől függő garantált bérminimum rész-szolgálatteljesítési idő alapján arányosított részénél.

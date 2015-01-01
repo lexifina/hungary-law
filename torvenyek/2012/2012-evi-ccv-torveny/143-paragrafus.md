@@ -2,7 +2,7 @@
 
 143. § (1) Kiegészítő rokkantsági támogatásra jogosult az a megváltozott munkaképességű személy, akinek egészségi állapota a 30%-ot nem éri el, feltéve, hogy
 
-a) a hivatásos állomány tagjaként a katonai szolgálatra alkalmatlanná vált,
+a) az állomány tagjaként a katonai szolgálatra alkalmatlanná vált,
 
 b) legalább 15 év tényleges szolgálati viszonyban töltött idővel rendelkezik,
 

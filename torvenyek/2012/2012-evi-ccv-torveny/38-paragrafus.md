@@ -16,4 +16,4 @@ próbaidőt kell kikötni.
 
 (5) A fizikai alkalmassági követelményeket legkésőbb a próbaidő leteltéig kell teljesíteni.
 
-(6) A szerződéses pályakezdőt a próbaidő alatt alapkiképzésben, valamint a Honvédség és a szolgálati beosztása sajátosságainak megfelelő tanfolyami képzésben kell részesíteni. Amennyiben a (4) bekezdés alkalmazására az alapkiképzés befejezése előtt kerül sor, későbbi állományba vétel esetén az érintett e törvény alkalmazásában szerződéses pályakezdőnek minősül.
+(6) Az állomány tagja miniszteri rendeletben meghatározottak szerint alapkiképzésben, valamint a Honvédség és a szolgálati beosztása sajátosságainak megfelelő tanfolyami képzésben köteles részt venni. Ha a szerződéses pályakezdő esetén a (4) bekezdés alkalmazására az alapkiképzés befejezése előtt kerül sor, későbbi állományba vétel esetén az érintett e törvény alkalmazásában ismételten szerződéses pályakezdőnek minősül.

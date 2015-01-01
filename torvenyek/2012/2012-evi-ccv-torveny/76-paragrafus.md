@@ -8,7 +8,7 @@
 
 a) a pályázati eljárás során a 34. § szerint előnyben részesíthető,
 
-b) az állomány tagjára vonatkozó, miniszteri rendeletben meghatározottak szerint külön jelzéssel használhatja rendfokozatát és viselheti egyenruháját,
+b)
 
 c) a hivatásos állományba visszavételhez szükséges képzésen, illetve kiképzésen önkéntes jelentkezéssel miniszteri rendeletben meghatározottak szerint részt vehet,
 

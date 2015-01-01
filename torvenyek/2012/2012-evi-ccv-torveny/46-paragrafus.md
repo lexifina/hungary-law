@@ -38,7 +38,7 @@ q) az állomány azon tagja, aki az egészségügyi felsőfokú szakirányú sza
 
 r) a hivatásos állomány legalább százados vagy legalább főtörzsőrmesteri rendfokozattal rendelkező tagja, akinek szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, vagy maximális várakozási ideje letelt és annak meghosszabbítására a 86. § (3) bekezdése szerint nem került sor, a kormányzati szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
 
-s) a hivatásos állomány legalább 25 év szolgálati idővel rendelkező tagja, aki egészségi, vagy pszichikai okból katonai szolgálatra alkalmatlan, a kormányzati szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
+s) a hivatásos állomány legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkező tagja, aki egészségi, vagy pszichikai okból katonai szolgálatra alkalmatlan, a kormányzati szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
 
 t) a hivatásos állomány azon tagja, aki legalább 30 év tényleges szolgálati viszonyban töltött idővel rendelkezik, a szolgálat felső korhatárának elérése előtt 5 évvel, de legfeljebb a szolgálat felső korhatáráig (a továbbiakban: nyugdíj előtti rendelkezési állomány).
 
@@ -53,3 +53,5 @@ a) az állomány tagját megfelelő szolgálati beosztásba helyezi,
 b) az állomány tagját más rendelkezési állományba áthelyezi, ha az a) pont nem alkalmazható, feltéve, hogy az állomány tagja az (1) bekezdésben foglalt feltételeknek megfelel, vagy
 
 c) az eset összes körülményére tekintettel a 62. § szerint jár el, ha az a) és a b) pont nem alkalmazható.
+
+(5) A (4) bekezdés a) pontja szerinti beosztásba helyezés során a kinevezés vagy az áthelyezés szabályait kell alkalmazni azzal, hogy a beosztás szintjének meghatározása során szolgálati beosztás hiányában az utolsó betöltött beosztást kell figyelembe venni, ha pedig ilyen nem volt, akkor a viselt rendfokozatot.

@@ -1,4 +1,4 @@
-184. § (1) A határozatot hozó munkáltatói jogkört gyakorló a fellebbezést 30 napon belül bírálja el. A határidő egy alkalommal 30 nappal meghosszabbítható.
+184. § (1) A határozatot hozó a fellebbezést 30 napon belül bírálja el. A határidő egy alkalommal 30 nappal meghosszabbítható.
 
 (2) Az első fokú határozatot hozó a fellebbezés alapján
 

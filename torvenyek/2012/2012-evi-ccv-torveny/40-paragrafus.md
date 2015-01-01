@@ -1,6 +1,6 @@
 40. § (1) Tanulmányai sikeres befejezésekor a honvéd tisztjelöltet hadnagy, a honvéd altiszt-jelöltet és a 32. § (1) bekezdés c) pontja alá tartozó személyt őrmester rendfokozattal kell állományba venni.
 
-(2) A szerződéses állományba vétel során az első rendfokozatot az (1) bekezdésre, a szolgálati beosztáshoz előírt iskolai végzettségnek és szakképesítésnek megfelelő szakmai gyakorlat idejére, valamint a speciális előmeneteli rend szerinti várakozási időkre figyelemmel kell megállapítani úgy, hogy az tiszt esetén legfeljebb százados, altiszt esetén legfeljebb főtörzsőrmester lehet.
+(2) A szerződéses állományba vétel, valamint a 32. § (1) bekezdés e) pontja és a (2) bekezdés szerinti hivatásos állományba vétel során az első rendfokozatot az (1) bekezdésre, a szolgálati beosztáshoz előírt iskolai végzettségnek és szakképesítésnek megfelelő szakmai gyakorlat idejére, valamint a speciális előmeneteli rend szerinti várakozási időkre figyelemmel kell megállapítani úgy, hogy az tiszt esetén legfeljebb százados, altiszt esetén legfeljebb főtörzsőrmester lehet.
 
 (3) A (2) bekezdéstől eltérő rendfokozatot a Honvéd Vezérkar főnöke javaslatára a miniszter engedélyezhet, ha a magasabb rendfokozattal történő állományba vételhez szolgálati érdek fűződik.
 

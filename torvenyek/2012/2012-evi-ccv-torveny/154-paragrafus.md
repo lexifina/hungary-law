@@ -6,4 +6,4 @@
 
 (4) A 150. § (1) bekezdés b) pontja esetén csak egy fenyítés szabható ki.
 
-(5) A fenyítés kiszabásáról szóló jogerős határozatot miniszteri rendeletben meghatározott módon ki kell hirdetni.
+(5) A fenyítés kiszabásáról szóló jogerős határozatnak a fenyített nevét és rendfokozatát, a fenyítés mértékét, valamint a tényállást tartalmazó, vizsgáló által összeállított kivonatát – a további fegyelemsértések megelőzése, elkerülése céljából – a fenyítettel legalább azonos szolgálati beosztásúak és legalább azonos rendfokozatúak előtt, a jogerőre emelkedésétől számított 30 napon belül ki kell hirdetni.

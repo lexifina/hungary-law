@@ -8,13 +8,13 @@
 
 a) az állami készfizető kezesség vállalására, továbbá a magántulajdonú lakás megszerzéséhez nyújtott kedvezményes kamatozású hitelintézeti kölcsön feltételeire és igénybevételére vonatkozó részletes szabályokat,
 
-b) a más szervhez történő vezénylésre vonatkozó megállapodás megkötésének kezdeményezésére, a vezénylésre kerülők kiválasztására, a vezénylésre vonatkozó megállapodás kötelező tartalmi elemeire, a Honvédség és a más szerv közötti együttműködés feladataira, a költségek viselésére vonatkozó szabályokat,
+b) a más szervhez történő vezénylésre vonatkozó megállapodás megkötésének kezdeményezésére, a vezénylésre kerülők kiválasztására, a vezénylésre vonatkozó megállapodás kötelező tartalmi elemeire, a más szervhez történő vezénylés időtartama alatt a más kereső tevékenység folytatásához kapcsolódó bejelentés és engedélyezés rendjére, a rendfokozati előmenetel feltételeire, a Honvédség és a más szerv közötti együttműködés feladataira, a költségek viselésére vonatkozó szabályokat,
 
 c) az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételének szabályait, valamint az egészségügyi ellátás rendjét,
 
 d) a tiszti és az altiszti állomány tagjára vonatkozó teljesítményértékelés kötelező elemeit és a kötelező elemekhez kapcsolódó eljárási rendet, a célfeladat megállapítására vonatkozó részletes szabályokat,
 
-e) a gyermek születése esetén az apát megillető pótszabadság igénybevételére, valamint a pótszabadsággal összefüggő költségek megtérítésére vonatkozó szabályokat.
+e) a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat,
 
 f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
 
@@ -46,9 +46,9 @@ f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
 
 13. az önkéntes tartalékos katonák, a honvéd tisztjelöltek és a honvéd altiszt-jelöltek által betölthető beosztásokat,
 
-14. a speciális, a fokozott igénybevétellel és veszéllyel járó, valamint az egészségkárosítás veszélyének kitett beosztások körét, az azokhoz kapcsolódó részletes szabályokat,
+14. a speciális, a fokozott igénybevétellel és veszéllyel járó, valamint az egészségkárosítás veszélyének kitett beosztások körét, az azokhoz kapcsolódó részletes szabályokat, a 109. § (4) bekezdése szerinti beosztásokban pótszabadságra jogosultak körét, a pótszabadság kiadásának módját, valamint a kondicionáló-kiképzésen való részvétel esetén a pótszabadság napjainak beszámítására vonatkozó szabályokat,
 
-15. a katonai szolgálathoz, valamint a szolgálati beosztásokhoz kapcsolódó szakmai, egészségi, pszichikai, fizikai alkalmassági követelményeket, a szolgálati beosztások betöltéséhez szükséges iskolai végzettségi, szakképzettségi, szakképesítési, tanfolyami, és egyéb követelményeket,
+15. a katonai szolgálathoz, valamint a szolgálati beosztásokhoz kapcsolódó szakmai, egészségi, pszichikai, fizikai alkalmassági követelményeket, a szolgálati beosztások betöltéséhez szükséges iskolai végzettségi, szakképzettségi, szakképesítési, tanfolyami, és egyéb követelményeket, valamint az ezek alóli mentesítés szabályait,
 
 16. az egészségi, pszichikai, fizikai alkalmassági követelmények felmérésének szabályait, a felmérést végző szervezetek kijelölését, az egészségi követelmények felmérésének költségeit, továbbá az egészségügyi szabadságra és szolgálatmentességre, valamint a hosszabb betegséget követő – lábadozási időszak alatti – csökkentett napi szolgálati időre vonatkozó szabályokat,
 
@@ -84,7 +84,7 @@ f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
 
 32. a méltatlansági eljárás elrendelésének és lefolytatásának szabályait, az eljárási cselekményekre nyitva álló határidőket, az elmulasztásuk jogkövetkezményeit, az értesítésre és a felhívásra irányadó szabályokat, a határozatok formai és tartalmi követelményeit, a vizsgáló, a bizottság kijelölésének és eljárásának, a kizárás és az elfogultság bejelentésének és elbírálásának rendjét, a képviseletre, a tényállás tisztázására, a méltatlanság megállapítására irányadó szabályokat,
 
-33.
+33. azokat a munkakörcsaládokhoz tartozó beosztásokat, amelyekben – a honvéd tisztjelöltek első beosztásba helyezése érdekében – a szolgálatot teljesítő főhadnagyok a kötelező várakozási idő letelte előtt két évvel magasabb beosztásba kinevezhetővé válnak,
 
 34. a kártérítési eljárás rendjére, a szakértő kijelölésére, az eljárási határidőkre, a tényállás tisztázására, a képviseletre vonatkozó szabályokat, a kártérítési igény elbírálására jogosult honvédségi szervezetet, a kártérítésre kötelezésre vagy annak mellőzésére, a kártérítés megállapítására, az eljárás felfüggesztésére és megszüntetésére, az utólagos mérsékelésre, az elengedésre, a végrehajtás elhalasztására, a részletfizetés engedélyezésére vonatkozó szabályokat, a határozatok formai és tartalmi követelményeit, a honvéd tisztjelöltre és a honvéd altiszt-jelöltre, valamint a külföldi szolgálatra irányadó szabályokat,
 
@@ -92,7 +92,7 @@ f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
 
 36. a kérelem, a szolgálati panasz és a fellebbezés elbírálásának rendjét,
 
-37. az egyenruha, a katonai rendfokozati és a fegyvernemi jelzés, az évfolyamjelzés, a kitüntetés és a szolgálati jel viselésének módját, továbbá az egyenruha és a rendfokozat viselésének korlátozását, előzetes engedélyhez kötését, tilalmát, az egyenruha-viseléssel és annak megvonásával kapcsolatos jogkört gyakorló szervezetet, az egyenruha viselésének megvonására vonatkozó eljárás rendjét,
+37.
 
 38. a szolgálaton kívüliekre irányadó sajátos szabályokat,
 
