@@ -234,8 +234,9 @@
 
 (3) A Megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külügyminiszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
 
-(4) E rendelet végrehajtásához szükséges intézkedésekről a kutatás-fejlesztésért felelős tárca nélküli miniszter gondoskodik.
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke gondoskodik.
 
 [^2]: A 3. § e rendelet 4. § (2) bekezdése alapján a Megállapodás VIII. cikk (1) bekezdésében meghatározott időpontban lép hatályba. A 4/2011. (I. 19.) KüM határozat alapján a hatálybalépés időpontja 2009. október 16.
 [^3]: A 4/2011. (I. 19.) KüM határozat alapján a hatálybalépés időpontja 2009. október 16.
 [^4]: Lásd a 4/2011. (I. 19.) KüM határozatot.
+[^5]: A 4. § (4) bekezdése a 381/2014. (XII. 31.) Korm. rendelet 14. §-a szerint módosított szöveg.
