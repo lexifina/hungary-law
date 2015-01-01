@@ -4,9 +4,9 @@
 
 (3) A (2) bekezdés szerinti keresetet a következők szerint kell megállapítani:
 
-a)[^46] a naptári évben elért (2010. január 1-jét megelőzően elért kereset esetén az adott évben kifizetett adóköteles jutalom és adóköteles év végi részesedés nélküli) kereset, továbbá az átlagszámítási, illetőleg a keresettel, jövedelemmel azonos időre járó és 1987. december 31-e utáni időponttól megállapított baleseti járadék, valamint a megváltozott munkaképességű dolgozók foglalkoztatásáról és szociális ellátásról szóló rendelkezések alapján járó, az 1998. január 1-je előtti időre kifizetett keresetkiegészítés összegét el kell osztani a biztosításban töltött azoknak a napoknak a számával, amelyekre a biztosítottnak keresete volt, majd
+a)[^46] a naptári évben elért (2010. január 1-jét megelőzően vagy 2012. december 31-ét követően elért kereset esetén az adott évben kifizetett adóköteles jutalom és adóköteles év végi részesedés nélküli) kereset, továbbá az átlagszámítási, illetőleg a keresettel, jövedelemmel azonos időre járó és 1987. december 31-e utáni időponttól megállapított baleseti járadék, valamint a megváltozott munkaképességű dolgozók foglalkoztatásáról és szociális ellátásról szóló rendelkezések alapján járó, az 1998. január 1-je előtti időre kifizetett keresetkiegészítés összegét el kell osztani a biztosításban töltött azoknak a napoknak a számával, amelyekre a biztosítottnak keresete volt, majd
 
-b)[^47] az egy napra eső keresetet meg kell szorozni 365-tel (szökőévben 366-tal), és 2010. január 1-jét megelőzően elért kereset esetén a szorzathoz hozzá kell adni a naptári évben kifizetett adóköteles jutalom (jutalomrész) és év végi részesedés összegét,
+b)[^47] az egy napra eső keresetet meg kell szorozni 365-tel (szökőévben 366-tal), és 2010. január 1-jét megelőzően vagy 2012. december 31-ét követően elért kereset esetén a szorzathoz hozzá kell adni a naptári évben kifizetett adóköteles jutalom (jutalomrész) és év végi részesedés összegét,
 
 c) majd – a (4)–(5) bekezdésben foglaltak figyelembevételével – meg kell határozni az így kiszámított összegre eső, az adott évben hatályos adótábla szerint megállapított adóösszeget, majd ezt el kell osztani 365-tel (szökőévben 366-tal),
 
@@ -57,8 +57,8 @@ kell levonni.
 [^43]: A 15. § a 365/2007. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17. § (3) bekezdését.
 [^44]: A 15. § (1) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 11. § f) pontja szerint módosított szöveg.
 [^45]: A 15. § (2) bekezdés első mondata a 266/2009. (XII. 1.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 425/2012. (XII. 29.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.
-[^46]: A 15. § (3) bekezdés a) pontja a 266/2009. (XII. 1.) Korm. rendelet 10. § (4) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 9. § (4) bekezdése alapján a rendelkezést a 2009. december 31-ét követő időponttól megállapított ellátásokra kell alkalmazni.
-[^47]: A 15. § (3) bekezdés b) pontja a 266/2009. (XII. 1.) Korm. rendelet 10. § (4) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 9. § (4) bekezdése alapján a rendelkezést a 2009. december 31-ét követő időponttól megállapított ellátásokra kell alkalmazni.
+[^46]: A 15. § (3) bekezdés a) pontja a 266/2009. (XII. 1.) Korm. rendelet 10. § (4) bekezdés b) pontja, a 353/2014. (XII. 29.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
+[^47]: A 15. § (3) bekezdés b) pontja a 266/2009. (XII. 1.) Korm. rendelet 10. § (4) bekezdés c) pontja, a 353/2014. (XII. 29.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
 [^48]: A 15. § (5) bekezdés j) pontja a 332/2008. (XII. 30.) Korm. rendelet 15. § (2) bekezdés a) pont ad) alpontja szerint módosított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2008. december 31-ét követő időponttól megállapított ellátásokra, valamint az említett időpontot követő adatszolgáltatásra kell alkalmazni.
 [^49]: A 15. § (5) bekezdés k) pontját a 266/2009. (XII. 1.) Korm. rendelet 3. § (2) bekezdése iktatta be. E módosító rendelet 9. § (4) bekezdése alapján a rendelkezést a 2009. december 31-ét követő időponttól megállapított ellátásokra kell alkalmazni.
 [^50]: A 15. § (5) bekezdés l) pontját a 354/2010. (XII. 30.) Korm. rendelet 4. §-a iktatta be.

@@ -10,7 +10,7 @@
 
 (6) A Tny. 50. § (6)[^106] bekezdésének alkalmazásánál a Kormány által meghatározott összeghatár[^107] szempontjából figyelmen kívül kell hagyni a saját jogú nyugellátás megállapítását követően elszenvedett üzemi baleset alapján megállapított baleseti járadékot, az ösztönző nyugdíjpótlékot, az egyes saját jogú nyugellátások emeléséről szóló 93/1992. (V. 10.) Korm. rendelet 4. § (1) bekezdése szerinti emelést, továbbá az egyes személyes szabadságot korlátozó intézkedésekkel, valamint a semmissé nyilvánított elítéléssel összefüggésben járó emelést, illetőleg a nemzeti helytállásért járó pótlékot és a méltányosságból engedélyezett emelést.
 
-(7)[^108] A saját jogú nyugellátás és az özvegyi nyugdíj, baleseti özvegyi nyugdíj 2014. január 1-jétől havi 83 470 forint összeghatárig folyósítható együtt.
+(7)[^108] A saját jogú nyugellátás és az özvegyi nyugdíj, baleseti özvegyi nyugdíj 2015. január 1-jétől havi 84 975 forint összeghatárig folyósítható együtt.
 
 (8)[^109] A (6)–(7) bekezdésben foglaltakat kell akkor is alkalmazni, ha saját jogú nyugellátást vagy özvegyi nyugdíjat, mezőgazdasági szövetkezeti öregségi, munkaképtelenségi, illetőleg özvegyi járadékkal folyósítanak együtt.
 
@@ -26,7 +26,7 @@
 [^105]: A 62. § (5) bekezdése a 201/1999. (XII. 26.) Korm. rendelet 12. §-ának (2) bekezdésével megállapított szöveg.
 [^106]: A 234/1998. (XII. 30.) Korm. rendelet 29. §-ának (1) bekezdése szerint módosított szöveg.
 [^107]: A 157/2003. (X. 1.) Korm. rendelet 7. § (4) bekezdése alapján az együttfolyósítási összeghatár – 2003. január 1-jei visszamenőleges hatállyal – havi 46 700 forint.
-[^108]: A 62. § (7) bekezdése a 494/2013. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^108]: A 62. § (7) bekezdése a 348/2014. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^109]: A 62. § új (8) bekezdését a 249/2003. (XII. 23.) Korm. rendelet 10. §-a iktatta be, egyidejűleg az eredeti (8)–(9) bekezdés számozását (9)–(10) bekezdésre változtatva.
 [^110]: A 62. § (9) bekezdését a 377/2004. (XII. 28.) Korm. rendelet 18. §-a (5) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 365/2007. (XII. 23.) Korm. rendelet 8. § (1) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 17. § (3) bekezdését.
 [^111]: A 62. § (9) bekezdését a 201/1999. (XII. 26.) Korm. rendelet 12. §-ának (4) bekezdése iktatta be. A 62. § eredeti (9) bekezdésének számozását a 249/2003. (XII. 23.) Korm. rendelet 10. §-a (10) bekezdésre változtatta. A 62. § (10) bekezdése a 365/2007. (XII. 23.) Korm. rendelet 8. § (2) bekezdése, a 333/2011. (XII. 29.) Korm. rendelet 29. § m) pontja, a 425/2012. (XII. 29.) Korm. rendelet 11. § j) pontja szerint módosított szöveg.

@@ -54,7 +54,11 @@ szerzett szolgálati idő minősül.
 
 (2) A Tny. 18. § (2a)–(2d) bekezdése alapján megállapított öregségi teljes nyugdíj összegét valamennyi megszerzett szolgálati idő alapján kell megállapítani.
 
-(3)[^34] A Tny. 18. § (2b) bekezdésének alkalmazása során gyermekgondozási segélyben eltöltött idővel szerzett jogosultsági időnek minősül a háromévesnél fiatalabb gyermek gondozásával a 29. § (5) bekezdés a) pontja alapján szerzett szolgálati idő is. A Tny. 18. § (2b) és (2c) bekezdésének alkalmazása során súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekre tekintettel megállapított ápolási díjban eltöltött idővel szerzett jogosultsági időnek minősül a tartósan beteg vagy súlyosan fogyatékos, tizenkét évesnél fiatalabb, vér szerinti vagy örökbe fogadott gyermek gondozásával a 29. § (5) bekezdés a) pontja alapján szerzett szolgálati idő is.
+(3)[^34] A Tny. 18. § (2a)–(2d) bekezdésének alkalmazása során
+
+a) a gyermekgondozási segélyben eltöltött idővel egy tekintet alá esik a háromévesnél fiatalabb gyermek gondozásával a 29. § (5) bekezdés a) pontja alapján szerzett szolgálati idő,
+
+b) a súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekre tekintettel megállapított ápolási díjban eltöltött idővel egy tekintet alá esik a tartósan beteg vagy súlyosan fogyatékos, tizenkét évesnél fiatalabb, vér szerinti vagy örökbe fogadott gyermek gondozásával a 29. § (5) bekezdés a) pontja alapján szerzett szolgálati idő.
 
 (4)–(5)[^35]
 
@@ -62,5 +66,5 @@ szerzett szolgálati idő minősül.
 [^31]: A 12. § (1) bekezdés a) pontja a 90/2014. (III. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^32]: A 12. § b) pont 8. alpontja a 40/2011. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^33]: A 12. § b) pont 10. alpontja a 40/2011. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^34]: A 12. § (3) bekezdését a 425/2012. (XII. 29.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte, újonnan a 90/2014. (III. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^34]: A 12. § (3) bekezdését a 425/2012. (XII. 29.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte, újonnan a 90/2014. (III. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
 [^35]: A 12. § (4)–(5) bekezdését a 425/2012. (XII. 29.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.

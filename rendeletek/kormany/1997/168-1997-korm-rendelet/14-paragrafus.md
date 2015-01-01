@@ -18,7 +18,7 @@
 
 (9)[^41]
 
-(10)[^42] Ha nemzetközi egyezmény szakmai átlagkereset figyelembevételét írja elő, akkor ennek összegét a nyugdíjigénylő nyugdíjazását megelőzően betöltött munkakörében, illetőleg ahhoz hasonló munkakörben a nyugellátás megállapításának időpontja szerinti – a Nemzeti Munkaügyi Hivatal által közölt – kereset országos átlaga alapján, de a 2013. január 1-jét megelőző időszakra legfeljebb a nyugdíjjárulék-fizetési felső határ összegének figyelembevételével kell meghatározni.
+(10)[^42] Ha nemzetközi egyezmény szakmai átlagkereset figyelembevételét írja elő, akkor ennek összegét a nyugdíjigénylő által leghosszabb ideig betöltött, szolgálati időként figyelembevételre kerülő munkakörben, ennek hiányában ahhoz hasonló munkakörben a nyugellátás megállapításának időpontja szerinti – a foglalkoztatáspolitikáért felelős miniszter által közölt – kereset országos átlaga alapján, de a 2013. január 1-jét megelőző időszakra legfeljebb a nyugdíjjárulék-fizetési felső határ összegének figyelembevételével kell meghatározni.
 
 (11) A havi átlagkereset meghatározása során a kereseti (jövedelmi) adatokat a nyugdíjbiztosítás nyilvántartása alapján kell számításba venni. A nyugdíjbiztosítási nyilvántartásban nem szereplő keresetre (jövedelemre) vonatkozó adatokat a foglalkoztatónak, illetve jogutódjának az egykorú munkaügyi, bérszámfejtési, könyvelési nyilvántartásai alapján kiállított írásbeli igazolásával, ennek hiányában más egykorú okirattal – így különösen a Tbj. 47. §-ának (3) bekezdése vagy 50. §-ának (6) bekezdése szerinti foglalkoztatói igazolással, a személyi jövedelemadó megállapításához a foglalkoztató által kiadott igazolással, a kereset (jövedelem) kifizetését, elszámolását igazoló bizonylattal, munkakönyvvel, személyijövedelemadó-bevallással – lehet igazolni.
 
@@ -27,4 +27,4 @@
 [^39]: A 14. § (3) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
 [^40]: A 14. § (5) bekezdése a 266/2009. (XII. 1.) Korm. rendelet 2. §-ával megállapított és az 58/2010. (III. 16.) Korm. rendelet 5. §-a, a 333/2011. (XII. 29.) Korm. rendelet 29. § g) pontja szerint módosított szöveg.
 [^41]: A 14. § (9) bekezdését a 333/2011. (XII. 29.) Korm. rendelet 29. § h) pontja hatályon kívül helyezte.
-[^42]: A 14. § (10) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 3. §-a, a 425/2012. (XII. 29.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
+[^42]: A 14. § (10) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 11. § e) pontja, a 318/2014. (XII. 13.) Korm. rendelet 3. §-a, a 353/2014. (XII. 29.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-5. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^329]
+5. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^330]
 
 A nyugellátás iránti igény bejelentéséhez csatolandó iratok
 
@@ -18,7 +18,7 @@ A nyugellátás iránti igény bejelentéséhez csatolandó iratok
 
 1.1.6. mezőgazdasági, halászati termelőszövetkezeti tagkönyv, a 1998. január 1-jét megelőző tagsággal szerzett szolgálati idő igazolására,
 
-1.1.7.[^330] egyházi igazolás az egyházi szolgálati viszonyban szerzett szolgálati idő igazolására,
+1.1.7.[^331] egyházi igazolás az egyházi szolgálati viszonyban szerzett szolgálati idő igazolására,
 
 1.1.8. kórházi zárójelentés a szolgálati idő alatt vagy az ezt követő harminc napon belül kezdődött kórházi ápolással 1998. január 1-jét megelőzően szerzett szolgálati idő igazolására.
 
@@ -33,6 +33,8 @@ A nyugellátás iránti igény bejelentéséhez csatolandó iratok
 1.5. az ápolási díjat megállapító határozat másolata, valamint – ha a határozatból a hozzátartozói viszony nem állapítható meg – a gyermek születési anyakönyvi kivonata vagy az örökbefogadást engedélyező határozat, ha a Tny. 18. § (2a)–(2d) bekezdése szerinti öregségi teljes nyugdíjat a jogosult súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekére is tekintettel igénylik,
 
 1.6. a gyermek születési anyakönyvi kivonata vagy az örökbefogadást engedélyező határozat, ha az öregségi teljes nyugdíjat a Tny. 18. § (2d) bekezdésében foglaltakra is tekintettel igénylik.
+
+1.7.[^332] a Gyvt. szerinti működtető igazolása a nevelőszülői foglalkoztatási jogviszonynak a Gyvt. 66/D. § (15) bekezdése szerinti szüneteltetéséről, ha az igénylő nevelőszülő.
 
 2. Özvegyi nyugdíj esetén
 
@@ -76,5 +78,6 @@ A nyugellátás iránti igény bejelentéséhez csatolandó iratok
 
 5.2. a megyei és fővárosi kormányhivatal egészségbiztosítási szakigazgatási szervének vagy a társadalombiztosítási kifizetőhellyel rendelkező foglalkoztatónak a határozata az üzemi baleset vagy foglalkozási megbetegedés elismeréséről.
 
-[^329]: Az 5. számú mellékletet újonnan a 425/2012. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
-[^330]: Az 5. számú melléklet 1.1.7. pontja a 297/2013. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^330]: Az 5. számú mellékletet újonnan a 425/2012. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
+[^331]: Az 5. számú melléklet 1.1.7. pontja a 297/2013. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^332]: Az 5. számú melléklet 1. pont 1.7. alpontját a 353/2014. (XII. 29.) Korm. rendelet 25. §-a iktatta be.
