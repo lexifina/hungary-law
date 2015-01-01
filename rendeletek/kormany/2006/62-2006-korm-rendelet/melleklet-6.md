@@ -1,4 +1,4 @@
-## 1M39828_0
+## Adatlap az adósságkezelési szolgáltatással és a fogyasztásmérő költségével összefüggésben igénybe vehető támogatás igényléséhez[^47]
 
 | Adatlap az adósságkezelési szolgáltatással és a fogyasztásmérő költségével összefüggésben igénybe vehető támogatás igényléséhez |
 
@@ -118,4 +118,5 @@
 
 6. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^48]
 
+[^47]: Az 5. számú melléklet címe a 9/2007. (II. 6.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^48]: A 6. számú mellékletet a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés g) pontja hatályon kívül helyezte.

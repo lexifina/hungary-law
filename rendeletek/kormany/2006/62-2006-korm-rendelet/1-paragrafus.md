@@ -1,12 +1,12 @@
 1. §[^1] (1)[^2] A települési önkormányzatnak a Magyar Államkincstár (a továbbiakban: Kincstár) területileg illetékes szervéhez (a továbbiakban: Igazgatóság) benyújtott igénylése alapján a rendszeres szociális segélyre, a foglalkoztatást helyettesítő támogatásra, a lakásfenntartási támogatásra, az adósságkezelési szolgáltatásra, továbbá az Szt. 55/A. § (3) bekezdése szerinti előrefizetős gáz- vagy áramfogyasztást mérő készülék felszerelési költségeire (a továbbiakban: fogyasztásmérő költsége) kifizetett összeg meghatározott arányát a központi költségvetésről szóló törvényben meghatározott feltételek szerint a Kincstár az önkormányzat részére megtéríti.
 
-(1a)[^3] Az időskorúak járadéka, az Szt. 41. § (1) bekezdése, valamint 43/A. §-a szerinti ápolási díj (a továbbiakban: ápolási díj) finanszírozására szolgáló fejezeti kezelésű előirányzat tekintetében az időskorúak járadékával, valamint az ápolási díjjal kapcsolatos feladatokat a fővárosi és megyei kormányhivatal, mint lebonyolító szerv látja el. A lebonyolító szervet az utalványozás joga megilleti.
+(1a)[^3] Az időskorúak járadékával, továbbá az Szt. 41.§ (1) bekezdése szerinti ápolási díjjal, a kiemelt ápolási díjjal, valamint az emelt összegű ápolási díjjal (e rendelet alkalmazásában a továbbiakban együtt: ápolási díj) kapcsolatos folyósítási feladatok ellátása érdekében a Kincstár a fővárosi és megyei kormányhivatal (a továbbiakban: folyósító szerv) részére elkülönített számlát vezet.
 
-(1b)[^4] A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) az időskorúak járadéka, valamint az ápolási díj folyósítása érdekében a jogosultak folyósításhoz szükséges adatairól és a kifizetés havi összegéről – jogcím szerinti bontásban – minden hónap 10-éig értesíti a fővárosi és megyei kormányhivatalt (a továbbiakban: folyósító szerv).
+(1b)[^4] A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) az időskorúak járadéka, valamint az ápolási díj folyósítása érdekében a jogosultak folyósításhoz szükséges adatairól és a kifizetés havi összegéről – jogcím szerinti bontásban – az időskorúak járadéka esetében a 11. számú melléklet szerinti adatlap felhasználásával, az ápolási díj esetében a 12. számú melléklet szerinti adatlap felhasználásával minden hónap 10-éig értesíti a folyósító szervet.
 
-(1c)[^5] A folyósító szerv a beérkezett adatokat feldolgozza, és az összesítést követően a létszám- és kifizetési összeg adatokat minden hónap 15-éig, jogcím szerinti, járási hivatalonként történő bontásban – elektronikus úton – megküldi a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium részére.
+(1c)[^5] A folyósító szerv a beérkezett adatokat feldolgozza, és az összesítést követően a létszám- és kifizetési összeg adatokat minden hónap 15-éig – járási hivatalonkénti bontásban, elektronikus úton – megküldi a Kincstár részére. Budapest Főváros Kormányhivatala a hajléktalan személyek részére folyósított ellátások kifizetéséhez szükséges adatokat a 12. számú melléklet szerinti adatlapon elkülönítetten tünteti fel.
 
-(1d)[^6] A közigazgatás-szervezésért felelős miniszter által vezetett minisztérium minden hónap 25-éig a folyósító szerv rendelkezésére bocsátja az (1b) bekezdés szerinti összeget, egyidejűleg az (1c) bekezdés szerinti adatokat – elektronikus úton – megküldi a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium részére.
+(1d)[^6] A Kincstár minden hónap 25-éig, december hónapban 20-áig a folyósító szerv (1a) bekezdés szerinti elkülönített számláján rendelkezésre bocsátja a kifizetés havi összegét, egyidejűleg az (1c) bekezdés szerinti adatokat – elektronikus úton – megküldi a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium részére.
 
 (2)[^7] Az (1) bekezdés szerinti ellátások kifizetésére az önkormányzatot – a (3) bekezdésben foglalt kivétellel – havonta előleg illeti meg. A tárgyév december hónapjában előleg nem igényelhető.
 
@@ -48,10 +48,10 @@ szerinti adatlap felhasználásával történik.
 
 [^1]: Az 1. § a 358/2010. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (1a) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^4]: Az 1. § (1b) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^5]: Az 1. § (1c) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 316. § a) pontja szerint módosított szöveg.
-[^6]: Az 1. § (1d) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 316. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1a) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^4]: Az 1. § (1b) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^5]: Az 1. § (1c) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^6]: Az 1. § (1d) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
 [^7]: Az 1. § (2) bekezdése a 331/2011. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^8]: Az 1. § (2a) bekezdését a 331/2011. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 397/2014. (XII. 31.) Korm. rendelet 53. §-ával megállapított szöveg.
 [^9]: Az 1. § (2b) bekezdését a 331/2011. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.

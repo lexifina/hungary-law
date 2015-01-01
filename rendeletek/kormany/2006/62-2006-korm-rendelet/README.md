@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-62-20-2
 | 2013-02-01 | 2006-62-20-22.14 | 352/2012. (XII. 13.) Korm. rendelet |
 | 2014-09-05 | 2006-62-20-22.15 | 352/2012. (XII. 13.) Korm. rendelet |
 | 2014-12-31 | 2006-62-20-22.16 | 331/2011. (XII. 29.) Korm. rendelet |
+| 2015-01-01 | 2006-62-20-22.17 | 352/2012. (XII. 13.) Korm. rendelet |
