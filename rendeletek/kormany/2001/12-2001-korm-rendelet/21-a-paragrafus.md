@@ -1,4 +1,6 @@
-21/A. §[^215] (1)[^216] Ha a támogatott személy a lakásigényét a lakás cseréjével, vagy a lakás elidegenítését követően másik lakás építése vagy vásárlása útján elégíti ki, a kedvezmény, adó-visszatérítési támogatás, vagy a fiatalok otthonteremtési támogatása visszafizetésével kapcsolatos kötelezettségét építési szándék esetében 3, vásárlási szándék esetében 1 évig a tulajdonos – a 21. § (4) bekezdése szerinti bejelentés megtételét követő legfeljebb 60 napon belül benyújtott – kérelme alapján a Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes területi szerve – a 21. § (11) és (12) bekezdésében foglaltak kivételével – felfüggeszti.
+21/A. §[^222] (1)[^223] Ha a támogatott személy a lakásigényét a lakás cseréjével, vagy a lakás elidegenítését követően másik lakás építése vagy vásárlása útján elégíti ki, a kedvezmény, adó-visszatérítési támogatás, vagy a fiatalok otthonteremtési támogatása visszafizetésével kapcsolatos kötelezettségét építési szándék esetében 3, vásárlási szándék esetében 1 évig a tulajdonos – a 21. § (4) bekezdése szerinti bejelentés megtételét követő legfeljebb 60 napon belül benyújtott – kérelme alapján a Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes területi szerve – a 21. § (11) és (12) bekezdésében foglaltak kivételével – felfüggeszti.
+
+(1a)[^224] Az (1) bekezdés szerinti elidegenítés esetén – a lakáscserét is ideértve – a megvásárlásra kerülő másik lakás eladója a támogatott személynek nem lehet a Ptk. szerinti közeli hozzátartozója vagy élettársa. Ha az eladó jogi személy, jogi személyiség nélküli szervezet vagy egyéni vállalkozó, a támogatott személy nem lehet vele tulajdonosi kapcsolatban álló magánszemély.
 
 (2) Az (1) bekezdés szerinti felfüggesztés feltétele, hogy a támogatott személy az igénybevett támogatás összegét a „10032000-01501315 Kincstár lakáscélú kedvezmények letéti számlára” befizesse.
 
@@ -20,7 +22,7 @@ a) az újabb lakás megszerzését hitelt érdemlően igazolja
 
 aa) adásvételi vagy csereszerződés bemutatásával vagy
 
-ab)[^217] építés esetében a használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány bemutatásával
+ab)[^225] építés esetében a használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány bemutatásával
 
 és
 
@@ -28,16 +30,17 @@ b) a korábbi lakás elidegenítéséből származó teljes bevételt – csökk
 
 ## a 21. § (3) bekezdése szerinti kötelezettség az eredeti határidő lejártáig terheli.
 
-(10)[^218] A Kincstár a számítógépes ingatlan-nyilvántartási adatbázishoz közvetlen hozzáférést biztosító TAKARNET rendszerből, az elektronikus dokumentumként szolgáltatott tulajdoni lap másolat lekérdezésével ellenőrzi
+(10)[^226] A Kincstár a számítógépes ingatlan-nyilvántartási adatbázishoz közvetlen hozzáférést biztosító TAKARNET rendszerből, az elektronikus dokumentumként szolgáltatott tulajdoni lap másolat lekérdezésével ellenőrzi
 
 a) a tulajdonjog megszerzését – a b) pontban foglaltak kivételével – a (9) bekezdés a) pontja és a 21. § (11)–(12) bekezdése szerinti esetben, vagy
 
 b) a tulajdonjog megszerzésére irányuló kérelem benyújtását, amennyiben az adásvételi szerződés szerinti utolsó vételárrész megfizetésére még nem került sor és összege megegyezik a 21/A. § (2) bekezdése szerint letéti számlára helyezett támogatás összegével.
 
-(11)[^219] A (9) bekezdés esetében a kedvezmény, az adó-visszatérítési támogatás, a megelőlegező kölcsön időszaka alatt az állam által fizetett ellenszolgáltatások és a fiatalok otthonteremtési támogatása visszafizetését biztosító jelzálogjognak valamint elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásban az újabb lakásra való átjegyzése iránt a Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes területi szerve intézkedik. A megelőlegező kölcsönt biztosító jelzálogjog újabb ingatlanra történő átjegyezhetőségéről a hitelintézet dönt és intézkedik.
+(11)[^227] A (9) bekezdés esetében a kedvezmény, az adó-visszatérítési támogatás, a megelőlegező kölcsön időszaka alatt az állam által fizetett ellenszolgáltatások és a fiatalok otthonteremtési támogatása visszafizetését biztosító jelzálogjognak valamint elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásban az újabb lakásra való átjegyzése iránt a Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes területi szerve intézkedik. A megelőlegező kölcsönt biztosító jelzálogjog újabb ingatlanra történő átjegyezhetőségéről a hitelintézet dönt és intézkedik.
 
-[^215]: A 21/A. §-t a 251/2004. (VIII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 253/2012. (IX. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^216]: A 21/A. § (1) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 11. § f) pontja, a 128/2013. (IV. 30.) Korm. rendelet 5. § 16. pontja szerint módosított szöveg.
-[^217]: A 21/A. § (9) bekezdés a) pont ab) alpontja a 128/2013. (IV. 30.) Korm. rendelet 5. § 21. pontja szerint módosított szöveg.
-[^218]: A 21/A. § (10) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^219]: A 21/A. § (11) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.
+[^222]: A 21/A. §-t a 251/2004. (VIII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 253/2012. (IX. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^223]: A 21/A. § (1) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 11. § f) pontja, a 128/2013. (IV. 30.) Korm. rendelet 5. § 16. pontja szerint módosított szöveg.
+[^224]: A 21/A. § (1a) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 6. §-a iktatta be.
+[^225]: A 21/A. § (9) bekezdés a) pont ab) alpontja a 128/2013. (IV. 30.) Korm. rendelet 5. § 21. pontja szerint módosított szöveg.
+[^226]: A 21/A. § (10) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^227]: A 21/A. § (11) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.
