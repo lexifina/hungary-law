@@ -22,13 +22,13 @@
 
 8. külföldön nyilvántartott az a gépjármű, amelynek forgalmi engedélyét és hatósági jelzését (rendszámát) nem magyar hatóság adta ki, kizárólag külföldön nyilvántartott gépjárművekből álló gépjárműszerelvény esetén az adó megállapítása a vontató honossága szerint történik, feltéve, ha nemzetközi egyezmény e kérdésben másként nem rendelkezik,
 
-9. használt gépjármű az, amely a gyártóüzem által történt kibocsátást követően közúti forgalomban részt vett,
+9.
 
 10. költségvetési szerv az államháztartásról szóló 2011. évi CXCV. törvény szerinti szerv,
 
 11. helyi és a helyközi tömegközlekedés lebonyolítását szolgálja a gépjármű (autóbusz), amellyel a vállalkozó kizárólag menetrendszerinti személyszállítást díjfizetés ellenében bárki által igénybe vehető módon végzi,
 
-12. súlyos mozgáskorlátozott az a személy, aki a súlyos mozgáskorlátozottak közlekedési kedvezményeinek rendszeréről szóló jogszabályban meghatározott állapota miatt súlyos mozgáskorlátozottnak minősül, és ezt a tényt az ott meghatározott szakvélemény, szakhatósági állásfoglalás, igazolás, hatósági határozat másolatával igazolja,
+12. súlyos mozgáskorlátozott az a személy, aki a súlyos mozgáskorlátozottak közlekedési kedvezményeiről szóló jogszabályban meghatározott állapota miatt súlyos mozgáskorlátozottnak minősül, és ezt a tényt az ott meghatározott szakvélemény, szakhatósági állásfoglalás, igazolás, hatósági határozat másolatával igazolja,
 
 13. segédmotoros kerékpár: olyan két-, három- vagy négykerekű jármű, amelyet 50 cm3-t meg nem haladó lökettérfogatú belső égésű motor vagy legfeljebb 4 kW teljesítményű egyéb motor hajt, tervezési végsebessége 45 km/óránál nem nagyobb és saját tömege legfeljebb 350 kg,
 
@@ -62,6 +62,8 @@
 
 28. hybrid meghajtású az a jármű, amely elektromos és hagyományos belső égésű motorral van ellátva.
 
-29. környezetvédelmi osztály-jelzés: a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló, 2012. augusztus 15-én hatályos 6/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: KöHÉM rendelet) 5. számú melléklet II. alpontja szerinti környezetvédelmi osztály jelzés (kód). Ha a KöHÉM rendelet szerinti osztály jelzés nem ismert, akkor azt a személygépkocsi légszennyezési, zajkibocsátási adatait, környezetvédelmi osztályát meghatározó jellemzőjét (hajtómotorjának környezetvédelmi besorolása, a személygépkocsi meghajtása) hitelt érdemlően bizonyító iratai (pl. forgalmi engedély, típus-bizonyítvány, hatósági okirat, szakértői szakvélemény) alapján – a KöHÉM rendelet 5. számú melléklete II. alpontjára figyelemmel – kell megállapítani. Ha ez nem lehetséges, akkor a személygépkocsi osztály-jelzése: ”6”. Ha a személygépkocsi osztályjelzése a KöHÉM rendelet 2012. augusztus 15-ét követő módosítása miatt „15”-nél nagyobb szám, akkor azt úgy kell tekinteni, hogy a környezetvédelmi osztály-jelzés „15”.
+29. környezetvédelmi osztályjelzés: a KöHÉM rendelet 2014. augusztus 15-én hatályos 5. számú melléklet II. alpontja szerinti környezetvédelmi osztályjelzés. Ha a KöHÉM rendelet szerinti osztályjelzés nem ismert, akkor azt a személygépkocsi, tehergépjármű, autóbusz légszennyezési, zajkibocsátási adatait, környezetvédelmi osztályát meghatározó jellemzőjét (hajtómotorjának környezetvédelmi besorolása, a személygépkocsi meghajtása) hitelt érdemlően bizonyító iratai (pl.: forgalmi engedély, típusbizonyítvány, hatósági okirat, szakértői szakvélemény) alapján – a KöHÉM rendelet 5. számú melléklete II. alpontjára figyelemmel – kell megállapítani. Ha ez nem lehetséges, akkor a személygépkocsi osztályjelzése: „6”. Ha a személygépkocsi, tehergépjármű, autóbusz osztályjelzése a KöHÉM rendelet 2014. augusztus 15-ét követő módosítása miatt „16”-nál nagyobb szám, akkor azt úgy kell tekinteni, hogy a környezetvédelmi osztályjelzés „16” ,
 
-30. tartós bérletbe adott személygépkocsi: az a személygépkocsi, amelyet egy éven túli időszakra vagy határozatlan időre adtak bérbe, feltéve, hogy a bérbe vevő üzembentartói jogát a hatósági nyilvántartásba bejegyezték.
+30. tartós bérletbe adott személygépkocsi: az a személygépkocsi, amelyet egy éven túli időszakra vagy határozatlan időre adtak bérbe, feltéve, hogy a bérbe vevő üzembentartói jogát a hatósági nyilvántartásba bejegyezték,
+
+31. pénzügyi lízing: a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény szerinti pénzügyi lízing.

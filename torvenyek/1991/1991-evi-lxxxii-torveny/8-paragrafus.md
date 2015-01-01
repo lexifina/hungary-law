@@ -1,6 +1,6 @@
 ## Adókedvezmény
 
-8. § (1) 20%-os kedvezmény illeti meg azon autóbuszt, tehergépjárművet – a nyergesvontató kivételével, amely után 30 %-os kedvezmény jár -, amely a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet (e § alkalmazásában KöHÉM rendelet) 5. számú melléklete II. alpontja szerinti „5”, „6”, „7” vagy „8” környezetvédelmi osztály-jelzéssel (kóddal) ellátott.
+8. § (1) 20%-os kedvezmény illeti meg azon autóbuszt, tehergépjárművet – a nyergesvontató kivételével, amely után 30 %-os kedvezmény jár -, amely a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: KöHÉM rendelet) 5. számú melléklete II. alpontja szerinti „5”, „6”, „7” vagy „8” környezetvédelmi osztály-jelzéssel (kóddal) ellátott.
 
 (2) 30%-os kedvezmény illeti meg azon autóbuszt, tehergépjárművet – a nyergesvontató kivételével, amely után 50 %-os kedvezmény jár -, amely a KöHÉM rendelet 5. számú melléklete II. alpontja szerint legalább „9”, „10”, „11”, „12” környezetvédelmi osztály-jelzéssel (kóddal) ellátott.
 

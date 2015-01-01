@@ -14,4 +14,6 @@ e) amelyet a betegségmegelőző vagy gyógyító céllal, szociális céllal, a
 
 f) amelyet kizárólag az egészségbiztosítási szerv által – az egészségügy társadalombiztosítási finanszírozásának egyes kérdéseiről szóló jogszabály alapján – finanszírozott háziorvosi, házi gyermekorvosi tevékenység ellátása érdekében, valamint az egészségügyi államigazgatási szerv törvény alapján kizárólag betegségmegelőző, gyógyító, egészségkárosodást csökkentő közegészségügyi, járványügyi és egészségvédelmi alapfeladatának ellátása érdekében üzemeltetnek,
 
-g) amely külön jogszabály szerint haditechnikai terméknek minősül, és amelyet a Magyar Honvédség Magyarország függetlenségének, területi épségének, nemzetközi szerződésekben rögzített határainak, lakosságának és anyagi javainak védelme érdekében üzemeltet.
+g) amely külön jogszabály szerint haditechnikai terméknek minősül, és amelyet a Magyar Honvédség Magyarország függetlenségének, területi épségének, nemzetközi szerződésekben rögzített határainak, lakosságának és anyagi javainak védelme érdekében üzemeltet,
+
+h) amely törvényes öröklés eredményeként a magyar állam tulajdonában áll, azon hónap utolsó napjáig, melyben a személygépkocsi vagyonkezelői vagy használati jogát a Magyar Nemzeti Vagyonkezelő Zrt. más személynek vagy szervezetnek nem adja át.
