@@ -1,6 +1,6 @@
 ## 10. Ellátmányelőleg
 
-28. § (1)[^50] A kihelyező szerv – a kihelyezett kérelmére, a külképviseletre történt megérkezést követően, az első teljes havi ellátmány kifizetéséig – egy alkalommal, az állomáshelyre jogszabályban megállapított alapellátmánnyal, a kihelyezett ellátmányszorzójával, de legfeljebb 2,5 szorzószámmal számítva
+28. § (1)[^56] A kihelyező szerv – a kihelyezett kérelmére, a külképviseletre történt megérkezést követően, az első teljes havi ellátmány kifizetéséig – egy alkalommal, az állomáshelyre jogszabályban megállapított alapellátmánnyal, a kihelyezett ellátmányszorzójával, de legfeljebb 2,5 szorzószámmal számítva
 
 a) kéthavi,
 
@@ -18,7 +18,7 @@ b) az ellátmánypótlékra jogosító gyermekkel kihelyezésre kerülő kiküld
 
 (6) Ha a külszolgálat az ellátmányelőleg vagy a munkáltatói kölcsön visszafizetése előtt fejeződik be, a kihelyezett tartozásának fennmaradó részét állomáshelyén egy összegben a felvétel pénznemében vagy belföldön – legkésőbb a külszolgálat befejezésétől számított 30 napon belül – a hazatérés időpontjában érvényes, a Magyar Nemzeti Bank által meghatározott deviza eladási árfolyamon számítva, forintban köteles visszafizetni.
 
-(7)[^51] Ha a kihelyezett az ellátmányelőleget és a munkáltatói kölcsönt a külszolgálat befejezésétől számított 30 napon belül nem fizeti vissza, a kihelyező szerv jogosult a késedelmes napokra a Kttv. szerinti késedelmi kamatot felszámítani. Amennyiben a külszolgálat a kihelyezett önhibáján kívül fejeződik be az ellátmányelőleg és a munkáltatói kölcsön visszafizetése előtt, a törlesztésre a kihelyező szerv szabályzatának megfelelően a fentieknél kedvezőbb feltételeket állapíthat meg.
+(7)[^57] Ha a kihelyezett az ellátmányelőleget és a munkáltatói kölcsönt a külszolgálat befejezésétől számított 30 napon belül nem fizeti vissza, a kihelyező szerv jogosult a késedelmes napokra a Kttv. szerinti késedelmi kamatot felszámítani. Amennyiben a külszolgálat a kihelyezett önhibáján kívül fejeződik be az ellátmányelőleg és a munkáltatói kölcsön visszafizetése előtt, a törlesztésre a kihelyező szerv szabályzatának megfelelően a fentieknél kedvezőbb feltételeket állapíthat meg.
 
 (8) Az egy évet meg nem haladó időtartamú kihelyezés esetén ellátmányelőleg az első teljes havi ellátmány kifizetéséig – az alapellátmány 50%-a erejéig – nyújtható, melyet a kihelyezett két részletben, a második és a harmadik ellátmány kifizetéséből törleszt. Az egy évet meg nem haladó időtartamú kihelyezés esetén munkáltatói kölcsön nem adható.
 
@@ -26,5 +26,5 @@ b) az ellátmánypótlékra jogosító gyermekkel kihelyezésre kerülő kiküld
 
 (10) Áthelyezés esetén – a kihelyező szerv egyedi döntése alapján – kizárólag a (2) bekezdésben meghatározott munkáltatói kölcsön nyújtható.
 
-[^50]: A 28. § (1) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^51]: A 28. § (7) bekezdése a 43/2014. (II. 25.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^56]: A 28. § (1) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^57]: A 28. § (7) bekezdése a 43/2014. (II. 25.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

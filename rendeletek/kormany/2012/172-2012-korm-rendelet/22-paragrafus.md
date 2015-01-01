@@ -1,10 +1,10 @@
-## 21/A. §[^38] A kihelyezés megszűnésével a kihelyező szerv hivatali szervezetének vezetője – a szakdiplomata kivételével – gondoskodik a kormánytisztviselő eredeti vagy más munkakörbe történő helyezéséről.
+## 21/A. §[^43] A kihelyezés megszűnésével a kihelyező vezető – a szakdiplomata kivételével – gondoskodik a kormánytisztviselő eredeti vagy más munkakörbe történő helyezéséről.
 
 ## 6. A kihelyező, az áthelyező, az értesítő és a kihelyezést visszavonó okirat
 
-22. § (1)[^39] A kihelyezésről, a külszolgálat megszüntetéséről és a kihelyezés visszavonásáról, továbbá a más külföldi állomáshelyre történő áthelyezésről szóló munkáltatói intézkedést írásba kell foglalni.
+22. § (1)[^44] A kihelyezésről, a külszolgálat megszüntetéséről és a kihelyezés visszavonásáról, továbbá a más külföldi állomáshelyre történő áthelyezésről szóló munkáltatói intézkedést írásba kell foglalni.
 
-(2)[^40] A kihelyezésre és a más külföldi állomáshelyre történő áthelyezésre vonatkozó okiratnak tartalmaznia kell a külszolgálattal kapcsolatos minden lényeges adatot, így különösen a kihelyezett
+(2)[^45] A kihelyezésre és a más külföldi állomáshelyre történő áthelyezésre vonatkozó okiratnak tartalmaznia kell a külszolgálattal kapcsolatos minden lényeges adatot, így különösen a kihelyezett
 
 a) rangját, munkakörét, az 1. melléklet szerinti munkaköri kulcsszámát,
 
@@ -22,7 +22,7 @@ g) biztonsági szolgálat ellátására vonatkozó kötelezettségét,
 
 h) kötelezettségeit és jogosultságait, a külszolgálat ellátásával kapcsolatos egyéb feltételeket.
 
-(3)[^41] A kihelyezés visszavonásáról szóló okiratnak tartalmaznia kell:
+(3)[^46] A kihelyezés visszavonásáról szóló okiratnak tartalmaznia kell:
 
 a) a külszolgálat megszűnésének napját,
 
@@ -32,7 +32,7 @@ b) a szolgálat átadásával, valamint a hazautazással kapcsolatos kötelezett
 
 (5) Az értesítő okiratban rögzíteni kell a végleges hazautazás napját, és tájékoztatni kell a kihelyezettet a hazautazással kapcsolatban.
 
-[^38]: A 21/A. §-t a 174/2014. (VII. 18.) Korm. rendelet 12. §-a iktatta be.
-[^39]: A 22. § (1) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^40]: A 22. § (2) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^41]: A 22. § (3) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^43]: A 21/A. §-t a 174/2014. (VII. 18.) Korm. rendelet 12. §-a iktatta be, szövege a 343/2014. (XII. 19.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^44]: A 22. § (1) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^45]: A 22. § (2) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^46]: A 22. § (3) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.

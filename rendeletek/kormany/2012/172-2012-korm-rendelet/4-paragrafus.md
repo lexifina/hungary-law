@@ -16,6 +16,9 @@ f) a külföldi magyar intézet igazgatója
 
 ## (a továbbiakban együtt: képviselet-vezető) látja el.
 
-(2)[^7] Képviselet-vezető hiányában, távollétében, illetve akadályoztatása esetén – a képviselet-vezető jogkörében és feladatkörében – ideiglenes ügyvivő jár el. Ideiglenes ügyvivő – a következő sorrend szerint – a kihelyező szerv hivatali szervezetének vezetője által kijelölt személy, az első beosztotti feladatkört ellátó diplomata, a külképviselet legmagasabb rangú diplomatája, a képviselet-vezető által kijelölt szakdiplomata.
+(1a)[^10] Az Állandó Képviselet képviselet-vezetője rendkívüli és meghatalmazott nagykövet.
 
-[^7]: A 4. § (2) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 19. § (1) bekezdés e) pontja szerint módosított szöveg.
+(2)[^11] Képviselet-vezető hiányában, távollétében, illetve akadályoztatása esetén – a képviselet-vezető jogkörében és feladatkörében – ideiglenes ügyvivő jár el. Ideiglenes ügyvivő – a következő sorrend szerint – a külpolitikáért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője által kijelölt személy, az első beosztotti feladatkört ellátó diplomata, a külképviselet legmagasabb rangú diplomatája, a képviselet-vezető által kijelölt szakdiplomata. Az Állandó Képviselet tekintetében a Képviselet-vezető COREPER II. nagykövet hiányában, távollétében, illetve akadályoztatása esetén a COREPER I. nagykövet jár el. Utóbbi hiányában, távollétében, illetve akadályoztatása esetén pedig az Állandó Képviselet Kül- és Biztonságpolitikai Hivatalát nagyköveti rangban vezető diplomatája jár el.
+
+[^10]: A 4. § (1a) bekezdését a 343/2014. (XII. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^11]: A 4. § (2) bekezdése a 343/2014. (XII. 19.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
