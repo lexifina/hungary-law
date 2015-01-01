@@ -18,4 +18,10 @@ h) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedé
 
 i) az Európai Parlament és a Tanács 2003/88/EK irányelve (2003. november 4.) a munkaidő-szervezés egyes szempontjairól a munka törvénykönyvéről szóló 2012. évi I. törvénnyel együtt;
 
-i) a hajótulajdonosok tengeri biztosítási kárigényre vonatkozó biztosításáról szóló, 2009. április 23-i 2009/20/EK európai parlamenti és tanácsi irányelvnek a tengeri hajók kötelező biztosításáról szóló kormányrendelettel együtt.
+i)
+
+j) az Európai Parlament és a Tanács (2009. április 23.) a hajótulajdonosok tengeri biztosítási kárigényre vonatkozó biztosításáról szóló 2009/20/EK irányelve a tengeri hajók kötelező biztosításáról szóló kormányrendelettel együtt,
+
+k) az Európai Parlament és a Tanács (2012. november 21.) a tengerészek képzésének minimumszintjéről szóló 2008/106/EK irányelv módosításáról szóló 2012/35/EU irányelve a hajózási képesítésekről és a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló miniszteri rendeletekkel együtt,
+
+l) a Bizottság (2013. október 11.) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról szóló 2006/87/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló 2013/49/EU irányelve.
