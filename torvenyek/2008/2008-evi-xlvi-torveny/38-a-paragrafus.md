@@ -56,7 +56,7 @@ k) az e törvény hatálya alá tartozó vállalkozók, tevékenységi helyek, i
 
 (6) Az élelmiszerlánc-felügyeleti szerv a közös ügyfél törzsadat-kezelő rendszeren keresztül biztosítja a mezőgazdasági és vidékfejlesztési támogatási szerv részére a 38. § (1) bekezdésének b), c), f)–h) pontjában meghatározott esetekben az ügyfél törzsadatokhoz való folyamatos hozzáférést.
 
-(7) Az élelmiszerlánc-felügyeleti szerv az állami adóhatóság részére a törvényben meghatározott feladatai ellátása érdekében megkeresésre elektronikus úton adatokat ad át a FELIR-ből.
+(7) Az élelmiszerlánc-felügyeleti szerv megkeresésre az adó- és vámhatóság törvényben meghatározott feladatai ellátása céljából elektronikus úton átadja az adó- és vámhatóság részére a FELIR-ben regisztrált élelmiszer vállalkozókkal kapcsolatban nyilvántartott, a (2) bekezdés a), c) és d) pontja szerinti, valamint a bejelentett első magyarországi tárolási helyekre vonatkozó adatokat, illetve ezen adatok tekintetében hozzáférést biztosít az adó- és vámhatóság részére a FELIR-hez.
 
 (8) Az élelmiszerlánc-felügyeleti hatóság és a mezőgazdasági és vidékfejlesztési támogatási szerv a közös ügyfél törzsadat-kezelő rendszer működtetéséről írásban állapodnak meg, melynek ki kell terjednie a közös ügyfél törzsadatok körének meghatározására, működtetéssel kapcsolatos feladatok elvégzésének, valamint a költségek viselésének megosztására.
 
