@@ -8,7 +8,7 @@
 
 | 2. egészségügyi terület | Országos Tisztifőorvosi Hivatal |
 
-| 3. munkabiztonsági terület | Nemzeti Munkaügyi Hivatal |
+| 3. munkabiztonsági terület | foglalkoztatáspolitikáért felelős miniszter |
 
 | 4. mező- és erdőgazdálkodási, valamint élelmiszer-ipari területek | Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet |
 
