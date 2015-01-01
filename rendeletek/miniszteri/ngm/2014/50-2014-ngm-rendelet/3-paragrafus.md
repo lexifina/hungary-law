@@ -1,0 +1,5 @@
+## 2. A bejelentés, változásbejelentés szabályai
+
+3. § (1) Az Art. 22/E. §-a szerinti közúti fuvarozással járó tevékenységet folytatni kívánó adózó, törvényes képviselője vagy állandó meghatalmazottja ügyfélkapun történő felhasználónév és jelszó igénylését követően az EKAER elektronikus felületen jelenti be az Art. 22/E. § (8) bekezdésében meghatározott adatokat, kivéve, ha az Art. 22/E. §-a alapján mentesül a bejelentési kötelezettség alól.
+
+(2) A bejelentést az adózó törvényes képviselője vagy állandó meghatalmazottja helyett teljesítheti az a személy is, akinek részére az adózó törvényes képviselője, vagy állandó meghatalmazottja az Art. szabályai szerint az EKAER elektronikus felületen a bejelentéshez szükséges felhasználónevet és jelszót igényelt. Az adózó megjelölhet olyan személyeket is, akik az adott EKAER számhoz kapcsolódóan kizárólag az Art. 11. számú melléklet I. alcím 4. pontja, II. alcím 4. pontja, III. alcím 3. pontja szerinti adatok módosítására jogosultak, illetve kizárólag a 22/E. § (8) bekezdés k) pontja szerinti adatot jelenthetik be vagy módosíthatják.
