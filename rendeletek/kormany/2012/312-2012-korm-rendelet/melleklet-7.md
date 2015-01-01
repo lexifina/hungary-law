@@ -78,7 +78,7 @@
 
 |  |  | 37. | A kormány- rendeletben meghatározott járási (fővárosi kerületi) hivatal építésügyi és örökségvédelmi hivatala, illetve a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala hatáskörébe tartozó ügyek kivételével a műemléki jelentőségű területen vagy világörökségi területen a telek közterületi határához legközelebb, de legfeljebb 10 méterre álló új épület építése vagy meglévő épület építésügyi hatósági engedélyhez kötött bővítése vagy átalakítása esetén. | Annak elbírálása kérdésében, hogy az építési tevékenység a kulturális örökség vagy a világörökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | a) építési, b) összevont (építési engedélyezési szakaszában), c) fennmaradási engedélyezési eljárás | kormányrendeletben meghatározott járási (fővárosi kerületi) hivatal építésügyi és örökségvédelmi hivatala | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
-7. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^120]
+7. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^121]
 
 I. Az összevont telepítési eljárásban az ügydöntő szakhatóságokhoz benyújtandó mellékletek
 
@@ -106,7 +106,7 @@ II. Az összevont telepítési eljárásban közreműködő szakhatóságok
 
 | 2. | Ügydöntő szakhatóságok |
 
-| 3. | Ha a tervezett beruházás termőföldön valósul meg | a termőföld mennyiségi védelmének érvényre juttatása | járási földhivatal, több járási földhivatal illetékességi területét érintő esetekben a megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala | megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala, ha első fokon a fővárosi és megyei kormányhivatal földhivatala járt el, akkor a földügyért felelős miniszter |
+| 3. | Ha a tervezett beruházás termőföldön valósul meg | a termőföld mennyiségi védelmének érvényre juttatása | járási földhivatal, több járási földhivatal illetékességi területét érintő esetekben a megyeszékhely szerinti járási földhivatal, Pest megyében a Budakeszi Járási Hivatal Budakörnyéki Járási Földhivatala, a fővárosban a Budapesti 1. Számú Földhivatal | megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala |
 
 | 4. | Erdő igénybevételének szükségessége esetén | az erdőre gyakorolt hatások vizsgálata, az erdő igénybevételének lehetősége | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
@@ -150,4 +150,4 @@ II. Az összevont telepítési eljárásban közreműködő szakhatóságok
 
 | 7. | egységes környezethasználati engedélyezési eljárásban | a környezetvédelmi, természetvédelmi, vízügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 347/2006. (XII. 23.) Korm. rendelet 4. számú melléklet |
 
-[^120]: A 7. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (5) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 123. § f)–h) pontja, a 42/2014. (II. 24.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^121]: A 7. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (5) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 123. § f)–h) pontja, a 42/2014. (II. 24.) Korm. rendelet 16. § (2) bekezdése, a 373/2014. Korm. rendelet 52. §-a szerint módosított szöveg.
