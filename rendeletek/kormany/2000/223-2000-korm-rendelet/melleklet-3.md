@@ -286,6 +286,6 @@
 
 |  | b) magánnyugdíjpénztár |  |  |  |  |  |
 
-3. számú melléklet a 223/2000. (XII. 19.) Korm. rendelethez[^202]
+3. számú melléklet a 223/2000. (XII. 19.) Korm. rendelethez[^205]
 
-[^202]: A 3. számú melléklet a 288/2002. (XII. 23.) Korm. rendelet 27. §-ának (1) bekezdésével megállapított, a 285/2005. (XII. 20.) Korm. rendelet 34. § (1) bekezdése, valamint a 358/2006. (XII. 27.) Korm. rendelet 32. §-a szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 49. § (1) bekezdését.
+[^205]: A 3. számú melléklet a 288/2002. (XII. 23.) Korm. rendelet 27. §-ának (1) bekezdésével megállapított, a 285/2005. (XII. 20.) Korm. rendelet 34. § (1) bekezdése, valamint a 358/2006. (XII. 27.) Korm. rendelet 32. §-a szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 49. § (1) bekezdését.

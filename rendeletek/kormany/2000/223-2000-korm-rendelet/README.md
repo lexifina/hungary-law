@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-223-20-
 | 2013-10-01 | 2000-223-20-22.16 | 345/2013. (IX. 30.) Korm. rendelet |
 | 2014-01-01 | 2000-223-20-22.17 | 285/2005. (XII. 20.) Korm. rendelet |
 | 2014-12-31 | 2000-223-20-22.18 | 362/2014. (XII. 30.) Korm. rendelet |
+| 2015-01-01 | 2000-223-20-22.19 | 362/2014. (XII. 30.) Korm. rendelet |
