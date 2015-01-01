@@ -6,7 +6,7 @@
 
 (4) A szabadságvesztés végrehajtásának biztosítására irányuló intézkedés előírásainak megtartását – a Be. lakhelyelhagyási tilalom megtartásának ellenőrzésére vonatkozó szabályai szerint – a rendőrség ellenőrzi.
 
-(5) Ha a szabadságvesztés végrehajtásának biztosítására irányuló intézkedés előírásait az elítélt megszegte, a rendőrség haladéktalanul értesíti az intézkedést elrendelő bíróságot, és az elítéltet a bíróság határozatának meghozataláig – legfeljebb hat napig – büntetés-végrehajtási őrizetbe veheti. A bíróság a szabadságvesztés végrehajtásának biztosítására irányuló intézkedés előírásainak megszegése esetén a szabadságvesztés azonnali foganatba vételét rendelheti el.
+(5) Ha a szabadságvesztés végrehajtásának biztosítására irányuló intézkedés előírásait az elítélt megszegte, a rendőrség haladéktalanul értesíti az intézkedést elrendelő bíróságot, és az elítéltet a bíróság határozatának meghozataláig – legfeljebb hat napig – büntetés-végrehajtási őrizetbe veheti. A büntetés-végrehajtási őrizetet rendőrségi fogdán kell végrehajtani. A bíróság a szabadságvesztés végrehajtásának biztosítására irányuló intézkedés előírásainak megszegése esetén a szabadságvesztés azonnali foganatba vételét rendelheti el. A bíróság a szabadságvesztés azonnali foganatba vételéről való döntés során a Btk. 92. § alkalmazásával rendelkezik a büntetés-végrehajtási őrizet beszámításáról.
 
 (6) Ha az elítélt ismeretlen helyre távozott és a tartózkodási helyének felkutatása iránt megtett intézkedések nem vezettek eredményre, a tanács elnöke elfogatóparancsot bocsát ki.
 

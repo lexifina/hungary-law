@@ -22,6 +22,6 @@ b) munkahelyi vagy üzemi baleset esetén a külön törvény szerinti baleseti 
 
 (7) Munkahelyi vagy üzemi baleset esetén a pártfogó felügyelő és a munkahely képviselője közös jegyzőkönyvet vesz fel.
 
-(8) A közérdekű munka végrehajtása során az elítéltnek az általa okozott kárért való felelősségére, vagy az elítéltet ért kárért a munkahely felelősségére a munka törvénykönyvéről szóló törvény rendelkezéseit kell alkalmazni azzal, hogy az elítélt anyagi felelősségének a mértékét a hasonló munkakörben foglalkoztatott munkavállalók távolléti díjának figyelembevételével kell megállapítani.
+(8) A közérdekű munka végrehajtása során az elítéltnek az általa okozott kárért való felelősségére, vagy az elítéltet ért kárért a munkahely felelősségére az Mt. rendelkezéseit kell alkalmazni azzal, hogy az elítélt anyagi felelősségének a mértékét a hasonló munkakörben foglalkoztatott munkavállalók távolléti díjának figyelembevételével kell megállapítani.
 
 (9) A közérdekű munka végrehajtásának elévülését félbeszakítja, ha az elítélttel szemben szabadságvesztést, elzárást, közérdekű munka vagy pénzbüntetés helyébe lépő szabadságvesztést vagy előzetes letartóztatást vesznek foganatba. Ezeknek a körülményeknek a megszűnéséig az elévülés nyugszik.

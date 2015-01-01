@@ -2,7 +2,7 @@
 
 407. § (1) Az előzetesen letartóztatott munkára nem kötelezhető.
 
-(2) Az előzetesen letartóztatott kérelmére munkát végezhet, erről a BFB dönt. Ha az előzetesen letartóztatott munkát végez, az elhelyezés kivételesen zárt részlegen lévő lakóhelyiségben is biztosítható. A munka kijelölésénél tekintettel kell lenni különösen
+(2) Az előzetesen letartóztatott kérelmére munkát végezhet, erről a BFB dönt. Ha az előzetesen letartóztatott munkát végez, az elhelyezés kivételesen zárt körleten lévő lakóhelyiségben is biztosítható. A munka kijelölésénél tekintettel kell lenni különösen
 
 a) a rendelkezési jogkör gyakorlójának előírásaira,
 

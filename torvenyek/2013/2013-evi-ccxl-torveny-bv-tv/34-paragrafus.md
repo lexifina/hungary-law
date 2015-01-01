@@ -4,6 +4,6 @@
 
 (3) Ha a terhelt fogva van, de előállítására nem került sor, a tanács elnöke haladéktalanul megküldi a szabadságvesztésről, az elzárásról, a javítóintézeti nevelésről vagy a kényszergyógykezelésről kiállított és bírói rendelvénnyel ellátott értesítőlapot a végrehajtásért felelős szervnek, ha a terhelt más szervnél van fogva, a fogvatartást foganatosító szervhez, amely haladéktalanul intézkedik a terhelt átszállítása iránt.
 
-(4) Ha a terhelt szabadlábon van és a szabadságvesztés azonnali foganatba vételének nincs helye, a tanács elnöke a szabadságvesztésről, illetve az elzárásról kiállított értesítőlapra bírói rendelvényt vezet, és azt megküldi a végrehajtás érdekében a Büntetés-végrehajtás Országos Parancsnoksága (a továbbiakban: BVOP) részére.
+(4) Ha a terhelt szabadlábon van és a szabadságvesztés azonnali foganatba vételének nincs helye, továbbá elzárás kiszabása esetén a jogerős szabadságvesztést vagy elzárást kiszabó bíróság a szabadságvesztésről kiállított értesítőlapot, az elzárásról kiállított értesítőlapot és az ítélet rendelkező részét a székhelye szerinti törvényszéken működő bv. csoport részére küldi meg.
 
 (5) Kényszergyógykezelés és javítóintézeti nevelés elrendelése esetén a tanács elnöke az értesítőlapra bírói rendelvényt vezet, és azt megküldi az intézkedés végrehajtásáért felelős illetékes intézetnek, továbbá intézkedik a kényszergyógykezeltnek, illetve a fiatalkorú elítéltnek az intézetbe szállítása vagy kísérése végett.

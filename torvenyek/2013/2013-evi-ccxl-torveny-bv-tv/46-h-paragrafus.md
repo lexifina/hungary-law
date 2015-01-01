@@ -1,0 +1,1 @@
+46/H. § Ha a kötelező kegyelmi eljárás anélkül zárult le, hogy az elítélt kegyelemben részesült volna, és az elítélt továbbra is életfogytig tartó szabadságvesztését tölti, a kötelező kegyelmi eljárás lezárultát követően két év elteltével a kötelező kegyelmi eljárást ismételten le kell folytatni.

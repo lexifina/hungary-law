@@ -8,7 +8,9 @@ c) az apaság és a származás megállapítása iránti perben személyes megje
 
 d) gondnokság alá helyezés iránti perben alperesként,
 
-e) szabálysértési ügyben eljárás alá vont személyként
+e) szabálysértési ügyben eljárás alá vont személyként,
+
+f) az Országgyűlés nemzetbiztonsággal foglalkozó állandó bizottsága által közreműködésre kötelezett személyként
 
 idézik.
 

@@ -1,6 +1,6 @@
 ## A szabadulásra felkészítés
 
-185. § (1) Az elítéltek szabadulásra felkészítése keretében (a továbbiakban: gondozás) már a szabadságvesztés végrehajtása alatt segítséget kapnak a szabadulást követő társadalomba való visszailleszkedéshez és az ehhez szükséges szociális feltételek megteremtéséhez. A gondozás – az elítélt visszailleszkedésének elősegítése érdekében – kiterjed a befogadó környezet felkészítésére, más személyek és szervezetek bevonására is. A gondozás reintegrációs program keretében valósul meg.
+185. § (1) Az elítéltek szabadulásra felkészítése keretében (a továbbiakban: gondozás) már a szabadságvesztés végrehajtása alatt segítséget kapnak a szabadulást követő társadalomba való visszailleszkedéshez és az ehhez szükséges szociális feltételek megteremtéséhez. A gondozás – az elítélt visszailleszkedésének elősegítése érdekében – kiterjed a befogadó környezet felkészítésére, más személyek és szervezetek bevonására is. A bv. intézet az elítélt részére egyéni reintegrációs programot készít, amely alapján végrehajtja az elítélt gondozását.
 
 (2) Az elítélt gondozását a bv. intézetből való szabadulás – ideértve a feltételes szabadságra bocsátás lehetőségét is – várható időpontja előtt
 
@@ -14,7 +14,7 @@ d) tíz évnél hosszabb szabadságvesztés esetén két évvel
 
 kell megkezdeni.
 
-(3) A gondozás keretében a bv. intézet és a bv. intézet székhelye szerint illetékes pártfogó felügyelő egymással szorosan együttműködve jár el, a gondozás eredményéről rendszeresen tájékoztatják egymást. Az együttműködés során a pártfogó felügyelő gondozási tevékenységét legkésőbb a bv. intézetből való szabadulás – ideértve a feltételes szabadságra bocsátás lehetőségét is – várható időpontja előtt két hónappal kezdi meg.
+(3) A büntetés-végrehajtási pártfogó felügyelő gondozási tevékenységét legkésőbb a bv. intézetből való szabadulás – ideértve a feltételes szabadságra bocsátás lehetőségét is – várható időpontja előtt két hónappal kezdi meg.
 
 (4) A gondozás megkezdésekor a bv. intézet az elítéltet meghallgatja és
 
@@ -24,9 +24,9 @@ b) nyilatkoztatja, hogy a szabadulása után hol kíván letelepedni, rendelkezi
 
 c) felméri a családi kapcsolatainak rendezettségét, iskolai végzettségét és szakképzettségét.
 
-(5) Az elítélt (4) bekezdés szerinti meghallgatásánál a pártfogó felügyelő jelen lehet.
+(5) Az elítélt (4) bekezdés szerinti meghallgatásánál a büntetés-végrehajtási pártfogó felügyelő jelen lehet.
 
-(6) A gondozás keretében a pártfogó felügyelő
+(6) A gondozás keretében a büntetés-végrehajtási pártfogó felügyelőpártfogó felügyelő
 
 a) a bv. intézetben felkeresi az elítélteket és egyéni vagy csoportos tájékoztatást tart a társadalomba való beilleszkedés elősegítése érdekében,
 
@@ -44,7 +44,7 @@ g) szükség esetén segíti a családi kapcsolatok helyreállítását,
 
 h) ha az elítélt részéről gyógyintézetben, illetve szociális intézményben való ellátás vagy elhelyezés igénye merül fel, és ezt kellő időben jelzi, felveszi a kapcsolatot az ellátást nyújtó intézményekkel az elítélt elhelyezése érdekében.
 
-(7) A (6) bekezdés e)–h) pontjában foglalt tevékenységeket az elítélt által megjelölt letelepedés helye szerint illetékes pártfogó felügyelő végzi.
+(7) A (6) bekezdés e)–h) pontjában foglalt tevékenységeket az elítélt által megjelölt letelepedés helye szerint illetékes büntetés-végrehajtási pártfogó felügyelő végzi.
 
 (8) A gondozási tevékenység keretében a pártfogó felügyelő együttműködik a helyi önkormányzatokkal, a munkáltatókkal, az elítélt társadalomba való beilleszkedését elősegítő, karitatív tevékenységet végző civil szervezetekkel, vallási közösségekkel, valamint egyéb önkéntes közreműködőkkel.
 

@@ -1,40 +1,36 @@
 96. § (1) A BFB elítéltekkel kapcsolatos feladatai:
 
-a) adatok, iratok egyeztetése,
+a) az elítélt befogadást követő elhelyezése,
 
-b) befogadó részlegbe helyezés,
+b) a rezsimbe sorolás és a besorolás megváltoztatása,
 
-c) tájékoztatás az összefoglaló jelentés tartalmáról, valamint a reintegrációs programokról,
+c) a rezsimbe helyezés felülvizsgálata,
 
-d) rezsimkategóriába sorolás, elhelyezés,
+d) a reintegrációs programba történő bevonás, ilyen programba történő helyezés vagy annak megszüntetése, a programon való részvétel eredményességének értékelése,
 
-e) hosszúidős speciális részlegen történő elhelyezés, illetve annak megszüntetése,
+e) a biztonsági kockázati besorolás és a besorolás megváltoztatása,
 
-f) gyógyító-terápiás, illetve drogprevenciós részlegre való besorolás vagy megszüntetés,
+f) a nem dolgozó és újonnan befogadott elítélt munkába állítása, a munkahely és a munkakör kijelölése,
 
-g) rezsimbe helyezés felülvizsgálata,
+g) a dolgozó elítélt más munkahelyre történő áthelyezése, munkahelyről történő leváltása,
 
-h) záró kockázatelemzési vizsgálathoz vélemény elkészítése,
+h) a bv. szerv orvosának javaslata alapján döntés a munkaterápiás foglalkoztatásról, annak munkaidejéről és munkarendjéről,
 
-i) reintegrációs gondozásba vétel, reintegrációs programba történő bevonás, ilyen programba történő helyezés, eredményességének értékelése,
+i) az oktatásra, a szakképzésre és a továbbképzésre jelentkezők beiskolázása,
 
-j) nem dolgozó és újonnan befogadott elítélt munkába állítása, a munkahely és a munkakör kijelölése,
+j) a hosszúidős speciális részlegen történő elhelyezés vagy annak megszüntetése,
 
-k) dolgozó elítélt munkahelyről történő leváltása,
+k) a gyógyító-terápiás részlegen történő elhelyezés vagy annak megszüntetése,
 
-l) dolgozó elítélt más munkahelyre történő áthelyezése,
+l) a pszichoszociális részlegen történő elhelyezés vagy annak megszüntetése,
 
-m) a bv. szerv orvosának javaslata alapján döntés a terápiás foglalkoztatásról, annak munkaidejéről és munkarendjéről,
+m) a drogprevenciós részlegen történő elhelyezés vagy annak megszüntetése,
 
-n) oktatásra, szakképzésre, továbbképzésre jelentkezők beiskolázása,
+n) az alacsony biztonsági kockázatú részlegen történő elhelyezés vagy annak megszüntetése,
 
-o) alacsony biztonsági kockázatú részlegen történő elhelyezés és megszüntetés,
+o) jogszabályban meghatározott egyéb feladat.
 
-p) biztonsági csoportba sorolás,
-
-q) jogszabályban meghatározott egyéb feladat.
-
-(2) A BFB az (1) bekezdés c), e) és i)–p) pontjában meghatározott feladatainak ellátása kapcsán az elítéltet meghallgatja.
+(2) A BFB az (1) bekezdés b), d), f)–h), j) és l) pontjában meghatározott feladatkörének ellátása során az elítéltet meghallgatja, egyéb esetben meghallgatást tarthat.
 
 (3) Az elítéltet a bv. intézet parancsnoka és a BFB döntéseivel szemben e törvényben meghatározott jogorvoslati jog illeti meg. Jogorvoslatnak a határozat, illetve a döntés végrehajtására nincs halasztó hatálya.
 

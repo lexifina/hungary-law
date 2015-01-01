@@ -16,4 +16,4 @@ b) a gyermekgondozási díj vagy a gyermekgondozási segély folyósítását eg
 
 (5) A félbeszakítás tartama az elzárás tartamába nem számít be. A félbeszakítás alatt az elzárás elévülése nyugszik.
 
-(6) A félbeszakítás tárgyában hozott határozat ellen az ügyész, az elzárásra ítélt és a védője, fiatalkorú esetén továbbá a törvényes képviselő a határozat közlésétől számított három napon belül panasszal élhet.
+(6) A félbeszakítás tárgyában hozott határozat ellen az elzárásra ítélt és a védője, fiatalkorú esetén továbbá a törvényes képviselő a határozat közlésétől számított három napon belül panasszal élhet.

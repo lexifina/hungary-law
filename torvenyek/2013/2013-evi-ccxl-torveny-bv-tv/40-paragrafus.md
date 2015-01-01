@@ -16,7 +16,7 @@ b) egy évesnél fiatalabb gyermekét gondozza.
 
 (4) A (2) bekezdés esetében a tanács elnöke igazságügyi orvos-szakértői szakvélemény alapján állapítja meg a halasztás egészségügyi feltételeinek fennállását, és a BVOP egészségügyi szakterület vezetőjének – az elítélt egészségügyi állapotának büntetés-végrehajtás keretei között való kezelhetőségére vonatkozó – nyilatkozatát figyelembe véve határoz a kérelemről.
 
-(5) A (3) bekezdés a) pontja esetén, ha a gyermek halva született, vagy utóbb meghalt, a szabadságvesztés végrehajtását a bíróság felhívására hat héten belül kell megkezdeni. Ha a gyermek véglegesen vagy tartósan kikerül az elítélt gondozásából, a szabadságvesztés végrehajtását – amint azt a nő szülés utáni egészségi állapota lehetővé teszi – haladéktalanul meg kell megkezdeni. A nő szülés utáni egészségi állapotáról a tanács elnökének a felhívására a BVOP egészségügyi szakterületének – a rendelkezésre bocsátott orvosi dokumentumok alapján – vezetője nyilatkozik.
+(5) A (3) bekezdés a) pontja esetén, ha a gyermek halva született, utóbb meghalt, vagy a gyermek véglegesen vagy tartósan kikerül az elítélt gondozásából, az elzárás végrehajtását a bíróság felhívására, amint azt a nő szülés utáni egészségi állapota lehetővé teszi, haladéktalanul meg kell kezdeni. A nő szülés utáni egészségi állapotáról a tanács elnökének a felhívására a BVOP egészségügyi szakterületének vezetője – a rendelkezésre bocsátott orvosi dokumentumok alapján – nyilatkozik.
 
 (6) Az (1)–(4) bekezdésben meghatározott feltételek esetén sincs helye az elhalasztásnak, ha az súlyosan veszélyeztetné a közbiztonságot vagy a közrendet, illetve ha az elítélt szökésétől vagy elrejtőzésétől kell tartani.
 

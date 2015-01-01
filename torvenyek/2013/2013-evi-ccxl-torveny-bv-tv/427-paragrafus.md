@@ -4,7 +4,7 @@
 
 427. § (1) Az őrizet végrehajtására az e fejezetben foglalt eltérésekkel az előzetes letartóztatás végrehajtására vonatkozó szabályokat kell alkalmazni.
 
-(2) A büntetőeljárás során elrendelt őrizetet rendőrségi fogdán (e fejezetben a továbbiakban: fogda) kell végrehajtani.
+(2) A 2. § b) és c) pontja szerinti őrizetet rendőrségi fogdán (e fejezetben a továbbiakban: fogda) kell végrehajtani.
 
 (3) Az őrizetes büntetőeljárási jogait korlátozás nélkül gyakorolhatja. Meghatalmazás aláírása érdekében az ügyvéd belépését a fogda területére hivatali időn kívül is biztosítani kell.
 

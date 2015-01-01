@@ -12,7 +12,7 @@ c) szökés vagy bűncselekmény megakadályozása érdekében szükséges.
 
 (3) A fiatalkorúval szemben kényszerítő eszközként testi kényszer alkalmazható az (1) bekezdésben meghatározott esetekben az intézkedéssel szembeni ellenállás megtörésére. Testi kényszerként megfogás, lefogás, ellökés, elvezetés, önvédelmi fogás alkalmazható.
 
-(4) Testi kényszer az igazgató vagy távollétében az ügyeletes vezető rendelkezése alapján alkalmazható. Testi kényszert az előzetesen letartóztatott fiatalkorúval szemben a javítóintézeti rendész alkalmazhat.
+(4) Testi kényszer az igazgató vagy távollétében az ügyeletes vezető rendelkezése alapján alkalmazható. Testi kényszert a fiatalkorúval szemben az ehhez szükséges kiegészítő képzésben részesült vagy megfelelő szakirányú képesítéssel, képzettséggel rendelkező javítóintézeti rendész alkalmazhat.
 
 (5) Kényszerítő eszköz nem alkalmazható a magatehetetlen személlyel szemben. A tizennegyedik életévét be nem töltött fiatalkorúval szemben kizárólag korlátozott testi kényszer alkalmazható. Korlátozott testi kényszernek minősül a lefogás, megfogás.
 

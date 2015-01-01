@@ -6,38 +6,42 @@
 
 2. büntetés-végrehajtási intézet (a továbbiakban: bv. intézet) tisztántartását, karbantartását és ellátását szolgáló munka: az elítélt, a kényszerintézkedés hatálya alatt álló személy, a rendbírság helyébe lépő elzárásra kötelezett személy és a szabálysértési elzárásra kötelezett elkövető által, jogszabályban meghatározott feltételekkel és tartamban, alkalomszerűen, a fogva tartó bv. intézet fenntartása körében, díjazás nélkül végzett takarítási, karbantartási és ellátási tevékenység, amely nem minősül munkáltatásnak,
 
-3. egyéb jogcímen fogvatartott: a kényszergyógykezelt, a kényszerintézkedés hatálya alatt álló személy, a rendbírság helyébe lépő elzárásra kötelezett személy és a szabálysértési elzárásra kötelezett elkövető,
+3. büntetés-végrehajtási pártfogó felügyelő: a büntetés-végrehajtási szervezethez tartozó, a szabadságvesztés büntetés végrehajtásával összefüggő pártfogói tevékenységet végző pártfogó felügyelő,
 
-4. elektronikus megfigyelési eszköz: zárt rendszerű biztonságtechnikai eszköz, amely elektronikus formában kép, hang, vagy kép és hang együttes felvételére, továbbítására és rögzítésére alkalmas,
+4. egyéb jogcímen fogvatartott: a kényszergyógykezelt, a kényszerintézkedés hatálya alatt álló személy, a rendbírság helyébe lépő elzárásra kötelezett személy és a szabálysértési elzárásra kötelezett elkövető,
 
-5. elektronikus távfelügyeleti eszköz: az elítélt vagy az egyéb jogcímen fogvatartott mozgását nyomon követő technikai eszköz,
+5. elektronikus megfigyelési eszköz: zárt rendszerű biztonságtechnikai eszköz, amely elektronikus formában kép, hang vagy kép és hang együttes felvételére, továbbítására és rögzítésére alkalmas,
 
-6. értesítőlap: a bíróság által a végrehajtás érdekében – papír alapon vagy elektronikus formátumban – a végrehajtásért felelős szerv részére a kiszabott büntetésről, az alkalmazott intézkedésről, valamint az ezeket érintő, az ítélethozatalt követő érdemi rendelkezésekről, továbbá a kényszerintézkedés elrendeléséről, fenntartásáról, megszüntetéséről kiállított értesítés, amelynek része a szabadságelvonással járó büntetés, intézkedés vagy kényszerintézkedés foganatosítására, avagy a szabadításra adott bírói rendelvény,
+6. elektronikus távfelügyeleti eszköz: az elítélt vagy az egyéb jogcímen fogvatartott mozgását nyomon követő technikai eszköz,
 
-7. hivatalos minőségben kapcsolattartó:
+7. értesítőlap: a bíróság által a végrehajtás érdekében – papír alapon vagy elektronikus formátumban – a végrehajtásért felelős szerv részére a kiszabott büntetésről, az alkalmazott intézkedésről, valamint az ezeket érintő, az ítélethozatalt követő érdemi rendelkezésekről, továbbá a kényszerintézkedés elrendeléséről, fenntartásáról, megszüntetéséről kiállított értesítés, amelynek része a szabadságelvonással járó büntetés, intézkedés vagy kényszerintézkedés foganatosítására, avagy a szabadításra adott bírói rendelvény,
+
+8. fogvatartással kapcsolatos ügy: minden olyan ügy, amely nem tartozik a büntetés-végrehajtási ügy körébe, de az elítélt vagy az egyéb jogcímen fogvatartott fogvatartásával összefügg, ideértve a bv. intézet által lefolytatandó kártérítési eljárást is,
+
+9. hivatalos minőségben kapcsolattartó:
 
 a) a Btk. szerinti hivatalos és külföldi hivatalos személy a hivatalos eljárásában,
 
-b) a védő, a jogi képviselőként eljáró ügyvéd és jogtanácsos folyamatban lévő büntető, polgári, szabálysértési eljárásban, közigazgatási hatósági eljárásban vagy egyéb hatósági ügyben, valamint büntetés-végrehajtási ügyben, illetve ilyen eljárás megindításának kezdeményezése érdekében eljárva, ideértve a meghatalmazás adását is,
+b) a védő, a jogi képviselőként eljáró ügyvéd és jogtanácsos folyamatban lévő büntető-, polgári, szabálysértési eljárásban, közigazgatási hatósági eljárásban, egyéb hatósági ügyben vagy büntetés-végrehajtási ügyben, valamint ilyen eljárás megindításának kezdeményezése érdekében eljárva, ideértve a meghatalmazás adását is,
 
 c) az elítélt és az egyéb jogcímen fogvatartott államának konzuli tisztviselője,
 
-d) a büntetőügyben eljáró tolmács,
+d) a büntetőügyben eljáró tolmács és szakértő,
 
 e) az egyházi személy hitéleti szolgálata ellátása során, a büntetés-végrehajtási szervvel (a továbbiakban: bv. szerv) kötött megállapodás alapján a bv. intézetben vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja, az egyházi jogi személy vagy a vallási tevékenységet végző szervezet által megbízott más személy e tevékenység végzése során,
 
 f) a bv. szervvel kötött megállapodás alapján a bv. intézetben jogvédő vagy karitatív tevékenységet folytató civil szervezet tagja, képviselője vagy ilyen szervezet megbízásából eljáró személy e tevékenység végzése során,
 
-8. hozzátartozó: a Btk.-ban hozzátartozóként meghatározott személy,
+10. hozzátartozó: a Btk.-ban hozzátartozóként meghatározott személy,
 
-9. kapcsolattartó: az a személy, aki az elítélttel vagy az egyéb jogcímen fogvatartottal jogszabály vagy engedély alapján kapcsolattartásra jogosult,
+11. kapcsolattartó: az a személy, aki az elítélttel vagy az egyéb jogcímen fogvatartottal jogszabály vagy engedély alapján kapcsolattartásra jogosult,
 
-10. kényszerintézkedés: a büntetőeljárásban, az Európai Unió tagállamaival folytatott bűnügyi együttműködés keretében és a nemzetközi bűnügyi jogsegély ügyekben elrendelt szabadságelvonással járó kényszerintézkedés,
+12. kényszerintézkedés: a büntetőeljárásban, az Európai Unió tagállamaival folytatott bűnügyi együttműködés keretében és a nemzetközi bűnügyi jogsegély ügyekben elrendelt szabadságelvonással járó kényszerintézkedés,
 
-11. munkáltatás: a reintegrációs tevékenység azon formája, amikor az elítéltek vagy a kényszerintézkedés hatálya alatt álló személy és a szabálysértési elzárásra kötelezett elkövető munkavégzése szervezetten, rendszeresen, haszon- vagy bevételszerzési céllal, a munka törvénykönyvében szabályozott munkaviszonytól eltérő, jogszabályban meghatározott feltételekkel és díjazás ellenében történik, az így létrejövő munkáltatási jogviszony alanyai munkáltatóként a bv. intézet, a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság vagy a bv. szerv szerződése és a fogvatartott hozzájárulása alapján más gazdálkodó szervezet, valamint munkavégzőként az elítélt vagy a kényszerintézkedés hatálya alatt álló személy, illetve a szabálysértési elzárásra kötelezett elkövető;
+13. munkáltatás: a reintegrációs tevékenység azon formája, amikor az elítéltek vagy a kényszerintézkedés hatálya alatt álló személy és a szabálysértési elzárásra kötelezett elkövető munkavégzése szervezetten, rendszeresen, haszon- vagy bevételszerzési céllal, a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) által szabályozott munkaviszonytól eltérő, jogszabályban meghatározott feltételekkel és díjazás ellenében történik, az így létrejövő munkáltatási jogviszony alanyai munkáltatóként a bv. intézet, a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság vagy a bv. szerv szerződése és az elítéltek vagy a kényszerintézkedés hatálya alatt álló személy és a szabálysértési elzárásra kötelezett elkövető hozzájárulása alapján más gazdálkodó szervezet, valamint munkavégzőként az elítélt, a kényszerintézkedés hatálya alatt álló személy vagy a szabálysértési elzárásra kötelezett elkövető;
 
-12. terápiás foglalkoztatás: a reintegrációs tevékenység azon formája, amikor elsősorban a kényszergyógykezelt, az ideiglenesen kényszergyógykezelt és a gyógyító-reintegráló csoportba helyezett, illetve megváltozott munkaképességű vagy egyébként az egészségi állapota miatt a munkáltatásban részt venni nem képes elítélt foglalkoztatása szervezetten, rendszeresen, e törvényben meghatározott feltételekkel és térítési díj ellenében, büntetés-végrehajtási jogviszony keretében történik,
+14. munkaterápiás foglalkoztatás: a reintegrációs tevékenység azon formája, amikor elsősorban a kényszergyógykezelt, az ideiglenesen kényszergyógykezelt és a gyógyító-reintegráló csoportba helyezett, valamint a megváltozott munkaképességű vagy egyébként az egészségi állapota miatt a munkáltatásban részt venni nem képes elítélt foglalkoztatása szervezetten, rendszeresen, e törvényben meghatározott feltételekkel és térítési díj ellenében, büntetés-végrehajtási jogviszony keretében történik,
 
-13. védő: a Be. szerinti védő, valamint a büntetések és az intézkedések végrehajtása alatt az elítélt, illetve az egyéb jogcímen fogvatartott büntetés-végrehajtási ügyében eljáró ügyvéd,
+15. védő: a Be. szerinti védő, valamint a büntetések és az intézkedések végrehajtása alatt az elítélt vagy az egyéb jogcímen fogvatartott büntetés-végrehajtási ügyében eljáró ügyvéd,
 
-14. végrehajtásért felelős szerv: a büntetés-végrehajtási szervezet, a javítóintézet, a pártfogó felügyelői szolgálatként a Kormány által kijelölt szerv (a továbbiakban: pártfogó felügyelői szolgálat).
+16. végrehajtásért felelős szerv: a büntetés-végrehajtási szervezet, a javítóintézet, a pártfogó felügyelői szolgálatként a Kormány által kijelölt szerv (a továbbiakban: pártfogó felügyelői szolgálat).

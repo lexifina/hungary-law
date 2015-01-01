@@ -18,4 +18,4 @@ c) a kimaradás legfeljebb három alkalomra történő megvonása,
 
 d) öt napig terjedő magánelzárás, amelynek során engedélyezhető, hogy az elzárásra ítélt dolgozzon.
 
-(3) A bv. intézet magánelzárást kiszabó határozata ellen az elzárásra ítélt a büntetés-végrehajtási bíróhoz fellebbezéssel élhet. A fellebbezést a határozat közlésekor nyomban be kell jelenteni; a fellebbezésnek a magánelzárás végrehajtására halasztó hatálya van.
+(3) A bv. intézet magánelzárást kiszabó határozata ellen az elzárásra ítélt a büntetés-végrehajtási bíróhoz bírósági felülvizsgálati kérelmet nyújthat be. A bírósági felülvizsgálati kérelmet a határozat közlésekor nyomban be kell jelenteni; a bírósági felülvizsgálati kérelemnek a magánelzárás végrehajtására halasztó hatálya van.

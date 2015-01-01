@@ -16,9 +16,9 @@ d) az elítélt vagy az egyéb jogcímen fogvatartott törvényes képviselőjé
 
 e) az elítélt vagy az egyéb jogcímen fogvatartott részére kiállított, a személyazonosság igazolására alkalmas hatósági igazolvány és járművezetéstől eltiltás hatálya alatt álló esetében a vezetői engedély okmányazonosítójára és érvényességi idejére, továbbá az okmányt kiállító hatóság megnevezésére,
 
-f) a szabadságvesztés büntetés hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, az egészségügyről szóló törvényben meghatározott egészségügyi adataira (a továbbiakban: egészségügyi adat), esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira, a választójoggal nem rendelkező elítélt személyi azonosítójára, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
+f) a szabadságvesztés és az elzárás hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, az egészségügyről szóló törvényben meghatározott egészségügyi adataira (a továbbiakban: egészségügyi adat), esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira, a választójoggal nem rendelkező elítélt személyi azonosítójára, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
 
-g) a közérdekű munkára ítélt társadalombiztosítási azonosító jelére, egészségügyi adataira, szociális helyzetére, foglalkozására, munkahelyére, munkarendjére és tanulói jogviszonyára, tanulmányi rendjére vonatkozó adataira, továbbá – ha azokat megadja – a levelezési címére, telefonszámára, illetve e-mail címére, valamint a végrehajtás helyére, kezdő és befejező időpontjára, valamint a ledolgozott napok számára,
+g) a közérdekű munkára ítélt társadalombiztosítási azonosító jelére, egészségügyi adataira, szociális helyzetére, foglalkozására, munkahelyére, munkarendjére és tanulói jogviszonyára, tanulmányi rendjére, valamint családi körülményeire vonatkozó adataira, továbbá – ha azokat megadja – a levelezési címére, telefonszámára, illetve e-mail címére, valamint a végrehajtás helyére, kezdő és befejező időpontjára, valamint a ledolgozott napok számára,
 
 h) a közügyektől eltiltott esetén a népképviseleti szerv testületében vagy bizottságában korábban betöltött tagságára, civil szervezetben betöltött vezetői tisztségére, köztestületben vagy közalapítványban viselt tisztségére, volt katonai rendfokozatára, volt belföldi vagy külföldi kitüntetésére, a hivatalos személyi minőséget korábban megalapozó jogviszonyára, törvényben kihirdetett nemzetközi szerződéssel létrehozott szervezet közgyűlésébe, testületébe történt korábbi delegálására vonatkozó adataira, illetve az arra vonatkozó adatokra, hogy korábban védőként vagy jogi képviselőként járt el,
 
@@ -38,7 +38,9 @@ o) a büntetések és az intézkedések végrehajtására vonatkozó adatokra, �
 
 p) pártfogó felügyelői vélemény, környezettanulmány, megelőző pártfogó felügyelői vélemény vagy jelentés készítése esetén a terhelt családi állapotára, iskolai végzettségére, szakképzettségére, foglalkozására, munkahelyére vagy tanulói jogviszonyának adataira, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, lakáskörülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira, valamint a sértett azon személyes adataira, amelyek a részére adandó jóvátételhez szükségesek, fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére,
 
-q) a büntetőeljárásban vagy az elítélttel kapcsolatos egyéb – bírósági, ügyészségi, közjegyzői, közigazgatási – eljárásban keletkezett azon iratokra, amelyeket jogszabály rendelkezése alapján a végrehajtásért felelős szerv részére meg kell küldeni.
+q) a büntetőeljárásban vagy az elítélttel kapcsolatos egyéb – bírósági, ügyészségi, közjegyzői, közigazgatási – eljárásban keletkezett azon iratokra, amelyeket jogszabály rendelkezése alapján a végrehajtásért felelős szerv részére meg kell küldeni,
+
+r) a szabálysértési elzárás hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, valamint a végrehajtás helyére, kezdő és befejező időpontjára.
 
 (3) Az (1) és (2) bekezdésben foglaltakat kell alkalmazni az elítélt adatainak kezelésére akkor is, ha
 

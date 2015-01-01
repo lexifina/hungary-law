@@ -2,7 +2,7 @@
 
 ## A KÖZÉRDEKŰ MUNKA ÉS A PÉNZBÜNTETÉS HELYÉBE LÉPŐ SZABADSÁGVESZTÉS VÉGREHAJTÁSA
 
-294. § (1) A közérdekű munka és a pénzbüntetés helyébe lépő szabadságvesztés büntetés végrehajtására az V. Fejezet rendelkezéseit e fejezet szerinti eltérésekkel kell alkalmazni.
+294. § (1) A közérdekű munka helyébe lépő szabadságvesztés és a pénzbüntetés helyébe lépő szabadságvesztés büntetés végrehajtására az V. Fejezet rendelkezéseit e fejezet szerinti eltérésekkel kell alkalmazni. A közérdekű munka helyébe lépő szabadságvesztés és a pénzbüntetés helyébe lépő szabadságvesztés büntetés végrehajtásának megkezdése érdekében a bv. csoport intézkedik.
 
 (2) A közérdekű munka és a pénzbüntetés helyébe lépő szabadságvesztés büntetés végrehajtására – kivéve a Btk. 51. § (2) bekezdésében meghatározott esetet – a szabadságvesztés fogház fokozatának rendelkezései az irányadók, azzal, hogy a közérdekű munka és a pénzbüntetés helyébe lépő szabadságvesztést töltő elítélt
 

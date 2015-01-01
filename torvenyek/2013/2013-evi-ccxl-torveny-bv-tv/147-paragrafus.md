@@ -34,4 +34,4 @@ h) magánál tartható tárgyainak köre és mennyisége korlátozható.
 
 (8) A (7) bekezdésben meghatározott rendelkezések, valamint a szükséges további biztonsági intézkedések együttesen vagy külön-külön alkalmazhatók, melyről a bv. intézet parancsnoka írásban dönt.
 
-(9) Az elítélt – kérelmére, vagy hivatalból – biztonsági zárkába vagy részlegre helyezhető, ha személyes védelme érdekében más elítéltektől való elkülönítése szükséges, és más módszer nem vezet eredményre Ez esetben a (6) bekezdésben meghatározott rendelkezések a behelyezés indokának figyelembe vételével, ha pedig az (1) bekezdés a)–b) pontjában meghatározott feltételek is fennállnak, szükség szerint alkalmazhatók.
+(9) Az elítélt – kérelmére, vagy hivatalból – biztonsági zárkába vagy részlegre helyezhető, ha személyes védelme érdekében más elítéltektől való elkülönítése szükséges, és más módszer nem vezet eredményre Ez esetben a (7) bekezdésben meghatározott rendelkezések a behelyezés indokának figyelembe vételével, ha pedig az (1) bekezdés a)–b) pontjában meghatározott feltételek is fennállnak, szükség szerint alkalmazhatók.

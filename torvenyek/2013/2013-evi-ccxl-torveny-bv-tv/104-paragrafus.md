@@ -10,9 +10,9 @@ b) az elítélt a szabadságvesztésből börtönfokozatban legalább hat hónap
 
 c) az elítélt a törvény értelmében [Btk. 38. § (4) bekezdés] vagy a bíróság határozata folytán nem bocsátható feltételes szabadságra,
 
-d) az elítélt erőszakos többszörös visszaeső,
+d)
 
-e) az elítélt a bűncselekményt bűnszervezetben követte el,
+e)
 
 f) a bíróság jogerős ítéletében fegyházbüntetésre ítélt elítélt a szabadságvesztés fokozatának enyhítésével [115. § (1) bekezdés] tölti a büntetését,
 

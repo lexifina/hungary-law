@@ -4,6 +4,6 @@
 
 (2) Kegyelmi rendelkezés kizárólag még végre nem hajtott büntetésre vagy intézkedésre vonatkozhat. A kegyelem gyakorlása szempontjából a kiutasítás mindaddig nem tekinthető végrehajtottnak, amíg annak tartama el nem telt.
 
-(3) Ha a kegyelmi jogkör gyakorlója az elítéltet kegyelemben részesíti, a büntetőjogi következmények [Btk. 98. § (3) bekezdés] – ellenkező rendelkezés hiányában – az ítéletben kiszabott büntetéshez igazodnak.
+(3) Ha a kegyelmi jogkör gyakorlója ettől eltérően nem dönt, a kegyelem gyakorlása esetén azok a büntetőjogi jogkövetkezmények, amelyeket a Büntető Törvénykönyvről szóló törvény a korábbi elítéléshez fűz, az ítéletben kiszabott büntetéshez igazodnak.
 
 (4) Ha a köztársasági elnök a büntetés végrehajtását kegyelemből próbaidőre felfüggeszti, a próbaidő és a mentesítés hatályának beálltához szükséges időtartam a kegyelmi elhatározás keltének napján kezdődik.

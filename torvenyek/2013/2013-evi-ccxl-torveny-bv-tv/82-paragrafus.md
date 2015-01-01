@@ -10,7 +10,7 @@
 
 82. § E fejezet alkalmazásában
 
-1. fiatalkorú alatt érteni kell a tizennyolcadik életévét betöltött, de huszonegyedik életévét meg nem haladott szabadságvesztést töltő elítéltet is,
+1. fiatalkorú alatt érteni kell a tizennyolcadik életévét betöltött, de huszonegyedik életévét meg nem haladott – fiatalkorúak szabadságvesztését töltő – elítéltet is,
 
 2. fogvatartotti nyilvántartás: az elítéltről és az egyéb jogcímen fogvatartottról a büntetés-végrehajtási szervezetről szóló törvény szerint vezetett nyilvántartás,
 

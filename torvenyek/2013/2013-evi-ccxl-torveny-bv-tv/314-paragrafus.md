@@ -10,9 +10,9 @@ c) próbára bocsátás próbaideje alatt,
 
 d) jóvátételi munka elrendelése mellett
 
-a magatartási szabályokat megszegi, a pártfogó felügyelő javaslatot készít, amelyhez mellékeli a rendelkezésre álló bizonyítékokat, vagy a rendőrség jelentését, és azt megküldi az ügyésznek.
+a magatartási szabályokat megszegi, a pártfogó felügyelő a b), c) és d) pontokban foglalt, a büntetés-végrehajtási pártfogó felügyelő pedig az a) pontban foglalt esetben javaslatot készít, amelyhez mellékeli a rendelkezésre álló bizonyítékokat, vagy a rendőrség jelentését, és azt megküldi az ügyésznek.
 
-(2) Ha az ügyész a tényállást nem látja tisztázottnak, a tényállás felderítése érdekében a nyomozó hatóságot keresi meg, vagy a pártfogótól további bizonyítási eszközök megjelölését kéri.
+(2) Ha az ügyész a tényállást nem látja tisztázottnak, a tényállás felderítése érdekében a nyomozó hatóságot keresi meg, vagy a pártfogótól vagy a büntetés-végrehajtási pártfogótól további bizonyítási eszközök megjelölését kéri.
 
 (3) Ha a magatartási szabályok – (1) bekezdés szerinti – megszegése miatt
 

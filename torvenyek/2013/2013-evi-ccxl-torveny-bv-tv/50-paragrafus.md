@@ -22,14 +22,16 @@ i) az eljárást felfüggeszti, ha az elítélt ismeretlen helyre távozott, vag
 
 j) az ismeretlen helyen tartózkodó elítélttel szemben elfogatóparancsot bocsáthat ki,
 
-k) szükség esetén szakértői vizsgálatot rendelhet el.
+k) szükség esetén szakértői vizsgálatot rendelhet el,
 
-(2) Az e fejezet szerinti eljárásokat – e törvény eltérő rendelkezése hiányában – annak a végrehajtásért felelős szervnek, szervezeti egységnek vagy javítóintézetnek a székhelye szerint illetékes büntetés-végrehajtási bíró folytatja le, ahol az eljárás alapjául szolgáló büntetést vagy intézkedést végrehajtják.
+l) az e törvényben meghatározott esetekben, amennyiben a jogosult kérelmében új körülményre nem hivatkozik, a határozat hozatalát mellőzheti, és erről a kérelmezőt értesíti.
 
-(3) Az e fejezetben szabályozott eljárások közül azokban, amelyeknél e törvény az elítélt meghallgatását nem írja elő, a büntetés-végrehajtási bíró feladatait önálló aláírási joggal a törvényszék elnöke által kijelölt bírósági titkár is elláthatja. A bírósági titkár a döntését iratok alapján hozza meg.
+(2) A büntetés-végrehajtási bírói eljárásokat – e törvény eltérő rendelkezése hiányában – annak a végrehajtásért felelős szervnek, szervezeti egységnek vagy javítóintézetnek a székhelye szerint illetékes büntetés-végrehajtási bíró folytatja le, ahol az eljárás alapjául szolgáló büntetést vagy intézkedést végrehajtják.
+
+(3) Az e fejezetben szabályozott eljárások közül azokban, amelyeknél e törvény az elítélt meghallgatását nem írja elő vagy a bírósági titkár eljárását nem tiltja meg, a büntetés-végrehajtási bíró feladatait önálló aláírási joggal a törvényszék elnöke által kijelölt bírósági titkár is elláthatja. A bírósági titkár a döntését iratok alapján hozza meg.
 
 (4) A büntetés-végrehajtási bíró végzése elleni fellebbezést a törvényszék másodfokú tanácsa tanácsülésen, bizonyítás felvétele esetén tárgyaláson bírálja el. A tárgyaláson az ügyész és a védő részvétele kötelező.
 
-(5) Az e fejezet szerinti eljárások során felmerült bűnügyi költség – e törvény eltérő rendelkezése hiányában, valamint az (1) bekezdés g) pontja kivételével – az elítéltet terheli.
+(5) A büntetés-végrehajtási bírói eljárások során felmerült bűnügyi költség – e törvény eltérő rendelkezése hiányában, valamint az (1) bekezdés g) pontja kivételével – az elítéltet terheli.
 
 (6) Ha e törvény, vagy más törvény eltérően nem rendelkezik, a büntetés-végrehajtási bíró eljárására a büntetőeljárás szabályait kell alkalmazni.

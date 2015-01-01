@@ -16,7 +16,7 @@ dönt.
 
 (4) Ha az elítélt nő a várandósság tizenkettedik hetét elérte, és a szülés várható időpontja megelőzné a szabadulás napját, nyilatkoztatni kell arról, hogy kéri-e a szabadságvesztés félbeszakítását. A várandósság alatt vagy közvetlenül a szülés után benyújtott büntetés-félbeszakítási kérelmek elbírálása során elsősorban a gyermek érdekét kell figyelembe venni.
 
-(5) A szabadságvesztés félbeszakítására irányuló kérelem indokoltságának ellenőrzése céljából a bv. intézet, illetve a BVOP megkeresheti az elítélt által megjelölt tartózkodási hely szerint illetékes pártfogó felügyelői szolgálatot, illetve rendőri szervet a környezettanulmány készítése céljából.
+(5) A szabadságvesztés félbeszakítására irányuló kérelem indokoltságának ellenőrzése céljából a bv. intézet az elítélt által megjelölt tartózkodási hely szerint illetékes büntetés-végrehajtási pártfogó felügyelő útján környezettanulmány elkészítését rendelheti el, illetve megkeresheti a rendőri szervet a környezettanulmány készítése céljából.
 
 (6) A kérelem elutasítását indokolt határozatba kell foglalni.
 

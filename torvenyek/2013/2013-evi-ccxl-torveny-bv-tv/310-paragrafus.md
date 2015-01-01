@@ -4,11 +4,11 @@
 
 ## A pártfogó felügyelői szolgálat és a rendőrség feladatai a pártfogó felügyelet végrehajtása során
 
-310. § (1) A pártfogó felügyelet végrehajtása során a pártfogó felügyelő a pártfogolt ellenőrzésével és irányításával elősegíti annak megakadályozását, hogy a pártfogolt ismételten bűncselekményt kövessen el, továbbá segítséget nyújt a társadalmi beilleszkedéséhez, az ehhez szükséges szociális készségek kialakításához és feltételek megteremtéséhez, közreműködik a sértettek érdekeinek érvényesülésében.
+310. § (1) A pártfogó felügyelet végrehajtása során a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő a pártfogolt ellenőrzésével és irányításával elősegíti annak megakadályozását, hogy a pártfogolt ismételten bűncselekményt kövessen el, továbbá segítséget nyújt a társadalmi beilleszkedéséhez, az ehhez szükséges szociális készségek kialakításához és feltételek megteremtéséhez, közreműködik a sértettek érdekeinek érvényesülésében.
 
-(2) A pártfogó felügyeletet a pártfogó felügyelői szolgálat kijelölt pártfogó felügyelője hajtja végre.
+(2) A pártfogó felügyeletet a pártfogó felügyelői szolgálat kijelölt pártfogó felügyelője, a feltételes szabadságra bocsátással összefüggő pártfogó felügyeletet a büntetés-végrehajtási pártfogó felügyelő hajtja végre.
 
-(3) A pártfogó felügyelő
+(3) A pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő
 
 a) ellátja a pártfogó felügyelet végrehajtásával járó teendőket,
 
@@ -20,10 +20,10 @@ d) a külön magatartási szabályok meghatározása és a bíróság döntésé
 
 (4) A pártfogó felügyelet végrehajtásában a rendőrség közreműködik. Ennek keretében a rendőrség
 
-a) teljesíti a pártfogó felügyelői szolgálat megkereséseit,
+a) teljesíti a pártfogó felügyelői szolgálat vagy a büntetés-végrehajtási pártfogó felügyelő megkereséseit,
 
-b) ellenőrzi egyes külön magatartási szabályok [Btk. 71. § (2) bekezdés a)–d) pont] megtartását, ezek megszegése esetén jelentését megküldi a pártfogó felügyelői szolgálatnak,
+b) ellenőrzi egyes külön magatartási szabályok [Btk. 71. § (2) bekezdés a)–d) pont] megtartását, ezek megszegése esetén jelentését megküldi a pártfogó felügyelői szolgálatnak vagy a büntetés-végrehajtási pártfogó felügyelőnek,
 
-c) javasolhatja a pártfogó felügyelői szolgálatnak az előírt külön magatartási szabályok módosításának kezdeményezését (68. §),
+c) javasolhatja a pártfogó felügyelői szolgálatnak vagy a büntetés-végrehajtási pártfogó felügyelőnek az előírt külön magatartási szabályok módosításának kezdeményezését (68. §),
 
-d) tájékoztatja a pártfogó felügyelői szolgálatot a pártfogolt ellenőrzése során szerzett tapasztalatairól.
+d) tájékoztatja a pártfogó felügyelői szolgálatot vagy a büntetés-végrehajtási pártfogó felügyelőt a pártfogolt ellenőrzése során szerzett tapasztalatairól.

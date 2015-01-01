@@ -20,7 +20,7 @@ d) kérelmére – a fogva tartó intézet lehetőségei szerint – általános
 
 e) választójoga gyakorlására a fogva tartó intézetben; ennek során az előzetesen letartóztatott személyazonossága a fogva tartó intézet nyilvántartása alapján állapítható meg.
 
-(2) Ha az előzetesen letartóztatott ellen a Btk. XIX. Fejezete alá tartozó bűncselekmény elkövetése miatt indult meg a büntetőeljárás, részére – önkéntes részvételi alapon – fel kell ajánlani megfelelő viselkedésterápiát vagy más csoportos foglalkozáson való részvételt.
+(2) Ha az előzetesen letartóztatott ellen a Btk. XIX. Fejezete alá tartozó bűncselekmény elkövetése miatt indult meg a büntetőeljárás, részére – önkéntes részvételi alapon – fel kell ajánlani megfelelő a visszaesés valószínűségét csökkentő pszichoterápián vagy más foglalkozáson való részvételt.
 
 (3) Az előzetesen letartóztatott – a rendelkezési jogkör gyakorlójának engedélyével – őrzéssel meglátogathatja orvos által igazoltan súlyos beteg közeli hozzátartozóját, és részt vehet a közeli hozzátartozója temetésén. Az erre irányuló kérelemről a fogva tartó intézet – véleményének csatolásával – a rendelkezési jogkör gyakorlóját haladéktalanul, indokolt esetben rövid úton értesíti.
 
@@ -31,3 +31,5 @@ e) választójoga gyakorlására a fogva tartó intézetben; ennek során az el�
 (6) Az (5) bekezdés szerinti intézkedéssel kapcsolatban a 154. § (2) bekezdésében foglaltakat kell alkalmazni. Az előzetesen letartóztatott részére a járványügyi intézkedés kivételével az (5) bekezdés szerinti időtartam alatt is engedélyezhető, hogy orvos által igazoltan súlyos beteg közeli hozzátartozóját őrzéssel meglátogassa, részt vegyen közeli hozzátartozója temetésén, vagy hogy részére a bírósági, hatósági eljárásokban való részvételhez szükséges iratok kézbesítésre kerüljenek.
 
 (7) Ha az előzetesen letartóztatott a temetésen nem vett részt, a rendelkezési jogkör gyakorlója a temetést követő harminc napon belül – a (6) bekezdés szerinti feltételekkel – engedélyezheti, hogy az előzetesen letartóztatott lerója kegyeletét a közeli hozzátartozója temetési helyénél.
+
+(8) Az előzetesen letartóztatott a (7) bekezdésben meghatározott esetben az előállítás költségét köteles megtéríteni.

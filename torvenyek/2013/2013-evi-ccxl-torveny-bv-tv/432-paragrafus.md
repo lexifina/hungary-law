@@ -2,7 +2,7 @@
 
 ## A RENDBÍRSÁG HELYÉBE LÉPŐ ELZÁRÁS VÉGREHAJTÁSA
 
-432. § (1) A rendbírság helyébe lépő elzárás végrehajtására a VII. Fejezetben foglaltakat a (2) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+432. § (1) A rendbírság helyébe lépő elzárás végrehajtására a VII. Fejezetben foglaltakat a (2) és (3) bekezdésben meghatározott eltérésekkel kell alkalmazni.
 
 (2) A rendbírság helyébe lépő elzárásra kötelezett
 
@@ -15,3 +15,5 @@ c) havonta legalább három alkalommal fogadhat látogatót,
 d) heti nyolc óra kimaradásra mehet, a kimaradás tartama az elzárásba beszámít,
 
 e) naponta legalább két óra szabad levegőn tartózkodásra jogosult.
+
+(3) Az elzárás végrehajtásának elhalasztása vagy félbeszakítása csak a rendbírság helyébe lépő elzárásra kötelezett kórházi gyógykezelésének szükségessége esetén és csak ezen időtartamig engedélyezhető.

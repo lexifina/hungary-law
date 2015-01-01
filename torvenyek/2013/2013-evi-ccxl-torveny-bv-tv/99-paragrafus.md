@@ -22,7 +22,7 @@ el kell különíteni.
 
 (4) Végrehajtási fokozattól függetlenül az elítéltek – az adott részlegen belül – együtt helyezhetők el a gyógyító-terápiás és az átmeneti részlegen, a drogprevenciós részlegen, a pszichoszociális részlegen, a hosszú időre ítéltek részlegén, az enyhébb végrehajtási szabályok alkalmazása során, a fiatalkorú elítéltek részlegén és az anya-gyermek együttes elhelyezése esetén.
 
-(5) A különböző végrehajtási fokozatú elítéltek a munkahelyen együtt dolgozhatnak, az általános iskolai, illetve középfokú iskolai oktatásban, a felsőoktatásban, a szakmai képzésben, a sport és a kulturális programon, a szállítás és az előállítás során, valamint a vallásos szertartásokon és más rendezvényeken közösen vehetnek részt, továbbá a szabad levegőn és a közös étteremben együtt tartózkodhatnak.
+(5) A különböző végrehajtási fokozatú elítéltek a munkahelyen együtt dolgozhatnak, az általános iskolai, illetve középfokú iskolai oktatásban, a felsőoktatásban, a szakmai képzésben, reintegrációs programon, a sport és a kulturális programon, a szállítás és az előállítás során, valamint a vallásos szertartásokon és más rendezvényeken közösen vehetnek részt, továbbá a szabad levegőn és a közös étteremben együtt tartózkodhatnak.
 
 (6) Az (1) bekezdésben foglaltakon túl jogszabály az elkülönítés egyéb szempontjait is meghatározhatja.
 

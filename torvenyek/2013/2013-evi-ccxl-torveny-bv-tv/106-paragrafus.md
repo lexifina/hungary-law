@@ -12,4 +12,4 @@ c) akinek a személyiségzavar jellege, vagy annak súlyossága miatt a gyógyí
 
 (4) A gyógyító-terápiás részlegre utalt elítélt reintegrációs tevékenységét komplex terápiás program keretében kell megvalósítani.
 
-(5) A gyógyító-terápiás részlegre elhelyezett elítéltek részére az állapotuknak megfelelő jellegű és idejű terápiás foglalkoztatást, oktatást, valamint pszichológiai foglakozást kell biztosítani.
+(5) A gyógyító-terápiás részlegre elhelyezett elítéltek részére az állapotuknak megfelelő jellegű és idejű munkaterápiás foglalkozást, oktatást, valamint pszichológiai foglakozást kell biztosítani.

@@ -10,7 +10,7 @@ b) csökkenthető az életrend meghatározottsága,
 
 c) a bv. intézet kijelölt területén szabadon mozoghat,
 
-d) a pártfogó felügyelővel rendszeresen tarthat kapcsolatot.
+d) a büntetés-végrehajtási pártfogó felügyelővel rendszeresen tarthat kapcsolatot.
 
 (3) Az eltávozás időtartama a szabadságvesztésbe beszámít.
 

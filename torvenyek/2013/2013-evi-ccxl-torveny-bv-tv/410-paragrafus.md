@@ -14,7 +14,7 @@ napján kell szabadítani.
 
 (2) Ha a bíróság az előzetes letartóztatást a tárgyaláson szünteti meg, az erről szóló végzés és az értesítőlap átadása után az előzetesen letartóztatottat – ha más ügyben nem kell fogva tartani – helyben szabadítani kell, az arról szóló tájékoztatás mellett, hogy szabadulási igazolásának az átvétele, vagy az elszámolás érdekében a fogva tartó intézetet a következő munkanapon, hivatali időben keresse fel.
 
-(3) Az előzetesen letartóztatott bíróságon történő szabadítása esetén a bíróság személyazonosításra alkalmas igazolást állít ki az előzetesen letartóztatott szabadításáról, amennyiben a fogvatartott nem kíván visszatérni a bv. intézetbe.
+(3) Az előzetesen letartóztatott bíróságon történő szabadítása esetén a bíróság személyazonosításra alkalmas igazolást állít ki az előzetesen letartóztatott szabadításáról, amennyiben a szabadított előzetesen letartóztatott nem kíván visszatérni a bv. intézetbe.
 
 (4) A fogva tartó intézet az (1) bekezdés szerinti rendelkezés bevárása nélkül szabadítja azt az előzetesen letartóztatottat, aki az első- vagy a másodfokú bíróság által nem jogerősen kiszabott szabadságvesztés tartamát letöltötte.
 

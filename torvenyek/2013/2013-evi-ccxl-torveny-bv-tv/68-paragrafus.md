@@ -10,14 +10,14 @@
 
 (5) A (4) bekezdés szerinti előterjesztés alapján a büntetés-végrehajtási bíró pártfogó felügyelői vélemény beszerzését rendelheti el, és a pártfogó felügyelet alkalmazásának megállapításával külön magatartási szabályt írhat elő.
 
-(6) A pártfogó felügyelő a (2) és az (5) bekezdés szerinti pártfogó felügyelői vélemény elkészítése érdekében az elítéltet a feltételes szabadságra bocsátás lehetséges időpontja előtt legalább két hónappal a bv. intézetben meghallgatja, és vele ettől az időponttól kezdődően rendszeresen kapcsolatot tarthat.
+(6) A büntetés-végrehajtási pártfogó felügyelő a (2) és az (5) bekezdés szerinti pártfogó felügyelői vélemény elkészítése érdekében az elítéltet a feltételes szabadságra bocsátás lehetséges időpontja előtt legalább két hónappal a bv. intézetben meghallgatja, és vele ettől az időponttól kezdődően rendszeresen kapcsolatot tarthat.
 
-(7) A Btk. 70. § (3) bekezdésében foglalt feltételek fennállása esetén a pártfogó felügyelő jelentést készít, és annak megküldésével a pártfogó felügyelet megszüntetésére tesz javaslatot az ügyésznek.
+(7) A Btk. 70. § (3) bekezdésében foglalt feltételek fennállása esetén a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő jelentést készít, és annak megküldésével a pártfogó felügyelet megszüntetésére tesz javaslatot az ügyésznek.
 
 (8) Az ügyész indítványára a büntetés-végrehajtási bíró az elítélt pártfogó felügyeletét megszünteti, ha a pártfogó felügyelet fele része, de legalább egy év eredményesen eltelt, és annak szükségessége már nem áll fenn. A büntetés-végrehajtási bíró az iratok alapján hozhatja meg a döntést.
 
-(9) Az ítéletben, vagy a bíróság határozatában előírt külön magatartási szabályok megváltoztatása iránt a pártfogó felügyelő tesz javaslatot a büntetés-végrehajtási bírónak. A külön magatartási szabályok megváltoztatása iránti javaslatnak a pártfogolt kérelme alapján is helye van. Ez utóbbi esetben a büntetés-végrehajtási bíró az iratok alapján hozhatja meg a döntést.
+(9) Az ítéletben, vagy a bíróság határozatában előírt külön magatartási szabályok megváltoztatása iránt a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő tesz javaslatot a büntetés-végrehajtási bírónak. A külön magatartási szabályok megváltoztatása iránti javaslatnak a pártfogolt kérelme alapján is helye van. Ez utóbbi esetben a büntetés-végrehajtási bíró az iratok alapján hozhatja meg a döntést.
 
-(10) A pártfogolt kérelme esetén a büntetés-végrehajtási bíró a pártfogó felügyelőt meghallgathatja, és pártfogó felügyelői véleményt szerezhet be.
+(10) A pártfogolt kérelme esetén a büntetés-végrehajtási bíró a büntetés-végrehajtási pártfogó felügyelőt meghallgathatja, és pártfogó felügyelői véleményt szerezhet be.
 
 (11) Az e §-ban szabályozott eljárásokban a bűnügyi költséget az állam viseli.

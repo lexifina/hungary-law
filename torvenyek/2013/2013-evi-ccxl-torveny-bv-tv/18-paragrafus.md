@@ -8,4 +8,4 @@ b) a szabályszerűen kézbesített felhívásban meghatározott határidőn bel
 
 nem jelenik meg, elővezetése rendelhető el.
 
-(2) A büntetés és az intézkedés esetén az elővezetésre a Be. 162. §-át kell alkalmazni azzal, hogy – e törvény eltérő rendelkezése hiányában – az elővezetés elrendelésére a bíróság, a vádemelés elhalasztása esetén az ügyész jogosult.
+(2) A büntetés és az intézkedés esetén az elővezetésre a Be. 162. §-át kell alkalmazni azzal, hogy – e törvény eltérő rendelkezése hiányában – az elővezetés elrendelésére a bíróság, a Büntetés-végrehajtás Országos Parancsnoksága (a továbbiakban: BVOP), a vádemelés elhalasztása esetén az ügyész jogosult.

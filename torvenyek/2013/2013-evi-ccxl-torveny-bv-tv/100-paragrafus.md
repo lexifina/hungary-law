@@ -18,7 +18,7 @@ mozoghat,
 
 d) zárkája ajtaját éjszaka zárva kell tartani, nappal engedélyezhető a rezsimszabályokhoz igazodó időszakos nyitva tartás,
 
-e) számára a rezsim szabályokhoz igazodóan engedélyezhető, hogy részt vegyen az elítéltek csoportos kulturális és sportprogramjainak eltöltésében, illetve a bv. intézet által szervezett, bv. intézeten belüli programokon,
+e) számára a rezsimszabályokhoz igazodóan engedélyezhető, hogy részt vegyen az elítéltek csoportos kulturális és sportprogramjainak eltöltésében, illetve a bv. intézet által szervezett, bv. intézeten belüli programokon,
 
 f) magánál tartható tárgyainak köre korlátozott, ami a rezsimszabályokhoz igazodóan bővíthető, azonban a korlátozás a könyvtári és tankönyvekre, tanszerekre, valamint az engedélyezett kegytárgyakra, családi fényképekre nem terjedhet ki,
 

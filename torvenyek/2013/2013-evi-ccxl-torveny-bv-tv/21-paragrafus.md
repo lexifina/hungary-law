@@ -12,7 +12,7 @@
 
 (7) Nincs helye panasznak és azt érdemi vizsgálat nélkül el kell utasítani, ha
 
-a) a panasz benyújtására előírt határidő már eltelt, a fogvatartott a panaszjogáról lemondott vagy a panaszát korábban visszavonta,
+a) a panasz benyújtására előírt határidő már eltelt, az elítélt és egyéb jogcímen fogvatartott a panaszjogáról lemondott vagy a panaszát korábban visszavonta,
 
 b) annak tárgya nem tartozik a végrehajtásért felelős szerv hatáskörébe vagy az nem büntetés-végrehajtási jogviszonyhoz kötődik,
 

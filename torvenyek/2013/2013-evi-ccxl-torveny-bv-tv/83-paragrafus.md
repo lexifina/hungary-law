@@ -4,7 +4,7 @@
 
 (2) A feltételes szabadságra bocsátás lehetőségének kizárásával kiszabott életfogytig tartó szabadságvesztés végrehajtásának célja a társadalom védelme érdekében az ítéletben meghatározott joghátrány érvényesítése.
 
-(3) Az elítéltek társadalmi beilleszkedését elősegítő reintegrációs tevékenységet a végrehajtásért felelős szerv – önállóan vagy más szervezetekkel együttműködve – az elítéltek munkáltatása, terápiás foglalkoztatása, továbbá általános iskolai, illetve középfokú iskolai oktatása, felsőfokú tanulmányok végzése, szakképzése, szakmai gyakorlat megszerzése, valamint egyéb reintegrációs programok által biztosítja. A végrehajtásért felelős szerv a reintegrációs tevékenységet az elítélt személyéhez igazodó szakmai módszerekkel végzi.
+(3) Az elítéltek társadalmi beilleszkedését elősegítő reintegrációs tevékenységet a végrehajtásért felelős szerv – önállóan vagy más szervezetekkel együttműködve – az elítéltek munkáltatása, munkaterápiás foglalkoztatása, továbbá általános iskolai, illetve középfokú iskolai oktatása, felsőfokú tanulmányok végzése, szakképzése, szakmai gyakorlat megszerzése, valamint egyéb reintegrációs programok által biztosítja. A végrehajtásért felelős szerv a reintegrációs tevékenységet az elítélt személyéhez igazodó szakmai módszerekkel végzi.
 
 (4) A szabadságvesztés végrehajtása során – a szabadságvesztés végrehajtási fokozatára, a bv. intézet rendjére és biztonságára figyelemmel – törekedni kell arra, hogy az elítélt életkörülményei közelítsenek a szabad élet általános körülményeihez, és ezáltal a szabadságvesztés káros hatásai enyhíthetők, illetve ellensúlyozhatók legyenek.
 

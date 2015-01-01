@@ -14,9 +14,9 @@ d) zárkáját zárva kell tartani, kivéve a munkáltatásban részt vevő eset
 
 e) magánál tartható tárgyainak köre és mennyisége korlátozható.
 
-(3) Az előzetes letartóztatást az általános szabályok szerint kell végrehajtani, de a parancsnok a rendelkezési jogkör gyakorlójának egyetértésével az enyhébb vagy szigorúbb szabályok alkalmazását is elrendelheti.
+(3) Az előzetes letartóztatást az általános szabályok szerint kell végrehajtani, de a parancsnok az enyhébb vagy szigorúbb szabályok alkalmazását is elrendelheti.
 
-(4) Ha a BFB az előzetesen letartóztatottat kérelmére oktatásban, képzésben, illetve speciális programban való részvételre osztotta be, az elhelyezés kivételesen zárt körleten lévő lakóhelyiségben is biztosítható. A rendelkezési jogkör gyakorlója rendelkezését ebben az esetben is be kell tartani.
+(4) Ha a BFB az előzetesen letartóztatottat kérelmére oktatásban, képzésben, illetve speciális programban való részvételre osztotta be, az elhelyezés kivételesen zárt részlegen lévő lakóhelyiségben is biztosítható. A rendelkezési jogkör gyakorlója rendelkezését ebben az esetben is be kell tartani.
 
 (5) Az általános rezsimszabályok alkalmazása során az előzetesen letartóztatott
 
@@ -52,7 +52,7 @@ a) fogvatartását a fokozott őrzés szabályira is figyelemmel, őrzéssel kel
 
 b) a fogva tartó intézet területén csak engedéllyel és felügyelet mellett mozoghat, zárkáját zárva kell tartani,
 
-c) látogatójával biztonsági beszélőfülkében vagy biztonságtechnikai eszközökön keresztül harminc perc időtartamban érintkezhet,
+c) látogatójával biztonsági beszélőfülkében vagy biztonságtechnikai eszközökön keresztül hatvan perc időtartamban érintkezhet,
 
 d) részére – a rendelkezési jogkör gyakorlójának rendelkezéseit figyelembe véve – kivételesen engedélyezhető, hogy részt vegyen az előzetesen letartóztatottak csoportos szabadidős, sport- és kulturális programjain,
 

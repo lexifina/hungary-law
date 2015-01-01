@@ -14,18 +14,16 @@ a) a tizenkettedik hetet meghaladó várandós, legfeljebb a szülés várható 
 
 b) egy évesnél fiatalabb gyermekét gondozza.
 
-(4) A (2) bekezdés esetében a tanács elnöke igazságügyi orvos-szakértői szakvélemény alapján állapítja meg a halasztás egészségügyi feltételeinek fennállását.
+(4) A (2) bekezdés esetében a tanács elnöke igazságügyi orvosszakértői szakvélemény alapján állapítja meg a halasztás egészségügyi feltételeinek fennállását.
 
 (5) Ha a közérdekű munka végrehajtásának elhalasztása iránti kérelmet olyan időben terjesztik elő, hogy annak elintézésére a végrehajtás megkezdésére kitűzött határnap előtt már nincs lehetőség, a tanács elnöke a kérelem elbírálását mellőzi és erről a kérelmezőt értesíti, és a kérelmet a közérdekű munka végrehajtásának esetleges félbeszakítása iránti intézkedés megtétele végett a büntetés-végrehajtási bírónak, tájékoztatásul az illetékes pártfogó felügyelői szolgálatnak is megküldi.
 
-(6) Ha az elítélt gyermeke halva született, vagy utóbb meghalt, a közérdekű munka végrehajtását a bíróság felhívására hat héten belül meg kell kezdeni.
+(6) A büntetés végrehajtását haladéktalanul meg kell kezdeni, ha
 
-(7) A büntetés végrehajtását haladéktalanul meg kell kezdeni, ha
+a) az elítélt gyermeke halva született, utóbb meghalt, vagy a gyermek véglegesen vagy tartósan kikerült az elítélt gondozásából, és azt a nő szülés utáni egészségi állapota lehetővé teszi,
 
-a) a gyermek véglegesen vagy tartósan kikerül az elítélt gondozásából, és azt a nő szülés utáni egészségi állapota lehetővé teszi,
+b) az elítélt részére a gyermekgondozási díj, gyermekgondozási segély vagy gyermeknevelési támogatás folyósítását egy év eltelte előtt megszüntetik,
 
-b) az elítélt részére a gyermekgondozási díj, gyermekgondozási segély, vagy gyermeknevelési támogatás folyósítását egy év eltelte előtt megszüntetik,
+c) az elítélt fogvatartása vagy házi őrizete megszűnik, kivéve ha a közérdekű munka végrehajtásának e törvény szerinti végrehajtási akadálya áll fenn.
 
-c) az elítélt fogvatartása vagy házi őrizete megszűnik, kivéve, ha a közérdekű munka végrehajtásának e törvény szerinti végrehajtási akadálya áll fenn.
-
-(8) A (6) bekezdés és (7) bekezdés a) pontja szerinti szülés utáni egészségi állapotról az igazságügyi orvos-szakértő vagy a szülést levezető egészségügyi intézmény főorvosa nyilatkozik.
+(7) A (6) bekezdés a) pontja szerinti szülés utáni egészségi állapotról az igazságügyi orvos-szakértő vagy a szülést levezető egészségügyi intézmény főorvosa nyilatkozik.

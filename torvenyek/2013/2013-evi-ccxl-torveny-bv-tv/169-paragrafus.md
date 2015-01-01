@@ -10,13 +10,13 @@ b) a védőjével való kapcsolattartást kivéve nem telefonálhat és nem leve
 
 c) nem küldhet, és nem kaphat csomagot,
 
-d) nem fogadhat látogatót, kivéve a lelkészt, valamint a szabadulás előkészítése érdekében a leendő munkáltatóját, a pártfogó felügyelőt és a karitatív szervezet megbízottját,
+d) nem fogadhat látogatót, kivéve a lelkészt, valamint a szabadulás előkészítése érdekében a leendő munkáltatóját, a büntetés-végrehajtási pártfogó felügyelőt és a karitatív szervezet megbízottját,
 
 e) a személyes szükségleteire nem vásárolhat,
 
 f) nem veheti igénybe a bv. intézet művelődési és sportolási lehetőségeit, sajtóterméket nem olvashat,
 
-g) a munkáltatásban nem vehet részt.
+g)
 
 (4) Az elítélt a magánelzárás végrehajtása alatt is érintkezhet a védővel, a bv. intézet parancsnokának engedélyével, felügyelettel meglátogathatja a súlyos beteg közeli hozzátartozóját, részt vehet a közeli hozzátartozója temetésén.
 

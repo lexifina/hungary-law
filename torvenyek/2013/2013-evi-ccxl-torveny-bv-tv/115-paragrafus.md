@@ -6,17 +6,15 @@
 
 a) az elítélt a szabadságvesztésből – az előzetes fogvatartásban és a házi őrizetben töltött időt is beszámítva – a feltételes szabadságra bocsátásig esedékes időtartam felét nem töltötte le,
 
-b) az elítélt feltételes szabadságra nem bocsátható és a szabadságvesztés tartamának – az előzetes fogva tartásban és a házi őrizetben töltött időt is beszámítva – egyharmadát nem töltötte le,
+b) az elítélt feltételes szabadságra nem bocsátható és a szabadságvesztés tartamának – az előzetes fogvatartásban és a házi őrizetben töltött időt is beszámítva – fegyházfokozatban a felét, börtönfokozatban az egyharmadát nem töltötte le,
 
 c) az elítélt a szabadságvesztésből fegyházfokozatban legalább egy évet, börtönfokozatban legalább hat hónapot nem töltött le,
 
-d) az elítélt feltételes szabadságra nem bocsátható és a szabadságvesztésből – az előzetes fogvatartásban és a házi őrizetben töltött időt is beszámítva – annak fele tartamát nem töltötte le,
+d) az elítélt erőszakos többszörös visszaeső,
 
-e) az elítélt erőszakos többszörös visszaeső,
+e) az elítélt a bűncselekményt bűnszervezetben követte el,
 
-f) az elítélt a bűncselekményt bűnszervezetben követte el,
-
-g) az elítélt életfogytig tartó szabadságvesztés büntetést tölt, amelyből nem bocsátható feltételes szabadságra.
+f) az elítélt életfogytig tartó szabadságvesztés büntetést tölt, amelyből nem bocsátható feltételes szabadságra.
 
 (3) A szabadságvesztés végrehajtására eggyel szigorúbb fokozat akkor jelölhető ki, ha az elítélt a büntetés-végrehajtás rendjét ismételten vagy súlyosan megzavarja.
 

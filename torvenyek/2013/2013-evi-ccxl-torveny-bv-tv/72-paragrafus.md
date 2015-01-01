@@ -10,7 +10,7 @@ c) a határozatot megváltoztatja, ha a bírósági felülvizsgálati kérelem �
 
 d) a határozatot hatályon kívül helyezi és a döntésre jogosultat új eljárásra utasítja, ha új határozat meghozatala szükséges.
 
-(2) A büntetés-végrehajtási bíró csak az elítélt javára változtathatja meg a végrehajtásért felelős szerv döntését. A büntetés-végrehajtási bíró bírósági felülvizsgálati eljárásában hozott határozata ellen fellebbezésnek helye nincs.
+(2) A büntetés-végrehajtási bíró csak az elítélt javára változtathatja meg a végrehajtásért felelős szerv döntését.
 
 (3) A büntetés-végrehajtási bíró végzéssel határoz, az iratnak a hozzá érkezésétől számított nyolc napon belül; a határozat tartalmára, alakszerűségére, közlésére, valamint a kijavításra a Be. 257–262. §-át kell értelemszerűen alkalmazni.
 

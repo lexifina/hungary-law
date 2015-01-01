@@ -4,9 +4,9 @@
 
 (2) A beteg felügyelettel
 
-a) meglátogathatja – orvos által igazoltan – súlyos beteg hozzátartozóját,
+a) meglátogathatja – orvos által igazoltan – súlyos beteg közeli hozzátartozóját,
 
-b) részt vehet a hozzátartozója temetésén, vagy ha a temetésen nem vett részt, az azt követő harminc napon belül a hozzátartozó temetési helyénél kegyeletét leróhatja.
+b) részt vehet a közeli hozzátartozója temetésén, vagy ha a temetésen nem vett részt, az azt követő harminc napon belül a közeli hozzátartozó temetési helyénél kegyeletét leróhatja.
 
 (3) Az IMEI (2) bekezdés szerinti okból történő elhagyását az IMEI főigazgató főorvosa indokolt határozattal – a beteg állapotától függően – kivételesen megtagadhatja.
 

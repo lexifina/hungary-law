@@ -1,7 +1,9 @@
-## Terápiás foglalkoztatás
+## Munkaterápiás foglalkoztatás
 
-270. § (1) A bv. orvos javaslatára a BFB dönt az elítélt terápiás foglalkoztatásáról, munkaidejéről, munkarendjéről.
+270. § (1) A bv. orvos javaslatára a BFB dönt az elítélt munkaterápiás foglalkoztatásáról, munkaidejéről, munkarendjéről.
 
-(2) A terápiás foglalkoztatáson részt vevő elítélt rendszeres pénzbeli térítésre jogosult, amelynek legkisebb összege az alapmunkadíj egyharmada.
+(2) A munkaterápiás foglalkoztatás időtartama nem haladhatja meg a napi hat és a heti harminc órát, de el kell érnie a napi négy és a heti húsz órát.
 
-(3) Terápiás foglalkoztatás esetén e törvény munkáltatásra vonatkozó szabályait kell értelemszerűen alkalmazni azzal, hogy az ilyen foglakoztatásban részt vevő elítélt számára teljesítménykövetelmény nem írható elő.
+(3) A munkaterápiás foglalkoztatáson részt vevő elítélt rendszeres pénzbeli térítésre jogosult, amelynek legkisebb összege napi hatórás foglalkoztatás esetén az alapmunkadíj egyharmada. A térítési díj összege az országos parancsnok által normatív utasításban, évente meghatározott összeg.
+
+(4) Munkaterápiás foglalkoztatás esetén e törvény munkáltatásra vonatkozó szabályait kell azzal az eltéréssel alkalmazni, hogy az ilyen foglakoztatásban részt vevő elítélt számára teljesítménykövetelmény nem írható elő.

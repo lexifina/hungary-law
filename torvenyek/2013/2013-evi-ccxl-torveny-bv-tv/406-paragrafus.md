@@ -26,4 +26,4 @@ határoz.
 
 (10) E § alkalmazásában a bv. intézet rendje és biztonsága alatt a fogva tartó intézet rendjét és biztonságát kell érteni.
 
-(11) Előzetes letartóztatás esetén a 13. § (1) bekezdése szerinti kérelmet a vádirat benyújtása előtt az ügyésznél, azt követően a bíróságnál kell benyújtani, melyben meg kell jelölni, hogy milyen lakcímre kéri a sértett az értesítést. A sértett a kérelmét visszavonhatja.
+(11)

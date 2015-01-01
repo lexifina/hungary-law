@@ -2,7 +2,7 @@
 
 391. § (1) Az előzetes letartóztatás végrehajtása során el kell különíteni
 
-a) az előzetesen letartóztatottakat a többi egyéb jogcímen fogvatartottól,
+a) az előzetesen letartóztatottakat az elítéltektől és a többi egyéb jogcímen fogvatartottól,
 
 b) a férfiakat a nőktől,
 
@@ -16,7 +16,7 @@ e) a fertőző betegeket a nem fertőző betegektől.
 
 (3) Az előzetesen letartóztatott katonát a többi előzetes letartóztatottól el kell különíteni.
 
-(4) Ha az előzetesen letartóztatott elítéltekkel együtt végez munkát, a kijelölt körletrészen lévő zárkákban vagy lakóhelyiségekben közösen helyezhető el.
+(4) Ha az előzetesen letartóztatott elítéltekkel együtt végez munkát, a kijelölt részlegen lévő zárkákban vagy lakóhelyiségekben közösen helyezhető el.
 
 (5) Az előzetesen letartoztatott az általános iskolai, illetve középfokú iskolai oktatásban, szakképzésben, valamint a reintegrációs programokon az elítéltekkel együtt vehet részt.
 

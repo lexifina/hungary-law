@@ -6,4 +6,4 @@
 
 (3) A telefonbeszélgetés a bv. intézet rendje, a fogvatartás biztonsága érdekében a külön jogszabályban meghatározott módon ellenőrizhető, indokolt esetben megszakítható, amelyről az elítéltet tájékoztatni kell.
 
-(4) Ha jogorvoslatra vonatkozó jognyilatkozat megtétele miatt a védővel való telefonon történő kapcsolatfelvétel indokolt, és az elítélt nem rendelkezik letéti pénzzel, részére a telefonbeszélgetés költségét a bv. intézet megelőlegezi.
+(4) Ha jogorvoslatra vonatkozó jognyilatkozat megtétele miatt a védővel való telefonon történő kapcsolatfelvétel indokolt, és az elítélt nem rendelkezik a telefonáláshoz szükséges összeggel, részére a telefonbeszélgetés költségét a bv. intézet megelőlegezi.
