@@ -1,0 +1,5 @@
+## 49. § A kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló 178/2008. (VII. 3.) Korm. rendelet 2. számú melléklet 3. pont f) alpontjában az „ingatlanrendezői földmérői, valamint geodéziai tervezői” szövegrész helyébe az „ingatlanrendezői földmérői” szöveg lép.
+
+50. § (1) A fővárosi és megyei kormányhivatalok mezőgazdasági szakigazgatási szerveinek kijelöléséről szóló 328/2010. (XII. 27.) Korm. rendelet 17. § (2a) bekezdésében a „Földforgalmi tv.” szövegrész helyébe a „mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi tv.)” szöveg, a „továbbá (5) bekezdésének második mondata” szövegrész helyébe a „továbbá (4) és (5) bekezdésének második mondata” szöveg lép.
+
+(2) Hatályát veszti a fővárosi és megyei kormányhivatalok mezőgazdasági szakigazgatási szerveinek kijelöléséről szóló 328/2010. (XII. 27.) Korm. rendelet 17. § (2) bekezdése.

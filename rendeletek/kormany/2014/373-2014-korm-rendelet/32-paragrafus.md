@@ -1,0 +1,9 @@
+## 18. Hivatalból induló vagy hivatalból folytatott egyesített eljárás
+
+32. § (1) Ha a járási földhivatal a földrészlet művelési ágában vagy minőségében bekövetkezett változásról hivatalból szerez tudomást – ide nem értve a (4) bekezdésben meghatározott esetet –, a tudomásszerzést követő 15 napon belül helyszíni szemlét tart.
+
+(2) Ha a járási földhivatal az (1) bekezdés szerinti helyszíni szemle során megállapítja a földrészlet természetbeni (tényleges) állapotának és az ingatlan-nyilvántartás szerinti adatának az eltérését, a helyszíni szemle megtartásának napját követő 15 napon belül a bejelentési kötelezettségét elmulasztó ügyfelet 30 napos határidő megállapításával a 29. §-ban meghatározott bejelentésre szólítja fel.
+
+(3) Ha az ügyfél nem tesz eleget a (2) bekezdésben meghatározott hiánypótlási felhívásban foglaltaknak, a járási földhivatal hivatalból lefolytatja az egyesített eljárást, melynek keretében – szükség szerint – a hiánypótlásra nyitva álló határidő utolsó napját követő naptól számított 30 napon belül gondoskodik a változási vázrajz elkészítéséről, továbbá az eljárási költségek megfizetésére kötelezi az ügyfelet.
+
+(4) Ha a járási földhivatal a földrészlet művelési ágában vagy minőségében bekövetkezett változást más hatósági eljárása keretében folytatott helyszíni szemlén vagy helyszíni ellenőrzése során állapítja meg, akkor az ügyfél felszólítására vonatkozó, a (2) bekezdés szerinti határidőket az e bekezdés szerinti helyszíni szemle vagy helyszíni ellenőrzés napját követő naptól kell számítani.

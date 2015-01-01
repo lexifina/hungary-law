@@ -1,0 +1,3 @@
+33. § (1) A hivatalból indult vagy hivatalból folytatott egyesített eljárás esetén a földminősítési eljárás megindítása tényének feljegyzésére és törlésére a 30. § (1), illetve (2) bekezdésében foglaltak irányadók azzal, hogy a földminősítési eljárás megindítása tényét a járási földhivatalnak a 32. § (1) vagy (4) bekezdése szerinti helyszíni szemle, illetve helyszíni ellenőrzés alapján készült hivatalos feljegyzés alapján, legkésőbb annak keltét követő munkanapon belül kell feljegyezni.
+
+(2) A hivatalból indult vagy hivatalból folytatott egyesített eljárásra egyebekben a 29–30. §-ban, valamint a 31. § (4) bekezdésében foglaltakat kell alkalmazni.
