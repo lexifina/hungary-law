@@ -46,7 +46,9 @@ v) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó be
 
 w) a Befektető-védelmi Alap igazolását az Alaphoz történő csatlakozási kérelem benyújtásáról és a csatlakozási díj megfizetéséről, ha a biztosított tevékenység végzésére kér engedélyt és jogszabály előírja az Alaphoz történő csatlakozást,
 
-x) a befektetési vállalkozás likviditását, fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén alkalmazandó, a hitelintézet igazgatósága által elfogadott eljárás rendjét és – ha a hitelintézetre nem terjed ki az összevont alapú felügyelet – a 102. §-ban meghatározott egyedi helyreállítási tervét.
+x) a befektetési vállalkozás likviditását, fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén alkalmazandó, a befektetési vállalkozás igazgatósága által elfogadott eljárás rendjét és – ha a befektetési vállalkozásra nem terjed ki az összevont alapú felügyelet – a 102. §-ban meghatározott egyedi helyreállítási tervét,
+
+y) a Szanálási Alaphoz történő csatlakozásáról szóló nyilatkozat másolatát.
 
 (2) A kérelmező a letétkezelési tevékenység végzésére jogosító engedély iránti kérelméhez az (1) bekezdésben foglaltakon túl mellékeli a biztonsági, a letétkezelési és az értéktári szabályzat tervezetét.
 

@@ -24,7 +24,7 @@ c) az elismert hitelezési kockázatmérséklési módszerek használatával kap
 
 d) a befektetési vállalkozás likviditási kockázatokkal szembeni kitettségének mértékére, e kockázatoknak a befektetési vállalkozás általi mérésére és kezelésére, ideértve az alternatív forgatókönyvek elemzését, a kockázatcsökkentő eszközök alkalmazását, a likviditási többlettartalékok mértékét, összetételét és minőségét, valamint a vészhelyzeti terveket,
 
-e) a hitelportfólió-megoszlás (diverzifikáció) hatására és annak kockázatfelmérési rendszerben történő figyelembevételére,
+e) a kockázatmegoszlás (diverzifikáció) hatására és annak kockázatfelmérési rendszerben történő figyelembevételére,
 
 f) a piaci kockázattal kapcsolatos tőkekövetelményhez belső modell módszert használó befektetési vállalkozás által végrehajtott stresszteszteredményekre,
 

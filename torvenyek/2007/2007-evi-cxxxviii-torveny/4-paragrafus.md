@@ -8,6 +8,8 @@
 
 1. anyavállalat: az Szmt.-ben meghatározott vállalkozás,
 
+1a. anticiklikus tőkepufferráta: a befektetési vállalkozás tevékenységéhez kapcsolódó prociklikusság csökkentését célzó tőkepuffer-követelmény meghatározásához alkalmazott arányszám, amelyet a befektetési vállalkozás a kitettségeihez kapcsolódó felek vonatkozásában alkalmaz azok földrajzi elhelyezkedése alapján;
+
 2. ÁÉKBV: a Kbftv.-ben meghatározott fogalom,
 
 3. árjegyző: az a saját számlás kereskedést folytató befektetési vállalkozás, amely egy pénzügyi eszközre folyamatos vételi és eladási kötelezettséget vállal az általa meghatározott árakon,
@@ -44,13 +46,7 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 17. elismert elszámolóház: EGT-államban vagy az OECD tagállamában működő, a székhely szerinti ország jogszabálya vagy felügyeleti hatósága által elismertnek minősített, az elszámolásforgalom lebonyolítását végző pénzügyi intézmény, illetve a Tpt.-ben meghatározott elszámolóházi tevékenységet végző szervezet, amely esetében – ha származtatott ügyletek elszámolását is végzi – az elszámolási rendszer a székhely szerinti ország felügyeleti hatósága szerint biztosítja, hogy a származtatott ügyletek esetében az elszámolóházi szolgáltatást igénybe vevő a kötelezettségének megfelelő napi letét elhelyezési követelményének eleget tegyen,
 
-18. elismert tőzsde: a hatáskörrel rendelkező felügyeleti hatóság által elismert tőzsde, amely
-
-a) rendszeresen működik,
-
-b) működését, a kereskedési rendszerhez való hozzáférést, a tőzsdei bevezetést és a szerződéskötés feltételeit a székhelye szerinti állam hatáskörrel rendelkező felügyeleti hatósága által meghatározott vagy elfogadott előírások szabályozzák,
-
-c) olyan elszámolási rendszerrel rendelkezik, amely szerint a határidős ügyletekre napi letét-elhelyezési követelmény vonatkozik és ez a székhely szerinti állam hatáskörrel rendelkező felügyeleti hatóságának értékelése szerint megfelelő biztonságot nyújt,
+18.
 
 19. ellenőrző befolyás: a Hpt.-ben meghatározott fogalom,
 
@@ -150,7 +146,7 @@ b) ha a befektetési vállalkozás vagy a külföldi befektetési vállalkozás 
 
 c) ha a befektetési vállalkozás vagy a külföldi befektetési vállalkozás jogi személy és a nemzeti jog szerint nem rendelkezik létesítő okirat szerinti székhellyel, az az EGT-állam, amelyben a központi irodája található,
 
-63. szoros kapcsolat: az ellenőrző befolyásnak vagy részesedési viszonynak minősülő kapcsolat azzal, hogy ha egy vállalkozás olyan vállalkozással áll ellenőrző befolyásnak minősülő kapcsolatban, amely maga is ellenőrző befolyást gyakorol egy harmadik személyre, akkor e harmadik személyt is a legfelső szinten lévővel szoros kapcsolatban állónak kell tekinteni, valamint azzal, hogy az azonos vállalkozás ellenőrző befolyása alatt álló vállalkozások közötti kapcsolatot is szoros kapcsolatnak kell tekinteni,
+63. szoros kapcsolat: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
 64. szponzor: az 575/2013/EU rendeletben ekként meghatározott fogalom,
 

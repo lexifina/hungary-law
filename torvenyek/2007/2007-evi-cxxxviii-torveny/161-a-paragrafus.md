@@ -4,7 +4,7 @@
 
 (2) Ha valamely befektetési vállalkozás anyavállalata hitelintézet, illetve a hitelintézet részesedési viszonnyal rendelkezik befektetési vállalkozásban és a befektetési vállalkozás nem tartozik az (1) bekezdésben meghatározott összevont alapú felügyelet alá, a Hpt. összevont alapú felügyeletre vonatkozó szabályai az alkalmazandóak.
 
-(3) A Felügyelet nem vizsgálja a pénzügyi holding társaság, a külföldi befektetési vállalkozás, pénzügyi holding társaság és vegyes tevékenységű holding társaság prudens működését egyedi alapon.
+(3) A Felügyelet nem vizsgálja a pénzügyi holding társaság, a külföldi befektetési vállalkozás, a vegyes pénzügyi holding társaság és vegyes tevékenységű holding társaság prudens működését egyedi alapon.
 
 (4) Ha a Felügyelet dokumentumok vagy helyszíni ellenőrzés alapján szoros kapcsolatot állapít meg, összevont alapú felügyelet alá tartozónak minősíthet valamely magyarországi bejegyzésű befektetési vállalkozást, és meghatározhatja, hogy valamely vállalkozásra az összevont alapú felügyelet kiterjed.
 

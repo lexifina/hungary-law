@@ -1,7 +1,1 @@
-175. § (1) Ha a 174. § (1) bekezdése szerinti eljárás lefolytatására más EGT-állam hatáskörrel rendelkező felügyeleti hatósága jogosult, és az EU-szintű befektetési vállalkozás anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat befektetési vállalkozásnak minősülő leányvállalatának prudenciális felügyeletét a Felügyelet látja el, akkor a Felügyelet a hiánytalan kérelem kézhezvételét követően, az eljárásra jogosult más EGT-állam hatáskörrel rendelkező felügyeleti hatósága által meghatározott időszakon belül megküldi a 102. § (3) bekezdése szerinti kérelemre vonatkozó véleményét, fenntartását.
-
-(2) Ha az EU-szintű befektetési vállalkozás anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatósága a kérelemről döntést hozott, határozata Magyarországon közvetlenül alkalmazandó és végrehajtható.
-
-(3) A Felügyelet a más EGT-állam hatáskörrel rendelkező felügyeleti hatósága határozatának tényét magyar nyelven a honlapján közzéteszi.
-
-(4) A Felügyelet prudenciális felügyelete alatt álló befektetési vállalkozás tekintetében a más EGT-állam hatáskörrel rendelkező felügyeleti hatósága által hozott határozatban foglaltak végrehajtására, teljesítésének ellenőrzésére, az ellenőrzés alapján hozható intézkedésre a Felügyelet által hozott határozatokra vonatkozó magyar jogszabályok alkalmazandóak.
+175. §

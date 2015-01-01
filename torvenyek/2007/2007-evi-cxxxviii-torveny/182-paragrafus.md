@@ -66,7 +66,7 @@ c) 2018. január 1-je és 2018. december 31-e közötti időszakban a 92. § sze
 
 (13) A globálisan rendszerszinten jelentős befektetési vállalkozások 2014. július 1-jétől tájékoztatják az Európai Bizottságot a Módtv.-vel megállapított 123/A. § (1) bekezdés d)–f) pontjában meghatározott információkról.
 
-(14) A 174. § szerinti határozatot legalább évente egyszer vagy a 102. § (1) bekezdés szerinti kérelmező indoklással ellátott kérelmére az éves felülvizsgálat letelte előtt aktualizálni szükséges.
+(14)
 
 (15) A 4. melléklet 7–23. pontjában foglaltakat a 2014. január 1-jét követően kifizetett javadalmazásra abban az esetben is alkalmazni kell, ha a kifizetésre vonatkozó szerződés az e törvény hatálybalépése előtt került megkötésre. Az e törvény hatálybalépésekor már működő befektetési vállalkozás – a 4. melléklet 5. pontjától eltérően – 2014. június 30-ig az igazgatóság által elfogadott és a felügyelőbizottság által ellenőrzött javadalmazási politikát is alkalmazhat.
 

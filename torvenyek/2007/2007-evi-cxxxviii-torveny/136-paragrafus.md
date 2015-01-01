@@ -1,4 +1,12 @@
-136. § (1) A befektetési vállalkozás felszámolása során az ügyfél által a befektetési vállalkozásnál letétbe helyezett pénzügyi eszköz, illetve nyilvántartott pénzeszköz, az ügyfél tulajdonában lévő vagy őt megillető pénzügyi eszköz és pénzeszköz, illetve az árutőzsdei szolgáltatás tárgyát képező eszköz befektetési vállalkozás, illetőleg árutőzsdei szolgáltató bármely, az ügyfél javára vezetett számláján, nem képezi a felszámolási vagyon részét.
+136. § (1) A befektetési vállalkozás felszámolása során
+
+a) az ügyfél által a befektetési vállalkozásnál letétbe helyezett pénzügyi eszköz, illetve nyilvántartott pénzeszköz,
+
+b) az ügyfél tulajdonában lévő vagy őt megillető pénzügyi eszköz és pénzeszköz, valamint
+
+c) az árutőzsdei szolgáltatás tárgyát képező eszköz a befektetési vállalkozás, illetve az árutőzsdei szolgáltató bármely, az ügyfél javára vezetett számláján
+
+nem képezi a felszámolási vagyon részét. Az eszközök kiadása iránt a befektetési vállalkozás – a felszámoló hozzájárulása mellett – a felszámolási eljárástól függetlenül, soron kívül intézkedik, ha az általa vezetett nyilvántartás és a befektetői követelések egyezősége alapján az ügyfelekkel történő elszámolást akadályozó körülmény nem merül fel.
 
 (2) Ha az ügyfél tulajdonát képező vagy őt megillető, (1) bekezdésben meghatározott pénzügyi eszköz, pénzeszköz vagy árutőzsdei szolgáltatás tárgyát képező eszköz az ügyfélnek bármely okból nem adható vissza, akkor – a Cstv. 57. §-ában meghatározott kielégítési sorrendtől eltérően – a felszámolási költségek kielégítését követően a befektetési vállalkozás vagy az árutőzsdei szolgáltatás vagyonából először ezen követelést kell kielégíteni.
 
