@@ -30,7 +30,7 @@ Nevezett jogosult:
 
 4. Az állami, helyi önkormányzati és magántulajdonban (kezelésben) lévő ipari, illetve erdő- és mezőgazdasági területeken térképezést, térképellenőrzést végezni.
 
-5.[^27] A földmérési szakigazgatási szervezetek, továbbá a vízügyi igazgatóságok és a Nemzeti Környezetügyi Intézet térképészeti anyagaiba betekinteni, és az adatokat a katonai térképezési munkákhoz kikérni.
+5.[^31] A földmérési szakigazgatási szervezetek, továbbá a vízügyi igazgatóságok és a Nemzeti Környezetügyi Intézet térképészeti anyagaiba betekinteni, és az adatokat a katonai térképezési munkákhoz kikérni.
 
 6. A személyi átadó-átvevő nyilvántartó könyvében felsorolt minősített iratok terepre szállítására.
 
@@ -52,4 +52,4 @@ a Határőrség országos parancsnoka
 
 n
 
-[^27]: A 4. melléklet 5. pontja a 147/2011. (XII. 23.) VM rendelet 5. §-a szerint módosított szöveg.
+[^31]: A 4. melléklet 5. pontja a 147/2011. (XII. 23.) VM rendelet 5. §-a szerint módosított szöveg.
