@@ -70,6 +70,14 @@
 
 |  | (bélyegzője) |
 
-10. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^696]
+10. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^708]
 
-[^696]: A 10. számú melléklet a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, a 76/2013. (XII. 31.) NGM rendelet 22. § (13) bekezdése szerint módosított szöveg.
+KERETENGEDÉLY
+
+Az engedélyező vámszerv megnevezése:
+
+A keretengedély jövedéki száma:
+
+A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 43. § (1) bekezdése és a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 73. § (5) bekezdése alapján az adómentes beszerzést az alábbiak szerint engedélyezem:
+
+[^708]: A 10. számú melléklet a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, a 76/2013. (XII. 31.) NGM rendelet 22. § (13) bekezdése szerint módosított szöveg.

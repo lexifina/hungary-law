@@ -6,4 +6,6 @@
 
 (4) A terítőjárat tevékenységével kapcsolatban feltárt jogsértésért a felelősség a jövedéki engedélyes kereskedőt terheli.
 
-(5) A 126. § (1) bekezdés b) pontjában megjelölt termékek terítőjárat keretében történő értékesítése készpénzfizetés ellenében nem megengedett.
+(5)[^652]
+
+[^652]: A 129. § (5) bekezdését a 45/2014. (XII. 30.) NGM rendelet 15. § 5. pontja hatályon kívül helyezte.

@@ -6,7 +6,7 @@ a)[^156] a kérelmező társasági szerződését (alapító okiratot, alapszab�
 
 b)[^157]
 
-c)[^158] a jövedéki biztosíték rendelkezésre bocsátását igazoló eredeti okmányokat, bizonylatokat;
+c)[^158] a felajánlott jövedéki biztosíték számításának levezetését;
 
 d)[^159]
 
@@ -28,7 +28,7 @@ j)[^163] az önálló vállalkozás, illetve fióktelep alapítási kötelezetts
 
 [^156]: A 26. § (1) bekezdés a) pontja a 17/2009. (IX. 29.) PM rendelet 12. § (1) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^157]: A 26. § (1) bekezdés b) pontját a 17/2011. (IV. 19.) NGM rendelet 57. §-a hatályon kívül helyezte.
-[^158]: A 26. § (1) bekezdés c) pontja az 53/2011. (XII. 29.) NGM rendelet 20. §-ával megállapított szöveg.
+[^158]: A 26. § (1) bekezdés c) pontja a 45/2014. (XII. 30.) NGM rendelet 2. §-ával megállapított szöveg.
 [^159]: A 26. § (1) bekezdés d) pontját a 17/2009. (IX. 29.) PM rendelet 20. § (2) bekezdése hatályon kívül helyezte.
 [^160]: A 26. § (1) bekezdés f) pontja a 17/2009. (IX. 29.) PM rendelet 12. § (2) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^161]: A 26. § (1) bekezdés g) pontja a 17/2009. (IX. 29.) PM rendelet 12. § (2) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.

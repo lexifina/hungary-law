@@ -4,9 +4,9 @@
 
 (2) Az adómegállapítási és adófizetési kötelezettség alóli végleges mentesülés szempontjából nem vehető figyelembe az a megsemmisülés, amely a műszaki, technológiai előírások megtartásával, kellő gondossággal és körültekintéssel egyébként elhárítható műszaki hiba vagy mulasztás miatt keletkezett.
 
-(3)[^519] A jövedéki termék raktározását, tárolását, illetve – adófelfüggesztés melletti szállítás esetén – a jövedéki termék kitárolását végző adóraktár engedélyesének és az adómentes felhasználónak az adómentes jövedéki termék megsemmisülését – annak bekövetkeztét követően – a hatósági felügyeletet ellátó vámszervhez haladéktalanul be kell jelentenie.
+(3)[^523] A jövedéki termék raktározását, tárolását, illetve – adófelfüggesztés melletti szállítás esetén – a jövedéki termék kitárolását végző adóraktár engedélyesének és az adómentes felhasználónak az adómentes jövedéki termék megsemmisülését – annak bekövetkeztét követően – a hatósági felügyeletet ellátó vámszervhez haladéktalanul be kell jelentenie.
 
-(4)[^520] A hatósági felügyeletet ellátó vámszervnek a bejelentés alapján haladéktalanul vizsgálatot kell tartania és arról megsemmisülési jegyzőkönyvet kell felvennie.
+(4)[^524] A hatósági felügyeletet ellátó vámszervnek a bejelentés alapján haladéktalanul vizsgálatot kell tartania és arról megsemmisülési jegyzőkönyvet kell felvennie.
 
-[^519]: A 106. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (10) bekezdése szerint módosított szöveg.
-[^520]: A 106. § (4) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (4) bekezdése szerint módosított szöveg.
+[^523]: A 106. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (10) bekezdése szerint módosított szöveg.
+[^524]: A 106. § (4) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (4) bekezdése szerint módosított szöveg.
