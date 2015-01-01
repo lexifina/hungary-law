@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-170-20-
 | 2013-01-01 | 2011-170-20-22.3 | 421/2012. (XII. 29.) Korm. rendelet |
 | 2013-04-01 | 2011-170-20-22.4 | 85/2013. (III. 21.) Korm. rendelet |
 | 2014-01-01 | 2011-170-20-22.5 | 496/2013. (XII. 29.) Korm. rendelet |
+| 2015-01-01 | 2011-170-20-22.6 | 376/2014. (XII. 31.) Korm. rendelet |
