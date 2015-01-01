@@ -1,3 +1,0 @@
-## 9. § Az NFM rendelet 56. §-a helyébe a következő rendelkezés lép:
-
-## „56. § A támogatás folyósítása a támogatási szerződésben vagy támogatói okiratban meghatározott forrásösszetétel szerinti pénzügyi és időbeli ütemezésben, a készültségi fokkal arányosan és utólagosan, a kedvezményezett által benyújtott számlák és teljesítést igazoló dokumentumok alapján, valamint ezek ellenőrzését követően történik. A teljesítést igazoló dokumentumban a kedvezményezett nyilatkozik arról, hogy a támogatás feltételéül vállalt kötelezettségek a támogatási szerződésnek vagy a támogatói okiratnak megfelelően teljesültek, a forrásokat rendeltetésszerűen és maradéktalanul a támogatási szerződésben vagy támogatói okiratban meghatározott feladatra használta fel.”
