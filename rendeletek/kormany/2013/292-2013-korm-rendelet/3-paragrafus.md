@@ -32,12 +32,12 @@ c) az ideiglenes ellátást megelőzően a településen hulladékgazdálkodási
 
 d) a Magyar Energetikai és Közmű-szabályozási Hivatallal,
 
-e)[^3] az illetékes környezetvédelmi hatósággal,
+e)[^4] az illetékes környezetvédelmi hatósággal,
 
-f)[^4] az OHÜ-vel, valamint
+f)[^5] az OKTF-fel, valamint
 
-g)[^5] a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős miniszterrel.
+g)[^6] a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős miniszterrel.
 
-[^3]: A 3. § (4) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 745. § (1) bekezdésével megállapított szöveg.
-[^4]: A 3. § (4) bekezdés f) pontja a 221/2014. (IX. 4.) Korm. rendelet 745. § (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § (4) bekezdés g) pontját a 221/2014. (IX. 4.) Korm. rendelet 745. § (2) bekezdése iktatta be.
+[^4]: A 3. § (4) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 745. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (4) bekezdés f) pontja a 221/2014. (IX. 4.) Korm. rendelet 745. § (1) bekezdésével megállapított, a 368/2014. (XII. 30.) Korm. rendelet 6. § (5) bekezdése szerint módosított szöveg.
+[^6]: A 3. § (4) bekezdés g) pontját a 221/2014. (IX. 4.) Korm. rendelet 745. § (2) bekezdése iktatta be.

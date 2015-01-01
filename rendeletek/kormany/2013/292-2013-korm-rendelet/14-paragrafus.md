@@ -1,4 +1,4 @@
-14. §[^8] (1) Az ideiglenes ellátás díjának a Tv. 1. § (3) bekezdésének való megfelelését, valamint az ideiglenes ellátás díjából nem fedezhető többletköltségek indokoltságát a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: MEKH) ellenőrzi.
+14. §[^9] (1) Az ideiglenes ellátás díjának a Tv. 1. § (3) bekezdésének való megfelelését, valamint az ideiglenes ellátás díjából nem fedezhető többletköltségek indokoltságát a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: MEKH) ellenőrzi.
 
 (2) A kijelölt közérdekű szolgáltató a hulladéklerakási járulék előirányzat kezelőjétől (a továbbiakban: előirányzat kezelője) az ideiglenes ellátás díjából nem fedezhető indokolt többletköltségeit utólag igényelheti.
 
@@ -12,4 +12,4 @@
 
 (7) Az előirányzat kezelője a kijelölt közérdekű szolgáltató igényét megvizsgálja.
 
-[^8]: A 14. § az 505/2013. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^9]: A 14. § az 505/2013. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.

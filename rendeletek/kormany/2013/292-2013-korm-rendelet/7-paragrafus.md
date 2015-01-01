@@ -14,6 +14,6 @@
 
 (8) Ha a kötelezett a hulladékgazdálkodási közszolgáltatás ellátására a települési önkormányzattal szerződést köt, akkor a szolgáltatást elrendelő döntést a katasztrófavédelmi szerv visszavonja.
 
-(9)[^7] A katasztrófavédelmi szerv az (1)–(7) bekezdés szerint foganatosított intézkedéseiről haladéktalanul tájékoztatja a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős minisztert.
+(9)[^8] A katasztrófavédelmi szerv az (1)–(7) bekezdés szerint foganatosított intézkedéseiről haladéktalanul tájékoztatja a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős minisztert.
 
-[^7]: A 7. § (9) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 746. §-a iktatta be.
+[^8]: A 7. § (9) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 746. §-a iktatta be.

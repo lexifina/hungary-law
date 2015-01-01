@@ -12,7 +12,7 @@ a hivatásos katasztrófavédelmi szerv területi szervét (a továbbiakban: kat
 
 a) a közszolgáltatási engedély lényeges tartalmi elemeit (különösen: név, székhely, cégjegyzékszám, KÜJ, KTJ, az engedély időbeli hatálya, a szolgáltatással érintett települések megnevezése, a hulladék fajtája, jellege, mennyisége),
 
-b) az Országos Hulladékgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: OHÜ) általi minősítését,
+b)[^2] a környezetvédelmi hatóság általi minősítését,
 
 c) a közszolgáltatási engedélykérelem benyújtásának tényét és
 
@@ -20,21 +20,18 @@ d) a hulladékszállítására alkalmas eszközök számát és kapacitását.
 
 (3) A (2) bekezdés szerinti adatszolgáltatás valóságtartalmát a katasztrófavédelmi szerv ellenőrzi.
 
-(4) A katasztrófavédelmi szervet folyamatosan, heti rendszerességgel elektronikus úton tájékoztatja
+(4)[^3] Az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: OKTF) a katasztrófavédelmi szervet folyamatosan, heti rendszerességgel elektronikus úton tájékoztatja
 
-a)[^2] az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség
+a) a hulladékgazdálkodási engedéllyel és a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező közszolgáltatókról,
 
-aa) a hulladékgazdálkodási engedéllyel és a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező közszolgáltatókról,
+b) a hulladékgazdálkodási engedély és a hulladékgazdálkodási közszolgáltatási engedély iránti kérelmet benyújtó szolgáltatókról,
 
-ab) a hulladékgazdálkodási engedély és a hulladékgazdálkodási közszolgáltatási engedély iránti kérelmet benyújtó szolgáltatókról,
+c) azokról a településekről, amelyekre hulladékgazdálkodási közszolgáltatási engedélyezési kérelem nem lett előterjesztve közszolgáltatás tárgyában,
 
-ac) azokról a településekről, amelyekre hulladékgazdálkodási közszolgáltatási engedélyezési kérelem nem lett előterjesztve közszolgáltatás tárgyában,
+d) a minősítéssel rendelkező közszolgáltatók listájáról, és
 
-b) az OHÜ
-
-ba) az OHÜ minősítéssel rendelkező közszolgáltatók listájáról,
-
-bb) az OHÜ minősítés iránti kérelmet benyújtó közszolgáltatók listájáról.
+e) a minősítés iránti kérelmet benyújtó közszolgáltatók listájáról.
 
 [^1]: Az 1. § az 505/2013. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (4) bekezdés a) pontja az 505/2013. (XII. 29.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés b) pontja a 368/2014. (XII. 30.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.
+[^3]: Az 1. § (4) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
