@@ -8,6 +8,8 @@
 
 (5) A befektetési tevékenység folytatása során kiemelt figyelmet kell fordítani a portfólió megfelelő diverzifikáltságára, a helyesen alkalmazott kockázatmenedzsmentre, a kötelezettségek lejárati szerkezetéből adódó tényezőkre, a likviditási szükségletek biztosítására. A közvetett befektetési instrumentumok alkalmazása során biztosítani kell, hogy a tagokat vagy a foglalkoztatót közvetetten terhelő befektetési költségek mértéke – a közvetlen befektetésekhez kapcsolódó költségekhez mérten – indokolt legyen.
 
+(5a) A Felügyelet a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének jellegét, körét és összetettségét figyelembe véve értékeli a kockázatmenedzsment során alkalmazott hitelminősítési eljárások megfelelőségét, ideértve a 1060/2009/EK Európai Parlamenti és Tanácsi rendelet 3. cikk (1) bekezdés b) pontjában meghatározott hitelminősítő intézetek által kiadott hitelminősítések befektetési politikában meghatározott szerepét.
+
 (6) A foglalkoztatói nyugdíjszolgáltató intézmény befektetéseit az egyes eszközcsoportokon belül kibocsátónként is meg kell osztani.
 
 (7) A befektetési szabályoknak foglalkoztatói nyugdíjszolgáltató intézményenként kell megfelelni.

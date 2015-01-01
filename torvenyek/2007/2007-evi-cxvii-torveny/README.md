@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-117-00-00
 | 2013-10-01 | 2013. évi CXLIII. törvény | 2007-117-00-00.14 |
 | 2014-01-01 | 2013. évi CCXXXVI. törvény | 2007-117-00-00.15 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2007-117-00-00.16 |
+| 2015-01-01 | 2014. évi CIV. törvény | 2007-117-00-00.17 |
