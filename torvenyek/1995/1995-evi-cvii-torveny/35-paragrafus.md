@@ -12,7 +12,7 @@ a) a bv. intézetek alapítását (kijelölését) és megszüntetését;
 
 b) a bv. szervezet szolgálati szabályzatát;
 
-c)
+c) a Központi Kivizsgáló és Módszertani Intézet szervezetére és működésére vonatkozó részletes szabályokat;
 
 d) a bv. szervek területére való belépés, a tartózkodás és a kilépés részletes szabályait;
 

@@ -14,6 +14,6 @@
 
 (5) Az intézkedés során kerülni kell a sérülés okozását, az emberi élet kioltását. Az intézkedésnél megsérült személy részére — amint az lehetséges — segítséget kell nyújtani, gondoskodni kell az orvosi ellátásáról, kórházi elhelyezés esetén a hozzátartozó vagy más, a sérülttel kapcsolatban álló személy értesítéséről.
 
-(6) A személyi állomány egyenruha viselésére kötelezett tagját az intézkedése során az egyenruhája és az igazolványa, egyenruha viselésére nem kötelezett tagját az igazolványa igazolja.
+(6) A személyi állomány egyenruha viselésére kötelezett tagját az intézkedése során az egyenruhája és az azon elhelyezett azonosítószáma, a nem egyenruhában szolgálatot teljesítő tagját a szolgálati igazolványa igazolja.
 
 (7) Ha az intézkedések a személyi állomány vagy a fogvatartottak életének és testi épségének a megvédésére, a fogvatartás törvényes biztosítására, a fogolyszökés megakadályozására nem elegendők, a bv. szerv köteles más rendvédelmi szerv közreműködését kérni.

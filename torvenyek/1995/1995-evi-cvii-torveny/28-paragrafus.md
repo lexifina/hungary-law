@@ -10,7 +10,7 @@ a) a fogvatartott személyazonosító adataira, Társadalombiztosítási Azonos�
 
 b) lakcímére;
 
-c) a választójoggal nem rendelkező fogvatartott személyi azonosítójára;
+c) a fogvatartott személyi azonosítójára;
 
 d) a végrehajtás során a büntetés-végrehajtás e törvényben meghatározott feladatai ellátásához és a fogvatartott jogainak a gyakorlásához szükséges adatokra, iratokra;
 

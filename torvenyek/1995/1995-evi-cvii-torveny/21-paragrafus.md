@@ -11,3 +11,5 @@ a) személyi sérüléssel fenyegető támadás, illetve az életet vagy a testi
 b) az elzárást töltő személy kivételével a fogvatartott szökésének a megakadályozására, és a megszökött fogvatartott elfogására
 
 alkalmazható.
+
+(4) Kényszerítő eszközként csak az arra kiképzett szolgálati kutyát lehet alkalmazni.
