@@ -2,13 +2,7 @@
 
 „27. Közérdekű közlemény: ellenszolgáltatás nélkül közzétételre kerülő, állami vagy önkormányzati feladatot ellátó szervezettől, illetve személytől, valamint állami fenntartású vagy az állam kezelésében lévő intézménytől származó tájékoztatás, amely valamely konkrét közérdekű információt közvetít a nézők vagy hallgatók figyelmének felkeltése céljából, és nem minősül politikai reklámnak.”
 
-(2) Az Mttv. 203. § 31. pontja helyébe a következő rendelkezés lép:
-
-„31. Közszolgálati médiaszolgáltatás: a közszolgálati médiaszolgáltató által nyújtott audiovizuális és rádiós médiaszolgáltatás, hírügynökségi szolgáltatás, valamint internetes úton elérhetővé tett médiatartalmak szolgáltatása.”
-
-(3) Az Mttv. 203. § 32. pontja helyébe a következő rendelkezés lép:
-
-„32. Közszolgálati médiaszolgáltató: kizárólag – a közszolgálati médiaszolgáltatás céljainak megvalósítására – e törvény 84. § (1) bekezdésében nevesített médiaszolgáltató.”
+(2)–(3)
 
 (4) Az Mttv. 203. § 33. pontja helyébe a következő rendelkezés lép:
 

@@ -1,3 +1,0 @@
-10. § Az Mttv. 95. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Közszolgálati Kódex (a továbbiakban: Kódex) – e törvénnyel összhangban – tartalmazza a közszolgálati médiaszolgáltatásra vonatkozó alapvető elveket és az e törvényben meghatározott közszolgálati célok pontosítását. A Kódexnek általános, és az egyes közszolgálati médiaszolgáltatásokra külön-külön vonatkozó tartalma is lehet. A Kódex alapvető rendeltetése, hogy a közszolgálati médiaszolgáltató számára iránymutatást adjon a törvény keretei között a közszolgálati médiaszolgáltatás megfelelő működési elveire vonatkozóan.”
