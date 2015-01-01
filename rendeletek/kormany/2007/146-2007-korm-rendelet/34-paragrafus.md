@@ -1,3 +1,0 @@
-## A KIS- ÉS KÖZÉPVÁLLALKOZÁSOK RÉSZÉRE NYÚJTOTT K+F TÁMOGATÁSOKRA VONATKOZÓ RENDELKEZÉSEK
-
-## A támogatás célja és mértéke

@@ -1,3 +1,0 @@
-## 8. §[^34] A kis- és középvállalkozások iparjogvédelmi jogokkal kapcsolatban felmerülő költségeihez nyújtott támogatás esetén a támogatási intenzitás nem haladhatja meg a 6. §-ban meghatározott mértéket azzal, hogy ahhoz azt a támogatási intenzitást kell figyelembe venni, amely az érintett szabadalom vagy iparjogvédelmi oltalom tárgyához elsőként vezető kutatási tevékenységhez tartozik.
-
-[^34]: A 8. § hatálybalépéséről e rendelet 44. § (2) bekezdése alapján külön kormányrendelet rendelkezik. A 12/2008. (I. 26.) Korm. rendelet 9. § (2) bekezdése alapján a rendelkezés 2008. január 27-én lépett hatályba.
