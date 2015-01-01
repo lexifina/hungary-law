@@ -6,7 +6,7 @@
 
 ## 1. § E rendelet hatálya
 
-a) az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő (a továbbiakban: derogációs), a Kormány által a nemzeti fejlesztési miniszter (a továbbiakban: miniszter) hatáskörébe utalt, a 2007–2013 programozási időszak Környezet és Energia Operatív Program terhére finanszírozott szennyvízelvezetési és -tisztítási, valamint
+a)[^1] az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő (a továbbiakban: derogációs), a Kormány által a nemzeti fejlesztési miniszter (a továbbiakban: miniszter) hatáskörébe utalt, a 2007–2013 programozási időszak Környezet és Energia Operatív Program terhére finanszírozott szennyvízelvezetési és -tisztítási, ivóvízminőség-javító, valamint
 
 b) a 2014–2020 programozási időszakban a Környezeti és Energiahatékonysági Operatív Program terhére finanszírozott derogációs és nem derogációs
 
@@ -15,3 +15,5 @@ ba) szennyvízelvezetési és -tisztítási,
 bb) hulladékgazdálkodási, és
 
 bc) ivóvízminőség-javító
+
+[^1]: Az 1. § a) pontja a 21. §-sal megállapított szöveg.
