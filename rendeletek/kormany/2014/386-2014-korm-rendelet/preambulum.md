@@ -1,0 +1,1 @@
+A Kormány a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 38. § (1) bekezdés a), e) és g) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

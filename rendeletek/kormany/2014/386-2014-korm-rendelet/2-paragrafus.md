@@ -1,0 +1,29 @@
+## 1. § A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény végrehajtásáról szóló 343/2011. (XII. 29.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2/B. §-a helyébe a következő rendelkezés lép:
+
+## „2/B. § (1) A termékdíj raktár engedélyezése feltételeinek fennállását az állami adó- és vámhatóság előzetesen a helyszínen is megvizsgálja.
+
+## (2) A termékdíj raktár engedély iránti kérelem elektronikus úton, az állami adóhatóság által közzétett – a (3) bekezdésben meghatározott tartalmú – elektronikus formanyomtatvány alkalmazásával nyújtható be.
+
+## (3) A termékdíj raktár engedély iránti kérelemnek tartalmaznia kell:
+
+## a) a kérelmező nevét, címét, adószámát,
+
+## b) ipari termékdíj raktár esetén a tevékenység megnevezését (feldolgozás, előállítás, újbóli felhasználásra előkészítés) és a feldolgozni, előállítani, újbóli felhasználásra előkészíteni kívánt, kereskedelmi termékdíj raktár esetén a tárolni kívánt termékdíjköteles termékek termék- és anyagáramának megnevezését,
+
+## c) a nyilvántartási és bizonylati rend bemutatását,
+
+## d) a termékdíj raktár címét, helyrajzi számát, helyszínrajzát,
+
+## e) a kérelmező nyilatkozatát arról, hogy
+
+## ea) a termékdíj raktár működésére szolgáló terület, épület jogszerű használója,
+
+## eb) ipari termékdíj raktár üzemeltetése esetén vállalja az engedély kiadását követő évtől a Ktdt. 9/A. § (1) bekezdés e) pontjában meghatározott mérleg-hitelesítési kötelezettséget, és
+
+## f) a termékdíj ügyintéző szakképesítéssel rendelkező foglalkoztatott vagy képviselő nevét, adóazonosító jelét, bizonyítványának számát.
+
+## (4) Az állami adó- és vámhatóság a termékdíj raktár engedélyezésére vonatkozó kérelmet 30 napon belül bírálja el.
+
+## (5) A termékdíj raktár engedélyese a tevékenység, a termék- és anyagáram bővítését vagy szűkítését az engedély módosítására irányuló kérelem útján, a (2) bekezdésben meghatározott módon kezdeményezheti.
+
+## (6) Az engedély módosítására irányuló (5) bekezdés szerinti kérelmet az állami adó- és vámhatóság 30 napon belül bírálja el. Az állami adó- és vámhatóság a kérelem elbírálása során az (1) bekezdésben meghatározott helyszíni vizsgálatot végezhet.”
