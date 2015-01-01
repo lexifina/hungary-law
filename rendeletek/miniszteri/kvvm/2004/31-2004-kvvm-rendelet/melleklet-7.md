@@ -300,7 +300,7 @@
 
 |  | ** Határvíz vizsgálatokban országhatáron kívül lévő mintavételi helyek |
 
-7. számú melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^21]
+7. számú melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^22]
 
 A minőségi elemek megfigyelésénél referenciaként alkalmazható szabványosított módszerek
 
@@ -340,4 +340,4 @@ A minőségi elemek megfigyelésénél referenciaként alkalmazható szabványos
 
 | MSZ EN 14614: 2005: | Vízminőség. Útmutató szabvány folyóvizek hidro-morfológiai jellemzőinek értékeléséhez |
 
-[^21]: A 7. számú mellékletet a 34/2008. (XII. 31.) KvVM rendelet 5. § (3) bekezdése iktatta be.
+[^22]: A 7. számú mellékletet a 34/2008. (XII. 31.) KvVM rendelet 5. § (3) bekezdése iktatta be.
