@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2014-05-01 | 2013. évi CCXXVIII. törvény | 1988-1-00-00.71 |
 | 2014-12-30 | 2014. évi XCIX. törvény | 1988-1-00-00.72 |
 | 2014-12-31 | 2014. évi XCIII. törvény | 1988-1-00-00.73 |
+| 2015-01-01 | 2014. évi XCIX. törvény | 1988-1-00-00.74 |

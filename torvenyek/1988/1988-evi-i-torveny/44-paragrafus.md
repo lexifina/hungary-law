@@ -30,4 +30,4 @@ h) a közút kezelőjének hozzájárulásához vagy a közlekedési hatóság e
 
 (7) A közlekedési hatóság a külön engedély alapján üzemeltetett, valamint a nem közúti közlekedési szolgáltatást végző járművek esetében az (1) bekezdés c)–e) pontjában megjelölt ellenőrzéseket a jármű telephelyén is végezheti, az f) pontban meghatározott járműfenntartó tevékenységet csak telephelyen ellenőrizheti.
 
-(8)
+(8) A közlekedési hatóság a törvényben meghatározott ellenőrzési feladatai ellátásához a Kormány rendeletében meghatározott módon jogosult átvenni a más ellenőrzésre jogosult hatóság által végzett közúti ellenőrzések során keletkezett, valamint a külön jogszabály szerinti útdíjszedő, a közút kezelője vagy az általa megbízott közreműködő által kezelt, a jármű tömegére, tengelyterhelésére, valamint méretére vonatkozó adatokat a mérés időpontjával, helyszínével és a jármű forgalmi rendszámával együtt.

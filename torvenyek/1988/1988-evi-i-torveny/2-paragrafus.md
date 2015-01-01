@@ -16,7 +16,7 @@ e) a közutakon, valamint az állami és helyi önkormányzatok tulajdonában á
 
 (3) Magyarország területén külföldi hatósági jelzéssel ellátott járművekre , azok üzembentartójára és vezetőjére a törvény rendelkezéseit annyiban kell alkalmazni, amennyiben jogszabály, nemzetközi szerződés, egyezmény vagy megállapodás másként nem rendelkezik.
 
-(4) A Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat, valamint a rendvédelmi szervek
+(4) A Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek
 
 a) tagjaira,
 

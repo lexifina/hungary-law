@@ -12,10 +12,12 @@ cb) a megengedett legnagyobb össztömeget, tengelyterhelést és méretet megha
 
 d) a díjköteles útszakasz azonnali elhagyását elrendelni,
 
-e) a jogosulatlan úthasználat tényének megállapítása esetén az erről készített jegyzőkönyv átadásával az úthasználót a pótdíj megfizetésére kötelezni.
+e) a jogosulatlan úthasználat tényének megállapítása esetén az erről készített jegyzőkönyvnek az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet részére történő átadásával az úthasználót a pótdíj megfizetésére kötelezni.
 
 (2) Az (1) bekezdésben meghatározott intézkedésekről jegyzőkönyv, az úthasználó személyazonosító okmányairól és a gépjármű azonosító okmányairól másolat készítésére kizárólag jogsértés megállapítása esetén kerül sor.
 
 (3) Az (1) bekezdés a)–b) és d)–e) pont szerinti intézkedések megtételére, valamint ezen tevékenységhez kapcsolódóan a 33/B. § (4) bekezdés szerinti adatkezelésre a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve is jogosult.
 
 (4) Az (1) bekezdésben meghatározott feladatok ellátása során az ellenőrzésre jogosult szervezet közvetlenül adathozzáféréssel átveheti a gépjármű-nyilvántartásból a jármű-azonosító adatokat, a természetes személy üzemben tartó személyes adatait és a nem természetes személy üzemben tartó azonosításához szükséges adatokat, valamint az arra vonatkozó adatot, hogy ellenőrzés alá vont jármű a díjköteles útszakaszok térítésmentes használatára jogosultak nyilvántartásában szerepel.
+
+(5) A Nemzeti Adó- és Vámhivatal a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott állami adó- és vámhatósági feladataihoz kapcsolódó ellenőrző tevékenysége, az adózók ellenőrzésre történő kiválasztása céljából – egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel vagy megkeresés útján – jogosult átvenni a gépjármű-nyilvántartásból a jármű-azonosító adatokat, a természetes személy üzemben tartó személyes adatait és a nem természetes személy üzemben tartó azonosításához szükséges adatokat, az arra vonatkozó adatot, hogy ellenőrzés alá vont jármű a díjköteles útszakaszok térítésmentes használatára jogosultak nyilvántartásában szerepel, valamint a közút kezelője vagy az általa megbízott közreműködő, továbbá a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti ellenőrzésére jogosult hatóság, valamint a külön jogszabály szerinti útdíjszedő által kezelt, a jármű tömegére, tengelyterhelésére, valamint méretére vonatkozó adatokat a mérés időpontjával, helyszínével és a jármű forgalmi rendszámával együtt. Az állami adó- és vámhatóság a feladatai ellátásához átvett adatokat 7 évig kezelheti.

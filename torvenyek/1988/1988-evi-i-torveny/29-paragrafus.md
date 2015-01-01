@@ -56,4 +56,4 @@ a) az eltűrhető forgalomnagyság határértéke nem teljesül, vagy
 
 b) a jogszabályban foglalt egyéb előírás (pl. előírt környezeti határérték) az útépítést követően nem teljesül.
 
-(14) A díjköteles országos közutak díjfizetés ellenében történő használatának biztosításához, és a díjfizetés ellenőrzéséhez szükséges létesítmények kiépítése során építtetőként az Állami Autópálya Kezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁAK Zrt.) jár el.
+(14) A díjköteles országos közutak díjfizetés ellenében történő használatának biztosításához, és a díjfizetés ellenőrzéséhez szükséges létesítmények kiépítése során építtetőként a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NÚSZ Zrt.) jár el.
