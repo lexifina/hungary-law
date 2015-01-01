@@ -1,3 +1,1 @@
-## 86. §[^22]
-
-[^22]: A 86. § a 134. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## „(3) A (2) bekezdés szerinti repülőtéren és kikötőkben a kirendeltség látja el a területileg illetékes járási népegészségügyi intézetek számára jogszabályban meghatározott népegészségügyi feladat- és hatásköröket.”

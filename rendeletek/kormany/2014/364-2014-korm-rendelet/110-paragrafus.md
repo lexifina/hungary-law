@@ -1,0 +1,1 @@
+## „(2a) Az élelmiszerlánc-felügyeleti szerv jogsértés esetén saját hatáskörében megteszi a szükséges intézkedéseket az élelmiszerbiztonság fenntartása érdekében. A biocid termék gyártására, forgalomba hozatalára visszavezethető hiányosság vagy annak gyanúja esetén a NÉBIH értesíti az OTH-t.”

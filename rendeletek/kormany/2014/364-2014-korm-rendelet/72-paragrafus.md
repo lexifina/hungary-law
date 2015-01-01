@@ -1,0 +1,3 @@
+## 71. § Az Eftv. vhr. 15/C. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Ha az (1) bekezdés szerinti ellenőrzés azt állapítja meg, hogy a szolgáltató nem felel meg a jogszabályban meghatározott szakmai feltételeknek, az OTH közigazgatási eljárás keretében – legfeljebb egy éves határidő meghatározásával – kötelezi a szolgáltatót a jogszabályban meghatározott személyi, tárgyi feltételek biztosítására. Ha a szolgáltató a határozatban megállapított határidőre sem teljesíti a jogszabályban előírt személyi, tárgyi feltételeket, az OTH kezdeményezi az OEP-nél az adott szakmára megállapított súlyozási szorzó módosítását, kivéve, ha a szolgáltató adott szakmát érintő kapacitása a legalacsonyabb súlyozási szorzóval kerül finanszírozásra.”

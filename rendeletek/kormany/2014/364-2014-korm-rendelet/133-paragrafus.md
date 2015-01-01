@@ -1,3 +1,1 @@
-## 122–132. §[^39]
-
-[^39]: A 122–132. § a 134. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## 132. § A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet 16. § (2) bekezdés a) pontjában a „terhességi-gyermekágyi segélyre” szövegrész helyébe a „csecsemőgondozási díjra” szöveg lép.

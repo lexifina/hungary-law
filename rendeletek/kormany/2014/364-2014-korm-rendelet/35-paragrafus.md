@@ -1,3 +1,3 @@
-## 34. §[^6]
+## 34. §[^2]
 
-[^6]: A 34. § a 134. § (4) bekezdése alapján 2015. március 1-jén lép hatályba.
+[^2]: A 34. § a 134. § (4) bekezdése alapján 2015. március 1-jén lép hatályba.

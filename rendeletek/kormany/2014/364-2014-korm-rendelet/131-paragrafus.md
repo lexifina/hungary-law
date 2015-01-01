@@ -1,0 +1,1 @@
+## 130. § A fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 2. melléklet 1. pont 1.11. alpontjában és 2. pont 2.5. alpontjában a „terhességi-gyermekágyi segély” szövegrész helyébe a „csecsemőgondozási díj” szöveg lép.

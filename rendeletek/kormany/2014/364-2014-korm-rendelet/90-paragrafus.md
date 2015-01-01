@@ -1,3 +1,7 @@
-## 88–89. §[^24]
+## 89. § Az ÁNTSZr. 19. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-[^24]: A 88–89. § a 134. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## (A másodfokú eljárás)
+
+## „b) ha első fokon a megyei népegészségügyi szakigazgatási szerv, kirendeltség vagy – ha jogszabály másként nem rendelkezik – országos intézet járt el, az országos tisztifőorvos,”
+
+## (hatáskörébe tartozik.)

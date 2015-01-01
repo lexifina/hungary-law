@@ -1,0 +1,3 @@
+## 14. § A Vhr. 38/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A társadalombiztosítási kifizetőhelyet fenntartó foglalkoztató a kifizetett pénzbeli ellátásokról, baleseti táppénzről, továbbá a kifizetőhelyet megillető egy százalékos mértékű költségtérítés összegéről havonta – az erre rendszeresített nyomtatványon – elszámolást nyújt be az egészségbiztosítási szakigazgatási szervhez. Az elszámoláson kell feltüntetni a táppénz-hozzájárulás összegét is. Az egészségbiztosítási szakigazgatási szerv az elszámolást – a beérkezésétől számított nyolc napon belül – felülvizsgálja és az elszámolt táppénz-hozzájárulással csökkentett összegre vonatkozóan intézkedik a Magyar Államkincstáron keresztül az átutalásról.”

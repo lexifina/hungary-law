@@ -1,11 +1,10 @@
-## 90. §[^25]
+## 90. §[^7]
 
 ## 91. § Hatályát veszti az ÁNTSZr.
 
-a)–b)[^26]
+a)–b)[^8]
 
-c)[^27]
+c) 4. melléklet IV. pontja.
 
-[^25]: A 90. § a 134. § (4) bekezdése alapján 2015. március 1-jén lép hatályba.
-[^26]: A 91. § a)–b) pontja a 134. § (4) bekezdése alapján 2015. március 1-jén lép hatályba.
-[^27]: A 91. § c) pontja a 134. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^7]: A 90. § a 134. § (4) bekezdése alapján 2015. március 1-jén lép hatályba.
+[^8]: A 91. § a)–b) pontja a 134. § (4) bekezdése alapján 2015. március 1-jén lép hatályba.
