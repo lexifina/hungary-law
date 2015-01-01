@@ -1,4 +1,4 @@
-## 8/A. §[^11] Az e rendelet szerinti nyilvántartások nem tartalmazzák azon ingatlanok és ügyek adatait, amelyek esetében az Itv. 16. § (1) bekezdés i) pontja, 17. § (1) bekezdés p) pontja, valamint 26. § (1) bekezdés z) pontja szerinti illetékmentesség alkalmazására került sor.
+## 8/A. §[^11] Az e rendelet szerinti nyilvántartások nem tartalmazzák azon ingatlanok és ügyek adatait, amelyek esetében az Itv. 5. § (1) bekezdés a)–b), h)–l) és n)–p) pontja, 16. § (1) bekezdés i) pontja, 17. § (1) bekezdés p) pontja, valamint 26. § (1) bekezdés z) pontja szerinti illetékmentesség alkalmazására került sor.
 
 ## Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 6. §-ban említett adatszolgáltatást első ízben 2007. február 15-én kell teljesíteni.
 
-[^11]: A 8/A. §-t az 52/2011. (XII. 29.) NGM rendelet 5. §-a iktatta be, szövege a 46/2012. (XII. 27.) NGM rendelet 13. §-ával megállapított szöveg.
+[^11]: A 8/A. §-t az 52/2011. (XII. 29.) NGM rendelet 5. §-a iktatta be, szövege a 46/2012. (XII. 27.) NGM rendelet 13. §-ával megállapított, az 54/2014. (XII. 31.) NGM rendelet 14. §-a szerint módosított szöveg.
