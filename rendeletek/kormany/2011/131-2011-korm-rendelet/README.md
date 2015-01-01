@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-131-20-
 | --- | --- | --- |
 | 2011-09-30 | 2011-131-20-22.1 | 131/2011. (VII. 18.) Korm. rendelet |
 | 2014-01-01 | 2011-131-20-22.2 | 537/2013. (XII. 30.) Korm. rendelet |
+| 2015-01-01 | 2011-131-20-22.3 | 315/2014. (XII. 12.) Korm. rendelet |
