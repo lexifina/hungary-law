@@ -1,0 +1,3 @@
+## 7. § A 272/2014. (XI. 5.) Korm. rendelet 176. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Ha a kedvezményezett visszafizetési kötelezettségének a visszafizetésre megállapított határidőben nem vagy csak részben tesz eleget, és a beszámítás, a kikötött biztosíték érvényesítése vagy a 79. § (2) bekezdés d) pont db) alpontja szerinti levonás eredménytelen volt, az irányító hatóság az Áht. 53. § (2) bekezdése alapján a vissza nem fizetett összeg adók módjára történő behajtása céljából megkeresi az állami adóhatóságot. Ha a kedvezményezett a 84. § (1) bekezdés m) pontjára tekintettel nem nyújtott biztosítékot, a megkereséssel egyidejűleg az irányító hatóság kezdeményezi az állami adóhatóságnál a kedvezményezett adószámának törlését.”

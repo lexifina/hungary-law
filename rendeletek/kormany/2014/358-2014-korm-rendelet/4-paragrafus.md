@@ -1,0 +1,3 @@
+## 3. § A 4/2011. (I. 28.) Korm. rendelet 102. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Ha a kedvezményezett visszafizetési kötelezettségének a visszafizetésre megállapított határidőben nem vagy csak részben tesz eleget, és a beszámítás, a kikötött biztosíték érvényesítése vagy a levonás eredménytelen volt, az irányító hatóság az Áht. 53. § (2) bekezdése alapján a vissza nem fizetett összeg adók módjára történő behajtása céljából megkeresi az állami adóhatóságot. Ha a kedvezményezett a 33. § (8) bekezdés l) pontjára tekintettel nem nyújtott biztosítékot, a megkereséssel egyidejűleg az irányító hatóság kezdeményezi az állami adóhatóságnál a kedvezményezett adószámának törlését.”
