@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-95-00-00
 | 2013-12-24 | 2013. évi CCXLIV. törvény | 2005-95-00-00.23 |
 | 2014-01-01 | 2013. évi CCXLIV. törvény | 2005-95-00-00.24 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2005-95-00-00.25 |
+| 2015-01-01 | 2014. évi CXI. törvény | 2005-95-00-00.26 |

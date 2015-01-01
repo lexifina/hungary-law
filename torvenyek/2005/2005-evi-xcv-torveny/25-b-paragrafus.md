@@ -8,6 +8,8 @@
 
 (2b) A Gyftv. 21. § (1c) bekezdése szerinti esetben a forgalomba hozatali engedély jogosultja köteles az (1) és (5) bekezdés szerinti igazgatási szolgáltatási díj, fenntartási díj megfizetésére.
 
+(2c) Ha a kérelmező a gyógyszer forgalomba hozatali engedély kiadása iránti kérelem benyújtásával egyidejűleg jelzi, hogy a forgalomba hozatali engedély kiadását követően az egészségbiztosítási szervtől kedvezményezetti státusz megítélését fogja kérni, úgy – ha az egészségbiztosítási szerv a kedvezményezetti státuszt megítéli – a gyógyszerészeti államigazgatási szerv visszatéríti a forgalomba hozatali engedély jogosultjának az általa befizetett igazgatási szolgáltatási díjat.
+
 (3) A díjat az 1. számú melléklet I., II. és III/A–G. pontjaiban felsorolt eljárások esetén klinikai vizsgálatonként és gyógyszerenként kell megfizetni.
 
 (4) Az 1. számú melléklet szerinti díj megállapításánál az alábbiakat kell figyelembe venni:

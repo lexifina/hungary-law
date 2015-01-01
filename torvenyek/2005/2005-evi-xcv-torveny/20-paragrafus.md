@@ -2,7 +2,7 @@
 
 (1a) A gyógyszerészeti államigazgatási szerv a Magyarországon vagy a harmadik országok területén végzett ellenőrzések során figyelembe veszi az Európai Bizottság iránymutatásait és együttműködik az Európai Gyógyszerügynökséggel, amelynek keretében az Európai Gyógyszerügynökséggel megosztja a tervezett és lefolytatott vizsgálatokkal kapcsolatos információkat.
 
-(2) A gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
+(2) A gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
 
 (3) Amennyiben a gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapítja, hogy az arra kötelezett természetes személy, jogi személy tevékenysége folytatása során az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott feltételeinek nem tesz eleget, illetve kötelezettségét megszegi,
 
@@ -26,7 +26,7 @@ e) ismételt vagy súlyos közegészségügyi veszélyt rejtő jogsértés eset�
 
 (8) A lakossági gyógyszerellátásban résztvevők hatósági ellenőrzéséről egyebekben külön jogszabály rendelkezik.
 
-(9) A gyógyszerészeti államigazgatási szerv a (3) és (4) bekezdés szerinti
+(9) A gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv a (3) és (4) bekezdés szerinti
 
 a) egymillió forintot meghaladó összegű pénzbírságot megállapító, vagy
 
@@ -52,7 +52,7 @@ g) a döntés rendelkező részét, valamint
 
 h) a döntéssel szembeni jogorvoslati eljárás tényét.
 
-(11) A gyógyszerészeti államigazgatási szerv a jogorvoslati eljárás során hozott, a közzétett döntés érdemében változást eredményező hatósági döntés vagy bírósági határozat tudomására jutását követően haladéktalanul – a döntés közzétételével megegyező módon – közzéteszi:
+(11) A gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv a jogorvoslati eljárás során hozott, a közzétett döntés érdemében változást eredményező hatósági döntés vagy bírósági határozat tudomására jutását követően haladéktalanul – a döntés közzétételével megegyező módon – közzéteszi:
 
 a) a jogorvoslattal érintett döntésre vonatkozó (10) bekezdés szerinti információkat,
 

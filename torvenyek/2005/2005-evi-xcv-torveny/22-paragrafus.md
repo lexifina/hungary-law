@@ -7,3 +7,5 @@
 (3) Amennyiben a gyógyszerészeti államigazgatási szerv az adott hatóanyaghoz kapcsolódó kockázatok miatt szükségesnek tartja, a bejelentés kézhezvételét követő 15 napon belül értesíti a kérelmezőt arról, hogy ellenőrzést kíván lefolytatni, és a tevékenység nem kezdhető meg addig, amíg azt a gyógyszerészeti államigazgatási szerv nem engedélyezi.
 
 (4) Amennyiben a gyógyszerészeti államigazgatási szerv a (3) bekezdésben foglalt határidőn belül nem jelzi az ellenőrzés szükségességét vagy az ellenőrzést követően a tevékenység végzését engedélyezi, a (2) bekezdés szerint bejelentett adatokat rögzíti az Európai Gyógyszerügynökség által működtetett uniós adatbázisban. Amennyiben a gyógyszerészeti államigazgatási szerv e § alapján ellenőrzést folytat le, az ellenőrzésre vonatkozó értesítéstől számított 60 napon belül döntést hoz arról, hogy engedélyezi-e az (1) bekezdésben említett tevékenység megkezdését.
+
+(5) A (4) bekezdés szerint rögzített adatok kérelemre történő módosítása esetén a (2)–(4) bekezdés szerint kell eljárni.

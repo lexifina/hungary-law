@@ -18,7 +18,7 @@ d) a gyógyszerészeti államigazgatási szerv vagy szervek kijelölését
 
 e) az új pszichoaktív anyagokkal összefüggésben
 
-ea) az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat,
+ea)
 
 eb) az új pszichoaktív anyaggá minősítés, valamint az új pszichoaktív anyag kockázatértékelésének részletes eljárási szabályait,
 
@@ -76,7 +76,9 @@ u) a gyógyszerhiány kezelése és megelőzése érdekében a gyógyszerhiánny
 
 v) a gyógyszerközvetítéssel kapcsolatos szabályokat,
 
-w) a hatóanyagokra vonatkozó helyes gyártási gyakorlat és helyes forgalmazási gyakorlat, valamint a segédanyagokra vonatkozó helyes gyártási gyakorlat szabályait
+w) a hatóanyagokra vonatkozó helyes gyártási gyakorlat és helyes forgalmazási gyakorlat, valamint a segédanyagokra vonatkozó helyes gyártási gyakorlat szabályait,
+
+x) az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat
 
 rendeletben szabályozza.
 
