@@ -106,6 +106,8 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, a Megállapodás rendelkezéseit azonban 2005. március 29-től kell alkalmazni.
 
-(2) A Megállapodás végrehajtásáról az oktatási miniszter gondoskodik.
+(2)[^1] A Megállapodás végrehajtásáról a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke gondoskodik.
 
 Budapest, 2004. február 4.
+
+[^1]: A 3. § (2) bekezdése a 381/2014. (XII. 31.) Korm. rendelet 9. §-a szerint módosított szöveg.
