@@ -19,3 +19,7 @@ b) szabályozza azokat a technikákat, eszközöket és intézkedéseket, amelye
 c) meghatározza az ÁÉKBV-alapkezelőn belüli kockázatkezelésre vonatkozó felelősség-megosztást,
 
 d) meghatározza a 9. §-ban említett kockázatkezelési szervezeti egység által az igazgatóság és a felső vezetés felé, illetve a felügyelőbizottság felé teljesítendő beszámolás feltételeit, tartalmát és gyakoriságát.
+
+(3)[^1] Az ÁÉKBV-alapkezelő a kockázatkezelés során – különösen az ÁÉKBV eszközei hitelminőségének értékelésekor – nem hagyatkozhat kizárólagosan vagy automatikusan a hitelminősítő intézetekről szóló, 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdés b) pontjában meghatározott hitelminősítő intézetek által kiadott hitelminősítésekre. A Felügyelet az ÁÉKBV tevékenységének jellegét, körét és összetettségét figyelembe véve értékeli az ÁÉKBV-alapkezelő hitelminősítési eljárásainak megfelelőségét.
+
+[^1]: A 22. § (3) bekezdését a 315/2014. (XII. 12.) Korm. rendelet 8. §-a iktatta be.
