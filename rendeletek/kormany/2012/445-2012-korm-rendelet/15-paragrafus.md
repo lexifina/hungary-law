@@ -1,12 +1,17 @@
-15. § (1)[^20] Az átvevő és a közvetítő szervezet az OKTF részére adatot szolgáltat:
+15. §[^45] (1) A gyártó, az átvállaló és a közvetítő szervezet a 14. § alapján általa nyilvántartott adatokról a tárgyévet követő év február 20-ig az OKTF részére adatot szolgáltat.
 
-a) a tárgyév február 20. napjáig a tárgyévet megelőző évben az általa kötött megállapodások alapján átvett és gyűjtött hulladék tömegéről,
+(2) Az állami hulladékgazdálkodást közvetítő szervezet a 14. § (4) bekezdése alapján nyilvántartott adatokról a tárgyévet követő év május 20-ig szolgáltat adatot az OKTF részére.
 
-b) tárgyév február 20. napjáig arról, hogy mely gyártókkal, forgalmazókkal, gazdálkodó szervezetekkel kötött megállapodást elem- és akkumulátorhulladék átvételére, gyűjtésére és kezelésére.
+(3) Ha a gyártó termékdíjátalány-fizetés vagy az állami hulladékgazdálkodást közvetítő szervezeten keresztül történő kollektív teljesítés útján tesz eleget az átvételre, gyűjtésre, kezelésre vonatkozó kötelezettségének,
 
-(2)[^21] Az átvevő és a közvetítő szervezet az (1) bekezdés szerinti adatszolgáltatási kötelezettségét a 4. mellékletben meghatározott tartalommal az OKTF felé teljesíti. Az átvevő és közvetítő szervezet a vele szerződésben álló gyártók 4. melléklet 1. pontjában meghatározott adatairól összesített adatot szolgáltat.
+a) a 4. melléklet 1.1. pontjában, valamint az 1.2. pont a)–d) és h) alpontjában foglaltakról – a 4. melléklet 5. pontja szerinti bontásban – a gyártó,
 
-(3) A gyártó, az átvevő és a közvetítő szervezet a nyilvántartást legalább 5 éven keresztül megőrzi.
+b) a 4. melléklet 1.2. pont e)–f) alpontjaiban foglaltakról az állami hulladékgazdálkodást közvetítő szervezet
 
-[^20]: A 15. § (1) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 133. § c) pontja szerint módosított szöveg.
-[^21]: A 15. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 133. § c) pontja szerint módosított szöveg.
+## szolgáltat adatot az OKTF részére.
+
+(4) Az átvállaló és a közvetítő szervezet az adatszolgáltatásához mellékeli, hogy mely gyártókkal, forgalmazókkal, illetve egyéb gazdálkodó szervezetekkel milyen mennyiségre kötött megállapodást az elem- és akkumulátorhulladék átvételére, gyűjtésére, kezelésére.
+
+(5) Az adatszolgáltatás az OKTF részére a környezet védelmének általános szabályairól szóló törvény adatszolgáltatási kötelezettségre vonatkozó előírásai szerint teljesítendő.
+
+[^45]: A 15. § a 310/2014. (XII. 11.) Korm. rendelet – a 368/2014. (XII. 30.) Korm. rendelet 12. § (1) bekezdése és (2) bekezdés b) pontja szerint módosított – 15. § (4) bekezdésével megállapított szöveg.

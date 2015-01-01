@@ -2,7 +2,7 @@
 
 |  | A | B |
 
-| 1 | Tárgyév | A hulladékká vált hordozható elem, akkumulátor gyűjtési aránya (K) |
+| 1 | Időszak | A hulladékká vált hordozható elem, akkumulátor gyűjtési aránya (K) |
 
 | 2 | 2008. december 31-ig | 0,18 |
 
@@ -36,16 +36,6 @@
 
 ## K: a tárgyévre vonatkozó gyűjtési arány.
 
-3. melléklet a 445/2012. (XII. 29.) Korm. rendelethez
+3. melléklet a 445/2012. (XII. 29.) Korm. rendelethez[^72]
 
-## A gyártó nyilvántartásba vételéhez szükséges adatok
-
-1. A gyártó neve, cégjegyzékszáma, KÜJ-azonosítója, székhelye, elérhetősége, kapcsolattartójának neve
-
-2. A gyártó által Magyarországon képviselt, forgalmazott márkanevek, amennyiben vannak ilyenek
-
-3. A gyártó által forgalmazott elem, akkumulátor típusa (hordozható, ipari, gépjármű)
-
-4. A kötelezettség teljesítésének módja (egyéni, termékdíjátalány-fizetés, az OHÜ-n keresztül történő kollektív vagy közvetítő szervezeten keresztül történő teljesítés)
-
-5. A nyilvántartásba vételi kérelem keltezése, és a gyártó nyilatkozata a megadott adatok valódiságáról
+[^72]: A 3. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 17. § d) pontja hatályon kívül helyezte.

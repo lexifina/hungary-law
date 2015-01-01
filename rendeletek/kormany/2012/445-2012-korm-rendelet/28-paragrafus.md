@@ -10,8 +10,10 @@
 
 (4) Az e rendelet szerinti tevékenységét tárgyévben megkezdő gyártó adatszolgáltatási kötelezettsége teljesítése során
 
-a) a 4. melléklet 1. pont a), e) és f) alpontja szerinti adatokat első alkalommal a tevékenység megkezdését követő évben,
+a)[^67] a 4. melléklet 1. pont a) és f) alpontja szerinti adatokat első alkalommal a tevékenység megkezdését követő évben,
 
 b) a 4. melléklet 1. pont b) alpontja szerinti adatokat első alkalommal a tevékenység megkezdését követő második évben,
 
 c) a 4. melléklet 1. pont c) alpontja szerinti adatokat első alkalommal a tevékenység megkezdését követő harmadik évben
+
+[^67]: A 28. § (4) bekezdés a) pontja a 310/2014. (XII. 11.) Korm. rendelet 16. § (8) bekezdése szerint módosított szöveg.

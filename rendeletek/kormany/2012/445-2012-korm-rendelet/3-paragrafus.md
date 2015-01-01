@@ -14,10 +14,13 @@ nem forgalmazható, beleértve az elektromos és elektronikus berendezés alkot�
 
 a) a vészjelző- és riasztórendszerben (beleértve a vészvilágítást is),
 
-b) az orvosi felszerelésben, vagy
+b)[^3] az orvosi felszerelésben, és
 
 c) a vezeték nélküli elektromos kézi szerszámban
 
 használt hordozható elemre és akkumulátorra nem vonatkozik.
 
-(4) Az (1) bekezdés b) pontja szerinti tilalmat a 2008. szeptember 26-át megelőzően az Európai Gazdasági Térségről szóló megállapodásban részes államok területén forgalomba hozott hordozható elemre, akkumulátorra nem kell alkalmazni.
+(4)[^4] Azok az elemek és akkumulátorok, amelyek nem felelnek meg az (1) bekezdésben előírt követelményeknek, azonban azokat az előírt forgalomba hozatali tilalom alkalmazási időpontját megelőzően jogszerűen hozták forgalomba, a készletek kimerüléséig forgalmazhatók.
+
+[^3]: A 3. § (3) bekezdés b) pontja a 370/2014. (XII. 30.) Korm. rendelet 25. § 1. pontja szerint módosított szöveg.
+[^4]: A 3. § (4) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.

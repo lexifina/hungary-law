@@ -32,6 +32,8 @@
 
 15. speciális gyűjtőhely: az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló miniszteri rendeletben meghatározott hulladékgyűjtő pont;
 
-16. tárgyév: szeptember 27-től a következő naptári év szeptember 26-ig terjedő időszak;
+16.[^2]
 
 17. vezeték nélküli elektromos kézi szerszám: elemről, akkumulátorról működő, karbantartási, építési vagy kertészeti tevékenységre szolgáló, elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendelet szerinti kézi elektromos vagy elektronikus berendezés.
+
+[^2]: A 2. § 16. pontját a 310/2014. (XII. 11.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
