@@ -1,12 +1,12 @@
-1. melléklet a 14/2010. (IV. 28.) SZMM rendelethez[^3]
+1. melléklet a 14/2010. (IV. 28.) SZMM rendelethez[^5]
 
 1. A munkabiztonsági szakértői tevékenység gyakorlására irányuló engedélyezési eljárásban első fokon eljáró hatóságok számlaszámai
 
-1.1 A Nemzeti Munkaügyi Hivatal munkavédelmi és munkaügyi igazgatóságának hatáskörébe tartozó eljárás esetén:
+1.1. A foglalkoztatáspolitikáért felelős miniszter hatáskörébe tartozó eljárás esetén:
 
-Pénzforgalmi számla elnevezése: Nemzeti Munkaügyi Hivatal előirányzat-felhasználási keretszámla
+Pénzforgalmi számla elnevezése: Nemzetgazdasági Minisztérium Igazgatás előirányzat felhasználási keretszámla
 
-Pénzforgalmi számla száma: 10032000-01732630-00000000.
+Pénzforgalmi számla száma: 10032000-01460658-00000000
 
 1.2 A területi mérnöki kamarák hatáskörébe tartozó eljárás esetén:
 
@@ -126,11 +126,7 @@ Pénzforgalmi számla száma: 12092309-00223530-00100008
 
 2. A munkabiztonsági szakértői tevékenység gyakorlására irányuló engedélyezési eljárásban másodfokon eljáró hatóságok számlaszámai
 
-2.1 A foglalkoztatáspolitikáért felelős miniszter hatáskörébe tartozó jogorvoslati eljárás esetén:
-
-Pénzforgalmi számla elnevezése: Szociális és Munkaügyi Minisztérium Igazgatás előirányzat
-
-felhasználási keretszámla
+2.1
 
 Pénzforgalmi számla száma: 10032000-00285568-00000000
 
@@ -140,4 +136,4 @@ Pénzforgalmi számla elnevezése: Magyar Mérnöki Kamara
 
 Pénzforgalmi számla száma: 10102086-68905702-00000007
 
-[^3]: Az 1. melléklet a 3/2012. (II. 10.) NGM rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^5]: Az 1. melléklet a 3/2012. (II. 10.) NGM rendelet 23. § (1) bekezdése, az 55/2014. (XII. 31.) NGM rendelet 10. § (3) bekezdése szerint módosított szöveg.

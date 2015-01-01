@@ -1,8 +1,8 @@
 2. § (1) A díjat a kérelmező
 
-a)[^2] a munkavédelmi és munkaügyi igazgatóság hatáskörébe tartozó eljárások esetén a munkavédelmi és munkaügyi igazgatóság,
+a)[^3] a miniszter hatáskörébe tartozó eljárások esetén a miniszter által vezetett minisztérium,
 
-b) a miniszter hatáskörébe tartozó jogorvoslati eljárás esetén a miniszter által vezetett minisztérium,
+b)[^4]
 
 c) a területi kamarák hatáskörébe tartozó eljárások esetén az illetékes területi kamara,
 
@@ -16,4 +16,5 @@ d) az MMK hatáskörébe tartozó jogorvoslati eljárás esetén az MMK
 
 (4) A díj az eljárást lefolytató engedélyező szerv bevétele. A díjak nyilvántartására és elszámolására az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet rendelkezéseit kell alkalmazni.
 
-[^2]: A 2. § (1) bekezdés a) pontja a 3/2012. (II. 10.) NGM rendelet 23. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés a) pontja a 3/2012. (II. 10.) NGM rendelet 23. § (2) bekezdés b) pontja, az 55/2014. (XII. 31.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdés b) pontját az 55/2014. (XII. 31.) NGM rendelet 10. § (4) bekezdés b) pontja hatályon kívül helyezte.
