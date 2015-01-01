@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-41-00-00
 | 2013-12-20 | 2013. évi CCXIII. törvény | 2012-41-00-00.8 |
 | 2014-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-41-00-00.9 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2012-41-00-00.10 |
+| 2015-01-01 | 2012. évi CCVIII. törvény | 2012-41-00-00.11 |
