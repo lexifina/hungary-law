@@ -2,11 +2,11 @@
 
 a) lefolytatja a Kötv. 29. § (2) bekezdése szerint a műemléki értékek védetté nyilvánításának és a Kötv. 35. § (2) bekezdése szerint a védetté nyilvánítás megszüntetésének előkészítését,
 
-b) intézkedik a Kötv. 74. §-a szerint a védetté nyilvánítás tényének az ingatlan-nyilvántartásba történő bejegyzése iránt, valamint
+b)[^7] intézkedik a Kötv. 74. §-a szerint a védetté nyilvánítás tényének az ingatlan-nyilvántartásba történő feljegyzés iránt.
 
-c) közreműködik a Központi Építészeti-műszaki Tervtanács műemléki testület működésével kapcsolatos feladatok ellátásában.
+c)[^8]
 
-(2) A Központ a Kötv. 63. § (6) bekezdésében meghatározott tudományos feladatainak körében különösen
+(2)[^9] A Központ a tudományos feladatainak körében különösen
 
 a) végzi az ország műemléki értékeinek feltárását, azonosítását, meghatározását és dokumentálását, a műemléki értékekre vonatkozó forrásdokumentumok gyűjtését,
 
@@ -23,3 +23,7 @@ f) részt vesz a műemlékekhez kötődő szakrestaurálások előkészítéséb
 g) ellát szakértői feladatokat, különösen az értékleltár, az építéstörténeti kutatási dokumentáció, a kerttörténeti tudományos dokumentáció készítését, valamint
 
 h) vezeti a Kötv. 71. § (2) bekezdésében szereplő, a Kötv. 72. § (1) bekezdése alapján közhiteles hatósági nyilvántartásnak nem minősülő nyilvántartásokat.
+
+[^7]: Az 7. § (1) bekezdés d) pontja a 372/2014. (XII. 30.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^8]: A 6. § (1) bekezdés c) pontját a 372/2014. (XII. 30.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^9]: A 7. § (2) bekezdés nyitó szövegrésze a 372/2014. (XII. 30.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
