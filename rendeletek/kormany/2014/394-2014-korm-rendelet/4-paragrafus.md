@@ -1,0 +1,5 @@
+4. § (1) A Beruházásokkal összefüggésben az előzetes régészeti dokumentáció elkészítésére és a szükséges megelőző feltárás, próbafeltárás, mentő feltárás és régészeti feltárás elvégzésére a Rómer Flóris Művészeti és Történeti Múzeum jogosult.
+
+(2) A Beruházásokkal érintett műemlék épületrészre bontási engedély és örökségvédelmi engedély iránti kérelem együtt és külön is előterjeszthető.
+
+(3) A Beruházásokkal érintett műemlék épület falfelületeinek vagy szerkezeteinek, továbbá alkotórészeinek és tartozékainak a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló 393/2012. (XII. 20.) Korm. rendelet (a továbbiakban: R.) 3. § (4) bekezdés o) pontja szerinti tudományos vagy műszaki célú kutatása, feltárása, valamint az Ingatlanokon lévő fás szárú növényzetnek az R. 3. § (4) bekezdés n) pontja szerinti eltávolítása örökségvédelmi engedély nélkül az arra jogosult által elvégezhető. Az építőipari kivitelezési tevékenység idején helyszíni szakértői megfigyelést kell alkalmazni, a kivitelezés közben előkerülő műemléki értékek dokumentálását arra jogosulttal el kell végeztetni.
