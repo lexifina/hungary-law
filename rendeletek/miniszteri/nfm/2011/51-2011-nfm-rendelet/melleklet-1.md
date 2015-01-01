@@ -52,7 +52,7 @@
 
 | 21. | Csorna | Csornai Hőszolgáltató Kft. | 4 771 |
 
-| 22. | Debrecen | Debreceni Hőszolgáltató Zrt. | 2 712 |
+| 22. | Debrecen | Debreceni Hőszolgáltató Zrt. | 2 909 |
 
 | 23. | Debrecen | DotEnergo Energetikai és Épületgépészeti Zrt. | 0 |
 
@@ -70,13 +70,13 @@
 
 | 30. | Esztergom | PROMTÁVHŐ Szolgáltató Kft. | 3 123 |
 
-| 31. | Gödöllő | Gödöllői Távhőszolgáltató Kft. | 1 832 |
+| 31. | Gödöllő | Gödöllői Távhőszolgáltató Kft. | 2 175 |
 
 | 32. | Gyöngyös | Városgondozási Zrt. | 1 401 |
 
 | 33. | Győr | Győri Közszolgáltató és Vagyongazdálkodó Zrt. | 2 061 |
 
-| 34. | Hajdúböszörmény | Hajdúböszörményi Városgazdálkodási Kft. | 2 252 |
+| 34. | Hajdúböszörmény | Hajdúböszörményi Városgazdálkodási Nonprofit Kft. | 2 252 |
 
 | 35. | Hajdúnánás | Hajdúnánási Építő és Szolgáltató Kft. | 2 562 |
 
@@ -122,7 +122,7 @@
 
 | 56. | Mosonmagyaróvár | Városüzemeltető és Fenntartó Kft. | 3 713 |
 
-| 57. | Nagyatád | Cothec Kft. | 0 |
+| 57. | Nagyatád | Cothec Kft. | 2 448 |
 
 | 58. | Nagykőrös | KÖVA-KOM Nonprofit Zrt. | 5 714 |
 
@@ -130,7 +130,7 @@
 
 | 60. | Nyírbátor | Nyírbátori Városüzemeltetési Kkh. Nonprofit Kft. | 276 |
 
-| 61. | Nyíregyháza | NYÍRTÁVHŐ Nyíregyházi Távhőszolgáltató Kft. | 4 076 |
+| 61. | Nyíregyháza | NYÍRTÁVHŐ Nyíregyházi Távhőszolgáltató Kft. | 4 185 |
 
 | 62. | Nyíregyháza | Energocoop Kft. | 2 898 |
 
@@ -160,7 +160,7 @@
 
 | 75. | Sárvár | Sárvár Távhő Hőtermelő és Szolgáltató Kft. | 5 941 |
 
-| 76. | Sátoraljaújhely | Cothec Kft. | 1 306 |
+| 76. | Sátoraljaújhely | Cothec Kft. | 2 079 |
 
 | 77. | Siklós | SIKLÓSI TÁVHŐ Nonprofit Kft. | 1 823 |
 
@@ -170,7 +170,7 @@
 
 | 80. | Sopron | Soproni Erőmű Kft. | 0 |
 
-| 81. | Szarvas | Szarvasi Gyógy-Termál Kft. | 423 |
+| 81. | Szarvas | Szarvasi Gyógy-Termál Nonprofit Kft. | 423 |
 
 | 82. | Százhalombatta | „SZÁKOM” Kft. | 1 146 |
 
@@ -255,4 +255,4 @@
 | 15. | Szombathely | Dalkia Energia Energiaszolgáltató Zrt. | Vas Megyei Markusovszky Kórház Nonprofit Zrt. | 1 553 |
 
 [^17]: A 10. § az 59/2012. (X. 31.) NFM rendelet 11. §-ával megállapított szöveg.
-[^18]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a szerint módosított szöveg.
+[^18]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a szerint módosított szöveg.
