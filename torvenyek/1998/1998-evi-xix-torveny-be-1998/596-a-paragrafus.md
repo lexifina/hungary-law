@@ -4,7 +4,7 @@
 
 a) a büntetőeljárás befejezésekor az elektronikus adathoz való hozzáférés ideiglenes megakadályozása volt elrendelve [158/D. § (1) bekezdés], és a hozzáférés megakadályozása továbbra is indokolt,
 
-b) a tárhelyszolgáltató a büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet 91. § (3) bekezdése alapján kiszabott pénzbírság ellenére nem teljesíti a kötelezettséget,
+b) a tárhelyszolgáltató a Bv. tv. 324. § (3) bekezdése alapján kiszabott pénzbírság ellenére nem teljesíti a kötelezettséget,
 
 c) az elektronikus adat végleges hozzáférhetetlenné tételét gyermekpornográfia (Btk. 204. §) megvalósulása miatt rendelte el, és a tárhelyszolgáltató kötelezettségének nem tesz eleget, a pénzbírság kiszabására tekintet nélkül haladéktalanul,
 

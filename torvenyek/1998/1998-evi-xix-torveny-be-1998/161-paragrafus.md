@@ -12,4 +12,4 @@
 
 (6) Az ügyész által kiszabott rendbírság átváltoztatásáról az ügyészség székhelye szerint illetékes nyomozási bíró az iratok alapján dönt.
 
-(7) Az (5) és a (6) bekezdés alapján a rendbírságot elzárásra átváltoztató határozat ellen nincs helye jogorvoslatnak. Az elzárás végrehajtására a szabálysértési jogszabályok irányadók azzal, hogy az elzárás végrehajtásának elhalasztása vagy félbeszakítása csak a megbírságolt személy kórházi gyógykezelésének szükségessége esetén és csak ezen időtartamig engedélyezhető. Az elzárást büntetés-végrehajtási intézetben kell végrehajtani.
+(7) Az (5) és a (6) bekezdés alapján a rendbírságot elzárásra átváltoztató határozat ellen nincs helye jogorvoslatnak.

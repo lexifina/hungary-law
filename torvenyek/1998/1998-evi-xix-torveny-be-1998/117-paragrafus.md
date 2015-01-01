@@ -8,4 +8,4 @@
 
 (5) Ha a terhelt vallomást kíván tenni, a vallomástétel lehetőségét biztosítani kell.
 
-(6) A (2) és (4) bekezdésben meghatározott figyelmeztetéseket a fiatalkorú terhelt korára, érettségére figyelemmel, számára érthető módon kell megfogalmazni.
+(6)

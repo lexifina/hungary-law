@@ -8,11 +8,23 @@ b) a vádirat benyújtása után a bíróság az igazságügyért felelős minis
 
 felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó hatálya.
 
-(2) A büntetés elengedése vagy mérséklése iránti kérelem, illetőleg előterjesztés esetén az igazságügyért felelős miniszter elrendelheti a büntetés, illetőleg az 597. § (1) bekezdése szerinti intézkedés végrehajtásának a köztársasági elnök döntéséig történő elhalasztását vagy félbeszakítását. Az igazságügyért felelős miniszter az előterjesztés előkészítése során – a büntetés végrehajtásának megkezdésére halasztó hatállyal – elrendelheti az elítéltnek a büntetés-végrehajtás központi kórházában történő szakorvosi vizsgálatát.
+(2) A legfőbb ügyész, illetve az igazságügyért felelős miniszter a 71. § szerinti megkereséssel élhet további olyan adatok vagy iratok beszerzése érdekében, amelyekre a kegyelmi kérelem hivatkozik, vagy amelyek a kegyelmi eljárás lefolytatásához szükségesek. A megkeresésre ilyen esetben a 71. § (1)–(5) és (7) bekezdését kell megfelelően alkalmazni.
+
+(2a) A legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során törvényben meghatározott adatkörben adatokat igényelhet a következő nyilvántartásokból:
+
+a) bűnügyi nyilvántartási rendszer,
+
+b) szabálysértési nyilvántartási rendszer,
+
+c) polgárok személyi adatainak és lakcímének nyilvántartása,
+
+d) közúti közlekedési nyilvántartás,
+
+e) központi idegenrendészeti nyilvántartás.
 
 (3) A legfőbb ügyész, illetőleg az igazságügyért felelős miniszter a kegyelmi kérelmet a köztársasági elnökhöz akkor is felterjeszti, ha a kegyelem gyakorlása iránt nem tesz előterjesztést.
 
-(4) A kegyelmi döntésről szóló határozatot a terheltnek és a kegyelmi kérelem előterjesztőjének az a bíróság, illetőleg ügyész kézbesíti, amely előtt az eljárás folyik. Ha a kegyelmi kérelmet a határozat jogerőre emelkedését követően terjesztették elő, a kegyelmi döntésről szóló határozatot az ügyben első fokon eljárt bíróság kézbesíti az elítéltnek, és a kegyelmi kérelem előterjesztőjének. Ha az elítélt a szabadságvesztését, illetve a javítóintézeti nevelését tölti, részére a kegyelmi döntésről szóló határozatot az igazságügyért felelős miniszter közvetlenül a büntetés-végrehajtási intézet, illetve a javítóintézet útján kézbesíti, egyben értesíti az első fokon eljárt bíróságot.
+(4) A kegyelmi döntésről szóló határozatot a terheltnek és a kegyelmi kérelem előterjesztőjének az a bíróság, illetőleg ügyész kézbesíti, amely előtt az eljárás folyik.
 
 (5) A (4) bekezdés szerinti értesítés tartalmazza a kegyelmi határozat számát, a határozathozatal idejét, az igazságügyért felelős miniszter ellenjegyzésének keltét, a kegyelmi döntéssel érintett határozatokat hozó bíróság vagy ügyész megnevezését, az érintett határozatok számát és azok meghozatalának idejét, és a kegyelmi döntés tartalmát. Ha a köztársasági elnök kegyelmet gyakorolt, az értesítés tartalmazza a kegyelemhez fűződő jogkövetkezményekről szóló tájékoztatást is.
 

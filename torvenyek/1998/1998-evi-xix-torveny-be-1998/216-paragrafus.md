@@ -16,7 +16,7 @@ d) az ügyet közvetítői eljárásra utalhatja, illetve a vádemelés elhalasz
 
 e) vádat emel, vagy határoz a vádemelés részbeni mellőzéséről.
 
-(2) Ha az ügyész a közvetítői eljárásra utalásról vagy a vádemelés elhalasztásáról való döntéshez pártfogó felügyelői vélemény beszerzését rendeli el, a pártfogó felügyelői vélemény elkészítésének ideje az (1) bekezdés szerinti határidőbe nem számít bele.
+(2) Ha az ügyész a közvetítői eljárásra utalásról vagy a vádemelés elhalasztásáról való döntéshez pártfogó felügyelői vélemény beszerzését rendeli el, vagy azt e törvény kötelezővé teszi, a pártfogó felügyelői vélemény elkészítésének ideje az (1) bekezdés szerinti határidőbe nem számít bele.
 
 (3) Az (1) bekezdésben megjelölt határidőt az ügyészség vezetője kivételes esetben harminc nappal meghosszabbíthatja. Nagy terjedelmű ügyben az ügyészség vezetőjének javaslatára a felettes ügyész kivételesen ennél hosszabb – legfeljebb kilencven napos – határidőt is engedélyezhet. A határidőt az (1) bekezdés a) pontjában szabályozott esetben a nyomozási cselekmény elvégzésétől kell számítani.
 

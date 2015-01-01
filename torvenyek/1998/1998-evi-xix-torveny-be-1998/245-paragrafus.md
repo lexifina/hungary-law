@@ -1,6 +1,6 @@
 ## A tárgyalás rendjének fenntartása
 
-245. § (1) A tárgyalóterembe – a büntetés-végrehajtási testület és a rendőrség szolgálati feladatot ellátó tagjain kívül – fegyverrel vagy rendbontásra alkalmas eszközzel senki sem léphet be. A tárgyalásra idézett személy a fegyverét nem hozhatja be a tárgyalóterembe.
+245. § (1) A tárgyalóterembe – a büntetés-végrehajtási szervezet és a rendőrség szolgálati feladatot ellátó tagjain kívül – fegyverrel vagy rendbontásra alkalmas eszközzel senki sem léphet be. A tárgyalásra idézett személy a fegyverét nem hozhatja be a tárgyalóterembe.
 
 (2) Azt, aki a tárgyalás rendjét zavarja, a tanács elnöke rendre utasítja, ismételt vagy súlyos rendzavarás esetén a tárgyalásról kiutasíthatja, illetőleg kivezettetheti. A tanács elnöke ugyanígy jár el azzal szemben, aki a tárgyalás szabályszerű menetét zavarja.
 
