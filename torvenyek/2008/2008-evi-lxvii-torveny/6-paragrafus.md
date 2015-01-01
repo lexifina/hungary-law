@@ -6,9 +6,9 @@
 
 a)
 
-b) a visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, az ellenérték nélkül átvállalt kötelezettség egyéb vagy rendkívüli ráfordításként az adóévi adózás előtti eredmény terhére elszámolt összege,
+b) a visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az ellenérték nélkül átvállalt kötelezettség egyéb vagy rendkívüli ráfordításként az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ide nem értve a helyi önkormányzat részére történő, törvényben meghatározott kötelezettségen alapuló juttatást,
 
-c) az adóalany jogutódlással (átalakulással, egyesüléssel, szétválással) történő megszűnése esetén a jogelődnél utolsó adóévében, az adóalanyból történő kiválás esetén a jogutódnál első adóévében, a végleges vagyonmérlegében kimutatott pozitív összevont átértékelési különbözet, a (4) bekezdésben meghatározott kivétellel,
+c) az adóalany jogutódlással (átalakulással, egyesüléssel, szétválással) történő megszűnése esetén a jogelődnél utolsó adóévében, az adóalanyból történő kiválás esetén a jogutódnál első adóévében, a végleges vagyonmérlegében kimutatott pozitív összevont átértékelési különbözet a várható kötelezettségekre és a jövőbeni költségekre képzett céltartalék felértékelésével növelt, valamint korábban az adózás előtti eredményt növelő tételként számításba vett céltartalék leértékelésével csökkentett összege, a (4) bekezdésben meghatározott kivétellel,
 
 d) a (3) bekezdés c) pontja alapján csökkentő tételként figyelembe vett összegből a kedvezményezett részesedéscsere alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján csökkentő tételként figyelembe vett) összeg, figyelemmel a (12) bekezdésben foglaltakra, továbbá az adóalany jogutód nélküli megszűnésének adóévében a (3) bekezdés c) pontja alapján csökkentő tételként figyelembe vett összegből az a rész, amelyet az adóalany még nem számolt el növelő tételként,
 
@@ -16,13 +16,15 @@ e) a (3) bekezdés d) pontja alapján csökkentő tételként figyelembe vett ö
 
 f) a forintról devizára, devizáról forintra vagy devizáról más devizára való áttérés során a tőketartalék növeléseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
 
-g) az adóellenőrzés, önellenőrzés során megállapított, adóévi költségként, ráfordításként vagy adóévi nettó árbevétel, bevétel, aktivált saját teljesítmény csökkentéseként elszámolt összeg.
+g) az adóellenőrzés, önellenőrzés során megállapított, adóévi költségként, ráfordításként vagy adóévi nettó árbevétel, bevétel, aktivált saját teljesítmény csökkentéseként elszámolt összeg,
+
+h) a várható kötelezettségekre és a jövőbeni költségekre képzett céltartalék, céltartalékot növelő összeg következtében az adóévben elszámolt ráfordítás.
 
 (3) Csökkentő tételek:
 
 a) az adózás előtti eredmény javára elszámolt kapott (járó) osztalék, az ellenőrzött külföldi társaságtól kapott osztalék kivételével,
 
-b) az adózás előtti eredmény javára elszámolt visszafizetési kötelezettség nélkül kapott támogatás, juttatás, véglegesen átvett pénzeszköz, az ellenérték nélkül átvállalt tartozásnak az adóévi adózás előtti eredmény javára elszámolt összege,
+b) az adózás előtti eredmény javára elszámolt visszafizetési kötelezettség nélkül kapott támogatás, juttatás, véglegesen átvett pénzeszköz, a térítés nélkül átvett eszköz bekerülési értéke, az ellenérték nélkül átvállalt tartozásnak az adóévi adózás előtti eredmény javára elszámolt összege, az adóévben térítés nélkül kapott szolgáltatás bekerülési értéke, ide nem értve a helyi önkormányzat által adott, törvényben meghatározott kötelezettségen alapuló juttatást,
 
 c) a kedvezményezett részesedéscsere alapján kivezetett részesedésre az adóévben elszámolt árfolyamnyereség a megszerzett társaság tagjánál (részvényesénél), ha a tag (a részvényes) alkalmazni kívánja e csökkentő tételt, feltéve, hogy a tag (a részvényes) a kedvezményezett részesedéscsere alapján megszerzett valamennyi részesedést elkülönítetten tartja nyilván,
 
@@ -33,6 +35,8 @@ e) kedvezményezett eszközátruházás esetén az átruházó társaságnál �
 f) a forintról devizára, devizáról forintra vagy devizáról más devizára való áttérés következtében az eredménytartalék csökkentéseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
 
 g) az adóellenőrzés, önellenőrzés során megállapított, adóévi bevételként, vagy aktivált saját teljesítmény növeléseként vagy adóévi költség, ráfordítás csökkenéseként elszámolt összeg,
+
+h) a várható kötelezettségekre és a jövőbeni költségekre képzett céltartalék felhasználása miatt az adóévben bevételként elszámolt összeg, ha azt az adózó korábban a (2) bekezdés c) vagy h) pontja alapján az adózás előtti eredményt növelő tételként vette számításba, amelyet az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazol,
 
 i) a tulajdoni részesedésre visszaírt értékvesztés, ha azt az adózó korábban a (2) bekezdés d) vagy e) pontja alapján az adózás előtti eredményt növelő tételként vette számításba, amelyet az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazol.
 

@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-67-00-00
 | 2013-11-30 | 2013. évi CC. törvény | 2008-67-00-00.11 |
 | 2014-01-01 | 2013. évi CC. törvény | 2008-67-00-00.12 |
 | 2014-11-27 | 2014. évi LXXIV. törvény | 2008-67-00-00.13 |
+| 2015-01-01 | 2014. évi LXXIV. törvény | 2008-67-00-00.14 |
