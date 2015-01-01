@@ -1,7 +1,3 @@
-## 15. § Ez a rendelet
+15. §[^10] Ez a rendelet a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló 2013. május 3-i 391/2013/EU bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-a) a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló, 2006. december 6-i 1794/2006/EK európai bizottsági rendelet,
-
-b) a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló 1794/2006/EK rendelet módosításáról szóló, 2010. december 6-i 1191/2010/EU bizottsági rendelet
-
-végrehajtásához szükséges rendelkezéseket állapítja meg.
+[^10]: A 15. § a 47/2014. (XI. 27.) NFM rendelet 5. §-ával megállapított szöveg.
