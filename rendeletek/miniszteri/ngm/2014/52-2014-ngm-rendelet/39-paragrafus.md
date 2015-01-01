@@ -1,1 +1,3 @@
-39. § Hatályát veszti a Turisztikai Célelőirányzat felhasználásának és kezelésének részletes szabályairól szóló 8/2013. (II. 28.) NFM rendelet.
+39. §[^2]
+
+[^2]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
