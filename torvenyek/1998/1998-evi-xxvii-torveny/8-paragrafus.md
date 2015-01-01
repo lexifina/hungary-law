@@ -28,6 +28,6 @@ d) a kérelemben foglalt tevékenységhez hozzájáruló, azt feltételekhez kö
 
 – a természetes változása következtében kialakuló új hatást.
 
-(5) A (2) bekezdés c) pontjában meghatározott ellenőrző kísérletek és vizsgálatok elvégzésének költségeit a hasznosító viseli. A (3) bekezdésben meghatározott szakértők közreműködésének költségeit a szakterületüknek megfelelően a természetvédelemért, a kutatás-fejlesztésért és technológiai innovációért, az egészségügyért, valamint az oktatásért felelős miniszter által vezetett minisztérium költségvetési előirányzataiban kell biztosítani.
+(5) A (2) bekezdés c) pontjában meghatározott ellenőrző kísérletek és vizsgálatok elvégzésének költségeit a hasznosító viseli. A (3) bekezdésben meghatározott szakértők közreműködésének költségeit a szakterületüknek megfelelően a természetvédelemért, az egészségügyért, valamint az oktatásért felelős miniszter által vezetett minisztérium, továbbá a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal költségvetési előirányzataiban kell biztosítani.
 
 (6) A Géntechnológiai Bizottság a kérelemre vonatkozó véleményét a géntechnológiai hatóságnak a kérelem kézhezvételétől számított 30 napon belül megküldi.

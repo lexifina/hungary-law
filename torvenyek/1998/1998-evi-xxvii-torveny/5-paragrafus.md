@@ -14,7 +14,7 @@ d) az egészségügyért felelős miniszter az egészségügy területéről egy
 
 e) az oktatásért felelős miniszter az oktatás területéről egy,
 
-f) a kutatás-fejlesztésért és technológiai innovációért felelős miniszter egy,
+f) Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke egy,
 
 g) a környezetvédelmi céllal bejegyzett civil szervezetek közösen négy,
 
@@ -26,8 +26,8 @@ képviselőt küldenek.
 
 (4) Nem lehetnek a Géntechnológiai Bizottság tagjai a minisztériumokkal kormányzati szolgálati jogviszonyban lévő személyek. A Géntechnológiai Bizottság tagjai géntechnológiai tevékenységben anyagilag sem közvetlenül, sem közvetve nem lehetnek érdekeltek. A tagok a Géntechnológiai Bizottság munkájában való részvétel előtt összeférhetetlenségi nyilatkozatot tesznek, amely a géntechnológiai hatóság honlapján közzétételre kerül.
 
-(5) A Géntechnológiai Bizottság ülésein a Bizottság meghívására tanácskozási joggal részt vehet a hasznosító is. A Bizottság működési feltételeiről a kutatás-fejlesztésért és technológiai innovációért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel együttesen – a szakterületükön véleményezett ügyekkel arányosan – az agrárpolitikáért felelős miniszter gondoskodik, aki felkéri a tagokat a Bizottság működésében való részvételre.
+(5) A Géntechnológiai Bizottság ülésein a Bizottság meghívására tanácskozási joggal részt vehet a hasznosító is. A Bizottság működési feltételeiről a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnökével, valamint az egészségügyért felelős miniszterrel együttesen – a szakterületükön véleményezett ügyekkel arányosan – az agrárpolitikáért felelős miniszter gondoskodik, aki felkéri a tagokat a Bizottság működésében való részvételre.
 
 (6) A Géntechnológiai Bizottság a tagjai közül titkos szavazással, egyszerű szótöbbséggel elnököt választ. Az elnök megbízatása két évre szól. A Bizottság munkáját a tagok közül választott titkár segíti. Az elnöki és a titkári tisztségek betöltésének időtartama nem haladhatja meg a négy évet.
 
-(7) A Géntechnológiai Bizottság szervezetére és működésére vonatkozó egyéb szabályokat e törvény felhatalmazása alapján kiadott jogszabály állapítja meg.
+(7) A Géntechnológiai Bizottság szervezetére és működésére vonatkozó egyéb szabályokat e törvény felhatalmazása alapján kiadott jogszabály állapítja meg. A jogszabály előkészítése során a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal véleményét ki kell kérni.
