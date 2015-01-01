@@ -8,7 +8,7 @@ ab) önként kéri a nyilvántartásba vételét, továbbá
 
 b) az akkreditált munkaadókról, valamint
 
-c) az akkreditált munkaadók megváltozott munkaképességű munkavállalók számára felajánlott betöltetlen álláshelyeiről.
+c) az akkreditált és egyéb munkaadók megváltozott munkaképességű munkavállalók számára felajánlott betöltetlen álláshelyeiről.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza:
 
@@ -16,19 +16,27 @@ a) az (1) bekezdés a) pontja szerinti megváltozott munkaképességű személy
 
 aa) természetes személyazonosító adatait, társadalombiztosítási azonosító jelét,
 
-ab) állampolgárságát, bevándorolt, letelepedett, menekült vagy oltalmazott jogállását,
+ab) nemét,
 
-ac) lakó- és tartózkodási helyét, értesítési címét, telefonszámát, elektronikus levélcímét,
+ac) állampolgárságát, bevándorolt, letelepedett, menekült vagy oltalmazott jogállását,
 
-ad) a komplex minősítés során megállapított körülményekre vonatkozó adatokat, ha a megváltozott munkaképességű személy rendelkezik komplex minősítéssel,
+ad) lakó- és tartózkodási helyét, értesítési címét, telefonszámát, elektronikus levélcímét, írásbeli hozzájárulása esetén a közeli hozzátartozója nevét, telefonszámát, elektronikus levélcímét,
 
-ae) iskolai végzettségét, szakképzettségét, egyéb végzettségét, jártasságát,
+ae) korábbi minősítések, illetve a komplex minősítés során megállapított körülményeire (rehabilitálhatóságára) vonatkozó adatokat, ha a megváltozott munkaképességű személy rendelkezik komplex minősítéssel,
 
-af) betöltött munkaköreit, tevékenységeit,
+af) szociális helyzetére, ellátásaira és orvosi rehabilitációs szükségleteire vonatkozó adatokat,
 
-ag) által megjelölt azon területeket, amelyek tekintetében a betöltetlen álláshelyekről értesítést kér;
+ag) iskolai végzettségére, szakképzettségére, egyéb végzettségére, jártasságára vonatkozó adatokat,
 
-b) az akkreditált munkaadó
+ah) keresőtevékenységére, foglalkoztatására, munkahelyére, munkakörére, tevékenységeire vonatkozó adatokat,
+
+ai) munkavállalásának személyes és egyéb körülményeire vonatkozó adatokat,
+
+aj) részére nyújtott rehabilitációs szolgáltatásokra vonatkozó adatokat,
+
+ak) által megjelölt azon területeket, amelyek tekintetében a betöltetlen álláshelyekről értesítést kér;
+
+b) az akkreditált és egyéb munkaadó
 
 ba) nevét,
 
@@ -56,11 +64,11 @@ ce) a bejelentés időpontját.
 
 (3) Törölni kell az (1) bekezdés szerinti nyilvántartásból
 
-a) az (1) bekezdés a) pont aa) alpontja alapján nyilvántartásba vett személy adatait az ellátás megszüntetését követően, amennyiben ezt kéri, de legkésőbb az ellátás megszüntetését követő 5 év elteltével,
+a) az (1) bekezdés a) pont aa) alpontja alapján nyilvántartásba vett személy és közeli hozzátartozója adatait az ellátás megszüntetését követően, amennyiben ezt kéri, de legkésőbb az ellátás megszüntetését követő 5 év elteltével,
 
 b) az akkreditált munkaadó adatait az akkreditált munkaadói minősége megszűnését követő 5 év elteltével,
 
-c) a nyilvántartásba vételét önként kérő megváltozott munkaképességű személynek az adatait, amennyiben ezt kéri, de legkésőbb az adatfelvételt követő 5 év elteltével.
+c) a nyilvántartásba vételét önként kérő megváltozott munkaképességű személynek, valamint a nem akkreditált munkaadónak az adatait, amennyiben ezt kéri, de legkésőbb az adatfelvételt követő 5 év elteltével.
 
 (4) Az állami foglalkoztatási szerv munkaerő-piaci szolgáltatások nyújtása céljából a (2) bekezdés c) pontjában meghatározott adatokat közvetlen hozzáféréssel átveheti.
 

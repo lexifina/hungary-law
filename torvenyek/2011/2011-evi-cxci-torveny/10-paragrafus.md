@@ -6,7 +6,7 @@ a) kérte,
 
 b) ellátásának időtartama eltelt,
 
-c) más rendszeres pénzellátásban részesül, ide nem értve a keresőképtelenségre tekintettel folyósított táppénzt, baleseti táppénzt,
+c) más rendszeres pénzellátásban részesül, ide nem értve a keresőképtelenségre tekintettel folyósított táppénzt, baleseti táppénzt, valamint az Ebtv. 42/C. § (1) bekezdés b) pontjában foglaltakra tekintettel megállapított gyermekgondozási díjat,
 
 d) egészségi állapotában olyan tartós rosszabbodás következett be, amely a rehabilitációt lehetetlenné teszi,
 

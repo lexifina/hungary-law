@@ -24,7 +24,7 @@ b) aki 2011. december 31-én rokkantsági nyugdíjban, baleseti rokkantsági nyu
 
 (3) Az (1) bekezdés a) pontja szerinti biztosítási időbe be kell számítani
 
-a) a biztosítás megszűnését követő táppénz, baleseti táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, álláskeresési támogatás folyósításának az idejét,
+a) a biztosítás megszűnését követő táppénz, baleseti táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj, álláskeresési támogatás folyósításának az idejét,
 
 b) a rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rehabilitációs járadék, egészségkárosodott személyek szociális járadékai és megváltozott munkaképességű személyek ellátása folyósításának idejét.
 

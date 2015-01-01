@@ -4,7 +4,7 @@
 
 a) kérte,
 
-b) más rendszeres pénzellátásban részesül, ide nem értve a keresőképtelenségre tekintettel folyósított táppénzt, baleseti táppénzt,
+b) más rendszeres pénzellátásban részesül, ide nem értve a keresőképtelenségre tekintettel folyósított táppénzt, baleseti táppénzt, valamint az Ebtv. 42/C. § (1) bekezdés b) pontjában foglaltakra tekintettel megállapított gyermekgondozási díjat,
 
 c) egészségi állapotában olyan tartós javulás következett be, amely alapján a jogosultsági feltételek már nem állnak fenn,
 

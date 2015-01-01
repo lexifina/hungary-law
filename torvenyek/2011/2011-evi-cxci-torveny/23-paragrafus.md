@@ -18,7 +18,9 @@ c) az önkéntes tartalékos katonai szolgálati viszonnyal rendelkező munkavá
 
 d) a Munka Törvénykönyvéről szóló törvény alapján más munkáltatónál történő átmeneti munkavégzés során foglalkoztatott munkavállalót,
 
-e) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó hivatásos és szerződéses katonát.
+e) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó hivatásos és szerződéses katonát,
+
+f) a nevelőszülői foglalkoztatási jogviszonyban álló személyt annál a munkaadónál, aki őt nevelőszülőként foglalkoztatja.
 
 (3) A rehabilitációs hozzájárulás éves összege a kötelező foglalkoztatási szintből hiányzó létszám, valamint a rehabilitációs hozzájárulás szorzata.
 

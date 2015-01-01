@@ -20,7 +20,7 @@ a megkereséstől számított tizenöt napon belül közli.
 
 (5) A rehabilitációs hatóság megkeresésére – az ellátás megállapítása céljából – az egészségbiztosítási szerv
 
-a) tizenöt napon belül közli a táppénz, baleseti táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj folyósításának időtartamára,
+a) tizenöt napon belül közli a táppénz, baleseti táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj folyósításának időtartamára,
 
 b)
 
