@@ -8,7 +8,7 @@ b) a járványügyi érdekből felügyelet alá vont kórokozók, valamint a fer
 
 c) a halál tényének és okának bejelentésére vonatkozó részletes szabályokat,
 
-d) a veleszületett rendellenességek bejelentésére és nyilvántartására vonatkozó részletes szabályokat,
+d) a Veleszületett Rendellenességek Országos Nyilvántartását vezető szervet kijelölje, valamint a veleszületett rendellenességek bejelentésére és nyilvántartására vonatkozó részletes szabályokat,
 
 e) a 20. § (4) bekezdés szerinti adatok körének meghatározására, gyűjtésére, feldolgozására, bejelentésére és közzétételére vonatkozó részletes szabályokat,
 

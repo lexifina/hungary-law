@@ -14,7 +14,7 @@
 
 (5) A 4. § (1) bekezdés b)–c) pontjai és a 4. § (2) bekezdés b) pontja szerinti célból daganatos eredetű betegség észlelése esetén a betegellátó továbbítja az érintett egészségügyi és személyazonosító adatait a külön jogszabály szerint vezetett Nemzeti Rákregiszternek.
 
-(6) Az egészségbiztosítási szerv – a 4. § (1) bekezdés c)–d) pontjai és a 4. § (2) bekezdés b) pontja szerinti célból – az egyes daganatos betegségekkel kapcsolatos epidemiológiai és népegészségügyi, valamint ellátásmegfelelőségi vizsgálatok tervezése, értékelése érdekében a feladat ellátásához szükséges mértékben és ideig kezelheti az érintett egészségügyi és személyazonosító adatait, és azokat továbbítja az (5) és (7) bekezdés szerinti, daganatos eredetű megbetegedéseket nyilvántartó regiszterek részére.
+(6) Az egészségbiztosítási szerv a kezelésében lévő, daganatos eredetű betegséggel diagnosztizált betegek személyazonosító és a daganatos eredetű betegségre vonatkozó egészségügyi adatait – a 4. § (1) bekezdés b) és c) pontja, valamint a 4. § (2) bekezdés b) pontja szerinti célból – továbbítja az (5) és (7) bekezdés szerinti, daganatos eredetű megbetegedéseket nyilvántartó regiszterek részére.
 
 (7) A 4. § (1) bekezdés b)–c) pontjai és a 4. § (2) bekezdés b) pontja szerinti célból, a gyermekek daganatos eredetű megbetegedéseinek nyilvántartása érdekében a külön jogszabály szerint vezetett, az érintett egészségügyi és személyazonosító adatait tartalmazó Gyermekonkológiai Regiszter működik.
 

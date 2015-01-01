@@ -22,4 +22,4 @@ b) az a) pontban foglaltakon túl az egészségügyi szolgáltatást igénybe ve
 
 c) az egészségügyi szolgáltatást igénybe vevő diagnózisának, a részére nyújtott egészségügyi szolgáltatásnak (ideértve a különleges táplálkozási igényt kielégítő tápszereket) a megnevezését, kódját.
 
-(6) Az (5) bekezdés szerinti adatokat azok felvételétől számított 15 évig, amennyiben az adatkezeléssel érintett ügyben bírósági eljárás indult, akkor az ügy lezárásának időpontjáig lehet kezelni. Ezt követően az adatokat meg kell fosztani a személyes azonosítás lehetőségétől.
+(6) Az (5) bekezdés szerinti adatokat az egészségbiztosítási szerv nyilvántartásába való bekerüléstől számított 30 évig, amennyiben az adatkezeléssel érintett ügyben bírósági eljárás indult, akkor az ügy lezárásának időpontjáig lehet kezelni. Ezt követően az adatokat meg kell fosztani a személyes azonosítás lehetőségétől.
