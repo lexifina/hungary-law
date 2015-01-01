@@ -1,11 +1,13 @@
-## 4. §[^4]
+## 4. § A fővárosi és megyei kormányhivatalok mezőgazdasági szakigazgatási szerveinek kijelöléséről szóló 328/2010. (XII. 27.) Korm. rendelet 3. melléklet 6. pont 6.4 alpontja helyébe a következő rendelkezés lép:
+
+## „6.4 Enyingi Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatal
+
+## Enyingi Járás”
 
 ## 5. A járási (fővárosi kerületi) hivatalokról szóló 218/2012. (VIII. 13.) Korm. rendelet módosítása
 
-5. § (1)[^5]
+5. § (1)[^2]
 
-(2)–(9)[^6]
+(2) Az R1. a következő 13. §-sal egészül ki:
 
-[^4]: A 4. § a 7. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^5]: Az 5. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 5. § (2)–(9) bekezdése a 7. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^2]: Az 5. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
