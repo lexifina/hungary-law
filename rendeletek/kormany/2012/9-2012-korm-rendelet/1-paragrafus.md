@@ -1,6 +1,6 @@
 ## 1. A minősítés iránti kérelem
 
-1. § (1) A kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény (a továbbiakban: innovációs törvény) 30/A. § (1) bekezdése szerinti minősítés (a továbbiakban: minősítés) iránti kérelemnek (a továbbiakban: minősítés iránti kérelem) tartalmaznia kell:
+1. § (1)[^1] A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: innovációs törvény) 36. § (1) bekezdése szerinti minősítés (a továbbiakban: minősítés) iránti kérelemnek (a továbbiakban: minősítés iránti kérelem) tartalmaznia kell:
 
 a) a kérelmező nevét és székhelyét, valamint a kapcsolattartást lehetővé tevő adatait és adószámát;
 
@@ -47,3 +47,5 @@ b) a vezető kutatón kívül a projektben részt vevő, további meghatározó 
 (6) A minősítés iránti kérelemben a kérelmező egy adott projekt minősítését igényelheti. Egy projektnek minősül egy adott kutatás-fejlesztési cél elérésére irányuló módszeres tevékenység, amely egy tudományos problémával vagy olyan tudományos problémák csoportjával foglalkozik, amelyeket egyetlen általános kutatási gondolat köt össze.
 
 (7) A minősítés iránti kérelemben csak olyan projekt minősítését lehet igényelni, amelyben a kérelmező részt vesz. A minősítési kérelmet csak egy kérelmező nyújthatja be, együttes kérelem benyújtásának nincs helye. Kutatás-fejlesztési megállapodás alapján, közös tevékenység keretében megvalósított projekt esetén a minősítés kérdésében hozott döntés hatálya csak a kérelmezőre, valamint a kérelemben leírt, általa végzett tevékenységre terjed ki.
+
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 381/2014. (XII. 31.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
