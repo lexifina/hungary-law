@@ -1,4 +1,4 @@
-## 14. §[^1]
+## 14. §[^2] A 8. §-t és a 10–12. §-t az egyes közvetlen adózási tárgyú PM rendeletek, továbbá az illetékbélyegek előállításáról, forgalomba hozataláról és forgalmazásáról szóló 32/2014. (X. 21.) NGM rendelet módosításáról szóló 54/2014. (XII. 31.) NGM rendelet (a továbbiakban: Módr.) hatálybalépését[^3] megelőzően gyártott és a Módr. rendelet hatálybalépését követően a Magyar Posta Zrt. által értékesített illetékbélyegek forgalmazására, elszámolására és selejtezésére is alkalmazni kell.
 
 1. melléklet a 32/2014. (X. 21.) NGM rendelethez
 
@@ -64,4 +64,5 @@ Szűkebb hullámhossztartományban sugárzó UV lámpákkal vizsgálva – speci
 
 – 5000 forintos címletű illetékbélyeg esetében vörös helyett sötétvörös.
 
-[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 54/2014. (XII. 31.) NGM rendelet 22. §-a iktatta be.
+[^3]: A hatálybalépés időpontja 2015. január 1.
