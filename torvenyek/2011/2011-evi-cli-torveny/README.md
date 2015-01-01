@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-151-00-00
 | 2013-12-11 | 2013. évi CCVII. törvény | 2011-151-00-00.4 |
 | 2013-12-19 | 2013. évi CCXXIII. törvény | 2011-151-00-00.5 |
 | 2014-01-18 | 2013. évi CCXXXVIII. törvény | 2011-151-00-00.6 |
+| 2015-01-01 | 2014. évi CI. törvény | 2011-151-00-00.7 |
