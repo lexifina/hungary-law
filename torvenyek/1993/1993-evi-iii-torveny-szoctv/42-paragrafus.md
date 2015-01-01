@@ -1,20 +1,18 @@
 42. § (1) Nem jogosult ápolási díjra a hozzátartozó, ha
 
-a) az ápolt személy két hónapot meghaladóan fekvőbeteg-gyógyintézeti, valamint nappali ellátást nyújtó vagy bentlakásos szociális intézményi ellátásban, illetőleg óvodai, gyermekvédelmi szakellátást nyújtó bentlakásos intézményi elhelyezésben részesül, vagy közoktatási intézmény tanulója, illetőleg felsőoktatási intézmény nappali tagozatos hallgatója kivéve, ha
+a) az ápolt személy két hónapot meghaladóan fekvőbeteg-gyógyintézeti, valamint nappali ellátást nyújtó vagy bentlakásos szociális intézményi ellátásban, óvodai elhelyezésben vagy gyermekvédelmi szakellátást nyújtó bentlakásos intézményi elhelyezésben részesül, illetve köznevelési intézmény tanulója vagy felsőoktatási intézmény nappali képzésben részt vevő hallgatója, kivéve, ha
 
-aa) a közoktatási intézményben eltöltött idő a kötelező tanórai foglalkozások időtartamát nem haladja meg, vagy
+aa) a köznevelési intézményben eltöltött idő a nemzeti köznevelésről szóló törvényben a köznevelési intézményben való kötelező tartózkodásra meghatározott időtartamot nem haladja meg,
 
-ab) az óvoda, a nappali ellátást nyújtó szociális intézmény igénybevételének, illetőleg a felsőoktatási intézmény látogatási kötelezettségének időtartama átlagosan a napi 5 órát nem haladja meg, vagy
+ab) az óvoda vagy a nappali ellátást nyújtó szociális intézmény igénybevételének, illetve a felsőoktatási intézmény látogatási kötelezettségének időtartama átlagosan a napi 5 órát nem haladja meg,
 
-ac) az óvoda, a közoktatási, illetőleg a felsőoktatási intézmény látogatása, vagy a nappali ellátást nyújtó szociális intézmény igénybevétele csak az ápolást végző személy rendszeres közreműködésével valósítható meg;
+ac) a köznevelési, illetve a felsőoktatási intézmény látogatása, vagy a nappali ellátást nyújtó szociális intézmény igénybevétele csak az ápolást végző személy rendszeres közreműködésével valósítható meg,
 
-b) rendszeres pénzellátásban – ide nem értve az e) pont szerinti ellátást – részesül, és annak összege meghaladja az ápolási díj összegét, ide nem értve a (4) bekezdés szerinti esetet, valamint azt a táppénzt, amelyet az ápolási díj folyósításának időtartama alatt végzett keresőtevékenységéből adódó biztosítási jogviszony alapján – keresőképtelenné válása esetén – folyósítanak,
+b) rendszeres pénzellátásban részesül, és annak összege meghaladja az ápolási díj összegét, ide nem értve a (4) bekezdés szerinti esetet, valamint azt a táppénzt, amelyet az ápolási díj folyósításának időtartama alatt végzett keresőtevékenységéből adódó biztosítási jogviszony alapján – keresőképtelenné válása esetén – folyósítanak,
 
-c) szakiskola, középiskola, illetve felsőoktatási intézmény nappali tagozatos tanulója, hallgatója;
+c) szakiskola, középiskola nappali rendszerű képzésének tanulója, illetve felsőoktatási intézmény nappali képzésben részt vevő hallgatója,
 
 d) keresőtevékenységet folytat és munkaideje – az otthon történő munkavégzés kivételével – a napi 4 órát meghaladja.
-
-e)
 
 (2) Az ápolási díjra való jogosultságot meg kell szüntetni, ha
 
@@ -30,20 +28,12 @@ e) az (1) bekezdésben megjelölt jogosultságot kizáró körülmény következ
 
 (3) Az ápolt személy halála esetén az ápolási díj folyósítását a halál időpontját követő második hónap utolsó napjával kell megszüntetni.
 
-(4) A 41. § (1) bekezdésének a) pontja szerinti ápolási díjra való jogosultság továbbra is fennáll, ha az ápolási díjban részesülő személy
+(4) A 41. § (1) bekezdés a) pontja szerinti, valamint a kiemelt ápolási díjra való jogosultság továbbra is fennáll, ha az ápolási díjban részesülő személy
 
-a) a Tny. szerint saját jogú nyugdíjnak minősülő ellátásban,
+a) a Tny. szerint saját jogú nyugdíjnak minősülő ellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, rokkantsági ellátásban, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 33. § (1) bekezdése alapján, a törvény erejénél fogva rehabilitációs ellátásban részesül,
 
-b) korhatár előtti ellátásban,
+b) az a) pont szerinti ellátásra való jogosultság keletkezését megelőző napon a 41. § (1) bekezdés a) pontja szerinti vagy kiemelt ápolási díjra volt jogosult, és
 
-c) szolgálati járandóságban,
+c) az a) pont szerinti ellátásra való jogosultság kezdő napját megelőző húsz éven belül a 41. § (1) bekezdés a) pontja szerinti vagy a kiemelt ápolási díjra való jogosultsága legalább tíz évig fennállt.
 
-d) balettművészeti életjáradékban,
-
-e) átmeneti bányászjáradékban,
-
-f) rokkantsági ellátásban vagy
-
-g) a megváltozott munkaképességű személyek ellátásairól és egyéb törvények módosításáról szóló 2011. évi CXCI. törvény 33. § (1) bekezdése alapján, a törvény erejénél fogva rehabilitációs ellátásban
-
-részesül, továbbá az ápolási díjat az a)–g) pont szerinti ellátásra való jogosultság keletkezésének időpontjában több mint tíz éve folyósítják.
+(5) A (4) bekezdés alkalmazása során a 41. § (1) bekezdés a) pontja szerinti, valamint kiemelt ápolási díjra való jogosultság időtartamát össze kell számítani.

@@ -18,7 +18,7 @@ h) a fenntartóval szemben, ha – térítésmentes szociális szolgáltatások 
 
 i) a szociális szolgáltató, intézmény vezetőjével vagy – ha a személyi térítési díjat, illetve a költőpénzt a fenntartó állapította meg – a fenntartóval szemben, ha a személyi térítési díj, illetve a költőpénz megállapítására vagy összegére vonatkozó szabályokat megszegik,
 
-j) a fenntartóval, valamint állami fenntartású intézmény esetén a szociális szolgáltató, intézmény vezetőjével, egyházi fenntartású vagy nem állami fenntartású intézmény esetén a 94/C. §, illetve a 2011. január 1-jét megelőzően hatályos 94/D. § szerinti megállapodás megkötése, módosítása, illetve megszüntetése során a fenntartó nevében eljáró személlyel szemben, ha az egyszeri hozzájárulás megállapítására, összegére, megfizetésére vagy visszafizetésére vonatkozó szabályokat megszegik,
+j) a fenntartóval, valamint állami fenntartású intézmény esetén a szociális szolgáltató, intézmény vezetőjével, egyházi fenntartású vagy nem állami fenntartású intézmény esetén a 94/C. §, illetve a 2011. január 1-jét megelőzően hatályos 94/D. § szerinti megállapodás megkötése, módosítása, illetve megszüntetése során a fenntartó nevében eljáró személlyel szemben, ha az egyszeri hozzájárulás megállapítására, összegére, megfizetésére vagy visszafizetésére, vagy a belépési hozzájárulás megállapítására, összegére, megfizetésére, közzétételére vagy visszafizetésére vonatkozó szabályokat megszegik,
 
 k) a fenntartóval és a nevében vagyoni előnyt kérő személlyel szemben, valamint azzal a személlyel, szervezettel szemben, amelynek a vagyoni előnyt nyújtották, ha a 119/A. § szerinti tilalmat megsértik.
 

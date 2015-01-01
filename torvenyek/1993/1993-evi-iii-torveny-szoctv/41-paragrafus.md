@@ -6,7 +6,7 @@ b) tartósan beteg 18 év alatti
 
 személy gondozását, ápolását végzi.
 
-(2) Az ápolási díjat – a 43/B. § (1) bekezdésében foglaltak kivételével – az ápolást végző személy lakóhelye szerint illetékes járási hivatal állapítja meg.
+(2) Az ápolást végző személy számára egyidejűleg csak egy ápolási díjra való jogosultság állapítható meg, továbbá egy ápolt személyre tekintettel csak egy ápolást végző személy számára állapítható meg ápolási díj.
 
 (3) Az (1) bekezdés alkalmazása során
 

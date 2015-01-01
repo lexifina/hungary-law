@@ -10,4 +10,6 @@
 
 (5) Egy településen – amennyiben a település mind a tanyagondnoki, mind a falugondnoki szolgáltatásra vonatkozó feltételeknek megfelel – vagy falugondnoki, vagy tanyagondnoki szolgáltatás működtethető.
 
-(6) A társulás keretében megszervezett falugondnoki, illetve tanyagondnoki szolgáltatás csak azon települések tekintetében működtethető, amelyek a (2), illetve a (3) bekezdésben meghatározott feltételeknek megfelelnek.
+(6) Ugyanazon ellátási területen csak egy falugondnoki szolgálat, illetve egy tanyagondnoki szolgálat működtethető.
+
+(7) A társulás keretében megszervezett falugondnoki szolgáltatás csak azon települések tekintetében működtethető, amelyek megfelelnek a (2) bekezdésben meghatározott feltételeknek. A társulás keretében megszervezett tanyagondnoki szolgáltatás csak azon ellátási területen működtethető, amely megfelel a (3) bekezdésben meghatározott feltételeknek.

@@ -6,7 +6,7 @@ b) a fővárosi önkormányzat által fenntartott tartós bentlakásos intézmé
 
 c) a települési önkormányzat – ide nem értve a fővárosi önkormányzat – által fenntartott tartós bentlakásos intézmény esetében, ha a fenntartó önkormányzat képviselő-testülete eltérően nem rendelkezik, az intézményvezető,
 
-d) a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium által fenntartott szociális intézmény esetén az intézményvezető,
+d)
 
 e) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott szociális intézmény esetén az intézményvezető
 
@@ -14,7 +14,7 @@ dönt.
 
 (2) Az intézményvezető a döntésről értesíti az ellátást igénylőt, illetve törvényes képviselőjét. Elutasítás esetén az értesítés írásban történik.
 
-(3) Ha az ellátást igénylő, illetve törvényes képviselője az intézmény vezetőjének a (2) bekezdés szerinti döntését vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat. Ilyen esetben a fenntartó (önkormányzati intézmény esetén az önkormányzat képviselő-testülete) határozattal dönt a beutalás kérdéséről.
+(3) Ha az ellátást igénylő, illetve törvényes képviselője az intézmény vezetőjének a (2) bekezdés szerinti döntését vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat. Ebben az esetben a fenntartó dönt az ellátás iránti kérelemről. A fenntartó döntésének felülvizsgálata bíróságtól kérhető.
 
 (4) A tartós bentlakásos intézménybe történő beutaló határozat tartalmazza
 

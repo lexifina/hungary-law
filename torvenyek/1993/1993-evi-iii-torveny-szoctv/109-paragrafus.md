@@ -10,7 +10,7 @@ c) a házirendet többször, súlyosan megsérti és emiatt az érdekképviselet
 
 (3) Ha az intézményi jogviszonyt
 
-a) beutaló határozat alapozza meg, az áthelyezésről a beutaló önkormányzat képviselő-testülete határozattal dönt,
+a) beutaló határozat alapozza meg, az áthelyezésről a beutaló szerv határozattal dönt,
 
 b) az intézményvezető intézkedése keletkezteti, az áthelyezéshez a jogosult, illetve törvényes képviselője és a másik intézmény vezetőjének közös megegyezése szükséges.
 

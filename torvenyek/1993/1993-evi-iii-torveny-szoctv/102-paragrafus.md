@@ -1,11 +1,13 @@
-102. § (1) Egyházi fenntartású és nem állami fenntartású szolgáltató, intézmény esetén az intézményi jogviszony megszűnik, ha a 94/C. § szerinti megállapodást az ellátott, illetve törvényes képviselője vagy a fenntartó felmondja.
+102. § (1) Az ellátott, a törvényes képviselője vagy a térítési díjat megfizető személy a térítésidíj-fizetési kötelezettségnek nem tesz eleget, ha
 
-(2) Ápolást, gondozást nyújtó intézmény és ápoló, gondozó célú lakóotthon esetén a fenntartó a megállapodást akkor mondhatja fel, ha az ellátott a házirendet súlyosan megsérti.
+a) hat hónapon át folyamatosan térítésidíj-tartozás áll fenn, és az a hatodik hónap utolsó napján a kéthavi személyi térítési díj összegét meghaladja, és
 
-(3) A felmondási idő, ha a 94/D. § szerinti megállapodás másként nem rendelkezik,
+b) vagyoni, jövedelmi viszonyai lehetővé teszik a térítési díj megfizetését.
 
-a) alapszolgáltatás esetén tizenöt nap,
+(2) Ha az ellátott, a törvényes képviselője vagy a térítési díjat megfizető személy vagyoni, jövedelmi viszonyai olyan mértékben megváltoztak, hogy a személyi térítési díj megfizetésére vonatkozó kötelezettségnek nem tud eleget tenni, köteles az intézményvezetőnél rendkívüli jövedelemvizsgálat lefolytatását kezdeményezni. Az intézményvezető a jövedelemvizsgálatot – ideértve a 68/B. § és a 117/B. § szerinti esetet is – a 119/C. § szabályai szerint lefolytatja, és a személyi térítési díjat a jövedelemvizsgálat eredményének megfelelően állapítja meg.
 
-b) bentlakásos intézmény esetén három hónap.
+(3) Ha az ellátott, a törvényes képviselője vagy a térítési díjat megfizető személy nem kéri a (2) bekezdés szerinti jövedelemvizsgálat lefolytatását, az (1) bekezdés b) pontja alkalmazásában úgy kell tekinteni, hogy vagyoni, jövedelmi viszonyai lehetővé teszik a térítési díj megfizetését.
 
-(4) Ha egyházi fenntartású vagy nem állami fenntartású szolgáltató, intézmény esetén a 94/C. § szerint megkötött megállapodás felmondásának jogszerűségét az ellátott, a törvényes képviselője, a térítési díjat vagy az egyszeri hozzájárulást megfizető személy, illetőleg a fenntartó vitatja, kérheti a bíróságtól a megállapodás jogellenes felmondásának megállapítását. Az ellátást változatlan feltételek mellett mindaddig biztosítani kell, amíg a bíróság jogerős határozatot nem hoz.
+(4) Ha három hónapon át térítésidíj-tartozás áll fenn, az ellátottat, a törvényes képviselőt vagy a térítési díjat megfizető személyt írásban tájékoztatni kell a felmondás lehetőségéről, annak kezdő időpontjáról, valamint a (3) bekezdésben foglaltakról.
+
+(5) A 101. § (2) bekezdés c) pontja és ez a § nem alkalmazható, ha a 119. § (2) bekezdése szerint jelzálogjog-bejegyzés történt a kötelezett ingatlanvagyonán.

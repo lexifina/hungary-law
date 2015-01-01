@@ -1,1 +1,1 @@
-140/C. §
+140/C. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosításáról szóló 1999. évi LXXIII. törvény – 2012. június 26-áig hatályos – 56. § (1) bekezdésében meghatározott átmeneti rendelkezés alapján az intézmények a százötven fős férőhelyszámot nem léphetik túl és a százötven fős vagy ezt meghaladó férőhelyszámú intézmények férőhelyeinek száma tovább nem bővíthető.

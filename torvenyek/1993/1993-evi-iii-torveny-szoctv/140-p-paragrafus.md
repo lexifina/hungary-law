@@ -1,9 +1,3 @@
-140/P. § (1) 2013. január 1-jét követően fogyatékos, pszichiátriai és szenvedélybeteg személyek ápolást-gondozást nyújtó intézményi ellátása céljából új férőhelyeket
+140/P. § (1) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény, a sportról szóló 2004. évi I. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2014. évi CI. törvénnyel megállapított 60. § (6) bekezdését a 2015. január 1-jét követően létrejövő szolgálatokra kell alkalmazni, azzal, hogy a rendelkezést a szolgáltatói nyilvántartásba történő bejegyzés iránt 2015. január 1-jén folyamatban levő eljárásokban is alkalmazni kell.
 
-a) nagy létszámú intézmény átalakítása esetén csak támogatott lakhatás,
-
-b) új intézmény létrehozása esetén csak a 75. § (2) bekezdés a) vagy b) pontja szerinti támogatott lakhatás
-
-formájában lehet létrehozni.
-
-(2)
+(2) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény, a sportról szóló 2004. évi I. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2014. évi CI. törvény hatálybalépésekor intézményi jogviszonyban álló személyeket írásban tájékoztatni kell a jogviszony megszüntetésével kapcsolatos jogszabályi változásokról.

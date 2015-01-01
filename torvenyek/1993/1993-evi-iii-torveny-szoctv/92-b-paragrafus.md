@@ -16,7 +16,9 @@ g) gondoskodik az érdekképviseleti fórum megalakításáról;
 
 h) kikéri az ellátottak országos érdekképviseleti szervezete területileg illetékes szervének véleményét az intézmény működését érintő lényeges döntés meghozatala előtt. Lényeges döntéshozatalnak minősül különösen az intézmény megszüntetése, az intézményi típus, forma megváltoztatása;
 
-i) szolgáltatástervezési koncepciót készít – figyelemmel a 92. § (3) bekezdésére – az általa működtetett szociális szolgáltatások és intézmények vonatkozásában.
+i) szolgáltatástervezési koncepciót készít – figyelemmel a 92. § (3) bekezdésére – az általa működtetett szociális szolgáltatások és intézmények vonatkozásában;
+
+j) a rehabilitációs intézmény, a hajléktalanok otthona és a rehabilitációs célú lakóotthon kivételével tartós bentlakásos intézmény esetén meghatározza azokat a férőhelyeket, amelyek belépési hozzájárulás megfizetése esetén tölthetők be, és konkrét összegben megállapítja a belépési hozzájárulást.
 
 (2) Az állami fenntartó a szervezeti és működési szabályzat, a házirend, valamint a szakmai program jóváhagyását megtagadja, ha az nem felel meg az e törvényben, valamint a külön jogszabályban előírt feltételeknek.
 

@@ -1,4 +1,4 @@
-92/C. § (1) Az egyházi fenntartója és a nem állami fenntartó a 92/B. § (1) bekezdésének a), e), f) és h) pontjaiban meghatározott feladatokon túl
+92/C. § (1) Az egyházi fenntartója és a nem állami fenntartó a 92/B. § (1) bekezdésének a), e), f), h) és j) pontjában meghatározott feladatokon túl
 
 a) gondoskodik az intézmény szervezeti és működési szabályzatának, szakmai programjának, szakosított ellátást nyújtó intézmény esetében házirendjének elkészítéséről,
 

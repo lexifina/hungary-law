@@ -27,3 +27,5 @@ g) a menedékjogi törvényben meghatározott integrációs szerződésbe foglal
 a) a kiskorú családtagjának ellátása a családsegítés keretében indult, és
 
 b) a kiskorú érdekei – a gyermekjóléti szolgáltatás igénybevétele nélkül – e szolgáltatás keretében is megfelelően biztosíthatók.
+
+(6) Családsegítés a gyermekjóléti szolgáltatással egy szolgáltató keretében hozható létre.

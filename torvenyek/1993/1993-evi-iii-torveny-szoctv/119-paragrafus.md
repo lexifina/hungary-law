@@ -10,4 +10,4 @@ fizeti meg az intézménynek.
 
 (2) Ha a személyi térítési díjat az (1) bekezdés szerint nem fizetik meg, illetve ha a költőpénzt az intézmény biztosítja, a követelést tartós bentlakásos intézményi ellátás esetében a kötelezett ingatlanvagyonán fennálló jelzálogjog biztosítja.
 
-(3) A jelzálogjogot a külön jogszabály szerint nyilvántartott folyó évi hátralék erejéig lehet bejegyezni. A jelzálog bejegyzésének kezdeményezéséről a szociális hatóság a jogszabályi feltételek fennállása esetén – a fenntartó kérelme alapján – határozatot hoz. A határozatot az ingatlanügyi hatósággal közölni kell.
+(3) A jelzálogjogot a külön jogszabály szerint nyilvántartott hátralék erejéig lehet bejegyezni. A jelzálog bejegyzésének kezdeményezéséről a szociális hatóság a jogszabályi feltételek fennállása esetén – a fenntartó kérelme alapján – határozatot hoz. A határozatot az ingatlanügyi hatósággal közölni kell.

@@ -1,6 +1,6 @@
 94. § (1) A személyes gondoskodást nyújtó szociális intézményi jogviszony keletkezését
 
-a) a lakóhely szerint illetékes települési önkormányzat képviselő-testületének határozata,
+a)
 
 b) a bíróság ideiglenes intézkedést tartalmazó végzése,
 

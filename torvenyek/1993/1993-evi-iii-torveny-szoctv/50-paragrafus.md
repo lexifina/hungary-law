@@ -18,7 +18,7 @@ ga) rokkantsági ellátásban részesül és az egészségi állapota a rehabili
 
 gb) az Mmtv. 30. § (4) bekezdés b) pont ba) alpontjának vagy 32. § (1) bekezdés a) pontjának alkalmazásával rokkantsági ellátásban részesül és 2011. december 31-én I. vagy II. csoportú rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult,
 
-gc) rokkantsági ellátásban részesül, de nem tartozik a ga) és gb) alpont hatálya alá és a közgyógyellátásra való jogosultságát 2012. április 15-éig megállapították,
+gc)
 
 gd) az Mmtv. 31. §-ának alkalmazásával öregségi nyugdíjban részesül és 2011. december 31-én I. vagy II. csoportú rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult, vagy
 

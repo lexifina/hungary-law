@@ -16,11 +16,13 @@ e) az előgondozással megbízott személy,
 
 f) az intézményi ellátásban foglalkoztatott ápoló, intézményvezető ápoló, gondozó, szociális, mentálhigiénés munkatárs,
 
-g) a falu- és a tanyagondnok.
+g) a falu- és a tanyagondnok,
+
+h) a támogatott lakhatásban foglalkoztatott esetfelelős és kísérő támogatást biztosító munkatárs.
 
 (3) A bentlakásos intézménynek rendelkeznie kell – a szolgáltatásban foglalkoztatottak védelme érdekében – az ellátást igénybevevők részéről esetlegesen felmerülő veszélyhelyzet kezelésére vonatkozó belső utasítással.
 
-(4) Azoknak a munkavállalóknak a munkaidejét, pihenőidejét, előmeneteli és illetményrendszerét, akik olyan egyházi fenntartású vagy nem állami fenntartású szolgáltatónál, intézménynél dolgoznak, amely után a fenntartó központi költségvetésről szóló törvényben biztosított támogatásban részesül – ideértve a 127. § (4) bekezdés szerinti szolgáltatót, intézményt is –, a Kjt. 55–80. §-a szerint kell megállapítani. E rendelkezésektől akkor lehet eltérni, ha azzal a munkavállaló kizárólag előnyt szerez.
+(4) A központi költségvetésről szóló törvényben biztosított támogatásban részesülő egyházi fenntartású vagy nem állami fenntartású szociális intézmény, szolgáltató a munkavállalók számára – ide nem értve a munkakörüket sajátos egyházi szolgálati viszonyban ellátó személyeket – legalább a Kjt. 55–80. §-ában és a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben megállapított, a munkaidőre, pihenőidőre, előmeneteli és illetményrendszerre vonatkozó feltételeket köteles biztosítani.
 
 (5) A szociális szolgáltatónál és szociális intézményben történő foglalkoztatás esetén a Kjt. 41. § (2) bekezdésének a) pontja nem alkalmazható.
 

@@ -10,6 +10,8 @@ d) a szociális szolgáltatóval, intézménnyel, illetve ezek fenntartójával 
 
 (2) A bíróság az ideiglenes intézkedésről végzéssel határoz. Az ideiglenes intézkedés már a jogosultság alapjául szolgáló tények valószínűsítése esetén is megtehető.
 
-(3) A 102. § (4) bekezdése, a 115. § (5) bekezdése és a 119/B. § (4) bekezdése alapján indított perben a bíróság soron kívül jár el.
+(3) A 94/A. § (3) bekezdése, a 94/D. §, a 101. § (5) bekezdése, a 115. § (4) bekezdése és a 119/B. § (4) bekezdése alapján indított perben a bíróság soron kívül jár el.
 
-(4) A bíróság (3) bekezdés szerinti eljárása illetékmentes, az ellátottat, törvényes képviselőjét és a térítési díjat vagy az egyszeri hozzájárulást megfizető személyt teljes költségmentesség illeti meg.
+(4) A bíróság (3) bekezdés szerinti eljárása illetékmentes, az ellátottat, törvényes képviselőjét és a térítési díjat vagy az egyszeri hozzájárulást megfizető és a belépési hozzájárulás megfizetését vállaló személyt teljes költségmentesség illeti meg.
+
+(5) A személyes gondoskodást nyújtó szociális ellátások esetében a fenntartó döntésének bírósági felülvizsgálata, valamint a felmondás jogellenességének bírósági megállapítása a döntés, illetve felmondás kézhezvételétől számított harminc napon belül kérhető.

@@ -18,4 +18,4 @@ feltéve, hogy esetében az a)–e) pontokban foglaltak közül legalább három
 
 (4) Az ápolási díjról döntést hozó szerv a (3) bekezdés szerinti szakértőnek a szakvélemény elkészítéséért díjat fizet. A díjazás összegét az éves központi költségvetésről szóló törvény határozza meg.
 
-(5) A (3) bekezdés szerinti szakvélemény felülvizsgálatát a szociális hatóság által külön jogszabály szerint kijelölt szakértő végzi.
+(5) Fellebbezési eljárás során a (3) bekezdés szerinti szakvélemény felülvizsgálatát a szociális hatóság által külön jogszabály szerint kijelölt szakértő végzi.

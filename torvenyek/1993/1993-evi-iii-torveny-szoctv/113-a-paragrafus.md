@@ -10,4 +10,4 @@ c) a rehabilitációs intézményben, rehabilitációs célú lakóotthonban ell
 
 d) a szociális foglalkoztatásban részt vevő ellátottak,
 
-e) a támogatott lakhatásban részesülő személyek.
+e)

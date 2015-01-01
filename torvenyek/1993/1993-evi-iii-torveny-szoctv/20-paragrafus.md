@@ -16,7 +16,7 @@ f) a kérelem előterjesztésének vagy a beutaló határozat megküldésének i
 
 g) soron kívüli ellátásra vonatkozó igény és
 
-h) az előgondozás lefolytatásának időpontja.
+h) az előgondozás lefolytatásának időpontja, ha annak elvégzése kötelező.
 
 (3) Ha a területi ellátási kötelezettséggel rendelkező szolgáltató, intézmény vezetője kapacitás, illetve férőhely hiányában a szolgáltatásra vonatkozó igényt nem teljesíti, a nyilvántartott igények teljesítésének indokoltságát évente vizsgálni kell.
 
@@ -36,7 +36,7 @@ a) a (2) és (4) bekezdés szerinti adattartalmú nyilvántartást családsegít
 
 b) családsegítés esetén a (2) bekezdés g) pontja szerinti adatokat,
 
-c) étkeztetés, családsegítés, közösségi ellátások, idősek nappali ellátása, szenvedélybetegek nappali ellátása, pszichiátriai betegek nappali ellátása esetén a (2) bekezdés h) pontja szerinti adatokat.
+c)
 
 (6) Nappali melegedő, éjjeli menedékhely esetén kizárólag a (2) bekezdés a) pontja és a (4) bekezdés a) pontja szerinti adatokat kell nyilvántartásba venni.
 

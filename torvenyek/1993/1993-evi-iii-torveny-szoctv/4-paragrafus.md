@@ -24,7 +24,7 @@ db) a húszévesnél fiatalabb, önálló keresettel nem rendelkező; a huszonh�
 
 dc) korhatárra való tekintet nélkül a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, mostoha-, illetve nevelt gyermek, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt (a továbbiakban: fogyatékos gyermek),
 
-dd) a 18. életévét be nem töltött gyermek vonatkozásában a vér szerinti és az örökbe fogadó szülő, illetve a szülő házastársa vagy élettársa;
+dd) a 18. életévét be nem töltött gyermek vonatkozásában a vér szerinti és az örökbe fogadó szülő, a szülő házastársa vagy élettársa, valamint a db) vagy dc) alpontban meghatározott feltételeknek megfelelő testvér;
 
 e) egyedülélő: az a személy, aki egyszemélyes háztartásban lakik;
 

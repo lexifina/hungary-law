@@ -48,7 +48,7 @@ b) bentlakásos intézmény esetén a szolgáltatói nyilvántartásba jogerőse
 
 (7) A működést engedélyező szerv a működés személyi és tárgyi feltételeinek, a működés jogszerűségének, a szociális szolgáltatásra való jogosultság megállapításának, illetőleg az intézményi jogviszonyra vonatkozó szabályok megtartásának ellenőrzése érdekében, az ahhoz szükséges mértékben
 
-a) megismerheti és kezelheti az ellátott, törvényes képviselője, az ellátott tartására jogszabály, szerződés vagy bírósági határozat alapján köteles személy, a térítési díjat, az egyszeri hozzájárulást megfizető személy, továbbá a szolgáltató, intézmény alkalmazottjának a személyes adatait,
+a) megismerheti és kezelheti az ellátott, törvényes képviselője, az ellátott tartására jogszabály, szerződés vagy bírósági határozat alapján köteles személy, a térítési díjat, az egyszeri hozzájárulást megfizető és a belépési hozzájárulás megfizetését vállaló személy, továbbá a szolgáltató, intézmény alkalmazottjának a személyes adatait,
 
 b) betekinthet a szolgáltató, intézmény létrehozásával, működésével és megszűnésével, illetve az intézményi jogviszony keletkezésével, fennállásával és megszűnésével összefüggő iratokba, kérheti azok bemutatását, azokról másolatot készíthet, illetve azokat lefoglalhatja.
 

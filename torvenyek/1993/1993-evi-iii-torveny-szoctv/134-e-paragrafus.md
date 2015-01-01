@@ -1,0 +1,1 @@
+134/E. § A települési önkormányzat képviselő-testülete a települési támogatás megállapításának, kifizetésének, folyósításának, valamint felhasználása ellenőrzésének szabályairól szóló rendeletét legkésőbb 2015. február 28-áig megalkotja.

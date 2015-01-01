@@ -1,13 +1,43 @@
-101. § (1) Az állami fenntartású intézményi jogviszony megszüntetését a jogosult, illetve törvényes képviselője kezdeményezheti. A jogosult, illetve törvényes képviselője kezdeményezése alapján az intézményvezető az intézményi jogviszonyt megszünteti. Ilyen esetben a jogviszony a felek megegyezése szerinti időpontban, ennek hiányában a megállapodásban foglaltak szerint szűnik meg.
+101. § (1) A 94/C. § szerinti megállapodást
 
-(2) Az intézményvezető az intézményi jogviszonyt megszünteti, ha a jogosult
+a) az ellátott, illetve törvényes képviselője indokolás nélkül,
 
-a) másik intézménybe történő elhelyezése indokolt,
+b) állami fenntartású intézmény (szolgáltató) esetén az intézményvezető (szolgáltató vezetője) a (2) bekezdés szerinti esetekben,
 
-b) a házirendet súlyosan megsérti,
+c) egyházi fenntartású és nem állami fenntartású intézmény (szolgáltató) esetén a fenntartó vagy az általa megbízott személy
 
-c) intézményi elhelyezése nem indokolt.
+ca) alapszolgáltatás esetén bármikor,
 
-(3) Az intézmény vezetője az ellátás megszüntetéséről, valamint a megszüntetés ellen tehető panaszról írásban értesíti a jogosultat, illetve törvényes képviselőjét. Ha a megszüntetéssel a jogosult, illetve törvényes képviselője nem ért egyet, az értesítés kézhezvételétől számított nyolc napon belül az intézmény fenntartójához fordulhat. Ilyen esetben az ellátást változatlan feltételek mellett mindaddig biztosítani kell, amíg a fenntartó, illetve a bíróság jogerős és végrehajtható határozatot nem hoz.
+cb) bentlakásos intézményi ellátás esetén a (2) bekezdés szerinti esetekben
 
-(4) Ha az intézményi jogviszonyt beutaló határozat alapozza meg, a jogviszony megszüntetésére az (1)–(2) bekezdésben foglaltakat értelemszerűen alkalmazni kell, azonban a jogviszonyt a beutaló szerv határozata szünteti meg.
+írásban mondhatja fel.
+
+(2) Az (1) bekezdés b) pontja és c) pont cb) alpontja szerinti felmondásnak akkor van helye, ha
+
+a) az ellátott másik intézményben történő elhelyezése indokolt vagy további intézményi elhelyezése nem indokolt,
+
+b) az ellátott a házirendet súlyosan megsérti,
+
+c) az ellátott, a törvényes képviselője vagy a térítési díjat megfizető személy térítésidíj-fizetési kötelezettségének – a 102. § szerint – nem tesz eleget.
+
+(3) A felmondási idő, ha a 94/C. § szerinti megállapodás másként nem rendelkezik
+
+a) alapszolgáltatás esetén tizenöt nap,
+
+b) bentlakásos intézmény esetén három hónap.
+
+(4) Az (1) bekezdés b) pontja szerinti esetben, ha a felmondás jogszerűségét az ellátott, a törvényes képviselője, a térítési díjat vagy az egyszeri hozzájárulást megfizető személy vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat.
+
+(5) Bíróságtól kérhető
+
+a) az (1) bekezdés a) pontja szerinti felmondás jogellenességének megállapítása, ha azt a fenntartó vitatja,
+
+b) az (1) bekezdés c) pontja szerinti felmondás jogellenességének megállapítása, ha azt az ellátott, a törvényes képviselője, a térítési díjat vagy az egyszeri hozzájárulást megfizető személy vitatja,
+
+c) a (4) bekezdés szerinti fenntartói döntés jogellenességének megállapítása, ha azt a (4) bekezdés szerinti személyek valamelyike vitatja.
+
+(6) A (4) és (5) bekezdés szerinti esetben az ellátást változatlan feltételek mellett mindaddig biztosítani kell, amíg a fenntartó nem dönt, illetve a bíróság jogerős határozatot nem hoz.
+
+(7) A (4)–(6) bekezdésben foglaltakról az (1) bekezdés b) és c) pontja szerinti felmondásban tájékoztatást kell adni.
+
+(8) Ha az intézményi jogviszonyt beutaló határozat alapozza meg, a jogviszonyt a beutaló szerv szünteti meg, kivéve, ha beutaló határozatot olyan önkormányzat hozta, amely már nem fenntartója az intézménynek.

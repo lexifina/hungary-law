@@ -30,7 +30,7 @@ b) (2a) bekezdés d) vagy e) pontja szerinti tagjára tekintettel magasabb össz
 
 a rá tekintettel figyelembe vett arányszám 0,2-del növekszik.
 
-(2c) Ha a háztartásban gyermekét egyedülállóként nevelő szülő – ideértve a gyámot, a nevelőszülőt és a hivatásos nevelőszülőt – él, a rá tekintettel figyelembe vett arányszám 0,2-del növekszik.
+(2c) Ha a háztartásban gyermekét egyedülállóként nevelő szülő – ideértve a gyámot és a nevelőszülőt – él, a rá tekintettel figyelembe vett arányszám 0,2-del növekszik.
 
 (3) A normatív lakásfenntartási támogatás esetében a lakásfenntartás elismert havi költsége az elismert lakásnagyság és az egy négyzetméterre jutó elismert költség szorzata. Az egy négyzetméterre jutó elismert havi költség összegét – az energiaárak várható alakulására figyelemmel – az éves központi költségvetésről szóló törvény határozza meg.
 
