@@ -1,3 +1,1 @@
-## 14–16. §[^16]
-
-[^16]: A 14–16. § a 38. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
+## 16. § Az irat kezelője a lezárt ügyet az informatikai rendszer útján a bíró (bírósági titkár) részére szükség esetén, az ok megjelölésével visszamutatja. Ha a megjelölt ok alapján a lezárt irat módosítása szükséges, a bíró (bírósági tikár) az irat lezárt állapotát feloldja. Az iratot a módosítást követően ismételten PKI technológia alkalmazásával le kell zárni. Az informatikai rendszerben az irat lezárását és az irat lezárásának feloldását külön is naplózni kell. Az informatikai rendszert úgy kell kialakítani, hogy a kiadmány kézbesítését követően a lezárt irat feloldására ne legyen lehetőség.

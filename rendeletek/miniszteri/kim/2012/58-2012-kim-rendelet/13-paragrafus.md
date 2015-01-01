@@ -1,5 +1,3 @@
-## 12. §[^14]
+## 12. § A perkönyvet, a tárgyalási naplót és a tárgyalási jegyzéket az informatikai rendszer útján kell vezetni.
 
 ## 10. Az irodai utasítás és a rövid feljegyzés
-
-[^14]: A 12. § a 38. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.

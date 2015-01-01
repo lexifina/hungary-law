@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-58-20-2
 | 2013-01-02 | 2012-58-20-2T.4 | 2010: CXXX. törvény |
 | 2013-03-15 | 2012-58-20-2T.5 | 12/2014. (II. 28.) KIM rendelet |
 | 2014-12-24 | 2012-58-20-2T.6 | 20/2014. (XII. 23.) IM rendelet |
+| 2015-01-01 | 2012-58-20-2T.7 | 20/2014. (XII. 23.) IM rendelet |

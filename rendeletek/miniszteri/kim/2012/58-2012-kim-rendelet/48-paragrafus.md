@@ -2,7 +2,7 @@
 
 48. § (1) Nem lép hatályba az R.
 
-a)–b)[^59]
+a)–b)[^37]
 
 c) 41. melléklet 13.4.3. pontjában a „– az alapítók döntése szerint –”,
 
@@ -66,4 +66,4 @@ bg) 7.1.6. és 7.1.7. pontja,
 
 bh) 9.1.1. és 9.1.2. pontja.
 
-[^59]: A 48. § (1) bekezdés a)–b) pontját a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés d) pontja hatályon kívül helyezte.
+[^37]: A 48. § (1) bekezdés a)–b) pontját a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés d) pontja hatályon kívül helyezte.

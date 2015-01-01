@@ -1,9 +1,17 @@
-## 20. §[^19]
-
 ## III. Fejezet
 
 ## ÜGYVITEL
 
 ## 13. Általános szabályok
 
-[^19]: A 20. § a 38. § (5) bekezdése alapján 2016. január 1-jén lép hatályba.
+## 21. § A civil szervezetek nyilvántartási ügyeiben nem alkalmazható a Büsz.
+
+a) 5. § (2) bekezdésének első fordulata,
+
+b) 8. § (3) bekezdése,
+
+c) 10. § (1) bekezdésének második mondata,
+
+d) 11. § (1) bekezdése és
+
+e) 18. § (2) bekezdése.

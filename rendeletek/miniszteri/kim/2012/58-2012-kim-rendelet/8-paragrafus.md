@@ -1,9 +1,7 @@
-## 7. §[^7]
+8. § (1) A papír alapon érkezett iratok elektronizálását az irat kezelője végzi.
 
-8. § (1)–(2)[^8]
+(2) Az iratok elektronikus másolatát [Cnytv. 74. § (4) bekezdés] az informatikai rendszer erre szolgáló alkalmazásába kell az irat kezelőjének elhelyeznie.
 
-(3)–(4)[^9]
+(3)–(4)[^1]
 
-[^7]: A 7. § a 38. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^8]: A 8. § (1)–(2) bekezdése a 38. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^9]: A 8. § (3)–(4) bekezdése a 38. § (5) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^1]: A 8. § (3)–(4) bekezdése a 38. § (5) bekezdése alapján 2016. január 1-jén lép hatályba.

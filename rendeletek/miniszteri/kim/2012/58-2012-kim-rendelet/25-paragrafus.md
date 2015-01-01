@@ -1,3 +1,1 @@
-## 24. §[^23]
-
-[^23]: A 24. § a 38. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
+## 24. § A bíróság elnöke, illetve az ügyelosztásra jogosult más bírósági vezető az informatikai rendszer útján jelöli ki a bírót (bírósági titkárt) az ügy intézésére.
