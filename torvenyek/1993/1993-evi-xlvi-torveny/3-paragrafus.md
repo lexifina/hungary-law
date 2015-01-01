@@ -16,7 +16,7 @@ e) a Magyar Nemzeti Bank;
 
 f) a Gazdasági Versenyhivatal;
 
-g) az Országos Műszaki Fejlesztési Bizottság;
+g) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal;
 
 h) a Magyar Energetikai és Közmű-szabályozási Hivatal;
 

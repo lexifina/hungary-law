@@ -10,7 +10,7 @@ d) a személyes adatok statisztikai célú feldolgozásánál előírt nyilvánt
 
 e) a statisztikai adatszolgáltatás ellenőrzését akadályozza, az ellenőrzés során kért felvilágosítás megadását megtagadja, illetve megőrzési kötelezettségének nem tesz eleget.
 
-(2) A közigazgatási bírság összege természetes személy esetében 200 000 forintig, jogi személy és jogi személyiséggel nem rendelkező szervezet esetében 200 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása az (1) bekezdés a)–b) pontjában foglaltak megvalósulása esetén a jogszabálysértéssel érintett adatszolgáltatásonként történik.
+(2) A közigazgatási bírság összege természetes személy esetében 200 000 forintig, jogi személy és jogi személyiséggel nem rendelkező szervezet esetében 100 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása az (1) bekezdés a) és b) pontjában foglaltak megvalósulása esetén a jogszabálysértéssel érintett adatszolgáltatásonként történik.
 
 Vhr.7. § (1) A helyi önkormányzatot terhelő adatszolgáltatás teljesítéséért a jegyző (főjegyző, körjegyző) a felelős.
 
