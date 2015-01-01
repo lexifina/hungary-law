@@ -1,0 +1,1 @@
+## 22. § A fogvatartott a fogvatartással kapcsolatban – a kérelem vagy bejelentés tárgyának megjelölése nélkül – személyes meghallgatást kérhet a fogda parancsnokától, illetve hozzá írásban is közvetlenül fordulhat.

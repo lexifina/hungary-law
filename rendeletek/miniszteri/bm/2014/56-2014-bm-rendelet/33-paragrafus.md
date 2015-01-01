@@ -1,0 +1,9 @@
+33. § (1) A fogvatartott megfelelő élelmezéséről és a közegészségügyi feltételek biztosításáról a fogvatartást végrehajtó szerv gondoskodik.
+
+(2) A fogvatartottak részére, amennyiben azt igénylik, vallásuk előírásainak megfelelő étkezést kell biztosítani, melynek energiaértéke naponta legalább 2595 kcal, fiatalkorúak esetében naponta legalább 3565 kcal. Naponta egy esetben főétkezésként meleg ételt, orvosi javaslatra diétás élelmezést, terhes nő részére a terhesség 20. hetétől naponta 0,5 liter tejet – illetve, ha egészségügyi szempontból indokolt, azt helyettesítő élelmiszert – kell biztosítani. A fogvatartott vallásának megfelelő étkezésről a fogvatartott kérelmére a fogvatartottak élelmezésére központilag meghatározott élelmezési norma keretei között és a fogvatartást végrehajtó szerv lehetőségein belül a fogvatartást végrehajtó szerv vezetője gondoskodik.
+
+(3) Ha a fogvatartottak részére konzerv készételt adnak, azt felnyitás előtt kell felmelegíteni, majd műanyag tányérra helyezve kiosztani. A fogvatartottnak étkezésre műanyag evőeszköz adható.
+
+(4) Hideg élelem csomagról kell gondoskodni, ha a fogvatartottat étkezési időben olyan helyre kísérik, ahol meleg étel nem biztosítható. Hideg élelemként kizárólag szobahőmérsékleten is tárolható élelmiszer adható, amelyet a közegészségügyi-járványügyi előírásoknak megfelelően kell csomagolni.
+
+(5) A fogvatartottak étkezése a zárkákban történik. Az étel kiosztásáról, a csomagban küldött vagy vásárolt élelmiszerek átadásáról a fogdaőri szolgálat gondoskodik. E feladatokat az a fogdaőr láthatja el, aki rendelkezik a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet 4. § (5) bekezdése szerinti egészségügyi könyvvel és élelmiszer-higiéniai minimumvizsgával. E feladat egészségügyi könyvvel és élelmiszer-higiéniai minimumvizsgával rendelkező közalkalmazott útján is ellátható.

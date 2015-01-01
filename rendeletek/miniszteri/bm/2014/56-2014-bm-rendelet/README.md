@@ -1,0 +1,9 @@
+# 56/2014. (XII. 5.) BM rendelet
+
+a rendőrségi fogdák rendjéről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-56-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-01-01 | 2014-56-20-0A.1 | 56/2014. (XII. 5.) BM rendelet |
