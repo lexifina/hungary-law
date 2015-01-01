@@ -1,11 +1,11 @@
-120. §[^392] (1)[^393] A szállítási rendszerirányító esetében az általa nyújtott szolgáltatásokra vonatkozó rendelkezéseket a szállítási rendszerüzemeltető üzletszabályzata tartalmazza.
+120. §[^397] (1)[^398] A szállítási rendszerirányító esetében az általa nyújtott szolgáltatásokra vonatkozó rendelkezéseket a szállítási rendszerüzemeltető üzletszabályzata tartalmazza.
 
 (2) A vezetékes PB-gáz szolgáltatására vonatkozó működési engedélyes üzletszabályzatának elkészítésénél e rendelet 4. számú mellékletében a földgázelosztói és egyetemes szolgáltatói üzletszabályzat tartalmi elemeire előírtakat kell megfelelően alkalmazni.
 
-(3)[^394]
+(3)[^399]
 
 (4) A földgázkereskedő üzletszabályzatának tartalmaznia kell a kereskedő kötelezettségvállalását az átruházott kapacitás visszaadására, valamint a felhasználóval kötött szerződés idő előtti megszűnése esetén alkalmazott részletes eljárásrendre vonatkozó, azon belül a lekötött forrásoldali kapacitások részletes meghatározását.
 
-[^392]: A Vhr. 120. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^393]: A Vhr. 120. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése szerint módosított szöveg.
-[^394]: A Vhr. 120. § (3) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
+[^397]: A Vhr. 120. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^398]: A Vhr. 120. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése szerint módosított szöveg.
+[^399]: A Vhr. 120. § (3) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.

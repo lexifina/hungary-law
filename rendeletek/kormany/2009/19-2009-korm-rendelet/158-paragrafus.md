@@ -1,3 +1,3 @@
-158. § (1) A GET 140. § (1) bekezdése szerint benyújtandó engedély kérelmek esetében nem kell benyújtani a 126. § szerinti dokumentumok közül azokat, amelyeket az engedélyt kérő a Hivatalhoz korábban már benyújtott, valamint az 5. számú melléklet I. Fejezetének 1. és 5. pontjában, továbbá VII. Fejezetének 1., 8. és 9. pontjában meghatározott dokumentumokat.
+158. §[^506]
 
-(2) A Hivatal a rendelet hatálybalépésétől számított 90 napon belül a GET 140. § (6) bekezdésének megfelelően felhívja az engedélyeseket a hatályos jogszabályoknak megfelelő dokumentumok elkészítésére és a Hivatalhoz történő benyújtására, ellenkező esetben a GET 119. §-ban meghatározott jogkövetkezményeket alkalmazhatja. Az engedélyesek a felhívásnak kötelesek határidőben eleget tenni. A módosítás Hivatalból történik.
+[^506]: A Vhr. 158. §-át a 384/2014. (XII. 31.) Korm. rendelet 6. §-a hatályon kívül helyezte.

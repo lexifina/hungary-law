@@ -1,4 +1,4 @@
-## A földgázelosztó vagy földgáztároló engedélyes taggal rendelkező vertikálisan integrált földgázipari vállalkozásra vonatkozó szétválasztási szabályok[^441]
+## A földgázelosztó vagy földgáztároló engedélyes taggal rendelkező vertikálisan integrált földgázipari vállalkozásra vonatkozó szétválasztási szabályok[^446]
 
 141/A. § (1) A munkaszerződésben, a munkavégzésre irányuló egyéb jogviszonyt szabályozó szerződésben vagy a kinevezési okiratban (a továbbiakban együtt: munkaszerződés) rögzíteni kell a földgázelosztó vagy földgáztároló engedélyes vezető tisztségviselőjének, cégvezetőjének, ügydöntő felügyelőbizottsága tagjának, vezető állású munkavállalójának, valamint szervezeti egység vezetőjének a jogaira és kötelezettségeire, a munkabérére, az egyéb juttatásaira vagy díjazására, a munkavégzésének feltételeire, hatáskörére és beszámolási kötelezettségére és a jogviszony megszűnésére vonatkozó szabályokat. E személyek vonatkozásában a felmondásról, a felmondás indokairól és körülményeiről a földgázelosztó vagy földgáztároló engedélyes a felmondást megelőzően tájékoztatja a Hivatalt.
 
@@ -6,4 +6,4 @@
 
 (3) Ha a földgázelosztó vagy földgáztároló engedélyes tulajdonrésszel rendelkezik a szervezett földgázpiaci engedélyesben, a 141. § (1) bekezdésben meghatározott határidőig köteles nyilatkozni a GET 48. §-ában meghatározott tulajdoni korlátok betartásáról.
 
-[^441]: A Vhr. „A földgázelosztó vagy földgáztároló engedélyes taggal rendelkező vertikálisan integrált földgázipari vállalkozásra vonatkozó szétválasztási szabályok” alcímét (Vhr. 141/A. §) a 75/2011. (V. 2.) Korm. rendelet 20. §-a iktatta be.
+[^446]: A Vhr. „A földgázelosztó vagy földgáztároló engedélyes taggal rendelkező vertikálisan integrált földgázipari vállalkozásra vonatkozó szétválasztási szabályok” alcímét (Vhr. 141/A. §) a 75/2011. (V. 2.) Korm. rendelet 20. §-a iktatta be.
