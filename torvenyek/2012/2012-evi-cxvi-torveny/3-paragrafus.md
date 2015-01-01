@@ -34,11 +34,15 @@ i) a kincstárban vezetett, európai uniós támogatásokkal és elszámolásokk
 
 j) az éves költségvetési törvényben foglaltak szerint mentesített központi kezelésű előirányzatokkal kapcsolatos fizetési művelet,
 
-k) a kincstár által a Nemzeti Adó- és Vámhivatal számára vezetett nemzetgazdasági számlák és az azokhoz kapcsolódóan nyitható alszámlákon megvalósuló fizetési művelet,
+k) a kincstár által vezetett nemzetgazdasági számlákon és az azokhoz kapcsolódóan nyitható alszámlákon megvalósuló fizetési művelet,
 
 l) a földgázellátásról szóló törvény hatálya alá tartozó szervezett földgázpiacon és napi földgáz- és kapacitás kereskedelmi piacon, valamint a villamos energiáról szóló törvény hatálya alá tartozó szervezett villamosenergia-piacon megkötött ügyletek pénzügyi elszámolása során végrehajtott fizetési művelet,
 
-m) az átutalás, ha a terhelendő vagy jóváírandó számla a Nemzeti Humanitárius Koordinációs Tanácsról szóló kormányrendelet szerint, veszélyhelyzet kezelése kapcsán, adománygyűjtés céljából létrehozott számla.
+m) az átutalás, ha a terhelendő vagy jóváírandó számla a Nemzeti Humanitárius Koordinációs Tanácsról szóló kormányrendelet szerint, veszélyhelyzet kezelése kapcsán, adománygyűjtés céljából létrehozott számla,
+
+n) a kincstár által, a köznevelési, a szociális, gyermekjóléti és gyermekvédelmi humánszolgáltatások után nem állami intézmény fenntartójának biztosított hozzájárulás, a támogató szolgáltatás, a közösségi ellátások, a jelzőrendszeres házi segítségnyújtás, a szociális foglalkoztatás, az utcai szociális munka és a krízisközpontok támogatásának folyósítására vezetett lebonyolítási számlán megvalósuló fizetési művelet,
+
+o) a kincstár által az önkormányzatok forgótőke kezelésére, nettófinanszírozás lebonyolítására vezetett számlán megvalósuló fizetési művelet.
 
 (5) A (4) bekezdés b)–l) pontjában foglalt kincstári műveletek kivételével pénzügyi tranzakciós illetékfizetési kötelezettséget keletkeztet a kincstári számlavezetés körében
 

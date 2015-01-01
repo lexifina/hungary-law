@@ -2,7 +2,7 @@
 
 6. § (1) A pénzügyi tranzakciós illeték alapja
 
-a) a b)–g) pont szerinti kivétellel az az összeg, amellyel a pénzforgalmi szolgáltató a fizető fél fizetési számláját – a fizető fél saját vagy a kedvezményezett megbízása alapján – megterheli,
+a) a b)–h) pont szerinti kivétellel az az összeg, amellyel a pénzforgalmi szolgáltató a fizető fél fizetési számláját – a fizető fél saját vagy a kedvezményezett megbízása alapján – megterheli,
 
 b) készpénzátutalás esetén az átutalási megbízásban szereplő pénzösszeg,
 
@@ -14,6 +14,16 @@ e) készpénz-helyettesítő fizetési eszköz útján történő készpénzkifi
 
 f) a pénzváltási tevékenység végzésre jogosult hitelintézet, valamint pénzváltás közvetítésére jogosult kiemelt közvetítő útján történő pénzváltási tevékenységnél az eladott fizetőeszköz összege,
 
-g) jutalék- és díjbevételek esetén az az összeg, amellyel a pénzforgalmi szolgáltató a fizető fél fizetési számláját megterheli, illetve amelyet a készpénz-helyettesítő fizetési eszközre tekintettel felszámít.
+g) jutalék- és díjbevételek esetén az az összeg, amellyel a pénzforgalmi szolgáltató a fizető fél fizetési számláját megterheli, illetve amelyet a készpénz-helyettesítő fizetési eszközre tekintettel felszámít,
+
+h) a fizető fél által a kedvezményezett útján kezdeményezett fizetés esetén a fizető fél ugyanazon készpénz-helyettesítő fizetési eszközzel lebonyolított előző naptári évi fizetési műveletei.
 
 (2) Külföldi pénznemre szóló fizetési megbízás, kölcsöntörlesztés, jutalék és díjbevétel felszámítás és pénzváltási tevékenység esetén az (1) bekezdés szerinti összeget a teljesítési napon érvényes hivatalos MNB devizaárfolyamon kell forintra átszámítani.
+
+(3) Az (1) bekezdés h) pontjának alkalmazásában ugyanazon készpénz-helyettesítő fizetési eszköznek minősül a pénzügyi tranzakciós illeték kiszámításának alapjául szolgáló naptári évben a fizető fél számára kibocsátott olyan készpénz-helyettesítő fizetési eszköz, amely az alábbi okok valamelyikére tekintettel kerül kibocsátásra:
+
+a) lejáró készpénz-helyettesítő fizetési eszköz helyett,
+
+b) elveszett, ellopott készpénz-helyettesítő fizetési eszköz helyett,
+
+c) érintés nélküli készpénz-helyettesítő fizetési eszköz kibocsátása az érintés nélküli funkcióval nem rendelkező készpénz-helyettesítő fizetési eszköz helyett, ha mindkét készpénz-helyettesítő fizetési eszköz használatának fedezetét ugyanazon fizetési számla biztosítja.
