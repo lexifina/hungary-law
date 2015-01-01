@@ -6,12 +6,12 @@ b) 97. § (5) bekezdésében a „a központi szervével együttesen teljesíti�
 
 szöveg lép.
 
-(2) A Hpt. 217. § (1) bekezdésében a „húsz munkanapon” szövegrész helyébe a „tizenöt munkanapon” szöveg lép.
+(2)
 
-(3) A Hpt. 217. § (1) bekezdésében a „tizenöt munkanapon” szövegrész helyébe a „tíz munkanapon” szöveg lép.
+(3)
 
-(4) A Hpt. 217. § (1) bekezdésében a „tíz munkanapon” szövegrész helyébe a „hét munkanapon” szöveg lép.
+(4)
 
-(5) A Hpt. 228. § (6) bekezdésében az „öt munkanapon” szövegrész helyébe a „három munkanapon” szöveg lép.
+(5)
 
-(6) A Hpt. 228. § (6) bekezdésében a „három munkanapon” szövegrész helyébe az „egy munkanapon” szöveg lép.
+(6)
