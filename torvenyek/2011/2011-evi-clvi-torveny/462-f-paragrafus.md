@@ -20,6 +20,6 @@ b) az (1) bekezdés b) pont szerinti munkavállaló esetében a foglalkoztatott 
 
 (5) E § alkalmazásában
 
-a) kutatóhely: a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény (a továbbiakban: Innovációs tv.) 4. § 4. a) pontja szerinti kutatóhely,
+a) kutatóhely: a tudományos kutatásról, fejlesztésről és innovációról szóló törvény (a továbbiakban: Innovációs tv.) szerinti kutatóhely,
 
-b) kutató, fejlesztő: az Innovációs tv. 4. § 4. d) pontja szerinti kutató, fejlesztő.
+b) kutató, fejlesztő: az Innovációs tv. szerinti kutató, fejlesztő.

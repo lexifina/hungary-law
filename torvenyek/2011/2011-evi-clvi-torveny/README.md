@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-156-00-00
 | 2014-01-01 | 2013. évi CC. törvény | 2011-156-00-00.23 |
 | 2014-01-02 | 2010. évi CXXX. törvény | 2011-156-00-00.24 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2011-156-00-00.25 |
+| 2015-01-01 | 2014. évi LXXIV. törvény | 2011-156-00-00.26 |

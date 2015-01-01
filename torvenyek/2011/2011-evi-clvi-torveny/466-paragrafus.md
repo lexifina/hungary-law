@@ -28,7 +28,7 @@ e) az igazságügyi alkalmazotti szolgálati viszony,
 
 f) az ügyészségi szolgálati jogviszony,
 
-g) a hivatásos nevelőszülői jogviszony,
+g) a nevelőszülői foglalkoztatási jogviszony,
 
 h) az ösztöndíjas foglalkoztatási jogviszony,
 
