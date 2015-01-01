@@ -1,1 +1,0 @@
-## 191. § Előállításra irányuló bírósági megkeresés esetén az elítéltet tájékoztatni kell, hogy kérheti az intézet székhelye szerinti illetékes bíróság általi meghallgatását. A kérelmet az idézést kiadó bíróságnál kell előterjeszteni.

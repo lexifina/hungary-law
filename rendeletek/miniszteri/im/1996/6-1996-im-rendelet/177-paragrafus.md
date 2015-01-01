@@ -1,1 +1,0 @@
-## 176. § Abban az intézetben, ahol gyógyító-nevelő csoport működik, a parancsnok orvosi javaslatra – legfeljebb harminc napig – gyógyító-nevelő csoportba helyezheti a személyiségzavarban szenvedő elítéltet.

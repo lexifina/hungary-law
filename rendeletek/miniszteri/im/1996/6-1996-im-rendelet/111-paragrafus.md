@@ -1,1 +1,0 @@
-## 110. § A tizennyolc éven aluli fiatalkorú, továbbá az elítélt nő – a terhesség megállapításától gyermeke hat hónapos koráig, illetve, ha a gyermek az intézetben van elhelyezve, egyéves koráig – éjszakai munkára nem osztható be.

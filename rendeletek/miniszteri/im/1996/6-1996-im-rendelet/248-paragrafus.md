@@ -1,1 +1,0 @@
-## 247. § Az intézetben megtartott egyházi rendezvényeken az ugyanazon büntetőeljárásban letartóztatottak is részt vehetnek, ha az intézet biztosítani tudja, hogy az érintettek egymással ne érintkezhessenek.

@@ -1,1 +1,0 @@
-## 154. § Az elítélt a szükségleti cikkek vásárlására meghatározott összegen felül – a letéti pénze terhére –, engedéllyel megvásárolhatja az intézetben magánál tartható tárgyakat, hozzátartozójának ajándékot vásárolhat, szabadulása előtt a polgári ruházatát kiegészítheti.

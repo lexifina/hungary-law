@@ -1,1 +1,0 @@
-## 217. § Ha az elítélt a szabadságvesztés végrehajtása alatt tölti be a huszonegyedik életévét, az intézet legalább harminc nappal azelőtt előterjesztést tesz a bv. bírónak az új végrehajtási fokozat megállapítására. Az előterjesztésnek az értékelő véleményt is tartalmaznia kell.

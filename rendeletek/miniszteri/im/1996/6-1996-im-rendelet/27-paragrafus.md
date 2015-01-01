@@ -1,1 +1,0 @@
-## 26. § A nyilvántartásba vételkor az elítéltről fényképet kell készíteni, és nyilvántartási számmal kell ellátni. A fénykép és a nyilvántartási szám csak törvényben meghatározott esetekben – az országos parancsnok engedélyével – hozható nyilvánosságra.

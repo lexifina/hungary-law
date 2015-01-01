@@ -1,1 +1,0 @@
-## 216. § Az általános iskolai, illetve az első szakmai végzettséget adó iskolarendszerű képzésben részt vevő fiatalkorúakat a végzettség megszerzéséhez szükséges képzési idő alatt munkavégzési kötelezettség, és a tartására fordított költségekhez való hozzájárulás nem terheli.

@@ -1,3 +1,0 @@
-87. § (1) Ha az intézet az általa tartalmilag ellenőrizhető levél tekintetében megállapítja, hogy az intézet, illetve a fogvatartás biztonságát veszélyeztető adatot, információt vagy tárgyat tartalmaz, az ilyen levél nem továbbítható, az elítéltnek nem kézbesíthető.
-
-(2) A levél továbbításának vagy kézbesítésének a megtagadását az elítélttel közölni kell, a levelet – kivéve, ha fegyelmi eljárás vagy büntetőeljárás indítása szükséges – vissza kell adni, illetve a feladónak vissza kell küldeni. Az elítéltnek érkezett levél biztonságot nem veszélyeztető részéről az elítéltet szóban tájékoztatni kell.
