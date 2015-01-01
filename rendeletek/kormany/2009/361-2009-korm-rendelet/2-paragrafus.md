@@ -2,15 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában:
 
-1. csoport: a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben (a továbbiakban: Hpt.) meghatározott fogalom;
-
-2. devizahitel:
-
-a) forinttól eltérő pénznemben folyósított hitel,
-
-b) devizában nyilvántartott, de forintban folyósított hitel;
-
-3. gépjármű piaci értéke: új gépjármű esetén a gépjármű bruttó vételára, használt gépjármű esetén a nemzetközi kereskedelmi járműadatbázissal rendelkező, Európában és Magyarországon is a teljes gépjárműszegmens által használt és elfogadott gépjármű értékelő rendszer felhasználásával számított eladási érték;
+1–3.[^15]
 
 4. hitel: a Hpt.-ben meghatározott hitel és pénzkölcsön;
 
@@ -18,14 +10,14 @@ b) devizában nyilvántartott, de forintban folyósított hitel;
 
 6. hitelezhetőségi limit: a hitelnyújtó belső szabályzata alapján forintban meghatározott maximális havi hiteltörlesztési képességet kifejező összeg;
 
-7. ingatlan forgalmi értéke: a termőföldnek nem minősülő ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertani elvekről szóló 25/1997. (VIII. 1.) PM rendelet 2. § (2) bekezdésének a) pontjában és a termőföld hitelbiztosítéki értéke meghatározásának módszertani elveiről szóló 54/1997. (VIII. 1.) FM rendelet 3. § (2) bekezdésének a) pontjában meghatározott, a piaci összehasonlító adatok elemzésén alapuló értékelés szerint meghatározott érték;
-
-8. kitettség: a Hpt.-ben meghatározott fogalom;
+7–8.[^16]
 
 9. pénzforgalmi intézmény: az a Hpt.-ben meghatározott pénzforgalmi intézmény, aki engedéllyel rendelkezik a pénzforgalmi szolgáltatásához kapcsolódóan hitel- és pénzkölcsönnyújtási tevékenység végzésére;
 
-10.[^13] pénzügyi intézmény: a Hpt.-ben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is;
+10.[^17] pénzügyi intézmény: a Hpt.-ben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is;
 
 11. pénzügyi lízing: a Hpt.-ben meghatározott fogalom.
 
-[^13]: A 2. § 10. pontja a 348/2011. (XII. 30.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^15]: A 2. § 1–3. pontját a 315/2014. (XII. 12.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^16]: A 2. § 7–8. pontját a 315/2014. (XII. 12.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^17]: A 2. § 10. pontja a 348/2011. (XII. 30.) Korm. rendelet 45. §-a szerint módosított szöveg.

@@ -30,11 +30,11 @@ h)[^9] az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársas
 
 (3a)[^10] A (3) bekezdés alkalmazásában a fizetőképesség helyreállításával indokolt mértékű hitelnyújtásnak minősül az is, ha a hitelnyújtó az ingatlanra bejegyzett végrehajtási jog vagy jelzálogjog jogosultja követelésének kielégítése érdekében nyújtja az új hitelt.
 
-(4) E rendelet hatálya – a 6. § kivételével – nem terjed ki az olyan ingatlanra alapított jelzálogjog fedezete mellett nyújtott hitelre, amelynél a szerződés alapján fennálló hitel tőkeösszege folyamatosan növekszik, és a hitel visszafizetésének esedékessége a természetes személy halálát, illetőleg a fedezetként szolgáló ingatlan életvitelszerű használatának felhagyását vagy értékesítését követően áll be.
+(4)[^11] E rendelet hatálya nem terjed ki az olyan ingatlanra alapított jelzálogjog fedezete mellett nyújtott hitelre, amelynél a szerződés alapján fennálló hitel tőkeösszege folyamatosan növekszik, és a hitel visszafizetésének esedékessége a természetes személy halálát, illetőleg a fedezetként szolgáló ingatlan életvitelszerű használatának felhagyását vagy értékesítését követően áll be.
 
-(5) E rendelet 6. §-át nem kell alkalmazni az állami kezességvállalással biztosított lakáscélú kölcsönökre.
+(5)[^12]
 
-(6)[^11] E rendelet hatálya – a 4. § (1) és (2) bekezdésében meghatározott belső szabályzati korlátok alkalmazásának kivételével – nem terjed ki a hatálybalépésekor fennálló hitelek más hitellel, vagy pénzügyi lízinggel történő kiváltására, ha
+(6)[^13] E rendelet hatálya nem terjed ki a hatálybalépésekor fennálló hitelek más hitellel, vagy pénzügyi lízinggel történő kiváltására, ha
 
 a) ezáltal a hiteltartozás összege nem növekszik a kiváltott hitel, illetve hitelek együttes összegét meghaladó mértékben, és
 
@@ -46,7 +46,7 @@ bb) kizárólag euróhitel, euró alapú hitel , ha valamennyi eredeti hitel eur
 
 bc) kizárólag svájci frank hitel vagy svájci frank alapú hitel, ha valamennyi eredeti hitel svájci frank hitel vagy svájci frank alapú hitel.
 
-(7)[^12] A (6) bekezdés alkalmazásában a hiteltartozás összege nem növekszik, ha az új hitel folyósításkori összege a hitelnyújtók közötti árfolyamkülönbség és az eredeti hiteltartozás lezárásához vagy az új hitel folyósításához kapcsolódó igazolt díjak, költségek miatt haladja meg az eredeti hiteltartozás kiváltáskor fennálló összegét és az új hitel nyújtója a hiteltartozás összegét haladéktalanul csökkenti az eredeti hitelnyújtó által hiteljóváírásra fel nem használt, visszautalt összeggel.
+(7)[^14] A (6) bekezdés alkalmazásában a hiteltartozás összege nem növekszik, ha az új hitel folyósításkori összege a hitelnyújtók közötti árfolyamkülönbség és az eredeti hiteltartozás lezárásához vagy az új hitel folyósításához kapcsolódó igazolt díjak, költségek miatt haladja meg az eredeti hiteltartozás kiváltáskor fennálló összegét és az új hitel nyújtója a hiteltartozás összegét haladéktalanul csökkenti az eredeti hitelnyújtó által hiteljóváírásra fel nem használt, visszautalt összeggel.
 
 [^1]: Az 1. § (1) bekezdése a 348/2011. (XII. 30.) Korm. rendelet 45. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 397/2012. (XII. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
@@ -58,5 +58,7 @@ bc) kizárólag svájci frank hitel vagy svájci frank alapú hitel, ha valamenn
 [^8]: Az 1. § (3) bekezdés g) pontját az 57/2012. (III. 30.) Korm. rendelet 23. §-a iktatta be.
 [^9]: Az 1. § (3) bekezdés h) pontját a 212/2013. (VI. 19.) Korm. rendelet 13. §-a iktatta be.
 [^10]: Az 1. § (3a) bekezdését a 397/2012. (XII. 20.) Korm. rendelet 8. § (3) bekezdése iktatta be.
-[^11]: Az 1. § (6) bekezdése a 397/2012. (XII. 20.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
-[^12]: Az 1. § (7) bekezdését a 152/2010. (IV. 30.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 348/2011. (XII. 30.) Korm. rendelet 43. § (4) bekezdésével megállapított szöveg.
+[^11]: Az 1. § (4) bekezdése a 315/2014. (XII. 12.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^12]: Az 1. § (5) bekezdését a 315/2014. (XII. 12.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^13]: Az 1. § (6) bekezdése a 397/2012. (XII. 20.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg, nyitó szövegrésze a 315/2014. (XII. 12.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^14]: Az 1. § (7) bekezdését a 152/2010. (IV. 30.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 348/2011. (XII. 30.) Korm. rendelet 43. § (4) bekezdésével megállapított szöveg.
