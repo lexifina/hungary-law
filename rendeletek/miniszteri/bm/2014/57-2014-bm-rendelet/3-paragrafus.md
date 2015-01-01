@@ -1,0 +1,19 @@
+3. § (1) Ha az elkövető a szabálysértési elzárást kiszabó határozat jogerőre emelkedésekor nincs őrizetben, a szabálysértési hatóság a bírósági határozat egyidejű kézbesítése mellett felhívja, hogy a szabálysértési elzárás végrehajtása végett a megjelölt napon, a felhívásban meghatározott bv. intézetben jelentkezzék. Egyidejűleg a bírósági határozat egy példányát megküldi a bv. intézetnek, fiatalkorú elkövető esetén az elkövető törvényes képviselőjének és a lakóhely szerint illetékes gyámhatóságnak, továbbá közli a szabálysértési elzárás megkezdésének és végrehajthatósága elévülésének időpontját.
+
+(2) A felhívást úgy kell kiadni, hogy azt az elkövető a bv. intézetben való jelentkezésre meghatározott időpont előtt legalább nyolc nappal megkapja.
+
+(3) Az elkövető figyelmét fel kell hívni arra, hogy
+
+a) egynapi élelmet, az évszaknak megfelelő egy váltásra való felsőruházatot és lábbelit, valamint tisztasági csomagot – tisztálkodó szerek, egy váltás fehérnemű – hozhat magával,
+
+b) hozzátartozója vagy az elkövető által megjelölt más személy csomagot küldhet az elkövető részére,
+
+c) a jelentkezés elmulasztása esetén elővezetését, továbbá annak eredménytelensége esetén a körözését rendelik el, és az elővezetés költségét külön jogszabályban foglaltak szerint meg kell térítenie.
+
+(4) Az elkövetőt fel kell hívni, hogy
+
+a) a személyazonossága igazolására alkalmas hatósági igazolványát, valamint társadalombiztosítási azonosító jelét igazoló hatósági igazolványát,
+
+b) aktuálisan fennálló megbetegedéseire kezelőorvosa által rendelt, folyamatosan alkalmazott gyógyszeres kezelésére, gyógyászati segédeszközeire vonatkozó, rendelkezésére álló dokumentumokat – így különösen házi/szakorvosi ambuláns vizsgálati lap, lelet, kórházi zárójelentés, szakorvosi javaslat a támogatással történő gyógyszerrendeléshez, előjegyzés járóbeteg szakvizsgálatokra, fekvőbeteg intézeti gyógykezelésre –, illetve aktuális egészségi állapotának megfelelő, dokumentummal igazoltan a kezelőorvos által rendelt gyógyszereit, gyógyászati segédeszközeit,
+
+c) a legmagasabb iskolai végzettségéről, szakképzettségéről szóló bizonyítványát, oklevelét, vagy azok fénymásolatát
