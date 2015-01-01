@@ -1,25 +1,39 @@
-4. melléklet a 21/2009. (VI. 19.) IRM rendelethez
+4. melléklet a 21/2009. (VI. 19.) IRM rendelethez[^22]
 
-Adatközlés a bűncselekmények helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérlenyomat, valamint DNS-profil nyilvántartásba vételére
+Eljáró hatóság megnevezése:
 
-| 1. Adatközlés ⬜a daktiloszkópiai nyilvántartásba; ⬜a DNS-profil-nyilvántartásba. |
+Eljáró hatóság ügyszáma:
 
-| 2. A bűncselekmény adatai: |  |
+Adatközlés a bűncselekmények helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérnyomat, valamint DNS-profil nyilvántartásba vételére
 
-|  | Kód és megnevezés | Btk. szerinti minősítés | Rend- beliség | Elkövetési hely | Elkövetési idő |  |
+| 1. Adatközlés |
 
-|  | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ………………………………………… |  |  |  |  |  |
+| □ a daktiloszkópiai nyilvántartásba; |
 
-|  | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ………………………………………… |  |  |  |  |  |
+| □ a DNS-profil-nyilvántartásba. |
 
-|  | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ………………………………………… |  |  |  |  |  |
+| 2. A bűncselekmény adatai: |
 
-| 3. A nyilvántartásba vételt kezdeményező nyomozó hatóság adatai 3.1. Az eljáró szerv kódja és megnevezése: ⬜⬜⬜⬜⬜⬜⬜- 3.2. A büntetőügy iktatószáma: 3.3. Az eljárásban rögzített bűnjeltárgy / bűnjelminta egyedi azonosítója: |
+| Kód és megnevezés | Btk. szerinti minősítés | Rendbeliség | Elkövetési hely | Elkövetési idő |
 
-Kelt:………………………….., 200………év …………hó ………….nap
+| □□□□□□□□□□□□□□□□□ .......................................... |  |  |  |  |
 
-P.H.
+| □□□□□□□□□□□□□□□□□ .......................................... |  |  |  |  |
 
-………………………………………………...
+| □□□□□□□□□□□□□□□□□ .......................................... |  |  |  |  |
 
-Az eljáró szerv képviselője
+| 3. A nyilvántartásba vételt kezdeményező nyomozó hatóság vagy ügyészség adatai |
+
+| 3.1. Az eljáró szerv kódja és megnevezése: □□□□□□□ ...............................................................................................................................................…………………………… |
+
+| 3.2. A büntetőügy iktatószáma: ...............................................................................................................................................…………………………… |
+
+| 3.3. Az eljárásban rögzített bűnjeltárgy / bűnjelminta egyedi azonosítója: ...............................................................................................................................................…………………………… |
+
+| Kelt: ............................................., ……...... év ......................................... hó .............. nap |
+
+| P. H. |
+
+| ....................................................................... Az eljáró szerv képviselője |
+
+[^22]: A 4. melléklet a 17/2014. (XII. 19.) IM rendelet 39. §-ával megállapított szöveg.

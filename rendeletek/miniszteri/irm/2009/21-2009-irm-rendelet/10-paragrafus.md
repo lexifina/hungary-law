@@ -6,7 +6,7 @@ a) a nyomozó hatóság, az ügyészség, valamint a katonai nyomozó hatóság
 
 aa) a mintavételi egységcsomag, valamint a megfelelően kitöltött és belső azonosító kóddal ellátott jegyzőkönyvnek a szakértői nyilvántartó szerv részére történő megküldésével,
 
-ab)[^10] a 8. § (3) és (4) bekezdésben meghatározott módon,
+ab)[^20] a 8. § (3) és (4) bekezdésben meghatározott módon,
 
 b) a büntetés-végrehajtási intézet a mintavételi egységcsomag, valamint a megfelelően kitöltött és belső azonosító kóddal ellátott jegyzőkönyvnek a szakértői nyilvántartó szerv részére történő megküldésével
 
@@ -18,7 +18,7 @@ a) a megalapozott gyanú közlésétől számított három – ha a DNS-mintavé
 
 b) a bűncselekmény elkövetése miatt jogerősen végrehajtandó szabadságvesztés büntetésre ítélt befogadását követően haladéktalanul,
 
-c)[^11]
+c)[^21]
 
-[^10]: A 10. § (1) bekezdés a) pont ab) alpontja a 19/2010. (IV. 30.) IRM rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^11]: A 10. § (2) bekezdés c) pontját a 19/2010. (IV. 30.) IRM rendelet 17. § (3) bekezdése hatályon kívül helyezte.
+[^20]: A 10. § (1) bekezdés a) pont ab) alpontja a 19/2010. (IV. 30.) IRM rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^21]: A 10. § (2) bekezdés c) pontját a 19/2010. (IV. 30.) IRM rendelet 17. § (3) bekezdése hatályon kívül helyezte.
