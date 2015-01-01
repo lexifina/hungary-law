@@ -1,3 +1,5 @@
+## 1/A. §[^1] E rendelet hatálya a belföldön nyilvántartásba vett adóalanyra terjed ki.
+
 ## 2. Értelmező rendelkezések
 
 ## 2. § E rendelet alkalmazásában
@@ -9,3 +11,5 @@
 3. számlázó program azonosítója: valamely számlázó program készítője vagy fejlesztője által meghatározott megnevezés, elnevezés, valamint a számlázó program különböző előállított változatainak megkülönböztetésére szolgáló betű és szám karaktersorozat, mozaikszó;
 
 4. számítógéppel előállított nyugta: elektronikus vagy papír alapon kibocsátott, számítógéppel előállított nyugta.
+
+[^1]: Az 1/A. §-t a 45/2014. (XII. 30.) NGM rendelet 23. §-a iktatta be.

@@ -1,5 +1,6 @@
-## 26. §[^5]
+## 27. §[^13] E rendeletnek az egyes közvetett adózási tárgyú PM és NGM rendeletek módosításáról szóló 45/2014. (XII. 30.) NGM rendelettel (a továbbiakban: Mód. rendelet) módosított 10. § (1) bekezdését és 16. § (2) bekezdését, valamint a Mód. rendelettel megállapított 10. § (6) és (7) bekezdését, 16. § (6) és (7) bekezdését ezen rendelkezések hatálybalépése[^14] előtt értékesített, használatba vett programok esetében is alkalmazni lehet.
 
 1. melléklet a 23/2014. (VI. 30.) NGM rendelethez
 
-[^5]: A 26. § a 20. § (3) bekezdése alapján 2015. július 1-jén lép hatályba.
+[^13]: A 27. §-t a 45/2014. (XII. 30.) NGM rendelet 28. §-a iktatta be.
+[^14]: A hatálybalépés időpontja 2015. január 1.
