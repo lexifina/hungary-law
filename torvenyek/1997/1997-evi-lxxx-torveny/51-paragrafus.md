@@ -1,6 +1,6 @@
 ## A családi járulékkedvezmény érvényesítése
 
-Tbj. 51. § (1) A foglalkoztató köteles a családi járulékkedvezmény havi összegének megállapítására, ha az Szja tv. szerint adóelőleget megállapító munkáltatónak minősül.
+Tbj. 51. § (1) A foglalkoztató köteles a családi járulékkedvezmény havi összegének megállapítására, ha az Szja tv. szerint adóelőleget megállapító munkáltatónak minősül vagy olyan kifizetőnek, amely a magánszemély részére az összevont adóalapba tartozó rendszeres jövedelmet juttat.
 
 (2) A családi járulékkedvezmény havi összege az Szja tv. szerinti családi kedvezmény adóelőleg-nyilatkozat szerinti havi összege és a tárgyhavi személyi jövedelemadó adóelőleg-alap különbözetének – ha az pozitív – 16 százaléka, de legfeljebb a biztosítottat a tárgyhónapban terhelő
 

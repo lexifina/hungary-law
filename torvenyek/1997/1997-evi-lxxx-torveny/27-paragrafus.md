@@ -8,4 +8,4 @@ Tbj. 27. § (1)
 
 (4) A 4. § d) pont 5. alpontja szerinti társas vállalkozó esetén a személyes közreműködés díjazásának az ügyvezetés díjazását kell tekinteni.
 
-(5) A társas vállalkozás a korkedvezményre jogosító munkakörben foglalkoztatott biztosított társas vállalkozó után a nyugdíjjárulék alapjának alapulvételével korkedvezmény-biztosítási járulékot fizet, kivéve, ha e kötelezettsége alól külön jogszabály szerint mentesítették.
+(5)

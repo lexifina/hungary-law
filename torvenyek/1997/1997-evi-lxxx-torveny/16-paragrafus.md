@@ -2,7 +2,7 @@
 
 Tbj. 16. § (1) Egészségügyi szolgáltatásra jogosult – az e törvény szerint biztosított, illetőleg a 13. § szerint egészségügyi szolgáltatásra jogosult személyeken túl – az, aki
 
-a) táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban, baleseti táppénzben, baleseti járadékban,
+a) csecsemőgondozási díjban, gyermekgondozási díjban, baleseti táppénzben, baleseti járadékban,
 
 b) a 14. § (3) bekezdése alapján saját jogán nyugdíjban, hozzátartozói nyugellátásban, rehabilitációs járadékban,
 
@@ -18,7 +18,7 @@ g) egyházi jogi személytől nyugdíjban vagy a Magyar Alkotóművészeti Köza
 
 h) az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátásban, időskorúak járadékában, ápolási díjban, gyermeknevelési támogatásban
 
-részesül,
+részesül, továbbá
 
 i) a köznevelésről szóló törvény hatálya alá tartozó nappali rendszerű iskolai oktatás keretében vagy nappali oktatás munkarendje szerinti köznevelési intézményben, továbbá a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató nagykorú magyar állampolgár, menekült, oltalmazott, valamint az a külföldi állampolgár, aki nemzetközi szerződés vagy az oktatásért felelős miniszter által adományozott ösztöndíj alapján létesített tanulói, hallgatói jogviszonyban áll, továbbá az a szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozó személy, aki a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében államilag támogatott, vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában hallgatói jogviszonyban áll,
 

@@ -14,7 +14,7 @@ c) a kiegészítő tevékenységet folytató egyéni vállalkozó, a kiegészít
 
 d) az egészségügyi szolgáltatások fedezetére a külön törvényben meghatározott személy egészségügyi hozzájárulást
 
-e) a foglalkoztató a külön jogszabályban meghatározott korkedvezményre jogosító munkakörben foglalkoztatott, saját jogú nyugdíjasnak nem minősülő biztosított, illetőleg kiegészítő tevékenységet folytatónak nem minősülő társas vállalkozó után, valamint a korkedvezményre jogosító munkakörben vállalkozói tevékenységet végző biztosított egyéni vállalkozó korkedvezmény-biztosítási járulékot
+e)
 
 fizet.
 

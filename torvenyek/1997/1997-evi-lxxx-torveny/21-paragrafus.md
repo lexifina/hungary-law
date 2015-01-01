@@ -4,7 +4,7 @@ Tbj. 21. § Nem képezi a nyugdíjjárulék és az egészségbiztosítási- é
 
 a) a foglalkoztató által megállapított és folyósított társadalombiztosítási ellátás, valamint a szociális ellátásnak nem a foglalkoztatót terhelő összege,
 
-b) az Szja tv. 71. §-a szerinti béren kívüli juttatás,
+b)
 
 c) a jövedelmet pótló kártérítés (keresetpótló járadék),
 

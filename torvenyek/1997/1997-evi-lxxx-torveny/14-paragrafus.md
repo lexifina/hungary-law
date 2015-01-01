@@ -8,7 +8,7 @@ a) egészségügyi szolgáltatás;
 
 b) pénzbeli ellátások:
 
-ba) terhességi-gyermekágyi segély,
+ba) csecsemőgondozási díj,
 
 bb) gyermekgondozási díj,
 
