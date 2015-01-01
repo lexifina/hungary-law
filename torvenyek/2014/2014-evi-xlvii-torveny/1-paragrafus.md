@@ -1,0 +1,1 @@
+1. § Az Országgyűlés felhatalmazást ad az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó, Genfben, 1975. november 14-én kelt vámegyezmény mellékleteinek módosításai (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
