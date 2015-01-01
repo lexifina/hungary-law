@@ -10,11 +10,11 @@
 
 (5) E törvény alkalmazásában
 
-a) munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, közalkalmazotti jogviszony, bírósági és igazságügyi, valamint ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói – és az 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a nevelőszülői foglalkoztatási jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya, – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját –, fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya,
+a) munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, közalkalmazotti jogviszony, bírósági és igazságügyi, valamint ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói – és az 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a nevelőszülői foglalkoztatási jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját és a szociális szövetkezet tagi munkavégzésre irányuló jogviszonyban munkát végző tagját –, fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya,
 
 b) munkavállaló: az, aki az a) pontban meghatározott munkaviszonyban áll,
 
-c) munkaadó: az a jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, illetve magánszemély és annak jogi személyiséggel nem rendelkező társasága, aki munkavállalót foglalkoztat, vagy foglalkoztatni kíván.
+c) munkaadó: az a jogi személy, jogi személyiséggel nem rendelkező szervezet, valamint természetes személy, aki munkavállalót foglalkoztat, illetve foglalkoztatni kíván,
 
 d) álláskereső: az a személy, aki
 
@@ -24,7 +24,7 @@ d) álláskereső: az a személy, aki
 
 3. öregségi nyugdíjra nem jogosult, rehabilitációs járadékban, valamint a megváltozott munkaképességű személyek ellátásaiban nem részesül és
 
-4. az alkalmi foglalkoztatásnak minősülő munkaviszony kivételével munkaviszonyban nem áll, és egyéb kereső tevékenységet sem folytat, és
+4. az alkalmi foglalkoztatásnak minősülő munkaviszony és a nevelőszülői foglalkoztatási jogviszony kivételével munkaviszonyban nem áll, és egyéb keresőtevékenységet sem folytat, és
 
 5. elhelyezkedése érdekében az állami foglalkoztatási szervvel együttműködik, és akit
 
@@ -40,9 +40,9 @@ e) kereső tevékenység: – az 1–5. pontban foglaltak figyelembevételével 
 
 3. A külön törvény alapján végzett közérdekű önkéntes tevékenység nem minősül kereső tevékenységnek.
 
-4. A külön törvény alapján a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenység nem minősül kereső tevékenységnek.
+4. Nevelőszülői foglalkoztatási jogviszonyban álló nevelőszülő e törvény alkalmazása szempontjából nem tekinthető keresőtevékenységet folytató személynek, ha nevelőszülői jogviszonya mellett más keresőtevékenységet nem végez.
 
-5. A szociális szövetkezet tagja által a szövetkezetben végzett személyes közreműködés, akkor minősül kereső tevékenységnek, ha a személyes közreműködés ellenértékeként megszerzett bevétel meghaladja a személyi jövedelemadóról szóló törvény alapján az adómentes bevétel értékhatárát,
+5. A szociális szövetkezet tagja által a szövetkezetben végzett személyes közreműködés akkor minősül keresőtevékenységnek, ha a személyes közreműködés ellenértékeként megszerzett bevétel meghaladja havonta a minimálbér összegét.
 
 f) magas szintű képzettséget igénylő munkavállalás: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § p) pontja szerinti munkavállalás,
 
@@ -62,7 +62,7 @@ j) munkaközvetítő tevékenység: olyan szolgáltatás, amelynek célja a munk
 
 k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű személy esetén 30. életévét — be nem töltött, a munkaviszony létesítéséhez szükséges feltételekkel rendelkező, az állami foglalkoztatási szerv által nyilvántartott álláskereső, feltéve, ha munkanélküli járadékra a tanulmányainak befejezését követően nem szerzett jogosultságot. Nem tekinthető pályakezdő álláskeresőnek, aki
 
-1. terhességi-gyermekágyi segélyben, gyermekgondozási díjban, illetőleg gyermekgondozási segélyben részesül,
+1. terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, illetőleg gyermekgondozási segélyben részesül,
 
 2. előzetes letartóztatásban van, szabadságvesztés, illetve elzárás büntetését tölti,
 
@@ -88,11 +88,7 @@ t) társas vállalkozó: a Tbj. 5. §-a (1) bekezdésének f) pontja szerint biz
 
 u) elektronikus levél: az egyedi levelezési címek között levelezőprogram segítségével küldhető és fogadható adategyüttes.
 
-v) munkaerőpiaci szolgáltatást kérő:
-
-va) az a természetes személy, aki az állami foglalkoztatási szerv szolgáltatását az álláskeresők ellátása és a foglalkoztatást elősegítő támogatások iránti kérelem benyújtása nélkül veszi igénybe vagy olyan támogatás érdekében veszi igénybe, amelynek nem feltétele az álláskeresőként történő nyilvántartásba vétel, vagy
-
-vb) az a munkaadó, aki harmadik országbeli állampolgár magyarországi foglalkoztatásának engedélyezése érdekében munkaerőigényt jelent be és közvetítést is kér,
+v)
 
 v) harmadik országból származó munkavállaló: az a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár, aki a magyar idegenrendészeti hatóságok által összevont engedélyként kiállított tartózkodási engedély birtokában jogszerűen tartózkodik Magyarország területén, és foglalkoztatásra irányuló jogviszony keretében munkát vállalhat.
 
@@ -126,7 +122,7 @@ e) az e törvényben meghatározott nyilvántartások vezetésének
 
 f) a gyermek- és ifjúságpolitikáért felelős miniszterrel egyetértésben a kedvezményezett által az adatbázisba történő adatrögzítés eljárásának, az adatszolgáltatás technikai feltételeit, továbbá az ellenőrzés szakmai tartalmát.
 
-g)
+g) a munkaadó munkaerőigénye bejelentése módjának és formájának
 
 szabályait.
 
@@ -134,7 +130,7 @@ szabályait.
 
 (9) Ahol e törvény
 
-a) gyermekgondozási díjat, gyermekgondozási segélyt, terhességi gyermekágyi segélyt, gyermeknevelési támogatást, ápolási díjat, öregségi nyugdíjat, rokkantsági, valamint baleseti rokkantsági nyugdíjat, rendszeres szociális járadékot, átmeneti járadékot, megváltozott munkaképességű személyek ellátásait, továbbá bányászok egészségkárosodási járadékát,
+a) gyermekgondozási díjat, gyermekgondozási segélyt, terhességi-gyermekágyi segélyt, csecsemőgondozási díjat, gyermeknevelési támogatást, ápolási díjat, öregségi nyugdíjat, rokkantsági, valamint baleseti rokkantsági nyugdíjat, rendszeres szociális járadékot, átmeneti járadékot, megváltozott munkaképességű személyek ellátásait, továbbá bányászok egészségkárosodási járadékát,
 
 b) munkaviszonyt
 

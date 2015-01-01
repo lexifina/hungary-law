@@ -1,0 +1,1 @@
+59/E. § E törvénynek a Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított rendelkezéseit a Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvény hatálybalépésekor folyamatban lévő közigazgatási hatósági eljárásban is alkalmazni kell.

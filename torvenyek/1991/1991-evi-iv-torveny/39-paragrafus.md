@@ -34,7 +34,7 @@ b)
 
 c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a nem az állami foglalkoztatási szerv által nyújtott munkaerőpiaci szolgáltatások nyújtására, az állami foglalkoztatási szerv által az alap- és középfokú oktatási intézményben pályaválasztás elősegítése érdekében szervezett munkaerőpiaci információkat nyújtó rendezvény kiadásaira, valamint keresetpótló juttatással kapcsolatos postaköltség finanszírozására;
 
-d) bérgarancia alaprészt, a Bérgarancia Alapról szóló 1994. évi LXVI. törvényben meghatározott támogatás finanszírozására;
+d) bérgarancia alaprészt, a Bérgarancia Alapról szóló 1994. évi LXVI. törvényben meghatározott támogatás, valamint annak folyósításával kapcsolatos postaköltség finanszírozására;
 
 e) a képzési alaprészt, a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben, valamint a felnőttképzésről szóló törvényben meghatározott feladatok, támogatási programok finanszírozására;
 
@@ -60,7 +60,7 @@ h)
 
 (12) A Nemzeti Foglakoztatási Alap költségvetésében külön előirányzat tartalmazza:
 
-a) a külön jogszabályban meghatározott járulékkedvezmény megtérítésére szolgáló pénzeszközöket,
+a)
 
 b) az európai uniós operatív programok előfinanszírozásának céljára szolgáló pénzeszközöket,
 
@@ -72,7 +72,7 @@ e) az adórendszer átalakítása miatt kiegészítő munkáltatói támogatásr
 
 f) a Nyugdíjbiztosítási Alapnak átadandó pénzeszközöket,
 
-g) a tranzakciós díjak finanszírozására szolgáló pénzeszközöket,
+g) a kincstár által terhelt, a számlavezetéssel kapcsolatos működési kiadásokat.
 
 h) a kötelező legkisebb munkabér és a garantált bérminimum emeléséből 2013. első félévében adódó többletterhekhez igénybe vehető támogatásra fordítható pénzeszközöket.
 
@@ -82,4 +82,4 @@ j) uniós forrás terhére – előleg bevonásával – megvalósuló operatív
 
 k) az Európai Globalizációs Alkalmazkodási Alap elő- és társfinanszírozására szolgáló pénzeszközöket.
 
-(13)
+(13) A (12) bekezdés b) pontjában meghatározott előirányzatból elszámolhatók az 57/D. §-ban meghatározott adatbázishoz és az előfinanszírozással megvalósuló programokban a résztvevők nyilvántartásához, valamint a programokban nyújtott támogatások felhasználásának nyomon követéséhez szükséges informatikai költségek, továbbá a programok megvalósítását szolgáló módszertani fejlesztés költségei.

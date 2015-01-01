@@ -56,8 +56,12 @@ b) a harmadik országbeli állampolgárnak az a) pont szerinti tevékenység ell
 
 c) a harmadik országbeli állampolgár részére fizetendő díjazás mértékét,
 
-d) a foglalkoztatásra irányuló jogviszony megjelölését, valamint
+d) a foglalkoztatásra irányuló jogviszony megjelölését,
 
-e) a foglalkoztatásra irányuló jogviszony várható időtartamát.
+e) a foglalkoztatásra irányuló jogviszony várható kezdő és befejező időpontját,
+
+f) a foglalkoztatás helyének megjelölését, valamint
+
+g) ha a foglalkoztatásra várhatóan nem az általános teljes napi munkaidőben kerül sor, a részmunkaidős foglalkoztatás munkaidejét.
 
 (9) A felek a (8) bekezdés c) pontja szerinti díjazás mértékétől kizárólag a harmadik országbeli állampolgár javára térhetnek el.

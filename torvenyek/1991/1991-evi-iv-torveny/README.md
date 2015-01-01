@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-4-00-00
 | 2014-07-01 | 2013. évi CLVIII. törvény | 1991-4-00-00.95 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 1991-4-00-00.96 |
 | 2014-08-01 | 2014. évi XXX. törvény | 1991-4-00-00.97 |
+| 2015-01-01 | 2014. évi XCIX. törvény | 1991-4-00-00.98 |

@@ -12,7 +12,7 @@ c) lakcím (lakóhely, tartózkodási hely) és értesítési cím,
 
 d) foglalkozás, munkahely, munkakör (tevékenység),
 
-e) az álláskeresési ellátás, a foglalkoztatást elősegítő támogatás, valamint a munkaerőpiaci szolgáltatás megállapításához és igénybevételéhez e törvényben és más törvényben meghatározott adatok,
+e) az álláskeresési ellátás, a foglalkoztatást elősegítő támogatás, valamint a munkaerő-piaci szolgáltatás megállapításához és igénybevételéhez és nyújtásához szükséges e törvényben és más törvényben meghatározott adatok,
 
 f) iskolai végzettség(ek), szakképzettség(ek),
 
@@ -26,7 +26,7 @@ j) az arra vonatkozó adatok, hogy az álláskereső korhatár előtti ellátás
 
 k) a nemzetiséghez való tartozásra vonatkozó adatok,
 
-l) az állami foglalkoztatási szerv által végzett munkaközvetítői tevékenység végzéséhez az álláskereső munkavállalással kapcsolatos személyes és szakmai kompetenciáira, képességeire vonatkozó adatok,
+l) az állami foglalkoztatási szerv által végzett munkaközvetítői tevékenység végzéséhez, valamint a munkaerő-piaci szolgáltatások igénybevételéhez a munkavállalással kapcsolatos személyes és szakmai kompetenciákra, körülményekre és a munkáltató munkaerő-tervezésére vonatkozó adatok,
 
 m) a cselekvőképtelen vagy cselekvőképességében a munkaviszonnyal összefüggő ügycsoportban részlegesen korlátozott személy törvényes képviselőjének természetes személyazonosító adatait, lakóhelyét és értesítési címét.
 
@@ -58,8 +58,8 @@ szerinti adatok igénylésére jogosult.
 
 (9) Az (1) bekezdésben meghatározott szervek kötelesek adatvédelmi szabályzatot kiadni.
 
-(10)
+(10) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, az (1) bekezdés szerinti szervek által e törvény szerint kezelt személyes és különleges adatokat.
 
 (11) Az állami foglalkoztatási szerv – a (2) bekezdés a)–c) pontja szerinti adatok és a TAJ megküldésével – hivatalból értesíti a nyugdíjfolyósító szervet, ha korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személynek állapít meg vagy szüntet meg álláskeresési járadékot.
 
-(11) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, az (1) bekezdés szerinti szervek által e törvény szerint kezelt személyes és különleges adatokat.
+(11)

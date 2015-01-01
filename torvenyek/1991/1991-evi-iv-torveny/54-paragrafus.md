@@ -44,7 +44,7 @@ g) a megfelelő munkahelyre szóló állásajánlatot elfogadja.
 
 (10) Az álláskeresési járadékra vagy nyugdíj előtti álláskeresési segélyre jogosult vagy abban részesülő álláskereső az 58. § (5) bekezdés d) pontjának 5. alpontjában meghatározott együttműködési kötelezettség keretében a 25. § (2) bekezdésében meghatározott megfelelő munkahelyet köteles elfogadni.
 
-(10a) Az olyan álláskereső esetében, aki sem álláskeresési járadékra, sem nyugdíj előtti álláskeresési segélyre nem jogosult, a 25. § (2) bekezdésében foglaltakon kívül a munkahely abban az esetben is megfelelő, ha a foglalkoztatás közfoglalkoztatási jogviszonyban történik.
+(10a) A 25. életévét betöltött olyan álláskereső esetében, aki sem álláskeresési járadékra, sem nyugdíj előtti álláskeresési segélyre nem jogosult, és nem vesz részt munkaerő-piaci programban vagy nem részesül munkaerő-piaci szolgáltatásban a 25. § (2) bekezdésében foglaltakon kívül a munkahely abban az esetben is megfelelő, ha a foglalkoztatás közfoglalkoztatási jogviszonyban történik.
 
 (10b) A közfoglalkoztatási jogviszony keretében történő foglalkoztatás esetében a munkahely – a 25. § (2) bekezdés d) pontjában foglaltakon kívül – akkor is megfelelő, ha a munkavégzés helye és a közfoglalkoztatott lakóhelye között naponta történő oda- és visszautazás ideje tömegközlekedési eszközzel
 
@@ -56,17 +56,17 @@ a foglalkoztató gondoskodik.
 
 (10c) Ha a közfoglalkoztatási jogviszony keretében történő foglalkoztatás esetében a napi pihenő idő eltöltésére a lakóhelytől különböző településen kerül sor, az álláskereső csak abban az esetben köteles a felajánlott munkahelyet elfogadni, ha az családi körülményeire (különösen kiskorú gyermek gondozása, közeli hozzátartozó ápolása stb.) tekintettel hátrányos következményekkel nem jár. Ebben a kérdésben a lakóhelye szerinti települési önkormányzat jegyzőjének nyilatkozata az irányadó.
 
-(11) Az állami foglalkoztatási szerv álláskeresőként – kérelmére – azt a személyt veszi nyilvántartásba, aki
+(11) Az állami foglalkoztatási szerv álláskeresőként – a (12) bekezdésben foglaltak figyelembe vételével – kérelmére azt a személyt veszi nyilvántartásba, aki
 
-a) megfelel az 58. § (5) bekezdés d) pontjának 1–5. alpontjaiban meghatározott feltételeknek és
+a) megfelel az 58. § (5) bekezdés d) pont 1–5. alpontjában meghatározott feltételeknek és
 
-b) kötelezettséget vállal arra, hogy az állami foglalkoztatási szervvel a (9)–(10) bekezdésben foglaltak szerint
+b) kötelezettséget vállal arra, hogy az állami foglalkoztatási szervvel a (9) és (10) bekezdés szerint
 
 együttműködik.
 
-(12)
+(12) Az állami foglalkoztatási szerv a gyermekgondozási segélyben részesülő személyt – kérelmére – a (11) bekezdésben meghatározott feltételek fennállása esetén, akkor veszi álláskeresőként nyilvántartásba, ha annak folyósítása alatt, a családok támogatásáról szóló törvény szerint keresőtevékenységet folytathat.
 
-(13)
+(13) A közfoglalkoztatott a közfoglalkoztatás időtartama alatt köteles elfogadni az állami foglalkoztatási szerv által részére felajánlott, 25. § (2) bekezdése szerinti megfelelő munkahelyet.
 
 (14) Az állami foglalkoztatási szerv – külön jogszabályban meghatározott időponttól – törli az álláskeresők nyilvántartásából az álláskeresőt, ha
 
@@ -78,30 +78,36 @@ c) meghalt, vagy
 
 d) jelentkezési kötelezettségének személyesen vagy elektronikus levél útján nem tesz eleget, vagy
 
-e) a (9) bekezdés e)–g) pontjában, valamint a (10) bekezdésben foglalt együttműködési kötelezettségének nem tesz eleget, vagy
+e) a (9) bekezdés c) és e)–g) pontjában, valamint a (10) bekezdésben foglalt együttműködési kötelezettségének nem tesz eleget, vagy
 
 f) a körülményeiben bekövetkezett változás miatt nem tekinthető külön jogszabályban meghatározott aktív munkahelykeresőnek, vagy
 
-g) álláskeresési járadékra, álláskeresési segélyre, valamint vállalkozói járadékra nem jogosult vagy ezek folyósítási idejét kimerítette, és rendszeres szociális segélyben részesül, vagy
+g)
 
-h) külön törvény szerint az aktív korúak ellátására jogosult, de egészségkárosodottnak minősül, ezért a külön törvényben meghatározott együttműködési kötelezettség nem terheli, vagy
+h) külön törvény szerint az aktív korúak ellátására jogosult, de egészségkárosodottnak minősül, ezért a külön törvényben meghatározott együttműködési kötelezettség nem terheli.
 
-i) álláskeresési járadékra, álláskeresési segélyre, valamint vállalkozói járadékra nem jogosult vagy annak folyósítási idejét kimerítette, és külön törvény szerint aktív korúak ellátásának megállapítását kéri, feltéve, hogy a Szoc. tv. 37/B. § (1) bekezdése alapján az állami foglalkoztatási szervvel nem köteles együttműködni.
+i)
 
-(14a) Az álláskereső aktív munkahelykereső tevékenysége és álláskeresőként való nyilvántartása szünetel, ha az álláskereső
+(14a) Az álláskereső aktív munkahelykereső tevékenysége és álláskeresőként való nyilvántartása – a (18) bekezdésben foglaltak figyelembe vételével – szünetel, ha az álláskereső
 
-a) a munkaügyi központ által támogatott képzésben vesz részt,
+a) a munkaügyi központ által támogatott, vagy az állami felnőttképzési szerv által szervezett képzésben vesz részt,
 
-b) rövid, 90 napot meg nem haladó időtartamú kereső tevékenységet (kivéve az egyszerűsített foglalkoztatást) folytat, továbbá
+b) rövid, 90 napot meg nem haladó időtartamú keresőtevékenységet (kivéve az egyszerűsített foglalkoztatást) folytat,
 
-c) – az időtartamtól függetlenül – közfoglalkoztatásban vesz rész.
+c) – az időtartamtól függetlenül – közfoglalkoztatásban vesz rész,
 
-d) terhességi-gyermekágyi segélyre, gyermekgondozási díjra vagy gyermekgondozási segélyre való jogosultságának megállapítását jelenti be, terhességi-gyermekágyi segély és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozási segély esetén a jogosultság megállapításának napjától,
+d) terhességi-gyermekágyi segélyre, csecsemőgondozási díjra, gyermekgondozási díjra vagy gyermekgondozási segélyre való jogosultságának megállapítását jelenti be, terhességi-gyermekágyi segély, csecsemőgondozási díj és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozási segély esetén a jogosultság megállapításának napjától,
 
-e) önkéntes tartalékos katonai tényleges szolgálatot teljesít, a szolgálatteljesítés időtartama alatt.
+e) önkéntes tartalékos katonai tényleges szolgálatot teljesít, a szolgálatteljesítés időtartama alatt, továbbá
+
+f) szabadságvesztés időtartama alatt.
+
+(14b) Az álláskereső (9) bekezdés c) pontja szerinti bejelentési kötelezettsége a (14a) bekezdés szerinti szünetelés időtartama alatt is fennáll.
 
 (15) Az állami foglalkoztatási szerv hatósági ellenőrzési tevékenységére a közigazgatási hatósági eljárás általános szabályairól szóló törvény hatósági ellenőrzésre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy az állami foglalkoztatási szerv a személyazonosság megállapítására alkalmas okmány felmutatására szólíthatja fel azt az ügyfelet, akinek személyazonosságát meg kell állapítania.
 
 (16) A nemzetközi egyezmény hatálya alá tartozó személyre e törvény rendelkezéseit az egyezmény szabályai szerint kell alkalmazni.
 
 (17) Az állami foglalkoztatási szerv a (14) bekezdés g)–i) pontjában meghatározott feltételek fennállása esetén – kérelmére – nem törli az álláskeresők nyilvántartásából azt az ügyfelet, aki vállalja, hogy az állami foglalkoztatási szervvel a (9) bekezdésben foglaltak szerint együttműködik.
+
+(18) Az álláskereső aktív munkahelykereső tevékenysége a gyermekgondozási segélyre és gyermekgondozási díjra való jogosultságának bejelentése esetén akkor szünetel, ha annak folyósítása alatt a családok támogatásáról szóló törvény és a kötelező egészségbiztosítás ellátásairól szóló törvény szerint nem folytathat keresőtevékenységet, vagy keresőtevékenységet folytathat, de kéri az aktív munkahelykereső tevékenységének és álláskeresőként való nyilvántartásának szünetelését.

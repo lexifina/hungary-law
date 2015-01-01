@@ -1,12 +1,12 @@
 ## Foglalkoztatási és Közfoglalkoztatási Adatbázis
 
-57/B. § (1) Az állami foglalkoztatási szerv az Szt. szerint foglalkoztatást helyettesítő támogatásra jogosult személyekről, rehabilitációs ellátásban részesülő személyekről, valamint a közfoglalkoztatásban résztvevő személyekről a munkaerőpiaci helyzetük javítása, a közfoglalkoztatásban való részvételük biztosítása, a közfoglalkoztatás megszervezése, a közfoglalkoztatás feltételeinek biztosítása, a közfoglalkoztatásért felelős miniszter, az állami foglalkoztatási szerv, a rehabilitációs hatóság, valamint a jegyző ezzel összefüggő feladatai eredményes ellátásának elősegítése, továbbá a szociális ellátásokra való jogosultságot megállapító törvényben meghatározott jogosultsági feltételek fennállásának ellenőrzése céljából elektronikus nyilvántartást vezet (a továbbiakban: adatbázis).
+57/B. § (1) Az állami foglalkoztatási szerv, a rehabilitációs hatóság az Szt. szerint foglalkoztatást helyettesítő támogatásra jogosult személyekről, a rehabilitációs ellátásban részesülő személyekről, valamint a közfoglalkoztatásban résztvevő személyekről a munkaerő-piaci helyzetük javítása, a közfoglalkoztatásban való részvételük biztosítása, a közfoglalkoztatás megszervezése, a közfoglalkoztatás feltételeinek biztosítása, a közfoglalkoztatásért felelős miniszter, az állami foglakoztatási szerv, a rehabilitációs hatóság, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) ezzel összefüggő feladatai eredményes ellátásának elősegítése, továbbá a szociális ellátásokra való jogosultságot megállapító törvényben meghatározott jogosultsági feltételek fennállásának ellenőrzése céljából elektronikus nyilvántartást vezet (a továbbiakban: adatbázis).
 
 (2) Az állami foglalkoztatási szerv az adatbázissal kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 (3) Az adatbázis tartalmazza
 
-1. a foglalkoztatást helyettesítő támogatásra jogosult személyek tekintetében
+1. a foglalkoztatást helyettesítő támogatásra nem egészségkárosodottként jogosult személyek tekintetében
 
 a) az alábbi adatokat:
 

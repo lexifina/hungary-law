@@ -6,7 +6,7 @@ a) aki álláskereső,
 
 b) aki 25. életévét – felsőfokú végzettségű személy esetén a 30. életévét – nem töltötte be, és a tanulói, hallgatói jogviszonya megszűnését követően álláskeresési járadékra és álláskeresési segélyre nem szerzett jogosultságot,
 
-c) aki gyermekgondozási segélyben, gyermeknevelési támogatásban, illetőleg terhességi gyermekágyi segélyben, gyermekgondozási díjban vagy ápolási díjban részesül,
+c) aki gyermekgondozási segélyben, gyermeknevelési támogatásban, illetőleg terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban vagy ápolási díjban részesül,
 
 d) aki rehabilitációs ellátásban részesül,
 
@@ -32,7 +32,9 @@ aa) keresetkiegészítés vagy keresetpótló juttatás, valamint
 
 ab) a képzéssel kapcsolatos költségek megtérítése;
 
-b) az (1) bekezdés c)–d) pontjában meghatározott személy, valamint a foglalkoztatást helyettesítő támogatásra jogosult álláskereső részére az általános iskolai végzettség megszerzéséhez, vagy a szakképzés megkezdéséhez, a külön jogszabályban meghatározott bemeneti kompetenciák megszerzéséhez szükséges képzésben történő részvételhez a képzéssel kapcsolatos költségek megtérítése
+b) az (1) bekezdés c)–d) pontjában meghatározott személy, valamint a foglalkoztatást helyettesítő támogatásra jogosult álláskereső részére az általános iskolai végzettség megszerzéséhez, vagy a szakképzés megkezdéséhez, a külön jogszabályban meghatározott bemeneti kompetenciák megszerzéséhez szükséges képzésben történő részvételhez a képzéssel kapcsolatos költségek megtérítése;
+
+c) a képzésben történő részvétel lehetőségének biztosítása érdekében, a képzés időtartama alatt az arra rászoruló, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti hozzátartozó ápolásával, gondozásával, valamint a gyermek felügyeletével kapcsolatban felmerült indokolt kiadás megtérítése
 
 adható.
 

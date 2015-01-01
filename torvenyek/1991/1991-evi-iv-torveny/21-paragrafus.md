@@ -24,6 +24,8 @@ h) a jogszabály által meghatározott, valamint a felek által szükségesnek t
 
 i) a szerződéssel kapcsolatban felmerülő vitás kérdésekben közigazgatási perben eljáró bíróság megnevezését.
 
+(2a) Az e törvény, valamint a felhatalmazása alapján kiadott jogszabályban meghatározott foglalkoztatást elősegítő támogatásról szóló hatósági szerződés alapján támogatásban részesülő munkaadó helyébe jogutódja léphet feltéve, ha a jogutód egyoldalú írásbeli nyilatkozatban vállalja a támogatás jogszabályban, valamint a hatósági szerződésben meghatározott feltételeinek teljesítését.
+
 (3) Ha a támogatásban részesülő a hatósági szerződésben foglaltakat megszegi, a támogatás további folyósítását meg kell szüntetni, és a támogatásban részesülő köteles a támogatást a (4) bekezdésben foglaltak szerint visszafizetni.
 
 (4) Ha a Nemzeti Foglalkoztatási Alapból nyújtott támogatást a (3) bekezdésben foglaltak alapján vissza kell követelni, a támogatást a kötelezettségszegés napjától a visszakövetelésről rendelkező határozat meghozatalának napjáig a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a késedelmi pótlék mértékére vonatkozó rendelkezése szerint kiszámított késedelmi pótlékkal növelt összegben kell visszafizetni. Amennyiben a kötelezett visszafizetési kötelezettségének a visszakövetelésről rendelkező határozatban megjelölt határidőig nem tesz eleget, e határidő elmulasztásának napjától a befizetés napjáig a támogatás összegének alapulvételével kiszámított késedelmi pótlékot is köteles fizetni.
