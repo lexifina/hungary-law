@@ -46,7 +46,10 @@ b) az (1) bekezdés c) és e) pontját, valamint a (2) bekezdés g) pontját –
 
 (5)[^6] A Közösség más tagállamában letelepedett adóalanytól eltérő személy fizetési számlájára teljesítendő átutalás esetén papír alapon vagy más bizonyítható módon mellékelni kell a Közösség más tagállamában letelepedett adóalany és e személy közös felhatalmazó nyilatkozatát az átutalás teljesítésére.
 
+(6)[^7] Az (1) bekezdés e) pont szerinti nyilatkozat megtételének nem akadálya, ha az adóalany az Áfa tv. 253/B. §-a alapján jogosult az adó-visszatéríttetésére.
+
 [^3]: A 4. § (1) bekezdés g) pontja az 54/2011. (XII. 29.) NGM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^4]: A 4. § (2) bekezdés c) pontja az 54/2011. (XII. 29.) NGM rendelet 7. § c) pontja szerint módosított szöveg.
 [^5]: A 4. § (2) bekezdés h) pontja az 54/2011. (XII. 29.) NGM rendelet 7. § d) pontja szerint módosított szöveg.
 [^6]: A 4. § (5) bekezdését az 54/2011. (XII. 29.) NGM rendelet 5. § (2) bekezdése iktatta be.
+[^7]: A 4. § (6) bekezdését a 45/2014. (XII. 30.) NGM rendelet 16. §-a iktatta be.

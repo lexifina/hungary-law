@@ -20,7 +20,7 @@ e) a belföldön letelepedett adóalany nyilatkozata arról, hogy az adó-vissza
 
 f) a belföldön letelepedett adóalany adóazonosító száma, az Art. 9. számú melléklete I. címének 8. pontja szerinti esetben a csoportazonosító szám és a tag adószáma is;
 
-g)[^8] a belföldön letelepedett adóalany részére visszatérítendő adó átutalás útján történő teljesítéséhez szükséges adatok és egyéb információk, beleértve a fizetési számla IBAN számát és a számlavezető BIC (SWIFT) kódját is.
+g)[^10] a belföldön letelepedett adóalany részére visszatérítendő adó átutalás útján történő teljesítéséhez szükséges adatok és egyéb információk, beleértve a fizetési számla IBAN számát és a számlavezető BIC (SWIFT) kódját is.
 
 (2) Az (1) bekezdésen kívül az adó-visszatéríttetési kérelemnek tartalmaznia kell még minden számlára és termékimport-okmányra vonatkozóan a következő adatokat is:
 
@@ -38,7 +38,7 @@ f) a levonható adónak a visszatéríttetés tagállamának a Héavisszatérít
 
 g) ha a belföldön letelepedett adóalanyt az adó-visszatéríttetési jog részlegesen illeti meg, az Áfa tv. 123. §-ának és 5. számú mellékletének megfelelően számított, százalékban kifejezett levonási hányad;
 
-h)[^9] a termék, szolgáltatás megnevezésére, illetőleg a felhasználás, egyéb módon történő hasznosítás jellegére utaló kódszám, illetve a 10-es kód alkalmazása esetén az értékesített termékek és nyújtott szolgáltatások jellege szövegesen is megadva a visszatéríttetés tagállamának a Héavisszatérítési-irányelv 9. cikkét átültető rendelkezésével összhangban.
+h)[^11] a termék, szolgáltatás megnevezésére, illetőleg a felhasználás, egyéb módon történő hasznosítás jellegére utaló kódszám, illetve a 10-es kód alkalmazása esetén az értékesített termékek és nyújtott szolgáltatások jellege szövegesen is megadva a visszatéríttetés tagállamának a Héavisszatérítési-irányelv 9. cikkét átültető rendelkezésével összhangban.
 
 (3) Ha azt a visszatéríttetés tagállamának joga előírja, az (1) és (2) bekezdésen kívül a belföldön letelepedett adóalany adó-visszatéríttetési kérelmének tartalmaznia kell a következő adatokat, illetőleg elektronikus mellékleteket is:
 
@@ -56,7 +56,7 @@ bb) egyéb esetekben pedig az 1000
 
 a) a kiigazítással érintett adó-visszatérítési időszakot,
 
-b)[^10]
+b)[^12]
 
 c) a (2) bekezdés g) pontjában megadott levonási hányadnak a módosított értékét százalékos formában kifejezve
 
@@ -72,7 +72,7 @@ c) a belföldön letelepedett adóalany adóazonosító száma, az Art. 9. szám
 
 d) a kiigazítással érintett adó-visszatérítési időszak;
 
-e)[^11]
+e)[^13]
 
 f) a (2) bekezdés g) pontjában megadott levonási hányadnak a módosított értéke százalékos formában kifejezve.
 
@@ -80,7 +80,10 @@ f) a (2) bekezdés g) pontjában megadott levonási hányadnak a módosított é
 
 (7) Az Art. 9. számú melléklete I. címének 7. C) pontja alkalmazásában – a visszatéríttetés tagállama jogának eltérő rendelkezése hiányában – a kiigazítási nyilatkozat abban az esetben rendelkezik a külön jogszabályban meghatározott kötelező adattartalommal, ha az az (5) bekezdésben meghatározott adatokat tartalmazza.
 
-[^8]: A 8. § (1) bekezdés g) pontja az 54/2011. (XII. 29.) NGM rendelet 6. §-ával megállapított szöveg.
-[^9]: A 8. § (2) bekezdés h) pontja az 54/2011. (XII. 29.) NGM rendelet 7. § f) pontja szerint módosított szöveg.
-[^10]: A 8. § (4) bekezdés b) pontját az 54/2011. (XII. 29.) NGM rendelet 8. §-a hatályon kívül helyezte.
-[^11]: A 8. § (5) bekezdés e) pontját az 54/2011. (XII. 29.) NGM rendelet 8. §-a hatályon kívül helyezte.
+(8)[^14] Az (1) bekezdés e) pont szerinti nyilatkozat megtételének nem akadálya, ha az adóalanyt az állami adóhatóság az Áfa tv. 253/A. § (1) bekezdése szerinti minőségében vette nyilvántartásba.
+
+[^10]: A 8. § (1) bekezdés g) pontja az 54/2011. (XII. 29.) NGM rendelet 6. §-ával megállapított szöveg.
+[^11]: A 8. § (2) bekezdés h) pontja az 54/2011. (XII. 29.) NGM rendelet 7. § f) pontja szerint módosított szöveg.
+[^12]: A 8. § (4) bekezdés b) pontját az 54/2011. (XII. 29.) NGM rendelet 8. §-a hatályon kívül helyezte.
+[^13]: A 8. § (5) bekezdés e) pontját az 54/2011. (XII. 29.) NGM rendelet 8. §-a hatályon kívül helyezte.
+[^14]: A 8. § (8) bekezdését a 45/2014. (XII. 30.) NGM rendelet 18. §-a iktatta be.
