@@ -18,26 +18,10 @@ g) termék – ide nem értve az ingatlant és a közlekedési eszközök bárme
 
 h) a Közösség területén levő földgázrendszerhez vagy bármely más, ilyen rendszerhez kapcsolt hálózathoz, hő- vagy hűtési hálózathoz, villamosenergia-rendszerhez való csatlakozás, egyéb hozzáférés biztosítása, valamint ilyen rendszeren, hálózaton keresztül földgáz, hő- vagy hűtési energia, valamint villamos energia szállítása (átvitele), elosztása, továbbá más, ezekhez közvetlenül kapcsolódó szolgáltatások;
 
-i) telekommunikációs szolgáltatások;
-
-j) rádiós és audiovizuális médiaszolgáltatások;
-
-k) elektronikus úton nyújtott szolgáltatások.
+i)–k)
 
 (3) E § alkalmazandó abban az esetben is, ha kötelezettségvállalás történik valamely üzleti vagy hivatásszerűen folytatott tevékenység egészbeni vagy részbeni abbahagyására, illetőleg valamely (2) bekezdés alá tartozó jog gyakorlásától való időleges vagy végleges tartózkodásra.
 
 (4) E § a mérnöki szolgáltatásokra abban az esetben alkalmazható, ha azok jellegadó tartalmuk alapján nem tartoznak a 39. és 42. §, valamint a 43. § (1) bekezdésének b) és c) pontja alá.
 
-(5) E § alkalmazásában elektronikus úton nyújtott szolgáltatás különösen:
-
-a) elektronikus tárhely rendelkezésre bocsátása, honlap tárolása és üzemeltetése, valamint számítástechnikai eszköz és program távkarbantartása,
-
-b) szoftver rendelkezésre bocsátása és frissítése,
-
-c) kép, szöveg és egyéb információ rendelkezésre bocsátása, valamint adatbázis elérhetővé tétele,
-
-d) zene, film és játék – ideértve a szerencsejátékot is – rendelkezésre bocsátása, valamint politikai, kulturális, művészeti, tudományos, sport és szórakoztatási célú médiaszolgáltatás, illetőleg ilyen célú események közvetítése, sugárzása,
-
-e) távoktatás,
-
-feltéve, hogy a szolgáltatás nyújtása és igénybevétele globális információs hálózaton keresztül történik. A szolgáltatás nyújtója és igénybevevője közötti, ilyen hálózaton keresztüli kapcsolat felvétele és tartása – ideértve az ajánlat tételét és elfogadását is – azonban önmagában még nem elektronikus úton nyújtott szolgáltatás.
+(5)

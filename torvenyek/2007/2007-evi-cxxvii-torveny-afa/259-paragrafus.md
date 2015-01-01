@@ -30,6 +30,8 @@ b) telek vagy telkek csoportja, amely a nyomvonal jellegű építmények elhelye
 
 8. készpénz-helyettesítő fizetési eszköz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz;
 
+8/A. kísérleti fejlesztés: a meglévő tudományos, technológiai, üzleti és egyéb, vonatkozó ismeretek és szakértelem megszerzése, összesítése, megosztása és felhasználása új, módosított vagy javított termékek, eljárások vagy szolgáltatások terveinek és szabályainak létrehozása vagy megtervezése céljából;
+
 9. kis érték: a juttatott vagyoni előny értéke nem haladja meg az 5000 forintnak megfelelő pénzösszeget, amelyet a termék átengedéskori – adót is tartalmazó – szokásos piaci árának alapulvételével kell megállapítani;
 
 9/a. közcélú adomány: a közhasznú szervezet részére törvényben meghatározott közhasznú tevékenysége támogatására, valamint az egyházi jogi személy részére törvényben meghatározott tevékenysége támogatására fordított termék, szolgáltatás, feltéve hogy
@@ -64,7 +66,7 @@ e) egymás közeli hozzátartozói, vagy az a)–d) alpontokban meghatározottak
 
 16. pénzügyi eszköz: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott pénzügyi eszköz, kivéve azt a pénzügyi eszközt, amelynek megszerzése egyúttal az abban megjelölt termék tulajdonjogának megszerzését is jelenti;
 
-17. rádiós és audiovizuális médiaszolgáltatások: a nyilvánosság számára vételre szánt, megszerkesztett rádió-, illetőleg televízió-műsornak a médiaszolgáltató általi előállítása, elektronikus jelek formájában való megjelenítése és a felhasználó vevőkészülékéhez történő továbbítása vagy továbbjuttatása;
+17.
 
 18. sorozat jelleg: ha 2 naptári éven belül negyedik vagy további építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek, valamint a rá következő 3 naptári éven belül további építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek azzal, hogy ha olyan építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek,
 

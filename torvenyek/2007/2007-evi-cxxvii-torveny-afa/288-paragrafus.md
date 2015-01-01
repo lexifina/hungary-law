@@ -1,0 +1,5 @@
+288. § (1) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XXXIII. törvénnyel (a továbbiakban: Mód4 törvény) megállapított 45/A. §-t azon ügyletek esetén kell először alkalmazni, amelyek teljesítési időpontja 2015. január 1. napjára esik vagy azt követi.
+
+(2) Amennyiben a Mód4 törvénnyel megállapított 45/A. § hatálya alá tartozó szolgáltatások nyújtásához fizetett előleg jóváírásának, kézhezvételének időpontja 2015. január 1. napját megelőző napra esik, az előleg jóváírására, kézhezvételére tekintettel fizetendő adót a 2015. január 1. napját megelőzően hatályos szolgáltatás teljesítési helyére vonatkozó szabályok alapján kell megállapítani.
+
+(3) A Mód4 törvénnyel megállapított 45/A. § hatálya alá tartozó olyan szolgáltatás nyújtása esetén, amelynek teljesítési időpontja 2015. január 1. napjára esik vagy azt követi, és amelyre tekintettel a (2) bekezdés szerint előleg fizetésére került sor, az ügylet teljesítési időpontjában a szolgáltatásnyújtó adófizetési kötelezettsége az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.

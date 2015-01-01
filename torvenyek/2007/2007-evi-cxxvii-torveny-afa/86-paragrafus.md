@@ -14,11 +14,11 @@ e) a magyar és külföldi törvényes fizetőeszközzel kapcsolatos szolgáltat
 
 f) a jogi személyben, jogi személyiséggel nem rendelkező szervezetben tulajdonosi (tagsági) jogviszonyt, valamint a hitelezési jogviszonyt megtestesítő vagyoni értékű jog átengedése és az ezekkel kapcsolatos szolgáltatás nyújtása, ideértve ezek közvetítését is, de ide nem értve az ilyen jogviszonyt megtestesítő, materializált értékpapír kezelését és őrzését;
 
-g) a befektetési alap és a kockázati tőkealap kezelése, valamint a magánnyugdíjpénztár, az önkéntes kölcsönös biztosító pénztár és a foglalkoztatói nyugdíjszolgáltató intézmény részére végzett portfólió-kezelés;
+g) a befektetési alap és a kockázati tőkealap kezelése, a biztosítástechnikai tartalékok fedezetét képező eszközök portfólió-kezelése, valamint a magánnyugdíjpénztár, az önkéntes kölcsönös biztosító pénztár és a foglalkoztatói nyugdíjszolgáltató intézmény részére végzett portfólió-kezelés;
 
 h) a postai bélyeg névértéken történő értékesítése, amely belföldön postai szolgáltatás bérmentesítésére alkalmas, valamint az illetékbélyeg és más, fizetési kötelezettség teljesítésére, hatóság által kibocsátott bélyeg, jegy névértéken történő értékesítése;
 
-i) a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó szerencsejáték-szolgáltatás nyújtása, ideértve ezek közvetítését is;
+i) a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó szerencsejáték-szolgáltatás nyújtása, ideértve ezek közvetítését is, valamint a szerencsejáték szervezésére vonatkozó tevékenység gyakorlása jogának az állam által koncessziós szerződéssel történő átengedése;
 
 j) a beépített ingatlan (ingatlanrész) és az ehhez tartozó földrészlet értékesítése, kivéve annak a beépített ingatlannak (ingatlanrésznek) és az ehhez tartozó földrészletnek az értékesítését, amelynek
 
@@ -28,7 +28,9 @@ jb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogos�
 
 k) a beépítetlen ingatlan (ingatlanrész) értékesítése, kivéve az építési telek (telekrész) értékesítését;
 
-l) az ingatlan (ingatlanrész) bérbeadása, haszonbérbeadása.
+l) az ingatlan (ingatlanrész) bérbeadása, haszonbérbeadása;
+
+m) a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt termék vagy szolgáltatás központi költségvetési szerv részére nemzetközi megállapodáson alapuló értékesítése, és a magyar állam vagy a képviseletében eljáró központi költségvetési szerv részére nemzetközi megállapodáson alapuló térítésmentes átadása.
 
 (2) Az (1) bekezdés l) pontja nem alkalmazható:
 
@@ -39,3 +41,5 @@ b) a közlekedési eszköz elhelyezésének, parkolásának biztosítását szol
 c) az ingatlannal tartósan összekötött gép, egyéb berendezés bérbeadására;
 
 d) a széf bérbeadására.
+
+(3) Az (1) bekezdés d) és f) pontja nem alkalmazható a portfólió-kezelésre.

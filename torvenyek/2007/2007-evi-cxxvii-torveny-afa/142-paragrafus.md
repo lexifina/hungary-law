@@ -4,7 +4,7 @@ a) a 10. § d) pontja szerinti termékértékesítés esetében;
 
 b) a szolgáltatás nyújtásának minősülő olyan építési-szerelési és egyéb szerelési munka esetében, amely ingatlan létrehozatalára, bővítésére, átalakítására vagy egyéb megváltoztatására – ideértve az ingatlan bontással történő megszüntetését is – irányul, feltéve, hogy az ingatlan létrehozatala, bővítése, átalakítása, egyéb megváltoztatása építési hatósági engedély-köteles vagy építési hatósági tudomásulvételi eljáráshoz kötött, amelyről a szolgáltatás igénybevevője előzetesen és írásban köteles nyilatkozni a szolgáltatás nyújtójának;
 
-c) az a) és b) pontban említett termékértékesítéshez, szolgáltatásnyújtáshoz munkaerő kölcsönzése, kirendelése, illetőleg személyzet rendelkezésre bocsátása esetében;
+c) a termékértékesítéshez és szolgáltatásnyújtáshoz – ideértve azt is, ha az nem kötött építési hatósági engedélyhez vagy építési hatósági tudomásulvételi eljáráshoz – munkaerő kölcsönzése, kirendelése, személyzet rendelkezésre bocsátása, illetve iskolaszövetkezet szolgáltatásának igénybevétele esetében;
 
 d) a 6. számú mellékletben felsorolt termékek értékesítése esetében;
 
@@ -16,7 +16,9 @@ g) a vállalkozásban tárgyi eszközként használt termék értékesítése, v
 
 h) üvegházhatású gáz kibocsátására jogosító forgalomképes vagyoni értékű jog (kibocsátási egység) átruházása esetében;
 
-i) a 6/A. számú mellékletben felsorolt termékek értékesítése esetében.
+i) a 6/A. számú mellékletben felsorolt termékek értékesítése esetében;
+
+j) a 6/B. számú mellékletben felsorolt termék értékesítése esetén, amennyiben az nem tartozik a XVI. Fejezet szerinti különös rendelkezések hatálya alá.
 
 (2) Az (1) bekezdés f) és g) pontja szerinti ingatlanértékesítésre az (1) bekezdés e) pontjában meghatározottaknak is teljesülniük kell.
 

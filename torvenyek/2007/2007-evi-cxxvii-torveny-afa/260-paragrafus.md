@@ -18,7 +18,7 @@ e) a gépi nyugta-, illetve nyugta- és számlaadásra szolgáló pénztárgépp
 
 f) a gépi nyugta-, illetve nyugta- és számlaadásra szolgáló pénztárgép, taxaméter forgalmazása engedélyezésének szabályait – ide értve az engedélyezésre hatáskörrel rendelkező szerv kijelölését is –, a forgalmazási engedély kiadásának műszaki és személyi követelményeit, a forgalmazási engedély kiadásáért, módosításáért, kiterjesztéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
 
-g) a pénztárgép, taxaméter szervizelésének és üzemeltetésének szabályait, a szervizek nyilvántartására és a nyilvántartásba vételére, nyilvántartásból való törlésére, a műszerészi igazolványra, annak kiadására, érvényességére és visszavonására vonatkozó szabályokat,
+g) a pénztárgép, taxaméter forgalmazásának, szervizelésének és üzemeltetésének szabályait, a szervizek nyilvántartására és a nyilvántartásba vételére, nyilvántartásból való törlésére, a műszerészi igazolványra, annak kiadására, érvényességére és visszavonására vonatkozó szabályokat;
 
 h) a pénztárgép forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos kötelezettségek ellenőrzésére vonatkozó szabályokat,
 

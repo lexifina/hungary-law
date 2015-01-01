@@ -1,6 +1,6 @@
 222. § (1) Az egyedi, illetőleg globális nyilvántartáson alapuló módszert alkalmazó viszonteladó ilyen minőségében
 
-a) előzetesen felszámított adó levonására nem jogosult;
+a) a használt ingóság, műalkotás, gyűjteménydarab, régiség beszerzéséhez – ideértve ezek Közösségen belüli beszerzését is –, importjához kapcsolódó előzetesen felszámított adó levonására nem jogosult;
 
 b) kizárólag olyan számla kibocsátásáról gondoskodhat, amelyben áthárított adó, illetőleg a 83. §-ban meghatározott százalékérték nem szerepel.
 
