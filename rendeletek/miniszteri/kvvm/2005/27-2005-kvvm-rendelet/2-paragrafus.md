@@ -6,7 +6,7 @@
 
 a) állandó kibocsátás: olyan folyamatos vagy időszakonként visszatérő (szakaszos) kibocsátás, amikor az adott technológiának, gyártási eljárásnak megfelelő üzemi körülmények között, a termelés legfeljebb 20%-os ingadozása mellett, az 1, 2, 4, 6, 24 óra időközönként vett pontminták vizsgálati eredményei értékének ingadozása nem nagyobb, mint az adott komponens meghatározását szolgáló analitikai módszer hibájának kétszerese;
 
-b) önellenőrzés: a kibocsátott szennyvíz, valamint a benne lévő szennyező anyagok mennyiségi és minőségi mérése, az adatok rögzítése és megőrzése a kibocsátó részéről;
+b)[^1] önellenőrzés: a kibocsátott szennyvíz, valamint a benne lévő szennyező anyagok mennyiségi és minőségi mérése, az adatok elektronikus úton való rögzítése és megőrzése a kibocsátó részéről;
 
 c) helyszíni ellenőrzés: olyan hatósági ellenőrzés, melynek célja a kibocsátott szennyvíz mennyiségi és minőségi vizsgálata, illetőleg az önellenőrzés során szolgáltatott szennyvíz-kibocsátási jellemzők ellenőrzése;
 
@@ -16,7 +16,7 @@ e) újabb helyszíni ellenőrzés: helyszíni ellenőrzés után, a kibocsátott
 
 f) mintavételi hely: kibocsátás engedélyben meghatározott ellenőrzési helye, illetőleg a közcsatornába bocsátás helye;
 
-g)[^1] közcsatornába bocsátás helye: használt- vagy szennyvizek esetében a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló kormányrendelet szerinti szennyvízelvezetési szolgáltatási pont, nem közművel összegyűjtött háztartási szennyvíz esetében pedig a nem közművel összegyűjtött háztartási szennyvíz bebocsátási pontja;
+g)[^2] közcsatornába bocsátás helye: használt- vagy szennyvizek esetében a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló kormányrendelet szerinti szennyvízelvezetési szolgáltatási pont, nem közművel összegyűjtött háztartási szennyvíz esetében pedig a nem közművel összegyűjtött háztartási szennyvíz bebocsátási pontja;
 
 h) pontminta (egyedi minta): az egész mintatérfogatra vonatkozó egyszeri mintavétel egy szennyvízáramból;
 
@@ -36,4 +36,5 @@ o) termék vagy termelésspecifikus terhelési érték: az engedélyezett termé
 
 p) akkreditált laboratórium: a használt- és szennyvizek, illetőleg azok meghatározott alkotórésze vizsgálatára a Nemzeti Akkreditáló Testület által külön jogszabály alapján elismert és bejegyzett laboratórium.
 
-[^1]: A 2. § g) pontja a 40/2013. (V. 24.) VM rendelet 3. §-ával megállapított szöveg.
+[^1]: A 2. § b) pontja a 72/2014. (XII. 22.) BM. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § g) pontja a 40/2013. (V. 24.) VM rendelet 3. §-ával megállapított szöveg.

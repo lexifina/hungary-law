@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-27-20-0
 | 2013-06-01 | 2005-27-20-0N.6 | 40/2013. (V. 24.) VM rendelet |
 | 2014-01-01 | 2005-27-20-0N.7 | 132/2013. (XII. 23.) VM rendelet |
 | 2014-11-29 | 2005-27-20-0N.8 | 52/2014. (XI. 28.) BM rendelet |
+| 2015-01-01 | 2005-27-20-0N.9 | 72/2014. (XII. 22.) BM rendelet |

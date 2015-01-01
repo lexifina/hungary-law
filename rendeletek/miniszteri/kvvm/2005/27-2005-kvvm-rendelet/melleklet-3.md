@@ -444,7 +444,7 @@
 
 ## – az osztott mintából történő analízisek eredményei az ellenőrző laboratórium által határérték felettinek mért vizsgálati komponens esetében legalább 15%-kal eltér egymástól,
 
-## – vagy az osztott mintából történő analízisek eredményeinek 20% feletti eltérése a határérték alatt több mint 3 komponenst érint, nem beleszámítva a kimutatási határ kétszeresét érintő koncentráció tartományba eső komponenseket,
+## – vagy az osztott mintából történő analízisek eredményeinek 20% feletti eltérése a határérték alatt több mint 3 komponenst érint, nem beleszámítva az alsó méréshatár kétszeresét érintő koncentráció tartományba eső komponenseket,
 
 ## – a kettős bírságolás elkerülése miatt szabályozásra kerülő komponensek esetében az összefüggésekre alapozott számítások alapján, az önellenőrzés adatainak legalább 25%-ban ellentmondás állapítható meg.
 
