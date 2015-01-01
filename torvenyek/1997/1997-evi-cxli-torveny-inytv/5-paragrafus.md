@@ -6,6 +6,8 @@
 
 (3) Az ingatlan-nyilvántartásba bejegyzett jogosultak személyazonosító és lakcímadatai tekintetében a személy- és lakcímnyilvántartás adatai az irányadóak.
 
+(3a) Az ingatlanok címadatát az ingatlan-nyilvántartás az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló törvényben (a továbbiakban: Interop. tv.) meghatározott központi címregiszterből (a továbbiakban: KCR) történő automatikus adatátvétel útján származtatott adatként tartalmazza.
+
 (4) Az állami ingatlan-nyilvántartási térképi adatbázis – az ellenkező bizonyításáig – hitelesen tanúsítja a földmérési és térképészeti tevékenységről szóló törvény rendelkezései szerint meghatározott állami alapadat-tartalmat.
 
 (5) Az állami ingatlan-nyilvántartási térképi adatbázisban rögzített földrészletről, továbbá az ott rögzített egyéb önálló ingatlanról – a (6) bekezdés kivételével – az ellenkező bizonyításáig vélelmezni kell, hogy az fennáll, határvonalainak ábrázolása helyes és teljes.

@@ -54,7 +54,7 @@ benyújtása,
 
 15. bírósági ítéleten alapuló tulajdoni korlátozás,
 
-16. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés, valamit önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség,
+16. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés, valamit önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség, továbbá a kulturális örökség védelméről szóló törvényben meghatározott örökségvédelmi hatósági kötelezés ténye.
 
 17. szerződésen, végintézkedésen, bírósági vagy hatósági határozaton alapuló
 

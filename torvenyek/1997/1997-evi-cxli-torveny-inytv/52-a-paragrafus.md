@@ -4,4 +4,4 @@
 
 (3) Az ingatlan-nyilvántartási iratok kézbesítésére egyébként a hivatalos iratok kézbesítésének egyszerűsítéséről, illetőleg a postai tevékenységről szóló jogszabály az irányadó.
 
-(4) A határozatot az ingatlan közigazgatási címének közterület-név változás miatt történő átvezetése iránti eljárásban a megkereső részére a (3) bekezdésben foglaltak szerint, az 52. § (1) és (2) bekezdés szerinti jogosultak részére hirdetményi úton kell kézbesíteni.
+(4)
