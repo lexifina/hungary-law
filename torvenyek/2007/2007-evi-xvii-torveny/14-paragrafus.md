@@ -32,7 +32,7 @@ g) felel a partnerség elvének közösségi jogszabályok szerinti érvényesü
 
 h) működteti a monitoringrendszert, valamint átveszi és kezeli az 1698/2005/EK rendeletben, valamint az 1198/2006/EK rendeletben foglalt adatszolgáltatási, jelentéstételi és értékelési kötelezettségek teljesítésére, a mezőgazdasági és vidékfejlesztési támogatási szerv által gyűjtött és összesített, az integrált igazgatási és ellenőrzési rendszerben nyilvántartott monitoringadatokat.
 
-(2) Az agrár-vidékfejlesztésért felelős miniszter (1) bekezdés szerinti irányító hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében a Ksztv. 2. § (1) bekezdés c), g) és h) pontja szerinti irányítási jogköröket gyakorolja.
+(2) Az agrár-vidékfejlesztésért felelős miniszter (1) bekezdés szerinti irányító hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében az Áht. 9. § e), h) és i) pontjában meghatározott hatásköröket gyakorolja.
 
 (3)
 

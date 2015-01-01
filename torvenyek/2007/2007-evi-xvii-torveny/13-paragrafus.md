@@ -16,7 +16,7 @@ c) gondoskodik az egyes intézkedésekhez kapcsolódó monitoringrendszer műkö
 
 d) közleményt ad ki a forrás kimerüléséről.
 
-(2) Az agrárpolitikáért felelős miniszter (1) bekezdés szerinti illetékes hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés c), valamint g) és h) pontjai szerinti irányítási jogköröket gyakorolja.
+(2) Az agrárpolitikáért felelős miniszter (1) bekezdés szerinti illetékes hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § e), h) és i) pontjában meghatározott hatásköröket gyakorolja.
 
 (3)
 
