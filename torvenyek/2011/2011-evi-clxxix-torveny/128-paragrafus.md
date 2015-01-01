@@ -2,4 +2,4 @@
 
 (2) A feladatfinanszírozási rendszer keretében a központi költségvetésből nyújtott működési költségvetési és feladatalapú költségvetési támogatást a nemzetiségi önkormányzat kizárólag nemzetiségi közfeladatai ellátására használhatja fel.
 
-(3) A feladatfinanszírozás részletes szabályait a Kormány rendeletében állapítja meg.
+(3)

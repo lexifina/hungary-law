@@ -1,6 +1,6 @@
 ## A választójog
 
-53. § (1) A választáson választó, aki a nemzetiségi névjegyzékben szerepel. A nemzetiségi névjegyzékbe kérelmére fel kell venni azt, aki
+53. § (1) A választáson választó, aki a nemzetiségi névjegyzékben szerepel. A nemzetiségi névjegyzékbe kérelmére fel kell venni azt a magyar állampolgárt, aki
 
 a) a helyi önkormányzati képviselők és polgármesterek választásán szavazati joggal rendelkezik,
 
