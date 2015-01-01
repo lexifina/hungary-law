@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-13-20-2
 | 2012-03-02 | 2012-13-20-2T.1 | 13/2012. (III. 1.) KIM rendelet |
 | 2012-07-07 | 2012-13-20-2T.2 | 31/2012. (VI .29.) KIM rendelet |
 | 2014-03-19 | 2012-13-20-2T.3 | 24/2014. (III. 18.) KIM rendelet |
+| 2015-01-01 | 2012-13-20-2T.4 | 20/2014. (XII. 23.) IM rendelet |

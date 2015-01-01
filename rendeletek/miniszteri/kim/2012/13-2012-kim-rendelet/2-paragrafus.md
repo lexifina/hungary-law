@@ -10,8 +10,10 @@ d) azt a tényt, hogy a felszámolási eljárást a Cstv. 45/A. §-a alapján me
 
 e) a felszámolási eljárás megszüntetéséről szóló végzés jogerőre emelkedésének napját;
 
-f) a végzés közzétételének időpontját;
+f)[^3] utalást arra, hogy a felszámolási eljárás megszüntetésének napja a jogerős végzés Cégközlöny honlapján történő közzétételének napja;
 
 g) a felszámoló díját;
 
 h) az egyéb lényeges körülményeket.
+
+[^3]: A 2. § f) pontja a 20/2014. (XII. 23.) IM rendelet 15. § (1) bekezdésével megállapított szöveg.
