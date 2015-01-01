@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2014-07-04 | 2014. évi XXVII. törvény | 2004-1-00-00.41 |
 | 2014-07-15 | 2014. évi XXXII. törvény | 2004-1-00-00.42 |
 | 2014-12-30 | 2014. évi XCIX. törvény | 2004-1-00-00.43 |
+| 2015-01-01 | 2014. évi XCII. törvény | 2004-1-00-00.44 |
