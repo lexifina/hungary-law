@@ -166,7 +166,7 @@ III. Jövedelem típusai
 
 2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni továbbá a jogdíjat, a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, valamint a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 
-3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
+3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
 
 4. Önkormányzat és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, a rendszeres szociális segély, az ápolási díj, az adósságcsökkentési támogatás; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
 
@@ -178,4 +178,4 @@ Szükség esetén a nyilatkozatok rovatai bővíthetők, valamint kitöltésük 
 
 A cselekvőképességet kizáró gondnokság alatt állók esetében a gondnok aláírása, a cselekvőképességet korlátozó gondnokság alatt állók esetében a gondnok és a gondnokolt együttes aláírása szükséges.
 
-[^14]: Az 5. melléklet a 98/2013. (III. 29.) Korm. rendelet 29. § b) pontja, a 197/2013. (VI. 13.) Korm. rendelet 4. §-a, a 69/2014. (III. 13.) Korm. rendelet 15. § b) és c) pontja szerint módosított szöveg.
+[^14]: Az 5. melléklet a 98/2013. (III. 29.) Korm. rendelet 29. § b) pontja, a 197/2013. (VI. 13.) Korm. rendelet 4. §-a, a 69/2014. (III. 13.) Korm. rendelet 15. § b) és c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 131. §-a szerint módosított szöveg.
