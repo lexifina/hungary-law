@@ -10,13 +10,13 @@
 
 (5) A kisvállalati adóalanyiság megszűnik
 
-a) az adóalanyiság választására jogosító bevételi értékhatár meghaladásának hónapját megelőző hónap utolsó napjával;
+a) az adóalanyiság választására jogosító bevételi értékhatár negyedév első napján történő meghaladása esetén, a túllépést megelőző nappal;
 
 b) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal;
 
 c) ha az adóalany végelszámolási vagy felszámolási eljárás nélkül szűnik meg, a megszűnés napjával;
 
-d) az adóalany átalakulását megelőző nappal, ide nem értve a társasági formaváltást;
+d) az adóalany egyesülését, szétválását megelőző nappal;
 
 e) az adóhatósági határozat jogerőre emelkedésének napját megelőző hónap utolsó napjával, ha az adóalany terhére az adó- vagy vámhatóság számla- vagy nyugtaadási kötelezettség elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért jogerősen mulasztási bírságot, jövedéki bírságot állapított meg;
 
@@ -30,6 +30,6 @@ h) a létszámváltozás hónapjának utolsó napjával, ha a létszámnöveked�
 
 (7) Az adóalanyiság (5) bekezdésben meghatározott megszűnése napjával, mint mérlegfordulónappal önálló üzleti év végződik.
 
-(8) Az adóalanyiság megszűnését követő két adóévre az adóalanyiság ismételten nem választható.
+(8) Az adóalanyiság megszűnésétől számított 24 hónapban az adóalanyiság ismételten nem választható.
 
 (9) Az (1) bekezdéstől eltérően az adóévben újonnan alakuló adózó adóalanyisága a létesítő okirata közokiratba foglalásának, ellenjegyzésének napján kezdődik, ha vállalkozási tevékenységét a cégnyilvántartásba történő bejegyzése előtt megkezdheti, az első jognyilatkozat megtételének napján, ha belföldi illetősége az üzletvezetés helyére tekintettel keletkezik, más esetben azon a napon, amelyen az alapítását szabályozó jogszabály szerint létrejön, feltéve, hogy a kisvállalati adó szerinti adóalanyiság választását a létesítő okirata közokiratba foglalásának, ellenjegyzésének, az első jognyilatkozat megtételének, illetve az alapítását szabályozó jogszabály szerinti létrejövetelének napjától számított 30 napon belül bejelenti az állami adóhatóságnak. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.

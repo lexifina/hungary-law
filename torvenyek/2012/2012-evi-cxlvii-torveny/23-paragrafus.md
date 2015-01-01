@@ -2,9 +2,9 @@
 
 23. § (1) Az adózó az adóévre teljesítendő adóelőleg megállapítási, bevallási és fizetési kötelezettségének az e §-ban foglaltak szerint tesz eleget.
 
-(2) Amennyiben az adózó az e törvény szerint meghatározott adófizetési kötelezettsége az adóévet megelőző adóévben az 1 millió forintot meghaladta, az adóelőleg megállapítási, bevallási és fizetési kötelezettségének havonta, a tárgyhónapot követő hónap 20-áig tesz eleget. Az e törvény szerinti adóalanyiság első adóévében az adózó e rendelkezést abban az esetben alkalmazza, ha az adóévet megelőző adóévben a bevétele várhatóan meghaladja a 100 millió forintot.
+(2) Az adózó az adóelőleg megállapítási, bevallási és fizetési kötelezettségének negyedévente, a tárgynegyedévet követő hónap 20-áig tesz eleget.
 
-(3) Amennyiben az adózó az e törvény szerint meghatározott adófizetési kötelezettsége az adóévet megelőző adóévben az 1 millió forintot nem haladta meg, az adóelőleg megállapítási, bevallási és fizetési kötelezettségének negyedévente, a tárgynegyedévet követő hónap 20-áig tesz eleget. Az e törvény szerinti adóalanyiság első adóévében az adózó e rendelkezést abban az esetben alkalmazza, ha az adóévet megelőző adóévben a bevétele várhatóan nem haladja meg a 100 millió forintot.
+(3)
 
 (4) Az adóelőleg összege, figyelemmel a (6) bekezdésben foglaltakra is
 
@@ -24,6 +24,6 @@ együttes összegének a 16 százaléka.
 
 (7) Ha a (4) és (5) bekezdés szerint meghatározott és az adóelőleg-megállapítási időszakban az adóalany által fizetendő – a kedvezményezett foglalkoztatott után érvényesíthető kedvezménnyel csökkentett – Tbj. szerint járulékalapot képező összes jövedelemmel csökkentett összeg negatív, az adózó jogosult annak összegével a következő adóelőleg-megállapítási időszakokban – de legfeljebb ugyanabban az adóévben – a (4)–(5) bekezdés alkalmazásával megállapított összegnek – a kedvezményezett foglalkoztatott után érvényesíthető kedvezménnyel csökkentett – Tbj. szerint járulékalapot képező jövedelmet meghaladó részét csökkenteni.
 
-(8) Az adóalany az adóévre e törvény szerint megállapított adót – az adóévben már megfizetett adóelőlegek beszámításával – a bevallás benyújtására előírt határidőig megfizeti. Ha az adóévben már megfizetett adóelőlegek összege meghaladja az adóévre megállapított adó összegét, a különbözetet az adóalany bevallásában, az igény (bevallás) beérkezésének napjától, de legkorábban a bevallás benyújtására előírt határidő napjától (esedékességtől) jogosult visszaigényelni.
+(8) Az adóalany az adóévre e törvény szerint megállapított adót – az adóévre már megfizetett adóelőlegek beszámításával – a bevallás benyújtására előírt határidőig megfizeti. Ha az adóévre már megfizetett adóelőlegek összege meghaladja az adóévre megállapított adó összegét, a különbözetet az adóalany bevallásában, az igény (bevallás) beérkezésének napjától, de legkorábban a bevallás benyújtására előírt határidő napjától (esedékességtől) jogosult visszaigényelni.
 
 (9) A kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó, bevételi nyilvántartást vezető egyszerűsített vállalkozói adóalany vagy kisadózó vállalkozás a kisvállalati adóalanyiság első adóévében a kisvállalati adóelőleg megállapítási, bevallási és fizetési kötelezettségének az Szt. 2/A. § (4) bekezdése szerinti nyitó mérlegében kimutatott pénzeszközök figyelembevételével tesz eleget.

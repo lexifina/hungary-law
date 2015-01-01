@@ -74,7 +74,7 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 
 e) az ellenőrzött külföldi társasággal szemben teljesített kifizetés,
 
-f) az adóalanyiság időszakát megelőző időszakra megállapított, az adóalanyiság időszaka alatt teljesített adófizetési kötelezettség, továbbá az adóalanyiság időszakában bármely időszakra megállapított és megfizetett bírság, pótlék,
+f) az adóalanyiság időszakát megelőző időszakra megállapított, az adóalanyiság időszaka alatt teljesített adófizetési kötelezettség (ide nem értve az általános forgalmi adó-fizetési kötelezettséget), továbbá az adóalanyiság időszakában bármely időszakra megállapított és megfizetett bírság, pótlék,
 
 g) a jegyzett tőke, a tőketartalék, az eredménytartalék és a lekötött tartalék napi átlagos állományának háromszorosát meghaladó, napi átlagos állományon meghatározott kötelezettségrészre jutó kamatkifizetés (ide nem értve a pénzügyi intézménnyel szemben fennálló kötelezettség alapján elszámolt kamatkifizetést), függetlenül attól, hogy azt az adóalany eszköz bekerülési értékének részeként számolja-e el, azzal, hogy e rendelkezés alkalmazásában kötelezettség a kapott kölcsön, a zárt körben forgalomba hozott hitelviszonyt megtestesítő értékpapír miatt fennálló tartozás és a váltótartozás (kivéve a szállítói tartozás kiegyenlítése miatt fennálló váltótartozást), valamint minden más, a mérlegben kimutatott kölcsönnek, hitelviszonyt megtestesítő értékpapírnak, illetve váltótartozásnak nem minősülő kötelezettség.
 
@@ -106,9 +106,9 @@ e) tartozás térítés nélküli átvállalása.
 
 (13) A (2) bekezdés alkalmazásában a pénzforgalmi szemléletű eredmény meghatározása során figyelmen kívül kell hagyni
 
-a) az olyan bevételt, kiadást, amelyet az adózó az adóévet megelőző időszakra vonatkozó eredménykimutatásában bevételként, ráfordításként számol el,
+a) az olyan bevételt, kiadást, amelyet az adózó az adóalanyiság időszakát megelőző időszakra vonatkozó eredménykimutatásában bevételként, ráfordításként számol el,
 
-b) a megelőző időszakra vonatkozóan teljesített kiadást, elszámolt bevételt, ha az adóévet megelőző adóévben az adóalany az Szt. hatálya alá nem tartozott,
+b) a megelőző időszakra vonatkozóan teljesített kiadást, elszámolt bevételt, ha az adóalanyiság időszakát megelőző időszakban az adóalany az Szt. hatálya alá nem tartozott,
 
 c) az e törvény szerinti adóalanyiság időszakát megelőző időszakban teljesített és az adóalanyiság időszaka alatt visszatérített pótbefizetést.
 
@@ -122,7 +122,7 @@ c) az e törvény szerinti adóalanyiság időszakát megelőző időszakban tel
 
 (18) A társasági adóalanyiságot megelőzően a kisvállalati adóalanyiság megszűnésének adóévére vonatkozó pénzforgalmi szemléletű eredmény megállapítása során növelő tételként kell figyelembe venni:
 
-a) a kisvállalati adóalanyiság időszakára vonatkozó, be nem folyt bevétel időbelileg elhatárolt összegét,
+a) a kisvállalati adóalanyiság időszakára vonatkozó, be nem folyt bevétel összegét (ideértve az időbeli elhatárolást is),
 
 b) a kisvállalati adóalanyiság időszaka alatt teljesített, időbelileg elhatárolt pénzeszköz kifizetést, amely nem a kisvállalati adóalanyiság időszakára vonatkozik,
 
@@ -132,6 +132,6 @@ c) a kisvállalati adóalanyiság időszaka alatt beszerzett, kifizetett év vé
 
 a) a kisvállalati adóalanyiság időszaka alatt befolyt bevétel elhatárolt összegét, amely nem a kisvállalati adóalanyiság időszakára vonatkozik,
 
-b) a kisvállalati adóalanyiság időszakára vonatkozó, időbelileg elhatárolt, ki nem fizetett költség, ráfordítás összegét.
+b) a kisvállalati adóalanyiság időszakára vonatkozó, ki nem fizetett költség, ráfordítás összegét (ideértve az időbeli elhatárolást is).
 
 (20) A pénzforgalmi szemléletű eredményt csökkenti az e törvény szerinti adóalanyiság időszakát megelőző időszakra vonatkozó és az adóalanyiság időszaka alatt visszatérített adó.

@@ -16,6 +16,8 @@ d) a tevékenység végzésének helye a kisadózó birtokában áll;
 
 e) a tevékenység végzéséhez szükséges eszközöket és anyagokat nem a 13. § szerinti adatszolgáltatásra köteles személy bocsátotta a kisadózó rendelkezésére;
 
-f) a tevékenység végzésének rendjét a kisadózó határozza meg.
+f) a tevékenység végzésének rendjét a kisadózó határozza meg;
+
+g) a kisadózó vállalkozás minden kisadózóként bejelentett tagja, illetve a kisadózó egyéni vállalkozó a naptári év egészében a 2. § 8. pont a) vagy g) alpont szerint nem minősül főállású kisadózónak feltéve, hogy a kisadózó vállalkozás naptári évi bevételének legalább 50 százalékát olyan személytől szerezte, akivel/amellyel a kisadózó a naptári évben nem állt a 2. § 8. pont a) vagy g) alpontban említett jogviszonyok egyikében sem.
 
 (4) A 13. § szerinti adatszolgáltatásra köteles személyt és az azzal kapcsolt vállalkozási viszonyban álló személyeket e § alkalmazásában egy személynek kell tekinteni.

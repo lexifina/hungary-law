@@ -2,7 +2,7 @@
 
 a) a bejelentés hónapjának utolsó napjával, ha az adóalany bejelenti, hogy adókötelezettségeit a jövőben nem e törvény szabályai szerint teljesíti;
 
-b) a vállalkozási forma megváltozása esetén a változás bekövetkezését megelőző nappal, ha a változás következtében a vállalkozás nem a 3. §-ban felsorolt formában működik tovább;
+b)
 
 c) a kisadózó egyéni vállalkozói jogállásának megszűnése napjával;
 
@@ -18,12 +18,12 @@ h) a mulasztási bírságot megállapító határozat jogerőre emelkedésének 
 
 i) az adószám alkalmazását felfüggesztő vagy törlő határozat jogerőre emelkedésének napjával, ha a kisadózó vállalkozás adószámának alkalmazását az adóhatóság az adóalanyiság ideje alatt jogerősen felfüggeszti vagy törli;
 
-j) a naptári negyedév utolsó napjával, ha a kisadózó vállalkozás állami adóhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári negyedév utolsó napján meghaladja a 100 ezer forintot;
+j) az adóalanyiság megszűnéséről rendelkező határozat jogerőre emelkedésének napját magában foglaló hónap utolsó napjával, ha a kisadózó vállalkozás állami adóhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja a 100 ezer forintot;
 
 k) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal;
 
 l) a 4. § (4) bekezdése szerinti tevékenységből származó bevétel megszerzése esetén a bevétel megszerzését megelőző nappal;
 
-m) az átalakulást megelőző nappal, ha az átalakulás következtében a vállalkozás nem felel meg a 3. §-ban foglalt feltételeknek.
+m) az átalakulást, egyesülést, szétválást megelőző nappal, ha az átalakulás, egyesülés, szétválás következtében a vállalkozás már nem felel meg a 3. §-ban foglalt feltételeknek.
 
-(2) Az adóalanyiság megszűnéséről – az (1) bekezdés a)–d) pontjában meghatározott okok kivételével – az adóhatóság határozattal értesíti az adózót.
+(2) Az adóalanyiság megszűnéséről – az (1) bekezdés a)–d) pontjában meghatározott okok kivételével – az adóhatóság határozatot hoz.
