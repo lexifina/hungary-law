@@ -2,9 +2,8 @@
 
 ## 10. § Hatályát veszti az R.
 
-a)–c)[^9]
+a)–c)[^7]
 
-d)[^10]
+d) 60. § (2) bekezdés c) pontjában az „(1) bekezdés c) pontja és” szövegrész.
 
-[^9]: A 10. § a)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 10. § d) pontja a 11. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^7]: A 10. § a)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

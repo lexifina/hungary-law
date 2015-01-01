@@ -1,3 +1,3 @@
-## 2. §[^2]
+## 2. § Az R. 15. §-a a következő (4a) bekezdéssel egészül ki:
 
-[^2]: A 2. § a 11. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## „(4a) A (4) bekezdéstől eltérően a NATO Flying Training in Canada (a továbbiakban: NFTC) program keretében Kanadában tartós külföldi szolgálatot teljesítő kiküldött az (1) bekezdés d) és g) pontja szerinti utazások alkalmával utazási jegyre jogosult, ha az utazási költségátalányról való lemondásáról és az utazások tervezett időpontjáról legkésőbb a tárgyév február 28-ig az engedélyező elöljáró egyidejű tájékoztatása mellett írásban nyilatkozik az illetékes pénzügyi ellátó szerv és az illetékes logisztikai ellátó szerv felé. A tárgyév márciusában kezdődő külföldi szolgálat esetén a nyilatkozatot a kiküldött legkésőbb a tárgyév március 15-ig köteles megtenni. A Honvédség utaztatásért felelős szerve a nyilatkozat alapján intézkedik a kiküldött által megadott utazási időpontokra érvényes repülőjegy megvásárlására, és annak a kiküldött részére az utazás megkezdése előtti 15. napig történő megküldésére.”
