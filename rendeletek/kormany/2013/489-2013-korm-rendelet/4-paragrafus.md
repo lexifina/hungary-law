@@ -7,3 +7,7 @@
 (4) Az igazgatóság a támogatás ügyében hozott jogerős határozat és a lefolytatott ellenőrzésről készített jegyzőkönyv másolatát elektronikus levélben megküldi a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet alapján az engedélyes ügyeiben általános illetékességgel rendelkező első fokú működést engedélyező szervnek.
 
 (5) Az e rendelet szerinti, hivatalból indult eljárásokban a fenntartó, a szolgáltató és az engedélyes köteles átadni, illetve megküldeni az érdemi döntéshez szükséges adatokat és iratokat az igazgatóságnak.
+
+(6)[^1] Az e rendelet szerinti másodfokú közigazgatási hatósági eljárásokban az ügyintézési határidő hatvan nap.
+
+[^1]: A 4. § (6) bekezdését 353/2014. (XII. 29.) Korm. rendelet 78. §-a iktatta be.

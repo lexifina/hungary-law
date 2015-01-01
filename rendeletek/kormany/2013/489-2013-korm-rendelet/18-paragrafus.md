@@ -12,6 +12,6 @@ c) az elszámolás hibás benyújtása esetén határidőben nem tesz nyilatkoza
 
 (3) Az elszámolás elfogadásáról, a többlettámogatási igényről, a támogatás visszavonásáról, a visszafizetésről és a kamatfizetésről az igazgatóság a tárgyévet követő év március 31-éig, megszűnt fenntartó esetén az elszámolás beérkezését követő naptól számított huszonegy napon belül határoz.
 
-(4)[^4] Az igazgatóság az elszámolásokat a miniszter által meghatározott módon összesíti, és a tárgyévet követő év április 15-éig megküldi a miniszternek.
+(4)[^6] Az igazgatóság az elszámolásokat a miniszter által meghatározott módon összesíti, és a tárgyévet követő év április 15-éig megküldi a miniszternek.
 
-[^4]: A 18. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 788. § b)–c) pontja szerint módosított szöveg.
+[^6]: A 18. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 788. § b)–c) pontja szerint módosított szöveg.

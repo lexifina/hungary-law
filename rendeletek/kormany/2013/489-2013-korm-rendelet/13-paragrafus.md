@@ -1,10 +1,4 @@
-13. § (1) A fenntartó a tárgyév áprilisában, júliusában és októberében (a továbbiakban együtt: felülvizsgálati hónap) köteles megvizsgálni, hogy
-
-a) a felülvizsgálati hónapot megelőző hónapban ténylegesen nyújtott ellátás adataiból éves szintre számított feladatmutató, és
-
-b) a felülvizsgálati hónapot megelőző tizenkét hónapban ténylegesen nyújtott ellátás adataiból éves szintre számított feladatmutató
-
-közül a magasabb jogcímenként eléri-e a megállapított támogatás alapjául szolgáló feladatmutató 90 százalékát.
+13. § (1)[^3] A fenntartó a tárgyév áprilisában, júliusában és októberében (a továbbiakban együtt: felülvizsgálati hónap) köteles megvizsgálni, hogy a felülvizsgálati hónapot megelőző tizenkét hónapban ténylegesen nyújtott ellátás adataiból éves szintre számított feladatmutató eléri-e a megállapított támogatás alapjául szolgáló feladatmutató 90 százalékát.
 
 (2) A fenntartó köteles a többlettámogatásról a 11. § (3) bekezdésében foglaltakra tekintet nélkül lemondani, ha
 
@@ -23,3 +17,5 @@ a) hajléktalan személyek ellátása esetén,
 b) a szolgáltatói nyilvántartásba újonnan bejegyzett engedélyesre és az engedélyeshez újonnan bejegyzett szolgáltatásra abban a hónapban, amelytől kezdődően az engedélyes a szolgáltatást nyújthatja, valamint az azt követő tizenegy hónapban.
 
 (5) Ha az igazgatóság észleli, hogy a fenntartó a (2) bekezdés szerinti lemondási kötelezettségének határidőben nem tett eleget, a lemondás benyújtásáig hivatalból felfüggeszti a támogatás folyósítását, és a fenntartót felszólítja a lemondási kötelezettség teljesítésére.
+
+[^3]: A 13. § (1) bekezdése a 32. § (2) bekezdésével megállapított szöveg.

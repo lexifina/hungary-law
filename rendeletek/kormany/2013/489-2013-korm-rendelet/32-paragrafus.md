@@ -1,6 +1,5 @@
-32. § (1)[^6]
+32. § (1)[^11]
 
-(2)[^7]
+(2) Az egyházi és nem állami fenntartású szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok állami támogatásáról szóló 489/2013. (XII. 18.) Korm. rendelet 13. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^6]: A 32. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 32. § (2) bekezdése a 30. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^11]: A 32. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
