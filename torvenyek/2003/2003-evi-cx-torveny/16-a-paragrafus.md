@@ -2,7 +2,7 @@
 
 16/A. § (1) A gépjárműflotta-üzemeltetőt a belföldi illetőségű személynek, szervezetnek – 1 napon túli időtartamra – bérbe adott személygépkocsija után a Melléklet szerinti adófizetési kötelezettség terheli.
 
-(2) Az adózó azt, hogy gépjárműflotta-üzemeltetőnek minősül a tulajdonában álló vagy üzembentartói jogával érintett személygépkocsi honossága szerint illetékes járműnyilvántartó, cégnyilvántartó hatóság és az árbevétel megoszlására vonatkozóan könyvvizsgáló által kiadott hiteles magyar fordítású igazolás bemutatásával tanúsítja.
+(2) Az adózó azt, hogy gépjárműflotta-üzemeltetőnek minősül a tulajdonában álló vagy üzembentartói jogával érintett személygépkocsik és az árbevétel megoszlására vonatkozóan könyvvizsgáló által kiadott hiteles magyar fordítású igazolás bemutatásával tanúsítja.
 
 (3) Az adózó a (2) bekezdés szerinti feltételek teljesülését adókötelezettségének adóévi első ízben való keletkezését követő, míg a személygépkocsi bérbeadási szerződését – annak megkötésétől számított – 15 napon belül nyújtja be a vámhatósághoz. Az adót a vámhatóság a bérleti szerződés benyújtását követő 3 munkanapon belül határozattal állapítja meg a gépjárműflotta-üzemeltető terhére.
 
