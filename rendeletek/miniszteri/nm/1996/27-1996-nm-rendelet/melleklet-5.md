@@ -18,7 +18,7 @@
 
 | 2 – Foglalkozás-egészségügyi szakellátó hely orvosa |
 
-| 3 – Nemzeti Munkaügyi Hivatal munkavédelmi és munkaügyi igazgatósága |
+| 3 – Országos Tisztifőorvosi Hivatal |
 
 | 4 – egyéb orvos |
 
