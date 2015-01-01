@@ -72,29 +72,29 @@
 
 35. közös üzemi csatornát, szennyvíztisztítót üzemeltető: több kibocsátó által közösen használt, nem közüzemi szennyvízelvezető, szennyvíztisztító létesítményt üzemeltető természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet;
 
-36. új létesítmény, új tevékenység (a továbbiakban együtt: új létesítmény): az az építmény, létesítmény, berendezés, tevékenység, amelynek létesítését, megvalósítását 2003. január 1-jét követően engedélyezték (létesítési vagy építési engedély);
+36.[^14]
 
-37. meglévő létesítmény, meglévő tevékenység (a továbbiakban együtt: meglévő létesítmény): 2003. január 1. előtt kiadott vízjogi létesítési vagy építési, illetve fennmaradási engedély alapján engedélyezett létesítmény;
+37.[^15]
 
-38.[^14] használt víz: a termelési, szolgáltatási, fogyasztási tevékenység során használt, a használat következtében csak fizikai tulajdonságaiban megváltozott víz;
+38.[^16] használt víz: a termelési, szolgáltatási, fogyasztási tevékenység során használt, a használat következtében csak fizikai tulajdonságaiban megváltozott víz;
 
-39.[^15] felszíni vízben okozott károsodás: a felszíni víz ökológiai, kémiai, illetve mennyiségi állapotában, illetve ökológiai potenciáljában közvetlenül vagy közvetve bekövetkező, mérhető, jelentős és kedvezőtlen változás, illetve a felszíni víz által nyújtott szolgáltatás közvetlen vagy közvetett mérhető jelentős romlása;
+39.[^17] felszíni vízben okozott károsodás: a felszíni víz ökológiai, kémiai, illetve mennyiségi állapotában, illetve ökológiai potenciáljában közvetlenül vagy közvetve bekövetkező, mérhető, jelentős és kedvezőtlen változás, illetve a felszíni víz által nyújtott szolgáltatás közvetlen vagy közvetett mérhető jelentős romlása;
 
-40.[^16] regeneráció: az a folyamat, illetve tevékenység – ideértve a természetes regenerálódást is –, amelynek erdeményeképpen a károsodott állapot megszűnik, a károsodott felszíni víz, illetve az általa nyújtott, károsodott szolgáltatás visszaáll az eredeti állapotba;
+40.[^18] regeneráció: az a folyamat, illetve tevékenység – ideértve a természetes regenerálódást is –, amelynek erdeményeképpen a károsodott állapot megszűnik, a károsodott felszíni víz, illetve az általa nyújtott, károsodott szolgáltatás visszaáll az eredeti állapotba;
 
-41.[^17] kármentesítés: olyan helyreállítási intézkedés, amely a felszíni víz károsodásának enyhítésére, az eredeti állapot vagy ahhoz közeli állapot helyreállítására, valamint a felszíni víz által nyújtott szolgáltatás helyreállítására vagy azzal egyenértékű szolgáltatás biztosítására irányul, így különösen olyan műszaki, gazdasági és igazgatási tevékenység, amely a veszélyeztetett, szennyezett, károsodott felszíni víz megismerése, illetőleg a szennyezettség, károsodás és a kockázat mértékének csökkentése, megszüntetése, továbbá monitorozása érdekében szükséges;
+41.[^19] kármentesítés: olyan helyreállítási intézkedés, amely a felszíni víz károsodásának enyhítésére, az eredeti állapot vagy ahhoz közeli állapot helyreállítására, valamint a felszíni víz által nyújtott szolgáltatás helyreállítására vagy azzal egyenértékű szolgáltatás biztosítására irányul, így különösen olyan műszaki, gazdasági és igazgatási tevékenység, amely a veszélyeztetett, szennyezett, károsodott felszíni víz megismerése, illetőleg a szennyezettség, károsodás és a kockázat mértékének csökkentése, megszüntetése, továbbá monitorozása érdekében szükséges;
 
-42.[^18] diffúz források: nem pontszerű források, illetve sok kisebb vagy elszórt forrás, amelyekből a szennyező anyagok a vízbe kerülhetnek kibocsátásra, amelyek a felszíni vizekre gyakorolt együttes hatása jelentős lehet, és amelyek esetében nem praktikus a jelentések begyűjtése egyedileg minden forrásból;
+42.[^20] diffúz források: nem pontszerű források, illetve sok kisebb vagy elszórt forrás, amelyekből a szennyező anyagok a vízbe kerülhetnek kibocsátásra, amelyek a felszíni vizekre gyakorolt együttes hatása jelentős lehet, és amelyek esetében nem praktikus a jelentések begyűjtése egyedileg minden forrásból;
 
-43.[^19] üledék: a felszíni vízbe besodort és lerakódott szervetlen és szerves eredetű hordalék részecskéi, a víztestben kémiai folyamatból keletkező csapadék pelyhek, valamint elpusztult vízi szervezetek fenéken lerakodó maradványai;
+43.[^21] üledék: a felszíni vízbe besodort és lerakódott szervetlen és szerves eredetű hordalék részecskéi, a víztestben kémiai folyamatból keletkező csapadék pelyhek, valamint elpusztult vízi szervezetek fenéken lerakodó maradványai;
 
-44.[^20] vízminőségi határérték: a felszíni víz vízszennyezettségi határértékeiről és azok alkalmazásának szabályairól szóló rendeletben meghatározott fizikai-kémiai szennyezőanyagok által okozott vízszennyezettség még megengedett olyan mértéke, amelynek meghaladása a jó ökológiai állapot romlását okozza;
+44.[^22] vízminőségi határérték: a felszíni víz vízszennyezettségi határértékeiről és azok alkalmazásának szabályairól szóló rendeletben meghatározott fizikai-kémiai szennyezőanyagok által okozott vízszennyezettség még megengedett olyan mértéke, amelynek meghaladása a jó ökológiai állapot romlását okozza;
 
-45.[^21] keveredési zóna: a felszíni víztestbe való közvetlen bevezetés bevezetési pontjának közvetlen környezetében a víztest egy részének lehatárolásával kijelölt térrész;
+45.[^23] keveredési zóna: a felszíni víztestbe való közvetlen bevezetés bevezetési pontjának közvetlen környezetében a víztest egy részének lehatárolásával kijelölt térrész;
 
-46.[^22] jó ökológiai állapot: a felszíni víztestre meghatározott környezeti célkitűzések elérésének lehetőségét biztosító ökológiai állapot, amely azzal jellemezhető, hogy a biológiai minőségi elemek, az ökológiát támogató fizikai-kémiai elemek és a vízgyűjtő-gazdálkodási tervről szóló miniszteri rendeletben meghatározott, egyéb specifikus szennyező anyagok koncentrációja nem haladja meg a vízminőségi határértékek által meghatározott koncentráció szintjét;
+46.[^24] jó ökológiai állapot: a felszíni víztestre meghatározott környezeti célkitűzések elérésének lehetőségét biztosító ökológiai állapot, amely azzal jellemezhető, hogy a biológiai minőségi elemek, az ökológiát támogató fizikai-kémiai elemek és a vízgyűjtő-gazdálkodási tervről szóló miniszteri rendeletben meghatározott, egyéb specifikus szennyező anyagok koncentrációja nem haladja meg a vízminőségi határértékek által meghatározott koncentráció szintjét;
 
-47.[^23] bióta: adott élőhelyen található élőlények összessége.
+47.[^25] bióta: adott élőhelyen található élőlények összessége.
 
 [^5]: A 3. § 3. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^6]: A 3. § 5. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
@@ -105,13 +105,15 @@
 [^11]: A 3. § 26. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^12]: A 3. § 27. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^13]: A 3. § 29. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^14]: A 3. § 38. pontját a 368/2004. (XII. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^15]: A 3. § 39. pontját a 93/2007. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
-[^16]: A 3. § 40. pontját a 93/2007. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
-[^17]: A 3. § 41. pontját a 93/2007. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
-[^18]: A 3. § 42. pontját a 194/2007. (VII. 25.) Korm. rendelet 3. §-a iktatta be.
-[^19]: A 3. § 43. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^20]: A 3. § 44. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^21]: A 3. § 45. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^22]: A 3. § 46. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^23]: A 3. § 47. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^14]: A 3. § 36. pontját a 310/2014. (XII. 11.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^15]: A 3. § 37. pontját a 310/2014. (XII. 11.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^16]: A 3. § 38. pontját a 368/2004. (XII. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^17]: A 3. § 39. pontját a 93/2007. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 3. § 40. pontját a 93/2007. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
+[^19]: A 3. § 41. pontját a 93/2007. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
+[^20]: A 3. § 42. pontját a 194/2007. (VII. 25.) Korm. rendelet 3. §-a iktatta be.
+[^21]: A 3. § 43. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^22]: A 3. § 44. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^23]: A 3. § 45. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^24]: A 3. § 46. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^25]: A 3. § 47. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.

@@ -1,3 +1,3 @@
-1. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^195]
+1. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^197]
 
-[^195]: Az 1. számú melléklet a 230/2010. (VIII. 18.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^197]: Az 1. számú melléklet a 230/2010. (VIII. 18.) Korm. rendelet 18. §-a szerint módosított szöveg.

@@ -1,10 +1,10 @@
-26. § (1)[^69] A 25. § (1) bekezdése szerinti engedély határozott időtartamra, legfeljebb 5 évre – az 1. számú melléklet B) pontjának I. listájába tartozó anyagot kibocsátókra vonatkozóan legfeljebb 4 évre – adható.
+26. § (1)[^71] A 25. § (1) bekezdése szerinti engedély határozott időtartamra, legfeljebb 5 évre – az 1. számú melléklet B) pontjának I. listájába tartozó anyagot kibocsátókra vonatkozóan legfeljebb 4 évre – adható.
 
-(2)[^70] A szennyvízkibocsátásra vonatkozó engedély visszavonásáról, módosításáról a vízvédelmi hatóság hivatalból vagy a kibocsátó kérelme alapján, illetve a 14. § (5), 37. § (5) bekezdésekben meghatározott feltételek fennállása esetén dönt.
+(2)[^72] A szennyvízkibocsátásra vonatkozó engedély visszavonásáról, módosításáról a vízvédelmi hatóság hivatalból vagy a kibocsátó kérelme alapján, illetve a 14. § (5), 37. § (5) bekezdésekben meghatározott feltételek fennállása esetén dönt.
 
-(3) Új létesítmények esetén a kibocsátó a próbaüzem lezárásáig akkreditált laboratórium által végzett mérési eredményekkel köteles igazolni, hogy az engedélyben előírt határértéket, illetve küszöbértéket tartósan és folyamatosan betartja.
+(3)[^73] Új létesítmények esetén a kibocsátó a próbaüzem lezárásáig akkreditált laboratórium által végzett – a próbaüzem elindítását követően minimum négy alkalommal azonos időközönként vett – mérési eredményekkel köteles igazolni, hogy az engedélyben előírt határértéket, illetve küszöbértéket tartósan és folyamatosan betartja.
 
-(4)[^71] Akkor engedélyezhető az új kibocsátás, ha
+(4)[^74] Akkor engedélyezhető az új kibocsátás, ha
 
 a) annak hatásait a befogadó vízszennyezettségi határértékének betartása érdekében
 
@@ -14,9 +14,10 @@ ab) az új kibocsátó által kezdeményezett és megvalósított beruházás á
 
 b) a vízgyűjtő-gazdálkodási tervben meghatározott kevésbé szigorú környezeti célkitűzések megengedik.
 
-(5)[^72] A vízvédelmi hatóság a befogadó vízminőségénél jobb minőségű szennyvizet kibocsátó új létesítmény telepítését engedélyezheti a 18–19. § figyelembevételével.
+(5)[^75] A vízvédelmi hatóság a befogadó vízminőségénél jobb minőségű szennyvizet kibocsátó új létesítmény telepítését engedélyezheti a 18–19. § figyelembevételével.
 
-[^69]: A 26. § (1) bekezdése a 368/2004. (XII. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^70]: A 26. § (2) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 29. § (3) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 362. §-a, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
-[^71]: A 26. § (4) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^72]: A 26. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 34. pontja, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^71]: A 26. § (1) bekezdése a 368/2004. (XII. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^72]: A 26. § (2) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 29. § (3) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 362. §-a, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^73]: A 26. § (3) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^74]: A 26. § (4) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^75]: A 26. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 34. pontja, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
