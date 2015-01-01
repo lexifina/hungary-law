@@ -2,11 +2,15 @@
 
 130. § (1)–(7)
 
-(8)
+(8) A Cnytv. 48. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az alapítvány nyilvántartásba vétele iránti kérelemnek a 20. §-ban foglaltakon túlmenően tartalmaznia kell a kurátor nevét, illetve a kuratórium megnevezését, a kuratórium tagjainak vagy a kurátornak a lakóhelyét (székhelyét), anyja születési nevét is.”
 
 (9)–(15)
 
-(16)
+(16) A Cnytv. 58/B. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) Az alapítványok egyesülésének vagy szétválásának bejegyzésére akkor kerülhet sor, ha az állami adó- és vámhatóság – a bírósági elektronikus értesítést követő öt munkanapon belül – elektronikus úton arról tájékoztatja a bíróságot, hogy az átalakulással érintett alapítványnál az adókötelezettségek teljesítésének ellenőrzésére irányuló, illetve ezzel összefüggő hatósági eljárás nincs folyamatban, vagy az állami adó- és vámhatóság ilyen adóigazgatási eljárást nem kezdeményez. Ha az állami adó- és vámhatóság tájékoztatása szerint az alapítványnál ilyen eljárás van folyamatban, vagy az állami adó- és vámhatóság ilyen eljárást kezdeményez, az átalakulás az adóigazgatási eljárás jogerős befejezéséről szóló elektronikus tájékoztatást követően, ennek hiányában az átalakulás bejegyzése iránti kérelem elbírálására nyitva álló határidő kezdetétől számított kilencvenedik napon jegyezhető be.”
 
 (17)
 
