@@ -1,1 +1,0 @@
-## megszerzett szakképzettséget.
