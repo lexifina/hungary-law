@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-53-20-2
 | 2013-01-02 | 2012-53-20-2T.2 | 2010: CXXX. törvény |
 | 2013-01-22 | 2012-53-20-2T.3 | 2010: CXXX. törvény |
 | 2013-01-23 | 2012-53-20-2T.4 | 2010: CXXX. törvény |
+| 2015-01-01 | 2012-53-20-2T.5 | 17/2014. (XII. 19.) IM rendelet |
