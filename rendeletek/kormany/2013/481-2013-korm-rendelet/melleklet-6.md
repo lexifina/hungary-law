@@ -20,7 +20,7 @@
 
 | 8a. | Ha az eljárás erdőt érint, és ugyanezt a szakkérdést korábban önálló eljárásban vagy szakhatóságként nem vizsgálták. | a) Az erdőre gyakorolt hatások vizsgálata. b) ha az eljárás során vizsgált beruházás vagy tevékenység erdő igénybevételével jár, akkor az a) pontban foglaltakon túl az erdő igénybevétel engedélyezhetőségének a vizsgálata. | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 9. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörükbe tartozik, azt érinti vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja. | Ha az egységes környezet- használati engedély megszerzésére irányuló eljárás termőföldet érint. | Termőföld mennyiségi védelmének követelményei tekintetében. | járási földhivatal, több járási földhivatal illetékességi területét érintő esetekben a megyei kormányhivatal földhivatala, a fővárosban a Budapest Főváros Kormányhivatala földhivatala | megyei kormányhivatal földhivatala, a fővárosban Budapest Főváros Kormányhivatala földhivatala, ha első fokon a megyei kormányhivatal földhivatala vagy a fővárosban a fővárosi kormányhivatal földhivatala járt el, akkor a földügyért felelős miniszter |
+| 9. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörükbe tartozik, azt érinti vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja. | Ha az egységes környezet- használati engedély megszerzésére irányuló eljárás termőföldet érint. | Termőföld mennyiségi védelmének követelményei tekintetében. | járási földhivatal, több járási földhivatal illetékességi területét érintő esetekben a megyeszékhely szerinti járási földhivatal, Pest megyében a Budakeszi Járási Hivatal Budakörnyéki Járási Földhivatala, a fővárosban a Budapesti 1. Számú Földhivatal | megyei kormányhivatal földhivatala, a fővárosban Budapest Főváros Kormányhivatala földhivatala |
 
 | 10. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörükbe tartozik, azt érinti vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja, és a vizsgálat (engedély megszerzése) nem bányászati tevékenységre vonatkozik. | Az adott építmény létesítésének és tevékenység végzésének a földtani környezetre való hatásának vizsgálata az ásványi nyersanyag és a földtani közeg védelme szempontjából. | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -28,7 +28,7 @@
 
 | 12. | Ha a kérelem a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló kormányrendelet szerinti országos vagy térségi jelentőségű műszaki infrastruktúra hálózatok és egyedi építmények megvalósítására, valamint azok jelentős módosítására irányul. | A területrendezési tervekkel való összhang tekintetében. | állami főépítész | területrendezésért felelős miniszter |
 
-6. melléklet a 481/2013. (XI. 17.) Korm. rendelethez[^60]
+6. melléklet a 481/2013. (XI. 17.) Korm. rendelethez[^64]
 
 A felügyelőség nem veszélyes hulladék kereskedelme, közvetítése, szállítása, gyűjtése, előkezelése, tárolása, hasznosítása, ártalmatlanítása engedélyezése iránti eljárásában közreműködő szakhatóságok
 
@@ -46,4 +46,4 @@ A felügyelőség nem veszélyes hulladék kereskedelme, közvetítése, száll�
 
 | 6. | Nyilvántartott ásványi nyersanyag lelőhely, bányatelek érintettsége, ásványi nyersanyag kitermelése és annak használata, értékesítése, hasznosítása esetén | Földtani környezet, földtani veszélyforrások, földtani gátak és az ásványvagyon- védelem értékelése, a fizetendő bányajáradék mértékének meghatározása, az építésföldtani megalapozottság vizsgálata, a földtani veszélyeztetettség vizsgálata, figyelemmel a vízzáró rétegre, a felszínen folyásra alkalmas képződmények meglétére, tektonikai jelenségekre (vetők, csúszásra alkalmas felületek), védelemre érdemes földtani képződményekre, a felszínmozgás veszélyeztetésének vizsgálata. | bányakapitányság | Magyar Bányászati és Földtani Hivatal | NEM | IGEN | IGEN |
 
-[^60]: A 6. melléklet a 221/2014. (IX. 4.) Korm. rendelet 785. § k)–m) pontja szerint módosított szöveg.
+[^64]: A 6. melléklet a 221/2014. (IX. 4.) Korm. rendelet 785. § k)–m) pontja szerint módosított szöveg.
