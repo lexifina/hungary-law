@@ -1,0 +1,3 @@
+199. § (1) Ha a nyomozati cselekmény elvégzésre kiadott előzetesen letartóztatott ügyében az ügyész arról értesíti a bv. intézetet, hogy az előzetes letartóztatást a rendőrségi fogdán tartózkodás alatt szüntetik meg, a bv. intézet rövid úton, haladéktalanul értesíti az ügyészt és a rendőrséget, hogy a szabadítás végrehajtásának van-e törvényi akadálya, egyebekben a 198. § (1) bekezdés előírásait kell értelemszerűen alkalmazni.
+
+(2) Ha más ügyben előzetes letartóztatás, közérdekű munka vagy pénzbüntetés helyébe lépő szabadságvesztés, elzárás vagy szabálysértési elzárás vár végrehajtásra, a rendőrséget értesíteni kell, hogy az előzetesen letartóztatottat haladéktalanul szállítsa a bv. intézetbe.

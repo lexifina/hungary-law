@@ -1,0 +1,5 @@
+## 200. § Ha az előzetes letartóztatás megszüntetésekor a fogvatartottnak pénzbüntetés helyébe lépő szabadságvesztést vagy pénzbírság helyébe lépő szabálysértési elzárást kell töltenie, a bv. intézet felhívja a figyelmét, hogy a pénzbüntetést, illetve a pénzbírságot befizetheti, vagy ennek érdekében intézkedést tehet a kapcsolattartói útján.
+
+201. § (1) Az előzetes letartóztatásból szabaduló részére a bv. intézet szabadulási igazolást ad. A szabadulási igazolás tartalma tekintetében a 144. § (1) bekezdés rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy azon az előzetes letartóztatást elrendelő és az azt megszüntető hatóság megjelölését, határozatának keltét és számát, továbbá az előzetes letartóztatásban töltött időt kell feltüntetni.
+
+(2) Ha a szabadulónak nincs személyazonosító igazolványa és nem rendelkezik állandó lakóhellyel, akkor a bv. intézet felhívja a figyelmét arra, hogy jelentkezzen a szabadulás helye szerint illetékes megyei (fővárosi) kormányhivatal járási (fővárosi kerületi) hivatalánál a személyazonosító igazolvány pótlása érdekében.

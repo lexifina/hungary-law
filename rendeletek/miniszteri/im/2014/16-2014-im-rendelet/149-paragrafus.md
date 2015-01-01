@@ -1,0 +1,15 @@
+## 148. § A fiatalkorú elítéltekre e rendelet szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni.
+
+149. § (1) A fiatalkorú befogadásáról és szabadulásáról három napon belül értesíteni kell
+
+a) a lakóhelye szerint illetékes gyámhatóságot,
+
+b) a fiatalkorú szülőjét vagy más törvényes képviselőjét, gyámság esetén a gyámot,
+
+c) átmeneti vagy tartós nevelésbe vett fiatalkorú esetén az illetékes területi gyermekvédelmi szakszolgálatot, továbbá
+
+d) ha a bv. intézetnek tudomása van arról, hogy a fiatalkorúval szemben közérdekű munka vagy pártfogó felügyelet végrehajtása van folyamatban, a fiatalkorú lakó- vagy tartózkodási helye szerint illetékes pártfogó felügyelői szolgálatot.
+
+(2) A fiatalkorúak életrendjére, az elhelyezési részlegük belső rendjére, a bv. intézeten belüli mozgásukra vonatkozó előírásokat, továbbá a személyes szükségletekre fordítható összeget – a szabadságvesztés végrehajtási fokozatára figyelemmel – a jogszabályok keretei között a bv. intézet parancsnoka határozza meg. Ezen rendelkezések meghozatalánál figyelembe kell venni a korosztályoknak megfelelő sajátos szükségleteket, törekedni kell a fiatalkorút érhető káros hatások elkerülésére.
+
+(3) A fiatalkorúak öntevékeny szervezetei felügyelet mellett működhetnek.

@@ -1,0 +1,9 @@
+## 85. A szabadítással összefüggő rendelkezések
+
+144. § (1) A bv. intézet a súlyosan beteg vagy a mozgásában jelentős mértékben korlátozott elítélt hozzátartozóját a szabadítás időpontja előtt legalább egy hónappal felhívja a szabaduló hazaszállítására. Ha a szabaduló elítéltnek nincs hozzátartozója vagy az a hazaszállítást nem vállalja, a bv. intézet kezdeményezi az elítélt gyógyintézetben történő elhelyezését.
+
+(2) Ha a szabadulásra vonatkozó rendelkezés azonnal foganatosítandó, a súlyosan beteg vagy mozgásában jelentős mértékben korlátozott elítéltet a mentőszolgálat igénybevételével kell az általa megjelölt címre, kórházi elhelyezés szükségessége esetén a gyógyintézetbe szállítani.
+
+(3) A nyomozásra kiadott elítélt szabadulásának az esedékessége előtt a bv. intézet értesíti a kikérő szervet, hogy a megadott határidőre gondoskodjék az elítélt visszaszállításáról.
+
+(4) Az elítélt szabadulás céljából történő – a lakó- vagy tartózkodási helyéhez közelebb eső – bv. intézetbe történő szállítását hivatalból vagy kérelemre méltányosságból a BVOP illetékes szervezeti egysége engedélyezheti.
