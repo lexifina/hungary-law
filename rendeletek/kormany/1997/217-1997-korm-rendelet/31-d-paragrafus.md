@@ -1,26 +1,23 @@
-31/D. §[^419] (1)[^420] A biztosított a méltányossági kérelmet a foglalkoztatójának székhelye szerint illetékes egészségbiztosítási szakigazgatási szervhez, vagy a kormányablakhoz nyújthatja be. A táppénz folyósítására vonatkozó kérelemhez csatolni kell az orvosi igazolást és javaslatot, valamint az orvosi szakvéleményt a keresőképtelenség várható időtartamáról. Az Ebtv. 50. § (2)–(3) bekezdésében foglalt esetben az egészségbiztosítási szakigazgatási szerv a biztosított méltányossági kérelmét és a rendelkezésére álló valamennyi dokumentumot, írásbeli javaslatával együtt felterjeszti az OEP-hez.
+31/D. §[^421] (1) A biztosított a méltányossági kérelmet a foglalkoztatójához nyújthatja be. A táppénz folyósítására vonatkozó kérelemhez csatolni kell az orvosi igazolást és javaslatot, valamint az orvosi szakvéleményt a keresőképtelenség várható időtartamáról. A foglalkoztató a biztosított méltányossági kérelmét a kérelem kézhezvételétől számított 5 napon belül továbbítja a 38. § (1) bekezdése szerint a székhelye szerint illetékes egészségbiztosítási szakigazgatási szervhez.
 
-(2)[^421]
+(2) A foglalkoztató – az Ebtv. 50. § (2) és (3) bekezdése szerinti esetben – ha
 
-(3)[^422] Az egészségbiztosítási szakigazgatási szerv a hiányosan benyújtott kérelem esetén a 37. § (4) bekezdésében foglaltak megfelelő alkalmazásával jár el.
+a) társadalombiztosítási kifizetőhelyet működtet, a biztosított méltányossági kérelmét, a foglalkoztató rendelkezésére bocsátott valamennyi dokumentumot, valamint az OEP által rendszeresített nyomtatványt kitöltve, a kérelem benyújtásától számított 5 napon belül megküldi az OEP-hez,
 
-(4) A pénzbeli ellátások folyósítására vonatkozó kérelmek elbírálásánál figyelemmel kell lenni a biztosított
+b) társadalombiztosítási kifizetőhelyet nem működtet, a biztosított méltányossági kérelmét, a foglalkoztató rendelkezésére bocsátott valamennyi dokumentumot a kérelem benyújtásától számított 5 napon belül megküldi a foglalkoztató székhelye szerint illetékes egészségbiztosítási szakigazgatási szervhez.
 
-a) biztosításban töltött idejére
+(3) A (2) bekezdés b) pontja szerinti esetben az egészségbiztosítási szakigazgatási szerv a kérelem benyújtásától számított 5 napon belül megküldi az OEP-hez a beérkezett dokumentumokat, valamint az OEP által rendszeresített nyomtatványt kitöltve.
 
-b) 30 napnál hosszabb megszakítást megelőző biztosítási idejének tartamára
+(4) A méltányossági kérelmek elbírálásánál figyelemmel kell lenni a biztosított
+
+a) biztosításban töltött idejére,
+
+b) 30 napnál hosszabb megszakítást megelőző biztosítási idejének tartamára,
 
 c) jövedelmi viszonyára és egyéb méltánylást érdemlő körülményeire.
 
 (5) A táppénz időtartamának meghosszabbítása iránti kérelem kizárólag az illetékes orvos által kiadott igazolásban foglaltak figyelembevételével engedélyezhető.
 
-(6)[^423]
+(6) A táppénzt méltányosságból legkorábban – a 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb beteg gyermek ápolása vagy kórházi tartózkodása címén méltányosságból megállapítható táppénz esetét kivéve – az igényjogosultság megszűnését követő naptól lehet megállapítani.
 
-(7)[^424] A táppénzt méltányosságból legkorábban – a 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb beteg gyermek ápolása vagy kórházi tartózkodása címén méltányosságból megállapítható táppénz esetét kivéve – az igényjogosultság megszűnését követő naptól lehet megállapítani.
-
-[^419]: A Vhr. 31/D. §-t a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
-[^420]: A Vhr. 31/D. § (1) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^421]: A Vhr. 31/D. § (2) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.
-[^422]: A Vhr. 31/D. § (3) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 14. § 49. pontja szerint módosított szöveg.
-[^423]: A Vhr. 31/D. § (6) bekezdését a 106/2011. (VI. 30.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
-[^424]: A Vhr. 31/D. § (7) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^421]: A Vhr. 31/D. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 10. §-ával megállapított szöveg.

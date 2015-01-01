@@ -14,6 +14,6 @@ d) a közcélú, illetőleg közérdekű munkát végző személynek az a balese
 
 (2) Az (1) bekezdés d) pontja alkalmazásában közcélú munka a Tbj. 15. § (2) bekezdésének d) pontjában foglaltakon túl az állami szerv vagy önkormányzat, illetőleg a munkáltató által kezdeményezett, irányított vagy jóváhagyott társadalmi munka.
 
-(3)[^429]
+(3)[^427]
 
-[^429]: A Vhr 32. § (3) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte.
+[^427]: A Vhr 32. § (3) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte.
