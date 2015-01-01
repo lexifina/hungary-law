@@ -1,8 +1,8 @@
 ## 10. Az információbiztonsági felügyelő
 
-18. § (1) Az információbiztonsági felügyelő (a továbbiakban: felügyelő) kirendelését a hatóság kezdeményezi a miniszternél. A felügyelő kirendelésére vonatkozó javaslat tartalmazza a kirendelés indokait, a korábbi, az érintett szervezettel kapcsolatos intézkedéseit, a felügyelő személyét, a kirendelés időtartamát.
+18. § (1)[^5]
 
-(2) Felügyelőként az rendelhető ki, aki a kirendelést vállalja. A felügyelőnek a vezetői gyakorlatára előírt időtartamába beleszámítható a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 8. § (5) bekezdése szerinti munkavégzésre irányuló jogviszonyban szerzett közigazgatáson kívüli vezetői gyakorlat is. A felügyelő felett a munkáltatói jogokat a miniszter gyakorolja.
+(2)[^6] Információbiztonsági felügyelőként (a továbbiakban: felügyelő) az rendelhető ki, aki a kirendelést vállalja. A felügyelőnek a vezetői gyakorlatára előírt időtartamába beleszámítható a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 8. § (5) bekezdése szerinti munkavégzésre irányuló jogviszonyban szerzett közigazgatáson kívüli vezetői gyakorlat is. A felügyelő felett a munkáltatói jogokat a miniszter gyakorolja.
 
 (3) A felügyelő egyidejűleg több érintett szervezethez is – ha a kirendelés indokai ezt lehetővé teszik – kirendelhető.
 
@@ -39,3 +39,6 @@ b) az (5) bekezdés szerinti, kizárásra okot adó körülmény merül fel, vag
 (9) Az új felügyelő kirendelésére a hatóság vezetője tesz javaslatot.
 
 (10) A felügyelő kirendelésének megszűnéséről a hatóság vezetője írásban haladéktalanul tájékoztatja az érintett szervezet vezetőjét.
+
+[^5]: A 18. § (1) bekezdését a 345/2014. (XII. 23.) Korm. rendelet 35. §-a hatályon kívül helyezte.
+[^6]: A 18. § (2) bekezdése a 345/2014. (XII. 23.) Korm. rendelet 34. §-ával megállapított szöveg.
