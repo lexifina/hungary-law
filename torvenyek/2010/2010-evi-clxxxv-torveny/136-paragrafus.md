@@ -1,16 +1,16 @@
 ## A Médiaszolgáltatás-támogató és Vagyonkezelő Alap
 
-136. § (1) Az Alap olyan elkülönített vagyonkezelő- és pénzalap, amelynek feladata a közszolgálati médiaszolgáltatás, a Közszolgálati Közalapítvány, a közösségi médiaszolgáltatások, a közszolgálati médiaszolgáltatók szervezeti átalakításának támogatása, a közszolgálati célú műsorszámok gyártása és támogatása, az elsőként filmszínházban bemutatásra szánt filmalkotások és a kortárs zeneművek támogatása, az Archívum és egyéb vagyonának gondos kezelése és gyarapítása, valamint az ezekhez kapcsolódó egyéb tevékenységek támogatása, illetve elvégzése.
+136. § (1) Az Alap olyan elkülönített vagyonkezelő- és pénzalap, amelynek feladata a közszolgálati médiaszolgáltatás, a Közszolgálati Közalapítvány, a közösségi médiaszolgáltatások, a közszolgálati médiaszolgáltató szervezeti átalakításának támogatása, a közszolgálati célú műsorszámok gyártása és támogatása, az elsőként filmszínházban bemutatásra szánt filmalkotások és a kortárs zeneművek támogatása, a tulajdonosi joggyakorlása alatt álló állami és saját vagyonának gondos kezelése és gyarapítása, valamint az ezekhez kapcsolódó egyéb tevékenységek támogatása, illetve elvégzése.
 
-(2) Az Alap eszközei kizárólag a törvényben meghatározott célokra használhatók fel.
+(2) Az Alap tulajdonában álló saját, valamint a tulajdonosi joggyakorlása alatt álló állami vagyon ideértve annak hasznosításából és tulajdonjogának átruházásából származó bevételt is – kizárólag törvényben meghatározott célokra használható fel.
 
-(3) Az Alap bevételei különösen: a médiaszolgáltatási díj, a pályázati díj, a műsorszolgáltatási szerződésszegési kötbér és kártérítés, a bírság, a közszolgálati hozzájárulás, a frekvencia díjakból a Hatóság által a 134. § (5) bekezdés alapján az Alaphoz utalt összeg, a lineáris audiovizuális médiaszolgáltatást nyújtó médiaszolgáltatók által a (8) bekezdés alapján befizetett támogatás, a központi költségvetési céltámogatások,a vagyonhasznosításból, illetve a vállalkozási tevékenységből származó bevételek, a kamatbevételek, továbbá az önkéntes befizetések.
+(3) Az Alap bevételei különösen: a médiaszolgáltatási díj, a pályázati díj, a műsorszolgáltatási szerződésszegési kötbér és kártérítés, a bírság, a közszolgálati hozzájárulás, a frekvencia díjakból a Hatóság által a 134. § (5) bekezdés alapján az Alaphoz utalt összeg, a lineáris audiovizuális médiaszolgáltatást nyújtó médiaszolgáltatók által a (8) bekezdés alapján befizetett támogatás, a központi költségvetési céltámogatások, a vagyonhasznosításból, annak értékesítéséből, illetve a vállalkozási tevékenységből származó bevételek, a kamatbevételek, továbbá az önkéntes befizetések.
 
 (4) A Magyar Állam évente közszolgálati hozzájárulást fizet a lineáris audiovizuális médiaszolgáltatások vételére alkalmas készüléket használó háztartások számát alapul véve. A közszolgálati hozzájárulás mértékét e törvény 4. számú melléklete határozza meg. Az Állam a közszolgálati hozzájárulást tizenkét egyenlő részletben előre, minden hónap harmadik napjáig fizeti meg az Alap pénzforgalmi számlájára. Az Alap a Médiatanács hozzájárulásával jogosult a közszolgálati hozzájárulásból származó bevételeinek engedményezésére.
 
 (5) A Magyar Állam képviseletében eljárva az audiovizuális politikáért felelős miniszter legfeljebb hét évre szóló szerződést köthet az Alappal a közszolgálati hozzájárulás megfizetéséről. A szerződés megkötéséhez nem szükséges az államháztartásról szóló törvényben előírt, külön országgyűlési felhatalmazás.
 
-(6) Az Alap jogi személy, kezelője a Médiatanács. Az Alap a Műsorszolgáltatási Alap, valamint a Műsorszolgáltatás Támogató és Vagyonkezelő Alap jogutódja.
+(6) Az Alap jogi személy, gazdálkodó szervezet, kezelője a Médiatanács. Az Alap a Műsorszolgáltatási Alap, valamint a Műsorszolgáltatás Támogató és Vagyonkezelő Alap jogutódja.
 
 (7) Az Alap köteles a Kincstárban fizetési számlát vezetni, a Kincstárban vezetett fizetési számlája mellett szabadon vezethet hitelintézetnél is fizetési számlát.
 
@@ -32,6 +32,6 @@
 
 (16) Az Alap kezelésének részletes szabályait a Médiatanács határozza meg.
 
-(17) A 109/2010. (X. 28.) OGY határozat alapján a Magyar Állam tulajdonába adott vagyon vonatkozásában a tulajdonosi jogok és kötelezettségek összességét (vagyonkezelői jogokat) az Alap gyakorolja. Az Alap vagyonkezelésébe adott, valamint az Alap által gazdálkodása során egyéb jogcímen szerzett vagyon tulajdonosi jogainak és kötelezettségeinek Alap által történő gyakorlása, a vagyon hasznosítása, megterhelése a vagyonnal történő gazdálkodás nem tartozik az állami vagyonról szóló törvény hatálya alá. Az Alap vagyonkezelésében és tulajdonában álló vagyonnal való gazdálkodás részletes szabályait a Médiatanács határozza meg.
+(17)
 
 (18) Az Alap személyes illetékmentességre jogosult, és nem alanya a társasági adónak, valamint a helyi adónak.

@@ -10,4 +10,4 @@
 
 (5) Közszolgálati és közösségi médiaszolgáltatásban osztott képernyős reklám és virtuális reklám csak sportműsorszámok közvetítéséhez kapcsolódóan tehető közzé.
 
-(6) A közszolgálati médiaszolgáltató köteles a legnagyobb éves átlagos közönségaránnyal rendelkező médiaszolgáltatásának teljes műsorideje tekintetében kétóránként – egész órától egész óráig tartó időszakon belül – két perc műsoridőt közérdekű közlemények közzétételének céljára fenntartani. E rendelkezés nem vonatkozik azon egész órától egész óráig tartó időszakra, amikor kétórásnál hosszabb, jellegénél fogva nem megszakítható műsorszám kerül közzétételre. Közérdekű közlemény közlésére irányuló igény hiányában ez az időtartam más műsorszámokkal is kitölthető. A 32. § (6) bekezdés szerinti közérdekű közleményt – amennyiben ez a katasztrófavédelmi szerv döntése alapján indokolt, és e döntést a médiaszolgáltatóval kellő időben közölték – a közszolgálati médiaszolgáltató köteles műsorának megszakításával közzétenni. Az e bekezdésben foglalt kötelezettség a közösségi médiaszolgáltatás médiaszolgáltatóját is terheli.
+(6)

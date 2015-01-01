@@ -14,7 +14,7 @@ a) több mint hatvan százalékát európai művek,
 
 b) több mint felét magyar művek,
 
-c) több mint negyedét tőle független műsorkészítővel készíttetett, vagy független műsorkészítőtől beszerzett, öt évnél nem régebben készült európai művek
+c) több mint tizenöt százalékát tőle független műsorkészítővel készíttetett, vagy független műsorkészítőtől beszerzett, öt évnél nem régebben készült európai művek
 
 bemutatására köteles fordítani.
 

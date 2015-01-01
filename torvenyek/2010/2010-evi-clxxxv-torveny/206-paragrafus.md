@@ -21,3 +21,5 @@ rendeletben megállapítsa.
 (4) Felhatalmazást kap a kultúráért felelős miniszter, hogy a kiadványokon az impresszum feltüntetésére vonatkozó részletes szabályokat rendeletben szabályozza.
 
 (5) Felhatalmazást kap az audiovizuális politikáért felelős miniszter, hogy a 171. § szerinti szakhatósági eljárásért fizetendő igazgatási szolgáltatási díj megfizetésének módjára, valamint a díj kezelésére, nyilvántartására és visszatérítésére vonatkozó részletes szabályokat rendeletben megállapítsa.
+
+(6) Felhatalmazást kap a foglalkoztatásért felelős miniszter, hogy a 108/B. § (1) bekezdése szerinti munkaköröket rendeletben állapítsa meg.
