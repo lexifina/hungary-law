@@ -1,0 +1,5 @@
+## 4. § A javadalmazási politikának a hitelintézet és a befektetési vállalkozás mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazásáról szóló 131/2011. (VII. 18.) Korm. rendelet 4. §-a helyébe a következő rendelkezés lép:
+
+## „4. § Ha az intézmény mérlegfőösszege nem haladja meg az 500 milliárd forintot és nincs olyan vezető tisztségviselője vagy munkavállalója, akinek az intézménytől vagy az intézménnyel együttesen összevont alapú felügyelet alá tartozó vállalkozástól származó éves jövedelme eléri a 300 millió forintot, az intézmény a javadalmazási politika kialakításával és működtetésével kapcsolatos kötelezettségének a 3. §-tól eltérően a kiemelt személyek javadalmazása teljesítményjavadalmazási elemeinek a 7. § szerinti teljesítménymutatók és előírások alapján történő meghatározásával és pénzben történő megfizetésével is eleget tehet.”
+
+## 3. A kollektív befektetési formák befektetési és hitelfelvételi szabályairól szóló 78/2014. (III. 14.) Korm. rendelet módosítása

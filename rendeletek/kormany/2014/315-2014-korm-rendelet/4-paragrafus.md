@@ -1,0 +1,1 @@
+## 2. A javadalmazási politikának a hitelintézet és a befektetési vállalkozás mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazásáról szóló 131/2011. (VII. 18.) Korm. rendelet módosítása
