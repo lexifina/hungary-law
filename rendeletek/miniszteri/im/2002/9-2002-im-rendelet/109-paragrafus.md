@@ -1,5 +1,0 @@
-109. §[^218] (1) Ha az elítélt a szabadságvesztés végrehajtása során részesül kegyelemben, szabadításával egyidejűleg a bv. intézet a kegyelemmel érintett, II. jelzésű értesítőlapon a kegyelem tényét a kegyelmi elhatározás megjelölésével és a foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás, kiutasítás vagy közügyektől eltiltás leteltének napjával, továbbá e büntetések végrehajtását befolyásoló tényekkel és ezek fennállásának időtartamával feltünteti – a beszámításra vonatkozó adatok kitöltését követően –, és a 93/B. § (2)–(3) bekezdésben, a 93/J. § (2) bekezdésében, a 93/R. (2) és (3) bekezdésében, vagy a 95. § (2) bekezdésében megjelölt érintett hatóságnak küldi meg.
-
-(2) Ha a kegyelem más büntetésre is kiterjed, a bv. intézet a kegyelemmel érintett, II. jelzésű értesítőlapon a kegyelem tényét a kegyelmi elhatározás megjelölésével feltünteti, és megküldi a 93/B. § (2)–(3) bekezdésében, a 93/J. § (2) bekezdésében, a 93/R. (2) és (3) bekezdésében, vagy a 95. § (2) bekezdésében megjelölt érintett hatóságoknak.
-
-[^218]: A 109. § a 9/2013. (VI. 29.) KIM rendelet 45. §-ával megállapított szöveg.
