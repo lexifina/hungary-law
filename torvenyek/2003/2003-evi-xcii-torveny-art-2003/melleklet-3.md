@@ -16,7 +16,17 @@ C) Az ingatlanügyi hatóság adatszolgáltatása
 
 1. Az ingatlanügyi hatóság az ingatlan-nyilvántartási eljárás befejezését, illetve az ingatlan tulajdonjogának a futamidő végén tulajdonjog átszállását eredményező pénzügyi lízing alapján a tulajdonjog fenntartással történő eladás tényének feljegyzését követően, haladéktalanul – az e törvény 21. §-ának (2) bekezdésében meghatározott, kitöltött nyomtatványt mellékelve – adatot szolgáltat az állami adóhatóságnak az illetékkiszabáshoz szükséges, birtokában lévő adatokról, valamint ingatlanértékesítés esetén az ingatlan értékesítőjéről és az ingatlanszerződés szerinti értékéről, továbbá termőföld átruházása esetén a termőföld-értékesítés tényéről, az ingatlanhoz kapcsolódó vagyoni értékű jogról való lemondás, ilyen jog visszterhes alapítása, átruházása (átengedése), megszüntetése esetén az átruházó (átengedő), e jogot alapító, illetve megszüntető magánszemélyről és e jog szerződés szerinti értékéről. Az ingatlanügyi hatóság az adózó személyi adatait tartalmazó megkeresésre tájékoztatja az adóhatóságot az adózó tulajdonát képező – nyilvántartásában szereplő – valamennyi ingatlan adatáról.
 
-2.
+2. Az ingatlanügyi hatóság az önkormányzati adóhatóság megkeresésére évente egy alkalommal – kizárólag az építményadó, a telekadó, a magánszemély kommunális adója, a települési adó bevezetése, továbbá megállapítása (kivetése), ellenőrzése céljából –, térítésmentesen, elektronikusan feldolgozható formában, a megkeresés beérkezését követő 30 munkanapon belül adatot szolgáltat az önkormányzati adóhatóság illetékességi területén található, a nyilvántartásában szereplő valamennyi ingatlannak a megkeresés szerinti év január 1-jén hatályos adatairól. A megkeresésben meg kell jelölni a kért adatok felhasználásnak célját. A kapott adatok kizárólag a megjelölt célra használhatóak fel. Ha az önkormányzat adóbevezetés céljából kért adatot, de az adó bevezetéséről szóló rendeletet legkésőbb a megkeresést követő év első napjáig nem léptette hatályba, akkor az adatszolgáltatásért egyébként járó díjat a megkeresést követő év január 31-éig meg kell fizetnie. Az adatszolgáltatás tartalmazza az önkormányzat illetékességi területén lévő, az ingatlan-nyilvántartásban önálló ingatlanként nyilvántartott ingatlan esetén
+
+a) az ingatlan-nyilvántartásról szóló törvény szerinti, az ingatlanról nyilvántartott valamennyi adatot (így különösen az ingatlan címét, helyrajzi számát és területnagyságát),
+
+b) az ingatlan tulajdonosát és természetes személy tulajdonos esetén a tulajdonos természetes személy azonosító adatait, lakcímét, értesítési címét, jogi személy tulajdonos esetén a tulajdonos nevét, székhelyét és értesítési címét, több tulajdonos esetén a tulajdonosok tulajdoni hányadát,
+
+c) az ingatlan-nyilvántartásba feljegyzett valamennyi jogot, ideértve azok jogosultjait, több jogosult esetén a jogosultak jogosultsági hányadát, a természetes személy jogosult esetén a jogosult azonosító adatait, lakcímét, jogi személy jogosult esetén székhelyét és értesítési címét,
+
+d) a tulajdonjog, használati jog, vagyonkezelői jog átruházására irányuló szerződés esetén a szerződés, jog alapítása esetén a jogalapításról szóló szerződés, nyilatkozat széljegyre vételét, a széljegyzés napját, a szerző felet, természetes személy szerző fél esetén a szerző fél azonosító adatait, lakcímét, jogi személy szerző fél esetén a jogosult székhelyét, értesítési címét, több szerző fél esetén a szerző felek által megszerzett tulajdoni, jogosultsági hányadot,
+
+e) a telekalakítási vagy építési tilalom elrendelésének tényét, a tény bejegyzésének napját.
 
 3.
 
@@ -82,7 +92,13 @@ a 2. pont szerinti adattartalommal közli a gépjárműadó kivetésére illeté
 
 6.
 
-7. A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala – minden hónap 15. napjáig az előző hónap utolsó napja szerinti állapotnak megfelelően, elektronikus úton, kapcsolati kód alkalmazásával – megküldi az állami adóhatóság részére azon személyek természetes személyazonosító adatait, állampolgárságát, elektronikus levélcímét, ügyfélkapu-azonosítóját, akik ügyfélkaput létesítettek vagy szüntettek meg, továbbá az ügyfélkapu-létesítés, illetve -megszüntetés időpontját.
+7. A polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv
+
+a) minden hónap 15. napjáig az előző hónap utolsó napja szerinti állapotnak megfelelően az állami adóhatóság részére,
+
+b) az önkormányzati adóhatóság kérésére minden év január 15. napjáig az előző év utolsó napja szerinti állapotnak megfelelően az önkormányzati adóhatóság részére
+
+elektronikus úton, kapcsolati kód alkalmazásával megküldi azon személyek természetes személyazonosító adatait, állampolgárságát, elektronikus levélcímét, ügyfélkapu-azonosítóját, akik ügyfélkaput létesítettek vagy szüntettek meg, továbbá az ügyfélkapu-létesítés, illetve -megszüntetés időpontját.
 
 8. A kötelező gépjármű-felelősségbiztosítási kötvényeket nyilvántartó szerv, a közúti közlekedési nyilvántartási szerv a kötvénynyilvántartásból, illetve a közúti járműnyilvántartásból a tárgyévet követő év január 31-ig a kötelező gépjárműfelelősség-biztosítási jogviszony díj nemfizetési okból való megszűnéséről, továbbá ha a biztosító értesítése alapján a gépjármű forgalomból való kivonása iránti eljárás indul, az állami adóhatósághoz – elektronikus úton – adatot szolgáltat a következő tartalommal:
 
@@ -108,7 +124,7 @@ I) Az állami foglalkoztatási szerv adatszolgáltatása
 
 1. Az állami foglalkoztatási szerv elektronikus úton az állami adóhatósághoz az adóévet követő január 31-éig adatot szolgáltat azon személyek azonosító adatairól, adóazonosító jeléről, akiknél a munkanélküli-ellátás folyósítását az ellátásra való jogosultságot kizáró kereső tevékenység miatt szüntették meg, lehetőség szerint az e személyek munkaadóiról, azok adószámának feltüntetésével, valamint a folyósítás megszűnésének időpontjáról.
 
-2. Az állami foglalkoztatási szerv elektronikus úton az állami adóhatóság részére a tárgyhót követő hó 5. napjáig adatot szolgáltat az adott hónapban a Karrier Híd Program keretében kiadott, visszavont vagy ismételten kiadott Igazolással összefüggésben az Igazolással rendelkező adózó természetes személyazonosító adatairól, lakcíméről, adóazonosító jeléről, az Igazolás sorszámáról, kiállításának dátumáról, érvényessége kezdetéről és érvényessége lejártáról, az igazolás visszavonásáról, ismételt kiadásáról.
+2.
 
 J) Adókedvezményre jogosító igazolásokról adatszolgáltatás
 
@@ -146,7 +162,9 @@ N)
 
 O) Az önkormányzat jegyzőjének adatszolgáltatása
 
-A jegyző az ingatlanokat terhelő adókról szóló bevallás benyújtására nyitva álló határidő lejártát követő 45 napon belül az állami adóhatóságnak adatot szolgáltat az önkormányzat illetékességi területén, a korrigált forgalmi érték szerinti adóztatás esetén az 500 millió forint forgalmi értéket elérő ingatlannal, alapterület szerinti adóztatás esetén az 1000 m2-t elérő épülettel, illetve 10 000 m2-t elérő telekkel rendelkező külföldön bejegyzett szervezetek tagjairól (tulajdonosairól), illetve az egyes tagokat megillető részesedés arányáról a külföldi szervezetek ingatlanadó bevallásában feltüntetett adatok alapján.
+1. A jegyző az ingatlanokat terhelő adókról szóló bevallás benyújtására nyitva álló határidő lejártát követő 45 napon belül az állami adóhatóságnak adatot szolgáltat az önkormányzat illetékességi területén, a korrigált forgalmi érték szerinti adóztatás esetén az 500 millió forint forgalmi értéket elérő ingatlannal, alapterület szerinti adóztatás esetén az 1000 m2-t elérő épülettel, illetve 10 000 m2-t elérő telekkel rendelkező külföldön bejegyzett szervezetek tagjairól (tulajdonosairól), illetve az egyes tagokat megillető részesedés arányáról a külföldi szervezetek építményadóról, telekadóról szóló bevallásában feltüntetett adatok alapján.
+
+2. A jegyző az 1. pontban meghatározott határidőn belül az állami adóhatóságnak adatot szolgáltat az Európai Unió más tagállamában illetőséggel rendelkező személy önkormányzat illetékességi területén található termőföldje haszonbérbeadásából származó jövedelméről.
 
 P)
 
@@ -163,3 +181,7 @@ b) azon települési önkormányzat, amely az a) pont szerinti intézményt nem 
 3. Az adatszolgáltatást a tárgyhónapot követő hónap 25. napjáig kell teljesíteni. Az állami adóhatóság adószámla vezetéssel kapcsolatos feladatai tekintetében – ideértve a kiutalások teljesítését is – a határidők az adatszolgáltatás beérkezésétől számítandók, ha az adatszolgáltatás a határidő kezdetére egyébként okot adó, jogszabályban rögzített körülmény bekövetkezését követően érkezett be.
 
 4. Amennyiben az 1. pontban említett adatok tekintetében változás következik be, akkor a változással érintett adatok vonatkozásában az adatszolgáltatást a tárgyhónapot követő hónap 25. napjáig kell teljesíteni.
+
+S) A biztosító adatszolgáltatása
+
+A biztosító 2015. április 30-áig adatot szolgáltat az állami adóhatóságnak az Európai Unió más tagállamában illetőséggel rendelkező személy részére életbiztosítási szerződés alapján történő teljesítésről.

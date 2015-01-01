@@ -6,7 +6,7 @@
 
 52. § (1) Az adóhatóság a tudomására jutott adatokat nyilvántartja és megőrzi. A magánszemély adózó azonosításával, adókötelezettségének keletkezésével és teljesítésének ellenőrzésével összefüggésben személyes adatokat tart nyilván és ellenőrizhet.
 
-(1a) Az állami adóhatóság és a vámhatóság az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú jogi személyt vagy kizárólagos állami tulajdonú egyéb szervezetet bízhat meg kivéve, ha e korlátozás alól a NAV felügyeletére kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
+(1a) Az adóhatóság az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú jogi személyt vagy kizárólagos állami tulajdonú egyéb szervezetet bízhat meg kivéve, ha e korlátozás alól a NAV felügyeletére kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
 
 (2) Más hatóság, közfeladatot ellátó adatkezelő szerv nyilvántartásában, vagy adózói nyilvántartásban szereplő adatot az adóhatóság az adózó és az adó megfizetésére kötelezett személy azonosításához, az adókötelezettség, a költségvetési támogatáshoz való jogosultság megállapításához, az adózók ellenőrzésre történő kiválasztásához, ellenőrzéséhez, végrehajtási eljárás lefolytatásához, az adózó kérelmére indult adóigazgatási eljárásban a tényállás tisztázásához használhatja fel. Amennyiben törvény megengedi az adóhatóságok vagy az állami adóhatóság és a társadalombiztosítás pénzügyi alapjainak kezelői között az adat átadását, illetve a hatósági nyilvántartásokból az adat átvételét, az adatszolgáltatást elektronikus úton is lehet teljesíteni.
 
@@ -98,7 +98,11 @@ ia) a munkaügyi hatóság részére ellenőrzésre történő kiválasztás cé
 
 ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való jogszerzés érdekében köthető megállapodás jogalapjának kontrollja céljából.
 
-j) megkeresésre elektronikus úton átadja a költségvetési támogatások kedvezményezettjének nevére (megnevezésére), lakhelyére (székhelyére), valamint az adatszolgáltatást megelőző hónap utolsó napjáig esedékessé vált és meg nem fizetett köztartozásuk jogcímére, összegére vonatkozó adatokat a kincstár, illetve a mezőgazdasági és vidékfejlesztési támogatási szerv részére a költségvetési támogatások folyósítása során a köztartozás visszatartása céljából,
+j) megkeresésre elektronikus úton átadja a költségvetési támogatások kedvezményezettjének nevére (megnevezésére), lakhelyére (székhelyére), valamint az adatszolgáltatást megelőző hónap utolsó napjáig esedékessé vált és meg nem fizetett köztartozásuk jogcímére, összegére vonatkozó adatokat
+
+ja) a köztartozás összegének a költségvetési támogatásból való levonása céljából a kincstár és a mezőgazdasági és vidékfejlesztési támogatási szerv részére,
+
+jb) a költségvetési támogatásnak a köztartozás megfizetéséig történő visszatartása céljából az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásért felelős miniszter által vezetett minisztérium részére,
 
 k)
 
@@ -115,6 +119,8 @@ m) elektronikus úton negyedévente, a negyedévet követő hó utolsó napjáig
 (11) Az állami adó- és vámhatóság vezetője a nemzetgazdaság aktuális állapotának, illetőleg az azt befolyásoló hatások, folyamatok elemzése, értékelése érdekében a 10 000 legnagyobb adóteljesítménnyel rendelkező adózót soron kívüli adatszolgáltatásra kötelezheti gazdasági tevékenységének olyan adatairól, amelyek a jogszabály alapján vezetett nyilvántartásaiból megállapíthatók és adókötelezettségeivel összefüggésben állnak.
 
 (12) E törvény 7. számú mellékletében meghatározott kamatjövedelem kifizetője, illetve az ezzel összefüggésben adatszolgáltatásra kötelezett más személy a 7. számú melléklet szerinti módon és tartalommal adatot szolgáltat az állami adóhatósághoz.
+
+(12a) A nyugdíjat folyósító szerv az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 19/A. § (2) bekezdés d) pontjában meghatározott jövedelemkategóriát érintő automatikus információcsere teljesítése érdekében a rendelkezésre álló azonosító adatok alapján az Európai Unió más tagállamában illetőséggel rendelkező személy részére kifizetett nyugellátás adóévi összegéről az adóévet követő év január 31-ig az adózó azonosításához rendelkezésre álló adatok feltüntetésével elektronikus úton adatot szolgáltat az állami adóhatóságnak.
 
 (13) A vámhatóság megkeresésére a jövedéki adó-visszaigénylés ellenőrzéséhez a nyilvántartásában szereplő adatok közül adatot szolgáltat
 
@@ -144,8 +150,10 @@ az Európai Bizottság felé történő éves beszámolási kötelezettség telj
 
 (19) Ha az állami adó- és vámhatóság ellenőrzési eljárás, végrehajtási eljárás megindításához, lefolytatásához vagy bűnüldözési, nyomozóhatósági tevékenysége végzéséhez, továbbá a pénzügyi információs egységként működő hatóság feladatainak végzéséhez szükséges adatok iránti megkeresést elektronikus úton juttatja el az általa e célra működtetett elektronikus rendszeren keresztül a pénzügyi intézmény, a pénzforgalmi intézmény és a befektetési vállalkozás részére, a megkeresést a pénzügyi intézmény, a pénzforgalmi intézmény és a befektetési vállalkozás elektronikus úton, az állami adó- és vámhatóság által meghatározott formátumban köteles teljesíteni.
 
+(19a) A (19) bekezdés szerinti megkeresések teljesítésére nyitva álló határidő a végrehajtási eljáráshoz szükséges megkeresések tekintetében 8 nap, az ellenőrzési eljáráshoz szükséges megkeresések tekintetében 15 nap.
+
 (20) A (19) bekezdés szerinti elektronikus kapcsolattartásra köteles pénzügyi intézmény, a pénzforgalmi intézmény és a befektetési vállalkozás az elektronikus kapcsolattartáshoz szükséges adatait köteles bejelenteni az állami adó- és vámhatóságnak.
 
 (21) A (19) bekezdés szerinti elektronikus kapcsolattartás során az állami adó- és vámhatóság által meghatározott formátumú küldemények továbbíthatóak. Az állami adó- és vámhatóság az általa üzemeltetett honlapon köteles közzétenni az üzenetformátumokat és az azokhoz tartozó üzenetsémákat a bevezetési idejük feltüntetésével. A küldeményt a feladónak el kell látnia legalább fokozott biztonságú elektronikus aláírással és időbélyegzővel, valamint titkosítania kell.
 
-(22)
+(22) Ha a tényállás tisztázásához szükséges, az állami adó- és vámhatóság megkeresi a belföldön letelepedett, telekommunikációs szolgáltatást nyújtó adózót az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvény szerinti elektronikus kereskedelemi szolgáltatásnak a szolgáltatás nyújtójára, valamint a szolgáltatás ellenértékére vonatkozó forgalmi adatai az elektronikus kereskedelmi szolgáltatást igénybevevő személyhez nem köthető módon történő beszerzése érdekében. A belföldön letelepedett, telekommunikációs szolgáltatást nyújtó adózó a megkeresést 15 napon belül teljesíti.

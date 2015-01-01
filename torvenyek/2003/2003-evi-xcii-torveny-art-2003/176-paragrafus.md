@@ -1,5 +1,3 @@
-## Egyes adókra vonatkozó különös rendelkezések
-
 176. § (1) E törvénynek a helyi adókra vonatkozó rendelkezéseit a belföldi rendszámú gépjárművek után fizetendő gépjárműadóra a következő eltérésekkel kell alkalmazni:
 
 a) az adóhatóság az adót az e törvény 3. számú mellékletének G) pontjában meghatározott adatszolgáltatás tartalma alapján állapítja meg kivetéssel. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény szerinti nyilvántartásba bejegyzés alapjául szolgáló bejelentési kötelezettség a jogkövetkezmények alkalmazása tekintetében bevallásnak minősül;

@@ -6,7 +6,7 @@
 
 (3) Az (1) bekezdésben előírt időpontig munkahelyet változtató adózó az új munkáltatójánál tehet nyilatkozatot. Ilyen esetben nyilatkozatához az előző munkáltatótól kapott jövedelemigazolást is csatolnia kell.
 
-(4) A munkáltató az adóalapot és az adót a magánszemély nyilatkozata alapján, az adóévet követő év március 20-áig átadott igazolások figyelembevételével az adóévet követő év május 20-áig állapítja meg és erről igazolást ad. A munkáltató az adómegállapítást az adóévet követő év június 10-éig elektronikus úton továbbítja az állami adóhatósághoz.
+(4) A munkáltató az adóalapot és az adót a magánszemély nyilatkozata alapján, az adóévet követő év március 20-áig átadott igazolások figyelembevételével az adóévet követő év április 30-áig állapítja meg és erről igazolást ad. A munkáltató az adómegállapítást az adóévet követő év május 20-áig elektronikus úton továbbítja az állami adóhatósághoz.
 
 (5) A munkáltató a munkáltatói adómegállapítást választó magánszemélyekről a 31. § (2) bekezdése szerinti bevallásában az adóévet követő év február 12-ig adatot szolgáltat. Ha a magánszemély munkáltatói adómegállapítást választott, és ennek ellenére személyi jövedelemadójáról adóbevallást nyújt be, úgy az adóhatóság felhívására, a felhívás kézbesítésétől számított 15 napon belül igazolhatja, hogy munkáltatói adómegállapítás választására nem volt jogosult. Amennyiben a magánszemély a felhívásra határidőn belül nem válaszol, vagy nem igazolja, hogy munkáltatói adómegállapítás választására nem volt jogosult, úgy az adóhatóság a magánszemély által benyújtott adóbevallást abban az esetben sem dolgozza fel, ha annak benyújtása megelőzte a munkáltatói adómegállapítás adóhatósághoz továbbításának időpontját.
 

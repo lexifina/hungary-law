@@ -1,6 +1,6 @@
 129. § (1) Az utólagos adómegállapítás során az adóhatóság határozattal
 
-a) adónként, költségvetési támogatásonként az egyes bevallási időszakokra elkülönítve állapítja meg a bevallott vagy bevallani elmulasztott és az ellenőrzés eredményeként különbözetként feltárt adó, illetve költségvetési támogatás alapját, az adókülönbözetet, a költségvetési támogatás különbözetet, valamint az adókötelezettséget érintő jogszabálysértés jogkövetkezményeit,
+a) adónként, költségvetési támogatásonként az egyes bevallási időszakokra elkülönítve állapítja meg a bevallott vagy bevallani elmulasztott és az ellenőrzés eredményeként különbözetként feltárt adó, illetve költségvetési támogatás alapját, az adókülönbözetet, a következő időszakra átvihető követelés különbözetet, a költségvetési támogatás különbözetet, valamint az adókötelezettséget érintő jogszabálysértés jogkövetkezményeit.
 
 b) az adózót a terhére megállapított adókülönbözet és a jogkövetkezmények megfizetésére kötelezi azzal, hogy az adózó a befizetés teljesítésekor figyelembe veheti a befizetéskor az adott adónemen fennálló esetleges túlfizetését,
 

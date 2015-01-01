@@ -6,7 +6,7 @@
 
 2. adóév: az a naptári év, amelyre az adókötelezettség vonatkozik, továbbá a számvitelről szóló törvényben meghatározott beszámoló adataira épülő adó és adó jellegű kötelezettségek tekintetében a számvitelről szóló törvény szerinti üzleti év,
 
-3. adókülönbözet: a bevallott (bejelentett), bevallani (bejelenteni) elmulasztott vagy a bevallás (bejelentés) alapján kivetett, kiszabott és az adóhatóság által utólag megállapított adó, költségvetési támogatás különbözete, vagy a büntetőeljárás során jogerősen megállapított – és a bíróság jogerős határozata alapján az adóhatóság által határozattal megfizetni rendelt – adóbevétel csökkenés, vagyoni hátrány, és a jogosulatlanul igénybe vett költségvetési támogatás,
+3. adókülönbözet: a bevallott (bejelentett), bevallani (bejelenteni) elmulasztott vagy a bevallás (bejelentés) alapján kivetett, kiszabott és az adóhatóság által utólag megállapított adó, költségvetési támogatás különbözete vagy a büntetőeljárás során jogerősen megállapított – és a bíróság vagy az ügyészség jogerős határozata alapján az adóhatóság által határozattal megfizetni rendelt – adóbevétel-csökkenés, vagyoni hátrány, és a jogosulatlanul igénybe vett költségvetési támogatás, ide nem értve a következő időszakra átvihető követelés különbözetét,
 
 4. adótartozás: az esedékességkor meg nem fizetett adó és a jogosulatlanul igénybe vett költségvetési támogatás; az adóhatóságnál nyilvántartott adótartozás összegét – nettó módon számítva – csökkenteni kell az ugyanazon adóhatóságnál nyilvántartott túlfizetés összegével az adóigazolás kiállítása iránti eljárásban vagy ha jogszabály valamely, az adózó által érvényesíthető kedvezmény igénybevételét adóhatóságnál nyilvántartott adótartozás hiányához köti,
 
@@ -30,7 +30,7 @@
 
 14. irat: jogszabályban meghatározott bizonylat, a könyvvezetésről szóló jogszabályokban előírt könyvek, nyilvántartások, továbbá a tervek, szerződések, levelezések, nyilatkozatok, jegyzőkönyvek, határozatok (végzések), számlák és más kivonatok, igazolások, tanúsítványok, köz- és magánokiratok, megjelenési formájuktól függetlenül,
 
-15. járulék: a nyugdíjjárulék, a biztosított egészségbiztosítási és munkaerő-piaci járuléka (ideértve a természetbeni egészségbiztosítási járulékot, a pénzbeli egészségbiztosítási járulékot és munkaerő-piaci járulékot), az egészségügyi szolgáltatási járulék, a korkedvezmény-biztosítási járulék, a táppénz-hozzájárulás, továbbá a végrehajtás tekintetében a jogalap nélkül felvett és visszakövetelt társadalombiztosítási és – a társadalombiztosítási szervek által folyósított – egyéb ellátások, valamint a társadalombiztosítás ellátásainak fedezetére előírt más kötelező járulékbefizetések, ideértve a jogosulatlan kifizetőhelyi költségtérítést is,
+15. járulék: a nyugdíjjárulék, a biztosított egészségbiztosítási és munkaerő-piaci járuléka (ideértve a természetbeni egészségbiztosítási járulékot, a pénzbeli egészségbiztosítási járulékot és munkaerő-piaci járulékot), az egészségügyi szolgáltatási járulék, a táppénz-hozzájárulás, továbbá a végrehajtás tekintetében a jogalap nélkül felvett és visszakövetelt társadalombiztosítási és – a társadalombiztosítási szervek által folyósított – egyéb ellátások, valamint a társadalombiztosítás ellátásainak fedezetére előírt más kötelező járulékbefizetések, ideértve a jogosulatlan kifizetőhelyi költségtérítést is,
 
 16. jövőbeni ügylet: a szokásos piaci ár megállapítása iránti kérelem benyújtását követően megkötött szerződés vagy más jogügylet, illetve az adó feltételes megállapítása iránti kérelem benyújtását követően ugyanazon felek között megkötött szerződés vagy más jogügylet, annak gazdasági céljától függetlenül. Jövőbeni ügyletnek minősül az a szerződés vagy más jogügylet is, amely(ek) alapján az adó feltételes megállapítása vagy a szokásos piaci ár megállapítása iránti kérelem benyújtásának időpontjában vagy azt követően folyamatos teljesítés történik, függetlenül attól, hogy a szerződést vagy egyéb jogügyletet a kérelem benyújtását megelőzően kötötték meg. Folyamatos teljesítésűnek az a szerződés vagy egyéb jogügylet minősül, amelyet legalább hat hónap időtartamra kötöttek meg vagy jött létre és
 
@@ -51,6 +51,8 @@ c) az adózó és más személy, ha harmadik személy – a Polgári Törvényk�
 d) a külföldi vállalkozó és belföldi telephelye, valamint a külföldi vállalkozó telephelyei, továbbá a külföldi vállalkozó belföldi telephelye és az a személy, amely a külföldi vállalkozóval az a)–c) alpontban meghatározott viszonyban áll;
 
 e) az adózó és külföldi telephelye, továbbá az adózó külföldi telephelye és az a személy, amely az adózóval az a)–c) alpontban meghatározott viszonyban áll;
+
+f) az adózó és más személy, ha köztük az ügyvezetés egyezőségére tekintettel az üzleti és pénzügyi politikára vonatkozó döntő befolyásgyakorlás valósul meg;
 
 18. kifizető: az a belföldi illetőségű jogi személy, egyéb szervezet, egyéni vállalkozó, amely (aki) adókötelezettség alá eső jövedelmet juttat, függetlenül attól, hogy a juttatást közvetlenül vagy megbízottja (posta, hitelintézet) útján teljesíti. Kamat esetében kifizető az, aki a személyi jövedelemadó törvény szerint magánszemélynek kamatjövedelmet fizet ki, a kölcsönt igénybe vette, a kötvényt kibocsátotta, osztalék esetében az az adózó, amelynek a vagyona terhére az osztalékot juttatják. Tőzsdei kereskedelmi tevékenység folytatására jogosult személy közreműködésével kötött ügyletből származó jövedelem esetében kifizető a megbízott (bizományos). Külföldről származó, belföldön adóköteles bevétel esetében kifizető a belföldi illetőségű megbízott (jogi személy, egyéb szervezet vagy egyéni vállalkozó), kivéve a megbízott hitelintézet olyan megbízását, amely kizárólag az átutalás (kifizetés) teljesítésére terjed ki. A külföldi vállalkozás fióktelepe, illetve kereskedelmi képviselete útján teljesített adóköteles kifizetése esetén a fióktelepet, illetve a kereskedelmi képviseletet kifizetőnek kell tekinteni. Ugyancsak kifizetőnek minősül minden olyan belföldön gazdasági tevékenységet végző szervezet, amelynek tevékenysége cégbejegyzéshez nem kötött, vagy törvény rendelkezésétől eltérően végez cégbejegyzéshez kötött gazdasági tevékenységet. Az adóköteles társadalombiztosítási ellátás kifizetőjének azt kell tekinteni, aki az ellátást a jogosultnak ténylegesen kifizette. Az adóköteles nyeremény szempontjából kifizető a szerencsejáték szervezője, függetlenül attól, hogy az adóköteles nyereményt közvetlenül vagy közvetítő útján juttatja a magánszemélynek. Kifizetőnek minősül a Tbj. 4. § a) pontja szerinti foglalkoztató, kivéve a Tbj. 56/A. §-a szerinti külföldi vállalkozást. Letétből történő kifizetés esetén a hatóságok, nyomozó hatóságok, bíróságok, ügyvédek, közjegyzők és a bírósági végrehajtók nem minősülnek kifizetőnek,
 
@@ -76,7 +78,7 @@ e) az adózó és külföldi telephelye, továbbá az adózó külföldi telephe
 
 29. vállalkozó: a magánszemély, ha belföldön saját nevében és kockázatára az egyéni vállalkozóról szóló törvény szerinti egyéni vállalkozói tevékenységet végez és az egyéni vállalkozók nyilvántartásában szerepel, továbbá az az egyéb magánszemély, akinek a tevékenységét törvény vállalkozási tevékenységnek minősíti, valamint a jogi személy, egyéb szervezet, amely rendszeresen üzletszerű gazdasági tevékenységet folytat,
 
-30. csekély összegű (de minimis) támogatás: a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet hatálya alá tartozó támogatás,
+30. csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.) alapján nyújtható támogatás,
 
 31. minősített adózó: az a vállalkozási tevékenységet folytató személy, aki (amely) legalább a minősített adózói nyilvántartásba való felvétel iránti kérelem előterjesztésének napját megelőző 3 éven át működött, és a kérelem benyújtását megelőző elévülési időn belül az állami adóhatóság nem állapított meg a terhére adóhiányt, nem indított ellene végrehajtási eljárást, nem állt vagy áll csőd-, felszámolási, kényszer-végelszámolási, illetve kényszertörlési eljárás alatt, illetve az adózó egy naptári éven belül legfeljebb két fizetési könnyítés (adómérséklés) iránti kérelmet terjesztett elő. Az állami adóhatóság a minősített adózót, kérelmére az erre a célra létrehozott és közzétett nyilvántartásában tünteti fel. Ha a nyilvántartásba vételt követően az adózó a feltételek bármelyikének nem felel meg, az adóhatóság az adózót a nyilvántartásból törli,
 
@@ -102,10 +104,32 @@ g) nem minősül adó megfizetésére kötelezettnek.
 
 35. tényleges üzletvezetés helye: a kettős adózás elkerüléséről szóló egyezmény kihirdetéséről szóló jogszabály és a társasági és az osztalékadóról szóló törvény alkalmazásában tényleges üzletvezetési hely, üzletvezetés helye.
 
-36. kutatás-fejlesztési tevékenység: a kutatás-fejlesztésről és a technológiai innovációról szóló törvényben meghatározott kutatás-fejlesztés.
+36. kutatás-fejlesztési tevékenység: a tudományos kutatásról, fejlesztésről és innovációról szóló törvényben meghatározott kutatás-fejlesztés,
 
 38.
 
 39.
 
 40. kezelt vagyon: a Polgári Törvénykönyv szerint bizalmi vagyonkezelési szerződés alapján kezelt vagyon.
+
+41. Következő időszakra átvihető követelés különbözete: az Áfa tv. 153/A. § (2) bekezdés a) pontja alapján a soron következő adómegállapítási időszakban fizetendő adót csökkentő tételként figyelembe vehető összegként bevallott és az adóhatóság által utólag, a soron következő adómegállapítási időszakban fizetendő adót csökkentő tételként figyelembe vehető összegként megállapított, az adófolyószámlát nem érintő összeg különbözete.
+
+42. EKAER szám: az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer (EKAER) által a termék közúti fuvarozásának bejelentését követően automatikusan képzett azonosító szám, amely egy adott termék egységet azonosít.
+
+43. Kockázatos termék: a külön jogszabály által kockázatosnak minősített élelmiszerek és egyéb termékek.
+
+44. Végfelhasználó: a terméket személyes szükséglet kielégítését meg nem haladó mennyiségben magánszükséglete kielégítésére való felhasználás céljából vásárló természetes személy.
+
+45. Címzett: a terméknek az Európai Unió más tagállamából Magyarország területére irányuló beszerzését vagy belföldi beszerzését megvalósító általános forgalmi adó alanya.
+
+46. Feladó: a terméknek Magyarország területéről az Európai Unió más tagállamába irányuló, vagy első belföldi adóköteles – nem közvetlenül végfelhasználó részére történő – értékesítését megvalósító általános forgalmi adó alanya, valamint az általános forgalmi adó mentesség érvényesítése érdekében a belföldön nyilvántartásba nem vett adózó helyett eljáró közvetett vámjogi képviselő, adóraktár üzemeltetője.
+
+47. Felrakodó: a közúti fuvarozásához használt gépjárműre a termék felrakodását végző személy.
+
+48. Útdíjköteles gépjármű: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerinti útdíjköteles gépjármű.
+
+49. Gépjármű: az útdíjköteles gépjármű és az annál kisebb össztömegű gépjármű, ideértve tehergépkocsit, vontatót – nyerges vontatót is –, valamint az ilyen gépjárműből és az általa vontatott pótkocsiból, félpótkocsiból álló járműszerelvényt.
+
+50. Elektronikus Közúti Áruforgalom Ellenőrző Rendszer (EKAER): az állami adó- és vámhatóság által működtetett elektronikus rendszer, amely az Európai Unió valamely más tagállamából Magyarország területére, Magyarország területéről az Európai Unió valamely más tagállamába irányuló, a termék közúti fuvarozásával, illetve a Magyarország területén belül megvalósuló, a termék közúti fuvarozásával összefüggő adókötelezettségek teljesítésének ellenőrzését szolgálja.
+
+51. Átvevő: a terméknek az Európai Unió más tagállamából Magyarország területére irányuló beszerzése vagy belföldi értékesítése esetén, ha nem a címzett veszi át a terméket, vagy a terméknek az Európai Unió más tagállamából Magyarország területére irányuló beszerzéstől eltérő egyéb célból történő behozatala esetén a terméket a kirakodási (átvételi) helyen átvevő személy.

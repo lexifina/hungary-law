@@ -10,7 +10,9 @@ b) a 2013. június 30-ig hatályban volt költségvetési csalás, csalás,
 
 c) a 2011. december 31-ig hatályban volt jogosulatlan gazdasági előny megszerzése, adócsalás, munkáltatással összefüggésben elkövetett adócsalás, vagy
 
-d) a 2005. szeptember 1-jéig hatályban volt társadalombiztosítási, egészségbiztosítási vagy nyugdíjjárulék fizetési kötelezettség megsértése
+d) a 2005. szeptember 1-jéig hatályban volt társadalombiztosítási, egészségbiztosítási vagy nyugdíjjárulék fizetési kötelezettség megsértése,
+
+e) csődbűncselekmény (Btk. 404. §),
 
 esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik el, az adó megállapításához való jog nem évül el mindaddig, amíg a bűncselekmény büntethetősége el nem évül.
 
@@ -44,7 +46,7 @@ b) az eljárást az elkövetővel szemben a Btk. 64. §-ában, illetve a 2013. j
 
 (12) Amennyiben hagyatéki eljárás lefolytatására kerül sor, úgy az adó megállapításához, az adótartozás végrehajtásához és a költségvetési támogatás igényléséhez való jog elévülése az adózó halálának napjától a hagyatéki eljárást lezáró döntés jogerőre emelkedésének időpontjáig nyugszik.
 
-(13) Az adó megállapításához való jog elévülése 6 hónappal meghosszabbodik,
+(13) Az adó megállapításához való jog elévülése 12 hónappal meghosszabbodik,
 
 a) egy alkalommal, ha a felettes adóhatóság a másodfokú eljárás keretében, vagy
 

@@ -26,7 +26,7 @@ a) az adózót a rá egyébként irányadó általános forgalmi adóbevallási 
 
 b) az adózót a 8. számú melléklet szerinti összesítő nyilatkozat rá egyébként irányadó benyújtási gyakoriságnál gyakoribb benyújtásra kötelezheti, azzal, hogy a fokozott adóhatósági felügyelet lejártát követően az adózó a nyilatkozat benyújtására vonatkozó kötelezettségét a rá vonatkozó általános szabályok szerint teljesíti, illetve
 
-c) az adózót a fokozott adóhatósági felügyelet időtartamára kötelezheti adóbevallásának, illetőleg az adóbevallással egyenértékű nyilatkozatának adótanácsadóval, adószakértővel, vagy okleveles adószakértővel történő ellenjegyeztetésére,
+c)
 
 d) kötelezheti, hogy az általános forgalmi adó bevallásával egyidejűleg nyújtsa be papír alapon az állami adóhatósághoz a bevallás alapjául szolgáló bizonylatok másolatát.
 
@@ -38,4 +38,4 @@ b) az állami adóhatóság a fokozott felügyelet időtartama alatt az adózó 
 
 c) a fokozott felügyelet időtartama alatt felszólítás ellenére nem teljesíti bevallási-, vagy – ha összesítő nyilatkozat benyújtására kötelezett – összesítő nyilatkozat benyújtási kötelezettségét és a mulasztását nem menti ki.
 
-d) az adózó felszólítás ellenére sem tesz eleget az (5) bekezdés c) vagy d) pont alapján előírt kötelezettségének és mulasztását nem menti ki.
+d) az adózó felszólítás ellenére sem tesz eleget a 2014. december 31-én hatályos (5) bekezdés c) pontja vagy az (5) bekezdés d) pontja alapján előírt kötelezettségének és mulasztását nem menti ki.

@@ -16,7 +16,7 @@ e) az adóvégrehajtás során végrehajtási joggal vagy jelzálogjoggal terhel
 
 (4) Az önkormányzati adóhatóság az adóztatási tevékenységéhez megkérheti az állami adóhatóságtól a vállalkozási tevékenységet folytató adózók bejelentkezése, illetőleg változásbejelentése alapján nyilvántartott adatokat. Az adóhatóság a tevékenysége során tudomására jutott, titoktartási kötelezettség alá tartozó adatról, tényről, iratról, körülményről hivatalból tájékoztatja a másik adóhatóságot, ha az lehetővé teszi, vagy valószínűsíti valamely adó (vámteher) vagy adóhiány feltárását, behajtását.
 
-(4a) A hagyatéki tárgyalásra idézett örökös kérelmére, az örökös tájékoztatása érdekében az elhunyt adózó hagyatéki ügyében eljáró közjegyző a hagyatéki ügyben való eljárásának igazolása esetén tájékoztatást kérhet az adóhatóságtól az elhunyt adózó adóhatóságnál nyilvántartott adótartozásának vagy túlfizetésének mértékéről. Az adóhatóság a tájékoztatást a tájékoztatás kiadmányozásának napján fennálló állapotnak megfelelő adattartalommal adja meg.
+(4a) Az örökös kérelmére, az örökös tájékoztatása érdekében az elhunyt adózó hagyatéki ügyében eljáró közjegyző a hagyatéki ügyben való eljárásának igazolása esetén tájékoztatást kérhet az adóhatóságtól az elhunyt adózó adóhatóságnál nyilvántartott adótartozásának vagy túlfizetésének mértékéről. Az adóhatóság a tájékoztatást a tájékoztatás kiadmányozásának napján fennálló állapotnak megfelelő adattartalommal adja meg.
 
 (5) Az állami adóhatóság az adózót terhelő adókötelezettség jogszerű teljesítéséhez, a költségvetési támogatás jogszerű igénybevételéhez honlapján közzéteszi
 
@@ -54,7 +54,7 @@ c) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeres�
 
 d) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szervet a törvényben meghatározott feladatai ellátása érdekében, az abban kapott felhatalmazás körében;
 
-e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet, az Európai Csalásellenes Hivatalt (OLAF), valamint az Európai Támogatásokat Auditáló Főigazgatóságot, ha a tájékoztatás az ellenőrzéshez szükséges;
+e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet, az Európai Csalásellenes Hivatalt (OLAF), az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezetet, valamint az Európai Támogatásokat Auditáló Főigazgatóságot, ha a tájékoztatás az ellenőrzéshez szükséges;
 
 f) az adópolitikáért felelős minisztert, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
 

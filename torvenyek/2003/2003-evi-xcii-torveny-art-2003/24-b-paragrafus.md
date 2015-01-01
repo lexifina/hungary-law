@@ -4,7 +4,9 @@ a) az adózó által a rá irányadó szabályoknak megfelelően bejelentett sz�
 
 b) az adózó a rá irányadó szabályoknak megfelelő szervezeti képviselőt az állami adóhatósághoz nem jelentette be,
 
-c) az adózó ellenőrzése alapján hitelt érdemlően tudomást szerez arról, hogy az adózó által bejelentett szervezeti képviselő nem valós személy.
+c) az adózó ellenőrzése alapján hitelt érdemlően tudomást szerez arról, hogy az adózó által bejelentett szervezeti képviselő nem valós személy,
+
+d) azt a támogató az Áht. 53/A. § (3) bekezdésében meghatározott esetben kezdeményezi.
 
 (2) Az állami adóhatóság az adószám törléséről határozattal dönt, a határozat elleni fellebbezést a közléstől számított 15 napon belül lehet előterjeszteni. A fellebbezést az ügy összes iratával a felettes szervhez a fellebbezés megérkezésétől számított 8 napon belül kell felterjeszteni, kivéve, ha az állami adóhatóság a megtámadott határozatot a fellebbezésnek megfelelően módosítja, visszavonja, kijavítja vagy kiegészíti. A felettes szerv a fellebbezésről az iratok hozzá történő megérkezését követő 15 napon belül dönt. Ha cégbírósági bejegyzésre kötelezett adózó esetében a törlés elrendelésére az (1) bekezdés alapján került sor, az állami adóhatóság a határozat jogerőre emelkedésének megállapítását követő napon a cégbíróság elektronikus úton történő értesítésével kezdeményezi az adószám törléssel érintett adózó megszüntetésére irányuló eljárást. Az adószám (1) bekezdés szerinti törlése esetén, az egyéni vállalkozók nyilvántartásában szereplő adózók esetében az állami adóhatóság a jogerőre emelkedés megállapítását követő napon megkeresi az egyéni vállalkozók nyilvántartását vezető szervet a törlés tényének és időpontjának az egyéni vállalkozók nyilvántartásába való bejegyzése érdekében, más, cégbírósági bejegyzésre nem kötelezett adózó esetében a törlésről értesíti az adózó nyilvántartását vezető egyéb szervet.
 

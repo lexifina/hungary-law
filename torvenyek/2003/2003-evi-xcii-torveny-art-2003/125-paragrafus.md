@@ -20,4 +20,6 @@ d) új közlekedési eszköznek minősülő személygépkocsinak, illetőleg reg
 
 (6) Ha a bevallás (bejelentés) hiányos, valótlan vagy téves adatokat tartalmaz, az adóhatóság legfeljebb 15 napos határidő tűzésével az adózót hiánypótlásra hívja fel.
 
+(6a) A helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) 1/A. §-ában, II. Fejezetében és III. Fejezet 1. pontjában szabályozott adók esetében az önkormányzati adóhatóság az adózó bevallását a közhiteles nyilvántartások, továbbá e törvény 3. számú melléklet G.) 1. pontjában szereplő adatszolgáltatásból tudomására jutó adatokkal hivatalból kijavíthatja, kiegészítheti, vagy ha az adózó az adóbevallását nem nyújtja be, úgy az adóhatóság az adót az e paragrafusban szabályozottak szerint az adózó bevallásának hiányában is kivetheti (a továbbiakban: adóhatósági adómegállapítás). Az adóhatósági adómegállapítás az adózót a bevallási kötelezettsége alól nem menti fel.
+
 (7) A hiánypótlásra előírt határidő eredménytelen eltelte esetén, vagy ha azt a tényállás tisztázása egyébként indokolja, az adóhatóság az adózó egyidejű értesítésével az adómegállapítási eljárást felfüggeszti, és a tényállás tisztázása érdekében ellenőrzést folytat le.

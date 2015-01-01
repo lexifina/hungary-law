@@ -1,6 +1,6 @@
 ## Adóbevallás
 
-31. § (1) Az adóbevallás az adózó azonosításához, az adóalap, a mentességek, a kedvezmények, az adó, a költségvetési támogatás alapja és összege megállapításához szükséges adatokat tartalmazza. Az adózó az önadózással megállapított adóról – ideértve a közvetett vámjogi képviselőnek az importáló helyett a saját nevében teljesített adóbevallását is, az eljárási illetékek kivételével –, továbbá költségvetési támogatásról adónként, költségvetési támogatásonként az erre a célra rendszeresített nyomtatványon adóbevallást tesz. A költségvetési támogatás előlegének, illetve gyakoribb igénybevételének igénylése nem minősül adóbevallásnak. Az adóhatóság olyan nyomtatványt is rendszeresíthet, amely alkalmas több jogcímen fennálló adókötelezettség, költségvetési támogatásigénylés bevallására, illetve az adókötelezettség bevallása mellett költségvetési támogatás igénylésére.
+31. § (1) Az adóbevallás az adózó azonosításához, az adóalap, a mentességek, a kedvezmények, az adó, a költségvetési támogatás alapja és összege megállapításához szükséges adatokat tartalmazza. Az adózó az önadózással megállapított adóról – ideértve a közvetett vámjogi képviselőnek az importáló helyett, valamint az adóraktár üzemeltetőjének az adófizetésre kötelezett helyett a saját nevében teljesített adóbevallását is, az eljárási illetékek kivételével –, továbbá költségvetési támogatásról adónként, költségvetési támogatásonként az erre a célra rendszeresített nyomtatványon adóbevallást tesz. A költségvetési támogatás előlegének, illetve gyakoribb igénybevételének igénylése nem minősül adóbevallásnak. Az adóhatóság olyan nyomtatványt is rendszeresíthet, amely alkalmas több jogcímen fennálló adókötelezettség, költségvetési támogatásigénylés bevallására, illetve az adókötelezettség bevallása mellett költségvetési támogatás igénylésére.
 
 (2) A munkáltató, a kifizető (ideértve az egyéni vállalkozónak nem minősülő magánszemély munkáltatót is), illetőleg az 52. § (4) bekezdésének l), p), r), s), t) és v) pontjaiban meghatározottak a rájuk vonatkozó bevallási gyakoriságtól függetlenül, havonként, a tárgyhót követő hónap 12. napjáig elektronikus úton bevallást tesznek az adó- és/vagy társadalombiztosítási kötelezettségeket eredményező, magánszemélyeknek teljesített kifizetésekkel, juttatásokkal összefüggő valamennyi adóról – kivéve a kamatjövedelem adóról –, járulékokról és/vagy az alábbi adatokról:
 
@@ -14,7 +14,7 @@
 
 5. a biztosításban töltött idő tartamáról, az alkalmazás minőségének, jogcímének kódjáról, valamint a magánszemély nyugdíjas státuszáról, a gyermekgondozási díj vagy a gyermekgondozási segély folyósítása melletti munkavégzésének tényéről, illetve arról, hogy korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő naptári napjainak számáról,
 
-6. a korkedvezmény-biztosítási járulék alapjáról, összegéről,
+6.
 
 7. a nyugdíjjárulék alapját képező jövedelemről, a nyugdíjjárulék-köteles jutalom összegéről, illetőleg a levont nyugdíjjárulék összegéről,
 
@@ -63,6 +63,12 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 24. a társas vállalkozóként biztosított, egyidejűleg több gazdasági társaság személyesen közreműködő tagja Tbj. 31. § (5) bekezdése szerinti nyilatkozatában foglalt választásáról,
 
 25. a külföldi illetőségű magánszemélynek kifizetett jövedelem összegéről, és az általános mértéktől eltérően levont, le nem vont adó, adóelőleg összegéről,
+
+25a. az Európai Unió más tagállamában illetőséggel rendelkező személy részére vezető tisztségviselői jogviszonyával összefüggésben fizetett tiszteletdíj összegéről,
+
+25b. az Európai Unió más tagállamában illetőséggel rendelkező személy részére életbiztosítási szerződés alapján történő biztosítói teljesítésről,
+
+25c. az Európai Unió más tagállamában illetőséggel rendelkező személy részére ingatlan birtoklásának, használatának átengedéséből és hasznainak szedéséből, az ingatlan feletti rendelkezési jog gyakorlásából származó jövedelemmel (így különösen az ingatlan értékesítéséből, bérbeadásából, haszonbérbe adásából, az ingatlanra vonatkozó vagyoni értékű jog ellenérték fejében történő alapításából, az arról való lemondásból, illetve a joggyakorlás átengedéséből származó jövedelemmel) összefüggésben kifizetett bevétel (jövedelem) összegéről,
 
 26. a társas vállalkozóként is biztosított egyéni vállalkozó Tbj. 31. § (6) bekezdése szerinti nyilatkozatában foglalt választásáról,
 

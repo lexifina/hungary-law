@@ -40,7 +40,9 @@ n) a 17. § (1) bekezdés b) pontja szerint bejelentkező adózók jegyzett tők
 
 o) külföldi vállalkozás magyarországi fióktelepe esetén a külföldi vállalkozás megnevezését, székhelyét, cégjegyzék számát (nyilvántartási számát);
 
-p) magyarországi tényleges üzletvezetési helyét, ha magyar adóügyi illetőségét a tényleges üzletvezetési hely alapozza meg.
+p) magyarországi tényleges üzletvezetési helyét, ha magyar adóügyi illetőségét a tényleges üzletvezetési hely alapozza meg;
+
+q) alapítvány, egyesület esetében a bírósági nyilvántartási számát, a főtevékenységet és a ténylegesen végzett tevékenységet.
 
 (3a) A (3) bekezdéstől eltérően a kezelt vagyon esetében kizárólag a (3) bekezdés b), c), g) és l) pontja szerinti adatokat kell bejelenteni az állami adóhatósághoz.
 

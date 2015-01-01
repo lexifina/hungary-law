@@ -2,7 +2,7 @@
 
 (2) Adóügyekben nem kell alkalmazni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény
 
-a) az eljárás megindítására, az újrafelvételi eljárásra, a hatósági szolgáltatásra, a végrehajtási eljárásra és az ügyfél kérelmére történő ellenőrzés lefolytatására vonatkozó szabályait,
+a) az eljárás megindítására, az újrafelvételi eljárásra, a hatósági szolgáltatásra, a végrehajtási eljárásra és az ügyfél kérelmére történő ellenőrzés lefolytatására, az ügyintézési rendelkezésre, elektronikus irat előterjesztése esetén az ügyintézési határidő kezdetére vonatkozó szabályait,
 
 b) a kiskorú adózó esetében az ügyintézés soronkívüliségére és határidejére vonatkozó szabályait.
 
@@ -13,6 +13,8 @@ a) ügyfél által javasolt szakértő kirendelésére,
 b) kirendelt szakértő eljárási bírsággal történő sújtására
 
 vonatkozó szabályait.
+
+(2b) Az adóhatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti ideiglenes biztosítási intézkedés elrendelése esetén e törvény biztosítási intézkedésre vonatkozó rendelkezéseit alkalmazza. Adóügyekben az ideiglenes biztosítási intézkedés a határozat jogerőre emelkedésével nem veszti hatályát.
 
 (3) Adóügyben az elektronikus kapcsolattartásra és elektronikus ügyintézésre akkor van lehetőség, ha azt jogszabály az ügy típusának megjelölésével lehetővé teszi. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra és elektronikus ügyintézésre vonatkozó szabályait az ügyre vonatkozó jogszabályban meghatározott eltérésekkel kell alkalmazni.
 

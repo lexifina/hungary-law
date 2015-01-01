@@ -8,7 +8,7 @@ a) az állami adóhatóság által megállapított közösségi adószámáról,
 
 b) a vevő és az eladó, illetve a szolgáltatást nyújtó és szolgáltatást igénybe vevő adószámáról,
 
-c) az Európai Közösség más tagállamában adószámmal rendelkező beszerző részére teljesített, az általános forgalmi adóról szóló törvény 89. §-ának (1), (3) és (4) bekezdései hatálya alá tartozó termékértékesítésről (ideértve azt az esetet is, amikor a közvetett vámjogi képviselő az importáló helyett, de saját nevében tesz bevallást az importáló által teljesített termékértékesítésről),
+c) az Európai Közösség más tagállamában adószámmal rendelkező beszerző részére teljesített, az általános forgalmi adóról szóló törvény 89. §-ának (1), (3) és (4) bekezdései hatálya alá tartozó termékértékesítésről (ideértve azt az esetet is, amikor a közvetett vámjogi képviselő az importáló helyett vagy az adóraktár üzemeltetője az adófizetésre kötelezett helyett, tesz bevallást az importáló vagy az adófizetésre kötelezett által teljesített termékértékesítésről),
 
 d) az Európai Közösség más tagállamában adószámmal rendelkező beszerző részére teljesített azon termékértékesítésről, melyet részére az általános forgalmi adóról szóló törvény 52. §-ának megfelelő Közösségen belüli beszerzésként értékesítettek, valamint az Európai Közösség más tagállamában adószámmal rendelkező értékesítőtől megvalósított azon termékbeszerzéséről, melyet részére az általános forgalmi adóról szóló törvény 52. §-ának megfelelően teljesítettek,
 
@@ -24,7 +24,13 @@ B) Az összesítő nyilatkozatot a havi általános forgalmi adó bevallásra k�
 
 a tárgynegyedévet követő hónap 20. napjáig nyújtja be az állami adóhatósághoz.
 
-C) A rá irányadó általános forgalmi adó bevallási gyakoriságtól függetlenül, az adóalanynak a negyedéves gyakoriságú összesítő nyilatkozatról havi gyakoriságú összesítő nyilatkozatra kell áttérnie, ha az általános forgalmi adóról szóló törvény 89. §-ának (1) és (4) bekezdésében meghatározott termékértékesítés, valamint a 91. §-ának (2) bekezdése szerinti termékértékesítésnek megfelelő termékértékesítés tárgynegyedévre vonatkozó, általános forgalmi adó nélkül számított összesített ellenértéke meghaladja az 50 000 eurónak megfelelő pénzösszeget. Ebben az esetben az áttéréssel érintett időszakra vonatkozó összesítő nyilatkozatot a tárgynegyedév első napjától az értékhatár meghaladásának hónapja utolsó napjáig tartó időszakról, ezen időszakot követő hónap 20. napjáig kell benyújtani. Az e pontban euróban meghatározott összeg forintra való átváltására az általános forgalmi adóról szóló törvény átváltási árfolyamról szóló 256. §-át kell alkalmazni.
+C) A rá irányadó általános forgalmiadó-bevallási gyakoriságtól függetlenül, az adóalanynak a negyedéves gyakoriságú összesítő nyilatkozatról havi gyakoriságú összesítő nyilatkozatra kell áttérnie, ha
+
+a) az általános forgalmi adóról szóló törvény 89. § (1) és (4) bekezdésében meghatározott termékértékesítés, valamint a 91. § (2) bekezdése szerinti termékértékesítésnek megfelelő termékértékesítés vagy
+
+b) az általános forgalmi adóról szóló törvény 19. §, 21. § és 22. § (1) bekezdésében meghatározott Közösségen belüli termékbeszerzés
+
+tárgynegyedévre vonatkozó, általános forgalmi adó nélkül számított összesített ellenértéke meghaladja az 50 000 eurónak megfelelő pénzösszeget. Ebben az esetben az áttéréssel érintett időszakra vonatkozó összesítő nyilatkozatot a tárgynegyedév első napjától az értékhatár meghaladásának hónapja utolsó napjáig tartó időszakról, ezen időszakot követő hónap 20. napjáig kell benyújtani. Az e pontban euróban meghatározott összeg forintra való átváltására az általános forgalmi adóról szóló törvény átváltási árfolyamról szóló 256. §-át kell alkalmazni.
 
 D) Ha a C) pont szerinti áttérést követő négy naptári negyedévben az adózó nem haladja meg az ott meghatározott értékhatárt, és a negyedik naptári negyedévet követő adómegállapítási időszakra nem havi általános forgalmi adó bevallásra kötelezett, a negyedik naptári negyedévet követő adómegállapítási időszakra negyedéves gyakoriságú összesítő nyilatkozatot nyújt be.
 

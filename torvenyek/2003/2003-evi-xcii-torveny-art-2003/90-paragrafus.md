@@ -10,7 +10,7 @@ a) az adott év kiemelt vizsgálati céljait,
 
 b) az ellenőrizendő főbb tevékenységi köröket (szakma, ágazat), az egyes térségekre, településekre jellemző szakmánkénti, tevékenységenkénti jövedelmezőségi mutatókat, illetőleg a jövedelmezőségi mutatót el nem érő adózók fokozott ellenőrzésének szempontjait,
 
-c) az ellenőrzési típusok tervezett arányszámait, különös tekintettel a vagyongyarapodások vizsgálatára, a bevallás kiegészítése alapján elrendelt, és a kiutalás előtti ellenőrzésre, valamint az átalakuló, a tevékenységüket kezdő, az adókötelezettségüket megszüntető, vagy más jogutód nélkül megszűnő vállalkozások ellenőrzésére.
+c) az ellenőrzési típusok tervezett arányszámait, különös tekintettel a vagyongyarapodások vizsgálatára, a bevallás kiegészítése alapján elrendelt, és a kiutalás előtti ellenőrzésre, valamint az átalakuló, az egyesülő, a szétváló, a tevékenységüket kezdő, az adókötelezettségüket megszüntető, vagy más jogutód nélkül megszűnő vállalkozások ellenőrzésére.
 
 (5) Az állami adóhatóság becslési adatbázist tart fenn kiválasztási és ellenőrzési tevékenysége támogatása céljából. A becslési adatbázis tartalmazza a korábban lefolytatott ellenőrzési tapasztalatok, megállapítások alapján az egyes tevékenységi körök vonatkozásában, területi bontásban a forgalmi, létszám és egyéb, az adókötelezettséget megalapozó adatokat. A becslési adatbázis évenkénti aktualizálása során az állami adóhatóság figyelembe veszi a bevallásokban közölt, valamint a Központi Statisztikai Hivatal által tájékoztatás keretében rendelkezésére bocsátott, illetve hivatalosan közzétett adatokat is.
 
@@ -44,9 +44,7 @@ ac) amellyel szemben az állami adóhatóság üzletlezárás intézkedést alka
 
 ad) amelynek adószámát az állami adóhatóság felfüggesztette, illetőleg e törvény 24/A. §-a alapján törölte;
 
-b) az adózó tagja, vezető tisztségviselője egyéni vállalkozói igazolványát öt éven belül az állami adóhatóság hatáskörébe tartozó adóval kapcsolatos fizetési, bejelentési, bevallási, nyilvántartási kötelezettség elmulasztása miatt vonták vissza.
-
-A kockázatelemzés keretében történő kiválasztás részletes szabályait az állami adóhatóság elnöke utasításban határozza meg.
+b)
 
 (8) Az állami adóhatóság az ellenőrzésekről vezetett nyilvántartásában az adózó azonosítására szolgáló adatok feltüntetése mellett megjelöli az ellenőrzésre történő kiválasztás módszerét és az ellenőrzés közvetlen okát.
 

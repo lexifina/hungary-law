@@ -28,7 +28,7 @@ g) az adózó az Európai Unió más tagállamában illetőséggel bíró gazdas
 
 (7) A külföldi vállalkozónak a belföldön végzett építkezése esetén (ideértve a fióktelep útján végzett építkezést, szerelést is) az adókötelezettséget első ízben annak az adóévnek az adókötelezettségével egyidejűleg kell teljesítenie, amelyben az építkezés, szerelés időtartama meghaladja az építkezés telephellyé minősítéséhez a nemzetközi egyezményben meghatározott időtartamot, illetve egyezmény hiányában a három hónapot. Ez esetben a külföldi vállalkozó a megelőző adóév(ek)re utólag a bevallással érintett időszakban hatályos előírások szerint állapítja meg, vallja be és fizeti meg az adót.
 
-(8) Az adóévben átalakuló adózó – ideértve az átalakulással létrejött adózót, az átvevőt és a fennmaradót is – az átalakulás napjától számított 30 napon belül társasági adóelőleg-bevallást tesz.
+(8) Az adóévben átalakuló, egyesülő, szétváló adózó – ideértve az átalakulással, egyesüléssel, szétválással létrejött adózót, az átvevőt és a fennmaradót is – az átalakulás, egyesülés, szétválás napjától számított 30 napon belül társaságiadóelőleg-bevallást tesz.
 
 (9) A bevallással még le nem fedett időszakról soron kívüli adóbevallást tesz
 

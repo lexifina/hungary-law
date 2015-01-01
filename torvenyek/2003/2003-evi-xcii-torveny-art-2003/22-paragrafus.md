@@ -18,9 +18,11 @@ g) az általános forgalmi adóról szóló törvény 96. §-ában meghatározot
 
 h) tevékenységére az adómegállapításnak az általános forgalmi adóról szóló törvényben meghatározott általános szabályait alkalmazza,
 
-i) pénzforgalmi elszámolást választ.
+i) pénzforgalmi elszámolást választ,
 
-(2) Az (1) bekezdés szerinti nyilatkozat megváltoztatását – az e)–g) pontok kivételével – a változtatást megelőző adóév utolsó napjáig kell bejelenteni. Ha az adózó az alanyi adómentességre, illetve a pénzforgalmi elszámolás választására jogosító értékhatárt az adóév közben lépte túl, a bejelentést a 23. § (3) bekezdés szerint kell megtenni. Az adózó az (1) bekezdés e) pontja szerinti nyilatkozattétel és annak változásának bejelentése alól mentesül, ha kizárólag az általános forgalmi adóról szóló törvényben meghatározott adómentes termékimportot megalapozó közösségi adómentes termékértékesítést, mint közösségi kereskedelmi kapcsolatot közvetett vámjogi képviselő igénybevételével létesít.
+j) az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 89/A. §-ában meghatározott adóraktár üzemeltetőjeként jár el.
+
+(2) Az (1) bekezdés szerinti nyilatkozat megváltoztatását – az e)–g) és j) pont kivételével – a változtatást megelőző adóév utolsó napjáig kell bejelenteni. Ha az adózó az alanyi adómentességre, illetve a pénzforgalmi elszámolás választására jogosító értékhatárt az adóév közben lépte túl, a bejelentést a 23. § (3) bekezdés szerint kell megtenni. Az adózó az (1) bekezdés e) pontja szerinti nyilatkozattétel és annak változásának bejelentése alól mentesül, ha kizárólag az általános forgalmi adóról szóló törvényben meghatározott közösségi adómentes termékértékesítést mint közösségi kereskedelmi kapcsolatot, közvetett vámjogi képviselő vagy adóraktár üzemeltető igénybevételével létesít.
 
 (3) Ha az adózó az (1)–(2) bekezdésben foglalt bejelentést törvényben előírt feltételek hiánya miatt nem tehette volna meg, bejelentését az előző adóévről vagy annak utolsó hónapjáról, negyedévéről adott bevallásával egyidejűleg, az adóév első napjára visszamenően módosíthatja.
 
@@ -49,3 +51,5 @@ i) pénzforgalmi elszámolást választ.
 (15) Az a belföldi jogi személy és egyéb szervezet, amely az általános forgalmi adónak nem alanya, de a beszerzéseit terhelő, előzetesen felszámított általános forgalmi adót visszaigényelheti, a visszaigénylés érdekében ezt a jogosultságát bejelentheti és adó-visszaigénylését az általános forgalmi adó alanyokkal azonos módon kérheti.
 
 (16) Mentesül a magánszemély adózó – kivéve az egyéni vállalkozót és a 22. § (1) bekezdés e) pontja szerinti kereskedelmi kapcsolatot létesítőt – az adószám megszerzéséhez előírt bejelentési kötelezettség teljesítése alól, ha kizárólag az általános forgalmi adóról szóló törvény szerinti ingatlan-bérbeadási (haszonbérbeadási) tevékenységet folytat és az általános forgalmi adót érintően nem él az adókötelessé tétel jogával.
+
+(17) Az adózó a bevallások utólagos adóellenőrzésének megkezdését megelőzően, az adó megállapításához való jog elévülési idején belül, az adóhatósághoz benyújtott kijavítási kérelem útján kezdeményezheti az (1) bekezdés b)–d), valamint h)–i) pontja szerinti választása módosítását, amennyiben a módosítás az adó, adóalap, költségvetési támogatás összegét – az adózó benyújtott bevallását figyelembe véve – nem érinti.

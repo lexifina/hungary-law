@@ -24,13 +24,15 @@ j) a költségvetési támogatás (adó-visszaigénylés, adó-visszatérítés)
 
 k)
 
-l) az ellenőrzést, az üzletlezárást vagy a végrehajtási eljárást a megjelenési kötelezettség elmulasztásával, az együttműködési kötelezettség megsértésével vagy más módon akadályozza, különösen ilyennek minősül, ha a becslés során az adózó bizonyítékként más adózót is érintő szerződéses kapcsolatra vagy egyéb ügyletre hivatkozik, és az ez alapján lefolytatott kapcsolódó vizsgálat az adózó bizonyítási indítványában foglaltakat nem támasztja alá,
+l) az ellenőrzést, az üzletlezárást, a hatósági eljárást vagy a végrehajtási eljárást a megjelenési kötelezettség elmulasztásával, az együttműködési kötelezettség megsértésével vagy más módon akadályozza, különösen ilyennek minősül, ha a becslés során az adózó bizonyítékként más adózót is érintő szerződéses kapcsolatra vagy egyéb ügyletre hivatkozik, és az ez alapján lefolytatott kapcsolódó vizsgálat az adózó bizonyítási indítványában foglaltakat nem támasztja alá,
 
 m) az e törvény szerint elektronikus bevallás benyújtására kötelezett a regisztrációs kötelezettségét nem, vagy késedelmesen teljesíti,
 
 n) a köztartozásmentes adózói adatbázisba történő felvételhez valótlanul tett külön nyilatkozatot arról, hogy az adatbázis közzétételét megelőző hónap utolsó napjáig esedékes bevallási és befizetési kötelezettségének maradéktalanul eleget tesz/tett,
 
 ny) az általános forgalmi adóról szóló törvény XV. fejezete alkalmazásában az utazásszervezési szolgáltatás igénybevételéről valótlan nyilatkozatot tesz, vagy a nyilatkozattételt elmulasztja.
+
+(1a) Amennyiben az adózó az (1) bekezdés l) pontja szerinti jogsértést ismételten követi el, úgy a kiszabható mulasztási bírság összege magánszemély adózó esetén 500 ezer forintig, más adózó esetén 1 millió forintig terjedhet.
 
 (2) Az adózó 1 millió forintig terjedő mulasztási bírsággal sújtható, ha a számla-, egyszerűsített számla-, nyugtakibocsátási kötelezettségét elmulasztja, illetőleg a számlát, egyszerűsített számlát, nyugtát nem a tényleges ellenértékről bocsátja ki. Az adózót 1 millió forintig terjedő mulasztási bírsággal kell sújtani, ha be nem jelentett alkalmazottat foglalkoztat vagy foglalkoztatott. Ha az adózó a munkaviszony létesítésének bejelentésére vonatkozó bejelentési kötelezettségét az adóellenőrzés megkezdéséig a tényleges foglalkoztatás teljes időtartamára vonatkozóan teljesítette, az adóhatóság a (6) bekezdésben, illetőleg a (21) bekezdésben foglaltak szerint jár el.
 
@@ -84,6 +86,8 @@ A fenti jogsértések ismételt elkövetése esetén az üzletlezárást helyett
 
 (19) Ha az adózó igazolatlan eredetű árut forgalmaz, terhére az adóhatóság az áru forgalmi értékének 40%-áig terjedő, de legalább magánszemély adózó esetében 200 ezer forintig, más adózó esetében 500 ezer forintig terjedő mulasztási bírságot szabhat ki.
 
+(19a) Amennyiben az állami adó- és vámhatóság ellenőrzése során megállapítja, hogy az adózó a fuvarozott termék vagy annak egy része tekintetében nem tett eleget a 22/E. § (1)–(4) bekezdése szerinti kötelezettségnek, úgy a termék vagy annak be nem jelentett része igazolatlan eredetűnek minősül, és az állami adó- és vámhatóság az adózó terhére az igazolatlan eredetű áru értékének 40 százalékáig terjedő mulasztási bírságot szabhat ki.
+
 (20) Ha a magánszemély adózó a 31. § (4) bekezdése szerinti, a személyi jövedelemadó bevallás késedelmes benyújtására vonatkozó bejelentést tesz, a bevallási késedelem miatt mulasztási bírság a bevallás naptári éve november 20. napjáig nem szabható ki, kivéve, ha az adózó bevallását november 20-a előtt nyújtja be és késedelmét igazoltan nem menti ki.
 
 (20a) Az adózó 1 millió forintig terjedő mulasztási bírsággal sújtható, ha iratmegőrzési kötelezettségének nem tesz eleget. Amennyiben az adózó iratmegőrzési kötelezettségének a nyomdai úton előállított számla, nyugta megőrzésének elmulasztásával nem tesz eleget, függetlenül attól, hogy a számla, illetve nyugta felhasználása ténylegesen megtörtént-e, a kiszabható mulasztási bírság összege magánszemély esetén 200 ezer forint, más adózó esetében 500 ezer forint és a hiányzó számlák, illetve nyugták számának szorzata által meghatározott összegig terjedhet.
@@ -104,7 +108,7 @@ terjedő mulasztási bírsággal sújtható.
 
 (20f) A pénzforgalmi számla nyitására kötelezett adózó a 38. § (3a) bekezdésében foglalt előírás megsértése esetén a készpénzszolgáltatásnak az 1,5 millió forintot meghaladó része után 20% mértékű mulasztási bírságot fizet. A 38. § (3a) bekezdésében foglalt előírás megsértésével teljesített kifizetés jogosultja, ha a szabálytalan kifizetést elfogadja, a készpénzszolgáltatásnak az 1,5 millió forintot meghaladó része után 20% mértékű mulasztási bírságot fizet.
 
-(20g) Az állami adóhatóság
+(20g) Az állami adó- és vámhatóság
 
 a) pénztárgép, taxaméter forgalmazási engedély nélküli forgalmazása, a forgalmazási engedély visszavonását követő továbbforgalmazása, továbbá engedélyezettől eltérő pénztárgép, taxaméter forgalmazása esetén 10 millió forintig terjedő mulasztási bírságot szab ki,
 
