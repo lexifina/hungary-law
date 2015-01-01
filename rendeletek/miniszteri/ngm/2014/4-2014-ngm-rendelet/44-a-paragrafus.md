@@ -1,4 +1,4 @@
-## 38/A.[^15] Gazdasági Zöldítési Rendszer (25/51/00)
+## 38/A.[^19] Gazdasági Zöldítési Rendszer (25/51/00)
 
 44/A. § (1) Az előirányzat fedezetet biztosít
 
@@ -46,4 +46,4 @@ c) közvetlen kifizetéssel, egyéni vállalkozóval, gazdálkodó szervezettel 
 
 (7) A Gazdasági Zöldítési Rendszer felhasználásának és kezelésének részletes szabályait a III/A. Fejezet tartalmazza.
 
-[^15]: A 38/A. alcímet (44/A. §) a 39/2014. (XII. 23.) NGM rendelet 13. §-a iktatta be.
+[^19]: A 38/A. alcímet (44/A. §) a 39/2014. (XII. 23.) NGM rendelet 13. §-a iktatta be.

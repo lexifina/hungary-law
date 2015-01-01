@@ -1,4 +1,4 @@
-## 15. [^8] Területfejlesztéssel összefüggő feladatok (25/04/01)
+## 15. [^9] Területfejlesztéssel összefüggő feladatok (25/04/01)
 
 21. § (1) A területfejlesztéssel összefüggő feladatok célelőirányzat terhére a miniszter támogatást biztosíthat
 
@@ -34,4 +34,4 @@ b) feladat ellátásával megbízott regionális fejlesztési ügynökség, gazd
 
 (4) Az (1) bekezdés a)–c) pontja szerinti feladatokra költségvetési támogatás visszafizetési kötelezettség kikötése nélkül nyújtható. Az (1) bekezdés d) pontja szerinti feladatok esetén a költségvetési támogatás visszafizetési kötelezettség kikötésével és visszafizetési kötelezettség kikötése nélkül is nyújtható.
 
-[^8]: A 15. alcím (21. §) a 39/2014. (XII. 23.) NGM rendelet 8. §-ával megállapított szöveg.
+[^9]: A 15. alcím (21. §) a 39/2014. (XII. 23.) NGM rendelet 8. §-ával megállapított szöveg.

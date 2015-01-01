@@ -1,21 +1,13 @@
-## 19. Fogyasztói érdekek képviseletét ellátó egyesületek támogatása (25/14/01/02)
+## 19.[^13] Közép-európai Transznacionális Együttműködési Program 2020 (25/08/02)
 
-25. § (1) Az előirányzat a fogyasztói érdekek képviseletét ellátó egyesületek költségvetési támogatásának forrását biztosítja. A költségvetési támogatás a fogyasztói érdekek képviseletét ellátó egyesületek keresetindításainak költségeit fedezi, a feladataik ellátását elősegíti, a fogyasztók oktatását és tájékoztatását szolgálja a fogyasztói tudatosság növelése érdekében.
+25. § (1) Az előirányzat fedezetet biztosít az európai területi együttműködési célkitűzés keretében megvalósuló Közép-európai Transznacionális Együttműködési Programban történő eredményes magyarországi részvételhez.
 
-(2) Az előirányzatból a fogyasztóvédelmi egyesületek – pályázati úton – támogatásban részesülhetnek. A pályázatban a Fgytv. 2. § e) pontjában meghatározott feltételeknek megfelelő fogyasztói érdekek képviseletét ellátó egyesületek vehetnek részt.
+(2) Az előirányzat terhére helyi önkormányzat, regionális fejlesztési ügynökség, költségvetési szerv, gazdasági társaság részére vissza nem térítendő költségvetési támogatás nyújtható. Az előirányzat terhére az irányító hatóság részére a nemzeti hozzájárulás teljesítése céljából teljesíthető kifizetés.
 
-(3) Az előirányzat felhasználására a miniszter által létrehozott tárcaközi bírálati bizottság tesz döntési javaslatot a pályázatok beérkezésétől számított 60 napon belül.
+(3) Az előirányzat felhasználása támogatói okirattal történik.
 
-(4) A tárcaközi bírálati bizottság tagjai a fogyasztóvédelemért felelős miniszter képviselője mellett az egészségügyért felelős miniszter, az élelmiszerlánc-felügyeletért felelős miniszter, a környezetvédelemért felelős miniszter, az oktatásért felelős miniszter, a helyi önkormányzatokért felelős miniszter, a társadalmi és civil kapcsolatokért felelős miniszter és a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter egy-egy – az adott feladatkörre tekintettel jelölt – képviselője.
+(4) Támogatási előleg a 10. § szerinti biztosíték kikötése mellett folyósítható. Az állam 100%-os tulajdonában lévő gazdasági társaság és költségvetési szerv részére támogatási előleg biztosíték kikötése nélkül is folyósítható.
 
-(5) Az előirányzat felhasználása pályázati úton, fogyasztói érdekek képviseletét ellátó egyesülettel kötött támogatási szerződés vagy támogatói okirat alapján történik.
+(5) Az előirányzaton rendelkezésre álló forrásokkal kapcsolatos feladatok ellátására lebonyolító szerv bízható meg.
 
-(6) Támogatási előleg folyósítása lehetséges.
-
-(7) Támogatási előleg esetén a 10. § szerinti biztosítékot kell kikötni.
-
-(8) A költségvetési támogatás vissza nem térítendő támogatás.
-
-(9)[^11] Az előirányzat kezelő szerve a Közigazgatási és Igazságügyi Hivatal.
-
-[^11]: A 25. § (9) bekezdését a 9/2014. (II. 17.) NGM rendelet 3. §-a iktatta be.
+[^13]: A 19. alcím (25. §) a 39/2014. (XII. 23.) NGM rendelet 11. §-ával megállapított szöveg.

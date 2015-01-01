@@ -1,6 +1,6 @@
 ## 44/C. § Az előirányzat a Turisztikai Célelőirányzat felhasználásának és kezelésének részletes szabályairól szóló miniszteri rendelet alapján használható fel.
 
-## III/A. Fejezet[^18]
+## III/A. Fejezet[^22]
 
 ## A GAZDASÁGI ZÖLDÍTÉSI RENDSZER FELHASZNÁLÁSÁNAK ÉS KEZELÉSÉNEK RÉSZLETES SZABÁLYAI
 
@@ -132,4 +132,4 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 59. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek.
 
-[^18]: A III/A. fejezetet (44/D–44/Z. §) a 39/2014. (XII. 23.) NGM rendelet 14. §-a iktatta be.
+[^22]: A III/A. fejezetet (44/D–44/Z. §) a 39/2014. (XII. 23.) NGM rendelet 14. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 ## 40. Az Európai Unió állami támogatásokra vonatkozó szabályaival való összhang
 
-## 46. §[^19] E rendelet
+## 46. §[^23] E rendelet
 
 a) 31. §-a, 39. §-a, 43. §-a és 44/A. § (2) bekezdés 1. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.),
 
@@ -12,4 +12,4 @@ c) 44/A. § (2) bekezdés 7. pontja a vasúti és közúti személyszállítási
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^19]: A 46. § a 39/2014. (XII. 23.) NGM rendelet 15. §-ával megállapított szöveg.
+[^23]: A 46. § a 39/2014. (XII. 23.) NGM rendelet 15. §-ával megállapított szöveg.

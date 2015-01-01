@@ -6,9 +6,9 @@
 
 (2) A beszámoló szakmai része tartalmazza a támogatott program (projekt) megvalósításának helyét és időpontját, a pályázati kiírásban, a támogatási szerződésben vagy a támogatói okiratban a szakmai beszámoló elkészítésére meghatározott feltételek szerint.
 
-(3)[^5] A támogatási szerződésben rendelkezni kell a könyvvizsgálói záradék kikötéséről vagy mellőzéséről.
+(3)[^6] A támogatási szerződésben rendelkezni kell a könyvvizsgálói záradék kikötéséről vagy mellőzéséről.
 
-(3a)[^6] A beszámoló pénzügyi része – ha pályázati kiírás, támogatási szerződés vagy támogatói okirat könyvvizsgálói záradék előírásáról rendelkezik – a következőket tartalmazza:
+(3a)[^7] A beszámoló pénzügyi része – ha pályázati kiírás, támogatási szerződés vagy támogatói okirat könyvvizsgálói záradék előírásáról rendelkezik – a következőket tartalmazza:
 
 a) egy könyvvizsgálói záradékkal ellátott számlaösszesítőt, mely az elszámolni kívánt számlák tekintetében tartalmazza a számlaszámot, a számla kiállítójának nevét, címét, adószámát, a számla kiállításának idejét és teljesítési időpontját, a szolgáltatás megnevezését, a nettó és bruttó számlaértéket, a kifizetés időpontját és a költségvetési támogatás terhére elszámolt összeget,
 
@@ -18,7 +18,7 @@ ba) a feladatellátásban részt vevő személyek nevét,
 
 bb) az illetmény bruttó összegét, a levont személyi jövedelemadó-előleg mértékét, a munkaadót terhelő járulék és a szociális hozzájárulási adó mértékét, valamint a kifizetés időpontját havonkénti kimutatásban az éves jövedelemre vonatkozóan oly módon, hogy egy esetleges tételes ellenőrzés során a kifizetések egyértelműen azonosíthatóak legyenek.
 
-(3b)[^7] A beszámoló pénzügyi része a könyvvizsgálói záradék mellőzése esetén – ha pályázati kiírás, támogatási szerződés vagy támogatói okirat másként nem rendelkezik – a következőket tartalmazza:
+(3b)[^8] A beszámoló pénzügyi része a könyvvizsgálói záradék mellőzése esetén – ha pályázati kiírás, támogatási szerződés vagy támogatói okirat másként nem rendelkezik – a következőket tartalmazza:
 
 a) az elszámolni kívánt számlák tekintetében a számlaszámot, a számla kiállítójának nevét, címét, adószámát, a számla kiállításának idejét és teljesítési időpontját, a szolgáltatás megnevezését, a nettó és bruttó számlaértéket, a kifizetés időpontját és a költségvetési támogatás terhére elszámolt összeget tartalmazó számlaösszesítőt,
 
@@ -50,6 +50,6 @@ f) mindazokat a dokumentumokat, amelyeket a támogató a beszámoló részeként
 
 (4) A fel nem használt összeget – támogatási előleg esetén – a kedvezményezett a végső elszámolás benyújtását és elfogadását követően a támogatási szerződés, támogatói okirat számára történő hivatkozással, a támogatási szerződésben vagy támogatói okiratban foglaltak szerint utalja vissza.
 
-[^5]: A 12. § (3) bekezdése a 39/2014. (XII. 23.) NGM rendelet 5. §-ával megállapított szöveg.
-[^6]: A 12. § (3a) bekezdését a 39/2014. (XII. 23.) NGM rendelet 6. §-a iktatta be.
-[^7]: A 12. § (3b) bekezdését a 39/2014. (XII. 23.) NGM rendelet 7. §-a iktatta be.
+[^6]: A 12. § (3) bekezdése a 39/2014. (XII. 23.) NGM rendelet 5. §-ával megállapított szöveg.
+[^7]: A 12. § (3a) bekezdését a 39/2014. (XII. 23.) NGM rendelet 6. §-a iktatta be.
+[^8]: A 12. § (3b) bekezdését a 39/2014. (XII. 23.) NGM rendelet 7. §-a iktatta be.
