@@ -1,12 +1,12 @@
 ## 18. Értelmező rendelkezések
 
-32. §[^89] (1)[^90] E rendelet alkalmazásában államigazgatási feladatot ellátó, államigazgatási hatáskörrel, hatósági jogkörrel rendelkező helyi önkormányzati szerven polgármestert, jegyzőt kell érteni.
+32. §[^96] (1)[^97] E rendelet alkalmazásában államigazgatási feladatot ellátó, államigazgatási hatáskörrel, hatósági jogkörrel rendelkező helyi önkormányzati szerven polgármestert, jegyzőt kell érteni.
 
-(2)[^91] E rendelet alkalmazásában polgármester alatt a főpolgármestert és a megyei közgyűlés elnökét, jegyző alatt a főjegyzőt is érteni kell.
+(2)[^98] E rendelet alkalmazásában polgármester alatt a főpolgármestert és a megyei közgyűlés elnökét, jegyző alatt a főjegyzőt is érteni kell.
 
 (3) E rendelet alkalmazásában központi államigazgatási szervek területi szerve alatt a Khtv. 1. § 1. pontjában meghatározott szervet kell érteni.
 
-(4)[^92] E rendelet alkalmazásában funkcionális feladatokon az alábbiakban felsorolt igazgatási funkciók szerinti munkamegosztás alapján kialakított szervezeti egységek által ellátott szervi működést szolgáló – nem szakmai feladatellátáshoz kötődő – belső igazgatási feladatokat kell érteni:
+(4)[^99] E rendelet alkalmazásában funkcionális feladatokon az alábbiakban felsorolt igazgatási funkciók szerinti munkamegosztás alapján kialakított szervezeti egységek által ellátott szervi működést szolgáló – nem szakmai feladatellátáshoz kötődő – belső igazgatási feladatokat kell érteni:
 
 a) humánpolitikai és humánerőforrás-gazdálkodási,
 
@@ -30,7 +30,7 @@ j) saját szervi működést szolgáló informatikai üzemeltetési és rendszer
 
 k) kommunikációs és nemzetközi kapcsolatok lebonyolítására szolgáló
 
-[^89]: A 32. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
-[^90]: A 32. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés i) pontja szerint módosított szöveg.
-[^91]: A 32. § (2) bekezdése az 516/2013. (XII. 30.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
-[^92]: A 32. § (4) bekezdése a 79/2012. (IV. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^96]: A 32. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^97]: A 32. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^98]: A 32. § (2) bekezdése az 516/2013. (XII. 30.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^99]: A 32. § (4) bekezdése a 79/2012. (IV. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
