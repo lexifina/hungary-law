@@ -1,4 +1,4 @@
-18/A. §[^110] (1) A 651/2014/EU bizottsági rendelet hatálya alá tartozó támogatási intézkedések esetében a támogatást nyújtó megküldi a miniszter részére
+18/A. §[^114] (1) A 651/2014/EU bizottsági rendelet hatálya alá tartozó támogatási intézkedések esetében a támogatást nyújtó megküldi a miniszter részére
 
 a) a bejelentéssel egyidejűleg az 5. melléklet szerinti adatlapot,
 
@@ -22,4 +22,4 @@ ca) a támogatás meghaladja az elsődleges mezőgazdasági termeléssel foglalk
 
 cb) az adókedvezményt tartalmazó támogatási programok esetében a támogatás forintösszegben kifejezve az (1) bekezdés cb) alpontjában meghatározott összegű kategóriába, továbbá az elsődleges mezőgazdasági termelés esetében a hatvanezer eurót elérő, de félmillió eurót meg nem haladó összegű kategóriába esik.
 
-[^110]: A 18/A. §-t a 158/2014. (VI. 30.) Korm. rendelet 8. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 550. §-ával megállapított szöveg.
+[^114]: A 18/A. §-t a 158/2014. (VI. 30.) Korm. rendelet 8. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 550. §-ával megállapított szöveg.

@@ -1,5 +1,3 @@
-## 4K13107_0
-
 | I. RÉSZ |
 
 | A 651/2014/EU bizottsági rendelet valamint a 702/2014/EU bizottsági rendelet feltételei szerint mentesülő állami támogatásokkal kapcsolatos információk |
@@ -242,11 +240,11 @@
 
 | □A minőségrendszer hatálya alá tartozó gyapottal és élelmiszerekkel kapcsolatos tájékoztatási és promóciós tevékenységekhez nyújtott támogatás (49. cikk) | …% |  |
 
-6. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^161]
+6. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^164]
 
 1. A kedvezményezett neve, székhelye, adószáma,
 
-2.[^162] a vállalkozás mérete,
+2.[^165] a vállalkozás mérete,
 
 3. a beruházás megvalósításának helye (az érintett megye vagy főváros),
 
@@ -264,5 +262,5 @@
 
 10. a támogatási program hivatkozási száma.
 
-[^161]: A 6. mellékletet a 42. § b) pontja hatályon kívül helyezte, újonnan a 158/2014. (VI. 30.) Korm. rendelet 12. § (4) bekezdése iktatta be.
-[^162]: A 6. melléklet 2. pontja a 221/2014. (IX. 4.) Korm. rendelet 554. § f) pontja szerint módosított szöveg.
+[^164]: A 6. mellékletet a 42. § b) pontja hatályon kívül helyezte, újonnan a 158/2014. (VI. 30.) Korm. rendelet 12. § (4) bekezdése iktatta be.
+[^165]: A 6. melléklet 2. pontja a 221/2014. (IX. 4.) Korm. rendelet 554. § f) pontja szerint módosított szöveg.
