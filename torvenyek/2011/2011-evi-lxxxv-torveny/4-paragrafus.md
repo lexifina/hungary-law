@@ -6,7 +6,9 @@ b) az általános forgalmi adóról szóló törvény szerinti adóraktárba val
 
 c) vámjogi szabadforgalomba kerülését megelőző átruházása,
 
-d) termékdíj raktáron belüli átruházása
+d) termékdíj raktáron belüli átruházása,
+
+e) az általános forgalmi adóról szóló törvényben meghatározott feltételek alapján általános forgalmi adófizetési kötelezettséggel nem járó apport, jogutódlással történő megszűnés vagy üzletág-átruházás keretében történő átadása
 
 nem minősül forgalomba hozatalnak.
 

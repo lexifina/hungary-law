@@ -20,7 +20,13 @@ d) az elektromos, elektronikai berendezés;
 
 e) a gumiabroncs;
 
-f) a reklámhordozó papír.
+f) a reklámhordozó papír;
+
+g) az egyéb műanyag termék;
+
+h) az egyéb vegyipari termék;
+
+i) az irodai papír.
 
 (4) A (3) bekezdés szerinti termékdíjköteles termékek vámtarifaszámok alá osztályozott körét a 2010. január 1-jén hatályos Kombinált Nomenklatúra szerint az 1. melléklet határozza meg. A termékdíjköteles termékek az e törvény végrehajtására kiadott kormányrendeletben szereplő kódszámokkal kerülnek azonosításra.
 

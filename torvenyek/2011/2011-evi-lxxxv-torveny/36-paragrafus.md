@@ -2,7 +2,7 @@
 
 (2) Az elkobzott termékdíjköteles terméket a keletkezett fizetési kötelezettségek teljesítése és a költségek megtérülése érdekében az állami adó- és vámhatóság az állam javára az Art. szerinti végrehajtásra vonatkozó szabályok alapján értékesíti, ennek meghiúsulása esetén megsemmisíti.
 
-(3) Az elkobzott terméket nem kell megsemmisíteni, ha az állami adó- és vámhatóság, mint az állam nevében az elkobzott termék felett rendelkezésre jogosult, az OHÜ egyetértésével a terméket:
+(3) Az elkobzott terméket nem kell megsemmisíteni, ha az állami adó- és vámhatóság, mint az állam nevében az elkobzott termék felett rendelkezésre jogosult, az állami hulladékgazdálkodást közvetítő szervezet egyetértésével a terméket:
 
 a) a külön jogszabály szerinti katasztrófa esetén az illetékes védelmi bizottság elnökének, illetve I-III. fokú árvíz- és belvíz-védekezési készültség esetén az érintett terület települési önkormányzat polgármesterének vagy a vízügyi igazgatási szervezet területi szerve vezetőjének,
 

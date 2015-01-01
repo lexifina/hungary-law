@@ -1,4 +1,4 @@
-29/A. § (1) A vámhatóság az OHÜ által finanszírozott, a 22/A. § (6) bekezdésében meghatározott hulladékkezelési közszolgáltatás és hulladékhasznosítási szolgáltatások körébe tartozó ügyletek tényleges megvalósulását, illetve azok végrehajtásának szabályszerűségét ellenőrzi. Az ellenőrzést azon személyek vonatkozásában indítja meg, amelyek számára az OHÜ a kifizetést teljesítette (a továbbiakban: kifizetés jogosultja). Az OHÜ által történő kifizetés költségvetési támogatásnak (a továbbiakban: támogatás) minősül.
+29/A. § (1) A vámhatóság az állami hulladékgazdálkodást közvetítő szervezet által finanszírozott, a 22/A. § (6) bekezdésében meghatározott hulladékgazdálkodási közszolgáltatás és hulladékhasznosítási szolgáltatások körébe tartozó ügyletek tényleges megvalósulását, illetve azok végrehajtásának szabályszerűségét ellenőrzi. Az ellenőrzést azon személyek vonatkozásában indítja meg, amelyek számára az állami hulladékgazdálkodást közvetítő szervezet a kifizetést teljesítette. Az állami hulladékgazdálkodást közvetítő szervezet által történő kifizetés, az államháztartásról szóló 2011. évi CXCV. törvény 41. § (2) bekezdésétől eltérően költségvetési támogatásként (a továbbiakban: támogatás) nyújtható.
 
 (2)
 
@@ -6,7 +6,7 @@
 
 (4) A támogatás igénybevételének jogszerűségét a vámhatóság – a kifizetések alapjául szolgáló bizonylatok adatai alapján – támogatásonként (kifizetésenként) vagy meghatározott időszak tekintetében is vizsgálhatja.
 
-(5) Az OHÜ az állami adó- és vámhatóságot az e törvény szerinti szerződés megkötéséről a szerződéskötést követő, kifizetés esetén a kifizetéstől számított 15 napon belül elektronikus úton tájékoztatja a szerződés, a szerződéskötés alapjául szolgáló okmányok, bizonylatok, dokumentumok, illetve a teljesítés (kifizetés) alapjául szolgáló bizonylatok adatainak egyidejű megküldésével.
+(5) Az állami hulladékgazdálkodást közvetítő szervezet az állami adó- és vámhatóságot az e törvény szerinti szerződés megkötéséről a szerződéskötést követő, kifizetés esetén a kifizetéstől számított 15 napon belül elektronikus úton tájékoztatja a szerződés, a szerződéskötés alapjául szolgáló okmányok, bizonylatok, dokumentumok, illetve a teljesítés (kifizetés) alapjául szolgáló bizonylatok adatainak egyidejű megküldésével.
 
 (6) Az ellenőrzés során az ellenőrzött személy vagy szervezet köteles a vámhatóság kérésére a szolgáltatott adatok és a rendelkezésre bocsátott dokumentációk teljességéről nyilatkozatot tenni.
 

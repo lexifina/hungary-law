@@ -42,7 +42,7 @@ ea) első belföldi vevője vagy
 
 eb) a d) pont szerinti értékesítés belföldi vevője,
 
-ha csomagolást hoz létre a csomagolószerből,
+ha csomagolást hoz vagy bércsomagoltatás keretében csomagolást hozat létre a csomagolószerből, továbbá ha az újrahasználható csomagolószer engedélyezett bérleti rendszerének szabályai szerint az újrahasználható csomagolószert bérbe adja,
 
 f) csomagolóanyag esetében az azt anyagában, méretében, megjelenésében továbbfeldolgozott csomagolóanyag, csomagolóeszköz, illetve csomagolási segédanyag előállítására felhasználó
 

@@ -1,68 +1,80 @@
 ## Az egyes termékdíjköteles termékek termékdíjtételei
 
-## a) Gumiabroncs
+## a) Akkumulátor
 
-## | Termékáram | Termékdíjtétel (Ft/kg) | Gumiabroncs | 52
+## | | A | B | 1 | Termékáram | Termékdíjtétel (Ft/kg) | 2 | Elektrolittal feltöltött akkumulátor | 57 | 3 | Elektrolittal fel nem töltött akkumulátor | 57
 
 ## b) Csomagolószer
 
 ## ba) Csomagolószer (kivéve kereskedelmi csomagolószer)
 
-## | Anyagáram | Termékdíjtétel (Ft/kg) | Műanyag | 42 | Társított (kivéve társított rétegzett italkarton) | 50 | Társított rétegzett italkarton | 28 | Fém | 20 | Papír, fa, természetes alapú anyag | 20 | Üveg | 17 | Egyéb | 50
+## | | A | B | 1 | Anyagáram | Termékdíjtétel (Ft/kg) | 2 | Műanyag- a műanyag bevásárló-reklám táska kivételével | 57 | 3 | Műanyag bevásárló-reklám táska | 1900 | 4 | Társított (kivéve társított rétegzett italkarton) | 57 | 5 | Társított rétegzett italkarton | 19 | 6 | Fém | 19 | 7 | Papír | 19 | 8 | Fa, természetes alapú anyag | 19 | 9 | Üveg | 19 | 10 | Egyéb | 57
 
 ## bb) Kereskedelmi csomagolószer
 
-## | Anyagáram | Termékdíjtétel (Ft/kg) | Műanyag (kivéve műanyag bevásárló-reklám táska) | 60 | Műanyag bevásárló-reklám táska | 1800 | Üveg | 17 | Társított (kivéve társított rétegzett italkarton) | 300 | Társított rétegzett italkarton | 130 | Fém | 300 | Egyéb anyagok | 300
+## | | A | B | 1 | Anyagáram | Termékdíjtétel (Ft/kg) | 2 | Fém | 304
 
 ## c) Egyéb kőolajtermék
 
-## | Termékáram | Termékdíjtétel (Ft/kg) | Kenőolaj | 112
+## | | A | B | 1 | Termékáram | Termékdíjtétel (Ft/kg) | 2 | Kenőolaj | 114
 
-## d) Akkumulátor
+## d) Egyéb műanyag termék
 
-## | Termékáram | Termékdíjtétel (Ft/kg) | Elektrolittal feltöltött akkumulátor | 60 | Elektrolittal fel nem töltött akkumulátor | 80
+## | | A | B | 1 | Termékáram | Termékdíjtétel (Ft/kg) | 2 | Műanyag művirág, levél- és gyümölcsutánzat és ezek részei; ezekből készült áru | 1900
 
-## e) Reklámhordozó papír
+## e) Egyéb vegyipari termék
 
-## | Termékáram | Termékdíjtétel (Ft/kg) | Reklámhordozó papír | 64
+## | | A | B | 1 | Termékáram | Termékdíjtétel (Ft/kg) | 2 | Szappanok, szerves felületaktív anyagok, mosószerek | 11 | 3 | Szépség- vagy testápoló készítmények | 57
 
-## f) Elektromos,elektronikai berendezés
+## f) Elektromos, elektronikai berendezés
 
-## | Termékáram | Termékdíjtétel (Ft/kg) | Háztartási nagygépek | 50 | Háztartási kisgépek | 50 | Információs (IT) és távközlési berendezések, kivéve a rádiótelefon készülék | 50 | Szórakoztató elektronikai cikkek | 100 | Elektromos és elektronikus barkácsgépek, szerszámok, kivéve a helyhez kötött, nagyméretű ipari szerszámok | 50 | Játékok, szabadidős és sportfelszerelések | 50 | Ellenőrző, vezérlő és megfigyelő eszközök | 50 | Adagoló automaták | 100 | Rádiótelefon készülék | 500
+## | | A | B | 1 | Termékáram | Termékdíjtétel (Ft/kg) | 2 | Nagygépek | 57 | 3 | Kisgépek | 57 | 4 | Információs (IT) és távközlési berendezések, kivéve a rádiótelefon-készülék | 57 | 5 | Szórakoztató elektronikai cikkek | 114 | 6 | Elektromos és elektronikus barkácsgépek, szerszámok, kivéve a helyhez kötött, nagyméretű ipari szerszámok | 57 | 7 | Játékok, szabadidős és sportfelszerelések | 57 | 8 | Ellenőrző, vezérlő és megfigyelő eszközök | 57 | 9 | Adagoló automaták | 114 | 10 | Rádiótelefon-készülék | 304
+
+## g) Gumiabroncs
+
+## | | A | B | 1 | Termékáram | Termékdíjtétel (Ft/kg) | 2 | Gumiabroncs | 57
+
+## h) Irodai papír
+
+## | | A | B | 1 | Termékáram | Termékdíjtétel (Ft/kg) | 2 | Irodai papír | 19
+
+## i) Reklámhordozó papír
+
+## | | A | B | 1 | Termékáram | Termékdíjtétel (Ft/kg) | 2 | Reklámhordozó papír | 85
 
 3. melléklet a 2011. évi LXXXV. törvényhez
 
 ## Az egyéni hulladékkezelést teljesítőkre vonatkozó egyes termék- és anyagáramok termékdíj tételeinek meghatározása
 
-## Egy termékdíjköteles termék- és anyagáramban az egyéni hulladékkezelést teljesítő kötelezett teljesítési hányada qe, az OHÜ országos átlagos teljesítési hányada qOHÜ, az adott termék- és anyagáramra jellemző felső hasznosítási arány pedig qf.
+## Egy termékdíjköteles termék- és anyagáramban az egyéni hulladékkezelést teljesítő kötelezett teljesítési hányada qe, az állami hulladékgazdálkodást közvetítő szervezet országos átlagos teljesítési hányada qáhksz, az adott termék- és anyagáramra jellemző felső hasznosítási arány pedig qf.
 
-## A qf és qOHÜ értékeket 2012. évtől az alábbi táblázat tartalmazza:
+## A qf és qáhksz értékeket 2012. évtől az alábbi táblázat tartalmazza:
 
-## a) Gumiabroncs
+## a) Akkumulátor
 
-## | Termékáram | qf felső hasznosítási arány | qOHÜ OHÜ országos átlagos teljesítési hányad | Gumiabroncs | 0,75 | 0,75
+## | | A | B | C | 1 | Termékáram | qf felső hasznosítási arány | qáhksz állami hulladékgazdálkodást közvetítő szervezet országos átlagos teljesítési hányad | 2 | Elektrolittal feltöltött akkumulátor | 0,85 | 0,85 | 3 | Elektrolittal fel nem töltött akkumulátor | 0,85 | 0,85
 
 ## b) Csomagolószer
 
 ## ba) Csomagolószer (kivéve kereskedelmi csomagolószer)
 
-## | Anyagáram | qf felső hasznosítási arány | qOHÜ OHÜ országos átlagos teljesítési hányad | Műanyag | 0,65 | 0,25 | Társított [kivéve társított rétegzett italkarton] | 0,65 | 0,25 | Társított rétegzett italkarton | 0,65 | 0,40 | Fém | 0,65 | 0,60 | Papír | 0,65 | 0,65 | Fa, természetes alapú textil | 0,65 | 0,20 | Üveg | 0,65 | 0,60 | Egyéb | 0,65 | 0,25
+## | | A | B | C | 1 | Anyagáram | qf felső hasznosítási arány | qáhksz állami hulladékgazdálkodást közvetítő szervezet országos átlagos teljesítési hányad | 2 | Műanyag- a műanyag bevásárló-reklám táska kivételével | 0,65 | 0,25 | 3 | Műanyag bevásárló-reklám táska | 0,65 | 0,15 | 4 | Társított (kivéve társított rétegzett italkarton) | 0,65 | 0,40 | 5 | Társított rétegzett italkarton | 0,65 | 0,20 | 6 | Fém | 0,65 | 0,60 | 7 | Papír | 0,65 | 0,65 | 8 | Fa, természetes alapú anyag | 0,65 | 0,15 | 9 | Üveg | 0,65 | 0,60 | 10 | Egyéb | 0,65 | 0,25
 
 ## bb) Kereskedelmi csomagolószer
 
-## | Anyagáram | qf felső hasznosítási arány | qOHÜ OHÜ országos átlagos teljesítési hányad | Műanyag [kivéve műanyag bevásárló-reklám táska] | 0,65 | 0,30 | Műanyag bevásárló-reklám táska | 0,65 | 0,15 | Üveg | 0,65 | 0,32 | Társított [kivéve társított rétegzett italkarton] | 0,65 | 0,16 | Társított rétegzett italkarton | 0,65 | 0,16 | Fém | 0,65 | 0,17 | Egyéb anyagok | 0,65 | 0,30
+## | | A | B | C | 1 | Anyagáram | qf felső hasznosítási arány | qáhksz állami hulladékgazdálkodást közvetítő szervezet országos átlagos teljesítési hányad | 2 | Fém | 0,65 | 0,17
 
-## c) Akkumulátor
+## c) Elektromos, elektronikai berendezés
 
-## | Termékáram | qf felső hasznosítási arány | qOHÜ OHÜ országos átlagos teljesítési hányad | Elektrolittal feltöltött akkumulátor | 0,85 | 0,85 | Elektrolittal fel nem töltött akkumulátor | 0,85 | 0,85
+## | | A | B | C | 1 | Termékáram | qf felső hasznosítási arány | qáhksz állami hulladékgazdálkodást közvetítő szervezet országos átlagos teljesítési hányad | 2 | Nagygépek | 0,65 | 0,33 | 3 | Kisgépek | 0,65 | 0,18 | 4 | Információs (IT) és távközlési berendezések, kivéve a rádiótelefon-készülék | 0,65 | 0,33 | 5 | Szórakoztató elektronikai cikkek | 0,65 | 0,30 | 6 | Elektromos és elektronikus barkácsgépek, szerszámok, kivéve a helyhez kötött, nagyméretű ipari szerszámok | 0,65 | 0,05 | 7 | Játékok, szabadidős és sportfelszerelések | 0,65 | 0,05 | 8 | Ellenőrző, vezérlő és megfigyelő eszközök | 0,65 | 0,05 | 9 | Adagoló automaták | 0,65 | 0,05 | 10 | Rádiótelefon-készülék | 0,65 | 0,20
 
-## d) Elektromos, elektronikai berendezés
+## d) Gumiabroncs
 
-## | Termékáram | qf felső hasznosítási arány | qOHÜ OHÜ országos átlagos teljesítési hányad | Háztartási nagygépek | 0,65 | 0,33 | Háztartási kisgépek | 0,65 | 0,18 | Információs (IT) és távközlési berendezések, kivéve a rádiótelefon készülék | 0,65 | 0,33 | Szórakoztató elektronikai cikkek | 0,65 | 0,30 | Elektromos és elektronikus barkácsgépek, szerszámok, kivéve a helyhez kötött, nagyméretű ipari szerszámok | 0,65 | 0,05 | Játékok, szabadidős és sportfelszerelések | 0,65 | 0,05 | Ellenőrző, vezérlő és megfigyelő eszközök | 0,65 | 0,05 | Adagoló automaták | 0,65 | 0,05 | Rádiótelefon készülék | 0,65 | 0,20
+## | | A | B | C | 1 | Termékáram | qf felső hasznosítási arány | qáhksz állami hulladékgazdálkodást közvetítő szervezet országos átlagos teljesítési hányad | 2 | Gumiabroncs | 0,75 | 0,75
 
 ## Az egyéni teljesítő által az adott termék- és anyagáram esetén fizetendő termékdíjat az alábbi általános formula határozza meg:
 
-## T = R+E1+K1
+## T=R+E1+K1
 
 ## ahol
 
@@ -76,78 +88,78 @@
 
 ## A megfizetendő fajlagos rendszerirányítási alapköltség (R) mértékét a különféle termékdíjköteles termék- és anyagáramok esetén az alábbi táblázat tartalmazza:
 
-## a) Gumiabroncs
+## a) Akkumulátor
 
-## | Termékáram | Fajlagos rendszerirányítási alapköltség (Ft/kg) | Gumiabroncs | 30
+## | | A | B | 1 | Termékáram | Fajlagos rendszerirányítási alapköltség (Ft/kg) | 2 | Elektrolittal feltöltött akkumulátor | 44 | 3 | Elektrolittal fel nem töltött akkumulátor | 44
 
 ## b) Csomagolószer
 
 ## ba) Csomagolószer (kivéve kereskedelmi csomagolószer)
 
-## | Anyagáram | Fajlagos rendszerirányítási alapköltség (Ft/kg) | Műanyag | 24 | Társított [kivéve társított rétegzett italkarton] | 26 | Társított rétegzett italkarton | 17 | Fém | 12 | Papír, fa, természetes alapú anyag | 12 | Üveg | 10 | Egyéb | 26
+## | | A | B | 1 | Anyagáram | Fajlagos rendszerirányítási alapköltség (Ft/kg) | 2 | Műanyag- a műanyag bevásárló-reklám táska kivételével | 34 | 3 | Műanyag bevásárló-reklám táska | 1300 | 4 | Társított (kivéve társított rétegzett italkarton) | 34 | 5 | Társított rétegzett italkarton | 12 | 6 | Fém | 12 | 7 | Papír | 16 | 8 | Fa, természetes alapú anyag | 14 | 9 | Üveg | 12 | 10 | Egyéb | 34
 
 ## bb) Kereskedelmi csomagolószer
 
-## | Anyagáram | Fajlagos rendszerirányítási alapköltség (Ft/kg) | Műanyag [kivéve műanyag bevásárló-reklám táska] | 36 | Műanyag bevásárló-reklám táska | 1100 | Üveg | 10 | Társított [kivéve társított rétegzett italkarton] | 150 | Társított rétegzett italkarton | 78 | Fém | 150 | Egyéb anyagok | 150
+## | | A | B | 1 | Anyagáram | Fajlagos rendszerirányítási alapköltség (Ft/kg) | 2 | Fém | 160
 
-## c) Akkumulátor
+## c) Elektromos, elektronikai berendezés
 
-## | Termékáram | Fajlagos rendszerirányítási alapköltség (Ft/kg) | Elektrolittal feltöltött akkumulátor | 36 | Elektrolittal fel nem töltött akkumulátor | 48
+## | | A | B | 1 | Termékáram | Fajlagos rendszerirányítási alapköltség (Ft/kg) | 2 | Nagygépek | 34 | 3 | Kisgépek | 34 | 4 | Információs (IT) és távközlési berendezések, kivéve a rádiótelefon-készülék | 34 | 5 | Szórakoztató elektronikai cikkek | 68 | 6 | Elektromos és elektronikus barkácsgépek, szerszámok, kivéve a helyhez kötött, nagyméretű ipari szerszámok | 34 | 7 | Játékok, szabadidős és sportfelszerelések | 34 | 8 | Ellenőrző, vezérlő és megfigyelő eszközök | 34 | 9 | Adagoló automaták | 68 | 10 | Rádiótelefon-készülék | 160
 
-## d) Elektromos, elektronikai berendezés
+## d) Gumiabroncs
 
-## | Termékáram | Fajlagos rendszerirányítási alapköltség (Ft/kg) | Háztartási nagygépek | 30 | Háztartási kisgépek | 30 | Információs (IT) és távközlési berendezések, kivéve a rádiótelefon készülék | 30 | Szórakoztató elektronikai cikkek | 60 | Elektromos és elektronikus barkácsgépek, szerszámok, kivéve a helyhez kötött, nagyméretű ipari szerszámok | 30 | Játékok, szabadidős és sportfelszerelések | 30 | Ellenőrző, vezérlő és megfigyelő eszközök | 30 | Adagoló automaták | 60 | Rádiótelefon készülék | 300
+## | | A | B | 1 | Termékáram | Fajlagos rendszerirányítási alapköltség (Ft/kg) | 2 | Gumiabroncs | 35
 
 ## A megfizetendő externális költség (E1) számítása a qe<qf esetben az
 
 ## képlet szerint történik, minden más esetben E1 = 0. A képletben szereplő E fajlagos externális alapköltség értékét a különféle termékdíjköteles termék- és anyagáramok esetén az alábbi táblázat tartalmazza:
 
-## a) Gumiabroncs
+## a) Akkumulátor
 
-## | Termékáram | Fajlagos externális alapköltség (Ft/kg) | Gumiabroncs | 30
+## | | A | B | 1 | Termékáram | Fajlagos externális alapköltség (Ft/kg) | 2 | Elektrolittal feltöltött akkumulátor | 24 | 3 | Elektrolittal fel nem töltött akkumulátor | 24
 
 ## b) Csomagolószer
 
 ## ba) Csomagolószer (kivéve kereskedelmi csomagolószer)
 
-## | Anyagáram | Fajlagos externális alapköltség (Ft/kg) | Műanyag | 16 | Társított [kivéve társított rétegzett italkarton] | 17 | Társított rétegzett italkarton | 11 | Fém | 8 | Papír, fa, természetes alapú anyag | 8 | Üveg | 7 | Egyéb | 17
+## | | A | B | 1 | Anyagáram | Fajlagos externális alapköltség (Ft/kg) | 2 | Műanyag- a műanyag bevásárló-reklám táska kivételével | 24 | 3 | Műanyag bevásárló-reklám táska | 774 | 4 | Társított (kivéve társított rétegzett italkarton) | 24 | 5 | Társított rétegzett italkarton | 7 | 6 | Fém | 8 | 7 | Papír | 4 | 8 | Fa, természetes alapú anyag | 4 | 9 | Üveg | 6 | 10 | Egyéb | 24
 
 ## bb) Kereskedelmi csomagolószer
 
-## | Anyagáram | Fajlagos externális alapköltség (Ft/kg) | Műanyag [kivéve műanyag bevásárló-reklám táska] | 24 | Műanyag bevásárló-reklám táska | 700 | Üveg | 7 | Társított [kivéve társított rétegzett italkarton] | 120 | Társított rétegzett italkarton | 52 | Fém | 120 | Egyéb anyagok | 120
+## | | A | B | 1 | Anyagáram | Fajlagos externális alapköltség (Ft/kg) | 2 | Fém | 120
 
-## c) Akkumulátor
+## c) Elektromos, elektronikai berendezés
 
-## | Termékáram | Fajlagos externális alapköltség (Ft/kg) | Elektrolittal feltöltött akkumulátor | 24 | Elektrolittal fel nem töltött akkumulátor | 32
+## | | A | B | 1 | Termékáram | Fajlagos externális alapköltség (Ft/kg) | 2 | Nagygépek | 24 | 3 | Kisgépek | 24 | 4 | Információs (IT) és távközlési berendezések, kivéve a rádiótelefon-készülék | 24 | 5 | Szórakoztató elektronikai cikkek | 46 | 6 | Elektromos és elektronikus barkácsgépek, szerszámok, kivéve a helyhez kötött, nagyméretű ipari szerszámok | 24 | 7 | Játékok, szabadidős és sportfelszerelések | 24 | 8 | Ellenőrző, vezérlő és megfigyelő eszközök | 24 | 9 | Adagoló automaták | 46 | 10 | Rádiótelefon-készülék | 120
 
-## d) Elektromos, elektronikai berendezés
+## d) Gumiabroncs
 
-## | Termékáram | Fajlagos externális alapköltség (Ft/kg) | Háztartási nagygépek | 20 | Háztartási kisgépek | 20 | Információs (IT) és távközlési berendezések, kivéve a rádiótelefon készülék | 20 | Szórakoztató elektronikai cikkek | 40 | Elektromos és elektronikus barkácsgépek, szerszámok, kivéve a helyhez kötött, nagyméretű ipari szerszámok | 20 | Játékok, szabadidős és sportfelszerelések | 20 | Ellenőrző, vezérlő és megfigyelő eszközök | 20 | Adagoló automaták | 40 | Rádiótelefon készülék | 200
+## | | A | B | 1 | Termékáram | Fajlagos externális alapköltség (Ft/kg) | 2 | Gumiabroncs | 34
 
-## A megfizetendő kezelési költség (K1) számítása a qe<qOHÜ<qf esetben a
+## A megfizetendő kezelési költség (K1) számítása a qe<qáhksz<qf esetben a
 
-## Képlettel történik, a qe<qOHÜ és qOHÜ ≥ qf esetben a
+## Képlettel történik, a qe<qáhksz és qáhksz≥qf esetben a
 
 ## minden más esetben K1=0. A képletben szereplő K fajlagos kezelési alapköltség értékét a különféle termékdíjköteles termék- és anyagáramok esetén az alábbi táblázat tartalmazza:
 
-## a) Gumiabroncs
+## a) Akkumulátor
 
-## | Termékáram | Fajlagos kezelési alapköltség (Ft/kg) | Gumiabroncs | 22
+## | | A | B | 1 | Termékáram | Fajlagos kezelési alapköltség (Ft/kg) | 2 | Elektrolittal feltöltött akkumulátor | 20 | 3 | Elektrolittal fel nem töltött akkumulátor | 20
 
 ## b) Csomagolószer
 
 ## ba) Csomagolószer (kivéve kereskedelmi csomagolószer)
 
-## | Anyagáram | Fajlagos kezelési alapköltség (Ft/kg) | Műanyag | 20 | Társított [kivéve társított rétegzett italkarton] | 20 | Társított rétegzett italkarton | 10 | Fém | 10 | Papír, fa, természetes alapú anyag | 10 | Üveg | 10 | Egyéb | 20
+## | | A | B | 1 | Anyagáram | Fajlagos kezelési alapköltség (Ft/kg) | 2 | Műanyag- a műanyag bevásárló-reklám táska kivételével | 30 | 3 | Műanyag bevásárló-reklám táska | 30 | 4 | Társított (kivéve társított rétegzett italkarton) | 30 | 5 | Társított rétegzett italkarton | 10 | 6 | Fém | 10 | 7 | Papír | 5 | 8 | Fa, természetes alapú anyag | 10 | 9 | Üveg | 10 | 10 | Egyéb | 30
 
 ## bb) Kereskedelmi csomagolószer
 
-## | Anyagáram | Fajlagos kezelési alapköltség (Ft/kg) | Műanyag [kivéve műanyag bevásárló-reklám táska] | 40 | Műanyag bevásárló-reklám táska | 400 | Üveg | 10 | Társított [kivéve társított rétegzett italkarton] | 100 | Társított rétegzett italkarton | 100 | Fém | 100 | Egyéb anyagok | 100
+## | | A | B | 1 | Anyagáram | Fajlagos kezelési alapköltség (Ft/kg) | 2 | Fém | 100
 
-## c) Akkumulátor
+## c) Elektromos, elektronikai berendezés
 
-## | Termékáram | Fajlagos kezelési alapköltség (Ft/kg) | Elektrolittal feltöltött akkumulátor | 20 | Elektrolittal fel nem töltött akkumulátor | 20
+## | | A | B | 1 | Termékáram | Fajlagos kezelési alapköltség (Ft/kg) | 2 | Nagygépek | 30 | 3 | Kisgépek | 30 | 4 | Információs (IT) és távközlési berendezések, kivéve a rádiótelefon-készülék | 30 | 5 | Szórakoztató elektronikai cikkek | 70 | 6 | Elektromos és elektronikus barkácsgépek, szerszámok, kivéve a helyhez kötött, nagyméretű ipari szerszámok | 15 | 7 | Játékok, szabadidős és sportfelszerelések | 15 | 8 | Ellenőrző, vezérlő és megfigyelő eszközök | 15 | 9 | Adagoló automaták | 70 | 10 | Rádiótelefon-készülék | 100
 
-## d) Elektromos, elektronikai berendezés
+## d) Gumiabroncs
 
-## | Termékáram | Fajlagos kezelési alapköltség (Ft/kg) | Háztartási nagygépek | 20 | Háztartási kisgépek | 20 | Információs (IT) és távközlési berendezések, kivéve a rádiótelefon készülék | 20 | Szórakoztató elektronikai cikkek | 20 | Elektromos és elektronikus barkácsgépek, szerszámok, kivéve a helyhez kötött, nagyméretű ipari szerszámok | 20 | Játékok, szabadidős és sportfelszerelések | 20 | Ellenőrző, vezérlő és megfigyelő eszközök | 20 | Adagoló automaták | 70 | Rádiótelefon készülék | 20
+## | | A | B | 1 | Termékáram | Fajlagos kezelési alapköltség (Ft/kg) | 2 | Gumiabroncs | 30

@@ -4,6 +4,6 @@
 
 ## 17. Nyilvántartás
 
-23. § (1) A 24. § szerinti adatokat az OHÜ, valamint az állami adó- és vámhatóság a kötelezett termékdíj-kötelezettségének keletkezésétől számított 6 évig tartja nyilván.
+23. § (1) A 24. § szerinti adatokat az állami hulladékgazdálkodást közvetítő szervezet, valamint az állami adó- és vámhatóság a kötelezett termékdíj-kötelezettségének keletkezésétől számított 6 évig tartja nyilván.
 
-(2) Az OHÜ az e törvény és végrehajtására kiadott jogszabályok alapján birtokába kerülő hulladékgazdálkodással, termékdíj-kötelezettséggel kapcsolatos adatok – beleértve a határozatokban, szerződésekben, egyéb iratokban szereplő személyes adatokat – kezelésére az adatvédelmi jogszabályok betartásával jogosult.
+(2) Az állami hulladékgazdálkodást közvetítő szervezet az e törvény és végrehajtására kiadott jogszabályok alapján birtokába kerülő hulladékgazdálkodással, termékdíj-kötelezettséggel kapcsolatos adatok – beleértve a határozatokban, szerződésekben, egyéb iratokban szereplő személyes adatokat – kezelésére az adatvédelmi jogszabályok betartásával jogosult.

@@ -16,7 +16,13 @@ d) elektromos, elektronikai berendezés termékáram esetén 10 000 Ft/év;
 
 e) gumiabroncs termékáram esetén 3 000 Ft/év;
 
-f) reklámhordozó papír termékáram esetén 6 000 Ft/év.
+f) reklámhordozó papír termékáram esetén 8 000 Ft/év;
+
+g) egyéb műanyag termék termékáram esetén 4000 Ft/év;
+
+h) egyéb vegyipari termék termékáram esetén 4000 Ft/év;
+
+i) irodai papír termékáram esetén 4000 Ft/év.
 
 (4) A tárgyévet megelőző évben legfeljebb évi tíz millió forintos értékesítési nettó árbevételt elérő mezőgazdasági termelő termékdíjátalánya 2000 Ft/év. A tárgyévet megelőző évben évi tíz millió forintot meghaladó, azonban legfeljebb évi ötven millió forintos értékesítési nettó árbevételt elérő mezőgazdasági termelő termékdíjátalánya 7000 Ft/év, a tárgyévben kötelezetté váló mezőgazdasági termelő termékdíjátalánya 5000 Ft/év.
 

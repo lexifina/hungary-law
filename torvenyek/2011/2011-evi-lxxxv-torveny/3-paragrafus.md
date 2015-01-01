@@ -14,7 +14,7 @@ terheli.
 
 Reklámhordozó papír esetében az a) pont szerinti első belföldi forgalomba hozatalnak – belföldi előállítás esetén – a nyomdai szolgáltatás teljesítése (nyomtatás és átadás) minősül.
 
-(2a) A (2) bekezdésben foglaltaktól eltérően a termékdíj megfizetése nélkül vagy a termékdíj visszatérítését követően a termékdíj raktárban tárolt, feldolgozott, előállított, újbóli felhasználásra előkészített termékdíjköteles termék, termékdíj raktárból belföldre történő kiszállítása, első belföldi forgalomba hozatalnak minősül.
+(2a) A (2) bekezdésben foglaltaktól eltérően a termékdíj megfizetése nélkül vagy a termékdíj visszatérítését követően a termékdíj raktárban tárolt, feldolgozott, előállított, újbóli felhasználásra előkészített termékdíjköteles termék, termékdíj raktárból belföldre – a tulajdonjog átruházásával – történő kiszállítása, első belföldi forgalomba hozatalnak minősül.
 
 (3) Saját célú felhasználásnak minősül a termékdíjköteles termék, ideértve más termék tartozékaként vagy alkotórészeként, továbbá a csomagolószer esetében a csomagolás részeként:
 
@@ -40,6 +40,8 @@ d) minden más, az a)–c) pontokban nem említett használata, ideértve a szol
 
 (3a) A termékdíjköteles termék alapanyagként történő felhasználása esetében a gyártási folyamat során keletkező gyártási selejt, hulladék nem minősül saját célú felhasználásnak. A gyártási selejt, hulladék a hulladékkezelési teljesítményben nem számolható el.
 
+(3b) Nem minősül a (3) bekezdés d) pontja szerinti saját célú felhasználásnak, ha az újrahasználható raklapot a tulajdonos a 3/A. § szerinti engedéllyel bíró bérleti rendszer üzemeltetője számára – az engedélyezett bérleti rendszer keretén belül történő használat céljából – rendelkezésre bocsátja.
+
 (4) A külföldön előállított csomagolás esetén a csomagolószer saját célú felhasználásának minősül a csomagolás végleges elválasztása a termékről, kivéve a belföldi gazdálkodó tulajdonában lévő újrahasználható csomagolószer elválasztását.
 
 (5) Saját célú felhasználás címén keletkezik termékdíj-kötelezettség:
@@ -58,7 +60,7 @@ olyan termékdíjköteles terméket tart tulajdonában, amelyre a termékdíj ne
 
 b) a termékdíjköteles termék éves kibocsátási mennyiségéből 0,5%-ot meghaladó mennyiségű ténylegesen bekövetkezett hiány mennyiségére, vagy a termékdíjköteles termék megsemmisülése esetén – az elháríthatatlan külső okból bekövetkezett megsemmisülés kivételével – a megsemmisült mennyiségre.
 
-(6) A termékdíjköteles termék termékdíját nem kell megfizetni, ha – e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – a kötelezett belföldi vevője (a továbbiakban: nyilatkozó) nyilatkozik arról, hogy
+(6) A termékdíjköteles termék termékdíját nem kell megfizetni, ha – e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – a kötelezett vevője (a továbbiakban: nyilatkozó) nyilatkozik arról, hogy
 
 a) a csomagolószert termékdíjátalány fizetésre jogosult mezőgazdasági termelőként csomagolás előállítására használja fel,
 
@@ -78,7 +80,11 @@ cb) más termék előállításához közvetlen anyagként (alapanyagként)
 
 használja fel,
 
-d) a termékdíjköteles terméket termékdíj raktárba szállítja be.
+d) a termékdíjköteles terméket termékdíj raktárba szállítja be,
+
+e) a raklapot a 3/A. § szerinti engedéllyel bíró bérleti rendszer üzemeltetőjeként – a 3/A. § szerinti engedélyezett bérleti rendszer keretében történő használat céljából – vásárolja meg,
+
+f) a raklapot a 3/A. § szerinti engedéllyel bíró bérleti rendszer üzemeltetője számára a 3/A. § szerinti engedélyezett bérleti rendszer keretében történő használatra átadja.
 
 (7) A (6) bekezdés szerinti nyilatkozó kötelezettnek minősül, ha a nyilatkozatával ellentétesen jár el, egyébként a kötelezett ellenőrzésére vonatkozó szabályokat kell rá alkalmazni.
 

@@ -1,9 +1,7 @@
-## 16. Az Országos Hulladékgazdálkodási Ügynökség
+## 16. Az állami hulladékgazdálkodást közvetítő szervezet
 
-19. § (1) Az OHÜ a hulladékká vált termékdíjköteles termékek hasznosításának az érdekében a környezetvédelemért felelős miniszter által alapított, a magyar állam kizárólagos tulajdonában álló társaság, amelynek üzletrésze forgalomképtelen.
+19. § (1)–(2)
 
-(2) Az OHÜ felett a szakmai felügyeletet, valamint a magyar államot megillető tulajdonosi jogok és kötelezettségek összességét a környezetvédelemért felelős miniszter gyakorolja. Az OHÜ felügyelő bizottsága legfeljebb öt tagból áll.
-
-(3) Az OHÜ – a veszélyes hulladéknak minősülő csomagolási hulladékok kivételével – kizárólagosan jogosult a termékdíjköteles termékekből képződött hulladékok hulladékkezelési rendszerében közvetítői feladatkör ellátására. A veszélyes hulladéknak minősülő csomagolási hulladékok hulladékkezelési rendszerében a közvetítői feladatok ellátásának rendjét – az egyes veszélyes hulladékfajtákra vonatkozó eltérő szabályozásra figyelemmel – e törvény végrehajtására kiadott rendeletben a Kormány határozza meg.
+(3) Az állami hulladékgazdálkodást közvetítő szervezet – a veszélyes hulladéknak minősülő csomagolási hulladékok kivételével – kizárólagosan jogosult a termékdíjköteles termékekből képződött hulladékok hulladékkezelési rendszerében közvetítői feladatkör ellátására. A veszélyes hulladéknak minősülő csomagolási hulladékok hulladékkezelési rendszerében a közvetítői feladatok ellátásának rendjét – az egyes veszélyes hulladékfajtákra vonatkozó eltérő szabályozásra figyelemmel – e törvény végrehajtására kiadott rendeletben a Kormány határozza meg.
 
 (4)

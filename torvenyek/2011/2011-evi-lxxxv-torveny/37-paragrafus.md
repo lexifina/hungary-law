@@ -1,5 +1,5 @@
 ## 27. A termékdíjakkal kapcsolatos állami feladatok finanszírozása
 
-37. § (1) Az OHÜ a működéséhez és a hulladékgazdálkodási feladatainak elvégzéséhez költségvetési támogatást kap az e célra szolgáló fejezeti kezelésű előirányzatokból. A hulladékgazdálkodási feladatokra az OHÜ által kifizetett összegek költségvetési támogatásnak minősülnek.
+37. § (1) Az állami hulladékgazdálkodást közvetítő szervezet a hulladékgazdálkodási feladatainak elvégzéséhez költségvetési támogatást kap az e célra szolgáló fejezeti kezelésű előirányzatból. A hulladékgazdálkodási feladatokra az állami hulladékgazdálkodást közvetítő szervezet által kifizetett összegek az államháztartásról szóló 2011. évi CXCV. törvény 41. § (2) bekezdésétől eltérően költségvetési támogatásként nyújthatók.
 
 (2) A befizetett, behajtott környezetvédelmi termékdíj összegének 5%-a, de legfeljebb 3 milliárd forint a Nemzeti Adó- és Vámhivatalnak a termékdíjköteles termékekkel kapcsolatos feladatok ellátásához szükséges működési költségeinek a fedezetére szolgál.

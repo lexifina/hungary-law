@@ -10,6 +10,8 @@ a) a saját célú felhasználás költségként való elszámolásának napján
 
 b) ha az a) pont alapján nem határozható meg időpont, az ügylet teljesítésének napján
 
+c) ha a külföldről behozott csomagolás esetén az a) vagy a b) pont alapján nem határozható meg az időpont, a csomagolás végleges lebontásának napján
+
 keletkezik,
 
 (4) A termékdíj-kötelezettség
@@ -20,4 +22,4 @@ b) a 3. § (5) bekezdés b) pontja esetén a hiányról vagy a termékdíjkötel
 
 keletkezik.
 
-(5) A 3. § (4) bekezdésében meghatározott esetben a csomagolás végleges elválasztásának a napján keletkezik a termékdíj-kötelezettség.
+(5)
