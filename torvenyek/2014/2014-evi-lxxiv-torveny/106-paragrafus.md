@@ -1,0 +1,5 @@
+106. § A Jöt. „Átmeneti rendelkezések” alcíme a következő 128/L. §-sal egészül ki:
+
+„128/L. § (1) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 104. § (2) bekezdés a) pontja alapján meghatározott jövedéki biztosítékot 2015. február 1-ig kell az ott meghatározott mértékre kiegészíteni a jövedéki biztosítékot nyújtónak, erre vonatkozó külön felhívás nélkül.
+
+(2) A 7. § 43. pontja szerinti pénzügyi biztosítékot nyújtó gazdálkodó tevékenységét a jövedéki biztosíték megemeléséről szóló vámhatósági döntés meghozataláig, de legkésőbb 2015. április 30-ig jogszerűen végezheti feltéve, hogy a jövedéki biztosíték megemelésének pénzintézetnél való kezdeményezéséről szóló iratot 2015. február 1. előtt a vámhatóságnak bemutatja.”

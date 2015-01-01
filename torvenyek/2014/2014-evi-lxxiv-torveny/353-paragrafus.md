@@ -1,0 +1,5 @@
+353. § A NAV tv. 33/K. § (5) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a § a következő (6) bekezdéssel egészül ki:
+
+„(5) Főtiszt, tiszt esetében rendfokozatban visszavetés, hivatásos szolgálati jogviszony megszüntetése, lefokozás fegyelmi büntetés kiszabására – ide nem értve, ha a fegyelmi tanács a NAV elnökének vezetésével jár el – a 33/J. § alapján eljáró vagy a 33/L. § (1) bekezdése esetén a főigazgató vezetésével eljáró fegyelmi tanács javaslatára, illetve a 33/J. § (5) bekezdés szerinti esetben az eredeti munkáltatói jogkör gyakorló javaslatára, a NAV elnöke jogosult. Ha a NAV elnöke szerint a javasolt fegyelmi büntetés nem indokolt, a (6) bekezdés szerinti eset kivételével az ügyet visszaküldi a felterjesztőnek az eljárás folytatására, vagy – újabb fegyelmi tanács felállítása nélkül – 30 napon belül maga dönt az ügyben.
+
+(6) Ha az (5) bekezdés szerinti esetben a felterjesztő a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar Vám- és Pénzügyőri Tanszék tanszékvezetője vezetésével eljáró fegyelmi tanács, a NAV elnöke a 33/J. § (6) bekezdés d) pontjának megfelelően jár el.”
