@@ -8,9 +8,9 @@ c) a gyermeknevelési támogatás, az ápolási díj, valamint a gyermekgondozá
 
 d) a katonai (polgári) szolgálatban eltöltött időt,
 
-e) a táppénz (betegszabadság) – ide nem értve a külön jogszabály rendelkezése szerint kötött megállapodás alapján folyósított táppénzt –, a baleseti táppénz, a terhességi-gyermekágyi segély folyósításának időtartamát, valamint a gyermekgondozási díj 2000. január 1-jét megelőző folyósításának időtartamát, illetőleg az 1999. december 31-ét követő gyermekgondozási díj, továbbá a rehabilitációs ellátás folyósításának azt az időtartamát, amelyre az előírt nyugdíjjárulékot megfizették,
+e) a táppénz (betegszabadság) – ide nem értve a külön jogszabály rendelkezése szerint kötött megállapodás alapján folyósított táppénzt –, a baleseti táppénz, a terhességi-gyermekágyi segély és a csecsemőgondozási díj folyósításának időtartamát, valamint a gyermekgondozási díj 2000. január 1-jét megelőző folyósításának időtartamát, illetőleg az 1999. december 31-ét követő gyermekgondozási díj, továbbá a rehabilitációs ellátás folyósításának azt az időtartamát, amelyre az előírt nyugdíjjárulékot megfizették,
 
-f) a munkanélküli-járadék, a vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
+f) az álláskeresési támogatás folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
 
 g) azt az időt, amely az 1997. december 31-én hatályos rendelkezések szerint szolgálati időnek minősült,
 
@@ -18,7 +18,9 @@ h) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi
 
 i) az Rjtv. szerinti rehabilitációs járadék folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
 
-j) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a nyugdíjbiztosítási visszautalás során elismert szolgálati időt, ha a Nyugdíjbiztosítási Alapot megillető összeget a Nyugdíjbiztosítási Alapnak átutalták.
+j) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a nyugdíjbiztosítási visszautalás során elismert szolgálati időt, ha a Nyugdíjbiztosítási Alapot megillető összeget a Nyugdíjbiztosítási Alapnak átutalták,
+
+k) a szociális szövetkezeti tag tagi munkavégzésének időtartamát, ha az előírt nyugdíjjárulékot megfizették.
 
 (2) Szolgálati időként nem lehet figyelembe venni
 

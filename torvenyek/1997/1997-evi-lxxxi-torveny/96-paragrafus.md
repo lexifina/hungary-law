@@ -30,7 +30,9 @@ g) a hozzátartozókra vonatkozó adatok, amennyiben jogszabály szerint a nyuge
 
 h) a megállapított, illetve folyósított ellátásra vonatkozó adatok,
 
-i) a Pénzügyi Szervezetek Állami Felügyeletétől átvett adatok, továbbá – ha azt az államháztartás részére utalták át – a visszalépő tagi kifizetések összege
+i) a Pénzügyi Szervezetek Állami Felügyeletétől átvett adatok, továbbá – ha azt az államháztartás részére utalták át – a visszalépő tagi kifizetések összege,
+
+j) a magánynyugdíjpénztár felszámolással, végelszámolással történő megszűnése esetén a társadalombiztosítási nyugdíjrendszerbe visszalépő tagokra vonatkozóan a felszámolótól, végelszámolóktól átvett adatok
 
 tarthatók nyilván.
 
@@ -58,8 +60,10 @@ szerinti adatok igénylésére jogosultak.
 
 (6) A (4) bekezdésben nem szabályozott esetben adatok közlésének csak akkor van helye, ha ahhoz az érintett írásban hozzájárult.
 
-(7) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai és szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését. Az érintett személy vagy képviselője azonban a nyilvántartásba betekinthet, az iratokról másolatot, illetőleg nyilvántartott adatairól felvilágosítást kérhet.
+(7) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai és szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését. Az érintett személy vagy képviselője azonban a nyilvántartásba betekinthet, az iratokról illetőleg nyilvántartott adatairól felvilágosítást kérhet.
 
-(8)–(9)
+(8) Az érintett személy vagy képviselője a nyugdíjbiztosítási igazgatási szervek által vezetett nyilvántartásba betekinthet, kérelmére a róla nyilvántartott adatokról a nyugdíjbiztosítási igazgatási szerv kivonatot állít ki.
+
+(9)
 
 (10) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, a nyugdíjbiztosítási igazgatási szervek által e törvény szerint kezelt személyes és különleges adatokat.

@@ -9,7 +9,3 @@ a hozzátartozói nyugellátás számításának alapjául szolgáló öregségi
 (2) A hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeg nem lehet kisebb az öregségi nyugdíj legkisebb összegénél. Ha a hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeg alapját képező átlagkereset az öregségi nyugdíj legkisebb összegét nem éri el, a hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeg azonos az alapját képező havi átlagkereset összegével.
 
 (3) A (2) bekezdésben foglaltak nem alkalmazhatók, ha a hozzátartozói nyugellátás kiszámítása során figyelembe vett szolgálati idő a 39. § szerinti arányos elismerés miatt nem éri el a jogosultsághoz előírt szolgálati időt.
-
-1. CÍM
-
-Az özvegyi nyugdíj

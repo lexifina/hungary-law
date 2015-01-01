@@ -6,15 +6,15 @@
 
 a) a megtérítésre kötelezett azt kéri, vagy
 
-b) a megtérítésre kötelezett, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet (foglalkoztató vagy egyéb szerv) felszámolással, illetve végelszámolással jogutód nélkül megszűnik.
+b) a megtérítésre kötelezett, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet (foglalkoztató vagy egyéb szerv) felszámolással, kényszertörléssel vagy végelszámolással jogutód nélkül megszűnik.
 
 (4) A (3) bekezdés szerinti egyösszegű megtérítés címén a megtérítési kötelezettség alapjául szolgáló
 
 a) ideiglenes özvegyi nyugdíj egyhavi összegének tizenkétszeresét,
 
-b) az árvaellátás egyhavi összegének az árva 25. életéve betöltéséig terjedő időtartamra számított összegét,
+b) az árvaellátás egyhavi összegének az árva 25. életéve betöltéséig terjedő időtartamra számított összegét, a c) pontban foglaltak kivételével,
 
-c) özvegyi nyugdíj, szülői nyugdíj, illetve baleseti hozzátartozói nyugellátás egyhavi összegének az ellátásban részesülő személyre irányadó öregségi nyugdíjkorhatár betöltéséig terjedő időtartamra, de legalább négy évre számított összegét, az irányadó öregségi nyugdíjkorhatárt betöltött, ellátásban részesülő személy esetén négy évre számított összegét
+c) megváltozott munkaképesség alapján járó árvaellátás, özvegyi nyugdíj, szülői nyugdíj, illetve baleseti hozzátartozói nyugellátás egyhavi összegének az ellátásban részesülő személyre irányadó öregségi nyugdíjkorhatár betöltéséig terjedő időtartamra, de legalább négy évre számított összegét, az irányadó öregségi nyugdíjkorhatárt betöltött, ellátásban részesülő személy esetén négy évre számított összegét
 
 kell megtéríteni.
 
@@ -22,7 +22,7 @@ kell megtéríteni.
 
 a) a (3) bekezdés a) pontja szerinti esetben a kérelem benyújtását megelőző hónapban,
 
-b) a (3) bekezdés b) pontja szerinti esetben a felszámolást, illetőleg a végelszámolást elrendelő végzés közzétételét megelőző hónapban
+b) a (3) bekezdés b) pontja szerinti esetben a felszámolást, a kényszertörlést, illetve a végelszámolást elrendelő végzés közzétételét megelőző hónapban
 
 érvényes összege alapulvételével kell meghatározni.
 

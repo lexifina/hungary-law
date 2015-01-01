@@ -20,13 +20,23 @@ i) a Tbj. 30/A. § (2) bekezdésében meghatározott mezőgazdasági őstermelő
 
 j) a főállású kisadózó társadalombiztosítási ellátásainak alapjául szolgáló, törvényben meghatározott összeget.
 
-(2) Az öregségi nyugdíj alapját képező havi átlagkereset meghatározásánál a munkanélküli-járadék, vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás, a gyermekgondozási segély, nyugdíjjárulék-köteles szociális ellátások (gyermeknevelési támogatás, ápolási díj), a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény (a továbbiakban: Péptv.) 3–4. és 5. §-a szerinti prémiumévek program, illetőleg különleges foglalkoztatási állomány keretében járó juttatás, a rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény (a továbbiakban: Rjtv.) szerinti rehabilitációs járadék és a rehabilitációs ellátás összegét, valamint a felsorolt ellátások folyósításának időtartama alatti biztosítással járó jogviszonyból származó jövedelmet (keresetet) – a kifizetésük (folyósításuk) időpontjától függetlenül – figyelmen kívül kell hagyni. Ha az igénylőre kedvezőbb,
+(2) Az öregségi nyugdíj alapját képező havi átlagkereset meghatározásánál
 
-a) a gyermekgondozási segély, a gyermeknevelési támogatás, az ápolási díj, a munkanélküli-járadék, vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás, a Péptv. 3–4. és 5. §-a szerinti prémiumévek program, illetőleg különleges foglalkoztatási állomány keretében járó juttatás, továbbá az Rjtv. szerinti rehabilitációs járadék és a rehabilitációs ellátás összegét,
+a) az álláskeresési járadék, a munkanélküli-járadék, a vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás (a továbbiakban együtt: álláskeresési támogatás) összegét,
 
-b) amennyiben az a) pontban meghatározott ellátás folyósításával egyidejűleg biztosítási jogviszonnyal is rendelkezik, az abból származó jövedelem (kereset) és az ellátás együttes összegét
+b) a gyermekgondozási segély, a gyermeknevelési támogatás és a gyermekgondozási díj összegét,
 
-kell keresetként figyelembe venni.
+c) a nyugdíjjárulék-köteles szociális és gyermekvédelmi ellátások (gyermeknevelési támogatás, ápolási díj) összegét,
+
+d) a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény (a továbbiakban: Péptv.) 3–5. §-a szerinti prémiumévek program, illetve különleges foglalkoztatási állomány keretében járó juttatás összegét,
+
+e) a rehabilitációs ellátás összegét,
+
+f) a rehabilitációs járadék összegét, valamint
+
+g) az a)–e) pont szerinti ellátások folyósításának időtartama alatt szerzett, biztosítással járó jogviszonyból származó jövedelmet, keresetet
+
+– a kifizetésük, folyósításuk időpontjától függetlenül – csak akkor kell figyelembe venni, ha az az igénylőre kedvezőbb.
 
 (3) A Péptv. 2011. január 1-jét megelőzően hatályos 4/A. §-a szerinti prémiumévek programban részt vevő biztosított esetében a nyugdíj alapjául szolgáló havi átlagkereset megállapításánál a részmunkaidőre megállapított, ténylegesen kifizetett kereset mellett a nyugdíjjárulék-, illetve nyugdíjbiztosítási járulékkiegészítés alapjaként számított összeget is figyelembe kell venni. Ha a prémiumévek programba történő belépése és munkaviszonya megszűnése közötti időszakban a biztosított prémiumévek programhoz kapcsolódó, részmunkaidőre szóló munkabérét emelték, akkor a járulékkiegészítés alapjaként számított összeget szintén ezen emelés százalékos arányával megemelten kell figyelembe venni. Többszöri béremelés esetén a prémiumévek programba történő bekerüléskor, illetve annak megszűnésekor érvényes bér közötti százalékos arányt kell alapul venni. A 39. §-ban foglalt rendelkezéseket ebben az esetben nem kell alkalmazni.
 

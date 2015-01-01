@@ -2,7 +2,7 @@
 
 a) az öregségi nyugdíjkorhatárt elérő személy, a megváltozott munkaképességű özvegy és az árva részére kivételes nyugellátást (a továbbiakban együtt: kivételes nyugellátás) állapíthat meg,
 
-b) az a) pontban meghatározott személyek, a rehabilitációs járadékban részesülő személy, illetőleg a 47. § (2) bekezdésének c) pontja szerinti feltétellel rendelkező özvegy részére kivételes nyugellátás-emelést, illetőleg a 6. § szerinti nyugellátásban részesülő személyek részére egyszeri segélyt engedélyezhet.
+b) az a) pontban meghatározott személyek, illetőleg a 47. § (2) bekezdésének c) pontja szerinti feltétellel rendelkező özvegy részére kivételes nyugellátás-emelést, illetőleg a 6. § szerinti nyugellátásban részesülő személyek részére egyszeri segélyt engedélyezhet.
 
 (2) A kivételes nyugellátás összegét a kérelmező magán-nyugdíjpénztári tagságára tekintet nélkül kell megállapítani.
 

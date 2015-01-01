@@ -24,4 +24,4 @@ módosítja vagy visszavonja.
 
 (7) A 87–88. § szerinti megtérítés ügyében hozott határozattal szemben fellebbezésnek nincs helye.
 
-(8) A jogerős határozattal megállapított szolgálati idő tartamát a nyugellátás megállapítása során – az (5) bekezdés b) pontjában foglaltaktól eltérően – a nyugdíjbiztosítási igazgatási szerv az ügyfél terhére nem módosíthatja.
+(8) A jogerős határozattal megállapított szolgálati idő és a 18. § (2b)–(2d) bekezdése szerinti jogosultsági idő tartamát a nyugellátás megállapítása során – az (5) bekezdés b) pontjában foglaltaktól eltérően – a nyugdíjbiztosítási igazgatási szerv az ügyfél terhére nem módosíthatja.
