@@ -1,4 +1,4 @@
-3. § (1) A környezetvédelmi hatóság, az Országos Hulladékgazdálkodási Ügynökség, valamint a helyi önkormányzat – az ideiglenes ellátás, továbbá a szükségellátás megszervezéséhez szükséges – nyilvántartásában szereplő és rendelkezésére álló adatokat az állami szerv kérésére haladéktalanul szolgáltatja.
+3. § (1) A környezetvédelmi hatóság, valamint a helyi önkormányzat – az ideiglenes ellátás, továbbá a szükségellátás megszervezéséhez szükséges – nyilvántartásában szereplő és rendelkezésére álló adatokat az állami szerv kérésére haladéktalanul szolgáltatja.
 
 (2) Kártalanítás mellett az ideiglenes ellátáshoz és a szükségellátáshoz szükséges szállítóeszköz rendelkezésre bocsátására kötelezhető
 
