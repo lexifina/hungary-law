@@ -18,7 +18,7 @@
 
 | Az OEP ellenőrző vagy felülvéleményező főorvosának véleménye |
 
-4/A. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^49]
+4/A. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^51]
 
 ## ORVOSI BEUTALÓ
 
@@ -102,4 +102,4 @@ h) ⬜ kromoszóma-rendellenesség.
 
 IV. A beutalót kiállító orvos adatai
 
-[^49]: A 4/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^51]: A 4/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
