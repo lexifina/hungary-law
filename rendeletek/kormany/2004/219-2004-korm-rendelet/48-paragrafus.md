@@ -1,4 +1,4 @@
-48. §[^286] (1) Ez a rendelet
+48. §[^283] (1) Ez a rendelet
 
 a) a környezetre vonatkozó egyes irányelvek végrehajtásáról szóló jelentések egységesítéséről és ésszerűsítéséről szóló, 1991. december 23-i 91/692/EGK tanácsi irányelv 2. cikk (1) bekezdésének, valamint I. melléklet f) pontjának;
 
@@ -22,4 +22,4 @@ b) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás 
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^286]: A 48. § a 480/2013. (XII. 17.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^283]: A 48. § a 480/2013. (XII. 17.) Korm. rendelet 15. §-ával megállapított szöveg.

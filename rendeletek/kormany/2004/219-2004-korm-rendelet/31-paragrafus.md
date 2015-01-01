@@ -2,26 +2,26 @@
 
 31. § (1) A kármentesítés során az eredeti környezetéből (helyéről) kitermelt és a szennyezett területen a kívánt mértékig a legjobb elérhető technika alkalmazásával sem ártalmatlanítható, elszállított szennyező anyagok kezelésére a hulladékokra vonatkozó külön jogszabályok előírásait kell alkalmazni.
 
-(2)[^216] A környezetkárosodás megelőzésének és elhárításának rendjéről szóló külön jogszabály[^217] szerinti kárelhárítási feladatok ellátása után hátra maradt szennyezettség vizsgálatára, kármentesítési feladataira e rendelet előírásait kell alkalmazni.
+(2)[^206] A környezetkárosodás megelőzésének és elhárításának rendjéről szóló külön jogszabály[^207] szerinti kárelhárítási feladatok ellátása után hátra maradt szennyezettség vizsgálatára, kármentesítési feladataira e rendelet előírásait kell alkalmazni.
 
-(3)[^218] A kármentesítés során szakértői és tervezési feladatok elvégzésére a Kvt. 92. §-a szerinti – az adott szakterület, illetve résszakterületnek megfelelő – szakértőt vagy tervezői jogosultsággal rendelkező szakembert kell igénybe venni. Amennyiben a kármentesítés sajátosságai megkövetelik, a jogosultságoknak a kármentesítés adott szakaszának teljes folyamatát le kell fedniük.
+(3)[^208] A kármentesítés során szakértői és tervezési feladatok elvégzésére a Kvt. 92. §-a szerinti – az adott szakterület, illetve résszakterületnek megfelelő – szakértőt vagy tervezői jogosultsággal rendelkező szakembert kell igénybe venni. Amennyiben a kármentesítés sajátosságai megkövetelik, a jogosultságoknak a kármentesítés adott szakaszának teljes folyamatát le kell fedniük.
 
-(4)[^219] A műszaki beavatkozáshoz a 21. § (2) bekezdése szerinti felelős műszaki ellenőrt alkalmaz. Műszaki ellenőr az lehet, aki a vízgazdálkodási szakértői tevékenységről szóló jogszabály szerint vízföldtani szakterületre vonatkozó jogosultsággal rendelkezik, vagy a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenységről szóló jogszabály szerint környezetvédelem szakterületen víz- és földtani közeg védelem részterületre vonatkozó szakértői jogosultsággal rendelkezik. Építési tevékenységnek minősülő műszaki beavatkozás esetén a műszaki ellenőr alkalmazásának meg kell felelni az építési műszaki ellenőri, valamint a felelős műszaki vezetői szakmagyakorlási jogosultság részletes szabályairól szóló jogszabály előírásainak.
+(4)[^209] A műszaki beavatkozáshoz a 21. § (2) bekezdése szerinti felelős műszaki ellenőrt alkalmaz. Műszaki ellenőr az lehet, aki a vízgazdálkodási szakértői tevékenységről szóló jogszabály szerint vízföldtani szakterületre vonatkozó jogosultsággal rendelkezik, vagy a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenységről szóló jogszabály szerint környezetvédelem szakterületen víz- és földtani közeg védelem részterületre vonatkozó szakértői jogosultsággal rendelkezik. Építési tevékenységnek minősülő műszaki beavatkozás esetén a műszaki ellenőr alkalmazásának meg kell felelni az építési műszaki ellenőri, valamint a felelős műszaki vezetői szakmagyakorlási jogosultság részletes szabályairól szóló jogszabály előírásainak.
 
-(5)[^220] A környezetvédelmi hatóság a jóváhagyást követő harminc napon belül megküldi adatgyűjtés, további adatszolgáltatás céljából a tényfeltárási, beavatkozási, kármentesítési monitoring záródokumentáció egy példányát a környezetvédelemért felelős miniszter által meghatározott szervezet részére.
+(5)[^210] A környezetvédelmi hatóság a jóváhagyást követő harminc napon belül megküldi adatgyűjtés, további adatszolgáltatás céljából a tényfeltárási, beavatkozási, kármentesítési monitoring záródokumentáció egy példányát a környezetvédelemért felelős miniszter által meghatározott szervezet részére.
 
 (6) Többfajta tevékenységhez vagy mulasztáshoz kapcsolódó, egymással összefüggő hatású pontszerű szennyezőforrások összessége esetében az (1)–(4) bekezdésekben foglaltak mellett a kármentesítést összehangoltan, több felelős esetében az egyetemleges felelősség érvényesítésével kell végezni, a Kvt. 102. §-a szerint.
 
 (7) A kármentesítés egyes szakaszainak befejeztével a kármentesítés során létesített, feleslegessé vált építményeket, létesítményeket meg kell szüntetni úgy, hogy azok ne jelentsenek veszélyt az épített és a természeti környezetre.
 
-(8)[^221]
+(8)[^211]
 
-(9)[^222] A kármentesítési műszaki beavatkozás során alkalmazott technológiai elemekre vonatkozóan a környezetvédelmi hatóság a megfelelőség megítélésére alkalmas igazolás benyújtását kérheti, továbbá az alkalmazást kísérleti, próbaüzemi kipróbáláshoz kötheti.
+(9)[^212] A kármentesítési műszaki beavatkozás során alkalmazott technológiai elemekre vonatkozóan a környezetvédelmi hatóság a megfelelőség megítélésére alkalmas igazolás benyújtását kérheti, továbbá az alkalmazást kísérleti, próbaüzemi kipróbáláshoz kötheti.
 
-[^216]: A 31. § (2) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^217]: Lásd a 90/2007. (IV. 26.) Korm. rendeletet.
-[^218]: A 31. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 357. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^219]: A 31. § (4) bekezdését újonnan a 302/2008. (XII. 17.) Korm. rendelet 14. § (1) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 357. § (7) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^220]: A 31. § (5) bekezdése a 302/2008. (XII. 17.) Korm. rendelet 14. § (1) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (55) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 275. § c) és d) pontja szerint módosított szöveg.
-[^221]: A 31. § (8) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 359. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^222]: A 31. § (9) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 275. § d) pontja szerint módosított szöveg.
+[^206]: A 31. § (2) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^207]: Lásd a 90/2007. (IV. 26.) Korm. rendeletet.
+[^208]: A 31. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 357. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^209]: A 31. § (4) bekezdését újonnan a 302/2008. (XII. 17.) Korm. rendelet 14. § (1) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 357. § (7) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^210]: A 31. § (5) bekezdése a 302/2008. (XII. 17.) Korm. rendelet 14. § (1) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (55) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 275. § c) és d) pontja szerint módosított szöveg.
+[^211]: A 31. § (8) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 359. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^212]: A 31. § (9) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 275. § d) pontja szerint módosított szöveg.
