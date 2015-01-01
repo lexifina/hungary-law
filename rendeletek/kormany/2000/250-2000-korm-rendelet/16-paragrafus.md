@@ -12,7 +12,7 @@ a) a letétkezelés, a letéti őrzés, a bizományi ügylet esetén átmenetile
 
 b) az ügyfél tulajdonát képező – az értékpapírszámlán nyilvántartott – dematerializált értékpapírokat.
 
-(6)[^190] A saját tulajdonú értékpapír kölcsönbe adásakor
+(6)[^193] A saját tulajdonú értékpapír kölcsönbe adásakor
 
 a) a kölcsönbe adó
 
@@ -34,7 +34,7 @@ bc) a kölcsön futamideje alatt pénzben fizetett óvadékot a hitelintézetekk
 
 bd) a fizetett kölcsönzési díjat kamatjellegű ráfordításként számolja el.
 
-(7)[^191] Az ügyfél megbízásából történő értékpapírkölcsönzés során:
+(7)[^194] Az ügyfél megbízásából történő értékpapírkölcsönzés során:
 
 a) Az ügyfél tulajdonát képező értékpapír – az ügyféllel kötött megállapodás alapján történő – kölcsönbe adása esetén a – kölcsönzésben bizományosként közreműködő – hitelintézet a kölcsönbe adott értékpapírt a 0. Nyilvántartási számlák számlaosztályban kimutatott, az ügyfelek tulajdonát képező dematerializált értékpapírokról vezetett értékpapírszámlákról, valamint a nyomdai úton előállított értékpapírokról vezetett letéti számlákról átvezeti a 0. Nyilvántartási számlák számlaosztályban a kölcsönadott értékpapírokról vezetett külön nyilvántartásba. A 0. Nyilvántartási számlák számlaosztályban megnyitott, az ügyfelek kölcsönbe adott értékpapírjairól vezetett külön nyilvántartásban ügyfelenként és értékpapír fajtánként, a kölcsönszerződés szerinti értéken és névértéken kell kimutatni a kölcsönbe adott értékpapírokat. A kölcsön lejártakor visszaszolgáltatott értékpapírt a hitelintézet a 0. Nyilvántartási számlák számlaosztályban az ügyfelek kölcsönbe adott értékpapírjairól vezetett számlákról visszavezeti az ügyfelek tulajdonát képező dematerializált és nyomdai úton előállított értékpapírjairól vezetett számlákra. A kölcsönbe vevőtől kapott, az – eredeti értékpapírtulajdonos – ügyfelet megillető kölcsönzési díj összegét az ügyfelekkel szembeni befektetési szolgáltatásból adódó kötelezettségként kell kimutatni a pénzeszközökkel szemben. A kölcsönzési díj ügyfél felé kifizetett összegét a kötelezettség csökkentéseként kell elszámolni a pénzeszközökkel szemben.
 
@@ -56,7 +56,7 @@ e) határidős, opciós tőzsdei és tőzsdén kívüli ügyletek esetén a megb
 
 f) értékpapír forgalomba hozatalának szervezése esetén a jegyzett összeg beszedése és annak a kibocsátó felé történő átutalása stb.
 
-(10)[^192] A tőzsdén teljesített – azonnali – bizományi ügylet esetén, a hitelintézet döntésétől függően az ügyletkötéskor, de legkésőbb a pénzügyi rendezéskor az eladóval, illetve a vevővel (más befektetési szolgáltatóval) szembeni kötelezettséget, illetve követelést is fel kell venni a könyvekbe egy – az egyéb követeléseken belül megnyitott – elszámolási számlával (a továbbiakban: bizományosi elszámolási számla) szemben. Az adott tőzsdenapi ügyletek pénzügyi rendezésekor az eladásokból származó összes követelést, illetve a vételekből származó összes kötelezettséget – a sajátszámlás ügyletekkel azonos módon, az egyéb követeléseken belül megnyitott – elszámolási számlára (a továbbiakban: tőzsdei elszámolási számla) kell átvezetni, és a számla egyenlegét kell az elszámolóházzal pénzügyileg rendezni. Az elszámolóházzal történő pénzügyi rendezést követően az ügyféllel történő elszámolás során:
+(10)[^195] A tőzsdén teljesített – azonnali – bizományi ügylet esetén, a hitelintézet döntésétől függően az ügyletkötéskor, de legkésőbb a pénzügyi rendezéskor az eladóval, illetve a vevővel (más befektetési szolgáltatóval) szembeni kötelezettséget, illetve követelést is fel kell venni a könyvekbe egy – az egyéb követeléseken belül megnyitott – elszámolási számlával (a továbbiakban: bizományosi elszámolási számla) szemben. Az adott tőzsdenapi ügyletek pénzügyi rendezésekor az eladásokból származó összes követelést, illetve a vételekből származó összes kötelezettséget – a sajátszámlás ügyletekkel azonos módon, az egyéb követeléseken belül megnyitott – elszámolási számlára (a továbbiakban: tőzsdei elszámolási számla) kell átvezetni, és a számla egyenlegét kell az elszámolóházzal pénzügyileg rendezni. Az elszámolóházzal történő pénzügyi rendezést követően az ügyféllel történő elszámolás során:
 
 a) vételi megbízás esetén az ügyféllel szembeni kötelezettséget kell csökkenteni a bizományosi elszámolási számlával szemben,
 
@@ -76,7 +76,7 @@ b) eladási megbízás esetén el kell számolni az ügyféllel szembeni kötele
 
 (17) Az ügyfél által a hitelintézet részére ügynökön keresztül átutalt (fizetett), de a hitelintézethez még be nem folyt pénzösszeget az ügynök – pénz átvételéről szóló – igazolása alapján a 0. Nyilvántartási számlák számlaosztályban kell kimutatni.
 
-(18)[^193] A mérleg fordulónapján, illetve a hóvégi záráskor a pénzügyileg még nem rendezett, tőzsdén kötött bizományi ügyletekből – a (10) bekezdés szerinti elszámolásból – adódóan, a mérlegbe a vevővel, illetve az eladóval (más befektetési szolgáltatóval) szembeni követelést, illetve kötelezettséget nem lehet beállítani, ezért a mérleg fordulónapján, illetve – az összehasonlíthatóság biztosítása érdekében – a hóvégi záráskor azok összegét – ha a bizományosként eljáró hitelintézet a kötés napján és nem a pénzügyi rendezéskor vette fel könyveibe – a bizományosi elszámolási számlával szemben sztornírozni kell, és a 0. Nyilvántartási számlák számlaosztályba kell felvenni, valamint a kiegészítő mellékletben be kell mutatni. Az üzleti évet követő évben, illetve a hóvégi zárást követő hónap elején ezeket a tételeket nyitó rendező tételként kell ismét a követelés, illetve kötelezettség számlákra felvenni a bizományosi elszámolási számlával szemben.
+(18)[^196] A mérleg fordulónapján, illetve a hóvégi záráskor a pénzügyileg még nem rendezett, tőzsdén kötött bizományi ügyletekből – a (10) bekezdés szerinti elszámolásból – adódóan, a mérlegbe a vevővel, illetve az eladóval (más befektetési szolgáltatóval) szembeni követelést, illetve kötelezettséget nem lehet beállítani, ezért a mérleg fordulónapján, illetve – az összehasonlíthatóság biztosítása érdekében – a hóvégi záráskor azok összegét – ha a bizományosként eljáró hitelintézet a kötés napján és nem a pénzügyi rendezéskor vette fel könyveibe – a bizományosi elszámolási számlával szemben sztornírozni kell, és a 0. Nyilvántartási számlák számlaosztályba kell felvenni, valamint a kiegészítő mellékletben be kell mutatni. Az üzleti évet követő évben, illetve a hóvégi zárást követő hónap elején ezeket a tételeket nyitó rendező tételként kell ismét a követelés, illetve kötelezettség számlákra felvenni a bizományosi elszámolási számlával szemben.
 
 (19) Portfolió-kezelési tevékenység során a hitelintézet ügyfelenként naprakész nyilvántartást köteles vezetni az ügyfél vagyonát képező pénzeszközökről – az ügyfélszámla alapján – és értékpapírokról, valamint részesedésekről (az ügyfél befektetéseiről) – a 0. Nyilvántartási számlák számlaosztályban vezetett nyilvántartás alapján – azok kamatáról, osztalékáról, valamint az ügyfél javára megkötött ügyletekről és az ügylet realizált eredményéről (árfolyamnyereségéről, illetve árfolyamveszteségéről).
 
@@ -84,10 +84,10 @@ b) eladási megbízás esetén el kell számolni az ügyféllel szembeni kötele
 
 (21) A hitelintézet a portfolió-kezelési tevékenység során az ügyfél javára megkötött ügyleteket külön-külön, a bizományi ügyletekre vonatkozó, (8)–(18) bekezdés szerint köteles elszámolni.
 
-(22)[^194] A bizományi, ügynöki, letétkezelési és portfoliókezelési tevékenység esetében, az ügyféllel való elszámoláskor, az ügyfél vagyonát érintő gazdasági eseményekről tételes kimutatást kell az ügyfél rendelkezésére bocsátani. A kimutatás rendelkezésre bocsátásától el lehet tekinteni, ha az ügyfél – a vele való írásbeli megállapodás alapján – arra nem tart igényt.
+(22)[^197] A bizományi, ügynöki, letétkezelési és portfoliókezelési tevékenység esetében, az ügyféllel való elszámoláskor, az ügyfél vagyonát érintő gazdasági eseményekről tételes kimutatást kell az ügyfél rendelkezésére bocsátani. A kimutatás rendelkezésre bocsátásától el lehet tekinteni, ha az ügyfél – a vele való írásbeli megállapodás alapján – arra nem tart igényt.
 
-[^190]: A 16. § (6) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^191]: A 16. § (7) bekezdése a 291/2001. (XII. 26.) Korm. rendelet 14. §-ával megállapított szöveg, e módosító rendelet 22. §-a (1) bekezdésének b) pontja alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
-[^192]: A 16. § (10) bekezdése a 291/2001. (XII. 26.) Korm. rendelet 22. §-ának (3) bekezdése, az 518/2013. (XII. 30.) Korm. rendelet 34. § 10. pontja szerint módosított szöveg.
-[^193]: A 16. § (18) bekezdése a 291/2001. (XII. 26.) Korm. rendelet 22. §-ának (3) bekezdése szerint módosított szöveg, e módosító rendelet 22. §-a (1) bekezdésének b) pontja alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
-[^194]: A 16. § (22) bekezdését a 357/2006. (XII. 27.) Korm. rendelet 7. §-a iktatta be, alkalmazására lásd e módosító rendelet 24. § (1)–(2) bekezdését.
+[^193]: A 16. § (6) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^194]: A 16. § (7) bekezdése a 291/2001. (XII. 26.) Korm. rendelet 14. §-ával megállapított szöveg, e módosító rendelet 22. §-a (1) bekezdésének b) pontja alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
+[^195]: A 16. § (10) bekezdése a 291/2001. (XII. 26.) Korm. rendelet 22. §-ának (3) bekezdése, az 518/2013. (XII. 30.) Korm. rendelet 34. § 10. pontja szerint módosított szöveg.
+[^196]: A 16. § (18) bekezdése a 291/2001. (XII. 26.) Korm. rendelet 22. §-ának (3) bekezdése szerint módosított szöveg, e módosító rendelet 22. §-a (1) bekezdésének b) pontja alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
+[^197]: A 16. § (22) bekezdését a 357/2006. (XII. 27.) Korm. rendelet 7. §-a iktatta be, alkalmazására lásd e módosító rendelet 24. § (1)–(2) bekezdését.
