@@ -6,6 +6,6 @@ a) a bevett egyház vagy annak belső egyházi jogi személye tartási, életjá
 
 b) jelzálog-hitelintézet a jelzálog-hitelintézetről és a jelzáloglevélről szóló törvényben foglalt korlátozásokkal és időtartamra,
 
-c) a föld fekvése szerint illetékes települési önkormányzat a fővárosban a fővárosi kerületi önkormányzat (a továbbiakban együtt: települési önkormányzat) közfoglalkoztatás és településfejlesztés céljára
+c) a föld fekvése szerint illetékes települési önkormányzat közfoglalkoztatás és szociális földprogram és településfejlesztés céljára
 
 szerezheti meg.

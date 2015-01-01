@@ -68,6 +68,8 @@ c) e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdas�
 
 d) a mezőgazdasági és vidékfejlesztési támogatási szervnél pályakezdő mezőgazdasági termelőként nyilvántartásba vételre kerül;
 
+22a. rekreációs célú földszerzés: a földművesnek nem minősülő belföldi természetes személy vagy tagállami állampolgár által a települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat (a továbbiakban együtt: települési önkormányzat) tulajdonában álló és határozattal ilyen célú megszerzésre kijelölt, legfeljebb 1 hektár területnagyságú föld megszerzése abból a célból, hogy a szerző fél a földet a saját, valamint az együttélő családtagjai szükségleteit meg nem haladó mértékben használja és szedje annak hasznait;
+
 23. szomszédos föld: az olyan föld, amely – a település közigazgatási határától függetlenül – a jogügylet tárgyát képező földdel közvetlenül, illetve önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna közbeékelődésével közvetve érintkezik;
 
 24. tagállami állampolgár: az Európai Unió tagállamának állampolgára, az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgára, valamint a nemzetközi szerződés alapján velük egy tekintet alá eső állam állampolgára, ide nem értve a belföldi természetes személyt;

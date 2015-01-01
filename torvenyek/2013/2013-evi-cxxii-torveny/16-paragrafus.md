@@ -1,6 +1,6 @@
 ## 5. A földtulajdon, illetve a birtokban tartható összes föld megengedett mértéke
 
-16. § (1) A földműves, valamint a 10. § (3) bekezdésében meghatározott személy a föld tulajdonjogát – a már tulajdonában és a haszonélvezetében lévő föld területnagyságának a beszámításával – 300 hektár mértékig szerezheti meg (földszerzési maximum).
+16. § (1) A földműves, valamint a 10. § (3) és (3a) bekezdésben meghatározott módon szerző személy a föld tulajdonjogát – a már tulajdonában és a haszonélvezetében lévő föld területnagyságának a beszámításával – 300 hektár mértékig szerezheti meg (földszerzési maximum).
 
 (2) A földműves, valamint mezőgazdasági termelőszervezet – a (3) bekezdésben meghatározott esetek kivételével – a föld birtokát – a már birtokában lévő föld területnagyságának a beszámításával – legfeljebb 1200 hektár mértékig szerezheti meg (birtokmaximum).
 

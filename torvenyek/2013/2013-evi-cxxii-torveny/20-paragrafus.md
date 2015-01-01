@@ -1,4 +1,4 @@
-20. § E törvény szerinti elővásárlási jog nem áll fenn
+20. § Elővásárlási jog nem áll fenn
 
 a) a közeli hozzátartozók közötti adás-vétel,
 
@@ -6,6 +6,8 @@ b) a tulajdonostársak közötti, a közös tulajdon megszüntetését eredmény
 
 c) a földnek jogszabályban foglalt módon, támogatás feltételeként más földműves részére való átadásával megvalósuló adás-vétel,
 
-d) a 11. § (2) bekezdés c) pontjában meghatározott célból történő adás-vétel
+d) a 11. § (2) bekezdés c) pontjában meghatározott célból történő adás-vétel,
+
+e) rekreációs célú földszerzés
 
 esetén.

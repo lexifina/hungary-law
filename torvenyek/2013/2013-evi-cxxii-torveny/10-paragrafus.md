@@ -6,4 +6,6 @@
 
 (3) A (2) bekezdésben foglaltakat nem kell alkalmazni, ha földművesnek nem minősülő belföldi természetes személy vagy tagállami állampolgár a tulajdonjogot átruházó személy közeli hozzátartozója.
 
+(3a) A (2) bekezdést nem kell alkalmazni a rekreációs célú földszerzés esetén.
+
 (4) A (2) bekezdésben meghatározott tulajdonszerzési jogosultság mértékének megállapításánál a területnagyság mértékébe a földdel azonos helyrajzi számon nyilvántartott művelés alól kivett terület (alrészlet) területnagyságát is be kell számítani.
