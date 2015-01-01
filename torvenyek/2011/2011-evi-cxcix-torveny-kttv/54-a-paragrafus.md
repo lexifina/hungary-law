@@ -1,6 +1,6 @@
 ## Tartós külszolgálat
 
-54/A. § (1) A külpolitikáért felelős miniszter által vezetett minisztérium kormánytisztviselője – ideértve az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt is – a hivatali szervezet vezetőjének döntése alapján kihelyezhető külképviseleten teljesített közszolgálatra (a továbbiakban: tartós külszolgálat). A tartós külszolgálat tervezett időtartama – megszakítás nélkül – a három hónapot meghaladja.
+54/A. § (1) A külpolitikáért felelős miniszter által vezetett minisztérium kormánytisztviselője – ideértve az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt is – a munkáltatói jogok gyakorlójának döntése alapján – a munkakörébe tartozó feladatai alapján kizárólag európai uniós kérdésekért felelős diplomata esetében az európai uniós ügyek koordinációjáért felelős miniszter egyetértésével –, kihelyezhető külképviseleten teljesített közszolgálatra (a továbbiakban: tartós külszolgálat). A tartós külszolgálat tervezett időtartama – megszakítás nélkül – a három hónapot meghaladja.
 
 (2) A kormánytisztviselő tartós külszolgálatra hozzájárulásával helyezhető ki.
 

@@ -12,7 +12,7 @@ a) komplex felsőfokú (C1) nyelvvizsga esetében az illetményalap 50%-a, a sz�
 
 b) komplex középfokú (B2) nyelvvizsga esetében az illetményalap 30%-a, a szóbeli vagy írásbeli nyelvvizsga esetében 15-15%-a.
 
-(6) A (4) és (5) bekezdéstől eltérően az angol, francia és német nyelvek tekintetében a pótlék alanyi jogon jár, amelynek mértéke nyelvvizsgánként
+(6) A (4) és (5) bekezdéstől eltérően az angol, francia, német, arab, kínai és orosz nyelvek tekintetében a pótlék alanyi jogon jár, amelynek mértéke nyelvvizsgánként
 
 a) komplex felsőfokú (C1) nyelvvizsga esetében az illetményalap 100%-a,
 

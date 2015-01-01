@@ -6,7 +6,7 @@
 
 3. beosztás szerinti napi munkaidő: a munkanapra elrendelt rendes munkaidő;
 
-4. egyéb jogviszony: különösen a munkaviszony, állami vezetői szolgálati jogviszony, fennálló kormányzati szolgálati jogviszony esetén közszolgálati jogviszony (fennálló közszolgálati jogviszony esetében kormányzati szolgálati jogviszony), közalkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony és a közérdekű önkéntes tevékenység végzésére irányuló jogviszony;
+4. egyéb jogviszony: különösen a munkaviszony, állami vezetői szolgálati jogviszony, fennálló kormányzati szolgálati jogviszony esetén közszolgálati jogviszony (fennálló közszolgálati jogviszony esetében kormányzati szolgálati jogviszony), közalkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony és a közérdekű önkéntes tevékenység végzésére irányuló jogviszony;
 
 5. éjszakai munka: a huszonkét és hat óra közötti időszakban teljesített munkavégzés;
 
@@ -66,7 +66,7 @@ b) ha a közigazgatási szerv hivatali szervezetének vezetője közjogi szervez
 
 27. pályakezdő kormánytisztviselő, köztisztviselő: az, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzését követően egy éven belül első foglalkoztatási jogviszonyként kormányzati szolgálati, illetve közszolgálati jogviszonyt létesít;
 
-28. pártfogó felügyelő: aki pártfogó felügyelői véleményt, környezettanulmányt készít, büntetőügyben közvetítői eljárást folytat le, szervezi és ellenőrzi a közérdekű munka végrehajtását, az egyéni pártfogó felügyelői terv szerint végrehajtja a pártfogó felügyeletet, pártfogói tevékenységet lát el a büntetés-végrehajtási intézetben, végzi az utógondozást, valamint ellátja a jogszabályban meghatározott más feladatait;
+28. pártfogó felügyelő: aki pártfogó felügyelői véleményt, környezettanulmányt készít, büntetőügyben közvetítői eljárást folytat le, gondoskodik a közérdekű munka végrehajtásáról, az egyéni pártfogó felügyelői terv szerint végrehajtja a pártfogó felügyeletet, pártfogói tevékenységet lát el a büntetés-végrehajtási intézetben, végzi az utógondozást, valamint ellátja a jogszabályban meghatározott más feladatait;
 
 29. szakmai vezető: a minisztériumban kinevezett közigazgatási államtitkár, valamint helyettes államtitkár;
 

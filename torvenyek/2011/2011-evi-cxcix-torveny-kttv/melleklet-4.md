@@ -6,7 +6,7 @@
 
 ## 3. születési ideje
 
-## 4. lakcímadatai (lakóhelye, tartózkodási helye), telefonszáma, e-mail cím
+## 4. lakcímadatai (lakóhelye, tartózkodási helye), telefonszáma, e-mail címe
 
 ## II.
 
@@ -69,3 +69,15 @@
 4. melléklet a 2011. évi CXCIX. törvényhez
 
 A toborzási adatbázis adatköre
+
+## I.
+
+## 1. családi és utónév
+
+## 2. születési hely, idő
+
+## 3. lakcím, telefonszám, email cím
+
+## II.
+
+## 1. szakmai tapasztalat

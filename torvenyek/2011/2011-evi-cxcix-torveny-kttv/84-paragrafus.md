@@ -2,4 +2,4 @@
 
 84. § (1) Nem létesíthető kormányzati szolgálati jogviszony, ha a kormánytisztviselő ezáltal hozzátartozójával irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne.
 
-(2) A külpolitikáért felelős miniszter a külszolgálati hálózat tekintetében – ha jogszabály másként nem rendelkezik – az (1) bekezdésben foglalt tilalom alól – különösen indokolt esetben – felmentést adhat.
+(2) A külpolitikáért felelős miniszter a külszolgálati hálózat tekintetében, illetve az európai uniós ügyek koordinációjáért felelős miniszter az Állandó Képviselet tekintetében – ha jogszabály másként nem rendelkezik – az (1) bekezdésben foglalt tilalom alól különösen indokolt esetben felmentést adhat.

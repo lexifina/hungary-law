@@ -1,4 +1,4 @@
-## A minisztériumokban és foglalkoztatottak jogviszonyával összefüggő adatkezelés egyes szabályai, a közszolgálati nyilvántartás
+## A minisztériumokban foglalkoztatottak jogviszonyával összefüggő adatkezelés egyes szabályai, a közszolgálati nyilvántartás
 
 185. § (1) A minisztériumokban és foglalkoztatottakra a 176–184. §-ban foglalt rendelkezéseket a 185–188. §-ban foglalt eltérésekkel kell megfelelően alkalmazni.
 

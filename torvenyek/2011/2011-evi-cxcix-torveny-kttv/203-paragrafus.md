@@ -10,7 +10,7 @@
 
 (5) A (2)–(4) bekezdésekben meghatározott munkakörök száma nem haladhatja meg az államigazgatási szervnél foglalkoztatott kormánytisztviselők létszámának 8%-át. Az (1)–(3) bekezdésekben foglaltak szerint megállapított munkaköröket a szervezeti és működési szabályzat (ügyrend) mellékletében kell feltüntetni.
 
-(6) A kinevezés a miniszterelnök, a miniszter vagy az államtitkár megbízatásának idejére szól.
+(6) A kinevezés a miniszterelnök, a miniszter vagy az államtitkár megbízatásának idejére, vagy a megbízatás megszűnése esetén a miniszterelnök, a miniszter vagy az államtitkár hatáskörgyakorlása idejére szól.
 
 (7) Politikai főtanácsadói, politikai tanácsadói munkakörbe az nevezhető ki, aki felsőfokú iskolai végzettséggel és a 40. § (1) bekezdésben előírt egyéb feltételekkel rendelkezik. A politikai főtanácsadó, politikai tanácsadó a kormánytisztviselőkre vonatkozó szabályok szerint közigazgatási alap- és szakvizsgát tehet. A vizsgák költségei a politikai főtanácsadót, politikai tanácsadót terhelik, mely költségeket a közigazgatási szerv átvállalhatja.
 

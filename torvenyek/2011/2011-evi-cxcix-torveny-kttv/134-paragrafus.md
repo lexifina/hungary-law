@@ -16,7 +16,7 @@
 
 8. a földmérési és térinformatikai államigazgatási szervnél,
 
-9. az államháztartásért felelős miniszter irányítása alatt álló, egyes európai uniós támogatások ellenőrzését végző központi hivatalnál,
+9. az államháztartásért felelős miniszter irányítása alatt álló, egyes európai támogatásokat auditáló szervnél,
 
 10. az egészségügyért felelős miniszter irányítása alatt álló, egyes egészségügyi intézményekkel kapcsolatos fenntartói, továbbá egészségszervezési, minőségügyi, egyes hatósági és továbbképzéssel kapcsolatos feladatokat együttesen ellátó központi hivatalnál,
 

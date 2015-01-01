@@ -112,7 +112,7 @@ b) a közigazgatási alap- és szakvizsgára, az ügykezelői alapvizsgára, val
 
 c) a továbbképzés minősítési és nyilvántartási rendjére, tervezésére, a képzésfejlesztés és szolgáltatás feltételeire, a minőségirányítás rendjére, a továbbképzési kötelezettségre, a továbbképzés pénzügyi és intézményi feltételeire vonatkozó részletes szabályokat;
 
-18. állapítsa meg a gyermek születése esetén az apát megillető pótszabadsággal összefüggő költségek megtérítésére vonatkozó szabályokat.
+18. állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat;
 
 19. a közszolgálati tisztviselők tekintetében a garantált bérminimum összegét és hatályát – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően – megállapítsa.
 
@@ -130,7 +130,9 @@ rendeletben állapítsa meg.
 
 (3a) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységgel kapcsolatos pártfogó felügyelői feladatokat ellátó kormánytisztviselők igazolványára vonatkozó szabályokat rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben részletesen szabályozza a tartós külszolgálatot teljesítő közszolgálati tisztviselők külföldi munkavégzésének sajátos szabályait, valamint alapellátmányuk kifizetésének szabályait.
+(4) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy – az Állandó Képviseleten teljesített tartós külszolgálat kivételével – rendeletben részletesen szabályozza a tartós külszolgálatot teljesítő közszolgálati tisztviselők külföldi munkavégzésének sajátos szabályait, valamint alapellátmányuk kifizetésének szabályait.
+
+(4a) Felhatalmazást kap az európai uniós ügyek koordinációjáért felelős miniszter, hogy az Állandó Képviseleten teljesített tartós külszolgálat tekintetében rendeletben részletesen szabályozza a tartós külszolgálatot teljesítő közszolgálati tisztviselők külföldi munkavégzésének sajátos szabályait, valamint alapellátmányuk kifizetésének szabályait.
 
 (5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg
 

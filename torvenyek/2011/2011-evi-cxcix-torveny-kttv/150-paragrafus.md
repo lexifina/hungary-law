@@ -24,7 +24,7 @@ c) a hivatásos szolgálati jogviszony időtartamát, továbbá
 
 d) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban, valamint
 
-e) a hivatásos nevelő szülői jogviszonyban,
+e) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban,
 
 f) az e törvény, a Ktv., Ktjv., illetőleg a Kjt. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
 
