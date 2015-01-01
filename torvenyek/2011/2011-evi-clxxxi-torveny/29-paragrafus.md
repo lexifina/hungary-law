@@ -6,7 +6,7 @@ a) az eljárásra a bíróság joghatósága törvény, európai uniós jogszab�
 
 b) a jogi képviselő által benyújtott kérelem nem tartalmazza a 20. § (1) bekezdésében foglaltakat vagy a kérelemhez a meghatalmazást nem csatolták vagy
 
-c)
+c) a jogi képviselővel rendelkező kérelmező vagy az elektronikus eljárásra kötelezett kérelmező kérelmét nem elektronikus úton terjesztette elő,
 
 d) a kérelmezőnek nincs perbeli jogképessége,
 

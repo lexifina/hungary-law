@@ -1,1 +1,1 @@
-### 102. §
+102. § Ha az e törvény hatálybalépése előtt nyilvántartásba vett szervezet esetében változásbejegyzési kérelmet nyújtanak be – és a kérelmet nem kell érdemi vizsgálat nélkül elutasítani vagy nem az ügy áttételének van helye –, a bíróság a szervezetre vonatkozó a változásbejegyzési kérelem elbírálásához szükséges iratokat elektronizálja, és az iratok elektronikus másolatát az informatikai rendszerben tárolja. A bíróság számára az iratok elektronizálásra nyitva álló határidő öt munkanap, amelyet a határidők számítása szempontjából figyelmen kívül kell hagyni.

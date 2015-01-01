@@ -1,6 +1,6 @@
 ## 21. Az alapítvány nyilvántartásba vételére irányuló kérelem tartalmi elemei
 
-48. § (1) Az alapítvány nyilvántartásba vétele iránti kérelemnek a 20. §-ban foglaltakon túlmenően tartalmaznia kell a kurátor nevét, illetve a kuratórium megnevezését, a kuratórium tagjainak vagy a kurátornak a lakóhelyét (székhelyét) is.
+48. § (1) Az alapítvány nyilvántartásba vétele iránti kérelemnek a 20. §-ban foglaltakon túlmenően tartalmaznia kell a kurátor nevét, illetve a kuratórium megnevezését, a kuratórium tagjainak vagy a kurátornak a lakóhelyét (székhelyét), anyja születési nevét is.
 
 (2) Az alapítvány nyilvántartásba vétele iránti kérelemben nyilatkozni kell a következőkről is:
 

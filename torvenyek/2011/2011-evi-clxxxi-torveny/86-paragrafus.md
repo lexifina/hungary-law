@@ -1,4 +1,4 @@
-86. § (1) A nyilvántartás közhiteles.
+86. § (1) A civil és egyéb cégnek nem minősülő szervezetek nyilvántartása és az országos névjegyzék közhiteles.
 
 (2) A nyilvántartás fennálló, illetve törölt adatai nyilvánosak, azok az országos névjegyzék útján az interneten azonosítás nélkül megtekinthetőek.
 
@@ -6,4 +6,4 @@
 
 (4) Az egyesület szerve ülésének jelenléti íve, valamint az egyesület tagjairól készült nyilvántartás nem nyilvános.
 
-(5)
+(5) A szervezet nem nyilvános, az informatikai rendszerben tárolt iratairól külön törvény alapján, elektronikus úton teljesített adatszolgáltatás esetében, az adatszolgáltatás jogcímét, időpontját és az adatkérő személyét azonosítható módon rögzíteni kell. A rögzített adatokat az informatikai rendszer útján kell megőrizni.

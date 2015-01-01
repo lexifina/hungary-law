@@ -1,1 +1,1 @@
-### 3. §
+3. § Az e törvényben szabályozott polgári nemperes eljárásokban a bíróság az Országos Bírósági Hivatal (a továbbiakban: OBH) által működtetett, a bíróságok, valamint a felek és az eljárásban részt vevő egyéb személyek részére rendelkezésre álló, az interneten elérhető országosan egységes számítástechnikai rendszere (a továbbiakban: informatikai rendszer) használatával, gépi adatfeldolgozással jár el.

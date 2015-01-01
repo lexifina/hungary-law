@@ -6,7 +6,7 @@
 
 (4) Másolat, kivonat és bizonyítvány a nyilvántartást vezető bíróságtól kérhető, a kérelem teljesítéséről határozatot hozni nem kell.
 
-(5)
+(5) A kérelmező a bíróságtól az elektronikus közokiratról jogszabályban meghatározott módon papír alapú másolatot kérhet. Az elektronikus közokiratról jogszabályban meghatározott módon készített papír alapú másolat közokirat.
 
 (6) A szervezet adatairól – kizárólag írásban – kivonatot kérhet
 
