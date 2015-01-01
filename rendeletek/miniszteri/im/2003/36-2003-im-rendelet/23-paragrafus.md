@@ -1,3 +1,0 @@
-## VI. Fejezet
-
-## A KÓROS ELMEÁLLAPOTÚ ELÍTÉLT GYÓGYKEZELÉSE
