@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-43-00-00
 | 2014-01-01 | 2013. évi CXXVII. törvény | 1999-43-00-00.18 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1999-43-00-00.19 |
 | 2014-07-01 | 2013. évi LXXVI. törvény | 1999-43-00-00.20 |
+| 2015-01-01 | 2013. évi CXXXVIII. törvény | 1999-43-00-00.21 |
