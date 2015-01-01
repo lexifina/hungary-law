@@ -2,6 +2,8 @@
 
 10. § (1) A felügyeleti szerv a kijelölt egyetemes útdíjszolgáltatót nyilvántartásba veszi.
 
+(1a)[^3] Az egyetemes útdíjszolgáltatónak nem minősülő útdíjszolgáltatót a felügyeleti szerv az útdíjszolgáltató hiánytalanul benyújtott kérelmét követő 180 napon belül veszi nyilvántartásba.
+
 (2) A magyarországi székhellyel rendelkező EETS szolgáltatót, valamint az EETS szolgáltatónak nem minősülő útdíjszolgáltatót a felügyeleti szerv nyilvántartásba veszi, amennyiben az alábbi feltételeknek eleget tesz:
 
 a) rendelkezik az útdíjszedővel kötött hatályos szerződéssel;
@@ -16,13 +18,13 @@ b) amelyet szociális, egészségvédelmi, munka-, illetve vámjogi jogszabályo
 
 c) amelyet a felügyeleti szerv az útdíjszolgáltatók nyilvántartásából nem törölt,
 
-d)[^3] továbbá amelynek a Polgári Törvénykönyv szerinti vezető tisztségviselőjénél, egyéni cég ügyvezetését ellátó személynél, vagy az egyéni vállalkozónál (a továbbiakban: vezető) személyes megbízhatóságot kizáró ok nem áll fenn.
+d)[^4] továbbá amelynek a Polgári Törvénykönyv szerinti vezető tisztségviselőjénél, egyéni cég ügyvezetését ellátó személynél, vagy az egyéni vállalkozónál (a továbbiakban: vezető) személyes megbízhatóságot kizáró ok nem áll fenn.
 
 (4) A vezető személyes megbízhatóságát kizárja, ha
 
 a) egyéni vállalkozói igazolványát visszavonták, amennyiben egyéni vállalkozóként végzi tevékenységét;
 
-b)[^4] vezető volt olyan polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetnél (a továbbiakban: gazdálkodó szervezet), amelyet a cégbíróság kényszertörlési eljárás során a cégjegyzékből törölt;
+b)[^5] vezető volt olyan polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetnél (a továbbiakban: gazdálkodó szervezet), amelyet a cégbíróság kényszertörlési eljárás során a cégjegyzékből törölt;
 
 c) a korábban vezetése alatt álló gazdálkodó szervezetet vezetői megbízatása alatt szociális, egészségvédelmi, munka-, illetve vámjogi jogszabályokban előírt kötelezettségeinek teljesítésében jelentkező súlyos vagy ismétlődő mulasztás miatt jogerősen elmarasztalták;
 
@@ -34,5 +36,6 @@ d) vezető volt olyan útdíjszolgáltatói tevékenységet végző szervezetné
 
 (7) Nem magyar állampolgár esetében az érintett vezető személyes jogának rendelkezései, a (4) bekezdés c) pontja esetében pedig az ott írt okokból elmarasztalt gazdálkodó szervezet személyes jogának rendelkezései az irányadók.
 
-[^3]: A 10. § (3) bekezdés d) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § a) pontja szerint módosított szöveg.
-[^4]: A 10. § (4) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^3]: A 10. § (1a) bekezdését a 361/2014. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^4]: A 10. § (3) bekezdés d) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § a) pontja szerint módosított szöveg.
+[^5]: A 10. § (4) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.

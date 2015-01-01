@@ -1,4 +1,4 @@
-## 50–51. §[^11]
+## 50–51. §[^12]
 
 ## 23. Az Európai Unió jogának való megfelelés
 
@@ -18,4 +18,4 @@ való megfelelést szolgálja.
 
 (3) E rendelet 1. és 10. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 16. cikkének való megfelelést szolgálja.
 
-[^11]: Az 50–51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: Az 50–51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
