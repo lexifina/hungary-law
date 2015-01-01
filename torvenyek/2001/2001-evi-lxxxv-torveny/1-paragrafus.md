@@ -10,7 +10,7 @@ b) amelynek során különleges intézkedések alkalmazása (16. §), illetve �
 
 2. megállapodás: a rendőrség és a fenyegetett helyzetben lévő személy által – polgári jogi jogviszony keretében – megkötött, a Védelmi Programba való felvételről, az abban való együttműködésről, a Védelmi Programban résztvevők jogairól és kötelezettségeiről szóló megállapodás;
 
-3. személyi védelem: a rendőrségnek, a vám- és pénzügyőrségnek, valamint a büntetés-végrehajtási szervezetnek a büntetőeljárásban résztvevők, valamint az eljárást folytató hatóság tagjai személyi védelme elrendelésének feltételeiről és végrehajtási szabályairól szóló külön jogszabály (a továbbiakban: a személyi védelemről szóló jogszabály) szerint folytatott intézkedése;
+3. személyi védelem: a rendőrségnek, a Nemzeti Adó- és Vámhivatalnak, valamint a büntetés-végrehajtási szervnek a büntetőeljárásban résztvevők, valamint az eljárást folytató hatóság tagjai személyi védelme elrendelésének feltételeiről és végrehajtási szabályairól szóló külön jogszabály (a továbbiakban: a személyi védelemről szóló jogszabály) szerint folytatott intézkedése;
 
 4. büntetőeljárásban résztvevő: a terhelt, a védő, a sértett, az egyéb érdekeltek, a sértett és az egyéb érdekeltek képviselői, a tanú, a tanú ügyvédje, a szakértő, szaktanácsadó, a tolmács, a hatósági tanú;
 

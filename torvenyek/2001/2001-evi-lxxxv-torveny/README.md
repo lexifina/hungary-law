@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-85-00-00
 | 2013-01-01 | 2012. évi CCXI. törvény | 2001-85-00-00.12 |
 | 2014-07-01 | 2013. évi LXXVI. törvény | 2001-85-00-00.13 |
 | 2014-07-18 | 2014. évi XXX. törvény | 2001-85-00-00.14 |
+| 2015-01-01 | 2014. évi LXXII. törvény | 2001-85-00-00.15 |
