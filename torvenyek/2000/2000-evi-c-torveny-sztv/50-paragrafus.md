@@ -15,3 +15,5 @@
 (8) A külföldi székhelyű vállalkozás magyarországi fióktelepe működése során, a (7) bekezdésben foglaltakon túlmenően, beszerzésként – a 48. § (5) bekezdésében előírtak esetén importbeszerzésként – köteles elszámolni a külföldi székhelyű vállalkozástól, vagy annak más fióktelepétől kapott eszköz számla szerinti értékét. Az így állományba vett eszköz bekerülési (beszerzési) értéke – ez esetben is – magában foglalja mindazon 47–51. § szerinti tételeket, amelyek az eszközhöz egyedileg hozzákapcsolhatók.
 
 (9) A kezelt vagyonra szóló tartós követelés bekerülési értéke a bizalmi vagyonkezelésbe adott eszközök bizalmi vagyonkezelési szerződés szerinti, együttes értéke.
+
+(10) Pótbefizetésként, illetve a pótbefizetés visszafizetéseként kapott eszköz bekerülési (beszerzési) értéke az eszköz pótbefizetésről, illetve a pótbefizetés visszafizetésről hozott közgyűlési, alapítói, taggyűlési határozatban meghatározott értéke.

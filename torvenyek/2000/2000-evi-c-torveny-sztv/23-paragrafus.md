@@ -6,4 +6,4 @@
 
 (4) Az eszközöket rendeltetésük, használatuk alapján kell a befektetett eszközök vagy a forgóeszközök közé sorolni.
 
-(5) Amennyiben az eszközök használata, rendeltetése a (4) bekezdés szerinti besorolást követően megváltozik, mert az eszköz a tevékenységet, a működést tartósan már nem szolgálja vagy fordítva, akkor azok besorolását meg kell változtatni; a befektetett eszközt át kell sorolni a forgóeszközök közé vagy fordítva.
+(5) Amennyiben egy adott eszköz használata, rendeltetése a (4) bekezdés szerinti besorolást követően megváltozik, mert az eszköz a tevékenységet, a működést tartósan már nem szolgálja vagy fordítva, akkor annak besorolását meg kell változtatni; az eszközt – legkésőbb a mérlegkészítés időszakában, a mérlegfordulónapra vonatkozóan – át kell sorolni a befektetett eszközök közül a forgóeszközök közé vagy fordítva, a forgóeszközök közül a befektetett eszközök közé.

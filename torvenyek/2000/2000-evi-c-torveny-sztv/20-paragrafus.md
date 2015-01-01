@@ -14,4 +14,6 @@ b) pénzügyi eszközei és pénzügyi kötelezettségei
 
 az előző és a tárgyévi üzleti évben külön-külön több mint 25%-ban az adott devizában merülnek fel. [A feltételek fennállásának megállapításánál az a), illetve a b) pontban felsorolt tételek együttes összegét kell külön-külön figyelembe venni. A b) pont szerinti tételeknél a mérlegen kívüli tételeket figyelmen kívül kell hagyni.] Devizában felmerült tételként lehet figyelembe venni a devizaalapú tételeket is.
 
+(5a) Amennyiben a vállalkozó az éves beszámolót a (3)–(5) bekezdés szerint a létesítő okiratban rögzített devizában készíti el, az e törvényben egyes rendelkezések alkalmazásának feltételeként forintban meghatározott értékhatárokat a Magyar Nemzeti Bank által az adott időpontra vonatkozóan közzétett, hivatalos devizaárfolyamon történő átszámítással kell figyelembe venni.
+
 (6) Az éves beszámoló részét képező mérleget, eredménykimutatást és kiegészítő mellékletet a hely és a kelet feltüntetésével a vállalkozó képviseletére jogosult személy köteles aláírni.

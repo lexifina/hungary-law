@@ -6,7 +6,7 @@ b) a jegyzett tőke leszállítását az eredménytartalékkal szemben,
 
 c) a veszteség miatti negatív eredménytartalék ellentételezésére felhasznált tőketartalékot, lekötött tartalékot,
 
-d) a gazdasági társaság tulajdonosánál (tagjánál) a veszteség pótlásához nem szükséges – korábban ilyen címen adott – pótbefizetés visszakapott összegét a pénzmozgással egyidejűleg,
+d) a gazdasági társaság tulajdonosánál (tagjánál) a veszteség pótlásához nem szükséges – korábban ilyen címen adott – pótbefizetés visszakapott összegét a pénzmozgással, az eszközmozgással egyidejűleg,
 
 e) az eredménytartalékból lekötött tartalék visszavezetett összegét a lekötés feloldása alapján,
 
@@ -22,7 +22,7 @@ c) az eredménytartalék lekötött tartalékba átvezetett összegét,
 
 d) az üzleti év végén a tárgyévi adózott eredmény kiegészítéseként osztalékra, részesedésre, kamatozó részvény kamatára, továbbá az eredménytartalékot terhelő adóra igénybe vett összeget,
 
-e) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság veszteségének fedezetére teljesített – törvényi előíráson alapuló – pótbefizetés összegét a pénzmozgással egyidejűleg,
+e) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság veszteségének fedezetére teljesített – törvényi előíráson alapuló – pótbefizetés összegét a pénzmozgással, az eszközmozgással egyidejűleg,
 
 f) a tőkekivonással megvalósított jegyzett tőke leszállításához kapcsolódó – a jegyzett tőke leszállításával arányos – eredménytartalék-kivonás összegét,
 
@@ -35,3 +35,5 @@ g) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály al
 (5) Az ellenőrzés során a mérlegkészítés időpontjáig megállapított – az előző üzleti év(ek)re vonatkozó – jelentős összegű hibák elkülönítetten kimutatott eredményre gyakorolt hatásának összegét (mérleg szerinti eredményét) az eredménytartalékot növelő-csökkentő tételként a hiba megállapításának üzleti évében kell elszámolni.
 
 (6) Az adózott eredmény kiegészítéséhez a szabad eredménytartalék csak akkor vehető igénybe, ha az igénybevétel után a lekötött tartalékkal, továbbá az értékelési tartalékkal csökkentett saját tőke összege meghaladja a jegyzett tőke összegét.
+
+(7) Amennyiben a gazdasági társaság veszteségének fedezetére szolgáló – törvényi előíráson alapuló – pótbefizetés teljesítése nem pénzeszközzel történik, akkor a teljesítésként átadott eszközt – az eszközmozgással egyidejűleg – az értékesítés szabályai szerint kell elszámolni, azzal, hogy az így keletkezett követeléssel szemben kell az eredménytartalékot csökkenteni.

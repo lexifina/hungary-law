@@ -2,4 +2,4 @@
 
 (2) Exportértékesítés árbevételeként kell elszámolni a vásárolt és saját termelésű készlet külkereskedelmi termékforgalomban külföldi vevőnek történő értékesítésének, továbbá a külföldi igénybe vevő részére végzett szolgáltatásnyújtásnak a 75. § szerint meghatározott értékét, függetlenül attól, hogy azt devizában, valutában, forintban, termék- vagy szolgáltatásimporttal egyenlítik ki.
 
-(3) Az exportértékesítés árbevételét csökkenti a magyar határállomás és a külföldi rendeltetési hely közötti útszakaszra jutó – devizában, valutában vagy forintban számlázott, illetve fizetett – szállítási és rakodási-raktározási költség a számlázott, fizetett forintösszegben, a valutának, illetve a devizának a teljesítés napjára vonatkozó – a 60. § (4)–(6) bekezdése szerinti – devizaárfolyamon átszámított forintértékén.
+(3)

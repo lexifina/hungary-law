@@ -95,21 +95,3 @@ Korrekciós tételek, amelyeket figyelembe kell venni (a felsorolás nem teljes 
 6. Az egyéb sorokon kimutatott eszköz állományváltozásokat (a befektetési cash flow-val, a finanszírozási cash flow-val kapcsolatos tételek kivételével) növekedés esetén negatív előjellel, csökkenés esetén pozitív előjellel kell figyelembe venni, a forrás állományváltozásokat (a befektetési cash flow-val, a finanszírozási cash flow-val kapcsolatos tételek kivételével) pedig növekedés esetén pozitív előjellel, csökkenés esetén negatív előjellel kell beállítani.
 
 7. A ,,13. Fizetett (fizetendő) osztalék, részesedés'' sorban az adott időszak után fizetett (fizetendő, a mérlegkészítés időpontjáig ismertté vált) osztalék, részesedés és a kamatozó részvények után fizetett (fizetendő) kamat összegét kell kimutatni.
-
-8. A ,,14. Befektetett eszközök beszerzése'' sorban az adott időszakban beszerzett befektetett eszközök pénzügyileg rendezett beszerzési értékét kell kimutatni.
-
-9. A ,,15. Befektetett eszközök eladása'' sorban az adott időszakban eladott befektetett eszközök eladási árának pénzügyileg is rendezett értékét kell kimutatni, a kamatozó értékpapírok esetében az eladási árban lévő – felhalmozott – kamattal csökkentett összegben. Itt kell továbbá kimutatni a befektetett eszközök közé tartozó, hitelviszonyt megtestesítő értékpapírok beváltása miatt kapott, ténylegesen befolyt névérték összegét.
-
-10. A ,,17. Részvénykibocsátás, tőkebevonás bevétele'' soron az adott időszakban jegyzett tőke emelésből ténylegesen befolyt pénzösszeget kell kimutatni.
-
-11. A ,,18. Kötvény és hitelviszonyt megtestesítő értékpapír kibocsátásának bevétele'' soron az adott időszakban rövid és hosszú lejáratú kötvények és más hitelviszonyt megtestesítő értékpapírok kibocsátásából származó, befolyt pénzösszeget kell kimutatni.
-
-12. A ,,19. Hitel és kölcsön felvétele'' soron az adott időszakban felvett hitelből és igénybe vett kölcsönből befolyt pénzösszeget kell kimutatni.
-
-13. A ,,20. Hosszú lejáratra nyújtott kölcsönök, elhelyezett bankbetétek törlesztése, megszüntetése, beváltása'' soron a hosszú lejáratra nyújtott kölcsönök, illetve elhelyezett bankbetétek adott időszakban való törlesztéséből, illetve beváltásából, megszüntetéséből befolyt pénzösszeget kell kimutatni.
-
-14. A ,,21. Véglegesen kapott pénzeszközök'' soron az adott időszakban jogszabály alapján, a tőke-, illetve eredménytartalék javára véglegesen vagy az eredmény javára fejlesztési célból kapott (befolyt) pénzösszeget kell kimutatni.
-
-15. A „22. Részvénybevonás, tőkekivonás (tőkeleszállítás)” soron az adott időszakban jegyzett tőke leszállítás miatt a tulajdonosok részére kifizetett pénzösszeget kell kimutatni, valamint a bevont saját részvény, üzletrész visszavásárlási (nyilvántartás szerinti) értékét.
-
-16. A ,,23. Kötvény és hitelviszonyt megtestesítő értékpapírok visszafizetése'' soron a kibocsátott kötvények és más hitelviszonyt megtestesítő értékpapírok adott időszakban beváltott, törlesztett összegét kell kimutatni.

@@ -14,11 +14,13 @@ a) a kezelt vagyon előző üzleti évi mérleg szerinti eredményét (vesztesé
 
 b) a tartalék lekötött tartalékba átvezetett összegét;
 
-c) a bizalmi vagyonkezelés során teljesített hozamkifizetés összegét.
+c) a bizalmi vagyonkezelés során, az üzleti év végén a tárgyévi adózott eredmény kiegészítéseként hozamkifizetésre igénybe vett összeget.
 
 (5) A tartalékból kell lekötni, és a lekötött tartalékba átvezetni a 38. § (3) bekezdés c), d), g) pontja szerinti összegeket. A lekötött tartalék feloldását a tartalékkal szemben kell elszámolni.
 
 (6) Értékelési tartalékként a 39. § (1) bekezdése szerinti összegeket lehet kimutatni.
+
+(6a) A mérleg szerinti eredmény a hozamkifizetésre igénybe vett tartalékkal növelt, a jóváhagyott hozamkifizetéssel csökkentett tárgyévi adózott eredmény, egyezően az eredménykimutatásban ilyen címen kimutatott összeggel.
 
 (7) Bizalmi vagyonkezelés során a tárgyévi adózott eredményből, illetve a tartalékkal kiegészített tárgyévi adózott eredményből akkor teljesíthető hozamkifizetés, ha a lekötött tartalékkal, továbbá az értékelési tartalékkal csökkentett saját tőke összege a hozamkifizetés után sem csökken az induló tőke összege alá.
 

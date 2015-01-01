@@ -74,7 +74,7 @@ d) a tulajdonosokkal (a részvényesekkel) kötött szerződés (vagy a létesí
 
 1. ellenőrzés: a jóváhagyásra jogosult testület által elfogadott beszámolóval lezárt üzleti év(ek) adatainak – a gazdálkodó, illetve az adóhatóság általi – utólagos ellenőrzése az önellenőrzés, illetve az adóhatósági ellenőrzés keretében;
 
-2. ellenőrzés megállapítása: az ellenőrzés során feltárt, az eszközöket-forrásokat, az eredményt, a saját tőkét érintő hibák és hibahatások, amelyek a beszámolóval lezárt üzleti évvel (évekkel) kapcsolatosak, a hatályos jogszabályi előírások nem vagy nem megfelelő alkalmazásából, helytelen értelmezéséből, vagy nem megengedett, tiltott cselekmény elkövetéséből származnak;
+2. ellenőrzés megállapítása: az ellenőrzés során feltárt, az eszközöket-forrásokat, az eredményt, a saját tőkét érintő hibák és hibahatások, amelyek a beszámolóval lezárt üzleti évvel (évekkel) kapcsolatosak, a hatályos jogszabályi előírások nem vagy nem megfelelő alkalmazásából, helytelen értelmezéséből, vagy nem megengedett, tiltott cselekmény elkövetéséből származnak. Ilyen hibának és hibahatásnak minősül a szerződésmódosítással, a számviteli bizonylatok módosításával dokumentált, beszámolóval lezárt üzleti évet, éveket érintő gazdasági események könyvviteli elszámolásban rögzítendő jellemzőinek utólagos módosítása is;
 
 3. jelentős összegű hiba: ha a hiba feltárásának évében, a különböző ellenőrzések során, egy adott üzleti évet érintően (évenként külön-külön) feltárt hibák és hibahatások – eredményt, saját tőkét növelő-csökkentő – értékének együttes (előjeltől független) összege meghaladja a számviteli politikában meghatározott értékhatárt. Minden esetben jelentős összegű a hiba, ha a hiba feltárásának évében az ellenőrzések során – ugyanazon évet érintően – megállapított hibák, hibahatások eredményt, saját tőkét növelő-csökkentő értékének együttes (előjeltől független) összege meghaladja az ellenőrzött üzleti év mérlegfőösszegének 2 százalékát, illetve ha a mérlegfőösszeg 2 százaléka nem haladja meg az 1 millió forintot, akkor az 1 millió forintot;
 
@@ -86,7 +86,7 @@ d) a tulajdonosokkal (a részvényesekkel) kötött szerződés (vagy a létesí
 
 1. közvetített szolgáltatás: a gazdálkodó által saját nevében vásárolt és a harmadik személlyel (a megrendelővel) kötött szerződés alapján, a szerződésben rögzített módon részben vagy egészben, de változatlan formában továbbértékesített (továbbszámlázott) szolgáltatás; közvetített szolgáltatásnál a gazdálkodó vevője és nyújtója is a szolgáltatásnak, a gazdálkodó a vásárolt szolgáltatást részben vagy egészben közvetíti úgy, hogy a megrendelővel kötött szerződésből a közvetítés lehetősége, a számlából a közvetítés ténye, vagyis az, hogy a gazdálkodó nemcsak a saját, hanem az általa vásárolt szolgáltatást is értékesíti változatlan formában, de nem feltétlenül változatlan áron, egyértelműen megállapítható;
 
-2. alapkutatás: a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvényben (a továbbiakban: Innovációs tv.) meghatározott alapkutatás;
+2. alapkutatás: a tudományos kutatásról, fejlesztésről és innovációról szóló törvényben (a továbbiakban: Innovációs tv.) meghatározott alapkutatás;
 
 3. alkalmazott kutatás: az Innovációs tv.-ben meghatározott alkalmazott kutatás;
 
@@ -210,7 +210,7 @@ b) nem valódi penziós (elhelyezési) ügylet: olyan penziós ügylet, amelyben
 
 12. elektronikus pénz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom;
 
-13. pénzügyi lízing: a Polgári Törvénykönyv szerinti pénzügyi lízingszerződés alapján létrejött ügylet;
+13. pénzügyi lízing: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzügyi lízingszerződés alapján létrejött ügylet, ideértve azt is, ha az az anyavállalat és a leányvállalata között jött létre;
 
 14. függő kötelezettség: az olyan – általában – harmadik személlyel szemben vállalt kötelezettség, amely a mérleg fordulónapján fennáll, de mérlegtételkénti szerepeltetése jövőbeni eseménytől függ. A függő kötelezettségek lehetnek pénzeszközre, illetve egyéb eszközre vonatkozó függő kötelezettségek. A pénzeszközre vonatkozó függő kötelezettségek közé tartoznak különösen: a kezességvállalási, a garanciavállalási, a váltókezesi kötelezettség, az opciós ügyletekkel, a nem valódi penziós ügyletekkel, a le nem zárt peres ügyekkel kapcsolatban várható kötelezettségek. Az egyéb eszközre vonatkozó kötelezettségek közé tartoznak különösen a fedezetként, biztosítékként, óvadékként felajánlott (szolgáló) vagyontárgyak és az opciós ügylet miatti egyéb eszköz átadására vonatkozó kötelezettségek;
 

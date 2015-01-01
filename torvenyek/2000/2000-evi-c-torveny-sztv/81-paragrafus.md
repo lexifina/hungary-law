@@ -4,7 +4,7 @@
 
 a) az üzleti év mérlegfordulónapja előtt bekövetkezett, a mérlegkészítés időpontjáig ismertté vált káreseményekkel kapcsolatos – a le nem vonható általános forgalmi adót is magában foglaló – kifizetéseket, elszámolt, fizetendő összegeket;
 
-b) a fizetett, illetve a mérlegkészítés időpontjáig ismertté vált, elszámolt, fizetendő, a mérlegfordulónap előtti időszakhoz kapcsolódó bírságok, kötbérek, fekbérek, késedelmi kamatok, behajtási költségátalányok, kártérítések összegét;
+b) a fizetett, illetve a mérlegkészítés időpontjáig ismertté vált, elszámolt, fizetendő, a mérlegfordulónap előtti időszakhoz kapcsolódó bírságok, kötbérek, fekbérek, késedelmi kamatok, behajtási költségátalányok, kártérítések, sérelemdíjak összegét;
 
 c) a költségek (a ráfordítások) ellentételezésére – visszafizetési kötelezettség nélkül – belföldi vagy külföldi gazdálkodónak – az üzleti évhez kapcsolódóan – adott támogatás, juttatás összegét;
 
@@ -44,4 +44,4 @@ b) a kereskedelmi áruk veszteségjellegű leltárértékelési különbözetén
 
 c)
 
-(5) Egyéb ráfordításként kell kimutatni az üzleti évhez kapcsolódó, szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag adott (fizetendő) engedmény szerződés szerinti összegét.
+(5) Egyéb ráfordításként kell kimutatni az üzleti évhez kapcsolódó, szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag adott (fizetendő) engedmény szerződés szerinti összegét, ideértve az általános forgalmi adóról szóló törvény szerinti közvetett pénz-visszatérítési akció keretében adott (fizetendő) engedmény – levonható általános forgalmi adóval csökkentett – összegét is.

@@ -4,7 +4,7 @@
 
 a) a káreseményekkel kapcsolatosan kapott bevételeket,
 
-b) a kapott bírságok, kötbérek, fekbérek, késedelmi kamatok, behajtási költségátalányok, kártérítések összegét,
+b) a kapott bírságok, kötbérek, fekbérek, késedelmi kamatok, behajtási költségátalányok, kártérítések, sérelemdíjak összegét,
 
 c) a behajthatatlannak minősített – és az előző üzleti év(ek)ben hitelezési veszteségként leírt – követelésekre kapott összeget,
 
@@ -44,4 +44,4 @@ j) a vagyonrendelőnél a kezelt vagyon részbeni vagy teljes kiadásakor az át
 
 (6) Egyéb bevételt csökkentő tételként kell elszámolni a (3) bekezdés e) pontja szerint értékesített és a szerződés szerinti feltételek teljesítésének későbbi meghiúsulása miatt visszavett, a két időpont között használt eszköz – 73. § (2) bekezdés d) pontja szabályai szerinti – visszavételkori értékét.
 
-(7) Egyéb bevételként kell kimutatni az üzleti évhez kapcsolódó, szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag kapott (járó) engedmény szerződés szerinti összegét.
+(7) Egyéb bevételként kell kimutatni az üzleti évhez kapcsolódó, szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag kapott (járó) engedmény szerződés szerinti összegét, ideértve az általános forgalmi adóról szóló törvény szerinti közvetett pénz-visszatérítési akció keretében kapott (járó) engedmény – fizetendő általános forgalmi adóval csökkentett – összegét is.

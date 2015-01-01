@@ -26,7 +26,7 @@ f) a gazdasági társaság tulajdonosánál (tagjánál) a veszteség fedezetér
 
 g) más jogszabály szerint vagy a vállalkozó saját elhatározása alapján lekötött – kötelezettségek fedezetét jelentő vagy saját céljait szolgáló – tartalékot.
 
-(4) Lekötött tartalékként kell kimutatni a gazdasági társaságnál a veszteségek fedezetére kapott pótbefizetés összegét, a pótbefizetés visszafizetéséig, elszámolása a pénzmozgással egyidejűleg történik.
+(4) Lekötött tartalékként kell kimutatni a gazdasági társaságnál a veszteségek fedezetére kapott pótbefizetés összegét, a pótbefizetés visszafizetéséig, elszámolása a pénzmozgással, az eszközmozgással egyidejűleg történik.
 
 (5) A (3) bekezdés szerinti lekötést az eredménytartalékkal szemben el kell számolni akkor is, ha a lekötött tartalék növekedése miatt az eredménytartaléknak negatív egyenlege lesz, vagy negatív egyenlege nő.
 
@@ -37,3 +37,5 @@ g) más jogszabály szerint vagy a vállalkozó saját elhatározása alapján l
 (8) A (7) bekezdés szerint elkülönített lekötött tartalékot csak a jogszabályban meghatározott módon lehet megszüntetni: veszteségrendezésre – az erről szóló döntés időpontjával – az eredménytartalék negatív összegét csökkentő tételként, illetve tőkeemelésre – a tőkeemelés cégjegyzékbe történt bejegyzése időpontjával – a jegyzett tőkét növelő tételként.
 
 (9) A lekötött tartalék növekedéseként, illetve csökkenéseként kell kimutatni a pénzmozgással, illetve az eszközmozgással egyidejűleg a külön jogszabály alapján a lekötött tartalékkal szemben átvett, illetve átadott pénzeszközök, egyéb eszközök értékét. A külön jogszabály alapján átvett lekötött tartalék feloldását – a külön jogszabály eltérő rendelkezése hiányában – az eredménytartalékkal szemben kell elszámolni.
+
+(10) Amennyiben a gazdasági társaság veszteségének fedezetére szolgáló – törvényi előíráson alapuló – korábban teljesített pótbefizetés visszafizetésének a teljesítése nem pénzeszközzel történik, akkor a teljesítésként átadott eszközt – az eszközmozgással egyidejűleg – az értékesítés szabályai szerint kell elszámolni, azzal, hogy az így keletkezett követeléssel szemben kell a lekötött tartalékot csökkenteni.
