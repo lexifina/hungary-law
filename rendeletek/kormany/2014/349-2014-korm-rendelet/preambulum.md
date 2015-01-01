@@ -1,0 +1,1 @@
+A Kormány a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 74. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében megállapított feladatkörében eljárva a következő rendeletet alkotja:
