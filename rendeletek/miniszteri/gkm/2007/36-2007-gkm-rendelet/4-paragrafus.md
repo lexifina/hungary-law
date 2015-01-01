@@ -1,14 +1,21 @@
-4. §[^26] (1)[^27] Az ÁAK Zrt. a vele megállapodást kötő viszonteladóknak lehetővé teszi a jogosultság értékesítését. Ilyen megállapodás hiányában nem végezhető a jogosultság értékesítése.
+4. §[^17] (1) A NÚSZ Zrt. a vele megállapodást kötő viszonteladóknak lehetővé teszi a jogosultság értékesítését. Ilyen megállapodás hiányában nem végezhető a jogosultság értékesítése.
 
-(2) A jogosultság értékesítésekor a jogosultság adatait (rendszám, felségjel, díjkategória, érvényességi időtartam, érvényesség kezdete, vásárlás időpontja, eladóhely) az ÁAK Zrt. által biztosított, vagy saját fejlesztésű, az ÁAK Zrt. által jóváhagyott technikai megoldás alkalmazásával köteles rögzíteni.
+(2) A jogosultság értékesítésekor a jogosultság adatait (rendszám, felségjel, díjkategória, érvényességi időtartam, érvényesség kezdete, vásárlás időpontja, eladóhely):
 
-(3) Az ÁAK Zrt. a viszonteladók saját technikai megoldásához egy egységes, az adatok on-line rögzítését lehetővé tevő interfészt biztosít.
+a) a NÚSZ Zrt. által biztosított, vagy
+
+b) saját fejlesztésű, NÚSZ Zrt. által jóváhagyott
+
+## technikai megoldás alkalmazásával köteles rögzíteni.
+
+(3) A NÚSZ Zrt. a viszonteladók saját technikai megoldásához egy egységes, az adatok online rögzítését lehetővé tevő interfészt biztosít.
 
 (4) A vásárló köteles az általa megadott adatok ellenőrzésére és végső jóváhagyására.
 
-(5) Az értékesítő az értékesítéssel egyidejűleg a jogosultság megvásárlását igazoló ellenőrző szelvényt ad át a vásárlónak. Az ellenőrző szelvény tartalmazza az ÁAK Zrt. adatbázisában a (2) bekezdés szerint rögzített adatokat.
+(5) Az értékesítő az értékesítéssel egyidejűleg a jogosultság megvásárlását igazoló ellenőrző szelvényt ad át a vásárlónak. Az ellenőrző szelvény tartalmazza a NÚSZ Zrt. adatbázisában a (2) bekezdés szerint rögzített adatokat.
 
 (6) A Közlekedésfejlesztési Koordinációs Központ folyamatosan ellenőrzi az e rendelet szerinti díjak beszedésének rendszerét annak átlátható és megkülönböztetés mentes működésének biztosítása érdekében.
 
-[^26]: A 4. § a 108/2007. (XII. 23.) GKM rendelet 3. §-ával megállapított szöveg.
-[^27]: A 4. § (1) bekezdése a 95/2011. (XII. 30.) NFM rendelet 3. §-ával megállapított szöveg.
+(7) A NÚSZ Zrt. a vele úthasználati jogosultság értékesítésére szerződést kötő viszonteladóknak átalány-költségtérítést fizet, melynek alapja az értékesített jogosultság általános forgalmi adóval nem növelt összege. A költségtérítés mértéke 1,9%.
+
+[^17]: A 4. § az 57/2014. (XII. 30.) NFM rendelet 2. §-ával megállapított szöveg.

@@ -1,36 +1,37 @@
 ## A díj mértéke
 
-6. § (1)[^34] A díj mértéke a gépjármű kategóriájától függ. A díjkategóriák a következők:
+6. §[^24] (1) A díj mértéke a jármű fajtája és a forgalmi engedélyébe bejegyzett műszaki adatai alapján a következőképpen meghatározott díjkategóriájától függ:
 
-a) D1 díjkategória: motorkerékpár, valamint a legfeljebb 3,5 tonna megengedett legnagyobb össztömegű gépjármű bármilyen vontatmánnyal is,
+a) D1 díjkategória: a motorkerékpár, valamint a legfeljebb 3500 kg megengedett legnagyobb össztömegű, – a vezetővel együtt – legfeljebb 7 személy szállítására alkalmas személygépkocsi és annak pótkocsija,
 
-b)–d)[^35]
+b) D2 díjkategória: a D1 kategóriába nem tartozó valamennyi személygépkocsi, továbbá a legfeljebb 3,5 tonna megengedett legnagyobb össztömegű tehergépkocsi, és a lakófelépítményű gépkocsi (lakóautó),
 
-e)[^36] B2 díjkategória: a 3,5 tonnát meghaladó megengedett legnagyobb össztömegű autóbuszok, lakóautók és személygépkocsik bármilyen vontatmánnyal is.
+c) B2 díjkategória: az autóbusz,
 
-(2)[^37] Nem kell díjat fizetni a mezőgazdasági erőgép és vontatmánya után a díjfizetés ellenében használható utakról szóló jogszabály szerint díjfizetés ellenében használható főutak használatáért.
+d) U díjkategória: a D2 és a B2 díjkategóriába tartozó járművek által vontatott pótkocsi (utánfutó).
 
-(3)[^38]
+(2) A gépjármű megengedett legnagyobb össztömegét és a szállítható személyek számát a forgalmi engedélyben szereplő hatósági bejegyzés alapján kell meghatározni.
 
-(3a)[^39]
+(3) A díjköteles járművek után egy, vagy több meghatározott megye díjköteles úthálózatára érvényes éves jogosultság is megváltható. E jogosultság érvényességi ideje megegyezik a 3. § (2) bekezdés c) pontjában rögzített érvényességi idővel.
 
-(4) A gépjármű és a vontatmány megengedett legnagyobb össztömegének értékét a forgalmi engedélyben szereplő hatósági bejegyzés alapján kell meghatározni.
+(4) Amennyiben az úthasználó egy gyorsforgalmi úti csomópont valamely ágát jogosultság birtokában használja, vagy valamely ág számára díjmentesen használható, további díjfizetés nélkül a csomópont valamennyi ágának használatára jogosult.
 
-(5)[^40] A jogosultság általános forgalmi adóval terhelt ára a következő:
+(5) A Pest megyére megváltott jogosultsággal a Főváros közigazgatási határán belüli díjköteles úthálózat is használható, illetve kizárólag a Főváros területére eső díjköteles úthálózatra jogosultság nem váltható.
 
-|  | Díjkategória | 1 napos | Heti | Havi | Éves |
+(6) A jogosultság általános forgalmi adóval terhelt ára forintban a következő:
 
-| a) | D1 | – | 2 975 | 4 780 | 42 980 |
+|  | A | B | C | D | E |
 
-| b) | B2 | – | 13 385 | 21 975 | 199 975 |
+| 1 | Díjkategória | Heti | Havi | Éves | Megyei |
 
-(6)[^41] A motorkerékpár után fizetendő heti úthasználati jogosultság általános forgalmi adóval terhelt ára 1470 forint.
+| 2 | D1 | 2 975 | 4 780 | 42 980 | 5 000 |
 
-[^34]: A 6. § (1) bekezdése a 95/2011. (XII. 30.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^35]: A 6. § (1) bekezdés b)–d) pontját a 25/2013. (V. 31.) NFM rendelet 14. § (1) bekezdés d) pontja hatályon kívül helyezte.
-[^36]: A 6. § (1) bekezdés e) pontját a 79/2012. (XII. 27.) NFM rendelet 3. § (1) bekezdése iktatta be, szövege a 25/2013. (V. 31.) NFM rendelet 9. §-ával megállapított szöveg.
-[^37]: A 6. § (2) bekezdése a 95/2011. (XII. 30.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^38]: A 6. § (3) bekezdését a 79/2012. (XII. 27.) NFM rendelet 8. § (5) bekezdése hatályon kívül helyezte.
-[^39]: A 6. § (3a) bekezdését a 79/2012. (XII. 27.) NFM rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 25/2013. (V. 31.) NFM rendelet 14. § (1) bekezdés e) pontja.
-[^40]: A 6. § (5) bekezdése a 79/2012. (XII. 27.) NFM rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^41]: A 6. § (6) bekezdését a 95/2011. (XII. 30.) NFM rendelet 5. § (3) bekezdése iktatta be.
+| 3 | D2 | 5 950 | 9 560 | 42 980 | 10 000 |
+
+| 4 | U | 2 975 | 4 780 | 42 980 | 5 000 |
+
+| 5 | B2 | 13 385 | 21 975 | 199 975 | 20 000 |
+
+(7) A motorkerékpár után fizetendő heti úthasználati jogosultság általános forgalmi adóval terhelt ára 1470 forint.
+
+[^24]: A 6. § az 57/2014. (XII. 30.) NFM rendelet 3. §-ával megállapított szöveg.

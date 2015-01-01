@@ -32,7 +32,7 @@ f)[^5] az e) pont alá nem tartozó, díjellenőrzést végző szervezetek álta
 
 (6)[^14] Nem kell díjat fizetni a kárelhárításban részt vevő, megkülönböztető jelzéssel ellátott gépjármű által felvezetett, zárt konvojban haladó gépjárművek után. Ezek forgalmi rendszámát előzetesen a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve a közút kezelőjének és a (3) bekezdésben meghatározott szervnek bejelenti.
 
-(7)[^15] Nem kell díjat fizetni a kárelhárítás időtartamára azon közúti kárelhárításban részt vevő gépjárművek után, amelyeket a kárelhárításra a közútkezelő kért fel, a kárelhárítást térítésmentesen végzik és a rendszáma a közvetlen kárelhárítást megelőzően a közút kezelője és az Állami Autópálya Kezelő Zrt. (a továbbiakban: ÁAK Zrt.) részére bejelentésre került.
+(7)[^15] Nem kell díjat fizetni a kárelhárítás időtartamára azon közúti kárelhárításban részt vevő gépjárművek után, amelyeket a kárelhárításra a közútkezelő kért fel, a kárelhárítást térítésmentesen végzik és a rendszáma a közvetlen kárelhárítást megelőzően a közút kezelője és a Nemzeti Útdíjfizetési Szolgáltató Zrt. (a továbbiakban: NÚSZ Zrt.) részére bejelentésre került.
 
 [^1]: Az 1. § a 25/2013. (V. 31.) NFM rendelet 6. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdés a) pontját a 95/2011. (XII. 30.) NFM rendelet 9. § (2) bekezdés b) pontja hatályon kívül helyezte, újonnan a 26/2012. (V. 11.) NFM rendelet 1. § (1) bekezdése iktatta be, szövege a 79/2012. (XII. 27.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -48,4 +48,4 @@ f)[^5] az e) pont alá nem tartozó, díjellenőrzést végző szervezetek álta
 [^12]: A 2. § (4b) bekezdését a 79/2012. (XII. 27.) NFM rendelet 1. § (3) bekezdése iktatta be.
 [^13]: A 2. § (5) bekezdését a 25/2013. (V. 31.) NFM rendelet 14. § (1) bekezdés a) pontja hatályon kívül helyezte.
 [^14]: A 2. § (6) bekezdését a 79/2012. (XII. 27.) NFM rendelet 1. § (4) bekezdése iktatta be.
-[^15]: A 2. § (7) bekezdését a 79/2012. (XII. 27.) NFM rendelet 1. § (4) bekezdése iktatta be.
+[^15]: A 2. § (7) bekezdését a 79/2012. (XII. 27.) NFM rendelet 1. § (4) bekezdése iktatta be, szövege az 57/2014. (XII. 30.) NFM rendelet 5. § a) pontja szerint módosított szöveg.
