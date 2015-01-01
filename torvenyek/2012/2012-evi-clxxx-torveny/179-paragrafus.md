@@ -38,8 +38,10 @@
 
 18. az Eurojust megerősítéséről és az Eurojust létrehozásáról a bűnözés súlyos formái elleni fokozott küzdelem céljából a 2002/187/IB határozat módosításról szóló 2008. december 16-i 2009/426/IB tanácsi határozatnak;
 
-19. a kölcsönös elismerés elvének az Európai Unió tagállamai közötti, az előzetes letartóztatás alternatívájaként felügyeleti intézkedéseket elrendelő határozatokra történő alkalmazásáról szóló 2009. október 23-i 2009/829/IB tanácsi kerethatározatnak és
+19. a kölcsönös elismerés elvének az Európai Unió tagállamai közötti, az előzetes letartóztatás alternatívájaként felügyeleti intézkedéseket elrendelő határozatokra történő alkalmazásáról szóló, 2009. október 23-i 2009/829/IB tanácsi kerethatározatnak,
 
-20. a joghatóság gyakorlásával kapcsolatos, büntetőeljárások során felmerülő összeütközések megelőzéséről és rendezéséről szóló 2009. november 30-i 2009/948/IB tanácsi kerethatározatnak
+20. a joghatóság gyakorlásával kapcsolatos, büntetőeljárások során felmerülő összeütközések megelőzéséről és rendezéséről szóló, 2009. november 30-i 2009/948/IB tanácsi kerethatározatnak,
+
+21. az európai védelmi határozatról szóló, 2011. december 13-i 2011/99/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.

@@ -1,0 +1,5 @@
+163/P. § (1) Ha a távoltartásról rendelkező határozatot, mint felügyeleti intézkedést elrendelő határozatot a bíróság a védett személy által megjelölt tagállamba vagy attól eltérő harmadik tagállamba továbbította, vagy az európai védelmi határozat kibocsátását követően továbbítja e tagállamok valamelyikének, erre az esetre – ideértve a felügyeleti intézkedés megsértését is – a 87–92. § alkalmazandó.
+
+(2) Ha a magatartási szabályokat tartalmazó jogerős ítéletet a bíróság a védett személy által megjelölt tagállamba vagy attól eltérő harmadik tagállamba továbbította, vagy az európai védelmi határozat kibocsátását követően továbbítja e tagállamok valamelyikének, erre az esetre – ideértve a magatartási szabályok megsértését is – a 145–147. § alkalmazandó.
+
+(3) Ha a (2) bekezdésben foglalt esetben az ott megjelölt tagállam hatósága az európai védelmi határozatban foglalt magatartási szabályokat érintő további határozatokat hozott, és erről a bíróságot tájékoztatta, a bíróság – ha az szükséges – az európai védelmi határozatot megfelelően módosítja vagy visszavonja, és erről az európai védelmi határozatot végrehajtó tagállami hatóságot haladéktalanul tájékoztatja.
