@@ -1,5 +1,3 @@
-## 35. § A hitelfelvételre, az értékpapírkölcsönre, az eszközök megterhelésére a 15. § rendelkezései alkalmazandóak.
-
 ## VI. Fejezet
 
 ## AZ INGATLANALAPOK BEFEKTETÉSI SZABÁLYAI
