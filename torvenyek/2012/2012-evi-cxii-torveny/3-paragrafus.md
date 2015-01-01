@@ -1,4 +1,4 @@
-3. § (1) A társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás összegének meghatározása során – az (5) bekezdésben nem említett esetben – meg kell állapítani a figyelembevételre kerülő szolgálati időt és keresetet, jövedelmet. Ennek során a társadalombiztosítási nyugellátásra irányadó szabályokat kell megfelelően alkalmazni azzal, hogy
+3. § (1) A társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás összegének meghatározása során – az (5) bekezdésben nem említett esetben – a nyugdíjbiztosítási átutalásra jogosító jogviszony létrejöttének napját megelőző napig terjedő időre meg kell állapítani a figyelembevételre kerülő szolgálati időt és keresetet, jövedelmet. Ennek során a társadalombiztosítási nyugellátásra irányadó szabályokat kell megfelelően alkalmazni azzal, hogy
 
 a) szolgálati időként és keresetként, jövedelemként nem vehető figyelembe az az idő, illetve kereset, jövedelem, amely után nyugdíjjárulék-fizetési kötelezettség nem állt fenn, és
 

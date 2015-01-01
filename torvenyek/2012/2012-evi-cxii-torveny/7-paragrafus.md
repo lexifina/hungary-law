@@ -1,7 +1,7 @@
-7. § (1) A beszámított jövedelmet – a (2) bekezdésben nem említett esetben – úgy kell kiszámítani, hogy az uniós intézmény által levont járulék összegét el kell osztani a nyugdíjjárulék és nyugdíjbiztosítási járulék, számított szociális hozzájárulási adó együttes mértékével.
+7. § (1) A beszámított jövedelmet – a (2) bekezdésben nem említett esetben – a nyugdíjbiztosítási visszautalás összege alapján, az 1. mellékletben foglaltak szerint kell meghatározni.
 
 (1a) Az (1) bekezdés szerint a 2013. január 1-jét megelőző időszakra meghatározott beszámított jövedelem nem haladhatja meg a járulékfizetési felső határ összegét. Ha az uniós tisztviselő a 2013. január 1-jét megelőző időszak ugyanazon napjára a magyar nyugdíjrendszerben is szerzett szolgálati időt, a járulékfizetési felső határ helyett a járulékfizetési felső határnak a magyar nyugdíjrendszerben szerzett, nyugdíjjárulék-alapot képező keresettel, jövedelemmel csökkentett összegét kell figyelembe venni.
 
 (2) Ha az uniós tisztviselő korábban nyugdíjbiztosítási átutalással élt, az ezzel érintett időszakra a beszámított jövedelmet úgy kell meghatározni, mintha a nyugdíjbiztosítási átutalásra nem került volna sor.
 
-(3) A másik tagállam nyugdíjrendszerében szerzett jogosultság ellenértékeként átadott összeget a 6. § (3) bekezdése szerinti szolgálati idő egyes napjaira egyenlően kell elosztani. Az így elosztott értékek azonos naptári évhez tartozó összegét meg kell szorozni a másik tagállamból történt átadás évéhez tartozó valorizációs szorzószámmal, majd el kell osztani az ahhoz a naptári évhez tartozó valorizációs szorzószámmal, amely naptári évhez az elosztott érték tartozik. Az így kiszámított összeget kell az (1) bekezdés alkalmazása során az uniós intézmény által az adott naptári évben levont járuléknak tekinteni. A kiszámítás során a nyugdíjbiztosítási visszautalás évében alkalmazandó valorizációs szorzószámokat kell figyelembe venni.
+(3)

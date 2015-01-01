@@ -1,1 +1,3 @@
 1. melléklet a 2012. évi CXII. törvényhez
+
+A beszámított jövedelem meghatározása

@@ -1,12 +1,16 @@
-8. § (1) A nyugdíjbiztosítási visszautalás során a Nyugdíjbiztosítási Alapot
+8. § (1) A nyugdíjbiztosítási visszautalás során annak összegéből a Nyugdíjbiztosítási Alapot
 
-a) a korábban nyugdíjbiztosítási átutalással nem érintett időre az uniós intézmény által levont járulék, illetve a másik tagállamból az SR. szerinti nyugdíjrendszerbe átadott összeg, de a 2013. január 1-jét megelőző időszakra legfeljebb a járulékfizetési felső határra számított nyugdíjjárulék és nyugdíjbiztosítási járulék, számított szociális hozzájárulási adó együttes összegének,
+a) a korábban nyugdíjbiztosítási átutalással nem érintett időre az uniós intézmény által, illetve a másik tagállamból az SR. szerinti nyugdíjrendszerbe átadott összeg, a 2013. január 1-jét megelőző időszak egyes éveire
 
-b) a korábban nyugdíjbiztosítási átutalással érintett időre a nyugdíjbiztosítási átutalás összegének, és
+aa) a beszámított jövedelemre jutó nyugdíjjárulék, és
 
-c) az a) és b) pont szerinti összeg – az SR. szerinti nyugdíjrendszer által biztosított – hozamának
+ab) az 1. melléklet alapján, de a járulékfizetési felső határ figyelmen kívül hagyásával számított éves jövedelemösszegre jutó nyugdíjbiztosítási járulék és számított szociális hozzájárulási adó
 
-együttes összege illeti meg. Ha az uniós tisztviselő a 2013. január 1-jét megelőző időszak ugyanazon napjára a magyar nyugdíjrendszerben is szerzett szolgálati időt, az a) pont alkalmazása során a járulékfizetési felső határ helyett a járulékfizetési felső határnak a magyar nyugdíjrendszerben szerzett, nyugdíjjárulék-alapot képező keresettel, jövedelemmel csökkentett összegét kell figyelembe venni.
+együttes, a visszautalás évében érvényes valorizációs szorzószámokkal növelt összege, és
+
+b) a korábban nyugdíjbiztosítási átutalással érintett időre a nyugdíjbiztosítási átutalás összegének a visszautalás évében hatályos, az átutalás évéhez tartozó valorizációs szorzószámmal növelt összege
+
+illeti meg. Ha az uniós tisztviselő a 2013. január 1-jét megelőző időszak ugyanazon napjára a magyar nyugdíjrendszerben is szerzett szolgálati időt, az a) pont alkalmazása során a járulékfizetési felső határ helyett a járulékfizetési felső határnak a magyar nyugdíjrendszerben szerzett, nyugdíjjárulék-alapot képező keresettel, jövedelemmel csökkentett összegét kell figyelembe venni.
 
 (2) Ha a nyugdíjbiztosítási visszautalás összege magasabb, mint a Nyugdíjbiztosítási Alapot megillető összeg, a fennmaradó összeg az uniós tisztviselőt, illetve túlélő hozzátartozóját illeti meg, és választása szerint önkéntes kölcsönös nyugdíjpénztárban vezetett egyéni számlájára, foglalkoztatói nyugdíjszolgáltató intézménybe tagi kiegészítéseként vagy a nyugdíj-előtakarékossági számlájára kell átutalni.
 

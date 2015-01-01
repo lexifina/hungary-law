@@ -4,7 +4,7 @@
 
 a) az uniós tisztviselő és túlélő hozzátartozójának természetes személyazonosító adatait, valamint a lakóhelyére, tartózkodási helyére vonatkozó adatokat,
 
-b) az uniós tisztviselő munkavégzésre irányuló jogviszonyaira, jövedelemmel, díjazással járó keresőtevékenységeire és egyéb nyugdíjjárulék-fizetéssel fedezett jogviszonyaira, foglalkoztatójára, szolgálati idejére, keresetére, jövedelmére, valamint a levont és befizetett járulékokra – ideértve az uniós intézmény által levont járulékot is – és ennek hozamaira vonatkozó adatokat,
+b) az uniós tisztviselő munkavégzésre irányuló jogviszonyaira, jövedelemmel, díjazással járó keresőtevékenységeire és egyéb, nyugdíjjárulék-fizetéssel fedezett jogviszonyaira, foglalkoztatójára, szolgálati idejére, keresetére, jövedelmére, a levont és befizetett járulékokra vonatkozó adatokat, valamint az uniós intézmény által a jogviszonyra és a visszautalt összegre vonatkozóan átadott adatokat,
 
 c) nyugdíjbiztosítási átutalás esetén az uniós tisztviselő magánnyugdíj-pénztári tagságára és magánnyugdíj-pénztári egyenlegére, valamint a túlélő hozzátartozó magánnyugdíj-pénztári tagságára vonatkozó adatokat,
 

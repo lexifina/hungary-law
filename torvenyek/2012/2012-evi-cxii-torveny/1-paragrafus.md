@@ -16,6 +16,6 @@ f) túlélő hozzátartozó: az a személy, aki az elhunyt uniós tisztviselő u
 
 g) uniós intézmény: az Európai Unió azon intézménye, amelynek uniós tisztviselője nyugdíjbiztosítási átutalásra vagy visszautalásra az SR. alapján jogosult,
 
-h) uniós intézmény által levont járulék: az uniós tisztviselő jövedelméből az uniós intézmény által az SR. alapján öregségi nyugdíj céljából levont összeg és az uniós tisztviselő javára az uniós intézmény által az SR. alapján öregségi nyugdíj céljából befizetett összeg,
+h)
 
 i) uniós tisztviselő: az a személy, aki az SR.-ben foglaltak szerint uniós intézménnyel fennálló vagy korábban fennállt jogviszonya alapján nyugdíjbiztosítási átutalásra vagy visszautalásra jogosult.
