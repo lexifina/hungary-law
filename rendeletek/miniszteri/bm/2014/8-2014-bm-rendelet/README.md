@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-8-20-0A
 | --- | --- | --- |
 | 2014-02-01 | 2014-8-20-0A.1 | 8/2014. (I. 31.) BM rendelet |
 | 2014-12-31 | 2014-8-20-0A.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2015-01-01 | 2014-8-20-0A.3 | 44/2017. (XII. 29.) BM rendelet |
