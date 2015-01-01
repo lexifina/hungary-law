@@ -1,0 +1,3 @@
+125. § (1) Ha a miniszter a Bv. tv. 46. § (1) bekezdésének rendelkezése alapján a szabadlábon lévő elítéltnek a Büntetés-végrehajtás Központi Kórházában vagy az IMEI-ben történő szakorvosi vizsgálatát rendelte el, a miniszter erről írásban értesíti a Büntetés-végrehajtás Központi Kórházát vagy az IMEI-t.
+
+(2) Eljárási kegyelmi kérelem esetén a bíróság a kegyelmi felterjesztésben megjelöli a kitűzött tárgyalás időpontját. A bíróság az ügydöntő határozat meghozataláról a rendelkező rész megküldésével három napon belül értesíti a minisztert. Az ügydöntő határozat jogerőre emelkedése esetén a bíróság nyilatkozattételre hívja fel a terheltet vagy az egyéb kérelmezőt, hogy fenntartja-e a kegyelmi kérelmet.

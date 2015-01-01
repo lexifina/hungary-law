@@ -1,0 +1,9 @@
+# 11/2014. (XII. 13.) IM rendelet
+
+a fogvatartott személy esetében a büntetőeljárás lefolytatása során, továbbá a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra és egyéb szervekre háruló feladatokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-11-20-06
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-01-01 | 2014-11-20-06.1 | 11/2014. (XII. 13.) IM rendelet |

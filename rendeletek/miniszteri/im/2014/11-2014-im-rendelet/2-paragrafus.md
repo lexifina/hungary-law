@@ -1,0 +1,7 @@
+2. § (1) A határozat végrehajtásáról gondoskodó bíróság a határozat jogerőre emelkedésekor, legkésőbb három munkanapon belül minden érintettre nézve külön kiállítja a végrehajtás alapjául szolgáló értesítőlapot, és a kezelőiroda vezetőjének adja le, aki azt három napon belül megküldi a végrehajtásra hivatott szervnek.
+
+(2) Ha a bíróság jogerős vagy fellebbezésre tekintet nélkül végrehajtható határozatával személyi szabadság elvonásával vagy korlátozásával járó büntetést, intézkedést, vagy kényszerintézkedést szüntet meg – és az érintett a határozat meghozatalakor nincs jelen – az értesítőlapot soron kívül ki kell állítani, és a kezelőirodának le kell adni. A kezelőiroda vezetője a végrehajtást foganatosító szervet az értesítőlap telefaxon való megküldésével és rövid úton történő megerősítésével soron kívül értesíti.
+
+(3) Az értesítőlap pontos és határidőben történő kiállításáért a tanács elnöke, vagy az egyesbíró (a továbbiakban együtt: a tanács elnöke) felelős. Az értesítőlapot a tanács elnöke, vagy a bírósági ügyintéző írja alá, és a bíróság bélyegzőjével látja el. A bírósági ügyintéző az értesítőlapra bírói rendelvényt nem vezethet. Az iratboríték belső oldalán az igazságügyi alkalmazott feljegyzi, hogy melyik terheltről, milyen értesítőlapot állítottak ki. Az értesítőlapok átvételét a kezelőiroda vezetője a feljegyzés mellett, az aláírásával és az átvétel időpontjának megjelölésével igazolja.
+
+(4) A tanács elnöke megteszi a határozat végrehajtása érdekében szükséges egyéb intézkedéseket.

@@ -1,0 +1,3 @@
+74. § (1) Nem kell egységes értesítőlapot kiállítani a pénzbüntetésről, ha a pénzbüntetést az előzetes fogvatartással, vagy házi őrizettel teljes egészében lerovottnak nyilvánította.
+
+(2) Ha a bíróság az államot megillető bűnügyi költség megfizetésére egyetemleges kötelezettséget állapít meg, az erre vonatkozó adatokat csak az első helyen megnevezett elítélttel szemben kiállított egységes értesítőlapon kell feltüntetni, egyben a jogerős határozatot meg kell küldeni a BGH részére. A további elítéltek tekintetében egyéb okból kiállított egységes értesítőlapon csupán az egyetemleges kötelezettséget előíró jogerős határozat számára kell utalni.

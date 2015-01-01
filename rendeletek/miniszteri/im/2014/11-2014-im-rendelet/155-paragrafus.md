@@ -1,0 +1,31 @@
+155. § (1) Az értesítőlap tartalmazza:
+
+a) a bíróság megnevezését, ügyszámát, az előzetes letartóztatásról szóló határozat keltét és számát,
+
+b) a terhelt nevét és a Be. 117. § (1) bekezdésében felsorolt személyi adatait,
+
+c) ha a terhelt fiatalkorú, ezt a tényt,
+
+d) annak a bűncselekménynek a Btk. szerinti minősítését (a törvényhely megjelölésével), amely miatt a terhelt ellen az eljárás folyik,
+
+e) rendelkezést az előzetes letartóztatás elrendeléséről, fenntartásáról, illetve megszüntetéséről, és azt, hogy az elrendelt vagy fenntartott előzetes letartóztatás mennyi ideig tarthat,
+
+f) az előzetes letartóztatás végrehajtásának helyét,
+
+g) a bíróság esetleges rendelkezését a terhelt fokozott őrzéséről, levelezésének és látogatásának ellenőrzéséről, a levelezés, látogató fogadása és csomagküldemény korlátozásáról, a terhelt részére távbeszélő használatának engedélyezéséről, az ugyanabban az eljárásban letartóztatottaktól való elkülönítéséről, a nyomozó hatóság részére való kiadásáról, más bv. intézetbe szállításáról,
+
+h) az eljáró ügyészség megjelölését és ügyszámát,
+
+i) ha a terhelt más ügyben szabadságvesztést tölt, vagy előzetes letartóztatásban van, ennek a körülménynek és a másik ügynek (eljáró hatóság és ügyszám), valamint a fogva tartó bv. intézetnek a megjelölését,
+
+j) ha a terhelttel szemben más ügyben házi őrizetet rendeltek el, ennek a körülménynek és a másik ügynek (eljáró hatóság és ügyszám), valamint a terhelt házi őrizet céljára kijelölt lakásának helye szerint illetékes rendőrkapitányság megjelölését,
+
+k) bírói rendelvényt az előzetes letartóztatás végrehajtására vagy a terhelt szabadon bocsátására,
+
+l) a bíróság bélyegzőjét és a tanács elnökének saját kezű aláírását.
+
+(2) Ha a bíróság az ítélet meghozatala után határoz az előzetes letartóztatás kérdésében, az értesítőlap az (1) bekezdésben felsoroltakon kívül tartalmazza a kiszabott büntetést, az előzetes fogvatartás, vagy a házi őrizet beszámítását és a feltételes szabadságra bocsátás lehetőségét.
+
+(3) Ha a bíróság az előzetes letartóztatás megszüntetéséről óvadék megfizetése mellett határoz, az értesítőlap az (1) bekezdésben felsoroltakon kívül tartalmazza az óvadék befizetésének tényét, valamint az óvadék megállapítása tárgyában jogerős határozatot hozó bíróság megjelölését.
+
+(4) A másodfokú bíróság által kiállított értesítőlapon az első fokon eljárt, a harmadfokú bíróság által kiállított értesítőlapon az első fokon, és a másodfokon eljárt bíróság megnevezését, határozatának keltét és számát is fel kell tüntetni.

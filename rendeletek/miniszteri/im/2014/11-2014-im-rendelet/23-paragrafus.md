@@ -1,0 +1,5 @@
+23. § (1) A felhívás megtörténtét követően a BVOP gyűjtőjegyzékkel írásban – vagy ahol a feltételek adottak elektronikus úton – három napon belül tájékoztatja az első fokú bíróság székhelye szerint illetékes bv. csoportot a felhívás tényéről, a szabadságvesztés megkezdésére előírt napról és a végrehajtás megkezdésére kijelölt intézetről.
+
+(2) A bv. intézet a végrehajtásra behívott elítéltek jegyzékében meghatározott adatokat az átvételt követően saját nyilvántartásába átvezeti.
+
+(3) Ha a bv. intézet közli a bv. csoporttal, hogy a felhívásra megjelent elítélt befogadása megtörtént, a bv. bíró – ha időközben nem merült fel a szabadságvesztés végrehajtásának akadálya – bírói rendelvényt ad a szabadságvesztés végrehajtására. A rendelvényt, a már rendelkezésre álló határozatkiadmányok két példányát, a foglalkozástól eltiltásról, járművezetéstől eltiltásról, kitiltásról, sportrendezvények látogatásától való eltiltásról, kiutasításról vagy közügyektől eltiltásról kiállított értesítőlapot, valamint az egyéb iratokat a bv. csoport három napon belül megküldi a végrehajtásra kijelölt bv. intézetnek.

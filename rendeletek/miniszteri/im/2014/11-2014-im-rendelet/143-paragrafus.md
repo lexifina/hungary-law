@@ -1,0 +1,7 @@
+## 70. Az elektronikus adat végleges hozzáférhetetlenné tétele az elektronikus adat eltávolításával
+
+143. § (1) A bíróság a határozata erre vonatkozó részének jogerőre emelkedésekor három példányban végrehajtási értesítőlapot állít ki. A végrehajtási értesítőlap a 3. §-ban foglaltakon túl tartalmazza az elektronikus adatra és a teljesítésre kötelezett tárhelyszolgáltatóra vonatkozó 142. § (1) és (4) bekezdése szerinti adatokat és a kötelezett önkéntes teljesítésre felhívását. Ha a büntetőeljárás során az elektronikus adat ideiglenes hozzáférhetetlenné tételét rendelték el, a bíróság a végrehajtási értesítőlapon ennek tényét és a kényszerintézkedést elrendelő bíróság megnevezését, határozatának számát és keltét is feltünteti.
+
+(2) A bíróság a végrehajtási értesítőlap két példányát eredeti bírói aláírással látja el és az elektronikus adat végleges hozzáférhetetlenné tételének az elektronikus adat eltávolításával történő foganatosítása végett a Vht. 32. §-a szerint illetékes törvényszéki végrehajtói irodának küldi meg. A bíróság a végrehajtási értesítőlap harmadik példányát a bíróság székhelye szerint illetékes bv. csoportnak küldi meg.
+
+(3) A tanács elnöke az iratboríték belső oldalán feljegyzi, hogy az elektronikus adat végleges hozzáférhetetlenné tételének az elektronikus adat eltávolításával történő végrehajtása érdekében kiállított végrehajtási értesítőlapokat hány példányban, mikor és hová küldte meg.
