@@ -1,5 +1,7 @@
 83. § (1) A pénztár, a felszámolás esetét kivéve, csak végelszámolást követően, a Felügyelet előzetes tájékoztatásával szűnhet meg. A végelszámolási eljárásra a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvényt (a továbbiakban: Ctv.) az e törvényben foglalt eltérésekkel kell megfelelően alkalmazni.
 
+(1a) A pénztár jogutód nélkül végelszámolással megszűnik, ha a tagdíjfizető tagok száma a megelőző hat hónap átlagában legalább kettő hónapon keresztül a taglétszám hetven százaléka alá csökken.
+
 (2) A pénztár megszűnését az illetékes bíróságnak be kell jelenteni. A végelszámolás kezdő időpontjában a pénztár vezető tisztségviselői közül az ellenőrző bizottsági tagok megbízatása nem szűnik meg. A bíróság a végelszámoló nyilvántartásba vételéről rendelkező, illetve az igazgatótanácsi tagok nyilvántartásból törléséről rendelkező végzésének meghozatalát követően a Cégközlönyben a Ctv. 102. § (2) bekezdésében foglaltaknak megfelelő közleményt tesz közzé. A Felügyelet a végelszámolás lefolytatását köteles ellenőrizni. A bíróság a pénztárat a nyilvántartásból a Felügyelet tevékenységet lezáró határozatának jogerőre emelkedését követően törli.
 
 (3) A pénztár végelszámolása esetén az ellenőrző bizottsági tagok megbízatása a pénztár megszűnésével egyidejűleg ér véget.

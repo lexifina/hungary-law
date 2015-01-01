@@ -45,3 +45,5 @@ f) az engedély kiadásának feltételei már nem állnak fenn, és azok megfele
 g) jogutód nélkül megszűnik,
 
 h) taglétszáma 6 hónapot meghaladó időtartamban nem éri el a 7. § (1) bekezdésében meghatározott taglétszámot.
+
+(3) A pénztár tevékenységi engedélyét a 83. § (1a) bekezdése szerinti esetben vissza kell vonni.

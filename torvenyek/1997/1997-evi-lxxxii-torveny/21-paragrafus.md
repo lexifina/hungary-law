@@ -20,7 +20,7 @@ d) az SzMSz szerint jogosult a pénztári nyugdíjszolgáltatások igénybevéte
 
 (4) A pénztártag köteles
 
-a) tagsági jogviszonyát valamely általa választott pénztárban folyamatosan fenntartani,
+a)
 
 b) adatszolgáltatási kötelezettségének eleget tenni,
 

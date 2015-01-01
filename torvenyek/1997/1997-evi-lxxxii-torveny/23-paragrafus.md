@@ -18,14 +18,16 @@ g) a törvény 3. § alapján magánnyugdíjpénztárba belépett személy – a
 
 h)
 
-i) a 28. § (1) bekezdésének b) pontja szerinti egyösszegű szolgáltatás igénybevételével;
+i)
 
-j) a törvény 24. § (15) bekezdésében foglalt megszüntetéssel, a megszüntetés napjával
+j) a törvény 24. § (15) bekezdésében foglalt megszüntetéssel, a megszüntetés napjával;
+
+k) a 30/A. § (4) bekezdésében, a 83. § (7) bekezdésében és a 84. § (4) bekezdésében foglalt esetben a pénztártag társadalombiztosítási nyugdíjrendszerbe történő visszalépése esetén a nyugdíj megállapítását megelőző nappal
 
 szűnik meg.
 
 (2) A tagdíjfizetés elmulasztása nem szünteti meg a tagsági viszonyt.
 
-(3) A pénztár a tagsági jogviszony megszűnéséről és módjáról értesíti a Felügyeletet.
+(3)
 
 (4) A tagsági viszony átlépéssel való megszüntetésére legkorábban a pénztárbeli tagsági viszony kezdő időpontjától számított hat hónap eltelte után kerülhet sor, kivéve az (1) bekezdés c) pontja alatti esetet.

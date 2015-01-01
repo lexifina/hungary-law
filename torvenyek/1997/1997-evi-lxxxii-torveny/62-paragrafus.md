@@ -1,4 +1,4 @@
-62. § (1) A tartalékok, valamint a működéssel kapcsolatos bevételek és kiadások elszámolását – ideértve az egyéni és szolgáltatási tartalékok bevételeinek és kiadásainak elszámolását is – legalább havonta kell elvégezni.
+62. § (1) A tartalékok, valamint a működéssel kapcsolatos bevételek és kiadások elszámolását – ideértve az egyéni és szolgáltatási tartalékok bevételeinek és kiadásainak elszámolását is – legalább havonta kell elvégezni. A fedezeti tartalékon belül, az egyéni számlákon külön kell nyilvántartani és elszámolni az önkéntes befizetéseket és az ezekre vonatkozó bevételeket és kiadásokat.
 
 (2) A fedezeti tartalék eszközeinek befektetéséből származó eredményt (beleértve az eszközök piaci értéken történő értékelésekor megállapított különbözetet is) a tagok egyéni számlái és a szolgáltatási tartalékok javára negyedévente kell jóváírni. Az elszámolóegységekre épülő nyilvántartási rendszert alkalmazó pénztárnak a fedezeti tartalék eszközeinek befektetéséből – kivéve a szolgáltatási tartalékot – származó eredményt (beleértve az eszközök piaci értéken történő értékelésekor megállapított különbözetet is) a tagok egyéni számlái javára naponta kell jóváírni.
 

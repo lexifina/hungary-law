@@ -20,7 +20,7 @@ g) belső ellenőrt
 
 alkalmazni, illetőleg foglalkoztatni. Az a), b), c) és g) pontokban felsorolt személyeket a pénztár kizárólag munkaviszony keretében alkalmazhatja.
 
-(3) Az ügyvezető elláthatja a (2) bekezdés c), f) pontban meghatározottak feladatát is, amennyiben a vonatkozó feltételeknek egyébként megfelel.
+(3) Az ügyvezető elláthatja a (2) bekezdés c) és f) pontjában meghatározottak feladatát is, ha a vonatkozó feltételeknek egyébként megfelel. A (2) bekezdés a)–g) pontjában meghatározott személyek nem lehetnek az igazgatótanács vagy az ellenőrző bizottság tagjai.
 
 (4) A pénztárnak a Felügyelet, illetve az Alap részére teljesítendő információszolgáltatás érdekében a beszámolási rendszerhez, nyilvántartási követelményekhez igazodó számítástechnikai eszközökkel, valamint a tájékoztatási kötelezettségei teljesítése érdekében internetes honlappal kell rendelkeznie.
 

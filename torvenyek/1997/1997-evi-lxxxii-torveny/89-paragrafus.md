@@ -4,7 +4,7 @@
 
 a) ha az Alap tagjánál a pénztártag vagy kedvezményezett követelése átlépés, a társadalombiztosítási nyugdíjrendszerbe való visszalépés vagy járadékszolgáltatás, valamint a tag elhalálozása esetén befagyott,
 
-b) ha a tag magánnyugdíjpénztár által vezetett egyéni számlájának egyenlege a nyugdíjszolgáltatás megállapításakor nem éri el a hozamgarantált tőke összegét,
+b)
 
 c) ha a nyugdíj folyósításának időszakában a szolgáltatási tartalékának szintje a szolgáltatási kötelezettségek teljesítését nem teszi lehetővé.
 
@@ -14,9 +14,9 @@ c) ha a nyugdíj folyósításának időszakában a szolgáltatási tartalékán
 
 a) a tagnak a felhalmozási időszak és a járadékos időszak alatti átlépése, a társadalombiztosítási nyugdíjrendszerbe történő visszalépése esetén a pénztár által teljesített kifizetést a Nyugdíjbiztosítási Alap, illetve a választott pénztár részére kiegészíti a tag követelésének mértékéig,
 
-b) a tag magánnyugdíjpénztár által vezetett egyéni számlájának egyenlegét – amennyiben az a nyugdíjszolgáltatás megállapításakor nem éri el a hozamgarantált tőke összegét – a hozamgarantált tőke mértékéig kiegészíti,
+b)
 
-c) kiegészíti a szolgáltatási tartalékot, ha az aktuáriusi értékelés szerint a járadék folyósításának időszakában a szolgáltatási tartalék szintje a likviditási tartalék demográfiai tartalékának felhasználása után sem éri el a szolgáltatásra jogosult pénztártagok tagonként meghatározott követelésének összegét.
+c)
 
 (4) Az Alap a (3) bekezdés b) pontjában foglalt kifizetést nem teljesíti, amennyiben a tag
 

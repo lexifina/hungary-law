@@ -80,9 +80,9 @@ zsh) ingatlanüzemeltetés: az ingatlan napi működésével és működtetésé
 
 zsi) minősített befolyás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott fogalom;
 
-zsj) hozamgarantált tőke: a pénztártag életjáradékra váltandó egyéni számlaegyenlegének 3. számú mellékletben foglaltak szerint kiszámított legkisebb összege, melyet a Pénztárak Garanciaalapja a szolgáltatás megállapításakor az e törvényben meghatározott feltételek szerint garantál;
+zsj) hozamgarantált tőke: a pénztártag életjáradékra váltandó egyéni számlaegyenlegének 3. számú mellékletben foglaltak szerint kiszámított legkisebb összege;
 
-zsk) visszalépő tagi kifizetések: a társadalombiztosítási nyugdíjrendszerbe történő visszalépés esetén a tag jogosult a követelésének részét képező egyéniszámla-egyenleg tagdíjbefizetése alapján kiszámított, a zsj) pontban meghatározott hozamgarantált tőke összege feletti összegének és a pénztártagságának ideje alatt befizetett tagdíjkiegészítés összegének felvételére, vagy annak önkéntes kölcsönös nyugdíjbiztosító pénztárnál vezetett tagi számláján történő jóváírására, vagy a társadalombiztosítási nyugdíjrendszerben történő nyilvántartására;
+zsk) visszalépő tagi kifizetések: a társadalombiztosítási nyugdíjrendszerbe történő visszalépés esetén a tag jogosult a követelésének részét képező egyéniszámla-egyenleg tagdíjbefizetése alapján kiszámított, a zsj) pontban meghatározott hozamgarantált tőke összege feletti összegének és a pénztártagságának ideje alatt önkéntes alapon befizetett tagdíjnak, tagdíj-kiegészítés összegének felvételére, vagy annak önkéntes kölcsönös nyugdíjbiztosító pénztárnál vezetett tagi számláján történő jóváírásra. Ha a tag nem rendelkezik a visszalépő tagi kifizetésekről, azokat a Nyugdíjbiztosítási Alapba kell utalni.
 
 zsl) Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank.
 
