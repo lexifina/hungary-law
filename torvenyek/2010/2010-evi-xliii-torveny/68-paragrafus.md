@@ -6,6 +6,6 @@
 
 (4) A közigazgatási államtitkár titkárságát főosztályvezető vezeti, akinek a tevékenységét a közigazgatási államtitkár irányítja.
 
-(5) A helyettes államtitkár titkárságát főosztályvezető vezeti, akinek a tevékenységét a helyettes államtitkár irányítja. A 65. § (2) bekezdése szerinti helyettes államtitkár titkárságát osztályvezető vezeti, akinek a tevékenységét a helyettes államtitkár irányítja.
+(5) A helyettes államtitkár titkárságát – ha törvény eltérően nem rendelkezik – főosztályvezető vezeti, akinek a tevékenységét a helyettes államtitkár irányítja. A 65. § (2) bekezdése szerinti helyettes államtitkár titkárságát osztályvezető vezeti, akinek a tevékenységét a helyettes államtitkár irányítja.
 
 (6)

@@ -16,4 +16,4 @@
 
 (4b) Felhatalmazást kap a Kormány, hogy az 5/A. § szerinti átadás-átvétel eseteit, módját, időpontját és eljárási szabályait, valamint az átadás-átvétel felelősét rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a miniszterelnök, hogy az állami vezetői igazolvány formájával, kiadásával, tartalmával, felhasználásával és kezelésével kapcsolatos szabályokat rendeletben állapítsa meg.
+(5)

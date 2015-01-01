@@ -42,15 +42,13 @@ e) a Nemzeti Választási Iroda.
 
 a) a Központi Statisztikai Hivatal,
 
-b)
+b) az Országos Atomenergia Hivatal,
 
-c)
+c) a Szellemi Tulajdon Nemzeti Hivatala,
 
-d) az Országos Atomenergia Hivatal,
+d) a Nemzeti Adó- és Vámhivatal,
 
-e) a Szellemi Tulajdon Nemzeti Hivatala.
-
-f) a Nemzeti Adó- és Vámhivatal.
+e) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal.
 
 (5) Rendvédelmi szerv
 
