@@ -10,7 +10,9 @@ b) a területi kamara elnökségének előzetes engedélyével létesített kura
 
 c) külön törvényben szabályozott közvetítői eljárásban folytatott közvetítői tevékenység,
 
-d) a közjegyzői kamarában végzett tevékenység.
+d) a közjegyzői kamarában végzett tevékenység,
+
+e) a nevelőszülői foglalkoztatási jogviszony létesítése.
 
 (4) A közjegyző a fél részére nem készíthet magánokiratot, kivéve az aláírási címpéldány tervezetet.
 
