@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-115-00-00
 | 2013-01-01 | 2012. évi XCIII. törvény | 2009-115-00-00.9 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 2009-115-00-00.10 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2009-115-00-00.11 |
+| 2015-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-115-00-00.12 |
