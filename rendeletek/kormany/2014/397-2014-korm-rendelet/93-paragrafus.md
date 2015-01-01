@@ -1,7 +1,11 @@
-## 92. § Hatályát veszti a Civil Alap – 2014 pályázati program keretében nyújtott támogatások sajátos szabályairól szóló 499/2013. (XII. 29.) Korm. rendelet 3. § 4. pontjában a „továbbá az adók vagy adók módjára behajtható fizetési kötelezettségek,” szövegrész.
+## 27. A kormányablakokról szóló 515/2013. (XII. 30.) Korm. rendelet módosítása
 
-## 27–29.[^50]
+## 93. § A kormányablakokról szóló 515/2013. (XII. 30.) Korm. rendelet
 
-93. §
+1. 2. § (1) bekezdésében az „a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés e)–h) pontjaiban” szövegrész helyébe az „az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában” szöveg,
 
-[^50]: A 27–29. alcím (93–96. §) a 100. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+2. 3. melléklet 58. pontjában a „terhességi-gyermekágyi segély” szövegrész helyébe „csecsemőgondozási díj” szöveg,
+
+3. 4. melléklet 1. pontjában a „Terhességi-gyermekágyi segély” szövegrész helyébe a „Csecsemőgondozási díj” szöveg
+
+lép.

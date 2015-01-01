@@ -1,1 +1,3 @@
-84. §
+## 83. § A nemzetiségi célú előirányzatokból nyújtott támogatások feltételrendszeréről és elszámolásának rendjéről szóló 428/2012. (XII. 29.) Korm. rendelet 4. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A feladatalapú költségvetési támogatási keretet a helyi nemzetiségi önkormányzatok között fel kell osztani úgy, hogy a területi nemzetiségi önkormányzatok száma kétszeres szorzóval számítódik. A támogatási évben megállapított egy pontszám forintértékét a helyi nemzetiségi önkormányzatokra vonatkozóan a rendelkezésre álló költségvetési keret és az érintett nemzetiségi önkormányzatok részére meghatározott összes pontszám hányada adja. A helyi nemzetiségi önkormányzat éves feladatalapú költségvetési támogatása a pontszám forintértékének és a helyi nemzetiségi önkormányzatnak megállapított pontszám szorzata.”

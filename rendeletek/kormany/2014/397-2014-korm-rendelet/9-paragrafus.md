@@ -1,3 +1,1 @@
-9. §[^7]
-
-[^7]: A 4–28. § a 100. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## „(5a) A munkamegosztási megállapodásnak tartalmaznia kell, hogy a 9. § (1) bekezdése szerinti feladatok közül melyik feladatot melyik költségvetési szerv látja el. Egy feladatra csak egy költségvetési szerv jelölhető ki. Az irányító szerv az önkormányzati hivatalt külön gazdasági szervezet nélkül is kijelölheti a 9. § (1) bekezdésében meghatározott feladatok ellátására. A munkamegosztási megállapodást az irányító szerv hagyja jóvá.”

@@ -1,3 +1,1 @@
-22. §[^20]
-
-[^20]: A 4–28. § a 100. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## „(8) A társulás, térségi fejlesztési tanács kiadási előirányzatai terhére a társulási tanács, térségi fejlesztési tanács elnöke vagy a társulási tanács, térségi fejlesztési tanács általa írásban, vagy az elnöki tisztség betöltésének hiánya esetén a társulási tanács, térségi fejlesztési tanács által határozatban felhatalmazott valamely tagja vállalhat kötelezettséget.”

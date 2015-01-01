@@ -1,3 +1,3 @@
-41. §[^38]
+## 40. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet az „[Az Áht. 107. § (1) bekezdéséhez]” alcíme a következő 168. §-sal egészül ki:
 
-[^38]: A 30–45. § a 100. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## „168. § A 6. mellékletben megjelöltek kötelesek az ott meghatározott adatokat a leírt módon és időpontokban közzétenni.”

@@ -1,3 +1,5 @@
-18. §[^16]
+## 17. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 35. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
 
-[^16]: A 4–28. § a 100. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## „(1) A költségvetési szerv és a fejezeti kezelésű előirányzat közhatalmi bevételek, működési bevételek és felhalmozási bevételek költségvetési bevételi előirányzatok eredeti vagy – ha a bevételek tervezettől történő elmaradása miatt csökkentették – módosított előirányzatán felül teljesített költségvetési bevétel (e § alkalmazásában a továbbiakban: többletbevétel) az irányító szerv előzetes engedélyével, a felhasználásra engedélyezett többletnek megfelelő összegű, az irányító szerv hatáskörében végrehajtott előirányzat-módosítás után használható fel.
+
+## (2) Ha a többletbevétel a Kormány irányítása alá tartozó fejezetbe sorolt költségvetési szerv, fejezeti kezelésű előirányzat esetén eléri az eredeti előirányzat 30%-át, de legalább az ötven millió forintot, az ezt meghaladó többletbevétel az államháztartásért felelős miniszter előzetes engedélyével használható fel az (1) bekezdésben meghatározott módon.”

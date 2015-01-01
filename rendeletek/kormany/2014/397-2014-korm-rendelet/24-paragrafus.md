@@ -1,3 +1,5 @@
-24. §[^22]
+## 23. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 61. § (4) bekezdése a következő e) ponttal egészül ki:
 
-[^22]: A 4–28. § a 100. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## (A költségvetési főfelügyelő, felügyelő)
+
+## „e) szükség esetén javaslatot tesz, ajánlást fogalmaz meg a belső információáramlások, gazdálkodási folyamatok, érdekeltségi rendszerek átalakítására, továbbá a szakmai szabályozással összefüggésben, amelyre a költségvetési szerv vezetője a javaslat, ajánlás kézhezvételétől számított harminc napon belül írásban véleményt nyilvánít.”

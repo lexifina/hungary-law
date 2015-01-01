@@ -1,3 +1,3 @@
-## 89. § A Civil Alap – 2014 pályázati program keretében nyújtott támogatások sajátos szabályairól szóló 499/2013. (XII. 29.) Korm. rendelet a következő 9. §-sal egészül ki:
+90. §[^12]
 
-## „9. § Ez a rendelet az Európai Bizottság SA.34770 (2012/N-2). számú határozata hatálya alá tartozó támogatást tartalmaz.”
+[^12]: A 87–92. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

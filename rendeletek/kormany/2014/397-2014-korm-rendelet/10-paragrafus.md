@@ -1,3 +1,3 @@
-10. §[^8]
+## 9. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 10. §-a helyébe a következő rendelkezés lép:
 
-[^8]: A 4–28. § a 100. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## „10. § A gazdasági szervezetnek a 13. § (5) bekezdése szerinti ügyrenddel kell rendelkeznie. A gazdasági szervezet ügyrendjében nem kell szabályozni a 13. § (2), (3) és (3a) bekezdése szerint kiadott szabályzatokban rendezett kérdéseket. Ha a gazdasági szervezet feladatait több szervezeti egység látja el, a szervezeti egységeknek külön-külön kell rendelkezniük ügyrenddel, de a gazdasági szervezet egészére nézve nem kell külön ügyrendet készíteni.”

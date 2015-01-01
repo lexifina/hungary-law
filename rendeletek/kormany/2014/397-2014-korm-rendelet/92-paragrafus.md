@@ -1,1 +1,3 @@
-## 91. § A Civil Alap – 2014 pályázati program keretében nyújtott támogatások sajátos szabályairól szóló 499/2013. (XII. 29.) Korm. rendelet 8. §-ában a „2015. június 30-án” szövegrész helyébe a „2016. június 30-án” szöveg lép.
+92. §[^14]
+
+[^14]: A 87–92. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

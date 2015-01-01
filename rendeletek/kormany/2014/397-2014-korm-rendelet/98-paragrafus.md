@@ -1,7 +1,5 @@
-## III. Fejezet[^51]
+## III. Fejezet
 
-## 31–32.
+## EGYES MINISZTERI RENDELETEK HATÁLYON KÍVÜL HELYEZÉSE
 
-98. §
-
-[^51]: A III. fejezet (98–99. §) a 100. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## 31. A rendezett munkaügyi kapcsolatok feltételeiről és igazolásának módjáról szóló 1/2012. (I. 26.) NGM rendelet hatályon kívül helyezése
