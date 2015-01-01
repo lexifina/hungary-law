@@ -24,7 +24,7 @@ Az a)–c) pontokban foglaltakat nyilvánosságra kell hozni.
 
 (5)
 
-(6) Az Alapok és a társadalombiztosítási költségvetési szervek a kincstári körbe tartoznak.
+(6)
 
 (7)
 
