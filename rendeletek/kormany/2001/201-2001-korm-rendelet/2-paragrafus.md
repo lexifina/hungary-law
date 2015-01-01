@@ -22,12 +22,14 @@ g) ivóvízbiztonság: az ivóvízfogyasztáshoz, illetve -használathoz kapcsol
 
 h) ivóvízbiztonság hatósági ellenőrzése: az ivóvíz-szolgáltatás körülményeinek, az üzemeltető ivóvízminőséget befolyásoló tevékenységének és a vízminőség vizsgálati adatoknak az illetékes népegészségügyi szerv által végzett ellenőrzése és értékelése, illetve a vízminőség vizsgálati adatoknak a 178/2002/EK rendelet szerinti ivóvíz élelmiszeripari vállalkozásoknál élelmiszer-előállításra történő felhasználása esetén azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják az élelmiszerlánc-felügyeleti szerv által végzett ellenőrzése és értékelése,
 
-i) ivóvízellátó rendszer: a Vksztv. 2. § 20. pont a) alpontjában meghatározott víziközmű,
+i)[^6] ivóvízellátó rendszer: az ivóvíz beszerzését és szolgáltatását biztosító vízilétesítmények összessége,
 
 j) kifogásolt minőségű ivóvíz: olyan víz, amely az emberi egészséget veszélyeztető anyagot vagy szervezetet nem tartalmaz, de amelyben a vízfelhasználást zavaró (például esztétikai vagy egyéb panaszt okozó) anyag vagy szervezet előfordul,
 
-k) üzemeltető: a Vksztv. 15. § (2) bekezdése szerint az adott ellátási területen a víziközmű-szolgáltató, amely az ellátásért felelőssel víziközmű-üzemeltetési jogviszonyban áll, és a Vksztv. alapján az adott víziközmű-rendszerre vonatkozóan működési engedélyt kapott, vagy a Magyar Energetikai és Közmű-szabályozási Hivatal határozatában közérdekű üzemeltetőként kijelölésre került,
+k)[^7] üzemeltető: a Vksztv. 15. § (2) bekezdése szerint az adott ellátási területen a víziközmű-szolgáltató, amely az ellátásért felelőssel víziközmű-üzemeltetési jogviszonyban áll, és a Vksztv. alapján az adott víziközmű-rendszerre vonatkozóan működési engedélyt kapott, vagy a Magyar Energetikai és Közmű-szabályozási Hivatal határozatában közérdekű üzemeltetőként kijelölésre került, vagy az egyedi ivóvízellátórendszer üzemeltetője,
 
 l) vízminőségi jellemzők: a víz minőségének leírására és értékelésére szolgáló mutatók (paraméterek).
 
 [^5]: A 2. § a 430/2013. (XI. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 2. § i) pontja a 364/2014. (XII. 30.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^7]: A 2. § k) pontja a 364/2014. (XII. 30.) Korm. rendelet 49. § a) pontja szerint módosított szöveg.

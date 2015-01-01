@@ -204,9 +204,7 @@
 
 ## 1. A 4. § (2) bekezdése szerinti vízbázisból származó víz esetében a jelen melléklet D) részében foglalt határértékek az irányadók.
 
-## A permanganát-index (KOIps) határértéke felszíni vízből nyert ivóvízben (az egyéb vizekkel való keveredés előtt) 3,5 mg/l és 5,0 mg/l közötti érték azzal, hogy – e tartományon belül – a nyers vízben mért érték 65%-át nem haladja meg.
-
-## A 6. számú melléklet B) részében felsorolt településeken a határérték betartásának biztosításáig az 1. számú melléklet F) részében foglalt ideiglenes határértéket kell alkalmazni.
+## A permanganát-index (KOIps) határértéke felszíni vízből nyert ivóvízben (az egyéb vizekkel való keveredés előtt) 3,5 mg/l és 5,0 mg/l közötti érték, azzal, hogy – e tartományon belül – a nyers vízben mért érték 65%-át nem haladja meg.
 
 ## 2. A víz nem lehet agresszív.
 
@@ -252,80 +250,66 @@
 
 | klorid | 100 | mg/l |
 
-## E) Biológiai vízminőségi jellemzők és határértékek
+## E) Mikroszkópos biológiai vízminőségi jellemzők és határértékek
 
-| Vízminőségi jellemzők | Határértékek | Egység | Megjegyzés |
+| Vízminőségi jellemzők | Parametrikus érték | Egység | Megjegyzés |
 
-| üledék | 0,10 | ml/l | 1. |
+| Üledék | 0,1 | ml/l | 2.1. |
 
-| véglények | 0 | szám/l | 2. |
+| Vas- és mangánbaktériumok | 2x104 | szám/l | 2.2. |
 
-| fonálférgek (Nematoda) | 5 | szám/l | 3. |
+| Kénbaktériumok | 2x104 | szám/l | 2.2., 2.3. |
 
-| egyéb férgek | 0 | szám/l | 4. |
+| Szennyezettséget jelző baktériumok | 0 | szám/l | 2.1. |
 
-| szennyezettség jelző |  |  |  |
+| Cianobaktériumok és algák | 5x103 | szám/l | 2.4. |
 
-| baktériumok | 0 | szám/l | 1. |
+| Gombák | 0 | szám/l | 2.1. |
 
-| gombák | 0 | szám/l | 1. |
+| Házas amőbák | 5 | szám/l | 2.5. |
 
-| vas- és mangánbaktériumok | 2x104 | szám/l | 5. |
+| Egyéb véglények | 0 | szám/l | 2.6. |
 
-| kénbaktériumok | 102 | szám/l | 6. |
+| Fonálférgek | 5 | szám/l | 2.7. |
 
-| algák és cianobaktériumok | 5x103 | szám/l | 7. |
+| Egyéb férgek | 0 | szám/l | 2.8. |
 
-| magasabb rendű szervezetek | 0 | szám/l | 8. |
+| Egyéb (gerinctelen) szervezetek | 0 | szám/l | 2.9. |
 
-## Megjegyzések:
+## 1. Vizsgálati követelmények
 
-## 1. Legalább 1 liter vízmintából 0,45 µm-es membránszűrőn kiszűrt, lemosott, majd centrifugálva tömörített anyagként mérve.
+## 1.1. A mikroszkópos biológiai vizsgálatok kizárólag a fénymikroszkóppal azonosítható szervezetekre és a mikroszkópos kép alapján felismerhető egyéb képletekre vonatkoznak. A tárgykörbe tartozó vizsgálatok alapkövetelménye az áteső fényben történő vizsgálat, a pontosabb meghatározáshoz viszont célszerű egyéb fénymikroszkóphoz kapcsolható képalkotó technikák alkalmazása (például sötétlátóteres, fáziskontraszt, differenciál interferenciakontraszt feltétek)
+
+## 1.2. A vízmintában azonosított szervezeteket olyan taxonómiai rangban kell megadni, amelyben az adott szervezet a mikroszkópos kép alapján kellő bizonyossággal meghatározható.
+
+## 1.3. A mikroszkópos biológiai határértékek túllépése esetén a kifogásoltságot okozó szervezetek előfordulásának okát minden esetben ki kell deríteni és számuk határértéknek megfelelő csökkentése érdekében be kell avatkozni.
+
+## 2. Megjegyzések:
+
+## 2.1. Legalább 1 liter vízmintából 0,45 μm-es membránszűrőn kiszűrt, lemosott, majd centrifugálva tömörített anyagként mérve.
 
 ## Ez az üledék sem tartalmazhat
 
 ## a) háztartási, ipari vagy mezőgazdasági eredetű anyagokat;
 
-## b) natív készítményben meghatározható, szennyezettséget jelző baktériumokat (pl. Spirillum, Spirochaeta, Sarcina, Zooglea, Beggiatoa), baktériumtelepeket, gombákat (pl. Fusarium, Leptomitus, Candida, kivéve: Alternaria, Cladosporium fajokat, melyek előfordulását az üledék minőségénél jelezzük és a szennyezés okát ki kell deríteni).
+## b) natív készítményben meghatározható, szennyezettséget jelző baktériumokat (pl. Spirillum, Spirochaeta, Sarcina, Zoogloea, Beggiatoa), baktériumtelepeket, gombákat (pl. Fusarium, Leptomitus, Candida, kivéve: Alternaria, Cladosporium fajokat, melyek előfordulását kizárólag az üledék minőségénél kell jelezni és a szennyezés okát ki kell deríteni). Az üledék mennyisége a vezetékhálózatban nem emelkedhet lényegesen a betáplált vízben mért értékhez képest. A betáplált vízben levő szervezetektől eltérő élőlények a vízfogyasztás helyén nem válhatnak jellemzővé.
 
-## Ha az üledékben csak elpusztult szervezeteket lehet kimutatni, célszerű deklórozott mintából víztoxikológiai ellenőrző vizsgálatot is végezni.
+## 2.2. Azokat a baktériumtelepeket (telepes, csomós elrendezésű formák), melyek fonalai, képletei egyértelműen nem számolhatóak, a mennyiségi meghatározásánál telepenként 100-nak kell számolni. A pontosan azonosítható és egymástól egyértelműen elkülöníthető fonalakat, képleteket egyenként kell számolni.
 
-## Az üledék mennyisége a vezetékhálózatban nem emelkedhet lényegesen a betáplált vízben mért értékhez képest.
+## 2.3. Kivéve a Beggiatoa fajokat és a vélhetően külső forrásból bekerülő, szennyezettséget jelző kénbaktérium szervezeteket, melyek a Szennyezettséget jelző baktériumok vízminőségi jellemzőihez sorolandóak.
 
-## A betáplált vízben levő szervezetektől eltérő élőlények a vízfogyasztás helyén nem válhatnak jellemzővé.
+## 2.4. A megadott határértéken túl parti szűrésű vízbázis esetén 500 szám/l, felszín alatti vízbázis esetén 100 szám/l mennyiség felett előfordulásuk okát ki kell deríteni és soron kívül be kell avatkozni számuk csökkentése érdekében. A mikroszkópos kép alapján azonosított, szakirodalmi hivatkozások alapján potenciálisan toxintermelő, valamint íz- és szagrontó algák előfordulása esetén ugyancsak soron kívüli üzemeltetői beavatkozás szükséges.
 
-## 2. Szennyezettséget jelző indikátor szervezetek: Flagelláták, Ciliaták, Rhizopodák különös tekintettel a patogénekre, a fakultatív patogénekre és cisztáikra (kivéve a házzal vagy héjjal rendelkező fajokat, pl. Centropyxis, Difflugia, Euglypha stb., melyek határértéke 5 szám/l, de előfordulásuk okát ki kell deríteni, és számuk csökkentése érdekében az üzemeltetőnek be kell avatkoznia).
+## 2.5. A csoportba kizárólag a házas amőbák (Testacea) képviselői tartoznak. Előfordulásuk okát minden esetben ki kell deríteni, és számuk csökkentése érdekében az üzemeltetőnek be kell avatkoznia.
 
-## 3. Nematoda fajok: a csoportba kizárólag a Nematoda egyedek tartoznak. Mivel a petéik egyértelműen nem különíthetőek el más férgek petéitől, azokat az egyéb férgek kategóriába kell sorolni. Nematoda kimutatása esetén, számuk csökkentése érdekében az üzemeltetőnek be kell avatkoznia.
+## 2.6. Szennyezettséget jelző indikátor szervezetek: állati életmódú ostorosok (Flagellata), csillós egysejtűek (Ciliata), gyökérlábúak (Rhizopoda) a házas amőbák (Testacea) kivételével, melyek előfordulását a házas amőbák vízminőségi jellemzőhöz kell sorolni.
 
-## 4. Oligochaeta-, Ascarida-, Gastrotricha-, Rotatoria-fajok és minden egyéb, feltehetően féregtől származó pete, coccon és egyéb kitartó képlet.
+## 2.7. A csoportba kizárólag a szabadon élő és nem parazita életmódú, mikroszkópikus méretű szabadonélő fonálférgek (Nematoda libera) kifejlett egyedei tartoznak. Előfordulásuk okát minden esetben ki kell deríteni, és számuk csökkentése érdekében az üzemeltetőnek be kell avatkoznia. Mivel a petéik egyértelműen nem különíthetőek el más férgek petéitől, azokat az Egyéb férgek vízminőségi kategóriába kell sorolni.
 
-## 5. Telepes baktériumok esetén a határérték a megadott határérték századrésze.
+## 2.8. A vízminőségi kategóriába a csillóshasúak (Gastrotricha), kerekesférgek (Rotatoria), húrfégek (Nematomorpha) és gyűrűsférgek (Annelida) törzsének képviselői (beleértve a különböző fejlődési alakokat, szaporodási formákat) tartoznak.
 
-## 6. Kivéve a Beggiatoa fajokat, melyek a szennyezettségjelző baktériumok csoportjába sorolandóak.
+## 2.9. A vízminőségi kategóriába a Medveállatkák (Tardigrada), Ízeltlábúak (Arthropoda) törzsének képviselői és minden egyéb, előző vízminőségi jellemzőkhöz nem besorolható többsejtű szervezetek tartoznak.
 
-## 7. Felszíni vízből nyert ivóvíz esetén; parti szűrés esetén a határérték a megadott határérték tizedrésze, minden más esetben a határérték a megadott határérték ötvened része.
+2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^91]
 
-## 8. Magasabb rendű szervezetek (pl. ízeltlábúak, medveállatkák és egyéb többsejtű szervezetek) ivóvízben való előfordulása esetén ivóvíztisztítási technológiát érintő beavatkozásra van szükség.
-
-## F) Ideiglenes határértékek
-
-| arzén | 50 μg/l |
-
-| bór B | 5,0 mg/l |
-
-| bromát | 25 μg/l |
-
-| fluorid | 1,7 mg/l |
-
-| nitrit* | 1,0 mg/l |
-
-| ólom | 25 μg/l |
-
-| ammónium | 2,0 mg/l |
-
-## * Az ideiglenes határérték első életévüket be nem töltött csecsemők és várandós anyák ivóvízellátásában nem alkalmazható.
-
-2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^81]
-
-[^81]: A 2. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^91]: A 2. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 364/2014. (XII. 30.) Korm. rendelet 50. § (2) bekezdése szerint módosított szöveg.

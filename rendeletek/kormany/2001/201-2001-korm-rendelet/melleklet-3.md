@@ -132,11 +132,9 @@
 
 ## B) Minimális mintavételi és vizsgálati gyakoriság vízellátó hálózat vagy élelmiszer előállításra használt ivóvíz esetében
 
-## A vízmintavételi helyeket a vízellátó rendszer üzemeltetője (élelmiszert előállító, feldolgozó stb. üzemben maga az üzem) a 4. § (1) bekezdés a)–c) pontjai szerinti pontokon az illetékes népegészségügyi szervvel; a 4. § (1) bekezdés d) pontja szerinti ponton az illetékes népegészségügyi szervvel és az élelmiszerlánc-felügyeleti szervvel egyeztetve jelöli ki.
-
 ## A víznyerő helyek (kutak), a vízkezelési technológia, a vízellátó rendszerbe betáplálás vagy más hálózati pont (pl. tárolók) mintázása is célszerű, azonban az itt vett minták az alábbi követelmény teljesítése szempontjából nem vehetők figyelembe.
 
-## 1. Az üzemeltető által végzett (vagy végeztetett) vízkémiai vizsgálatok minimális mintaszáma
+## 1. Az üzemeltető által végzett vagy végeztetett vízkémiai vizsgálatok minimális mintaszáma (a vizsgálati mintaszámot a kerekítés szabályait figyelmen kívül hagyva, minden esetben felfelé kell kerekíteni, mind az önellenőrző, mind a hatósági vizsgálatok esetében)
 
 | Naponta termelt (szolgáltatott) ivóvíz mennyisége egy körzeten belül (1. és 2. megjegyzés) m3 | Ellenőrző vizsgálatra évente vett minták száma (3., 4. és 5. megjegyzés) | Részletes vizsgálatra évente vett minták száma (3. és 5. megjegyzés) |
 
@@ -144,7 +142,7 @@
 
 | 10–100 | 4 minta |
 
-| 100–1000 | 3 minta, + 1 minta minden megkezdett 100 m3/d mennyiségre | 2 minta |
+| 100-1000 | 4 minta | 1 minta |
 
 | 1000–10 000 | 4 + 3 minta minden megkezdett 1000 m3/nap (d) mennyiségre | 1 minta, + 1 minta minden megkezdett 3300 m3/d mennyiségre |
 
@@ -174,17 +172,7 @@
 
 ## A fenti táblázat ellenőrző vizsgálatokra vonatkozó mintaszáma az A) részben felsorolt kémiai vízminőségi jellemzőkre vonatkozik; a bakteriológiai vizsgálatok mintaszáma a táblázatban szereplő értékek kétszerese.
 
-## 2. Az előírt mintázási gyakoriság biológiai vizsgálat esetében
-
-## Biológiai vizsgálatot [az 1. számú melléklet E) rész] – az akut szennyezés vagy annak gyanúja esetén kívül – abban esetben kell rendszeresen végezni, ha a másodlagos biológiai szennyezés kialakulásának lehetősége fennáll [>20 °C, és a nyersvíz sok ammóniumot (>0,5 mg/l) vagy szerves anyagot (>5,0 mg/l KOIps vagy 2,0 mg/l TOC) tartalmaz].
-
-## Ebben az esetben az 1. pontban szereplő táblázat szerinti mintaszám 10%-át (de évente legalább egyszer; 5000 m3/d-nál nagyobb kapacitású vízműveknél kétszer) kell vizsgálni.
-
-## Egyéb esetekben kétévente, az 1. pont táblázata szerinti mintaszám kb. 5%-át, de vízművenként legalább 2 mintát kell vizsgálni.
-
-## Szennyezés vagy ennek gyanúja esetén, feltehetően biológiai szennyezésre visszavezethető eredetű (íz és szag) panaszok esetén soron kívül el kell végezni a vizsgálatot.
-
-## Pangó vagy rossz műszaki állapotban lévő hálózat esetében e hibák kiküszöböléséig, illetve a biológiai kifogásoltság megszűnéséig a fentiekben meghatározott gyakoriság kétszeresével kell a vizsgálatokat elvégezni.
+## 7. A vizsgálati mintaszámot a kerekítés szabályait figyelmen kívül hagyva, minden esetben felfelé kell kerekíteni, mind az önellenőrző, mind a hatósági vizsgálatok esetében.
 
 ## C) Minimális mintavételi és vizsgálati gyakoriság tartályban, ballonban és palackban forgalomba hozott vízre
 
@@ -204,6 +192,6 @@
 
 ## A vizsgálatot az üzemeltetőnek kell elvégeznie vagy elvégeztetnie.
 
-3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^82]
+3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^92]
 
-[^82]: A 3. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének f) pontja szerint módosított szöveg.
+[^92]: A 3. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének f) pontja szerint módosított szöveg.
