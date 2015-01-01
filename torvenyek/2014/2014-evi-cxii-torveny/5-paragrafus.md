@@ -1,0 +1,13 @@
+5. § (1) A Kertv. a következő 11/B. §-sal egészül ki:
+
+„11/B. § (1) A kereskedelemről szóló 2005. évi CLXIV. törvénynek a tisztességes piaci magatartás megvalósulása érdekében a vállalkozások működésével összefüggő módosításáról szóló 2014. évi CXII. törvény hatálybalépésekor működő, vagy – ha a működését még nem kezdte meg – 2014. december 31-én az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 53/F. § (2) bekezdése szerinti felmentéssel rendelkező, az 5/B. § hatálya alá eső üzletek üzemeltetését 2018. január 1. napjáig lehet folytatni.
+
+(2) 2018. január 1-jét követően az 5/B. § szerinti rendelkezés megsértése esetén a kereskedelmi hatóság elrendeli az (1) bekezdés hatálya alá eső, jogsértő üzlet azonnali bezárását.”
+
+(2) A Kertv. a következő 11/C. §-sal egészül ki:
+
+„11/C. § A 7/A. §-t a 2016. január 1-je után megvalósuló gazdasági erőfölénnyel való visszaélések fennállása tekintetében kell alkalmazni.”
+
+(3) A Kertv. a következő 11/D. §-sal egészül ki:
+
+„11/D. § A kereskedelemről szóló 2005. évi CLXIV. törvénynek a tisztességes piaci magatartás megvalósulása érdekében a vállalkozások működésével összefüggő módosításáról szóló 2014. évi CXII. törvénnyel megállapított 9/A. § (1) bekezdése alkalmazásában az első figyelembe vehető üzleti év a 2014. december 31-ét követően megkezdett üzleti év, és a bekezdésben meghatározott jogkövetkezményeket 2017. január 1-jét követően lehet alkalmazni.”
