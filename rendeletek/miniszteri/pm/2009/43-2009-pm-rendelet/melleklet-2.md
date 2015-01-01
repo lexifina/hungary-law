@@ -102,6 +102,6 @@
 
 ## A sorszámot követő karakter.
 
-2. melléklet a 43/2009. (XII. 29.) PM rendelethez[^72]
+2. melléklet a 43/2009. (XII. 29.) PM rendelethez[^73]
 
-[^72]: A 2. melléklet a 18. § (2) bekezdése szerint módosított szöveg.
+[^73]: A 2. melléklet a 18. § (2) bekezdése szerint módosított szöveg.

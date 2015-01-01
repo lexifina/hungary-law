@@ -176,6 +176,6 @@
 
 | b) | a használhatatlanná válásról vagy megsemmisítésről felvett vámhatósági jegyzőkönyv száma: |
 
-4. melléklet a 43/2009. (XII. 29.) PM rendelethez[^74]
+4. melléklet a 43/2009. (XII. 29.) PM rendelethez[^75]
 
-[^74]: A 4. melléklet a 76/2013. (XII. 31.) NGM rendelet 26. §-a szerint módosított szöveg.
+[^75]: A 4. melléklet a 76/2013. (XII. 31.) NGM rendelet 26. §-a szerint módosított szöveg.

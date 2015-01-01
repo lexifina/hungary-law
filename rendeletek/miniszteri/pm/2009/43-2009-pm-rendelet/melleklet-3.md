@@ -26,6 +26,6 @@
 
 | III. | A más tagállamból beszerzésre kerülő alkoholtermék utáni adókötelezettség 2. § (3) bekezdés szerinti levezetése. |
 
-3. melléklet a 43/2009. (XII. 29.) PM rendelethez[^73]
+3. melléklet a 43/2009. (XII. 29.) PM rendelethez[^74]
 
-[^73]: A 3. melléklet az 52/2012. (XII. 29.) NGM rendelet 65. § (2) bekezdése szerint módosított szöveg.
+[^74]: A 3. melléklet az 52/2012. (XII. 29.) NGM rendelet 65. § (2) bekezdése szerint módosított szöveg.

@@ -1,24 +1,19 @@
-## 16/A. §[^48] A bérfőzött párlatnak és a magánfőzésben előállított párlatnak a Jöt. 67. § (2) bekezdés b) pontja, illetve a Jöt. 67/A. § (4) bekezdés b) pontja szerinti értékesítése esetén a zárjegyek megrendelésére, kiadására, átvételére és alkalmazására az 1–9. § rendelkezéseit a 16/B–16/D. § szerinti eltéréssel kell értelemszerűen alkalmazni.
+## 16/A. §[^48] A bérfőzött párlatnak a Jöt. 67. § (2) bekezdés b) pontja szerinti értékesítése esetén a zárjegyek megrendelésére, kiadására, átvételére és alkalmazására az 1–9. § rendelkezéseit a 16/B–16/D. § szerinti eltéréssel kell alkalmazni.
 
-16/B. §[^49] (1)[^50] A párlat zárjegyek előállítási költségének a bérfőzetővel és a magánfőzővel (a továbbiakban együtt: eseti zárjegyfelhasználó) való megfizettetését és a párlat zárjegyeknek az eseti zárjegyfelhasználók rendelkezésére bocsátását a KAVIG a hatósági felügyeletet ellátó vámszerv útján végzi.
+16/B. §[^49] (1)[^50] A párlat zárjegyek előállítási költségének a bérfőzetővel való megfizettetését és a párlat zárjegyeknek a bérfőzető rendelkezésére bocsátását a KAVIG végzi a hatósági felügyeletet ellátó vámszerv útján.
 
-(2) Az eseti zárjegyfelhasználó kizárólag párlat zárjegy megrendelésére jogosult.
+(2)[^51] A bérfőzető kizárólag párlat zárjegy megrendelésére jogosult.
 
-(3)[^51] A zárjegy megrendelésére irányuló kérelmet
+(3)[^52] A zárjegy megrendelésére irányuló kérelmet a bérfőzetőnek az 5. mellékletben meghatározott adattartalmú, a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumban kell a hatósági felügyeletet ellátó vámszervhez írásban benyújtania.
 
-a) a bérfőzetőnek az 5. mellékletben meghatározott adattartalmú, a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumban,
+(4)[^53] A hatósági felügyeletet ellátó vámszerv megvizsgálja a párlat zárjegy kiadásának a jogszabályi feltételeinek fennállását.
 
-b) a magánfőzőnek a Jöt. 67/A. § (1) bekezdés szerinti bejelentésben
+(5)[^54] A hatósági felügyeletet ellátó vámszerv a bérfőzető párlat zárjegy megrendelését – a (4) bekezdés szerinti vizsgálat megállapításaival együtt – haladéktalanul továbbítja a KAVIG részére.
 
-kell a hatósági felügyeletet ellátó vámszervhez írásban benyújtani.
-
-(4)[^52] A hatósági felügyeletet ellátó vámszerv megvizsgálja a párlat zárjegy kiadásának a jogszabályi feltételeinek fennállását.
-
-(5)[^53] A hatósági felügyeletet ellátó vámszerv a bérfőzető párlat zárjegy megrendelését, illetve a magánfőző Jöt. 67/A. § (1) bekezdése szerinti bejelentését – a (4) vizsgálatának megállapításaival együtt – haladéktalanul továbbítja a KAVIG részére.
-
-[^48]: A 16/A. §-t a 4/2010. (VIII. 13.) NGM rendelet 7. §-a iktatta be.
+[^48]: A 16/A. §-t a 4/2010. (VIII. 13.) NGM rendelet 7. §-a iktatta be, szövege a 45/2014. (XII. 30.) NGM rendelet 19. §-ával megállapított szöveg.
 [^49]: A 16/B. §-t a 4/2010. (VIII. 13.) NGM rendelet 7. §-a iktatta be.
-[^50]: A 16/B. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 96. § (1) és (5) bekezdése szerint módosított szöveg.
-[^51]: A 16/B. § (3) bekezdés záró szövegrésze a 17/2011. (IV. 19.) NGM rendelet 96. § (5) bekezdése szerint módosított szöveg.
-[^52]: A 16/B. § (4) bekezdése a 17/2011. (IV. 19.) NGM rendelet 96. § (5) bekezdése szerint módosított szöveg.
-[^53]: A 16/B. § (5) bekezdése a 17/2011. (IV. 19.) NGM rendelet 96. § (1) és (5) bekezdése szerint módosított szöveg.
+[^50]: A 16/B. § (1) bekezdése a 45/2014. (XII. 30.) NGM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^51]: A 16/B. § (2) bekezdése a 45/2014. (XII. 30.) NGM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^52]: A 16/B. § (3) bekezdése a 45/2014. (XII. 30.) NGM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^53]: A 16/B. § (4) bekezdése a 17/2011. (IV. 19.) NGM rendelet 96. § (5) bekezdése szerint módosított szöveg.
+[^54]: A 16/B. § (5) bekezdése a 45/2014. (XII. 30.) NGM rendelet 20. § (2) bekezdésével megállapított szöveg.

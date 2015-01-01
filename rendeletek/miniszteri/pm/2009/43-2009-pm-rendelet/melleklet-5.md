@@ -64,6 +64,6 @@
 
 | (U és M karbantartási jel esetében az érvényesség kezdete, T esetében az érvényesség vége) |
 
-5. melléklet a 43/2009. (XII. 29.) PM rendelethez[^75]
+5. melléklet a 43/2009. (XII. 29.) PM rendelethez[^76]
 
-[^75]: Az 5. mellékletet a 19. § (3) bekezdése hatályon kívül helyezte.
+[^76]: Az 5. mellékletet a 19. § (3) bekezdése hatályon kívül helyezte.

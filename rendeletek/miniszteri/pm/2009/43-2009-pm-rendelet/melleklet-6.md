@@ -1,4 +1,4 @@
-6. melléklet a 4/2010. (VIII. 13.) NGM rendelethez[^76]
+6. melléklet a 4/2010. (VIII. 13.) NGM rendelethez[^77]
 
 A bérfőzető zárjegy-megrendelése
 
@@ -48,4 +48,4 @@ _______
 
 * A megrendelés első alkalommal történő benyújtásakor kell megadni a VPID szám kiadásához , feltéve, hogy azzal a bérfőzető még nem rendelkezik.
 
-[^76]: A 6. mellékletet a 4/2010. (VIII. 13.) NGM rendelet 8. § (2) bekezdése iktatta be.
+[^77]: A 6. mellékletet a 4/2010. (VIII. 13.) NGM rendelet 8. § (2) bekezdése iktatta be.
