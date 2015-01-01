@@ -44,6 +44,12 @@ hd) a nevelőszülő és a helyettes szülő,
 
 i) gyermekét egyedül nevelő munkavállaló: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa,
 
-j) levonásmentes munkabérrész: a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó munkabérrész.
+j) levonásmentes munkabérrész: a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó munkabérrész,
+
+k) három vagy több gyermeket nevelő munkavállaló: aki, a családok támogatásáról szóló törvény szerint szülőként legalább három gyermekre tekintettel
+
+ka) családi pótlékra jogosult és gyermekgondozási díjban vagy gyermekgondozási segélyben részesült vagy részesül, vagy
+
+kb) gyermeknevelési támogatásban részesült vagy részesül.
 
 (2) A munkavállaló akkor részesül az (1) bekezdés g) pont gb) vagy gc) alpontja szerinti ellátásban, ha az ellátást jogerősen megállapították.

@@ -12,7 +12,7 @@ c) a szülési szabadság,
 
 d) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság (128. §) első hat hónapjának,
 
-e) a naptári évenként harminc napot meg nem haladó keresőképtelenség,
+e) a keresőképtelenség,
 
 f) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó,
 

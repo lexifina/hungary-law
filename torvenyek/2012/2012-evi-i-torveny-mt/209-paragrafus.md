@@ -4,7 +4,7 @@
 
 a) az 55. § (1) bekezdés b), c) és e) pontjában,
 
-b) a 65. § (3) bekezdés a) és b) pontjában,
+b) 65. § (3) bekezdés a), b) és e) pontjában,
 
 c) a 113. § (3) bekezdésében,
 
