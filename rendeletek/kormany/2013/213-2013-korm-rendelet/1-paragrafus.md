@@ -20,7 +20,7 @@ h) az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszt
 
 i)[^1] a kormányzati tevékenység összehangolásáért felelős miniszter,
 
-j)[^2] a kutatás-fejlesztésért és technológiai innovációért felelős miniszter,
+j)[^2] a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke,
 
 k)[^3] az OAH főigazgatója,
 
@@ -49,7 +49,7 @@ h)[^7] az oktatásért felelős miniszter.
 (5) A KNPA Szakbizottság elnöke az ülésére tanácskozási joggal más személyeket is meghívhat.
 
 [^1]: Az 1. § (2) bekezdés i) pontja a 294/2014. (XI. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (2) bekezdés j) pontja a 294/2014. (XI. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés j) pontja a 381/2014. (XII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
 [^3]: Az 1. § (2) bekezdés k) pontját a 294/2014. (XI. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^4]: Az 1. § (2) bekezdés l) pontját a 294/2014. (XI. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^5]: Az 1. § (3) bekezdés nyitó szövegrésze a 294/2014. (XI. 26.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
