@@ -1,3 +1,0 @@
-116. § A Vtv. 7/I. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdésben rögzített kötelezettségek megszegése esetén a vámhatóság végzéssel, határidő megjelölésével kötelezheti az utólagos ellenőrzés alá vont ügyfelet kötelezettségei teljesítésére. Amennyiben az ellenőrzés alá vont ügyfél a kötelezettségét határidőn belül nem teljesíti, az utólagos ellenőrzést végző vámszerv intézkedik az e törvény 61/A. §-ában meghatározott vámigazgatási bírság kiszabása iránt, illetve a vámigazgatási bírság kiszabásával egyidejűleg az utólagos ellenőrzést felfüggesztheti és – az ellenőrzött ügyfél költségére – a nyilvántartásokat, elszámolásokat szakértővel elkészíttetheti.”

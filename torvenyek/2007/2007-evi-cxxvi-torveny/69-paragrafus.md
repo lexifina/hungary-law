@@ -1,3 +1,0 @@
-69. § A Jöt. 25. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Amennyiben a bejegyzett kereskedő más tagállamból kizárólag adómentes felhasználó részére, az adómentes felhasználó üzemébe való közvetlen szállítással szerez be ásványolajat vagy alkoholterméket és a TKO-n feltüntetett rendeltetési hely egy adómentes felhasználó üzeme, a jövedéki termék fogadásával az (1) bekezdés szerint belföldön keletkezett adókötelezettség a bejegyzett kereskedő helyett az adómentes felhasználót terheli a jövedéki terméknek az adómentes felhasználó üzemébe történő betárolásával. A vámhatóság a TKO visszaküldendő 3. példányának ellenjegyzését csak abban az esetben teljesíti, ha az adómentes felhasználó a betárolást külön jogszabályban foglaltak szerint külön igazolja.”

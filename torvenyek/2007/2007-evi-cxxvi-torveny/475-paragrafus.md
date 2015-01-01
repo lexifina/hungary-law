@@ -1,1 +1,0 @@
-475. § A települési önkormányzat, illetve a fővárosban a fővárosi önkormányzat a luxusadó tv. 5. §-a (3) bekezdésének utolsó mondatában foglaltaktól eltérően 2007. évben az értékövezeteket és a települési, településrészi átlagértékeket csak a 2008. évre határozza meg.

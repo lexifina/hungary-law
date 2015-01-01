@@ -1,1 +1,0 @@
-426. § 2008. január 1-jén az Szjtv. 7. §-ában az „állami törvényességi” szövegrész helyébe „hatósági” szövegrész; az Szjtv. 36. §-ának (1) bekezdésében a „törvényességi” szövegrész helyébe „hatósági” szövegrész lép.

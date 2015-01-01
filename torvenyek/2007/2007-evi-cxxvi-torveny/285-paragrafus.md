@@ -1,3 +1,0 @@
-285. § Az Szt. 8. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A gazdálkodó legfőbb irányító (vezető) szervén, ügyvezető szervén és felügyelő testületén belül a tagok együttes kötelezettsége – a külön jogszabályban meghatározott hatáskörükben eljárva – annak biztosítása, hogy az éves beszámoló, az egyszerűsített éves beszámoló és az összevont (konszolidált) éves beszámoló [ideértve a 10. § (2) és (3) bekezdése alapján a nemzetközi számviteli standardok szerint elkészített összevont (konszolidált) éves beszámolót is], valamint a kapcsolódó üzleti jelentés összeállítása és nyilvánosságra hozatala e törvény előírásainak megfelelően történjen.”

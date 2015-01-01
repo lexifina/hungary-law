@@ -1,1 +1,0 @@
-462. § 2008. január 1-jén hatályát veszti az Szjtv. 7/A. §-ának (5) bekezdése, 17. §-ának (2) bekezdése, 26. §-a (13) bekezdésének utolsó mondata, 33/A. §-ának utolsó mondata és 38. §-a (2) bekezdésének f) pontja.

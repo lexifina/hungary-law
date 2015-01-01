@@ -1,1 +1,0 @@
-446. § A jogügyletek biztonságának erősítése érdekében szükséges törvénymódosításról szóló 2007. évi LXIV. törvény 65. §-a (3) bekezdés b) pontjának az „és 3. számú mellékletének I. 3. pontja” szövegrésze nem lép hatályba.

@@ -1,3 +1,0 @@
-294. § Az Szt. 89. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A kiegészítő mellékletben be kell mutatni azon kapcsolt felekkel lebonyolított ügyleteket, amelyek bemutatásáról e törvény külön nem rendelkezik, ha ezen ügyletek lényegesek és nem a szokásos piaci feltételek között valósultak meg. Ennek során be kell mutatni az ügyletek értékét, a kapcsolt féllel fennálló kapcsolat jellegét és az ügyletekkel kapcsolatos egyéb, a vállalkozó pénzügyi helyzetének megítéléséhez szükséges információkat. Az egyedi ügyletekre vonatkozó információk összesíthetők az ügyletek jellege szerint, ha az összesítés nem akadályozza az érintett ügyleteknek a vállalkozó pénzügyi helyzetére gyakorolt hatásának a megítélését.”

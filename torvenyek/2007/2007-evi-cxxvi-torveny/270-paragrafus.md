@@ -1,3 +1,0 @@
-270. § Az Mpt. 62/A. §-ának helyébe a következő rendelkezés lép:
-
-62/A. § „A fedezeti tartalék javára 2008. évben a pénztár a tagdíj, illetve tagdíjcélú támogatás legalább 94,5 százalékát, 2009-tól 95,5 százalékát köteles jóváírni. Ettől a pénztár a tagsági jogviszony létesítését követő első havi tagdíj esetében külön jogszabályban meghatározottak szerint eltérhet.”

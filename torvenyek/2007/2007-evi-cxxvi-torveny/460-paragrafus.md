@@ -1,3 +1,0 @@
-460. § (1) 2008. január 1-jén hatályát veszti az Szt. 20. §-ának (3) és (4) bekezdésében, 145. §-ának (1), (2) és (5) bekezdésében, 177. §-ának (11) bekezdésében a „konvertibilis” szövegrész, valamint a 45. §-ának (2) bekezdésében „a rendkívüli bevételekkel szemben” szövegrész.
-
-(2) 2008. január 1-jén hatályát veszti az Szt. 145. §-ának (4) bekezdésében „a cégbíróságon” szövegrész, a 153. §-ának (1)–(2) és (5) bekezdésében „a cégbíróságnál” szövegrész, a 154. §-ának (6) bekezdésében a „cégbíróságnál történő” szövegrész, a 154. §-ának (1), (4) és (7) bekezdésében az „– a letétbe helyezéssel egyidejűleg –” szövegrész, valamint az Szt. 154. §-a (1) és (3) bekezdésének utolsó mondata.

@@ -1,3 +1,0 @@
-287. § Az Szt. 32. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Aktív időbeli elhatárolásként kell kimutatni a mérleg fordulónapjáig le nem zárt elszámolási határidős ügylet, valamint swap ügylet határidős ügyletrésze esetében az ügylet nyereségének tárgyévre időarányosan jutó összegét, legfeljebb a fedezett alapügylet időarányos vesztesége összegéig, ha az ügylet fedezeti ügylet, illetve a mérlegkészítés időszakában lezárt nem fedezeti célú elszámolási határidős, opciós ügylet, valamint swap ügylet határidős ügyletrésze esetében az ügylet realizált nyereségének a tárgyévre időarányosan jutó összegét, feltéve, hogy a valós értéken történő értékelést a vállalkozó nem alkalmazza.”

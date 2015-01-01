@@ -1,1 +1,0 @@
-437. § 2008. január 1-jétől a Htv. 52. §-ának 41. pontjában az „ilyen hiányában vagy ha több ilyen hely van, akkor a központi ügyvezetés helye” szövegrész, Mellékletének 1.2 pontja harmadik mondatában az „és az azt követő adóévben” szövegrész, továbbá e pont nyolcadik mondata hatályát veszti.

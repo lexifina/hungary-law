@@ -1,3 +1,0 @@
-486. § (1) E törvénynek az Szt.-t módosító rendelkezéseit – a (2) bekezdés kivételével – első alkalommal a 2008. évben induló üzleti évről készített beszámolóra kell alkalmazni, de – a 286. §, 292. §, 301. § és a 305. § kivételével – a 2007. évi üzleti évről készített beszámolóra is alkalmazni lehet.
-
-(2) Az Szt. e törvény 303. §-ával, 424. §-ával, valamint a 460. §-ának (2) bekezdésével módosított rendelkezései 2008. január 1. napján azzal lépnek hatályba, hogy azokat első ízben azon 2008. évben induló üzleti évről készített beszámolóra kell alkalmazni, amelynek mérlegfordulónapja 2008. december 31. vagy azt követő időpont.

@@ -1,5 +1,0 @@
-149. § Az Itv. 23/B. §-a helyébe a következő rendelkezés lép:”
-
-23/B. § „(1) Amennyiben a hitelintézet a vagyonszerzés illetékkiszabásra történő bejelentésekor nyilatkozik, hogy az ingatlant – az illetékkötelezettség keletkezésétől számított legfeljebb hároméves időtartamra – a pénzügyi veszteség mérséklése, illetve elhárítása érdekében hitel-ingatlan csereügylettel, az adósával szembeni felszámolási vagy végrehajtási eljárás útján szerezte, akkor a fizetendő illeték mértéke az ingatlan – terhekkel nem csökkentett – forgalmi értékének 2%-a.
-
-(2) Az (1) bekezdésben meghatározott három év elteltét követően az ingatlan elidegenítését az állami adóhatóság saját nyilvántartása vagy az ingatlan fekvése szerint illetékes ingatlanügyi hatóság megkeresése útján ellenőrzi. Amennyiben az ingatlan értékesítése nem történt meg, a vagyonszerzésre a 19. § (1) bekezdés, illetve 21. § (1) bekezdés alapján egyébként fizetendő és az (1) bekezdés szerint megállapított illeték különbözetének kétszeresét a hitelintézet terhére pótlólag előírja.”

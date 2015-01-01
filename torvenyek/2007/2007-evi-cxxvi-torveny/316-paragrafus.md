@@ -1,3 +1,0 @@
-316. § A Ctv. 84. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a törvényes működés a bíróság által hozott intézkedések ellenére sem következik be, a cégbíróság a céget eltiltja a további működéstől, egyben megszűntnek nyilvánítja, és kezdeményezi a cég felszámolását, vagy elrendeli a végelszámolást, amennyiben az adott cégformára irányadó anyagi jogszabályok ezt lehetővé teszik. Ha a felszámolásra vagy végelszámolásra az adott cégformára tekintettel nem kerülhet sor, e tényről a cégbíróság az állami adóhatóságot elektronikus úton haladéktalanul értesíti és a cégre irányadó anyagi jogszabály rendelkezései szerint gondoskodik a cég cégjegyzékből történő törléséről.”

@@ -1,3 +1,0 @@
-274. § Az Mpt. 68/C. §-ának helyébe a következő rendelkezés lép:
-
-„68/C. § A portfólióváltási igényeket a pénztár szintjén összegezni kell. Az egyedi portfólióváltással összefüggő, pénztártagra terhelt költségek nem haladhatják meg az egyéni számlakövetelés egy ezrelékét, és nem lehetnek magasabbak 2000 forintnál, amelyet a pénztár az egyéni számlával szemben érvényesíthet.”

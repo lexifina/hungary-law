@@ -1,1 +1,0 @@
-396. § E törvénynek a Tbj. 20/A. § (1) bekezdését, 27. § (5) bekezdését és 29. § (8) bekezdését megállapító rendelkezése, valamint a korkedvezmény-biztosítási járulék megfizetése alóli mentesítésről szóló XXVII. Fejezete e törvény kihirdetését követő nyolcadik napon lép hatályba.

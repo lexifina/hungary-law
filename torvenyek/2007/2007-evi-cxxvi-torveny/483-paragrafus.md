@@ -1,1 +1,0 @@
-483. § E törvénynek az Eho.-t módosító rendelkezéseit a 2008. január 1-jétől megszerzett jövedelmekre és keletkezett egészségügyihozzájárulás-fizetési kötelezettségre kell alkalmazni. A 2007. december 31-ét követően kifizetett osztalékra a kifizetés időpontjában hatályos rendelkezéseket kell alkalmazni.

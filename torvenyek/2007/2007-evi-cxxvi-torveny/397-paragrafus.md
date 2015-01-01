@@ -1,1 +1,0 @@
-397. § E törvény Rega-tv.-t módosító rendelkezései 2008. április 1. napján lépnek hatályba azzal, hogy a rendelkezéseket a 2008. március 31. napját követően induló adóigazgatási eljárásokban kell alkalmazni.
