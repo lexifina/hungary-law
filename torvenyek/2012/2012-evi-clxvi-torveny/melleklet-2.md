@@ -94,6 +94,14 @@ egészségbiztosítás informatikai rendszere
 
 |
 
+16a
+
+|
+
+gyógyszer-nagykereskedelem
+
+|
+
 17
 
 |
