@@ -248,7 +248,7 @@
 
 ## 1.92. közrendvédelmi terület okmányai;
 
-## 1.93.[^100] a Nemzeti Munkaügyi Hivatal, továbbá a fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szerve hatósági jogkörének gyakorlására jogosító munkavédelmi felügyelői igazolvány, valamint munkaügyi felügyelői igazolvány;
+## 1.93.[^100] a fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szerve hatósági jogkörének gyakorlására jogosító munkavédelmi felügyelői igazolvány, valamint munkaügyi felügyelői igazolvány;
 
 ## 1.94.[^101] a Nemzeti Média- és Hírközlési Hatóság hatósági ellenőrzésre és intézkedésre feljogosított személyeinek igazolványa;
 
@@ -458,7 +458,7 @@ Az e védelmi kategóriába tartozó biztonsági okmányok hamisítása ellen é
 [^97]: Az 1. számú melléklet III. rész 1. pont 1.90. alpontja a 319/2012. (XI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^98]: Az 1. számú melléklet III. rész 1. pont 1.91. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte, újonnan a 319/2012. (XI. 13.) Korm. rendelet 1. §-a iktatta be.
 [^99]: Az 1. számú melléklet III. részének 1.92. pontját a 235/2007. (IX. 4.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^100]: Az 1. számú melléklet III. rész 1. cím 1.93. pontja a 324/2011. (XII. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^100]: Az 1. számú melléklet III. rész 1. pont 1.93. alpontja a 318/2014. (XII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^101]: Az 1. számú melléklet III. rész 1. pont 1.94. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^102]: Az 1. számú melléklet III. rész 1. pont 1.95. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^103]: Az 1. melléklet III. fejezet 1. pont 1.98. alpontja a 351/2010. (XII. 30.) Korm. rendelet 30. § f) pontjával megállapított szöveg.
