@@ -1,24 +1,22 @@
-## 8. § A kezelési tevékenység végzésére vonatkozó hulladékgazdálkodási engedély iránti kérelmet a környezetvédelmi hatósághoz kell benyújtani.
-
 9. § (1) A kezelési műveletek végzésére vonatkozó hulladékgazdálkodási engedély iránti kérelemnek az alábbiakat kell tartalmaznia:
 
-a) az engedélyt kérelmező nevét, székhelyét, telephelyét, valamint statisztikai azonosító adatait (KÜJ-, KTJ-azonosító kódját és KSH-statisztikai számjelét, cégjegyzékszámát, adószámát);
+a)[^24] az a kérelmező nevét, székhelyét, telephelyét, valamint statisztikai azonosító adatait (KÜJ-, KTJ-azonosító kódját és KSH-statisztikai számjelét, cégjegyzékszámát, adószámát), egyéni vállalkozó esetén a vállalkozói igazolvány számát);
 
-b) a tervezett hulladékgazdálkodási tevékenység és kezelési művelet megnevezését, a kezelési műveletnél alkalmazandó módszerek, technológia részletes leírását;
+b)[^25] a tervezett hulladékgazdálkodási tevékenység és kezelési művelet megnevezését, a kezelési műveletnél alkalmazandó módszerek, kezelési technológia részletes leírását;
 
-c) a hulladék fajtáját, típusát, jellegét, az 1 év alatt kezelni kívánt hulladék mennyiségét (tonnában kifejezve), összetételét;
+c)[^26] a hulladék fajtáját, típusát, jellegét, összetételét, valamint a kezelni tervezett éves hulladékmennyiséget típusonként az adott kezelési művelet megjelölésével (tonnában kifejezve);
 
 d) a tervezett kezelési művelettel érintett terület megnevezését;
 
-e) a kezelési művelet elvégzéséhez szükséges személyi, tárgyi és közegészségügyi feltételeket, az alkalmazni kívánt technológiát, továbbá az eszközök, a berendezések és a járművek műszaki jellemzőit, azok állapotát, minőségét és felszereltségét;
+e)[^27] a kezelési művelet elvégzéséhez szükséges személyi, tárgyi és közegészségügyi feltételeket, az alkalmazni kívánt kezelési technológiát, továbbá az eszközök, a berendezések és a járművek műszaki jellemzőit, azok állapotát, minőségét és felszereltségét;
 
-f) a tervezett kezelési művelettel érintett hulladékgazdálkodási létesítmény, telephely címét, helyrajzi számát, műszaki és környezetvédelmi jellemzőit, állapotát, minőségét, felszereltségét, kapacitását (megjelölve az üzemi gyűjtőhely gyűjtési, tárolási kapacitását), a jogerős építésügyi hatósági engedély, a jogerős telepengedély másolatát, a bejelentésről szóló igazolást, a jogerős használatbavételi vagy fennmaradási engedély másolatát, ha a kérelmező a kezeléshez használni kívánt eszközöket, berendezéseket, járműveket bérli vagy lízingeli, akkor e jogviszony igazolását;
+f)[^28] a tervezett kezelési művelettel érintett hulladékgazdálkodási létesítmény, telephely címét, helyrajzi számát, műszaki és környezetvédelmi jellemzőit, állapotát, minőségét, felszereltségét, kapacitását (megjelölve a hulladéktároló hely tárolási kapacitását), a jogerős építésügyi hatósági engedély, a használatbavételi vagy fennmaradási engedély másolatát, a jogerős telepengedély másolatát; ha a kérelmező a kezeléshez használni kívánt eszközöket, berendezéseket, járműveket bérli vagy lízingeli, akkor e jogviszony igazolását;
 
 g) a kezelés technológiájával kapcsolatban:
 
-ga) a kezelés során felhasználni kívánt segédanyagokat, biológiai kezelés esetében a kezelőtelepen képződő csurgalékvíz összegyűjtésének és kezelésének módját,
+ga)[^29] a kezelés során felhasználni kívánt segédanyagokat, biológiai kezelés esetében a kezelés helyszínén képződő csurgalék-, illetve csapadékvíz összegyűjtésének és kezelésének módját,
 
-gb) a kezelés során képződött anyagok és hulladék mennyiségét, annak tervezett kezelési módját, további felhasználási lehetőségeit,
+gb)[^30] a kezelés során képződött anyag és hulladék mennyiségét, fajtáját, típusát, jellegét, összetételét, fizikai megjelenési formáját, annak tervezett kezelési módját, további felhasználási lehetőségeit,
 
 gc) a kezelés anyagmérlegét,
 
@@ -28,11 +26,11 @@ ge) a kezelés technológiájának műszaki és környezetvédelmi jellemzőit;
 
 h) a kezelési művelettel elérni kívánt környezetvédelmi és gazdasági célt; hasznosítás esetén az előállítani kívánt anyag vagy termék előállításával, gyártásával vagy forgalomba hozatalával járó környezetvédelmi és gazdasági előnyt, hasznot, továbbá a Ht. 9. § (1) bekezdésében meghatározottak szerint a hulladékstátusz megszűnésére vonatkozó igazolást;
 
-i) a kezelési tevékenység végzéséhez szükséges, a kérelmező rendelkezésére álló pénzügyi eszközöket, azok garanciáit, valamint a meglétükre vonatkozó igazolást; a céltartalék képzésére vonatkozó tervet, a környezetvédelmi biztosítás megkötésének tényét igazoló dokumentumot;
+i)[^31] a kezelési tevékenység végzéséhez szükséges, a kérelmező rendelkezésére álló pénzügyi eszközöket, azok garanciáit, valamint a meglétükre vonatkozó nyilatkozatot; a céltartalék képzésére vonatkozó tervet, továbbá a környezetvédelmi biztosítás megkötésének tényét igazoló dokumentumot, ha a kérelmező a Ht. 71. §-a szerinti gazdálkodó szervezetnek felel meg;
 
-j) a környezetbiztonságra, az esetlegesen bekövetkező káresemény (havária) elhárítására vonatkozó tervet;
+j)[^32] a környezetbiztonságra, az esetlegesen bekövetkező káresemény (havária) elhárítására vonatkozó tervet; szükség esetén a monitoringra vonatkozó részletes tervet, a tevékenység felhagyására vonatkozó részletes tervet (utógondozás);
 
-k) szükség esetén a monitoringra vonatkozó részletes tervet, a tevékenység felhagyására vonatkozó részletes tervet (utógondozás);
+k)[^33] a hulladék telephelyen történő tárolásának módjára és körülményeire vonatkozó adatokat, információt;
 
 l) ha a környezetvédelmi megbízott alkalmazásának feltételéhez kötött környezethasználatok meghatározásáról szóló kormányrendelet környezetvédelmi megbízott alkalmazását írja elő, akkor annak igazolását;
 
@@ -40,15 +38,17 @@ m) az állami adó- és vámhatóság 30 napnál nem régebbi igazolásának má
 
 n) a kérelmező korábbi hulladékgazdálkodási tevékenységéről szóló, 11. § szerinti nyilatkozatot, valamint
 
-o) nyilatkozatot arról, hogy az engedély kérelmezője figyelembe vette-e a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben foglaltak szerint a munkaerőpiacon hátrányos helyzetben lévő álláskereső alkalmazásának lehetőségét.
+o)[^34] nyilatkozatot arról, hogy a kérelmező figyelembe vette-e a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben foglaltak szerint a munkaerőpiacon hátrányos helyzetben lévő álláskereső alkalmazásának lehetőségét.
+
+(1a)[^35] Ha a hulladékgazdálkodási engedély iránti kérelem tárgya a Ht. 2. melléklete szerinti D1-D12 ártalmatlanítási műveletek valamelyikét megelőző D8, D9, D13 vagy D14 előkészítő művelet, vagy a Ht. 3. melléklete szerinti R1-R11 hasznosítási műveletek valamelyikét megelőző R12 előkészítő művelet, akkor a kérelemben az adott előkészítő művelet mellett az ahhoz tartozó megfelelő 'E' azonosító kódot is fel kell tüntetni. Az ártalmatlanítást és a hasznosítást megelőző előkészítő műveletek nem kimerítő listáját a 2. melléklet tartalmazza.
 
 (2) A kezelési műveletek végzésére vonatkozó hulladékgazdálkodási engedély a Ht.-ben meghatározottak mellett az alábbiakat tartalmazza:
 
 a) az érintett hulladékgazdálkodási létesítmények körét, valamint az üzemeltetés feltételeit;
 
-b) a hulladékkezelő létesítményben a kezelési művelettel érintett éves hulladékmennyiséget (tonnában kifejezve), valamint a telephelyen egyidejűleg gyűjthető, tárolható hulladékmennyiséget (tonnában kifejezve);
+b)[^36] a hulladékkezelő létesítményben az adott kezelési művelettel érintett éves hulladékmennyiséget típusonként és összesen (tonnában kifejezve, a technológia és a kapacitás függvényében), valamint a telephelyen egyidejűleg gyűjthető, tárolható maximális hulladékmennyiséget típusonként és összesen (tonnában kifejezve);
 
-c) az engedélyezett hulladékkezelési technológia műszaki és környezetvédelmi jellemzőit;
+c)[^37] az engedélyezett kezelési technológia műszaki és környezetvédelmi jellemzőit;
 
 d) a felhasználásra kerülő segédanyagokat, a kezelés során képződött anyag, hulladék megnevezését, kezelésének módját;
 
@@ -58,6 +58,27 @@ f) a telephelyen folytatott kezelési tevékenység felhagyásának, a hulladék
 
 g) a kezelési művelet ellátásához szükséges pénzügyi eszközöket, személyi feltételeket, valamint
 
-h) a hibás működés és a káresemény (havária) esetére vonatkozó előírásokat.
+h) a hibás működés és a káresemény (havária) esetére vonatkozó előírásokat,
+
+i)[^38] a Ht. 2. melléklete szerinti D1-D12 ártalmatlanítási műveletek valamelyikét megelőző D8, D9, D13 vagy D14 előkészítő művelet, vagy a Ht. 3. melléklete szerinti R1-R11 hasznosítási műveletek valamelyikét megelőző R12 előkészítő művelet esetén az adott előkészítő művelethez tartozó e rendelet szerinti 2. mellékletben meghatározott megfelelő 'E' azonosító kódot.
 
 (3) Ha az (1) bekezdés g) pontjában meghatározottak értékelése során a hasznosítási technológia kisebb környezetterhelése, hatékonyabb anyag- és energiafelhasználása a rendelkezésre álló hulladékártalmatlanítási megoldásokhoz viszonyítva nem igazolható, hasznosításra vonatkozó hulladékgazdálkodási engedély nem adható.
+
+(4)[^39] A Ht. 2. mellékletében meghatározott D12 ártalmatlanítási művelet végzésére hulladékgazdálkodási engedély kizárólag akkor adható, ha a hulladék kezelése a rendelkezésre álló kezelési kapacitás vagy elérhető technológia hiánya miatt nem lehetséges.
+
+[^24]: A 9. § (1) bekezdés a) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 11. pontja szerint módosított szöveg.
+[^25]: A 9. § (1) bekezdés b) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 12. pontja szerint módosított szöveg.
+[^26]: A 9. § (1) bekezdés c) pontja a 370/2014. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^27]: A 9. § (1) bekezdés e) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 13. pontja szerint módosított szöveg.
+[^28]: A 9. § (1) bekezdés f) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 14. pontja szerint módosított szöveg.
+[^29]: A 9. § (1) bekezdés g) pont ga) alpontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 15. pontja szerint módosított szöveg.
+[^30]: A 9. § (1) bekezdés g) pont gb) alpontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 16. pontja szerint módosított szöveg.
+[^31]: A 9. § (1) bekezdés i) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 17. pontja szerint módosított szöveg.
+[^32]: A 9. § (1) bekezdés j) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 18. pontja szerint módosított szöveg.
+[^33]: A 9. § (1) bekezdés k) pontja a 370/2014. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^34]: A 9. § (1) bekezdés o) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 19. pontja szerint módosított szöveg.
+[^35]: A 9. § (1a) bekezdését a 310/2014. (XII. 11.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^36]: A 9. § (2) bekezdés b) pontja a 370/2014. (XII. 30.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^37]: A 9. § (2) bekezdés c) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 20. pontja szerint módosított szöveg.
+[^38]: A 9. § (2) bekezdés i) pontját a 310/2014. (XII. 11.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^39]: A 9. § (4) bekezdését a 370/2014. (XII. 30.) Korm. rendelet 8. § (4) bekezdése iktatta be.
