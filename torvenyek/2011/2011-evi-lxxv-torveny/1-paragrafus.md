@@ -54,7 +54,7 @@ h) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény
 
 i) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény hatálya alá tartozó foglalkoztatott,
 
-j) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 66/G. §-a szerinti hivatásos nevelőszülő,
+j) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 66/A. § (1) bekezdése szerinti nevelőszülői foglalkoztatási jogviszonyban álló személy,
 
 k) a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló törvény hatálya alá tartozó főállású polgármester,
 
