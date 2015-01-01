@@ -1,6 +1,5 @@
-6. § (1)[^8]
+6. § (1)[^6]
 
-(2)[^9]
+(2) Az R. 136/A. §-a a következő (3) bekezdéssel egészül ki:
 
-[^8]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 6. § (2) bekezdése a 13. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^6]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
