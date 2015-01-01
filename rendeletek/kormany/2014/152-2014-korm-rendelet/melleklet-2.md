@@ -20,7 +20,7 @@
 
 |  | 7 | Központi Statisztikai Hivatal | felügyelet |
 
-|  | 8 | Nemzeti Innovációs Hivatal | irányítás |
+|  | 8 | Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal | felügyelet |
 
 |  | 8a. | Nemzeti Kommunikációs Hivatal | irányítás |
 

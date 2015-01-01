@@ -8,6 +8,6 @@ a) alakítja és végrehajtja a Kormány vagyongazdálkodási politikáját, val
 
 b) gondoskodik a PPP beruházás keretében megvalósult és folyamatban lévő oktatási, kulturális, infrastrukturális és sportlétesítményekkel összefüggő fejlesztési feladatokról, továbbá e PPP szerződésekben meghatározott, az államot érintő jogokból és kötelezettségekből fakadó feladatokról, valamint e PPP projektek és szerződések kezeléséről,
 
-c)[^56] ellátja a felszámolási eljárásban az adós szervezetek vagyontárgyai elektronikus értékesítési rendszerének létrehozásával, működtetésével és üzemeltetésével kapcsolatos feladatokat.
+c)[^61] ellátja a felszámolási eljárásban az adós szervezetek vagyontárgyai elektronikus értékesítési rendszerének létrehozásával, működtetésével és üzemeltetésével kapcsolatos feladatokat.
 
-[^56]: A 112. § (2) bekezdés c) pontját a 221/2014. (IX. 4.) Korm. rendelet 833. §-a iktatta be.
+[^61]: A 112. § (2) bekezdés c) pontját a 221/2014. (IX. 4.) Korm. rendelet 833. §-a iktatta be.

@@ -1,4 +1,4 @@
-16. §[^11] (1) A miniszter az építésügyért való felelőssége keretében előkészíti az építésügyre, az építészeti-műszaki tevékenységgel összefüggő szakmai kamarákra és a nemzetgazdasági szempontból kiemelt jelentőségű építési beruházásokra vonatkozó jogszabályokat.
+16. §[^15] (1) A miniszter az építésügyért való felelőssége keretében előkészíti az építésügyre, az építészeti-műszaki tevékenységgel összefüggő szakmai kamarákra és a nemzetgazdasági szempontból kiemelt jelentőségű építési beruházásokra vonatkozó jogszabályokat.
 
 (2) A miniszter az építésügyért való felelőssége keretében irányítja
 
@@ -16,4 +16,4 @@ b) gyakorolja az Országos Építésügyi Nyilvántartás és az Építésügyi 
 
 c) ellátja az építésüggyel összefüggő oktatási, továbbképzési és tanügy igazgatási feladatokat, továbbá közreműködik a nemzeti szabványok kidolgozásában.
 
-[^11]: A 16. § a 221/2014. (IX. 4.) Korm. rendelet 819. §-ával megállapított szöveg.
+[^15]: A 16. § a 221/2014. (IX. 4.) Korm. rendelet 819. §-ával megállapított szöveg.

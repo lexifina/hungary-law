@@ -1,4 +1,4 @@
-13. § (1)[^10] A miniszter az agrár-vidékfejlesztésért való felelőssége keretében e rendeletben meghatározott kivétellel előkészíti az Európai Unió közös agrárpolitikája II. pilléréből nyújtott agrár-vidékfejlesztési támogatásokra, továbbá az Európai Unió közös halászati politikájával összefüggésben nyújtott támogatásokra vonatkozó jogszabályokat.
+13. § (1)[^13] A miniszter az agrár-vidékfejlesztésért való felelőssége keretében e rendeletben meghatározott kivétellel előkészíti az Európai Unió közös agrárpolitikája II. pilléréből nyújtott agrár-vidékfejlesztési támogatásokra, továbbá az Európai Unió közös halászati politikájával összefüggésben nyújtott támogatásokra vonatkozó jogszabályokat.
 
 (2) A miniszter az agrár-vidékfejlesztésért való felelőssége keretében
 
@@ -10,4 +10,4 @@ c) – a turizmusért felelős miniszterrel és a területfejlesztésért felel�
 
 d) önálló program keretében elősegíti az ökológiai, gazdasági, társadalmi szempontból fenntarthatóságra törekvő helyi közösségi kezdeményezések működését, valamint országos hálózatuk kialakítását és működtetését.
 
-[^10]: A 13. § (1) bekezdése a 167/2014. (VII. 17.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^13]: A 13. § (1) bekezdése a 167/2014. (VII. 17.) Korm. rendelet 11. §-ával megállapított szöveg.

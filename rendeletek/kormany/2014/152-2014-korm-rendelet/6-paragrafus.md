@@ -8,7 +8,7 @@ c) közreműködik a döntések megvalósulásának értékelésében, a végreh
 
 d) összehangolja és biztosítja a Kormány informatikával és e-közigazgatással kapcsolatos politikájának egységes megvalósítását,
 
-e)[^4] felel a fejlesztési banki eszközökkel megvalósuló fejlesztéspolitikáért és előkészíti a Magyar Fejlesztési Bankra vonatkozó jogszabályokat.
+e)[^5] felel a fejlesztési banki eszközökkel megvalósuló fejlesztéspolitikáért és előkészíti a Magyar Fejlesztési Bankra vonatkozó jogszabályokat.
 
 (2) A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében a kormányzati munka tervezése tekintetében
 
@@ -56,11 +56,11 @@ b) a kormányzati honlapok egységes szerkezetének és arculatának kialakítá
 
 (5) A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében segíti a miniszterelnök tevékenységét, e tekintetben
 
-a)[^5] ellátja a miniszterelnök és a Kormány körüli állami protokoll teendőket, felel a miniszterelnök külföldre történő kiutazásaival kapcsolatos feladatok ellátásáért, a nemzetközi állami rendezvények szervezéséért és lebonyolításáért, valamint az általa vezetett minisztérium protokoll tevékenységéért,
+a)[^6] ellátja a miniszterelnök és a Kormány körüli állami protokoll teendőket, felel a miniszterelnök külföldre történő kiutazásaival kapcsolatos feladatok ellátásáért, a nemzetközi állami rendezvények szervezéséért és lebonyolításáért, valamint az általa vezetett minisztérium protokoll tevékenységéért,
 
 b) a miniszterelnök részére soron kívül tájékoztatást, felvilágosítást, továbbá kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, illetve szakértői közreműködést kér, közvetíti a miniszterelnök eseti döntéseit a miniszterek és a kormányzati szervek felé,
 
 c) gondoskodik a köztársasági elnök, a Kormány és a miniszterelnök által adományozható kitüntetésekkel és egyéb elismerésekkel kapcsolatos feladatok ellátásáról.
 
-[^4]: A 6. § (1) bekezdése e) pontját a 167/2014. (VII. 17.) Korm. rendelet 10. §-a iktatta be.
-[^5]: A 5. § (5) bekezdés a) pontja a 303/2014. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 6. § (1) bekezdése e) pontját a 167/2014. (VII. 17.) Korm. rendelet 10. §-a iktatta be.
+[^6]: A 5. § (5) bekezdés a) pontja a 303/2014. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.

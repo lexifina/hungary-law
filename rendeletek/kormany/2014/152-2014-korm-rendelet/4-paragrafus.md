@@ -24,7 +24,7 @@
 
 7. agrár-vidékfejlesztésért,
 
-8. kutatás-fejlesztésért és technológiai innovációért,
+8.[^2]
 
 9. közbeszerzésekért,
 
@@ -34,11 +34,11 @@
 
 12. településfejlesztésért és településrendezésért,
 
-12a.[^2] területrendezésért,
+12a.[^3] területrendezésért,
 
 13. polgári hírszerzési tevékenység irányításáért,
 
-13a.[^3] postaügyért,
+13a.[^4] postaügyért,
 
 14. társadalompolitika összehangolásáért,
 
@@ -49,5 +49,6 @@
 felelős tagja.
 
 [^1]: A 4. § 5a. pontját a 303/2014. (XII. 5.) Korm. rendelet 1. §-a iktatta be.
-[^2]: A 4. § 12a. pontját a 221/2014. (IX. 4.) Korm. rendelet 817. §-a iktatta be.
-[^3]: A 4. § 13a. pontját a 167/2014. (VII. 17.) Korm. rendelet 9. §-a iktatta be.
+[^2]: A 4. § 8. pontját a 381/2014. (XII. 31.) Korm. rendelet 29. §-a hatályon kívül helyezte.
+[^3]: A 4. § 12a. pontját a 221/2014. (IX. 4.) Korm. rendelet 817. §-a iktatta be.
+[^4]: A 4. § 13a. pontját a 167/2014. (VII. 17.) Korm. rendelet 9. §-a iktatta be.

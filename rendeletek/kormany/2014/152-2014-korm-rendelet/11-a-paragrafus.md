@@ -1,4 +1,4 @@
-11/A. §[^9] (1) A miniszter az európai uniós ügyek koordinációjáért való felelőssége keretében előkészíti az európai uniós tagsággal összefüggő kormányzati koordinációhoz kapcsolódó jogszabályokat.
+11/A. §[^10] (1) A miniszter az európai uniós ügyek koordinációjáért való felelőssége keretében előkészíti az európai uniós tagsággal összefüggő kormányzati koordinációhoz kapcsolódó jogszabályokat.
 
 (2) A miniszter az európai uniós ügyek koordinációjáért való felelőssége keretében felel az Európai Unió politikáiból eredő és az európai uniós tagsághoz kapcsolódó kormányzati feladatok tárcaközi összehangolásáért, ennek keretében
 
@@ -22,6 +22,12 @@ f) részt vesz az uniós tagságból fakadó kötelezettségek végrehajtásána
 
 g) összehangolja a Kormány és az Országgyűlés európai uniós ügyekkel kapcsolatos együttműködésével összefüggő kormányzati feladatokat,
 
-h) egyetértési jogkört gyakorol a Magyarország Európai Unió melletti Állandó Képviselete (a továbbiakban: Állandó Képviselet) működésére vonatkozó szabályok meghatározása tekintetében, és ellátja az Állandó Képviselet szakmai irányítását.
+h) egyetértési jogkört gyakorol a Magyarország Európai Unió melletti Állandó Képviselete (a továbbiakban: Állandó Képviselet) működésére vonatkozó szabályok meghatározása tekintetében, és ellátja az Állandó Képviselet szakmai irányítását,
 
-[^9]: A 11/A. §-t a 303/2014. (XII. 5.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+i)[^11] javaslatot tesz az Állandó Képviselet vezetőjének és az Állandó Képviseleten működő nagykövetek kinevezésére és felmentésére,
+
+j)[^12] kifogással élhet az Állandó Képviseletre nem diplomataként, szakdiplomataként tartós külszolgálatra kihelyezni tervezett személy kihelyezése tekintetében.
+
+[^10]: A 11/A. §-t a 303/2014. (XII. 5.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^11]: A 11/A. § (2) bekezdés i) pontját a 303/2014. (XII. 5.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^12]: A 11/A. § (2) bekezdés j) pontját a 303/2014. (XII. 5.) Korm. rendelet 3. § (2) bekezdése iktatta be.

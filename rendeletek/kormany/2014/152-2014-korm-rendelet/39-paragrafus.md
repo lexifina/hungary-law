@@ -10,6 +10,6 @@ c) a személy és vagyonvédelemre, a magánnyomozásra
 
 vonatkozó jogszabályokat.
 
-(2)[^19] A miniszter a rendészetért való felelőssége keretében összehangolja a korrupcióellenes tevékenységgel kapcsolatos kormányzati feladatokat és irányítja a korrupcióellenes kormányzati tevékenységben és összehangolásában közreműködő szervet.
+(2)[^23] A miniszter a rendészetért való felelőssége keretében összehangolja a korrupcióellenes tevékenységgel kapcsolatos kormányzati feladatokat és irányítja a korrupcióellenes kormányzati tevékenységben és összehangolásában közreműködő szervet.
 
-[^19]: A 39. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 822. §-ával megállapított szöveg.
+[^23]: A 39. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 822. §-ával megállapított szöveg.
