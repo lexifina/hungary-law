@@ -12,6 +12,6 @@ c) jogerős és végrehajtható bírósági (hatósági) határozatban foglalt f
 
 d) fizetési kötelezettségét a korábban lefolytatott adósságrendezési eljárásban kötött egyezség ellenére nem teljesítette;
 
-e) az államháztartás más alrendszereivel szemben fennálló köztartozását az államháztartásról szóló 2011. évi CXCV. törvény 83. § (4) bekezdése szerinti felhatalmazáson alapuló beszedési megbízás benyújtását követő 60 napon belül nem teljesíti;
+e)
 
 f) más helyi önkormányzattal szemben fennálló tartozását – ideértve a külön jogszabály szerint létrehozott társulás keretében vállalt fizetési kötelezettségének nem teljesítését is – az önkormányzattal kötött vagy társulási megállapodáson alapuló beszedési megbízás benyújtását követő 60 napon belül nem teljesíti.
