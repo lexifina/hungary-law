@@ -1,3 +1,0 @@
-## 7/A. §[^38] Az Inytv. 37. § (3) bekezdésének alkalmazása során aláírási címpéldánynak minősül a közjegyzői aláírás-hitelesítéssel ellátott címpéldány, valamint az ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-minta.
-
-[^38]: A 7/A. §-t a 163/2009. (VIII. 6.) Korm. rendelet 39. §-a iktatta be. E módosító rendelet 41. § (4) bekezdése alapján ahol kormányrendelet vagy miniszteri rendelet aláírási címpéldány benyújtását írja elő, e kötelezettség ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-minta benyújtásával is teljesíthető.

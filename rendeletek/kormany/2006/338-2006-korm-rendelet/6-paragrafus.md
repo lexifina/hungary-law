@@ -1,5 +1,0 @@
-6. §[^26] (1) A Kormány telekalakítási eljárás lefolytatatására hatáskörrel rendelkező hatóságként az épített környezet alakításáról és védelméről szóló törvény szerinti telekalakítási eljárásokban – a honvédelmi és katonai célú ingatlanok, valamint a (2) bekezdésben foglaltak kivételével – első fokon a járási földhivatalt, másodfokon a megyei földhivatalt jelöli ki.
-
-(2) A Kormány telekalakítási eljárás lefolytatására hatáskörrel rendelkező hatóságként, ha az összevont telepítési eljárásban telekalakítási eljárás is lefolytatásra kerül, az összevont telepítési eljárást lefolytató közreműködő építésügyi hatóságot jelöli ki.
-
-[^26]: A 6. §-t a 182/2009. (IX. 10.) Korm. rendelet 515. §-a hatályon kívül helyezte, újonnan a 246/2009. (XI. 3.) Korm. rendelet 1. §-a iktatta be, szövege a 322/2012. (XI. 16.) Korm. rendelet 33. §-ával megállapított szöveg. [A 296/2012. (X. 17.) Korm. rendelet 25. § (2) bekezdésével elrendelt módosítás, amely szerint a „körzeti” szövegrész helyébe a „járási” szöveg lép, nem vezethető át.]
