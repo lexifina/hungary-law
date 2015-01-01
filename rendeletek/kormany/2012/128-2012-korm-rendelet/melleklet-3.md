@@ -1,23 +1,21 @@
-## A Városüzemeltetési Kft. által ellátandó feladatok
+## A Díjbeszedő Holding Zrt. által ellátandó feladatok
 
-## A Városüzemeltetési Kft. által az Ltv. 10. § (1) bekezdésében meghatározott kereteken belül ellátandó feladatok:
+## A Díjbeszedő Holding Zrt. által ellátandó feladatok:
 
-## 1. A Nemzeti Eszközkezelő vagyonkezelésében álló lakhatási célú ingatlanokkal összefüggő műszaki hibabejelentések fogadására alkalmas telefonos ügyfélszolgálat működtetése.
+## 1. A Nemzeti Eszközkezelő vagyonkezelésében álló ingatlanokra és azok használóira (bérlők, jogcím nélküli lakáshasználók) vonatkozó adatoknak a követelések nyilvántartására alkalmas számítógépes rendszerbe történő feltöltése és karbantartása.
 
-## 2. A Nemzeti Eszközkezelő vagyonkezelésében álló lakhatási célú ingatlanokkal összefüggésben bejelentett műszaki hibák rövid, ütemezett határidőn belüli – rendkívüli sürgősség esetén haladéktalan – elhárítása, javítása.
+## 2. A Nemzeti Eszközkezelővel bérleti jogviszonyban állókkal, illetve a Nemzeti Eszközkezelő vagyonkezelésében álló ingatlanokat jogcím nélkül használókkal szembeni követelésekre vonatkozó számlák, csekkes számlalevelek, valamint egyéb megszemélyesített iratok, értesítők, felszólító levelek, bizonylatok, egyenlegközlő levelek előállítása.
 
-## 3. A Nemzeti Eszközkezelő vagyonkezelésében álló lakhatási célú ingatlanok tekintetében szükségessé váló tervezett vagy eseti állagmegóvó munkálatok elvégzése a Nemzeti Eszközkezelő utasításai alapján, valamint jogszabály által előírt, tulajdonost terhelő, ellenőrzési, felülvizsgálati feladatok elvégzése.
+## 3. Az elkészített értesítők, számlák, csekkes számlalevelek, felszólító levelek, bizonylatok, egyenlegközlő levelek, egyéb megszemélyesített iratok borítékolása, valamint a postai előírásoknak megfelelően előkészített küldemények postai feladása.
 
-## 4. A Nemzeti Eszközkezelő vagyonkezelésében álló lakhatási célú ingatlanok használatának, illetve műszaki állapotának időszakos helyszíni ellenőrzése.
+## 4. A Nemzeti Eszközkezelő számláján jóváírt befizetések (postai csekken történő befizetések, banki átutalással teljesített befizetések, belföldi postautalványon érkező befizetések, egyéb számviteli bizonylatok fogadása) beazonosítása, a Nemzeti Eszközkezelő vagyonkezelésében álló ingatlanhoz rendelése, az előírásokkal történő összevetése, a befizetéseknek a Nemzeti Eszközkezelő által meghatározott elszámolási sorrend szerinti elszámolása, késedelmes befizetés esetén késedelmi kamat számítása. A Nemzeti Eszközkezelő által a NET tv. 21. § (3) bekezdése alapján nyilvántartott óvadék terhére történő követelés elszámolás végrehajtása.
 
-## 5. A Nemzeti Eszközkezelő vagyonkezelésében álló lakhatási célú ingatlanokra vonatkozó adatoknak a Városüzemeltetési Kft. által üzemeltetett ingatlankezelést és üzemeltetést támogató számítógépes rendszerbe történő feltöltése és karbantartása.
+## 5. Az 5. § (4) bekezdése szerinti lakbér indexálás elvégzése, valamint a bérlők értesítése a lakbér indexálásáról az 5. § (5) bekezdésében meghatározott határidő figyelembe vételével.
 
-## 6. A Nemzeti Eszközkezelő vagyonkezelésében álló lakhatási célú ingatlanok vagyonvédelme és őrzése.
+## 6. Az elkészített számlák, illetve a beérkezett és feldolgozásra került befizetések adatainak átadása a Nemzeti Eszközkezelőnek, illetve a részére számviteli szolgáltatást nyújtó szervezet részére.
 
-## 7. A Nemzeti Eszközkezelő vagyonkezelésében álló lakhatási célú ingatlanok lakásbérleti szerződés megszűnése okán bekövetkező megüresedése esetén az ingatlanok bérbeadásból történő visszavétele, üres ingatlanok gondnokolása, illetve újabb bérbeadást megelőzően műszaki állapotfelmérés elkészítése.
+## 7. A Nemzeti Eszközkezelő részére információ szolgáltatása a követelésekről, a Nemzeti Eszközkezelő által meghatározott paraméterek szerinti riportok, jelentések elkészítése.
 
-## 8. Természeti csapás vagy emberi tevékenység okozta, a lakosságot vagy a környezetet veszélyeztető váratlan esemény bekövetkeztekor közreműködés a kiköltöztetendő lakók és vagyontárgyaik elszállításában és ideiglenes elhelyezésében.
+3. melléklet a 128/2012. (VI. 26.) Korm. rendelethez[^68]
 
-3. melléklet a 128/2012. (VI. 26.) Korm. rendelethez[^65]
-
-[^65]: A 3. mellékletet a 431/2012. (XII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 111/2013. (IV. 11.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^68]: A 3. mellékletet a 431/2012. (XII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 111/2013. (IV. 11.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.

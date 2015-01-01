@@ -14,7 +14,7 @@ c) közfoglalkoztatási jogviszonyban áll.
 
 (2) A Nemzeti Eszközkezelő a megvételre felajánlott lakóingatlant az (1) bekezdésben meghatározott eseteken kívül akkor is megvásárolja, ha a hiteladós, a zálogkötelezett vagy a vele egy háztartásban élő hozzátartozója a szociális igazgatásról és szociális ellátásokról szóló törvény alapján ápolási díjban részesül, ide nem értve a települési önkormányzat képviselő-testülete által megállapított ápolási díjat.
 
-(3) A Nemzeti Eszközkezelő a megvételre felajánlott lakóingatlant az (1) és (2) bekezdésben meghatározott eseteken kívül akkor is megvásárolja, ha a hiteladós, a zálogkötelezett vagy a vele egy háztartásban élő hozzátartozója sajátjogú nyugellátásban vagy megváltozott munkaképességű személyek ellátásában részesül, kivéve ha a nyugellátás folyósítása bármely okból szünetel.
+(3)[^16] A Nemzeti Eszközkezelő a megvételre felajánlott lakóingatlant az (1) és a (2) bekezdésben meghatározott eseteken kívül akkor is megvásárolja, ha a hiteladós, a zálogkötelezett vagy a vele egy háztartásban élő hozzátartozója sajátjogú nyugellátásban, özvegyi nyugdíjban – ide nem értve az ideiglenes özvegyi nyugdíjat –, szülői nyugdíjban vagy megváltozott munkaképességű személyek ellátásában részesül, kivéve ha a nyugellátás folyósítása bármely okból szünetel.
 
 (4) A hiteladós – ha a lakóingatlan nem a hiteladós tulajdonában van, a zálogkötelezettel együttesen – a pénzügyi intézményhez benyújtott szándéknyilatkozatához csatolja
 
@@ -28,7 +28,7 @@ ac) a közfoglalkoztatásról a szándéknyilatkozat benyújtásának időpontj�
 
 b) a (2) bekezdésben meghatározott esetben az ápolási díjra való jogosultságról a lakóingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának a szándéknyilatkozat benyújtásának időpontjánál harminc nappal nem régebben kiállított igazolását;
 
-c)[^16] a (3) bekezdésben meghatározott esetekben az ellátást megállapító határozatot, vagy az ellátás évenkénti rendszeres emeléséről szóló értesítést, valamint
+c)[^17] a (3) bekezdésben meghatározott esetekben az ellátást megállapító határozatot, vagy az ellátás évenkénti rendszeres emeléséről szóló értesítést, valamint
 
 ca) postai úton történő kifizetés esetén az ellátás átvételét igazoló, a szándéknyilatkozat benyújtásának időpontjánál 30 napnál nem régebbi szelvényt vagy
 
@@ -37,4 +37,5 @@ cb) pénzforgalmi szolgáltatónál vezetett számlára átutalással történő
 [^13]: A II. Fejezet megjelölését és címét a 431/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
 [^14]: A 2. § a 130/2013. (V. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^15]: A 2. § (1) bekezdés nyitó szövegrésze a 368/2013. (X. 24.) 11. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^16]: A 2. § (4) bekezdés c) pontja a 368/2013. (X. 24.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^16]: A 2. § (3) bekezdése a 390/2014. (XII 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^17]: A 2. § (4) bekezdés c) pontja a 368/2013. (X. 24.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.

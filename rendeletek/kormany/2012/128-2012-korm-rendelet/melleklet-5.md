@@ -46,6 +46,6 @@
 
 | ...................................................................... a hitelező megnevezése |
 
-5. melléklet a 128/2012. (VI. 26.) Korm. rendelethez[^67]
+5. melléklet a 128/2012. (VI. 26.) Korm. rendelethez[^70]
 
-[^67]: Az 5. mellékletet a 368/2013. (X. 24.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^70]: Az 5. mellékletet a 368/2013. (X. 24.) Korm. rendelet 10. § (3) bekezdése iktatta be.

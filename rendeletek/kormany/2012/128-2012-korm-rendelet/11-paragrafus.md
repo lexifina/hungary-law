@@ -2,7 +2,7 @@
 
 ## 7. A Nemzeti Eszközkezelő feladatainak ellátására kizárólagos jog alapján történő kijelölés
 
-11. § (1)[^46] A NET tv. 4. § (2) bekezdésében meghatározott feladatokat kizárólagos jog alapján – a 11/A. §-ban meghatározott kivétellel – a MÁV Ingatlankezelő Korlátolt Felelősségű Társaság (a továbbiakban: Kijelölt Szolgáltató) látja el.
+11. § (1)[^47] A NET tv. 4. § (2) bekezdésében meghatározott feladatokat kizárólagos jog alapján – a 11/A. §-ban meghatározott kivétellel – a MÁV Létesítményüzemeltető és Vasútőr Korlátolt Felelősségű Társaság (a továbbiakban: Kijelölt Szolgáltató) látja el.
 
 (2) A Kijelölt Szolgáltató által ellátandó feladatok pontos körét a 2. melléklet határozza meg.
 
@@ -10,4 +10,4 @@
 
 (4) A Kijelölt Szolgáltató a feladatot közszolgáltatás keretében látja el.
 
-[^46]: A 11. § (1) bekezdése a 368/2013. (X. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^47]: A 11. § (1) bekezdése a 368/2013. (X. 24.) Korm. rendelet 7. §-ával megállapított, a 390/2014. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.

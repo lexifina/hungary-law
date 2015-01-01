@@ -2,6 +2,6 @@
 
 8. § (1) Ha a bérlő a lakbérfizetésre megállapított határidőig a lakbért nem fizeti meg, a bérbeadó a bérlőt – a következményekre történő figyelmeztetéssel – a teljesítésre írásban felszólítja és az elmaradt lakbér megfizetésére határidőt szab.
 
-(2)[^38] Ha a bérlő lakbérfizetésből eredő tartozásainak összege a hathavi lakbér összegét eléri vagy meghaladja, a bérbeadó a bérleti szerződést felmondja. A felmondás az elmaradt lakbér megfizetésére vonatkozó legutolsó felszólításban meghatározott és elmulasztott fizetési határidő utolsó napját követő hónap utolsó napjára szól.
+(2)[^39] Ha a bérlő lakbérfizetésből eredő tartozásainak összege a hathavi lakbér összegét eléri vagy meghaladja, a bérbeadó a bérleti szerződést felmondja. A felmondás az elmaradt lakbér megfizetésére vonatkozó legutolsó felszólításban meghatározott és elmulasztott fizetési határidő utolsó napját követő hónap utolsó napjára szól.
 
-[^38]: A 8. § (2) bekezdése a 385/2012. (XII. 19.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^39]: A 8. § (2) bekezdése a 385/2012. (XII. 19.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
