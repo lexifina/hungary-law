@@ -1,7 +1,6 @@
-6. § (1) A munkaügyi központ megyei NFA kerettel kapcsolatos szakmai és pénzügyi tevékenységét a Nemzeti Munkaügyi Hivatal (a továbbiakban: NMH) kockázatelemzésen alapuló éves ellenőrzési terv alapján ellenőrzi.
+6. § (1)[^1] A munkaügyi központ megyei NFA kerettel kapcsolatos szakmai és pénzügyi tevékenységét a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium ellenőrzi.
 
-(2) Az NMH az ellenőrzési tapasztalatairól negyedévente tájékoztatja a minisztert.
+(2)–(4)[^2]
 
-(3) Az NMH az éves ellenőrzési tervet február 28-áig, a negyedéves beszámolót a negyedévet követő hónap 15. napjáig küldi meg a miniszternek.
-
-(4) A miniszter ellenőrzi az NMH NFA-val kapcsolatos szakmai tevékenységét, valamint ellenjegyzési jogköre gyakorlásával a közfoglalkoztatási előirányzat (Start-munkaprogram) gazdálkodását.
+[^1]: A 6. § (1) bekezdése az 55/2014. (XII. 31.) NGM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^2]: A 6. § (2)–(4) bekezdését az 55/2014. (XII. 31.) NGM rendelet 14. § (2) bekezdése hatályon kívül helyezte.
