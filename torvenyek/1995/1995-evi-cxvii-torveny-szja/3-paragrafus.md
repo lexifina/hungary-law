@@ -96,7 +96,15 @@ azzal, hogy szokásos haszon az a haszon, amelyet összehasonlítható tevékeny
 
 13. Külszolgálat: a munkáltató által elrendelt, külföldön történő munkavégzés.
 
-14. Munkáltató: az, akivel (amellyel) a magánszemély munkaviszonyban áll, illetve munkaerő-kölcsönzés esetén – a munkavállaló kölcsönbeadójával kötött megállapodás alapján – a kölcsönzött munkavállaló részére közvetlenül juttatott bevétel tekintetében a munkavállaló kölcsönvevője. Munkaerő-kölcsönzés, illetve egy munkakörre több munkáltatóval kötött munkaszerződés esetén a bevételnek nem számító juttatásra, valamint a béren kívüli juttatásra (71. §) az e törvényben megállapított rendelkezéseket a kölcsönbeadó és a kölcsönvevő, illetve a több munkáltató ilyen juttatásának együttes összegére vonatkozóan kell irányadónak tekinteni.
+14. Munkáltató:
+
+a) az, akivel (amellyel) a magánszemély munkaviszonyban áll,
+
+b) munkaerő-kölcsönzés esetén a kölcsönzött munkavállaló részére közvetlenül juttatott bevétel tekintetében a munkavállaló kölcsönvevője a munkavállaló kölcsönbeadójával kötött megállapodás alapján,
+
+c) az iskolaszövetkezet által nyújtott szolgáltatás keretében a szolgáltatás juttatónak minősülő fogadója érdekében tevékenységet végző iskolaszövetkezeti tag részére közvetlenül juttatott bevétel tekintetében a szolgáltatás fogadója,
+
+azzal, hogy munkaerő-kölcsönzés, illetve egy munkakörre több munkáltatóval kötött munkaszerződés esetén a bevételnek nem számító juttatásra, valamint a béren kívüli juttatásra (71. §) az e törvényben megállapított rendelkezéseket a kölcsönbeadó és a kölcsönvevő, illetve a több munkáltató ilyen juttatásának együttes összegére vonatkozóan kell irányadónak tekinteni.
 
 15. Társadalombiztosítási ellátás: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény, a kötelező egészségbiztosításról szóló törvény, a társadalombiztosítási nyugellátásról szóló törvény, a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény, valamint a családok támogatásáról szóló törvény alapján folyósított ellátás.
 
@@ -232,9 +240,11 @@ b) ingatlan átruházása esetében az átruházást megelőző 24 hónapon bel�
 
 38. Egyenruha: a Magyar Honvédség és a rendvédelmi szervezetek tagjának, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának egyforma, hivatalos öltözete, valamint törvényben előírt hivatalos öltözet.
 
-39–40.
+39. Kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU rendelet (HL L 187 2014.06.26. 1–78. o.) 1–14. és 17. cikke szerinti támogatás.
 
-41. Agrár csekély összegű (de minimis) támogatás: az Európai Unió valamely, a mezőgazdasági vagy halászati termelő ágazatban nyújtott csekély összegű (de minimis) támogatásokra vonatkozó uniós jogi aktusában meghatározott támogatás, mely mértéke, illetve intenzitása alapján nem teljesíti az Európai Unió Működéséről szóló szerződés 107. cikk (1) bekezdésében foglalt valamennyi feltételt és így nem tartozik a 108. cikk (3) bekezdésében foglalt bejelentési kötelezettség alá.
+40. Agrár csoportmentességi (ABER) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló 2014. június 25-i 702/2014/EU rendelet (HL L 193 2014.07.01. 1–75. o.) 1–14. és 17. cikkei szerinti támogatás.
+
+41. Mezőgazdasági csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1408/2013/EU rendelet (HL L 352 2013.12.24. 9–17. o.) szerinti támogatás.
 
 42. Költségek fedezetére vagy fejlesztési célra folyósított támogatás: a költségek fedezetére vagy fejlesztési célra folyósított olyan támogatás, amelyet a magánszemély kizárólag a ténylegesen felmerült, igazolt kiadásainak a folyósítóval történő elszámolási kötelezettsége mellett kap.
 
@@ -246,7 +256,7 @@ b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról 
 
 c) a b) pontban említett ellátásra való jogosultságát már kimerítette, de az állami foglalkoztatási szervvel továbbra is együttműködött,
 
-azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjából azt az időtartamot, amely alatt a munkanélküli terhességi-gyermekágyi segélyben, gyermekgondozási segélyben részesül, továbbá az előzetes letartóztatás, szabadságvesztés, elzárás büntetés időtartamát, valamint a tartalékos katonai szolgálatban, a polgári szolgálatban töltött időt (a szolgálat megkezdése és befejezése közötti időtartamot) figyelmen kívül kell hagyni.
+azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjából azt az időtartamot, amely alatt a munkanélküli csecsemőgondozási díjban, gyermekgondozási segélyben részesül, továbbá az előzetes letartóztatás, szabadságvesztés, elzárás büntetés időtartamát, valamint a tartalékos katonai szolgálatban, a polgári szolgálatban töltött időt (a szolgálat megkezdése és befejezése közötti időtartamot) figyelmen kívül kell hagyni.
 
 44. Azonos munkakör: a 7/2010. (IV. 23.) KSH közleménnyel kiadott, 2011. január 1-jétől hatályos Foglalkozások Egységes Osztályozási Rendszere (FEOR-08) szerint azonosnak minősülő munkakör.
 
@@ -260,7 +270,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 49. Magánnyugdíjpénztár: a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény hatálya alá tartozó szervezet.
 
-50.
+50. Halászati csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra- ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (HL L 190., 2014.06.28., 45–54. o.) szerinti támogatás.
 
 51. Termőföld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező-, erdőgazdasági hasznosítású föld.
 
@@ -294,11 +304,11 @@ azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csop
 
 65. Szociális gondozói díj: az a költségtérítést nem tartalmazó bevétel, amelyet a személyes gondoskodásról szóló jogszabályi rendelkezések alapján, illetőleg azoknak megfelelően nem munkaviszony keretében folytatott tevékenységért és nem munkaviszony keretében folytatott lelki segélyszolgálatért kap a magánszemély.
 
-66. Alapkutatás: a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény (a továbbiakban: Innovációs tv.) 4. § 1. pont a) alpontjában meghatározott alapkutatás.
+66. Alapkutatás: a tudományos kutatásról, fejlesztésről és innovációról szóló törvényben (a továbbiakban: Innovációs tv.) meghatározott alapkutatás.
 
-67. Alkalmazott kutatás: az Innovációs tv. 4. § 1. pont b) alpontjában meghatározott alkalmazott kutatás.
+67. Alkalmazott kutatás: az Innovációs tv. szerinti alkalmazott kutatás.
 
-68. Kísérleti fejlesztés: az Innovációs tv. 4. § 1. pont c) alpontjában meghatározott kísérleti fejlesztés.
+68. Kísérleti fejlesztés: az Innovációs tv. szerinti kísérleti fejlesztés.
 
 69. Független felek: azok a személyek (természetes személyek, jogi személyek, egyéb szervezetek), amelyek (akik) között nem áll fenn olyan szoros gazdasági, jogi kapcsolat, amelynek révén legalább az egyik fél meghatározó befolyást képes gyakorolni a másik fél gazdasági döntéseire, vagy amelynek révén a felek egymással szoros együttműködésben folytatják tevékenységüket (nem tekinthetők független feleknek különösen az egymással munkaviszonyban, tartós megbízási jogviszonyban álló személyek, továbbá a társas vállalkozás és a benne akár közvetlenül, akár közvetve – a közeli hozzátartozókat megillető jogokat együttesen számítva – többségi irányítást biztosító befolyással rendelkező magánszemély).
 
@@ -328,9 +338,9 @@ azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csop
 
 82.
 
-83. Kiküldetési rendelvény: a kifizető által két példányban kiállított bizonylat, amely tartalmazza a magánszemély nevét, adóazonosító jelét, a gépjármű gyártmányának, típusának megnevezését, forgalmi rendszámát, a hivatali, üzleti utazás(ok) célját, időtartamát, útvonalát, a futásteljesítményt, az utazás költségtérítését, valamint ezen költségtérítés kiszámításához szükséges adatokat (üzemanyag-fogyasztási norma, üzemanyagár stb.). A kiküldetési rendelvény eredeti példányát a kifizető, másolatát a magánszemély a bizonylatmegőrzésre vonatkozó rendelkezések betartásával megőrzi.
+83. Kiküldetési rendelvény: a kifizető által két példányban kiállított bizonylat, amely tartalmazza a magánszemély nevét, adóazonosító jelét, a gépjármű gyártmányának, típusának megnevezését, forgalmi rendszámát, a hivatali, üzleti utazás(ok) célját, időtartamát, útvonalát, a futásteljesítményt, az utazás költségtérítését, valamint ezen költségtérítés kiszámításához szükséges adatokat (üzemanyag-fogyasztási norma, üzemanyagár stb.), azzal, hogy kiküldetési rendelvénynek minősül az említett adatokat tartalmazó, a digitális archiválás szabályairól szóló jogszabály rendelkezéseit is figyelembe véve zárt rendszerben kezelt és tárolt, elektronikus úton előállított bizonylat is. A papír alapon kiállított kiküldetési rendelvény eredeti példányát a kifizető, másolatát a magánszemély a bizonylatmegőrzésre vonatkozó rendelkezések betartásával megőrzi.
 
-84. Kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatás: a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló a Bizottság 800/2008/EK rendelete (2008. augusztus 6.) 1–13. cikkei alapján megillető támogatás.
+84.
 
 85. Ellenőrzött külföldi társaság: a társasági adóról és az osztalékadóról szóló törvény szerinti ellenőrzött külföldi társaság.
 
@@ -348,7 +358,17 @@ azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csop
 
 92. Életbiztosítás: az olyan személybiztosítás, amely alapján a biztosító a természetes személy halála, meghatározott életkor vagy időpont elérése vagy más esemény bekövetkezése esetére a szerződésben meghatározott biztosítási összeg kifizetésére, járadék élethosszig tartó vagy meghatározott időszakra történő folyósítására vállal kötelezettséget.
 
-93. Nyugdíjbiztosítás: az olyan életbiztosítás, ahol a biztosítói teljesítést a biztosított halála, vagy a társadalombiztosítási nyugellátásról szóló jogszabály szerinti nyugdíjszolgáltatásra való jogosultság megszerzése, vagy az egészségi állapot legalább 40%-os mértéket elérő károsodása váltja ki, illetve ha a biztosító elérési szolgáltatása a szerződés létrejöttekor érvényes öregségi nyugdíjkorhatár biztosított általi betöltésekor válik esedékessé, feltéve, hogy a szerződés létrejöttétől a biztosító biztosítási eseményre tekintettel történő teljesítéséig (kivéve a biztosított halálát, a rokkantsági, a rehabilitációs ellátásra való jogosultság bekövetkezését, valamint ha a biztosító teljesítése nem csökkenő összegű járadékszolgáltatás és a járadékszolgáltatást a folyósítás megkezdésétől számított 10. év végéig vagy a biztosított haláláig nyújtják) legalább 10 év eltelik.
+93. Nyugdíjbiztosítás: az olyan életbiztosítás, ahol a biztosító teljesítésére – a haláleseti szolgáltatást kivéve – a nyugdíjbiztosítási szerződés egész tartama alatt a biztosított jogosult, és a biztosítói teljesítést a biztosított
+
+a) halála,
+
+b) társadalombiztosítási nyugellátásról szóló jogszabály szerinti saját jogú nyugellátásra való jogosultságának megszerzése (ez alatt a tényleges nyugdíjas állapotot kell érteni),
+
+c) egészségi állapotának legalább 40%-os mértéket elérő károsodása, feltéve, hogy a nyugdíjbiztosítási szerződés létrejöttének időpontjában a biztosított egészségkárosodása a 40%-os mértéket nem éri el (függetlenül attól, hogy rokkantsági vagy rehabilitációs ellátásra jogosult-e vagy sem), vagy
+
+d) a szerződés létrejöttekor érvényes öregségi nyugdíjkorhatár biztosított általi betöltése
+
+váltja ki, feltéve, hogy a nyugdíjbiztosítási szerződés létrejöttétől (az ajánlat vagy a szerződésmódosítás ügyfél részéről történő aláírásának napjától) a biztosító biztosítási eseményre tekintettel történő teljesítéséig (kivéve a biztosított halálát, a biztosított legalább 40%-os mértékű egészségkárosodását, valamint kivéve, ha a biztosító teljesítése nem csökkenő összegű járadékszolgáltatás és a járadékszolgáltatást a szerződés létrejöttétől számított legalább 10. év végéig vagy a biztosított haláláig nyújtják) legalább 10 év eltelik, azzal, hogy a nyugdíjbiztosítási szerződésnek az a)–d) pontokban szereplő biztosítási eseményeket – a c) pont kivételével, ha a biztosított egészségkárosodása a nyugdíjbiztosítási szerződés létrejöttekor a 40%-os mértéket már eléri – tartalmaznia kell, és az a)–d) pontokban szereplő biztosítási eseményeken kívül más biztosítási eseményt nem tartalmazhat. Amennyiben a járadékszolgáltatás egy hónapra jutó várható összege a 10 ezer forintot nem éri el, a járadékszolgáltatás – a szerződés létrejöttétől számított 10. év letelte előtt – egy összegben is teljesíthető.
 
 94. Betegségbiztosítás (vagy egészségbiztosítás): az olyan személybiztosítás, amely alapján a biztosító a biztosított megbetegedése esetén a szerződésben meghatározott szolgáltatások teljesítésére vállal kötelezettséget, azzal, hogy betegségbiztosítás esetében a biztosító szolgáltatása kiterjedhet a szerződésben meghatározott, biztosítási eseménnyel kapcsolatban álló egészségügyi szolgáltatások miatt felmerült költségek egészségügyi szolgáltató számára történő megtérítésére is.
 
@@ -359,3 +379,5 @@ azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csop
 97. Nem csökkenő összegű járadékszolgáltatás: a biztosító olyan szolgáltatása, amikor a biztosító rendszeres teljesítései közül a mindenkori utolsó teljesítés – pénzben vagy más egységben kifejezett – összege nagyobb vagy egyenlő a mindenkori utolsó teljesítést közvetlenül megelőző biztosítói teljesítés összegénél, ideértve azt az esetet is, amikor a biztosítói teljesítés összege igazolhatóan kizárólag a biztosítói teljesítés gyakoriságának és/vagy a folyósítás tartamának módosulása miatt változik.
 
 98. Biztosító teljesítése: a biztosító által a biztosítási jogviszonyra tekintettel bármilyen jogcímen kifizetett összeg, juttatott vagyoni érték, tekintettel az 1. számú melléklet rendelkezéseire is.
+
+99. Kiegészítő biztosítás: a nyugdíjbiztosításra vonatkozó rendelkezések alkalmazása során kiegészítő biztosítás az olyan biztosítás – függetlenül attól, hogy az milyen kockázatra nyújt fedezetet –, amelynek saját különös szerződési feltétele van és díja a nyugdíjbiztosítás díjától a számviteli jogszabályok szerint elkülönített (ideértve a szerződéses feltételek szerint rögzített módon meghatározott, levonással érvényesített díjat is).

@@ -1,6 +1,6 @@
 ## A fizetendő adóelőleg
 
-49. § (1) Az adóelőleg a 47. § szerint megállapított adóelőleg-alap – családi kedvezményt érvényesítő magánszemély esetében az adóévben az adóelőleg megállapításánál általa, illetve más jogosult által korábban még nem érvényesített családi kedvezménnyel csökkentett adóelőleg-alap – összege után az adó mértékével számított összeg, figyelemmel a (2)–(4) bekezdésben foglalt rendelkezésekre is.
+49. § (1) Az adóelőleg a 47. § szerint megállapított adóelőleg-alap – az első házasok kedvezményét, a családi kedvezményt érvényesítő magánszemély esetében az adóévben az adóelőleg megállapításánál általa, illetve más jogosult által korábban még nem érvényesített kedvezménnyel csökkentett adóelőleg-alap – összege után az adó mértékével számított összeg, figyelemmel a (2)–(4) bekezdésben foglalt rendelkezésekre is.
 
 (2) Az (1) bekezdés szerint kiszámított összeget legfeljebb annak mértékéig csökkenti – az adóelőleget megállapító munkáltatótól származó bevétel esetében a magánszemély adóelőleg-nyilatkozata alapján –
 

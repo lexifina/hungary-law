@@ -1,1 +1,1 @@
-55. § Az átalányadózásra való jogosultság megszűnik, ha a magánszemély nem teljesíti a számlaadási (nyugtaadási) kötelezettségét.
+55. § Az átalányadózásra való jogosultság a határozat jogerőre emelkedésének napjával megszűnik, ha az egyéni vállalkozó terhére az adó- vagy vámhatóság számla- vagy nyugtaadási kötelezettség elmulasztásáért jogerősen mulasztási bírságot állapított meg.

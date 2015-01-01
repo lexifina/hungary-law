@@ -14,6 +14,8 @@ ad) a kockázatitőkealap-jegy hozama;
 
 ae) a bizalmi vagyonkezelési szerződés alapján a kezelt vagyon hozamainak terhére a vagyonkezelő által a kedvezményezett vagy a vagyonrendelő magánszemély részére juttatott vagyoni érték;
 
+af) a kisadózó vállalkozás kisadózóként be nem jelentett tagja részére a társaság nyereségéből való részesedésként kifizetett összeg.
+
 b) osztalékelőleg az adóévi várható osztalékra tekintettel az adóévben kapott bevétel.
 
 (2)

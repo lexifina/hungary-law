@@ -16,6 +16,12 @@ f) a külföldi pénznemben megfizetett adó esetében – a magánszemély dön
 
 (2) A külföldi pénznemben megszerzett kamatjövedelemből, osztalékból (osztalékelőlegből) az adót ugyanazon külföldi pénznemben kell megállapítani, levonni és a jövedelem megszerzésének időpontjában érvényes árfolyamon átszámítva, forintban kell megfizetni.
 
+(2a) Ha az egyéni vállalkozó
+
+a) bevételét olyan termék értékesítése, szolgáltatás nyújtása ellenértékeként szerzi meg, amely esetében az általános forgalmi adó alapja külföldi pénznemben kifejezett, a bevétel forintra történő átszámításához az egyéni vállalkozó azt az árfolyamot alkalmazza, amelyet az adott ügyletben az általános forgalmi adó alapjának forintra történő átszámításához alkalmaz;
+
+b) kiadását olyan termék beszerzése, szolgáltatás igénybevétele érdekében eszközli, amely esetében az általános forgalmi adó fizetésére maga kötelezett, és amelynek alapja külföldi pénznemben kifejezett, a kiadás forintra történő átszámításához az egyéni vállalkozó azt az árfolyamot alkalmazza, amelyet az adott ügyletben az általános forgalmi adó alapjának forintra történő átszámításához alkalmaz.
+
 (3) Az (1) bekezdés és az 5. § (7) bekezdésének rendelkezésétől eltérően, ha a magánszemély a bevételt külföldi pénznemben szerezte, vagy ha a kiadást külföldi pénznemben fizette ki, és
 
 a) az (1) bekezdés a)–c) pontjaiban említett esetekben rendelkezik az ott meghatározott időpontot – a külföldi pénz eladása esetén – követő 15 napon, illetve – külföldi pénz vétele esetén – megelőző 15 napon belül pénzügyi intézmény által az adott külföldi pénz eladását/vételét igazoló, a nevére kiállított bizonylattal, a figyelembe vett árfolyamot a bizonylat szerinti összeg mértékéig alkalmazhatja a forintra történő átszámításhoz;

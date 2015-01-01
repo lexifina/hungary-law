@@ -22,4 +22,4 @@ c) az egyéni vállalkozói bevétele az adóévben nem haladja meg a 15 millió
 
 (8) A tevékenységét év közben kezdő vagy megszüntető egyéni vállalkozó az (1) bekezdésben meghatározott bevételi értékhatárt a tevékenység folytatásának napjaival időarányosan veheti figyelembe.
 
-(9)
+(9) E § alkalmazásában egyéni vállalkozói bevételnek az adóévben e törvény rendelkezései szerint megszerzett vállalkozói bevétel minősül.

@@ -6,7 +6,7 @@
 
 a) a bevétel adóelőleg-alapjának megállapításához levonandó költségről, költséghányadról,
 
-b)
+b) az első házasok kedvezményének érvényesítéséről,
 
 c) a családi kedvezmény érvényesítéséről, közös érvényesítéséről,
 
@@ -14,13 +14,21 @@ d) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás alapj�
 
 e)
 
-(3) A magánszemély családi kedvezmény érvényesítésére, súlyosan fogyatékos állapotra vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató számára adhat. Ha a családi kedvezményre ugyanazon kedvezményezett eltartott után több magánszemély jogosult, akkor a jogosultak a nyilatkozatot – a változás bejelentésének kötelezettsége mellett – közösen teszik meg. A családi kedvezmény közös igénybevétele esetén a jogosultakat jogosultsági hónaponként együttesen megillető családi kedvezményt az adóelőleget megállapító munkáltató – az összeg vagy a kedvezményezett eltartottak megosztásával – a nyilatkozat szerint veszi figyelembe. A családi kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
+(3) A magánszemély családi kedvezmény érvényesítésére, súlyosan fogyatékos állapotra vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató, a magánszemély részére az összevont adólapba tartozó rendszeres bevételt (különösen havi, heti bért, munkadíjat, tiszteletdíjat, személyes közreműködés ellenértékét, egyéb juttatást) juttató kifizető számára adhat. Ha a családi kedvezményre ugyanazon kedvezményezett eltartott után több magánszemély jogosult, akkor a jogosultak a nyilatkozatot – a változás bejelentésének kötelezettsége mellett – közösen teszik meg. A családi kedvezmény közös igénybevétele esetén a jogosultakat jogosultsági hónaponként együttesen megillető családi kedvezményt az adóelőleget megállapító munkáltató, a rendszeres bevételt juttató kifizető – az összeg vagy a kedvezményezett eltartottak megosztásával – a nyilatkozat szerint veszi figyelembe. A családi kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
 
-a) a nyilatkozó magánszemély(ek) nevét és adóazonosító jelét (ennek hiányában természetes azonosító adatait);
+a) a nyilatkozó magánszemély(ek) nevét és adóazonosító jelét;
 
-b) minden eltartott (kedvezményezett eltartott) nevét és adóazonosító jelét (ennek hiányában természetes azonosító adatait), magzat (ikermagzat) esetében a várandósság tényére vonatkozó kijelentést;
+b) minden eltartott (kedvezményezett eltartott) nevét és adóazonosító jelét, magzat (ikermagzat) esetében a várandósság tényére vonatkozó kijelentést;
 
-c) a nyilatkozó magánszemély(ek) adóelőleget megállapító munkáltatójának nevét (elnevezését) és adószámát, valamint a nyilatkozatban foglaltak tudomásulvételét igazoló kijelentését, míg e munkáltató hiányában az erre vonatkozó kijelentést.
+c) a nyilatkozó magánszemély(ek) adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát, valamint a nyilatkozatban foglaltak tudomásulvételét igazoló kijelentését, míg e munkáltató, kifizető hiányában az erre vonatkozó kijelentést.
+
+(3a) A magánszemély az első házasok kedvezményének érvényesítésére vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató, a magánszemély részére az összevont adóalapba tartozó rendszeres bevételt (különösen havi, heti bért, munkadíjat, tiszteletdíjat, személyes közreműködés ellenértékét, egyéb juttatást) juttató kifizető számára adhat. A jogosult házastársak a nyilatkozatot – a változás bejelentésének kötelezettsége mellett – közösen teszik meg. A jogosult házastársakat jogosultsági hónaponként együttesen megillető kedvezményt az adóelőleget megállapító munkáltató, a rendszeres bevételt juttató kifizető a nyilatkozat szerint veszi figyelembe. A kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
+
+a) a nyilatkozó magánszemély(ek) nevét és adóazonosító jelét;
+
+b) az adott munkáltatónál, kifizetőnél érvényesítendő kedvezmény összegét;
+
+c) a nyilatkozó magánszemély(ek) adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát.
 
 (4) Ha a magánszemély az adóévben megszerzett bármely bevételét terhelő adóelőleg megállapításához tett nyilatkozatában
 

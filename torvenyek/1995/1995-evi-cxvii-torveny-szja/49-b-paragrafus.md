@@ -38,13 +38,15 @@ cb) az elszámolás nem támogatásból származó bevétellel szemben történt
 
 a felsőoktatási intézmény, a Magyar Tudományos Akadémia, továbbá bármelyikük által vagy közösen alapított kutatóintézet, kutatóhely (ideértve az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes államnak a megfelelő szervezetét is) és az egyéni vállalkozó által írásban kötött szerződés alapján az egyéni vállalkozó tevékenységi körében közösen végzett alapkutatás, alkalmazott kutatás vagy kísérleti fejlesztés esetén az egyéni vállalkozó az előző rendelkezés alkalmazásakor az ott meghatározott összeg háromszorosát veheti (de legfeljebb 50 millió forintot vehet) figyelembe, amelynek a (9)–(10) bekezdés szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül;
 
-d) a 250 főnél kevesebb alkalmazottat foglalkoztató egyéni vállalkozónál évi 30 millió forinttal, de legfeljebb a (12) bekezdés rendelkezésében meghatározott összeggel (kisvállalkozói kedvezmény); az egyéni vállalkozó által az adóévben érvényesített kisvállalkozói kedvezmény és a (9)–(10) bekezdésben meghatározott adókulcs szorzata az állami támogatásokra irányadó rendelkezések alkalmazásában, ha a beruházás elsődleges mezőgazdasági termelést szolgál, agrár csekély összegű (de minimis) támogatásként vehető igénybe, minden más esetben az egyéni vállalkozó választása szerint
+d) a 250 főnél kevesebb alkalmazottat foglalkoztató egyéni vállalkozónál évi 30 millió forinttal, de legfeljebb a (12) bekezdés rendelkezésében meghatározott összeggel (a továbbiakban: kisvállalkozói kedvezmény), azzal, hogy az egyéni vállalkozó által az adóévben érvényesített kisvállalkozói kedvezmény és a (9)–(10) bekezdésben meghatározott adókulcs szorzata az állami támogatásokra irányadó rendelkezések alkalmazásában az egyéni vállalkozó választása szerint
 
-da) az adóévben igénybe vett csekély összegű (de minimis) támogatásnak, vagy
+da) agrár csoportmentességi (ABER) támogatásnak vagy mezőgazdasági csekély összegű (de minimis) támogatásnak minősül, ha a beruházás elsődleges mezőgazdasági termelést szolgál,
 
-db) a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak
+db) halászati csekély összegű (de minimis) támogatásnak minősül, ha a beruházás a halászati és akvakultúra-termékek piacának közös szervezéséről szóló, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU rendelet I. mellékletében felsorolt halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával kapcsolatos tevékenységet szolgál,
 
-minősül;
+dc) agrár csoportmentességi (ABER) támogatásnak, az adóévben igénybe vett csekély összegű (de minimis) támogatásnak vagy a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak minősül, ha a beruházás mezőgazdasági termék feldolgozását vagy forgalmazását szolgálja,
+
+dd) minden más esetben az adóévben igénybe vett csekély összegű (de minimis) támogatásnak vagy a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak minősül;
 
 e)
 
@@ -56,7 +58,7 @@ h)
 
 (7) Az egyéni vállalkozó elhatárolhatja a (6) bekezdés rendelkezéseiben említett tételekkel csökkentett vállalkozói bevételt meghaladó vállalkozói költséget (a továbbiakban: elhatárolt veszteség). Az elhatárolt veszteség – figyelemmel az (1) bekezdés rendelkezésére is – a következők szerint számolható el:
 
-a) Az elhatárolt veszteséget az egyéni vállalkozó bármely későbbi adóév (de legkésőbb az egyéni vállalkozói tevékenység megszüntetésének adóéve) vállalkozói jövedelmével (ideértve az önellenőrzés, adóellenőrzés során feltárt jövedelmet is) szemben – döntése szerinti megosztásban – elszámolhatja, azzal, hogy az adóévben elszámolt elhatárolt veszteség legfeljebb az elhatárolt veszteség nélkül számított vállalkozói adóalap 50 százalékáig érvényesíthető. Az egyéni vállalkozó tevékenységének időszaka alatt elhatárolt veszteséget özvegye vagy örököse az egyéni vállalkozóra irányadó rendelkezések szerint számolhatja el, ha az elhunyt magánszemély tevékenységét folytatja, feltéve, hogy a tevékenység folytatásának szándékát három hónapon belül bejelentette az adóhatóságnak.
+a) Az elhatárolt veszteséget az egyéni vállalkozó a következő öt adóév (de legkésőbb az egyéni vállalkozói tevékenység megszüntetésének adóéve) vállalkozói jövedelmével (ideértve az önellenőrzés, adóellenőrzés során feltárt jövedelmet is) szemben – döntése szerinti megosztásban – elszámolhatja, azzal, hogy az adóévben elszámolt elhatárolt veszteség legfeljebb az elhatárolt veszteség nélkül számított vállalkozói adóalap 50 százalékáig érvényesíthető. Az egyéni vállalkozó tevékenységének időszaka alatt elhatárolt veszteséget özvegye vagy örököse az egyéni vállalkozóra irányadó rendelkezések szerint számolhatja el, ha az elhunyt magánszemély tevékenységét folytatja, feltéve, hogy a tevékenység folytatásának szándékát három hónapon belül bejelentette az adóhatóságnak.
 
 b)
 
@@ -170,7 +172,7 @@ b) ha az egyéni vállalkozót az adóévben vagy a megelőző adóévben elemi 
 
 (22)
 
-(23) A (8) bekezdés alkalmazásában jövedelem-(nyereség-)minimum az eladásra beszerzett áruk és az eladott közvetített szolgáltatás értékét nem tartalmazó vállalkozói bevétel 2 százaléka. E § alkalmazásában közvetített szolgáltatás: az egyéni vállalkozó által saját nevében vásárolt és a harmadik személy megrendelővel kötött szerződés alapján, a szerződésben rögzített módon részben vagy egészben, de változatlan formában továbbértékesített, továbbszámlázott szolgáltatás, ha ezt az egyéni vállalkozó nyilvántartásai megfelelően alátámasztják.
+(23) A (8) bekezdés alkalmazásában jövedelem-(nyereség-) minimum a vállalkozói bevétel 2 százaléka.
 
 (24) A (20) bekezdés b) pontjában említett kár az elemi csapás okozta olyan elemi kár (több ilyen kár esetén azok együttes összege), amely a bekövetkezése évét megelőző adóévi vállalkozói bevételnek (a tevékenységét az elemi kár bekövetkezését megelőző adóévben kezdő egyéni vállalkozó esetében a kezdő év egy napjára eső átlagos napi bevétel 365 napra számított összegének) legalább a 15 százaléka. Ennek megállapítása – ha az egyéni vállalkozó nem rendelkezik tőle független szervezet által kiadott okmánnyal – az elemi kár (károk) tényét és mértékét tartalmazó, általa kiállított olyan jegyzőkönyv(ek) alapján történhet, amelye(ke)t a káreseményt követő 15 napon belül megküldött az illetékes állami adóhatóság részére. A határidő elmulasztása esetén igazolási kérelem nem terjeszthető elő.
 

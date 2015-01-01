@@ -10,7 +10,7 @@ c) azt a kapott vagyoni értéket, amelyet az adóalany köteles visszaszolgált
 
 d) a magánszemély által fizetett tagdíjra, hozzájárulásra, felajánlásra tekintettel a vállalkozási tevékenységet nem folytató egyesület, köztestület által a magánszemély részére nyújtott szolgáltatást, amennyiben azt a társadalmi szervezet, a köztestület az alapszabálya alapján, a cél szerinti tevékenységével összefüggésben, a rendeltetésszerű joggyakorlás keretében nyújtja;
 
-e) a visszatérített adót, adóelőleget, feltéve, hogy azt korábban költségként nem érvényesítették, továbbá a magánszemély jogszerűen tett önkéntes kölcsönös pénztári nyilatkozata alapján kiutalt, illetve az önkéntes kölcsönös biztosító pénztár által a magánszemély egyéni számláján jóváírt kiutalt összeget; a magánszemély nyugdíj-előtakarékossági nyilatkozata alapján kiutalt, a nyugdíj-előtakarékossági számláján jóváírt összeget, továbbá a magánszemély nyugdíjbiztosítási nyilatkozata alapján kiutalt, a biztosító által a magánszemély nyugdíjbiztosítási szerződésén jóváírt kiutalt összeget;
+e) a visszatérített adót, adóelőleget, feltéve, hogy azt korábban költségként nem érvényesítették, továbbá a magánszemély jogszerűen tett önkéntes kölcsönös pénztári nyilatkozata alapján kiutalt, illetve az önkéntes kölcsönös biztosító pénztár által a magánszemély egyéni számláján jóváírt kiutalt összeget; a magánszemély nyugdíj-előtakarékossági nyilatkozata alapján kiutalt, a nyugdíj-előtakarékossági számláján jóváírt összeget, továbbá a magánszemély nyugdíjbiztosítási nyilatkozata alapján kiutalt, a biztosító által a magánszemély nyugdíjbiztosítási szerződésén jóváírt vagy e törvény rendelkezése szerint a magánszemélynek kiutalt összeget;
 
 f) a jogerős bírói ítélettel megállapított bűncselekmény révén szerzett vagyoni értéket, ha azt ténylegesen elvonták;
 
@@ -60,7 +60,7 @@ juttatott támogatást;
 
 o) a kifizető által a tevékenységében közreműködő magánszemélytől átvállalt kamarai tagdíj összegét, feltéve, hogy a tevékenység kizárólag szakmai kamara tagjaként folytatható;
 
-p)
+p) a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 3. § (1) bekezdés l) pontja szerinti pénzügyi szolgáltatás végzésére jogosult pénzügyi intézmény által a megvásárolt követelésből elengedett részt;
 
 q) a hivatali, üzleti utazáshoz kapcsolódó utazási jegy ellenértékét, ideértve a szokásosan a jegy árában felszámított étkezés ellenértékét is, továbbá a hivatali, üzleti utazáshoz kapcsolódó szállás ellenértékét, ideértve a szokásosan a szálláshely árában felszámított reggeli étkezés ellenértékét is;
 
@@ -91,6 +91,8 @@ a) a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire 
 b) a fogyasztói kölcsönszerződések tisztességtelenségével összefüggésben indított egyedi perek pernyertességét követően, a pénzügyi intézménnyel való elszámolás
 
 alapján illeti meg.
+
+(1c) A 9. § (3a) bekezdésében említett esetet kivéve nem szerez bevételt a biztosított magánszemély, ha a más személy által kötött biztosítási jogviszonyba a szerződő helyébe lép, és a szerződő által korábban megfizetett biztosítási díjat a szerződőnek nem téríti meg.
 
 (2) Nem számít költségnek az a kiadás, amely alacsony adókulcsú államban székhellyel, állandó lakóhellyel rendelkező személy vagy egyébként ellenőrzött külföldi társaság részére juttatott ellenérték következtében merült fel, kivéve, ha a magánszemély bizonyítja, hogy a kiadás a bevételszerző tevékenységgel közvetlen összefüggésben, kizárólag a bevétel megszerzése, a tevékenység folytatása érdekében merült fel. Szintén nem számít költségnek az a kiadás, amely
 

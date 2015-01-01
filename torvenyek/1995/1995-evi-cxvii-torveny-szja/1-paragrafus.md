@@ -27,3 +27,5 @@
 a) elmaradt jövedelemre tekintettel kifizetett, juttatott kártérítés, kártalanítás, kárpótlás címén megszerzett bevétel esetén az elmaradt jövedelemre irányadó rendelkezések szerint kell meghatározni;
 
 b) késedelmi kamat vagy kötbér címén megszerzett bevétel esetén azon bevételre irányadó rendelkezések szerint kell meghatározni, amelynek késedelmes, illetve nem vagy nem szerződésszerű teljesítésére tekintettel a kifizetése, juttatása történt.
+
+(10) Ha a magánszemélyt egy adott bevétel az általa vagy más személy által végzett önálló vagy nem önálló tevékenység ellenértékeként illeti meg – törvény eltérő rendelkezésének hiányában – e bevétel adókötelezettségének megállapítására az adóalapba nem tartozó tételnek minősülő bevételre, a béren kívüli juttatásra, az egyes meghatározott juttatásra vonatkozó szabály nem alkalmazható.

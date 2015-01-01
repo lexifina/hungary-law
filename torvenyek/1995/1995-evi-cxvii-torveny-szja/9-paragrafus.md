@@ -28,6 +28,8 @@ g) az a)–f) pontban nem említett esetben az a nap, amelytől kezdődően a ma
 
 (3a) Ha a biztosítási szerződés a 7. § (1a) bekezdése szerinti esetben utóbb olyan módon módosul, hogy a biztosító teljesítésére a biztosított vagy más magánszemély (nem a díjat fizető személy) válik jogosulttá (e törvény alkalmazásában ideértve azt az esetet is, ha a biztosított a szerződő helyébe lép), a biztosítás szerződésmódosítás időpontjáig megfizetett díja a szerződés módosításának időpontjában – tekintettel az 1. számú melléklet rendelkezéseire is – egy összegben minősül adóköteles biztosítási díjnak a biztosított magánszemélynél, azzal, hogy nem kell alkalmazni ezt a szabályt, ha a magánszemély a más személy által korábban megfizetett díjat a díjat fizető személynek megtéríti.
 
+(3b) Kockázati biztosítás esetén, ha a személybiztosítás díját más személy – ide nem értve a kifizetőnek nem minősülő magánszemélyt – fizette és a biztosítási esemény bekövetkezése nélküli biztosítói teljesítésre utóbb magánszemély válik jogosulttá, akkor az adókötelezettség keletkezésének időpontja az a nap, amikor a biztosító teljesítésére a magánszemély jogosultsága (például a biztosítási szerződés módosításával) megnyílik.
+
 (4) A vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó vállalkozói kivétjének megszerzési időpontja az e címen elszámolt költség elszámolásának napja.
 
 (5) Ha az adóhatóság be nem vallott adóköteles jövedelmet tár fel, ennek összegét a jövedelem megszerzése évének jövedelméhez kell hozzászámítani.

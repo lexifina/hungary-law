@@ -26,7 +26,7 @@ akkor, ha az egyéni vállalkozó a társadalombiztosítás ellátásaira és a 
 
 (3) Az (1) bekezdés b) pontjában említett tevékenységek a következők:
 
-a) mezőgazdasági, erdőgazdálkodási (TESZOR 01, 02), bányászati (TESZOR 05-től 09-ig) és feldolgozóipari (TESZOR 10-től 32-ig) termék-előállítás, építőipari kivitelezés (TESZOR 41.20, 42);
+a) mezőgazdasági, erdőgazdálkodási (TESZOR 01, 02), bányászati (TESZOR 05-től 09-ig) és feldolgozóipari (TESZOR 10-től 32-ig) termék-előállítás, építőipari kivitelezés (TESZOR 41, 42);
 
 b) mezőgazdasági, betakarítást követő szolgáltatás (TESZOR 01.6), vadgazdálkodáshoz kapcsolódó szolgáltatás (TESZOR 01.70.10), erdészeti szolgáltatás (TESZOR 02.40.10) és zöldterület-kezelés (TESZOR 81.30.10);
 

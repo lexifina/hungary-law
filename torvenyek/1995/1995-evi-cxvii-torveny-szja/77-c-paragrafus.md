@@ -124,19 +124,21 @@ c) átalakítása, kicserélése révén megszerzett bevétel adókötelezettsé
 
 (17) A magánszemély és befektetési szolgáltató elkülönített nyilvántartást köteles vezetni a program keretében megszerzett, illetve nála letétbe helyezett összes értékpapírról. A magánszemélyt e kötelezettség a kötelező tartási időszak letelte után is terheli.
 
-(18) Ha a magánszemély által a program keretében összesen megszerzett
+(18) Ha az adóévben a magánszemély által a program keretében összesen megszerzett
 
-a az adóévben letétbe helyezett összes értékpapírnak a letétbe helyezés időpontjára és/vagy
+a) letétbe helyezett összes értékpapírnak a letétbe helyezés időpontjára és/vagy
 
-b az (1) bekezdés c) pontja szerint vételi, jegyzési vagy más hasonló jog gyakorlása révén megszerzett értékpapír(ok) esetében a jog gyakorlásának napjára
+b) az (1) bekezdés c) pontja szerint vételi, jegyzési vagy más hasonló jog gyakorlása révén megszerzett értékpapír(ok) esetében a jog gyakorlásának napjára
 
 megállapított – ha a magánszemély az értékpapírt nem ingyenesen szerezte, akkor az értékpapír megszerzésére fordított értékkel csökkentett – együttes szokásos piaci értéke meghaladja az 1 millió forintot, az adózó az (1)–(17) bekezdésben foglaltakat csak azokra az értékpapírokra alkalmazza, amelyeknek – a letétbe helyezés, illetőleg a joggyakorlás sorrendjében – összesített együttes (csökkentett) szokásos piaci értéke nem haladja meg az említett összeget. A magánszemély által program keretében megszerzett többi értékpapírra a 77/A. § rendelkezései az irányadók. Ha a magánszemély az adóévben több program keretében szerez értékpapírt, az említett összeghatár eléréséről haladéktalanul köteles tájékoztatni valamennyi program szervezőjét.
 
-(19)
+(19) A program szervezője a kötelező tartási időszak kezdő napját követő hónap 20. napjáig megküldi az adóhatóságnak a program meghirdetéséről a munkavállalók, vezető tisztségviselők részére kiadott tájékoztató vagy más hasonló irat másolati példányát.
 
 (19a)
 
-(20)–(22)
+(20) Amennyiben a program szervezője és a programban érintett más vállalkozás között a kapcsolt vállalkozási viszony megszűnik, a kapcsolt vállalkozási viszony megszűnését követően az egyébként a programszervezőre irányadó, e paragrafus szerinti adókötelezettségeket – saját munkavállalói, vezető tisztségviselői vonatkozásában – a programban érintett más vállalkozás teljesíti. A programszervező a programban érintett más vállalkozás adókötelezettségei teljesítéséhez szükséges adatokat a kapcsolt vállalkozási viszony megszűnésekor a programban érintett más vállalkozás részére átadja. Az adókötelezettségek – felek közötti együttműködés hiánya miatti – megsértése esetén a jogkövetkezményekért a felek egyetemlegesen felelnek.
+
+(21)–(22)
 
 (22a)
 

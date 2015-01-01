@@ -1,10 +1,10 @@
 1/B. § (1) A külföldi illetőségű előadóművész választhatja, hogy az előadóművészi minőségében Magyarországon kifejtett tevékenységével összefüggésben megszerzett, kifizetőnek nem minősülő személytől származó, nemzetközi egyezmény alapján, vagy nemzetközi egyezmény hiányában belföldön adóztatható jövedelme után keletkező adókötelezettségét e § rendelkezései szerint teljesíti. A választás feltétele, hogy a magánszemély bármely 12 hónapos időszakban 183 napot meg nem haladóan tartózkodik Magyarországon és a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint nem belföldi.
 
-(2) Az (1) bekezdés szerinti bevételből – ideértve a tevékenységgel összefüggésben fizetett költségtérítést és a biztosított szállás szokásos piaci értékét is – a magánszemély a jövedelmet 30 százalék átalányköltség levonásával állapítja meg. Ez a jövedelem nem tartozik az összevont adóalapba.
+(2) Az (1) bekezdés szerinti bevételből – ideértve a tevékenységgel összefüggésben fizetett költségtérítést és a biztosított szállás ellenértékét is – a magánszemély a jövedelmet 30 százalék átalányköltség levonásával állapítja meg. Ez a jövedelem nem tartozik az összevont adóalapba.
 
 (3) Amennyiben a (2) bekezdés szerinti bevétel nem önálló tevékenységre tekintettel illeti meg a magánszemélyt, és annak összege másként nem állapítható meg, a magánszemély azt – választása szerint – a (2) bekezdés szerinti tevékenysége szokásos díjazásának a Magyarországon végzett tevékenysége napjaival arányos részeként is megállapíthatja.
 
-(4) A magánszemély az adót az adóhatóság által rendszeresített, magyar és angol nyelvű nyomtatványon – természetes azonosítóinak, illetőségének, valamint személyének azonosítására alkalmas hatósági igazolványa típusa és száma feltüntetésével – a Magyarországról történő távozását megelőzően vallja be, és az említett napig fizeti meg. A bevallásban fel kell tüntetni:
+(4) A magánszemély az adót az adóhatóság által rendszeresített, magyar és angol nyelvű nyomtatványon – természetes azonosítóinak, illetőségének, valamint személyének azonosítására alkalmas hatósági igazolványa típusa és száma feltüntetésével – a Magyarországról történő távozását megelőzően – ha bevallási kötelezettségének meghatalmazottja, megbízottja útján tesz eleget, a távozását követő 90. napig – vallja be, és az említett napig fizeti meg. A bevallásban fel kell tüntetni:
 
 a) a magánszemély jövedelmének összegét,
 

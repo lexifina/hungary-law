@@ -10,7 +10,7 @@ b) három és minden további eltartott esetén 206 250 forint.
 
 (3) A családi kedvezmény érvényesítésére jogosult
 
-a) az a magánszemély, aki a családok támogatásáról szóló törvény szerint gyermekre tekintettel családi pótlékra jogosult, kivéve azt a magánszemélyt, aki a családi pótlékot
+a) az a magánszemély, aki a családok támogatásáról szóló törvény szerint gyermekre tekintettel családi pótlékra jogosult, továbbá a jogosulttal közös háztartásban élő, családi pótlékra nem jogosult házastársa, azonban nem minősül jogosultnak az a magánszemély, aki a családi pótlékot
 
 aa) gyermekotthon vezetőjeként a gyermekotthonban nevelt gyermekre (személyre) tekintettel,
 
