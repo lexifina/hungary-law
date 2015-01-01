@@ -1,0 +1,3 @@
+74. § Az Öotv. 2/D. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 2/C. § a) pont aa) alpontja szerinti nyilvántartás a praxis kódja, a praxisjoggal érintett körzet meghatározása, a praxisjogot engedélyező határozatot kiadó vagy a praxisjogot hatósági bizonyítványban igazoló hatóság megnevezése, az engedély vagy a hatósági bizonyítvány száma és kelte tekintetében, a 2/C. § a) pont ab) alpontja szerinti nyilvántartás a praxis kódja, a praxisjoggal érintett körzet meghatározása és tartósan betöltetlenné válása időpontjának tekintetében közhiteles hatósági nyilvántartásnak minősül.”
