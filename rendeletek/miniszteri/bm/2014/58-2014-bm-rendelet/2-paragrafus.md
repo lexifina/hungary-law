@@ -1,0 +1,1 @@
+## 1. § A pártfogó felügyelői tevékenységgel és a büntetés-végrehajtási pártfogó felügyelői tevékenységgel kapcsolatos rendőri feladatok ellátására a terhelt, illetve a pártfogolt lakóhelye vagy tartózkodási helye szerinti rendőrkapitányság (a továbbiakban: rendőrkapitányság) illetékes.

@@ -1,0 +1,3 @@
+5. § (1) Ha a rendőrkapitányság a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bvtv.) 313. § (5) bekezdésében foglalt intézkedés megtétele érdekében kezdeményezi a pártfogó felügyelőnél az előírt külön magatartási szabályok módosítását, megjelöli azt is, hogy mely magatartási szabályt, milyen okból indokolt módosítani vagy mellőzni, illetve milyen új magatartási szabály bevezetése szükséges.
+
+(2) Ha a rendőrkapitányság a pártfogolt felvilágosítás-adási kötelezettségének megszegése miatt a Bvtv. 313. § (3) bekezdése alapján a büntetés-végrehajtási bírónál rendbírság kiszabását kezdeményezi, erről egyidejűleg tájékoztatja a pártfogó felügyelőt is.
