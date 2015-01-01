@@ -1,5 +1,51 @@
 ## 26. § Nem lép hatályba az Országos Környezetvédelmi Információs Rendszer továbbfejlesztésével összefüggésben egyes kormányrendeletek módosításáról szóló 310/2014. (XII. 11.) Korm. rendelet 7. alcíme.
 
-1. melléklet a 369/2014. (XII. 30.) Korm. rendelethez[^15]
+1. melléklet a 369/2014. (XII. 30.) Korm. rendelethez
 
-[^15]: A rendelet 1. melléklete a 21. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## A gyártó nyilvántartásba vételéhez, valamint az átvevő- és kezelőhálózat bejelentéséhez szükséges adatok
+
+1. A gyártó nyilvántartásba vételéhez szükséges adatok (HGK-NY-főlap):
+
+1.1. A gyártó azonosítására szolgáló adatok:
+
+a) Környezetvédelmi Ügyfél Jel (a továbbiakban: KÜJ);
+
+b) KSH statisztikai számjel;
+
+c) név;
+
+d) cím (irányítószám, település, közterület neve, közterület típusa, házszám).
+
+1.2. A gyártó átvételi és kezelési kötelezettségei teljesítésének módjára vonatkozó adatok:
+
+a) a gyártó a kötelezettségeit saját maga teljesíti, vagy
+
+b) a gyártó a kötelezettségeit hulladékkezelőn vagy közvetítő szervezeten keresztül teljesíti.
+
+1.3. A közvetítő szervezet azonosítására szolgáló adatok:
+
+a) KÜJ;
+
+b) név.
+
+1.4. Az adatszolgáltatásért felelős személyre vonatkozó adatok:
+
+a) név;
+
+b) beosztás;
+
+c) telefon, illetve fax;
+
+d) e-mail.
+
+2. Az átvevő- és kezelőhálózat bejelentésére vonatkozó adatok (HGK-NY-1):
+
+Az átvevő- és kezelőhálózathoz csatlakozott tagokra vonatkozó adatok:
+
+a) a tagok neve;
+
+b) KÜJ;
+
+c) Környezetvédelmi Területi Jel (a továbbiakban: KTJ);
+
+d) telephely címe (település, utca, házszám).

@@ -1,3 +1,1 @@
-## 25. §[^14]
-
-[^14]: A rendelet 25. §-a a 21. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+## 25. § Hatályát veszti a hulladékká vált gépjárművekről szóló 444/2012. (XII. 29.) Korm. rendelet.

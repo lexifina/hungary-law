@@ -1,3 +1,3 @@
-## 24. §[^13]
+## 24. §[^1]
 
-[^13]: A rendelet 24. §-a a 21. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^1]: A 24. § a rendelet 21. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
