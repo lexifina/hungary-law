@@ -10,7 +10,7 @@
 
 ## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1107/2014. (III. 6.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 4. Magyar Nemzeti Digitális Archívum és Filmintézet cím, K1. Személyi juttatások kiemelt előirányzat javára átcsoportosított 36,0 millió forintból 1,0 millió Ft a XI. Miniszterelnökség fejezet, 4. Magyar Nemzeti Digitális Archívum és Filmintézet cím, K3. Dologi kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1107/2014. (III. 6.) Korm. határozatban a „2014. december 15.” szövegrész helyébe a „2014. december 15., a Miniszterelnökség fejezet, 4. Magyar Nemzeti Digitális Archívum és Filmintézet cím javára átcsoportosított 80,7 millió forint tekintetében 2015. június 30.” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1868/2014. (XII. 31.) Korm. határozathoz
 
@@ -79,3 +79,5 @@
 |  |  | 3 |  |  |  |  |  | Szociális és gyermekvédelmi, gyermekjóléti feladatellátás és irányítás intézményei |  |
 
 |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások | -168 265 |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
