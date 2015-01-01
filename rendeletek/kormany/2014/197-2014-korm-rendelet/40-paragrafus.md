@@ -1,3 +1,3 @@
-## 36–39. §[^1]
+## 39. §[^41]
 
-[^1]: A 36–39. § a 32. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^41]: A 39. § a 370/2014. (XII. 30.) Korm. rendelet 40. § (1) bekezdése alapján nem lép hatályba.

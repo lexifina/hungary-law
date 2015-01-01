@@ -1,139 +1,63 @@
-8. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez
+8. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^50]
 
-## Az átvállaló és a közvetítő szervezet adatszolgáltatási kötelezettségének teljesítéséhez
+## A közvetítő szervezet, az állami hulladékgazdálkodást közvetítő szervezet és az átvállaló adatszolgáltatási kötelezettségének teljesítéséhez szükséges adatok
 
-szükséges adatlapok
+1. A közvetítő szervezet:
 
-| Borítólap | ADATLAP AZ ADATSZOLGÁLTATÁS TELJESÍTÉSÉHEZ | A tárgyévet megelőző év: |
+1.1. A közvetítő szervezetre vonatkozó adatok:
 
-1. Átvállaló vagy közvetítő szervezet adatai:
+a) a közvetítő szervezet neve, KÜJ-azonosítója, KSH statisztikai számjele, székhelye;
 
-| Rövid neve: |
+b) a felelős vezető neve, beosztása, elérhetősége;
 
-| Teljes neve: |
+c) a közvetítő szervezet nemzeti adóazonosító száma;
 
-| Székhelye: |
+d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége.
 
-| Címe: …………………………………………………………………………………………………………………… irányítószám város, község utca, út, tér házszám |
+1.2. A közvetítő szervezet tevékenységére vonatkozó adatok:
 
-| Nemzeti adóazonosító száma vagy európai adószáma: |
+a) HEE-4 adatlap: a tárgyévet megelőző évben átvett, gyűjtött elektromos, elektronikus berendezés hulladékának mennyisége (tömeg szerint, berendezés-kategóriánként, típusonként bontva);
 
-| Cégjegyzékszám: |
+b) HEE-5 adatlap: a tárgyévet megelőző évben Magyarországon, másik tagállamban, valamint az Európai Unión kívül kezelt hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezés-kategóriánként bontva);
 
-| Ügyfél státus: |
+c) HEE-6 adatlap: a tárgyévet megelőző évben hasznosított hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezés-kategóriánként, átvállalónként bontva), feltüntetve az átvállalónak átadott mennyiséget, az átvállaló által újrahasználatra előkészített és újrafeldolgozott mennyiséget (újrahasználatra előkészítési és újrafeldolgozási arányszám), valamint az égetéssel hasznosított mennyiséget;
 
-| Felelős vezető neve: | Beosztása: |
+d) HEE-8 adatlap: a tárgyévet megelőző évben ártalmatlanított hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezés-kategóriánként, átvállalónként bontva), feltüntetve az égetéssel ártalmatlanított mennyiséget, a lerakással ártalmatlanított mennyiséget.
 
-| Telefonszáma: | Faxszáma: |
+2. Az állami hulladékgazdálkodást közvetítő szervezet:
 
-| E-mail címe: |
+2.1. Az állami hulladékgazdálkodást közvetítő szervezetre vonatkozó adatok:
 
-2. Adatszolgáltatás:
+a) az állami hulladékgazdálkodást közvetítő szervezet neve, KÜJ-azonosítója, KSH statisztikai számjele, székhelye;
 
-| Formája: |
+b) a felelős vezető neve, beosztása, elérhetősége;
 
-| Az átvett mennyiségekről szóló lapok száma: | …. db |
+c) az állami hulladékgazdálkodást közvetítő szervezet nemzeti adóazonosító száma;
 
-3. Az adatszolgáltatásért felelős:
+d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége.
 
-| Neve: | Beosztása: |
+2.2. Az állami hulladékgazdálkodást közvetítő szervezet tevékenységére vonatkozó adatok:
 
-| Telefonszáma: | Faxszáma: | E-mail címe: |
+a) HEE-4 adatlap: a tárgyévet megelőző évben átvett, gyűjtött elektromos, elektronikus berendezés hulladékának mennyisége (tömeg szerint, berendezés-kategóriánként, típusonként bontva);
 
-A kitöltés dátuma: ______ év ___ hó ___ nap.
+b) HEE-5 adatlap: a tárgyévet megelőző évben Magyarországon, másik tagállamban, valamint az Európai Unión kívül kezelt hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezés-kategóriánként bontva);
 
-P. H.
+c) HEE-6 adatlap: a tárgyévet megelőző évben hasznosított hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezés-kategóriánként, átvállalónként bontva), feltüntetve az átvállalónak átadott mennyiséget, az átvállaló által újrahasználatra előkészített és újrafeldolgozott mennyiséget (újrahasználatra előkészítési és újrafeldolgozási arányszám), valamint az égetéssel hasznosított mennyiséget;
 
-|  | …………………………………………… cégszerű aláírás |
+d) HEE-8 adatlap: a tárgyévet megelőző évben ártalmatlanított hulladékká vált elektromos, elektronikus berendezés mennyisége (tömeg szerint, berendezés-kategóriánként, átvállalónként bontva), feltüntetve az égetéssel ártalmatlanított mennyiséget, a lerakással ártalmatlanított mennyiséget.
 
-Hatóság tölti ki!
+3. Az átvállaló:
 
-| A beérkezés dátuma: ______ év ___ hó ___ nap | Az adatokat nyilvántartásba vette: Név: Aláírás: |
+3.1. Az átvállalóra vonatkozó adatok:
 
-| Átvett és gyűjtött mennyiség a tárgyévet megelőző évben | ADATLAP AZ ADATSZOLGÁLTATÁS TELJESÍTÉSÉHEZ | A tárgyévet megelőző év: |
+a) az átvállaló neve, KÜJ-azonosítója, KSH statisztikai számjele, székhelye;
 
-| GYÁRTÓ MEGNEVEZÉSE: | GYÁRTÓ NYILVÁNTARTÁSI SZÁMA: |
+b) a felelős vezető neve, beosztása, elérhetősége;
 
-| Elektromos-, elektronikusberendezés-kategória | Átvett és gyűjtött mennyiség |
+c) az átvállaló nemzeti adóazonosító száma;
 
-| kg |
+d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége.
 
-| 1. Háztartási nagygépek |  |
+3.2. HEE-10 adatlap: a tárgyévet megelőző évben átvett, gyűjtött hulladékká vált elektromos és elektronikus berendezés hulladéka (tömeg szerint, berendezés-kategóriánként, gyártónként bontva).
 
-| 2. Háztartási kisgépek |  |
-
-| 3. Információs (IT) és távközlési berendezések |  |
-
-| 3a. Ebből képcsöves berendezések |  |
-
-| 4. Szórakoztatóelektronikai cikkek és fotovoltaikus panelek |  |
-
-| 4a. Ebből képcsöves berendezések |  |
-
-| 5. Világítótestek |  |
-
-| 5a. Gázkisülésű lámpák |  |
-
-| 6. Elektromos és elektronikus szerszámok, kivéve nagyméretű, rögzített ipari szerszámok |  |
-
-| 7. Játékok, szabadidős és sportfelszerelések |  |
-
-| 8. Orvostechnikai eszközök, kivéve beültetett és fertőzött termékek |  |
-
-| 9. Ellenőrző és vezérlőeszközök |  |
-
-| 10. Adagolóautomaták |  |
-
-| ÖSSZESEN |  |
-
-A kitöltés dátuma: _______ év ____ hó ____ nap.
-
-P. H.
-
-……......................................
-
-cégszerű aláírás
-
-| A gyűjteni tervezett mennyiség a tárgyévben | ADATLAP AZ ADATSZOLGÁLTATÁS TELJESÍTÉSÉHEZ | Tárgyév: |
-
-| GYÁRTÓ MEGNEVEZÉSE: | GYÁRTÓ NYILVÁNTARTÁSI SZÁMA: |
-
-|  | Elektromos-, elektronikusberendezés-kategória | A gyűjteni tervezett mennyiség |
-
-|  | kg |
-
-|  | 1. Háztartási nagygépek |  |
-
-|  | 2. Háztartási kisgépek |  |
-
-|  | 3. Információs (IT) és távközlési berendezések |  |
-
-|  | 3a. Ebből képcsöves berendezés |  |
-
-|  | 4. Szórakoztatóelektronikai cikkek és fotovoltaikus panelek |  |
-
-|  | 4a. Ebből képcsöves berendezés |  |
-
-|  | 5. Világítótestek |  |
-
-|  | 5a. Gázkisülésű lámpák |  |
-
-|  | 6. Elektromos és elektronikus szerszámok, kivéve nagyméretű, rögzített ipari szerszámok |  |
-
-|  | 7. Játékok, szabadidős és sportfelszerelések |  |
-
-|  | 8. Orvostechnikai eszközök, kivéve beültetett és fertőzött termékek |  |
-
-|  | 9. Ellenőrző és vezérlőeszközök |  |
-
-|  | 10. Adagolóautomaták |  |
-
-|  | ÖSSZESEN |  |
-
-A kitöltés dátuma: _______ év ____ hó ____ nap.
-
-P. H.
-
-..............................................
-
-cégszerű aláírás
+[^50]: A 8. melléklet a 310/2014. (XII. 11.) Korm. rendelet – 368/2014. (XII. 30.) Korm. rendelet 12. § (7) és (8) bekezdése szerint módosított – 19. § (8) bekezdésével megállapított szöveg.

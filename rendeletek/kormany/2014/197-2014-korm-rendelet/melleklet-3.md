@@ -1,4 +1,4 @@
-3. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez
+3. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^46]
 
 ## Az újrahasználattal kapcsolatos minimumkövetelmények
 
@@ -14,7 +14,7 @@
 
 1.5. Ha a berendezés rendelkezik fűtőelemekkel, azoknak jó állapotúaknak kell lenniük, meszesedésre utaló nyomot nem mutathatnak. Az elmeszesedett fűtőelemekkel rendelkező berendezés csak akkor hozható ismételten forgalomba, ha a benne lévő használt fűtőelemeket sértetlen és teljes egészében ép fűtőelemekre cserélik.
 
-1.6. A berendezésnek az eredeti burkolattal kell rendelkeznie.
+1.6. A berendezésnek az eredeti vagy az eredetivel azonos minőségű burkolattal kell rendelkeznie.
 
 1.7. A berendezésnek biztonságosnak kell lennie. A berendezés nem lehet sugárveszélyes.
 
@@ -45,3 +45,5 @@
 2.2.1. klórozott-fluorozott szénhidrogén (CFC),
 
 2.2.2. részlegesen halogénezett klórozott-fluorozott szénhidrogének (HCFC).
+
+[^46]: A 3. melléklet a 370/2014. (XII. 30.) Korm. rendelet 37. § e) pontja szerint módosított szöveg.

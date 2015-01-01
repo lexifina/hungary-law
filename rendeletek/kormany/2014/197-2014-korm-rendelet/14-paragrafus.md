@@ -20,6 +20,8 @@ f) biztosítási szerződés.
 
 (5) A tárgyévi vagyoni biztosíték feletti rendelkezés jogát az OKTF a tárgyévet követő év szeptember 1-jéig akkor engedélyezi, ha a gyártó
 
-a) a tárgyévi visszavételi, átvételi, gyűjtési, hasznosítási és ártalmatlanítási, valamint
+a)[^19] a tárgyévi visszavételi, átvételi, gyűjtési, kezelési, valamint
 
 b) az éves adatszolgáltatási
+
+[^19]: A 14. § (5) bekezdés a) pontja a 370/2014. (XII. 30.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.

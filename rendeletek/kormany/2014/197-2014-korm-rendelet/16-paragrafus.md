@@ -26,4 +26,6 @@ c) amely gazdasági tevékenységével vagy a környezet védelmének általáno
 
 (6) Az OKTF a közvetítő szervezetet törli a nyilvántartásból, ha a nyilvántartás feltételei már nem állnak fenn.
 
-(7) A nyilvántartásba vételi, az adatmódosítási és a nyilvántartásból történő törlés iránti kérelmet a 6. melléklet szerinti formanyomtatványon vagy elektronikus űrlapon kell benyújtani. A formanyomtatványt és az elektronikus űrlapot az OKTF honlapján és a kormányzati portálon kell közzétenni.
+(7)[^23]
+
+[^23]: A 16. § (7) bekezdését a 310/2014. (XII. 11.) Korm. rendelet 20. §-a hatályon kívül helyezte.

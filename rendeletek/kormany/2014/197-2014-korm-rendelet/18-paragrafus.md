@@ -1,6 +1,8 @@
-18. § (1) Az átvállaló és a közvetítő szervezet – a (2) bekezdés szerinti adattartalommal – nyilvántartást vezet, és – a (2) bekezdésben meghatározott határidőn belül és tartalommal – az OKTF részére adatot szolgáltat.
+18. §[^26] (1) A közvetítő szervezet a 8. melléklet 1. pontja szerinti adattartalommal nyilvántartást vezet.
 
-(2) Az átvállaló és a közvetítő szervezet az OKTF részére adatot szolgáltat a tárgyév február 20. napjáig
+(2) A közvetítő szervezet a vele szerződésben álló gyártók összesített adatairól a tárgyév február 20. napjáig az OKTF részére a 8. melléklet 1. pontja szerinti adattartalommal adatot szolgáltat.
+
+(3) A közvetítő szervezet a (2) bekezdésben foglaltakon túl az OKTF részére a tárgyév február 20. napjáig a következőkről szolgáltat adatot:
 
 a) a tárgyévet megelőző évben az általa kötött megállapodások alapján visszavett elektromos, elektronikus berendezés tömegéről (kilogrammban);
 
@@ -8,12 +10,4 @@ b) a tárgyévet megelőző évben az általa kötött megállapodások alapján
 
 c) arról, hogy mely gyártókkal, forgalmazókkal, gazdálkodó szervezetekkel milyen mennyiségre kötött megállapodást visszavételre, átvételre, gyűjtésre, kezelésre.
 
-(3) Az átvállaló és a közvetítő szervezet az adatszolgáltatási kötelezettségét az OKTF felé a 8. mellékletben foglalt adatlapok kitöltése útján teljesíti.
-
-(4) Ha a gyártó termékdíjátalány-fizetés, illetve az OHÜ-n keresztül történő kollektív teljesítés útján tesz eleget a gyűjtési, kezelési kötelezettségének, a 17. § (2) bekezdés e) és f) pontjában foglaltakról a tárgyév február 20. napjáig az OKTF részére az OHÜ szolgáltat adatot.
-
-(5) Az OHÜ az adatszolgáltatási kötelezettségét az OKTF felé a 7. mellékletben foglalt adatlapok kitöltése útján teljesíti.
-
-(6) Az átvállalóra, a közvetítő szervezetre és az OHÜ-re a 17. § (5) bekezdését is alkalmazni kell.
-
-(7) Az átvállalónak és a közvetítő szervezetnek a 8. mellékletben, az OHÜ-nek a 7. mellékletben foglalt adatlapok alapján összesített adatokra vonatkozóan kell az adatszolgáltatást teljesítenie.
+[^26]: A 18. § a 310/2014. (XII. 11.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.

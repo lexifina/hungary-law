@@ -1,33 +1,8 @@
-## 9. A gyártó, az átvállaló és a közvetítő szervezet nyilvántartási és adatszolgáltatási kötelezettsége
+## 9. [^24] A gyártó, a közvetítő szervezet, az állami hulladékgazdálkodást közvetítő szervezet és az átvállaló nyilvántartási és adatszolgáltatási kötelezettsége
 
-17. § (1) A gyártó – a (2) bekezdés szerinti adattartalommal – nyilvántartást vezet, és – a (2) bekezdésben meghatározott határidőn belül és tartalommal – az OKTF részére adatot szolgáltat.
+17. §[^25] (1) A gyártó a 7. melléklet szerinti adattartalommal nyilvántartást vezet, és arról a tárgyév február 20. napjáig az OKTF részére adatot szolgáltat.
 
-(2) A gyártó az OKTF részére adatot szolgáltat a tárgyév február 20. napjáig
+(2) Ha a gyártó termékdíjátalány-fizetés vagy az állami hulladékgazdálkodást közvetítő szervezeten keresztül történő kollektív teljesítés útján tesz eleget a gyűjtési, kezelési kötelezettségének, kizárólag a 7. melléklet 1. pontjában, valamint a 2. pont a)–c) és h) alpontjában foglaltakról kell adatot szolgáltatnia.
 
-a) a tárgyévet megelőző évben Magyarországon forgalomba hozott elektromos, elektronikus berendezés mennyiségéről (tömeg szerint, berendezés-kategóriánként);
-
-b) a tárgyévben Magyarországon forgalomba hozni tervezett elektromos, elektronikus berendezés mennyiségéről (tömeg szerint, berendezés-kategóriánként);
-
-c) a tárgyévet megelőző évben Magyarországon teljesített gyűjtési kötelezettségének mennyiségéről (tömeg szerint, berendezés-kategóriánként);
-
-d) a tárgyévben Magyarországon teljesített gyűjtési kötelezettségének mennyiségéről (tömeg szerint, berendezés-kategóriánként);
-
-e) azokról a hulladékká vált elektromos, elektronikus berendezések mennyiségéről (tömeg szerint, berendezés-kategóriánként), amelyeket a tárgyévet megelőző évben
-
-ea) az átvételi helyeken és gyűjtőhelyeken összesen átvett, gyűjtött,
-
-eb) közvetítő szervezetnek, kereskedőnek, előkezelőnek, hasznosítónak, ártalmatlanítónak kezelésre összesen átadott,
-
-ec) hulladékkezelőtől, illetve hulladékkezelő létesítményből további hasznosítás vagy ártalmatlanítás céljából elszállított;
-
-f) a tárgyévben gyűjteni, kezelni tervezett hulladékká vált elektromos, elektronikus berendezés mennyiségéről (tömeg szerint, berendezés-kategóriánként);
-
-g) a tárgyévi visszavételi, átvételi, gyűjtési és kezelési kötelezettségei ellátásának módjáról;
-
-h) a 14. § (1) bekezdése szerinti tárgyévi vagyoni biztosíték összegéről és típusáról.
-
-(3) A gyártó a (2) bekezdés a)–f) pontja szerinti adatszolgáltatási kötelezettségét a 7. mellékletben, a (2) bekezdés g) és h) pontja szerinti adatszolgáltatási kötelezettségét a 6. mellékletben foglalt adatlap kitöltésével teljesíti az OKTF részére.
-
-(4) Ha a gyártó termékdíjátalány-fizetés, illetve OHÜ-n keresztül történő kollektív teljesítés útján tesz eleget a gyűjtési, kezelési kötelezettségének, kizárólag a (2) bekezdés a)–d) és g) pontjában foglaltakról kell adatot szolgáltatnia.
-
-(5) A gyártó a nyilvántartását a számvitelről szóló 2000. évi C. törvény 169. § (1) bekezdésében meghatározott ideig megőrzi.
+[^24]: A 9. alcím címe a 310/2014. (XII. 11.) Korm. rendelet – 368/2014. (XII. 30.) Korm. rendelet 12. § (5) bekezdés a) pontja szerint módosított – 19. § (2) bekezdésével megállapított szöveg.
+[^25]: A 17. § a 310/2014. (XII. 11.) Korm. rendelet – 368/2014. (XII. 30.) Korm. rendelet 12. § (6) bekezdés a) pontja szerint módosított – 19. § (3) bekezdésével megállapított szöveg.

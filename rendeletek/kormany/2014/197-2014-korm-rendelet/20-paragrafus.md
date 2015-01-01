@@ -1,3 +1,5 @@
-20. § (1) Az OKTF minden év szeptember 1-jéig feldolgozza a teljesített adatszolgáltatások adatait, és azokat 30 napon belül elektronikus úton megküldi az OHÜ-nek. Az adatszolgáltatásból származó feldolgozott adatok nyilvánosak, és az OKTF honlapján keresztül folyamatosan, térítésmentesen hozzáférhetők. A gyártók és a nevükben eljáró harmadik személyek nyilvántartásba vételének megkönnyítése érdekében, az OKTF az európai uniós tagállamok nyilvántartási rendszeréhez történő hozzáférés lehetőségét az elérhetőség megjelölésével a honlapján biztosítja.
+20. § (1)[^31] Az OKTF minden év szeptember 1-jéig feldolgozza a teljesített adatszolgáltatások adatait. Az adatszolgáltatásból származó feldolgozott adatok nyilvánosak, és az OKTF honlapján keresztül folyamatosan, térítésmentesen hozzáférhetők. A gyártók és a nevükben eljáró harmadik személyek nyilvántartásba vételének megkönnyítése érdekében, az OKTF az európai uniós tagállamok nyilvántartási rendszeréhez történő hozzáférés lehetőségét az elérhetőség megjelölésével a honlapján biztosítja.
 
 (2) A tartalmilag vagy formailag hibás adatot szolgáltató kötelezettet az OKTF az adatszolgáltatás legfeljebb 30 napon belül történő hiánypótlásra szólítja fel.
+
+[^31]: A 20. § (1) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
