@@ -4,15 +4,17 @@
 
 (2)[^86] Szénhidrogén szállítóvezeték építése, valamint bővítése csak szénhidrogén szállítására jogosult gazdálkodó szervezet kérelmére és részére engedélyezhető.
 
-(2a)[^87] Földgázszállító-vezeték létesítése akkor engedélyezhető, ha
+(2a)[^87] Földgáz szállítóvezeték létesítése, valamint bővítése kizárólag a földgázellátásról szóló törvény szerinti szállítóvezeték-létesítésre vagy szállítási rendszerüzemeltetésre vonatkozó engedéllyel rendelkező kérelmező részére engedélyezhető, ha
 
-a)[^88] a tervezett beruházást a földgázellátásról szóló törvény szerinti, a Magyar Energetikai és Közmű-szabályozási Hivatal által jóváhagyott tízéves hálózatfejlesztési terv tartalmazza,
+a) a tervezett beruházást a földgázellátásról szóló törvény szerinti, a Magyar Energetikai és Közmű-szabályozási Hivatal által jóváhagyott tízéves hálózatfejlesztési terv tartalmazza,
 
-b) a földgázszállító-vezeték megépítéséről nemzetközi szerződés rendelkezik, vagy
+b) a tervezett beruházást a szállítási rendszerüzemeltető földgázellátásról szóló törvény szerinti működési engedélye tartalmazza, vagy
 
-c) a tervezett beruházással összefüggő közigazgatási hatósági engedélyezési ügyeket a Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény szerint kiemelt jelentőségű üggyé nyilvánította.
+c) a tervezett beruházást a földgázellátásról szóló törvény szerinti szállítóvezeték-létesítési engedély tartalmazza.
 
-(2b)[^89] Földgáz elosztóvezeték építése, valamint bővítése csak a földgázellátásról szóló törvény alapján az építéssel érintett településre, településrészre elosztói engedéllyel rendelkező engedélyes kérelmére és részére engedélyezhető.
+(2b)[^88] Szállítási rendszerüzemeltető esetében a létesítés vagy a bővítés kizárólag akkor kezdhető meg, ha azt a működési engedély tartalmazza.
+
+(2c)[^89] Földgáz elosztóvezeték építése, valamint bővítése csak a földgázellátásról szóló törvény alapján az építéssel érintett településre, településrészre, területre elosztói engedéllyel rendelkező engedélyes kérelmére és részére engedélyezhető.
 
 (3)[^90] Gáz-, kőolaj- és kőolajtermék-, valamint szén-dioxid-szállítóvezetéket tilos elhelyezni:
 
@@ -50,9 +52,9 @@ teljesítőképességen felül rendelkezésre álló kapacitás.
 
 [^85]: A Vhr. 10. § (1) bekezdése a 282/2003. (XII. 29.) Korm. rendelet 7. §-ának (1) bekezdésével megállapított, a 217/2008. (VIII. 29.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^86]: A Vhr. 10. § (2) bekezdése a 282/2003. (XII. 29.) Korm. rendelet 7. §-ának (1) bekezdésével megállapított, az 559/2013. (XII. 31.) Korm. rendelet 23. § 5. pontja szerint módosított szöveg.
-[^87]: A Vhr. 10. § (2a) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 8. §-a iktatta be.
-[^88]: A Vhr. 10. § (2a) bekezdés a) pontja az 559/2013. (XII. 31.) Korm. rendelet 23. § 6. pontja szerint módosított szöveg.
-[^89]: A Vhr. 10. § (2b) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 7. §-a iktatta be.
+[^87]: A Vhr. 10. § (2a) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 8. §-a iktatta be, szövege a 384/2014. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^88]: A Vhr. 10. § (2b) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 7. §-a iktatta be, szövege a 384/2014. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^89]: A Vhr. 10. § (2c) bekezdését a 384/2014. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
 [^90]: A Vhr. 10. § (3) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^91]: A Vhr. 10. § (4) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^92]: A Vhr. 10. § (5) bekezdésének bevezető szövegrésze a 282/2003. (XII. 29.) Korm. rendelet 7. §-ának (2) bekezdésével megállapított, záró szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
