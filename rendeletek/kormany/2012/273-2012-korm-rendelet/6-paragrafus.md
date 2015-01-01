@@ -1,33 +1,41 @@
 ## A Nemzeti Közszolgálati Egyetem
 
-## 6. § Az NKE a közszolgálati továbbképzési rendszer működtetése során az alábbi feladatokat látja el:
+## 6. §[^13] Az NKE a közszolgálati továbbképzési rendszer működtetése során az alábbi feladatokat látja el:
 
-a) a továbbképzési programok fejlesztésével összefüggő feladata körében:
+a) a továbbképzési programok fejlesztésével összefüggő feladata körében kifejleszti, minősítésre benyújtja és fenntartja a KTK által meghatározott követelményrendszer szerinti közszolgálati továbbképzési programokat;
 
-aa) kifejleszti, minősítésre benyújtja és fenntartja a KTK által meghatározott követelményrendszer szerinti közszolgálati továbbképzési és vezetőképzési programokat;
+b) a továbbképzési tervezéssel összefüggő feladatai körében:
 
-b) a közszolgálati továbbképzési és vezetőképzési programok megvalósításával összefüggő feladatai körében:
+ba) működteti a közszolgálati tisztviselők továbbképzésének országos tervezési rendszerét,
 
-ba) az éves továbbképzési tervek alapján kialakítja oktatási programját, meghirdeti és megszervezi a közszolgálati továbbképzéseket és közszolgálati vezetőképzési programokat;
+bb) kialakítja és működteti a továbbképzésekkel összefüggő tervkészítési feladatok ellátását támogató informatikai alkalmazást,
 
-bb) a közszolgálati továbbképzések és a közszolgálati vezetőképzések megvalósításáról nyilvántartás vezet, statisztikai célú adatszolgáltatást végez a személyügyi központ részére;
+bc) kidolgozza a tervkészítéshez és az értékeléshez szükséges módszertani eljárásokat,
 
-bc) éves összefoglaló jelentést készít a miniszter részére tárgyévet követő év április 30-ig a megvalósított közszolgálati továbbképzésekről és a közszolgálati vezetőképzésekről, valamint az ezek megvalósításához felhasznált pénzügyi forrásokról;
+bd) elvégzi a továbbképzési tervek összesítését,
 
-c) a továbbképzési programok minőségügyi követelményeinek biztosítása érdekében:
+be) a tervek végrehajtása alapján éves összefoglaló jelentést készít a miniszter részére a tárgyévet követő év április 30-áig;
 
-ca) fejleszti és működteti a továbbképzés minőségirányítási rendszerét a miniszter által kiadott továbbképzés minőségirányítási szabályzata alapján;
+c) a közszolgálati továbbképzési programok megvalósításával összefüggő feladatai körében:
 
-cb) a továbbképzési programok minőségének megfelelősége érdekében minőségügyi helyszíni ellenőrzéseket végez;
+ca) az éves továbbképzési tervek alapján kialakítja oktatási programját, meghirdeti és megszervezi a továbbképzéseket,
 
-cc) biztosítja a továbbképzésekkel összefüggő képzésmenedzsment feladatokhoz szükséges informatikai alkalmazást, valamint fejleszti és működteti az elektronikus képzési programok és vizsgák igénybevételéhez szükséges központi oktatásinformatikai rendszert;
+cb) a továbbképzések megvalósításáról nyilvántartást vezet, statisztikai célú adatszolgáltatást végez a miniszter részére,
 
-cd) a továbbképzési programok minőségügyi követelményeinek biztosítása érdekében módszertani irányelveket határoz meg, előkészíti a továbbképzés minőségirányítási szabályzatát;
+cc) éves összefoglaló jelentést készít a miniszter részére a tárgyévet követő év április 30-áig a megvalósított közszolgálati továbbképzésekről, valamint az ezek megvalósításához felhasznált pénzügyi forrásokról;
 
-d) tervszerűen és rendszeresen gondoskodik a továbbképzések során közreműködő oktatók és vizsgáztatók szakmai, oktatás-módszertani és felnőtt-oktatói továbbképzéséről;
+d) a továbbképzési programok minőségügyi követelményeinek biztosítása érdekében:
 
-e) működteti a továbbképzési programok minősítésének rendszerét;
+da) fejleszti és működteti a továbbképzés minőségirányítási rendszerét a miniszter által kiadott továbbképzés minőségirányítási szabályzata alapján,
 
-f)[^8] Vezető és Továbbképzési Intézetén keresztül ellátja a KTK titkársági feladatait.
+db) a továbbképzési programok minőségének megfelelősége érdekében minőségügyi ellenőrzéseket végez,
 
-[^8]: A 6. § f) pontját a 298/2013. (VII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+dc) biztosítja a továbbképzésekkel összefüggő képzésmenedzsment feladatokhoz szükséges informatikai alkalmazást, valamint fejleszti és működteti az elektronikus képzési programok és vizsgák igénybevételéhez szükséges központi oktatásinformatikai rendszert,
+
+dd) a továbbképzési programok minőségügyi követelményeinek biztosítása érdekében módszertani irányelveket határoz meg, előkészíti a továbbképzés minőségirányítási szabályzatát;
+
+e) tervszerűen és rendszeresen gondoskodik a továbbképzések során közreműködő oktatók és vizsgáztatók szakmai, oktatás-módszertani és felnőtt-oktatói továbbképzéséről;
+
+f) közreműködik a továbbképzési programok minősítésében.
+
+[^13]: A 6. § a 378/2014. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.

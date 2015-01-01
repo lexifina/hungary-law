@@ -2,8 +2,10 @@
 
 ## Az éves továbbképzési tervek összesítése
 
-21. § (1) A közigazgatási szerv éves továbbképzési tervét a teljesítményértékelést követő 15 munkanapon belül megküldi a személyügyi központ részére.
+21. §[^37] (1) A közigazgatási szerv éves továbbképzési tervét tárgyév március 15-éig megküldi az NKE részére.
 
-(2) A személyügyi központ 15 munkanapon belül elvégzi az országos szintű tervösszesítést, amelynek eredményeit megküldi a KTK, valamint az NKE részére, továbbá nyilvánosságra hozza az összesített országos terveket.
+(2) Az NKE tárgyév március 31-éig elvégzi az országos szintű tervösszesítést, amelynek eredményeit megküldi a KTK részére, továbbá nyilvánosságra hozza az összesített országos terveket.
 
-(3) A közigazgatási szervek az éves tervek végrehajtásának eredményeiről, tapasztalatairól, adatairól szóló értékelő jelentésüket a tárgyévet követő március 15-ig megküldik a személyügyi központ részére. Az értékelő jelentést a közigazgatási szervek a személyügyi központ által kiadott útmutató alapján állítják össze. A személyügyi központ a beérkezett jelentések alapján tárgyévet követő év április 30-ig a miniszternek jelentést készít.
+(3) A közigazgatási szervek az éves tervek végrehajtásának eredményeiről, tapasztalatairól, adatairól szóló értékelő jelentésüket a tárgyévet követő március 15-éig megküldik az NKE részére. Az értékelő jelentést a közigazgatási szervek az NKE által kiadott útmutató alapján állítják össze. Az NKE a beérkezett jelentések alapján a tárgyévet követő év április 30-áig a miniszternek jelentést készít.
+
+[^37]: A 21. § a 378/2014. (XII. 31.) Korm. rendelet 15. §-ával megállapított szöveg.

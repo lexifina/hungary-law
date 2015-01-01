@@ -1,14 +1,13 @@
-## A minősített továbbképzési programmal rendelkező képzőintézmények
+## A belső továbbképzési programmal rendelkező képzőintézmények
 
-7. § (1)[^9] A felsőoktatási vagy a képző intézmény képzésfejlesztési feladatai körében kifejleszti, minősítésre benyújtja és fenntartja a KTK által meghatározott szakmai és kompetenciafejlesztő továbbképzési programokat.
+7. §[^14] (1) Belső továbbképzési program folytatásának feltétele, hogy azt a KTK egyszerűsített nyilvántartásba vételi eljárás keretében felvegye a továbbképzési programjegyzékre.
 
-(2)[^10] A felsőoktatási vagy a képző intézmény a továbbképzési programok megvalósításával összefüggő feladatai körében:
+(2) A nyilvántartásba vételt a képzést igénylő közigazgatási szerv kezdeményezi. A kérelem elutasításával szemben a kezdeményező részéről a 14. § (4) és (5) bekezdésében foglalt panasznak van helye.
 
-a) az éves továbbképzési tervek alapján kialakítja az oktatási programját, meghirdeti és megszervezi a továbbképzéseket;
+(3) Ha a képzés szolgáltatója felsőoktatási vagy felnőttképzési intézmény, a nyilvántartás a képzés szolgáltatójának adatait is tartalmazza.
 
-b) a továbbképzések megvalósításáról nyilvántartást vezet, statisztikai célú adatszolgáltatást végez a személyügyi központ részére;
+(4) A nyilvántartásba vett belső továbbképzési programot más közigazgatási szerv a (2) bekezdésben meghatározott nyilvántartásba vételi eljárás nélkül veheti igénybe. A közigazgatási szerv jogosult az általa megvalósított belső továbbképzést másik közigazgatási szervnél foglalkoztatott számára belső továbbképzésként nyújtani, feltéve, hogy a belső továbbképzési program a kormánytisztviselő, köztisztviselő egyéni továbbképzési tervében szereplő képzési igényhez illeszkedik.
 
-c) éves összefoglaló jelentést készít a személyügyi központ részére a tárgyévet követő év március 1-jéig az általa megvalósított továbbképzésekről.
+(5) A képzést igénylő közigazgatási szerv kezdeményezheti a belső továbbképzési program e rendelet szerinti minősítését (a továbbiakban: minősített belső továbbképzés).
 
-[^9]: A 7. § (1) bekezdése a 393/2013. (XI. 12.) Korm. rendelet 39. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^10]: A 7. § (2) bekezdés nyitó szövegrésze a 393/2013. (XI. 12.) Korm. rendelet 39. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^14]: A 7. § a 378/2014. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg. A 7. §-t megelőző alcím a 378/2014. (XII. 31.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.

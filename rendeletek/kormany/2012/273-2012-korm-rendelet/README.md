@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-273-20-
 | 2014-01-01 | 2012-273-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-04-27 | 2012-273-20-22.8 | 137/2014. (IV. 24.) Korm. rendelet |
 | 2014-09-05 | 2012-273-20-22.9 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2015-01-01 | 2012-273-20-22.10 | 378/2014. (XII. 31.) Korm. rendelet |

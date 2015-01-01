@@ -4,4 +4,6 @@
 
 13. § (1) A kormánytisztviselő, köztisztviselő továbbképzése kizárólag továbbképzési programjegyzéken szereplő, nyilvántartásba vett programok alapján végezhető.
 
-(2) A továbbképzési programok programjegyzékre történő nyilvántartásba vételéről, vagy törléséről az NKE javaslatára a KTK dönt.
+(2)[^27]
+
+[^27]: A 13. § (2) bekezdését a 378/2014. (XII. 31.) Korm. rendelet 18. § c) pontja hatályon kívül helyezte.
