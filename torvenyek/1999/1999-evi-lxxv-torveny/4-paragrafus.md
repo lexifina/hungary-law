@@ -76,4 +76,8 @@ sg) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 303–303/A. 
 
 t) felderítés alá vont személy: akivel szemben az együttműködő szervek a szervezett bűnözéssel összefüggő bűncselekmény gyanúja miatt felderítő tevékenységet végeznek;
 
-u) együttműködő szerv: a 4/A. § (3) bekezdésében meghatározott szerv.
+u) együttműködő szerv: a 4/A. § (3) bekezdésében meghatározott szerv;
+
+v) utasadat: a légiközlekedésről szóló törvényben meghatározott, az utastól vagy megbízottjától, illetve a személyszállítást végző légifuvarozó megbízásából jegyértékesítést végző szolgáltatótól származó adat;
+
+x) utasadat szolgáltatója: a v) pontban meghatározott adatot a terrorizmus és a szervezett bűnözés megelőzésének, megszakításának, felderítésének elősegítése céljából törvény szerint átadó személyszállítást végző légifuvarozó.

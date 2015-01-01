@@ -2,7 +2,7 @@
 
 (2) A szervezett bűnözés elleni koordinációs központ által kezelt adatot haladéktalanul törölni kell, ha
 
-a) a törvény 4/C. §ának (3) bekezdésében meghatározott adatkezelési idő letelt,
+a) a 4/C. § (3) bekezdésében és 4/I. § (6) bekezdésében meghatározott adatkezelési idő letelt,
 
 b) bíróság vagy a Nemzeti Adatvédelmi és Információszabadság Hatóság az adat törlését elrendelte,
 

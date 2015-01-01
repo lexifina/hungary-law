@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-75-00-00
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 1999-75-00-00.24 |
 | 2013-07-20 | 2013. évi LXXXVIII. törvény | 1999-75-00-00.25 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1999-75-00-00.26 |
+| 2015-01-01 | 2013. évi CXCVIII. törvény | 1999-75-00-00.27 |

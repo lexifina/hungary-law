@@ -16,7 +16,9 @@ e) az együttműködő szervek részéről érkezett adatokat – azok elemzés�
 
 f) figyelemmel kíséri, hogy a beérkezett adathoz kapcsolható, azt kiegészítő vagy azzal összefüggő adat nem áll-e rendelkezésre, ennek észlelése esetén az érintett együttműködő szerveket az adatok összefüggéseiről értesíti,
 
-g) a szervezett bűnözésben szerepet játszó bűnözői csoportok alakulásának és megszűnésének, egymáshoz való viszonyának figyelemmel kísérésével, jogellenesen szerzett javaik legalizálását szolgáló vállalkozásaik elemzésével segítséget nyújt az ellenük való fellépéshez.
+g) a szervezett bűnözésben szerepet játszó bűnözői csoportok alakulásának és megszűnésének, egymáshoz való viszonyának figyelemmel kísérésével, jogellenesen szerzett javaik legalizálását szolgáló vállalkozásaik elemzésével segítséget nyújt az ellenük való fellépéshez,
+
+h) ellátja az utasadat-információs egység feladatait.
 
 (2) A szervezett bűnözés elleni koordinációs központ a szervezett bűnözés elleni stratégiai döntések meghozatalának elősegítése céljából
 
@@ -32,7 +34,7 @@ b) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési
 
 c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv,
 
-d) a Vám- és Pénzügyőrség,
+d) a Nemzeti Adó- és Vámhivatal,
 
 e) az Alkotmányvédelmi Hivatal,
 
