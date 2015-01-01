@@ -1,14 +1,14 @@
-104. §[^674] (1) A gyámhivatal az elhelyezési javaslatot és egyéni elhelyezési tervet akkor fogadja el, ha az megfelel a megyei, fővárosi gyermekvédelmi szakértői bizottság egyéni elhelyezési tervre vonatkozó javaslatának és a 107. §-ban foglaltaknak.
+104. §[^681] (1) A gyámhivatal az elhelyezési javaslatot és egyéni elhelyezési tervet akkor fogadja el, ha az megfelel a megyei, fővárosi gyermekvédelmi szakértői bizottság egyéni elhelyezési tervre vonatkozó javaslatának és a 107. §-ban foglaltaknak.
 
 (2) Ha a gyámhivatal a gyermekvédelmi szakszolgálat elhelyezési javaslatával és egyéni elhelyezési tervével nem ért egyet, a gyermekvédelmi szakszolgálat a gyermek gondozási helyének meghatározására irányuló tárgyalást követő nyolc napon belül új elhelyezési javaslatot és egyéni elhelyezési tervet terjeszt elő.
 
-(3)[^675] Ha a gyámhivatal nem ért egyet a gyermek személyiségállapotához, illetve a megállapított ellátási szükségletéhez igazodó gondozási hely vonatkozásában az új elhelyezési javaslattal és egyéni elhelyezési tervvel sem, kikéri az országos gyermekvédelmi szakértői bizottság szakmai véleményét.
+(3)[^682] Ha a gyámhivatal nem ért egyet a gyermek személyiségállapotához, illetve a megállapított ellátási szükségletéhez igazodó gondozási hely vonatkozásában az új elhelyezési javaslattal és egyéni elhelyezési tervvel sem, kikéri az országos gyermekvédelmi szakértői bizottság szakmai véleményét.
 
-(4)[^676] A gyámhivatal a gyermekvédelmi szakszolgálat új elhelyezési javaslatának és egyéni elhelyezési tervének előterjesztését vagy az országos gyermekvédelmi szakértői bizottság szakmai véleményének kikérését követően az elhelyezési tervet módosítja és megküldi a gyermekvédelmi szakszolgálatnak.
+(4)[^683] A gyámhivatal a gyermekvédelmi szakszolgálat új elhelyezési javaslatának és egyéni elhelyezési tervének előterjesztését vagy az országos gyermekvédelmi szakértői bizottság szakmai véleményének kikérését követően az elhelyezési tervet módosítja és megküldi a gyermekvédelmi szakszolgálatnak.
 
-(5)[^677] Ha az érdemi határozat elleni fellebbezésben a megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményének felülvizsgálatát kérték, a szociális és gyámhivatal a szakmai vélemény felülvizsgálata érdekében megkeresi az országos gyermekvédelmi szakértői bizottságot.
+(5)[^684] Ha az érdemi határozat elleni fellebbezésben a megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményének felülvizsgálatát kérték, a szociális és gyámhivatal a szakmai vélemény felülvizsgálata érdekében megkeresi az országos gyermekvédelmi szakértői bizottságot.
 
-[^674]: A 104. § a 97/2013. (III. 29.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^675]: A 104. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés n) pontja szerint módosított szöveg.
-[^676]: A 104. § (4) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés o) pontja szerint módosított szöveg.
-[^677]: A 104. § (5) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés p) pontja szerint módosított szöveg.
+[^681]: A 104. § a 97/2013. (III. 29.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^682]: A 104. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés n) pontja szerint módosított szöveg.
+[^683]: A 104. § (4) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés o) pontja szerint módosított szöveg.
+[^684]: A 104. § (5) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés p) pontja szerint módosított szöveg.

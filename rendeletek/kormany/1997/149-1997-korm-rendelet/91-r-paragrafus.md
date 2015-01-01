@@ -1,3 +1,1 @@
-## 91/Q. §[^630]
-
-[^630]: A 91/Q. §-t a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés c) pontja.
+## 91/Q. § A gyámhivatal határozattal szünteti meg a megelőző pártfogást a Gyvt. 69. § (4) bekezdésében meghatározott esetekben, valamint határozatot hoz a megelőző pártfogás Gyvt. 69. § (6) bekezdése szerinti megszűnéséről.

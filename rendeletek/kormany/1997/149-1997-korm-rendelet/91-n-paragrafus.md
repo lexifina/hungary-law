@@ -1,3 +1,7 @@
-## 91/M. §[^626]
+## A megelőző pártfogás megvalósulása
 
-[^626]: A 91/M. §-t és az azt megelőző alcímet a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontja.
+91/N. § (1) A kirendelt családgondozót a megelőző pártfogás elrendeléséről, mellőzéséről, fenntartásáról, megszüntetéséről vagy megszűnéséről és a megelőző pártfogó felügyelő személyéről a gyermekjóléti szolgálat útján kell értesíteni.
+
+(2) A kirendelt családgondozó és a megelőző pártfogó felügyelő közvetlenül tart kapcsolatot egymással.
+
+(3) A megelőző pártfogás fennállása alatt a kirendelt családgondozó és a megelőző pártfogó felügyelő – a gyermekvédelmi jelzőrendszer más tagjának szükség szerinti bevonásával – esetmegbeszélést tarthat az eredményes megelőző pártfogás és védelembe vétel érdekében.

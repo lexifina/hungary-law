@@ -2,9 +2,9 @@
 
 ## Nevelésbe vétellel kapcsolatos ügyek
 
-## A nevelésbe vétel[^658]
+## A nevelésbe vétel[^661]
 
-99. §[^659] (1) Nevelésbe vételre nem kerülhet sor, ha a veszélyeztetettség megszüntetése és a gyermek gondozása megfelelően biztosítható a különélő másik szülőnél vagy harmadik személynél történő ideiglenes elhelyezéssel, családbafogadással, a gyermek átmeneti gondozásával, valamint fogyatékosok vagy pszichiátriai betegek otthonában történő elhelyezése útján.
+99. §[^662] (1) Nevelésbe vételre nem kerülhet sor, ha a veszélyeztetettség megszüntetése és a gyermek gondozása megfelelően biztosítható a különélő másik szülőnél vagy harmadik személynél történő ideiglenes elhelyezéssel, családbafogadással, a gyermek átmeneti gondozásával, valamint fogyatékosok vagy pszichiátriai betegek otthonában történő elhelyezése útján.
 
 (2) Ha a nevelésbe vétel feltételei nem állnak fenn, a gyámhivatal a kérelem elutasításával, illetve az eljárás megszüntetésével egyidejűleg
 
@@ -20,5 +20,5 @@ b) a gyermek nevelésbe vételéről és gondozási helyének meghatározásár�
 
 c) a nevelésbe vett gyermek gondozási helyének meghatározásáról és a járulékos kérdésekről
 
-[^658]: A 99. §-t megelőző alcím a 97/2013. (III. 29.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^659]: A 99. § a 97/2013. (III. 29.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^661]: A 99. §-t megelőző alcím a 97/2013. (III. 29.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^662]: A 99. § a 97/2013. (III. 29.) Korm. rendelet 31. §-ával megállapított szöveg.

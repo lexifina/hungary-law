@@ -1,3 +1,11 @@
-## 91/K. §[^624]
+91/L. § (1) A gyámhivatal a megelőző pártfogás iránti eljárás során tárgyalást tart.
 
-[^624]: A 91/K. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés a) pontja.
+(2) A tárgyalást úgy kell megtartani, hogy hozzásegítse a gyermeket és a szülőt vagy más törvényes képviselőt a megelőző pártfogás okának, céljának és jogkövetkezményeinek megismeréséhez.
+
+(3) A tárgyalásról értesíteni kell a 86. § (3) bekezdésében meghatározott személyeket. A pártfogó felügyelői szolgálat által megelőző pártfogó felügyelőként kijelölhető személy a tárgyaláson a gyermek bűnmegelőzési szempontú veszélyeztetettségének
+
+a) magas foka esetén részt vesz,
+
+b) közepes foka esetén részt vehet.
+
+(4) A gyámhivatal a pártfogó felügyelői szolgálatnak a tárgyalásról való értesítésével egyidejűleg felhívja a gyermekjóléti szolgálatot, hogy küldje meg a pártfogó felügyelői szolgálat részére a gyermekjóléti alapellátás során felvett azon adatlapokat, amelyek még nem állnak a pártfogó felügyelői szolgálat rendelkezésére.

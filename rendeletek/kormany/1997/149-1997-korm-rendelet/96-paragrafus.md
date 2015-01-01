@@ -2,7 +2,7 @@
 
 (2)[^643]
 
-(3)[^644] Ha az ideiglenes hatályú elhelyezés felülvizsgálatára jogosult gyámhivatal gyermekelhelyezés, gyermekelhelyezés megváltoztatása vagy szülői felügyelet megszüntetése iránti per indokoltságát állapítja meg, erről – meghallgatása után – értesíti a gyermek szülőjét vagy más törvényes képviselőjét.
+(3)[^644] Ha az ideiglenes hatályú elhelyezés felülvizsgálatára jogosult gyámhivatal gyermekelhelyezés, gyermekelhelyezés megváltoztatása vagy szülői felügyelet megszüntetése iránti per indokoltságát állapítja meg, meghallgatja a gyermek szülőjét vagy más törvényes képviselőjét. A gyámhivatal a szülői felügyeleti jog megszüntetése iránti per esetén megteszi a Gyvt. 78. § (1) bekezdés a) pont ab) alpontja szerinti intézkedést.
 
 [^643]: A 96. § (2) bekezdését a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés c) pontja hatályon kívül helyezte.
-[^644]: A 96. § (3) bekezdése a 14/2003. (II. 12.) Korm. rendelet 56. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^644]: A 96. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.

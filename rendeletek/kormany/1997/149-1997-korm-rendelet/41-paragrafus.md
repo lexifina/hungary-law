@@ -1,6 +1,6 @@
-41. §[^211] (1)[^212] A gyermek gondozásba történő kihelyezése érdekében az örökbefogadás engedélyezése során a kijelölt gyámhivatal megvizsgálja:
+41. §[^212] (1)[^213] A gyermek gondozásba történő kihelyezése érdekében az örökbefogadás engedélyezése során a kijelölt gyámhivatal megvizsgálja:
 
-a)[^213] az örökbe fogadni szándékozó személy alkalmasságát tanúsító jogerős gyámhivatali határozatot,
+a)[^214] az örökbe fogadni szándékozó személy alkalmasságát tanúsító jogerős gyámhivatali határozatot,
 
 b) a szülő házastársa, illetve rokon általi örökbefogadás esetén
 
@@ -10,9 +10,9 @@ bb) az örökbefogadás előtti tanácsadáson való részvételt igazoló irato
 
 bc) az alkalmasságot alátámasztó pszichológiai véleményt,
 
-bd)[^214] a háziorvosi igazolást az örökbefogadásra való egészségügyi alkalmasságról,
+bd)[^215] a háziorvosi igazolást az örökbefogadásra való egészségügyi alkalmasságról,
 
-c)[^215] ha a nevelőszülő a nála nevelkedő gyermeket kívánja örökbe fogadni,
+c)[^216] ha a nevelőszülő a nála nevelkedő gyermeket kívánja örökbe fogadni,
 
 ca) az örökbefogadás előtti tanácsadáson való részvételt igazoló iratot,
 
@@ -22,19 +22,19 @@ cc) a háziorvosi igazolást az örökbefogadásra való egészségügyi alkalma
 
 cd) az örökbefogadás előtti felkészítő tanfolyam eredményes elvégzését igazoló iratot.
 
-(1a)[^216] A kijelölt gyámhivatal az (1) bekezdés b) pont bb)–bd) alpontja szerinti dokumentumok beszerzése érdekében megkeresi a 38. § (2)–(2b) bekezdése szerint illetékes gyermekvédelmi szakszolgálatot.
+(1a)[^217] A kijelölt gyámhivatal az (1) bekezdés b) pont bb)–bd) alpontja szerinti dokumentumok beszerzése érdekében megkeresi a 38. § (2)–(2b) bekezdése szerint illetékes gyermekvédelmi szakszolgálatot.
 
-(1b)[^217] A kijelölt gyámhivatal az (1) bekezdés c) pontja szerinti dokumentumok beszerzése érdekében megkeresi a gyermek örökbefogadását elősegítő gyermekvédelmi szakszolgálatot.
+(1b)[^218] A kijelölt gyámhivatal az (1) bekezdés c) pontja szerinti dokumentumok beszerzése érdekében megkeresi a gyermek örökbefogadását elősegítő gyermekvédelmi szakszolgálatot.
 
-(2)[^218] A gyermek gondozásba történő kihelyezése előtt a kijelölt gyámhivatal:
+(2)[^219] A gyermek gondozásba történő kihelyezése előtt a kijelölt gyámhivatal:
 
-a)[^219] az örökbe fogadni szándékozó személynél környezettanulmányt végez, vagy a környezettanulmány elkészítése érdekében megkeresi a gyermekvédelmi szakszolgálatot, feltéve, hogy nem áll rendelkezésére a gyermekvédelmi szakszolgálat által egy hónapnál nem régebben készített környezettanulmány,
+a)[^220] az örökbe fogadni szándékozó személynél környezettanulmányt végez, vagy a környezettanulmány elkészítése érdekében megkeresi a gyermekvédelmi szakszolgálatot, feltéve, hogy nem áll rendelkezésére a gyermekvédelmi szakszolgálat által egy hónapnál nem régebben készített környezettanulmány,
 
-b)[^220] beszerzi a háziorvosi, szakorvosi igazolást a gyermek egészségi állapotáról, fejlődését befolyásoló betegségekről, valamint a gyermek családi hátterére vonatkozó dokumentumokat és a 3 évesnél idősebb gyermek esetén a személyiségére vonatkozó szakmai véleményt,
+b)[^221] beszerzi a háziorvosi, szakorvosi igazolást a gyermek egészségi állapotáról, fejlődését befolyásoló betegségekről, valamint a gyermek családi hátterére vonatkozó dokumentumokat és a 3 évesnél idősebb gyermek esetén a személyiségére vonatkozó szakmai véleményt,
 
-c)[^221] meggyőződik arról, hogy az örökbefogadásban közreműködő nyílt örökbefogadást elősegítő közhasznú szervezet működési engedéllyel rendelkezik a szolgáltatótevékenység folytatására.
+c)[^222] meggyőződik arról, hogy az örökbefogadásban közreműködő nyílt örökbefogadást elősegítő közhasznú szervezet működési engedéllyel rendelkezik a szolgáltatótevékenység folytatására.
 
-(3)[^222] Az örökbe fogadni szándékozó személy az örökbefogadás engedélyezése előtt csatolja
+(3)[^223] Az örökbe fogadni szándékozó személy az örökbefogadás engedélyezése előtt csatolja
 
 a) a jövedelmi viszonyairól szóló igazolást,
 
@@ -42,9 +42,9 @@ b) külföldön történt születés vagy házasságkötés esetén a születés
 
 c) nyílt örökbefogadás esetén – a házastárs és a rokon általi örökbefogadás kivételével – a gyermekvédelmi szakszolgálat vagy az örökbefogadást elősegítő közhasznú szervezet közreműködését igazoló iratot.
 
-(3a)[^223] A (3) bekezdés c) pontja szerinti irat csatolásától el lehet tekinteni, ha az örökbefogadást elősegítő közhasznú szervezet vagy a gyermekvédelmi szakszolgálat örökbefogadással foglalkozó szakembere az örökbefogadás iránti kérelem előterjesztésekor jegyzőkönyvben nyilatkozik a nyílt örökbefogadásban való közreműködés megtörténtéről.
+(3a)[^224] A (3) bekezdés c) pontja szerinti irat csatolásától el lehet tekinteni, ha az örökbefogadást elősegítő közhasznú szervezet vagy a gyermekvédelmi szakszolgálat örökbefogadással foglalkozó szakembere az örökbefogadás iránti kérelem előterjesztésekor jegyzőkönyvben nyilatkozik a nyílt örökbefogadásban való közreműködés megtörténtéről.
 
-(4)[^224] A gyermek örökbefogadásának engedélyezéséről való döntés meghozatala érdekében – a 45. § (5) bekezdésére tekintettel – a kijelölt gyámhivatal a (3) és a (3a) bekezdésben foglaltakon túl megvizsgálja
+(4)[^225] A gyermek örökbefogadásának engedélyezéséről való döntés meghozatala érdekében – a 45. § (5) bekezdésére tekintettel – a kijelölt gyámhivatal a (3) és a (3a) bekezdésben foglaltakon túl megvizsgálja
 
 a) a szülő házastársa általi örökbefogadás esetén az (1) bekezdés b) pont bb)–bd) alpontja szerinti dokumentumokat,
 
@@ -54,39 +54,39 @@ c) a gyermeket a szülő hozzájárulásával legalább egy éve saját háztart
 
 d) – ha a nevelőszülő a nála nevelkedő gyermeket kívánja örökbe fogadni – az (1) bekezdés c) pontjában foglalt dokumentumokat.
 
-(5)[^225] A gyermek örökbefogadásának engedélyezése előtt a kijelölt gyámhivatal beszerzi:
+(5)[^226] A gyermek örökbefogadásának engedélyezése előtt a kijelölt gyámhivatal beszerzi:
 
-a)[^226] az anyakönyvvezetőtől a gyermeknek az anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek a gyermek születésével kapcsolatban nyilvántartott adatait,
+a)[^227] az anyakönyvvezetőtől a gyermeknek az anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek a gyermek születésével kapcsolatban nyilvántartott adatait,
 
-b)[^227] az anyakönyvvezetőtől a szülőknek az anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek a szülők halálával kapcsolatban nyilvántartott adatait,
+b)[^228] az anyakönyvvezetőtől a szülőknek az anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek a szülők halálával kapcsolatban nyilvántartott adatait,
 
-c)[^228] a szülői felügyeletet megszüntető, illetve a szülő cselekvőképességét érintő gondnokság alá helyezéséről szóló jogerős bírói ítéletet,
+c)[^229] a szülői felügyeletet megszüntető, illetve a szülő cselekvőképességét érintő gondnokság alá helyezéséről szóló jogerős bírói ítéletet,
 
 d) a gyámot kirendelő jogerős gyámhivatali határozatot, ha nem a vér szerinti szülő az örökbefogadandó gyermek törvényes képviselője,
 
-e)[^229] a gondnokot kirendelő jogerős határozatot, ha a vér szerinti szülő cselekvőképességet érintő gondnokság alatt áll,
+e)[^230] a gondnokot kirendelő jogerős határozatot, ha a vér szerinti szülő cselekvőképességet érintő gondnokság alatt áll,
 
 f) a háziorvosi vagy szakorvosi igazolást az örökbefogadni szándékozó személy egészségi állapotáról, amennyiben ezt az örökbefogadási eljárás során indokoltnak tartja,
 
-g)[^230] az anyakönyvvezetőtől az örökbe fogadni szándékozó személy anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek az örökbe fogadni szándékozó személy születésével és házasságával kapcsolatban nyilvántartott adatait.
+g)[^231] az anyakönyvvezetőtől az örökbe fogadni szándékozó személy anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek az örökbe fogadni szándékozó személy születésével és házasságával kapcsolatban nyilvántartott adatait.
 
-[^211]: A 41. § a 14/2003. (II. 12.) Korm. rendelet 21. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^212]: A 41. § (1) bekezdés nyitó szövegrésze a 173/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
-[^213]: A 41. § (1) bekezdés a) pontja a 97/2013. (III. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^214]: A 41. § (1) bekezdése b) pontjának bd) alpontja a 251/2006. (XII. 6.) Korm. rendelet 21. § (6) bekezdése b) alpontjának bc) alpontja szerint módosított szöveg. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^215]: A 41. § (1) bekezdés c) pontját a 70/2014. (III. 13.) Korm. rendelet 25. § (1) bekezdése iktatta be.
-[^216]: A 41. § (1a) bekezdését a 97/2013. (III. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 22. pontja szerint módosított szöveg.
-[^217]: A 41. § (1b) bekezdését a 70/2014. (III. 13.) Korm. rendelet 25. § (2) bekezdése iktatta be.
-[^218]: A 41. § (2) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
-[^219]: A 41. § (2) bekezdés a) pontja a 97/2013. (III. 29.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^220]: A 41. § (2) bekezdés b) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^221]: A 41. § (2) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
-[^222]: A 41. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
-[^223]: A 41. § (3a) bekezdését a 70/2014. (III. 13.) Korm. rendelet 25. § (5) bekezdése iktatta be.
-[^224]: A 41. § (4) bekezdése a 70/2014. (III. 13.) Korm. rendelet 25. § (6) bekezdésével megállapított szöveg.
-[^225]: A 41. § (5) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
-[^226]: A 41. § (5) bekezdés a) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (7) bekezdésével megállapított szöveg.
-[^227]: A 41. § (5) bekezdés b) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (7) bekezdésével megállapított szöveg.
-[^228]: A 41. § (5) bekezdés c) pontja a 97/2013. (III. 29.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
-[^229]: A 41. § (5) bekezdés e) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (8) bekezdésével megállapított szöveg.
-[^230]: A 41. § (5) bekezdés g) pontját a 97/2013. (III. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 25. § (9) bekezdésével megállapított szöveg.
+[^212]: A 41. § a 14/2003. (II. 12.) Korm. rendelet 21. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^213]: A 41. § (1) bekezdés nyitó szövegrésze a 173/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
+[^214]: A 41. § (1) bekezdés a) pontja a 97/2013. (III. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^215]: A 41. § (1) bekezdése b) pontjának bd) alpontja a 251/2006. (XII. 6.) Korm. rendelet 21. § (6) bekezdése b) alpontjának bc) alpontja szerint módosított szöveg. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^216]: A 41. § (1) bekezdés c) pontját a 70/2014. (III. 13.) Korm. rendelet 25. § (1) bekezdése iktatta be.
+[^217]: A 41. § (1a) bekezdését a 97/2013. (III. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 22. pontja szerint módosított szöveg.
+[^218]: A 41. § (1b) bekezdését a 70/2014. (III. 13.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^219]: A 41. § (2) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
+[^220]: A 41. § (2) bekezdés a) pontja a 97/2013. (III. 29.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^221]: A 41. § (2) bekezdés b) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^222]: A 41. § (2) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^223]: A 41. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
+[^224]: A 41. § (3a) bekezdését a 70/2014. (III. 13.) Korm. rendelet 25. § (5) bekezdése iktatta be.
+[^225]: A 41. § (4) bekezdése a 70/2014. (III. 13.) Korm. rendelet 25. § (6) bekezdésével megállapított szöveg.
+[^226]: A 41. § (5) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
+[^227]: A 41. § (5) bekezdés a) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (7) bekezdésével megállapított szöveg.
+[^228]: A 41. § (5) bekezdés b) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (7) bekezdésével megállapított szöveg.
+[^229]: A 41. § (5) bekezdés c) pontja a 97/2013. (III. 29.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^230]: A 41. § (5) bekezdés e) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (8) bekezdésével megállapított szöveg.
+[^231]: A 41. § (5) bekezdés g) pontját a 97/2013. (III. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 25. § (9) bekezdésével megállapított szöveg.

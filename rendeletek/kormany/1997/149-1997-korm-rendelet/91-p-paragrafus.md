@@ -1,3 +1,15 @@
-## 91/O. §[^628]
+91/P. § (1) A megelőző pártfogás mellőzése esetén a gyámhivatal a döntését a gyermek védelembe vételétől függetlenül a döntés jogerőre emelkedésétől számított hat hónap elteltével a Gyvt. 68/D. § (5) bekezdésének megfelelően hivatalból felülvizsgálja.
 
-[^628]: A 91/O. §-t a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontja.
+(2) A megelőző pártfogás mellőzésének felülvizsgálata során a gyámhivatal
+
+a) beszerzi a gyermekjóléti szolgálat javaslatát,
+
+b) meghallgatja a gyermeket és a szülőt vagy más törvényes képviselőt, és
+
+c) – ha azt észleli, hogy a bűnismétlés kockázata megnövekedett – megkeresheti a pártfogó felügyelői szolgálatot ismételt, a megváltozott körülmények vizsgálatára irányuló kockázatértékelés elkészítése érdekében.
+
+(3) A megelőző pártfogás mellőzésének felülvizsgálata eredményeként a gyámhivatal dönt
+
+a) a megelőző pártfogás iránti eljárás megszüntetéséről, vagy
+
+b) a megelőző pártfogás elrendeléséről, és ezzel egyidejűleg a védelembe vétel alatt nem álló gyermek védelembe vételéről.

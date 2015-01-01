@@ -1,6 +1,6 @@
 ## Hozzájárulások pótlása
 
-57. § (1)[^360] A korlátozottan cselekvőképes kiskorú vagy a cselekvőképességében a származás megállapításával összefüggő jognyilatkozatok tekintetében részlegesen korlátozott személy elismerő nyilatkozatának érvényességéhez a Ptk. 4:101. § (4) bekezdése szerint szükséges törvényes képviselői nyilatkozat pótlását az elismerő nyilatkozatot tevő férfi vagy a gyermek kérheti.
+57. § (1)[^361] A korlátozottan cselekvőképes kiskorú vagy a cselekvőképességében a származás megállapításával összefüggő jognyilatkozatok tekintetében részlegesen korlátozott személy elismerő nyilatkozatának érvényességéhez a Ptk. 4:101. § (4) bekezdése szerint szükséges törvényes képviselői nyilatkozat pótlását az elismerő nyilatkozatot tevő férfi vagy a gyermek kérheti.
 
 (2) A nyilatkozat teljes hatályához szükséges
 
@@ -10,12 +10,12 @@ b) gyermeki hozzájárulás pótlását a nyilatkozatot tevő férfi és az anya
 
 kérheti.
 
-(3)[^361] Ha a törvényes képviselő a hozzájárulás megadásában gátolva van, továbbá, ha az anya, illetőleg a gyermek nem él, vagy nyilatkozatának megtételében tartósan gátolva van, ennek tényét igazolni kell. Azt a tényt, hogy a törvényes képviselő a hozzájárulást nem adja meg, jegyzőkönyvben kell rögzíteni.
+(3)[^362] Ha a törvényes képviselő a hozzájárulás megadásában gátolva van, továbbá, ha az anya, illetőleg a gyermek nem él, vagy nyilatkozatának megtételében tartósan gátolva van, ennek tényét igazolni kell. Azt a tényt, hogy a törvényes képviselő a hozzájárulást nem adja meg, jegyzőkönyvben kell rögzíteni.
 
 (4) A gyámhivatal hozzájárulásának megadását a nyilatkozatot tevő férfi, az anya vagy más törvényes képviselő, a gyermek, továbbá a jegyző, a bíróság vagy az anyakönyvvezető kérheti.
 
-(5)[^362] A gyámhivatal abban az esetben pótolja a hiányzó hozzájárulást, ha az apai elismerő nyilatkozat teljes hatályúvá válása a gyermek érdekével nem ellentétes.
+(5)[^363] A gyámhivatal abban az esetben pótolja a hiányzó hozzájárulást, ha az apai elismerő nyilatkozat teljes hatályúvá válása a gyermek érdekével nem ellentétes.
 
-[^360]: Az 57. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^361]: Az 57. § (3) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
-[^362]: Az 57. § (5) bekezdését a 70/2014. (III. 13.) Korm. rendelet 45. § (2) bekezdése iktatta be.
+[^361]: Az 57. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^362]: Az 57. § (3) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^363]: Az 57. § (5) bekezdését a 70/2014. (III. 13.) Korm. rendelet 45. § (2) bekezdése iktatta be.

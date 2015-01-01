@@ -1,3 +1,19 @@
-## 91/L. §[^625]
+## A határozat tartalma
 
-[^625]: A 91/L. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés a) pontja.
+91/M. § (1) A megelőző pártfogás elrendeléséről szóló határozat rendelkező része a 14. §-ban, valamint – ha a határozattal a védelembe vétel elrendelésére is sor kerül – a 87. §-ban foglaltakon kívül tartalmazza
+
+a) a Gyvt. 68/D. § (6) bekezdése szerint megállapított magatartási szabályokat, annak meghatározásával, hogy mely magatartási szabályok teljesítését ellenőrzi a megelőző pártfogó felügyelő,
+
+b) a szülő vagy más törvényes képviselő és a gyermek kötelezését a megállapított magatartási szabályok betartására és a megelőző pártfogó felügyelővel való együttműködésre,
+
+c) a megelőző pártfogó felügyelővel történő személyes találkozás gyakoriságát,
+
+d) a pártfogó felügyelői szolgálat megkeresését a megelőző pártfogó felügyelő kijelölésére,
+
+e) a szülő vagy más törvényes képviselő és a gyermek figyelmeztetését a megelőző pártfogó felügyelővel való együttműködés megtagadásának jogkövetkezményeire,
+
+f) a megelőző pártfogás felülvizsgálatának határidejét,
+
+g) a kirendelt családgondozó, a megelőző pártfogó felügyelő, a korlátozottan cselekvőképes gyermek, a szülő vagy más törvényes képviselő tájékoztatását arról, hogy a Gyvt. 68/D. § (9) bekezdésében foglaltak szerint kezdeményezhetik a megelőző pártfogás felülvizsgálatát.
+
+(2) A gyámhivatal az eset összes körülményének és a megelőző pártfogó felügyelőként kijelölhető személy javaslatának figyelembevételével úgy határozza meg a megelőző pártfogó felügyelővel történő személyes találkozás gyakoriságát, hogy arra havonta legalább egy alkalommal sor kerüljön.

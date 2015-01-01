@@ -28,7 +28,7 @@ k)[^10] a büntetőjogi felelősségre nem vonható 12, illetve 14 év alatti el
 
 (3) A szociális és gyámhivatal a (2) bekezdés szerinti jelentés elkészítéséhez tájékoztatást kér
 
-a)[^11] a pártfogó felügyelői feladatokat ellátó illetékes fővárosi, megyei igazságügyi szolgálattól, a rendőrségtől, valamint a gyámhivataltól és a gyermekjóléti szolgálattól, a speciális gyermekotthontól, a javítóintézettől a gyermekkorú, illetve fiatalkorú bűnelkövetők számáról, az általuk elkövetett bűncselekményekről, azok okairól,
+a)[^11] a rendőrségtől, a gyámhivataltól, a gyermekjóléti szolgálattól, a speciális gyermekotthontól és a javítóintézettől a gyermekkorú, fiatalkorú bűnelkövetők számáról, az általuk elkövetett bűncselekményekről és azok okairól, valamint a pártfogó felügyelői szolgálattól a fiatalkorúak pártfogó felügyelete és a megelőző pártfogás tapasztalatairól,
 
 b) a gyermekjóléti szolgálattól a családgondozás és a védelembe vétel eredményéről.
 
@@ -41,5 +41,5 @@ b) a gyermekjóléti szolgálattól a családgondozás és a védelembe vétel e
 [^8]: Az 5/A. § (1) bekezdés a) pontja a 297/2013. (VII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^9]: Az 5/A. § (1) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^10]: Az 5/A. § k) pontja a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 1. pontja, a 172/2013. (V. 30.) Korm. rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^11]: Az 5/A. § (3) bekezdés a) pontja a 237/2010. (IX. 13.) Korm. rendelet 15. § a) pontja, a 360/2010. (XII. 30.) Korm. rendelet 25. § 1. pontja, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 2. pontja szerint módosított szöveg.
+[^11]: Az 5/A. § (3) bekezdés a) pontja a 353/2014. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^12]: Az 5/A. § (4) bekezdése a 258/2011. (XII. 7.) Korm. rendelet 29. § (2) bekezdésével megállapított, a 349/2012. (XII. 12.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
