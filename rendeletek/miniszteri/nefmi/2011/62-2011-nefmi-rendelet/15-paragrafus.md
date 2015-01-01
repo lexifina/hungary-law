@@ -16,6 +16,6 @@ számított 15 napon belül ki kell írni.
 
 (3) Az időközi pályázat lebonyolítására az általános pályázati eljárásra irányadó szabályokat kell alkalmazni azzal, hogy a pályázati kiírásban a finanszírozási időszak megjelölése helyett a finanszírozás időközi pályázat szerinti kezdő és a finanszírozási időszak befejező időpontját kell megjelölni.
 
-(4) Ha az időközi pályázat kiírásakor a siketvak személyek számára az ország egész területére kiterjedően nyújtott tolmácsszolgáltatás biztosított, úgy a 10. § (4) bekezdés i) pontját, a 13. § (4) bekezdését, valamint a 14. § (4) bekezdés c) pont cc) alpontját nem kell alkalmazni.
+(4)–(5)[^10]
 
-(5) Ha kizárólag a siketvak személyek számára az ország egész területére kiterjedően nyújtott tolmácsszolgáltatás nem biztosított, úgy erre a feladatra az időközi pályázatot kizárólag az egyes ellátási területeket ellátó fenntartók részvételével kell kiírni. A pályázat meghívásos jellegét a pályázati kiírásban is meg kell jelölni.
+[^10]: A 15. § (4)–(5) bekezdését a 48. § (2) bekezdés e) pontja hatályon kívül helyezte.

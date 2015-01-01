@@ -6,7 +6,7 @@ b) a tolmácsszolgálat és annak munkatársai által használt eszközök szám
 
 c) a tolmácsszolgálat által ellátott tolmácsolási módok,
 
-d) siketvak személyek számára történő tolmácsszolgáltatás vállalása, illetve az ahhoz szükséges szakmai feltételek teljesítése,
+d)[^8]
 
 e) a költségterv belső arányai, megalapozottsága,
 
@@ -36,9 +36,7 @@ c) nyertes pályázat esetén
 
 ca) az ellátási területet,
 
-cb) hogy siketvak személyek számára történő tolmácsszolgáltatást ellátási területén végez-e,
-
-cc) hogy siketvak személyek számára történő tolmácsszolgáltatást az egész ország területén végez-e,
+cb)–cc)[^9]
 
 cd) az első költségvetési évre vonatkozó alaptámogatás összegét,
 
@@ -59,3 +57,6 @@ b) a finanszírozási szerződés a döntésről szóló értesítésben megjel�
 c) a pályázó a pályázatban vagy az ahhoz csatolt dokumentumokban szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott, – feltéve, hogy a valós adatok, tények, körülmények ismeretében a pályázat nem került volna támogatásra – a módszertani központ erről történő tudomásszerzésének napjával.
 
 (6) Az (5) bekezdés b), illetve c) pontja szerinti körülmény fennállásáról a módszertani központ – a finanszírozási szerződés megkötésére megjelölt határidő leteltét, illetve a valótlan adat közléséről, jelentős tény, körülmény elhallgatásáról történő tudomásszerzést követő 5 napon belül – írásban értesíti a pályázót.
+
+[^8]: A 14. § (1) bekezdés d) pontját a 48. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^9]: A 14. § (4) bekezdés c) pont cb)–cc) alpontját a 48. § (2) bekezdés d) pontja hatályon kívül helyezte.

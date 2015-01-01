@@ -28,9 +28,7 @@ e) a tolmácsszolgálat által teljesítendő általános működési, személyi
 
 f) az ellátási területet,
 
-g) hogy siketvak személyek számára történő tolmácsszolgáltatást ellátási területén végez-e,
-
-h) hogy siketvak személyek számára történő tolmácsszolgáltatást az ország egész területére kiterjedően végez-e,
+g)–h)[^11]
 
 i) a tárgyév április 1-jétől a következő év március 31-éig meghatározott alaptámogatás összegét, annak általános forgalmi adó tartalmát,
 
@@ -51,3 +49,5 @@ p) az elszámolás és az ellenőrzés rendjét,
 q) a fenntartó és a tolmácsszolgálat 35. § szerinti nyilvántartási, valamint ellenőrzéssel kapcsolatos kötelezettségeit,
 
 r) a szerződésszegés következményeit.
+
+[^11]: A 16. § (6) bekezdés g)–h) pontját a 48. § (2) bekezdés f) pontja hatályon kívül helyezte.
