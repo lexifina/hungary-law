@@ -780,7 +780,7 @@ középiskolai végzettség és közgazdasági, műszaki, kereskedelmi, vendégl
 
 45.[^40] Ingatlan-nyilvántartási, földmérési és térképészeti, földminősítési és földvédelmi, földhasználati nyilvántartási feladatkör
 
-Ingatlan-nyilvántartási feladatkör
+45.1. Ingatlan-nyilvántartási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -790,23 +790,69 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és az OKJ szerint: ingatlan-nyilvántartási titkár, jogi asszisztens, ingatlan-nyilvántartási ügyintéző szakképesítés.
 
-Földmérési és térképészeti feladatkör
+45.2. Földmérési és térképészeti feladatkör:
 
 Az I. besorolási osztályban:
 
-okleveles földmérő és térinformatikai mérnök, birtokrendező mérnök szakképzettség; egyetemi szintű földmérő és térinformatikai mérnök, erdőmérnök szakképzettség; főiskolai szintű földmérő mérnök, földrendező mérnök szakképzettség.
+a) egyetemi szintű végzettség és:
+
+aa) okleveles földmérő mérnök,
+
+ab) földmérő szakon szerzett okleveles mérnök,
+
+ac) földmérő mérnöki szakon szerzett okleveles építőmérnök,
+
+ad) földmérő mérnöki szakon szerzett okleveles földmérő és térinformatikai mérnök
+
+szakképzettség;
+
+b) főiskolai szintű végzettség és:
+
+ba) földmérő üzemmérnök,
+
+bb) földrendező üzemmérnök,
+
+bc) földmérő mérnök,
+
+bd) földrendező mérnök,
+
+be) okleveles földmérő és térinformatikai mérnök,
+
+bf) építőmérnöki szak geoinformatika-építőmérnök ágazaton szerzett mérnök,
+
+bg) építőmérnöki szak térinformatikai szakirányon szerzett mérnök,
+
+bh) földmérő és földrendező mérnök geoinformatikai vagy földrendező szakirányon,
+
+bi) a bf) alpontnak megfelelő specializáción szerzett építőmérnök,
+
+bj) a bh) alpontnak megfelelő specializáción szerzett földmérő és földrendező mérnök
+
+szakképzettség,
+
+c) azok a mérnök, üzemmérnök vagy okleveles mérnök szakképzettséggel rendelkezők, akik ingatlanrendező minősítéssel rendelkeznek.
 
 A II. besorolási osztályban:
 
 középiskolai végzettség és az OKJ szerint: földmérő technikus, földmérő és térinformatikai technikus, földmérő, térképész és térinformatikai technikus földmérő technikus elágazáson, földügyi térinformatikai szaktechnikus, kataszteri szaktechnikus, létesítménygeodéta szaktechnikus, távérzékelési szaktechnikus szakképesítés; egyéb szaktechnikusi, technikusi vagy szakközépiskolai végzettség, ahol a képesítő (érettségi) tárgyak között a földmérés szerepel.
 
-Földminősítési és földvédelmi, valamint földhasználati és nyilvántartási feladatkör
+45.3. Földminősítési és földvédelmi, valamint földhasználati és nyilvántartási feladatkör
 
 Az I. besorolási osztályban:
 
-okleveles környezetmérnök, okleveles agrármérnök, okleveles kertészmérnök, okleveles mezőgazdasági vízgazdálkodási mérnök, okleveles növényorvos, okleveles növénytermesztő mérnök, okleveles vidékfejlesztési agrármérnök, okleveles természetvédelmi mérnök szakképzettség; egyetemi szintű növényorvos, agrárkémikus agrármérnök, agrármérnök, informatikus agrármérnök, gazdasági agrármérnök, területfejlesztési mérnök, erdőmérnök, tájépítész mérnök, jogász, szakképzettség; egyetemi vagy főiskolai szintű vidékfejlesztési agrármérnök, környezetgazdálkodási agrármérnök, mérnöktanár, kertészmérnök szakképzettség; főiskolai szintű növénytermesztési mérnök, agrár szakoktató, mezőgazdasági mérnök, természetvédelmi mérnök, mezőgazdasági szakigazgatási szervező mérnök, agrármenedzser, gazdasági mérnök, vállalkozó menedzser, tájgazdálkodási mérnök, meliorációs mérnök, ingatlan-nyilvántartási szervező, igazságügyi ügyintéző vagy államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség.
+okleveles környezetmérnök, okleveles agrármérnök, okleveles környezetgazdálkodási agrármérnök, okleveles kertészmérnök, okleveles mezőgazdasági vízgazdálkodási mérnök, okleveles növényorvos, okleveles növénytermesztő mérnök, okleveles vidékfejlesztő agrármérnök, okleveles természetvédelmi mérnök, okleveles agrárkémikus agrármérnök, okleveles informatikus agrármérnök, okleveles gazdasági agrármérnök, okleveles erdőmérnök, okleveles mérnöktanár, okleveles tájépítész mérnök, jogász, okleveles geográfus, növényvédelmi mérnök, vidékfejlesztési agrármérnök, környezetgazdálkodási agrármérnök, mérnöktanár, erdőmérnök, kertészmérnök növénytermesztési mérnök, növénytermesztő mérnök, agrár szakoktató, mezőgazdasági mérnök, természetvédelmi mérnök, mezőgazdasági szakigazgatási szervező mérnök, agrármenedzser, gazdasági mérnök, vállalkozó-menedzser, tájgazdálkodási mérnök, területfejlesztési mérnök, meliorációs mérnök, öntözéses üzemmérnök, meliorációs üzemmérnök, ingatlan-nyilvántartási szervező, igazságügyi ügyintéző vagy államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség.
 
-Földhasználati nyilvántartási feladatkör
+45.4. Földhasználati nyilvántartási feladatkör
+
+A II. besorolási osztályban:
+
+középiskolai végzettség és az OKJ szerint: ingatlan-nyilvántartási titkár, jogi asszisztens, ingatlan-nyilvántartási ügyintéző szakképesítés.
+
+45.5. Földforgalmi és földműves nyilvántartási feladatkör
+
+Az I. besorolási osztályban:
+
+jogász szakképzettség; főiskolai szintű ingatlan-nyilvántartási szervező, igazságügyi ügyintéző, államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség.
 
 A II. besorolási osztályban:
 
@@ -1831,7 +1877,7 @@ középiskolai végzettség és közgazdasági, pénzügyi-számviteli szakképe
 [^37]: A 2. melléklet II. pont 6. alpontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^38]: A 3. melléklet 27. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^39]: A 3. melléklet 38. pontja a 322/2012. (XI. 16.) Korm. rendelet 108. § c) pontja, a 342/2014. (XII. 19.) Korm. rendelet 10. § f) pontja és 11. § a) pontja szerint módosított szöveg.
-[^40]: A 3. melléklet 45. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 342/2014. (XII. 19.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^40]: A 3. melléklet 45. pontja a 373/2014. (XII. 31.) Korm. rendelet 51. §-ával megállapított szöveg.
 [^41]: A 3. melléklet 47. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^42]: A 3. melléklet 48. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^43]: A 3. melléklet 54. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
