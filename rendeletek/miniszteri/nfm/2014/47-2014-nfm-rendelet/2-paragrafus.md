@@ -1,0 +1,3 @@
+## 1. § A magyar légtér igénybevételéért fizetendő díjról szóló 84/2011. (XII. 29.) NFM rendelet (a továbbiakban: Rendelet) 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló 2013. május 3-i 391/2013/EU bizottsági végrehajtási rendelet (a továbbiakban: 391/2013/EU bizottsági végrehajtási rendelet) 8. cikk (2) bekezdés második albekezdésében meghatározott kritériumokat a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerének létrehozásáról szóló 2013. május 3-i 390/2013/EU bizottsági végrehajtási rendeletben meghatározott teljesítménytervben kell meghatározni.”
