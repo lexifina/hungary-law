@@ -34,7 +34,7 @@ b) a futamidő alatt az egyik fél kérésére az ügyletet értékelik és a sz
 
 14.[^4] monetáris célból tartott értékpapír: a Magyar Nemzeti Bank monetáris politikájának megvalósítása céljából vásárolt értékpapír;
 
-15.[^5] monetáris célból kötött swap ügylet: belföldön, belföldi hitelintézetekkel, a monetáris politikai eszköztár részeként kötött, deviza-forint swap ügylet;
+15.[^5] monetáris célból kötött swap ügylet: belföldön, belföldi hitelintézetekkel, a monetáris politikai eszköztár részeként kötött swap ügylet;
 
 16.[^6]
 
@@ -48,7 +48,7 @@ b) a futamidő alatt az egyik fél kérésére az ügyletet értékelik és a sz
 [^2]: A 2. § 9. pontja a 236/2001. (XII. 10.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg, a meghatározást e módosító rendelet 10. §-ának b) pontja alapján először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^3]: A 2. § 12. pontja a 236/2001. (XII. 10.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg, a meghatározást e módosító rendelet 10. §-ának b) pontja alapján először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^4]: A 2. § 14. pontja a 345/2010. (XII. 28.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^5]: A 2. § 15. pontja az 518/2013. (XII. 30.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^5]: A 2. § 15. pontja az 518/2013. (XII. 30.) Korm. rendelet 10. §-a, a 362/2014. (XII. 30.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
 [^6]: A 2. § 16. pontját a 236/2001. (XII. 10.) Korm. rendelet 12. §-a hatályon kívül helyezte.
 [^7]: A 2. § 18. pontját a 236/2001. (XII. 10.) Korm. rendelet 1. §-ának (3) bekezdése iktatta be, szövege a 331/2008. (XII. 30.) Korm. rendelet 38. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
 [^8]: A 2. § 19. pontját a 114/2012. (VI. 8.) Korm. rendelet 1. §-a iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
