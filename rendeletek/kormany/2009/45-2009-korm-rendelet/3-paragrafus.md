@@ -144,4 +144,6 @@
 
 3. § (1) E rendelet a kihirdetését követő napon lép hatályba.
 
-(2) A Megállapodás végrehajtásáról a kutatás-fejlesztésért felelős miniszter gondoskodik.
+(2)[^1] A Megállapodás végrehajtásáról a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke gondoskodik.
+
+[^1]: A 3. § (2) bekezdése a 381/2014. (XII. 31.) Korm. rendelet 15. §-a szerint módosított szöveg.
