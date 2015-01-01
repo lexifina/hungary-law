@@ -2,7 +2,7 @@
 
 3. § E törvény alkalmazásában
 
-a) foglalkoztatási jogviszony: a munkaviszony, a közszolgálati jogviszony, a közalkalmazotti jogviszony, a bírósági szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonya, az ügyészségi szolgálati jogviszony, a hivatásos és szerződéses szolgálati jogviszony, a hivatásos nevelőszülői jogviszony,
+a) foglalkoztatási jogviszony: a munkaviszony, a közszolgálati jogviszony, a közalkalmazotti jogviszony, a bírósági szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonya, az ügyészségi szolgálati jogviszony, a hivatásos és szerződéses szolgálati jogviszony, a nevelőszülői foglalkoztatási jogviszony,
 
 b) munkavégzésre irányuló egyéb jogviszony: a bedolgozói munkaviszony, a munkavégzésre irányuló vállalkozási és megbízási szerződés alapján létrejött jogviszony, a szakcsoporti tagsági viszony, valamint a szövetkezeti tagsági viszonynak, továbbá a személyes közreműködéssel járó gazdasági és polgári jogi társasági tevékenységnek a munkavégzésre irányuló elemei,
 
