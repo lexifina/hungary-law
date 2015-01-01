@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-196-00-00
 | 2013-01-02 | 2010. évi CXXX. törvény | 2012-196-00-00.5 |
 | 2013-12-26 | 2013. évi CCXXXVI. törvény | 2012-196-00-00.6 |
 | 2013-12-31 | 2013. évi CCIII. törvény | 2012-196-00-00.7 |
+| 2015-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-196-00-00.8 |
