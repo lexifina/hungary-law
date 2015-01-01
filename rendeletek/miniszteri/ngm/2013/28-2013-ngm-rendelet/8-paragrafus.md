@@ -32,7 +32,17 @@ b) a nem közérdeklődésre számot tartó gazdálkodók egyedi megbízásai mi
 
 (9) A „megfelelt, megjegyzéssel” zárult minőségellenőrzés esetén a közfelügyeleti hatóság a következő intézkedéseket alkalmazhatja: kötelezés továbbképzésen való részvételre, figyelmeztetés az előírásoknak nem megfelelő gyakorlat megszüntetésére.
 
-(10) A „nem felelt meg” eredménnyel zárult minőségellenőrzés esetén a közfelügyeleti hatóság a következő intézkedéseket alkalmazhatja: kötelezés továbbképzésen való részvételre, figyelmeztetés az előírásoknak nem megfelelő gyakorlat megszüntetésére, fegyelmi eljárás kezdeményezése a Magyar Könyvvizsgálói Kamara illetékes testületénél.
+(10)[^11] A „nem felelt meg” eredménnyel zárult minőségellenőrzés esetén a közfelügyeleti hatóság a következő intézkedéseket alkalmazhatja:
+
+1. kötelezés továbbképzésen való részvételre,
+
+2. figyelmeztetés az előírásoknak nem megfelelő gyakorlat megszüntetésére,
+
+3. fegyelmi eljárás kezdeményezése a Magyar Könyvvizsgálói Kamara illetékes testületénél,
+
+4. kötelezés könyvvizsgálat ismételt elvégzésére vagy
+
+5. a könyvvizsgálói jelentés visszavonására.
 
 (11) A könyvvizsgáló cég belső minőségellenőrzési rendszerére vonatkozó minőségellenőrzés eredményének minősítésénél figyelembe kell venni a megelőző belső minőségellenőrzési rendszerre vonatkozó minőségellenőrzés óta lefolytatott, az ellenőrzött könyvvizsgáló cégnél alkalmazott, tag vagy vezető tisztségviselő kamarai tag könyvvizsgálók egyedi megbízásai minőségellenőrzésének eredményét.
 
@@ -40,4 +50,7 @@ b) a nem közérdeklődésre számot tartó gazdálkodók egyedi megbízásai mi
 
 (13) Amennyiben a belső minőségellenőrzési rendszer értékelése „nem felelt meg” eredménnyel zárult, a közfelügyeleti hatóság a 2. § szerint újabb minőségellenőrzési eljárást rendel el, vagy a minőségellenőrzés lezárását követő évben utóellenőrzést tart.
 
-(14) Amennyiben két egymást követő minőségellenőrzés eredménye „nem felelt meg” eredménnyel zárul, a közfelügyeleti hatóság fegyelmi eljárást kezdeményez a Magyar Könyvvizsgálói Kamara illetékes testületénél.
+(14)[^12]
+
+[^11]: A 8. § (10) bekezdése a 46/2014. (XII. 30.) NGM rendelet 12. §-ával megállapított szöveg.
+[^12]: A 8. § (14) bekezdését a 46/2014. (XII. 30.) NGM rendelet 16. § c) pontja hatályon kívül helyezte.

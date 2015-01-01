@@ -26,7 +26,9 @@
 
 | 1 | 08 | Vizsgálja meg, hogy az elfogadó nyilatkozat megfelel-e az előírásoknak, ill. megtörtént-e a megválasztás cégbírósági bejegyzése? Értelmezés: Az elfogadó nyilatkozatok • időtartama és dátuma összhangban van-e a taggyűlési/közgyűlési határozattal? • ha nem történt meg a cégbírósági bejelentés, a könyvvizsgáló jelezte-e írásban az ügyfél vezetésének? |  |  |  |
 
-| 1 | 09 | Ellenőrízték és betartották-e hitelintézetek és pénzügyi vállalkozások esetén a Hpt. 133. §-ban, a befektetési alapok esetén a Tpt. 358. §-ban, valamint a befektetési alapkezelőkről és kollektív befektetési formákról szóló 2011. évi CXCIII. tv. 144. §-ban, továbbá biztosítók esetén a Bit. 149. §-ban foglalt korlátozásokat (megfelelő minősítés, függetlenség, 5 éves rotáció, maximális ügyfélszám, egy típusú ügyféltől származó maximális díjbevétel, stb.) | Hpt. 133. §, Tpt. 358. § Bef.alap tv. 144. §, Bit.149. § |  |  |
+| 1 | 09 | Ellenőrizték és betartották-e hitelintézetek és pénzügyi vállalkozások esetén a Hpt. 260. §-ban, a befektetési alapok esetén a Tpt. 358. §-ban, valamint a befektetési alapkezelőkről és kollektív befektetési formákról szóló 2014. évi XVI. tv. 193. §-ban, továbbá biztosítók esetén a Bit. 149. §-ban foglalt korlátozásokat (megfelelő minősítés, függetlenség, 5 éves rotáció, maximális ügyfélszám, egy típusú ügyféltől származó maximális díjbevétel, stb.) | Hpt. 260. §, Tpt. 358. §, 2014. évi XVI. tv. 193. §, Bit. 149. § |  |  |
+
+| 1 | 10 | A könyvvizsgálati megbízás elfogadása és/vagy végrehajtása során betartotta-e a könyvvizsgáló a releváns jogszabályokat? |  |  |  |
 
 | 2 |  | Dokumentáció |  | Megfelel? | Megjegyzés |
 
@@ -52,7 +54,7 @@
 
 | 2 | 09 | Tartalmaz-e a dosszié egy végleges aláírt éves beszámolót, üzleti jelentést és könyvvizsgálói jelentést? |  |  |  |
 
-| 2 | 10 | Történt-e külön jelentéstétel a felügyeletnek a Hpt. 134. §, valamint a befektetési alapkezelőkről és kollektív befektetési formákról szóló 2011. évi CXCIII. tv. 145. §-ban ill. a Bit. 151.§. (1)-(2) bekezdése alapján (bűncselekmény, szabályok megsértése, stb. esetén)? Amennyiben igen, megfelelően dokumentálták-e az esetet? | Hpt. 134. §, Bef.alap tv. 145. §, Bit 151. § |  |  |
+| 2 | 10 | Történt-e külön jelentéstétel a felügyeletnek a Hpt. 261. §, valamint a befektetési alapkezelőkről és kollektív befektetési formákról szóló 2014. évi XVI. tv. 194. §-ban, illetve a Bit. 151. § (1)-(2) bekezdése alapján (bűncselekmény, szabályok megsértése, stb. esetén)? Amennyiben igen, megfelelően dokumentálták-e az esetet? | Hpt. 261. §, 2014. évi XVI. tv. 194. §, Bit. 151. § |  |  |
 
 | 3 |  | A könyvvizsgáló csalással összefüggő felelőssége a pénzügyi kimutatások könyvvizsgálatánál |  | Megfelel? | Megjegyzés |
 
@@ -446,7 +448,7 @@
 
 | 13 | 16 | Azonosított-e a könyvvizsgáló a tulajdonosok részére kibocsátott éves jelentéseket, vagy hasonló auditált pénzügyi kimutatásokat és a könyvvizsgálói jelentést tartalmazó dokumentumokat? Amennyiben igen • megállapodott-e a vezetéssel/irányítással megbízottakkal a jelentés megszerzéséről annak dátuma előtt? • elvégezte-e a könyvvizsgáló a standardban foglalt eljárásokat? | 720.6-13 A5 |  |  |
 
-| 13 | 17 | Eleget tett-e a könyvvizsgáló hitelintézetek és pénzügyi vállalkozások esetén a Hpt. 136. §-ban, valamint biztosítók esetén a Bit 151.§ (5)-(8) bekezdésében foglaltaknak? (külön jelentés többek között az MNB-nek) | Hpt. 136 .§, Bit. 151. § |  |  |
+| 13 | 17 | Eleget tett-e a könyvvizsgáló hitelintézetek és pénzügyi vállalkozások esetén a Hpt. 263. §-ban, valamint biztosítók esetén a Bit. 151. § (5)-(8) bekezdésében foglaltaknak? (külön jelentés az MNB-nek) | Hpt. 263. §, Bit. 151. § |  |  |
 
 | 14 |  | Áttekintés, konzultáció, minőségellenőrzés |  | Megfelel? | Megjegyzés |
 
@@ -594,9 +596,9 @@
 
 | 15 | 52 | Beszerezték-e az IFRS konszolidált beszámoló könyvvizsgálatához a külön teljességi nyilatkozat? |  |  |  |
 
-| 15 | 53 | A kiadott könyvvizsgálói jelentés megfelel-e a standardoknak? Megjegyzés: Ha az IFRS szerinti konszolidált beszámoló megfelel a számviteli törvény szerinti konszolidált beszámolónak, a számviteli törvény szerinti ("részei és tételei" szövegű) jelentést kell kiadni (abban utalva az üzleti jelentés és a beszámoló összhangjára is), Ha az IFRS szerinti konszolidált beszámoló nem a számviteli törvény szerinti konszolidált beszámoló, a jelentés lehet az általános könyvvizsgálati standard szerinti. |  |  |  |
+| 15 | 53 | A kiadott könyvvizsgálói jelentés megfelel-e a standardoknak? Megjegyzés: Ha az IFRS szerinti konszolidált beszámoló megfelel a számviteli törvény szerinti konszolidált beszámolónak, a számviteli törvény szerinti jelentést kell kiadni (abban utalva az üzleti jelentés és a beszámoló összhangjára is). Ha az IFRS szerinti konszolidált beszámoló nem a számviteli törvény szerinti konszolidált beszámoló, a jelentés lehet az általános könyvvizsgálati standard szerinti. |  |  |  |
 
-## • Amennyiben a 13.02, 13.05 és 13.06 kérdések bármelyikére NEM a válasz akkor az egyedi megbízás vizsgálatának eredménye „nem felel meg”.
+## • Amennyiben az 1.10, a 13.02, 13.05 és 13.06 kérdések bármelyikére NEM a válasz akkor az egyedi megbízás vizsgálatának eredménye „nem felel meg”.
 
 ## • Amennyiben az igen válaszok aránya az összes válaszhoz viszonyítva 90% vagy a fölötti, akkor az egyedi megbízás minősítése „megfelel”. 70% és 90% között a minősítés „megjegyzéssel megfelel”, 70% alatt pedig „nem felel meg”.
 

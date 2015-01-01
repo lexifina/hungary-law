@@ -6,12 +6,16 @@
 
 (3) Az ellenőr a minőségellenőrzést az 1–3. mellékletben szereplő kérdőívek alapján folytatja le.
 
-(4) Az ellenőr a helyszíni ellenőrzés lezárását megelőzően megvitatja a minőségellenőrzés várható megállapításait az ellenőrzött könyvvizsgálóval, valamint az ellenőrzött könyvvizsgáló cég képviselőjével.
+(4)[^8]
 
 (5) Az ellenőr a helyszíni vizsgálat befejezésekor jegyzőkönyvet és az esetlegesen a könyvvizsgálati dokumentációból másolatban átvett anyagok felsorolását tartalmazó dokumentumjegyzéket készít, melyet mindkét fél aláír. A jegyzőkönyv és a dokumentumjegyzék egy-egy példányát az ellenőrzött is megkapja a helyszínen.
 
-(6) Az ellenőr által készített záró jelentés tartalmazza valamennyi vizsgált könyvvizsgálóra vonatkozóan az ellenőrzött egyedi megbízások értékelését, továbbá ha sor került a könyvvizsgáló cég belső minőségellenőrzési rendszerének ellenőrzésére, akkor a könyvvizsgáló cégre vonatkozóan a minőségellenőrzési rendszer értékelését. A záró jelentés mellékletét képezik a nyilatkozatok, a jegyzőkönyv, a dokumentumjegyzék és a bizonyítékként szolgáló másolati dokumentumok.
+(6)[^9] Az ellenőr által készített záró jelentés tartalmazza valamennyi vizsgált könyvvizsgálóra vonatkozóan az ellenőrzött egyedi megbízások értékelését, továbbá ha sor került a könyvvizsgáló cég belső minőségellenőrzési rendszerének ellenőrzésére, akkor a könyvvizsgáló cégre vonatkozóan a minőségellenőrzési rendszer értékelését. A záró jelentés mellékletét képezik a kérdőívek és a nyilatkozatok.
 
 (7) Az ellenőrnek a záró jelentésben az egyedi megbízások ellenőrzése során tapasztalt hiányosságok esetén azok kijavítására, valamint az ellenőrzött által működtetett belső minőségellenőrzési rendszer, illetve alkalmazott minőségellenőrzési eljárások fejlesztésére is javaslatot kell tennie.
 
-(8) A záró jelentést az ellenőrzés lezárását követően a közfelügyeleti hatóság 15 napon belül továbbítja az ellenőrzés alá vont könyvvizsgáló, könyvvizsgáló cég részére.
+(8)[^10]
+
+[^8]: A 7. § (4) bekezdését a 46/2014. (XII. 30.) NGM rendelet 16. § a) pontja hatályon kívül helyezte.
+[^9]: A 7. § (6) bekezdése a 46/2014. (XII. 30.) NGM rendelet 11. §-ával megállapított szöveg.
+[^10]: A 7. § (8) bekezdését a 46/2014. (XII. 30.) NGM rendelet 16. § b) pontja hatályon kívül helyezte.
