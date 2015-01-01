@@ -134,6 +134,6 @@
 
 | E-mail: |  |
 
-4. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^121]
+4. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^118]
 
-[^121]: A 4. melléklet a 129/2014. (IV. 10.) Korm. rendelet 12. § 29. pontja szerint módosított szöveg.
+[^118]: A 4. melléklet a 129/2014. (IV. 10.) Korm. rendelet 12. § 29. pontja szerint módosított szöveg.

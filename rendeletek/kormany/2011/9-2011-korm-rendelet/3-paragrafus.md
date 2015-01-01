@@ -10,7 +10,7 @@ b)[^21] a 2/A. § (1) bekezdés b) pontja szerinti esetben a kár bekövetkezés
 
 c)[^22] a 2/A. § (1) bekezdés c) pontja szerinti esetben a katasztrófavédelmi szúnyoggyérítés befejezésétől számított 7 napon belül a 9. melléklet A) része szerinti adatlapnak
 
-a helyi önkormányzatokért felelős miniszter (a továbbiakban: miniszter) által működtetett ebr42 rendszerben (a továbbiakban: ebr42 rendszer) elektronikus úton történő kitöltésével és faxon történő jelzéssel bejelenti a vis maior eseményt. A bejelentés időpontja az ebr42 rendszerben elektronikusan kitöltött adatlap lezárásának dátuma. A bejelentésre nyitva álló határidő elmulasztása jogvesztő.
+a helyi önkormányzatokért felelős miniszter (a továbbiakban: miniszter) által működtetett ebr42 rendszerben (a továbbiakban: ebr42 rendszer) elektronikus úton történő kitöltésével bejelenti a vis maior eseményt. A bejelentés időpontja az ebr42 rendszerben elektronikusan kitöltött adatlap lezárásának dátuma. A bejelentésre nyitva álló határidő elmulasztása jogvesztő.
 
 (4)[^23] Ha a védekezés nem fejeződik be a pályázat a 4. § (1) bekezdésében meghatározott benyújtásának időpontjáig, a helyi önkormányzat új bejelentést tehet a védekezést megszüntető határozat időpontjáig felmerülő újabb védekezési költségek részbeni vagy teljes támogatása érdekében.
 
@@ -48,7 +48,7 @@ c) általános építményekben bekövetkezett károk esetében az építmény h
 
 [^17]: A 3. alcím címe a 92/2013. (III. 28.) Korm. rendelet 11. § 7. pontjával megállapított szöveg.
 [^18]: A 3. § (1)–(2) bekezdését a 129/2014. (IV. 10.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
-[^19]: A 3. § (3) bekezdése a 92/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^19]: A 3. § (3) bekezdése a 92/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított, záró szövegrésze a 397/2014. (XII. 31.) Korm. rendelet 68. § (1) bekezdése szerint módosított szöveg.
 [^20]: A 3. § (3) bekezdés a) pontja a 129/2014. (IV. 10.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
 [^21]: A 3. § (3) bekezdés b) pontja a 129/2014. (IV. 10.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
 [^22]: A 3. § (3) bekezdés c) pontja a 129/2014. (IV. 10.) Korm. rendelet 12. § 1–2. pontja szerint módosított szöveg.

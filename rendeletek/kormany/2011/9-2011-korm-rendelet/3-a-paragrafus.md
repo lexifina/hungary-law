@@ -14,7 +14,7 @@ b) a 2/A. § (1) bekezdés b) pontja szerinti támogatás az 1. melléklet B) r�
 
 (5) A helyi önkormányzat a 2/A. § (1) bekezdés a) pontja szerinti támogatáshoz kapcsolódó támogatási előleggel a pályázat benyújtásával, a 2/A. § (1) bekezdés b) pontja szerinti támogatáshoz kapcsolódó támogatási előleggel a támogatás első teljesítésarányos lehívásával számol el.
 
-(6) Ha a helyi önkormányzat
+(6)[^37] Ha a helyi önkormányzat
 
 a) a 4. § (1) bekezdése szerinti határidőig
 
@@ -24,8 +24,9 @@ ab) a pályázatot nem nyújtotta be vagy
 
 b) a pályázat
 
-ba) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 59. § (1) bekezdése alapján az elbírálásra jogosult szerv részére nem került továbbításra vagy
+ba) a 4. § (2) bekezdése szerinti felülvizsgálatot követően a kincstár által nem került továbbításra a miniszter részére vagy
 
 bb) az elbírálásra jogosult szerv által elutasításra került,
 
 [^36]: A 3/A. §-t a 129/2014. (IV. 10.) Korm. rendelet 4. §-a iktatta be.
+[^37]: A 3/A. § (6) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 63. §-ával megállapított szöveg.

@@ -28,7 +28,7 @@
 
 | E-mail: |  |
 
-5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^122]
+5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^119]
 
 Igénylésazonosító:
 
@@ -114,15 +114,15 @@ A táblázatban maximum 10 sor vehető fel. Azonos vis maior eseményekhez kapcs
 
 | 13.b. | Védekezési költség: |  |
 
-| 14. | Egyéb költségek összesen (a–d. pontok összesen): |  |
+| 14. |  |  |
 
-| 14.a. | szakértői díj: |  |
+| 14.a. |  |  |
 
-| 14.b. | tervezési költségek: |  |
+| 14.b. |  |  |
 
-| 14.c. | műszaki ellenőrzési díj: |  |
+| 14.c. |  |  |
 
-| 14.d. | egyéb költségek: |  |
+| 14.d. |  |  |
 
 | A káresemény helyszínének és mennyiségi mutatóinak ismertetése szerinti táblában (5. pont) vis maior eseményenként rögzített költségekből az egyéb költségeket a fenti bontásban szükséges megadni (Az 5. pontban valamennyi egyéb költséget is tartalmaznia kell a költségeknek!) |
 
@@ -184,4 +184,4 @@ P. H.
 
 | polgármester/elnök | jegyző |
 
-[^122]: Az 5. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (4) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 30. pontja szerint módosított szöveg.
+[^119]: Az 5. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (4) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 30. pontja, a 397/2014. (XII. 31.) Korm. rendelet 68. § (2) bekezdés 2. pontja szerint módosított szöveg.
