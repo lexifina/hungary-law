@@ -36,4 +36,6 @@
 
 ## .................................................................................
 
-3. melléklet a 8/2013. (VI. 29.) KIM rendelethez
+3. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^81]
+
+[^81]: A 3. melléklet a 19/2014. (XII. 22.) IM rendelet 35. §-ával megállapított szöveg.

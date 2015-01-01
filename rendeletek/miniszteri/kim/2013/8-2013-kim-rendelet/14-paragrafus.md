@@ -4,10 +4,13 @@ a) a környezettanulmány készítésének helyszínét és időpontját, több 
 
 b) a környezettanulmány írásba foglalásának a napját,
 
-c) a terhelt lakóhelyének vagy tartózkodási helyének megtekintése során esetlegesen felmerült akadály bemutatását,
+c)[^12] a gyermekkorú, a terhelt, illetve az eljárás alá vont fiatalkorú lakóhelyének vagy tartózkodási helyének megtekintése során esetlegesen felmerült akadály bemutatását,
 
 d) az illetékes igazságügyi szolgálat megnevezését, a környezettanulmányt készítő és az abban közreműködő igazságügyi szolgálat és pártfogó felügyelő nevét, telefonszámát, e-mail címét,
 
-e) környezettanulmány készítése során meghallgatott személyek megnevezését, a terhelthez fűződő kapcsolatuk, együttműködési készségük és az általuk közöltek bemutatásával,
+e)[^13] környezettanulmány készítése során meghallgatott személyek megnevezését, a gyermekkorúhoz, a terhelthez, illetve az eljárás alá vont fiatalkorúhoz fűződő kapcsolatuk, együttműködési készségük és az általuk közöltek bemutatásával,
 
 f) a környezettanulmányhoz csatolt mellékletek megnevezését.
+
+[^12]: A 14. § c) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 3. pontja szerint módosított szöveg.
+[^13]: A 14. § e) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 4. pontja szerint módosított szöveg.

@@ -8,7 +8,7 @@ b) a bíróság a közérdekű munkát vagy annak hátralévő részét jogerős
 
 c) a bíróság jogerős határozatában megállapította a közérdekű munka végrehajthatóságának a megszűnését,
 
-d) a Bv. tvr. 17. §-ában meghatározott okok valamelyike bekövetkezik,
+d)[^50] a Bv. tv. 27. §-ában meghatározott okok valamelyike bekövetkezik,
 
 e) a pénzbüntetés helyébe lépő közérdekű munkát töltő fiatalkorú a pénzbüntetést vagy annak hátralévő részét megfizette.
 
@@ -18,10 +18,15 @@ a) az elsőfokon eljárt bíróságot,
 
 b) az ügyészt,
 
-c) a kijelölt munkahelyet,
+c)[^51] a kijelölt munkahelyet – kivéve, ha a közérdekű munkát az elítélt már letöltötte,
 
-d) a Bv. tvr. 17. § a) pontja szerinti esetet kivéve az elítéltet,
+d)[^52] a Bv. tvr. 17. § a) pontja szerinti esetet kivéve az elítéltet,
 
-e) az elítélt lakóhelye vagy tartózkodási helye szerint illetékes állami foglalkoztatási szervet és
+e)[^53] az elítélt lakóhelye vagy tartózkodási helye szerint illetékes állami foglalkoztatási szervet – amennyiben nyilvántartásukban szereplő munkahely került kijelölésre és
 
 f) a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát.
+
+[^50]: A 34. § (1) bekezdés d) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 18. pontja szerint módosított szöveg.
+[^51]: A 34. § (2) bekezdés c) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 19. pontja szerint módosított szöveg.
+[^52]: [A 34. § (2) bekezdés d) pontjának a 19/2014. (XII. 22.) IM rendelet 34. § 18. pontjával elrendelt módosítása, amely szerint a „Bv. tvr. 17. §-ában” szövegrész helyébe a „Bv. tv. 27. §-ában” szöveg lép, nem vezethető át.]
+[^53]: A 34. § (2) bekezdés e) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 20. pontja szerint módosított szöveg.

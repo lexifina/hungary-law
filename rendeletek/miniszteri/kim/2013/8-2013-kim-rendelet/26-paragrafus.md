@@ -1,4 +1,4 @@
-26. § (1) A kijelölt pártfogó felügyelő a bíróság értesítésének, illetve a közérdekű munkára ítélésről szóló ítéletnek az érkeztetésétől számított 8 napon belül az elítéltet megidézi [Bv. tvr. 62. § (1) bekezdés].
+26. § (1)[^34] A kijelölt pártfogó felügyelő a bíróság értesítésének, illetve a közérdekű munkára ítélésről szóló ítéletnek az érkeztetésétől számított 8 napon belül az elítéltet megidézi [Bv. tv. 282. § (1) bekezdés].
 
 (2) Az idézésben az elítéltet tájékoztatni kell
 
@@ -12,8 +12,12 @@ d) az idézés elmulasztásának jogkövetkezményeiről,
 
 e) az igazolás előterjesztésének a módjáról,
 
-f) a lehetőség szerint bemutatandó iratokról, így különösen az iskolai végzettségre, a szakképesítésre és az egészségi állapotra vonatkozó iratokról,
+f)[^35] a lehetőség szerint bemutatandó iratokról, így különösen a legfeljebb egy éven belül végzett foglalkoztathatósági vizsgálatra, iskolai végzettségre, a szakképesítésre és az egészségi állapotra vonatkozó iratokról,
 
-g) a Bv. tvr. 2. § (7) bekezdése szerinti, a lakcímadatai változásának bejelentésével összefüggő, rendbírság terhe mellett teljesítendő kötelezettségéről,
+g)[^36] a Bv. tv. 8. § (3) bekezdése szerinti, a lakcímadatai változásának bejelentésével összefüggő, rendbírság terhe mellett teljesítendő kötelezettségéről,
 
 h) a foglalkoztathatósági vizsgálat szabályairól.
+
+[^34]: A 26. § (1) bekezdése a 19/2014. (XII. 22.) IM rendelet 34. § 10. pontja szerint módosított szöveg.
+[^35]: A 26. § (2) bekezdés f) pontja a 19/2014. (XII. 22.) IM rendelet 18. §-ával megállapított szöveg.
+[^36]: A 26. § (2) bekezdés g) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 11. pontja szerint módosított szöveg.

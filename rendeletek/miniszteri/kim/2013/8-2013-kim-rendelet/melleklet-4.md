@@ -4,41 +4,17 @@
 
 | Anyja neve: | Lakóhelye: |
 
-| A végrehajtásra kijelölt munkahely: Kijelölt új munkahely: | Meghatározott munka: Meghatározott új munka: |
+| A végrehajtásra kijelölt munkahely: Kijelölt új munkahely: | Meghatározott munkakör: Meghatározott új munkakör: |
 
-| .................................................................................................................................................................................................-t a ................................................................................................................................................................... Járásbíróság/Törvényszék a 20................... évi ......................................... hó .................. napján kelt B. .................../20................/............... számú ítéletével, a .................................................................................................. Törvényszék/Íítélőtábla mint másodfokú bíróság, illetve az Ítélőtábla/Kúria a 20........évi ................................. hó ......... napján |
+| -t a Járásbíróság/Törvényszék a 20................... évi ............................................. hó ............. napján kelt B. /20................/............... számú ítéletével, a .................................................................................................. Törvényszék/Ítélőtábla mint másodfokú bíróság, illetve az Ítélőtábla/Kúria a 20........évi ............................................................. hó ......... napján kelt Bf. /20.........../...............számú határozatával ......................................miatt....................óra közérdekű munkára ítélte, melyet .................................................. munkakörben kell eltölteni. Egy napi közérdekű munkának .................. munkavégzés felel meg. A határozat 20.......... évi .................................................. hó ............................... napján jogerőre emelkedett és végrehajtható. |
 
-| kelt Bf. ................./20.........../...............számú határozatával......................................miatt....................óra |
+| A közérdekű munka megkezdésének ideje: ................... évi ....................................... hó .......... nap | A büntetés befejezésének várható ideje: ................... évi ....................................... hó .......... nap |
 
-| közérdekű munkára ítélte, melyet .................................................. munkakörben kell eltölteni. Egy napi közérdekű munkának négy óramunkavégzés felel meg. |
-
-| A határozat 20.......... évi ....................................... hó ..................................... napján jogerőre emelkedett és végrehajtható. |
-
-| A bíróság az elítélt által előzetes fogvatartásban eltöltött idővel .............................................................. óra közérdekű munkát kitöltöttnek vett. |
-
-| A közérdekű munka megkezdésének ideje: ................... évi ....................................... hó .......... nap | A büntetés befejezésének várható ideje: .................. évi ..................................... hó ............ nap |
-
-| A | büntetés befejező időpontjának változásai: |  |  |
-
-| 1. | .......... év ............... hó ....... nap | 6. | .......... év ............... hó ....... nap | 11. | .......... év ............... hó ....... nap |
-
-| 2. | .......... év ............... hó ....... nap | 7. | .......... év ............... hó ....... nap | 12. | .......... év ............... hó ....... nap |
-
-| 3. | .......... év ............... hó ....... nap | 8. | .......... év ............... hó ....... nap | 13. | .......... év ............... hó ....... nap |
-
-| 4. | .......... év ............... hó ....... nap | 9. | .......... év ............... hó ....... nap | 14. | .......... év ............... hó ....... nap |
-
-| 5. | .......... év ............... hó ....... nap | 10. | .......... év ............... hó ....... nap | 15. | .......... év ............... hó ....... nap |
-
-| Hiányzások, szabadság, stb. | Hiányzások, szabadság, stb. | Hiányzások, szabadság, stb. |
-
-| Mettől | Meddig | Összesen | Mettől | Meddig | Összesen | Mettől | Meddig | Összesen |
-
-| Naptári hó, nap | hó | nap | Naptári hó, nap | hó | nap | Naptári hó, nap | hó | nap |
+| A büntetés letöltésének ideje: |
 
 | Intézkedések: |
 
-| Feljegyzés a közérdekű munkára ítéltről, tapasztalatok: |
+| Feljegyzés a közérdekű munkára ítéltről, tapasztalatok, új munkahely kijelölés indokáról: |
 
 | Megjegyzés: |
 

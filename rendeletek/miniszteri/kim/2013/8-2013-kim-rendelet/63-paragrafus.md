@@ -1,4 +1,4 @@
-## 62. § A közösségi foglalkoztató a bíróság, illetve az ügyész által előírt külön magatartási szabályok végrehajtása érdekében egy-egy programot évente legalább kétszer indít.
+## 62/M. § A BVOP és a Hivatal, valamint a bv. intézetek és a megyei (fővárosi) kormányhivatalok igazságügyi szolgálatai együttműködési megállapodást vagy szerződést köthetnek egyes pártfogó felügyelői tevékenységek hatékonyságának növelésére, valamint szakmai tapasztalatcsere céljából.
 
 ## VIII. Fejezet
 

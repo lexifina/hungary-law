@@ -1,4 +1,4 @@
-## 6. § A pártfogó felügyelői vélemény vagy a környezettanulmány elkészítésére vonatkozó kezdőirat kijelölésnél lehetőség szerint figyelemmel kell lenni arra, hogy a fiatalkorúak ügyeit a fiatalkorúak pártfogó felügyelője intézze.
+## 6. §[^5] A pártfogó felügyelői vélemény vagy a környezettanulmány elkészítésére vonatkozó kezdőirat kijelölésnél lehetőség szerint figyelemmel kell lenni arra, hogy a gyermekkorúak, illetve a fiatalkorúak ügyeit a fiatalkorúak pártfogó felügyelője intézze.
 
 ## 2. A pártfogó felügyelői vélemény tartalmi elemei és elkészítésének általános szabályai
 
@@ -31,3 +31,5 @@ f) esetleges káros szenvedélyeit,
 g) a jövedelmi, vagyoni viszonyait,
 
 h) a hozzátartozók közötti erőszakra vagy veszélyeztetettségre utaló tények leírását, az azok megszüntetése érdekében tett, vagy javasolt intézkedések bemutatását.
+
+[^5]: A 6. § a 19/2014. (XII. 22.) IM rendelet 34. § 1. pontja szerint módosított szöveg.

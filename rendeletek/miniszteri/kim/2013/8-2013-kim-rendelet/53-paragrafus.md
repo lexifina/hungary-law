@@ -1,4 +1,4 @@
-53. § (1) A pártfogó felügyelő feladatai ellátása során együttműködik a pártfogolt lakóhelye vagy tartózkodási helye szerinti gyermekjóléti szolgálattal, a járási (fővárosi kerületi) gyámhivatallal, továbbá a szociális és gyámhivatal gyermek- és ifjúságvédelmi koordinátorával. Ennek keretében a pártfogó felügyelő
+53. § (1)[^68] A pártfogó felügyelő feladatai ellátása során együttműködik a pártfogolt lakóhelye vagy tartózkodási helye szerinti gyermekjóléti szolgálattal, a járási (fővárosi kerületi) gyámhivatallal, továbbá a szociális és gyámhivatal gyermek- és ifjúságvédelmi koordinátorával addig az időpontig, amíg a fiatalkorú a 18. életévét be nem tölti. Ennek keretében a pártfogó felügyelő
 
 a) a pártfogó felügyelet kezdetekor tájékozódik a pártfogolt esetleges korábbi gondozásának, védelembe, illetve nevelésbe vételének tapasztalatairól,
 
@@ -9,3 +9,5 @@ c) kezdeményezheti, hogy a gyermekjóléti szolgálat vagy a gyámhatóság jav
 d) szakmai javaslatot készít a c) pontban jelzett új ellátási formák kialakítására.
 
 (2) A pártfogó felügyelő gyermekvédelmi intézkedést kezdeményez a fiatalkorú pártfogoltja érdekében a gyámhatóságnál, ha az a fiatalkorú pártfogolt környezetében kialakult súlyos veszélyeztető helyzete megszüntetése vagy egyéb ok miatt szükségesnek látszik.
+
+[^68]: Az 53. § (1) bekezdése a 19/2014. (XII. 22.) IM rendelet 27. §-ával megállapított szöveg.

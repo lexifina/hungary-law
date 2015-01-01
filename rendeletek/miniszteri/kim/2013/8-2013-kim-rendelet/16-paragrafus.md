@@ -1,11 +1,11 @@
-16. § (1) A környezettanulmány IV. része bemutatja
+## vonatkozóan.
 
-a) a fiatalkorú és környezete viszonyát a gyanú szerinti bűncselekményhez,
+## 16. §[^15] A környezettanulmány IV. része bemutatja, illetve értékeli
 
-b) a terhelt jóvátétellel, az ügy esetleges közvetítői eljárásra utalásával kapcsolatos véleményét, szándékát,
+a) az esetleges korábbi és a folyamatban lévő megelőző pártfogás, illetve pártfogó felügyelet tapasztalatait,
 
-c) a cselekmény elkövetésekor jellemző és az azóta bekövetkezett változások adatait,
+b) a gyanú szerinti bűncselekmény vagy szabálysértés illetve az esetleges korábbi bűncselekmények és szabálysértések jellegét,
 
-d) a bűncselekmény elkövetéséhez vezető okokat és a megszüntetésük érdekében javasolt intézkedéseket.
+c) a gyermekkorú vagy fiatalkorú és környezete viszonyát a gyanú szerinti bűncselekményhez vagy szabálysértéshez.
 
-(2) A környezettanulmány IV. része a feltárt adatokon és következtetéseken alapuló összegző véleményt is tartalmazza.
+[^15]: A 16. § a 19/2014. (XII. 22.) IM rendelet 10. §-ával megállapított szöveg.

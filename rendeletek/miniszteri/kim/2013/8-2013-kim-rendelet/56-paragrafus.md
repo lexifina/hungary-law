@@ -1,1 +1,10 @@
-## 55. § A Bv. tvr. 96. § b) pontja szerinti munkavégzési kötelezettség nem vonatkozik arra a pártfogoltra, aki nevelési-oktatási intézmény nappali tagozatának tanulója, vagy foglalkoztatást elősegítő képzésben vesz részt, és az eltartása családon belül vagy otthont nyújtó ellátás keretében biztosított.
+## 55. §[^70]
+
+## 56. §[^71] A Bv. tv. 313. § (1) bekezdés b) pontja szerinti pártfogó felügyelői rendelkezések körében előnyben kell részesíteni
+
+a) a viselkedéskorrekciós, illetve kompetencia-fejlesztésére irányuló csoportos vagy egyéni foglalkozások, különösen agresszióhelyettesítő tréning, szociális készségfejlesztő tréning, munkaerő-piaci tréning,
+
+b) a közösségi jóvátételi, a sérelem okozását tudatosító programok, helyreállító technikák (konferenciamódszerek, mediáció, egyéb közösségi konfliktuskezelési technikák)
+
+[^70]: Az 55. §-t a 19/2014. (XII. 22.) IM rendelet 37. § h) pontja hatályon kívül helyezte.
+[^71]: Az 56. § a 19/2014. (XII. 22.) IM rendelet 29. §-ával megállapított szöveg.

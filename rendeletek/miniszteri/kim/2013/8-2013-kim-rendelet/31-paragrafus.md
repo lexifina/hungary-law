@@ -16,4 +16,6 @@ b) az elítélt és a munkahely képviselőjének, csoportos letöltés esetén 
 
 (4) A jelenléti ívet folyamatosan kell vezetni.
 
-(5) A munkahely a Bv. tvr. 67. § (4) bekezdés h) pontja szerinti esetekben a nyilvántartó lapot és a jelenléti ívet a letöltött munkaórák összegzését követően cégszerű aláírásával lezárja, és a pártfogó felügyelőnek megküldi.
+(5)[^48] A munkahely a Bv. tv. 287. § (4) bekezdés h) pontja szerinti esetekben a nyilvántartó lapot és a jelenléti ívet a letöltött munkaórák összegzését követően cégszerű aláírásával lezárja, és a pártfogó felügyelőnek megküldi.
+
+[^48]: A 31. § (5) bekezdése a 19/2014. (XII. 22.) IM rendelet 34. § 16. pontja szerint módosított szöveg.

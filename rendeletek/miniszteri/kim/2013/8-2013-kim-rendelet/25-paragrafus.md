@@ -12,7 +12,7 @@ d) szükségessé vált-e a közérdekű munka végrehajtásának félbeszakít�
 
 e) tölt-e az elítélt végrehajtandó szabadságvesztést, kényszergyógykezelést, javítóintézeti nevelést, előzetes letartóztatást, elzárást,
 
-f) áll-e a fenn a közérdekű munka végrehajtását kizáró vagy a végrehajthatóság megszűnését eredményező ok [a büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet (a továbbiakban: Bv. tvr.) 17. § és 67/B. §],
+f)[^33] áll-e a fenn a közérdekű munka végrehajtását kizáró vagy a végrehajthatóság megszűnését eredményező ok [a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 27. § és 289. §,],
 
 g) történt-e változás az illetékességben,
 
@@ -25,3 +25,5 @@ h) van-e folyamatban az elítélttel szemben más közérdekű munka büntetés 
 a) a közérdekű munka végrehajtását kizáró vagy a végrehajthatóság megszűnését eredményező ok áll fenn, vagy a beszámítás folytán az elítélt az előzetes fogvatartásban, illetve házi őrizetben töltött idővel kitöltötte a közérdekű munka tartamát, az iratokat további intézkedés végett megküldi a bv. bírónak,
 
 b) az alapügyben eljáró bíróság halasztást engedélyezett a közérdekű munka végrehajtására, az iratokat határidős nyilvántartásba helyezi.
+
+[^33]: A 25. § (1) bekezdés f) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 9. pontja szerint módosított szöveg.

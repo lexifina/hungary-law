@@ -14,8 +14,13 @@ f) javaslatot tesz a terhelt pszichiátriai, alkohol- vagy kábítószer-függő
 
 g) javaslatot tesz a terhelt életvezetési tanácsadó, illetve más felvilágosító programon való részvételére,
 
-h) javaslatot tesz a terhelt csoportos foglalkozáson, így különösen szociális készségfejlesztő, agressziókezelő vagy munkaerőpiaci tréningen, helyreállító programon, strukturált szabadidő eltöltési programon, Családi Döntéshozó Csoportkonferencián, más készségfejlesztő programban való részvételére,
+h)[^7] javaslatot tesz a terhelt viselkedéskorrekciós, illetve kompetencia-fejlesztésére irányuló csoportos vagy egyéni foglalkozáson, különösen agresszióhelyettesítő tréningen, szociális készségfejlesztő tréningen, munkaerőpiaci tréningen való részvételére,
 
-i) javaslatot tesz a bűnismétlés elkerülése érdekében leginkább hatékony intézkedésekre.
+i) javaslatot tesz a bűnismétlés elkerülése érdekében leginkább hatékony intézkedésekre,
+
+j)[^8] javaslatot tesz a terhelt közösségi jóvátételi, a sérelem okozását tudatosító, illetve helyreállító programban (konferenciamódszerek, mediáció, egyéb közösségi konfliktuskezelési technikák alkalmazása) való részvételére.
 
 (2) A pártfogó felügyelői vélemény IV. része a feltárt adatokon és következtetéseken alapuló összegző véleményt is tartalmazza.
+
+[^7]: A 10. § (1) bekezdés h) pontja a 19/2014. (XII. 22.) IM rendelet 6. §-ával megállapított szöveg.
+[^8]: A 10. § (1) bekezdés j) pontját a 19/2014. (XII. 22.) IM rendelet 7. §-a iktatta be.

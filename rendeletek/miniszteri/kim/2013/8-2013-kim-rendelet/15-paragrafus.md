@@ -1,13 +1,19 @@
-## 15. § A környezettanulmány III. része a terheltre vonatkozó szakmai ténymegállapításokat tartalmazza
+## 15. §[^14] A környezettanulmány III. része a gyermekkorúra, a terheltre, illetve az eljárás alá vont fiatalkorúra vonatkozó szakmai ténymegállapításokat, illetve a vizsgált tényezők kockázati szempontú értékelését tartalmazza
 
-a) családi és lakhatási körülményeire, kapcsolati helyzetére,
+a) a korábbi normaszegéseire, különösen a vele szemben indított büntetőeljárásokra, szabálysértési eljárásokra, iskolai konfliktusaira,
 
-b) baráti és kisközösségi kapcsolataira, szabadidő-eltöltési szokásaira,
+b) a lakókörnyezetére, lakhatási körülményeire,
 
-c) egészségi állapotára, esetleges káros szenvedélyeire,
+c) a családi körülményeire, kapcsolataira,
 
-d) iskolai végzettségére, szaktudására, tanulmányai folytatására,
+d) az oktatásban, képzésben való részvételére, illetve munkaerő-piaci helyzetére, jövedelmére, vagyonára,
 
-e) munkahelyére, ennek hiányában foglalkoztatására, munkatapasztalatára, munkaerőpiaci helyzetére, jövedelmére, vagyonára
+e) a baráti és kisközösségi kapcsolataira, szabadidő eltöltési szokásaira,
 
-vonatkozóan.
+f) az esetleges káros szenvedélyeire,
+
+g) a fizikai, mentális egészségi állapotára,
+
+h) a gondolkodási és viselkedési mintáira
+
+[^14]: A 15. § a 19/2014. (XII. 22.) IM rendelet 10. §-ával megállapított szöveg.
