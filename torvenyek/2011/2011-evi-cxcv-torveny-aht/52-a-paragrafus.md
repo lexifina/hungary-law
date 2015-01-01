@@ -1,0 +1,1 @@
+52/A. § Ha a központi költségvetésről szóló törvény eltérően nem rendelkezik, a 14. § (3) bekezdése szerinti fejezet terhére nyújtott költségvetési támogatást a folyósítását követő év december 31-éig lehet felhasználni.

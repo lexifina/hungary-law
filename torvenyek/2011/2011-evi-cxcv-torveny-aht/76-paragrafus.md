@@ -12,7 +12,7 @@ b) elektronikus pénz kibocsátására,
 
 c) az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 5. § (1) bekezdés a)–c) és g) pontja szerinti befektetési szolgáltatási tevékenység és 5. § (2) bekezdés a) és b) pontja szerinti kiegészítő befektetési szolgáltatási tevékenység végzésére,
 
-d) a kincstári körbe tartozók esetén díjazás ellenében a kárpótlási jegyek őrzésével és kezelésével kapcsolatos feladatok ellátására, és
+d) az államháztartás központi alrendszerébe tartozó költségvetési szervek esetén díjazás ellenében a kárpótlási jegyek őrzésével és kezelésével kapcsolatos feladatok ellátására, és
 
 e) olyan fizetési eszköz alkalmazására, amely birtokosa rendelkezhet a számla-követeléséről, és ezáltal más számára fizetést teljesíthet, amely rendszerint személyazonosító kód, illetve más hasonló azonosító használatához kötött, ilyen különösen a számla-követelésről való rendelkezést a telefon vagy számítógép útján biztosító egyéb eszköz (távolról hozzáférést biztosító fizetési eszköz).
 

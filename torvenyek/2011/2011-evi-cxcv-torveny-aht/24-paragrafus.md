@@ -14,4 +14,4 @@ b) a többéves kihatással járó döntések számszerűsítését évenkénti 
 
 c) a közvetett támogatásokat – így különösen adóelengedéseket, adókedvezményeket – tartalmazó kimutatást, és
 
-d) a 29/A. § szerinti tervszámoknak megfelelően a költségvetési évet követő három év tervezett előirányzatainak keretszámait főbb csoportokban, és a 29/A. § szerinti tervszámoktól történő esetleges eltérés indokait.
+d) a 29/A. § szerinti tervszámoknak megfelelően a költségvetési évet követő három év tervezett bevételi előirányzatainak és kiadási előirányzatainak keretszámait főbb csoportokban, és a 29/A. § szerinti tervszámoktól történő esetleges eltérés indokait.

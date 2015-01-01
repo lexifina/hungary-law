@@ -2,10 +2,72 @@
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
 
-## 1. A törvény célja
+## 1. Értelmező rendelkezések
 
-1. § (1) E törvény célja, hogy a közfeladatok maradéktalan ellátása érdekében biztosítsa az államháztartás átlátható működési feltételeit.
+1. § E törvény alkalmazásában
 
-(2) A közfeladatok ellátása elsősorban költségvetési szervek alapításával és működtetésével történik.
+1. agrártámogatás: a részben vagy egészben az Európai Mezőgazdasági Garancia Alapból finanszírozott közvetlen, piaci, valamint intervenciós intézkedésekhez kapcsolódó kifizetések, továbbá az Európai Mezőgazdasági Vidékfejlesztési Alapból, az Európai Halászati Alapból, az Európai Tengerügyi és Halászati Alapból finanszírozott támogatások, valamint a központi költségvetésből tagállami hatáskörben nyújtott mezőgazdasági, halászati, erdészeti, vadgazdálkodási és vidékfejlesztési támogatások,
 
-(3) Az államháztartáson kívüli szervezetek a közfeladatok ellátásában jogszabályban meghatározott feltételekkel közreműködhetnek. A közfeladat ellátásának finanszírozása az ellátott feladattal arányos pénzügyi fedezet részben vagy egészben történő biztosításával valósul meg.
+2. állami támogatás: az Európai Unió működéséről szóló Szerződés 107. cikk (1) bekezdése szerint vagy csekély összegű támogatásként az Európai Unió közvetlenül alkalmazandó jogi aktusa alapján nyújtott támogatás,
+
+3. átlagos statisztikai állományi létszám: a Központi Statisztikai Hivatal által közétett módszertan szerint a folyamatosan vezetett létszámnyilvántartás alapján számított mutató,
+
+4. átlátható szervezet: a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 3. § (1) bekezdés 1. pontja szerinti fogalom,
+
+5. előirányzat-átcsoportosítás: az átcsoportosítást végrehajtó költségvetésének – az Országgyűlés vagy a Kormány intézkedése, és a fejezetet irányító szervek megállapodása esetén a központi költségvetés, a fejezetet irányító szerv intézkedése esetén a fejezet, az államháztartás önkormányzati alrendszerében a költségvetési rendelet, határozat összesített – kiadási előirányzatai főösszegének változatlansága mellett a kiadási előirányzatok egyidejű csökkentésével és növelésével végrehajtott módosítás,
+
+6. előirányzat-módosítás: a bevételi előirányzat vagy a kiadási előirányzat növelése vagy csökkentése,
+
+7. európai uniós forrás: az Európai Unió költségvetéséből, az Európai Gazdasági Térség Európai Unión kívüli tagállamának költségvetéséből, valamint a Svájci Hozzájárulás programból származó forrás,
+
+8. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti fogalom,
+
+9. irányító szerv: a költségvetési szerv tekintetében az e törvényben meghatározott irányítási hatáskört gyakorló szerv,
+
+10. Kormány irányítása alá tartozó fejezet: a központi költségvetésről szóló törvény fejezete a 11. pontban meghatározott fejezetek kivételével,
+
+11. Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv: az államháztartás központi alrendszerébe tartozó költségvetési szervek az Országgyűlés, a Köztársasági Elnökség, az Alkotmánybíróság, az Alapvető Jogok Biztosának Hivatala, az Állami Számvevőszék, a Bíróságok, az Ügyészség, a Gazdasági Versenyhivatal, a Magyar Tudományos Akadémia és a Magyar Művészeti Akadémia fejezetekhez tartozó költségvetési szervek kivételével,
+
+12. kormányzati szektorba sorolt egyéb szervezet: a 3. § (2) és (3) bekezdésében foglaltakon kívül az Európai Közösséget létrehozó szerződéshez csatolt, a túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló 2009. május 25-i 479/2009/EK rendelet (a továbbiakban: 479/2009/EK rendelet) szerint a kormányzati szektorba sorolt szervezet,
+
+13. kormányzati szektor egyenlege: a 479/2009/EK rendelet alapján számított egyenleg,
+
+14. költségvetési támogatás: a társadalombiztosítás pénzügyi alapjai kivételével az államháztartás központi alrendszeréből ellenérték nélkül, pénzben nyújtott támogatások, ide nem értve
+
+a) az adományokat, segélyeket, felajánlásokat,
+
+b) a pártok és pártalapítványok támogatását, az országgyűlési képviselők választása kampányköltségeinek támogatásait,
+
+c) a tanulóknak, hallgatóknak biztosított ösztöndíjakat,
+
+d) kitüntetéshez kapcsolódóan nyújtott pénzjutalmakat,
+
+e) a fogyatékos és a súlyos mozgáskorlátozott személyeknek ezen élethelyzetére tekintettel nyújtott pénzbeli ellátásokat,
+
+f) a szociális igazgatásról és szociális ellátásokról szóló törvény, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti pénzbeli és természetbeni szociális és gyermekvédelmi ellátásokat,
+
+g) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény szerinti foglalkoztatást elősegítő képzési támogatásokat,
+
+h) a jogszabály alapján nyújtott családtámogatásokat, korhatár alatti ellátásokat, jövedelempótló és jövedelemkiegészítő szociális támogatásokat, az apákat megillető pótszabadsággal összefüggő költségek megtérítését, az energiafelhasználási támogatásokat,
+
+i) a helyi önkormányzatok általános működésének és ágazati feladatainak támogatásait,
+
+j) a közfoglalkoztatási támogatásokat,
+
+k) a szociálpolitikai menetdíj-támogatásokat,
+
+l) a vis maior támogatásokat,
+
+m) a szomszédos államokban nyújtható oktatási támogatásokat,
+
+15. kötelezettségvállalás: a kiadási előirányzatok, és – ha jogszabály azt lehetővé teszi – a 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerinti rendelkezésre bocsátott összeg terhére fizetési kötelezettség vállalásáról szóló – így különösen a foglalkoztatásra irányuló jogviszony létesítésére, szerződés megkötésére, költségvetési támogatás biztosítására irányuló – szabályszerűen megtett jognyilatkozat,
+
+16. középtávú költségvetési cél: a költségvetési egyenleg felügyeletének megerősítéséről és a gazdaságpolitikák felügyeletéről és összehangolásáról szóló, 1997. július 7-i 1466/97/EK tanácsi rendelet szerint készített aktuális konvergenciaprogramban a strukturális egyenlegre meghatározott célérték, ami összhangban van a stabilitási és növekedési paktum követelményeivel,
+
+17. maradvány: a költségvetési év során a bevételek és kiadások különbözete, amely az alaptevékenység bevételei és kiadásai tekintetében a költségvetési maradvány, a vállalkozási tevékenység bevételei és kiadásai tekintetében a vállalkozási maradvány,
+
+18. önkormányzati hivatal: a polgármesteri hivatal, a főpolgármesteri hivatal, a megyei önkormányzati hivatal és a közös önkormányzati hivatal,
+
+19. strukturális egyenleg: a kormányzati szektornak a gazdaság ciklikus hatásaitól és egyedi tételektől megtisztított egyenlege,
+
+20. zárolás: a költségvetési kiadási előirányzatok felhasználásának időlegesen, feltételhez kötötten történő korlátozása, felfüggesztése.

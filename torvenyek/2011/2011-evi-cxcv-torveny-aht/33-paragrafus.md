@@ -1,21 +1,35 @@
-33. § (1) A központi költségvetésről szóló törvény és e törvény eltérő rendelkezése hiányában a központi költségvetésről szóló törvény által megállapított előirányzatok közötti átcsoportosításra, valamint a címrend és a címrend alá rendezett alcímek, jogcímcsoportok, jogcímek módosítására, kiegészítésére – a nem a Kormány irányítása alá tartozó fejezetek kivételével – a Kormány egyedi határozatban jogosult. A Kormány a címrend és a címrend alá rendezett alcímek, jogcímcsoportok, jogcímek változásáról a központi költségvetés végrehajtásáról szóló törvényjavaslat (a továbbiakban: zárszámadási törvényjavaslat) indokolásában beszámol.
+33. § (1) A fejezetet irányító szerv a Kormány rendeletében meghatározott esetekben a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot, jogcímet hozhat létre. Más esetben a fejezet címrendjének és a címrend alá rendezett alcímek, jogcímcsoportok módosítására, kiegészítésére a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a Kormány irányítása alá nem tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult.
 
-(2) A fejezetet irányító szerv a Kormány rendeletében foglalt esetekben a költségvetési évben a fejezeten belül új alcímet, jogcím-csoportot, jogcímet hozhat létre.
+(2) A központi költségvetésről szóló törvény és e törvény eltérő rendelkezése hiányában a központi költségvetésről szóló törvény által megállapított kiadási előirányzatok közötti előirányzat-átcsoportosításra a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén a Kormány, a nem a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén az Országgyűlés egyedi határozatban jogosult.
 
-(3) A fejezetet irányító szerv a fejezeten belül a költségvetési szervek előirányzatai terhére átcsoportosítást hajthat végre, ha a költségvetési szerv előirányzatain megtakarítás keletkezik, vagy az átcsoportosítás a közfeladatok változásával, költségvetési szervek alapításával, átalakításával, megszüntetésével kapcsolatban szükséges.
+(3) A központi költségvetésről szóló törvény eltérő rendelkezése hiányában a fejezetet irányító szerv az általa irányított fejezetbe sorolt
 
-(4) A fejezetet irányító szerv – a 32. § b)–g) pontja szerinti előirányzatok kivételével – a fejezeti kezelésű előirányzatok terhére a fejezeten belül átcsoportosítást hajthat végre, ha
+a) költségvetési szervek kiadási előirányzatai terhére előirányzat-átcsoportosítást hajthat végre, ha a költségvetési szerv kiadási előirányzatain megtakarítás keletkezik vagy az átcsoportosítás a közfeladatok változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével kapcsolatban szükséges,
 
-a) a fejezeti kezelésű előirányzat előirányzatain megtakarítás keletkezik, vagy az átcsoportosítás a közfeladatok változásával kapcsolatban szükséges, vagy
+b) fejezeti kezelésű előirányzatok és elkülönített állami pénzalapok kiadási előirányzatai terhére előirányzat-átcsoportosítást hajthat végre, ha
 
-b) a fejezeti általános tartalék fejezeten belüli átcsoportosítása előre nem valószínűsíthető és nem tervezhető költségvetési kiadás teljesítéséhez szükséges.
+ba) azokon megtakarítás keletkezik,
 
-(4a) A (4) bekezdés szerinti előirányzat-átcsoportosítás – a (4) bekezdés b) pontja szerinti és az olyan előirányzat-átcsoportosítás kivételével, amely az európai uniós források felhasználásával kapcsolatos költségvetési kiadásokkal érintett fejezeti kezelésű előirányzatok javára történik – a Kormány irányítása alá tartozó fejezet esetében az államháztartásért felelős miniszter előzetes engedélyével történhet.
+bb) az előirányzat-átcsoportosítás a közfeladatok változásával kapcsolatban szükséges,
 
-(5) A fejezetet irányító szerv a fejezeti kezelésű előirányzatok terhére más fejezethez tartozó címekhez, alcímekhez a fejezetet irányító szerv hatáskörében átcsoportosítást hajthat végre, ha az államháztartás központi alrendszerébe tartozó költségvetési szerv részére pályázati úton elnyert költségvetési támogatás biztosításával, az európai uniós források felhasználásával vagy elkülönített állami pénzalap javára feladatátadással kapcsolatban szükséges.
+bc) a fejezeti általános tartalék fejezeten belüli előirányzat-átcsoportosítása előre nem valószínűsíthető és nem tervezhető költségvetési kiadás teljesítéséhez szükséges,
 
-(6) A nem a Kormány irányítása alá tartozó fejezetbe sorolt költségvetési szervek és fejezeti kezelésű előirányzatok előirányzatai más fejezethez tartozó címekhez, alcímekhez a fejezetet irányító szerv hatáskörében átcsoportosíthatók.
+bd) az az államháztartás központi alrendszerébe tartozó költségvetési szerv részére költségvetési támogatás biztosításával kapcsolatban szükséges,
 
-(7) Az elkülönített állami pénzalapok előirányzatainak fejezeten belüli vagy más fejezethez történő átcsoportosításáról a fejezetet irányító szerv dönt.
+be) az európai uniós források felhasználásához kapcsolódik vagy
 
-(8) Az (5)–(7) bekezdés szerinti fejezetek közötti átcsoportosításra az érintett fejezetet irányító szervek megállapodása alapján kerülhet sor.
+bf) elkülönített állami pénzalap javára feladatátadással kapcsolatban szükséges.
+
+(4) A (3) bekezdés alapján
+
+a) fejezeten belüli előirányzat-átcsoportosításra a fejezetet irányító szerv egyoldalú jognyilatkozata alapján,
+
+b) fejezetek közötti előirányzat-átcsoportosításra az érintett fejezetet irányító szervek megállapodása alapján
+
+kerülhet sor.
+
+(5) Az államháztartásért felelős miniszter előzetes hozzájárulására van szükség a (3) bekezdés a) pontja szerinti előirányzat-átcsoportosításhoz, ha az fejezetek között történik és a (3) bekezdés b) pont ba) és bb) alpontja szerinti előirányzat-átcsoportosításhoz. Nem kell az államháztartásért felelős miniszter hozzájárulása, ha az előirányzat-átcsoportosítás a Kormány irányítása alá tartozó fejezetet nem érint.
+
+(6) A kincstár a központi költségvetésről szóló törvény szerinti szerkezetben és bontásban havonta közzéteszi a honlapján az államháztartás központi alrendszerébe tartozó költségvetési szervek, továbbá a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok, elkülönített állami pénzalapok és társadalombiztosítás pénzügyi alapjai eredeti előirányzatait, módosított előirányzatait, valamint teljesítési adatait.
+
+(7) Az előirányzat-átcsoportosítás formai követelményeit a Kormány rendeletben állapítja meg.

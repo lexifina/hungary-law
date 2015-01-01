@@ -4,50 +4,50 @@
 
 (2) Az 1993. január 1-jét megelőzően jogszabály által biztosított, jogszabályi felhatalmazás alapján vállalt állami kezességre, garanciára, helytállásra – a kezességvállalás érintetlenül hagyásával – e törvény rendelkezéseit kell alkalmazni.
 
-(3) Azon kiállítási garanciákra és kiállítási viszontgaranciákra, amelyek vállalásának előkészítése e törvény hatálybalépésekor már megkezdődött, az e törvény hatálybalépését megelőzően hatályos szabályokat kell alkalmazni.
+(3)
 
 (4) A 92. § (9) bekezdését az e törvény hatálybalépését megelőzően létrejött állami kezességgel biztosított alapjogviszony e törvény hatálybalépését követően történő módosítása során is alkalmazni kell.
 
-(5) A 8. § alapítási szabályai nem érintik az e törvény hatálybalépésekor már megalapított költségvetési szervek alapításának érvényességét, azonban a nem e törvény előírásai szerint alapított költségvetési szervek átalakításánál, megszüntetésénél e törvény rendelkezései szerint kell eljárni.
-
-(6) A 24. § (2) bekezdésétől eltérően a 2013. évi költségvetési rendeletet, határozatot 2013. február 15-éig kell a képviselő-testület, társulási tanács elé beterjeszteni.
-
-(7) A központi költségvetési szervhez 2011. december 31-éig befolyt és e törvény hatálybalépéséig fel nem használt bírságbevételek és azok kamatainak felhasználására a bírság kiszabását lehetővé tevő törvénynek a bírság felhasználására jogosult személyét és a bírság felhasználásának célját meghatározó rendelkezése esetén annak 2011. december 31-én hatályos rendelkezéseit kell alkalmazni. A központi költségvetési szervek által 2011. december 31-éig jogerősen kiszabott és 2012. január 1-jét követően befolyt bírságbevételek és azok kamatai tekintetében a 42. §-ban foglaltakat kell alkalmazni.
+(5)–(7)
 
 (8)
 
-(9) A VI. Fejezetet a 2012. január 1-jén vagy azt követően benyújtott támogatási igényekre, pályázati úton biztosított költségvetési támogatás esetén a 2012. január 1-jén vagy azt követően megjelentetett pályázati kiírásokra, valamint a 2012. január 1-jét megelőzően megjelentetett pályázati kiírások alapján 2014. január 1-jén vagy azt követően benyújtott pályázatokra és az azok alapján nyújtott költségvetési támogatásokra kell alkalmazni.
+(9) A VI. Fejezetet a 2012. január 1-jén vagy azt követően benyújtott támogatási igényekre, pályázati úton biztosított költségvetési támogatás esetén a 2012. január 1-jén vagy azt követően megjelentetett pályázati kiírásokra, valamint a 2012. január 1-jét megelőzően megjelentetett pályázati kiírások alapján 2014. január 1-jén vagy azt követően benyújtott pályázatokra és az azok alapján nyújtott költségvetési támogatásokra kell alkalmazni. Az e törvény alapján nyújtott költségvetési támogatásra a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvényt nem kell alkalmazni.
 
 (10)
 
 (11) Ahol jogszabály Kormány által kijelölt belső ellenőrzési szervet említ, azon a 63. § (1) bekezdésében meghatározott kormányzati ellenőrzési szervet kell érteni.
 
-(12) Törvény eltérő rendelkezése hiányában a kincstári kör kincstáron kívül forintban vezetett fizetési számláit a számla felett rendelkezni jogosult – az általa foglalkoztatott személyek lakásépítésének, lakásvásárlásának munkáltatói támogatására szolgáló számla és a nemzetbiztonsági szolgálatok alapfeladatai ellátásához szükséges speciális kiadások teljesítéséhez szükséges számla kivételével – e törvény hatálybalépését követő hatvan napon belül köteles megszüntetni és egyenlegét a kincstárnál vezetett fizetési számlára átutalni. E kötelezettség alól – kizárólag az e törvény hatálybalépése napján a kincstáron kívül vezetett fizetési számla esetén – az államháztartásért felelős miniszter a számla felett rendelkezni jogosult hatvan napon belül benyújtott kérelmére kivételesen felmentést adhat.
+(12)
 
 (13) A kincstári körön kívüli számlatulajdonos – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap kivételével – 2015. november 30-ig köteles a kincstárnál – ha azzal még nem rendelkezik – forint fizetési számlát nyitni, a nem a kincstárnál forintban vezetett fizetési számláit – a 79. § (3) bekezdésében meghatározott fizetési számlái kivételével – megszünteti, és azok egyenlegét a kincstárnál vezetett fizetési számlájára átutalni. Ha a kincstári körön kívüli számlatulajdonos kincstáron kívül vezetett fizetési számláját az egyes közpénzügyi tárgyú törvényeknek az államháztartás önkormányzati alrendszerét érintő módosításáról, és azok más törvénnyel való összhangjának biztosításáról szóló 2012. évi XVII. törvény hatálybalépése napján folyószámlahitellel terhelt, a körön kívüli számlatulajdonosnak az e bekezdésben meghatározott kötelezettségét a fizetési számla negatív egyenlegének megszűnését követő kilencven napon belül kell teljesítenie. A kincstáron kívül vezetett fizetési számla megszüntetésének kötelezettsége alól az államháztartásért felelős miniszter a fizetési számla felett rendelkezni jogosult 2015. november 30-ig benyújtott kérelmére kivételesen felmentést adhat.
 
 (14) A (13) bekezdésben meghatározott jogi személy fizetési számláját vezető hitelintézet – a 79. § (3) bekezdésében meghatározott számla és az államháztartásért felelős miniszter (13) bekezdés szerinti engedélye alapján kincstáron kívül továbbra is vezethető fizetési számla kivételével – új folyószámlahitel igénybevételét nem biztosíthatja. Ha a (13) bekezdésben meghatározott jogi személy a fizetési számla megszüntetési és átutalási kötelezettségének a (13) bekezdésében meghatározott határnapig, illetve határidőig nem tett eleget, és e határidő alatt az államháztartásért felelős miniszter (13) bekezdés szerinti engedélyét sem mutatta be, a fizetési számlát vezető hitelintézet a (13) bekezdés szerinti határnap elteltét, illetve határidő leteltét követő harminc napon belül az érintett fizetési számláját megszünteti és azok egyenlegét a fizetési számla felett rendelkezni jogosult, ennek hiányában a kincstár által közölt fizetési számlára átutalja.
 
-(15) A (12)–(14) bekezdés alapján határozott időre megadott felmentések érvényességét az államháztartásért felelős miniszter a fizetési számla felett rendelkezni jogosult kérelmére kivételesen indokolt esetben meghosszabbíthatja.
+(15) A (13) és (14) bekezdés alapján határozott időre megadott felmentések érvényességét az államháztartásért felelős miniszter a fizetési számla felett rendelkezni jogosult kérelmére kivételesen indokolt esetben meghosszabbíthatja.
 
-(16) E törvény rendelkezéseit a települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény alapján működő többcélú kistérségi társulásokra, valamint a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény alapján létrejött társulásokra is alkalmazni kell.
+(16)
 
-(16a) A többcélú kistérségi társulás megszűnése esetén a társulási megállapodásban megjelölt önkormányzat (a továbbiakban: kijelölt önkormányzat) felel a tárgyévben, illetve a tárgyévet megelőző években a központi költségvetésből származó támogatásokkal való elszámolásért. Eltérő megállapodás hiányában a kijelölt önkormányzat a többcélú kistérségi társulás korábbi székhelye szerinti települési önkormányzat. A társulási tanács elnöke a megszüntetésről hozott döntést követően haladéktalanul tájékoztatja a kincstárat a kijelölt önkormányzatról.
+(16a)
 
-(17) A Magyar Államkincstár Részvénytársaság munkavállalóinak köztisztviselőként történő továbbfoglalkoztatása esetén
+(17)–(18)
 
-a) a végkielégítésre és a jubileumi jutalomra jogosító idő meghatározásánál is közszolgálati jogviszonyban töltött időnek minősül a 2001. december 31-ig a Magyar Államkincstárnál elismert közalkalmazotti, valamint 2002. január 1-jétől a Magyar Államkincstár Részvénytársaságnál munkaviszonyban töltött idő, a munkavállaló nem jogosult ugyanazon fokozatú jubileumi jutalomra, ha másik foglalkoztatási jogviszonyban már megkapta,
-
-b) a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényben meghatározott felmentési idő mértéke meghaladhatja a hat hónapot azon köztisztviselők esetében, akik a Magyar Államkincstár megszűnésekor a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 33. §-ában foglaltak alapján 2001. december 31-ével azonos vagy magasabb mértékű felmentési időre voltak jogosultak közalkalmazotti jogviszonyuk megszűnésekor.
-
-(18) A többcélú kistérségi társulások által igénybevett támogatások elszámolása felülvizsgálata megkezdésének határideje – a 60. § (1) bekezdésében foglaltaktól eltérően – a költségvetési évet követő második év június 30-a.
-
-(19) Ha az arra kötelezett a Magyarország 2014. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2013. évi CCIII. törvény hatálybalépéséig nem tesz eleget a 83. § (6) bekezdés szerinti kötelezettségének, akkor a 2013. év során felfüggesztett támogatásainak összege az adott évben nem folyósítható részére. A 2013. évben így nem folyósított támogatások összege a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 1. melléklete IX. fejezetének fejezeti tartalékát növeli.
+(19)
 
 (20)–(22)
 
-(23) A helyi önkormányzat, a helyi nemzetiségi önkormányzat 2011. évben igénybevett hozzájárulásai, támogatásai elszámolásának 60. § szerinti felülvizsgálatára az e törvény 2012. december 31-én hatályos rendelkezéseit kell alkalmazni.
+(23) A helyi önkormányzat, a helyi nemzetiségi önkormányzat 2011. évben igénybevett hozzájárulásai, támogatásai elszámolásának felülvizsgálatára az e törvény 2012. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-(24) A helyi önkormányzat, helyi nemzetiségi önkormányzat 2012. évben igénybe vett hozzájárulásai, támogatásai elszámolásának 60. § szerinti felülvizsgálatára e törvény 2013. január 1-jén hatályos rendelkezéseit kell alkalmazni azzal, hogy a felülvizsgálat a helyi önkormányzat, helyi nemzetiségi önkormányzat általános működésének és ágazati feladatainak támogatásai helyett a normatív hozzájárulásaira, támogatásaira, illetve a települési önkormányzatok jövedelemkülönbségének mérséklését szolgáló támogatásra terjed ki.
+(24) A helyi önkormányzat, helyi nemzetiségi önkormányzat 2012. évben igénybe vett hozzájárulásai, támogatásai elszámolásának felülvizsgálatára e törvény 2013. január 1-jén hatályos rendelkezéseit kell alkalmazni azzal, hogy a felülvizsgálat a helyi önkormányzat, helyi nemzetiségi önkormányzat általános működésének és ágazati feladatainak támogatásai helyett a normatív hozzájárulásaira, támogatásaira, illetve a települési önkormányzatok jövedelemkülönbségének mérséklését szolgáló támogatásra terjed ki.
 
 (25) A helyi nemzetiségi önkormányzat által 2013. évben a 14. § (3) bekezdése szerinti fejezetből igénybe vett támogatások elszámolására és kincstári felülvizsgálatára e törvény 2013. december 31-én hatályos 57/A. §-ában, 57/B. §-ában, 60. §-ában, 83. § (4)–(6) bekezdésében, 106. § (10) bekezdésében foglaltakat kell alkalmazni.
+
+(26) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 8/A. § (2) bekezdése nem érinti a Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvény hatálybalépésekor már megalapított költségvetési szervek alapításának érvényességét, azonban a költségvetési szerv alapító okiratának a Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvény hatálybalépését követő módosításánál az alapító okiratot a kincstár által közzétett formanyomtatványnak megfelelően módosítani kell.
+
+(27) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 10. § (4a) bekezdésének a Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvény hatálybalépésekor a törzskönyvi nyilvántartásban szereplő költségvetési szerv legkésőbb 2015. április 1-jén kell, hogy megfeleljen.
+
+(28) A honvédelemért felelős miniszter által vezetett minisztérium, a nemzetbiztonsági szolgálatok és a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek kincstár útján történő központosított illetményszámfejtése 2015. április 1-jétől valósul meg. E határnapot megelőzően a honvédelemért felelős miniszter által vezetett minisztérium, a nemzetbiztonsági szolgálatok és a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek a központosított illetményszámfejtéshez a kincstárral kötött megállapodás alapján csatlakozhatnak.
+
+(29) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 105. § (4) bekezdésének a költségvetési szerv által megkötött szerződés érvénytelenségére vonatkozó rendelkezését a 2015. február 28-át követően megkötött szerződések tekintetében kell alkalmazni. Az irányító szerv e határidőt megelőzően köteles gondoskodni a költségvetési szerv alapító okiratának a törzskönyvi nyilvántartásba elmulasztott bejegyzésének pótlásáról.
+
+(30) A kincstár által működtetett monitoringrendszer keretében a pályázati kiírásra vonatkozó adatok közzétételét és a monitoringrendszerben nyilvántartott adatok csoportosított lekérdezhetőségét 2016. január 1-től kell biztosítani.

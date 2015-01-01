@@ -4,7 +4,7 @@
 
 (2) A kincstárban fizetési számlát kötelesek vezetni
 
-a) a térségi fejlesztési tanácsok,
+a) a térségi fejlesztési tanácsok és azok költségvetési szervként működő munkaszervezetei,
 
 b) a megyei önkormányzatok és a megyei önkormányzatok önkormányzati hivatalai,
 
@@ -32,9 +32,9 @@ k) a Nemzeti Üdülési Szolgálat
 
 (4) A kincstár vezeti a helyi önkormányzat megbízása esetén a helyi önkormányzat és költségvetési szervei, a nemzetiségi önkormányzat megbízása esetén a nemzetiségi önkormányzat és költségvetési szervei, a társulás megbízása esetén a társulás és költségvetési szervei, valamint az (1) bekezdésben meghatározotton kívüli, más köztestület megbízása esetén a köztestület fizetési számláját.
 
-(4a) A kincstár a bevett egyház megbízása esetén a bevett egyház számára fizetési számlát vezet.
+(4a) A kincstár fizetési számlát vezet a bevett egyház megbízása esetén a bevett egyház számára, illetve a törvény által az államháztartás központi alrendszerébe sorolt köztestület kizárólagos tulajdonában álló gazdasági társaság megbízása esetén az ilyen gazdasági társaság számára.
 
-(4b) A Kincstár a 72. § (2) bekezdése szerinti pénzeszközök elkülönítésére letéti és más sajátos elszámolási, lebonyolítási számlákat vezethet.
+(4b) A kincstár a 4/A. § (5) bekezdése szerinti pénzeszközök elkülönítésére letéti és más sajátos elszámolási, lebonyolítási számlákat vezethet.
 
 (5) A kincstár az (1)–(4a) bekezdés szerinti tevékenysége és az általa nyújtott szolgáltatások után jutalékot, díjat számolhat fel, azonban – a felsőoktatási intézményekben állami részösztöndíjas és önköltséges tanulmányokat folytató hallgatók által fizetett önköltség és az államháztartáson kívülről érkező adományok elkülönített kezelésére a felsőoktatási intézmény számára jogszabályban foglaltak alapján vezetett fizetési számla pénzeszközei kivételével – kamatot nem fizethet. A kincstár jogosult az általa vezetett fizetési számlák megterhelésével továbbhárítani a pénzforgalmi szolgáltatások díját, továbbá jogszabályban meghatározott más esetben azokat megterhelni.
 

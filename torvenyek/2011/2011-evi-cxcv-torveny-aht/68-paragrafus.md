@@ -1,4 +1,4 @@
-68. § Az európai támogatásokat ellenőrző szerv ellenőrzési jogköre kiterjed a kormányrendeletben meghatározott forrásokból nyújtott költségvetési támogatásokkal kapcsolatos ellenőrzésekre
+68. § Az európai támogatásokat auditáló szerv ellenőrzési jogköre kiterjed a kormányrendeletben meghatározott forrásokból nyújtott költségvetési támogatásokkal kapcsolatos ellenőrzésekre
 
 a) a lebonyolításban érintett szervezeteknél,
 

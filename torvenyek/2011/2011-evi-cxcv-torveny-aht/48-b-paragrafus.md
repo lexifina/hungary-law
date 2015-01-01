@@ -1,0 +1,1 @@
+48/B. § A 14. § (3) bekezdése szerinti fejezet költségvetési kiadási előirányzatai terhére nyújtott költségvetési támogatások esetén a helyi önkormányzat a támogatóval szembeni kötelezettségeit a kincstár útján teljesíti a Kormány rendeletében meghatározottak szerint.

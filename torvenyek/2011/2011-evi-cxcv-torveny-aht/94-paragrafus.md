@@ -17,3 +17,5 @@ eredményeképpen keletkeztek.
 (5) Az államháztartásért felelős miniszter a kiemelkedő kulturális érdeket jelentő kiállítás megrendezése érdekében az állam nevében – a kiállítási garanciával tartalmában és feltételeiben megegyező – közvetlen és önálló kötelezettséget vállalhat a kiállító által kötött biztosítási szerződésből eredő, a biztosító társaság által kifizetett összeg megtérítésére a biztosító társaság felé (a továbbiakban: kiállítási viszontgarancia).
 
 (6) A kár megtérítésére tekintettel a biztosító társaságot megillető jogok a kiállítási viszontgarancia alapján a központi költségvetés által kifizetett összeg erejéig az államra szállnak át.
+
+(7) Kiállítási garancia és kiállítási viszontgarancia állami tulajdonban álló kiállítási tárgyra nem vállalható.

@@ -1,27 +1,7 @@
-5. § (1) Költségvetési bevételek különösen
+5. § (1) A költségvetési évben teljesülő költségvetési bevételek előirányzott összegét (a továbbiakban: költségvetési bevételi előirányzat) és költségvetési kiadások előirányzott összegét (a továbbiakban: költségvetési kiadási előirányzat) az államháztartás központi alrendszere esetében a központi költségvetésről szóló törvény, az államháztartás önkormányzati alrendszere esetében a költségvetési rendelet, határozat állapítja meg.
 
-a) a közhatalmi – adók, illetékek, járulékok, hozzájárulások, bírságok, díjak, és más fizetési kötelezettségek – bevételek,
+(2) A központi költségvetés többletének felhasználásáról, hiányának finanszírozásáról és az államadósság kezeléséről – a finanszírozási bevételek és finanszírozási kiadások központi költségvetésről szóló törvényben történő megállapítása nélkül – az államháztartásért felelős miniszter gondoskodik. Az államháztartás önkormányzati alrendszerében a költségvetési többlet felhasználásáról, a hiány finanszírozásáról a finanszírozási bevételek előirányzott összegének (a továbbiakban: finanszírozási bevételi előirányzat) és a finanszírozási kiadások előirányzott összegének (a továbbiakban: finanszírozási kiadási előirányzat) megállapításával a költségvetési rendelet, határozat rendelkezik.
 
-b) a közfeladatok ellátása során nyújtott közszolgáltatások ellenértékei,
+(3) A költségvetési bevételi előirányzatok és a finanszírozási bevételi előirányzatok (a továbbiakban együtt: bevételi előirányzatok) a költségvetési bevételek beszedésének kötelezettségét és a finanszírozási bevételek teljesítésének jogosultságát, a költségvetési kiadási előirányzatok és a finanszírozási kiadási előirányzatok (a továbbiakban együtt: kiadási előirányzatok) az azok felhasználásának jogosultságát jelentik.
 
-c) az európai uniós forrásokból és az államháztartáson kívülről érkező támogatásokból származó bevételek,
-
-d) e törvény eltérő rendelkezése hiányában a nemzeti vagyonnal kapcsolatos bevételek, és
-
-e) a kapott kamatok.
-
-(2) Költségvetési kiadások különösen
-
-a) a költségvetési szervek működési és felhalmozási kiadásai,
-
-b) az államháztartáson kívül ellátott közfeladatok finanszírozásával kapcsolatos kiadások,
-
-c) az európai uniós tagságból és más nemzetközi kötelezettségekből származó fizetési kötelezettségek,
-
-d) a társadalombiztosítás pénzügyi alapjaiból finanszírozott ellátások,
-
-e) a nemzeti vagyonnal kapcsolatos kiadások, és
-
-f) az államháztartás alrendszereinek adósságával kapcsolatos kiadások.
-
-(3) A költségvetésben meg kell állapítani a költségvetési bevételek és költségvetési kiadások különbözeteként a költségvetési többletet vagy hiányt (a továbbiakban együtt: költségvetési egyenleg). A központi költségvetés hiányának finanszírozásáról, az államadósság kezeléséről az államháztartásért felelős miniszter gondoskodik. Az államháztartás önkormányzati alrendszerében a költségvetési hiány finanszírozásáról a költségvetési rendelet, költségvetési határozat rendelkezik.
+(4) A költségvetési kiadások – a központi költségvetés előirányzat-módosítási kötelezettség nélkül túlteljesíthető költségvetési kiadásai kivételével – a költségvetésben megállapított (a továbbiakban: eredeti előirányzat) vagy az év közben módosított (a továbbiakban: módosított előirányzat) költségvetési kiadási előirányzatok mértékéig teljesíthetők. A költségvetési bevételek a költségvetési bevételi előirányzatokon felül is teljesíthetők.

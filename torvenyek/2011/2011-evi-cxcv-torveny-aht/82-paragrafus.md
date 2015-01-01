@@ -1,6 +1,6 @@
 ## 55. Az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai finanszírozása
 
-82. § (1) A társadalombiztosítás pénzügyi alapjai esetén a központi támogatást – ha törvény másként nem rendelkezik – az időarányos mértékig, havi bontású finanszírozási terv szerint, a társadalombiztosítás pénzügyi alapjainak kezelő szerve által folyósított, de a központi kezelésű előirányzatokból finanszírozott ellátási kiadások megtérítését az alap kezelő szervének havi elszámolása alapján kell folyósítani.
+82. § (1) A társadalombiztosítás pénzügyi alapjai esetén a központi támogatást – ha kormányrendelet másként nem rendelkezik – az időarányos mértékig, havi bontású finanszírozási terv szerint, a társadalombiztosítás pénzügyi alapjainak kezelő szerve által folyósított, de a központi kezelésű előirányzatokból finanszírozott ellátási kiadások megtérítését az alap kezelő szervének havi elszámolása alapján kell folyósítani.
 
 (2) Az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kiadási előirányzatainak felhasználása előirányzat-felhasználási terv alapján történik.
 

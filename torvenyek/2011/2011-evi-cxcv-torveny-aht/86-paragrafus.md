@@ -10,6 +10,6 @@
 
 (3) A társadalombiztosítás pénzügyi alapjai költségvetési maradványának felhasználhatóságáról az Országgyűlés a zárszámadásról szóló törvényben dönt.
 
-(4) Ha törvény másként nem rendelkezik, az elkülönített állami pénzalap költségvetési maradványa a következő években felhasználható.
+(4) Az elkülönített állami pénzalap költségvetési maradványa felhasználásának engedélyezésére az államháztartásért felelős miniszter hozzájárulása esetén a fejezetet irányító szerv jogosult.
 
 (5) Az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv esetén az irányító szerv jogosult dönteni a költségvetési szerv maradványának elvonandó és felhasználható összegéről.

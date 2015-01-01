@@ -1,12 +1,12 @@
 ## 63. Zárszámadás az államháztartás önkormányzati alrendszerében
 
-91. § (1) A jegyző által elkészített zárszámadási rendelettervezetet a polgármester a költségvetési évet követő negyedik hónap utolsó napjáig terjeszti a képviselő-testület elé. A képviselő-testület a zárszámadásról rendeletet alkot.
+91. § (1) A helyi önkormányzat költségvetésének végrehajtására vonatkozó zárszámadási rendelet tervezetét a jegyző készíti elő és a polgármester terjeszti a képviselő-testület elé úgy, hogy az a képviselő-testület elé terjesztését követő harminc napon belül, de legkésőbb a költségvetési évet követő ötödik hónap utolsó napjáig hatályba lépjen. A zárszámadási rendelet tervezetével együtt a képviselő-testület részére tájékoztatásul be kell nyújtani a kincstár 68/A. § szerinti ellenőrzése keretében a helyi önkormányzat éves költségvetési beszámolójával kapcsolatosan elkészített jelentését.
 
 (2) A zárszámadási rendelettervezet előterjesztésekor a képviselő-testület részére tájékoztatásul a következő mérlegeket és kimutatásokat kell bemutatni:
 
 a) a 24. § (4) bekezdése szerinti mérlegeket, kimutatásokat azzal, hogy az előirányzat felhasználási terven a pénzeszközök változásának bemutatását kell érteni,
 
-b) a helyi önkormányzat adósságának állományát lejárat, a Stabilitási tv. 3. §-a szerinti adósságot keletkeztető ügyletek, bel- és külföldi irányú kötelezettségek szerinti bontásban,
+b) a helyi önkormányzat adósságának állományát lejárat, a Gst. 3. §-a szerinti adósságot keletkeztető ügyletek, bel- és külföldi irányú kötelezettségek szerinti bontásban,
 
 c) a vagyonkimutatást, és
 

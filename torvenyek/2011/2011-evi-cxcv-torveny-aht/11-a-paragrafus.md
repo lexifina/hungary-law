@@ -8,7 +8,7 @@ b) az a) pont szerinti gazdasági társaság 100%-os tulajdonában lévő gazdas
 
 (ezen alcím alkalmazásában a továbbiakban együtt: társaság) által ellátott feladat, illetve végzett egyéb tevékenység (ezen alcím alkalmazásában a továbbiakban együtt: állami feladat) központi költségvetési szerv által történő átvételére, a társaság megszüntetésére, a megszüntetéssel összefüggő eljárások lefolytatására, a társaság jogainak és kötelezettségeinek rendezésére, a társaság tagjának helytállási kötelezettségére az ebben az alcímben foglaltakat kell alkalmazni.
 
-(1a) A társaság e törvény alapján történő megszüntetésekor a megszűnő társaságot terhelő kötelezettségekből származó követeléssel összefüggésben a Ptk. szerinti tagi helytállási kötelezettség nem áll fenn.
+(1a) A társaság e törvény alapján történő megszüntetésekor a megszűnő társaságot terhelő kötelezettségekből származó követeléssel összefüggésben a Polgári Törvénykönyv szerinti tagi helytállási kötelezettség nem áll fenn.
 
 (2) A Kormány az állami feladat központi költségvetési szerv általi átvételéről és a társaság e törvény alapján történő megszüntetéséről kormányrendelettel dönt. Az átvétel időpontjának, illetve a kormányrendelet kihirdetésének és hatálybalépésének megállapításakor figyelemmel kell lenni az állami feladat átvételéhez, valamint az ebben az alcímben és törvényben meghatározottak teljesítéséhez szükséges időigényre.
 
@@ -48,7 +48,7 @@ c) a társaság vagyonára vonatkozóan a közhiteles nyilvántartásokba való 
 
 d) a társaság részvételével működő szervezetekben az állam tagként történő bejegyzéséhez szükséges okiratok kiállításáról és azok átadásáról.
 
-(7) A társaság vezető tisztségviselői korlátlanul és egyetemlegesen felelnek azért a kárért, amely abból keletkezik, hogy a vagyonátadással, az iratátadással és a (6) bekezdés szerinti nyilatkozattétellel összefüggő kötelezettségeiket nem vagy nem teljeskörűen teljesítették, vagy valótlan tartalmú nyilatkozatot tettek.
+(7) A társaság vezető tisztségviselői korlátlanul és egyetemlegesen felelnek azért a kárért, amely abból keletkezik, hogy a vagyonátadással, az iratátadással és a jogszabályban meghatározott nyilatkozattétellel összefüggő kötelezettségeiket nem vagy nem teljeskörűen teljesítették, vagy valótlan tartalmú nyilatkozatot tettek.
 
 (8) Azon társaság ezen alcím alapján történő megszüntetése kizárt, amely
 

@@ -1,7 +1,9 @@
-## 4. A költségvetési bevételek, költségvetési kiadások, költségvetés
+## 4. A tervezés, gazdálkodás és beszámolás alapvető szabályai, az államháztartás bevételei és kiadásai
 
-4. § (1) A költségvetési év megegyezik a naptári évvel.
+4. § (1) Az államháztartásban a tervezést, a gazdálkodást és a beszámolást középtávú tervezés és ezen alapuló éves költségvetés alapján kell folytatni. A költségvetés végrehajtásának éve megegyezik a naptári évvel.
 
-(2) A költségvetés a költségvetési évben teljesülő költségvetési bevételek és költségvetési kiadások előirányzott összegét tartalmazza (a továbbiakban bevételi előirányzatok és kiadási előirányzatok). A bevételi előirányzatok azok teljesítésének kötelezettségét, a kiadási előirányzatok azok felhasználásának jogosultságát jelentik.
+(2) A tervezés során biztosítani kell a tervezett bevételek közgazdasági megalapozottságát, és azt, hogy csak annyi kiadás kerüljön megtervezésre, amennyi a közfeladatok ellátásához indokoltan szükséges.
 
-(3) A költségvetési bevételeket és a költségvetési kiadásokat pénzforgalmi szemléletben kell számba venni. A pénzforgalomban megvalósuló tételek mellett a Kormány rendeletében meghatározott pénzforgalommal nem járó kiegészítő tételeket is el kell számolni költségvetési bevételként vagy költségvetési kiadásként.
+(3) A gazdálkodás során biztosítani kell a bevételek és kiadások tervezés során meghatározott célhoz kötött felhasználását.
+
+(4) A beszámolás során biztosítani kell, hogy valamennyi bevétel és kiadás teljes összegében, a költségvetési évek között összehasonlítható módon kerüljön számbavételre.

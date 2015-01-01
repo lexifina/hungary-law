@@ -1,5 +1,5 @@
 42. § (1) Az önálló szabályozó szerv kivételével az államháztartás központi alrendszerébe tartozó költségvetési szerv által kiszabott és beszedett bírság, annak késedelmi kamata és pótléka a költségvetési szervnél és területi szerveinél nem használható fel. A beszedett bírság, késedelmi kamat, pótlék – a bírságból jogszabály alapján a helyi önkormányzatot megillető rész kivételével – a 14. § (4) bekezdés d) pontja szerinti fejezet javára elszámolandó költségvetési bevételt képez.
 
-(2) A beszedett bírság tekintetében keletkező visszafizetési kötelezettséget a bírságot felhasználó költségvetési szerv vagy – az (1) bekezdés szerinti esetben – a 14. § (4) bekezdés d) pontja szerinti fejezet kiadási előirányzatainak terhére kell teljesíteni.
+(2) A beszedett bírság tekintetében keletkező visszafizetési kötelezettséget a bírságot felhasználó költségvetési szerv vagy – az (1) bekezdés szerinti esetben – a 14. § (4) bekezdés d) pontja szerinti fejezet terhére kell teljesíteni.
 
 (3) Törvény eltérő rendelkezése hiányában – a bíróság, ügyészség által kiszabott eljárási bírság és rendbírság kivételével – a jogerősen kiszabott és meg nem fizetett bírság, valamint a meg nem fizetett bírság miatt jogerősen kiszabott és meg nem fizetett késedelmi pótlék köztartozásnak minősül, és adók módjára kell behajtani.

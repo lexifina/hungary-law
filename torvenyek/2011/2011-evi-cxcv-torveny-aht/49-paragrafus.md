@@ -1,1 +1,1 @@
-49. § A fejezetet irányító szerv a költségvetési támogatásokkal kapcsolatos feladatok ellátásával lebonyolító szervet is megbízhat, ha azt jogszabály lehetővé teszi.
+49. § A fejezetet irányító szerv a költségvetési támogatásokkal kapcsolatos feladatok ellátásával lebonyolító szervet, az európai uniós forrásból nyújtott költségvetési támogatásokkal kapcsolatos feladatok ellátására közreműködő szervezetet is megbízhat, ha azt jogszabály lehetővé teszi.

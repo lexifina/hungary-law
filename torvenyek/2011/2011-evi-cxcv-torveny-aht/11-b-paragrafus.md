@@ -10,4 +10,4 @@
 
 (6) Az átvevő költségvetési szerv az állami feladat átvételének időpontjától számított harminc napon belül gondoskodik a társaság – az állami feladat átvételét megelőző napra, mint mérlegfordulónapra vonatkozó, a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) szerinti – tevékenységet lezáró számviteli beszámolójának elkészítéséről, könyvvizsgálatáról, letétbe helyezéséről és közzétételéről, valamint a záró adóbevallások elkészítéséről és azok illetékes adóhatóságnak történő benyújtásáról.
 
-(7) A társaság számviteli beszámolójának elkészítésére az e törvényben meghatározott eltérésekkel az Szt. 178. § (1) bekezdés f) pontja felhatalmazása alapján kiadott kormányrendeletben foglalt előírásokat kell alkalmazni.
+(7) A társaság számviteli beszámolójának elkészítésére az e törvényben meghatározott eltérésekkel az Szt. 178. § (1) bekezdés f) pontja felhatalmazása alapján kiadott kormányrendeletben foglalt előírásokat kell alkalmazni azzal az eltéréssel, hogy a záróleltár és a tevékenységet lezáró beszámoló mérlege értékhelyesbítést, értékelési tartalékot, időbeli elhatárolást, közvetített szolgáltatás nem tartalmazhat.

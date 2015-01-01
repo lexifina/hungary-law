@@ -1,12 +1,14 @@
-106/A. § (1) A kincstár a központosított illetményszámfejtés keretében jogosult a munkabér, az illetmény, a tiszteletdíj, a költségtérítés és egyéb pénzbeli juttatás számfejtése, kifizetése és annak ellenőrzése céljából az érintett
+106/A. § (1) A kincstár a központosított illetményszámfejtés keretében jogosult a munkabér, az illetmény, a tiszteletdíj, a költségtérítés, egyéb pénzbeli juttatás és a megállapodás alapján biztosítottnak minősülő személy juttatásának számfejtése, kifizetése és annak ellenőrzése céljából az érintett
 
 a) természetes személyazonosító adatainak, állampolgárságának, nemének, lakcímének, társadalombiztosítási azonosító jelének, adóazonosító jelének, fizetési számlaszámának,
 
-b) eltartott gyermeke természetes személyazonosító adatainak, lakcímének és társadalombiztosítási azonosító jelének,
+b) munkabére, illetménye, tiszteletdíja, költségtérítése és egyéb pénzbeli juttatása, mindezek után fizetendő adók és járulékok, valamint az ezekből behajtandó követelések mértékének,
 
-c) iskolai és egyéb végzettségére vonatkozó adatának,
+c) a b) ponttal összefüggésben házastársa, élettársa és eltartott gyermeke természetes személyazonosító adatainak, lakcímének, társadalombiztosítási azonosító jelének és adóazonosító jelének, valamint a munkabér, illetmény, tiszteletdíj, költségtérítés és egyéb pénzbeli jutatás után fizetendő adókhoz és járulékokhoz kapcsolódó kedvezményekhez szükséges személyes adatainak,
 
-d) foglalkoztatásával összefüggésben a munkahely megnevezésének, a jogviszony jellegének, a beosztásának, a besorolásának, a munkakörének, a jogviszonya kezdete és befejezése időpontjának, a jogviszony megszűnése módjának
+d) iskolai és egyéb végzettségére vonatkozó adatának,
+
+e) foglalkoztatásával összefüggésben a fennálló és a korábbi munkahely megnevezésének, a jogviszony jellegének, a beosztásának, a besorolásának, a munkakörének, a jogviszonya kezdete és befejezése időpontjának
 
 kezelésére.
 

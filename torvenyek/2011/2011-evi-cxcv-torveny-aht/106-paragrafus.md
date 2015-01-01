@@ -24,9 +24,11 @@ b) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivat
 
 c) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) gyámhivatala a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerint a hatáskörébe tartozó pénzbeli ellátások feltételeinek meghatározása érdekében, valamint az iskoláztatási támogatás szüneteltetésével kapcsolatos feladatainak ellátásához szükséges adatokat,
 
-d) a fővárosi és megyei kormányhivatal szociális és gyámhivatala az a)–c) pontok szerinti eljárásban hozott döntés elleni, a hatáskörébe tartozó jogorvoslati eljárás lefolytatásához, valamint az a)–c) pontok szerinti ügyekkel összefüggő felügyeleti eljárás lefolytatásához szükséges adatokat, és
+d) a fővárosi és megyei kormányhivatal szociális és gyámhivatala az a)–c) pontok szerinti eljárásban hozott döntés elleni, a hatáskörébe tartozó jogorvoslati eljárás lefolytatásához, valamint az a)–c) pontok szerinti ügyekkel összefüggő felügyeleti eljárás lefolytatásához szükséges adatokat,
 
 e) a Diákhitel Központ Zrt. a célzott kamattámogatás megállapításához a gyermekgondozási segélyre vonatkozó adatokat
+
+f) a települési önkormányzat képviselő-testülete a szociális igazgatásról és szociális ellátásokról szóló törvény szerint a hatáskörébe tartozó pénzbeli és természetbeni ellátások feltételeinek meghatározása érdekében szükséges adatokat
 
 közvetlen lekérdezéssel díjmentesen elérheti.
 

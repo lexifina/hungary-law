@@ -1,0 +1,1 @@
+60/B. § A helyi önkormányzat kérelme alapján a kincstár által e törvény alapján benyújtott beszedési megbízást a kincstár nem nyújtja be vagy a már benyújtott beszedési megbízást visszavonja, ha a kérelmező igazolja, hogy az általa fizetendő munkabérek, illetmények és ellátások kifizetését a beszedési megbízás érvényesítése veszélyeztetné.

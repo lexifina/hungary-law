@@ -1,9 +1,5 @@
-## 35. A költségvetési támogatások folyósítása
+52. § (1) A költségvetési támogatások felhasználását – ha ennek a közbeszerzésekről szóló törvény szerinti feltételei fennállnak – közbeszerzés alkalmazásához kell kötni.
 
-52. § (1)
+(2) A költségvetési támogatás nem köthető olyan feltételhez, hogy a közbeszerzési eljárás ajánlattevőjét előzetesen válasszák ki. Ez a rendelkezés nem zárja ki, hogy a támogatási igény elbírálását megelőzően közbeszerzési eljárás kerüljön megindításra, vagy a támogató annak megindítását határozza meg a költségvetési támogatás feltételeként.
 
-(2) A költségvetési támogatás folyósítása egy összegben vagy részletekben, időarányosan vagy teljesítésarányosan történhet.
-
-(3) Az Európai Unió közvetlenül alkalmazandó jogi aktusának eltérő rendelkezése hiányában az államháztartáson kívüli természetes személynek, jogi személynek és jogi személyiséggel nem rendelkező más szervezetnek folyósításra kerülő költségvetési támogatásból a költségvetési támogatásban részesülő természetes személyt, jogi személyt, jogi személyiség nélküli más szervezetet (a továbbiakban együtt: kedvezményezett) terhelő köztartozás összegét – a Kormány rendeletében meghatározott kivétellel és módon, az állami adóhatóság adatszolgáltatása alapján – az agrártámogatások esetén a mezőgazdasági és vidékfejlesztési támogatási szerv, más költségvetési támogatás esetén a kincstár visszatartja, és az állami adóhatóság megfelelő bevételi számláján jóváírja.
-
-(4) A központi költségvetésről szóló törvény alapján a humánszolgáltatások után nem állami intézmény fenntartójának biztosított normatív és egyéb hozzájárulás esetén a (3) bekezdés rendelkezéseit a fenntartó és az általa fenntartott intézmények köztartozásaira egyaránt alkalmazni kell.
+(3) A támogató a támogatási döntésre vonatkozó tájékoztatásban a támogatási szerződés megkötésének feltételeként előírhatja a támogatási szerződéskötést megelőzően közbeszerzési eljárás lefolytatását vagy a támogatási szerződésben a közbeszerzési eljárás megindításának előfeltételéül a közbeszerzési dokumentumok ellenőrzését és annak megindítását a támogató egyetértéséhez kötheti.

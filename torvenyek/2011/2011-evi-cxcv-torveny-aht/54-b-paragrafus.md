@@ -1,15 +1,13 @@
-54/B. § A támogató a költségvetési támogatás folyósításától számított öt évig a honlapján vagy – ha a támogató honlappal nem rendelkezik – a támogató irányító szervének honlapján közzéteheti a jogi személy vagy jogi személyiséggel nem rendelkező szervezet kedvezményezettre vonatkozóan
+54/B. § (1) A támogató a monitoringrendszerbe történő adatátadással gondoskodik
 
-a) az 54/A. § a) pontja szerinti adatot,
+a) a támogatási igényhez kapcsolódóan a támogatási igény benyújtója nevére, a támogatási igény céljára és az igényelt költségvetési támogatás mértékére, a pályázati úton biztosított támogatás esetében a pályázati kiírás tárgyára,
 
-b) az 54/A. § b) pont bb) és bd) alpontja szerinti adatot,
+b) a támogatási döntéshez kapcsolódóan a támogatási döntés meghozatalára jogosult személy, testület esetén a testület tagjainak nevére és a költségvetési támogatás megállapított mértékére,
 
-c) az 54/A. § b) pontja szerinti kedvezményezett tényleges tulajdonosainak nevét, tulajdoni hányadát, befolyásának és szavazati jogának mértékét,
+c) a költségvetési támogatás felhasználásához kapcsolódóan bekövetkezett vagy a támogató által megállapított, a támogatási jogviszonyt érintő lényeges tényekre, körülményekre
 
-d) az 54/A. § b) pont bb) alpontja szerint szervezet tényleges tulajdonosainak nevét, tulajdoni hányadát, befolyásának és szavazati jogának mértékét,
+vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételéről.
 
-e) az 54/A. § c) pontja szerinti kedvezményezett vezető tisztségviselőjének nevét,
+(2) A monitoringrendszerben kezelt adatok a támogatási döntés naptári évének utolsó napjától számított öt év elteltével törölhetők.
 
-f) az 54/A. § c) pont cb), cc) és cf) alpontja szerinti adatot és
-
-g) az 54/A. § c) pont cb) alpontja szerinti szervezet tényleges tulajdonosainak nevét, tulajdoni hányadát, befolyásának és szavazati jogának mértékét.
+(3) A monitoringrendszerben nyilvántartott adatok kereshetőségét, pályázatonként, pályázónként, összeghatár szerint és más módon csoportosított lekérdezhetőségét bárki számára, ingyenesen biztosítani kell.

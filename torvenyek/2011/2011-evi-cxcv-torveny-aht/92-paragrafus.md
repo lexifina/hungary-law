@@ -4,11 +4,15 @@
 
 ## 64. Az állami kezesség, állami garancia, állami viszontgarancia, a kiállítási garancia és viszontgarancia szabályai
 
-92. § (1) Egyedileg meghatározott szerződéses kötelezettséghez az állam nevében állami kezességet, állami garanciát (a továbbiakban: egyedi állami kezesség) a Kormány egyedi határozatában vagy törvényben foglalt felhatalmazás alapján az államháztartásért felelős miniszter vállalhat.
+92. § (1) A Polgári Törvénykönyv szerinti kezességnek, garanciának megfelelő, az állam nevében egyedileg meghatározott szerződéses kötelezettséget (a továbbiakban: egyedi állami kezesség) a Kormány egyedi határozatában vagy törvényben foglalt felhatalmazás alapján az államháztartásért felelős miniszter vállalhat.
 
 (2) Egyedi állami kezesség abban az esetben vállalható, ha az nemzetgazdasági vagy valamely ágazatpolitikai cél megvalósítását szolgálja és a szerződéses kötelezettség teljesítése a kötelezett pénzügyi helyzetére vonatkozó információk alapján, és a rendelkezésre álló fedezetre tekintettel – az egyedi állami kezesség beváltása és egyéb állami többlettámogatás nélkül – megalapozott.
 
-(3) Törvényben meghatározott feltételek bekövetkezése esetén állami kezesség, állami garancia (a továbbiakban e § alkalmazásában: jogszabályi állami kezesség) szerződéskötés vagy nyilatkozat kibocsátása nélkül keletkezik. A jogszabályi állami kezesség részletes feltételeit és szabályait a Kormány rendeletben állapítja meg.
+(2a) Egyedi állami kezesség nemzetközi pénzügyi intézmények felé a Polgári Törvénykönyvtől eltérő feltételekkel, az e szervezetekkel kölcsönösen elfogadott tartalommal és formában is vállalható.
+
+(3) Törvényben meghatározott feltételek bekövetkezése esetén a Polgári Törvénykönyv szerinti kezességnek, garanciának megfelelő, az állam nevében vállalt kötelezettség (a továbbiakban e § alkalmazásában: jogszabályi állami kezesség) szerződéskötés vagy nyilatkozat kibocsátása nélkül keletkezik. A jogszabályi állami kezesség részletes feltételeit és szabályait a Kormány rendeletben állapítja meg.
+
+(3a) Egyedi állami kezesség és jogszabályi állami kezesség nem vállalható olyan kötelezettség biztosítására, amelynek jogosultja az államháztartás központi alrendszerébe tartozó költségvetési szerv.
 
 (4) Az egyedi állami kezesség és a jogszabályi állami kezesség készfizető kezesség formájában csak az (1) és (3) bekezdés szerinti törvény, határozat kifejezett felhatalmazása esetén vállalható.
 

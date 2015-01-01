@@ -1,5 +1,5 @@
-## 30. Létszám, személyi juttatások, illetményszámfejtés
+## 30. Személyi juttatások, illetményszámfejtés
 
-43. § (1) A minisztérium, a kormányhivatal, a központi hivatal, a Kormány irányítása vagy felügyelete alatt álló rendvédelmi szerv, és a honvédelemért felelős miniszter irányítása alá tartozó költségvetési szerv engedélyezett létszámát a Kormány, más költségvetési szerv engedélyezett létszámát az irányító szerv állapítja meg.
+43. § (1) A személyi juttatások kiemelt előirányzatot a foglalkoztatottak jogviszonyaira és a személyi juttatások kiemelt előirányzaton elszámolandó egyéb juttatásokra vonatkozó szabályok alapján kell megállapítani. A személyi juttatások kiemelt előirányzata a megfelelő összegű munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat nélkül nem tervezhető és hagyható jóvá.
 
-(2) A személyi juttatások előirányzatát a foglalkoztatottak jogviszonyait szabályozó jogszabályok alapján kell megállapítani.
+(2) A költségvetési szervnél foglalkoztatásra irányuló jogviszony létesítéséhez kapcsolódóan legfeljebb az (1) bekezdés szerint számított személyi juttatások kiemelt előirányzat törvény alapján járó munkabérek, illetmények fedezetére szolgáló részének megfelelő mértékéig, a munkavégzésre irányuló más jogviszony létesítéséhez kapcsolódóan legfeljebb az (1) bekezdés szerint számított személyi juttatások kiemelt előirányzat munkavégzésre irányuló egyéb jogviszonyban nem saját foglalkoztatottnak fizetett juttatások fedezetére szolgáló részének megfelelő mértékéig vállalható kötelezettség.

@@ -1,5 +1,3 @@
-## 3. Az államháztartás alrendszerei
-
 3. § (1) Az államháztartás központi és önkormányzati alrendszerből áll.
 
 (2) Az államháztartás központi alrendszerébe tartozik
@@ -18,8 +16,8 @@ a) a helyi önkormányzat,
 
 b) a helyi nemzetiségi önkormányzat és az országos nemzetiségi önkormányzat (a továbbiakban együtt: nemzetiségi önkormányzat),
 
-c) a társulás,
+c) a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) és a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Njt.) szerint létrehozott társulás, valamint a területfejlesztésről és a területrendezésről szóló törvény alapján létrejött területfejlesztési önkormányzati társulás (a továbbiakban együtt: társulás),
 
 d) a térségi fejlesztési tanács, és
 
-e) az a)–d) pontban foglaltak által irányított helyi önkormányzati, helyi nemzetiségi önkormányzati, országos nemzetiségi önkormányzati költségvetési szerv.
+e) az a)–d) pontban foglaltak által irányított költségvetési szerv.

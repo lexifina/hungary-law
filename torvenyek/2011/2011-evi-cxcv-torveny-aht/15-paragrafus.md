@@ -8,6 +8,6 @@
 
 (5) A 14. § (3) és (4) bekezdése szerinti fejezetek kizárólag központi kezelésű előirányzatokat tartalmaznak.
 
-(6) Az elkülönített állami pénzalap költségvetési bevételeit és költségvetési kiadásait tartalmazó fejezet az elkülönített állami pénzalap működéséről szóló törvényben meghatározott tartalmú bevételi és kiadási előirányzatokat cím, alcím szerinti bontásban tartalmazza.
+(6) Az elkülönített állami pénzalap költségvetési bevételeit és költségvetési kiadásait tartalmazó fejezet az elkülönített állami pénzalap működéséről szóló törvényben meghatározott tartalmú költségvetési bevételi előirányzatokat és költségvetési kiadási előirányzatokat cím, alcím szerinti bontásban tartalmazza.
 
-(7) A társadalombiztosítás pénzügyi alapjai költségvetési bevételeit és költségvetési kiadásait tartalmazó fejezet a szabályozási szempontból összetartozó bevételi és kiadási előirányzatokat cím, alcím, jogcím-csoport, jogcím szerinti bontásban tartalmazza. A működési bevételek és kiadások címként jelennek meg, ezen belül alcímet alkotnak a központi hivatali szervek és az igazgatási szervek.
+(7) A társadalombiztosítás pénzügyi alapjai költségvetési bevételeit és költségvetési kiadásait tartalmazó fejezet a szabályozási szempontból összetartozó költségvetési bevételi előirányzatokat és költségvetési kiadási előirányzatokat cím, alcím, jogcím-csoport, jogcím szerinti bontásban tartalmazza. A működési bevételek és kiadások címként jelennek meg, ezen belül alcímet alkotnak a központi hivatali szervek és az igazgatási szervek.

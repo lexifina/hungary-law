@@ -1,3 +1,3 @@
-16. § (1) A központi költségvetésről szóló törvény az államháztartás központi alrendszerébe tartozó költségvetési szervek kiadási előirányzatait előirányzat-csoportok, kiemelt előirányzatok szerinti bontásban, bevételi előirányzataikat összesítve tartalmazza.
+16. § (1) A központi költségvetésről szóló törvény az államháztartás központi alrendszerébe tartozó költségvetési szervek költségvetési kiadási előirányzatait működési kiadások és felhalmozási kiadások, kiemelt előirányzatok szerinti bontásban, bevételi előirányzataikat összesítve tartalmazza.
 
-(2) A központi kezelésű előirányzatok és a fejezeti kezelésű előirányzatok bevételi és kiadási előirányzatait a központi költségvetésről szóló törvény előirányzat-csoport, kiemelt előirányzat bontás nélkül, összesítve tartalmazza.
+(2) A központi kezelésű előirányzatok és a fejezeti kezelésű előirányzatok költségvetési bevételi előirányzatait és költségvetési kiadási előirányzatait a központi költségvetésről szóló törvény működési bevételek és működési kiadások, felhalmozási bevételek és felhalmozási kiadások, kiemelt előirányzat bontás nélkül, összesítve tartalmazza.

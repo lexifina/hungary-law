@@ -4,21 +4,33 @@
 
 (2) A helyi önkormányzat költségvetése tartalmazza
 
-a) a helyi önkormányzat költségvetési bevételeit és költségvetési kiadásait előirányzat-csoportok, kiemelt előirányzatok, és kötelező feladatok, önként vállalt feladatok, állami (államigazgatási) feladatok szerinti bontásban,
+a) a helyi önkormányzat költségvetési bevételi előirányzatait és költségvetési kiadási előirányzatait
 
-b) a helyi önkormányzat által irányított költségvetési szervek engedélyezett létszámát, valamint költségvetési bevételeit és költségvetési kiadásait előirányzat-csoportok, kiemelt előirányzatok, és kötelező feladatok, önként vállalt feladatok, állami (államigazgatási) feladatok szerinti bontásban,
+aa) működési bevételek és működési kiadások, felhalmozási bevételek és felhalmozási kiadások, kiemelt előirányzatok, és
 
-c) a költségvetési egyenleg összegét működési és felhalmozási cél szerinti bontásban,
+ab) kötelező feladatok, önként vállalt feladatok és államigazgatási feladatok
 
-d) a költségvetési hiány belső finanszírozására szolgáló előző évek költségvetési maradványának, vállalkozási maradványának igénybevételét, ideértve a 73. § (1) bekezdés a) pont ac) alpontja szerinti betét visszavonását működési és felhalmozási cél szerinti tagolásban,
+szerinti bontásban,
 
-e) a d) ponton túli költségvetési hiány külső finanszírozására vagy a költségvetési többlet felhasználására szolgáló finanszírozási bevételeket és kiadásokat működési és felhalmozási cél szerinti tagolásban,
+b) a helyi önkormányzat által irányított költségvetési szervek költségvetési bevételi előirányzatait és költségvetési kiadási előirányzatait
 
-f) a költségvetési év azon fejlesztési céljait, amelyek megvalósításához a Stabilitási tv. 3. § (1) bekezdése szerinti adósságot keletkeztető ügylet megkötése válik vagy válhat szükségessé, az adósságot keletkeztető ügyletek várható együttes összegével együtt,
+ba) kiemelt előirányzatok,
 
-g) a Stabilitási tv. 3. § (1) bekezdése szerinti adósságot keletkeztető ügyletekből és kezességvállalásokból fennálló kötelezettségeit az adósságot keletkeztető ügyletek futamidejének végéig, illetve a kezesség érvényesíthetőségéig, és a Stabilitási tv. 45. § (1) bekezdés a) pontja felhatalmazása alapján kiadott jogszabályban meghatározottak szerinti saját bevételeit, és
+bb) kötelező feladatok, önként vállalt feladatok és államigazgatási feladatok
 
-h) a költségvetés végrehajtásával kapcsolatos hatásköröket, így különösen a Mötv. 68. § (4) bekezdése szerinti értékhatárt, a finanszírozási bevételekkel és kiadásokkal kapcsolatos hatásköröket, valamint a 34. § (2) bekezdése szerinti esetleges felhatalmazást.
+szerinti bontásban,
+
+c) a költségvetési egyenleg összegét működési bevételek és működési kiadások egyenlege és a felhalmozási bevételek és a felhalmozási kiadások egyenlege szerinti bontásban,
+
+d) a költségvetési hiány belső finanszírozására szolgáló, a 6. § (7) bekezdés a) pont ab) és ac) alpontja szerinti finanszírozási bevételi előirányzatokat,
+
+e) a d) ponton túli költségvetési hiány külső finanszírozására vagy a költségvetési többlet felhasználására szolgáló finanszírozási bevételi előirányzatokat és finanszírozási kiadási előirányzatokat,
+
+f) a költségvetési év azon fejlesztési céljait, amelyek megvalósításához a Gst 3. § (1) bekezdése szerinti adósságot keletkeztető ügylet megkötése válik vagy válhat szükségessé, az adósságot keletkeztető ügyletek várható együttes összegével együtt,
+
+g) a Gst 3. § (1) bekezdése szerinti adósságot keletkeztető ügyletekből és az önkormányzati garanciákból és önkormányzati kezességekből fennálló kötelezettségeit az adósságot keletkeztető ügyletek futamidejének végéig, illetve a garancia, kezesség érvényesíthetőségéig, és a Gst 45. § (1) bekezdés a) pontjában kapott felhatalmazás alapján kiadott jogszabályban meghatározottak szerinti saját bevételeit, és
+
+h) a költségvetés végrehajtásával kapcsolatos hatásköröket, így különösen a Mötv. 68. § (4) bekezdése szerinti értékhatárt, a finanszírozási bevételekkel és a finanszírozási kiadásokkal kapcsolatos hatásköröket, valamint a 34. § (2) bekezdése szerinti esetleges felhatalmazást.
 
 (3) A költségvetési rendeletben elkülönítetten szerepel az évközi többletigények, valamint az elmaradt bevételek pótlására szolgáló általános tartalék és céltartalék.
 
