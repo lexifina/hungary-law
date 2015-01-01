@@ -4,7 +4,7 @@ a) az engedélyezés alapjául szolgáló feltételek olyan jelentősen megvált
 
 b) családi kapcsolatra tekintettel kiadott engedély esetén a házasság az engedély kézhezvételétől számított három éven belül nem a házastárs halála miatt szűnt meg, vagy a harmadik országbeli állampolgár szülői felügyeleti joga megszűnt, kivéve, ha a harmadik országbeli állampolgár már négy éve letelepedettként vagy bevándoroltként Magyarország területén tartózkodik;
 
-c) a harmadik országbeli állampolgár Magyarország területét hat hónapnál hosszabb ideig elhagyta, kivéve, ha a nemzeti letelepedése a 35. § (1) bekezdés e) pontja alapján került engedélyezésre.
+c) a harmadik országbeli állampolgár Magyarország területét hat hónapnál hosszabb ideig elhagyta, kivéve, ha a nemzeti letelepedési engedélye a 35. § (1) bekezdés e) vagy f) pontja alapján került engedélyezésre, illetve ha az ezen alapon kiadott nemzeti letelepedési engedéllyel rendelkező harmadik országbeli állampolgár házastársaként a 35. § (1) bekezdés c) pontja alapján kiadott, vagy kiskorú gyermekeként a 35. § (1) bekezdés g) pontja alapján kiadott nemzeti letelepedési engedéllyel rendelkezik.
 
 (2) Az idegenrendészeti hatóság az engedélyt visszavonja, ha
 
@@ -14,4 +14,6 @@ b) a kiskorú harmadik országbeli állampolgár esetében a szülői felügyele
 
 c) a harmadik országbeli állampolgár családi kapcsolatra tekintettel kiadott engedélye esetén magyar állampolgár házastársa Magyarország területét a külföldi letelepedés szándékával elhagyta, vagy a harmadik országbeli házastárs Magyarország területén történő jogszerű tartózkodása megszűnt;
 
-d) a harmadik országbeli állampolgárt kiutasították, vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el.
+d) a harmadik országbeli állampolgárt kiutasították, vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el;
+
+e) az engedélyezéshez szükséges állampapír lejegyzése a 28. § (4) bekezdés b) pontjában előírt határidőn belül nem történt meg.

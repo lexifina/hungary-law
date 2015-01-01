@@ -12,9 +12,11 @@ d) magyar állampolgár volt, de állampolgársága megszűnt, illetve akinek fe
 
 e) a kérelem benyújtását közvetlenül megelőzően legalább hat hónapja rendelkezik az e törvény 28. § (3) bekezdése alapján kiadott tartózkodási engedéllyel;
 
-f) a kérelem benyújtását közvetlenül megelőzően legalább hat hónapja rendelkezik tartózkodási engedéllyel és letelepedéséhez nemzetgazdasági érdek fűződik;
+f) a kérelem benyújtását közvetlenül megelőzően legalább hat hónapja rendelkezik tartózkodási engedéllyel és a 28. § (4) bekezdése szerinti értékpapírt lejegyezte;
 
 g) bevándorolt, letelepedett, illetve menekültként elismert harmadik országbeli állampolgár kiskorú gyermeke.
+
+(1a) Az (1) bekezdés e) pontja alapján előterjesztett nemzeti letelepedési engedély kiadására irányuló eljárásban – a törvényben meghatározott személyes megjelenési kötelezettség kivételével – a jogi képviselet kötelező.
 
 (2) Nem minősül Magyarország területén történő tartózkodás megszakításának Magyarország területének alkalmanként négy hónapnál rövidebb időre történő elhagyása, amennyiben a külföldi tartózkodások összidőtartama a kérelem benyújtását megelőző három év alatt nem haladja meg a kétszázhetven napot.
 

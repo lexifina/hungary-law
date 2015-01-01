@@ -16,7 +16,7 @@ f) a meghívólevél hatósági záradékkal történő ellátásának feltétel
 
 g) a kiutasítást előkészítő, valamint az idegenrendészeti őrizet és a kötelező tartózkodási hely létesítésével, illetve kijelölésével kapcsolatos végrehajtás szabályait, továbbá az őrizetben lévő harmadik országbeli állampolgárok egészségügyi ellátásának és támogatásának részletes szabályait;
 
-h) a harmadik országbeli állampolgárok beutazásának és tartózkodásának részletes közegészségügyi szabályait, valamint az egészségügyi ellátás anyagi fedezetének mértékét és igazolásának szabályait;
+h) a harmadik országbeli állampolgárok egészségügyi ellátását, az egészségügyi ellátás anyagi fedezetének mértékét és igazolását;
 
 i) a fuvarozóval, valamint a munkáltatóval szemben e törvény alapján kiszabható bírság mértékét és kiszabásának rendjét;
 
