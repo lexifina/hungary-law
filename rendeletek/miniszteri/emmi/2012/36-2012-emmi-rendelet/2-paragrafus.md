@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 13. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
+## 1. § Az érettségi vizsga részletes követelményeiről szóló 40/2002. (V. 24.) OM rendelet (a továbbiakban: R.) Melléklete az 1. melléklet szerint módosul.
