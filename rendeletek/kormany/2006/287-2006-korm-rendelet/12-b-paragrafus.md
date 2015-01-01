@@ -1,4 +1,4 @@
-12/B. §[^22] (1) Az országos várólista nyilvántartást az Országos Egészségbiztosítási Pénztár vezeti.
+12/B. §[^23] (1) Az országos várólista nyilvántartást az Országos Egészségbiztosítási Pénztár vezeti.
 
 (2) Az országos várólista nyilvántartást vezető szerv
 
@@ -20,4 +20,4 @@ e) az a)–d) pont szerinti feladatok ellátása érdekében ellenőrzi az álta
 
 (6) Az országos várólista nyilvántartást vezető szerv – a térségi betegút-szervezési feladatok ellátása érdekében – biztosítja a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet részére az online módon történő betekintést az országos várólista nyilvántartásba.
 
-[^22]: A 12/B. §-t a 92/2012. (IV. 27.) Korm. rendelet 17. §-a iktatta be.
+[^23]: A 12/B. §-t a 92/2012. (IV. 27.) Korm. rendelet 17. §-a iktatta be.

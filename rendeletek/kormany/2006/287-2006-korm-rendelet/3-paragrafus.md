@@ -16,8 +16,9 @@ e) csontvelő transzplantáció: Gyermek Csontvelő Transzplantációs Bizottsá
 
 (4)[^13] A transzplantációs várólistára történő felkerüléssel, az átmeneti alkalmatlansággal és a törléssel kapcsolatos döntést a transzplantáció típusa szerint illetékes Transzplantációs Bizottság hozza meg a várólista-sorrend kialakításának szakmai feltételeiről szóló jogszabályban, valamint szervátültetések esetében az (1) bekezdés szerinti, a szervcsere szervezettel kötött megállapodásban foglaltak szerint.
 
-(5) A Transzplantációs Bizottságok szakterületükön figyelemmel kísérik a szervriadók eredményességét, továbbá elemzik a transzplantációk országos helyzetét.
+(5)[^14]
 
 [^11]: A 3. § (1) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
 [^12]: A 3. § (2) bekezdés d) pontja a 254/2013. (VII. 5.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
 [^13]: A 3. § (4) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^14]: A 3. § (5) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 61. §-a hatályon kívül helyezte.

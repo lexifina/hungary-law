@@ -1,3 +1,3 @@
-## 14–15. §[^50]
+## 14–15. §[^51]
 
-[^50]: A 14–15. §-t a 447/2012. (XII. 29.) Korm. rendelet 47. §-a hatályon kívül helyezte.
+[^51]: A 14–15. §-t a 447/2012. (XII. 29.) Korm. rendelet 47. §-a hatályon kívül helyezte.

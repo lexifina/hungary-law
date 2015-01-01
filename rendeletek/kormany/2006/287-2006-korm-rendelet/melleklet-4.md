@@ -108,6 +108,6 @@
 
 ## Zala megye.
 
-4. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^55]
+4. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^56]
 
-[^55]: A 4. számú melléklet a 370/2007. (XII. 23.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^56]: A 4. számú melléklet a 370/2007. (XII. 23.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
