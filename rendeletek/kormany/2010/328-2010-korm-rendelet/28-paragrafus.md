@@ -1,8 +1,8 @@
 ## 5. A talajvédelmi hatósági eljárásokban közreműködő szakhatóságok
 
-28. § (1)[^71] A Kormány a hígtrágya nitrátérzékeny területen történő mezőgazdasági felhasználása engedélyezésére irányuló első fokú eljárásban – a felszín alatti vizek minőségének védelme kérdésében – vízvédelmi hatóságot szakhatóságként jelöli ki.
+28. § (1)[^72] A Kormány a hígtrágya nitrátérzékeny területen történő mezőgazdasági felhasználása engedélyezésére irányuló első fokú eljárásban – a felszín alatti vizek minőségének védelme kérdésében – vízvédelmi hatóságot szakhatóságként jelöli ki.
 
-(2)[^72] A Kormány a szennyvíz és szennyvíziszap mezőgazdasági felhasználásának engedélyezése és az engedély meghosszabbítása iránti első fokú eljárásban, továbbá a nem mezőgazdasági eredetű nem veszélyes hulladék mezőgazdasági felhasználásának engedélyezési és az engedély meghosszabbítása iránti első fokú eljárásban
+(2)[^73] A Kormány a szennyvíz és szennyvíziszap mezőgazdasági felhasználásának engedélyezése és az engedély meghosszabbítása iránti első fokú eljárásban, továbbá a nem mezőgazdasági eredetű nem veszélyes hulladék mezőgazdasági felhasználásának engedélyezési és az engedély meghosszabbítása iránti első fokú eljárásban
 
 a) – a vizek minőségét, egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők vizsgálatával kapcsolatos szakkérdésben – a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézetét (a továbbiakban: járási népegészségügyi intézet),
 
@@ -26,5 +26,5 @@ b) a tereprendezés során kitermelt ásványi nyersanyag felhasználása, ért�
 
 kapcsolatos szakkérdésben a bányakapitányságot szakhatóságként jelöli ki.
 
-[^71]: A 28. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 97. § b) pontja szerint módosított szöveg.
-[^72]: A 28. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 520. §-ával megállapított szöveg.
+[^72]: A 28. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 97. § b) pontja szerint módosított szöveg.
+[^73]: A 28. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 520. §-ával megállapított szöveg.

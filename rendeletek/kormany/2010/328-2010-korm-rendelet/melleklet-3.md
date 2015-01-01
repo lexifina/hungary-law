@@ -340,7 +340,7 @@
 
 ## 21. Verpeléti
 
-3. melléklet a 328/2010. (XII. 27.) Korm. rendelethez[^107]
+3. melléklet a 328/2010. (XII. 27.) Korm. rendelethez[^108]
 
 A járási állategészségügyi és élelmiszer-ellenőrző hivatalok illetékességi területe
 
@@ -532,11 +532,9 @@ Martonvásári Járás
 
 Móri Járás
 
-6.4 Polgárdi Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatal
+6.4[^109] Enyingi Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatal
 
 Enyingi Járás
-
-Polgárdi Járás
 
 6.5 Sárbogárdi Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatal
 
@@ -920,7 +918,7 @@ Kőszegi Járás
 
 18. Veszprém megye
 
-18.1[^108] Devecseri Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatal
+18.1[^110] Devecseri Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatal
 
 Ajkai Járás
 
@@ -972,5 +970,6 @@ Letenyei Járás
 
 Zalaegerszegi Járás
 
-[^107]: A 3. melléklet a 296/2012. (X. 17.) Korm. rendelet 48. §-ával megállapított szöveg.
-[^108]: A 3. melléklet 18. pont 18.1. alpontja az 51/2013. (II. 25.) Korm. rendelet 23. § (10) bekezdésével megállapított szöveg.
+[^108]: A 3. melléklet a 296/2012. (X. 17.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^109]: A 3. melléklet 6. pont 6.4 alpontja a 308/2014. (XII. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^110]: A 3. melléklet 18. pont 18.1. alpontja az 51/2013. (II. 25.) Korm. rendelet 23. § (10) bekezdésével megállapított szöveg.

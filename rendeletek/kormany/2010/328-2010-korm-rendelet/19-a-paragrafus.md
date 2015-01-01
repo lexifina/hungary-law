@@ -1,3 +1,3 @@
-## 19. §[^60]
+## 19. §[^61]
 
-[^60]: A 19. §-t az 543/2013. (XII. 30.) Korm. rendelet 5. § (5) bekezdése hatályon kívül helyezte.
+[^61]: A 19. §-t az 543/2013. (XII. 30.) Korm. rendelet 5. § (5) bekezdése hatályon kívül helyezte.
