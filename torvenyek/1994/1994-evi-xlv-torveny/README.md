@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-45-00-00
 | 2011-01-01 | 2010. évi CLII. törvény | 1994-45-00-00.13 |
 | 2012-01-01 | 2011. évi CXCII. törvény | 1994-45-00-00.14 |
 | 2013-01-01 | 2012. évi XCIII. törvény | 1994-45-00-00.15 |
+| 2015-01-01 | 2014. évi XCVII. törvény | 1994-45-00-00.16 |
