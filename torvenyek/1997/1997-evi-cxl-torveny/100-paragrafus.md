@@ -22,7 +22,7 @@ i) a közgyűjtemények finanszírozását és központi támogatását,
 
 j) a bérpótlék mértékét és az arra jogosultak körét,
 
-k) a sajtótermékek kötelespéldányainak szolgáltatását és hasznosítását,
+k) a kiadványok kötelespéldányainak szolgáltatására kötelezettek körét, a kötelespéldány-szolgáltatással összefüggő jelentés szabályait, az e törvényben előírt kötelespéldány-szám szolgáltatása alóli kivételeket, a kötelespéldány-szolgáltatás módját és határidejét, a kötelespéldányra jogosult szervezetek körét, a kötelespéldányok szétosztásának módját, a kötelespéldányok megőrzésének és használatának szabályait, valamint a kötelespéldány-szolgáltatás jogszabálynak nem megfelelő teljesítése esetén követendő eljárást,
 
 l) az e törvény hatálya alá tartozó intézményekben teljes munkaidőben szakmai munkakörben foglalkoztatott munkavállalók dokumentum vásárlási, illetve könyvtári szolgáltatások térítési kedvezményét,
 
@@ -40,13 +40,13 @@ c) a közművelődési intézmények működésének szakmai, személyi és infr
 
 d) a muzeális intézmények működési engedélyeivel kapcsolatos kérdéseket,
 
-e) a védetté nyilvánított kulturális javak, valamint a régészeti lelőhelyek nyilvántartását,
+e)
 
-f) a muzeális intézmények nyilvántartási szabályzatát,
+f) a muzeális intézményekben őrzött kulturális javak papíralapú és elektronikus nyilvántartásának szabályait, valamint az elektronikus nyilvántartásra történő átállás feltételeit és eljárásrendjét,
 
 g) a muzeális intézmények tevékenységével összefüggő szakmai követelményeket,
 
-h) a múzeumi letét létrejöttére, a letéti szerződés tartalmi elemeire és felmondására, valamint a letéti díj megállapítására vonatkozó részletes szabályokat,
+h) a múzeumi letét létrejöttére, a letéti szerződés tartalmi elemeire és megszűnésére, a letett kulturális javak kezelésére, valamint a letéti díj és a letéttel összefüggő költségek megállapítására vonatkozó részletes szabályokat,
 
 i) a továbbképzés és a szervezett képzés rendszerét és követelményeit,
 
@@ -54,9 +54,9 @@ j) a kulturális örökség közgyűjteményekben őrzött javai sokszorosítás
 
 k) a muzeális intézményben őrzött kulturális javak elidegenítésére, cseréjére és kölcsönzésére, valamint a muzeális intézmény alapleltárában szereplő, állami tulajdonban lévő kulturális javak őrzési vagy bemutatási helyének kijelölésére vonatkozó részletes szabályokat,
 
-l) a muzeális intézményekre, a könyvtárakra és a közművelődési intézményekre vonatkozó szakfelügyelet rendjét,
+l) a muzeális intézményekre, továbbá a könyvtárakra vonatkozó szakfelügyelet rendjét,
 
-m) a különböző típusú könyvtárak működését, szakmai követelményeit és normatíváit, a továbbképzés és a szervezett képzés rendszerét,
+m) a különböző típusú könyvtárak működését, szakmai követelményeit,
 
 n) a Könyvtárellátási Szolgáltató Rendszer működését,
 
@@ -82,7 +82,7 @@ x) – törvényben meghatározott kivétellel – az országos múzeum, az orsz
 
 y) a muzeális intézmény nyilvántartásában szereplő kulturális javak revíziójára és selejtezésére vonatkozó részletes szabályokat.
 
-z)
+z) a közművelődési feladatellátás szakfelügyelete szervezésének rendjét, a szakfelügyelet éves munkaprogramjával kapcsolatos előírásokat, a szakfelügyelet típusait, a szakfelügyelet által ellátott feladatokat, a szakfelügyelőt és a szakfelügyelet során vizsgált közművelődési feladatellátót illető jogokat és az őket terhelő kötelezettségeket, a szakfelügyelői és vezető szakfelügyelői megbízás feltételeit, a szakfelügyelők összeférhetetlenségének szabályait.
 
 (4)
 

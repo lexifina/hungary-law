@@ -10,11 +10,11 @@
 
 (4) Az 55. §-ban foglaltakon túl a nemzeti könyvtár alapfeladatai:
 
-a) a Magyarországon keletkezett sajtótermékek kötelespéldány-szolgáltatásra alapozott gyűjtése, megőrzése, szétosztása,
+a) a Magyarországon keletkezett kiadványok kötelespéldány-szolgáltatásra alapozott gyűjtése, megőrzése, szétosztása,
 
 b) a külföldön megjelent hungarikumok teljességre törekvő gyűjtése, feltárása, megőrzése,
 
-c) a sajtóterméknek nem minősülő hungarikumok gyűjtése, feltárása, megőrzése,
+c) a kiadványnak nem minősülő hungarikumok gyűjtése, feltárása, megőrzése,
 
 d) a nemzeti bibliográfia készítése,
 

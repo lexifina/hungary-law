@@ -4,7 +4,7 @@
 
 a) a muzeális intézményekre, fenntartóikra és foglalkoztatottaikra, a kulturális örökség muzeális intézményekben őrzött elemeire, valamint a muzeális intézmény szolgáltatásait igénybe vevőkre, továbbá a kulturális örökséggel foglalkozó egyéb szervezetekre, kép- és hangarchívumokra,
 
-b) a könyvtári dokumentumokra, a könyvtárhasználókra, a nyilvános könyvtárakra, azok fenntartóira, alkalmazottaira és a sajtótermékek kötelespéldányainak szolgáltatóira,
+b) a könyvtári dokumentumokra, a könyvtárhasználókra, a nyilvános könyvtárakra, azok fenntartóira, alkalmazottaira és a kiadványok kötelespéldányainak szolgáltatóira,
 
 c) a közművelődési tevékenység megvalósulásában résztvevőkre, a közösségi színterek, közművelődési intézmények fenntartóira, működtetőire és alkalmazottaira.
 

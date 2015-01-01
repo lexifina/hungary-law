@@ -4,4 +4,6 @@
 
 (3) A 37/A. §-ban és a 42. §-ban foglaltakat a miniszter 2013. április 1-jétől ellenőrzi a szakfelügyelet útján.
 
-(4)–(7)
+(4) Az egyes kulturális tárgyú törvények módosításáról szóló 2013. évi CCXVII. törvénnyel megállapított 54. § (1) bekezdés b) pontjában előírt felsőfokú szakirányú végzettség követelményét 2017. január 1-jétől kell alkalmazni.
+
+(5)–(7)

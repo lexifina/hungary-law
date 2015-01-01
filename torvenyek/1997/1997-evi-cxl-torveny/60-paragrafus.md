@@ -2,7 +2,7 @@
 
 a) az országos könyvtári informatikai hálózat fejlesztése és tartalmi feltöltése,
 
-b) a Magyarországon keletkezett sajtótermékek kötelespéldány-szolgáltatáson alapuló teljes körű gyűjtése, egyéb, Magyarországon keletkezett dokumentumok, valamint a külföldi hungarikumok gyűjtése, továbbá mindezek megőrzése bibliográfiai számbavétele és rendelkezésre bocsátása, továbbá a kötelespéldányok elosztása,
+b) a Magyarországon keletkezett kiadványok kötelespéldány-szolgáltatáson alapuló teljes körű gyűjtése, egyéb, Magyarországon keletkezett dokumentumok, valamint a külföldi hungarikumok gyűjtése, továbbá mindezek megőrzése bibliográfiai számbavétele és rendelkezésre bocsátása, továbbá a kötelespéldányok elosztása,
 
 c) az országos dokumentumellátási rendszer működtetése,
 

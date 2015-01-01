@@ -2,7 +2,7 @@
 
 a) mindenki által használható és megközelíthető,
 
-b) könyvtári szakembert alkalmaz,
+b) vezetője felsőfokú szakirányú végzettséggel rendelkezik és könyvtári szakembert alkalmaz,
 
 c) rendelkezik kizárólagosan könyvtári szolgáltatások céljaira alkalmas helyiséggel,
 

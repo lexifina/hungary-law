@@ -4,17 +4,17 @@
 
 a) vagyonkezelője a tevékenység ellátásához szükséges állami vagyonnak,
 
-b) területileg illetékes múzeumként gyűjtőterületére kiterjedően
+b) gyűjtőterületére kiterjedően
 
-ba) végzi a kormányrendeletben meghatározott régészeti szaktevékenységeket,
+ba) végzi a jogszabályban meghatározott régészeti szaktevékenységeket,
 
-bb) vezeti a régészeti lelőhelyek szakmai nyilvántartását, és annak alapján adatokat szolgáltat a régészeti lelőhelyekről,
+bb) szakmai nyilvántartása alapján jogszabályban meghatározottak szerint adatokat szolgáltat a régészeti lelőhelyekről,
 
-bc) a régészeti feltárás esetén kívül előkerült régészeti leletet vagy lelőhelyet a kulturális örökségvédelmi hatóságnak haladéktalanul bejelenti,
+bc) a régészeti feltárás esetén kívül előkerült régészeti leletet vagy lelőhelyet a kulturális örökség védelméről szóló törvényben meghatározott intézménynek haladéktalanul bejelenti,
 
-bd) részt vesz a régészeti emlékek és a műemlékek vissza nem építhető vagy a helyszínen meg nem őrizhető töredékei és tartozékai muzeális intézményben történő elhelyezésében,
+bd) jogszabályban meghatározottak szerint részt vesz a régészeti feltárás során előkerült régészeti leletek, továbbá a régészeti emlékek és a műemlékek vissza nem építhető vagy a helyszínen meg nem őrizhető töredékei és tartozékai elhelyezésében,
 
-be) szakértőként részt vesz a régészetileg védett területek ellenőrzésében,
+be) jogszabályban meghatározottak szerint részt vesz a védetté nyilvánított területek ellenőrzésében,
 
 bf) gyűjtőkörében szakmai tanácsadást folytat a muzeális intézmények szakmai együttműködése, munkájuk összehangolása, valamint az egyéb kulturális javak védelme érdekében,
 
