@@ -1,3 +1,5 @@
-## 56. § A gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet 20. § (1) bekezdésében az „a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés h)–i) pontja” szövegrész helyébe az „az államháztartásról szóló 2011. évi CXCV. törvény 9. § i) pontja” szöveg lép.
-
 ## 10. Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet módosítása
+
+57. §[^56]
+
+[^56]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

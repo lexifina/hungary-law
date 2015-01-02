@@ -1,5 +1,3 @@
-## 86. § Hatályát veszti a nemzetiségi célú előirányzatokból nyújtott támogatások feltételrendszeréről és elszámolásának rendjéről szóló 428/2012. (XII. 29.) Korm. rendelet
+86. §[^85]
 
-1. 6. § (3) bekezdése,
-
-2. 4. alcíme.
+[^85]: A 80–86. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

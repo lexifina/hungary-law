@@ -1,1 +1,3 @@
-## „(8) A társulás, térségi fejlesztési tanács kiadási előirányzatai terhére a társulási tanács, térségi fejlesztési tanács elnöke vagy a társulási tanács, térségi fejlesztési tanács általa írásban, vagy az elnöki tisztség betöltésének hiánya esetén a társulási tanács, térségi fejlesztési tanács által határozatban felhatalmazott valamely tagja vállalhat kötelezettséget.”
+22. §[^22]
+
+[^22]: A 4–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

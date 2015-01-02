@@ -1,1 +1,3 @@
-## „(5a) A munkamegosztási megállapodásnak tartalmaznia kell, hogy a 9. § (1) bekezdése szerinti feladatok közül melyik feladatot melyik költségvetési szerv látja el. Egy feladatra csak egy költségvetési szerv jelölhető ki. Az irányító szerv az önkormányzati hivatalt külön gazdasági szervezet nélkül is kijelölheti a 9. § (1) bekezdésében meghatározott feladatok ellátására. A munkamegosztási megállapodást az irányító szerv hagyja jóvá.”
+9. §[^9]
+
+[^9]: A 4–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

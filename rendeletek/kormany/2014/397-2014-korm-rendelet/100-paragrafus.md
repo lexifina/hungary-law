@@ -1,5 +1,3 @@
-## 99. § Hatályát veszti a helyi önkormányzatok támogatásai fejezetből származó források igénybevétele, felhasználása és elszámolása szabályszerűségének kincstári felülvizsgálatáról szóló 8/2014. (II. 17.) NGM rendelet.
-
 ## IV. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK

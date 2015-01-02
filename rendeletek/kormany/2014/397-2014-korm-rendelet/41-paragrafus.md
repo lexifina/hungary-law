@@ -1,3 +1,3 @@
-## 40. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet az „[Az Áht. 107. § (1) bekezdéséhez]” alcíme a következő 168. §-sal egészül ki:
+41. §[^41]
 
-## „168. § A 6. mellékletben megjelöltek kötelesek az ott meghatározott adatokat a leírt módon és időpontokban közzétenni.”
+[^41]: A 30–45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
