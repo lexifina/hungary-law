@@ -1,1 +1,3 @@
-## 25. § Hatályát veszti a hulladékká vált gépjárművekről szóló 444/2012. (XII. 29.) Korm. rendelet.
+## 25. §[^2]
+
+[^2]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
