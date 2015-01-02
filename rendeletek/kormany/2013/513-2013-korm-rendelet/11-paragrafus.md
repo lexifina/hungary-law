@@ -70,7 +70,7 @@ u) a nevelőszülő, a nevelőszülő házastársa vagy élettársa és a műkö
 
 (2) Az (1) bekezdés h) pontja szerinti napi összeget a havi összeg harminc nappal való elosztásával kell megállapítani.
 
-(3) Az (1) bekezdés k) pontja szerinti bankszámlán kizárólag a gyermek ellátására szolgáló nevelési díjat, külön ellátmányt és családi pótlékot lehet fogadni.
+(3)[^7] Az (1) bekezdés k) pontja szerinti bankszámlán kizárólag a gyermek, a fiatal felnőtt ellátására szolgáló nevelési díjat, külön ellátmányt és családi pótlékot lehet fogadni.
 
 (4) Ha az (1) bekezdésben meghatározott adatokban, tényekben változás következik be, a működtető az azokról való tudomásszerzést követő tizenöt napon belül módosítási záradékkal látja el a keretmegállapodást vagy gondoskodik az új keretmegállapodás elkészítéséről. A módosítási záradékban a keretmegállapodás módosuló pontjait kell feltüntetni. A módosítási záradékot a nevelőszülő és a működtető képviselője aláírja.
 
@@ -79,3 +79,4 @@ u) a nevelőszülő, a nevelőszülő házastársa vagy élettársa és a műkö
 [^4]: A 11. § (1) bekezdés b) pont bc) alpontja a 353/2014. (XII. 29.) Korm. rendelet 90. § b) pontja szerint módosított szöveg.
 [^5]: A 11. § (1) bekezdés n) pontja a 353/2014. (XII. 29.) Korm. rendelet 82. § (1) bekezdésével megállapított szöveg.
 [^6]: A 11. § (1) bekezdés p) pontja a 353/2014. (XII. 29.) Korm. rendelet 82. § (2) bekezdésével megállapított szöveg.
+[^7]: A 11. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 83. §-ával megállapított szöveg.
