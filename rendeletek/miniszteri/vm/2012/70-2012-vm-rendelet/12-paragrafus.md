@@ -24,6 +24,9 @@ e) biztosítja a borászati melléktermékből származó ipari célú nyers alk
 
 f) a feltételekkel kapcsolatos bármely változást az eseménytől számított 15 napon belül bejelenti az MVH-nak, és egyidejűleg csatolja a változást alátámasztó dokumentumokat.
 
-(4) A lepárlóüzem borpiaci évenként a feldolgozott borászati melléktermékekről kötelezettenként tételes kimutatást vezet. A kimutatást – az MVH által rendszeresített és honlapján közzétett nyomtatványon – az adott borpiaci évet követő augusztus 15-ig az MVH részére kell megküldeni.
+(4)[^7] A lepárlóüzem borpiaci évenként a támogatott lepárlással érintett borászati melléktermékekről kötelezettenként tételes kimutatást vezet.
 
-(5) A (4) bekezdés szerinti nyomtatvány tartalmazza a 10. § (5) bekezdésében foglaltakon túl a borászati melléktermék lepárlása során előállított alkoholmennyiség hektoliterben kifejezett térfogatszázalékát.
+(5)[^8] A (4) bekezdés szerinti kimutatásnak tartalmaznia kell a 10. § (5) bekezdésében foglaltakon túl a borászati melléktermék lepárlása során előállított alkoholmennyiség hektoliterben kifejezett térfogatszázalékát.
+
+[^7]: A 12. § (4) bekezdése a 44/2014. (XII. 30.) FM rendelet 3. §-ával megállapított szöveg.
+[^8]: A 12. § (5) bekezdése a 44/2014. (XII. 30.) FM rendelet 3. §-ával megállapított szöveg.

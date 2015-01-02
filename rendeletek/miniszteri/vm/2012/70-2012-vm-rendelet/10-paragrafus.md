@@ -1,6 +1,6 @@
 10. § (1) A lepárlóüzem az átvétel napján köteles sorszámozott átvételi elismervényt kiállítani, amelynek tartalmaznia kell
 
-a) az átvevő lepárlóüzem és a kötelezett nevét (cégnevét), regisztrációs számát, adóazonosító jelét vagy adószámát,
+a)[^4] az átvevő lepárlóüzem és a kötelezett nevét (cégnevét), ügyfél-azonosítóját, adóazonosító jelét vagy adószámát,
 
 b) a leadott borászati melléktermék típusát,
 
@@ -18,9 +18,9 @@ f) az átvétel helyét (a lepárlóüzem telephelyén/begyűjtőhelyén vagy a 
 
 (4) Amennyiben a borászati melléktermékek támogatott lepárlás céljából történő leadásakor a kötelezett az átvevő lepárlóüzem által megállapítottakat vitatja, abban az esetben a kötelezett és az átvevő lepárlóüzem együttes jelenlétében ismételt vizsgálatokat kell végezni. Alkoholtartalom megállapítására vonatkozó analitikai vizsgálatok vitatása esetében a kötelezett és az átvevő lepárlóüzem együttes jelenlétében, közösen vett minták alapján a borászati hatóság a mintavételtől számított 8 napon belül végzi el az ismételt vizsgálatokat, amelyről határozatot hoz, és azt közli a kötelezettel és a lepárlóüzemmel.
 
-(5) A lepárlóüzem borpiaci évenként az átvételi elismervényekben szereplő adatokról kötelezettenként tételes kimutatást vezet, és azt adott borpiaci évet követő augusztus 5-éig az MVH részére megküldi. Az MVH a kimutatás elkészítéséhez szükséges nyomtatványt rendszeresít és azt a honlapján közzéteszi. A nyomtatványnak tartalmaznia kell
+(5)[^5] A lepárlóüzem borpiaci évenként az átvételi elismervényekben szereplő adatokról kötelezettenként tételes kimutatást vezet. A kimutatásnak tartalmaznia kell
 
-a) az átvevő lepárlóüzem és a kötelezett nevét (cégnevét), regisztrációs számát, adóazonosító jelét vagy adószámát,
+a)[^6] az átvevő lepárlóüzem és a kötelezett nevét (cégnevét), ügyfél-azonosítóját, adóazonosító jelét vagy adószámát,
 
 b) a borászati melléktermék szállításához kapcsolódó kísérő okmány számát,
 
@@ -37,3 +37,7 @@ g) a borászati melléktermék mennyiségét szőlőtörköly esetében kilogram
 h) a borászati melléktermék alkoholtartalmát térfogatszázalékban kifejezve,
 
 i) a borászati melléktermék számított alkoholtartalmát térfogatszázalék/hektoliterben kifejezve.
+
+[^4]: A 10. § (1) bekezdés a) pontja a 44/2014. (XII. 30.) FM rendelet 6. § a) pontja szerint módosított szöveg.
+[^5]: A 10. § (5) bekezdés nyitó szövegrésze a 44/2014. (XII. 30.) FM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 10. § (5) bekezdés a) pontja a 44/2014. (XII. 30.) FM rendelet 6. § b) pontja szerint módosított szöveg.

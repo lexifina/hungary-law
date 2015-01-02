@@ -12,8 +12,14 @@ b) a borseprő átadásának időpontjáról, várható mennyiségéről hektoli
 
 (4) Amennyiben a kötelezett és a lepárlóüzem között létrejött írásbeli megállapodás alapján a kötelezett maga szállítja be támogatott lepárlás céljára a borászati melléktermékeket a lepárlóüzem telephelyére, abban az esetben a lepárlóüzemnek a kötelezettel kötött megállapodásban foglalt beszállítási költségeket az átvételt követő 90 napon belül meg kell fizetnie.
 
-(5) Amennyiben a szőlőtörköly szállítójárműre történő rakodását a kötelezett vállalja magára, abban az esetben a lepárlóüzem rakodási költségtérítést fizet. A lepárlóüzem által a kötelezettnek fizetendő rakodási költségtérítésre vonatkozó összegeket – a lepárlóüzem tájékoztatása alapján – az MVH hagyja jóvá a következő borpiaci évre vonatkozóan minden év július 20-ig. A rakodási költségtérítést a lepárlóüzemnek a rakodást követő 90 napon belül a kötelezett részére meg kell fizetni.
+(5)[^1] Amennyiben a szőlőtörköly szállítójárműre történő rakodását a kötelezett vállalja magára, abban az esetben a lepárlóüzem rakodási költségtérítést fizet. A rakodási költségtérítést a lepárlóüzemnek a rakodást követő 90 napon belül a kötelezett részére meg kell fizetni.
 
 (6) A kötelezett által viselt szállítási költségről és a rakodási díjról a kötelezett a rakodást követő 15 napon belül számlát köteles kiállítani, amelyen feltünteti a borászati melléktermék átadásának napját és az átvételi elismervény számát.
 
-(7) A lepárlóüzem által a kötelezettnek fizetendő beszállítási költségtérítésre vonatkozó összegeket – a 14. § szerinti lepárlóüzem tájékoztatása alapján – a miniszter hagyja jóvá a következő borpiaci évre vonatkozóan minden év július 31-ig. A miniszter a jóváhagyott összegekről tájékoztatja az MVH-t, amely a tájékoztatás közlésétől számított 15 napon belül azt közleményben közzéteszi.
+(7)[^2] A 14. § szerinti lepárlóüzem minden év július 20-ig tájékoztatja az MVH-t a következő borpiaci évre vonatkozóan a kötelezettnek fizetendő beszállítási és rakodási költségtérítés összegeiről, amely azt az adott év július 31-ig közleményben közzéteszi.
+
+(8)[^3] A (7) bekezdésben szereplő tájékoztatás elmulasztása esetében a lepárlóüzem támogatás igénybevételére nem jogosult.
+
+[^1]: A 9. § (5) bekezdése a 44/2014. (XII. 30.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 9. § (7) bekezdése a 44/2014. (XII. 30.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 9. § (8) bekezdését a 44/2014. (XII. 30.) FM rendelet 1. § (3) bekezdése iktatta be.

@@ -1,12 +1,14 @@
 16. § (1) A támogatási kérelmeket az MVH által közleményben közzétett nyomtatványokon, postai úton vagy személyesen kell benyújtani az MVH részére. A kérelemnek tartalmaznia kell
 
-a) a lepárlóüzem
+a)[^10] a lepárlóüzem
 
-aa) regisztrációs számát,
+aa) ügyfél-azonosítóját,
 
 ab) cégnevét,
 
 ac) székhelyét,
+
+ad) kapcsolattartási információit,
 
 b) a lepárlás helyét (cím, helyrajzi szám),
 
@@ -14,9 +16,9 @@ c) a lepárlás adatait (a tárgyidőszak, a lepárolt borászati melléktermék
 
 d) az igényelt támogatás összegét,
 
-e) a lepárlási összesítőt, amelyben szerepel a kötelezett regisztrációs száma, neve, adóalanyi jogállása, a 10. § (1) bekezdése szerinti átvételi elismervény száma, az átvétel időpontja, az átvétel helye (lepárlóüzem telephelyén, vagy begyűjtőhelyén, vagy kötelezett telephelyén), a borászati melléktermék típusa, a borászati melléktermék mennyisége szőlőtörköly esetében tonnában, borseprő, illetve bor esetében hektoliterben megadva, a borászati melléktermék alkoholtartalma térfogatszázalékban kifejezve, valamint a borászati melléktermék számított alkoholtartalma térfogatszázalék/hektoliterben kifejezve,
+e)[^11] a lepárlási összesítőt, amelyben szerepel a kötelezett ügyfél-azonosítója, neve, adóalanyi jogállása, a 10. § (1) bekezdése szerinti átvételi elismervény száma, az átvétel időpontja, az átvétel helye (lepárlóüzem telephelyén, vagy begyűjtőhelyén, vagy kötelezett telephelyén), a borászati melléktermék típusa, a borászati melléktermék mennyisége szőlőtörköly esetében tonnában, borseprő, illetve bor esetében hektoliterben megadva, a borászati melléktermék alkoholtartalma térfogatszázalékban kifejezve, valamint a borászati melléktermék számított alkoholtartalma térfogatszázalék/hektoliterben kifejezve,
 
-f) a beszállítási költségtérítés elszámolását (kötelezett regisztrációs száma, neve, a szállítás távolsága kilométerben, egységár, tételes beszállítási költség kifizetett nettó és bruttó értéke, a számlák száma, a kifizetés dátuma),
+f)[^12] a beszállítási költségtérítés elszámolását (kötelezett ügyfél-azonosítója, neve, a szállítás távolsága kilométerben, egységár, tételes beszállítási költség kifizetett nettó és bruttó értéke, a számlák száma, a kifizetés dátuma),
 
 g) az ipari célú nyers alkohol előállítására vonatkozó, naprakészen vezetett tételes kimutatást (lepárlás időpontja, szeszmérő-gép száma, induló óraállás, záró óraállás, előállított ipari célú nyers alkohol literben, előállított ipari célú nyers alkohol térfogatszázalékban, valamint térfogatszázalék/hektoliterben),
 
@@ -34,10 +36,16 @@ d) a tárolótartály-nyilvántartás másolatát, azon feltüntetve a tárolót
 
 e) ha a 9. § (4) bekezdése szerint a kötelezett szállítja be lepárlás céljára a borászati mellékterméket, a lepárlóüzem részére a kötelezett által kiállított, a fizetendő beszállítási költségtérítés összegét tartalmazó számlák és azok kifizetését igazoló bizonylatok másolati példányait,
 
-f) ha a 9. § (4) bekezdése szerint a kötelezett a szőlőtörköly szállítójárműre történő rakodását vállalta, a lepárlóüzem részére a kötelezett által kiállított, a fizetendő rakodási költségtérítés összegét tartalmazó számlák és az azok kifizetését igazoló bizonylatok másolati példányait,
+f)[^13] ha a 9. § (5) bekezdése szerint a kötelezett a szőlőtörköly szállítójárműre történő rakodását vállalta, a lepárlóüzem részére a kötelezett által kiállított, a fizetendő rakodási költségtérítés összegét tartalmazó számlák és az azok kifizetését igazoló bizonylatok másolati példányait,
 
 g) ha a 3. § (6) bekezdésének megfelelően a kötelezett a borászati melléktermék leadási kötelezettsége teljesítését bor leadásával egészítette ki, a borászati termékek egységes bizonylatolási, nyilvántartási és elszámolási rendjéről szóló VM rendeletben meghatározott borkísérő okmányok másolatait tételenként.
 
-(3) A lepárlóüzem havonta legfeljebb egy alkalommal benyújtott, egy időszakra vonatkozó támogatási kérelem alapján jogosult támogatásra. A támogatási kérelem benyújtásának legkorábbi időpontja az adott borpiaci év október 5-e, legkésőbbi időpontja pedig a következő borpiaci év augusztus 30-a. A benyújtási határidő elmulasztása esetén igazolásnak nincs helye.
+(3)[^14] A lepárlóüzem havonta egy támogatási kérelem alapján jogosult támogatásra. A támogatási kérelem benyújtásának legkorábbi időpontja az adott borpiaci év október 5-e, legkésőbbi időpontja pedig a következő borpiaci év augusztus 30-a. A benyújtási határidő elmulasztása esetén igazolásnak nincs helye.
 
 (4) Egy támogatási kérelemnek legalább egy teljes naptári hónap alatt előállított ipari célú nyers alkohol mennyiségre kell vonatkoznia.
+
+[^10]: A 16. § (1) bekezdés a) pontja a 44/2014. (XII. 30.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^11]: A 16. § (1) bekezdés e) pontja a 44/2014. (XII. 30.) FM rendelet 6. § d) pontja szerint módosított szöveg.
+[^12]: A 16. § (1) bekezdés f) pontja a 44/2014. (XII. 30.) FM rendelet 6. § e) pontja szerint módosított szöveg.
+[^13]: A 16. § (2) bekezdés f) pontja a 44/2014. (XII. 30.) FM rendelet 6. § f) pontja szerint módosított szöveg.
+[^14]: A 16. § (3) bekezdése a 44/2014. (XII. 30.) FM rendelet 4. § (2) bekezdésével megállapított szöveg.
