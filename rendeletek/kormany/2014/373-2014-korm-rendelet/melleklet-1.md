@@ -1,3 +1,5 @@
-## 57. § Hatályát veszti a földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet.
+## 57. §[^4]
 
 1. melléklet a 373/2014. (XII. 31.) Korm. rendelethez
+
+[^4]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

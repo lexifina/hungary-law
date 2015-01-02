@@ -1,3 +1,3 @@
-## 55. § A Közös Agrárpolitika tagállami végrehajtásával összefüggő feladatokat ellátó egyes szervezetek kijelöléséről szóló 168/2014. (VII. 18.) Korm. rendelet 11. §-a helyébe a következő rendelkezés lép:
+## 46–55. §[^2]
 
-## „11. § A nemzeti vidéki hálózat titkársági feladatait az agrár-vidékfejlesztésért felelős miniszter, mint irányító hatóság látja el.”
+[^2]: A 45–55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,0 @@
-47. § (1) A Magyar Bányászati és Földtani Hivatalról szóló 267/2006. (XII. 20.) Korm. rendelet 3. mellékletében foglalt táblázat C:4 mezőjében a „megyei (fővárosi) kormányhivatal földhivatala” szövegrész helyébe a „megyeszékhely szerinti járási földhivatal, Pest megyében a Budakeszi Járási Hivatal Budakörnyéki Járási Földhivatala, a fővárosban a Budapesti 1. Számú Földhivatal” szöveg lép.
-
-(2) Hatályát veszti a Magyar Bányászati és Földtani Hivatalról szóló 267/2006. (XII. 20.) Korm. rendelet 3. mellékletében foglalt táblázat D:4 mezőjében a „ , ha első fokon a megyei vagy fővárosi kormányhivatal földhivatala járt el, akkor a földügyért felelős miniszter” szövegrész.
