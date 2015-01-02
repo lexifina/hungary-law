@@ -1,3 +1,0 @@
-10. § A NAK tv. 14. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Az őstermelők nyilvántartásba vételével, az igazolvány kiállításával, érvényesítésével és visszaadásával kapcsolatos hatósági feladatokat – kormányrendeletben meghatározottak szerint – az agrárkamara látja el. Az agrárkamara jogosult ezen feladatával összefüggésben tudomására jutott adatok kezelésére, valamint azoknak a tagjegyzékbe, illetve a gazda-ságszerkezeti nyilvántartásba történő átvételére és ezen nyilvántartásokban való kezelésére. Az őstermelői igazolvány visszavonásáról – az agrárkamara egyidejű értesítése mellett – a kormány által rendeletben meghatározott szerv határoz.”

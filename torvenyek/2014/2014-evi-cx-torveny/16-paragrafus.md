@@ -1,3 +1,0 @@
-16. § A NAK tv. 23. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az agrárkamarát az elnök önállóan képviseli. Az elnök a képviseleti jogát a 23. § (2) bekezdés szerinti alelnökre, az agrárkamara megyei szervezetének elnökére, az agrárkamara alkalmazásában álló személyre írásban átruházhatja. Az elnök a főigazgató akadályoztatása esetén, valamint ha a főigazgató tisztség nincs betöltve, a főigazgatói jogkörök gyakorlását magához vonhatja, illetve e jogkör gyakorlását az elnök általános helyettesítésével kapcsolatos feladatok ellátásáért felelős alelnökre, a főigazgató helyettesítésére az agrárkamara szervezeti és működési szabályzata alapján feljogosított személyre ruházhatja át.”
