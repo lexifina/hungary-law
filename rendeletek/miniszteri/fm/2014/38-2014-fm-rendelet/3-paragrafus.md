@@ -1,3 +1,0 @@
-## 2. § Az R1. 3. §-a helyébe a következő rendelkezés lép:
-
-## „3. § A Kr. 35. § (1) bekezdés c) pontja szerinti környezeti monitoring rendszerek adatszolgáltatását a felszín alatti vizek vizsgálatának egyes szabályairól szóló miniszteri rendelet szerinti környezethasználati monitorozást végző a vízvédelmi hatóság, illetve a Kr. 29. § (1) bekezdése szerinti kármentesítési monitoring esetében a felügyelőség részére, az általa határozatban – a környezeti állapot figyelembevételével – megjelölt határidőre a FAVI Monitoring információs alrendszerébe e rendelet 7. melléklete szerinti „Monitoring információs rendszer, környezethasználati monitoring” megnevezésű adatlapon nyújtja be.”
