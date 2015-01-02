@@ -10,4 +10,4 @@
 
 (6)[^1] Az e rendelet szerinti másodfokú közigazgatási hatósági eljárásokban az ügyintézési határidő hatvan nap.
 
-[^1]: A 4. § (6) bekezdését 353/2014. (XII. 29.) Korm. rendelet 78. §-a iktatta be.
+[^1]: A 4. § (6) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 78. §-a iktatta be.

@@ -1,1 +1,0 @@
-## „(1) A fenntartó a tárgyév áprilisában, júliusában és októberében (a továbbiakban együtt: felülvizsgálati hónap) köteles megvizsgálni, hogy a felülvizsgálati hónapot megelőző tizenkét hónapban ténylegesen nyújtott ellátás adataiból éves szintre számított feladatmutató eléri-e a megállapított támogatás alapjául szolgáló feladatmutató 90 százalékát.”
