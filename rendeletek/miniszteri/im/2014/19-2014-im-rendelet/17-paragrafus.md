@@ -1,3 +1,0 @@
-## 16. § A Pfr. 21. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Ha a szabálysértési ügyekben alkalmazható közvetítői eljárás egyes kérdéseiről szóló 73/2013. (XII. 18.) BM rendelet 2. § (2) bekezdése, illetve a büntető ügyekben alkalmazható közvetítői tevékenységről szóló 2006. évi CXXIII. törvény (a továbbiakban: Bkt.) 3. § (2) bekezdése alapján egy közvetítői eljárásban több közvetítő kijelölésére kerül sor, illetve, ha a szolgálat vezetőjével vagy a szolgálat valamennyi közvetítőjével szemben kizárási ok merül fel, akkor a területi illetékességtől eltérő más igazságügyi szolgálat közvetítője is kijelölhető az illetékes igazságügyi szolgálat vezetőjének a megkeresése alapján.”

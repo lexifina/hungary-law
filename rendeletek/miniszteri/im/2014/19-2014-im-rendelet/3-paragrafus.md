@@ -1,5 +1,0 @@
-## 2. § A Pfr. 2. §-a helyébe a következő rendelkezés lép:
-
-## „2. § (1) Ha a nyomozó hatóság, az ügyész, a bíróság, vagy – fiatalkorúnak javítóintézetből való ideiglenes elbocsátásának előkészítése során – a büntetés-végrehajtási bíró (a továbbiakban: bv. bíró) pártfogó felügyelői vélemény vagy környezettanulmány beszerzését rendeli el, vagy a gyámhatóság megkeresést intéz környezettanulmány beszerzése céljából, annak elkészítésére a tényállásszerű magatartást megvalósító gyermekkorú személy (a továbbiakban: gyermekkorú), a terhelt, illetve az eljárás alá vont fiatalkorú magyarországi lakóhelye vagy tartózkodási helye szerint illetékes igazságügyi szolgálatot rendeli ki, illetve keresi meg. A pártfogó felügyelői véleményt vagy környezettanulmányt az igazságügyi szolgálat vezetője által kijelölt pártfogó felügyelő készíti el.
-
-## (2) Ha a gyermekkorúnak, a terheltnek, illetve az eljárás alá vont fiatalkorúnak Magyarországon nincs ismert lakóhelye, sem ismert tartózkodási helye, a feladat végrehajtására Budapest Főváros Kormányhivatala Igazságügyi Szolgálata az illetékes.”
