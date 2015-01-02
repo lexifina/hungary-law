@@ -1,3 +1,0 @@
-## „(2) A Nyilvántartási Iroda az Országos Építésügyi Nyilvántartást (a továbbiakban: OÉNy) vezető szervezet, az örökségvédelmi hatóság, az építésügyi hatóság, a földhivatalok, a jegyző, a főjegyző, valamint a feltárási joggal rendelkező intézmények számára elektronikus hozzáférést biztosít az általa kezelt, a régészeti örökség és a műemléki értékek védelmével összefüggő feladataik ellátásához szükséges adatokhoz.
-
-## (3) A Nyilvántartási Iroda az OÉNy felhasználói számára hozzáférést biztosít a régészeti örökség és a műemléki érték védelmével kapcsolatos követelményekről és szabályokról szóló kormányrendeletben meghatározott dokumentumok elektronikus úton történő benyújtása érdekében.”
