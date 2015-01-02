@@ -1,4 +1,4 @@
-## 46. §[^35]
+## 46. § Az R. 41. melléklet 14.2. pontjában az „a tagok több mint fele” szövegrész helyébe a „legalább két tag” szöveg lép.
 
 ## 47. § Az R.
 
@@ -12,5 +12,4 @@ d) 42. melléklet 5.6. pontjában a „szótöbbségével” szövegrész a „s
 
 e) 42. melléklet 6. pontjában az „elfogadásáról” szövegrész a „visszautasításáról” szöveggel
 
-[^35]: A 46. § a – 12/2014. (II. 28.) KIM rendelet 7. § (2) bekezdés a) pontja szerint módosított – 38. § (4) bekezdése alapján 2014. július 2-án lép hatályba.
 [^36]: A 47. § b) pontját a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés c) pontja hatályon kívül helyezte.
