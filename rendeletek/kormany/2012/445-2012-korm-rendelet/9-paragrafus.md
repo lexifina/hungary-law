@@ -1,9 +1,9 @@
-9. § (1)[^18] Átvállaló – a (2) bekezdésben foglalt kivétellel – lehet bárki, aki az átruházni kívánt hulladékgazdálkodási tevékenység végzésére hulladékgazdálkodási engedélye folytán jogosult.
+9. § (1)[^17] Átvállaló – a (2) bekezdésben foglalt kivétellel – lehet bárki, aki az átruházni kívánt hulladékgazdálkodási tevékenység végzésére hulladékgazdálkodási engedélye folytán jogosult.
 
-(2)[^19] Nem lehet átvállaló az, aki vagy amely gazdasági tevékenységével vagy gazdasági tevékenysége körében a környezet védelmének általános szabályairól vagy a hulladékról szóló törvény előírásainak megsértésével kapcsolatban a gyártóval a gyűjtési és kezelési kötelezettség átruházása céljából megkötött megállapodástól számított 3 évnél nem régebben meghozott jogerős hatósági határozatban vagy bírósági ítéletben megállapított jogszabálysértést követett el.
+(2)[^18] Nem lehet átvállaló az, aki vagy amely gazdasági tevékenységével vagy gazdasági tevékenysége körében a környezet védelmének általános szabályairól vagy a hulladékról szóló törvény előírásainak megsértésével kapcsolatban a gyártóval a gyűjtési és kezelési kötelezettség átruházása céljából megkötött megállapodástól számított 3 évnél nem régebben meghozott jogerős hatósági határozatban vagy bírósági ítéletben megállapított jogszabálysértést követett el.
 
-(3)[^20] Az átvállalóra, valamint a közvetítő szervezetre az átruházott kötelezettség tekintetében – a biztosítékadási kötelezettség kivételével – a gyártóra vonatkozó szabályokat kell alkalmazni.
+(3)[^19] Az átvállalóra, valamint a közvetítő szervezetre az átruházott kötelezettség tekintetében – a biztosítékadási kötelezettség kivételével – a gyártóra vonatkozó szabályokat kell alkalmazni.
 
-[^18]: A 9. § (1) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^19]: A 9. § (2) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg.
-[^20]: A 9. § (3) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 16. § (3) bekezdése szerint módosított szöveg.
+[^17]: A 9. § (1) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^18]: A 9. § (2) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg.
+[^19]: A 9. § (3) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 16. § (3) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-15. §[^45] (1) A gyártó, az átvállaló és a közvetítő szervezet a 14. § alapján általa nyilvántartott adatokról a tárgyévet követő év február 20-ig az OKTF részére adatot szolgáltat.
+15. §[^44] (1) A gyártó, az átvállaló és a közvetítő szervezet a 14. § alapján általa nyilvántartott adatokról a tárgyévet követő év február 20-ig az OKTF részére adatot szolgáltat.
 
 (2) Az állami hulladékgazdálkodást közvetítő szervezet a 14. § (4) bekezdése alapján nyilvántartott adatokról a tárgyévet követő év május 20-ig szolgáltat adatot az OKTF részére.
 
@@ -14,4 +14,4 @@ b) a 4. melléklet 1.2. pont e)–f) alpontjaiban foglaltakról az állami hulla
 
 (5) Az adatszolgáltatás az OKTF részére a környezet védelmének általános szabályairól szóló törvény adatszolgáltatási kötelezettségre vonatkozó előírásai szerint teljesítendő.
 
-[^45]: A 15. § a 310/2014. (XII. 11.) Korm. rendelet – a 368/2014. (XII. 30.) Korm. rendelet 12. § (1) bekezdése és (2) bekezdés b) pontja szerint módosított – 15. § (4) bekezdésével megállapított szöveg.
+[^44]: A 15. § a 310/2014. (XII. 11.) Korm. rendelet – a 368/2014. (XII. 30.) Korm. rendelet 12. § (1) bekezdése és (2) bekezdés b) pontja szerint módosított – 15. § (4) bekezdésével megállapított szöveg.
