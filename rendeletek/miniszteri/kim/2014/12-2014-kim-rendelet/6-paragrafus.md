@@ -2,21 +2,9 @@
 
 ## 6. A civil szervezetek bírósági eljárásokban alkalmazandó űrlapjairól szóló 11/2012. (II. 29.) KIM rendelet módosítása
 
-6. § (1) A civil szervezetek bírósági eljárásokban alkalmazandó űrlapjairól szóló 11/2012. (II. 29.) KIM rendelet (a továbbiakban: R.) 1. § (1) bekezdése a következő 43–48. ponttal egészül ki:
+6. § (1)[^9]
 
-## „43. 36/A. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az egyesületek egyesülésének bejegyzése iránti elektronikus kérelmet,
-
-## 44. 36/B. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az egyesületek szétválásának bejegyzése iránti elektronikus kérelmet,
-
-## 45. 36/C. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az egyesületek beolvadásos szétválásának bejegyzése iránti elektronikus kérelmet,
-
-## 46. 36/D. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítványok egyesülésének bejegyzése iránti elektronikus kérelmet,
-
-## 47. 36/E. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítványok szétválásának bejegyzése iránti elektronikus kérelmet,
-
-## 48. 36/F. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítványok beolvadásos szétválásának bejegyzése iránti elektronikus kérelmet.”
-
-(2)–(3)[^9]
+(2)–(3)[^10]
 
 (4) Az R. 41. melléklete a következő 1.6. ponttal kiegészülve lép hatályba:
 
@@ -118,7 +106,7 @@
 
 ## „12.5. egyesület más egyesülettel való egyesüléséről, szétválásáról és megszűnéséről csak akkor határozhat, ha azon a tagok több mint a fele részt vesz”
 
-(24)[^10] Az R. 41. melléklet 13.1. és 13.2. pontja a következő szöveggel lép hatályba:
+(24)[^11] Az R. 41. melléklet 13.1. és 13.2. pontja a következő szöveggel lép hatályba:
 
 ## „13.1. az ügyvezetés megnevezése elnökség
 
@@ -186,7 +174,7 @@
 
 ## „2.8. egyéb, törvényben meghatározott egyesületi forma”
 
-(34)[^11]
+(34)[^12]
 
 (35) Az R.
 
@@ -268,9 +256,11 @@ b) 41. melléklet 3.1.4.1., 3.1.4.1.2., 11.3., 11.4. és 11.5 pontja.
 
 (37) Nem lép hatályba az R. 41. melléklet 3.1. pontjában, 6.1. pontjában és 8.1–8.4. pontjában a „rendes” szövegrész.
 
-(38) Az R. a 12–17. melléklet szerinti 36/A–36/F. melléklettel egészül ki.
+(38)[^13]
 
 [^8]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 6. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 6. § (24) bekezdése a 20/2014. (XII. 23.) IM rendelet 18. §-ával megállapított szöveg.
-[^11]: A 6. § (34) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 6. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 6. § (24) bekezdése a 20/2014. (XII. 23.) IM rendelet 18. §-ával megállapított szöveg.
+[^12]: A 6. § (34) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 6. § (38) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

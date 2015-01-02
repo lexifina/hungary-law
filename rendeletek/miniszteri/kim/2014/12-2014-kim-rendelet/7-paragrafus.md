@@ -12,6 +12,6 @@ d) 40. § (2) bekezdésében a „2014. július 1.” szövegrész a „2015. ja
 
 ## lép hatályba.
 
-(2)–(3)[^12]
+(2)–(3)[^14]
 
-[^12]: A 7. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 7. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

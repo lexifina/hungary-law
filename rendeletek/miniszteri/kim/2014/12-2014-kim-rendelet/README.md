@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-12-20-2
 | 2014-04-29 | 2014-12-20-2T.5 | 28/2014. (IV. 24.) KIM rendelet |
 | 2014-04-30 | 2014-12-20-2T.6 | 2010: CXXX. törvény |
 | 2015-01-01 | 2014-12-20-2T.7 | 20/2014. (XII. 23.) IM rendelet |
+| 2015-01-02 | 2014-12-20-2T.8 | 2010: CXXX. törvény |
