@@ -1,6 +1,6 @@
 ## 2. A kezességi díjtámogatás nyújtásának feltételei
 
-2. § (1) Az Intézményi kezességi díjtámogatások fejezeti kezelésű előirányzat terhére a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium költségvetési fejezetet irányító szerv vezetője (a továbbiakban: támogató) a Kormány kezességvállalási díjakhoz nyújtandó költségvetési támogatásról szóló egyedi határozatában meghatározott támogatási mértékek figyelembevételével forrást biztosít
+2. § (1)[^2] Az Intézményi kezességi díjtámogatások fejezeti kezelésű előirányzat terhére a központi költségvetés XVII. fejezeténél a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. §-a szerinti tagja (a továbbiakban: támogató) a Kormány kezességvállalási díjakhoz nyújtandó költségvetési támogatásról szóló egyedi határozatában meghatározott támogatási mértékek figyelembevételével forrást biztosít
 
 a) a kezességi díjtámogatás rendszerének működtetésében résztvevő, a Garantiqa Hitelgarancia Zrt.-vel (a továbbiakban: Garantiqa Zrt.) és a támogatóval szerződéses kapcsolatban álló pénzügyi intézmény által 2013. június 15-től kibocsátott forgóeszköz-, beruházási-, illetve európai uniós támogatás önerő- és előfinanszírozására, vállalkozások részére nyújtott új hitelekhez és hitelkiváltáshoz (ide nem értve a Széchenyi Kártya Program egyes konstrukcióit), a Garantiqa Zrt. mint kezességvállaló intézmény által vállalt kezességi díjhoz kapcsolódó kezességi díjtámogatásra,
 
@@ -15,3 +15,5 @@ c) a 2013. június 15-től vállalkozások részére kibocsátott új bankgaranc
 (3) Ha a tőkére vállalt kezesség mértéke nem éri el a Kormány kezességvállalási díjakhoz nyújtandó költségvetési támogatásról szóló egyedi határozatában meghatározott mértéket, a kezességi díjtámogatás mértékét arányosan csökkentve kell megállapítani.
 
 (4) A kezességi díjtámogatás kamatra nem vehető igénybe.
+
+[^2]: A 2. § (1) bekezdése az 59/2014. (XII. 30.) NFM rendelet 16. § (1) bekezdése szerint módosított szöveg.

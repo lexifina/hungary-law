@@ -6,6 +6,6 @@
 
 (3) A támogató az adatszolgáltatás szerinti listán szereplő, az e rendeletben meghatározott feltételeknek megfelelő vállalkozások kezességi díjtámogatásáról támogatói okiratot ad ki.
 
-(4)[^2]
+(4)[^17]
 
-[^2]: A 8. § (4) bekezdését a 18/2014. (IV. 14.) NFM rendelet 16. §-a hatályon kívül helyezte.
+[^17]: A 8. § (4) bekezdését a 18/2014. (IV. 14.) NFM rendelet 16. §-a hatályon kívül helyezte.
