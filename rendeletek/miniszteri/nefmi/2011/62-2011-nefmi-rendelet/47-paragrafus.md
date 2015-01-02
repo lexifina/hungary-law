@@ -1,9 +1,6 @@
-47. § (1) A 2. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+47. § (1)[^13]
 
-(A szolgáltatási rend a tolmácsszolgálat irodájában folyamatosan hozzáférhető kell, hogy legyen az alábbi formátumokban:)
+(2)–(3)[^14]
 
-## „d) Braille-írásos változat.”
-
-(2)–(3)[^13]
-
-[^13]: A 47. § (2)–(3) bekezdése a 44. § (4) bekezdése alapján 2015. április 1-jén lép hatályba.
+[^13]: A 47. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 47. § (2)–(3) bekezdése a 44. § (4) bekezdése alapján 2015. április 1-jén lép hatályba.
