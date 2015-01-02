@@ -1,1 +1,0 @@
-## „(6) A 24. § (3) bekezdésében foglaltak szerint elkövetett doppingvétséggel összefüggésben a doppingeljárás alá vont személynek a (4) bekezdés szerinti eltérést kétséget kizáróan kell bizonyítania.”
