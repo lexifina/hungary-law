@@ -1,3 +1,5 @@
+## 11. §[^14]
+
 ## 12. Az Országos Környezetvédelmi Információs Rendszer továbbfejlesztésével összefüggésben
 
 ## egyes kormányrendeletek módosításáról szóló 310/2014. (XII. 11.) Korm. rendelet módosítása
@@ -37,3 +39,5 @@ az „OHÜ-n” szövegrész helyett az „állami hulladékgazdálkodást közv
 (7) A 310/2014. (XII. 11.) Korm. rendelet 16. mellékletének az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről szóló 197/2014. (VIII. 1.) Korm. rendelet 8. mellékletét megállapító rendelkezése az „OHÜ” szövegrészek helyett az „állami hulladékgazdálkodást közvetítő szervezet” szöveggel lép hatályba.
 
 (8) A 310/2014. (XII. 11.) Korm. rendelet 16. mellékletének az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről szóló 197/2014. (VIII. 1.) Korm. rendelet 8. mellékletét megállapító rendelkezése az „OHÜ-re” szövegrész helyett az „állami hulladékgazdálkodást közvetítő szervezetre” szöveggel lép hatályba.
+
+[^14]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
