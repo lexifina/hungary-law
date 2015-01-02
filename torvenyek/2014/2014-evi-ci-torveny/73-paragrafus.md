@@ -1,1 +1,0 @@
-73. § A Khtv. 20/D. § (5) bekezdésében a „jogi oltalom alá eső szellemi tevékenység” szövegrész helyébe a „jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony” szöveg lép.
