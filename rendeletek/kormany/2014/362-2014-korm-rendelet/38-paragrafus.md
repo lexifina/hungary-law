@@ -1,5 +1,0 @@
-## 37. § Az önkéntes kölcsönös egészség- és önsegélyező pénztárak beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 252/2000. (XII. 24.) Korm. rendelet (a továbbiakban: Öpkr.) 2. § b) pontja helyébe a következő rendelkezés lép:
-
-## (E rendelet alkalmazásában)
-
-## „b) ellenőrzés megállapítása: az ellenőrzés során feltárt, az eszközöket-forrásokat, a pénztári befektetéseket, a saját tőkét, a működési, fedezeti, illetve likviditási alapok tartalékait érintő hibák és hibahatások, amelyek a beszámolóval lezárt üzleti évvel (évekkel) kapcsolatosak, a hatályos jogszabályi előírások, a pénztár alapszabálya nem vagy nem megfelelő alkalmazásából, helytelen értelmezéséből, vagy nem megengedett, tiltott cselekmény elkövetéséből származnak. Ilyen hibának és hibahatásnak minősül a szerződésmódosítással, a számviteli bizonylatok módosításával dokumentált, beszámolóval lezárt üzleti évet, éveket érintő gazdasági események könyvviteli elszámolásban rögzítendő jellemzőinek utólagos módosítása is;”
