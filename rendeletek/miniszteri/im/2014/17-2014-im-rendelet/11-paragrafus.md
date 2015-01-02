@@ -1,1 +1,0 @@
-## „(4) A bűnjeljegyzékben javítani kizárólag oly módon lehet, hogy a javítással érintett szöveg az áthúzás után is olvasható maradjon, a javítást továbbá a kijavítást eszközlőnek aláírásával, hivatalos bélyegzőjével és dátummal kell ellátnia.”

@@ -1,4 +1,4 @@
-## szöveg lép.
+## 44–49. §[^17]
 
 ## 6. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) Az 1. §, a 27–29. §, a 35. § 1. és 2., 4–6., 8. és 9. pontja, valamint a 36. § 4. és 5. pontja 2015. április 1-jén lép hatályba.
 
 (3) A 42. § és a 43. § 2015. július 1-jén lép hatályba.
+
+[^17]: A 44–49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

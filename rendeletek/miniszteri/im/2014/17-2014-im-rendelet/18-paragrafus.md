@@ -1,3 +1,0 @@
-## 17. § A 11/2003. (V. 8.) IM–BM–PM együttes rendelet 50. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Ha a törvény szerint a bűnjel megsemmisíthető és az nem alkalmas közérdekű célra történő felhasználásra, illetve alkalmassága esetén közérdekű célra történő felhasználásra nem fogadták el, a megsemmisítés iránt a BGH, illetőleg a nyomozó hatóság vezetője vagy az ügyész írásban intézkedik. Ha a bűnjel tárolására szolgáló göngyöleg lefoglalására a bűnjel lefoglalásakor nem került sor, ezért arról bíróság, vagy hatóság nem rendelkezett, és vagyoni értéket nem képvisel, a bűnjellel együtt megsemmisíthető.”

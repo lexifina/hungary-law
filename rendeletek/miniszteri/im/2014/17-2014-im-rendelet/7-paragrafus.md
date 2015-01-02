@@ -1,1 +1,0 @@
-## „(5a) Ha a lefoglalt dolog kezelése speciális ismereteket igényel, és az érdekelt őrizetében nem hagyható, vagy az őrizetébe nem kiadható, az érdekeltnek erről a bűnjelkezelőt tájékoztatnia kell. Az érdekelt a speciális ismereteket igénylő dolog kezelésével kapcsolatos kérdésekben köteles a hatósággal együttműködni.”

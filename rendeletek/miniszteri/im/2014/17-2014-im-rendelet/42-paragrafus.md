@@ -1,3 +1,3 @@
-## 41. § A bűnügyi nyilvántartó szerv által teljesített adatszolgáltatás, valamint a hatósági erkölcsi bizonyítvány kiállítása iránti eljárás rendjéről és a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért fizetendő igazgatási szolgáltatási díjról szóló 53/2012. (XII. 22.) KIM rendelet [a továbbiakban: 53/2012. (XII. 22.) KIM rendelet] 3. §-a a következő (1a) bekezdéssel egészül ki:
+## 41. §[^15]
 
-## „(1a) A szakértői nyilvántartó szervnek a közvetlen hozzáféréssel történő adatátvétel teljesítéséhez az (1) bekezdés a)–c) pontjában meghatározott adatokat, a belső azonosító kódot, a szakrendszeri azonosító kódot és a kapcsolati kódot.”
+[^15]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
