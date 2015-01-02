@@ -1,3 +1,5 @@
+## 6. §[^1]
+
 1. melléklet a 40/2014. (XII. 29.) NGM rendelethez
 
 Kizárólag pénzügyőr által betölthető munkakörök
@@ -33,3 +35,5 @@ Kizárólag pénzügyőr által betölthető munkakörök
 | 13. | vezetőzenész | I. |
 
 | 14. | oktató (vám- és pénzügyőri, bűnügyi) | I. |
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
