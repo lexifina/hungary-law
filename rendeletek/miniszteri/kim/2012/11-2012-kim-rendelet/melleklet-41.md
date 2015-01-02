@@ -500,8 +500,8 @@
 [^153]: A 41. melléklet 12.3. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés f) pont fk) alpontja szerint módosított szöveg.
 [^154]: A 41. melléklet 12.4. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés f) pont fl) alpontja szerint módosított szöveg.
 [^155]: A 41. melléklet 12.5. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (23) bekezdésével megállapított szöveg.
-[^156]: A 41. melléklet 13.1. pontja a – 20/2014. (XII. 23.) IM rendelet 18. §-ával megállapított – 12/2014. (II. 28.) KIM rendelet 6. § (24) bekezdésével megállapított szöveg.
-[^157]: A 41. melléklet 13.2. pontja a – 20/2014. (XII. 23.) IM rendelet 18. §-ával megállapított – 12/2014. (II. 28.) KIM rendelet 6. § (24) bekezdésével megállapított szöveg.
+[^156]: A 41. melléklet 13.1. pontja a – a 20/2014. (XII. 23.) IM rendelet 18. §-ával megállapított – 12/2014. (II. 28.) KIM rendelet 6. § (24) bekezdésével megállapított szöveg.
+[^157]: A 41. melléklet 13.2. pontja a – a 20/2014. (XII. 23.) IM rendelet 18. §-ával megállapított – 12/2014. (II. 28.) KIM rendelet 6. § (24) bekezdésével megállapított szöveg.
 [^158]: A 41. melléklet 13.4.1. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés f) pont fm) alpontja szerint módosított szöveg.
 [^159]: A 41. melléklet 13.4.2. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés f) pont fm) alpontja szerint módosított szöveg.
 [^160]: A 41. melléklet 13.4.3. pontja az 58/2012. (XII. 28.) KIM rendelet 48. § (1) bekezdés c) pontja, a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés f) pont fm) alpontja szerint módosított szöveg.

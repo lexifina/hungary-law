@@ -1,8 +1,10 @@
+## 15. §[^20]
+
 ## 16. § Hatályát veszti
 
-## a–b)[^20]
+## a–b)[^21]
 
-c)[^21]
+c) e rendelet 15. §-a.
 
-[^20]: A 16. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 16. § c) pontja a 13. § (3) bekezdése alapján 2015. január 2-án lép hatályba.
+[^20]: A 15. §-t a 16. § c) pontja hatályon kívül helyezte.
+[^21]: A 16. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
