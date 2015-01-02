@@ -1,1 +1,3 @@
-## 19. § Nem lép hatályba az R. 1. § (3) és (4) bekezdése.
+## 19. §[^14]
+
+[^14]: A 19. § a 16. § alapján hatályát vesztette.
