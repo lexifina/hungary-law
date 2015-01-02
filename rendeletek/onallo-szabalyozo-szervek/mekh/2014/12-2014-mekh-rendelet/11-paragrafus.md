@@ -1,3 +1,3 @@
-## 10. §[^4]
+## 10. §[^7]
 
-[^4]: A 10. § a 23. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
+[^7]: A 10. § a 23. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.

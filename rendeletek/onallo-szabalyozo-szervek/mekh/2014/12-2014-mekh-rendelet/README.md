@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-12-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-01-01 | 2014-12-20-5Z.1 | 12/2014. (XII. 13.) MEKH rendelet |
+| 2015-01-02 | 2014-12-20-5Z.2 | 2010: CXXX. törvény |

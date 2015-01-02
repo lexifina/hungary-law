@@ -1,5 +1,9 @@
-17. § (1) Az R. 3/C. §-ában a „10%-a” szövegrész helyébe a „60. § (6) bekezdésben meghatározott módon számított értéke” szöveg lép.
+## 16. §[^12]
 
-(2)[^7]
+17. § (1)[^13]
 
-[^7]: A 17. § (2) bekezdése a 23. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
+(2)[^14]
+
+[^12]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 17. § (2) bekezdése a 23. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
