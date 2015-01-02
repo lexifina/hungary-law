@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-236-00-00
 | 2014-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-236-00-00.13 |
 | 2014-07-02 | 2010. évi CXXX. törvény | 2013-236-00-00.14 |
 | 2015-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-236-00-00.15 |
+| 2015-01-02 | 2010. évi CXXX. törvény | 2013-236-00-00.16 |
