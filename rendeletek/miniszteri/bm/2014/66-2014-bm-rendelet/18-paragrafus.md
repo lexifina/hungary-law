@@ -1,3 +1,0 @@
-## 17. § A RUSZ 45. §-a az alábbi (7) bekezdéssel egészül ki:
-
-## „(7) Az NKE RTK-ra vezényelt oktatói vagy nevelői feladatokat ellátó hivatásos állomány tagja, egyetemi munkavégzésének időtartama alatt illetve azzal összefüggésben – a feladat jellegétől függően – szolgálati, vagy gyakorló ruházat viselésére kötelezett. A vezényelt hivatásos állományú személy, szolgálati ruházatként a vegyes ruhás alapellátási normában felsorolt ruházati termékek és felszerelések beszerzésére kötelezett. Amennyiben azzal nem rendelkezik, a beszerzés a vezényelt hivatásos állományú személy saját költségére történik.”

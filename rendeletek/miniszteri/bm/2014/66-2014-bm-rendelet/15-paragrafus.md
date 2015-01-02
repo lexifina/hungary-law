@@ -1,3 +1,0 @@
-## 14. § A RUSZ 25. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Illetmény nélküli szabadságon lévő személy, továbbá a gyermekgondozási díjban (a továbbiakban: GYED), illetve gyermekgondozási segélyben (a továbbiakban: GYES) részesülők – a GYED és GYES melletti újbóli munkába állást kivéve – ruházati utánpótlási ellátmányt a távollétük egész időtartamára nem kaphatnak. A távollét időtartamát – összevontan – egész hónapokban kell számítani, a töredék hónap nem vehető figyelembe. A részükre előre kifizetett ruházati utánpótlási ellátmánynak azon részét, amelyre vonatkozóan a jogosultság nem áll fenn, túlellátásként kell előjegyezni, és a következő évi ruházati utánpótlási ellátmányból le kell vonni, illetve leszerelés esetén vissza kell téríttetni.”
