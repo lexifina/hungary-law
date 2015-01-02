@@ -1,3 +1,0 @@
-338. § A NAV tv. 17/D. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A pénzügyi nyomozói munkakörbe tartozó szolgálati feladat teljesítésére 30 napot meghaladóan vezényelt pénzügyőr a vezénylés időtartama alatt a pénzügyi nyomozói munkakörre a vezénylés helye szerint irányadó, a besorolási fokozatának megfelelő illetményre jogosult, kivéve, ha az kevesebb az eredeti illetményénél. A nem pénzügyi nyomozói munkakörbe tartozó szolgálati feladat teljesítésére 30 napot meghaladóan vezényelt pénzügyi nyomozó a vezénylés időtartama alatt a vezénylés helye és az ellátott munkakör szerint irányadó, a besorolási fokozatának megfelelő illetményre jogosult.”

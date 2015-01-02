@@ -1,5 +1,3 @@
 ## 39. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 
-388. § Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Élelmiszer tv.) 38. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az állami adó- és vámhatóság megkeresésre tájékoztatja az élelmiszerlánc-felügyeleti szervet az adó- és vámtitkot képező adatról vagy információról, ha az az ügyfél személyének azonosításához vagy az élelmiszerlánc-felügyeleti szerv hatósági feladatának ellátásához szükséges. Az állami adó- és vámhatóság az adózás rendjéről szóló törvényben meghatározott, az állami adó- és vámhatóság által működtetett EKAER-ben a 4. § szerint az élelmiszerlánc-felügyeleti szerv felügyeleti hatáskörébe tartozó termékekkel összefüggésben rögzített adatokat a rögzítést követően haladéktalanul, elektronikus úton továbbítja az élelmiszerlánc-felügyeleti szerv részére az ügyfél személyének azonosítása és az élelmiszerlánc-felügyeleti szerv hatósági feladatának ellátása céljából.”
+388–390. §

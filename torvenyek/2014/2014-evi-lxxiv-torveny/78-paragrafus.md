@@ -1,3 +1,0 @@
-78. § A Jöt. 48. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) Önadózás esetén az adó alapját és az adót naptári hónaponként kell megállapítani, kivéve, ha jogszabály másként rendelkezik. Az adómentes felhasználó az adóbevallási kötelezettségének azon tárgynegyedévet követő hó 20. napjáig köteles eleget tenni és az adót megfizetni, amelyben a 14. § (4) bekezdése szerint beállt az adómegállapítási és adófizetési kötelezettsége. A bejegyzett feladó havonta tesz adóbevallást abban az esetben is, ha a tárgyhónapban nem keletkezett adófizetési kötelezettsége. A nulla adómértékű szőlőborra, valamint a 80. § (2a) bekezdése szerinti termékre nem kell adóbevallást benyújtani.”

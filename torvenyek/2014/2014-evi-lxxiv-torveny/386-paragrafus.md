@@ -1,9 +1,0 @@
-386. § (1) A Közúti tv. 33/C. § (1) bekezdés e) pontja helyébe a következő szöveg lép:
-
-(A díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek a díjköteles utak használati díja megfizetésének helyszíni ellenőrzése, valamint a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek helyszíni ellenőrzése alkalmával hatósági ellenőrzés keretében eljárva jogosultak:)
-
-„e) a jogosulatlan úthasználat tényének megállapítása esetén az erről készített jegyzőkönyvnek az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet részére történő átadásával az úthasználót a pótdíj megfizetésére kötelezni.”
-
-(2) A Közúti tv. 33/C. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A Nemzeti Adó- és Vámhivatal a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott állami adó- és vámhatósági feladataihoz kapcsolódó ellenőrző tevékenysége, az adózók ellenőrzésre történő kiválasztása céljából – egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel vagy megkeresés útján – jogosult átvenni a gépjármű-nyilvántartásból a jármű-azonosító adatokat, a természetes személy üzemben tartó személyes adatait és a nem természetes személy üzemben tartó azonosításához szükséges adatokat, az arra vonatkozó adatot, hogy ellenőrzés alá vont jármű a díjköteles útszakaszok térítésmentes használatára jogosultak nyilvántartásában szerepel, valamint a közút kezelője vagy az általa megbízott közreműködő, továbbá a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti ellenőrzésére jogosult hatóság, valamint a külön jogszabály szerinti útdíjszedő által kezelt, a jármű tömegére, tengelyterhelésére, valamint méretére vonatkozó adatokat a mérés időpontjával, helyszínével és a jármű forgalmi rendszámával együtt. Az állami adó- és vámhatóság a feladatai ellátásához átvett adatokat 7 évig kezelheti.”

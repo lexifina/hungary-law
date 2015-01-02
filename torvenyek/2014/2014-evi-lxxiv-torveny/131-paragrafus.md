@@ -1,7 +1,0 @@
-131. § Az Áfa tv. a következő 294. §-sal egészül ki:
-
-„294. § (1) E törvénynek a Mód5 törvénnyel módosított 142. § (1) bekezdés c) pontját – a (2) és (3) bekezdésben meghatározott eltéréssel – azon ügyletek esetében kell először alkalmazni, amelyek teljesítési időpontja 2015. január 1. napjára vagy azt követő időpontra esik.
-
-(2) E törvénynek a Mód5 törvénnyel módosított 142. § (1) bekezdés c) pontja szerinti, építési hatósági engedélyhez vagy építési hatósági tudomásulvételi eljáráshoz nem kötött szolgáltatás nyújtása esetén, ha a teljesítés időpontja 2015. január 1. napjára esik vagy azt követi, de a szolgáltatást igénybevevő adóalanynak a 60. § (1)–(3) bekezdése szerint a fizetendő adót 2015. január 1. napját megelőzően kellene megállapítani, a Mód5 törvénnyel módosított 142. § (1) bekezdés c) pontját nem kell alkalmazni.
-
-(3) Amennyiben a Mód5 törvénnyel módosított 142. § (1) bekezdés c) pontja hatálya alá tartozó, építési hatósági engedélyhez vagy építési hatósági tudomásulvételi eljáráshoz nem kötött szolgáltatásnyújtáshoz fizetett előleg jóváírásának, kézhezvételének időpontja 2015. január 1. napját megelőző napra esik, az előleg jóváírására, kézhezvételére tekintettel fizetendő adót az ügyletet saját nevében teljesítő adóalany fizeti az 59. § (1) és (2) bekezdésének megfelelően, a szolgáltatás igénybevevőjének adófizetési kötelezettsége – a (2) bekezdésben foglaltak figyelembevételével – az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.”
