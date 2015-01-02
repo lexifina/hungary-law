@@ -1,3 +1,5 @@
+## 20. §[^29]
+
 ## 21. Záró rendelkezések
 
 21. § (1) Ez a rendelet – a (2)–(8) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
@@ -15,3 +17,5 @@
 (7) A 19. § (6) bekezdése és a 19. § (7) bekezdés b) és f)–j) pontja 2015. március 15. napján lép hatályba.
 
 (8) A 9. §, az 1. melléklet és a 2. melléklet 2015. április 1. napján lép hatályba.
+
+[^29]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

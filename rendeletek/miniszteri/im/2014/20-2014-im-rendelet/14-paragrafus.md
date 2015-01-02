@@ -1,4 +1,4 @@
-## 13. §[^8]
+## 13. §[^12]
 
 ## 14. A civil szervezetek bírósági eljárásokban alkalmazandó űrlapjairól szóló 11/2012. (II. 29.) KIM rendelet módosítása
 
@@ -90,4 +90,4 @@ e) 42. melléklet 6. pontja,
 
 f) 43. melléklet V. 1.6.2. pontja.
 
-[^8]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
