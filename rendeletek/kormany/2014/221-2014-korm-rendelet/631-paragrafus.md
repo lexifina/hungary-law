@@ -1,5 +1,5 @@
-## 630. §[^429]
+## 630. §[^430]
 
 ## 420. A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet módosítása
 
-[^429]: A 630. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^430]: A 630. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

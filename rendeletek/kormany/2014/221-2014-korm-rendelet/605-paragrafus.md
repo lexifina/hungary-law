@@ -1,3 +1,3 @@
-## 603–604. §[^418]
+## 603–604. §[^419]
 
-[^418]: A 603–604. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^419]: A 603–604. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

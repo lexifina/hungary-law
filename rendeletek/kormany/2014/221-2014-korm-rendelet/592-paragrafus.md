@@ -1,7 +1,7 @@
-## 591. §[^410]
+## 591. §[^411]
 
 ## 402. A NATO Válságreagálási Rendszerével összhangban álló Nemzeti Intézkedési Rendszer rendeltetéséről, feladatairól, eljárási rendjéről, a közreműködők kötelezettségeiről szóló
 
 ## 278/2011. (XII. 20.) Korm. rendelet módosítása
 
-[^410]: Az 591. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^411]: Az 591. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

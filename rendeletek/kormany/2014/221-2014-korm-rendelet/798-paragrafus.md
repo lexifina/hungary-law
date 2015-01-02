@@ -1,5 +1,5 @@
-## 797. §[^519]
+## 797. §[^520]
 
 ## 505. A 2014/2015-ös tanévre vonatkozó szakmaszerkezeti döntésről és a 2014/2015-ös tanévben induló képzésekben szakiskolai tanulmányi ösztöndíjra jogosító szakképesítésekről, valamint egyes szakképzési és felnőttképzési tárgyú kormányrendeletek módosításáról szóló 562/2013. (XII. 31.) Korm. rendelet módosítása
 
-[^519]: A 797. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^520]: A 797. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
