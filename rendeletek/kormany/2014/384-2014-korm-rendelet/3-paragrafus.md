@@ -1,3 +1,0 @@
-## 2. § A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet (a továbbiakban: R.) 96. §-a a következő (4a) bekezdéssel egészül ki:
-
-## „(4a) A szállítási rendszerirányító a 10 éves fejlesztési tervben – a 98/C. § alapján megküldött együttműködési megállapodás, valamint a 98/C. § (5) bekezdése szerinti nyilatkozat felhasználásával – bemutatja a szállítóvezeték-létesítési engedéllyel érintett szállítóvezeték rendszer-összekötési vagy összekapcsolási pontjainak fejlesztését, valamint az emiatt szükséges, az együttműködő földgázrendszert érintő, egyéb fejlesztéseket is.”
