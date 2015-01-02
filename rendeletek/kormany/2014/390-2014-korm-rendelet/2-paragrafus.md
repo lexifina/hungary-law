@@ -1,3 +1,0 @@
-## 1. § A Nemzeti Eszközkezelő Zrt. működésével kapcsolatos egyes szabályokról szóló 128/2012. (VI. 26.) Korm. rendelet (a továbbiakban: R.) 2. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A Nemzeti Eszközkezelő a megvételre felajánlott lakóingatlant az (1) és a (2) bekezdésben meghatározott eseteken kívül akkor is megvásárolja, ha a hiteladós, a zálogkötelezett vagy a vele egy háztartásban élő hozzátartozója sajátjogú nyugellátásban, özvegyi nyugdíjban – ide nem értve az ideiglenes özvegyi nyugdíjat –, szülői nyugdíjban vagy megváltozott munkaképességű személyek ellátásában részesül, kivéve ha a nyugellátás folyósítása bármely okból szünetel.”
