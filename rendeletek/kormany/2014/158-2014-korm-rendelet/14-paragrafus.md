@@ -1,14 +1,12 @@
-14. § (1)[^16]
+14. § (1)[^17]
 
-(2) Hatályát veszti az R.
+(2)[^18]
 
-a)[^17]
+a)[^19]
 
-b) 6. § (4) bekezdés a) pontja,
+b)–d)[^20]
 
-c) 13. § (2) bekezdés b) pontja és
-
-d) 18. § (2) bekezdés b) pontja.
-
-[^16]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 14. § (2) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 837. §-a alapján nem lép hatályba.
+[^17]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 14. § (2) bekezdés nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 14. § (2) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 837. §-a alapján nem lép hatályba.
+[^20]: A 14. § (2) bekezdés b)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
