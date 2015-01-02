@@ -1,3 +1,0 @@
-19. § A Hjt. 57. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha az állomány 42. § (2) bekezdés b)–f) pontja alapján vezényelt tagjának viselt rendfokozata egy rendfokozati szinttel eltér a vezénylés idejére tervezett általános előmeneteli rendű beosztáshoz rendszeresített, illetve alacsonyabb a vezénylés idejére tervezett speciális előmeneteli rendű beosztásban elérhető, jogszabályban meghatározott rendfokozattól, az állomány tagja a vezénylés időtartamára egy rendfokozattal magasabb rendfokozatba előléptethető, kinevezhető vagy részére eggyel alacsonyabb rendfokozat állapítható meg.”
