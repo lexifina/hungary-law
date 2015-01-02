@@ -1,3 +1,0 @@
-## 10. § A Magyar Köztársaság Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti tudományos és technológiai együttműködési Megállapodás kihirdetéséről szóló 140/2005. (VII. 27.) Korm. rendelet 4. § (4) bekezdésében az „az oktatási miniszter” szövegrész helyébe az „a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke” szöveg lép.
-
-## 7. A Magyar Köztársaság Kormánya és az Olasz Köztársaság Kormánya közötti, a tudományos kutatás és a technológiai fejlesztés terén megvalósítandó együttműködésről szóló, 2003. május 21-én, Rómában aláírt Keretmegállapodás kihirdetéséről szóló 170/2005. (IX. 1.) Korm. rendelet módosítása
