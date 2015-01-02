@@ -1,1 +1,0 @@
-## „d) a hatósági felügyeletet – ide nem értve az adó-visszaigénylési (adó-visszatérítési) kérelem elbírálása során végzett, Jöt. 49. § (5) bekezdése szerinti kiutalás előtti ellenőrzést – és a jövedéki ellenőrzést,”
