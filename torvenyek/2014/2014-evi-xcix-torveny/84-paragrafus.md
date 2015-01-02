@@ -1,3 +1,1 @@
-84. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 115. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az intézményi térítési díj a személyes gondoskodás körébe tartozó szociális ellátások ellenértékeként megállapított összeg (a továbbiakban: intézményi térítési díj). Az intézményi térítési díjat a fenntartó tárgyév április 1-jéig állapítja meg. Az intézményi térítési díj összege nem haladhatja meg a szolgáltatási önköltséget. Az intézményi térítési díj év közben egy alkalommal korrigálható. Az intézményi térítési díjat integrált intézmény esetében is szolgáltatásonként kell meghatározni, ilyen esetben az önköltség számítása során a közös költségelemeket a szolgáltatásonkénti közvetlen költségek arányában kell megosztani.”
+84. §

@@ -1,5 +1,0 @@
-39. § Az államháztartásról szóló 2011. évi CXCV. törvény 83/A. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) A kincstár (1a) és (2) bekezdés szerinti határozata ellen fellebbezésnek nincs helye, a határozat bírósági felülvizsgálatára az 57. § (6) és (7) bekezdését kell alkalmazni, azzal, hogy a bíróság határozata ellen felülvizsgálatnak nincs helye. A kincstár (1a) és (2) bekezdés szerinti határozatában foglaltak részletekben történő teljesítése a 60/A. § (3) és (4) bekezdése szerint kérhető és engedélyezhető.
-
-(4) Az engedélyezett részletekben történő teljesítés kivételével, ha a települési önkormányzat, illetve az önkormányzati hivatal a kincstár (1a) és (2) bekezdés szerinti határozatában foglaltaknak a határozat közlését követő tizenöt napon belül nem tesz eleget, a meg nem fizetett összeg és a bírság együttes összegének erejéig a kincstár – a határozat bírósági felülvizsgálatára tekintet nélkül – beszedési megbízást nyújt be a települési önkormányzat fizetési számlájával szemben. A beszedési megbízás visszavonására a 60/B. §-t kell alkalmazni.”

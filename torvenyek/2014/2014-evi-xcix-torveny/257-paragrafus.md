@@ -1,1 +1,0 @@
-257. § A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 5. § (5) bekezdésében a „kutatás-fejlesztésért és technológiai innovációért felelős miniszterrel” szövegrész helyébe a „Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnökével” szöveg lép.

@@ -2,4 +2,4 @@
 
 1–2.
 
-3. 3. § (1) bekezdésében az „az Országos Hulladékgazdálkodási Ügynökség,” szövegrész.
+3.

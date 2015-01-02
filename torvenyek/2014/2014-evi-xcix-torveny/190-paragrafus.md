@@ -1,7 +1,3 @@
 ## 25. A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény módosítása
 
-190. § A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 1/A. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-„(2a) Az ingatlan tulajdonjogának az (1) bekezdés szerinti megszerzése nem engedélyezhető, ha az a közérdeket sértené. A közérdek sérelmének minősül, ha a kérelmező külföldi természetes személy büntetett előéletű. Külföldi jogi személy kérelmező esetén a közérdek sérelme akkor valósul meg, ha a fióktelep vagy kereskedelmi képviselet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény szerint alkalmazott tevékenység korlátozására vonatkozó intézkedés hatálya alatt áll. Az e törvény végrehajtására kiadott kormányrendelet a közérdek sérelmének a tulajdonjog megszerzése engedélyezését kizáró további eseteit állapíthatja meg.
-
-(2b) A külföldi természetes személy kérelmező a tulajdonjog megszerzésének engedélyezése iránti kérelem benyújtásával egyidejűleg a fővárosi és megyei kormányhivatal részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, vagy kéri, hogy e tény fennállására vonatkozó adatokat a fővárosi és megyei kormányhivatal részére – a kérelem elbírálása céljából benyújtott adatigénylése alapján – a bűnügyi nyilvántartó szerv továbbítsa. Az adatigénylés során a fővárosi és megyei kormányhivatal a (2a) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől. Az ennek alapján megismert személyes adatokat a fővárosi és megyei kormányhivatal a kérelem elbírálása iránti eljárás jogerős befejezéséig kezeli.”
+190. §

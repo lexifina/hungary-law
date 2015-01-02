@@ -1,3 +1,0 @@
-223. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 22/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A saját jogú nyugellátásban részesülő személy kérelmére a nyugellátását az (1) bekezdés szerint kell növelni akkor is, ha arra a jogosultságot korábban, azóta megszűnt rokkantsági, baleseti rokkantsági nyugdíj vagy rehabilitációs járadék mellett szerezte. A saját jogú nyugellátás mellett folytatott keresőtevékenység időtartama szolgálati időként nem vehető figyelembe. A sajátjogú nyugellátás mellett folytatott keresőtevékenységgel szerzett, nyugdíjjárulék alapot képező kereset, jövedelem összege az öregségi nyugdíj alapját képező havi átlagkereset kiszámítása során nem vehető figyelembe.”
