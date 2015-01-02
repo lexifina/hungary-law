@@ -1,1 +1,0 @@
-## 1. Az előadó-művészeti szervezetek és az előadó-művészeti érdekképviseleti szervezetek működésével kapcsolatos hatósági eljárások és adatszolgáltatások részletes szabályairól szóló 14/2012. (III. 6.) NEFMI rendelet módosítása
