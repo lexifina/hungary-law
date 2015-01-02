@@ -1,5 +1,5 @@
-## 15. § Nem lép hatályba a belföldi Állami Futárszolgálat tevékenységének szabályozásáról szóló 44/1998. (X. 14.) BM rendelet módosítása az egységes kormányzati ügyiratkezelő rendszerrel kapcsolatban című 64/2014. (XII. 15.) BM rendelet.
+## 15. §[^3]
 
-16. §[^2]
+16. § Hatályát veszti a 15. §.
 
-[^2]: A 16. § a 12. § (3) bekezdése alapján 2015. január 2-án lép hatályba.
+[^3]: A 15. §-t a 16. § hatályon kívül helyezte.

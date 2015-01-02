@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-75-20-0
 | --- | --- | --- |
 | 2014-12-31 | 2014-75-20-0A.1 | 75/2014. (XII. 23.) BM rendelet |
 | 2015-01-01 | 2014-75-20-0A.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2015-01-02 | 2014-75-20-0A.3 | 2010: CXXX. törvény |

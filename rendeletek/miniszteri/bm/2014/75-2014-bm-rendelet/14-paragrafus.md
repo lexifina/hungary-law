@@ -1,1 +1,3 @@
-## 13. § Hatályát veszti a belügyminiszter irányítása alá tartozó költségvetési szervek hivatásos állományú tagjainak 2014. évi ruházati utánpótlási ellátmánya felhasználási rendjéről szóló 37/2014. (VI. 11.) BM rendelet.
+## 13. §[^1]
+
+[^1]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
