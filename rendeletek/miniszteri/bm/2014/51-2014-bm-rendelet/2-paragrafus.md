@@ -1,1 +1,0 @@
-## „(2) Az Év Rendőre Miniszteri Díj elismerésben részesíthető személyek közül évente 7 fő az általános rendőrségi feladatok ellátására létrehozott szerv hivatásos állományának tagjai közül kerül kiválasztásra. A díjazottak összetétele lehetőség szerint kifejezi a különböző szolgálati ágak és szakmacsoportok képviseletét.”
