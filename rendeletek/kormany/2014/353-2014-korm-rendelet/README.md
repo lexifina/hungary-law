@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-353-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-01-01 | 2014-353-20-22.1 | 353/2014. (XII. 29.) Korm. rendelet |
+| 2015-01-02 | 2014-353-20-22.2 | 2010: CXXX. törvény |

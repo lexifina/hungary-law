@@ -1,3 +1,5 @@
-## 80. § Az Átr. 23. § (3) és (4) bekezdésében a „törvényben” szövegrész helyébe a „törvény végrehajtásáról szóló kormányrendeletben” szöveg lép.
+## 78–80. §[^17]
 
 ## 17. A nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló 513/2013. (XII. 29.) Korm. rendelet módosítása
+
+[^17]: A 78–80. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

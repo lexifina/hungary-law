@@ -1,1 +1,3 @@
-## „p) a működtető hozzájárulását a nevelőszülő Gyvt. 66/B. § (4) bekezdésében foglaltak szerinti időkorlátozás nélküli keresőtevékenységéhez, indokolt esetben megjelölve azokat a feltételeket, amelyek biztosítják, hogy a keresőtevékenység a nála elhelyezett gyermek, fiatal felnőtt ellátását nem veszélyezteti,”
+## 81–82. §[^18]
+
+[^18]: A 81–82. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,0 @@
-## „(2a) Ha a nyugdíjbiztosítási visszautalás összege eltér az uniós intézmény (1) bekezdés szerinti igazolásában feltüntetett összegtől, a nyugdíjbiztosítási visszautalásról az Igazgatóság hivatalból új határozatot hoz.”
