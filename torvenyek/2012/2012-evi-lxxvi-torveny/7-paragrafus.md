@@ -8,7 +8,7 @@
 
 2.
 
-3. az adókról, járulékokról és egyéb költségvetési befizetésekről szóló törvények módosításáról szóló 2005. évi CXIX. törvény,
+3.
 
 4.
 
