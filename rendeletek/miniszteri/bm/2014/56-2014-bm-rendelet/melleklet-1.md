@@ -1,4 +1,4 @@
-## 48. § Hatályát veszti a rendőrségi fogdák rendjéről szóló 19/1995. (XII. 13.) BM rendelet.
+## 48. §[^1]
 
 1. melléklet az 56/2014. (XII. 5.) BM rendelethez
 
@@ -43,3 +43,5 @@ d) lehetőség szerint rádió és televízió;
 e) szemetes lapát, felmosóruha;
 
 f) lehetőség szerint WC-fülke.
+
+[^1]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
