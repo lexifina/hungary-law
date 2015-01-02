@@ -1,3 +1,0 @@
-## 32. § A Nemzeti Elektronikus Információbiztonsági Hatóság és az információbiztonsági felügyelő feladat- és hatásköréről, valamint a Nemzeti Biztonsági Felügyelet szakhatósági eljárásáról szóló 301/2013. (VII. 29.) Korm. rendelet (a továbbiakban: Korm. rendelet3) 2. §-a helyébe a következő rendelkezés lép:
-
-## „2. § Az Ibtv. 14. § (1) bekezdése szerinti Nemzeti Elektronikus Információbiztonsági Hatóságként (a továbbiakban: hatóság) a Kormány az e-közigazgatásért felelős minisztert (a továbbiakban: miniszter) jelöli ki. A hatóság eljárásainak ügyintézési határideje hatvan nap, amelyet a hatóság vezetője indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbíthat.”

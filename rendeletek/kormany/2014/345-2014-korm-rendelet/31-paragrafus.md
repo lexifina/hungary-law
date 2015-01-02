@@ -1,1 +1,0 @@
-## „j) közterületnév: az ingatlan-nyilvántartásban nyilvántartott közterületnek a központi címregiszterről és a címkezelésről szóló kormányrendeletben meghatározott közterület jelleget is tartalmazó neve;”

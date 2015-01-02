@@ -1,4 +1,4 @@
-## 36. § Az egyes, az elektronikus ügyintézéshez kapcsolódó szervezetek kijelöléséről szóló 84/2012. (IV. 21.) Korm. rendelet 5. § (1) bekezdésében a „működteti” szövegrész helyébe a „működteti, aki e feladatát a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala közreműködésével látja el” szöveg lép.
+## 23–36. §[^1]
 
 1. melléklet a 345/2014. (XII. 23.) Korm. rendelethez
 
@@ -139,3 +139,5 @@
 | 68. | 39 | völgy |
 
 | 69. | 38 | zug |
+
+[^1]: A 23–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
