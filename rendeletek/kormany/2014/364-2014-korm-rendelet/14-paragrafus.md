@@ -1,1 +1,0 @@
-## „(9) Ha a jövedelemigazolással kapcsolatos hiánypótlási eljárás nem vezet eredményre, a csecsemőgondozási díj, illetve a gyermekgondozási díj összegét a Nemzeti Adó- és Vámhivatalhoz bevallott jövedelemadatokból kell megállapítani.”

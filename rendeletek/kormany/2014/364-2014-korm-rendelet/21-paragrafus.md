@@ -1,1 +1,0 @@
-## 20. § A térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló 284/1997. (XII. 23.) Korm. rendelet (a továbbiakban: Tr.) 2. § (8) bekezdésében az „a pneumococcus és az influenza megbetegedés” szövegrész helyébe az „a pneumococcus baktérium, a human papilloma vírus és az influenza megbetegedés” szöveg lép.

@@ -1,3 +1,0 @@
-## 11. § A Vhr. 37. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Ha a biztosítás megszüntetését követően a biztosított baleseti táppénz, csecsemőgondozási díj vagy gyermekgondozási díj iránti kérelmet nyújt be, a korábban átvett Igazolványt a kérelemhez mellékelni kell. A folyósító szerv a pénzbeli ellátás és a baleseti táppénz folyósításának befejezésekor az Igazolványba bejegyzi a passzív jogon, a méltányosságból folyósított ellátás időtartamát, valamint az Ebtv. 42/E. §-a alapján folyósított gyermekgondozási díjat. A folyósító szerv az Igazolványt öt napon belül visszaadja vagy visszaküldi a biztosítottnak.”

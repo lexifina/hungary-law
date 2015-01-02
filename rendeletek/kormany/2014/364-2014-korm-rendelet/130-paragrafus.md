@@ -1,1 +1,0 @@
-## 129. § A Társadalmi Megújulás Operatív Program 1. prioritás 1.1.4. konstrukció „A hátrányos helyzetűek foglalkoztatásáért a Közép-magyarországi Régióban” keretében nyújtható támogatásokról szóló 175/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdés c) pontjában a „terhességi-gyermekágyi segélyben” szövegrész helyébe a „csecsemőgondozási díjban” szöveg lép.

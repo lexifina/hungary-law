@@ -1,1 +1,3 @@
-## „(3) A (2) bekezdés szerinti repülőtéren és kikötőkben a kirendeltség látja el a területileg illetékes járási népegészségügyi intézetek számára jogszabályban meghatározott népegészségügyi feladat- és hatásköröket.”
+## 86. §[^22]
+
+[^22]: A 86. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,0 @@
-## „(1d) A Tv. 1. § (2) bekezdés i) pontja szerinti kapacitás teljesítménynövekedés vagy magasabb összegű elszámolás hiányában is többletkapacitásnak minősül, ha annak befogadása az egészségügyi szolgáltató összes kapacitása tekintetében növekedést eredményezne.”

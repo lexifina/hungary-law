@@ -1,1 +1,0 @@
-## 126. § A lakossági vezetékes gázfogyasztás és távhőfelhasználás szociális támogatásáról szóló 289/2007. (X. 31.) Korm. rendelet 1. számú melléklet „TÁJÉKOZTATÓ az igénylőlap kitöltéséhez” részében a „terhességi-gyermekágyi segély” szövegrész helyébe a „terhességi-gyermekágyi segély, csecsemőgondozási díj” szöveg lép.

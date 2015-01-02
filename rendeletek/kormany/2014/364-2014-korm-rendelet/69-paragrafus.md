@@ -1,1 +1,0 @@
-## „(8) Az OEP a beérkezett kérelmeket, a (6) bekezdés alapján készített összefoglalót, továbbá az OTH által a (7) bekezdés szerinti megkeresésre adott állásfoglalást – a TBB soron következő ülését legalább 10 nappal megelőzően – megküldi a TBB tagjainak.”

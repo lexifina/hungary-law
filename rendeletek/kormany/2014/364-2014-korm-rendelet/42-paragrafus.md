@@ -1,5 +1,7 @@
-## 41. § Az Állami Népegészségügyi és Tisztiorvosi Szolgálat engedélyével működő Családvédelmi Szolgálat működésének engedélyezéséről szóló 232/2000. (XII. 23.) Korm. rendelet 8. § (4) bekezdésében az „évente legalább két alkalommal az ÁNTSZ a szakirányú tanfolyamot meghirdeti” szövegrész helyébe az „az ÁNTSZ a szakirányú tanfolyamot évente meghirdeti” szöveg lép.
+## 41. §[^15]
 
 ## 6. Az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló
 
 ## 201/2001. (X. 25.) Korm. rendelet módosítása
+
+[^15]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,0 @@
-## „(10) Ha az OEP ellenőrzése során megállapítja, hogy a beteg állapotának rosszabbodása miatti mentési esemény bekövetkezésére a betegszállító szolgáltatónak felróható okból került sor, az OEP az érintett szolgáltató betegszállítási feladatok ellátására kötött finanszírozási szerződését felmondhatja.
-
-## (11) Ha az OEP tudomására jut, hogy a szolgáltató az elszámolható hasznos és többlet kilométerek számát nem az (1), (1a), (3) és (4a) bekezdésben foglaltaknak megfelelően jelentette, és az OEP ellenőrzése során megállapítja, hogy a jogellenes magatartásra legalább két esetben, a magasabb finanszírozási díj jogosulatlan megszerzése céljából került sor, az OEP az érintett szolgáltató betegszállítási feladatok ellátására kötött finanszírozási szerződését felmondhatja.”

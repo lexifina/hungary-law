@@ -1,3 +1,0 @@
-## 102. § Az OBDK Vhr. 22. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-## „(6) Mentesül az 5. § (1) bekezdése szerinti tanfolyam és vizsga letétele alól a jogi szakokleveles betegjogi, ellátottjogi és gyermekjogi jogvédői képesítéssel, valamint a betegjogi, ellátottjogi és gyerekjogi, továbbá az egészségügyi szakjogász végzettséggel rendelkező személy. A kinevezésében meghatározott próbaidő tartamáig mentesülhet továbbá az a személy is, aki az OBDK-val létesített munkavégzésre irányuló jogviszonya kezdetekor az 5. § (1) bekezdése szerinti tanfolyam elvégzését vállalja és a vizsgát a próbaidő leteltéig sikeresen teljesíti.”
