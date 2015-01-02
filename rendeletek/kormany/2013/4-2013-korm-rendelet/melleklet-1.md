@@ -1,4 +1,4 @@
-## 58. §[^202] Az 56. § 2015. január 1-jén hatályát veszti.
+## 58. §[^202]
 
 1. melléklet a 4/2013. (I. 11.) Korm. rendelethez
 
@@ -20,7 +20,7 @@
 
 8.[^208] a központi költségvetésről szóló törvény XLIII. fejezet 1. cím 1. alcím 3. jogcímcsoportjába, 1. cím 2. alcím 4. jogcímcsoportjába és 2. cím 4. alcím 3. jogcímcsoportjába tartozó központi kezelésű előirányzatok.
 
-[^202]: Az 58. §-t a 497/2013. (XII. 29.) Korm. rendelet 110. §-a iktatta be.
+[^202]: Az 58. §-t a 497/2013. (XII. 29.) Korm. rendelet 110. §-a iktatta be, hatályát vesztette a 2010: CXXX. törvény 12. § (2) bekezdése alapján.
 [^203]: Az 1. melléklet 3. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 1. pontjával megállapított, a 284/2014. (XI. 20.) Korm. rendelet 23. § (2) bekezdés 23. pontja szerint módosított szöveg.
 [^204]: Az 1. melléklet 4. pontja a 284/2014. (XI. 20.) Korm. rendelet 23. § (2) bekezdés 24. pontja szerint módosított szöveg.
 [^205]: Az 1. melléklet 5. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 1. pontjával megállapított, a 284/2014. (XI. 20.) Korm. rendelet 23. § (2) bekezdés 25. pontja szerint módosított szöveg.
