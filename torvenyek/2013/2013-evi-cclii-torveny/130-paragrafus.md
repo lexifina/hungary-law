@@ -2,15 +2,11 @@
 
 130. § (1)–(7)
 
-(8) A Cnytv. 48. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az alapítvány nyilvántartásba vétele iránti kérelemnek a 20. §-ban foglaltakon túlmenően tartalmaznia kell a kurátor nevét, illetve a kuratórium megnevezését, a kuratórium tagjainak vagy a kurátornak a lakóhelyét (székhelyét), anyja születési nevét is.”
+(8)
 
 (9)–(15)
 
-(16) A Cnytv. 58/B. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Az alapítványok egyesülésének vagy szétválásának bejegyzésére akkor kerülhet sor, ha az állami adó- és vámhatóság – a bírósági elektronikus értesítést követő öt munkanapon belül – elektronikus úton arról tájékoztatja a bíróságot, hogy az átalakulással érintett alapítványnál az adókötelezettségek teljesítésének ellenőrzésére irányuló, illetve ezzel összefüggő hatósági eljárás nincs folyamatban, vagy az állami adó- és vámhatóság ilyen adóigazgatási eljárást nem kezdeményez. Ha az állami adó- és vámhatóság tájékoztatása szerint az alapítványnál ilyen eljárás van folyamatban, vagy az állami adó- és vámhatóság ilyen eljárást kezdeményez, az átalakulás az adóigazgatási eljárás jogerős befejezéséről szóló elektronikus tájékoztatást követően, ennek hiányában az átalakulás bejegyzése iránti kérelem elbírálására nyitva álló határidő kezdetétől számított kilencvenedik napon jegyezhető be.”
+(16)
 
 (17)
 
@@ -18,7 +14,9 @@
 
 (19)–(21)
 
-(22)
+(22) A Cnytv. 99. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) 2015. január 2. napjától az ezt megelőzően bejegyzett, nemzetiségi egyesület a bíróság részére – változásbejegyzési kérelem benyújtása nélkül – bejelentheti, hogy az egyesület formája nemzetiségi egyesület, ha alapszabályában rögzített célja a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény szerinti, konkrétan megjelölt nemzetiség képviselete és alapszabálya szerint az adott nemzetiség érdekvédelmét, érdekképviseletét látja el vagy a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet lát el. A bíróság a bejelentés alapján az egyesület formáját akkor jegyzi be a nyilvántartásba, ha az alapszabály szerint az egyesület nemzetiségi egyesület. Az adat bejegyzéséről nem kell végzést hozni, ha az ilyen módon bejegyzett adat eltér a bejegyzés alapjául szolgáló határozatban vagy értesítésben szereplő adattól, a nyilvántartásban szereplő adat kijavítására a Pp. 224. § (1) és (2) bekezdését kell megfelelően alkalmazni azzal, hogy a kijavításról nem kell végzést hozni.”
 
 (23)
 

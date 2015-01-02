@@ -12,9 +12,7 @@
 
 (32)
 
-(33) A Ctv. 72/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A cég a törvényességi felügyeleti eljárásban kérelmét kizárólag elektronikus úton nyújthatja be.”
+(33)
 
 (34)–(42)
 
