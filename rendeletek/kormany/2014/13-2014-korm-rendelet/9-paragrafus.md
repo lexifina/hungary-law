@@ -2,7 +2,7 @@
 
 ## 9. A kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet módosítása
 
-9. § (1)[^9]
+## 9. §[^9]
 
 (2)[^10]
 
