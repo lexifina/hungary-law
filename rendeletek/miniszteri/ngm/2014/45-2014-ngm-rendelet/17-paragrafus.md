@@ -1,3 +1,0 @@
-## 16. § A belföldön nem letelepedett adóalanyokat a Magyar Köztársaságban megillető általánosforgalmiadó-visszatéríttetési jognak, valamint a belföldön letelepedett adóalanyokat az Európai Közösség más tagállamában megillető hozzáadottértékadó-visszatéríttetési jognak érvényesítésével kapcsolatos egyes rendelkezésekről szóló 32/2009. (XII. 21.) PM rendelet (a továbbiakban: PM2 rendelet) 4. §-a a következő (6) bekezdéssel egészül ki:
-
-## „(6) Az (1) bekezdés e) pont szerinti nyilatkozat megtételének nem akadálya, ha az adóalany az Áfa tv. 253/B. §-a alapján jogosult az adó-visszatéríttetésére.”

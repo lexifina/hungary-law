@@ -1,3 +1,3 @@
-## 24. §[^1]
+## 24. §[^5]
 
-[^1]: A 24. § a 29. § (2) bekezdése alapján 2015. március 1-jén lép hatályba.
+[^5]: A 24. § a 29. § (2) bekezdése alapján 2015. március 1-jén lép hatályba.
