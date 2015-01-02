@@ -1,3 +1,0 @@
-106. § A Gyftv. 50/A. §-a helyébe a következő rendelkezés lép:
-
-„50/A. § A közforgalmú gyógyszertár működtetője kérelmére az egészségügyi államigazgatási szerv engedélyezi a fiókgyógyszertár áthelyezését. Az áthelyezésre kizárólag az adott településen belül, legkésőbb az áthelyezést engedélyező határozat jogerőre emelkedését követő 6 hónapon belül kerülhet sor.”
