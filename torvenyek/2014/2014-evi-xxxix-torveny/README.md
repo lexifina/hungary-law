@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-39-00-00
 | 2014-10-07 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-39-00-00.5 |
 | 2014-10-08 | 2010. évi CXXX. törvény | 2014-39-00-00.6 |
 | 2015-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-39-00-00.7 |
+| 2015-01-02 | 2010. évi CXXX. törvény | 2014-39-00-00.8 |
