@@ -2,8 +2,8 @@
 
 (2) A forinttól eltérő pénznemben kiállított számla esetén, a forintra történő átszámítás a támogatási kérelem benyújtása borpiaci évének első napján érvényes EKB által jegyzett középárfolyamon történik.
 
-(3)[^45]
+(3)[^46]
 
 (4) A számla elutasítását vonja maga után, ha a számlát más támogatáshoz elszámolták.
 
-[^45]: A 10. § (3) bekezdését a 101/2013. (XI. 4.) VM rendelet 16. § (1) bekezdés h) pontja hatályon kívül helyezte.
+[^46]: A 10. § (3) bekezdését a 101/2013. (XI. 4.) VM rendelet 16. § (1) bekezdés h) pontja hatályon kívül helyezte.

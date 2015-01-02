@@ -4,6 +4,6 @@
 
 (3) Egy számla csak egy támogatási kérelemhez számolható el.
 
-(4)–(5)[^44]
+(4)–(5)[^45]
 
-[^44]: A 9. § (4)–(5) bekezdését a 101/2013. (XI. 4.) VM rendelet 16. § (1) bekezdés g) pontja hatályon kívül helyezte.
+[^45]: A 9. § (4)–(5) bekezdését a 101/2013. (XI. 4.) VM rendelet 16. § (1) bekezdés g) pontja hatályon kívül helyezte.
