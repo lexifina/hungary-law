@@ -1,1 +1,3 @@
-6. § Hatályát veszti az UNESCO által 2005. október 19-én elfogadott, a sportbeli dopping elleni nemzetközi egyezmény mellékletei módosításának kihirdetéséről szóló 164/2014. (VII. 16.) Korm. rendelet.
+6. §[^1]
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
