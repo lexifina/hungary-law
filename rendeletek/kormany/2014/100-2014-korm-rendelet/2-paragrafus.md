@@ -1,3 +1,0 @@
-## „(13) E rendeletnek a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv környezeti célkitűzéseinek teljes körű átültetésével összefüggésben egyes kormányrendeletek módosításáról szóló 100/2014. (III. 25.) Korm. rendelettel (a továbbiakban: Mód Kr. 6.) megállapított rendelkezéseit a Mód Kr. 6. hatálybalépését követően indult ügyekben, továbbá a megismételt eljárásokban kell alkalmazni.”
-
-## 2. Az egyes tervek, illetve programok környezeti vizsgálatáról szóló 2/2005. (I. 11.) Korm. rendelet módosítása
