@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-250-00-00
 | 2014-12-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-250-00-00.19 |
 | 2014-12-02 | 2010. évi CXXX. törvény | 2013-250-00-00.20 |
 | 2015-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-250-00-00.21 |
+| 2015-01-02 | 2010. évi CXXX. törvény | 2013-250-00-00.22 |
