@@ -402,4 +402,6 @@
 
 | 200. |  |  | Ország összesen | 9 877 365 |  | 108 | 55 | 36 |
 
-3. melléklet a 290/2014. (XI. 26.) Korm. rendelethez
+3. melléklet a 290/2014. (XI. 26.) Korm. rendelethez[^2]
+
+[^2]: A 3. melléklet a 308/2014. (XII. 9.) Korm. rendelet 6. §-a szerint módosított szöveg.

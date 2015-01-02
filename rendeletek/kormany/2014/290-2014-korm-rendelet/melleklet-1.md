@@ -1,4 +1,4 @@
-## 8. § Hatályát veszti a kedvezményezett térségek besorolásáról szóló 311/2007. (XI. 17.) Korm. rendelet.
+## 8. §[^1]
 
 1. melléklet a 290/2014. (XI. 26.) Korm. rendelethez
 
@@ -93,3 +93,5 @@ max(): az alapindikátor legnagyobb értéke
 : komplex mutató
 
 : csoportindikátorok száma
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

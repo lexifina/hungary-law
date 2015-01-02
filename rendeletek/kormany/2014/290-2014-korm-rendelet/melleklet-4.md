@@ -196,7 +196,7 @@
 
 | 97. | Közép-Dunántúl | Fejér | Enyingi | 0 | 1 | 0 |
 
-| 98. |  |  | Polgárdi | 1 | 0 | 0 |
+| 98. |  |  |  |  |  |  |
 
 | 99. |  |  | Sárbogárdi | 0 | 0 | 1 |
 
