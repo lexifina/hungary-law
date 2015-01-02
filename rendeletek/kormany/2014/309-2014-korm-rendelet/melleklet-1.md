@@ -1,4 +1,4 @@
-## 20. § Hatályát veszti a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló 440/2012. (XII. 29.) Korm. rendelet.
+## 20. §[^1]
 
 1. melléklet a 309/2014. (XII. 11.) Korm. rendelethez
 
@@ -251,3 +251,5 @@ c) a telephelyről országon kívülre hasznosításra vagy ártalmatlanításra
 d) az adatmeghatározás módja (M = mért, SZ = számított, B = becsült) és a használt mérési vagy számítási módszer;
 
 e) a hasznosító vagy ártalmatlanító létesítmény neve, címe és a szállítmányt befogadó tényleges hasznosító vagy ártalmatlanító telephely címe (megjelölve az országkódot).
+
+[^1]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
