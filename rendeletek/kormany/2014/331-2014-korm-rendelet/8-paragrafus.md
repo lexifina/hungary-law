@@ -1,5 +1,0 @@
-## 7. § Az R1. 25. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-## „(2a) A (2) bekezdés esetén – amennyiben a lakáscélú állami megtérítési kötelezettség teljesítésének időpontjában a támogatott személynek a megtérítési kötelezettséggel érintett lakásban a tulajdona fennáll – a teljesített megtérítési kötelezettség összegének erejéig, a megtérítési kötelezettség teljesítésének napjától számított 10 évig terjedő időtartamra az állam javára jelzálogjogot és annak biztosítására elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni.
-
-## (2b) A Kincstár a miniszter által átadott megkeresés alapján, hatósági jogkörben eljárva, határozattal megállapítja a megtérítési kötelezettség teljesítését, majd a határozat jogerőre emelkedését követően megkeresi a támogatott lakás fekvése szerint illetékes járási földhivatalt az államot megillető jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom megtérítési kötelezettséggel érintett lakásra történő bejegyezése iránt.”

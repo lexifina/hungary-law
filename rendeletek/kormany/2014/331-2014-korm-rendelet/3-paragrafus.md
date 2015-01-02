@@ -1,1 +1,0 @@
-## „(8) A (6) és (7) bekezdés esetén a méltányolható lakásigény megállapításánál együttköltöző családtag alatt valamennyi, a lakásépítési (-vásárlási) kedvezménnyel érintett lakásban lakóhellyel rendelkező személy értendő.”
