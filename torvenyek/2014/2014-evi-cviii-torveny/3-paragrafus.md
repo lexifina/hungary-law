@@ -1,5 +1,0 @@
-3. § A Harmtv. 110. §-a a következő (11) és (12) bekezdéssel egészül ki:
-
-„(11) A 28. § (4) bekezdése alapján 2014. december 31. napjáig benyújtásra került kérelmek vonatkozásában az államkötvényt 250 000 euró össznévértéken kell lejegyezni.
-
-(12) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosításáról szóló 2014. évi CVIII. törvény hatályba lépésének időpontjában a 28. § (4) bekezdés a) pont aa) alpontja szerinti államkötvény lejegyzésére jogosult társaság által az államkötvény lejegyzése céljából, harmadik országbeli állampolgártól, vagy harmadik országbeli állampolgár többségi tulajdonában álló gazdasági társaságtól átvett, Magyarország területén tevékenységet folytató hitelintézetnél elhelyezett pénzösszeg a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:360. § szerinti letéti szerződés alapján elhelyezett pénzösszegnek, valamint a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 3. § (1) bekezdés j) pontja szerinti letéti szolgáltatás keretében elhelyezett pénzösszegnek minősül.”
