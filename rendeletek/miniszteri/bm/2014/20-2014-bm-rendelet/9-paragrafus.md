@@ -1,4 +1,4 @@
-## 8. §[^10]
+## 8. §[^11]
 
 9. § (1) Ez a rendelet – a (2)–(5) bekezdésben meghatározott kivétellel – a kihirdetését követő 30. napon lép hatályba.
 
@@ -10,4 +10,4 @@
 
 (5) A 4. § (3) bekezdése és az 5. § (2) bekezdése 2020. december 31-én lép hatályba.
 
-[^10]: A 8. § a 9. § (3) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^11]: A 8. § a 39/2015. (IX. 14.) MvM rendelet 8. §-a alapján nem lép hatályba.
