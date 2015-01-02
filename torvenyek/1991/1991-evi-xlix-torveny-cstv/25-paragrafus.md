@@ -14,7 +14,9 @@ f) a 27. § (2) bekezdés a) pontjában meghatározott esetben a kérelem bíró
 
 g) a jogerős bírósági határozatban megállapított teljesítési határidő a kérelem bírósághoz érkezésének időpontjában még nem telt el;
 
-h) a 27. § (2b) bekezdése szerinti feltétel nem teljesül.
+h) a 27. § (2b) bekezdése szerinti feltétel nem teljesül;
+
+i) a 6. § (5) bekezdése értelmében elektronikus kapcsolattartásra köteles kérelmező az eljárási illeték és a közzétételi költségtérítés megfizetésére vonatkozó elektronikus igazolást nem csatolta.
 
 (2) Ha az Európai Unió más tagállamában a bíróság határozatának meghozatalát megelőzően a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján főeljárást indítottak, a bíróság az ugyanazon adós ellen Magyarországon megindított főeljárást területi eljárássá alakítja át, feltéve, hogy az adós Magyarországon telephellyel rendelkezik. A bíróság erről a főeljárást megindító bíróságot tájékoztatja.
 

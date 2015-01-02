@@ -32,6 +32,8 @@ bd) az eljárás felfüggesztésének fizetésképtelenséget megállapító vé
 
 (5) 2015. január 1-jétől a bíróság és a fél egymással a kapcsolatot a Pp.-ben meghatározottak szerint, elektronikus úton tartja. Természetes személyek esetén a beadványokat és más hivatalos iratokat papír alapon is be lehet nyújtani, illetve kézbesíteni.
 
+(5a) Az (5) bekezdés szerint elektronikus kapcsolattartásra köteles fél az eljárási illetéket, a kifogás tételes illetékét és a közzétételi költségtérítést elektronikus úton fizeti meg, a kérelem benyújtását megelőzően. Az illeték- és közzétételi költségtérítés-fizetési kötelezettség teljesítésének módját és az azzal összefüggő tájékoztatást az Országos Bírósági Hivatal a honlapján 2014. december 17-éig közzéteszi. A változtatásokra vonatkozó tájékoztatást azok bevezetése előtt legalább 8 nappal közzé kell tenni.
+
 (6) Az e törvényben szabályozott nemperes eljárásokban – a (7) bekezdésben foglalt kivétellel – első fokon önálló aláírási joggal, az érdemi határozatok meghozatalára is kiterjedően bírósági titkár is eljárhat.
 
 (7) Bíró hozza meg a következő határozatokat és jár el a következő eljárási cselekményeknél:

@@ -8,7 +8,7 @@ b) a bíróság által kirendelt vagyonfelügyelő nevét, székhelyét,
 
 c) a bíróság nevét és az ügy számát,
 
-d) a csődeljárás kezdő időpontját,
+d) utalást arra, hogy a csődeljárás kezdő időpontja a végzés Cégközlöny honlapján történő közzétételének napja,
 
 e) azt, hogy a végzés közzétételétől az adóst fizetési moratórium illeti meg a vele szemben a fizetési haladék kezdő időpontját megelőzően, vagy az azt követően esedékessé váló pénzkövetelések vonatkozásában,
 

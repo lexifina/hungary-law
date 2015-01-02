@@ -14,7 +14,7 @@ e) ha az adós a Ptk. szerinti elismert vagy tényleges vállalatcsoport tagja, 
 
 f) az adós hitelezőinek névsorát, az adós tartozásainak felsorolását, azok esedékességét, valamint azt, hogy az adós mely hitelezői követeléseket ismer el és melyeket vitat, melyek a biztosított [12. § (3) bekezdés] és a nem biztosított hitelezői igények, az adós által vállalt, a számvitelről szóló törvény szerinti függő kötelezettségek, továbbá az adóssal szemben fennálló függő követelések ismertetését,
 
-g) a csődeljárás elrendeléséről és a fizetési haladékról szóló közzététel költségtérítésének befizetését igazoló okiratot,
+g) az illeték, továbbá a csődeljárás elrendeléséről és a fizetési haladékról szóló közzététel költségtérítésének megfizetésére vonatkozó elektronikus igazolást,
 
 h) az adós vezetőjének nyilatkozatát arról, hogy az adós mely pénzforgalmi szolgáltatónál vezet pénzforgalmi számlát, a számlaszámok megnevezésével, továbbá hogy mely befektetési szolgáltatónál rendelkezik értékpapírszámlával,
 

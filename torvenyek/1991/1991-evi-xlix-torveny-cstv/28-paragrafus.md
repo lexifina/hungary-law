@@ -12,7 +12,7 @@ c) a felszámolási eljárás megindítására irányuló kérelem benyújtásá
 
 d) azt, ha a felszámolási eljárást csődeljárás előzte meg;
 
-e) a felszámolás kezdő időpontját (a felszámolást elrendelő jogerős végzés közzétételének napját);
+e) utalást arra, hogy a felszámolás kezdő időpontja a felszámolást elrendelő jogerős végzés Cégközlöny honlapján történő közzétételének napja,
 
 f) a hitelezőknek [ideértve a zálogjogosultakat, és a 3. § (1) bekezdés g) pontja szerinti függő követelés jogosultjait is] szóló felhívást, hogy ismert követeléseiket – kivéve a felszámolási eljárást közvetlenül megelőző csődeljárásban [27. § (2) bekezdés e) pont] már bejelentett és nyilvántartásba vett követeléseket – a felszámolást elrendelő végzés közzétételétől számított 40 napon belül a felszámolónak jelentsék be;
 
