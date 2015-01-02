@@ -744,7 +744,7 @@
 
 ## 71OPM0221 Ebből kiemelt közszereplő ügyfél (PEP) átvilágítása
 
-## A kiemelt közszereplő ügyfelek átvilágítása sorba azon átvilágítások számát kell beírni, amelyeknél a szolgáltató a Pmt. 16. §-a alapján megállapította, hogy az ügyfél kiemelt közszereplőnek minősül. [^1]
+## A kiemelt közszereplő ügyfelek átvilágítása sorba azon átvilágítások számát kell beírni, amelyeknél a szolgáltató a Pmt. 16. §-a alapján megállapította, hogy az ügyfél kiemelt közszereplőnek minősül. [^3]
 
 ## 71OPM023 Normál ügyfél-átvilágítás
 
@@ -1018,4 +1018,4 @@
 
 4. melléklet az 50/2014. (XI. 28.) MNB rendelethez
 
-[^1]: Lsd. a „táblában használt fogalom”, ahol szerepel a Pft. megfelelő rendelkezésére hivatkozás
+[^3]: Lsd. a „táblában használt fogalom”, ahol szerepel a Pft. megfelelő rendelkezésére hivatkozás
