@@ -24,10 +24,8 @@ a)–d)
 
 e)
 
-(24) Hatályát veszti az Iasz.
+(24)
 
 a)
 
-b) 2/A. § (3) bekezdés b) pontja, valamint
-
-c) 134/B. § (2) bekezdése.
+b)–c)
