@@ -1,1 +1,0 @@
-## „(5) Ha a Hhvtv. 40. § (3) bekezdése szerinti, de legalább 10. életévét betöltött személy horgászvizsgát tesz, ifjúsági horgásznak kell tekinteni és a 12. melléklet 6. pontjában meghatározott kedvezményes díjra jogosult.”
