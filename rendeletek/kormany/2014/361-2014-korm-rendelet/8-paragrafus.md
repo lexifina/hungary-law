@@ -1,3 +1,5 @@
-## 7. § A mezőgazdasági termelők által üzemeltetett gépjárművek útdíj fizetése alóli mentesülésének részletes szabályairól szóló 243/2013. (VI. 30.) Korm. rendelet 2. § (1) bekezdésében a „július 1-je és november 30-a” szövegrész helyébe a „június 15-e és december 15-e” szöveg lép.
+## 6–7. §[^2]
 
 ## Hatályon kívül helyező rendelkezések
+
+[^2]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
