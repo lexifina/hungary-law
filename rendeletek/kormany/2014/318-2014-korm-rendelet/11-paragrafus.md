@@ -1,3 +1,0 @@
-## 10. § A vásárokról, a piacokról, és a bevásárlóközpontokról szóló 55/2009. (III. 13.) Korm. rendelet 9. § (3) bekezdésében a „Nemzeti Munkaügyi Hivatal” szövegrész helyébe a „foglalkoztatáspolitikáért felelős miniszter” szöveg lép.
-
-## 11. A Társadalmi Megújulás Operatív Program 1. prioritás 1.1.2. konstrukció: „Decentralizált programok a hátrányos helyzetűek foglalkoztatásáért”, valamint a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.1. konstrukció: „Megváltozott munkaképességű emberek rehabilitációjának és foglalkoztatásának segítése” keretében nyújtható támogatásokról szóló 132/2009. (VI. 19.) Korm. rendelet módosítása
