@@ -1,3 +1,3 @@
-## 7–10. §[^2]
+## 7–10. §[^3]
 
-[^2]: A 7–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 7–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
