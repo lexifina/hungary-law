@@ -1,1 +1,0 @@
-242. § Az egyes adótörvények módosításáról szóló 2007. évi CXXVI. törvény 435. §-ának (3) bekezdése a Jöt. e törvénnyel megállapított 52. §-a (1) bekezdésének a) és d) pontja hatálybalépésének napján hatályát veszti.

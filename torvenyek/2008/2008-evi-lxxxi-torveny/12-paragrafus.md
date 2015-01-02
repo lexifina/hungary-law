@@ -1,5 +1,0 @@
-12. § Az Szja tv. 74. §-ának (4) és (6) bekezdései helyébe a következő rendelkezések lépnek:
-
-„(4) Az (1) bekezdés rendelkezése nem alkalmazható, ha a magánszemély e tevékenységét egyéni vállalkozóként végzi, valamint arra a bevételre, amely a magánszemély a magánszálláshelyek idegenforgalmi célú hasznosításáról szóló kormányrendelet alapján fizetővendéglátás, falusi szállásadás (falusi vendéglátás) tevékenységből származik.”
-
-„(6) Más ingatlan bérbeadása esetén az adót a kifizető állapítja meg, vonja le, fizeti be. Nem kell az adót levonnia a kifizetőnek akkor, ha a magánszemély igazolja, hogy ingatlan bérbeadási tevékenységét egyéni vállalkozóként végzi, valamint – a társasház kivételével – közös tulajdonban lévő ingatlannak tulajdontársak közössége által történő bérbeadása esetén. Ha a jövedelem nem kifizetőtől származik, illetőleg a kifizető bármely ok miatt az adót nem vonta le, az adót a magánszemélynek kell megállapítania, és negyedévenként az adózás rendjéről szóló törvénynek az adóelőlegre vonatkozó rendelkezései szerint kell megfizetnie.”

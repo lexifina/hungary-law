@@ -1,3 +1,0 @@
-213. § (1) 2008. január 1-jétől alkalmazhatóan a Tao. 1. számú mellékletének 14. pontjában az „a területfejlesztés kedvezményezett térségeinek jegyzékéről szóló kormányrendelet szerint a területfejlesztés szempontjából leghátrányosabb helyzetű 48 kistérség valamelyikében” szövegrész helyébe a „a jogszabályban megnevezett leghátrányosabb térségek, települések valamelyikében” szövegrész lép.
-
-(2) 2008. január 1-jétől alkalmazhatóan a Tao. 5. számú mellékletének 4. és 5. pontjában az „illetve a tevékenységét folytató közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság” szövegrész helyébe az „illetve a tevékenységét folytató nonprofit gazdasági társaság” szövegrész lép.

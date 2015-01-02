@@ -1,5 +1,0 @@
-170. § Az Szt. 14. §-a a következő új (9) és (10) bekezdéssel egészül ki, egyidejűleg a jelenlegi (9)–(10) bekezdés számozása (11)–(12) bekezdésre változik:
-
-„(9) A (8) bekezdés szerinti napi készpénz záró állomány maximális mértékét annak figyelembevételével kell meghatározni, hogy a készpénz napi záró állományának naptári hónaponként számított napi átlaga – kivéve, ha külön jogszabály eltérően rendelkezik – nem haladhatja meg az előző üzleti év – éves szintre számított – összes bevételének 1,2%-át, illetve ha az előző üzleti év összes bevételének 1,2%-a nem éri el az 500 ezer forintot, akkor az 500 ezer forintot. Az átlag számításánál az adott hónap naptári napjainak záró készpénz állományát kell figyelembe venni. Mindaddig, amíg az előző üzleti év összes bevétel adata nem áll rendelkezésre, addig az azt megelőző üzleti év összes bevételét kell alapul venni.
-
-(10) A jogelőd nélkül alapított gazdálkodónál az alapítás üzleti évében a – (9) bekezdés szerinti – napi átlag maximális mértékének meghatározásakor az összes bevételt a tárgyévi várható adatok alapján kell figyelembe venni.”

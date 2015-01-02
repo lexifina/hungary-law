@@ -1,1 +1,0 @@
-254. § 2009. január 1-jén a kamarai tv. 33. §-ának (5) bekezdésében és 74. §-ának (3) bekezdésében az „a Pénzügyi Közlönyben és” szövegrész, a kamarai tv. 114. §-ának (5) bekezdésében a „ , valamint a területi szervezetek elnökei” szövegrész hatályát veszti.

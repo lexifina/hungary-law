@@ -1,1 +1,0 @@
-243. § 2009. július 1-jével az energiaadóról szóló 2003. évi LXXXVIII. törvény 10. §-ának (3) bekezdésében az „és a közigazgatási informatikáért felelős miniszter” és az „együttes” szövegrész hatályát veszti.

@@ -1,3 +1,0 @@
-107. § Az Art. 47. §-a a következő új (7) bekezdéssel egészül ki:
-
-„(7) Amennyiben a kettős adóztatás elkerüléséről szóló nemzetközi szerződés szerinti kölcsönös egyeztetési eljárás lefolytatásához szükséges, az adózó, a munkáltató (kifizető) köteles az állami adóhatóság felszólítására – a felszólításban megjelölt időpontig és terjedelemben – az adómegállapításhoz szükséges iratok, bizonylatok megőrzésére. Az őrzési kötelezettség szükség szerint több alkalommal meghosszabbítható, azonban a meghosszabbítás legkésőbb a kölcsönös egyeztető eljárás lezárultának időpontjáig tarthat. Ezeket a rendelkezéseket a 176/A. §-ban megjelölt Választottbírósági egyezmény szerinti kölcsönös egyeztetési és választottbírósági eljárás során is megfelelően alkalmazni kell.”

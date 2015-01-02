@@ -1,3 +1,0 @@
-36. § A Jöt. 98. §-ának (12) bekezdése helyébe a következő rendelkezés lép:
-
-„(12) Amennyiben az adó mértéke emelkedik, az új adómérték hatálybalépését megelőző 2 hónapban – amennyiben ennél az új adómérték kihirdetése és hatálybalépése közötti időszak rövidebb, ez utóbbi időszak alatt – (a továbbiakban: referencia-időszak) az adóraktár engedélyese és a bejegyzett kereskedő havonta nem rendelhet és részére a vámhatóság nem adhat ki a cigarettára és a fogyasztási dohányra több adójegyet, mint az új adómérték kihirdetése hónapját megelőző 12 hónapban (a továbbiakban: bázisidőszak) átvett és a bázisidőszakban visszahozott adójegyekkel csökkentett adójegyek mennyiségéből a bázisidőszakra számított egyhavi átlag 1,15-szöröse.”

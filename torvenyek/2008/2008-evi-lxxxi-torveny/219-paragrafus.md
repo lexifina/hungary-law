@@ -1,1 +1,0 @@
-219. § 2009. január 1-jén a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 96. §-a (3) bekezdésének a) pontjában a „vámhivatal” szövegrész helyébe a „vámhatóság” szövegrész lép.

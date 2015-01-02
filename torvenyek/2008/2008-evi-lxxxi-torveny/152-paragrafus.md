@@ -1,3 +1,0 @@
-152. § Az Öpt. 47/B. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Pénztárak közötti átlépés esetén az átlépő tag egyéni számla követeléséről tőke és hozam bontásban, a 2007. december 31-ét követő befizetésekről az értéknap megjelölésével, illetve az átlépő tag egyéni számlájára vezetett tagi lekötésről, annak mértékéről és jogosultjáról a befogadó pénztárat az egyéni számlát vezető pénztár köteles értesíteni. A tagi lekötés jogosultját az átlépésről és a tagi lekötés egyéni számlára vezetéséről a befogadó pénztár köteles értesíteni a befogadó nyilatkozat kiállításával egyidejűleg.”

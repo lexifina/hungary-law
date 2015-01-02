@@ -1,7 +1,0 @@
-108. § Az Art. 52. §-ának (7) bekezdése a következő új f)–g) pontokkal egészül ki:
-
-[(7) Az állami adóhatóság]
-
-„f) elektronikus úton hivatalból átadja a kiegészítő tevékenységet folytató egyéni vállalkozó által a személyi jövedelemadó-bevallásban bevallott nyugdíjjárulék alapját és összegét a Nyugdíjbiztosítási Alap kezeléséért felelős szerv részére az adóévet követő év agusztus 31. napjáig,
-
-g) a foglalkoztató megszűnésének, a vállalkozási tevékenység megszüntetésének, az őstermelői igazolvány visszaadásának, visszavonásának időpontjáról, illetve az ügyvédi, szabadalmi ügyvivői tevékenység, valamint a közjegyzői szolgálat szünetelésének időtartamáról hivatalból tájékoztatja az egészségbiztosítási szervet, a nyugdíjbiztosítási szervet, illetve a magánnyugdíjpénztárat, ha a magánszemélyre vonatkozóan a munkáltató, kifizető (ideértve a saját biztosítási jogviszonyának tekintetében az egyéni vállalkozót, a biztosított mezőgazdasági őstermelőt és a Tbj. 56/A. §-a szerinti személyt is) biztosítási jogviszony létesítésével kapcsolatos adatot közölt (bejelentést tett), de a biztosítási jogviszony megszűnésének időpontját a foglalkoztatónak minősülő személy nem jelentette be és arról az adóhatóságnak hivatalos tudomása van. Az állami adóhatóság tájékoztatja továbbá a magánnyugdíjpénztárat arról a tényről is, hogy a mezőgazdasági őstermelő a tárgyévben kezdte-e meg őstermelői tevékenységét, illetve tárgyévet megelőző évben elért bevétele meghaladta-e a hétmillió forintot.”

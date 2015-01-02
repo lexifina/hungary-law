@@ -1,1 +1,0 @@
-226. § E törvény kihirdetését követő napon az Art. 54. § – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) 49. §-ával megállapított – (12) bekezdésének számozása (13) bekezdésre módosul.

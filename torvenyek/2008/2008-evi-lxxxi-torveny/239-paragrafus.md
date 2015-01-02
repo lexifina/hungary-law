@@ -1,1 +1,0 @@
-239. § 2009. január 1-jén hatályát veszti az adókról, járulékokról és egyéb költségvetési befizetésekről szóló törvények módosításáról szóló 2002. évi XLII. törvény 302. §-ának (7) bekezdése, valamint a 303. §-ának (8)–(9) bekezdése.

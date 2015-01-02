@@ -1,3 +1,0 @@
-113. § Az Art. 104. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az ellenőrzés megállapítását az adóhatóság az adózóval, próbavásárlás esetén a jelen lévő alkalmazottal vagy az értékesítésben közreműködő személlyel ismerteti. Amennyiben az adóhatóság a próbavásárlás során jogszabálysértést nem tárt fel, úgy az e tényt rögzítő jegyzőkönyvet a jelen lévő alkalmazott vagy az értékesítésben közreműködő személy részére is átadhatja. Ha az ellenőrzést azért nem lehet befejezni, mert az adózó vagy képviselője az ismertetésen nem vesz részt, vagy a jegyzőkönyvet nem veszi át, azt részére kézbesíteni kell.”
