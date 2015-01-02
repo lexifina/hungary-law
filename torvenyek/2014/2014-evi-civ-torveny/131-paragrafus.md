@@ -1,3 +1,0 @@
-131. § A Szantv. 118. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szanálási feladatkörében eljáró MNB határozatának vagy a szanálási biztos által a szanálás alatt álló intézménnyel kapcsolatos tulajdonosi vagy ügyvezetési jogok gyakorlása során hozott társasági határozatoknak a hatályon kívül helyezése vagy megváltoztatása nem érinti a bíróság ítéletének közlése napján vagy azt megelőzően a hatályon kívül helyezett határozat alapján végrehajtott ügyletek érvényességét, ha ez a szanálás alatt álló intézményben lévő tagsági részesedésekből, az intézmény eszközeiből, forrásaiból, jogaiból vagy kötelezettségeiből jóhiszeműen, ellenérték fejében részesedő harmadik fél szerzett jogát érintené.”

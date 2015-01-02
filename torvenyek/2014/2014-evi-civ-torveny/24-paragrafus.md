@@ -1,15 +1,3 @@
 ## 4. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
-24. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 3. § (1)–(3) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 8. §, a 13. §, a 17. § (3)–(5) bekezdése, a 20/A–20/B. §, a 22. §, a 24–24/G. §, a 26/A. §, a 27–31. §, a 37–39. §, a 97–107. §, a 110/A–110/Q. §, a 121. §, a 123. § (8)–(9) bekezdése, a 123/A. §, a 124–141. §, a 155–170. § és a 172–175. § kivételével a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni
-
-a) a Magyar Nemzeti Banknak (a továbbiakban: MNB) az MNB tv.-ben meghatározott alapvető feladatain kívül végzett, és
-
-b) a kincstárnak az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében végzett
-
-befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás nyújtására.
-
-(2) Ha e törvény eltérően nem rendelkezik, a befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézetre – a 8. § (5) bekezdése, a 13. §, a 15–17. §, a 19/A–20/B. §, a 21/A. §, a 22. § (1)–(3) bekezdése, a 24/A–24/G. §, 25. § (1) bekezdése, a 26/A. §, a 37–39. §, a 60. §, a 78. § (2a) bekezdése, a 97–99. §, a 100. § (1) bekezdés e) pontja, a 101–106. §, a XX/A. Fejezet, a 121. §, a 123. § (8) és (9) bekezdése, a 123/A. §, a 124–127. § (1) és (2) bekezdése, a 128–135. §, a 136. § (5) bekezdése, a 137–139. §, a 162–163/B. §, a 164. § (1) bekezdés v) pontja, a 164. § (7) és (8) bekezdése, valamint a 4. melléklet kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni, azzal, hogy ahol a rendelkezés befektetési vállalkozást említ, ott hitelintézetet kell érteni.
-
-(3) A Kbftv. szerinti befektetési alapkezelő a Kbftv.-ben meghatározott körben befektetési szolgáltatási tevékenységet végezhet és kiegészítő szolgáltatást nyújthat, azzal, hogy e tevékenysége, illetve szolgáltatása tekintetében a VII. Fejezetben, – a 73–78. § kivételével – a Negyedik Részben, valamint a XXI. Fejezetben, továbbá – a 124–139. § kivételével – a XXII. Fejezetben a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni.”
+24–39. §
