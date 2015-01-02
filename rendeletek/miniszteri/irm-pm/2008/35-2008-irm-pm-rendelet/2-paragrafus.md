@@ -1,8 +1,5 @@
-2. § (1)[^3] Az elővezetés költségének megtérítésére az elővezetést elrendelő határozatban vagy – hatósági ügyben – végzésben (a továbbiakban együtt: elrendelő határozat) megjelölt személyt kell kötelezni, amelynek mértéke kilométerenként 450 forint, de legalább 7000 forint.
+2. §[^3] (1) Az elővezetés költségének megtérítésére (a továbbiakban: költségtérítés) az elővezetést elrendelő határozatban vagy – hatósági ügyben – végzésben (a továbbiakban együtt: elrendelő határozat) megjelölt személyt kell kötelezni.
 
-(2)[^4] Több személy egy feltalálási helyről ugyanazon elrendelő szerv elé történő együttes elővezetése esetén a költség az elővezetett személyek között egyenlően oszlik meg.
+(2) A költségtérítés összegének megállapítása, valamint megtérítése során a büntetőeljárásban, a szabálysértési eljárásban, valamint a büntetés-végrehajtás során elrendelt elővezetés, a terhelt, illetve az elítélt vagy a kényszergyógykezelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetve nyomozó hatóság vagy végrehajtásért felelős szerv elé állítása, továbbá az elítélt vagy az egyéb jogcímen fogvatartott kérelmére történő előállítás során felmerült költség megtérítésének részletes szabályairól szóló 71/2014. (XII. 19.) BM rendelet (a továbbiakban: BM rendelet) 2–7. §-ának rendelkezéseit kell alkalmazni azzal, hogy a BM rendelet 2. § (2) bekezdésében foglalt rendelkezések az e rendelet hatálya alá tartozó eljárásokban is alkalmazandóak.
 
-(3) A költségtérítésre vonatkozó figyelmeztetést – az (1) bekezdés alapján, az összeg feltüntetésével – az idézésen, illetve az elővezetést elrendelő határozaton közölni kell.
-
-[^3]: A 2. § (1) bekezdése az 53/2009. (X. 6.) IRM–PM együttes rendelet 1. §-a, a 71/2014. (XII. 19) BM rendelet 10. § c) pontja szerint módosított szöveg.
-[^4]: A 2. § (2) bekezdése a 71/2014. (XII. 19.) BM rendelet 10. § d) pontja szerint módosított szöveg.
+[^3]: A 2. § a 20/2014. (XII. 23.) IM rendelet 12. § (1) bekezdésével megállapított szöveg.
