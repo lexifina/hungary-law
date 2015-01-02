@@ -8,4 +8,6 @@
 
 3. Üzletszabályzat: a Támogató jóváhagyásával, a Széchenyi Kártya Programon belül kiadott, a Konstrukciók részletes szabályait tartalmazó, a KAVOSZ Zrt. honlapján közzétett, mindenkor hatályos üzletszabályzat,
 
-4. vállalkozások: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Törvény) 19. § 5. pontjában meghatározott azon vállalkozások, amelyek megfelelnek a Törvény 3–5. §-ában megfogalmazott feltételeknek.
+4.[^4] vállalkozások: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Törvény) 19. § 5. pontjában meghatározott azon vállalkozások, valamint egyéni cégek, amelyek megfelelnek a Törvény 3–5. §-ában megfogalmazott feltételeknek.
+
+[^4]: A 3. § 4. pontja az 59/2014. (XII. 30.) NFM rendelet 2. §-ával megállapított szöveg.

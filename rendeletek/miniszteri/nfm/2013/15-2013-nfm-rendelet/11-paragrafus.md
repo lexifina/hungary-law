@@ -6,6 +6,6 @@
 
 (3) A Támogató az adatszolgáltatás szerinti listán szereplő, e rendeletben meghatározott feltételeknek megfelelő vállalkozások kamattámogatásáról és kezességi díjtámogatásáról támogatói okiratot ad ki.
 
-(4)[^3]
+(4)[^9]
 
-[^3]: A 11. § (4) bekezdését a 18/2014. (IV. 14.) NFM rendelet 10. § b) pontja hatályon kívül helyezte.
+[^9]: A 11. § (4) bekezdését a 18/2014. (IV. 14.) NFM rendelet 10. § b) pontja hatályon kívül helyezte.

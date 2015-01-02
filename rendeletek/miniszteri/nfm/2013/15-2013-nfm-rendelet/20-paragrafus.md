@@ -1,8 +1,8 @@
-## 19. §[^17]
+## 19. §[^28]
 
 ## 11. Hatályon kívül helyező rendelkezések
 
-20. §[^18]
+20. §[^29]
 
-[^17]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
