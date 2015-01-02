@@ -1,1 +1,3 @@
-32. § Hatályát veszti a szabadságvesztés kezdő és utolsó napjának megállapításáról szóló 17/1997. (V. 9.) IM rendelet.
+32. §[^1]
+
+[^1]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
