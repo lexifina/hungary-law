@@ -8,7 +8,7 @@
 
 ## 5. Ez a határozat 2015. január 1-jén lép hatályba.
 
-## 6. Hatályát veszti a 2014. évi határátlépéssel járó csapatmozgások engedélyezéséről szóló 1918/2013. (XII. 11.) Korm. határozat.
+## 6.[^1]
 
 1. melléklet az 1763/2014. (XII. 18.) Korm. határozathoz
 
@@ -307,3 +307,5 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 15. | A Pápán települő Stratégiai Légiszállítási Képességgel kapcsolatos, a magyar felségjelű légijárművekhez kötődő kiképzési jellegű csapatmozgások | 2015. I–IV. n. é. | egyidejűleg legfeljebb 500 fő |
 
 | 16. | Szövetséges felderítő légijárművek áthaladása a magyar légtérben | 2015. I–IV. n. é. | – |
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
