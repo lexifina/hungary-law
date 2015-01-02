@@ -1,3 +1,5 @@
-## 14. § A csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 442/2012. (XII. 29.) Korm. rendelet 6. § (4) bekezdés c) pontjában a „növényvédő szerrel szennyezett” szövegrész helyébe a „növényvédő szerrel vagy gyógyszerhulladékkal szennyezett” szöveg lép.
+## 14. §[^3]
 
 ## 4. Az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 445/2012. (XII. 29.) Korm. rendelet módosítása
+
+[^3]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

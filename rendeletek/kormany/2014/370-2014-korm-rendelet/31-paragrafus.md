@@ -1,1 +1,0 @@
-## „(3) A gyártónak a hulladékot abban az esetben is át kell vennie, ha a hulladékká vált elektromos, elektronikus berendezés az elektromos, elektronikus berendezésre jellemző alapvető alkotórészeket nem tartalmazza vagy az elektromos, elektronikus berendezést megbontották. Ezekben az esetekben a gyártónak nem kell a hulladékbirtokos részére vásárlási utalványt adnia.”

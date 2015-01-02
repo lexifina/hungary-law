@@ -1,1 +1,0 @@
-## „(4) A Ht. 2. mellékletében meghatározott D12 ártalmatlanítási művelet végzésére hulladékgazdálkodási engedély kizárólag akkor adható, ha a hulladék kezelése a rendelkezésre álló kezelési kapacitás vagy elérhető technológia hiánya miatt nem lehetséges.”
