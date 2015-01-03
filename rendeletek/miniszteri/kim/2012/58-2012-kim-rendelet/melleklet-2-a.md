@@ -1,4 +1,4 @@
-2/A. melléklet az 58/2012. (XII. 28.) KIM rendelethez[^39]
+2/A. melléklet az 58/2012. (XII. 28.) KIM rendelethez[^40]
 
 ## Statisztikai jelentés adattartalma
 
@@ -18,4 +18,4 @@
 
 2.1.3. folyamatban maradt
 
-[^39]: A 2/A. mellékletet a 20/2014. (XII. 23.) IM rendelet 17. § (8) bekezdése iktatta be.
+[^40]: A 2/A. mellékletet a 20/2014. (XII. 23.) IM rendelet 17. § (8) bekezdése iktatta be.

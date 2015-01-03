@@ -1,4 +1,4 @@
-## 49. §[^38]
+## 49. §[^39]
 
 1. melléklet az 58/2012. (XII. 28.) KIM rendelethez
 
@@ -80,4 +80,4 @@
 
 3.6. bélyegző lenyomata.
 
-[^38]: A 49. §-t a 20/2014. (XII. 23.) IM rendelet 17. § (7) bekezdése iktatta be. A 49. § a 38. § (5) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^39]: A 49. §-t a 20/2014. (XII. 23.) IM rendelet 17. § (7) bekezdése iktatta be. A 49. § a 38. § (5) bekezdése alapján 2016. január 1-jén lép hatályba.
