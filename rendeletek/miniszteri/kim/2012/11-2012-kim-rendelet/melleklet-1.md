@@ -1,3 +1,5 @@
+## 16. §[^21]
+
 1. melléklet a 11/2012. (II. 29.) KIM rendelethez
 
 ## Az egyesület nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma
@@ -136,6 +138,7 @@
 
 10.3. az űrlap kitöltésének módja
 
+[^21]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^22]: Az 1. melléklet 5.3.5. pontját az 58/2012. (XII. 28.) KIM rendelet 45. § (1) bekezdése iktatta be, szövege a 20/2014. (XII. 23.) IM rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^23]: Az 1. melléklet 5.3.6. pontját a 20/2014. (XII. 23.) IM rendelet 14. § (2) bekezdése iktatta be.
 [^24]: Az 1. melléklet 6.3.3. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés a) pontja szerint módosított szöveg.
