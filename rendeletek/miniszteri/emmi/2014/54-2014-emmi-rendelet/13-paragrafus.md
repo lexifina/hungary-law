@@ -1,1 +1,0 @@
-## 12. § Nem lép hatályba a mentésről szóló 5/2006. (II. 7.) EüM rendelet és a betegszállításról szóló 19/1998. (VI. 3.) NM rendelet módosításáról szóló 37/2011. (VI. 28.) NEFMI rendelet 12. § (2) bekezdése.
