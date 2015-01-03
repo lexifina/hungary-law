@@ -1,3 +1,3 @@
-## 4. §[^3]
+## 4. §[^2]
 
-[^3]: A 4. § a 6. § (3) bekezdése alapján 2015. július 3-án lép hatályba.
+[^2]: A 4. § a 6. § (3) bekezdése alapján 2015. július 3-án lép hatályba.
