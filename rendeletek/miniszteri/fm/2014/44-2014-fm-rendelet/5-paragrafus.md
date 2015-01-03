@@ -1,1 +1,0 @@
-## „(3) A lepárlóüzem havonta egy támogatási kérelem alapján jogosult támogatásra. A támogatási kérelem benyújtásának legkorábbi időpontja az adott borpiaci év október 5-e, legkésőbbi időpontja pedig a következő borpiaci év augusztus 30-a. A benyújtási határidő elmulasztása esetén igazolásnak nincs helye.”
