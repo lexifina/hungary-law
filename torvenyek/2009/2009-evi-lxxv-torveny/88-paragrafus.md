@@ -1,5 +1,0 @@
-## V. Fejezet
-
-## AZ IGAZSÁGÜGYI SZAKÉRTŐI TEVÉKENYSÉGRŐL SZÓLÓ 2005. ÉVI XLVII. TÖRVÉNY MÓDOSÍTÁSA
-
-88–116. §

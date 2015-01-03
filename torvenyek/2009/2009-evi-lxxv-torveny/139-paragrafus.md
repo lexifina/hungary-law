@@ -1,5 +1,0 @@
-## VIII. Fejezet
-
-## ZÁRÓ ÉS ÁTMENETI RENDELKEZÉSEK
-
-139–142. §

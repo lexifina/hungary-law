@@ -1,5 +1,0 @@
-## VII. Fejezet
-
-## A SZABADALMI ÜGYVIVŐKRŐL SZÓLÓ 1995. ÉVI XXXII. TÖRVÉNY MÓDOSÍTÁSA
-
-129–138. §

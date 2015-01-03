@@ -1,5 +1,0 @@
-## III. Fejezet
-
-## A KÖZVETÍTŐI TEVÉKENYSÉGRŐL SZÓLÓ 2002. ÉVI LV. TÖRVÉNY MÓDOSÍTÁSA
-
-48–64. §
