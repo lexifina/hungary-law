@@ -2,7 +2,7 @@
 
 a) a nemzetközi és belföldi polgári repülés jogellenes cselekmények elleni védelmével kapcsolatos feladatokat,
 
-b)[^57] a repülőtereken a rendőrség hatáskörébe utalt légiközlekedés védelmi feladatok szakmai felügyeletét.
+b)[^57] a 11. § (2) bekezdés l) pontjában meghatározott kivétellel a rendőrség hatáskörébe utalt légiközlekedés védelmi feladatok szakmai felügyeletét,
 
 c)[^58]
 
@@ -35,7 +35,7 @@ a) a Budapest Liszt Ferenc Nemzetközi Repülőtéren, valamint
 b) a légiforgalmi irányító szolgálat központi létesítményében működtetett fegyveres biztonsági őrség tekintetében
 
 [^56]: A 10. § (1) bekezdés nyitó szövegrésze a 352/2014. (XII. 29.) Korm. rendelet 2. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^57]: A 10. § (1) bekezdés b) pontja a 169/2010. (V. 11.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^57]: A 10. § (1) bekezdés b) pontja a 302/2014. (XII. 5.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^58]: A 10. § (1) bekezdés c) pontját a 30/2009. (II. 19.) Korm. rendelet 12. §-a hatályon kívül helyezte.
 [^59]: A 10. § (2) bekezdés bevezető szövegrésze a 247/2009. (XI. 10.) Korm. rendelet 38. § (3) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
 [^60]: A 10. § (2) bekezdés b) pontja a 447/2013. (XI. 28.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.

@@ -2,7 +2,7 @@
 
 a) büntetőeljárásban nyomozó hatósági jogkört gyakorol, titkos információgyűjtő tevékenységet végez,
 
-b)[^88] a 11. § (1) bekezdés d) pontjában meghatározott kivétellel körözési eljárást folytat le,
+b)[^89] a 11. § (1) bekezdés d) pontjában meghatározott kivétellel körözési eljárást folytat le,
 
 c) bűnmegelőzési és áldozatsegítői tevékenységet folytat,
 
@@ -20,45 +20,45 @@ d) ellátja a gyülekezési jog hatálya alá tartozó rendezvényekkel kapcsola
 
 e) ellátja a közúti, légi és vízi közlekedés rendjével kapcsolatos hatáskörébe utalt feladatokat,
 
-f)[^89] baleset-megelőzési feladatokat végez, továbbá – az (5) bekezdésben és a 11. § (2) bekezdés e) pontjában meghatározott kivétellel – biztosítja a folyamatos balesethelyszínelői tevékenység ellátását,
+f)[^90] baleset-megelőzési feladatokat végez, továbbá – az (5) bekezdésben és a 11. § (2) bekezdés e) pontjában meghatározott kivétellel – biztosítja a folyamatos balesethelyszínelői tevékenység ellátását,
 
 g) értékeli és elemzi a közbiztonsági, közlekedési helyzet alakulását,
 
 h) szabálysértési hatósági jogkört gyakorol,
 
-i)[^90] ellátja a külföldiek ellenőrzésével kapcsolatos feladatokat, a belső határon a határellenőrzés visszaállítása esetén a határrendészeti kirendeltség idegenrendészeti feladatait, továbbá a magyar–horvát határszakaszon (határterületen) a 13. §-ban meghatározott határrendészeti feladatokat,
+i)[^91] ellátja a külföldiek ellenőrzésével kapcsolatos feladatokat, a belső határon a határellenőrzés visszaállítása esetén a határrendészeti kirendeltség idegenrendészeti feladatait, továbbá a magyar–horvát határszakaszon (határterületen) a 13. §-ban meghatározott határrendészeti feladatokat,
 
 j) az államhatár rendjének fenntartásával, valamint a határellenőrzés ideiglenes visszaállításával kapcsolatos feladatokat lát el,
 
 k) szervezi és végrehajtja a minősített időszaki feladatokat, egyes honvédelmi és ország-mozgósítási, katasztrófavédelmi feladatokat, közreműködik a rendkívüli intézkedések végrehajtásában.
 
-l)[^91] a törvényben meghatározott esetben közrendvédelmi bírságot állapít meg,
+l)[^92] a törvényben meghatározott esetben közrendvédelmi bírságot állapít meg,
 
-m)[^92] ellenőrzi a házi őrizet, valamint a lakhelyelhagyási tilalom előírásainak megtartását,
+m)[^93] ellenőrzi a házi őrizet, valamint a lakhelyelhagyási tilalom előírásainak megtartását,
 
-n)[^93] a szabálysértési elzárással is büntethető szabálysértés esetén lefolytatja a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben meghatározott, a rendőrség hatáskörébe utalt bírósági eljárást előkészítő eljárást.
+n)[^94] a szabálysértési elzárással is büntethető szabálysértés esetén lefolytatja a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben meghatározott, a rendőrség hatáskörébe utalt bírósági eljárást előkészítő eljárást.
 
 (3) A rendőrkapitányság közigazgatási hatáskörében
 
 a) ellátja a fegyverekkel, lőszerekkel, lőterekkel, pirotechnikai termékekkel kapcsolatos hatósági feladatokat,
 
-b)[^94] – a 10. § (2) bekezdés b) pontját és a 11. § (3) bekezdés i) pontját kivéve – ellátja a közúti közlekedési bírság kiszabásával kapcsolatos hatósági feladatokat,
+b)[^95] – a 10. § (2) bekezdés b) pontját és a 11. § (3) bekezdés i) pontját kivéve – ellátja a közúti közlekedési bírság kiszabásával kapcsolatos hatósági feladatokat,
 
 c) ellátja a vállalkozás keretében végzett személy- és vagyonvédelmi, valamint magánnyomozói tevékenységgel kapcsolatos feladatokat,
 
 d) lefolytatja a figyelmeztető jelzés felszerelésére és használatára vonatkozó eljárást,
 
-e)[^95]
+e)[^96]
 
-f)[^96] eljár – a 6. § (3) bekezdés i) pontjában, valamint a 11. § (3) bekezdés g) pontjában meghatározott kivétellel – a rendkívüli haláleset kivizsgálásával kapcsolatos eljárásban,
+f)[^97] eljár – a 6. § (3) bekezdés i) pontjában, valamint a 11. § (3) bekezdés g) pontjában meghatározott kivétellel – a rendkívüli haláleset kivizsgálásával kapcsolatos eljárásban,
 
-g)[^97] elbírálja a fegyveres biztonsági őr, a természetvédelmi őr, az önkormányzati természetvédelmi őr, a mezőőr, a hegyőr, a halászati őr, a hivatásos vadász, az erdészeti szakszemélyzet, a jogosult erdészeti szakszemélyzet, az erdővédelmi szolgálat tagja, továbbá a közterület-felügyelő intézkedése, annak elmulasztása, valamint kényszerítő eszköz alkalmazása miatt benyújtott panaszt,
+g)[^98] elbírálja a fegyveres biztonsági őr, a természetvédelmi őr, az önkormányzati természetvédelmi őr, a mezőőr, a hegyőr, a halászati őr, a hivatásos vadász, az erdészeti szakszemélyzet, a jogosult erdészeti szakszemélyzet, az erdővédelmi szolgálat tagja, továbbá a közterület-felügyelő intézkedése, annak elmulasztása, valamint kényszerítő eszköz alkalmazása miatt benyújtott panaszt,
 
-h)[^98] ellátja a mezőőrök és a hegyőrök szakmai felügyeletét.
+h)[^99] ellátja a mezőőrök és a hegyőrök szakmai felügyeletét.
 
-(4)[^99] A rendőrkapitányság hatáskörébe tartozó, Budapest közigazgatási területén bekövetkezett rendkívüli haláleset kivizsgálásával kapcsolatos eljárásban a Budapesti Rendőr-főkapitányság V. kerületi Rendőrkapitánysága jár el.
+(4)[^100] A rendőrkapitányság hatáskörébe tartozó, Budapest közigazgatási területén bekövetkezett rendkívüli haláleset kivizsgálásával kapcsolatos eljárásban a Budapesti Rendőr-főkapitányság V. kerületi Rendőrkapitánysága jár el.
 
-(5)[^100] A folyamatos balesethelyszínelői, valamint balesetvizsgálói tevékenységet:
+(5)[^101] A folyamatos balesethelyszínelői, valamint balesetvizsgálói tevékenységet:
 
 a) a Tatabányai Rendőrkapitányság látja el a Tatabányai, Tatai és Oroszlányi Rendőrkapitányság illetékességi területén,
 
@@ -90,19 +90,19 @@ n) a Hajdúszoboszlói Rendőrkapitányság látja el a Hajdúszoboszlói és a 
 
 o) a Hajdúnánási Rendőrkapitányság látja el a Hajdúnánási és a Balmazújvárosi Rendőrkapitányság illetékességi területén lévő Tiszacsege és Újszentmargita települések közigazgatási területén.
 
-(6)[^101] A 13. §-ban meghatározott határrendészeti feladatokat Homorúd község tekintetében a Hercegszántó Határrendészeti Kirendeltség látja el.
+(6)[^102] A 13. §-ban meghatározott határrendészeti feladatokat Homorúd község tekintetében a Hercegszántó Határrendészeti Kirendeltség látja el.
 
-[^88]: A 12. § (1) bekezdés b) pontja a 447/2013. (XI. 28.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.
-[^89]: A 12. § (2) bekezdés f) pontja a 102/2012. (V. 18.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^90]: A 12. § (2) bekezdés i) pontja a 181/2009. (IX. 4.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^91]: A 12. § (2) bekezdés l) pontját a 208/2008. (VIII. 27.) Korm. rendelet 23. § (3) bekezdése iktatta be.
-[^92]: A 12. § (2) bekezdés m) pontját a 148/2010. (IV. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^93]: A 12. § (2) bekezdés n) pontját a 361/2010. (XII. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 63/2012. (IV. 2.) Korm. rendelet 5. § (3) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
-[^94]: A 12. § (3) bekezdés b) pontja a 247/2009. (XI. 10.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^95]: A 12. § (3) bekezdés e) pontját a 447/2013. (XI. 28.) Korm. rendelet 4. § (11) bekezdés b) pontja hatályon kívül helyezte.
-[^96]: A 12. § (3) bekezdés új f) pontját a 334/2009. (XII. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be, egyidejűleg az eredeti f)–g) pont megjelölését g)–h) pontra változtatta.
-[^97]: A 12. § (3) bekezdés f) pontját a 247/2009. (XI. 10.) Korm. rendelet 28. § (2) bekezdése iktatta be, megjelölését g) pontra változtatta a 334/2009. (XII. 29.) Korm. rendelet 4. § (1) bekezdése. A 12. § (3) bekezdés g) pontja a 319/2012. (XI. 14.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^98]: A 12. § (3) bekezdés g) pontját a 247/2009. (XI. 10.) Korm. rendelet 28. § (2) bekezdése iktatta be, megjelölését h) pontra változtatta a 334/2009. (XII. 29.) Korm. rendelet 4. § (1) bekezdése.
-[^99]: A 12. § (4) bekezdését a 334/2009. (XII. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^100]: A 12. § (5) bekezdését a 148/2010. (IV. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 102/2012. (V. 18.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^101]: A 12. § (6) bekezdését a 148/2010. (IV. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^89]: A 12. § (1) bekezdés b) pontja a 447/2013. (XI. 28.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.
+[^90]: A 12. § (2) bekezdés f) pontja a 102/2012. (V. 18.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^91]: A 12. § (2) bekezdés i) pontja a 181/2009. (IX. 4.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^92]: A 12. § (2) bekezdés l) pontját a 208/2008. (VIII. 27.) Korm. rendelet 23. § (3) bekezdése iktatta be.
+[^93]: A 12. § (2) bekezdés m) pontját a 148/2010. (IV. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^94]: A 12. § (2) bekezdés n) pontját a 361/2010. (XII. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 63/2012. (IV. 2.) Korm. rendelet 5. § (3) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^95]: A 12. § (3) bekezdés b) pontja a 247/2009. (XI. 10.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^96]: A 12. § (3) bekezdés e) pontját a 447/2013. (XI. 28.) Korm. rendelet 4. § (11) bekezdés b) pontja hatályon kívül helyezte.
+[^97]: A 12. § (3) bekezdés új f) pontját a 334/2009. (XII. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be, egyidejűleg az eredeti f)–g) pont megjelölését g)–h) pontra változtatta.
+[^98]: A 12. § (3) bekezdés f) pontját a 247/2009. (XI. 10.) Korm. rendelet 28. § (2) bekezdése iktatta be, megjelölését g) pontra változtatta a 334/2009. (XII. 29.) Korm. rendelet 4. § (1) bekezdése. A 12. § (3) bekezdés g) pontja a 319/2012. (XI. 14.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^99]: A 12. § (3) bekezdés g) pontját a 247/2009. (XI. 10.) Korm. rendelet 28. § (2) bekezdése iktatta be, megjelölését h) pontra változtatta a 334/2009. (XII. 29.) Korm. rendelet 4. § (1) bekezdése.
+[^100]: A 12. § (4) bekezdését a 334/2009. (XII. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^101]: A 12. § (5) bekezdését a 148/2010. (IV. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 102/2012. (V. 18.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^102]: A 12. § (6) bekezdését a 148/2010. (IV. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.

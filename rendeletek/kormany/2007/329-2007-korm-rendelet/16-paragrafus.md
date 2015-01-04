@@ -1,19 +1,19 @@
 ## 15. § Ez a rendelet 2008. január 1-jén lép hatályba.
 
-## Az Európai Unió jogának való megfelelés[^116]
+## Az Európai Unió jogának való megfelelés[^117]
 
-## 16. §[^117] E rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 16. §[^118] E rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a)[^118] a tagállamok vagyon-visszaszerzési hivatalai között, a bűncselekményből származó jövedelmek és bűncselekményekhez kapcsolódó egyéb tulajdon felkutatása és azonosítása terén való együttműködésről szóló, 2007. december 6-i 2007/845/IB tanácsi határozat 1. cikke, valamint 8. cikk (1) bekezdése [e rendelet 9. § p) és q) pont];
+a)[^119] a tagállamok vagyon-visszaszerzési hivatalai között, a bűncselekményből származó jövedelmek és bűncselekményekhez kapcsolódó egyéb tulajdon felkutatása és azonosítása terén való együttműködésről szóló, 2007. december 6-i 2007/845/IB tanácsi határozat 1. cikke, valamint 8. cikk (1) bekezdése [e rendelet 9. § p) és q) pont];
 
 b) a nemzetközi vonatkozású labdarúgó-mérkőzésekkel kapcsolatos biztonságról szóló, 2002. április 25-i 2002/348/IB tanácsi határozat 1. cikke [e rendelet 6. § (2) bekezdés i) pontja];
 
-c)[^119] az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat 2–4. cikke [e rendelet 9. § p) és r) pont];
+c)[^120] az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat 2–4. cikke [e rendelet 9. § p) és r) pont];
 
-d)[^120] A Tanács 2007. június 12-i 2007/533/IB határozata a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról [6. § (1) bekezdés l)–m) pont].
+d)[^121] A Tanács 2007. június 12-i 2007/533/IB határozata a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról [6. § (1) bekezdés l)–m) pont].
 
-[^116]: A 16. §-t megelőző alcímet a 30/2009. (II. 19.) Korm. rendelet 8. §-a iktatta be.
-[^117]: A 16. §-t a 30/2009. (II. 19.) Korm. rendelet 8. §-a iktatta be.
-[^118]: A 16. § a) pontja a 227/2012. (VIII. 23.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^119]: A 16. § c) pontját a 361/2010. (XII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 227/2012. (VIII. 23.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^120]: A 16. § d) pontját a 15/2013. (I. 28.) Korm. rendelet 37. § (2) bekezdése iktatta be.
+[^117]: A 16. §-t megelőző alcímet a 30/2009. (II. 19.) Korm. rendelet 8. §-a iktatta be.
+[^118]: A 16. §-t a 30/2009. (II. 19.) Korm. rendelet 8. §-a iktatta be.
+[^119]: A 16. § a) pontja a 227/2012. (VIII. 23.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^120]: A 16. § c) pontját a 361/2010. (XII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 227/2012. (VIII. 23.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^121]: A 16. § d) pontját a 15/2013. (I. 28.) Korm. rendelet 37. § (2) bekezdése iktatta be.

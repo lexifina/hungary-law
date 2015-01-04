@@ -46,7 +46,9 @@ i)[^75] a Budapesti Rendőr-főkapitányság kivételével ellátja a robbantás
 
 j)[^76] lefolytatja a légiközlekedésről szóló 1995. évi XCVII. törvény 66/A. § (2) bekezdésében a rendőrség hatáskörébe utalt bírságolással kapcsolatos eljárást,
 
-k)[^77] megköti a Törvény 24. § (1) bekezdésében meghatározott együttműködési megállapodást.
+k)[^77] megköti a Törvény 24. § (1) bekezdésében meghatározott együttműködési megállapodást,
+
+l)[^78] a Budapesti Rendőr-főkapitányság és a Pest Megyei Rendőr-főkapitányság kivételével ellátja a repülőtereken a rendőrség hatáskörébe utalt légiközlekedés védelmi feladatok szakmai felügyeletét.
 
 (3) A rendőr-főkapitányság közigazgatási hatáskörében:
 
@@ -56,13 +58,13 @@ b) ellátja a kábítószerekkel, pszichotróp anyagokkal és kábítószer-prek
 
 c) ellátja a vállalkozás keretében végzett személy- és vagyonvédelmi, valamint magánnyomozói tevékenység szakmai felügyeletét, illetve az e tevékenységgel kapcsolatos hatósági feladatokat,
 
-d)[^78] lefolytatja – az Országos Mentőszolgálat, a Magyar Honvédség és a rendvédelmi szervek sürgősségi betegellátást végző gépjárművei kivételével – a sürgősségi vér és szervtranszplantációs szállítást, a sürgősségi betegellátást, illetve a közművek által okozott súlyos veszélyhelyzet azonnali elhárítását végző szervek, valamint a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) által üzemben tartott gépjárművek megkülönböztető jelzéseinek felszerelésére és használatára vonatkozó hatósági eljárást,
+d)[^79] lefolytatja – az Országos Mentőszolgálat, a Magyar Honvédség és a rendvédelmi szervek sürgősségi betegellátást végző gépjárművei kivételével – a sürgősségi vér és szervtranszplantációs szállítást, a sürgősségi betegellátást, illetve a közművek által okozott súlyos veszélyhelyzet azonnali elhárítását végző szervek, valamint a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) által üzemben tartott gépjárművek megkülönböztető jelzéseinek felszerelésére és használatára vonatkozó hatósági eljárást,
 
 e) ellátja az atomenergia alkalmazásával összefüggő hatósági feladatokat,
 
-f)[^79]
+f)[^80]
 
-g)[^80] eljár a rendkívüli haláleset kivizsgálásával kapcsolatos eljárásban – a közlekedési baleset következtében beállott rendkívüli haláleset kivételével –, ha
+g)[^81] eljár a rendkívüli haláleset kivizsgálásával kapcsolatos eljárásban – a közlekedési baleset következtében beállott rendkívüli haláleset kivételével –, ha
 
 ga) az áldozat diplomáciai mentességet élvező személy,
 
@@ -74,13 +76,13 @@ gd) az áldozat a polgári nemzetbiztonsági szolgálatok személyi állománya 
 
 ge) a halál a rendőr szolgálati helyén vagy szolgálata során következett be, és a rendőr nem az ORFK állományába tartozó hivatásos állományú tag,
 
-gf)[^81]
+gf)[^82]
 
-gg)[^82] rendőrségi fogdában fogvatartott személy az elhalt,
+gg)[^83] rendőrségi fogdában fogvatartott személy az elhalt,
 
-h)[^83] – a 6. § (2) bekezdés h) pontját, a 10. § (4) bekezdését és a 12. § (3) bekezdés g) és h) pontját kivéve – ellátja a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 4. §-ában foglalt, valamint a Törvény szerint a rendőrség hatáskörébe tartozó hatósági feladatokat,
+h)[^84] – a 6. § (2) bekezdés h) pontját, a 10. § (4) bekezdését és a 12. § (3) bekezdés g) és h) pontját kivéve – ellátja a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 4. §-ában foglalt, valamint a Törvény szerint a rendőrség hatáskörébe tartozó hatósági feladatokat,
 
-i)[^84] ellátja a közúti közlekedési bírság kiszabásával kapcsolatos hatósági feladatokat, ha a közúti közlekedési bírságolási eljárás megindítására okot adó szabályszegést a rendőr-főkapitányság az ellenőrzése során állapítja meg az alábbi esetekben:
+i)[^85] ellátja a közúti közlekedési bírság kiszabásával kapcsolatos hatósági feladatokat, ha a közúti közlekedési bírságolási eljárás megindítására okot adó szabályszegést a rendőr-főkapitányság az ellenőrzése során állapítja meg az alábbi esetekben:
 
 ia) a közúti személy- és áruszállításra vonatkozó szabályok megszegése esetén,
 
@@ -92,11 +94,11 @@ id) a veszélyes áruk közúti szállítására vonatkozó szabályok megszegé
 
 ie) azon szabályszegések esetén, amikor a közúti közlekedésről szóló törvény alapján a hatóság tagja a helyszínen határozathozatal nélkül szab ki bírságot,
 
-j)[^85] a közúti közlekedésről szóló törvényben foglaltak szerint szükség esetén intézkedik a közúti forgalomban ellenőrzés alá vont jármű visszatartására,
+j)[^86] a közúti közlekedésről szóló törvényben foglaltak szerint szükség esetén intézkedik a közúti forgalomban ellenőrzés alá vont jármű visszatartására,
 
-k)[^86] ellátja a határvízen történő közlekedés engedélyezésével kapcsolatos közigazgatási feladatokat.
+k)[^87] ellátja a határvízen történő közlekedés engedélyezésével kapcsolatos közigazgatási feladatokat.
 
-(4)[^87] A Budapest közigazgatási területén történt közlekedési baleset következtében beállott rendkívüli haláleset kivizsgálásával kapcsolatos eljárás a Budapesti Rendőr-főkapitányság hatáskörébe tartozik.
+(4)[^88] A Budapest közigazgatási területén történt közlekedési baleset következtében beállott rendkívüli haláleset kivizsgálásával kapcsolatos eljárás a Budapesti Rendőr-főkapitányság hatáskörébe tartozik.
 
 [^71]: A 10/B. §-t a 8/2012. (II. 1.) Korm. rendelet 3. §-a iktatta be, szövege a 352/2014. (XII. 29.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^72]: A 11. § (1) bekezdés d) pontja a 447/2013. (XI. 28.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
@@ -105,13 +107,14 @@ k)[^86] ellátja a határvízen történő közlekedés engedélyezésével kapc
 [^75]: A 11. § (2) bekezdés i) pontja a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése, a 71/2011. (IV. 28.) Korm. rendelet 5. § (1) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
 [^76]: A 11. § (2) bekezdés j) pontját a 361/2010. (XII. 30.) Korm. rendelet 8. §-a iktatta be.
 [^77]: A 11. § (2) bekezdés k) pontját a 319/2012. (XI. 14.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^78]: A 11. § (3) bekezdés d) pontja a 247/2009. (XI. 10.) Korm. rendelet 27. § (1) bekezdésével megállapított, a 273/2010. (XII. 9.) Korm. rendelet 124. § (3) bekezdése szerint módosított szöveg.
-[^79]: A 11. § (3) bekezdés f) pontját a 447/2013. (XI. 28.) Korm. rendelet 4. § (11) bekezdés a) pontja hatályon kívül helyezte.
-[^80]: A 11. § (3) bekezdés g) pontját a 247/2009. (XI. 10.) Korm. rendelet 39. § e) pontja hatályon kívül helyezte, újonnan a 334/2009. (XII. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^81]: A 11. § (3) bekezdés g) pont gf) alpontját a 351/2013. (X. 4.) Korm. rendelet 50. §-a hatályon kívül helyezte.
-[^82]: A 11. § (3) bekezdés g) pont gg) alpontját a 148/2010. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
-[^83]: A 11. § (3) bekezdés h) pontja a 319/2012. (XI. 14.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^84]: A 11. § (3) bekezdés i) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja hatályon kívül helyezte, újonnan a 247/2009. (XI. 10.) Korm. rendelet 27. § (2) bekezdése iktatta be, szövege a 102/2012. (V. 18.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg.
-[^85]: A 11. § (3) bekezdés j) pontját a 71/2011. (IV. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 102/2012. (V. 18.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg.
-[^86]: A 11. § (3) bekezdés k) pontját a 102/2012. (V. 18.) Korm. rendelet 18. §-a iktatta be.
-[^87]: A 11. § (4) bekezdését a 334/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^78]: A 11. § (2) bekezdés l) pontját a 302/2014. (XII. 5.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^79]: A 11. § (3) bekezdés d) pontja a 247/2009. (XI. 10.) Korm. rendelet 27. § (1) bekezdésével megállapított, a 273/2010. (XII. 9.) Korm. rendelet 124. § (3) bekezdése szerint módosított szöveg.
+[^80]: A 11. § (3) bekezdés f) pontját a 447/2013. (XI. 28.) Korm. rendelet 4. § (11) bekezdés a) pontja hatályon kívül helyezte.
+[^81]: A 11. § (3) bekezdés g) pontját a 247/2009. (XI. 10.) Korm. rendelet 39. § e) pontja hatályon kívül helyezte, újonnan a 334/2009. (XII. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^82]: A 11. § (3) bekezdés g) pont gf) alpontját a 351/2013. (X. 4.) Korm. rendelet 50. §-a hatályon kívül helyezte.
+[^83]: A 11. § (3) bekezdés g) pont gg) alpontját a 148/2010. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
+[^84]: A 11. § (3) bekezdés h) pontja a 319/2012. (XI. 14.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^85]: A 11. § (3) bekezdés i) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja hatályon kívül helyezte, újonnan a 247/2009. (XI. 10.) Korm. rendelet 27. § (2) bekezdése iktatta be, szövege a 102/2012. (V. 18.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^86]: A 11. § (3) bekezdés j) pontját a 71/2011. (IV. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 102/2012. (V. 18.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^87]: A 11. § (3) bekezdés k) pontját a 102/2012. (V. 18.) Korm. rendelet 18. §-a iktatta be.
+[^88]: A 11. § (4) bekezdését a 334/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
