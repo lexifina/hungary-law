@@ -10,7 +10,7 @@
 
 (6)
 
-(7) Hatályát veszti az igazságügyi szolgáltatásokkal kapcsolatos egyes törvények módosításáról szóló 2009. évi LXXV. törvény.
+(7)
 
 (8)
 
