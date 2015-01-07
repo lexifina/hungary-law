@@ -10,4 +10,6 @@ d) ha a koncessziós szerződés aláírása a pályázat nyertesének felróhat
 
 e) ha a koncesszió jogosultja nem kezdi meg tevékenységét a koncessziós szerződés aláírásától számított hat hónapon belül;
 
-f) az engedély visszavonásáról szóló határozat jogerőre emelkedésével.
+f) az engedély visszavonásáról szóló határozat jogerőre emelkedésével;
+
+g) ha a dohánytermék-kiskereskedő az e törvényben foglalt adatszolgáltatási kötelezettségének egy hónapban összesen legalább 5 napon keresztül alapos ok nélkül nem tesz eleget.

@@ -1,5 +1,5 @@
 18. § (1) A vámhatóság dohánytermék-kiskereskedelmi ügyben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szerint jár el azzal, hogy újrafelvételi eljárásnak, valamint fizetési kedvezmény engedélyezésének nincs helye. A bírság végrehajtására az adózás rendjéről szóló jogszabályok az irányadóak azzal, hogy fizetési halasztásnak, részletfizetés engedélyezésének, valamint méltányosság alapján mérséklésnek, illetve elengedésnek nincs helye.
 
-(2) A vámhatóság dohánytermék-kiskereskedelemi ügyben hozott határozatai ellen – a bírságot kiszabó határozat kivételével – fellebbezésnek nincs helye. A dohánytermék-kiskereskedelmi ügyben hozott határozat (végzés) ellen – a bírságot kiszabó határozat (végzés) kivételével – benyújtott keresetlevélnek a végrehajtásra halasztó hatálya van.
+(2)
 
 (3) A vámhatóság a kérelem elbírálásához előírhatja a kérelem egyes adatainak részletezését, kiegészítését. Hiányosan benyújtott kérelem esetén, annak beérkezésétől számított 15 napon belül a vámhatóság intézkedik a hiánypótlási felhívás kibocsátásáról.

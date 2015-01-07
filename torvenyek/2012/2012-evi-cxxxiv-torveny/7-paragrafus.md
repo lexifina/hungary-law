@@ -25,3 +25,5 @@ c) a pályázat benyújtásának határidejét és helyét,
 d) a pályázat kiírója által szükségesnek ítélt minden további követelményt, szempontot és információt.
 
 (7) A pályázatok eredményhirdetése a benyújtási határidőt követő 30 napon belül történik. E határidő indokolt esetben egy alkalommal, legfeljebb 30 nappal meghosszabbítható.
+
+(8) A pályázat kiírója előírhatja, hogy a pályázatokat elektronikus úton kell benyújtani.
