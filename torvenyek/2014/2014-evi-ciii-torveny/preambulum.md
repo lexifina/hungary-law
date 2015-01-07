@@ -1,0 +1,1 @@
+Az Országgyűlés fejet hajt a nyugat-magyarországi területek elszakítása ellen 1921-ben kibontakozó fegyveres küzdelem résztvevői és az 1922. évi népszövetségi döntést kikényszerítő falvak lakosainak bátor magatartása előtt, amellyel kivívták településeik Magyarországhoz tartozását, ezért az alábbi törvényt alkotja:
