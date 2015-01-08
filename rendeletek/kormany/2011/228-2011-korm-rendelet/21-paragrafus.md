@@ -1,3 +1,3 @@
-## 20. §[^41]
+## 20. §[^42]
 
-[^41]: A 20. §-t a 392/2012. (XII. 20.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
+[^42]: A 20. §-t a 392/2012. (XII. 20.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.

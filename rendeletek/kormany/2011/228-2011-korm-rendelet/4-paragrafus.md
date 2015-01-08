@@ -1,39 +1,43 @@
-4. § (1)[^3] A Hivatal teljes körű koordinációs, kapcsolattartási, információs és pénzügyi-ügyviteli feladatokat lát el, ennek keretében
+4. § (1)[^3] A minisztérium
 
-a) kidolgozza és a miniszter jóváhagyását követően közzéteszi a pályázati felhívást és az ösztöndíj program működési szabályzatát,
+a) kidolgozza és a miniszter jóváhagyását követően közzéteszi a pályázati felhívást és az ösztöndíjprogram működési szabályzatát,
 
 b) lefolytatja a pályázati eljárást,
 
-c) ellátja az ösztöndíjas szerződés megkötésével, módosításával, megszüntetésével kapcsolatos feladatokat,
+c) módszertani irányítást végez
 
-d) módszertani irányítást végez
+ca) az ösztöndíjasok közigazgatási szakmai gyakorlati képzésével (a továbbiakban: szakmai gyakorlat), és
 
-da) az ösztöndíjasok közigazgatási szakmai gyakorlati képzésével (a továbbiakban: szakmai gyakorlat), és
+cb) a mentorok tevékenységével kapcsolatban,
 
-db) a mentorok tevékenységével kapcsolatban,
+d) működteti az ösztöndíj program értékelési rendszerét,
 
-e) működteti az ösztöndíj program értékelési rendszerét,
+e) gondoskodik az ösztöndíj program részét képező képzések megszervezéséről,
 
-f) gondoskodik az ösztöndíj program részét képező szervezett képzések és egyéb programok megszervezéséről és lebonyolításáról,
+f) szervezi a PIB működését,
 
-g) ellátja az ösztöndíjrendszer pénzügyi-ügyviteli feladatait,
+g) beszámolót készít a miniszter számára az ösztöndíj program végrehajtásáról,
 
-h) szervezi a PIB működését,
+h) monitoring tevékenységet végez a program során a képzés, a gyakorlat és a mentori tevékenység területén,
 
-i) beszámolót készít a miniszter számára az ösztöndíj program végrehajtásáról,
+i) ellátja a záróvizsga szervezésével, lebonyolításával és nyilvántartásával kapcsolatos feladatokat.
 
-j)[^4] az ösztöndíjas szerződés megszűnésekor, valamint az ösztöndíjas kérelmére igazolást állít ki az ösztöndíjas jogviszonyról,
+(2)[^4] Az ösztöndíj program működtetésének pénzügyi fedezetét a Hivatal költségvetésében kell tervezni.
 
-k) monitoring tevékenységet végez a program során a képzés, a gyakorlat és a mentori tevékenység területén,
+(3)[^5] A Hivatal
 
-l)[^5] szervezi az ösztöndíjasok külföldi gyakorlatra való elhelyezését, nemzetközi befogadó intézményi partnerkapcsolatokat épít és koordinál,
+a) ellátja az ösztöndíjas szerződés megkötésével, módosításával, megszüntetésével kapcsolatos feladatokat,
 
-m)[^6] ellátja a záróvizsga szervezésével, lebonyolításával és nyilvántartásával kapcsolatos feladatokat.
+b) ellátja az ösztöndíj program teljes körű pénzügyi-ügyviteli feladatait,
 
-(2)[^7] Az ösztöndíj program működtetésének pénzügyi fedezetét a Hivatal költségvetésében kell tervezni.
+c) gondoskodik az ösztöndíj program részét képező programok megszervezéséről és lebonyolításáról,
 
-[^3]: A 4. § (1) bekezdés nyitó szövegrésze a 178/2012. (VII. 26.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
-[^4]: A 4. § (1) bekezdés j) pontja a 392/2012. (XII. 20.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^5]: A 4. § (1) bekezdés l) pontja a 392/2012. (XII. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^6]: A 4. § (1) bekezdés m) pontját a 392/2012. (XII. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^7]: A 4. § (2) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+d) gondoskodik az ösztöndíj program részét képező a minisztérium által szervezett képzések lebonyolításáról,
+
+e) az ösztöndíjas szerződés megszűnésekor, valamint az ösztöndíjas kérelmére igazolást állít ki az ösztöndíjas jogviszonyról,
+
+f) szervezi az ösztöndíjasok külföldi gyakorlatra való elhelyezését, nemzetközi befogadó intézményi partnerkapcsolatokat épít és koordinál.
+
+[^3]: A 4. § (1) bekezdése a 377/2014. (XII. 31.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. § (2) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^5]: A 4. § (3) bekezdését a 377/2014. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be.
