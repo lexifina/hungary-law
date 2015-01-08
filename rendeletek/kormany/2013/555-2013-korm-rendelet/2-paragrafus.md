@@ -6,15 +6,15 @@
 
 a) az ösztöndíjprogram Operatív Testülete (a továbbiakban: Testület), valamint
 
-b) a Közigazgatási és Igazságügyi Hivatal, mint az Ösztöndíjprogram központi koordinációjáért és működtetéséért felelős intézmény (a továbbiakban: Központ).
+b)[^1] a Közigazgatási és Igazságügyi Hivatal (a továbbiakban: Hivatal).
 
-(3)[^1] A miniszter – a szociál- és nyugdíjpolitikáért felelős miniszter véleményének kikérését követően – hozza létre a Testületet.
+(3)[^2] A miniszter – a szociál- és nyugdíjpolitikáért felelős miniszter véleményének kikérését követően – hozza létre a Testületet.
 
 (4) A miniszter jóváhagyja
 
 a) az Ösztöndíjprogram működési szabályzatát,
 
-b) a Központnak az Ösztöndíjprogram végrehajtásával kapcsolatos beszámolóját,
+b)[^3] a miniszter által vezetett minisztériumnak (a továbbiakban: minisztérium) az Ösztöndíjprogram végrehajtásával kapcsolatos beszámolóját,
 
 c) a pályázati felhívást.
 
@@ -30,4 +30,6 @@ d) a befogadó intézményekkel megkötésre kerülő együttműködési megáll
 
 e) a hallgatók teljesítményének értékelési rendszerét.
 
-[^1]: A 2. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 797. §-a szerint módosított szöveg.
+[^1]: A 2. § (2) bekezdés b) pontja a 377/2014. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 797. §-a szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdés b) pontja a 377/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdés a) pontja szerint módosított szöveg.
