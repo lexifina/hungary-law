@@ -1,0 +1,1 @@
+## 26. § A részarány-tulajdon önálló földrészletben történő kiadására irányuló eljárás során az I. Fejezet rendelkezéseit az e fejezetben meghatározott eltérésekkel kell alkalmazni azzal, hogy a kérelmező, illetve a tulajdonostárs alatt a részarány-tulajdonost kell érteni, továbbá az e fejezetben meghatározott eljárás megelőzi az I. Fejezetben meghatározott megosztási eljárást.
