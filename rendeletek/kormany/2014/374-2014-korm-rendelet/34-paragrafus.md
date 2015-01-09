@@ -1,3 +1,5 @@
 ## támogatást tartalmaz.
 
-34. § Hatályát veszti a részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól szóló 405/2012. (XII. 28.) Korm. rendelet.
+34. §[^1]
+
+[^1]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
