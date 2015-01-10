@@ -1,12 +1,12 @@
 35/D. § (1) Az elektronikus kapcsolattartás igénylése iránti, legalább fokozott biztonságú elektronikus aláírással és időbélyegzővel ellátott, elektronikus iratba foglalt kérelmet és annak jogszabályban meghatározott mellékleteit a kézbesítési rendszer felhasználói szabályzatának elfogadása mellett bárki előterjeszthet a végrehajtónál. A végrehajtó a kérelem teljesítéseként rögzíti a kézbesítési rendszerben az elektronikus kapcsolattartásra jogosult fél:
 
-a) természetes személyazonosító adatait, lakóhelyét, személyazonosítás céljából bemutatott okmányának típusát és számát, valamint törvényes képviselőjének nevét, lakóhelyét és személyazonosítás céljából mellékelt okmányának típusát, számát; szervezet esetében elnevezését, székhelyét, a nyilvántartását vezető hatóság elnevezését, nyilvántartási számát, valamint a képviselőjének nevét, lakóhelyét és személyazonosítás céljából mellékelt okmányának típusát, számát;
+a) természetes személyazonosító adatait, lakóhelyét, személyazonosító okmányának típusát és számát, valamint törvényes képviselőjének nevét, lakóhelyét és személyazonosító okmányának típusát, számát; szervezet esetében elnevezését, székhelyét, a nyilvántartását vezető hatóság elnevezését, nyilvántartási számát, valamint a képviselőjének nevét, lakóhelyét és személyazonosító okmányának típusát, számát;
 
 b) kézbesítési rendszer használatához szükséges felhasználói nevét és jelszavát;
 
 c) kézbesítési rendszer által küldött értesítések fogadására szolgáló elektronikus levelezési címét.
 
-(2) A végrehajtó a kérelem teljesítése előtt a 47/A. § szerint ellenőrzi a személyazonosság és a lakóhely igazolására mellékelt okirat érvényességét és adatainak valódiságát. Ha a fél nem szolgáltatja az (1) bekezdésben meghatározott adatokat és az azok igazolására szolgáló iratokat, vagy a személyazonosságával kapcsolatban kétség merül fel, a végrehajtó a kérelem teljesítését megtagadja.
+(2) A végrehajtó a kérelem teljesítése előtt a 47/A. § szerint ellenőrzi a személyazonosság és a lakóhely igazolására szolgáló személyazonosító okmány száma alapján annak érvényességét és adatainak valódiságát. Ha a fél nem szolgáltatja az (1) bekezdésben meghatározott adatokat, vagy a személyazonosságával kapcsolatban kétség merül fel, a végrehajtó a kérelem teljesítését megtagadja.
 
 (3) A kézbesítési rendszer használatához szükséges, hogy a felhasználó rendelkezzen a legalább az elektronikus aláírásról szóló törvény szerinti fokozott biztonságú aláírás létrehozásra képes aláírást létrehozó eszközzel, időbélyegzővel, továbbá titkosító és hitelesítési tanúsítvánnyal.
 

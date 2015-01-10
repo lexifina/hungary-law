@@ -24,4 +24,6 @@ k) az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás a
 
 l) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben, a 2007. november 23-án elfogadott, a tartási kötelezettségekre alkalmazandó jogról szóló hágai jegyzőkönyv (a továbbiakban: hágai jegyzőkönyv) hatálya alá tartozó tagállamokban hozott bírósági határozat (perbeli egyezség) alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 
-m) a szabálysértési hatóság, illetve a bíróság szabálysértéssel okozott kár értékének megfizetésére kötelező határozata alapján a sértett lakóhelye vagy tartózkodási helye szerint illetékes járásbíróság.
+m) a szabálysértési hatóság, illetve a bíróság szabálysértéssel okozott kár értékének megfizetésére kötelező határozata alapján a sértett lakóhelye vagy tartózkodási helye szerint illetékes járásbíróság,
+
+n) az 1215/2012/EU rendelet 53. cikke alapján kiállított tanúsítvánnyal ellátott külföldi határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, közvetlen kereskedelmi képviselete esetén a fióktelep, illetve a képviselet belföldi cégnyilvántartásba bejegyzett székhelye, az európai gazdasági egyesülés belföldi telephelye – szerinti törvényszék székhelyén működő járásbíróság, Pest megyében a Budakörnyéki Járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
