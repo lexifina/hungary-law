@@ -26,7 +26,7 @@ j) elektronikus levelezési cím.
 
 a) a felhasználó elektronikus aláírói tanúsítványát, titkosító tanúsítványát és hitelesítési tanúsítványát,
 
-b) a fél személyazonosító okmányának és lakcímkártyájának elektronikus másolatát,
+b)[^4]
 
 c) kézbesítési megbízottal rendelkező fél esetében a kézbesítési megbízottal kötött megbízási szerződés elektronikus másolatát,
 
@@ -39,3 +39,5 @@ d) a kérelem előterjesztése során meghatalmazottal eljáró fél esetében a
 a) az aláíró ügyvédi kamarai tagságának fennállását,
 
 b) egyéb meghatalmazott esetében pedig azt, hogy az aláíró jogosult a meghatalmazás alapján képviselt nevében történő aláírásra.
+
+[^4]: A 19. § (2) bekezdés b) pontját a 20/2014. (XII. 23.) IM rendelet 16. § (2) bekezdés a) pontja hatályon kívül helyezte.
