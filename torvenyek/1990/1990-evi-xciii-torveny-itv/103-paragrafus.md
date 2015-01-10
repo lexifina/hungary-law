@@ -22,6 +22,8 @@ f) a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogr�
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
+(3) Az 57. § (1) bekezdés u) pontja a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezést állapít meg.
+
 ## Melléklet
 
 I. A szabálysértési eljárás illetéke
