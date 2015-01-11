@@ -4,7 +4,7 @@
 
 1. átlagos minőségű termőföld: az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvényben meghatározott törzskönyvben szereplő, az adott település azonos művelési ágú termőföldjei 1 hektárra vetített aranykorona értékeinek területtel súlyozott átlagának megfelelő termőföld;
 
-2. cél-kitermelőhely: a bányászatról szóló 1993. évi XLVIII. törvényben meghatározott cél-kitermelőhely;
+2. cél-kitermelőhely és anyagnyerő hely: a bányászatról szóló 1993. évi XLVIII. törvényben meghatározott cél-kitermelőhely;
 
 3. első igénybevétel: a termőföld más célú hasznosítása érdekében végzett első munkafolyamat, illetve fizikai beavatkozás;
 
