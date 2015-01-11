@@ -17,3 +17,5 @@ alapján rendelheti el.
 (3) A rendőrség az ideiglenes megelőző távoltartást akkor rendeli el, ha az eset összes körülményéből, így különösen a bántalmazó és a bántalmazott által előadott tényekből, a hozzátartozók közötti erőszak helyszínéből, a hozzátartozók közötti erőszakra utaló jelekből, a bántalmazó és a bántalmazott magatartásából és egymáshoz való viszonyából a hozzátartozók közötti erőszak elkövetésére megalapozottan lehet következtetni.
 
 (4) Az ideiglenes megelőző távoltartást a (3) bekezdésben foglalt esetben a rendőrség 72 órára rendeli el.
+
+(5) A rendőrség a bántalmazott kérelmére a 606/2013/EU rendelet 5. cikke szerinti tanúsítványt (a továbbiakban: védelmi tanúsítvány) állít ki.

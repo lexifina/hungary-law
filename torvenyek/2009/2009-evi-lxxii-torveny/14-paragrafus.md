@@ -10,8 +10,10 @@ b) a kérelem előterjesztésének indokait,
 
 c) a rövid tényállást és az előzményeket,
 
-d) a kérelmező nevét, lakóhelyét, valamint
+d) a kérelmező nevét, lakóhelyét,
 
 e) a bántalmazó azonosítására és elérhetőségére vonatkozó, rendelkezésére álló adatokat.
+
+(3a) Ha a bántalmazott védelmi tanúsítvány kiállítását is kéri, a (3) bekezdés szerinti kérelemben erről nyilatkozni kell.
 
 (4) A kérelmet írásban lehet előterjeszteni, vagy az illetékes bíróságon jegyzőkönyvbe lehet mondani.

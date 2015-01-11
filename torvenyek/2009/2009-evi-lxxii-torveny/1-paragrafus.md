@@ -12,6 +12,8 @@ b) a bántalmazó által a bántalmazott sérelmére megvalósított, a méltós
 
 (3) Bántalmazó az a cselekvőképes hozzátartozó, aki a hozzátartozók közötti erőszakot megvalósítja, vagy akire tekintettel a hozzátartozók közötti erőszakot más megvalósítja, feltéve, hogy ezzel a bántalmazó egyetért.
 
+(3a) Az Európai Unió valamely tagállamában elrendelt védelmi intézkedésnek a polgári ügyekben hozott védelmi intézkedések kölcsönös elismeréséről szóló, 2013. június 12-i 606/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 606/2013/EU rendelet) alapján Magyarországon történő elismerése és végrehajtása iránti eljárásban a (2) bekezdésben foglalt bántalmazotton a 606/2013/EU rendelet szerinti védett személyt, a (3) bekezdés szerinti bántalmazón a 606/2013/EU rendelet szerinti veszélyeztető személyt is érteni kell.
+
 (4) E törvény alkalmazásában gyermeknek kell tekinteni a Polgári Törvénykönyvben (a továbbiakban: Ptk.) meghatározott kiskorút.
 
 (5) E törvény alkalmazásában hozzátartozónak kell tekinteni a Ptk.-ban meghatározott közeli hozzátartozókat és hozzátartozókat, valamint a volt házastársat, a volt élettársat, a bejegyzett élettársat, a volt bejegyzett élettársat, a gondnokot, a gondnokoltat, a gyámot, a gyámoltat.

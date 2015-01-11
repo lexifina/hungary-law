@@ -22,6 +22,6 @@ d) tartózkodni attól, hogy a bántalmazottal közvetlenül vagy közvetve éri
 
 (5) Ugyanazon bántalmazóval szemben ugyanaz a bántalmazott csak akkor kérheti újból ideiglenes megelőző távoltartás, illetve megelőző távoltartás elrendelését, ha elrendelésük e törvényben meghatározott feltételei ismételten megvalósulnak.
 
-(6) Az ideiglenes megelőző távoltartó határozat, illetve megelőző távoltartó határozat meghozatalakor a rendőrség, illetve a bíróság tájékoztatja a bántalmazót a lakóhelyén és környékén igénybe vehető éjszakai szállást nyújtó intézmények helyéről, címéről és az igénybevétel feltételeiről.
+(6) Az ideiglenes megelőző távoltartó határozat, illetve megelőző távoltartó határozat meghozatalakor a rendőrség, illetve a bíróság tájékoztatja a bántalmazót a lakóhelyén és környékén igénybe vehető éjszakai szállást nyújtó intézmények helyéről, címéről és az igénybevétel feltételeiről, valamint a bántalmazottat a 606/2013/EU rendelet szerinti tanúsítvány kiállításának lehetőségéről és feltételeiről.
 
 (7) Az ideiglenes megelőző távoltartás, illetve a megelőző távoltartás a hatályát veszti, ha a bántalmazó ellen indított büntetőeljárásban a bíróság távoltartást rendel el.
