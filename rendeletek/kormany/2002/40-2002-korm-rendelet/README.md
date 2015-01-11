@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-40-20-2
 | 2013-02-01 | 2002-40-20-22.20 | 402/2012. (XII. 28.) Korm. rendelet |
 | 2014-01-01 | 2002-40-20-22.21 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2014-09-05 | 2002-40-20-22.22 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2015-01-11 | 2002-40-20-22.23 | 351/2010. (XII. 30.) Korm. rendelet |
