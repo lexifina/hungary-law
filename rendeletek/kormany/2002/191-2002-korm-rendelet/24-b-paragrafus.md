@@ -1,8 +1,8 @@
-## TERMÉKAZONOSÍTÁS[^76]
+## TERMÉKAZONOSÍTÁS[^77]
 
-## Egyedi azonosítás[^77]
+## Egyedi azonosítás[^78]
 
-24/B. §[^78] (1) A robbanóanyag-szektorban működő vállalkozások, amelyek robbanóanyagokat gyártanak vagy importálnak, illetve gyutacsokat szerelnek össze (a továbbiakban: vállalkozások) egyedi azonosítással kötelesek jelölni a robbanóanyagokat és a legkisebb csomagolási egységek mindegyikét. Nem kell jelölni:
+24/B. §[^79] (1) A robbanóanyag-szektorban működő vállalkozások, amelyek robbanóanyagokat gyártanak vagy importálnak, illetve gyutacsokat szerelnek össze (a továbbiakban: vállalkozások) egyedi azonosítással kötelesek jelölni a robbanóanyagokat és a legkisebb csomagolási egységek mindegyikét. Nem kell jelölni:
 
 a) a csomagolatlanul vagy szivattyús kocsikban szállított és átadott robbanóanyagot a robbantólyukba való közvetlen betöltéshez;
 
@@ -18,7 +18,7 @@ e) gyutacskapszulákat, amelyek ütésre könnyen robbanó kis mennyiségű prim
 
 (3) Az (1) bekezdés nem alkalmazandó, ha a robbanóanyagot export céljára gyártják és az importáló ország követelményeivel összhangban lévő azonosítással jelölik, ami lehetővé teszi a robbanóanyag nyomon követhetőségét.
 
-(4)[^79] Az egyedi azonosítás a 7. számú mellékletben meghatározott alkotóelemeket tartalmazza.
+(4)[^80] Az egyedi azonosítás a 7. számú mellékletben meghatározott alkotóelemeket tartalmazza.
 
 (5) A bányafelügyelet minden gyártási helyhez kiadott gyártási engedélyében három számjegyből álló kódot határoz meg.
 
@@ -26,7 +26,7 @@ e) gyutacskapszulákat, amelyek ütésre könnyen robbanó kis mennyiségű prim
 
 (7) 2015. április 5-étől a robbanóanyagokat újracsomagoló forgalmazók a robbanóanyagra és a legkisebb csomagolási egységre kötelesek egyedi azonosítást rögzíteni.
 
-[^76]: A 24/B. §-t megelőző címet a 65/2012. (IV. 2.) Korm. rendelet 2. §-a iktatta be.
-[^77]: A 24/B. §-t megelőző alcímet a 65/2012. (IV. 2.) Korm. rendelet 2. §-a iktatta be.
-[^78]: A 24/B. §-t a 65/2012. (IV. 2.) Korm. rendelet 2. §-a iktatta be.
-[^79]: A 24/B. § (4) bekezdése a 99/2013. (III. 29.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^77]: A 24/B. §-t megelőző címet a 65/2012. (IV. 2.) Korm. rendelet 2. §-a iktatta be.
+[^78]: A 24/B. §-t megelőző alcímet a 65/2012. (IV. 2.) Korm. rendelet 2. §-a iktatta be.
+[^79]: A 24/B. §-t a 65/2012. (IV. 2.) Korm. rendelet 2. §-a iktatta be.
+[^80]: A 24/B. § (4) bekezdése a 99/2013. (III. 29.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
