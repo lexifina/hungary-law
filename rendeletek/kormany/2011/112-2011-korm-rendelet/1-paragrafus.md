@@ -20,7 +20,7 @@ de) a nukleáris fegyverek elterjedésének megakadályozásával, továbbá
 
 df) az atomkárért való felelősséggel
 
-összefüggésben;
+## összefüggésben;
 
 e) előkészíti a d) pont da) és db) alpontjához kapcsolódó nemzetközi kötelezettség alapján teljesítendő nemzeti jelentéseket;
 
