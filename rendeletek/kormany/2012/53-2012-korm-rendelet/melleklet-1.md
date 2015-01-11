@@ -1,6 +1,8 @@
+## 49. §[^34]
+
 1. melléklet az 53/2012. (III. 28.) Korm. rendelethez
 
-A bányafelügyelet építésügyi hatósági engedélyéhez kötött sajátos építmények
+## A bányafelügyelet építésügyi hatósági engedélyéhez kötött sajátos építmények
 
 1. A szilárdásvány-bányászat területén a terület-igénybevétellel járó bányászati sajátos építmények:
 
@@ -68,7 +70,7 @@ A bányafelügyelet építésügyi hatósági engedélyéhez kötött sajátos �
 
 4.1. a geotermikus energia felszín alatti víz kitermelését nem igénylő, 20 métert meghaladó mélységből történő kinyerésének és energetikai célú hasznosításának építményei az épületgépészeti berendezések kivételével,
 
-4.2.[^30] az 1.1. pont szerinti kutatóépítmény, amely
+4.2.[^35] az 1.1. pont szerinti kutatóépítmény, amely
 
 4.2.1. földtani kutatást szolgálja,
 
@@ -84,7 +86,8 @@ A bányafelügyelet építésügyi hatósági engedélyéhez kötött sajátos �
 
 4.6. a koncesszióköteles geotermikus energia kinyerésének és energetikai célú hasznosításának építményei az erőművi berendezések kivételével.
 
-4.7.[^31] a föld alatti szénelgázosításhoz szükséges létesítmények.
+4.7.[^36] a föld alatti szénelgázosításhoz szükséges létesítmények.
 
-[^30]: Az 1. melléklet 4.2. pontja a 156/2014. (VI. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^31]: Az 1. melléklet 4. pont 4.7. pontját az 559/2013. (XII. 31.) Korm. rendelet 68. § (1) bekezdése iktatta be.
+[^34]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: Az 1. melléklet 4.2. pontja a 156/2014. (VI. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^36]: Az 1. melléklet 4. pont 4.7. pontját az 559/2013. (XII. 31.) Korm. rendelet 68. § (1) bekezdése iktatta be.

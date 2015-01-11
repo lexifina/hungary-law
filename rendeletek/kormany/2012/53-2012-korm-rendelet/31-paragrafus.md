@@ -16,6 +16,6 @@ e) az engedélytől eltérő végrehajtás szankcionálási lehetőségére val�
 
 (4) A bontási tevékenység befejezését az építtető 8 napon belül köteles bejelenteni a bányafelügyeletnek.
 
-(5)[^19]
+(5)[^22]
 
-[^19]: A 31. § (5) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 70. § (1) bekezdés 3. pontja hatályon kívül helyezte.
+[^22]: A 31. § (5) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 70. § (1) bekezdés 3. pontja hatályon kívül helyezte.

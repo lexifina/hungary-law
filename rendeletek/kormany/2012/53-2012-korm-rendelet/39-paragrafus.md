@@ -12,11 +12,11 @@ d) bejelentés nélküli építés esetében – a készültségi fok figyelembe
 
 e) bejelentéstől eltérő építés esetében – a készültségi fok figyelembevételével meghatározott – a sajátos építmény vagy sajátos építményrész beruházási értékének 20%-a,
 
-f)[^23] bejelentés nélkül végzett bontás esetében a sajátos építmény vagy sajátos építményrész könyvszerinti értékének 15%-a,
+f)[^28] bejelentés nélkül végzett bontás esetében a sajátos építmény vagy sajátos építményrész könyvszerinti értékének 15%-a,
 
-g)[^24] a 38. § (1) bekezdés d) pontja szerinti esetben építés esetében – a készültségi fok figyelembevételével meghatározott – a sajátos építmény vagy sajátos építményrész beruházási értékének, bontás esetében könyvszerinti értékének 10%-a vagy
+g)[^29] a településrendezési eszközök és az általános érvényű kötelező építésügyi előírások és biztonsági szabályzatok megszegésével történő létesítés esetében – a készültségi fok figyelembevételével meghatározott – a sajátos építmény vagy sajátos építményrész beruházási értékének, bontás esetében könyvszerinti értékének 10%-a vagy
 
-h)[^25] engedély nélküli használat esetén a sajátos építmény vagy sajátos építményrész beruházási értékének 20%-a,
+h)[^30] engedély nélküli használat esetén a sajátos építmény vagy sajátos építményrész beruházási értékének 20%-a,
 
 de legalább ötszázezer forint, legfeljebb tízmillió forint.
 
@@ -24,6 +24,6 @@ de legalább ötszázezer forint, legfeljebb tízmillió forint.
 
 (3) A bírság mértékét – a kerekítés általános szabályai szerint – ezer forintra való kerekítéssel kell megállapítani.
 
-[^23]: A 39. § (1) bekezdés f) pontja az 559/2013. (XII. 31.) Korm. rendelet 67. §-ával megállapított szöveg.
-[^24]: A 39. § (1) bekezdés g) pontja az 559/2013. (XII. 31.) Korm. rendelet 67. §-ával megállapított szöveg.
-[^25]: A 39. § (1) bekezdés h) pontját az 559/2013. (XII. 31.) Korm. rendelet 67. §-a iktatta be.
+[^28]: A 39. § (1) bekezdés f) pontja az 559/2013. (XII. 31.) Korm. rendelet 67. §-ával megállapított szöveg.
+[^29]: A 39. § (1) bekezdés g) pontja az 559/2013. (XII. 31.) Korm. rendelet 67. §-ával megállapított, a 311/2014. (XII. 11.) Korm. rendelet 36. § c) pontja szerint módosított szöveg.
+[^30]: A 39. § (1) bekezdés h) pontját az 559/2013. (XII. 31.) Korm. rendelet 67. §-a iktatta be.

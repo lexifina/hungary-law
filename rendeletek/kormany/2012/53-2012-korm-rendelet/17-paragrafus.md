@@ -1,4 +1,4 @@
-## 17. §[^11] Az építési engedélynek a 10. §-ban foglaltakon túl tartalmaznia kell:
+## 17. §[^13] Az építési engedélynek a 10. §-ban foglaltakon túl tartalmaznia kell:
 
 a) a sajátos építmény biztonsági övezetének mértékét,
 
@@ -10,4 +10,4 @@ d) a sajátos építményre vonatkozó használatbavételi engedély iránti ké
 
 e) az építőipari kivitelezési tevékenységről szóló kormányrendeletben meghatározottak szerint az arra vonatkozó tájékoztatást, hogy az építőipari kivitelezési tevékenység folytatása során építtetői fedezetkezelő közreműködése kötelező-e.
 
-[^11]: A 17. § az 559/2013. (XII. 31.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^13]: A 17. § az 559/2013. (XII. 31.) Korm. rendelet 62. §-ával megállapított szöveg.

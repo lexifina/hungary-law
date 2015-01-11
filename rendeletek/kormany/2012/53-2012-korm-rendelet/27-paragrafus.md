@@ -4,6 +4,6 @@
 
 (3) A fennmaradási engedély iránti kérelem elutasítása esetén rendelkezni kell a sajátos építmény bontásáról vagy műszaki felszámolásáról és az eredeti állapot lehetőség szerinti helyreállításáról.
 
-(4)[^18] A bányafelügyelet a fennmaradási engedélyt közli a szénhidrogén-szállítóvezetéket, földgáz-elosztó és célvezetéket üzemeltetővel is.
+(4)[^21] A bányafelügyelet a fennmaradási engedélyt közli a szénhidrogén-szállítóvezetéket, földgáz-elosztó és célvezetéket üzemeltetővel is.
 
-[^18]: A 27. § (4) bekezdését a 324/2013. (VIII. 29.) Korm. rendelet 19. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 11–15. §-át.
+[^21]: A 27. § (4) bekezdését a 324/2013. (VIII. 29.) Korm. rendelet 19. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 11–15. §-át.

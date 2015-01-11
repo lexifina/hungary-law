@@ -1,39 +1,23 @@
 ## 5. Az építési jogosultság igazolása
 
-6. § (1) Az elvi építési és a használatbavételi engedélyezési eljárás kivételével az építésügyi hatósági engedély megadásához, valamint a használatbavételi bejelentés kivételével a bejelentéshez az ingatlannal rendelkezni jogosult hozzájárulása szükséges a (2) és (3) bekezdésben foglaltak szerint.
+6. §[^3] (1) Az elvi építési és a használatbavételi engedélyezési eljárás kivételével az építésügyi hatósági engedély megadásához, valamint a bányafelügyelet engedélye nélkül, bejelentés alapján végezhető építési tevékenység végzéséhez az építési tevékenységgel érintett ingatlan tekintetében az építési jogosultságot igazolni kell.
 
-(2) Az építési jogosultság a következő okiratokkal igazolható:
+(2) A jelzálogjoggal terhelt ingatlan esetében az építmény bontására irányuló építésügyi hatósági engedély megadásához a jelzálogjog jogosultjának hozzájáruló nyilatkozata is szükséges.
 
-a) az építtető tulajdonában lévő ingatlanon történő építési tevékenység végzése esetén
+(3) Az építési jogosultság a következő okiratokkal igazolható:
 
-aa) az érintett földrészlet tekintetében az építtető tulajdonjogának fennállására vonatkozó nyilatkozattal,
+a) az építtető tulajdonában lévő ingatlanon történő építési tevékenység végzése esetén az érintett földrészlet tekintetében az építtető tulajdonjogának fennállására vonatkozó nyilatkozatával, vagy tulajdonilap-másolattal,
 
-ab) jogerős és végrehajtható hagyatékátadó végzéssel,
+b) jogerős bírósági vagy jogerős és végrehajtható hatósági határozattal,
 
-ac) jogerős bírósági vagy jogerős és végrehajtható hatósági határozattal, vagy
+c) nem az építtető tulajdonában lévő ingatlanon történő építési tevékenység végzése esetén az ingatlan tulajdonosának, közös tulajdon esetén valamennyi tulajdonostárs hozzájáruló nyilatkozatával vagy az ezt pótló bírósági határozattal,
 
-ad) ha van egyéb, az ingatlannal rendelkezni jogosult személy, úgy annak hozzájáruló nyilatkozatával vagy az ezt pótló bírósági határozattal;
+d) társasház esetében közgyűlési határozattal vagy
 
-b) nem az építtető tulajdonában lévő ingatlanon történő építési tevékenység végzése esetén jogerős és végrehajtható hatósági határozattal vagy az ingatlannal rendelkezni jogosult hozzájáruló nyilatkozatával vagy az ezt pótló bírósági határozattal;
+e) szövetkezet esetében a szövetkezet hozzájáruló nyilatkozatával.
 
-c) a közös tulajdonban lévő ingatlanon történő építési tevékenység végzése esetén az ingatlannal rendelkezni jogosultak hozzájáruló nyilatkozatával vagy az ezt pótló bírósági határozattal;
+(4) A (2) bekezdés szerinti hozzájáruló nyilatkozatot közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni. A (3) bekezdés a) pontja szerint, ha az építtető tulajdonjogának fennállására vonatkozóan nyilatkozattal igazolja építési jogosultságát, a bányafelügyelet a nyilatkozatban foglaltak valódiságát az elektronikus szolgáltatásokat nyújtó országos földhivatali rendszeren, a TAKARNET-en keresztül, az érintett ingatlanok tulajdonilap-másolatának elektronikus formában történő lekérdezésével ellenőrzi.
 
-d) társasház esetében az a) pontban meghatározottakon túl
+(5) Nem kell az építési jogosultságot igazolni, ha az e rendelet hatálya alá tartozó sajátos építményt a bányászatról szóló 1993. évi XLVIII. törvény 38. § (10) bekezdése vagy a 38/A. § (5a) bekezdése szerinti közterületen helyezik el.
 
-da) a társasházi közös tulajdonban lévő ingatlanon történő építési tevékenység végzése esetén a társasház közgyűlésének határozatával,
-
-db) a társasházi külön tulajdonban álló ingatlanon tervezett építési tevékenység esetében, ha az építési tevékenység az alapító okiratban közös tulajdonként megjelölt építményrészt érinti, a közgyűlés hozzájáruló nyilatkozatával,
-
-dc) a társasházi külön tulajdonban álló ingatlanon történő, közös tulajdont nem érintő építési tevékenységhez a külön tulajdonnal rendelkezni jogosultak hozzájáruló nyilatkozatával,
-
-dd) ha az építtető nem társasházi tulajdonos, az építési jogosultság igazolására a b) pont az irányadó;
-
-e) a lakás-, üdülő-, garázsszövetkezet tulajdonában álló ingatlanon történő építési tevékenység esetében az a) pontban meghatározottakon túl a szövetkezet hozzájáruló nyilatkozatával
-
-ea) a szövetkezeti tag tulajdonában álló lakást, üdülőt vagy garázst érintő építési tevékenység esetében, ha az az épületszerkezetet is érinti,
-
-eb) a szövetkezet tulajdonában álló, az épülethez tartozó földrészletet, az épületszerkezetet, az épület közös használatra szolgáló területét és helyiségét, a központi berendezéseket, a lakást, továbbá a szövetkezet célját szolgáló más építményt és vagyontárgyat érintő építési tevékenység esetében;
-
-f) a jelzálogjoggal terhelt ingatlan esetében építmény bontására irányuló építésügyi hatósági engedélyezéskor a jelzálogjog jogosultjának hozzájáruló nyilatkozatával.
-
-(3) A (2) bekezdés b)–f) pontja szerinti hozzájáruló nyilatkozatot az építési jogosultság igazolásához közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni.
+[^3]: A 6. § a 311/2014. (XII. 11.) Korm. rendelet 35. §-ával megállapított szöveg.

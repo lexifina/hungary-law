@@ -1,6 +1,6 @@
 ## 10. Az építésügyi hatósági engedély hatálya
 
-11. § (1)[^7] A jogerős és végrehajtható elvi építési engedély egy évig hatályos, amely nem hosszabbítható meg. A jogerős és végrehajtható építési, bontási és rendeltetésmegváltoztatási engedély két évig hatályos. A jogerős és végrehajtható használatbavételi vagy fennmaradási engedély határozatlan ideig hatályos.
+11. § (1)[^9] A jogerős és végrehajtható elvi építési engedély egy évig hatályos, amely nem hosszabbítható meg. A jogerős és végrehajtható építési, bontási és rendeltetésmegváltoztatási engedély két évig hatályos. A jogerős és végrehajtható használatbavételi vagy fennmaradási engedély határozatlan ideig hatályos.
 
 (2) Az építési vagy a rendeltetés megváltoztatására irányuló engedély hatályát veszti, ha jogerőssé és végrehajthatóvá válásától számított két éven belül
 
@@ -18,4 +18,4 @@ b) az építési tevékenységet megkezdték, de a megkezdés napjától számí
 
 (5) A (2) bekezdés b) pontjában meghatározott esetben a sajátos építményre fennmaradási engedély kérhető.
 
-[^7]: A 11. § (1) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^9]: A 11. § (1) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 59. §-ával megállapított szöveg.

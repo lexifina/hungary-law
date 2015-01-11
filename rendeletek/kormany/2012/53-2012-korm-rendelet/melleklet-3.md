@@ -1,12 +1,12 @@
 3. melléklet az 53/2012. (III. 28.) Korm. rendelethez
 
-A bányafelügyelet engedélye nélkül, bejelentés alapján végezhető építési tevékenységek
+## A bányafelügyelet engedélye nélkül, bejelentés alapján végezhető építési tevékenységek
 
 1. A 33. § (1) bekezdése alapján bejelentéshez kötött építési tevékenységek
 
 1.1. A szénhidrogén termelésben, továbbfeldolgozásban vagy továbbfelhasználásban használt technológiai építményi csővezeték, a szénhidrogén szállító-, a földgáz elosztó- és célvezeték, valamint az egyéb gázok és gáztermékek szállítóvezetékeinek és ezek tartozékainak a meglévő biztonsági övezeten belüli, többlet szolgalmi jogot vagy vezetékjogot nem igénylő azonos vagy alacsonyabb nyomásfokozatúra történő kiváltása, ha az engedélyezettel azonos vagy korszerűbb műszaki jellemzőkkel és paraméterekkel bír.
 
-1.2.[^33] A 400 méter mélységet meg nem haladó mélyfúrás, az 5 méter mélységet meg nem haladó kutatóakna és a 2 méter mélységet meg nem haladó kutatóárok létesítése, ha
+1.2.[^38] A 400 méter mélységet meg nem haladó mélyfúrás, az 5 méter mélységet meg nem haladó kutatóakna és a 2 méter mélységet meg nem haladó kutatóárok létesítése, ha
 
 1.2.1. a szilárdásvány bányászat és a földtani kutatás területén a kutatást a hatóság engedélyezte, vagy
 
@@ -28,4 +28,4 @@ A bányafelügyelet engedélye nélkül, bejelentés alapján végezhető épít
 
 2.3. Nyomásszabályozó állomások főelemeinek – fő gázáramlásba épített elzáró szerelvények, nyomásszabályozó berendezés és tartozékai, biztonsági lefúvató és gyorszár – cseréje, ha az új elem az eredetivel megegyező funkciójú, nyomásfokozatú, illetve teljesítményű.
 
-[^33]: A 3. melléklet 1.2. pontja a 156/2014. (VI. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^38]: A 3. melléklet 1.2. pontja a 156/2014. (VI. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

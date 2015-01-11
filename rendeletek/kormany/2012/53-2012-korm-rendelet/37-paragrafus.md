@@ -1,4 +1,4 @@
-## 36. §[^22] A bányafelügyelet építésügyi és építésfelügyeleti eljárására az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendeletet – az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 64–66. §-ában foglalt rendelkezések kivételével – nem kell alkalmazni.
+## 36. §[^26] A bányafelügyelet építésügyi és építésfelügyeleti eljárására az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendeletet – az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 64–66. §-ában foglalt rendelkezések kivételével – nem kell alkalmazni.
 
 ## 19. Építésügyi hatósági, építésfelügyeleti intézkedések
 
@@ -26,4 +26,4 @@ c) a műszaki követelményeknek meg nem felelő építési termékek kicserél�
 
 (4) Ha a sajátos építmény az egészséget, az élet- vagy közbiztonságot, a természeti vagy épített környezetet vagy kulturális örökségi elemet közvetlenül veszélyezteti, és a veszélyhelyzet másként nem szüntethető meg, a sajátos építmény bontását kell elrendelni.
 
-[^22]: A 36. § az 559/2013. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^26]: A 36. § az 559/2013. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
