@@ -52,4 +52,4 @@ a) az átadó magánnyugdíjpénztárak (vagy jogutódjuk) havonta, az adott hó
 
 b) az átadó magánnyugdíjpénztár jogutód nélküli megszűnése esetén – a függő tételekből az átadó magánnyugdíjpénztár adatait kezelő szervezet által beazonosított, a pénztártagot illető tagdíjbefizetések és kapcsolódó hozamok összegének hitelt érdemlő igazolásával – a társadalombiztosítási nyugdíjrendszerbe visszalépett tag
 
-legkésőbb 2015. január 10-éig visszaigényelheti a Nyugdíjreform és Adósságcsökkentő Alaptól.
+legkésőbb 2017. december 31-éig visszaigényelheti a Nyugdíjbiztosítási Alaptól.
