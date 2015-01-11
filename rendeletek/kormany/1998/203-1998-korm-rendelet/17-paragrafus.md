@@ -1,6 +1,6 @@
 ## (A Bt. 30. §-ához)
 
-17. § (1)[^156] Szüneteltetésre vonatkozó műszaki üzemi terv legfeljebb 3 évi időtartamra hagyható jóvá. A szüneteltetési műszaki üzemi tervet a hatályos műszaki üzemi terv engedélyezett időtartamán belül, a tervezett szüneteltetés megkezdését megelőzően kell a bányakapitánysághoz benyújtani.
+17. § (1)[^172] Szüneteltetésre vonatkozó műszaki üzemi terv legfeljebb 3 évi időtartamra hagyható jóvá. A szüneteltetési műszaki üzemi tervet a hatályos műszaki üzemi terv engedélyezett időtartamán belül, a tervezett szüneteltetés megkezdését megelőzően kell a bányakapitánysághoz benyújtani.
 
 (2) A szüneteltetésre kidolgozott műszaki üzemi tervnek tartalmaznia kell
 
@@ -20,18 +20,18 @@ g) a szüneteltetés időszakában felhagyásra tervezett egyes bányatérségek
 
 h) a művelés újbóli megindításának feltételeit;
 
-i) a külön jogszabály[^157] szerinti térképeket.
+i) a külön jogszabály[^173] szerinti térképeket.
 
-(2a)[^158] A szüneteltetési műszaki üzemi tervhez mellékelni kell a 13. § (2) bekezdése szerinti okiratot, ha a szüneteltetés alatt a bányavállalkozó – a kitermelés kivételével – olyan tevékenységet kíván folytatni, amely idegen ingatlan igénybevételével jár.
+(2a)[^174] A szüneteltetési műszaki üzemi tervhez mellékelni kell a 13. § (2) bekezdése szerinti okiratot, ha a szüneteltetés alatt a bányavállalkozó – a kitermelés kivételével – olyan tevékenységet kíván folytatni, amely idegen ingatlan igénybevételével jár.
 
 (3) A szüneteltetés után a művelés újraindítása csak az erre kidolgozott és jóváhagyott műszaki üzemi terv alapján kezdhető meg.
 
-(4)[^159] A Bt. 30. § (2) bekezdése szerinti kieső bányajáradék pótlására megállapított díjat a 4. § (5) bekezdésében foglalt gyakorisággal és időpontoknak megfelelően kell megfizetni.
+(4)[^175] A Bt. 30. § (2) bekezdése szerinti kieső bányajáradék pótlására megállapított díjat a 4. § (5) bekezdésében foglalt gyakorisággal és időpontoknak megfelelően kell megfizetni.
 
-(5)[^160]
+(5)[^176]
 
-[^156]: A Vhr. 17. §-ának (1) bekezdése az 57/2008. (III. 26.) Korm. rendelet 13. §-ával megállapított, a 182/2009. (IX. 10.) Korm. rendelet 147. §-a, a 411/2012. (XII. 28.) Korm. rendelet 23. §-a szerint módosított szöveg.
-[^157]: 69/1995. (XII. 26.) IKM rendelet.
-[^158]: A Vhr. 17. § (2a) bekezdését a 411/2012. (XII. 28.) Korm. rendelet 17. §-a iktatta be.
-[^159]: A Vhr. 17. § (4) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 20. §-a hatályon kívül helyezte, újonnan az 559/2013. (XII. 31.) Korm. rendelet 13. §-a iktatta be.
-[^160]: A Vhr. 17. § (5) bekezdését a 411/2012. (XII. 28.) Korm. rendelet 23. §-a hatályon kívül helyezte.
+[^172]: A Vhr. 17. §-ának (1) bekezdése az 57/2008. (III. 26.) Korm. rendelet 13. §-ával megállapított, a 182/2009. (IX. 10.) Korm. rendelet 147. §-a, a 411/2012. (XII. 28.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^173]: 69/1995. (XII. 26.) IKM rendelet.
+[^174]: A Vhr. 17. § (2a) bekezdését a 411/2012. (XII. 28.) Korm. rendelet 17. §-a iktatta be.
+[^175]: A Vhr. 17. § (4) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 20. §-a hatályon kívül helyezte, újonnan az 559/2013. (XII. 31.) Korm. rendelet 13. §-a iktatta be.
+[^176]: A Vhr. 17. § (5) bekezdését a 411/2012. (XII. 28.) Korm. rendelet 23. §-a hatályon kívül helyezte.

@@ -1,8 +1,8 @@
 ## (A Bt. 22. §-ához)
 
-6. §[^46] (1) A nyílt területre vonatkozó kutatási engedély iránti kérelemnek tartalmaznia kell:
+6. §[^47] (1) A nyílt területre vonatkozó kutatási engedély iránti kérelemnek tartalmaznia kell:
 
-a)[^47] a kutatási terület közigazgatási megjelölését, az EOV rendszer szerinti koordinátákkal történő lehatárolását, a kutatás mélységi lehatárolását (a kutatási terület alap- és fedőlapját), szilárd ásványi nyersanyag esetében a kért kutatási területtel lefedett ingatlanok helyrajzi számát, és
+a)[^48] a kutatási terület közigazgatási megjelölését, az EOV rendszer szerinti koordinátákkal történő lehatárolását, a kutatás mélységi lehatárolását (a kutatási terület alap- és fedőlapját), szilárd ásványi nyersanyag esetében a kért kutatási területtel lefedett ingatlanok helyrajzi számát, és
 
 b) a kutatni tervezett ásványi nyersanyag megnevezését.
 
@@ -16,9 +16,11 @@ b) a bányavállalkozónak 5 éven belül arra a területre, amelyet a bányavá
 
 c) a kérelmezett terület azon részére vagy arra az ásványi nyersanyagra, amelyre vonatkozóan a jog megadása már megállapított bányászati jogot sértene.
 
-(4) A kutatási jogot engedélyező határozatnak tartalmaznia kell a kutatási területet a sarokpontok koordinátáival, és azt, hogy mely ásványi nyersanyag kutatására biztosít jogot.
+(4)[^49] A kutatási jogot engedélyező határozatnak tartalmaznia kell a kutatási területet a sarokpontok koordinátáival, a kutatási terület alap- és fedőlapját, és azt, hogy mely ásványi nyersanyag kutatására biztosít jogot.
 
-(5) A földtani szerkezetek megismerésére irányuló kutatás engedélyezésére az (1)–(2) bekezdésben foglaltakat kell megfelelően alkalmazni.
+(5)[^50]
 
-[^46]: A Vhr. 6. §-a a 411/2012. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^47]: A Vhr. 6. § (1) bekezdés a) pontja az 559/2013. (XII. 31.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
+[^47]: A Vhr. 6. §-a a 411/2012. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^48]: A Vhr. 6. § (1) bekezdés a) pontja az 559/2013. (XII. 31.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
+[^49]: A Vhr. 6. § (4) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
+[^50]: A Vhr. 6. § (5) bekezdését a 311/2014. (XII. 11.) Korm. rendelet 21. § (1) bekezdés a) pontja hatályon kívül helyezte.

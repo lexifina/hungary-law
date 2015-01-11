@@ -1,4 +1,4 @@
-25/A. §[^238] (1) Pénzügyi biztosítékként olyan eredeti bankgarancia fogadható el, amely
+25/A. §[^237] (1)[^238] Pénzügyi biztosítékként olyan eredeti garanciaszerződés, illetve a garanciavállaló nyilatkozat fogadható el, amely
 
 a) a Bt. 22/A. §-a (8) bekezdésében meghatározott összegre szól és az engedélyezésre kért kutatási időszakra érvényes, valamint a garanciát vállaló hitelintézet kielégíti a Bt. 22/A. §-a (8) bekezdésében támasztott követelményeket,
 
@@ -6,15 +6,15 @@ b)[^239] okiratban a garanciát vállaló hitelintézet arra vállal kötelezett
 
 c) kizárólag a bányafelügyelet jóváhagyásával vonható vissza, vagy visszavonhatatlan.
 
-(2)[^240] Nem fogadható el a bankgarancia, ha a bankgaranciát nyújtó vagy felülgarantáló hitelintézettel szemben a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 189. §-a szerinti kivételes intézkedésre kerül sor.
+(2)[^240] Nem fogadható el a garanciaszerződés, illetve a garanciavállaló nyilatkozat, ha a garantőr vagy külföldi garantőrt felülgarantáló hitelintézettel szemben a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 189. §-a szerinti kivételes intézkedésre kerül sor.
 
-(3) A bankgaranciának tartalmaznia kell
+(3)[^241] A garanciaszerződésnek, illetve a garanciavállaló nyilatkozatnak tartalmaznia kell
 
-a) a bankgaranciát nyújtó hitelintézet megnevezését, bankszámlaszámát,
+a) a garantőr megnevezését, bankszámlaszámát,
 
-b) az Európai Gazdasági Térség tagállamában székhellyel nem rendelkező külföldi hitelintézet garanciája esetén a felülgarantáló bank (hitelintézet) megnevezését, bankszámlaszámát,
+b) az Európai Gazdasági Térség tagállamában székhellyel nem rendelkező külföldi hitelintézet garantőr esetén a felülgarantáló bank (hitelintézet) megnevezését, bankszámlaszámát,
 
-c)[^241] a megbízó nevét, címét, pénzforgalmi számlaszámát, adószámát,
+c) a megbízó nevét, címét, pénzforgalmi számlaszámát, adószámát,
 
 d) a garancia összegét számmal és betűvel,
 
@@ -38,7 +38,8 @@ e) a pénzügyi biztosíték visszavonása, felhasználása, érvényesítése, 
 
 f) a rendelkezésre álló, felhasználható szabad keret összege, lejárat szerint részletezve.
 
-[^238]: A Vhr. 25/A. §-t a 145/2006. (VII. 11.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2006. augusztus 26. napját követően indult ügyekben kell alkalmazni.
+[^237]: A Vhr. 25/A. §-t a 145/2006. (VII. 11.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2006. augusztus 26. napját követően indult ügyekben kell alkalmazni.
+[^238]: A Vhr. 25/A. § (1) bekezdés nyitó szövegrésze a 311/2014. (XII. 11.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
 [^239]: A Vhr. 25/A. §-a (1) bekezdésének b) pontja a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^240]: A Vhr. 25/A. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^241]: A Vhr. 25/A. § (3) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^240]: A Vhr. 25/A. § (2) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^241]: A Vhr. 25/A. § (3) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 14. §-ával megállapított szöveg.

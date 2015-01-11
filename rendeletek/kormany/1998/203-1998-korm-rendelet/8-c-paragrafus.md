@@ -1,4 +1,4 @@
-8/C. §[^81] (1) Ha a kijelölt védőidomba tartozó térrészben jogerős vízjogi létesítési, vagy üzemeltetési engedéllyel rendelkező, termálvíz kitermelésére vagy visszasajtolására szolgáló kút van, a geotermikus energia kinyerés és hasznosítás megkezdéséhez a vízjogi engedélyessel kötött megállapodás szükséges. A megállapodást a műszaki üzemi terv jóváhagyása iránti kérelemhez mellékelni kell.
+8/C. §[^86] (1) Ha a kijelölt védőidomba tartozó térrészben jogerős vízjogi létesítési, vagy üzemeltetési engedéllyel rendelkező, termálvíz kitermelésére vagy visszasajtolására szolgáló kút van, a geotermikus energia kinyerés és hasznosítás megkezdéséhez a vízjogi engedélyessel kötött megállapodás szükséges. A megállapodást a műszaki üzemi terv jóváhagyása iránti kérelemhez mellékelni kell.
 
 (2) A kijelölt geotermikus védőidom zárttá nyilvánított térrészében olyan egyéb termálvíz kitermelésére szolgáló kút nem hozható létre, amely a hatásával a geotermikus energia-utánpótlódást korlátozná.
 
@@ -6,4 +6,4 @@
 
 (4) A geotermikus védőidom-nyilvántartás tartalmazza a védőidom alakjának egyértelmű meghatározásához szükséges mennyiségű térbeli pontok x, y és z koordinátáit, a kijelöléshez felhasznált műszaki és földtani alapadatokat, valamint módszereket és számításokat.
 
-[^81]: A Vhr. 8/C. §-át a 146/2012. (VII. 5.) Korm. rendelet 3. §-a iktatta be.
+[^86]: A Vhr. 8/C. §-át a 146/2012. (VII. 5.) Korm. rendelet 3. §-a iktatta be.

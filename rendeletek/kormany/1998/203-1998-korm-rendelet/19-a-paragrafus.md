@@ -1,4 +1,4 @@
-19/A. §[^169] (1) A szénhidrogén- és a széndioxid-szállítóvezeték (a továbbiakban együtt: szállítóvezeték), a földgáz elosztóvezeték (a továbbiakban: elosztóvezeték), az egyéb gáz és gáztermék vezeték, valamint a bányászati létesítmény és a célvezeték, továbbá környezetük védelmére, zavartalan üzemeltetése, ellenőrzése, karbantartása, javítása és az üzemzavar-elhárítás biztosítására biztonsági szabályzatban meghatározott méretű biztonsági övezetet kell megállapítani.
+19/A. §[^185] (1) A szénhidrogén- és a széndioxid-szállítóvezeték (a továbbiakban együtt: szállítóvezeték), a földgáz elosztóvezeték (a továbbiakban: elosztóvezeték), az egyéb gáz és gáztermék vezeték, valamint a bányászati létesítmény és a célvezeték, továbbá környezetük védelmére, zavartalan üzemeltetése, ellenőrzése, karbantartása, javítása és az üzemzavar-elhárítás biztosítására biztonsági szabályzatban meghatározott méretű biztonsági övezetet kell megállapítani.
 
 (2) A biztonsági övezeten belül tilos
 
@@ -32,7 +32,7 @@ e) a tereprendezés.
 
 (4) A biztonsági övezetben az építésügyi hatóság által jogerősen elrendelt bontási tevékenység elvégezhető.
 
-(5) A biztonsági övezeten belül az üzemeltetéshez, karbantartáshoz és javításhoz, valamint az üzemeltető hozzájárulásával más tevékenység végzéséhez szükséges létesítmények, anyagok ideiglenesen elhelyezhetők, tevékenységek folytathatók.
+(5)[^186] A biztonsági övezeten belül az üzemeltetéshez, karbantartáshoz, felújításhoz szükséges tevékenységek, beleértve az építési tevékenységet is, folytathatók, az ehhez szükséges létesítmények, anyagok ideiglenesen elhelyezhetők. Az üzemeltető előzetes írásbeli hozzájárulásával más személy a biztonsági övezetben végezni kívánt tevékenységhez szükséges létesítményeket, anyagokat ideiglenesen elhelyezheti.
 
 (6) Az (1) bekezdés szerinti létesítmény jelzéseinek, felszíni műtárgyainak eltakarása, megrongálása, eltávolítása tilos. A biztonsági övezettel érintett ingatlan tulajdonosa, kezelője vagy használója a biztonsági övezetre vonatkozó tilalmakat és korlátozásokat köteles betartani, továbbá nem végezhet olyan tevékenységet, amely a tilalmak és a korlátozások teljesülését veszélyeztetné.
 
@@ -42,4 +42,5 @@ e) a tereprendezés.
 
 (9) A biztonsági övezettel érintett ingatlanokra alapított vezetékjog, használati jog ingatlan-nyilvántartásba történő bejegyzését a létesítmény használatba vétele iránti kérelem benyújtása előtt kezdeményezni kell. Azokban a jogszabályban meghatározott esetekben, amikor szolgalmi jog, vezetékjog, használati jog az ingatlan-nyilvántartásba nem jegyezhető be, az üzemeltető a biztonsági övezetről, az előírt korlátozásokról és tilalmakról, valamint ezek megváltozásáról köteles az érintett ingatlantulajdonost (kezelőt, használót) az üzembe helyezés előtt, és a változást követően 30 napon belül írásban tájékoztatni.
 
-[^169]: A Vhr. 19/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 25. §-a iktatta be, szövege az 559/2013. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^185]: A Vhr. 19/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 25. §-a iktatta be, szövege az 559/2013. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^186]: A Vhr. 19/A. § (5) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 9. §-ával megállapított szöveg.
