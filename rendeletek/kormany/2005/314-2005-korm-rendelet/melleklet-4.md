@@ -82,6 +82,8 @@
 
 | 19. | Egyéb bányászat (amennyiben nem tartozik az 1. számú mellékletbe), kivéve az önállóan létesített ásványfeldolgozó üzemet | méretmegkötés nélkül |
 
+| 19a. | Vizek kártételei elleni védelem és védekezés célját szolgáló közcélú vízilétesítmények építéséhez szükséges ásványi nyersanyagot biztosító anyagnyerő hely | védett természeti területen, Natura 2000 területen |
+
 | Feldolgozóipar |
 
 | 20. | Húsfeldolgozó üzem | 10 ezer t/év késztermék előállításától |
@@ -452,4 +454,4 @@
 
 4. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez
 
-[^169]: A 3. számú melléklet a 145/2012. (VII. 3.) Korm. rendelet 40. § (4) bekezdésével megállapított, a 175/2012. (VII. 26.) Korm. rendelet 2. §-a, a 441/2012. (XII. 29.) Korm. rendelet 10. § (4)–(5) bekezdése, az 559/2013. (XII. 31.) Korm. rendelet 30. §-a, a 100/2014. (III. 25.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^169]: A 3. számú melléklet a 145/2012. (VII. 3.) Korm. rendelet 40. § (4) bekezdésével megállapított, a 175/2012. (VII. 26.) Korm. rendelet 2. §-a, a 441/2012. (XII. 29.) Korm. rendelet 10. § (4)–(5) bekezdése, az 559/2013. (XII. 31.) Korm. rendelet 30. §-a, a 100/2014. (III. 25.) Korm. rendelet 5. § (1) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 24. §-a szerint módosított szöveg.
