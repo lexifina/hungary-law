@@ -18,13 +18,12 @@ a) a szakhatósági megkereséshez csatolni kell a talajvédelmi tervet, és
 
 b) az élelmiszerlánc-felügyeleti szerv szakhatóságként jár el.
 
-(4) A Kormány – függetlenül a kitermelt ásványi nyersanyag felhasználási módjától – az ásványi nyersanyag kitermeléssel járó mezőgazdasági célú tereprendezés engedélyezésére irányuló másodfokú eljárásban
+(4)[^50] A Kormány a mezőgazdasági célú tereprendezés engedélyezésére irányuló másodfokú eljárásban, ha a tereprendezés
 
-a) a bányatelek, a bányatelekkel nem rendelkező felhagyott bánya, meddőhányó, célkitermelő hely, bányászati tevékenységgel érintett egyéb terület, bányászati vagy gázipari létesítmények biztonsági övezetének, illetve – az ugyanazon helyrajzi számú földrészletről nyíló, egyenként 100 m2-nél nagyobb alapterületű, mesterségesen földbe vájt üregek együttes alapterületével számolva – a 300 m2-nél nagyobb alapterületű, bányászati módszerekkel kialakított föld alatti térség, föld alatti tároló térség tereprendezéssel történő érintettségének megállapításával,
+a) nyomvonaljellegű kőolaj- és földgázbányászati létesítmény, szállítóvezeték, elosztóvezeték, célvezeték, valamint egyéb gáz és gáztermék vezeték biztonsági övezetében valósul meg, és az építtető az üzemeltetőnek a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet 19/B. § (2) bekezdése szerinti egyetértésének megtagadását vagy az üzemeltető által az egyetértés megadásához szabott feltételeket sérelmesnek tartja – az üzemeltető nyilatkozatában foglalt feltételek vagy a hozzájárulás megtagadása a gázipari tevékenységgel kapcsolatos létesítmény rendeltetésszerű használatával és védelmével kapcsolatos jogszabályi rendelkezéseknek való megfelelőség vizsgálata szakkérdésben –, vagy
 
-b) a tereprendezés során kitermelt ásványi nyersanyag felhasználása, értékesítése, hasznosítása feltételeinek és a fizetendő bányajáradék mértékének meghatározásával
-
-kapcsolatos szakkérdésben a Magyar Bányászati és Földtani Hivatalt szakhatóságként jelöli ki.
+b) ásványi nyersanyag kitermeléssel jár, a kitermelni tervezett ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módja meghatározása, az ásványvagyon-védelmi szempontok érvényesítése, valamint a bányajáradék-fizetési kötelezettség megállapítása szakkérdésben
 
 [^48]: A 24. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 638. §-ával megállapított szöveg.
 [^49]: A 24. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 638. §-ával megállapított szöveg.
+[^50]: A 24. § (4) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 34. §-ával megállapított szöveg.
