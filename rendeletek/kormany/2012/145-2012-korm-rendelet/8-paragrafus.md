@@ -1,26 +1,24 @@
-8. § (1) A földtani kutatási engedély átruházása iránti kérelemhez mellékelni kell:
+8. § (1)[^11] A szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély átruházása iránti kérelemhez mellékelni kell:
 
-a) a földtani kutatási engedély átruházására vonatkozó, közokiratba vagy ügyvéd, jogtanácsos által ellenjegyzett magánokiratba foglalt megállapodást,
+a) a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély átruházására vonatkozó, közokiratba vagy ügyvéd, jogtanácsos által ellenjegyzett magánokiratba foglalt megállapodást,
 
-b) az átvevő közokiratba vagy ügyvéd, jogtanácsos által ellenjegyzett magánokiratba foglalt nyilatkozatát a kutatási engedélyben foglalt tevékenységgel összefüggésben az átadót terhelő kötelezettségek átvállalásáról,
+b) az átvevő közokiratba vagy ügyvéd, jogtanácsos által ellenjegyzett magánokiratba foglalt nyilatkozatát a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedélyben foglalt tevékenységgel összefüggésben az átadót terhelő kötelezettségek átvállalásáról,
 
-c)[^2]
+c) az átvevő ajánlatát a kutatási biztosítékra, amely nem lehet kevesebb az átadó által nyújtott biztosítéknál,
 
-d) az átvevő ajánlatát a kutatási biztosítékra, amely nem lehet kevesebb az átadó által nyújtott biztosítéknál,
+d) a tevékenység gyakorlására előírt jogszabályi feltételek, szakmai és egyéb követelmények teljesítésének igazolását,
 
-e) a tevékenység gyakorlására előírt jogszabályi feltételek, szakmai és egyéb követelmények teljesítésének igazolását,
+e) az átadó által megépített létesítmények tulajdon-, használati jogának rendezésére vonatkozó megállapodást,
 
-f) az átadó által megépített létesítmények tulajdon-, használati jogának rendezésére vonatkozó megállapodást,
+f) az átadó nyilatkozatát a kutatási engedélyt terhelő jogokról,
 
-g) az átadó nyilatkozatát a kutatási engedélyt terhelő jogokról,
+g) az átvevő – a kérelem benyújtását megelőző három évre vonatkozó, a számvitelről szóló törvénynek megfelelő – éves beszámolóját, vagy új szervezet esetében a 3 évre szóló auditált üzleti tervét,
 
-h) az átvevő – a kérelem benyújtását megelőző három évre vonatkozó, a számvitelről szóló törvénynek megfelelő – éves beszámolóját, vagy új szervezet esetében a 3 évre szóló auditált üzleti tervét,
+h) a kérelem benyújtását megelőző három évre vonatkozó, az átvevő szakmai tevékenységét és kötelezettségei teljesítését bemutató beszámolót, valamint
 
-i) a kérelem benyújtását megelőző három évre vonatkozó, az átvevő szakmai tevékenységét és kötelezettségei teljesítését bemutató beszámolót, valamint
+i) az átvevő fizetőképességét igazoló pénzintézeti igazolást.
 
-j) az átvevő fizetőképességét igazoló pénzintézeti igazolást.
+(2)[^12] Ha az átvevő cégjegyzékben nyilvántartott cég a cég cégkivonatát a bányafelügyelet a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(2)[^3] Ha az átvevő cégjegyzékben nyilvántartott cég a cég cégkivonatát a bányafelügyelet a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
-
-[^2]: A 8. § (1) bekezdés c) pontját a 355/2012. (XII. 13.) Korm. rendelet 50. §-a hatályon kívül helyezte.
-[^3]: A 8. § (2) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 49. §-ával megállapított szöveg.
+[^11]: A 8. § (1) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^12]: A 8. § (2) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 49. §-ával megállapított szöveg.

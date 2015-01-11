@@ -1,6 +1,6 @@
-## 2. A földtani kutatási engedély
+## 2. [^2] A szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély
 
-3. § (1) A földtani kutatási engedély iránti kérelemnek tartalmaznia kell:
+3. § (1)[^3] A szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély iránti kérelemnek tartalmaznia kell:
 
 a) a kutatási munkaprogramot és annak költségvetését,
 
@@ -27,3 +27,6 @@ e) a részletes kutatási költségtervet.
 (5) Az (1) bekezdés c) pontja szerinti javaslatnak tartalmaznia kell a kutatással összefüggésben várható károk rendezésére, a környezet- és természetvédelmi, a tájrendezési és bányakár kötelezettségek teljesítésére szolgáló biztosíték ismertetését. A kérelmező a kutatási biztosíték rendelkezésre állásáról szóló igazolást a bányafelügyelet által megállapított határidőn belül megküldi a bányafelügyeletnek.
 
 (6) A kutatási biztosíték az Európai Gazdasági Térség valamely tagállamában székhellyel rendelkező hitelintézet által nyújtott bankgarancia lehet. Olyan hitelintézet által nyújtott bankgarancia, amelynek esetében a hitelintézet székhelye nem az Európai Gazdasági Térség valamely tagállamában van, csak akkor fogadható el, ha azt az Európai Gazdasági Térség valamely tagállamában székhellyel rendelkező hitelintézet felülgarantálja.
+
+[^2]: A 2. alcím címe a 311/2014. (XII. 11.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdés nyitó szövegrésze a 311/2014. (XII. 11.) Korm. rendelet 44. § a) pontja szerint módosított szöveg.

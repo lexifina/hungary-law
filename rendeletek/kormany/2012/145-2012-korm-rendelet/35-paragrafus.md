@@ -4,7 +4,7 @@
 
 35. § (1) Ha az üzemeltető
 
-a) a szén-dioxid geológiai tárolása érdekében a kutatási tevékenységet földtani kutatási engedély nélkül folytatja 100 000 000 forintig,
+a)[^13] a szén-dioxid geológiai tárolása érdekében a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási tevékenységet kutatási engedély nélkül folytatja 100 000 000 forintig,
 
 b) a szén-dioxid geológiai tárolására irányuló tevékenységet tárolási engedély nélkül folytatja 500 000 000 forintig,
 
@@ -41,3 +41,5 @@ c) a jogsértésnek a szén-dioxid geológiai tárolására gyakorolt káros hat
 d) az üzemeltető által a jogsértés megszüntetésére tett, a bányafelügyelet eljárásától független, azt megelőző tevékenységet, intézkedést és
 
 e) az üzemeltető korábbi jogsértő magatartását.
+
+[^13]: A 35. § (1) bekezdése a) pontja a 311/2014. (XII. 11.) Korm. rendelet 43. §-ával megállapított szöveg.

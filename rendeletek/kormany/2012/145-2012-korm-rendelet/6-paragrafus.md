@@ -1,5 +1,7 @@
-6. § (1) A földtani kutatás eredményéről az engedélyes kutatási zárójelentést készít a 2. melléklet II. pontjában meghatározottak szerint, amelyet földtani szakértőnek kell ellenjegyeznie.
+6. § (1)[^7] A szén-dioxid geológiai tárolásához kapcsolódó földtani kutatás eredményéről az engedélyes kutatási zárójelentést készít a 2. melléklet II. pontjában meghatározottak szerint, amelyet földtani szakértőnek kell ellenjegyeznie.
 
 (2) A kutatási zárójelentésnek az (1) bekezdésben előírtak mellett tartalmaznia kell az arra vonatkozó megállapítást és az annak alapjául szolgáló kutatási eredményeket és adatokat, hogy a vizsgált geológiai formációnak szén-dioxid geológiai tárolására történő használata esetén, fennáll-e a szivárgásnak, az emberi egészség veszélyeztetésének és a környezetkárosodásnak a jelentős kockázata.
 
 (3) Ha az engedélyes tárolási engedély iránti kérelmet nem nyújt be, a kutatási zárójelentést a bányafelügyeletnek a kutatási időszak leteltét követő 3 hónapon belül kell megküldeni.
+
+[^7]: A 6. § (1) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
