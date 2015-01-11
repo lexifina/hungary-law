@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-23-20-2
 | 2010-05-12 | 2006-23-20-22.5 | 163/2010. (V. 11.) Korm. rendelet |
 | 2012-04-15 | 2006-23-20-22.6 | 63/2012. (IV. 2.) Korm. rendelet |
 | 2014-01-01 | 2006-23-20-22.7 | 559/2013. (XII. 31.) Korm. rendelet |
+| 2015-01-11 | 2006-23-20-22.8 | 311/2014. (XII. 11.) Korm. rendelet |
