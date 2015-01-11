@@ -14,6 +14,6 @@
 
 | 6. | Ha a vasúti állomás épületének felszín feletti része építésügyi hatósági engedélyhez kötött építési tevékenység. | Annak elbírálásában, hogy a felszín feletti épületrész az OTÉK 50. § (2) bekezdésében foglalt követelményeknek megfelel-e. | a járási (fővárosi kerületi) hivatal építésügyi hivatala, illetve építésügyi és örökségvédelmi hivatala | az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 1. § (5) bekezdésében meghatározott hatóság |
 
-2. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^251]
+2. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^252]
 
-[^251]: A 2. mellékletet a 326/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^252]: A 2. mellékletet a 326/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdés c) pontja hatályon kívül helyezte.

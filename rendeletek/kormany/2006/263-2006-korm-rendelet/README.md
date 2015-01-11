@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-263-20-
 | 2014-08-23 | 2006-263-20-22.54 | 207/2014. (VIII. 15.) Korm. rendelet |
 | 2014-09-10 | 2006-263-20-22.55 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-01-01 | 2006-263-20-22.56 | 397/2014. (XII. 31.) Korm. rendelet |
+| 2015-01-11 | 2006-263-20-22.57 | 311/2014. (XII. 11.) Korm. rendelet |
