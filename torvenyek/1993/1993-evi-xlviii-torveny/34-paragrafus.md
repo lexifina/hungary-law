@@ -4,7 +4,7 @@
 
 (2) A biztonsági szabályzatokat külön jogszabály teszi közzé.
 
-(3) A bányavállalkozó, illetve a gázipari engedélyes köteles gondoskodni arról, hogy a személyek, a környezet és a vagyon védelmére kidolgozott üzemi szabályzatok a dolgozók rendelkezésére álljanak, továbbá a biztonsági előírások megtartásának ellenőrzéséről és a tevékenység felügyeletéről. Az ellenőrzés és a felügyelet rendjére vonatkozó üzemi előírásokat a bányafelügyeletnek meg kell küldeni.
+(3) A bányavállalkozó, illetve a gázipari engedélyes köteles gondoskodni a biztonsági előírások megtartásának ellenőrzéséről és a tevékenység felügyeletéről, továbbá arról, hogy a személyek, a környezet és a vagyon védelmére kidolgozott üzemi szabályzatok a munkavállalók rendelkezésére álljanak.
 
 (4) A bányavállalkozónak a bányafelügyelet által kijelölt üzemekben bányamentő, illetőleg kitörésvédelmi szolgálatról kell gondoskodni és üzemzavar elhárítási, illetőleg kitörésvédelmi tervet kell készíteni. A tervet a bányafelügyeletnek meg kell küldeni.
 

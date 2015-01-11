@@ -28,11 +28,15 @@ j) a bányászati hulladék kezelése;
 
 k) az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása, hasznosítása és bezárása, és a szén-dioxid geológiai tárolás céljából csővezetéken történő szállítása;
 
-l) az a)–k) pontokban felsorolt tevékenységek gyakorlásához szükséges létesítmények és berendezések.
+l) a földtani kutatás, ide nem értve a nukleáris létesítmény, radioaktívhulladék-tároló és radioaktív hulladék átmeneti tárolója telephelyének vizsgálatához, értékeléséhez, telepítéséhez szükséges földtani kutatást,
+
+m) a vizek kártételei elleni védelem és védekezés célját szolgáló közcélú vízilétesítmények létesítéséhez szükséges ásványinyersanyag-kinyerő helyek létesítése, üzemeltetése, megszüntetése,
+
+n) az a)–m) pontokban felsorolt tevékenységek gyakorlásához szükséges létesítmények és berendezések, valamint a nukleáris létesítmény, a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója telephelyének vizsgálatához, értékeléséhez, telepítéséhez szükséges földtani kutatást szolgáló sajátos építmények.
 
 (2) Az (1) bekezdés a) pontjában meghatározott tevékenységnek minősül a torlatban, hordalékban előforduló ásványi nyersanyagok kutatása és kitermelése is.
 
-(3) E törvény bányakárokra (37. §), ingatlanhasználatra (38. §) és a bányafelügyeletnek a mélyfúrási és polgári robbantási tevékenységekre előírt műszaki biztonsági és engedélyezési hatáskörére (44. §) vonatkozó rendelkezéseit kell alkalmazni a geológiai képződmények és szerkezetek földtani kutatására is.
+(3)
 
 (4) A vizekre, ha e törvény másként nem rendelkezik, a környezetvédelmi és a vízügyi jogszabályok az irányadók.
 
@@ -44,6 +48,6 @@ b) a kézi erővel végzett aranymosás.
 
 (6) A felsorolt — és e törvény hatálya alá tartozó — tevékenységekhez szükséges létesítményeknek minősülnek a bányavasutak, a bányászati kötélpályák és szalagpályák, továbbá a mezőn belüli és a mezők közötti gyűjtő vezetékek.
 
-(7) Az építési vagy talajvédelmi engedély alapján végzett tereprendezéssel, a vízjogi engedély alapján végzett mederalakítással összefüggő, valamint katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet elhárításához szükséges ásványi nyersanyag kitermelésre a 3. §, 20. §, 41. §, és 44. § rendelkezéseit kell alkalmazni.
+(7) A bányafelügyelet engedélyétől eltérő, más hatósági engedély alapján végzett, valamint katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet elhárításához szükséges ásványi nyersanyag kitermelésre a 3. §, 20. §, 25. §, 41. §, 41/A. § és 44. § rendelkezéseit kell alkalmazni.
 
 (8) A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény (a továbbiakban: Aptv.) 1. és 2. mellékletében meghatározott gyorsforgalmi utak földművei (töltései) megépítéséhez szükséges cél-kitermelőhelyeken folytatott kitermelő tevékenységre e törvény rendelkezései csak annyiban alkalmazhatók, amennyiben azt az Aptv. elrendeli.

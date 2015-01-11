@@ -1,8 +1,8 @@
 ## A tárolásra vonatkozó engedély
 
-42/E. § (1) A tárolási engedély akkor adható meg, ha a földtani kutatás alapján a tárolóhely szén-dioxid geológiai tárolására alkalmas.
+42/E. § (1) A tárolási engedély akkor adható meg, ha a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatás alapján a tárolóhely szén-dioxid geológiai tárolására alkalmas.
 
-(2) A bányafelügyelet a földtani kutatási engedély alapján folytatott kutatási tevékenység végzése alatt a kutatással érintett lehetséges tárolóhely területén másnak tárolási engedélyt nem ad.
+(2) A bányafelügyelet a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély alapján folytatott kutatási tevékenység végzése alatt a kutatással érintett lehetséges tárolóhely területén másnak tárolási engedélyt nem ad.
 
 (3) A bányafelügyelet a tárolóhelyre vonatkozó kutatási engedély jogosultját a tárolási engedély megadása során elsőbbségben részesíti, ha a kutatási engedélyben meghatározott feltételek teljesültek, és a tárolási engedély iránti kérelmet a kutatási engedély hatálya alatt nyújtotta be.
 

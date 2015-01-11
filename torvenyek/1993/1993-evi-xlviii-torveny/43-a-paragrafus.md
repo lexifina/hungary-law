@@ -6,7 +6,9 @@
 
 (2a) A bányafelügyelet által folytatott eljárásokban az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogait csak akkor gyakorolhatja, ha az elsőfokú eljárásban nyilatkozatot tett vagy kérelmet nyújtott be.
 
-(3) Ha a bányafelügyeleti eljárásban több mint ötven ügyfél vagy több mint öt, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény 15. § (5) bekezdésében meghatározott szervezet vesz részt, a bányafelügyelet akkor tart közmeghallgatást, ha azt a tényállás tisztázása érdekében indokoltnak tartja.
+(2b) A bányafelügyelet döntésének jogerőre emelkedésétől és végrehajthatóvá válásától számított hat hónapos határidőn túl további ügyfél nem vehet részt az eljárásban. A határidő elmulasztása esetén igazolási kérelem benyújtásának nincs helye.
+
+(3) Ha a bányafelügyeleti eljárásban több mint ötven ügyfél vagy több mint öt, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 15. § (5) bekezdésében meghatározott szervezet vesz részt, a bányafelügyelet akkor tart közmeghallgatást, ha azt a tényállás tisztázása érdekében indokoltnak tartja.
 
 (4) Ha a bányafelügyelet engedélyezési eljárásaiban – ellenérdekű ügyfél hiányában – a szakhatóság az előírt határidőn belül nem ad állásfoglalást, a hozzájárulását megadottnak kell tekinteni.
 

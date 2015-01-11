@@ -4,7 +4,7 @@
 
 a) nyílt területen az ásványi nyersanyagkutatást,
 
-b) a bányatelek megállapítását követően az ásványvagyon feltárását és kitermelését, továbbá
+b) a bányatelek megállapítását követően az ásványvagyon feltárását és kitermelését, valamint a kitermelés szüneteltetését,
 
 c) a meddőhányó hasznosítását,
 
@@ -20,7 +20,13 @@ h) a bányászati hulladék kezelését,
 
 i) a polgári robbantási tevékenységet és a polgári felhasználású robbanóanyag forgalmazását,
 
-j) a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenység folytatását.
+j) a bányafelügyelet hatáskörébe tartozó nyomástartó berendezések és rendszerek engedélyköteles létesítését, javítását, átalakítását, használatbavételét, továbbá a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenység folytatását,
+
+k) a földtani kutatást,
+
+l) a vizek kártételei elleni védelem és védekezés célját szolgáló közcélú vízilétesítmények létesítéséhez szükséges ásványinyersanyag-kinyerő helyek létesítését, üzemeltetését, megszüntetését,
+
+m) az ásványvagyon-gazdálkodási célokat szolgáló, a szénhidrogén kutatása és kitermelése során alkalmazott rétegrepesztést, rétegsavazást, gázbesajtolást, rétegenergia-pótlást, valamint a rétegrepesztési technológia és rétegenergia-pótlás céljából alkalmazott vízbesajtolást.
 
 (2) A kőolaj- és földgázbányászatra jogosult bányavállalkozó – a Magyar Energetikai és Közmű-szabályozási Hivatal földgáztárolásra vonatkozó működési engedélyének birtokában – a bányafelügyeletnél kezdeményezheti a bányatelek föld alatti gáztárolásra történő kiterjesztésének engedélyezését, ha az a környezetet nem szennyezi, veszélyezteti vagy károsítja.
 
@@ -28,6 +34,10 @@ j) a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevéken
 
 (4) A bányafelügyelet az engedély kiadását nem tagadhatja meg, ha az engedély iránti kérelemben foglaltak a jogszabályokban meghatározott követelményeknek megfelelnek.
 
-(4a) A bányafelügyelet kutatási engedélyt nem ad, bányatelket nem állapít meg, valamint a bányafelügyelet az (1) bekezdés szerinti engedély iránti kérelmet – a bányabezárási és tájrendezési műszaki üzemi terv jóváhagyási kérelem kivételével – elutasítja, ha a kérelmezőnek koncessziós díj, bányajáradék, felügyeleti díj, jogerős és végrehajtható kiesett bányajáradék pótlására megállapított díj-, térítésidíj- vagy bírságtartozása van.
+(4a) A bányafelügyelet kutatási engedélyt nem ad, bányatelket nem állapít meg, valamint az (1) bekezdés szerinti engedély iránti kérelmet – a bányabezárási és tájrendezési műszaki üzemi terv jóváhagyási kérelem kivételével – elutasítja, ha
+
+a) a kérelmezőnek koncessziós díj, bányajáradék, felügyeleti díj, jogerős és végrehajtható határozattal megállapított kiesett bányajáradék pótlására megállapított díj, térítési díj vagy bírság tartozása van, vagy
+
+b) a kérelmező a bányajáradék bevallására vonatkozó kötelezettségét nem teljesítette.
 
 (5) Az e törvény alapján engedélyköteles bányászati tevékenységre vonatkozó jogvesztő határidőbe, illetve a bányászati tevékenység végzésére engedélyezett időtartamba nem számít bele az a kieső időtartam, amely – a hatóságnak az eljárás lefolytatásával összefüggő, az arra jogszabály alapján nyitva álló határidőn belül folytatott tevékenysége szerinti időtartamot ide nem értve – a bányavállalkozó önhibáján kívül a hatóság döntése, intézkedése vagy mulasztása miatt következett be. A kiesés okát a bányavállalkozónak kell igazolnia.

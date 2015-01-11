@@ -8,17 +8,7 @@
 
 (4)
 
-(5) A bányafelügyelet gondoskodik azon területeknek a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és az Európai Unió Hivatalos Lapjában történő közzétételéről,
-
-a) amelyek nem tartoznak az (1)–(3) bekezdés szerint kijelölt területek közé, mert ezek bármely vállalkozás részére kutatási engedélykérelem szempontjából állandóan rendelkezésre álló területnek minősülnek;
-
-b) amelyekre az (1)–(3) bekezdés szerinti eljárást követően nem került engedély kiadásra;
-
-c) amelyekre az engedélyesek a kutatási területeket visszaadták;
-
-d) amelyek a 26/A. § (6) bekezdése alapján szabadultak fel.
-
-(6) Az (5) bekezdésben meghatározott területeket ismertető hirdetményben fel kell tüntetni azt is, hogy a területre és az engedélyezési eljárásra vonatkozóan hol lehet részletes információkat kapni. A hirdetményben fel kell tüntetni továbbá az előnyben részesítés esetleges szempontjait. E szempontok meghatározásánál az egyenlő bánásmód követelményét meg kell tartani. A hirdetmény bármely jelentős változásáról újabb hirdetményt kell kiadni. E területekre vonatkozó, engedélyezésre irányuló kérelmet csak a hirdetmény megjelenését követően, a kérelmeknek a bányafelügyelethez történt beérkezésének sorrendjében lehet elbírálni.
+(5)–(6)
 
 (7) Nemzetbiztonsági okokból megtagadható vagy visszavonható az engedély olyan vállalkozás esetében, amely az Európai Unió tekintetében harmadik országok vagy harmadik országok állampolgárainak irányítása alatt áll.
 

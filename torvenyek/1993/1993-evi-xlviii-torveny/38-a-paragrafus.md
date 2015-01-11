@@ -26,9 +26,9 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 (5) Előmunkálati jog, vezetékjog, valamint használati jog az engedélyesnek az ingatlan tulajdonosával kötött megállapodása alapján keletkezik. Megállapodás hiányában az előmunkálati jogot, a vezetékjogot, valamint a használati jogot a bányafelügyelet engedélyezi.
 
-(5a) Közterületen elhelyezendő elosztóvezetékre vagy a 38/D. § (1) bekezdésében meghatározott létesítményre vezetékjogot vagy használati jogot alapítani nem lehet. Az elosztóvezeték vagy a 38/D. § (1) bekezdésében meghatározott létesítmény közterületen történő elhelyezését a közterület tulajdonosa tűrni köteles. A közterület igénybevételével – beleértve a közterület használati korlátázását is – okozott károkért az építtető köteles kártalanítást fizetni.
+(5a) Közterületen elhelyezendő elosztóvezetékre vagy a 38/D. § (1) bekezdésében meghatározott létesítményre és ezek közterületet érintő biztonsági övezetére vezetékjogot vagy használati jogot alapítani nem lehet. Az elosztóvezeték vagy a 38/D. § (1) bekezdésében meghatározott létesítmény közterületen történő elhelyezését a közterület tulajdonosa tűrni köteles. A közterület igénybevételével – beleértve a közterület használati korlátázását is – okozott károkért az építtető köteles kártalanítást fizetni.
 
-(5b) Nem lehet vezetékjogot vagy használati jogot alapítani akkor sem, ha az elosztóvezeték vagy a 38/D. § (1) bekezdésében meghatározott létesítmény közutat, vasúti pályát, folyóvizek, csatornák területét érinti. Az ilyen terület igénybevételére az érintetteknek megállapodást kell kötni.
+(5b) Nem lehet vezetékjogot vagy használati jogot alapítani akkor sem, ha az elosztóvezeték vagy a 38/D. § (1) bekezdésében meghatározott létesítmény vasúti pályát, folyóvizek, csatornák területét érinti. Az ilyen terület építési tevékenységgel történő igénybevételére és a létesítmények üzemeltetésére az érintetteknek megállapodást kell kötni. A megállapodás alkalmas az építési jogosultság igazolására.
 
 (5c) Az (5b) bekezdés szerinti megállapodás nem korlátozhatja a 38/C. § (5) bekezdés a)–c) pontjában és a 38/D. § (2) bekezdésben foglalt jogokat.
 

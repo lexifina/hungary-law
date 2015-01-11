@@ -1,6 +1,6 @@
 ## Bányabezárás, mező felhagyás
 
-42. § (1) A kitermelés befejezésekor a bányabezárásra, a szénhidrogén mező felhagyására kidolgozott műszaki üzemi terv [27. § (4) bek.] elbírálása során vizsgálni kell a megszűnt bánya föld alatti térségeinek és egyéb közcélra hasznosítható létesítményeinek, illetve a felhagyott szénhidrogéntelepnek más célú hasznosítási lehetőségét is. Ennek során figyelemmel kell lenni a meddőhányó(k) hasznosítására és megszüntetésére.
+42. § (1) A kitermelés befejezésekor a bányabezárásra, a szénhidrogén mező felhagyására kidolgozott műszaki üzemi terv elbírálása során vizsgálni kell a megszűnt bánya föld alatti térségeinek és egyéb közcélra hasznosítható létesítményeinek, illetve a felhagyott szénhidrogéntelepnek más célú hasznosítási lehetőségét is. Ennek során figyelemmel kell lenni a meddőhányó(k) hasznosítására és megszüntetésére.
 
 (2) A hasznosításra nem kerülő föld alatti bányatérséget olyan állapotban szabad felhagyni, hogy az sem a környezetre, sem a felszínre veszélyt ne jelentsen.
 

@@ -22,11 +22,15 @@ aa) a kitermelési határidő meghosszabbítását a bányafelügyeletnél nem k
 
 ab) a bányafelügyelet a meghosszabbítás iránti kérelmet jogerős döntésében elutasította és a döntés végrehajtható,
 
-b) a térítésfizetési kötelezettségének nem tesz eleget, vagy
+b) a térítésfizetési kötelezettségének határidőre nem tesz eleget, vagy
 
 c) a gazdálkodó szervezet jogutód nélkül megszűnik.
 
-(6) A 12. § (3) bekezdése szerinti eset kivételével a bányateleken fennálló bányászati jog új jogosítottját – pályáztatást követően – a bányafelügyelet határozatban jelöli ki.
+(6) A 12. § (3) bekezdése szerinti eset kivételével a bányateleken fennálló bányászati jog új jogosultját – pályáztatást követően – a bányafelügyelet jelöli ki.
+
+(6a) Ha az új jogosult kijelölése olyan bányatelek tekintetében történik, amelyen a bányatelek megállapítását követően még kitermelési tevékenységet nem végeztek, akkor az új jogosult a kijelöléstől számított öt éven belül köteles az üzemszerű kitermelést megkezdeni. Az ötéves határidő a (4) bekezdésben foglaltak szerint meghosszabbítható. Az (5) bekezdésben foglalt jogkövetkezményeket az új jogosult tekintetében is alkalmazni kell.
+
+(6b) Ha az új jogosult kijelölése olyan bányatelek tekintetében történik, amelyen a bányatelek megállapítását követően már megkezdték a kitermelést, akkor az új jogosult a kijelöléstől számított egy éven belül köteles az üzemszerű kitermelést megkezdeni. Az egyéves határidő nem hosszabbítható meg. Az egyéves határidőbe a kitermelés megkezdéséhez szükséges hatósági engedélyek megszerzéséhez szükséges hatósági eljárások időtartama nem számít bele.
 
 (7) A pályázatot a bányafelügyelet a honlapján és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben – szénhidrogének esetében az Európai Unió hivatalos lapjában is – meghirdeti.
 

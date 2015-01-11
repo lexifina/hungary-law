@@ -60,15 +60,15 @@ E törvény alkalmazásában feltárás
 
 — a külfejtéses bányászatban a meddőréteg eltávolítása (letakarás) és a nyitóárok kialakítása,
 
-— a szénhidrogén-bányászatban és a geotermikus energiahordozó hasznosításában a mező fejlesztése és próbatermelés, illetve a kutatás és feltárás alatti termelés.
+— a szénhidrogén-bányászatban és a geotermikus energiahordozó hasznosításában a mező fejlesztése.
 
-10. ,,Földtani kutatás'' a földkéreg anyagi, szerkezeti és fejlődéstörténeti sajátosságainak megismerésére irányuló műszaki-tudományos tevékenység, kivéve a védett és védelemre érdemes természeti értékek kutatása.
+10. „Földtani kutatás”: a talaj felszínének megbontásával járó vagy geofizikai, geokémiai módszerekkel végzett, különösen a földkéreg anyagi, szerkezeti és fejlődéstörténeti sajátosságainak megismerésére irányuló műszaki-tudományos tevékenység, kivéve a védett és védelemre érdemes természeti értékek kutatását.
 
 11. „Geotermikus energia”: a földkéreg belső hőenergiája.
 
 12. ,,Geotermikus energiahordozók'' e törvény alkalmazásában azok a különböző halmazállapotú anyagok (pl. felszín alatti vizek, gőzök), melyek a földkéreg belső energiájának hőenergetikai célú hasznosítását kitermeléssel vagy más technológia alkalmazásával lehetővé teszik.
 
-13.
+13. „Próbatermelés”: a szénhidrogén-bányászatban a kutatási időszak vagy a feltárás alatt végzett ásványi nyersanyag kitermelés.
 
 14. ,,Ipari vagyon'' a földtani vagyonnak az a része, amely az adott időpontban gazdaságosan kitermelhető.
 
@@ -110,9 +110,9 @@ A bányavállalkozó tulajdonában lévő távadat-átviteli eszközök a száll
 
 24. „Zárt terület”: meghatározott ásványi nyersanyag kutatása, feltárása, kitermelése céljából lehatárolt, koncessziós pályázatra kijelölhető terület. Zárt területnek kell tekinteni a már megállapított bányászati joggal fedett területeket az adott ásványi nyersanyag vonatkozásában a jogosultság fennállása alatt. A geotermikus energia vonatkozásában zárt területnek minősül az ország egész területén a természetes felszíntől mért 2500 m alatti földkéregrész.
 
-25. ,,Növelt hatékonyságú művelési eljárás'': olyan végső többletolaj kihozatali eljárás, amely megnöveli az elsődleges és másodlagos művelési eljárásokkal kitermelhető olajmennyiséget. A réteg-energia megnövelése termikus, gázos, kémiai vagy egyéb módon (pl. elektromágneses) történik.
+25. „Növelt hatékonyságú művelési eljárás”: olyan végső többletszénhidrogén-kihozatali eljárás, amely megnöveli az elsődleges és másodlagos művelési eljárásokkal kitermelhető szénhidrogén mennyiséget.
 
-26. „Szolgáltatásra köteles földtani adat”: azok a földtani adatok, amelyeket földtani vagy ásványi nyersanyagkutatás, kitermelés során a bányavállalkozó közvetlenül vagy a földtani alapadatok feldolgozásával közvetett módon megismer.
+26. „Szolgáltatásra köteles földtani adat”: azok a földtani adatok, amelyeket a földtani kutatás, a geotermikusenergia-kutatás, az ásványi nyersanyagkutatás vagy a kitermelés során a földtani kutatásra jogosult vagy a bányavállalkozó közvetlenül vagy a földtani alapadatok feldolgozásával közvetett módon megismer.
 
 27. Termőföld: e törvény alkalmazásában a település külterületén elhelyezkedő földrészlet, amelyet a ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert művelési ágban tartanak nyilván és az 1–4. minőségi osztályba tartozik.
 
@@ -187,3 +187,7 @@ c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartoz�
 51. Meddő szénhidrogén kutatófúrás, kút: olyan kutatófúrás (kút), amely szénhidrogén-indikációt nem eredményezett vagy olyan mértékben eredményezett, amely alapján a szénhidrogén nem termelhető ki gazdaságosan.
 
 52. „Föld alatti szénelgázosítás”: olyan bányaművelési technológia, amely a felszín alatt feltárt széntelep fúrólyukon keresztül végzett részleges oxidációja során képződő szintézisgáz fúrólyukon való, szabályozott kitermelésével történik.
+
+53. „Kitermelés szüneteltetése”: amikor a bányában 6 hónapot meghaladóan nem folytatnak kitermelést.
+
+54. „Együttes művelési terv”: az a műszaki dokumentáció, amelyet akkor kell készíteni, ha a szénhidrogén-lelőhely feltárására és kitermelésére több, a kitermeléshez szükséges feltételekkel rendelkező bányavállalkozó jogosult.

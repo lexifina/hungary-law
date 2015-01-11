@@ -1,6 +1,6 @@
 ## Felszíni ingatlantulajdon korlátozása
 
-38. § (1) Az ingatlan tulajdonosa (kezelője, használója) köteles tűrni, hogy a bányavállalkozó vagy a földtani kutatásra jogosult szervezet az ingatlanon megfigyeléseket, méréseket végezzen, jeleket helyezzen el. A bányavállalkozó, valamint a földtani kutatásra jogosult szervezet e tevékenységével és az ingatlan rendeltetésszerű használatának ideiglenes akadályozásával vagy zavarásával okozott károkat a bányakárokra vonatkozó szabályok szerint köteles megtéríteni.
+38. § (1) Az ingatlan tulajdonosa (kezelője, használója) köteles tűrni, hogy a bányavállalkozó vagy a földtani kutatásra jogosult az ingatlanon megfigyeléseket, méréseket végezzen, jeleket helyezzen el. A bányavállalkozó, valamint a földtani kutatásra jogosult e tevékenységével és az ingatlan rendeltetésszerű használatának ideiglenes akadályozásával vagy zavarásával okozott károkat a bányakárokra vonatkozó szabályok szerint köteles megtéríteni.
 
 (1a) Az ingatlan tulajdonosa köteles tűrni, hogy a használaton kívüli mélyfúrás 36. § (4) bekezdése szerinti tulajdonosa a mélyfúrás tájrendezését elvégezze. A tájrendezés során okozott károkat a mélyfúrás tulajdonosa a bányakárokra vonatkozó szabályok szerint köteles megtéríteni.
 
@@ -24,6 +24,6 @@
 
 (10) Közterületen elhelyezendő bányászati létesítmény, szénhidrogén-szállítóvezeték és egyéb gáz- és gáztermékvezeték elhelyezésére vagy üzemeltetésére szolgalmi jogot alapítani nem lehet. A bányászati létesítmény, szénhidrogén-szállítóvezeték és egyéb gáz- és gáztermékvezeték közterületen történő elhelyezését, illetve üzemeltetését a közterület tulajdonosa tűrni köteles. A közterület igénybevételével – beleértve a közterület használati korlátázását is – okozott károkért az építtető köteles kártalanítást fizetni.
 
-(11) Nem lehet szolgalmi jogot alapítani akkor sem, ha a bányászati létesítmény, a szénhidrogén-szállítóvezeték és az egyéb gáz- és gáztermékvezeték közutat, vasúti pályát, folyóvizek, csatornák területét érinti. Az ilyen terület igénybevételére az érintetteknek megállapodást kell kötni.
+(11) Nem lehet szolgalmi jogot alapítani akkor sem, ha a bányászati létesítmény, a szénhidrogén-szállítóvezeték és az egyéb gáz- és gáztermékvezeték vasúti pályát, folyóvizek, csatornák területét érinti. Az ilyen terület építési tevékenységgel történő igénybevételére és a létesítmények üzemeltetésére az érintetteknek megállapodást kell kötni. A megállapodás alkalmas az építési jogosultság igazolására.
 
 (12) A (11) bekezdés szerinti megállapodás nem korlátozhatja az (5) bekezdésben foglalt jogokat.

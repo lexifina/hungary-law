@@ -28,13 +28,17 @@ m) a robbantástechnikai kutató tevékenység,
 
 n) a bányászati hulladék kezelése, és az ehhez szükséges létesítmények és berendezések építése, használatbavétele és üzemeltetése, valamint bezárása és utógondozása.
 
-o) az a)–n) pontokban felsorolt tevékenységekhez és létesítményekhez alkalmazott nyomástartó berendezések és rendszerek építése, használatbavétele, üzemeltetése és elbontása,
+o) az a)–n) pontokban felsorolt tevékenységekhez és létesítményekhez alkalmazott nyomástartó berendezések és rendszerek létesítése, javítása, átalakítása, használatbavétele, üzemeltetése és elbontása,
 
 p) a földtani közeg és az ásványi nyersanyagok megkutatottsági szintjének növeléséhez és az adatok nyilvántartásához fűződő állami érdek érvényesítése,
 
-q) a földtani közeg által okozott veszélyek és káros folyamatok elleni védelem szempontjainak érvényesítése,
+q) a földtani közeg által okozott veszélyek és káros folyamatok elleni védelem és az ehhez szükséges intézkedések, kötelezések elrendelése,
 
-r) a földtani közeg hasznosítási lehetőségeinek számbavétele, értékelése és a hasznosítás földtani feltételeinek meghatározása.
+r) a földtani közeg hasznosítási lehetőségeinek számbavétele, értékelése és a hasznosítás földtani feltételeinek meghatározása,
+
+s) a földtani kutatás,
+
+t) a vizek kártételei elleni védelem és védekezés célját szolgáló közcélú vízilétesítmények létesítéséhez szükséges ásványinyersanyag-kinyerő helyek létesítése, üzemeltetése, megszüntetése.
 
 (2) Polgári felhasználású robbanóanyag forgalmazását és polgári robbantási tevékenység végzését a bányafelügyelet annak a gazdálkodó szervezetnek, valamint e tevékenységet végző, irányító, felügyelő személynek engedélyezi, aki megfelel a jogszabályban meghatározott feltételeknek. A bányafelügyelet a tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet.
 
@@ -50,6 +54,6 @@ r) a földtani közeg hasznosítási lehetőségeinek számbavétele, értékel�
 
 (4a) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül. A nyilvántartás alapján a bányafelügyelet a honlapján naprakészen közzéteszi a tevékenység folytatására engedéllyel rendelkező személyek jegyzékét, amely tartalmazza az engedéllyel rendelkező személy nevét és címét, engedélyének számát, és az engedélyezett tevékenység betűkódját.
 
-(5) A bányafelügyelet – tudomására jutását követően – haladéktalanul köteles intézkedni a hatósági felügyelete alá tartozó tevékenységek gyakorlásával kapcsolatban a 2. §-ban meghatározott közérdek sérelmének megelőzésére, illetőleg megszüntetésére.
+(5) A bányafelügyelet – tudomására jutását követően – haladéktalanul köteles intézkedni a hatósági felügyelete alá tartozó tevékenységek gyakorlásával kapcsolatban a 2. §-ban meghatározott közérdek sérelmének megelőzésére, illetve megszüntetésére, továbbá a felügyelt tevékenység jogszerű folytatásának biztosítására.
 
 (6) Az 1. § (7) bekezdése szerinti tevékenységek jogszerűségének vizsgálata a bányafelügyelet hatáskörébe tartozik.

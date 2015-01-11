@@ -5,3 +5,7 @@
 (2) A bányavállalkozó a bányatelket vagy biztonsági övezetet érintő valamennyi építési vagy telekalakítási eljárásban ügyfélnek minősül. Ha a bányavállalkozó az építéshez vagy telekalakításhoz olyan feltételek előírását kezdeményezi, amelyek kifejezetten a bányaművelés okozta hátrányok elkerülését célozzák, úgy köteles az ebből eredő, még meg nem térített károkat az ingatlan tulajdonosának (vagyonkezelőjének, használójának) megtéríteni.
 
 (3) A területrendezési tervek, illetőleg a településrendezési eszközök kidolgozásánál – a bányafelügyelet megkeresésével – figyelembe kell venni a nyilvántartott ásványi nyersanyagvagyont tartalmazó területeket. A bányafelügyelet javaslatára a megállapított bányatelek területén a helyi építési szabályzatban területfelhasználási, illetőleg építési korlátozásokat lehet életbe léptetni.
+
+(4) A bányafelügyelet a bányászati tevékenység befejezését követően megkeresi az illetékes települési önkormányzatot a bányászati tevékenységgel vagy megszüntetett sajátos építményekkel veszélyeztetett ingatlanra vonatkozó építési tilalom vagy korlátozás elrendelése érdekében.
+
+(5) A bányafelügyelet a bányatelek törlését követően az (1) bekezdés alapján elrendelt építési és telekalakítási tilalom törlése érdekében megkeresi az illetékes települési önkormányzatot.

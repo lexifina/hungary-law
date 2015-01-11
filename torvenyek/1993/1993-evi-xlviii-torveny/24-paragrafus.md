@@ -1,4 +1,4 @@
-## Szénhidrogén szállítóvezeték létesítése és üzemben tartása
+## A szénhidrogén-szállítóvezeték, a földgázelosztó és -célvezeték, valamint -tároló létesítmény, egyéb gáz- és gáztermékvezeték létesítése és üzemeltetése
 
 24. § (1) A szénhidrogén szállítóvezeték létesítésére és üzemben tartására adott koncesszió vagy hatósági engedély alapján az engedélyes jogosult a szállítóvezetéket, valamint az üzemben tartásához szükséges létesítményeket megépíteni és működtetni, továbbá a szerződésben meghatározott létesítményeket használni. A szénhidrogén szállítóvezeték önállóan forgalom tárgya lehet.
 

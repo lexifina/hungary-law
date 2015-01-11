@@ -1,6 +1,6 @@
 ## Műszaki üzemi terv
 
-27. § (1) A feltárási, kitermelési és meddőhányó hasznosítási tevékenységet jóváhagyott műszaki üzemi terv szerint kell végezni.
+27. § (1) A feltárási, kitermelési, föld alatti gáztárolási és meddőhányó-hasznosítási tevékenységet jóváhagyott műszaki üzemi terv szerint kell végezni.
 
 (2) A műszaki üzemi tervet a műszaki-biztonsági, az egészségvédelmi, a tűzvédelmi szabályok és az ásványvagyon-gazdálkodási, a vízgazdálkodási, valamint a környezet-, természet- és tájvédelmi követelmények figyelembevételével úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a föld alatti létesítmények, valamint a mező- és erdőgazdasági rendeltetésű földek megóvását, a bányakárok, a környezeti-természeti károk lehetséges megelőzését, illetve csökkentését, továbbá a tájrendezés – településrendezési eszközökben foglaltaknak megfelelő – teljesítését.
 

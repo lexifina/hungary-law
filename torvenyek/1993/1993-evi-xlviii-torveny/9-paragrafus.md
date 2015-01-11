@@ -6,4 +6,4 @@
 
 (3) Ivóvíz-, ásvány-, gyógy- és hévízcélú hasznosításra már igénybevett vízadók, víztestek zárt területként nem jelölhetők ki.
 
-(4) A koncessziós pályázatra kijelölni tervezett zárt területeket a bányafelügyelet negyedévente közzéteszi. Koncessziós pályázatra kijelölni tervezett területre belföldi vagy külföldi jogi és természetes személy tehet javaslatot. A bányafelügyelet a soron következő közzététel során a javaslatot csak akkor veszi figyelembe, ha az (1) bekezdés szerinti feltétel teljesül, és a kijelölés nem ütközik a (3) bekezdés rendelkezésébe. A negyedévente közzétett területekre a miniszter a pályázatot legkésőbb 9 hónapon belül írja ki.
+(4) A koncessziós pályázatra kijelölni tervezett zárt területeket a bányafelügyelet közzéteszi. Koncessziós pályázatra kijelölni tervezett területre belföldi vagy külföldi jogi és természetes személy tehet javaslatot. A bányafelügyelet a közzététel során a javaslatot csak akkor veszi figyelembe, ha az (1) bekezdés szerinti feltétel teljesül, és a kijelölés nem ütközik a (3) bekezdés rendelkezésébe.

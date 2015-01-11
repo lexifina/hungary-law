@@ -14,11 +14,15 @@ A szénhidrogén tulajdonjoga az a) pontban meghatározott összeg megfizetésé
 
 (1a) Az ásványi nyersanyag a kitermeléssel
 
-a) a tereprendezésre építési vagy talajvédelmi engedéllyel, továbbá a mederalakításra vízjogi engedéllyel rendelkező,
+a) az (1b) bekezdés szerinti eset kivételével a bányafelügyelet engedélyétől eltérő, más hatósági engedéllyel rendelkező,
 
 b) katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet megszűnését követően más célra történő felhasználás, hasznosítás vagy értékesítés esetén a megyei, fővárosi védelmi bizottság határozata szerint kitermelésre jogosult
 
 személy tulajdonába kerül.
+
+(1b) A közúti közlekedésről szóló törvény, valamint a vasúti közlekedésről szóló törvény alapján a magyar állam nevében és javára eljáró építtető részére kiadott, a bányafelügyelet engedélyétől eltérő, más hatósági engedély alapján kitermelt ásványi nyersanyag a kitermeléssel nem kerül ki a magyar állam tulajdonából. A kitermelt ásványi nyersanyagnak az építtető által, az engedélyben foglalt tevékenységgel össze nem függő célra történő felhasználására, hasznosítására a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársasággal kötött megállapodás alapján a nemzeti vagyonról szóló törvényben, valamint az állami vagyonról szóló törvényben szabályozott feltételekkel és módon kerülhet sor.
+
+(1c) Az anyagnyerő helyről kitermelt és a vizek kártételei elleni védelem és védekezés célját szolgáló önkormányzati tulajdonú közcélú vízilétesítménybe beépített ásványi nyersanyag az önkormányzat tulajdonába kerül.
 
 (2) A kőolaj, a kőolajtermékek, továbbá – a földgáz kivételével – a szénhidrogén-gázok csővezetéken történő szállítása kizárólagos állami tevékenység.
 

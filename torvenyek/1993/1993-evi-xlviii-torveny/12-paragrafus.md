@@ -6,7 +6,7 @@
 
 (2) A koncessziós szerződésben meg kell állapodni a kutatási munkaprogram tartalmában és a teljesítésére szolgáló biztosítékokban. A bányafelügyelet által jóváhagyott kutatási műszaki üzemi tervnek tartalmaznia kell a koncessziós szerződéssel megállapított munkaprogramban vállalt feladatokat. A szerződésben a miniszter kikötheti a munkaprogram befejezéséhez szükséges költségek megtérítését arra az esetre, ha a koncesszió jogosultja az elfogadott munkaprogramban vállalt kötelezettségét nem teljesíti.
 
-(3) Ha kitermelhető ásványi nyersanyag marad vissza, a koncessziós szerződés megszűnését követő 3 hónapon belül a miniszter új koncessziós pályázatot ír ki. Ilyen pályázat esetén az érzékenységi és terhelhetőségi vizsgálatot nem kell lefolytatni. A legkedvezőbb ajánlat feltételeinek vállalása esetén a koncesszió a volt jogosultat illeti meg.
+(3) Ha a koncessziós szerződés megszűnését követően a koncessziós területen kitermelhető ásványi nyersanyag marad vissza, a koncessziós szerződés megszűnését követő 3 hónapon belül a miniszter új koncessziós pályázatot ír ki. Ilyen pályázat esetén az érzékenységi és terhelhetőségi vizsgálatot nem kell lefolytatni. A legkedvezőbb ajánlat feltételeinek vállalása esetén a koncesszió a volt jogosultat illeti meg.
 
 (4) Ha a koncessziós szerződés eltérően nem rendelkezik, a koncessziós szerződés alapján megépített külszíni létesítmények az üzembe helyezés időpontjával a bányavállalkozó tulajdonába kerülnek. Ha a koncessziós szerződés megszűnésekor a létesítmények tovább nem üzemeltethetők, a bányavállalkozó köteles azokat elbontani és a területet helyreállítani.
 

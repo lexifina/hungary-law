@@ -8,7 +8,7 @@
 
 (4) A kutatási terület kialakítására és mértékére vonatkozó szabályokat a Kormány állapítja meg.
 
-(5) A tervezett kutatási időszakra, valamint a bányatelek megállapításának kezdeményezésére a koncessziónál előírt határidőket a kutatás engedélyezése esetében is alkalmazni kell. E határidők elmulasztása esetén a (2) bekezdésben a bányavállalkozó részére biztosított kutatási jog megszűnik.
+(5) A tervezett kutatási időszakra a koncessziónál előírt határidőt a kutatás engedélyezése esetében is alkalmazni kell.
 
 (6) A koncesszió jogosultja a szerződésben, a bányászatra hatósági engedéllyel rendelkező pedig az engedélyben meghatározott területen és feltételek szerint kizárólagosan jogosult kutatási munkaprogramjának végrehajtására. Ennek keretében jogosult az ásványi nyersanyagok fellelhetőségére, elhelyezkedésére, mennyiségének és minőségének, illetve a geotermikus energia földkéregbeli viszonyainak a meghatározására szolgáló műszeres mérések, vizsgálatok, fúrások elvégzésére, kutató vágatok és aknák létesítésére, valamint a bányatelek megállapításának, illetve a geotermikus védőidom kijelölésének a kezdeményezésére.
 
@@ -30,6 +30,6 @@ c) az egymás tevékenységének kölcsönös biztosítására vonatkozó kifeje
 
 (12) A kutatási jogadományt vagy a kutatási engedélyt szerző fél köteles a megállapodást a kutatási műszaki üzemi terv jóváhagyása iránti kérelméhez mellékelni. Megállapodás hiányában az együttműködés szükségességéről és tartalmáról a bányafelügyelet a kutatási műszaki üzemi terv jóváhagyási eljárás során dönt.
 
-(13) A bányavállalkozó a kutatási tevékenység befejezésétől, de legkésőbb az engedélyezett kutatási időszak utolsó napjától számított öt hónapon belül köteles kutatási zárójelentést benyújtani a bányafelügyelethez. A határidő elmulasztása esetén a bányavállalkozó kutatási joga megszűnik.
+(13) A bányavállalkozó a kutatási tevékenység befejezésétől, de legkésőbb az engedélyezett kutatási időszak utolsó napjától számított öt hónapon belül köteles kutatási zárójelentést benyújtani a bányafelügyelethez. A határidő elmulasztása esetén, vagy ha a bányafelügyelet a kutatási zárójelentést jogerős és végrehajtható határozatában elutasította, a bányavállalkozó kutatási joga megszűnik.
 
 (14) A kutatásra engedélyezett időszakon belül a bányavállalkozó a kutatási területet vagy annak egy részét visszaadhatja. A bányafelügyelet a terület-visszaadást akkor fogadhatja el, ha a visszaadásra bejelentett területen a bányakárokat megtérítették, továbbá a tájrendezési, a környezetvédelmi, a földvédelmi és talajvédelmi kötelezettségeket teljesítették. A visszaadott területen a határozat jogerőre emelkedése napján az adományozott kutatási joga megszűnik vagy a jogosult kutatási engedélye hatályát veszti.

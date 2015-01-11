@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-48-00-00
 | 2013-08-01 | 2013. évi CXXIII. törvény | 1993-48-00-00.58 |
 | 2014-01-01 | 2013. évi CCXXVII. törvény | 1993-48-00-00.59 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1993-48-00-00.60 |
+| 2015-01-11 | 2014. évi LXXXVI. törvény | 1993-48-00-00.61 |

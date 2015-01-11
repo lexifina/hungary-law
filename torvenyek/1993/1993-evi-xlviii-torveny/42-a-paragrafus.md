@@ -6,7 +6,7 @@
 
 1. bezárást követő időszak: tárolóhely bezárása utáni időszak, beleértve a bányafelügyeletnek történő felelősségátadás utáni időszakot is;
 
-2. földtani kutatás: a potenciális tárolókomplexumok felmérése szén-dioxid geológiai tárolása céljából a felszín alá behatoló olyan tevékenységekkel, mint a potenciális tároló-komplexum rétegeivel kapcsolatos földtani információk fúrással történő megszerzése, valamint a tárolóhely jellemzőinek megállapítása céljából végzett próbabesajtolás;
+2. szén-dioxid geológiai tárolásához kapcsolódó földtani kutatás: a potenciális tárolókomplexumok felmérése szén-dioxid geológiai tárolása céljából a felszín alá behatoló olyan tevékenységekkel, mint a potenciális tároló-komplexum rétegeivel kapcsolatos földtani információk fúrással történő megszerzése, valamint a tárolóhely jellemzőinek megállapítása céljából végzett próbabesajtolás;
 
 3. geológiai formáció: olyan litosztratigráfiai egység, amelyen belül kőzetrétegek különíthetők el és térképezhetők fel;
 

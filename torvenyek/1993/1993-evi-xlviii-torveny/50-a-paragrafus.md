@@ -34,17 +34,17 @@
 
 17. a 26/A. § (7) bekezdése szerinti pályázat tartalmi követelményeire,
 
-18. a geotermikus védőidom meghatározására és kijelölésére,
+18. a geotermikus védőidom meghatározására és kijelölésére, valamint a geotermikusenergia-hasznosító létesítmények, a kitermelt és hasznosított geotermikus energia mennyiségének, és a megállapított geotermikus védőidomok nyilvántartására,
 
 19. az ásványi nyersanyag és a geotermikus energia természetes előfordulási területén elvégzendő érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban részt vevő hatóság közreműködésére,
 
-20. a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedélyezésére és hatósági felügyeletére,
+20. a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedélyezésére, hatósági felügyeletére és a szabálytalan építési tevékenység esetén alkalmazandó bírság mértékére,
 
 21. az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek vonatkozásában
 
 a) a potenciális tárolóhely felmérésére,
 
-b) a földtani kutatás és a tárolás engedélyezésére,
+b) a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatás és a tárolás engedélyezésére,
 
 c) a kutatási engedély átruházására,
 
@@ -70,7 +70,7 @@ m) az Európai Bizottság számára megküldendő jelentés előkészítésére 
 
 22. az átmeneti bányászjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének eljárására,
 
-23. a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó építésügyi hatósági eljáráshoz kötött építési tevékenységek körére és az eljárás megindítására irányuló kérelemhez csatolandó műszaki dokumentáció tartalmára,
+23. a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó építésügyi hatósági eljárás, az építési tevékenységek körére, az eljárás megindítására irányuló kérelemhez csatolandó műszaki dokumentáció tartalmára, és a szabálytalan építési tevékenység esetén alkalmazandó bírság mértékére,
 
 24. az ásványi nyersanyag és geotermikus energiavagyon nyilvántartására,
 
@@ -82,7 +82,9 @@ m) az Európai Bizottság számára megküldendő jelentés előkészítésére 
 
 28. a koncessziós pályázatra kijelölhető zárt területek listájának kiegészítésére tehető javaslatra, a kijelölhető területek közzétételére,
 
-29. a nyugdíjas bányászok szénjárandóságának pénzbeli megváltására
+29. a nyugdíjas bányászok szénjárandóságának pénzbeli megváltására,
+
+30. a vizek kártételei elleni védelem és védekezés célját szolgáló közcélú vízilétesítmények létesítéséhez szükséges anyagnyerő hely engedélyezésére, az engedély iránti kérelem tartalmi követelményeire, a komplex műveleti terv tartalmára, az anyagnyerő hely létesítéséhez szükséges biztosítékokra, az anyagnyerő hely megszüntetésére irányuló kérelem tartalmi követelményeire, a bírság mértékére
 
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 

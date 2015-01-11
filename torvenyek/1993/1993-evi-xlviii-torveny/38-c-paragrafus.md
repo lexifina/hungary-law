@@ -16,7 +16,7 @@ b) az elhelyezett létesítményeket karbantarthatja, kijavíthatja, átalakíth
 
 c) a vezeték mentén lévő, a biztonsági övezetet sértő növényzetet, fákat, bokrokat, azok ágait, gyökereit eltávolíthatja,
 
-d) a miniszternek a vízgazdálkodásért felelős miniszter, valamint az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletében meghatározott módon nyomvonalas létesítményt, folyót, vízfolyást, tavat, csatornát és építményt megközelíthet, keresztezhet.
+d) a miniszternek a vízgazdálkodásért felelős miniszter, a környezetvédelemért felelős miniszter, valamint az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletében meghatározott módon nyomvonalas létesítményt, folyót, vízfolyást, tavat, csatornát és építményt megközelíthet, keresztezhet.
 
 (6) A bányafelügyelet határozatával alapított vezetékjog megszűnik, ha az engedélyes, illetőleg az elosztóvezeték tulajdonosa az (5) bekezdés a) pontjában meghatározott létesítményeket az engedélyezéstől számított öt éven belül nem építi meg, vagy azokat véglegesen eltávolítja. A vezetékjog megszűnését az engedélyes, illetve az elosztóvezeték tulajdonosa az azt követő 30 napon belül köteles bejelenteni a bányafelügyeletnek. A bányafelügyelet a vezetékjog megszűnését az engedélyes, illetve az elosztóvezeték tulajdonosának bejelentése, vagy annak hiányában az ingatlantulajdonos kérelmére, vagy egyéb módon történő tudomásszerzése alapján hivatalból határozatban állapítja meg.
 
