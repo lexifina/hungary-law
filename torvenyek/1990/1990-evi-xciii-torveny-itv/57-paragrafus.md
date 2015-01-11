@@ -40,7 +40,9 @@ t) a belföldi végrehajthatóság megállapítása iránti eljárás a 44/2001/
 
 u) a bírósági végrehajtásról szóló 1994. évi LIII. törvény 31/C. §-a szerint tanúsítvány, igazolás és kivonat kiállítása iránti bírósági eljárás,
 
-v) a határon átnyúló tartási ügyekben a tartási igénnyel kapcsolatos kérelem központi hatósághoz történő továbbítása iránti eljárás.
+v) a határon átnyúló tartási ügyekben a tartási igénnyel kapcsolatos kérelem központi hatósághoz történő továbbítása iránti eljárás,
+
+z) a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 6. § (5) bekezdése, 12. § (7) bekezdése, 16. § (2b) bekezdése és 16. § (10) bekezdése szerinti tanúsítvány kiállítása, valamint 17/A–17/B. §-a szerinti bírósági eljárás.
 
 (2) Illetékmentes a büntető ügyekben:
 
