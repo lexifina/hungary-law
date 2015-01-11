@@ -24,7 +24,7 @@ g) a Bt. 34. §-ának (2) bekezdésében foglalt bányászati, gázipari biztons
 
 h)[^15] a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések hatósági felügyeletéről szóló 23/2006. (II. 3.) Korm. rendelet 7. § (2) bekezdésében meghatározott minőségbiztosítási rendszer jóváhagyása;
 
-i)[^16] a Bt. 26/A. § (4) bekezdése szerinti határidő hosszabbítási kérelem elbírálása;
+i)[^16] a Bt. 26/A. § (4) és (6a) bekezdése szerinti határidő hosszabbítási kérelem elbírálása;
 
 j)[^17] a Magyar Állami Földtani, Geofizikai és Bányászati Adattár, a mélyfúrási magminta gyűjtemény, valamint a Földtani és Bányászati Információs rendszer működtetése;
 
@@ -69,7 +69,7 @@ v)[^28] a Bt. 22/B. § (5) bekezdése szerinti nyilvántartás vezetése.
 [^13]: A 3. § (5) bekezdés d) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 19. pontja hatályon kívül helyezte, újonnan a 195/2011. (IX. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^14]: A 3. § (5) bekezdés e) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 19. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^15]: A 3. § (5) bekezdés h) pontját az 59/2010. (III. 18.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte, újonnan a 195/2011. (IX. 22.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 411/2012. (XII. 28.) Korm. rendelet 24. § (9) bekezdése szerint módosított szöveg.
-[^16]: A 3. § (5) bekezdés i) pontja az 559/2013. (XII. 31.) Korm. rendelet 44. § (3) bekezdésével megállapított szöveg.
+[^16]: A 3. § (5) bekezdés i) pontja az 559/2013. (XII. 31.) Korm. rendelet 44. § (3) bekezdésével megállapított, a 311/2014. (XII. 11.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
 [^17]: A 3. § (5) bekezdés j) pontja a 195/2011. (IX. 22.) Korm. rendelet 1. § (4) bekezdésével megállapított, az 559/2013. (XII. 31.) Korm. rendelet 47. §-a szerint módosított szöveg.
 [^18]: A 3. § (5) bekezdés k) pontja az 559/2013. (XII. 31.) Korm. rendelet 46. § 2. pontja szerint módosított szöveg.
 [^19]: A 3. § (5) bekezdés m) pontját a 195/2011. (IX. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 146/2012. (VII. 5.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.

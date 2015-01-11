@@ -66,7 +66,7 @@
 
 | 13. | „A” osztályú bányászati hulladékkezelő létesítmény építési és használatbavételi engedélyezési eljárásában | belső vészhelyzeti terv megfelelőségének kérdésében | katasztrófavédelmi kirendeltség | megyei, fővárosi katasztrófavédelmi igazgatóság” |
 
-3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^68]
+3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^71]
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M |
 
@@ -132,4 +132,4 @@
 
 | 14. | Ha az eljárás régészeti lelőhelyet, régészeti védőövezet területét, műemléki területet vagy külön jogszabályban meghatározott esetekben műemléket érint, és az eljárással érintett tevékenység megkezdéséhez, bányatelek megállapításhoz környezetvédelmi engedély vagy egységes környezet- használati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a kérelem a régészeti örökség és a műemléki érték védelme jogszabályban meghatározott követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | régészeti terület esetén a Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala, műemléki terület esetén az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala | IGEN | IGEN | NEM | IGEN | NEM | IGEN | IGEN | IGEN | NEM |
 
-[^68]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 3. melléklet a 146/2012. (VII. 5.) Korm. rendelet 26. § (2) bekezdésével megállapított, a 296/2012. (X. 17.) Korm. rendelet 23. § b) és c) pontja, a 394/2012. (XII. 20.) Korm. rendelet 15. §-a, a 411/2012. (XII. 28.) Korm. rendelet 24. § (7) bekezdése, az 51/2013. (II. 25.) Korm. rendelet 9. §-a, az 527/2013. (XII. 30.) Korm. rendelet 41. § d)–e) pontja, a 221/2014. (IX. 4.) Korm. rendelet 340. §-a, a 373/2014. (XII. 31.) Korm. rendelet 47. §-a szerint módosított szöveg.
+[^71]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 3. melléklet a 146/2012. (VII. 5.) Korm. rendelet 26. § (2) bekezdésével megállapított, a 296/2012. (X. 17.) Korm. rendelet 23. § b) és c) pontja, a 394/2012. (XII. 20.) Korm. rendelet 15. §-a, a 411/2012. (XII. 28.) Korm. rendelet 24. § (7) bekezdése, az 51/2013. (II. 25.) Korm. rendelet 9. §-a, az 527/2013. (XII. 30.) Korm. rendelet 41. § d)–e) pontja, a 221/2014. (IX. 4.) Korm. rendelet 340. §-a, a 373/2014. (XII. 31.) Korm. rendelet 47. §-a szerint módosított szöveg.
