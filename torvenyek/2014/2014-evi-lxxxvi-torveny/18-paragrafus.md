@@ -1,3 +1,0 @@
-18. § A Bt. 32. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szénhidrogén-szállító-, földgázelosztó-, az egyéb gáz- és gáztermékvezeték (e § alkalmazásában a továbbiakban együtt: vezeték), valamint a bányászati létesítmény és a célvezeték, továbbá környezetük védelme érdekében biztonsági övezetet kell kijelölni. A biztonsági övezet terjedelmét és a biztonsági övezetben érvényesítendő tilalmakat és korlátozásokat az e törvény végrehajtására kiadott jogszabály állapítja meg. A vezeték és a célvezeték biztonsági övezete a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 15. § (3) bekezdése szerinti hatásterületnek is minősül.”
