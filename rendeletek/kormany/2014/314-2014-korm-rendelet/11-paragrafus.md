@@ -1,0 +1,1 @@
+## 10. § A halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló 133/2013. (XII. 29.) VM rendelet 8. mellékletében meghatározott, igazolatlan eredetű hal vagy haltermék forgalmazása esetén kiszabható halvédelmi bírság mértéke az igazolatlan eredetű hal fajától, mennyiségétől vagy a haltermék mennyiségétől függően: 100 000–500 000 forint.
