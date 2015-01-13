@@ -28,7 +28,7 @@ j) nyilvános hely: az olyan épület, építmény vagy a közterületnek sportr
 
 k) országos jellegű szervezet a szabadidősport, a fogyatékosok sportja, a diák- és a főiskolai-egyetemi sport területén: a szervezet közhasznúnak minősül, és legalább 7 megyében székhellyel rendelkező, országosan legalább 20 jogi személy taggal működik,
 
-l) speciális világjátékok: a Paralimpia, a Speciális Olimpia, a Siketlimpia és a Szervátültetettek Világjátékai,
+l)
 
 m) sportiskola: az a köznevelési intézmény, jogi személy nonprofit gazdasági társaság, sportegyesület, sportvállalkozás, vagy utánpótlás-nevelés fejlesztését végző alapítvány, amely az alábbiak szerint utánpótlás-nevelési feladatokat lát el vagy közreműködik azok ellátásában:
 
