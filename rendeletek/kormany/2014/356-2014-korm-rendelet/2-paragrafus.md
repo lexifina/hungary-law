@@ -1,0 +1,1 @@
+## „(5) 18. életévét be nem töltött versenyző a küzdősportokban és a kontakt harcművészeti ágakban csak a sportszövetség versenyszabályzatában meghatározott, a fokozott sérülésveszély megelőzésére alkalmas sport-, illetve védőfelszerelések szabályszerű használata esetén versenyezhet vagy vehet részt szervezett edzésen, bemutatón.”
