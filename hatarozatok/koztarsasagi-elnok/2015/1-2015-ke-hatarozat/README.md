@@ -1,0 +1,9 @@
+# 1/2015. (I. 14.) KE határozat
+
+egyetemi tanári kinevezésről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-01-14 | 2015-1-30-76.1 | 1/2015. (I. 14.) KE határozat |
