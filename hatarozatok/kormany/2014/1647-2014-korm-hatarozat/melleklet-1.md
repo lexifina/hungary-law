@@ -1,6 +1,6 @@
 ## 1. jóváhagyja az 1. melléklet szerint az ott felsorolt projektek
 
-## a) a Társadalmi Infrastruktúra Operatív Program (a továbbiakban: TIOP) 2011–2013. évi akcióterve 2. prioritása terhére elszámolható költségeinek legfeljebb 4 100 153 112 forint támogatással és az ehhez kapcsolódó legfeljebb 383 664 843 forint önerővel történő növelését, valamint
+## a)[^1] a Társadalmi Infrastruktúra Operatív Program (a továbbiakban: TIOP) 2011–2013. évekre szóló akcióterve 2. prioritása keretében, az árfolyam-kompenzációból és lemorzsolódásból fakadó szabad forrásai terhére elszámolható költségeinek legfeljebb 3 830 877 702 forint támogatással, és az ehhez kapcsolódó, legfeljebb 353 745 353 forint önerővel történő növelését a Magyarország központi költségvetése Uniós fejlesztések fejezet, Állami költségvetési kedvezményezettek sajáterő támogatása előirányzatából, valamint
 
 ## b) el nem számolható költségnövekményének Magyarország központi költségvetése Uniós fejlesztések fejezet, Állami költségvetési kedvezményezettek sajáterő támogatása előirányzata terhére történő finanszírozását legfeljebb 1 801 800 000 forint erejéig,
 
@@ -14,6 +14,12 @@
 
 ## Határidő: azonnal
 
+## 3/A.[^2] felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az 1. melléklet szerinti projektekkel összefüggésben benyújtott szerződésmódosítási kérelmek elszámolhatósági vizsgálatának lefolytatásáról és a támogatói döntés meghozataláról,
+
+## Felelős: emberi erőforrások minisztere
+
+## Határidő: azonnal
+
 ## 4. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az 1. melléklet
 
 ## a) 1. pontjában foglalt táblázat 3–7., 13. és 14. sora, valamint a 2. pontjában foglalt táblázat szerinti projektekre, továbbá
@@ -24,25 +30,15 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: az a) alpont tekintetében: a 3. pontban foglaltak végrehajtását követően azonnal
+## Határidő:[^3] az a) alpont tekintetében: a 3. és a 3/A. pontban foglaltak végrehajtását követően azonnal
 
-## a b) alpont tekintetében: azonnal
+## a b) alpont tekintetében: a 3/A. pontban foglaltak végrehajtását követően azonnal
 
-## 5. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a TIOP-2.2.6-12/1B-2013-0002 azonosító számú, „Csongrád Megyei Dr. Bugyi István Kórház struktúraváltása a hatékony járó-fekvőbeteg ellátás fejlesztésével” című projekt támogatási szerződésének módosításáról és ennek révén e projekt csökkentett tartalommal történő megvalósításáról azzal, hogy a támogatás 1 731 000 000 forinttal történő csökkentése folytán a projekt
+## 5.[^4]
 
-## a) előkészítésének támogatása legfeljebb 106 000 000 forint,
+## 6.[^5]
 
-## b) megvalósításának támogatása legfeljebb 600 000 000 forint
-
-## összegű lehet,
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: azonnal
-
-## 6.[^1]
-
-1. melléklet az 1647/2014. (XI. 14.) Korm. határozathoz
+1. melléklet az 1647/2014. (XI. 14.) Korm. határozathoz[^6]
 
 1. A TIOP terhére jóváhagyott többletforrás:
 
@@ -74,7 +70,7 @@
 
 | 13. | TIOP-2.2.2-08/2-2010-0003 | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet | 409 133 494 | 45 459 277 | 454 592 771 | A projekt az „egy bemeneti kapu” elv érvényesítését célozza, amely rendszert alkot a társszakmákkal, a sürgősségi lánc résztvevőivel. Így a beteg a legrövidebb időn belül egészségi állapotának megfelelő ellátási szinten komplex ellátásban részesülhet. A rendszert a szakmai, fizikai integrációk, a betegforgalom racionalizálása, az ellátásszervezés, a multidiszciplináris team, a mátrix jellegű betegellátás és az infrastruktúrafejlesztés teszi egységessé, korszerűvé. Eredményeképpen új szakmai ellátások, hatékony partneri együttműködések, triázs rendszer, egységes szakmai protokoll, kompetencia alapú, optimális munkamegosztás kerül bevezetésre. A sürgős ellátást igénylő gyermekek részére biztosítva lesznek a korszerű tárgyi feltételek, gyermekbarát környezetben. |
 
-| 14. | TIOP-2.2.7-07/2F/2-2010-0001 | Pécsi Tudományegyetem | 663 300 000 | 73 700 000 | 737 000 000 | A projekt stratégiai célkitűzései egy életesélyeket növelő, progresszív betegellátó intézet és intézményhálózat kialakítása a Dél-dunántúli régióban, illetve a Pécsi Tudományegyetem Klinikai Központ fenntartható működésének megalapozása. A fenti célkitűzések elérése érdekében a pályázó Pécsi Tudományegyetem a Klinikai Központban négy elemből álló projektet hajt végre. A legfontosabb tevékenység a 400 ágyas klinikai tömb teljes körű rekonstrukciója és bővítése. Ehhez kapcsolódóan megvalósul a vezető halálokok kezelésében szerepet játszó klinikák eszközparkjának és informatikai rendszerének fejlesztése. A beruházási elemekhez az intézmény szervezeti rendjének átalakítása kapcsolódik, több klinika összevonásával, valamint az egyik telephelyen történő egészségügyi ellátás megszüntetésével. |
+| 14. | TIOP-2.2.7-07/ 2F/2-2010-0001 | Pécsi Tudományegyetem | 394 024 590 | 43 780 510 | 437 805 100 | A projekt stratégiai célkitűzései egy életesélyeket növelő, progresszív betegellátó intézet és intézményhálózat kialakítása a Dél-dunántúli régióban, illetve a Pécsi Tudományegyetem Klinikai Központ fenntartható működésének megalapozása. A fenti célkitűzések elérése érdekében a pályázó Pécsi Tudományegyetem a Klinikai Központban négy elemből álló projektet hajt végre. A legfontosabb tevékenység a 400 ágyas klinikai tömb teljes körű rekonstrukciója és bővítése. Ehhez kapcsolódóan megvalósul a vezető halálokok kezelésében szerepet játszó klinikák eszközparkjának és informatikai rendszerének fejlesztése. A beruházási elemekhez az intézmény szervezeti rendjének átalakítása kapcsolódik, több klinika összevonásával, valamint az egyik telephelyen történő egészségügyi ellátás megszüntetésével. |
 
 | 15. | TIOP-2.2.6-12/1B-2013-0026 | Árpád-házi Szent Erzsébet Szakkórház és Rendelőintézet | 123 132 000 | – | 123 132 000 | A projekt célja az intézményben a járóbeteg-szakellátás és a diagnosztika fejlesztése. Funkcióváltás történik, a korábbi struktúra megváltoztatásával megmaradó ellátási formák fejlesztését végzik el. A járóbeteg ellátás átkerül a kórházzal egybeépített, korszerűen kialakított új szakrendelőbe. A projektben elvégzik a szükséges eszközállomány korszerűsítését és ehhez kapcsolódóan a meglévő épület átalakítását, röntgenhelyiség kialakítását. A projektmegvalósítás tervezett időtartama 18 hónap. |
 
@@ -94,4 +90,9 @@
 
 | 5. | Összesen: | 1 801 800 000 |  |
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja az 1004/2015. (I. 15.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 3/A. pontot az 1004/2015. (I. 15.) Korm. határozat 3. pontja iktatta be.
+[^3]: A 4. pont az 1004/2015. (I. 15.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^4]: Az 5. pontot az 1004/2015. (I. 15.) Korm. határozat 6. pontja visszavonta.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet az 1004/2015. (I. 15.) Korm. határozat 5. pontja szerint módosított szöveg.
