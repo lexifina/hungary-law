@@ -1,8 +1,8 @@
-## 18/A. §[^73] Ha az EGT-ben valamely gyógyszer osztályozásának módosítását jelentős preklinikai vagy klinikai tanulmányok alapján engedélyezték, a GYEMSZI, amikor más kérelmező vagy forgalomba hozatali engedély jogosultja ugyanazon hatóanyag besorolásának módosítására irányuló kérelmét vizsgálja, nem veszi figyelembe e vizsgálatok eredményeit egy éven át azt követően, hogy az első módosítást engedélyezték. E § alkalmazása során a 7. § (2)–(9) bekezdését is alkalmazni kell.
+## 18/B. §[^74] Kizárólag orvosi rendelvényhez kötött gyógyszerként hozhatók forgalomba, illetve forgalmazhatók a G03 ATC kód alá tartozó szisztémás hatású gyógyszerek.
 
 ## A forgalomba hozatali engedély nyilvántartása
 
-19. § (1)[^74] A gyógyszer nyilvántartási számot kap. A nyilvántartási szám
+19. § (1)[^75] A gyógyszer nyilvántartási számot kap. A nyilvántartási szám
 
 a) OGYI-T-jelzésből,
 
@@ -20,7 +20,7 @@ c) a bejegyzett hasonszenvi hígítások mértékéből (konkrét hígítás mé
 
 d) „/” (per) jelzésből, gyógyszerformánként, hatáserősségenként, csomagolási egységenként, illetve csomagolási módonként 01-essel kezdődő sorszámból áll.
 
-(3)[^75] A nem egyszerűsített eljárással forgalomba hozatalra engedélyezett homeopátiás gyógyszerek nyilvántartási számát a GYEMSZI a (2) bekezdés szerint képezi azzal, hogy a nyilvántartási számban az „OGYI-T” megjelölés helyett az „OGYI-HG” megjelölés szerepel.
+(3)[^76] A nem egyszerűsített eljárással forgalomba hozatalra engedélyezett homeopátiás gyógyszerek nyilvántartási számát a GYEMSZI a (2) bekezdés szerint képezi azzal, hogy a nyilvántartási számban az „OGYI-T” megjelölés helyett az „OGYI-HG” megjelölés szerepel.
 
 (4) A hagyományos növényi gyógyszer nyilvántartási száma
 
@@ -30,6 +30,6 @@ b) sorszámból,
 
 c) „/” (per) jelzésből, gyógyszerformánként, hatáserősségenként, csomagolási egységenként, illetve csomagolási módonként 01-essel kezdődő sorszámból áll.
 
-[^73]: A 18/A. §-t a 20/2010. (IV. 29.) EüM rendelet 1. § (11) bekezdése iktatta be, szövege a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^74]: A 19. § (1) bekezdés nyitó szövegrésze a 20/2010. (IV. 29.) EüM rendelet 4. § g) pontja szerint módosított szöveg.
-[^75]: A 19. § (3) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^74]: A 18/B. §-t a 3/2015. (I. 14.) EMMI rendelet 12. §-a iktatta be.
+[^75]: A 19. § (1) bekezdés nyitó szövegrésze a 20/2010. (IV. 29.) EüM rendelet 4. § g) pontja szerint módosított szöveg.
+[^76]: A 19. § (3) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
