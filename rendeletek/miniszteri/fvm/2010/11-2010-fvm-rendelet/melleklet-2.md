@@ -804,6 +804,8 @@
 
 | Balatonakali | (8557) |
 
+| Balatonakarattya | (8620) |
+
 | Balatonalmádi | (8537) |
 
 | Balatonalmádi-Vörösberény | (8555) |
