@@ -13,3 +13,5 @@ b) Magyarország mint fogadó ország területén megvalósuló együttes végre
 (4a)
 
 (5) A bevételek felhasználásáról a Kormány évente beszámol az Országgyűlésnek.
+
+A fluortartalmú üvegházhatású gázokra vonatkozó általános szabályok
