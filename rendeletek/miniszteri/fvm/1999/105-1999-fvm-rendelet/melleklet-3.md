@@ -5410,6 +5410,8 @@
 
 ## Balatonakali 180
 
+## Balatonakarattya 204
+
 ## Balatonalmádi 204
 
 ## Balatoncsicsó 179
@@ -6374,6 +6376,6 @@
 
 ## Bp. XXIII. kerület 015
 
-3. számú melléklet a 105/1999. (XII. 25.) FVM rendelethez[^21]
+3. számú melléklet a 105/1999. (XII. 25.) FVM rendelethez[^22]
 
-[^21]: A 3. számú melléklet az 57/2013. (VI. 29.) VM rendelet 9. § (1) bekezdésével megállapított szöveg. [A 3. számú mellékletben a 70/2013. (VII. 31.) VM rendelet 10. § (2) bekezdés a) és b) pontjával elrendelt módosítás, amely szerint a „... Megyei Földhivatal Földminősítő Igazolvány” szövegrész helyébe a „... Kormányhivatal Földhivatala Földminősítő Igazolvány” szöveg, illetve az „1994. évi LV. törvény” szövegrész helyébe a „2007. évi CXXIX. törvény” szöveg lép, nem vezethető át.]
+[^22]: A 3. számú melléklet az 57/2013. (VI. 29.) VM rendelet 9. § (1) bekezdésével megállapított szöveg. [A 3. számú mellékletben a 70/2013. (VII. 31.) VM rendelet 10. § (2) bekezdés a) és b) pontjával elrendelt módosítás, amely szerint a „... Megyei Földhivatal Földminősítő Igazolvány” szövegrész helyébe a „... Kormányhivatal Földhivatala Földminősítő Igazolvány” szöveg, illetve az „1994. évi LV. törvény” szövegrész helyébe a „2007. évi CXXIX. törvény” szöveg lép, nem vezethető át.]

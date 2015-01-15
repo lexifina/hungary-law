@@ -26,7 +26,7 @@
 
 | Az igazolvány tulajdonosa a termőföld védelméről szóló 2007. CXXIX. törvény 30. § (2) bekezdése értelmében földminősítési, valamint helyszíni ellenőrzési tevékenységre jogosult. A munkavégzés érdekében bármely ingatlanra – a lakás és lakás céljára szolgáló helyiségek kivételével – beléphet, ott földminősítéssel, helyszíni ellenőrzéssel kapcsolatos munkákat végezhet. Az igazolvány a kiállításától számított 10 évig hatályos. |
 
-4. melléklet a 105/1999. (XII. 22.) FVM rendelethez[^22]
+4. melléklet a 105/1999. (XII. 22.) FVM rendelethez[^23]
 
 IGÉNYLŐLAP
 
@@ -66,4 +66,4 @@ földhivatala vezetője
 
 PH.
 
-[^22]: A 4. mellékletet az 57/2013. (VI. 29.) VM rendelet 9. § (2) bekezdése iktatta be.
+[^23]: A 4. mellékletet az 57/2013. (VI. 29.) VM rendelet 9. § (2) bekezdése iktatta be.
