@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külügyminiszter előterjesztésére – Kocsis Sándor rendkívüli és meghatalmazott nagykövetet – Magyarország nairobi nagykövetségének vezetésére, valamint Magyarországnak az Etióp Demokratikus Szövetségi Köztársaságban, az Ugandai Köztársaságban, a Dzsibuti Köztársaságban és a Tanzániai Egyesült Köztársaságban való képviseletére kapott megbízása érintetlenül hagyása mellett – megbízom Magyarországnak a Burundi Köztársaságban, a Ruandai Köztársaságban, a Közép-afrikai Köztársaságban és a Szomáli Szövetségi Köztársaságban való képviseletével.
+
+KEH ügyszám: IV-5/00349/2014.
