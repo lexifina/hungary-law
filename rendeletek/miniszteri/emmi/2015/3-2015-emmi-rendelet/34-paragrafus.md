@@ -1,4 +1,4 @@
-## 33. §[^13]
+## 33. §[^14]
 
 ## 13. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 2. § 2015. április 1-jén lép hatályba.
 
-[^13]: A 33. § a 34. § (2) bekezdése alapján 2015. február 1-jén lép hatályba.
+[^14]: A 33. § a 34. § (2) bekezdése alapján 2015. február 1-jén lép hatályba.
