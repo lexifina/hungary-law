@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külgazdasági és külügyminiszter előterjesztésére – Bus Szilveszter rendkívüli és meghatalmazott nagykövetet felmentem Magyarország jakartai nagykövetségének vezetésére, valamint Magyarországnak Malajziában, Kelet-Timorban, a Fülöp-szigeteki Köztársaságban és a Délkelet-ázsiai Nemzetek Szövetségében (ASEAN) való képviseletére kapott megbízása alól, egyúttal megbízom Magyarország új-delhi nagykövetségének vezetésével, valamint Magyarországnak a Nepáli Szövetségi Demokratikus Köztársaságban, a Maldív Köztársaságban, a Srí Lankai Demokratikus Szocialista Köztársaságban és a Bangladesi Népi Köztársaságban való képviseletével.
+
+KEH ügyszám: IV-5/03801-1/2014.
