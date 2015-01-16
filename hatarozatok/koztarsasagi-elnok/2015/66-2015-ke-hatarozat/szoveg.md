@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külgazdasági és külügyminiszter előterjesztésére – dr. Varga Koritár Pál rendkívüli és meghatalmazott nagykövetet felmentem Magyarország Buenos Aires-i nagykövetségének vezetésére, valamint Magyarországnak a Chilei Köztársaságban, az Uruguay Keleti Köztársaságban és a Paraguay Köztársaságban való képviseletére kapott megbízása alól, egyúttal megbízom Magyarország mexikóvárosi nagykövetségének vezetésével, valamint Magyarországnak a Guatemalai Köztársaságban, a Costa Rica-i Köztársaságban, a Hondurasi Köztársaságban, Jamaicában és az El Salvadori Köztársaságban való képviseletével.
+
+KEH ügyszám: IV-5/03734-1/2014.
