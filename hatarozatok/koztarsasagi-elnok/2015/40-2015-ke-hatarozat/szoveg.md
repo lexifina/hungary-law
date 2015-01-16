@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külgazdasági és külügyminiszter előterjesztésére – Konkoly Norbert rendkívüli és meghatalmazott nagykövetet felmentem Magyarország lisszaboni nagykövetségének vezetésére, valamint Magyarországnak a Zöld-foki Köztársaságban, a Bissau-guineai Köztársaságban, továbbá a Sao Tomé és Príncipe Demokratikus Köztársaságban való képviseletére kapott megbízása alól, egyúttal megbízom Magyarország brazíliavárosi nagykövetségének vezetésével, valamint Magyarországnak a Guyanai Szövetkezeti Köztársaságban és a Suriname-i Köztársaságban való képviseletével.
+
+KEH ügyszám: IV-5/03751-1/2014.
