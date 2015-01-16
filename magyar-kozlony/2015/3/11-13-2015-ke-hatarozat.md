@@ -1,0 +1,19 @@
+# A köztársasági elnök 13/2015. (I. 16.) KE határozata
+
+Magyar Közlöny 2015. évi 3. szám, 2015. január 16. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/074ef8f0218fc006dddafc3231e1519690456409/dokumentumok/658ccefd80856102e8c08668e6bfd00e00e94e3f/letoltes)
+
+---
+
+A köztársasági elnök 13/2015. (I. 16.) KE határozata
+rendkívüli és meghatalmazott nagykövet megbízás alóli felmentéséről
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külgazdasági és külügyminiszter előterjesztésére –
+dr. Huszár János rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem
+Magyarország tiranai nagykövetségének vezetésére kapott megbízása alól.
+Budapest, 2014. augusztus 1.
+ Áder János s. k.,
+ köztársasági elnök
+Ellenjegyzem:
+Budapest, 2014. augusztus 8.
+ Dr. Navracsics Tibor s. k.,
+ külgazdasági és külügyminiszter
+KEH ügyszám: IV-5/03719-1/2014.

@@ -1,0 +1,21 @@
+# A köztársasági elnök 52/2015. (I. 16.) KE határozata
+
+Magyar Közlöny 2015. évi 3. szám, 2015. január 16. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/074ef8f0218fc006dddafc3231e1519690456409/dokumentumok/658ccefd80856102e8c08668e6bfd00e00e94e3f/letoltes)
+
+---
+
+A köztársasági elnök 52/2015. (I. 16.) KE határozata
+rendkívüli és meghatalmazott nagykövet megbízás alóli felmentéséről és megbízásáról
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külgazdasági és külügyminiszter előterjesztésére – Csillag
+Ferenc rendkívüli és meghatalmazott nagykövetet – Magyarország Bahreinben való képviseletére kapott megbízása
+érintetlenül hagyása mellett – felmentem Magyarország kuvaitvárosi nagykövetségének vezetésére kapott
+megbízása alól, egyúttal megbízom Magyarország rijádi nagykövetségének vezetésével, valamint Magyarországnak
+az Ománi Szultánságban való képviseletével.
+Budapest, 2014. augusztus 21.
+ Áder János s. k.,
+ köztársasági elnök
+Ellenjegyzem:
+Budapest, 2014. augusztus 27.
+ Dr. Navracsics Tibor s. k.,
+ külgazdasági és külügyminiszter
+KEH ügyszám: IV-5/04009-1/2014.
