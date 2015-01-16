@@ -28,34 +28,8 @@
 
 ## Határidő: folyamatos
 
-## 2. Az egyes egészségügyi intézmények infrastrukturális fejlesztését célzó projektek megvalósítása érdekében szükséges források finanszírozásáról szóló 1647/2014. (XI. 14.) Korm. határozat (a továbbiakban: határozat) 1. pont a) alpontja helyébe a következő rendelkezés lép:
-
-## (A Kormány
-
-## jóváhagyja az 1. melléklet szerint az ott felsorolt projektek)
-
-## „a) a Társadalmi Infrastruktúra Operatív Program (a továbbiakban: TIOP) 2011–2013. évekre szóló akcióterve 2. prioritása keretében, az árfolyam-kompenzációból és lemorzsolódásból fakadó szabad forrásai terhére elszámolható költségeinek legfeljebb 3 830 877 702 forint támogatással, és az ehhez kapcsolódó, legfeljebb 353 745 353 forint önerővel történő növelését a Magyarország központi költségvetése Uniós fejlesztések fejezet, Állami költségvetési kedvezményezettek sajáterő támogatása előirányzatából, valamint”
-
-## 3. A határozat a következő 3/A. ponttal egészül ki:
-
-## (A Kormány)
-
-## „3/A. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az 1. melléklet szerinti projektekkel összefüggésben benyújtott szerződésmódosítási kérelmek elszámolhatósági vizsgálatának lefolytatásáról és a támogatói döntés meghozataláról,
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: azonnal”
-
-## 4. A határozat 4. pontjában
-
-## a) az „az a) alpont tekintetében: a 3. pontban foglaltak végrehajtását követően azonnal” szövegrész helyébe az „az a) alpont tekintetében: a 3. és a 3/A. pontban foglaltak végrehajtását követően azonnal” szöveg, és
-
-## b) az „a b) alpont tekintetében: azonnal” szövegrész helyébe az „a b) alpont tekintetében: a 3/A. pontban foglaltak végrehajtását követően azonnal” szöveg
-
-## lép.
-
-## 5. A határozat 1. melléklete a 2. melléklet szerint módosul.
-
-## 6. A Kormány visszavonja a határozat 5. pontját.
+## 2–6.[^1]
 
 1. melléklet az 1004/2015. (I. 15.) Korm. határozathoz
+
+[^1]: A 2–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
