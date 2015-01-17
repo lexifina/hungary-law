@@ -42,11 +42,11 @@
 
 ## Az irányadó gondozási szükséglet:
 
-## 0–10 pont: nincs
+## 0–19 pont: nincs
 
-## 11–20 pont: 1 óra
+## 20–25 pont: 1 óra
 
-## 21–30 pont: 2 óra
+## 26–30 pont: 2 óra
 
 ## 31–35 pont: 3 óra
 
@@ -54,7 +54,7 @@
 
 ## 40 pont felett: 4 órát meghaladó
 
-## Bentlakásos intézményben élők gondozási szükségletének – az egyes szociális tárgyú törvények módosításáról szóló 2007. évi CXXI. törvény 81. §-ának (6) bekezdése szerinti – vizsgálata során a 8. pont szerinti szempontok vizsgálatára irányadó szempontokat figyelmen kívül kell hagyni. Az irányadó gondozási szükséglet 35 pont felett 4 órát meghaladó.
+## Bentlakásos intézményben élők gondozási szükségletének vizsgálata során a 8. pont szerinti szempontok vizsgálatára irányadó szempontokat figyelmen kívül kell hagyni. Az irányadó gondozási szükséglet 35 pont felett 4 órát meghaladó.
 
 4. számú melléklet a 36/2007. (XII. 22.) SZMM rendelethez[^19]
 
