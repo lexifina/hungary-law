@@ -20,7 +20,7 @@
 
 ## – családgondozó (2000–5000 fő lakosig, és 5000 fő lakos felett 5000 főre vetítve; ha a szervezetileg egy egységben dolgozó családgondozók száma három vagy ennél több, akkor közülük vezető családgondozót kell kinevezni) 1 fő
 
-## – szociális segítő vagy tanácsadó (30 000 lakosra vetítve) 2 fő
+## – tanácsadó (30 000 lakosra vetítve) 1 fő
 
 ## 4. Falugondnoki és tanyagondnoki szolgálat
 
@@ -86,7 +86,7 @@
 
 ## 1. Nappali ellátást nyújtó intézmények
 
-## A) Idősek klubja
+## A) Idősek nappali ellátása
 
 ## – nappali ellátást vezető 1 fő
 
@@ -314,7 +314,7 @@
 
 ## = hajléktalanok éjjeli menedékhelye és átmeneti szállása 4 fő
 
-## – szociális segítő (50 férőhelyre vetítve)
+## – szociális segítő (100 férőhelyre vetítve)
 
 ## = hajléktalanok éjjeli menedékhelye és átmeneti szállása 3 fő
 
@@ -466,9 +466,9 @@
 
 ## – konyhai kisegítő (100 adagonként) 1 fő
 
-## 8. A nappali intézmény, idősek klubjai esetében a szociális, mentálhigiénés létszám irányszámok kialakítása során a következő munkakörök javasoltak:
+## 8. A nappali intézmény, idősek nappali ellátása esetében a szociális, mentálhigiénés létszám irányszámok kialakítása során a következő munkakörök javasoltak:
 
-## Nappali ellátást nyújtó intézmények, Idősek klubja:
+## Nappali ellátást nyújtó intézmények, Idősek nappali ellátása:
 
 ## – szociális, mentálhigiénés munkatárs heti 4 óra
 
@@ -502,7 +502,9 @@
 
 ## 12. A támogatott lakhatás tekintetében a fenntartónak a működés megkezdésének időpontjában, illetve az azt követő három hónapban a II. 2. G) pont szerinti személyi feltételekkel kell rendelkeznie. Ezt követően a létszámfeltételeket a 14. számú melléklet szerint a szolgáltatás biztosításához szükséges óraszám/létszámnak az összes ellátottra számított összege határozza meg. A személyi feltételekben történő változást – a bentlakásos intézményekre a 10. pontban meghatározottak szerint – a működést engedélyező szervnek be kell jelenteni.
 
-3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^269]
+## 13. Családsegítés esetében a tanácsadó munkakör munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében is betölthető.
+
+3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^278]
 
 A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimumelőírásai
 
@@ -710,9 +712,9 @@ A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatotta
 
 |  | szociális menedzser |  |  |  |  |  |  |
 
-| személyi segítő | igazgatásszervező szociális igazgatás szakirányú végzettséggel | 25 | általános ápoló | gyakorló ápoló | geriátriai szakápoló | 65 |  |
+|  |  |  | általános ápoló | gyakorló ápoló | geriátriai szakápoló | 100 |  |
 
-|  | viselkedéselemző | pszichiátriai szakápoló |  |
+|  |  | pszichiátriai szakápoló |  |
 
 |  |  |  | sürgősségi szakápoló |  |
 
@@ -1708,4 +1710,4 @@ A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatotta
 
 10.3. Szenvedélybetegek ápoló-gondozó otthona, átmeneti intézménye, rehabilitációs intézménye, rehabilitációs célú lakóotthona
 
-[^269]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a szerint módosított szöveg.
+[^278]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a, a 2/2015. (I. 14.) EMMI rendelet 12. § (2) bekezdése szerint módosított szöveg.
