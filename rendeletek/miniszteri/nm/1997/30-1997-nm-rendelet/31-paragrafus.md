@@ -1,1 +1,0 @@
-## Önkiszolgáló tevékenység, munkafoglalkoztatás

@@ -1,3 +1,0 @@
-52. § (1) A fiatalkorút az intézetben a nyomozó hatóság vagy hatósági ügyben eljáró más szerv – az igazgatóval egyeztetett időpontban – kihallgathatja. A kihallgatáson történő részvétel céljából megjelenő törvényes képviselőnek, valamint a védőnek az intézetbe történő belépését engedélyezni kell. Ha a nyomozó hatóság igényt tart rá, az intézet kijelölt dolgozójának a kihallgatáson gondozóként részt kell vennie.
-
-(2) Az igazgató a nyomozó hatóság részére – írásbeli megkeresésük alapján – engedélyezheti a fiatalkorúnak nyomozati cselekmények lefolytatása céljából történő kiadását. A nyomozati cselekmények lefolytatását követően a fiatalkorút haladéktalanul vissza kell kísérni az intézetbe, rendőrségi fogdán nem lehet elhelyezni.
