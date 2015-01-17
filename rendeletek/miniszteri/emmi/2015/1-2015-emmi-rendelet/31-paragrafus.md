@@ -1,0 +1,3 @@
+31. § (1) A javítóintézeten kívül folytatott tanulmányok engedélyezése esetén az igazgató előírja, hogy a fiatalkorú mennyi időt tölthet a javítóintézeten kívül, és milyen szabályokat kell betartania. A szabályok ismételt vagy súlyos megszegése esetén az igazgató az engedélyt visszavonhatja.
+
+(2) A tanulmányok folytatása céljából a javítóintézeten kívül töltött idő alatt a fiatalkorú az azonosító kártyájával és a javítóintézeten kívüli tartózkodásra jogosító, a javítóintézet által a 7. melléklet szerinti adattartalommal kiállított engedéllyel (a továbbiakban: eltávozási engedély) igazolja a javítóintézeten kívüli tartózkodásának jogszerűségét.
