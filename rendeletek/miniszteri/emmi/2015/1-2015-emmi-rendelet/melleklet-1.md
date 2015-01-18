@@ -1,3 +1,5 @@
-## 69. § Hatályát veszti a javítóintézetek rendtartásáról szóló 30/1997. (X. 11.) NM rendelet.
+## 69. §[^1]
 
 1. melléklet az 1/2015. (I. 14.) EMMI rendelethez
+
+[^1]: A 69. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
