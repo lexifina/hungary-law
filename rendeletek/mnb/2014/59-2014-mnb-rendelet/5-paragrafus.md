@@ -1,0 +1,7 @@
+## 4. § A Szantv. 17. § (2) bekezdés b) pontja alapján saját tőke hiány miatt az intézmény várhatóan fizetésképtelennek tekinthető, ha a Felügyelet megítélése szerint a Szantv. 17. § (2) bekezdés b) pontjában meghatározott feltétel legkésőbb 12 hónapon belül bekövetkezik. Jelen § alkalmazásakor a Felügyelet a 3. § (2) bekezdésében foglaltakat megfelelően alkalmazza.
+
+5. § (1) A Szantv. 17. § (2) bekezdés c) pontja alapján az intézmény likviditási problémák miatt várhatóan fizetésképtelennek minősíthető, amennyiben a Felügyelet megítélése szerint az intézmény likviditási mutatószámait (BFM, MFM, DMM), valamint az eszközei és kötelezettségei lejáratára vonatkozó adatokat figyelembe véve legkésőbb 12 hónapon belül a Szantv. 17. § (2) bekezdés c) pontjában meghatározott esemény bekövetkezik.
+
+(2) Szövetkezeti hitelintézet esetében a Felügyelet a BFM, az MFM és a DMM mutatóhoz tartalmilag legközelebb álló mutatókat alkalmazza. Befektetési vállalkozás esetében a Felügyelet a felügyeleti mérleg és az egyéb rendszeres adatszolgáltatás adataiból számítható likviditási mutatókat alkalmazza, figyelemmel a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott szegregációs követelményekre.
+
+(3) Az (1) és (2) bekezdés alkalmazásakor a Felügyelet a 3. § (2) bekezdésében foglaltakat megfelelően alkalmazza.

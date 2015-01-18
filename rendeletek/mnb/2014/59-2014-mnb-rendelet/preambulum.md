@@ -1,0 +1,1 @@
+A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény 145. § (2) bekezdés d) és e) pontjában kapott felhatalmazás alapján, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 4. § (8) és (9) bekezdésében foglalt feladatkörömben eljárva a következőket rendelem el:
