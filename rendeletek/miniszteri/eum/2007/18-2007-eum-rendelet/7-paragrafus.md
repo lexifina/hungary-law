@@ -1,4 +1,4 @@
-7. § (1)[^23] Az érintett adatainak változását a működési nyilvántartási lapon a Hivatal vezeti át, továbbá kérelemre gondoskodik új igazolvány kiállításáról.
+7. § (1)[^23] Az érintett adatainak változását – ideértve az érvényes nyilvántartási időszak alatt megszerzett új egészségügyi szakképesítés működési nyilvántartásba történő bevezetését is – a működési nyilvántartási lapon a Hivatal vezeti át, továbbá kérelemre gondoskodik új igazolvány kiállításáról.
 
 (2) Az elveszett, megrongálódott vagy megsemmisült igazolvány pótlásáról, illetve cseréjéről a Hivatal gondoskodik.
 
@@ -8,5 +8,5 @@
 
 (5) A nyilvántartásban szereplő személy kérelmére a Hivatal kivonatot ad ki a működési nyilvántartásban szereplő és más módon közhitelesen nem igazolható adatokról.
 
-[^23]: A 7. § (1) bekezdése az 57/2011. (IX. 29.) NEFMI rendelet 7. §-ával megállapított szöveg.
+[^23]: A 7. § (1) bekezdése a 4/2015. (I. 20.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^24]: A 7. § (3) bekezdése az 57/2011. (IX. 29.) NEFMI rendelet 16. § b) pontja szerint módosított szöveg.
