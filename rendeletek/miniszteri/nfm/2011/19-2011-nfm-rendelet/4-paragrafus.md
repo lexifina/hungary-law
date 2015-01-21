@@ -12,7 +12,7 @@ a) az általa szervezett képzés oktatója e rendeletben előírt személyi fel
 
 b) a felnőttképzést folytató intézmények nyilvántartásában szerepel, és
 
-c)[^7] a Nemzeti Munkaügyi Hivatal által kiadott intézmény-akkreditációs tanúsítvánnyal rendelkezik.
+c)[^7] a Nemzeti Szakképzési és Felnőttképzési Hivatal által kiadott intézmény-akkreditációs tanúsítvánnyal rendelkezik.
 
 (2a)[^8] Az országos vasúti pályahálózaton vonatokat közlekedtető vasúti járművezetők képzésével foglalkozó kérelmező a (2) bekezdésben meghatározott feltételeken túl képzési engedélyt akkor kaphat, ha:
 
@@ -40,6 +40,6 @@ b) a tárgyi feltételek biztosításának megfelelően a képzés helyét.
 
 (6) A képzőszervezet minden év március 31-ig beszámol a hatóságnak az általa az előző évben folytatott oktatási tevékenységéről, és – statisztikai adatok közlésével – annak eredményességéről.
 
-[^7]: A 4. § (2) bekezdés c) pontja az 5/2013. (II. 12.) NFM rendelet 22. § a) pontja szerint módosított szöveg.
+[^7]: A 4. § (2) bekezdés c) pontja az 5/2013. (II. 12.) NFM rendelet 22. § a) pontja, a 2/2015. (I. 20.) NFM rendelet 2. §-a szerint módosított szöveg.
 [^8]: A 4. § (2a) bekezdését az 5/2013. (II. 12.) NFM rendelet 2. §-a iktatta be.
 [^9]: A 4. § (2b) bekezdését az 5/2013. (II. 12.) NFM rendelet 2. §-a iktatta be.
