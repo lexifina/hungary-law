@@ -8,7 +8,17 @@
 
 1.2. Más szakmacsoport számára kötelezőnek meghirdetett, a résztvevőnek szabadon választhatónak minősülő tanfolyamon való részvétel 10 pont, írásbeli vizsgával történő befejezés esetén 20 pont. Sikertelen tudásszint felmérő teszt esetén a tanfolyami részvétel pontszáma 10 pont.
 
-1.3.[^116] Az orvosok, fogorvosok, gyógyszerészek és az egészségügyi felsőfokú szakirányú szakképesítéssel rendelkezők folyamatos továbbképzéséről szóló miniszteri rendelet szerinti kötelező szakmacsoportos, valamint szabadon választható, akkreditált elméleti továbbképzésen történő részvétel 20 pont.
+1.3.[^129] Az orvosok, fogorvosok, gyógyszerészek és az egészségügyi felsőfokú szakirányú szakképesítéssel rendelkezők folyamatos továbbképzéséről szóló miniszteri rendelet szerinti kötelező szakmacsoportos, valamint szabadon választható, akkreditált elméleti továbbképzésen történő részvétel:
+
+a) 10 pontig minősített továbbképzés esetén: 4 pont,
+
+b) 11–20 pontig minősített továbbképzés esetén: 8 pont,
+
+c) 21–30 pontig minősített továbbképzés esetén: 12 pont,
+
+d) 31–40 pontig minősített továbbképzés esetén: 16 pont,
+
+e) 41–50 pontig minősített továbbképzés esetén: 20 pont.
 
 2. Intézményen belül szervezett továbbképzési formák
 
@@ -68,4 +78,4 @@ Legmagasabb adható pontérték évente 20 pont.
 
 4.7.3. Szerkesztőként 20 pont.
 
-[^116]: A 2. melléklet 1. pont 1.3. alpontja a 14/2014. (III. 10.) EMMI rendelet 18. § b) pontjával megállapított szöveg.
+[^129]: A 2. melléklet 1. pont 1.3. alpontja a 4/2015. (I. 20.) EMMI rendelet 11. § b) pontjával megállapított szöveg.
