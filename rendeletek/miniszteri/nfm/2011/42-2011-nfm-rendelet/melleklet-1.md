@@ -1,6 +1,6 @@
 ## 17. § Hatályát veszti a közúti közlekedéssel kapcsolatos egyes bírságok kivetésének részletes szabályairól és a bírságok felhasználásának rendjéről szóló 45/2005. (VI. 23.) GKM rendelet, valamint a közúti közlekedéssel kapcsolatos egyes bírságok kivetésének részletes szabályairól és a bírságok felhasználásának rendjéről szóló 45/2005. (VI. 23.) GKM rendelet módosításról szóló 15/2011. (IV. 27.) NFM rendelet.
 
-1. melléklet a 42/2011. (VIII. 11.) NFM rendelethez[^12]
+1. melléklet a 42/2011. (VIII. 11.) NFM rendelethez[^13]
 
 ## Az eljáró hatóságok számlaszámai
 
@@ -100,8 +100,8 @@
 
 | Országos Rendőr-főkapitányság célelszámolási számla | 10023002-01451715-30000003 |
 
-5. A Nemzeti Munkaügyi Hivatal Magyar Államkincstár számlaszáma: 10032000-01732630-00000000.
+5. A Nemzetgazdasági Minisztérium számlaszáma: 10032000-01460658-00000000
 
 6. Az Országos Katasztrófavédelmi Főigazgatóság Magyar Államkincstár számlaszáma: 10023002-00283494-20000002 Közúti közlekedési bírság letéti számla.
 
-[^12]: Az 1. melléklet a 19/2012. (IV. 26.) NFM rendelet 3. § b) pontja, a 31/2013. (VI. 18.) NFM rendelet 6. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet a 19/2012. (IV. 26.) NFM rendelet 3. § b) pontja, a 31/2013. (VI. 18.) NFM rendelet 6. § (3) bekezdés b) pontja, a 2/2015. (I. 20.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.

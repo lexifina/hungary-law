@@ -12,9 +12,9 @@ bc) a Repülőtéri Rendőr Igazgatóság, a megyei, fővárosi rendőr-főkapit
 
 bd) a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) megyei (fővárosi) vám- és pénzügyőri igazgatósága, másodfokon a megyei (fővárosi) vám- és pénzügyőri igazgatóság felügyeletét ellátó regionális vám- és pénzügyőri főigazgatóság,
 
-be) a fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szerve munkaügyi felügyelőségének igazgatója, másodfokon a Nemzeti Munkaügyi Hivatal munkavédelmi és munkaügyi igazgatóságának vezetője,
+be)[^2] a fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szerve munkaügyi felügyelőségének igazgatója, másodfokon a foglalkoztatáspolitikáért felelős miniszter,
 
-bf)[^2] a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet 4/A. §-a szerinti hivatásos katasztrófavédelmi szerv,
+bf)[^3] a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet 4/A. §-a szerinti hivatásos katasztrófavédelmi szerv,
 
 bg) a közterület-felügyelet,
 
@@ -23,4 +23,5 @@ c) az 1. § c) pontja alapján a megyei (fővárosi) közlekedési felügyelős�
 [a továbbiakban az a)–c) pontok együtt: eljáró hatóság] jogosult.
 
 [^1]: A 2. § a 47/2012. (VIII. 23.) NFM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § b) pont bf) alpontja az 56/2014. (XII. 29.) NFM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § b) pont be) alpontja a 2/2015. (I. 20.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 2. § b) pont bf) alpontja az 56/2014. (XII. 29.) NFM rendelet 1. §-ával megállapított szöveg.
