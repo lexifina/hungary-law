@@ -12,7 +12,7 @@ c) szakmai vélemény nyilvánítása a FAM tevékenységgel kapcsolatban hozzá
 
 (3) A FAM Bizottság tagjai:
 
-a) a Nemzeti Munkaügyi Hivatal munkavédelmi és munkaügyi igazgatósága egy fő,
+a)[^2] a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium egy fő,
 
 b) a Magyar Kereskedelmi Engedélyezési Hivatal egy fő,
 
@@ -27,3 +27,4 @@ A Bizottság tagjait az energiapolitikáért felelős miniszter bízza meg háro
 (4) A FAM Bizottság tagjai közül megválasztja elnökét és jóváhagyja működési szabályzatát. A FAM Bizottság ülésein az energiapolitikáért felelős miniszter által vezetett minisztérium képviselője tanácskozási joggal vesz részt.
 
 [^1]: A 2. § a 19/2012. (IV. 26.) NFM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (3) bekezdés a) pontja a 2/2015. (I. 20.) NFM rendelet 1. §-a szerint módosított szöveg.
