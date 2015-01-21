@@ -1,4 +1,4 @@
-## 15. [^27] Útpénztár (17-20-32-26, ÁHT: 265690)
+## 15. [^28] Útpénztár (17-20-32-26, ÁHT: 265690)
 
 30. § (1) Az előirányzat – a koncessziós szerződés keretében vagy a KKK vagyonkezelésében nem álló, magántőke bevonásával megvalósult vagy megvalósuló országos közúthálózat és azok tartozékai kivételével – az országos közúthálózat, valamint az Országos Közúti Adatbankban szereplő közúthálózati elemek, illetve a Magyar Állam tulajdonában álló, az Országos Közúti Adatbankban nem szereplő közutak üzemeltetését, karbantartását, felújítását és fejlesztését szolgálja.
 
@@ -14,7 +14,7 @@
 
 (7) Az előirányzat terhére visszatérítési kötelezettséggel támogatás (kölcsön) nem nyújtható, előleg nem folyósítható, továbbá az előirányzatot megillető követelésről lemondani csak jogszabályban meghatározott esetben lehet.
 
-(8)[^28] Az előirányzat a Magyar Közút Nonprofit Zrt., a Nemzeti Útdíjfizetési Szolgáltató Zrt., a Nemzeti Közlekedési Hatóság, illetve a NIF Zrt. KKK-val kötött szerződése útján kerül felhasználásra.
+(8)[^29] Az előirányzat a Magyar Közút Nonprofit Zrt., a Nemzeti Útdíjfizetési Szolgáltató Zrt., a Nemzeti Közlekedési Hatóság, illetve a NIF Zrt. KKK-val kötött szerződése útján kerül felhasználásra.
 
-[^27]: A 15. alcím címe a 16/2014. (IV. 3.) NFM rendelet 26. § b) pontja szerint módosított szöveg.
-[^28]: A 30. § (8) bekezdése a 16/2014. (IV. 3.) NFM rendelet 26. § c) pontja szerint módosított szöveg.
+[^28]: A 15. alcím címe a 16/2014. (IV. 3.) NFM rendelet 26. § b) pontja szerint módosított szöveg.
+[^29]: A 30. § (8) bekezdése a 16/2014. (IV. 3.) NFM rendelet 26. § c) pontja szerint módosított szöveg.

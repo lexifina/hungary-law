@@ -1,4 +1,4 @@
-## 43. §[^41]
+## 43. §[^42]
 
 ## 28. A Várkert Bazár rekonstrukciója (17-20-33-19, ÁHT: 339728)
 
@@ -10,11 +10,11 @@ b) festőrestaurátori és más restaurátori tevékenységek elvégzésére,
 
 c) színpadtechnikai eszközpark audiovizuális eszközeinek fejlesztésére,
 
-d)[^42] a Várgondnokság Nonprofit Kft.-nek mint kedvezményezettnek az európai uniós forrás terhére kötött támogatási szerződés keretében, a Várkert Bazár rekonstrukciójából adódó feladatai ellátása kapcsán felmerülő el nem számolható költségeire.
+d)[^43] a Várgondnokság Nonprofit Kft.-nek mint kedvezményezettnek az európai uniós forrás terhére kötött támogatási szerződés keretében, a Várkert Bazár rekonstrukciójából adódó feladatai ellátása kapcsán felmerülő el nem számolható költségeire.
 
 (2) Az előirányzat felhasználása a Várgondnokság Nonprofit Kft.-vel mint kedvezményezettel az (1) bekezdésben meghatározott feladatok ellátására kötött támogatási szerződés alapján, vissza nem térítendő támogatás formájában a kedvezményezett részére történő kifizetéssel történik. A támogatás terhére előleg folyósítható.
 
 (3) Az (1) bekezdés alapján nyújtott támogatás az Európai Bizottság SA. 34770 (2012/N-2) számú határozatával összhangban – az Európai Unió működéséről szóló szerződés 107. cikk (3) bekezdés d) pontjának hatálya alá tartozó kulturális támogatás.
 
-[^41]: A 43. §-t az 58/2014. (XII. 30.) NFM rendelet 16. §-a hatályon kívül helyezte.
-[^42]: A 44. § (1) bekezdés d) pontja az 58/2014. (XII. 30.) NFM rendelet 15. §-a szerint módosított szöveg.
+[^42]: A 43. §-t az 58/2014. (XII. 30.) NFM rendelet 16. §-a hatályon kívül helyezte.
+[^43]: A 44. § (1) bekezdés d) pontja az 58/2014. (XII. 30.) NFM rendelet 15. §-a szerint módosított szöveg.

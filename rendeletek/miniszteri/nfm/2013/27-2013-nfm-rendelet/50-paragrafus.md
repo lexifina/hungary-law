@@ -6,12 +6,12 @@
 
 (2) Az előirányzat fedezetet biztosít a beruházási program megvalósításához, a környezeti rekultiváció elvégzéséhez, a kiépített megfigyelő rendszerek működtetéséhez.
 
-(3)[^51] Az előirányzat terhére végzendő feladatokról a MECSEK-ÖKO Környezetvédelmi Nonprofit Zrt. (a továbbiakban: MECSEK-ÖKO Zrt.) vagy jogutódja – felhasználási ütemezéssel és indokolással ellátott – felhasználási javaslatot készít.
+(3)[^53] Az előirányzat terhére végzendő feladatokról a MECSEK-ÖKO Környezetvédelmi Nonprofit Zrt. (a továbbiakban: MECSEK-ÖKO Zrt.) vagy jogutódja – felhasználási ütemezéssel és indokolással ellátott – felhasználási javaslatot készít.
 
-(4)[^52] Az előirányzat felhasználására a (2) bekezdésben meghatározott feladatok ellátására a MECSEK-ÖKO Zrt.-vel vagy jogutódjával, mint kedvezményezettel kötött támogatási szerződés alapján, vissza nem térítendő támogatás formájában a kedvezményezett részére történő kifizetéssel kerül sor.
+(4)[^54] Az előirányzat felhasználására a (2) bekezdésben meghatározott feladatok ellátására a MECSEK-ÖKO Zrt.-vel vagy jogutódjával, mint kedvezményezettel kötött támogatási szerződés alapján, vissza nem térítendő támogatás formájában a kedvezményezett részére történő kifizetéssel kerül sor.
 
-(5)[^53]
+(5)[^55]
 
-[^51]: Az 50. § (3) bekezdése a 16/2014. (IV. 3.) NFM rendelet 16. §-ával megállapított szöveg.
-[^52]: Az 50. § (4) bekezdése a 16/2014. (IV. 3.) NFM rendelet 16. §-ával megállapított szöveg.
-[^53]: Az 50. § (5) bekezdését a 16/2014. (IV. 3.) NFM rendelet 27. § (1) bekezdése hatályon kívül helyezte.
+[^53]: Az 50. § (3) bekezdése a 16/2014. (IV. 3.) NFM rendelet 16. §-ával megállapított szöveg.
+[^54]: Az 50. § (4) bekezdése a 16/2014. (IV. 3.) NFM rendelet 16. §-ával megállapított szöveg.
+[^55]: Az 50. § (5) bekezdését a 16/2014. (IV. 3.) NFM rendelet 27. § (1) bekezdése hatályon kívül helyezte.

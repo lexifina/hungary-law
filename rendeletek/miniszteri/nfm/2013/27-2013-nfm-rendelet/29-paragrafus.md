@@ -4,6 +4,6 @@
 
 (2) Az előirányzat felhasználására a miniszter támogatási szerződést köt a KTI Nonprofit Kft.-vel mint kedvezményezettel.
 
-(3)[^25] A támogatás terhére előleg folyósítható.
+(3)[^26] A támogatás terhére előleg folyósítható.
 
-[^25]: A 29. § (3) bekezdését a 16/2014. (IV. 3.) NFM rendelet 7. §-a iktatta be.
+[^26]: A 29. § (3) bekezdését a 16/2014. (IV. 3.) NFM rendelet 7. §-a iktatta be.

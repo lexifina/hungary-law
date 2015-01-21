@@ -1,6 +1,6 @@
 ## 29. Infokommunikációs szolgáltatások, konszolidáció (17-20-34-1, ÁHT: 302768)
 
-45. §[^47] (1) Az előirányzat célja:
+45. §[^48] (1) Az előirányzat célja:
 
 a) a Sulinet országos lefedettségű szélessávú infokommunikációs hálózat működtetésének biztosítása,
 
@@ -22,4 +22,4 @@ i) a Nemzeti Elektronikus Információbiztonsági Hatóság szakmai feladatai el
 
 (2) Az előirányzat felhasználásának alapjául az (1) bekezdésben meghatározott célok teljesítése érdekében a miniszter a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-vel mint kedvezményezettel az egyedi döntése alapján közszolgáltatási szerződést, az ágazatban működő szervezetekkel mint kedvezményezettekkel az egyedi döntése alapján támogatási szerződést vagy vállalkozási szerződést, a Nemzeti Információs Infrastruktúra Fejlesztési Intézettel (a továbbiakban: NIIF Intézet), továbbá a Kormányzati Informatikai Fejlesztési Ügynökséggel (a továbbiakban: KIFÜ) előirányzat átcsoportosításra vonatkozó megállapodást köt.
 
-[^47]: A 45. § az 58/2014. (XII. 30.) NFM rendelet 6. §-ával megállapított szöveg.
+[^48]: A 45. § az 58/2014. (XII. 30.) NFM rendelet 6. §-ával megállapított szöveg.

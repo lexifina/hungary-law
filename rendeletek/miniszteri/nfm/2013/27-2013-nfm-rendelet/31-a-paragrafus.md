@@ -1,4 +1,4 @@
-## 16/A. [^29] Magyar légiközlekedés-történeti hagyaték létrehozása (17-20-32-25, ÁHT: 345062)
+## 16/A. [^30] Magyar légiközlekedés-történeti hagyaték létrehozása (17-20-32-25, ÁHT: 345062)
 
 31/A. § (1) Az előirányzat célja támogatás nyújtása a Budapest Liszt Ferenc Nemzetközi Repülőtéren – a magyar légiközlekedés-történeti hagyatékok összehangolásával és az iparági szereplőkkel szorosan együttműködve – egy, a XXI. századi elvárásoknak megfelelő repülőmúzeum és légiközlekedési látogatóközpont létrehozásához.
 
@@ -6,4 +6,4 @@
 
 (3) Az (1) bekezdés alapján nyújtott támogatás az Európai Bizottság SA 34.770 (2012/N-2) számú határozatával összhangban, az Európai Unió működéséről szóló szerződés 107. cikk (3) bekezdés d) pontja szerinti kulturális támogatásnak minősül, és a bizottsági határozattal összhangban nyújtható.
 
-[^29]: A 16/A. alcímet (31/A. §) a 16/2014. (IV. 3.) NFM rendelet 9. §-a iktatta be.
+[^30]: A 16/A. alcímet (31/A. §) a 16/2014. (IV. 3.) NFM rendelet 9. §-a iktatta be.

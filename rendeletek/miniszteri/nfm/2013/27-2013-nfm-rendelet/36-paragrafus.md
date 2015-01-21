@@ -24,7 +24,7 @@ k) a Megyei Fejlesztési Tanácsok és munkaszervezeteik működési kiadásaina
 
 l) a Területfejlesztési háttérintézményi feladatok előirányzat,
 
-m)[^34]
+m)[^35]
 
 n) a Területfejlesztési intézményrendszeri feladatok támogatása előirányzat
 
@@ -32,4 +32,4 @@ n) a Területfejlesztési intézményrendszeri feladatok támogatása előirány
 
 (2) A TFC-t terhelik az (1) bekezdésben meghatározott előirányzatok kapcsán felmerülő fizetési kötelezettségek.
 
-[^34]: A 36. § (1) bekezdés m) pontját az 58/2014. (XII. 30.) NFM rendelet 16. §-a hatályon kívül helyezte.
+[^35]: A 36. § (1) bekezdés m) pontját az 58/2014. (XII. 30.) NFM rendelet 16. §-a hatályon kívül helyezte.

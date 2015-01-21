@@ -1,6 +1,6 @@
 ## 30. Digitális megújulás és kapcsolódó feladatok (17-20-34-2, ÁHT: 295757)
 
-46. §[^48] (1) Az előirányzat forrást biztosít
+46. §[^49] (1) Az előirányzat forrást biztosít
 
 a) az információs társadalom fejlődését akadályozó tényezők felszámolása és a digitális írástudás szintjének emelése érdekében a közösségi terek működtetésének és fejlesztésének biztosítására,
 
@@ -20,8 +20,9 @@ h) az ágazattal összefüggő speciális szakfordítási, hitelesítési felada
 
 i) az információs és kommunikációs technológia helyi közösségek számára történő befogadásának erősítését, a lakossági életminőség javítását célzó tájékoztatók, konferenciák, motivációs programok megvalósítására.
 
-(2) Az (1) bekezdésben meghatározott célok teljesítése érdekében a miniszter a NIIF Intézettel, a KIFÜ-vel, a Nemzeti Munkaügyi Hivatallal, valamint az űrkutatási ágazatban működő szervezetekkel mint kedvezményezettel az egyedi döntése alapján támogatási szerződést vagy vállalkozási szerződést köt.
+(2)[^50] Az (1) bekezdésben meghatározott célok teljesítése érdekében a miniszter a NIIF Intézettel, a KIFÜ-vel, a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztériummal, valamint az űrkutatási ágazatban működő szervezetekkel mint kedvezményezettel az egyedi döntése alapján támogatási szerződést vagy vállalkozási szerződést köt.
 
 (3) Az előirányzat felhasználására részben a pályázati úton nyertes, vagy a (2) bekezdés szerinti kedvezményezettel kötött támogatási szerződés alapján vissza nem térítendő támogatás formájában a kedvezményezett részére történő kifizetéssel, részben vállalkozási szerződés útján, valamint tagdíj formájában kerül sor. A kedvezményezett részére nyújtott támogatásból előleg folyósítható.
 
-[^48]: A 46. § az 58/2014. (XII. 30.) NFM rendelet 7. §-ával megállapított szöveg.
+[^49]: A 46. § az 58/2014. (XII. 30.) NFM rendelet 7. §-ával megállapított szöveg.
+[^50]: A 46. § (2) bekezdése a 2/2015. (I. 20.) NFM rendelet 4. §-a szerint módosított szöveg.

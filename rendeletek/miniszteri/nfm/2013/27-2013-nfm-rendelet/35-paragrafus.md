@@ -2,7 +2,7 @@
 
 ## 20. Területfejlesztési célelőirányzat (17-20-33-4, ÁHT: 302735)
 
-35. §[^33] (1) A területfejlesztési célelőirányzat (a továbbiakban: TFC) terhére a miniszter forrást biztosíthat
+35. §[^34] (1) A területfejlesztési célelőirányzat (a továbbiakban: TFC) terhére a miniszter forrást biztosíthat
 
 a) az ELI-HU Nonprofit Korlátolt Felelősségű Társaság részére a szervezet hazai és nemzetközi feladatellátása során, a más támogatási szerződései keretében el nem számolható működési költségeire és egyéb ráfordításaira,
 
@@ -14,4 +14,4 @@ c) egyéb – így különösen európai uniós forrás terhére nem támogathat
 
 (3) Az (1) bekezdés alapján vissza nem térítendő támogatás biztosítható.
 
-[^33]: A 35. § az 58/2014. (XII. 30.) NFM rendelet 5. §-ával megállapított szöveg.
+[^34]: A 35. § az 58/2014. (XII. 30.) NFM rendelet 5. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 39. §[^39]
+## 39. §[^40]
 
 ## 24. Nemzeti beruházás ösztönzési célelőirányzat (17-20-33-10, ÁHT: 262845)
 
@@ -48,4 +48,4 @@ u) a gazdaságstratégiai feladatok megalapozását szolgáló kutatási és sza
 
 (2) Az előirányzat terhére az (1) bekezdésben meghatározott célokra vissza nem térítendő támogatás, illetve kamattámogatás és garanciadíj-támogatás nyújtható.
 
-[^39]: A 39. §-t az 58/2014. (XII. 30.) NFM rendelet 16. §-a hatályon kívül helyezte.
+[^40]: A 39. §-t az 58/2014. (XII. 30.) NFM rendelet 16. §-a hatályon kívül helyezte.

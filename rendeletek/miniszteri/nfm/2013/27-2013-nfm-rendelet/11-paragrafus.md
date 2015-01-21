@@ -2,7 +2,7 @@
 
 ## 2. Országos közúthálózat és gyorsforgalmi úthálózat fejlesztés (17-20-31-3, ÁHT: 302680)
 
-11. §[^7] (1) Az előirányzat az országos, illetve az adott beruházással érintett helyi közúthálózat fejlesztési feladatainak finanszírozására szolgál. Az előirányzat felhasználható a nem költségvetési forrásból megvalósuló országos, illetve az adott beruházással érintett helyi közúti beruházások előkészítéséhez, valamint a projektek lezárásához szükséges feladatok finanszírozására a miniszter által jóváhagyott felhasználási terv szerint.
+11. §[^8] (1) Az előirányzat az országos, illetve az adott beruházással érintett helyi közúthálózat fejlesztési feladatainak finanszírozására szolgál. Az előirányzat felhasználható a nem költségvetési forrásból megvalósuló országos, illetve az adott beruházással érintett helyi közúti beruházások előkészítéséhez, valamint a projektek lezárásához szükséges feladatok finanszírozására a miniszter által jóváhagyott felhasználási terv szerint.
 
 (2) Az előirányzat felhasználható továbbá a 7. sz. főút 148+100–150+000 km. szelvények közötti szakaszán a partfalnak a biztonságos közlekedés biztosítása érdekében történő megerősítésével összefüggő előkészítési és kárelhárítási feladatokra.
 
@@ -10,4 +10,4 @@
 
 (4) Az előirányzat felhasználására a 9. § (3)–(6) bekezdését és a 10. §-t alkalmazni kell.
 
-[^7]: A 11. § az 58/2014. (XII. 30.) NFM rendelet 3. §-ával megállapított szöveg.
+[^8]: A 11. § az 58/2014. (XII. 30.) NFM rendelet 3. §-ával megállapított szöveg.

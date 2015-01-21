@@ -1,4 +1,4 @@
-## 57. [^81] Fogyasztói érdekek képviseletét ellátó egyesületek támogatása (17-20-38-15, ÁHT: 208349)
+## 57. [^83] Fogyasztói érdekek képviseletét ellátó egyesületek támogatása (17-20-38-15, ÁHT: 208349)
 
 78/D. § (1) Az előirányzat forrást biztosít a fogyasztói érdekek képviseletét ellátó egyesületek költségvetési támogatásához. A költségvetési támogatás a fogyasztói érdekek képviseletét ellátó egyesületek keresetindítási költségeinek fedezésére, a feladataik ellátásának elősegítésére, a fogyasztók oktatására és tájékoztatására használható fel a fogyasztói tudatosság növelése érdekében.
 
@@ -20,4 +20,4 @@
 
 (10) Az előirányzat kezelő szerve a Közigazgatási és Igazságügyi Hivatal.
 
-[^81]: Az 57. alcímet (78/D. §) az 58/2014. (XII. 30.) NFM rendelet 13. §-a iktatta be.
+[^83]: Az 57. alcímet (78/D. §) az 58/2014. (XII. 30.) NFM rendelet 13. §-a iktatta be.

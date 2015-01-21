@@ -6,8 +6,8 @@
 
 (3) Az előirányzatból kifizetés a MÁV Zrt., vagy a beruházás előkészítése, megvalósítása érdekében a MÁV Zrt. által kötött szerződés alapján harmadik fél részére teljesíthető.
 
-(4)[^8] A támogatás folyósítására a támogatási szerződésben rögzítettek szerint teljesítésarányosan részletekben, a beszámoló vagy részbeszámoló elfogadását követően kerül sor. A támogatás terhére támogatási előleg folyósítható.
+(4)[^9] A támogatás folyósítására a támogatási szerződésben rögzítettek szerint teljesítésarányosan részletekben, a beszámoló vagy részbeszámoló elfogadását követően kerül sor. A támogatás terhére támogatási előleg folyósítható.
 
 (5) Az előirányzat kezelő szerve a KKK. Az előirányzat pénzügyi lebonyolítására szolgáló számla felett a KKK rendelkezési joggal bír, ellátja az előirányzat tekintetében a teljesítésigazolást, az érvényesítést és az utalványozást, végzi az előirányzattal kapcsolatos könyvvezetési feladatokat, részt vesz a (2) bekezdés szerinti támogatási szerződés előkészítésében, a forrás felhasználás támogatási szerződésben rögzítettekkel való összhangjának ellenőrzésében.
 
-[^8]: A 12. § (4) bekezdése a 16/2014. (IV. 3.) NFM rendelet 2. §-ával megállapított szöveg.
+[^9]: A 12. § (4) bekezdése a 16/2014. (IV. 3.) NFM rendelet 2. §-ával megállapított szöveg.

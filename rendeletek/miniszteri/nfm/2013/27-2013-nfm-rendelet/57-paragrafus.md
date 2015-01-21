@@ -1,6 +1,6 @@
-## 56. §[^61] A támogatás folyósítása a támogatási szerződésben vagy támogatói okiratban meghatározott forrásösszetétel szerinti pénzügyi és időbeli ütemezésben, a készültségi fokkal arányosan és utólagosan, a kedvezményezett által benyújtott számlák és teljesítést igazoló dokumentumok alapján, valamint ezek ellenőrzését követően történik. A teljesítést igazoló dokumentumban a kedvezményezett nyilatkozik arról, hogy a támogatás feltételéül vállalt kötelezettségek a támogatási szerződésnek vagy a támogatói okiratnak megfelelően teljesültek, a forrásokat rendeltetésszerűen és maradéktalanul a támogatási szerződésben vagy támogatói okiratban meghatározott feladatra használta fel.
+## 56. §[^63] A támogatás folyósítása a támogatási szerződésben vagy támogatói okiratban meghatározott forrásösszetétel szerinti pénzügyi és időbeli ütemezésben, a készültségi fokkal arányosan és utólagosan, a kedvezményezett által benyújtott számlák és teljesítést igazoló dokumentumok alapján, valamint ezek ellenőrzését követően történik. A teljesítést igazoló dokumentumban a kedvezményezett nyilatkozik arról, hogy a támogatás feltételéül vállalt kötelezettségek a támogatási szerződésnek vagy a támogatói okiratnak megfelelően teljesültek, a forrásokat rendeltetésszerűen és maradéktalanul a támogatási szerződésben vagy támogatói okiratban meghatározott feladatra használta fel.
 
-57. §[^62] (1) A támogatási szerződés vagy támogatói okirat módosítására irányuló kérelmet az 55. § szerinti kezelő szervhez kell benyújtani.
+57. §[^64] (1) A támogatási szerződés vagy támogatói okirat módosítására irányuló kérelmet az 55. § szerinti kezelő szervhez kell benyújtani.
 
 (2) A támogatási szerződés vagy támogatói okirat módosítása nem irányulhat a támogatás mértékéhez képest felmerülő többletköltségek támogatásból való finanszírozására.
 
@@ -34,5 +34,5 @@ c) a módosítás a beruházás finanszírozását érinti, a (3) bekezdés b)�
 
 (8) A támogatási szerződés vagy a támogatói okirat módosításával kapcsolatos további szabályokat a támogatási szerződésben vagy a támogatói okiratban kell meghatározni.
 
-[^61]: Az 56. § az 58/2014. (XII. 30.) NFM rendelet 9. §-ával megállapított szöveg.
-[^62]: Az 57. § az 58/2014. (XII. 30.) NFM rendelet 10. §-ával megállapított szöveg.
+[^63]: Az 56. § az 58/2014. (XII. 30.) NFM rendelet 9. §-ával megállapított szöveg.
+[^64]: Az 57. § az 58/2014. (XII. 30.) NFM rendelet 10. §-ával megállapított szöveg.
