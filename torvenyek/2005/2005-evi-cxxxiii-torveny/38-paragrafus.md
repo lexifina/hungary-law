@@ -28,7 +28,7 @@ l) valamennyi személy- és vagyonőr tekintetében elbírálja az e törvény 2
 
 m) tagjai támogatására – a kamara önkormányzati szabályzataiban meghatározott szabályok szerint – segélyalapot hoz létre és használ fel;
 
-n) kormányrendeletben meghatározott eljárásrendben részt vesz a rendészetért felelős miniszternek a minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét meghatározó rendeletének az előkészítésében.
+n) kormányrendeletben meghatározott eljárásrendben részt vesz a Kormány minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét meghatározó rendeletének az előkészítésében.
 
 o)
 
