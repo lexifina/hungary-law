@@ -1,3 +1,0 @@
-## 1. § Az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásáról, valamint a működési nyilvántartásban nem szereplő személyek tevékenységének engedélyezéséről szóló 18/2007. (IV. 17.) EüM rendelet (a továbbiakban: R.1.) 7. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az érintett adatainak változását – ideértve az érvényes nyilvántartási időszak alatt megszerzett új egészségügyi szakképesítés működési nyilvántartásba történő bevezetését is – a működési nyilvántartási lapon a Hivatal vezeti át, továbbá kérelemre gondoskodik új igazolvány kiállításáról.”
