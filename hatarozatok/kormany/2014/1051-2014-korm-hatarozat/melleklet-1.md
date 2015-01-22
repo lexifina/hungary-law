@@ -38,9 +38,9 @@
 
 ## Határidő: Magyarország 2015. évi központi költségvetéséről szóló törvény elfogadása
 
-## 7. felhívja a Miniszterelnökséget vezető államtitkárt, hogy a 2014–2020 közötti programozási időszakra vonatkozó szabályozási környezet kidolgozása során érvényesítse azt, hogy a költségvetési szerv kedvezményezett e programozási időszakban mindaddig ne pályázhasson európai uniós forrásra, amíg a 2007–2013 közötti programozási időszakban az európai uniós társfinanszírozású projektjének megvalósítása során a támogatási szerződésben rögzített ütemezéshez képest felmerült késedelmét nem dolgozta le,
+## 7.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy a 2014–2020 közötti programozási időszakra vonatkozó szabályozási környezet kidolgozása során érvényesítse azt, hogy a költségvetési szerv kedvezményezett e programozási időszakban mindaddig ne köthessen támogatási szerződést európai uniós forrásra, amíg a 2007–2013 közötti programozási időszakban az európai uniós társfinanszírozású projektjének megvalósítása során a támogatási szerződésben rögzített ütemezéshez képest felmerült késedelmét nem dolgozta le,
 
-## Felelős: Miniszterelnökséget vezető államtitkár
+## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: folyamatos
 
@@ -50,11 +50,11 @@
 
 ## Határidő: folyamatos
 
-## 9. felhívja a Miniszterelnökséget vezető államtitkárt, hogy a 2014–2020 közötti programozási időszakra vonatkozó szabályozás kidolgozása során érvényesítse azt, hogy azon gazdasági társaság és az ezen gazdasági társaság többségi tulajdonosának többségi tulajdonában álló más gazdasági társaság e programozási időszakban mindaddig ne pályázhasson európai uniós forrásra, amíg a 2007–2013 közötti programozási időszakban az európai uniós társfinanszírozású projektjének megvalósítása során a támogatási szerződésben rögzített ütemezéshez képest felmerült késedelmét nem dolgozta le,
+## 9.[^2] felhívja a Miniszterelnökséget vezető minisztert, hogy a 2014–2020 közötti programozási időszakra vonatkozó szabályozás kidolgozása során érvényesítse azt, hogy azon gazdasági társaság és az ezen gazdasági társaság többségi tulajdonosának többségi tulajdonában álló más gazdasági társaság e programozási időszakban mindaddig ne köthessen támogatási szerződést európai uniós forrásra, amíg a 2007–2013 közötti programozási időszakban az európai uniós társfinanszírozású projektjének megvalósítása során a támogatási szerződésben rögzített ütemezéshez képest felmerült késedelmét nem dolgozta le,
 
-## Felelős: Miniszterelnökséget vezető államtitkár
+## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2014. december 31.
+## Határidő: 2015. január 31.
 
 ## 10. felhívja a Miniszterelnökséget vezető államtitkárt, hogy gondoskodjon olyan módszertan kidolgozásáról, amely biztosítja, hogy a támogató és a közreműködő szervezetek között megkötendő szerződésekben a kifizetési határidők be nem tartása miatt a jelenleg irányadó szankció mértéke annak a kétszeresére emelkedjen.
 
@@ -63,3 +63,6 @@
 ## Határidő: 2014. március 15.
 
 1. melléklet az 1051/2014. (II. 7.) Korm. határozathoz
+
+[^1]: A 7. pont az 1014/2015. (I. 22.) Korm. határozat II. rész 1. pontjával megállapított szöveg.
+[^2]: A 9. pont az 1014/2015. (I. 22.) Korm. határozat II. rész 2. pontjával megállapított szöveg.
