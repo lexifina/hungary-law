@@ -1,9 +1,0 @@
-A munkavédelemről szóló 1993. évi XCIII. törvény 88. § (3) bekezdés b) pontjában kapott felhatalmazás alapján a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 7. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 6. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben –,
-
-a 2. alcím tekintetében a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 88. § (2) bekezdés 12. pontjában kapott felhatalmazás alapján a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában meghatározott feladatkörömben eljárva,
-
-a 3. alcím és az 1. melléklet tekintetében a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés j) pontjában kapott felhatalmazás alapján a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 10. és 15. pontjában meghatározott feladatkörében eljáró belügyminiszterrel, valamint a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. és 6. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben –,
-
-a 4. alcím tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet 25. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 2. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben –
-
-a következőket rendelem el:

@@ -1,3 +1,0 @@
-## 1. § A Feszültség Alatti Munkavégzés Biztonsági Szabályzatának kiadásáról szóló 72/2003. (X. 29.) GKM rendelet 2. § (3) bekezdés a) pontjában az „a Nemzeti Munkaügyi Hivatal munkavédelmi és munkaügyi igazgatósága” szövegrész helyébe az „a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium” szöveg lép.
-
-## 2. A vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésének és vizsgáztatásának, a vasúti vizsgaközpont és képzőszervezetek működésének, a képzési engedély kiadásának, továbbá a vasúti járművezetői gyakorlat szabályairól szóló 19/2011. (V. 10.) NFM rendelet módosítása
