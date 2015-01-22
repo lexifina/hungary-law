@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2014-03-15 | 2014. évi XV. törvény | 1999-84-00-00.42 |
 | 2014-07-01 | 2013. évi LXXVI. törvény | 1999-84-00-00.43 |
 | 2015-01-01 | 2014. évi LXXII. törvény | 1999-84-00-00.44 |
+| 2015-01-22 | 2014. évi XCIII. törvény | 1999-84-00-00.45 |
