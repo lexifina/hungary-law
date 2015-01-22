@@ -1,1 +1,13 @@
-16/A. § A helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elöl el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozási (parkolási) közszolgáltatást a helyi önkormányzat, vagy kizárólag ezen közszolgáltatási feladat ellátására alapított költségvetési szerv, 100%-os önkormányzati tulajdonban álló, jogi személyiséggel rendelkező gazdasági társaság, vagy e gazdasági társaság 100%-os tulajdonában álló jogi személyiséggel rendelkező gazdasági társaság, illetve önkormányzati társulás láthatja el külön törvényben szabályozottak szerint.
+16/A. § A helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozási (parkolási) közszolgáltatást
+
+a) a helyi önkormányzat,
+
+b) kizárólag e közszolgáltatási feladat ellátására alapított költségvetési szerv,
+
+c) 100%-os önkormányzati tulajdonban álló gazdasági társaság, továbbá e gazdasági társaság 100%-os tulajdonában álló gazdasági társaság,
+
+d) önkormányzati társulás, vagy
+
+e) a közterület-felügyelet
+
+láthatja el külön törvényben szabályozottak szerint.
