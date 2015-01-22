@@ -9,3 +9,5 @@
 (5) A segédfelügyelőre az 5. § (5) bekezdését, a 6–9. §-t, a 10. § (1) és (2) bekezdését, a 22. §-t, valamint a 23. §-t megfelelően alkalmazni kell.
 
 (6) A segédfelügyelő kizárólag önvédelmi célból vegyi eszközt, rendőrbotot és szolgálati kutyát tarthat magánál, valamint önvédelmi célból testi kényszert alkalmazhat.
+
+(7) A segédfelügyelő önállóan jogosult a helyi közutak, valamint a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek esetében a díjfizetési kötelezettség teljesítésének ellenőrzésére, a díj- és pótdíjkövetelés érvényesítésére.
