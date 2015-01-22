@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-63-00-00
 | 2012-04-15 | 2012. évi II. törvény | 1999-63-00-00.12 |
 | 2013-01-01 | 2012. évi CXX. törvény | 1999-63-00-00.13 |
 | 2013-07-01 | 2013. évi XCIII. törvény | 1999-63-00-00.14 |
+| 2015-01-22 | 2014. évi XCIII. törvény | 1999-63-00-00.15 |
