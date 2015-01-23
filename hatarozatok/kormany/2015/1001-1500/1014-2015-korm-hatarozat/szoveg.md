@@ -290,22 +290,6 @@ Határidő: folyamatos
 
 II.
 
-1. A Nemzeti Stratégiai Referencia Keret 2014. évi munkatervéről szóló 1051/2014. (II. 7.) Korm. határozat 7. pontja helyébe a következő rendelkezés lép:
+1–2.[^1]
 
-(A Kormány)
-
-„7. felhívja a Miniszterelnökséget vezető minisztert, hogy a 2014–2020 közötti programozási időszakra vonatkozó szabályozási környezet kidolgozása során érvényesítse azt, hogy a költségvetési szerv kedvezményezett e programozási időszakban mindaddig ne köthessen támogatási szerződést európai uniós forrásra, amíg a 2007–2013 közötti programozási időszakban az európai uniós társfinanszírozású projektjének megvalósítása során a támogatási szerződésben rögzített ütemezéshez képest felmerült késedelmét nem dolgozta le,
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-Határidő: folyamatos”.
-
-2. A Nemzeti Stratégiai Referencia Keret 2014. évi munkatervéről szóló 1051/2014. (II. 7.) Korm. határozat 9. pontja helyébe a következő rendelkezés lép:
-
-(A Kormány)
-
-„9. felhívja a Miniszterelnökséget vezető minisztert, hogy a 2014–2020 közötti programozási időszakra vonatkozó szabályozás kidolgozása során érvényesítse azt, hogy azon gazdasági társaság és az ezen gazdasági társaság többségi tulajdonosának többségi tulajdonában álló más gazdasági társaság e programozási időszakban mindaddig ne köthessen támogatási szerződést európai uniós forrásra, amíg a 2007–2013 közötti programozási időszakban az európai uniós társfinanszírozású projektjének megvalósítása során a támogatási szerződésben rögzített ütemezéshez képest felmerült késedelmét nem dolgozta le,
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-Határidő: 2015. január 31.”.
+[^1]: A II. rész 1–2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
