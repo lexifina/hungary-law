@@ -1,6 +1,6 @@
-## 5. §[^24] A díjak nyilvántartására és elszámolására a költségvetési szervek beszámolási és könyvvezetési kötelezettségéről szóló jogszabály előírásait kell alkalmazni.
+## 5. §[^25] A díjak nyilvántartására és elszámolására a költségvetési szervek beszámolási és könyvvezetési kötelezettségéről szóló jogszabály előírásait kell alkalmazni.
 
-## 6. §[^25] Az e rendeletben meghatározott díj tekintetében az illetékekről szóló 1990. évi XCIII. törvény
+## 6. §[^26] Az e rendeletben meghatározott díj tekintetében az illetékekről szóló 1990. évi XCIII. törvény
 
 a) 6. §-ában foglaltakat a díjmentességre,
 
@@ -18,5 +18,5 @@ g) 86. §-ában foglaltakat az elévülés tekintetében
 
 értelemszerűen kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon az eljárásra illetékes és hatáskörrel rendelkező hatóságot, ahol illetéket említ, azon díjat, ahol leletet említ, azon jegyzőkönyvet kell érteni.
 
-[^24]: Az 5. § a 4/2010. (II. 25.) KvVM rendelet 7. § (2) bekezdés g) pontja szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2010. április 11. napját követően indult eljárásokban kell alkalmazni.
-[^25]: A 6. § a 4/2010. (II. 25.) KvVM rendelet 4. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2010. április 11. napját követően indult eljárásokban kell alkalmazni.
+[^25]: Az 5. § a 4/2010. (II. 25.) KvVM rendelet 7. § (2) bekezdés g) pontja szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2010. április 11. napját követően indult eljárásokban kell alkalmazni.
+[^26]: A 6. § a 4/2010. (II. 25.) KvVM rendelet 4. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2010. április 11. napját követően indult eljárásokban kell alkalmazni.

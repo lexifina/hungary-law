@@ -912,6 +912,6 @@
 
 | 16. | Az országos vízügyi hatóságnak a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet 51. § (2) bekezdése szerinti eljárásában a gördülő fejlesztési terv 2015. évben és minden további alkalommal történő benyújtása esetén | 36 600 |
 
-2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^36]
+2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^39]
 
-[^36]: A 2. melléklet a 131/2013. (XII. 23.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^39]: A 2. melléklet a 131/2013. (XII. 23.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.

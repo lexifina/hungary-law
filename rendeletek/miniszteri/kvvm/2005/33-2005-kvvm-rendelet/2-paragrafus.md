@@ -2,7 +2,7 @@
 
 2. §[^2] (1) Igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni az 1. melléklet I-V. pontjában meghatározott eljárásokért.
 
-(2)[^3]
+(2)[^3] A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 64. § (2) bekezdése szerinti igazgatási jellegű szolgáltatásért (a továbbiakban: konzultáció) díjat kell fizetni. A fizetendő díj mértékét és számítási módját a 4. melléklet határozza meg.
 
 (3) Az (1) bekezdésben meghatározott eljárásokért fizetendő díj mértékét az 1. melléklet I-V. pontja határozza meg. A díjat – ha az 1. melléklet I-V. pontjából más nem következik – eljárásonként kell megfizetni.
 
@@ -50,6 +50,6 @@ alá tartozó tevékenységekre terjed ki.
 
 [^1]: Az 1. § a 131/2013. (XII. 23.) VM rendelet 1. § (1) bekezdésével megállapított, az 52/2014. (XI. 28.) BM rendelet 7. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^2]: Az 2. § a 4/2010. (II. 25.) KvVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2010. április 11. napját követően indult eljárásokban kell alkalmazni.
-[^3]: A 2. § (2) bekezdését a 136/2012. (XII. 21.) VM rendelet 3. §-a hatályon kívül helyezte.
+[^3]: A 2. § (2) bekezdését a 136/2012. (XII. 21.) VM rendelet 3. §-a hatályon kívül helyezte, újonnan a 40/2014. (XII. 23.) FM rendelet 1. §-a iktatta be.
 [^4]: A 2. § (9) bekezdését a 149/2011. (XII. 31.) VM rendelet 1. §-a iktatta be.
 [^5]: A 2. § (10) bekezdését a 149/2011. (XII. 31.) VM rendelet 1. §-a iktatta be.

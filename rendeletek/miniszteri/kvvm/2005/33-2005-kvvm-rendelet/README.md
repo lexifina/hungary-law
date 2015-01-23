@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-33-20-0
 | 2014-11-29 | 2005-33-20-0N.21 | 52/2014. (XI. 28.) BM rendelet |
 | 2014-12-23 | 2005-33-20-0N.22 | 24/2006. (IV. 24.) KvVM rendelet |
 | 2014-12-29 | 2005-33-20-0N.23 | 24/2006. (IV. 24.) KvVM rendelet |
+| 2015-01-23 | 2005-33-20-0N.24 | 40/2014. (XII. 23.) FM rendelet |
