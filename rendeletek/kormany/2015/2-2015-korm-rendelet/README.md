@@ -1,0 +1,9 @@
+# 2/2015. (I. 22.) Korm. rendelet
+
+a Gül Baba türbéje és környezete komplex rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-2-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-01-23 | 2015-2-20-22.1 | 2/2015. (I. 22.) Korm. rendelet |
