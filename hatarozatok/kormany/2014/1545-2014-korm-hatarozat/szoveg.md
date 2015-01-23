@@ -42,7 +42,7 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 nemzeti fejlesztési miniszter
 
-Határidő: 2014. december 31.
+Határidő:[^1] 2015. június 30.
 
 6. felhívja a Miniszterelnökséget vezető minisztert, hogy a nemzeti fejlesztési miniszter közreműködésével vizsgálja meg az állam távhőszolgáltatási piacra lépésének lehetőségeit, és a nemzeti közműszolgáltatási rendszer követelményeinek megfelelő, leghatékonyabb megoldási lehetőséget tartalmazó előterjesztést terjessze a Kormány elé.
 
@@ -50,4 +50,7 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 nemzeti fejlesztési miniszter
 
-Határidő: 2015. január 31.
+Határidő:[^2] 2015. június 30.
+
+[^1]: Az 5. pont az 1019/2015. (I. 22.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^2]: A 6. pont az 1019/2015. (I. 22.) Korm. határozat 8. pontja szerint módosított szöveg.
