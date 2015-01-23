@@ -6,4 +6,6 @@ A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. t
 
 3. felhívom a külgazdasági és külügyminisztert, hogy a megállapodás kihirdetéséről szóló kormányrendelet tervezetét a megállapodás szövegének végleges megállapítását követően haladéktalanul terjessze a Kormány elé;
 
-4. visszavonom a Magyarország Kormánya és Egyesült Arab Emírségek Kormánya közötti gazdasági és műszaki együttműködésről szóló megállapodás szövegének végleges megállapítására adott felhatalmazásról szóló 152/2013. (XII. 30.) ME határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
