@@ -84,15 +84,13 @@
 
 ## 329 Nagyút – Visonta
 
-3. melléklet a 168/2010. (V. 11.) Korm. rendelethez[^3]
+3. melléklet a 168/2010. (V. 11.) Korm. rendelethez[^4]
 
 Az egyéb vasúti pályák
 
 5a Bodajk – Balinka
 
 5b Mór – Pusztavám
-
-6 (2) Lovasberény – Bicske
 
 7 Széchenyi-hegy – Hűvösvölgy
 
@@ -204,4 +202,4 @@ Az egyéb vasúti pályák
 
 A vasúti pályákat összekötő pályákat (deltavágányokat) a felsorolás nem tartalmazza. Amennyiben különböző besorolású pályákat köt össze, besorolása az alacsonyabb rendű vasúti pálya besorolásával egyezik meg.
 
-[^3]: A 3. melléklet a 262/2013. (VII. 10.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: A 3. melléklet a 262/2013. (VII. 10.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 2/2015. (I. 22.) Korm. rendelet 8. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2015. január 23-án folyamatban lévő ügyekben is alkalmazni kell.
