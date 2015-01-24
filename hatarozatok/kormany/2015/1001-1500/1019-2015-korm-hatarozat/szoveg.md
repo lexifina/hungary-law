@@ -36,10 +36,6 @@ Határidő: 2015. április 30.
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
-7. Hatályát veszti
+7–8.[^1]
 
-a) a holding alapú közszolgáltatási rendszer megszervezése érdekében szükséges intézkedésekről szóló 1465/2014. (VIII. 15.) Korm. határozat,
-
-b) a holding alapú közszolgáltatási rendszer kialakításáról szóló 1484/2014. (VIII. 27.) Korm. határozat 1. pont a) alpontja és 2. pontja.
-
-8. A nemzeti közműszolgáltatási rendszer megszervezéséről szóló 1545/2014. (IX. 29.) Korm. határozat 5. pontjában „2014. december 31.” szövegrész és a 6. pontjában a „2015. január 31.” szövegrész helyébe a „2015. június 30.” szöveg lép.
+[^1]: A 7–8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
