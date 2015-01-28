@@ -1,0 +1,1 @@
+## „(4a) A korrekció eredményeként a bevett egyházat megillető vagy terhelő összeget az Igazgatóság a bevett egyházi fenntartó részére, a korrekcióval érintett évre jogerős döntéssel megállapított támogatás alapjául szolgáló létszámadatok figyelembevétel számított működési támogatás arányában hivatalból állapítja meg.”

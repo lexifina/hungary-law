@@ -1,0 +1,1 @@
+## „(4a) Ha a felülvizsgálat eredményeként a fenntartót fizetési, visszafizetési kötelezettség terheli, alkalmazni kell a 37/N. § fizetésre, visszafizetésre, késedelmi kamat megállapítására, a részletfizetés szabályaira, valamint a nem teljesítés esetére vonatkozó rendelkezéseit.”

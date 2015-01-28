@@ -1,0 +1,1 @@
+## „(5) Ha a fenntartó cégjegyzékben nyilvántartott cég és a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az Igazgatóság az iratot közvetlenül szerzi meg.”
