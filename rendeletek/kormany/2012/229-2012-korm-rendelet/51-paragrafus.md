@@ -1,6 +1,9 @@
-## 50/E. §[^82] 2015. január-április hónapokra a kincstár a 2014. évre e rendelet alapján megállapított köznevelési célú támogatásokat megállapító határozat alapján, külön kérelem benyújtása nélkül – a Magyarország 2015. évi központi költségvetéséről szóló törvény alapján megszűnt jogcímek és a 2014. december 31-éig megszűnt intézmények, feladatellátási helyek kivételével – a 2014. december hónapra folyósított támogatásnak megfelelő összegű támogatási előleget folyósít a köznevelési intézmény fenntartója, továbbá a bevett egyház számára.
+## 50/F. §[^132] A 2015. évre az átlagbér alapú támogatások igénylésével egyidejűleg a fenntartó a fenntartásában működő köznevelési intézményekben foglalkoztatott minősített pedagógusok 2015. január 1-jei létszámát közli az Igazgatósággal. A fenntartó a minősített pedagógusok létszámát köznevelési intézményenként adja meg. A részmunkaidőben foglalkoztatott pedagógus esetében a pedagógus munkaidejének a teljes munkaidőhöz viszonyított arányában két tizedesre kerekítve kell megállapítani a pedagógus létszámot.
 
-## 19.[^83]
+## 19.[^133]
 
-[^82]: Az 50/E. §-t a 365/2014. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
-[^83]: A 19. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+51. §[^134]
+
+[^132]: Az 50/F. §-t a 3/2015. (I. 28.) Korm. rendelet 18. §-a iktatta be.
+[^133]: A 19. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^134]: Az 51–55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

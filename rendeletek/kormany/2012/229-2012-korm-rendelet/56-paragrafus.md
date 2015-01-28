@@ -1,6 +1,6 @@
-## 51–55. §[^84]
+## 20.[^139]
 
-## 20.[^85]
+56. §[^140]
 
-[^84]: Az 51–55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^85]: A 20. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^139]: A 20. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^140]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

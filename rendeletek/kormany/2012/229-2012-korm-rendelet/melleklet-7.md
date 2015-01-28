@@ -1,3 +1,5 @@
+## 2K25110P_0
+
 |  | Ebr azonosító |  |  |  |  |  |
 
 |  | Önkormányzat |  |  |  |  |  |
@@ -16,6 +18,6 @@
 
 |  | (fő)jegyző |  | polgármester |
 
-7. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^96]
+7. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^150]
 
-[^96]: A 7. melléklet a 315/2012. (XI. 13.) Korm. rendelet 7. § m) pontja szerint módosított szöveg.
+[^150]: A 7. melléklet a 315/2012. (XI. 13.) Korm. rendelet 7. § m) pontja szerint módosított szöveg.

@@ -4,6 +4,8 @@
 
 ## Az önkormányzat tulajdonában lévő azon épületek adatai, amely jelenleg másik önkormányzat, másik önkormányzati székhelyű intézményi társulás, többcélú kistérségi társulás vagy megyei intézményfenntartó központ fenntartásában van
 
+## 2K25127_1
+
 | ezer Ft |
 
 | 2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként |
@@ -93,6 +95,8 @@
 | 39 | 856020 | Pedagógiai szakmai szolgáltatások |  |  |  |  |  |  |  |
 
 | Összesen: |  |  |  |  |  |  |  |
+
+## 2K25127_2
 
 | ezer Ft |
 
@@ -188,6 +192,6 @@
 
 | (fő)jegyző |  | polgármester |
 
-4. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^93]
+4. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^147]
 
-[^93]: A 4. melléklet a 315/2012. (XI. 13.) Korm. rendelet 7. § l) pontja szerint módosított szöveg.
+[^147]: A 4. melléklet a 315/2012. (XI. 13.) Korm. rendelet 7. § l) pontja szerint módosított szöveg.
