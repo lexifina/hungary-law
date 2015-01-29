@@ -1,0 +1,1 @@
+## 1. § A rendelet hatálya a külföldön forgalomba helyezett és a rendőrség részére a nemzetközileg védett személy fogadásával összefüggő feladatok végrehajtása során szükséges speciális szállítási és biztosítási tevékenység ellátása céljából üzembentartásra átadott gépjárművekre (a továbbiakban: speciális szolgálati gépjárművek) terjed ki.
