@@ -1,1 +1,3 @@
-## „(4) Ha az elszámolással érintett évet megelőző év október 2-a és december 31-e között – az adott évre vonatkozó központi költségvetési törvényben meghatározott életkorú – első alkalommal óvodai jogviszonyt létesített gyermekek után az óvodai fenntartót az október 1-jei ténylétszám alapján igényeltnél több pedagógus után illetné meg átlagbér alapú támogatás, akkor a fenntartó a többlettámogatásra vonatkozó igényét az elszámolás benyújtásával egyidejűleg érvényesítheti.”
+12. §[^12]
+
+[^12]: Az 5–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

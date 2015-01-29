@@ -1,1 +1,3 @@
-## „(4a) Ha a felülvizsgálat eredményeként a fenntartót fizetési, visszafizetési kötelezettség terheli, alkalmazni kell a 37/N. § fizetésre, visszafizetésre, késedelmi kamat megállapítására, a részletfizetés szabályaira, valamint a nem teljesítés esetére vonatkozó rendelkezéseit.”
+15. §[^15]
+
+[^15]: Az 5–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

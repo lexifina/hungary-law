@@ -1,1 +1,3 @@
-## „(3) Ha a fenntartó székhelye év közben megváltozik, akkor a korábbi székhely szerint illetékes Igazgatóság folyósítja a költségvetési támogatást december 31-éig, és a fenntartó a korábbi székhely szerint illetékes Igazgatósághoz nyújtja be – a 37/L. § (1)–(4) bekezdésében foglaltaknak megfelelően – az elszámolását. Az új székhely szerint illetékes Igazgatóság a következő költségvetési év január 1-jétől kezdi meg a költségvetési támogatás folyósítását a korábbi székhely szerint illetékes Igazgatóság 37/F. § (1) bekezdése szerint hozott határozata alapján. A tárgyévben és az azt megelőzően igénybe vett támogatások ellenőrzésére az új székhely szerint illetékes Igazgatóság jogosult.”
+9. §[^9]
+
+[^9]: Az 5–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
