@@ -1,0 +1,156 @@
+# A Kormány 4/2015. (I. 29.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 7. szám, 2015. január 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/74f1431f377d100e6ffc8b51e71a6eaa77596eef/dokumentumok/5f0660a89df1dd6b626a321b6ade6cb82880c5ed/letoltes)
+
+---
+
+A Kormány 4/2015. (I. 29.) Korm. rendelete
+a fogyasztóknak állami kamattámogatással nyújtott lakáscélú hitelek eltérő feltételeinek meghatározásával
+összefüggésben az egyes kormányrendeletek módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a 9. § tekintetében
+a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 290. § (1) bekezdés g) pontjában kapott
+felhatalmazás alapján az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet módosítása
+1. §
+A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet (a továbbiakban: R1.) 12. § (1) bekezdés
+g) pontja helyébe a következő rendelkezés lép:
+(A támogatást a kibocsátó jelzálog-hitelintézet azon jelzáloglevelei után jogosult igénybe venni, amelyekkel
+finanszírozott jelzáloghitel-ügylet az alábbi feltételeknek együttesen megfelel:)
+„g) ügyleti kamatának és a támogatás időtartama alatt – a szerződésszegést, valamint az előtörlesztési díjat kivéve –
+bármilyen címen felszámított költségének és egyéb ellenszolgáltatásának együttes éves mértéke szerződéskötéskor
+és a kamatperiódus lejártakor legfeljebb a hitelügylethez kapcsolódó jelzáloglevél kibocsátásakor érvényes,
+a (4) bekezdés szerint számított állampapírhozamnak vagy referenciahozamnak a 110%-a, növelve
+4 százalékponttal, csökkentve a (3) bekezdés szerinti kamattámogatással.”
+2. §
+Az R1. IV. fejezete a következő 21/D. §-sal egészül ki:
+„21/D. § (1) A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) hatálya alá tartozó,
+e rendelet szerinti kamattámogatással nyújtott kölcsönök esetében az Fhtv. 17/B. § (2) bekezdése, 17/C. §-a,
+17/D. §-a, valamint 20/A. §-a helyett a (2)–(6) bekezdésben meghatározott rendelkezéseket kell alkalmazni.
+(2) A hitelintézet – a támogatás időtartama alatt – a 12. § és a 13. § szerint támogatott kölcsön ügyleti kamatának
+egyoldalú módosítására nem jogosult. A 12. § és a 13. § szerinti kamattámogatott kölcsönök ügyleti kamata a 12. §
+és a 13. § rendelkezéseinek megfelelően változik.
+(3) A hitelintézet által – az ügyleti vagy üzleti év fordulójának napján érvényes referenciahozam alapján –
+érvényesített ügyleti kamatmódosítás nem minősül egyoldalú kamatemelésnek.
+(4) A 12. és a 13. § szerinti kamattámogatással nyújtott kölcsönök esetén a 12. § (1) bekezdés g) pontja, továbbá
+a 13. § (2) bekezdése szerinti ügyleti kamat, költség és egyéb ellenszolgáltatás együttes mértéke az e rendelet
+alapján az ügyleti kamatra, költségre és egyéb ellenszolgáltatásra együttesen alkalmazható mindenkori
+legmagasabb mérték, csökkentve
+a) az adott kölcsönszerződésre az e rendelet szerint a kölcsönszerződés megkötésekor az ügyleti kamatra, költségre
+és egyéb ellenszolgáltatásra együttesen alkalmazható legmagasabb mérték, és az adott kölcsönszerződés
+megkötésekor érvényes ügyleti kamat, költség és egyéb ellenszolgáltatás együttes mértékének a különbözetével,
+b) a 2015. február 1-jén már szerződött állomány tekintetében az e rendelet szerint 2014. december 31-én az ügyleti
+kamatra, költségre és egyéb ellenszolgáltatásra együttesen alkalmazható legmagasabb mérték és az adott
+kölcsönszerződés 2014. december 31-én érvényes ügyleti kamata, költsége és egyéb ellenszolgáltatása együttes
+mértékének a különbözetével.
+(5) Az ügyleti kamat és költség az adott kölcsönszerződésre irányadó kamatperiódusok fordulónapján módosul
+a (2)–(4) bekezdésben foglaltak szerint. Abban az esetben, ha a kölcsönszerződésben rögzített kamat és költség nem
+volt kamatperiódushoz kötve, kamatperiódusként egy havi kamatperiódust kell tekinteni.
+(6) A 12. és 13. § szerinti kamattámogatással nyújtott kölcsönök esetén a kamattámogatási időszak lejártát követően
+a hitelintézet
+a) az Fhtv. 17/C. §-nak megfelelően állapítja meg a hitelszerződés szerinti kamatot, és azt az Fhtv. 17/B. §
+(2) bekezdése és 17/D. §-a szerint változtatja, vagy
+
+b) a kamattámogatási időszakban érvényes kamatváltoztatás vagy kamatfelár-változtatás módszertant alkalmazza
+tovább
+ba) ugyanazzal a kamatperiódussal és kamatfelár-periódussal, vagy
+bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiódusra vagy kamatfelár-periódusra tér át,
+a kamat megállapításához a kamatperiódus hosszához igazodó referenciahozamot vesz figyelembe.
+(7) A (2)–(6) bekezdést az Fhtv. hatálya alá nem tartozó, az e rendelet, valamint a lakáscélú támogatásokról szóló
+106/1988. (XII. 26.) MT rendelet szerinti kamattámogatással nyújtott kölcsönökre is megfelelően alkalmazni kell.”
+3. §
+Az R1. a következő 53. §-sal egészül ki:
+„53. § (1) E rendeletnek a fogyasztóknak állami kamattámogatással nyújtott lakáscélú hitelek eltérő feltételeinek
+meghatározásával összefüggésben az egyes kormányrendeletek módosításáról szóló 4/2015. (I. 29.) Korm. rendelet
+(a továbbiakban: Módr7.) 1. §-ával megállapított 12. § (1) bekezdés g) pontját és 2. §-ával megállapított 21/D. §-át
+a Módr7. hatálybalépését megelőzően megkötött kölcsönszerződések esetén is alkalmazni kell.
+(2) Az Fhtv. 33. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az e rendelet szerinti kamattámogatással
+nyújtott kölcsönszerződések esetében a hitelintézetnek az Általános Szerződési Feltételeit és az azt magukba foglaló
+üzletszabályzatát 2015. július 1-jei hatállyal kell módosítani.”
+2. A fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló
+134/2009. (VI. 23.) Korm. rendelet módosítása
+4. §
+A fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló 134/2009. (VI. 23.)
+Korm. rendelet (a továbbiakban: R2.) 10. §-a a következő (11)–(16) bekezdéssel egészül ki:
+„(11) A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) hatálya alá tartozó,
+e rendelet szerinti kamattámogatással nyújtott kölcsönök esetében az Fhtv. 17/B. § (2) bekezdése, 17/C. §-a,
+17/D. §-a, valamint 20/A. §-a helyett a (12)–(16) bekezdésben meghatározott rendelkezéseket kell alkalmazni.
+(12) A hitelintézet – a támogatás időtartama alatt – a kölcsön ellenszolgáltatásának egyoldalú módosítására nem
+jogosult. Az ellenszolgáltatás az 5. § (2) bekezdése szerint változik.
+(13) A hitelintézet által – az ügyleti vagy üzleti év fordulójának napján érvényes referenciahozam alapján –
+érvényesített ellenszolgáltatás módosítása nem minősül egyoldalú kamatemelésnek.
+(14) Az e rendelet szerinti kamattámogatással nyújtott kölcsönök esetén az ellenszolgáltatás mértéke az e rendelet
+alapján alkalmazható mindenkori legmagasabb ellenszolgáltatás, csökkentve
+a) az adott kölcsönszerződésre az e rendelet szerint a kölcsönszerződés megkötésekor alkalmazható legmagasabb
+ellenszolgáltatás, és az adott kölcsönszerződés megkötésekor érvényes ellenszolgáltatásának a különbözetével,
+b) a 2015. február 1-jén már szerződött állomány tekintetében pedig az e rendelet szerint 2014. december 31-én
+alkalmazható legmagasabb ellenszolgáltatásnak és az adott kölcsönszerződés 2014. december 31-én érvényes
+ellenszolgáltatásának a különbözetével.
+(15) Az ellenszolgáltatás mértéke az adott kölcsönszerződésre irányadó kamatperiódusok fordulónapján módosul
+a (12)–(14) bekezdésben foglaltak szerint. Abban az esetben, ha a kölcsönszerződésben rögzített kamat nem volt
+kamatperiódushoz kötve, kamatperiódusként egy havi kamatperiódust kell tekinteni.
+(16) Az e rendelet szerinti kamattámogatással nyújtott kölcsönök esetén a kamattámogatási időszak lejártát
+követően a hitelintézet
+a) az Fhtv. 17/C. §-nak megfelelően állapítja meg a hitelszerződés szerinti kamatot, és azt az Fhtv. 17/B. §
+(2) bekezdése és 17/D. §-a szerint változtatja, vagy
+b) a kamattámogatási időszakban érvényes kamatváltoztatás vagy kamatfelár-változtatás módszertant alkalmazza
+tovább
+ba) ugyanazzal a kamatperiódussal és kamatfelár-periódussal, vagy
+bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiódusra vagy kamatfelár-periódusra tér át,
+a kamat megállapításához a kamatperiódus hosszához igazodó referenciahozamot vesz figyelembe.”
+5. §
+Az R2. a következő 16. §-sal egészül ki:
+„16. § (1) E rendeletnek a fogyasztóknak állami kamattámogatással nyújtott lakáscélú hitelek eltérő feltételeinek
+meghatározásával összefüggésben az egyes kormányrendeletek módosításáról szóló 4/2015. (I. 29.) Korm. rendelet
+(a továbbiakban: Módr2.) 4. §-ával megállapított 10. § (11)–(16) bekezdését a Módr2. hatálybalépését megelőzően
+megkötött kölcsönszerződések esetén is alkalmazni kell.
+
+(2) Az Fhtv. 33. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az e rendelet szerinti kamattámogatással
+nyújtott kölcsönszerződések esetében a hitelintézetnek az Általános Szerződési Feltételeit és az azt magukba foglaló
+üzletszabályzatát 2015. július 1-jei hatállyal kell módosítani.”
+3. Az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet módosítása
+6. §
+Az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet (a továbbiakban: R3.) 10. §-a
+a következő (11)–(16) bekezdéssel egészül ki:
+„(11) A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) hatálya alá tartozó,
+e rendelet szerinti kamattámogatással nyújtott kölcsönök esetében az Fhtv. 17/B. § (2) bekezdése, 17/C. §-a,
+17/D. §-a, valamint 20/A. §-a helyett a (12)–(16) bekezdésben meghatározott rendelkezéseket kell alkalmazni.
+(12) A hitelintézet – a támogatás időtartama alatt – a kölcsön ügyleti kamatának egyoldalú módosítására nem
+jogosult. Az ügyleti kamat az (1) bekezdés szerint változik.
+(13) A hitelintézet által – az ügyleti vagy üzleti év fordulójának napján érvényes referenciahozam alapján –
+érvényesített ügyleti kamat módosítása nem minősül egyoldalú kamatemelésnek.
+(14) Az e rendelet szerinti kamattámogatással nyújtott kölcsönök esetén az ügyleti kamat mértéke az e rendelet
+alapján alkalmazható mindenkori legmagasabb ügyleti kamat, csökkentve
+a) az adott kölcsönszerződésre az e rendelet szerint a kölcsönszerződés megkötésekor alkalmazható legmagasabb
+ügyleti kamat, és az adott kölcsönszerződés megkötésekor érvényes ügyleti kamatának a különbözetével,
+b) a 2015. február 1-jén már szerződött állomány tekintetében pedig az e rendelet szerint 2014. december 31-én
+alkalmazható legmagasabb ügyleti kamatának és az adott kölcsönszerződés 2014. december 31-én érvényes ügyleti
+kamatának a különbözetével.
+(15) Az ügyleti kamat mértéke az adott kölcsönszerződésre irányadó kamatperiódusok fordulónapján módosul
+a (12)–(14) bekezdésben foglaltak szerint. Abban az esetben, ha a kölcsönszerződésben rögzített kamat nem volt
+kamatperiódushoz kötve, kamatperiódusként egy havi kamatperiódust kell tekinteni.
+(16) Az e rendelet szerinti kamattámogatással nyújtott kölcsönök esetén a kamattámogatási időszak lejártát
+követően a hitelintézet
+a) az Fhtv. 17/C. §-nak megfelelően állapítja meg a hitelszerződés szerinti kamatot, és azt az Fhtv. 17/B. §
+(2) bekezdése és 17/D. §-a szerint változtatja, vagy
+b) a kamattámogatási időszakban érvényes kamatváltoztatás vagy kamatfelár-változtatás módszertant alkalmazza
+tovább
+ba) ugyanazzal a kamatperiódussal és kamatfelár-periódussal, vagy
+bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiódusra vagy kamatfelár-periódusra tér át,
+a kamat megállapításához a kamatperiódus hosszához igazodó referenciahozamot vesz figyelembe.”
+7. §
+Az R3. a következő 22. §-sal egészül ki:
+„22. § (1) E rendeletnek a fogyasztóknak állami kamattámogatással nyújtott lakáscélú hitelek eltérő feltételeinek
+meghatározásával összefüggésben az egyes kormányrendeletek módosításáról szóló 4/2015. (I. 29.) Korm. rendelet
+(a továbbiakban: Módr6.) 6. §-ával megállapított 10. § (11)–(16) bekezdését a Módr6. hatálybalépését megelőzően
+megkötött kölcsönszerződések esetén is alkalmazni kell.
+(2) Az Fhtv. 33. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az e rendelet szerinti kamattámogatással
+nyújtott kölcsönszerződések esetében a hitelintézetnek az Általános Szerződési Feltételeit és az azt magukba foglaló
+üzletszabályzatát 2015. július 1-jei hatállyal kell módosítani.”
+4. Záró rendelkezések
+8. §
+Ez a rendelet 2015. február 1-jén lép hatályba.
+9. §
+Hatályát veszti a szerződésekben előírt kamat egyoldalú módosításának feltételeiről szóló 275/2010. (XII. 15.) Korm.
+rendelet.
+ Orbán Viktor s. k.,
+ miniszterelnök
