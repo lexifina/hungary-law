@@ -1,41 +1,36 @@
 ## A rendelet alkalmazási köre
 
-1. § (1) E rendeletet a (3) bekezdésben meghatározott esetekben és a (2) bekezdés szerinti kivételekkel a jogszabályban vagy a technológiai utasításban előírt légállapot, illetve komfortállapot biztosítására energiát használó épület energetikai jellemzőinek tanúsítási eljárására kell alkalmazni.
+1. § (1)[^1] E rendeletet a (3) bekezdésben meghatározott esetekben – a (2) bekezdés szerinti kivételekkel – épületek és az épület önálló rendeltetési egységei energetikai jellemzőinek tanúsítási eljárására kell alkalmazni.
 
-(2) Nem terjed ki a rendelet hatálya:
+(2)[^2] A rendelet hatálya nem terjed ki:
 
-a) az 50 m2-nél kisebb hasznos alapterületű épületre;
+a) az önálló, más épülethez nem csatlakozó, 50 m2-nél kisebb hasznos alapterületű épületre;
 
-b) az évente 4 hónapnál rövidebb használatra szánt épületre;
+b) az évente 4 hónapnál rövidebb használatra szánt lakhatás és pihenés céljára használt épületre;
 
-c) a legfeljebb 2 évi használatra tervezett épületre;
+c) a legfeljebb 2 évi használatra szánt felvonulási épületre, fólia- vagy sátorszerkezetre;
 
-d) a hitéleti rendeltetésű épületre;
+d) hitéleti célra használt épületre;
 
-e) a jogszabállyal védetté nyilvánított épületre, valamint a jogszabállyal védetté nyilvánított (műemlékileg védett, helyi építészeti értékvédelemben részesült) területen lévő épületre;
+e) a nem lakás céljára használt alacsony energiaigényű olyan mezőgazdasági épületre, amelyben a levegő hőmérséklete a fűtési rendszer üzemideje alatt nem haladja meg a 12 °C-ot vagy négy hónapnál rövidebb ideig kerül fűtésre és két hónapnál rövidebb ideig kerül hűtésre;
 
-f) a mezőgazdasági rendeltetésű épületre;
+f) műhelyre vagy az ipari területen lévő épületre, ha abban a technológiából származó belső hőnyereség a rendeltetésszerű használat időtartama alatt nagyobb, mint 20 W/m2, vagy a fűtési idényben több, mint húszszoros légcsere szükséges, illetve alakul ki.
 
-g)[^1] azokra az épületekre, amelyek esetében a technológiából származó belső hőnyereség a rendeltetésszerű használat időtartama alatt nagyobb, mint 20 W/m2, vagy a fűtési idényben több mint hússzoros légcsere szükséges, illetve alakul ki;
-
-h) a műhely rendeltetésű épületre;
-
-i) a levegővel felfújt, vagy feszített – huzamos emberi tartózkodás célját szolgáló – sátorszerkezetekre.
-
-(3)[^2] Az épület energetikai jellemzőit e rendelet előírásai szerint – amennyiben nem rendelkezik hatályos energetikai tanúsítvánnyal – tanúsítani kell a rendelet hatálya alá tartozó
+(3)[^3] Az épület energetikai jellemzőit e rendelet előírásai szerint – amennyiben nem rendelkezik hatályos energetikai tanúsítvánnyal – tanúsítani kell a rendelet hatálya alá tartozó
 
 a) új épület építése;
 
-b)[^3] meglévő épület vagy önálló rendeltetési egység
+b)[^4] meglévő épület vagy önálló rendeltetési egység
 
 ba) ellenérték fejében történő tulajdon-átruházása, vagy
 
-bb)[^4] bérbeadása;
+bb)[^5] bérbeadása;
 
-c)[^5] 500 m2-nél nagyobb hasznos alapterületű hatósági rendeltetésű, állami tulajdonú közhasználatú épület
+c)[^6] 500 m2-nél nagyobb hasznos alapterületű hatósági rendeltetésű, állami tulajdonú közhasználatú épület
 
-[^1]: Az 1. § (2) bekezdés g) pontja a 105/2012. (V. 30.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (3) bekezdésének bevezető szövegrésze a 196/2009. (IX. 15.) Korm. rendelet 62. § (10) bekezdésének a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (3) bekezdés b) pontja a 105/2012. (V. 30.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^4]: Az 1. § (3) bekezdés b) pont bb) alpontja a 105/2012. (V. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^5]: Az 1. § (3) bekezdés c) pontja a 105/2012. (V. 30.) Korm. rendelet 13. § c) pontja szerint módosított szöveg. [E módosító rendelet 13. § d) pontjával elrendelt módosítás, amely szerint 2015. július 9. napjával az „ 500 m2, vagy ennél nagyobb” szövegrész helyébe a „250 m2, vagy ennél nagyobb” szöveg lép, nem vezethető át.]
+[^1]: Az 1. § (1) bekezdése a 387/2014. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 387/2014. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (3) bekezdésének bevezető szövegrésze a 196/2009. (IX. 15.) Korm. rendelet 62. § (10) bekezdésének a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdés b) pontja a 105/2012. (V. 30.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^5]: Az 1. § (3) bekezdés b) pont bb) alpontja a 105/2012. (V. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § (3) bekezdés c) pontja a 105/2012. (V. 30.) Korm. rendelet 13. § c) pontja szerint módosított szöveg. [E módosító rendelet 13. § d) pontjával elrendelt módosítás, amely szerint 2015. július 9. napjával az „ 500 m2, vagy ennél nagyobb” szövegrész helyébe a „250 m2, vagy ennél nagyobb” szöveg lép, nem vezethető át.]

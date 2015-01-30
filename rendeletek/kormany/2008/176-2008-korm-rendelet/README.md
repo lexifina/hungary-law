@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-176-20-
 | 2013-08-01 | 2008-176-20-22.10 | 266/2013. (VII. 11.) Korm. rendelet |
 | 2013-11-21 | 2008-176-20-22.11 | 440/2013. (XI. 20.) Korm. rendelet |
 | 2014-01-01 | 2008-176-20-22.12 | 266/2013. (VII. 11.) Korm. rendelet |
+| 2015-01-30 | 2008-176-20-22.13 | 387/2014. (XII. 31.) Korm. rendelet |
