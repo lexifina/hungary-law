@@ -1,4 +1,4 @@
-1. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^146]
+1. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^147]
 
 ## Az egységes kormányzati ügyiratkezelő rendszer érkeztető rendszerébe bevont szervek
 
@@ -120,4 +120,4 @@
 
 59. Magyar Kormánytisztviselői Kar
 
-[^146]: Az 1. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
+[^147]: Az 1. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.

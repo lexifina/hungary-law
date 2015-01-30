@@ -1,4 +1,4 @@
-2. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^147]
+2. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^148]
 
 Az egységes kormányzati ügyiratkezelő rendszerben nem érkeztethető és nem kézbesíthető küldemények
 
@@ -52,4 +52,4 @@ j) az 1. mellékletben meghatározott szervek iratkezelési szabályzatában meg
 
 k) az 1. mellékletben felsorolt szervek iratkezelési szabályzatában meghatározott azon küldemények, amelyek kezelésére a szerv iratkezelési szabályzata speciális rendelkezéseket tartalmaz és digitalizálásukról a szerv gondoskodik.
 
-[^147]: A 2. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
+[^148]: A 2. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.

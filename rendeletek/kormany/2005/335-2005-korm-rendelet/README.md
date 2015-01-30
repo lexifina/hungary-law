@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-335-20-
 | 2013-06-21 | 2005-335-20-22.10 | 196/2013. (VI. 13.) Korm. rendelet |
 | 2014-01-01 | 2005-335-20-22.11 | 516/2013. (XII. 30.) Korm. rendelet |
 | 2015-01-01 | 2005-335-20-22.12 | 323/2014. (XII. 15.) Korm. rendelet |
+| 2015-01-30 | 2005-335-20-22.13 | 7/2015. (I. 29.) Korm. rendelet |
