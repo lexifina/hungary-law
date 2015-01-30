@@ -1,4 +1,4 @@
-3. § (1)[^8] Épületet – a 6/A. §-ban foglaltak kivételével – úgy kell tervezni, kialakítani, megépíteni, hogy annak energetikai jellemzői megfeleljenek az 1. melléklet előírásainak.
+3. § (1)[^7] Épületet – a 6/A. §-ban foglaltak kivételével – úgy kell tervezni, kialakítani, megépíteni, hogy annak energetikai jellemzői megfeleljenek az 1. melléklet előírásainak.
 
 (2) Az épület energetikai jellemzőjét a tervező döntése szerint
 
@@ -12,4 +12,4 @@ kell meghatározni.
 
 (4) Az épület energetikai megfelelősége egyes zónákra vagy egyes helyiségekre elvégzett számítások eredményeinek összegezésével is igazolható.
 
-[^8]: A 3. § (1) bekezdése a 20/2014. (III. 7.) BM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3. § (1) bekezdése a 20/2014. (III. 7.) BM rendelet 2. §-ával megállapított szöveg.
