@@ -1,3 +1,3 @@
-## A szolgáltatás felügyeletét ellátó vasúti közlekedési hatóság kijelölése[^128]
+## A szolgáltatás felügyeletét ellátó vasúti közlekedési hatóság kijelölése[^132]
 
-[^128]: A 6/B. §-t megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 486. § (4) bekezdése iktatta be.
+[^132]: A 6/B. §-t megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 486. § (4) bekezdése iktatta be.
