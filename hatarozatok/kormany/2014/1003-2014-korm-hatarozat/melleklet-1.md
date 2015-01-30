@@ -18,7 +18,7 @@
 
 ## a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2014. december 15., a Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím részére biztosított összeg, a Balassi Intézet cím részére biztosított összeg és a Miniszterelnökség fejezet Fejezeti általános tartaléka alcímre biztosított összeg tekintetében 2015. június 30.
+## Határidő: 2014. december 15., a Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím részére biztosított összeg, a Balassi Intézet cím részére biztosított összeg, a Miniszterelnökség fejezet Fejezeti általános tartaléka alcímre biztosított összeg, a KIM felügyelete alá tartozó szervezetek és szakmai programok támogatása jogcímcsoport javára biztosított összeg és az Országos Atomenergia Hivatal cím részére biztosított összeg tekintetében 2015. június 30.
 
 ## 2.[^2]
 
@@ -184,5 +184,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: Az 1. pont az 1812/2014. (XII. 19.) Korm. rendelet 16. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1812/2014. (XII. 19.) Korm. rendelet 16. pontja, az 1035/2015. (I. 30.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
