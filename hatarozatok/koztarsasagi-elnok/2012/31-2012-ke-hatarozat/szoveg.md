@@ -4,7 +4,7 @@ dr. Asbóth Balázst,
 
 dr. Berényi Józsefet,
 
-dr. Deák Etelkát,
+dr. Deák Etelkát,[^1]
 
 dr. Grácz Zsuzsannát és
 
@@ -13,3 +13,5 @@ dr. Kádár Mercédesz Zsuzsannát
 2012. február 1. napjától 2015. január 31. napjáig terjedő időtartamra bíróvá kinevezem.
 
 KEH ügyszám: IV-4/00290/2012.
+
+[^1]: A 83/2015. (I. 30.) KE határozat alapján a Köztársasági Elnök dr. Deák Etelka bírói kinevezését 2015. február 1. napjától 2018. január 31. napjáig terjedő időtartamra meghosszabbította.
