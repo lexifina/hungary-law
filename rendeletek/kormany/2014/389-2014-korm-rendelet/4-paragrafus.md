@@ -1,0 +1,1 @@
+## „(2a) Ez a rendelet a polgári légi közlekedéshez kapcsolódó műszaki követelmények és igazgatási eljárások rögzítéséről szóló 2011. november 3-i 1178/2011/EU bizottsági rendelet módosításáról szóló, 2014. március 13-i 245/2014/EU bizottsági rendeletnek való megfelelést szolgálja.”

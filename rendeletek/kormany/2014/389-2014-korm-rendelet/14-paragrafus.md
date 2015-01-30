@@ -1,0 +1,1 @@
+## „c) intézkedéseket kezdeményez a terrorcselekmény, valamint a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűncselekmény kivételével a polgári légiközlekedés elleni jogellenes cselekmények megelőzése, elhárítása érdekében,”
