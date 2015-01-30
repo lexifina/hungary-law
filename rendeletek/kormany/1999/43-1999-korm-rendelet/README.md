@@ -50,3 +50,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2014-02-25 | 1999-43-20-22.120 | 40/2014. (II. 24.) Korm. rendelet |
 | 2014-07-26 | 1999-43-20-22.121 | 184/2014. (VII. 25.) Korm. rendelet |
 | 2015-01-01 | 1999-43-20-22.122 | 364/2014. (XII. 30.) Korm. rendelet |
+| 2015-01-30 | 1999-43-20-22.123 | 8/2015. (I. 29.) Korm. rendelet |

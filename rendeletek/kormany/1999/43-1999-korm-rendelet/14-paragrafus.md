@@ -4,27 +4,27 @@
 
 a) felnőtt körzet esetén, ha a körzet felnőtt lakosainak száma
 
-aa) nem éri el az 1200 főt 368 000 Ft,
+aa) nem éri el az 1200 főt 253 000 Ft,
 
-ab) 1200 és 1500 fő között van 350 000 Ft,
+ab) 1200 és 1500 fő között van 235 000 Ft,
 
-ac) 1500 fő felett van 312 000 Ft,
+ac) 1500 fő felett van 197 000 Ft,
 
 b) gyermekkörzet esetén, ha a körzet lakosainak száma
 
-ba) nem éri el a 600 főt 405 000 Ft,
+ba) nem éri el a 600 főt 290 000 Ft,
 
-bb) 600 és 800 fő között van 387 000 Ft,
+bb) 600 és 800 fő között van 272 000 Ft,
 
-bc) 800 fő felett van 350 000 Ft,
+bc) 800 fő felett van 235 000 Ft,
 
 c) vegyes körzet esetén, ha a körzet lakosságszáma
 
-ca) nem éri el az 1200 főt 386 000 Ft,
+ca) nem éri el az 1200 főt 271 000 Ft,
 
-cb) 1200 és 1500 fő között van 365 000 Ft,
+cb) 1200 és 1500 fő között van 250 000 Ft,
 
-cc) 1500 fő felett van 329 000 Ft.
+cc) 1500 fő felett van 214 000 Ft.
 
 (3) A (2) bekezdés szerinti összeget növelni kell
 
@@ -74,8 +74,10 @@ c) a legalább heti 20 órában foglalkoztatott szakdolgozó esetén 10 000 Ft,
 
 (9)[^144] Ha a (8) bekezdés szerinti esetben az OALI-val közalkalmazotti jogviszonyban álló orvos 60 napot meghaladó keresőképtelen állományban van, terhességi-gyermekágyi segélyt, csecsemőgondozási díjat, gyermekgondozási díjat vagy gyermekgondozási segélyt vesz igénybe, és a helyettesítését az OALI-val szerződéses jogviszonyban álló másik háziorvos látja el, a finanszírozás a 10. § (1) bekezdésében meghatározott díjazás számítás szerinti átlagos havi díj 100 százalékával történik, ha a körzet lakosságszáma az 1200 főt eléri, alacsonyabb lakosságszám esetén a díjazás arányosan csökken.
 
+(10)[^145] A területi ellátási kötelezettségű háziorvosi szolgálatokat működtető szolgáltatók havonta 130 000 Ft összegű rezsitámogatásra jogosultak szolgálatonként. A támogatás utalványozására a (2) bekezdés szerinti díjjal egyidejűleg kerül sor.
+
 [^129]: Az 58/2009. (III. 18.) Korm. rendelet 18. § (8) bekezdése alapján a háziorvosi szolgáltató a vények és egyéb orvosi dokumentáció részét képező iratok nyomtatásához szükséges eszköz költségeinek részleges fedezetére a 2009. május havi finanszírozás során háziorvosi szolgálatonként egyszeri, 10 000 forint támogatási díjra jogosult.
-[^130]: A 14. § (2) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^130]: A 14. § (2) bekezdése a 8/2015. (I. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^131]: A 14. § (3) bekezdésének b) pontja a 112/2004. (IV. 28.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^132]: A 14. § (3) bekezdésének c) pontját a 264/2003. (XII. 24.) Korm. rendelet 6. §-a iktatta be, szövege a 112/2004. (IV. 28.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^133]: A 14. § (3) bekezdésének d) pontját a 104/2005. (VI. 11.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövegét a 329/2005. (XII. 29.) Korm. rendelet 6. § (1) bekezdése állapította meg.
@@ -90,3 +92,4 @@ c) a legalább heti 20 órában foglalkoztatott szakdolgozó esetén 10 000 Ft,
 [^142]: A 14. § (7) bekezdését a 112/2004. (IV. 28.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, szövege a 364/2007. (XII. 23.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg.
 [^143]: A 14. § (8) bekezdését a 104/2005. (VI. 11.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 329/2005. (XII. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 364/2007. (XII. 23.) Korm. rendelet 16. § (8) bekezdése szerint módosított szöveg.
 [^144]: A 14. § (9) bekezdését a 139/2011. (VII. 21.) Korm. rendelet 5. §-a iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 39. § d) pontja szerint módosított szöveg.
+[^145]: A 14. § (10) bekezdését a 8/2015. (I. 29.) Korm. rendelet 2. §-a iktatta be.
