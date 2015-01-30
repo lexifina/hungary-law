@@ -24,13 +24,13 @@
 
 11. informatikáért,
 
-12.[^59]
+12.[^60]
 
 13. közlekedésért,
 
 14. nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért,
 
-15.[^60]
+15.[^61]
 
 16. területfejlesztésért,
 
@@ -40,5 +40,5 @@
 
 felelős tagja.
 
-[^59]: A 109. § 12. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
-[^60]: A 109. § 15. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^60]: A 109. § 12. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^61]: A 109. § 15. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
