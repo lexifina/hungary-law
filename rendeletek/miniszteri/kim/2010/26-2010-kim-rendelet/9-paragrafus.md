@@ -1,5 +1,5 @@
 ## 8. § Ez a rendelet 2011. január 1-jén lép hatályba.
 
-9. §[^1]
+9. §[^2]
 
-[^1]: A 9. § a (2) bekezdés alapján hatályát vesztette.
+[^2]: A 9. § a (2) bekezdés alapján hatályát vesztette.
