@@ -12,10 +12,10 @@ c) a polgári nemzetbiztonsági szolgálatokat irányító miniszter esetében a
 
 helyettesíti.
 
-(3)[^3] Az LVB munkájában a Nemzeti Közlekedési Hatóság Légügyi Hivatalának vezetője, az országos rendőrfőkapitány, az Országos Katasztrófavédelmi Főigazgatóság főigazgatója és az AH főigazgatója vehet részt. Az LVB ülésén az LVB titkárának – az ülés napirendjének összeállítását megelőző – javaslatára meghívottként részt vehet az LVB elnöke által meghívott személy vagy szervezet képviselője.
+(3)[^4] Az LVB munkájában a Nemzeti Közlekedési Hatóság Légügyi Hivatalának vezetője, az országos rendőrfőkapitány, az Országos Katasztrófavédelmi Főigazgatóság főigazgatója, a TEK főigazgatója és az AH főigazgatója vehet részt. Az LVB ülésén az LVB titkárának – az ülés napirendjének összeállítását megelőző – javaslatára meghívottként részt vehet az LVB elnöke által meghívott személy vagy szervezet képviselője.
 
 (4) Az LVB elnöke a rendészetért felelős miniszter, titkára a közlekedésért felelős miniszter által kijelölt köztisztviselő.
 
 (5) Az LVB az ügyrendje alapján jogosult munkáját segítő szakértői munkacsoportot létrehozni.
 
-[^3]: A 3. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 279. §-a, a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdése a 389/2014. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 a) jóváhagyja a légiközlekedés védelmében közreműködő szervezetek által készített védelmi programot, valamint – szükség esetén az együttműködő hatóságokkal előzetesen egyeztetett módon közösen – rendszeresen ellenőrzi azok betartását,
 
-b)[^17] végrehajtja a légiközlekedés védelmében közreműködő szervezetek külső, a Nemzeti Légiközlekedés Védelmi Minőségbiztosítási Programban meghatározottak szerinti légiközlekedés védelmi minőségbiztosítási ellenőrzését, beleértve a közbiztonságra veszélyes eszköz használatakor az általános rendőrségi feladatok ellátására létrehozott szervvel és az AH-val előzetesen egyeztetett módon a védelmi teszteléseket is,
+b)[^23] koordinálja és végrehajtja a légiközlekedés védelmében közreműködő szervezetek külső, a Nemzeti Légiközlekedés Védelmi Minőségbiztosítási Programban meghatározottak szerinti légiközlekedés védelmi minőségbiztosítási ellenőrzését,
 
 c) irányítja és felügyeli a nemzeti légiközlekedés védelmi minőségbiztosítási ellenőrök tevékenységét,
 
@@ -10,13 +10,13 @@ d) elrendeli azonnali intézkedések bevezetését a légiközlekedés védelmi 
 
 e) lefolytatja a légiközlekedés védelmét közvetlenül veszélyeztető szervezetek és személyek – légiközlekedési tevékenység ellátásához szükséges – engedélyének felfüggesztésével, korlátozásával vagy visszavonásával kapcsolatos eljárást,
 
-f)[^18] jóváhagyja, felügyeli és ellenőrzi a légiközlekedés védelmében közreműködő szervezetek légiközlekedés védelmi berendezéseinek, eszközeinek és védelmi rendszereinek üzembe helyezését, működtetését,
+f)[^24] jóváhagyja és ellenőrzi a légiközlekedési védelmi eszközök és védelmi rendszerek, valamint a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló 2010. március 4-i 185/2010/EU bizottsági rendelet (a továbbiakban: 185/2010/EU rendelet) melléklet 12. fejezetében meghatározott légiközlekedés védelmi berendezések üzembe helyezését, működtetését,
 
 g) jóváhagyja a légiközlekedés védelmében közreműködő szervezetek belső védelmi minőségbiztosítási programját és védelmi képzési tervét,
 
 h) jóváhagyja a légiközlekedés védelmében közreműködő szervezetek légiközlekedés védelmi tisztjének kijelölését,
 
-i)[^19] minősíti a meghatalmazott ügynököt (ellenőrzött szállító), az ismert feladót, a fedélzeti ellátmány meghatalmazott beszállítóját, kiadja az ezen tevékenység végzéséhez szükséges engedélyt, nyilvántartást vezet – az ismert feladó esetén annak hozzájárulásával – azok nevéről és lakcíméről (telephelyéről), valamint felügyeli tevékenységüket, és ezen adatokat feltölti a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló, 2010. március 4-i 185/2010/EU bizottsági rendelet (a továbbiakban: 185/2010/EU rendelet) melléklete alapján létrehozott adatbázisba,
+i)[^25] minősíti a meghatalmazott ügynököt, az ismert feladót, a fedélzeti ellátmány meghatalmazott beszállítóját, a harmadik ország repülőteréről az Európai Unió területére árut vagy postai küldeményt szállító légifuvarozót, kiadja e tevékenység végzéséhez szükséges engedélyt, nyilvántartást vezet azok nevéről és lakcíméről (telephelyéről), valamint felügyeli tevékenységüket, és ezen adatokat feltölti a 185/2010/EU rendelet mellékletében meghatározott adatbázisba,
 
 j) továbbítja a nemzetközi dokumentumokat a légiközlekedés védelmében közreműködő szervezeteknek és a végrehajtó területeknek,
 
@@ -28,7 +28,7 @@ m) a feladatai ellátása során keletkező, a légiközlekedés védelmi rendsz
 
 ma) a rendőrséget,
 
-mb)[^20] az AH-t,
+mb)[^26] az AH-t,
 
 mc) a vámhatóságot, ha az információ a vámhatóság 16. § szerinti feladatait érinti, és
 
@@ -36,22 +36,29 @@ md) a katasztrófavédelmi szervet a tiltott eszközöknek minősített pirotech
 
 n) elrendeli szigorúbb intézkedések alkalmazását, és erről a közlekedésért felelős miniszter útján haladéktalanul tájékoztatja a Bizottságot,
 
-o) a Nemzeti Polgári Légiközlekedés Védelmi Képzési Program, valamint a polgári légi közlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendeletnek (a továbbiakban: 300/2008/EK rendelet) megfelelően tanúsítja a védelmi személyeket vagy engedélyezi a tanúsítást harmadik félnek,
+o)[^27] a Nemzeti Polgári Légiközlekedés Védelmi Képzési Program, valamint a polgári légiközlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendeletnek (a továbbiakban: 300/2008/EK rendelet) megfelelően – az általános rendőrségi feladatok ellátására létrehozott szerv által vizsgáztatott védelmi ellenőrök kivételével – tanúsítja a védelmi személyeket vagy engedélyezi a tanúsítást harmadik félnek,
 
 p) értékeli a 72/2010/EU rendelet alapján a Bizottság által végzett ellenőrzések eredményeiről készített jelentést, azt megküldi a közlekedésért felelős miniszternek,
 
 q) a 185/2010/EU rendelet melléklet 1.2.2.2. b) pontjában megjelölt repülőszemélyzeti azonosító kártyát kiadja vagy kiadását a légitársaságnak engedélyezi,
 
-r)[^21]
+r)[^28] jóváhagyja a repülőtereken vagy a repülőterek elkülönített területein alkalmazott alternatív légiközlekedés védelmi intézkedéseket,
 
-s)[^22] a nemzeti légiközlekedés védelmi programok és a 2010/774/EU bizottsági határozat alapján légiközlekedés védelmi határozatban állapítja meg a légiközlekedés védelmében közreműködő szervezetek védelmi feladatait,
+s)[^29] a nemzeti légiközlekedés védelmi programok és a 2010/774/EU bizottsági határozat alapján légiközlekedés védelmi határozatban állapítja meg a légiközlekedés védelmében közreműködő szervezetek védelmi feladatait,
 
-t)[^23] a légijármű ellen elkövetett jogellenes cselekmény vagy erre vonatkozó fenyegetettségről szóló értesítés vétele után haladéktalanul megteszi a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény Függelékeinek kihirdetéséről szóló 2007. évi XLVI. törvénnyel kihirdetett 17. számú Függelék 5.2.5. pontjában megjelölt tájékoztatásokat.
+t)[^30] a légijármű ellen elkövetett jogellenes cselekmény vagy erre vonatkozó fenyegetettségről szóló értesítés vétele után haladéktalanul megteszi a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény Függelékeinek kihirdetéséről szóló 2007. évi XLVI. törvénnyel kihirdetett 17. számú Függelék 5.2.5. pontjában megjelölt tájékoztatásokat,
 
-[^17]: A 13. § b) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^18]: A 13. § f) pontja a 240/2011. (XI. 18.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^19]: A 13. § i) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^20]: A 13. § m) pont mb) alpontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.
-[^21]: A 13. § r) pontját az 53. § (3) bekezdése hatályon kívül helyezte.
-[^22]: A 13. § s) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^23]: A 13. § t) pontját a 240/2011. (XI. 18.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+v)[^31] jóváhagyja a repülőtereken a kockázatértékelés alapján a megfigyelés és az őrjárat ellátásának gyakoriságát és módját,
+
+w)[^32] végzi a 185/2010/EU rendelet mellékletének 6.4.1.2. pontjában felsorolt, a meghatalmazott ügynökkel kapcsolatos jóváhagyást.
+
+[^23]: A 13. § b) pontja a 389/2014. (XII. 31.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^24]: A 13. § f) pontja a 389/2014. (XII. 31.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^25]: A 13. § i) pontja a 389/2014. (XII. 31.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^26]: A 13. § m) pont mb) alpontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^27]: A 13. § o) pontja a 389/2014. (XII. 31.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^28]: A 13. § r) pontját az 53. § (3) bekezdése hatályon kívül helyezte, újonnan a 389/2014. (XII. 31.) Korm. rendelet 10. § (5) bekezdése iktatta be.
+[^29]: A 13. § s) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^30]: A 13. § t) pontját a 240/2011. (XI. 18.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^31]: A 13. § v) pontját a 389/2014. (XII. 31.) Korm. rendelet 10. § (6) bekezdése iktatta be.
+[^32]: A 13. § w) pontját a 389/2014. (XII. 31.) Korm. rendelet 10. § (6) bekezdése iktatta be.

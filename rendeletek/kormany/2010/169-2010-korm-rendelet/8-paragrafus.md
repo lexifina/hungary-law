@@ -4,6 +4,6 @@
 
 (3) A légiközlekedési hatóság a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program helyzetéről, a minőségbiztosítási ellenőrök ellenőrzéseiről a 18/2010/EU rendelet melléklete alapján a tárgyévet követő március 1-jéig jelentést készít, amelyet a közlekedésért felelős miniszter útján küld meg az Európai Unió Bizottságának (a továbbiakban: Bizottság).
 
-(4)[^9] A légiközlekedési hatóság a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program keretén belül gyűjti, értékeli a légiközlekedés védelmével kapcsolatos bejelentéseket. A bejelentéseket a légiközlekedési hatóságnak kell megküldeni.
+(4)[^12] A légiközlekedési hatóság a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program keretén belül gyűjti, értékeli a légiközlekedés védelmével kapcsolatos bejelentéseket. A bejelentéseket a légiközlekedési hatóságnak kell megküldeni.
 
-[^9]: A 8. § (4) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 5. §-a iktatta be.
+[^12]: A 8. § (4) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 5. §-a iktatta be.

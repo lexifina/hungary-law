@@ -10,21 +10,21 @@
 
 (5) A légiközlekedési hatóság a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program alapján elkészíti az éves minőségbiztosítási ellenőrzési programját.
 
-(6)[^5]
+(6)[^8]
 
 (7) A minőségbiztosítási ellenőrzésről készült jelentéseket a légiközlekedési hatóság kezeli, értékeli és megteszi a hiányosságok felszámolása érdekében szükséges intézkedéseket. Az ellenőrzések során feltárt légiközlekedés védelmét közvetlenül veszélyeztető vagy összefüggő hiányosságokról a légiközlekedési hatóság soron kívül, írásban tájékoztatja
 
-a)[^6] az általános rendőrségi feladatok ellátására létrehozott szervet,
+a)[^9] az általános rendőrségi feladatok ellátására létrehozott szervet,
 
-b)[^7] az AH-t,
+b)[^10] az AH-t,
 
 c) a vámhatóságot az állandó vagy ideiglenes vámúttá nyilvánított repülőtereken feltárt hiányosságokról és
 
 d) az illetékes katasztrófavédelmi szervet a tiltott eszközöknek minősített pirotechnikai anyagok kezelésével kapcsolatos hiányosságokról,
 
-e)[^8] a TEK-et.
+e)[^11] a TEK-et.
 
-[^5]: A 7. § (6) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 30. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^6]: A 7. § (7) bekezdés a) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés a) pontjával megállapított szöveg.
-[^7]: A 7. § (7) bekezdés b) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.
-[^8]: A 7. § (7) bekezdés e) pontját a 240/2011. (XI. 18.) Korm. rendelet 4. §-a iktatta be.
+[^8]: A 7. § (6) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 30. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^9]: A 7. § (7) bekezdés a) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés a) pontjával megállapított szöveg.
+[^10]: A 7. § (7) bekezdés b) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^11]: A 7. § (7) bekezdés e) pontját a 240/2011. (XI. 18.) Korm. rendelet 4. §-a iktatta be.

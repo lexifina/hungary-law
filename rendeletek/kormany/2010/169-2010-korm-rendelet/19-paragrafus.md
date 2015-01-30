@@ -10,13 +10,13 @@ ba) a földi kiszolgálási vagy egyéb szerződés alapján közreműködik a j
 
 bb) földi kiszolgálási vagy egyéb szerződés alapján közreműködik abban, hogy a kiszolgált légijármű fedélzetén csak a védelmi átvizsgáláson átesett és megfelelően dokumentált személy, poggyász-, áru-, postai és egyéb küldemény, fedélzeti ellátmány és egyéb fedélzeti készlet legyen,
 
-bc)[^51] a földi kiszolgálási vagy egyéb szerződés alapján ellátja a feladás pontjától a légijármű fedélzetére történő berakodásig a repülőtéren belül mozgatott és szállítani kívánt poggyász-, áru-, postai és egyéb küldemény, fedélzeti ellátmány és egyéb fedélzeti készletek légiközlekedés védelmi ellenőrzését, felügyeletét,
+bc)[^67] a földi kiszolgálási vagy egyéb szerződés alapján ellátja a feladás pontjától a légijármű fedélzetére történő berakodásig a repülőtéren belül mozgatott és szállítani kívánt poggyász-, áru-, postai és egyéb küldemény, fedélzeti ellátmány és egyéb fedélzeti készletek légiközlekedés védelmi ellenőrzését, felügyeletét,
 
 bd) a technológiai feltételek kialakításával és a közreműködői szerződés alapján közreműködik az utasok, a poggyász-, áru-, postai és egyéb küldemények, ellátmányok kezelésében oly módon, hogy az zárt, felügyelt, dokumentált és biztonságos minőségbiztosítási technológia alapján történjen a repülőtér kijelölt területein,
 
-c)[^52] a belső védelmi minőségbiztosítási program alapján önellenőrző eljárásokat folytat le, értékeli az eredményeket, annak alapján végrehajtja a szükséges módosításokat, amelyről soron kívül tájékoztatja a légiközlekedési hatóságot, az általános rendőrségi feladatok ellátására létrehozott szervet, a TEK-et és az AH-t,
+c)[^68] a belső védelmi minőségbiztosítási program alapján önellenőrző eljárásokat folytat le, értékeli az eredményeket, annak alapján végrehajtja a szükséges módosításokat, amelyről soron kívül tájékoztatja a légiközlekedési hatóságot, az általános rendőrségi feladatok ellátására létrehozott szervet, a TEK-et és az AH-t,
 
-d) felkérésre részt vesz a Repülőtéri Légiközlekedés Védelmi és Kényszerhelyzeti Központ munkájában,
+d)[^69] felkérésre részt vesz a Repülőtéri Kényszerhelyzeti Központ munkájában,
 
 e) az illetékes szerveknél az alkalmazás megkezdése előtt kezdeményezi a személyzet védelmi háttérellenőrzését,
 
@@ -26,7 +26,7 @@ fa) a légiközlekedési hatóságot,
 
 fb) a rendőrséget,
 
-fc)[^53] az AH-t és
+fc)[^70] az AH-t és
 
 fd) a vámhatóságot, ha az információ a vámhatóság 16. § szerinti feladatait érinti,
 
@@ -34,6 +34,7 @@ g) védelmi feladatait saját állománnyal látja el, vagy e feladatra feljogos
 
 h) gondoskodik arról, hogy légiközlekedés védelmi feladatai ellátásához kizárólag a légiközlekedési hatóság által jóváhagyott légiközlekedés védelmi eszközöket, berendezéseket, rendszereket alkalmazzon.
 
-[^51]: A 19. § b) pont bc) alpontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^52]: A 19. § c) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^53]: A 19. § f) pont fc) alpontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^67]: A 19. § b) pont bc) alpontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^68]: A 19. § c) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^69]: A 19. § d) pontja a 389/2014. (XII. 31.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^70]: A 19. § f) pont fc) alpontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.

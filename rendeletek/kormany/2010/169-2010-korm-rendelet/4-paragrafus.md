@@ -4,14 +4,8 @@ a) rendszeresen áttekinti a polgári légiközlekedés és létesítményei biz
 
 b) javaslatot tesz a légiközlekedés védelme érdekében szükséges jogszabály-módosításokra és egyéb intézkedésekre,
 
-c) előkészíti
-
-ca) a Nemzeti Polgári Légiközlekedés Védelmi Programot,
-
-cb) a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programot és
-
-cc) a Nemzeti Polgári Légiközlekedés Védelmi Képzési Programot
-
-[a továbbiakban a ca)–cc) alpontok együtt: nemzeti légiközlekedés védelmi programok],
+c)[^5]
 
 d) tájékoztatást kér a honvédelemről és a Magyar Honvédségről szóló törvény szerinti műveleti rendszer működésében közreműködő, annak végrehajtása miatt esetlegesen bekövetkező hatások megelőzésében, felszámolásában és semlegesítésében hatáskörrel rendelkező szervektől a feladatkörükben végrehajtott felkészülésükről, az alkalmazni kívánt intézkedési tervükről és a végrehajtott gyakorlatokról.
+
+[^5]: A 4. § c) pontját a 389/2014. (XII. 31.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.

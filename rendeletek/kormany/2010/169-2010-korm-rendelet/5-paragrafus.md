@@ -1,6 +1,6 @@
 ## 4. A légiközlekedés védelmének követelményei
 
-5. §[^4] (1) Az együttműködő hatóságok és a légiközlekedés védelmében közreműködő szervezetek a nemzeti légiközlekedés védelmi programokban a részükre előírt feladatokat kötelesek végrehajtani.
+5. §[^6] (1) Az együttműködő hatóságok és a légiközlekedés védelmében közreműködő szervezetek a nemzeti légiközlekedés védelmi programokban a részükre előírt feladatokat kötelesek végrehajtani.
 
 (2) A repülőtér üzemben tartója, a légitársaság, az egyéb jogalany és a légiforgalmi irányító szolgálat légiközlekedés védelmi feladatai ellátása során a légiközlekedés védelmét szabályozó nemzetközi szerződésben foglalt kötelezettségek, továbbá az európai uniós jogi aktusok és azok végrehajtására kiadott hazai jogszabályok alkalmazása során keletkező hiányosságokkal összefüggő információkról soron kívül tájékoztatja
 
@@ -16,4 +16,4 @@ e) a vámhatóságot, ha az információ a vámhatóság 16. § szerinti feladat
 
 f) a hivatásos katasztrófavédelmi szervet, ha az információ a 16/A. § szerinti feladatát érinti.
 
-[^4]: Az 5. § a 240/2011. (XI. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^6]: Az 5. § a 240/2011. (XI. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
