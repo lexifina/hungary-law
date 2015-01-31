@@ -1,4 +1,4 @@
-## 3. § A személyszállítási szolgáltatásokról szóló törvény szerinti személyszállítási szolgáltatásokkal és a légi közlekedésről szóló törvény szerinti légi személyszállítással kapcsolatos szerződésre kizárólag a 7. § és a 15. § (1) és (2) bekezdése alkalmazandó.
+## 3. §[^2] A személyszállítási szolgáltatásokról szóló törvény szerinti személyszállítási szolgáltatásokkal, és a légi közlekedésről szóló törvény szerinti légi személyszállítással, valamint a vízi személyszállítás feltételeiről szóló jogszabály szerinti személyszállítással kapcsolatos szerződésre kizárólag a 7. § és a 15. § (1) és (2) bekezdése alkalmazandó.
 
 ## 2. Értelmező rendelkezések
 
@@ -51,3 +51,5 @@ c) amelyet a vállalkozás üzlethelyiségében vagy távollévők közötti kom
 d) amelyet a vállalkozás által szervezett olyan út során kötöttek meg, amelynek célja a termékek vagy szolgáltatások fogyasztó számára történő értékesítése vagy népszerűsítése;
 
 15. vállalkozás: a Polgári Törvénykönyvben meghatározott vállalkozás.
+
+[^2]: A 3. § a 383/2014. (XII. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
