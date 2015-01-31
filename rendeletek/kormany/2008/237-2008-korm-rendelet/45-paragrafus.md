@@ -1,3 +1,3 @@
-## 44. §[^112]
+## 44. §[^113]
 
-[^112]: A 44. §-t a 11/2012. (II. 14.) 36. § b) pontja hatályon kívül helyezte.
+[^113]: A 44. §-t a 11/2012. (II. 14.) 36. § b) pontja hatályon kívül helyezte.

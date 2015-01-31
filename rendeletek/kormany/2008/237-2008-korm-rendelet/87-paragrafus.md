@@ -12,7 +12,7 @@ c) a 800/2008/EK rendelet 1. cikk (6) bekezdésében meghatározott támogatáso
 
 (3) E rendelet alapján vissza nem térítendő támogatást lehet nyújtani.
 
-(4)[^198] E rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett még a beruházás megkezdése előtt a támogatás iránti kérelmét benyújtja. Egyedi támogatás megítélését megelőzően nagyvállalkozások esetében a fentieken kívül a kedvezményezettek kötelesek bizonyítani azt, hogy az alábbiak közül egy vagy több kritérium teljesül:
+(4)[^199] E rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett még a beruházás megkezdése előtt a támogatás iránti kérelmét benyújtja. Egyedi támogatás megítélését megelőzően nagyvállalkozások esetében a fentieken kívül a kedvezményezettek kötelesek bizonyítani azt, hogy az alábbiak közül egy vagy több kritérium teljesül:
 
 a) a támogatás segítségével lényegesen megnövekszik a projekt mérete,
 
@@ -28,7 +28,7 @@ e) vagy regionális beruházási támogatás esetében a projekt a támogatás h
 
 (6) Az (5) bekezdéstől eltérően fogyatékkal élő munkavállalóknak nyújtott támogatás az ugyanazon elszámolható költségek vonatkozásában halmozható a 800/2008/EK bizottsági rendelet hatálya alá tartozó támogatási jogcímen nyújtott egyéb támogatással, amennyiben az nem vezet az érintett munkavállalók alkalmazási idejének bármely időszakában a vonatkozó költségek 100%-át meghaladó támogatási intenzitáshoz.
 
-(7)[^199]
+(7)[^200]
 
-[^198]: A 87. § (4) bekezdése a 226/2009. (X. 14.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^199]: A 87. § (7) bekezdését a 33/2011. (III. 17. ) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^199]: A 87. § (4) bekezdése a 226/2009. (X. 14.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^200]: A 87. § (7) bekezdését a 33/2011. (III. 17. ) Korm. rendelet 12. §-a hatályon kívül helyezte.

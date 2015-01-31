@@ -90,6 +90,8 @@ e)[^81] a megfelelő pénzügyi ellenőrzések biztosítása érdekében a támo
 
 (7)[^82] Kockázati tőke támogatás nyújtása esetén a KSz hatáskörébe tartozó feladatokkal kapcsolatosan a (4) bekezdés a) pontját, valamint a 19. § (3) bekezdését és a 61. § (2) bekezdését nem kell alkalmazni.
 
+(8)[^83] A Pályázati Alap és az Ösztöndíj Alap vonatkozásában a TKSz részére a (4) bekezdés o) pontja szerint történő kifizetés felfüggesztése esetén a Kisprojekt Végrehajtók aránytalan hátrányba kerülésének, illetve ellehetetlenülésének elhárítása érdekében a kifizetések vonatkozásában ideiglenes eljárás (a továbbiakban: ideiglenes kifizetési eljárás) alkalmazható átmenetileg, amely során a KSz elláthatja a TKSz Kisprojekt Végrehajtók számára teljesítendő kifizetési feladatait azzal, hogy az ideiglenes kifizetési eljárás alkalmazásához a donor fél hozzájárulása szükséges.
+
 [^65]: A 27. § (2) bekezdés d) pontja a 11/2012. (II. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^66]: A 27. § (3) bekezdése a 226/2009. (X. 14.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^67]: A 27. § (3) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 58. §-a, a 11/2012. (II. 14.) Korm. rendelet 35. §-a szerint módosított szöveg.
@@ -108,3 +110,4 @@ e)[^81] a megfelelő pénzügyi ellenőrzések biztosítása érdekében a támo
 [^80]: A 27. § (4) bekezdés o) pontját a 11/2012. (II. 14.) Korm. rendelet 7. § (6) bekezdése iktatta be.
 [^81]: A 27. § (6) bekezdésének e) pontját a 226/2009. (X. 14.) Korm. rendelet 6. § (3) bekezdése iktatta be.
 [^82]: A 27. § (7) bekezdését a 33/2011. (III. 17.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^83]: A 27. § (8) bekezdését a 11/2015. (I. 30.) Korm. rendelet 1. §-a iktatta be.

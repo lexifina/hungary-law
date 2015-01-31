@@ -1,4 +1,4 @@
-## 71. §[^157] A Technikai Segítségnyújtási Alap esetén az igazolási tevékenységet az NKE látja el.
+## 71. §[^158] A Technikai Segítségnyújtási Alap esetén az igazolási tevékenységet az NKE látja el.
 
 ## 8. Fejezet
 
@@ -6,7 +6,7 @@
 
 ## Pénzügyi irányítás és kontroll
 
-72. § (1)[^158] A pénzügyi irányítási és kontrollrendszer tekintetében az Áht., az Ávr., valamint a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló kormányrendelet előírásai az irányadók.
+72. § (1)[^159] A pénzügyi irányítási és kontrollrendszer tekintetében az Áht., az Ávr., valamint a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló kormányrendelet előírásai az irányadók.
 
 (2) Az NKE, a KSz, illetve a TKSz kötelesek
 
@@ -18,8 +18,8 @@ c) tevékenységükre vonatkozóan biztosítani a négy szem elvének érvényes
 
 d) gondoskodni az ellenőrzési nyomvonal, a szabálytalanságkezelési és a kockázatkezelési eljárásrend kialakításáról, továbbá a közbeszerzési eljárások ellenőrzésének belső eljárásrendjének szabályozásáról, valamint az esetleges változások haladéktalan átvezetéséről.
 
-(3)[^159] Az NFÜ, a KSz és a TKSz kötelesek a közreműködő szervezeti tevékenység bevételeire és kiadásaira elkülönített nyilvántartás vezetését biztosítani.
+(3)[^160] Az NFÜ, a KSz és a TKSz kötelesek a közreműködő szervezeti tevékenység bevételeire és kiadásaira elkülönített nyilvántartás vezetését biztosítani.
 
-[^157]: A 71. § a 226/2009. (X. 14.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^158]: A 72. § (1) bekezdése a 11/2012. (II. 14.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^159]: A 72. § (3) bekezdése a 11/2012. (II. 14.) Korm. rendelet 35. §-a szerint módosított szöveg.
+[^158]: A 71. § a 226/2009. (X. 14.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^159]: A 72. § (1) bekezdése a 11/2012. (II. 14.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^160]: A 72. § (3) bekezdése a 11/2012. (II. 14.) Korm. rendelet 35. §-a szerint módosított szöveg.

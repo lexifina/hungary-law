@@ -1,4 +1,4 @@
-112/N. §[^237] (1) Ha az ellátásért felelős települési önkormányzat az 1370/2007/EK európai parlamenti és tanácsi rendelet 5. cikk (2) bekezdése alapján úgy dönt, hogy saját maga nyújt személyszállítási közszolgáltatást vagy közvetlenül bíz meg közszolgáltatási szerződéssel belső szolgáltatót, a következő feltételeknek kell megfelelni:
+112/N. §[^238] (1) Ha az ellátásért felelős települési önkormányzat az 1370/2007/EK európai parlamenti és tanácsi rendelet 5. cikk (2) bekezdése alapján úgy dönt, hogy saját maga nyújt személyszállítási közszolgáltatást vagy közvetlenül bíz meg közszolgáltatási szerződéssel belső szolgáltatót, a következő feltételeknek kell megfelelni:
 
 a) a belső szolgáltató, és bármely olyan egység, amelyre ezen szolgáltató akár minimális befolyást is gyakorol, személyszállítási közszolgáltatási tevékenységét – a tevékenységnek a szomszédos települési önkormányzat területére belépő kimenő útvonalaktól vagy egyéb kisegítő elemeitől függetlenül – a települési önkormányzat illetékességi területén végzi, és nem vesz részt a települési önkormányzat illetékességi területén kívül szervezett, személyszállítási közszolgáltatás nyújtására irányuló pályázati vagy közbeszerzési eljáráson;
 
@@ -14,4 +14,4 @@ c) ha a közszolgáltatás ellátásába alvállalkozó bevonására kerül sor,
 
 (5) A települési önkormányzat dönthet úgy, hogy a vasúti szállítást érintő közszolgáltatási szerződéssel – az egyéb kötöttpályás szállítás kivételével – közvetlenül bíz meg szolgáltatót. A szerződés időtartama ebben az esetben – az 1370/2007/EK európai parlamenti és tanácsi rendelet 4. cikk (4) bekezdése szerinti esetek kivételével – nem haladhatja meg a 10 évet.
 
-[^237]: A 112/N. §-t a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.
+[^238]: A 112/N. §-t a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.
