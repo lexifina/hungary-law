@@ -34,7 +34,7 @@ bc) a veszettség elleni védőoltás időpontja,
 
 bd) a felhasznált oltóanyag neve, gyártási száma;
 
-c)[^12] az év során elvégzett immunizálások ba)–bc) pontokban felsorolt adatait az oltást végző állatorvos székhelye szerint illetékes járási főállatorvosnak az azt követő év január 30-ig megküldeni;
+c)[^12]
 
 d) nyilvántartásából egy adott állat immunizálásának b) pontban felsorolt adatait haladéktalanul az állat-egészségügyi hatóság rendelkezésére bocsátani, annak felhívására;
 
@@ -56,11 +56,11 @@ b) nyilvántartja az embert mart és a megfigyelés alá helyezett, egyedileg az
 
 c)[^18]
 
-d) évenként összesíti az illetékességi területén beoltott ebek számát az (5) bekezdés c) pontjában leírt jelentések alapján;
+d)[^19]
 
 e) illetékességi területén ellenőrzi az e jogszabályban foglaltak végrehajtását, továbbá jogsértés esetén az Éltv. 56. §-a szerint jogkövetkezményeket alkalmazhat.
 
-(7)[^19] Veszettség ellen csak elektronikus transzponderrel megjelölt eb oltható.
+(7)[^20] Veszettség ellen csak elektronikus transzponderrel megjelölt eb oltható.
 
 [^6]: A 4. § (1) bekezdés a) pontja a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^7]: A 4. § (2) bekezdése a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
@@ -68,11 +68,12 @@ e) illetékességi területén ellenőrzi az e jogszabályban foglaltak végreha
 [^9]: A 4. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja, a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^10]: A 4. § (5) bekezdés nyitó szövegrésze a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^11]: A 4. § (5) bekezdés b) pont bb) alpontja a 32/2014. (XII. 9.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^12]: A 4. § (5) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^12]: A 4. § (5) bekezdés c) pontját a 32/2014. (XII. 9.) FM rendelet 13. § a) pontja hatályon kívül helyezte.
 [^13]: A 4. § (5) bekezdés f) pontját a 23. § (2) bekezdése hatályon kívül helyezte, újonnan a 32/2014. (XII. 9.) FM rendelet 11. § (3) bekezdése iktatta be.
 [^14]: A 4. § (5) bekezdés g) pontja a 42/2010. (IV. 22.) FVM rendelet 16. § a) pontja, a 70/2013. (VII. 31.) VM rendelet 102. § a) pontja szerint módosított szöveg.
 [^15]: A 4. § (5) bekezdésének h) pontja e rendelet 23. § (2) bekezdése alapján 2010. január 1-jén lépett hatályba.
 [^16]: A 4. § (5a) bekezdését a 127/2012. (XII. 12.) VM rendelet 4. § (1) bekezdése iktatta be, szövege a 37/2013. (V. 22.) VM rendelet 6. §-ával megállapított, a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^17]: A 4. § (6) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^18]: A 4. § (6) bekezdés c) pontját a 42/2010. (IV. 22.) FVM rendelet 17. §-a hatályon kívül helyezte.
-[^19]: A 4. § (7) bekezdését a 127/2012. (XII. 12.) VM rendelet 4. § (2) bekezdése iktatta be.
+[^19]: A 4. § (6) bekezdés d) pontját a 32/2014. (XII. 9.) FM rendelet 13. § a) pontja hatályon kívül helyezte.
+[^20]: A 4. § (7) bekezdését a 127/2012. (XII. 12.) VM rendelet 4. § (2) bekezdése iktatta be.

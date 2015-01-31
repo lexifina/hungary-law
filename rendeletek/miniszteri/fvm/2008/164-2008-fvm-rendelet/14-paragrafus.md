@@ -6,9 +6,9 @@ b) az elhullott, levágott vagy leölt betegségre gyanús állatból vizsgálat
 
 c) a betegség megállapítását, illetve megszűntté nyilvánítását, az állat 17. § szerinti hatósági megfigyelését, a megfigyelés feloldását, az állat esetleges oltását határozatban elrendelni;
 
-d)[^45] a gulyában, nyájban, csordában vagy más módon együtt tartott, fertőzöttségre gyanús gazdasági haszonállatok tekintetében a járási főállatorvos intézkedését kérni.
+d)[^46] a gulyában, nyájban, csordában vagy más módon együtt tartott, fertőzöttségre gyanús gazdasági haszonállatok tekintetében a járási főállatorvos intézkedését kérni.
 
-(2)[^46] A hatósági állatorvos (1) bekezdésben leírt feladatai közül az a)–b) pontokban szereplők végrehajtására a járási főállatorvos állami feladat elvégzésére feljogosított szolgáltató állatorvost is kijelölhet.
+(2)[^47] A hatósági állatorvos (1) bekezdésben leírt feladatai közül az a)–b) pontokban szereplők végrehajtására a járási főállatorvos állami feladat elvégzésére feljogosított szolgáltató állatorvost is kijelölhet.
 
-[^45]: A 14. § (1) bekezdés d) pontja a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^46]: A 14. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja, a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^46]: A 14. § (1) bekezdés d) pontja a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^47]: A 14. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja, a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés j) pontja szerint módosított szöveg.
