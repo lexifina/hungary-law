@@ -1,0 +1,5 @@
+## 2. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba, és a kihirdetését követő 60. napon hatályát veszti.
+
+3. § (1) Az e rendelet hatálybalépését követő 8 napon belül a Bács-Kiskun Megyei Építész Kamara titkára a Jász-Nagykun-Szolnok Megyei Építészek Kamarája titkárának jegyzőkönyvben rögzítve átadja az e rendelet hatálybalépésekor folyamatban lévő, a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény (a továbbiakban: kamarai tv.) 42. § (1) bekezdés a) pontja és 42. § (5) bekezdése szerinti, a Jász-Nagykun-Szolnok Megyei Építészek Kamarájának illetékességébe tartozó közigazgatási ügyek iratait, az iratok kezelésére vonatkozó jogszabályoknak megfelelő bontásban.
+
+(2) Az e rendelet hatálybalépését követő 60 napon belül a Jász-Nagykun-Szolnok Megyei Építészek Kamarája a kamarai tv. 39. § (6) bekezdés a) és b) pontja alapján dönt a Bács-Kiskun Megyei Építész Kamara által ideiglenes névjegyzékbe vett személyek kamarai tagságáról.
