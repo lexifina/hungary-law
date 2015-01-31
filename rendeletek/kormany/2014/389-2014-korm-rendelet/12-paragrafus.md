@@ -1,1 +1,0 @@
-## „16. a légiközlekedés védelmi kockázatok felderítése érdekében a repülőtereken és a légiközlekedés védelmi tevékenység végzésére kötelezett jogalanynál – amennyiben az általános rendőrségi feladatok ellátására létrehozott szerv indokoltnak tartja a TEK és az AH bevonásával – ellenőrzést hajt végre, amelynek eredményéről a felelős hatóságot soron kívül értesíti.”
