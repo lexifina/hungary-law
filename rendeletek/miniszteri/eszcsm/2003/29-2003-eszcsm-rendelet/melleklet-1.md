@@ -1,111 +1,125 @@
-1. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez
+1. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez[^13]
 
 ## A döntés-előkészítő program részletes tematikája
 
-## I.[^13] A tanfolyam célja
+1. A tanfolyam célja, hogy a résztvevők
 
-## A tanfolyam célja, hogy a résztvevők
+1.1. megszerezzék a helyettes szülői és a nevelőszülői munkára vonatkozó alapvető ismereteket,
 
-## – megszerezzék a helyettes szülői munkára vonatkozó alapvető ismereteket,
+1.2. megismerjék a saját, vér szerinti családjukban nem nevelkedhető gyermekek sajátos helyzetét,
 
-## – megismerjék a saját, vér szerinti családjukban nem nevelkedhető gyermekek sajátos helyzetét,
+1.3. megismerjék a helyettes szülői és a nevelőszülői munka során felmerülő tipikus problémákat és ezek megoldási lehetőségeit,
 
-## – megismerjék a helyettes szülői munka során felmerülő tipikus problémákat és ezek megoldási lehetőségeit,
+1.4. a képzést követően – a képzővel együtt – megalapozott döntést tudjanak hozni arról, hogy alkalmasak-e befogadó szülőnek,
 
-## – a képzést követően - a képzővel együtt - megalapozott döntést tudjanak hozni arról, hogy alkalmasak-e helyettes szülőnek.
+1.5. a képzést követően – a képzővel együtt – megalapozott döntést tudjanak hozni arról, hogy a továbbiakban a helyettes szülői vagy a nevelőszülői képzésen vegyenek-e részt.
 
-II. A csoportos foglalkozás tematikája
+2. A csoportos foglalkozás tematikája
 
-1.[^14] Mit jelent helyettes szülőnek lenni? 3 óra (ea.)
+2.1. Mit jelent befogadó szülőnek lenni?
 
-– Miben különbözik egymástól a helyettes szülői és a nevelőszülői munka?
+2.1.1. Miben különbözik egymástól a helyettes szülői és a nevelőszülői munka?
 
-– A képzés és az értékelés célja, menete.
+2.1.2. A képzés és az értékelés célja, menete.
 
-2.[^15] A családi kapcsolatok jelentősége a gyermek életében 3 óra (ea.)
+3 óra (ea.)
 
-– A gyermek azonosságtudata, kultúrája, önbecsülése és a család.
+2.2. A családi kapcsolatok jelentősége a gyermek életében
 
-– Az állandóság jelentősége a gyermek életében.
+2.2.1. A gyermek azonosságtudata, kultúrája, önbecsülése és a család.
 
-– Mi a helyettes szülő és a többi szakember feladata a fentiek biztosításában?
+2.2.2. Az állandóság jelentősége a gyermek életében.
 
-3.[^16] A kötődés szerepe a gyermek életében 3 óra (ea.)
+2.2.3. Mi a befogadó szülő és a többi szakember feladata a fentiek biztosításában?
 
-– A gyermek fejlődésének alapfeltételei.
+3 óra (ea.)
 
-– A mély és tartós kötődés fogalma, jelentősége.
+2.3. A kötődés szerepe a gyermek életében
 
-– Hogyan hat a gyermek fejlődésére az, ha helyettes szülőhöz kerül?
+2.3.1. A gyermek fejlődésének alapfeltételei.
 
-– Mi a helyettes szülő és a többi szakember feladata a fentiek biztosításában?
+2.3.2. A mély és tartós kötődés fogalma, jelentősége.
 
-4.[^17] A veszteség a gyermek életében 3 óra (ea.)
+2.3.3. Hogyan hat a gyermek fejlődésére az, ha befogadó szülőhöz kerül?
 
-– A saját, vér szerinti családjukban nem nevelkedhető gyermekek által átélt veszteségek típusai.
+2.3.4. Mi a befogadó szülő és a többi szakember feladata a fentiek biztosításában?
 
-– A helyettes szülőhöz kerülés hatása a veszteségélményre.
+3 óra (ea.)
 
-– A veszteség feldolgozásának módjai, a helyettes szülő szerepe a veszteség feldolgozásában.
+2.4. A veszteség a gyermek életében
 
-– A helyettes szülő saját veszteségélménye és annak feldolgozása a gyermek szempontjából.
+2.4.1. A saját, vér szerinti családjukban nem nevelkedhető gyermekek által átélt veszteségek típusai.
 
-5.[^18] A gyermek családi kapcsolatainak erősítése 3 óra (ea.)
+2.4.2. A befogadó szülőhöz kerülés hatása a veszteségélményre.
 
-– A gyermek életében jelentős kapcsolatok, ezek hatása a gyermek önbecsülésére, azonosságtudatára.
+2.4.3. A veszteség feldolgozásának módjai, a befogadó szülő szerepe a veszteség feldolgozásában.
 
-– Hogyan változnak a saját, vér szerinti családjukban nem nevelkedhető gyermekek kapcsolatai?
+2.4.4. A befogadó szülő saját veszteségélménye és annak feldolgozása a gyermek szempontjából.
 
-– A helyettes szülők szerepe a gyermek kapcsolatainak erősítésében.
+3 óra (ea.)
 
-6. A gyermek viselkedése és kezelése 3 óra (ea.)
+2.5. A gyermek családi kapcsolatainak erősítése
 
-– A saját, vér szerinti családjukban nem nevelkedhető gyermekek viselkedésének jellemzői.
+2.5.1. A gyermek életében jelentős kapcsolatok, ezek hatása a gyermek önbecsülésére, azonosságtudatára.
 
-– A fegyelmezés és büntetés.
+2.5.2. Hogyan változnak a saját, vér szerinti családjukban nem nevelkedhető gyermekek kapcsolatai?
 
-– A hatékony fegyelmezéshez szükséges ismeretek, készségek, eszközök.
+2.5.3. Hogyan gondozható haza szüleihez vagy gyám gondozásába?
 
-7. Életre szóló kapcsolatok a gyermek életében 3 óra (ea.)
+2.5.4. A befogadó szülők szerepe a gyermek kapcsolatainak erősítésében.
 
-– Az állandóság-érzet biztosításának eszközei ideiglenes elhelyezés esetében.
+3 óra (ea.)
 
-– Életre szóló kapcsolatok kialakítása azoknál a gyermekeknél, akik nem helyezhetőek vissza saját, vér szerinti családjukba.
+2.6. A gyermek viselkedése és kezelése
 
-8.[^19] A helyettes szülő/család életében várható változások a gyermek odakerülését követően 3 óra (ea.)
+2.6.1. A saját, vér szerinti családjukban nem nevelkedhető gyermekek viselkedésének jellemzői.
 
-– Mire lehet számítani a gyermek érkezését követő napokban, hetekben?
+2.6.2. A fegyelmezés és büntetés.
 
-– Milyen hosszú távú változásokkal kell számolnia a helyettes szülőnek/családnak?
+2.6.3. A hatékony fegyelmezéshez szükséges ismeretek, készségek, eszközök.
 
-– Milyen hatással lehet a helyettes szülő családtagjaira a gyermek érkezése?
+3 óra (ea.)
 
-– A gyermek különböző életszakaszaiban várható nehézségek.
+2.7. Életre szóló kapcsolatok a gyermek életében
 
-9.[^20] Ki miben segíthet? 4 óra (ea.)
+2.7.1. Az állandóság-érzet biztosításának eszközei ideiglenes elhelyezés esetében.
 
-– A gyermekvédelem rendszerének rövid bemutatása, a szakemberek információ- és támogatásnyújtása.
+2.7.2. Életre szóló kapcsolatok kialakítása azoknál a gyermekeknél, akik nem helyezhetőek vissza saját, vér szerinti családjukba.
 
-– Kihez lehet fordulni a helyettes szülőnél/családban, illetőleg a szűkebb-tágabb környezetben felmerülő problémák esetén?
+2.7.3. A gyermek átgondozása örökbefogadó családba.
 
-III. A családértékelő megbeszélések témái
+3 óra (ea.)
 
-1.[^21] A helyettes szülő/család lehetőségei, tudása, tapasztalata. Várhatóan mennyiben lesznek képesek kielégíteni a hozzájuk kerülő gyermek szükségleteit? Mely területeken van a helyettes szülőnek/családnak további fejlődésre, segítségre szüksége ahhoz, hogy a hozzá kerülő gyermek szükségleteit ki tudja elégíteni?
+2.8. A befogadó szülő, család életében várható változások a gyermek odakerülését követően
 
-2.[^22] Hogyan biztosítható a helyettes szülő/család további fejlődése? Milyen támogatásra van szüksége a helyettes szülőnek/családnak, hogyan fogja ezt megkapni?
+2.8.1. Mire lehet számítani a gyermek érkezését követő napokban, hetekben?
 
-3.[^23] Hogyan látja a helyettes szülő/család a saját elvárásait, képességeit, szükségleteit a gyermek – képzés során megismert – szükségletei fényében? Hogyan befolyásolja ez helyettes szülői szándékát, döntését?
+2.8.2. Milyen hosszú távú változásokkal kell számolnia a befogadó szülőnek, családnak?
 
-IV. Az ismeretek ellenőrzési rendszere
+2.8.3. Milyen hatással lehet a befogadó szülő családtagjaira a gyermek érkezése?
 
-[^13]: A 1. számú melléklet I. pontja a 83/2013. (XII. 29.) EMMI rendelet 31. §-ával megállapított szöveg.
-[^14]: Az 1. számú melléklet II. pont 1. alpontja a 83/2013. (XII. 29.) EMMI rendelet 31. §-a szerint módosított szöveg.
-[^15]: Az 1. számú melléklet II. pont 2. alpontja a 83/2013. (XII. 29.) EMMI rendelet 31. §-a szerint módosított szöveg.
-[^16]: Az 1. számú melléklet II. pont 3. alpontja a 83/2013. (XII. 29.) EMMI rendelet 31. §-a szerint módosított szöveg.
-[^17]: Az 1. számú melléklet II. pont 4. alpontja a 83/2013. (XII. 29.) EMMI rendelet 31. §-a szerint módosított szöveg.
-[^18]: Az 1. számú melléklet II. pont 5. alpontja a 83/2013. (XII. 29.) EMMI rendelet 31. §-a szerint módosított szöveg.
-[^19]: Az 1. számú melléklet II. pont 8. alpontja a 83/2013. (XII. 29.) EMMI rendelet 31. §-a szerint módosított szöveg.
-[^20]: Az 1. számú melléklet II. pont 9. alpontja a 83/2013. (XII. 29.) EMMI rendelet 31. §-a szerint módosított szöveg.
-[^21]: Az 1. számú melléklet III. pont 1. alpontja a 83/2013. (XII. 29.) EMMI rendelet 31. §-a szerint módosított szöveg.
-[^22]: Az 1. számú melléklet III. pont 2. alpontja a 83/2013. (XII. 29.) EMMI rendelet 31. §-a szerint módosított szöveg.
-[^23]: Az 1. számú melléklet III. pont 3. alpontja a 83/2013. (XII. 29.) EMMI rendelet 31. §-a szerint módosított szöveg.
+2.8.4. A gyermek egyes életszakaszaiban várható nehézségek.
+
+3 óra (ea.)
+
+2.9. Ki miben segíthet?
+
+2.9.1. A gyermekvédelem rendszerének rövid bemutatása, a szakemberek információ- és támogatásnyújtása.
+
+2.9.2. Kihez lehet fordulni a befogadó szülőnél, családban, illetőleg a szűkebb-tágabb környezetben felmerülő problémák esetén?
+
+4 óra (ea.)
+
+3. A családértékelő megbeszélések témái
+
+3.1. A befogadó szülő, család lehetőségei, tudása, tapasztalata. Várhatóan mennyiben lesznek képesek kielégíteni a hozzájuk kerülő gyermek szükségleteit? Mely területeken van a befogadó szülőnek, családnak további fejlődésre, segítségre szüksége ahhoz, hogy a hozzá kerülő gyermek szükségleteit ki tudja elégíteni?
+
+3.2. Hogyan biztosítható a befogadó szülő, család további fejlődése? Milyen támogatásra van szüksége a befogadó szülőnek, családnak, hogyan fogja ezt megkapni?
+
+3.3. Hogyan látja a befogadó szülő, család a saját elvárásait, képességeit, szükségleteit a gyermek – képzés során megismert – szükségletei fényében? Hogyan befolyásolja ez befogadó szülői szándékát, döntését?
+
+4. Az ismeretek ellenőrzési rendszere
+
+4.1. Egyéni vagy csoportos összegző beszélgetés.
+
+[^13]: Az 1. számú melléklet a 6/2015. (I. 28.) EMMI rendelet 24. § (1) bekezdésével megállapított szöveg.

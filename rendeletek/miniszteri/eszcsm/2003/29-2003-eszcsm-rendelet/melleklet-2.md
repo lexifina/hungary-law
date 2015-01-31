@@ -1,5 +1,3 @@
-## – Egyéni vagy csoportos összegző beszélgetés.
-
 2. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez
 
 ## A helyettes szülői tanfolyam részletes tematikája
