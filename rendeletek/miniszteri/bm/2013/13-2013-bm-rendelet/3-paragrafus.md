@@ -1,1 +1,0 @@
-## 2. § Az e rendelet hatálybalépését követő 8 napon belül a Jász-Nagykun-Szolnok Megyei Építészek Kamarájának titkára a Bács-Kiskun Megyei Építész Kamara titkárának jegyzőkönyvben rögzítve átadja az e rendelet hatálybalépésekor folyamatban lévő, 1. § szerinti ügyek iratait, az iratok kezelésére vonatkozó jogszabályoknak megfelelő bontásban.
