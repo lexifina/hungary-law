@@ -96,11 +96,11 @@ g) a hajós és tengerész szolgálati könyv kiállításával, vezetésével, 
 
 h) a tengeri kedvtelési célú kishajók jachtnaplójának és személyzeti jegyzékének kiadásával és hitelesítésével,
 
-i) a tengeri hajózási szolgálatot teljesítő személy egészségi alkalmasságának orvosi vizsgálatára orvosszakértő kijelölésével,
+i)[^138] a tengeri hajózási szolgálatot teljesítő személy egészségi alkalmasságát vizsgáló orvos nyilvántartásba vételével és az egészségi alkalmasság másodfokú vizsgálatában az orvosszakértő kijelölésével,
 
 j) elemi csapás vagy egyéb veszély esetén az úszólétesítmények ideiglenes igénybevételével,
 
-k)[^138] Magyarország konzuli tisztviselőjének a hajóokmányok érvényességének ideiglenes meghosszabbítására való felkérésével,
+k)[^139] Magyarország konzuli tisztviselőjének a hajóokmányok érvényességének ideiglenes meghosszabbítására való felkérésével,
 
 l) az úszólétesítmények megfelelőségét vizsgáló, ellenőrző és tanúsító elismert szervezetek elismerését megalapozó javaslathoz az elismerést kérelmező szervezet auditálásával, továbbá az elismerést elnyert szervezet tevékenységének ellenőrzésével,
 
@@ -118,7 +118,7 @@ r) a hajózási képesítések nyilvántartásával, ideértve az elektronikus n
 
 ## kapcsolatos feladatokat.
 
-(3a)[^139] A (3) bekezdés d) pontja szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+(3a)[^140] A (3) bekezdés d) pontja szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A Vkt. 48/B. §-ának (1) bekezdésében meghatározott folyami információs szolgáltatás működtetéséhez, ellenőrzéséhez kapcsolódó feladatokat az Útügyi, Vasúti és Hajózási Hivatal végzi.
 
@@ -135,5 +135,6 @@ c) a Vkt.-ben előírt képesítési követelményekkel összefüggő képzési 
 [^135]: A 7. § (1) bekezdés b. pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
 [^136]: A 7. § (2) bekezdés 30. pontját a 122/2012. (VI. 26.) Korm. rendelet 9. § (1) bekezdése iktatta be.
 [^137]: A 7. § (2a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 8. § (1) bekezdése iktatta be.
-[^138]: A 7. § (3) bekezdés k) pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
-[^139]: A 7. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^138]: A 7. § (3) bekezdés i) pontja a 383/2014. (XII. 31.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^139]: A 7. § (3) bekezdés k) pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^140]: A 7. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 8. § (2) bekezdése iktatta be.

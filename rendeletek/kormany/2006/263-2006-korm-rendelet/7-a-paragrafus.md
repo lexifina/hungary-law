@@ -1,6 +1,6 @@
-## A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóság kijelölése[^140]
+## A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóság kijelölése[^141]
 
-7/A. §[^141] (1) A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóságként a Kormány a (2)–(5) bekezdés szerinti ügyek vonatkozásában a Hatóságot jelöli ki.
+7/A. §[^142] (1) A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóságként a Kormány a (2)–(5) bekezdés szerinti ügyek vonatkozásában a Hatóságot jelöli ki.
 
 (2) Első fokú építésfelügyeleti hatóságként
 
@@ -18,5 +18,5 @@ b) az a) pont hatálya alá nem tartozó közúti közlekedési építmények vo
 
 (6) A (2)–(5) bekezdés szerinti ügyek vonatkozásában másodfokú építésfelügyeleti hatóságként a Központ jár el.
 
-[^140]: A 7/A. §-t megelőző alcímet a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be.
-[^141]: A 7/A. §-t a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^141]: A 7/A. §-t megelőző alcímet a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be.
+[^142]: A 7/A. §-t a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -14,7 +14,7 @@
 
 | 6. | A berendezés típuscseréje, valamint a repülőtér területén történő légiforgalmi berendezés telepítése kivételével a nem ionizáló sugárzó berendezést szolgáló építmény hatósági engedélyezése esetén. | A berendezés sugár-egészségügyi hatásai, kockázatai. | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve Sugár-egészségügyi Decentruma | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
 
-5. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^267]
+5. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^268]
 
 I. A kikötő, valamint a komp- és révátkelőhely elvi létesítési, létesítési, használatbavételi, fennmaradási, rendeltetéstől eltérő használati
 
@@ -106,4 +106,4 @@ engedélyezési eljárásban részt vevő szakhatóságok
 
 | 5. | Vízisportpálya esetén, ha a tevékenység halgazdálkodási vízterületet érint. | Annak elbírálása kérdésében, hogy a tevékenység a halgazdálkodásról és a hal védelméről szóló jogszabályokban rögzített követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | megyei, fővárosi kormányhivatal földművelésügyi igazgatóság | Nemzeti Élelmiszerlánc- biztonsági Hivatal | IGEN | IGEN | IGEN |
 
-[^267]: Az 5. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 273/2010. (XII. 9.) Korm. rendelet 114. § (2) bekezdése, a 326/2010. (XII. 27.) Korm. rendelet – a 351/2010. (XII. 30.) Korm. rendelet 290. §-ával megállapított – 13. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 8. § (3) bekezdés b) pontja, a 82/2011. (V. 18.) Korm. rendelet 34. §-a, a 296/2012. (X. 17.) Korm. rendelet 22. § g) pontja, a 394/2012. (XII. 20.) Korm. rendelet 14. § (3) bekezdése, a 255/2013. (VII. 5.) Korm. rendelet 18. §-a, a 323/2013. (VIII. 28.) Korm. rendelet 1. §-a, a 358/2013. (X. 9.) Korm. rendelet 1. § (9) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdés c) pontja, a 221/2014. (IX. 4.) Korm. rendelet 333. § b) pontja szerint módosított szöveg.
+[^268]: Az 5. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 273/2010. (XII. 9.) Korm. rendelet 114. § (2) bekezdése, a 326/2010. (XII. 27.) Korm. rendelet – a 351/2010. (XII. 30.) Korm. rendelet 290. §-ával megállapított – 13. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 8. § (3) bekezdés b) pontja, a 82/2011. (V. 18.) Korm. rendelet 34. §-a, a 296/2012. (X. 17.) Korm. rendelet 22. § g) pontja, a 394/2012. (XII. 20.) Korm. rendelet 14. § (3) bekezdése, a 255/2013. (VII. 5.) Korm. rendelet 18. §-a, a 323/2013. (VIII. 28.) Korm. rendelet 1. §-a, a 358/2013. (X. 9.) Korm. rendelet 1. § (9) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdés c) pontja, a 221/2014. (IX. 4.) Korm. rendelet 333. § b) pontja szerint módosított szöveg.
