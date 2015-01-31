@@ -1,4 +1,4 @@
-## 4K03767M_1
+## 5K00246M_1
 
 | Ellátás | Munkakör/fő |
 
@@ -96,7 +96,7 @@
 
 | 3. Területi gyermekvédelmi szakszolgálat | intézményvezető | 1 fő |
 
-|  | pszichológus | 1 fő/évi 100 új örökbefogadói alkalmassági vizsgálatra, vér szerinti szülőnek, várandós anyának krízistanácsadásra, utánkövetési tanácsadásra |
+|  | pszichológus | 1 fő/évi 100 új örökbefogadói alkalmassági vizsgálatra, örökbefogadás előkészítésére, vér szerinti szülőnek, várandós anyának krízistanácsadásra, utánkövetési tanácsadásra |
 
 |  | örökbefogadási tanácsadó | 1 fő/55-65 örökbefogadási eset* |
 
@@ -122,6 +122,6 @@
 
 | * Örökbefogadási eset alatt értendő: érvényes alkalmassági határozattal rendelkező örökbefogadásra váró családok száma, a folyamatban lévő alkalmassági vizsgálatok száma (házaspár egynek számít), folyamatban lévő örökbefogadások (beleértve a más megyei örökbefogadás és nyílt örökbefogadás esetén a kötelező gondozási idő figyelemmel kísérését), a nyílt örökbefogadás előkészítésének száma, valamint az örökbefogadás kötelező és önkéntes utánkövetésének száma. |
 
-2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^556]
+2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^580]
 
-[^556]: A 2. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (2) és (4) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 17. § (2) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (2) bekezdése szerint módosított szöveg.
+[^580]: A 2. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (2) és (4) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 17. § (2) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (2) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (2) bekezdése szerint módosított szöveg.

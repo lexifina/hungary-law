@@ -1,8 +1,6 @@
-## 50. § Ha a családi napköziben 3 évesnél fiatalabb és 3–14 éves kor közötti gyermekeket is elhelyeznek, az 1 éves kor alattiak részére elkülönített játszó- és öltözőhelyet kell kialakítani.
+## Családi gyermekfelügyelet[^213]
 
-## Családi gyermekfelügyelet[^195]
-
-50/A. §[^196] (1) A Gyvt. 43/A. §-a (1) bekezdésének alkalmazásában saját otthon alatt a szolgáltatást nyújtó személy életvitelszerű tartózkodására szolgáló lakást kell érteni.
+50/A. §[^214] (1) A Gyvt. 43/A. §-a (1) bekezdésének alkalmazásában saját otthon alatt a szolgáltatást nyújtó személy életvitelszerű tartózkodására szolgáló lakást kell érteni.
 
 (2) Családi gyermekfelügyelet szolgáltatást az biztosíthat, aki – a Gyvt. 43/A. §-ában meghatározott feltételeknek való megfelelésen túl – érvényes Egészségügyi Nyilatkozattal rendelkezik.
 
@@ -10,8 +8,8 @@
 
 (4) Családi gyermekfelügyeletet elsősorban olyan gyermek számára kell biztosítani, akinek a szülője vagy más törvényes képviselője igazolja, hogy munkaviszonya, munkavégzésre irányuló egyéb jogviszonya, munkaerő-piaci részvételt elősegítő programban, képzésben való részvétele vagy betegsége miatt nem tud gyermeke napközbeni ellátásáról gondoskodni.
 
-(5)[^197] A Gyvt. 43/A. § (5) bekezdésének alkalmazásában saját gyermek alatt annak a szolgáltatást közvetlenül nyújtó személynek a gyermekét kell érteni, aki a Gyvt. 5. § s) pont sc) alpontjában foglaltak alapján egyben a szolgáltatás fenntartója is.
+(5)[^215] A Gyvt. 43/A. § (5) bekezdésének alkalmazásában saját gyermek alatt annak a szolgáltatást közvetlenül nyújtó személynek a gyermekét kell érteni, aki a Gyvt. 5. § s) pont sc) alpontjában foglaltak alapján egyben a szolgáltatás fenntartója is.
 
-[^195]: Az 50/A. §-t megelőző alcímet a 31/2009. (XII. 22.) SZMM rendelet 11. §-a iktatta be.
-[^196]: Az 50/A. §-t a 31/2009. (XII. 22.) SZMM rendelet 11. §-a iktatta be.
-[^197]: Az 50/A. § (5) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 7. §-a iktatta be.
+[^213]: Az 50/A. §-t megelőző alcímet a 31/2009. (XII. 22.) SZMM rendelet 11. §-a iktatta be.
+[^214]: Az 50/A. §-t a 31/2009. (XII. 22.) SZMM rendelet 11. §-a iktatta be.
+[^215]: Az 50/A. § (5) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 7. §-a iktatta be.

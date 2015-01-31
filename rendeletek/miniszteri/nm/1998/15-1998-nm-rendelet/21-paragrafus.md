@@ -1,22 +1,33 @@
-21. § (1)[^104] A védelembe vétel során a gyermekjóléti szolgálat vezetője, illetve a kirendelt családgondozó a gyámhivatal határozata alapján biztosítja a gyermekjóléti szolgáltatást.
+21. § (1)[^111] A védelembe vétel és a megelőző pártfogás során a gyermekjóléti szolgálat vezetője, illetve a kirendelt családgondozó a gyámhivatal határozata alapján biztosítja a gyermekjóléti szolgáltatást.
 
-(2)[^105] A családgondozó a gondozási-nevelési tervet a gyermekvédelmi nyilvántartás megfelelő adatlapját kitöltve, a Gyvt. 68. §-ának (4) bekezdésében meghatározott határidőre a szülő, a gyermek, az érintett személyek és – szükség esetén – szakemberek bevonásával készíti el. A terv elkészítésénél figyelembe kell venni az alapellátás során követett gondozási tervet és az alapellátás tapasztalatait.
+(2)[^112] A családgondozó az egyéni gondozási-nevelési tervet a gyermekvédelmi nyilvántartás megfelelő adatlapját kitöltve, a Gyvt. 68. §-ának (4) bekezdésében meghatározott határidőre a szülő, a gyermek, az érintett személyek és – szükség esetén – szakemberek bevonásával készíti el. A terv elkészítésénél figyelembe kell venni az alapellátás során követett gondozási tervet és az alapellátás tapasztalatait.
 
-(3) A gondozási-nevelési terv tartalmazza
+(2a)[^113] Megelőző pártfogás alatt álló gyermek esetén a kirendelt családgondozó a megelőző pártfogó bevonásával, a megelőző pártfogás elrendeléséről szóló határozatban foglaltakra figyelemmel készíti el az egyéni gondozási-nevelési tervet és tervezi meg a gyermek, valamint a szülő feladatait.
+
+(3)[^114] Az egyéni gondozási-nevelési terv tartalmazza
 
 a) a veszélyeztető körülmények megjelölését,
 
-b)[^106] a védelembe vétel megszüntetéséhez szükséges változásokat, valamint ennek elérése érdekében a családgondozó, a szülő, továbbá a gyermek feladatait, határidők megállapításával,
+b)[^115] a védelembe vétel megszüntetéséhez szükséges változásokat, valamint ennek elérése érdekében a családgondozó, a szülő, továbbá a gyermek feladatait, határidők megállapításával,
 
 c) a család részére szükséges ellátásokat,
 
 d) a szükségesnek tartott hatósági, illetve bírósági eljárások kezdeményezésének megjelölését,
 
-e)[^107] a segítséget nyújtó intézmények, illetve személyek megjelölését, feladataik meghatározásával együtt,
+e)[^116] a segítséget nyújtó intézmények, illetve személyek megjelölését, feladataik meghatározásával együtt,
 
-f) a szakmailag szükségesnek tartott egyéb rendelkezéseket.
+f) a szakmailag szükségesnek tartott egyéb rendelkezéseket,
 
-[^104]: A 21. § (1) bekezdése a 11/2013. (II. 7.) EMMI rendelet 44. § g) pontja szerint módosított szöveg.
-[^105]: A 21. § (2) bekezdésének első mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^106]: A 21. § (3) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^107]: A 21. § (3) bekezdésének e) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 18. § (2) bekezdésével megállapított szöveg.
+g)[^117] megelőző pártfogás alatt álló gyermek esetén
+
+ga) a családgondozó, a megelőző pártfogó felügyelő, a szülő és a gyermek közötti együttműködés részletes szabályait, megjelölve a megelőző pártfogó felügyelővel való együttműködés módját, gyakoriságát, és
+
+gb) a családgondozó és a megelőző pártfogó felügyelő közötti munkamegosztás szempontjait.
+
+[^111]: A 21. § (1) bekezdése a 6/2015. (I. 28.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^112]: A 21. § (2) bekezdésének első mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 18. § (1) bekezdésével megállapított, a 6/2015. (I. 28.) EMMI rendelet 20. § b) pontja szerint módosított szöveg.
+[^113]: A 21. § (2a) bekezdését a 6/2015. (I. 28.) EMMI rendelet 7. § (2) bekezdése iktatta be.
+[^114]: A 21. § (3) bekezdése nyitó szövegrésze a 6/2015. (I. 28.) EMMI rendelet 20. § c) pontja szerint módosított szöveg.
+[^115]: A 21. § (3) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^116]: A 21. § (3) bekezdésének e) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^117]: A 21. § (3) bekezdés g) pontját a 6/2015. (I. 28.) EMMI rendelet 7. § (3) bekezdése iktatta be.

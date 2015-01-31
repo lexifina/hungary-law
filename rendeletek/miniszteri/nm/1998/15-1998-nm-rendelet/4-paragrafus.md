@@ -1,6 +1,6 @@
 4. §[^23] (1)[^24] A módszertani feladatokat ellátó Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: Főigazgatóság) a Szociális és Gyermekvédelmi Főigazgatóságról szóló kormányrendeletben foglaltak szerint segíti illetékességi területén a gyermekjóléti és gyermekvédelmi szolgáltatók munkáját, kivéve azon egyházi fenntartó által fenntartott nevelőszülői hálózatok és gyermekotthonok munkáját, amelyek tekintetében a miniszter a Gyvt. 96. § (8) bekezdése alapján egyházi módszertani intézményt jelölt ki, vagy amelyek tekintetében a Gyvt. 96. § (13) bekezdése alapján más bevett egyház kijelölt módszertani intézménye látja el a módszertani feladatokat.
 
-(2)[^25] A Főigazgatóság – a működést engedélyező szerv kirendelése alapján – a gyermekjóléti és gyermekvédelmi szolgáltató tevékenység engedélyezéséről, valamint a gyermekjóléti és gyermekvédelmi vállalkozói engedélyről szóló kormányrendeletben foglaltak szerint szakértőként
+(2)[^25] A Főigazgatóság – a működést engedélyező szerv kirendelése alapján – a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendeletben foglaltak szerint szakértőként
 
 a) véleményezi a gyermekjóléti és gyermekvédelmi szolgáltatók szakmai programját és részt vesz azok hatósági ellenőrzésében,
 
@@ -40,7 +40,7 @@ b) a jóváhagyásától számított tizenöt napon belül tájékoztatásul meg
 
 [^23]: A 4. § a 46/2003. (VIII. 8.) ESZCSM rendelet 4. §-ával megállapított szöveg.
 [^24]: A 4. § (1) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 1. § (1) bekezdésével megállapított, a 83/2013. (XII. 29.) EMMI rendelet 18. § (1) bekezdés b) pontja, a 19/2014. (III. 13.) EMMI rendelet 37. § a) pontja szerint módosított szöveg.
-[^25]: A 4. § (2) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^25]: A 4. § (2) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 6/2015. (I. 28.) EMMI rendelet 20. § a) pontja szerint módosított szöveg.
 [^26]: A 4. § (3) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 1. § (1) bekezdésével megállapított, a 83/2013. (XII. 29.) EMMI rendelet 18. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^27]: A 4. § (3a) bekezdését az 58/2011. (X. 21.) NEFMI rendelet 1. § (2) bekezdése iktatta be, szövege a 49/2013. (VII. 10.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^28]: A 4. § (3b) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 2. §-a iktatta be, nyitó szövegrésze a 49/2013. (VII. 10.) EMMI rendelet 24. § (1) bekezdés a) pontja szerint módosított szöveg.

@@ -1,10 +1,10 @@
-1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^555]
+1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^579]
 
 A gyermekjóléti és gyermekvédelmi személyes gondoskodás formáinak szakmai létszám irányszámai és létszámminimum normái
 
 I. Alapellátások
 
-## 4K03767M_0
+## 5K00246M_0
 
 | Ellátás | Munkakör/fő |
 
@@ -18,43 +18,11 @@ I. Alapellátások
 
 |  | – gondozotti létszám: 45 gyermek vagy 25 család |  |
 
-| c) | Önálló gyermekjóléti szolgálat vagy a gyermekjóléti szolg. feladatait is ellátó családsegítő szolgálat, illetve több célú intézmény önálló szakmai egysége (5000 gyermek) | intézményvezető/szakmai egységvezető 1 fő |
+| c) | Önálló gyermekjóléti szolgálat vagy a gyermekjóléti szolg. feladatait is ellátó családsegítő szolgálat, illetve többcélú intézmény önálló szakmai egysége (5000 gyermek) | intézményvezető/szakmai egységvezető családgondozó (általános gyermekjóléti szolgáltatások) - gondozotti létszám: 45 gyermek vagy 25 család tanácsadó: gyógypedagógiai vagy fejlesztő pedagógiai pszichológiai tanácsadó, jogász (az ellátottak szükségletei szerint, fenntartói döntés alapján) családgondozó asszisztens | 1 fő 4 fő összesen heti 45 óra 1 fő |
 
-| családgondozó (általános gyermekjóléti szolgáltatások) 4 fő |
+| d) | Gyermekjóléti központ (40 ezer lakos) | intézményvezető/szakmai egységvezető családgondozó (ált. szolgáltatás) - gondozotti létszám: 45 gyermek vagy 25 család családgondozó (spec. szolgáltat. és programok) - utcai, lakótelepi szoc. munka - kapcsolattartási ügyelet - kórházi szoc. munka | 1 fő 5 fő 2 fő 2 fő/heti 10 óra 1 fő |
 
-| – gondozotti létszám: 45 gyermek vagy 25 család |
-
-| tanácsadó: gyógypedagógiai vagy fejlesztő pedagógiai heti 20 óra |
-
-| pszichológiai tanácsadó heti 15 óra |
-
-| jogász heti 10 óra |
-
-| családgondozó asszisztens 1 fő |
-
-| d) | Gyermekjóléti központ (40 ezer lakos) | intézményvezető/szakmai egységvezető 1 fő |
-
-| családgondozó (ált. szolgáltatás) 5 fő |
-
-| – gondozotti létszám: 45 gyermek vagy 25 család |  |
-
-| családgondozó (spec. szolgáltat. és programok) |  |
-
-| – utcai, lakótelepi szoc. munka 2 fő |
-
-| – kapcsolattartási ügyelet 2 fő/heti 10 óra |
-
-| – kórházi szoc. munka 1 fő |
-
-| tanácsadó |  |
-
-| – gyógyped. vagy fejl. pedagógiai heti 20 óra |
-
-| – pszichológiai heti 15 óra |
-
-| – jogász heti 10 óra |
-
-| – családgondozó asszisztens 2 fő |
+|  | tanácsadó: gyógypedagógiai vagy fejlesztő pedagógiai, pszichológiai tanácsadó, jogász (az ellátottak szükségletei szerint, fenntartói döntés alapján) - családgondozó asszisztens | összesen heti 45 óra 2 fő |
 
 | 2. Bölcsődei ellátás | kisgyermeknevelő | 2 fő |
 
@@ -90,22 +58,18 @@ I. Alapellátások
 
 |  |  | gyermekvédelmi ügyintéző vagy növendékügyi előadó 1 fő |
 
-| 7. | Családok átmeneti otthona | intézményvezető/szakmai vezető 1 fő |
+| 7. | Családok átmeneti otthona (min. 12, max. 40 férőhely) | intézményvezető/szakmai vezető | 1 fő |
 
-|  | (min. 12, max. 40 férőhely) |  |  |
+|  | 12-25 férőhelyre | szakgondozó, gondozó | 3 fő |
 
-|  | 12–25 férőhelyre | szakgondozó, gondozó 3 fő |
+|  |  | családgondozó | 2 fő |
 
-|  |  | családgondozó 2 fő |
+|  | 25-40 férőhelyre | szakgondozó, gondozó | 4 fő |
 
-|  | 25–40 férőhelyre | szakgondozó, gondozó 4 fő |
+|  |  | családgondozó | 2 fő |
 
-|  |  | családgondozó 2 fő |
-
-|  | intézményenként | pszichológiai tanácsadó heti 5 óra |
-
-|  |  | jogász heti 5 óra |
+|  | intézményenként | pszichológiai tanácsadó, jogász, fejlesztő pedagógiai tanácsadó (az ellátottak szükségletei szerint, fenntartói döntés alapján) | összesen heti 10 óra |
 
 II. Szakellátások
 
-[^555]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) és (3) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 16. §-a és 17. § (1) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (1) bekezdése szerint módosított szöveg.
+[^579]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) és (3) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 16. §-a és 17. § (1) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (1) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (1) bekezdése szerint módosított szöveg.
