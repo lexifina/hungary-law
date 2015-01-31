@@ -1,1 +1,0 @@
-## „(7) Az 1. melléklet szerinti energetikai minőségtanúsítványon feltüntetett követelményértéket és az energetikai minőség szerinti besoroláshoz felhasznált referencia értéket az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendelet 4. §-a szerint kell meghatározni.”
