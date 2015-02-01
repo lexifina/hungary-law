@@ -1,4 +1,4 @@
-4. § (1)
+4. § (1) A módosult fogyasztói kölcsönszerződést nem kell közjegyzői okiratba foglalni, a korábbi közjegyzői okirat a szerződés módosult tartalmának keretei között érvényes.
 
 (2) A fogyasztói kölcsönszerződés e törvény szerinti módosulása, illetve a 15. § (1) bekezdésében meghatározott tartozás e törvény szerinti forintra váltása nem akadályozza azt, hogy az okiratot készítő közjegyző
 

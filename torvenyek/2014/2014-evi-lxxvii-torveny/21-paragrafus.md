@@ -6,7 +6,7 @@ b) 2014. november 7. napján az MNB által hivatalosan jegyzett devizaárfolyama
 
 közül a fogyasztó számára kedvezőbb árfolyamot alkalmazza.
 
-(2)
+(2) Ha a fogyasztó megfelel valamelyik, a 12. § (3) bekezdésében foglalt feltételnek, akkor az (1) bekezdésben meghatározott árfolyam és a módosult szerződés szerint alkalmazható árfolyam eltéréséből eredő különbséget a pénzügyi intézmény a fogyasztóval legkésőbb a szerződés módosulásától számított 30 napon belül, a legközelebb esedékes törlesztőrészlet terhére vagy javára számolja el.
 
 (3) A forintalapúra módosult deviza vagy devizaalapú fogyasztói jelzálogkölcsön-szerződések esetében a pénzügyi intézmény az e törvény és az elszámolási törvény szerinti elszámolásokat az ügyféllel szemben 2015. február 1-jei nappal teljesíti azzal, hogy az elszámolások hatásait az ügyfélre vonatkozó belső nyilvántartásaiban, valamint a számviteli nyilvántartásaiban 2015. március 31-ig vezeti át, illetve rögzíti.
 
