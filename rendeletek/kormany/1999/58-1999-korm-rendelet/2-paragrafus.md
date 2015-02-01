@@ -1,1 +1,0 @@
-## 1. § A Kormány a Magyar Köztársaság Kormánya és az Osztrák Szövetségi Kormány között az Andau-i híd megközelíthetőségéről szóló Budapesten, 1998. november 24. napján aláírt Egyezményt e rendelettel kihirdeti.
