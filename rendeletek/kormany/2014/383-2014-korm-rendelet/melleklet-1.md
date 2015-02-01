@@ -1,6 +1,4 @@
-## 11. § A fogyasztó és a vállalkozás közötti szerződések részletes szabályairól szóló 45/2014. (II. 26.) Korm. rendelet 3. §-a helyébe a következő rendelkezés lép:
-
-## „3. § A személyszállítási szolgáltatásokról szóló törvény szerinti személyszállítási szolgáltatásokkal, és a légi közlekedésről szóló törvény szerinti légi személyszállítással, valamint a vízi személyszállítás feltételeiről szóló jogszabály szerinti személyszállítással kapcsolatos szerződésre kizárólag a 7. § és a 15. § (1) és (2) bekezdése alkalmazandó.”
+## 11. §[^15]
 
 1. melléklet a 383/2014. (XII. 31.) Korm. rendelethez
 
@@ -43,3 +41,5 @@ Kiállítva: (a bizonyítvány kelte)
 Dated:
 
 (a kiállító hajózási hatóság bélyegzője és aláírása)
+
+[^15]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

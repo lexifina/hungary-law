@@ -1,20 +1,15 @@
-10. § (1)[^8]
+10. § (1)[^10]
 
-(2) A Kr2. 7. § (3) bekezdés i) pontja helyébe a következő rendelkezés lép:
+(2)[^11]
 
-(Hajózási igazgatási feladatkörében az Útügyi, Vasúti és Hajózási Hivatal ellátja)
+(3)[^12]
 
-## „i) a tengeri hajózási szolgálatot teljesítő személy egészségi alkalmasságát vizsgáló orvos nyilvántartásba vételével és az egészségi alkalmasság másodfokú vizsgálatában az orvosszakértő kijelölésével,”
+(4)[^13]
 
-## (kapcsolatos feladatokat.)
+(5)[^14]
 
-(3)[^9]
-
-(4)[^10]
-
-(5)[^11]
-
-[^8]: A 10. § (1) bekezdése a 6. § (2) bekezdése alapján 2015. február 15-én lép hatályba.
-[^9]: A 10. § (3) bekezdése a 6. § (2) bekezdése alapján 2015. február 15-én lép hatályba.
-[^10]: a 10. § (4) bekezdése a 6. § (3) bekezdése alapján 2015. május 1-jén lép hatályba.
-[^11]: A 10. § (5) bekezdése a 6. § (2) bekezdése alapján 2015. február 15-én lép hatályba.
+[^10]: A 10. § (1) bekezdése a 6. § (2) bekezdése alapján 2015. február 15-én lép hatályba.
+[^11]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 10. § (3) bekezdése a 6. § (2) bekezdése alapján 2015. február 15-én lép hatályba.
+[^13]: a 10. § (4) bekezdése a 6. § (3) bekezdése alapján 2015. május 1-jén lép hatályba.
+[^14]: A 10. § (5) bekezdése a 6. § (2) bekezdése alapján 2015. február 15-én lép hatályba.
