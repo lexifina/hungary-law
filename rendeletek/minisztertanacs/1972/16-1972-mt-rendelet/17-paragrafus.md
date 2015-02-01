@@ -1,4 +1,4 @@
-## 16. § Az elsősegélynyújtásról a munkahely, illetőleg az intézmény fenntartója köteles gondoskodni az egészségügyi, szociális és családügyi miniszternek – az illetékes miniszterekkel és országos hatáskörű szervek vezetőivel, valamint a Szakszervezetek Országos Tanácsával[^28] egyetértésben – jogszabályban megállapított rendelkezései szerint.[^29]
+## 16. § Az elsősegélynyújtásról a munkahely, illetőleg az intézmény fenntartója köteles gondoskodni az egészségügyi, szociális és családügyi miniszternek – az illetékes miniszterekkel és országos hatáskörű szervek vezetőivel, valamint a Szakszervezetek Országos Tanácsával[^20] egyetértésben – jogszabályban megállapított rendelkezései szerint.[^21]
 
 ## (A törvény 30. §-ához)
 
@@ -10,8 +10,8 @@
 
 működnek.
 
-(2)[^30]
+(2)[^22]
 
-[^28]: A SZOT megszűnt.
-[^29]: Lásd a 15/1972. (VIII. 5.) EüM rendeletet.
-[^30]: Az R. 17. §-ának (2) bekezdését hatályon kívül helyezte a 44/1990. (III. 13.) MT rendelet 6. §-a.
+[^20]: A SZOT megszűnt.
+[^21]: Lásd a 15/1972. (VIII. 5.) EüM rendeletet.
+[^22]: Az R. 17. §-ának (2) bekezdését hatályon kívül helyezte a 44/1990. (III. 13.) MT rendelet 6. §-a.
