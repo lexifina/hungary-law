@@ -2,10 +2,9 @@
 
 35. § (1) A rendészeti vezetővé képző tanfolyam a belügyi szervnél rendszeresített vezetői beosztások betöltéséhez előírt, iskolarendszeren kívüli, középvezetői készségeket fejlesztő tanfolyam.
 
-(2) Belügyi szervnél osztályvezetői vagy főosztályvezető-helyettesi illetményre jogosító beosztásba a hivatásos állomány azon tagja nevezhető ki, illetve ilyen beosztás ellátásával azon tagja bízható meg, aki – a beosztás betöltéséhez előírt képesítési követelményeken túl – a rendészeti vezetővé képző tanfolyamot eredményesen teljesítette.
+(2)[^71]
 
-(3) Mentesül a rendészeti vezetővé képző tanfolyam teljesítésének kötelezettsége alól az,
+(3)[^72]
 
-a) aki a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán rendészeti vezető mesterképzésben mesterfokozatú végzettséget szerzett,
-
-b) akinek hazai vagy külföldi vezetőképzésben szerzett végzettségét az OKTF vezetője a rendészeti vezetővé képző tanfolyammal azonos értékűnek ismerte el.
+[^71]: A 35. § (2) bekezdését a 76/2014. (XII. 29.) BM rendelet 8. § (1) bekezdése hatályon kívül helyezte.
+[^72]: A 35. § (3) bekezdését a 76/2014. (XII. 29.) BM rendelet 8. § (1) bekezdése hatályon kívül helyezte.

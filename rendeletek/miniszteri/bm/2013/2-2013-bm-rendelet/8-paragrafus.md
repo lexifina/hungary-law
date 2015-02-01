@@ -1,4 +1,4 @@
-8. § (1) A hivatásos állomány tagja által teljesített továbbképzési pontokról az igazolást a továbbképzést végrehajtó OKTF, belügyi szerv vagy képzőintézmény állítja ki.
+8. § (1)[^24] A hivatásos állomány tagja által teljesített továbbképzési pontokról az igazolást a továbbképzést végrehajtó KSZF, belügyi szerv vagy képzőintézmény állítja ki.
 
 (2) Az igazolásnak tartalmaznia kell:
 
@@ -15,3 +15,5 @@ e) az igazolás kiállítójának megnevezését.
 (3) A továbbképzési pont igazolására akkor kerülhet sor, ha a résztvevő maradéktalanul teljesítette a továbbképzési programban előírt követelményeket.
 
 (4) A belügyi szerv a továbbképzési pontokat a Rendészeti Vezetőképzési, Továbbképzési és Vizsgaportál igénybevételével tartja nyilván.
+
+[^24]: A 8. § (1) bekezdése a 76/2014. (XII. 29.) BM rendelet 7. § g) pontja szerint módosított szöveg.

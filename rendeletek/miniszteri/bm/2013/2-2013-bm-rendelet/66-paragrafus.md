@@ -1,20 +1,12 @@
-66. § (1) Mentesül a rendészeti mestervezetővé képző tanfolyam teljesítésének kötelezettsége alól az, aki
+66. § (1)[^109]
 
-a) az OKTF jogelőd intézménye által az 1999/2000. évben lebonyolított kapitányság vezetővé képző tanfolyamot eredményesen elvégezte,
+(2)[^110] Aki a rendelet hatálybalépésekor úgy tölt be főosztályvezetői, vagy annál magasabb vezetői besorolású, vagy ilyen illetményre jogosító beosztást, hogy a rendészeti mestervezetővé képző tanfolyamot nem teljesítette, és nem mentesül annak kötelezettsége alól, annak – a 45. § (2) bekezdés a) pontjában meghatározott feltétel teljesítése nélkül – 2014. december 31-ig el kell végeznie a rendészeti mestervezetővé képző tanfolyamot.
 
-b) az OKTF jogelőd intézménye által 2000/2001. évben megrendezett rendészeti mestervezetővé képző tanfolyamot eredményesen elvégezte,
+(3)[^111]
 
-c) e rendelet hatálybalépését megelőzően az OKTF vagy jogelőd intézményei által szervezett rendészeti mestervezetővé képző tanfolyamot elvégezte,
+(4)[^112] A hivatásos állomány azon tagja, aki a rendészeti vezetővé képző tanfolyamot e rendelet hatálybalépése előtt végezte el, jogosult a KSZF-nél a mestervezető-kiválasztási eljárás elvégzésére jelentkezni.
 
-d)[^24] e rendelet hatálybalépését megelőző tíz éven belül legalább öt évet főosztályvezetői, vagy ennél magasabb besorolású, vagy ilyen illetményre jogosító vezetői beosztásban töltött, és a vezetői beosztás betöltése alatt készült legutolsó éves teljesítményértékelése legalább „megfelelő” teljesítményfokozatú, vagy
-
-e)[^25] e rendelet hatálybalépése előtt betöltötte az ötvenkettedik életévét, legalább húsz év szolgálati viszonnyal rendelkezik, és akinek a legutolsó éves teljesítményértékelése legalább „megfelelő” teljesítményfokozatú.
-
-(2) Aki a rendelet hatálybalépésekor úgy tölt be a 44. § (2) bekezdésében meghatározott beosztást, hogy a rendészeti mestervezetővé képző tanfolyamot nem teljesítette, és nem mentesül annak kötelezettsége alól, annak – a 45. § (2) bekezdés a) pontjában meghatározott feltétel teljesítése nélkül – 2014. december 31-ig el kell végeznie a rendészeti mestervezetővé képző tanfolyamot.
-
-(3) Annak a 44. § (2) bekezdésben meghatározott beosztást betöltő vezetőnek, aki a rendészeti mestervezetővé képző tanfolyamot nem teljesítette és nem mentesül annak teljesítése alól, egy másik, a 44. § (2) bekezdése szerinti beosztásba történő kinevezése vagy ilyen beosztással történő megbízása esetén a kinevezésétől vagy megbízásától számított egy éven belül meg kell kezdenie a rendészeti mestervezetővé képző tanfolyamot.
-
-(4) A hivatásos állomány azon tagja, aki a rendészeti vezetővé képző tanfolyamot e rendelet hatálybalépése előtt végezte el, jogosult az OKTF-nél a mestervezető-kiválasztási eljárás elvégzésére jelentkezni.
-
-[^24]: A 66. § (1) bekezdés d) pontja a 45/2013. (VIII. 15.) BM rendelet 11. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^25]: A 66. § (1) bekezdés e) pontja a 45/2013. (VIII. 15.) BM rendelet 11. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^109]: A 66. § (1) bekezdését a 76/2014. (XII. 29.) BM rendelet 8. § (1) bekezdése hatályon kívül helyezte.
+[^110]: A 66. § (2) bekezdése a 76/2014. (XII. 29.) BM rendelet 7. § k) pontja szerint módosított szöveg.
+[^111]: A 66. § (3) bekezdését a 76/2014. (XII. 29.) BM rendelet 8. § (1) bekezdése hatályon kívül helyezte.
+[^112]: A 66. § (4) bekezdése a 76/2014. (XII. 29.) BM rendelet 7. § l) pontja szerint módosított szöveg.

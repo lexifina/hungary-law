@@ -4,4 +4,6 @@
 
 44. § (1) A rendészeti mestervezetővé képző tanfolyam a belügyi szervnél rendszeresített főosztályvezetői, vagy annál magasabb vezetői besorolású beosztások betöltéséhez előírt, iskolarendszeren kívüli, felnőttképzési, felsővezetői készségeket fejlesztő tanfolyam.
 
-(2) Belügyi szervnél főosztályvezetői, vagy annál magasabb vezetői besorolású, vagy ilyen illetményre jogosító beosztásba a hivatásos állomány azon tagja nevezhető ki, vagy ilyen beosztás ellátásával azon tagja bízható meg, aki – a beosztás betöltéséhez előírt képesítési követelményeken túl – a rendészeti mestervezetővé képző tanfolyam követelményeit eredményesen teljesítette.
+(2)[^80]
+
+[^80]: A 44. § (2) bekezdését a 76/2014. (XII. 29.) BM rendelet 8. § (1) bekezdése hatályon kívül helyezte.

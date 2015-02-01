@@ -1,5 +1,8 @@
-40. § (1) A mestervezetői kompetencia-megfelelést mérő felmérést az OKTF szakértői és tréneri beosztású munkatársai folytatják le. Az egyéni, páros és csoportos kompetenciaszint-felmérések végrehajtásába a Belügyminisztérium és a belügyi szervek főosztályvezetői, vagy ennél magasabb besorolású vezetői is bevonhatók.
+40. § (1)[^78] A mestervezetői kompetencia-megfelelést mérő felmérést a KSZF szakértői és tréneri beosztású munkatársai folytatják le. Az egyéni, páros és csoportos kompetenciaszint-felmérések végrehajtásába a Belügyminisztérium és a belügyi szervek főosztályvezetői, vagy ennél magasabb besorolású vezetői is bevonhatók.
 
 (2) A mestervezetői kompetencia-megfelelést mérő felmérés akkor eredményes, ha a jelölt a felmérésen legalább 70%-ot teljesít.
 
-(3) A mestervezetői kompetencia-megfelelést mérő felmérések vizsgálati eredményeit az OKTF tartja nyilván, és azokat harmadik személynek kizárólag az érintett írásbeli hozzájárulásával adhatja ki.
+(3)[^79] A mestervezetői kompetencia-megfelelést mérő felmérések vizsgálati eredményeit a KSZF tartja nyilván, és azokat harmadik személynek kizárólag az érintett írásbeli hozzájárulásával adhatja ki.
+
+[^78]: A 40. § (1) bekezdése a 76/2014. (XII. 29.) BM rendelet 7. § c) pontja szerint módosított szöveg.
+[^79]: A 40. § (3) bekezdése a 76/2014. (XII. 29.) BM rendelet 7. § c) pontja szerint módosított szöveg.
