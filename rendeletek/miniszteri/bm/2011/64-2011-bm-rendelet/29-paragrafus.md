@@ -8,8 +8,8 @@
 
 (4) Ha a szolgálati viszony megszüntetésére nemzetbiztonsági kockázat miatti alkalmatlanságból – nem felróható okból – felmentéssel kerül sor, a felmentési idő teljes tartamára mentesíteni kell a hivatásos állomány tagját a szolgálat ellátása alól.
 
-(4a)[^27] A Hszt. 37/C. § (3) bekezdésében meghatározott esetben az állományilletékes parancsnok a kifogástalan életvitel ellenőrzése során a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vizsgálatának eredményét megállapító határozat kézhezvételét követő öt munkanapon belül köteles meghallgatni az érintettet a határozat indokolásában megjelölt körülményekre és okokra vonatkozóan. Az érintett nyilatkozatát jegyzőkönyvbe kell foglalni.
+(4a)[^34] A Hszt. 37/C. § (3) bekezdésében meghatározott esetben az állományilletékes parancsnok a kifogástalan életvitel ellenőrzése során a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vizsgálatának eredményét megállapító határozat kézhezvételét követő öt munkanapon belül köteles meghallgatni az érintettet a határozat indokolásában megjelölt körülményekre és okokra vonatkozóan. Az érintett nyilatkozatát jegyzőkönyvbe kell foglalni.
 
 (5) A hivatásos állomány tagját a felmentési idő csökkentésére irányuló írásbeli kérelme esetén írásban kell tájékoztatni a várható jogkövetkezményekről, majd a szolgálati viszony megszüntetésének időpontját az érintett nyilatkozata alapján kell meghatározni.
 
-[^27]: A 29. § (4a) bekezdését a 81/2012. (XII. 28.) BM rendelet 23. §-a iktatta be.
+[^34]: A 29. § (4a) bekezdését a 81/2012. (XII. 28.) BM rendelet 23. §-a iktatta be.

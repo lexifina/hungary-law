@@ -1,4 +1,4 @@
-## 7/A. [^15] A könnyített szolgálatban történő foglalkoztatás
+## 7/A. [^21] A könnyített szolgálatban történő foglalkoztatás
 
 14/A. § (1) A könnyített szolgálatba helyezési, illetve megszüntetése iránti kérelmet az állományilletékes parancsnoknak címezve, szolgálati úton kell előterjeszteni.
 
@@ -10,4 +10,4 @@
 
 (5) Az állományilletékes parancsnok döntéséről a kérelmezőt írásban köteles tájékoztatni.
 
-[^15]: A 7/A. alcímet (14/A. §) a 45/2013. (VIII. 15.) BM rendelet 9. §-a iktatta be.
+[^21]: A 7/A. alcímet (14/A. §) a 45/2013. (VIII. 15.) BM rendelet 9. §-a iktatta be.

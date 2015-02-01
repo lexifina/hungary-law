@@ -22,9 +22,9 @@ c) személyazonosságát és lakcímét igazoló okmány másolatát,
 
 d) korábbi szolgálati és egyéb foglalkoztatási jogviszonyairól szóló igazolásokat,
 
-e)[^2] saját és – ha azt törvény előírja – közeli hozzátartozói, illetve a vele egy háztartásban élők írásbeli nyilatkozatát a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 37. §-ában meghatározott adatai kezeléséhez, a Hszt. 37/B. §-a szerinti kifogástalan életvitel ellenőrzéséhez való hozzájárulásról, a Hszt. 37. §-ában feltételként meghatározott megbízhatósági vizsgálat tudomásul vételéről és a Hszt. 37/B. § (2) bekezdés a) pontjában meghatározott adatai kezeléséhez történő hozzájárulásról,
+e)[^3] saját és – ha azt törvény előírja – közeli hozzátartozói, illetve a vele egy háztartásban élők írásbeli nyilatkozatát a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 37. §-ában meghatározott adatai kezeléséhez, a Hszt. 37/B. §-a szerinti kifogástalan életvitel ellenőrzéséhez való hozzájárulásról, a Hszt. 37. §-ában feltételként meghatározott megbízhatósági vizsgálat tudomásul vételéről és a Hszt. 37/B. § (2) bekezdés a) pontjában meghatározott adatai kezeléséhez történő hozzájárulásról,
 
-f) nemzetbiztonsági ellenőrzésre kötelezett beosztásba tervezett kinevezése esetében – a felvételi eljárást lefolytató szervezet által biztosított – az ellenőrzési szintnek megfelelő, az általa kitöltött kérdőívet,
+f)[^4] nemzetbiztonsági ellenőrzés alá eső beosztásba tervezett kinevezése esetében a nemzetbiztonsági ellenőrzés kezdeményezéséhez szükséges, a kérelmező által kitöltött és aláírt – a felvételi eljárást lefolytató szervezet által biztosított – biztonsági kérdőívet zárt borítékban,
 
 g) a kifogástalan életvitel ellenőrzéséhez szükséges – a felvételi eljárást lefolytató szerv által biztosított – kitöltött adatlapot, valamint
 
@@ -32,4 +32,5 @@ h) a társadalombiztosítási azonosító jelet és adóazonosító jelét (adó
 
 (5) A (4) bekezdés e)–g) pontjában meghatározott nyilatkozatok, a kitöltött biztonsági kérdőív és adatlap csatolása hiányában a felvételi kérelmet el kell utasítani. Egyéb okból hiányos vagy hitelesnek nem tekinthető iratok pótlására, kiegészítésre a jelentkezőt öt munkanap határidő tűzésével fel kell szólítani. Ha a hiányosságok pótlása határidőben nem történik meg, a kérelmet el kell utasítani.
 
-[^2]: A 2. § (4) bekezdés e) pontja a 81/2012. (XII. 28.) BM rendelet 25. § (1) bekezdés b) pontja és 26. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdés e) pontja a 81/2012. (XII. 28.) BM rendelet 25. § (1) bekezdés b) pontja és 26. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 2. § (4) bekezdés f) pontja a 76/2014. (XII. 29.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.

@@ -6,6 +6,6 @@
 
 (3) A miniszter által irányított fegyveres szervek közötti áthelyezésről – ha azt a Hszt. nem utalja miniszteri hatáskörbe –, az érintettek megállapodása alapján az átadó országos parancsnok, az állományba vételről az átvevő országos parancsnok, a beosztásba helyezésről és a járandóság megállapításáról a fogadó szerv állományilletékes parancsnoka rendelkezik.
 
-(4)[^16] Ha a hivatásos állomány tagja más szervnél teljesít szolgálatot, az áthelyezése előtt a vezénylését meg kell szüntetni.
+(4)[^23] Ha a hivatásos állomány tagja más szervnél teljesít szolgálatot, az áthelyezése előtt a vezénylését meg kell szüntetni.
 
-[^16]: A 17. § (4) bekezdése a 81/2012. (XII. 28.) BM rendelet 26. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^23]: A 17. § (4) bekezdése a 81/2012. (XII. 28.) BM rendelet 26. § (2) bekezdés d) pontja szerint módosított szöveg.

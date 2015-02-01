@@ -24,10 +24,10 @@ d) a rendőrség állományából szolgálati nyugállományba vonult kérelmez�
 
 e) nem a rendőrség állományából szolgálati nyugállományba vonult kérelmező esetén az iskolai végzettségét (végzettségeket) és szakképzettségét (szakképzettségeket) igazoló okiratot vagy annak hiteles másolatát,
 
-f)[^8] saját és közeli hozzátartozói, valamint a vele egy háztartásban élők írásbeli nyilatkozatát a Hszt. 37. §-ában meghatározott adatai kezeléséhez, a Hszt. 37/B. §-a szerinti kifogástalan életvitel ellenőrzéséhez való hozzájárulásról, a Hszt. 37. §-ában feltételként meghatározott megbízhatósági vizsgálat tudomásul vételéről és a Hszt. 37/B. § (2) bekezdés a) pontjában meghatározott adatai kezeléséhez történő hozzájárulásról, továbbá
+f)[^11] saját és közeli hozzátartozói, valamint a vele egy háztartásban élők írásbeli nyilatkozatát a Hszt. 37. §-ában meghatározott adatai kezeléséhez, a Hszt. 37/B. §-a szerinti kifogástalan életvitel ellenőrzéséhez való hozzájárulásról, a Hszt. 37. §-ában feltételként meghatározott megbízhatósági vizsgálat tudomásul vételéről és a Hszt. 37/B. § (2) bekezdés a) pontjában meghatározott adatai kezeléséhez történő hozzájárulásról, továbbá
 
 g) írásbeli hozzájárulást a szolgálati nyugállományba vonulást megelőzően a kérelmezőt foglalkoztató fegyveres vagy honvédségi szerv által kezelt személyzeti anyagok beszerzéséhez.
 
 (5) A (4) bekezdésben meghatározott nyilatkozatok és okiratok vagy hiteles másolataik csatolásának hiányában a kérelmezőt tizenöt munkanapon belül hiánypótlásra kell felhívni, öt munkanap határidő kitűzésével, figyelmeztetve arra, hogy a hiánypótlás kitűzött határidőben történő teljesítésének hiányában a kinevezésre jogosult a rendelkezésre álló adatok alapján dönt a kérelemről.
 
-[^8]: A 6. § (4) bekezdés f) pontja a 81/2012. (XII. 28.) BM rendelet 25. § (1) bekezdés b) pontja és 26. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^11]: A 6. § (4) bekezdés f) pontja a 81/2012. (XII. 28.) BM rendelet 25. § (1) bekezdés b) pontja és 26. § (2) bekezdés a) pontja szerint módosított szöveg.

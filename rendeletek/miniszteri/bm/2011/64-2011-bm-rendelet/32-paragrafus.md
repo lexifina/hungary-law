@@ -1,4 +1,4 @@
-32. § (1)[^28] A hivatásos állomány tagja a Hszt. 56. § (6a) bekezdésében meghatározott esetben a jogerős ítélet alapján történő szolgálati viszony megszüntetéséről szóló állományparancs kézhezvételét követően három munkanapon belül a szolgálati út betartásával írásban kérheti a minisztertől, hogy az alkalmatlanság megállapításától tekintsen el. Erről a jogáról az állományparancs közlésekor tájékoztatni kell a hivatásos állomány tagját.
+32. § (1)[^35] A hivatásos állomány tagja a Hszt. 56. § (6a) bekezdésében meghatározott esetben a jogerős ítélet alapján történő szolgálati viszony megszüntetéséről szóló állományparancs kézhezvételét követően három munkanapon belül a szolgálati út betartásával írásban kérheti a minisztertől, hogy az alkalmatlanság megállapításától tekintsen el. Erről a jogáról az állományparancs közlésekor tájékoztatni kell a hivatásos állomány tagját.
 
 (2) A miniszter az (1) bekezdésben meghatározott kérelem helybenhagyásáról vagy elutasításáról nyolc munkanapon belül dönt.
 
@@ -6,4 +6,4 @@
 
 (4) Az állományparancsot vagy határozatot a miniszteri döntéstől függően hatályon kívül kell helyezni, vagy annak hatályát a miniszter elutasító döntésének napjára kell módosítani.
 
-[^28]: A 32. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 24. §-ával megállapított szöveg.
+[^35]: A 32. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 24. §-ával megállapított szöveg.
