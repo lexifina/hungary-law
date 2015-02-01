@@ -1,4 +1,4 @@
-## 18. § A beosztás bármely okból történő változtatása esetén újból meg kell vizsgálni a hivatásos állomány tagjának az új beosztásra való egészségügyi, pszichikai, fizikai alkalmasságát, és csak ennek alapján rendelhető el a szolgálati viszony módosítása.
+## intézkedik.
 
 ## 9. A vezetői beosztásba történő kinevezés visszavonása, valamint a vezetői kinevezésről való lemondás eljárási szabályai
 
