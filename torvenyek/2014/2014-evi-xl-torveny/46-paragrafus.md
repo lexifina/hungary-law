@@ -8,7 +8,7 @@ b) a fogyasztói követelésből levonható kedvezmények elszámolásának szab
 
 c) az elszámolás részletes tartalmi és formai követelményeit,
 
-d) az elszámolási fordulónapokat,
+d)
 
 e) a pénzügyi teljesítésre vonatkozó teljesítési határidőket,
 

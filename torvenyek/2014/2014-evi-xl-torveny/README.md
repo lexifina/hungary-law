@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-40-00-00
 | 2014-11-01 | 2010. évi CXXX. törvény | 2014-40-00-00.3 |
 | 2014-11-02 | 2010. évi CXXX. törvény | 2014-40-00-00.4 |
 | 2014-12-06 | 2014. évi LXXVIII. törvény | 2014-40-00-00.5 |
+| 2015-02-01 | 2014. évi LXXVIII. törvény | 2014-40-00-00.6 |
