@@ -1,1 +1,3 @@
-## 1. § Hatályát veszti a Jász-Nagykun-Szolnok Megyei Építészek Kamarája közigazgatási feladatainak ellátására eljáró szerv kijelöléséről szóló 13/2013. (V. 2.) BM rendelet.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
