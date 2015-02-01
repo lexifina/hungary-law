@@ -1,6 +1,6 @@
 ## Értelmező rendelkezések
 
-2. §[^4] (1) E rendelet alkalmazásában orvostechnikai eszköz (a továbbiakban: eszköz) az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § h) pont ha)–hd) alpontjában meghatározott eszköz.
+2. §[^5] (1) E rendelet alkalmazásában orvostechnikai eszköz (a továbbiakban: eszköz) az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § h) pont ha)–hd) alpontjában meghatározott eszköz.
 
 (2) Orvostechnikai eszköznek kell tekinteni
 
@@ -14,11 +14,11 @@ d) azt az eszközt, melynek szerves része olyan humán vérből vagy humán pla
 
 ## amennyiben annak rendeltetési célja megfelel az Eütv. 3. § h) pont ha)–hd) alpontjában foglaltaknak.
 
-(3)[^5]
+(3)[^6]
 
 (4) A (2) bekezdés c)–d) pontja szerinti eszközök esetében e rendelet mellett a Gytv. rendelkezéseit kell alkalmazni a gyógyszerek vonatkozásában.
 
 (5) Egy adott termék eszköznek minősülése kérdésében – kétség esetén – az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: Hivatal) határozatban dönt.
 
-[^4]: A 2. § a 10/2012. (VII. 19.) EMMI rendelet 25. §-ával megállapított szöveg.
-[^5]: A 2. § (3) bekezdését az 56/2013. (VII. 31.) EMMI rendelet 43. § a) pontja hatályon kívül helyezte.
+[^5]: A 2. § a 10/2012. (VII. 19.) EMMI rendelet 25. §-ával megállapított szöveg.
+[^6]: A 2. § (3) bekezdését az 56/2013. (VII. 31.) EMMI rendelet 43. § a) pontja hatályon kívül helyezte.

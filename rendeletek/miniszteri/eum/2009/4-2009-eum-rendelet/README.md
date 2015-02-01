@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-4-20-0B
 | 2014-01-01 | 2009-4-20-0B.10 | 56/2013. (VII. 31.) EMMI rendelet |
 | 2014-01-26 | 2009-4-20-0B.11 | 3/2014. (I. 16.) EMMI rendelet |
 | 2014-03-15 | 2009-4-20-0B.12 | 16/2014. (III. 12.) EMMI rendelet |
+| 2015-02-01 | 2009-4-20-0B.13 | 3/2015. (I. 14.) EMMI rendelet |

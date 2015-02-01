@@ -2,7 +2,7 @@
 
 ## balesetek bejelentése
 
-21. §[^40] (1) A gyártó vagy a meghatalmazott képviselő, valamint a forgalmazó és a balesetfelelős útján az egészségügyi szolgáltatást nyújtó a forgalomba hozatalt követően az I., II.a, II.b és III. osztályba tartozó eszközzel összefüggésben bekövetkezett váratlan eseményt, balesetet, amennyiben a váratlan esemény vagy baleset
+21. §[^41] (1) A gyártó vagy a meghatalmazott képviselő, valamint a forgalmazó és a balesetfelelős útján az egészségügyi szolgáltatást nyújtó a forgalomba hozatalt követően az I., II.a, II.b és III. osztályba tartozó eszközzel összefüggésben bekövetkezett váratlan eseményt, balesetet, amennyiben a váratlan esemény vagy baleset
 
 a) súlyos közegészségügyi kockázattal jár, azonnal, de legkésőbb 2 napon belül,
 
@@ -12,7 +12,7 @@ c) az a), illetve a b) pont alá nem tartozik, haladéktalanul, de legkésőbb a
 
 köteles bejelenteni a Hivatal részére.
 
-(1a)[^41] A felhasználó az orvostechnikai eszközzel összefüggésben bekövetkezett váratlan eseményt, balesetet bejelentheti a Hivatal részére.
+(1a)[^42] A felhasználó az orvostechnikai eszközzel összefüggésben bekövetkezett váratlan eseményt, balesetet bejelentheti a Hivatal részére.
 
 (2) A bejelentést
 
@@ -22,7 +22,7 @@ b) a gyártó vagy a meghatalmazott képviselője a 12. melléklet B) részében
 
 c) a felhasználó a 12. melléklet A) részében foglalt nyomtatványon teheti meg.
 
-(3)[^42] Az (1)–(1a) bekezdés szerinti bejelentésről a Hivatal – amennyiben nem a gyártó, annak meghatalmazott képviselője tette meg a bejelentést – a gyártót vagy annak meghatalmazott képviselőjét haladéktalanul, de legkésőbb a tudomásra jutástól számított 8 napon belül tájékoztatja.
+(3)[^43] Az (1)–(1a) bekezdés szerinti bejelentésről a Hivatal – amennyiben nem a gyártó, annak meghatalmazott képviselője tette meg a bejelentést – a gyártót vagy annak meghatalmazott képviselőjét haladéktalanul, de legkésőbb a tudomásra jutástól számított 8 napon belül tájékoztatja.
 
 (4) A gyártó vagy a meghatalmazott képviselő köteles a tudomására jutott eseményt 60 napon belül érdemben kivizsgálni és a vizsgálat eredményét a Hivatalnak a végső jelentésben bejelenteni.
 
@@ -30,6 +30,6 @@ c) a felhasználó a 12. melléklet A) részében foglalt nyomtatványon teheti 
 
 (6) A gyártó köteles ellenőrizni a helyszíni biztonsági korrekciós intézkedés előírásszerű elvégzését és erről a Hivatalt tájékoztatni.
 
-[^40]: A 21. § a 29/2011. (VI. 7.) NEFMI rendelet 16. §-ával megállapított szöveg.
-[^41]: A 21. § (1a) bekezdését a 33/2012. (X. 11.) EMMI rendelet 6. §-a iktatta be.
-[^42]: A 21. § (3) bekezdése a 33/2012. (X. 11.) EMMI rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^41]: A 21. § a 29/2011. (VI. 7.) NEFMI rendelet 16. §-ával megállapított szöveg.
+[^42]: A 21. § (1a) bekezdését a 33/2012. (X. 11.) EMMI rendelet 6. §-a iktatta be.
+[^43]: A 21. § (3) bekezdése a 33/2012. (X. 11.) EMMI rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.
