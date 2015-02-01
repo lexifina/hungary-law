@@ -40,6 +40,18 @@ c) az e rendelet szerinti költségátalányt, ha pedig a letétet a MOKK őrzi,
 
 számít fel.
 
+30/I. §[^38]
+
+(1) Az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény 13. § (3) bekezdése szerinti új fogyasztói kölcsönszerződés közokiratba foglalásával kapcsolatosan az ügyérték alapján, illetve a tevékenységre fordított idő alapján történő díjszámítás nem alkalmazható, e kölcsönszerződés közokiratba foglalásáért a közjegyzőt
+
+a) 15 000 Ft munkadíj és
+
+b) 5000 Ft költségtérítés (költségátalány és készkiadás)
+
+illeti meg. E munkadíj és költségtérítés magában foglalja az okirat készítésével egyidejűleg az okiratról készített, az ingatlan-nyilvántartási eljáráshoz szükséges két darab, és felenként további egy darab kiadmány elkészítésének és hitelesítésének díját és költségtérítését.
+
+(2) Az (1) bekezdés szerinti munkadíj és költségtérítés megállapításakor a 6. §, a 7. § és a 13. § szabályai nem alkalmazhatóak.
+
 VI. HATÁLYBALÉPÉS
 
 31. §
@@ -58,3 +70,4 @@ Ez a rendelet 1992. január 1-jén lép hatályba.
 [^35]: A 30/F. §-t a 18/2014. (III. 13.) KIM rendelet 55. §-a iktatta be.
 [^36]: A 30/G. §-t a 17/2014. (III. 13.) KIM rendelet 20. §-a iktatta be.
 [^37]: A 30/H. §-t a 21/2014. (III. 13.) KIM rendelet 8. §-a iktatta be.
+[^38]: A 30/I. §-t a 20/2014. (XII. 23.) IM rendelet 1. §-a iktatta be.
