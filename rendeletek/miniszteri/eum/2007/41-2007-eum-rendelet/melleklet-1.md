@@ -16,9 +16,9 @@ e) Kémcső, kémcsőfogó, kémcsőállvány
 
 f) Pipetta, kétjelű, osztott
 
-g)[^126] Szeszfokoló (60–100 fok mérési tartományú)
+g)[^132] Szeszfokoló (60–100 fok mérési tartományú)
 
-h)[^127] Hőmérő (belsőskálás 0,1 c beosztású és helyiséghőmérséklet ellenőrzésére alkalmas)
+h)[^133] Hőmérő (belsőskálás 0,1 c beosztású és helyiséghőmérséklet ellenőrzésére alkalmas)
 
 i) Tárgylemez
 
@@ -32,13 +32,13 @@ m) Lepárló csésze
 
 n) Bunsen égő, vagy ennek megfelelő erősségű lángot biztosító eszköz
 
-2.[^128] Mérés eszközei – hitelesített mérlegek
+2.[^134] Mérés eszközei – hitelesített mérlegek
 
-a)[^129] méréstartomány: 0–15 kg, hitelesítési osztásérték: 10 g
+a)[^135] méréstartomány: 0–15 kg, hitelesítési osztásérték: 10 g
 
-b)[^130] méréstartomány: 0–2000 g, hitelesítési osztásérték: 0,1 g
+b)[^136] méréstartomány: 0–2000 g, hitelesítési osztásérték: 0,1 g
 
-c)[^131] méréstartomány: 0–200 g, hitelesítési osztásérték: 0,01 g, külön az aszeptikus gyógyszerkészítéshez is.
+c)[^137] méréstartomány: 0–200 g, hitelesítési osztásérték: 0,01 g, külön az aszeptikus gyógyszerkészítéshez is.
 
 3. Általános laboratórium eszközök
 
@@ -56,11 +56,11 @@ e) Üveggyöngy
 
 a) Aszeptikus fülke-manipulátor vagy lamináris boksz
 
-b)[^132] Hőlégsterilizátor (eszközsterilezéshez)
+b)[^138] Hőlégsterilizátor (eszközsterilezéshez)
 
 c) Porfirizátor
 
-d)[^133] egyszerhasználatos steril gumikesztyű
+d)[^139] egyszerhasználatos steril gumikesztyű
 
 5. Oldatok, illetve folyékony gyógyszerformák készítésének eszközei
 
@@ -74,7 +74,7 @@ d) Üvegbotok
 
 e) Üvegtölcsérek, állvánnyal
 
-f)[^134] Főzőedény
+f)[^140] Főzőedény
 
 6. Kenőcsök, emulziók, szuszpenziók készítésének eszközei
 
@@ -94,7 +94,7 @@ b) Hüvelyhenger, illetve hüvelykúp kiöntő forma
 
 c) Buzsi gép
 
-d)[^135] kúprúdosztó tábla (citdivid)
+d)[^141] kúprúdosztó tábla (citdivid)
 
 8. Porok készítésének eszközei
 
@@ -106,9 +106,9 @@ c) Porosztó kártyák
 
 d) Szitasorozat
 
-e)[^136]
+e)[^142]
 
-9.[^137]
+9.[^143]
 
 10. Egyebek
 
@@ -118,15 +118,15 @@ b) Gyógyszertár bélyegző
 
 c) Annuláló bélyegző
 
-[^126]: Az 1. számú melléklet 1. pont g) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
-[^127]: Az 1. számú melléklet 1. pont h) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
-[^128]: Az 1. számú melléklet 2. pontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
-[^129]: Az 1. számú melléklet 2. pont a) alpontja a 3/2014. (I. 16.) EMMI rendelet 28. § c) pontja szerint módosított szöveg.
-[^130]: Az 1. számú melléklet 2. pont b) alpontja a 3/2014. (I. 16.) EMMI rendelet 28. § c) pontja szerint módosított szöveg.
-[^131]: Az 1. számú melléklet 2. pont c) alpontja a 3/2014. (I. 16.) EMMI rendelet 28. § c) pontja szerint módosított szöveg.
-[^132]: Az 1. számú melléklet 4. pont b) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
-[^133]: Az 1. számú melléklet 4. pont d) alpontját az 56/2009. (XII. 30.) EüM rendelet 22. §-a iktatta be.
-[^134]: Az 1. számú melléklet 5. pont f) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
-[^135]: Az 1. számú melléklet 7. pont d) alpontját az 56/2009. (XII. 30.) EüM rendelet 22. §-a iktatta be.
-[^136]: Az 1. számú melléklet 8. pont e) alpontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
-[^137]: Az 1. számú melléklet 9. pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^132]: Az 1. számú melléklet 1. pont g) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
+[^133]: Az 1. számú melléklet 1. pont h) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
+[^134]: Az 1. számú melléklet 2. pontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
+[^135]: Az 1. számú melléklet 2. pont a) alpontja a 3/2014. (I. 16.) EMMI rendelet 28. § c) pontja szerint módosított szöveg.
+[^136]: Az 1. számú melléklet 2. pont b) alpontja a 3/2014. (I. 16.) EMMI rendelet 28. § c) pontja szerint módosított szöveg.
+[^137]: Az 1. számú melléklet 2. pont c) alpontja a 3/2014. (I. 16.) EMMI rendelet 28. § c) pontja szerint módosított szöveg.
+[^138]: Az 1. számú melléklet 4. pont b) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
+[^139]: Az 1. számú melléklet 4. pont d) alpontját az 56/2009. (XII. 30.) EüM rendelet 22. §-a iktatta be.
+[^140]: Az 1. számú melléklet 5. pont f) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
+[^141]: Az 1. számú melléklet 7. pont d) alpontját az 56/2009. (XII. 30.) EüM rendelet 22. §-a iktatta be.
+[^142]: Az 1. számú melléklet 8. pont e) alpontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^143]: Az 1. számú melléklet 9. pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.

@@ -10,8 +10,8 @@ c) raktár minimum: 10 m2.
 
 (3)[^20]
 
-(4)[^21] A (2) bekezdésben foglaltakon túl a közforgalmú gyógyszertárban tanácsadó helyiséget vagy helyiségrészletet, mosogatót, valamint adminisztrációs, ügyeleti és szociális célra szolgáló helyiségeket kell biztosítani.
+(4)[^21] A (2) bekezdésben foglaltakon túl a közforgalmú gyógyszertárban mosogatót, adminisztrációs, ügyeleti és szociális célra szolgáló helyiségeket, valamint betegség-specifikus gyógyszerészi gondozást végző gyógyszertárban tanácsadó helyiséget vagy helyiségrészletet kell biztosítani. A betegségspecifikus gyógyszerészi gondozást végző közforgalmú gyógyszertárban a tanácsadásra kijelölt helyiség vagy helyiségrészlet kialakítása oly módon történhet, hogy azt a beteg a gyógyszertár betegforgalomtól elzárt területének érintése, és így a gyógyszertárban folyó munka megzavarása nélkül közelíthesse meg.
 
 [^19]: Az 5. § (2) bekezdése az 56/2009. (XII. 30.) EüM rendelet 4. §-ával megállapított szöveg.
 [^20]: Az 5. § (3) bekezdését az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
-[^21]: Az 5. § (4) bekezdése a 31/2010. (XII. 30.) NEFMI rendelet 11. § a) pontja szerint módosított szöveg.
+[^21]: Az 5. § (4) bekezdése a 3/2015. (I. 14.) EMMI rendelet 15. §-ával megállapított szöveg.

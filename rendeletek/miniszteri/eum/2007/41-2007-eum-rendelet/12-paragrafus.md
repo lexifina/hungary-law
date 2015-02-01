@@ -10,6 +10,8 @@ a) a fiókgyógyszertár bejáratánál fel kell tüntetni az ellátó közforga
 
 b) a fiókgyógyszertárnak nem kell elkülönített gazdasági bejárattal rendelkeznie.
 
+(3a)[^39] A betegségspecifikus gyógyszerészi gondozást végző fiókgyógyszertárban a tanácsadásra kijelölt helyiség vagy helyiségrészlet kialakítása oly módon történhet, hogy azt a beteg a gyógyszertár betegforgalomtól elzárt területének érintése, és így a gyógyszertárban folyó munka megzavarása nélkül közelíthesse meg.
+
 (4) A mozgó fiókgyógyszertárban a gyógyszerek és a gyógyszerektől elkülönítetten tárolt egyéb termékek biztonságos, szakszerű tárolását, a különleges tárolási feltételeket igénylő gyógyszerek és egyéb termékek tárolására alkalmas eszközt, továbbá a tevékenység végzésére megfelelő informatikai rendszert, továbbá a közgyógyellátási jogosultság ellenőrzéséhez szükséges technikai kapcsolatot biztosítani kell. A mozgó fiókgyógyszertárként üzemelő egység külső felületén a „Mozgó Fiókgyógyszertár” feliratot, valamint az ellátó közforgalmú gyógyszertár nevét, címét, elérhetőségét és szolgálati rendjét jól látható helyen és módon fel kell tüntetni.
 
 (5) A fiókgyógyszertárban és a mozgó fiókgyógyszertárban forgalmazott termékek tárolására a 9. §-ban meghatározott feltételeket értelemszerűen alkalmazni kell.
@@ -28,3 +30,4 @@ b) a fiókgyógyszertárnak nem kell elkülönített gazdasági bejárattal rend
 
 [^37]: A 12. § a 31/2010. (XII. 30.) NEFMI rendelet 7. §-ával megállapított szöveg.
 [^38]: A 12. § (3) bekezdés nyitó szövegrésze az 56/2013. (VII. 31.) EMMI rendelet 35. § c) pontja szerint módosított szöveg.
+[^39]: A 12. § (3a) bekezdését a 3/2015. (I. 14.) EMMI rendelet 17. §-a iktatta be.

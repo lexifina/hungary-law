@@ -14,6 +14,6 @@ b) rendelőintézeti járóbeteg-szakellátást nyújtó szolgáltatónál legal
 
 ## biztosítva van.
 
-(5)[^116] A közvetlen lakossági gyógyszerellátási tevékenység helyén biztosítani kell a Gyftv. 55. § (2) bekezdése szerinti tájékoztatáshoz szükséges rendszert, valamint a közgyógyellátási jogosultság ellenőrzéséhez szükséges technikai kapcsolatot.
+(5)[^122] A közvetlen lakossági gyógyszerellátási tevékenység helyén biztosítani kell a Gyftv. 55. § (2) bekezdése szerinti tájékoztatáshoz szükséges rendszert, valamint a közgyógyellátási jogosultság ellenőrzéséhez szükséges technikai kapcsolatot.
 
-[^116]: A 36. § (5) bekezdését az 56/2009. (XII. 30.) EüM rendelet 20. §-a iktatta be.
+[^122]: A 36. § (5) bekezdését az 56/2009. (XII. 30.) EüM rendelet 20. §-a iktatta be.
