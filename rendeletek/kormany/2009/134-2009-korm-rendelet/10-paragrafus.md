@@ -18,6 +18,36 @@
 
 (10) E rendelet szerint támogatott kölcsönök kamattámogatásának számításánál az osztószám 360 nap.
 
+(11)[^55] A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) hatálya alá tartozó, e rendelet szerinti kamattámogatással nyújtott kölcsönök esetében az Fhtv. 17/B. § (2) bekezdése, 17/C. §-a, 17/D. §-a, valamint 20/A. §-a helyett a (12)–(16) bekezdésben meghatározott rendelkezéseket kell alkalmazni.
+
+(12)[^56] A hitelintézet – a támogatás időtartama alatt – a kölcsön ellenszolgáltatásának egyoldalú módosítására nem jogosult. Az ellenszolgáltatás az 5. § (2) bekezdése szerint változik.
+
+(13)[^57] A hitelintézet által – az ügyleti vagy üzleti év fordulójának napján érvényes referenciahozam alapján – érvényesített ellenszolgáltatás módosítása nem minősül egyoldalú kamatemelésnek.
+
+(14)[^58] Az e rendelet szerinti kamattámogatással nyújtott kölcsönök esetén az ellenszolgáltatás mértéke az e rendelet alapján alkalmazható mindenkori legmagasabb ellenszolgáltatás, csökkentve
+
+a) az adott kölcsönszerződésre az e rendelet szerint a kölcsönszerződés megkötésekor alkalmazható legmagasabb ellenszolgáltatás, és az adott kölcsönszerződés megkötésekor érvényes ellenszolgáltatásának a különbözetével,
+
+b) a 2015. február 1-jén már szerződött állomány tekintetében pedig az e rendelet szerint 2014. december 31-én alkalmazható legmagasabb ellenszolgáltatásnak és az adott kölcsönszerződés 2014. december 31-én érvényes ellenszolgáltatásának a különbözetével.
+
+(15)[^59] Az ellenszolgáltatás mértéke az adott kölcsönszerződésre irányadó kamatperiódusok fordulónapján módosul a (12)–(14) bekezdésben foglaltak szerint. Abban az esetben, ha a kölcsönszerződésben rögzített kamat nem volt kamatperiódushoz kötve, kamatperiódusként egy havi kamatperiódust kell tekinteni.
+
+(16)[^60] Az e rendelet szerinti kamattámogatással nyújtott kölcsönök esetén a kamattámogatási időszak lejártát követően a hitelintézet
+
+a) az Fhtv. 17/C. §-nak megfelelően állapítja meg a hitelszerződés szerinti kamatot, és azt az Fhtv. 17/B. § (2) bekezdése és 17/D. §-a szerint változtatja, vagy
+
+b) a kamattámogatási időszakban érvényes kamatváltoztatás vagy kamatfelár-változtatás módszertant alkalmazza tovább
+
+ba) ugyanazzal a kamatperiódussal és kamatfelár-periódussal, vagy
+
+bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiódusra vagy kamatfelár-periódusra tér át, a kamat megállapításához a kamatperiódus hosszához igazodó referenciahozamot vesz figyelembe.
+
 [^52]: A 10. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 50. §-ával megállapított szöveg.
 [^53]: A 10. § (7) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 448. § b) pontja szerint módosított szöveg.
 [^54]: A 10. § (8) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 448. § b) pontja szerint módosított szöveg.
+[^55]: A 10. § (11) bekezdését a 4/2015. (I. 29.) Korm. rendelet 4. §-a iktatta be.
+[^56]: A 10. § (12) bekezdését a 4/2015. (I. 29.) Korm. rendelet 4. §-a iktatta be.
+[^57]: A 10. § (13) bekezdését a 4/2015. (I. 29.) Korm. rendelet 4. §-a iktatta be.
+[^58]: A 10. § (14) bekezdését a 4/2015. (I. 29.) Korm. rendelet 4. §-a iktatta be.
+[^59]: A 10. § (15) bekezdését a 4/2015. (I. 29.) Korm. rendelet 4. §-a iktatta be.
+[^60]: A 10. § (16) bekezdését a 4/2015. (I. 29.) Korm. rendelet 4. §-a iktatta be.
