@@ -26,7 +26,7 @@
 
 ## Cégszerű aláírás
 
-8. számú melléklet a 26/2008. (VIII. 30.) PM rendelethez[^86]
+8. számú melléklet a 26/2008. (VIII. 30.) PM rendelethez[^87]
 
 IGAZOLÁS
 
@@ -84,4 +84,4 @@ d) kreditpont-értéke a megjelölt szakterületen
 
 10. Cégszerű aláírás, bélyegző
 
-[^86]: A 8. számú mellékletet a 46/2014. (XII. 30.) NGM rendelet 5. § (5) bekezdése iktatta be.
+[^87]: A 8. számú mellékletet a 46/2014. (XII. 30.) NGM rendelet 5. § (5) bekezdése iktatta be.

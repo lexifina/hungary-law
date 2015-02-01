@@ -12,6 +12,6 @@
 
 |  | Fénykép helye |  |
 
-4. számú melléklet a 26/2008. (VIII. 30.) PM rendelethez[^78]
+4. számú melléklet a 26/2008. (VIII. 30.) PM rendelethez[^79]
 
-[^78]: A 4. számú melléklet a 17/2009. (IX. 29.) PM rendelet 82. §-ával megállapított, a 17/2010. (IV. 28.) PM rendelet 8. §-a, a 70/2013. (XII. 30.) NGM rendelet 8. § 3. és 20–22. pontja, a 46/2014. (XII. 30.) NGM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^79]: A 4. számú melléklet a 17/2009. (IX. 29.) PM rendelet 82. §-ával megállapított, a 17/2010. (IV. 28.) PM rendelet 8. §-a, a 70/2013. (XII. 30.) NGM rendelet 8. § 3. és 20–22. pontja, a 46/2014. (XII. 30.) NGM rendelet 5. § (1) bekezdése szerint módosított szöveg.

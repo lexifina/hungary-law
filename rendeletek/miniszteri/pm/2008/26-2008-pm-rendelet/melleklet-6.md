@@ -102,6 +102,6 @@
 
 ## 8. Cégszerű aláírás
 
-6. számú melléklet a 26/2008. (VIII. 30.) PM rendelethez[^84]
+6. számú melléklet a 26/2008. (VIII. 30.) PM rendelethez[^85]
 
-[^84]: A 6. számú mellékletet a 46/2014. (XII. 30.) NGM rendelet 5. § (3) bekezdése iktatta be.
+[^85]: A 6. számú mellékletet a 46/2014. (XII. 30.) NGM rendelet 5. § (3) bekezdése iktatta be.
