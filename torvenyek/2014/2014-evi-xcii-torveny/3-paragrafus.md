@@ -1,1 +1,3 @@
-3–4. §
+3. § Az adózás rendjéről szóló 2003. évi XCII. törvény 172. § (19a) bekezdése helyébe a következő rendelkezés lép:
+
+„(19a) Ha az állami adó- és vámhatóság az ellenőrzése során megállapítja, hogy az adózó a fuvarozott termék vagy annak egy része tekintetében nem tett eleget a 22/E. § (1)–(4) bekezdése szerinti kötelezettségének, illetve a bejelentési kötelezettségét hibásan, valótlan adattartalommal vagy hiányosan teljesíti, úgy a termék vagy annak be nem jelentett része igazolatlan eredetűnek minősül, és az állami adó- és vámhatóság az adózó terhére az igazolatlan eredetű áru értékének 40 százalékáig terjedő mulasztási bírságot szabhat ki.”
