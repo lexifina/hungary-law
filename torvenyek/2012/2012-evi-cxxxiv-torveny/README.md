@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-134-00-00
 | 2014-12-24 | 2014. évi XCV. törvény | 2012-134-00-00.9 |
 | 2015-01-01 | 2014. évi XCVI. törvény | 2012-134-00-00.10 |
 | 2015-01-07 | 2014. évi XCVI. törvény | 2012-134-00-00.11 |
+| 2015-02-01 | 2014. évi XCVI. törvény | 2012-134-00-00.12 |
