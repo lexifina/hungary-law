@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-205-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2012-205-00-00.11 |
 | 2014-06-06 | 2014. évi XXI. törvény | 2012-205-00-00.12 |
 | 2015-01-01 | 2014. évi XCVII. törvény | 2012-205-00-00.13 |
+| 2015-02-01 | 2014. évi CIX. törvény | 2012-205-00-00.14 |
