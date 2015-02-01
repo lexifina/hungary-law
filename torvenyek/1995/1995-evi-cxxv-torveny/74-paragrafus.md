@@ -26,17 +26,17 @@ f) cégellenőrzés: az illetékes nemzetbiztonsági szolgálat által végzett 
 
 g) foglalkoztatási jogviszony: a bírói szolgálati jogviszony, az igazságügyi szolgálati jogviszony, az ügyészségi szolgálati jogviszony, a hivatásos szolgálati viszony, a hivatásos és szerződéses állományú katonák szolgálati viszonya, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, a közalkalmazotti jogviszony, a munkajogviszony és a munkavégzésre irányuló egyéb jogviszony;
 
-h) nemzetbiztonsági ellenőrzés: a nemzetbiztonsági szolgálat annak megállapítására irányuló vizsgálata, hogy a nemzetbiztonsági ellenőrzés alá eső személy a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítését megelőzően, illetve a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony fennállásának ideje alatt folyamatosan megfelel-e a biztonsági feltételeknek;
+h)
 
 i) nemzetbiztonsági ellenőrzés alá eső személy:
 
 ia) a nagykövet és az önálló külképviseletet irányító főkonzul;
 
-ib) a miniszter, az államtitkár, a kormánybiztos, a miniszterelnöki biztos;
+ib) a miniszter, az államtitkár, a kormánybiztos, a miniszterelnöki biztos és a miniszterelnöki megbízott;
 
 ic) a közigazgatási államtitkár, a helyettes államtitkár, a miniszteri biztos;
 
-id) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányhivatal, valamint a megyei és a fővárosi kormányhivatal vezetője és vezetőhelyettese, továbbá a megyei és a fővárosi kormányhivatalt vezető kormánymegbízott;
+id) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányhivatal, valamint a fővárosi és megyei kormányhivatal vezetője és vezetőhelyettese;
 
 ie) az Országgyűlés Hivatalának főigazgatója, az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában meghatározott hivatali szerveinek, illetve azok önálló szervezeti egységeinek vezetői és helyetteseik;
 
@@ -44,7 +44,7 @@ if) a Köztársasági Elnöki Hivatal vezetője, valamint a Köztársasági Eln�
 
 ig) a Honvéd Vezérkar főnöke;
 
-ih) a rendvédelmi szerv országos parancsnoka és helyettese, a rendőrfőkapitány és a rendőrkapitány;
+ih) a rendvédelmi szerv országos parancsnoka és helyettese, a Katonai Nemzetbiztonsági Szolgálat főigazgatója és főigazgató-helyettese, a rendőrfőkapitány, a rendőrkapitány és a határrendészeti kirendeltség vezetője;
 
 ii) a tábornok és a tábornoki rendfokozattal rendszeresített beosztásba kinevezett;
 
@@ -58,9 +58,9 @@ im) az Országgyűlés nemzetbiztonsággal foglalkozó állandó bizottsága, a 
 
 in) aki a minősített adat védelméről szóló törvényben meghatározott minősített adatot kezelő szervvel foglalkoztatási jogviszonyban vagy a Polgári Törvénykönyv rendelkezésein alapuló szerződéses jogviszonyban áll és e jogviszonyával összefüggésben fokozottan ki van téve jogellenes befolyásolási szándéknak, leplezett támadásnak vagy fenyegetésnek;
 
-io) aki foglalkoztatási jogviszony vagy a Polgári Törvénykönyv rendelkezésein alapuló szerződéses jogviszony alapján a minősített adat védelméről szóló törvény szerinti „Bizalmas!”, „Titkos!” vagy „Szigorúan titkos” minősítésű adatot megismerésére vagy felhasználására jogosult;
+io) aki foglalkoztatási jogviszony vagy a Polgári Törvénykönyv rendelkezésein alapuló szerződéses jogviszony alapján a minősített adat védelméről szóló törvény szerinti „Bizalmas!”, „Titkos!” vagy „Szigorúan titkos” minősítésű adat megismerésére vagy felhasználására jogosult;
 
-ip) a minősített adat védelméről szóló törvényben meghatározott, a minősített adatot kezelő szervvel közreműködő természetes személy, akinek feladata ellátásához minősített adatot szükséges felhasználnia;
+ip) a minősített adat védelméről szóló törvényben meghatározott, a minősített adatot kezelő szervvel közreműködő természetes személy, akinek feladata ellátásához „Bizalmas!”, „Titkos!” vagy „Szigorúan titkos!” minősítési szintű minősített adatot szükséges felhasználnia;
 
 ir) az e törvény szerinti titkos információgyűjtést engedélyező bíró;
 

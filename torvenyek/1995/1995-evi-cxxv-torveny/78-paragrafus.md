@@ -8,7 +8,15 @@ c) a nemzetbiztonsági szolgálatok létesítményeibe való belépés rendjét;
 
 d) a miniszteri elismerések adományozásának rendjét;
 
-(1a)
+(1a) Felhatalmazást kapnak a miniszterek, hogy az irányításuk vagy felügyeletük alá tartozó szervek esetében, ha a nemzetbiztonsági ellenőrzés lefolytatása
+
+a) az Alkotmányvédelmi Hivatal vagy a Nemzetbiztonsági Szakszolgálat hatáskörébe tartozik, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter,
+
+b) az Információs Hivatal hatáskörébe tartozik, a polgári hírszerzési tevékenység irányításáért felelős miniszter,
+
+c) a Katonai Nemzetbiztonsági Szolgálat hatáskörébe tartozik, a honvédelemért felelős miniszter
+
+egyetértésével kiadott rendeletben állapítsák meg a nemzetbiztonsági ellenőrzés alá eső munkaköröket.
 
 (2) Felhatalmazást kap a miniszter, hogy utasításban megállapítsa:
 

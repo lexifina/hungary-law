@@ -1,25 +1,15 @@
-## Jogorvoslat a nemzetbiztonsági ellenőrzés megállapításai ellen
+## Az alapvető jogok biztosának a felülvizsgálati eljárással kapcsolatos jogköre
 
-72/C. § (1) A nemzetbiztonsági ellenőrzés alá eső személy a hozzájárulás megtagadásáról vagy visszavonásáról való tudomásszerzéstől számított 15 napon belül a nemzetbiztonsági ellenőrzést végrehajtó nemzetbiztonsági szolgálat főigazgatója útján panasszal élhet a miniszternél.
+72/C. § (1) A felülvizsgálati eljárás alá vont személy a felülvizsgálati eljárásról történő tudomásszerzést követő hat hónapon belül kérheti az alapvető jogok biztosától a felülvizsgálati eljárás elrendelése és lefolytatása vizsgálatát az alapvető jogokkal összefüggő visszásság megállapítása érdekében.
 
-(2) A miniszter a panaszt a beérkezésétől számított 30 nap alatt kivizsgálja, ez a határidő egy ízben 30 nappal meghosszabbítható.
+(2) Az alapvető jogok biztosa az (1) bekezdés szerinti beadvány alapján vizsgálatot folytathat a felülvizsgálati eljárás elrendelésével és lefolytatásával összefüggésben.
 
-(3) A miniszter
+(3) Az alapvető jogok biztosa hivatalból vizsgálhatja a nemzetbiztonsági szolgálatok felülvizsgálati eljárásra vonatkozó gyakorlatát az alapvető jogokkal összefüggő visszásság megállapítása érdekében a felülvizsgálati eljárás elrendelése és lefolytatása tekintetében.
 
-a) az alaptalan panaszt elutasítja a hozzájárulás megtagadásának, illetve visszavonásának hatályban tartása mellett;
+(4) A felülvizsgálati eljárás irataiba az alapvető jogok biztosa törvényben foglaltak szerint betekinthet.
 
-b) a panasznak helyt ad és
+(5) Az alapvető jogok biztosának vizsgálati jogköre nem terjed ki a nemzetbiztonsági kockázatok megállapításának szakszerűségére.
 
-ba) a hozzájárulás megtagadását hatályon kívül helyezi és a nemzetbiztonsági ellenőrzést lefolytató nemzetbiztonsági szolgálatot új eljárásra kötelezi vagy
+(6) Ha az alapvető jogok biztosa a felülvizsgálati eljárás elrendelése, lefolytatása körében az alapvető jogokkal összefüggő visszásságot állapít meg, tájékoztatja a nemzetbiztonsági szolgálatot irányító minisztert, egyben ajánlást fogalmaz meg a szükséges intézkedések megtételére. Ha a jogsértés a kezdeményező feladatkörében történt, felkéri a kezdeményezőt a szükséges intézkedések megtételére.
 
-bb) a hozzájárulás visszavonását hatályon kívül helyezi.
-
-(4)
-
-(5) Amennyiben a nemzetbiztonsági ellenőrzést végrehajtó nemzetbiztonsági szolgálat főigazgatója az (1) bekezdésben meghatározott panaszban foglaltakkal egyetért,
-
-a) a hozzájárulás megtagadására vonatkozó döntését visszavonja és a jogviszony létesítéséhez hozzájárul,
-
-b) a hozzájárulás visszavonására vonatkozó döntését visszavonja.
-
-(6) Ha a panaszban foglaltakkal a főigazgató nem ért egyet, a benyújtástól számított 8 napon belül állásfoglalással együtt felterjeszti a miniszternek.
+(7) Ha az alapvető jogok biztosa az irányító miniszter intézkedését nem tartja megfelelőnek, erről a Bizottságot tájékoztatja.

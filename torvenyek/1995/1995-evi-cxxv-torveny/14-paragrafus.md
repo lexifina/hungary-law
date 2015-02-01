@@ -22,6 +22,10 @@ f) ha bármely módon valamely nemzetbiztonsági szolgálat jogszabályellenes v
 
 g) véleményezi a nemzetbiztonsági szolgálatok költségvetésének részletes tervezetét, a titkos információgyűjtésre jogosult egyéb szervezetek költségvetésének e tevékenységgel kapcsolatos tételeit, illetve az éves költségvetési törvény végrehajtásáról szóló részletes beszámoló tervezetét, a törvényjavaslatok tárgyalása során az elfogadásra vonatkozóan javaslatot tesz az Országgyűlésnek;
 
-h) kinevezésük előtt meghallgatja a főigazgatói tisztségre jelölt személyeket, alkalmasságukról állást foglal.
+h) kinevezésük előtt meghallgatja a főigazgatói tisztségre jelölt személyeket, alkalmasságukról állást foglal;
+
+i) dönt a biztonsági szakvélemény megállapításaival és a felülvizsgálati eljárás elrendelésének megtagadásával kapcsolatos miniszteri döntéssel szembeni panaszról,
+
+j) állást foglal az alapvető jogok biztosának a nemzetbiztonsági szolgálat felülvizsgálati eljárásáról adott tájékoztatásáról.
 
 (5) A Bizottság – ha ellenőrzési jogkörének gyakorlása szempontjából szükséges – a nemzetbiztonsági szolgálatok munkatársát szakértői tevékenységre kérheti fel az illetékes főigazgató egyidejű értesítésével.

@@ -1,3 +1,51 @@
-72/D. § (1) A hozzájárulásra vagy annak megtagadására, valamint a hozzájárulás visszavonására vonatkozó döntésről a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat tájékoztatja a kezdeményezőt.
+## Jogorvoslat a nemzetbiztonsági ellenőrzés során
 
-(2) A kezdeményező tájékoztatja a nemzetbiztonsági ellenőrzés alá eső személyt a hozzájárulásról vagy annak megtagadásáról, illetve a hozzájárulás visszavonásáról. A tájékoztatás megtörténtét jegyzőkönyvben vagy más hitelt érdemlő módon rögzíteni kell. A döntést tartalmazó okiratban a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat által megjelölt minősített adatokról a nemzetbiztonsági ellenőrzés alá eső személy nem tájékoztatható. A hozzájárulásról a nemzetbiztonsági ellenőrzés alá eső személy kérelmére a kezdeményező hiteles másolatot ad ki.
+72/D. § (1) A nemzetbiztonsági ellenőrzés alá eső személy
+
+a) a biztonsági szakvéleményben szereplő, általa valótlannak tartott megállapításokkal,
+
+b) a biztonsági szakvéleményben megállapított kockázati tényezővel, valamint
+
+c) az általa kezdeményezett felülvizsgálati eljárás elrendelésének elutasításáról szóló döntéssel
+
+szemben – a kézhezvételétől számított 15 napon belül – panasszal élhet a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat főigazgatója útján a miniszternél.
+
+(2) Az előterjesztett panasznak a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony 71. § (4) bekezdése, illetve a 72/B. § (8) bekezdése alapján történő megszüntetésére nincs halasztó hatálya.
+
+(3) Ha a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat főigazgatója az (1) bekezdésben meghatározott panaszban foglaltakkal egyetért,
+
+a) a biztonsági szakvéleményt visszavonja és új biztonsági szakvéleményt bocsát ki,
+
+b) az (1) bekezdés c) pontjában foglaltak esetén az elrendeli a felülvizsgálati eljárás lefolytatását.
+
+(4) Ha a panaszban foglaltakkal a főigazgató nem ért egyet, azt a benyújtástól számított 8 napon belül, állásfoglalásával együtt felterjeszti a miniszternek, egyben döntéséről tájékoztatja a nemzetbiztonsági ellenőrzés kezdeményezésére jogosultat.
+
+(5) A kezdeményezésre jogosult haladéktalanul tájékoztatja a nemzetbiztonsági ellenőrzés alá eső személyt a főigazgató döntéséről. A tájékoztatás megtörténtét jegyzőkönyvben vagy más hitelt érdemlő módon rögzíteni kell. A döntést tartalmazó okiratban a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat által megjelölt minősített adatokról a nemzetbiztonsági ellenőrzés alá eső személy nem tájékoztatható.
+
+(6) A miniszter a panaszt a beérkezésétől számított 30 nap alatt kivizsgálja, ez a határidő egy alkalommal 30 nappal meghosszabbítható.
+
+(7) A miniszter
+
+a) az alaptalan panaszt elutasítja vagy
+
+b) a panasznak helyt ad és
+
+ba) a nemzetbiztonsági kockázat megállapítására vonatkozó döntést hatályon kívül helyezi és a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot új eljárásra kötelezi,
+
+bb) megállapítja a nemzetbiztonsági kockázat hiányát, vagy
+
+bc) a nemzetbiztonsági ellenőrzés alá eső személy által kezdeményezett és elutasított felülvizsgálati eljárás lefolytatására utasítja a nemzetbiztonsági szolgálat főigazgatóját.
+
+(8) A miniszter a (7) bekezdés szerinti döntéséről írásban tájékoztatja a panaszost és a nemzetbiztonsági ellenőrzésre jogosult nemzetbiztonsági szolgálat főigazgatóját, valamint a nemzetbiztonsági szolgálat főigazgatója útján a kezdeményezésére jogosultat.
+
+(9) A nemzetbiztonsági ellenőrzés alá eső személy a miniszter döntésével szemben, annak kézhezvételétől számított 15 napon belül panasszal élhet a Bizottságnál.
+
+(10) Ha nemzetbiztonsági ellenőrzés alá eső személy jogviszonyát a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján a 71. § (4) bekezdése vagy a 72/B. § (8) bekezdése alapján szüntették meg, a megszüntetésről szóló döntés kézhezvételétől számított 15 napon belül a nemzetbiztonsági ellenőrzés alá eső személy kezdeményezheti a Fővárosi Közigazgatási és Munkaügyi Bíróságnál a Bizottság 19/A. § (2) bekezdés a) pontja szerinti panaszt elutasító döntésének felülvizsgálatát.
+
+(11) A (10) bekezdés szerinti bírósági felülvizsgálat kezdeményezésének joga azt a hivatásos szolgálati viszonyban állót is megilleti, akit a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján beosztás alóli felmentésével egyidejűleg rendelkezési állományba helyeztek.
+
+(12) A bíróság e § szerinti eljárására a polgári perrendtartás közigazgatási perekre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson, soron kívül jár el. A perben csak olyan bíró járhat el, akinek e törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
+
+(13) A bíróság a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény kiadásának alapjául szolgáló eljárás jogszerűségét vizsgálja, jogköre nem terjed ki a nemzetbiztonsági kockázat megállapításának szakszerűségére.
+
+(14) Eljárási szabálysértés esetén a bíróság a nemzetbiztonsági kockázat megállapítására vonatkozó döntést hatályon kívül helyezi és a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot új eljárásra kötelezi.

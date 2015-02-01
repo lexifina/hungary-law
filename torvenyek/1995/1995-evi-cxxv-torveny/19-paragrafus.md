@@ -2,7 +2,7 @@
 
 (2) Az Országgyűlés elnöke kezdeményezi a képviselőcsoport vezetője által a Bizottságba jelölt képviselő nemzetbiztonsági ellenőrzését.
 
-(3) Amennyiben a Bizottság tagjának jelölt képviselő tekintetében a jelölést megelőző öt éven belül a nemzetbiztonsági szolgálat a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítéséhez való hozzájárulását megtagadta vagy hozzájárulását visszavonta, az Országgyűlés elnöke dönt a jelölt nemzetbiztonsági ellenőrzésének újbóli kezdeményezéséről.
+(3)
 
 (4) A Bizottság tagjának jelölt képviselő tekintetében a nemzetbiztonsági ellenőrzést az Alkotmányvédelmi Hivatal végzi, a 68. § (5) bekezdésében foglaltak szerint.
 

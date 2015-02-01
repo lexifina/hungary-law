@@ -8,7 +8,7 @@ b) a biztonsági okmányok körét, a biztonsági okmányvédelemre jogosult sze
 
 c) a titkos információgyűjtés feltételeinek biztosítása érdekében a titkos információgyűjtésre feljogosított szervezetek és a távközlési szolgáltatási feladatokat ellátó szervezetek együttműködésének rendjét és szabályait.
 
-d) a 74. § i) pont in) és io) alpontjában meghatározott körben a nemzetbiztonsági ellenőrzés alá eső egyes jogviszonyokat.
+d)
 
 (2) Felhatalmazást kap a Kormány, hogy határozatban megállapítsa:
 

@@ -356,6 +356,22 @@ családi és utóneve:
 
 |
 
+27a.
+
+|
+
+születési neve:
+
+|
+
+27b.
+
+|
+
+anyja születési neve:
+
+|
+
 28.
 
 |
@@ -860,6 +876,14 @@ Pályafutása során észlelt-e olyan körülményt, amely külföldi hírszerz�
 
 |
 
+3.
+
+|
+
+Önnel vagy közeli hozzátartozójával szemben, az elmúlt 5 évben, külföldi hatóság alkalmazott-e idegenrendészeti kiutasításra, beutazási vagy tartózkodási tilalomra irányuló intézkedést, illetve jelenleg áll-e ilyen intézkedés hatálya alatt? („igen” válasz esetén jelölje meg az intézkedést, az elrendelő hatóságot és az intézkedés időpontját!)
+
+|
+
 XII. Ön, illetve házas- vagy élettársa:
 
 |
@@ -968,6 +992,38 @@ Van-e házasságon vagy élettársi közösségen kívüli partnerkapcsolata (ho
 
 |
 
+13a.
+
+|
+
+a partner családi és utóneve:
+
+|
+
+13b.
+
+|
+
+a partner születési neve:
+
+|
+
+13c.
+
+|
+
+a partner születési helye, éve, hónapja, napja:
+
+|
+
+13d.
+
+|
+
+a partner anyja neve:
+
+|
+
 14.
 
 |
@@ -1010,7 +1066,7 @@ XIII. BIZTONSÁGI NYILATKOZAT
 
 Kijelentem, hogy az általam közölt adatok a valóságnak megfelelnek.
 
-Hozzájárulok ahhoz, hogy a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat a nemzetbiztonsági ellenőrzés keretében személyemet érintően adatot gyűjtsön és a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony fennállásának tartama alatt az e jogviszony létesítéséhez, fenntartásához szükséges biztonsági feltételek meglétét bármikor ellenőrizze. Tudomásul veszem, hogy amennyiben az adat más módon nem szerezhető be, a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat személyemet érintően titkos információgyűjtést is folytathat.
+Hozzájárulok ahhoz, hogy a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat a nemzetbiztonsági ellenőrzés keretében személyemet érintően adatot gyűjtsön és a biztonsági feltételek meglétét a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítését megelőzően, valamint felülvizsgálati eljárás keretében a jogviszony fennállásának tartama alatt ellenőrizze. Tudomásul veszem, hogy amennyiben az adat más módon nem szerezhető be, a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat személyemet érintően titkos információgyűjtést is folytathat.
 
 A kérdőívet annak tudatában töltöttem ki, hogy a kérdésekre adott válaszokkal magamat vagy hozzátartozómat nem vagyok köteles bűncselekmény vagy szabálysértés elkövetésével vádolni.
 
@@ -1020,7 +1076,7 @@ aláírás, cím
 
 XIV. Házastárs, bejegyzett élettárs, élettárs, közös háztartásban élő nagykorú hozzátartozó nyilatkozata
 
-Tájékoztattak arról, hogy házastársam, élettársam, velem közös háztartásban élő nagykorú hozzátartozóm nemzetbiztonsági ellenőrzése – beleértve az adatváltozással kapcsolatos ellenőrzést is – személyemet is érintheti; ennek keretén belül, ha a szükséges adat más módon nem szerezhető be, a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat titkos információgyűjtést is folytathat.
+Tudomásul veszem, hogy házastársam, élettársam, velem közös háztartásban élő nagykorú hozzátartozóm nemzetbiztonsági ellenőrzése – beleértve az adatváltozással kapcsolatos ellenőrzést is – személyemet is érintheti; ennek keretén belül, ha a szükséges adat más módon nem szerezhető be, a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat titkos információgyűjtést is folytathat.
 
 Kelt, ......................., 201......
 

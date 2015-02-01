@@ -1,6 +1,6 @@
 22. § (1) A nemzetbiztonsági szolgálatok hivatásos állományú tagja
 
-a) a 72. § (3) bekezdésben meghatározottak szerint folyamatos nemzetbiztonsági ellenőrzés alatt áll;
+a)
 
 b) állampolgári jogait az e törvényben és a szolgálati jogviszonyra vonatkozó külön törvényben meghatározott korlátok között gyakorolhatja;
 
