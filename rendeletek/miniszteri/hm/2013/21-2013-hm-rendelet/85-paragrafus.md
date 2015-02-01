@@ -20,7 +20,7 @@ f) a megállapított kiegészítő illetmények összege,
 
 g) az illetményelemek megállapítása szempontjából irányadó illetményalap felemeléséből származó minden illetménynövekmény,
 
-h)[^16] a beosztási illetmény eltérítése, vagy a magasabb rendfokozathoz tartozó beosztás ellátásával az eredeti beosztás ellátása alóli mentesítés mellett való megbízás miatt az illetménykiegészítés, a vezetői illetménypótlék, a szövetségesi együttműködési pótlék és a titkosszolgálati pótlék összegében keletkező illetménynövekmény,
+h)[^18] a beosztási illetmény eltérítése, vagy a magasabb rendfokozathoz tartozó beosztás ellátásával az eredeti beosztás ellátása alóli mentesítés mellett való megbízás miatt az illetménykiegészítés, a vezetői illetménypótlék, a szövetségesi együttműködési pótlék és a titkosszolgálati pótlék összegében keletkező illetménynövekmény,
 
 i) az oktatói pótlék folyósítása esetén annak összegéből a pótlék e rendelet szerinti mértékének alsó határáig terjedő hányad, és
 
@@ -36,4 +36,4 @@ c) a (2) bekezdés j) pontja szerinti eset kivételével a munkaköri pótlék 6
 
 (4) A (3) bekezdés szerinti helyi keret felhasználásáról részletes nyilvántartást kell vezetni.
 
-[^16]: A 85. § (2) bekezdés h) pontja a 7/2014. (IV. 18.) HM rendelet 9. § i) pontja szerint módosított szöveg.
+[^18]: A 85. § (2) bekezdés h) pontja a 7/2014. (IV. 18.) HM rendelet 9. § i) pontja szerint módosított szöveg.

@@ -14,6 +14,6 @@
 
 | 6 | 4. | Az ejtőernyős altisztnek és legénységi állományúnak | 10,8 | 8,1 | 6,3 |
 
-5. melléklet a 21/2013. (IX. 17.) HM rendelethez[^31]
+5. melléklet a 21/2013. (IX. 17.) HM rendelethez[^33]
 
-[^31]: Az 5. melléklet a 7/2014. (IV. 18.) HM rendelet 8. §-ával megállapított szöveg.
+[^33]: Az 5. melléklet a 7/2014. (IV. 18.) HM rendelet 8. §-ával megállapított szöveg.

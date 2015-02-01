@@ -4,6 +4,6 @@
 
 (2) A hivatásos és szerződéses állományú katonák (a továbbiakban együtt: állomány tagja) magasabb besorolási kategóriába kerülésekor a munkáltatói jogkör gyakorlója ismételten dönthet arról, hogy a beosztási illetmény magasabb összegben kerüljön-e megállapításra.
 
-(3)[^1]
+(3)[^2]
 
-[^1]: A 2. § (3) bekezdését a 7/2014. (IV. 18.) HM rendelet 10. §-a hatályon kívül helyezte.
+[^2]: A 2. § (3) bekezdését a 7/2014. (IV. 18.) HM rendelet 10. §-a hatályon kívül helyezte.

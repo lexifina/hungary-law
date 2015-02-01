@@ -14,6 +14,6 @@
 
 | 6. | Egyetemi tanár | 0–5 év | 162–194 | 6–10 év | 195–227 | 10 év felett | 228–260 |
 
-6. melléklet a 21/2013. (IX. 17.) HM rendelethez[^32]
+6. melléklet a 21/2013. (IX. 17.) HM rendelethez[^34]
 
-[^32]: A 6. melléklet a 7/2014. (IV. 18.) HM rendelet 9. § r) pontja szerint módosított szöveg.
+[^34]: A 6. melléklet a 7/2014. (IV. 18.) HM rendelet 9. § r) pontja szerint módosított szöveg.

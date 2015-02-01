@@ -8,10 +8,10 @@
 
 (5) A KNBSZ állománytáblájában külön megjelölt speciális előmeneteli rendbe tartozó beosztást betöltő állomány esetén a beosztási illetményt az állománytábla szerint az adott beosztásban elérhető legmagasabb rendfokozat szerinti besorolási kategóriához tartozó besorolási szorzószámmal kell megállapítani.
 
-(6)[^13] A Hjt. 123. § (2) bekezdés a) pontja szerinti kezdő beosztások kivételével, a beosztási illetményt kettős rendfokozattal rendszeresített szolgálati beosztás betöltése esetén a beosztásba történt kinevezés, áthelyezés írásba foglalt munkáltatói döntésben meghatározott napjától a beosztásra rendszeresített rendfokozat szerinti besorolási kategóriához tartozó besorolási szorzószámmal kell megállapítani.
+(6)[^15] A Hjt. 123. § (2) bekezdés a) pontja szerinti kezdő beosztások kivételével, a beosztási illetményt kettős rendfokozattal rendszeresített szolgálati beosztás betöltése esetén a beosztásba történt kinevezés, áthelyezés írásba foglalt munkáltatói döntésben meghatározott napjától a beosztásra rendszeresített rendfokozat szerinti besorolási kategóriához tartozó besorolási szorzószámmal kell megállapítani.
 
 (7) Szerződéses pályakezdő esetén az első tervezett beosztáshoz tartozó beosztási illetmény összegét a (4) és az (5) bekezdés és a Hjt. 123. § (2) bekezdés c) pontja figyelembevételével kell megállapítani.
 
 (8) A szolgálati időpótlékot attól a naptól kell a jogosult részére megállapítani, vagy az összegét felemelni, amelyiken az állomány tagja a Hjt. 125. §-a szerinti szolgálati időt eléri.
 
-[^13]: A 74. § (6) bekezdése a 7/2014. (IV. 18.) HM rendelet 9. § g) pontja szerint módosított szöveg.
+[^15]: A 74. § (6) bekezdése a 7/2014. (IV. 18.) HM rendelet 9. § g) pontja szerint módosított szöveg.
