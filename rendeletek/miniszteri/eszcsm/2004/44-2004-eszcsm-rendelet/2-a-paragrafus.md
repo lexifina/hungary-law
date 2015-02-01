@@ -32,7 +32,7 @@ b) a beteg, illetve a nyilatkozattételre jogosult személy nyilatkozatát, hogy
 
 c)–d)[^14]
 
-(6)[^15] Fekvőbeteg gyógyintézetben alkalmazni kívánt gyógyszer esetén, amennyiben az adott gyógyszer szerepel az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 3. számú mellékletében foglalt a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló miniszteri rendeletben besorolt protokollokban szereplő, nemzetközi irányelveken és hazai szakmai tapasztalatokon alapuló protokollokban, úgy a kérelemhez nem kell csatolni az (5) bekezdés a) pontja szerinti nyilatkozatot.
+(6)[^15] Fekvőbeteg gyógyintézetben alkalmazni kívánt gyógyszer esetén, ha az adott gyógyszer szerepel a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló 10/2012. (II. 28.) NEFMI rendelet 8. mellékletében felsorolt protokollokban, vagy a nemzetközi irányelveken és hazai szakmai tapasztalatokon alapuló protokollokban, a kérelemhez nem kell csatolni az (5) bekezdés a) pontja szerinti nyilatkozatot.
 
 (7)[^16] A GYEMSZI a kérelem elbírálása során vizsgálja továbbá, hogy a készítmény kérelmezett indikációjával kapcsolatosan klinikai vizsgálat, illetve forgalomba hozatali engedély módosítása iránti kérelem van-e folyamatban valamelyik EGT tagállamban.
 
@@ -57,7 +57,7 @@ c)–d)[^14]
 [^12]: A 2/A. § (5) bekezdés bevezető szövegrésze a 28/2009. (VIII. 7.) EüM rendelet 1. § (4) bekezdésével megállapított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
 [^13]: A 2/A. § (5) bekezdés a) pontja a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c) és d) pontja szerint módosított szöveg.
 [^14]: A 2/A. § (5) bekezdés c)–d) pontját a 28/2009. (VIII. 7.) EüM rendelet 3. § (2) bekezdés a) pontja hatályon kívül helyezte, e módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
-[^15]: A 2/A. § (6) bekezdése a 9/2012. (II. 28.) NEFMI rendelet 13. §-ával megállapított szöveg.
+[^15]: A 2/A. § (6) bekezdése a 3/2015. (I. 14.) EMMI rendelet 4. §-ával megállapított szöveg.
 [^16]: A 2/A. § (7) bekezdése a 28/2009. (VIII. 7.) EüM rendelet 1. § (5) bekezdésével megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^17]: A 2/A. § (8) bekezdése a 28/2009. (VIII. 7.) EüM rendelet 1. § (5) bekezdésével megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^18]: A 2/A. § (9) bekezdése a 20/2010. (IV. 29.) EüM rendelet 5. § (1) bekezdésével megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.
