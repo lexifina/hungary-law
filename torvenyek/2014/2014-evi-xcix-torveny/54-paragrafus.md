@@ -2,7 +2,7 @@
 
 1–45.
 
-46.
+46. 63. § (1) bekezdés h) pontjában az „a)–g)” szövegrész helyébe az „a)–f)” szöveg,
 
 47–52.
 
