@@ -54,26 +54,6 @@ i) figyelemmel kíséri, és feladatkörében eljárva gondozza a már betelepü
 
 j) feladatkörével összefüggésben részt vesz külföldi konferenciákon, rendezvényeken.
 
-(3)[^2] Az Ügynökség a kereskedelem-fejlesztési tevékenysége keretében
+(3)[^2]
 
-a) közreműködik az exportlehetőségek felkutatásában, üzleti partnerek közvetítésében és üzletember-találkozók megszervezésében a magyar vállalkozások számára,
-
-b) információkat gyűjt és továbbít kis- és középvállalkozók számára export és tőkekihelyezési tevékenységükkel elérhető uniós és hazai támogatási, pályázati lehetőségekről,
-
-c) tanácsokat nyújt külkereskedelem-technikai, vámügyi, jogi, adózási, valamint az állami támogatási rendszerekkel kapcsolatos kérdésekben,
-
-d) működteti a regionális vállalati és projekt-specifikus adatbázisokat,
-
-e) gondoskodik exportcélú promóciós kiadványok kiadásáról és kommunikációs projektek megvalósításáról,
-
-f) gondoskodik a kereskedelem-fejlesztési szakmai programok, így különösen szemináriumok, tréningek, workshopok technikai szervezéséről és lebonyolításáról,
-
-g) tájékoztatást ad a tőkekihelyezéssel kapcsolatos információkról, jogszabályokról, illetve a befektetési és privatizációs lehetőségekről, különös tekintettel a szomszédos országokra,
-
-h) szervezi a magyar vállalkozások állami támogatás mellett megvalósuló részvételét a külföldi vásárokon, kiállításokon,
-
-i) konstrukciókat dolgoz ki a külpiaci infrastruktúra-fejlesztési projektekben a magyar vállalkozások részvételének támogatására,
-
-j) közreműködik a kis- és közepes méretű vállalkozások beszállítói lehetőségeinek feltárásában, mind a magyarországi külföldi befektetők, mind a környező országokban megtelepedett befektetők vonatkozásában.
-
-[^2]: A 3. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 841. §-a iktatta be.
+[^2]: A 3. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 841. §-a iktatta be, hatályon kívül helyezte az 1/2015. (I. 15.) Korm. rendelet 2. §-a.
