@@ -1,7 +1,5 @@
-## 13. §[^7]
+## szöveg lép.
 
 ## 6. A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló
 
 ## 14/2007. (III. 14.) EüM rendelet módosítása
-
-[^7]: A 13. § a 34. § (2) bekezdése alapján 2015. február 1-jén lép hatályba.
