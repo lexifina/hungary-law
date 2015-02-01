@@ -1,4 +1,4 @@
-## 1. A rendőrségnél rendszeresített hivatásos szolgálati beosztások, munkakörök, az azokhoz kapcsolódó rendfokozatok, beosztási kategóriák és képesítési követelmények
+## 1. A Rendőrségnél rendszeresített hivatásos szolgálati beosztások, munkakörök, az azokhoz kapcsolódó rendfokozatok, beosztási kategóriák és képesítési követelmények
 
 ## Országos Rendőr-főkapitányság és szervei
 
@@ -10,17 +10,17 @@
 
 | 2. | Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-| 3. |  |  | országos rendőr-főkapitány és az országos rendőrfőkapitány általános helyettese | tábornok | egyetem | szakirányú felsőfokú | RIASZTSZ + RMVK vagy RSZVI + RVK + RMVK | pszichológiai alkalmasság |
+| 3. |  |  | országos rendőr-főkapitány és az országos rendőrfőkapitány általános helyettese | tábornok | egyetem | szakirányú felsőfokú | RSZV+RVK+RMVK | pszichológiai alkalmasság |
 
-| 4. |  | a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiak- ban: Hszt.) 245/H. § (2) bekezdés szerinti illetményre jogosult | bűnügyi főigazgató (országos rendőr- főkapitány- helyettes) |  |  |  |  |  |
+| 4. |  | a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiak- ban: Hszt.) 245/H. § (2) bekezdés szerinti illetményre jogosult | bűnügyi főigazgató (országos rendőr- főkapitány- helyettes) |  |  |  | RSZV+RVK+RMVK |  |
 
-| 5. |  |  | rendészeti főigazgató (országos rendőrfőkapitány- helyettes |  |  |  |  |  |
+| 5. |  |  | rendészeti főigazgató (országos rendőrfőkapitány- helyettes |  |  |  | RSZV+RVK+RMVK |  |
 
-| 6. |  |  | gazdasági főigazgató (országos rendőr- főkapitány- helyettes) |  |  |  |  |  |
+| 6. |  |  | gazdasági főigazgató (országos rendőr- főkapitány- helyettes) |  |  |  | RSZV+RVK+RMVK |  |
 
-| 7. | Központi | főosztályvezetői illetményre jogosult | kiemelt főtanácsadó (főkapitányi biztos) |  |  |  |  |  |
+| 7. | Központi | főosztályvezetői illetményre jogosult | kiemelt főtanácsadó (főkapitányi biztos) |  |  |  | RSZV+RVK+RMVK |  |
 
-| 8. |  |  | szolgálatvezető |  |  |  |  |  |
+| 8. |  |  | szolgálatvezető |  |  |  | RSZV+RVK+RMVK |  |
 
 |  |  |  | (ORFK |  |  |  |  |  |
 
@@ -28,93 +28,87 @@
 
 |  |  | ellenőrzési) |  |  |  |  |  |
 
-| 9. |  |  | hivatalvezető (ORFK) |  |  |  |  |  |
+| 9. |  |  | hivatalvezető (ORFK) |  |  |  | RSZV+RVK+RMVK |  |
 
-| 10. |  |  | főosztályvezető | ezredes | egyetem vagy főiskola |  |  |  |
+| 10. |  |  | főosztályvezető | ezredes | egyetem vagy főiskola |  | RSZV+RVK+RMVK |  |
 
-| 11. |  |  | igazgató |  |  |  |
+| 11. |  |  | igazgató |  | RSZV+RVK+RMVK |  |
 
-| 12. |  | főosztályvezető- helyettesi illetményre jogosult | igazgató-helyettes | alezredes |  |  | RIASZTSZ vagy RSZVI+ RVK |  |
+| 12. |  | főosztályvezető- helyettesi illetményre jogosult | igazgató-helyettes | alezredes |  |  | RSZV + RVK |  |
 
-| 13. |  | osztályt vezető főosztályvezető- helyettes |  |  |  |
+| 13. |  | osztályt vezető főosztályvezető- helyettes |  |  | RSZV + RVK |  |
 
-| 14. |  | osztályvezetői illetményre jogosult | osztályvezető |  |  |  |  |
+| 14. |  | osztályvezetői illetményre jogosult | osztályvezető |  |  |  | RSZV + RVK |  |
 
-| 15. |  | titkárságvezető |  |  |  |  |
+| 15. |  | titkárságvezető |  |  |  | RSZV + RVK |  |
 
-| 16. |  | a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | Készenléti Rendőrség parancsnoka (országos rendőrfőkapitány- helyettes) | tábornok | egyetem |  | RIASZTSZ+ |  |
+| 16. |  | a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | Készenléti Rendőrség parancsnoka (országos rendőrfőkapitány- helyettes) | tábornok | egyetem |  | RSZV+RVK+RMVK |  |
 
-|  |  | RMVK vagy |  |
+| 17. |  | főosztályvezetői illetményre jogosult | rendőrfőkapitány |  | RSZV+RVK+RMVK |  |
 
-|  |  | RSZVI + RVK |  |
+| 18. |  | igazgató (Készenléti Rendőrség Nemzeti Nyomozó Iroda, RRI, Központi GEI) |  | RSZV+RVK+RMVK |  |
 
-|  |  | + RMVK |  |
+| 19. |  | bűnügyi rendőrfőkapitány- helyettes (BRFK) |  | RSZV+RVK+RMVK |
 
-| 17. |  | főosztályvezetői illetményre jogosult | rendőrfőkapitány |  |  |
+| 20. |  | rendészeti rendőrfőkapitány- helyettes (BRFK) |  | RSZV+RVK+RMVK |  |
 
-| 18. |  | igazgató (Készenléti Rendőrség Nemzeti Nyomozó Iroda, RRI, Központi GEI) |  |  |
+| 21. |  | gazdasági rendőrfőkapitány- helyettes (BRFK) |  | RSZV+RVK+RMVK |  |
 
-| 19. |  | bűnügyi rendőrfőkapitány- helyettes (BRFK) |  |
+| 21/A. |  | igazgató (KR NNI, KR SZO) |  |  |  | RSZV+RVK+RMVK |  |
 
-| 20. |  | rendészeti rendőrfőkapitány- helyettes (BRFK) |  |  |
+| 22. |  | igazgató (ORFK NEBEK, ORFK BEI, ORFK RSZKK, ORFK DOK, KR), igazgató- helyettes (RRI, BSZKI, Központi GEI), megyei rendőrfőkapitány helyettesek | ezredes | egyetem vagy főiskola |  | RSZV+RVK+RMVK |  |
 
-| 21. |  | gazdasági rendőrfőkapitány- helyettes (BRFK) |  |  |
+| 23. |  | főosztályvezető- helyettesi illetményre jogosult | főosztályvezető (BRFK, KR) |  | RSZV + RVK |  |
 
-| 21/A. |  | igazgató (KR NNI, KR SZO) |  |  |  |  |
+| 24. |  | hivatalvezető |  |  |  | RSZV + RVK |  |
 
-| 22. |  | igazgató (ORFK NEBEK, ORFK BEI, ORFK RSZKK, ORFK DOK, KR), igazgató- helyettes (RRI, BSZKI, Központi GEI), megyei rendőrfőkapitány helyettesek | ezredes | egyetem vagy főiskola |  |  |
+|  | (BRFK, KR) |  |  |  |  |  |
 
-| 23. |  | főosztályvezető- helyettesi illetményre jogosult | főosztályvezető (BRFK, KR) |  | RIASZTSZ vagy RSZVI + RVK |  |
+| 25. |  |  |  |  |  |  |  |
 
-| 24. |  | hivatalvezető |  |  |  |  |
+| 26. |  |  |  |  |  |  |  |
 
-|  | (BRFK, KR) |  |  |  |  |
+| 27. |  |  |  |  |  |  |  |
 
-| 25. |  |  |  |  |  |  |
+| 28. |  |  | igazgató |  |  |  | RSZV + RVK |  |
 
-| 26. |  |  |  |  |  |  |
+| 29. |  |  |  |  |  |  |  |  |
 
-| 27. |  |  |  |  |  |  |
+| 30. |  |  | humánigazgatási szolgálatvezető (KR), ellenőrzési szolgálatvezető (KR) |  |  |  | RSZV + RVK |  |
 
-| 28. |  |  | igazgató |  |  |  |  |
+| 31. |  |  | parancsnok (ÁFSZ, LRP, TŰSZ) |  |  |  | RSZV + RVK |  |
 
-| 29. |  |  |  |  |  |  |  |
+| 32. |  |  | igazgató-helyettes (Központi GEI) | alezredes |  |  | RSZV + RVK |  |
 
-| 30. |  |  | humánigazgatási szolgálatvezető (KR), ellenőrzési szolgálatvezető (KR) |  |  |  |  |  |
+| 33. |  |  | gazdasági igazgató-helyettes (KR) |  |  |  | RSZV + RVK |  |
 
-| 31. |  |  | parancsnok (ÁFSZ, LRP, TŰSZ) |  |  |  |  |  |
+| 34. |  |  | zászlóaljparancsnok (BRFK) |  |  |  | RSZV + RVK |  |
 
-| 32. |  |  | igazgató-helyettes (Központi GEI) | alezredes |  |  |  |  |
+| 35. |  |  | szolgálatvezető |  |  |  | RSZV + RVK |  |
 
-| 33. |  |  | gazdasági igazgató-helyettes (KR) |  |  |  |  |  |
+| 36. |  |  | hivatalvezető |  |  |  | RSZV + RVK |  |
 
-| 34. |  |  | zászlóaljparancsnok (BRFK) |  |  |  |  |  |
+| 37. |  | osztályvezetői illetményre jogosult | osztályvezető |  |  |  | RSZV + RVK |  |
 
-| 35. |  |  | szolgálatvezető |  |  |  |  |  |
+| 38. |  | szolgálatparancs- nok (KR pénzkísérő) |  |  |  | RSZV + RVK |  |
 
-| 36. |  |  | hivatalvezető |  |  |  |  |  |
+| 39. |  | parancsnok- helyettes (LRP) |  |  |  | RSZV + RVK |  |
 
-| 37. |  | osztályvezetői illetményre jogosult | osztályvezető |  |  |  |  |  |
+| 40. |  | főosztályvezetői illetményre jogosult | kapitányságvezető (kiemelt) | ezredes |  |  | RSZV+RVK+RMVK |  |
 
-| 38. |  | szolgálatparancs- nok (KR pénzkísérő) |  |  |  |  |  |
+| 41. |  |  | kapitányságvezető | alezredes |  |  | RSZV+RVK+RMVK |  |
 
-| 39. |  | parancsnok- helyettes (LRP) |  |  |  |  |  |
+| 42. | Helyi | főosztályvezető- helyettesi illetményre jogosult | határrendészeti kirendeltségvezető (kiemelt) | ezredes |  |  | RSZV + RVK |  |
 
-| 40. |  | főosztályvezetői illetményre jogosult | kapitányságvezető (kiemelt) | ezredes |  |  | RIASZTSZ + RMVK vagy RSZVI + RVK + RMVK |  |
+| 43. |  |  | kapitányság- vezető-helyettes (kiemelt) | alezredes |  |  | RSZV + RVK |  |
 
-| 41. |  |  | kapitányságvezető | alezredes |  |  |  |  |
+| 44. |  |  | határrendészeti kirendeltségvezető |  |  | RSZV + RVK |  |
 
-| 42. | Helyi | főosztályvezető- helyettesi illetményre jogosult | határrendészeti kirendeltségvezető (kiemelt) | ezredes |  |  | RIASZTSZ vagy RSZVI + RVK |  |
+| 45. |  | osztályvezetői illetményre jogosult | osztályvezető |  |  |  | RSZV + RVK |  |
 
-| 43. |  |  | kapitányság- vezető-helyettes (kiemelt) | alezredes |  |  |  |  |
+| 46. |  |  | hivatalvezető (kiemelt) |  |  |  | RSZV + RVK |  |
 
-| 44. |  |  | határrendészeti kirendeltségvezető |  |  |  |  |
-
-| 45. |  | osztályvezetői illetményre jogosult | osztályvezető |  |  |  |  |  |
-
-| 46. |  |  | hivatalvezető (kiemelt) |  |  |  |  |  |
-
-| 47. |  |  | őrsparancsnok (osztály jogállású) |  |  |  |  |  |
+| 47. |  |  | őrsparancsnok (osztály jogállású) |  |  |  | RSZV + RVK |  |
 
 ## I. Besorolási osztály
 
@@ -124,219 +118,219 @@
 
 | 2. | Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-| 3. |  |  | osztályvezető- helyettes |  |  |  |  | pszichológiai alkalmasság |
+| 3. |  |  | osztályvezető- helyettes |  |  |  | RSZV | pszichológiai alkalmasság |
 
-| 4. |  |  | alosztályvezető |  |  |  |  |  |
+| 4. |  |  | alosztályvezető |  |  |  | RSZV |  |
 
-| 5. |  |  | kiemelt főreferens |  |  |  |  |
+| 5. |  |  | kiemelt főreferens |  |  |  | RSZV |
 
-| 6. |  | VI. | őrségparancsnok | alezredes |  |  | RIASZTSZ vagy RSZVI |  |
+| 6. |  | VI. | őrségparancsnok | alezredes |  |  | RSZV |  |
 
-| 7. | bevetésparancsnok |  |  |  |  |  |
+| 7. | bevetésparancsnok |  |  |  | RSZV |  |
 
-| 8. | V. | ügyeletvezető |  |  |  |  |  |
+| 8. | V. | ügyeletvezető |  |  |  | RSZV |  |
 
-| 9. | csoportvezető |  |  |  |  |  |
+| 9. | csoportvezető |  |  |  | – |  |
 
-| 10. | Központi | bevetésirányító |  | egyetem vagy főiskola | szak- irányú felsőfokú |  |  |
+| 10. | Központi | bevetésirányító |  | egyetem vagy főiskola | szak- irányú felsőfokú | – |  |
 
-| 11. | kiemelt főelőadó |  |  |  |  |  |
+| 11. | kiemelt főelőadó |  |  |  | – |  |
 
-| 12. | kiemelt főellenőr | alezredes |  |  |  |  |
+| 12. | kiemelt főellenőr | alezredes |  |  | – |  |
 
-| 13. | kiemelt főnyomozó |  |  |  |  |  |
+| 13. | kiemelt főnyomozó |  |  |  | – |  |
 
-| 14. | kiemelt főtechnikus |  |  |  |  |  |
+| 14. | kiemelt főtechnikus |  |  |  | – |  |
 
-| 15. | főügyeletes |  |  |  |  |  |
+| 15. | főügyeletes |  |  |  | – |  |
 
-| 16. |  | főelőadó |  |  |  |  |  |
+| 16. |  | főelőadó |  |  |  | – |  |
 
-| 17. | IV. | főnyomozó |  |  |  |  |  |
+| 17. | IV. | főnyomozó |  |  |  | – |  |
 
-| 18. |  |  | főreferens |  |  |  |  |  |
+| 18. |  |  | főreferens |  |  |  | – |  |
 
-| 19. |  |  | főtechnikus |  |  |  |  |  |
+| 19. |  |  | főtechnikus |  |  |  | – |  |
 
-| 20. |  |  | kiképzés-szervező | őrnagy |  |  |  |  |
+| 20. |  |  | kiképzés-szervező | őrnagy |  |  | – |  |
 
-| 21. |  |  | kiképző |  |  |  |  |  |
+| 21. |  |  | kiképző |  |  |  | – |  |
 
-| 22. |  |  | ügyeletes |  |  |  |  |  |
+| 22. |  |  | ügyeletes |  |  |  | – |  |
 
-| 23. |  |  | szolgálat- parancsnok |  |  |  |  |  |
+| 23. |  |  | szolgálat- parancsnok |  |  |  | – |  |
 
-| 24. |  | III. | előadó | százados |  |  |  |  |
+| 24. |  | III. | előadó | százados |  |  | – |  |
 
-| 25. |  |  | nyomozó |  |  |  |  |  |
+| 25. |  |  | nyomozó |  |  |  | – |  |
 
-| 26. | Területi |  | osztályvezető- helyettes |  |  |  |  |  |
+| 26. | Területi |  | osztályvezető- helyettes |  |  |  | RSZV |  |
 
-| 27. |  |  | alosztályvezető |  |  |  |  |  |
+| 27. |  |  | alosztályvezető |  |  |  | RSZV |  |
 
-| 28. |  | VI. | titkárságvezető (alosztály jogállású) |  |  |  | RIASZTSZ vagy RSZVI |  |
+| 28. |  | VI. | titkárságvezető (alosztály jogállású) |  |  |  | RSZV |  |
 
-| 29. |  |  | karmester (KR) |  |  |  |  |  |
+| 29. |  |  | karmester (KR) |  |  |  | RSZV |  |
 
-| 30. |  |  | ügyeletvezető |  |  |  |  |  |
+| 30. |  |  | ügyeletvezető |  |  |  | RSZV |  |
 
-| 31. |  |  | kiemelt főreferens |  |  |  |  |  |
+| 31. |  |  | kiemelt főreferens |  |  |  | RSZV |  |
 
-| 32. |  |  | főorvos |  |  |  |  |  |
+| 32. |  |  | főorvos |  |  |  | RSZV |  |
 
-| 33. |  |  | díszőrségparancs- nok (KR SZO) |  |  |  |  |  |
+| 33. |  |  | díszőrségparancs- nok (KR SZO) |  |  |  | RSZV |  |
 
-| 34. |  |  | csoportvezető alosztályvezető- helyettes | alezredes | egyetem vagy főiskola | szak- irányú felsőfokú |  |  |
+| 34. |  |  | csoportvezető alosztályvezető- helyettes | alezredes | egyetem vagy főiskola | szak- irányú felsőfokú | – |  |
 
-| 35. |  |  | díszőrségparancs- nok-helyettes (KR SZO) |  |  |  |  |  |
+| 35. |  |  | díszőrségparancs- nok-helyettes (KR SZO) |  |  |  | – |  |
 
-| 36. |  |  | bevetésirányító |  |  |  |  |  |
+| 36. |  |  | bevetésirányító |  |  |  | – |  |
 
-| 37. |  |  | kiképzésszervező |  |  |  |  |  |
+| 37. |  |  | kiképzésszervező |  |  |  | – |  |
 
-| 38. |  |  | lőtérvezető |  |  |  |  |  |
+| 38. |  |  | lőtérvezető |  |  |  | – |  |
 
-| 39. |  | V. | szolgálat- parancsnok |  |  |  |  |  |
+| 39. |  | V. | szolgálat- parancsnok |  |  |  | – |  |
 
-| 40. |  |  | ügyeletvezető- helyettes |  |  |  |  |  |
+| 40. |  |  | ügyeletvezető- helyettes |  |  |  | – |  |
 
-| 41. |  |  | főügyeletes |  |  |  |  |  |
+| 41. |  |  | főügyeletes |  |  |  | – |  |
 
-| 42. |  |  | kiemelt főelőadó |  |  |  |  |  |
+| 42. |  |  | kiemelt főelőadó |  |  |  | – |  |
 
-| 43. |  |  | kiemelt főellenőr |  |  |  |  |  |
+| 43. |  |  | kiemelt főellenőr |  |  |  | – |  |
 
-| 44. |  |  | kiemelt főnyomozó |  |  |  |  |  |
+| 44. |  |  | kiemelt főnyomozó |  |  |  | – |  |
 
-| 45. |  |  | kiemelt főtanár |  |  |  |  |  |
+| 45. |  |  | kiemelt főtanár |  |  |  | – |  |
 
-| 46. |  |  | kiemelt főtechnikus |  |  |  |  |  |
+| 46. |  |  | kiemelt főtechnikus |  |  |  | – |  |
 
-| 47. |  |  | kiemelt fővizsgáló |  |  |  |  |  |
+| 47. |  |  | kiemelt fővizsgáló |  |  |  | – |  |
 
-| 48. |  |  | szakorvos (bűnügyi) |  |  |  |  |  |
+| 48. |  |  | szakorvos (bűnügyi) |  |  |  | – |  |
 
-| 49. |  |  | pszichológus (bűnügyi) |  |  |  |  |  |
+| 49. |  |  | pszichológus (bűnügyi) |  |  |  | – |  |
 
-| 50. |  |  | karmester- helyettes |  |  |  |  |  |
+| 50. |  |  | karmester- helyettes |  |  |  | – |  |
 
-| 51. |  |  | helikopter-vezető |  |  |  |  |  |
+| 51. |  |  | helikopter-vezető |  |  |  | – |  |
 
-| 52. |  |  | kiemelt főszakértő |  |  |  |  |  |
+| 52. |  |  | kiemelt főszakértő |  |  |  | – |  |
 
-| 53. |  |  | kiemelt főmérnök (KR) |  |  |  |  |  |
+| 53. |  |  | kiemelt főmérnök (KR) |  |  |  | – |  |
 
-| 54. |  |  | kiképzésvezető (KR) |  |  |  |  |  |
+| 54. |  |  | kiképzésvezető (KR) |  |  |  | – |  |
 
-| 55. |  |  | kiemelt biztonsági főtiszt (KR) |  |  |  |  |  |
+| 55. |  |  | kiemelt biztonsági főtiszt (KR) |  |  |  | – |  |
 
-| 56. |  |  | főelőadó |  |  |  |  |  |
+| 56. |  |  | főelőadó |  |  |  | – |  |
 
-| 57. |  |  | főnyomozó |  |  |  |  |  |
+| 57. |  |  | főnyomozó |  |  |  | – |  |
 
-| 58. |  |  | főellenőr |  |  |  |  |  |
+| 58. |  |  | főellenőr |  |  |  | – |  |
 
-| 59. |  |  | főreferens |  |  |  |  |  |
+| 59. |  |  | főreferens |  |  |  | – |  |
 
-| 60. |  |  | főrevizor |  |  |  |  |  |
+| 60. |  |  | főrevizor |  |  |  | – |  |
 
-| 61. |  | IV. | főszakértő | őrnagy |  |  |  |  |
+| 61. |  | IV. | főszakértő | őrnagy |  |  | – |  |
 
-| 62. |  |  | főtanár |  |  |  |  |  |
+| 62. |  |  | főtanár |  |  |  | – |  |
 
-| 63. |  |  | főtechnikus |  |  |  |  |  |
+| 63. |  |  | főtechnikus |  |  |  | – |  |
 
-| 64. |  |  | fővizsgáló |  |  |  |  |  |
+| 64. |  |  | fővizsgáló |  |  |  | – |  |
 
-| 65. |  |  | biztonsági főtiszt (KR) |  |  |  |  |  |
+| 65. |  |  | biztonsági főtiszt (KR) |  |  |  | – |  |
 
-| 66. |  |  | főmérnök (KR) |  |  |  |  |  |
+| 66. |  |  | főmérnök (KR) |  |  |  | – |  |
 
-| 67. |  |  | mérnök (KR) |  |  |  |  |  |
+| 67. |  |  | mérnök (KR) |  |  |  | – |  |
 
-| 68. |  |  | ügyeletes |  |  |  |  |  |
+| 68. |  |  | ügyeletes |  |  |  | – |  |
 
-| 69. |  |  | előadó |  |  |  |  |  |
+| 69. |  |  | előadó |  |  |  | – |  |
 
-| 70. |  |  | ellenőr |  |  |  |  |  |
+| 70. |  |  | ellenőr |  |  |  | – |  |
 
-| 71. |  |  | nyomozó |  |  |  |  |  |
+| 71. |  |  | nyomozó |  |  |  | – |  |
 
-| 72. |  | III. | vizsgáló | százados |  |  |  |  |
+| 72. |  | III. | vizsgáló | százados |  |  | – |  |
 
-| 73. |  |  | szakértő |  |  |  |  |  |
+| 73. |  |  | szakértő |  |  |  | – |  |
 
-| 74. |  |  | revizor |  |  |  |  |  |
+| 74. |  |  | revizor |  |  |  | – |  |
 
-| 75. |  |  | Technikus |  |  |  |  |  |
+| 75. |  |  | Technikus |  |  |  | – |  |
 
-| 76. |  |  | biztonsági tiszt (KR) |  |  |  |  |  |
+| 76. |  |  | biztonsági tiszt (KR) |  |  |  | – |  |
 
-| 77. |  |  | szólamvezető |  |  |  |  |  |
+| 77. |  |  | szólamvezető |  |  |  | – |  |
 
-| 78. |  | II. | szakoktató | százados |  |  |  |  |
+| 78. |  | II. | szakoktató | százados |  |  | – |  |
 
-| 79. |  |  | osztályvezető- helyettes |  |  |  |  |  |
+| 79. |  |  | osztályvezető- helyettes |  |  |  | RSZV |  |
 
-| 80. |  |  | alosztályvezető |  |  |  |  |  |
+| 80. |  |  | alosztályvezető |  |  |  | RSZV |  |
 
-| 81. |  | VI. | hivatalvezető (alosztály jogállású) | alezredes | egyetem vagy főiskola | szak- irányú felsőfokú |  |  |
+| 81. |  | VI. | hivatalvezető (alosztály jogállású) | alezredes | egyetem vagy főiskola | szak- irányú felsőfokú | RSZV |  |
 
-| 82. |  |  | határrendészeti kirendeltség- |  |  |  |  |  |
+| 82. |  |  | határrendészeti kirendeltség- |  |  |  | RSZV |  |
 
 |  |  |  | vezetőhelyettes |  |  |  |  |  |
 
-| 83. |  |  | őrsparancsnok- |  |  |  | RIASZTSZ vagy RSZVI |  |
+| 83. |  |  | őrsparancsnok- |  |  |  | RSZV |  |
 
 |  |  |  | helyettes (osztály jogállású) |  |  |  |  |  |
 
-| 84. | Helyi |  | őrsparancsnok (alosztály jogállású) |  |  |  |  |  |
+| 84. | Helyi |  | őrsparancsnok (alosztály jogállású) |  |  |  | RSZV |  |
 
-| 85. |  |  | kiemelt főreferens |  |  |  |  |  |
+| 85. |  |  | kiemelt főreferens |  |  |  | RSZV |  |
 
-| 86. |  | V. | csoportvezető | alezredes |  |  |  |  |
+| 86. |  | V. | csoportvezető | alezredes |  |  | szaktanfolyam |  |
 
-| 87. |  |  | átkelőhely-vezető |  |  |  |  |  |
+| 87. |  |  | átkelőhely-vezető |  |  |  | szaktanfolyam |  |
 
-| 88. |  |  | alosztályvezető- helyettes |  |  |  |  |  |
+| 88. |  |  | alosztályvezető- helyettes |  |  |  | szaktanfolyam |  |
 
-| 89. |  |  | őrsparancsnok- |  |  |  | szaktan- folyam |  |
+| 89. |  |  | őrsparancsnok- |  |  |  | szaktanfolyam |  |
 
 |  |  |  | helyettes (alosztály jogállású) |  |  |  |  |  |
 
-| 90. |  |  | főügyeletes |  |  |  |  |  |
+| 90. |  |  | főügyeletes |  |  |  | szaktanfolyam |  |
 
-| 91. |  |  | kiemelt főelőadó |  |  |  |  |  |
+| 91. |  |  | kiemelt főelőadó |  |  |  | szaktanfolyam |  |
 
-| 92. |  |  | kiemelt főnyomozó |  |  |  |  |  |
+| 92. |  |  | kiemelt főnyomozó |  |  |  | szaktanfolyam |  |
 
-| 93. |  |  | kiemelt főtechnikus |  |  |  |  |  |
+| 93. |  |  | kiemelt főtechnikus |  |  |  | szaktanfolyam |  |
 
-| 94. |  |  | kiemelt fővizsgáló |  |  |  |  |  |
+| 94. |  |  | kiemelt fővizsgáló |  |  |  | szaktanfolyam |  |
 
-| 95. |  |  | főelőadó |  |  |  |  |  |
+| 95. |  |  | főelőadó |  |  |  | szaktanfolyam |  |
 
-| 96. |  |  | főnyomozó |  |  |  |  |  |
+| 96. |  |  | főnyomozó |  |  |  | szaktanfolyam |  |
 
-| 97. |  |  | főtechnikus |  |  |  |  |  |
+| 97. |  |  | főtechnikus |  |  |  | szaktanfolyam |  |
 
-| 98. |  | IV. | fővizsgáló | őrnagy |  |  |  |  |
+| 98. |  | IV. | fővizsgáló | őrnagy |  |  | szaktanfolyam |  |
 
-| 99. |  |  | technikai tiszt |  |  |  |  |  |
+| 99. |  |  | technikai tiszt |  |  |  | szaktanfolyam |  |
 
-| 100. |  |  | Ügyeletes |  |  |  |  |  |
+| 100. |  |  | Ügyeletes |  |  |  | szaktanfolyam |  |
 
-| 101. |  |  | előadó |  |  |  |  |  |
+| 101. |  |  | előadó |  |  |  | szaktanfolyam |  |
 
-| 102. |  | III. | nyomozó |  |  |  |  |  |
+| 102. |  | III. | nyomozó |  |  |  | szaktanfolyam |  |
 
-| 103. |  |  | technikus | százados |  |  |  |  |
+| 103. |  |  | technikus | százados |  |  | szaktanfolyam |  |
 
-| 104. |  |  | vizsgáló |  |  |  |  |  |
+| 104. |  |  | vizsgáló |  |  |  | szaktanfolyam |  |
 
-| 105. |  | II. | hajóvizsgáló |  |  |  |  |  |
+| 105. |  | II. | hajóvizsgáló |  |  |  | szaktanfolyam |  |
 
-| 106. | Pályakezdő |  | hadnagy |  |  |  |  |
+| 106. | Pályakezdő |  | hadnagy |  |  | – |  |
 
 ## II. Besorolási osztály
 
@@ -346,209 +340,211 @@
 
 | 2. | Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-| 3. |  |  | szolgálat- parancsnok |  |  | rendészeti szakközép-iskolai végzettség, rendőr vagy határrendészeti szakképesítés |  | pszichológiai alkalmasság |
+| 3. |  |  | szolgálat- parancsnok |  |  | rendészeti szakközép-iskolai végzettség, rendőr vagy határrendészeti szakképesítés | szaktanfolyam | pszichológiai alkalmasság |
 
-| 4. |  |  | csoportvezető |  |  |  |  |
+| 4. |  |  | csoportvezető |  |  |  | szaktanfolyam |
 
-| 5. |  |  | technikus |  |  | rendészeti |  |  |
+| 5. |  |  | technikus |  |  | rendészeti | szaktanfolyam |  |
 
 |  |  |  |  |  |  | szak- közép- iskolai végzett- ség, rendőr vagy határ- rendészeti szakképe- sítés, vagy részszak- képesítés |  |  |
 
-| 6. |  |  | őrparancsnok |  |  |  |  |  |
+| 6. |  |  | őrparancsnok |  |  |  | – |  |
 
-|  | Központi | IV. |  | főtörzs- zászlós | közép- iskola érettségi |  | szak- tanfolyam |  |
+|  | Központi | IV. |  | főtörzs- zászlós | közép- iskola érettségi |  |  |  |
 
-| 7. |  |  | referens |  |  |  |  |  |
+| 7. |  |  | referens |  |  |  | – |  |
 
-| 8. |  |  | raktárvezető |  |  |  |  |  |
+| 8. |  |  | raktárvezető |  |  |  | – |  |
 
-| 9. |  |  | TÜK-vezető |  |  | rendészeti szakközép- iskolai végzettség, rendőr vagy határrendé- szeti szakképe- sítés |  |  |
+| 9. |  |  | TÜK-vezető |  |  | rendészeti szakközép- iskolai végzettség, rendőr vagy határrendé- szeti szakképe- sítés | – |  |
 
-| 10. |  |  | ügyeletes |
+| 10. |  |  | ügyeletes | szaktanfolyam |
 
-| 11. |  |  | segédelőadó |
+| 11. |  |  | segédelőadó | – |
 
-| 12. |  |  | járőrvezető |
+| 12. |  |  | járőrvezető | szaktanfolyam |
 
-| 13. |  | III. | szolgálat- parancsnok- |
+| 13. |  | III. | szolgálat- parancsnok- | szaktanfolyam |
 
-|  |  |  | helyettes |
+|  |  |  | helyettes | szaktanfolyam |
 
-| 14. |  |  | fogdaőr 1. |  |  |  |  |  |
+| 14. |  |  | fogdaőr 1. |  |  |  | szaktanfolyam |  |
 
-| 15. |  |  | kutyavezető |  |  |  |  |  |
+| 15. |  |  | kutyavezető |  |  |  | – |  |
 
 | 16. |  |  | műmester |  |  |  |  |  |
 
-| 17. |  |  | szolgálat- parancsnok |  |  |  |  |  |
+| 17. |  |  | szolgálat- parancsnok |  |  |  | szaktanfolyam |  |
 
-| 18. |  |  | csoportvezető |  |  |  |  |  |
+| 18. |  |  | csoportvezető |  |  |  | – |  |
 
-| 19. |  |  | bevetésirányító |  |  |  |  |  |
+| 19. |  |  | bevetésirányító |  |  |  | szaktanfolyam |  |
 
-| 20. |  |  | biztonsági gépkocsivezető (KR) |  |  | rendészeti szakközép- iskolai |  |  |
+| 20. |  |  | biztonsági gépkocsivezető (KR) |  |  | rendészeti szakközép- iskolai | – |  |
 
-| 21. |  |  | díszőr (KR) |  |  | végzettség, rendőr vagy határrendé- szeti szakképe- sítés, vagy részszak- képesítés |  |  |
+| 21. |  |  | díszőr (KR) |  |  | végzettség, rendőr vagy határrendé- szeti szakképe- sítés, vagy részszak- képesítés | – |  |
 
-| 22. |  |  | parlamenti őr (KR) |  |  |  |  |
+| 22. |  |  | parlamenti őr (KR) |  |  | – |  |
 
-| 23. |  |  | helyszínbiztosító (KR) |  |  |  |  |
+| 23. |  |  | helyszínbiztosító (KR) |  |  | – |  |
 
-| 24. |  |  | lakásbiztosító (KR) |  |  |  |  |
+| 24. |  |  | lakásbiztosító (KR) |  |  | – |  |
 
-| 25. |  |  | helyszínelő |  |  | rendészeti szakközép- iskolai végzettség, rendőr vagyhatár- rendészeti szakképe- sítés |  |  |
+| 25. |  |  | helyszínelő |  |  | rendészeti szakközép- iskolai végzettség, rendőr vagyhatár- rendészeti szakképe- sítés | szaktanfolyam |  |
 
-| 26. |  |  | helyszínelő és balesetvizsgáló |  |  |  |  |
+| 26. |  |  | helyszínelő és balesetvizsgáló |  |  | szaktanfolyam |  |
 
-| 27. |  |  | szolgálati csoportvezető |  |  |  |  |
+| 27. |  |  | szolgálati csoportvezető |  |  | szaktanfolyam |  |
 
-| 28. |  |  | referens |  |  |  |  |  |
+| 28. |  |  | referens |  |  |  | – |  |
 
-| 29. |  |  | szolgálati részlegvezető |  |  |  |  |  |
+| 29. |  |  | szolgálati részlegvezető |  |  |  | szaktanfolyam |  |
 
-| 30. |  |  | nyomozó |  |  |  |  |  |
+| 30. |  |  | nyomozó |  |  |  | szaktanfolyam |  |
 
-| 31. |  |  | vizsgáló |  |  |  |  |  |
+| 31. |  |  | vizsgáló |  |  |  | szaktanfolyam |  |
 
-| 32. | Területi | IV. | szakértő (okmány és gépjármű) | főtörzs- zászlós |  |  | szaktan- folyam |  |
+| 32. | Területi | IV. | szakértő (okmány és gépjármű) | főtörzs- zászlós |  |  | szaktanfolyam |  |
 
-| 33. |  |  | őrparancsnok |  |  |  |  |  |
+| 33. |  |  | őrparancsnok |  |  |  | – |  |
 
-| 34. |  |  | PSZH parancsnok |  |  |  |  |  |
+| 34. |  |  | PSZH parancsnok |  |  |  | szaktanfolyam |  |
 
-| 35. |  |  | fedélzeti szolgálattevő |  |  |  |  |  |
+| 35. |  |  | fedélzeti szolgálattevő |  |  |  | szaktanfolyam |  |
 
 |  |  |  | (helikopter hajózó) |  |  |  |  |  |
 
-| 36. |  |  | szakoktató |  |  |  |  |  |
+| 36. |  |  | szakoktató |  |  |  | szaktanfolyam |  |
 
-| 37. |  |  | szolgálatvezető |  |  |  |  |  |
+| 37. |  |  | szolgálatvezető |  |  |  | – |  |
 
-| 38. |  |  | raktárvezető |  |  |  |  |  |
+| 38. |  |  | raktárvezető |  |  |  | – |  |
 
-| 39. |  |  | technikus |  |  |  |  |  |
+| 39. |  |  | technikus |  |  |  | – |  |
 
-| 40. |  |  | tűzszerész |  |  |  |  |  |
+| 40. |  |  | tűzszerész |  |  |  | szaktanfolyam |  |
 
-| 41. |  |  | ügyeletes |  |  |  |  |  |
+| 41. |  |  | ügyeletes |  |  |  | szaktanfolyam |  |
 
-| 42. |  |  | vízágyú-gépkocsi- parancsnok |  |  |  |  |  |
+| 42. |  |  | vízágyú-gépkocsi- parancsnok |  |  |  | – |  |
 
-| 43. |  |  | segédelőadó |  |  |  |  |  |
+|  |  |  |  |  |  | – |  |
 
-| 44. |  | III. | járőrvezető | főtörzs- zászlós |  |  |  |  |
+| 43. |  |  | segédelőadó |  |  |  | – |  |
+
+| 44. |  | III. | járőrvezető | főtörzs- zászlós |  |  | – |  |
 
 | 45. |  |  | szolgálatparancs- nok-helyettes |  |  |  |  |  |
 
-| 46. |  |  | fogdaőr I. |  |  |  |  |  |
+| 46. |  |  | fogdaőr I. |  |  |  | szaktanfolyam |  |
 
-| 47. |  |  | futár I. |  |  |  |  |  |
+| 47. |  |  | futár I. |  |  |  | – |  |
 
-| 48. |  |  | kísérőőr |  |  | rendészeti szakközép- iskolai végzettség, rendőr vagy határrendé- szeti szakképe- sítés, vagy részszak- képesítés |  |  |
+| 48. |  |  | kísérőőr |  |  | rendészeti szakközép- iskolai végzettség, rendőr vagy határrendé- szeti szakképe- sítés, vagy részszak- képesítés | – |  |
 
-| 49. |  |  | objektumőr (KR) |  |  |  |  |
+| 49. |  |  | objektumőr (KR) |  |  | – |  |
 
-| 50. |  |  | kutyavezető |  |  | rendészeti szakközép- iskolai végzettség, rendőr vagy határrendé- szeti |  |  |
+| 50. |  |  | kutyavezető |  |  | rendészeti szakközép- iskolai végzettség, rendőr vagy határrendé- szeti | szaktanfolyam |  |
 
-| 51. |  |  | műmester |  |  | szakképe- sítés | szaktan- folyam |  |
+| 51. |  |  | műmester |  |  | szakképe- sítés | szaktanfolyam |  |
 
 |  |  | (fegyver, |  |  |  |
 
 |  |  | vegyivédelmi) |  |  |  |
 
-| 52. |  |  | főhatárrendész |  |  |  |  |  |
+| 52. |  |  | főhatárrendész |  |  |  | szaktanfolyam |  |
 
-| 53. |  |  | járőrvezető (bevetési) |  |  |  |  |  |
+| 53. |  |  | járőrvezető (bevetési) |  |  |  | szaktanfolyam |  |
 
-| 54. |  |  | zenész |  |  |  |  |  |
+| 54. |  |  | zenész |  |  |  | – |  |
 
-| 55. |  |  | járőr |  |  |  |  |  |
+| 55. |  |  | járőr |  |  |  | – |  |
 
-| 56. |  |  | fogdaőr II. |  |  |  |  |  |
+| 56. |  |  | fogdaőr II. |  |  |  | – |  |
 
-| 57. |  |  | Kiképző |  |  |  |  |  |
+| 57. |  |  | Kiképző |  |  |  | – |  |
 
-| 58. |  |  | kísérőőr |  |  | rendészeti szakközépiskolai végzettség, rendőr vagy határrendé- szeti szakképe- sítés, vagy részszak- képesítés |  |  |
+| 58. |  |  | kísérőőr |  |  | rendészeti szakközépiskolai végzettség, rendőr vagy határrendé- szeti szakképe- sítés, vagy részszak- képesítés | – |  |
 
-| 59. |  |  | gépjárművezető (KR) |  |  |  |  |  |
+| 59. |  |  | gépjárművezető (KR) |  |  |  | – |  |
 
-| 60. |  | II. | objektumőr | főtörzs- őrmester |  | rendészeti |  |  |
+| 60. |  | II. | objektumőr | főtörzs- őrmester |  | rendészeti | – |  |
 
 |  |  |  |  |  |  | szakközép- iskolai végzettség, rendőr vagy határrendé- szeti szakképe- sítés |  |  |
 
-| 61. |  |  | PSZH lövész |  |  |  |  |
+| 61. |  |  | PSZH lövész |  |  | – |  |
 
-| 62. |  |  | PSZH vezető |  |  |  |  |
+| 62. |  |  | PSZH vezető |  |  | – |  |
 
 |  |  |  | vízágyúgépkocsi kezelő gépjármű- |  |  |  |  |
 
-| 63. |  |  | vezető |  |  |  |  |  |
+| 63. |  |  | vezető |  |  |  | – |  |
 
-| 65. |  |  | Szolgálat- parancsnok |  |  |  |  |  |
+| 65. |  |  | Szolgálat- parancsnok |  |  |  | szaktanfolyam |  |
 
-| 66. |  |  | csoportvezető |  |  |  |  |  |
+| 66. |  |  | csoportvezető |  |  |  | szaktanfolyam |  |
 
-| 67. |  |  | szolgálati részlegvezető |  |  |  | szak-tanfolyam |
+| 67. |  |  | szolgálati részlegvezető |  |  |  | – |
 
-| 68. |  |  | szolgálati csoportvezető |  |  |  |  |  |
+| 68. |  |  | szolgálati csoportvezető |  |  |  | – |  |
 
-| 69. | Helyi | IV. | őrparancsnok | főtörzs-zászlós |  |  |  |  |
+| 69. | Helyi | IV. | őrparancsnok | főtörzs-zászlós |  |  | szaktanfolyam |  |
 
-| 70. |  |  | szakértő (okmány és gépjármű) |  |  |  |  |  |
+| 70. |  |  | szakértő (okmány és gépjármű) |  |  |  | szaktanfolyam |  |
 
-| 71. |  |  | referens |  |  |  |  |  |
+| 71. |  |  | referens |  |  |  | – |  |
 
-| 72. |  |  | őrsparancsnok- helyettes |  |  |  |  |  |
+| 72. |  |  | őrsparancsnok- helyettes |  |  |  | szaktanfolyam |  |
 
-| 73. |  |  | helyszínelő |  |  |  |  |  |
+| 73. |  |  | helyszínelő |  |  |  | szaktanfolyam |  |
 
-| 74. |  |  | helyszínelő és baleset-vizsgáló |  |  |  |  |  |
+| 74. |  |  | helyszínelő és baleset-vizsgáló |  |  |  | szaktanfolyam |  |
 
-| 75. |  |  | nyomozó |  |  |  |  |  |
+| 75. |  |  | nyomozó |  |  |  | szaktanfolyam |  |
 
-| 76. |  |  | technikus |  |  |  |  |  |
+| 76. |  |  | technikus |  |  |  | szaktanfolyam |  |
 
-| 77. |  |  | ügyeletes |  |  |  |  |  |
+| 77. |  |  | ügyeletes |  |  |  | szaktanfolyam |  |
 
-| 78. |  |  | vizsgáló |  |  |  |  |
+| 78. |  |  | vizsgáló |  |  |  | szaktanfolyam |
 
-| 79. |  |  | körzeti megbízott |  |  |  |  |  |
+| 79. |  |  | körzeti megbízott |  |  |  | szaktanfolyam |  |
 
-| 80. |  |  | járőrvezető |  |  |  |  |  |
+| 80. |  |  | járőrvezető |  |  |  | – |  |
 
-| 81. |  |  | fogdaőr I. |  |  |  |  |  |
+| 81. |  |  | fogdaőr I. |  |  |  | – |  |
 
-| 82. |  |  | főhatárrendész |  |  |  |  |  |
+| 82. |  |  | főhatárrendész |  |  |  | – |  |
 
-| 83. |  |  | főútlevél-kezelő |  |  |  |  |  |
+| 83. |  |  | főútlevél-kezelő |  |  |  | – |  |
 
-| 84. |  | III. | hajóvezető | főtörzs-zászlós |  |  |  |  |
+| 84. |  | III. | hajóvezető | főtörzs-zászlós |  |  | – |  |
 
-| 85. |  |  | hajóvizsgáló |  |  |  | szak-tanfolyam |  |
+| 85. |  |  | hajóvizsgáló |  |  |  | szaktanfolyam |  |
 
-| 86. |  |  | kutyavezető |  |  |  |  |  |
+| 86. |  |  | kutyavezető |  |  |  | szaktanfolyam |  |
 
-| 87. |  |  | segédelőadó |  |  |  |  |  |
+| 87. |  |  | segédelőadó |  |  |  | – |  |
 
-| 88. |  |  | segéd-technikus |  |  |  |  |  |
+| 88. |  |  | segéd-technikus |  |  |  | – |  |
 
-| 89. |  |  | járőr |  |  |  |  |  |
+| 89. |  |  | járőr |  |  |  | – |  |
 
-| 90. |  |  | fogdaőr II. |  |  |  |  |  |
+| 90. |  |  | fogdaőr II. |  |  |  | – |  |
 
-| 91. |  |  | határrendész |  |  |  |  |  |
+| 91. |  |  | határrendész |  |  |  | – |  |
 
-| 92. |  | II. | útlevélkezelő | főtörzsőrmester |  |  |  |  |
+| 92. |  | II. | útlevélkezelő | főtörzsőrmester |  |  | – |  |
 
-| 93. |  |  | kísérőőr |  |  | rendészeti szakközépiskolai végzettség, rendőr vagy határrendészeti szakképesítés (rész szakképesítés), |  |  |
+| 93. |  |  | kísérőőr |  |  | rendészeti szakközépiskolai végzettség, rendőr vagy határrendészeti szakképesítés (rész szakképesítés), | – |  |
 
-| 94. |  |  | motorcsónak- vezető |  |  | rendészeti szakközépiskolai végzettség, rendőr vagy határrendészeti szakképesítés (rész szakképesítés) |  |  |
+| 94. |  |  | motorcsónak- vezető |  |  | rendészeti szakközépiskolai végzettség, rendőr vagy határrendészeti szakképesítés (rész szakképesítés) | szaktanfolyam |  |
 
-| 95. |  |  | mozgóőr |  |  |  |  |  |
+| 95. |  |  | mozgóőr |  |  |  | – |  |
 
-| 96. |  |  | objektumőr |  |  | rendészeti szakközépiskolai végzettség, rendőr vagy határrendészeti szakképesítés (rész szakképesítés), |  |  |
+| 96. |  |  | objektumőr |  |  | rendészeti szakközépiskolai végzettség, rendőr vagy határrendészeti szakképesítés (rész szakképesítés), | – |  |
 
-| 97. |  | Pályakezdő |  | őrmester |  | rendészeti szakközépiskolai végzettség, rendőr vagy határrendészeti szakképesítés (rész szakképesítés) |  |  |
+| 97. |  | Pályakezdő |  | őrmester |  | rendészeti szakközépiskolai végzettség, rendőr vagy határrendészeti szakképesítés (rész szakképesítés) | – |  |
 
 |  | MEGJEGYZÉS: |  |  |
 
@@ -570,21 +566,19 @@
 
 |  | Egyéb rövidítések: |  |  |
 
-|  | RIASZTSZ: rendészeti irányultságú akkreditált szakirányú továbbképzési szak | RVK: rendészeti vezetővé képző tanfolyam |
+|  | RSZV: rendészeti szakvizsga |  | RVK: rendészeti vezetővé képző tanfolyam |
 
-|  | RSZVI: rendészeti szakvizsga |  | RMVK: rendészeti mestervezetővé képző tanfolyam |
+|  | ÁFSZ: Állami Futárszolgálat |  | RMVK: rendészeti mestervezetővé képző tanfolyam |
 
-|  | ÁFSZ: Állami Futárszolgálat |  | LRP: Légirendészeti Parancsnokság |
+|  | BRFK: Budapesti Rendőr-főkapitányság |  | LRP: Légirendészeti Parancsnokság |
 
-|  | BRFK: Budapesti Rendőr-főkapitányság |  | MRFK: Megyei Rendőr-főkapitányság |
+|  | PMRFK: Pest Megyei Rendőr-főkapitányság |  | MRFK: Megyei Rendőr-főkapitányság |
 
-|  | PMRFK: Pest Megyei Rendőr-főkapitányság |  | TŰSZ: Készenléti Rendőrség Tűzszerész Szolgálat |
+|  | ORFK DOK: ORFK Dunakeszi Oktatási Központ |  | TŰSZ: Készenléti Rendőrség Tűzszerész Szolgálat |
 
-|  | ORFK DOK: ORFK Dunakeszi Oktatási Központ |  | KR SZO: Készenléti Rendőrség Személy- és Objektumvédelmi Igazgatóság |
+|  | ORFK RSZKK: ORFK Rendészeti Szervek Kiképző Központja | KR SZO: Készenléti Rendőrség Személy- és Objektumvédelmi Igazgatóság |
 
-|  | ORFK RSZKK: ORFK Rendészeti Szervek Kiképző Központja |
-
-|  | ORFK NEBEK: ORFK Nemzetközi Bűnügyi Együttműködési Központ |  |
+|  | ORFK NEBEK: ORFK Nemzetközi Bűnügyi Együttműködési Központ |  |  |
 
 |  | ORFK BEI: ORFK Bűnügyi Ellátó Igazgatóság |  |
 
@@ -598,21 +592,21 @@
 
 | 2. | Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-| 3. |  | a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | főigazgató | tábornok | egyetem | szakirányú felsőfokú | RIASZTSZ+ RMVK vagy RSZVI+ RVK+ RMVK | pszichológiai alkalmasság |
+| 3. |  | a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | főigazgató | tábornok | egyetem | szakirányú felsőfokú | RSZV+RVK+RMVK | pszichológiai alkalmasság |
 
-| 4. | NVSZ |  | főigazgató- helyettes |  | egyetem vagy főiskola |  |  |  |
+| 4. | NVSZ |  | főigazgató- helyettes |  | egyetem vagy főiskola |  | RSZV+RVK+RMVK |  |
 
-| 5. |  | főosztály- vezetői illetményre jogosult | igazgató | ezredes |  |  |  |  |
+| 5. |  | főosztály- vezetői illetményre jogosult | igazgató | ezredes |  |  | RSZV+RVK+RMVK |  |
 
-| 6. |  |  | igazgató- helyettes |  |  |  |  |  |
+| 6. |  |  | igazgató- helyettes |  |  |  | RSZV+RVK+RMVK |  |
 
-| 7. |  |  | főosztály- vezető |  |  |  |  |  |
+| 7. |  |  | főosztály- vezető |  |  |  | RSZV+RVK+RMVK |  |
 
-| 8. |  |  | hivatal-vezető |  |  |  |  |  |
+| 8. |  |  | hivatal-vezető |  |  |  | RSZV+RVK+RMVK |  |
 
-| 9. |  | főosztály- vezető- helyettesi illetményre jogosult | főosztály- vezető- helyettes |  |  |  | RIASZTSZ vagy RSZVI+RVK |  |
+| 9. |  | főosztály- vezető- helyettesi illetményre jogosult | főosztály- vezető- helyettes |  |  |  | RSZV + RVK |  |
 
-| 10. |  | osztály-vezetői illetményre jogosult | osztály-vezető | alezredes |  |  |  |  |
+| 10. |  | osztály-vezetői illetményre jogosult | osztály-vezető | alezredes |  |  | RSZV + RVK |  |
 
 ## I. Besorolási osztály
 
@@ -622,11 +616,11 @@
 
 | 2. | Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-|  |  | VI. | kiemelt főreferens | alezredes | egyetem vagy főiskola | szakirányú felsőfokú | RIASZTSZ vagy RSZVI | pszichológiai alkalmasság |
+|  |  | VI. | kiemelt főreferens | alezredes | egyetem vagy főiskola | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
 
 | 3. | NVSZ |  |  |  |  |  |  |
 
-| 4. |  | V. | főreferens |  |  |  | - |  |
+| 4. |  | V. | főreferens |  |  |  | – |  |
 
 ## II. Besorolási osztály
 
@@ -642,11 +636,9 @@
 
 ## NVSZ: Nemzeti Védelmi Szolgálat
 
-## RIASZTSZ: rendészeti irányultságú akkreditált szakirányú továbbképzési szak
-
 ## RMVK: rendészeti mestervezetővé képző tanfolyam
 
-## RSZVI: rendészeti szakvizsga
+## RSZV: rendészeti szakvizsga
 
 ## RVK: rendészeti vezetővé képző tanfolyam
 
@@ -660,25 +652,25 @@
 
 | 2. | Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-| 3. | TEK | a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | főigazgató | tábornok | egyetem vagy főiskola | szakirányú felsőfokú | RIASZTSZ + RMVK vagy RSZVI + RVK + RMVK | pszichológiai alkalmasság |
+| 3. | TEK | a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | főigazgató | tábornok | egyetem vagy főiskola | szakirányú felsőfokú | RSZV+RVK+ RMVK | pszichológiai alkalmasság |
 
-| 4. |  |  | főigazgató- helyettes |  |  |  |  |  |
+| 4. |  |  | főigazgató- helyettes |  |  |  | RSZV+RVK+ RMVK |  |
 
-| 5. |  | főosztály- vezetői illetményre jogosult | igazgató | ezredes |  |  |  |  |
+| 5. |  | főosztály- vezetői illetményre jogosult | igazgató | ezredes |  |  | RSZV+RVK+ RMVK |  |
 
 | 5a. |  |  | igazgatóhelyettes |  |  |  |  |  |
 
 | 5b. |  |  | kiemelt főtanácsadó |  |  |  |  |  |
 
-| 6. |  |  | hivatalvezető |  |  |  |  |  |
+| 6. |  |  | hivatalvezető |  |  |  | RSZV+RVK+ RMVK |  |
 
-| 7. |  |  | főosztály- vezető |  |  |  |  |  |
+| 7. |  |  | főosztály- vezető |  |  |  | RSZV+RVK+ RMVK |  |
 
-| 8. |  | főosztály- vezető- helyettesi illetményre jogosult | főosztály- vezető- helyettes |  |  |  | RIASZTSZ vagy RSZVI + RVK |  |
+| 8. |  | főosztály- vezető- helyettesi illetményre jogosult | főosztály- vezető- helyettes |  |  |  | RSZV + RVK |  |
 
-| 9. |  | osztály-vezetői illetményre jogosult | osztályvezető | alezredes |  |  |  |  |
+| 9. |  | osztály-vezetői illetményre jogosult | osztályvezető | alezredes |  |  | RSZV + RVK |  |
 
-| 10. |  |  | irodavezető |  |  |  |  |  |
+| 10. |  |  | irodavezető |  |  |  | RSZV + RVK |  |
 
 ## I. Besorolási osztály
 
@@ -688,35 +680,35 @@
 
 | 2. | Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-| 3. | TEK | VI. | kiemelt főreferens | alezredes | egyetem vagy főiskola | szakirányú felsőfokú | RIASZTSZ vagy RSZVI | pszichológiai alkalmasság |
+| 3. | TEK | VI. | kiemelt főreferens | alezredes | egyetem vagy főiskola | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
 
-| 4. |  |  | osztályvezető- helyettes |  |  |  |  |  |
+| 4. |  |  | osztályvezető- helyettes |  |  |  | RSZV |  |
 
-| 5. |  |  | belső ellenőr |  |  |  |  |  |
+| 5. |  |  | belső ellenőr |  |  |  | RSZV |  |
 
-| 6. |  |  | jogtanácsos |  |  |  |  |  |
+| 6. |  |  | jogtanácsos |  |  |  | RSZV |  |
 
-| 7. |  |  | csoportvezető |  |  |  |  |  |
+| 7. |  |  | csoportvezető |  |  |  | RSZV |  |
 
-| 8. |  |  | pszichológus |  |  |  |  |  |
+| 8. |  |  | pszichológus |  |  |  | RSZV |  |
 
-| 9. |  |  | ügyeletvezető |  |  |  |  |  |
+| 9. |  |  | ügyeletvezető |  |  |  | RSZV |  |
 
-| 10. |  | V. | főreferens |  |  |  |  |  |
+| 10. |  | V. | főreferens |  |  |  | – |  |
 
-| 11. |  |  | kiemelt főelőadó |  |  |  |  |  |
+| 11. |  |  | kiemelt főelőadó |  |  |  | – |  |
 
-| 12. |  |  | mentőtiszt |  |  |  |  |  |
+| 12. |  |  | mentőtiszt |  |  |  | – |  |
 
-| 13. |  |  | kiemelt biztonsági főtiszt |  |  |  |  |  |
+| 13. |  |  | kiemelt biztonsági főtiszt |  |  |  | – |  |
 
-| 14. |  |  | főmérnök |  |  |  |  |  |
+| 14. |  |  | főmérnök |  |  |  | – |  |
 
-| 15. |  | IV. | főelőadó | őrnagy |  |  |  |  |
+| 15. |  | IV. | főelőadó | őrnagy |  |  | – |  |
 
-| 16. |  |  | szolgálat- parancsnok |  |  |  |  |  |
+| 16. |  |  | szolgálat- parancsnok |  |  |  | – |  |
 
-| 17. |  | III. | előadó | százados |  |  |  |  |
+| 17. |  | III. | előadó | százados |  |  | – |  |
 
 ## II. Besorolási osztály
 
@@ -726,19 +718,19 @@
 
 | 2. | Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-| 3. | TEK | IV. | referens | főtörzszászlós | középiskola | rendészeti szakközép- iskolai végzettség, rendőr vagy határ-rendészeti szakképesítés | - | pszichológiai alkalmasság |
+| 3. | TEK | IV. | referens | főtörzszászlós | középiskola | rendészeti szakközép- iskolai végzettség, rendőr vagy határ-rendészeti szakképesítés | – | pszichológiai alkalmasság |
 
-| 4. |  |  | gépjármű- vezető | főtörzszászlós | középiskola | rendészeti szakközép- iskolai végzettség, rendőr vagy határ- rendészeti szakképesítés, vagy objektumőr- kísérő, vagy kormányőr részszak- képesítés |  |  |
+| 4. |  |  | gépjármű- vezető | főtörzszászlós | középiskola | rendészeti szakközép- iskolai végzettség, rendőr vagy határ- rendészeti szakképesítés, vagy objektumőr- kísérő, vagy kormányőr részszak- képesítés | – |  |
 
-| 5. |  |  | biztonsági gépjármű- vezető |  |  |  |  |  |
+| 5. |  |  | biztonsági gépjármű- vezető |  |  |  | – |  |
 
-| 6. |  |  | lakásbiztosító |  |  |  |  |  |
+| 6. |  |  | lakásbiztosító |  |  |  | – |  |
 
-| 7. |  |  | helyszín- biztosító |  |  |  |  |  |
+| 7. |  |  | helyszín- biztosító |  |  |  | – |  |
 
-| 8. |  |  | objektumőr |  |  |  |  |  |
+| 8. |  |  | objektumőr |  |  |  | – |  |
 
-| 9. |  |  | szolgálat- parancsnok |  |  | rendészeti szakközép- iskolai végzettség, rendőr vagy határ-rendészeti szakképesítés |  |  |
+| 9. |  |  | szolgálat- parancsnok |  |  | rendészeti szakközép- iskolai végzettség, rendőr vagy határ-rendészeti szakképesítés | – |  |
 
 | 10. |  |  | tűzszerész |  |  | rendészeti szakközép- iskolai végzettség, rendőr vagy határ-rendészeti szakképesítés | szaktanfolyam |  |
 
@@ -746,9 +738,7 @@
 
 ## TEK: Terrorelhárítási Központ
 
-## RIASZTSZ: rendészeti irányultságú akkreditált szakirányú továbbképzési szak
-
-## RSZVI: rendészeti szakvizsga
+## RSZV: rendészeti szakvizsga
 
 ## RVK: rendészeti vezetővé képző tanfolyam
 
@@ -772,7 +762,7 @@
 
 | 5. |
 
-| 6. |
+| 6. | RSZV+RVK +RMVK |
 
 | 7. | főosztályvezetői illetményre jogosult | főosztályvezető | ezredes | egyetem vagy főiskola | szakirányú felsőfokú | RSZV+RVK +RMVK |
 
@@ -928,65 +918,65 @@
 
 | 2. | Szerv | Vezető szint | Munkakör (beosztás) | Rendfokozati maximum | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-| 3. | Központi | a Hszt. 245/H. § (2) bek. szerinti illetményre jogosult | főigazgató | tábornok | egyetem | szakirányú felsőfokú | RSZV + RVK + RMVK vagy RIASZTSZ + RMVK vagy szakirányú egyetemi (MA, MSC) + RMVK | pszichológiai alkalmasság |
+| 3. | Központi | a Hszt. 245/H. § (2) bek. szerinti illetményre jogosult | főigazgató | tábornok | egyetem | szakirányú felsőfokú | RSZV+RVK+RMVK | pszichológiai alkalmasság |
 
-| 4. |  | a Hszt. 245/H. § (2) bek. szerinti illetményre jogosult | főigazgató- helyettes | tábornok |  |  |  |  |
+| 4. |  | a Hszt. 245/H. § (2) bek. szerinti illetményre jogosult | főigazgató- helyettes | tábornok |  |  | RSZV+RVK+RMVK |  |
 
-| 5. |  | főosztály- vezetői illetményre jogosult | országos polgári védelmi főfelügyelő | tábornok |  |  |  |
+| 5. |  | főosztály- vezetői illetményre jogosult | országos polgári védelmi főfelügyelő | tábornok |  |  | RSZV+RVK+RMVK |  |
 
-| 6. |  | főosztály- vezetői illetményre jogosult | országos tűzoltósági főfelügyelő | tábornok |  |  |  |  |
+| 6. |  | főosztály- vezetői illetményre jogosult | országos tűzoltósági főfelügyelő | tábornok |  |  | RSZV+RVK+RMVK |  |
 
-| 7. |  | főosztály- vezetői illetményre jogosult | országos iparbiztonsági főfelügyelő | tábornok |  |  |  |  |
+| 7. |  | főosztály- vezetői illetményre jogosult | országos iparbiztonsági főfelügyelő | tábornok |  |  | RSZV+RVK+RMVK |  |
 
-| 8. |  | főosztály- vezetői illetményre jogosult | szolgálat- vezető | tábornok |  |  |  |
+| 8. |  | főosztály- vezetői illetményre jogosult | szolgálat- vezető | tábornok |  |  | RSZV+RVK+RMVK |  |
 
-| 9. | főosztály- vezetői illetményre jogosult | hivatalvezető | ezredes | egyetem vagy főiskola |  |  |  |
+| 9. | főosztály- vezetői illetményre jogosult | hivatalvezető | ezredes | egyetem vagy főiskola |  | RSZV+RVK+RMVK |  |
 
-| 10. | főosztály- vezetői illetményre jogosult | főosztály- vezető | ezredes |  |  |  |  |
+| 10. | főosztály- vezetői illetményre jogosult | főosztály- vezető | ezredes |  |  | RSZV+RVK+RMVK |  |
 
-| 11. | főosztály- vezető- helyettesi illetményre jogosult | főosztály- vezető- helyettes | alezredes |  |  | RSZV + RVK vagy RIASZTSZ vagy szakirányú egyetemi (MA, MSC) |  |
+| 11. | főosztály- vezető- helyettesi illetményre jogosult | főosztály- vezető- helyettes | alezredes |  |  | RSZV+RVK |  |
 
-| 12. | osztályvezetői illetményre jogosult | titkárságvezető | alezredes |  |  |  |
+| 12. | osztályvezetői illetményre jogosult | titkárságvezető | alezredes |  |  | RSZV+RVK |  |
 
-| 13. | osztályvezetői illetményre jogosult | osztályvezető | alezredes |  |  |  |
+| 13. | osztályvezetői illetményre jogosult | osztályvezető | alezredes |  |  | RSZV+RVK |  |
 
-| 14. | Területi | főosztály- vezetői illetményre jogosult | igazgató | tábornok | egyetem |  | RSZV + RVK + RMVK vagy RIASZTSZ + RMVK vagy szakirányú egyetemi (MA, MSC) + RMVK |  |
+| 14. | Területi | főosztály- vezetői illetményre jogosult | igazgató | tábornok | egyetem |  | RSZV+RVK+RMVK |  |
 
-| 15. |  | főosztály- vezetői illetményre jogosult | igazgató- helyettes | ezredes | egyetem vagy főiskola |  |  |
+| 15. |  | főosztály- vezetői illetményre jogosult | igazgató- helyettes | ezredes | egyetem vagy főiskola |  | RSZV+RVK+RMVK |  |
 
-| 16. |  | főosztály- vezetői illetményre jogosult | igazgató (KOK, GEK) | ezredes |  |  |  |
+| 16. |  | főosztály- vezetői illetményre jogosult | igazgató (KOK, GEK) | ezredes |  |  | RSZV+RVK+RMVK |  |
 
-| 17. |  | főosztály- vezető- helyettesi illetményre jogosult | igazgató- helyettes (KOK, GEK) | ezredes |  |  | RSZV + RVK vagy RIASZTSZ vagy szakirányú egyetemi (MA, MSC) |  |
+| 17. |  | főosztály- vezető- helyettesi illetményre jogosult | igazgató- helyettes (KOK, GEK) | ezredes |  |  | RSZV+RVK |  |
 
-| 18. |  | főosztály- vezető- helyettesi illetményre jogosult | fővárosi, megyei polgári védelmi főfelügyelő | alezredes |  |  |  |
+| 18. |  | főosztály- vezető- helyettesi illetményre jogosult | fővárosi, megyei polgári védelmi főfelügyelő | alezredes |  |  | RSZV+RVK |  |
 
-| 19. |  | főosztály- vezető- helyettesi illetményre jogosult | fővárosi, megyei tűzoltósági főfelügyelő | alezredes |  |  |  |
+| 19. |  | főosztály- vezető- helyettesi illetményre jogosult | fővárosi, megyei tűzoltósági főfelügyelő | alezredes |  |  | RSZV+RVK |  |
 
-| 20. |  | főosztály- vezető- helyettesi illetményre jogosult | fővárosi, megyei iparbiztonsági főfelügyelő | alezredes |  |  |  |
+| 20. |  | főosztály- vezető- helyettesi illetményre jogosult | fővárosi, megyei iparbiztonsági főfelügyelő | alezredes |  |  | RSZV+RVK |  |
 
-| 21. |  | főosztály- vezető- helyettesi illetményre jogosult | szolgálat- vezető | alezredes |  |  |  |
+| 21. |  | főosztály- vezető- helyettesi illetményre jogosult | szolgálat- vezető | alezredes |  |  | RSZV+RVK |  |
 
-| 22. |  | osztályvezetői illetményre jogosult | hivatalvezető | alezredes |  |  |  |
+| 22. |  | osztályvezetői illetményre jogosult | hivatalvezető | alezredes |  |  | RSZV+RVK |  |
 
-| 23. |  | osztályvezetői illetményre jogosult | karmester | alezredes |  |  |  |
+| 23. |  | osztályvezetői illetményre jogosult | karmester | alezredes |  |  | RSZV+RVK |  |
 
-| 24. |  | osztályvezetői illetményre jogosult | szakcsoport- vezető (KOK) | alezredes |  |  |  |
+| 24. |  | osztályvezetői illetményre jogosult | szakcsoport- vezető (KOK) | alezredes |  |  | RSZV+RVK |  |
 
-| 25. |  | osztályvezetői illetményre jogosult | osztályvezető | alezredes |  |  |  |
+| 25. |  | osztályvezetői illetményre jogosult | osztályvezető | alezredes |  |  | RSZV+RVK |  |
 
-| 26. | Helyi | főosztály- vezetői illetményre jogosult | katasztrófa- védelmi kirendeltség- vezető (megyeszék- helyi, fővárosi) | ezredes |  |  | RSZV + RVK + RMVK vagy RIASZTSZ + RMVK vagy szakirányú egyetemi (MA, MSC) + RMVK |  |
+| 26. | Helyi | főosztály- vezetői illetményre jogosult | katasztrófa- védelmi kirendeltség- vezető (megyeszék- helyi, fővárosi) | ezredes |  |  | RSZV+RVK+RMVK |  |
 
-| 27. |  | főosztály- vezetői illetményre jogosult | katasztrófa- védelmi kirendeltség- vezető | alezredes |  |  |  |
+| 27. |  | főosztály- vezetői illetményre jogosult | katasztrófa- védelmi kirendeltség- vezető | alezredes |  |  | RSZV+RVK+RMVK |  |
 
-| 28. |  | főosztály- vezető- helyettesi illetményre jogosult | polgári védelmi felügyelő | alezredes |  |  | RSZV + RVK vagy RIASZTSZ vagy szakirányú egyetemi (MA, MSC) |  |
+| 28. |  | főosztály- vezető- helyettesi illetményre jogosult | polgári védelmi felügyelő | alezredes |  |  | RSZV+RVK |  |
 
-| 29. |  | főosztály- vezető- helyettesi illetményre jogosult | tűzoltósági felügyelő | alezredes |  |  |  |
+| 29. |  | főosztály- vezető- helyettesi illetményre jogosult | tűzoltósági felügyelő | alezredes |  |  | RSZV+RVK |  |
 
-| 30. |  | főosztály- vezető- helyettesi illetményre jogosult | iparbiztonsági felügyelő | alezredes |  |  |  |
+| 30. |  | főosztály- vezető- helyettesi illetményre jogosult | iparbiztonsági felügyelő | alezredes |  |  | RSZV+RVK |  |
 
-| 31. |  | osztályvezetői illetményre jogosult | tűzoltóparancsnok | alezredes |  |  |  |  |
+| 31. |  | osztályvezetői illetményre jogosult | tűzoltóparancsnok | alezredes |  |  | RSZV+RVK |  |
 
-| 32. |  | osztályvezetői illetményre jogosult | osztályvezető | alezredes |  |  |  |  |
+| 32. |  | osztályvezetői illetményre jogosult | osztályvezető | alezredes |  |  | RSZV+RVK |  |
 
 ## I. Besorolási osztály
 
@@ -998,97 +988,97 @@
 
 | 3. | Központi | VI. | alosztályvezető | alezredes | egyetem vagy főiskola | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
 
-| 4. |  | VI. | kiemelt főreferens | alezredes |  |  |  |  |
+| 4. |  | VI. | kiemelt főreferens | alezredes |  |  | RSZV |  |
 
-| 5. |  | VI. | munka- biztonsági főfelügyelő | alezredes |  |  |  |  |
+| 5. |  | VI. | munka- biztonsági főfelügyelő | alezredes |  |  | RSZV |  |
 
-| 6. |  | VI. | vezető főügyeletes | alezredes |  |  |  |  |
+| 6. |  | VI. | vezető főügyeletes | alezredes |  |  | RSZV |  |
 
-| 7. |  | V. | kiemelt főelőadó | alezredes |  |  |  |  |
+| 7. |  | V. | kiemelt főelőadó | alezredes |  |  | – |  |
 
-| 8. |  | IV. | főelőadó | őrnagy |  |  |  |  |
+| 8. |  | IV. | főelőadó | őrnagy |  |  | – |  |
 
-| 9. |  | III. | előadó | százados |  |  |  |  |
+| 9. |  | III. | előadó | százados |  |  | – |  |
 
-| 10. |  | II. | fogalmazó | százados |  |  |  |  |
+| 10. |  | II. | fogalmazó | százados |  |  | – |  |
 
 | 11. |  |  |  |  |  |  |  |  |
 
-| 12. |  |  | pályakezdő | hadnagy |  |  |  |  |
+| 12. |  |  | pályakezdő | hadnagy |  |  | – |  |
 
 | 13. | Területi | VI. | alosztályvezető | alezredes |  |  | RSZV |  |
 
-| 14. |  | VI. | kiemelt főreferens | alezredes |  |  |  |  |
+| 14. |  | VI. | kiemelt főreferens | alezredes |  |  | RSZV |  |
 
-| 15. |  | V. | kiemelt főtanár | alezredes |  |  |  |  |
+| 15. |  | V. | kiemelt főtanár | alezredes |  |  | – |  |
 
-| 16. |  | V. | kiemelt főelőadó | alezredes |  |  |  |  |
+| 16. |  | V. | kiemelt főelőadó | alezredes |  |  | – |  |
 
-| 17. |  | V. | kiemelt főellenőr | alezredes |  |  |  |  |
+| 17. |  | V. | kiemelt főellenőr | alezredes |  |  | – |  |
 
-| 18. |  | V. | ügyeletvezető | alezredes |  |  |  |  |
+| 18. |  | V. | ügyeletvezető | alezredes |  |  | – |  |
 
-| 19. |  | V. | karmester- helyettes | alezredes |  |  |  |  |
+| 19. |  | V. | karmester- helyettes | alezredes |  |  | – |  |
 
-| 20. |  | V. | főügyeletes | alezredes |  |  |  |  |
+| 20. |  | V. | főügyeletes | alezredes |  |  | – |  |
 
-| 21. |  | IV. | főelőadó | őrnagy |  |  |  |  |
+| 21. |  | IV. | főelőadó | őrnagy |  |  | – |  |
 
-| 22. |  | IV. | koncertmester | őrnagy |  |  |  |  |
+| 22. |  | IV. | koncertmester | őrnagy |  |  | – |  |
 
-| 23. |  | IV. | főtanár | őrnagy |  |  |  |  |
+| 23. |  | IV. | főtanár | őrnagy |  |  | – |  |
 
-| 24. |  | IV. | csoportvezető | őrnagy |  |  |  |  |
+| 24. |  | IV. | csoportvezető | őrnagy |  |  | – |  |
 
-| 25. |  | IV. | ügyeletes | őrnagy |  |  |  |  |
+| 25. |  | IV. | ügyeletes | őrnagy |  |  | – |  |
 
-| 26. |  | III. | előadó | százados |  |  |  |  |
+| 26. |  | III. | előadó | százados |  |  | – |  |
 
-| 27. |  | III. | szólamvezető | százados |  |  |  |  |
+| 27. |  | III. | szólamvezető | százados |  |  | – |  |
 
-| 28. |  | III. | tanár | százados |  |  |  |  |
+| 28. |  | III. | tanár | százados |  |  | – |  |
 
-| 29. |  | III. | oktató | százados |  |  |  |  |
+| 29. |  | III. | oktató | százados |  |  | – |  |
 
-| 30. |  | II. | fogalmazó | százados |  |  |  |  |
+| 30. |  | II. | fogalmazó | százados |  |  | – |  |
 
 | 31. |  |  |  |  |  |  |  |  |
 
-| 32. |  |  | pályakezdő | hadnagy |  |  |  |  |
+| 32. |  |  | pályakezdő | hadnagy |  |  | – |  |
 
 | 33. | Helyi | VI. | alosztályvezető | alezredes |  |  | RSZV |  |
 
-| 34. |  | VI. | kiemelt főreferens | alezredes |  |  |  |  |
+| 34. |  | VI. | kiemelt főreferens | alezredes |  |  | RSZV |  |
 
-| 35. |  | VI. | parancsnok- helyettes | alezredes |  |  |  |  |
+| 35. |  | VI. | parancsnok- helyettes | alezredes |  |  | RSZV |  |
 
-| 36. |  | V. | szolgálat- parancsnok | alezredes |  |  |  |  |
+| 36. |  | V. | szolgálat- parancsnok | alezredes |  |  | – |  |
 
-| 37. |  | V. | csoportvezető | alezredes |  |  |  |  |
+| 37. |  | V. | csoportvezető | alezredes |  |  | – |  |
 
-| 38. |  | V. | kiemelt főelőadó | alezredes |  |  |  |  |
+| 38. |  | V. | kiemelt főelőadó | alezredes |  |  | – |  |
 
-| 39. |  | V. | műszaki biztonsági tiszt | alezredes |  |  |  |  |
+| 39. |  | V. | műszaki biztonsági tiszt | alezredes |  |  | – |  |
 
-| 40. |  | V. | őrsparancsnok | alezredes |  |  |  |  |
+| 40. |  | V. | őrsparancsnok | alezredes |  |  | – |  |
 
-| 41. |  | V. | hajóskapitány | alezredes |  |  |  |  |
+| 41. |  | V. | hajóskapitány | alezredes |  |  | – |  |
 
-| 42. |  | IV. | rajparancsnok | őrnagy |  |  |  |  |
+| 42. |  | IV. | rajparancsnok | őrnagy |  |  | – |  |
 
-| 43. |  | IV. | katasztrófa- védelmi megbízott | őrnagy |  |  |  |  |
+| 43. |  | IV. | katasztrófa- védelmi megbízott | őrnagy |  |  | – |  |
 
-| 44. |  | IV. | főelőadó | őrnagy |  |  |  |  |
+| 44. |  | IV. | főelőadó | őrnagy |  |  | – |  |
 
-| 45. |  | III. | előadó | százados |  |  |  |  |
+| 45. |  | III. | előadó | százados |  |  | – |  |
 
-| 46. |  | III | szerparancs- nok | százados |  |  |  |  |
+| 46. |  | III | szerparancs- nok | százados |  |  | – |  |
 
-| 47. |  | II. | fogalmazó | százados |  |  |  |  |
+| 47. |  | II. | fogalmazó | százados |  |  | – |  |
 
 | 48. |  |  |  |  |  |  |  |  |
 
-| 49. |  |  | pályakezdő | hadnagy |  |  |  |  |
+| 49. |  |  | pályakezdő | hadnagy |  |  | – |  |
 
 ## II. Besorolási osztály
 
@@ -1158,12 +1148,10 @@
 
 ## 3. RMVK: rendészeti mestervezetővé képző tanfolyam
 
-## 4. RIASZTSZ: rendészeti irányultságú akkreditált szakirányú továbbképzési szak
-
 ## 5. KOK: Katasztrófavédelmi Oktatási Központ
 
 ## 6. GEK: BM OKF Gazdasági Ellátó Központ
 
-2. melléklet a 65/2011. (XII. 30.) BM rendelethez[^20]
+2. melléklet a 65/2011. (XII. 30.) BM rendelethez[^21]
 
-[^20]: A 2. melléklet a 31/2012. (VI. 28.) BM rendelet 19. §-a szerint módosított szöveg.
+[^21]: A 2. melléklet a 31/2012. (VI. 28.) BM rendelet 19. §-a szerint módosított szöveg.

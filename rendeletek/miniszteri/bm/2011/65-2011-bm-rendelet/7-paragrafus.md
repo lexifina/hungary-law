@@ -2,6 +2,6 @@
 
 7. § (1) Ez a rendelet 2012. január 1-jén lép hatályba.
 
-(2)[^18]
+(2)[^19]
 
-[^18]: A 7. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 7. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
