@@ -1,3 +1,3 @@
-## 6. §[^12] A 3. § (1) bekezdés g) pontjában, valamint (2) bekezdés b) és g)–i) pontjában meghatározott indikátorok esetében 2013. október 1-jéig a célérték az adott indikátorban érintett praxisok legjobb eredményt elérő 25%-ának legalacsonyabb értéke. A 3. § (2) bekezdés e) pontjában meghatározott indikátor esetében a célértéket az teljesíti, aki nem haladja meg az indikátor alsó kvartilisének felső határát. A célértékeket az OEP a honlapján havonta teszi közzé.
+## 6/A. §[^13] Az orvosok gyógyszerrendelése értékelésének tekintetében 2015. év első félévében a 2014. év második félévében hatályos 2. melléklet szerinti célértékek alkalmazandók.
 
-[^12]: A 6. § a 35/2012. (X. 31.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^13]: A 6/A. §-t a 3/2015. (I. 14.) EMMI rendelet 33. §-a iktatta be.
