@@ -14,7 +14,7 @@ I. Általános tájékoztatás a jelzáloghitelekről
 
 2.2. a jelzáloghitel biztosítékai,
 
-2.3. a hitelező által kínált jelzáloghitelek típusai, a rögzített és a változó kamatozású hitelek közötti különbségek rövid ismertetésével beleértve a fogyasztót érintő hatásokat,
+2.3. a hitelező által kínált jelzáloghitelek típusai, a rögzített és a változó kamatozású hitelek közötti különbségek rövid ismertetésével beleértve a fogyasztót érintő hatásokat; alkalmazása esetén kamatfelár, kamatváltoztatási vagy kamatfelár-változtatási mutató,
 
 2.4. a kamatozás típusai: rögzített, változó és ezek kombinációi,
 

@@ -1,3 +1,3 @@
-13. § (1) A jelzáloghitel-szerződés tervezetének (mintaszerződés) egy példányát a fogyasztó részére díj-, költség- vagy egyéb fizetési kötelezettségmentesen rendelkezésére kell bocsátani.
+13. § (1) Jelzáloghitel és ingatlanra vonatkozó pénzügyi lízing igénylése esetén a 8. § (1) bekezdését és a 9. §-t azzal kell alkalmazni, hogy a szerződés tervezetét a fogyasztó kérése nélkül is legalább hét nappal a szerződéskötést megelőzően a fogyasztó rendelkezésére kell bocsátani.
 
-(2) Nem kell alkalmazni az (1) bekezdést, ha a hitelező a fogyasztóval nem kíván szerződést kötni.
+(2) Az (1) bekezdés szerinti szerződések elektronikus úton nem köthetők meg, ez azonban nem akadálya annak, hogy a tájékoztatási kötelezettség teljesítése és annak igazolása, valamint a szerződés tervezetének rendelkezésre bocsátása tekintetében a felek a 8. § (2) bekezdése szerinti elektronikus utat vegyék igénybe, ha annak feltételei fennállnak.

@@ -1,3 +1,1 @@
-10. § (1) A fogyasztó kérésére a hitelszerződés tervezetének egy példányát (mintaszerződés) díj-, költség- és egyéb fizetési kötelezettségmentesen rendelkezésére kell bocsátani.
-
-(2) Nem kell alkalmazni az (1) bekezdést, ha a hitelező a fogyasztóval nem kíván szerződést kötni.
+10. § Ha a hitelszerződés megkötése a fogyasztó kérése alapján a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény (a továbbiakban: Tétv.) szerinti olyan távközlő eszköz útján történik, amely a 6. § és 7. § szerinti előzetes tájékoztatást nem teszi lehetővé, így különösen, ha az a Tétv. 4. § (3) bekezdése szerint telefonon történik, a hitelező és a hitelközvetítő a hitelszerződés megkötését követően haladéktalanul köteles a 6. § és 7. § szerint a fogyasztóval szemben fennálló tájékoztatási kötelezettségének papíron vagy más tartós adathordozón eleget tenni.

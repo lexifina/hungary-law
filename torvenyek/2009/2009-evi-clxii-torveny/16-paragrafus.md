@@ -64,4 +64,4 @@ d) az elállási jog gyakorlásának feltételeit, módját és jogkövetkezmén
 
 e) a hitelkeret szerződés megkötését követően felmerülő, a hitelkamaton kívüli minden egyéb ellenszolgáltatást – ideértve a díjat, jutalékot, költséget –, és ezek módosításának feltételeit.
 
-(5) Semmis az a szerződés, amelyik nem tartalmazza az e §-ban meghatározott tartalmi elemeket. A szerződés semmisségére csak a fogyasztó érdekében lehet hivatkozni.
+(5) Ha az e § szerinti tartalmi kellék hiánya a szerződés létrejöttét nem érinti, a hitelező a szerződésszegéssel okozott károkért való felelősség szabályai szerint köteles megtéríteni a fogyasztónak a szerződés kellékhiányából származó kárát.

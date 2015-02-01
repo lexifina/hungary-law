@@ -1,1 +1,7 @@
-8. § Ha a hitelszerződés megkötése a fogyasztó kérése alapján a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény (a továbbiakban: Tétv.) szerinti olyan távközlő eszköz útján történik, amely a 6. § és a 7. § (2)–(3) bekezdése szerinti előzetes tájékoztatást nem teszi lehetővé, így különösen, ha az a Tétv. 4. §-ának (3) bekezdése szerint telefonon történik, a hitelező és a hitelközvetítő a hitelszerződés megkötését követően haladéktalanul köteles a 6. § és 7. § (2)–(3) bekezdése szerinti tájékoztatást megadni.
+8. § (1) A fogyasztó a hitelszerződés megkötését megelőző tájékoztatást tartalmazó formanyomtatvány másolatán aláírásával igazolja annak átvételét és azt, hogy az 5–7. §-ban szabályozott tájékoztatást megkapta.
+
+(2) Ha a hitelszerződést a felek azonosított elektronikus úton vagy elektronikus okirati formában kötik meg, akkor az (1) bekezdés szerinti külön aláírásra igazolásként nincs szükség. Ebben az esetben
+
+a) a költség és díj módosulására vonatkozó tájékoztatás elektronikus úton is teljesíthető,
+
+b) a kamatváltozásra vonatkozó tájékoztatást papíron vagy más tartós adathordozón kell teljesíteni.

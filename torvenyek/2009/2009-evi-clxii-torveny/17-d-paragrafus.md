@@ -1,5 +1,3 @@
-## A hitelszerződés feltételei és annak változása
-
 17/D. § (1) Referencia-kamatlábhoz kötött kamatozású hitelszerződés esetén a referencia-kamatláb mértékét a hitelszerződésben meghatározott referenciakamat futamidejének megfelelő időközönként kell a fordulónapot megelőző hónap utolsó munkanapja előtt 2 nappal érvényes referencia-kamatlábhoz igazítani.
 
 (2) A hitelező a hitel futamideje alatt legfeljebb öt alkalommal az egyes kamatperiódusok lejárta után

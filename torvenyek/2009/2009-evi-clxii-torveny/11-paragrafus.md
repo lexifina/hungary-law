@@ -1,7 +1,1 @@
-11. § (1) A hitelező és a hitelközvetítő a 6. §, illetve a 12. § b) pontja szerinti tájékoztatása során köteles a fogyasztónak felvilágosítást adni annak érdekében, hogy a fogyasztó felmérje, hogy a hitel igényeinek és pénzügyi teljesítőképességének megfelel-e.
-
-(2) Az (1) bekezdés szerinti felvilágosítás kiterjed a hitel fő jellemzőire, a hitel fogyasztó pénzügyi helyzetére gyakorolt hatására és a fizetés elmulasztásának következményeire, ideértve a késedelmi kamatra, a hitel felmondására és a biztosítékok érvényesítésére vonatkozó tájékoztatást.
-
-(3) A hitelező és a hitelközvetítő e § szerinti felvilágosítási kötelezettségének egyértelműen és tömören tesz eleget.
-
-(4) A fogyasztó a hitelszerződést megelőző tájékoztatást tartalmazó formanyomtatvány másolatán aláírásával igazolja annak átvételét és azt, hogy az e § szerinti felvilágosítást megkapta.
+11. § Ha a fizetési számlához kapcsolódó hitelkeret-szerződés megkötése a fogyasztó kérése alapján a Tétv. szerinti olyan távközlő eszköz útján történik, amely a 6. § és 7. § szerinti előzetes tájékoztatást nem teszi lehetővé, így különösen ha az a Tétv. 4. § (4) bekezdése szerint telefonon történik, a hitelező és a hitelközvetítő a hitelszerződés megkötését követően haladéktalanul köteles a 6. § és 7. § szerint a fogyasztóval szemben fennálló tájékoztatási kötelezettségének papíron vagy más tartós adathordozón eleget tenni.

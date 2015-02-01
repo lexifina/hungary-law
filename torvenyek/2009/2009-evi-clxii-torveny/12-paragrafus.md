@@ -1,4 +1,4 @@
-12. § (1) A hitelező és adott esetben a hitelközvetítő jelzáloghitel igénylése esetén azt megelőzően, hogy a fogyasztót bármilyen hitelszerződés vagy ajánlat kötné, kellő időben köteles papíron vagy más tartós adathordozón – a fogyasztó által megadott információk alapján – az alábbi tájékoztatást nyújtani a fogyasztónak:
+12. § (1) Jelzáloghitel igénylése esetén a hitelező és adott esetben a hitelközvetítő azt megelőzően, hogy a fogyasztót bármilyen hitelszerződés vagy ajánlat kötné, kellő időben köteles papíron vagy más tartós adathordozón – a fogyasztó által megadott információk alapján – az alábbi tájékoztatást nyújtani a fogyasztónak:
 
 a) általános tájékoztatás a hitelező által kínált jelzáloghitelről a 3. melléklet I. pontjában meghatározott tartalommal,
 

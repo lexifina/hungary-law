@@ -1,0 +1,1 @@
+34. § E törvénynek a Módtv.-nyel megállapított 17/A–17/F. §-át, 18. §-át, 20/A–20/C. §-ait, 21/A. §-át, 21/B. §-át, 28. § (5) bekezdését, 29/A. §-át, valamint 33. §-át a 2004. május 1. napja után kötött, meg nem szűnt fogyasztói szerződésekre kell alkalmazni.

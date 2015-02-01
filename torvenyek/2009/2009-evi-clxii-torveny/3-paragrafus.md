@@ -61,3 +61,9 @@ a) amelyben a felek által okiratban rögzített hitelcél lakóingatlan vásár
 b) amit igazoltan az a) pontban meghatározott célokra nyújtott jelzáloghitel kiváltására használtak fel és ennek összege kizárólag a hitelnyújtók közötti árfolyamkülönbség miatt, valamint az eredeti hiteltartozás lezárásához és az új hitel folyósításához kapcsolódó igazolt díjakkal és költségekkel haladhatja meg az eredeti hiteltartozás kiváltásakor fennálló összeget,
 
 23. Lakáscélú pénzügyi lízing: olyan lízing, amelyben a felek által okiratban rögzített cél lakóingatlan tulajdonjogának harmadik személy eladótól történő, lízingbevevő általi megszerzése.
+
+24. kamatváltoztatási mutató: a hitelezés refinanszírozási költségeihez és a hitel nyújtásához kapcsolódó, az üzleti kockázat körén kívül álló, a hitelezők által nem befolyásolható, tőlük független, valamint általuk el nem hárítható körülményekben bekövetkező változást objektív módon kifejező, a kamatmódosítás számításának alapjául szolgáló és a nyilvánosság számára hozzáférhető viszonyszám,
+
+25. kamatfelár: a referencia-kamatlábon felül – a hitelkamat részeként – fizetendő kamat, a hitelkamat és a referenciakamat különbségeként meghatározott kamatrész,
+
+26. kamatfelár-változtatási mutató: a kamatfelár módosításának alapjául szolgáló kamatváltoztatási mutató.
