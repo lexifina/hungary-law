@@ -1,7 +1,0 @@
-## 122. A szerződés felmondására vonatkozó rendelkezések
-
-283. § (1) A fogyasztóval kötött kölcsönszerződés vagy pénzügyi lízingszerződés felmondását megelőzően a pénzügyi intézmény a fogyasztónak, valamint a szerződésben kezesként részt vevő személynek, továbbá – ha a zálogfedezetet nem a hitelfelvevő nyújtja – a zálogkötelezettnek küldött írásbeli fizetési felszólításban felhívja a fogyasztó, valamint a kezes, illetve a zálogkötelezett figyelmét a teljes fennálló és a lejárt tartozás összegére, a fizetendő kamat és késedelmi kamat mértékére, valamint a nemfizetés esetén növekvő kamatteherre és a tartozás rendezésének elmaradása esetén a várható jogkövetkezményekre.
-
-(2) A fogyasztóval kötött kölcsönszerződés vagy pénzügyi lízingszerződés felmondását a pénzügyi intézmény a fogyasztónak és a kezesnek megküldi. A felmondás megküldésének igazolása a pénzügyi intézményt terheli.
-
-(3) Jelzáloghitel-szerződés felmondását megelőzően a pénzügyi intézmény az (1) bekezdésben meghatározott írásbeli fizetési felszólítással egyidejűleg, az (1) bekezdésben meghatározott tájékoztatás mellett bemutatja a szerződés megkötésétől kezdődően az egyes évekre összesítve – a fogyasztó külön kérése esetén havi bontásban – a fogyasztó által teljesített törlesztő részletek, a visszafizetett tőkeösszeg, az elszámolt kamat, késedelmi kamat és egyéb költségek, továbbá a tőkésített kamat és a fennálló tartozás alakulását.
