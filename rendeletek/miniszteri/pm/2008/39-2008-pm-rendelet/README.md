@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-39-20-5
 | 2013-01-27 | 2008-39-20-53.6 | 47/2012. (XII. 27.) NGM rendelet |
 | 2014-01-30 | 2008-39-20-53.7 | 70/2013. (XII. 30.) NGM rendelet |
 | 2015-01-01 | 2008-39-20-53.8 | 70/2013. (XII. 30.) NGM rendelet |
+| 2015-02-01 | 2008-39-20-53.9 | 46/2014. (XII. 30.) NGM rendelet |
