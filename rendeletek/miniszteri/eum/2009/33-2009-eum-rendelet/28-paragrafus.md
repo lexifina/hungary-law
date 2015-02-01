@@ -18,7 +18,7 @@ B) Személyi feltételek:
 
 1. A vizsgálat vezetőjének rendelkeznie kell:
 
-a) a vizsgálatra kerülő orvostechnikai eszköz tervezett felhasználásának megfelelő klinikai területre meghatározott szakmai protokoll szerinti orvosi szakvizsgával, vagy
+a)[^24] a vizsgálatra kerülő orvostechnikai eszköz tervezett felhasználásának megfelelő klinikai területre meghatározott megfelelő szakorvosi szakvizsgával, vagy
 
 b) a vizsgálatra kerülő orvostechnikai eszköz tervezett felhasználásának megfelelő klinikai területen felsőfokú egészségügyi szakképesítéssel.
 
@@ -28,7 +28,7 @@ a) a vizsgálatra kerülő orvostechnikai eszköz tervezett felhasználásának 
 
 b) a vizsgálatra kerülő orvostechnikai eszköz tervezett felhasználásának megfelelő klinikai területen felsőfokú egészségügyi szakképesítéssel, vagy
 
-c) az eszköz működtetésének megfelelő közép- vagy felsőfokú műszaki végzettséggel.
+c)[^25]
 
 II. Klinikai vizsgálóhely II.a és II.b kockázati osztályba tartozó és minden invazív eszköz vizsgálatához
 
@@ -38,9 +38,9 @@ Olyan egyetemi klinikán vagy kórházban lévő – érvényes minőségbiztos�
 
 B) Személyi feltételek:
 
-1. A vizsgálat vezetőjének rendelkeznie kell:
+1.[^26] A vizsgálat vezetőjének rendelkeznie kell:
 
-a vizsgálatra kerülő orvostechnikai eszköz tervezett felhasználásának megfelelő klinikai területre meghatározott szakmai protokoll szerinti orvosi szakvizsgával.
+a vizsgálatra kerülő orvostechnikai eszköz tervezett felhasználásának megfelelő klinikai területre meghatározott megfelelő szakorvosi szakvizsgával.
 
 2. A vizsgálónak rendelkeznie kell:
 
@@ -48,30 +48,35 @@ a) a vizsgálatra kerülő orvostechnikai eszköz tervezett felhasználásának 
 
 b) a vizsgálatra kerülő orvostechnikai eszköz tervezett felhasználásának megfelelő klinikai területen felsőfokú egészségügyi szakképesítéssel, vagy
 
-c) az eszköz működtetésének megfelelő felsőfokú műszaki végzettséggel.
+c)[^27]
 
-III. Klinikai vizsgálóhely III. kockázati osztályba tartozó és aktív beültethető eszközök vizsgálatához[^24]
+III. Klinikai vizsgálóhely III. kockázati osztályba tartozó és aktív beültethető eszközök vizsgálatához[^28]
 
-A) Tárgyi feltételek:
+A)[^29] Tárgyi feltételek:
 
 Olyan egyetemi klinikán vagy kórházi osztályon, az intézményen belül intenzív terápiás osztályos háttérrel rendelkező – az aktív betegellátástól elkülönített – érvényes minőségbiztosítási tanusítvánnyal rendelkező egység, melynek rendelkezésére állnak a tervezett vizsgálat elvégzéséhez szükséges eszközök, felszerelések.
 
 A vizsgálóhelyen helyben kell biztosítani a külön jogszabályban a központi ügyeletre előírt minimumfeltételek közül a gép-műszerparkra és egyéb eszközökre vonatkozó felszereltséget, kivéve a szülészeti egységcsomagot és a gépkocsit.
 
-A klinikai vizsgálatra szolgáló ágyszámot a vizsgálóhely minősítéséről szóló határozatban kell meghatározni.
-
 B) Személyi feltételek:
 
-1. A vizsgálat vezetőjének rendelkeznie kell:
+1.[^30] A vizsgálat vezetőjének rendelkeznie kell:
 
-a vizsgálatra kerülő orvostechnikai eszköz tervezett felhasználásának megfelelő klinikai területre meghatározott szakmai protokoll szerinti orvosi szakvizsgával.
+a vizsgálatra kerülő orvostechnikai eszköz tervezett felhasználásának megfelelő klinikai területre meghatározott megfelelő szakorvosi szakvizsgával.
 
 2. A vizsgálónak rendelkeznie kell:
 
 a) a vizsgálatra kerülő orvostechnikai eszköz tervezett felhasználásának megfelelő klinikai területre meghatározott szakmai protokoll szerinti orvosi szakvizsgával, vagy
 
-b) az eszköz működtetésének megfelelő felsőfokú műszaki végzettséggel.
+b)[^31]
 
 [^22]: A 27. §-t a 29/2011. (VI. 7.) NEFMI rendelet 28. §-a iktatta be.
 [^23]: A 28. §-t a 29/2011. (VI. 7.) NEFMI rendelet 28. §-a iktatta be.
-[^24]: A melléklet III. címe a 29/2011. (VI. 7. ) NEFMI rendelet 29. §-ával megállapított szöveg.
+[^24]: A Melléklet I. rész B) pont 1. pont a) alpontja a 3/2015. (I. 14.) EMMI rendelet 32. §-a szerint módosított szöveg.
+[^25]: A Melléklet I. rész B) pont 2. pont c) alpontját a 3/2015. (I. 14.) EMMI rendelet 32. §-a hatályon kívül helyezte.
+[^26]: A Melléklet II. rész B) pont 1. pontja a 3/2015. (I. 14.) EMMI rendelet 32. §-a szerint módosított szöveg.
+[^27]: A Melléklet II. rész B) pont 2. pont c) alpontját a 3/2015. (I. 14.) EMMI rendelet 32. §-a hatályon kívül helyezte.
+[^28]: A melléklet III. címe a 29/2011. (VI. 7. ) NEFMI rendelet 29. §-ával megállapított szöveg.
+[^29]: A Melléklet III. rész A) pontja a 3/2015. (I. 14.) EMMI rendelet 32. §-a szerint módosított szöveg.
+[^30]: A Melléklet III. rész B) pont 1. pontja a 3/2015. (I. 14.) EMMI rendelet 32. §-a szerint módosított szöveg.
+[^31]: A Melléklet III. rész B) pont 2. pont b) alpontját a 3/2015. (I. 14.) EMMI rendelet 32. §-a hatályon kívül helyezte.
