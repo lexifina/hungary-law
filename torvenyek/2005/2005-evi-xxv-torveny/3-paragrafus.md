@@ -60,8 +60,8 @@ db) arról, hogy létezik-e olyan – az Országos Betétbiztosítási Alaptól 
 
 (6) A (2) bekezdés aa)–ad), ba)–bb), cb)–cc), ce)–cf) és da) alpontjában meghatározott tájékoztatás helyett a pénzforgalmi szolgáltatásról szóló 2009. évi LXXXV. törvény 8–10. §-ában és 29–31. §-ában előírt tájékoztatást kell megadni, ha pénzforgalmi szolgáltatás nyújtására kerül sor.
 
-(7) A (2)–(3) bekezdésben meghatározott tájékoztatás helyett a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. §-ban és 7. §-ban előírt tájékoztatást kell megadni, ha fogyasztónak nyújtott hitel nyújtására kerül sor.
+(7) A (2)–(3) bekezdésben meghatározott tájékoztatás helyett a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 5–7. §-a szerinti tájékoztatást kell megadni, ha fogyasztónak nyújtott hitel nyújtására kerül sor.
 
-(8) A (2) és (3) bekezdésben meghatározott tájékoztatás helyett a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. § (8) bekezdésében előírt tájékoztatást kell megadni, ha fizetési számlához kapcsolódó hitelkeret nyújtására kerül sor.
+(8) A (2) és (3) bekezdésben meghatározott tájékoztatás helyett a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. § (6) bekezdése szerinti tájékoztatást kell megadni, ha fizetési számlához kapcsolódó hitelkeret nyújtására kerül sor.
 
 (9) Amennyiben az egymást követő ügyletek, illetve az azonos jellegű elkülönült műveletek, amelyek időbeli kapcsolatban állnak egymással, az 1. § (2) bekezdésétől eltérően, alapmegállapodás nélkül ugyanazon felek között kerülnek végrehajtásra, az (1)–(8) bekezdések rendelkezéseit kizárólag az első ügyletre vagy műveletre kell alkalmazni. Ha egy évnél hosszabb ideig nem kerül sor ügylet vagy azonos jellegű művelet teljesítésére, az ezt követő ügyletet vagy műveletet új ügyletnek, illetve egy újabb műveletsor első műveletének kell tekinteni, és arra az (1)–(7) bekezdések rendelkezéseit ismét alkalmazni kell.
