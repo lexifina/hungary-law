@@ -66,13 +66,29 @@ d) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pót
 
 e) aki a kormányzati szolgálati jogviszony alapján végzett tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll.
 
-(3) A külön törvény alapján nemzetbiztonsági ellenőrzés alá eső kormányzati szolgálati jogviszony csak azzal létesíthető, akivel a jogviszony létesítéséhez a nemzetbiztonsági ellenőrzést végző szerv
+(3) A jogszabály alapján nemzetbiztonsági ellenőrzés alá eső kormányzati szolgálati jogviszony nem létesíthető azzal,
 
-a) hozzájárult vagy
+a) aki nemzetbiztonsági ellenőrzéséhez nem járul hozzá,
 
-b) a hozzájárulást megtagadta, de a külön törvény szerint arra feljogosított személy, szerv vagy testület a hivatásos szolgálati jogviszony létesítését jóváhagyta.
+b) akinek nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha a külön törvény szerint arra feljogosított személy, szerv vagy testület a kormányzati szolgálati jogviszony létesítését jóváhagyta.
 
-(4) Ha a nemzetbiztonsági ellenőrzést végző szerv a kormányzati szolgálati jogviszony létesítéséhez szükséges hozzájárulást megtagadta vagy fennálló kormányzati szolgálati jogviszony esetén a hozzájárulását visszavonta és a külön törvény szerint arra feljogosított személy, szerv vagy testület a kormányzati szolgálati jogviszony létesítését, illetve fenntartását nem hagyta jóvá, az államigazgatási szerv a kormányzati szolgálati jogviszonyt létesíteni szándékozó személy, illetve a kormánytisztviselő részére más, fontos és bizalmas munkakörnek nem minősülő munkakört ajánlhat fel. Felajánlható munkakör hiányában, vagy ha a kormányzati szolgálati jogviszonyt létesíteni szándékozó személy, illetve a kormánytisztviselő a felajánlott munkakört nem fogadja el, kormányzati szolgálati jogviszony nem létesíthető, illetve a kormányzati szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni. A kormányzati szolgálati jogviszonynak ezen okból történő megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
+(4) Ha a nemzetbiztonsági ellenőrzés alá eső kormányzati szolgálati jogviszonyba jelölt személy
+
+a) nemzetbiztonsági ellenőrzéséhez nem járul hozzá vagy
+
+b) nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg és a kormányzati szolgálati jogviszony létesítését a külön törvény szerint arra feljogosított személy, szerv vagy testület nem hagyta jóvá,
+
+az államigazgatási szerv a kormányzati szolgálati jogviszonyt létesíteni szándékozó személy részére más, nemzetbiztonsági ellenőrzés alá nem eső kormányzati szolgálati jogviszonynak minősülő munkakört ajánlhat fel. Felajánlható munkakör hiányában vagy ha a kormányzati szolgálati jogviszonyt létesíteni szándékozó személy a felajánlott munkakört nem fogadja el, kormányzati szolgálati jogviszony nem létesíthető.
+
+(4a) Ha a kormánytisztviselő a kormányzati szolgálati jogviszonya fennállása alatt válik nemzetbiztonsági ellenőrzés alá eső személlyé, és
+
+a) a nemzetbiztonsági ellenőrzéséhez nem járul hozzá vagy
+
+b) nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg és a kormányzati szolgálati jogviszony fenntartását a külön törvény szerint arra feljogosított személy, szerv vagy testület nem hagyta jóvá,
+
+a munkáltató a kormánytisztviselő részére más, nemzetbiztonsági ellenőrzés alá nem eső kormányzati szolgálati jogviszonynak minősülő munkakört ajánlhat fel. Felajánlható munkakör hiányában, vagy ha a kormánytisztviselő a felajánlott munkakört nem fogadja el a kormányzati szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
+
+(4b) A kormányzati szolgálati jogviszonynak a (4a) bekezdés szerinti megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
 
 (5) Ha a rendőrségről szóló törvény az e törvényben meghatározott munkavégzési szabályra külön ellenőrzési lehetőséget teremt az államigazgatási szerv kormánytisztviselői tekintetében, a kormányzati szolgálati jogviszony létesítésének és fenntartásának feltétele az ellenőrzéshez való hozzájárulás.
 

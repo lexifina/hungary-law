@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-199-00-00
 | 2014-08-09 | 2014. évi XXX. törvény | 2011-199-00-00.25 |
 | 2014-12-12 | 2014. évi LXXXV. törvény | 2011-199-00-00.26 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2011-199-00-00.27 |
+| 2015-02-01 | 2014. évi CIX. törvény | 2011-199-00-00.28 |
