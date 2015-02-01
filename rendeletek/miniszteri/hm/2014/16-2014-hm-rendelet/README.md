@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-16-20-1
 | --- | --- | --- |
 | 2014-12-14 | 2014-16-20-15.1 | 16/2014. (XII. 13.) HM rendelet |
 | 2014-12-15 | 2014-16-20-15.2 | 2010: CXXX. törvény |
+| 2015-02-01 | 2014-16-20-15.3 | 2010: CXXX. törvény |

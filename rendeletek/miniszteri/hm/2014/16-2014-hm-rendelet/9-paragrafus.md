@@ -1,6 +1,5 @@
-## 1–8. §[^1]
+## 1–8. §[^2]
 
-## 2.[^2]
+## 2. A honvédek illetményéről, illetményjellegű juttatásairól, jutalmazásáról, valamint a honvédelmi ágazatban foglalkoztatott közalkalmazottak jutalmazásáról szóló 21/2013. (IX. 17.) HM rendelet módosítása
 
-[^1]: Az 1–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 2. alcím (9–10. §) a 11. § (2) bekezdése alapján 2015. február 1-jén lép hatályba.
+[^2]: Az 1–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
