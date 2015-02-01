@@ -1,3 +1,3 @@
-## 5. §[^5]
+## 5. § A Rendelet 16. § (9) bekezdése helyébe a következő rendelkezés lép:
 
-[^5]: Az 5. § a 12. § (2) bekezdése alapján 2015. február 1-jén lép hatályba.
+## „(9) Amennyiben a (2) bekezdésben meghatározott, a törlesztési kötelezettség szüneteltetésének alapjául szolgáló jogcím megszűnik, vagy a Diákhitel szervezet szüneteltetésnek helyt adó döntésben meghatározott jogcímben változás következik be, úgy a hitelfelvevő a megszűnést, vagy a változást követő 15 napon belül köteles azt – a Diákhitel szervezet által az e célra rendszeresített nyomtatványon – bejelenteni és a törlesztést folytatni. A jogosultság megszűnésének hónapjára eső törlesztőrészlet időarányos részét – az esedékes törlesztőrészleten felül – a megszűnést követő hónap 12. napjáig kell megfizetni.”

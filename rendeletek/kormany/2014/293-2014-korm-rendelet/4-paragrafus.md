@@ -1,9 +1,9 @@
-## 2–3. §[^2]
+## „(3) A Diákhitel szervezet nem folyósítja a hallgatói hitelt a hitelfelvevő részére a 40. életéve betöltésének időpontját soron követő tanulmányi félévtől.”
 
-4. § (1)[^3]
+4. § (1) A Rendelet 14. § (8) bekezdése helyébe a következő rendelkezés lép:
 
-(2)[^4]
+## „(8) Ha e rendelet másként nem rendelkezik, akkor a hitelfelvevő a törlesztőrészletet minden hónap 12. napjáig köteles a Diákhitel szervezet részére, az üzletszabályzatban meghatározott módon forintban megfizetni, legalább a hitelszerződés szerződésszámának egyidejű közlésével.”
 
-[^2]: A 2–3. § a 12. § (2) bekezdése alapján 2015. február 1-jén lép hatályba.
-[^3]: A 4. § (1) bekezdése a 12. § (2) bekezdése alapján 2015. február 1-jén lép hatályba.
-[^4]: A 4. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(2)[^3]
+
+[^3]: A 4. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
