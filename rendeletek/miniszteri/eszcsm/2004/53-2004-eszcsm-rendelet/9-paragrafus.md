@@ -54,6 +54,8 @@ c) a beszerezni kívánt gyógyszer magyarországi egészségügyi szolgáltató
 
 (13)[^61] Ha a forgalomba hozatali engedély jogosultja vagy képviselője azt észleli, hogy a (11) bekezdés szerint beszerzett gyógyszerek értékesítése nem felelt meg a GyT 16. § (5) bekezdésében vagy e rendeletben foglaltaknak, a gyógyszer-nagykereskedő jogosult a GYEMSZI-hez fordulni.
 
+(14)[^62] A GYEMSZI az (1) bekezdés h) pontjában foglaltak végrehajtását a megsemmisítést végzőnél is ellenőrizheti.
+
 [^46]: A 9. § (1) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 11. §-ával megállapított szöveg.
 [^47]: A 9. § (1) bekezdés a) pont ab) alpontja a 3/2014. (I. 16.) EMMI rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^48]: A 9. § (1) bekezdés c) pontja a 3/2014. (I. 16.) EMMI rendelet 13. § (2) bekezdésével megállapított szöveg.
@@ -70,3 +72,4 @@ c) a beszerezni kívánt gyógyszer magyarországi egészségügyi szolgáltató
 [^59]: A 9. § (11) bekezdését a 3/2014. (I. 16.) EMMI rendelet 13. § (5) bekezdése iktatta be.
 [^60]: A 9. § (12) bekezdését a 3/2014. (I. 16.) EMMI rendelet 13. § (5) bekezdése iktatta be.
 [^61]: A 9. § (13) bekezdését a 3/2014. (I. 16.) EMMI rendelet 13. § (5) bekezdése iktatta be.
+[^62]: A 9. § (14) bekezdését a 3/2015. (I. 14.) EMMI rendelet 9. §-a iktatta be.
