@@ -36,9 +36,39 @@ gyermeke vehető figyelembe.
 
 (10) Az otthonteremtési kamattámogatással érintett kölcsönök kamattámogatásának számításánál az osztószám 360 nap.
 
+(11)[^80] A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) hatálya alá tartozó, e rendelet szerinti kamattámogatással nyújtott kölcsönök esetében az Fhtv. 17/B. § (2) bekezdése, 17/C. §-a, 17/D. §-a, valamint 20/A. §-a helyett a (12)–(16) bekezdésben meghatározott rendelkezéseket kell alkalmazni.
+
+(12)[^81] A hitelintézet – a támogatás időtartama alatt – a kölcsön ügyleti kamatának egyoldalú módosítására nem jogosult. Az ügyleti kamat az (1) bekezdés szerint változik.
+
+(13)[^82] A hitelintézet által – az ügyleti vagy üzleti év fordulójának napján érvényes referenciahozam alapján – érvényesített ügyleti kamat módosítása nem minősül egyoldalú kamatemelésnek.
+
+(14)[^83] Az e rendelet szerinti kamattámogatással nyújtott kölcsönök esetén az ügyleti kamat mértéke az e rendelet alapján alkalmazható mindenkori legmagasabb ügyleti kamat, csökkentve
+
+a) az adott kölcsönszerződésre az e rendelet szerint a kölcsönszerződés megkötésekor alkalmazható legmagasabb ügyleti kamat, és az adott kölcsönszerződés megkötésekor érvényes ügyleti kamatának a különbözetével,
+
+b) a 2015. február 1-jén már szerződött állomány tekintetében pedig az e rendelet szerint 2014. december 31-én alkalmazható legmagasabb ügyleti kamatának és az adott kölcsönszerződés 2014. december 31-én érvényes ügyleti kamatának a különbözetével.
+
+(15)[^84] Az ügyleti kamat mértéke az adott kölcsönszerződésre irányadó kamatperiódusok fordulónapján módosul a (12)–(14) bekezdésben foglaltak szerint. Abban az esetben, ha a kölcsönszerződésben rögzített kamat nem volt kamatperiódushoz kötve, kamatperiódusként egy havi kamatperiódust kell tekinteni.
+
+(16)[^85] Az e rendelet szerinti kamattámogatással nyújtott kölcsönök esetén a kamattámogatási időszak lejártát követően a hitelintézet
+
+a) az Fhtv. 17/C. §-nak megfelelően állapítja meg a hitelszerződés szerinti kamatot, és azt az Fhtv. 17/B. § (2) bekezdése és 17/D. §-a szerint változtatja, vagy
+
+b) a kamattámogatási időszakban érvényes kamatváltoztatás vagy kamatfelár-változtatás módszertant alkalmazza tovább
+
+ba) ugyanazzal a kamatperiódussal és kamatfelár-periódussal, vagy
+
+bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiódusra vagy kamatfelár-periódusra tér át, a kamat megállapításához a kamatperiódus hosszához igazodó referenciahozamot vesz figyelembe.
+
 [^74]: A 10. § (1) bekezdés nyitó szövegrésze a 160/2012. (VII. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^75]: A 10. § (1) bekezdés a) pontja a 160/2012. (VII. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^76]: A 10. § (1) bekezdés b) pontja a 160/2012. (VII. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^77]: A 10. § (1) bekezdés c) pontja a 160/2012. (VII. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^78]: A 10. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 37. §-ával megállapított szöveg.
 [^79]: A 10. § (4) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 44. § g) pontja hatályon kívül helyezte.
+[^80]: A 10. § (11) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
+[^81]: A 10. § (12) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
+[^82]: A 10. § (13) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
+[^83]: A 10. § (14) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
+[^84]: A 10. § (15) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
+[^85]: A 10. § (16) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
