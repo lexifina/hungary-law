@@ -14,9 +14,9 @@ e) azon alapítványok, közalapítványok ellenőrzésére, amelyek felett az a
 
 f) az állami kezesség vállalása és beváltása jogosságának ellenőrzésére, ideértve a központi költségvetés, valamint a tartozás eredeti kötelezettjénél és jogosultjánál a kezességi szerződés feltételei betartásának ellenőrzését,
 
-g) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 24. § (11) bekezdése alapján a magánnyugdíjpénztárak által a Nyugdíjreform és Adósságcsökkentő Alapnak átadott portfóliókkal kapcsolatos gazdálkodás jogszerűségének ellenőrzése céljából az Mpt. hatálya alá tartozó magánnyugdíjpénztárak és szervezetek portfólióátadást megelőző működésének, gazdálkodásának – beleértve az általuk közvetlenül vagy közvetve kezelt portfóliót képező eszközöket is – ellenőrzésére,
+g)
 
-h) az a)–g) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek,
+h) az a)–f) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek,
 
 i) az Összefogás az Államadósság Ellen Alap gazdálkodása jogszerűségének ellenőrzésére, és
 

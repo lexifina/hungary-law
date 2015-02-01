@@ -16,7 +16,7 @@ e) az MNV Zrt.,
 
 f) a Diákhitel Központ Zrt.,
 
-g) a Nyugdíjreform és Adósságcsökkentő Alap,
+g)
 
 h) a Nemzeti Eszközkezelő Zrt.,
 
