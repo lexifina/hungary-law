@@ -1,0 +1,3 @@
+## 1. § A Nemzeti Befektetési Ügynökségről szóló 183/2014. (VII. 25.) Korm. rendelet 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) E rendeletnek a Nemzeti Befektetési Ügynökségről szóló 183/2014. (VII. 25.) Korm. rendelet, valamint a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet módosításáról szóló 1/2015. (I. 15.) Korm. rendelet hatálybalépését megelőzően az Ügynökség által a Magyar Kereskedelem-fejlesztési és Promóciós Korlátolt Felelősségű Társaság útján ellátott kereskedelem-fejlesztési tevékenység tekintetében a Külgazdasági és Külügyminisztériumot kell az Ügynökség általános jogutódjának tekinteni.”
