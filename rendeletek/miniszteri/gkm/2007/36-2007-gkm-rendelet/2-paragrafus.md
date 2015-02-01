@@ -1,4 +1,4 @@
-## 1. §[^1] A díjfizetés ellenében használható utakról szóló miniszteri rendeletben meghatározott gyorsforgalmi utak e rendelet szerinti díjkategóriába tartozó gépjárművel történő használatáért használati díjat (a továbbiakban: díj), továbbá a díjfizetés elmulasztása esetén pótdíjat kell fizetni.
+## 1. §[^1] A díjfizetés ellenében használható utakról szóló miniszteri rendeletben meghatározott gyorsforgalmi utak e rendelet szerinti díjkategóriába tartozó gépjárművel, valamint pótkocsival (a továbbiakban együtt: gépjármű vagy jármű) történő használatáért használati díjat (a továbbiakban: díj), továbbá a díjfizetés elmulasztása esetén pótdíjat kell fizetni.
 
 2. § (1) Nem kell díjat fizetni:
 
@@ -34,7 +34,7 @@ f)[^5] az e) pont alá nem tartozó, díjellenőrzést végző szervezetek álta
 
 (7)[^15] Nem kell díjat fizetni a kárelhárítás időtartamára azon közúti kárelhárításban részt vevő gépjárművek után, amelyeket a kárelhárításra a közútkezelő kért fel, a kárelhárítást térítésmentesen végzik és a rendszáma a közvetlen kárelhárítást megelőzően a közút kezelője és a Nemzeti Útdíjfizetési Szolgáltató Zrt. (a továbbiakban: NÚSZ Zrt.) részére bejelentésre került.
 
-[^1]: Az 1. § a 25/2013. (V. 31.) NFM rendelet 6. §-ával megállapított szöveg.
+[^1]: Az 1. § a 25/2013. (V. 31.) NFM rendelet 6. §-ával megállapított, a 3/2015. (I. 29.) NFM rendelet 3. § (1) bekezdése a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés a) pontját a 95/2011. (XII. 30.) NFM rendelet 9. § (2) bekezdés b) pontja hatályon kívül helyezte, újonnan a 26/2012. (V. 11.) NFM rendelet 1. § (1) bekezdése iktatta be, szövege a 79/2012. (XII. 27.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (1) bekezdés c) pontja a 26/2012. (V. 11.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdés e) pontja a 79/2012. (XII. 27.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.

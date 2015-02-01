@@ -1,5 +1,5 @@
 ## A díjköteles útszakaszok és az e-matricaárusító helyek jelölése
 
-3–7. melléklet a 36/2007. (III. 26.) GKM rendelethez[^60]
+3–7. melléklet a 36/2007. (III. 26.) GKM rendelethez[^65]
 
-[^60]: A 3–7. mellékletet a 108/2007. (XII. 23.) GKM rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^65]: A 3–7. mellékletet a 108/2007. (XII. 23.) GKM rendelet 10. § (1) bekezdése hatályon kívül helyezte.
