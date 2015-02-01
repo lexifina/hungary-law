@@ -1,1 +1,0 @@
-## „(3a) A keresőtevékenységet folytató vagy folytatni kívánó szülő legkésőbb a gyermek bölcsődei ellátásának megkezdését megelőző két héttel a bölcsőde vezetőjének munkáltatói igazolást nyújt be vagy bemutatja a leendő munkáltatójának igazolását arról, hogy a szülő nála alkalmazásban fog állni, megjelölve annak kezdő időpontját is.”

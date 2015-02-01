@@ -1,4 +1,4 @@
-## 27. § Az emberi erőforrások minisztere ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 37/2013. (V. 28.) EMMI rendelet 5. melléklete a 6. mellékletben foglaltak szerint módosul.
+## 27. §[^8]
 
 ## 4. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) A 19. § (3) bekezdése és a 3. melléklet 2015. július 1-jén lép hatályba.
 
 (3) A 12. § 2015. szeptember 1-jén lép hatályba.
+
+[^8]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
