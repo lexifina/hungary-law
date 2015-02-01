@@ -1,11 +1,10 @@
-## 1–2. §[^1]
+## 1–2. §[^2]
 
 ## 3. § Hatályát veszti a Kthr.
 
-a)[^2]
+a)[^3]
 
-b)[^3]
+b) 6/A. §-a és 10. §-a.
 
-[^1]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 3. § b) pontja a 10. § (2) bekezdése alapján 2015. február 1-jén lép hatályba.
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
