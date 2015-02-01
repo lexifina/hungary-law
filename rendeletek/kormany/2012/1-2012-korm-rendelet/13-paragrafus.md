@@ -24,19 +24,19 @@ e) a hallgató által fizetendő önköltségi, költségtérítési díj össze
 
 f) a hallgató adóazonosító jele,
 
-g)[^9] a hallgató abszolutóriumának záró időpontja,
+g)[^13] a hallgató abszolutóriumának záró időpontja,
 
-h)[^10]
+h)[^14]
 
-(5)[^11] A hallgatói hitel folyósításának jogszerűsége és jogszerű igénybevétele érdekében a Diákhitel szervezet a 9. § alapján a felsőoktatási információs rendszerből a hallgatói hitelszerződés alapján a hallgatói hitel folyósítását kérelmező hallgatóról személyazonosító és tanulmányi adatokat szerezhet be. A felsőoktatási információs rendszer a Diákhitel szervezet megkeresésére adatot szolgáltat, a hallgató hallgatói jogviszonya fennállásának, szünetelésének, megszűnésének, tanulmányok folytatása céljából képzési időszakra történő bejelentkezésének tényéről, valamint a hallgató által folytatott képzés finanszírozásának típusáról és a hallgató által fizetendő önköltség összegéről.
+(5)[^15] A hallgatói hitel folyósításának jogszerűsége és jogszerű igénybevétele érdekében a Diákhitel szervezet a 9. § alapján a felsőoktatási információs rendszerből a hallgatói hitelszerződés alapján a hallgatói hitel folyósítását kérelmező hallgatóról személyazonosító és tanulmányi adatokat szerezhet be. A felsőoktatási információs rendszer a Diákhitel szervezet megkeresésére adatot szolgáltat, a hallgató hallgatói jogviszonya fennállásának, szünetelésének, megszűnésének, tanulmányok folytatása céljából képzési időszakra történő bejelentkezésének tényéről, valamint a hallgató által folytatott képzés finanszírozásának típusáról és a hallgató által fizetendő önköltség összegéről.
 
 (6) A Diákhitel szervezet a hitelfelvevő hallgatói hitel folyósítására vonatkozó jogosultságának – (3) vagy (5) bekezdésben foglaltak szerinti – ellenőrzését követően az üzletszabályzatában rögzített feltételek szerint, visszamenőlegesen a tanulmányi félév kezdetére megkezdi, illetve folytatja a hallgatói hitel folyósítását.
 
-(7)[^12] A hitelfelvevő a hallgatói hitel folyósításának szüneteltetését és újraindítását a Diákhitel szervezettől bármikor írásban vagy a Diákhitel szervezet erre rendszeresített elektronikus felületén kérheti. Ez esetben a hallgatói hitel folyósítása a hitelfelvevő által megjelölt időponttól, vagy a kérelem beérkezésének időpontjára eső tanulmányi hónaptól szünetel, amennyiben a kérelemben megjelölt időpont, vagy a kérelem beérkezése az adott havi folyósítási határnapot legalább öt munkanappal megelőzi. Amennyiben a kérelem beérkezése az adott havi folyósítási határnapot legalább öt munkanappal nem előzi meg, a hallgatói hitel folyósítása a soron következő tanulmányi hónaptól szünetel. A hallgatói hitel folyósítása a hitelfelvevő által a kérelmében megjelölt időpontig, vagy időpont megjelölés nélküli kérelem esetén a folyósítás újraindítására vonatkozó kérelem Diákhitel szervezethez történő beérkezéséig szünetel.
+(7)[^16] A hitelfelvevő a hallgatói hitel folyósításának szüneteltetését és újraindítását a Diákhitel szervezettől bármikor írásban vagy a Diákhitel szervezet erre rendszeresített elektronikus felületén kérheti. Ez esetben a hallgatói hitel folyósítása a hitelfelvevő által megjelölt időponttól, vagy a kérelem beérkezésének időpontjára eső tanulmányi hónaptól szünetel, amennyiben a kérelemben megjelölt időpont, vagy a kérelem beérkezése az adott havi folyósítási határnapot legalább öt munkanappal megelőzi. Amennyiben a kérelem beérkezése az adott havi folyósítási határnapot legalább öt munkanappal nem előzi meg, a hallgatói hitel folyósítása a soron következő tanulmányi hónaptól szünetel. A hallgatói hitel folyósítása a hitelfelvevő által a kérelmében megjelölt időpontig, vagy időpont megjelölés nélküli kérelem esetén a folyósítás újraindítására vonatkozó kérelem Diákhitel szervezethez történő beérkezéséig szünetel.
 
 (8) A hallgatói hitel folyósításának újraindítását – ha annak egyéb feltételei fennállnak – a Diákhitel szervezet a következők szerint teljesíti a hitelfelvevő részére; ha a kérelem a tanulmányi hónap 15-éig a Diákhitel szervezethez megérkezik, az azt követő tanulmányi hónapban, ha a kérelem a tanulmányi hónap 15-ét követően érkezik meg a Diákhitel szervezethez, az azt követő második tanulmányi hónapban.
 
-[^9]: A 13. § (4) bekezdés g) pontja a 224/2012. (VIII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^10]: A 13. § (4) bekezdés h) pontja a 224/2012. (VIII. 15.) Korm. rendelet 14. § b) pontja alapján nem lép hatályba.
-[^11]: A 13. § (5) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^12]: A 13. § (7) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^13]: A 13. § (4) bekezdés g) pontja a 224/2012. (VIII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^14]: A 13. § (4) bekezdés h) pontja a 224/2012. (VIII. 15.) Korm. rendelet 14. § b) pontja alapján nem lép hatályba.
+[^15]: A 13. § (5) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^16]: A 13. § (7) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 19. Általános kamattámogatás
 
-29. §[^37] (1) A kötött felhasználású hitelt igénybe vevő hallgatónak hitelszerződése fennállásának időszaka alatt az állam általános kamattámogatást biztosít a központi költségvetés terhére. Az általános kamattámogatás mértéke a hitelfelvevő által fizetendő a 6. § (7) bekezdésében meghatározott kamatot meghaladó összeg.
+29. §[^46] (1) A kötött felhasználású hitelt igénybe vevő hallgatónak hitelszerződése fennállásának időszaka alatt az állam általános kamattámogatást biztosít a központi költségvetés terhére. Az általános kamattámogatás mértéke a hitelfelvevő által fizetendő a 6. § (7) bekezdésében meghatározott kamatot meghaladó összeg.
 
 (2) Az általános kamattámogatás összegét az államháztartásról szóló 2011. évi CXCV. törvény 14. § (4) bekezdés d) pontja szerinti költségvetési fejezetben kell elszámolni.
 
@@ -18,7 +18,7 @@ d) annak a felsőoktatási intézménynek a megjelölését, amelyben az egyes h
 
 (5) A kincstár a Diákhitel szervezet által igényelt támogatási összeg kifizetését a tárgyhónapot követő hónap 25. napjáig teljesíti.
 
-(6)[^38] A Diákhitel szervezet negyedévente, a negyedév 10. napjáig elektronikus úton személyes adatokat nem tartalmazó adatszolgáltatást teljesít az államháztartásért felelős miniszternek a tárgyévre és a következő három naptári évre várható kamattámogatás összegéről, a kötött felhasználású hitelekre vonatkozó szerződések számáról, a támogatott hitelállományról és az addig lehívott támogatások összegéről.
+(6)[^47] A Diákhitel szervezet negyedévente, a negyedév 10. napjáig elektronikus úton személyes adatokat nem tartalmazó adatszolgáltatást teljesít az államháztartásért felelős miniszternek a tárgyévre és a következő három naptári évre várható kamattámogatás összegéről, a kötött felhasználású hitelekre vonatkozó szerződések számáról, a támogatott hitelállományról és az addig lehívott támogatások összegéről.
 
-[^37]: A 29. § a 224/2012. (VIII. 15.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^38]: A 29. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 631. § d) pontja szerint módosított szöveg.
+[^46]: A 29. § a 224/2012. (VIII. 15.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^47]: A 29. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 631. § d) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 6. A hallgatói hitel igénylése
 
-11. § (1)[^7] Amennyiben a hallgató több felsőoktatási intézménnyel áll egy időben hallgatói jogviszonyban, hiteligénylését az általa választott intézménnyel fennálló jogviszony alapján kezdeményezheti.
+11. § (1)[^11] Amennyiben a hallgató több felsőoktatási intézménnyel áll egy időben hallgatói jogviszonyban, hiteligénylését az általa választott intézménnyel fennálló jogviszony alapján kezdeményezheti.
 
 (2) A felsőoktatási intézmény a Diákhitel szervezettel együttműködve köteles kialakítani a hallgatói jogviszony igazolásának rendjét, ideértve a hallgatói hitellel foglalkozó szervezeti egység megjelölését, amelynek alapján a felsőoktatási intézmény a hallgatói hitel jogszerű folyósítására vonatkozó adatokat szolgáltat a Diákhitel szervezet részére és igazolja a hallgatói jogviszony fennállását, illetve ennek változását.
 
@@ -14,4 +14,4 @@ kezdeményezheti a hitel igényléséhez szükséges magyar nyelvű dokumentumok
 
 (4) A hitelfelvevő a hallgatói hitel igénybevételére vonatkozó, magyar nyelvű hitelszerződést a Diákhitel szervezet üzletszabályzatában foglalt rendelkezések szerint köteles kitölteni és eljuttatni – a szerződésben szereplő adatok alaki és formai ellenőrzését követően – Diákhitel szervezet részére. A Diákhitel szervezet a hitelfelvevőkkel való kapcsolattartás érdekében harmadik személyek közreműködését veheti igénybe.
 
-[^7]: A 11. § (1) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^11]: A 11. § (1) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
