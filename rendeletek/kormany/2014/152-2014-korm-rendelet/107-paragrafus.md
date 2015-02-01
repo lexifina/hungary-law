@@ -1,4 +1,4 @@
-107. § (1)[^59] A miniszter a turizmusért való felelőssége keretében előkészíti a turizmusra, az utazásszervező és -közvetítő tevékenységre, az utazási és utazást közvetítői szerződésre, a falusi- és agroturizmusra, valamint – a gyógy- és egészségügyi tényezők vonatkozásában az egészségügyért felelős miniszterrel együttműködve – az egészségturizmusra vonatkozó jogszabályokat.
+107. § (1)[^60] A miniszter a turizmusért való felelőssége keretében előkészíti a turizmusra, az utazásszervező és -közvetítő tevékenységre, az utazási és utazást közvetítői szerződésre, a falusi- és agroturizmusra, valamint – a gyógy- és egészségügyi tényezők vonatkozásában az egészségügyért felelős miniszterrel együttműködve – az egészségturizmusra vonatkozó jogszabályokat.
 
 (2) A miniszter a turizmusért való felelőssége keretében
 
@@ -10,4 +10,4 @@ c) összehangolja az európai uniós tagságból adódó kormányzati turisztika
 
 d) irányítja a belföldi és nemzetközi turisztikai marketingtevékenységet.
 
-[^59]: A 107. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 832. §-ával megállapított szöveg.
+[^60]: A 107. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 832. §-ával megállapított szöveg.

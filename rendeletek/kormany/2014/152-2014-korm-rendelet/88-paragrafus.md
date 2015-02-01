@@ -1,27 +1,31 @@
 88. § (1) A miniszter a külgazdasági ügyekért való felelőssége keretében előkészíti a nemzetközi fejlesztési együttműködésre vonatkozó jogszabályokat.
 
-(2) A miniszter a külgazdasági ügyekért való felelőssége keretében
+(2)[^48] A miniszter a külgazdasági ügyekért való felelőssége keretében
 
 a) kialakítja a Kormány külgazdasági politikáját,
 
-b) közreműködik Magyarország gazdasági érdekeinek külföldön történő érvényesítésében és a kedvező Magyarország-kép kialakításában,
+b) közreműködik Magyarország gazdasági érdekeinek külföldön történő érvényesítésében, az ehhez kapcsolódó kereskedelem-fejlesztési tevékenységben és a kedvező Magyarország-kép kialakításában,
 
-c) koordinálja a nemzetgazdasági jelentőséggel bíró, külföldi érdekeltségű magyarországi beruházások elősegítéséhez szükséges megállapodások előkészítését, ellátja az ikerintézményi programmal összefüggő feladatokat,
+c) előkészíti és koordinálja a nagyvállalatokkal megkötött stratégiai együttműködési megállapodások végrehajtását,
 
-d) közreműködik a Kormány egyedi döntéseivel megítélhető regionális beruházási támogatások nyújtásában,
+d) irányítja a Kormány egyedi döntéseivel megítélhető regionális beruházási támogatások rendszerét,
 
-e) felel a multilaterális kereskedelempolitikáért, ennek keretében
+e) ellátja az ikerintézményi programmal összefüggő feladatokat,
 
-ea) a Kormány feladatkörében érintett tagjával együttműködve kialakítja az Európai Unió közös kereskedelempolitikájával kapcsolatos kormányzati álláspontokat,
+f) felel a multilaterális kereskedelempolitikáért, ennek keretében
 
-eb) gondoskodik a nemzetközi kereskedelempolitikai kötelezettségek és a hazai jogi szabályozás összhangjának megőrzéséről,
+fa) a Kormány feladatkörében érintett tagjával együttműködve kialakítja az Európai Unió közös kereskedelempolitikájával kapcsolatos kormányzati álláspontokat,
 
-f) felel a nemzetközi fejlesztési együttműködésért, ennek keretében
+fb) gondoskodik a nemzetközi kereskedelempolitikai kötelezettségek és a hazai jogi szabályozás összhangjának megőrzéséről,
 
-fa) kidolgozza és végrehajtja a Kormány nemzetközi fejlesztési együttműködési politikáját, meghatározza a támogatandó partnerországok körét és kijelöli az ágazati prioritásokat, valamint
+g) felel a nemzetközi fejlesztési együttműködésért, ennek keretében
 
-fb) koordinálja és irányítja a nemzetközi fejlesztési együttműködési tevékenységet,
+ga) kidolgozza és végrehajtja a Kormány nemzetközi fejlesztési együttműködési politikáját, meghatározza a támogatandó partnerországok körét és kijelöli az ágazati prioritásokat, valamint
 
-g) koordinálja az Európai Duna Stratégiával kapcsolatos kormányzati feladatokat, ellátja a Régiók Bizottsága tevékenységével kapcsolatos koordinációs feladatokat,
+gb) koordinálja és irányítja a nemzetközi fejlesztési együttműködési tevékenységet,
 
-h) felel a külgazdasági diplomata hálózat irányításáért, kezdeményezi a szakdiplomaták kinevezését és felmentését.
+h) koordinálja az Európai Duna Stratégiával kapcsolatos kormányzati feladatokat, ellátja a Régiók Bizottsága tevékenységével kapcsolatos koordinációs feladatokat,
+
+i) felel a külgazdasági diplomata hálózat irányításáért, kezdeményezi a szakdiplomaták kinevezését és felmentését.
+
+[^48]: A 88. § (2) bekezdése az 1/2015. (I. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
