@@ -12,13 +12,11 @@ d) aki tudomásul veszi, hogy szolgálati viszonya fennállása alatt szolgálat
 
 e)
 
-(2) Az (1) bekezdésben írt feltételeknek megfelelő olyan személlyel, aki tervezett beosztása alapján külön törvény szerint nemzetbiztonsági ellenőrzés alá eső személynek minősül, hivatásos szolgálati viszony akkor létesíthető, ha a nemzetbiztonsági ellenőrzést végző szerv a hivatásos szolgálati viszony létesítéséhez
+(2) Az (1) bekezdésben írt feltételeknek megfelelő olyan személlyel, akinek tervezett beosztása nemzetbiztonsági ellenőrzés alá eső beosztásnak minősül, szolgálati viszony nem létesíthető, ha a nemzetbiztonsági ellenőrzés során kiállított biztonsági szakvélemény szerint a biztonsági feltételeknek nem felel meg, kivéve, ha a külön törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony létesítését jóváhagyta.
 
-a) hozzájárult vagy
+(2a) Ha a hivatásos állományba jelentkezővel szemben a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, és a nemzetbiztonsági ellenőrzés alá eső jogviszony létesítését a külön törvény szerint arra feljogosított személy nem hagyta jóvá, a fegyveres szerv a hivatásos állományba jelentkező részére más, nemzetbiztonsági ellenőrzés alá nem eső beosztást ajánlhat fel. Felajánlható beosztás hiányában, vagy ha a hivatásos állományba jelentkező a felajánlott beosztást nem fogadja el, szolgálati viszony nem létesíthető.
 
-b) a hozzájárulást megtagadta, de a külön törvény szerint arra feljogosított személy, szerv vagy testület a hivatásos szolgálati viszony létesítését jóváhagyta.
-
-(3) A (2) bekezdésben meghatározott esetben a nemzetbiztonsági ellenőrzéssel egyidejűleg a kifogástalan életvitel ellenőrzésére nem kerül sor.
+(3) A (2) bekezdésben meghatározott esetben a nemzetbiztonsági ellenőrzéssel egyidejűleg a kifogástalan életvitel ellenőrzésére nem kerül sor. A (2a) bekezdésben meghatározott esetben a kifogástalan életvitel ellenőrzés lefolytatására intézkedni kell és szolgálati viszony a hivatásos állományba jelentkezővel csak abban az esetben létesíthető, ha a jelentkező életvitele a lefolytatott ellenőrzés alapján nem kifogásolható.
 
 (4) A szolgálati viszony létesítéséhez szükséges, az (1) bekezdésben meghatározott adatokat és tényeket a jelentkezőnek igazolnia kell.
 

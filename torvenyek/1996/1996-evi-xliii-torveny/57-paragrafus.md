@@ -20,7 +20,7 @@ meghosszabbodik.
 
 (4) Ha a hivatásos állomány tagjának felmentésére kerül sor, felmentési idő nélkül kell megszüntetni a szolgálati viszonyát
 
-a) a nemzetbiztonsági okból beosztásának ellátására alkalmatlanná vált,
+a) a nemzetbiztonsági szempontból alkalmatlanná vált,
 
 b) az 56. § (2) bekezdés b) pontjában meghatározott okból hivatásos szolgálatra alkalmatlanná vált,
 

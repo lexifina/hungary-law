@@ -22,7 +22,9 @@ i) akinek a részére vezetői beosztásba történt kinevezés visszavonásakor
 
 j) akinek a részére a más szervhez vezénylés megszüntetését követően a 49/C. § (5) bekezdése szerinti beosztás nem biztosítható, más beosztásba helyezéséig, de legfeljebb egy évig;
 
-k) akinek a szolgálati viszonyát a (3a) bekezdés alapján felmentéssel meg kellene szüntetni, de a felmentésére a Hszt. 58. §-ában meghatározott okok miatt nem kerülhet sor, legfeljebb a felmentési védelem megszűnéséig.
+k) akinek a szolgálati viszonyát a (3a) bekezdés alapján felmentéssel meg kellene szüntetni, de a felmentésére a Hszt. 58. §-ában meghatározott okok miatt nem kerülhet sor, legfeljebb a felmentési védelem megszűnéséig;
+
+l) akit a beosztásából a nemzetbiztonsági ellenőrzés során megállapított nemzetbiztonsági kockázat miatt fel kellett menteni, de a 47/B. § (2) bekezdés szerinti beosztás felajánlására nincs lehetőség, a 47/B. § (2) bekezdésében foglaltaknak megfelelő beosztás felajánlásáig, de legfeljebb 1 évig.
 
 (2) Az (1) bekezdés a) pontja alá esők jogaira és kötelezettségeire a 49/B–49/G. § rendelkezései irányadók, a b), e) és f) pontja alá tartozók jogai és kötelezettségei azonosak a szolgálati beosztást betöltők jogaival és kötelezettségeivel, a c)–d) pontja alá tartozók jogait és kötelezettségeit az oktatási intézmény szervezeti és működési szabályzata, illetve a tanulmányi szerződés határozza meg, a g) pont alá tartozók jogait és kötelezettségeit – beleértve a társadalombiztosítási járulék fizetésének rendjét is – külön jogszabály állapítja meg.
 
@@ -32,4 +34,4 @@ k) akinek a szolgálati viszonyát a (3a) bekezdés alapján felmentéssel meg k
 
 (4) Az (1) bekezdés k) pontja szerinti rendelkezési állomány időtartama alatt a hivatásos állomány tagja részére a (3) bekezdésben meghatározott szolgálati beosztást kell biztosítani vagy felajánlani. Amennyiben a hivatásos állomány tagjának az (1) bekezdés k) pontja szerinti rendelkezési állomány ideje alatt ilyen beosztás nem biztosítható, vagy a hivatásos állomány tagja a felajánlott beosztást nem fogadja el, a szolgálati viszonyát felmentéssel meg kell szüntetni.
 
-(5) Az (1) bekezdés b), e) és f) pontja alá tartozó hivatásos állomány tagjának szolgálati feladattal való ideiglenes ellátásáról a munkáltatói jogkört gyakorló elöljáró köteles gondoskodni.
+(5) Az (1) bekezdés b), e), f) és l) pontja alá tartozó hivatásos állomány tagjának szolgálati feladattal való ideiglenes ellátásáról a munkáltatói jogkört gyakorló elöljáró köteles gondoskodni.
