@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-164-00-00
 | 2014-05-06 | 2012. évi XXXVI. törvény | 2011-164-00-00.11 |
 | 2014-12-30 | 2014. évi XCIX. törvény | 2011-164-00-00.12 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2011-164-00-00.13 |
+| 2015-02-01 | 2014. évi CIX. törvény | 2011-164-00-00.14 |

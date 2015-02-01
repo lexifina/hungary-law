@@ -60,4 +60,4 @@ b) aki betöltötte az Alaptörvény 29. cikk (3) bekezdése szerinti általáno
 
 (5) A katonai ügyész kinevezéséhez a honvédelemért felelős miniszter egyetértése szükséges. A katonai ügyészt erre a tisztségre kell kinevezni. A katonai ügyészt a honvédelemért felelős miniszter – a kinevezéssel egyidejűleg – rendelkezési állományba helyezi. A katonai ügyész szolgálatát az ügyészségi szolgálati viszonya megszűnéséig az ügyészi szervezetben teljesíti.
 
-(6) Fontos és bizalmas munkakörre ügyészségi szolgálati viszony azzal a személlyel létesíthető, aki külön törvényben előírt módon hozzájárul nemzetbiztonsági ellenőrzéséhez. A hozzájáruláshoz a külön törvényben meghatározott hozzátartozó nyilatkozatát is csatolni kell.
+(6) Nemzetbiztonsági ellenőrzés alá eső munkakörre ügyészségi szolgálati viszony azzal a személlyel létesíthető, aki külön törvényben előírt módon hozzájárul nemzetbiztonsági ellenőrzéséhez. A hozzájáruláshoz a külön törvényben meghatározott hozzátartozó nyilatkozatát is csatolni kell.

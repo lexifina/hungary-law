@@ -110,9 +110,9 @@
 
 ## IX.
 
-## – nemzetbiztonsági ellenőrzési kötelezettsége, szintje,
+## – nemzetbiztonsági ellenőrzési kötelezettsége,
 
-## – utolsó nemzetbiztonsági ellenőrzésének időpontja és szintje.
+## – utolsó nemzetbiztonsági ellenőrzésének időpontja.
 
 ## X.
 
