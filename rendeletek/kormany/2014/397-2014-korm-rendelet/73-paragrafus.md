@@ -1,5 +1,1 @@
-## 19.[^72]
-
-73. §
-
-[^72]: A 19. alcím (73. §) a 100. § (3) bekezdése alapján 2015. február 1-jén lép hatályba.
+## 19. A Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény végrehajtásáról szóló 87/2011. (V. 31.) Korm. rendelet hatályon kívül helyezése
