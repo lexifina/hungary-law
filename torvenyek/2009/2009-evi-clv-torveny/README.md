@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-155-00-00
 | 2014-01-01 | 2013. évi CCIII. törvény | 2009-155-00-00.14 |
 | 2014-06-06 | 29/2014. (IX. 30.) AB határozat | 2009-155-00-00.15 |
 | 2014-12-30 | 2014. évi XCIX. törvény | 2009-155-00-00.16 |
+| 2015-02-01 | 2014. évi CIX. törvény | 2009-155-00-00.17 |

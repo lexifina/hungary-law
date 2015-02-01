@@ -8,7 +8,7 @@
 
 (2) A minősített adathoz – az e törvényben meghatározott kivételekkel – kizárólag személyi biztonsági tanúsítvánnyal és titoktartási nyilatkozattal rendelkező jogosult felhasználó a felhasználói engedélyben meghatározott rendelkezési jogosultságokkal férhet hozzá.
 
-(3) A személyi biztonsági tanúsítvány kiadásához az érintett – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott – nemzetbiztonsági ellenőrzésének (a továbbiakban: nemzetbiztonsági ellenőrzés) lefolytatása szükséges. A minősített adat felhasználásához szükséges személyi biztonsági tanúsítvány nem adható ki, illetve a már kiadott tanúsítványt vissza kell vonni, ha a nemzetbiztonsági ellenőrzés kockázati tényezőt tár fel. A személyi biztonsági tanúsítvány a kiállításától számított 5 évig érvényes.
+(3) A személyi biztonsági tanúsítvány kiadásához az érintett – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott – nemzetbiztonsági ellenőrzésének (a továbbiakban: nemzetbiztonsági ellenőrzés) lefolytatása szükséges. A minősített adat felhasználásához szükséges személyi biztonsági tanúsítvány nem adható ki, illetve a már kiadott tanúsítványt vissza kell vonni, ha a nemzetbiztonsági ellenőrzés kockázati tényezőt tár fel. A személyi biztonsági tanúsítvány a nemzetbiztonsági ellenőrzésről készült kockázatmentes biztonsági szakvélemény kiállításától számított 5 évig érvényes.
 
 (4) Minden olyan szervnél, ahol minősített adatot kezelnek, meg kell teremteni a minősített adat védelméhez szükséges, az adat minősítési szintjének megfelelő,
 
