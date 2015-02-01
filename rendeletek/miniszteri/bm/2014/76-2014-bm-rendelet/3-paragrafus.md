@@ -1,0 +1,1 @@
+## „d) a beosztás, munkakör betöltéséhez meghatározott képesítési előírásokat (iskolai végzettség, szakképesítés, idegen nyelv ismerete, szakmai gyakorlat), továbbá vezetői beosztás betöltésére kiírt pályázat esetén a 14/B. § (1) bekezdésében meghatározott, az adott vezetői beosztáshoz kapcsolódó feltételeket,”
