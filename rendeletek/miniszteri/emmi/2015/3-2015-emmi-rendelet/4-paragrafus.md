@@ -1,5 +1,7 @@
-## 3. § A 7/2004. EüM rendelet 2. számú melléklete az 1. melléklet szerint módosul.
+## 3. §[^3]
 
 ## 3. Az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló
 
 ## 44/2004. (IV. 28.) ESZCSM rendelet módosítása
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
