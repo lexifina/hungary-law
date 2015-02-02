@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-364-20-
 | 2015-01-01 | 2014-364-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-01-02 | 2014-364-20-22.3 | 2010: CXXX. törvény |
 | 2015-02-01 | 2014-364-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2015-02-02 | 2014-364-20-22.5 | 2010: CXXX. törvény |
