@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-57-00-00
 | 2014-11-14 | 2014. évi LVII. törvény | 2014-57-00-00.0 (közlönyállapot) |
 | 2014-11-14 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-57-00-00.1 |
 | 2015-02-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-57-00-00.2 |
+| 2015-02-02 | 2010. évi CXXX. törvény | 2014-57-00-00.3 |
