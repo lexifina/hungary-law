@@ -1,1 +1,0 @@
-## 19. A Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény végrehajtásáról szóló 87/2011. (V. 31.) Korm. rendelet hatályon kívül helyezése
