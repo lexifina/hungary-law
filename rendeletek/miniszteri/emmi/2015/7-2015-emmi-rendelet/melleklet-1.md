@@ -1,0 +1,3 @@
+## 23. § A 10–13. § az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról szóló, 2004. március 31-i 2004/23/EK európai parlamenti és tanácsi irányelvnek és a 2004/23/EK európai parlamenti és tanácsi irányelvnek az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára vonatkozó egyes technikai követelmények vonatkozásában történő végrehajtásáról szóló, 2006. február 8-i 2006/17/EK bizottsági irányelvnek való megfelelést szolgálja.
+
+1. melléklet a 7/2015. (II. 2.) EMMI rendelethez
