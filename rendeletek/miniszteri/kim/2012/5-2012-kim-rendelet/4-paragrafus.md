@@ -18,11 +18,11 @@ f) együttesen benyújtott támogatási igénynél, ha a társpályázó határo
 
 g) az újabb támogatási igény, ha a támogatási igény benyújtója adott költségvetési év forrása vonatkozásában már rendelkezik érvényes pályázattal és az újabb támogatási igényt a korábbitól eltérő kollégiumhoz nyújtotta be,
 
-h) a támogatást igénylő szervezet a támogatási igény forrását jelentő költségvetési évet megelőző három költségvetési év mindegyikének terhére részesült támogatásban az Alapból.
+h)[^5]
 
 (3) A pályázati kiírás szerinti benyújtási határidő lejártát követő húsz napon belül az Alapkezelő a formai vizsgálat eredményéről az internetes támogatáskezelő rendszeren keresztül értesíti a támogatást igénylő szervezetet. Az internetes támogatáskezelő rendszeren keresztül történő értesítés esetében a kézhezvétel alatt az elektronikus üzenet megnyitását kell érteni.
 
-(4)[^5] Az Alapkezelő a pályázat benyújtási határidejének lejártát követő munkanapon a kollégium részére megküldi a pályázatok döntéshez szükséges adatait – szervezet neve, adószáma, pályázati azonosító, támogatási cél, igényelt összeg, jogosultként igényelt normatív kiegészítés összege, szervezet típusa (egyesület, alapítvány, szövetség), igényelt támogatás formája (visszatérítendő vagy vissza nem térítendő; támogatási előleg folyósítására vonatkozó igény), együttesen benyújtott pályázat esetén a társpályázó adatai (név, ország, székhely címe, adószám, képviselő neve), önrész összege – tartalmazó listát.
+(4)[^6] Az Alapkezelő a pályázat benyújtási határidejének lejártát követő munkanapon a kollégium részére megküldi a pályázatok döntéshez szükséges adatait – szervezet neve, adószáma, pályázati azonosító, támogatási cél, igényelt összeg, jogosultként igényelt normatív kiegészítés összege, szervezet típusa (egyesület, alapítvány, szövetség), igényelt támogatás formája (visszatérítendő vagy vissza nem térítendő; támogatási előleg folyósítására vonatkozó igény), együttesen benyújtott pályázat esetén a társpályázó adatai (név, ország, székhely címe, adószám, képviselő neve), önrész összege – tartalmazó listát.
 
 (5) A kollégium a (3) bekezdés szerinti adatok kézhezvételétől számított harminc napon belül a pályázat elbírálása keretében dönt:
 
@@ -70,7 +70,7 @@ c) az elutasított támogatási igények listáját tartalmazó dokumentum elké
 
 (17) A kedvezményezett – a (16) bekezdésben meghatározott döntés esetén – a támogatási cél sérelme nélkül módosíthatja a benyújtott támogatási igény költségvetését. Ennek során a 7. melléklet szerinti költségvetési terv főösszegének meg kell egyeznie a támogatási döntésben meghatározott összeggel.
 
-(18)[^6] A támogatás folyósítására
+(18)[^7] A támogatás folyósítására
 
 a) a támogatást igénylő szervezet 3. § (1) bekezdés e) pontja szerinti kérelme hiányában a beszámoló vagy részbeszámoló elfogadását követően az elfogadott összegnek megfelelően
 
@@ -78,8 +78,9 @@ b) a támogatást igénylő szervezet 3. § (1) bekezdés e) pontja szerinti ké
 
 kerül sor.
 
-(19)[^7] Amennyiben nem kerül sor a teljes támogatási összeg folyósítására a beszámoló elfogadását megelőzően, a támogatási időszak legkésőbbi záró dátuma a támogatási igény finanszírozását szolgáló költségvetési évet követő év március 31. napja.
+(19)[^8] Amennyiben nem kerül sor a teljes támogatási összeg folyósítására a beszámoló elfogadását megelőzően, a támogatási időszak legkésőbbi záró dátuma a támogatási igény finanszírozását szolgáló költségvetési évet követő év március 31. napja.
 
-[^5]: A 4. § (4) bekezdése a 31/2014. (IV. 14.) EMMI rendelet 5. § c) pontja szerint módosított szöveg.
-[^6]: A 4. § (18) bekezdése a 31/2014. (IV. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^7]: A 4. § (19) bekezdését a 31/2014. (IV. 14.) EMMI rendelet 1. §-a iktatta be.
+[^5]: A 4. § (2) bekezdés h) pontját a 8/2015. (II. 2.) EMMI rendelet 1. §-a hatályon kívül helyezte.
+[^6]: A 4. § (4) bekezdése a 31/2014. (IV. 14.) EMMI rendelet 5. § c) pontja szerint módosított szöveg.
+[^7]: A 4. § (18) bekezdése a 31/2014. (IV. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^8]: A 4. § (19) bekezdését a 31/2014. (IV. 14.) EMMI rendelet 1. §-a iktatta be.
