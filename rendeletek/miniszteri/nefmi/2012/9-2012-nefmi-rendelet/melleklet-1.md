@@ -1,6 +1,6 @@
-## 15. § Ez a rendelet a kihirdetése napján 18 órakor lép hatályba.
+## 16. §[^8] Az egyes egészségbiztosítási, egészségügyi és szociális tárgyú miniszteri rendeletek módosításáról szóló 7/2015. (II. 2.) EMMI rendelettel megállapított 2. és 3. mellékletben foglaltakat a 2015. január havi teljesítésektől kell alkalmazni.
 
-1. melléklet a 9/2012. (II. 28.) NEFMI rendelethez[^8]
+1. melléklet a 9/2012. (II. 28.) NEFMI rendelethez[^9]
 
 ## Az egészségügyi eljárások elszámolhatósági feltételeinek szabályai
 
@@ -554,4 +554,5 @@ A „11041 Vizsgálat” és „11042 Vizsgálat a rendelőn kívül” egészs�
 
 | 22. | Urológia | Részletes anamnézis felvétele mellett teljeskörű fizikális vizsgálat, mely a következőkből áll: a vesék, a hólyag, a herék, a mellékherék vizsgálata, a prosztata vizsgálata. A vizsgálattal egyidejűleg a rectalis vizsgálat (13200) nem számolható el. |
 
-[^8]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^8]: A 16. §-t a 7/2015. (II. 2.) EMMI rendelet 4. §-a iktatta be.
+[^9]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése szerint módosított szöveg.
