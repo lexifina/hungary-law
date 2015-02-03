@@ -1078,6 +1078,12 @@
 
 | 75393 | Kemoterápia, Bevacizumab+heti TAX protokoll szerint (03. fázis) |
 
+| 75421 | Kemoterápia, Bevacizumab+FOLFIRI/B protokoll szerint (01. fázis) |
+
+| 75431 | Kemoterápia, Bevacizumab+DeGramont/B protokoll szerint (01. fázis) |
+
+| 75441 | Kemoterápia, bevacizumab+FOLFOX4/B protokoll szerint (01. fázis) |
+
 | 75661 | Kemoterápia, HER 3 heti töltődózis protokoll szerint (01. fázis) |
 
 | 75671 | Kemoterápia, HER 3 heti fenntartó dózis protokoll szerint (01. fázis) |
@@ -6078,4 +6084,4 @@ Fázisok leírása:
 
 | Fázisok száma | : | 1 |
 
-[^4]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 17. §-a, a 9/2013. (I. 31.) EMMI rendelet 7. § (2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 3. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 17. §-a, a 9/2013. (I. 31.) EMMI rendelet 7. § (2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 3. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 8. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 9. § (2) bekezdése szerint módosított szöveg.
