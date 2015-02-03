@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-9-20-85
 | 2014-01-01 | 1999-9-20-85.20 | 27/2010. (XII. 30.) NEFMI rendelet |
 | 2014-03-15 | 1999-9-20-85.21 | 19/2014. (III. 13.) EMMI rendelet |
 | 2015-01-17 | 1999-9-20-85.22 | 2/2015. (I. 14.) EMMI rendelet |
+| 2015-02-03 | 1999-9-20-85.23 | 27/2010. (XII. 30.) NEFMI rendelet |
