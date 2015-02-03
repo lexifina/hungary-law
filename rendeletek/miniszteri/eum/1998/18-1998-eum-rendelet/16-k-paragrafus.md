@@ -1,4 +1,4 @@
-16/K. §[^53] (1) Amennyiben az OVSZ olyan súlyos káros eseményről vagy szövődményről értesül, amely feltehetően egy másik, az Európai Gazdasági Térségről szóló megállapodásban részes valamely tagállamtól kapott szervvel függ össze, – a 17/C. §-ban foglaltakkal összhangban – haladéktalanul tájékoztatja a származási tagállam illetékes hatóságát, illetve felhatalmazással rendelkező szervezetét és a 13. számú melléklet A) pontjában meghatározott, az azokból rendelkezésre álló adatokat tartalmazó előzetes jelentést küld a részükre.
+16/K. §[^54] (1) Amennyiben az OVSZ olyan súlyos káros eseményről vagy szövődményről értesül, amely feltehetően egy másik, az Európai Gazdasági Térségről szóló megállapodásban részes valamely tagállamtól kapott szervvel függ össze, – a 17/C. §-ban foglaltakkal összhangban – haladéktalanul tájékoztatja a származási tagállam illetékes hatóságát, illetve felhatalmazással rendelkező szervezetét és a 13. számú melléklet A) pontjában meghatározott, az azokból rendelkezésre álló adatokat tartalmazó előzetes jelentést küld a részükre.
 
 (2) Amennyiben az OVSZ olyan súlyos káros eseményről vagy szövődményről értesül, amely feltehetően olyan donorral függ össze, akinek a szerveit más, az Európai Gazdasági Térségről szóló megállapodásban részes valamely tagállamba is elküldték, haladéktalanul megküldi az (1) bekezdés szerinti adatokat tartalmazó előzetes jelentést a rendeltetési tagállam illetékes hatósága, illetve felhatalmazással rendelkező szervezete részére.
 
@@ -6,4 +6,4 @@
 
 (4) Amennyiben a súlyos káros esemény vagy szövődmény feltehetően olyan donorral függ össze, akinek szerveit más, az Európai Gazdasági Térségről szóló megállapodásban részes valamely tagállamba is elküldték, az OVSZ mint a származási tagállam illetékes hatósága a (2) bekezdés szerinti előzetes jelentés megküldését követő három hónapon belül továbbítja valamennyi rendeltetési tagállam illetékes hatósága, illetve felhatalmazással rendelkező szervezete számára a 13. számú melléklet B) pontja szerinti végleges jelentést. A végleges jelentéshez a rendeltetési tagállamok illetékes hatósága, illetve felhatalmazással rendelkező szervezete által megküldött információkat fel kell használni.
 
-[^53]: A 16/K. §-t a 41/2013. (VI. 17.) EMMI rendelet 4. §-a iktatta be.
+[^54]: A 16/K. §-t a 41/2013. (VI. 17.) EMMI rendelet 4. §-a iktatta be.

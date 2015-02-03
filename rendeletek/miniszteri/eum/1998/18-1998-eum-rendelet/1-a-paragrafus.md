@@ -14,7 +14,7 @@
 
 7. felhatalmazással rendelkező szervezet: az 1/B. § szerinti illetékes hatóságok, illetve az Országos Vérellátó Szolgálat (a továbbiakban: OVSZ) által megkötött megállapodás alapján a megállapodásban részes szerv-csere szervezet az Európai Gazdasági Térségről szóló megállapodásban részes valamely tagállamba és harmadik országokba irányuló, illetve onnan kiinduló szervcserével kapcsolatos meghatározott minőségi és biztonsági feladatok végrehajtása tekintetében;
 
-8. gyűjtés: az a folyamat, amely során a szöveteket és sejteket rendelkezésre bocsátják, azaz amely során a szövetek és sejtek eltávolítása, valamint azok szövetbankba szállítása történik;
+8.[^5] gyűjtés: az a folyamat, amely során a szöveteket és sejteket rendelkezésre bocsátják, azaz amely során a szövetek és sejtek eltávolítása, majd azok elszállítása történik a tárolást végző első szövetbankba;
 
 9. gyűjtő szervezet: olyan egészségügyi szolgáltató, amely emberi szövetek és sejtek gyűjtését végzi azok feldolgozása és tárolása nélkül;
 
@@ -55,3 +55,4 @@
 27. tárolás: a szövetek és sejtek megfelelően ellenőrzött feltételek melletti tartása az elosztásig.
 
 [^4]: Az 1/A. §-t a 35/2006. (IX. 7.) EüM rendelet 2. §-a iktatta be, szövege a 41/2013. (VI. 17.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1/A. § 8. pontja a 7/2015. (II. 2.) EMMI rendelet 10. §-ával megállapított szöveg.
