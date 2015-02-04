@@ -1,4 +1,4 @@
-## 15–20. §[^1]
+## 15–20. §[^7]
 
 ## III. Fejezet
 
@@ -8,4 +8,4 @@
 
 ## 9/1999. (XI. 24.) SZCSM rendelet módosítása
 
-[^1]: A 15–20. § a 22. § (2) bekezdése alapján 2015. február 17-én lép hatályba.
+[^7]: A 15–20. § a 22. § (2) bekezdése alapján 2015. február 17-én lép hatályba.
