@@ -164,13 +164,13 @@
 
 ## 1.7. Útvonalrepülésre előírt navigációs pontosság (RNP)
 
-## 1.7.1. Az egyes ATS útvonalakra előírt navigációs pontosság az összeköttetési, navigációs és légiforgalmi szolgálatok körülményeinek figyelembevételével kerülnek meghatározásra.
+## 1.7.1. Az egyes ATS vagy szabad útvonalakra előírt navigációs pontosság az összeköttetési, navigációs és légiforgalmi szolgálatok körülményeinek figyelembevételével kerülnek meghatározásra.
 
 ## Megjegyzés: Az alkalmazható RNP típusok és a hozzájuk kapcsolódó eljárások az Előírt Navigációs Pontosság (RNP) Kézikönyvben (Doc. 9613) találhatók.
 
-## 1.7.2. Az IFR szerint működő légijárműveknek a kijelölt ATS útvonalat az ICAO EUR Körzetben RNP5 pontossággal kell tartaniuk.
+## 1.7.2. Budapest CTA-ban az IFR szerint működő légijárműveknek a szabad vagy kijelölt ATS útvonalat RNAV5 pontossággal kell tartaniuk.
 
-## Megjegyzés: A légijárművek felszereltségére vonatkozó előírásokat Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet tartalmazza.
+## Megjegyzés: A légijárművek felszereltségére vonatkozó előírásokat a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet tartalmazza.
 
 ## 1.8. Légiforgalmi szolgálatokat ellátó egységek létesítése és elnevezése
 
@@ -288,7 +288,7 @@
 
 ## 1.13. Fontos pontok létesítése és elnevezése
 
-## 1.13.1. Az ATS útvonalak meghatározására és/vagy a légiforgalmi szolgálatok igényeinek megfelelően fontos pontokat jelölnek ki a légijárművek haladásáról történő tájékoztatások érdekében.
+## 1.13.1. Az ATS vagy szabad útvonalak meghatározására és/vagy a légiforgalmi szolgálatok igényeinek megfelelően fontos pontokat jelölnek ki a légijárművek haladásáról történő tájékoztatások érdekében.
 
 ## 1.13.2. A fontos pontokat jelen melléklet 2. Függelékében leírtak szerint jelölik ki, és pontazonosítóval látják el.
 
@@ -388,7 +388,7 @@
 
 ## 1.18.3. A veszélyes tevékenységek tervezésénél az alábbiakat kell figyelembe venni:
 
-## (i) a tevékenység helyszínét, területét, időpontját/tartamát úgy válasszák meg, hogy lehetőség szerint elkerülhető legyen az ATS útvonalak lezárása, áthelyezése, továbbá a leginkább használatos repülési szintek korlátozása vagy a menetrendszerű légiforgalom késleltetése;
+## (i) a tevékenység helyszínét, területét, időpontját/tartamát úgy válasszák meg, hogy lehetőség szerint elkerülhető legyen az ATS vagy szabad útvonalak lezárása, áthelyezése, továbbá a leginkább használatos repülési szintek korlátozása vagy a menetrendszerű légiforgalom késleltetése;
 
 ## (ii) a tevékenység végrehajtására kijelölt légtér méretét a lehető legkisebbre korlátozzák;
 
@@ -1668,7 +1668,7 @@
 
 ## (az 1. Fejezet 1.6.1. ponthoz)
 
-## 4K04767M_0
+## 5K00480N_0
 
 | Légtér- osztály | Repülések típusa | Biztosított elkülönítés | Biztosított szolgálat | Sebességkorlátozási előírások* | Rádióösszeköttetésre vonatkozó előírások | ATC engedély szükségessége |
 
@@ -1734,7 +1734,7 @@
 
 ## 3. Megjegyzés: A repülőtér/helikopter repülőtér határain kívüli területekre, valamint az állam teljes területére előírtaknak megfelelő akadályadatok 2008. november 20-i, illetve 2010. november 18-i elérhetőségéről szóló ICAO 15. Annex 10.6.1.1 és 10.6.1.2 rendelkezéseinek bevezetését elősegítené egy, az ilyen adatok gyűjtésére és feldolgozására szóló előzetes terv.
 
-## 4K04767M_2
+## 5K00480N_2
 
 | 2. Táblázat Tengerszinthez viszonyított/tengerszint/repülőtér feletti magasságok |
 
@@ -1878,11 +1878,11 @@ Az alkalmazott szabályok/jogszabályok körében:
 
 a) az ATS felhasználói kézikönyvek, az ATS egységek tevékenységére vonatkozó utasítások, jogszabályok és az ATS koordinálási eljárások teljességéről, tömörségéről és naprakészségéről;
 
-b) ahol az alkalmazható, az ATS útvonal szerkezet kialakításakor, hogy:
+b) ahol az alkalmazható, az ATS vagy szabad útvonal szerkezet kialakításakor, hogy:
 
 1. az útvonalak közötti térközök megfelelőek; és
 
-2. az ATS útvonalak keresztezési pontjai úgy kerülnek meghatározásra, hogy minimálisra csökkentik az irányító beavatkozásának szükségességét és a külső/belső egységek közötti koordinálást;
+2. az ATS vagy szabad útvonalak keresztezési pontjai úgy kerülnek meghatározásra, hogy minimálisra csökkentik az irányító beavatkozásának szükségességét és a külső/belső egységek közötti koordinálást;
 
 c) a légtérben, vagy a repülőtéren alkalmazott elkülönítési minimumok szabályszerűek és arról, hogy valamennyi rendelkezés mindig összhangban van az alkalmazható minimumokkal;
 
@@ -1950,7 +1950,7 @@ a) valamely légtérben, vagy repülőtéren alkalmazandó csökkentett elkülö
 
 b) valamely légtérben, vagy repülőtéren alkalmazandó új operatív eljárások – beleértve az indulási és érkezési eljárásokat is – bevezetésekor;
 
-c) az ATS útvonal szerkezet átszervezésekor;
+c) az ATS vagy szabad útvonal szerkezet átszervezésekor;
 
 d) a légtér újra-szektorizálásakor;
 
@@ -1982,7 +1982,7 @@ a) a légijárművek típusát és teljesítmény jellemzőit, navigációs kép
 
 b) a forgalom sűrűségét és eloszlását;
 
-c) a légtér összetettségét, az ATS útvonal szerkezetet, valamint a légtér osztályozást;
+c) a légtér összetettségét, az ATS vagy szabad útvonal szerkezetet, valamint a légtér osztályozást;
 
 d) a repülőtér elhelyezkedését, beleértve a futópályák konfigurációját, az egyes futópályák hosszát, és a gurulóút hálózatot is;
 
@@ -2016,7 +2016,7 @@ ATS RENDSZER KAPACITÁS ÉS LÉGIFORGALMI ÁRAMLÁSSZERVEZÉS
 
 3.1.1 Általános rész
 
-3.1.1.1 Az ATS rendszerek kapacitását számos tényező befolyásolja, mint például az ATS útvonal szerkezete, a légteret használó légijárművek navigációs pontossága, az időjárási körülmények, és az irányítók munkaterhelése. Mindent meg kell tenni azért, hogy mind a rendes, mind a csúcsforgalmi szintekhez megfelelő kapacitás álljon rendelkezésre. Kapacitásnövelő intézkedések alkalmazása esetén azonban biztosítania kell azt, hogy a kapacitást növelő minden intézkedés feleljen meg a 2. Fejezetben leírtaknak, és azt, hogy a repülésbiztonsági szintek ne sérüljenek.
+3.1.1.1 Az ATS rendszerek kapacitását számos tényező befolyásolja, mint például az ATS vagy szabad útvonal szerkezete, a légteret használó légijárművek navigációs pontossága, az időjárási körülmények, és az irányítók munkaterhelése. Mindent meg kell tenni azért, hogy mind a rendes, mind a csúcsforgalmi szintekhez megfelelő kapacitás álljon rendelkezésre. Kapacitásnövelő intézkedések alkalmazása esetén azonban biztosítania kell azt, hogy a kapacitást növelő minden intézkedés feleljen meg a 2. Fejezetben leírtaknak, és azt, hogy a repülésbiztonsági szintek ne sérüljenek.
 
 3.1.1.2 Az ATC szolgáltatásban részesített légijárművek száma nem lehet több mint amennyit az érintett ATC egység adott körülmények között biztonságosan kezelni képes. A biztonságosan kezelhető repülések legnagyobb számának meghatározása érdekében, a szolgáltatást nyujtó szerveknek irányítói körzetekre, irányítói szektorokra és repülőterekre vonatkozóan ATC kapacitás értékeket kell meghatározniuk.
 
@@ -2334,7 +2334,7 @@ Megjegyzés: Lásd a 6.3.2.2.1 pontot is!
 
 4.5.7.2.4 Bármely kétség felmerülése esetén a légijármű vezetőjének részletes útvonal-megadást kell kérnie az érintett légiforgalmi szolgálati egységtől.
 
-4.5.7.2.5 RNP5 képességű RNAV berendezéssel fel nem szerelt állami légijárműveket vagy az olyan légijárműveket, melyek RNAV berendezése meghibásodott, nem RNAV berendezés használatán alapuló SID-eken és STAR-okon kell vezetni.
+4.5.7.2.5 RNAV5 képességű RNAV berendezéssel fel nem szerelt állami légijárműveket vagy az olyan légijárműveket, melyek RNAV berendezése meghibásodott, nem RNAV berendezés használatán alapuló SID-eken és STAR-okon kell vezetni.
 
 Útvonalrepülés során az ilyen légijárművekre az alábbi eljárásokat kell alkalmazni:
 
@@ -2398,7 +2398,7 @@ c) névleges 4000 láb (1200 m):
 
 5.3.3.2 Az utazó emelkedési technika alkalmazására feljogosított légijárműnek engedélyezni kell, hogy az utazó emelkedést két magasság között (pl.: FL200 és FL310 között), vagy egy meghatározott magasság felett (pl.: FL240 fölött) hajtsa végre.
 
-5.3.3.3 Ha szükséges, hogy egy olyan légijárműnek az utazómagasságát változtassák meg amely olyan ATS útvonalon közlekedik, mely részben ellenőrzött légtérben, részben ellenőrzött légtéren kívül lett kijelölve, és az utazómagasságok kiosztásának rendszere nem azonos, ezeket a változtatásokat – amennyiben lehetséges – ellenőrzött légtéren belül hajtsák végre.
+5.3.3.3 Ha szükséges, hogy egy olyan légijárműnek az utazómagasságát változtassák meg amely olyan ATS vagy szabad útvonalon közlekedik, mely részben ellenőrzött légtérben, részben ellenőrzött légtéren kívül lett kijelölve, és az utazómagasságok kiosztásának rendszere nem azonos, ezeket a változtatásokat – amennyiben lehetséges – ellenőrzött légtéren belül hajtsák végre.
 
 5.3.3.4 Amikor egy légijárműnek engedélyezték, hogy olyan utazómagasságon lépjen be egy irányítói körzetbe, amely alacsonyabb, mint az útvonal egy további szakaszára megállapított minimális magasság, a körzetért felelős ATC egység kezdeményezze módosított engedély kiadását a légijármű számára, még akkor is, ha a légijárművezető nem kérte a szükséges utazómagasság megváltoztatását.
 
@@ -2470,35 +2470,53 @@ d) RNAV üzemelés: mindkét légijármű olyan útirányokat követ, melyek leg
 
 5.4.1.2.1.3 Különböző navigációs berendezések, vagy módszerek használata. A különböző navigációs berendezéseket használó légijárművek között, valamint egy hagyományos navigációs berendezést használó és egy RNAV berendezést használó légijármű között oldalirányú elkülönítést úgy kell létrehozni, hogy az alkalmazott navigációs berendezésre(ekre), vagy az RNP-re kiszámított légterek védő területei ne fedjék át egymást.
 
-5.4.1.2.1.4 RNAV üzemelés, ahol RNP-t írnak elő párhuzamos útirányokon, vagy ATS útvonalakon. Kijelölt légtérben, vagy kijelölt útvonalakon, ahol RNP-t írnak elő, az RNAV berendezéssel felszerelt légijárművek között oldalirányú elkülönítés érhető el azáltal, hogy megkövetelik, hogy a légijárművek olyan párhuzamos útirányok, vagy ATS útvonalak középvonalán repüljenek, melyek egymás közötti távolsága biztosítja, hogy az útirányok, vagy ATS útvonalak védő területei nem fedik egymást.
+5.4.1.2.1.4 A közzétett szomszédos műszer szerinti repülési eljárásokat követő induló vagy érkező légijárművek oldalirányú elkülönítése akkor valósul meg, ha:
 
-Megjegyzés: Párhuzamos útirányok között, vagy párhuzamos ATS útvonalak középvonalai között – melyekre RNP típust írtak elő – az oldaltávolság, a meghatározott vonatkozó RNP típus függvénye. Az RNP típuson alapuló útirányok, vagy ATS útvonalak közötti oldaltávolság meghatározására vonatkozó útmutatót az ICAO 11. Annex A és B mellékletei tartalmaznak.
+a) a távolság RNAV1, Basic RNP 1, RNP APCH és RNP AR APCH útirány között legalább 7 NM (13 km), vagy
 
-5.4.1.2.1.5 RNAV üzemelés, ahol RNP-t írnak elő keresztező útirányokon, vagy ATS útvonalakon. Az itt leírt elkülönítés használata olyan keresztező útirányokra korlátozódik, mely keresztező útirányok közös pontjuknál az összetartás, vagy széttartás 15 és 135 fok közötti szögtartományba esik.
+b) az előírt akadálymentességet figyelembe vevő útirányok védőterületei nem fedik egymást és üzemi hibát számításba vettek.
 
-5.4.1.2.1.5.1 Keresztező útirányoknál a terület ki és belépő pontjait, ahol az útirányok közötti oldaltávolság kevesebb, mint az előírt minimum, oldalirányú elkülönítési pontoknak nevezik. Az oldalirányú elkülönítés pontjait határoló területet a keresztezés konfliktus területének nevezik (lásd az 5-5 ábrát).
+5.4.1.2.1.5 RNAV üzemelés, ahol meghatározott navigációs követelményt írnak elő párhuzamos útirányokon, ATS vagy szabad útvonalakon.
 
-5-5 ábra. Oldalirányú elkülönítési pontok és a konfliktus terület (lásd 5.4.1.2.1.5.1)
+Kijelölt légtérben vagy kijelölt útvonalakon, ahol a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendeletben meghatározott navigációs követelményt ír elő, az RNAV berendezéssel felszerelt légijárművek között oldalirányú elkülönítés érhető el azáltal, hogy a légijárműveknek olyan párhuzamos útirányok, ATS vagy szabad útvonalak középvonalán kell repülniük, amelyek egymás közötti távolsága biztosítja, hogy az útirányok, ATS vagy szabad útvonalak védő területei nem fedik egymást.
 
-Megjegyzés: Az oldalirányú elkülönítési pontokat a következő képlettel számítják:
+Párhuzamos útirányok között, párhuzamos ATS vagy szabad útvonalak középvonalai között – melyekre meghatározott navigációs követelményt írtak elő –, az oldaltávolság az adott navigációs követelmény függvénye.
+
+5.4.1.2.1.6 Légijárművek oldalirányú elkülönítése párhuzamos útirányokon, nem keresztező útirányokon, ATS vagy szabad útvonalakon.
+
+Párhuzamos útirányokon, nem keresztező útirányokon, ATS vagy szabad útvonalakon üzemelő légijárművek között, kijelölt légtérben vagy kijelölt útvonalakon az oldalirányú elkülönítés akkor valósul meg, ha
+
+a) RNAV10 (RNP 10) alkalmazása esetén az útirányok közötti legkisebb távolság 50 NM (93 km),
+
+b) RNP 4 alkalmazása esetén az útirányok közötti legkisebb távolság 30 NM (55,5 km).
+
+5.4.1.2.1.7 RNAV üzemelés, ahol meghatározott navigációs követelményt írnak elő keresztező útirányokon, ATS vagy szabad útvonalakon.
+
+Az itt leírt elkülönítés használata olyan keresztező útirányokra korlátozódik, mely keresztező útirányok közös pontjuknál az összetartás vagy széttartás 15 és 135 fok közötti szögtartományba esik.
+
+5.4.1.2.1.7.1 Keresztező útirányoknál a terület ki és belépő pontjait, ahol az útirányok közötti oldaltávolság kevesebb, mint az előírt minimum, oldalirányú elkülönítési pontoknak nevezik. Az oldalirányú elkülönítés pontjait határoló területet a keresztezés konfliktus területének nevezik (lásd az 5-5. ábrát).
+
+5-5. ábra. Oldalirányú elkülönítési pontok és a konfliktus terület (lásd 5.4.1.2.1.7.1)
+
+Megjegyzés: Az oldalirányú elkülönítési pontokat a következő képlettel számítják: l = Sy / (sinθ)
 
 ahol:
 
 Sy = az útirányok közötti oldalirányú távolság megegyezik az oldalirányú elkülönítési minimummal.
 
-= az oldalirányú elkülönítés távolsága az útirányok keresztezési pontjától, és
+l = az oldalirányú elkülönítés távolsága az útirányok keresztezési pontjától, és
 
-θ = az utirányok által bezárt szög.
+θ = az útirányok által bezárt szög.
 
-5.4.1.2.1.5.2 Az oldalirányú elkülönítési pontok útirány keresztezési ponttól mért távolságát összeütközési kockázatelemzéssel határozzák meg, amely olyan tényezőtől függ, mint például a légijármű navigációs pontossága, a forgalom sűrűsége, a keresztezési pont használatának gyakorisága.
+5.4.1.2.1.7.2 Az oldalirányú elkülönítési pontok útirány keresztezési ponttól mért távolságát összeütközési kockázatelemzéssel határozzák meg, amely olyan tényezőtől függ, mint például a légijármű navigációs pontossága, a forgalom sűrűsége, a keresztezési pont használatának gyakorisága.
 
 1. Megjegyzés: Az oldalirányú elkülönítés pontjainak meghatározására és az összeütközési veszély elemzéssel kapcsolatos tájékoztatás a Légtér Tervezési Módszerek Az Elkülönítési Minimumok Meghatározására Kézikönyvben (ICAO Doc. 9689) található.
 
 2. Megjegyzés: Budapest FIR-ben jelenleg oldalirányú elkülönítési pontok nincsenek kijelölve.
 
-5.4.1.2.1.5.3 Két légijármű között oldalirányú elkülönítés áll fenn, amikor legalább az egyik légijármű a keresztezés konfliktus területén kívül található.
+5.4.1.2.1.7.3 Két légijármű között oldalirányú elkülönítés áll fenn, amikor legalább az egyik légijármű a keresztezés konfliktus területén kívül található.
 
-5.4.1.2.1.6 Átmenet egy olyan légtérbe, ahol nagyobb oldalirányú elkülönítési minimumot alkalmaznak. Az oldalirányú elkülönítés fenn áll, ha légijárművek olyan meghatározott útirányokon repülnek, amelyek:
+5.4.1.2.1.8 Átmenet egy olyan légtérbe, ahol nagyobb oldalirányú elkülönítési minimumot alkalmaznak. Az oldalirányú elkülönítés fennáll, ha a légijárművek olyan meghatározott útirányokon repülnek, amelyek:
 
 a) valamely megfelelő minimummal egymástól el vannak különítve; és
 
@@ -2890,7 +2908,9 @@ a) a légijárműveket VOR/DME berendezéssel kijelölt ATS útvonalakon kell ve
 
 b) ha ilyen útvonalak nem állnak rendelkezésre, a légijárműveket hagyományos navigációs berendezések között (VOR, DME) kell repültetni.
 
-Megjegyzés: Az ilyen módon repültetett légijárművek esetében az érintett légiforgalmi irányító egység részéről folyamatos radarmegfigyelésre lehet szükség.
+4.5.7.2.6 Az olyan légijárművet, amely P-RNAV képességgel nem rendelkezik, vagy P-RNAV képességét elveszítette, olyan SID-en vagy STAR-on kell vezetni, amelyre a P-RNAV képesség szükségessége nincs előírva.
+
+A 4.5.7.2.5 és 4.5.7.2.6 pontban meghatározott módon üzemeltetett légijárművek esetében az érintett légiforgalmi irányító egység részéről folyamatos radarmegfigyelésre lehet szükség.
 
 Ha a fenti eljárások nem alkalmazhatók, a légiforgalmi irányító egységnek radarvektorálással kell a légijárművet vezetnie, míg az saját navigációval történő működésre nem képes.
 
@@ -3074,11 +3094,11 @@ b) olyan futópályáknál, amelyekre precíziós megközelítéseket végeznek.
 
 | Átváltási magasság | QNH (hPa) | Átváltási szint Budapest FIR-ben |
 
-| 9000 láb (2750 m) | 1013,3 és felette | FL100 |
+| 9000 láb (2750 m) | 1013,3 és felette | FL 100 |
 
-| 1013,2 – 977,2 | FL110 |
+|  | 1013,2 - 977,2 | FL 110 |
 
-| 977,1 és alatta | FL120 |
+|  | 977,1 és alatta | FL 120 |
 
 4.10.3 IFR repülések legalacsonyabb utazómagassága
 
@@ -3086,7 +3106,7 @@ b) olyan futópályáknál, amelyekre precíziós megközelítéseket végeznek.
 
 1. Megjegyzés: Budapest FIR-re vonatkozó legalacsonyabb repülési magasságokat a Magyar AIP tartalmazza.
 
-2. Megjegyzés: Az 1. számú mellékletben foglaltak szerint a légiforgalmi irányító szolgálatok feladatai nem terjednek ki a földdel való összeütközés megelőzésére. Ennek következtében a jelen melléklet eljárásai nem mentesítik a légijármű vezetőjét azon felelőssége alól, hogy meggyőződjön arról, hogy a légiforgalmi irányító egységek által kiadott valamennyi engedély biztonságos ebben a vonatkozásban. Amikor egy IFR légijárművet radarvektorálással irányítanak, vagy olyan közvetlen útvonalat adnak számára, ami a légijárművet letéríti az ATS útvonalról, a 8. Fejezet 8.6.5.2. pontjában leírt eljárást kell alkalmazni.
+2. Megjegyzés: Az 1. számú mellékletben foglaltak szerint a légiforgalmi irányító szolgálatok feladatai nem terjednek ki a földdel való összeütközés megelőzésére. Ennek következtében a jelen melléklet eljárásai nem mentesítik a légijármű vezetőjét azon felelőssége alól, hogy meggyőződjön arról, hogy a légiforgalmi irányító egységek által kiadott valamennyi engedély biztonságos ebben a vonatkozásban. Amikor egy IFR légijárművet radarvektorálással irányítanak, vagy olyan közvetlen útvonalat adnak számára, ami a légijárművet letéríti az ATS vagy szabad útvonalról, a 8. Fejezet 8.6.5.2. pontjában leírt eljárást kell alkalmazni.
 
 4.10.4 Tájékoztatásnyújtás a magasságmérő beállításhoz
 
@@ -4384,7 +4404,7 @@ Megjegyzés: Lásd az 5-43 ábrát.
 
 2. Megjegyzés: Magától értetődő, hogy a VFR repülésnek mindig látási meteorológiai körülmények között kell maradnia. Ennek megfelelően, egy VFR repülésnek olyan engedély kiadása, hogy repüljön VMC-ben saját elkülönítés tartásával, semmi mást nem céloz, csupán annak hangsúlyozását, hogy a légiforgalmi irányítás más légijárműtől elkülönítést nem biztosit.
 
-3. Megjegyzés: Az 1. számú mellékletben foglaltak szerint a légiforgalmi irányító szolgálatok feladatai nem terjednek ki a földdel való összeütközés megelőzésére. Ennek következtében a jelen melléklet eljárásai nem mentesítik a légijármű vezetőjét azon felelőssége alól, hogy meggyőződjön arról, hogy a légiforgalmi irányító egységek által kiadott valamennyi engedély biztonságos ebben a vonatkozásban., Amikor egy IFR légijárművet radarvektorálással irányítanak, vagy olyan közvetlen útvonalat adnak számára, ami a légijárművet letéríti az ATS útvonalról, a 8. Fejezet 8.6.5.2 pontjában leírt eljárást kell alkalmazni.
+3. Megjegyzés: Az 1. számú mellékletben foglaltak szerint a légiforgalmi irányító szolgálatok feladatai nem terjednek ki a földdel való összeütközés megelőzésére. Ennek következtében a jelen melléklet eljárásai nem mentesítik a légijármű vezetőjét azon felelőssége alól, hogy meggyőződjön arról, hogy a légiforgalmi irányító egységek által kiadott valamennyi engedély biztonságos ebben a vonatkozásban., Amikor egy IFR légijárművet radarvektorálással irányítanak, vagy olyan közvetlen útvonalat adnak számára, ami a légijárművet letéríti az ATS vagy szabad útvonalról, a 8. Fejezet 8.6.5.2 pontjában leírt eljárást kell alkalmazni.
 
 D és E osztályú légterekben történő üzemelés esetén, ha a légijármű kéri, a másik légijármű vezető beleegyezésével egy ATC egység engedélyt adhat nappal, látási meteorológiai körülmények között működő ellenőrzött repülésnek, beleértve az induló és érkező repüléseket is arra, hogy VMC-ben maradva, saját elkülönítést tartson a másik légijárműtől. Amikor valamely ellenőrzött repülésnek ilyen engedélyt adnak, a következőket kell alkalmazni:
 
@@ -4912,16 +4932,4 @@ c) értesítenie kell az „S” módot azonosítási célra felhasználó köve
 
 Ezen értékek elérésekor, vagy ezeket meghaladó eltérés esetén az irányítók kérhetik a „C” módú információ adásának megszüntetését.
 
-Megjegyzés: Amennyiben a transzponder műszaki sajátosságai következtében a „C” mód kikapcsolása az „A” módú üzemet is megszakítja, erre a légijármű vezetőjének figyelmeztetnie kell az irányítót.
-
-8.5.4.1.2 Az irányító számára megjelenített „C” módtól származó magasság tájékoztatás pontosságát minden megfelelően felszerelt ATC egység, legalább egyszer ellenőrizze az érintett légijárművel való első összeköttetés felvételekor, vagy ha ez nem megvalósítható, utána amilyen hamar csak lehetséges. Az ellenőrzés ugyanezen légijárműtől rádiótávbeszélőn kapott, magasságmérőtől származó magasság tájékoztatással való egyidejű összehasonlítás útján történjen. Azon légijármű vezetőjét, akinek „C” módtól származó magasság tájékoztatása a jóváhagyott tűrésértéken belül van, az ilyen ellenőrzés eredményéről nem kell tájékoztatni.
-
-8.5.4.1.3 Ha a megjelenített magasság tájékoztatás nincs a jóváhagyott tűrésértéken belül, vagy ha az ellenőrzés végrehajtása után a későbbiek során bármikor a jóváhagyott tűrésértéket meghaladó eltérést észlelnek, a légijárművezetőt erről értesíteni kell, és fel kell kérni, hogy ellenőrizze a nyomás beállítását és erősítse meg magasságát.
-
-8.5.4.1.4 Ha a helyes nyomásbeállítás megerősítése után az eltérés továbbra is megmarad, a körülményektől függően a következőket tegyék:
-
-a) kérjék fel a légijárművezetőt, hogy szüntesse meg a „C” mód adását, feltéve, hogy az nem szakítja meg válaszjeladójának „A” módú üzemét, és erről az intézkedésről tájékoztassák a légijármű által érintett soron következő irányítói munkahelyeket vagy ATC egységet,
-
-b) tájékoztassák a légijárművezetőt az eltérésről, és kérjék fel őt, hogy a légijárműre vonatkozó helyzet- és azonosságtájékoztatás fenntartása érdekében folytassa „C” módú üzemét, és tájékoztassák:
-
-[^6]: A 2. számú melléklet a 115/2005. (XII. 27.) GKM rendelet 2. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (3) bekezdése, a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 25. § (3) bekezdésének a) pontja, a 46/2008. (XII. 31.) KHEM rendelet 1. §-a, az 56/2011. (XI. 8.) NFM rendelet 8. § (2) bekezdése és 10. § (2) bekezdés b)–e) pontja, a 91/2011. (XII. 30.) NFM rendelet 9. § c)–d) pontja, a 6/2013. (II. 22.) NFM rendelet 2. §-a, a 15/2014. (IV. 3.) NFM rendelet 2. §-a szerint módosított szöveg.
+[^6]: A 2. számú melléklet a 115/2005. (XII. 27.) GKM rendelet 2. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (3) bekezdése, a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 25. § (3) bekezdésének a) pontja, a 46/2008. (XII. 31.) KHEM rendelet 1. §-a, az 56/2011. (XI. 8.) NFM rendelet 8. § (2) bekezdése és 10. § (2) bekezdés b)–e) pontja, a 91/2011. (XII. 30.) NFM rendelet 9. § c)–d) pontja, a 6/2013. (II. 22.) NFM rendelet 2. §-a, a 15/2014. (IV. 3.) NFM rendelet 2. §-a, a 4/2015. (II. 3.) NFM rendelet 2. § b) pontja szerint módosított szöveg.
