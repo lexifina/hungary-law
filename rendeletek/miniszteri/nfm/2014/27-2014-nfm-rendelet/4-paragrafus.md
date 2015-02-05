@@ -8,8 +8,10 @@
 
 (4) A légiutas-kísérőre vonatkozó követelményeket a MED rész C. alrésze és a hozzá tartozó AMC tartalmazza. A légiutas-kísérőre vonatkozó követelményeket az e rendeletben foglaltakkal együtt kell alkalmazni.
 
-(5) A légiforgalmi irányítónak, a gyakornok légiforgalmi irányítónak, a repüléstájékoztatónak és a légiforgalmi tisztnek meg kell felelnie az I. Fejezet szerinti 3. osztály követelményeinek.
+(5)[^1] A légiforgalmi irányítónak, a gyakornok légiforgalmi irányítónak és a repüléstájékoztatónak meg kell felelnie az I. Fejezet szerinti 3. osztály követelményeinek.
 
 (6) Az (1)–(5) bekezdésben nem említett, munkaviszony keretében ellátott szakszolgálati tevékenységek esetén a foglalkozás-egészségügyi szabályokat kell figyelembe venni.
 
 (7) A repülőeszköz vezetőjének meg kell felelnie a MED rész B. alrész 3. szakasza szerinti LAPL orvosi minősítés követelményeinek és a hozzá tartozó AMC-ben foglalt követelményeknek az e rendeletben foglaltakkal együtt.
+
+[^1]: A 4. § (5) bekezdése a 4/2015. (II. 3.) NFM rendelet 5. §-a szerint módosított szöveg.
