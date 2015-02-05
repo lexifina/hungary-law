@@ -32,10 +32,12 @@ m) idegenforgalom.
 
 (4) A testület tagjai nem részesülnek díjazásban.
 
-(5) A testület a pályázatok benyújtási határidejének lejártát követő 60 napon belül összeül, és értékeli a beérkezett pályázatokat.
+(5)[^3] A miniszter a pályázatokat legkésőbb a pályázati év szeptember 15. napjáig megküldi a testületnek, mely azokat 60 napon belül értékeli.
 
 (6) A testület az értékelést az EU határozatban lefektetett célkitűzések figyelembevételével, valamint az EU határozat 7. cikkében meghatározott kritériumok és a benyújtott pályázati formanyomtatvány alapján végzi.
 
 (7) A pályázat elbírálásában nem vehet részt, akitől az ügy elfogulatlan, pártatlan megítélése nem várható el. A testület tagja írásban nyilatkozik arról, hogy vele szemben nem áll fenn összeférhetetlenség.
 
 (8) A testület az értékelést követő 30 napon belül minden helyszínre kiterjedő, részletes indokolással ellátott javaslatot tesz a miniszternek az Európai Örökség címre felterjesztendő helyszínekre.
+
+[^3]: A 4. § (5) bekezdése a 4/2015. (II. 2.) MvM rendelet 2. §-ával megállapított szöveg.

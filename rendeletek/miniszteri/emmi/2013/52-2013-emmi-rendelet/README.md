@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-52-20-5
 | --- | --- | --- |
 | 2013-07-18 | 2013-52-20-5H.1 | 52/2013. (VII. 15.) EMMI rendelet |
 | 2013-07-19 | 2013-52-20-5H.2 | 2010: CXXX. törvény |
+| 2015-02-05 | 2013-52-20-5H.3 | 4/2015. (II. 2.) MvM rendelet |
