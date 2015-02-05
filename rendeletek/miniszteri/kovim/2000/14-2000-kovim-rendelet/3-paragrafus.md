@@ -502,11 +502,11 @@ Az „RVSM engedélyezett légijármű” a légiközlekedési hatóság által 
 
 2.6.2.1.1. Amennyiben az illetékes légiforgalmi irányító egységtől más felhatalmazást vagy utasítást nem kapott – amennyire lehetséges – az ellenőrzött légijármű
 
-a) kijelölt ATS útvonalon történő repüléskor az útvonal meghatározott középvonalán, vagy
+a) kijelölt ATS vagy szabad útvonalon történő repüléskor az útvonal meghatározott középvonalán, vagy
 
 b) más útvonalon történő repüléskor az útvonalat kijelölő navigációs berendezések és/vagy pontok között közvetlenül repüljön.
 
-2.6.2.1.2. A 2.6.2.1.1. pontban előírtak szem előtt tartása mellett, a VOR berendezésekkel kijelölt ATS útvonal szakaszon működő légijármű a már átrepült berendezés követéséről az előtte lévő berendezés követésére – ahol ilyet létrehoztak – az átkapcsolási pontnál, vagy ahhoz az üzemeltetési szempontok szerinti lehető legközelebb álljon át.
+2.6.2.1.2. A 2.6.2.1.1. pontban előírtak szem előtt tartása mellett, a VOR berendezésekkel kijelölt ATS vagy szabad útvonal szakaszon működő légijármű a már átrepült berendezés követéséről az előtte lévő berendezés követésére – ahol ilyet létrehoztak – az átkapcsolási pontnál, vagy ahhoz az üzemeltetési szempontok szerinti lehető legközelebb álljon át.
 
 2.6.2.1.3. A 2.6.2.1.2. pontban előírtaktól történő eltérést az illetékes légiforgalmi szolgálati egységgel közölni kell.
 
@@ -686,17 +686,19 @@ Megjegyzés: A meteorológiai tájékoztatásra vonatkozó előírásokat – be
 
 Az ADS alapadat blokk adását valamennyi ADS-sel felszerelt légijárműtől megkövetelik. A többi ADS adatblokkot az igényeknek megfelelően kell az adásba belefoglalni. Bármely további, ATS célokat szolgáló adást és az f) adatblokkot (Meteorológiai tájékoztatás) az ICAO 3. Annex 5.4.1 pontjában leírtaknak megfelelően kell továbbítani. Kényszerhelyzet és/vagy sürgősségi helyzet esetén, a vonatkozó ADS adáson felül, a jelentésbe bele kell foglalni a kényszerhelyzet és/vagy sürgősségi helyzet státusát is.
 
-2.6.4. RNAV útvonalon történő üzemelés
+2.6.4. RNAV vagy szabad útvonalon történő üzemelés
 
-2.6.4.1. RNAV útvonalon történő repülés megkezdése előtt és az azokon történő működés során meg kell bizonyosodni a légijármű RNAV rendszerének megfelelő működéséről. Ez magában foglalja annak ellenőrzését, hogy
+Az RNAV vagy szabad útvonalon történő üzemeltetésnek meg kell felelnie a European Aviation Safety Agency (EASA) AMC 20-4 vagy azzal egyenértékű dokumentum B-RNAV-ra (RNAV5) vonatkozó előírásainak.
+
+2.6.4.1. Az RNAV vagy szabad útvonalon történő repülés megkezdése előtt és az azokon történő üzemeltetés során meg kell bizonyosodni a légijármű RNAV rendszerének megfelelő működéséről. Ez magában foglalja a következők ellenőrzését:
 
 a) a repülési útvonal megfelel az engedélynek, és
 
-b) a légijármű navigációs pontossága RNP5-nek megfelelő.
+b) a légijármű navigációs képessége legalább RNAV5-nek megfelelő
 
-2.6.4.2. Ha az RNAV berendezés meghibásodása, vagy az RNAV képesség RNP5 alá csökkenése miatt valamely légijármű nem képes repülését az RNAV útvonalon megkezdeni, vagy nem tud az érvényes irányítói engedély szerint tovább működni, a légijármű vezetőjének mihelyt lehetséges, módosított engedélyt kell kérnie.
+2.6.4.2. Ha bármilyen ok miatt a navigációs képesség nem felel meg az RNAV5 követelményeknek, és ezért a légijármű nem képes repülését RNAV vagy szabad útvonalon megkezdeni, vagy nem tud az érvényes irányítói engedély szerint tovább repülni, amint lehetséges, a légijármű vezetőjének módosított engedélyt kell kérnie.
 
-Megjegyzés: A légiforgalmi irányítás légijárművel kapcsolatos ezt követő eljárását a jelentett meghibásodás és a forgalmi helyzet határozza meg. Sok esetben lehetséges a további üzemelés az érvényes ATC engedélynek megfelelően. Ha erre nincs mód, a légiforgalmi irányító radarvektorálást alkalmazhat, vagy VOR/DME berendezések segítségével követhető útvonalat határoz meg.
+Megjegyzés: A légiforgalmi irányítás légi járművel kapcsolatos ezt követő eljárását a jelentett meghibásodás és a forgalmi helyzet határozza meg. Sok esetben lehetséges a további üzemelés az érvényes ATC, engedélynek megfelelően. Ha erre nincs mód, a légiforgalmi irányító radarvektorálást alkalmazhat, vagy VOR/DME berendezések segítségével követhető útvonalat határoz meg.
 
 2.6.5. Az irányítás befejezése
 
@@ -829,6 +831,8 @@ Megjegyzés: A repülési tervet benyújtott légijárművek rádióösszekötte
 2.8.3. Az útvonalrepülés végrehajtásakor különös gonddal kell megközelíteni a helyi ATS egységgel nem rendelkező repülőtereket és vitorlázó légtereket.
 
 Megjegyzés: Azokon a nem ellenőrzött repülőtereken, ahol AFIS-t nem nyújtanak, a repülőterek működésére vonatkozó információt esetlegesen a repülőtéri rádióállomástól lehet kérni.
+
+Nemzetközi repülés esetén az ilyen repülőtéren történő leszálláskor a repülési terv levegőből történő lezárása nem megengedett, a tényleges leszállást követően, annak időpontját telefonon közölni kell a FIC-cel.
 
 2.8.4. Rádióval fel nem szerelt légijárműveknek útvonalrepülés végrehajtása során el kell kerülniük a működő forgalmi tájékoztató körzeteket.
 
@@ -1030,7 +1034,7 @@ A légijármű parancsnoka felelős azért, hogy valamely repülőtéren törté
 
 2.12.4. Az államhatár átrepülése. Rendes körülmények között Magyarország államhatárát csak az erre kijelölt pontokon szabad átrepülni.
 
-Magyarország államhatárát a VFR szerint működő légijárművek bármely ATS útvonal ki- és belépő pontja felett átrepülhetik.
+Magyarország államhatárát a VFR szerint működő légijárművek bármely kijelölt ki- és belépő pont felett átrepülhetik.
 
 Budapest FIR-be belépő VFR repülésnek legkésőbb 10 perccel a FIR határ keresztezése előtt Budapest ACC-t, vagy a FIC-et – amelyik az illetékes – tájékoztatnia kell a belépés körülményeiről.
 
@@ -1314,9 +1318,7 @@ Megjegyzés: A felmentést kapott légijármű üzemeltetők vegyék figyelembe,
 
 Azon légijárművek számára, amelyek ugyan „S” módú transzponderrel vannak felszerelve, de az nem rendelkezik az előírt funkciókkal, az ATS egységeknek a lehető legmagasabb szintű, hátrányos megkülönböztetés nélküli szolgáltatást kell nyújtaniuk.
 
-4.4.4. A nemzetközi repülést végző IFR szerint működő légijárműveket – az állami légijárművek kivételével – legalább RNP5 követelményeknek megfelelő RNAV berendezéssel kell felszerelni.
-
-Belföldi repülés esetén az ellenőrzött légtérben kijelölt alacsonylégtéri RNAV útvonalakon közlekedő IFR légijárműveknek ugyancsak RNP5 útvonaltartási pontossággal kell repülniük. Ez RNAV berendezéssel, vagy ha az útvonal VOR/DME berendezéssel van kijelölve, ilyen fedélzeti berendezéssel egyaránt elérhető.
+4.4.4. Budapest CTA-ban a szabad és a kijelölt ATS útvonalakon IFR szerint működő légijárművet – az állami légijárművek kivételével – legalább B-RNAV berendezéssel kell felszerelni. A B-RNAV útvonalon üzemeltetett légijárműveknek rendelkeznie kell a B-RNAV követelmények teljesítéséhez szükséges, a légijárművekre meghatározott felszereltséggel.
 
 4.4.5. Összeütközési veszélyt jelző fedélzeti rendszer (ACAS) kötelező felszerelésére és működtetésére vonatkozó elfogadott telepítési ütemterv szerint valamennyi polgári, merev szárnyú sugárhajtású légijárművet amelynek
 
@@ -3308,6 +3310,34 @@ A repülési útvonal leírásának általános szabályai
 
 Nemzetközi repülések esetében, ha indulás előtt a légijármű személyzete arra számít, hogy a repülés végrehajtási körülményeitől függően (például üzemanyag-mennyiség) repülés közben dönti el, hogy a repülést egy módosított rendeltetési repülőtérig folytatja, a repülési tervet az eredeti rendeltetési repülőtérig terjedő szakaszra kell kitölteni, és az egyéb tájékoztatások rovatban kell jelezni a módosított rendeltetési repülőteret és ha lehet, az odavezető útvonalat.
 
+Szabad útvonalú légtérben történő repülések:
+
+A szabad útvonal megadásához írja be:
+
+- annak a fontos pontnak a kódjelölését, ahol a SID befejeződik vagy a szabad útvonalú légtérbe belép, azt követően a DCT (direkt) betűket és a következő fontos pont kódjelölését
+
+pl. TORNO DCT NATEX …, BUDOP DCT BEGLA…
+
+- a DCT betűket és a következő fontos pont kódjelölését, ha az indulási repülőtéren SID-ek nincsenek kijelölve,
+
+pl. LHBC DCT DODAR
+
+- a földi telepítésű navigációs berendezések kódjelölését, ha a fedélzeti rendszer nem teszi lehetővé az RNAV5-nek megfelelő üzemelést
+
+pl. BUDOP DCT BKS DCT BUG DCT PTB DCT GYR DCT BEGLA
+
+Ezt követően be kell írni minden olyan fontos pontot, ahol:
+
+- az útvonal,
+
+- az utazósebesség vagy utazómagasság,
+
+- a repülési szabályok, vagy
+
+- a repülés jellegének megváltoztatását
+
+tervezik.
+
 Kijelölt ATS útvonalakon történő repülések:
 
 Az útvonal kezdetének megadásához be kell írni:
@@ -5084,35 +5114,5 @@ Azon repülések, amelyek GAT szabályoktól eltérő – a katonai légügyi ha
 
 141. Nem ellenőrzött légtér – Uncontrolled airspace
 
-Mindazon légtér, amelyben légiforgalmi irányító szolgálatot nem nyújtanak.
-
-142. Nem ellenőrzött repülőtér – Uncontrolled aerodrome
-
-Olyan repülőtér, ahol légiforgalmi irányító szolgálatot nem nyújtanak.
-
-143. Nemzetközi NOTAM iroda – International NOTAM office
-
-NOTAM-ok nemzetközi cseréjére az állam által kijelölt iroda.
-
-Megjegyzés: Budapest FIR-ben a nemzetközi NOTAM iroda a HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság Légitájékoztató Osztályának szervezetébe tartozik.
-
-144. Nemzetközi repülés – International flight
-
-Államhatárt keresztező repülés.
-
-145. Nemzetközi Repülési Távközlési Társaság (SITA) – Societe Internationale de Telecommunications Aeronautiques (SITA)
-
-A légitársaságok által használt világméretű távközlési és adatátviteli rendszer, amelyet többek között a repülőtéri kiszolgálás, helyfoglalás, jegykiállítás és teljes repülőtéri utas felvétel adatcseréjére használnak.
-
-146. NOTAM
-
-Bármely légiforgalmi berendezés, szolgálat, eljárás létesítéséről, állapotáról, változásáról vagy veszély fennállásáról szóló értesítés, amelynek idejében való ismerete elengedhetetlenül szükséges a repülésben érdekelt személyzet részére. Az értesítés szétosztása távközlési eszközökkel történik.
-
-147. Nyomás-magasság – Pressure altitude
-
-Tengerszint feletti magasságértékben kifejezett légnyomás érték, amely megfelel az Egyezményes Légkörben ugyanilyen nyomás értéknek.
-
-148. Nyomtatott formájú közleményváltás – Printed communication
-
 [^3]: A 3. §-t a 29/2008. (X. 30.) KHEM rendelet 1. §-a iktatta be.
-[^4]: A melléklet a 115/2005. (XII. 27.) GKM rendelet 1. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (1) bekezdése, a 95/2006. (XII. 27.) GKM rendelet 24. §-a, a 87/2007. (XI. 6.) GKM rendelet 1. §-a, a 118/2007. (XII. 29.) GKM rendelet 2. § (5) bekezdése, a 29/2008. (X. 30.) KHEM rendelet 2. §-a, az 56/2011. (XI. 8.) NFM rendelet 9. §-a, 10. § (3) bekezdése és 11. § (2) bekezdése, a 91/2011. (XII. 30.) NFM rendelet 8. § a)–b) pontja, a 6/2013. (II. 22.) NFM rendelet 1. §-a, a 15/2014. (IV. 3.) NFM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A melléklet a 115/2005. (XII. 27.) GKM rendelet 1. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (1) bekezdése, a 95/2006. (XII. 27.) GKM rendelet 24. §-a, a 87/2007. (XI. 6.) GKM rendelet 1. §-a, a 118/2007. (XII. 29.) GKM rendelet 2. § (5) bekezdése, a 29/2008. (X. 30.) KHEM rendelet 2. §-a, az 56/2011. (XI. 8.) NFM rendelet 9. §-a, 10. § (3) bekezdése és 11. § (2) bekezdése, a 91/2011. (XII. 30.) NFM rendelet 8. § a)–b) pontja, a 6/2013. (II. 22.) NFM rendelet 1. §-a, a 15/2014. (IV. 3.) NFM rendelet 1. §-a, a 4/2015. (II. 3.) NFM rendelet 1. §-a szerint módosított szöveg.
