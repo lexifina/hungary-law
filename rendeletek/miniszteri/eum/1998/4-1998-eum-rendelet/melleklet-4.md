@@ -1,4 +1,4 @@
-4. számú melléklet a 4/1998. (XI. 11.) EüM rendelethez[^13]
+4. számú melléklet a 4/1998. (XI. 11.) EüM rendelethez[^14]
 
 Az élelmiszer-előállítás belső minőségellenőrzését szolgáló mikrobiológiai vizsgálatok és ajánlott határértékek
 
@@ -156,4 +156,4 @@ Megjegyzés:
 
 **** Lágy sajt esetében Coliform m: 104, M:105
 
-[^13]: A 4. számú melléklet a Magyar Közlöny 1999. évi 8. számában közzétett helyesbítésnek megfelelő szöveg.
+[^14]: A 4. számú melléklet a Magyar Közlöny 1999. évi 8. számában közzétett helyesbítésnek megfelelő szöveg.

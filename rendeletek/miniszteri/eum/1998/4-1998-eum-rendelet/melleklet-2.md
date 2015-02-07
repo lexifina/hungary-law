@@ -18,7 +18,7 @@
 
 ## 8. Ha a mintavételt ételfertőzés, ételmérgezés kivizsgálása vagy egészségkárosodás gyanúja, illetve veszélyének elhárítása érdekében végzik, árukészletnek kell minősíteni a mintavétel helyén feltalálható minden azonos fajta élelmiszert, ha megfelelő jelzés hiányában, illetve egyéb adatok (pl. szállítólevél) alapján a tételre történő szétválasztás biztonságosan nem oldható meg, valamint akkor is, ha az élelmiszer azonos termelői helyről származik, azonos fajta és jelzéssel ugyan ellátott, azonban az eltérő jelzések nagy száma miatt a szétválogatás technikailag nem oldható meg.
 
-## II.[^10] A Magyar Köztársaság területén előállított élelmiszerek esetében kötelező vizsgálatok és határértékek
+## II.[^11] A Magyarország területén előállított élelmiszerek esetében kötelező vizsgálatok és határértékek
 
 | MEGNEVEZÉS | VIZSGÁLAT | n | c | m | M |
 
@@ -108,7 +108,7 @@
 
 ## Kifogásolt az ital, ha a 2. számú melléklet 1–3. pontjában meghatározott kórokozót tartalmaz, illetve ha a mikroorganizmusok száma meghaladja a II. részben megadott ,,M'' értékeket.
 
-## 4.[^11] Konzervek élelmiszer-biztonsági mikrobiológiai megítélése
+## 4.[^12] Konzervek élelmiszer-biztonsági mikrobiológiai megítélése
 
 ## 4.1. Teljes konzerv: légmentesen zárt csomagolású, hőkezeléssel olyan mértékben tartósított termék, amely szobahőmérsékleten hosszú ideig eltartható. A teljes konzerv tételek mikrobiológiai megítélésénél a minőségmegőrzési időn belül a tartóssági próbához előírt elemi mintaszám 10%-át kell mintának venni, és a tartóssági próba után feldolgozni. Ez a szám azonban 2 db csomagolási egységnél kevesebb nem lehet.
 
@@ -126,7 +126,7 @@
 
 ## * Technológiai higiéniai kritériumként szerepel.
 
-2. számú melléklet a 4/1998. (XI. 11.) EüM rendelethez[^12]
+2. számú melléklet a 4/1998. (XI. 11.) EüM rendelethez[^13]
 
 ## Az élelmiszer megítélését befolyásoló kórokozók
 
@@ -186,6 +186,6 @@ Echinococcus,
 
 Trichinella spiralis és egyéb Trichinella fajok.
 
-[^10]: Az 1. számú melléklet II. pontja a 46/2007. (X. 29.) EüM rendelet 6. §-ával megállapított szöveg.
-[^11]: Az 1. számú melléklet III. pontjának 4. alpontja a 46/2007. (X. 29.) EüM rendelet 6. §-ával megállapított szöveg.
-[^12]: A 2. számú melléklet a 46/2007. (X. 29.) EüM rendelet 6. §-ával megállapított szöveg.
+[^11]: Az 1. számú melléklet II. pontja a 46/2007. (X. 29.) EüM rendelet 6. §-ával megállapított, a 3/2015. (II. 6.) FM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^12]: Az 1. számú melléklet III. pontjának 4. alpontja a 46/2007. (X. 29.) EüM rendelet 6. §-ával megállapított szöveg.
+[^13]: A 2. számú melléklet a 46/2007. (X. 29.) EüM rendelet 6. §-ával megállapított szöveg.
