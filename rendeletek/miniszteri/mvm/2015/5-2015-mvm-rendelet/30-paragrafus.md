@@ -1,0 +1,1 @@
+## 29. § Az Országos Műemléki Felügyelőség 8178/1972. számú határozatával védetté nyilvánított, Hidegség (Győr-Moson-Sopron megye) 17 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (lakóház) megsemmisülésére tekintettel – megszüntetem.

@@ -1,0 +1,1 @@
+## 1. § Az Országos Műemléki Felügyelőség 2240/1970. számú határozatával védetté nyilvánított, Budapest XII. kerület, Istenhegyi út 16. számú, 8342 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy a műemlék szakmai ismérveinek nem felel meg – megszüntetem.

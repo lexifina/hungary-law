@@ -1,0 +1,1 @@
+## 31. § Az Országos Műemléki Felügyelőség 2431/1984. számú határozatával védetté nyilvánított, Tényő (Győr-Moson-Sopron megye) 321 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (lakóház) megsemmisülésére tekintettel – megszüntetem.

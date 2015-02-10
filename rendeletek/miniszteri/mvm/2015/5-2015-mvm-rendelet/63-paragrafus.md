@@ -1,0 +1,1 @@
+## 62. § Az 1620-111/1951. KM számú miniszteri döntéssel védetté nyilvánított, Veszprém (Veszprém megye) 5086 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (ú.n. Vetési oszlopfő) közgyűjteményben történő elhelyezésére tekintettel – megszüntetem.

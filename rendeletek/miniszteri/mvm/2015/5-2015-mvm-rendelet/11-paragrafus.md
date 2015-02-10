@@ -1,0 +1,1 @@
+## 10. § Az Országos Műemléki Felügyelőség 4662/1981. számú határozatával védetté nyilvánított, Battonya (Békés megye) 1473 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (lakóház-építmény) megsemmisülésére tekintettel – megszüntetem.

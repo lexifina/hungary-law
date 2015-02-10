@@ -1,0 +1,1 @@
+## 15. § A védetté nyilvánított, Orosháza (Békés megye) 90 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (népi lakóház) megsemmisülésére tekintettel – megszüntetem.

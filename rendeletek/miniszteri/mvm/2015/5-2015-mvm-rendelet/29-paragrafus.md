@@ -1,0 +1,1 @@
+## 28. § A 257/1960. ÉM számú miniszteri döntéssel védetté nyilvánított, Hegyeshalom (Győr-Moson-Sopron megye) 280 és 281 helyrajzi számon nyilvántartott ingatlanok műemléki védettségét – a műemléki érték (lakóház) megsemmisülésére tekintettel – megszüntetem.

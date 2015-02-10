@@ -1,0 +1,1 @@
+## 4. § Az Országos Műemléki Felügyelőség 16034/1981. számú határozatával védetté nyilvánított, Bugac (Bács-Kiskun megye) 0377/19 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (tanya) megsemmisülésére tekintettel – megszüntetem.

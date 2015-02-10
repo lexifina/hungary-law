@@ -1,0 +1,1 @@
+## 59. § Az Országos Műemléki Felügyelőség 5138/23/1984. számú határozatával védetté nyilvánított, Dörgicse (Veszprém megye) 0152 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy azon műemléki érték nem található – megszüntetem.

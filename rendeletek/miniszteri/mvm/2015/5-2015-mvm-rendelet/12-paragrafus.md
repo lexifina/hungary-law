@@ -1,0 +1,1 @@
+## 11. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Gyula (Békés megye), a telekalakítást követően a 6182/2 és a 6183 helyrajzi számon nyilvántartott ingatlanok műemléki védettségét – a műemléki érték (épület) megsemmisülésére tekintettel – megszüntetem.

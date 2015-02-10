@@ -1,0 +1,1 @@
+## 6. § Az Országos Műemléki Felügyelőség 14680/1975. számú határozatával védetté nyilvánított, Császártöltés (Bács-Kiskun megye) 1054 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (lakóház) megsemmisülésére tekintettel – megszüntetem.

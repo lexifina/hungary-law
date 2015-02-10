@@ -1,0 +1,1 @@
+## 43. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Balatonőszöd (Somogy megye) 82 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit (ház) helyreállíthatatlanul elvesztette – megszüntetem.

@@ -1,0 +1,1 @@
+## 32. § Az Országos Műemléki Felügyelőség 8178/1972. számú határozatával védetté nyilvánított, Und (Győr-Moson-Sopron megye) 1, 2 és 3 helyrajzi számon nyilvántartott ingatlanok műemléki védettségét – a műemléki érték (lakóház) megsemmisülésére tekintettel – megszüntetem.

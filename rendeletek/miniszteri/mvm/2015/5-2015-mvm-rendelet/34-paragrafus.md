@@ -1,0 +1,1 @@
+## 33. § Az Országos Műemléki Felügyelőség 3751/1982. számú határozatával védetté nyilvánított, Földes (Hajdú-Bihar megye) 4987 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit (csőszház) helyreállíthatatlanul elvesztette – megszüntetem.

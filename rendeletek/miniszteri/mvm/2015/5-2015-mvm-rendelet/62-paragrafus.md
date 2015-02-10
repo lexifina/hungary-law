@@ -1,0 +1,1 @@
+## 61. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Veszprém (Veszprém megye) 4799 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (laktanya) megsemmisülésére tekintettel – megszüntetem.

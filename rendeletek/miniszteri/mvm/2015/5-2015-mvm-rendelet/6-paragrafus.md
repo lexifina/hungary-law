@@ -1,0 +1,1 @@
+## 5. § Az Országos Műemléki Felügyelőség 817/1979. számú határozatával védetté nyilvánított, Bugac (Bács-Kiskun megye) 0401/7 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (tanya) megsemmisülésére tekintettel – megszüntetem.

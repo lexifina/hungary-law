@@ -1,0 +1,1 @@
+## 3. § Az Országos Műemléki Felügyelőség 4257/1981. számú határozatával védetté nyilvánított, Bugac (Bács-Kiskun megye), a telekalakítást követően a 0360/1 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (tanya) megsemmisülésére tekintettel – megszüntetem.

@@ -1,0 +1,1 @@
+## 24. § Az Országos Műemléki Felügyelőség 9241/1983. számú határozatával védetté nyilvánított, Székesfehérvár (Fejér megye) 99 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (lakóépület) megsemmisülésére tekintettel – megszüntetem.

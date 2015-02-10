@@ -1,0 +1,1 @@
+## 53. § A 863-4/1953. FOM számú miniszteri döntéssel védetté nyilvánított, Tiszadada (Szabolcs-Szatmár-Bereg megye), a telekalakítást követően a 22 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (Patay-kastély) megsemmisülésére tekintettel – megszüntetem.

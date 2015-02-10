@@ -1,0 +1,1 @@
+## 25. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Barbacs (Győr-Moson-Sopron megye) 152/3 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (kút) megsemmisülésére tekintettel – megszüntetem.

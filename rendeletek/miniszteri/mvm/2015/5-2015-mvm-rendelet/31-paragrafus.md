@@ -1,0 +1,1 @@
+## 30. § Az Országos Műemléki Felügyelőség 13748/1983. számú határozatával védetté nyilvánított, Kajárpéc (Győr-Moson-Sopron megye), a telekalakítást követően a 2501 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (borospince) megsemmisülésére tekintettel – megszüntetem.
