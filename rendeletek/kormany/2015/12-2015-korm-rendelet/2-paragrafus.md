@@ -1,0 +1,7 @@
+## 1. § A Nemzeti Stadionfejlesztési Program keretében megvalósítandó Diósgyőri Stadion rekonstrukció beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 461/2013. (XII. 4.) Korm. rendelet (továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Nemzeti Stadionfejlesztési Program keretében
+
+## a) a Miskolc közigazgatási területén fekvő, az Andrássy utca – Kilencedik utca – Tizenegyedik utca – Pereces patak által körülhatárolt földrészleteken – kivéve a 21686/4 helyrajzi számú földrészletet –, illetve az ezekből a földrészletekből telekalakítási eljárások jogerős befejezését követően kialakított földrészleteken megvalósuló, UEFA IV. kategóriájú labdarúgó stadion és kiszolgáló létesítmények megvalósítására, továbbá a létesítmény megközelítését a Lorántffy utca irányába szolgáló déli átkötés megvalósítására irányuló Diósgyőri Stadion rekonstrukció beruházással, valamint
+
+## b) a Miskolc 5080/3 helyrajzi számú földrészleten található MVSC Sporttelep – a Diósgyőri Stadion rekonstrukció során kiváltásra kerülő „Napos oldali lelátó”, pályavilágítás, illetve egyéb berendezések újrahasznosításával történő – fejlesztésével összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.”
