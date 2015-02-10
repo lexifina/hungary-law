@@ -38,4 +38,6 @@ nemzetgazdasági miniszter
 
 Határidő: az a) pont tekintetében azonnal, a b) pont tekintetében a 2016. évi központi költségvetés tervezésével összhangban
 
-7. visszavonja a Nemzeti Stadionfejlesztési Program keretében megvalósítandó Diósgyőri Stadion rekonstrukció beruházáshoz kapcsolódó intézkedésekről szóló 1895/2013. (XII. 4.) Korm. határozatot.
+7.[^1]
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
