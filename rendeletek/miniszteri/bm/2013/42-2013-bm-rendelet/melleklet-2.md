@@ -18,19 +18,19 @@ II. Meghatározó síremlékek, sírépítmények és az azokkal összefüggő t
 
 4) Jókai Mór síremléke (építész Kismarty-Lechner Jenő, 1928) (korábbi védettség szerinti műemléki törzsszám: 15637);
 
-5) a főút mentén, a 18. és a 19. parcella között lévő két árkádos építmény (építész Gerle Lajos, 1904–1908), az összes síremlékkel együtt, beleértve a fali sírboltok sorait az építmények hosszfalai mentén (korábbi védettség szerinti műemléki törzsszám: 15632);
+5)[^4] a főút mentén, a 18. és a 19. parcella között lévő két árkádos építmény (építész Gerle Lajos, 1904–1908), az V. részben azonosított síremlékekkel együtt (korábbi védettség szerinti műemléki törzsszám: 15632);
 
-6) az 1)–5) pontokban rögzített síremlékek, sírépítmények megjelenését és értékei érvényesülését biztosító alábbi parcellák jelenlegi kialakítása és képe: a 10., a 10/1, a 10/2., a 11., a 11/1., a 12., a 12/2., a 14., a 15., a 18., a 18/1., a 19., a 19/1., a 20., a 20/1., a 20/2., a 22., a 23., a 26/1., a 26/2., a 26/3., a 26/4., a 27/1., a 27/2., a 28., a 29., a 29/1., a 29/2., a 29/3., a 30., a 30/2. a 31., a 31/2., a 36., a 36/1., a 36/2., a 37., a 37/1. és a 37/2. parcella;
+6)[^5] az 1)–5) pontokban rögzített síremlékek, sírépítmények megjelenését és értékei érvényesülését biztosító alábbi parcellák kialakítása és képe: a 10., a 10/1, a 10/2., a 11., a 11/1., a 12., a 12/2., a 14., a 15., a 18., a 18/1., a 19., a 19/1., a 20., a 20/1., a 20/2., a 22., a 23., a 26/1., a 26/2., a 26/3., a 26/4., a 27/1., a 27/2., a 28., a 29., a 29/1., a 29/2., a 29/3., a 30., a 30/2. a 31., a 31/2., a 36., a 36/1., a 36/2., a 37., a 37/1. és a 37/2. parcella;
 
 7) a 6) pontban meghatározott temetőrészek önálló értéket képviselő síremlékcsoportjait a III. rész, önálló értéket képviselő egyedi síremlékeit az V. rész tartalmazza.
 
-III. Parcellák, síremlékcsoportok (azonosítás parcella száma szerint, illetve síremlékcsoportok esetén parcella száma – sor száma – sírhely száma szerint):
+III.[^6] Parcellák, síremlékcsoportok kialakítása és képe az V. részben azonosított síremlékekkel és sírépítményekkel (azonosítás parcella száma szerint, illetve síremlékcsoportok esetén parcella száma – sor száma – sírhely száma szerint):
 
-1) 9/2-1-1/2-től 9/2-1-17/18-ig: falsírboltokról (J.59-től J.67-ig) származó áthelyezett síremlékek;
+1)[^7] 9/2-1-1/2-től 9/2-1-17/18-ig: falsírboltokról (J.59-től J.67-ig) származó áthelyezett síremlékek csoportja;
 
 2) a 13. parcella (munkásmozgalmi mauzóleum és sírsétány. (építész Körner József, 1957–59.);
 
-3) 17/1-1-40-től 17/1-1-104-ig a régi budai temetőkből származó sírkövek;
+3)[^8] 17/1-1-40-től 17/1-1-104-ig a régi budai temetőkből származó sírkövek csoportja;
 
 4) 18-1-1-től 18-1-16-ig;
 
@@ -40,21 +40,21 @@ III. Parcellák, síremlékcsoportok (azonosítás parcella száma szerint, ille
 
 7) 29-1-1-től 29-1-14-ig;
 
-8) a 30., a 31. és a 31/2. parcellában az 1848/49-es szabadságharc hőseinek nyughelye;
+8)[^9] a 30., a 31. és a 31/2. parcellában az 1848/49-es szabadságharc hősei síremlékeinek csoportja;
 
-9) a 34., a 34/1., a 35., és a 35/1. parcella jelenlegi kialakítása és képe;
+9)[^10] a 34., a 34/1., a 35., és a 35/1. parcella;
 
-10) 41/2 parcella (gyermek-parcella) jelenlegi kialakítása és helyreállítandó képe;
+10)[^11] 41/2 parcella (gyermek-parcella);
 
-11) a 45. és a 45/1. parcella jelenlegi kialakítása és képe;
+11)[^12] a 45. és a 45/1. parcella;
 
-12) az 54/1. parcella (gyermek-parcella) jelenlegi kialakítása és helyreállítandó képe;
+12)[^13] az 54/1. parcella (gyermek-parcella);
 
-13) a temető főútjának mindkét oldalán található sírok a 26/1., a 26/2., a 26/4., a 27., a 27/1., a 27/2., a 34., a 34/1., a 35., a 35/1., a 42/1., a 42/2., a 42/3., a 43., a 43/1., a 50., a 50/1., a 51., a 51/1. parcellában.
+13)[^14] a temető főútjának mindkét oldalán található sírsorok a 26/1., a 26/2., a 26/4., a 27., a 27/1., a 27/2., a 34., a 34/1., a 35., a 35/1., a 42/1., a 42/2., a 42/3., a 43., a 43/1., a 50., a 50/1., a 51., a 51/1. parcellában.
 
 IV. A temető kerítésfalai mentén épített falsírboltok
 
-1) A temető összes falsírboltja a temető kerítésfalai mentén (az I. sz. kaputól – főbejárat – a Bal 3-tól 385-ig, 555-től 601-ig, és a Jobb 3-tól 570-ig), az ezeken a szakaszokon lévő kerítésfalakkal, támfalakkal, burkolatokkal, feljárókkal, sír-rácsokkal és egyéb tartozékokkal együtt, különösen az alábbiak (azonosítás az oldal jelzése és a sírhely száma szerint, illetve az eltemetettek nevével).
+1)[^15] A temető falsírboltjainak kialakítása és képe az V. részében azonosított síremlékekkel és sírépítményekkel a temető kerítésfalai mentén (az I. sz. kaputól – főbejárat – a Bal 3-tól 385-ig, 555-től 601-ig, és a Jobb 3-tól 570-ig), az ezeken a szakaszokon lévő kerítésfalakkal, támfalakkal, burkolatokkal, feljárókkal, sír-rácsokkal és egyéb tartozékokkal együtt, (azonosítás az oldal jelzése és a sírhely száma szerint, illetve az eltemetettek nevével).
 
 – a bal oldalon:
 
@@ -264,7 +264,7 @@ J.545: Árkay család
 
 J.560: Mechwart család
 
-V. Síremlékek, sírépítmények (azonosítás a parcella száma – sor száma – sírhely száma szerint, valamint az eltemetettek nevével).
+V.[^16] Egyedi értéket hordozó síremlékek és sírépítmények (azonosítás a parcella száma – sor száma – sírhely száma szerint, valamint az eltemetettek nevével).
 
 5-1-1: Bozda Naum
 
@@ -1174,6 +1174,22 @@ K-12: Alpár Ignác
 
 VI. A temető karakterét adó kisépítészeti alkotások:
 
-1) parcellák azonosító számait jelölő kövek
+1)[^17] parcellák azonosító számait jelölő 1945 előtti historizáló kőelemek
 
-2) nyolcszögletű kútmedencék
+2)[^18] 1945 előtti historizáló nyolcszögletű kútmedencék
+
+[^4]: A 2. melléklet II. rész 5) pontja az 5/2015. (III. 2.) MvM rendelet 68. § b) pontja szerint módosított szöveg.
+[^5]: A 2. melléklet II. rész 6) pontja az 5/2015. (III. 2.) MvM rendelet 68. § c) pontja szerint módosított szöveg.
+[^6]: A 2. melléklet III. rész nyitó szövege az 5/2015. (III. 2.) MvM rendelet 68. § d) pontja szerint módosított szöveg.
+[^7]: A 2. melléklet III. rész 1) pontja az 5/2015. (III. 2.) MvM rendelet 68. § e) pontja szerint módosított szöveg.
+[^8]: A 2. melléklet III. rész 3) pontja az 5/2015. (III. 2.) MvM rendelet 68. § f) pontja szerint módosított szöveg.
+[^9]: A 2. melléklet III. rész 8) pontja az 5/2015. (III. 2.) MvM rendelet 68. § g) pontja szerint módosított szöveg.
+[^10]: A 2. melléklet III. rész 9) pontja az 5/2015. (III. 2.) MvM rendelet 69. § f) pontja szerint módosított szöveg.
+[^11]: A 2. melléklet III. rész 10) pontja az 5/2015. (III. 2.) MvM rendelet 69. § h) pontja szerint módosított szöveg.
+[^12]: A 2. melléklet III. rész 11) pontja az 5/2015. (III. 2.) MvM rendelet 69. § g) pontja szerint módosított szöveg.
+[^13]: A 2. melléklet III. rész 12) pontja az 5/2015. (III. 2.) MvM rendelet 69. § i) pontja szerint módosított szöveg.
+[^14]: A 2. melléklet III. rész 13) pontja az 5/2015. (III. 2.) MvM rendelet 68. § h) pontja szerint módosított szöveg.
+[^15]: A 2. melléklet IV. rész 1) pontja az 5/2015. (III. 2.) MvM rendelet 68. § i) pontja és 69. § j) pontja szerint módosított szöveg.
+[^16]: A 2. melléklet V. rész nyitó szövege az 5/2015. (III. 2.) MvM rendelet 68. § j) pontja szerint módosított szöveg.
+[^17]: A 2. melléklet VI. rész 1) pontja az 5/2015. (III. 2.) MvM rendelet 68. § k) pontja szerint módosított szöveg.
+[^18]: A 2. melléklet VI. rész 2) pontja az 5/2015. (III. 2.) MvM rendelet 68. § l) pontja szerint módosított szöveg.

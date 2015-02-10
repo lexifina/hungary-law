@@ -1,4 +1,4 @@
-## 46. §[^2]
+## 46. §[^3]
 
 1. melléklet a 42/2013. (VIII. 9.) BM rendelethez
 
@@ -58,4 +58,4 @@
 
 6. A 32. § (2) bekezdésében említett építményeket az alábbi ábra jelöli:
 
-[^2]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
