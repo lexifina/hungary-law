@@ -12,6 +12,6 @@ b) nyilatkozat, melyben a jelentkező hozzájárul ahhoz, hogy a tanulmányok me
 
 (3) A rendészeti igazgatás és a bűnügyi igazgatás szak levelező munkarendben folyó alapképzései esetén további feltétel a fegyveres szervnél fennálló hivatásos szolgálati viszony, a biztonsági, és a migrációs szakirány kivételével.
 
-(4)[^3] Az Egyetem a nappali munkarendben folyó alapképzésre jelentkezővel – a hivatásos állományú jelentkező, valamint a biztonsági szakirány és a migrációs szakirány kivételével – az alkalmassági vizsgálat részeként pályaalkalmassági orientációs beszélgetést folytat le, melynek keretében bizottság vizsgálja a felvételiző pálya iránti elkötelezettségét.
+(4)[^3] Az Egyetem a nappali munkarendben folyó alapképzésre jelentkezővel – a hivatásos állományú jelentkező, valamint a migrációs szakirány kivételével – az alkalmassági vizsgálat részeként pályaalkalmassági orientációs beszélgetést folytat le, melynek keretében bizottság vizsgálja a felvételiző pálya iránti elkötelezettségét.
 
-[^3]: A 7. § (4) bekezdését az 5/2014. (I. 27.) KIM rendelet 1. §-a iktatta be.
+[^3]: A 7. § (4) bekezdését az 5/2014. (I. 27.) KIM rendelet 1. §-a iktatta be, szövege a 6/2015. (II. 10.) MvM rendelet 8. §-a szerint módosított szöveg.

@@ -4,6 +4,7 @@
 
 (3) Büntetés-végrehajtási szakirány nappali munkarendben folyó alapképzésre csak a büntetés-végrehajtás hivatásos állományában már legalább három éve szolgálatot teljesítő jelentkezhet. A jelentkezőnek a büntetés-végrehajtás országos parancsnoka által kiadott támogató nyilatkozattal, továbbá alap-, vagy középfokú büntetés-végrehajtási szaktanfolyami vizsgával, vagy a belügyminiszter irányítása alá tartozó egyes fegyveres szerveknél rendszeresített hivatásos beosztásokról és a betöltésükhöz szükséges követelményekről szóló 65/2011. (XII. 30.) BM rendelet (a továbbiakban: BM rendelet) 2. melléklet II. cím „Megjegyzés” alcímében felsorolt bizonyítvánnyal kell rendelkeznie.
 
-(4) A katasztrófavédelem szak tűzvédelmi és mentésirányítási szakirány nappali munkarendben folyó alapképzésre csak a hivatásos katasztrófavédelmi szervek hivatásos állományában legalább három éve szolgálatot teljesítő jelentkezhet. A jelentkezés további feltétele, hogy a jelentkező rendelkezik tűzoltó szakképesítéssel, továbbá az állományilletékes parancsnok által kiadott támogató nyilatkozattal.
+(4)[^5] A katasztrófavédelem szak tűzvédelmi és mentésirányítási szakirány nappali munkarendben folyó alapképzésre csak a hivatásos katasztrófavédelmi szervek hivatásos állományában legalább kettő éve szolgálatot teljesítő jelentkezhet. A jelentkezés további feltétele, hogy a jelentkező rendelkezik tűzoltó szakképesítéssel, továbbá az állományilletékes parancsnok által kiadott támogató nyilatkozattal.
 
 [^4]: A 8. § (2) bekezdése az 5/2014. (I. 27.) KIM rendelet 7. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^5]: A 8. § (4) bekezdése a 6/2015. (II. 10.) MvM rendelet 7. § a) pontja szerint módosított szöveg.

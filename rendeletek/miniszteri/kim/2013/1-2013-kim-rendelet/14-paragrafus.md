@@ -1,5 +1,5 @@
-## 13. §[^11] A részidős (levelező munkarendű) közszolgálati ösztöndíjas közigazgatás-szervező képzésre a Kormányablakkal összefüggő feladatokat ellátó személyek kiválasztásának és képzésének szabályairól szóló 148/2012. (VII. 6.) Korm. rendelet 11. § (1) bekezdés b) pontjában meghatározott tanfolyamot megkezdett vagy a tanfolyamot elvégzett azon személyek jelentkezhetnek, akik rendelkeznek munkáltatói támogató nyilatkozattal. A hallgatói jogviszony létesítésének feltétele a tanfolyam elvégzését igazoló bizonyítvány megléte, és a kormánytisztviselői vagy köztisztviselői jogviszony fennállása.
+## 13/A. §[^16] A nemzetközi igazgatási alapképzési szakra a jelentkezés feltétele egy idegen nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy azzal egyenértékű okirat.
 
 ## 5. A külföldi hallgatók Egyetemre történő felvételének, jogállásának és tanulmányainak szabályai
 
-[^11]: A 13. § az 5/2014. (I. 27.) KIM rendelet 5. §-ával megállapított szöveg.
+[^16]: A 13/A. §-t a 6/2015. (II. 10.) MvM rendelet 5. §-a iktatta be.

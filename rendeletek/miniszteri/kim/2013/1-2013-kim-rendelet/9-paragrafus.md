@@ -1,6 +1,6 @@
 9. § (1) Biztonsági szakirány levelező munkarendben folyó alapképzésre csak biztonsági őri vagy azzal egyenértékű Országos Képzési Jegyzék szerinti szakképesítéssel rendelkező jelentkezhet.
 
-(2) Bűnügyi nyomozó, gazdaságvédelmi nyomozó, közlekedésrendészeti, igazgatásrendészeti, határrendészeti, valamint közrendvédelmi szakirány levelező munkarendben folyó alapképzésre történő jelentkezés feltétele a rendőrséggel fennálló hivatásos szolgálati viszony, rendészeti szakközépiskolai végzettség vagy rendészeti szakirányú képesítés, továbbá legalább három éves szakmai gyakorlat.
+(2)[^6] Bűnügyi nyomozó, gazdaságvédelmi nyomozó, közlekedésrendészeti, igazgatásrendészeti, határrendészeti, valamint közrendvédelmi szakirány levelező munkarendben folyó alapképzésre történő jelentkezés feltétele a rendőrséggel fennálló hivatásos szolgálati viszony, az Országos Képzési Jegyzék szerinti rendőr tiszthelyettes, rendőr vagy határőr szakképesítés – ide nem értve a rész-szakképesítést – vagy rendőrszervező(tiszt), határrendész-szervező(tiszt) végzettség vagy az Országos Képzési Jegyzék bevezetése előtt szerezhető rendőri képesítés, továbbá ezen végzettség (képesítés, szakképesítés) megszerzését követő legalább három éves szakmai gyakorlat.
 
 (3) Büntetés-végrehajtási szakirány levelező munkarendben folyó alapképzésre csak a büntetés-végrehajtás állományában már legalább három éve szolgálatot teljesítő jelentkezhet. A jelentkezőnek alap- vagy középfokú büntetés-végrehajtási szaktanfolyami vizsgával, vagy a BM rendelet 2. melléklet II. cím „Megjegyzés” alcímében felsorolt bizonyítvánnyal kell rendelkeznie.
 
@@ -12,4 +12,7 @@
 
 (7) A katasztrófavédelem szak tűzvédelmi és mentésirányítási szakirány levelező munkarendben folyó képzésre a hivatásos katasztrófavédelmi szerv hivatásos állományának tagja, valamint az önkormányzati és létesítményi tűzoltóságok és az önkéntes tűzoltó egyesületek szaktevékenységet ellátó tagja jelentkezhet. A jelentkezés feltétele, hogy a jelentkező rendelkezik tűzoltó szakképesítéssel és legalább három éves szakmai gyakorlattal.
 
-(8) A katasztrófavédelem szak katasztrófavédelmi műveleti és iparbiztonsági szakirány levelező munkarendben folyó közszolgálati ösztöndíjas képzéseire csak a hivatásos katasztrófavédelmi szerv állományából lehet jelentkezni.
+(8)[^7] A katasztrófavédelem szak katasztrófavédelmi műveleti szakirány levelező munkarendben folyó, az NKEtv. 21/A. § (1) bekezdés b) pontja hatálya alá tartózó képzésére csak a hivatásos katasztrófavédelmi szervek állományából lehet jelentkezni. A katasztrófavédelem szak iparbiztonsági szakirány levelező munkarendben folyó, az NKEtv. 21/A. § (1) bekezdés b) pontja hatálya alá tartózó képzésére a hivatásos katasztrófavédelmi szervek, valamint a rendőrség állományából lehet jelentkezni. A jelentkezés további feltételeként a jelentkezőnek rendelkeznie kell az állományilletékes parancsnok támogató nyilatkozatával.
+
+[^6]: A 9. § (2) bekezdése a 6/2015. (II. 10.) MvM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: A 9. § (8) bekezdése a 6/2015. (II. 10.) MvM rendelet 1. § (2) bekezdésével megállapított szöveg.
