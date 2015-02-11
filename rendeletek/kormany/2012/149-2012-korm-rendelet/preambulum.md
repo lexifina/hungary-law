@@ -1,1 +1,0 @@
-A Kormány a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény 23. § (1) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésben meghatározott feladatkörében eljárva a következőket rendeli el:

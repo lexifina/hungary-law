@@ -1,3 +1,0 @@
-## 33. § A Kormány egyedi döntéseivel megítélhető beruházásösztönző képzési támogatásra, tanműhely létesítési vagy annak tárgyi feltételei fejlesztésének támogatására, illetve a regionális beruházási támogatás szabályairól szóló kormányrendelet hatálya alá tartozó regionális beruházási támogatásra vonatkozóan benyújtott szándéknyilatkozat esetén, ha annak miniszter általi visszaigazolására vagy a támogatás Kormány általi megajánlására e rendelet hatályba lépését megelőzően került sor, a 14. § (1) bekezdésében meghatározott határidőt nem kell alkalmazni.
-
-## 13. Az Európai Unió jogának való megfelelés
