@@ -1,1 +1,0 @@
-A Kormány – az Európai Unión belüli igazságügyi együttműködéssel összefüggő feladatokról és intézkedésekről szóló 1087/2001. (VIII. 8.) Korm. határozat 1. pont a) és b) alpontjában foglalt kijelölést és felkérést nem érintve – felkéri az Országos Bírósági Hivatal elnökét, hogy a bírósági szervezeten belül jelölje ki az Európai Igazságügyi Hálózat kapcsolattartó pontját.
