@@ -1,1 +1,0 @@
-A Kormány jóváhagyta a Magyar Posta Zrt. 2012. évi tevékenységéről szóló beszámolót, valamint értékelte a 2013. évben megtett intézkedéseket és ezek alapján támogatja a bemutatott stratégiai lépések véghezvitelét.
