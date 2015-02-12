@@ -1,0 +1,1 @@
+A Kormány a kormányzati szerkezetátalakítás részeként a kormányzati irányítás és a központi közigazgatás korszerűsítése, a szabályrendszer átláthatósága, az igazgatási akadályok lebontása és a közigazgatás szolgáltató funkciójának megerősítése érdekében a következő határozatot hozza:
