@@ -1,9 +1,0 @@
-A Kormány
-
-1. az állami vagyonról szóló 2007. évi CVI. törvény 24. § (2) bekezdés e) pontja alapján – az oktatási közfeladat-ellátás részét képező óvodai ellátás biztosítása, óvodai férőhelyek bővítése érdekében – úgy határoz, hogy a Magyar Állam tulajdonában lévő Kecskemét, 810 hrsz. alatt felvett, természetben Kecskemét, Erkel Ferenc u. 17. szám alatt található ingatlant a Magyar Nemzeti Vagyonkezelő Zrt. versenyeztetés mellőzésével, 25 éves határozott időtartamra adhatja vagyonkezelésbe a Kecskeméti Református Egyházközség részére; óvoda működtetésének céljára.
-
-2. felhívja az állami vagyon felügyeletéért felelős minisztert, hogy az 1. pontban meghatározott vagyonkezelői jogviszony létrehozására, a vagyonkezelési szerződés megkötésére tegye meg a szükséges intézkedéseket.
-
-Felelős: állami vagyon felügyeletéért felelős miniszter
-
-Határidő: a kormányhatározat közzétételét követően azonnal
