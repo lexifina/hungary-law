@@ -1,0 +1,3 @@
+5. § (1) A tanműhely-létesítési vagy -fejlesztési támogatás intenzitása nem haladhatja meg az elszámolható költségek 73%-át.
+
+(2) A tanműhely-létesítési vagy -fejlesztési támogatás mértéke tanulónként legfeljebb 8 ezer eurónak megfelelő forintösszeg, azzal, hogy a támogatás kedvezményezettenként a 2 millió eurót nem haladhatja meg. A támogatás maximumának számításához szükséges tanulói létszám meghatározásakor a támogatási kérelem benyújtása napján már tanulószerződéssel foglalkoztatott azon tanulót is figyelembe kell venni, akinek a gyakorlati képzése a létrehozandó tanműhelyben fog megvalósulni.

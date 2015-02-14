@@ -1,0 +1,15 @@
+27. § (1) A képzési támogatás-nyújtás feltételeként vállalt foglalkoztatási kötelezettség részbeni teljesítése esetén a visszafizetési kötelezettség megállapításánál a 7. mellékletben foglaltak figyelembevételével kell eljárni.
+
+(2) A tanműhely-létesítési vagy -fejlesztési támogatásban részesített kedvezményezett 25. §-ban megállapított fenntartási kötelezettsége esetében, ha a kedvezményezett a rendeltetésszerű használatbavétel hónapját magában foglaló tanévtől számított öt tanéven belül
+
+a) megszűnik,
+
+b) a támogatással érintett gyakorlati képzést kettő, egymást követő tanítási éven túl szünetelteti, vagy
+
+c) a támogatással érintett gyakorlati képzést megszünteti
+
+a fenntartási időszak hátralévő hónapjaira időarányosan eső támogatási összegnek azt a hányadát kell visszakövetelni, amilyen arányban a tárgyi eszköz beszerzése a támogatás terhére elszámolásra került.
+
+(3) Amennyiben a tanműhely-létesítési vagy -fejlesztési támogatásban részesített kedvezményezett a 8. § b) pont szerinti tanulói létszámfejlesztési kötelezettségét a vállaltnál alacsonyabb mértékben hajtja végre, a létszámarányos támogatási összeget vissza kell követelni.
+
+(4) Amennyiben a tanműhely-létesítési vagy -fejlesztési támogatásban részesített kedvezményezett a 8. § b) pont szerinti tanulói létszámfenntartási kötelezettségét a vállalt öt tanéves időtartamot vagy a létszámot illetően nem teljesíti, a támogatási összegnek a hiányzó létszámra, illetve időtartamra eső arányos részét vissza kell követelni.

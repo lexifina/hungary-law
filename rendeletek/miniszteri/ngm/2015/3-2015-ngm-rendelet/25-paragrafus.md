@@ -1,0 +1,3 @@
+25. § (1) A gyakorlati képzést közvetlenül szolgáló tárgyi eszközt és ingatlant a kedvezményezett köteles elkülönítetten nyilvántartani és a rendeltetésszerű használatbavétel hónapját magában foglaló tanévtől számított öt tanévig a gyakorlati képzés céljaira használni. Az ötéves időtartamba nem számítható be a gyakorlati képzés szünetelésének időtartama.
+
+(2) Az ötéves időszak alatt a tárgyi eszköz vagy ingatlan termelési célra történő használatából származó bevételt a kedvezményezett köteles az általa folytatott gyakorlati képzés céljaira fordítani a támogatási szerződésben meghatározott módon.
