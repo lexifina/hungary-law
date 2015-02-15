@@ -12,13 +12,11 @@
 
 ## Határidő: 2015. június 30.
 
-## 2. felhívja a Miniszterelnökséget vezető minisztert, hogy a nemzetgazdasági miniszter, valamint az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos bevonásával gondoskodjon arról, hogy Magyarország 2015. és 2016. évi központi költségvetésében a Budai Várban található Karmelita kolostor átépítésével összefüggő beruházás tervezési-, illetve mérnök-lebonyolító és mérnök tanácsadó, valamint műszaki ellenőri feladatokra összesen 704,3 millió forint összegű forrás rendelkezésére álljon úgy, hogy abból a beruházás céljaira a 2015. évben 585,4 millió forint, a 2016. évben pedig 118,9 millió forint felhasználható legyen.
+## 2.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy a nemzetgazdasági miniszter bevonásával gondoskodjon arról, hogy Magyarország 2015. és 2016. évi központi költségvetésében a Budai Várban található Karmelita kolostor átépítésével összefüggő beruházás tervezési-, illetve mérnök-lebonyolító és mérnök tanácsadó, valamint műszaki ellenőri feladatokra összesen 704,3 millió forint összegű forrás rendelkezésére álljon úgy, hogy abból a beruházás céljaira a 2015. évben 585,4 millió forint, a 2016. évben pedig 118,9 millió forint felhasználható legyen.
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
 ## nemzetgazdasági miniszter
-
-## az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos
 
 ## Határidő: Magyarország 2015. és 2016. évi központi költségvetésének tervezésével egyidejűleg
 
@@ -83,3 +81,5 @@ Költségvetési év: 2014.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont az 1048/2015. (II. 11.) Korm. határozat 6. pontja és 7. pont d) alpontja szerint módosított szöveg.
