@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1621-30
 | --- | --- | --- |
 | 2013-09-06 | 2013-1621-30-22.1 | 1621/2013. (IX. 5.) Korm. határozat |
 | 2013-09-07 | 2013-1621-30-22.2 | 2010: CXXX. törvény |
+| 2015-02-15 | 2013-1621-30-22.3 | 1048/2015. (II. 11.) Korm. határozat |

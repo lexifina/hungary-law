@@ -32,15 +32,7 @@ az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiz
 
 Határidő: a 2014. évi központi költségvetés tervezése keretében
 
-6. felhívja az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztost, hogy a nemzeti fejlesztési miniszterrel és az emberi erőforrások miniszterével egyeztetve, alakítsa ki az Emlékhely hosszú távú működtetésének, üzemeltetésének és fenntartásának részletes feltételeit, és azt jóváhagyás céljából terjessze a Kormány elé;
-
-Felelős: az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos
-
-nemzeti fejlesztési miniszter
-
-emberi erőforrások minisztere
-
-Határidő: 2013. december 31.
+6.[^1]
 
 7. felhívja a belügyminisztert, hogy az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos közreműködésével vizsgálja felül az Ingatlanon található pályaudvar épület műemléki besorolásának szükségességét, különös tekintettel a Beruházás tervezett megvalósítására.
 
@@ -52,6 +44,7 @@ Határidő: 2013. szeptember 30.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
-9.[^1]
+9.[^2]
 
-[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 6. pontot az 1048/2015. (II. 11.) Korm. határozat 7. pont a) alpontja hatályon kívül helyezte.
+[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
