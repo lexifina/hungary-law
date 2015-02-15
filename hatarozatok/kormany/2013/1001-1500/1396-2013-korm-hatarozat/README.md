@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1396-30
 | 2013-07-03 | 2013-1396-30-22.1 | 1396/2013. (VII. 2.) Korm. határozat |
 | 2013-07-04 | 2013-1396-30-22.2 | 2010: CXXX. törvény |
 | 2013-09-06 | 2013-1396-30-22.3 | 1621/2013. (IX. 5.) Korm. határozat |
+| 2015-02-15 | 2013-1396-30-22.4 | 1048/2015. (II. 11.) Korm. határozat |

@@ -1,8 +1,8 @@
 A Kormány
 
-1. társadalompolitikai szempontból kiemelten fontos célnak tartja, hogy Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ (a továbbiakban: Emlékhely) első üteme megvalósuljon és megnyíljon 2014 áprilisban a magyarországi Holokauszt Emlékéve során, és felhívja a Miniszterelnökséget vezető államtitkárt, a nemzeti fejlesztési minisztert és az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztost, hogy e cél határidőben történő megvalósítása érdekében minden szükséges intézkedést tegyenek meg;
+1.[^1] társadalompolitikai szempontból kiemelten fontos célnak tartja, hogy Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ (a továbbiakban: Emlékhely) első üteme megvalósuljon és megnyíljon 2014 áprilisban a magyarországi Holokauszt Emlékéve során, és felhívja a Miniszterelnökséget vezető minisztert, a nemzeti fejlesztési minisztert és az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztost, hogy e cél határidőben történő megvalósítása érdekében minden szükséges intézkedést tegyenek meg;
 
-Felelős: Miniszterelnökséget vezető államtitkár
+Felelős: Miniszterelnökséget vezető miniszter
 
 nemzeti fejlesztési miniszter
 
@@ -16,9 +16,9 @@ Felelős: az egyes kiemelt jelentőségű budapesti beruházásokért felelős k
 
 Határidő: folyamatos, az előterjesztés elkészítése vonatkozásában 2013. július 31.
 
-3.[^1]
+3.[^2]
 
-4.[^2]
+4.[^3]
 
 5. felhívja a belügyminisztert és az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztost, hogy a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény alapján a beruházással összefüggő hatósági ügyek nemzetgazdasági szempontból kiemelt üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről nyújtson be előterjesztést a Kormányhoz;
 
@@ -48,8 +48,9 @@ Határidő: azonnal
 
 9. Ez a határozat a közzétételét követő napon lép hatályba.
 
-10.[^3]
+10.[^4]
 
-[^1]: A 3. pontot az 1621/2013. (IX. 5.) Korm. határozat 9. pontja hatályon kívül helyezte.
-[^2]: A 4. pontot az 1621/2013. (IX. 5.) Korm. határozat 9. pontja hatályon kívül helyezte.
-[^3]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1048/2015. (II. 11.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 3. pontot az 1621/2013. (IX. 5.) Korm. határozat 9. pontja hatályon kívül helyezte.
+[^3]: A 4. pontot az 1621/2013. (IX. 5.) Korm. határozat 9. pontja hatályon kívül helyezte.
+[^4]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
