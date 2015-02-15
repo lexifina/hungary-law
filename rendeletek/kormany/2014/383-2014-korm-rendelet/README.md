@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-383-20-
 | --- | --- | --- |
 | 2015-01-31 | 2014-383-20-22.1 | 383/2014. (XII. 31.) Korm. rendelet |
 | 2015-02-01 | 2014-383-20-22.2 | 2010: CXXX. törvény |
+| 2015-02-15 | 2014-383-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
