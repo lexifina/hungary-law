@@ -4,7 +4,7 @@
 
 a) a Nemzeti Közszolgálati Egyetem egységes elhelyezésének biztosítása a Ludovika Campusban;
 
-b) a Ferencvárosi Torna Club új labdarúgó stadionjának felépítése;
+b)[^1] a nemzeti fejlesztési miniszter által meghatározott kiemelt sportlétesítmény-fejlesztési beruházások;
 
 c) a Sorsok Háza – Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ megvalósítása;
 
@@ -14,13 +14,13 @@ e) az új, több ezer fős budapesti konferencia-központ megvalósítása;
 
 f) a Népliget fejlesztési tervének elkészítése és megújítása;
 
-g) a Miniszterelnökség budavári elhelyezéséhez szükséges felújítási és építési feladatok a budai Várnegyed területén;
+g)[^2]
 
 h) a Moholy-Nagy Művészeti Egyetem „MOME Laboratory” kreatív oktatási és kutatási központ intézményfejlesztési programjának építési beruházása;
 
-i)[^1] a Miniszterelnökség agrár-vidékfejlesztésért felelős államtitkára által irányított szervezeti egységek Kecskeméten történő elhelyezéséhez szükséges felújítási és építési feladatok;
+i)[^3]
 
-j)[^2] további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
+j)[^4] további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
 
 3. A kormánybiztos a 2. pont szerinti beruházásokhoz kapcsolódó feladatkörében ellátja:
 
@@ -46,12 +46,32 @@ i) a vonatkozó kormányhatározatok, jogszabályok végrehajtását, illetve az
 
 5. A kormánybiztos a tevékenységéről köteles negyedévente beszámolni a Kormánynak.
 
-6. A kormánybiztos tevékenységét a Miniszterelnökség keretében működő 12 fős titkárság segíti. A Miniszterelnökség mindenkori engedélyezett létszáma a kormánybiztos megbízatásának időtartamára a szükséges mértékben emelkedik.
+5a.[^5] A miniszterelnök a kormánybiztos tevékenységét a nemzeti fejlesztési miniszter útján irányítja.
+
+5b.[^6] A Kormány
+
+a) egyetért azzal, hogy az egyes kiemelt sportlétesítmény-fejlesztési beruházások tekintetében a Nemzeti Sportközpontok feletti irányítási jogköröket a kormánybiztos gyakorolja,
+
+b) felhívja a nemzeti fejlesztési minisztert, hogy – a kormánybiztos bevonásával – gondoskodjon az a) pont végrehajtásához szükséges intézkedések megtételéről.
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: a Nemzeti Sportközpontok irányítási jogainak nemzeti fejlesztési miniszterhez történő átadását követően azonnal
+
+6.[^7] A kormánybiztos tevékenységét a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. § (8) bekezdése szerinti titkárság nem segíti.
+
+6a.[^8] A Kormány egyetért azzal, hogy a kormánybiztos feladataival – a Miniszterelnökség budavári elhelyezéséhez szükséges felújítási és építési feladatok kivételével – összefüggésben lefolytatott, közbeszerzési eljárás alapján létrejött szerződéses jogviszony tekintetében a Miniszterelnökség jogutódja a Nemzeti Fejlesztési Minisztérium.
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8.[^3]
+8.[^9]
 
-[^1]: A 2. pont i) alpontja az 1436/2014. (VII. 31.) Korm. határozat 3. pontjával megállapított szöveg.
-[^2]: A 2. pont j) alpontját az 1436/2014. (VII. 31.) Korm. határozat 3. pontja iktatta be.
-[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont b) alpontja az 1048/2015. (II. 11.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. pont g) alpontját az 1048/2015. (II. 11.) Korm. határozat 7. pont b) alpontja hatályon kívül helyezte.
+[^3]: A 2. pont i) alpontját az 1048/2015. (II. 11.) Korm. határozat 7. pont b) alpontja hatályon kívül helyezte.
+[^4]: A 2. pont j) alpontját az 1436/2014. (VII. 31.) Korm. határozat 3. pontja iktatta be.
+[^5]: A 5a. pontot az 1048/2015. (II. 11.) Korm. határozat 2. pontja iktatta be.
+[^6]: A 5b. pontot az 1048/2015. (II. 11.) Korm. határozat 2. pontja iktatta be.
+[^7]: A 6. pont az 1048/2015. (II. 11.) Korm. határozat 3. pontjával megállapított szöveg.
+[^8]: A 6a. pontot az 1048/2015. (II. 11.) Korm. határozat 3. pontja iktatta be.
+[^9]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
