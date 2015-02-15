@@ -10,5 +10,8 @@ b) az oktatási intézmény a vele tanulói, hallgatói jogviszonyban állók r�
 
 c) színházi és művészeti ügynökség művészeket közvetít.
 
+(3)[^3] Az e rendeletben foglaltakat a tengerészekre vonatkozó munkaerő-kölcsönzési és magán-munkaközvetítői tevékenység folytatása tekintetében a tengerész munkaközvetítői és munkaerő-kölcsönzési tevékenység feltételeiről szóló kormányrendeletben foglalt eltérésekkel kell alkalmazni.
+
 [^1]: Az 1. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 81. §-a, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés a) pontját a 171/2011. (VIII. 24.) Korm. rendelet 27. § (1) bekezdése hatályon kívül helyezte.
+[^3]: Az 1. § (3) bekezdését a 383/2014. (XII. 31.) Korm. rendelet 8. § (1) bekezdése iktatta be.

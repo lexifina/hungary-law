@@ -1,6 +1,6 @@
 ## A rendelet 4. § (1) bekezdés b) pontjában és 4/A. § (1) bekezdés a) pontjában foglalt szakképesítésként fogadható el:
 
-## a)[^53] szakirányú felsőfokú végzettség, ennek keretében
+## a)[^55] szakirányú felsőfokú végzettség, ennek keretében
 
 ## – egyetemek közgazdaságtudományi, gazdaságtudományi karán,
 
@@ -50,7 +50,7 @@
 
 ## d) a 7/1993. (XII. 30.) MüM rendelet mellékleteként kiadott Országos Képzési Jegyzékben meghatározott munkaerő-piaci ügyintéző és munkaerő-piaci menedzser szakképesítés.
 
-2. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^54]
+2. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^56]
 
 ## A magán-munkaközvetítői tevékenység folytatásához szükséges bejelentés adattartalma
 
@@ -64,5 +64,5 @@
 
 5. A magán-munkaközvetítői tevékenység folytatásának helye(i), az irodahelyiség(ek) címe, telefonszáma, felszereltsége (telefon, telefax, számítógép, egyéb).
 
-[^53]: Az 1. számú melléklet a) pontja a 347/2013. (IX. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^54]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 231. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^55]: Az 1. számú melléklet a) pontja a 347/2013. (IX. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^56]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 231. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
