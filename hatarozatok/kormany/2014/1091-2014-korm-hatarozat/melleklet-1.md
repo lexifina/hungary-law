@@ -28,7 +28,7 @@
 
 ## erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2015. január 30.; a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 31. Kiemelt célú beruházások támogatása alcím, 2. Egyedi kormánydöntésen alapuló közlekedési beruházások jogcímcsoport javára átcsoportosított 350,0 millió forint tekintetében 2015. június 30.
+## Határidő:[^2] 2015. január 30.; a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 31. Kiemelt célú beruházások támogatása alcím, 2. Egyedi kormánydöntésen alapuló közlekedési beruházások jogcímcsoport javára átcsoportosított 350,0 millió forint és a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 7. Egyházi épített örökség védelme és egyéb beruházások jogcímcsoport részére átcsoportosított 100,0 millió forint tekintetében 2015. június 30.
 
 ## 3. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva az Eszterháza Kulturális, Kutató- és Fesztiválközpont létrehozása érdekében
 
@@ -97,3 +97,4 @@ XX. Emberi Erőforrások Minisztériuma
 XXXIII. Magyar Tudományos Akadémia
 
 [^1]: A 2. pont az 1676/2014. (XI. 20.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1057/2015. (II. 16.) Korm. határozat 2. pontja szerint módosított szöveg.
