@@ -1,22 +1,15 @@
-10. § (1) A Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet (a továbbiakban: Kr2.) 7. § (2) bekezdése a következő 31. ponttal egészül ki:
+10. § (1)[^5]
 
-(Hajózási hatóságként első fokon az Útügyi, Vasúti és Hajózási Hivatal jár el)
+(2)[^6]
 
-## „31. a tengerész munkaközvetítők, a tengerész kölcsönbeadók nyilvántartásával és tevékenységének ellenőrzésével, valamint a tevékenységét érintő panaszokkal”
+(3)[^7]
 
-## (kapcsolatos ügyekben.)
+(4)[^8]
 
-(2)[^4]
+(5)[^9]
 
-(3) A Kr2. 7. § (5) bekezdése a következő d) ponttal egészül ki:
-
-(A Szolgtv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként – ha kormányrendelet eltérően nem rendelkezik – a hajózási hatóság jár el a következő tevékenységek tekintetében:)
-
-## „d) tengerész munkaközvetítői tevékenység.”
-
-(4)[^5]
-
-(5) Hatályát veszti a Kr2. 7. § (5) bekezdés b) pontjában a „valamint” szövegrész.
-
-[^4]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: a 10. § (4) bekezdése a 6. § (3) bekezdése alapján 2015. május 1-jén lép hatályba.
+[^5]: A 10. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 10. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: a 10. § (4) bekezdése a 6. § (3) bekezdése alapján 2015. május 1-jén lép hatályba.
+[^9]: A 10. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
