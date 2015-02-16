@@ -1,0 +1,223 @@
+# A Kormány 19/2015. (II. 16.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 16. szám, 2015. február 16. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e262d09b57419b538004c220333fa4f17c062c0a/dokumentumok/d80224bf7e50afb21d65a285ab1647a3388f596a/letoltes)
+
+---
+
+A Kormány 19/2015. (II. 16.) Korm. rendelete
+a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának
+rendjéről szóló 162/2003. (X. 16.) Korm. rendelet és a kábítószerekkel és pszichotróp anyagokkal, valamint
+az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és
+jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet módosításáról
+A Kormány
+az 1. alcím tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+a 2. alcím tekintetében a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés d) pontjában, valamint az emberi
+alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi
+XCV. törvény 32. § (4) bekezdés a) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+1. A kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és
+felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet módosítása
+1. §
+A kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló
+162/2003. (X. 16.) Korm. rendelet (a továbbiakban: R.) 1. § d)–f) pontja helyébe a következő rendelkezések lépnek:
+(E rendelet alkalmazásában:)
+„d) díszítő mák: virágkötészeti célra előállított étkezési mákfajta;
+e) mákszalma: teljes éréskor szárrésszel betakarított mák magot már nem tartalmazó tokja;
+f) kifejtetlen máktok: teljes éréskor szárrésszel betakarított mák magot tartalmazó tokja;”
+2. § (1) Az R. 5. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A termesztető köteles)
+„b) az adott év július 15-ig az eseti termesztetési engedély kiadása érdekében a KKR. 10. §-ában meghatározott
+adatokat az EEKH-nak, valamint az agrárpolitikáért felelős miniszter által vezetett minisztériumnak (a továbbiakban:
+Minisztérium) megküldeni,”
+(2) Az R. 5. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+(A termesztető köteles)
+„g) a felhasználni nem kívánt mákszalmát legkésőbb november 30-ig megsemmisíteni,”
+(3) Az R. 5. § (1) bekezdése a következő j) ponttal egészül ki:
+(A termesztető köteles)
+„j) a vetőmaggal kapcsolatos számlák másolatát a földművelésügyi igazgatóságnak az a) pont szerinti bejelentéssel
+egyidejűleg megküldeni.”
+(4) Az R. 5. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) A termesztető köteles őszi vetésű ipari mák kipusztulása esetén a földművelésügyi igazgatóságnak a vetést
+követő év április 30-ig bejelenteni a kipusztulással érintett termesztő nevét, címét, a terület azonosítóit (település
+neve, földrészlet helyrajzi száma, alrészlet megjelölése, fizikai blokk és parcella azonosító), nagyságát, valamint
+a kipusztult állomány fajtáját.”
+3. §
+Az R. 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A földművelésügyi igazgatóság az ipari mákot termesztők bejelentési, nyilvántartási, valamint a 4. § (1) és
+(2) bekezdésében meghatározott kötelezettségeinek betartását a virágzástól a betakarításig terjedő időszakban
+évente legalább egyszer ellenőrzi. A földművelésügyi igazgatóság a fajtaazonosság vagy az alkaloid tartalom
+laboratóriumi vizsgálattal történő megállapítása érdekében a betakarítás előtt a máktokból mintát vehet.”
+4. § (1) Az R. 8. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A termesztő az étkezési mák kereskedelmi céllal történő termesztése, illetve az étkezési mák 500 m2-t meghaladó
+termőterületen történő termesztése esetén köteles a földművelésügyi igazgatóság részére a termesztés megkezdése előtt,
+de legkésőbb tárgyév május 15-ig a következő adattartalmú bejelentést tenni a NÉBIH által rendszeresített, és a NÉBIH
+honlapján közzétett formanyomtatványon:)
+„a) a termesztő
+aa) természetes személy személyazonosító adatai és lakcíme,
+ab) jogi személy vagy jogi személyiséggel nem rendelkező más szervezet megnevezése, székhelye, adószáma,
+a képviseletét ellátó személy családi és utóneve, lakcíme, valamint a képviselet jogcíme,”
+(2) Az R. 8. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
+„(2a) A termesztő köteles a vetőmaggal kapcsolatos számlák másolatát a földművelésügyi igazgatóságnak
+a (2) bekezdés szerinti bejelentéssel egyidejűleg megküldeni.
+(2b) A termesztő köteles őszi vetésű étkezési mák kipusztulása esetén a földművelésügyi igazgatóságnak a vetést
+követő év április 30-ig bejelenteni a kipusztulással érintett terület azonosítóit (település neve, földrészlet helyrajzi
+száma, alrészlet megjelölése, fizikai blokk és parcella azonosító), nagyságát, valamint a kipusztult állomány fajtáját.”
+(3) Az R. 8. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A termesztőnek a (2) bekezdés szerint bejelentett adatairól a földművelésügyi igazgatóság a bejelentést követő
+tizenöt napon belül a NÉBIH által rendszeresített, és a NÉBIH honlapján közzétett formanyomtatvány szerinti
+igazolást állítja ki. A földművelésügyi igazgatóság az igazolás kiállítását megtagadja, amennyiben a termesztő
+a (2) bekezdés szerinti bejelentési kötelezettségének határidőre nem tesz eleget és azt legkésőbb a mák
+
+virágzásának befejezését megelőző tizenöt napig nem pótolja, vagy alapos okkal feltételezi, hogy a termesztő
+bejelentésében valótlan adatot közölt és felhívására a termesztő az adatot nem tudja igazolni.”
+(4) Az R. 8. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A földművelésügyi igazgatóság a NÉBIH-en keresztül a (2) bekezdés szerinti bejelentésben foglalt
+adatokat az érintett személyek azonosítására alkalmatlan statisztikai adat formájában május 31-ig megküldi
+a Minisztériumnak, amely azt június 15-ig összesítve továbbítja az EEKH-nak.”
+5. §
+Az R. 9. §-a helyébe a következő rendelkezés lép:
+„9. § (1) Az étkezési mák fel nem használt mákszalmáját a termesztő felajánlhatja az ipari mákot termesztetőnek
+átvételre, aki a mákszalma elfogadása esetén az elszállításról saját költségén gondoskodik. Az ipari mákot
+termesztető jegyzőkönyvvel dokumentálja az elszállítást, és a jegyzőkönyv másolatát megküldi az EEKH-nak.
+(2) A fel nem ajánlott, továbbá át nem vett mákszalmát égetéssel vagy talajba forgatással legkésőbb november 30-ig
+meg kell semmisíteni.”
+6. §
+Az R.„Étkezési mák termesztése”alcíme a következő 9/A. és 9/B. §-sal egészül ki:
+„9/A. § (1) A földművelésügyi igazgatóság ellenőrzi az étkezési mák termesztője számára e rendeletben
+megállapított kötelezettség teljesítését.
+(2) Étkezési mák 500 m2-t meghaladó termőterületen történő termesztése esetén a földművelésügyi igazgatóság
+évente egyszer, az állomány virágzó állapotának végéig, szántóföldi ellenőrzést végez. Amennyiben a máktábla
+nagysága étkezési mák kereskedelmi céllal történő termesztése esetén nem haladja meg az 500 m2-t,
+a földművelésügyi igazgatóság szántóföldi ellenőrzést szúrópróbaszerűen végez az állomány virágzó állapotának
+végéig.
+(3) A földművelésügyi igazgatóság a szántóföldi ellenőrzés keretében ellenőrzi a bejelentett adatok megfelelőségét.
+A földművelésügyi igazgatóság a szántóföldi ellenőrzés során a fajtaazonosság vagy az alkaloid tartalom
+laboratóriumi vizsgálattal történő megállapítása érdekében a máktokból mintát vehet.
+(4) A földművelésügyi igazgatóság a termesztő költségére elrendelheti az étkezési máktábla talajba forgatással
+történő megsemmisítését, amennyiben az étkezési mák termesztése a 8. § (2) bekezdése alapján bejelentési
+kötelezettség alá tartozik és a termesztő a bejelentési kötelezettségének határidőre nem tett eleget, illetve azt
+legkésőbb a mák virágzásának befejezését megelőző tizenöt napig nem pótolta, vagy a termesztő valótlan adatokat
+jelentett be.
+9/B. § (1) Az étkezési mák termesztője köteles tárgyév szeptember 30-ig a földművelésügyi igazgatóságnak
+bejelenteni a mákszalma és a betakarított mákmag mennyiségét, megjelölve, hogy a tisztított vagy tisztítatlan
+állapotú mákmag mennyiségét adta-e meg, valamint a mákszalma megsemmisítésének tervezett módját.
+A bejelentés és a mákszalma megsemmisítése között legalább hét napnak kell eltelnie.
+(2) A mákszalma megsemmisítéséről az étkezési mák termesztőjének nyilvántartást kell vezetnie, megjelölve
+a megsemmisítés időpontját és módját. A mákszalma megsemmisítését, valamint a nyilvántartás meglétét
+a földművelésügyi igazgatóság szúrópróbaszerűen ellenőrzi. Amennyiben a mákszalma megsemmisítését
+a termesztő nem végzi el a 9. § (2) bekezdése szerinti határidőig, a földművelésügyi igazgatóság a termesztő
+költségére elrendeli a mákszalma megsemmisítését.
+(3) A földművelésügyi igazgatóság az (1) bekezdés szerinti bejelentést követő hét napon belül igazolást állít ki
+a termesztő számára a bejelentett mákmag mennyiségéről. A földművelésügyi igazgatóság az igazolás kiállítását
+megtagadja, amennyiben a termesztő a 8. § (3) bekezdése szerinti igazolással nem rendelkezik, vagy alapos okkal
+feltételezi, hogy a termesztő bejelentésében valótlan adatot közölt és felhívására a termesztő az adatot nem tudja
+igazolni.
+(4) Az étkezési mák termesztője az (1) bekezdés szerinti adatokat az (1) bekezdésben foglalt határidő végéig
+több részletben is megadhatja, megjelölve, hogy az adott bejelentés nem a termesztő által termesztett és
+betakarított mák teljes mennyiségére vonatkozik. Az (1) bekezdésben foglalt adatok mellett a termesztőnek meg
+kell adnia a bejelentéssel érintett területnagyságot is. A földművelésügyi igazgatóság minden egyes bejelentésről
+a (3) bekezdésben foglaltak szerint igazolást állít ki.
+(5) A termesztő az étkezési mákot kizárólag a (3) bekezdés szerinti igazolás birtokában hozhatja kereskedelmi
+forgalomba. A termesztő köteles az étkezési mákot továbbforgalmazó személynek az igazolást bemutatni.
+Az igazolás számát az étkezési mák forgalomba hozatala során a kereskedelmi dokumentumoknak tartalmaznia kell.
+(6) A földművelésügyi igazgatóság, valamint a megyei kormányhivatal élelmiszerlánc-biztonsági és
+állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság)
+
+ellenőrzi a forgalomba hozott étkezési mák (3) bekezdés szerinti igazolásának meglétét. Amennyiben a termesztő
+igazolás nélkül hozta forgalomba az étkezési mákot, a földművelésügyi igazgatóság vagy az élelmiszerlánc-
+biztonsági és állategészségügyi igazgatóság az étkezési mákot lefoglalja és elrendeli a termesztő költségén való
+megsemmisítését.”
+7. §
+Az R. 10. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) A fel nem ajánlott, továbbá át nem vett, valamint virágkötészeti célra nem értékesített díszítő mák mákszalmáját
+égetéssel vagy talajba forgatással legkésőbb november 30-ig meg kell semmisíteni. A megsemmisítés módjáról
+és tervezett időpontjáról legalább hét nappal a megsemmisítés időpontja előtt a díszítő mák termesztőjének
+tájékoztatnia kell a földművelésügyi igazgatóságot. A 9/B. § (2) bekezdésében foglalt előírásokat a díszítő mák
+szalmájának megsemmisítésével kapcsolatban alkalmazni kell.”
+8. §
+Az R. 11. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek; egyidejűleg a 11. § a következő (3a) és
+(3b) bekezdéssel egészül ki:
+„(2) Ipari mák és étkezési mák magja csak megfelelő tisztítás után hozható étkezési célra forgalomba.
+(3) Az ipari mákmagot első alkalommal étkezési céllal forgalomba hozónak az alkaloidtartalom meghatározása
+céljából a mákmagot erre akkreditált laboratóriumban be kell vizsgáltatnia. Az ipari mákmagot étkezési céllal első
+alkalommal forgalomba hozónak a laboratóriumi vizsgálati jegyzőkönyvet a mákmagot továbbforgalmazó személy
+számára be kell mutatnia. A vizsgálati jegyzőkönyv számát a mákmag forgalomba hozatala során a kereskedelmi
+dokumentumoknak tartalmaznia kell.
+(3a) A forgalomba hozatalra kerülő étkezési és ipari mákfajta magjának megfelelő tisztítottságát a földművelésügyi
+igazgatóság, valamint az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság ellenőrzi. Az étkezési
+céllal forgalmazott mákmagból a földművelésügyi igazgatóság, valamint az élelmiszerlánc-biztonsági és
+állategészségügyi igazgatóság szúrópróbaszerűen mintát vehet, és azt az élelmiszerekben előforduló egyes
+szennyezőanyagokra és természetes eredetű ártalmas anyagokra vonatkozó határértékekről, valamint
+az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő egyes anyagokkal, tárgyakkal kapcsolatos
+követelményekről szóló 49/2014. (IV. 29.) VM rendelet [a továbbiakban: 49/2014. (IV. 29.) VM rendelet] szerinti
+határértékeknek való megfelelést ellenőrző vizsgálat céljából megküldi az erre akkreditált hatósági laboratóriumnak.
+(3b) A földművelésügyi igazgatóság, valamint az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság
+elrendelheti a forgalomba hozó költségére a mákmag ismételt tisztítását vagy a forgalomból való kivonását,
+amennyiben a mákmag a természetes eredetű ártalmas anyag tartalma tekintetében nem felel meg a 49/2014.
+(IV. 29.) VM rendelet szerinti határértékeknek.”
+9. §
+Az R.
+ 1. 5. § (1) bekezdés a) pont nyitó szövegrészében a „tárgyév május 15-ig” szövegrész helyébe a „tavaszi vetésű
+ipari mák esetén a vetési évben április 30-ig, őszi vetésű ipari mák esetén a vetési évben november 30-ig”
+szöveg,
+ 2. 5. § (1) bekezdés a) pont ai) alpontjában a „mákszalma vagy kifejtetlen ipari máktok” szövegrész helyébe
+a„kifejtetlen ipari máktok”szöveg,
+ 3. 5. § (1) bekezdés c) pontjában a„mákszalmájának”szövegrész helyébe a„kifejtetlen tokjának”szöveg,
+ 4. 5. § (1) bekezdés f) pontjában az „előállított kifejtetlen ipari mák mákszalmájának” szövegrész helyébe
+a„termesztett ipari mák kifejtetlen tokjának”szöveg,
+ 5. 5. § (1) bekezdés h) pontjában a „mákszalma, a kifejtett máktok” szövegrész helyébe a „mákszalma,
+a kifejtetlen máktok”szöveg,
+ 6. 6. § (1) bekezdés a) pont aj) alpontjában a „mákszalma vagy kifejtetlen ipari máktok” szövegrész helyébe
+a„kifejtetlen ipari máktok”szöveg,
+ 7. 6. § (1) bekezdés d) pontjában az „az ipari mák mákszalmáját teljes mennyiségben” szövegrész helyébe
+az„a kifejtetlen ipari máktok teljes mennyiségét”szöveg,
+ 8. 6. § (1) bekezdés e) pontjában a „kifejtetlen ipari mák mákszalmájának a” szövegrész helyébe a „kifejtetlen
+ipari máktok”szöveg,
+ 9. 7. § (2) bekezdésében az„a 6. § (1) bekezdésében”szövegrész helyébe az„az e rendeletben”szöveg,
+10. 7. § (2) bekezdésében a „termesztetőt” szövegrész helyébe a „termesztetőt, a rendőrséget és az EEKH-t”
+szöveg,
+11. 7. § (3) bekezdésében az„e) pontja”szövegrész helyébe az„a) pontja”szöveg,
+
+12. 8. § (1) bekezdésében a„tenyészidőszak végéig” szövegrész helyébe a„vetési évet követő második év végéig”
+szöveg,
+13. 8. § (2) bekezdés nyitó szövegrészében a „kereskedelmi céllal történő termesztése, illetve az étkezési mák
+500 m2-t meghaladó termőterületen” szövegrész helyébe az „500 m2-t meghaladó termőterületen történő
+termesztése, valamint területnagyságtól függetlenül az étkezési mák kereskedelmi céllal”szöveg,
+14. 8. § (2) bekezdés nyitó szövegrészében a „tárgyév május 15-ig” szövegrész helyébe a „tavaszi vetésű étkezési
+mák esetén a vetési évben április 30-ig, őszi vetésű étkezési mák esetén a vetési évben november 30-ig”
+szöveg,
+15. 10. § (2) bekezdésében a „tárgyév május 15-ig” szövegrész helyébe a „tavaszi vetésű díszítő mák esetén
+a vetési évben április 30-ig, őszi vetésű díszítő mák esetén a vetési évben november 30-ig”szöveg,
+16. 10. § (3) bekezdésében a „formájában megküldi” szövegrész helyébe a „formájában május 31-ig megküldi”
+szöveg,
+17. 10. § (4) bekezdés nyitó szövegrészében a„mákszalmát”szövegrész helyébe a„díszítő mák mákszalmáját vagy
+kifejtetlen máktokját a szárával”szöveg,
+18. 10. § (4) bekezdés b) pontjában a„díszítő mákot, illetve mákszalmát”szövegrész helyébe a„máktokot”szöveg,
+19. 10. § (4) bekezdés c) pontjában a „díszítőmákot, illetve a mákszalmát” szövegrész helyébe a „máktokot”
+szöveg,
+20. 10. § (6) bekezdésében a „mákszalmáját” szövegrész helyébe a „mákszalmáját vagy kifejtetlen máktokját”
+szöveg,
+21. 10. § (6) bekezdésében a„mákszalma”szövegrész helyébe a„mákszalma vagy kifejtetlen máktok”szöveg
+lép.
+10. §
+Hatályát veszti az R.
+a) 1. § g) pontja,
+b) 5. § (1) bekezdés ah) pontja.
+2. A kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető
+tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló
+66/2012. (IV. 2.) Korm. rendelet módosítása
+11. §
+A kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről,
+valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet 1. §
+27. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„27. mákszalma: a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának
+rendjéről szóló kormányrendelet 1. § e) pontja szerinti fogalom;”
+3. Záró rendelkezések
+12. §
+Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+IX. Határozatok Tára
