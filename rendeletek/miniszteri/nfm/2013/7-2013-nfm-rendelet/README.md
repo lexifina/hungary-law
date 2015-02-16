@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-7-20-2W
 | 2014-05-03 | 2013-7-20-2W.9 | 28/2013. (VI. 12.) NFM rendelet |
 | 2014-12-18 | 2013-7-20-2W.10 | 68/2014. (XII. 17.) BM rendelet |
 | 2015-01-11 | 2013-7-20-2W.11 | 60/2014. (XII. 12.) BM rendelet |
+| 2015-02-16 | 2013-7-20-2W.12 | 3/2015. (II. 11.) BM rendelet |

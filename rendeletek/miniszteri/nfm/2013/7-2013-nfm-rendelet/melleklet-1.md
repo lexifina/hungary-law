@@ -66,7 +66,7 @@
 
 1.27. a Svájci–Magyar egészségprogram „8. prioritás: alapellátás fejlesztése” elnevezésű projekt keretei között megvalósuló Praxis közösség tevékenységét támogató rendszer.
 
-1.28.[^8] a külön jogszabályban meghatározott elektronikus útdíjrendszer (a továbbiakban: UD rendszer), beleértve az UD rendszer üzemeltetéséhez kapcsolódó IT biztonsági rendszer üzemeltetését, az éles üzemet megelőző testre szabását és előzetes tesztelését, ezen belül:
+1.28.[^9] a külön jogszabályban meghatározott elektronikus útdíjrendszer (a továbbiakban: UD rendszer), beleértve az UD rendszer üzemeltetéséhez kapcsolódó IT biztonsági rendszer üzemeltetését, az éles üzemet megelőző testre szabását és előzetes tesztelését, ezen belül:
 
 1.28.1. a biztonságos üzemeltetéshez szükséges IT biztonsági szabályozás és politika kialakítását;
 
@@ -84,21 +84,25 @@
 
 1.28.8. a rendszerkapcsolatok és azok illesztései folyamatos biztosítását;
 
-1.29.[^9] a külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
+1.29.[^10] a külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
 
-1.30.[^10] a külön jogszabályban meghatározott, a Nemzeti Közlekedési Hatóság közúti közlekedéssel összefüggő állami feladatainak ellátását biztosító Központi Közlekedési Információs Rendszer (a továbbiakban: KÖKIR) és kapcsolódó szakrendszerei,
+1.30.[^11] a külön jogszabályban meghatározott, a Nemzeti Közlekedési Hatóság közúti közlekedéssel összefüggő állami feladatainak ellátását biztosító Központi Közlekedési Információs Rendszer (a továbbiakban: KÖKIR) és kapcsolódó szakrendszerei,
 
-1.31.[^11] a felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló 17/2014. (II. 3.) Korm. rendelet 1. §-ban meghatározott világhálón elérhető elektronikus értékesítési rendszer.
+1.31.[^12] a felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló 17/2014. (II. 3.) Korm. rendelet 1. §-ban meghatározott világhálón elérhető elektronikus értékesítési rendszer.
 
-1.32.[^12] Egységes Kormányzati Ügyiratkezelő Rendszer működéséhez kapcsolódó érkeztető modul szerverei, munkaállomásai, és kapcsolódó informatikai eszközei.
+1.32.[^13] Egységes Kormányzati Ügyiratkezelő Rendszer működéséhez kapcsolódó érkeztető modul szerverei, munkaállomásai, és kapcsolódó informatikai eszközei.
+
+1.33.[^14] a külön jogszabályban meghatározott, a Nemzeti Kommunikációs Hivatal informatikai rendszere és a közfeladat ellátásához kapcsolódó szakrendszerei.
 
 2. A központi szolgáltató a következő informatikai rendszerek fejlesztéséről gondoskodik:
 
 2.1. Az 1.17. pont szerinti önkormányzati ASP központot kiszolgáló informatikai rendszer.
 
-2.2.[^13] A külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
+2.2.[^15] A külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
 
-2.3.[^14] Az 1.30. pontja szerinti KÖKIR és kapcsolódó szakrendszerei.
+2.3.[^16] Az 1.30. pontja szerinti KÖKIR és kapcsolódó szakrendszerei.
+
+2.4.[^17] Az 1.33. pontja szerinti Nemzeti Kommunikációs Hivatal informatikai rendszer és a közfeladat ellátásához kapcsolódó szakrendszerei.
 
 3. A központi szolgáltató a következő informatikai rendszerek fejlesztésében működik közre:
 
@@ -122,13 +126,15 @@
 
 3.10. Az 1.26. pont szerinti Mentés irányítási rendszer;
 
-3.11.[^15] Az 1.32. pont szerinti Egységes Kormányzati Ügyiratkezelő Rendszer.
+3.11.[^18] Az 1.32. pont szerinti Egységes Kormányzati Ügyiratkezelő Rendszer.
 
-[^8]: Az 1. melléklet 1.28. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (1) bekezdése iktatta be.
-[^9]: Az 1. melléklet 1.29. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (1) bekezdése iktatta be.
-[^10]: Az 1. melléklet 1. pont 1.30. alpontját a 60/2014. (XII. 12.) BM rendelet 1. §-a iktatta be.
-[^11]: Az 1. melléklet 1. pont 1.31. alpontját a 60/2014. (XII. 12.) BM rendelet 1. §-a iktatta be.
-[^12]: Az 1. melléklet 1. pont 1.32. alpontját a 68/2014. (XII. 17.) BM rendelet 1. §-a iktatta be.
-[^13]: Az 1. melléklet 2.2. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (2) bekezdése iktatta be.
-[^14]: Az 1. melléklet 2. pont 2.3. alpontját a 60/2014. (XII. 12.) BM rendelet 1. §-a iktatta be.
-[^15]: Az 1. melléklet 3. pont 3.11. alpontját a 68/2014. (XII. 17.) BM rendelet 1. §-a iktatta be.
+[^9]: Az 1. melléklet 1.28. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (1) bekezdése iktatta be.
+[^10]: Az 1. melléklet 1.29. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (1) bekezdése iktatta be.
+[^11]: Az 1. melléklet 1. pont 1.30. alpontját a 60/2014. (XII. 12.) BM rendelet 1. §-a iktatta be.
+[^12]: Az 1. melléklet 1. pont 1.31. alpontját a 60/2014. (XII. 12.) BM rendelet 1. §-a iktatta be.
+[^13]: Az 1. melléklet 1. pont 1.32. alpontját a 68/2014. (XII. 17.) BM rendelet 1. §-a iktatta be.
+[^14]: Az 1. melléklet 1. pont 1.33. alpontját a 3/2015. (II. 11.) BM rendelet 2. §-a iktatta be.
+[^15]: Az 1. melléklet 2.2. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (2) bekezdése iktatta be.
+[^16]: Az 1. melléklet 2. pont 2.3. alpontját a 60/2014. (XII. 12.) BM rendelet 1. §-a iktatta be.
+[^17]: Az 1. melléklet 2. pont 2.4. alpontját a 3/2015. (II. 11.) BM rendelet 2. §-a iktatta be.
+[^18]: Az 1. melléklet 3. pont 3.11. alpontját a 68/2014. (XII. 17.) BM rendelet 1. §-a iktatta be.
