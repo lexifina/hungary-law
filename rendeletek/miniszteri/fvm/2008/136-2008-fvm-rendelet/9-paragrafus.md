@@ -1,12 +1,11 @@
 ## Jogkövetkezmények
 
-9. § (1) Ha az ügyfél által realizált árbevétel 30%-ot meghaladóan marad el a pénzügyi tervben 4. évre vállalt árbevételtől, akkor a 30%-ot meghaladó csökkenésen túli mértékre, százalékpontonként a támogatási összeg 2%-át vissza kell fizetni.
+9. §[^34] (1) Ha az ügyfél által realizált árbevétel 30%-ot meghaladóan marad el a pénzügyi tervben 4. évre vállalt árbevételtől, akkor a 30%-ot meghaladó csökkenésen túli mértékre, valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot köteles intézkedésben való jogosulatlan részvétel jogcímén visszafizetni.
 
-(2)[^33] Ha az ügyfél által a művelet megvalósításának évét követő három évben, a 3 év alatt összesen realizált árbevétel a benyújtás évében realizált árbevételhez képest számított árbevétel-növekmény összege nem éri el a támogatás 15%-át, akkor elmaradás esetén százalékpontonként a támogatás 2%-át vissza kell fizetni.
+(2) Ha az ügyfél által a művelet megvalósításának évét követő három évben realizált összes árbevétel a benyújtás évében realizált árbevételhez viszonyított növekményének összege nem éri el a támogatás 15%-át, akkor elmaradás esetén valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-át de legfeljebb 300 000 forintot köteles intézkedésben való jogosulatlan részvétel jogcímén visszafizetni.
 
-(3) Ha az ügyfél a támogatási kérelemben vállalt átlagos foglalkoztatotti létszámnál kevesebb főt foglalkoztat az üzemeltetési kötelezettség harmadik évétől kezdődően, akkor köteles – hiányzó foglalkoztatottanként egyszer – a támogatási összeg 2%-ának megfelelő összeg, de legalább 300 000 forint visszafizetésére.
+(3) Ha az ügyfél a támogatási kérelemben vállalt átlagos foglalkoztatotti létszámnál kevesebb főt foglalkoztat az üzemeltetési kötelezettség harmadik évétől kezdődően, akkor köteles – hiányzó foglalkoztatottanként egyszer – valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot intézkedésben való jogosulatlan részvétel jogcímén visszafizetni.
 
-(4)[^34] Ha az 1. számú melléklet szerinti nyilatkozattal alátámasztott pontozási szempontok ellenőrzése során kiderül, hogy az ügyfél nem valós adatot szolgáltatott, akkor a kifizetett támogatás jogosulatlanul igénybe vett támogatásnak minősül és az ügyfél támogatási jogosultsága az érintett támogatáshoz kapcsolódóan megszűnik.
+(4) Az (1)–(3) bekezdésben nem szabályozott szempontok esetében a pontozási szempontok tekintetében vállalt kötelezettség nem teljesítése esetén, amennyiben a nem teljesítés pontszámvesztést eredményezne, az ügyfél szempontonként valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot köteles intézkedésben való jogosulatlan részvétel jogcímén visszafizetni.
 
-[^33]: A 9. § (2) bekezdése a 169/2008. (XII. 31.) FVM rendelet 5. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^34]: A 9. § (4) bekezdése a 13/2010. (VIII. 30.) VM rendelet 3. § (6) bekezdésével megállapított szöveg.
+[^34]: A 9. § a 7/2015. (II. 17.) MvM rendelet 20. § (2) bekezdésével megállapított szöveg.
