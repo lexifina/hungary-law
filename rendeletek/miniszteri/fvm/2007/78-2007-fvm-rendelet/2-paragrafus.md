@@ -8,7 +8,7 @@ a) biomassza kazán: mezőgazdasági eredetű biomassza eltüzelésére alkalmas
 
 b) hatásfok: szabvány szerinti 8 órás folyamatos üzemelés során mért hőtechnikai hatásfok;
 
-c)[^1]
+c)[^2]
 
 d) befejezett beruházás: az előállított energia szétosztását, tárolását szolgáló eszközök kiépítésével együtt a biomassza kazán üzembe helyezése;
 
@@ -18,7 +18,7 @@ f) mezőgazdasági naturális adat: a hőenergia-felhasználással járó mezőg
 
 g) effektív hőenergia termelés: az e) pont szerinti útmutatónak megfelelően, a támogatás igénybevételével megvalósítani tervezett berendezés névleges teljesítménye alapján számított átlagos, éves hőenergia termelés;
 
-h)[^2] állagmegóvás: a biomassza kazán élettartamának megőrzése és az előállított energia szétosztását, tárolását szolgáló eszközök hatékony működése céljából elvégzett tevékenység, a támogatással megvalósított fejlesztésnek jó állapotban történő tartása.
+h)[^3] állagmegóvás: a biomassza kazán élettartamának megőrzése és az előállított energia szétosztását, tárolását szolgáló eszközök hatékony működése céljából elvégzett tevékenység, a támogatással megvalósított fejlesztésnek jó állapotban történő tartása.
 
-[^1]: A 2. § c) pontját a 101/2007. (IX. 21.) FVM rendelet 10. § (1) bekezdése hatályon kívül helyezte.
-[^2]: A 2. § h) pontját a 101/2007. (IX. 21.) FVM rendelet 1. §-a iktatta be.
+[^2]: A 2. § c) pontját a 101/2007. (IX. 21.) FVM rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^3]: A 2. § h) pontját a 101/2007. (IX. 21.) FVM rendelet 1. §-a iktatta be.

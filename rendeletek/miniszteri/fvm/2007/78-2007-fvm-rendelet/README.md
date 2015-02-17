@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-78-20-8
 | 2010-03-19 | 2007-78-20-82.6 | 101/2007. (IX. 21.) FVM rendelet |
 | 2011-03-01 | 2007-78-20-82.7 | 15/2011. (II. 28.) VM rendelet |
 | 2011-07-01 | 2007-78-20-82.8 | 57/2011. (VI. 20.) VM rendelet |
+| 2015-02-17 | 2007-78-20-82.9 | 7/2015. (II. 17.) MvM rendelet |

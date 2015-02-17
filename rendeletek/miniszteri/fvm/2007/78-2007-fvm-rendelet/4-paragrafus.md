@@ -18,21 +18,21 @@ d) a 2. § (1) bekezdés f) pontjában meghatározott mezőgazdasági naturális
 
 e) a 2. § (1) bekezdés g) pontjában meghatározott effektív hőenergia termelés kiszámítását;
 
-f)[^4] az egyes fejlesztési komponensek legfontosabb műszaki-technikai adatait.
+f)[^5] az egyes fejlesztési komponensek legfontosabb műszaki-technikai adatait.
 
-(5)[^5] A támogatás igénybevételének további feltétele az ügyfél nyilatkozata a felhasználni tervezett – tüzelőberendezés típusával és az éves alapanyagigénnyel összhangban álló – biomassza tüzelőanyag forrásáról és formájáról.
+(5)[^6] A támogatás igénybevételének további feltétele az ügyfél nyilatkozata a felhasználni tervezett – tüzelőberendezés típusával és az éves alapanyagigénnyel összhangban álló – biomassza tüzelőanyag forrásáról és formájáról.
 
 (6) Az ügyfél köteles:
 
 a) a beruházással előállított energiát mezőgazdasági tevékenység keretében, illetve a mezőgazdasági üzemen (telephelyen) belül elhelyezkedő, a mezőgazdasági tevékenység folytatásához kapcsolódó infrastrukturális létesítményekben hasznosítani (karbantartó műhely, szociális helység stb.);
 
-b)[^6] az állagmegóvásról gondoskodni és az üzemeltetési kötelezettségének eleget tenni, amely a Vhr. 23. § (1) bekezdés b) pontjától eltérően az utolsó kifizetési kérelem beadásától számított 5 évig áll fenn;
+b)[^7] az állagmegóvásról gondoskodni és az üzemeltetési kötelezettségének eleget tenni, amely a Vhr. 23. § (1) bekezdés b) pontjától eltérően az utolsó kifizetési kérelem beadásától számított 5 évig áll fenn;
 
 c) az Új Magyarország Vidékfejlesztési Program keretében, e jogcím tárgyában szervezett kötelező képzésen részt venni az utolsó kifizetési kérelem benyújtása előtt;
 
-d)[^7] a Vhr. 25. § (2) bekezdésétől eltérően a beruházást a támogatási kérelemnek helyt adó határozat közlésétől számított 12 hónapon belül befejezni.
+d)[^8] a Vhr. 25. § (2) bekezdésétől eltérően a beruházást a támogatási kérelemnek helyt adó határozat közlésétől számított 12 hónapon belül befejezni.
 
-[^4]: A 4. § (4) bekezdésének f) pontja a 101/2007. (IX. 21.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^5]: A 4. § (5) bekezdése a 101/2007. (IX. 21.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^6]: A 4. § (6) bekezdésének b) pontja a 101/2007. (IX. 21.) FVM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^7]: A 4. § (6) bekezdésének d) pontját a 101/2007. (IX. 21.) FVM rendelet 3. § (3) bekezdése iktatta be, szövege a 23/2010. (III. 16.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (4) bekezdésének f) pontja a 101/2007. (IX. 21.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (5) bekezdése a 101/2007. (IX. 21.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^7]: A 4. § (6) bekezdésének b) pontja a 101/2007. (IX. 21.) FVM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^8]: A 4. § (6) bekezdésének d) pontját a 101/2007. (IX. 21.) FVM rendelet 3. § (3) bekezdése iktatta be, szövege a 23/2010. (III. 16.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
