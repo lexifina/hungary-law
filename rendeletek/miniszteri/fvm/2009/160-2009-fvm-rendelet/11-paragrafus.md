@@ -1,6 +1,6 @@
-## 10/D. §[^20] E rendeletnek a vidékfejlesztési miniszter felelősségi körébe tartozó egyes miniszteri rendeleteknek a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló törvényhez kapcsolódó, valamint más vidékfejlesztési tárgyú módosításáról szóló 121/2013. (XII. 16.) VM rendelettel [a továbbiakban: 121/2013. (XII. 16.) VM rendelet] megállapított 8/A. § (4) bekezdését a 121/2013. (XII. 16.) VM rendelet hatálybalépésekor[^21] folyamatban lévő ügyekben is alkalmazni kell.
+## 10/E. §[^22] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 7/2015. (II. 17.) MvM rendelettel [a továbbiakban: 7/2015. (II. 17.) MvM rendelet] megállapított 9. §-t a 7/2015. (II. 17.) MvM rendelet hatálybalépésekor[^23] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^20]: A 10/D. §-t a 121/2013. (XII. 16.) VM rendelet 14. § (3) bekezdése iktatta be.
-[^21]: A hatálybalépés időpontja 2013. december 17.
+[^22]: A 10/E. §-t a 7/2015. (II. 17.) MvM rendelet 32. § (2) bekezdése iktatta be.
+[^23]: A hatálybalépés időpontja 2015. február 17.
