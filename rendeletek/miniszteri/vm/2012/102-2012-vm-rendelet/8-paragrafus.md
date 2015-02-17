@@ -28,5 +28,7 @@ a) az ügyfélnek a művelet megvalósulását követő hat hónapon belül,
 
 b) annak az ügyfélnek, aki 2015. május 31. napját megelőző hat hónapon belül valósítja meg a műveletet, az a) pont szerinti határidőre tekintet nélkül 2015. május 31. napjáig
 
+kell az utolsó kifizetési kérelmet benyújtania.
+
 [^15]: A 8. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés p) pontja hatályon kívül helyezte, újonnan a 121/2013. (XII. 16.) VM rendelet 27. § (2) bekezdése iktatta be.
 [^16]: A 8. § (4) bekezdését az 1/2014. (IX. 15.) MvM rendelet 21. § (2) bekezdése iktatta be.
