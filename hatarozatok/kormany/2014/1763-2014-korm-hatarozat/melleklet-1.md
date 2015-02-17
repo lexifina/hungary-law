@@ -10,7 +10,7 @@
 
 ## 6.[^1]
 
-1. melléklet az 1763/2014. (XII. 18.) Korm. határozathoz
+1. melléklet az 1763/2014. (XII. 18.) Korm. határozathoz[^2]
 
 A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -60,13 +60,13 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 21. | B177/15 | COALITION ENDEAVOUR/COMBINED ENDEAVOUR 2015 híradó rendszergyakorlat | MH ÖHP | NATO/EU tagállam | II–IV. n. é. | 50 |
 
-| 22. | B180/15 | WARLORD ROCK 2015 | MH ÖHP | Olaszország/Németország/ Magyarország | I–II. n. é. | 200 |
+| 22. | B180/15 | WARLORD ROCK 2015 | MH ÖHP | OLASZORSZÁG/ NÉMETORSZÁG/ MAGYARORSZÁG | I–II. n. é. | 700 |
 
 | 23. | B181/15 | V4 EU BG HUMINT gyakorlat | MH ÖHP | Lengyelország/Szlovákia/Románia/Magyarország | I. és III. n. é. | 10 |
 
 | 24. | B182/15 | Austere Challenge 2015 (MN IROC) | MH ÖHP | Németország/NATO/EU tagállamok | II–IV. n. é. | 5 |
 
-| 25. | B184/15 | TYTAN 2015 CBRN gyakorlat | MH ÖHP | Lengyelország | II. n. é. | 20 |
+| 25. | B184/15 | TYTAN 2015 CBRN gyakorlat | MH ÖHP | Lengyelország | II. n. é. | 50 |
 
 | 26. | B204/15 | CIMIC/PSYOPS felkészítési rendezvények | MH ÖHP | NATO/EU tagállamok | I–IV. n. é. | 50 |
 
@@ -76,7 +76,7 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 29. | B225/15 | NRF-JAT 2016 felkészítési rendezvények | MH ÖHP | NATO/EU tagállam | I–IV. n. é. | 10 |
 
-| 30. | B226/15 | JCET magyar-amerikai közös KM felkészítés | MH ÖHP | Németország/Magyarország | I–IV. n. é. | 100 |
+| 30. | B226/15 | JCET magyar–amerikai közös KM felkészítés | MH ÖHP | Németország/ Magyarország | I–IV. n. é. | 250 |
 
 | 31. | B227/15 | NRF szárazföldi erők felkészítési rendezvényei | MH ÖHP | NATO/EU tagállam | I–IV. n. é. | 250 |
 
@@ -188,7 +188,7 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 11. | B186/15 | BRAVE WARRIOR 2015 (BÁTOR HARCOS) Zászlóalj harccsoport gyakorlat | MH ÖHP | Ukrajna/Szlovákia/ zlovénia/ Szerbia/ Horvátország/ Ausztria/Montenegró/ Macedónia/Románia/ Magyarország | III. n. é. | 2000 |
 
-| 12. | B211/15 | MLF felkészítések | MH ÖHP | Olaszország/Magyarország/Szlovénia | II–III. n. é. | 5 |
+| 12. | B211/15 | MLF felkészítések | MH ÖHP | Olaszország/ Magyarország/ Szlovénia | II–III. n. é. | 50 |
 
 | 13. | B216/15 | TOXIC VALLEY 2015 gyakorlat | MH ÖHP | Szlovákia | III. n. é. | 20 |
 
@@ -224,7 +224,7 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 29. | C236/15 | LORD MOUNTAIN 2015 szlovén–magyar helikopter kiképzés | MH ÖHP | Szlovénia/Magyarország | I–IV. n. é. | 50 |
 
-| 30. | C237/15 | Helikopter hajózó állomány szimulátoros felkészítése 2015 | MH ÖHP | Szlovénia | I–IV. n. é. | 50 |
+| 30. | C237/15 | Hajózó állomány szimulátoros felkészítése 2015. | MH ÖHP | NATO/EU tagállam | I–IV. n. é. | 100 |
 
 | 31. | C240/15 | EDA 2015 helikopteres program | MH ÖHP | NATO/EU tagállam | I–IV. n. é. | 25 |
 
@@ -309,3 +309,4 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 16. | Szövetséges felderítő légijárművek áthaladása a magyar légtérben | 2015. I–IV. n. é. | – |
 
 [^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1053/2015. (II. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
