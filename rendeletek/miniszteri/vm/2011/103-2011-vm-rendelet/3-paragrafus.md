@@ -8,7 +8,7 @@ b) a zöldség-gyümölcs termelői csoport, termelői szervezet vagy azok leán
 
 c) a kertészeti ágazatban és burgonya ágazatban működő termelői csoport
 
-## (a továbbiakban együtt: ügyfél).
+(a továbbiakban együtt: ügyfél).
 
 (2) Az ügyfél mezőgazdasági üzeme méretének meg kell haladnia a 4 európai méretegységet. Nem vonatkozik ez a szabály az (1) bekezdés b)–c) pontjában meghatározott ügyfelekre és az induló vállalkozás ügyfélre.
 
@@ -28,15 +28,16 @@ b) az ügyfél a beruházással előállított energiát a 6. melléklet szerint
 
 a) az ügyfélnek a támogatási határozat közlésétől számított két éven belül,
 
-b) annak az ügyfélnek, aki 2015. március 31. napját megelőző két éven belül veszi kézhez a támogatási határozatot, az a) pont szerinti határidőre tekintet nélkül 2015. március 31. napjáig
+b)[^2] annak az ügyfélnek, aki 2015. március 31. napját megelőző két éven belül veszi kézhez a támogatási határozatot, az a) pont szerinti határidőre tekintet nélkül 2015. május 31. napjáig
 
-## kell a műveletet megvalósítania.
+kell a műveletet megvalósítania.
 
-(8)[^2]
+(8)[^3]
 
 (9) Az ügyfél köteles a támogatott beruházást, létesítményt, eszközt, megvalósított, felújított, korszerűsített létesítményt rendeltetésszerűen, a vonatkozó engedélyek és előírások betartásával üzemeltetni (a továbbiakban: üzemeltetési kötelezettség). Az üzemeltetési kötelezettség a támogatási határozat közlésével kezdődik és az utolsó kifizetési határozat közlésétől számított öt évig áll fenn.
 
 (10) Kizárólag annak az ügyfélnek nyújtható támogatás, akinek a támogatási kérelme az értékelés során eléri a 46 pontot és a 3. melléklet „A” részében szereplő szakmai szempontok alapján eléri a 15 pontot.
 
 [^1]: A 3. § (7) bekezdése az 1/2014. (IX. 15.) MvM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^2]: A 3. § (8) bekezdését az 1/2014. (IX. 15.) MvM rendelet 8. §-a hatályon kívül helyezte.
+[^2]: A 3. § (7) bekezdés b) pontja a 7/2015. (II. 17.) MvM rendelet 43. §-a szerint módosított szöveg.
+[^3]: A 3. § (8) bekezdését az 1/2014. (IX. 15.) MvM rendelet 8. §-a hatályon kívül helyezte.

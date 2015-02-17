@@ -64,6 +64,6 @@
 
 | 27. | 4.1. | Szociális helyiségek (öltözők, pihenők, iroda), kiszolgáló terek (göngyölegtároló, géptároló, fedett és nyitott rámpák) együttesen | 90 000 | Ft/m2 |
 
-3. melléklet a 103/2011. (XI. 8.) VM rendelethez[^10]
+3. melléklet a 103/2011. (XI. 8.) VM rendelethez[^16]
 
-[^10]: A 3. melléklet a 20/2012. (III. 7.) VM rendelet 12. §-a szerint módosított szöveg.
+[^16]: A 3. melléklet a 20/2012. (III. 7.) VM rendelet 12. §-a szerint módosított szöveg.
