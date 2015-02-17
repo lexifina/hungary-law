@@ -10,7 +10,7 @@ c) a beruházást az b) pont szerinti állattartó telepen valósítja meg,
 
 d) igazolja, hogy a támogatási kérelemben megjelölt állattartó telepet a NÉBIH nyilvántartásba vette, és
 
-e)[^19] az ÁTK I. jogcímhez, az ÁTK II. jogcímhez, a BaTeK jogcímhez kapcsolódóan nem rendelkezik helyt adó, vagy részben helyt adó támogatási határozattal, vagy ha rendelkezik helyt adó vagy részben helyt adó támogatási határozattal, úgy az utolsó kifizetési kérelmét a támogatási kérelem benyújtásáig benyújtotta, vagy a támogatási kérelem benyújtásakor az ügyfélre irányadó, az utolsó kifizetési kérelem benyújtására rendelkezésére álló határidő még nem telt le;
+e)[^20] az ÁTK I. jogcímhez, az ÁTK II. jogcímhez, a BaTeK jogcímhez kapcsolódóan nem rendelkezik helyt adó, vagy részben helyt adó támogatási határozattal, vagy ha rendelkezik helyt adó vagy részben helyt adó támogatási határozattal, úgy az utolsó kifizetési kérelmét a támogatási kérelem benyújtásáig benyújtotta, vagy a támogatási kérelem benyújtásakor az ügyfélre irányadó, az utolsó kifizetési kérelem benyújtására rendelkezésére álló határidő még nem telt le;
 
 f) az ÁTK III. jogcímhez, az ÁTK IV. jogcímhez valamint a Kertészeti gépbeszerzés jogcímhez kapcsolódóan nem rendelkezik helyt adó, vagy részben helyt adó támogatási határozattal, vagy ha rendelkezik helyt adó, vagy részben helyt adó támogatási határozattal, és a műveletet az e rendelet szerinti támogatási kérelem benyújtásáig megkezdte, és fejlesztési, vagy beruházási tevékenységre vonatkozóan már kifizetési kérelmet nyújtott be, vagy
 
@@ -24,4 +24,4 @@ b) szarvasmarha, sertés, juh, kecske, lófélék (ló, szamár, öszvér), baro
 
 c) az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 18. § (1) bekezdés b) pontja szerinti állomány-nyilvántartást és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet 21. számú mellékletének GN 14, GN 15 számú nyomtatványa szerinti legeltetési és állatállomány-változási nyilvántartást vezetni.
 
-[^19]: Az 5. § (1) bekezdés e) pontja a 19/2014. (III. 12.) VM rendelet 43. § (3) bekezdésével megállapított szöveg.
+[^20]: Az 5. § (1) bekezdés e) pontja a 19/2014. (III. 12.) VM rendelet 43. § (3) bekezdésével megállapított szöveg.

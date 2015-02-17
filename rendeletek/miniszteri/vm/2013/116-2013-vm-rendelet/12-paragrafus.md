@@ -1,6 +1,6 @@
 ## 10. Az elektronikus kérelembenyújtás és a kapcsolattartás szabályai
 
-12. § (1)[^28] Az ügyfél az MVH részére teljesítendő, e rendeletben meghatározott intézkedésben való részvétele megalapozottságának vizsgálatához, megállapításához szükséges bejelentési, adatszolgáltatási, valamint a hiánypótlásra és a nyilatkozattételre vonatkozó kötelezettségét kizárólag elektronikus úton, az ügyfélkapun keresztül köteles teljesíteni.
+12. § (1)[^32] Az ügyfél az MVH részére teljesítendő, e rendeletben meghatározott intézkedésben való részvétele megalapozottságának vizsgálatához, megállapításához szükséges bejelentési, adatszolgáltatási, valamint a hiánypótlásra és a nyilatkozattételre vonatkozó kötelezettségét kizárólag elektronikus úton, az ügyfélkapun keresztül köteles teljesíteni.
 
 (2) Az MVH az adott eljárási cselekményhez kapcsolódó döntéseit postai úton vagy – amennyiben annak feltételei fennállnak – elektronikus úton közli az ügyféllel.
 
@@ -16,4 +16,4 @@
 
 (8) Az (5)–(7) bekezdésben foglaltakat kizárólag elektronikus kapcsolattartás esetén kell alkalmazni.
 
-[^28]: A 12. § (1) bekezdése a 19/2014. (III. 12.) VM rendelet 43. § (6) bekezdésével megállapított szöveg.
+[^32]: A 12. § (1) bekezdése a 19/2014. (III. 12.) VM rendelet 43. § (6) bekezdésével megállapított szöveg.

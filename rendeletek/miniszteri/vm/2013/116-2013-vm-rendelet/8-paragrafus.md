@@ -20,7 +20,7 @@ b) induló vállalkozás esetén arra vonatkozó nyilatkozatot, hogy az ügyfél
 
 ba) a 4. § (1) bekezdés b) pontjában foglaltaknak 2016. naptári év folyamán meg fog felelni,
 
-bb)[^23] legkésőbb a 4. § (5) bekezdésben foglalt határidőig meg fog felelni az 5. § (1) bekezdés b)–d) pontjában, valamint a 6. § (2) bekezdés b)–d) pontjában meghatározott feltételnek,
+bb)[^24] legkésőbb a 4. § (5) bekezdésben foglalt határidőig meg fog felelni az 5. § (1) bekezdés b)–d) pontjában, valamint a 6. § (2) bekezdés b)–d) pontjában meghatározott feltételnek,
 
 c) a 4. § (1) bekezdés b) pontja szerinti nyilatkozatot,
 
@@ -50,4 +50,4 @@ ba) az ügyfél nyilatkozatát a hatósági engedélyezési eljárás megindít�
 
 bb) a jogerős engedélyt, amennyiben az ügyfél a támogatási kérelem benyújtásakor már rendelkezik vele.
 
-[^23]: Az 1/2014. (IX. 15.) MvM rendelet 39. § a) pontjával elrendelt módosítás, amely szerint a „4. § (5) bekezdésében” szövegrész helyébe a „11. § (6a) bekezdésében” szöveg lép, nem vezethető át.
+[^24]: Az 1/2014. (IX. 15.) MvM rendelet 39. § a) pontjával elrendelt módosítás, amely szerint a „4. § (5) bekezdésében” szövegrész helyébe a „11. § (6a) bekezdésében” szöveg lép, nem vezethető át.

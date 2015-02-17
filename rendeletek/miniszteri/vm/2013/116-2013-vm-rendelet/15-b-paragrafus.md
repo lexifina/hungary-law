@@ -1,13 +1,13 @@
-## 15/A. §[^31] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 19/2014. (III. 12.) VM rendelettel [a továbbiakban: 19/2014. (III. 12.) VM rendelet] megállapított 3. § (5) és (6) bekezdését, 4. § (2a) bekezdését, 5. § (1) bekezdés e) pontját, 6. § (2) bekezdés e) pontját, 7. § (5) bekezdését, valamint 12. § (1) bekezdését a 19/2014. (III. 12.) VM rendelet hatálybalépésekor[^32] folyamatban lévő ügyekben is alkalmazni kell.
+## 15/A. §[^36] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 19/2014. (III. 12.) VM rendelettel [a továbbiakban: 19/2014. (III. 12.) VM rendelet] megállapított 3. § (5) és (6) bekezdését, 4. § (2a) bekezdését, 5. § (1) bekezdés e) pontját, 6. § (2) bekezdés e) pontját, 7. § (5) bekezdését, valamint 12. § (1) bekezdését a 19/2014. (III. 12.) VM rendelet hatálybalépésekor[^37] folyamatban lévő ügyekben is alkalmazni kell.
 
-## 15/B. §[^33] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 1/2014. (IX. 15.) MvM rendelettel [a továbbiakban: 1/2014. (IX. 15.) MvM rendelet]
+## 15/B. §[^38] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 1/2014. (IX. 15.) MvM rendelettel [a továbbiakban: 1/2014. (IX. 15.) MvM rendelet]
 
-a) megállapított 1. § (1) bekezdés 12. pont c) alpontot, 1. § (2) bekezdést, 4. § (3a), (4), és (14)–(18) bekezdést, a 8. § (2) bekezdés b) pont bb) alpontot, 11. § (6), (6a) és (12) bekezdést, 13. § (4) bekezdést az 1/2014. (IX. 15.) MvM rendelet hatálybalépésekor[^34] folyamatban lévő ügyekben is alkalmazni kell,
+a) megállapított 1. § (1) bekezdés 12. pont c) alpontot, 1. § (2) bekezdést, 4. § (3a), (4), és (14)–(18) bekezdést, a 8. § (2) bekezdés b) pont bb) alpontot, 11. § (6), (6a) és (12) bekezdést, 13. § (4) bekezdést az 1/2014. (IX. 15.) MvM rendelet hatálybalépésekor[^39] folyamatban lévő ügyekben is alkalmazni kell,
 
-b) hatályon kívül helyezett 4. § (5) bekezdést az 1/2014. (IX. 15.) MvM rendelet hatálybalépésekor[^35] folyamatban lévő ügyekben sem kell alkalmazni.
+b) hatályon kívül helyezett 4. § (5) bekezdést az 1/2014. (IX. 15.) MvM rendelet hatálybalépésekor[^40] folyamatban lévő ügyekben sem kell alkalmazni.
 
-[^31]: A 15/A. §-t a 19/2014. (III. 12.) VM rendelet 43. § (7) bekezdése iktatta be.
-[^32]: A hatálybalépés időpontja 2014. március 13.
-[^33]: A 15/B. §-t az 1/2014. (IX. 15.) MvM rendelet 38. § (8) bekezdése iktatta be.
-[^34]: A hatálybalépés időpontja 2014. szeptember 16.
-[^35]: A hatálybalépés időpontja 2014. szeptember 16.
+[^36]: A 15/A. §-t a 19/2014. (III. 12.) VM rendelet 43. § (7) bekezdése iktatta be.
+[^37]: A hatálybalépés időpontja 2014. március 13.
+[^38]: A 15/B. §-t az 1/2014. (IX. 15.) MvM rendelet 38. § (8) bekezdése iktatta be.
+[^39]: A hatálybalépés időpontja 2014. szeptember 16.
+[^40]: A hatálybalépés időpontja 2014. szeptember 16.
