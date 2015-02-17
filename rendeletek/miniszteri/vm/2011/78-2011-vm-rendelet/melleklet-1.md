@@ -1,5 +1,7 @@
-## 12. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 26. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
+## 13. §[^6] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 7/2015. (II. 17.) MvM rendelettel [a továbbiakban: 7/2015. (II. 17.) MvM rendelet] megállapított 10. § (1)–(3) bekezdést a 7/2015. (II. 17.) MvM rendelet hatálybalépésekor[^7] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
-1. melléklet a 78/2011. (VIII. 3.) VM rendelethez[^3]
+1. melléklet a 78/2011. (VIII. 3.) VM rendelethez[^8]
 
-[^3]: Az 1. melléklet a 87/2011. (IX. 2.) VM rendelet 12. §-ával megállapított szöveg.
+[^6]: A 13. §-t a 7/2015. (II. 17.) MvM rendelet 41. § (2) bekezdése iktatta be.
+[^7]: A hatálybalépés időpontja 2015. február 17.
+[^8]: Az 1. melléklet a 87/2011. (IX. 2.) VM rendelet 12. §-ával megállapított szöveg.
