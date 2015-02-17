@@ -10,7 +10,7 @@ a) a Gépkatalógusban beazonosítható tételek vonatkozásában a Gépkatalóg
 
 b) az Építési Normagyűjteményben (a továbbiakban: ÉNGY) beazonosítható tételek vonatkozásában az ÉNGY
 
-## szerinti referenciaárat.
+szerinti referenciaárat.
 
 (5) Költségvetési szervek esetében az 1698/2005/EK tanácsi rendelet 71. cikk (3) bekezdés a) pontja alapján a támogatás számításának alapja az összes nettó elszámolható kiadás.
 
