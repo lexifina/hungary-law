@@ -8,7 +8,7 @@ b) az erdőgazdálkodó,
 
 c) a kertészeti termelő
 
-## [a továbbiakban az a)–c) pontok együtt: ügyfél], ha a TSzK-val a 3. § szerinti célterületekre szolgáltatói szerződést köt, amelynek legkésőbbi teljesítési határideje a 2013. évre kötött szaktanácsadási szerződések esetében 2013. december 31., a 2014. évre kötött szaktanácsadási szerződések esetében 2014. szeptember 15.
+[a továbbiakban az a)–c) pontok együtt: ügyfél], ha a TSzK-val a 3. § szerinti célterületekre szolgáltatói szerződést köt, amelynek legkésőbbi teljesítési határideje a 2013. évre kötött szaktanácsadási szerződések esetében 2013. december 31., a 2014. évre kötött szaktanácsadási szerződések esetében 2014. szeptember 15.
 
 (2)[^15] Az ügyfél – további jogosultsági feltételként – a szaktanácsadási szolgáltatáshoz kapcsolódó támogatást csak abban az esetben veheti igénybe, ha nem minősül bejegyzett szaktanácsadónak, nem TSzK, és
 

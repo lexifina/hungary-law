@@ -1,3 +1,5 @@
+## 3K67987_0
+
 | Azonosító kód | SZAKTANÁCSADÓI SZOLGÁLTATÁSI JEGYZÉK | Célterület a rendelet 3. §-a szerint |
 
 |  | Szántóföldi növénytermesztés |  |
@@ -212,7 +214,7 @@
 
 |  | Agroturizmus |  |
 
-| Agc1 | Falusi turizmus fejlesztési terv elkészítése | (1)  c) |
+| Agc1 | Falusi turizmus fejlesztési terv elkészítése | (1) c) |
 
 | Agc2 | Fejlesztési projekt kidolgozása | (1) c) |
 
@@ -250,6 +252,6 @@
 
 | Vfc2 | Tevékenység diverzifikálás | (1) c) |
 
-2–3. számú melléklet az 52/2007. (VI. 28.) FVM rendelethez[^73]
+2. számú melléklet az 52/2007. (VI. 28.) FVM rendelethez[^75]
 
-[^73]: A 2–3. számú mellékletet a 96/2008. (VII. 25.) FVM rendelet 9. § (3) bekezdése hatályon kívül helyezte.
+[^75]: A 2–3. számú mellékletet a 96/2008. (VII. 25.) FVM rendelet 9. § (3) bekezdése hatályon kívül helyezte.
