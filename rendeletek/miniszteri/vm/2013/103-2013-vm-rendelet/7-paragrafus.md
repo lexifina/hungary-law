@@ -38,7 +38,7 @@ b) könyvtári szolgáltató hely esetében a 3. § (7) bekezdésében előírt 
 
 c) fiókkönyvtár esetén a városi könyvtár SZMSZ-ében
 
-## rögzíti a nyitvatartási feltételeket.
+rögzíti a nyitvatartási feltételeket.
 
 (10) A (8) és (9) bekezdésben meghatározott nyitvatartási idő alatt a (2) bekezdésben meghatározott szolgáltatásokat az ügyfél köteles naptári negyedévenként és szolgáltatásonként legalább egy alkalommal ellátni, és annak teljesítését dokumentálni elektronikus úton a (11) bekezdésben előírtak szerint.
 

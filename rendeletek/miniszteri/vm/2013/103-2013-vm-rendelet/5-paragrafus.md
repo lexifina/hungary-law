@@ -18,6 +18,6 @@ a) legfeljebb 25 000 000 forint, ha az ügyfél kizárólag a 7. § (2) bekezdé
 
 b) legfeljebb 30 000 000 forint, ha a 7. § (2) és (7) bekezdésében
 
-## előírtakat teljesíti.
+előírtakat teljesíti.
 
 (5) A 4. célterület esetében a támogatás alapját képező elszámolható nettó kiadások összege ügyfelenként legfeljebb 25 000 000 forint.

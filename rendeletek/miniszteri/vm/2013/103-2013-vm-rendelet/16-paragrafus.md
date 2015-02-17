@@ -1,6 +1,6 @@
 ## 10. Jogkövetkezmények
 
-16. § (1)[^7] Ha az ügyfél nem tesz eleget a 7. § (2)–(5), valamint (7)–(12) bekezdés szerinti kötelezettségeinek, továbbá pótolható mulasztás esetén felszólításra sem teljesíti azt, akkor az ügyfél kötelezettségszegés esetén kötelezettségenként valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 5 százalékának visszafizetésére köteles intézkedésben való jogosulatlan részvétel jogcímén.
+16. § (1)[^8] Ha az ügyfél nem tesz eleget a 7. § (2)–(5), valamint (7)–(12) bekezdés szerinti kötelezettségeinek, továbbá pótolható mulasztás esetén felszólításra sem teljesíti azt, akkor az ügyfél kötelezettségszegés esetén kötelezettségenként valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 5%-ának megfelelő összeg, de legfeljebb 500 000 forint visszafizetésére köteles intézkedésben való jogosulatlan részvétel jogcímén.
 
 (2) Amennyiben az ügyfél a műveletet a 3. § (2) bekezdésében foglalt megvalósítási határidőig nem valósítja meg, vagy a 14. § (3) bekezdés b) pontjában, vagy gépjárműbeszerzés esetén a 14. § (4) bekezdésében foglalt feltételt nem teljesíti, abban az esetben az MVH – amennyiben kifizetési kérelem alapján eljárás van folyamatban, úgy a kérelmet határozattal elutasítja – külön határozatban a támogatási határozatát visszavonja, ezzel egyidejűleg megállapítja, hogy az ügyfél támogatáshoz való jogosultsága az intézkedésben való jogosulatlan részvétel miatt megszűnik, továbbá az ügyfél által igénybevett támogatás jogosulatlanul igénybe vett támogatásnak minősül.
 
@@ -10,4 +10,4 @@
 
 (5) Az 1. és 2. célterület keretében megvalósuló beruházás esetén amennyiben az ügyfél a 8. § (1) bekezdésében foglaltakat megszegi, és a támogatási kérelem alapján indult eljárás során kerül megállapításra, hogy a művelet e rendelet hatályba lépését megelőzően megkezdődött, akkor az a támogatási kérelem érintett tételeinek elutasítását vonja maga után. Amennyiben ez a kifizetési kérelem alapján indult eljárás során kerül megállapításra, úgy az érintett tétel elutasításra kerül, a korábbi kifizetési határozatban elszámolt, érintett tételek vonatkozásában az intézkedésben való jogosulatlan részvétel szabályait kell alkalmazni.
 
-[^7]: A 16. § (1) bekezdése a 8/2014. (XI. 19.) MvM rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^8]: A 16. § (1) bekezdése a 7/2015. (II. 17.) MvM rendelet 73. § (2) bekezdésével megállapított szöveg.

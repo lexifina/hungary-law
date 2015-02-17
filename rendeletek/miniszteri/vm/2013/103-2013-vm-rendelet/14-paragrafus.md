@@ -34,6 +34,9 @@ d) a gépjárműre vonatkozó 7. § (1) bekezdés a) pontjában meghatározott C
 
 (10) A 3. és 4. célterület keretében, engedélyköteles építési tevékenység esetén az utolsó kifizetési kérelemhez mellékelni kell az ügyfél nevére szóló jogerős használatbavételi engedélyt vagy a használatbavétel tudomásulvételét igazoló építésügyi hatósági bizonyítványt.
 
+(11)[^7] Amennyiben az ügyfél a (10) bekezdésben meghatározott okiratot az utolsó kifizetési kérelemmel nem nyújtja be és hiánypótlás keretében sem tudja pótolni, mert azzal még nem rendelkezik, vagy az engedély még nem emelkedett jogerőre, az MVH a kifizetési eljárást a jogerős engedély egy példányának vagy hiteles másolatának benyújtásáig, de legkésőbb 2015. szeptember 30-ig felfüggeszti. 2015. szeptember 30. napját követően a (10) bekezdésben meghatározott okirat hiánya esetén a kifizetési kérelem elutasításra kerül.
+
 [^4]: A 14. § (3a) bekezdését az 53/2014. (IV. 29.) VM rendelet 19. § (2) bekezdése iktatta be.
 [^5]: A 14. § (4) bekezdése a 32/2014. (IV. 3.) VM rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^6]: A 14. § (5) bekezdése a 8/2014. (XI. 19.) MvM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^7]: A 14. § (11) bekezdését a 7/2015. (II. 17.) MvM rendelet 73. § (1) bekezdése iktatta be.
