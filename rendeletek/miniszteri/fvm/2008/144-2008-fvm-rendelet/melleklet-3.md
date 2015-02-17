@@ -26,6 +26,6 @@
 
 ## 13. 9193 Gödörfúrók
 
-3. számú melléklet a 144/2008. (XI. 7.) FVM rendelethez[^21]
+3. számú melléklet a 144/2008. (XI. 7.) FVM rendelethez[^26]
 
-[^21]: A 3. számú melléklet a 69/2010. (V. 13.) FVM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^26]: A 3. számú melléklet a 69/2010. (V. 13.) FVM rendelet 6. § (3) bekezdésével megállapított szöveg.

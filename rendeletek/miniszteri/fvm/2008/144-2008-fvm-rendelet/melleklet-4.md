@@ -12,7 +12,7 @@
 
 ## 6. Pro Sylva Hungária Egyesület
 
-4. számú melléklet a 144/2008. (XI. 7.) FVM rendelethez[^22]
+4. számú melléklet a 144/2008. (XI. 7.) FVM rendelethez[^27]
 
 Felsőfokú erdészeti szakmai képzettségnek minősül az alábbi intézményekben szerzett képesítés, valamint a külföldön szerzett és honosított erdőmérnöki oklevél:
 
@@ -50,4 +50,4 @@ Középfokú erdészeti szakmai képzettségnek minősül az alábbi intézmény
 
 9. Erdészeti Vízépítési és Vízgazdálkodási Szakközépiskola
 
-[^22]: A 4. számú mellékletet a 69/2010. (V. 13.) FVM rendelet 6. § (4) bekezdése iktatta be.
+[^27]: A 4. számú mellékletet a 69/2010. (V. 13.) FVM rendelet 6. § (4) bekezdése iktatta be.

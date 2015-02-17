@@ -1,6 +1,6 @@
 ## A támogatás mértéke
 
-5. § (1)[^10] A jóváhagyható támogatás összege támogatási időszakonként legfeljebb:
+5. § (1)[^11] A jóváhagyható támogatás összege támogatási időszakonként legfeljebb:
 
 a) 38 500 eurónak megfelelő forintösszeg lehet, amennyiben az erdőgazdálkodó 50–399,9 ha erdőterületen gazdálkodik,
 
@@ -12,4 +12,4 @@ c) 115 500 eurónak megfelelő forintösszeg lehet, amennyiben az erdőgazdálko
 
 (3) A beruházás elszámolható kiadásai nem haladhatják meg a Gépkatalógusban szereplő referenciaárat.
 
-[^10]: Az 5. § (1) bekezdése a 69/2010. (V. 13.) FVM rendelet 3. §-ával megállapított szöveg.
+[^11]: Az 5. § (1) bekezdése a 69/2010. (V. 13.) FVM rendelet 3. §-ával megállapított szöveg.

@@ -1,3 +1,6 @@
-## „(2) A 2008. március 1. és május 1., valamint a 2008. május 12. és június 9. közötti támogatási időszakban benyújtott támogatási kérelmeket e rendelet 2008. október 4-től hatályos 3. számú mellékletében meghatározott pontozási rendszer alapján kell elbírálni azzal, hogy e rendelkezés alkalmazása nem érinti azon ügyfelek támogatási jogosultságát, akik támogatási kérelmüket az annak benyújtásakor hatályos feltételeknek megfelelő tartalommal benyújtották.”
+## 10/A. §[^21] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 7/2015. (II. 17.) MvM rendelettel [a továbbiakban: 7/2015. (II. 17.) MvM rendelet] megállapított 9. § (1)–(2) bekezdést a 7/2015. (II. 17.) MvM rendelet hatálybalépésekor[^22] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
+
+[^21]: A 10/A. §-t a 7/2015. (II. 17.) MvM rendelet 24. § (3) bekezdése iktatta be.
+[^22]: A hatálybalépés időpontja 2015. február 17.

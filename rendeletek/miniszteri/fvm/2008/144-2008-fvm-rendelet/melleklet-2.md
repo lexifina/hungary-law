@@ -86,6 +86,6 @@
 
 | 42 | Mindösszesen | 111 pont |
 
-2. számú melléklet a 144/2008. (XI. 7.) FVM rendelethez[^20]
+2. számú melléklet a 144/2008. (XI. 7.) FVM rendelethez[^25]
 
-[^20]: A 2. számú melléklet a 69/2010. (V. 13.) FVM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^25]: A 2. számú melléklet a 69/2010. (V. 13.) FVM rendelet 6. § (2) bekezdésével megállapított szöveg.
