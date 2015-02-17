@@ -1,10 +1,12 @@
 ## 11. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 52. cikk b) pontja ii. alpontjának végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-1. számú melléklet a 135/2008. (X. 18.) FVM rendelethez[^60]
+1. számú melléklet a 135/2008. (X. 18.) FVM rendelethez[^67]
 
 Értékelési szempontok
 
 1.1 „A BAKONYÉRT” Vidékfejlesztési Akciócsoport Egyesület területén alkalmazandó pontozás
+
+9M44985M_0
 
 | 1. célterület: |
 
@@ -314,6 +316,8 @@
 
 1.2 „Duna-Pilis-Gerecse” Vidékfejlesztési Egyesület területén alkalmazandó pontozás
 
+9M44985M_1
+
 | 1. célterület: |
 
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
@@ -621,6 +625,8 @@
 |  | Max.: 60 pont |
 
 1.3 36 Jó Palóc Közhasznú Egyesület területén alkalmazandó pontozás
+
+9M44985M_2
 
 | 1. célterület: |
 
@@ -930,6 +936,8 @@
 
 1.4 3-as KÉZFOGÁS NKft. területén alkalmazandó pontozás
 
+9M44985M_3
+
 | 1. célterület: |
 
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
@@ -1237,6 +1245,8 @@
 |  | Max.: 60 pont |
 
 1.5 A Vásárhelyi Vidék Jövőjéért Egyesület területén alkalmazandó pontozás
+
+9M44985M_4
 
 | 1. célterület: |
 
@@ -1546,6 +1556,8 @@
 
 1.6 Abaúj Leader Egyesület területén alkalmazandó pontozás
 
+9M44985M_5
+
 | 1. célterület: |
 
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
@@ -1853,6 +1865,8 @@
 |  | Max.: 60 pont |
 
 1.7 Alpokalja Ikvamente Leader Egyesület területén alkalmazandó pontozás
+
+9M44985M_6
 
 | 1. célterület: |
 
@@ -2162,6 +2176,8 @@
 
 1.8 Alsó-Tisza Vidék Fejlesztéséért Egyesület területén alkalmazandó pontozás
 
+9M44985M_7
+
 | 1. célterület: |
 
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
@@ -2469,6 +2485,8 @@
 |  | Max.: 60 pont |
 
 1.9 Bakony és Balaton Keleti Kapuja Egyesület területén alkalmazandó pontozás
+
+9M44985M_8
 
 | 1. célterület: |
 
@@ -2778,6 +2796,8 @@
 
 1.10 Bakonyalja-Kisalföld kapuja Vidékfejlesztési Egyesület területén alkalmazandó pontozás
 
+9M44985M_9
+
 | 1. célterület: |
 
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
@@ -3085,6 +3105,8 @@
 |  | Max.: 60 pont |
 
 1.11 Borsod-Torna-Gömör Egyesület területén alkalmazandó pontozás
+
+9M44985M_10
 
 | 1. célterület: |
 
@@ -3394,6 +3416,8 @@
 
 1.12 Börzsöny-Duna-Ipoly Vidékfejlesztési Egyesület területén alkalmazandó pontozás
 
+9M44985M_11
+
 | 1. célterület: |
 
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
@@ -3701,6 +3725,8 @@
 |  | Max.: 60 pont |
 
 1.13 Cserhátalja LEADER Nonprofit Kft. területén alkalmazandó pontozás
+
+9M44985M_12
 
 | 1. célterület: |
 
@@ -4010,6 +4036,8 @@
 
 1.14 Dél-balatoni LEADER Vidékfejlesztési Nonprofit Zrt. területén alkalmazandó pontozás
 
+9M44985M_13
+
 | 1. célterület: |
 
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
@@ -4317,6 +4345,8 @@
 |  | Max.: 60 pont |
 
 1.15 Dél-Baranya Határmenti Települések Egyesülete területén alkalmazandó pontozás
+
+9M44985M_14
 
 | 1. célterület: |
 
@@ -4626,6 +4656,8 @@
 
 1.16 Dél-Borsodi LEADER Egyesület területén alkalmazandó pontozás
 
+9M44985M_15
+
 | 1. célterület: |
 
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
@@ -4934,4 +4966,4 @@
 
 1.17 Déli Napfény Nonprofit Kft. területén alkalmazandó pontozás
 
-[^60]: Az 1. számú melléklet a 161/2009. (XI. 19.) FVM rendelet 8. § (1) bekezdésével megállapított, a 167/2009. (XII. 15.) FVM rendelet 6. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2009. december 16-át követően indult ügyekben kell alkalmazni.
+[^67]: Az 1. számú melléklet a 161/2009. (XI. 19.) FVM rendelet 8. § (1) bekezdésével megállapított, a 167/2009. (XII. 15.) FVM rendelet 6. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2009. december 16-át követően indult ügyekben kell alkalmazni.
