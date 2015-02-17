@@ -1,6 +1,6 @@
-## Az összekapcsolási pontra vonatkozó különös szabályok[^310]
+## Az összekapcsolási pontra vonatkozó különös szabályok[^311]
 
-92/A. §[^311] (1) Az összekapcsolási ponton rendelkezésre álló technikai kapacitás mértékét, amely megegyezik a szállítóvezetékek együttes működtetése során elérhető legnagyobb teljesítőképességgel, a szállítási rendszerüzemeltetők által megkötött együttműködési megállapodásban kell meghatározni.
+92/A. §[^312] (1) Az összekapcsolási ponton rendelkezésre álló technikai kapacitás mértékét, amely megegyezik a szállítóvezetékek együttes működtetése során elérhető legnagyobb teljesítőképességgel, a szállítási rendszerüzemeltetők által megkötött együttműködési megállapodásban kell meghatározni.
 
 (2) Új szállítóvezeték létesítése vagy már meglévő fejlesztése esetén az összekapcsolási ponton rendelkezésre álló technikai kapacitást a szállítási rendszerüzemeltetőnek a próbaüzem kezdetétől biztosítania kell.
 
@@ -22,5 +22,5 @@ bc) az összekapcsolási ponton a rendszerhasználók között jogcímátvezeté
 
 (6) A földgáz átadása és átvétele, valamint a szállítói feladatok és a szállítói felelősség átszállása a szállítási rendszerüzemeltetők között az összekapcsolási ponton történik. A szállítási rendszerüzemeltetők az összekapcsolási ponton mért mennyiségek és a visszaigazolt nominálások összege közötti különbséget az üzemeltetési egyensúlyozási számlán terhelésként vagy jóváírásként rögzítik. Az összekapcsolási ponton a havi elszámolás az (5) bekezdés szerinti jegyzőkönyv és a mért napi átvételi adatok összegzésével képzett havi energiamennyiségek egyeztetése alapján történik, a szállítási rendszerüzemeltetők által megkötött együttműködési megállapodásban foglaltak szerint.
 
-[^310]: A Vhr. 92/A. §-át megelőző alcímet a 212/2014. (VIII. 27.) Korm. rendelet 3. §-a iktatta be.
-[^311]: A Vhr. 92/A. §-át a 212/2014. (VIII. 27.) Korm. rendelet 3. §-a iktatta be.
+[^311]: A Vhr. 92/A. §-át megelőző alcímet a 212/2014. (VIII. 27.) Korm. rendelet 3. §-a iktatta be.
+[^312]: A Vhr. 92/A. §-át a 212/2014. (VIII. 27.) Korm. rendelet 3. §-a iktatta be.

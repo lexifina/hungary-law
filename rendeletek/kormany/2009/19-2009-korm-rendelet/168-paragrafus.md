@@ -1,6 +1,6 @@
 ## Az Európai Unió jogának való megfelelés
 
-168. §[^536] (1) Ez a rendelet a földgázszállító hálózatokhoz való hozzáférés feltételeiről és az 1775/2005/EK rendelet hatályon kívül helyezéséről szóló, 2009. július 13-i 715/2009/EK európai parlamenti és tanácsi rendelet és a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 2004/67/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 994/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+168. §[^537] (1) Ez a rendelet a földgázszállító hálózatokhoz való hozzáférés feltételeiről és az 1775/2005/EK rendelet hatályon kívül helyezéséről szóló, 2009. július 13-i 715/2009/EK európai parlamenti és tanácsi rendelet és a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 2004/67/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 994/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (2) Ez a rendelet
 
@@ -8,7 +8,7 @@ a) az energia-végfelhasználás hatékonyságáról és az energetikai szolgál
 
 b) a földgáz belső piacára vonatkozó közös szabályokról és a 2003/55/EK irányelv hatályon kívül helyezéséről szóló, 2009. július 13-i 2009/73/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-(3)[^537] Ez a rendelet a földgázszállító hálózatokhoz való hozzáférés feltételeiről szóló 715/2009/EK európai parlamenti és tanácsi rendelet I. mellékletének módosításáról szóló, 2012. augusztus 24-i 2012/490/EU európai bizottsági határozat végrehajtásához szükséges rendelkezéseket állapítja meg.
+(3)[^538] Ez a rendelet a földgázszállító hálózatokhoz való hozzáférés feltételeiről szóló 715/2009/EK európai parlamenti és tanácsi rendelet I. mellékletének módosításáról szóló, 2012. augusztus 24-i 2012/490/EU európai bizottsági határozat végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^536]: A Vhr. 168. §-a a 293/2011. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^537]: A Vhr. 168. § (3) bekezdését a 344/2013. (IX. 27.) Korm. rendelet 7. §-a iktatta be.
+[^537]: A Vhr. 168. §-a a 293/2011. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^538]: A Vhr. 168. § (3) bekezdését a 344/2013. (IX. 27.) Korm. rendelet 7. §-a iktatta be.
