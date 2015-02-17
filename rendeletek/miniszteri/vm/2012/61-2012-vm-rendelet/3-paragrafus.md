@@ -1,5 +1,3 @@
-## támogatási kérelmet nyújtott be és az ügyben – a kifizetési kérelmek kapcsán indult jogorvoslati eljárásokat kivéve – jogorvoslati eljárás van folyamatban, akkor részére e rendelet alapján kizárólag abban az esetben adható támogatás, ha a jogorvoslati kérelmét a támogatási kérelem benyújtásáig visszavonja.
-
 ## 3. A támogatás igénybevételének feltételei
 
 3. § (1) E rendelet alapján támogatás akkor vehető igénybe, ha az ügyfél:
@@ -48,8 +46,8 @@ e) az utolsó kifizetési kérelem benyújtása előtt az EMVA társfinanszíroz
 
 (5) Az ügyfél a szintentartási kötelezettségének bértartás útján is eleget tehet.
 
-(6)[^2] Az ügyfél köteles a támogatott műveletet legkésőbb 2015. március 31. napjáig megvalósítani.
+(6)[^2] Az ügyfél köteles a támogatott műveletet legkésőbb 2015. május 31. napjáig megvalósítani.
 
 (7) Jelen intézkedés keretében támogatásra nem jogosult a védett vagy Natura 2000 területen gazdálkodó központi költségvetési szerv, önkormányzat és társulásai.
 
-[^2]: A 3. § (6) bekezdése az 1/2014. (IX. 15.) MvM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (6) bekezdése az 1/2014. (IX. 15.) MvM rendelet 19. § (1) bekezdésével megállapított, a 7/2015. (II. 17.) MvM rendelet 62. §-a szerint módosított szöveg.

@@ -1,5 +1,7 @@
 ## Értékelési táblázat a kisértékű beruházást végzők részére
 
+## 2K12648_0
+
 | 1 |  |  |  |  |
 
 | 2 | Értékelési szempont megnevezése | Értékelés/ellenőrzés módja | Pontszám |

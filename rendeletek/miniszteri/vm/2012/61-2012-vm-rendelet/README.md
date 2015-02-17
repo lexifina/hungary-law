@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-61-20-2
 | 2013-04-30 | 2012-61-20-2Y.4 | 30/2013. (IV. 30.) VM rendelet |
 | 2013-07-18 | 2012-61-20-2Y.5 | 59/2013. (VII. 15.) VM rendelet |
 | 2014-09-16 | 2012-61-20-2Y.6 | 1/2014. (IX. 15.) MvM rendelet |
+| 2015-02-17 | 2012-61-20-2Y.7 | 7/2015. (II. 17.) MvM rendelet |

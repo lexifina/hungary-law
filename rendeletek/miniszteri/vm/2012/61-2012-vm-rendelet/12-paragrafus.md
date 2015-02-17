@@ -1,6 +1,6 @@
-## 11/C. §[^10] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 1/2014. (IX. 15.) MvM rendelettel [a továbbiakban: 1/2014. (IX. 15.) MvM rendelet] megállapított 3. § (6) bekezdést és 9. § (3) bekezdést az 1/2014. (IX. 15.) MvM rendelet hatálybalépésekor[^11] folyamatban lévő ügyekben is alkalmazni kell.
+## 11/D. §[^18] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 7/2015. (II. 17.) MvM rendelettel [a továbbiakban: 7/2015. (II. 17.) MvM rendelet] megállapított 9. § (3) és (3a) bekezdést, 10. § (2)–(4), (7) és (11) bekezdést a 7/2015. (II. 17.) MvM rendelet hatálybalépésekor[^19] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
 ## 10. Az Európai Unió jogának való megfelelés
 
-[^10]: A 11/C. §-t az 1/2014. (IX. 15.) MvM rendelet 19. § (3) bekezdése iktatta be.
-[^11]: A hatálybalépés időpontja 2014. szeptember 16.
+[^18]: A 11/D. §-t a 7/2015. (II. 17.) MvM rendelet 61. § (5) bekezdése iktatta be.
+[^19]: A hatálybalépés napja: 2015. február 17.
