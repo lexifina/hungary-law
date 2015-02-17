@@ -52,7 +52,7 @@ e) az együttműködő partnerek vállalt kötelezettségeit, és
 
 f) az együttműködő partnerek cégszerű aláírását.
 
-(12)[^5] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően, az ügyfél köteles a támogatási határozattal jóváhagyott műveletet 2015. március 31. napjáig megvalósítani.
+(12)[^5] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően, az ügyfél köteles a támogatási határozattal jóváhagyott műveletet 2015. május 31. napjáig megvalósítani.
 
 (13) A Vhr. 24. § (1) bekezdésében foglaltaktól eltérően, az ügyfél a támogatási határozat közlésétől számított hat hónapon belül köteles az első kifizetési kérelmet benyújtani és a támogatási határozatban jóváhagyott – és a támogatási határozattal jóváhagyott egyéb elszámolható kiadások összegével csökkentett – támogatási összeg legalább 10%-ával elszámolni.
 
@@ -62,5 +62,5 @@ f) az együttműködő partnerek cégszerű aláírását.
 
 (16) Az e rendelet alapján nyújtott támogatások tekintetében a Vhr. 33. § (4) bekezdésében foglaltak nem alkalmazandóak.
 
-[^5]: A 4. § (12) bekezdése az 1/2014. (IX. 15.) MvM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (12) bekezdése az 1/2014. (IX. 15.) MvM rendelet 23. § (1) bekezdésével megállapított, a 7/2015. (II. 17.) MvM rendelet 67. §-a szerint módosított szöveg.
 [^6]: A 4. § (14) bekezdését az 1/2014. (IX. 15.) MvM rendelet 24. §-a hatályon kívül helyezte.
