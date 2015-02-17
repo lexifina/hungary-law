@@ -1,5 +1,3 @@
-## Értékelés
-
 |  | A | B | C | D |
 
 | 1. | Értékelési szempont megnevezése | Értékelés/ellenőrzés módja | Pontszám |
@@ -16,7 +14,7 @@
 
 | 4. évének kezdetétől | 10 |
 
-| 5. | Az ügyfél vállalja, hogy a működtetési időszak 4. évére vállalt EUME értéket az állattenyésztés, a kertészet, vagy az állattenyésztés és a kertészet együttes aránya adja | 84–100%-ban | Az üzleti terv részét képező SFH­betétlap alapján | 9 |
+| 5. | Az ügyfél vállalja, hogy a működtetési időszak 4. évére vállalt EUME értéket az állattenyésztés, a kertészet, vagy az állattenyésztés és a kertészet együttes aránya adja | 84–100%-ban | Az üzleti terv részét képező SFHbetétlap alapján | 9 |
 
 | 67–83%-ban | 7 |
 
@@ -82,7 +80,7 @@
 
 4. melléklet az 57/2012. (VI. 21.) VM rendelethez
 
-## Közreműködő bevonására vonatkozó magánokirat adattartalma
+Közreműködő bevonására vonatkozó magánokirat adattartalma
 
 1. a családtámogatási ellátásban részesülő ügyfél személyes adatai;
 

@@ -1,5 +1,3 @@
-## Agrár képzési területen végezhető képzések
-
 |  | A | B |
 
 | 1. | Végzettségi szint | Agrár képzési területen, az oklevélhez jutás érdekében elvégzett képzés neve |
@@ -301,3 +299,5 @@
 | zöldséghajtató és gombatermesztő szakmérnök |
 
 3. melléklet az 57/2012. (VI. 21.) VM rendelethez
+
+Értékelés
